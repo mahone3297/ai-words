@@ -7,33 +7,33 @@ description = '[læk] vi.&vi.&n.缺乏，不足'
 keywords = ['ai words', 'lack']
 +++
 
-## [Word](/en/post/word/): [Lack](/en/post/lack/)
+## [Word](/post/word/): [Lack](/post/lack/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /læk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/) [of](/en/post/of/) [not](/en/post/not/) having [something](/en/post/something/) [or](/en/post/or/) [being](/en/post/being/) deficient [in](/en/post/in/) [something](/en/post/something/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [project](/en/post/project/) suffered [from](/en/post/from/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) funding."
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "There's [no](/en/post/no/) [lack](/en/post/lack/) [of](/en/post/of/) [enthusiasm](/en/post/enthusiasm/) [among](/en/post/among/) [the](/en/post/the/) [team](/en/post/team/) members, [just](/en/post/just/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) resources."
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [or](/post/or/) [condition](/post/condition/) [of](/post/of/) [not](/post/not/) having [something](/post/something/) [or](/post/or/) [being](/post/being/) deficient [in](/post/in/) [something](/post/something/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [project](/post/project/) suffered [from](/post/from/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) funding."
+  - [Example](/post/example/) [Sentence](/post/sentence/): "There's [no](/post/no/) [lack](/post/lack/) [of](/post/of/) [enthusiasm](/post/enthusiasm/) [among](/post/among/) [the](/post/the/) [team](/post/team/) members, [just](/post/just/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) resources."
   
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [without](/en/post/without/) [or](/en/post/or/) [not](/en/post/not/) [have](/en/post/have/) [enough](/en/post/enough/) [of](/en/post/of/) [something](/en/post/something/); [to](/en/post/to/) [be](/en/post/be/) deficient [in](/en/post/in/). 
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[She](/en/post/she/) lacks [confidence](/en/post/confidence/) [when](/en/post/when/) speaking [in](/en/post/in/) [public](/en/post/public/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) [without](/post/without/) [or](/post/or/) [not](/post/not/) [have](/post/have/) [enough](/post/enough/) [of](/post/of/) [something](/post/something/); [to](/post/to/) [be](/post/be/) deficient [in](/post/in/). 
+  - [Example](/post/example/) [Sentence](/post/sentence/): "[She](/post/she/) lacks [confidence](/post/confidence/) [when](/post/when/) speaking [in](/post/in/) [public](/post/public/)."
 
 ## Phrases
-- "[Lack](/en/post/lack/) [of](/en/post/of/)" is [commonly](/en/post/commonly/) [used](/en/post/used/) [to](/en/post/to/) denote [absence](/en/post/absence/) [or](/en/post/or/) deficiency [of](/en/post/of/) [something](/en/post/something/), e.g., "[a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [sleep](/en/post/sleep/) [can](/en/post/can/) [affect](/en/post/affect/) productivity."
-- "[For](/en/post/for/) [lack](/en/post/lack/) [of](/en/post/of/) [a](/en/post/a/) [better](/en/post/better/) [word](/en/post/word/)" is [used](/en/post/used/) [when](/en/post/when/) [one](/en/post/one/) cannot [find](/en/post/find/) [a](/en/post/a/) [more](/en/post/more/) [suitable](/en/post/suitable/) [term](/en/post/term/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/), e.g., "I'll [call](/en/post/call/) [it](/en/post/it/) [a](/en/post/a/) '[device](/en/post/device/)' [for](/en/post/for/) [lack](/en/post/lack/) [of](/en/post/of/) [a](/en/post/a/) [better](/en/post/better/) [word](/en/post/word/)."
+- "[Lack](/post/lack/) [of](/post/of/)" is [commonly](/post/commonly/) [used](/post/used/) [to](/post/to/) denote [absence](/post/absence/) [or](/post/or/) deficiency [of](/post/of/) [something](/post/something/), e.g., "[a](/post/a/) [lack](/post/lack/) [of](/post/of/) [sleep](/post/sleep/) [can](/post/can/) [affect](/post/affect/) productivity."
+- "[For](/post/for/) [lack](/post/lack/) [of](/post/of/) [a](/post/a/) [better](/post/better/) [word](/post/word/)" is [used](/post/used/) [when](/post/when/) [one](/post/one/) cannot [find](/post/find/) [a](/post/a/) [more](/post/more/) [suitable](/post/suitable/) [term](/post/term/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/), e.g., "I'll [call](/post/call/) [it](/post/it/) [a](/post/a/) '[device](/post/device/)' [for](/post/for/) [lack](/post/lack/) [of](/post/of/) [a](/post/a/) [better](/post/better/) [word](/post/word/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Despite](/en/post/despite/) [his](/en/post/his/) [many](/en/post/many/) talents, [he](/en/post/he/) felt [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [direction](/en/post/direction/) [in](/en/post/in/) [his](/en/post/his/) [career](/en/post/career/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) company's [success](/en/post/success/) does [not](/en/post/not/) [lack](/en/post/lack/) [due](/en/post/due/) [to](/en/post/to/) innovation, [but](/en/post/but/) [rather](/en/post/rather/) [its](/en/post/its/) [poor](/en/post/poor/) marketing [strategy](/en/post/strategy/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Despite](/post/despite/) [his](/post/his/) [many](/post/many/) talents, [he](/post/he/) felt [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [direction](/post/direction/) [in](/post/in/) [his](/post/his/) [career](/post/career/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) company's [success](/post/success/) does [not](/post/not/) [lack](/post/lack/) [due](/post/due/) [to](/post/to/) innovation, [but](/post/but/) [rather](/post/rather/) [its](/post/its/) [poor](/post/poor/) marketing [strategy](/post/strategy/)."
 
 ## Synonyms
 - Insufficiency
-- [Shortage](/en/post/shortage/)
+- [Shortage](/post/shortage/)
 - Deficiency
 - Scarcity
-- [Absence](/en/post/absence/)
-- [Want](/en/post/want/)
-- [Need](/en/post/need/)
+- [Absence](/post/absence/)
+- [Want](/post/want/)
+- [Need](/post/need/)
 - Inadequacy
 - Nonexistence

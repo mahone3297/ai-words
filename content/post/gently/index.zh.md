@@ -11,19 +11,19 @@ keywords = ['ai words', 'gently']
 /gentli/
 
 ## 释义
-- **副词**: 轻轻地，温柔地，文雅地。例如: "[He](/post/he/) moved [the](/post/the/) [vase](/post/vase/) [gently](/post/gently/) [to](/post/to/) [avoid](/post/avoid/) breaking [it](/post/it/)."
-- **形容词**: 温和的，柔和的。例如: "[She](/post/she/) has [a](/post/a/) [gentle](/post/gentle/) [nature](/post/nature/)."
+- **副词**: 轻轻地，温柔地，文雅地。例如: "[He](/zh/post/he/) moved [the](/zh/post/the/) [vase](/zh/post/vase/) [gently](/zh/post/gently/) [to](/zh/post/to/) [avoid](/zh/post/avoid/) breaking [it](/zh/post/it/)."
+- **形容词**: 温和的，柔和的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [gentle](/zh/post/gentle/) [nature](/zh/post/nature/)."
 
 ## 短语
-- "[Gently](/post/gently/) does [it](/post/it/)" 意味着要小心行事，慢慢来。
-- "[Gently](/post/gently/) tapping" 指轻轻地敲击。
+- "[Gently](/zh/post/gently/) does [it](/zh/post/it/)" 意味着要小心行事，慢慢来。
+- "[Gently](/zh/post/gently/) tapping" 指轻轻地敲击。
 
 ## 例句
-- 副词: "[She](/post/she/) stroked [her](/post/her/) [cat](/post/cat/) [gently](/post/gently/) [to](/post/to/) [calm](/post/calm/) [it](/post/it/) [down](/post/down/)."
-- 形容词: "[The](/post/the/) [breeze](/post/breeze/) was [so](/post/so/) [gentle](/post/gentle/) [that](/post/that/) [it](/post/it/) barely moved [the](/post/the/) leaves."
+- 副词: "[She](/zh/post/she/) stroked [her](/zh/post/her/) [cat](/zh/post/cat/) [gently](/zh/post/gently/) [to](/zh/post/to/) [calm](/zh/post/calm/) [it](/zh/post/it/) [down](/zh/post/down/)."
+- 形容词: "[The](/zh/post/the/) [breeze](/zh/post/breeze/) was [so](/zh/post/so/) [gentle](/zh/post/gentle/) [that](/zh/post/that/) [it](/zh/post/it/) barely moved [the](/zh/post/the/) leaves."
 
 ## 同义词
-- [Softly](/post/softly/)
+- [Softly](/zh/post/softly/)
 - Quietly
 - Calmly
 - Delicately

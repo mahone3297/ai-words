@@ -7,33 +7,33 @@ description = '[ˈtraifl] n.小事，琐事；少许'
 keywords = ['ai words', 'trifle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /trɪfl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/), unimportant [matter](/en/post/matter/); [a](/en/post/a/) trifling [thing](/en/post/thing/). "[A](/en/post/a/) [trifle](/en/post/trifle/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [minor](/en/post/minor/) annoyance [or](/en/post/or/) [a](/en/post/a/) light-hearted [joke](/en/post/joke/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [treat](/en/post/treat/) [with](/en/post/with/) [slight](/en/post/slight/) [importance](/en/post/importance/) [or](/en/post/or/) [neglect](/en/post/neglect/); [to](/en/post/to/) [regard](/en/post/regard/) [as](/en/post/as/) insignificant. "[She](/en/post/she/) trifled [with](/en/post/with/) [her](/en/post/her/) responsibilities."
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/), unimportant [matter](/post/matter/); [a](/post/a/) trifling [thing](/post/thing/). "[A](/post/a/) [trifle](/post/trifle/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [minor](/post/minor/) annoyance [or](/post/or/) [a](/post/a/) light-hearted [joke](/post/joke/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [treat](/post/treat/) [with](/post/with/) [slight](/post/slight/) [importance](/post/importance/) [or](/post/or/) [neglect](/post/neglect/); [to](/post/to/) [regard](/post/regard/) [as](/post/as/) insignificant. "[She](/post/she/) trifled [with](/post/with/) [her](/post/her/) responsibilities."
 
 ## Phrases
-- "[Not](/en/post/not/) [worth](/en/post/worth/) [a](/en/post/a/) [trifle](/en/post/trifle/)" implies [something](/en/post/something/) is [worthless](/en/post/worthless/) [or](/en/post/or/) negligible.
-- "[To](/en/post/to/) [take](/en/post/take/) [something](/en/post/something/) [for](/en/post/for/) granted" [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [treat](/en/post/treat/) [it](/en/post/it/) [as](/en/post/as/) [a](/en/post/a/) [trifle](/en/post/trifle/).
-- "[A](/en/post/a/) [trifle](/en/post/trifle/) [of](/en/post/of/) [this](/en/post/this/)" [or](/en/post/or/) "[A](/en/post/a/) [trifle](/en/post/trifle/) [of](/en/post/of/) [that](/en/post/that/)" refers [to](/en/post/to/) [a](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [or](/en/post/or/) [portion](/en/post/portion/).
+- "[Not](/post/not/) [worth](/post/worth/) [a](/post/a/) [trifle](/post/trifle/)" implies [something](/post/something/) is [worthless](/post/worthless/) [or](/post/or/) negligible.
+- "[To](/post/to/) [take](/post/take/) [something](/post/something/) [for](/post/for/) granted" [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) [treat](/post/treat/) [it](/post/it/) [as](/post/as/) [a](/post/a/) [trifle](/post/trifle/).
+- "[A](/post/a/) [trifle](/post/trifle/) [of](/post/of/) [this](/post/this/)" [or](/post/or/) "[A](/post/a/) [trifle](/post/trifle/) [of](/post/of/) [that](/post/that/)" refers [to](/post/to/) [a](/post/a/) [small](/post/small/) [amount](/post/amount/) [or](/post/or/) [portion](/post/portion/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) dismissed [his](/en/post/his/) concerns [as](/en/post/as/) [mere](/en/post/mere/) trifles."
-- **[Verb](/en/post/verb/)**: "Don't [let](/en/post/let/) [his](/en/post/his/) complaints [about](/en/post/about/) [the](/en/post/the/) [work](/en/post/work/) [be](/en/post/be/) [a](/en/post/a/) [trifle](/en/post/trifle/) – [they](/en/post/they/) [show](/en/post/show/) he's passionate [about](/en/post/about/) [it](/en/post/it/)."
-- "[He](/en/post/he/) solved [the](/en/post/the/) [problem](/en/post/problem/) [with](/en/post/with/) [a](/en/post/a/) [trifle](/en/post/trifle/) [of](/en/post/of/) [effort](/en/post/effort/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) dismissed [his](/post/his/) concerns [as](/post/as/) [mere](/post/mere/) trifles."
+- **[Verb](/post/verb/)**: "Don't [let](/post/let/) [his](/post/his/) complaints [about](/post/about/) [the](/post/the/) [work](/post/work/) [be](/post/be/) [a](/post/a/) [trifle](/post/trifle/) – [they](/post/they/) [show](/post/show/) he's passionate [about](/post/about/) [it](/post/it/)."
+- "[He](/post/he/) solved [the](/post/the/) [problem](/post/problem/) [with](/post/with/) [a](/post/a/) [trifle](/post/trifle/) [of](/post/of/) [effort](/post/effort/)."
 
 ## Synonyms
-- [Small](/en/post/small/) [matter](/en/post/matter/)
+- [Small](/post/small/) [matter](/post/matter/)
 - Triviality
 - Indifference
 - Insignificant
 - Negligible
 
 ## Antonyms
-- [Importance](/en/post/importance/)
-- [Significance](/en/post/significance/)
-- [Weight](/en/post/weight/)
-- [Gravity](/en/post/gravity/)
+- [Importance](/post/importance/)
+- [Significance](/post/significance/)
+- [Weight](/post/weight/)
+- [Gravity](/post/gravity/)
 - Matter-of-factness

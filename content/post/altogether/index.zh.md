@@ -11,20 +11,20 @@ keywords = ['ai words', 'altogether']
 /əˈlɔːtəgeɪt/
 
 ## 释义
-- **副词**: 完全地，全部地；总计。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [consider](/post/consider/) [all](/post/all/) [the](/post/the/) facts [altogether](/post/altogether/)." 
-- **形容词**: 总共的，全部的。例如: "[There](/post/there/) were [altogether](/post/altogether/) 50 [people](/post/people/) [at](/post/at/) [the](/post/the/) [event](/post/event/)."
+- **副词**: 完全地，全部地；总计。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [consider](/zh/post/consider/) [all](/zh/post/all/) [the](/zh/post/the/) facts [altogether](/zh/post/altogether/)." 
+- **形容词**: 总共的，全部的。例如: "[There](/zh/post/there/) were [altogether](/zh/post/altogether/) 50 [people](/zh/post/people/) [at](/zh/post/at/) [the](/zh/post/the/) [event](/zh/post/event/)."
 
 ## 短语
-- "[altogether](/post/altogether/) [different](/post/different/)" 表示完全不同。
-- "[altogether](/post/altogether/) [now](/post/now/)" 用于指挥众人一起做某事，如唱歌或行动。
+- "[altogether](/zh/post/altogether/) [different](/zh/post/different/)" 表示完全不同。
+- "[altogether](/zh/post/altogether/) [now](/zh/post/now/)" 用于指挥众人一起做某事，如唱歌或行动。
 
 ## 例句
-- 副词: "[The](/post/the/) [project](/post/project/) was [a](/post/a/) [failure](/post/failure/) [altogether](/post/altogether/)."
-- 形容词: "[The](/post/the/) [cost](/post/cost/) [of](/post/of/) [the](/post/the/) [trip](/post/trip/) was [altogether](/post/altogether/) [more](/post/more/) [than](/post/than/) [we](/post/we/) expected."
+- 副词: "[The](/zh/post/the/) [project](/zh/post/project/) was [a](/zh/post/a/) [failure](/zh/post/failure/) [altogether](/zh/post/altogether/)."
+- 形容词: "[The](/zh/post/the/) [cost](/zh/post/cost/) [of](/zh/post/of/) [the](/zh/post/the/) [trip](/zh/post/trip/) was [altogether](/zh/post/altogether/) [more](/zh/post/more/) [than](/zh/post/than/) [we](/zh/post/we/) expected."
 
 ## 同义词
-- [completely](/post/completely/)
+- [completely](/zh/post/completely/)
 - entirely
 - totally
 - fully
-- [in](/post/in/) [all](/post/all/)
+- [in](/zh/post/in/) [all](/zh/post/all/)

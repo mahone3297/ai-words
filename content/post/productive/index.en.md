@@ -7,33 +7,33 @@ description = '[prəˈdʌktiv] a.生产的；丰饶的'
 keywords = ['ai words', 'productive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈdʌktɪv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Productive](/en/post/productive/)** (n): [A](/en/post/a/) [person](/en/post/person/), [process](/en/post/process/), [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) generates [or](/en/post/or/) yields [a](/en/post/a/) [significant](/en/post/significant/) [amount](/en/post/amount/) [of](/en/post/of/) [output](/en/post/output/), results, [or](/en/post/or/) [value](/en/post/value/). [Example](/en/post/example/): "[A](/en/post/a/) [productive](/en/post/productive/) [worker](/en/post/worker/) is known [for](/en/post/for/) [their](/en/post/their/) [high](/en/post/high/) [output](/en/post/output/) [of](/en/post/of/) completed tasks."
+### [Noun](/post/noun/)
+- **[Productive](/post/productive/)** (n): [A](/post/a/) [person](/post/person/), [process](/post/process/), [or](/post/or/) [thing](/post/thing/) [that](/post/that/) generates [or](/post/or/) yields [a](/post/a/) [significant](/post/significant/) [amount](/post/amount/) [of](/post/of/) [output](/post/output/), results, [or](/post/or/) [value](/post/value/). [Example](/post/example/): "[A](/post/a/) [productive](/post/productive/) [worker](/post/worker/) is known [for](/post/for/) [their](/post/their/) [high](/post/high/) [output](/post/output/) [of](/post/of/) completed tasks."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [be](/en/post/be/) [productive](/en/post/productive/)** (v): [To](/en/post/to/) [work](/en/post/work/) efficiently [and](/en/post/and/) effectively, producing [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) results [or](/en/post/or/) outputs. [Example](/en/post/example/): "[She](/en/post/she/) spends [her](/en/post/her/) days [being](/en/post/being/) [highly](/en/post/highly/) [productive](/en/post/productive/) [in](/en/post/in/) [the](/en/post/the/) [office](/en/post/office/)."
-- **[To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [productive](/en/post/productive/)** (v): [To](/en/post/to/) [convert](/en/post/convert/) resources [into](/en/post/into/) [useful](/en/post/useful/) outputs [or](/en/post/or/) achievements. [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) aims [to](/en/post/to/) [make](/en/post/make/) [their](/en/post/their/) meetings [more](/en/post/more/) [productive](/en/post/productive/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [be](/post/be/) [productive](/post/productive/)** (v): [To](/post/to/) [work](/post/work/) efficiently [and](/post/and/) effectively, producing [a](/post/a/) [lot](/post/lot/) [of](/post/of/) results [or](/post/or/) outputs. [Example](/post/example/): "[She](/post/she/) spends [her](/post/her/) days [being](/post/being/) [highly](/post/highly/) [productive](/post/productive/) [in](/post/in/) [the](/post/the/) [office](/post/office/)."
+- **[To](/post/to/) [make](/post/make/) [something](/post/something/) [productive](/post/productive/)** (v): [To](/post/to/) [convert](/post/convert/) resources [into](/post/into/) [useful](/post/useful/) outputs [or](/post/or/) achievements. [Example](/post/example/): "[The](/post/the/) [company](/post/company/) aims [to](/post/to/) [make](/post/make/) [their](/post/their/) meetings [more](/post/more/) [productive](/post/productive/)."
 
 ## Phrases
-- "[Highly](/en/post/highly/) [productive](/en/post/productive/)" describes [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [that](/en/post/that/) achieves [a](/en/post/a/) [lot](/en/post/lot/).
-- "[Productive](/en/post/productive/) [work](/en/post/work/) habits" [refer](/en/post/refer/) [to](/en/post/to/) [efficient](/en/post/efficient/) routines [that](/en/post/that/) [lead](/en/post/lead/) [to](/en/post/to/) [success](/en/post/success/).
-- "Maximizing productivity" is [about](/en/post/about/) optimizing one's [output](/en/post/output/).
+- "[Highly](/post/highly/) [productive](/post/productive/)" describes [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [that](/post/that/) achieves [a](/post/a/) [lot](/post/lot/).
+- "[Productive](/post/productive/) [work](/post/work/) habits" [refer](/post/refer/) [to](/post/to/) [efficient](/post/efficient/) routines [that](/post/that/) [lead](/post/lead/) [to](/post/to/) [success](/post/success/).
+- "Maximizing productivity" is [about](/post/about/) optimizing one's [output](/post/output/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [productive](/en/post/productive/) [garden](/en/post/garden/) yielded [a](/en/post/a/) bountiful [harvest](/en/post/harvest/) [this](/en/post/this/) [season](/en/post/season/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [break](/en/post/break/) [to](/en/post/to/) [increase](/en/post/increase/) [her](/en/post/her/) productivity [during](/en/post/during/) [the](/en/post/the/) [day](/en/post/day/)."
-- **[To](/en/post/to/) [make](/en/post/make/) [productive](/en/post/productive/) [use](/en/post/use/) [of](/en/post/of/) [time](/en/post/time/)**: "I'm trying [to](/en/post/to/) [make](/en/post/make/) [every](/en/post/every/) [minute](/en/post/minute/) [count](/en/post/count/) [to](/en/post/to/) [be](/en/post/be/) [more](/en/post/more/) [productive](/en/post/productive/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [productive](/post/productive/) [garden](/post/garden/) yielded [a](/post/a/) bountiful [harvest](/post/harvest/) [this](/post/this/) [season](/post/season/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [break](/post/break/) [to](/post/to/) [increase](/post/increase/) [her](/post/her/) productivity [during](/post/during/) [the](/post/the/) [day](/post/day/)."
+- **[To](/post/to/) [make](/post/make/) [productive](/post/productive/) [use](/post/use/) [of](/post/of/) [time](/post/time/)**: "I'm trying [to](/post/to/) [make](/post/make/) [every](/post/every/) [minute](/post/minute/) [count](/post/count/) [to](/post/to/) [be](/post/be/) [more](/post/more/) [productive](/post/productive/)."
 
 ## Synonyms
-- [Efficient](/en/post/efficient/)
+- [Efficient](/post/efficient/)
 - Accomplished
 - Result-oriented
-- [Fruitful](/en/post/fruitful/)
+- [Fruitful](/post/fruitful/)
 - Output-focused
-- [Productive](/en/post/productive/) [output](/en/post/output/)
-- [Productive](/en/post/productive/) [capacity](/en/post/capacity/)
+- [Productive](/post/productive/) [output](/post/output/)
+- [Productive](/post/productive/) [capacity](/post/capacity/)
 - High-yielding

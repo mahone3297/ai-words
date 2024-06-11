@@ -11,19 +11,19 @@ keywords = ['ai words', 'cow']
 /kəʊ/
 
 ## 释义
-- **名词 n**: 家畜，尤指母牛。例如: "[The](/post/the/) [farmer](/post/farmer/) was herding [his](/post/his/) cows [back](/post/back/) [to](/post/to/) [the](/post/the/) [barn](/post/barn/)."
-- **名词 n**: 女性（贬义，俚语）。例如: "She's [a](/post/a/) [tough](/post/tough/) cookie, [that](/post/that/) [cow](/post/cow/)."
+- **名词 n**: 家畜，尤指母牛。例如: "[The](/zh/post/the/) [farmer](/zh/post/farmer/) was herding [his](/zh/post/his/) cows [back](/zh/post/back/) [to](/zh/post/to/) [the](/zh/post/the/) [barn](/zh/post/barn/)."
+- **名词 n**: 女性（贬义，俚语）。例如: "She's [a](/zh/post/a/) [tough](/zh/post/tough/) cookie, [that](/zh/post/that/) [cow](/zh/post/cow/)."
 
 ## 短语
-- "[milk](/post/milk/) [cow](/post/cow/)" 指产奶的母牛。
-- "[cow](/post/cow/) [herd](/post/herd/)" 指一群牛。
+- "[milk](/zh/post/milk/) [cow](/zh/post/cow/)" 指产奶的母牛。
+- "[cow](/zh/post/cow/) [herd](/zh/post/herd/)" 指一群牛。
 
 ## 例句
-- 名词: "[The](/post/the/) calf was [following](/post/following/) [its](/post/its/) [mother](/post/mother/), [the](/post/the/) [cow](/post/cow/), [around](/post/around/) [the](/post/the/) [field](/post/field/)."
-- 名词（俚语）: "[She](/post/she/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [real](/post/real/) [cow](/post/cow/) [when](/post/when/) she's [angry](/post/angry/)."
+- 名词: "[The](/zh/post/the/) calf was [following](/zh/post/following/) [its](/zh/post/its/) [mother](/zh/post/mother/), [the](/zh/post/the/) [cow](/zh/post/cow/), [around](/zh/post/around/) [the](/zh/post/the/) [field](/zh/post/field/)."
+- 名词（俚语）: "[She](/zh/post/she/) [can](/zh/post/can/) [be](/zh/post/be/) [a](/zh/post/a/) [real](/zh/post/real/) [cow](/zh/post/cow/) [when](/zh/post/when/) she's [angry](/zh/post/angry/)."
 
 ## 同义词
 - Heifer (年轻母牛)
 - Bovine (与牛有关的)
-- [Female](/post/female/) [cattle](/post/cattle/)
+- [Female](/zh/post/female/) [cattle](/zh/post/cattle/)
 - (俚语) Bitch (贬义，用于女性，非正式)

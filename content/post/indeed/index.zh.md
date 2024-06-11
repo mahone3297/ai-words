@@ -11,19 +11,19 @@ keywords = ['ai words', 'indeed']
 /ɪnˈdiːd/
 
 ## 释义
-- **副词**: 确实，的确，无疑地。用来强调事实或同意某人的观点。例如: "[It](/post/it/) was [indeed](/post/indeed/) [a](/post/a/) [beautiful](/post/beautiful/) [day](/post/day/)."，"[She](/post/she/) works [hard](/post/hard/), [indeed](/post/indeed/)."
-- **连词**: 实际上，事实上，用于引入一个与前文对比的事实。例如: "[He](/post/he/) seemed [calm](/post/calm/), [but](/post/but/) [indeed](/post/indeed/) [he](/post/he/) was [nervous](/post/nervous/)."
+- **副词**: 确实，的确，无疑地。用来强调事实或同意某人的观点。例如: "[It](/zh/post/it/) was [indeed](/zh/post/indeed/) [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [day](/zh/post/day/)."，"[She](/zh/post/she/) works [hard](/zh/post/hard/), [indeed](/zh/post/indeed/)."
+- **连词**: 实际上，事实上，用于引入一个与前文对比的事实。例如: "[He](/zh/post/he/) seemed [calm](/zh/post/calm/), [but](/zh/post/but/) [indeed](/zh/post/indeed/) [he](/zh/post/he/) was [nervous](/zh/post/nervous/)."
 
 ## 短语
-- "[indeed](/post/indeed/) [and](/post/and/)" 用于加强语气，表示确实如此。例如: "[Indeed](/post/indeed/) [and](/post/and/) [it](/post/it/) was [the](/post/the/) [best](/post/best/) [meal](/post/meal/) I've [ever](/post/ever/) had."
+- "[indeed](/zh/post/indeed/) [and](/zh/post/and/)" 用于加强语气，表示确实如此。例如: "[Indeed](/zh/post/indeed/) [and](/zh/post/and/) [it](/zh/post/it/) was [the](/zh/post/the/) [best](/zh/post/best/) [meal](/zh/post/meal/) I've [ever](/zh/post/ever/) had."
 
 ## 例句
-- 副词: "[The](/post/the/) [movie](/post/movie/) was [indeed](/post/indeed/) [as](/post/as/) [good](/post/good/) [as](/post/as/) [everyone](/post/everyone/) said."
-- 连词: "[He](/post/he/) appeared [to](/post/to/) [be](/post/be/) [happy](/post/happy/), [but](/post/but/) [indeed](/post/indeed/), [he](/post/he/) was deeply troubled."
+- 副词: "[The](/zh/post/the/) [movie](/zh/post/movie/) was [indeed](/zh/post/indeed/) [as](/zh/post/as/) [good](/zh/post/good/) [as](/zh/post/as/) [everyone](/zh/post/everyone/) said."
+- 连词: "[He](/zh/post/he/) appeared [to](/zh/post/to/) [be](/zh/post/be/) [happy](/zh/post/happy/), [but](/zh/post/but/) [indeed](/zh/post/indeed/), [he](/zh/post/he/) was deeply troubled."
 
 ## 同义词
-- [truly](/post/truly/)
-- [certainly](/post/certainly/)
-- [absolutely](/post/absolutely/)
-- [in](/post/in/) [fact](/post/fact/)
-- [actually](/post/actually/)
+- [truly](/zh/post/truly/)
+- [certainly](/zh/post/certainly/)
+- [absolutely](/zh/post/absolutely/)
+- [in](/zh/post/in/) [fact](/zh/post/fact/)
+- [actually](/zh/post/actually/)

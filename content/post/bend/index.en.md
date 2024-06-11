@@ -7,31 +7,31 @@ description = '[bend] vt.使弯曲 vi.弯曲'
 keywords = ['ai words', 'bend']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɛnd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) curved [shape](/en/post/shape/) formed [when](/en/post/when/) [something](/en/post/something/) is bent, [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [flexible](/en/post/flexible/) [material](/en/post/material/) [like](/en/post/like/) [a](/en/post/a/) [rod](/en/post/rod/) [or](/en/post/or/) [wire](/en/post/wire/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [branch](/en/post/branch/) bent [under](/en/post/under/) [the](/en/post/the/) [weight](/en/post/weight/) [of](/en/post/of/) [the](/en/post/the/) apples."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [change](/en/post/change/) [the](/en/post/the/) [shape](/en/post/shape/) [of](/en/post/of/) [something](/en/post/something/) [by](/en/post/by/) applying [force](/en/post/force/), [usually](/en/post/usually/) [so](/en/post/so/) [it](/en/post/it/) curves [or](/en/post/or/) folds. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) bent [the](/en/post/the/) [metal](/en/post/metal/) [into](/en/post/into/) [a](/en/post/a/) [circle](/en/post/circle/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [accommodate](/en/post/accommodate/) [or](/en/post/or/) [adapt](/en/post/adapt/) [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [situation](/en/post/situation/) [or](/en/post/or/) [request](/en/post/request/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) bent [his](/en/post/his/) [schedule](/en/post/schedule/) [to](/en/post/to/) [meet](/en/post/meet/) [her](/en/post/her/) [at](/en/post/at/) [the](/en/post/the/) [airport](/en/post/airport/)."
-- **[Verb](/en/post/verb/)**: ([Physics](/en/post/physics/)) [To](/en/post/to/) deviate [from](/en/post/from/) [a](/en/post/a/) [straight](/en/post/straight/) [path](/en/post/path/), [as](/en/post/as/) [light](/en/post/light/) [or](/en/post/or/) [radio](/en/post/radio/) waves. [For](/en/post/for/) [example](/en/post/example/): "[Light](/en/post/light/) [can](/en/post/can/) [bend](/en/post/bend/) [around](/en/post/around/) [a](/en/post/a/) [corner](/en/post/corner/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) allows flexibility [or](/en/post/or/) [movement](/en/post/movement/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) moved [with](/en/post/with/) [a](/en/post/a/) [graceful](/en/post/graceful/) [bend](/en/post/bend/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) curved [shape](/post/shape/) formed [when](/post/when/) [something](/post/something/) is bent, [often](/post/often/) [with](/post/with/) [a](/post/a/) [flexible](/post/flexible/) [material](/post/material/) [like](/post/like/) [a](/post/a/) [rod](/post/rod/) [or](/post/or/) [wire](/post/wire/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [branch](/post/branch/) bent [under](/post/under/) [the](/post/the/) [weight](/post/weight/) [of](/post/of/) [the](/post/the/) apples."
+- **[Verb](/post/verb/)**: [To](/post/to/) [change](/post/change/) [the](/post/the/) [shape](/post/shape/) [of](/post/of/) [something](/post/something/) [by](/post/by/) applying [force](/post/force/), [usually](/post/usually/) [so](/post/so/) [it](/post/it/) curves [or](/post/or/) folds. [For](/post/for/) [example](/post/example/): "[She](/post/she/) bent [the](/post/the/) [metal](/post/metal/) [into](/post/into/) [a](/post/a/) [circle](/post/circle/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [accommodate](/post/accommodate/) [or](/post/or/) [adapt](/post/adapt/) [to](/post/to/) [a](/post/a/) [new](/post/new/) [situation](/post/situation/) [or](/post/or/) [request](/post/request/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) bent [his](/post/his/) [schedule](/post/schedule/) [to](/post/to/) [meet](/post/meet/) [her](/post/her/) [at](/post/at/) [the](/post/the/) [airport](/post/airport/)."
+- **[Verb](/post/verb/)**: ([Physics](/post/physics/)) [To](/post/to/) deviate [from](/post/from/) [a](/post/a/) [straight](/post/straight/) [path](/post/path/), [as](/post/as/) [light](/post/light/) [or](/post/or/) [radio](/post/radio/) waves. [For](/post/for/) [example](/post/example/): "[Light](/post/light/) [can](/post/can/) [bend](/post/bend/) [around](/post/around/) [a](/post/a/) [corner](/post/corner/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) allows flexibility [or](/post/or/) [movement](/post/movement/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) moved [with](/post/with/) [a](/post/a/) [graceful](/post/graceful/) [bend](/post/bend/)."
 
 ## Phrases
-- "[Bend](/en/post/bend/) [over](/en/post/over/)" is [a](/en/post/a/) [request](/en/post/request/) [for](/en/post/for/) [someone](/en/post/someone/) [to](/en/post/to/) [lean](/en/post/lean/) [forward](/en/post/forward/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) [task](/en/post/task/).
-- "[Bend](/en/post/bend/) [the](/en/post/the/) rules" [means](/en/post/means/) [to](/en/post/to/) [break](/en/post/break/) [or](/en/post/or/) [ignore](/en/post/ignore/) [them](/en/post/them/) [slightly](/en/post/slightly/).
-- "[Bend](/en/post/bend/) one's [ear](/en/post/ear/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [long](/en/post/long/) [or](/en/post/or/) [intimate](/en/post/intimate/) [conversation](/en/post/conversation/).
-- "[Bend](/en/post/bend/) [time](/en/post/time/)" (figurative) is [to](/en/post/to/) manipulate [or](/en/post/or/) [stretch](/en/post/stretch/) [the](/en/post/the/) perception [of](/en/post/of/) [time](/en/post/time/).
+- "[Bend](/post/bend/) [over](/post/over/)" is [a](/post/a/) [request](/post/request/) [for](/post/for/) [someone](/post/someone/) [to](/post/to/) [lean](/post/lean/) [forward](/post/forward/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [specific](/post/specific/) [task](/post/task/).
+- "[Bend](/post/bend/) [the](/post/the/) rules" [means](/post/means/) [to](/post/to/) [break](/post/break/) [or](/post/or/) [ignore](/post/ignore/) [them](/post/them/) [slightly](/post/slightly/).
+- "[Bend](/post/bend/) one's [ear](/post/ear/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [long](/post/long/) [or](/post/or/) [intimate](/post/intimate/) [conversation](/post/conversation/).
+- "[Bend](/post/bend/) [time](/post/time/)" (figurative) is [to](/post/to/) manipulate [or](/post/or/) [stretch](/post/stretch/) [the](/post/the/) perception [of](/post/of/) [time](/post/time/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [bridge](/en/post/bridge/) had [a](/en/post/a/) [few](/en/post/few/) cracks [that](/en/post/that/) allowed [water](/en/post/water/) [to](/en/post/to/) seep [through](/en/post/through/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [artist](/en/post/artist/) carefully bent [the](/en/post/the/) [wire](/en/post/wire/) [into](/en/post/into/) [the](/en/post/the/) desired [shape](/en/post/shape/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was [willing](/en/post/willing/) [to](/en/post/to/) [bend](/en/post/bend/) [the](/en/post/the/) rules [to](/en/post/to/) [help](/en/post/help/) [his](/en/post/his/) [friend](/en/post/friend/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) executed [her](/en/post/her/) [dance](/en/post/dance/) moves [with](/en/post/with/) [a](/en/post/a/) [fluid](/en/post/fluid/) [bend](/en/post/bend/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [bridge](/post/bridge/) had [a](/post/a/) [few](/post/few/) cracks [that](/post/that/) allowed [water](/post/water/) [to](/post/to/) seep [through](/post/through/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [artist](/post/artist/) carefully bent [the](/post/the/) [wire](/post/wire/) [into](/post/into/) [the](/post/the/) desired [shape](/post/shape/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) was [willing](/post/willing/) [to](/post/to/) [bend](/post/bend/) [the](/post/the/) rules [to](/post/to/) [help](/post/help/) [his](/post/his/) [friend](/post/friend/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) executed [her](/post/her/) [dance](/post/dance/) moves [with](/post/with/) [a](/post/a/) [fluid](/post/fluid/) [bend](/post/bend/)."
 
 ## Synonyms
-- [Curve](/en/post/curve/)
+- [Curve](/post/curve/)
 - Flex
 - Arch
 - Hinge
-- [Yield](/en/post/yield/)
+- [Yield](/post/yield/)

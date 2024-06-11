@@ -7,40 +7,40 @@ description = '[ˈseifti] n.安全，保险'
 keywords = ['ai words', 'safety']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈfaɪti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [safe](/en/post/safe/) [from](/en/post/from/) [harm](/en/post/harm/) [or](/en/post/or/) [danger](/en/post/danger/); [security](/en/post/security/). [[Definition](/en/post/definition/) [source](/en/post/source/): Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[safety](/en/post/safety/))
-2. [The](/en/post/the/) [practice](/en/post/practice/) [or](/en/post/or/) [condition](/en/post/condition/) [of](/en/post/of/) [being](/en/post/being/) protected [from](/en/post/from/) [injury](/en/post/injury/), [risk](/en/post/risk/), [or](/en/post/or/) [harm](/en/post/harm/). [[Definition](/en/post/definition/) [source](/en/post/source/): Merriam-Webster](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[safety](/en/post/safety/))
+### [Noun](/post/noun/)
+1. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [safe](/post/safe/) [from](/post/from/) [harm](/post/harm/) [or](/post/or/) [danger](/post/danger/); [security](/post/security/). [[Definition](/post/definition/) [source](/post/source/): Oxford](https://en.oxforddictionaries.com/[definition](/post/definition/)/[safety](/post/safety/))
+2. [The](/post/the/) [practice](/post/practice/) [or](/post/or/) [condition](/post/condition/) [of](/post/of/) [being](/post/being/) protected [from](/post/from/) [injury](/post/injury/), [risk](/post/risk/), [or](/post/or/) [harm](/post/harm/). [[Definition](/post/definition/) [source](/post/source/): Merriam-Webster](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[safety](/post/safety/))
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [ensure](/en/post/ensure/) [or](/en/post/or/) [maintain](/en/post/maintain/) [the](/en/post/the/) [safety](/en/post/safety/) [of](/en/post/of/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [[Definition](/en/post/definition/) [source](/en/post/source/): Cambridge](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[safety](/en/post/safety/))
-2. [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [be](/en/post/be/) [confident](/en/post/confident/) [in](/en/post/in/) [the](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/) [risk](/en/post/risk/) [or](/en/post/or/) [harm](/en/post/harm/). [[Definition](/en/post/definition/) [source](/en/post/source/): Collins](https://www.collinsdictionary.com/[dictionary](/en/post/dictionary/)/english/[safe](/en/post/safe/))
+### [Verb](/post/verb/)
+1. [To](/post/to/) [ensure](/post/ensure/) [or](/post/or/) [maintain](/post/maintain/) [the](/post/the/) [safety](/post/safety/) [of](/post/of/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [[Definition](/post/definition/) [source](/post/source/): Cambridge](https://[dictionary](/post/dictionary/).cambridge.org/[dictionary](/post/dictionary/)/english/[safety](/post/safety/))
+2. [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [be](/post/be/) [confident](/post/confident/) [in](/post/in/) [the](/post/the/) [absence](/post/absence/) [of](/post/of/) [risk](/post/risk/) [or](/post/or/) [harm](/post/harm/). [[Definition](/post/definition/) [source](/post/source/): Collins](https://www.collinsdictionary.com/[dictionary](/post/dictionary/)/english/[safe](/post/safe/))
 
 ## Phrases
-- "[Safety](/en/post/safety/) [first](/en/post/first/)"
-- "[Safety](/en/post/safety/) measures"
-- "[Emergency](/en/post/emergency/) [safety](/en/post/safety/) procedures"
-- "[Public](/en/post/public/) [safety](/en/post/safety/) alert"
-- "[Child](/en/post/child/) [safety](/en/post/safety/) guidelines"
+- "[Safety](/post/safety/) [first](/post/first/)"
+- "[Safety](/post/safety/) measures"
+- "[Emergency](/post/emergency/) [safety](/post/safety/) procedures"
+- "[Public](/post/public/) [safety](/post/safety/) alert"
+- "[Child](/post/child/) [safety](/post/safety/) guidelines"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [safety](/en/post/safety/) [of](/en/post/of/) [the](/en/post/the/) passengers was [the](/en/post/the/) [top](/en/post/top/) priority [for](/en/post/for/) [the](/en/post/the/) [airline](/en/post/airline/)."
-- **[Verb](/en/post/verb/)**: "It's [important](/en/post/important/) [to](/en/post/to/) [safety](/en/post/safety/) [check](/en/post/check/) [all](/en/post/all/) [electrical](/en/post/electrical/) appliances [before](/en/post/before/) using [them](/en/post/them/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [child](/en/post/child/) felt [safe](/en/post/safe/) [and](/en/post/and/) [secure](/en/post/secure/) [in](/en/post/in/) [their](/en/post/their/) [new](/en/post/new/) [home](/en/post/home/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [safety](/post/safety/) [of](/post/of/) [the](/post/the/) passengers was [the](/post/the/) [top](/post/top/) priority [for](/post/for/) [the](/post/the/) [airline](/post/airline/)."
+- **[Verb](/post/verb/)**: "It's [important](/post/important/) [to](/post/to/) [safety](/post/safety/) [check](/post/check/) [all](/post/all/) [electrical](/post/electrical/) appliances [before](/post/before/) using [them](/post/them/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [child](/post/child/) felt [safe](/post/safe/) [and](/post/and/) [secure](/post/secure/) [in](/post/in/) [their](/post/their/) [new](/post/new/) [home](/post/home/)."
 
 ## Synonyms
-- [Security](/en/post/security/)
+- [Security](/post/security/)
 - Assurance
-- [Protection](/en/post/protection/)
+- [Protection](/post/protection/)
 - Safeguard
 - Preservation
 
 ## Antonyms
-- [Risk](/en/post/risk/)
-- [Hazard](/en/post/hazard/)
-- [Danger](/en/post/danger/)
+- [Risk](/post/risk/)
+- [Hazard](/post/hazard/)
+- [Danger](/post/danger/)
 - Vulnerability
-- [Exposure](/en/post/exposure/)
+- [Exposure](/post/exposure/)

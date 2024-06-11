@@ -7,30 +7,30 @@ description = '[ˈbjuːti] n.美，美丽；美人'
 keywords = ['ai words', 'beauty']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /beuˈti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [quality](/en/post/quality/) [or](/en/post/or/) [combination](/en/post/combination/) [of](/en/post/of/) qualities [that](/en/post/that/) gives [pleasure](/en/post/pleasure/) [to](/en/post/to/) [the](/en/post/the/) senses, [especially](/en/post/especially/) [beauty](/en/post/beauty/) [of](/en/post/of/) [form](/en/post/form/), [color](/en/post/color/), [or](/en/post/or/) [sound](/en/post/sound/); aesthetic [appeal](/en/post/appeal/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [beauty](/en/post/beauty/) [of](/en/post/of/) [the](/en/post/the/) [sunset](/en/post/sunset/) was breathtaking."
-- **[Adjective](/en/post/adjective/)**: (adj) [Attractive](/en/post/attractive/) [or](/en/post/or/) pleasing [to](/en/post/to/) [the](/en/post/the/) [eye](/en/post/eye/) [or](/en/post/or/) [mind](/en/post/mind/); having [a](/en/post/a/) visually [or](/en/post/or/) emotionally pleasing [appearance](/en/post/appearance/) [or](/en/post/or/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) timeless [beauty](/en/post/beauty/)."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [find](/en/post/find/) [something](/en/post/something/) [beautiful](/en/post/beautiful/) [or](/en/post/or/) appealing; [to](/en/post/to/) [appreciate](/en/post/appreciate/) [beauty](/en/post/beauty/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) finds [beauty](/en/post/beauty/) [in](/en/post/in/) [the](/en/post/the/) [simplicity](/en/post/simplicity/) [of](/en/post/of/) [nature](/en/post/nature/)."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [quality](/post/quality/) [or](/post/or/) [combination](/post/combination/) [of](/post/of/) qualities [that](/post/that/) gives [pleasure](/post/pleasure/) [to](/post/to/) [the](/post/the/) senses, [especially](/post/especially/) [beauty](/post/beauty/) [of](/post/of/) [form](/post/form/), [color](/post/color/), [or](/post/or/) [sound](/post/sound/); aesthetic [appeal](/post/appeal/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [beauty](/post/beauty/) [of](/post/of/) [the](/post/the/) [sunset](/post/sunset/) was breathtaking."
+- **[Adjective](/post/adjective/)**: (adj) [Attractive](/post/attractive/) [or](/post/or/) pleasing [to](/post/to/) [the](/post/the/) [eye](/post/eye/) [or](/post/or/) [mind](/post/mind/); having [a](/post/a/) visually [or](/post/or/) emotionally pleasing [appearance](/post/appearance/) [or](/post/or/) [quality](/post/quality/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) timeless [beauty](/post/beauty/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [find](/post/find/) [something](/post/something/) [beautiful](/post/beautiful/) [or](/post/or/) appealing; [to](/post/to/) [appreciate](/post/appreciate/) [beauty](/post/beauty/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) finds [beauty](/post/beauty/) [in](/post/in/) [the](/post/the/) [simplicity](/post/simplicity/) [of](/post/of/) [nature](/post/nature/)."
 
 ## Phrases
-- "[Appreciate](/en/post/appreciate/) [the](/en/post/the/) [beauty](/en/post/beauty/) [of](/en/post/of/) [art](/en/post/art/)" [means](/en/post/means/) [to](/en/post/to/) [recognize](/en/post/recognize/) [and](/en/post/and/) [enjoy](/en/post/enjoy/) [the](/en/post/the/) aesthetic qualities [of](/en/post/of/) [a](/en/post/a/) [work](/en/post/work/) [of](/en/post/of/) [art](/en/post/art/).
-- "[Inner](/en/post/inner/) [beauty](/en/post/beauty/)" refers [to](/en/post/to/) [the](/en/post/the/) attractiveness [or](/en/post/or/) [goodness](/en/post/goodness/) [of](/en/post/of/) [a](/en/post/a/) person's [character](/en/post/character/).
-- "[Beauty](/en/post/beauty/) is [in](/en/post/in/) [the](/en/post/the/) [eye](/en/post/eye/) [of](/en/post/of/) [the](/en/post/the/) beholder" suggests [that](/en/post/that/) [what](/en/post/what/) [one](/en/post/one/) [person](/en/post/person/) finds [beautiful](/en/post/beautiful/) [may](/en/post/may/) [not](/en/post/not/) [be](/en/post/be/) [the](/en/post/the/) [same](/en/post/same/) [for](/en/post/for/) [another](/en/post/another/).
+- "[Appreciate](/post/appreciate/) [the](/post/the/) [beauty](/post/beauty/) [of](/post/of/) [art](/post/art/)" [means](/post/means/) [to](/post/to/) [recognize](/post/recognize/) [and](/post/and/) [enjoy](/post/enjoy/) [the](/post/the/) aesthetic qualities [of](/post/of/) [a](/post/a/) [work](/post/work/) [of](/post/of/) [art](/post/art/).
+- "[Inner](/post/inner/) [beauty](/post/beauty/)" refers [to](/post/to/) [the](/post/the/) attractiveness [or](/post/or/) [goodness](/post/goodness/) [of](/post/of/) [a](/post/a/) person's [character](/post/character/).
+- "[Beauty](/post/beauty/) is [in](/post/in/) [the](/post/the/) [eye](/post/eye/) [of](/post/of/) [the](/post/the/) beholder" suggests [that](/post/that/) [what](/post/what/) [one](/post/one/) [person](/post/person/) finds [beautiful](/post/beautiful/) [may](/post/may/) [not](/post/not/) [be](/post/be/) [the](/post/the/) [same](/post/same/) [for](/post/for/) [another](/post/another/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) [always](/en/post/always/) admired [the](/en/post/the/) [beauty](/en/post/beauty/) [of](/en/post/of/) [the](/en/post/the/) [old](/en/post/old/) [cathedral](/en/post/cathedral/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [voice](/en/post/voice/) had [a](/en/post/a/) haunting [beauty](/en/post/beauty/) [that](/en/post/that/) touched everyone's [heart](/en/post/heart/)."
-- **[Verb](/en/post/verb/)**: "[Many](/en/post/many/) [people](/en/post/people/) strive [to](/en/post/to/) [cultivate](/en/post/cultivate/) [inner](/en/post/inner/) [beauty](/en/post/beauty/) [along](/en/post/along/) [with](/en/post/with/) [physical](/en/post/physical/) [appearance](/en/post/appearance/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) [always](/post/always/) admired [the](/post/the/) [beauty](/post/beauty/) [of](/post/of/) [the](/post/the/) [old](/post/old/) [cathedral](/post/cathedral/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [voice](/post/voice/) had [a](/post/a/) haunting [beauty](/post/beauty/) [that](/post/that/) touched everyone's [heart](/post/heart/)."
+- **[Verb](/post/verb/)**: "[Many](/post/many/) [people](/post/people/) strive [to](/post/to/) [cultivate](/post/cultivate/) [inner](/post/inner/) [beauty](/post/beauty/) [along](/post/along/) [with](/post/with/) [physical](/post/physical/) [appearance](/post/appearance/)."
 
 ## Synonyms
-- [Attraction](/en/post/attraction/)
+- [Attraction](/post/attraction/)
 - Charm
 - Elegance
-- [Grace](/en/post/grace/)
-- Handsomeness ([for](/en/post/for/) things)
+- [Grace](/post/grace/)
+- Handsomeness ([for](/post/for/) things)
 - Loveliness
 - Splendor
 - Exquisite
@@ -38,7 +38,7 @@ keywords = ['ai words', 'beauty']
 
 ## Antonyms
 - Ugliness
-- [Disgust](/en/post/disgust/)
+- [Disgust](/post/disgust/)
 - Awkwardness
 - Plainness
 - Mediocrity

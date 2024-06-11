@@ -7,34 +7,34 @@ description = '[ˈbritl] a.脆的；易损坏的'
 keywords = ['ai words', 'brittle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /brittəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized by脆的 (crisp [and](/en/post/and/) [easily](/en/post/easily/) [broken](/en/post/broken/)) fragility [or](/en/post/or/) brittleness, [often](/en/post/often/) referring [to](/en/post/to/) materials [or](/en/post/or/) temperaments. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [vase](/en/post/vase/) was [delicate](/en/post/delicate/) [and](/en/post/and/) [brittle](/en/post/brittle/)."
-- **[Noun](/en/post/noun/)**: [In](/en/post/in/) [some](/en/post/some/) cases, [this](/en/post/this/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [with](/en/post/with/) [a](/en/post/a/) [brittle](/en/post/brittle/) personality [or](/en/post/or/) disposition. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) [brittle](/en/post/brittle/) [sense](/en/post/sense/) [of](/en/post/of/) humor."
+- **[Adjective](/post/adjective/)**: Characterized by脆的 (crisp [and](/post/and/) [easily](/post/easily/) [broken](/post/broken/)) fragility [or](/post/or/) brittleness, [often](/post/often/) referring [to](/post/to/) materials [or](/post/or/) temperaments. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [vase](/post/vase/) was [delicate](/post/delicate/) [and](/post/and/) [brittle](/post/brittle/)."
+- **[Noun](/post/noun/)**: [In](/post/in/) [some](/post/some/) cases, [this](/post/this/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [person](/post/person/) [with](/post/with/) [a](/post/a/) [brittle](/post/brittle/) personality [or](/post/or/) disposition. [For](/post/for/) [example](/post/example/): "[She](/post/she/) had [a](/post/a/) [brittle](/post/brittle/) [sense](/post/sense/) [of](/post/of/) humor."
 
 ## Phrases
-- "[A](/en/post/a/) [brittle](/en/post/brittle/) [voice](/en/post/voice/)" describes [a](/en/post/a/) high-pitched, fragile [sound](/en/post/sound/).
-- "[Brittle](/en/post/brittle/) bones" is [a](/en/post/a/) [medical](/en/post/medical/) [term](/en/post/term/) [for](/en/post/for/) osteoporosis, characterized [by](/en/post/by/) weakened [and](/en/post/and/) fragile bones.
-- "[A](/en/post/a/) [brittle](/en/post/brittle/) [relationship](/en/post/relationship/)" implies [a](/en/post/a/) shaky [or](/en/post/or/) fragile [connection](/en/post/connection/) [between](/en/post/between/) [people](/en/post/people/).
+- "[A](/post/a/) [brittle](/post/brittle/) [voice](/post/voice/)" describes [a](/post/a/) high-pitched, fragile [sound](/post/sound/).
+- "[Brittle](/post/brittle/) bones" is [a](/post/a/) [medical](/post/medical/) [term](/post/term/) [for](/post/for/) osteoporosis, characterized [by](/post/by/) weakened [and](/post/and/) fragile bones.
+- "[A](/post/a/) [brittle](/post/brittle/) [relationship](/post/relationship/)" implies [a](/post/a/) shaky [or](/post/or/) fragile [connection](/post/connection/) [between](/post/between/) [people](/post/people/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [glass](/en/post/glass/) shattered [when](/en/post/when/) dropped [because](/en/post/because/) [it](/en/post/it/) was [so](/en/post/so/) [brittle](/en/post/brittle/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [brittle](/en/post/brittle/) [laughter](/en/post/laughter/) echoed [through](/en/post/through/) [the](/en/post/the/) [empty](/en/post/empty/) [room](/en/post/room/)."
-- **[Adjective](/en/post/adjective/) ([as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/))**: "[He](/en/post/he/) handled [criticism](/en/post/criticism/) [with](/en/post/with/) [a](/en/post/a/) [brittle](/en/post/brittle/) sensitivity."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [glass](/post/glass/) shattered [when](/post/when/) dropped [because](/post/because/) [it](/post/it/) was [so](/post/so/) [brittle](/post/brittle/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [brittle](/post/brittle/) [laughter](/post/laughter/) echoed [through](/post/through/) [the](/post/the/) [empty](/post/empty/) [room](/post/room/)."
+- **[Adjective](/post/adjective/) ([as](/post/as/) [a](/post/a/) [noun](/post/noun/))**: "[He](/post/he/) handled [criticism](/post/criticism/) [with](/post/with/) [a](/post/a/) [brittle](/post/brittle/) sensitivity."
 
 ## Synonyms
 - Fragile
 -脆的
 - Vulnerable
-- [Easily](/en/post/easily/) [broken](/en/post/broken/)
-- Brittle-hearted (referring [to](/en/post/to/) [emotional](/en/post/emotional/) fragility)
-- Brittle-minded (referring [to](/en/post/to/) [mental](/en/post/mental/) resilience)
+- [Easily](/post/easily/) [broken](/post/broken/)
+- Brittle-hearted (referring [to](/post/to/) [emotional](/post/emotional/) fragility)
+- Brittle-minded (referring [to](/post/to/) [mental](/post/mental/) resilience)
 
 ## Antonyms
 - Robust
-- [Strong](/en/post/strong/)
+- [Strong](/post/strong/)
 - Resilient
-- [Tough](/en/post/tough/)
+- [Tough](/post/tough/)
 - Unbreakable

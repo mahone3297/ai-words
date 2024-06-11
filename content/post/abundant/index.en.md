@@ -7,26 +7,26 @@ description = '[əˈbʌndənt] a.丰富的；大量的'
 keywords = ['ai words', 'abundant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈbʌndənt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Existing [or](/en/post/or/) [available](/en/post/available/) [in](/en/post/in/) [large](/en/post/large/) quantities; [plentiful](/en/post/plentiful/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was [abundant](/en/post/abundant/) [with](/en/post/with/) flowers."
-- **[Adjective](/en/post/adjective/)**: ([of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/), [emotion](/en/post/emotion/), [or](/en/post/or/) [quality](/en/post/quality/)) [Present](/en/post/present/) [in](/en/post/in/) [great](/en/post/great/) quantities [or](/en/post/or/) [to](/en/post/to/) [a](/en/post/a/) marked [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has an [abundant](/en/post/abundant/) [supply](/en/post/supply/) [of](/en/post/of/) [energy](/en/post/energy/)."
+- **[Adjective](/post/adjective/)**: Existing [or](/post/or/) [available](/post/available/) [in](/post/in/) [large](/post/large/) quantities; [plentiful](/post/plentiful/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was [abundant](/post/abundant/) [with](/post/with/) flowers."
+- **[Adjective](/post/adjective/)**: ([of](/post/of/) [a](/post/a/) [person](/post/person/), [emotion](/post/emotion/), [or](/post/or/) [quality](/post/quality/)) [Present](/post/present/) [in](/post/in/) [great](/post/great/) quantities [or](/post/or/) [to](/post/to/) [a](/post/a/) marked [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has an [abundant](/post/abundant/) [supply](/post/supply/) [of](/post/of/) [energy](/post/energy/)."
 
 ## Phrases
-- "[Abundant](/en/post/abundant/) [in](/en/post/in/)": Existing [in](/en/post/in/) [large](/en/post/large/) numbers [or](/en/post/or/) amounts [within](/en/post/within/) [something](/en/post/something/). [For](/en/post/for/) [instance](/en/post/instance/), "[The](/en/post/the/) [forest](/en/post/forest/) is [abundant](/en/post/abundant/) [in](/en/post/in/) wildlife."
-- "An abundance [of](/en/post/of/)": [A](/en/post/a/) [very](/en/post/very/) [large](/en/post/large/) [quantity](/en/post/quantity/) [of](/en/post/of/) [something](/en/post/something/). [As](/en/post/as/) [in](/en/post/in/), "[There](/en/post/there/) is an abundance [of](/en/post/of/) opportunities [for](/en/post/for/) [growth](/en/post/growth/)."
+- "[Abundant](/post/abundant/) [in](/post/in/)": Existing [in](/post/in/) [large](/post/large/) numbers [or](/post/or/) amounts [within](/post/within/) [something](/post/something/). [For](/post/for/) [instance](/post/instance/), "[The](/post/the/) [forest](/post/forest/) is [abundant](/post/abundant/) [in](/post/in/) wildlife."
+- "An abundance [of](/post/of/)": [A](/post/a/) [very](/post/very/) [large](/post/large/) [quantity](/post/quantity/) [of](/post/of/) [something](/post/something/). [As](/post/as/) [in](/post/in/), "[There](/post/there/) is an abundance [of](/post/of/) opportunities [for](/post/for/) [growth](/post/growth/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[After](/en/post/after/) [the](/en/post/the/) [heavy](/en/post/heavy/) [rain](/en/post/rain/), [the](/en/post/the/) [land](/en/post/land/) was [abundant](/en/post/abundant/) [with](/en/post/with/) lush greenery."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [kindness](/en/post/kindness/) [and](/en/post/and/) generosity were [abundant](/en/post/abundant/), touching [the](/en/post/the/) lives [of](/en/post/of/) [many](/en/post/many/) [around](/en/post/around/) [her](/en/post/her/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[After](/post/after/) [the](/post/the/) [heavy](/post/heavy/) [rain](/post/rain/), [the](/post/the/) [land](/post/land/) was [abundant](/post/abundant/) [with](/post/with/) lush greenery."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [kindness](/post/kindness/) [and](/post/and/) generosity were [abundant](/post/abundant/), touching [the](/post/the/) lives [of](/post/of/) [many](/post/many/) [around](/post/around/) [her](/post/her/)."
 
 ## Synonyms
-- [Plentiful](/en/post/plentiful/)
+- [Plentiful](/post/plentiful/)
 - Ample
 - Bountiful
 - Copious
-- [Generous](/en/post/generous/)
+- [Generous](/post/generous/)
 - Profuse
-- [Rich](/en/post/rich/)
+- [Rich](/post/rich/)

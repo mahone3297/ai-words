@@ -11,21 +11,21 @@ keywords = ['ai words', 'central']
 /ˈsɛntrəl/
 
 ## 释义
-- **形容词**: 位于中心的，中央的。例如: "[The](/post/the/) city's [main](/post/main/) [square](/post/square/) is [in](/post/in/) [the](/post/the/) [central](/post/central/) [district](/post/district/)."
-- **名词**: 中心，核心。例如: "[The](/post/the/) [hotel](/post/hotel/) is situated [in](/post/in/) [the](/post/the/) [very](/post/very/) [heart](/post/heart/) [of](/post/of/) [the](/post/the/) [city](/post/city/), [right](/post/right/) [in](/post/in/) [the](/post/the/) [central](/post/central/) [area](/post/area/)."
+- **形容词**: 位于中心的，中央的。例如: "[The](/zh/post/the/) city's [main](/zh/post/main/) [square](/zh/post/square/) is [in](/zh/post/in/) [the](/zh/post/the/) [central](/zh/post/central/) [district](/zh/post/district/)."
+- **名词**: 中心，核心。例如: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) is situated [in](/zh/post/in/) [the](/zh/post/the/) [very](/zh/post/very/) [heart](/zh/post/heart/) [of](/zh/post/of/) [the](/zh/post/the/) [city](/zh/post/city/), [right](/zh/post/right/) [in](/zh/post/in/) [the](/zh/post/the/) [central](/zh/post/central/) [area](/zh/post/area/)."
 
 ## 短语
-- "[central](/post/central/) [government](/post/government/)" 指中央政府或联邦政府。
-- "[central](/post/central/) [heating](/post/heating/)" 指集中供暖系统。
-- "[central](/post/central/) [idea](/post/idea/)" 指主要观点或中心思想。
+- "[central](/zh/post/central/) [government](/zh/post/government/)" 指中央政府或联邦政府。
+- "[central](/zh/post/central/) [heating](/zh/post/heating/)" 指集中供暖系统。
+- "[central](/zh/post/central/) [idea](/zh/post/idea/)" 指主要观点或中心思想。
 
 ## 例句
-- 形容词: "[The](/post/the/) [central](/post/central/) [park](/post/park/) is [a](/post/a/) [popular](/post/popular/) [spot](/post/spot/) [for](/post/for/) picnics [on](/post/on/) weekends."
-- 名词: "[The](/post/the/) [control](/post/control/) [room](/post/room/) is [the](/post/the/) [central](/post/central/) hub [of](/post/of/) [all](/post/all/) operations."
+- 形容词: "[The](/zh/post/the/) [central](/zh/post/central/) [park](/zh/post/park/) is [a](/zh/post/a/) [popular](/zh/post/popular/) [spot](/zh/post/spot/) [for](/zh/post/for/) picnics [on](/zh/post/on/) weekends."
+- 名词: "[The](/zh/post/the/) [control](/zh/post/control/) [room](/zh/post/room/) is [the](/zh/post/the/) [central](/zh/post/central/) hub [of](/zh/post/of/) [all](/zh/post/all/) operations."
 
 ## 同义词
-- [Middle](/post/middle/)
-- [Heart](/post/heart/)
-- [Core](/post/core/)
-- [Nucleus](/post/nucleus/)
-- [Main](/post/main/)
+- [Middle](/zh/post/middle/)
+- [Heart](/zh/post/heart/)
+- [Core](/zh/post/core/)
+- [Nucleus](/zh/post/nucleus/)
+- [Main](/zh/post/main/)

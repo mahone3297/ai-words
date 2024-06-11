@@ -11,18 +11,18 @@ keywords = ['ai words', 'metre']
 /mɪˈtreɪ/
 
 ## 释义
-- **名词**: 国际单位制中的长度单位，一米（[meter](/post/meter/)）等于100厘米。例如: "[The](/post/the/) [height](/post/height/) [of](/post/of/) [the](/post/the/) [building](/post/building/) is [about](/post/about/) 50 metres."
+- **名词**: 国际单位制中的长度单位，一米（[meter](/zh/post/meter/)）等于100厘米。例如: "[The](/zh/post/the/) [height](/zh/post/height/) [of](/zh/post/of/) [the](/zh/post/the/) [building](/zh/post/building/) is [about](/zh/post/about/) 50 metres."
 
 ## 短语
-- "kilometre [per](/post/per/) [hour](/post/hour/)" (km/h) 是速度的计量单位，表示每小时多少公里。
-- "[metre](/post/metre/) [rule](/post/rule/)" 或 "measuring [tape](/post/tape/)" 用来测量长度的工具。
+- "kilometre [per](/zh/post/per/) [hour](/zh/post/hour/)" (km/h) 是速度的计量单位，表示每小时多少公里。
+- "[metre](/zh/post/metre/) [rule](/zh/post/rule/)" 或 "measuring [tape](/zh/post/tape/)" 用来测量长度的工具。
 
 ## 例句
-- "[The](/post/the/) [football](/post/football/) [field](/post/field/) is 100 metres [long](/post/long/)."
-- "[She](/post/she/) uses [a](/post/a/) [metre](/post/metre/) [ruler](/post/ruler/) [to](/post/to/) [measure](/post/measure/) [the](/post/the/) [fabric](/post/fabric/) accurately."
+- "[The](/zh/post/the/) [football](/zh/post/football/) [field](/zh/post/field/) is 100 metres [long](/zh/post/long/)."
+- "[She](/zh/post/she/) uses [a](/zh/post/a/) [metre](/zh/post/metre/) [ruler](/zh/post/ruler/) [to](/zh/post/to/) [measure](/zh/post/measure/) [the](/zh/post/the/) [fabric](/zh/post/fabric/) accurately."
 
 ## 同义词
-- [yard](/post/yard/) (英制长度单位，约等于0.9144米)
-- [foot](/post/foot/) (英制长度单位，约等于0.3048米)
-- [centimetre](/post/centimetre/) (厘米，1/100th [of](/post/of/) [a](/post/a/) [metre](/post/metre/))
-- decimetre (分米，1/10th [of](/post/of/) [a](/post/a/) [metre](/post/metre/))
+- [yard](/zh/post/yard/) (英制长度单位，约等于0.9144米)
+- [foot](/zh/post/foot/) (英制长度单位，约等于0.3048米)
+- [centimetre](/zh/post/centimetre/) (厘米，1/100th [of](/zh/post/of/) [a](/zh/post/a/) [metre](/zh/post/metre/))
+- decimetre (分米，1/10th [of](/zh/post/of/) [a](/zh/post/a/) [metre](/zh/post/metre/))

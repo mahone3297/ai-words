@@ -7,30 +7,30 @@ description = '[ˈweivleŋθ] n.波长'
 keywords = ['ai words', 'wavelength']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwʌvˌleɪd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [In](/en/post/in/) [physics](/en/post/physics/) [and](/en/post/and/) electromagnetism, [a](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [the](/en/post/the/) periodicity [of](/en/post/of/) [a](/en/post/a/) [wave](/en/post/wave/), typically expressed [in](/en/post/in/) meters (m) [or](/en/post/or/) cycles [per](/en/post/per/) [unit](/en/post/unit/) [distance](/en/post/distance/) (e.g., cycles [per](/en/post/per/) [meter](/en/post/meter/), Hz). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [radio](/en/post/radio/) [signal](/en/post/signal/) has [a](/en/post/a/) [long](/en/post/long/) [wavelength](/en/post/wavelength/)."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) wave's [length](/en/post/length/); referring [to](/en/post/to/) [the](/en/post/the/) [distance](/en/post/distance/) [between](/en/post/between/) [two](/en/post/two/) [corresponding](/en/post/corresponding/) points [on](/en/post/on/) [successive](/en/post/successive/) waves. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) microwave [oven](/en/post/oven/) operates [at](/en/post/at/) [a](/en/post/a/) shorter [wavelength](/en/post/wavelength/) [than](/en/post/than/) [visible](/en/post/visible/) [light](/en/post/light/)."
+- **[Noun](/post/noun/)**: [In](/post/in/) [physics](/post/physics/) [and](/post/and/) electromagnetism, [a](/post/a/) [measure](/post/measure/) [of](/post/of/) [the](/post/the/) periodicity [of](/post/of/) [a](/post/a/) [wave](/post/wave/), typically expressed [in](/post/in/) meters (m) [or](/post/or/) cycles [per](/post/per/) [unit](/post/unit/) [distance](/post/distance/) (e.g., cycles [per](/post/per/) [meter](/post/meter/), Hz). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [radio](/post/radio/) [signal](/post/signal/) has [a](/post/a/) [long](/post/long/) [wavelength](/post/wavelength/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) wave's [length](/post/length/); referring [to](/post/to/) [the](/post/the/) [distance](/post/distance/) [between](/post/between/) [two](/post/two/) [corresponding](/post/corresponding/) points [on](/post/on/) [successive](/post/successive/) waves. [For](/post/for/) [example](/post/example/): "[The](/post/the/) microwave [oven](/post/oven/) operates [at](/post/at/) [a](/post/a/) shorter [wavelength](/post/wavelength/) [than](/post/than/) [visible](/post/visible/) [light](/post/light/)."
 
 ## Phrases
-- "[Wavelength](/en/post/wavelength/) [of](/en/post/of/) [light](/en/post/light/)" refers [to](/en/post/to/) [the](/en/post/the/) [specific](/en/post/specific/) [length](/en/post/length/) [of](/en/post/of/) [light](/en/post/light/) waves [in](/en/post/in/) [the](/en/post/the/) electromagnetic spectrum.
-- "[Long](/en/post/long/)/[Short](/en/post/short/) [wavelength](/en/post/wavelength/)" describes waves [with](/en/post/with/) [large](/en/post/large/)/[small](/en/post/small/) distances [between](/en/post/between/) peaks [or](/en/post/or/) troughs.
-- "Matching wavelengths" is [when](/en/post/when/) [two](/en/post/two/) waves [have](/en/post/have/) [a](/en/post/a/) [similar](/en/post/similar/) [frequency](/en/post/frequency/), resulting [in](/en/post/in/) constructive [interference](/en/post/interference/).
+- "[Wavelength](/post/wavelength/) [of](/post/of/) [light](/post/light/)" refers [to](/post/to/) [the](/post/the/) [specific](/post/specific/) [length](/post/length/) [of](/post/of/) [light](/post/light/) waves [in](/post/in/) [the](/post/the/) electromagnetic spectrum.
+- "[Long](/post/long/)/[Short](/post/short/) [wavelength](/post/wavelength/)" describes waves [with](/post/with/) [large](/post/large/)/[small](/post/small/) distances [between](/post/between/) peaks [or](/post/or/) troughs.
+- "Matching wavelengths" is [when](/post/when/) [two](/post/two/) waves [have](/post/have/) [a](/post/a/) [similar](/post/similar/) [frequency](/post/frequency/), resulting [in](/post/in/) constructive [interference](/post/interference/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) scientists adjusted [their](/en/post/their/) [equipment](/en/post/equipment/) [to](/en/post/to/) [match](/en/post/match/) [the](/en/post/the/) [wavelength](/en/post/wavelength/) [of](/en/post/of/) [the](/en/post/the/) [laser](/en/post/laser/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) infrared [camera](/en/post/camera/) [can](/en/post/can/) [detect](/en/post/detect/) [heat](/en/post/heat/) signatures [at](/en/post/at/) longer wavelengths."
-- **[Comparative](/en/post/comparative/) [Form](/en/post/form/)**: "[Visible](/en/post/visible/) [light](/en/post/light/) has [a](/en/post/a/) shorter [wavelength](/en/post/wavelength/) [than](/en/post/than/) [radio](/en/post/radio/) waves."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) scientists adjusted [their](/post/their/) [equipment](/post/equipment/) [to](/post/to/) [match](/post/match/) [the](/post/the/) [wavelength](/post/wavelength/) [of](/post/of/) [the](/post/the/) [laser](/post/laser/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) infrared [camera](/post/camera/) [can](/post/can/) [detect](/post/detect/) [heat](/post/heat/) signatures [at](/post/at/) longer wavelengths."
+- **[Comparative](/post/comparative/) [Form](/post/form/)**: "[Visible](/post/visible/) [light](/post/light/) has [a](/post/a/) shorter [wavelength](/post/wavelength/) [than](/post/than/) [radio](/post/radio/) waves."
 
 ## Synonyms
-- [Frequency](/en/post/frequency/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) waves)
-- [Period](/en/post/period/)
-- [Wave](/en/post/wave/) [length](/en/post/length/)
+- [Frequency](/post/frequency/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) waves)
+- [Period](/post/period/)
+- [Wave](/post/wave/) [length](/post/length/)
 - Wavenumber
-- [Cycle](/en/post/cycle/) [length](/en/post/length/)
+- [Cycle](/post/cycle/) [length](/post/length/)
 
 ## Antonyms
-- [Short](/en/post/short/) [wave](/en/post/wave/) ([for](/en/post/for/) longer wavelengths)
-- [Long](/en/post/long/) [wave](/en/post/wave/) ([for](/en/post/for/) shorter wavelengths)
+- [Short](/post/short/) [wave](/post/wave/) ([for](/post/for/) longer wavelengths)
+- [Long](/post/long/) [wave](/post/wave/) ([for](/post/for/) shorter wavelengths)

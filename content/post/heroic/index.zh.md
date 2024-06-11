@@ -11,20 +11,20 @@ keywords = ['ai words', 'heroic']
 /hɪˈrəʊɪk/
 
 ## 释义
-- **形容词**: 具有英雄气概的；英勇的；非凡的。例如: "[His](/post/his/) [heroic](/post/heroic/) actions saved [many](/post/many/) lives."
-- **名词**: 英雄；勇士。例如: "[The](/post/the/) [novel](/post/novel/) tells [the](/post/the/) [story](/post/story/) [of](/post/of/) [a](/post/a/) [heroic](/post/heroic/) knight."
+- **形容词**: 具有英雄气概的；英勇的；非凡的。例如: "[His](/zh/post/his/) [heroic](/zh/post/heroic/) actions saved [many](/zh/post/many/) lives."
+- **名词**: 英雄；勇士。例如: "[The](/zh/post/the/) [novel](/zh/post/novel/) tells [the](/zh/post/the/) [story](/zh/post/story/) [of](/zh/post/of/) [a](/zh/post/a/) [heroic](/zh/post/heroic/) knight."
 
 ## 短语
-- "[heroic](/post/heroic/) deeds" 指的是英勇的行为或事迹。
-- "[in](/post/in/) [a](/post/a/) [heroic](/post/heroic/) [manner](/post/manner/)" 表示以英勇的方式。
+- "[heroic](/zh/post/heroic/) deeds" 指的是英勇的行为或事迹。
+- "[in](/zh/post/in/) [a](/zh/post/a/) [heroic](/zh/post/heroic/) [manner](/zh/post/manner/)" 表示以英勇的方式。
 
 ## 例句
-- 形容词: "[The](/post/the/) firefighter displayed [extraordinary](/post/extraordinary/) bravery, performing [a](/post/a/) [heroic](/post/heroic/) [rescue](/post/rescue/)."
-- 名词: "[He](/post/he/) became [a](/post/a/) [national](/post/national/) [hero](/post/hero/) [after](/post/after/) [his](/post/his/) selfless [act](/post/act/)."
+- 形容词: "[The](/zh/post/the/) firefighter displayed [extraordinary](/zh/post/extraordinary/) bravery, performing [a](/zh/post/a/) [heroic](/zh/post/heroic/) [rescue](/zh/post/rescue/)."
+- 名词: "[He](/zh/post/he/) became [a](/zh/post/a/) [national](/zh/post/national/) [hero](/zh/post/hero/) [after](/zh/post/after/) [his](/zh/post/his/) selfless [act](/zh/post/act/)."
 
 ## 同义词
 - Courageous
 - Valiant
-- [Brave](/post/brave/)
+- [Brave](/zh/post/brave/)
 - Gallant
 - Fearless

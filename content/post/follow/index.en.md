@@ -7,39 +7,39 @@ description = '[ˈfɔləu] vt.跟随；结果是'
 keywords = ['ai words', 'follow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fəˈlou/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [come](/en/post/come/) [or](/en/post/or/) [go](/en/post/go/) [after](/en/post/after/) ([a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) proceeding [ahead](/en/post/ahead/)); [move](/en/post/move/) [behind](/en/post/behind/) [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [direction](/en/post/direction/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [dog](/en/post/dog/) followed [its](/en/post/its/) [owner](/en/post/owner/) [down](/en/post/down/) [the](/en/post/the/) [street](/en/post/street/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [accept](/en/post/accept/) [or](/en/post/or/) [act](/en/post/act/) [in](/en/post/in/) [accordance](/en/post/accordance/) [with](/en/post/with/) (an [instruction](/en/post/instruction/), [rule](/en/post/rule/), [or](/en/post/or/) [example](/en/post/example/)); comply [with](/en/post/with/) [or](/en/post/or/) conform [to](/en/post/to/). [Example](/en/post/example/): "[Follow](/en/post/follow/) [the](/en/post/the/) instructions [on](/en/post/on/) [the](/en/post/the/) [package](/en/post/package/) carefully."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [pursue](/en/post/pursue/) [or](/en/post/or/) [track](/en/post/track/) (an [occupation](/en/post/occupation/), [profession](/en/post/profession/), [or](/en/post/or/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/)). [Example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [follow](/en/post/follow/) [her](/en/post/her/) [passion](/en/post/passion/) [for](/en/post/for/) [music](/en/post/music/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [pay](/en/post/pay/) [close](/en/post/close/) [attention](/en/post/attention/) [to](/en/post/to/) [and](/en/post/and/) [watch](/en/post/watch/) [or](/en/post/or/) [listen](/en/post/listen/) attentively [to](/en/post/to/) ([someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/)), [especially](/en/post/especially/) [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [learn](/en/post/learn/) [or](/en/post/or/) [copy](/en/post/copy/). [Example](/en/post/example/): "[The](/en/post/the/) students followed [the](/en/post/the/) teacher's demonstration [closely](/en/post/closely/)."
-- **[Verb](/en/post/verb/) (v)**: [In](/en/post/in/) [social](/en/post/social/) media contexts, [to](/en/post/to/) subscribe [to](/en/post/to/) [or](/en/post/or/) [regularly](/en/post/regularly/) [check](/en/post/check/) updates [from](/en/post/from/) (an [account](/en/post/account/) [or](/en/post/or/) [page](/en/post/page/)). [Example](/en/post/example/): "I followed [his](/en/post/his/) blog [to](/en/post/to/) [stay](/en/post/stay/) updated [on](/en/post/on/) [his](/en/post/his/) travels."
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [following](/en/post/following/); [pursuit](/en/post/pursuit/) [or](/en/post/or/) tracking. [Example](/en/post/example/): "[The](/en/post/the/) [police](/en/post/police/) kept [him](/en/post/him/) [under](/en/post/under/) [close](/en/post/close/) [follow](/en/post/follow/)."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) followers; adherents [or](/en/post/or/) supporters. [Example](/en/post/example/): "[The](/en/post/the/) [politician](/en/post/politician/) had [a](/en/post/a/) [large](/en/post/large/) [follow](/en/post/follow/) [on](/en/post/on/) [social](/en/post/social/) media."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [come](/post/come/) [or](/post/or/) [go](/post/go/) [after](/post/after/) ([a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) proceeding [ahead](/post/ahead/)); [move](/post/move/) [behind](/post/behind/) [in](/post/in/) [the](/post/the/) [same](/post/same/) [direction](/post/direction/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [dog](/post/dog/) followed [its](/post/its/) [owner](/post/owner/) [down](/post/down/) [the](/post/the/) [street](/post/street/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [accept](/post/accept/) [or](/post/or/) [act](/post/act/) [in](/post/in/) [accordance](/post/accordance/) [with](/post/with/) (an [instruction](/post/instruction/), [rule](/post/rule/), [or](/post/or/) [example](/post/example/)); comply [with](/post/with/) [or](/post/or/) conform [to](/post/to/). [Example](/post/example/): "[Follow](/post/follow/) [the](/post/the/) instructions [on](/post/on/) [the](/post/the/) [package](/post/package/) carefully."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [pursue](/post/pursue/) [or](/post/or/) [track](/post/track/) (an [occupation](/post/occupation/), [profession](/post/profession/), [or](/post/or/) [course](/post/course/) [of](/post/of/) [action](/post/action/)). [Example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [follow](/post/follow/) [her](/post/her/) [passion](/post/passion/) [for](/post/for/) [music](/post/music/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [pay](/post/pay/) [close](/post/close/) [attention](/post/attention/) [to](/post/to/) [and](/post/and/) [watch](/post/watch/) [or](/post/or/) [listen](/post/listen/) attentively [to](/post/to/) ([someone](/post/someone/) [or](/post/or/) [something](/post/something/)), [especially](/post/especially/) [in](/post/in/) [order](/post/order/) [to](/post/to/) [learn](/post/learn/) [or](/post/or/) [copy](/post/copy/). [Example](/post/example/): "[The](/post/the/) students followed [the](/post/the/) teacher's demonstration [closely](/post/closely/)."
+- **[Verb](/post/verb/) (v)**: [In](/post/in/) [social](/post/social/) media contexts, [to](/post/to/) subscribe [to](/post/to/) [or](/post/or/) [regularly](/post/regularly/) [check](/post/check/) updates [from](/post/from/) (an [account](/post/account/) [or](/post/or/) [page](/post/page/)). [Example](/post/example/): "I followed [his](/post/his/) blog [to](/post/to/) [stay](/post/stay/) updated [on](/post/on/) [his](/post/his/) travels."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) [following](/post/following/); [pursuit](/post/pursuit/) [or](/post/or/) tracking. [Example](/post/example/): "[The](/post/the/) [police](/post/police/) kept [him](/post/him/) [under](/post/under/) [close](/post/close/) [follow](/post/follow/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [group](/post/group/) [of](/post/of/) followers; adherents [or](/post/or/) supporters. [Example](/post/example/): "[The](/post/the/) [politician](/post/politician/) had [a](/post/a/) [large](/post/large/) [follow](/post/follow/) [on](/post/on/) [social](/post/social/) media."
 
 ## Phrases
-- "[Follow](/en/post/follow/) [suit](/en/post/suit/)" [means](/en/post/means/) [to](/en/post/to/) [do](/en/post/do/) [what](/en/post/what/) others [have](/en/post/have/) done [before](/en/post/before/) [you](/en/post/you/).
-- "[Keep](/en/post/keep/) [up](/en/post/up/) [the](/en/post/the/) [follow](/en/post/follow/)" [might](/en/post/might/) [be](/en/post/be/) [used](/en/post/used/) colloquially [to](/en/post/to/) [encourage](/en/post/encourage/) continued [support](/en/post/support/) [or](/en/post/or/) engagement.
-- "[Follow](/en/post/follow/) one's [heart](/en/post/heart/)" [means](/en/post/means/) [to](/en/post/to/) [act](/en/post/act/) according [to](/en/post/to/) one's feelings [or](/en/post/or/) instincts.
+- "[Follow](/post/follow/) [suit](/post/suit/)" [means](/post/means/) [to](/post/to/) [do](/post/do/) [what](/post/what/) others [have](/post/have/) done [before](/post/before/) [you](/post/you/).
+- "[Keep](/post/keep/) [up](/post/up/) [the](/post/the/) [follow](/post/follow/)" [might](/post/might/) [be](/post/be/) [used](/post/used/) colloquially [to](/post/to/) [encourage](/post/encourage/) continued [support](/post/support/) [or](/post/or/) engagement.
+- "[Follow](/post/follow/) one's [heart](/post/heart/)" [means](/post/means/) [to](/post/to/) [act](/post/act/) according [to](/post/to/) one's feelings [or](/post/or/) instincts.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[Make](/en/post/make/) [sure](/en/post/sure/) [to](/en/post/to/) [follow](/en/post/follow/) [the](/en/post/the/) marked [trail](/en/post/trail/) [through](/en/post/through/) [the](/en/post/the/) [forest](/en/post/forest/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) promised [to](/en/post/to/) [follow](/en/post/follow/) [all](/en/post/all/) [safety](/en/post/safety/) guidelines [during](/en/post/during/) [the](/en/post/the/) [experiment](/en/post/experiment/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) detective was [able](/en/post/able/) [to](/en/post/to/) [pick](/en/post/pick/) [up](/en/post/up/) [the](/en/post/the/) suspect's [follow](/en/post/follow/) [quickly](/en/post/quickly/)."
-- **[Social](/en/post/social/) media [noun](/en/post/noun/)**: "[After](/en/post/after/) [his](/en/post/his/) viral [video](/en/post/video/), [he](/en/post/he/) gained [a](/en/post/a/) [huge](/en/post/huge/) online [follow](/en/post/follow/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[Make](/post/make/) [sure](/post/sure/) [to](/post/to/) [follow](/post/follow/) [the](/post/the/) marked [trail](/post/trail/) [through](/post/through/) [the](/post/the/) [forest](/post/forest/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) promised [to](/post/to/) [follow](/post/follow/) [all](/post/all/) [safety](/post/safety/) guidelines [during](/post/during/) [the](/post/the/) [experiment](/post/experiment/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) detective was [able](/post/able/) [to](/post/to/) [pick](/post/pick/) [up](/post/up/) [the](/post/the/) suspect's [follow](/post/follow/) [quickly](/post/quickly/)."
+- **[Social](/post/social/) media [noun](/post/noun/)**: "[After](/post/after/) [his](/post/his/) viral [video](/post/video/), [he](/post/he/) gained [a](/post/a/) [huge](/post/huge/) online [follow](/post/follow/)."
 
 ## Synonyms
-- [Pursue](/en/post/pursue/)
-- [Trail](/en/post/trail/)
-- [Chase](/en/post/chase/)
-- [Observe](/en/post/observe/)
-- Adhere [to](/en/post/to/)
+- [Pursue](/post/pursue/)
+- [Trail](/post/trail/)
+- [Chase](/post/chase/)
+- [Observe](/post/observe/)
+- Adhere [to](/post/to/)
 - Emulate
-- Comply [with](/en/post/with/)
-- Subscribe [to](/en/post/to/)
-- [Track](/en/post/track/)
-- [Accompany](/en/post/accompany/)
-- [Imitate](/en/post/imitate/)
-- [Copy](/en/post/copy/)
+- Comply [with](/post/with/)
+- Subscribe [to](/post/to/)
+- [Track](/post/track/)
+- [Accompany](/post/accompany/)
+- [Imitate](/post/imitate/)
+- [Copy](/post/copy/)

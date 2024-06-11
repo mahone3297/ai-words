@@ -7,28 +7,28 @@ description = '[riˈmɑːkəbl] a.异常的，非凡的'
 keywords = ['ai words', 'remarkable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈmɑːrkəbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [being](/en/post/being/) [worthy](/en/post/worthy/) [of](/en/post/of/) [notice](/en/post/notice/) [or](/en/post/or/) [attention](/en/post/attention/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [unusual](/en/post/unusual/) [quality](/en/post/quality/), [significance](/en/post/significance/), [or](/en/post/or/) excellence. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) [mountain](/en/post/mountain/) was [truly](/en/post/truly/) [remarkable](/en/post/remarkable/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) an exceptional [or](/en/post/or/) [outstanding](/en/post/outstanding/) [manner](/en/post/manner/); notably. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sang [the](/en/post/the/) [song](/en/post/song/) remarkably [well](/en/post/well/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [being](/post/being/) [worthy](/post/worthy/) [of](/post/of/) [notice](/post/notice/) [or](/post/or/) [attention](/post/attention/) [due](/post/due/) [to](/post/to/) [its](/post/its/) [unusual](/post/unusual/) [quality](/post/quality/), [significance](/post/significance/), [or](/post/or/) excellence. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) [mountain](/post/mountain/) was [truly](/post/truly/) [remarkable](/post/remarkable/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) an exceptional [or](/post/or/) [outstanding](/post/outstanding/) [manner](/post/manner/); notably. [For](/post/for/) [example](/post/example/): "[She](/post/she/) sang [the](/post/the/) [song](/post/song/) remarkably [well](/post/well/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [remarkable](/en/post/remarkable/)" implies standing [out](/en/post/out/) [in](/en/post/in/) [a](/en/post/a/) [positive](/en/post/positive/) [way](/en/post/way/).
-- "[A](/en/post/a/) [remarkable](/en/post/remarkable/) [achievement](/en/post/achievement/)" highlights an [extraordinary](/en/post/extraordinary/) accomplishment.
-- "[To](/en/post/to/) [be](/en/post/be/) [remarkable](/en/post/remarkable/) [at](/en/post/at/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) excel [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [skill](/en/post/skill/) [or](/en/post/or/) [field](/en/post/field/).
+- "[Be](/post/be/) [remarkable](/post/remarkable/)" implies standing [out](/post/out/) [in](/post/in/) [a](/post/a/) [positive](/post/positive/) [way](/post/way/).
+- "[A](/post/a/) [remarkable](/post/remarkable/) [achievement](/post/achievement/)" highlights an [extraordinary](/post/extraordinary/) accomplishment.
+- "[To](/post/to/) [be](/post/be/) [remarkable](/post/remarkable/) [at](/post/at/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) excel [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [skill](/post/skill/) [or](/post/or/) [field](/post/field/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) artist's paintings were [remarkable](/en/post/remarkable/) [for](/en/post/for/) [their](/en/post/their/) [vivid](/en/post/vivid/) colors [and](/en/post/and/) intricate details."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) made [a](/en/post/a/) [remarkable](/en/post/remarkable/) [recovery](/en/post/recovery/) [from](/en/post/from/) [her](/en/post/her/) [illness](/en/post/illness/)."
-- "[His](/en/post/his/) [performance](/en/post/performance/) was [remarkable](/en/post/remarkable/) considering [his](/en/post/his/) [age](/en/post/age/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) artist's paintings were [remarkable](/post/remarkable/) [for](/post/for/) [their](/post/their/) [vivid](/post/vivid/) colors [and](/post/and/) intricate details."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) made [a](/post/a/) [remarkable](/post/remarkable/) [recovery](/post/recovery/) [from](/post/from/) [her](/post/her/) [illness](/post/illness/)."
+- "[His](/post/his/) [performance](/post/performance/) was [remarkable](/post/remarkable/) considering [his](/post/his/) [age](/post/age/)."
 
 ## Synonyms
-- [Impressive](/en/post/impressive/)
+- [Impressive](/post/impressive/)
 - Exceptional
-- [Unusual](/en/post/unusual/)
-- [Outstanding](/en/post/outstanding/)
+- [Unusual](/post/unusual/)
+- [Outstanding](/post/outstanding/)
 - Noteworthy
 - Astonishing
 - Stunning
@@ -37,8 +37,8 @@ keywords = ['ai words', 'remarkable']
 - 令人惊叹的 (lìng rén dà jīng de) (Chinese)
 
 ## Antonyms
-- [Ordinary](/en/post/ordinary/)
-- [Average](/en/post/average/)
+- [Ordinary](/post/ordinary/)
+- [Average](/post/average/)
 - Mediocre
 - Unremarkable
 - Mundane

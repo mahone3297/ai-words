@@ -7,28 +7,28 @@ description = '[təˈmɑːtəu] n.番茄，西红柿'
 keywords = ['ai words', 'tomato']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /təˈmɑːtəʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[tomato](/en/post/tomato/)** is [a](/en/post/a/) [round](/en/post/round/), [red](/en/post/red/) [fruit](/en/post/fruit/) [with](/en/post/with/) [a](/en/post/a/) [slightly](/en/post/slightly/) [sweet](/en/post/sweet/) [and](/en/post/and/) tangy [taste](/en/post/taste/), [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) cooking [and](/en/post/and/) salads. [It](/en/post/it/) belongs [to](/en/post/to/) [the](/en/post/the/) nightshade [family](/en/post/family/) (Solanaceae).
+### [Noun](/post/noun/)
+[A](/post/a/) **[tomato](/post/tomato/)** is [a](/post/a/) [round](/post/round/), [red](/post/red/) [fruit](/post/fruit/) [with](/post/with/) [a](/post/a/) [slightly](/post/slightly/) [sweet](/post/sweet/) [and](/post/and/) tangy [taste](/post/taste/), [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) cooking [and](/post/and/) salads. [It](/post/it/) belongs [to](/post/to/) [the](/post/the/) nightshade [family](/post/family/) (Solanaceae).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[tomato](/en/post/tomato/)** [something](/en/post/something/) (informal) [means](/en/post/means/) [to](/en/post/to/) [apply](/en/post/apply/) [or](/en/post/or/) [spread](/en/post/spread/) [tomato](/en/post/tomato/) [sauce](/en/post/sauce/), salsa, [or](/en/post/or/) [similar](/en/post/similar/) condiments [on](/en/post/on/) [a](/en/post/a/) [dish](/en/post/dish/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) metaphorically [refer](/en/post/refer/) [to](/en/post/to/) emphasizing [or](/en/post/or/) highlighting [something](/en/post/something/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[tomato](/post/tomato/)** [something](/post/something/) (informal) [means](/post/means/) [to](/post/to/) [apply](/post/apply/) [or](/post/or/) [spread](/post/spread/) [tomato](/post/tomato/) [sauce](/post/sauce/), salsa, [or](/post/or/) [similar](/post/similar/) condiments [on](/post/on/) [a](/post/a/) [dish](/post/dish/). [It](/post/it/) [can](/post/can/) [also](/post/also/) metaphorically [refer](/post/refer/) [to](/post/to/) emphasizing [or](/post/or/) highlighting [something](/post/something/).
 
-### [Adjective](/en/post/adjective/)
-- **Tomato-red** describes [a](/en/post/a/) [vivid](/en/post/vivid/), [deep](/en/post/deep/) [red](/en/post/red/) [color](/en/post/color/) [similar](/en/post/similar/) [to](/en/post/to/) [that](/en/post/that/) [of](/en/post/of/) [a](/en/post/a/) [ripe](/en/post/ripe/) [tomato](/en/post/tomato/).
+### [Adjective](/post/adjective/)
+- **Tomato-red** describes [a](/post/a/) [vivid](/post/vivid/), [deep](/post/deep/) [red](/post/red/) [color](/post/color/) [similar](/post/similar/) [to](/post/to/) [that](/post/that/) [of](/post/of/) [a](/post/a/) [ripe](/post/ripe/) [tomato](/post/tomato/).
 
 ## Phrases
-- "[Add](/en/post/add/) [some](/en/post/some/) [tomato](/en/post/tomato/) [sauce](/en/post/sauce/) [to](/en/post/to/) [the](/en/post/the/) pasta"
-- "[A](/en/post/a/) [plate](/en/post/plate/) [of](/en/post/of/) grilled tomatoes"
-- "[A](/en/post/a/) tomato-based [soup](/en/post/soup/)"
+- "[Add](/post/add/) [some](/post/some/) [tomato](/post/tomato/) [sauce](/post/sauce/) [to](/post/to/) [the](/post/the/) pasta"
+- "[A](/post/a/) [plate](/post/plate/) [of](/post/of/) grilled tomatoes"
+- "[A](/post/a/) tomato-based [soup](/post/soup/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I grew [my](/en/post/my/) [own](/en/post/own/) tomatoes [in](/en/post/in/) [the](/en/post/the/) [garden](/en/post/garden/) [this](/en/post/this/) [summer](/en/post/summer/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tomatoed [the](/en/post/the/) pizza [with](/en/post/with/) [a](/en/post/a/) [generous](/en/post/generous/) [amount](/en/post/amount/) [of](/en/post/of/) [her](/en/post/her/) homemade [sauce](/en/post/sauce/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sun](/en/post/sun/) was [setting](/en/post/setting/), casting [a](/en/post/a/) tomato-red [glow](/en/post/glow/) [over](/en/post/over/) [the](/en/post/the/) [horizon](/en/post/horizon/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I grew [my](/post/my/) [own](/post/own/) tomatoes [in](/post/in/) [the](/post/the/) [garden](/post/garden/) [this](/post/this/) [summer](/post/summer/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tomatoed [the](/post/the/) pizza [with](/post/with/) [a](/post/a/) [generous](/post/generous/) [amount](/post/amount/) [of](/post/of/) [her](/post/her/) homemade [sauce](/post/sauce/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sun](/post/sun/) was [setting](/post/setting/), casting [a](/post/a/) tomato-red [glow](/post/glow/) [over](/post/over/) [the](/post/the/) [horizon](/post/horizon/)."
 
 ## Synonyms
 - Tomatoe
@@ -38,6 +38,6 @@ keywords = ['ai words', 'tomato']
 - Veggies
 
 ## Antonyms
-- [Green](/en/post/green/) (unripe)
-- [Yellow](/en/post/yellow/) (overripe)
+- [Green](/post/green/) (unripe)
+- [Yellow](/post/yellow/) (overripe)
 - Blemished

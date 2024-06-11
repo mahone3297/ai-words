@@ -12,20 +12,20 @@ keywords = ['ai words', 'elect']
 
 ## 释义
 - **动词**:
-1. 选择；选举：挑选或指定某人担任职位或完成某事。例如: "[The](/post/the/) [people](/post/people/) elected [him](/post/him/) [as](/post/as/) [their](/post/their/) [president](/post/president/)." 
-2. 召唤；选中：在特定情况下选择或召唤某人。例如: "[The](/post/the/) [committee](/post/committee/) elected [to](/post/to/) [hold](/post/hold/) [a](/post/a/) [meeting](/post/meeting/) [next](/post/next/) [week](/post/week/)."
+1. 选择；选举：挑选或指定某人担任职位或完成某事。例如: "[The](/zh/post/the/) [people](/zh/post/people/) elected [him](/zh/post/him/) [as](/zh/post/as/) [their](/zh/post/their/) [president](/zh/post/president/)." 
+2. 召唤；选中：在特定情况下选择或召唤某人。例如: "[The](/zh/post/the/) [committee](/zh/post/committee/) elected [to](/zh/post/to/) [hold](/zh/post/hold/) [a](/zh/post/a/) [meeting](/zh/post/meeting/) [next](/zh/post/next/) [week](/zh/post/week/)."
 
 ## 短语
-- "Elective [surgery](/post/surgery/)" 指由患者选择而非紧急必要的手术。
-- "Electoral [college](/post/college/)" 是一些国家（如美国）用来选举总统的制度。
+- "Elective [surgery](/zh/post/surgery/)" 指由患者选择而非紧急必要的手术。
+- "Electoral [college](/zh/post/college/)" 是一些国家（如美国）用来选举总统的制度。
 
 ## 例句
-- 作为动词： "[In](/post/in/) [the](/post/the/) [election](/post/election/), [the](/post/the/) voters elected [a](/post/a/) [new](/post/new/) [mayor](/post/mayor/) [for](/post/for/) [the](/post/the/) [city](/post/city/)."
-- "[She](/post/she/) was elected chairperson [of](/post/of/) [the](/post/the/) [board](/post/board/)."
+- 作为动词： "[In](/zh/post/in/) [the](/zh/post/the/) [election](/zh/post/election/), [the](/zh/post/the/) voters elected [a](/zh/post/a/) [new](/zh/post/new/) [mayor](/zh/post/mayor/) [for](/zh/post/for/) [the](/zh/post/the/) [city](/zh/post/city/)."
+- "[She](/zh/post/she/) was elected chairperson [of](/zh/post/of/) [the](/zh/post/the/) [board](/zh/post/board/)."
 
 ## 同义词
-- [Choose](/post/choose/)
-- [Select](/post/select/)
-- [Appoint](/post/appoint/)
+- [Choose](/zh/post/choose/)
+- [Select](/zh/post/select/)
+- [Appoint](/zh/post/appoint/)
 - Nominate
 - Designate

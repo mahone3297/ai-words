@@ -7,39 +7,39 @@ description = '[kəˈnek∫ən] n.连接，联系；连贯性'
 keywords = ['ai words', 'connection']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈnekʃn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Connection](/en/post/connection/)**: 1. [A](/en/post/a/) [relationship](/en/post/relationship/) [or](/en/post/or/) [link](/en/post/link/) [between](/en/post/between/) [people](/en/post/people/), things, [or](/en/post/or/) concepts. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [two](/en/post/two/) buildings are connected [by](/en/post/by/) [a](/en/post/a/) [bridge](/en/post/bridge/)."
-- 2. An [electrical](/en/post/electrical/) [or](/en/post/or/) [mechanical](/en/post/mechanical/) [link](/en/post/link/) allowing [transmission](/en/post/transmission/) [of](/en/post/of/) [power](/en/post/power/) [or](/en/post/or/) [data](/en/post/data/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) Wi-Fi [connection](/en/post/connection/) is [weak](/en/post/weak/) [in](/en/post/in/) [this](/en/post/this/) [area](/en/post/area/)."
-- 3. [Emotional](/en/post/emotional/) [or](/en/post/or/) [personal](/en/post/personal/) ties. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [share](/en/post/share/) [a](/en/post/a/) [strong](/en/post/strong/) [connection](/en/post/connection/) [through](/en/post/through/) [their](/en/post/their/) shared experiences."
+### [Noun](/post/noun/)
+- **[Connection](/post/connection/)**: 1. [A](/post/a/) [relationship](/post/relationship/) [or](/post/or/) [link](/post/link/) [between](/post/between/) [people](/post/people/), things, [or](/post/or/) concepts. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [two](/post/two/) buildings are connected [by](/post/by/) [a](/post/a/) [bridge](/post/bridge/)."
+- 2. An [electrical](/post/electrical/) [or](/post/or/) [mechanical](/post/mechanical/) [link](/post/link/) allowing [transmission](/post/transmission/) [of](/post/of/) [power](/post/power/) [or](/post/or/) [data](/post/data/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) Wi-Fi [connection](/post/connection/) is [weak](/post/weak/) [in](/post/in/) [this](/post/this/) [area](/post/area/)."
+- 3. [Emotional](/post/emotional/) [or](/post/or/) [personal](/post/personal/) ties. [For](/post/for/) [example](/post/example/): "[They](/post/they/) [share](/post/share/) [a](/post/a/) [strong](/post/strong/) [connection](/post/connection/) [through](/post/through/) [their](/post/their/) shared experiences."
 
-### [Verb](/en/post/verb/)
-- **[Connect](/en/post/connect/)**: 1. [To](/en/post/to/) [join](/en/post/join/) [or](/en/post/or/) [unite](/en/post/unite/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) things. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) cables [connect](/en/post/connect/) [the](/en/post/the/) [computer](/en/post/computer/) [to](/en/post/to/) [the](/en/post/the/) router."
-- 2. [To](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [maintain](/en/post/maintain/) [a](/en/post/a/) [relationship](/en/post/relationship/) [or](/en/post/or/) [communication](/en/post/communication/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) tries [to](/en/post/to/) [connect](/en/post/connect/) [with](/en/post/with/) [her](/en/post/her/) friends [regularly](/en/post/regularly/)."
+### [Verb](/post/verb/)
+- **[Connect](/post/connect/)**: 1. [To](/post/to/) [join](/post/join/) [or](/post/or/) [unite](/post/unite/) [two](/post/two/) [or](/post/or/) [more](/post/more/) things. [For](/post/for/) [example](/post/example/): "[The](/post/the/) cables [connect](/post/connect/) [the](/post/the/) [computer](/post/computer/) [to](/post/to/) [the](/post/the/) router."
+- 2. [To](/post/to/) [establish](/post/establish/) [or](/post/or/) [maintain](/post/maintain/) [a](/post/a/) [relationship](/post/relationship/) [or](/post/or/) [communication](/post/communication/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) tries [to](/post/to/) [connect](/post/connect/) [with](/post/with/) [her](/post/her/) friends [regularly](/post/regularly/)."
 
-### [Adjective](/en/post/adjective/)
-- **Connected**: Linked [or](/en/post/or/) associated. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) houses [in](/en/post/in/) [this](/en/post/this/) neighborhood are [all](/en/post/all/) connected [by](/en/post/by/) [narrow](/en/post/narrow/) streets."
-- **Disconnected**: [Not](/en/post/not/) linked [or](/en/post/or/) lacking [communication](/en/post/communication/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [phone](/en/post/phone/) was disconnected [due](/en/post/due/) [to](/en/post/to/) [poor](/en/post/poor/) [service](/en/post/service/)."
+### [Adjective](/post/adjective/)
+- **Connected**: Linked [or](/post/or/) associated. [For](/post/for/) [example](/post/example/): "[The](/post/the/) houses [in](/post/in/) [this](/post/this/) neighborhood are [all](/post/all/) connected [by](/post/by/) [narrow](/post/narrow/) streets."
+- **Disconnected**: [Not](/post/not/) linked [or](/post/or/) lacking [communication](/post/communication/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [phone](/post/phone/) was disconnected [due](/post/due/) [to](/post/to/) [poor](/post/poor/) [service](/post/service/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [connection](/en/post/connection/)" [means](/en/post/means/) [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [relationship](/en/post/relationship/) [or](/en/post/or/) [bond](/en/post/bond/).
-- "[Stay](/en/post/stay/) connected" refers [to](/en/post/to/) staying [in](/en/post/in/) [touch](/en/post/touch/) [or](/en/post/or/) maintaining [a](/en/post/a/) [relationship](/en/post/relationship/).
-- "[Cut](/en/post/cut/) [the](/en/post/the/) [connection](/en/post/connection/)" [means](/en/post/means/) [to](/en/post/to/) sever [or](/en/post/or/) terminate [a](/en/post/a/) [connection](/en/post/connection/).
+- "[Make](/post/make/) [a](/post/a/) [connection](/post/connection/)" [means](/post/means/) [to](/post/to/) [form](/post/form/) [a](/post/a/) [relationship](/post/relationship/) [or](/post/or/) [bond](/post/bond/).
+- "[Stay](/post/stay/) connected" refers [to](/post/to/) staying [in](/post/in/) [touch](/post/touch/) [or](/post/or/) maintaining [a](/post/a/) [relationship](/post/relationship/).
+- "[Cut](/post/cut/) [the](/post/the/) [connection](/post/connection/)" [means](/post/means/) [to](/post/to/) sever [or](/post/or/) terminate [a](/post/a/) [connection](/post/connection/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) felt [a](/en/post/a/) [deep](/en/post/deep/) [emotional](/en/post/emotional/) [connection](/en/post/connection/) [with](/en/post/with/) [her](/en/post/her/) [sister](/en/post/sister/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) software allows users [to](/en/post/to/) [easily](/en/post/easily/) [connect](/en/post/connect/) [their](/en/post/their/) devices."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [airport](/en/post/airport/) lounge provides [free](/en/post/free/) Wi-Fi [for](/en/post/for/) connected passengers."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) felt [a](/post/a/) [deep](/post/deep/) [emotional](/post/emotional/) [connection](/post/connection/) [with](/post/with/) [her](/post/her/) [sister](/post/sister/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) software allows users [to](/post/to/) [easily](/post/easily/) [connect](/post/connect/) [their](/post/their/) devices."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [airport](/post/airport/) lounge provides [free](/post/free/) Wi-Fi [for](/post/for/) connected passengers."
 
 ## Synonyms
-- [Link](/en/post/link/)
-- [Association](/en/post/association/)
+- [Link](/post/link/)
+- [Association](/post/association/)
 - Ties
-- [Relationship](/en/post/relationship/)
+- [Relationship](/post/relationship/)
 - Attachment
-- [Bond](/en/post/bond/)
+- [Bond](/post/bond/)
 - Interconnection
 - Alliance

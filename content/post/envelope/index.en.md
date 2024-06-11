@@ -7,39 +7,39 @@ description = '[ˈenviləup] n.信封；封套；封皮'
 keywords = ['ai words', 'envelope']
 +++
 
-## [Word](/en/post/word/): [Envelope](/en/post/envelope/)
+## [Word](/post/word/): [Envelope](/post/envelope/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈenvəlopeɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [flat](/en/post/flat/) [paper](/en/post/paper/) [container](/en/post/container/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) gummed flap, [used](/en/post/used/) [for](/en/post/for/) enclosing [and](/en/post/and/) sending letters [or](/en/post/or/) documents [through](/en/post/through/) [the](/en/post/the/) [mail](/en/post/mail/) [or](/en/post/or/) [for](/en/post/for/) storing papers [together](/en/post/together/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sealed [the](/en/post/the/) [letter](/en/post/letter/) [in](/en/post/in/) an [envelope](/en/post/envelope/) [and](/en/post/and/) [put](/en/post/put/) [it](/en/post/it/) [in](/en/post/in/) [the](/en/post/the/) mailbox."
-  - [Also](/en/post/also/) [used](/en/post/used/) metaphorically [to](/en/post/to/) denote [something](/en/post/something/) [that](/en/post/that/) surrounds, encompasses, [or](/en/post/or/) contains [another](/en/post/another/) [thing](/en/post/thing/); [like](/en/post/like/) [the](/en/post/the/) [atmosphere](/en/post/atmosphere/) [as](/en/post/as/) [the](/en/post/the/) [envelope](/en/post/envelope/) [of](/en/post/of/) [the](/en/post/the/) [Earth](/en/post/earth/).
-  - [In](/en/post/in/) [mathematics](/en/post/mathematics/) [or](/en/post/or/) [physics](/en/post/physics/), [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [boundary](/en/post/boundary/) [or](/en/post/or/) [surface](/en/post/surface/) [that](/en/post/that/) encloses [a](/en/post/a/) [volume](/en/post/volume/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [light](/en/post/light/) cone [in](/en/post/in/) spacetime.
+- **[Noun](/post/noun/)**: [A](/post/a/) [flat](/post/flat/) [paper](/post/paper/) [container](/post/container/), [often](/post/often/) [with](/post/with/) [a](/post/a/) gummed flap, [used](/post/used/) [for](/post/for/) enclosing [and](/post/and/) sending letters [or](/post/or/) documents [through](/post/through/) [the](/post/the/) [mail](/post/mail/) [or](/post/or/) [for](/post/for/) storing papers [together](/post/together/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) sealed [the](/post/the/) [letter](/post/letter/) [in](/post/in/) an [envelope](/post/envelope/) [and](/post/and/) [put](/post/put/) [it](/post/it/) [in](/post/in/) [the](/post/the/) mailbox."
+  - [Also](/post/also/) [used](/post/used/) metaphorically [to](/post/to/) denote [something](/post/something/) [that](/post/that/) surrounds, encompasses, [or](/post/or/) contains [another](/post/another/) [thing](/post/thing/); [like](/post/like/) [the](/post/the/) [atmosphere](/post/atmosphere/) [as](/post/as/) [the](/post/the/) [envelope](/post/envelope/) [of](/post/of/) [the](/post/the/) [Earth](/post/earth/).
+  - [In](/post/in/) [mathematics](/post/mathematics/) [or](/post/or/) [physics](/post/physics/), [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [boundary](/post/boundary/) [or](/post/or/) [surface](/post/surface/) [that](/post/that/) encloses [a](/post/a/) [volume](/post/volume/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [light](/post/light/) cone [in](/post/in/) spacetime.
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/) ([noun](/en/post/noun/)): 
-- _He slipped [the](/en/post/the/) [important](/en/post/important/) [document](/en/post/document/) [inside](/en/post/inside/) [a](/en/post/a/) [yellow](/en/post/yellow/) [envelope](/en/post/envelope/) [before](/en/post/before/) sealing [it](/en/post/it/)._
+[Example](/post/example/) [sentence](/post/sentence/) ([noun](/post/noun/)): 
+- _He slipped [the](/post/the/) [important](/post/important/) [document](/post/document/) [inside](/post/inside/) [a](/post/a/) [yellow](/post/yellow/) [envelope](/post/envelope/) [before](/post/before/) sealing [it](/post/it/)._
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [wrap](/en/post/wrap/) [up](/en/post/up/) [or](/en/post/or/) [cover](/en/post/cover/) [completely](/en/post/completely/) [with](/en/post/with/) [or](/en/post/or/) [as](/en/post/as/) [if](/en/post/if/) [with](/en/post/with/) an [envelope](/en/post/envelope/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) virus envelopes [its](/en/post/its/) [host](/en/post/host/) [cell](/en/post/cell/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) figuratively [to](/en/post/to/) [mean](/en/post/mean/) [to](/en/post/to/) [enclose](/en/post/enclose/) [or](/en/post/or/) [contain](/en/post/contain/) [something](/en/post/something/) [within](/en/post/within/) [a](/en/post/a/) defined [space](/en/post/space/) [or](/en/post/or/) [limit](/en/post/limit/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [wrap](/post/wrap/) [up](/post/up/) [or](/post/or/) [cover](/post/cover/) [completely](/post/completely/) [with](/post/with/) [or](/post/or/) [as](/post/as/) [if](/post/if/) [with](/post/with/) an [envelope](/post/envelope/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) virus envelopes [its](/post/its/) [host](/post/host/) [cell](/post/cell/)."
+  - [Also](/post/also/) [used](/post/used/) figuratively [to](/post/to/) [mean](/post/mean/) [to](/post/to/) [enclose](/post/enclose/) [or](/post/or/) [contain](/post/contain/) [something](/post/something/) [within](/post/within/) [a](/post/a/) defined [space](/post/space/) [or](/post/or/) [limit](/post/limit/). 
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/) ([verb](/en/post/verb/)): 
-- _The [new](/en/post/new/) [building](/en/post/building/) [design](/en/post/design/) envelopes [a](/en/post/a/) [central](/en/post/central/) courtyard._
+[Example](/post/example/) [sentence](/post/sentence/) ([verb](/post/verb/)): 
+- _The [new](/post/new/) [building](/post/building/) [design](/post/design/) envelopes [a](/post/a/) [central](/post/central/) courtyard._
 
 ## Phrases
-- "[Push](/en/post/push/) [the](/en/post/the/) [envelope](/en/post/envelope/)" [meaning](/en/post/meaning/) [to](/en/post/to/) [exceed](/en/post/exceed/) [normal](/en/post/normal/) limits [or](/en/post/or/) boundaries, typically [in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) technological [or](/en/post/or/) [creative](/en/post/creative/) endeavors.
-- "[Envelope](/en/post/envelope/) budgeting" is [a](/en/post/a/) [financial](/en/post/financial/) planning [method](/en/post/method/) [where](/en/post/where/) [income](/en/post/income/) is allocated [to](/en/post/to/) [various](/en/post/various/) expenses categories represented [by](/en/post/by/) [separate](/en/post/separate/) envelopes.
+- "[Push](/post/push/) [the](/post/the/) [envelope](/post/envelope/)" [meaning](/post/meaning/) [to](/post/to/) [exceed](/post/exceed/) [normal](/post/normal/) limits [or](/post/or/) boundaries, typically [in](/post/in/) [reference](/post/reference/) [to](/post/to/) technological [or](/post/or/) [creative](/post/creative/) endeavors.
+- "[Envelope](/post/envelope/) budgeting" is [a](/post/a/) [financial](/post/financial/) planning [method](/post/method/) [where](/post/where/) [income](/post/income/) is allocated [to](/post/to/) [various](/post/various/) expenses categories represented [by](/post/by/) [separate](/post/separate/) envelopes.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [need](/en/post/need/) [to](/en/post/to/) [buy](/en/post/buy/) [some](/en/post/some/) stamps [to](/en/post/to/) [mail](/en/post/mail/) [these](/en/post/these/) envelopes."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) darkness began [to](/en/post/to/) [envelope](/en/post/envelope/) [the](/en/post/the/) [city](/en/post/city/) [as](/en/post/as/) [the](/en/post/the/) [sun](/en/post/sun/) [set](/en/post/set/) [behind](/en/post/behind/) [the](/en/post/the/) [horizon](/en/post/horizon/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [some](/post/some/) stamps [to](/post/to/) [mail](/post/mail/) [these](/post/these/) envelopes."
+- **[Verb](/post/verb/)**: "[The](/post/the/) darkness began [to](/post/to/) [envelope](/post/envelope/) [the](/post/the/) [city](/post/city/) [as](/post/as/) [the](/post/the/) [sun](/post/sun/) [set](/post/set/) [behind](/post/behind/) [the](/post/the/) [horizon](/post/horizon/)."
 
 ## Synonyms
 - Wrapper
-- [Cover](/en/post/cover/)
-- [Packet](/en/post/packet/)
-- [Sleeve](/en/post/sleeve/)
+- [Cover](/post/cover/)
+- [Packet](/post/packet/)
+- [Sleeve](/post/sleeve/)
 - Enclosure
-- [Case](/en/post/case/) (metaphorical uses)
-- Sheath ([for](/en/post/for/) metaphorical enveloping)
-- Coating ([in](/en/post/in/) [scientific](/en/post/scientific/) contexts)
+- [Case](/post/case/) (metaphorical uses)
+- Sheath ([for](/post/for/) metaphorical enveloping)
+- Coating ([in](/post/in/) [scientific](/post/scientific/) contexts)

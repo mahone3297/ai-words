@@ -7,30 +7,30 @@ description = '[ˈɔp∫ənəl] a.可以任意选择的'
 keywords = ['ai words', 'optional']
 +++
 
-## [Word](/en/post/word/): [Optional](/en/post/optional/)
+## [Word](/post/word/): [Optional](/post/optional/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɑːpʃənl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) [necessary](/en/post/necessary/); [left](/en/post/left/) [to](/en/post/to/) [personal](/en/post/personal/) [choice](/en/post/choice/) [or](/en/post/or/) [preference](/en/post/preference/). [It](/en/post/it/) describes [something](/en/post/something/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) chosen [but](/en/post/but/) is [not](/en/post/not/) required.
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) [necessary](/post/necessary/); [left](/post/left/) [to](/post/to/) [personal](/post/personal/) [choice](/post/choice/) [or](/post/or/) [preference](/post/preference/). [It](/post/it/) describes [something](/post/something/) [that](/post/that/) [can](/post/can/) [be](/post/be/) chosen [but](/post/but/) is [not](/post/not/) required.
 
 ### Examples
-- _**[Optional](/en/post/optional/) [activity](/en/post/activity/)**: Attending [the](/en/post/the/) after-class [workshop](/en/post/workshop/) is [optional](/en/post/optional/) [for](/en/post/for/) students._
-- _**[Optional](/en/post/optional/) [feature](/en/post/feature/)**: [The](/en/post/the/) premium [package](/en/post/package/) includes [several](/en/post/several/) [optional](/en/post/optional/) features [like](/en/post/like/) heated seats [and](/en/post/and/) [a](/en/post/a/) sunroof._
+- _**[Optional](/post/optional/) [activity](/post/activity/)**: Attending [the](/post/the/) after-class [workshop](/post/workshop/) is [optional](/post/optional/) [for](/post/for/) students._
+- _**[Optional](/post/optional/) [feature](/post/feature/)**: [The](/post/the/) premium [package](/post/package/) includes [several](/post/several/) [optional](/post/optional/) features [like](/post/like/) heated seats [and](/post/and/) [a](/post/a/) sunroof._
 
 ## Phrases
-- **[Optional](/en/post/optional/) extras**: [Additional](/en/post/additional/) items [or](/en/post/or/) services [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) chosen [by](/en/post/by/) [a](/en/post/a/) [customer](/en/post/customer/) [but](/en/post/but/) are [not](/en/post/not/) included [in](/en/post/in/) [the](/en/post/the/) [standard](/en/post/standard/) [price](/en/post/price/).
-- **[Optional](/en/post/optional/) [course](/en/post/course/)**: [A](/en/post/a/) [class](/en/post/class/) [or](/en/post/or/) [subject](/en/post/subject/) [that](/en/post/that/) [a](/en/post/a/) [student](/en/post/student/) [may](/en/post/may/) [choose](/en/post/choose/) [to](/en/post/to/) [take](/en/post/take/) [but](/en/post/but/) is [not](/en/post/not/) required [for](/en/post/for/) [their](/en/post/their/) [degree](/en/post/degree/) [or](/en/post/or/) [program](/en/post/program/).
-- **[Make](/en/post/make/) [something](/en/post/something/) [optional](/en/post/optional/)**: [To](/en/post/to/) [allow](/en/post/allow/) [people](/en/post/people/) [to](/en/post/to/) [decide](/en/post/decide/) [whether](/en/post/whether/) [they](/en/post/they/) [want](/en/post/want/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [or](/en/post/or/) [include](/en/post/include/) [it](/en/post/it/), [rather](/en/post/rather/) [than](/en/post/than/) mandating [it](/en/post/it/).
+- **[Optional](/post/optional/) extras**: [Additional](/post/additional/) items [or](/post/or/) services [that](/post/that/) [can](/post/can/) [be](/post/be/) chosen [by](/post/by/) [a](/post/a/) [customer](/post/customer/) [but](/post/but/) are [not](/post/not/) included [in](/post/in/) [the](/post/the/) [standard](/post/standard/) [price](/post/price/).
+- **[Optional](/post/optional/) [course](/post/course/)**: [A](/post/a/) [class](/post/class/) [or](/post/or/) [subject](/post/subject/) [that](/post/that/) [a](/post/a/) [student](/post/student/) [may](/post/may/) [choose](/post/choose/) [to](/post/to/) [take](/post/take/) [but](/post/but/) is [not](/post/not/) required [for](/post/for/) [their](/post/their/) [degree](/post/degree/) [or](/post/or/) [program](/post/program/).
+- **[Make](/post/make/) [something](/post/something/) [optional](/post/optional/)**: [To](/post/to/) [allow](/post/allow/) [people](/post/people/) [to](/post/to/) [decide](/post/decide/) [whether](/post/whether/) [they](/post/they/) [want](/post/want/) [to](/post/to/) [do](/post/do/) [something](/post/something/) [or](/post/or/) [include](/post/include/) [it](/post/it/), [rather](/post/rather/) [than](/post/than/) mandating [it](/post/it/).
 
-## [Example](/en/post/example/) Sentences
-- _The [company](/en/post/company/) offers [flexible](/en/post/flexible/) working hours, [with](/en/post/with/) Fridays [being](/en/post/being/) an [optional](/en/post/optional/) work-from-home [day](/en/post/day/)._
-- _In [the](/en/post/the/) [survey](/en/post/survey/), participants [could](/en/post/could/) [answer](/en/post/answer/) [the](/en/post/the/) [last](/en/post/last/) [question](/en/post/question/), [which](/en/post/which/) was [optional](/en/post/optional/)._
+## [Example](/post/example/) Sentences
+- _The [company](/post/company/) offers [flexible](/post/flexible/) working hours, [with](/post/with/) Fridays [being](/post/being/) an [optional](/post/optional/) work-from-home [day](/post/day/)._
+- _In [the](/post/the/) [survey](/post/survey/), participants [could](/post/could/) [answer](/post/answer/) [the](/post/the/) [last](/post/last/) [question](/post/question/), [which](/post/which/) was [optional](/post/optional/)._
 
 ## Synonyms
 - Elective
-- [Voluntary](/en/post/voluntary/)
+- [Voluntary](/post/voluntary/)
 - Non-compulsory
 - Discretionary
 - Unobligatory

@@ -7,31 +7,31 @@ description = '[ˈvəultidʒ] n.电压'
 keywords = ['ai words', 'voltage']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vəʊˈləʊt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [electric](/en/post/electric/) [potential](/en/post/potential/) [difference](/en/post/difference/) [between](/en/post/between/) [two](/en/post/two/) points [in](/en/post/in/) [a](/en/post/a/) [circuit](/en/post/circuit/), [usually](/en/post/usually/) measured [in](/en/post/in/) volts (V). [It](/en/post/it/) represents [the](/en/post/the/) [force](/en/post/force/) [that](/en/post/that/) causes [electric](/en/post/electric/) [current](/en/post/current/) [to](/en/post/to/) [flow](/en/post/flow/).
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) denoting [voltage](/en/post/voltage/) [or](/en/post/or/) [electrical](/en/post/electrical/) [pressure](/en/post/pressure/).
+- **[Noun](/post/noun/)**: [A](/post/a/) [measure](/post/measure/) [of](/post/of/) [electric](/post/electric/) [potential](/post/potential/) [difference](/post/difference/) [between](/post/between/) [two](/post/two/) points [in](/post/in/) [a](/post/a/) [circuit](/post/circuit/), [usually](/post/usually/) measured [in](/post/in/) volts (V). [It](/post/it/) represents [the](/post/the/) [force](/post/force/) [that](/post/that/) causes [electric](/post/electric/) [current](/post/current/) [to](/post/to/) [flow](/post/flow/).
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) denoting [voltage](/post/voltage/) [or](/post/or/) [electrical](/post/electrical/) [pressure](/post/pressure/).
 
 ## Phrases
-- "[Voltage](/en/post/voltage/) [drop](/en/post/drop/)" refers [to](/en/post/to/) [a](/en/post/a/) [decrease](/en/post/decrease/) [in](/en/post/in/) [voltage](/en/post/voltage/) [across](/en/post/across/) [a](/en/post/a/) [conductor](/en/post/conductor/).
-- "[High](/en/post/high/) [voltage](/en/post/voltage/)" designates [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) [electrical](/en/post/electrical/) [potential](/en/post/potential/).
-- "[Stable](/en/post/stable/) [voltage](/en/post/voltage/)" indicates [a](/en/post/a/) [constant](/en/post/constant/) [and](/en/post/and/) [reliable](/en/post/reliable/) [electrical](/en/post/electrical/) [supply](/en/post/supply/).
+- "[Voltage](/post/voltage/) [drop](/post/drop/)" refers [to](/post/to/) [a](/post/a/) [decrease](/post/decrease/) [in](/post/in/) [voltage](/post/voltage/) [across](/post/across/) [a](/post/a/) [conductor](/post/conductor/).
+- "[High](/post/high/) [voltage](/post/voltage/)" designates [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) [electrical](/post/electrical/) [potential](/post/potential/).
+- "[Stable](/post/stable/) [voltage](/post/voltage/)" indicates [a](/post/a/) [constant](/post/constant/) [and](/post/and/) [reliable](/post/reliable/) [electrical](/post/electrical/) [supply](/post/supply/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [power](/en/post/power/) [source](/en/post/source/) provides [a](/en/post/a/) [stable](/en/post/stable/) 12-volt [voltage](/en/post/voltage/) [to](/en/post/to/) [run](/en/post/run/) [the](/en/post/the/) [electronic](/en/post/electronic/) devices.
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [transformer](/en/post/transformer/) stepped [up](/en/post/up/) [the](/en/post/the/) [low](/en/post/low/) [voltage](/en/post/voltage/) [to](/en/post/to/) [high](/en/post/high/) [voltage](/en/post/voltage/) [for](/en/post/for/) [transmission](/en/post/transmission/) [over](/en/post/over/) [long](/en/post/long/) distances.
-- **Phrasal [Verb](/en/post/verb/)**: [The](/en/post/the/) electrician checked [for](/en/post/for/) [any](/en/post/any/) [voltage](/en/post/voltage/) fluctuations [in](/en/post/in/) [the](/en/post/the/) wiring.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [power](/post/power/) [source](/post/source/) provides [a](/post/a/) [stable](/post/stable/) 12-volt [voltage](/post/voltage/) [to](/post/to/) [run](/post/run/) [the](/post/the/) [electronic](/post/electronic/) devices.
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [transformer](/post/transformer/) stepped [up](/post/up/) [the](/post/the/) [low](/post/low/) [voltage](/post/voltage/) [to](/post/to/) [high](/post/high/) [voltage](/post/voltage/) [for](/post/for/) [transmission](/post/transmission/) [over](/post/over/) [long](/post/long/) distances.
+- **Phrasal [Verb](/post/verb/)**: [The](/post/the/) electrician checked [for](/post/for/) [any](/post/any/) [voltage](/post/voltage/) fluctuations [in](/post/in/) [the](/post/the/) wiring.
 
 ## Synonyms
-- [Electric](/en/post/electric/) [potential](/en/post/potential/)
-- Electromotive [force](/en/post/force/) (EMF)
-- [Electrical](/en/post/electrical/) [pressure](/en/post/pressure/)
-- Voltaginal [force](/en/post/force/)
-- [Potential](/en/post/potential/) [difference](/en/post/difference/)
+- [Electric](/post/electric/) [potential](/post/potential/)
+- Electromotive [force](/post/force/) (EMF)
+- [Electrical](/post/electrical/) [pressure](/post/pressure/)
+- Voltaginal [force](/post/force/)
+- [Potential](/post/potential/) [difference](/post/difference/)
 
 ## Antonyms
-- [Ground](/en/post/ground/) ([zero](/en/post/zero/) [voltage](/en/post/voltage/))
-- [Low](/en/post/low/) [voltage](/en/post/voltage/)
-- Insulation ([no](/en/post/no/) [flow](/en/post/flow/) [of](/en/post/of/) [voltage](/en/post/voltage/))
+- [Ground](/post/ground/) ([zero](/post/zero/) [voltage](/post/voltage/))
+- [Low](/post/low/) [voltage](/post/voltage/)
+- Insulation ([no](/post/no/) [flow](/post/flow/) [of](/post/of/) [voltage](/post/voltage/))

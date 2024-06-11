@@ -11,26 +11,26 @@ keywords = ['ai words', 'fine']
 /faɪn/
 
 ## 释义
-- **形容词**: 好的，优秀的，精美的。例如: "[The](/post/the/) [weather](/post/weather/) is [absolutely](/post/absolutely/) [fine](/post/fine/) [today](/post/today/)."
-- **形容词**: 细小的，微小的。例如: "[Please](/post/please/) [use](/post/use/) [a](/post/a/) [fine](/post/fine/) [brush](/post/brush/) [for](/post/for/) [this](/post/this/) [detail](/post/detail/)."
-- **形容词**: 身体健康的，无恙的。例如: "I'm [feeling](/post/feeling/) [fine](/post/fine/), [thank](/post/thank/) [you](/post/you/)."
-- **动词**: 罚款。例如: "[If](/post/if/) [you](/post/you/) [exceed](/post/exceed/) [the](/post/the/) [speed](/post/speed/) [limit](/post/limit/), you'll [be](/post/be/) fined."
-- **名词**: 罚款。例如: "[He](/post/he/) had [to](/post/to/) [pay](/post/pay/) [a](/post/a/) [heavy](/post/heavy/) [fine](/post/fine/) [for](/post/for/) parking [in](/post/in/) [the](/post/the/) [wrong](/post/wrong/) [spot](/post/spot/)."
-- **副词**: 很好，出色地。例如: "[She](/post/she/) performed [fine](/post/fine/) [in](/post/in/) [her](/post/her/) [dance](/post/dance/) recital."
+- **形容词**: 好的，优秀的，精美的。例如: "[The](/zh/post/the/) [weather](/zh/post/weather/) is [absolutely](/zh/post/absolutely/) [fine](/zh/post/fine/) [today](/zh/post/today/)."
+- **形容词**: 细小的，微小的。例如: "[Please](/zh/post/please/) [use](/zh/post/use/) [a](/zh/post/a/) [fine](/zh/post/fine/) [brush](/zh/post/brush/) [for](/zh/post/for/) [this](/zh/post/this/) [detail](/zh/post/detail/)."
+- **形容词**: 身体健康的，无恙的。例如: "I'm [feeling](/zh/post/feeling/) [fine](/zh/post/fine/), [thank](/zh/post/thank/) [you](/zh/post/you/)."
+- **动词**: 罚款。例如: "[If](/zh/post/if/) [you](/zh/post/you/) [exceed](/zh/post/exceed/) [the](/zh/post/the/) [speed](/zh/post/speed/) [limit](/zh/post/limit/), you'll [be](/zh/post/be/) fined."
+- **名词**: 罚款。例如: "[He](/zh/post/he/) had [to](/zh/post/to/) [pay](/zh/post/pay/) [a](/zh/post/a/) [heavy](/zh/post/heavy/) [fine](/zh/post/fine/) [for](/zh/post/for/) parking [in](/zh/post/in/) [the](/zh/post/the/) [wrong](/zh/post/wrong/) [spot](/zh/post/spot/)."
+- **副词**: 很好，出色地。例如: "[She](/zh/post/she/) performed [fine](/zh/post/fine/) [in](/zh/post/in/) [her](/zh/post/her/) [dance](/zh/post/dance/) recital."
 
 ## 短语
-- "[In](/post/in/) [fine](/post/fine/) [condition](/post/condition/)" 意为状况良好。
-- "[Fine](/post/fine/) [print](/post/print/)" 指的是合同或文件中的小字或细则。
+- "[In](/zh/post/in/) [fine](/zh/post/fine/) [condition](/zh/post/condition/)" 意为状况良好。
+- "[Fine](/zh/post/fine/) [print](/zh/post/print/)" 指的是合同或文件中的小字或细则。
 - "Fine-tune" 意为细微调整，改进。
 
 ## 例句
-- 形容词: "[The](/post/the/) [quality](/post/quality/) [of](/post/of/) [the](/post/the/) artwork is [simply](/post/simply/) [fine](/post/fine/)."
-- 动词: "[The](/post/the/) [police](/post/police/) fined [him](/post/him/) [for](/post/for/) [not](/post/not/) wearing [a](/post/a/) [helmet](/post/helmet/) [while](/post/while/) riding [his](/post/his/) [bike](/post/bike/)."
-- 副词: "[She](/post/she/) sings [fine](/post/fine/) [without](/post/without/) [any](/post/any/) [professional](/post/professional/) [training](/post/training/)."
+- 形容词: "[The](/zh/post/the/) [quality](/zh/post/quality/) [of](/zh/post/of/) [the](/zh/post/the/) artwork is [simply](/zh/post/simply/) [fine](/zh/post/fine/)."
+- 动词: "[The](/zh/post/the/) [police](/zh/post/police/) fined [him](/zh/post/him/) [for](/zh/post/for/) [not](/zh/post/not/) wearing [a](/zh/post/a/) [helmet](/zh/post/helmet/) [while](/zh/post/while/) riding [his](/zh/post/his/) [bike](/zh/post/bike/)."
+- 副词: "[She](/zh/post/she/) sings [fine](/zh/post/fine/) [without](/zh/post/without/) [any](/zh/post/any/) [professional](/zh/post/professional/) [training](/zh/post/training/)."
 
 ## 同义词
-- [Good](/post/good/)
-- [Excellent](/post/excellent/)
-- [Beautiful](/post/beautiful/)
-- [Great](/post/great/)
+- [Good](/zh/post/good/)
+- [Excellent](/zh/post/excellent/)
+- [Beautiful](/zh/post/beautiful/)
+- [Great](/zh/post/great/)
 - Superb

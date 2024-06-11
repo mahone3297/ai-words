@@ -12,19 +12,19 @@ keywords = ['ai words', 'leaf']
 
 ## 释义
 - **名词 n**:
-1. 树叶，植物的叶子。例如: "[The](/post/the/) [tree](/post/tree/) had lost [all](/post/all/) [its](/post/its/) leaves [in](/post/in/) [autumn](/post/autumn/)."
-2. 书页，纸张的一边。例如: "[Please](/post/please/) [turn](/post/turn/) [to](/post/to/) [page](/post/page/) 56, [the](/post/the/) [leaf](/post/leaf/) [with](/post/with/) [the](/post/the/) [poem](/post/poem/) [on](/post/on/) [it](/post/it/)."
+1. 树叶，植物的叶子。例如: "[The](/zh/post/the/) [tree](/zh/post/tree/) had lost [all](/zh/post/all/) [its](/zh/post/its/) leaves [in](/zh/post/in/) [autumn](/zh/post/autumn/)."
+2. 书页，纸张的一边。例如: "[Please](/zh/post/please/) [turn](/zh/post/turn/) [to](/zh/post/to/) [page](/zh/post/page/) 56, [the](/zh/post/the/) [leaf](/zh/post/leaf/) [with](/zh/post/with/) [the](/zh/post/the/) [poem](/zh/post/poem/) [on](/zh/post/on/) [it](/zh/post/it/)."
 
 ## 短语
-- "[leaf](/post/leaf/) [through](/post/through/)" 快速翻阅，浏览。例如: "[She](/post/she/) leafed [through](/post/through/) [the](/post/the/) [magazine](/post/magazine/) looking [for](/post/for/) an [interesting](/post/interesting/) [article](/post/article/)."
-- "[turn](/post/turn/) [over](/post/over/) [a](/post/a/) [new](/post/new/) [leaf](/post/leaf/)" 开始新的生活，改过自新。例如: "[After](/post/after/) [his](/post/his/) [accident](/post/accident/), [he](/post/he/) decided [to](/post/to/) [turn](/post/turn/) [over](/post/over/) [a](/post/a/) [new](/post/new/) [leaf](/post/leaf/) [and](/post/and/) [quit](/post/quit/) smoking."
+- "[leaf](/zh/post/leaf/) [through](/zh/post/through/)" 快速翻阅，浏览。例如: "[She](/zh/post/she/) leafed [through](/zh/post/through/) [the](/zh/post/the/) [magazine](/zh/post/magazine/) looking [for](/zh/post/for/) an [interesting](/zh/post/interesting/) [article](/zh/post/article/)."
+- "[turn](/zh/post/turn/) [over](/zh/post/over/) [a](/zh/post/a/) [new](/zh/post/new/) [leaf](/zh/post/leaf/)" 开始新的生活，改过自新。例如: "[After](/zh/post/after/) [his](/zh/post/his/) [accident](/zh/post/accident/), [he](/zh/post/he/) decided [to](/zh/post/to/) [turn](/zh/post/turn/) [over](/zh/post/over/) [a](/zh/post/a/) [new](/zh/post/new/) [leaf](/zh/post/leaf/) [and](/zh/post/and/) [quit](/zh/post/quit/) smoking."
 
 ## 例句
-- 名词: "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) colorful leaves [of](/post/of/) [different](/post/different/) shapes [and](/post/and/) sizes."
-- 短语: "[She](/post/she/) leafed [through](/post/through/) [the](/post/the/) [book](/post/book/), stopping [occasionally](/post/occasionally/) [to](/post/to/) [read](/post/read/) [a](/post/a/) [passage](/post/passage/)."
+- 名词: "[The](/zh/post/the/) [garden](/zh/post/garden/) was filled [with](/zh/post/with/) colorful leaves [of](/zh/post/of/) [different](/zh/post/different/) shapes [and](/zh/post/and/) sizes."
+- 短语: "[She](/zh/post/she/) leafed [through](/zh/post/through/) [the](/zh/post/the/) [book](/zh/post/book/), stopping [occasionally](/zh/post/occasionally/) [to](/zh/post/to/) [read](/zh/post/read/) [a](/zh/post/a/) [passage](/zh/post/passage/)."
 
 ## 同义词
-- [blade](/post/blade/) ([of](/post/of/) [grass](/post/grass/) [or](/post/or/) [a](/post/a/) [plant](/post/plant/))
+- [blade](/zh/post/blade/) ([of](/zh/post/of/) [grass](/zh/post/grass/) [or](/zh/post/or/) [a](/zh/post/a/) [plant](/zh/post/plant/))
 - foliage
-- [page](/post/page/)
-- [sheet](/post/sheet/) ([of](/post/of/) [paper](/post/paper/))
+- [page](/zh/post/page/)
+- [sheet](/zh/post/sheet/) ([of](/zh/post/of/) [paper](/zh/post/paper/))

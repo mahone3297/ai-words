@@ -7,35 +7,35 @@ description = '[maiˈnɔriti] n.少数；少数民族'
 keywords = ['ai words', 'minority']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmaɪˌnɔːrəti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) smaller [number](/en/post/number/) [or](/en/post/or/) [amount](/en/post/amount/); [a](/en/post/a/) [group](/en/post/group/) [that](/en/post/that/) is smaller [than](/en/post/than/) [and](/en/post/and/) [often](/en/post/often/) outnumbered [by](/en/post/by/) [a](/en/post/a/) larger [group](/en/post/group/) [which](/en/post/which/) [it](/en/post/it/) is [being](/en/post/being/) compared [to](/en/post/to/), [especially](/en/post/especially/) [when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) segment [of](/en/post/of/) [the](/en/post/the/) [population](/en/post/population/) based [on](/en/post/on/) factors [like](/en/post/like/) [race](/en/post/race/), ethnicity, gender, [age](/en/post/age/), [religion](/en/post/religion/), [or](/en/post/or/) disability [status](/en/post/status/). [This](/en/post/this/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [status](/en/post/status/) [of](/en/post/of/) [such](/en/post/such/) [a](/en/post/a/) [group](/en/post/group/) [within](/en/post/within/) [society](/en/post/society/) [or](/en/post/or/) [politics](/en/post/politics/).
+- **[Noun](/post/noun/)**: [A](/post/a/) smaller [number](/post/number/) [or](/post/or/) [amount](/post/amount/); [a](/post/a/) [group](/post/group/) [that](/post/that/) is smaller [than](/post/than/) [and](/post/and/) [often](/post/often/) outnumbered [by](/post/by/) [a](/post/a/) larger [group](/post/group/) [which](/post/which/) [it](/post/it/) is [being](/post/being/) compared [to](/post/to/), [especially](/post/especially/) [when](/post/when/) referring [to](/post/to/) [a](/post/a/) segment [of](/post/of/) [the](/post/the/) [population](/post/population/) based [on](/post/on/) factors [like](/post/like/) [race](/post/race/), ethnicity, gender, [age](/post/age/), [religion](/post/religion/), [or](/post/or/) disability [status](/post/status/). [This](/post/this/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [status](/post/status/) [of](/post/of/) [such](/post/such/) [a](/post/a/) [group](/post/group/) [within](/post/within/) [society](/post/society/) [or](/post/or/) [politics](/post/politics/).
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- _The [minority](/en/post/minority/) [community](/en/post/community/) has been advocating [for](/en/post/for/) [better](/en/post/better/) representation [in](/en/post/in/) [local](/en/post/local/) [government](/en/post/government/)._
-- _Women are [still](/en/post/still/) [a](/en/post/a/) [minority](/en/post/minority/) [in](/en/post/in/) [top](/en/post/top/) [leadership](/en/post/leadership/) positions [across](/en/post/across/) [many](/en/post/many/) industries._
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- _The [minority](/post/minority/) [community](/post/community/) has been advocating [for](/post/for/) [better](/post/better/) representation [in](/post/in/) [local](/post/local/) [government](/post/government/)._
+- _Women are [still](/post/still/) [a](/post/a/) [minority](/post/minority/) [in](/post/in/) [top](/post/top/) [leadership](/post/leadership/) positions [across](/post/across/) [many](/post/many/) industries._
 
 Phrases:
-- "[Minority](/en/post/minority/) [group](/en/post/group/)": [A](/en/post/a/) [social](/en/post/social/) [group](/en/post/group/) [that](/en/post/that/) is smaller [than](/en/post/than/) [and](/en/post/and/) [distinct](/en/post/distinct/) [from](/en/post/from/) [the](/en/post/the/) dominant [group](/en/post/group/) [within](/en/post/within/) [a](/en/post/a/) [society](/en/post/society/).
-- "[Protect](/en/post/protect/) [the](/en/post/the/) rights [of](/en/post/of/) minorities": [To](/en/post/to/) [ensure](/en/post/ensure/) [that](/en/post/that/) [the](/en/post/the/) rights [and](/en/post/and/) interests [of](/en/post/of/) smaller, [less](/en/post/less/) [powerful](/en/post/powerful/) groups are safeguarded.
-- "[In](/en/post/in/) [the](/en/post/the/) [minority](/en/post/minority/)": [Being](/en/post/being/) [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) fewer [number](/en/post/number/) [of](/en/post/of/) [people](/en/post/people/) holding [a](/en/post/a/) [particular](/en/post/particular/) [view](/en/post/view/) [or](/en/post/or/) [opinion](/en/post/opinion/).
+- "[Minority](/post/minority/) [group](/post/group/)": [A](/post/a/) [social](/post/social/) [group](/post/group/) [that](/post/that/) is smaller [than](/post/than/) [and](/post/and/) [distinct](/post/distinct/) [from](/post/from/) [the](/post/the/) dominant [group](/post/group/) [within](/post/within/) [a](/post/a/) [society](/post/society/).
+- "[Protect](/post/protect/) [the](/post/the/) rights [of](/post/of/) minorities": [To](/post/to/) [ensure](/post/ensure/) [that](/post/that/) [the](/post/the/) rights [and](/post/and/) interests [of](/post/of/) smaller, [less](/post/less/) [powerful](/post/powerful/) groups are safeguarded.
+- "[In](/post/in/) [the](/post/the/) [minority](/post/minority/)": [Being](/post/being/) [one](/post/one/) [of](/post/of/) [the](/post/the/) fewer [number](/post/number/) [of](/post/of/) [people](/post/people/) holding [a](/post/a/) [particular](/post/particular/) [view](/post/view/) [or](/post/or/) [opinion](/post/opinion/).
 
-## [Example](/en/post/example/) Sentences
-- _As [a](/en/post/a/) [minority](/en/post/minority/) shareholder, [he](/en/post/he/) doesn't [have](/en/post/have/) [much](/en/post/much/) [influence](/en/post/influence/) [over](/en/post/over/) [company](/en/post/company/) decisions._
-- _They [belong](/en/post/belong/) [to](/en/post/to/) [a](/en/post/a/) [religious](/en/post/religious/) [minority](/en/post/minority/) [in](/en/post/in/) [the](/en/post/the/) [country](/en/post/country/)._
+## [Example](/post/example/) Sentences
+- _As [a](/post/a/) [minority](/post/minority/) shareholder, [he](/post/he/) doesn't [have](/post/have/) [much](/post/much/) [influence](/post/influence/) [over](/post/over/) [company](/post/company/) decisions._
+- _They [belong](/post/belong/) [to](/post/to/) [a](/post/a/) [religious](/post/religious/) [minority](/post/minority/) [in](/post/in/) [the](/post/the/) [country](/post/country/)._
 
 ## Synonyms
-- Smaller [part](/en/post/part/)
-- [Less](/en/post/less/) [numerous](/en/post/numerous/) [group](/en/post/group/)
-- Underrepresented [group](/en/post/group/)
-- Disadvantaged [group](/en/post/group/)
-- Non-dominant [group](/en/post/group/)
-- Marginalized [group](/en/post/group/)
+- Smaller [part](/post/part/)
+- [Less](/post/less/) [numerous](/post/numerous/) [group](/post/group/)
+- Underrepresented [group](/post/group/)
+- Disadvantaged [group](/post/group/)
+- Non-dominant [group](/post/group/)
+- Marginalized [group](/post/group/)
 
-## [Other](/en/post/other/) Usages
-- **[Adjective](/en/post/adjective/)**: Describing [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [a](/en/post/a/) [minority](/en/post/minority/). [For](/en/post/for/) [instance](/en/post/instance/): "minority-owned businesses" (referring [to](/en/post/to/) businesses owned [by](/en/post/by/) members [of](/en/post/of/) [a](/en/post/a/) [minority](/en/post/minority/) [group](/en/post/group/)).
-- **[Political](/en/post/political/) [sense](/en/post/sense/)**: [The](/en/post/the/) [party](/en/post/party/) [or](/en/post/or/) [group](/en/post/group/) [with](/en/post/with/) fewer seats [or](/en/post/or/) votes [in](/en/post/in/) [a](/en/post/a/) legislative [body](/en/post/body/). [Example](/en/post/example/): "[The](/en/post/the/) opposition forms [the](/en/post/the/) [minority](/en/post/minority/) [in](/en/post/in/) [the](/en/post/the/) [Senate](/en/post/senate/)." 
+## [Other](/post/other/) Usages
+- **[Adjective](/post/adjective/)**: Describing [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [a](/post/a/) [minority](/post/minority/). [For](/post/for/) [instance](/post/instance/): "minority-owned businesses" (referring [to](/post/to/) businesses owned [by](/post/by/) members [of](/post/of/) [a](/post/a/) [minority](/post/minority/) [group](/post/group/)).
+- **[Political](/post/political/) [sense](/post/sense/)**: [The](/post/the/) [party](/post/party/) [or](/post/or/) [group](/post/group/) [with](/post/with/) fewer seats [or](/post/or/) votes [in](/post/in/) [a](/post/a/) legislative [body](/post/body/). [Example](/post/example/): "[The](/post/the/) opposition forms [the](/post/the/) [minority](/post/minority/) [in](/post/in/) [the](/post/the/) [Senate](/post/senate/)." 
 
-[Note](/en/post/note/): [While](/en/post/while/) '[minority](/en/post/minority/)' [primarily](/en/post/primarily/) functions [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [its](/en/post/its/) [usage](/en/post/usage/) [can](/en/post/can/) [extend](/en/post/extend/) [to](/en/post/to/) [adjective](/en/post/adjective/) [form](/en/post/form/) [when](/en/post/when/) describing nouns related [to](/en/post/to/) [group](/en/post/group/) [status](/en/post/status/) [or](/en/post/or/) numbers. [It](/en/post/it/) does [not](/en/post/not/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [or](/en/post/or/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) typically.
+[Note](/post/note/): [While](/post/while/) '[minority](/post/minority/)' [primarily](/post/primarily/) functions [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [its](/post/its/) [usage](/post/usage/) [can](/post/can/) [extend](/post/extend/) [to](/post/to/) [adjective](/post/adjective/) [form](/post/form/) [when](/post/when/) describing nouns related [to](/post/to/) [group](/post/group/) [status](/post/status/) [or](/post/or/) numbers. [It](/post/it/) does [not](/post/not/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [or](/post/or/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) typically.

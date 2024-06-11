@@ -7,37 +7,37 @@ description = '[kənˈtent] a.满意的，满足的'
 keywords = ['ai words', 'content']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[content](/en/post/content/)/
+## [Pronunciation](/post/pronunciation/)
+/[content](/post/content/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [substance](/en/post/substance/), [matter](/en/post/matter/), [or](/en/post/or/) [information](/en/post/information/) [that](/en/post/that/) constitutes [the](/en/post/the/) [main](/en/post/main/) [part](/en/post/part/) [or](/en/post/or/) [subject](/en/post/subject/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) expressed [as](/en/post/as/) ideas, topics, [or](/en/post/or/) themes. **[Example](/en/post/example/):** [The](/en/post/the/) website's [content](/en/post/content/) was engaging [and](/en/post/and/) informative.
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [substance](/post/substance/), [matter](/post/matter/), [or](/post/or/) [information](/post/information/) [that](/post/that/) constitutes [the](/post/the/) [main](/post/main/) [part](/post/part/) [or](/post/or/) [subject](/post/subject/) [of](/post/of/) [something](/post/something/), [often](/post/often/) expressed [as](/post/as/) ideas, topics, [or](/post/or/) themes. **[Example](/post/example/):** [The](/post/the/) website's [content](/post/content/) was engaging [and](/post/and/) informative.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [fill](/en/post/fill/), [supply](/en/post/supply/), [or](/en/post/or/) [present](/en/post/present/) [with](/en/post/with/) [substantial](/en/post/substantial/) [material](/en/post/material/) [or](/en/post/or/) [matter](/en/post/matter/); [to](/en/post/to/) constitute [the](/en/post/the/) [core](/en/post/core/) [or](/en/post/or/) essence [of](/en/post/of/) [something](/en/post/something/). **[Example](/en/post/example/):** [The](/en/post/the/) [course](/en/post/course/) [content](/en/post/content/) [will](/en/post/will/) [cover](/en/post/cover/) [various](/en/post/various/) aspects [of](/en/post/of/) [history](/en/post/history/).
+### [Verb](/post/verb/)
+[To](/post/to/) [fill](/post/fill/), [supply](/post/supply/), [or](/post/or/) [present](/post/present/) [with](/post/with/) [substantial](/post/substantial/) [material](/post/material/) [or](/post/or/) [matter](/post/matter/); [to](/post/to/) constitute [the](/post/the/) [core](/post/core/) [or](/post/or/) essence [of](/post/of/) [something](/post/something/). **[Example](/post/example/):** [The](/post/the/) [course](/post/course/) [content](/post/content/) [will](/post/will/) [cover](/post/cover/) [various](/post/various/) aspects [of](/post/of/) [history](/post/history/).
 
-### [Adjective](/en/post/adjective/)
-Characterizing [or](/en/post/or/) consisting [of](/en/post/of/) [the](/en/post/the/) [matter](/en/post/matter/) [or](/en/post/or/) [substance](/en/post/substance/) [of](/en/post/of/) [something](/en/post/something/); [significant](/en/post/significant/) [or](/en/post/or/) [substantial](/en/post/substantial/). **[Example](/en/post/example/):** [The](/en/post/the/) book's [content](/en/post/content/) is well-researched.
+### [Adjective](/post/adjective/)
+Characterizing [or](/post/or/) consisting [of](/post/of/) [the](/post/the/) [matter](/post/matter/) [or](/post/or/) [substance](/post/substance/) [of](/post/of/) [something](/post/something/); [significant](/post/significant/) [or](/post/or/) [substantial](/post/substantial/). **[Example](/post/example/):** [The](/post/the/) book's [content](/post/content/) is well-researched.
 
 ## Phrases
-- "[Content](/en/post/content/) marketing" refers [to](/en/post/to/) [the](/en/post/the/) [strategy](/en/post/strategy/) [of](/en/post/of/) creating [and](/en/post/and/) sharing [valuable](/en/post/valuable/) online [material](/en/post/material/) [to](/en/post/to/) [attract](/en/post/attract/) [and](/en/post/and/) [retain](/en/post/retain/) [a](/en/post/a/) [clearly](/en/post/clearly/) defined [audience](/en/post/audience/).
-- "[Content](/en/post/content/) creator" is [someone](/en/post/someone/) [who](/en/post/who/) produces [and](/en/post/and/) shares [original](/en/post/original/) [content](/en/post/content/), [such](/en/post/such/) [as](/en/post/as/) videos [or](/en/post/or/) blog posts.
-- "On-demand [content](/en/post/content/)" is [available](/en/post/available/) [for](/en/post/for/) [immediate](/en/post/immediate/) viewing [or](/en/post/or/) [access](/en/post/access/) [when](/en/post/when/) requested.
+- "[Content](/post/content/) marketing" refers [to](/post/to/) [the](/post/the/) [strategy](/post/strategy/) [of](/post/of/) creating [and](/post/and/) sharing [valuable](/post/valuable/) online [material](/post/material/) [to](/post/to/) [attract](/post/attract/) [and](/post/and/) [retain](/post/retain/) [a](/post/a/) [clearly](/post/clearly/) defined [audience](/post/audience/).
+- "[Content](/post/content/) creator" is [someone](/post/someone/) [who](/post/who/) produces [and](/post/and/) shares [original](/post/original/) [content](/post/content/), [such](/post/such/) [as](/post/as/) videos [or](/post/or/) blog posts.
+- "On-demand [content](/post/content/)" is [available](/post/available/) [for](/post/for/) [immediate](/post/immediate/) viewing [or](/post/or/) [access](/post/access/) [when](/post/when/) requested.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) e-book's [content](/en/post/content/) was divided [into](/en/post/into/) [several](/en/post/several/) chapters.
-- **[Verb](/en/post/verb/)**: [She](/en/post/she/) curated [the](/en/post/the/) podcast's [content](/en/post/content/) [to](/en/post/to/) [appeal](/en/post/appeal/) [to](/en/post/to/) [a](/en/post/a/) [wide](/en/post/wide/) [audience](/en/post/audience/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) high-quality [content](/en/post/content/) attracted [many](/en/post/many/) subscribers.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) e-book's [content](/post/content/) was divided [into](/post/into/) [several](/post/several/) chapters.
+- **[Verb](/post/verb/)**: [She](/post/she/) curated [the](/post/the/) podcast's [content](/post/content/) [to](/post/to/) [appeal](/post/appeal/) [to](/post/to/) [a](/post/a/) [wide](/post/wide/) [audience](/post/audience/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) high-quality [content](/post/content/) attracted [many](/post/many/) subscribers.
 
 ## Synonyms
-- [Material](/en/post/material/)
-- [Subject](/en/post/subject/) [matter](/en/post/matter/)
-- [Substance](/en/post/substance/)
-- [Core](/en/post/core/) [content](/en/post/content/)
+- [Material](/post/material/)
+- [Subject](/post/subject/) [matter](/post/matter/)
+- [Substance](/post/substance/)
+- [Core](/post/core/) [content](/post/content/)
 - Essence
 - Payload
-- [Message](/en/post/message/)
-- [Information](/en/post/information/)
-- [Data](/en/post/data/)
-- [Stuff](/en/post/stuff/)
+- [Message](/post/message/)
+- [Information](/post/information/)
+- [Data](/post/data/)
+- [Stuff](/post/stuff/)

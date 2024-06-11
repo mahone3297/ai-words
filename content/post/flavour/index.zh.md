@@ -11,19 +11,19 @@ keywords = ['ai words', 'flavour']
 /fləˈvər/
 
 ## 释义
-- **名词**: 特有的味道或香味。例如: "[This](/post/this/) [dish](/post/dish/) has [a](/post/a/) [distinct](/post/distinct/) [pepper](/post/pepper/) [flavour](/post/flavour/)."
-- **动词**: 给...增添风味；使具有特色。例如: "Flavouring [the](/post/the/) [soup](/post/soup/) [with](/post/with/) herbs enhances [its](/post/its/) [taste](/post/taste/)."
+- **名词**: 特有的味道或香味。例如: "[This](/zh/post/this/) [dish](/zh/post/dish/) has [a](/zh/post/a/) [distinct](/zh/post/distinct/) [pepper](/zh/post/pepper/) [flavour](/zh/post/flavour/)."
+- **动词**: 给...增添风味；使具有特色。例如: "Flavouring [the](/zh/post/the/) [soup](/zh/post/soup/) [with](/zh/post/with/) herbs enhances [its](/zh/post/its/) [taste](/zh/post/taste/)."
 
 ## 短语
-- "[Add](/post/add/) [flavour](/post/flavour/) [to](/post/to/)" 意味着增加食物或饮料的味道。
-- "[Natural](/post/natural/) flavours" 指来自天然来源的调味成分。
+- "[Add](/zh/post/add/) [flavour](/zh/post/flavour/) [to](/zh/post/to/)" 意味着增加食物或饮料的味道。
+- "[Natural](/zh/post/natural/) flavours" 指来自天然来源的调味成分。
 
 ## 例句
-- 名词: "[The](/post/the/) [coffee](/post/coffee/) has [a](/post/a/) [rich](/post/rich/) chocolatey [flavour](/post/flavour/)."
-- 动词: "[The](/post/the/) chef flavoured [the](/post/the/) [rice](/post/rice/) [with](/post/with/) saffron [and](/post/and/) garlic."
+- 名词: "[The](/zh/post/the/) [coffee](/zh/post/coffee/) has [a](/zh/post/a/) [rich](/zh/post/rich/) chocolatey [flavour](/zh/post/flavour/)."
+- 动词: "[The](/zh/post/the/) chef flavoured [the](/zh/post/the/) [rice](/zh/post/rice/) [with](/zh/post/with/) saffron [and](/zh/post/and/) garlic."
 
 ## 同义词
-- [Taste](/post/taste/)
+- [Taste](/zh/post/taste/)
 - Aroma
 - Essence
 - Tang

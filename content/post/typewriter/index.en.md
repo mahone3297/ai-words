@@ -7,35 +7,35 @@ description = '[ˈtaipraitə] n.打字机'
 keywords = ['ai words', 'typewriter']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /taɪprɪtər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [machine](/en/post/machine/) [for](/en/post/for/) typing characters [on](/en/post/on/) [paper](/en/post/paper/), typically having keys [that](/en/post/that/) [correspond](/en/post/correspond/) [to](/en/post/to/) letters, numbers, [and](/en/post/and/) punctuation marks.**
-   - [Example](/en/post/example/): "[The](/en/post/the/) old-fashioned [typewriter](/en/post/typewriter/) was replaced [by](/en/post/by/) [a](/en/post/a/) [computer](/en/post/computer/) [keyboard](/en/post/keyboard/)."
-2. **An [operator](/en/post/operator/) [of](/en/post/of/) [such](/en/post/such/) [a](/en/post/a/) [machine](/en/post/machine/), [especially](/en/post/especially/) [one](/en/post/one/) [skilled](/en/post/skilled/) [in](/en/post/in/) using [it](/en/post/it/) proficiently.**
-   - [Example](/en/post/example/): "[She](/en/post/she/) was [a](/en/post/a/) talented [typewriter](/en/post/typewriter/), [able](/en/post/able/) [to](/en/post/to/) [type](/en/post/type/) [at](/en/post/at/) [a](/en/post/a/) [rapid](/en/post/rapid/) [pace](/en/post/pace/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [machine](/post/machine/) [for](/post/for/) typing characters [on](/post/on/) [paper](/post/paper/), typically having keys [that](/post/that/) [correspond](/post/correspond/) [to](/post/to/) letters, numbers, [and](/post/and/) punctuation marks.**
+   - [Example](/post/example/): "[The](/post/the/) old-fashioned [typewriter](/post/typewriter/) was replaced [by](/post/by/) [a](/post/a/) [computer](/post/computer/) [keyboard](/post/keyboard/)."
+2. **An [operator](/post/operator/) [of](/post/of/) [such](/post/such/) [a](/post/a/) [machine](/post/machine/), [especially](/post/especially/) [one](/post/one/) [skilled](/post/skilled/) [in](/post/in/) using [it](/post/it/) proficiently.**
+   - [Example](/post/example/): "[She](/post/she/) was [a](/post/a/) talented [typewriter](/post/typewriter/), [able](/post/able/) [to](/post/to/) [type](/post/type/) [at](/post/at/) [a](/post/a/) [rapid](/post/rapid/) [pace](/post/pace/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [type](/en/post/type/) [text](/en/post/text/) using [a](/en/post/a/) [typewriter](/en/post/typewriter/) [or](/en/post/or/) [similar](/en/post/similar/) [device](/en/post/device/).**
-   - [Example](/en/post/example/): "[He](/en/post/he/) spent hours typing [out](/en/post/out/) [a](/en/post/a/) [letter](/en/post/letter/) [on](/en/post/on/) [his](/en/post/his/) antique [typewriter](/en/post/typewriter/)."
-2. **[To](/en/post/to/) [produce](/en/post/produce/) written [work](/en/post/work/) [with](/en/post/with/) [a](/en/post/a/) [typewriter](/en/post/typewriter/) [or](/en/post/or/) [computer](/en/post/computer/).**
-   - [Example](/en/post/example/): "[The](/en/post/the/) [journalist](/en/post/journalist/) typed [up](/en/post/up/) [a](/en/post/a/) [draft](/en/post/draft/) [of](/en/post/of/) [the](/en/post/the/) [article](/en/post/article/) [before](/en/post/before/) submitting [it](/en/post/it/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [type](/post/type/) [text](/post/text/) using [a](/post/a/) [typewriter](/post/typewriter/) [or](/post/or/) [similar](/post/similar/) [device](/post/device/).**
+   - [Example](/post/example/): "[He](/post/he/) spent hours typing [out](/post/out/) [a](/post/a/) [letter](/post/letter/) [on](/post/on/) [his](/post/his/) antique [typewriter](/post/typewriter/)."
+2. **[To](/post/to/) [produce](/post/produce/) written [work](/post/work/) [with](/post/with/) [a](/post/a/) [typewriter](/post/typewriter/) [or](/post/or/) [computer](/post/computer/).**
+   - [Example](/post/example/): "[The](/post/the/) [journalist](/post/journalist/) typed [up](/post/up/) [a](/post/a/) [draft](/post/draft/) [of](/post/of/) [the](/post/the/) [article](/post/article/) [before](/post/before/) submitting [it](/post/it/)."
 
 ## Phrases
-- "Typing [on](/en/post/on/) [a](/en/post/a/) [typewriter](/en/post/typewriter/)" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) producing [text](/en/post/text/) using [the](/en/post/the/) [machine](/en/post/machine/).
-- "Retyping [a](/en/post/a/) [document](/en/post/document/)" [means](/en/post/means/) reproducing [a](/en/post/a/) [text](/en/post/text/) [on](/en/post/on/) [a](/en/post/a/) [typewriter](/en/post/typewriter/).
-- "[Learning](/en/post/learning/) [to](/en/post/to/) [type](/en/post/type/) [on](/en/post/on/) [a](/en/post/a/) [manual](/en/post/manual/) [typewriter](/en/post/typewriter/)" implies acquiring [the](/en/post/the/) [skill](/en/post/skill/) [of](/en/post/of/) operating [the](/en/post/the/) [device](/en/post/device/).
+- "Typing [on](/post/on/) [a](/post/a/) [typewriter](/post/typewriter/)" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) producing [text](/post/text/) using [the](/post/the/) [machine](/post/machine/).
+- "Retyping [a](/post/a/) [document](/post/document/)" [means](/post/means/) reproducing [a](/post/a/) [text](/post/text/) [on](/post/on/) [a](/post/a/) [typewriter](/post/typewriter/).
+- "[Learning](/post/learning/) [to](/post/to/) [type](/post/type/) [on](/post/on/) [a](/post/a/) [manual](/post/manual/) [typewriter](/post/typewriter/)" implies acquiring [the](/post/the/) [skill](/post/skill/) [of](/post/of/) operating [the](/post/the/) [device](/post/device/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [typewriter](/en/post/typewriter/) keys were worn [from](/en/post/from/) years [of](/en/post/of/) [constant](/en/post/constant/) [use](/en/post/use/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) finished [her](/en/post/her/) thesis [by](/en/post/by/) typing [each](/en/post/each/) [page](/en/post/page/) [on](/en/post/on/) [her](/en/post/her/) trusty [typewriter](/en/post/typewriter/)."
-- **[Action](/en/post/action/)**: "[He](/en/post/he/) started [a](/en/post/a/) [new](/en/post/new/) [chapter](/en/post/chapter/) [by](/en/post/by/) typing [the](/en/post/the/) words '[Once](/en/post/once/) [upon](/en/post/upon/) [a](/en/post/a/) [time](/en/post/time/)' [on](/en/post/on/) [the](/en/post/the/) [typewriter](/en/post/typewriter/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [typewriter](/post/typewriter/) keys were worn [from](/post/from/) years [of](/post/of/) [constant](/post/constant/) [use](/post/use/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) finished [her](/post/her/) thesis [by](/post/by/) typing [each](/post/each/) [page](/post/page/) [on](/post/on/) [her](/post/her/) trusty [typewriter](/post/typewriter/)."
+- **[Action](/post/action/)**: "[He](/post/he/) started [a](/post/a/) [new](/post/new/) [chapter](/post/chapter/) [by](/post/by/) typing [the](/post/the/) words '[Once](/post/once/) [upon](/post/upon/) [a](/post/a/) [time](/post/time/)' [on](/post/on/) [the](/post/the/) [typewriter](/post/typewriter/)."
 
 ## Synonyms
-- [Typewriter](/en/post/typewriter/) [operator](/en/post/operator/)
-- Composer ([of](/en/post/of/) [text](/en/post/text/))
+- [Typewriter](/post/typewriter/) [operator](/post/operator/)
+- Composer ([of](/post/of/) [text](/post/text/))
 - Keyboardist (informal)
-- [Operator](/en/post/operator/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) typing)
-- Dater ([on](/en/post/on/) [a](/en/post/a/) vintage [typewriter](/en/post/typewriter/), referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) signing [a](/en/post/a/) [document](/en/post/document/))
+- [Operator](/post/operator/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) typing)
+- Dater ([on](/post/on/) [a](/post/a/) vintage [typewriter](/post/typewriter/), referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) signing [a](/post/a/) [document](/post/document/))

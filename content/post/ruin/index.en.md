@@ -7,37 +7,37 @@ description = '[ˈruːin] n.毁灭；废墟 vt.毁坏'
 keywords = ['ai words', 'ruin']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈnjuː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [complete](/en/post/complete/) [destruction](/en/post/destruction/) [or](/en/post/or/) devastation [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) leaving [it](/en/post/it/) [in](/en/post/in/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [collapse](/en/post/collapse/) [or](/en/post/or/) [decay](/en/post/decay/). 2. Ruins [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [remains](/en/post/remains/) [of](/en/post/of/) [a](/en/post/a/) destroyed [structure](/en/post/structure/) [or](/en/post/or/) [site](/en/post/site/). 3. (figurative) [A](/en/post/a/) person's [social](/en/post/social/) standing [or](/en/post/or/) [reputation](/en/post/reputation/), [often](/en/post/often/) ruined [by](/en/post/by/) misfortune [or](/en/post/or/) [mistake](/en/post/mistake/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cause](/en/post/cause/) [the](/en/post/the/) [complete](/en/post/complete/) [destruction](/en/post/destruction/) [or](/en/post/or/) downfall [of](/en/post/of/); [to](/en/post/to/) devastate. 2. [To](/en/post/to/) [spoil](/en/post/spoil/) [or](/en/post/or/) corrupt ([a](/en/post/a/) [person](/en/post/person/), [relationship](/en/post/relationship/), [or](/en/post/or/) [situation](/en/post/situation/)).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [complete](/post/complete/) [destruction](/post/destruction/) [or](/post/or/) devastation [of](/post/of/) [something](/post/something/), [often](/post/often/) leaving [it](/post/it/) [in](/post/in/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [collapse](/post/collapse/) [or](/post/or/) [decay](/post/decay/). 2. Ruins [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [remains](/post/remains/) [of](/post/of/) [a](/post/a/) destroyed [structure](/post/structure/) [or](/post/or/) [site](/post/site/). 3. (figurative) [A](/post/a/) person's [social](/post/social/) standing [or](/post/or/) [reputation](/post/reputation/), [often](/post/often/) ruined [by](/post/by/) misfortune [or](/post/or/) [mistake](/post/mistake/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [cause](/post/cause/) [the](/post/the/) [complete](/post/complete/) [destruction](/post/destruction/) [or](/post/or/) downfall [of](/post/of/); [to](/post/to/) devastate. 2. [To](/post/to/) [spoil](/post/spoil/) [or](/post/or/) corrupt ([a](/post/a/) [person](/post/person/), [relationship](/post/relationship/), [or](/post/or/) [situation](/post/situation/)).
 
 ## Phrases
-- "[In](/en/post/in/) ruins" describes [something](/en/post/something/) [that](/en/post/that/) is [severely](/en/post/severely/) damaged [or](/en/post/or/) destroyed.
-- "[She](/en/post/she/) watched [her](/en/post/her/) dreams [go](/en/post/go/) [up](/en/post/up/) [in](/en/post/in/) [smoke](/en/post/smoke/), [and](/en/post/and/) [her](/en/post/her/) [life](/en/post/life/) was [left](/en/post/left/) [in](/en/post/in/) ruins."
-- "[The](/en/post/the/) [ancient](/en/post/ancient/) [city](/en/post/city/) lies [in](/en/post/in/) ruins [after](/en/post/after/) [the](/en/post/the/) devastating [war](/en/post/war/)."
+- "[In](/post/in/) ruins" describes [something](/post/something/) [that](/post/that/) is [severely](/post/severely/) damaged [or](/post/or/) destroyed.
+- "[She](/post/she/) watched [her](/post/her/) dreams [go](/post/go/) [up](/post/up/) [in](/post/in/) [smoke](/post/smoke/), [and](/post/and/) [her](/post/her/) [life](/post/life/) was [left](/post/left/) [in](/post/in/) ruins."
+- "[The](/post/the/) [ancient](/post/ancient/) [city](/post/city/) lies [in](/post/in/) ruins [after](/post/after/) [the](/post/the/) devastating [war](/post/war/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) once-grand mansion had been reduced [to](/en/post/to/) [nothing](/en/post/nothing/) [but](/en/post/but/) [a](/en/post/a/) [pile](/en/post/pile/) [of](/en/post/of/) ruins [after](/en/post/after/) [the](/en/post/the/) [fire](/en/post/fire/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) reckless spending habits [eventually](/en/post/eventually/) ruined [his](/en/post/his/) [financial](/en/post/financial/) [security](/en/post/security/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [figure](/en/post/figure/) [of](/en/post/of/) [speech](/en/post/speech/)**: "[Her](/en/post/her/) [reputation](/en/post/reputation/) was ruined [by](/en/post/by/) [those](/en/post/those/) [false](/en/post/false/) accusations."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) once-grand mansion had been reduced [to](/post/to/) [nothing](/post/nothing/) [but](/post/but/) [a](/post/a/) [pile](/post/pile/) [of](/post/of/) ruins [after](/post/after/) [the](/post/the/) [fire](/post/fire/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) reckless spending habits [eventually](/post/eventually/) ruined [his](/post/his/) [financial](/post/financial/) [security](/post/security/)."
+- **[As](/post/as/) [a](/post/a/) [figure](/post/figure/) [of](/post/of/) [speech](/post/speech/)**: "[Her](/post/her/) [reputation](/post/reputation/) was ruined [by](/post/by/) [those](/post/those/) [false](/post/false/) accusations."
 
 ## Synonyms
-- [Destruction](/en/post/destruction/)
+- [Destruction](/post/destruction/)
 - Demolition
 - Ruinous
 - Decimation
 - Wreckage
 - Devastation
-- [Collapse](/en/post/collapse/)
+- [Collapse](/post/collapse/)
 - Debacle
 
 ## Antonyms
 - Restoration
 - Preservation
-- [Repair](/en/post/repair/)
+- [Repair](/post/repair/)
 - Revival
 - Resurrection
 - Uplift

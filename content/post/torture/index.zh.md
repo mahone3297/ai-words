@@ -11,20 +11,20 @@ keywords = ['ai words', 'torture']
 /ˈtɔːrtʃər/
 
 ## 释义
-- **名词**: 极度痛苦；折磨；拷问；摧残。例如: "[The](/post/the/) [prisoner](/post/prisoner/) was subjected [to](/post/to/) [torture](/post/torture/) [to](/post/to/) extract [information](/post/information/)."
-- **动词**: 使受痛苦；折磨；拷问。例如: "[They](/post/they/) were accused [of](/post/of/) torturing [the](/post/the/) suspects [to](/post/to/) [get](/post/get/) [a](/post/a/) confession."
+- **名词**: 极度痛苦；折磨；拷问；摧残。例如: "[The](/zh/post/the/) [prisoner](/zh/post/prisoner/) was subjected [to](/zh/post/to/) [torture](/zh/post/torture/) [to](/zh/post/to/) extract [information](/zh/post/information/)."
+- **动词**: 使受痛苦；折磨；拷问。例如: "[They](/zh/post/they/) were accused [of](/zh/post/of/) torturing [the](/zh/post/the/) suspects [to](/zh/post/to/) [get](/zh/post/get/) [a](/zh/post/a/) confession."
 
 ## 短语
-- "[Torture](/post/torture/) [someone](/post/someone/) [into](/post/into/) doing [something](/post/something/)" 意味着通过折磨迫使某人做某事。
-- "[Under](/post/under/) [torture](/post/torture/)" 表示在遭受折磨的状态下。
+- "[Torture](/zh/post/torture/) [someone](/zh/post/someone/) [into](/zh/post/into/) doing [something](/zh/post/something/)" 意味着通过折磨迫使某人做某事。
+- "[Under](/zh/post/under/) [torture](/zh/post/torture/)" 表示在遭受折磨的状态下。
 
 ## 例句
-- 名词: "[The](/post/the/) [use](/post/use/) [of](/post/of/) [torture](/post/torture/) is condemned [by](/post/by/) [international](/post/international/) [law](/post/law/)."
-- 动词: "[The](/post/the/) interrogators tortured [him](/post/him/) [for](/post/for/) hours, [but](/post/but/) [he](/post/he/) didn't [reveal](/post/reveal/) [anything](/post/anything/)."
+- 名词: "[The](/zh/post/the/) [use](/zh/post/use/) [of](/zh/post/of/) [torture](/zh/post/torture/) is condemned [by](/zh/post/by/) [international](/zh/post/international/) [law](/zh/post/law/)."
+- 动词: "[The](/zh/post/the/) interrogators tortured [him](/zh/post/him/) [for](/zh/post/for/) hours, [but](/zh/post/but/) [he](/zh/post/he/) didn't [reveal](/zh/post/reveal/) [anything](/zh/post/anything/)."
 
 ## 同义词
 - Torment
-- [Agony](/post/agony/)
+- [Agony](/zh/post/agony/)
 - Suffering
-- [Pain](/post/pain/)
+- [Pain](/zh/post/pain/)
 - Harassment

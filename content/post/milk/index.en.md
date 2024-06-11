@@ -7,29 +7,29 @@ description = '[milk] n.乳，牛奶 vt.挤(奶)'
 keywords = ['ai words', 'milk']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɪlk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [white](/en/post/white/) [liquid](/en/post/liquid/) produced [by](/en/post/by/) [female](/en/post/female/) mammals ([such](/en/post/such/) [as](/en/post/as/) cows, goats, [or](/en/post/or/) [sheep](/en/post/sheep/)) [as](/en/post/as/) [food](/en/post/food/) [for](/en/post/for/) [their](/en/post/their/) [young](/en/post/young/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) poured [a](/en/post/a/) [glass](/en/post/glass/) [of](/en/post/of/) [milk](/en/post/milk/) [for](/en/post/for/) [her](/en/post/her/) son's [breakfast](/en/post/breakfast/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) extract [milk](/en/post/milk/) [from](/en/post/from/) [a](/en/post/a/) mammal, typically [through](/en/post/through/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) milking. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) rises [early](/en/post/early/) [each](/en/post/each/) [day](/en/post/day/) [to](/en/post/to/) [milk](/en/post/milk/) [the](/en/post/the/) cows."
-- [As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [draw](/en/post/draw/) [something](/en/post/something/) [out](/en/post/out/) [or](/en/post/or/) [obtain](/en/post/obtain/) [something](/en/post/something/) [beneficial](/en/post/beneficial/). [For](/en/post/for/) [instance](/en/post/instance/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [milk](/en/post/milk/) [this](/en/post/this/) [opportunity](/en/post/opportunity/) [for](/en/post/for/) [all](/en/post/all/) [its](/en/post/its/) [worth](/en/post/worth/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [white](/post/white/) [liquid](/post/liquid/) produced [by](/post/by/) [female](/post/female/) mammals ([such](/post/such/) [as](/post/as/) cows, goats, [or](/post/or/) [sheep](/post/sheep/)) [as](/post/as/) [food](/post/food/) [for](/post/for/) [their](/post/their/) [young](/post/young/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) poured [a](/post/a/) [glass](/post/glass/) [of](/post/of/) [milk](/post/milk/) [for](/post/for/) [her](/post/her/) son's [breakfast](/post/breakfast/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) extract [milk](/post/milk/) [from](/post/from/) [a](/post/a/) mammal, typically [through](/post/through/) [the](/post/the/) [process](/post/process/) [of](/post/of/) milking. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) rises [early](/post/early/) [each](/post/each/) [day](/post/day/) [to](/post/to/) [milk](/post/milk/) [the](/post/the/) cows."
+- [As](/post/as/) [a](/post/a/) [verb](/post/verb/), [it](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) [draw](/post/draw/) [something](/post/something/) [out](/post/out/) [or](/post/or/) [obtain](/post/obtain/) [something](/post/something/) [beneficial](/post/beneficial/). [For](/post/for/) [instance](/post/instance/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [milk](/post/milk/) [this](/post/this/) [opportunity](/post/opportunity/) [for](/post/for/) [all](/post/all/) [its](/post/its/) [worth](/post/worth/)."
 
 ## Phrases
-- "[Milk](/en/post/milk/) [and](/en/post/and/) cookies" refers [to](/en/post/to/) [a](/en/post/a/) [traditional](/en/post/traditional/) snack [often](/en/post/often/) enjoyed [together](/en/post/together/).
-- "Don't [cry](/en/post/cry/) [over](/en/post/over/) spilled [milk](/en/post/milk/)" is an [idiom](/en/post/idiom/) [meaning](/en/post/meaning/) [not](/en/post/not/) [to](/en/post/to/) [be](/en/post/be/) [upset](/en/post/upset/) [over](/en/post/over/) [something](/en/post/something/) [that](/en/post/that/) cannot [be](/en/post/be/) undone.
-- "[To](/en/post/to/) [milk](/en/post/milk/) [something](/en/post/something/) [dry](/en/post/dry/)" is an [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [take](/en/post/take/) [full](/en/post/full/) [advantage](/en/post/advantage/) [of](/en/post/of/) [something](/en/post/something/) [until](/en/post/until/) [no](/en/post/no/) [benefit](/en/post/benefit/) is [left](/en/post/left/).
+- "[Milk](/post/milk/) [and](/post/and/) cookies" refers [to](/post/to/) [a](/post/a/) [traditional](/post/traditional/) snack [often](/post/often/) enjoyed [together](/post/together/).
+- "Don't [cry](/post/cry/) [over](/post/over/) spilled [milk](/post/milk/)" is an [idiom](/post/idiom/) [meaning](/post/meaning/) [not](/post/not/) [to](/post/to/) [be](/post/be/) [upset](/post/upset/) [over](/post/over/) [something](/post/something/) [that](/post/that/) cannot [be](/post/be/) undone.
+- "[To](/post/to/) [milk](/post/milk/) [something](/post/something/) [dry](/post/dry/)" is an [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [take](/post/take/) [full](/post/full/) [advantage](/post/advantage/) [of](/post/of/) [something](/post/something/) [until](/post/until/) [no](/post/no/) [benefit](/post/benefit/) is [left](/post/left/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Drinking [a](/en/post/a/) [glass](/en/post/glass/) [of](/en/post/of/) [warm](/en/post/warm/) [milk](/en/post/milk/) [before](/en/post/before/) [bed](/en/post/bed/) [can](/en/post/can/) [help](/en/post/help/) [promote](/en/post/promote/) [sleep](/en/post/sleep/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [learned](/en/post/learned/) [how](/en/post/how/) [to](/en/post/to/) [milk](/en/post/milk/) [the](/en/post/the/) goats [on](/en/post/on/) [her](/en/post/her/) uncle's [farm](/en/post/farm/)."
-- **[As](/en/post/as/) an idiomatic [verb](/en/post/verb/)**: "He's been milking [his](/en/post/his/) [fame](/en/post/fame/) [ever](/en/post/ever/) [since](/en/post/since/) [he](/en/post/he/) won [the](/en/post/the/) championship."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Drinking [a](/post/a/) [glass](/post/glass/) [of](/post/of/) [warm](/post/warm/) [milk](/post/milk/) [before](/post/before/) [bed](/post/bed/) [can](/post/can/) [help](/post/help/) [promote](/post/promote/) [sleep](/post/sleep/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) [learned](/post/learned/) [how](/post/how/) [to](/post/to/) [milk](/post/milk/) [the](/post/the/) goats [on](/post/on/) [her](/post/her/) uncle's [farm](/post/farm/)."
+- **[As](/post/as/) an idiomatic [verb](/post/verb/)**: "He's been milking [his](/post/his/) [fame](/post/fame/) [ever](/post/ever/) [since](/post/since/) [he](/post/he/) won [the](/post/the/) championship."
 
 ## Synonyms
-- Cow's [milk](/en/post/milk/)
-- Goat's [milk](/en/post/milk/)
-- Sheep's [milk](/en/post/milk/)
-- [Dairy](/en/post/dairy/) [product](/en/post/product/)
-- [Breast](/en/post/breast/) [milk](/en/post/milk/) ([for](/en/post/for/) [human](/en/post/human/) infants)
-- Extract ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [drawing](/en/post/drawing/) [something](/en/post/something/) [out](/en/post/out/))
-- [Exploit](/en/post/exploit/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) taking [full](/en/post/full/) [advantage](/en/post/advantage/))
+- Cow's [milk](/post/milk/)
+- Goat's [milk](/post/milk/)
+- Sheep's [milk](/post/milk/)
+- [Dairy](/post/dairy/) [product](/post/product/)
+- [Breast](/post/breast/) [milk](/post/milk/) ([for](/post/for/) [human](/post/human/) infants)
+- Extract ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [drawing](/post/drawing/) [something](/post/something/) [out](/post/out/))
+- [Exploit](/post/exploit/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) taking [full](/post/full/) [advantage](/post/advantage/))

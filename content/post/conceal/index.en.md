@@ -7,22 +7,22 @@ description = '[kənˈsiːl] vt.把…隐藏起来'
 keywords = ['ai words', 'conceal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈsɪl/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [hide](/en/post/hide/) [or](/en/post/or/) [keep](/en/post/keep/) [something](/en/post/something/) [from](/en/post/from/) [being](/en/post/being/) seen [or](/en/post/or/) discovered; [to](/en/post/to/) [cover](/en/post/cover/) [up](/en/post/up/). (n. [sense](/en/post/sense/): [a](/en/post/a/) [thing](/en/post/thing/) [that](/en/post/that/) is concealed)
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) concealing; [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) hidden [or](/en/post/or/) covered [up](/en/post/up/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [hide](/post/hide/) [or](/post/or/) [keep](/post/keep/) [something](/post/something/) [from](/post/from/) [being](/post/being/) seen [or](/post/or/) discovered; [to](/post/to/) [cover](/post/cover/) [up](/post/up/). (n. [sense](/post/sense/): [a](/post/a/) [thing](/post/thing/) [that](/post/that/) is concealed)
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) concealing; [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) hidden [or](/post/or/) covered [up](/post/up/).
 
 ## Phrases
-- "[Conceal](/en/post/conceal/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [hide](/en/post/hide/) [or](/en/post/or/) [keep](/en/post/keep/) [it](/en/post/it/) [secret](/en/post/secret/).
-- "Concealed identity" refers [to](/en/post/to/) [a](/en/post/a/) person's [true](/en/post/true/) identity [being](/en/post/being/) [unknown](/en/post/unknown/) [or](/en/post/or/) hidden.
-- "Concealment" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) hiding [or](/en/post/or/) covering [something](/en/post/something/).
+- "[Conceal](/post/conceal/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [hide](/post/hide/) [or](/post/or/) [keep](/post/keep/) [it](/post/it/) [secret](/post/secret/).
+- "Concealed identity" refers [to](/post/to/) [a](/post/a/) person's [true](/post/true/) identity [being](/post/being/) [unknown](/post/unknown/) [or](/post/or/) hidden.
+- "Concealment" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) hiding [or](/post/or/) covering [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) tried [to](/en/post/to/) [conceal](/en/post/conceal/) [his](/en/post/his/) [anxiety](/en/post/anxiety/) [before](/en/post/before/) [the](/en/post/the/) [big](/en/post/big/) presentation.
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) spy's [most](/en/post/most/) [valuable](/en/post/valuable/) asset was [their](/en/post/their/) [ability](/en/post/ability/) [to](/en/post/to/) [remain](/en/post/remain/) concealed [in](/en/post/in/) [enemy](/en/post/enemy/) [territory](/en/post/territory/).
-- **Prepositional [phrase](/en/post/phrase/)**: [She](/en/post/she/) hid [the](/en/post/the/) [letter](/en/post/letter/) [in](/en/post/in/) [a](/en/post/a/) concealed compartment [in](/en/post/in/) [her](/en/post/her/) [desk](/en/post/desk/).
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: [He](/post/he/) tried [to](/post/to/) [conceal](/post/conceal/) [his](/post/his/) [anxiety](/post/anxiety/) [before](/post/before/) [the](/post/the/) [big](/post/big/) presentation.
+- **[Noun](/post/noun/)**: [The](/post/the/) spy's [most](/post/most/) [valuable](/post/valuable/) asset was [their](/post/their/) [ability](/post/ability/) [to](/post/to/) [remain](/post/remain/) concealed [in](/post/in/) [enemy](/post/enemy/) [territory](/post/territory/).
+- **Prepositional [phrase](/post/phrase/)**: [She](/post/she/) hid [the](/post/the/) [letter](/post/letter/) [in](/post/in/) [a](/post/a/) concealed compartment [in](/post/in/) [her](/post/her/) [desk](/post/desk/).
 
 ## Synonyms
 - Hid
@@ -32,11 +32,11 @@ keywords = ['ai words', 'conceal']
 - Occlusion
 
 ## Antonyms
-- [Uncover](/en/post/uncover/)
-- [Reveal](/en/post/reveal/)
-- [Expose](/en/post/expose/)
-- [Disclose](/en/post/disclose/)
-- [Show](/en/post/show/)
+- [Uncover](/post/uncover/)
+- [Reveal](/post/reveal/)
+- [Expose](/post/expose/)
+- [Disclose](/post/disclose/)
+- [Show](/post/show/)
 
-## [Usage](/en/post/usage/)
-[Conceal](/en/post/conceal/) is [primarily](/en/post/primarily/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [but](/en/post/but/) [can](/en/post/can/) [also](/en/post/also/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [when](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) hidden. It's [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) situations [where](/en/post/where/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) wants [to](/en/post/to/) [keep](/en/post/keep/) [something](/en/post/something/) [private](/en/post/private/) [or](/en/post/or/) [out](/en/post/out/) [of](/en/post/of/) [sight](/en/post/sight/). Synonyms [like](/en/post/like/) "hid" [and](/en/post/and/) "concealment" are [similar](/en/post/similar/) [in](/en/post/in/) [meaning](/en/post/meaning/) [but](/en/post/but/) [might](/en/post/might/) [be](/en/post/be/) [more](/en/post/more/) [specific](/en/post/specific/) [to](/en/post/to/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) hiding, [while](/en/post/while/) "occlusion" [and](/en/post/and/) "obscurity" [focus](/en/post/focus/) [on](/en/post/on/) [the](/en/post/the/) [idea](/en/post/idea/) [of](/en/post/of/) [being](/en/post/being/) unseen [due](/en/post/due/) [to](/en/post/to/) darkness or遮挡. Antonyms [like](/en/post/like/) "[reveal](/en/post/reveal/)" [and](/en/post/and/) "[expose](/en/post/expose/)" [indicate](/en/post/indicate/) [the](/en/post/the/) [opposite](/en/post/opposite/) [action](/en/post/action/) [of](/en/post/of/) making [something](/en/post/something/) [visible](/en/post/visible/) [or](/en/post/or/) known.
+## [Usage](/post/usage/)
+[Conceal](/post/conceal/) is [primarily](/post/primarily/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [but](/post/but/) [can](/post/can/) [also](/post/also/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [when](/post/when/) referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) hidden. It's [often](/post/often/) [used](/post/used/) [in](/post/in/) situations [where](/post/where/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) wants [to](/post/to/) [keep](/post/keep/) [something](/post/something/) [private](/post/private/) [or](/post/or/) [out](/post/out/) [of](/post/of/) [sight](/post/sight/). Synonyms [like](/post/like/) "hid" [and](/post/and/) "concealment" are [similar](/post/similar/) [in](/post/in/) [meaning](/post/meaning/) [but](/post/but/) [might](/post/might/) [be](/post/be/) [more](/post/more/) [specific](/post/specific/) [to](/post/to/) [the](/post/the/) [action](/post/action/) [of](/post/of/) hiding, [while](/post/while/) "occlusion" [and](/post/and/) "obscurity" [focus](/post/focus/) [on](/post/on/) [the](/post/the/) [idea](/post/idea/) [of](/post/of/) [being](/post/being/) unseen [due](/post/due/) [to](/post/to/) darkness or遮挡. Antonyms [like](/post/like/) "[reveal](/post/reveal/)" [and](/post/and/) "[expose](/post/expose/)" [indicate](/post/indicate/) [the](/post/the/) [opposite](/post/opposite/) [action](/post/action/) [of](/post/of/) making [something](/post/something/) [visible](/post/visible/) [or](/post/or/) known.

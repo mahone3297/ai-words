@@ -7,41 +7,41 @@ description = '[stɔːm] n.风暴；暴(风)雨'
 keywords = ['ai words', 'storm']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stɔːrm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [storm](/en/post/storm/) is [a](/en/post/a/)(n) **[violent](/en/post/violent/) [atmospheric](/en/post/atmospheric/) disturbance characterized [by](/en/post/by/) [heavy](/en/post/heavy/) precipitation, [strong](/en/post/strong/) winds, [and](/en/post/and/) [often](/en/post/often/) [lightning](/en/post/lightning/)**. [It](/en/post/it/) [can](/en/post/can/) [occur](/en/post/occur/) [in](/en/post/in/) [various](/en/post/various/) forms [such](/en/post/such/) [as](/en/post/as/) rainstorms, thunderstorms, hurricanes, tornadoes, [or](/en/post/or/) blizzards, depending [on](/en/post/on/) [the](/en/post/the/) [region](/en/post/region/) [and](/en/post/and/) [weather](/en/post/weather/) conditions.
+### [Noun](/post/noun/)
+[A](/post/a/) [storm](/post/storm/) is [a](/post/a/)(n) **[violent](/post/violent/) [atmospheric](/post/atmospheric/) disturbance characterized [by](/post/by/) [heavy](/post/heavy/) precipitation, [strong](/post/strong/) winds, [and](/post/and/) [often](/post/often/) [lightning](/post/lightning/)**. [It](/post/it/) [can](/post/can/) [occur](/post/occur/) [in](/post/in/) [various](/post/various/) forms [such](/post/such/) [as](/post/as/) rainstorms, thunderstorms, hurricanes, tornadoes, [or](/post/or/) blizzards, depending [on](/post/on/) [the](/post/the/) [region](/post/region/) [and](/post/and/) [weather](/post/weather/) conditions.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [storm](/en/post/storm/) ([as](/en/post/as/) [in](/en/post/in/) '[storm](/en/post/storm/) [a](/en/post/a/) [building](/en/post/building/)') [means](/en/post/means/) **[to](/en/post/to/) forcefully [enter](/en/post/enter/) [or](/en/post/or/) overwhelm** ([a](/en/post/a/) [place](/en/post/place/)), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) urgency [or](/en/post/or/) confrontation. [In](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) intensely [pursue](/en/post/pursue/) [or](/en/post/or/) [attack](/en/post/attack/) [something](/en/post/something/).
+### [Verb](/post/verb/)
+[To](/post/to/) [storm](/post/storm/) ([as](/post/as/) [in](/post/in/) '[storm](/post/storm/) [a](/post/a/) [building](/post/building/)') [means](/post/means/) **[to](/post/to/) forcefully [enter](/post/enter/) [or](/post/or/) overwhelm** ([a](/post/a/) [place](/post/place/)), [often](/post/often/) [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) urgency [or](/post/or/) confrontation. [In](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) intensely [pursue](/post/pursue/) [or](/post/or/) [attack](/post/attack/) [something](/post/something/).
 
-### [Adjective](/en/post/adjective/)
-- [Stormy](/en/post/stormy/): Characterized [by](/en/post/by/) [violent](/en/post/violent/) [weather](/en/post/weather/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [stormy](/en/post/stormy/) [sea](/en/post/sea/) [or](/en/post/or/) [a](/en/post/a/) [stormy](/en/post/stormy/) [mood](/en/post/mood/).
-- Storm-force: Describing winds [with](/en/post/with/) [high](/en/post/high/) [velocity](/en/post/velocity/), typically associated [with](/en/post/with/) [severe](/en/post/severe/) storms.
+### [Adjective](/post/adjective/)
+- [Stormy](/post/stormy/): Characterized [by](/post/by/) [violent](/post/violent/) [weather](/post/weather/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [stormy](/post/stormy/) [sea](/post/sea/) [or](/post/or/) [a](/post/a/) [stormy](/post/stormy/) [mood](/post/mood/).
+- Storm-force: Describing winds [with](/post/with/) [high](/post/high/) [velocity](/post/velocity/), typically associated [with](/post/with/) [severe](/post/severe/) storms.
 
-### [Adverb](/en/post/adverb/)
-- Stormily: [With](/en/post/with/) [strong](/en/post/strong/) winds [or](/en/post/or/) [violent](/en/post/violent/) movements, [as](/en/post/as/) [in](/en/post/in/) "[the](/en/post/the/) [storm](/en/post/storm/) blew [through](/en/post/through/) [the](/en/post/the/) [night](/en/post/night/) stormily."
+### [Adverb](/post/adverb/)
+- Stormily: [With](/post/with/) [strong](/post/strong/) winds [or](/post/or/) [violent](/post/violent/) movements, [as](/post/as/) [in](/post/in/) "[the](/post/the/) [storm](/post/storm/) blew [through](/post/through/) [the](/post/the/) [night](/post/night/) stormily."
 
 ## Phrases
-- "[Stay](/en/post/stay/) [indoors](/en/post/indoors/) [during](/en/post/during/) [the](/en/post/the/) [storm](/en/post/storm/)" advises [people](/en/post/people/) [to](/en/post/to/) [take](/en/post/take/) [shelter](/en/post/shelter/) [from](/en/post/from/) [severe](/en/post/severe/) [weather](/en/post/weather/).
-- "[The](/en/post/the/) [storm](/en/post/storm/) cleared [up](/en/post/up/) [after](/en/post/after/) [midnight](/en/post/midnight/)" signifies [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [weather](/en/post/weather/) disturbance.
-- "[Storm](/en/post/storm/) warning issued" communicates an alert [for](/en/post/for/) impending [severe](/en/post/severe/) [weather](/en/post/weather/).
+- "[Stay](/post/stay/) [indoors](/post/indoors/) [during](/post/during/) [the](/post/the/) [storm](/post/storm/)" advises [people](/post/people/) [to](/post/to/) [take](/post/take/) [shelter](/post/shelter/) [from](/post/from/) [severe](/post/severe/) [weather](/post/weather/).
+- "[The](/post/the/) [storm](/post/storm/) cleared [up](/post/up/) [after](/post/after/) [midnight](/post/midnight/)" signifies [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [weather](/post/weather/) disturbance.
+- "[Storm](/post/storm/) warning issued" communicates an alert [for](/post/for/) impending [severe](/post/severe/) [weather](/post/weather/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [storm](/en/post/storm/) [left](/en/post/left/) [a](/en/post/a/) [trail](/en/post/trail/) [of](/en/post/of/) [destruction](/en/post/destruction/) [across](/en/post/across/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) stormed [the](/en/post/the/) [stage](/en/post/stage/) [during](/en/post/during/) [their](/en/post/their/) encore [performance](/en/post/performance/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [stormy](/en/post/stormy/) [sky](/en/post/sky/) darkened [as](/en/post/as/) [the](/en/post/the/) winds intensified."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) drove stormily [through](/en/post/through/) [the](/en/post/the/) flooded streets, trying [to](/en/post/to/) [reach](/en/post/reach/) [home](/en/post/home/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [storm](/post/storm/) [left](/post/left/) [a](/post/a/) [trail](/post/trail/) [of](/post/of/) [destruction](/post/destruction/) [across](/post/across/) [the](/post/the/) [city](/post/city/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) stormed [the](/post/the/) [stage](/post/stage/) [during](/post/during/) [their](/post/their/) encore [performance](/post/performance/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [stormy](/post/stormy/) [sky](/post/sky/) darkened [as](/post/as/) [the](/post/the/) winds intensified."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) drove stormily [through](/post/through/) [the](/post/the/) flooded streets, trying [to](/post/to/) [reach](/post/reach/) [home](/post/home/)."
 
 ## Synonyms
 - Tempest
 - Cyclone
 - Tornado
 - Gale
-- Hurricane ([in](/en/post/in/) [certain](/en/post/certain/) regions)
+- Hurricane ([in](/post/in/) [certain](/post/certain/) regions)
 - Squall
 - Tempestuous
-- [Violent](/en/post/violent/)
-- [Turbulent](/en/post/turbulent/)
+- [Violent](/post/violent/)
+- [Turbulent](/post/turbulent/)

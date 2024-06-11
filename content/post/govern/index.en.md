@@ -7,23 +7,23 @@ description = '[ˈgʌvən] vt.统治，治理；支配'
 keywords = ['ai words', 'govern']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡʌvərn/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [exercise](/en/post/exercise/) [authority](/en/post/authority/) [or](/en/post/or/) [control](/en/post/control/) [over](/en/post/over/); [to](/en/post/to/) [direct](/en/post/direct/) [and](/en/post/and/) [manage](/en/post/manage/) [the](/en/post/the/) actions, [behavior](/en/post/behavior/), [or](/en/post/or/) policies [of](/en/post/of/) ([a](/en/post/a/) [state](/en/post/state/), [organization](/en/post/organization/), [institution](/en/post/institution/), etc.). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) governs [the](/en/post/the/) [country](/en/post/country/) according [to](/en/post/to/) [the](/en/post/the/) [constitution](/en/post/constitution/)."
-  - _Also [used](/en/post/used/) [with](/en/post/with/) 'over'_ : "[They](/en/post/they/) [govern](/en/post/govern/) [over](/en/post/over/) [their](/en/post/their/) employees [with](/en/post/with/) fairness [and](/en/post/and/) consistency."
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) governing; [rule](/en/post/rule/), [administration](/en/post/administration/), [or](/en/post/or/) [management](/en/post/management/). [For](/en/post/for/) [instance](/en/post/instance/): "[Under](/en/post/under/) [his](/en/post/his/) governance, [the](/en/post/the/) [economy](/en/post/economy/) flourished."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [exercise](/post/exercise/) [authority](/post/authority/) [or](/post/or/) [control](/post/control/) [over](/post/over/); [to](/post/to/) [direct](/post/direct/) [and](/post/and/) [manage](/post/manage/) [the](/post/the/) actions, [behavior](/post/behavior/), [or](/post/or/) policies [of](/post/of/) ([a](/post/a/) [state](/post/state/), [organization](/post/organization/), [institution](/post/institution/), etc.). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [government](/post/government/) governs [the](/post/the/) [country](/post/country/) according [to](/post/to/) [the](/post/the/) [constitution](/post/constitution/)."
+  - _Also [used](/post/used/) [with](/post/with/) 'over'_ : "[They](/post/they/) [govern](/post/govern/) [over](/post/over/) [their](/post/their/) employees [with](/post/with/) fairness [and](/post/and/) consistency."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) governing; [rule](/post/rule/), [administration](/post/administration/), [or](/post/or/) [management](/post/management/). [For](/post/for/) [instance](/post/instance/): "[Under](/post/under/) [his](/post/his/) governance, [the](/post/the/) [economy](/post/economy/) flourished."
   
 ## Phrases
-- "[To](/en/post/to/) [govern](/en/post/govern/) [oneself](/en/post/oneself/)": [To](/en/post/to/) [control](/en/post/control/) one's [own](/en/post/own/) actions [or](/en/post/or/) [behavior](/en/post/behavior/).
-- "[Govern](/en/post/govern/) [by](/en/post/by/) [law](/en/post/law/)": [To](/en/post/to/) [regulate](/en/post/regulate/) [or](/en/post/or/) [control](/en/post/control/) [through](/en/post/through/) [legal](/en/post/legal/) [means](/en/post/means/).
-- "Governance [structure](/en/post/structure/)": [The](/en/post/the/) [system](/en/post/system/) [or](/en/post/or/) [framework](/en/post/framework/) [within](/en/post/within/) [which](/en/post/which/) [something](/en/post/something/) ([such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [company](/en/post/company/), [country](/en/post/country/), [or](/en/post/or/) [organization](/en/post/organization/)) is governed.
+- "[To](/post/to/) [govern](/post/govern/) [oneself](/post/oneself/)": [To](/post/to/) [control](/post/control/) one's [own](/post/own/) actions [or](/post/or/) [behavior](/post/behavior/).
+- "[Govern](/post/govern/) [by](/post/by/) [law](/post/law/)": [To](/post/to/) [regulate](/post/regulate/) [or](/post/or/) [control](/post/control/) [through](/post/through/) [legal](/post/legal/) [means](/post/means/).
+- "Governance [structure](/post/structure/)": [The](/post/the/) [system](/post/system/) [or](/post/or/) [framework](/post/framework/) [within](/post/within/) [which](/post/which/) [something](/post/something/) ([such](/post/such/) [as](/post/as/) [a](/post/a/) [company](/post/company/), [country](/post/country/), [or](/post/or/) [organization](/post/organization/)) is governed.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [mayor](/en/post/mayor/) governs [the](/en/post/the/) [city](/en/post/city/) [with](/en/post/with/) [a](/en/post/a/) [firm](/en/post/firm/) [but](/en/post/but/) [fair](/en/post/fair/) [hand](/en/post/hand/)."
-- **[Noun](/en/post/noun/)**: "[Good](/en/post/good/) governance is [essential](/en/post/essential/) [for](/en/post/for/) sustainable [development](/en/post/development/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [mayor](/post/mayor/) governs [the](/post/the/) [city](/post/city/) [with](/post/with/) [a](/post/a/) [firm](/post/firm/) [but](/post/but/) [fair](/post/fair/) [hand](/post/hand/)."
+- **[Noun](/post/noun/)**: "[Good](/post/good/) governance is [essential](/post/essential/) [for](/post/for/) sustainable [development](/post/development/)."
 
 ## Synonyms
-- **[Verb](/en/post/verb/)**: [Control](/en/post/control/), administer, [manage](/en/post/manage/), [direct](/en/post/direct/), [regulate](/en/post/regulate/), oversee, superintend, [guide](/en/post/guide/).
-- **[Noun](/en/post/noun/)**: [Rule](/en/post/rule/), [control](/en/post/control/), [authority](/en/post/authority/), [command](/en/post/command/), [sway](/en/post/sway/), [management](/en/post/management/), [direction](/en/post/direction/), [administration](/en/post/administration/).
+- **[Verb](/post/verb/)**: [Control](/post/control/), administer, [manage](/post/manage/), [direct](/post/direct/), [regulate](/post/regulate/), oversee, superintend, [guide](/post/guide/).
+- **[Noun](/post/noun/)**: [Rule](/post/rule/), [control](/post/control/), [authority](/post/authority/), [command](/post/command/), [sway](/post/sway/), [management](/post/management/), [direction](/post/direction/), [administration](/post/administration/).

@@ -7,42 +7,42 @@ description = '[ˈsnəustɔːm] n.雪暴，暴风雪'
 keywords = ['ai words', 'snowstorm']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /nəʊˈstɔːrm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[snowstorm](/en/post/snowstorm/)** is [a](/en/post/a/) [violent](/en/post/violent/) [or](/en/post/or/) [intense](/en/post/intense/) precipitation [event](/en/post/event/) characterized [by](/en/post/by/) [heavy](/en/post/heavy/) snowfall, [strong](/en/post/strong/) winds, [and](/en/post/and/) reduced visibility, typically occurring [in](/en/post/in/) [cold](/en/post/cold/) climates [during](/en/post/during/) [winter](/en/post/winter/) months. 
+### [Noun](/post/noun/)
+[A](/post/a/) **[snowstorm](/post/snowstorm/)** is [a](/post/a/) [violent](/post/violent/) [or](/post/or/) [intense](/post/intense/) precipitation [event](/post/event/) characterized [by](/post/by/) [heavy](/post/heavy/) snowfall, [strong](/post/strong/) winds, [and](/post/and/) reduced visibility, typically occurring [in](/post/in/) [cold](/post/cold/) climates [during](/post/during/) [winter](/post/winter/) months. 
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[be](/en/post/be/) caught [in](/en/post/in/) [a](/en/post/a/) [snowstorm](/en/post/snowstorm/)** (informal) [means](/en/post/means/) [to](/en/post/to/) [experience](/en/post/experience/) [or](/en/post/or/) [find](/en/post/find/) [oneself](/en/post/oneself/) [in](/en/post/in/) [the](/en/post/the/) [midst](/en/post/midst/) [of](/en/post/of/) [such](/en/post/such/) [a](/en/post/a/) [weather](/en/post/weather/) [condition](/en/post/condition/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[be](/post/be/) caught [in](/post/in/) [a](/post/a/) [snowstorm](/post/snowstorm/)** (informal) [means](/post/means/) [to](/post/to/) [experience](/post/experience/) [or](/post/or/) [find](/post/find/) [oneself](/post/oneself/) [in](/post/in/) [the](/post/the/) [midst](/post/midst/) [of](/post/of/) [such](/post/such/) [a](/post/a/) [weather](/post/weather/) [condition](/post/condition/).
 
-### [Adjective](/en/post/adjective/)
-- **[Snowy](/en/post/snowy/)** describes [something](/en/post/something/) covered [or](/en/post/or/) influenced [by](/en/post/by/) [snow](/en/post/snow/), [as](/en/post/as/) [in](/en/post/in/) "[The](/en/post/the/) landscape was [snowy](/en/post/snowy/) [after](/en/post/after/) [the](/en/post/the/) [snowstorm](/en/post/snowstorm/)."
+### [Adjective](/post/adjective/)
+- **[Snowy](/post/snowy/)** describes [something](/post/something/) covered [or](/post/or/) influenced [by](/post/by/) [snow](/post/snow/), [as](/post/as/) [in](/post/in/) "[The](/post/the/) landscape was [snowy](/post/snowy/) [after](/post/after/) [the](/post/the/) [snowstorm](/post/snowstorm/)."
 
-### [Adverb](/en/post/adverb/)
-- **Stormily** [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [intensity](/en/post/intensity/) [or](/en/post/or/) chaotic [nature](/en/post/nature/) [of](/en/post/of/) [a](/en/post/a/) [snowstorm](/en/post/snowstorm/), [as](/en/post/as/) [in](/en/post/in/) "[The](/en/post/the/) [storm](/en/post/storm/) raged [on](/en/post/on/) stormily [throughout](/en/post/throughout/) [the](/en/post/the/) [night](/en/post/night/)."
+### [Adverb](/post/adverb/)
+- **Stormily** [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [intensity](/post/intensity/) [or](/post/or/) chaotic [nature](/post/nature/) [of](/post/of/) [a](/post/a/) [snowstorm](/post/snowstorm/), [as](/post/as/) [in](/post/in/) "[The](/post/the/) [storm](/post/storm/) raged [on](/post/on/) stormily [throughout](/post/throughout/) [the](/post/the/) [night](/post/night/)."
 
 ## Phrases
-- "[Be](/en/post/be/) prepared [for](/en/post/for/) [the](/en/post/the/) [snowstorm](/en/post/snowstorm/)" [means](/en/post/means/) [to](/en/post/to/) [anticipate](/en/post/anticipate/) [and](/en/post/and/) [get](/en/post/get/) [ready](/en/post/ready/) [for](/en/post/for/) [the](/en/post/the/) incoming [harsh](/en/post/harsh/) [weather](/en/post/weather/) conditions.
-- "[Stay](/en/post/stay/) [safe](/en/post/safe/) [during](/en/post/during/) [the](/en/post/the/) [snowstorm](/en/post/snowstorm/)" is [a](/en/post/a/) reminder [to](/en/post/to/) [take](/en/post/take/) precautions [in](/en/post/in/) [such](/en/post/such/) [weather](/en/post/weather/).
-- "[The](/en/post/the/) [power](/en/post/power/) went [out](/en/post/out/) [during](/en/post/during/) [the](/en/post/the/) [snowstorm](/en/post/snowstorm/)" highlights [the](/en/post/the/) [potential](/en/post/potential/) disruptions caused [by](/en/post/by/) [heavy](/en/post/heavy/) snowfall.
+- "[Be](/post/be/) prepared [for](/post/for/) [the](/post/the/) [snowstorm](/post/snowstorm/)" [means](/post/means/) [to](/post/to/) [anticipate](/post/anticipate/) [and](/post/and/) [get](/post/get/) [ready](/post/ready/) [for](/post/for/) [the](/post/the/) incoming [harsh](/post/harsh/) [weather](/post/weather/) conditions.
+- "[Stay](/post/stay/) [safe](/post/safe/) [during](/post/during/) [the](/post/the/) [snowstorm](/post/snowstorm/)" is [a](/post/a/) reminder [to](/post/to/) [take](/post/take/) precautions [in](/post/in/) [such](/post/such/) [weather](/post/weather/).
+- "[The](/post/the/) [power](/post/power/) went [out](/post/out/) [during](/post/during/) [the](/post/the/) [snowstorm](/post/snowstorm/)" highlights [the](/post/the/) [potential](/post/potential/) disruptions caused [by](/post/by/) [heavy](/post/heavy/) snowfall.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were [building](/en/post/building/) snowmen [after](/en/post/after/) [the](/en/post/the/) [recent](/en/post/recent/) [snowstorm](/en/post/snowstorm/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) were [fortunate](/en/post/fortunate/) [enough](/en/post/enough/) [to](/en/post/to/) [avoid](/en/post/avoid/) [the](/en/post/the/) [snowstorm](/en/post/snowstorm/) [that](/en/post/that/) [hit](/en/post/hit/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) trees were weighed [down](/en/post/down/) [by](/en/post/by/) [the](/en/post/the/) [snowy](/en/post/snowy/) branches [after](/en/post/after/) [the](/en/post/the/) [snowstorm](/en/post/snowstorm/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) drivers struggled [to](/en/post/to/) navigate [the](/en/post/the/) stormily winding roads [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [snow](/en/post/snow/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were [building](/post/building/) snowmen [after](/post/after/) [the](/post/the/) [recent](/post/recent/) [snowstorm](/post/snowstorm/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) were [fortunate](/post/fortunate/) [enough](/post/enough/) [to](/post/to/) [avoid](/post/avoid/) [the](/post/the/) [snowstorm](/post/snowstorm/) [that](/post/that/) [hit](/post/hit/) [the](/post/the/) [city](/post/city/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) trees were weighed [down](/post/down/) [by](/post/by/) [the](/post/the/) [snowy](/post/snowy/) branches [after](/post/after/) [the](/post/the/) [snowstorm](/post/snowstorm/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) drivers struggled [to](/post/to/) navigate [the](/post/the/) stormily winding roads [due](/post/due/) [to](/post/to/) [the](/post/the/) [snow](/post/snow/)."
 
 ## Synonyms
 - Blizzard
-- [Snow](/en/post/snow/) flurry
-- [Winter](/en/post/winter/) gale
+- [Snow](/post/snow/) flurry
+- [Winter](/post/winter/) gale
 - Whiteout
-- [Snow](/en/post/snow/) flurry
+- [Snow](/post/snow/) flurry
 
 ## Antonyms
-- [Clear](/en/post/clear/) [weather](/en/post/weather/)
-- [Sunny](/en/post/sunny/)
-- [Calm](/en/post/calm/)
-- [Warm](/en/post/warm/)
+- [Clear](/post/clear/) [weather](/post/weather/)
+- [Sunny](/post/sunny/)
+- [Calm](/post/calm/)
+- [Warm](/post/warm/)

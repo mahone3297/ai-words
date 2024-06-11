@@ -7,23 +7,23 @@ description = '[pəˈluː∫(ə)n] n.污染'
 keywords = ['ai words', 'pollution']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈluːʃn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: **[pollution](/en/post/pollution/)** ([noun](/en/post/noun/) n) [The](/en/post/the/) [presence](/en/post/presence/) [or](/en/post/or/) [introduction](/en/post/introduction/) [of](/en/post/of/) [harmful](/en/post/harmful/) substances [or](/en/post/or/) pollutants [into](/en/post/into/) [the](/en/post/the/) [environment](/en/post/environment/), causing [harm](/en/post/harm/) [to](/en/post/to/) [living](/en/post/living/) organisms [or](/en/post/or/) ecosystems. [For](/en/post/for/) [example](/en/post/example/): "[Air](/en/post/air/) [pollution](/en/post/pollution/) has led [to](/en/post/to/) [severe](/en/post/severe/) [health](/en/post/health/) issues [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) contaminate [or](/en/post/or/) contaminate an [area](/en/post/area/) [with](/en/post/with/) pollutants. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [factory](/en/post/factory/) is polluting [the](/en/post/the/) [river](/en/post/river/) [with](/en/post/with/) [its](/en/post/its/) [waste](/en/post/waste/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [the](/en/post/the/) [presence](/en/post/presence/) [of](/en/post/of/) [pollution](/en/post/pollution/); contaminated. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) polluted [water](/en/post/water/) made [it](/en/post/it/) [unsuitable](/en/post/unsuitable/) [for](/en/post/for/) drinking."
+- **[Noun](/post/noun/)**: **[pollution](/post/pollution/)** ([noun](/post/noun/) n) [The](/post/the/) [presence](/post/presence/) [or](/post/or/) [introduction](/post/introduction/) [of](/post/of/) [harmful](/post/harmful/) substances [or](/post/or/) pollutants [into](/post/into/) [the](/post/the/) [environment](/post/environment/), causing [harm](/post/harm/) [to](/post/to/) [living](/post/living/) organisms [or](/post/or/) ecosystems. [For](/post/for/) [example](/post/example/): "[Air](/post/air/) [pollution](/post/pollution/) has led [to](/post/to/) [severe](/post/severe/) [health](/post/health/) issues [in](/post/in/) [the](/post/the/) [city](/post/city/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) contaminate [or](/post/or/) contaminate an [area](/post/area/) [with](/post/with/) pollutants. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [factory](/post/factory/) is polluting [the](/post/the/) [river](/post/river/) [with](/post/with/) [its](/post/its/) [waste](/post/waste/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [the](/post/the/) [presence](/post/presence/) [of](/post/of/) [pollution](/post/pollution/); contaminated. [For](/post/for/) [example](/post/example/): "[The](/post/the/) polluted [water](/post/water/) made [it](/post/it/) [unsuitable](/post/unsuitable/) [for](/post/for/) drinking."
 
 ## Phrases
-- "[Reduce](/en/post/reduce/) [pollution](/en/post/pollution/) levels" refers [to](/en/post/to/) [the](/en/post/the/) [effort](/en/post/effort/) [to](/en/post/to/) [decrease](/en/post/decrease/) [the](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) pollutants.
-- "Combatting [air](/en/post/air/) [pollution](/en/post/pollution/)" is [a](/en/post/a/) [strategy](/en/post/strategy/) [to](/en/post/to/) [fight](/en/post/fight/) [against](/en/post/against/) [atmospheric](/en/post/atmospheric/) [pollution](/en/post/pollution/).
-- "[Living](/en/post/living/) [in](/en/post/in/) [a](/en/post/a/) polluted [area](/en/post/area/)" describes [a](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [the](/en/post/the/) [surroundings](/en/post/surroundings/) [have](/en/post/have/) [high](/en/post/high/) levels [of](/en/post/of/) [pollution](/en/post/pollution/).
+- "[Reduce](/post/reduce/) [pollution](/post/pollution/) levels" refers [to](/post/to/) [the](/post/the/) [effort](/post/effort/) [to](/post/to/) [decrease](/post/decrease/) [the](/post/the/) [amount](/post/amount/) [of](/post/of/) pollutants.
+- "Combatting [air](/post/air/) [pollution](/post/pollution/)" is [a](/post/a/) [strategy](/post/strategy/) [to](/post/to/) [fight](/post/fight/) [against](/post/against/) [atmospheric](/post/atmospheric/) [pollution](/post/pollution/).
+- "[Living](/post/living/) [in](/post/in/) [a](/post/a/) polluted [area](/post/area/)" describes [a](/post/a/) [situation](/post/situation/) [where](/post/where/) [the](/post/the/) [surroundings](/post/surroundings/) [have](/post/have/) [high](/post/high/) levels [of](/post/of/) [pollution](/post/pollution/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) city's efforts [to](/en/post/to/) [clean](/en/post/clean/) [up](/en/post/up/) [the](/en/post/the/) polluted [river](/en/post/river/) are commendable."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) regulations [aim](/en/post/aim/) [to](/en/post/to/) [prevent](/en/post/prevent/) factories [from](/en/post/from/) polluting [the](/en/post/the/) [nearby](/en/post/nearby/) [lake](/en/post/lake/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) the山顶 was obscured [by](/en/post/by/) [the](/en/post/the/) smoggy [pollution](/en/post/pollution/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) city's efforts [to](/post/to/) [clean](/post/clean/) [up](/post/up/) [the](/post/the/) polluted [river](/post/river/) are commendable."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) regulations [aim](/post/aim/) [to](/post/to/) [prevent](/post/prevent/) factories [from](/post/from/) polluting [the](/post/the/) [nearby](/post/nearby/) [lake](/post/lake/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [view](/post/view/) [from](/post/from/) the山顶 was obscured [by](/post/by/) [the](/post/the/) smoggy [pollution](/post/pollution/)."
 
 ## Synonyms
 - Contamination
@@ -31,10 +31,10 @@ keywords = ['ai words', 'pollution']
 - Contaminate
 - Degredation
 - Impurity
-- Toxin [release](/en/post/release/)
+- Toxin [release](/post/release/)
 
 ## Antonyms
-- [Purity](/en/post/purity/)
+- [Purity](/post/purity/)
 - Cleanliness
 - Sanitation
 - Biodiversity preservation

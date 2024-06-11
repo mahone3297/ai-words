@@ -7,29 +7,29 @@ description = '[əuˈmit] vt.省略，省去；遗漏'
 keywords = ['ai words', 'omit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈmɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) intentionally [leave](/en/post/leave/) [out](/en/post/out/) [or](/en/post/or/) [exclude](/en/post/exclude/) [something](/en/post/something/), typically [when](/en/post/when/) recording [or](/en/post/or/) listing [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) omitted [several](/en/post/several/) [important](/en/post/important/) details [from](/en/post/from/) [her](/en/post/her/) [report](/en/post/report/)."
-- **[Verb](/en/post/verb/)**: (intransitive) [To](/en/post/to/) [fail](/en/post/fail/) [to](/en/post/to/) [include](/en/post/include/) [or](/en/post/or/) [perform](/en/post/perform/) [something](/en/post/something/), [either](/en/post/either/) [by](/en/post/by/) [intention](/en/post/intention/) [or](/en/post/or/) oversight. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) omitted [to](/en/post/to/) [mention](/en/post/mention/) [that](/en/post/that/) [he](/en/post/he/) had won [the](/en/post/the/) [award](/en/post/award/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) intentionally [leave](/post/leave/) [out](/post/out/) [or](/post/or/) [exclude](/post/exclude/) [something](/post/something/), typically [when](/post/when/) recording [or](/post/or/) listing [information](/post/information/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) omitted [several](/post/several/) [important](/post/important/) details [from](/post/from/) [her](/post/her/) [report](/post/report/)."
+- **[Verb](/post/verb/)**: (intransitive) [To](/post/to/) [fail](/post/fail/) [to](/post/to/) [include](/post/include/) [or](/post/or/) [perform](/post/perform/) [something](/post/something/), [either](/post/either/) [by](/post/by/) [intention](/post/intention/) [or](/post/or/) oversight. [For](/post/for/) [example](/post/example/): "[He](/post/he/) omitted [to](/post/to/) [mention](/post/mention/) [that](/post/that/) [he](/post/he/) had won [the](/post/the/) [award](/post/award/)."
 
 ## Phrases
-- "[Omit](/en/post/omit/) [from](/en/post/from/)": [To](/en/post/to/) [not](/en/post/not/) [include](/en/post/include/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [list](/en/post/list/), [document](/en/post/document/), [or](/en/post/or/) [consideration](/en/post/consideration/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) publisher omitted [three](/en/post/three/) chapters [from](/en/post/from/) [the](/en/post/the/) paperback [edition](/en/post/edition/)."
-- "[To](/en/post/to/) [be](/en/post/be/) omitted": [To](/en/post/to/) [not](/en/post/not/) [be](/en/post/be/) included [or](/en/post/or/) considered. [For](/en/post/for/) [example](/en/post/example/): "[That](/en/post/that/) crucial [point](/en/post/point/) was inadvertently omitted [from](/en/post/from/) [the](/en/post/the/) [discussion](/en/post/discussion/)."
+- "[Omit](/post/omit/) [from](/post/from/)": [To](/post/to/) [not](/post/not/) [include](/post/include/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [list](/post/list/), [document](/post/document/), [or](/post/or/) [consideration](/post/consideration/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) publisher omitted [three](/post/three/) chapters [from](/post/from/) [the](/post/the/) paperback [edition](/post/edition/)."
+- "[To](/post/to/) [be](/post/be/) omitted": [To](/post/to/) [not](/post/not/) [be](/post/be/) included [or](/post/or/) considered. [For](/post/for/) [example](/post/example/): "[That](/post/that/) crucial [point](/post/point/) was inadvertently omitted [from](/post/from/) [the](/post/the/) [discussion](/post/discussion/)."
   
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (transitive)**: "[In](/en/post/in/) [his](/en/post/his/) [summary](/en/post/summary/), [the](/en/post/the/) [student](/en/post/student/) wisely omitted [unnecessary](/en/post/unnecessary/) details [to](/en/post/to/) [keep](/en/post/keep/) [it](/en/post/it/) concise."
-- **[Verb](/en/post/verb/) (intransitive)**: "[He](/en/post/he/) forgot [to](/en/post/to/) [include](/en/post/include/) [his](/en/post/his/) [contact](/en/post/contact/) [information](/en/post/information/); [it](/en/post/it/) was [simply](/en/post/simply/) omitted."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (transitive)**: "[In](/post/in/) [his](/post/his/) [summary](/post/summary/), [the](/post/the/) [student](/post/student/) wisely omitted [unnecessary](/post/unnecessary/) details [to](/post/to/) [keep](/post/keep/) [it](/post/it/) concise."
+- **[Verb](/post/verb/) (intransitive)**: "[He](/post/he/) forgot [to](/post/to/) [include](/post/include/) [his](/post/his/) [contact](/post/contact/) [information](/post/information/); [it](/post/it/) was [simply](/post/simply/) omitted."
 
 ## Synonyms
-- [Leave](/en/post/leave/) [out](/en/post/out/)
-- [Exclude](/en/post/exclude/)
-- [Delete](/en/post/delete/)
+- [Leave](/post/leave/) [out](/post/out/)
+- [Exclude](/post/exclude/)
+- [Delete](/post/delete/)
 - Excise
 - Omission
 - Skip
-- [Neglect](/en/post/neglect/)
-- [Overlook](/en/post/overlook/)
-- [Pass](/en/post/pass/) [over](/en/post/over/)
-- [Fail](/en/post/fail/) [to](/en/post/to/) [mention](/en/post/mention/)
+- [Neglect](/post/neglect/)
+- [Overlook](/post/overlook/)
+- [Pass](/post/pass/) [over](/post/over/)
+- [Fail](/post/fail/) [to](/post/to/) [mention](/post/mention/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'utilize']
 /ˈjuːtəlaɪz/
 
 ## 释义
-- **动词**: 充分利用；使用；应用。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [utilize](/post/utilize/) [every](/post/every/) [available](/post/available/) [resource](/post/resource/) [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [project](/post/project/)."
-- **名词**: 利用；使用。例如: "[The](/post/the/) company's [goal](/post/goal/) is [to](/post/to/) maximize [the](/post/the/) utilization [of](/post/of/) [its](/post/its/) [technology](/post/technology/)."
+- **动词**: 充分利用；使用；应用。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [utilize](/zh/post/utilize/) [every](/zh/post/every/) [available](/zh/post/available/) [resource](/zh/post/resource/) [to](/zh/post/to/) [complete](/zh/post/complete/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- **名词**: 利用；使用。例如: "[The](/zh/post/the/) company's [goal](/zh/post/goal/) is [to](/zh/post/to/) maximize [the](/zh/post/the/) utilization [of](/zh/post/of/) [its](/zh/post/its/) [technology](/zh/post/technology/)."
 
 ## 短语
-- "[Utilize](/post/utilize/) [something](/post/something/) [for](/post/for/) [something](/post/something/)" 意味着将某物用于特定目的。例如: "[They](/post/they/) utilized [their](/post/their/) skills [to](/post/to/) [build](/post/build/) [a](/post/a/) [successful](/post/successful/) [business](/post/business/)."
-- "Maximize utilization" 指尽可能充分利用。例如: "[The](/post/the/) manager wants [to](/post/to/) maximize [the](/post/the/) utilization [of](/post/of/) [the](/post/the/) [staff](/post/staff/) [during](/post/during/) [peak](/post/peak/) hours."
+- "[Utilize](/zh/post/utilize/) [something](/zh/post/something/) [for](/zh/post/for/) [something](/zh/post/something/)" 意味着将某物用于特定目的。例如: "[They](/zh/post/they/) utilized [their](/zh/post/their/) skills [to](/zh/post/to/) [build](/zh/post/build/) [a](/zh/post/a/) [successful](/zh/post/successful/) [business](/zh/post/business/)."
+- "Maximize utilization" 指尽可能充分利用。例如: "[The](/zh/post/the/) manager wants [to](/zh/post/to/) maximize [the](/zh/post/the/) utilization [of](/zh/post/of/) [the](/zh/post/the/) [staff](/zh/post/staff/) [during](/zh/post/during/) [peak](/zh/post/peak/) hours."
 
 ## 例句
-- 动词: "[We](/post/we/) [will](/post/will/) [utilize](/post/utilize/) [this](/post/this/) [new](/post/new/) software [to](/post/to/) streamline [our](/post/our/) workflow."
-- 名词: "[The](/post/the/) [machine](/post/machine/) has [a](/post/a/) [high](/post/high/) utilization [rate](/post/rate/), running [almost](/post/almost/) 24/7."
+- 动词: "[We](/zh/post/we/) [will](/zh/post/will/) [utilize](/zh/post/utilize/) [this](/zh/post/this/) [new](/zh/post/new/) software [to](/zh/post/to/) streamline [our](/zh/post/our/) workflow."
+- 名词: "[The](/zh/post/the/) [machine](/zh/post/machine/) has [a](/zh/post/a/) [high](/zh/post/high/) utilization [rate](/zh/post/rate/), running [almost](/zh/post/almost/) 24/7."
 
 ## 同义词
-- [Use](/post/use/)
-- [Employ](/post/employ/)
-- [Apply](/post/apply/)
-- [Exploit](/post/exploit/)
-- [Make](/post/make/) [use](/post/use/) [of](/post/of/)
+- [Use](/zh/post/use/)
+- [Employ](/zh/post/employ/)
+- [Apply](/zh/post/apply/)
+- [Exploit](/zh/post/exploit/)
+- [Make](/zh/post/make/) [use](/zh/post/use/) [of](/zh/post/of/)

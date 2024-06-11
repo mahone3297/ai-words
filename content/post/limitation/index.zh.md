@@ -11,23 +11,23 @@ keywords = ['ai words', 'limitation']
 /ˌlɪmɪˈteɪʃn/
 
 ## 释义
-- **名词**: 限制；局限；局限性。例如: "[The](/post/the/) [only](/post/only/) [limitation](/post/limitation/) [on](/post/on/) [his](/post/his/) [freedom](/post/freedom/) was [the](/post/the/) [law](/post/law/)."
-- **动词**: 限制；限定。例如: "[This](/post/this/) [policy](/post/policy/) limits [the](/post/the/) [number](/post/number/) [of](/post/of/) visitors [per](/post/per/) [day](/post/day/)."
+- **名词**: 限制；局限；局限性。例如: "[The](/zh/post/the/) [only](/zh/post/only/) [limitation](/zh/post/limitation/) [on](/zh/post/on/) [his](/zh/post/his/) [freedom](/zh/post/freedom/) was [the](/zh/post/the/) [law](/zh/post/law/)."
+- **动词**: 限制；限定。例如: "[This](/zh/post/this/) [policy](/zh/post/policy/) limits [the](/zh/post/the/) [number](/zh/post/number/) [of](/zh/post/of/) visitors [per](/zh/post/per/) [day](/zh/post/day/)."
 
 ## 短语
-- "[Without](/post/without/) limitations" 没有限制。
-- "[Impose](/post/impose/) limitations [on](/post/on/) [something](/post/something/)" 对某事施加限制。
-- "[The](/post/the/) limitations [of](/post/of/) [a](/post/a/) [study](/post/study/)" 一个研究的局限性。
+- "[Without](/zh/post/without/) limitations" 没有限制。
+- "[Impose](/zh/post/impose/) limitations [on](/zh/post/on/) [something](/zh/post/something/)" 对某事施加限制。
+- "[The](/zh/post/the/) limitations [of](/zh/post/of/) [a](/zh/post/a/) [study](/zh/post/study/)" 一个研究的局限性。
 
 ## 例句
-- 名词: "[The](/post/the/) [main](/post/main/) [limitation](/post/limitation/) [of](/post/of/) [this](/post/this/) [technology](/post/technology/) is [its](/post/its/) [high](/post/high/) [cost](/post/cost/)."
-- 动词: "[The](/post/the/) [government](/post/government/) has decided [to](/post/to/) [limit](/post/limit/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [plastic](/post/plastic/) bags."
+- 名词: "[The](/zh/post/the/) [main](/zh/post/main/) [limitation](/zh/post/limitation/) [of](/zh/post/of/) [this](/zh/post/this/) [technology](/zh/post/technology/) is [its](/zh/post/its/) [high](/zh/post/high/) [cost](/zh/post/cost/)."
+- 动词: "[The](/zh/post/the/) [government](/zh/post/government/) has decided [to](/zh/post/to/) [limit](/zh/post/limit/) [the](/zh/post/the/) [use](/zh/post/use/) [of](/zh/post/of/) [plastic](/zh/post/plastic/) bags."
 
 ## 同义词
 - Constraint
-- [Restriction](/post/restriction/)
-- [Bound](/post/bound/)
-- [Barrier](/post/barrier/)
+- [Restriction](/zh/post/restriction/)
+- [Bound](/zh/post/bound/)
+- [Barrier](/zh/post/barrier/)
 -局限
 - 约束
 - 范围

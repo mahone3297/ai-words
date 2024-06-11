@@ -7,40 +7,40 @@ description = '[ˈledʒənd] n.传说，传奇'
 keywords = ['ai words', 'legend']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈledʒənd/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-- [A](/en/post/a/) [traditional](/en/post/traditional/) [story](/en/post/story/), [often](/en/post/often/) [concerning](/en/post/concerning/) [the](/en/post/the/) deeds [of](/en/post/of/) [a](/en/post/a/) [hero](/en/post/hero/) [or](/en/post/or/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) heroes, handed [down](/en/post/down/) [from](/en/post/from/) earlier times, [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is believed [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [historical](/en/post/historical/) [basis](/en/post/basis/) [but](/en/post/but/) [may](/en/post/may/) [be](/en/post/be/) exaggerated [or](/en/post/or/) distorted.
-  - _Example Sentence_: [King](/en/post/king/) Arthur's tales [have](/en/post/have/) [become](/en/post/become/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) British legends.
-- An inscription [or](/en/post/or/) [title](/en/post/title/) [on](/en/post/on/) [a](/en/post/a/) [map](/en/post/map/), [chart](/en/post/chart/), [or](/en/post/or/) [other](/en/post/other/) [work](/en/post/work/) explaining [its](/en/post/its/) symbols, giving credits, etc.
-  - _Example Sentence_: [The](/en/post/the/) [legend](/en/post/legend/) [on](/en/post/on/) [the](/en/post/the/) [map](/en/post/map/) shows [what](/en/post/what/) [each](/en/post/each/) [color](/en/post/color/) represents.
-- [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [famous](/en/post/famous/) [or](/en/post/or/) renowned, [especially](/en/post/especially/) [within](/en/post/within/) [a](/en/post/a/) [particular](/en/post/particular/) [sphere](/en/post/sphere/); [a](/en/post/a/) [person](/en/post/person/) admired [for](/en/post/for/) [their](/en/post/their/) achievements, bravery, [or](/en/post/or/) [other](/en/post/other/) qualities.
-  - _Example Sentence_: [She](/en/post/she/) became [a](/en/post/a/) [legend](/en/post/legend/) [in](/en/post/in/) [her](/en/post/her/) [field](/en/post/field/) [through](/en/post/through/) [her](/en/post/her/) groundbreaking [research](/en/post/research/).
+### [Noun](/post/noun/) (n)
+- [A](/post/a/) [traditional](/post/traditional/) [story](/post/story/), [often](/post/often/) [concerning](/post/concerning/) [the](/post/the/) deeds [of](/post/of/) [a](/post/a/) [hero](/post/hero/) [or](/post/or/) [a](/post/a/) [group](/post/group/) [of](/post/of/) heroes, handed [down](/post/down/) [from](/post/from/) earlier times, [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is believed [to](/post/to/) [have](/post/have/) [a](/post/a/) [historical](/post/historical/) [basis](/post/basis/) [but](/post/but/) [may](/post/may/) [be](/post/be/) exaggerated [or](/post/or/) distorted.
+  - _Example Sentence_: [King](/post/king/) Arthur's tales [have](/post/have/) [become](/post/become/) [part](/post/part/) [of](/post/of/) [the](/post/the/) British legends.
+- An inscription [or](/post/or/) [title](/post/title/) [on](/post/on/) [a](/post/a/) [map](/post/map/), [chart](/post/chart/), [or](/post/or/) [other](/post/other/) [work](/post/work/) explaining [its](/post/its/) symbols, giving credits, etc.
+  - _Example Sentence_: [The](/post/the/) [legend](/post/legend/) [on](/post/on/) [the](/post/the/) [map](/post/map/) shows [what](/post/what/) [each](/post/each/) [color](/post/color/) represents.
+- [A](/post/a/) [person](/post/person/) [who](/post/who/) is [famous](/post/famous/) [or](/post/or/) renowned, [especially](/post/especially/) [within](/post/within/) [a](/post/a/) [particular](/post/particular/) [sphere](/post/sphere/); [a](/post/a/) [person](/post/person/) admired [for](/post/for/) [their](/post/their/) achievements, bravery, [or](/post/or/) [other](/post/other/) qualities.
+  - _Example Sentence_: [She](/post/she/) became [a](/post/a/) [legend](/post/legend/) [in](/post/in/) [her](/post/her/) [field](/post/field/) [through](/post/through/) [her](/post/her/) groundbreaking [research](/post/research/).
 
-### [Verb](/en/post/verb/) (v)
-- [To](/en/post/to/) [describe](/en/post/describe/) [or](/en/post/or/) [identify](/en/post/identify/) ([something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [symbol](/en/post/symbol/)) [in](/en/post/in/) [a](/en/post/a/) [legend](/en/post/legend/) [or](/en/post/or/) [key](/en/post/key/).
-  - _Example Sentence_: [Each](/en/post/each/) [symbol](/en/post/symbol/) [on](/en/post/on/) [the](/en/post/the/) [graph](/en/post/graph/) is legend-ed [to](/en/post/to/) [explain](/en/post/explain/) [its](/en/post/its/) [meaning](/en/post/meaning/).
-- (informal) [To](/en/post/to/) [consider](/en/post/consider/) [or](/en/post/or/) [treat](/en/post/treat/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [as](/en/post/as/) legendary [or](/en/post/or/) having [the](/en/post/the/) [status](/en/post/status/) [of](/en/post/of/) [a](/en/post/a/) [legend](/en/post/legend/).
-  - _Example Sentence_: Fans [tend](/en/post/tend/) [to](/en/post/to/) legend-ize [their](/en/post/their/) favorite athletes.
+### [Verb](/post/verb/) (v)
+- [To](/post/to/) [describe](/post/describe/) [or](/post/or/) [identify](/post/identify/) ([something](/post/something/), [especially](/post/especially/) [a](/post/a/) [symbol](/post/symbol/)) [in](/post/in/) [a](/post/a/) [legend](/post/legend/) [or](/post/or/) [key](/post/key/).
+  - _Example Sentence_: [Each](/post/each/) [symbol](/post/symbol/) [on](/post/on/) [the](/post/the/) [graph](/post/graph/) is legend-ed [to](/post/to/) [explain](/post/explain/) [its](/post/its/) [meaning](/post/meaning/).
+- (informal) [To](/post/to/) [consider](/post/consider/) [or](/post/or/) [treat](/post/treat/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [as](/post/as/) legendary [or](/post/or/) having [the](/post/the/) [status](/post/status/) [of](/post/of/) [a](/post/a/) [legend](/post/legend/).
+  - _Example Sentence_: Fans [tend](/post/tend/) [to](/post/to/) legend-ize [their](/post/their/) favorite athletes.
 
 ## Phrases
-- "[A](/en/post/a/) [legend](/en/post/legend/) [in](/en/post/in/) [their](/en/post/their/) [own](/en/post/own/) [time](/en/post/time/)": Referring [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) has achieved [great](/en/post/great/) [fame](/en/post/fame/) [or](/en/post/or/) notoriety [during](/en/post/during/) [their](/en/post/their/) [lifetime](/en/post/lifetime/).
-- "[Go](/en/post/go/) [down](/en/post/down/) [in](/en/post/in/) [legend](/en/post/legend/)": [To](/en/post/to/) [become](/en/post/become/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) long-lasting narrative [or](/en/post/or/) [story](/en/post/story/) [that](/en/post/that/) [will](/en/post/will/) [be](/en/post/be/) remembered [throughout](/en/post/throughout/) [history](/en/post/history/).
+- "[A](/post/a/) [legend](/post/legend/) [in](/post/in/) [their](/post/their/) [own](/post/own/) [time](/post/time/)": Referring [to](/post/to/) [someone](/post/someone/) [who](/post/who/) has achieved [great](/post/great/) [fame](/post/fame/) [or](/post/or/) notoriety [during](/post/during/) [their](/post/their/) [lifetime](/post/lifetime/).
+- "[Go](/post/go/) [down](/post/down/) [in](/post/in/) [legend](/post/legend/)": [To](/post/to/) [become](/post/become/) [part](/post/part/) [of](/post/of/) [a](/post/a/) long-lasting narrative [or](/post/or/) [story](/post/story/) [that](/post/that/) [will](/post/will/) [be](/post/be/) remembered [throughout](/post/throughout/) [history](/post/history/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (legendary [person](/en/post/person/))**: Michael Jordan is [a](/en/post/a/) [basketball](/en/post/basketball/) [legend](/en/post/legend/) [whose](/en/post/whose/) [influence](/en/post/influence/) extends [beyond](/en/post/beyond/) [the](/en/post/the/) [sport](/en/post/sport/) [itself](/en/post/itself/).
-- **[Noun](/en/post/noun/) ([story](/en/post/story/))**: According [to](/en/post/to/) [local](/en/post/local/) [legend](/en/post/legend/), [the](/en/post/the/) [lake](/en/post/lake/) was formed [by](/en/post/by/) [the](/en/post/the/) tears [of](/en/post/of/) [a](/en/post/a/) goddess.
-- **[Verb](/en/post/verb/)**: [The](/en/post/the/) designer carefully legend-ed [each](/en/post/each/) [component](/en/post/component/) [on](/en/post/on/) [the](/en/post/the/) blueprint [to](/en/post/to/) [ensure](/en/post/ensure/) clarity.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (legendary [person](/post/person/))**: Michael Jordan is [a](/post/a/) [basketball](/post/basketball/) [legend](/post/legend/) [whose](/post/whose/) [influence](/post/influence/) extends [beyond](/post/beyond/) [the](/post/the/) [sport](/post/sport/) [itself](/post/itself/).
+- **[Noun](/post/noun/) ([story](/post/story/))**: According [to](/post/to/) [local](/post/local/) [legend](/post/legend/), [the](/post/the/) [lake](/post/lake/) was formed [by](/post/by/) [the](/post/the/) tears [of](/post/of/) [a](/post/a/) goddess.
+- **[Verb](/post/verb/)**: [The](/post/the/) designer carefully legend-ed [each](/post/each/) [component](/post/component/) [on](/post/on/) [the](/post/the/) blueprint [to](/post/to/) [ensure](/post/ensure/) clarity.
 
 ## Synonyms
 - Myth
-- [Fable](/en/post/fable/)
+- [Fable](/post/fable/)
 - Folklore
 - Epic
-- [Tale](/en/post/tale/)
+- [Tale](/post/tale/)
 - Narrative
-- Anecdote ([for](/en/post/for/) [personal](/en/post/personal/) legends)
-- Icon ([for](/en/post/for/) [people](/en/post/people/))
-- [Key](/en/post/key/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) maps [or](/en/post/or/) diagrams)
+- Anecdote ([for](/post/for/) [personal](/post/personal/) legends)
+- Icon ([for](/post/for/) [people](/post/people/))
+- [Key](/post/key/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) maps [or](/post/or/) diagrams)

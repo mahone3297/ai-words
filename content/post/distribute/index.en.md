@@ -7,42 +7,42 @@ description = '[disˈtribju(ː)t] vt.分发，分送；分布'
 keywords = ['ai words', 'distribute']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈstrɪbjuːt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Distribution](/en/post/distribution/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [out](/en/post/out/) [or](/en/post/or/) spreading [something](/en/post/something/) evenly [among](/en/post/among/) [a](/en/post/a/) [group](/en/post/group/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) was distributed [among](/en/post/among/) [the](/en/post/the/) students."
-- **[Distribution](/en/post/distribution/) [channel](/en/post/channel/)**: [The](/en/post/the/) [system](/en/post/system/) [through](/en/post/through/) [which](/en/post/which/) [goods](/en/post/goods/) [or](/en/post/or/) services [reach](/en/post/reach/) consumers. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) uses [multiple](/en/post/multiple/) [distribution](/en/post/distribution/) channels [to](/en/post/to/) [sell](/en/post/sell/) [its](/en/post/its/) products."
+### [Noun](/post/noun/)
+- **[Distribution](/post/distribution/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [out](/post/out/) [or](/post/or/) spreading [something](/post/something/) evenly [among](/post/among/) [a](/post/a/) [group](/post/group/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) was distributed [among](/post/among/) [the](/post/the/) students."
+- **[Distribution](/post/distribution/) [channel](/post/channel/)**: [The](/post/the/) [system](/post/system/) [through](/post/through/) [which](/post/which/) [goods](/post/goods/) [or](/post/or/) services [reach](/post/reach/) consumers. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) uses [multiple](/post/multiple/) [distribution](/post/distribution/) channels [to](/post/to/) [sell](/post/sell/) [its](/post/its/) products."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [distribute](/en/post/distribute/)**: [To](/en/post/to/) allocate, [scatter](/en/post/scatter/), [or](/en/post/or/) [pass](/en/post/pass/) [out](/en/post/out/) [something](/en/post/something/) [in](/en/post/in/) [equal](/en/post/equal/) [or](/en/post/or/) [separate](/en/post/separate/) portions. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) distributed [the](/en/post/the/) homework assignments."
-- **[To](/en/post/to/) redistribute**: [To](/en/post/to/) [change](/en/post/change/) [the](/en/post/the/) allocation [or](/en/post/or/) [distribution](/en/post/distribution/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) is planning [to](/en/post/to/) redistribute [wealth](/en/post/wealth/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [distribute](/post/distribute/)**: [To](/post/to/) allocate, [scatter](/post/scatter/), [or](/post/or/) [pass](/post/pass/) [out](/post/out/) [something](/post/something/) [in](/post/in/) [equal](/post/equal/) [or](/post/or/) [separate](/post/separate/) portions. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) distributed [the](/post/the/) homework assignments."
+- **[To](/post/to/) redistribute**: [To](/post/to/) [change](/post/change/) [the](/post/the/) allocation [or](/post/or/) [distribution](/post/distribution/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [government](/post/government/) is planning [to](/post/to/) redistribute [wealth](/post/wealth/)."
 
 ## Phrases
-- "[Distribute](/en/post/distribute/) materials" [means](/en/post/means/) [to](/en/post/to/) [distribute](/en/post/distribute/) [physical](/en/post/physical/) items [like](/en/post/like/) papers [or](/en/post/or/) supplies.
-- "Distributed computing" refers [to](/en/post/to/) [a](/en/post/a/) [network](/en/post/network/) [where](/en/post/where/) tasks are divided [among](/en/post/among/) [multiple](/en/post/multiple/) computers.
-- "Random [distribution](/en/post/distribution/)" describes [a](/en/post/a/) [spread](/en/post/spread/) [that](/en/post/that/) is [not](/en/post/not/) concentrated [in](/en/post/in/) [one](/en/post/one/) [area](/en/post/area/).
+- "[Distribute](/post/distribute/) materials" [means](/post/means/) [to](/post/to/) [distribute](/post/distribute/) [physical](/post/physical/) items [like](/post/like/) papers [or](/post/or/) supplies.
+- "Distributed computing" refers [to](/post/to/) [a](/post/a/) [network](/post/network/) [where](/post/where/) tasks are divided [among](/post/among/) [multiple](/post/multiple/) computers.
+- "Random [distribution](/post/distribution/)" describes [a](/post/a/) [spread](/post/spread/) [that](/post/that/) is [not](/post/not/) concentrated [in](/post/in/) [one](/post/one/) [area](/post/area/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's revenue is distributed [across](/en/post/across/) [different](/en/post/different/) regions."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [librarian](/en/post/librarian/) helped [the](/en/post/the/) children [distribute](/en/post/distribute/) [the](/en/post/the/) books [among](/en/post/among/) [themselves](/en/post/themselves/)."
-- **Redistributive [policy](/en/post/policy/)**: "[The](/en/post/the/) [government](/en/post/government/) implemented [a](/en/post/a/) redistributive [tax](/en/post/tax/) [system](/en/post/system/) [to](/en/post/to/) [reduce](/en/post/reduce/) [income](/en/post/income/) inequality."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) company's revenue is distributed [across](/post/across/) [different](/post/different/) regions."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [librarian](/post/librarian/) helped [the](/post/the/) children [distribute](/post/distribute/) [the](/post/the/) books [among](/post/among/) [themselves](/post/themselves/)."
+- **Redistributive [policy](/post/policy/)**: "[The](/post/the/) [government](/post/government/) implemented [a](/post/a/) redistributive [tax](/post/tax/) [system](/post/system/) [to](/post/to/) [reduce](/post/reduce/) [income](/post/income/) inequality."
 
 ## Synonyms
 - Allocate
 - Disperse
-- [Scatter](/en/post/scatter/)
-- [Pass](/en/post/pass/) [out](/en/post/out/)
-- [Distribute](/en/post/distribute/) evenly
-- [Assign](/en/post/assign/)
-- [Share](/en/post/share/)
-- [Provide](/en/post/provide/)
-- [Offer](/en/post/offer/)
+- [Scatter](/post/scatter/)
+- [Pass](/post/pass/) [out](/post/out/)
+- [Distribute](/post/distribute/) evenly
+- [Assign](/post/assign/)
+- [Share](/post/share/)
+- [Provide](/post/provide/)
+- [Offer](/post/offer/)
 
 ## Antonyms
-- [Concentrate](/en/post/concentrate/)
-- [Gather](/en/post/gather/)
-- [Retain](/en/post/retain/)
+- [Concentrate](/post/concentrate/)
+- [Gather](/post/gather/)
+- [Retain](/post/retain/)
 - Hoard
 - Centralize

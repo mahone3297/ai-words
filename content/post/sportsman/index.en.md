@@ -7,30 +7,30 @@ description = '[ˈspɔːtsmən] n.运动员'
 keywords = ['ai words', 'sportsman']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sportsmən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[sportsman](/en/post/sportsman/)** is [a](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) an [individual](/en/post/individual/) [who](/en/post/who/) participates [in](/en/post/in/) sports, typically [with](/en/post/with/) [a](/en/post/a/) [focus](/en/post/focus/) [on](/en/post/on/) sportsmanship, [fair](/en/post/fair/) [play](/en/post/play/), [and](/en/post/and/) adherence [to](/en/post/to/) [the](/en/post/the/) rules. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) denote [a](/en/post/a/) [person](/en/post/person/) known [for](/en/post/for/) [their](/en/post/their/) [skill](/en/post/skill/), dedication, [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) athletic [activity](/en/post/activity/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[sportsman](/post/sportsman/)** is [a](/post/a/) [noun](/post/noun/) referring [to](/post/to/) an [individual](/post/individual/) [who](/post/who/) participates [in](/post/in/) sports, typically [with](/post/with/) [a](/post/a/) [focus](/post/focus/) [on](/post/on/) sportsmanship, [fair](/post/fair/) [play](/post/play/), [and](/post/and/) adherence [to](/post/to/) [the](/post/the/) rules. [It](/post/it/) [can](/post/can/) [also](/post/also/) denote [a](/post/a/) [person](/post/person/) known [for](/post/for/) [their](/post/their/) [skill](/post/skill/), dedication, [or](/post/or/) [enthusiasm](/post/enthusiasm/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) athletic [activity](/post/activity/).
 
-### [Verb](/en/post/verb/)
-[The](/en/post/the/) [term](/en/post/term/) "[sportsman](/en/post/sportsman/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [a](/en/post/a/) [less](/en/post/less/) [common](/en/post/common/) [sense](/en/post/sense/), [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) exhibiting sportsmanship [or](/en/post/or/) behaving [in](/en/post/in/) [a](/en/post/a/) dignified [and](/en/post/and/) courteous [manner](/en/post/manner/) [while](/en/post/while/) participating [in](/en/post/in/) sports.
+### [Verb](/post/verb/)
+[The](/post/the/) [term](/post/term/) "[sportsman](/post/sportsman/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [a](/post/a/) [less](/post/less/) [common](/post/common/) [sense](/post/sense/), [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [act](/post/act/) [of](/post/of/) exhibiting sportsmanship [or](/post/or/) behaving [in](/post/in/) [a](/post/a/) dignified [and](/post/and/) courteous [manner](/post/manner/) [while](/post/while/) participating [in](/post/in/) sports.
 
 ## Phrases
 - "Displaying sportsmanship"
-- "[Being](/en/post/being/) [a](/en/post/a/) [true](/en/post/true/) [sportsman](/en/post/sportsman/)"
-- "Sportsmanlike [conduct](/en/post/conduct/)"
+- "[Being](/post/being/) [a](/post/a/) [true](/post/true/) [sportsman](/post/sportsman/)"
+- "Sportsmanlike [conduct](/post/conduct/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) was [a](/en/post/a/) [true](/en/post/true/) [sportsman](/en/post/sportsman/), [always](/en/post/always/) congratulating [his](/en/post/his/) opponents [even](/en/post/even/) [when](/en/post/when/) [he](/en/post/he/) lost."
-- **Verbal [use](/en/post/use/) ([less](/en/post/less/) [common](/en/post/common/))**: "[He](/en/post/he/) showed [great](/en/post/great/) sportsmanship [by](/en/post/by/) helping [a](/en/post/a/) competitor [who](/en/post/who/) had fallen [during](/en/post/during/) [the](/en/post/the/) [race](/en/post/race/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) was [a](/post/a/) [true](/post/true/) [sportsman](/post/sportsman/), [always](/post/always/) congratulating [his](/post/his/) opponents [even](/post/even/) [when](/post/when/) [he](/post/he/) lost."
+- **Verbal [use](/post/use/) ([less](/post/less/) [common](/post/common/))**: "[He](/post/he/) showed [great](/post/great/) sportsmanship [by](/post/by/) helping [a](/post/a/) competitor [who](/post/who/) had fallen [during](/post/during/) [the](/post/the/) [race](/post/race/)."
 
 ## Synonyms
-- [Athlete](/en/post/athlete/)
-- [Player](/en/post/player/)
+- [Athlete](/post/athlete/)
+- [Player](/post/player/)
 - Sports enthusiast
-- [Gentleman](/en/post/gentleman/) [athlete](/en/post/athlete/)
+- [Gentleman](/post/gentleman/) [athlete](/post/athlete/)
 - Sports participant
 
-## [Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) "[sportsman](/en/post/sportsman/)" is [not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [everyday](/en/post/everyday/) [conversation](/en/post/conversation/), [and](/en/post/and/) it's [mostly](/en/post/mostly/) associated [with](/en/post/with/) [the](/en/post/the/) [noun](/en/post/noun/) [meaning](/en/post/meaning/). [If](/en/post/if/) [you](/en/post/you/) [want](/en/post/want/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) exhibiting sportsmanship [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [you](/en/post/you/) [might](/en/post/might/) [use](/en/post/use/) "[display](/en/post/display/) sportsmanship" [or](/en/post/or/) "[be](/en/post/be/) [a](/en/post/a/) [sportsman](/en/post/sportsman/)."
+## [Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) "[sportsman](/post/sportsman/)" is [not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [everyday](/post/everyday/) [conversation](/post/conversation/), [and](/post/and/) it's [mostly](/post/mostly/) associated [with](/post/with/) [the](/post/the/) [noun](/post/noun/) [meaning](/post/meaning/). [If](/post/if/) [you](/post/you/) [want](/post/want/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) exhibiting sportsmanship [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [you](/post/you/) [might](/post/might/) [use](/post/use/) "[display](/post/display/) sportsmanship" [or](/post/or/) "[be](/post/be/) [a](/post/a/) [sportsman](/post/sportsman/)."

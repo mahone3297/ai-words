@@ -11,19 +11,19 @@ keywords = ['ai words', 'static']
 /stæˈtɪk/
 
 ## 释义
-- **形容词**: 静止的；固定的；不变的。例如: "[The](/post/the/) [static](/post/static/) [image](/post/image/) [on](/post/on/) [the](/post/the/) [screen](/post/screen/) didn't [move](/post/move/)."
-- **名词**: 静电；噪声；杂音。例如: "[There](/post/there/) was [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [static](/post/static/) [on](/post/on/) [the](/post/the/) [radio](/post/radio/)."
-- **动词**: 产生静电。例如: "[The](/post/the/) [dry](/post/dry/) [weather](/post/weather/) caused [the](/post/the/) [fabric](/post/fabric/) [to](/post/to/) [static](/post/static/)."
+- **形容词**: 静止的；固定的；不变的。例如: "[The](/zh/post/the/) [static](/zh/post/static/) [image](/zh/post/image/) [on](/zh/post/on/) [the](/zh/post/the/) [screen](/zh/post/screen/) didn't [move](/zh/post/move/)."
+- **名词**: 静电；噪声；杂音。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) [static](/zh/post/static/) [on](/zh/post/on/) [the](/zh/post/the/) [radio](/zh/post/radio/)."
+- **动词**: 产生静电。例如: "[The](/zh/post/the/) [dry](/zh/post/dry/) [weather](/zh/post/weather/) caused [the](/zh/post/the/) [fabric](/zh/post/fabric/) [to](/zh/post/to/) [static](/zh/post/static/)."
 
 ## 短语
-- "[Static](/post/static/) [electricity](/post/electricity/)" 指的是静电现象。
-- "[Static](/post/static/) cling" 指衣物因静电而相互吸附的现象。
-- "[Static](/post/static/) [noise](/post/noise/)" 通常指的是音频或视频信号中的干扰噪音。
+- "[Static](/zh/post/static/) [electricity](/zh/post/electricity/)" 指的是静电现象。
+- "[Static](/zh/post/static/) cling" 指衣物因静电而相互吸附的现象。
+- "[Static](/zh/post/static/) [noise](/zh/post/noise/)" 通常指的是音频或视频信号中的干扰噪音。
 
 ## 例句
-- 形容词: "[The](/post/the/) sculpture [in](/post/in/) [the](/post/the/) [park](/post/park/) is [static](/post/static/), [never](/post/never/) changing [its](/post/its/) [position](/post/position/)."
-- 名词: "[The](/post/the/) [phone](/post/phone/) [line](/post/line/) had [static](/post/static/), making [it](/post/it/) [hard](/post/hard/) [to](/post/to/) [hear](/post/hear/) [the](/post/the/) caller."
-- 动词: "[When](/post/when/) [you](/post/you/) [take](/post/take/) [off](/post/off/) [your](/post/your/) [sweater](/post/sweater/), [it](/post/it/) [often](/post/often/) statics [and](/post/and/) attracts bits [of](/post/of/) lint."
+- 形容词: "[The](/zh/post/the/) sculpture [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/) is [static](/zh/post/static/), [never](/zh/post/never/) changing [its](/zh/post/its/) [position](/zh/post/position/)."
+- 名词: "[The](/zh/post/the/) [phone](/zh/post/phone/) [line](/zh/post/line/) had [static](/zh/post/static/), making [it](/zh/post/it/) [hard](/zh/post/hard/) [to](/zh/post/to/) [hear](/zh/post/hear/) [the](/zh/post/the/) caller."
+- 动词: "[When](/zh/post/when/) [you](/zh/post/you/) [take](/zh/post/take/) [off](/zh/post/off/) [your](/zh/post/your/) [sweater](/zh/post/sweater/), [it](/zh/post/it/) [often](/zh/post/often/) statics [and](/zh/post/and/) attracts bits [of](/zh/post/of/) lint."
 
 ## 同义词
 - Stationary

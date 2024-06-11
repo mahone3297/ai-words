@@ -7,29 +7,29 @@ description = '[sneik] n.蛇'
 keywords = ['ai words', 'snake']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /snəɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [snake](/en/post/snake/) is [a](/en/post/a/) [long](/en/post/long/), limbless, serpentine reptile, typically having [a](/en/post/a/) [smooth](/en/post/smooth/), scale-covered [body](/en/post/body/) [and](/en/post/and/) [no](/en/post/no/) [obvious](/en/post/obvious/) [trunk](/en/post/trunk/). Snakes are [often](/en/post/often/) associated [with](/en/post/with/) [being](/en/post/being/) cold-blooded, carnivorous, [and](/en/post/and/) [capable](/en/post/capable/) [of](/en/post/of/) constricting [their](/en/post/their/) prey.
+### [Noun](/post/noun/)
+[A](/post/a/) [snake](/post/snake/) is [a](/post/a/) [long](/post/long/), limbless, serpentine reptile, typically having [a](/post/a/) [smooth](/post/smooth/), scale-covered [body](/post/body/) [and](/post/and/) [no](/post/no/) [obvious](/post/obvious/) [trunk](/post/trunk/). Snakes are [often](/post/often/) associated [with](/post/with/) [being](/post/being/) cold-blooded, carnivorous, [and](/post/and/) [capable](/post/capable/) [of](/post/of/) constricting [their](/post/their/) prey.
 
-### [Verb](/en/post/verb/) (transitive)
-[To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) slither [like](/en/post/like/) [a](/en/post/a/) [snake](/en/post/snake/), [especially](/en/post/especially/) [in](/en/post/in/) an [awkward](/en/post/awkward/) [or](/en/post/or/) uncontrolled [manner](/en/post/manner/). [Can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) imitating snake-like [movement](/en/post/movement/) [or](/en/post/or/) [behavior](/en/post/behavior/).
+### [Verb](/post/verb/) (transitive)
+[To](/post/to/) [move](/post/move/) [or](/post/or/) slither [like](/post/like/) [a](/post/a/) [snake](/post/snake/), [especially](/post/especially/) [in](/post/in/) an [awkward](/post/awkward/) [or](/post/or/) uncontrolled [manner](/post/manner/). [Can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) imitating snake-like [movement](/post/movement/) [or](/post/or/) [behavior](/post/behavior/).
 
-### [Adjective](/en/post/adjective/)
-1. Reptilian: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) resembling [a](/en/post/a/) [snake](/en/post/snake/), [in](/en/post/in/) [appearance](/en/post/appearance/) [or](/en/post/or/) [nature](/en/post/nature/).
-2. Sinuous: Having [a](/en/post/a/) winding, curved, [or](/en/post/or/) meandering [course](/en/post/course/), [like](/en/post/like/) [a](/en/post/a/) snake's [path](/en/post/path/).
+### [Adjective](/post/adjective/)
+1. Reptilian: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) resembling [a](/post/a/) [snake](/post/snake/), [in](/post/in/) [appearance](/post/appearance/) [or](/post/or/) [nature](/post/nature/).
+2. Sinuous: Having [a](/post/a/) winding, curved, [or](/post/or/) meandering [course](/post/course/), [like](/post/like/) [a](/post/a/) snake's [path](/post/path/).
 
 ## Phrases
-- "[Snake](/en/post/snake/) charmer" refers [to](/en/post/to/) [someone](/en/post/someone/) [skilled](/en/post/skilled/) [in](/en/post/in/) controlling snakes [through](/en/post/through/) [music](/en/post/music/) [or](/en/post/or/) charm.
-- "Snakebite" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) bitten [by](/en/post/by/) [a](/en/post/a/) [snake](/en/post/snake/).
-- "Slithering [along](/en/post/along/)" describes [the](/en/post/the/) [slow](/en/post/slow/), snake-like [movement](/en/post/movement/).
+- "[Snake](/post/snake/) charmer" refers [to](/post/to/) [someone](/post/someone/) [skilled](/post/skilled/) [in](/post/in/) controlling snakes [through](/post/through/) [music](/post/music/) [or](/post/or/) charm.
+- "Snakebite" is [the](/post/the/) [act](/post/act/) [of](/post/of/) [being](/post/being/) bitten [by](/post/by/) [a](/post/a/) [snake](/post/snake/).
+- "Slithering [along](/post/along/)" describes [the](/post/the/) [slow](/post/slow/), snake-like [movement](/post/movement/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) python slithered silently [through](/en/post/through/) [the](/en/post/the/) [dense](/en/post/dense/) [jungle](/en/post/jungle/).
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) tried [to](/en/post/to/) [imitate](/en/post/imitate/) [the](/en/post/the/) snake's [motion](/en/post/motion/) [for](/en/post/for/) [the](/en/post/the/) children's entertainment.
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [garden](/en/post/garden/) hose was coiled [in](/en/post/in/) [a](/en/post/a/) sinuous [pattern](/en/post/pattern/) [around](/en/post/around/) [the](/en/post/the/) [fence](/en/post/fence/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) python slithered silently [through](/post/through/) [the](/post/the/) [dense](/post/dense/) [jungle](/post/jungle/).
+- **[Verb](/post/verb/)**: [He](/post/he/) tried [to](/post/to/) [imitate](/post/imitate/) [the](/post/the/) snake's [motion](/post/motion/) [for](/post/for/) [the](/post/the/) children's entertainment.
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [garden](/post/garden/) hose was coiled [in](/post/in/) [a](/post/a/) sinuous [pattern](/post/pattern/) [around](/post/around/) [the](/post/the/) [fence](/post/fence/).
 
 ## Synonyms
 - Serpent
@@ -41,7 +41,7 @@ keywords = ['ai words', 'snake']
 - Creeping
 
 ## Antonyms
-- [Straight](/en/post/straight/)
+- [Straight](/post/straight/)
 - Linear
 - Limp
-- [Erect](/en/post/erect/) ([in](/en/post/in/) [the](/en/post/the/) [case](/en/post/case/) [of](/en/post/of/) snakes [being](/en/post/being/) raised [up](/en/post/up/))
+- [Erect](/post/erect/) ([in](/post/in/) [the](/post/the/) [case](/post/case/) [of](/post/of/) snakes [being](/post/being/) raised [up](/post/up/))

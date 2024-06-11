@@ -11,20 +11,20 @@ keywords = ['ai words', 'weekend']
 /ˈwiːk.ɛnd/
 
 ## 释义
-- **名词**: 一周中的最后两天，通常是星期六和星期日，人们在这两天休息或娱乐。例如: "I [have](/post/have/) [no](/post/no/) plans [for](/post/for/) [the](/post/the/) [weekend](/post/weekend/)."
-- **动词**: 休假，度过周末。例如: "[They](/post/they/) decided [to](/post/to/) [weekend](/post/weekend/) [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/)."
+- **名词**: 一周中的最后两天，通常是星期六和星期日，人们在这两天休息或娱乐。例如: "I [have](/zh/post/have/) [no](/zh/post/no/) plans [for](/zh/post/for/) [the](/zh/post/the/) [weekend](/zh/post/weekend/)."
+- **动词**: 休假，度过周末。例如: "[They](/zh/post/they/) decided [to](/zh/post/to/) [weekend](/zh/post/weekend/) [in](/zh/post/in/) [the](/zh/post/the/) [countryside](/zh/post/countryside/)."
 
 ## 短语
-- "[Have](/post/have/) [a](/post/a/) [great](/post/great/) [weekend](/post/weekend/)" 用来祝福别人周末愉快。
-- "[Long](/post/long/) [weekend](/post/weekend/)" 指包含公共假期在内的超过两天的周末。
-- "[Weekend](/post/weekend/) getaway" 一次短暂的周末旅行或度假。
+- "[Have](/zh/post/have/) [a](/zh/post/a/) [great](/zh/post/great/) [weekend](/zh/post/weekend/)" 用来祝福别人周末愉快。
+- "[Long](/zh/post/long/) [weekend](/zh/post/weekend/)" 指包含公共假期在内的超过两天的周末。
+- "[Weekend](/zh/post/weekend/) getaway" 一次短暂的周末旅行或度假。
 
 ## 例句
-- 名词: "I'm looking [forward](/post/forward/) [to](/post/to/) relaxing [on](/post/on/) [the](/post/the/) [weekend](/post/weekend/)."
-- 动词: "They're weekending [at](/post/at/) [their](/post/their/) [beach](/post/beach/) [house](/post/house/)."
+- 名词: "I'm looking [forward](/zh/post/forward/) [to](/zh/post/to/) relaxing [on](/zh/post/on/) [the](/zh/post/the/) [weekend](/zh/post/weekend/)."
+- 动词: "They're weekending [at](/zh/post/at/) [their](/zh/post/their/) [beach](/zh/post/beach/) [house](/zh/post/house/)."
   
 ## 同义词
-- [Weekend](/post/weekend/) [can](/post/can/) [mainly](/post/mainly/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [and](/post/and/) doesn't [have](/post/have/) [direct](/post/direct/) synonyms [as](/post/as/) [a](/post/a/) [verb](/post/verb/). [However](/post/however/), [similar](/post/similar/) expressions [for](/post/for/) spending [time](/post/time/) [off](/post/off/) [include](/post/include/):
-- - "[take](/post/take/) [a](/post/a/) [break](/post/break/)"
-- - "[relax](/post/relax/)"
-- - "[enjoy](/post/enjoy/) one's days [off](/post/off/)"
+- [Weekend](/zh/post/weekend/) [can](/zh/post/can/) [mainly](/zh/post/mainly/) [be](/zh/post/be/) [used](/zh/post/used/) [as](/zh/post/as/) [a](/zh/post/a/) [noun](/zh/post/noun/) [and](/zh/post/and/) doesn't [have](/zh/post/have/) [direct](/zh/post/direct/) synonyms [as](/zh/post/as/) [a](/zh/post/a/) [verb](/zh/post/verb/). [However](/zh/post/however/), [similar](/zh/post/similar/) expressions [for](/zh/post/for/) spending [time](/zh/post/time/) [off](/zh/post/off/) [include](/zh/post/include/):
+- - "[take](/zh/post/take/) [a](/zh/post/a/) [break](/zh/post/break/)"
+- - "[relax](/zh/post/relax/)"
+- - "[enjoy](/zh/post/enjoy/) one's days [off](/zh/post/off/)"

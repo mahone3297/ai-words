@@ -7,29 +7,29 @@ description = '[mʌŋki] n.猴子，猿'
 keywords = ['ai words', 'monkey']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmʌŋki/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/) [to](/en/post/to/) medium-sized primate [with](/en/post/with/) [a](/en/post/a/) [long](/en/post/long/) [tail](/en/post/tail/), typically having [a](/en/post/a/) hairy, agile [body](/en/post/body/) [and](/en/post/and/) limbs, [and](/en/post/and/) [often](/en/post/often/) characterized [by](/en/post/by/) [a](/en/post/a/) pointed [face](/en/post/face/) [and](/en/post/and/) [large](/en/post/large/) eyes. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [zoo](/en/post/zoo/) had [several](/en/post/several/) species [of](/en/post/of/) monkeys swinging [from](/en/post/from/) [tree](/en/post/tree/) [to](/en/post/to/) [tree](/en/post/tree/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/) [to](/post/to/) medium-sized primate [with](/post/with/) [a](/post/a/) [long](/post/long/) [tail](/post/tail/), typically having [a](/post/a/) hairy, agile [body](/post/body/) [and](/post/and/) limbs, [and](/post/and/) [often](/post/often/) characterized [by](/post/by/) [a](/post/a/) pointed [face](/post/face/) [and](/post/and/) [large](/post/large/) eyes. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [zoo](/post/zoo/) had [several](/post/several/) species [of](/post/of/) monkeys swinging [from](/post/from/) [tree](/post/tree/) [to](/post/to/) [tree](/post/tree/)."
 
-  - [As](/en/post/as/) [a](/en/post/a/) colloquialism: [A](/en/post/a/) mischievous [or](/en/post/or/) playful [person](/en/post/person/). [Example](/en/post/example/): "He's [such](/en/post/such/) [a](/en/post/a/) [little](/en/post/little/) [monkey](/en/post/monkey/), [always](/en/post/always/) getting [into](/en/post/into/) things [he](/en/post/he/) shouldn't."
+  - [As](/post/as/) [a](/post/a/) colloquialism: [A](/post/a/) mischievous [or](/post/or/) playful [person](/post/person/). [Example](/post/example/): "He's [such](/post/such/) [a](/post/a/) [little](/post/little/) [monkey](/post/monkey/), [always](/post/always/) getting [into](/post/into/) things [he](/post/he/) shouldn't."
 
-- **[Verb](/en/post/verb/) (informal)**: [To](/en/post/to/) mimic [or](/en/post/or/) [imitate](/en/post/imitate/) [someone](/en/post/someone/), [usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) mocking [or](/en/post/or/) playful [manner](/en/post/manner/). [Example](/en/post/example/): "[The](/en/post/the/) kids were monkeying [around](/en/post/around/), copying [each](/en/post/each/) other's [dance](/en/post/dance/) moves."
+- **[Verb](/post/verb/) (informal)**: [To](/post/to/) mimic [or](/post/or/) [imitate](/post/imitate/) [someone](/post/someone/), [usually](/post/usually/) [in](/post/in/) [a](/post/a/) mocking [or](/post/or/) playful [manner](/post/manner/). [Example](/post/example/): "[The](/post/the/) kids were monkeying [around](/post/around/), copying [each](/post/each/) other's [dance](/post/dance/) moves."
 
 ## Phrases
-- "[Monkey](/en/post/monkey/) [business](/en/post/business/)": Mischievous [or](/en/post/or/) deceitful [activity](/en/post/activity/), [especially](/en/post/especially/) [when](/en/post/when/) undertaken playfully [or](/en/post/or/) unseriously. [Example](/en/post/example/): "[There](/en/post/there/) was [some](/en/post/some/) [monkey](/en/post/monkey/) [business](/en/post/business/) going [on](/en/post/on/) [behind](/en/post/behind/) [the](/en/post/the/) scenes."
-- "[Monkey](/en/post/monkey/) [around](/en/post/around/)": [To](/en/post/to/) [behave](/en/post/behave/) [in](/en/post/in/) [a](/en/post/a/) mischievous, playful, [or](/en/post/or/) unproductive [manner](/en/post/manner/). [Example](/en/post/example/): "[The](/en/post/the/) children were warned [not](/en/post/not/) [to](/en/post/to/) [monkey](/en/post/monkey/) [around](/en/post/around/) [near](/en/post/near/) [the](/en/post/the/) [pond](/en/post/pond/)."
-- "[Monkey](/en/post/monkey/) [see](/en/post/see/), [monkey](/en/post/monkey/) [do](/en/post/do/)": [This](/en/post/this/) [phrase](/en/post/phrase/) suggests [that](/en/post/that/) [people](/en/post/people/) [tend](/en/post/tend/) [to](/en/post/to/) [imitate](/en/post/imitate/) others [without](/en/post/without/) thinking, [just](/en/post/just/) [like](/en/post/like/) monkeys. [Example](/en/post/example/): "[Young](/en/post/young/) children [often](/en/post/often/) [learn](/en/post/learn/) behaviors [through](/en/post/through/) [monkey](/en/post/monkey/) [see](/en/post/see/), [monkey](/en/post/monkey/) [do](/en/post/do/)."
+- "[Monkey](/post/monkey/) [business](/post/business/)": Mischievous [or](/post/or/) deceitful [activity](/post/activity/), [especially](/post/especially/) [when](/post/when/) undertaken playfully [or](/post/or/) unseriously. [Example](/post/example/): "[There](/post/there/) was [some](/post/some/) [monkey](/post/monkey/) [business](/post/business/) going [on](/post/on/) [behind](/post/behind/) [the](/post/the/) scenes."
+- "[Monkey](/post/monkey/) [around](/post/around/)": [To](/post/to/) [behave](/post/behave/) [in](/post/in/) [a](/post/a/) mischievous, playful, [or](/post/or/) unproductive [manner](/post/manner/). [Example](/post/example/): "[The](/post/the/) children were warned [not](/post/not/) [to](/post/to/) [monkey](/post/monkey/) [around](/post/around/) [near](/post/near/) [the](/post/the/) [pond](/post/pond/)."
+- "[Monkey](/post/monkey/) [see](/post/see/), [monkey](/post/monkey/) [do](/post/do/)": [This](/post/this/) [phrase](/post/phrase/) suggests [that](/post/that/) [people](/post/people/) [tend](/post/tend/) [to](/post/to/) [imitate](/post/imitate/) others [without](/post/without/) thinking, [just](/post/just/) [like](/post/like/) monkeys. [Example](/post/example/): "[Young](/post/young/) children [often](/post/often/) [learn](/post/learn/) behaviors [through](/post/through/) [monkey](/post/monkey/) [see](/post/see/), [monkey](/post/monkey/) [do](/post/do/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) capuchin [monkey](/en/post/monkey/) displayed [its](/en/post/its/) [intelligence](/en/post/intelligence/) [by](/en/post/by/) using tools [to](/en/post/to/) extract [food](/en/post/food/) [from](/en/post/from/) [a](/en/post/a/) crevice."
-- **[Verb](/en/post/verb/)**: "[When](/en/post/when/) [they](/en/post/they/) were [left](/en/post/left/) unsupervised, [the](/en/post/the/) kids couldn't [resist](/en/post/resist/) monkeying [around](/en/post/around/) [with](/en/post/with/) [the](/en/post/the/) [new](/en/post/new/) toys."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) capuchin [monkey](/post/monkey/) displayed [its](/post/its/) [intelligence](/post/intelligence/) [by](/post/by/) using tools [to](/post/to/) extract [food](/post/food/) [from](/post/from/) [a](/post/a/) crevice."
+- **[Verb](/post/verb/)**: "[When](/post/when/) [they](/post/they/) were [left](/post/left/) unsupervised, [the](/post/the/) kids couldn't [resist](/post/resist/) monkeying [around](/post/around/) [with](/post/with/) [the](/post/the/) [new](/post/new/) toys."
 
 ## Synonyms
 - Primate
 - Gibbon
 - Chimpanzee
-- Baboon (depending [on](/en/post/on/) context)
-- Imp ([as](/en/post/as/) [a](/en/post/a/) colloquialism [for](/en/post/for/) [a](/en/post/a/) mischievous [person](/en/post/person/))
-- Trickster ([also](/en/post/also/) [in](/en/post/in/) [a](/en/post/a/) colloquial [sense](/en/post/sense/))
+- Baboon (depending [on](/post/on/) context)
+- Imp ([as](/post/as/) [a](/post/a/) colloquialism [for](/post/for/) [a](/post/a/) mischievous [person](/post/person/))
+- Trickster ([also](/post/also/) [in](/post/in/) [a](/post/a/) colloquial [sense](/post/sense/))

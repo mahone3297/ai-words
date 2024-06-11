@@ -11,21 +11,21 @@ keywords = ['ai words', 'clap']
 /klæp/
 
 ## 释义
-- **动词**: 用手掌拍打，通常表示欢迎、鼓励或庆祝。例如: "[The](/post/the/) [crowd](/post/crowd/) clapped [after](/post/after/) [the](/post/the/) [performance](/post/performance/)."
-- **名词**: 拍手声，掌声。例如: "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) applause filled [the](/post/the/) theater."
+- **动词**: 用手掌拍打，通常表示欢迎、鼓励或庆祝。例如: "[The](/zh/post/the/) [crowd](/zh/post/crowd/) clapped [after](/zh/post/after/) [the](/zh/post/the/) [performance](/zh/post/performance/)."
+- **名词**: 拍手声，掌声。例如: "[The](/zh/post/the/) [sound](/zh/post/sound/) [of](/zh/post/of/) applause filled [the](/zh/post/the/) theater."
 
 ## 短语
-- "[Clap](/post/clap/) [your](/post/your/) hands" 意为拍手。
-- "[Give](/post/give/) [someone](/post/someone/) [a](/post/a/) [round](/post/round/) [of](/post/of/) applause" 表示给予热烈的掌声。
-- "[Clap](/post/clap/) [back](/post/back/)" 在口语中指迅速回应批评或攻击。
+- "[Clap](/zh/post/clap/) [your](/zh/post/your/) hands" 意为拍手。
+- "[Give](/zh/post/give/) [someone](/zh/post/someone/) [a](/zh/post/a/) [round](/zh/post/round/) [of](/zh/post/of/) applause" 表示给予热烈的掌声。
+- "[Clap](/zh/post/clap/) [back](/zh/post/back/)" 在口语中指迅速回应批评或攻击。
 
 ## 例句
-- 动词: "[The](/post/the/) [audience](/post/audience/) clapped enthusiastically [when](/post/when/) [the](/post/the/) [speaker](/post/speaker/) finished."
-- 名词: "[The](/post/the/) [baby](/post/baby/) laughed [at](/post/at/) [the](/post/the/) [loud](/post/loud/) [clap](/post/clap/) [of](/post/of/) [thunder](/post/thunder/)."
+- 动词: "[The](/zh/post/the/) [audience](/zh/post/audience/) clapped enthusiastically [when](/zh/post/when/) [the](/zh/post/the/) [speaker](/zh/post/speaker/) finished."
+- 名词: "[The](/zh/post/the/) [baby](/zh/post/baby/) laughed [at](/zh/post/at/) [the](/zh/post/the/) [loud](/zh/post/loud/) [clap](/zh/post/clap/) [of](/zh/post/of/) [thunder](/zh/post/thunder/)."
 
 ## 同义词
 - Applaud
-- [Cheer](/post/cheer/)
+- [Cheer](/zh/post/cheer/)
 - Hail
-- [Pat](/post/pat/)
-- [Strike](/post/strike/)
+- [Pat](/zh/post/pat/)
+- [Strike](/zh/post/strike/)

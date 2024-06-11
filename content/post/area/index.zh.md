@@ -12,22 +12,22 @@ keywords = ['ai words', 'area']
 
 ## 释义
 - **名词**:
-   - 地区；区域：例如 "[The](/post/the/) [city](/post/city/) has [several](/post/several/) [distinct](/post/distinct/) cultural areas."
-   - 面积；地域：例如 "[The](/post/the/) [house](/post/house/) has [a](/post/a/) [large](/post/large/) [living](/post/living/) [area](/post/area/)."
-   - 场所；领域：例如 "[The](/post/the/) company's sales [area](/post/area/) is expanding."
+   - 地区；区域：例如 "[The](/zh/post/the/) [city](/zh/post/city/) has [several](/zh/post/several/) [distinct](/zh/post/distinct/) cultural areas."
+   - 面积；地域：例如 "[The](/zh/post/the/) [house](/zh/post/house/) has [a](/zh/post/a/) [large](/zh/post/large/) [living](/zh/post/living/) [area](/zh/post/area/)."
+   - 场所；领域：例如 "[The](/zh/post/the/) company's sales [area](/zh/post/area/) is expanding."
 
 ## 短语
-- "[Area](/post/area/) [of](/post/of/) expertise" 意为专业领域。
-- "[Living](/post/living/) [area](/post/area/)" 指居住区域，如客厅。
-- "Urban [area](/post/area/)" 表示城市地区。
+- "[Area](/zh/post/area/) [of](/zh/post/of/) expertise" 意为专业领域。
+- "[Living](/zh/post/living/) [area](/zh/post/area/)" 指居住区域，如客厅。
+- "Urban [area](/zh/post/area/)" 表示城市地区。
 
 ## 例句
-- 名词: "[The](/post/the/) Amazon rainforest is [a](/post/a/) [vast](/post/vast/) [and](/post/and/) biodiverse [area](/post/area/)."
-- 名词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [calculate](/post/calculate/) [the](/post/the/) [area](/post/area/) [of](/post/of/) [this](/post/this/) [triangle](/post/triangle/) [to](/post/to/) [find](/post/find/) [its](/post/its/) [surface](/post/surface/)."
+- 名词: "[The](/zh/post/the/) Amazon rainforest is [a](/zh/post/a/) [vast](/zh/post/vast/) [and](/zh/post/and/) biodiverse [area](/zh/post/area/)."
+- 名词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [calculate](/zh/post/calculate/) [the](/zh/post/the/) [area](/zh/post/area/) [of](/zh/post/of/) [this](/zh/post/this/) [triangle](/zh/post/triangle/) [to](/zh/post/to/) [find](/zh/post/find/) [its](/zh/post/its/) [surface](/zh/post/surface/)."
 
 ## 同义词
-- [Region](/post/region/)
-- [Territory](/post/territory/)
+- [Region](/zh/post/region/)
+- [Territory](/zh/post/territory/)
 - Locale
 - Domain
-- [Zone](/post/zone/)
+- [Zone](/zh/post/zone/)

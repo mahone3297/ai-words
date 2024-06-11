@@ -7,38 +7,38 @@ description = '[əˈpɔn] prep.在…上；在…旁'
 keywords = ['ai words', 'upon']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌəˈpɒn/
 
 ## Definitions
-### [Preposition](/en/post/preposition/)
-- **[Upon](/en/post/upon/)**: [A](/en/post/a/) [preposition](/en/post/preposition/) indicating [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [action](/en/post/action/) [on](/en/post/on/) [or](/en/post/or/) [in](/en/post/in/) [relation](/en/post/relation/) [to](/en/post/to/) [something](/en/post/something/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [show](/en/post/show/) [location](/en/post/location/), [time](/en/post/time/), [or](/en/post/or/) [condition](/en/post/condition/). 
+### [Preposition](/post/preposition/)
+- **[Upon](/post/upon/)**: [A](/post/a/) [preposition](/post/preposition/) indicating [a](/post/a/) [position](/post/position/) [or](/post/or/) [action](/post/action/) [on](/post/on/) [or](/post/or/) [in](/post/in/) [relation](/post/relation/) [to](/post/to/) [something](/post/something/). [It](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [show](/post/show/) [location](/post/location/), [time](/post/time/), [or](/post/or/) [condition](/post/condition/). 
 
-### [Verb](/en/post/verb/)
-- **[Upon](/en/post/upon/) ([with](/en/post/with/) '[to](/en/post/to/)')**: Expresses an [action](/en/post/action/) [that](/en/post/that/) takes [place](/en/post/place/) [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [or](/en/post/or/) [upon](/en/post/upon/) completion [of](/en/post/of/) [another](/en/post/another/) [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "I [will](/en/post/will/) [act](/en/post/act/) [upon](/en/post/upon/) [your](/en/post/your/) [advice](/en/post/advice/)."
+### [Verb](/post/verb/)
+- **[Upon](/post/upon/) ([with](/post/with/) '[to](/post/to/)')**: Expresses an [action](/post/action/) [that](/post/that/) takes [place](/post/place/) [as](/post/as/) [a](/post/a/) [result](/post/result/) [or](/post/or/) [upon](/post/upon/) completion [of](/post/of/) [another](/post/another/) [action](/post/action/). [For](/post/for/) [example](/post/example/): "I [will](/post/will/) [act](/post/act/) [upon](/post/upon/) [your](/post/your/) [advice](/post/advice/)."
 
-### [Adverb](/en/post/adverb/)
-- **[Upon](/en/post/upon/)**: [Occasionally](/en/post/occasionally/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [the](/en/post/the/) immediacy [or](/en/post/or/) directness [of](/en/post/of/) an [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [immediately](/en/post/immediately/) acted [upon](/en/post/upon/) [his](/en/post/his/) [suggestion](/en/post/suggestion/)."
+### [Adverb](/post/adverb/)
+- **[Upon](/post/upon/)**: [Occasionally](/post/occasionally/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/) [to](/post/to/) [emphasize](/post/emphasize/) [the](/post/the/) immediacy [or](/post/or/) directness [of](/post/of/) an [action](/post/action/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [immediately](/post/immediately/) acted [upon](/post/upon/) [his](/post/his/) [suggestion](/post/suggestion/)."
 
 ## Phrases
-- "[Upon](/en/post/upon/) arriving" indicates [when](/en/post/when/) [something](/en/post/something/) happens [after](/en/post/after/) [arrival](/en/post/arrival/).
-- "[Upon](/en/post/upon/) seeing [him](/en/post/him/)" describes an [action](/en/post/action/) triggered [by](/en/post/by/) seeing [someone](/en/post/someone/).
-- "[Upon](/en/post/upon/) [reflection](/en/post/reflection/)" suggests thinking [about](/en/post/about/) [something](/en/post/something/) [before](/en/post/before/) taking [action](/en/post/action/).
-- "[Upon](/en/post/upon/) [request](/en/post/request/)" [means](/en/post/means/) [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [request](/en/post/request/).
+- "[Upon](/post/upon/) arriving" indicates [when](/post/when/) [something](/post/something/) happens [after](/post/after/) [arrival](/post/arrival/).
+- "[Upon](/post/upon/) seeing [him](/post/him/)" describes an [action](/post/action/) triggered [by](/post/by/) seeing [someone](/post/someone/).
+- "[Upon](/post/upon/) [reflection](/post/reflection/)" suggests thinking [about](/post/about/) [something](/post/something/) [before](/post/before/) taking [action](/post/action/).
+- "[Upon](/post/upon/) [request](/post/request/)" [means](/post/means/) [in](/post/in/) [response](/post/response/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [request](/post/request/).
 
-## [Example](/en/post/example/) Sentences
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) [book](/en/post/book/) is [upon](/en/post/upon/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Verb](/en/post/verb/)**: "[Upon](/en/post/upon/) hearing [the](/en/post/the/) [news](/en/post/news/), [she](/en/post/she/) [burst](/en/post/burst/) [into](/en/post/into/) tears."
-- **[Adverb](/en/post/adverb/)**: "[Upon](/en/post/upon/) reaching [the](/en/post/the/) [top](/en/post/top/) [of](/en/post/of/) [the](/en/post/the/) [mountain](/en/post/mountain/), [the](/en/post/the/) [view](/en/post/view/) was breathtaking."
+## [Example](/post/example/) Sentences
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) [book](/post/book/) is [upon](/post/upon/) [the](/post/the/) [table](/post/table/)."
+- **[Verb](/post/verb/)**: "[Upon](/post/upon/) hearing [the](/post/the/) [news](/post/news/), [she](/post/she/) [burst](/post/burst/) [into](/post/into/) tears."
+- **[Adverb](/post/adverb/)**: "[Upon](/post/upon/) reaching [the](/post/the/) [top](/post/top/) [of](/post/of/) [the](/post/the/) [mountain](/post/mountain/), [the](/post/the/) [view](/post/view/) was breathtaking."
 
 ## Synonyms
-- [On](/en/post/on/)
-- [Above](/en/post/above/)
-- [Over](/en/post/over/)
-- [At](/en/post/at/)
-- [In](/en/post/in/)
-- [Upon](/en/post/upon/) ([less](/en/post/less/) [commonly](/en/post/commonly/))
+- [On](/post/on/)
+- [Above](/post/above/)
+- [Over](/post/over/)
+- [At](/post/at/)
+- [In](/post/in/)
+- [Upon](/post/upon/) ([less](/post/less/) [commonly](/post/commonly/))
 
-## [Usage](/en/post/usage/) Notes
-- "[Upon](/en/post/upon/)" [can](/en/post/can/) [be](/en/post/be/) followed [by](/en/post/by/) [a](/en/post/a/) [noun](/en/post/noun/), gerund, [or](/en/post/or/) clause, depending [on](/en/post/on/) [the](/en/post/the/) context.
-- It's [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) idiomatic expressions [like](/en/post/like/) "[upon](/en/post/upon/) entering," "[upon](/en/post/upon/) [reflection](/en/post/reflection/)," [or](/en/post/or/) "[upon](/en/post/upon/) waking [up](/en/post/up/)."
+## [Usage](/post/usage/) Notes
+- "[Upon](/post/upon/)" [can](/post/can/) [be](/post/be/) followed [by](/post/by/) [a](/post/a/) [noun](/post/noun/), gerund, [or](/post/or/) clause, depending [on](/post/on/) [the](/post/the/) context.
+- It's [often](/post/often/) [used](/post/used/) [in](/post/in/) idiomatic expressions [like](/post/like/) "[upon](/post/upon/) entering," "[upon](/post/upon/) [reflection](/post/reflection/)," [or](/post/or/) "[upon](/post/upon/) waking [up](/post/up/)."

@@ -11,20 +11,20 @@ keywords = ['ai words', 'typical']
 /ˈtɪpɪkl/
 
 ## 释义
-- **形容词**: 典型的，平常的，具有代表性的。例如: "[The](/post/the/) [typical](/post/typical/) [American](/post/american/) [breakfast](/post/breakfast/) includes eggs [and](/post/and/) bacon."
-- **名词**: 典型例子，代表人物。例如: "[She](/post/she/) is [the](/post/the/) [typical](/post/typical/) [high](/post/high/) [school](/post/school/) [student](/post/student/), [always](/post/always/) [busy](/post/busy/) [with](/post/with/) homework."
+- **形容词**: 典型的，平常的，具有代表性的。例如: "[The](/zh/post/the/) [typical](/zh/post/typical/) [American](/zh/post/american/) [breakfast](/zh/post/breakfast/) includes eggs [and](/zh/post/and/) bacon."
+- **名词**: 典型例子，代表人物。例如: "[She](/zh/post/she/) is [the](/zh/post/the/) [typical](/zh/post/typical/) [high](/zh/post/high/) [school](/zh/post/school/) [student](/zh/post/student/), [always](/zh/post/always/) [busy](/zh/post/busy/) [with](/zh/post/with/) homework."
 
 ## 短语
-- "[typical](/post/typical/) [behavior](/post/behavior/)" 指的是常见的行为模式。
-- "[typical](/post/typical/) [example](/post/example/)" 意为典型的例子或样本。
+- "[typical](/zh/post/typical/) [behavior](/zh/post/behavior/)" 指的是常见的行为模式。
+- "[typical](/zh/post/typical/) [example](/zh/post/example/)" 意为典型的例子或样本。
 
 ## 例句
-- 形容词: "[His](/post/his/) [typical](/post/typical/) [day](/post/day/) starts [with](/post/with/) [a](/post/a/) [morning](/post/morning/) [run](/post/run/) [and](/post/and/) ends [with](/post/with/) [reading](/post/reading/) [a](/post/a/) [book](/post/book/)."
-- 名词: "She's [a](/post/a/) [typical](/post/typical/) extrovert, [always](/post/always/) surrounded [by](/post/by/) friends."
+- 形容词: "[His](/zh/post/his/) [typical](/zh/post/typical/) [day](/zh/post/day/) starts [with](/zh/post/with/) [a](/zh/post/a/) [morning](/zh/post/morning/) [run](/zh/post/run/) [and](/zh/post/and/) ends [with](/zh/post/with/) [reading](/zh/post/reading/) [a](/zh/post/a/) [book](/zh/post/book/)."
+- 名词: "She's [a](/zh/post/a/) [typical](/zh/post/typical/) extrovert, [always](/zh/post/always/) surrounded [by](/zh/post/by/) friends."
 
 ## 同义词
-- [Common](/post/common/)
-- [Usual](/post/usual/)
-- [Conventional](/post/conventional/)
-- [Standard](/post/standard/)
-- [Characteristic](/post/characteristic/)
+- [Common](/zh/post/common/)
+- [Usual](/zh/post/usual/)
+- [Conventional](/zh/post/conventional/)
+- [Standard](/zh/post/standard/)
+- [Characteristic](/zh/post/characteristic/)

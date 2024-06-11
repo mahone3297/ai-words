@@ -11,20 +11,20 @@ keywords = ['ai words', 'choose']
 /ʧuːz/
 
 ## 释义
-- **动词**: 选择，挑选。例如: "I [have](/post/have/) [several](/post/several/) options [and](/post/and/) I [need](/post/need/) [to](/post/to/) [choose](/post/choose/) [the](/post/the/) [best](/post/best/) [one](/post/one/)."
-- **名词**: 选择权，选票。例如: "[The](/post/the/) [candidate](/post/candidate/) received [a](/post/a/) [large](/post/large/) [number](/post/number/) [of](/post/of/) votes [as](/post/as/) [a](/post/a/) [choice](/post/choice/) [for](/post/for/) [mayor](/post/mayor/)."
+- **动词**: 选择，挑选。例如: "I [have](/zh/post/have/) [several](/zh/post/several/) options [and](/zh/post/and/) I [need](/zh/post/need/) [to](/zh/post/to/) [choose](/zh/post/choose/) [the](/zh/post/the/) [best](/zh/post/best/) [one](/zh/post/one/)."
+- **名词**: 选择权，选票。例如: "[The](/zh/post/the/) [candidate](/zh/post/candidate/) received [a](/zh/post/a/) [large](/zh/post/large/) [number](/zh/post/number/) [of](/zh/post/of/) votes [as](/zh/post/as/) [a](/zh/post/a/) [choice](/zh/post/choice/) [for](/zh/post/for/) [mayor](/zh/post/mayor/)."
 
 ## 短语
-- "[Choose](/post/choose/) [from](/post/from/)" 从...中选择。例如: "[You](/post/you/) [can](/post/can/) [choose](/post/choose/) [from](/post/from/) [these](/post/these/) [five](/post/five/) colors."
-- "[Make](/post/make/) [a](/post/a/) [choice](/post/choice/)" 做决定。例如: "It's [time](/post/time/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [choice](/post/choice/) [between](/post/between/) [the](/post/the/) [two](/post/two/) options."
+- "[Choose](/zh/post/choose/) [from](/zh/post/from/)" 从...中选择。例如: "[You](/zh/post/you/) [can](/zh/post/can/) [choose](/zh/post/choose/) [from](/zh/post/from/) [these](/zh/post/these/) [five](/zh/post/five/) colors."
+- "[Make](/zh/post/make/) [a](/zh/post/a/) [choice](/zh/post/choice/)" 做决定。例如: "It's [time](/zh/post/time/) [to](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) [choice](/zh/post/choice/) [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) options."
 
 ## 例句
-- 动词: "[He](/post/he/) carefully chose [his](/post/his/) words [when](/post/when/) addressing [the](/post/the/) [audience](/post/audience/)."
-- 名词: "[The](/post/the/) [customer](/post/customer/) had [to](/post/to/) [make](/post/make/) [a](/post/a/) [choice](/post/choice/) [between](/post/between/) [the](/post/the/) steak [and](/post/and/) [the](/post/the/) [fish](/post/fish/)."
+- 动词: "[He](/zh/post/he/) carefully chose [his](/zh/post/his/) words [when](/zh/post/when/) addressing [the](/zh/post/the/) [audience](/zh/post/audience/)."
+- 名词: "[The](/zh/post/the/) [customer](/zh/post/customer/) had [to](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) [choice](/zh/post/choice/) [between](/zh/post/between/) [the](/zh/post/the/) steak [and](/zh/post/and/) [the](/zh/post/the/) [fish](/zh/post/fish/)."
 
 ## 同义词
-- [Select](/post/select/)
-- [Pick](/post/pick/)
-- [Decide](/post/decide/) [on](/post/on/)
-- Opt [for](/post/for/)
-- [Determine](/post/determine/)
+- [Select](/zh/post/select/)
+- [Pick](/zh/post/pick/)
+- [Decide](/zh/post/decide/) [on](/zh/post/on/)
+- Opt [for](/zh/post/for/)
+- [Determine](/zh/post/determine/)

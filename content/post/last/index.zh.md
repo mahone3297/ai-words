@@ -11,21 +11,21 @@ keywords = ['ai words', 'last']
 / læst /
 
 ## 释义
-- **形容词**: 最后的；末尾的；最近的。例如: "[This](/post/this/) is [the](/post/the/) [last](/post/last/) [book](/post/book/) [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/)." (这是书架上的最后一本书)
-- **名词**: 最后的一段时间或事件。例如: "[The](/post/the/) [last](/post/last/) [of](/post/of/) [the](/post/the/) [sun](/post/sun/) was [setting](/post/setting/) [behind](/post/behind/) [the](/post/the/) hills." (太阳的最后一缕余晖正落在山后)
-- **副词**: 最后地；终于。例如: "[After](/post/after/) hours [of](/post/of/) waiting, [he](/post/he/) arrived [at](/post/at/) [last](/post/last/)." (等待了几个小时后，他终于到了)
+- **形容词**: 最后的；末尾的；最近的。例如: "[This](/zh/post/this/) is [the](/zh/post/the/) [last](/zh/post/last/) [book](/zh/post/book/) [on](/zh/post/on/) [the](/zh/post/the/) [shelf](/zh/post/shelf/)." (这是书架上的最后一本书)
+- **名词**: 最后的一段时间或事件。例如: "[The](/zh/post/the/) [last](/zh/post/last/) [of](/zh/post/of/) [the](/zh/post/the/) [sun](/zh/post/sun/) was [setting](/zh/post/setting/) [behind](/zh/post/behind/) [the](/zh/post/the/) hills." (太阳的最后一缕余晖正落在山后)
+- **副词**: 最后地；终于。例如: "[After](/zh/post/after/) hours [of](/zh/post/of/) waiting, [he](/zh/post/he/) arrived [at](/zh/post/at/) [last](/zh/post/last/)." (等待了几个小时后，他终于到了)
 
 ## 短语
-- "[at](/post/at/) [last](/post/last/)" 表示最终，终于。例如: "I finished [my](/post/my/) [project](/post/project/) [at](/post/at/) [last](/post/last/)."
-- "[for](/post/for/) [the](/post/the/) [last](/post/last/) [time](/post/time/)" 意为最后一次。例如: "I'm telling [you](/post/you/) [for](/post/for/) [the](/post/the/) [last](/post/last/) [time](/post/time/), [stop](/post/stop/) doing [that](/post/that/)!"
+- "[at](/zh/post/at/) [last](/zh/post/last/)" 表示最终，终于。例如: "I finished [my](/zh/post/my/) [project](/zh/post/project/) [at](/zh/post/at/) [last](/zh/post/last/)."
+- "[for](/zh/post/for/) [the](/zh/post/the/) [last](/zh/post/last/) [time](/zh/post/time/)" 意为最后一次。例如: "I'm telling [you](/zh/post/you/) [for](/zh/post/for/) [the](/zh/post/the/) [last](/zh/post/last/) [time](/zh/post/time/), [stop](/zh/post/stop/) doing [that](/zh/post/that/)!"
 
 ## 例句
-- 形容词: "[This](/post/this/) is [the](/post/the/) [last](/post/last/) [piece](/post/piece/) [of](/post/of/) [cake](/post/cake/), [would](/post/would/) [you](/post/you/) [like](/post/like/) [it](/post/it/)?"
-- 副词: "[We](/post/we/) [can](/post/can/) [relax](/post/relax/) [now](/post/now/) [that](/post/that/) [our](/post/our/) exams are [finally](/post/finally/) [over](/post/over/); it's [all](/post/all/) done [and](/post/and/) dusted [at](/post/at/) [last](/post/last/)."
+- 形容词: "[This](/zh/post/this/) is [the](/zh/post/the/) [last](/zh/post/last/) [piece](/zh/post/piece/) [of](/zh/post/of/) [cake](/zh/post/cake/), [would](/zh/post/would/) [you](/zh/post/you/) [like](/zh/post/like/) [it](/zh/post/it/)?"
+- 副词: "[We](/zh/post/we/) [can](/zh/post/can/) [relax](/zh/post/relax/) [now](/zh/post/now/) [that](/zh/post/that/) [our](/zh/post/our/) exams are [finally](/zh/post/finally/) [over](/zh/post/over/); it's [all](/zh/post/all/) done [and](/zh/post/and/) dusted [at](/zh/post/at/) [last](/zh/post/last/)."
 
 ## 同义词
-- [final](/post/final/)
-- [ultimate](/post/ultimate/)
-- [previous](/post/previous/)
+- [final](/zh/post/final/)
+- [ultimate](/zh/post/ultimate/)
+- [previous](/zh/post/previous/)
 - concluding
-- [terminal](/post/terminal/)
+- [terminal](/zh/post/terminal/)

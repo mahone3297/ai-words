@@ -7,37 +7,37 @@ description = '[ˈdaiəmənd] n.金钢石，钻石；菱形'
 keywords = ['ai words', 'diamond']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈæmənd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [precious](/en/post/precious/) gemstone characterized [by](/en/post/by/) [its](/en/post/its/) brilliance, hardness, [and](/en/post/and/) transparency, typically colorless [or](/en/post/or/) [with](/en/post/with/) [various](/en/post/various/) colors, occurring [as](/en/post/as/) crystals [of](/en/post/of/) [carbon](/en/post/carbon/).
-- **Synonyms**: gem, [jewel](/en/post/jewel/), [precious](/en/post/precious/) [stone](/en/post/stone/), [rock](/en/post/rock/) [crystal](/en/post/crystal/)
+### [Noun](/post/noun/)
+- [A](/post/a/) [precious](/post/precious/) gemstone characterized [by](/post/by/) [its](/post/its/) brilliance, hardness, [and](/post/and/) transparency, typically colorless [or](/post/or/) [with](/post/with/) [various](/post/various/) colors, occurring [as](/post/as/) crystals [of](/post/of/) [carbon](/post/carbon/).
+- **Synonyms**: gem, [jewel](/post/jewel/), [precious](/post/precious/) [stone](/post/stone/), [rock](/post/rock/) [crystal](/post/crystal/)
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [cut](/en/post/cut/) [or](/en/post/or/) [shape](/en/post/shape/) [a](/en/post/a/) gemstone, [especially](/en/post/especially/) [a](/en/post/a/) [diamond](/en/post/diamond/), [into](/en/post/into/) [a](/en/post/a/) polished [form](/en/post/form/).
-- [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) sparkling [or](/en/post/or/) [brilliant](/en/post/brilliant/) [performance](/en/post/performance/) [or](/en/post/or/) presentation.
-- **Synonyms**:琢磨, [cut](/en/post/cut/), [polish](/en/post/polish/), brilliance
+### [Verb](/post/verb/)
+- [To](/post/to/) [cut](/post/cut/) [or](/post/or/) [shape](/post/shape/) [a](/post/a/) gemstone, [especially](/post/especially/) [a](/post/a/) [diamond](/post/diamond/), [into](/post/into/) [a](/post/a/) polished [form](/post/form/).
+- [To](/post/to/) [give](/post/give/) [a](/post/a/) sparkling [or](/post/or/) [brilliant](/post/brilliant/) [performance](/post/performance/) [or](/post/or/) presentation.
+- **Synonyms**:琢磨, [cut](/post/cut/), [polish](/post/polish/), brilliance
 
-### [Adjective](/en/post/adjective/)
-- [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [diamond](/en/post/diamond/); [brilliant](/en/post/brilliant/), [hard](/en/post/hard/), [or](/en/post/or/) [valuable](/en/post/valuable/).
-- **Synonyms**: [brilliant](/en/post/brilliant/), sparkling, lustrous, priceless
+### [Adjective](/post/adjective/)
+- [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [diamond](/post/diamond/); [brilliant](/post/brilliant/), [hard](/post/hard/), [or](/post/or/) [valuable](/post/valuable/).
+- **Synonyms**: [brilliant](/post/brilliant/), sparkling, lustrous, priceless
 
 ## Phrases
-- "[A](/en/post/a/) flawless [diamond](/en/post/diamond/)" describes [a](/en/post/a/) [perfect](/en/post/perfect/), undamaged gemstone.
-- "[Diamond](/en/post/diamond/) engagement [ring](/en/post/ring/)" symbolizes [a](/en/post/a/) [permanent](/en/post/permanent/) commitment.
-- "[Cut](/en/post/cut/) [like](/en/post/like/) [a](/en/post/a/) [diamond](/en/post/diamond/)" refers [to](/en/post/to/) exceptional [skill](/en/post/skill/) [or](/en/post/or/) [efficiency](/en/post/efficiency/).
+- "[A](/post/a/) flawless [diamond](/post/diamond/)" describes [a](/post/a/) [perfect](/post/perfect/), undamaged gemstone.
+- "[Diamond](/post/diamond/) engagement [ring](/post/ring/)" symbolizes [a](/post/a/) [permanent](/post/permanent/) commitment.
+- "[Cut](/post/cut/) [like](/post/like/) [a](/post/a/) [diamond](/post/diamond/)" refers [to](/post/to/) exceptional [skill](/post/skill/) [or](/post/or/) [efficiency](/post/efficiency/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) jeweler showcased [a](/en/post/a/) stunning [diamond](/en/post/diamond/) [necklace](/en/post/necklace/) [at](/en/post/at/) [the](/en/post/the/) [exhibition](/en/post/exhibition/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [expert](/en/post/expert/) [diamond](/en/post/diamond/) cutter spent months perfecting [the](/en/post/the/) intricate [design](/en/post/design/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [performance](/en/post/performance/) was [so](/en/post/so/) dazzling, [it](/en/post/it/) [could](/en/post/could/) [only](/en/post/only/) [be](/en/post/be/) described [as](/en/post/as/) [a](/en/post/a/) [diamond](/en/post/diamond/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) jeweler showcased [a](/post/a/) stunning [diamond](/post/diamond/) [necklace](/post/necklace/) [at](/post/at/) [the](/post/the/) [exhibition](/post/exhibition/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [expert](/post/expert/) [diamond](/post/diamond/) cutter spent months perfecting [the](/post/the/) intricate [design](/post/design/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [performance](/post/performance/) was [so](/post/so/) dazzling, [it](/post/it/) [could](/post/could/) [only](/post/only/) [be](/post/be/) described [as](/post/as/) [a](/post/a/) [diamond](/post/diamond/)."
 
-## Synonyms ([adjective](/en/post/adjective/))
+## Synonyms ([adjective](/post/adjective/))
 - Sparkling, radiant, luminous, dazzling, radiant
 
-## Antonyms ([noun](/en/post/noun/))
-- Impure, flawed, imperfect, [rough](/en/post/rough/)
+## Antonyms ([noun](/post/noun/))
+- Impure, flawed, imperfect, [rough](/post/rough/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) "[diamond](/en/post/diamond/)" [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) is [less](/en/post/less/) [common](/en/post/common/), [but](/en/post/but/) [occasionally](/en/post/occasionally/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) sparkling [or](/en/post/or/) exceptional [event](/en/post/event/) [or](/en/post/or/) [action](/en/post/action/). [The](/en/post/the/) [verb](/en/post/verb/) "[to](/en/post/to/) [diamond](/en/post/diamond/)" is [primarily](/en/post/primarily/) associated [with](/en/post/with/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) cutting [and](/en/post/and/) shaping [a](/en/post/a/) gemstone.
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) "[diamond](/post/diamond/)" [as](/post/as/) [a](/post/a/) [noun](/post/noun/) is [less](/post/less/) [common](/post/common/), [but](/post/but/) [occasionally](/post/occasionally/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) sparkling [or](/post/or/) exceptional [event](/post/event/) [or](/post/or/) [action](/post/action/). [The](/post/the/) [verb](/post/verb/) "[to](/post/to/) [diamond](/post/diamond/)" is [primarily](/post/primarily/) associated [with](/post/with/) [the](/post/the/) [process](/post/process/) [of](/post/of/) cutting [and](/post/and/) shaping [a](/post/a/) gemstone.

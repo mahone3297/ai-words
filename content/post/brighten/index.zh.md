@@ -11,20 +11,20 @@ keywords = ['ai words', 'brighten']
 /ˈbraɪtn/
 
 ## 释义
-- **动词**: 使变得更亮；照亮。例如: "[The](/post/the/) [sun](/post/sun/) brightened [the](/post/the/) [room](/post/room/)."
-- **形容词**: 明亮的；聪明的。例如: "[She](/post/she/) has [a](/post/a/) [bright](/post/bright/) [future](/post/future/) [ahead](/post/ahead/) [of](/post/of/) [her](/post/her/)."
+- **动词**: 使变得更亮；照亮。例如: "[The](/zh/post/the/) [sun](/zh/post/sun/) brightened [the](/zh/post/the/) [room](/zh/post/room/)."
+- **形容词**: 明亮的；聪明的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [bright](/zh/post/bright/) [future](/zh/post/future/) [ahead](/zh/post/ahead/) [of](/zh/post/of/) [her](/zh/post/her/)."
 
 ## 短语
-- "[brighten](/post/brighten/) [up](/post/up/)" 意味着使变得明亮或快乐。例如: "[A](/post/a/) [smile](/post/smile/) [can](/post/can/) [brighten](/post/brighten/) [up](/post/up/) anyone's [day](/post/day/)."
-- "[to](/post/to/) [brighten](/post/brighten/) one's [mood](/post/mood/)" 是指改善某人的心情。例如: "Listening [to](/post/to/) [music](/post/music/) [can](/post/can/) [often](/post/often/) [brighten](/post/brighten/) [your](/post/your/) [mood](/post/mood/)."
+- "[brighten](/zh/post/brighten/) [up](/zh/post/up/)" 意味着使变得明亮或快乐。例如: "[A](/zh/post/a/) [smile](/zh/post/smile/) [can](/zh/post/can/) [brighten](/zh/post/brighten/) [up](/zh/post/up/) anyone's [day](/zh/post/day/)."
+- "[to](/zh/post/to/) [brighten](/zh/post/brighten/) one's [mood](/zh/post/mood/)" 是指改善某人的心情。例如: "Listening [to](/zh/post/to/) [music](/zh/post/music/) [can](/zh/post/can/) [often](/zh/post/often/) [brighten](/zh/post/brighten/) [your](/zh/post/your/) [mood](/zh/post/mood/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [addition](/post/addition/) [of](/post/of/) colorful paintings [really](/post/really/) brightened [up](/post/up/) [the](/post/the/) [dull](/post/dull/) hallway."
-- 形容词: "[Her](/post/her/) [bright](/post/bright/) eyes sparkled [with](/post/with/) excitement."
+- 动词: "[The](/zh/post/the/) [addition](/zh/post/addition/) [of](/zh/post/of/) colorful paintings [really](/zh/post/really/) brightened [up](/zh/post/up/) [the](/zh/post/the/) [dull](/zh/post/dull/) hallway."
+- 形容词: "[Her](/zh/post/her/) [bright](/zh/post/bright/) eyes sparkled [with](/zh/post/with/) excitement."
 
 ## 同义词
 - Illuminate
-- [Lighten](/post/lighten/)
-- [Bright](/post/bright/)
+- [Lighten](/zh/post/lighten/)
+- [Bright](/zh/post/bright/)
 - Luminous
-- [Cheerful](/post/cheerful/)
+- [Cheerful](/zh/post/cheerful/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'phenomenon']
 /ˈfənəmənən/
 
 ## 释义
-- **名词**: 现象；显像；非凡的事物。例如: "Global warming is [a](/post/a/) worrying environmental [phenomenon](/post/phenomenon/)."
-- **名词**: （科学上的）现象，可观测的事实。例如: "[The](/post/the/) [phenomenon](/post/phenomenon/) [of](/post/of/) [gravity](/post/gravity/) has been studied [for](/post/for/) centuries."
+- **名词**: 现象；显像；非凡的事物。例如: "Global warming is [a](/zh/post/a/) worrying environmental [phenomenon](/zh/post/phenomenon/)."
+- **名词**: （科学上的）现象，可观测的事实。例如: "[The](/zh/post/the/) [phenomenon](/zh/post/phenomenon/) [of](/zh/post/of/) [gravity](/zh/post/gravity/) has been studied [for](/zh/post/for/) centuries."
 
 ## 短语
-- "[Natural](/post/natural/) phenomena" 指自然现象。
-- "[A](/post/a/) [rare](/post/rare/) [phenomenon](/post/phenomenon/)" 指罕见的现象。
+- "[Natural](/zh/post/natural/) phenomena" 指自然现象。
+- "[A](/zh/post/a/) [rare](/zh/post/rare/) [phenomenon](/zh/post/phenomenon/)" 指罕见的现象。
 
 ## 例句
-- 名词: "[The](/post/the/) Aurora Borealis is [a](/post/a/) [beautiful](/post/beautiful/) [natural](/post/natural/) [phenomenon](/post/phenomenon/)."
-- 名词: "Einstein's [theory](/post/theory/) [successfully](/post/successfully/) explained [many](/post/many/) [previously](/post/previously/) unexplained phenomena."
+- 名词: "[The](/zh/post/the/) Aurora Borealis is [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [natural](/zh/post/natural/) [phenomenon](/zh/post/phenomenon/)."
+- 名词: "Einstein's [theory](/zh/post/theory/) [successfully](/zh/post/successfully/) explained [many](/zh/post/many/) [previously](/zh/post/previously/) unexplained phenomena."
 
 ## 同义词
-- [Event](/post/event/)
+- [Event](/zh/post/event/)
 - Manifestation
-- [Occurrence](/post/occurrence/)
-- [Sight](/post/sight/)
-- [Display](/post/display/)
+- [Occurrence](/zh/post/occurrence/)
+- [Sight](/zh/post/sight/)
+- [Display](/zh/post/display/)

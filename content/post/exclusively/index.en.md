@@ -7,33 +7,33 @@ description = '[ikˈskluːsivli] ad.专门地'
 keywords = ['ai words', 'exclusively']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈskluːsɪvli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) includes [only](/en/post/only/) [the](/en/post/the/) [thing](/en/post/thing/) mentioned [and](/en/post/and/) [no](/en/post/no/) others; [solely](/en/post/solely/), entirely. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [club](/en/post/club/) is [open](/en/post/open/) [exclusively](/en/post/exclusively/) [to](/en/post/to/) members."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) includes [only](/post/only/) [the](/post/the/) [thing](/post/thing/) mentioned [and](/post/and/) [no](/post/no/) others; [solely](/post/solely/), entirely. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [club](/post/club/) is [open](/post/open/) [exclusively](/post/exclusively/) [to](/post/to/) members."
   
-  > **[Example](/en/post/example/) [Sentence](/en/post/sentence/)**: [The](/en/post/the/) [new](/en/post/new/) [edition](/en/post/edition/) [of](/en/post/of/) [the](/en/post/the/) [book](/en/post/book/) [will](/en/post/will/) [be](/en/post/be/) sold [exclusively](/en/post/exclusively/) [through](/en/post/through/) [the](/en/post/the/) publisher's website.
+  > **[Example](/post/example/) [Sentence](/post/sentence/)**: [The](/post/the/) [new](/post/new/) [edition](/post/edition/) [of](/post/of/) [the](/post/the/) [book](/post/book/) [will](/post/will/) [be](/post/be/) sold [exclusively](/post/exclusively/) [through](/post/through/) [the](/post/the/) publisher's website.
 
 ## Phrases
-- "[Exclusively](/en/post/exclusively/) [yours](/en/post/yours/)": Refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [only](/en/post/only/) [for](/en/post/for/) [or](/en/post/or/) belongs [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [person](/en/post/person/) [or](/en/post/or/) [group](/en/post/group/).
+- "[Exclusively](/post/exclusively/) [yours](/post/yours/)": Refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is [only](/post/only/) [for](/post/for/) [or](/post/or/) belongs [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [person](/post/person/) [or](/post/or/) [group](/post/group/).
   
-  > [Example](/en/post/example/): "[This](/en/post/this/) VIP [area](/en/post/area/) is [exclusively](/en/post/exclusively/) [yours](/en/post/yours/) [for](/en/post/for/) [the](/en/post/the/) [evening](/en/post/evening/)."
+  > [Example](/post/example/): "[This](/post/this/) VIP [area](/post/area/) is [exclusively](/post/exclusively/) [yours](/post/yours/) [for](/post/for/) [the](/post/the/) [evening](/post/evening/)."
 
-- "[Available](/en/post/available/) [exclusively](/en/post/exclusively/)": Indicates [that](/en/post/that/) [something](/en/post/something/) [can](/en/post/can/) [be](/en/post/be/) obtained [or](/en/post/or/) experienced [only](/en/post/only/) [in](/en/post/in/) [one](/en/post/one/) [particular](/en/post/particular/) [place](/en/post/place/) [or](/en/post/or/) [under](/en/post/under/) [specific](/en/post/specific/) conditions.
+- "[Available](/post/available/) [exclusively](/post/exclusively/)": Indicates [that](/post/that/) [something](/post/something/) [can](/post/can/) [be](/post/be/) obtained [or](/post/or/) experienced [only](/post/only/) [in](/post/in/) [one](/post/one/) [particular](/post/particular/) [place](/post/place/) [or](/post/or/) [under](/post/under/) [specific](/post/specific/) conditions.
   
-  > [Example](/en/post/example/): "[This](/en/post/this/) [limited](/en/post/limited/) [edition](/en/post/edition/) [product](/en/post/product/) is [available](/en/post/available/) [exclusively](/en/post/exclusively/) [at](/en/post/at/) [our](/en/post/our/) flagship [store](/en/post/store/)."
+  > [Example](/post/example/): "[This](/post/this/) [limited](/post/limited/) [edition](/post/edition/) [product](/post/product/) is [available](/post/available/) [exclusively](/post/exclusively/) [at](/post/at/) [our](/post/our/) flagship [store](/post/store/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [pursue](/en/post/pursue/) [her](/en/post/her/) [career](/en/post/career/) [exclusively](/en/post/exclusively/) [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/) [of](/en/post/of/) renewable [energy](/en/post/energy/)."
-- "[They](/en/post/they/) [grow](/en/post/grow/) [these](/en/post/these/) [rare](/en/post/rare/) plants [exclusively](/en/post/exclusively/) [for](/en/post/for/) [scientific](/en/post/scientific/) [research](/en/post/research/) purposes."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) decided [to](/post/to/) [pursue](/post/pursue/) [her](/post/her/) [career](/post/career/) [exclusively](/post/exclusively/) [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) renewable [energy](/post/energy/)."
+- "[They](/post/they/) [grow](/post/grow/) [these](/post/these/) [rare](/post/rare/) plants [exclusively](/post/exclusively/) [for](/post/for/) [scientific](/post/scientific/) [research](/post/research/) purposes."
 
 ## Synonyms
-- [Solely](/en/post/solely/)
-- [Only](/en/post/only/)
+- [Solely](/post/solely/)
+- [Only](/post/only/)
 - Uniquely
-- [Exclusively](/en/post/exclusively/) [for](/en/post/for/)
-- [Wholly](/en/post/wholly/)
+- [Exclusively](/post/exclusively/) [for](/post/for/)
+- [Wholly](/post/wholly/)
 - Entirely
-- [Completely](/en/post/completely/)
+- [Completely](/post/completely/)
 - Specifically

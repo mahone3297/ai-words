@@ -11,19 +11,19 @@ keywords = ['ai words', 'dislike']
 /dɪsˈlaɪk/
 
 ## 释义
-- **动词**: 不喜欢，厌恶。例如: "I [dislike](/post/dislike/) eating broccoli."
-- **名词**: 不喜欢的事物，反感。例如: "[His](/post/his/) [dislike](/post/dislike/) [for](/post/for/) [public](/post/public/) speaking is [well-known](/post/well-known/)."
+- **动词**: 不喜欢，厌恶。例如: "I [dislike](/zh/post/dislike/) eating broccoli."
+- **名词**: 不喜欢的事物，反感。例如: "[His](/zh/post/his/) [dislike](/zh/post/dislike/) [for](/zh/post/for/) [public](/zh/post/public/) speaking is [well-known](/zh/post/well-known/)."
 
 ## 短语
-- "[have](/post/have/) [a](/post/a/) [dislike](/post/dislike/) [for](/post/for/) [something](/post/something/)" 意味着对某事有反感。
-- "[dislike](/post/dislike/) [someone](/post/someone/) intensely" 表示非常不喜欢某人。
+- "[have](/zh/post/have/) [a](/zh/post/a/) [dislike](/zh/post/dislike/) [for](/zh/post/for/) [something](/zh/post/something/)" 意味着对某事有反感。
+- "[dislike](/zh/post/dislike/) [someone](/zh/post/someone/) intensely" 表示非常不喜欢某人。
 
 ## 例句
-- 动词: "[She](/post/she/) dislikes jogging [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
-- 名词: "[Their](/post/their/) [dislike](/post/dislike/) [for](/post/for/) [each](/post/each/) [other](/post/other/) was [obvious](/post/obvious/)."
+- 动词: "[She](/zh/post/she/) dislikes jogging [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+- 名词: "[Their](/zh/post/their/) [dislike](/zh/post/dislike/) [for](/zh/post/for/) [each](/zh/post/each/) [other](/zh/post/other/) was [obvious](/zh/post/obvious/)."
 
 ## 同义词
-- [Hate](/post/hate/)
+- [Hate](/zh/post/hate/)
 - Disapprove
 - Abhor
 - Detest

@@ -7,34 +7,34 @@ description = '[ˈflu(ː)ənt] a.流利的，流畅的'
 keywords = ['ai words', 'fluent']
 +++
 
-## [Word](/en/post/word/): [Fluent](/en/post/fluent/)
+## [Word](/post/word/): [Fluent](/post/fluent/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfluːənt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) Having [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [speak](/en/post/speak/) [or](/en/post/or/) [write](/en/post/write/) [a](/en/post/a/) [particular](/en/post/particular/) [language](/en/post/language/) [easily](/en/post/easily/), accurately, [and](/en/post/and/) [with](/en/post/with/) [a](/en/post/a/) [natural](/en/post/natural/) [flow](/en/post/flow/); having [great](/en/post/great/) [skill](/en/post/skill/) [or](/en/post/or/) proficiency [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [subject](/en/post/subject/) [or](/en/post/or/) [activity](/en/post/activity/). 
+- **[Adjective](/post/adjective/)**: (adj) Having [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [speak](/post/speak/) [or](/post/or/) [write](/post/write/) [a](/post/a/) [particular](/post/particular/) [language](/post/language/) [easily](/post/easily/), accurately, [and](/post/and/) [with](/post/with/) [a](/post/a/) [natural](/post/natural/) [flow](/post/flow/); having [great](/post/great/) [skill](/post/skill/) [or](/post/or/) proficiency [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [subject](/post/subject/) [or](/post/or/) [activity](/post/activity/). 
 
-  - _Language Proficiency_: "[After](/en/post/after/) [living](/en/post/living/) [in](/en/post/in/) Spain [for](/en/post/for/) [five](/en/post/five/) years, [he](/en/post/he/) became [fluent](/en/post/fluent/) [in](/en/post/in/) Spanish."
-  - _Skillfulness_: "She's [fluent](/en/post/fluent/) [in](/en/post/in/) [multiple](/en/post/multiple/) coding languages, making [her](/en/post/her/) [a](/en/post/a/) [valuable](/en/post/valuable/) asset [to](/en/post/to/) [the](/en/post/the/) [team](/en/post/team/)."
+  - _Language Proficiency_: "[After](/post/after/) [living](/post/living/) [in](/post/in/) Spain [for](/post/for/) [five](/post/five/) years, [he](/post/he/) became [fluent](/post/fluent/) [in](/post/in/) Spanish."
+  - _Skillfulness_: "She's [fluent](/post/fluent/) [in](/post/in/) [multiple](/post/multiple/) coding languages, making [her](/post/her/) [a](/post/a/) [valuable](/post/valuable/) asset [to](/post/to/) [the](/post/the/) [team](/post/team/)."
 
 ## Phrases
-- **[Fluent](/en/post/fluent/) [speaker](/en/post/speaker/)**: Refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) speaks [a](/en/post/a/) [language](/en/post/language/) [very](/en/post/very/) [well](/en/post/well/), [almost](/en/post/almost/) [like](/en/post/like/) [a](/en/post/a/) [native](/en/post/native/) [speaker](/en/post/speaker/).
-- **Fluently speaking**: Describes [how](/en/post/how/) [one](/en/post/one/) speaks [a](/en/post/a/) [language](/en/post/language/) [with](/en/post/with/) [ease](/en/post/ease/) [and](/en/post/and/) [without](/en/post/without/) [significant](/en/post/significant/) [difficulty](/en/post/difficulty/) [or](/en/post/or/) hesitation. 
-- **[Fluent](/en/post/fluent/) [in](/en/post/in/) [sign](/en/post/sign/) [language](/en/post/language/)**: [Means](/en/post/means/) [that](/en/post/that/) [someone](/en/post/someone/) has mastery [in](/en/post/in/) communicating using [sign](/en/post/sign/) [language](/en/post/language/).
+- **[Fluent](/post/fluent/) [speaker](/post/speaker/)**: Refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) speaks [a](/post/a/) [language](/post/language/) [very](/post/very/) [well](/post/well/), [almost](/post/almost/) [like](/post/like/) [a](/post/a/) [native](/post/native/) [speaker](/post/speaker/).
+- **Fluently speaking**: Describes [how](/post/how/) [one](/post/one/) speaks [a](/post/a/) [language](/post/language/) [with](/post/with/) [ease](/post/ease/) [and](/post/and/) [without](/post/without/) [significant](/post/significant/) [difficulty](/post/difficulty/) [or](/post/or/) hesitation. 
+- **[Fluent](/post/fluent/) [in](/post/in/) [sign](/post/sign/) [language](/post/language/)**: [Means](/post/means/) [that](/post/that/) [someone](/post/someone/) has mastery [in](/post/in/) communicating using [sign](/post/sign/) [language](/post/language/).
 
-## [Example](/en/post/example/) Sentences
-- _Adjective ([language](/en/post/language/) proficiency)_: "[Her](/en/post/her/) bilingualism allows [her](/en/post/her/) [to](/en/post/to/) [be](/en/post/be/) [fluent](/en/post/fluent/) [in](/en/post/in/) [both](/en/post/both/) French [and](/en/post/and/) English."
-- _Adjective (skillfulness)_: "He's [fluent](/en/post/fluent/) [in](/en/post/in/) [financial](/en/post/financial/) [analysis](/en/post/analysis/) [due](/en/post/due/) [to](/en/post/to/) [his](/en/post/his/) [extensive](/en/post/extensive/) [experience](/en/post/experience/) [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/)."
+## [Example](/post/example/) Sentences
+- _Adjective ([language](/post/language/) proficiency)_: "[Her](/post/her/) bilingualism allows [her](/post/her/) [to](/post/to/) [be](/post/be/) [fluent](/post/fluent/) [in](/post/in/) [both](/post/both/) French [and](/post/and/) English."
+- _Adjective (skillfulness)_: "He's [fluent](/post/fluent/) [in](/post/in/) [financial](/post/financial/) [analysis](/post/analysis/) [due](/post/due/) [to](/post/to/) [his](/post/his/) [extensive](/post/extensive/) [experience](/post/experience/) [in](/post/in/) [the](/post/the/) [field](/post/field/)."
 
 ## Synonyms
 - Proficient
-- [Skilled](/en/post/skilled/)
+- [Skilled](/post/skilled/)
 - Experienced
-- [Expert](/en/post/expert/)
+- [Expert](/post/expert/)
 - Accomplished
 - Adroit
 - Masterful
-- [Smooth](/en/post/smooth/)
+- [Smooth](/post/smooth/)
 - Effortless
 - Articulate

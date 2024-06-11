@@ -7,41 +7,41 @@ description = '[kɑː] n.汽车，小汽车，轿车'
 keywords = ['ai words', 'car']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɑːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Car](/en/post/car/)**: [A](/en/post/a/) [motor](/en/post/motor/) [vehicle](/en/post/vehicle/) [with](/en/post/with/) [four](/en/post/four/) wheels, typically designed [for](/en/post/for/) [the](/en/post/the/) [transport](/en/post/transport/) [of](/en/post/of/) passengers, [used](/en/post/used/) [for](/en/post/for/) [personal](/en/post/personal/) [transportation](/en/post/transportation/) [or](/en/post/or/) [commercial](/en/post/commercial/) purposes. [Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[car](/en/post/car/))
-- **[Automobile](/en/post/automobile/)**: [A](/en/post/a/) [motor](/en/post/motor/) [vehicle](/en/post/vehicle/), [especially](/en/post/especially/) [a](/en/post/a/) [passenger](/en/post/passenger/) [vehicle](/en/post/vehicle/), typically having [four](/en/post/four/) wheels [and](/en/post/and/) an [internal](/en/post/internal/) combustion [engine](/en/post/engine/). [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[car](/en/post/car/))
+### [Noun](/post/noun/)
+- **[Car](/post/car/)**: [A](/post/a/) [motor](/post/motor/) [vehicle](/post/vehicle/) [with](/post/with/) [four](/post/four/) wheels, typically designed [for](/post/for/) [the](/post/the/) [transport](/post/transport/) [of](/post/of/) passengers, [used](/post/used/) [for](/post/for/) [personal](/post/personal/) [transportation](/post/transportation/) [or](/post/or/) [commercial](/post/commercial/) purposes. [Oxford](https://en.oxforddictionaries.com/[definition](/post/definition/)/[car](/post/car/))
+- **[Automobile](/post/automobile/)**: [A](/post/a/) [motor](/post/motor/) [vehicle](/post/vehicle/), [especially](/post/especially/) [a](/post/a/) [passenger](/post/passenger/) [vehicle](/post/vehicle/), typically having [four](/post/four/) wheels [and](/post/and/) an [internal](/post/internal/) combustion [engine](/post/engine/). [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[car](/post/car/))
 
-### [Verb](/en/post/verb/)
-- **[Drive](/en/post/drive/)** ([or](/en/post/or/) [operate](/en/post/operate/)): [To](/en/post/to/) [control](/en/post/control/) [and](/en/post/and/) maneuver [a](/en/post/a/) [car](/en/post/car/) [on](/en/post/on/) [a](/en/post/a/) [road](/en/post/road/) [or](/en/post/or/) [track](/en/post/track/). [Example](/en/post/example/): "I [usually](/en/post/usually/) [drive](/en/post/drive/) [to](/en/post/to/) [work](/en/post/work/) [every](/en/post/every/) [day](/en/post/day/)."
-- **[Park](/en/post/park/)**: [To](/en/post/to/) [leave](/en/post/leave/) [a](/en/post/a/) [car](/en/post/car/) [in](/en/post/in/) [a](/en/post/a/) designated parking [area](/en/post/area/). [Example](/en/post/example/): "[She](/en/post/she/) parked [her](/en/post/her/) [car](/en/post/car/) [in](/en/post/in/) [the](/en/post/the/) [garage](/en/post/garage/)."
-- **[Repair](/en/post/repair/)**: [To](/en/post/to/) [fix](/en/post/fix/) [or](/en/post/or/) [maintain](/en/post/maintain/) [a](/en/post/a/) [car](/en/post/car/) [when](/en/post/when/) [it](/en/post/it/) is damaged [or](/en/post/or/) [not](/en/post/not/) functioning [properly](/en/post/properly/). [Example](/en/post/example/): "[They](/en/post/they/) took [the](/en/post/the/) [car](/en/post/car/) [to](/en/post/to/) [the](/en/post/the/) [mechanic](/en/post/mechanic/) [for](/en/post/for/) repairs."
+### [Verb](/post/verb/)
+- **[Drive](/post/drive/)** ([or](/post/or/) [operate](/post/operate/)): [To](/post/to/) [control](/post/control/) [and](/post/and/) maneuver [a](/post/a/) [car](/post/car/) [on](/post/on/) [a](/post/a/) [road](/post/road/) [or](/post/or/) [track](/post/track/). [Example](/post/example/): "I [usually](/post/usually/) [drive](/post/drive/) [to](/post/to/) [work](/post/work/) [every](/post/every/) [day](/post/day/)."
+- **[Park](/post/park/)**: [To](/post/to/) [leave](/post/leave/) [a](/post/a/) [car](/post/car/) [in](/post/in/) [a](/post/a/) designated parking [area](/post/area/). [Example](/post/example/): "[She](/post/she/) parked [her](/post/her/) [car](/post/car/) [in](/post/in/) [the](/post/the/) [garage](/post/garage/)."
+- **[Repair](/post/repair/)**: [To](/post/to/) [fix](/post/fix/) [or](/post/or/) [maintain](/post/maintain/) [a](/post/a/) [car](/post/car/) [when](/post/when/) [it](/post/it/) is damaged [or](/post/or/) [not](/post/not/) functioning [properly](/post/properly/). [Example](/post/example/): "[They](/post/they/) took [the](/post/the/) [car](/post/car/) [to](/post/to/) [the](/post/the/) [mechanic](/post/mechanic/) [for](/post/for/) repairs."
 
-### [Adjective](/en/post/adjective/)
-- **Luxurious**: Referring [to](/en/post/to/) [a](/en/post/a/) [car](/en/post/car/) [that](/en/post/that/) is [highly](/en/post/highly/) [comfortable](/en/post/comfortable/), stylish, [and](/en/post/and/) [expensive](/en/post/expensive/). [Example](/en/post/example/): "[The](/en/post/the/) luxurious sports [car](/en/post/car/) had [leather](/en/post/leather/) seats [and](/en/post/and/) [advanced](/en/post/advanced/) [technology](/en/post/technology/)."
-- **Fuel-efficient**: Describing [a](/en/post/a/) [car](/en/post/car/) [that](/en/post/that/) uses [less](/en/post/less/) [fuel](/en/post/fuel/), typically implying [low](/en/post/low/) emissions [and](/en/post/and/) [cost](/en/post/cost/) savings. [Example](/en/post/example/): "[The](/en/post/the/) hybrid [car](/en/post/car/) is [very](/en/post/very/) fuel-efficient."
+### [Adjective](/post/adjective/)
+- **Luxurious**: Referring [to](/post/to/) [a](/post/a/) [car](/post/car/) [that](/post/that/) is [highly](/post/highly/) [comfortable](/post/comfortable/), stylish, [and](/post/and/) [expensive](/post/expensive/). [Example](/post/example/): "[The](/post/the/) luxurious sports [car](/post/car/) had [leather](/post/leather/) seats [and](/post/and/) [advanced](/post/advanced/) [technology](/post/technology/)."
+- **Fuel-efficient**: Describing [a](/post/a/) [car](/post/car/) [that](/post/that/) uses [less](/post/less/) [fuel](/post/fuel/), typically implying [low](/post/low/) emissions [and](/post/and/) [cost](/post/cost/) savings. [Example](/post/example/): "[The](/post/the/) hybrid [car](/post/car/) is [very](/post/very/) fuel-efficient."
 
 ## Phrases
-- "[Get](/en/post/get/) [in](/en/post/in/) [the](/en/post/the/) [car](/en/post/car/)" = Let's [go](/en/post/go/) [in](/en/post/in/) [the](/en/post/the/) [vehicle](/en/post/vehicle/).
-- "[Take](/en/post/take/) [the](/en/post/the/) [car](/en/post/car/) [for](/en/post/for/) [a](/en/post/a/) [spin](/en/post/spin/)" = [Drive](/en/post/drive/) [the](/en/post/the/) [car](/en/post/car/) [for](/en/post/for/) [fun](/en/post/fun/) [or](/en/post/or/) [exercise](/en/post/exercise/).
-- "[Buy](/en/post/buy/) [a](/en/post/a/) [new](/en/post/new/) [car](/en/post/car/)" = [Purchase](/en/post/purchase/) [a](/en/post/a/) [recently](/en/post/recently/) manufactured [vehicle](/en/post/vehicle/).
+- "[Get](/post/get/) [in](/post/in/) [the](/post/the/) [car](/post/car/)" = Let's [go](/post/go/) [in](/post/in/) [the](/post/the/) [vehicle](/post/vehicle/).
+- "[Take](/post/take/) [the](/post/the/) [car](/post/car/) [for](/post/for/) [a](/post/a/) [spin](/post/spin/)" = [Drive](/post/drive/) [the](/post/the/) [car](/post/car/) [for](/post/for/) [fun](/post/fun/) [or](/post/or/) [exercise](/post/exercise/).
+- "[Buy](/post/buy/) [a](/post/a/) [new](/post/new/) [car](/post/car/)" = [Purchase](/post/purchase/) [a](/post/a/) [recently](/post/recently/) manufactured [vehicle](/post/vehicle/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) bought [a](/en/post/a/) sleek [new](/en/post/new/) [car](/en/post/car/) [last](/en/post/last/) [weekend](/en/post/weekend/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully drove [the](/en/post/the/) [car](/en/post/car/) [through](/en/post/through/) [the](/en/post/the/) [city](/en/post/city/) streets."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [family](/en/post/family/) decided [to](/en/post/to/) upgrade [to](/en/post/to/) [a](/en/post/a/) [more](/en/post/more/) luxurious [car](/en/post/car/) [model](/en/post/model/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) bought [a](/post/a/) sleek [new](/post/new/) [car](/post/car/) [last](/post/last/) [weekend](/post/weekend/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully drove [the](/post/the/) [car](/post/car/) [through](/post/through/) [the](/post/the/) [city](/post/city/) streets."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [family](/post/family/) decided [to](/post/to/) upgrade [to](/post/to/) [a](/post/a/) [more](/post/more/) luxurious [car](/post/car/) [model](/post/model/)."
 
 ## Synonyms
-- [Vehicle](/en/post/vehicle/)
+- [Vehicle](/post/vehicle/)
 - Motorcar
-- [Auto](/en/post/auto/)
+- [Auto](/post/auto/)
 - Sedan
 - Coupe
 - SUV
-- [Truck](/en/post/truck/)
+- [Truck](/post/truck/)
 - Wagon
 - Hatchback
-- [Electric](/en/post/electric/) [car](/en/post/car/) ([for](/en/post/for/) environmentally [friendly](/en/post/friendly/) options)
+- [Electric](/post/electric/) [car](/post/car/) ([for](/post/for/) environmentally [friendly](/post/friendly/) options)

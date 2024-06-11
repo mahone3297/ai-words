@@ -11,19 +11,19 @@ keywords = ['ai words', 'undergraduate']
 /ˌʌndərˈɡrædʒuət/
 
 ## 释义
-- **名词**: 在大学里尚未取得学士学位的学生。例如: "[He](/post/he/) is an [undergraduate](/post/undergraduate/) studying [physics](/post/physics/) [at](/post/at/) Harvard."
-- **形容词**: 大学本科的；属于大学本科生的。例如: "[She](/post/she/) is [in](/post/in/) [her](/post/her/) [second](/post/second/) [year](/post/year/) [as](/post/as/) an [undergraduate](/post/undergraduate/) [student](/post/student/)."
+- **名词**: 在大学里尚未取得学士学位的学生。例如: "[He](/zh/post/he/) is an [undergraduate](/zh/post/undergraduate/) studying [physics](/zh/post/physics/) [at](/zh/post/at/) Harvard."
+- **形容词**: 大学本科的；属于大学本科生的。例如: "[She](/zh/post/she/) is [in](/zh/post/in/) [her](/zh/post/her/) [second](/zh/post/second/) [year](/zh/post/year/) [as](/zh/post/as/) an [undergraduate](/zh/post/undergraduate/) [student](/zh/post/student/)."
 
 ## 短语
-- "[undergraduate](/post/undergraduate/) [degree](/post/degree/)" 指的是学士学位。
-- "[undergraduate](/post/undergraduate/) [program](/post/program/)" 指大学本科课程或项目。
-- "[undergraduate](/post/undergraduate/) studies" 泛指大学本科的学习。
+- "[undergraduate](/zh/post/undergraduate/) [degree](/zh/post/degree/)" 指的是学士学位。
+- "[undergraduate](/zh/post/undergraduate/) [program](/zh/post/program/)" 指大学本科课程或项目。
+- "[undergraduate](/zh/post/undergraduate/) studies" 泛指大学本科的学习。
 
 ## 例句
-- 名词: "John is an [undergraduate](/post/undergraduate/) majoring [in](/post/in/) [computer](/post/computer/) [science](/post/science/)."
-- 形容词: "[The](/post/the/) [university](/post/university/) offers [many](/post/many/) [undergraduate](/post/undergraduate/) scholarships [for](/post/for/) talented students."
+- 名词: "John is an [undergraduate](/zh/post/undergraduate/) majoring [in](/zh/post/in/) [computer](/zh/post/computer/) [science](/zh/post/science/)."
+- 形容词: "[The](/zh/post/the/) [university](/zh/post/university/) offers [many](/zh/post/many/) [undergraduate](/zh/post/undergraduate/) scholarships [for](/zh/post/for/) talented students."
 
 ## 同义词
-- [college](/post/college/) [student](/post/student/)
-- bachelor's [student](/post/student/)
-- uni [student](/post/student/) (informal)
+- [college](/zh/post/college/) [student](/zh/post/student/)
+- bachelor's [student](/zh/post/student/)
+- uni [student](/zh/post/student/) (informal)

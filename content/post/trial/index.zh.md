@@ -12,24 +12,24 @@ keywords = ['ai words', 'trial']
 
 ## 释义
 - **名词**: 
-   - 试验；尝试：例如 "[They](/post/they/) are conducting [a](/post/a/) [trial](/post/trial/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [cancer](/post/cancer/) [treatment](/post/treatment/)."
-   - 审讯；法庭审理：例如 "[The](/post/the/) high-profile [murder](/post/murder/) [case](/post/case/) went [to](/post/to/) [trial](/post/trial/) [last](/post/last/) [week](/post/week/)."
-   - 试用期：例如 "[The](/post/the/) [company](/post/company/) offers [a](/post/a/) [free](/post/free/) [trial](/post/trial/) [of](/post/of/) [their](/post/their/) software [for](/post/for/) 30 days."
+   - 试验；尝试：例如 "[They](/zh/post/they/) are conducting [a](/zh/post/a/) [trial](/zh/post/trial/) [of](/zh/post/of/) [a](/zh/post/a/) [new](/zh/post/new/) [cancer](/zh/post/cancer/) [treatment](/zh/post/treatment/)."
+   - 审讯；法庭审理：例如 "[The](/zh/post/the/) high-profile [murder](/zh/post/murder/) [case](/zh/post/case/) went [to](/zh/post/to/) [trial](/zh/post/trial/) [last](/zh/post/last/) [week](/zh/post/week/)."
+   - 试用期：例如 "[The](/zh/post/the/) [company](/zh/post/company/) offers [a](/zh/post/a/) [free](/zh/post/free/) [trial](/zh/post/trial/) [of](/zh/post/of/) [their](/zh/post/their/) software [for](/zh/post/for/) 30 days."
 
 - **动词**:
-   - 试验；尝试：例如 "We'll [trial](/post/trial/) [the](/post/the/) [new](/post/new/) [method](/post/method/) [and](/post/and/) [see](/post/see/) [if](/post/if/) [it](/post/it/) works."
+   - 试验；尝试：例如 "We'll [trial](/zh/post/trial/) [the](/zh/post/the/) [new](/zh/post/new/) [method](/zh/post/method/) [and](/zh/post/and/) [see](/zh/post/see/) [if](/zh/post/if/) [it](/zh/post/it/) works."
 
 ## 短语
-- "[on](/post/on/) [trial](/post/trial/)" 表示在受审或试验中：例如 "[The](/post/the/) [suspect](/post/suspect/) is currently [on](/post/on/) [trial](/post/trial/) [for](/post/for/) theft."
-- "[trial](/post/trial/) [and](/post/and/) [error](/post/error/)" 指通过反复试验找到正确方法的过程：例如 "[They](/post/they/) solved [the](/post/the/) [problem](/post/problem/) using [trial](/post/trial/) [and](/post/and/) [error](/post/error/)."
+- "[on](/zh/post/on/) [trial](/zh/post/trial/)" 表示在受审或试验中：例如 "[The](/zh/post/the/) [suspect](/zh/post/suspect/) is currently [on](/zh/post/on/) [trial](/zh/post/trial/) [for](/zh/post/for/) theft."
+- "[trial](/zh/post/trial/) [and](/zh/post/and/) [error](/zh/post/error/)" 指通过反复试验找到正确方法的过程：例如 "[They](/zh/post/they/) solved [the](/zh/post/the/) [problem](/zh/post/problem/) using [trial](/zh/post/trial/) [and](/zh/post/and/) [error](/zh/post/error/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [drug](/post/drug/) has shown [promising](/post/promising/) results [in](/post/in/) [early](/post/early/) trials."
-- 动词: "[They](/post/they/) decided [to](/post/to/) [trial](/post/trial/) [the](/post/the/) [new](/post/new/) sales [strategy](/post/strategy/) [in](/post/in/) [a](/post/a/) [few](/post/few/) selected markets."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [drug](/zh/post/drug/) has shown [promising](/zh/post/promising/) results [in](/zh/post/in/) [early](/zh/post/early/) trials."
+- 动词: "[They](/zh/post/they/) decided [to](/zh/post/to/) [trial](/zh/post/trial/) [the](/zh/post/the/) [new](/zh/post/new/) sales [strategy](/zh/post/strategy/) [in](/zh/post/in/) [a](/zh/post/a/) [few](/zh/post/few/) selected markets."
 
 ## 同义词
-- [Test](/post/test/)
-- [Experiment](/post/experiment/)
-- [Attempt](/post/attempt/)
+- [Test](/zh/post/test/)
+- [Experiment](/zh/post/experiment/)
+- [Attempt](/zh/post/attempt/)
 - Evaluation
 - Assessment

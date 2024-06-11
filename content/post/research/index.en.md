@@ -7,48 +7,48 @@ description = '[riˈsəːt∫] n.&vi.调查，探究'
 keywords = ['ai words', 'research']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈsɜːrtʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [scientific](/en/post/scientific/) [study](/en/post/study/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/) [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [discover](/en/post/discover/) [new](/en/post/new/) [information](/en/post/information/) [or](/en/post/or/) facts**: *[She](/en/post/she/) spent months conducting [research](/en/post/research/) [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/).*
-- **[Investigation](/en/post/investigation/) [or](/en/post/or/) [inquiry](/en/post/inquiry/) [into](/en/post/into/) [something](/en/post/something/)**: *[The](/en/post/the/) [police](/en/post/police/) are conducting an in-depth [research](/en/post/research/) [on](/en/post/on/) [the](/en/post/the/) [crime](/en/post/crime/) [scene](/en/post/scene/).*
-- **[Data](/en/post/data/) collected [for](/en/post/for/) [analysis](/en/post/analysis/)**: *[They](/en/post/they/) analyzed [the](/en/post/the/) [research](/en/post/research/) findings [to](/en/post/to/) [make](/en/post/make/) informed decisions.*
+### [Noun](/post/noun/)
+- **[A](/post/a/) [scientific](/post/scientific/) [study](/post/study/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/) [in](/post/in/) [order](/post/order/) [to](/post/to/) [discover](/post/discover/) [new](/post/new/) [information](/post/information/) [or](/post/or/) facts**: *[She](/post/she/) spent months conducting [research](/post/research/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/).*
+- **[Investigation](/post/investigation/) [or](/post/or/) [inquiry](/post/inquiry/) [into](/post/into/) [something](/post/something/)**: *[The](/post/the/) [police](/post/police/) are conducting an in-depth [research](/post/research/) [on](/post/on/) [the](/post/the/) [crime](/post/crime/) [scene](/post/scene/).*
+- **[Data](/post/data/) collected [for](/post/for/) [analysis](/post/analysis/)**: *[They](/post/they/) analyzed [the](/post/the/) [research](/post/research/) findings [to](/post/to/) [make](/post/make/) informed decisions.*
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [look](/en/post/look/) [for](/en/post/for/) [information](/en/post/information/), facts, [or](/en/post/or/) [knowledge](/en/post/knowledge/) [through](/en/post/through/) [study](/en/post/study/) [or](/en/post/or/) [investigation](/en/post/investigation/)**: *He's researching [potential](/en/post/potential/) [career](/en/post/career/) paths.*
-- **[To](/en/post/to/) [examine](/en/post/examine/) carefully [or](/en/post/or/) scrutinize**: *[We](/en/post/we/) researched [every](/en/post/every/) [option](/en/post/option/) [before](/en/post/before/) making [a](/en/post/a/) [decision](/en/post/decision/).*
+### [Verb](/post/verb/)
+- **[To](/post/to/) [look](/post/look/) [for](/post/for/) [information](/post/information/), facts, [or](/post/or/) [knowledge](/post/knowledge/) [through](/post/through/) [study](/post/study/) [or](/post/or/) [investigation](/post/investigation/)**: *He's researching [potential](/post/potential/) [career](/post/career/) paths.*
+- **[To](/post/to/) [examine](/post/examine/) carefully [or](/post/or/) scrutinize**: *[We](/post/we/) researched [every](/post/every/) [option](/post/option/) [before](/post/before/) making [a](/post/a/) [decision](/post/decision/).*
 
-### [Adjective](/en/post/adjective/)
-- **Related [to](/en/post/to/) [or](/en/post/or/) involving [research](/en/post/research/)**: *[The](/en/post/the/) cutting-edge [technology](/en/post/technology/) is based [on](/en/post/on/) [extensive](/en/post/extensive/) [research](/en/post/research/).*
-- **[Fruitful](/en/post/fruitful/) [or](/en/post/or/) exhaustive [in](/en/post/in/) searching [for](/en/post/for/) [information](/en/post/information/)**: *[Her](/en/post/her/) [research](/en/post/research/) was [thorough](/en/post/thorough/) [and](/en/post/and/) [comprehensive](/en/post/comprehensive/).*
+### [Adjective](/post/adjective/)
+- **Related [to](/post/to/) [or](/post/or/) involving [research](/post/research/)**: *[The](/post/the/) cutting-edge [technology](/post/technology/) is based [on](/post/on/) [extensive](/post/extensive/) [research](/post/research/).*
+- **[Fruitful](/post/fruitful/) [or](/post/or/) exhaustive [in](/post/in/) searching [for](/post/for/) [information](/post/information/)**: *[Her](/post/her/) [research](/post/research/) was [thorough](/post/thorough/) [and](/post/and/) [comprehensive](/post/comprehensive/).*
 
 ## Phrases
-- "[Conduct](/en/post/conduct/) [research](/en/post/research/)" [means](/en/post/means/) [to](/en/post/to/) [carry](/en/post/carry/) [out](/en/post/out/) [a](/en/post/a/) systematic [investigation](/en/post/investigation/).
-- "[Research](/en/post/research/) indicates" suggests [that](/en/post/that/) [the](/en/post/the/) [evidence](/en/post/evidence/) points [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [conclusion](/en/post/conclusion/).
-- "[Primary](/en/post/primary/) [research](/en/post/research/)" refers [to](/en/post/to/) [original](/en/post/original/) [data](/en/post/data/) [collection](/en/post/collection/), [while](/en/post/while/) "[secondary](/en/post/secondary/) [research](/en/post/research/)" uses existing [data](/en/post/data/).
+- "[Conduct](/post/conduct/) [research](/post/research/)" [means](/post/means/) [to](/post/to/) [carry](/post/carry/) [out](/post/out/) [a](/post/a/) systematic [investigation](/post/investigation/).
+- "[Research](/post/research/) indicates" suggests [that](/post/that/) [the](/post/the/) [evidence](/post/evidence/) points [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [conclusion](/post/conclusion/).
+- "[Primary](/post/primary/) [research](/post/research/)" refers [to](/post/to/) [original](/post/original/) [data](/post/data/) [collection](/post/collection/), [while](/post/while/) "[secondary](/post/secondary/) [research](/post/research/)" uses existing [data](/post/data/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[The](/en/post/the/) [team](/en/post/team/) spent weeks analyzing [the](/en/post/the/) [research](/en/post/research/) [data](/en/post/data/) [to](/en/post/to/) [draw](/en/post/draw/) conclusions.*
-- **[Verb](/en/post/verb/)**: *He's currently researching [ancient](/en/post/ancient/) civilizations [for](/en/post/for/) [his](/en/post/his/) [history](/en/post/history/) [project](/en/post/project/).*
-- **[Adjective](/en/post/adjective/)**: *[The](/en/post/the/) groundbreaking [research](/en/post/research/) has led [to](/en/post/to/) [significant](/en/post/significant/) advancements [in](/en/post/in/) [medicine](/en/post/medicine/).*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[The](/post/the/) [team](/post/team/) spent weeks analyzing [the](/post/the/) [research](/post/research/) [data](/post/data/) [to](/post/to/) [draw](/post/draw/) conclusions.*
+- **[Verb](/post/verb/)**: *He's currently researching [ancient](/post/ancient/) civilizations [for](/post/for/) [his](/post/his/) [history](/post/history/) [project](/post/project/).*
+- **[Adjective](/post/adjective/)**: *[The](/post/the/) groundbreaking [research](/post/research/) has led [to](/post/to/) [significant](/post/significant/) advancements [in](/post/in/) [medicine](/post/medicine/).*
 
 ## Synonyms
-- [Investigation](/en/post/investigation/)
-- [Inquiry](/en/post/inquiry/)
-- [Study](/en/post/study/)
-- [Examination](/en/post/examination/)
+- [Investigation](/post/investigation/)
+- [Inquiry](/post/inquiry/)
+- [Study](/post/study/)
+- [Examination](/post/examination/)
 - Scrutiny
-- [Search](/en/post/search/)
-- [Inquiry](/en/post/inquiry/)
-- [Examination](/en/post/examination/)
+- [Search](/post/search/)
+- [Inquiry](/post/inquiry/)
+- [Examination](/post/examination/)
 - Scrutiny
 - Exploration
 - Query
 
 ## Antonyms
 - Disregard
-- [Neglect](/en/post/neglect/)
+- [Neglect](/post/neglect/)
 - Ignorance
-- [Lack](/en/post/lack/) [of](/en/post/of/) [inquiry](/en/post/inquiry/)
+- [Lack](/post/lack/) [of](/post/of/) [inquiry](/post/inquiry/)

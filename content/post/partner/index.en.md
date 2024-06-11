@@ -7,37 +7,37 @@ description = '[ˈpɑːtnə] n.伙伴；搭挡；配偶'
 keywords = ['ai words', 'partner']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /partnər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) **[partner](/en/post/partner/)** is [a](/en/post/a/) [person](/en/post/person/) [with](/en/post/with/) [whom](/en/post/whom/) [one](/en/post/one/) collaborates, co-owns, [or](/en/post/or/) works [closely](/en/post/closely/) [in](/en/post/in/) [a](/en/post/a/) [relationship](/en/post/relationship/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [professional](/en/post/professional/) [or](/en/post/or/) [business](/en/post/business/) context. [For](/en/post/for/) [example](/en/post/example/): "They're running [a](/en/post/a/) [successful](/en/post/successful/) startup [as](/en/post/as/) [business](/en/post/business/) partners."
-- [In](/en/post/in/) [a](/en/post/a/) [romantic](/en/post/romantic/) [relationship](/en/post/relationship/): "[She](/en/post/she/) [found](/en/post/found/) [her](/en/post/her/) soulmate [and](/en/post/and/) became [his](/en/post/his/) [life](/en/post/life/) [partner](/en/post/partner/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) **[partner](/post/partner/)** is [a](/post/a/) [person](/post/person/) [with](/post/with/) [whom](/post/whom/) [one](/post/one/) collaborates, co-owns, [or](/post/or/) works [closely](/post/closely/) [in](/post/in/) [a](/post/a/) [relationship](/post/relationship/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [professional](/post/professional/) [or](/post/or/) [business](/post/business/) context. [For](/post/for/) [example](/post/example/): "They're running [a](/post/a/) [successful](/post/successful/) startup [as](/post/as/) [business](/post/business/) partners."
+- [In](/post/in/) [a](/post/a/) [romantic](/post/romantic/) [relationship](/post/relationship/): "[She](/post/she/) [found](/post/found/) [her](/post/her/) soulmate [and](/post/and/) became [his](/post/his/) [life](/post/life/) [partner](/post/partner/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) **[partner](/en/post/partner/)** [with](/en/post/with/) [someone](/en/post/someone/) [means](/en/post/means/) [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) partnership [or](/en/post/or/) [team](/en/post/team/) [with](/en/post/with/) [them](/en/post/them/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [activity](/en/post/activity/) [or](/en/post/or/) [project](/en/post/project/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) architects decided [to](/en/post/to/) [partner](/en/post/partner/) [on](/en/post/on/) [a](/en/post/a/) [new](/en/post/new/) [design](/en/post/design/) [project](/en/post/project/)."
-- [To](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) **[partner](/en/post/partner/)** [in](/en/post/in/) [a](/en/post/a/) [relationship](/en/post/relationship/): "[They](/en/post/they/) [have](/en/post/have/) been partners [for](/en/post/for/) [five](/en/post/five/) years."
+### [Verb](/post/verb/)
+- [To](/post/to/) **[partner](/post/partner/)** [with](/post/with/) [someone](/post/someone/) [means](/post/means/) [to](/post/to/) [form](/post/form/) [a](/post/a/) partnership [or](/post/or/) [team](/post/team/) [with](/post/with/) [them](/post/them/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [activity](/post/activity/) [or](/post/or/) [project](/post/project/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) architects decided [to](/post/to/) [partner](/post/partner/) [on](/post/on/) [a](/post/a/) [new](/post/new/) [design](/post/design/) [project](/post/project/)."
+- [To](/post/to/) [be](/post/be/) [a](/post/a/) **[partner](/post/partner/)** [in](/post/in/) [a](/post/a/) [relationship](/post/relationship/): "[They](/post/they/) [have](/post/have/) been partners [for](/post/for/) [five](/post/five/) years."
 
-### [Adjective](/en/post/adjective/)
-- **Partnered** describes [a](/en/post/a/) [relationship](/en/post/relationship/) [or](/en/post/or/) [association](/en/post/association/) [between](/en/post/between/) individuals [or](/en/post/or/) organizations. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is partnered [with](/en/post/with/) [several](/en/post/several/) [local](/en/post/local/) schools [for](/en/post/for/) [community](/en/post/community/) outreach."
+### [Adjective](/post/adjective/)
+- **Partnered** describes [a](/post/a/) [relationship](/post/relationship/) [or](/post/or/) [association](/post/association/) [between](/post/between/) individuals [or](/post/or/) organizations. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) is partnered [with](/post/with/) [several](/post/several/) [local](/post/local/) schools [for](/post/for/) [community](/post/community/) outreach."
 
 ## Phrases
-- "[Form](/en/post/form/) [a](/en/post/a/) partnership" [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [formal](/en/post/formal/) [agreement](/en/post/agreement/) [or](/en/post/or/) collaboration.
-- "[Act](/en/post/act/) [as](/en/post/as/) [a](/en/post/a/) [partner](/en/post/partner/)" implies taking [on](/en/post/on/) [a](/en/post/a/) supportive [or](/en/post/or/) cooperative [role](/en/post/role/).
-- "[Partner](/en/post/partner/) [up](/en/post/up/)" is [a](/en/post/a/) colloquial [way](/en/post/way/) [of](/en/post/of/) saying [to](/en/post/to/) [pair](/en/post/pair/) [with](/en/post/with/) [someone](/en/post/someone/) [for](/en/post/for/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [activity](/en/post/activity/).
+- "[Form](/post/form/) [a](/post/a/) partnership" [means](/post/means/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [formal](/post/formal/) [agreement](/post/agreement/) [or](/post/or/) collaboration.
+- "[Act](/post/act/) [as](/post/as/) [a](/post/a/) [partner](/post/partner/)" implies taking [on](/post/on/) [a](/post/a/) supportive [or](/post/or/) cooperative [role](/post/role/).
+- "[Partner](/post/partner/) [up](/post/up/)" is [a](/post/a/) colloquial [way](/post/way/) [of](/post/of/) saying [to](/post/to/) [pair](/post/pair/) [with](/post/with/) [someone](/post/someone/) [for](/post/for/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [activity](/post/activity/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [law](/en/post/law/) [firm](/en/post/firm/) has [several](/en/post/several/) long-standing partnerships [with](/en/post/with/) [international](/en/post/international/) clients."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) students were partnered [in](/en/post/in/) pairs [for](/en/post/for/) [their](/en/post/their/) [group](/en/post/group/) [project](/en/post/project/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [university](/en/post/university/) is partnered [with](/en/post/with/) [leading](/en/post/leading/) tech companies [for](/en/post/for/) [research](/en/post/research/) initiatives."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [law](/post/law/) [firm](/post/firm/) has [several](/post/several/) long-standing partnerships [with](/post/with/) [international](/post/international/) clients."
+- **[Verb](/post/verb/)**: "[The](/post/the/) students were partnered [in](/post/in/) pairs [for](/post/for/) [their](/post/their/) [group](/post/group/) [project](/post/project/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [university](/post/university/) is partnered [with](/post/with/) [leading](/post/leading/) tech companies [for](/post/for/) [research](/post/research/) initiatives."
 
 ## Synonyms
 - Cohort
 - Teammate
 - Collaborator
-- Spouse ([in](/en/post/in/) [a](/en/post/a/) [romantic](/en/post/romantic/) context)
-- [Business](/en/post/business/) [associate](/en/post/associate/)
+- Spouse ([in](/post/in/) [a](/post/a/) [romantic](/post/romantic/) context)
+- [Business](/post/business/) [associate](/post/associate/)
 - Alliance
-- Synergy [partner](/en/post/partner/)
-- [Fellow](/en/post/fellow/) (informal)
+- Synergy [partner](/post/partner/)
+- [Fellow](/post/fellow/) (informal)

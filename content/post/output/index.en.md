@@ -7,30 +7,30 @@ description = '[ˈautput] n.产量；输出量；输出'
 keywords = ['ai words', 'output']
 +++
 
-## [Word](/en/post/word/): [Output](/en/post/output/)
+## [Word](/post/word/): [Output](/post/output/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaʊtˌpʊt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [information](/en/post/information/), [data](/en/post/data/), [or](/en/post/or/) results produced [by](/en/post/by/) [a](/en/post/a/) [process](/en/post/process/), [especially](/en/post/especially/) [from](/en/post/from/) [a](/en/post/a/) [computer](/en/post/computer/) [program](/en/post/program/), [machine](/en/post/machine/), [or](/en/post/or/) [system](/en/post/system/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) program's [output](/en/post/output/) was displayed [on](/en/post/on/) [the](/en/post/the/) [screen](/en/post/screen/)."
-  - _Economic sense_: [The](/en/post/the/) [goods](/en/post/goods/) [or](/en/post/or/) services produced [by](/en/post/by/) [a](/en/post/a/) [company](/en/post/company/) [or](/en/post/or/) [industry](/en/post/industry/) [over](/en/post/over/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) factory's [monthly](/en/post/monthly/) [output](/en/post/output/) increased significantly [this](/en/post/this/) [quarter](/en/post/quarter/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [information](/post/information/), [data](/post/data/), [or](/post/or/) results produced [by](/post/by/) [a](/post/a/) [process](/post/process/), [especially](/post/especially/) [from](/post/from/) [a](/post/a/) [computer](/post/computer/) [program](/post/program/), [machine](/post/machine/), [or](/post/or/) [system](/post/system/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) program's [output](/post/output/) was displayed [on](/post/on/) [the](/post/the/) [screen](/post/screen/)."
+  - _Economic sense_: [The](/post/the/) [goods](/post/goods/) [or](/post/or/) services produced [by](/post/by/) [a](/post/a/) [company](/post/company/) [or](/post/or/) [industry](/post/industry/) [over](/post/over/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) factory's [monthly](/post/monthly/) [output](/post/output/) increased significantly [this](/post/this/) [quarter](/post/quarter/)."
   
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [produce](/en/post/produce/) [or](/en/post/or/) [supply](/en/post/supply/) [something](/en/post/something/) [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/), [operation](/en/post/operation/), [or](/en/post/or/) [function](/en/post/function/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [machine](/en/post/machine/) outputs high-quality images."
+- **[Verb](/post/verb/)**: [To](/post/to/) [produce](/post/produce/) [or](/post/or/) [supply](/post/supply/) [something](/post/something/) [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) [a](/post/a/) [process](/post/process/), [operation](/post/operation/), [or](/post/or/) [function](/post/function/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [machine](/post/machine/) outputs high-quality images."
 
 ## Phrases
-- "[Output](/en/post/output/) [device](/en/post/device/)" refers [to](/en/post/to/) [any](/en/post/any/) peripheral [that](/en/post/that/) conveys [information](/en/post/information/) [from](/en/post/from/) [a](/en/post/a/) [computer](/en/post/computer/) [to](/en/post/to/) [the](/en/post/the/) [user](/en/post/user/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [monitor](/en/post/monitor/) [or](/en/post/or/) printer.
-- "Input-output [model](/en/post/model/)" is an [economic](/en/post/economic/) [theory](/en/post/theory/) [that](/en/post/that/) analyzes [the](/en/post/the/) [relationship](/en/post/relationship/) [between](/en/post/between/) [different](/en/post/different/) sectors [within](/en/post/within/) an [economy](/en/post/economy/) [and](/en/post/and/) [their](/en/post/their/) outputs.
-- "[Increase](/en/post/increase/)/[decrease](/en/post/decrease/) [output](/en/post/output/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) boosting [or](/en/post/or/) reducing [the](/en/post/the/) [production](/en/post/production/) [of](/en/post/of/) [goods](/en/post/goods/), [data](/en/post/data/), [or](/en/post/or/) results.
+- "[Output](/post/output/) [device](/post/device/)" refers [to](/post/to/) [any](/post/any/) peripheral [that](/post/that/) conveys [information](/post/information/) [from](/post/from/) [a](/post/a/) [computer](/post/computer/) [to](/post/to/) [the](/post/the/) [user](/post/user/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [monitor](/post/monitor/) [or](/post/or/) printer.
+- "Input-output [model](/post/model/)" is an [economic](/post/economic/) [theory](/post/theory/) [that](/post/that/) analyzes [the](/post/the/) [relationship](/post/relationship/) [between](/post/between/) [different](/post/different/) sectors [within](/post/within/) an [economy](/post/economy/) [and](/post/and/) [their](/post/their/) outputs.
+- "[Increase](/post/increase/)/[decrease](/post/decrease/) [output](/post/output/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) boosting [or](/post/or/) reducing [the](/post/the/) [production](/post/production/) [of](/post/of/) [goods](/post/goods/), [data](/post/data/), [or](/post/or/) results.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) running [the](/en/post/the/) algorithm, [we](/en/post/we/) analyzed [its](/en/post/its/) [output](/en/post/output/) [to](/en/post/to/) [identify](/en/post/identify/) patterns."
-- **[Verb](/en/post/verb/)**: "[This](/en/post/this/) software [will](/en/post/will/) [output](/en/post/output/) [a](/en/post/a/) [report](/en/post/report/) detailing [your](/en/post/your/) [daily](/en/post/daily/) sales."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) running [the](/post/the/) algorithm, [we](/post/we/) analyzed [its](/post/its/) [output](/post/output/) [to](/post/to/) [identify](/post/identify/) patterns."
+- **[Verb](/post/verb/)**: "[This](/post/this/) software [will](/post/will/) [output](/post/output/) [a](/post/a/) [report](/post/report/) detailing [your](/post/your/) [daily](/post/daily/) sales."
 
 ## Synonyms
-- [Production](/en/post/production/)
-- [Result](/en/post/result/)
-- [Outcome](/en/post/outcome/)
-- [Yield](/en/post/yield/)
-- [Product](/en/post/product/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/))
-- Emittance ([in](/en/post/in/) [technical](/en/post/technical/) contexts)
+- [Production](/post/production/)
+- [Result](/post/result/)
+- [Outcome](/post/outcome/)
+- [Yield](/post/yield/)
+- [Product](/post/product/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [process](/post/process/))
+- Emittance ([in](/post/in/) [technical](/post/technical/) contexts)

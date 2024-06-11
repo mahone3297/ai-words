@@ -11,20 +11,20 @@ keywords = ['ai words', 'mainly']
 /ˈmeɪnli/
 
 ## 释义
-- **副词**: 主要地，主要，大部分情况下。表示某事是最重要的因素或最常见的状态。例如: "[She](/post/she/) works [mainly](/post/mainly/) [on](/post/on/) weekends."
+- **副词**: 主要地，主要，大部分情况下。表示某事是最重要的因素或最常见的状态。例如: "[She](/zh/post/she/) works [mainly](/zh/post/mainly/) [on](/zh/post/on/) weekends."
 
 ## 短语
-- "[mainly](/post/mainly/) [due](/post/due/) [to](/post/to/)" 意为主要是由于...
-- "[mainly](/post/mainly/) concerned [with](/post/with/)" 表示主要关注...
+- "[mainly](/zh/post/mainly/) [due](/zh/post/due/) [to](/zh/post/to/)" 意为主要是由于...
+- "[mainly](/zh/post/mainly/) concerned [with](/zh/post/with/)" 表示主要关注...
 
 ## 例句
-- "[Our](/post/our/) company's profits [mainly](/post/mainly/) [come](/post/come/) [from](/post/from/) online sales."
-- "[The](/post/the/) [population](/post/population/) [in](/post/in/) [this](/post/this/) [area](/post/area/) is [mainly](/post/mainly/) composed [of](/post/of/) [young](/post/young/) adults."
-- "[He](/post/he/) focuses [on](/post/on/) [painting](/post/painting/), [mainly](/post/mainly/) landscapes [and](/post/and/) portraits."
+- "[Our](/zh/post/our/) company's profits [mainly](/zh/post/mainly/) [come](/zh/post/come/) [from](/zh/post/from/) online sales."
+- "[The](/zh/post/the/) [population](/zh/post/population/) [in](/zh/post/in/) [this](/zh/post/this/) [area](/zh/post/area/) is [mainly](/zh/post/mainly/) composed [of](/zh/post/of/) [young](/zh/post/young/) adults."
+- "[He](/zh/post/he/) focuses [on](/zh/post/on/) [painting](/zh/post/painting/), [mainly](/zh/post/mainly/) landscapes [and](/zh/post/and/) portraits."
 
 ## 同义词
-- [primarily](/post/primarily/)
+- [primarily](/zh/post/primarily/)
 - chiefly
 - predominantly
-- [mostly](/post/mostly/)
-- [largely](/post/largely/)
+- [mostly](/zh/post/mostly/)
+- [largely](/zh/post/largely/)

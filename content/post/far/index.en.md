@@ -7,30 +7,30 @@ description = '[fɑː] a.远的 ad.远，遥远'
 keywords = ['ai words', 'far']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɑːr/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [At](/en/post/at/) [or](/en/post/or/) [to](/en/post/to/) [a](/en/post/a/) [great](/en/post/great/) [distance](/en/post/distance/); [a](/en/post/a/) [long](/en/post/long/) [way](/en/post/way/) [away](/en/post/away/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [live](/en/post/live/) [far](/en/post/far/) [from](/en/post/from/) [the](/en/post/the/) [city](/en/post/city/) center."
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [a](/en/post/a/) [great](/en/post/great/) [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/); [very](/en/post/very/) [much](/en/post/much/) [or](/en/post/or/) [greatly](/en/post/greatly/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [music](/en/post/music/) was heard [far](/en/post/far/) [and](/en/post/and/) [wide](/en/post/wide/) [across](/en/post/across/) [the](/en/post/the/) [valley](/en/post/valley/)."
-- **[Noun](/en/post/noun/) (informal)**: [A](/en/post/a/) [considerable](/en/post/considerable/) [distance](/en/post/distance/). [For](/en/post/for/) [example](/en/post/example/): "We've [come](/en/post/come/) [a](/en/post/a/) [far](/en/post/far/) [way](/en/post/way/) [since](/en/post/since/) [our](/en/post/our/) [first](/en/post/first/) [meeting](/en/post/meeting/)."
+- **[Adjective](/post/adjective/)**: [At](/post/at/) [or](/post/or/) [to](/post/to/) [a](/post/a/) [great](/post/great/) [distance](/post/distance/); [a](/post/a/) [long](/post/long/) [way](/post/way/) [away](/post/away/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [live](/post/live/) [far](/post/far/) [from](/post/from/) [the](/post/the/) [city](/post/city/) center."
+- **[Adverb](/post/adverb/)**: [To](/post/to/) [a](/post/a/) [great](/post/great/) [extent](/post/extent/) [or](/post/or/) [degree](/post/degree/); [very](/post/very/) [much](/post/much/) [or](/post/or/) [greatly](/post/greatly/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [music](/post/music/) was heard [far](/post/far/) [and](/post/and/) [wide](/post/wide/) [across](/post/across/) [the](/post/the/) [valley](/post/valley/)."
+- **[Noun](/post/noun/) (informal)**: [A](/post/a/) [considerable](/post/considerable/) [distance](/post/distance/). [For](/post/for/) [example](/post/example/): "We've [come](/post/come/) [a](/post/a/) [far](/post/far/) [way](/post/way/) [since](/post/since/) [our](/post/our/) [first](/post/first/) [meeting](/post/meeting/)."
 
 ### Phrases
-- "[Far](/en/post/far/) [and](/en/post/and/) [wide](/en/post/wide/)" [means](/en/post/means/) [over](/en/post/over/) [a](/en/post/a/) [broad](/en/post/broad/) [area](/en/post/area/) [or](/en/post/or/) extensively.
-- "[As](/en/post/as/) [far](/en/post/far/) [as](/en/post/as/)" is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [limit](/en/post/limit/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [action](/en/post/action/), [situation](/en/post/situation/), [or](/en/post/or/) [period](/en/post/period/). [For](/en/post/for/) [example](/en/post/example/): "[As](/en/post/as/) [far](/en/post/far/) [as](/en/post/as/) I [know](/en/post/know/), he's going [on](/en/post/on/) [vacation](/en/post/vacation/) [next](/en/post/next/) [week](/en/post/week/)."
-- "[Go](/en/post/go/) [far](/en/post/far/)" [means](/en/post/means/) [to](/en/post/to/) [achieve](/en/post/achieve/) [great](/en/post/great/) [success](/en/post/success/) [or](/en/post/or/) [progress](/en/post/progress/). [For](/en/post/for/) [example](/en/post/example/): "[With](/en/post/with/) [her](/en/post/her/) [talent](/en/post/talent/) [and](/en/post/and/) [determination](/en/post/determination/), she'll [go](/en/post/go/) [far](/en/post/far/) [in](/en/post/in/) [life](/en/post/life/)."
+- "[Far](/post/far/) [and](/post/and/) [wide](/post/wide/)" [means](/post/means/) [over](/post/over/) [a](/post/a/) [broad](/post/broad/) [area](/post/area/) [or](/post/or/) extensively.
+- "[As](/post/as/) [far](/post/far/) [as](/post/as/)" is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [limit](/post/limit/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [action](/post/action/), [situation](/post/situation/), [or](/post/or/) [period](/post/period/). [For](/post/for/) [example](/post/example/): "[As](/post/as/) [far](/post/far/) [as](/post/as/) I [know](/post/know/), he's going [on](/post/on/) [vacation](/post/vacation/) [next](/post/next/) [week](/post/week/)."
+- "[Go](/post/go/) [far](/post/far/)" [means](/post/means/) [to](/post/to/) [achieve](/post/achieve/) [great](/post/great/) [success](/post/success/) [or](/post/or/) [progress](/post/progress/). [For](/post/for/) [example](/post/example/): "[With](/post/with/) [her](/post/her/) [talent](/post/talent/) [and](/post/and/) [determination](/post/determination/), she'll [go](/post/go/) [far](/post/far/) [in](/post/in/) [life](/post/life/)."
   
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) mountains are [far](/en/post/far/) [beyond](/en/post/beyond/) [the](/en/post/the/) [horizon](/en/post/horizon/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) [the](/en/post/the/) [ocean](/en/post/ocean/) [can](/en/post/can/) [be](/en/post/be/) heard [far](/en/post/far/) [into](/en/post/into/) [the](/en/post/the/) [night](/en/post/night/)."
-- **[Noun](/en/post/noun/) (informal)**: "It's [a](/en/post/a/) [far](/en/post/far/) [cry](/en/post/cry/) [from](/en/post/from/) [where](/en/post/where/) [we](/en/post/we/) started."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) mountains are [far](/post/far/) [beyond](/post/beyond/) [the](/post/the/) [horizon](/post/horizon/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/) [can](/post/can/) [be](/post/be/) heard [far](/post/far/) [into](/post/into/) [the](/post/the/) [night](/post/night/)."
+- **[Noun](/post/noun/) (informal)**: "It's [a](/post/a/) [far](/post/far/) [cry](/post/cry/) [from](/post/from/) [where](/post/where/) [we](/post/we/) started."
 
 ## Synonyms
-- [Distant](/en/post/distant/)
-- [Remote](/en/post/remote/)
-- [A](/en/post/a/) [long](/en/post/long/) [way](/en/post/way/)
-- [Greatly](/en/post/greatly/)
+- [Distant](/post/distant/)
+- [Remote](/post/remote/)
+- [A](/post/a/) [long](/post/long/) [way](/post/way/)
+- [Greatly](/post/greatly/)
 - Extensively
 - Deeply
-- [Widely](/en/post/widely/)
-- Lengthily ([for](/en/post/for/) [the](/en/post/the/) adverbial [sense](/en/post/sense/))
+- [Widely](/post/widely/)
+- Lengthily ([for](/post/for/) [the](/post/the/) adverbial [sense](/post/sense/))

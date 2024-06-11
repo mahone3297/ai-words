@@ -12,27 +12,27 @@ keywords = ['ai words', 'plan']
 
 ## 释义
 - **名词**:
-  - 设计或安排：详细考虑并制定的策略或行动方案。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [solid](/post/solid/) [plan](/post/plan/) [for](/post/for/) [the](/post/the/) [project](/post/project/)."
-  - 图纸或蓝图：展示建筑、工程或其他设计的图形表示。例如: "[The](/post/the/) architect presented [the](/post/the/) [building](/post/building/) [plan](/post/plan/) [to](/post/to/) [the](/post/the/) client."
-  - 计划或打算：打算要做的事情。例如: "I [have](/post/have/) [a](/post/a/) [plan](/post/plan/) [to](/post/to/) [finish](/post/finish/) [my](/post/my/) [work](/post/work/) [early](/post/early/)."
+  - 设计或安排：详细考虑并制定的策略或行动方案。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [have](/zh/post/have/) [a](/zh/post/a/) [solid](/zh/post/solid/) [plan](/zh/post/plan/) [for](/zh/post/for/) [the](/zh/post/the/) [project](/zh/post/project/)."
+  - 图纸或蓝图：展示建筑、工程或其他设计的图形表示。例如: "[The](/zh/post/the/) architect presented [the](/zh/post/the/) [building](/zh/post/building/) [plan](/zh/post/plan/) [to](/zh/post/to/) [the](/zh/post/the/) client."
+  - 计划或打算：打算要做的事情。例如: "I [have](/zh/post/have/) [a](/zh/post/a/) [plan](/zh/post/plan/) [to](/zh/post/to/) [finish](/zh/post/finish/) [my](/zh/post/my/) [work](/zh/post/work/) [early](/zh/post/early/)."
 
 - **动词**:
-  - 规划或设计：为某个目标或目的制定计划。例如: "[She](/post/she/) is planning [a](/post/a/) [surprise](/post/surprise/) [birthday](/post/birthday/) [party](/post/party/) [for](/post/for/) [her](/post/her/) [friend](/post/friend/)."
-  - 打算或意图：决定做某事。例如: "I [plan](/post/plan/) [to](/post/to/) [travel](/post/travel/) [abroad](/post/abroad/) [next](/post/next/) [year](/post/year/)."
+  - 规划或设计：为某个目标或目的制定计划。例如: "[She](/zh/post/she/) is planning [a](/zh/post/a/) [surprise](/zh/post/surprise/) [birthday](/zh/post/birthday/) [party](/zh/post/party/) [for](/zh/post/for/) [her](/zh/post/her/) [friend](/zh/post/friend/)."
+  - 打算或意图：决定做某事。例如: "I [plan](/zh/post/plan/) [to](/zh/post/to/) [travel](/zh/post/travel/) [abroad](/zh/post/abroad/) [next](/zh/post/next/) [year](/zh/post/year/)."
 
 ## 短语
-- "[make](/post/make/) plans" 制定计划
-- "[follow](/post/follow/) [a](/post/a/) [plan](/post/plan/)" 遵循计划
-- "[change](/post/change/) one's plans" 改变计划
+- "[make](/zh/post/make/) plans" 制定计划
+- "[follow](/zh/post/follow/) [a](/zh/post/a/) [plan](/zh/post/plan/)" 遵循计划
+- "[change](/zh/post/change/) one's plans" 改变计划
 
 ## 例句
-- 名词: "[The](/post/the/) company's [new](/post/new/) marketing [plan](/post/plan/) includes [several](/post/several/) innovative strategies."
-- 动词: "[They](/post/they/) are planning [to](/post/to/) [meet](/post/meet/) [at](/post/at/) [the](/post/the/) [park](/post/park/) [in](/post/in/) [the](/post/the/) [afternoon](/post/afternoon/)."
+- 名词: "[The](/zh/post/the/) company's [new](/zh/post/new/) marketing [plan](/zh/post/plan/) includes [several](/zh/post/several/) innovative strategies."
+- 动词: "[They](/zh/post/they/) are planning [to](/zh/post/to/) [meet](/zh/post/meet/) [at](/zh/post/at/) [the](/zh/post/the/) [park](/zh/post/park/) [in](/zh/post/in/) [the](/zh/post/the/) [afternoon](/zh/post/afternoon/)."
 - 没有作为感叹词的常见用法。
 
 ## 同义词
-- [Strategy](/post/strategy/)
-- [Scheme](/post/scheme/)
+- [Strategy](/zh/post/strategy/)
+- [Scheme](/zh/post/scheme/)
 - Blueprint
-- [Outline](/post/outline/)
-- [Proposal](/post/proposal/)
+- [Outline](/zh/post/outline/)
+- [Proposal](/zh/post/proposal/)

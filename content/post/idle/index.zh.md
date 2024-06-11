@@ -11,18 +11,18 @@ keywords = ['ai words', 'idle']
 /ˈaɪdl/
 
 ## 释义
-- **形容词**: 懒散的，无所事事的。例如: "[He](/post/he/) spent [the](/post/the/) [whole](/post/whole/) [day](/post/day/) [idle](/post/idle/), doing [nothing](/post/nothing/) [productive](/post/productive/)."
-- **名词**: 闲人，游手好闲的人。例如: "There's [no](/post/no/) [place](/post/place/) [for](/post/for/) idles [in](/post/in/) [our](/post/our/) [society](/post/society/)."
-- **动词**: （使）闲着，不使用。例如: "[The](/post/the/) [machine](/post/machine/) was [idle](/post/idle/) [for](/post/for/) hours [because](/post/because/) [of](/post/of/) [a](/post/a/) [power](/post/power/) outage."
+- **形容词**: 懒散的，无所事事的。例如: "[He](/zh/post/he/) spent [the](/zh/post/the/) [whole](/zh/post/whole/) [day](/zh/post/day/) [idle](/zh/post/idle/), doing [nothing](/zh/post/nothing/) [productive](/zh/post/productive/)."
+- **名词**: 闲人，游手好闲的人。例如: "There's [no](/zh/post/no/) [place](/zh/post/place/) [for](/zh/post/for/) idles [in](/zh/post/in/) [our](/zh/post/our/) [society](/zh/post/society/)."
+- **动词**: （使）闲着，不使用。例如: "[The](/zh/post/the/) [machine](/zh/post/machine/) was [idle](/zh/post/idle/) [for](/zh/post/for/) hours [because](/zh/post/because/) [of](/zh/post/of/) [a](/zh/post/a/) [power](/zh/post/power/) outage."
 
 ## 短语
-- "[idle](/post/idle/) [away](/post/away/)" 意味着浪费时间。例如: "[He](/post/he/) idled [away](/post/away/) [his](/post/his/) [afternoon](/post/afternoon/) watching TV."
-- "[idle](/post/idle/) [time](/post/time/)" 指空闲时间或未使用的时段。例如: "[The](/post/the/) [factory](/post/factory/) has [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [idle](/post/idle/) [time](/post/time/) [due](/post/due/) [to](/post/to/) [low](/post/low/) [demand](/post/demand/)."
+- "[idle](/zh/post/idle/) [away](/zh/post/away/)" 意味着浪费时间。例如: "[He](/zh/post/he/) idled [away](/zh/post/away/) [his](/zh/post/his/) [afternoon](/zh/post/afternoon/) watching TV."
+- "[idle](/zh/post/idle/) [time](/zh/post/time/)" 指空闲时间或未使用的时段。例如: "[The](/zh/post/the/) [factory](/zh/post/factory/) has [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) [idle](/zh/post/idle/) [time](/zh/post/time/) [due](/zh/post/due/) [to](/zh/post/to/) [low](/zh/post/low/) [demand](/zh/post/demand/)."
 
 ## 例句
-- 形容词: "[She](/post/she/) felt [guilty](/post/guilty/) [for](/post/for/) [being](/post/being/) [idle](/post/idle/) [while](/post/while/) others were working [hard](/post/hard/)."
-- 名词: "[The](/post/the/) [boss](/post/boss/) told [the](/post/the/) idles [to](/post/to/) [find](/post/find/) [something](/post/something/) [useful](/post/useful/) [to](/post/to/) [do](/post/do/)."
-- 动词: "[The](/post/the/) [engine](/post/engine/) idled [smoothly](/post/smoothly/) [until](/post/until/) [we](/post/we/) were [ready](/post/ready/) [to](/post/to/) [depart](/post/depart/)."
+- 形容词: "[She](/zh/post/she/) felt [guilty](/zh/post/guilty/) [for](/zh/post/for/) [being](/zh/post/being/) [idle](/zh/post/idle/) [while](/zh/post/while/) others were working [hard](/zh/post/hard/)."
+- 名词: "[The](/zh/post/the/) [boss](/zh/post/boss/) told [the](/zh/post/the/) idles [to](/zh/post/to/) [find](/zh/post/find/) [something](/zh/post/something/) [useful](/zh/post/useful/) [to](/zh/post/to/) [do](/zh/post/do/)."
+- 动词: "[The](/zh/post/the/) [engine](/zh/post/engine/) idled [smoothly](/zh/post/smoothly/) [until](/zh/post/until/) [we](/zh/post/we/) were [ready](/zh/post/ready/) [to](/zh/post/to/) [depart](/zh/post/depart/)."
 
 ## 同义词
 -懒散的:

@@ -7,43 +7,43 @@ description = '[baund] a.一定的；有义务的'
 keywords = ['ai words', 'bound']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /baʊnd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Bound](/en/post/bound/) ([noun](/en/post/noun/))**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) fastened, fixed, [or](/en/post/or/) attached; [a](/en/post/a/) [limit](/en/post/limit/) [or](/en/post/or/) [restriction](/en/post/restriction/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) is securely [bound](/en/post/bound/) [with](/en/post/with/) [cloth](/en/post/cloth/) covers."
-2. **[Bound](/en/post/bound/) ([noun](/en/post/noun/))**: [A](/en/post/a/) fixed [or](/en/post/or/) predetermined [amount](/en/post/amount/); [a](/en/post/a/) [limit](/en/post/limit/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) has [set](/en/post/set/) [a](/en/post/a/) sales [target](/en/post/target/) [for](/en/post/for/) [the](/en/post/the/) [quarter](/en/post/quarter/)."
-3. **[Bound](/en/post/bound/) ([noun](/en/post/noun/))**: [In](/en/post/in/) [mathematics](/en/post/mathematics/), [a](/en/post/a/) [variable](/en/post/variable/) [that](/en/post/that/) has [a](/en/post/a/) [specific](/en/post/specific/) [value](/en/post/value/) [within](/en/post/within/) [a](/en/post/a/) [range](/en/post/range/) [or](/en/post/or/) [interval](/en/post/interval/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) calculus, y is bounded [between](/en/post/between/) x^2 [and](/en/post/and/) 4x."
+### [Noun](/post/noun/)
+1. **[Bound](/post/bound/) ([noun](/post/noun/))**: [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) fastened, fixed, [or](/post/or/) attached; [a](/post/a/) [limit](/post/limit/) [or](/post/or/) [restriction](/post/restriction/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) is securely [bound](/post/bound/) [with](/post/with/) [cloth](/post/cloth/) covers."
+2. **[Bound](/post/bound/) ([noun](/post/noun/))**: [A](/post/a/) fixed [or](/post/or/) predetermined [amount](/post/amount/); [a](/post/a/) [limit](/post/limit/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) has [set](/post/set/) [a](/post/a/) sales [target](/post/target/) [for](/post/for/) [the](/post/the/) [quarter](/post/quarter/)."
+3. **[Bound](/post/bound/) ([noun](/post/noun/))**: [In](/post/in/) [mathematics](/post/mathematics/), [a](/post/a/) [variable](/post/variable/) [that](/post/that/) has [a](/post/a/) [specific](/post/specific/) [value](/post/value/) [within](/post/within/) [a](/post/a/) [range](/post/range/) [or](/post/or/) [interval](/post/interval/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) calculus, y is bounded [between](/post/between/) x^2 [and](/post/and/) 4x."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [bind](/en/post/bind/)**: [Fasten](/en/post/fasten/) [or](/en/post/or/) [secure](/en/post/secure/) [with](/en/post/with/) ties, [glue](/en/post/glue/), [or](/en/post/or/) [other](/en/post/other/) materials, [especially](/en/post/especially/) [for](/en/post/for/) books [or](/en/post/or/) documents. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [librarian](/en/post/librarian/) carefully [bound](/en/post/bound/) [the](/en/post/the/) [old](/en/post/old/) [journal](/en/post/journal/)."
-2. **[To](/en/post/to/) [be](/en/post/be/) [bound](/en/post/bound/) ([to](/en/post/to/) [do](/en/post/do/))**: [To](/en/post/to/) [have](/en/post/have/) an obligation [or](/en/post/or/) commitment [to](/en/post/to/) [perform](/en/post/perform/) an [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) are [bound](/en/post/bound/) [by](/en/post/by/) [contract](/en/post/contract/) [to](/en/post/to/) [deliver](/en/post/deliver/) [the](/en/post/the/) [project](/en/post/project/) [on](/en/post/on/) [time](/en/post/time/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [bind](/post/bind/)**: [Fasten](/post/fasten/) [or](/post/or/) [secure](/post/secure/) [with](/post/with/) ties, [glue](/post/glue/), [or](/post/or/) [other](/post/other/) materials, [especially](/post/especially/) [for](/post/for/) books [or](/post/or/) documents. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [librarian](/post/librarian/) carefully [bound](/post/bound/) [the](/post/the/) [old](/post/old/) [journal](/post/journal/)."
+2. **[To](/post/to/) [be](/post/be/) [bound](/post/bound/) ([to](/post/to/) [do](/post/do/))**: [To](/post/to/) [have](/post/have/) an obligation [or](/post/or/) commitment [to](/post/to/) [perform](/post/perform/) an [action](/post/action/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) are [bound](/post/bound/) [by](/post/by/) [contract](/post/contract/) [to](/post/to/) [deliver](/post/deliver/) [the](/post/the/) [project](/post/project/) [on](/post/on/) [time](/post/time/)."
 
-### [Adjective](/en/post/adjective/)
-1. **[Bound](/en/post/bound/)** (adj): Tied [or](/en/post/or/) fastened [together](/en/post/together/); inseparable [or](/en/post/or/) [closely](/en/post/closely/) related. [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) destinies were [forever](/en/post/forever/) [bound](/en/post/bound/)."
-2. **Boundless** (adj): [Without](/en/post/without/) limits [or](/en/post/or/) boundaries; unlimited. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) ocean's [horizon](/en/post/horizon/) is [a](/en/post/a/) boundless [sight](/en/post/sight/)."
+### [Adjective](/post/adjective/)
+1. **[Bound](/post/bound/)** (adj): Tied [or](/post/or/) fastened [together](/post/together/); inseparable [or](/post/or/) [closely](/post/closely/) related. [For](/post/for/) [example](/post/example/): "[Their](/post/their/) destinies were [forever](/post/forever/) [bound](/post/bound/)."
+2. **Boundless** (adj): [Without](/post/without/) limits [or](/post/or/) boundaries; unlimited. [For](/post/for/) [example](/post/example/): "[The](/post/the/) ocean's [horizon](/post/horizon/) is [a](/post/a/) boundless [sight](/post/sight/)."
 
-### [Adverb](/en/post/adverb/)
-1. **Boundedly** (adv): [Within](/en/post/within/) bounds [or](/en/post/or/) limits. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's [growth](/en/post/growth/) was boundedly constrained [by](/en/post/by/) [financial](/en/post/financial/) resources."
+### [Adverb](/post/adverb/)
+1. **Boundedly** (adv): [Within](/post/within/) bounds [or](/post/or/) limits. [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's [growth](/post/growth/) was boundedly constrained [by](/post/by/) [financial](/post/financial/) resources."
 
 ## Phrases
-- "[Bound](/en/post/bound/) [together](/en/post/together/)" indicates [a](/en/post/a/) [connection](/en/post/connection/) [or](/en/post/or/) [unity](/en/post/unity/).
-- "[Bound](/en/post/bound/) [by](/en/post/by/) [law](/en/post/law/)" refers [to](/en/post/to/) [legal](/en/post/legal/) restrictions.
-- "Boundless [potential](/en/post/potential/)" signifies unlimited possibilities.
+- "[Bound](/post/bound/) [together](/post/together/)" indicates [a](/post/a/) [connection](/post/connection/) [or](/post/or/) [unity](/post/unity/).
+- "[Bound](/post/bound/) [by](/post/by/) [law](/post/law/)" refers [to](/post/to/) [legal](/post/legal/) restrictions.
+- "Boundless [potential](/post/potential/)" signifies unlimited possibilities.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) book's pages are neatly [bound](/en/post/bound/) [with](/en/post/with/) [ribbon](/en/post/ribbon/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) contractor [bound](/en/post/bound/) [the](/en/post/the/) [loose](/en/post/loose/) ends [of](/en/post/of/) [the](/en/post/the/) wiring."
-- **[Adjective](/en/post/adjective/)**: "[Their](/en/post/their/) [friendship](/en/post/friendship/) is [forever](/en/post/forever/) [bound](/en/post/bound/) [by](/en/post/by/) [their](/en/post/their/) shared experiences."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) creativity knows [no](/en/post/no/) bounds."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) book's pages are neatly [bound](/post/bound/) [with](/post/with/) [ribbon](/post/ribbon/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) contractor [bound](/post/bound/) [the](/post/the/) [loose](/post/loose/) ends [of](/post/of/) [the](/post/the/) wiring."
+- **[Adjective](/post/adjective/)**: "[Their](/post/their/) [friendship](/post/friendship/) is [forever](/post/forever/) [bound](/post/bound/) [by](/post/by/) [their](/post/their/) shared experiences."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) creativity knows [no](/post/no/) bounds."
 
 ## Synonyms
 - Fastened
 - Constrained
-- [Limited](/en/post/limited/)
+- [Limited](/post/limited/)
 - Tied
 - Attached
 - Encumbered
 - Restricted
-- Immobilized ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- Immobilized ([in](/post/in/) [some](/post/some/) contexts)

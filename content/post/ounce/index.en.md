@@ -7,32 +7,32 @@ description = '[auns] n.盎司，英两'
 keywords = ['ai words', 'ounce']
 +++
 
-## [Word](/en/post/word/): [Ounce](/en/post/ounce/)
+## [Word](/post/word/): [Ounce](/post/ounce/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaʊns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [weight](/en/post/weight/) [equal](/en/post/equal/) [to](/en/post/to/) 1/16 [of](/en/post/of/) [a](/en/post/a/) [pound](/en/post/pound/) [or](/en/post/or/) [approximately](/en/post/approximately/) 28.35 grams. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) recipe calls [for](/en/post/for/) [two](/en/post/two/) ounces [of](/en/post/of/) [chocolate](/en/post/chocolate/) chips."
-- **[Noun](/en/post/noun/) ([historical](/en/post/historical/))**: [A](/en/post/a/) [former](/en/post/former/) [silver](/en/post/silver/) [coin](/en/post/coin/) [of](/en/post/of/) England, [equal](/en/post/equal/) [to](/en/post/to/) one-twelfth [of](/en/post/of/) [a](/en/post/a/) Troy [pound](/en/post/pound/).
-- **[Noun](/en/post/noun/) (informal)**: [A](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [or](/en/post/or/) [quantity](/en/post/quantity/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [only](/en/post/only/) needed an [ounce](/en/post/ounce/) [of](/en/post/of/) [patience](/en/post/patience/) [to](/en/post/to/) [wait](/en/post/wait/) [for](/en/post/for/) [the](/en/post/the/) results."
+- **[Noun](/post/noun/)**: [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [weight](/post/weight/) [equal](/post/equal/) [to](/post/to/) 1/16 [of](/post/of/) [a](/post/a/) [pound](/post/pound/) [or](/post/or/) [approximately](/post/approximately/) 28.35 grams. [For](/post/for/) [example](/post/example/): "[The](/post/the/) recipe calls [for](/post/for/) [two](/post/two/) ounces [of](/post/of/) [chocolate](/post/chocolate/) chips."
+- **[Noun](/post/noun/) ([historical](/post/historical/))**: [A](/post/a/) [former](/post/former/) [silver](/post/silver/) [coin](/post/coin/) [of](/post/of/) England, [equal](/post/equal/) [to](/post/to/) one-twelfth [of](/post/of/) [a](/post/a/) Troy [pound](/post/pound/).
+- **[Noun](/post/noun/) (informal)**: [A](/post/a/) [small](/post/small/) [amount](/post/amount/) [or](/post/or/) [quantity](/post/quantity/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [only](/post/only/) needed an [ounce](/post/ounce/) [of](/post/of/) [patience](/post/patience/) [to](/post/to/) [wait](/post/wait/) [for](/post/for/) [the](/post/the/) results."
 
 ## Phrases
-- "[A](/en/post/a/) [drop](/en/post/drop/) [in](/en/post/in/) [the](/en/post/the/) [ocean](/en/post/ocean/)": Refers [to](/en/post/to/) [something](/en/post/something/) [very](/en/post/very/) [small](/en/post/small/) [or](/en/post/or/) insignificant compared [to](/en/post/to/) [a](/en/post/a/) larger [whole](/en/post/whole/), [like](/en/post/like/) an [ounce](/en/post/ounce/) [in](/en/post/in/) [relation](/en/post/relation/) [to](/en/post/to/) [the](/en/post/the/) vastness [of](/en/post/of/) [the](/en/post/the/) [ocean](/en/post/ocean/).
-- "An [ounce](/en/post/ounce/) [of](/en/post/of/) prevention is [worth](/en/post/worth/) [a](/en/post/a/) [pound](/en/post/pound/) [of](/en/post/of/) [cure](/en/post/cure/)": [A](/en/post/a/) proverb suggesting [that](/en/post/that/) taking [action](/en/post/action/) [to](/en/post/to/) [prevent](/en/post/prevent/) [a](/en/post/a/) [problem](/en/post/problem/) is [better](/en/post/better/) [than](/en/post/than/) trying [to](/en/post/to/) [fix](/en/post/fix/) [it](/en/post/it/) [later](/en/post/later/) [on](/en/post/on/).
+- "[A](/post/a/) [drop](/post/drop/) [in](/post/in/) [the](/post/the/) [ocean](/post/ocean/)": Refers [to](/post/to/) [something](/post/something/) [very](/post/very/) [small](/post/small/) [or](/post/or/) insignificant compared [to](/post/to/) [a](/post/a/) larger [whole](/post/whole/), [like](/post/like/) an [ounce](/post/ounce/) [in](/post/in/) [relation](/post/relation/) [to](/post/to/) [the](/post/the/) vastness [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/).
+- "An [ounce](/post/ounce/) [of](/post/of/) prevention is [worth](/post/worth/) [a](/post/a/) [pound](/post/pound/) [of](/post/of/) [cure](/post/cure/)": [A](/post/a/) proverb suggesting [that](/post/that/) taking [action](/post/action/) [to](/post/to/) [prevent](/post/prevent/) [a](/post/a/) [problem](/post/problem/) is [better](/post/better/) [than](/post/than/) trying [to](/post/to/) [fix](/post/fix/) [it](/post/it/) [later](/post/later/) [on](/post/on/).
 
-## [Example](/en/post/example/) Sentences
-- **[Unit](/en/post/unit/) [of](/en/post/of/) [weight](/en/post/weight/)**: "[The](/en/post/the/) [baby](/en/post/baby/) weighed [eight](/en/post/eight/) pounds [and](/en/post/and/) [three](/en/post/three/) ounces [at](/en/post/at/) [birth](/en/post/birth/)."
-- **[Historical](/en/post/historical/) Coinage**: "[During](/en/post/during/) medieval times, [the](/en/post/the/) [value](/en/post/value/) [of](/en/post/of/) [goods](/en/post/goods/) was [often](/en/post/often/) measured [in](/en/post/in/) shillings [and](/en/post/and/) ounces."
-- **Informal [Usage](/en/post/usage/)**: "[Even](/en/post/even/) an [ounce](/en/post/ounce/) [of](/en/post/of/) [kindness](/en/post/kindness/) [can](/en/post/can/) [make](/en/post/make/) [a](/en/post/a/) [huge](/en/post/huge/) [difference](/en/post/difference/) [in](/en/post/in/) someone's [day](/en/post/day/)."
+## [Example](/post/example/) Sentences
+- **[Unit](/post/unit/) [of](/post/of/) [weight](/post/weight/)**: "[The](/post/the/) [baby](/post/baby/) weighed [eight](/post/eight/) pounds [and](/post/and/) [three](/post/three/) ounces [at](/post/at/) [birth](/post/birth/)."
+- **[Historical](/post/historical/) Coinage**: "[During](/post/during/) medieval times, [the](/post/the/) [value](/post/value/) [of](/post/of/) [goods](/post/goods/) was [often](/post/often/) measured [in](/post/in/) shillings [and](/post/and/) ounces."
+- **Informal [Usage](/post/usage/)**: "[Even](/post/even/) an [ounce](/post/ounce/) [of](/post/of/) [kindness](/post/kindness/) [can](/post/can/) [make](/post/make/) [a](/post/a/) [huge](/post/huge/) [difference](/post/difference/) [in](/post/in/) someone's [day](/post/day/)."
 
 ## Synonyms
 - oz. (abbreviation)
-- [fluid](/en/post/fluid/) [ounce](/en/post/ounce/) ([for](/en/post/for/) measuring [liquid](/en/post/liquid/) [volume](/en/post/volume/))
-- [small](/en/post/small/) [amount](/en/post/amount/)
-- [tiny](/en/post/tiny/) [bit](/en/post/bit/)
+- [fluid](/post/fluid/) [ounce](/post/ounce/) ([for](/post/for/) measuring [liquid](/post/liquid/) [volume](/post/volume/))
+- [small](/post/small/) [amount](/post/amount/)
+- [tiny](/post/tiny/) [bit](/post/bit/)
 - modicum
 - scrap
-- [trace](/en/post/trace/)
+- [trace](/post/trace/)
 
-[Note](/en/post/note/): [The](/en/post/the/) context determines [whether](/en/post/whether/) "[ounce](/en/post/ounce/)" refers [to](/en/post/to/) [a](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [weight](/en/post/weight/) [or](/en/post/or/) [a](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/). [In](/en/post/in/) [the](/en/post/the/) [case](/en/post/case/) [of](/en/post/of/) [its](/en/post/its/) [use](/en/post/use/) [as](/en/post/as/) [a](/en/post/a/) [historical](/en/post/historical/) [coin](/en/post/coin/), [no](/en/post/no/) [direct](/en/post/direct/) synonyms [exist](/en/post/exist/) [as](/en/post/as/) it's [a](/en/post/a/) [specific](/en/post/specific/) [type](/en/post/type/) [of](/en/post/of/) currency [from](/en/post/from/) [the](/en/post/the/) [past](/en/post/past/).
+[Note](/post/note/): [The](/post/the/) context determines [whether](/post/whether/) "[ounce](/post/ounce/)" refers [to](/post/to/) [a](/post/a/) [unit](/post/unit/) [of](/post/of/) [weight](/post/weight/) [or](/post/or/) [a](/post/a/) [small](/post/small/) [amount](/post/amount/). [In](/post/in/) [the](/post/the/) [case](/post/case/) [of](/post/of/) [its](/post/its/) [use](/post/use/) [as](/post/as/) [a](/post/a/) [historical](/post/historical/) [coin](/post/coin/), [no](/post/no/) [direct](/post/direct/) synonyms [exist](/post/exist/) [as](/post/as/) it's [a](/post/a/) [specific](/post/specific/) [type](/post/type/) [of](/post/of/) currency [from](/post/from/) [the](/post/the/) [past](/post/past/).

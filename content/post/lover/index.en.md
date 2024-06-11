@@ -7,29 +7,29 @@ description = '[ˈlʌvə] n.爱好者；情人；情侣'
 keywords = ['ai words', 'lover']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlʌvər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [a](/en/post/a/) [strong](/en/post/strong/) [affection](/en/post/affection/) [or](/en/post/or/) [passion](/en/post/passion/) [for](/en/post/for/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "She's [a](/en/post/a/) [true](/en/post/true/) [music](/en/post/music/) [lover](/en/post/lover/); [her](/en/post/her/) [collection](/en/post/collection/) spans decades [of](/en/post/of/) hits." 
-- **[Noun](/en/post/noun/) (informal)**: [A](/en/post/a/) [person](/en/post/person/) deeply [in](/en/post/in/) [love](/en/post/love/) [with](/en/post/with/) [another](/en/post/another/), [often](/en/post/often/) romantically. [Example](/en/post/example/): "[They](/en/post/they/) [have](/en/post/have/) been lovers [since](/en/post/since/) [college](/en/post/college/)."
-- **[Noun](/en/post/noun/) (archaic)**: [A](/en/post/a/) [friend](/en/post/friend/) [or](/en/post/or/) [associate](/en/post/associate/). [Example](/en/post/example/): "[He](/en/post/he/) was [a](/en/post/a/) [dear](/en/post/dear/) [lover](/en/post/lover/) [and](/en/post/and/) [companion](/en/post/companion/) [during](/en/post/during/) [their](/en/post/their/) travels."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) has [a](/post/a/) [strong](/post/strong/) [affection](/post/affection/) [or](/post/or/) [passion](/post/passion/) [for](/post/for/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "She's [a](/post/a/) [true](/post/true/) [music](/post/music/) [lover](/post/lover/); [her](/post/her/) [collection](/post/collection/) spans decades [of](/post/of/) hits." 
+- **[Noun](/post/noun/) (informal)**: [A](/post/a/) [person](/post/person/) deeply [in](/post/in/) [love](/post/love/) [with](/post/with/) [another](/post/another/), [often](/post/often/) romantically. [Example](/post/example/): "[They](/post/they/) [have](/post/have/) been lovers [since](/post/since/) [college](/post/college/)."
+- **[Noun](/post/noun/) (archaic)**: [A](/post/a/) [friend](/post/friend/) [or](/post/or/) [associate](/post/associate/). [Example](/post/example/): "[He](/post/he/) was [a](/post/a/) [dear](/post/dear/) [lover](/post/lover/) [and](/post/and/) [companion](/post/companion/) [during](/post/during/) [their](/post/their/) travels."
 
 ## Phrases
-- "[Love](/en/post/love/) [of](/en/post/of/) one's [life](/en/post/life/)" refers [to](/en/post/to/) [a](/en/post/a/) person's [most](/en/post/most/) [beloved](/en/post/beloved/) [romantic](/en/post/romantic/) [partner](/en/post/partner/).
-- "Lover's [quarrel](/en/post/quarrel/)" describes [a](/en/post/a/) disagreement [between](/en/post/between/) [two](/en/post/two/) [people](/en/post/people/) [in](/en/post/in/) [a](/en/post/a/) [romantic](/en/post/romantic/) [relationship](/en/post/relationship/).
-- "[Animal](/en/post/animal/) [lover](/en/post/lover/)" denotes [someone](/en/post/someone/) [who](/en/post/who/) cares deeply [about](/en/post/about/) animals [and](/en/post/and/) [their](/en/post/their/) [welfare](/en/post/welfare/).
+- "[Love](/post/love/) [of](/post/of/) one's [life](/post/life/)" refers [to](/post/to/) [a](/post/a/) person's [most](/post/most/) [beloved](/post/beloved/) [romantic](/post/romantic/) [partner](/post/partner/).
+- "Lover's [quarrel](/post/quarrel/)" describes [a](/post/a/) disagreement [between](/post/between/) [two](/post/two/) [people](/post/people/) [in](/post/in/) [a](/post/a/) [romantic](/post/romantic/) [relationship](/post/relationship/).
+- "[Animal](/post/animal/) [lover](/post/lover/)" denotes [someone](/post/someone/) [who](/post/who/) cares deeply [about](/post/about/) animals [and](/post/and/) [their](/post/their/) [welfare](/post/welfare/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([affection](/en/post/affection/) [for](/en/post/for/) [something](/en/post/something/)/[someone](/en/post/someone/))**: "[The](/en/post/the/) [art](/en/post/art/) [lover](/en/post/lover/) spent hours admiring [the](/en/post/the/) masterpieces [in](/en/post/in/) [the](/en/post/the/) [gallery](/en/post/gallery/)."
-- **[Noun](/en/post/noun/) ([romantic](/en/post/romantic/) [partner](/en/post/partner/))**: "[Their](/en/post/their/) [love](/en/post/love/) [story](/en/post/story/) began [when](/en/post/when/) [they](/en/post/they/) were [just](/en/post/just/) teenagers, [and](/en/post/and/) [now](/en/post/now/) they're inseparable lovers."
-- **[Noun](/en/post/noun/) ([friend](/en/post/friend/) [or](/en/post/or/) [associate](/en/post/associate/))**: "[Old](/en/post/old/) friends [and](/en/post/and/) lovers [of](/en/post/of/) [literature](/en/post/literature/) gathered [around](/en/post/around/) [the](/en/post/the/) fireplace [to](/en/post/to/) [share](/en/post/share/) stories."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([affection](/post/affection/) [for](/post/for/) [something](/post/something/)/[someone](/post/someone/))**: "[The](/post/the/) [art](/post/art/) [lover](/post/lover/) spent hours admiring [the](/post/the/) masterpieces [in](/post/in/) [the](/post/the/) [gallery](/post/gallery/)."
+- **[Noun](/post/noun/) ([romantic](/post/romantic/) [partner](/post/partner/))**: "[Their](/post/their/) [love](/post/love/) [story](/post/story/) began [when](/post/when/) [they](/post/they/) were [just](/post/just/) teenagers, [and](/post/and/) [now](/post/now/) they're inseparable lovers."
+- **[Noun](/post/noun/) ([friend](/post/friend/) [or](/post/or/) [associate](/post/associate/))**: "[Old](/post/old/) friends [and](/post/and/) lovers [of](/post/of/) [literature](/post/literature/) gathered [around](/post/around/) [the](/post/the/) fireplace [to](/post/to/) [share](/post/share/) stories."
 
 ## Synonyms
 - Admirer
 - Devotee
 - Enthusiast
-- [Fan](/en/post/fan/)
+- [Fan](/post/fan/)
 - Aficionado
-- Sweetheart ([for](/en/post/for/) [romantic](/en/post/romantic/) context)
-- [Beloved](/en/post/beloved/) ([for](/en/post/for/) [romantic](/en/post/romantic/) context)
+- Sweetheart ([for](/post/for/) [romantic](/post/romantic/) context)
+- [Beloved](/post/beloved/) ([for](/post/for/) [romantic](/post/romantic/) context)

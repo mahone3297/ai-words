@@ -7,36 +7,36 @@ description = '[əˈreibjən] a.阿拉伯的'
 keywords = ['ai words', 'arabian']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈærəbiən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. Referring [to](/en/post/to/) [people](/en/post/people/), [language](/en/post/language/), [or](/en/post/or/) [culture](/en/post/culture/) [from](/en/post/from/) [the](/en/post/the/) Arab [world](/en/post/world/), [which](/en/post/which/) includes countries [such](/en/post/such/) [as](/en/post/as/) Saudi Arabia, Egypt, [and](/en/post/and/) [the](/en/post/the/) United Arab Emirates.
-   - [Example](/en/post/example/): [The](/en/post/the/) [Arabian](/en/post/arabian/) [Peninsula](/en/post/peninsula/) is known [for](/en/post/for/) [its](/en/post/its/) [rich](/en/post/rich/) [history](/en/post/history/) [and](/en/post/and/) [diverse](/en/post/diverse/) cultures.
-2. Arabic, [the](/en/post/the/) Semitic [language](/en/post/language/) [primarily](/en/post/primarily/) spoken [in](/en/post/in/) [the](/en/post/the/) [Middle](/en/post/middle/) [East](/en/post/east/) [and](/en/post/and/) [North](/en/post/north/) [Africa](/en/post/africa/).
+### [Noun](/post/noun/)
+1. Referring [to](/post/to/) [people](/post/people/), [language](/post/language/), [or](/post/or/) [culture](/post/culture/) [from](/post/from/) [the](/post/the/) Arab [world](/post/world/), [which](/post/which/) includes countries [such](/post/such/) [as](/post/as/) Saudi Arabia, Egypt, [and](/post/and/) [the](/post/the/) United Arab Emirates.
+   - [Example](/post/example/): [The](/post/the/) [Arabian](/post/arabian/) [Peninsula](/post/peninsula/) is known [for](/post/for/) [its](/post/its/) [rich](/post/rich/) [history](/post/history/) [and](/post/and/) [diverse](/post/diverse/) cultures.
+2. Arabic, [the](/post/the/) Semitic [language](/post/language/) [primarily](/post/primarily/) spoken [in](/post/in/) [the](/post/the/) [Middle](/post/middle/) [East](/post/east/) [and](/post/and/) [North](/post/north/) [Africa](/post/africa/).
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) originating [from](/en/post/from/) [the](/en/post/the/) Arab [world](/en/post/world/).
-   - [Example](/en/post/example/): An [Arabian](/en/post/arabian/) [desert](/en/post/desert/) landscape is filled [with](/en/post/with/) stunning [architecture](/en/post/architecture/) [and](/en/post/and/) [ancient](/en/post/ancient/) ruins.
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) originating [from](/post/from/) [the](/post/the/) Arab [world](/post/world/).
+   - [Example](/post/example/): An [Arabian](/post/arabian/) [desert](/post/desert/) landscape is filled [with](/post/with/) stunning [architecture](/post/architecture/) [and](/post/and/) [ancient](/post/ancient/) ruins.
 
-### [Proper](/en/post/proper/) [noun](/en/post/noun/)
-1. [A](/en/post/a/) [specific](/en/post/specific/) ethnic [or](/en/post/or/) linguistic [group](/en/post/group/) [within](/en/post/within/) [the](/en/post/the/) Arab [world](/en/post/world/).
-   - [Example](/en/post/example/): [Many](/en/post/many/) [Arabian](/en/post/arabian/) musicians [have](/en/post/have/) gained [international](/en/post/international/) [recognition](/en/post/recognition/).
+### [Proper](/post/proper/) [noun](/post/noun/)
+1. [A](/post/a/) [specific](/post/specific/) ethnic [or](/post/or/) linguistic [group](/post/group/) [within](/post/within/) [the](/post/the/) Arab [world](/post/world/).
+   - [Example](/post/example/): [Many](/post/many/) [Arabian](/post/arabian/) musicians [have](/post/have/) gained [international](/post/international/) [recognition](/post/recognition/).
 
 ## Phrases
-- "[Arabian](/en/post/arabian/) nights" refers [to](/en/post/to/) [the](/en/post/the/) stories [and](/en/post/and/) folklore [of](/en/post/of/) [the](/en/post/the/) [Arabian](/en/post/arabian/) [Peninsula](/en/post/peninsula/), [often](/en/post/often/) associated [with](/en/post/with/) fantasy [and](/en/post/and/) [adventure](/en/post/adventure/).
-- "[Arabian](/en/post/arabian/) hospitality" is known [for](/en/post/for/) [the](/en/post/the/) [warm](/en/post/warm/) [and](/en/post/and/) [generous](/en/post/generous/) [welcome](/en/post/welcome/) offered [by](/en/post/by/) [people](/en/post/people/) [from](/en/post/from/) [the](/en/post/the/) [region](/en/post/region/).
-- "[Learn](/en/post/learn/) [to](/en/post/to/) [speak](/en/post/speak/) Arabic" is [a](/en/post/a/) [common](/en/post/common/) aspiration [for](/en/post/for/) [those](/en/post/those/) interested [in](/en/post/in/) [the](/en/post/the/) [language](/en/post/language/) [and](/en/post/and/) [culture](/en/post/culture/).
+- "[Arabian](/post/arabian/) nights" refers [to](/post/to/) [the](/post/the/) stories [and](/post/and/) folklore [of](/post/of/) [the](/post/the/) [Arabian](/post/arabian/) [Peninsula](/post/peninsula/), [often](/post/often/) associated [with](/post/with/) fantasy [and](/post/and/) [adventure](/post/adventure/).
+- "[Arabian](/post/arabian/) hospitality" is known [for](/post/for/) [the](/post/the/) [warm](/post/warm/) [and](/post/and/) [generous](/post/generous/) [welcome](/post/welcome/) offered [by](/post/by/) [people](/post/people/) [from](/post/from/) [the](/post/the/) [region](/post/region/).
+- "[Learn](/post/learn/) [to](/post/to/) [speak](/post/speak/) Arabic" is [a](/post/a/) [common](/post/common/) aspiration [for](/post/for/) [those](/post/those/) interested [in](/post/in/) [the](/post/the/) [language](/post/language/) [and](/post/and/) [culture](/post/culture/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [museum](/en/post/museum/) showcased [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) [Arabian](/en/post/arabian/) artifacts [from](/en/post/from/) [different](/en/post/different/) eras.
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [Arabian](/en/post/arabian/) [sunset](/en/post/sunset/) was [a](/en/post/a/) breathtaking [sight](/en/post/sight/), [painting](/en/post/painting/) [the](/en/post/the/) [sky](/en/post/sky/) [with](/en/post/with/) hues [of](/en/post/of/) [gold](/en/post/gold/) [and](/en/post/and/) [orange](/en/post/orange/).
-- **[Proper](/en/post/proper/) [noun](/en/post/noun/)**: [She](/en/post/she/) visited [her](/en/post/her/) [Arabian](/en/post/arabian/) relatives [during](/en/post/during/) [the](/en/post/the/) [summer](/en/post/summer/) [break](/en/post/break/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [museum](/post/museum/) showcased [a](/post/a/) [collection](/post/collection/) [of](/post/of/) [Arabian](/post/arabian/) artifacts [from](/post/from/) [different](/post/different/) eras.
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [Arabian](/post/arabian/) [sunset](/post/sunset/) was [a](/post/a/) breathtaking [sight](/post/sight/), [painting](/post/painting/) [the](/post/the/) [sky](/post/sky/) [with](/post/with/) hues [of](/post/of/) [gold](/post/gold/) [and](/post/and/) [orange](/post/orange/).
+- **[Proper](/post/proper/) [noun](/post/noun/)**: [She](/post/she/) visited [her](/post/her/) [Arabian](/post/arabian/) relatives [during](/post/during/) [the](/post/the/) [summer](/post/summer/) [break](/post/break/).
 
 ## Synonyms
 - Arab
-- [Oriental](/en/post/oriental/)
+- [Oriental](/post/oriental/)
 - Semitic
-- Islamic (referring [to](/en/post/to/) [the](/en/post/the/) [religion](/en/post/religion/))
-- [Desert](/en/post/desert/) ([when](/en/post/when/) describing [the](/en/post/the/) region's [geography](/en/post/geography/))
+- Islamic (referring [to](/post/to/) [the](/post/the/) [religion](/post/religion/))
+- [Desert](/post/desert/) ([when](/post/when/) describing [the](/post/the/) region's [geography](/post/geography/))

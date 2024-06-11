@@ -11,21 +11,21 @@ keywords = ['ai words', 'career']
 /kəˈrɪər/
 
 ## 释义
-- **名词**: 个人的职业生涯；专业或商业活动的过程；终身的工作。例如: "[She](/post/she/) has [a](/post/a/) [successful](/post/successful/) [career](/post/career/) [in](/post/in/) [medicine](/post/medicine/)."
-- **名词**: 某一特定领域的事业或职业。例如: "[He](/post/he/) pursued [a](/post/a/) [career](/post/career/) [in](/post/in/) [law](/post/law/)."
+- **名词**: 个人的职业生涯；专业或商业活动的过程；终身的工作。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [successful](/zh/post/successful/) [career](/zh/post/career/) [in](/zh/post/in/) [medicine](/zh/post/medicine/)."
+- **名词**: 某一特定领域的事业或职业。例如: "[He](/zh/post/he/) pursued [a](/zh/post/a/) [career](/zh/post/career/) [in](/zh/post/in/) [law](/zh/post/law/)."
 
 ## 短语
-- "[Take](/post/take/) [off](/post/off/) [in](/post/in/) one's [career](/post/career/)" 意为在职业生涯中取得成功或快速发展。
-- "[Career](/post/career/) [change](/post/change/)" 指改变职业或行业。
-- "[Career](/post/career/) [guidance](/post/guidance/)" 提供关于选择或发展职业的建议。
+- "[Take](/zh/post/take/) [off](/zh/post/off/) [in](/zh/post/in/) one's [career](/zh/post/career/)" 意为在职业生涯中取得成功或快速发展。
+- "[Career](/zh/post/career/) [change](/zh/post/change/)" 指改变职业或行业。
+- "[Career](/zh/post/career/) [guidance](/zh/post/guidance/)" 提供关于选择或发展职业的建议。
 
 ## 例句
-- 名词: "[After](/post/after/) graduating, [he](/post/he/) started [his](/post/his/) [career](/post/career/) [as](/post/as/) [a](/post/a/) software [engineer](/post/engineer/)."
-- 名词: "[She](/post/she/) took [a](/post/a/) [break](/post/break/) [from](/post/from/) [her](/post/her/) [career](/post/career/) [to](/post/to/) [raise](/post/raise/) [her](/post/her/) children."
+- 名词: "[After](/zh/post/after/) graduating, [he](/zh/post/he/) started [his](/zh/post/his/) [career](/zh/post/career/) [as](/zh/post/as/) [a](/zh/post/a/) software [engineer](/zh/post/engineer/)."
+- 名词: "[She](/zh/post/she/) took [a](/zh/post/a/) [break](/zh/post/break/) [from](/zh/post/from/) [her](/zh/post/her/) [career](/zh/post/career/) [to](/zh/post/to/) [raise](/zh/post/raise/) [her](/zh/post/her/) children."
 
 ## 同义词
-- [Occupation](/post/occupation/)
-- [Profession](/post/profession/)
-- [Job](/post/job/)
-- [Work](/post/work/)
+- [Occupation](/zh/post/occupation/)
+- [Profession](/zh/post/profession/)
+- [Job](/zh/post/job/)
+- [Work](/zh/post/work/)
 - Vocation

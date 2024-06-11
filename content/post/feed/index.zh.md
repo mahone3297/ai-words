@@ -11,23 +11,23 @@ keywords = ['ai words', 'feed']
 /fiːd/
 
 ## 释义
-- **名词**: 食物；饲料；营养物。例如: "[The](/post/the/) chickens [need](/post/need/) [a](/post/a/) [regular](/post/regular/) [feed](/post/feed/) [of](/post/of/) [corn](/post/corn/) [and](/post/and/) [grain](/post/grain/)."
-- **动词**: 喂养；供给食物。例如: "[She](/post/she/) feeds [the](/post/the/) cats [twice](/post/twice/) [a](/post/a/) [day](/post/day/)."
-- **动词**: 提供信息或数据。例如: "[The](/post/the/) sensor feeds [data](/post/data/) [to](/post/to/) [the](/post/the/) [computer](/post/computer/)."
+- **名词**: 食物；饲料；营养物。例如: "[The](/zh/post/the/) chickens [need](/zh/post/need/) [a](/zh/post/a/) [regular](/zh/post/regular/) [feed](/zh/post/feed/) [of](/zh/post/of/) [corn](/zh/post/corn/) [and](/zh/post/and/) [grain](/zh/post/grain/)."
+- **动词**: 喂养；供给食物。例如: "[She](/zh/post/she/) feeds [the](/zh/post/the/) cats [twice](/zh/post/twice/) [a](/zh/post/a/) [day](/zh/post/day/)."
+- **动词**: 提供信息或数据。例如: "[The](/zh/post/the/) sensor feeds [data](/zh/post/data/) [to](/zh/post/to/) [the](/zh/post/the/) [computer](/zh/post/computer/)."
 
 ## 短语
-- "[Feed](/post/feed/) [the](/post/the/) animals" 意味着给动物喂食。
-- "[Feed](/post/feed/) [the](/post/the/) [baby](/post/baby/)" 指的是给婴儿喂奶或辅食。
-- "[Feed](/post/feed/) [the](/post/the/) [machine](/post/machine/)" 可能是指输入数据到机器或设备。
+- "[Feed](/zh/post/feed/) [the](/zh/post/the/) animals" 意味着给动物喂食。
+- "[Feed](/zh/post/feed/) [the](/zh/post/the/) [baby](/zh/post/baby/)" 指的是给婴儿喂奶或辅食。
+- "[Feed](/zh/post/feed/) [the](/zh/post/the/) [machine](/zh/post/machine/)" 可能是指输入数据到机器或设备。
 
 ## 例句
-- 名词: "[The](/post/the/) [horse](/post/horse/) was given [a](/post/a/) [large](/post/large/) [feed](/post/feed/) [of](/post/of/) [hay](/post/hay/) [in](/post/in/) [the](/post/the/) [evening](/post/evening/)."
-- 动词: "[She](/post/she/) carefully fed [the](/post/the/) newborn calf [with](/post/with/) [a](/post/a/) [bottle](/post/bottle/)."
-- 动词（信息或数据）: "[The](/post/the/) [satellite](/post/satellite/) [feed](/post/feed/) allowed [us](/post/us/) [to](/post/to/) [watch](/post/watch/) [the](/post/the/) [live](/post/live/) [event](/post/event/) [from](/post/from/) [anywhere](/post/anywhere/)."
+- 名词: "[The](/zh/post/the/) [horse](/zh/post/horse/) was given [a](/zh/post/a/) [large](/zh/post/large/) [feed](/zh/post/feed/) [of](/zh/post/of/) [hay](/zh/post/hay/) [in](/zh/post/in/) [the](/zh/post/the/) [evening](/zh/post/evening/)."
+- 动词: "[She](/zh/post/she/) carefully fed [the](/zh/post/the/) newborn calf [with](/zh/post/with/) [a](/zh/post/a/) [bottle](/zh/post/bottle/)."
+- 动词（信息或数据）: "[The](/zh/post/the/) [satellite](/zh/post/satellite/) [feed](/zh/post/feed/) allowed [us](/zh/post/us/) [to](/zh/post/to/) [watch](/zh/post/watch/) [the](/zh/post/the/) [live](/zh/post/live/) [event](/zh/post/event/) [from](/zh/post/from/) [anywhere](/zh/post/anywhere/)."
 
 ## 同义词
 - Nourish
-- [Sustain](/post/sustain/)
-- [Supply](/post/supply/)
-- [Give](/post/give/) [food](/post/food/) [to](/post/to/)
-- [Provide](/post/provide/) [for](/post/for/)
+- [Sustain](/zh/post/sustain/)
+- [Supply](/zh/post/supply/)
+- [Give](/zh/post/give/) [food](/zh/post/food/) [to](/zh/post/to/)
+- [Provide](/zh/post/provide/) [for](/zh/post/for/)

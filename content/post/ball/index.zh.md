@@ -12,24 +12,24 @@ keywords = ['ai words', 'ball']
 
 ## 释义
 - **名词**:
-1. 球体，尤指圆形的运动器材。例如: "[He](/post/he/) kicked [the](/post/the/) [football](/post/football/) [with](/post/with/) [great](/post/great/) [force](/post/force/)."
-2. 球赛，舞会。例如: "[The](/post/the/) [school](/post/school/) is hosting [a](/post/a/) [charity](/post/charity/) [ball](/post/ball/) [this](/post/this/) [weekend](/post/weekend/)."
+1. 球体，尤指圆形的运动器材。例如: "[He](/zh/post/he/) kicked [the](/zh/post/the/) [football](/zh/post/football/) [with](/zh/post/with/) [great](/zh/post/great/) [force](/zh/post/force/)."
+2. 球赛，舞会。例如: "[The](/zh/post/the/) [school](/zh/post/school/) is hosting [a](/zh/post/a/) [charity](/zh/post/charity/) [ball](/zh/post/ball/) [this](/zh/post/this/) [weekend](/zh/post/weekend/)."
 
 - **动词**:
-1. 投、掷、踢球。例如: "[She](/post/she/) balled [the](/post/the/) [ball](/post/ball/) towards [the](/post/the/) [goal](/post/goal/)."
-2. 形容词用作动词，指形成成球状。例如: "[The](/post/the/) [child](/post/child/) balled [up](/post/up/) [the](/post/the/) [piece](/post/piece/) [of](/post/of/) [paper](/post/paper/)."
+1. 投、掷、踢球。例如: "[She](/zh/post/she/) balled [the](/zh/post/the/) [ball](/zh/post/ball/) towards [the](/zh/post/the/) [goal](/zh/post/goal/)."
+2. 形容词用作动词，指形成成球状。例如: "[The](/zh/post/the/) [child](/zh/post/child/) balled [up](/zh/post/up/) [the](/zh/post/the/) [piece](/zh/post/piece/) [of](/zh/post/of/) [paper](/zh/post/paper/)."
 
 ## 短语
-- "[Play](/post/play/) [ball](/post/ball/)" 意为开始比赛或玩耍。
-- "[Catch](/post/catch/) [the](/post/the/) [ball](/post/ball/)" 意为接住扔来的球。
+- "[Play](/zh/post/play/) [ball](/zh/post/ball/)" 意为开始比赛或玩耍。
+- "[Catch](/zh/post/catch/) [the](/zh/post/the/) [ball](/zh/post/ball/)" 意为接住扔来的球。
 
 ## 例句
-- 名词: "[The](/post/the/) [little](/post/little/) [boy](/post/boy/) was holding [a](/post/a/) [bright](/post/bright/) [red](/post/red/) [ball](/post/ball/) [in](/post/in/) [his](/post/his/) [hand](/post/hand/)."
-- 动词: "[The](/post/the/) pitcher [wound](/post/wound/) [up](/post/up/) [and](/post/and/) balled [the](/post/the/) [pitch](/post/pitch/) [past](/post/past/) [the](/post/the/) batter."
-- 形容词用作动词: "[She](/post/she/) balled [up](/post/up/) [the](/post/the/) yarn [into](/post/into/) [a](/post/a/) [neat](/post/neat/) [little](/post/little/) [ball](/post/ball/)."
+- 名词: "[The](/zh/post/the/) [little](/zh/post/little/) [boy](/zh/post/boy/) was holding [a](/zh/post/a/) [bright](/zh/post/bright/) [red](/zh/post/red/) [ball](/zh/post/ball/) [in](/zh/post/in/) [his](/zh/post/his/) [hand](/zh/post/hand/)."
+- 动词: "[The](/zh/post/the/) pitcher [wound](/zh/post/wound/) [up](/zh/post/up/) [and](/zh/post/and/) balled [the](/zh/post/the/) [pitch](/zh/post/pitch/) [past](/zh/post/past/) [the](/zh/post/the/) batter."
+- 形容词用作动词: "[She](/zh/post/she/) balled [up](/zh/post/up/) [the](/zh/post/the/) yarn [into](/zh/post/into/) [a](/zh/post/a/) [neat](/zh/post/neat/) [little](/zh/post/little/) [ball](/zh/post/ball/)."
 
 ## 同义词
-- [Sphere](/post/sphere/)
+- [Sphere](/zh/post/sphere/)
 - Orb
 - Ballgame (名词时)
-- [Toss](/post/toss/) (动词时，指投掷)
+- [Toss](/zh/post/toss/) (动词时，指投掷)

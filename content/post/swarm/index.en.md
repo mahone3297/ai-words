@@ -7,35 +7,35 @@ description = '[swɔːm] n.一大群 vi.密集'
 keywords = ['ai words', 'swarm']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /swɔːrm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) insects [or](/en/post/or/) animals moving [together](/en/post/together/) [in](/en/post/in/) [large](/en/post/large/) numbers, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) chaotic [manner](/en/post/manner/)**: [A](/en/post/a/) [swarm](/en/post/swarm/) [of](/en/post/of/) bees, [a](/en/post/a/) [swarm](/en/post/swarm/) [of](/en/post/of/) ants.
-- **[A](/en/post/a/) [large](/en/post/large/), [dense](/en/post/dense/) [collection](/en/post/collection/) [or](/en/post/or/) multitude**: [A](/en/post/a/) [swarm](/en/post/swarm/) [of](/en/post/of/) [people](/en/post/people/), [a](/en/post/a/) [swarm](/en/post/swarm/) [of](/en/post/of/) ideas.
+### [Noun](/post/noun/)
+- **[A](/post/a/) [group](/post/group/) [of](/post/of/) insects [or](/post/or/) animals moving [together](/post/together/) [in](/post/in/) [large](/post/large/) numbers, [often](/post/often/) [in](/post/in/) [a](/post/a/) chaotic [manner](/post/manner/)**: [A](/post/a/) [swarm](/post/swarm/) [of](/post/of/) bees, [a](/post/a/) [swarm](/post/swarm/) [of](/post/of/) ants.
+- **[A](/post/a/) [large](/post/large/), [dense](/post/dense/) [collection](/post/collection/) [or](/post/or/) multitude**: [A](/post/a/) [swarm](/post/swarm/) [of](/post/of/) [people](/post/people/), [a](/post/a/) [swarm](/post/swarm/) [of](/post/of/) ideas.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [gather](/en/post/gather/) [in](/en/post/in/) [large](/en/post/large/) numbers, [often](/en/post/often/) [suddenly](/en/post/suddenly/)**: [The](/en/post/the/) bees swarmed [around](/en/post/around/) [the](/en/post/the/) flowers.
-- **[To](/en/post/to/) overwhelm [with](/en/post/with/) [a](/en/post/a/) [sudden](/en/post/sudden/) influx**: [The](/en/post/the/) [team](/en/post/team/) was swarmed [with](/en/post/with/) inquiries [after](/en/post/after/) [their](/en/post/their/) [victory](/en/post/victory/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [gather](/post/gather/) [in](/post/in/) [large](/post/large/) numbers, [often](/post/often/) [suddenly](/post/suddenly/)**: [The](/post/the/) bees swarmed [around](/post/around/) [the](/post/the/) flowers.
+- **[To](/post/to/) overwhelm [with](/post/with/) [a](/post/a/) [sudden](/post/sudden/) influx**: [The](/post/the/) [team](/post/team/) was swarmed [with](/post/with/) inquiries [after](/post/after/) [their](/post/their/) [victory](/post/victory/).
 
-### [Adjective](/en/post/adjective/)
-- Characterized [by](/en/post/by/) [or](/en/post/or/) involving [a](/en/post/a/) [large](/en/post/large/) [number](/en/post/number/) [of](/en/post/of/) individuals [or](/en/post/or/) entities acting [together](/en/post/together/): [A](/en/post/a/) swarm-based algorithm.
+### [Adjective](/post/adjective/)
+- Characterized [by](/post/by/) [or](/post/or/) involving [a](/post/a/) [large](/post/large/) [number](/post/number/) [of](/post/of/) individuals [or](/post/or/) entities acting [together](/post/together/): [A](/post/a/) swarm-based algorithm.
 
 ## Phrases
-- "[Swarm](/en/post/swarm/) [of](/en/post/of/)" (prepositional [phrase](/en/post/phrase/)) is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [large](/en/post/large/) [number](/en/post/number/) [of](/en/post/of/) [something](/en/post/something/).
-- "[Be](/en/post/be/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [swarm](/en/post/swarm/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [among](/en/post/among/) [a](/en/post/a/) [large](/en/post/large/) [group](/en/post/group/).
-- "[Swarm](/en/post/swarm/) [with](/en/post/with/)" indicates [that](/en/post/that/) [something](/en/post/something/) is filled [or](/en/post/or/) occupied [by](/en/post/by/) [many](/en/post/many/).
+- "[Swarm](/post/swarm/) [of](/post/of/)" (prepositional [phrase](/post/phrase/)) is [often](/post/often/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [large](/post/large/) [number](/post/number/) [of](/post/of/) [something](/post/something/).
+- "[Be](/post/be/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [swarm](/post/swarm/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) [among](/post/among/) [a](/post/a/) [large](/post/large/) [group](/post/group/).
+- "[Swarm](/post/swarm/) [with](/post/with/)" indicates [that](/post/that/) [something](/post/something/) is filled [or](/post/or/) occupied [by](/post/by/) [many](/post/many/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) bees swarmed [around](/en/post/around/) [the](/en/post/the/) hive [entrance](/en/post/entrance/).
-- **[Verb](/en/post/verb/)**: [The](/en/post/the/) [crowd](/en/post/crowd/) swarmed [the](/en/post/the/) [exit](/en/post/exit/) [after](/en/post/after/) [the](/en/post/the/) [concert](/en/post/concert/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [city](/en/post/city/) streets were swarming [with](/en/post/with/) tourists [during](/en/post/during/) [the](/en/post/the/) [festival](/en/post/festival/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) bees swarmed [around](/post/around/) [the](/post/the/) hive [entrance](/post/entrance/).
+- **[Verb](/post/verb/)**: [The](/post/the/) [crowd](/post/crowd/) swarmed [the](/post/the/) [exit](/post/exit/) [after](/post/after/) [the](/post/the/) [concert](/post/concert/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [city](/post/city/) streets were swarming [with](/post/with/) tourists [during](/post/during/) [the](/post/the/) [festival](/post/festival/).
 
 ## Synonyms
-- [Colony](/en/post/colony/)
+- [Colony](/post/colony/)
 - Swarmy
-- [Dense](/en/post/dense/)
+- [Dense](/post/dense/)
 - Teeming
 - Crowded
 - Heaving

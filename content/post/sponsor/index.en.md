@@ -7,25 +7,25 @@ description = '[ˈspɔnsə] n.发起者 vt.发起'
 keywords = ['ai words', 'sponsor']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈspɒnsər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[sponsor](/en/post/sponsor/)** is [a](/en/post/a/) [person](/en/post/person/), [organization](/en/post/organization/), [or](/en/post/or/) [company](/en/post/company/) [that](/en/post/that/) provides [financial](/en/post/financial/) [or](/en/post/or/) promotional [support](/en/post/support/) [for](/en/post/for/) an [event](/en/post/event/), [project](/en/post/project/), [or](/en/post/or/) [individual](/en/post/individual/), [often](/en/post/often/) [in](/en/post/in/) [exchange](/en/post/exchange/) [for](/en/post/for/) [recognition](/en/post/recognition/) [or](/en/post/or/) benefits.
+### [Noun](/post/noun/)
+[A](/post/a/) **[sponsor](/post/sponsor/)** is [a](/post/a/) [person](/post/person/), [organization](/post/organization/), [or](/post/or/) [company](/post/company/) [that](/post/that/) provides [financial](/post/financial/) [or](/post/or/) promotional [support](/post/support/) [for](/post/for/) an [event](/post/event/), [project](/post/project/), [or](/post/or/) [individual](/post/individual/), [often](/post/often/) [in](/post/in/) [exchange](/post/exchange/) [for](/post/for/) [recognition](/post/recognition/) [or](/post/or/) benefits.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[sponsor](/en/post/sponsor/)** is [to](/en/post/to/) officially [back](/en/post/back/) [or](/en/post/or/) financially [support](/en/post/support/) [a](/en/post/a/) [project](/en/post/project/), [event](/en/post/event/), [or](/en/post/or/) [individual](/en/post/individual/), typically [with](/en/post/with/) [the](/en/post/the/) [expectation](/en/post/expectation/) [of](/en/post/of/) visibility [or](/en/post/or/) benefits.
+### [Verb](/post/verb/)
+[To](/post/to/) **[sponsor](/post/sponsor/)** is [to](/post/to/) officially [back](/post/back/) [or](/post/or/) financially [support](/post/support/) [a](/post/a/) [project](/post/project/), [event](/post/event/), [or](/post/or/) [individual](/post/individual/), typically [with](/post/with/) [the](/post/the/) [expectation](/post/expectation/) [of](/post/of/) visibility [or](/post/or/) benefits.
 
 ## Phrases
-- "[Sponsor](/en/post/sponsor/) an [event](/en/post/event/)" [means](/en/post/means/) [to](/en/post/to/) [fund](/en/post/fund/) [or](/en/post/or/) endorse [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/).
-- "[Lead](/en/post/lead/) [sponsor](/en/post/sponsor/)" refers [to](/en/post/to/) [the](/en/post/the/) [primary](/en/post/primary/) supporter [of](/en/post/of/) [a](/en/post/a/) [project](/en/post/project/) [or](/en/post/or/) initiative.
-- "[Brand](/en/post/brand/) sponsorship" is [when](/en/post/when/) [a](/en/post/a/) [company](/en/post/company/) supports [a](/en/post/a/) [program](/en/post/program/) [to](/en/post/to/) [promote](/en/post/promote/) [its](/en/post/its/) products [or](/en/post/or/) services.
+- "[Sponsor](/post/sponsor/) an [event](/post/event/)" [means](/post/means/) [to](/post/to/) [fund](/post/fund/) [or](/post/or/) endorse [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/).
+- "[Lead](/post/lead/) [sponsor](/post/sponsor/)" refers [to](/post/to/) [the](/post/the/) [primary](/post/primary/) supporter [of](/post/of/) [a](/post/a/) [project](/post/project/) [or](/post/or/) initiative.
+- "[Brand](/post/brand/) sponsorship" is [when](/post/when/) [a](/post/a/) [company](/post/company/) supports [a](/post/a/) [program](/post/program/) [to](/post/to/) [promote](/post/promote/) [its](/post/its/) products [or](/post/or/) services.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [local](/en/post/local/) [business](/en/post/business/) was [the](/en/post/the/) [main](/en/post/main/) [sponsor](/en/post/sponsor/) [of](/en/post/of/) [the](/en/post/the/) [charity](/en/post/charity/) marathon."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [university](/en/post/university/) sponsored [several](/en/post/several/) students [to](/en/post/to/) [attend](/en/post/attend/) [the](/en/post/the/) [international](/en/post/international/) [conference](/en/post/conference/)."
-- **Phrasal [verb](/en/post/verb/)**: "[The](/en/post/the/) sports team's [success](/en/post/success/) was [largely](/en/post/largely/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [generous](/en/post/generous/) sponsorship [from](/en/post/from/) [a](/en/post/a/) [major](/en/post/major/) [corporation](/en/post/corporation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [local](/post/local/) [business](/post/business/) was [the](/post/the/) [main](/post/main/) [sponsor](/post/sponsor/) [of](/post/of/) [the](/post/the/) [charity](/post/charity/) marathon."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [university](/post/university/) sponsored [several](/post/several/) students [to](/post/to/) [attend](/post/attend/) [the](/post/the/) [international](/post/international/) [conference](/post/conference/)."
+- **Phrasal [verb](/post/verb/)**: "[The](/post/the/) sports team's [success](/post/success/) was [largely](/post/largely/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [generous](/post/generous/) sponsorship [from](/post/from/) [a](/post/a/) [major](/post/major/) [corporation](/post/corporation/)."
 
 ## Synonyms
 - Backer
@@ -36,8 +36,8 @@ keywords = ['ai words', 'sponsor']
 - Promoter
 
 ## Antonyms
-- [Opponent](/en/post/opponent/)
-- [Critic](/en/post/critic/)
+- [Opponent](/post/opponent/)
+- [Critic](/post/critic/)
 - Opposer
 - Non-sponsor
 - Detractor

@@ -7,40 +7,40 @@ description = '[ˈləuə] a.较低的 vt.放下'
 keywords = ['ai words', 'lower']
 +++
 
-# [Lower](/en/post/lower/)
+# [Lower](/post/lower/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈloʊər/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Situated [below](/en/post/below/) [or](/en/post/or/) [further](/en/post/further/) [down](/en/post/down/) [on](/en/post/on/) [a](/en/post/a/) [vertical](/en/post/vertical/) [scale](/en/post/scale/); [at](/en/post/at/) [a](/en/post/a/) [lower](/en/post/lower/) [level](/en/post/level/) [or](/en/post/or/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lower](/en/post/lower/) [shelf](/en/post/shelf/) holds [my](/en/post/my/) books."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [place](/en/post/place/) [something](/en/post/something/) downwards [to](/en/post/to/) [a](/en/post/a/) [lower](/en/post/lower/) [position](/en/post/position/), [or](/en/post/or/) [to](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) smaller, weaker, [or](/en/post/or/) [less](/en/post/less/) [in](/en/post/in/) [quantity](/en/post/quantity/) [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) lowered [her](/en/post/her/) [voice](/en/post/voice/) [so](/en/post/so/) [as](/en/post/as/) [not](/en/post/not/) [to](/en/post/to/) [disturb](/en/post/disturb/) [the](/en/post/the/) sleeping [baby](/en/post/baby/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [lower](/en/post/lower/) [part](/en/post/part/) [or](/en/post/or/) [portion](/en/post/portion/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [in](/en/post/in/) [comparison](/en/post/comparison/) [to](/en/post/to/) [another](/en/post/another/) [part](/en/post/part/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lower](/en/post/lower/) [deck](/en/post/deck/) [of](/en/post/of/) [the](/en/post/the/) [ship](/en/post/ship/)."
+- **[Adjective](/post/adjective/)**: Situated [below](/post/below/) [or](/post/or/) [further](/post/further/) [down](/post/down/) [on](/post/on/) [a](/post/a/) [vertical](/post/vertical/) [scale](/post/scale/); [at](/post/at/) [a](/post/a/) [lower](/post/lower/) [level](/post/level/) [or](/post/or/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lower](/post/lower/) [shelf](/post/shelf/) holds [my](/post/my/) books."
+- **[Verb](/post/verb/)**: [To](/post/to/) [move](/post/move/) [or](/post/or/) [place](/post/place/) [something](/post/something/) downwards [to](/post/to/) [a](/post/a/) [lower](/post/lower/) [position](/post/position/), [or](/post/or/) [to](/post/to/) [make](/post/make/) [something](/post/something/) smaller, weaker, [or](/post/or/) [less](/post/less/) [in](/post/in/) [quantity](/post/quantity/) [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) lowered [her](/post/her/) [voice](/post/voice/) [so](/post/so/) [as](/post/as/) [not](/post/not/) [to](/post/to/) [disturb](/post/disturb/) [the](/post/the/) sleeping [baby](/post/baby/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [lower](/post/lower/) [part](/post/part/) [or](/post/or/) [portion](/post/portion/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [in](/post/in/) [comparison](/post/comparison/) [to](/post/to/) [another](/post/another/) [part](/post/part/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lower](/post/lower/) [deck](/post/deck/) [of](/post/of/) [the](/post/the/) [ship](/post/ship/)."
 
-### [Adjective](/en/post/adjective/) (Definitions & Examples)
-- _ [comparative](/en/post/comparative/) [form](/en/post/form/) [of](/en/post/of/) 'low'_: [Less](/en/post/less/) [in](/en/post/in/) [height](/en/post/height/), [rank](/en/post/rank/), [importance](/en/post/importance/), [or](/en/post/or/) [degree](/en/post/degree/). [Example](/en/post/example/): "[He](/en/post/he/) sat [on](/en/post/on/) [the](/en/post/the/) [lower](/en/post/lower/) [branch](/en/post/branch/) [of](/en/post/of/) [the](/en/post/the/) [tree](/en/post/tree/)."
-- _relating [to](/en/post/to/) prices, quantities, [or](/en/post/or/) standards_: Reduced [or](/en/post/or/) [inferior](/en/post/inferior/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is offering [a](/en/post/a/) [lower](/en/post/lower/) [price](/en/post/price/) [for](/en/post/for/) [their](/en/post/their/) products [this](/en/post/this/) [month](/en/post/month/)."
+### [Adjective](/post/adjective/) (Definitions & Examples)
+- _ [comparative](/post/comparative/) [form](/post/form/) [of](/post/of/) 'low'_: [Less](/post/less/) [in](/post/in/) [height](/post/height/), [rank](/post/rank/), [importance](/post/importance/), [or](/post/or/) [degree](/post/degree/). [Example](/post/example/): "[He](/post/he/) sat [on](/post/on/) [the](/post/the/) [lower](/post/lower/) [branch](/post/branch/) [of](/post/of/) [the](/post/the/) [tree](/post/tree/)."
+- _relating [to](/post/to/) prices, quantities, [or](/post/or/) standards_: Reduced [or](/post/or/) [inferior](/post/inferior/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) is offering [a](/post/a/) [lower](/post/lower/) [price](/post/price/) [for](/post/for/) [their](/post/their/) products [this](/post/this/) [month](/post/month/)."
 
-### [Verb](/en/post/verb/) (Definitions & Examples)
-- _to [move](/en/post/move/) [something](/en/post/something/) down_ : [To](/en/post/to/) [cause](/en/post/cause/) [to](/en/post/to/) [descend](/en/post/descend/) [or](/en/post/or/) [dip](/en/post/dip/). [Example](/en/post/example/): "[Lower](/en/post/lower/) [the](/en/post/the/) [flag](/en/post/flag/) [slowly](/en/post/slowly/)."
-- _to reduce_ : [To](/en/post/to/) [make](/en/post/make/) smaller [or](/en/post/or/) diminish [in](/en/post/in/) [amount](/en/post/amount/), [level](/en/post/level/), [or](/en/post/or/) [intensity](/en/post/intensity/). [Example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) decided [to](/en/post/to/) [lower](/en/post/lower/) taxes [for](/en/post/for/) [small](/en/post/small/) businesses."
+### [Verb](/post/verb/) (Definitions & Examples)
+- _to [move](/post/move/) [something](/post/something/) down_ : [To](/post/to/) [cause](/post/cause/) [to](/post/to/) [descend](/post/descend/) [or](/post/or/) [dip](/post/dip/). [Example](/post/example/): "[Lower](/post/lower/) [the](/post/the/) [flag](/post/flag/) [slowly](/post/slowly/)."
+- _to reduce_ : [To](/post/to/) [make](/post/make/) smaller [or](/post/or/) diminish [in](/post/in/) [amount](/post/amount/), [level](/post/level/), [or](/post/or/) [intensity](/post/intensity/). [Example](/post/example/): "[The](/post/the/) [government](/post/government/) decided [to](/post/to/) [lower](/post/lower/) taxes [for](/post/for/) [small](/post/small/) businesses."
 
 ## Phrases
-- "[Lower](/en/post/lower/) [oneself](/en/post/oneself/)" [means](/en/post/means/) [to](/en/post/to/) [humble](/en/post/humble/) [oneself](/en/post/oneself/) [or](/en/post/or/) [stoop](/en/post/stoop/) [to](/en/post/to/) [a](/en/post/a/) [less](/en/post/less/) dignified [level](/en/post/level/).
-- "[To](/en/post/to/) [lower](/en/post/lower/) one's [gaze](/en/post/gaze/)" [means](/en/post/means/) [to](/en/post/to/) [look](/en/post/look/) [downward](/en/post/downward/) respectfully [or](/en/post/or/) modestly.
-- "[Lower](/en/post/lower/) [bound](/en/post/bound/)" refers [to](/en/post/to/) [the](/en/post/the/) smallest [possible](/en/post/possible/) [value](/en/post/value/) [in](/en/post/in/) [a](/en/post/a/) [range](/en/post/range/) [or](/en/post/or/) [set](/en/post/set/).
+- "[Lower](/post/lower/) [oneself](/post/oneself/)" [means](/post/means/) [to](/post/to/) [humble](/post/humble/) [oneself](/post/oneself/) [or](/post/or/) [stoop](/post/stoop/) [to](/post/to/) [a](/post/a/) [less](/post/less/) dignified [level](/post/level/).
+- "[To](/post/to/) [lower](/post/lower/) one's [gaze](/post/gaze/)" [means](/post/means/) [to](/post/to/) [look](/post/look/) [downward](/post/downward/) respectfully [or](/post/or/) modestly.
+- "[Lower](/post/lower/) [bound](/post/bound/)" refers [to](/post/to/) [the](/post/the/) smallest [possible](/post/possible/) [value](/post/value/) [in](/post/in/) [a](/post/a/) [range](/post/range/) [or](/post/or/) [set](/post/set/).
   
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [lower](/en/post/lower/) [half](/en/post/half/) [of](/en/post/of/) [the](/en/post/the/) [mountain](/en/post/mountain/) is covered [with](/en/post/with/) [dense](/en/post/dense/) [forest](/en/post/forest/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) lowered [his](/en/post/his/) [head](/en/post/head/) [in](/en/post/in/) [shame](/en/post/shame/) [when](/en/post/when/) [he](/en/post/he/) realized [his](/en/post/his/) [mistake](/en/post/mistake/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [lower](/en/post/lower/) classes [of](/en/post/of/) [society](/en/post/society/) [often](/en/post/often/) [struggle](/en/post/struggle/) [with](/en/post/with/) [economic](/en/post/economic/) inequality."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [lower](/post/lower/) [half](/post/half/) [of](/post/of/) [the](/post/the/) [mountain](/post/mountain/) is covered [with](/post/with/) [dense](/post/dense/) [forest](/post/forest/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) lowered [his](/post/his/) [head](/post/head/) [in](/post/in/) [shame](/post/shame/) [when](/post/when/) [he](/post/he/) realized [his](/post/his/) [mistake](/post/mistake/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [lower](/post/lower/) classes [of](/post/of/) [society](/post/society/) [often](/post/often/) [struggle](/post/struggle/) [with](/post/with/) [economic](/post/economic/) inequality."
 
 ## Synonyms
-- [Decrease](/en/post/decrease/)
-- [Reduce](/en/post/reduce/)
+- [Decrease](/post/decrease/)
+- [Reduce](/post/reduce/)
 - Diminish
-- [Descend](/en/post/descend/)
-- [Depress](/en/post/depress/) ([in](/en/post/in/) terms [of](/en/post/of/) [movement](/en/post/movement/))
-- Lower-level ([as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/))
-- [Inferior](/en/post/inferior/)
-- Subordinate ([in](/en/post/in/) terms [of](/en/post/of/) [rank](/en/post/rank/) [or](/en/post/or/) [position](/en/post/position/))
+- [Descend](/post/descend/)
+- [Depress](/post/depress/) ([in](/post/in/) terms [of](/post/of/) [movement](/post/movement/))
+- Lower-level ([as](/post/as/) [a](/post/a/) [noun](/post/noun/))
+- [Inferior](/post/inferior/)
+- Subordinate ([in](/post/in/) terms [of](/post/of/) [rank](/post/rank/) [or](/post/or/) [position](/post/position/))

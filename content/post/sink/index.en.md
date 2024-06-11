@@ -7,39 +7,39 @@ description = '[siŋk] vi.下沉；下垂；降低'
 keywords = ['ai words', 'sink']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪŋk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [device](/en/post/device/) [with](/en/post/with/) [a](/en/post/a/) [basin](/en/post/basin/) [for](/en/post/for/) holding [water](/en/post/water/), typically [one](/en/post/one/) fixed [in](/en/post/in/) [a](/en/post/a/) countertop [or](/en/post/or/) built [into](/en/post/into/) [a](/en/post/a/) [floor](/en/post/floor/), [used](/en/post/used/) [for](/en/post/for/) washing hands, dishes, [or](/en/post/or/) [food](/en/post/food/).**
-   [Example](/en/post/example/): "[The](/en/post/the/) [kitchen](/en/post/kitchen/) [sink](/en/post/sink/) was [full](/en/post/full/) [of](/en/post/of/) [dirty](/en/post/dirty/) dishes."
-2. **[A](/en/post/a/) [low](/en/post/low/) [point](/en/post/point/) [or](/en/post/or/) [downward](/en/post/downward/) [slope](/en/post/slope/) [in](/en/post/in/) [the](/en/post/the/) [ground](/en/post/ground/) [or](/en/post/or/) [surface](/en/post/surface/).**
-   [Example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) had [a](/en/post/a/) [gentle](/en/post/gentle/) [sink](/en/post/sink/) [at](/en/post/at/) [the](/en/post/the/) [edge](/en/post/edge/)."
-3. **[To](/en/post/to/) [descend](/en/post/descend/) [or](/en/post/or/) [move](/en/post/move/) [down](/en/post/down/) [below](/en/post/below/) [a](/en/post/a/) [certain](/en/post/certain/) [level](/en/post/level/) [or](/en/post/or/) [position](/en/post/position/).**
-   [Example](/en/post/example/): "[The](/en/post/the/) [ship](/en/post/ship/) sank [to](/en/post/to/) [the](/en/post/the/) [bottom](/en/post/bottom/) [of](/en/post/of/) [the](/en/post/the/) [ocean](/en/post/ocean/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [device](/post/device/) [with](/post/with/) [a](/post/a/) [basin](/post/basin/) [for](/post/for/) holding [water](/post/water/), typically [one](/post/one/) fixed [in](/post/in/) [a](/post/a/) countertop [or](/post/or/) built [into](/post/into/) [a](/post/a/) [floor](/post/floor/), [used](/post/used/) [for](/post/for/) washing hands, dishes, [or](/post/or/) [food](/post/food/).**
+   [Example](/post/example/): "[The](/post/the/) [kitchen](/post/kitchen/) [sink](/post/sink/) was [full](/post/full/) [of](/post/of/) [dirty](/post/dirty/) dishes."
+2. **[A](/post/a/) [low](/post/low/) [point](/post/point/) [or](/post/or/) [downward](/post/downward/) [slope](/post/slope/) [in](/post/in/) [the](/post/the/) [ground](/post/ground/) [or](/post/or/) [surface](/post/surface/).**
+   [Example](/post/example/): "[The](/post/the/) [garden](/post/garden/) had [a](/post/a/) [gentle](/post/gentle/) [sink](/post/sink/) [at](/post/at/) [the](/post/the/) [edge](/post/edge/)."
+3. **[To](/post/to/) [descend](/post/descend/) [or](/post/or/) [move](/post/move/) [down](/post/down/) [below](/post/below/) [a](/post/a/) [certain](/post/certain/) [level](/post/level/) [or](/post/or/) [position](/post/position/).**
+   [Example](/post/example/): "[The](/post/the/) [ship](/post/ship/) sank [to](/post/to/) [the](/post/the/) [bottom](/post/bottom/) [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [go](/en/post/go/) [down](/en/post/down/) [below](/en/post/below/) [the](/en/post/the/) [surface](/en/post/surface/), typically [under](/en/post/under/) [water](/en/post/water/).**
-   [Example](/en/post/example/): "[The](/en/post/the/) [submarine](/en/post/submarine/) sank [deep](/en/post/deep/) [into](/en/post/into/) [the](/en/post/the/) abyss."
-2. **[To](/en/post/to/) [lose](/en/post/lose/) [or](/en/post/or/) [decrease](/en/post/decrease/) [in](/en/post/in/) [value](/en/post/value/), [level](/en/post/level/), [or](/en/post/or/) effectiveness.**
-   [Example](/en/post/example/): "[The](/en/post/the/) [stock](/en/post/stock/) [price](/en/post/price/) sank [after](/en/post/after/) [the](/en/post/the/) disappointing earnings [report](/en/post/report/)."
-3. **[To](/en/post/to/) [be](/en/post/be/) absorbed [or](/en/post/or/) assimilated [by](/en/post/by/) [something](/en/post/something/).**
-   [Example](/en/post/example/): "[The](/en/post/the/) [oil](/en/post/oil/) soaked [into](/en/post/into/) [the](/en/post/the/) porous [wood](/en/post/wood/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [go](/post/go/) [down](/post/down/) [below](/post/below/) [the](/post/the/) [surface](/post/surface/), typically [under](/post/under/) [water](/post/water/).**
+   [Example](/post/example/): "[The](/post/the/) [submarine](/post/submarine/) sank [deep](/post/deep/) [into](/post/into/) [the](/post/the/) abyss."
+2. **[To](/post/to/) [lose](/post/lose/) [or](/post/or/) [decrease](/post/decrease/) [in](/post/in/) [value](/post/value/), [level](/post/level/), [or](/post/or/) effectiveness.**
+   [Example](/post/example/): "[The](/post/the/) [stock](/post/stock/) [price](/post/price/) sank [after](/post/after/) [the](/post/the/) disappointing earnings [report](/post/report/)."
+3. **[To](/post/to/) [be](/post/be/) absorbed [or](/post/or/) assimilated [by](/post/by/) [something](/post/something/).**
+   [Example](/post/example/): "[The](/post/the/) [oil](/post/oil/) soaked [into](/post/into/) [the](/post/the/) porous [wood](/post/wood/)."
 
 ## Phrases
-- "[Sink](/en/post/sink/) [into](/en/post/into/) [a](/en/post/a/) [chair](/en/post/chair/)" [means](/en/post/means/) [to](/en/post/to/) [lower](/en/post/lower/) [oneself](/en/post/oneself/) comfortably [into](/en/post/into/) [a](/en/post/a/) [seat](/en/post/seat/).
-- "[Sink](/en/post/sink/) one's teeth [into](/en/post/into/)" implies [to](/en/post/to/) [become](/en/post/become/) engrossed [or](/en/post/or/) focused [on](/en/post/on/) [something](/en/post/something/).
-- "[Sink](/en/post/sink/) [with](/en/post/with/) [a](/en/post/a/) sinking [feeling](/en/post/feeling/)" describes [a](/en/post/a/) [sudden](/en/post/sudden/) realization [of](/en/post/of/) disappointment [or](/en/post/or/) [worry](/en/post/worry/).
+- "[Sink](/post/sink/) [into](/post/into/) [a](/post/a/) [chair](/post/chair/)" [means](/post/means/) [to](/post/to/) [lower](/post/lower/) [oneself](/post/oneself/) comfortably [into](/post/into/) [a](/post/a/) [seat](/post/seat/).
+- "[Sink](/post/sink/) one's teeth [into](/post/into/)" implies [to](/post/to/) [become](/post/become/) engrossed [or](/post/or/) focused [on](/post/on/) [something](/post/something/).
+- "[Sink](/post/sink/) [with](/post/with/) [a](/post/a/) sinking [feeling](/post/feeling/)" describes [a](/post/a/) [sudden](/post/sudden/) realization [of](/post/of/) disappointment [or](/post/or/) [worry](/post/worry/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) plumber replaced [the](/en/post/the/) [old](/en/post/old/) [sink](/en/post/sink/) [with](/en/post/with/) [a](/en/post/a/) [modern](/en/post/modern/) [one](/en/post/one/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [boat](/en/post/boat/) began [to](/en/post/to/) [sink](/en/post/sink/) [after](/en/post/after/) [a](/en/post/a/) [collision](/en/post/collision/) [with](/en/post/with/) [another](/en/post/another/) [vessel](/en/post/vessel/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) company's [reputation](/en/post/reputation/) sank [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) scandal."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) plumber replaced [the](/post/the/) [old](/post/old/) [sink](/post/sink/) [with](/post/with/) [a](/post/a/) [modern](/post/modern/) [one](/post/one/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [boat](/post/boat/) began [to](/post/to/) [sink](/post/sink/) [after](/post/after/) [a](/post/a/) [collision](/post/collision/) [with](/post/with/) [another](/post/another/) [vessel](/post/vessel/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) company's [reputation](/post/reputation/) sank [due](/post/due/) [to](/post/to/) [the](/post/the/) scandal."
 
 ## Synonyms
 -下沉
--[Plunge](/en/post/plunge/)
--[Descend](/en/post/descend/)
--[Melt](/en/post/melt/)
--[Submerge](/en/post/submerge/)
+-[Plunge](/post/plunge/)
+-[Descend](/post/descend/)
+-[Melt](/post/melt/)
+-[Submerge](/post/submerge/)

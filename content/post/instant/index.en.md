@@ -7,30 +7,30 @@ description = '[ˈinstənt] n.瞬间 a.立即的'
 keywords = ['ai words', 'instant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪnstənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [very](/en/post/very/) [short](/en/post/short/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/); an [instant](/en/post/instant/) [moment](/en/post/moment/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [accident](/en/post/accident/) happened [in](/en/post/in/) [the](/en/post/the/) blink [of](/en/post/of/) an [instant](/en/post/instant/)."
-- **[Adjective](/en/post/adjective/)**: Occurring [or](/en/post/or/) acting [without](/en/post/without/) [any](/en/post/any/) [delay](/en/post/delay/); [immediate](/en/post/immediate/). [For](/en/post/for/) [example](/en/post/example/): "[Instant](/en/post/instant/) [coffee](/en/post/coffee/) dissolves [quickly](/en/post/quickly/) [in](/en/post/in/) [hot](/en/post/hot/) [water](/en/post/water/)."
-- **[Noun](/en/post/noun/) (informal)**: [A](/en/post/a/) [single](/en/post/single/) serving [or](/en/post/or/) [packet](/en/post/packet/) [of](/en/post/of/) [a](/en/post/a/) [product](/en/post/product/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) prepared [immediately](/en/post/immediately/), [such](/en/post/such/) [as](/en/post/as/) [instant](/en/post/instant/) noodles [or](/en/post/or/) [soup](/en/post/soup/). [For](/en/post/for/) [example](/en/post/example/): "I [just](/en/post/just/) [need](/en/post/need/) [to](/en/post/to/) [boil](/en/post/boil/) [some](/en/post/some/) [water](/en/post/water/) [for](/en/post/for/) [the](/en/post/the/) [instant](/en/post/instant/) ramen."
+- **[Noun](/post/noun/)**: [A](/post/a/) [very](/post/very/) [short](/post/short/) [period](/post/period/) [of](/post/of/) [time](/post/time/); an [instant](/post/instant/) [moment](/post/moment/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [accident](/post/accident/) happened [in](/post/in/) [the](/post/the/) blink [of](/post/of/) an [instant](/post/instant/)."
+- **[Adjective](/post/adjective/)**: Occurring [or](/post/or/) acting [without](/post/without/) [any](/post/any/) [delay](/post/delay/); [immediate](/post/immediate/). [For](/post/for/) [example](/post/example/): "[Instant](/post/instant/) [coffee](/post/coffee/) dissolves [quickly](/post/quickly/) [in](/post/in/) [hot](/post/hot/) [water](/post/water/)."
+- **[Noun](/post/noun/) (informal)**: [A](/post/a/) [single](/post/single/) serving [or](/post/or/) [packet](/post/packet/) [of](/post/of/) [a](/post/a/) [product](/post/product/) [that](/post/that/) [can](/post/can/) [be](/post/be/) prepared [immediately](/post/immediately/), [such](/post/such/) [as](/post/as/) [instant](/post/instant/) noodles [or](/post/or/) [soup](/post/soup/). [For](/post/for/) [example](/post/example/): "I [just](/post/just/) [need](/post/need/) [to](/post/to/) [boil](/post/boil/) [some](/post/some/) [water](/post/water/) [for](/post/for/) [the](/post/the/) [instant](/post/instant/) ramen."
 
 ## Phrases
-- "[In](/en/post/in/) an [instant](/en/post/instant/)": [This](/en/post/this/) [phrase](/en/post/phrase/) [means](/en/post/means/) [something](/en/post/something/) happens [very](/en/post/very/) [quickly](/en/post/quickly/) [or](/en/post/or/) [suddenly](/en/post/suddenly/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [room](/en/post/room/) filled [with](/en/post/with/) [laughter](/en/post/laughter/) [in](/en/post/in/) an [instant](/en/post/instant/)."
-- "[At](/en/post/at/) [your](/en/post/your/) [instant](/en/post/instant/) [command](/en/post/command/)": [Meaning](/en/post/meaning/) [something](/en/post/something/) is [ready](/en/post/ready/) [or](/en/post/or/) [available](/en/post/available/) [to](/en/post/to/) [be](/en/post/be/) [used](/en/post/used/) [immediately](/en/post/immediately/) [upon](/en/post/upon/) [request](/en/post/request/). [For](/en/post/for/) [example](/en/post/example/): "[With](/en/post/with/) [this](/en/post/this/) [smart](/en/post/smart/) [device](/en/post/device/), [all](/en/post/all/) [your](/en/post/your/) favorite songs are [at](/en/post/at/) [your](/en/post/your/) [instant](/en/post/instant/) [command](/en/post/command/)."
+- "[In](/post/in/) an [instant](/post/instant/)": [This](/post/this/) [phrase](/post/phrase/) [means](/post/means/) [something](/post/something/) happens [very](/post/very/) [quickly](/post/quickly/) [or](/post/or/) [suddenly](/post/suddenly/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [room](/post/room/) filled [with](/post/with/) [laughter](/post/laughter/) [in](/post/in/) an [instant](/post/instant/)."
+- "[At](/post/at/) [your](/post/your/) [instant](/post/instant/) [command](/post/command/)": [Meaning](/post/meaning/) [something](/post/something/) is [ready](/post/ready/) [or](/post/or/) [available](/post/available/) [to](/post/to/) [be](/post/be/) [used](/post/used/) [immediately](/post/immediately/) [upon](/post/upon/) [request](/post/request/). [For](/post/for/) [example](/post/example/): "[With](/post/with/) [this](/post/this/) [smart](/post/smart/) [device](/post/device/), [all](/post/all/) [your](/post/your/) favorite songs are [at](/post/at/) [your](/post/your/) [instant](/post/instant/) [command](/post/command/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [camera](/en/post/camera/) captured [the](/en/post/the/) [exact](/en/post/exact/) [instant](/en/post/instant/) [the](/en/post/the/) [lightning](/en/post/lightning/) struck [the](/en/post/the/) [tree](/en/post/tree/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) had an [instant](/en/post/instant/) [dislike](/en/post/dislike/) [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) neighbor."
-- **[Noun](/en/post/noun/) (informal)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [he](/en/post/he/) opted [for](/en/post/for/) an [easy](/en/post/easy/) [dinner](/en/post/dinner/) [of](/en/post/of/) [instant](/en/post/instant/) mashed potatoes."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [camera](/post/camera/) captured [the](/post/the/) [exact](/post/exact/) [instant](/post/instant/) [the](/post/the/) [lightning](/post/lightning/) struck [the](/post/the/) [tree](/post/tree/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) had an [instant](/post/instant/) [dislike](/post/dislike/) [for](/post/for/) [the](/post/the/) [new](/post/new/) neighbor."
+- **[Noun](/post/noun/) (informal)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) opted [for](/post/for/) an [easy](/post/easy/) [dinner](/post/dinner/) [of](/post/of/) [instant](/post/instant/) mashed potatoes."
 
 ## Synonyms
-- [Moment](/en/post/moment/)
-- [Minute](/en/post/minute/)
-- [Second](/en/post/second/)
-- [Immediate](/en/post/immediate/)
+- [Moment](/post/moment/)
+- [Minute](/post/minute/)
+- [Second](/post/second/)
+- [Immediate](/post/immediate/)
 - Instantaneous
-- [Swift](/en/post/swift/)
-- [Prompt](/en/post/prompt/)
-- On-the-spot ([for](/en/post/for/) [the](/en/post/the/) [adjective](/en/post/adjective/) [sense](/en/post/sense/))
-- Ready-made ([for](/en/post/for/) [the](/en/post/the/) informal [noun](/en/post/noun/) [sense](/en/post/sense/))
+- [Swift](/post/swift/)
+- [Prompt](/post/prompt/)
+- On-the-spot ([for](/post/for/) [the](/post/the/) [adjective](/post/adjective/) [sense](/post/sense/))
+- Ready-made ([for](/post/for/) [the](/post/the/) informal [noun](/post/noun/) [sense](/post/sense/))

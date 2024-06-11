@@ -11,20 +11,20 @@ keywords = ['ai words', 'wisdom']
 /ˈwɪzdəm/
 
 ## 释义
-- **名词**: 高度的智慧，明智或有洞察力的知识。例如: "[She](/post/she/) is known [for](/post/for/) [her](/post/her/) [great](/post/great/) [wisdom](/post/wisdom/) [in](/post/in/) solving [complex](/post/complex/) problems."
-- **形容词**: 具有智慧的，明智的。例如: "[The](/post/the/) [wise](/post/wise/) [decision](/post/decision/) was [to](/post/to/) [seek](/post/seek/) [professional](/post/professional/) [help](/post/help/)."
+- **名词**: 高度的智慧，明智或有洞察力的知识。例如: "[She](/zh/post/she/) is known [for](/zh/post/for/) [her](/zh/post/her/) [great](/zh/post/great/) [wisdom](/zh/post/wisdom/) [in](/zh/post/in/) solving [complex](/zh/post/complex/) problems."
+- **形容词**: 具有智慧的，明智的。例如: "[The](/zh/post/the/) [wise](/zh/post/wise/) [decision](/zh/post/decision/) was [to](/zh/post/to/) [seek](/zh/post/seek/) [professional](/zh/post/professional/) [help](/zh/post/help/)."
 
 ## 短语
-- "[Ancient](/post/ancient/) [wisdom](/post/wisdom/)" 指流传已久的古老智慧或知识。
-- "[Wisdom](/post/wisdom/) [of](/post/of/) [the](/post/the/) crowds" 指集体智慧，认为大众的综合判断往往比单个人更准确。
+- "[Ancient](/zh/post/ancient/) [wisdom](/zh/post/wisdom/)" 指流传已久的古老智慧或知识。
+- "[Wisdom](/zh/post/wisdom/) [of](/zh/post/of/) [the](/zh/post/the/) crowds" 指集体智慧，认为大众的综合判断往往比单个人更准确。
 
 ## 例句
-- 名词: "[His](/post/his/) words were filled [with](/post/with/) [the](/post/the/) [wisdom](/post/wisdom/) [of](/post/of/) [a](/post/a/) [life](/post/life/) well-lived."
-- 形容词: "[It](/post/it/) was [a](/post/a/) [wise](/post/wise/) [choice](/post/choice/) [to](/post/to/) [invest](/post/invest/) [in](/post/in/) renewable [energy](/post/energy/)."
+- 名词: "[His](/zh/post/his/) words were filled [with](/zh/post/with/) [the](/zh/post/the/) [wisdom](/zh/post/wisdom/) [of](/zh/post/of/) [a](/zh/post/a/) [life](/zh/post/life/) well-lived."
+- 形容词: "[It](/zh/post/it/) was [a](/zh/post/a/) [wise](/zh/post/wise/) [choice](/zh/post/choice/) [to](/zh/post/to/) [invest](/zh/post/invest/) [in](/zh/post/in/) renewable [energy](/zh/post/energy/)."
 
 ## 同义词
-- [Knowledge](/post/knowledge/)
-- [Understanding](/post/understanding/)
+- [Knowledge](/zh/post/knowledge/)
+- [Understanding](/zh/post/understanding/)
 - Insight
 - Prudence
 - sagacity

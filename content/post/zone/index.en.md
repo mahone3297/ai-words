@@ -7,40 +7,40 @@ description = '[zəun] n.地区，区域，范围'
 keywords = ['ai words', 'zone']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈzōn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Zone](/en/post/zone/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [region](/en/post/region/) [or](/en/post/or/) [area](/en/post/area/) characterized [by](/en/post/by/) [specific](/en/post/specific/) features, [such](/en/post/such/) [as](/en/post/as/) [climate](/en/post/climate/), [altitude](/en/post/altitude/), [or](/en/post/or/) [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) temperate [zone](/en/post/zone/) is [where](/en/post/where/) [we](/en/post/we/) [find](/en/post/find/) deciduous forests."
-2. **Demographic [zone](/en/post/zone/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [group](/en/post/group/) [within](/en/post/within/) [a](/en/post/a/) [population](/en/post/population/) based [on](/en/post/on/) shared characteristics [like](/en/post/like/) [age](/en/post/age/), [income](/en/post/income/), [or](/en/post/or/) lifestyle. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) downtown [shopping](/en/post/shopping/) [district](/en/post/district/) is [a](/en/post/a/) [popular](/en/post/popular/) [destination](/en/post/destination/) [for](/en/post/for/) [young](/en/post/young/) professionals."
-3. **[Safety](/en/post/safety/) [zone](/en/post/zone/)** ([noun](/en/post/noun/)): An [area](/en/post/area/) designated [for](/en/post/for/) [safety](/en/post/safety/), [like](/en/post/like/) [a](/en/post/a/) no-entry [or](/en/post/or/) low-speed [zone](/en/post/zone/). [For](/en/post/for/) [example](/en/post/example/): "Children [must](/en/post/must/) [stay](/en/post/stay/) [in](/en/post/in/) [the](/en/post/the/) [safety](/en/post/safety/) [zone](/en/post/zone/) [while](/en/post/while/) playing [on](/en/post/on/) [the](/en/post/the/) [playground](/en/post/playground/)."
-4. **[Air](/en/post/air/) [traffic](/en/post/traffic/) [control](/en/post/control/) [zone](/en/post/zone/)** ([noun](/en/post/noun/)): [A](/en/post/a/) designated [area](/en/post/area/) [where](/en/post/where/) [aircraft](/en/post/aircraft/) are managed [by](/en/post/by/) [air](/en/post/air/) [traffic](/en/post/traffic/) controllers. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [flight](/en/post/flight/) was delayed [due](/en/post/due/) [to](/en/post/to/) [a](/en/post/a/) [conflict](/en/post/conflict/) [in](/en/post/in/) [the](/en/post/the/) airport's [control](/en/post/control/) [zone](/en/post/zone/)."
+### [Noun](/post/noun/)
+1. **[Zone](/post/zone/)** ([noun](/post/noun/)): [A](/post/a/) [region](/post/region/) [or](/post/or/) [area](/post/area/) characterized [by](/post/by/) [specific](/post/specific/) features, [such](/post/such/) [as](/post/as/) [climate](/post/climate/), [altitude](/post/altitude/), [or](/post/or/) [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) temperate [zone](/post/zone/) is [where](/post/where/) [we](/post/we/) [find](/post/find/) deciduous forests."
+2. **Demographic [zone](/post/zone/)** ([noun](/post/noun/)): [A](/post/a/) [group](/post/group/) [within](/post/within/) [a](/post/a/) [population](/post/population/) based [on](/post/on/) shared characteristics [like](/post/like/) [age](/post/age/), [income](/post/income/), [or](/post/or/) lifestyle. [For](/post/for/) [example](/post/example/): "[The](/post/the/) downtown [shopping](/post/shopping/) [district](/post/district/) is [a](/post/a/) [popular](/post/popular/) [destination](/post/destination/) [for](/post/for/) [young](/post/young/) professionals."
+3. **[Safety](/post/safety/) [zone](/post/zone/)** ([noun](/post/noun/)): An [area](/post/area/) designated [for](/post/for/) [safety](/post/safety/), [like](/post/like/) [a](/post/a/) no-entry [or](/post/or/) low-speed [zone](/post/zone/). [For](/post/for/) [example](/post/example/): "Children [must](/post/must/) [stay](/post/stay/) [in](/post/in/) [the](/post/the/) [safety](/post/safety/) [zone](/post/zone/) [while](/post/while/) playing [on](/post/on/) [the](/post/the/) [playground](/post/playground/)."
+4. **[Air](/post/air/) [traffic](/post/traffic/) [control](/post/control/) [zone](/post/zone/)** ([noun](/post/noun/)): [A](/post/a/) designated [area](/post/area/) [where](/post/where/) [aircraft](/post/aircraft/) are managed [by](/post/by/) [air](/post/air/) [traffic](/post/traffic/) controllers. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [flight](/post/flight/) was delayed [due](/post/due/) [to](/post/to/) [a](/post/a/) [conflict](/post/conflict/) [in](/post/in/) [the](/post/the/) airport's [control](/post/control/) [zone](/post/zone/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [zone](/en/post/zone/) [out](/en/post/out/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [become](/en/post/become/) distracted [or](/en/post/or/) mentally disengaged. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) zoned [out](/en/post/out/) [during](/en/post/during/) [the](/en/post/the/) [long](/en/post/long/) [lecture](/en/post/lecture/)."
-2. **[To](/en/post/to/) [focus](/en/post/focus/) [in](/en/post/in/) [a](/en/post/a/) [zone](/en/post/zone/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [enter](/en/post/enter/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [intense](/en/post/intense/) [concentration](/en/post/concentration/) [or](/en/post/or/) [mental](/en/post/mental/) absorption. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [athlete](/en/post/athlete/) was [in](/en/post/in/) [complete](/en/post/complete/) [zone](/en/post/zone/) [during](/en/post/during/) [the](/en/post/the/) championship [game](/en/post/game/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [zone](/post/zone/) [out](/post/out/)** ([verb](/post/verb/)): [To](/post/to/) [become](/post/become/) distracted [or](/post/or/) mentally disengaged. [For](/post/for/) [example](/post/example/): "[She](/post/she/) zoned [out](/post/out/) [during](/post/during/) [the](/post/the/) [long](/post/long/) [lecture](/post/lecture/)."
+2. **[To](/post/to/) [focus](/post/focus/) [in](/post/in/) [a](/post/a/) [zone](/post/zone/)** ([verb](/post/verb/)): [To](/post/to/) [enter](/post/enter/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [intense](/post/intense/) [concentration](/post/concentration/) [or](/post/or/) [mental](/post/mental/) absorption. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [athlete](/post/athlete/) was [in](/post/in/) [complete](/post/complete/) [zone](/post/zone/) [during](/post/during/) [the](/post/the/) championship [game](/post/game/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Buffer [zone](/en/post/zone/)** ([adjective](/en/post/adjective/)): An [area](/en/post/area/) [between](/en/post/between/) [two](/en/post/two/) [distinct](/en/post/distinct/) areas [that](/en/post/that/) serves [as](/en/post/as/) [a](/en/post/a/) transition [or](/en/post/or/) buffer. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) buffer [zone](/en/post/zone/) separates [the](/en/post/the/) [city](/en/post/city/) [from](/en/post/from/) [the](/en/post/the/) wildlife [reserve](/en/post/reserve/)."
-2. **[Comfort](/en/post/comfort/) [zone](/en/post/zone/)** ([adjective](/en/post/adjective/)): [The](/en/post/the/) [familiar](/en/post/familiar/) [and](/en/post/and/) [comfortable](/en/post/comfortable/) [surroundings](/en/post/surroundings/) [or](/en/post/or/) activities [one](/en/post/one/) is [accustomed](/en/post/accustomed/) [to](/en/post/to/). [For](/en/post/for/) [example](/en/post/example/): "Stepping [outside](/en/post/outside/) [your](/en/post/your/) [comfort](/en/post/comfort/) [zone](/en/post/zone/) [can](/en/post/can/) [lead](/en/post/lead/) [to](/en/post/to/) [personal](/en/post/personal/) [growth](/en/post/growth/)."
+### [Adjective](/post/adjective/)
+1. **Buffer [zone](/post/zone/)** ([adjective](/post/adjective/)): An [area](/post/area/) [between](/post/between/) [two](/post/two/) [distinct](/post/distinct/) areas [that](/post/that/) serves [as](/post/as/) [a](/post/a/) transition [or](/post/or/) buffer. [For](/post/for/) [example](/post/example/): "[A](/post/a/) buffer [zone](/post/zone/) separates [the](/post/the/) [city](/post/city/) [from](/post/from/) [the](/post/the/) wildlife [reserve](/post/reserve/)."
+2. **[Comfort](/post/comfort/) [zone](/post/zone/)** ([adjective](/post/adjective/)): [The](/post/the/) [familiar](/post/familiar/) [and](/post/and/) [comfortable](/post/comfortable/) [surroundings](/post/surroundings/) [or](/post/or/) activities [one](/post/one/) is [accustomed](/post/accustomed/) [to](/post/to/). [For](/post/for/) [example](/post/example/): "Stepping [outside](/post/outside/) [your](/post/your/) [comfort](/post/comfort/) [zone](/post/zone/) [can](/post/can/) [lead](/post/lead/) [to](/post/to/) [personal](/post/personal/) [growth](/post/growth/)."
 
 ## Phrases
-- "[Work](/en/post/work/) [in](/en/post/in/) [a](/en/post/a/) [different](/en/post/different/) [zone](/en/post/zone/)" [means](/en/post/means/) [to](/en/post/to/) [change](/en/post/change/) [focus](/en/post/focus/) [or](/en/post/or/) [location](/en/post/location/) [to](/en/post/to/) [improve](/en/post/improve/) productivity.
-- "[Stay](/en/post/stay/) [within](/en/post/within/) [the](/en/post/the/) [speed](/en/post/speed/) [limit](/en/post/limit/) [in](/en/post/in/) [the](/en/post/the/) [school](/en/post/school/) [zone](/en/post/zone/)."
-- "[Zone](/en/post/zone/) [out](/en/post/out/) [during](/en/post/during/) meditation."
+- "[Work](/post/work/) [in](/post/in/) [a](/post/a/) [different](/post/different/) [zone](/post/zone/)" [means](/post/means/) [to](/post/to/) [change](/post/change/) [focus](/post/focus/) [or](/post/or/) [location](/post/location/) [to](/post/to/) [improve](/post/improve/) productivity.
+- "[Stay](/post/stay/) [within](/post/within/) [the](/post/the/) [speed](/post/speed/) [limit](/post/limit/) [in](/post/in/) [the](/post/the/) [school](/post/school/) [zone](/post/zone/)."
+- "[Zone](/post/zone/) [out](/post/out/) [during](/post/during/) meditation."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) plants [in](/en/post/in/) [the](/en/post/the/) [tropical](/en/post/tropical/) [zone](/en/post/zone/) [require](/en/post/require/) [plenty](/en/post/plenty/) [of](/en/post/of/) [sunlight](/en/post/sunlight/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) spent hours zoning [out](/en/post/out/) [while](/en/post/while/) listening [to](/en/post/to/) [her](/en/post/her/) favorite [music](/en/post/music/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [office](/en/post/office/) has [a](/en/post/a/) dedicated [quiet](/en/post/quiet/) [zone](/en/post/zone/) [for](/en/post/for/) employees [to](/en/post/to/) [concentrate](/en/post/concentrate/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) plants [in](/post/in/) [the](/post/the/) [tropical](/post/tropical/) [zone](/post/zone/) [require](/post/require/) [plenty](/post/plenty/) [of](/post/of/) [sunlight](/post/sunlight/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) spent hours zoning [out](/post/out/) [while](/post/while/) listening [to](/post/to/) [her](/post/her/) favorite [music](/post/music/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [office](/post/office/) has [a](/post/a/) dedicated [quiet](/post/quiet/) [zone](/post/zone/) [for](/post/for/) employees [to](/post/to/) [concentrate](/post/concentrate/)."
 
 ## Synonyms
 - Sector
-- [Area](/en/post/area/)
-- [Region](/en/post/region/)
+- [Area](/post/area/)
+- [Region](/post/region/)
 - Demographic segment
-- [Focus](/en/post/focus/)
-- [Concentration](/en/post/concentration/) [area](/en/post/area/)
-- [Safety](/en/post/safety/) [pocket](/en/post/pocket/)
-- [Mental](/en/post/mental/) [focus](/en/post/focus/) [area](/en/post/area/)
+- [Focus](/post/focus/)
+- [Concentration](/post/concentration/) [area](/post/area/)
+- [Safety](/post/safety/) [pocket](/post/pocket/)
+- [Mental](/post/mental/) [focus](/post/focus/) [area](/post/area/)

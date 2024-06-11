@@ -7,42 +7,42 @@ description = '[pit] n.坑，地坑；煤矿'
 keywords = ['ai words', 'pit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [hole](/en/post/hole/) [or](/en/post/or/) depression [in](/en/post/in/) [the](/en/post/the/) [ground](/en/post/ground/)**: [The](/en/post/the/) children dug [a](/en/post/a/) [pit](/en/post/pit/) [in](/en/post/in/) [the](/en/post/the/) backyard. ([noun](/en/post/noun/), excavation)
-2. **[A](/en/post/a/) [low](/en/post/low/) [area](/en/post/area/) [or](/en/post/or/) depression [in](/en/post/in/) [a](/en/post/a/) [surface](/en/post/surface/)**: [A](/en/post/a/) [pit](/en/post/pit/) [stop](/en/post/stop/) [for](/en/post/for/) racecars. ([noun](/en/post/noun/), sports)
-3. **[A](/en/post/a/) [place](/en/post/place/) [of](/en/post/of/) imprisonment**: [He](/en/post/he/) was sentenced [to](/en/post/to/) [serve](/en/post/serve/) [time](/en/post/time/) [in](/en/post/in/) [prison](/en/post/prison/), [down](/en/post/down/) [in](/en/post/in/) [the](/en/post/the/) bowels [of](/en/post/of/) [that](/en/post/that/) [dark](/en/post/dark/) [pit](/en/post/pit/). ([noun](/en/post/noun/), penal)
-4. **[A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) emptiness [or](/en/post/or/) dissatisfaction**: [She](/en/post/she/) sank [into](/en/post/into/) [a](/en/post/a/) [deep](/en/post/deep/) [emotional](/en/post/emotional/) [pit](/en/post/pit/) [after](/en/post/after/) [the](/en/post/the/) breakup. ([noun](/en/post/noun/), metaphorical)
-5. **[A](/en/post/a/) [trap](/en/post/trap/) [or](/en/post/or/) snare**: [The](/en/post/the/) [fox](/en/post/fox/) fell [into](/en/post/into/) [a](/en/post/a/) hunter's [pit](/en/post/pit/). ([noun](/en/post/noun/), [trap](/en/post/trap/))
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [hole](/post/hole/) [or](/post/or/) depression [in](/post/in/) [the](/post/the/) [ground](/post/ground/)**: [The](/post/the/) children dug [a](/post/a/) [pit](/post/pit/) [in](/post/in/) [the](/post/the/) backyard. ([noun](/post/noun/), excavation)
+2. **[A](/post/a/) [low](/post/low/) [area](/post/area/) [or](/post/or/) depression [in](/post/in/) [a](/post/a/) [surface](/post/surface/)**: [A](/post/a/) [pit](/post/pit/) [stop](/post/stop/) [for](/post/for/) racecars. ([noun](/post/noun/), sports)
+3. **[A](/post/a/) [place](/post/place/) [of](/post/of/) imprisonment**: [He](/post/he/) was sentenced [to](/post/to/) [serve](/post/serve/) [time](/post/time/) [in](/post/in/) [prison](/post/prison/), [down](/post/down/) [in](/post/in/) [the](/post/the/) bowels [of](/post/of/) [that](/post/that/) [dark](/post/dark/) [pit](/post/pit/). ([noun](/post/noun/), penal)
+4. **[A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) emptiness [or](/post/or/) dissatisfaction**: [She](/post/she/) sank [into](/post/into/) [a](/post/a/) [deep](/post/deep/) [emotional](/post/emotional/) [pit](/post/pit/) [after](/post/after/) [the](/post/the/) breakup. ([noun](/post/noun/), metaphorical)
+5. **[A](/post/a/) [trap](/post/trap/) [or](/post/or/) snare**: [The](/post/the/) [fox](/post/fox/) fell [into](/post/into/) [a](/post/a/) hunter's [pit](/post/pit/). ([noun](/post/noun/), [trap](/post/trap/))
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [dig](/en/post/dig/) [a](/en/post/a/) [hole](/en/post/hole/) [or](/en/post/or/) [hollow](/en/post/hollow/)**: [They](/en/post/they/) decided [to](/en/post/to/) [pit](/en/post/pit/) [themselves](/en/post/themselves/) [against](/en/post/against/) [each](/en/post/each/) [other](/en/post/other/) [in](/en/post/in/) [a](/en/post/a/) [friendly](/en/post/friendly/) [competition](/en/post/competition/). ([verb](/en/post/verb/), [competition](/en/post/competition/))
-2. **[To](/en/post/to/) [bury](/en/post/bury/) [or](/en/post/or/) [enclose](/en/post/enclose/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [pit](/en/post/pit/)**: [They](/en/post/they/) pitted [the](/en/post/the/) [old](/en/post/old/) artifacts [in](/en/post/in/) [a](/en/post/a/) [secure](/en/post/secure/) [storage](/en/post/storage/) [facility](/en/post/facility/). ([verb](/en/post/verb/), preservation)
-3. **[To](/en/post/to/) [expose](/en/post/expose/) [to](/en/post/to/) [a](/en/post/a/) [disadvantage](/en/post/disadvantage/) [or](/en/post/or/) [challenge](/en/post/challenge/)**: [He](/en/post/he/) pitted [his](/en/post/his/) [best](/en/post/best/) [player](/en/post/player/) [against](/en/post/against/) [the](/en/post/the/) [rival](/en/post/rival/) [team](/en/post/team/). ([verb](/en/post/verb/), [competition](/en/post/competition/))
-4. **[To](/en/post/to/) [place](/en/post/place/) [in](/en/post/in/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/)**: [Her](/en/post/her/) parents pitted [her](/en/post/her/) [against](/en/post/against/) [her](/en/post/her/) siblings [for](/en/post/for/) [attention](/en/post/attention/). ([verb](/en/post/verb/), interpersonal)
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [dig](/post/dig/) [a](/post/a/) [hole](/post/hole/) [or](/post/or/) [hollow](/post/hollow/)**: [They](/post/they/) decided [to](/post/to/) [pit](/post/pit/) [themselves](/post/themselves/) [against](/post/against/) [each](/post/each/) [other](/post/other/) [in](/post/in/) [a](/post/a/) [friendly](/post/friendly/) [competition](/post/competition/). ([verb](/post/verb/), [competition](/post/competition/))
+2. **[To](/post/to/) [bury](/post/bury/) [or](/post/or/) [enclose](/post/enclose/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [pit](/post/pit/)**: [They](/post/they/) pitted [the](/post/the/) [old](/post/old/) artifacts [in](/post/in/) [a](/post/a/) [secure](/post/secure/) [storage](/post/storage/) [facility](/post/facility/). ([verb](/post/verb/), preservation)
+3. **[To](/post/to/) [expose](/post/expose/) [to](/post/to/) [a](/post/a/) [disadvantage](/post/disadvantage/) [or](/post/or/) [challenge](/post/challenge/)**: [He](/post/he/) pitted [his](/post/his/) [best](/post/best/) [player](/post/player/) [against](/post/against/) [the](/post/the/) [rival](/post/rival/) [team](/post/team/). ([verb](/post/verb/), [competition](/post/competition/))
+4. **[To](/post/to/) [place](/post/place/) [in](/post/in/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/)**: [Her](/post/her/) parents pitted [her](/post/her/) [against](/post/against/) [her](/post/her/) siblings [for](/post/for/) [attention](/post/attention/). ([verb](/post/verb/), interpersonal)
 
-### [Adjective](/en/post/adjective/)
-1. **[Very](/en/post/very/) [low](/en/post/low/) [or](/en/post/or/) [deep](/en/post/deep/)**: [The](/en/post/the/) pit's [bottom](/en/post/bottom/) was [almost](/en/post/almost/) [out](/en/post/out/) [of](/en/post/of/) [sight](/en/post/sight/). ([adjective](/en/post/adjective/), [depth](/en/post/depth/))
-2. **Marked [by](/en/post/by/) suffering [or](/en/post/or/) [distress](/en/post/distress/)**: Pitiful conditions [for](/en/post/for/) [the](/en/post/the/) animals [in](/en/post/in/) [the](/en/post/the/) [zoo](/en/post/zoo/). ([adjective](/en/post/adjective/), compassion)
-3. **Characterized [by](/en/post/by/) rivalry [or](/en/post/or/) [conflict](/en/post/conflict/)**: [The](/en/post/the/) pitiless rivalry [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) companies. ([adjective](/en/post/adjective/), hostility)
+### [Adjective](/post/adjective/)
+1. **[Very](/post/very/) [low](/post/low/) [or](/post/or/) [deep](/post/deep/)**: [The](/post/the/) pit's [bottom](/post/bottom/) was [almost](/post/almost/) [out](/post/out/) [of](/post/of/) [sight](/post/sight/). ([adjective](/post/adjective/), [depth](/post/depth/))
+2. **Marked [by](/post/by/) suffering [or](/post/or/) [distress](/post/distress/)**: Pitiful conditions [for](/post/for/) [the](/post/the/) animals [in](/post/in/) [the](/post/the/) [zoo](/post/zoo/). ([adjective](/post/adjective/), compassion)
+3. **Characterized [by](/post/by/) rivalry [or](/post/or/) [conflict](/post/conflict/)**: [The](/post/the/) pitiless rivalry [between](/post/between/) [the](/post/the/) [two](/post/two/) companies. ([adjective](/post/adjective/), hostility)
 
 ## Phrases
-- "[Pit](/en/post/pit/) [of](/en/post/of/) [despair](/en/post/despair/)"
-- "[Sink](/en/post/sink/) [into](/en/post/into/) [a](/en/post/a/) [pit](/en/post/pit/) [of](/en/post/of/) self-pity"
-- "[The](/en/post/the/) [mine](/en/post/mine/) [pit](/en/post/pit/)"
-- "[Pit](/en/post/pit/) [stop](/en/post/stop/) [for](/en/post/for/) cars"
-- "[Put](/en/post/put/) [someone](/en/post/someone/) [in](/en/post/in/) [a](/en/post/a/) competitive [pit](/en/post/pit/)"
+- "[Pit](/post/pit/) [of](/post/of/) [despair](/post/despair/)"
+- "[Sink](/post/sink/) [into](/post/into/) [a](/post/a/) [pit](/post/pit/) [of](/post/of/) self-pity"
+- "[The](/post/the/) [mine](/post/mine/) [pit](/post/pit/)"
+- "[Pit](/post/pit/) [stop](/post/stop/) [for](/post/for/) cars"
+- "[Put](/post/put/) [someone](/post/someone/) [in](/post/in/) [a](/post/a/) competitive [pit](/post/pit/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) archaeologists [found](/en/post/found/) [ancient](/en/post/ancient/) artifacts buried [in](/en/post/in/) [a](/en/post/a/) [deep](/en/post/deep/) [pit](/en/post/pit/).
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) pitted [his](/en/post/his/) [new](/en/post/new/) [invention](/en/post/invention/) [against](/en/post/against/) [his](/en/post/his/) competitor's [product](/en/post/product/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) dog's eyes were filled [with](/en/post/with/) [a](/en/post/a/) pitiful [expression](/en/post/expression/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) archaeologists [found](/post/found/) [ancient](/post/ancient/) artifacts buried [in](/post/in/) [a](/post/a/) [deep](/post/deep/) [pit](/post/pit/).
+- **[Verb](/post/verb/)**: [He](/post/he/) pitted [his](/post/his/) [new](/post/new/) [invention](/post/invention/) [against](/post/against/) [his](/post/his/) competitor's [product](/post/product/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) dog's eyes were filled [with](/post/with/) [a](/post/a/) pitiful [expression](/post/expression/).
 
 ## Synonyms
-- [Hole](/en/post/hole/)
+- [Hole](/post/hole/)
 - Abyss
 - Sinkhole
 -阱

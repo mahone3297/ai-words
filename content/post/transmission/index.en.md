@@ -7,34 +7,34 @@ description = '[trænzˈmi∫ən] n.传送;传动;发射'
 keywords = ['ai words', 'transmission']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /təˈmɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) sending [or](/en/post/or/) receiving [information](/en/post/information/), [data](/en/post/data/), [or](/en/post/or/) [energy](/en/post/energy/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/) [through](/en/post/through/) [a](/en/post/a/) [medium](/en/post/medium/) [or](/en/post/or/) [system](/en/post/system/). 2. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) transmitting [a](/en/post/a/) [disease](/en/post/disease/) [or](/en/post/or/) infection. 3. [The](/en/post/the/) conveyance [of](/en/post/of/) [a](/en/post/a/) [signal](/en/post/signal/), [message](/en/post/message/), [or](/en/post/or/) [emotion](/en/post/emotion/). 4. An [electrical](/en/post/electrical/) [or](/en/post/or/) [electronic](/en/post/electronic/) [system](/en/post/system/) [that](/en/post/that/) carries signals [or](/en/post/or/) [power](/en/post/power/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [send](/en/post/send/) [or](/en/post/or/) [pass](/en/post/pass/) ([information](/en/post/information/), [energy](/en/post/energy/), [or](/en/post/or/) [a](/en/post/a/) [signal](/en/post/signal/)) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/). 2. [To](/en/post/to/) [transmit](/en/post/transmit/) [a](/en/post/a/) [disease](/en/post/disease/) [or](/en/post/or/) infection.
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) sending [or](/post/or/) receiving [information](/post/information/), [data](/post/data/), [or](/post/or/) [energy](/post/energy/) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/) [through](/post/through/) [a](/post/a/) [medium](/post/medium/) [or](/post/or/) [system](/post/system/). 2. [The](/post/the/) [act](/post/act/) [of](/post/of/) transmitting [a](/post/a/) [disease](/post/disease/) [or](/post/or/) infection. 3. [The](/post/the/) conveyance [of](/post/of/) [a](/post/a/) [signal](/post/signal/), [message](/post/message/), [or](/post/or/) [emotion](/post/emotion/). 4. An [electrical](/post/electrical/) [or](/post/or/) [electronic](/post/electronic/) [system](/post/system/) [that](/post/that/) carries signals [or](/post/or/) [power](/post/power/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [send](/post/send/) [or](/post/or/) [pass](/post/pass/) ([information](/post/information/), [energy](/post/energy/), [or](/post/or/) [a](/post/a/) [signal](/post/signal/)) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/). 2. [To](/post/to/) [transmit](/post/transmit/) [a](/post/a/) [disease](/post/disease/) [or](/post/or/) infection.
 
 ## Phrases
-- "[Signal](/en/post/signal/) [transmission](/en/post/transmission/)" refers [to](/en/post/to/) [the](/en/post/the/) [transfer](/en/post/transfer/) [of](/en/post/of/) signals.
-- "Audio [transmission](/en/post/transmission/)" deals [with](/en/post/with/) [sound](/en/post/sound/) signals.
-- "[Data](/en/post/data/) [transmission](/en/post/transmission/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) sending [data](/en/post/data/) electronically.
+- "[Signal](/post/signal/) [transmission](/post/transmission/)" refers [to](/post/to/) [the](/post/the/) [transfer](/post/transfer/) [of](/post/of/) signals.
+- "Audio [transmission](/post/transmission/)" deals [with](/post/with/) [sound](/post/sound/) signals.
+- "[Data](/post/data/) [transmission](/post/transmission/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) sending [data](/post/data/) electronically.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [radio](/en/post/radio/) [station](/en/post/station/) broadcasts [music](/en/post/music/) [through](/en/post/through/) [a](/en/post/a/) [powerful](/en/post/powerful/) [transmission](/en/post/transmission/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [satellite](/en/post/satellite/) transmitted [live](/en/post/live/) footage [of](/en/post/of/) [the](/en/post/the/) [event](/en/post/event/) [to](/en/post/to/) millions [of](/en/post/of/) viewers."
-- "[Her](/en/post/her/) [phone](/en/post/phone/) [call](/en/post/call/) was interrupted [due](/en/post/due/) [to](/en/post/to/) [poor](/en/post/poor/) [transmission](/en/post/transmission/) [quality](/en/post/quality/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [radio](/post/radio/) [station](/post/station/) broadcasts [music](/post/music/) [through](/post/through/) [a](/post/a/) [powerful](/post/powerful/) [transmission](/post/transmission/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [satellite](/post/satellite/) transmitted [live](/post/live/) footage [of](/post/of/) [the](/post/the/) [event](/post/event/) [to](/post/to/) millions [of](/post/of/) viewers."
+- "[Her](/post/her/) [phone](/post/phone/) [call](/post/call/) was interrupted [due](/post/due/) [to](/post/to/) [poor](/post/poor/) [transmission](/post/transmission/) [quality](/post/quality/)."
 
 ## Synonyms
 - Sending
 - Conveyance
-- [Transmission](/en/post/transmission/) [of](/en/post/of/)
-- [Broadcast](/en/post/broadcast/)
+- [Transmission](/post/transmission/) [of](/post/of/)
+- [Broadcast](/post/broadcast/)
 - Relay
 - Propagation
 - Dissemination
-- [Transfer](/en/post/transfer/)
+- [Transfer](/post/transfer/)
 
 ## Antonyms
-- [Reception](/en/post/reception/) ([for](/en/post/for/) receiving)
-- Blocking ([for](/en/post/for/) preventing [transmission](/en/post/transmission/))
-- [Interruption](/en/post/interruption/) ([for](/en/post/for/) disrupting [transmission](/en/post/transmission/))
+- [Reception](/post/reception/) ([for](/post/for/) receiving)
+- Blocking ([for](/post/for/) preventing [transmission](/post/transmission/))
+- [Interruption](/post/interruption/) ([for](/post/for/) disrupting [transmission](/post/transmission/))

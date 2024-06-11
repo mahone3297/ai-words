@@ -7,28 +7,28 @@ description = '[ˈmiːniŋ] n.意义，意思；意图'
 keywords = ['ai words', 'meaning']
 +++
 
-## [Word](/en/post/word/): Nostalgia
+## [Word](/post/word/): Nostalgia
 
-## [Pronunciation](/en/post/pronunciation/)
-/ˌnɑːsˈtælɡiə/ ([US](/en/post/us/)), /ˌnɒsˈtælɡiə/ (UK)
+## [Pronunciation](/post/pronunciation/)
+/ˌnɑːsˈtælɡiə/ ([US](/post/us/)), /ˌnɒsˈtælɡiə/ (UK)
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) sentimental longing [or](/en/post/or/) wistful [affection](/en/post/affection/) [for](/en/post/for/) [a](/en/post/a/) [period](/en/post/period/) [in](/en/post/in/) [the](/en/post/the/) [past](/en/post/past/); [a](/en/post/a/) sentimental yearning [for](/en/post/for/) [the](/en/post/the/) [happiness](/en/post/happiness/) [of](/en/post/of/) [a](/en/post/a/) [former](/en/post/former/) [place](/en/post/place/) [or](/en/post/or/) [time](/en/post/time/). 
+- **[Noun](/post/noun/)**: [A](/post/a/) sentimental longing [or](/post/or/) wistful [affection](/post/affection/) [for](/post/for/) [a](/post/a/) [period](/post/period/) [in](/post/in/) [the](/post/the/) [past](/post/past/); [a](/post/a/) sentimental yearning [for](/post/for/) [the](/post/the/) [happiness](/post/happiness/) [of](/post/of/) [a](/post/a/) [former](/post/former/) [place](/post/place/) [or](/post/or/) [time](/post/time/). 
 
-  - _Example [Sentence](/en/post/sentence/):_ "[Her](/en/post/her/) nostalgia [for](/en/post/for/) [her](/en/post/her/) [college](/en/post/college/) days was palpable [whenever](/en/post/whenever/) [she](/en/post/she/) visited [the](/en/post/the/) [old](/en/post/old/) [campus](/en/post/campus/)."
+  - _Example [Sentence](/post/sentence/):_ "[Her](/post/her/) nostalgia [for](/post/for/) [her](/post/her/) [college](/post/college/) days was palpable [whenever](/post/whenever/) [she](/post/she/) visited [the](/post/the/) [old](/post/old/) [campus](/post/campus/)."
   
-- **Adjektive**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) causing nostalgia; evoking [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) longing [for](/en/post/for/) [the](/en/post/the/) [past](/en/post/past/).
+- **Adjektive**: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) causing nostalgia; evoking [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) longing [for](/post/for/) [the](/post/the/) [past](/post/past/).
 
-  - _Example [Sentence](/en/post/sentence/):_ "[The](/en/post/the/) [scent](/en/post/scent/) [of](/en/post/of/) freshly baked cookies filled [the](/en/post/the/) [air](/en/post/air/), stirring [up](/en/post/up/) nostalgic memories [of](/en/post/of/) [her](/en/post/her/) grandmother's [kitchen](/en/post/kitchen/)."
+  - _Example [Sentence](/post/sentence/):_ "[The](/post/the/) [scent](/post/scent/) [of](/post/of/) freshly baked cookies filled [the](/post/the/) [air](/post/air/), stirring [up](/post/up/) nostalgic memories [of](/post/of/) [her](/post/her/) grandmother's [kitchen](/post/kitchen/)."
 
 ## Phrases
-- "Nostalgia [trip](/en/post/trip/)": [When](/en/post/when/) [someone](/en/post/someone/) revisits places [or](/en/post/or/) experiences [from](/en/post/from/) [their](/en/post/their/) [past](/en/post/past/), [often](/en/post/often/) [to](/en/post/to/) relive [fond](/en/post/fond/) memories.
-- "[A](/en/post/a/) [wave](/en/post/wave/) [of](/en/post/of/) nostalgia": [A](/en/post/a/) [sudden](/en/post/sudden/) [strong](/en/post/strong/) [feeling](/en/post/feeling/) [of](/en/post/of/) nostalgia [that](/en/post/that/) washes [over](/en/post/over/) [a](/en/post/a/) [person](/en/post/person/).
-- "Nostalgic reminiscence": [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) recalling [past](/en/post/past/) events [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) longing [or](/en/post/or/) [affection](/en/post/affection/).
+- "Nostalgia [trip](/post/trip/)": [When](/post/when/) [someone](/post/someone/) revisits places [or](/post/or/) experiences [from](/post/from/) [their](/post/their/) [past](/post/past/), [often](/post/often/) [to](/post/to/) relive [fond](/post/fond/) memories.
+- "[A](/post/a/) [wave](/post/wave/) [of](/post/of/) nostalgia": [A](/post/a/) [sudden](/post/sudden/) [strong](/post/strong/) [feeling](/post/feeling/) [of](/post/of/) nostalgia [that](/post/that/) washes [over](/post/over/) [a](/post/a/) [person](/post/person/).
+- "Nostalgic reminiscence": [The](/post/the/) [act](/post/act/) [of](/post/of/) recalling [past](/post/past/) events [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) longing [or](/post/or/) [affection](/post/affection/).
 
-## [Example](/en/post/example/) Sentences
-- _Noun_: "Listening [to](/en/post/to/) [those](/en/post/those/) [old](/en/post/old/) records brought [on](/en/post/on/) [a](/en/post/a/) [wave](/en/post/wave/) [of](/en/post/of/) nostalgia."
-- _Adjective_: "[The](/en/post/the/) vintage photographs imbued [the](/en/post/the/) [room](/en/post/room/) [with](/en/post/with/) [a](/en/post/a/) nostalgic [atmosphere](/en/post/atmosphere/)."
+## [Example](/post/example/) Sentences
+- _Noun_: "Listening [to](/post/to/) [those](/post/those/) [old](/post/old/) records brought [on](/post/on/) [a](/post/a/) [wave](/post/wave/) [of](/post/of/) nostalgia."
+- _Adjective_: "[The](/post/the/) vintage photographs imbued [the](/post/the/) [room](/post/room/) [with](/post/with/) [a](/post/a/) nostalgic [atmosphere](/post/atmosphere/)."
 
 ## Synonyms
 - Reminiscence
@@ -36,6 +36,6 @@ keywords = ['ai words', 'meaning']
 - Yearning
 - Sentimentality
 - Wistfulness
-- [Memory](/en/post/memory/) [lane](/en/post/lane/)
-- [Golden](/en/post/golden/) [age](/en/post/age/) thoughts
-- [Pastime](/en/post/pastime/) recollections
+- [Memory](/post/memory/) [lane](/post/lane/)
+- [Golden](/post/golden/) [age](/post/age/) thoughts
+- [Pastime](/post/pastime/) recollections

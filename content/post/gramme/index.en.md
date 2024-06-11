@@ -7,29 +7,29 @@ description = '[græm] n.克(重量单位)'
 keywords = ['ai words', 'gramme']
 +++
 
-## [Word](/en/post/word/): [Gramme](/en/post/gramme/)
+## [Word](/post/word/): [Gramme](/post/gramme/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡræm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [base](/en/post/base/) [unit](/en/post/unit/) [of](/en/post/of/) [mass](/en/post/mass/) [in](/en/post/in/) [the](/en/post/the/) [International](/en/post/international/) [System](/en/post/system/) [of](/en/post/of/) Units (SI), [equal](/en/post/equal/) [to](/en/post/to/) [one](/en/post/one/) thousandth [of](/en/post/of/) [a](/en/post/a/) [kilogram](/en/post/kilogram/). [It](/en/post/it/) is represented [by](/en/post/by/) [the](/en/post/the/) [symbol](/en/post/symbol/) 'g'. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weight](/en/post/weight/) [of](/en/post/of/) [the](/en/post/the/) [apple](/en/post/apple/) is 150 grammes."
+- **[Noun](/post/noun/)**: [The](/post/the/) [base](/post/base/) [unit](/post/unit/) [of](/post/of/) [mass](/post/mass/) [in](/post/in/) [the](/post/the/) [International](/post/international/) [System](/post/system/) [of](/post/of/) Units (SI), [equal](/post/equal/) [to](/post/to/) [one](/post/one/) thousandth [of](/post/of/) [a](/post/a/) [kilogram](/post/kilogram/). [It](/post/it/) is represented [by](/post/by/) [the](/post/the/) [symbol](/post/symbol/) 'g'. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weight](/post/weight/) [of](/post/of/) [the](/post/the/) [apple](/post/apple/) is 150 grammes."
 
 ### Examples
-- **[Noun](/en/post/noun/)**: "Bakers [often](/en/post/often/) [measure](/en/post/measure/) [their](/en/post/their/) ingredients [in](/en/post/in/) grammes [to](/en/post/to/) [ensure](/en/post/ensure/) [precise](/en/post/precise/) measurements."
-- "[The](/en/post/the/) [package](/en/post/package/) weighed precisely 500 grammes."
+- **[Noun](/post/noun/)**: "Bakers [often](/post/often/) [measure](/post/measure/) [their](/post/their/) ingredients [in](/post/in/) grammes [to](/post/to/) [ensure](/post/ensure/) [precise](/post/precise/) measurements."
+- "[The](/post/the/) [package](/post/package/) weighed precisely 500 grammes."
 
 ## Phrases
-- "[Gramme](/en/post/gramme/) [scale](/en/post/scale/)": [A](/en/post/a/) [device](/en/post/device/) [used](/en/post/used/) [to](/en/post/to/) [measure](/en/post/measure/) [small](/en/post/small/) masses [in](/en/post/in/) grammes.
-- "[Gramme](/en/post/gramme/) [per](/en/post/per/) litre (g/L)": [A](/en/post/a/) [unit](/en/post/unit/) [used](/en/post/used/) [to](/en/post/to/) [measure](/en/post/measure/) [concentration](/en/post/concentration/) [of](/en/post/of/) substances, [especially](/en/post/especially/) [in](/en/post/in/) solutions.
+- "[Gramme](/post/gramme/) [scale](/post/scale/)": [A](/post/a/) [device](/post/device/) [used](/post/used/) [to](/post/to/) [measure](/post/measure/) [small](/post/small/) masses [in](/post/in/) grammes.
+- "[Gramme](/post/gramme/) [per](/post/per/) litre (g/L)": [A](/post/a/) [unit](/post/unit/) [used](/post/used/) [to](/post/to/) [measure](/post/measure/) [concentration](/post/concentration/) [of](/post/of/) substances, [especially](/post/especially/) [in](/post/in/) solutions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Please](/en/post/please/) [purchase](/en/post/purchase/) 200 grammes [of](/en/post/of/) [flour](/en/post/flour/) [for](/en/post/for/) [the](/en/post/the/) recipe."
-- "[A](/en/post/a/) [standard](/en/post/standard/) [letter](/en/post/letter/) weighs [less](/en/post/less/) [than](/en/post/than/) 50 grammes, [hence](/en/post/hence/) [it](/en/post/it/) falls [under](/en/post/under/) [the](/en/post/the/) lowest [postage](/en/post/postage/) [rate](/en/post/rate/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Please](/post/please/) [purchase](/post/purchase/) 200 grammes [of](/post/of/) [flour](/post/flour/) [for](/post/for/) [the](/post/the/) recipe."
+- "[A](/post/a/) [standard](/post/standard/) [letter](/post/letter/) weighs [less](/post/less/) [than](/post/than/) 50 grammes, [hence](/post/hence/) [it](/post/it/) falls [under](/post/under/) [the](/post/the/) lowest [postage](/post/postage/) [rate](/post/rate/)."
 
 ## Synonyms
 - gm (abbreviation)
-- Milligram (mg, [a](/en/post/a/) smaller [unit](/en/post/unit/) [of](/en/post/of/) [mass](/en/post/mass/))
-- [Kilogram](/en/post/kilogram/) (kg, [a](/en/post/a/) larger [unit](/en/post/unit/) [of](/en/post/of/) [mass](/en/post/mass/))
+- Milligram (mg, [a](/post/a/) smaller [unit](/post/unit/) [of](/post/of/) [mass](/post/mass/))
+- [Kilogram](/post/kilogram/) (kg, [a](/post/a/) larger [unit](/post/unit/) [of](/post/of/) [mass](/post/mass/))
   
-[Note](/en/post/note/): [Gramme](/en/post/gramme/) is [the](/en/post/the/) British [spelling](/en/post/spelling/), [while](/en/post/while/) "gram" is [the](/en/post/the/) [American](/en/post/american/) [spelling](/en/post/spelling/), [both](/en/post/both/) referring [to](/en/post/to/) [the](/en/post/the/) [same](/en/post/same/) [unit](/en/post/unit/) [of](/en/post/of/) [mass](/en/post/mass/). [In](/en/post/in/) [everyday](/en/post/everyday/) [use](/en/post/use/), [particularly](/en/post/particularly/) [in](/en/post/in/) [scientific](/en/post/scientific/) contexts, "gram" is [more](/en/post/more/) [commonly](/en/post/commonly/) [used](/en/post/used/) globally. [However](/en/post/however/), [when](/en/post/when/) discussing [historical](/en/post/historical/) units [or](/en/post/or/) [specific](/en/post/specific/) British English texts, "[gramme](/en/post/gramme/)" [may](/en/post/may/) [be](/en/post/be/) encountered.
+[Note](/post/note/): [Gramme](/post/gramme/) is [the](/post/the/) British [spelling](/post/spelling/), [while](/post/while/) "gram" is [the](/post/the/) [American](/post/american/) [spelling](/post/spelling/), [both](/post/both/) referring [to](/post/to/) [the](/post/the/) [same](/post/same/) [unit](/post/unit/) [of](/post/of/) [mass](/post/mass/). [In](/post/in/) [everyday](/post/everyday/) [use](/post/use/), [particularly](/post/particularly/) [in](/post/in/) [scientific](/post/scientific/) contexts, "gram" is [more](/post/more/) [commonly](/post/commonly/) [used](/post/used/) globally. [However](/post/however/), [when](/post/when/) discussing [historical](/post/historical/) units [or](/post/or/) [specific](/post/specific/) British English texts, "[gramme](/post/gramme/)" [may](/post/may/) [be](/post/be/) encountered.

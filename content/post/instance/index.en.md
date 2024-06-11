@@ -7,33 +7,33 @@ description = '[ˈinstəns] n.例子，实例，事例'
 keywords = ['ai words', 'instance']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪnstəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [particular](/en/post/particular/) [case](/en/post/case/) [or](/en/post/or/) [occurrence](/en/post/occurrence/) [of](/en/post/of/) [something](/en/post/something/); an [example](/en/post/example/) [or](/en/post/or/) [illustration](/en/post/illustration/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) is [just](/en/post/just/) [one](/en/post/one/) [instance](/en/post/instance/) [of](/en/post/of/) [how](/en/post/how/) [the](/en/post/the/) [system](/en/post/system/) fails."
-  - [In](/en/post/in/) computing, [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [occurrence](/en/post/occurrence/) [of](/en/post/of/) [a](/en/post/a/) running [program](/en/post/program/) [or](/en/post/or/) [process](/en/post/process/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [application](/en/post/application/) needs [to](/en/post/to/) [be](/en/post/be/) restarted [after](/en/post/after/) [every](/en/post/every/) [instance](/en/post/instance/)."
-- **[Verb](/en/post/verb/)**: ([formal](/en/post/formal/)) [To](/en/post/to/) cite [or](/en/post/or/) [give](/en/post/give/) an [example](/en/post/example/) [or](/en/post/or/) [instance](/en/post/instance/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [professor](/en/post/professor/) instanced [several](/en/post/several/) cases [of](/en/post/of/) plagiarism [in](/en/post/in/) [his](/en/post/his/) [lecture](/en/post/lecture/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [particular](/post/particular/) [case](/post/case/) [or](/post/or/) [occurrence](/post/occurrence/) [of](/post/of/) [something](/post/something/); an [example](/post/example/) [or](/post/or/) [illustration](/post/illustration/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) is [just](/post/just/) [one](/post/one/) [instance](/post/instance/) [of](/post/of/) [how](/post/how/) [the](/post/the/) [system](/post/system/) fails."
+  - [In](/post/in/) computing, [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [occurrence](/post/occurrence/) [of](/post/of/) [a](/post/a/) running [program](/post/program/) [or](/post/or/) [process](/post/process/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [application](/post/application/) needs [to](/post/to/) [be](/post/be/) restarted [after](/post/after/) [every](/post/every/) [instance](/post/instance/)."
+- **[Verb](/post/verb/)**: ([formal](/post/formal/)) [To](/post/to/) cite [or](/post/or/) [give](/post/give/) an [example](/post/example/) [or](/post/or/) [instance](/post/instance/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [professor](/post/professor/) instanced [several](/post/several/) cases [of](/post/of/) plagiarism [in](/post/in/) [his](/post/his/) [lecture](/post/lecture/)."
 
 ## Phrases
-- "[In](/en/post/in/) [this](/en/post/this/) [instance](/en/post/instance/)" is [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/) [being](/en/post/being/) discussed. 
-- "[Instance](/en/post/instance/) [variable](/en/post/variable/)" [in](/en/post/in/) programming refers [to](/en/post/to/) [a](/en/post/a/) [variable](/en/post/variable/) [that](/en/post/that/) belongs [to](/en/post/to/) an [object](/en/post/object/) [rather](/en/post/rather/) [than](/en/post/than/) [the](/en/post/the/) [class](/en/post/class/) [as](/en/post/as/) [a](/en/post/a/) [whole](/en/post/whole/).
-- "[On](/en/post/on/) [no](/en/post/no/) [instance](/en/post/instance/)" suggests [that](/en/post/that/) [something](/en/post/something/) [should](/en/post/should/) [not](/en/post/not/) [happen](/en/post/happen/) [under](/en/post/under/) [any](/en/post/any/) circumstances.
+- "[In](/post/in/) [this](/post/this/) [instance](/post/instance/)" is [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/) [being](/post/being/) discussed. 
+- "[Instance](/post/instance/) [variable](/post/variable/)" [in](/post/in/) programming refers [to](/post/to/) [a](/post/a/) [variable](/post/variable/) [that](/post/that/) belongs [to](/post/to/) an [object](/post/object/) [rather](/post/rather/) [than](/post/than/) [the](/post/the/) [class](/post/class/) [as](/post/as/) [a](/post/a/) [whole](/post/whole/).
+- "[On](/post/on/) [no](/post/no/) [instance](/post/instance/)" suggests [that](/post/that/) [something](/post/something/) [should](/post/should/) [not](/post/not/) [happen](/post/happen/) [under](/post/under/) [any](/post/any/) circumstances.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[There](/en/post/there/) [have](/en/post/have/) been [multiple](/en/post/multiple/) instances [of](/en/post/of/) fraud reported [in](/en/post/in/) [the](/en/post/the/) [company](/en/post/company/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) instanced [her](/en/post/her/) [own](/en/post/own/) [experience](/en/post/experience/) [to](/en/post/to/) [prove](/en/post/prove/) [that](/en/post/that/) [hard](/en/post/hard/) [work](/en/post/work/) pays [off](/en/post/off/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[There](/post/there/) [have](/post/have/) been [multiple](/post/multiple/) instances [of](/post/of/) fraud reported [in](/post/in/) [the](/post/the/) [company](/post/company/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) instanced [her](/post/her/) [own](/post/own/) [experience](/post/experience/) [to](/post/to/) [prove](/post/prove/) [that](/post/that/) [hard](/post/hard/) [work](/post/work/) pays [off](/post/off/)."
 
 ## Synonyms
-- [Example](/en/post/example/)
-- [Case](/en/post/case/)
-- [Occurrence](/en/post/occurrence/)
-- [Instance](/en/post/instance/) [of](/en/post/of/)
-- [Illustration](/en/post/illustration/)
-- [Sample](/en/post/sample/)
+- [Example](/post/example/)
+- [Case](/post/case/)
+- [Occurrence](/post/occurrence/)
+- [Instance](/post/instance/) [of](/post/of/)
+- [Illustration](/post/illustration/)
+- [Sample](/post/sample/)
 - Demonstration
-- [Specific](/en/post/specific/) [case](/en/post/case/)
-- [Event](/en/post/event/)
+- [Specific](/post/specific/) [case](/post/case/)
+- [Event](/post/event/)
 - Episode
 
-([As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), synonyms [may](/en/post/may/) [include](/en/post/include/) 'cite', '[mention](/en/post/mention/)', '[reference](/en/post/reference/)', '[quote](/en/post/quote/)', 'allude [to](/en/post/to/)')
+([As](/post/as/) [a](/post/a/) [verb](/post/verb/), synonyms [may](/post/may/) [include](/post/include/) 'cite', '[mention](/post/mention/)', '[reference](/post/reference/)', '[quote](/post/quote/)', 'allude [to](/post/to/)')

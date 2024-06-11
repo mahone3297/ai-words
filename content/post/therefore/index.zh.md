@@ -11,17 +11,17 @@ keywords = ['ai words', 'therefore']
 /ˈθɛrəfɔːr/
 
 ## 释义
-- **连词**: 因此，所以。用来引出一个结果或结论。例如: "[It](/post/it/) was raining [heavily](/post/heavily/), [therefore](/post/therefore/), [we](/post/we/) decided [to](/post/to/) [stay](/post/stay/) [indoors](/post/indoors/)."
+- **连词**: 因此，所以。用来引出一个结果或结论。例如: "[It](/zh/post/it/) was raining [heavily](/zh/post/heavily/), [therefore](/zh/post/therefore/), [we](/zh/post/we/) decided [to](/zh/post/to/) [stay](/zh/post/stay/) [indoors](/zh/post/indoors/)."
 
 ## 短语
-- "[Therefore](/post/therefore/), [in](/post/in/) [conclusion](/post/conclusion/)" 用于引出总结性的陈述。
+- "[Therefore](/zh/post/therefore/), [in](/zh/post/in/) [conclusion](/zh/post/conclusion/)" 用于引出总结性的陈述。
 
 ## 例句
-- "[We](/post/we/) [have](/post/have/) [limited](/post/limited/) resources, [therefore](/post/therefore/), [we](/post/we/) [need](/post/need/) [to](/post/to/) prioritize [our](/post/our/) tasks."
+- "[We](/zh/post/we/) [have](/zh/post/have/) [limited](/zh/post/limited/) resources, [therefore](/zh/post/therefore/), [we](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) prioritize [our](/zh/post/our/) tasks."
 
 ## 同义词
-- [Thus](/post/thus/)
-- [Hence](/post/hence/)
-- [Consequently](/post/consequently/)
-- [Accordingly](/post/accordingly/)
-- [As](/post/as/) [a](/post/a/) [result](/post/result/)
+- [Thus](/zh/post/thus/)
+- [Hence](/zh/post/hence/)
+- [Consequently](/zh/post/consequently/)
+- [Accordingly](/zh/post/accordingly/)
+- [As](/zh/post/as/) [a](/zh/post/a/) [result](/zh/post/result/)

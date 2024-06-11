@@ -7,41 +7,41 @@ description = '[rein] n.雨，雨水 vi.下雨'
 keywords = ['ai words', 'rain']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɛɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Rain](/en/post/rain/)**: 1. [Water](/en/post/water/) [that](/en/post/that/) falls [from](/en/post/from/) [the](/en/post/the/) [sky](/en/post/sky/) [in](/en/post/in/) [liquid](/en/post/liquid/) [form](/en/post/form/) [due](/en/post/due/) [to](/en/post/to/) [atmospheric](/en/post/atmospheric/) condensation, [often](/en/post/often/) accompanied [by](/en/post/by/) clouds. 2. (countable) Precipitation [in](/en/post/in/) [general](/en/post/general/). [Example](/en/post/example/): "[The](/en/post/the/) [rain](/en/post/rain/) fell [heavily](/en/post/heavily/) [all](/en/post/all/) [day](/en/post/day/)."
-- **Rainfall**: [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [rain](/en/post/rain/) [that](/en/post/that/) falls [over](/en/post/over/) [a](/en/post/a/) [specific](/en/post/specific/) [area](/en/post/area/) [or](/en/post/or/) [period](/en/post/period/). [Example](/en/post/example/): "[That](/en/post/that/) [region](/en/post/region/) receives an [annual](/en/post/annual/) rainfall [of](/en/post/of/) [over](/en/post/over/) 40 inches."
+### [Noun](/post/noun/)
+- **[Rain](/post/rain/)**: 1. [Water](/post/water/) [that](/post/that/) falls [from](/post/from/) [the](/post/the/) [sky](/post/sky/) [in](/post/in/) [liquid](/post/liquid/) [form](/post/form/) [due](/post/due/) [to](/post/to/) [atmospheric](/post/atmospheric/) condensation, [often](/post/often/) accompanied [by](/post/by/) clouds. 2. (countable) Precipitation [in](/post/in/) [general](/post/general/). [Example](/post/example/): "[The](/post/the/) [rain](/post/rain/) fell [heavily](/post/heavily/) [all](/post/all/) [day](/post/day/)."
+- **Rainfall**: [The](/post/the/) [amount](/post/amount/) [of](/post/of/) [rain](/post/rain/) [that](/post/that/) falls [over](/post/over/) [a](/post/a/) [specific](/post/specific/) [area](/post/area/) [or](/post/or/) [period](/post/period/). [Example](/post/example/): "[That](/post/that/) [region](/post/region/) receives an [annual](/post/annual/) rainfall [of](/post/of/) [over](/post/over/) 40 inches."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [rain](/en/post/rain/)**: 1. [To](/en/post/to/) [fall](/en/post/fall/) [from](/en/post/from/) [the](/en/post/the/) [sky](/en/post/sky/) [as](/en/post/as/) [water](/en/post/water/) droplets. 2. (figurative) [To](/en/post/to/) [pour](/en/post/pour/) [down](/en/post/down/), [especially](/en/post/especially/) [in](/en/post/in/) terms [of](/en/post/of/) emotions [or](/en/post/or/) events. [Example](/en/post/example/): "[It](/en/post/it/) started raining cats [and](/en/post/and/) dogs [just](/en/post/just/) [as](/en/post/as/) [we](/en/post/we/) were [about](/en/post/about/) [to](/en/post/to/) [leave](/en/post/leave/)."
-- **[Rain](/en/post/rain/) [out](/en/post/out/)**: [To](/en/post/to/) [cancel](/en/post/cancel/) an [event](/en/post/event/) [because](/en/post/because/) [of](/en/post/of/) [rain](/en/post/rain/) [or](/en/post/or/) [bad](/en/post/bad/) [weather](/en/post/weather/). [Example](/en/post/example/): "[The](/en/post/the/) baseball [game](/en/post/game/) was rained [out](/en/post/out/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [rain](/post/rain/)**: 1. [To](/post/to/) [fall](/post/fall/) [from](/post/from/) [the](/post/the/) [sky](/post/sky/) [as](/post/as/) [water](/post/water/) droplets. 2. (figurative) [To](/post/to/) [pour](/post/pour/) [down](/post/down/), [especially](/post/especially/) [in](/post/in/) terms [of](/post/of/) emotions [or](/post/or/) events. [Example](/post/example/): "[It](/post/it/) started raining cats [and](/post/and/) dogs [just](/post/just/) [as](/post/as/) [we](/post/we/) were [about](/post/about/) [to](/post/to/) [leave](/post/leave/)."
+- **[Rain](/post/rain/) [out](/post/out/)**: [To](/post/to/) [cancel](/post/cancel/) an [event](/post/event/) [because](/post/because/) [of](/post/of/) [rain](/post/rain/) [or](/post/or/) [bad](/post/bad/) [weather](/post/weather/). [Example](/post/example/): "[The](/post/the/) baseball [game](/post/game/) was rained [out](/post/out/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Rainy](/en/post/rainy/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) occurring [with](/en/post/with/) [rain](/en/post/rain/). [Example](/en/post/example/): "[We](/en/post/we/) decided [to](/en/post/to/) [stay](/en/post/stay/) [inside](/en/post/inside/) [on](/en/post/on/) [a](/en/post/a/) [rainy](/en/post/rainy/) [day](/en/post/day/)."
-- **Rainproof**: [Resistant](/en/post/resistant/) [to](/en/post/to/) [rain](/en/post/rain/) [or](/en/post/or/) preventing [rain](/en/post/rain/) [from](/en/post/from/) entering. [Example](/en/post/example/): "[This](/en/post/this/) [umbrella](/en/post/umbrella/) is rainproof."
+### [Adjective](/post/adjective/)
+- **[Rainy](/post/rainy/)**: Characterized [by](/post/by/) [or](/post/or/) occurring [with](/post/with/) [rain](/post/rain/). [Example](/post/example/): "[We](/post/we/) decided [to](/post/to/) [stay](/post/stay/) [inside](/post/inside/) [on](/post/on/) [a](/post/a/) [rainy](/post/rainy/) [day](/post/day/)."
+- **Rainproof**: [Resistant](/post/resistant/) [to](/post/to/) [rain](/post/rain/) [or](/post/or/) preventing [rain](/post/rain/) [from](/post/from/) entering. [Example](/post/example/): "[This](/post/this/) [umbrella](/post/umbrella/) is rainproof."
 
-### [Adverb](/en/post/adverb/)
-- **Rainily**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) is [rainy](/en/post/rainy/) [or](/en/post/or/) [wet](/en/post/wet/). [Example](/en/post/example/): "[The](/en/post/the/) leaves rustled rainily [in](/en/post/in/) [the](/en/post/the/) [wind](/en/post/wind/)."
+### [Adverb](/post/adverb/)
+- **Rainily**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) is [rainy](/post/rainy/) [or](/post/or/) [wet](/post/wet/). [Example](/post/example/): "[The](/post/the/) leaves rustled rainily [in](/post/in/) [the](/post/the/) [wind](/post/wind/)."
 
 ## Phrases
-- "It's raining cats [and](/en/post/and/) dogs" ([a](/en/post/a/) colloquial [expression](/en/post/expression/) [meaning](/en/post/meaning/) it's raining [very](/en/post/very/) [heavily](/en/post/heavily/)).
-- "[Get](/en/post/get/) [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [rain](/en/post/rain/)" (an [instruction](/en/post/instruction/) [to](/en/post/to/) [come](/en/post/come/) [indoors](/en/post/indoors/) [to](/en/post/to/) [avoid](/en/post/avoid/) [the](/en/post/the/) precipitation).
-- "[Under](/en/post/under/) [the](/en/post/the/) [rain](/en/post/rain/) [cover](/en/post/cover/)" (referring [to](/en/post/to/) [a](/en/post/a/) [shelter](/en/post/shelter/) [or](/en/post/or/) [protection](/en/post/protection/) [from](/en/post/from/) [rain](/en/post/rain/)).
+- "It's raining cats [and](/post/and/) dogs" ([a](/post/a/) colloquial [expression](/post/expression/) [meaning](/post/meaning/) it's raining [very](/post/very/) [heavily](/post/heavily/)).
+- "[Get](/post/get/) [out](/post/out/) [of](/post/of/) [the](/post/the/) [rain](/post/rain/)" (an [instruction](/post/instruction/) [to](/post/to/) [come](/post/come/) [indoors](/post/indoors/) [to](/post/to/) [avoid](/post/avoid/) [the](/post/the/) precipitation).
+- "[Under](/post/under/) [the](/post/the/) [rain](/post/rain/) [cover](/post/cover/)" (referring [to](/post/to/) [a](/post/a/) [shelter](/post/shelter/) [or](/post/or/) [protection](/post/protection/) [from](/post/from/) [rain](/post/rain/)).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were playing [in](/en/post/in/) [the](/en/post/the/) puddles [after](/en/post/after/) [a](/en/post/a/) [heavy](/en/post/heavy/) [rain](/en/post/rain/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [concert](/en/post/concert/) was canceled [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [heavy](/en/post/heavy/) [rain](/en/post/rain/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) wore [her](/en/post/her/) raincoat [to](/en/post/to/) [protect](/en/post/protect/) [herself](/en/post/herself/) [from](/en/post/from/) [the](/en/post/the/) drizzle."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) ran [quickly](/en/post/quickly/) [under](/en/post/under/) [the](/en/post/the/) awning [to](/en/post/to/) [escape](/en/post/escape/) [the](/en/post/the/) rainily falling [water](/en/post/water/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were playing [in](/post/in/) [the](/post/the/) puddles [after](/post/after/) [a](/post/a/) [heavy](/post/heavy/) [rain](/post/rain/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [concert](/post/concert/) was canceled [due](/post/due/) [to](/post/to/) [the](/post/the/) [heavy](/post/heavy/) [rain](/post/rain/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) wore [her](/post/her/) raincoat [to](/post/to/) [protect](/post/protect/) [herself](/post/herself/) [from](/post/from/) [the](/post/the/) drizzle."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) ran [quickly](/post/quickly/) [under](/post/under/) [the](/post/the/) awning [to](/post/to/) [escape](/post/escape/) [the](/post/the/) rainily falling [water](/post/water/)."
 
 ## Synonyms
 - Raindrop
-- [Shower](/en/post/shower/)
+- [Shower](/post/shower/)
 - Downpour
 - Drench
 - Drizzle
-- [Sprinkle](/en/post/sprinkle/)
+- [Sprinkle](/post/sprinkle/)
 - Deluge

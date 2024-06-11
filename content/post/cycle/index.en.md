@@ -7,38 +7,38 @@ description = '[ˈsaikl] n 自行车，循环'
 keywords = ['ai words', 'cycle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈsaɪkl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [bicycle](/en/post/bicycle/) [with](/en/post/with/) [a](/en/post/a/) chain-driven mechanism [that](/en/post/that/) allows [it](/en/post/it/) [to](/en/post/to/) [move](/en/post/move/) [by](/en/post/by/) pedaling:** [The](/en/post/the/) children were riding [their](/en/post/their/) bicycles [around](/en/post/around/) [the](/en/post/the/) [park](/en/post/park/) [on](/en/post/on/) [a](/en/post/a/) [sunny](/en/post/sunny/) [day](/en/post/day/).
-2. **[A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) events [that](/en/post/that/) [repeat](/en/post/repeat/) [in](/en/post/in/) [a](/en/post/a/) fixed [order](/en/post/order/) [or](/en/post/or/) [sequence](/en/post/sequence/):** [The](/en/post/the/) seasons [follow](/en/post/follow/) [a](/en/post/a/) [natural](/en/post/natural/) [cycle](/en/post/cycle/) [of](/en/post/of/) [growth](/en/post/growth/) [and](/en/post/and/) [decay](/en/post/decay/).
-3. **[A](/en/post/a/) [period](/en/post/period/) [or](/en/post/or/) [stage](/en/post/stage/) [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/), [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) repeating [pattern](/en/post/pattern/):** [The](/en/post/the/) [economy](/en/post/economy/) goes [through](/en/post/through/) [various](/en/post/various/) cycles [of](/en/post/of/) [expansion](/en/post/expansion/) [and](/en/post/and/) recession.
-4. **[A](/en/post/a/) [circular](/en/post/circular/) [motion](/en/post/motion/) [or](/en/post/or/) [movement](/en/post/movement/):** [The](/en/post/the/) planets [orbit](/en/post/orbit/) [the](/en/post/the/) [sun](/en/post/sun/) [in](/en/post/in/) [a](/en/post/a/) [solar](/en/post/solar/) [cycle](/en/post/cycle/).
-5. **[A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) related things [that](/en/post/that/) [share](/en/post/share/) [a](/en/post/a/) [common](/en/post/common/) [characteristic](/en/post/characteristic/) [or](/en/post/or/) [purpose](/en/post/purpose/):** [A](/en/post/a/) recycling [cycle](/en/post/cycle/) involves collecting, processing, [and](/en/post/and/) reusing materials.
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [bicycle](/post/bicycle/) [with](/post/with/) [a](/post/a/) chain-driven mechanism [that](/post/that/) allows [it](/post/it/) [to](/post/to/) [move](/post/move/) [by](/post/by/) pedaling:** [The](/post/the/) children were riding [their](/post/their/) bicycles [around](/post/around/) [the](/post/the/) [park](/post/park/) [on](/post/on/) [a](/post/a/) [sunny](/post/sunny/) [day](/post/day/).
+2. **[A](/post/a/) [series](/post/series/) [of](/post/of/) events [that](/post/that/) [repeat](/post/repeat/) [in](/post/in/) [a](/post/a/) fixed [order](/post/order/) [or](/post/or/) [sequence](/post/sequence/):** [The](/post/the/) seasons [follow](/post/follow/) [a](/post/a/) [natural](/post/natural/) [cycle](/post/cycle/) [of](/post/of/) [growth](/post/growth/) [and](/post/and/) [decay](/post/decay/).
+3. **[A](/post/a/) [period](/post/period/) [or](/post/or/) [stage](/post/stage/) [of](/post/of/) [a](/post/a/) [process](/post/process/), [often](/post/often/) referring [to](/post/to/) [a](/post/a/) repeating [pattern](/post/pattern/):** [The](/post/the/) [economy](/post/economy/) goes [through](/post/through/) [various](/post/various/) cycles [of](/post/of/) [expansion](/post/expansion/) [and](/post/and/) recession.
+4. **[A](/post/a/) [circular](/post/circular/) [motion](/post/motion/) [or](/post/or/) [movement](/post/movement/):** [The](/post/the/) planets [orbit](/post/orbit/) [the](/post/the/) [sun](/post/sun/) [in](/post/in/) [a](/post/a/) [solar](/post/solar/) [cycle](/post/cycle/).
+5. **[A](/post/a/) [group](/post/group/) [of](/post/of/) related things [that](/post/that/) [share](/post/share/) [a](/post/a/) [common](/post/common/) [characteristic](/post/characteristic/) [or](/post/or/) [purpose](/post/purpose/):** [A](/post/a/) recycling [cycle](/post/cycle/) involves collecting, processing, [and](/post/and/) reusing materials.
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [go](/en/post/go/) [through](/en/post/through/) [a](/en/post/a/) [complete](/en/post/complete/) [cycle](/en/post/cycle/) [or](/en/post/or/) [rotation](/en/post/rotation/):** [The](/en/post/the/) [car](/en/post/car/) [engine](/en/post/engine/) cycles [through](/en/post/through/) [its](/en/post/its/) pistons.
-2. **[To](/en/post/to/) [repeat](/en/post/repeat/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [activity](/en/post/activity/):** [The](/en/post/the/) [farmer](/en/post/farmer/) cycles [through](/en/post/through/) [different](/en/post/different/) crops [each](/en/post/each/) [year](/en/post/year/).
-3. **[To](/en/post/to/) [return](/en/post/return/) [to](/en/post/to/) [a](/en/post/a/) [previous](/en/post/previous/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/):** [The](/en/post/the/) [stock](/en/post/stock/) [market](/en/post/market/) has cycled [back](/en/post/back/) [to](/en/post/to/) [its](/en/post/its/) earlier levels [after](/en/post/after/) [a](/en/post/a/) [dip](/en/post/dip/).
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [go](/post/go/) [through](/post/through/) [a](/post/a/) [complete](/post/complete/) [cycle](/post/cycle/) [or](/post/or/) [rotation](/post/rotation/):** [The](/post/the/) [car](/post/car/) [engine](/post/engine/) cycles [through](/post/through/) [its](/post/its/) pistons.
+2. **[To](/post/to/) [repeat](/post/repeat/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [activity](/post/activity/):** [The](/post/the/) [farmer](/post/farmer/) cycles [through](/post/through/) [different](/post/different/) crops [each](/post/each/) [year](/post/year/).
+3. **[To](/post/to/) [return](/post/return/) [to](/post/to/) [a](/post/a/) [previous](/post/previous/) [state](/post/state/) [or](/post/or/) [condition](/post/condition/):** [The](/post/the/) [stock](/post/stock/) [market](/post/market/) has cycled [back](/post/back/) [to](/post/to/) [its](/post/its/) earlier levels [after](/post/after/) [a](/post/a/) [dip](/post/dip/).
 
 ## Phrases
-- "[Cycle](/en/post/cycle/) [through](/en/post/through/)": [To](/en/post/to/) [go](/en/post/go/) [through](/en/post/through/) [each](/en/post/each/) [item](/en/post/item/) [or](/en/post/or/) [phase](/en/post/phase/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/).
-- "[Life](/en/post/life/) [cycle](/en/post/cycle/)": [The](/en/post/the/) progression [from](/en/post/from/) [birth](/en/post/birth/) [to](/en/post/to/) [death](/en/post/death/) [of](/en/post/of/) [living](/en/post/living/) organisms.
-- "[Carbon](/en/post/carbon/) [cycle](/en/post/cycle/)": [The](/en/post/the/) [movement](/en/post/movement/) [of](/en/post/of/) [carbon](/en/post/carbon/) [between](/en/post/between/) [the](/en/post/the/) [atmosphere](/en/post/atmosphere/), oceans, [and](/en/post/and/) [land](/en/post/land/).
-- "[Cycle](/en/post/cycle/) [training](/en/post/training/)": [Regular](/en/post/regular/) [exercise](/en/post/exercise/) routines [that](/en/post/that/) mimic [the](/en/post/the/) demands [of](/en/post/of/) cycling.
+- "[Cycle](/post/cycle/) [through](/post/through/)": [To](/post/to/) [go](/post/go/) [through](/post/through/) [each](/post/each/) [item](/post/item/) [or](/post/or/) [phase](/post/phase/) [in](/post/in/) [a](/post/a/) [series](/post/series/).
+- "[Life](/post/life/) [cycle](/post/cycle/)": [The](/post/the/) progression [from](/post/from/) [birth](/post/birth/) [to](/post/to/) [death](/post/death/) [of](/post/of/) [living](/post/living/) organisms.
+- "[Carbon](/post/carbon/) [cycle](/post/cycle/)": [The](/post/the/) [movement](/post/movement/) [of](/post/of/) [carbon](/post/carbon/) [between](/post/between/) [the](/post/the/) [atmosphere](/post/atmosphere/), oceans, [and](/post/and/) [land](/post/land/).
+- "[Cycle](/post/cycle/) [training](/post/training/)": [Regular](/post/regular/) [exercise](/post/exercise/) routines [that](/post/that/) mimic [the](/post/the/) demands [of](/post/of/) cycling.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) observed [the](/en/post/the/) plants going [through](/en/post/through/) [their](/en/post/their/) [life](/en/post/life/) [cycle](/en/post/cycle/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) cycles [to](/en/post/to/) [work](/en/post/work/) [every](/en/post/every/) [day](/en/post/day/), [which](/en/post/which/) helps [her](/en/post/her/) [stay](/en/post/stay/) [fit](/en/post/fit/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [water](/en/post/water/) [cycle](/en/post/cycle/) plays [a](/en/post/a/) [vital](/en/post/vital/) [role](/en/post/role/) [in](/en/post/in/) maintaining Earth's ecosystems."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [gardener](/post/gardener/) observed [the](/post/the/) plants going [through](/post/through/) [their](/post/their/) [life](/post/life/) [cycle](/post/cycle/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) cycles [to](/post/to/) [work](/post/work/) [every](/post/every/) [day](/post/day/), [which](/post/which/) helps [her](/post/her/) [stay](/post/stay/) [fit](/post/fit/)."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) [water](/post/water/) [cycle](/post/cycle/) plays [a](/post/a/) [vital](/post/vital/) [role](/post/role/) [in](/post/in/) maintaining Earth's ecosystems."
 
 ## Synonyms
-- [Revolution](/en/post/revolution/) (cycling)
-- [Orbit](/en/post/orbit/) (cycling)
-- [Cycle](/en/post/cycle/) [through](/en/post/through/)
+- [Revolution](/post/revolution/) (cycling)
+- [Orbit](/post/orbit/) (cycling)
+- [Cycle](/post/cycle/) [through](/post/through/)
 - Recurrence
 - Iteration
-- [Sequence](/en/post/sequence/)
-- [Round](/en/post/round/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/))
+- [Sequence](/post/sequence/)
+- [Round](/post/round/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [process](/post/process/))

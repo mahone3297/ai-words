@@ -7,29 +7,29 @@ description = '[ˈinəsnt] a.清白的，幼稚的'
 keywords = ['ai words', 'innocent']
 +++
 
-## [Word](/en/post/word/): [Innocent](/en/post/innocent/)
+## [Word](/post/word/): [Innocent](/post/innocent/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪnəsnt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Free](/en/post/free/) [from](/en/post/from/) guilt, [sin](/en/post/sin/), [or](/en/post/or/) immorality; [not](/en/post/not/) [responsible](/en/post/responsible/) [for](/en/post/for/) wrongdoing. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) child's [innocent](/en/post/innocent/) eyes sparkled [with](/en/post/with/) [curiosity](/en/post/curiosity/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [free](/en/post/free/) [from](/en/post/from/) guilt, [especially](/en/post/especially/) [one](/en/post/one/) [who](/en/post/who/) has [not](/en/post/not/) committed [a](/en/post/a/) [specific](/en/post/specific/) [crime](/en/post/crime/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) accused was proven [innocent](/en/post/innocent/) [by](/en/post/by/) [the](/en/post/the/) [jury](/en/post/jury/)."
-- **[Adjective](/en/post/adjective/) ([Law](/en/post/law/))**: [Not](/en/post/not/) legally [guilty](/en/post/guilty/) [of](/en/post/of/) [a](/en/post/a/) [crime](/en/post/crime/) [or](/en/post/or/) offense. [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) reviewing [the](/en/post/the/) [evidence](/en/post/evidence/), [the](/en/post/the/) [judge](/en/post/judge/) declared [him](/en/post/him/) [innocent](/en/post/innocent/)."
-- **[Adjective](/en/post/adjective/) (Naive)**: Lacking worldly [experience](/en/post/experience/), [knowledge](/en/post/knowledge/), [or](/en/post/or/) sophistication; unsophisticated. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) had an [innocent](/en/post/innocent/) [belief](/en/post/belief/) [that](/en/post/that/) [everyone](/en/post/everyone/) tells [the](/en/post/the/) [truth](/en/post/truth/)."
+- **[Adjective](/post/adjective/)**: [Free](/post/free/) [from](/post/from/) guilt, [sin](/post/sin/), [or](/post/or/) immorality; [not](/post/not/) [responsible](/post/responsible/) [for](/post/for/) wrongdoing. [For](/post/for/) [example](/post/example/): "[The](/post/the/) child's [innocent](/post/innocent/) eyes sparkled [with](/post/with/) [curiosity](/post/curiosity/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [free](/post/free/) [from](/post/from/) guilt, [especially](/post/especially/) [one](/post/one/) [who](/post/who/) has [not](/post/not/) committed [a](/post/a/) [specific](/post/specific/) [crime](/post/crime/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) accused was proven [innocent](/post/innocent/) [by](/post/by/) [the](/post/the/) [jury](/post/jury/)."
+- **[Adjective](/post/adjective/) ([Law](/post/law/))**: [Not](/post/not/) legally [guilty](/post/guilty/) [of](/post/of/) [a](/post/a/) [crime](/post/crime/) [or](/post/or/) offense. [For](/post/for/) [example](/post/example/): "[After](/post/after/) reviewing [the](/post/the/) [evidence](/post/evidence/), [the](/post/the/) [judge](/post/judge/) declared [him](/post/him/) [innocent](/post/innocent/)."
+- **[Adjective](/post/adjective/) (Naive)**: Lacking worldly [experience](/post/experience/), [knowledge](/post/knowledge/), [or](/post/or/) sophistication; unsophisticated. [For](/post/for/) [example](/post/example/): "[She](/post/she/) had an [innocent](/post/innocent/) [belief](/post/belief/) [that](/post/that/) [everyone](/post/everyone/) tells [the](/post/the/) [truth](/post/truth/)."
 
 ## Phrases
-- "[Innocent](/en/post/innocent/) [until](/en/post/until/) proven [guilty](/en/post/guilty/)": [The](/en/post/the/) [principle](/en/post/principle/) [that](/en/post/that/) [a](/en/post/a/) [person](/en/post/person/) accused [of](/en/post/of/) [a](/en/post/a/) [crime](/en/post/crime/) is considered [not](/en/post/not/) [guilty](/en/post/guilty/) [until](/en/post/until/) [evidence](/en/post/evidence/) proves [otherwise](/en/post/otherwise/).
-- "[Innocent](/en/post/innocent/) bystander": [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is uninvolved [in](/en/post/in/) [a](/en/post/a/) [conflict](/en/post/conflict/) [or](/en/post/or/) [situation](/en/post/situation/) [but](/en/post/but/) is affected [by](/en/post/by/) [it](/en/post/it/) nonetheless.
-- "[Guilty](/en/post/guilty/) [conscience](/en/post/conscience/) needs [no](/en/post/no/) accuser; an [innocent](/en/post/innocent/) [life](/en/post/life/) laughs [at](/en/post/at/) threats": [A](/en/post/a/) proverb emphasizing [that](/en/post/that/) [those](/en/post/those/) [who](/en/post/who/) [have](/en/post/have/) done [nothing](/en/post/nothing/) [wrong](/en/post/wrong/) [have](/en/post/have/) [nothing](/en/post/nothing/) [to](/en/post/to/) [fear](/en/post/fear/).
+- "[Innocent](/post/innocent/) [until](/post/until/) proven [guilty](/post/guilty/)": [The](/post/the/) [principle](/post/principle/) [that](/post/that/) [a](/post/a/) [person](/post/person/) accused [of](/post/of/) [a](/post/a/) [crime](/post/crime/) is considered [not](/post/not/) [guilty](/post/guilty/) [until](/post/until/) [evidence](/post/evidence/) proves [otherwise](/post/otherwise/).
+- "[Innocent](/post/innocent/) bystander": [A](/post/a/) [person](/post/person/) [who](/post/who/) is uninvolved [in](/post/in/) [a](/post/a/) [conflict](/post/conflict/) [or](/post/or/) [situation](/post/situation/) [but](/post/but/) is affected [by](/post/by/) [it](/post/it/) nonetheless.
+- "[Guilty](/post/guilty/) [conscience](/post/conscience/) needs [no](/post/no/) accuser; an [innocent](/post/innocent/) [life](/post/life/) laughs [at](/post/at/) threats": [A](/post/a/) proverb emphasizing [that](/post/that/) [those](/post/those/) [who](/post/who/) [have](/post/have/) done [nothing](/post/nothing/) [wrong](/post/wrong/) [have](/post/have/) [nothing](/post/nothing/) [to](/post/to/) [fear](/post/fear/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) (Guiltlessness)**: "[Despite](/en/post/despite/) [their](/en/post/their/) suspicious [behavior](/en/post/behavior/), [they](/en/post/they/) were entirely [innocent](/en/post/innocent/) [of](/en/post/of/) [any](/en/post/any/) involvement [in](/en/post/in/) [the](/en/post/the/) theft."
-- **[Noun](/en/post/noun/)**: "[As](/en/post/as/) [the](/en/post/the/) [sole](/en/post/sole/) [innocent](/en/post/innocent/) [among](/en/post/among/) [the](/en/post/the/) [guilty](/en/post/guilty/) parties, [he](/en/post/he/) was released [without](/en/post/without/) [charge](/en/post/charge/)."
-- **[Adjective](/en/post/adjective/) (Naivety)**: "[His](/en/post/his/) [innocent](/en/post/innocent/) assumption [that](/en/post/that/) [all](/en/post/all/) [people](/en/post/people/) are inherently [good](/en/post/good/) led [to](/en/post/to/) [his](/en/post/his/) downfall."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) (Guiltlessness)**: "[Despite](/post/despite/) [their](/post/their/) suspicious [behavior](/post/behavior/), [they](/post/they/) were entirely [innocent](/post/innocent/) [of](/post/of/) [any](/post/any/) involvement [in](/post/in/) [the](/post/the/) theft."
+- **[Noun](/post/noun/)**: "[As](/post/as/) [the](/post/the/) [sole](/post/sole/) [innocent](/post/innocent/) [among](/post/among/) [the](/post/the/) [guilty](/post/guilty/) parties, [he](/post/he/) was released [without](/post/without/) [charge](/post/charge/)."
+- **[Adjective](/post/adjective/) (Naivety)**: "[His](/post/his/) [innocent](/post/innocent/) assumption [that](/post/that/) [all](/post/all/) [people](/post/people/) are inherently [good](/post/good/) led [to](/post/to/) [his](/post/his/) downfall."
 
 ## Synonyms
-- [Pure](/en/post/pure/)
+- [Pure](/post/pure/)
 - Unblemished
 - Blameless
 - Undefiled

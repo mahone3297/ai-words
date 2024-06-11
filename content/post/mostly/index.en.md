@@ -7,30 +7,30 @@ description = '[ˈməustli] ad.主要的，大部分'
 keywords = ['ai words', 'mostly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmoʊstli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Mainly](/en/post/mainly/), [for](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/), [largely](/en/post/largely/), predominantly, [or](/en/post/or/) [almost](/en/post/almost/) [completely](/en/post/completely/). [It](/en/post/it/) is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is [true](/en/post/true/) [or](/en/post/or/) applies [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [extent](/en/post/extent/) [but](/en/post/but/) [not](/en/post/not/) entirely.
+- **[Adverb](/post/adverb/)**: [Mainly](/post/mainly/), [for](/post/for/) [the](/post/the/) [most](/post/most/) [part](/post/part/), [largely](/post/largely/), predominantly, [or](/post/or/) [almost](/post/almost/) [completely](/post/completely/). [It](/post/it/) is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is [true](/post/true/) [or](/post/or/) applies [to](/post/to/) [a](/post/a/) [large](/post/large/) [extent](/post/extent/) [but](/post/but/) [not](/post/not/) entirely.
 
-[Example](/en/post/example/) [usage](/en/post/usage/):
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) eats healthily **[mostly](/en/post/mostly/)** [but](/en/post/but/) [occasionally](/en/post/occasionally/) indulges [in](/en/post/in/) sweets."
-- "[The](/en/post/the/) [sky](/en/post/sky/) was **[mostly](/en/post/mostly/)** [clear](/en/post/clear/), [with](/en/post/with/) [only](/en/post/only/) [a](/en/post/a/) [few](/en/post/few/) scattered clouds."
-- "[His](/en/post/his/) [work](/en/post/work/) involves [writing](/en/post/writing/) **[mostly](/en/post/mostly/)**, [with](/en/post/with/) [some](/en/post/some/) editing tasks thrown [in](/en/post/in/)."
+[Example](/post/example/) [usage](/post/usage/):
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) eats healthily **[mostly](/post/mostly/)** [but](/post/but/) [occasionally](/post/occasionally/) indulges [in](/post/in/) sweets."
+- "[The](/post/the/) [sky](/post/sky/) was **[mostly](/post/mostly/)** [clear](/post/clear/), [with](/post/with/) [only](/post/only/) [a](/post/a/) [few](/post/few/) scattered clouds."
+- "[His](/post/his/) [work](/post/work/) involves [writing](/post/writing/) **[mostly](/post/mostly/)**, [with](/post/with/) [some](/post/some/) editing tasks thrown [in](/post/in/)."
 
 ## Phrases
-- "[Mostly](/en/post/mostly/) [likely](/en/post/likely/)" - indicating [a](/en/post/a/) [high](/en/post/high/) [probability](/en/post/probability/) [or](/en/post/or/) [strong](/en/post/strong/) likelihood: "It's **[mostly](/en/post/mostly/) [likely](/en/post/likely/)** going [to](/en/post/to/) [rain](/en/post/rain/) [later](/en/post/later/) [today](/en/post/today/)."
-- "[Mostly](/en/post/mostly/) harmless" - [a](/en/post/a/) [phrase](/en/post/phrase/) popularized [by](/en/post/by/) Douglas Adams' [book](/en/post/book/) [series](/en/post/series/) "[The](/en/post/the/) Hitchhiker's [Guide](/en/post/guide/) [to](/en/post/to/) [the](/en/post/the/) Galaxy" [to](/en/post/to/) [describe](/en/post/describe/) [Earth](/en/post/earth/), [meaning](/en/post/meaning/) [that](/en/post/that/) [it](/en/post/it/) poses [little](/en/post/little/) [to](/en/post/to/) [no](/en/post/no/) [threat](/en/post/threat/).
+- "[Mostly](/post/mostly/) [likely](/post/likely/)" - indicating [a](/post/a/) [high](/post/high/) [probability](/post/probability/) [or](/post/or/) [strong](/post/strong/) likelihood: "It's **[mostly](/post/mostly/) [likely](/post/likely/)** going [to](/post/to/) [rain](/post/rain/) [later](/post/later/) [today](/post/today/)."
+- "[Mostly](/post/mostly/) harmless" - [a](/post/a/) [phrase](/post/phrase/) popularized [by](/post/by/) Douglas Adams' [book](/post/book/) [series](/post/series/) "[The](/post/the/) Hitchhiker's [Guide](/post/guide/) [to](/post/to/) [the](/post/the/) Galaxy" [to](/post/to/) [describe](/post/describe/) [Earth](/post/earth/), [meaning](/post/meaning/) [that](/post/that/) [it](/post/it/) poses [little](/post/little/) [to](/post/to/) [no](/post/no/) [threat](/post/threat/).
   
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I **[mostly](/en/post/mostly/)** [agree](/en/post/agree/) [with](/en/post/with/) [your](/en/post/your/) [proposal](/en/post/proposal/); [however](/en/post/however/), [there](/en/post/there/) are [a](/en/post/a/) [few](/en/post/few/) points I'd [like](/en/post/like/) [to](/en/post/to/) [discuss](/en/post/discuss/) [further](/en/post/further/)."
-- "[The](/en/post/the/) [house](/en/post/house/) is **[mostly](/en/post/mostly/)** finished; [we](/en/post/we/) [just](/en/post/just/) [need](/en/post/need/) [to](/en/post/to/) [add](/en/post/add/) [the](/en/post/the/) [final](/en/post/final/) touches."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I **[mostly](/post/mostly/)** [agree](/post/agree/) [with](/post/with/) [your](/post/your/) [proposal](/post/proposal/); [however](/post/however/), [there](/post/there/) are [a](/post/a/) [few](/post/few/) points I'd [like](/post/like/) [to](/post/to/) [discuss](/post/discuss/) [further](/post/further/)."
+- "[The](/post/the/) [house](/post/house/) is **[mostly](/post/mostly/)** finished; [we](/post/we/) [just](/post/just/) [need](/post/need/) [to](/post/to/) [add](/post/add/) [the](/post/the/) [final](/post/final/) touches."
 
 ## Synonyms
-- [Primarily](/en/post/primarily/)
-- [Mainly](/en/post/mainly/)
-- [Largely](/en/post/largely/)
+- [Primarily](/post/primarily/)
+- [Mainly](/post/mainly/)
+- [Largely](/post/largely/)
 - Predominantly
-- [For](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/)
-- [Generally](/en/post/generally/)
-- [Almost](/en/post/almost/) [completely](/en/post/completely/)
+- [For](/post/for/) [the](/post/the/) [most](/post/most/) [part](/post/part/)
+- [Generally](/post/generally/)
+- [Almost](/post/almost/) [completely](/post/completely/)

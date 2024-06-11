@@ -11,22 +11,22 @@ keywords = ['ai words', 'yellow']
 /ˈjɛləʊ/
 
 ## 释义
-- **形容词**: 颜色为黄色的。例如: "[The](/post/the/) [sun](/post/sun/) is [a](/post/a/) [bright](/post/bright/) [yellow](/post/yellow/) [ball](/post/ball/) [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
-- **名词**: 黄色（颜色）。例如: "[Yellow](/post/yellow/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) [primary](/post/primary/) colors."
-- **名词**: 黄色的事物，如花朵、水果等。例如: "[The](/post/the/) daffodils are [in](/post/in/) [bloom](/post/bloom/), [painting](/post/painting/) [the](/post/the/) [garden](/post/garden/) [with](/post/with/) patches [of](/post/of/) [yellow](/post/yellow/)."
+- **形容词**: 颜色为黄色的。例如: "[The](/zh/post/the/) [sun](/zh/post/sun/) is [a](/zh/post/a/) [bright](/zh/post/bright/) [yellow](/zh/post/yellow/) [ball](/zh/post/ball/) [in](/zh/post/in/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
+- **名词**: 黄色（颜色）。例如: "[Yellow](/zh/post/yellow/) is [one](/zh/post/one/) [of](/zh/post/of/) [the](/zh/post/the/) [primary](/zh/post/primary/) colors."
+- **名词**: 黄色的事物，如花朵、水果等。例如: "[The](/zh/post/the/) daffodils are [in](/zh/post/in/) [bloom](/zh/post/bloom/), [painting](/zh/post/painting/) [the](/zh/post/the/) [garden](/zh/post/garden/) [with](/zh/post/with/) patches [of](/zh/post/of/) [yellow](/zh/post/yellow/)."
 
 ## 短语
-- "[yellow](/post/yellow/) [fever](/post/fever/)" 指黄热病，一种由蚊子传播的疾病。
-- "[yellow](/post/yellow/) bellied" 形容胆小或懦弱的人。
+- "[yellow](/zh/post/yellow/) [fever](/zh/post/fever/)" 指黄热病，一种由蚊子传播的疾病。
+- "[yellow](/zh/post/yellow/) bellied" 形容胆小或懦弱的人。
 
 ## 例句
-- 形容词: "[She](/post/she/) wore [a](/post/a/) [sunny](/post/sunny/) [yellow](/post/yellow/) [dress](/post/dress/) [that](/post/that/) matched [her](/post/her/) [cheerful](/post/cheerful/) [mood](/post/mood/)."
-- 名词: "[The](/post/the/) [banana](/post/banana/) was [perfectly](/post/perfectly/) [ripe](/post/ripe/), [with](/post/with/) [a](/post/a/) [bright](/post/bright/) [yellow](/post/yellow/) [skin](/post/skin/)."
-- 名词: "[The](/post/the/) canary's [beautiful](/post/beautiful/) [yellow](/post/yellow/) feathers caught [my](/post/my/) [eye](/post/eye/)."
+- 形容词: "[She](/zh/post/she/) wore [a](/zh/post/a/) [sunny](/zh/post/sunny/) [yellow](/zh/post/yellow/) [dress](/zh/post/dress/) [that](/zh/post/that/) matched [her](/zh/post/her/) [cheerful](/zh/post/cheerful/) [mood](/zh/post/mood/)."
+- 名词: "[The](/zh/post/the/) [banana](/zh/post/banana/) was [perfectly](/zh/post/perfectly/) [ripe](/zh/post/ripe/), [with](/zh/post/with/) [a](/zh/post/a/) [bright](/zh/post/bright/) [yellow](/zh/post/yellow/) [skin](/zh/post/skin/)."
+- 名词: "[The](/zh/post/the/) canary's [beautiful](/zh/post/beautiful/) [yellow](/zh/post/yellow/) feathers caught [my](/zh/post/my/) [eye](/zh/post/eye/)."
 
 ## 同义词
 - Amber
-- [Golden](/post/golden/)
+- [Golden](/zh/post/golden/)
 - Mustard
-- [Banana](/post/banana/)
-- [Lemon](/post/lemon/)
+- [Banana](/zh/post/banana/)
+- [Lemon](/zh/post/lemon/)

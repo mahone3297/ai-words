@@ -11,20 +11,20 @@ keywords = ['ai words', 'viewpoint']
 /vjuːˈpɔɪnt/
 
 ## 释义
-- **名词**: 观点，看法，立场。指个人或集体对事物的理解、解释或态度。例如: "[She](/post/she/) presented [her](/post/her/) [unique](/post/unique/) [viewpoint](/post/viewpoint/) [on](/post/on/) [the](/post/the/) [issue](/post/issue/)."
-- **名词**: 风景点，视野。指从某个位置看到的景色或景象。例如: "[The](/post/the/) mountaintop offers [a](/post/a/) breathtaking [viewpoint](/post/viewpoint/) [over](/post/over/) [the](/post/the/) [valley](/post/valley/)."
+- **名词**: 观点，看法，立场。指个人或集体对事物的理解、解释或态度。例如: "[She](/zh/post/she/) presented [her](/zh/post/her/) [unique](/zh/post/unique/) [viewpoint](/zh/post/viewpoint/) [on](/zh/post/on/) [the](/zh/post/the/) [issue](/zh/post/issue/)."
+- **名词**: 风景点，视野。指从某个位置看到的景色或景象。例如: "[The](/zh/post/the/) mountaintop offers [a](/zh/post/a/) breathtaking [viewpoint](/zh/post/viewpoint/) [over](/zh/post/over/) [the](/zh/post/the/) [valley](/zh/post/valley/)."
 
 ## 短语
-- "[From](/post/from/) [my](/post/my/) [viewpoint](/post/viewpoint/)" 意为从我的角度来看。
-- "[Change](/post/change/) [of](/post/of/) [viewpoint](/post/viewpoint/)" 指观点或立场的转变。
+- "[From](/zh/post/from/) [my](/zh/post/my/) [viewpoint](/zh/post/viewpoint/)" 意为从我的角度来看。
+- "[Change](/zh/post/change/) [of](/zh/post/of/) [viewpoint](/zh/post/viewpoint/)" 指观点或立场的转变。
 
 ## 例句
-- 名词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [consider](/post/consider/) [all](/post/all/) viewpoints [before](/post/before/) making [a](/post/a/) [decision](/post/decision/)."
-- 名词: "[The](/post/the/) [viewpoint](/post/viewpoint/) [from](/post/from/) [the](/post/the/) [top](/post/top/) [of](/post/of/) [the](/post/the/) [tower](/post/tower/) was stunning."
+- 名词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [consider](/zh/post/consider/) [all](/zh/post/all/) viewpoints [before](/zh/post/before/) making [a](/zh/post/a/) [decision](/zh/post/decision/)."
+- 名词: "[The](/zh/post/the/) [viewpoint](/zh/post/viewpoint/) [from](/zh/post/from/) [the](/zh/post/the/) [top](/zh/post/top/) [of](/zh/post/of/) [the](/zh/post/the/) [tower](/zh/post/tower/) was stunning."
 
 ## 同义词
-- [Perspective](/post/perspective/)
-- [Opinion](/post/opinion/)
-- [Standpoint](/post/standpoint/)
-- [Outlook](/post/outlook/)
-- [Position](/post/position/)
+- [Perspective](/zh/post/perspective/)
+- [Opinion](/zh/post/opinion/)
+- [Standpoint](/zh/post/standpoint/)
+- [Outlook](/zh/post/outlook/)
+- [Position](/zh/post/position/)

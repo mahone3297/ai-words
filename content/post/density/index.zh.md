@@ -11,21 +11,21 @@ keywords = ['ai words', 'density']
 /denˈsɪti/
 
 ## 释义
-- **名词**: 物质的质量与其所占空间的体积之比，表示为单位体积的质量。例如: "[The](/post/the/) [density](/post/density/) [of](/post/of/) [water](/post/water/) is [about](/post/about/) 1 gram [per](/post/per/) [cubic](/post/cubic/) centimeter."
-- **形容词**: 密集的，稠密的，指人口、物质量大或集中。例如: "[This](/post/this/) [city](/post/city/) has [a](/post/a/) [high](/post/high/) [population](/post/population/) [density](/post/density/)."
+- **名词**: 物质的质量与其所占空间的体积之比，表示为单位体积的质量。例如: "[The](/zh/post/the/) [density](/zh/post/density/) [of](/zh/post/of/) [water](/zh/post/water/) is [about](/zh/post/about/) 1 gram [per](/zh/post/per/) [cubic](/zh/post/cubic/) centimeter."
+- **形容词**: 密集的，稠密的，指人口、物质量大或集中。例如: "[This](/zh/post/this/) [city](/zh/post/city/) has [a](/zh/post/a/) [high](/zh/post/high/) [population](/zh/post/population/) [density](/zh/post/density/)."
 
 ## 短语
-- "[density](/post/density/) [of](/post/of/) [a](/post/a/) [substance](/post/substance/)" 物质的密度
-- "[air](/post/air/) [density](/post/density/)" 空气密度
-- "[density](/post/density/) gradient" 密度梯度
+- "[density](/zh/post/density/) [of](/zh/post/of/) [a](/zh/post/a/) [substance](/zh/post/substance/)" 物质的密度
+- "[air](/zh/post/air/) [density](/zh/post/density/)" 空气密度
+- "[density](/zh/post/density/) gradient" 密度梯度
 
 ## 例句
-- 名词: "[The](/post/the/) [density](/post/density/) [of](/post/of/) [iron](/post/iron/) is greater [than](/post/than/) [that](/post/that/) [of](/post/of/) aluminum."
-- 形容词: "[The](/post/the/) [forest](/post/forest/) had [a](/post/a/) [dense](/post/dense/) canopy, making [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [see](/post/see/) [the](/post/the/) [sky](/post/sky/)."
+- 名词: "[The](/zh/post/the/) [density](/zh/post/density/) [of](/zh/post/of/) [iron](/zh/post/iron/) is greater [than](/zh/post/than/) [that](/zh/post/that/) [of](/zh/post/of/) aluminum."
+- 形容词: "[The](/zh/post/the/) [forest](/zh/post/forest/) had [a](/zh/post/a/) [dense](/zh/post/dense/) canopy, making [it](/zh/post/it/) [difficult](/zh/post/difficult/) [to](/zh/post/to/) [see](/zh/post/see/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
 
 ## 同义词
-- [Thickness](/post/thickness/)
-- [Concentration](/post/concentration/)
-- [Intensity](/post/intensity/)
+- [Thickness](/zh/post/thickness/)
+- [Concentration](/zh/post/concentration/)
+- [Intensity](/zh/post/intensity/)
 - Compactness
 - Heaviness (在某些上下文中)

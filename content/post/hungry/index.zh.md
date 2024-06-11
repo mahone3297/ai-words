@@ -11,19 +11,19 @@ keywords = ['ai words', 'hungry']
 /hʌŋɡri/
 
 ## 释义
-- **形容词**: 饥饿的，渴望的（食物或知识等）。例如: "I'm [so](/post/so/) [hungry](/post/hungry/), I [could](/post/could/) [eat](/post/eat/) [a](/post/a/) [horse](/post/horse/)." 或 "She's [hungry](/post/hungry/) [for](/post/for/) [knowledge](/post/knowledge/)."
+- **形容词**: 饥饿的，渴望的（食物或知识等）。例如: "I'm [so](/zh/post/so/) [hungry](/zh/post/hungry/), I [could](/zh/post/could/) [eat](/zh/post/eat/) [a](/zh/post/a/) [horse](/zh/post/horse/)." 或 "She's [hungry](/zh/post/hungry/) [for](/zh/post/for/) [knowledge](/zh/post/knowledge/)."
 
 ## 短语
-- "[hungry](/post/hungry/) [for](/post/for/) [something](/post/something/)" 渴望得到某物。例如: "[He](/post/he/) was [hungry](/post/hungry/) [for](/post/for/) [success](/post/success/)."
-- "[be](/post/be/) [hungry](/post/hungry/) [after](/post/after/) [a](/post/a/) workout" 做完运动后感到饥饿。
+- "[hungry](/zh/post/hungry/) [for](/zh/post/for/) [something](/zh/post/something/)" 渴望得到某物。例如: "[He](/zh/post/he/) was [hungry](/zh/post/hungry/) [for](/zh/post/for/) [success](/zh/post/success/)."
+- "[be](/zh/post/be/) [hungry](/zh/post/hungry/) [after](/zh/post/after/) [a](/zh/post/a/) workout" 做完运动后感到饥饿。
 
 ## 例句
-- 形容词: "[The](/post/the/) children were [hungry](/post/hungry/) [after](/post/after/) playing [all](/post/all/) [afternoon](/post/afternoon/)."
-- "[She](/post/she/) looked [at](/post/at/) [the](/post/the/) [menu](/post/menu/) hungrily, deciding [what](/post/what/) [to](/post/to/) [order](/post/order/)."
+- 形容词: "[The](/zh/post/the/) children were [hungry](/zh/post/hungry/) [after](/zh/post/after/) playing [all](/zh/post/all/) [afternoon](/zh/post/afternoon/)."
+- "[She](/zh/post/she/) looked [at](/zh/post/at/) [the](/zh/post/the/) [menu](/zh/post/menu/) hungrily, deciding [what](/zh/post/what/) [to](/zh/post/to/) [order](/zh/post/order/)."
 
 ## 同义词
 - Starving
 - famished
 - ravenous
 - peckish
-- needy ([in](/post/in/) [the](/post/the/) context [of](/post/of/) wanting [food](/post/food/))
+- needy ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) wanting [food](/zh/post/food/))

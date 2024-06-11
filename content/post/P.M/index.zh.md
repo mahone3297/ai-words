@@ -11,17 +11,17 @@ keywords = ['ai words', 'P.M.']
 /P.M./
 
 ## 释义
-- **缩写词**: 代表 "下午" ([Afternoon](/post/afternoon/)) 或 "傍晚" ([Post](/post/post/) Meridiem)，在时间表达中使用，特别是在12小时制的时间表上。
+- **缩写词**: 代表 "下午" ([Afternoon](/zh/post/afternoon/)) 或 "傍晚" ([Post](/zh/post/post/) Meridiem)，在时间表达中使用，特别是在12小时制的时间表上。
 
 ## 短语
 - "P.M. hours" 指下午时段。
-- "[Meet](/post/meet/) [at](/post/at/) 3 P.M." 表示下午3点见面。
+- "[Meet](/zh/post/meet/) [at](/zh/post/at/) 3 P.M." 表示下午3点见面。
 
 ## 例句
-- "[The](/post/the/) [meeting](/post/meeting/) is scheduled [for](/post/for/) 2 P.M. [tomorrow](/post/tomorrow/)."
-- "I [usually](/post/usually/) [finish](/post/finish/) [work](/post/work/) [around](/post/around/) 5 P.M."
+- "[The](/zh/post/the/) [meeting](/zh/post/meeting/) is scheduled [for](/zh/post/for/) 2 P.M. [tomorrow](/zh/post/tomorrow/)."
+- "I [usually](/zh/post/usually/) [finish](/zh/post/finish/) [work](/zh/post/work/) [around](/zh/post/around/) 5 P.M."
 
 ## 同义词
-- 下午: [Afternoon](/post/afternoon/)
-- 傍晚: [Evening](/post/evening/)
-- PM (在时间表达中): [Post](/post/post/) Meridiem
+- 下午: [Afternoon](/zh/post/afternoon/)
+- 傍晚: [Evening](/zh/post/evening/)
+- PM (在时间表达中): [Post](/zh/post/post/) Meridiem

@@ -7,39 +7,39 @@ description = '[kɔːn] n.谷物；(英)小麦'
 keywords = ['ai words', 'corn']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɔːrn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Agricultural [grain](/en/post/grain/)**: [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) cereal [plant](/en/post/plant/) [with](/en/post/with/) kernels [that](/en/post/that/) are [a](/en/post/a/) staple [food](/en/post/food/) [source](/en/post/source/), [such](/en/post/such/) [as](/en/post/as/) maize ([in](/en/post/in/) [North](/en/post/north/) [America](/en/post/america/)) [or](/en/post/or/) [corn](/en/post/corn/) ([in](/en/post/in/) [the](/en/post/the/) UK).
-- **Cob [or](/en/post/or/) [ear](/en/post/ear/)**: [The](/en/post/the/) edible [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [corn](/en/post/corn/) [plant](/en/post/plant/), consisting [of](/en/post/of/) rows [of](/en/post/of/) kernels encased [in](/en/post/in/) husks.
-- **[Meal](/en/post/meal/) [or](/en/post/or/) [flour](/en/post/flour/)**: [Ground](/en/post/ground/) [corn](/en/post/corn/), [used](/en/post/used/) [for](/en/post/for/) [various](/en/post/various/) culinary purposes.
+### [Noun](/post/noun/)
+- **Agricultural [grain](/post/grain/)**: [A](/post/a/) [type](/post/type/) [of](/post/of/) cereal [plant](/post/plant/) [with](/post/with/) kernels [that](/post/that/) are [a](/post/a/) staple [food](/post/food/) [source](/post/source/), [such](/post/such/) [as](/post/as/) maize ([in](/post/in/) [North](/post/north/) [America](/post/america/)) [or](/post/or/) [corn](/post/corn/) ([in](/post/in/) [the](/post/the/) UK).
+- **Cob [or](/post/or/) [ear](/post/ear/)**: [The](/post/the/) edible [part](/post/part/) [of](/post/of/) [the](/post/the/) [corn](/post/corn/) [plant](/post/plant/), consisting [of](/post/of/) rows [of](/post/of/) kernels encased [in](/post/in/) husks.
+- **[Meal](/post/meal/) [or](/post/or/) [flour](/post/flour/)**: [Ground](/post/ground/) [corn](/post/corn/), [used](/post/used/) [for](/post/for/) [various](/post/various/) culinary purposes.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [cultivate](/en/post/cultivate/) [or](/en/post/or/) [harvest](/en/post/harvest/) [corn](/en/post/corn/).
-- [To](/en/post/to/) [feed](/en/post/feed/) [corn](/en/post/corn/) [to](/en/post/to/) livestock.
-- [To](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [as](/en/post/as/) corny, [meaning](/en/post/meaning/) overly sentimental [or](/en/post/or/) clichéd.
+### [Verb](/post/verb/)
+- [To](/post/to/) [cultivate](/post/cultivate/) [or](/post/or/) [harvest](/post/harvest/) [corn](/post/corn/).
+- [To](/post/to/) [feed](/post/feed/) [corn](/post/corn/) [to](/post/to/) livestock.
+- [To](/post/to/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [as](/post/as/) corny, [meaning](/post/meaning/) overly sentimental [or](/post/or/) clichéd.
 
 ## Phrases
-- "[Grow](/en/post/grow/) [corn](/en/post/corn/)" [or](/en/post/or/) "[plant](/en/post/plant/) [corn](/en/post/corn/)"
-- "Cornfield" [or](/en/post/or/) "maize [field](/en/post/field/)"
-- "[Corn](/en/post/corn/) [on](/en/post/on/) [the](/en/post/the/) cob" [or](/en/post/or/) "kernelled [corn](/en/post/corn/)"
+- "[Grow](/post/grow/) [corn](/post/corn/)" [or](/post/or/) "[plant](/post/plant/) [corn](/post/corn/)"
+- "Cornfield" [or](/post/or/) "maize [field](/post/field/)"
+- "[Corn](/post/corn/) [on](/post/on/) [the](/post/the/) cob" [or](/post/or/) "kernelled [corn](/post/corn/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) harvested [a](/en/post/a/) bountiful [corn](/en/post/corn/) [crop](/en/post/crop/) [this](/en/post/this/) [season](/en/post/season/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) fed [the](/en/post/the/) chickens [fresh](/en/post/fresh/) [corn](/en/post/corn/) [every](/en/post/every/) [morning](/en/post/morning/)."
-- **Sentimental [usage](/en/post/usage/)**: "[His](/en/post/his/) [joke](/en/post/joke/) was [a](/en/post/a/) [bit](/en/post/bit/) corny, [but](/en/post/but/) [it](/en/post/it/) [still](/en/post/still/) made [us](/en/post/us/) [laugh](/en/post/laugh/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) harvested [a](/post/a/) bountiful [corn](/post/corn/) [crop](/post/crop/) [this](/post/this/) [season](/post/season/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) fed [the](/post/the/) chickens [fresh](/post/fresh/) [corn](/post/corn/) [every](/post/every/) [morning](/post/morning/)."
+- **Sentimental [usage](/post/usage/)**: "[His](/post/his/) [joke](/post/joke/) was [a](/post/a/) [bit](/post/bit/) corny, [but](/post/but/) [it](/post/it/) [still](/post/still/) made [us](/post/us/) [laugh](/post/laugh/)."
 
 ## Synonyms
 - Maize
 - Zea mays
-- Indian [corn](/en/post/corn/)
+- Indian [corn](/post/corn/)
 - Cornmeal
 - Cornstarch
 
 ## Derived Words
 - Cornucopia (abundance)
-- Cornhusk ([the](/en/post/the/) [outer](/en/post/outer/) [layer](/en/post/layer/) [of](/en/post/of/) [the](/en/post/the/) [corn](/en/post/corn/) kernel)
-- Cornrow ([a](/en/post/a/) [style](/en/post/style/) [of](/en/post/of/) [hair](/en/post/hair/) braiding)
-- Cornball ([something](/en/post/something/) [silly](/en/post/silly/) [or](/en/post/or/) overly sentimental)
+- Cornhusk ([the](/post/the/) [outer](/post/outer/) [layer](/post/layer/) [of](/post/of/) [the](/post/the/) [corn](/post/corn/) kernel)
+- Cornrow ([a](/post/a/) [style](/post/style/) [of](/post/of/) [hair](/post/hair/) braiding)
+- Cornball ([something](/post/something/) [silly](/post/silly/) [or](/post/or/) overly sentimental)

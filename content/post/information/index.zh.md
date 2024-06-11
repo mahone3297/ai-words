@@ -11,21 +11,21 @@ keywords = ['ai words', 'information']
 /ɪnfərˈmeɪʃən/
 
 ## 释义
-- **名词 (n)**: 数据、事实或知识，通常以沟通或传播的形式存在。例如: "[She](/post/she/) [provided](/post/provided/) [us](/post/us/) [with](/post/with/) detailed [information](/post/information/) [about](/post/about/) [the](/post/the/) [project](/post/project/)."
-- **动词 (v)**: 告知，提供信息。例如: "[The](/post/the/) [officer](/post/officer/) informed [us](/post/us/) [that](/post/that/) [the](/post/the/) [road](/post/road/) was closed."
+- **名词 (n)**: 数据、事实或知识，通常以沟通或传播的形式存在。例如: "[She](/zh/post/she/) [provided](/zh/post/provided/) [us](/zh/post/us/) [with](/zh/post/with/) detailed [information](/zh/post/information/) [about](/zh/post/about/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- **动词 (v)**: 告知，提供信息。例如: "[The](/zh/post/the/) [officer](/zh/post/officer/) informed [us](/zh/post/us/) [that](/zh/post/that/) [the](/zh/post/the/) [road](/zh/post/road/) was closed."
 
 ## 短语
-- "[Information](/post/information/) [technology](/post/technology/)" 指的是处理和使用信息的系统和设备。
-- "[To](/post/to/) [seek](/post/seek/) [information](/post/information/)" 是指寻找或询问信息。
-- "Dissemination [of](/post/of/) [information](/post/information/)" 意味着广泛传播信息。
+- "[Information](/zh/post/information/) [technology](/zh/post/technology/)" 指的是处理和使用信息的系统和设备。
+- "[To](/zh/post/to/) [seek](/zh/post/seek/) [information](/zh/post/information/)" 是指寻找或询问信息。
+- "Dissemination [of](/zh/post/of/) [information](/zh/post/information/)" 意味着广泛传播信息。
 
 ## 例句
-- 名词: "[The](/post/the/) website contains [a](/post/a/) [wealth](/post/wealth/) [of](/post/of/) [information](/post/information/) [on](/post/on/) [health](/post/health/) [and](/post/and/) wellness."
-- 动词: "[The](/post/the/) [librarian](/post/librarian/) informed visitors [about](/post/about/) [the](/post/the/) library's [opening](/post/opening/) hours.
+- 名词: "[The](/zh/post/the/) website contains [a](/zh/post/a/) [wealth](/zh/post/wealth/) [of](/zh/post/of/) [information](/zh/post/information/) [on](/zh/post/on/) [health](/zh/post/health/) [and](/zh/post/and/) wellness."
+- 动词: "[The](/zh/post/the/) [librarian](/zh/post/librarian/) informed visitors [about](/zh/post/about/) [the](/zh/post/the/) library's [opening](/zh/post/opening/) hours.
 
 ## 同义词
-- [Data](/post/data/)
+- [Data](/zh/post/data/)
 - Facts
 - Details
-- [Knowledge](/post/knowledge/)
-- [Intelligence](/post/intelligence/)
+- [Knowledge](/zh/post/knowledge/)
+- [Intelligence](/zh/post/intelligence/)

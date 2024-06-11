@@ -7,41 +7,41 @@ description = '[ju(ː)ˈnait] vi.联合 vt.使联合'
 keywords = ['ai words', 'unite']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unʌɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Unite](/en/post/unite/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [collective](/en/post/collective/) [or](/en/post/or/) unified [group](/en/post/group/), [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) joining [together](/en/post/together/) [of](/en/post/of/) [people](/en/post/people/), forces, [or](/en/post/or/) ideas. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [diverse](/en/post/diverse/) nations united [under](/en/post/under/) [a](/en/post/a/) [common](/en/post/common/) [cause](/en/post/cause/)."
-- **[Union](/en/post/union/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [formal](/en/post/formal/) alliance [or](/en/post/or/) [association](/en/post/association/), [especially](/en/post/especially/) [of](/en/post/of/) workers [for](/en/post/for/) [better](/en/post/better/) working conditions. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) teachers' [union](/en/post/union/) negotiated [a](/en/post/a/) [new](/en/post/new/) [contract](/en/post/contract/) [with](/en/post/with/) [the](/en/post/the/) [school](/en/post/school/) [district](/en/post/district/)."
+### [Noun](/post/noun/)
+- **[Unite](/post/unite/)** ([noun](/post/noun/)): [A](/post/a/) [collective](/post/collective/) [or](/post/or/) unified [group](/post/group/), [often](/post/often/) referring [to](/post/to/) [a](/post/a/) joining [together](/post/together/) [of](/post/of/) [people](/post/people/), forces, [or](/post/or/) ideas. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [diverse](/post/diverse/) nations united [under](/post/under/) [a](/post/a/) [common](/post/common/) [cause](/post/cause/)."
+- **[Union](/post/union/)** ([noun](/post/noun/)): [A](/post/a/) [formal](/post/formal/) alliance [or](/post/or/) [association](/post/association/), [especially](/post/especially/) [of](/post/of/) workers [for](/post/for/) [better](/post/better/) working conditions. [For](/post/for/) [example](/post/example/): "[The](/post/the/) teachers' [union](/post/union/) negotiated [a](/post/a/) [new](/post/new/) [contract](/post/contract/) [with](/post/with/) [the](/post/the/) [school](/post/school/) [district](/post/district/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [unite](/en/post/unite/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [come](/en/post/come/) [together](/en/post/together/) [as](/en/post/as/) [one](/en/post/one/), merge, [or](/en/post/or/) [join](/en/post/join/) forces. [For](/en/post/for/) [example](/en/post/example/): "Countries [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/) united [to](/en/post/to/) combat [climate](/en/post/climate/) [change](/en/post/change/)."
-- **[Combine](/en/post/combine/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [unite](/en/post/unite/) [or](/en/post/or/) [join](/en/post/join/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) things, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [practical](/en/post/practical/) [sense](/en/post/sense/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) companies decided [to](/en/post/to/) [unite](/en/post/unite/) [their](/en/post/their/) resources [to](/en/post/to/) [increase](/en/post/increase/) [efficiency](/en/post/efficiency/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [unite](/post/unite/)** ([verb](/post/verb/)): [To](/post/to/) [come](/post/come/) [together](/post/together/) [as](/post/as/) [one](/post/one/), merge, [or](/post/or/) [join](/post/join/) forces. [For](/post/for/) [example](/post/example/): "Countries [around](/post/around/) [the](/post/the/) [world](/post/world/) united [to](/post/to/) combat [climate](/post/climate/) [change](/post/change/)."
+- **[Combine](/post/combine/)** ([verb](/post/verb/)): [To](/post/to/) [unite](/post/unite/) [or](/post/or/) [join](/post/join/) [two](/post/two/) [or](/post/or/) [more](/post/more/) things, [often](/post/often/) [in](/post/in/) [a](/post/a/) [practical](/post/practical/) [sense](/post/sense/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) companies decided [to](/post/to/) [unite](/post/unite/) [their](/post/their/) resources [to](/post/to/) [increase](/post/increase/) [efficiency](/post/efficiency/)."
 
-### [Adjective](/en/post/adjective/)
-- **United** ([adjective](/en/post/adjective/)): Joined [as](/en/post/as/) [one](/en/post/one/), [in](/en/post/in/) [a](/en/post/a/) [collective](/en/post/collective/) [or](/en/post/or/) harmonious [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) United Nations represents [a](/en/post/a/) united [effort](/en/post/effort/) [to](/en/post/to/) [promote](/en/post/promote/) [peace](/en/post/peace/) worldwide."
+### [Adjective](/post/adjective/)
+- **United** ([adjective](/post/adjective/)): Joined [as](/post/as/) [one](/post/one/), [in](/post/in/) [a](/post/a/) [collective](/post/collective/) [or](/post/or/) harmonious [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) United Nations represents [a](/post/a/) united [effort](/post/effort/) [to](/post/to/) [promote](/post/promote/) [peace](/post/peace/) worldwide."
 
-### [Adverb](/en/post/adverb/)
-- **Unitedly** ([adverb](/en/post/adverb/)): [In](/en/post/in/) [a](/en/post/a/) united [or](/en/post/or/) concerted [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) athletes marched unitedly [during](/en/post/during/) [the](/en/post/the/) [opening](/en/post/opening/) [ceremony](/en/post/ceremony/)."
+### [Adverb](/post/adverb/)
+- **Unitedly** ([adverb](/post/adverb/)): [In](/post/in/) [a](/post/a/) united [or](/post/or/) concerted [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) athletes marched unitedly [during](/post/during/) [the](/post/the/) [opening](/post/opening/) [ceremony](/post/ceremony/)."
 
 ## Phrases
-- "[Unite](/en/post/unite/) [against](/en/post/against/)" signifies joining forces [to](/en/post/to/) [oppose](/en/post/oppose/) [something](/en/post/something/).
-- "[Unite](/en/post/unite/) [for](/en/post/for/)" implies coming [together](/en/post/together/) [to](/en/post/to/) [support](/en/post/support/) [a](/en/post/a/) [specific](/en/post/specific/) [cause](/en/post/cause/).
-- "United [we](/en/post/we/) [stand](/en/post/stand/), divided [we](/en/post/we/) [fall](/en/post/fall/)" is [a](/en/post/a/) [common](/en/post/common/) saying emphasizing [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) [unity](/en/post/unity/).
+- "[Unite](/post/unite/) [against](/post/against/)" signifies joining forces [to](/post/to/) [oppose](/post/oppose/) [something](/post/something/).
+- "[Unite](/post/unite/) [for](/post/for/)" implies coming [together](/post/together/) [to](/post/to/) [support](/post/support/) [a](/post/a/) [specific](/post/specific/) [cause](/post/cause/).
+- "United [we](/post/we/) [stand](/post/stand/), divided [we](/post/we/) [fall](/post/fall/)" is [a](/post/a/) [common](/post/common/) saying emphasizing [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [unity](/post/unity/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) efforts [to](/en/post/to/) [unite](/en/post/unite/) [the](/en/post/the/) [community](/en/post/community/) [have](/en/post/have/) been [successful](/en/post/successful/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) countries vowed [to](/en/post/to/) [unite](/en/post/unite/) [their](/en/post/their/) [military](/en/post/military/) [might](/en/post/might/) [against](/en/post/against/) terrorism."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) united [team](/en/post/team/) won [the](/en/post/the/) championship."
-- **[Adverb](/en/post/adverb/)**: "[They](/en/post/they/) worked unitedly [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/), sharing [their](/en/post/their/) expertise."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Their](/post/their/) efforts [to](/post/to/) [unite](/post/unite/) [the](/post/the/) [community](/post/community/) [have](/post/have/) been [successful](/post/successful/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) countries vowed [to](/post/to/) [unite](/post/unite/) [their](/post/their/) [military](/post/military/) [might](/post/might/) [against](/post/against/) terrorism."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) united [team](/post/team/) won [the](/post/the/) championship."
+- **[Adverb](/post/adverb/)**: "[They](/post/they/) worked unitedly [on](/post/on/) [the](/post/the/) [project](/post/project/), sharing [their](/post/their/) expertise."
 
 ## Synonyms
-- [Join](/en/post/join/)
-- [Combine](/en/post/combine/)
+- [Join](/post/join/)
+- [Combine](/post/combine/)
 - Conjoin
-- [Link](/en/post/link/)
-- [Bind](/en/post/bind/)
+- [Link](/post/link/)
+- [Bind](/post/bind/)
 - Solidify
 - Collaborate
 - Formulate

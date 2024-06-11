@@ -7,31 +7,31 @@ description = '[ˈnəːvəs] a.神经的；易激动的'
 keywords = ['ai words', 'nervous']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnɜːrvəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: ([of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/)) experiencing feelings [of](/en/post/of/) [anxiety](/en/post/anxiety/), apprehension, [or](/en/post/or/) unease; [easily](/en/post/easily/) agitated [or](/en/post/or/) alarmed. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [feeling](/en/post/feeling/) [nervous](/en/post/nervous/) [before](/en/post/before/) [her](/en/post/her/) [big](/en/post/big/) presentation."
-- **[Noun](/en/post/noun/)**: (informal) [A](/en/post/a/) [nervous](/en/post/nervous/) [person](/en/post/person/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) nervousness [he](/en/post/he/) displayed [before](/en/post/before/) [the](/en/post/the/) [interview](/en/post/interview/) was [quite](/en/post/quite/) palpable."
+- **[Adjective](/post/adjective/)**: ([of](/post/of/) [a](/post/a/) [person](/post/person/)) experiencing feelings [of](/post/of/) [anxiety](/post/anxiety/), apprehension, [or](/post/or/) unease; [easily](/post/easily/) agitated [or](/post/or/) alarmed. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [feeling](/post/feeling/) [nervous](/post/nervous/) [before](/post/before/) [her](/post/her/) [big](/post/big/) presentation."
+- **[Noun](/post/noun/)**: (informal) [A](/post/a/) [nervous](/post/nervous/) [person](/post/person/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) nervousness [he](/post/he/) displayed [before](/post/before/) [the](/post/the/) [interview](/post/interview/) was [quite](/post/quite/) palpable."
 
 ## Phrases
-- "[To](/en/post/to/) [be](/en/post/be/)/[get](/en/post/get/) [nervous](/en/post/nervous/)": [To](/en/post/to/) [experience](/en/post/experience/) [or](/en/post/or/) [develop](/en/post/develop/) nervousness. [Example](/en/post/example/): "I [tend](/en/post/tend/) [to](/en/post/to/) [get](/en/post/get/) [nervous](/en/post/nervous/) [before](/en/post/before/) [public](/en/post/public/) speaking engagements."
-- "[Make](/en/post/make/) sb [nervous](/en/post/nervous/)": [To](/en/post/to/) [cause](/en/post/cause/) [someone](/en/post/someone/) [to](/en/post/to/) [feel](/en/post/feel/) [anxious](/en/post/anxious/) [or](/en/post/or/) [uneasy](/en/post/uneasy/). [Example](/en/post/example/): "[Her](/en/post/her/) [constant](/en/post/constant/) fidgeting made [me](/en/post/me/) [nervous](/en/post/nervous/)."
-- "[A](/en/post/a/) [case](/en/post/case/) [of](/en/post/of/) nerves": [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [intense](/en/post/intense/) nervousness [or](/en/post/or/) [anxiety](/en/post/anxiety/) [about](/en/post/about/) [something](/en/post/something/). [Example](/en/post/example/): "[His](/en/post/his/) pre-performance jitters were [just](/en/post/just/) [a](/en/post/a/) [case](/en/post/case/) [of](/en/post/of/) nerves."
+- "[To](/post/to/) [be](/post/be/)/[get](/post/get/) [nervous](/post/nervous/)": [To](/post/to/) [experience](/post/experience/) [or](/post/or/) [develop](/post/develop/) nervousness. [Example](/post/example/): "I [tend](/post/tend/) [to](/post/to/) [get](/post/get/) [nervous](/post/nervous/) [before](/post/before/) [public](/post/public/) speaking engagements."
+- "[Make](/post/make/) sb [nervous](/post/nervous/)": [To](/post/to/) [cause](/post/cause/) [someone](/post/someone/) [to](/post/to/) [feel](/post/feel/) [anxious](/post/anxious/) [or](/post/or/) [uneasy](/post/uneasy/). [Example](/post/example/): "[Her](/post/her/) [constant](/post/constant/) fidgeting made [me](/post/me/) [nervous](/post/nervous/)."
+- "[A](/post/a/) [case](/post/case/) [of](/post/of/) nerves": [A](/post/a/) [period](/post/period/) [of](/post/of/) [intense](/post/intense/) nervousness [or](/post/or/) [anxiety](/post/anxiety/) [about](/post/about/) [something](/post/something/). [Example](/post/example/): "[His](/post/his/) pre-performance jitters were [just](/post/just/) [a](/post/a/) [case](/post/case/) [of](/post/of/) nerves."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [thought](/en/post/thought/) [of](/en/post/of/) skydiving [for](/en/post/for/) [the](/en/post/the/) [first](/en/post/first/) [time](/en/post/time/) made [him](/en/post/him/) [extremely](/en/post/extremely/) [nervous](/en/post/nervous/)."
-- **[Noun](/en/post/noun/)**: "[Even](/en/post/even/) [the](/en/post/the/) [most](/en/post/most/) seasoned performers [can](/en/post/can/) [have](/en/post/have/) [their](/en/post/their/) moments [of](/en/post/of/) [being](/en/post/being/) [the](/en/post/the/) [nervous](/en/post/nervous/) [before](/en/post/before/) going [on](/en/post/on/) [stage](/en/post/stage/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [thought](/post/thought/) [of](/post/of/) skydiving [for](/post/for/) [the](/post/the/) [first](/post/first/) [time](/post/time/) made [him](/post/him/) [extremely](/post/extremely/) [nervous](/post/nervous/)."
+- **[Noun](/post/noun/)**: "[Even](/post/even/) [the](/post/the/) [most](/post/most/) seasoned performers [can](/post/can/) [have](/post/have/) [their](/post/their/) moments [of](/post/of/) [being](/post/being/) [the](/post/the/) [nervous](/post/nervous/) [before](/post/before/) going [on](/post/on/) [stage](/post/stage/)."
 
 ## Synonyms
-- [Anxious](/en/post/anxious/)
+- [Anxious](/post/anxious/)
 - Apprehensive
-- [Uneasy](/en/post/uneasy/)
+- [Uneasy](/post/uneasy/)
 - Jittery
 - Twitchy
 - Antsy
-- [On](/en/post/on/) [edge](/en/post/edge/)
-- [Nervous](/en/post/nervous/) [wreck](/en/post/wreck/)
-- [In](/en/post/in/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) agitation
-- [Fearful](/en/post/fearful/)
-- [Timid](/en/post/timid/)
+- [On](/post/on/) [edge](/post/edge/)
+- [Nervous](/post/nervous/) [wreck](/post/wreck/)
+- [In](/post/in/) [a](/post/a/) [state](/post/state/) [of](/post/of/) agitation
+- [Fearful](/post/fearful/)
+- [Timid](/post/timid/)

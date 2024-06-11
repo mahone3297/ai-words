@@ -7,36 +7,36 @@ description = '[ˈtipikəl] a.典型的，代表性的'
 keywords = ['ai words', 'typical']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɪpɪkˈæl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [type](/en/post/type/) [or](/en/post/or/) [group](/en/post/group/); representing [or](/en/post/or/) exhibiting [the](/en/post/the/) [usual](/en/post/usual/) [or](/en/post/or/) [normal](/en/post/normal/) features [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) [here](/en/post/here/) is typically [mild](/en/post/mild/) [during](/en/post/during/) [spring](/en/post/spring/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [typical](/en/post/typical/) [manner](/en/post/manner/) [or](/en/post/or/) [way](/en/post/way/); [usually](/en/post/usually/) [or](/en/post/or/) [generally](/en/post/generally/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) studies diligently, typically spending hours [in](/en/post/in/) [the](/en/post/the/) [library](/en/post/library/) [each](/en/post/each/) [day](/en/post/day/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [type](/post/type/) [or](/post/or/) [group](/post/group/); representing [or](/post/or/) exhibiting [the](/post/the/) [usual](/post/usual/) [or](/post/or/) [normal](/post/normal/) features [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) [here](/post/here/) is typically [mild](/post/mild/) [during](/post/during/) [spring](/post/spring/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [typical](/post/typical/) [manner](/post/manner/) [or](/post/or/) [way](/post/way/); [usually](/post/usually/) [or](/post/or/) [generally](/post/generally/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) studies diligently, typically spending hours [in](/post/in/) [the](/post/the/) [library](/post/library/) [each](/post/each/) [day](/post/day/)."
 
 ## Phrases
-- "[Typical](/en/post/typical/) [response](/en/post/response/)" refers [to](/en/post/to/) [a](/en/post/a/) [common](/en/post/common/) [or](/en/post/or/) expected [reaction](/en/post/reaction/).
-- "Atypical [behavior](/en/post/behavior/)" denotes [something](/en/post/something/) [that](/en/post/that/) is [not](/en/post/not/) [normal](/en/post/normal/) [or](/en/post/or/) [usual](/en/post/usual/) [for](/en/post/for/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/).
-- "[Not](/en/post/not/) [so](/en/post/so/) [typical](/en/post/typical/)" suggests [something](/en/post/something/) [that](/en/post/that/) deviates [from](/en/post/from/) [what](/en/post/what/) is expected.
+- "[Typical](/post/typical/) [response](/post/response/)" refers [to](/post/to/) [a](/post/a/) [common](/post/common/) [or](/post/or/) expected [reaction](/post/reaction/).
+- "Atypical [behavior](/post/behavior/)" denotes [something](/post/something/) [that](/post/that/) is [not](/post/not/) [normal](/post/normal/) [or](/post/or/) [usual](/post/usual/) [for](/post/for/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/).
+- "[Not](/post/not/) [so](/post/so/) [typical](/post/typical/)" suggests [something](/post/something/) [that](/post/that/) deviates [from](/post/from/) [what](/post/what/) is expected.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's [typical](/en/post/typical/) [office](/en/post/office/) [layout](/en/post/layout/) includes an open-plan [area](/en/post/area/) [and](/en/post/and/) [private](/en/post/private/) offices."
-- **[Adverb](/en/post/adverb/)**: "It's [typical](/en/post/typical/) [for](/en/post/for/) [her](/en/post/her/) [to](/en/post/to/) [arrive](/en/post/arrive/) [early](/en/post/early/) [to](/en/post/to/) meetings."
-- "[Her](/en/post/her/) [injury](/en/post/injury/) was atypical [for](/en/post/for/) [someone](/en/post/someone/) [of](/en/post/of/) [her](/en/post/her/) [age](/en/post/age/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) company's [typical](/post/typical/) [office](/post/office/) [layout](/post/layout/) includes an open-plan [area](/post/area/) [and](/post/and/) [private](/post/private/) offices."
+- **[Adverb](/post/adverb/)**: "It's [typical](/post/typical/) [for](/post/for/) [her](/post/her/) [to](/post/to/) [arrive](/post/arrive/) [early](/post/early/) [to](/post/to/) meetings."
+- "[Her](/post/her/) [injury](/post/injury/) was atypical [for](/post/for/) [someone](/post/someone/) [of](/post/of/) [her](/post/her/) [age](/post/age/)."
 
 ## Synonyms
-- [Common](/en/post/common/)
-- [Normal](/en/post/normal/)
-- [Usual](/en/post/usual/)
-- [Regular](/en/post/regular/)
-- [Ordinary](/en/post/ordinary/)
-- [Conventional](/en/post/conventional/)
-- [Representative](/en/post/representative/)
+- [Common](/post/common/)
+- [Normal](/post/normal/)
+- [Usual](/post/usual/)
+- [Regular](/post/regular/)
+- [Ordinary](/post/ordinary/)
+- [Conventional](/post/conventional/)
+- [Representative](/post/representative/)
 
 ## Antonyms
-- [Unusual](/en/post/unusual/)
+- [Unusual](/post/unusual/)
 - Exceptional
-- [Irregular](/en/post/irregular/)
+- [Irregular](/post/irregular/)
 - Uncommon
-- [Unusual](/en/post/unusual/)
+- [Unusual](/post/unusual/)
 - Atypical

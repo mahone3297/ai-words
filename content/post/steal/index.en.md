@@ -7,25 +7,25 @@ description = '[stiːl] vt.偷，窍取'
 keywords = ['ai words', 'steal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stiːl/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: **n** ([noun](/en/post/noun/) [sense](/en/post/sense/) 1) [A](/en/post/a/) transitive [verb](/en/post/verb/) [meaning](/en/post/meaning/) [to](/en/post/to/) [take](/en/post/take/) [something](/en/post/something/) [without](/en/post/without/) [permission](/en/post/permission/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) [not](/en/post/not/) returning [it](/en/post/it/). **v (transitive)**: [To](/en/post/to/) [take](/en/post/take/) [possession](/en/post/possession/) [of](/en/post/of/) [something](/en/post/something/) [by](/en/post/by/) secretly taking [it](/en/post/it/) [from](/en/post/from/) [its](/en/post/its/) [owner](/en/post/owner/) [or](/en/post/or/) rightful [place](/en/post/place/). **v (intransitive)**: [To](/en/post/to/) [commit](/en/post/commit/) theft; [to](/en/post/to/) [carry](/en/post/carry/) [out](/en/post/out/) [a](/en/post/a/) theft.
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [instance](/en/post/instance/) [of](/en/post/of/) stealing; theft.
+- **[Verb](/post/verb/)**: **n** ([noun](/post/noun/) [sense](/post/sense/) 1) [A](/post/a/) transitive [verb](/post/verb/) [meaning](/post/meaning/) [to](/post/to/) [take](/post/take/) [something](/post/something/) [without](/post/without/) [permission](/post/permission/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) [not](/post/not/) returning [it](/post/it/). **v (transitive)**: [To](/post/to/) [take](/post/take/) [possession](/post/possession/) [of](/post/of/) [something](/post/something/) [by](/post/by/) secretly taking [it](/post/it/) [from](/post/from/) [its](/post/its/) [owner](/post/owner/) [or](/post/or/) rightful [place](/post/place/). **v (intransitive)**: [To](/post/to/) [commit](/post/commit/) theft; [to](/post/to/) [carry](/post/carry/) [out](/post/out/) [a](/post/a/) theft.
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [instance](/post/instance/) [of](/post/of/) stealing; theft.
 
 ## Phrases
-- "[Steal](/en/post/steal/) [something](/en/post/something/)" [or](/en/post/or/) "[steal](/en/post/steal/) [a](/en/post/a/) [glance](/en/post/glance/)"
-- "Caught red-handed" refers [to](/en/post/to/) [being](/en/post/being/) caught [in](/en/post/in/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) stealing.
-- "Preventing theft" is [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) stopping [or](/en/post/or/) guarding [against](/en/post/against/) stealing.
+- "[Steal](/post/steal/) [something](/post/something/)" [or](/post/or/) "[steal](/post/steal/) [a](/post/a/) [glance](/post/glance/)"
+- "Caught red-handed" refers [to](/post/to/) [being](/post/being/) caught [in](/post/in/) [the](/post/the/) [act](/post/act/) [of](/post/of/) stealing.
+- "Preventing theft" is [the](/post/the/) [action](/post/action/) [of](/post/of/) stopping [or](/post/or/) guarding [against](/post/against/) stealing.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [thief](/en/post/thief/) stole [a](/en/post/a/) [valuable](/en/post/valuable/) [painting](/en/post/painting/) [from](/en/post/from/) [the](/en/post/the/) [museum](/en/post/museum/) [last](/en/post/last/) [night](/en/post/night/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [bike](/en/post/bike/) was stolen [from](/en/post/from/) [the](/en/post/the/) [bike](/en/post/bike/) [rack](/en/post/rack/) [outside](/en/post/outside/) [her](/en/post/her/) [office](/en/post/office/)."
-- **Intransitive**: "[He](/en/post/he/) has [a](/en/post/a/) [reputation](/en/post/reputation/) [for](/en/post/for/) stealing [from](/en/post/from/) [his](/en/post/his/) coworkers."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [thief](/post/thief/) stole [a](/post/a/) [valuable](/post/valuable/) [painting](/post/painting/) [from](/post/from/) [the](/post/the/) [museum](/post/museum/) [last](/post/last/) [night](/post/night/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [bike](/post/bike/) was stolen [from](/post/from/) [the](/post/the/) [bike](/post/bike/) [rack](/post/rack/) [outside](/post/outside/) [her](/post/her/) [office](/post/office/)."
+- **Intransitive**: "[He](/post/he/) has [a](/post/a/) [reputation](/post/reputation/) [for](/post/for/) stealing [from](/post/from/) [his](/post/his/) coworkers."
 
 ## Synonyms
-- [Rob](/en/post/rob/)
+- [Rob](/post/rob/)
 - Plunder
 - Pillage
 - Snatch
@@ -34,17 +34,17 @@ keywords = ['ai words', 'steal']
 - purloin
 
 ## Antonyms
-- [Give](/en/post/give/)
+- [Give](/post/give/)
 - Donate
-- [Purchase](/en/post/purchase/)
-- [Borrow](/en/post/borrow/)
-- [Lend](/en/post/lend/)
+- [Purchase](/post/purchase/)
+- [Borrow](/post/borrow/)
+- [Lend](/post/lend/)
 
-## [Usage](/en/post/usage/)
-### [Noun](/en/post/noun/)
-- "[The](/en/post/the/) [police](/en/post/police/) are investigating [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [recent](/en/post/recent/) thefts [in](/en/post/in/) [the](/en/post/the/) neighborhood."
-- "[The](/en/post/the/) thief's guilt was [clear](/en/post/clear/) [when](/en/post/when/) [they](/en/post/they/) tried [to](/en/post/to/) [sell](/en/post/sell/) [the](/en/post/the/) stolen items."
+## [Usage](/post/usage/)
+### [Noun](/post/noun/)
+- "[The](/post/the/) [police](/post/police/) are investigating [a](/post/a/) [series](/post/series/) [of](/post/of/) [recent](/post/recent/) thefts [in](/post/in/) [the](/post/the/) neighborhood."
+- "[The](/post/the/) thief's guilt was [clear](/post/clear/) [when](/post/when/) [they](/post/they/) tried [to](/post/to/) [sell](/post/sell/) [the](/post/the/) stolen items."
 
-### [Verb](/en/post/verb/)
-- "[He](/en/post/he/) was sentenced [to](/en/post/to/) [prison](/en/post/prison/) [for](/en/post/for/) [the](/en/post/the/) repeated acts [of](/en/post/of/) stealing."
-- "[She](/en/post/she/) decided [to](/en/post/to/) [install](/en/post/install/) [a](/en/post/a/) [security](/en/post/security/) [system](/en/post/system/) [to](/en/post/to/) [prevent](/en/post/prevent/) [her](/en/post/her/) belongings [from](/en/post/from/) [being](/en/post/being/) stolen."
+### [Verb](/post/verb/)
+- "[He](/post/he/) was sentenced [to](/post/to/) [prison](/post/prison/) [for](/post/for/) [the](/post/the/) repeated acts [of](/post/of/) stealing."
+- "[She](/post/she/) decided [to](/post/to/) [install](/post/install/) [a](/post/a/) [security](/post/security/) [system](/post/system/) [to](/post/to/) [prevent](/post/prevent/) [her](/post/her/) belongings [from](/post/from/) [being](/post/being/) stolen."

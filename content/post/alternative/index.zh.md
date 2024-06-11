@@ -11,20 +11,20 @@ keywords = ['ai words', 'alternative']
 /ˈɔːltərnətɪv/
 
 ## 释义
-- **名词**: 可供选择的事物或情况；备选方案。例如: "[We](/post/we/) [have](/post/have/) [two](/post/two/) alternatives: [accept](/post/accept/) [the](/post/the/) [deal](/post/deal/) [or](/post/or/) [walk](/post/walk/) [away](/post/away/)."
-- **形容词**: 提供替代选择的；非传统的。例如: "[Alternative](/post/alternative/) [medicine](/post/medicine/) [often](/post/often/) focuses [on](/post/on/) [natural](/post/natural/) remedies."
+- **名词**: 可供选择的事物或情况；备选方案。例如: "[We](/zh/post/we/) [have](/zh/post/have/) [two](/zh/post/two/) alternatives: [accept](/zh/post/accept/) [the](/zh/post/the/) [deal](/zh/post/deal/) [or](/zh/post/or/) [walk](/zh/post/walk/) [away](/zh/post/away/)."
+- **形容词**: 提供替代选择的；非传统的。例如: "[Alternative](/zh/post/alternative/) [medicine](/zh/post/medicine/) [often](/zh/post/often/) focuses [on](/zh/post/on/) [natural](/zh/post/natural/) remedies."
 
 ## 短语
-- "[Alternative](/post/alternative/) [energy](/post/energy/)" 指可再生能源或非传统能源，如太阳能或风能。
-- "[Alternative](/post/alternative/) lifestyle" 指与主流文化不同的生活方式。
+- "[Alternative](/zh/post/alternative/) [energy](/zh/post/energy/)" 指可再生能源或非传统能源，如太阳能或风能。
+- "[Alternative](/zh/post/alternative/) lifestyle" 指与主流文化不同的生活方式。
 
 ## 例句
-- 名词: "[There](/post/there/) are [several](/post/several/) [alternative](/post/alternative/) routes [to](/post/to/) [avoid](/post/avoid/) [the](/post/the/) [traffic](/post/traffic/) [jam](/post/jam/)."
-- 形容词: "[She](/post/she/) prefers [alternative](/post/alternative/) therapies [for](/post/for/) [her](/post/her/) [health](/post/health/) issues."
+- 名词: "[There](/zh/post/there/) are [several](/zh/post/several/) [alternative](/zh/post/alternative/) routes [to](/zh/post/to/) [avoid](/zh/post/avoid/) [the](/zh/post/the/) [traffic](/zh/post/traffic/) [jam](/zh/post/jam/)."
+- 形容词: "[She](/zh/post/she/) prefers [alternative](/zh/post/alternative/) therapies [for](/zh/post/for/) [her](/zh/post/her/) [health](/zh/post/health/) issues."
 
 ## 同义词
-- [Choice](/post/choice/)
-- [Option](/post/option/)
-- [Possibility](/post/possibility/)
+- [Choice](/zh/post/choice/)
+- [Option](/zh/post/option/)
+- [Possibility](/zh/post/possibility/)
 - Variant
-- [Substitute](/post/substitute/)
+- [Substitute](/zh/post/substitute/)

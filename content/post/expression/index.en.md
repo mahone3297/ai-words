@@ -7,29 +7,29 @@ description = '[iksˈpre∫ən] n.词句；表达；表情'
 keywords = ['ai words', 'expression']
 +++
 
-## [Word](/en/post/word/): [Expression](/en/post/expression/)
+## [Word](/post/word/): [Expression](/post/expression/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈsprɛʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [word](/en/post/word/), [phrase](/en/post/phrase/), [or](/en/post/or/) [gesture](/en/post/gesture/) [that](/en/post/that/) conveys [a](/en/post/a/) [particular](/en/post/particular/) [meaning](/en/post/meaning/) [or](/en/post/or/) [feeling](/en/post/feeling/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [smile](/en/post/smile/) is [a](/en/post/a/) [universal](/en/post/universal/) [expression](/en/post/expression/) [of](/en/post/of/) [happiness](/en/post/happiness/)."
-  - [In](/en/post/in/) [mathematics](/en/post/mathematics/) [or](/en/post/or/) [logic](/en/post/logic/): [A](/en/post/a/) [symbol](/en/post/symbol/) [or](/en/post/or/) [formula](/en/post/formula/) representing [a](/en/post/a/) [concept](/en/post/concept/), [equation](/en/post/equation/), [or](/en/post/or/) [operation](/en/post/operation/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) Pythagorean theorem [can](/en/post/can/) [be](/en/post/be/) expressed [as](/en/post/as/) an algebraic [expression](/en/post/expression/)."
-  - [In](/en/post/in/) [art](/en/post/art/) [or](/en/post/or/) [literature](/en/post/literature/): [The](/en/post/the/) [style](/en/post/style/) [or](/en/post/or/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) [something](/en/post/something/) is conveyed [or](/en/post/or/) represented. [Example](/en/post/example/): "[The](/en/post/the/) [painting](/en/post/painting/) is [a](/en/post/a/) [powerful](/en/post/powerful/) [expression](/en/post/expression/) [of](/en/post/of/) [human](/en/post/human/) [emotion](/en/post/emotion/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [word](/post/word/), [phrase](/post/phrase/), [or](/post/or/) [gesture](/post/gesture/) [that](/post/that/) conveys [a](/post/a/) [particular](/post/particular/) [meaning](/post/meaning/) [or](/post/or/) [feeling](/post/feeling/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [smile](/post/smile/) is [a](/post/a/) [universal](/post/universal/) [expression](/post/expression/) [of](/post/of/) [happiness](/post/happiness/)."
+  - [In](/post/in/) [mathematics](/post/mathematics/) [or](/post/or/) [logic](/post/logic/): [A](/post/a/) [symbol](/post/symbol/) [or](/post/or/) [formula](/post/formula/) representing [a](/post/a/) [concept](/post/concept/), [equation](/post/equation/), [or](/post/or/) [operation](/post/operation/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) Pythagorean theorem [can](/post/can/) [be](/post/be/) expressed [as](/post/as/) an algebraic [expression](/post/expression/)."
+  - [In](/post/in/) [art](/post/art/) [or](/post/or/) [literature](/post/literature/): [The](/post/the/) [style](/post/style/) [or](/post/or/) [manner](/post/manner/) [in](/post/in/) [which](/post/which/) [something](/post/something/) is conveyed [or](/post/or/) represented. [Example](/post/example/): "[The](/post/the/) [painting](/post/painting/) is [a](/post/a/) [powerful](/post/powerful/) [expression](/post/expression/) [of](/post/of/) [human](/post/human/) [emotion](/post/emotion/)."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [convey](/en/post/convey/) one's thoughts [or](/en/post/or/) feelings [through](/en/post/through/) words, gestures, [or](/en/post/or/) [a](/en/post/a/) [creative](/en/post/creative/) [medium](/en/post/medium/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [able](/en/post/able/) [to](/en/post/to/) [express](/en/post/express/) [her](/en/post/her/) [gratitude](/en/post/gratitude/) [through](/en/post/through/) [a](/en/post/a/) heartfelt [letter](/en/post/letter/)."
-  - [To](/en/post/to/) [make](/en/post/make/) known [or](/en/post/or/) [reveal](/en/post/reveal/) [something](/en/post/something/). [Example](/en/post/example/): "[His](/en/post/his/) actions expressed [his](/en/post/his/) [true](/en/post/true/) intentions."
-  - [In](/en/post/in/) genetics: [To](/en/post/to/) [produce](/en/post/produce/) [a](/en/post/a/) gene [product](/en/post/product/) ([protein](/en/post/protein/)) [from](/en/post/from/) DNA. [Example](/en/post/example/): "[This](/en/post/this/) gene expresses [during](/en/post/during/) [early](/en/post/early/) [development](/en/post/development/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [convey](/post/convey/) one's thoughts [or](/post/or/) feelings [through](/post/through/) words, gestures, [or](/post/or/) [a](/post/a/) [creative](/post/creative/) [medium](/post/medium/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [able](/post/able/) [to](/post/to/) [express](/post/express/) [her](/post/her/) [gratitude](/post/gratitude/) [through](/post/through/) [a](/post/a/) heartfelt [letter](/post/letter/)."
+  - [To](/post/to/) [make](/post/make/) known [or](/post/or/) [reveal](/post/reveal/) [something](/post/something/). [Example](/post/example/): "[His](/post/his/) actions expressed [his](/post/his/) [true](/post/true/) intentions."
+  - [In](/post/in/) genetics: [To](/post/to/) [produce](/post/produce/) [a](/post/a/) gene [product](/post/product/) ([protein](/post/protein/)) [from](/post/from/) DNA. [Example](/post/example/): "[This](/post/this/) gene expresses [during](/post/during/) [early](/post/early/) [development](/post/development/)."
 
 ## Phrases
-- "[Expression](/en/post/expression/) [of](/en/post/of/) [interest](/en/post/interest/)": [A](/en/post/a/) [formal](/en/post/formal/) [indication](/en/post/indication/) [of](/en/post/of/) one's [desire](/en/post/desire/) [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [or](/en/post/or/) [pursue](/en/post/pursue/) [something](/en/post/something/).
-- "[Freedom](/en/post/freedom/) [of](/en/post/of/) [expression](/en/post/expression/)": [The](/en/post/the/) [right](/en/post/right/) [to](/en/post/to/) [communicate](/en/post/communicate/) one's opinions, ideas, [and](/en/post/and/) beliefs [without](/en/post/without/) [fear](/en/post/fear/) [of](/en/post/of/) censorship [or](/en/post/or/) retaliation.
-- "Facial expressions": [The](/en/post/the/) [various](/en/post/various/) movements [and](/en/post/and/) configurations [of](/en/post/of/) [the](/en/post/the/) [face](/en/post/face/) [that](/en/post/that/) [convey](/en/post/convey/) emotions [and](/en/post/and/) attitudes.
+- "[Expression](/post/expression/) [of](/post/of/) [interest](/post/interest/)": [A](/post/a/) [formal](/post/formal/) [indication](/post/indication/) [of](/post/of/) one's [desire](/post/desire/) [to](/post/to/) [participate](/post/participate/) [in](/post/in/) [or](/post/or/) [pursue](/post/pursue/) [something](/post/something/).
+- "[Freedom](/post/freedom/) [of](/post/of/) [expression](/post/expression/)": [The](/post/the/) [right](/post/right/) [to](/post/to/) [communicate](/post/communicate/) one's opinions, ideas, [and](/post/and/) beliefs [without](/post/without/) [fear](/post/fear/) [of](/post/of/) censorship [or](/post/or/) retaliation.
+- "Facial expressions": [The](/post/the/) [various](/post/various/) movements [and](/post/and/) configurations [of](/post/of/) [the](/post/the/) [face](/post/face/) [that](/post/that/) [convey](/post/convey/) emotions [and](/post/and/) attitudes.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) facial expressions betrayed [her](/en/post/her/) [surprise](/en/post/surprise/)."
-- **[Verb](/en/post/verb/)**: "[Through](/en/post/through/) [his](/en/post/his/) [writing](/en/post/writing/), [he](/en/post/he/) expressed [his](/en/post/his/) [deep](/en/post/deep/) admiration [for](/en/post/for/) [nature](/en/post/nature/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) facial expressions betrayed [her](/post/her/) [surprise](/post/surprise/)."
+- **[Verb](/post/verb/)**: "[Through](/post/through/) [his](/post/his/) [writing](/post/writing/), [he](/post/he/) expressed [his](/post/his/) [deep](/post/deep/) admiration [for](/post/for/) [nature](/post/nature/)."
 
 ## Synonyms
-- [Noun](/en/post/noun/): [Phrase](/en/post/phrase/), utterance, articulation, [statement](/en/post/statement/), sentiment, manifestation
-- [Verb](/en/post/verb/): [Utter](/en/post/utter/), articulate, [voice](/en/post/voice/), [convey](/en/post/convey/), [reveal](/en/post/reveal/), [show](/en/post/show/), [indicate](/en/post/indicate/)
+- [Noun](/post/noun/): [Phrase](/post/phrase/), utterance, articulation, [statement](/post/statement/), sentiment, manifestation
+- [Verb](/post/verb/): [Utter](/post/utter/), articulate, [voice](/post/voice/), [convey](/post/convey/), [reveal](/post/reveal/), [show](/post/show/), [indicate](/post/indicate/)

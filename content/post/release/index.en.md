@@ -7,37 +7,37 @@ description = '[riˈliːs] vt.释放；放松；发表'
 keywords = ['ai words', 'release']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈliːs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) making [something](/en/post/something/) [available](/en/post/available/) [for](/en/post/for/) [public](/en/post/public/) [use](/en/post/use/), [distribution](/en/post/distribution/), [or](/en/post/or/) viewing; [a](/en/post/a/) letting [go](/en/post/go/) [of](/en/post/of/) [control](/en/post/control/) [or](/en/post/or/) custody. [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [film](/en/post/film/) [will](/en/post/will/) [be](/en/post/be/) released [in](/en/post/in/) theaters [next](/en/post/next/) [month](/en/post/month/)."
-2. An [official](/en/post/official/) [statement](/en/post/statement/) [or](/en/post/or/) announcement, [often](/en/post/often/) [about](/en/post/about/) [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [event](/en/post/event/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) issued [a](/en/post/a/) [release](/en/post/release/) [regarding](/en/post/regarding/) [their](/en/post/their/) [quarterly](/en/post/quarterly/) earnings."
-3. ([Music](/en/post/music/)) [The](/en/post/the/) issuance [of](/en/post/of/) [a](/en/post/a/) recording [from](/en/post/from/) [a](/en/post/a/) [record](/en/post/record/) [label](/en/post/label/). [Example](/en/post/example/): "[The](/en/post/the/) album's [first](/en/post/first/) [single](/en/post/single/) was released [as](/en/post/as/) [a](/en/post/a/) [digital](/en/post/digital/) download."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) making [something](/post/something/) [available](/post/available/) [for](/post/for/) [public](/post/public/) [use](/post/use/), [distribution](/post/distribution/), [or](/post/or/) viewing; [a](/post/a/) letting [go](/post/go/) [of](/post/of/) [control](/post/control/) [or](/post/or/) custody. [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [film](/post/film/) [will](/post/will/) [be](/post/be/) released [in](/post/in/) theaters [next](/post/next/) [month](/post/month/)."
+2. An [official](/post/official/) [statement](/post/statement/) [or](/post/or/) announcement, [often](/post/often/) [about](/post/about/) [a](/post/a/) [product](/post/product/) [or](/post/or/) [event](/post/event/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) issued [a](/post/a/) [release](/post/release/) [regarding](/post/regarding/) [their](/post/their/) [quarterly](/post/quarterly/) earnings."
+3. ([Music](/post/music/)) [The](/post/the/) issuance [of](/post/of/) [a](/post/a/) recording [from](/post/from/) [a](/post/a/) [record](/post/record/) [label](/post/label/). [Example](/post/example/): "[The](/post/the/) album's [first](/post/first/) [single](/post/single/) was released [as](/post/as/) [a](/post/a/) [digital](/post/digital/) download."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) accessible [or](/en/post/or/) [available](/en/post/available/) [for](/en/post/for/) [use](/en/post/use/) [or](/en/post/or/) [purchase](/en/post/purchase/). [Example](/en/post/example/): "[The](/en/post/the/) software developer [will](/en/post/will/) [release](/en/post/release/) an updated [version](/en/post/version/) [soon](/en/post/soon/)."
-2. [To](/en/post/to/) [set](/en/post/set/) [free](/en/post/free/) [from](/en/post/from/) confinement [or](/en/post/or/) [restriction](/en/post/restriction/). [Example](/en/post/example/): "[The](/en/post/the/) prisoners were released [after](/en/post/after/) serving [their](/en/post/their/) sentences."
-3. (Computing) [To](/en/post/to/) [distribute](/en/post/distribute/) [or](/en/post/or/) [publish](/en/post/publish/) [a](/en/post/a/) software update. [Example](/en/post/example/): "[The](/en/post/the/) app [will](/en/post/will/) [be](/en/post/be/) released [with](/en/post/with/) [several](/en/post/several/) bug fixes."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [make](/post/make/) [something](/post/something/) accessible [or](/post/or/) [available](/post/available/) [for](/post/for/) [use](/post/use/) [or](/post/or/) [purchase](/post/purchase/). [Example](/post/example/): "[The](/post/the/) software developer [will](/post/will/) [release](/post/release/) an updated [version](/post/version/) [soon](/post/soon/)."
+2. [To](/post/to/) [set](/post/set/) [free](/post/free/) [from](/post/from/) confinement [or](/post/or/) [restriction](/post/restriction/). [Example](/post/example/): "[The](/post/the/) prisoners were released [after](/post/after/) serving [their](/post/their/) sentences."
+3. (Computing) [To](/post/to/) [distribute](/post/distribute/) [or](/post/or/) [publish](/post/publish/) [a](/post/a/) software update. [Example](/post/example/): "[The](/post/the/) app [will](/post/will/) [be](/post/be/) released [with](/post/with/) [several](/post/several/) bug fixes."
 
 ## Phrases
-- "[Release](/en/post/release/) [date](/en/post/date/)" refers [to](/en/post/to/) [the](/en/post/the/) scheduled [time](/en/post/time/) [when](/en/post/when/) [something](/en/post/something/) becomes [available](/en/post/available/) [for](/en/post/for/) [public](/en/post/public/) [consumption](/en/post/consumption/).
-- "Unveil/[release](/en/post/release/)" is [used](/en/post/used/) [to](/en/post/to/) [announce](/en/post/announce/) [or](/en/post/or/) [introduce](/en/post/introduce/) [a](/en/post/a/) [new](/en/post/new/) [product](/en/post/product/).
-- "[Early](/en/post/early/) [access](/en/post/access/)/[release](/en/post/release/)" allows users [to](/en/post/to/) [try](/en/post/try/) [a](/en/post/a/) [product](/en/post/product/) [before](/en/post/before/) [its](/en/post/its/) [official](/en/post/official/) [launch](/en/post/launch/).
+- "[Release](/post/release/) [date](/post/date/)" refers [to](/post/to/) [the](/post/the/) scheduled [time](/post/time/) [when](/post/when/) [something](/post/something/) becomes [available](/post/available/) [for](/post/for/) [public](/post/public/) [consumption](/post/consumption/).
+- "Unveil/[release](/post/release/)" is [used](/post/used/) [to](/post/to/) [announce](/post/announce/) [or](/post/or/) [introduce](/post/introduce/) [a](/post/a/) [new](/post/new/) [product](/post/product/).
+- "[Early](/post/early/) [access](/post/access/)/[release](/post/release/)" allows users [to](/post/to/) [try](/post/try/) [a](/post/a/) [product](/post/product/) [before](/post/before/) [its](/post/its/) [official](/post/official/) [launch](/post/launch/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) movie's [release](/en/post/release/) sparked [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) excitement [among](/en/post/among/) fans."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [team](/en/post/team/) has released [a](/en/post/a/) [new](/en/post/new/) [security](/en/post/security/) [patch](/en/post/patch/) [to](/en/post/to/) [address](/en/post/address/) [the](/en/post/the/) vulnerabilities."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [museum](/en/post/museum/) [will](/en/post/will/) [release](/en/post/release/) exclusive prints [at](/en/post/at/) [their](/en/post/their/) anniversary [event](/en/post/event/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) movie's [release](/post/release/) sparked [a](/post/a/) [lot](/post/lot/) [of](/post/of/) excitement [among](/post/among/) fans."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [team](/post/team/) has released [a](/post/a/) [new](/post/new/) [security](/post/security/) [patch](/post/patch/) [to](/post/to/) [address](/post/address/) [the](/post/the/) vulnerabilities."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) [museum](/post/museum/) [will](/post/will/) [release](/post/release/) exclusive prints [at](/post/at/) [their](/post/their/) anniversary [event](/post/event/)."
 
 ## Synonyms
-- [Launch](/en/post/launch/)
+- [Launch](/post/launch/)
 - Premiere
 - Debut
-- [Distribution](/en/post/distribution/)
+- [Distribution](/post/distribution/)
 - Availability
 - Unveiling
-- Going [live](/en/post/live/)
-- Rolling [out](/en/post/out/)
-- Making [public](/en/post/public/)
+- Going [live](/post/live/)
+- Rolling [out](/post/out/)
+- Making [public](/post/public/)

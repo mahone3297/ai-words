@@ -11,20 +11,20 @@ keywords = ['ai words', 'flower']
 /ˈflaʊər/
 
 ## 释义
-- **名词 (n)**: 植物的花，通常指其颜色鲜艳、香气宜人的部分。例如: "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) [beautiful](/post/beautiful/) flowers."
-- **名词 (n)**: 某事物的精华或最美好的时期。例如: "[She](/post/she/) is [in](/post/in/) [the](/post/the/) [flower](/post/flower/) [of](/post/of/) [her](/post/her/) [youth](/post/youth/)."
+- **名词 (n)**: 植物的花，通常指其颜色鲜艳、香气宜人的部分。例如: "[The](/zh/post/the/) [garden](/zh/post/garden/) was filled [with](/zh/post/with/) [beautiful](/zh/post/beautiful/) flowers."
+- **名词 (n)**: 某事物的精华或最美好的时期。例如: "[She](/zh/post/she/) is [in](/zh/post/in/) [the](/zh/post/the/) [flower](/zh/post/flower/) [of](/zh/post/of/) [her](/zh/post/her/) [youth](/zh/post/youth/)."
 
 ## 短语
-- "[Blossom](/post/blossom/) [into](/post/into/) [a](/post/a/) [flower](/post/flower/)" 意为发展成最好的状态。
-- "[Flower](/post/flower/) [arrangement](/post/arrangement/)" 是指花卉的装饰排列。
+- "[Blossom](/zh/post/blossom/) [into](/zh/post/into/) [a](/zh/post/a/) [flower](/zh/post/flower/)" 意为发展成最好的状态。
+- "[Flower](/zh/post/flower/) [arrangement](/zh/post/arrangement/)" 是指花卉的装饰排列。
 
 ## 例句
-- 名词: "[The](/post/the/) [vase](/post/vase/) contained [a](/post/a/) [delicate](/post/delicate/) [arrangement](/post/arrangement/) [of](/post/of/) [pink](/post/pink/) [and](/post/and/) [white](/post/white/) flowers."
-- 名词: "[This](/post/this/) year's [crop](/post/crop/) is [in](/post/in/) [full](/post/full/) [flower](/post/flower/), [promising](/post/promising/) [a](/post/a/) bountiful [harvest](/post/harvest/)."
+- 名词: "[The](/zh/post/the/) [vase](/zh/post/vase/) contained [a](/zh/post/a/) [delicate](/zh/post/delicate/) [arrangement](/zh/post/arrangement/) [of](/zh/post/of/) [pink](/zh/post/pink/) [and](/zh/post/and/) [white](/zh/post/white/) flowers."
+- 名词: "[This](/zh/post/this/) year's [crop](/zh/post/crop/) is [in](/zh/post/in/) [full](/zh/post/full/) [flower](/zh/post/flower/), [promising](/zh/post/promising/) [a](/zh/post/a/) bountiful [harvest](/zh/post/harvest/)."
 
 ## 同义词
-- [Bloom](/post/bloom/)
-- [Blossom](/post/blossom/)
-- [Bud](/post/bud/)
+- [Bloom](/zh/post/bloom/)
+- [Blossom](/zh/post/blossom/)
+- [Bud](/zh/post/bud/)
 - Petal
-- [Bud](/post/bud/)
+- [Bud](/zh/post/bud/)

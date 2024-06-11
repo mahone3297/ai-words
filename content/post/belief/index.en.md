@@ -7,39 +7,39 @@ description = '[biˈliːf] n.信任，相信；信念'
 keywords = ['ai words', 'belief']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈli:f/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[belief](/en/post/belief/)** is [a](/en/post/a/) [strong](/en/post/strong/) conviction [or](/en/post/or/) [acceptance](/en/post/acceptance/) [about](/en/post/about/) [something](/en/post/something/), [often](/en/post/often/) [without](/en/post/without/) [proof](/en/post/proof/) [or](/en/post/or/) [evidence](/en/post/evidence/), [that](/en/post/that/) [something](/en/post/something/) is [true](/en/post/true/) [or](/en/post/or/) [real](/en/post/real/). [It](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [faith](/en/post/faith/), opinions, [or](/en/post/or/) convictions.
+### [Noun](/post/noun/)
+[A](/post/a/) **[belief](/post/belief/)** is [a](/post/a/) [strong](/post/strong/) conviction [or](/post/or/) [acceptance](/post/acceptance/) [about](/post/about/) [something](/post/something/), [often](/post/often/) [without](/post/without/) [proof](/post/proof/) [or](/post/or/) [evidence](/post/evidence/), [that](/post/that/) [something](/post/something/) is [true](/post/true/) [or](/post/or/) [real](/post/real/). [It](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [faith](/post/faith/), opinions, [or](/post/or/) convictions.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[believe](/en/post/believe/)** is [to](/en/post/to/) [have](/en/post/have/) [faith](/en/post/faith/) [or](/en/post/or/) [trust](/en/post/trust/) [in](/en/post/in/) [something](/en/post/something/) [as](/en/post/as/) [true](/en/post/true/), [to](/en/post/to/) [accept](/en/post/accept/) [a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [idea](/en/post/idea/) [as](/en/post/as/) [true](/en/post/true/), [or](/en/post/or/) [to](/en/post/to/) [hold](/en/post/hold/) [a](/en/post/a/) person's [word](/en/post/word/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[believe](/post/believe/)** is [to](/post/to/) [have](/post/have/) [faith](/post/faith/) [or](/post/or/) [trust](/post/trust/) [in](/post/in/) [something](/post/something/) [as](/post/as/) [true](/post/true/), [to](/post/to/) [accept](/post/accept/) [a](/post/a/) [statement](/post/statement/) [or](/post/or/) [idea](/post/idea/) [as](/post/as/) [true](/post/true/), [or](/post/or/) [to](/post/to/) [hold](/post/hold/) [a](/post/a/) person's [word](/post/word/).
 
 ## Phrases
-- "[Hold](/en/post/hold/) [a](/en/post/a/) [belief](/en/post/belief/) [in](/en/post/in/)" expresses [confidence](/en/post/confidence/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [idea](/en/post/idea/) [or](/en/post/or/) [principle](/en/post/principle/).
-- "[Change](/en/post/change/) one's [belief](/en/post/belief/)" [means](/en/post/means/) [to](/en/post/to/) [alter](/en/post/alter/) one's [opinion](/en/post/opinion/) [or](/en/post/or/) [faith](/en/post/faith/).
-- "[Belief](/en/post/belief/) [system](/en/post/system/)" refers [to](/en/post/to/) [the](/en/post/the/) [collection](/en/post/collection/) [of](/en/post/of/) beliefs [that](/en/post/that/) [form](/en/post/form/) [a](/en/post/a/) person's worldview.
+- "[Hold](/post/hold/) [a](/post/a/) [belief](/post/belief/) [in](/post/in/)" expresses [confidence](/post/confidence/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [idea](/post/idea/) [or](/post/or/) [principle](/post/principle/).
+- "[Change](/post/change/) one's [belief](/post/belief/)" [means](/post/means/) [to](/post/to/) [alter](/post/alter/) one's [opinion](/post/opinion/) [or](/post/or/) [faith](/post/faith/).
+- "[Belief](/post/belief/) [system](/post/system/)" refers [to](/post/to/) [the](/post/the/) [collection](/post/collection/) [of](/post/of/) beliefs [that](/post/that/) [form](/post/form/) [a](/post/a/) person's worldview.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Many](/en/post/many/) [people](/en/post/people/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [belief](/en/post/belief/) [in](/en/post/in/) [climate](/en/post/climate/) [change](/en/post/change/) [being](/en/post/being/) caused [by](/en/post/by/) [human](/en/post/human/) [activity](/en/post/activity/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) hearing [the](/en/post/the/) [story](/en/post/story/), [he](/en/post/he/) couldn't [help](/en/post/help/) [but](/en/post/but/) [believe](/en/post/believe/) [in](/en/post/in/) [her](/en/post/her/) innocence."
-- **Phrasal [Verb](/en/post/verb/)**: "[His](/en/post/his/) [religious](/en/post/religious/) beliefs [dictate](/en/post/dictate/) [how](/en/post/how/) [he](/en/post/he/) lives [his](/en/post/his/) [life](/en/post/life/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Many](/post/many/) [people](/post/people/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) [belief](/post/belief/) [in](/post/in/) [climate](/post/climate/) [change](/post/change/) [being](/post/being/) caused [by](/post/by/) [human](/post/human/) [activity](/post/activity/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) hearing [the](/post/the/) [story](/post/story/), [he](/post/he/) couldn't [help](/post/help/) [but](/post/but/) [believe](/post/believe/) [in](/post/in/) [her](/post/her/) innocence."
+- **Phrasal [Verb](/post/verb/)**: "[His](/post/his/) [religious](/post/religious/) beliefs [dictate](/post/dictate/) [how](/post/how/) [he](/post/he/) lives [his](/post/his/) [life](/post/life/)."
 
 ## Synonyms
-- [Faith](/en/post/faith/)
+- [Faith](/post/faith/)
 - Conviction
-- [Trust](/en/post/trust/)
-- [Opinion](/en/post/opinion/)
+- [Trust](/post/trust/)
+- [Opinion](/post/opinion/)
 - Assumption
-- [Confidence](/en/post/confidence/)
-- [Belief](/en/post/belief/) [structure](/en/post/structure/)
+- [Confidence](/post/confidence/)
+- [Belief](/post/belief/) [structure](/post/structure/)
 - Weltanschauung
 - Dogma
 
 ## Antonyms
-- [Doubt](/en/post/doubt/)
+- [Doubt](/post/doubt/)
 - Skepticism
 - Disbelief
 - Unbelief

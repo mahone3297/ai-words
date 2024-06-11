@@ -7,38 +7,38 @@ description = '[t∫eindʒ] n.改变，变化；零钱'
 keywords = ['ai words', 'change']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /chɪnʤ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [change](/en/post/change/) [or](/en/post/or/) alteration [in](/en/post/in/) [something](/en/post/something/), [often](/en/post/often/) [from](/en/post/from/) [one](/en/post/one/) [state](/en/post/state/) [or](/en/post/or/) [form](/en/post/form/) [to](/en/post/to/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) landscape underwent [a](/en/post/a/) [significant](/en/post/significant/) [change](/en/post/change/) [after](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/)."
-- [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) modifying [or](/en/post/or/) transforming [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) made [several](/en/post/several/) changes [to](/en/post/to/) [the](/en/post/the/) recipe [before](/en/post/before/) cooking [dinner](/en/post/dinner/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) [change](/post/change/) [or](/post/or/) alteration [in](/post/in/) [something](/post/something/), [often](/post/often/) [from](/post/from/) [one](/post/one/) [state](/post/state/) [or](/post/or/) [form](/post/form/) [to](/post/to/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) landscape underwent [a](/post/a/) [significant](/post/significant/) [change](/post/change/) [after](/post/after/) [the](/post/the/) [storm](/post/storm/)."
+- [The](/post/the/) [act](/post/act/) [of](/post/of/) modifying [or](/post/or/) transforming [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) made [several](/post/several/) changes [to](/post/to/) [the](/post/the/) recipe [before](/post/before/) cooking [dinner](/post/dinner/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [alter](/en/post/alter/) [or](/en/post/or/) [transform](/en/post/transform/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [way](/en/post/way/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [change](/en/post/change/) [its](/en/post/its/) [business](/en/post/business/) [strategy](/en/post/strategy/)."
-- [To](/en/post/to/) [become](/en/post/become/) [different](/en/post/different/) [or](/en/post/or/) [undergo](/en/post/undergo/) [a](/en/post/a/) [shift](/en/post/shift/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) changed [from](/en/post/from/) [sunny](/en/post/sunny/) [to](/en/post/to/) [rainy](/en/post/rainy/) [during](/en/post/during/) [the](/en/post/the/) [day](/en/post/day/)."
-- [To](/en/post/to/) [replace](/en/post/replace/) [or](/en/post/or/) [substitute](/en/post/substitute/) [one](/en/post/one/) [thing](/en/post/thing/) [with](/en/post/with/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) changed [his](/en/post/his/) [mind](/en/post/mind/) [about](/en/post/about/) attending [the](/en/post/the/) [event](/en/post/event/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [alter](/post/alter/) [or](/post/or/) [transform](/post/transform/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [way](/post/way/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [change](/post/change/) [its](/post/its/) [business](/post/business/) [strategy](/post/strategy/)."
+- [To](/post/to/) [become](/post/become/) [different](/post/different/) [or](/post/or/) [undergo](/post/undergo/) [a](/post/a/) [shift](/post/shift/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) changed [from](/post/from/) [sunny](/post/sunny/) [to](/post/to/) [rainy](/post/rainy/) [during](/post/during/) [the](/post/the/) [day](/post/day/)."
+- [To](/post/to/) [replace](/post/replace/) [or](/post/or/) [substitute](/post/substitute/) [one](/post/one/) [thing](/post/thing/) [with](/post/with/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) changed [his](/post/his/) [mind](/post/mind/) [about](/post/about/) attending [the](/post/the/) [event](/post/event/)."
 
-### [Adjective](/en/post/adjective/)
-- Characterized [by](/en/post/by/) alteration [or](/en/post/or/) [variation](/en/post/variation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) changing seasons [bring](/en/post/bring/) [new](/en/post/new/) [scenery](/en/post/scenery/)."
-- Occurring [or](/en/post/or/) [liable](/en/post/liable/) [to](/en/post/to/) [change](/en/post/change/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [economy](/en/post/economy/) is [a](/en/post/a/) constantly changing landscape."
+### [Adjective](/post/adjective/)
+- Characterized [by](/post/by/) alteration [or](/post/or/) [variation](/post/variation/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) changing seasons [bring](/post/bring/) [new](/post/new/) [scenery](/post/scenery/)."
+- Occurring [or](/post/or/) [liable](/post/liable/) [to](/post/to/) [change](/post/change/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [economy](/post/economy/) is [a](/post/a/) constantly changing landscape."
 
 ## Phrases
-- "[Bring](/en/post/bring/) [about](/en/post/about/) [change](/en/post/change/)" implies causing [a](/en/post/a/) [transformation](/en/post/transformation/).
-- "[Be](/en/post/be/) [open](/en/post/open/) [to](/en/post/to/) [change](/en/post/change/)" encourages receptivity [to](/en/post/to/) alterations.
-- "[Resistance](/en/post/resistance/) [to](/en/post/to/) [change](/en/post/change/)" highlights reluctance [to](/en/post/to/) [adapt](/en/post/adapt/).
+- "[Bring](/post/bring/) [about](/post/about/) [change](/post/change/)" implies causing [a](/post/a/) [transformation](/post/transformation/).
+- "[Be](/post/be/) [open](/post/open/) [to](/post/to/) [change](/post/change/)" encourages receptivity [to](/post/to/) alterations.
+- "[Resistance](/post/resistance/) [to](/post/to/) [change](/post/change/)" highlights reluctance [to](/post/to/) [adapt](/post/adapt/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) city's skyline underwent [a](/en/post/a/) [dramatic](/en/post/dramatic/) [change](/en/post/change/) [over](/en/post/over/) [the](/en/post/the/) [past](/en/post/past/) [decade](/en/post/decade/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) promised [herself](/en/post/herself/) [to](/en/post/to/) [change](/en/post/change/) [her](/en/post/her/) habits [for](/en/post/for/) [a](/en/post/a/) healthier lifestyle."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's [culture](/en/post/culture/) is known [for](/en/post/for/) [its](/en/post/its/) adaptability [to](/en/post/to/) changing [market](/en/post/market/) conditions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) city's skyline underwent [a](/post/a/) [dramatic](/post/dramatic/) [change](/post/change/) [over](/post/over/) [the](/post/the/) [past](/post/past/) [decade](/post/decade/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) promised [herself](/post/herself/) [to](/post/to/) [change](/post/change/) [her](/post/her/) habits [for](/post/for/) [a](/post/a/) healthier lifestyle."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) company's [culture](/post/culture/) is known [for](/post/for/) [its](/post/its/) adaptability [to](/post/to/) changing [market](/post/market/) conditions."
 
 ## Synonyms
 - Alteration
 - Modification
-- [Transformation](/en/post/transformation/)
-- [Shift](/en/post/shift/)
+- [Transformation](/post/transformation/)
+- [Shift](/post/shift/)
 - Adaptation
 - Reconfiguration
 - Revamp

@@ -7,40 +7,40 @@ description = '[ˈpʌni∫mənt] n.罚，惩罚，处罚'
 keywords = ['ai words', 'punishment']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pʌnɪʃmənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Punishment](/en/post/punishment/)** refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) imposing [a](/en/post/a/) penalty [or](/en/post/or/) suffering [on](/en/post/on/) [someone](/en/post/someone/) [as](/en/post/as/) [a](/en/post/a/) [consequence](/en/post/consequence/) [for](/en/post/for/) [their](/en/post/their/) actions, [often](/en/post/often/) [as](/en/post/as/) [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [discipline](/en/post/discipline/) [or](/en/post/or/) retribution.
+### [Noun](/post/noun/)
+**[Punishment](/post/punishment/)** refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) imposing [a](/post/a/) penalty [or](/post/or/) suffering [on](/post/on/) [someone](/post/someone/) [as](/post/as/) [a](/post/a/) [consequence](/post/consequence/) [for](/post/for/) [their](/post/their/) actions, [often](/post/often/) [as](/post/as/) [a](/post/a/) [form](/post/form/) [of](/post/of/) [discipline](/post/discipline/) [or](/post/or/) retribution.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[punish](/en/post/punish/)** is [to](/en/post/to/) [impose](/en/post/impose/) [a](/en/post/a/) penalty [or](/en/post/or/) inflict [a](/en/post/a/) disagreeable [experience](/en/post/experience/) [upon](/en/post/upon/) [someone](/en/post/someone/) [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) [their](/en/post/their/) wrongdoing [or](/en/post/or/) breach [of](/en/post/of/) rules.
+### [Verb](/post/verb/)
+[To](/post/to/) **[punish](/post/punish/)** is [to](/post/to/) [impose](/post/impose/) [a](/post/a/) penalty [or](/post/or/) inflict [a](/post/a/) disagreeable [experience](/post/experience/) [upon](/post/upon/) [someone](/post/someone/) [in](/post/in/) [response](/post/response/) [to](/post/to/) [their](/post/their/) wrongdoing [or](/post/or/) breach [of](/post/of/) rules.
 
 ## Phrases
-- "Administer [punishment](/en/post/punishment/)" implies [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) imposing [a](/en/post/a/) penalty [or](/en/post/or/) [correction](/en/post/correction/).
-- "[Serve](/en/post/serve/) [a](/en/post/a/) [punishment](/en/post/punishment/)" [means](/en/post/means/) [to](/en/post/to/) [carry](/en/post/carry/) [out](/en/post/out/) [the](/en/post/the/) assigned penalty.
-- "Merciful [punishment](/en/post/punishment/)" suggests [a](/en/post/a/) lesser [or](/en/post/or/) [more](/en/post/more/) lenient [form](/en/post/form/) [of](/en/post/of/) [punishment](/en/post/punishment/).
+- "Administer [punishment](/post/punishment/)" implies [the](/post/the/) [act](/post/act/) [of](/post/of/) imposing [a](/post/a/) penalty [or](/post/or/) [correction](/post/correction/).
+- "[Serve](/post/serve/) [a](/post/a/) [punishment](/post/punishment/)" [means](/post/means/) [to](/post/to/) [carry](/post/carry/) [out](/post/out/) [the](/post/the/) assigned penalty.
+- "Merciful [punishment](/post/punishment/)" suggests [a](/post/a/) lesser [or](/post/or/) [more](/post/more/) lenient [form](/post/form/) [of](/post/of/) [punishment](/post/punishment/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [criminal](/en/post/criminal/) received [a](/en/post/a/) [severe](/en/post/severe/) [punishment](/en/post/punishment/) [for](/en/post/for/) [his](/en/post/his/) crimes."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) punished [the](/en/post/the/) students [who](/en/post/who/) cheated [on](/en/post/on/) [the](/en/post/the/) [exam](/en/post/exam/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [judge](/en/post/judge/) decided [to](/en/post/to/) [punish](/en/post/punish/) [the](/en/post/the/) offender [with](/en/post/with/) [community](/en/post/community/) [service](/en/post/service/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [criminal](/post/criminal/) received [a](/post/a/) [severe](/post/severe/) [punishment](/post/punishment/) [for](/post/for/) [his](/post/his/) crimes."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) punished [the](/post/the/) students [who](/post/who/) cheated [on](/post/on/) [the](/post/the/) [exam](/post/exam/)."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) [judge](/post/judge/) decided [to](/post/to/) [punish](/post/punish/) [the](/post/the/) offender [with](/post/with/) [community](/post/community/) [service](/post/service/)."
 
 ## Synonyms
-- [Discipline](/en/post/discipline/)
-- [Correction](/en/post/correction/)
+- [Discipline](/post/discipline/)
+- [Correction](/post/correction/)
 - Reprimand
 - Penalty
 - Sanction
 - Retribution
 - Reproof
 - Finesse
-- [Harsh](/en/post/harsh/) [treatment](/en/post/treatment/)
+- [Harsh](/post/harsh/) [treatment](/post/treatment/)
 
 ## Antonyms
-- [Reward](/en/post/reward/)
+- [Reward](/post/reward/)
 - Forgiveness
 - Indulgence
 - Leniency
-- [Mercy](/en/post/mercy/)
+- [Mercy](/post/mercy/)

@@ -7,31 +7,31 @@ description = '[inˈklain] n.斜坡 vt.使倾斜'
 keywords = ['ai words', 'incline']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈklaɪn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)** (n): [A](/en/post/a/) sloping [surface](/en/post/surface/) [or](/en/post/or/) [angle](/en/post/angle/); [a](/en/post/a/) gradient. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [path](/en/post/path/) takes [a](/en/post/a/) [steep](/en/post/steep/) [incline](/en/post/incline/) towards [the](/en/post/the/) summit."
-- **[Verb](/en/post/verb/)** (v): [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [tendency](/en/post/tendency/) [or](/en/post/or/) disposition towards [something](/en/post/something/); [to](/en/post/to/) [lean](/en/post/lean/) [or](/en/post/or/) [bend](/en/post/bend/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [direction](/en/post/direction/). [For](/en/post/for/) [instance](/en/post/instance/): "[She](/en/post/she/) inclines [her](/en/post/her/) [head](/en/post/head/) [when](/en/post/when/) listening attentively."
-- **[Verb](/en/post/verb/)** (v): [To](/en/post/to/) [cause](/en/post/cause/) [to](/en/post/to/) [slope](/en/post/slope/) [or](/en/post/or/) slant. [Example](/en/post/example/): "[The](/en/post/the/) architect designed [the](/en/post/the/) [roof](/en/post/roof/) [to](/en/post/to/) [incline](/en/post/incline/) [slightly](/en/post/slightly/) [for](/en/post/for/) rainwater runoff."
+- **[Noun](/post/noun/)** (n): [A](/post/a/) sloping [surface](/post/surface/) [or](/post/or/) [angle](/post/angle/); [a](/post/a/) gradient. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [path](/post/path/) takes [a](/post/a/) [steep](/post/steep/) [incline](/post/incline/) towards [the](/post/the/) summit."
+- **[Verb](/post/verb/)** (v): [To](/post/to/) [have](/post/have/) [a](/post/a/) [tendency](/post/tendency/) [or](/post/or/) disposition towards [something](/post/something/); [to](/post/to/) [lean](/post/lean/) [or](/post/or/) [bend](/post/bend/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [direction](/post/direction/). [For](/post/for/) [instance](/post/instance/): "[She](/post/she/) inclines [her](/post/her/) [head](/post/head/) [when](/post/when/) listening attentively."
+- **[Verb](/post/verb/)** (v): [To](/post/to/) [cause](/post/cause/) [to](/post/to/) [slope](/post/slope/) [or](/post/or/) slant. [Example](/post/example/): "[The](/post/the/) architect designed [the](/post/the/) [roof](/post/roof/) [to](/post/to/) [incline](/post/incline/) [slightly](/post/slightly/) [for](/post/for/) rainwater runoff."
   
 ## Phrases
-- "[On](/en/post/on/) an [incline](/en/post/incline/)": Describing [something](/en/post/something/) [that](/en/post/that/) is positioned [or](/en/post/or/) happening [on](/en/post/on/) [a](/en/post/a/) [slope](/en/post/slope/) [or](/en/post/or/) [upward](/en/post/upward/) [slope](/en/post/slope/).
-- "[Incline](/en/post/incline/) towards": [To](/en/post/to/) [tend](/en/post/tend/) towards [or](/en/post/or/) favor [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) opinions [incline](/en/post/incline/) towards [liberal](/en/post/liberal/) views."
+- "[On](/post/on/) an [incline](/post/incline/)": Describing [something](/post/something/) [that](/post/that/) is positioned [or](/post/or/) happening [on](/post/on/) [a](/post/a/) [slope](/post/slope/) [or](/post/or/) [upward](/post/upward/) [slope](/post/slope/).
+- "[Incline](/post/incline/) towards": [To](/post/to/) [tend](/post/tend/) towards [or](/post/or/) favor [something](/post/something/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) opinions [incline](/post/incline/) towards [liberal](/post/liberal/) views."
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) had [to](/en/post/to/) [walk](/en/post/walk/) [up](/en/post/up/) [a](/en/post/a/) [steep](/en/post/steep/) [incline](/en/post/incline/) [to](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) [top](/en/post/top/) [of](/en/post/of/) [the](/en/post/the/) [hill](/en/post/hill/)."
-- **[Verb](/en/post/verb/)**: "[As](/en/post/as/) [he](/en/post/he/) aged, [he](/en/post/he/) began [to](/en/post/to/) [incline](/en/post/incline/) [more](/en/post/more/) towards spending [time](/en/post/time/) [with](/en/post/with/) [his](/en/post/his/) [family](/en/post/family/)."
-- **[Verb](/en/post/verb/)**: "[Make](/en/post/make/) [sure](/en/post/sure/) [the](/en/post/the/) treadmill is [set](/en/post/set/) [on](/en/post/on/) an [incline](/en/post/incline/) [to](/en/post/to/) simulate uphill walking."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) had [to](/post/to/) [walk](/post/walk/) [up](/post/up/) [a](/post/a/) [steep](/post/steep/) [incline](/post/incline/) [to](/post/to/) [reach](/post/reach/) [the](/post/the/) [top](/post/top/) [of](/post/of/) [the](/post/the/) [hill](/post/hill/)."
+- **[Verb](/post/verb/)**: "[As](/post/as/) [he](/post/he/) aged, [he](/post/he/) began [to](/post/to/) [incline](/post/incline/) [more](/post/more/) towards spending [time](/post/time/) [with](/post/with/) [his](/post/his/) [family](/post/family/)."
+- **[Verb](/post/verb/)**: "[Make](/post/make/) [sure](/post/sure/) [the](/post/the/) treadmill is [set](/post/set/) [on](/post/on/) an [incline](/post/incline/) [to](/post/to/) simulate uphill walking."
 
 ## Synonyms
-- [Slope](/en/post/slope/)
+- [Slope](/post/slope/)
 - Gradient
-- [Angle](/en/post/angle/)
-- [Lean](/en/post/lean/)
+- [Angle](/post/angle/)
+- [Lean](/post/lean/)
 - Tilt
-- [Pitch](/en/post/pitch/)
+- [Pitch](/post/pitch/)
 - Slant
-- [Bend](/en/post/bend/)
+- [Bend](/post/bend/)
 - Inclination
-- [Trend](/en/post/trend/) ([as](/en/post/as/) [in](/en/post/in/) [trend](/en/post/trend/) towards)
+- [Trend](/post/trend/) ([as](/post/as/) [in](/post/in/) [trend](/post/trend/) towards)

@@ -7,36 +7,36 @@ description = '[ˈkɔnfidəns] n.信任；信赖；信心'
 keywords = ['ai words', 'confidence']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkɒnfɪdəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [trust](/en/post/trust/) [in](/en/post/in/) one's [own](/en/post/own/) abilities [or](/en/post/or/) [in](/en/post/in/) [the](/en/post/the/) [reliability](/en/post/reliability/) [of](/en/post/of/) [something](/en/post/something/); self-assurance. "[She](/en/post/she/) exuded [confidence](/en/post/confidence/) [on](/en/post/on/) [stage](/en/post/stage/)." 2. [Belief](/en/post/belief/) [in](/en/post/in/) [the](/en/post/the/) [truth](/en/post/truth/) [or](/en/post/or/) [accuracy](/en/post/accuracy/) [of](/en/post/of/) [something](/en/post/something/). "[Their](/en/post/their/) [confidence](/en/post/confidence/) [in](/en/post/in/) [the](/en/post/the/) [forecast](/en/post/forecast/) was misplaced."
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [have](/en/post/have/) [faith](/en/post/faith/) [or](/en/post/or/) [trust](/en/post/trust/) [in](/en/post/in/) [oneself](/en/post/oneself/) [or](/en/post/or/) others. "[She](/en/post/she/) confidently presented [her](/en/post/her/) ideas [at](/en/post/at/) [the](/en/post/the/) [meeting](/en/post/meeting/)." 2. [To](/en/post/to/) [inspire](/en/post/inspire/) [or](/en/post/or/) instill [confidence](/en/post/confidence/) [in](/en/post/in/) [someone](/en/post/someone/) [else](/en/post/else/). "[The](/en/post/the/) [coach](/en/post/coach/) tried [to](/en/post/to/) boost [the](/en/post/the/) team's [confidence](/en/post/confidence/) [before](/en/post/before/) [the](/en/post/the/) [game](/en/post/game/)."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [trust](/post/trust/) [in](/post/in/) one's [own](/post/own/) abilities [or](/post/or/) [in](/post/in/) [the](/post/the/) [reliability](/post/reliability/) [of](/post/of/) [something](/post/something/); self-assurance. "[She](/post/she/) exuded [confidence](/post/confidence/) [on](/post/on/) [stage](/post/stage/)." 2. [Belief](/post/belief/) [in](/post/in/) [the](/post/the/) [truth](/post/truth/) [or](/post/or/) [accuracy](/post/accuracy/) [of](/post/of/) [something](/post/something/). "[Their](/post/their/) [confidence](/post/confidence/) [in](/post/in/) [the](/post/the/) [forecast](/post/forecast/) was misplaced."
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [have](/post/have/) [faith](/post/faith/) [or](/post/or/) [trust](/post/trust/) [in](/post/in/) [oneself](/post/oneself/) [or](/post/or/) others. "[She](/post/she/) confidently presented [her](/post/her/) ideas [at](/post/at/) [the](/post/the/) [meeting](/post/meeting/)." 2. [To](/post/to/) [inspire](/post/inspire/) [or](/post/or/) instill [confidence](/post/confidence/) [in](/post/in/) [someone](/post/someone/) [else](/post/else/). "[The](/post/the/) [coach](/post/coach/) tried [to](/post/to/) boost [the](/post/the/) team's [confidence](/post/confidence/) [before](/post/before/) [the](/post/the/) [game](/post/game/)."
 
 ## Phrases
-- "Boost one's [confidence](/en/post/confidence/)" [means](/en/post/means/) [to](/en/post/to/) [increase](/en/post/increase/) someone's self-belief.
-- "[Lack](/en/post/lack/) [of](/en/post/of/) [confidence](/en/post/confidence/)" describes [a](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [someone](/en/post/someone/) doubts [their](/en/post/their/) abilities.
-- "[Confidence](/en/post/confidence/) [interval](/en/post/interval/)" is [a](/en/post/a/) [statistical](/en/post/statistical/) [measure](/en/post/measure/) expressing [the](/en/post/the/) [precision](/en/post/precision/) [of](/en/post/of/) an [estimate](/en/post/estimate/).
+- "Boost one's [confidence](/post/confidence/)" [means](/post/means/) [to](/post/to/) [increase](/post/increase/) someone's self-belief.
+- "[Lack](/post/lack/) [of](/post/of/) [confidence](/post/confidence/)" describes [a](/post/a/) [situation](/post/situation/) [where](/post/where/) [someone](/post/someone/) doubts [their](/post/their/) abilities.
+- "[Confidence](/post/confidence/) [interval](/post/interval/)" is [a](/post/a/) [statistical](/post/statistical/) [measure](/post/measure/) expressing [the](/post/the/) [precision](/post/precision/) [of](/post/of/) an [estimate](/post/estimate/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) calmness [and](/en/post/and/) poise reflected [his](/en/post/his/) [deep](/en/post/deep/) [confidence](/en/post/confidence/) [in](/en/post/in/) [his](/en/post/his/) [preparation](/en/post/preparation/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) mentor mentored [her](/en/post/her/) students [to](/en/post/to/) [help](/en/post/help/) [them](/en/post/them/) [build](/en/post/build/) [their](/en/post/their/) [confidence](/en/post/confidence/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) felt [a](/en/post/a/) surge [of](/en/post/of/) [confidence](/en/post/confidence/) [after](/en/post/after/) receiving [positive](/en/post/positive/) [feedback](/en/post/feedback/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) calmness [and](/post/and/) poise reflected [his](/post/his/) [deep](/post/deep/) [confidence](/post/confidence/) [in](/post/in/) [his](/post/his/) [preparation](/post/preparation/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) mentor mentored [her](/post/her/) students [to](/post/to/) [help](/post/help/) [them](/post/them/) [build](/post/build/) [their](/post/their/) [confidence](/post/confidence/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) felt [a](/post/a/) surge [of](/post/of/) [confidence](/post/confidence/) [after](/post/after/) receiving [positive](/post/positive/) [feedback](/post/feedback/)."
 
 ## Synonyms
 - Assurance
-- [Trust](/en/post/trust/)
+- [Trust](/post/trust/)
 - Self-assuredness
-- [Belief](/en/post/belief/)
-- [Certainty](/en/post/certainty/)
+- [Belief](/post/belief/)
+- [Certainty](/post/certainty/)
 - Self-confidence
-- [Faith](/en/post/faith/)
+- [Faith](/post/faith/)
 
 ## Antonyms
-- [Doubt](/en/post/doubt/)
+- [Doubt](/post/doubt/)
 - Uncertainty
 - Insecurity
-- [Lack](/en/post/lack/) [of](/en/post/of/) [faith](/en/post/faith/)
+- [Lack](/post/lack/) [of](/post/of/) [faith](/post/faith/)
 - Skepticism
 - Timidity

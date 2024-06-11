@@ -11,20 +11,20 @@ keywords = ['ai words', 'combine']
 /kuːmˈbaɪn/
 
 ## 释义
-- **动词**: 把两个或多个事物、元素或概念联合、合并或组合在一起。例如: "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [combine](/post/combine/) [their](/post/their/) resources [for](/post/for/) [a](/post/a/) [new](/post/new/) [project](/post/project/)."
-- **名词**: 结合；联合体。例如: "[Their](/post/their/) combined efforts led [to](/post/to/) [a](/post/a/) [successful](/post/successful/) [outcome](/post/outcome/)."
+- **动词**: 把两个或多个事物、元素或概念联合、合并或组合在一起。例如: "[The](/zh/post/the/) [company](/zh/post/company/) decided [to](/zh/post/to/) [combine](/zh/post/combine/) [their](/zh/post/their/) resources [for](/zh/post/for/) [a](/zh/post/a/) [new](/zh/post/new/) [project](/zh/post/project/)."
+- **名词**: 结合；联合体。例如: "[Their](/zh/post/their/) combined efforts led [to](/zh/post/to/) [a](/zh/post/a/) [successful](/zh/post/successful/) [outcome](/zh/post/outcome/)."
 
 ## 短语
-- "[combine](/post/combine/) [A](/post/a/) [with](/post/with/) B" 意味着把A和B结合在一起。
-- "[to](/post/to/) [form](/post/form/) [a](/post/a/) [combine](/post/combine/)" 指形成一个联盟或联合企业。
+- "[combine](/zh/post/combine/) [A](/zh/post/a/) [with](/zh/post/with/) B" 意味着把A和B结合在一起。
+- "[to](/zh/post/to/) [form](/zh/post/form/) [a](/zh/post/a/) [combine](/zh/post/combine/)" 指形成一个联盟或联合企业。
 
 ## 例句
-- 动词: "[The](/post/the/) farmers decided [to](/post/to/) [combine](/post/combine/) [their](/post/their/) [small](/post/small/) farms [into](/post/into/) [a](/post/a/) larger cooperative."
-- 名词: "[The](/post/the/) [two](/post/two/) companies formed [a](/post/a/) [powerful](/post/powerful/) [combine](/post/combine/) [in](/post/in/) [the](/post/the/) [industry](/post/industry/)."
+- 动词: "[The](/zh/post/the/) farmers decided [to](/zh/post/to/) [combine](/zh/post/combine/) [their](/zh/post/their/) [small](/zh/post/small/) farms [into](/zh/post/into/) [a](/zh/post/a/) larger cooperative."
+- 名词: "[The](/zh/post/the/) [two](/zh/post/two/) companies formed [a](/zh/post/a/) [powerful](/zh/post/powerful/) [combine](/zh/post/combine/) [in](/zh/post/in/) [the](/zh/post/the/) [industry](/zh/post/industry/)."
 
 ## 同义词
 - merge
-- [unite](/post/unite/)
+- [unite](/zh/post/unite/)
 - integrate
 - synthesize
-- [join](/post/join/) [together](/post/together/)
+- [join](/zh/post/join/) [together](/zh/post/together/)

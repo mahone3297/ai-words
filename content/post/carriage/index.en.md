@@ -7,44 +7,44 @@ description = '[ˈkæridʒ] n.客车厢；四轮马车'
 keywords = ['ai words', 'carriage']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈreɪʒ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [vehicle](/en/post/vehicle/) [for](/en/post/for/) passengers, [especially](/en/post/especially/) [one](/en/post/one/) drawn [by](/en/post/by/) horses [or](/en/post/or/) [a](/en/post/a/) horse-drawn [vehicle](/en/post/vehicle/) [with](/en/post/with/) an enclosed [cabin](/en/post/cabin/) [or](/en/post/or/) [seat](/en/post/seat/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) vintage [carriage](/en/post/carriage/) was [a](/en/post/a/) [sight](/en/post/sight/) [to](/en/post/to/) behold [at](/en/post/at/) [the](/en/post/the/) [parade](/en/post/parade/)."
-2. [A](/en/post/a/) conveyance [on](/en/post/on/) wheels, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [train](/en/post/train/) [car](/en/post/car/) [or](/en/post/or/) [bus](/en/post/bus/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) passengers boarded [the](/en/post/the/) [last](/en/post/last/) [carriage](/en/post/carriage/) [of](/en/post/of/) [the](/en/post/the/) [train](/en/post/train/)."
-3. [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) mechanism [that](/en/post/that/) carries [something](/en/post/something/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [clock](/en/post/clock/) [or](/en/post/or/) firearm.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [carriage](/en/post/carriage/) [in](/en/post/in/) [a](/en/post/a/) [grandfather](/en/post/grandfather/) [clock](/en/post/clock/) holds [the](/en/post/the/) pendulum."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [vehicle](/post/vehicle/) [for](/post/for/) passengers, [especially](/post/especially/) [one](/post/one/) drawn [by](/post/by/) horses [or](/post/or/) [a](/post/a/) horse-drawn [vehicle](/post/vehicle/) [with](/post/with/) an enclosed [cabin](/post/cabin/) [or](/post/or/) [seat](/post/seat/).
+   - [Example](/post/example/): "[The](/post/the/) vintage [carriage](/post/carriage/) was [a](/post/a/) [sight](/post/sight/) [to](/post/to/) behold [at](/post/at/) [the](/post/the/) [parade](/post/parade/)."
+2. [A](/post/a/) conveyance [on](/post/on/) wheels, [such](/post/such/) [as](/post/as/) [a](/post/a/) [train](/post/train/) [car](/post/car/) [or](/post/or/) [bus](/post/bus/).
+   - [Example](/post/example/): "[The](/post/the/) passengers boarded [the](/post/the/) [last](/post/last/) [carriage](/post/carriage/) [of](/post/of/) [the](/post/the/) [train](/post/train/)."
+3. [A](/post/a/) [part](/post/part/) [of](/post/of/) [a](/post/a/) mechanism [that](/post/that/) carries [something](/post/something/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [clock](/post/clock/) [or](/post/or/) firearm.
+   - [Example](/post/example/): "[The](/post/the/) [carriage](/post/carriage/) [in](/post/in/) [a](/post/a/) [grandfather](/post/grandfather/) [clock](/post/clock/) holds [the](/post/the/) pendulum."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [transport](/en/post/transport/) passengers [or](/en/post/or/) [goods](/en/post/goods/) using [a](/en/post/a/) [carriage](/en/post/carriage/) [or](/en/post/or/) [similar](/en/post/similar/) [vehicle](/en/post/vehicle/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [driver](/en/post/driver/) harnessed [the](/en/post/the/) horses [and](/en/post/and/) [set](/en/post/set/) [off](/en/post/off/) [in](/en/post/in/) [the](/en/post/the/) [carriage](/en/post/carriage/)."
-2. [To](/en/post/to/) [carry](/en/post/carry/) [something](/en/post/something/) [on](/en/post/on/) [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [manner](/en/post/manner/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) carefully carriage-painted [the](/en/post/the/) [delicate](/en/post/delicate/) flowers [on](/en/post/on/) [the](/en/post/the/) [vase](/en/post/vase/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [transport](/post/transport/) passengers [or](/post/or/) [goods](/post/goods/) using [a](/post/a/) [carriage](/post/carriage/) [or](/post/or/) [similar](/post/similar/) [vehicle](/post/vehicle/).
+   - [Example](/post/example/): "[The](/post/the/) [driver](/post/driver/) harnessed [the](/post/the/) horses [and](/post/and/) [set](/post/set/) [off](/post/off/) [in](/post/in/) [the](/post/the/) [carriage](/post/carriage/)."
+2. [To](/post/to/) [carry](/post/carry/) [something](/post/something/) [on](/post/on/) [or](/post/or/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [manner](/post/manner/).
+   - [Example](/post/example/): "[The](/post/the/) [artist](/post/artist/) carefully carriage-painted [the](/post/the/) [delicate](/post/delicate/) flowers [on](/post/on/) [the](/post/the/) [vase](/post/vase/)."
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [carriage](/en/post/carriage/); ornamental [or](/en/post/or/) stylish.
-   - [Example](/en/post/example/): "[The](/en/post/the/) elegant [carriage](/en/post/carriage/) [house](/en/post/house/) added charm [to](/en/post/to/) [the](/en/post/the/) estate."
-2. (Computing) [The](/en/post/the/) [unit](/en/post/unit/) [of](/en/post/of/) [data](/en/post/data/) [transfer](/en/post/transfer/) [in](/en/post/in/) [a](/en/post/a/) [communication](/en/post/communication/) protocol, typically containing [a](/en/post/a/) fixed [number](/en/post/number/) [of](/en/post/of/) bits.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [carriage](/en/post/carriage/) [return](/en/post/return/) [function](/en/post/function/) moves [the](/en/post/the/) cursor [to](/en/post/to/) [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [a](/en/post/a/) [new](/en/post/new/) [line](/en/post/line/)."
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [carriage](/post/carriage/); ornamental [or](/post/or/) stylish.
+   - [Example](/post/example/): "[The](/post/the/) elegant [carriage](/post/carriage/) [house](/post/house/) added charm [to](/post/to/) [the](/post/the/) estate."
+2. (Computing) [The](/post/the/) [unit](/post/unit/) [of](/post/of/) [data](/post/data/) [transfer](/post/transfer/) [in](/post/in/) [a](/post/a/) [communication](/post/communication/) protocol, typically containing [a](/post/a/) fixed [number](/post/number/) [of](/post/of/) bits.
+   - [Example](/post/example/): "[The](/post/the/) [carriage](/post/carriage/) [return](/post/return/) [function](/post/function/) moves [the](/post/the/) cursor [to](/post/to/) [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [line](/post/line/)."
 
 ## Phrases
-- "[Travel](/en/post/travel/) [in](/en/post/in/) [a](/en/post/a/) [carriage](/en/post/carriage/)" [or](/en/post/or/) "[take](/en/post/take/) [a](/en/post/a/) [carriage](/en/post/carriage/) [ride](/en/post/ride/)"
-- "[Carriage](/en/post/carriage/) [house](/en/post/house/)" ([a](/en/post/a/) [separate](/en/post/separate/) [building](/en/post/building/) [for](/en/post/for/) storing carriages [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [living](/en/post/living/) quarters)
-- "[Carriage](/en/post/carriage/) [return](/en/post/return/)" ([in](/en/post/in/) computers, moving [the](/en/post/the/) cursor [to](/en/post/to/) [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [a](/en/post/a/) [line](/en/post/line/))
+- "[Travel](/post/travel/) [in](/post/in/) [a](/post/a/) [carriage](/post/carriage/)" [or](/post/or/) "[take](/post/take/) [a](/post/a/) [carriage](/post/carriage/) [ride](/post/ride/)"
+- "[Carriage](/post/carriage/) [house](/post/house/)" ([a](/post/a/) [separate](/post/separate/) [building](/post/building/) [for](/post/for/) storing carriages [or](/post/or/) [as](/post/as/) [a](/post/a/) [living](/post/living/) quarters)
+- "[Carriage](/post/carriage/) [return](/post/return/)" ([in](/post/in/) computers, moving [the](/post/the/) cursor [to](/post/to/) [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [a](/post/a/) [line](/post/line/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) bride arrived [at](/en/post/at/) [the](/en/post/the/) [ceremony](/en/post/ceremony/) [in](/en/post/in/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) horse-drawn [carriage](/en/post/carriage/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [driver](/en/post/driver/) carefully carriage-guided [the](/en/post/the/) [precious](/en/post/precious/) antique [through](/en/post/through/) [the](/en/post/the/) crowded [street](/en/post/street/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [carriage](/en/post/carriage/) [clock](/en/post/clock/) [on](/en/post/on/) [the](/en/post/the/) mantel had intricate [gold](/en/post/gold/) carvings."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) bride arrived [at](/post/at/) [the](/post/the/) [ceremony](/post/ceremony/) [in](/post/in/) [a](/post/a/) [beautiful](/post/beautiful/) horse-drawn [carriage](/post/carriage/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [driver](/post/driver/) carefully carriage-guided [the](/post/the/) [precious](/post/precious/) antique [through](/post/through/) [the](/post/the/) crowded [street](/post/street/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [carriage](/post/carriage/) [clock](/post/clock/) [on](/post/on/) [the](/post/the/) mantel had intricate [gold](/post/gold/) carvings."
 
 ## Synonyms
 - Wagon (informal)
-- Chariot ([historical](/en/post/historical/) [or](/en/post/or/) poetic)
-- Barouche (an [open](/en/post/open/) [carriage](/en/post/carriage/))
-- Brougham ([a](/en/post/a/) closed [carriage](/en/post/carriage/))
-- [Vehicle](/en/post/vehicle/) ([a](/en/post/a/) broader [term](/en/post/term/))
-- Conveyance ([a](/en/post/a/) [general](/en/post/general/) [means](/en/post/means/) [of](/en/post/of/) [transportation](/en/post/transportation/))
+- Chariot ([historical](/post/historical/) [or](/post/or/) poetic)
+- Barouche (an [open](/post/open/) [carriage](/post/carriage/))
+- Brougham ([a](/post/a/) closed [carriage](/post/carriage/))
+- [Vehicle](/post/vehicle/) ([a](/post/a/) broader [term](/post/term/))
+- Conveyance ([a](/post/a/) [general](/post/general/) [means](/post/means/) [of](/post/of/) [transportation](/post/transportation/))

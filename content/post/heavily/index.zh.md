@@ -11,20 +11,20 @@ keywords = ['ai words', 'heavily']
 /hevi/
 
 ## 释义
-- **副词**: 表示程度深，强烈或大量地。例如: "[It](/post/it/) was raining [heavily](/post/heavily/)."
-- **形容词**: 重的，重量大的。例如: "[This](/post/this/) [box](/post/box/) is [heavily](/post/heavily/) loaded [with](/post/with/) books."
+- **副词**: 表示程度深，强烈或大量地。例如: "[It](/zh/post/it/) was raining [heavily](/zh/post/heavily/)."
+- **形容词**: 重的，重量大的。例如: "[This](/zh/post/this/) [box](/zh/post/box/) is [heavily](/zh/post/heavily/) loaded [with](/zh/post/with/) books."
 
 ## 短语
-- "[Heavily](/post/heavily/) armed" 意为装备精良或武器众多。
-- "[Heavily](/post/heavily/) pregnant" 指怀孕晚期，接近分娩。
+- "[Heavily](/zh/post/heavily/) armed" 意为装备精良或武器众多。
+- "[Heavily](/zh/post/heavily/) pregnant" 指怀孕晚期，接近分娩。
 
 ## 例句
-- 副词: "[The](/post/the/) [construction](/post/construction/) [site](/post/site/) was operating [heavily](/post/heavily/) [under](/post/under/) [the](/post/the/) [noisy](/post/noisy/) machinery."
-- 形容词: "[She](/post/she/) was carrying [a](/post/a/) [heavily](/post/heavily/) burdened backpack [on](/post/on/) [her](/post/her/) [trip](/post/trip/)."
+- 副词: "[The](/zh/post/the/) [construction](/zh/post/construction/) [site](/zh/post/site/) was operating [heavily](/zh/post/heavily/) [under](/zh/post/under/) [the](/zh/post/the/) [noisy](/zh/post/noisy/) machinery."
+- 形容词: "[She](/zh/post/she/) was carrying [a](/zh/post/a/) [heavily](/zh/post/heavily/) burdened backpack [on](/zh/post/on/) [her](/zh/post/her/) [trip](/zh/post/trip/)."
 
 ## 同义词
 - Intensely
-- [Seriously](/post/seriously/)
+- [Seriously](/zh/post/seriously/)
 - Profusely
 - Substantially
 - Considerably

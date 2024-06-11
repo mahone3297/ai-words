@@ -7,40 +7,40 @@ description = '[diˈsend] vi.下来，下降；下倾'
 keywords = ['ai words', 'descend']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈsend/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) descending, coming [down](/en/post/down/), [or](/en/post/or/) going [lower](/en/post/lower/) [in](/en/post/in/) [position](/en/post/position/) [or](/en/post/or/) [level](/en/post/level/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) hiker began [to](/en/post/to/) [descend](/en/post/descend/) [the](/en/post/the/) [steep](/en/post/steep/) [mountain](/en/post/mountain/) [trail](/en/post/trail/)."
-- [In](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [a](/en/post/a/) decline [or](/en/post/or/) [decrease](/en/post/decrease/) [in](/en/post/in/) [status](/en/post/status/) [or](/en/post/or/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's [stock](/en/post/stock/) [price](/en/post/price/) descended [sharply](/en/post/sharply/) [after](/en/post/after/) [poor](/en/post/poor/) earnings reports."
+### [Noun](/post/noun/)
+- [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) descending, coming [down](/post/down/), [or](/post/or/) going [lower](/post/lower/) [in](/post/in/) [position](/post/position/) [or](/post/or/) [level](/post/level/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) hiker began [to](/post/to/) [descend](/post/descend/) [the](/post/the/) [steep](/post/steep/) [mountain](/post/mountain/) [trail](/post/trail/)."
+- [In](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [a](/post/a/) decline [or](/post/or/) [decrease](/post/decrease/) [in](/post/in/) [status](/post/status/) [or](/post/or/) [quality](/post/quality/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's [stock](/post/stock/) [price](/post/price/) descended [sharply](/post/sharply/) [after](/post/after/) [poor](/post/poor/) earnings reports."
 
-### [Verb](/en/post/verb/)
-- [A](/en/post/a/) [verb](/en/post/verb/) denoting [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) going [down](/en/post/down/), coming [lower](/en/post/lower/), [or](/en/post/or/) dropping [from](/en/post/from/) [a](/en/post/a/) higher [position](/en/post/position/) [or](/en/post/or/) [level](/en/post/level/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [plane](/en/post/plane/) descended [smoothly](/en/post/smoothly/) [for](/en/post/for/) [its](/en/post/its/) [landing](/en/post/landing/)."
-- [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [pass](/en/post/pass/) [through](/en/post/through/) generations [or](/en/post/or/) [to](/en/post/to/) originate [from](/en/post/from/) [a](/en/post/a/) higher [position](/en/post/position/) [or](/en/post/or/) [rank](/en/post/rank/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [family](/en/post/family/) descends [from](/en/post/from/) French nobility."
+### [Verb](/post/verb/)
+- [A](/post/a/) [verb](/post/verb/) denoting [the](/post/the/) [action](/post/action/) [of](/post/of/) going [down](/post/down/), coming [lower](/post/lower/), [or](/post/or/) dropping [from](/post/from/) [a](/post/a/) higher [position](/post/position/) [or](/post/or/) [level](/post/level/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [plane](/post/plane/) descended [smoothly](/post/smoothly/) [for](/post/for/) [its](/post/its/) [landing](/post/landing/)."
+- [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) [pass](/post/pass/) [through](/post/through/) generations [or](/post/or/) [to](/post/to/) originate [from](/post/from/) [a](/post/a/) higher [position](/post/position/) [or](/post/or/) [rank](/post/rank/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [family](/post/family/) descends [from](/post/from/) French nobility."
 
-### [Adjective](/en/post/adjective/)
-- An [adjective](/en/post/adjective/) describing [something](/en/post/something/) [that](/en/post/that/) is descending [or](/en/post/or/) going downwards. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [rain](/en/post/rain/) descended [heavily](/en/post/heavily/) [on](/en/post/on/) [the](/en/post/the/) [city](/en/post/city/)."
+### [Adjective](/post/adjective/)
+- An [adjective](/post/adjective/) describing [something](/post/something/) [that](/post/that/) is descending [or](/post/or/) going downwards. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [rain](/post/rain/) descended [heavily](/post/heavily/) [on](/post/on/) [the](/post/the/) [city](/post/city/)."
 
-### [Adverb](/en/post/adverb/)
-- [Occasionally](/en/post/occasionally/), [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [meaning](/en/post/meaning/) [gradually](/en/post/gradually/) [or](/en/post/or/) [steadily](/en/post/steadily/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [temperature](/en/post/temperature/) descended [gradually](/en/post/gradually/) [throughout](/en/post/throughout/) [the](/en/post/the/) [day](/en/post/day/)."
+### [Adverb](/post/adverb/)
+- [Occasionally](/post/occasionally/), [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/) [meaning](/post/meaning/) [gradually](/post/gradually/) [or](/post/or/) [steadily](/post/steadily/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [temperature](/post/temperature/) descended [gradually](/post/gradually/) [throughout](/post/throughout/) [the](/post/the/) [day](/post/day/)."
 
 ## Phrases
-- "[Descend](/en/post/descend/) [a](/en/post/a/) [staircase](/en/post/staircase/)" [or](/en/post/or/) "[Descend](/en/post/descend/) [the](/en/post/the/) [ladder](/en/post/ladder/)" [describe](/en/post/describe/) [the](/en/post/the/) [physical](/en/post/physical/) [act](/en/post/act/) [of](/en/post/of/) going [down](/en/post/down/) steps.
-- "[Descend](/en/post/descend/) [into](/en/post/into/) chaos" implies [a](/en/post/a/) [situation](/en/post/situation/) getting [worse](/en/post/worse/).
-- "[Descend](/en/post/descend/) [from](/en/post/from/) [grace](/en/post/grace/)" refers [to](/en/post/to/) [a](/en/post/a/) [loss](/en/post/loss/) [of](/en/post/of/) [reputation](/en/post/reputation/) [or](/en/post/or/) favor.
+- "[Descend](/post/descend/) [a](/post/a/) [staircase](/post/staircase/)" [or](/post/or/) "[Descend](/post/descend/) [the](/post/the/) [ladder](/post/ladder/)" [describe](/post/describe/) [the](/post/the/) [physical](/post/physical/) [act](/post/act/) [of](/post/of/) going [down](/post/down/) steps.
+- "[Descend](/post/descend/) [into](/post/into/) chaos" implies [a](/post/a/) [situation](/post/situation/) getting [worse](/post/worse/).
+- "[Descend](/post/descend/) [from](/post/from/) [grace](/post/grace/)" refers [to](/post/to/) [a](/post/a/) [loss](/post/loss/) [of](/post/of/) [reputation](/post/reputation/) [or](/post/or/) favor.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) climber felt [a](/en/post/a/) [rush](/en/post/rush/) [of](/en/post/of/) [air](/en/post/air/) [as](/en/post/as/) [they](/en/post/they/) began [to](/en/post/to/) [descend](/en/post/descend/) [the](/en/post/the/) [valley](/en/post/valley/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) parachutist carefully descended [to](/en/post/to/) [the](/en/post/the/) [ground](/en/post/ground/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [fog](/en/post/fog/) descended [upon](/en/post/upon/) [the](/en/post/the/) [city](/en/post/city/), making visibility [poor](/en/post/poor/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [temperature](/en/post/temperature/) descended [slowly](/en/post/slowly/) [over](/en/post/over/) [the](/en/post/the/) [course](/en/post/course/) [of](/en/post/of/) [the](/en/post/the/) [night](/en/post/night/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) climber felt [a](/post/a/) [rush](/post/rush/) [of](/post/of/) [air](/post/air/) [as](/post/as/) [they](/post/they/) began [to](/post/to/) [descend](/post/descend/) [the](/post/the/) [valley](/post/valley/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) parachutist carefully descended [to](/post/to/) [the](/post/the/) [ground](/post/ground/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [fog](/post/fog/) descended [upon](/post/upon/) [the](/post/the/) [city](/post/city/), making visibility [poor](/post/poor/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [temperature](/post/temperature/) descended [slowly](/post/slowly/) [over](/post/over/) [the](/post/the/) [course](/post/course/) [of](/post/of/) [the](/post/the/) [night](/post/night/)."
 
 ## Synonyms
-- [Drop](/en/post/drop/)
-- [Fall](/en/post/fall/)
-- [Move](/en/post/move/) [downward](/en/post/downward/)
-- [Slip](/en/post/slip/)
-- [Climb](/en/post/climb/) [down](/en/post/down/)
+- [Drop](/post/drop/)
+- [Fall](/post/fall/)
+- [Move](/post/move/) [downward](/post/downward/)
+- [Slip](/post/slip/)
+- [Climb](/post/climb/) [down](/post/down/)
 - Abate
 - Decline

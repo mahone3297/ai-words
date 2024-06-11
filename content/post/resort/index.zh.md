@@ -11,20 +11,20 @@ keywords = ['ai words', 'resort']
 /rɪˈzɔːrt/
 
 ## 释义
-- **名词**: 一个常用于休闲、娱乐或疗养的地方，如度假胜地或温泉。例如: "[They](/post/they/) spent [their](/post/their/) [honeymoon](/post/honeymoon/) [at](/post/at/) [a](/post/a/) luxurious [beach](/post/beach/) [resort](/post/resort/)."
-- **动词**: 求助于；采取（作为最后手段）。例如: "[When](/post/when/) [all](/post/all/) [else](/post/else/) fails, [we](/post/we/) [will](/post/will/) [have](/post/have/) [to](/post/to/) [resort](/post/resort/) [to](/post/to/) [legal](/post/legal/) [action](/post/action/)."
+- **名词**: 一个常用于休闲、娱乐或疗养的地方，如度假胜地或温泉。例如: "[They](/zh/post/they/) spent [their](/zh/post/their/) [honeymoon](/zh/post/honeymoon/) [at](/zh/post/at/) [a](/zh/post/a/) luxurious [beach](/zh/post/beach/) [resort](/zh/post/resort/)."
+- **动词**: 求助于；采取（作为最后手段）。例如: "[When](/zh/post/when/) [all](/zh/post/all/) [else](/zh/post/else/) fails, [we](/zh/post/we/) [will](/zh/post/will/) [have](/zh/post/have/) [to](/zh/post/to/) [resort](/zh/post/resort/) [to](/zh/post/to/) [legal](/zh/post/legal/) [action](/zh/post/action/)."
 
 ## 短语
-- "[resort](/post/resort/) [to](/post/to/) [something](/post/something/)" 意味着采取某种方法或手段。例如: "[In](/post/in/) desperation, [they](/post/they/) resorted [to](/post/to/) borrowing [money](/post/money/)."
-- "[ski](/post/ski/) [resort](/post/resort/)" 是一个供滑雪和冬季运动的度假村。
+- "[resort](/zh/post/resort/) [to](/zh/post/to/) [something](/zh/post/something/)" 意味着采取某种方法或手段。例如: "[In](/zh/post/in/) desperation, [they](/zh/post/they/) resorted [to](/zh/post/to/) borrowing [money](/zh/post/money/)."
+- "[ski](/zh/post/ski/) [resort](/zh/post/resort/)" 是一个供滑雪和冬季运动的度假村。
 
 ## 例句
-- 名词: "[The](/post/the/) [family](/post/family/) is looking [forward](/post/forward/) [to](/post/to/) [their](/post/their/) [winter](/post/winter/) [vacation](/post/vacation/) [at](/post/at/) [the](/post/the/) [ski](/post/ski/) [resort](/post/resort/)."
-- 动词: "[With](/post/with/) [no](/post/no/) [other](/post/other/) options [left](/post/left/), [they](/post/they/) had [to](/post/to/) [resort](/post/resort/) [to](/post/to/) asking [for](/post/for/) [help](/post/help/)."
+- 名词: "[The](/zh/post/the/) [family](/zh/post/family/) is looking [forward](/zh/post/forward/) [to](/zh/post/to/) [their](/zh/post/their/) [winter](/zh/post/winter/) [vacation](/zh/post/vacation/) [at](/zh/post/at/) [the](/zh/post/the/) [ski](/zh/post/ski/) [resort](/zh/post/resort/)."
+- 动词: "[With](/zh/post/with/) [no](/zh/post/no/) [other](/zh/post/other/) options [left](/zh/post/left/), [they](/zh/post/they/) had [to](/zh/post/to/) [resort](/zh/post/resort/) [to](/zh/post/to/) asking [for](/zh/post/for/) [help](/zh/post/help/)."
 
 ## 同义词
-- [Seek](/post/seek/) [refuge](/post/refuge/) [in](/post/in/)
-- [Turn](/post/turn/) [to](/post/to/)
-- [Rely](/post/rely/) [on](/post/on/)
-- [Fall](/post/fall/) [back](/post/back/) [on](/post/on/)
-- [Have](/post/have/) recourse [to](/post/to/)
+- [Seek](/zh/post/seek/) [refuge](/zh/post/refuge/) [in](/zh/post/in/)
+- [Turn](/zh/post/turn/) [to](/zh/post/to/)
+- [Rely](/zh/post/rely/) [on](/zh/post/on/)
+- [Fall](/zh/post/fall/) [back](/zh/post/back/) [on](/zh/post/on/)
+- [Have](/zh/post/have/) recourse [to](/zh/post/to/)

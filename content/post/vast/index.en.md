@@ -7,31 +7,31 @@ description = '[vɑːst] a.巨大的；大量的'
 keywords = ['ai words', 'vast']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /væst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Vast](/en/post/vast/)** [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) refers [to](/en/post/to/) [something](/en/post/something/) [extremely](/en/post/extremely/) [large](/en/post/large/), [extensive](/en/post/extensive/), [or](/en/post/or/) [immense](/en/post/immense/) [in](/en/post/in/) [size](/en/post/size/), [scope](/en/post/scope/), [or](/en/post/or/) [extent](/en/post/extent/). 
-- [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) grandeur [or](/en/post/or/) magnificence.
+### [Noun](/post/noun/)
+- **[Vast](/post/vast/)** [as](/post/as/) [a](/post/a/) [noun](/post/noun/) refers [to](/post/to/) [something](/post/something/) [extremely](/post/extremely/) [large](/post/large/), [extensive](/post/extensive/), [or](/post/or/) [immense](/post/immense/) [in](/post/in/) [size](/post/size/), [scope](/post/scope/), [or](/post/or/) [extent](/post/extent/). 
+- [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) grandeur [or](/post/or/) magnificence.
 
-### [Adjective](/en/post/adjective/)
-- [As](/en/post/as/) an [adjective](/en/post/adjective/), [it](/en/post/it/) describes [something](/en/post/something/) [that](/en/post/that/) is [enormous](/en/post/enormous/), unbounded, [or](/en/post/or/) immeasurably [great](/en/post/great/).
+### [Adjective](/post/adjective/)
+- [As](/post/as/) an [adjective](/post/adjective/), [it](/post/it/) describes [something](/post/something/) [that](/post/that/) is [enormous](/post/enormous/), unbounded, [or](/post/or/) immeasurably [great](/post/great/).
 
 ## Phrases
-- "[A](/en/post/a/) [vast](/en/post/vast/) landscape" denotes [a](/en/post/a/) [large](/en/post/large/), expansive [scenery](/en/post/scenery/).
-- "[The](/en/post/the/) [vast](/en/post/vast/) [universe](/en/post/universe/)" implies [the](/en/post/the/) [infinite](/en/post/infinite/) expanse [of](/en/post/of/) [space](/en/post/space/).
-- "[Vast](/en/post/vast/) resources" signify an [abundant](/en/post/abundant/) [supply](/en/post/supply/).
+- "[A](/post/a/) [vast](/post/vast/) landscape" denotes [a](/post/a/) [large](/post/large/), expansive [scenery](/post/scenery/).
+- "[The](/post/the/) [vast](/post/vast/) [universe](/post/universe/)" implies [the](/post/the/) [infinite](/post/infinite/) expanse [of](/post/of/) [space](/post/space/).
+- "[Vast](/post/vast/) resources" signify an [abundant](/post/abundant/) [supply](/post/supply/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [library](/en/post/library/) housed [a](/en/post/a/) [vast](/en/post/vast/) [collection](/en/post/collection/) [of](/en/post/of/) books."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) ocean's depths are [a](/en/post/a/) [vast](/en/post/vast/) [and](/en/post/and/) [mysterious](/en/post/mysterious/) [world](/en/post/world/)."
-- "[The](/en/post/the/) [empire](/en/post/empire/) spanned [vast](/en/post/vast/) territories [across](/en/post/across/) [the](/en/post/the/) [continent](/en/post/continent/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [library](/post/library/) housed [a](/post/a/) [vast](/post/vast/) [collection](/post/collection/) [of](/post/of/) books."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) ocean's depths are [a](/post/a/) [vast](/post/vast/) [and](/post/and/) [mysterious](/post/mysterious/) [world](/post/world/)."
+- "[The](/post/the/) [empire](/post/empire/) spanned [vast](/post/vast/) territories [across](/post/across/) [the](/post/the/) [continent](/post/continent/)."
 
 ## Synonyms
-- [Huge](/en/post/huge/)
-- [Immense](/en/post/immense/)
-- [Enormous](/en/post/enormous/)
+- [Huge](/post/huge/)
+- [Immense](/post/immense/)
+- [Enormous](/post/enormous/)
 - Gigantic
 - Colossal
 - Vastness
@@ -40,9 +40,9 @@ keywords = ['ai words', 'vast']
 - limitless
 
 ## Antonyms
-- [Small](/en/post/small/)
-- [Tiny](/en/post/tiny/)
-- [Limited](/en/post/limited/)
+- [Small](/post/small/)
+- [Tiny](/post/tiny/)
+- [Limited](/post/limited/)
 - Insignificant
-- [Narrow](/en/post/narrow/)
+- [Narrow](/post/narrow/)
 - Constricted

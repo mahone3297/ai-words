@@ -7,45 +7,45 @@ description = '[riˈsiːvə] n.收受者，收件人'
 keywords = ['ai words', 'receiver']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈsi:vər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [device](/en/post/device/) [that](/en/post/that/) receives [or](/en/post/or/) acknowledges [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [signal](/en/post/signal/), [message](/en/post/message/), [or](/en/post/or/) [payment](/en/post/payment/): *[The](/en/post/the/) [radio](/en/post/radio/) [receiver](/en/post/receiver/) picked [up](/en/post/up/) [the](/en/post/the/) [station](/en/post/station/) [clearly](/en/post/clearly/).*
-2. [In](/en/post/in/) [a](/en/post/a/) [communication](/en/post/communication/) [system](/en/post/system/), [the](/en/post/the/) [part](/en/post/part/) [that](/en/post/that/) receives [and](/en/post/and/) decodes signals: *[The](/en/post/the/) [satellite](/en/post/satellite/) phone's [receiver](/en/post/receiver/) has [a](/en/post/a/) long-range capability.*
-3. [One](/en/post/one/) [who](/en/post/who/) receives an [award](/en/post/award/), [prize](/en/post/prize/), [or](/en/post/or/) [gift](/en/post/gift/): *[The](/en/post/the/) recipient [of](/en/post/of/) [the](/en/post/the/) Nobel [Prize](/en/post/prize/) [in](/en/post/in/) [Literature](/en/post/literature/) was announced [this](/en/post/this/) [morning](/en/post/morning/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [person](/post/person/) [or](/post/or/) [device](/post/device/) [that](/post/that/) receives [or](/post/or/) acknowledges [something](/post/something/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [signal](/post/signal/), [message](/post/message/), [or](/post/or/) [payment](/post/payment/): *[The](/post/the/) [radio](/post/radio/) [receiver](/post/receiver/) picked [up](/post/up/) [the](/post/the/) [station](/post/station/) [clearly](/post/clearly/).*
+2. [In](/post/in/) [a](/post/a/) [communication](/post/communication/) [system](/post/system/), [the](/post/the/) [part](/post/part/) [that](/post/that/) receives [and](/post/and/) decodes signals: *[The](/post/the/) [satellite](/post/satellite/) phone's [receiver](/post/receiver/) has [a](/post/a/) long-range capability.*
+3. [One](/post/one/) [who](/post/who/) receives an [award](/post/award/), [prize](/post/prize/), [or](/post/or/) [gift](/post/gift/): *[The](/post/the/) recipient [of](/post/of/) [the](/post/the/) Nobel [Prize](/post/prize/) [in](/post/in/) [Literature](/post/literature/) was announced [this](/post/this/) [morning](/post/morning/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [accept](/en/post/accept/) [or](/en/post/or/) [take](/en/post/take/) [something](/en/post/something/), typically [with](/en/post/with/) [gratitude](/en/post/gratitude/): *[She](/en/post/she/) received [the](/en/post/the/) flowers [with](/en/post/with/) [a](/en/post/a/) [smile](/en/post/smile/).*
-2. [To](/en/post/to/) [get](/en/post/get/) [or](/en/post/or/) [obtain](/en/post/obtain/) ([information](/en/post/information/), [money](/en/post/money/), etc.) [from](/en/post/from/) [a](/en/post/a/) [source](/en/post/source/): *[The](/en/post/the/) [company](/en/post/company/) is expecting [to](/en/post/to/) [receive](/en/post/receive/) [a](/en/post/a/) [significant](/en/post/significant/) [investment](/en/post/investment/) [soon](/en/post/soon/).*
-3. [To](/en/post/to/) [be](/en/post/be/) [on](/en/post/on/) [the](/en/post/the/) receiving [end](/en/post/end/) [of](/en/post/of/) [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [treatment](/en/post/treatment/) [or](/en/post/or/) [criticism](/en/post/criticism/): *[The](/en/post/the/) employees were [unhappy](/en/post/unhappy/) [with](/en/post/with/) [their](/en/post/their/) [new](/en/post/new/) manager, [who](/en/post/who/) was [often](/en/post/often/) [harsh](/en/post/harsh/) [in](/en/post/in/) [his](/en/post/his/) [feedback](/en/post/feedback/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [accept](/post/accept/) [or](/post/or/) [take](/post/take/) [something](/post/something/), typically [with](/post/with/) [gratitude](/post/gratitude/): *[She](/post/she/) received [the](/post/the/) flowers [with](/post/with/) [a](/post/a/) [smile](/post/smile/).*
+2. [To](/post/to/) [get](/post/get/) [or](/post/or/) [obtain](/post/obtain/) ([information](/post/information/), [money](/post/money/), etc.) [from](/post/from/) [a](/post/a/) [source](/post/source/): *[The](/post/the/) [company](/post/company/) is expecting [to](/post/to/) [receive](/post/receive/) [a](/post/a/) [significant](/post/significant/) [investment](/post/investment/) [soon](/post/soon/).*
+3. [To](/post/to/) [be](/post/be/) [on](/post/on/) [the](/post/the/) receiving [end](/post/end/) [of](/post/of/) [something](/post/something/), [such](/post/such/) [as](/post/as/) [treatment](/post/treatment/) [or](/post/or/) [criticism](/post/criticism/): *[The](/post/the/) employees were [unhappy](/post/unhappy/) [with](/post/with/) [their](/post/their/) [new](/post/new/) manager, [who](/post/who/) was [often](/post/often/) [harsh](/post/harsh/) [in](/post/in/) [his](/post/his/) [feedback](/post/feedback/).*
 
 ## Phrases
-- "[Receive](/en/post/receive/) [a](/en/post/a/) [message](/en/post/message/)" [means](/en/post/means/) [to](/en/post/to/) [get](/en/post/get/) [a](/en/post/a/) [communication](/en/post/communication/).
-- "[In](/en/post/in/) [the](/en/post/the/) receiving [line](/en/post/line/)" refers [to](/en/post/to/) [people](/en/post/people/) standing [to](/en/post/to/) [greet](/en/post/greet/) guests [at](/en/post/at/) an [event](/en/post/event/).
-- "[Open](/en/post/open/) [the](/en/post/the/) [receiver](/en/post/receiver/)" is an outdated [expression](/en/post/expression/) [for](/en/post/for/) answering [the](/en/post/the/) [telephone](/en/post/telephone/).
+- "[Receive](/post/receive/) [a](/post/a/) [message](/post/message/)" [means](/post/means/) [to](/post/to/) [get](/post/get/) [a](/post/a/) [communication](/post/communication/).
+- "[In](/post/in/) [the](/post/the/) receiving [line](/post/line/)" refers [to](/post/to/) [people](/post/people/) standing [to](/post/to/) [greet](/post/greet/) guests [at](/post/at/) an [event](/post/event/).
+- "[Open](/post/open/) [the](/post/the/) [receiver](/post/receiver/)" is an outdated [expression](/post/expression/) [for](/post/for/) answering [the](/post/the/) [telephone](/post/telephone/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [employee](/en/post/employee/) [set](/en/post/set/) [up](/en/post/up/) [their](/en/post/their/) [computer](/en/post/computer/) [and](/en/post/and/) started [to](/en/post/to/) configure [the](/en/post/the/) [network](/en/post/network/) [receiver](/en/post/receiver/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [package](/en/post/package/) was delivered [to](/en/post/to/) [the](/en/post/the/) [wrong](/en/post/wrong/) [address](/en/post/address/), [so](/en/post/so/) [the](/en/post/the/) sender had [to](/en/post/to/) [receive](/en/post/receive/) [it](/en/post/it/) [again](/en/post/again/)."
-- **Verbal [Usage](/en/post/usage/)**: "[She](/en/post/she/) gracefully received [the](/en/post/the/) applause [after](/en/post/after/) [her](/en/post/her/) [performance](/en/post/performance/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [employee](/post/employee/) [set](/post/set/) [up](/post/up/) [their](/post/their/) [computer](/post/computer/) [and](/post/and/) started [to](/post/to/) configure [the](/post/the/) [network](/post/network/) [receiver](/post/receiver/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [package](/post/package/) was delivered [to](/post/to/) [the](/post/the/) [wrong](/post/wrong/) [address](/post/address/), [so](/post/so/) [the](/post/the/) sender had [to](/post/to/) [receive](/post/receive/) [it](/post/it/) [again](/post/again/)."
+- **Verbal [Usage](/post/usage/)**: "[She](/post/she/) gracefully received [the](/post/the/) applause [after](/post/after/) [her](/post/her/) [performance](/post/performance/)."
 
 ## Synonyms
-- [Accept](/en/post/accept/)
-- [Gain](/en/post/gain/)
-- [Acquire](/en/post/acquire/)
-- [Entertain](/en/post/entertain/)
-- [Collect](/en/post/collect/)
-- [Receive](/en/post/receive/) ([verb](/en/post/verb/) [in](/en/post/in/) [general](/en/post/general/) [sense](/en/post/sense/))
+- [Accept](/post/accept/)
+- [Gain](/post/gain/)
+- [Acquire](/post/acquire/)
+- [Entertain](/post/entertain/)
+- [Collect](/post/collect/)
+- [Receive](/post/receive/) ([verb](/post/verb/) [in](/post/in/) [general](/post/general/) [sense](/post/sense/))
 - Recipient
-- [Gather](/en/post/gather/)
-- [Claim](/en/post/claim/)
+- [Gather](/post/gather/)
+- [Claim](/post/claim/)
 
 ## Antonyms
-- [Send](/en/post/send/)
-- [Give](/en/post/give/)
-- [Transmit](/en/post/transmit/)
-- [Offer](/en/post/offer/)
+- [Send](/post/send/)
+- [Give](/post/give/)
+- [Transmit](/post/transmit/)
+- [Offer](/post/offer/)
 - Decline
-- [Reject](/en/post/reject/)
+- [Reject](/post/reject/)

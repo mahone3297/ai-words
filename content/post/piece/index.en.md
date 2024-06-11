@@ -7,32 +7,32 @@ description = '[piːs] n.碎片，块 vt.拼合'
 keywords = ['ai words', 'piece']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /piːs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - 1. [A](/en/post/a/) [part](/en/post/part/) [or](/en/post/or/) segment [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) [physical](/en/post/physical/) [object](/en/post/object/) [or](/en/post/or/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [puzzle](/en/post/puzzle/) was [missing](/en/post/missing/) [a](/en/post/a/) crucial [piece](/en/post/piece/)."
-  - 2. [A](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [or](/en/post/or/) [portion](/en/post/portion/), [especially](/en/post/especially/) [of](/en/post/of/) [food](/en/post/food/) [or](/en/post/or/) [a](/en/post/a/) [game](/en/post/game/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) saved [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [cake](/en/post/cake/) [for](/en/post/for/) dessert."
-  - 3. [A](/en/post/a/) [literary](/en/post/literary/) [or](/en/post/or/) [artistic](/en/post/artistic/) creation. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) wrote [a](/en/post/a/) moving [piece](/en/post/piece/) [about](/en/post/about/) [his](/en/post/his/) experiences."
+- **[Noun](/post/noun/)**: 
+  - 1. [A](/post/a/) [part](/post/part/) [or](/post/or/) segment [of](/post/of/) [something](/post/something/), [often](/post/often/) referring [to](/post/to/) [a](/post/a/) [physical](/post/physical/) [object](/post/object/) [or](/post/or/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [information](/post/information/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [puzzle](/post/puzzle/) was [missing](/post/missing/) [a](/post/a/) crucial [piece](/post/piece/)."
+  - 2. [A](/post/a/) [small](/post/small/) [amount](/post/amount/) [or](/post/or/) [portion](/post/portion/), [especially](/post/especially/) [of](/post/of/) [food](/post/food/) [or](/post/or/) [a](/post/a/) [game](/post/game/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) saved [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [cake](/post/cake/) [for](/post/for/) dessert."
+  - 3. [A](/post/a/) [literary](/post/literary/) [or](/post/or/) [artistic](/post/artistic/) creation. [For](/post/for/) [example](/post/example/): "[He](/post/he/) wrote [a](/post/a/) moving [piece](/post/piece/) [about](/post/about/) [his](/post/his/) experiences."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cut](/en/post/cut/), [break](/en/post/break/), [or](/en/post/or/) [separate](/en/post/separate/) [into](/en/post/into/) smaller parts; [to](/en/post/to/) [deal](/en/post/deal/) [out](/en/post/out/) [in](/en/post/in/) pieces. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) carefully [cut](/en/post/cut/) [the](/en/post/the/) [bread](/en/post/bread/) [into](/en/post/into/) pieces."
-- **[Noun](/en/post/noun/) ([plural](/en/post/plural/)):** Pieces, referring [to](/en/post/to/) [individual](/en/post/individual/) parts [or](/en/post/or/) units [of](/en/post/of/) [a](/en/post/a/) [whole](/en/post/whole/). [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) [student](/en/post/student/) was given [several](/en/post/several/) [puzzle](/en/post/puzzle/) pieces [to](/en/post/to/) [complete](/en/post/complete/) [the](/en/post/the/) [picture](/en/post/picture/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [cut](/post/cut/), [break](/post/break/), [or](/post/or/) [separate](/post/separate/) [into](/post/into/) smaller parts; [to](/post/to/) [deal](/post/deal/) [out](/post/out/) [in](/post/in/) pieces. [For](/post/for/) [example](/post/example/): "[She](/post/she/) carefully [cut](/post/cut/) [the](/post/the/) [bread](/post/bread/) [into](/post/into/) pieces."
+- **[Noun](/post/noun/) ([plural](/post/plural/)):** Pieces, referring [to](/post/to/) [individual](/post/individual/) parts [or](/post/or/) units [of](/post/of/) [a](/post/a/) [whole](/post/whole/). [For](/post/for/) [example](/post/example/): "[Each](/post/each/) [student](/post/student/) was given [several](/post/several/) [puzzle](/post/puzzle/) pieces [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [picture](/post/picture/)."
 
 ## Phrases
-- "[A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [advice](/en/post/advice/)" [means](/en/post/means/) [a](/en/post/a/) [suggestion](/en/post/suggestion/) [or](/en/post/or/) [recommendation](/en/post/recommendation/).
-- "[A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) artwork" denotes [a](/en/post/a/) [work](/en/post/work/) [of](/en/post/of/) [visual](/en/post/visual/) [art](/en/post/art/).
-- "[Piece](/en/post/piece/) [together](/en/post/together/)" refers [to](/en/post/to/) putting [together](/en/post/together/) [separate](/en/post/separate/) parts [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [whole](/en/post/whole/).
+- "[A](/post/a/) [piece](/post/piece/) [of](/post/of/) [advice](/post/advice/)" [means](/post/means/) [a](/post/a/) [suggestion](/post/suggestion/) [or](/post/or/) [recommendation](/post/recommendation/).
+- "[A](/post/a/) [piece](/post/piece/) [of](/post/of/) artwork" denotes [a](/post/a/) [work](/post/work/) [of](/post/of/) [visual](/post/visual/) [art](/post/art/).
+- "[Piece](/post/piece/) [together](/post/together/)" refers [to](/post/to/) putting [together](/post/together/) [separate](/post/separate/) parts [to](/post/to/) [form](/post/form/) [a](/post/a/) [whole](/post/whole/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [book](/en/post/book/) is divided [into](/en/post/into/) [three](/en/post/three/) [main](/en/post/main/) pieces: an [introduction](/en/post/introduction/), [body](/en/post/body/), [and](/en/post/and/) [conclusion](/en/post/conclusion/)."
-- **[Verb](/en/post/verb/)**: "I'm [saving](/en/post/saving/) [some](/en/post/some/) [money](/en/post/money/) [to](/en/post/to/) [buy](/en/post/buy/) [a](/en/post/a/) [new](/en/post/new/) [piece](/en/post/piece/) [of](/en/post/of/) [furniture](/en/post/furniture/) [for](/en/post/for/) [my](/en/post/my/) [room](/en/post/room/)."
-- **[Noun](/en/post/noun/) ([plural](/en/post/plural/))**: "[He](/en/post/he/) collected [puzzle](/en/post/puzzle/) pieces [from](/en/post/from/) [various](/en/post/various/) sources [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) intricate [design](/en/post/design/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [book](/post/book/) is divided [into](/post/into/) [three](/post/three/) [main](/post/main/) pieces: an [introduction](/post/introduction/), [body](/post/body/), [and](/post/and/) [conclusion](/post/conclusion/)."
+- **[Verb](/post/verb/)**: "I'm [saving](/post/saving/) [some](/post/some/) [money](/post/money/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) [piece](/post/piece/) [of](/post/of/) [furniture](/post/furniture/) [for](/post/for/) [my](/post/my/) [room](/post/room/)."
+- **[Noun](/post/noun/) ([plural](/post/plural/))**: "[He](/post/he/) collected [puzzle](/post/puzzle/) pieces [from](/post/from/) [various](/post/various/) sources [to](/post/to/) [finish](/post/finish/) [the](/post/the/) intricate [design](/post/design/)."
 
 ## Synonyms
 - Segment
 - Chunk
-- [Part](/en/post/part/)
-- [Component](/en/post/component/)
-- [Fragment](/en/post/fragment/)
+- [Part](/post/part/)
+- [Component](/post/component/)
+- [Fragment](/post/fragment/)
 - Piecework

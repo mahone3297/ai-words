@@ -7,28 +7,28 @@ description = '[bɔm] n.炸弹 vt.轰炸'
 keywords = ['ai words', 'bomb']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɒm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. An [explosive](/en/post/explosive/) [device](/en/post/device/) designed [to](/en/post/to/) [cause](/en/post/cause/) [significant](/en/post/significant/) [damage](/en/post/damage/) [or](/en/post/or/) [destruction](/en/post/destruction/) [when](/en/post/when/) detonated. 2. (informal) [A](/en/post/a/) [sudden](/en/post/sudden/), [intense](/en/post/intense/) [burst](/en/post/burst/) [or](/en/post/or/) [release](/en/post/release/) [of](/en/post/of/) [energy](/en/post/energy/) [or](/en/post/or/) [emotion](/en/post/emotion/). 3. (figurative) [A](/en/post/a/) shocking [or](/en/post/or/) [dramatic](/en/post/dramatic/) [event](/en/post/event/) [or](/en/post/or/) revelation. 4. (slang) [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [very](/en/post/very/) [attractive](/en/post/attractive/) [or](/en/post/or/) [popular](/en/post/popular/).
+- **[Noun](/post/noun/)**: 1. An [explosive](/post/explosive/) [device](/post/device/) designed [to](/post/to/) [cause](/post/cause/) [significant](/post/significant/) [damage](/post/damage/) [or](/post/or/) [destruction](/post/destruction/) [when](/post/when/) detonated. 2. (informal) [A](/post/a/) [sudden](/post/sudden/), [intense](/post/intense/) [burst](/post/burst/) [or](/post/or/) [release](/post/release/) [of](/post/of/) [energy](/post/energy/) [or](/post/or/) [emotion](/post/emotion/). 3. (figurative) [A](/post/a/) shocking [or](/post/or/) [dramatic](/post/dramatic/) [event](/post/event/) [or](/post/or/) revelation. 4. (slang) [A](/post/a/) [person](/post/person/) [who](/post/who/) is [very](/post/very/) [attractive](/post/attractive/) [or](/post/or/) [popular](/post/popular/).
 
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [set](/en/post/set/) [off](/en/post/off/) [or](/en/post/or/) [drop](/en/post/drop/) an [explosive](/en/post/explosive/) [device](/en/post/device/), causing an [explosion](/en/post/explosion/). 2. (informal) [To](/en/post/to/) overwhelm [or](/en/post/or/) [impress](/en/post/impress/) [someone](/en/post/someone/) [suddenly](/en/post/suddenly/) [or](/en/post/or/) unexpectedly. 3. (figurative) [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [sudden](/en/post/sudden/), forceful [impact](/en/post/impact/) [or](/en/post/or/) [statement](/en/post/statement/).
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [set](/post/set/) [off](/post/off/) [or](/post/or/) [drop](/post/drop/) an [explosive](/post/explosive/) [device](/post/device/), causing an [explosion](/post/explosion/). 2. (informal) [To](/post/to/) overwhelm [or](/post/or/) [impress](/post/impress/) [someone](/post/someone/) [suddenly](/post/suddenly/) [or](/post/or/) unexpectedly. 3. (figurative) [To](/post/to/) [make](/post/make/) [a](/post/a/) [sudden](/post/sudden/), forceful [impact](/post/impact/) [or](/post/or/) [statement](/post/statement/).
 
 ## Phrases
-- "Detonate [a](/en/post/a/) [bomb](/en/post/bomb/)" [or](/en/post/or/) "[set](/en/post/set/) [off](/en/post/off/) [a](/en/post/a/) [bomb](/en/post/bomb/)"
-- "[Experience](/en/post/experience/) [a](/en/post/a/) bombshell" ([a](/en/post/a/) [surprising](/en/post/surprising/) revelation)
-- "[Be](/en/post/be/) [the](/en/post/the/) [bomb](/en/post/bomb/)" (informal; [to](/en/post/to/) [be](/en/post/be/) [extremely](/en/post/extremely/) [good](/en/post/good/) [or](/en/post/or/) [attractive](/en/post/attractive/))
+- "Detonate [a](/post/a/) [bomb](/post/bomb/)" [or](/post/or/) "[set](/post/set/) [off](/post/off/) [a](/post/a/) [bomb](/post/bomb/)"
+- "[Experience](/post/experience/) [a](/post/a/) bombshell" ([a](/post/a/) [surprising](/post/surprising/) revelation)
+- "[Be](/post/be/) [the](/post/the/) [bomb](/post/bomb/)" (informal; [to](/post/to/) [be](/post/be/) [extremely](/post/extremely/) [good](/post/good/) [or](/post/or/) [attractive](/post/attractive/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [city](/en/post/city/) was shaken [by](/en/post/by/) [a](/en/post/a/) [bomb](/en/post/bomb/) [blast](/en/post/blast/) [near](/en/post/near/) [the](/en/post/the/) [market](/en/post/market/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [police](/en/post/police/) managed [to](/en/post/to/) defuse [the](/en/post/the/) [bomb](/en/post/bomb/) [before](/en/post/before/) [it](/en/post/it/) exploded."
-- **Informal**: "[Her](/en/post/her/) [new](/en/post/new/) [song](/en/post/song/) dropped [like](/en/post/like/) [a](/en/post/a/) [bomb](/en/post/bomb/) [on](/en/post/on/) [the](/en/post/the/) [music](/en/post/music/) charts."
-- **Figurative**: "[His](/en/post/his/) [unexpected](/en/post/unexpected/) [proposal](/en/post/proposal/) was [a](/en/post/a/) bombshell [that](/en/post/that/) [left](/en/post/left/) [everyone](/en/post/everyone/) stunned."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [city](/post/city/) was shaken [by](/post/by/) [a](/post/a/) [bomb](/post/bomb/) [blast](/post/blast/) [near](/post/near/) [the](/post/the/) [market](/post/market/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [police](/post/police/) managed [to](/post/to/) defuse [the](/post/the/) [bomb](/post/bomb/) [before](/post/before/) [it](/post/it/) exploded."
+- **Informal**: "[Her](/post/her/) [new](/post/new/) [song](/post/song/) dropped [like](/post/like/) [a](/post/a/) [bomb](/post/bomb/) [on](/post/on/) [the](/post/the/) [music](/post/music/) charts."
+- **Figurative**: "[His](/post/his/) [unexpected](/post/unexpected/) [proposal](/post/proposal/) was [a](/post/a/) bombshell [that](/post/that/) [left](/post/left/) [everyone](/post/everyone/) stunned."
 
 ## Synonyms
-- [Blast](/en/post/blast/)
-- [Explosion](/en/post/explosion/)
+- [Blast](/post/blast/)
+- [Explosion](/post/explosion/)
 - Boom
 - Catastrophe
 - Upheaval

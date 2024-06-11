@@ -7,30 +7,30 @@ description = '[igˌzæmiˈnei∫ən] n.考试；检/细查'
 keywords = ['ai words', 'examination']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪɡˌzæmɪˈneɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [official](/en/post/official/) [or](/en/post/or/) [formal](/en/post/formal/) [test](/en/post/test/) [of](/en/post/of/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) [skill](/en/post/skill/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/), [especially](/en/post/especially/) [one](/en/post/one/) taken [by](/en/post/by/) students [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) [course](/en/post/course/) [of](/en/post/of/) [study](/en/post/study/) [or](/en/post/or/) [period](/en/post/period/) [of](/en/post/of/) [learning](/en/post/learning/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) passed [her](/en/post/her/) [mathematics](/en/post/mathematics/) [examination](/en/post/examination/) [with](/en/post/with/) flying colors."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) testing [or](/en/post/or/) inspecting [something](/en/post/something/) [closely](/en/post/closely/) [and](/en/post/and/) critically [to](/en/post/to/) [discover](/en/post/discover/) [or](/en/post/or/) [assess](/en/post/assess/) [its](/en/post/its/) [quality](/en/post/quality/), [condition](/en/post/condition/), [or](/en/post/or/) [nature](/en/post/nature/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [doctor](/en/post/doctor/) performed [a](/en/post/a/) [thorough](/en/post/thorough/) [examination](/en/post/examination/) [of](/en/post/of/) [the](/en/post/the/) [patient](/en/post/patient/)."
-- **[Verb](/en/post/verb/)**: ([examine](/en/post/examine/)) [To](/en/post/to/) [look](/en/post/look/) [at](/en/post/at/) [or](/en/post/or/) [investigate](/en/post/investigate/) [something](/en/post/something/) [closely](/en/post/closely/) [and](/en/post/and/) carefully [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [learn](/en/post/learn/) [more](/en/post/more/) [about](/en/post/about/) [it](/en/post/it/) [or](/en/post/or/) [to](/en/post/to/) [judge](/en/post/judge/) [its](/en/post/its/) [quality](/en/post/quality/), [condition](/en/post/condition/), [or](/en/post/or/) [truth](/en/post/truth/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) detective examined [the](/en/post/the/) [evidence](/en/post/evidence/) meticulously."
+- **[Noun](/post/noun/)**: An [official](/post/official/) [or](/post/or/) [formal](/post/formal/) [test](/post/test/) [of](/post/of/) [knowledge](/post/knowledge/) [or](/post/or/) [skill](/post/skill/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/), [especially](/post/especially/) [one](/post/one/) taken [by](/post/by/) students [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [a](/post/a/) [course](/post/course/) [of](/post/of/) [study](/post/study/) [or](/post/or/) [period](/post/period/) [of](/post/of/) [learning](/post/learning/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) passed [her](/post/her/) [mathematics](/post/mathematics/) [examination](/post/examination/) [with](/post/with/) flying colors."
+- **[Noun](/post/noun/)**: [The](/post/the/) [process](/post/process/) [of](/post/of/) testing [or](/post/or/) inspecting [something](/post/something/) [closely](/post/closely/) [and](/post/and/) critically [to](/post/to/) [discover](/post/discover/) [or](/post/or/) [assess](/post/assess/) [its](/post/its/) [quality](/post/quality/), [condition](/post/condition/), [or](/post/or/) [nature](/post/nature/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [doctor](/post/doctor/) performed [a](/post/a/) [thorough](/post/thorough/) [examination](/post/examination/) [of](/post/of/) [the](/post/the/) [patient](/post/patient/)."
+- **[Verb](/post/verb/)**: ([examine](/post/examine/)) [To](/post/to/) [look](/post/look/) [at](/post/at/) [or](/post/or/) [investigate](/post/investigate/) [something](/post/something/) [closely](/post/closely/) [and](/post/and/) carefully [in](/post/in/) [order](/post/order/) [to](/post/to/) [learn](/post/learn/) [more](/post/more/) [about](/post/about/) [it](/post/it/) [or](/post/or/) [to](/post/to/) [judge](/post/judge/) [its](/post/its/) [quality](/post/quality/), [condition](/post/condition/), [or](/post/or/) [truth](/post/truth/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) detective examined [the](/post/the/) [evidence](/post/evidence/) meticulously."
 
 ## Phrases
-- "[Take](/en/post/take/) an [examination](/en/post/examination/)": [To](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) [test](/en/post/test/) [or](/en/post/or/) assessment.
-- "[Pass](/en/post/pass/)/[fail](/en/post/fail/) an [examination](/en/post/examination/)": [To](/en/post/to/) [succeed](/en/post/succeed/) [or](/en/post/or/) [not](/en/post/not/) [succeed](/en/post/succeed/) [in](/en/post/in/) [meeting](/en/post/meeting/) [the](/en/post/the/) required [standard](/en/post/standard/) [in](/en/post/in/) [a](/en/post/a/) [test](/en/post/test/).
-- "[Undergo](/en/post/undergo/) [a](/en/post/a/) [medical](/en/post/medical/) [examination](/en/post/examination/)": [To](/en/post/to/) [be](/en/post/be/) checked [over](/en/post/over/) [by](/en/post/by/) [a](/en/post/a/) [medical](/en/post/medical/) [professional](/en/post/professional/) [for](/en/post/for/) [health](/en/post/health/) evaluation.
+- "[Take](/post/take/) an [examination](/post/examination/)": [To](/post/to/) [participate](/post/participate/) [in](/post/in/) [a](/post/a/) [formal](/post/formal/) [test](/post/test/) [or](/post/or/) assessment.
+- "[Pass](/post/pass/)/[fail](/post/fail/) an [examination](/post/examination/)": [To](/post/to/) [succeed](/post/succeed/) [or](/post/or/) [not](/post/not/) [succeed](/post/succeed/) [in](/post/in/) [meeting](/post/meeting/) [the](/post/the/) required [standard](/post/standard/) [in](/post/in/) [a](/post/a/) [test](/post/test/).
+- "[Undergo](/post/undergo/) [a](/post/a/) [medical](/post/medical/) [examination](/post/examination/)": [To](/post/to/) [be](/post/be/) checked [over](/post/over/) [by](/post/by/) [a](/post/a/) [medical](/post/medical/) [professional](/post/professional/) [for](/post/for/) [health](/post/health/) evaluation.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Students [must](/en/post/must/) [prepare](/en/post/prepare/) thoroughly [for](/en/post/for/) [their](/en/post/their/) [final](/en/post/final/) examinations."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [lawyer](/en/post/lawyer/) examined [the](/en/post/the/) [contract](/en/post/contract/) clause [by](/en/post/by/) clause [before](/en/post/before/) signing [it](/en/post/it/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Students [must](/post/must/) [prepare](/post/prepare/) thoroughly [for](/post/for/) [their](/post/their/) [final](/post/final/) examinations."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [lawyer](/post/lawyer/) examined [the](/post/the/) [contract](/post/contract/) clause [by](/post/by/) clause [before](/post/before/) signing [it](/post/it/)."
 
 ## Synonyms
-- [Test](/en/post/test/)
-- [Exam](/en/post/exam/)
+- [Test](/post/test/)
+- [Exam](/post/exam/)
 - Assessment
 - Evaluation
-- [Inspection](/en/post/inspection/)
-- [Review](/en/post/review/)
-- Check-up ([in](/en/post/in/) [a](/en/post/a/) [medical](/en/post/medical/) context)
-- Scrutiny ([for](/en/post/for/) [critical](/en/post/critical/) [inspection](/en/post/inspection/))
-- [Analysis](/en/post/analysis/) ([for](/en/post/for/) detailed [investigation](/en/post/investigation/))
+- [Inspection](/post/inspection/)
+- [Review](/post/review/)
+- Check-up ([in](/post/in/) [a](/post/a/) [medical](/post/medical/) context)
+- Scrutiny ([for](/post/for/) [critical](/post/critical/) [inspection](/post/inspection/))
+- [Analysis](/post/analysis/) ([for](/post/for/) detailed [investigation](/post/investigation/))

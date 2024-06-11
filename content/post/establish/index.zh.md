@@ -12,24 +12,24 @@ keywords = ['ai words', 'establish']
 
 ## 释义
 - **动词**:
-1. 创建或建立。例如: "[They](/post/they/) established [a](/post/a/) [new](/post/new/) [company](/post/company/) [in](/post/in/) [the](/post/the/) [city](/post/city/)."
-2. 确立或确立事实。例如: "[The](/post/the/) [experiment](/post/experiment/) helped [establish](/post/establish/) [the](/post/the/) [theory](/post/theory/)."
-3. 建立关系或联系。例如: "[She](/post/she/) has established [herself](/post/herself/) [as](/post/as/) [a](/post/a/) respected [artist](/post/artist/) [in](/post/in/) [the](/post/the/) [community](/post/community/)."
-4. 使定居或安顿。例如: "[The](/post/the/) immigrants were helped [to](/post/to/) [establish](/post/establish/) [themselves](/post/themselves/) [in](/post/in/) [their](/post/their/) [new](/post/new/) homes."
+1. 创建或建立。例如: "[They](/zh/post/they/) established [a](/zh/post/a/) [new](/zh/post/new/) [company](/zh/post/company/) [in](/zh/post/in/) [the](/zh/post/the/) [city](/zh/post/city/)."
+2. 确立或确立事实。例如: "[The](/zh/post/the/) [experiment](/zh/post/experiment/) helped [establish](/zh/post/establish/) [the](/zh/post/the/) [theory](/zh/post/theory/)."
+3. 建立关系或联系。例如: "[She](/zh/post/she/) has established [herself](/zh/post/herself/) [as](/zh/post/as/) [a](/zh/post/a/) respected [artist](/zh/post/artist/) [in](/zh/post/in/) [the](/zh/post/the/) [community](/zh/post/community/)."
+4. 使定居或安顿。例如: "[The](/zh/post/the/) immigrants were helped [to](/zh/post/to/) [establish](/zh/post/establish/) [themselves](/zh/post/themselves/) [in](/zh/post/in/) [their](/zh/post/their/) [new](/zh/post/new/) homes."
 
 ## 短语
-- "[establish](/post/establish/) [a](/post/a/) [business](/post/business/)" 开设一家企业
-- "[establish](/post/establish/) [communication](/post/communication/)" 建立通讯联系
-- "[establish](/post/establish/) [a](/post/a/) [routine](/post/routine/)" 建立日常习惯
+- "[establish](/zh/post/establish/) [a](/zh/post/a/) [business](/zh/post/business/)" 开设一家企业
+- "[establish](/zh/post/establish/) [communication](/zh/post/communication/)" 建立通讯联系
+- "[establish](/zh/post/establish/) [a](/zh/post/a/) [routine](/zh/post/routine/)" 建立日常习惯
 
 ## 例句
-- [They](/post/they/) [successfully](/post/successfully/) established [a](/post/a/) non-profit [organization](/post/organization/) [to](/post/to/) [help](/post/help/) underprivileged children.
-- [The](/post/the/) [research](/post/research/) findings [establish](/post/establish/) [beyond](/post/beyond/) [doubt](/post/doubt/) [that](/post/that/) [exercise](/post/exercise/) improves [mental](/post/mental/) [health](/post/health/).
-- [He](/post/he/) has established [himself](/post/himself/) [as](/post/as/) [one](/post/one/) [of](/post/of/) [the](/post/the/) [leading](/post/leading/) experts [in](/post/in/) [his](/post/his/) [field](/post/field/).
+- [They](/zh/post/they/) [successfully](/zh/post/successfully/) established [a](/zh/post/a/) non-profit [organization](/zh/post/organization/) [to](/zh/post/to/) [help](/zh/post/help/) underprivileged children.
+- [The](/zh/post/the/) [research](/zh/post/research/) findings [establish](/zh/post/establish/) [beyond](/zh/post/beyond/) [doubt](/zh/post/doubt/) [that](/zh/post/that/) [exercise](/zh/post/exercise/) improves [mental](/zh/post/mental/) [health](/zh/post/health/).
+- [He](/zh/post/he/) has established [himself](/zh/post/himself/) [as](/zh/post/as/) [one](/zh/post/one/) [of](/zh/post/of/) [the](/zh/post/the/) [leading](/zh/post/leading/) experts [in](/zh/post/in/) [his](/zh/post/his/) [field](/zh/post/field/).
 
 ## 同义词
-- [found](/post/found/)
-- [set](/post/set/) [up](/post/up/)
-- [create](/post/create/)
+- [found](/zh/post/found/)
+- [set](/zh/post/set/) [up](/zh/post/up/)
+- [create](/zh/post/create/)
 - initiate
-- [institute](/post/institute/)
+- [institute](/zh/post/institute/)

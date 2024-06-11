@@ -7,32 +7,32 @@ description = '[inˈvestmənt] n.投资(额)，投入'
 keywords = ['ai words', 'investment']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈvestmənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [action](/en/post/action/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) investing [money](/en/post/money/) [for](/en/post/for/) [profit](/en/post/profit/) [or](/en/post/or/) [material](/en/post/material/) [result](/en/post/result/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) made [a](/en/post/a/) [substantial](/en/post/substantial/) [investment](/en/post/investment/) [in](/en/post/in/) [the](/en/post/the/) startup [company](/en/post/company/)."
-- **[Noun](/en/post/noun/)**: [Something](/en/post/something/) [that](/en/post/that/) is invested, [especially](/en/post/especially/) [money](/en/post/money/) [put](/en/post/put/) [into](/en/post/into/) [financial](/en/post/financial/) schemes, [property](/en/post/property/), [or](/en/post/or/) [a](/en/post/a/) [commercial](/en/post/commercial/) [venture](/en/post/venture/) [with](/en/post/with/) [the](/en/post/the/) [expectation](/en/post/expectation/) [of](/en/post/of/) achieving [a](/en/post/a/) [profit](/en/post/profit/). [For](/en/post/for/) [instance](/en/post/instance/): "[Real](/en/post/real/) estate [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [good](/en/post/good/) long-term [investment](/en/post/investment/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [thing](/en/post/thing/) [that](/en/post/that/) is acquired [or](/en/post/or/) purchased [for](/en/post/for/) [future](/en/post/future/) benefits [or](/en/post/or/) advantages; expenditure [of](/en/post/of/) resources [with](/en/post/with/) [the](/en/post/the/) [goal](/en/post/goal/) [of](/en/post/of/) securing [future](/en/post/future/) benefits. [Example](/en/post/example/): "[Education](/en/post/education/) is [often](/en/post/often/) considered [as](/en/post/as/) an [investment](/en/post/investment/) [in](/en/post/in/) one's [future](/en/post/future/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [action](/post/action/) [or](/post/or/) [process](/post/process/) [of](/post/of/) investing [money](/post/money/) [for](/post/for/) [profit](/post/profit/) [or](/post/or/) [material](/post/material/) [result](/post/result/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) made [a](/post/a/) [substantial](/post/substantial/) [investment](/post/investment/) [in](/post/in/) [the](/post/the/) startup [company](/post/company/)."
+- **[Noun](/post/noun/)**: [Something](/post/something/) [that](/post/that/) is invested, [especially](/post/especially/) [money](/post/money/) [put](/post/put/) [into](/post/into/) [financial](/post/financial/) schemes, [property](/post/property/), [or](/post/or/) [a](/post/a/) [commercial](/post/commercial/) [venture](/post/venture/) [with](/post/with/) [the](/post/the/) [expectation](/post/expectation/) [of](/post/of/) achieving [a](/post/a/) [profit](/post/profit/). [For](/post/for/) [instance](/post/instance/): "[Real](/post/real/) estate [can](/post/can/) [be](/post/be/) [a](/post/a/) [good](/post/good/) long-term [investment](/post/investment/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [thing](/post/thing/) [that](/post/that/) is acquired [or](/post/or/) purchased [for](/post/for/) [future](/post/future/) benefits [or](/post/or/) advantages; expenditure [of](/post/of/) resources [with](/post/with/) [the](/post/the/) [goal](/post/goal/) [of](/post/of/) securing [future](/post/future/) benefits. [Example](/post/example/): "[Education](/post/education/) is [often](/post/often/) considered [as](/post/as/) an [investment](/post/investment/) [in](/post/in/) one's [future](/post/future/)."
 
 ## Phrases
-- "[Investment](/en/post/investment/) portfolio" refers [to](/en/post/to/) [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) investments held [by](/en/post/by/) an [individual](/en/post/individual/) [or](/en/post/or/) [organization](/en/post/organization/).
-- "[Return](/en/post/return/) [on](/en/post/on/) [investment](/en/post/investment/) (ROI)" is [a](/en/post/a/) [performance](/en/post/performance/) [measure](/en/post/measure/) [used](/en/post/used/) [to](/en/post/to/) [evaluate](/en/post/evaluate/) [the](/en/post/the/) [efficiency](/en/post/efficiency/) [of](/en/post/of/) an [investment](/en/post/investment/).
-- "[Investment](/en/post/investment/) [strategy](/en/post/strategy/)" describes [a](/en/post/a/) [plan](/en/post/plan/) [or](/en/post/or/) [method](/en/post/method/) [for](/en/post/for/) selecting investments [to](/en/post/to/) [meet](/en/post/meet/) [financial](/en/post/financial/) goals.
+- "[Investment](/post/investment/) portfolio" refers [to](/post/to/) [a](/post/a/) [collection](/post/collection/) [of](/post/of/) investments held [by](/post/by/) an [individual](/post/individual/) [or](/post/or/) [organization](/post/organization/).
+- "[Return](/post/return/) [on](/post/on/) [investment](/post/investment/) (ROI)" is [a](/post/a/) [performance](/post/performance/) [measure](/post/measure/) [used](/post/used/) [to](/post/to/) [evaluate](/post/evaluate/) [the](/post/the/) [efficiency](/post/efficiency/) [of](/post/of/) an [investment](/post/investment/).
+- "[Investment](/post/investment/) [strategy](/post/strategy/)" describes [a](/post/a/) [plan](/post/plan/) [or](/post/or/) [method](/post/method/) [for](/post/for/) selecting investments [to](/post/to/) [meet](/post/meet/) [financial](/post/financial/) goals.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) decided [to](/en/post/to/) diversify [her](/en/post/her/) [investment](/en/post/investment/) portfolio [by](/en/post/by/) investing [in](/en/post/in/) [both](/en/post/both/) stocks [and](/en/post/and/) bonds."
-- "[The](/en/post/the/) [company](/en/post/company/) plans [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [significant](/en/post/significant/) [investment](/en/post/investment/) [in](/en/post/in/) [research](/en/post/research/) [and](/en/post/and/) [development](/en/post/development/) [this](/en/post/this/) [year](/en/post/year/)."
-- "[After](/en/post/after/) [careful](/en/post/careful/) [consideration](/en/post/consideration/), [he](/en/post/he/) chose [to](/en/post/to/) [invest](/en/post/invest/) [his](/en/post/his/) savings [in](/en/post/in/) [a](/en/post/a/) [new](/en/post/new/) [business](/en/post/business/) [opportunity](/en/post/opportunity/), hoping [for](/en/post/for/) [a](/en/post/a/) [high](/en/post/high/) [return](/en/post/return/) [on](/en/post/on/) [investment](/en/post/investment/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) decided [to](/post/to/) diversify [her](/post/her/) [investment](/post/investment/) portfolio [by](/post/by/) investing [in](/post/in/) [both](/post/both/) stocks [and](/post/and/) bonds."
+- "[The](/post/the/) [company](/post/company/) plans [to](/post/to/) [make](/post/make/) [a](/post/a/) [significant](/post/significant/) [investment](/post/investment/) [in](/post/in/) [research](/post/research/) [and](/post/and/) [development](/post/development/) [this](/post/this/) [year](/post/year/)."
+- "[After](/post/after/) [careful](/post/careful/) [consideration](/post/consideration/), [he](/post/he/) chose [to](/post/to/) [invest](/post/invest/) [his](/post/his/) savings [in](/post/in/) [a](/post/a/) [new](/post/new/) [business](/post/business/) [opportunity](/post/opportunity/), hoping [for](/post/for/) [a](/post/a/) [high](/post/high/) [return](/post/return/) [on](/post/on/) [investment](/post/investment/)."
 
 ## Synonyms
 - Funding
-- [Capital](/en/post/capital/) [injection](/en/post/injection/)
-- [Financial](/en/post/financial/) commitment
+- [Capital](/post/capital/) [injection](/post/injection/)
+- [Financial](/post/financial/) commitment
 - Endowment
-- [Stake](/en/post/stake/)
+- [Stake](/post/stake/)
 - Outlay
 - Expenditure
 - Asset allocation
-- [Venture](/en/post/venture/)
+- [Venture](/post/venture/)
 - Speculation

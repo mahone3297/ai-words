@@ -7,34 +7,34 @@ description = '[njuː] a.新的；新近出现的'
 keywords = ['ai words', 'new']
 +++
 
-## [Word](/en/post/word/): [New](/en/post/new/)
+## [Word](/post/word/): [New](/post/new/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /nuː/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) existing [before](/en/post/before/); made, introduced, [or](/en/post/or/) discovered [recently](/en/post/recently/) [or](/en/post/or/) [now](/en/post/now/) [for](/en/post/for/) [the](/en/post/the/) [first](/en/post/first/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) bought [a](/en/post/a/) [new](/en/post/new/) [car](/en/post/car/) [last](/en/post/last/) [week](/en/post/week/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) has [not](/en/post/not/) been [previously](/en/post/previously/) [used](/en/post/used/) [or](/en/post/or/) worn [by](/en/post/by/) [anyone](/en/post/anyone/) [else](/en/post/else/): "[She](/en/post/she/) wore [a](/en/post/a/) [new](/en/post/new/) [dress](/en/post/dress/) [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/)."
-- **[Adjective](/en/post/adjective/) ([comparative](/en/post/comparative/) [form](/en/post/form/) newer, superlative [form](/en/post/form/) newest)**: Referring [to](/en/post/to/) [the](/en/post/the/) [most](/en/post/most/) [recent](/en/post/recent/) [in](/en/post/in/) [time](/en/post/time/) [or](/en/post/or/) [order](/en/post/order/), [or](/en/post/or/) replacing [something](/en/post/something/) older. [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) is [the](/en/post/the/) newest [model](/en/post/model/) [of](/en/post/of/) smartphone [on](/en/post/on/) [the](/en/post/the/) [market](/en/post/market/)."
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) existing [before](/post/before/); made, introduced, [or](/post/or/) discovered [recently](/post/recently/) [or](/post/or/) [now](/post/now/) [for](/post/for/) [the](/post/the/) [first](/post/first/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) bought [a](/post/a/) [new](/post/new/) [car](/post/car/) [last](/post/last/) [week](/post/week/)."
+  - [Also](/post/also/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) has [not](/post/not/) been [previously](/post/previously/) [used](/post/used/) [or](/post/or/) worn [by](/post/by/) [anyone](/post/anyone/) [else](/post/else/): "[She](/post/she/) wore [a](/post/a/) [new](/post/new/) [dress](/post/dress/) [to](/post/to/) [the](/post/the/) [party](/post/party/)."
+- **[Adjective](/post/adjective/) ([comparative](/post/comparative/) [form](/post/form/) newer, superlative [form](/post/form/) newest)**: Referring [to](/post/to/) [the](/post/the/) [most](/post/most/) [recent](/post/recent/) [in](/post/in/) [time](/post/time/) [or](/post/or/) [order](/post/order/), [or](/post/or/) replacing [something](/post/something/) older. [For](/post/for/) [example](/post/example/): "[This](/post/this/) is [the](/post/the/) newest [model](/post/model/) [of](/post/of/) smartphone [on](/post/on/) [the](/post/the/) [market](/post/market/)."
 
 ## Phrases
-- "[New](/en/post/new/) [kid](/en/post/kid/) [on](/en/post/on/) [the](/en/post/the/) [block](/en/post/block/)": [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is [new](/en/post/new/) [to](/en/post/to/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [environment](/en/post/environment/) [and](/en/post/and/) has [yet](/en/post/yet/) [to](/en/post/to/) [establish](/en/post/establish/) [themselves](/en/post/themselves/).
-- "[A](/en/post/a/) [new](/en/post/new/) lease [on](/en/post/on/) [life](/en/post/life/)": [A](/en/post/a/) [fresh](/en/post/fresh/) [start](/en/post/start/) [or](/en/post/or/) renewed vigor [after](/en/post/after/) [a](/en/post/a/) [difficult](/en/post/difficult/) [period](/en/post/period/).
-- "[Out](/en/post/out/) [with](/en/post/with/) [the](/en/post/the/) [old](/en/post/old/), [in](/en/post/in/) [with](/en/post/with/) [the](/en/post/the/) [new](/en/post/new/)": [A](/en/post/a/) [phrase](/en/post/phrase/) suggesting [that](/en/post/that/) [old](/en/post/old/) things [should](/en/post/should/) [be](/en/post/be/) replaced [by](/en/post/by/) [new](/en/post/new/) ones.
+- "[New](/post/new/) [kid](/post/kid/) [on](/post/on/) [the](/post/the/) [block](/post/block/)": [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is [new](/post/new/) [to](/post/to/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [environment](/post/environment/) [and](/post/and/) has [yet](/post/yet/) [to](/post/to/) [establish](/post/establish/) [themselves](/post/themselves/).
+- "[A](/post/a/) [new](/post/new/) lease [on](/post/on/) [life](/post/life/)": [A](/post/a/) [fresh](/post/fresh/) [start](/post/start/) [or](/post/or/) renewed vigor [after](/post/after/) [a](/post/a/) [difficult](/post/difficult/) [period](/post/period/).
+- "[Out](/post/out/) [with](/post/with/) [the](/post/the/) [old](/post/old/), [in](/post/in/) [with](/post/with/) [the](/post/the/) [new](/post/new/)": [A](/post/a/) [phrase](/post/phrase/) suggesting [that](/post/that/) [old](/post/old/) things [should](/post/should/) [be](/post/be/) replaced [by](/post/by/) [new](/post/new/) ones.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) started [his](/en/post/his/) [new](/en/post/new/) [job](/en/post/job/) [today](/en/post/today/)."
-- "[She](/en/post/she/) decided [to](/en/post/to/) redecorate [her](/en/post/her/) [house](/en/post/house/) [with](/en/post/with/) [all](/en/post/all/) [new](/en/post/new/) [furniture](/en/post/furniture/)."
-- "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [illness](/en/post/illness/), [he](/en/post/he/) felt [like](/en/post/like/) [a](/en/post/a/) [new](/en/post/new/) [person](/en/post/person/) [once](/en/post/once/) [he](/en/post/he/) recovered."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) started [his](/post/his/) [new](/post/new/) [job](/post/job/) [today](/post/today/)."
+- "[She](/post/she/) decided [to](/post/to/) redecorate [her](/post/her/) [house](/post/house/) [with](/post/with/) [all](/post/all/) [new](/post/new/) [furniture](/post/furniture/)."
+- "[After](/post/after/) [a](/post/a/) [long](/post/long/) [illness](/post/illness/), [he](/post/he/) felt [like](/post/like/) [a](/post/a/) [new](/post/new/) [person](/post/person/) [once](/post/once/) [he](/post/he/) recovered."
 
 ## Synonyms
-- [Fresh](/en/post/fresh/)
-- [Novel](/en/post/novel/)
-- [Modern](/en/post/modern/)
-- [Recent](/en/post/recent/)
+- [Fresh](/post/fresh/)
+- [Novel](/post/novel/)
+- [Modern](/post/modern/)
+- [Recent](/post/recent/)
 - Unused
 - Unfamiliar
 - Untouched
 - Innovative
 - Unworn
-- [Up-to-date](/en/post/up-to-date/)
+- [Up-to-date](/post/up-to-date/)

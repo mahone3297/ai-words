@@ -11,22 +11,22 @@ keywords = ['ai words', 'punch']
 /pʌntʃ/
 
 ## 释义
-- **名词**: 1. 打击；拳击。例如: "[He](/post/he/) threw [a](/post/a/) [powerful](/post/powerful/) [punch](/post/punch/) [at](/post/at/) [his](/post/his/) [opponent](/post/opponent/)."
-2. （饮料机上的）冲压按钮；打孔。例如: "[She](/post/she/) ordered [a](/post/a/) [cold](/post/cold/) [drink](/post/drink/) [and](/post/and/) pressed [the](/post/the/) [punch](/post/punch/) [button](/post/button/)."
+- **名词**: 1. 打击；拳击。例如: "[He](/zh/post/he/) threw [a](/zh/post/a/) [powerful](/zh/post/powerful/) [punch](/zh/post/punch/) [at](/zh/post/at/) [his](/zh/post/his/) [opponent](/zh/post/opponent/)."
+2. （饮料机上的）冲压按钮；打孔。例如: "[She](/zh/post/she/) ordered [a](/zh/post/a/) [cold](/zh/post/cold/) [drink](/zh/post/drink/) [and](/zh/post/and/) pressed [the](/zh/post/the/) [punch](/zh/post/punch/) [button](/zh/post/button/)."
 
-- **动词**: 打；揍；猛击。例如: "[The](/post/the/) boxer landed [a](/post/a/) [solid](/post/solid/) [punch](/post/punch/) [on](/post/on/) [his](/post/his/) adversary's [jaw](/post/jaw/)."
+- **动词**: 打；揍；猛击。例如: "[The](/zh/post/the/) boxer landed [a](/zh/post/a/) [solid](/zh/post/solid/) [punch](/zh/post/punch/) [on](/zh/post/on/) [his](/zh/post/his/) adversary's [jaw](/zh/post/jaw/)."
 
 ## 短语
-- "[punch](/post/punch/) [out](/post/out/)" 意味着用力打出去，通常指拳击。
-- "[punch](/post/punch/) [a](/post/a/) [ticket](/post/ticket/)" 在票上打孔，常用于公共交通。
+- "[punch](/zh/post/punch/) [out](/zh/post/out/)" 意味着用力打出去，通常指拳击。
+- "[punch](/zh/post/punch/) [a](/zh/post/a/) [ticket](/zh/post/ticket/)" 在票上打孔，常用于公共交通。
 
 ## 例句
-- 名词: "[The](/post/the/) boxer's [punch](/post/punch/) sent [his](/post/his/) [opponent](/post/opponent/) crashing [to](/post/to/) [the](/post/the/) [floor](/post/floor/)."
-- 动词: "[The](/post/the/) [security](/post/security/) [guard](/post/guard/) punched [the](/post/the/) intruder [in](/post/in/) self-defense."
+- 名词: "[The](/zh/post/the/) boxer's [punch](/zh/post/punch/) sent [his](/zh/post/his/) [opponent](/zh/post/opponent/) crashing [to](/zh/post/to/) [the](/zh/post/the/) [floor](/zh/post/floor/)."
+- 动词: "[The](/zh/post/the/) [security](/zh/post/security/) [guard](/zh/post/guard/) punched [the](/zh/post/the/) intruder [in](/zh/post/in/) self-defense."
 
 ## 同义词
-- [Hit](/post/hit/)
-- [Strike](/post/strike/)
+- [Hit](/zh/post/hit/)
+- [Strike](/zh/post/strike/)
 - Jab
 - wallop
-- [belt](/post/belt/)
+- [belt](/zh/post/belt/)

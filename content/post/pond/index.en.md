@@ -7,31 +7,31 @@ description = '[pɔnd] n.池塘'
 keywords = ['ai words', 'pond']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈpɒnd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [body](/en/post/body/) [of](/en/post/of/) [water](/en/post/water/) typically [small](/en/post/small/), [shallow](/en/post/shallow/), [and](/en/post/and/) [often](/en/post/often/) surrounded [by](/en/post/by/) [land](/en/post/land/)**: [A](/en/post/a/) [natural](/en/post/natural/) [pond](/en/post/pond/) filled [with](/en/post/with/) lilies [or](/en/post/or/) [a](/en/post/a/) man-made [pond](/en/post/pond/) [for](/en/post/for/) fishing.
-- **An enclosed [area](/en/post/area/) [of](/en/post/of/) [water](/en/post/water/), [often](/en/post/often/) [artificial](/en/post/artificial/), [used](/en/post/used/) [for](/en/post/for/) ornamental purposes [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) habitat**: [The](/en/post/the/) [community](/en/post/community/) decided [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) wildlife [pond](/en/post/pond/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/).
+### [Noun](/post/noun/)
+- **[A](/post/a/) [body](/post/body/) [of](/post/of/) [water](/post/water/) typically [small](/post/small/), [shallow](/post/shallow/), [and](/post/and/) [often](/post/often/) surrounded [by](/post/by/) [land](/post/land/)**: [A](/post/a/) [natural](/post/natural/) [pond](/post/pond/) filled [with](/post/with/) lilies [or](/post/or/) [a](/post/a/) man-made [pond](/post/pond/) [for](/post/for/) fishing.
+- **An enclosed [area](/post/area/) [of](/post/of/) [water](/post/water/), [often](/post/often/) [artificial](/post/artificial/), [used](/post/used/) [for](/post/for/) ornamental purposes [or](/post/or/) [as](/post/as/) [a](/post/a/) habitat**: [The](/post/the/) [community](/post/community/) decided [to](/post/to/) [create](/post/create/) [a](/post/a/) wildlife [pond](/post/pond/) [in](/post/in/) [the](/post/the/) [park](/post/park/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [deposit](/en/post/deposit/) [something](/en/post/something/) [into](/en/post/into/) [a](/en/post/a/) [pond](/en/post/pond/) [or](/en/post/or/) [pool](/en/post/pool/)**: [She](/en/post/she/) ponded [the](/en/post/the/) rainwater [in](/en/post/in/) [a](/en/post/a/) [barrel](/en/post/barrel/).
-- **[To](/en/post/to/) [accumulate](/en/post/accumulate/) [or](/en/post/or/) [collect](/en/post/collect/) ([liquid](/en/post/liquid/)) [in](/en/post/in/) [a](/en/post/a/) [small](/en/post/small/) [pool](/en/post/pool/)**: [The](/en/post/the/) melting [snow](/en/post/snow/) ponded [on](/en/post/on/) [the](/en/post/the/) [roof](/en/post/roof/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [deposit](/post/deposit/) [something](/post/something/) [into](/post/into/) [a](/post/a/) [pond](/post/pond/) [or](/post/or/) [pool](/post/pool/)**: [She](/post/she/) ponded [the](/post/the/) rainwater [in](/post/in/) [a](/post/a/) [barrel](/post/barrel/).
+- **[To](/post/to/) [accumulate](/post/accumulate/) [or](/post/or/) [collect](/post/collect/) ([liquid](/post/liquid/)) [in](/post/in/) [a](/post/a/) [small](/post/small/) [pool](/post/pool/)**: [The](/post/the/) melting [snow](/post/snow/) ponded [on](/post/on/) [the](/post/the/) [roof](/post/roof/).
 
 ## Phrases
-- "[Toss](/en/post/toss/) [a](/en/post/a/) [stone](/en/post/stone/) [in](/en/post/in/) [the](/en/post/the/) [pond](/en/post/pond/)" refers [to](/en/post/to/) making [a](/en/post/a/) [small](/en/post/small/) [splash](/en/post/splash/) [or](/en/post/or/) disturbance [in](/en/post/in/) [the](/en/post/the/) [water](/en/post/water/).
-- "[The](/en/post/the/) pond's ecosystem" describes [the](/en/post/the/) plants [and](/en/post/and/) animals [living](/en/post/living/) [together](/en/post/together/) [in](/en/post/in/) [that](/en/post/that/) [water](/en/post/water/) [body](/en/post/body/).
-- "[Pond](/en/post/pond/) [life](/en/post/life/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) creatures [that](/en/post/that/) [inhabit](/en/post/inhabit/) [a](/en/post/a/) [pond](/en/post/pond/).
+- "[Toss](/post/toss/) [a](/post/a/) [stone](/post/stone/) [in](/post/in/) [the](/post/the/) [pond](/post/pond/)" refers [to](/post/to/) making [a](/post/a/) [small](/post/small/) [splash](/post/splash/) [or](/post/or/) disturbance [in](/post/in/) [the](/post/the/) [water](/post/water/).
+- "[The](/post/the/) pond's ecosystem" describes [the](/post/the/) plants [and](/post/and/) animals [living](/post/living/) [together](/post/together/) [in](/post/in/) [that](/post/that/) [water](/post/water/) [body](/post/body/).
+- "[Pond](/post/pond/) [life](/post/life/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) creatures [that](/post/that/) [inhabit](/post/inhabit/) [a](/post/a/) [pond](/post/pond/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children loved feeding [the](/en/post/the/) ducks [in](/en/post/in/) [the](/en/post/the/) [nearby](/en/post/nearby/) [pond](/en/post/pond/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [walk](/en/post/walk/), [he](/en/post/he/) stopped [to](/en/post/to/) [pond](/en/post/pond/) [his](/en/post/his/) [sweat](/en/post/sweat/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [Verb](/en/post/verb/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) ponded [the](/en/post/the/) [excess](/en/post/excess/) [water](/en/post/water/) [from](/en/post/from/) [the](/en/post/the/) [garden](/en/post/garden/) hose."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children loved feeding [the](/post/the/) ducks [in](/post/in/) [the](/post/the/) [nearby](/post/nearby/) [pond](/post/pond/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [walk](/post/walk/), [he](/post/he/) stopped [to](/post/to/) [pond](/post/pond/) [his](/post/his/) [sweat](/post/sweat/)."
+- **[As](/post/as/) [a](/post/a/) [Verb](/post/verb/)**: "[The](/post/the/) [gardener](/post/gardener/) ponded [the](/post/the/) [excess](/post/excess/) [water](/post/water/) [from](/post/from/) [the](/post/the/) [garden](/post/garden/) hose."
 
 ## Synonyms
-- [Lake](/en/post/lake/) (smaller [than](/en/post/than/) [a](/en/post/a/) [lake](/en/post/lake/), usually人工)
--塘 (referring [to](/en/post/to/) [a](/en/post/a/) [small](/en/post/small/) [water](/en/post/water/) [body](/en/post/body/) [in](/en/post/in/) Chinese [culture](/en/post/culture/))
-- [Basin](/en/post/basin/) ([a](/en/post/a/) smaller, [often](/en/post/often/) [shallow](/en/post/shallow/) accumulation [of](/en/post/of/) [water](/en/post/water/))
-- puddle ([a](/en/post/a/) smaller, [temporary](/en/post/temporary/) [pond](/en/post/pond/))
-- depression ([a](/en/post/a/) [lower](/en/post/lower/) [area](/en/post/area/) [that](/en/post/that/) collects [water](/en/post/water/), [not](/en/post/not/) [necessarily](/en/post/necessarily/) man-made)
+- [Lake](/post/lake/) (smaller [than](/post/than/) [a](/post/a/) [lake](/post/lake/), usually人工)
+-塘 (referring [to](/post/to/) [a](/post/a/) [small](/post/small/) [water](/post/water/) [body](/post/body/) [in](/post/in/) Chinese [culture](/post/culture/))
+- [Basin](/post/basin/) ([a](/post/a/) smaller, [often](/post/often/) [shallow](/post/shallow/) accumulation [of](/post/of/) [water](/post/water/))
+- puddle ([a](/post/a/) smaller, [temporary](/post/temporary/) [pond](/post/pond/))
+- depression ([a](/post/a/) [lower](/post/lower/) [area](/post/area/) [that](/post/that/) collects [water](/post/water/), [not](/post/not/) [necessarily](/post/necessarily/) man-made)

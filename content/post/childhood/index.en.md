@@ -7,32 +7,32 @@ description = '[ˈt∫aildhud] n.童年，幼年；早期'
 keywords = ['ai words', 'childhood']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃɪldhʊd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Childhood](/en/post/childhood/)**: [The](/en/post/the/) [period](/en/post/period/) [of](/en/post/of/) one's [life](/en/post/life/) [between](/en/post/between/) infancy [and](/en/post/and/) adolescence, characterized [by](/en/post/by/) [growth](/en/post/growth/), [learning](/en/post/learning/), [and](/en/post/and/) experiences [before](/en/post/before/) adulthood.
+### [Noun](/post/noun/)
+**[Childhood](/post/childhood/)**: [The](/post/the/) [period](/post/period/) [of](/post/of/) one's [life](/post/life/) [between](/post/between/) infancy [and](/post/and/) adolescence, characterized [by](/post/by/) [growth](/post/growth/), [learning](/post/learning/), [and](/post/and/) experiences [before](/post/before/) adulthood.
 
-### [Verb](/en/post/verb/) ([Rare](/en/post/rare/))
-**[Childhood](/en/post/childhood/)**: ([as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/)) Refers [to](/en/post/to/) [the](/en/post/the/) experiences [or](/en/post/or/) memories [of](/en/post/of/) one's [early](/en/post/early/) years, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) nostalgic context.
+### [Verb](/post/verb/) ([Rare](/post/rare/))
+**[Childhood](/post/childhood/)**: ([as](/post/as/) [a](/post/a/) [noun](/post/noun/)) Refers [to](/post/to/) [the](/post/the/) experiences [or](/post/or/) memories [of](/post/of/) one's [early](/post/early/) years, [often](/post/often/) [in](/post/in/) [a](/post/a/) nostalgic context.
 
-### [Adjective](/en/post/adjective/)
-**Childlike**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) children;天真, [innocent](/en/post/innocent/), [or](/en/post/or/) having [a](/en/post/a/) [simple](/en/post/simple/) [nature](/en/post/nature/).
+### [Adjective](/post/adjective/)
+**Childlike**: [Characteristic](/post/characteristic/) [of](/post/of/) children;天真, [innocent](/post/innocent/), [or](/post/or/) having [a](/post/a/) [simple](/post/simple/) [nature](/post/nature/).
 
 ## Phrases
-- "Recalling [her](/en/post/her/) [childhood](/en/post/childhood/)" [means](/en/post/means/) [to](/en/post/to/) [remember](/en/post/remember/) experiences [from](/en/post/from/) one's [early](/en/post/early/) years.
-- "[The](/en/post/the/) joys [of](/en/post/of/) [childhood](/en/post/childhood/)" refers [to](/en/post/to/) [the](/en/post/the/) carefree [and](/en/post/and/) [happy](/en/post/happy/) times [of](/en/post/of/) [youth](/en/post/youth/).
-- "[A](/en/post/a/) [return](/en/post/return/) [to](/en/post/to/) [childhood](/en/post/childhood/) innocence" suggests [a](/en/post/a/) longing [for](/en/post/for/) [simplicity](/en/post/simplicity/) [or](/en/post/or/) naivety.
+- "Recalling [her](/post/her/) [childhood](/post/childhood/)" [means](/post/means/) [to](/post/to/) [remember](/post/remember/) experiences [from](/post/from/) one's [early](/post/early/) years.
+- "[The](/post/the/) joys [of](/post/of/) [childhood](/post/childhood/)" refers [to](/post/to/) [the](/post/the/) carefree [and](/post/and/) [happy](/post/happy/) times [of](/post/of/) [youth](/post/youth/).
+- "[A](/post/a/) [return](/post/return/) [to](/post/to/) [childhood](/post/childhood/) innocence" suggests [a](/post/a/) longing [for](/post/for/) [simplicity](/post/simplicity/) [or](/post/or/) naivety.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Many](/en/post/many/) adults [still](/en/post/still/) cherish [fond](/en/post/fond/) memories [of](/en/post/of/) [their](/en/post/their/) [childhood](/en/post/childhood/) summers."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) childlike [curiosity](/en/post/curiosity/) led [her](/en/post/her/) [to](/en/post/to/) [explore](/en/post/explore/) [new](/en/post/new/) ideas."
-- **[Rare](/en/post/rare/) [Verb](/en/post/verb/)**: "Reflecting [on](/en/post/on/) [his](/en/post/his/) [childhood](/en/post/childhood/), [he](/en/post/he/) realized [how](/en/post/how/) [much](/en/post/much/) [it](/en/post/it/) shaped [him](/en/post/him/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Many](/post/many/) adults [still](/post/still/) cherish [fond](/post/fond/) memories [of](/post/of/) [their](/post/their/) [childhood](/post/childhood/) summers."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) childlike [curiosity](/post/curiosity/) led [her](/post/her/) [to](/post/to/) [explore](/post/explore/) [new](/post/new/) ideas."
+- **[Rare](/post/rare/) [Verb](/post/verb/)**: "Reflecting [on](/post/on/) [his](/post/his/) [childhood](/post/childhood/), [he](/post/he/) realized [how](/post/how/) [much](/post/much/) [it](/post/it/) shaped [him](/post/him/)."
 
 ## Synonyms
-- [Early](/en/post/early/) years
-- [Youth](/en/post/youth/)
+- [Early](/post/early/) years
+- [Youth](/post/youth/)
 - Infancy
 - Pupilage
 - Bambino days

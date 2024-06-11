@@ -7,32 +7,32 @@ description = '[inˈvestigeit] vt.&vi.调查'
 keywords = ['ai words', 'investigate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈvɛstɪɡeɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [conduct](/en/post/conduct/) [a](/en/post/a/) [formal](/en/post/formal/) [inquiry](/en/post/inquiry/) [or](/en/post/or/) systematic [examination](/en/post/examination/) [to](/en/post/to/) [discover](/en/post/discover/) facts [or](/en/post/or/) [information](/en/post/information/) [about](/en/post/about/) [something](/en/post/something/), [often](/en/post/often/) [by](/en/post/by/) [research](/en/post/research/) [or](/en/post/or/) questioning. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) detective investigated [the](/en/post/the/) [crime](/en/post/crime/) [scene](/en/post/scene/) thoroughly."
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) investigating; an [investigation](/en/post/investigation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [investigation](/en/post/investigation/) was [thorough](/en/post/thorough/) [and](/en/post/and/) led [to](/en/post/to/) [the](/en/post/the/) [discovery](/en/post/discovery/) [of](/en/post/of/) [new](/en/post/new/) [evidence](/en/post/evidence/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [conduct](/post/conduct/) [a](/post/a/) [formal](/post/formal/) [inquiry](/post/inquiry/) [or](/post/or/) systematic [examination](/post/examination/) [to](/post/to/) [discover](/post/discover/) facts [or](/post/or/) [information](/post/information/) [about](/post/about/) [something](/post/something/), [often](/post/often/) [by](/post/by/) [research](/post/research/) [or](/post/or/) questioning. [For](/post/for/) [example](/post/example/): "[The](/post/the/) detective investigated [the](/post/the/) [crime](/post/crime/) [scene](/post/scene/) thoroughly."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) investigating; an [investigation](/post/investigation/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [investigation](/post/investigation/) was [thorough](/post/thorough/) [and](/post/and/) led [to](/post/to/) [the](/post/the/) [discovery](/post/discovery/) [of](/post/of/) [new](/post/new/) [evidence](/post/evidence/)."
 
 ## Phrases
-- "[Investigate](/en/post/investigate/) [a](/en/post/a/) [matter](/en/post/matter/)": [To](/en/post/to/) delve deeply [into](/en/post/into/) [a](/en/post/a/) [subject](/en/post/subject/) [to](/en/post/to/) [uncover](/en/post/uncover/) [the](/en/post/the/) [truth](/en/post/truth/).
-- "[Under](/en/post/under/) [investigation](/en/post/investigation/)": Describes [something](/en/post/something/) [that](/en/post/that/) is currently [being](/en/post/being/) examined [or](/en/post/or/) researched.
-- "[To](/en/post/to/) [carry](/en/post/carry/) [out](/en/post/out/) an [investigation](/en/post/investigation/)": [To](/en/post/to/) [perform](/en/post/perform/) [a](/en/post/a/) systematic [search](/en/post/search/) [for](/en/post/for/) [information](/en/post/information/) [or](/en/post/or/) answers.
+- "[Investigate](/post/investigate/) [a](/post/a/) [matter](/post/matter/)": [To](/post/to/) delve deeply [into](/post/into/) [a](/post/a/) [subject](/post/subject/) [to](/post/to/) [uncover](/post/uncover/) [the](/post/the/) [truth](/post/truth/).
+- "[Under](/post/under/) [investigation](/post/investigation/)": Describes [something](/post/something/) [that](/post/that/) is currently [being](/post/being/) examined [or](/post/or/) researched.
+- "[To](/post/to/) [carry](/post/carry/) [out](/post/out/) an [investigation](/post/investigation/)": [To](/post/to/) [perform](/post/perform/) [a](/post/a/) systematic [search](/post/search/) [for](/post/for/) [information](/post/information/) [or](/post/or/) answers.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [police](/en/post/police/) are investigating [the](/en/post/the/) theft [at](/en/post/at/) [the](/en/post/the/) [museum](/en/post/museum/)."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [and](/en/post/and/) [complex](/en/post/complex/) [investigation](/en/post/investigation/), [the](/en/post/the/) [team](/en/post/team/) [finally](/en/post/finally/) [found](/en/post/found/) [the](/en/post/the/) [source](/en/post/source/) [of](/en/post/of/) [the](/en/post/the/) [problem](/en/post/problem/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [police](/post/police/) are investigating [the](/post/the/) theft [at](/post/at/) [the](/post/the/) [museum](/post/museum/)."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [and](/post/and/) [complex](/post/complex/) [investigation](/post/investigation/), [the](/post/the/) [team](/post/team/) [finally](/post/finally/) [found](/post/found/) [the](/post/the/) [source](/post/source/) [of](/post/of/) [the](/post/the/) [problem](/post/problem/)."
 
 ## Synonyms
-- [Examine](/en/post/examine/)
+- [Examine](/post/examine/)
 - Probe
-- [Research](/en/post/research/)
+- [Research](/post/research/)
 - Analyze
 - Scrutinize
-- [Study](/en/post/study/)
-- [Inquire](/en/post/inquire/)
-- [Look](/en/post/look/) [into](/en/post/into/)
-- [Explore](/en/post/explore/)
-- Delve [into](/en/post/into/)
+- [Study](/post/study/)
+- [Inquire](/post/inquire/)
+- [Look](/post/look/) [into](/post/into/)
+- [Explore](/post/explore/)
+- Delve [into](/post/into/)
 
-[Note](/en/post/note/): [While](/en/post/while/) "[investigate](/en/post/investigate/)" [primarily](/en/post/primarily/) functions [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [or](/en/post/or/) [act](/en/post/act/) [of](/en/post/of/) investigating. [However](/en/post/however/), it's [not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) [like](/en/post/like/) an [adjective](/en/post/adjective/) [or](/en/post/or/) [adverb](/en/post/adverb/).
+[Note](/post/note/): [While](/post/while/) "[investigate](/post/investigate/)" [primarily](/post/primarily/) functions [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [it](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [process](/post/process/) [or](/post/or/) [act](/post/act/) [of](/post/of/) investigating. [However](/post/however/), it's [not](/post/not/) typically [used](/post/used/) [as](/post/as/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) [like](/post/like/) an [adjective](/post/adjective/) [or](/post/or/) [adverb](/post/adverb/).

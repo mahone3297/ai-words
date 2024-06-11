@@ -11,21 +11,21 @@ keywords = ['ai words', 'collective']
 /ˈkəlɪvərət/
 
 ## 释义
-- **形容词**: 集体的；共同的；全体的。例如: "[The](/post/the/) [collective](/post/collective/) efforts [of](/post/of/) [the](/post/the/) [team](/post/team/) led [to](/post/to/) [success](/post/success/)."
-- **名词**: 集体；集体组织。例如: "[They](/post/they/) formed [a](/post/a/) [collective](/post/collective/) [to](/post/to/) [share](/post/share/) resources [and](/post/and/) ideas."
+- **形容词**: 集体的；共同的；全体的。例如: "[The](/zh/post/the/) [collective](/zh/post/collective/) efforts [of](/zh/post/of/) [the](/zh/post/the/) [team](/zh/post/team/) led [to](/zh/post/to/) [success](/zh/post/success/)."
+- **名词**: 集体；集体组织。例如: "[They](/zh/post/they/) formed [a](/zh/post/a/) [collective](/zh/post/collective/) [to](/zh/post/to/) [share](/zh/post/share/) resources [and](/zh/post/and/) ideas."
 
 ## 短语
-- "[collective](/post/collective/) bargaining" 集体谈判
-- "[collective](/post/collective/) [memory](/post/memory/)" 集体记忆
-- "[collective](/post/collective/) [action](/post/action/)" 集体行动
+- "[collective](/zh/post/collective/) bargaining" 集体谈判
+- "[collective](/zh/post/collective/) [memory](/zh/post/memory/)" 集体记忆
+- "[collective](/zh/post/collective/) [action](/zh/post/action/)" 集体行动
 
 ## 例句
-- 形容词: "[Their](/post/their/) [collective](/post/collective/) [wisdom](/post/wisdom/) helped [solve](/post/solve/) [the](/post/the/) [problem](/post/problem/)."
-- 名词: "[The](/post/the/) [farm](/post/farm/) is [run](/post/run/) [as](/post/as/) [a](/post/a/) cooperative [collective](/post/collective/)."
+- 形容词: "[Their](/zh/post/their/) [collective](/zh/post/collective/) [wisdom](/zh/post/wisdom/) helped [solve](/zh/post/solve/) [the](/zh/post/the/) [problem](/zh/post/problem/)."
+- 名词: "[The](/zh/post/the/) [farm](/zh/post/farm/) is [run](/zh/post/run/) [as](/zh/post/as/) [a](/zh/post/a/) cooperative [collective](/zh/post/collective/)."
 
 ## 同义词
 - communal
-- [group](/post/group/)
-- [joint](/post/joint/)
+- [group](/zh/post/group/)
+- [joint](/zh/post/joint/)
 - shared
 - societal

@@ -7,38 +7,38 @@ description = '[ˈsetiŋ] n.安装，调整；环境'
 keywords = ['ai words', 'setting']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsetɪŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [arrangement](/en/post/arrangement/) [or](/en/post/or/) disposition [of](/en/post/of/) objects, [people](/en/post/people/), [or](/en/post/or/) things [in](/en/post/in/) [space](/en/post/space/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [or](/en/post/or/) context. **[Example](/en/post/example/):** "[The](/en/post/the/) [living](/en/post/living/) room's cozy [setting](/en/post/setting/) [with](/en/post/with/) [a](/en/post/a/) fireplace [and](/en/post/and/) [comfortable](/en/post/comfortable/) seating."
-2. [The](/en/post/the/) circumstances, conditions, [or](/en/post/or/) [atmosphere](/en/post/atmosphere/) [in](/en/post/in/) [which](/en/post/which/) [something](/en/post/something/) happens [or](/en/post/or/) is experienced. **[Example](/en/post/example/):** "[The](/en/post/the/) book's [setting](/en/post/setting/) takes [place](/en/post/place/) [during](/en/post/during/) [World](/en/post/world/) [War](/en/post/war/) II."
-3. [A](/en/post/a/) [particular](/en/post/particular/) [time](/en/post/time/) [or](/en/post/or/) [period](/en/post/period/), [often](/en/post/often/) marked [by](/en/post/by/) [a](/en/post/a/) [distinct](/en/post/distinct/) [style](/en/post/style/) [or](/en/post/or/) cultural characteristics. **[Example](/en/post/example/):** "[The](/en/post/the/) [art](/en/post/art/) deco [setting](/en/post/setting/) [of](/en/post/of/) [the](/en/post/the/) 1920s influenced [many](/en/post/many/) designers."
-4. ([Film](/en/post/film/), TV) [The](/en/post/the/) [visual](/en/post/visual/) [appearance](/en/post/appearance/) [and](/en/post/and/) backdrop [of](/en/post/of/) [a](/en/post/a/) [scene](/en/post/scene/) [or](/en/post/or/) [story](/en/post/story/). **[Example](/en/post/example/):** "[The](/en/post/the/) show's colorful settings transported viewers [to](/en/post/to/) [a](/en/post/a/) magical [world](/en/post/world/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [arrangement](/post/arrangement/) [or](/post/or/) disposition [of](/post/of/) objects, [people](/post/people/), [or](/post/or/) things [in](/post/in/) [space](/post/space/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/) [or](/post/or/) context. **[Example](/post/example/):** "[The](/post/the/) [living](/post/living/) room's cozy [setting](/post/setting/) [with](/post/with/) [a](/post/a/) fireplace [and](/post/and/) [comfortable](/post/comfortable/) seating."
+2. [The](/post/the/) circumstances, conditions, [or](/post/or/) [atmosphere](/post/atmosphere/) [in](/post/in/) [which](/post/which/) [something](/post/something/) happens [or](/post/or/) is experienced. **[Example](/post/example/):** "[The](/post/the/) book's [setting](/post/setting/) takes [place](/post/place/) [during](/post/during/) [World](/post/world/) [War](/post/war/) II."
+3. [A](/post/a/) [particular](/post/particular/) [time](/post/time/) [or](/post/or/) [period](/post/period/), [often](/post/often/) marked [by](/post/by/) [a](/post/a/) [distinct](/post/distinct/) [style](/post/style/) [or](/post/or/) cultural characteristics. **[Example](/post/example/):** "[The](/post/the/) [art](/post/art/) deco [setting](/post/setting/) [of](/post/of/) [the](/post/the/) 1920s influenced [many](/post/many/) designers."
+4. ([Film](/post/film/), TV) [The](/post/the/) [visual](/post/visual/) [appearance](/post/appearance/) [and](/post/and/) backdrop [of](/post/of/) [a](/post/a/) [scene](/post/scene/) [or](/post/or/) [story](/post/story/). **[Example](/post/example/):** "[The](/post/the/) show's colorful settings transported viewers [to](/post/to/) [a](/post/a/) magical [world](/post/world/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [prepare](/en/post/prepare/) [a](/en/post/a/) [place](/en/post/place/), [environment](/en/post/environment/), [or](/en/post/or/) [situation](/en/post/situation/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/) [or](/en/post/or/) [event](/en/post/event/). **[Example](/en/post/example/):** "[They](/en/post/they/) were [setting](/en/post/setting/) [up](/en/post/up/) [the](/en/post/the/) [conference](/en/post/conference/) [room](/en/post/room/) [for](/en/post/for/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-2. [To](/en/post/to/) [determine](/en/post/determine/) [or](/en/post/or/) [decide](/en/post/decide/) [on](/en/post/on/) [the](/en/post/the/) [value](/en/post/value/), [position](/en/post/position/), [or](/en/post/or/) parameters [of](/en/post/of/) [something](/en/post/something/). **[Example](/en/post/example/):** "[She](/en/post/she/) [set](/en/post/set/) [the](/en/post/the/) [price](/en/post/price/) [of](/en/post/of/) [her](/en/post/her/) paintings based [on](/en/post/on/) [market](/en/post/market/) [demand](/en/post/demand/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [establish](/post/establish/) [or](/post/or/) [prepare](/post/prepare/) [a](/post/a/) [place](/post/place/), [environment](/post/environment/), [or](/post/or/) [situation](/post/situation/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/) [or](/post/or/) [event](/post/event/). **[Example](/post/example/):** "[They](/post/they/) were [setting](/post/setting/) [up](/post/up/) [the](/post/the/) [conference](/post/conference/) [room](/post/room/) [for](/post/for/) [the](/post/the/) [meeting](/post/meeting/)."
+2. [To](/post/to/) [determine](/post/determine/) [or](/post/or/) [decide](/post/decide/) [on](/post/on/) [the](/post/the/) [value](/post/value/), [position](/post/position/), [or](/post/or/) parameters [of](/post/of/) [something](/post/something/). **[Example](/post/example/):** "[She](/post/she/) [set](/post/set/) [the](/post/the/) [price](/post/price/) [of](/post/of/) [her](/post/her/) paintings based [on](/post/on/) [market](/post/market/) [demand](/post/demand/)."
 
 ## Phrases
-- "[Create](/en/post/create/) [a](/en/post/a/) [setting](/en/post/setting/)" [means](/en/post/means/) [to](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) [establish](/en/post/establish/) an [environment](/en/post/environment/).
-- "[In](/en/post/in/) [a](/en/post/a/) [setting](/en/post/setting/) [of](/en/post/of/)" describes [the](/en/post/the/) [location](/en/post/location/) [or](/en/post/or/) [atmosphere](/en/post/atmosphere/) [of](/en/post/of/) [something](/en/post/something/).
-- "[Set](/en/post/set/) [the](/en/post/the/) [stage](/en/post/stage/) [for](/en/post/for/)" prepares [the](/en/post/the/) [way](/en/post/way/) [for](/en/post/for/) an [event](/en/post/event/) [or](/en/post/or/) [situation](/en/post/situation/).
+- "[Create](/post/create/) [a](/post/a/) [setting](/post/setting/)" [means](/post/means/) [to](/post/to/) [arrange](/post/arrange/) [or](/post/or/) [establish](/post/establish/) an [environment](/post/environment/).
+- "[In](/post/in/) [a](/post/a/) [setting](/post/setting/) [of](/post/of/)" describes [the](/post/the/) [location](/post/location/) [or](/post/or/) [atmosphere](/post/atmosphere/) [of](/post/of/) [something](/post/something/).
+- "[Set](/post/set/) [the](/post/the/) [stage](/post/stage/) [for](/post/for/)" prepares [the](/post/the/) [way](/post/way/) [for](/post/for/) an [event](/post/event/) [or](/post/or/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) carefully chose [the](/en/post/the/) lighting [setting](/en/post/setting/) [to](/en/post/to/) enhance [the](/en/post/the/) [mood](/en/post/mood/) [of](/en/post/of/) [the](/en/post/the/) [painting](/en/post/painting/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [set](/en/post/set/) [the](/en/post/the/) [table](/en/post/table/) [with](/en/post/with/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) [linen](/en/post/linen/) [cloth](/en/post/cloth/) [and](/en/post/and/) [fresh](/en/post/fresh/) flowers [for](/en/post/for/) [their](/en/post/their/) anniversary [dinner](/en/post/dinner/)."
-- **[Setting](/en/post/setting/) [a](/en/post/a/) [goal](/en/post/goal/)** [means](/en/post/means/) determining [what](/en/post/what/) [you](/en/post/you/) [want](/en/post/want/) [to](/en/post/to/) [achieve](/en/post/achieve/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) carefully chose [the](/post/the/) lighting [setting](/post/setting/) [to](/post/to/) enhance [the](/post/the/) [mood](/post/mood/) [of](/post/of/) [the](/post/the/) [painting](/post/painting/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) [set](/post/set/) [the](/post/the/) [table](/post/table/) [with](/post/with/) [a](/post/a/) [beautiful](/post/beautiful/) [linen](/post/linen/) [cloth](/post/cloth/) [and](/post/and/) [fresh](/post/fresh/) flowers [for](/post/for/) [their](/post/their/) anniversary [dinner](/post/dinner/)."
+- **[Setting](/post/setting/) [a](/post/a/) [goal](/post/goal/)** [means](/post/means/) determining [what](/post/what/) [you](/post/you/) [want](/post/want/) [to](/post/to/) [achieve](/post/achieve/).
 
 ## Synonyms
-- [Arrangement](/en/post/arrangement/)
-- [Layout](/en/post/layout/)
-- [Scene](/en/post/scene/)
-- [Atmosphere](/en/post/atmosphere/)
+- [Arrangement](/post/arrangement/)
+- [Layout](/post/layout/)
+- [Scene](/post/scene/)
+- [Atmosphere](/post/atmosphere/)
 - Configuration
-- [Situation](/en/post/situation/)
-- [Background](/en/post/background/)
+- [Situation](/post/situation/)
+- [Background](/post/background/)
 - Context
-- [Establish](/en/post/establish/)
-- [Position](/en/post/position/)
+- [Establish](/post/establish/)
+- [Position](/post/position/)

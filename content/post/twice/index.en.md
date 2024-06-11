@@ -7,34 +7,34 @@ description = '[twais] ad.两次，两倍'
 keywords = ['ai words', 'twice']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /twaɪs/
 
 ## Definitions
-### [Adverb](/en/post/adverb/)
-- **1.** [In](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [quantity](/en/post/quantity/) [or](/en/post/or/) [frequency](/en/post/frequency/): occurring [or](/en/post/or/) happening [twice](/en/post/twice/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) did [the](/en/post/the/) [task](/en/post/task/) [twice](/en/post/twice/) [to](/en/post/to/) [ensure](/en/post/ensure/) [accuracy](/en/post/accuracy/)."
-- **2.** [Exactly](/en/post/exactly/) [two](/en/post/two/) times; doubly. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) studied [twice](/en/post/twice/) [as](/en/post/as/) [hard](/en/post/hard/) [this](/en/post/this/) [time](/en/post/time/)."
+### [Adverb](/post/adverb/)
+- **1.** [In](/post/in/) [reference](/post/reference/) [to](/post/to/) [quantity](/post/quantity/) [or](/post/or/) [frequency](/post/frequency/): occurring [or](/post/or/) happening [twice](/post/twice/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) did [the](/post/the/) [task](/post/task/) [twice](/post/twice/) [to](/post/to/) [ensure](/post/ensure/) [accuracy](/post/accuracy/)."
+- **2.** [Exactly](/post/exactly/) [two](/post/two/) times; doubly. [For](/post/for/) [example](/post/example/): "[He](/post/he/) studied [twice](/post/twice/) [as](/post/as/) [hard](/post/hard/) [this](/post/this/) [time](/post/time/)."
 
 ## Phrases
-- "[Twice](/en/post/twice/) [a](/en/post/a/) [day](/en/post/day/)" refers [to](/en/post/to/) doing [something](/en/post/something/) [once](/en/post/once/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/) [and](/en/post/and/) [once](/en/post/once/) [in](/en/post/in/) [the](/en/post/the/) [evening](/en/post/evening/).
-- "[Twice](/en/post/twice/) [over](/en/post/over/)" [means](/en/post/means/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [twice](/en/post/twice/) [or](/en/post/or/) [in](/en/post/in/) duplicate.
-- "[Twice](/en/post/twice/) removed" indicates [a](/en/post/a/) [relationship](/en/post/relationship/) [that](/en/post/that/) is [two](/en/post/two/) degrees [of](/en/post/of/) [separation](/en/post/separation/).
+- "[Twice](/post/twice/) [a](/post/a/) [day](/post/day/)" refers [to](/post/to/) doing [something](/post/something/) [once](/post/once/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/) [and](/post/and/) [once](/post/once/) [in](/post/in/) [the](/post/the/) [evening](/post/evening/).
+- "[Twice](/post/twice/) [over](/post/over/)" [means](/post/means/) [to](/post/to/) [do](/post/do/) [something](/post/something/) [twice](/post/twice/) [or](/post/or/) [in](/post/in/) duplicate.
+- "[Twice](/post/twice/) removed" indicates [a](/post/a/) [relationship](/post/relationship/) [that](/post/that/) is [two](/post/two/) degrees [of](/post/of/) [separation](/post/separation/).
 
-## [Example](/en/post/example/) Sentences
-- "I [need](/en/post/need/) [to](/en/post/to/) [complete](/en/post/complete/) [this](/en/post/this/) [project](/en/post/project/) [twice](/en/post/twice/) [as](/en/post/as/) [fast](/en/post/fast/) [to](/en/post/to/) [meet](/en/post/meet/) [the](/en/post/the/) deadline."
-- "[She](/en/post/she/) visited [her](/en/post/her/) grandparents [twice](/en/post/twice/) [a](/en/post/a/) [month](/en/post/month/) [when](/en/post/when/) [she](/en/post/she/) was [a](/en/post/a/) [child](/en/post/child/)."
-- "[The](/en/post/the/) [team](/en/post/team/) played [twice](/en/post/twice/) [and](/en/post/and/) won [both](/en/post/both/) matches."
+## [Example](/post/example/) Sentences
+- "I [need](/post/need/) [to](/post/to/) [complete](/post/complete/) [this](/post/this/) [project](/post/project/) [twice](/post/twice/) [as](/post/as/) [fast](/post/fast/) [to](/post/to/) [meet](/post/meet/) [the](/post/the/) deadline."
+- "[She](/post/she/) visited [her](/post/her/) grandparents [twice](/post/twice/) [a](/post/a/) [month](/post/month/) [when](/post/when/) [she](/post/she/) was [a](/post/a/) [child](/post/child/)."
+- "[The](/post/the/) [team](/post/team/) played [twice](/post/twice/) [and](/post/and/) won [both](/post/both/) matches."
 
 ## Synonyms
-- [Double](/en/post/double/)
+- [Double](/post/double/)
 - Twice-over
-- [Repeatedly](/en/post/repeatedly/)
+- [Repeatedly](/post/repeatedly/)
 - Doubled-up
-- [Twice](/en/post/twice/) [round](/en/post/round/)
+- [Twice](/post/twice/) [round](/post/round/)
 
 ## Antonyms
-- [Once](/en/post/once/)
-- [Single](/en/post/single/)
+- [Once](/post/once/)
+- [Single](/post/single/)
 - Unrepeated
 - Unmatched
-- [Not](/en/post/not/) [twice](/en/post/twice/)
+- [Not](/post/not/) [twice](/post/twice/)

@@ -7,28 +7,28 @@ description = '[ˈhedˌkwɔːtəz] n.司令部；总部'
 keywords = ['ai words', 'headquarters']
 +++
 
-## [Word](/en/post/word/): [Headquarters](/en/post/headquarters/)
+## [Word](/post/word/): [Headquarters](/post/headquarters/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌhɛdˌkwɔːrtərz/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [main](/en/post/main/) administrative [office](/en/post/office/) [or](/en/post/or/) center [of](/en/post/of/) an [organization](/en/post/organization/), typically [where](/en/post/where/) [key](/en/post/key/) decisions are made [and](/en/post/and/) [from](/en/post/from/) [which](/en/post/which/) [other](/en/post/other/) branches [or](/en/post/or/) operations are directed. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [building](/en/post/building/) [or](/en/post/or/) [complex](/en/post/complex/) [that](/en/post/that/) houses [such](/en/post/such/) an [office](/en/post/office/).
+- **[Noun](/post/noun/)**: [The](/post/the/) [main](/post/main/) administrative [office](/post/office/) [or](/post/or/) center [of](/post/of/) an [organization](/post/organization/), typically [where](/post/where/) [key](/post/key/) decisions are made [and](/post/and/) [from](/post/from/) [which](/post/which/) [other](/post/other/) branches [or](/post/or/) operations are directed. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [building](/post/building/) [or](/post/or/) [complex](/post/complex/) [that](/post/that/) houses [such](/post/such/) an [office](/post/office/).
 
-[Example](/en/post/example/) sentences:
-- _The company's global [headquarters](/en/post/headquarters/) is located [in](/en/post/in/) [New](/en/post/new/) York [City](/en/post/city/)._
-- _After [the](/en/post/the/) merger, [they](/en/post/they/) decided [to](/en/post/to/) consolidate [their](/en/post/their/) [headquarters](/en/post/headquarters/) [in](/en/post/in/) Silicon [Valley](/en/post/valley/)._
+[Example](/post/example/) sentences:
+- _The company's global [headquarters](/post/headquarters/) is located [in](/post/in/) [New](/post/new/) York [City](/post/city/)._
+- _After [the](/post/the/) merger, [they](/post/they/) decided [to](/post/to/) consolidate [their](/post/their/) [headquarters](/post/headquarters/) [in](/post/in/) Silicon [Valley](/post/valley/)._
 
 Phrases:
-- "[Headquarters](/en/post/headquarters/) [staff](/en/post/staff/)" refers [to](/en/post/to/) [the](/en/post/the/) [personnel](/en/post/personnel/) [who](/en/post/who/) [work](/en/post/work/) [at](/en/post/at/) [the](/en/post/the/) [central](/en/post/central/) administrative [office](/en/post/office/).
-- "[Report](/en/post/report/) [to](/en/post/to/) [headquarters](/en/post/headquarters/)" [means](/en/post/means/) [to](/en/post/to/) [communicate](/en/post/communicate/) [with](/en/post/with/) [or](/en/post/or/) [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [main](/en/post/main/) [office](/en/post/office/) [for](/en/post/for/) instructions [or](/en/post/or/) [guidance](/en/post/guidance/).
-- "[Headquarters](/en/post/headquarters/) issued [a](/en/post/a/) directive" implies [that](/en/post/that/) [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [instruction](/en/post/instruction/) came [from](/en/post/from/) [the](/en/post/the/) [top](/en/post/top/) [level](/en/post/level/) [of](/en/post/of/) [management](/en/post/management/).
+- "[Headquarters](/post/headquarters/) [staff](/post/staff/)" refers [to](/post/to/) [the](/post/the/) [personnel](/post/personnel/) [who](/post/who/) [work](/post/work/) [at](/post/at/) [the](/post/the/) [central](/post/central/) administrative [office](/post/office/).
+- "[Report](/post/report/) [to](/post/to/) [headquarters](/post/headquarters/)" [means](/post/means/) [to](/post/to/) [communicate](/post/communicate/) [with](/post/with/) [or](/post/or/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [main](/post/main/) [office](/post/office/) [for](/post/for/) instructions [or](/post/or/) [guidance](/post/guidance/).
+- "[Headquarters](/post/headquarters/) issued [a](/post/a/) directive" implies [that](/post/that/) [a](/post/a/) [decision](/post/decision/) [or](/post/or/) [instruction](/post/instruction/) came [from](/post/from/) [the](/post/the/) [top](/post/top/) [level](/post/level/) [of](/post/of/) [management](/post/management/).
 
 ## Synonyms
-- [Main](/en/post/main/) [office](/en/post/office/)
-- Corporate [office](/en/post/office/)
-- [Home](/en/post/home/) [office](/en/post/office/)
-- [Central](/en/post/central/) [office](/en/post/office/)
-- [Base](/en/post/base/) [of](/en/post/of/) operations
+- [Main](/post/main/) [office](/post/office/)
+- Corporate [office](/post/office/)
+- [Home](/post/home/) [office](/post/office/)
+- [Central](/post/central/) [office](/post/office/)
+- [Base](/post/base/) [of](/post/of/) operations
 - Administrative center
 - HQ (abbreviation)

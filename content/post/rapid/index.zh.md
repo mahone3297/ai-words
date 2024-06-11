@@ -11,20 +11,20 @@ keywords = ['ai words', 'rapid']
 /ˈræpɪd/
 
 ## 释义
-- **形容词**: 快速的，迅速的，疾速的。例如: "[The](/post/the/) [river](/post/river/) was flowing [with](/post/with/) [a](/post/a/) [rapid](/post/rapid/) [current](/post/current/)."
-- **名词**: （尤指水流）急流，湍流。例如: "[They](/post/they/) navigated [through](/post/through/) [the](/post/the/) rapids [with](/post/with/) [skill](/post/skill/)."
+- **形容词**: 快速的，迅速的，疾速的。例如: "[The](/zh/post/the/) [river](/zh/post/river/) was flowing [with](/zh/post/with/) [a](/zh/post/a/) [rapid](/zh/post/rapid/) [current](/zh/post/current/)."
+- **名词**: （尤指水流）急流，湍流。例如: "[They](/zh/post/they/) navigated [through](/zh/post/through/) [the](/zh/post/the/) rapids [with](/zh/post/with/) [skill](/zh/post/skill/)."
 
 ## 短语
-- "[At](/post/at/) [a](/post/a/) [rapid](/post/rapid/) [pace](/post/pace/)" 意为以很快的速度。
-- "[Rapid](/post/rapid/) [fire](/post/fire/)" 通常用来描述快速连续的射击或发言。
+- "[At](/zh/post/at/) [a](/zh/post/a/) [rapid](/zh/post/rapid/) [pace](/zh/post/pace/)" 意为以很快的速度。
+- "[Rapid](/zh/post/rapid/) [fire](/zh/post/fire/)" 通常用来描述快速连续的射击或发言。
 
 ## 例句
-- 形容词: "[The](/post/the/) [new](/post/new/) [technology](/post/technology/) has brought [about](/post/about/) [rapid](/post/rapid/) changes [in](/post/in/) [our](/post/our/) [daily](/post/daily/) lives."
-- 名词: "[The](/post/the/) kayakers faced challenging rapids [on](/post/on/) [their](/post/their/) [adventure](/post/adventure/) [down](/post/down/) [the](/post/the/) [river](/post/river/)."
+- 形容词: "[The](/zh/post/the/) [new](/zh/post/new/) [technology](/zh/post/technology/) has brought [about](/zh/post/about/) [rapid](/zh/post/rapid/) changes [in](/zh/post/in/) [our](/zh/post/our/) [daily](/zh/post/daily/) lives."
+- 名词: "[The](/zh/post/the/) kayakers faced challenging rapids [on](/zh/post/on/) [their](/zh/post/their/) [adventure](/zh/post/adventure/) [down](/zh/post/down/) [the](/zh/post/the/) [river](/zh/post/river/)."
 
 ## 同义词
-- [Swift](/post/swift/)
-- [Quick](/post/quick/)
-- [Fast](/post/fast/)
-- [Hasty](/post/hasty/)
-- [Immediate](/post/immediate/)
+- [Swift](/zh/post/swift/)
+- [Quick](/zh/post/quick/)
+- [Fast](/zh/post/fast/)
+- [Hasty](/zh/post/hasty/)
+- [Immediate](/zh/post/immediate/)

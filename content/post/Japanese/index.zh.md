@@ -11,17 +11,17 @@ keywords = ['ai words', 'Japanese']
 /ˌdʒəpəˈneɪz/
 
 ## 释义
-- **形容词**: 日本的，源自日本的。例如: "[She](/post/she/) is wearing [a](/post/a/) [beautiful](/post/beautiful/) Japanese kimono."
-- **名词**: 日本人，日语。例如: "[He](/post/he/) [can](/post/can/) [speak](/post/speak/) [fluent](/post/fluent/) Japanese."
+- **形容词**: 日本的，源自日本的。例如: "[She](/zh/post/she/) is wearing [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) Japanese kimono."
+- **名词**: 日本人，日语。例如: "[He](/zh/post/he/) [can](/zh/post/can/) [speak](/zh/post/speak/) [fluent](/zh/post/fluent/) Japanese."
 
 ## 短语
-- "Japanese [culture](/post/culture/)" 指的是日本的文化。
+- "Japanese [culture](/zh/post/culture/)" 指的是日本的文化。
 - "Japanese cuisine" 指的是日本料理。
-- "[The](/post/the/) Japanese yen" 是日本的货币单位。
+- "[The](/zh/post/the/) Japanese yen" 是日本的货币单位。
 
 ## 例句
-- 形容词: "I [love](/post/love/) listening [to](/post/to/) [traditional](/post/traditional/) Japanese [music](/post/music/)."
-- 名词: "[She](/post/she/) is studying Japanese [at](/post/at/) [university](/post/university/) [to](/post/to/) [prepare](/post/prepare/) [for](/post/for/) [her](/post/her/) [trip](/post/trip/) [to](/post/to/) Japan."
+- 形容词: "I [love](/zh/post/love/) listening [to](/zh/post/to/) [traditional](/zh/post/traditional/) Japanese [music](/zh/post/music/)."
+- 名词: "[She](/zh/post/she/) is studying Japanese [at](/zh/post/at/) [university](/zh/post/university/) [to](/zh/post/to/) [prepare](/zh/post/prepare/) [for](/zh/post/for/) [her](/zh/post/her/) [trip](/zh/post/trip/) [to](/zh/post/to/) Japan."
 
 ## 同义词
 - Japanese:

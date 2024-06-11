@@ -7,35 +7,35 @@ description = '[ədˈvəːtismənt] n.广告；公告；登广告'
 keywords = ['ai words', 'advertisement']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈdævərtaɪzmənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) paid announcement [in](/en/post/in/) [print](/en/post/print/), [on](/en/post/on/) [radio](/en/post/radio/), [television](/en/post/television/), [or](/en/post/or/) [the](/en/post/the/) internet, designed [to](/en/post/to/) [promote](/en/post/promote/) [a](/en/post/a/) [product](/en/post/product/), [service](/en/post/service/), [or](/en/post/or/) [event](/en/post/event/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) placed [a](/en/post/a/) [prominent](/en/post/prominent/) [advertisement](/en/post/advertisement/) [in](/en/post/in/) [the](/en/post/the/) [newspaper](/en/post/newspaper/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [or](/en/post/or/) [publish](/en/post/publish/) an [advertisement](/en/post/advertisement/). [Example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) advertise [their](/en/post/their/) [new](/en/post/new/) [product](/en/post/product/) [on](/en/post/on/) [social](/en/post/social/) media."
-- **[Noun](/en/post/noun/) (countable)**: An [individual](/en/post/individual/) [instance](/en/post/instance/) [of](/en/post/of/) an [advertisement](/en/post/advertisement/). [Example](/en/post/example/): "[She](/en/post/she/) [saw](/en/post/saw/) [several](/en/post/several/) advertisements [for](/en/post/for/) [the](/en/post/the/) [same](/en/post/same/) [sale](/en/post/sale/) [on](/en/post/on/) billboards."
+- **[Noun](/post/noun/)**: [A](/post/a/) paid announcement [in](/post/in/) [print](/post/print/), [on](/post/on/) [radio](/post/radio/), [television](/post/television/), [or](/post/or/) [the](/post/the/) internet, designed [to](/post/to/) [promote](/post/promote/) [a](/post/a/) [product](/post/product/), [service](/post/service/), [or](/post/or/) [event](/post/event/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) placed [a](/post/a/) [prominent](/post/prominent/) [advertisement](/post/advertisement/) [in](/post/in/) [the](/post/the/) [newspaper](/post/newspaper/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [or](/post/or/) [publish](/post/publish/) an [advertisement](/post/advertisement/). [Example](/post/example/): "[They](/post/they/) decided [to](/post/to/) advertise [their](/post/their/) [new](/post/new/) [product](/post/product/) [on](/post/on/) [social](/post/social/) media."
+- **[Noun](/post/noun/) (countable)**: An [individual](/post/individual/) [instance](/post/instance/) [of](/post/of/) an [advertisement](/post/advertisement/). [Example](/post/example/): "[She](/post/she/) [saw](/post/saw/) [several](/post/several/) advertisements [for](/post/for/) [the](/post/the/) [same](/post/same/) [sale](/post/sale/) [on](/post/on/) billboards."
 
 ## Phrases
-- "[Run](/en/post/run/) an [advertisement](/en/post/advertisement/)" [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [and](/en/post/and/) [publish](/en/post/publish/) an [ad](/en/post/ad/).
-- "[Place](/en/post/place/) an [advertisement](/en/post/advertisement/)" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) putting an [ad](/en/post/ad/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [location](/en/post/location/).
-- "Sponsored [advertisement](/en/post/advertisement/)" indicates [that](/en/post/that/) [the](/en/post/the/) [ad](/en/post/ad/) is paid [for](/en/post/for/) [by](/en/post/by/) [a](/en/post/a/) [sponsor](/en/post/sponsor/).
+- "[Run](/post/run/) an [advertisement](/post/advertisement/)" [means](/post/means/) [to](/post/to/) [create](/post/create/) [and](/post/and/) [publish](/post/publish/) an [ad](/post/ad/).
+- "[Place](/post/place/) an [advertisement](/post/advertisement/)" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) putting an [ad](/post/ad/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [location](/post/location/).
+- "Sponsored [advertisement](/post/advertisement/)" indicates [that](/post/that/) [the](/post/the/) [ad](/post/ad/) is paid [for](/post/for/) [by](/post/by/) [a](/post/a/) [sponsor](/post/sponsor/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's latest [advertisement](/en/post/advertisement/) featured [a](/en/post/a/) celebrity endorsement."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) [recently](/en/post/recently/) advertised [their](/en/post/their/) services [to](/en/post/to/) [attract](/en/post/attract/) [new](/en/post/new/) clients."
-- **[Noun](/en/post/noun/) (countable)**: "I saved [the](/en/post/the/) brochure [with](/en/post/with/) [multiple](/en/post/multiple/) advertisements [for](/en/post/for/) [the](/en/post/the/) [local](/en/post/local/) [art](/en/post/art/) [festival](/en/post/festival/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) company's latest [advertisement](/post/advertisement/) featured [a](/post/a/) celebrity endorsement."
+- **[Verb](/post/verb/)**: "[They](/post/they/) [recently](/post/recently/) advertised [their](/post/their/) services [to](/post/to/) [attract](/post/attract/) [new](/post/new/) clients."
+- **[Noun](/post/noun/) (countable)**: "I saved [the](/post/the/) brochure [with](/post/with/) [multiple](/post/multiple/) advertisements [for](/post/for/) [the](/post/the/) [local](/post/local/) [art](/post/art/) [festival](/post/festival/)."
 
 ## Synonyms
-- [Ad](/en/post/ad/)
-- [Commercial](/en/post/commercial/)
+- [Ad](/post/ad/)
+- [Commercial](/post/commercial/)
 - Promotion
 - Announcement
-- [Spot](/en/post/spot/)
-- [Campaign](/en/post/campaign/)
+- [Spot](/post/spot/)
+- [Campaign](/post/campaign/)
 - Publicity
 
 ## Antonyms
 - Concealment
 - Obfuscation
-- [Secret](/en/post/secret/)
-- [Silence](/en/post/silence/) ([in](/en/post/in/) terms [of](/en/post/of/) advertising)
+- [Secret](/post/secret/)
+- [Silence](/post/silence/) ([in](/post/in/) terms [of](/post/of/) advertising)

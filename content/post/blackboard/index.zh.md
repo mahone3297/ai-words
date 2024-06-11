@@ -11,16 +11,16 @@ keywords = ['ai words', 'blackboard']
 /ˈblækbɔːrd/
 
 ## 释义
-- **名词 (n)**: 一种平滑的硬表面，通常为黑色，用于写字或展示，尤指在教室里。例如: "[The](/post/the/) [teacher](/post/teacher/) wrote [the](/post/the/) [lesson](/post/lesson/) [on](/post/on/) [the](/post/the/) [blackboard](/post/blackboard/)."
-- **动词 (v)**: 在黑板上写字或画图。例如: "[She](/post/she/) blackboarded [the](/post/the/) [key](/post/key/) points [for](/post/for/) [the](/post/the/) students [to](/post/to/) [copy](/post/copy/)."
+- **名词 (n)**: 一种平滑的硬表面，通常为黑色，用于写字或展示，尤指在教室里。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) wrote [the](/zh/post/the/) [lesson](/zh/post/lesson/) [on](/zh/post/on/) [the](/zh/post/the/) [blackboard](/zh/post/blackboard/)."
+- **动词 (v)**: 在黑板上写字或画图。例如: "[She](/zh/post/she/) blackboarded [the](/zh/post/the/) [key](/zh/post/key/) points [for](/zh/post/for/) [the](/zh/post/the/) students [to](/zh/post/to/) [copy](/zh/post/copy/)."
 
 ## 短语
-- "[Write](/post/write/) [on](/post/on/) [the](/post/the/) [blackboard](/post/blackboard/)" 意思是在黑板上写字。
-- "Erase [the](/post/the/) [blackboard](/post/blackboard/)" 擦掉黑板上的字。
+- "[Write](/zh/post/write/) [on](/zh/post/on/) [the](/zh/post/the/) [blackboard](/zh/post/blackboard/)" 意思是在黑板上写字。
+- "Erase [the](/zh/post/the/) [blackboard](/zh/post/blackboard/)" 擦掉黑板上的字。
 
 ## 例句
-- 名词: "[The](/post/the/) children gathered [around](/post/around/) [the](/post/the/) [blackboard](/post/blackboard/) [as](/post/as/) [the](/post/the/) [teacher](/post/teacher/) began [the](/post/the/) [lesson](/post/lesson/)."
-- 动词: "[The](/post/the/) math [teacher](/post/teacher/) blackboarded [the](/post/the/) [equation](/post/equation/) [step](/post/step/) [by](/post/by/) [step](/post/step/)."
+- 名词: "[The](/zh/post/the/) children gathered [around](/zh/post/around/) [the](/zh/post/the/) [blackboard](/zh/post/blackboard/) [as](/zh/post/as/) [the](/zh/post/the/) [teacher](/zh/post/teacher/) began [the](/zh/post/the/) [lesson](/zh/post/lesson/)."
+- 动词: "[The](/zh/post/the/) math [teacher](/zh/post/teacher/) blackboarded [the](/zh/post/the/) [equation](/zh/post/equation/) [step](/zh/post/step/) [by](/zh/post/by/) [step](/zh/post/step/)."
 
 ## 同义词
 - Chalkboard

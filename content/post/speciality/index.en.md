@@ -7,29 +7,29 @@ description = '[ˌspe∫iˈæliti] n.专业，特长；特产'
 keywords = ['ai words', 'speciality']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈspɛʃələti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [particular](/en/post/particular/) [skill](/en/post/skill/), [occupation](/en/post/occupation/), [or](/en/post/or/) [product](/en/post/product/) [that](/en/post/that/) [someone](/en/post/someone/) is [especially](/en/post/especially/) [good](/en/post/good/) [at](/en/post/at/) [or](/en/post/or/) known [for](/en/post/for/). [Also](/en/post/also/), [a](/en/post/a/) [dish](/en/post/dish/) [or](/en/post/or/) specialty [meal](/en/post/meal/) served [in](/en/post/in/) [a](/en/post/a/) [restaurant](/en/post/restaurant/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) culinary [speciality](/en/post/speciality/) is French cuisine."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [person](/en/post/person/) [or](/en/post/or/) [place](/en/post/place/); [unique](/en/post/unique/) [or](/en/post/or/) exceptional. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) town's [speciality](/en/post/speciality/) is [its](/en/post/its/) picturesque [architecture](/en/post/architecture/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [particular](/post/particular/) [skill](/post/skill/), [occupation](/post/occupation/), [or](/post/or/) [product](/post/product/) [that](/post/that/) [someone](/post/someone/) is [especially](/post/especially/) [good](/post/good/) [at](/post/at/) [or](/post/or/) known [for](/post/for/). [Also](/post/also/), [a](/post/a/) [dish](/post/dish/) [or](/post/or/) specialty [meal](/post/meal/) served [in](/post/in/) [a](/post/a/) [restaurant](/post/restaurant/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) culinary [speciality](/post/speciality/) is French cuisine."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [person](/post/person/) [or](/post/or/) [place](/post/place/); [unique](/post/unique/) [or](/post/or/) exceptional. [For](/post/for/) [example](/post/example/): "[The](/post/the/) town's [speciality](/post/speciality/) is [its](/post/its/) picturesque [architecture](/post/architecture/)."
 
 ## Phrases
-- "[A](/en/post/a/) person's [area](/en/post/area/) [of](/en/post/of/) [speciality](/en/post/speciality/)" refers [to](/en/post/to/) [their](/en/post/their/) expertise [or](/en/post/or/) [field](/en/post/field/) [they](/en/post/they/) excel [in](/en/post/in/).
-- "[To](/en/post/to/) showcase one's [speciality](/en/post/speciality/)" [means](/en/post/means/) [to](/en/post/to/) [demonstrate](/en/post/demonstrate/) [their](/en/post/their/) [unique](/en/post/unique/) abilities [or](/en/post/or/) skills.
-- "Ordering [a](/en/post/a/) [speciality](/en/post/speciality/) [dish](/en/post/dish/)" is [common](/en/post/common/) [when](/en/post/when/) trying [something](/en/post/something/) [specific](/en/post/specific/) [at](/en/post/at/) [a](/en/post/a/) [restaurant](/en/post/restaurant/).
+- "[A](/post/a/) person's [area](/post/area/) [of](/post/of/) [speciality](/post/speciality/)" refers [to](/post/to/) [their](/post/their/) expertise [or](/post/or/) [field](/post/field/) [they](/post/they/) excel [in](/post/in/).
+- "[To](/post/to/) showcase one's [speciality](/post/speciality/)" [means](/post/means/) [to](/post/to/) [demonstrate](/post/demonstrate/) [their](/post/their/) [unique](/post/unique/) abilities [or](/post/or/) skills.
+- "Ordering [a](/post/a/) [speciality](/post/speciality/) [dish](/post/dish/)" is [common](/post/common/) [when](/post/when/) trying [something](/post/something/) [specific](/post/specific/) [at](/post/at/) [a](/post/a/) [restaurant](/post/restaurant/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[As](/en/post/as/) [a](/en/post/a/) graphic designer, [his](/en/post/his/) [speciality](/en/post/speciality/) is creating stunning [visual](/en/post/visual/) identities [for](/en/post/for/) brands."
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [small](/en/post/small/) bakery boasts [a](/en/post/a/) [wide](/en/post/wide/) [range](/en/post/range/) [of](/en/post/of/) [delicious](/en/post/delicious/) pastries, [with](/en/post/with/) [their](/en/post/their/) croissants [being](/en/post/being/) [a](/en/post/a/) [speciality](/en/post/speciality/)."
-- **[Noun](/en/post/noun/) ([restaurant](/en/post/restaurant/) context)**: "[The](/en/post/the/) restaurant's [signature](/en/post/signature/) [dish](/en/post/dish/), [the](/en/post/the/) seafood paella, is [a](/en/post/a/) [true](/en/post/true/) [speciality](/en/post/speciality/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[As](/post/as/) [a](/post/a/) graphic designer, [his](/post/his/) [speciality](/post/speciality/) is creating stunning [visual](/post/visual/) identities [for](/post/for/) brands."
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [small](/post/small/) bakery boasts [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) [delicious](/post/delicious/) pastries, [with](/post/with/) [their](/post/their/) croissants [being](/post/being/) [a](/post/a/) [speciality](/post/speciality/)."
+- **[Noun](/post/noun/) ([restaurant](/post/restaurant/) context)**: "[The](/post/the/) restaurant's [signature](/post/signature/) [dish](/post/dish/), [the](/post/the/) seafood paella, is [a](/post/a/) [true](/post/true/) [speciality](/post/speciality/)."
 
 ## Synonyms
 - Expertise
-- [Special](/en/post/special/) [talent](/en/post/talent/)
+- [Special](/post/special/) [talent](/post/talent/)
 - forte
 - niche
 - excellence
-- specialty [dish](/en/post/dish/)
+- specialty [dish](/post/dish/)
 - trademark
-- [unique](/en/post/unique/) offering
+- [unique](/post/unique/) offering

@@ -11,18 +11,18 @@ keywords = ['ai words', 'editor']
 /ˈɛdɪtər/
 
 ## 释义
-- **名词 (n)**: 负责编辑、校对和修改文本的人，尤指在出版、新闻或计算机程序中的角色。例如: "[The](/post/the/) [editor](/post/editor/) [of](/post/of/) [the](/post/the/) [magazine](/post/magazine/) has [a](/post/a/) [keen](/post/keen/) [eye](/post/eye/) [for](/post/for/) [detail](/post/detail/)."
-- **名词**: 在计算机软件中，用于创建、修改和格式化文本的程序。例如: "I'm using [a](/post/a/) [text](/post/text/) [editor](/post/editor/) [to](/post/to/) [write](/post/write/) [this](/post/this/) [code](/post/code/)."
-- **动词**: 执行编辑工作，如校对、修改或审查文本。例如: "[She](/post/she/) edited [the](/post/the/) manuscript [to](/post/to/) [improve](/post/improve/) [its](/post/its/) [flow](/post/flow/)."
+- **名词 (n)**: 负责编辑、校对和修改文本的人，尤指在出版、新闻或计算机程序中的角色。例如: "[The](/zh/post/the/) [editor](/zh/post/editor/) [of](/zh/post/of/) [the](/zh/post/the/) [magazine](/zh/post/magazine/) has [a](/zh/post/a/) [keen](/zh/post/keen/) [eye](/zh/post/eye/) [for](/zh/post/for/) [detail](/zh/post/detail/)."
+- **名词**: 在计算机软件中，用于创建、修改和格式化文本的程序。例如: "I'm using [a](/zh/post/a/) [text](/zh/post/text/) [editor](/zh/post/editor/) [to](/zh/post/to/) [write](/zh/post/write/) [this](/zh/post/this/) [code](/zh/post/code/)."
+- **动词**: 执行编辑工作，如校对、修改或审查文本。例如: "[She](/zh/post/she/) edited [the](/zh/post/the/) manuscript [to](/zh/post/to/) [improve](/zh/post/improve/) [its](/zh/post/its/) [flow](/zh/post/flow/)."
 
 ## 短语
-- "[Content](/post/content/) [editor](/post/editor/)" 指负责编辑文章或网站内容的人员。
-- "[Code](/post/code/) [editor](/post/editor/)" 是用于编写计算机代码的工具。
-- "[Video](/post/video/) [editor](/post/editor/)" 是指处理视频剪辑的专业人士。
+- "[Content](/zh/post/content/) [editor](/zh/post/editor/)" 指负责编辑文章或网站内容的人员。
+- "[Code](/zh/post/code/) [editor](/zh/post/editor/)" 是用于编写计算机代码的工具。
+- "[Video](/zh/post/video/) [editor](/zh/post/editor/)" 是指处理视频剪辑的专业人士。
 
 ## 例句
-- 名词: "[The](/post/the/) book's [editor](/post/editor/) made [several](/post/several/) suggestions [to](/post/to/) [improve](/post/improve/) [the](/post/the/) [plot](/post/plot/)."
-- 动词: "[She](/post/she/) is editing [the](/post/the/) [video](/post/video/) footage [to](/post/to/) [create](/post/create/) [a](/post/a/) [short](/post/short/) [film](/post/film/)."
+- 名词: "[The](/zh/post/the/) book's [editor](/zh/post/editor/) made [several](/zh/post/several/) suggestions [to](/zh/post/to/) [improve](/zh/post/improve/) [the](/zh/post/the/) [plot](/zh/post/plot/)."
+- 动词: "[She](/zh/post/she/) is editing [the](/zh/post/the/) [video](/zh/post/video/) footage [to](/zh/post/to/) [create](/zh/post/create/) [a](/zh/post/a/) [short](/zh/post/short/) [film](/zh/post/film/)."
 
 ## 同义词
 - Reviser

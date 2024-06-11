@@ -7,34 +7,34 @@ description = '[ˌiləsˈtrei∫ən] n.说明，图解；例证'
 keywords = ['ai words', 'illustration']
 +++
 
-## [Word](/en/post/word/): [Illustration](/en/post/illustration/)
+## [Word](/post/word/): [Illustration](/post/illustration/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˌlʌstɹeɪˈteɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [visual](/en/post/visual/) representation [or](/en/post/or/) depiction [that](/en/post/that/) explains, clarifies, [or](/en/post/or/) decorates [a](/en/post/a/) [text](/en/post/text/), [concept](/en/post/concept/), [or](/en/post/or/) [idea](/en/post/idea/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [drawing](/en/post/drawing/), [sketch](/en/post/sketch/), [diagram](/en/post/diagram/), [photograph](/en/post/photograph/), [or](/en/post/or/) [any](/en/post/any/) [other](/en/post/other/) graphic [art](/en/post/art/) [form](/en/post/form/). [Example](/en/post/example/): "[The](/en/post/the/) children's [book](/en/post/book/) was filled [with](/en/post/with/) colorful illustrations."
-  - _As [a](/en/post/a/) verb_: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) explaining [or](/en/post/or/) making [something](/en/post/something/) [clear](/en/post/clear/) [by](/en/post/by/) using examples [or](/en/post/or/) pictures. [Example](/en/post/example/): "[The](/en/post/the/) [author](/en/post/author/) effectively illustrated [her](/en/post/her/) [point](/en/post/point/) [with](/en/post/with/) [several](/en/post/several/) [case](/en/post/case/) studies."
+- **[Noun](/post/noun/)**: [A](/post/a/) [visual](/post/visual/) representation [or](/post/or/) depiction [that](/post/that/) explains, clarifies, [or](/post/or/) decorates [a](/post/a/) [text](/post/text/), [concept](/post/concept/), [or](/post/or/) [idea](/post/idea/). [It](/post/it/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [drawing](/post/drawing/), [sketch](/post/sketch/), [diagram](/post/diagram/), [photograph](/post/photograph/), [or](/post/or/) [any](/post/any/) [other](/post/other/) graphic [art](/post/art/) [form](/post/form/). [Example](/post/example/): "[The](/post/the/) children's [book](/post/book/) was filled [with](/post/with/) colorful illustrations."
+  - _As [a](/post/a/) verb_: [The](/post/the/) [act](/post/act/) [of](/post/of/) explaining [or](/post/or/) making [something](/post/something/) [clear](/post/clear/) [by](/post/by/) using examples [or](/post/or/) pictures. [Example](/post/example/): "[The](/post/the/) [author](/post/author/) effectively illustrated [her](/post/her/) [point](/post/point/) [with](/post/with/) [several](/post/several/) [case](/post/case/) studies."
 
 ## Phrases
-- "Illustrations [in](/en/post/in/) [a](/en/post/a/) [book](/en/post/book/)" [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) images included [within](/en/post/within/) [its](/en/post/its/) pages [to](/en/post/to/) enhance [understanding](/en/post/understanding/).
-- "An illustrative [example](/en/post/example/)" is [one](/en/post/one/) [that](/en/post/that/) serves [to](/en/post/to/) [clarify](/en/post/clarify/) [or](/en/post/or/) [demonstrate](/en/post/demonstrate/) [a](/en/post/a/) [concept](/en/post/concept/).
-- "[To](/en/post/to/) [illustrate](/en/post/illustrate/) [a](/en/post/a/) [point](/en/post/point/)" [means](/en/post/means/) [to](/en/post/to/) [provide](/en/post/provide/) [evidence](/en/post/evidence/) [or](/en/post/or/) an [explanation](/en/post/explanation/) [that](/en/post/that/) supports [or](/en/post/or/) demonstrates [it](/en/post/it/).
+- "Illustrations [in](/post/in/) [a](/post/a/) [book](/post/book/)" [refer](/post/refer/) [to](/post/to/) [the](/post/the/) images included [within](/post/within/) [its](/post/its/) pages [to](/post/to/) enhance [understanding](/post/understanding/).
+- "An illustrative [example](/post/example/)" is [one](/post/one/) [that](/post/that/) serves [to](/post/to/) [clarify](/post/clarify/) [or](/post/or/) [demonstrate](/post/demonstrate/) [a](/post/a/) [concept](/post/concept/).
+- "[To](/post/to/) [illustrate](/post/illustrate/) [a](/post/a/) [point](/post/point/)" [means](/post/means/) [to](/post/to/) [provide](/post/provide/) [evidence](/post/evidence/) [or](/post/or/) an [explanation](/post/explanation/) [that](/post/that/) supports [or](/post/or/) demonstrates [it](/post/it/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [scientific](/en/post/scientific/) [paper](/en/post/paper/) included [several](/en/post/several/) [complex](/en/post/complex/) illustrations [to](/en/post/to/) [help](/en/post/help/) readers [understand](/en/post/understand/) [the](/en/post/the/) [experiment](/en/post/experiment/)."
-- **[Verb](/en/post/verb/)**: "[Her](/en/post/her/) [personal](/en/post/personal/) experiences vividly illustrated [the](/en/post/the/) challenges faced [by](/en/post/by/) immigrants."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [scientific](/post/scientific/) [paper](/post/paper/) included [several](/post/several/) [complex](/post/complex/) illustrations [to](/post/to/) [help](/post/help/) readers [understand](/post/understand/) [the](/post/the/) [experiment](/post/experiment/)."
+- **[Verb](/post/verb/)**: "[Her](/post/her/) [personal](/post/personal/) experiences vividly illustrated [the](/post/the/) challenges faced [by](/post/by/) immigrants."
 
 ## Synonyms
-- [Diagram](/en/post/diagram/)
-- [Picture](/en/post/picture/)
-- [Drawing](/en/post/drawing/)
-- [Sketch](/en/post/sketch/)
+- [Diagram](/post/diagram/)
+- [Picture](/post/picture/)
+- [Drawing](/post/drawing/)
+- [Sketch](/post/sketch/)
 - Depiction
 - Representation
-- [Image](/en/post/image/)
+- [Image](/post/image/)
 - Graphic
-- [Example](/en/post/example/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
+- [Example](/post/example/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/))
 - Exemplify
-- [Demonstrate](/en/post/demonstrate/)
-- [Clarify](/en/post/clarify/)
+- [Demonstrate](/post/demonstrate/)
+- [Clarify](/post/clarify/)

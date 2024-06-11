@@ -7,43 +7,43 @@ description = '[tʌt∫] vt.触摸；触动 n.触'
 keywords = ['ai words', 'touch']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tʌtʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Touch](/en/post/touch/)**: [The](/en/post/the/) [physical](/en/post/physical/) [contact](/en/post/contact/) [with](/en/post/with/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/); [a](/en/post/a/) sensation perceived [through](/en/post/through/) [the](/en/post/the/) [skin](/en/post/skin/) [or](/en/post/or/) [body](/en/post/body/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [soft](/en/post/soft/) [fur](/en/post/fur/) [of](/en/post/of/) [the](/en/post/the/) [cat](/en/post/cat/) was [a](/en/post/a/) [gentle](/en/post/gentle/) [touch](/en/post/touch/)."
-- **Tactile [sense](/en/post/sense/)**: [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [perceive](/en/post/perceive/) [pressure](/en/post/pressure/), [temperature](/en/post/temperature/), texture, [and](/en/post/and/) [other](/en/post/other/) [physical](/en/post/physical/) sensations [through](/en/post/through/) [the](/en/post/the/) [skin](/en/post/skin/).
+### [Noun](/post/noun/)
+- **[Touch](/post/touch/)**: [The](/post/the/) [physical](/post/physical/) [contact](/post/contact/) [with](/post/with/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/); [a](/post/a/) sensation perceived [through](/post/through/) [the](/post/the/) [skin](/post/skin/) [or](/post/or/) [body](/post/body/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [soft](/post/soft/) [fur](/post/fur/) [of](/post/of/) [the](/post/the/) [cat](/post/cat/) was [a](/post/a/) [gentle](/post/gentle/) [touch](/post/touch/)."
+- **Tactile [sense](/post/sense/)**: [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [perceive](/post/perceive/) [pressure](/post/pressure/), [temperature](/post/temperature/), texture, [and](/post/and/) [other](/post/other/) [physical](/post/physical/) sensations [through](/post/through/) [the](/post/the/) [skin](/post/skin/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [touch](/en/post/touch/)**: [To](/en/post/to/) [make](/en/post/make/) [contact](/en/post/contact/) [with](/en/post/with/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [by](/en/post/by/) physically laying [a](/en/post/a/) [hand](/en/post/hand/) [or](/en/post/or/) [limb](/en/post/limb/) [on](/en/post/on/) [it](/en/post/it/); [to](/en/post/to/) [handle](/en/post/handle/) [or](/en/post/or/) manipulate. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) touched [the](/en/post/the/) [vase](/en/post/vase/) [gently](/en/post/gently/) [to](/en/post/to/) [avoid](/en/post/avoid/) breaking [it](/en/post/it/)."
-- **[To](/en/post/to/) [touch](/en/post/touch/) [someone](/en/post/someone/) emotionally**: [To](/en/post/to/) [have](/en/post/have/) an [impact](/en/post/impact/) [on](/en/post/on/) someone's feelings [or](/en/post/or/) emotions. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) words touched [my](/en/post/my/) [heart](/en/post/heart/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [touch](/post/touch/)**: [To](/post/to/) [make](/post/make/) [contact](/post/contact/) [with](/post/with/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [by](/post/by/) physically laying [a](/post/a/) [hand](/post/hand/) [or](/post/or/) [limb](/post/limb/) [on](/post/on/) [it](/post/it/); [to](/post/to/) [handle](/post/handle/) [or](/post/or/) manipulate. [For](/post/for/) [example](/post/example/): "[She](/post/she/) touched [the](/post/the/) [vase](/post/vase/) [gently](/post/gently/) [to](/post/to/) [avoid](/post/avoid/) breaking [it](/post/it/)."
+- **[To](/post/to/) [touch](/post/touch/) [someone](/post/someone/) emotionally**: [To](/post/to/) [have](/post/have/) an [impact](/post/impact/) [on](/post/on/) someone's feelings [or](/post/or/) emotions. [For](/post/for/) [example](/post/example/): "[His](/post/his/) words touched [my](/post/my/) [heart](/post/heart/)."
 
-### [Adjective](/en/post/adjective/)
-- **Tactile**: Relating [to](/en/post/to/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [touch](/en/post/touch/); involving [physical](/en/post/physical/) [contact](/en/post/contact/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) tactile [surface](/en/post/surface/) provides [a](/en/post/a/) soothing [feel](/en/post/feel/)."
-- **[Intimate](/en/post/intimate/)**: Having [a](/en/post/a/) [close](/en/post/close/), [personal](/en/post/personal/) [connection](/en/post/connection/); involving [physical](/en/post/physical/) [touch](/en/post/touch/). [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) [intimate](/en/post/intimate/) [dance](/en/post/dance/) showed [a](/en/post/a/) [deep](/en/post/deep/) [emotional](/en/post/emotional/) [bond](/en/post/bond/)."
+### [Adjective](/post/adjective/)
+- **Tactile**: Relating [to](/post/to/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [touch](/post/touch/); involving [physical](/post/physical/) [contact](/post/contact/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) tactile [surface](/post/surface/) provides [a](/post/a/) soothing [feel](/post/feel/)."
+- **[Intimate](/post/intimate/)**: Having [a](/post/a/) [close](/post/close/), [personal](/post/personal/) [connection](/post/connection/); involving [physical](/post/physical/) [touch](/post/touch/). [For](/post/for/) [example](/post/example/): "[Their](/post/their/) [intimate](/post/intimate/) [dance](/post/dance/) showed [a](/post/a/) [deep](/post/deep/) [emotional](/post/emotional/) [bond](/post/bond/)."
 
-### [Adverb](/en/post/adverb/)
-- **Tactfully**: [In](/en/post/in/) [a](/en/post/a/) [considerate](/en/post/considerate/) [or](/en/post/or/) [sensitive](/en/post/sensitive/) [manner](/en/post/manner/), avoiding causing offense. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) handled [the](/en/post/the/) [situation](/en/post/situation/) tactfully."
+### [Adverb](/post/adverb/)
+- **Tactfully**: [In](/post/in/) [a](/post/a/) [considerate](/post/considerate/) [or](/post/or/) [sensitive](/post/sensitive/) [manner](/post/manner/), avoiding causing offense. [For](/post/for/) [example](/post/example/): "[She](/post/she/) handled [the](/post/the/) [situation](/post/situation/) tactfully."
 
 ## Phrases
-- "[Touch](/en/post/touch/) [base](/en/post/base/)": [To](/en/post/to/) [get](/en/post/get/) [in](/en/post/in/) [touch](/en/post/touch/) [or](/en/post/or/) [communicate](/en/post/communicate/) [with](/en/post/with/) [someone](/en/post/someone/).
-- "[Reach](/en/post/reach/) [out](/en/post/out/) [and](/en/post/and/) [touch](/en/post/touch/) [someone](/en/post/someone/)": [A](/en/post/a/) [phrase](/en/post/phrase/) encouraging [connection](/en/post/connection/) [and](/en/post/and/) empathy.
-- "[A](/en/post/a/) [light](/en/post/light/) [touch](/en/post/touch/)": [Soft](/en/post/soft/) [or](/en/post/or/) [delicate](/en/post/delicate/) handling.
-- "Touchdown": [A](/en/post/a/) [term](/en/post/term/) [from](/en/post/from/) sports, referring [to](/en/post/to/) making [contact](/en/post/contact/) [with](/en/post/with/) [the](/en/post/the/) [ground](/en/post/ground/) ([also](/en/post/also/) metaphorically).
+- "[Touch](/post/touch/) [base](/post/base/)": [To](/post/to/) [get](/post/get/) [in](/post/in/) [touch](/post/touch/) [or](/post/or/) [communicate](/post/communicate/) [with](/post/with/) [someone](/post/someone/).
+- "[Reach](/post/reach/) [out](/post/out/) [and](/post/and/) [touch](/post/touch/) [someone](/post/someone/)": [A](/post/a/) [phrase](/post/phrase/) encouraging [connection](/post/connection/) [and](/post/and/) empathy.
+- "[A](/post/a/) [light](/post/light/) [touch](/post/touch/)": [Soft](/post/soft/) [or](/post/or/) [delicate](/post/delicate/) handling.
+- "Touchdown": [A](/post/a/) [term](/post/term/) [from](/post/from/) sports, referring [to](/post/to/) making [contact](/post/contact/) [with](/post/with/) [the](/post/the/) [ground](/post/ground/) ([also](/post/also/) metaphorically).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) child's [touch](/en/post/touch/) [on](/en/post/on/) [his](/en/post/his/) [shoulder](/en/post/shoulder/) brought [comfort](/en/post/comfort/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) touched [the](/en/post/the/) [base](/en/post/base/) [to](/en/post/to/) [score](/en/post/score/) [a](/en/post/a/) [run](/en/post/run/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) tactile [art](/en/post/art/) [piece](/en/post/piece/) was mesmerizing."
-- **[Adverb](/en/post/adverb/)**: "[His](/en/post/his/) [guidance](/en/post/guidance/) was [always](/en/post/always/) given tactfully."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) child's [touch](/post/touch/) [on](/post/on/) [his](/post/his/) [shoulder](/post/shoulder/) brought [comfort](/post/comfort/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) touched [the](/post/the/) [base](/post/base/) [to](/post/to/) [score](/post/score/) [a](/post/a/) [run](/post/run/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) tactile [art](/post/art/) [piece](/post/piece/) was mesmerizing."
+- **[Adverb](/post/adverb/)**: "[His](/post/his/) [guidance](/post/guidance/) was [always](/post/always/) given tactfully."
 
 ## Synonyms
-- [Contact](/en/post/contact/)
-- [Feeling](/en/post/feeling/)
-- [Pat](/en/post/pat/)
+- [Contact](/post/contact/)
+- [Feeling](/post/feeling/)
+- [Pat](/post/pat/)
 - Caress
-- [Grasp](/en/post/grasp/)
-- [Lay](/en/post/lay/) hands [on](/en/post/on/)
+- [Grasp](/post/grasp/)
+- [Lay](/post/lay/) hands [on](/post/on/)
 - Interact
-- [Connect](/en/post/connect/)
+- [Connect](/post/connect/)

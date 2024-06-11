@@ -7,38 +7,38 @@ description = '[ˈʌnˈləud] vt.卸(货) vi.卸货'
 keywords = ['ai words', 'unload']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unˈləʊd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Unload](/en/post/unload/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) removing [goods](/en/post/goods/) [or](/en/post/or/) materials [from](/en/post/from/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), [ship](/en/post/ship/), [or](/en/post/or/) [container](/en/post/container/); [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) discharging items [from](/en/post/from/) [storage](/en/post/storage/) [or](/en/post/or/) [a](/en/post/a/) [freight](/en/post/freight/) [hold](/en/post/hold/).
+### [Noun](/post/noun/)
+**[Unload](/post/unload/)** ([noun](/post/noun/)): [The](/post/the/) [act](/post/act/) [of](/post/of/) removing [goods](/post/goods/) [or](/post/or/) materials [from](/post/from/) [a](/post/a/) [vehicle](/post/vehicle/), [ship](/post/ship/), [or](/post/or/) [container](/post/container/); [the](/post/the/) [process](/post/process/) [of](/post/of/) discharging items [from](/post/from/) [storage](/post/storage/) [or](/post/or/) [a](/post/a/) [freight](/post/freight/) [hold](/post/hold/).
 
-### [Verb](/en/post/verb/)
-**[Unload](/en/post/unload/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [take](/en/post/take/) [off](/en/post/off/) [or](/en/post/or/) [remove](/en/post/remove/) [goods](/en/post/goods/), [cargo](/en/post/cargo/), [or](/en/post/or/) items [from](/en/post/from/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), [vessel](/en/post/vessel/), [or](/en/post/or/) [container](/en/post/container/); [to](/en/post/to/) [transfer](/en/post/transfer/) [or](/en/post/or/) dispatch [something](/en/post/something/) [from](/en/post/from/) [a](/en/post/a/) loaded [state](/en/post/state/).
+### [Verb](/post/verb/)
+**[Unload](/post/unload/)** ([verb](/post/verb/)): [To](/post/to/) [take](/post/take/) [off](/post/off/) [or](/post/or/) [remove](/post/remove/) [goods](/post/goods/), [cargo](/post/cargo/), [or](/post/or/) items [from](/post/from/) [a](/post/a/) [vehicle](/post/vehicle/), [vessel](/post/vessel/), [or](/post/or/) [container](/post/container/); [to](/post/to/) [transfer](/post/transfer/) [or](/post/or/) dispatch [something](/post/something/) [from](/post/from/) [a](/post/a/) loaded [state](/post/state/).
 
-### [Adjective](/en/post/adjective/)
-**Unloaded** ([adjective](/en/post/adjective/)): [Not](/en/post/not/) loaded; having [no](/en/post/no/) [weight](/en/post/weight/) [or](/en/post/or/) [burden](/en/post/burden/); [free](/en/post/free/) [from](/en/post/from/) [cargo](/en/post/cargo/) [or](/en/post/or/) [freight](/en/post/freight/).
+### [Adjective](/post/adjective/)
+**Unloaded** ([adjective](/post/adjective/)): [Not](/post/not/) loaded; having [no](/post/no/) [weight](/post/weight/) [or](/post/or/) [burden](/post/burden/); [free](/post/free/) [from](/post/from/) [cargo](/post/cargo/) [or](/post/or/) [freight](/post/freight/).
 
 ## Phrases
-- "[Unload](/en/post/unload/) [the](/en/post/the/) [truck](/en/post/truck/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [the](/en/post/the/) [goods](/en/post/goods/) [out](/en/post/out/) [of](/en/post/of/) [a](/en/post/a/) [truck](/en/post/truck/).
-- "Unloading [dock](/en/post/dock/)" refers [to](/en/post/to/) [a](/en/post/a/) designated [area](/en/post/area/) [for](/en/post/for/) unloading [cargo](/en/post/cargo/).
-- "An unloaded [mind](/en/post/mind/)" implies [a](/en/post/a/) relaxed [or](/en/post/or/) [clear](/en/post/clear/) [mental](/en/post/mental/) [state](/en/post/state/).
+- "[Unload](/post/unload/) [the](/post/the/) [truck](/post/truck/)" [means](/post/means/) [to](/post/to/) [take](/post/take/) [the](/post/the/) [goods](/post/goods/) [out](/post/out/) [of](/post/of/) [a](/post/a/) [truck](/post/truck/).
+- "Unloading [dock](/post/dock/)" refers [to](/post/to/) [a](/post/a/) designated [area](/post/area/) [for](/post/for/) unloading [cargo](/post/cargo/).
+- "An unloaded [mind](/post/mind/)" implies [a](/post/a/) relaxed [or](/post/or/) [clear](/post/clear/) [mental](/post/mental/) [state](/post/state/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [crew](/en/post/crew/) spent hours unloading [the](/en/post/the/) crates [from](/en/post/from/) [the](/en/post/the/) [ship](/en/post/ship/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [delivery](/en/post/delivery/), [he](/en/post/he/) had [to](/en/post/to/) [unload](/en/post/unload/) [the](/en/post/the/) boxes [onto](/en/post/onto/) [the](/en/post/the/) warehouse [floor](/en/post/floor/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) unloaded [train](/en/post/train/) was [ready](/en/post/ready/) [to](/en/post/to/) [proceed](/en/post/proceed/) [on](/en/post/on/) [its](/en/post/its/) [journey](/en/post/journey/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [crew](/post/crew/) spent hours unloading [the](/post/the/) crates [from](/post/from/) [the](/post/the/) [ship](/post/ship/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [delivery](/post/delivery/), [he](/post/he/) had [to](/post/to/) [unload](/post/unload/) [the](/post/the/) boxes [onto](/post/onto/) [the](/post/the/) warehouse [floor](/post/floor/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) unloaded [train](/post/train/) was [ready](/post/ready/) [to](/post/to/) [proceed](/post/proceed/) [on](/post/on/) [its](/post/its/) [journey](/post/journey/)."
 
 ## Synonyms
-- [Discharge](/en/post/discharge/)
+- [Discharge](/post/discharge/)
 -卸货
 - Unpack
-- [Clear](/en/post/clear/) ([as](/en/post/as/) [in](/en/post/in/) emptying [a](/en/post/a/) [container](/en/post/container/))
+- [Clear](/post/clear/) ([as](/post/as/) [in](/post/in/) emptying [a](/post/a/) [container](/post/container/))
 - Unburden
 - Unfasten
 
 ## Antonyms
-- [Load](/en/post/load/)
-- [Fill](/en/post/fill/)
-- [Stock](/en/post/stock/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) filling [a](/en/post/a/) [container](/en/post/container/))
+- [Load](/post/load/)
+- [Fill](/post/fill/)
+- [Stock](/post/stock/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) filling [a](/post/a/) [container](/post/container/))

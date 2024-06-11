@@ -11,20 +11,20 @@ keywords = ['ai words', 'clearly']
 /ˈklɪrli/
 
 ## 释义
-- **副词**: 清楚地，清晰地，明显地。例如: "[She](/post/she/) spoke [clearly](/post/clearly/) [so](/post/so/) [that](/post/that/) [everyone](/post/everyone/) [could](/post/could/) [understand](/post/understand/) [her](/post/her/)."
-- **形容词**: 明显的，显然的。例如: "[The](/post/the/) [answer](/post/answer/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/) is [clearly](/post/clearly/) stated [in](/post/in/) [the](/post/the/) [textbook](/post/textbook/)."
+- **副词**: 清楚地，清晰地，明显地。例如: "[She](/zh/post/she/) spoke [clearly](/zh/post/clearly/) [so](/zh/post/so/) [that](/zh/post/that/) [everyone](/zh/post/everyone/) [could](/zh/post/could/) [understand](/zh/post/understand/) [her](/zh/post/her/)."
+- **形容词**: 明显的，显然的。例如: "[The](/zh/post/the/) [answer](/zh/post/answer/) [to](/zh/post/to/) [the](/zh/post/the/) [problem](/zh/post/problem/) is [clearly](/zh/post/clearly/) stated [in](/zh/post/in/) [the](/zh/post/the/) [textbook](/zh/post/textbook/)."
 
 ## 短语
-- "[clearly](/post/clearly/) defined" 意为明确界定的。
-- "It's [clear](/post/clear/) [as](/post/as/) [day](/post/day/)" 用来表示某事非常明显。
+- "[clearly](/zh/post/clearly/) defined" 意为明确界定的。
+- "It's [clear](/zh/post/clear/) [as](/zh/post/as/) [day](/zh/post/day/)" 用来表示某事非常明显。
 
 ## 例句
-- 副词: "[He](/post/he/) [read](/post/read/) [the](/post/the/) instructions [clearly](/post/clearly/) [to](/post/to/) [avoid](/post/avoid/) [any](/post/any/) [confusion](/post/confusion/)."
-- 形容词: "[The](/post/the/) benefits [of](/post/of/) [this](/post/this/) [policy](/post/policy/) are [clearly](/post/clearly/) outlined [in](/post/in/) [the](/post/the/) [document](/post/document/)."
+- 副词: "[He](/zh/post/he/) [read](/zh/post/read/) [the](/zh/post/the/) instructions [clearly](/zh/post/clearly/) [to](/zh/post/to/) [avoid](/zh/post/avoid/) [any](/zh/post/any/) [confusion](/zh/post/confusion/)."
+- 形容词: "[The](/zh/post/the/) benefits [of](/zh/post/of/) [this](/zh/post/this/) [policy](/zh/post/policy/) are [clearly](/zh/post/clearly/) outlined [in](/zh/post/in/) [the](/zh/post/the/) [document](/zh/post/document/)."
 
 ## 同义词
 - distinctly
-- [obviously](/post/obviously/)
+- [obviously](/zh/post/obviously/)
 - evidently
 - plainly
 - manifestly

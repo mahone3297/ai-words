@@ -7,28 +7,28 @@ description = '[ˈɔːlsəu] ad.亦，也；而且，还'
 keywords = ['ai words', 'also']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːlsəʊ/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is [true](/en/post/true/) [or](/en/post/or/) occurs [in](/en/post/in/) [addition](/en/post/addition/) [to](/en/post/to/) [something](/en/post/something/) [else](/en/post/else/). [For](/en/post/for/) [example](/en/post/example/): "I [like](/en/post/like/) [coffee](/en/post/coffee/), [and](/en/post/and/) [she](/en/post/she/) does [too](/en/post/too/) – [we](/en/post/we/) [both](/en/post/both/) [also](/en/post/also/) [enjoy](/en/post/enjoy/) [tea](/en/post/tea/)."
-- **[Adverb](/en/post/adverb/) [of](/en/post/of/) [frequency](/en/post/frequency/)**: Expresses [how](/en/post/how/) [often](/en/post/often/) [something](/en/post/something/) happens. [For](/en/post/for/) [example](/en/post/example/): "I [visit](/en/post/visit/) [my](/en/post/my/) grandparents [every](/en/post/every/) [weekend](/en/post/weekend/), [and](/en/post/and/) [they](/en/post/they/) [also](/en/post/also/) [come](/en/post/come/) [to](/en/post/to/) [our](/en/post/our/) [house](/en/post/house/) [occasionally](/en/post/occasionally/)."
-- **Interjection**: [Used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [agreement](/en/post/agreement/) [or](/en/post/or/) [emphasis](/en/post/emphasis/). [For](/en/post/for/) [example](/en/post/example/): "[Yes](/en/post/yes/), I [agree](/en/post/agree/) – that's [also](/en/post/also/) [my](/en/post/my/) [opinion](/en/post/opinion/)."
+- **[Adverb](/post/adverb/)**: [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is [true](/post/true/) [or](/post/or/) occurs [in](/post/in/) [addition](/post/addition/) [to](/post/to/) [something](/post/something/) [else](/post/else/). [For](/post/for/) [example](/post/example/): "I [like](/post/like/) [coffee](/post/coffee/), [and](/post/and/) [she](/post/she/) does [too](/post/too/) – [we](/post/we/) [both](/post/both/) [also](/post/also/) [enjoy](/post/enjoy/) [tea](/post/tea/)."
+- **[Adverb](/post/adverb/) [of](/post/of/) [frequency](/post/frequency/)**: Expresses [how](/post/how/) [often](/post/often/) [something](/post/something/) happens. [For](/post/for/) [example](/post/example/): "I [visit](/post/visit/) [my](/post/my/) grandparents [every](/post/every/) [weekend](/post/weekend/), [and](/post/and/) [they](/post/they/) [also](/post/also/) [come](/post/come/) [to](/post/to/) [our](/post/our/) [house](/post/house/) [occasionally](/post/occasionally/)."
+- **Interjection**: [Used](/post/used/) [to](/post/to/) [express](/post/express/) [agreement](/post/agreement/) [or](/post/or/) [emphasis](/post/emphasis/). [For](/post/for/) [example](/post/example/): "[Yes](/post/yes/), I [agree](/post/agree/) – that's [also](/post/also/) [my](/post/my/) [opinion](/post/opinion/)."
 
 ## Phrases
-- "[In](/en/post/in/) [addition](/en/post/addition/), [he](/en/post/he/) [also](/en/post/also/) helped [with](/en/post/with/) [the](/en/post/the/) [project](/en/post/project/)."
-- "She's [not](/en/post/not/) [only](/en/post/only/) talented, [but](/en/post/but/) [she](/en/post/she/) [also](/en/post/also/) works [hard](/en/post/hard/)."
-- "[Both](/en/post/both/) options [have](/en/post/have/) [their](/en/post/their/) advantages – [it](/en/post/it/) depends [on](/en/post/on/) [what](/en/post/what/) [you](/en/post/you/) [prefer](/en/post/prefer/), [also](/en/post/also/)."
+- "[In](/post/in/) [addition](/post/addition/), [he](/post/he/) [also](/post/also/) helped [with](/post/with/) [the](/post/the/) [project](/post/project/)."
+- "She's [not](/post/not/) [only](/post/only/) talented, [but](/post/but/) [she](/post/she/) [also](/post/also/) works [hard](/post/hard/)."
+- "[Both](/post/both/) options [have](/post/have/) [their](/post/their/) advantages – [it](/post/it/) depends [on](/post/on/) [what](/post/what/) [you](/post/you/) [prefer](/post/prefer/), [also](/post/also/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[We](/en/post/we/) decided [to](/en/post/to/) [go](/en/post/go/) hiking, [and](/en/post/and/) [we](/en/post/we/) [also](/en/post/also/) brought [a](/en/post/a/) [picnic](/en/post/picnic/) [lunch](/en/post/lunch/)."
-- **[Frequency](/en/post/frequency/)**: "[My](/en/post/my/) [sister](/en/post/sister/) studies [abroad](/en/post/abroad/), [and](/en/post/and/) [her](/en/post/her/) parents [also](/en/post/also/) [travel](/en/post/travel/) [frequently](/en/post/frequently/) [to](/en/post/to/) [visit](/en/post/visit/) [her](/en/post/her/)."
-- **Interjection**: "It's [a](/en/post/a/) [beautiful](/en/post/beautiful/) [day](/en/post/day/), isn't [it](/en/post/it/)? – [Absolutely](/en/post/absolutely/), it's [also](/en/post/also/) [a](/en/post/a/) [perfect](/en/post/perfect/) [weather](/en/post/weather/) [for](/en/post/for/) [outdoor](/en/post/outdoor/) activities."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[We](/post/we/) decided [to](/post/to/) [go](/post/go/) hiking, [and](/post/and/) [we](/post/we/) [also](/post/also/) brought [a](/post/a/) [picnic](/post/picnic/) [lunch](/post/lunch/)."
+- **[Frequency](/post/frequency/)**: "[My](/post/my/) [sister](/post/sister/) studies [abroad](/post/abroad/), [and](/post/and/) [her](/post/her/) parents [also](/post/also/) [travel](/post/travel/) [frequently](/post/frequently/) [to](/post/to/) [visit](/post/visit/) [her](/post/her/)."
+- **Interjection**: "It's [a](/post/a/) [beautiful](/post/beautiful/) [day](/post/day/), isn't [it](/post/it/)? – [Absolutely](/post/absolutely/), it's [also](/post/also/) [a](/post/a/) [perfect](/post/perfect/) [weather](/post/weather/) [for](/post/for/) [outdoor](/post/outdoor/) activities."
 
 ## Synonyms
-- [Moreover](/en/post/moreover/)
-- [Furthermore](/en/post/furthermore/)
+- [Moreover](/post/moreover/)
+- [Furthermore](/post/furthermore/)
 - Additionally
-- [In](/en/post/in/) [addition](/en/post/addition/) [to](/en/post/to/)
-- [Also](/en/post/also/) sprach Zarathustra (German [expression](/en/post/expression/), [similar](/en/post/similar/) [to](/en/post/to/) "[as](/en/post/as/) Nietzsche said")
-- [Likewise](/en/post/likewise/)
+- [In](/post/in/) [addition](/post/addition/) [to](/post/to/)
+- [Also](/post/also/) sprach Zarathustra (German [expression](/post/expression/), [similar](/post/similar/) [to](/post/to/) "[as](/post/as/) Nietzsche said")
+- [Likewise](/post/likewise/)

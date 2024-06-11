@@ -11,16 +11,16 @@ keywords = ['ai words', 'tomorrow']
 /təˈmɔːrəʊ/
 
 ## 释义
-- **名词**: 未来的一天，明天。例如: "I [have](/post/have/) [a](/post/a/) [meeting](/post/meeting/) scheduled [for](/post/for/) [tomorrow](/post/tomorrow/)."
-- **副词**: 在第二天，到第二天。例如: "I'll [finish](/post/finish/) [the](/post/the/) [report](/post/report/) [tomorrow](/post/tomorrow/)."
+- **名词**: 未来的一天，明天。例如: "I [have](/zh/post/have/) [a](/zh/post/a/) [meeting](/zh/post/meeting/) scheduled [for](/zh/post/for/) [tomorrow](/zh/post/tomorrow/)."
+- **副词**: 在第二天，到第二天。例如: "I'll [finish](/zh/post/finish/) [the](/zh/post/the/) [report](/zh/post/report/) [tomorrow](/zh/post/tomorrow/)."
 
 ## 短语
-- "[See](/post/see/) [you](/post/you/) [tomorrow](/post/tomorrow/)" 意思是明天见。
-- "[The](/post/the/) [day](/post/day/) [after](/post/after/) [today](/post/today/) is [tomorrow](/post/tomorrow/)" 表示今天之后的一天是明天。
+- "[See](/zh/post/see/) [you](/zh/post/you/) [tomorrow](/zh/post/tomorrow/)" 意思是明天见。
+- "[The](/zh/post/the/) [day](/zh/post/day/) [after](/zh/post/after/) [today](/zh/post/today/) is [tomorrow](/zh/post/tomorrow/)" 表示今天之后的一天是明天。
 
 ## 例句
-- 名词: "Don't [forget](/post/forget/) [to](/post/to/) [pack](/post/pack/) [your](/post/your/) [bag](/post/bag/) [for](/post/for/) tomorrow's [trip](/post/trip/)."
-- 副词: "I'll [call](/post/call/) [you](/post/you/) [back](/post/back/) [tomorrow](/post/tomorrow/) [morning](/post/morning/)."
+- 名词: "Don't [forget](/zh/post/forget/) [to](/zh/post/to/) [pack](/zh/post/pack/) [your](/zh/post/your/) [bag](/zh/post/bag/) [for](/zh/post/for/) tomorrow's [trip](/zh/post/trip/)."
+- 副词: "I'll [call](/zh/post/call/) [you](/zh/post/you/) [back](/zh/post/back/) [tomorrow](/zh/post/tomorrow/) [morning](/zh/post/morning/)."
 
 ## 同义词
 - 明日

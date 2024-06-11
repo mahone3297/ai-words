@@ -7,35 +7,35 @@ description = '[ˈskætə] vt.使消散；撒；散播'
 keywords = ['ai words', 'scatter']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /scætər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) distributing [or](/en/post/or/) scattering [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) objects [or](/en/post/or/) [people](/en/post/people/), [over](/en/post/over/) [a](/en/post/a/) [wide](/en/post/wide/) [area](/en/post/area/) [or](/en/post/or/) randomly. **[Example](/en/post/example/):** [The](/en/post/the/) leaves [scatter](/en/post/scatter/) [across](/en/post/across/) [the](/en/post/the/) [garden](/en/post/garden/) [path](/en/post/path/) [after](/en/post/after/) [the](/en/post/the/) [wind](/en/post/wind/).
-2. [A](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [collection](/en/post/collection/) [of](/en/post/of/) things [that](/en/post/that/) are scattered [or](/en/post/or/) dispersed. **[Example](/en/post/example/):** [A](/en/post/a/) scattering [of](/en/post/of/) stars [in](/en/post/in/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/).
-3. [A](/en/post/a/) random [or](/en/post/or/) haphazard [distribution](/en/post/distribution/). **[Example](/en/post/example/):** [The](/en/post/the/) seating [arrangement](/en/post/arrangement/) was [a](/en/post/a/) [bit](/en/post/bit/) [of](/en/post/of/) [a](/en/post/a/) [scatter](/en/post/scatter/) [when](/en/post/when/) [we](/en/post/we/) arrived.
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) distributing [or](/post/or/) scattering [something](/post/something/), [such](/post/such/) [as](/post/as/) objects [or](/post/or/) [people](/post/people/), [over](/post/over/) [a](/post/a/) [wide](/post/wide/) [area](/post/area/) [or](/post/or/) randomly. **[Example](/post/example/):** [The](/post/the/) leaves [scatter](/post/scatter/) [across](/post/across/) [the](/post/the/) [garden](/post/garden/) [path](/post/path/) [after](/post/after/) [the](/post/the/) [wind](/post/wind/).
+2. [A](/post/a/) [group](/post/group/) [or](/post/or/) [collection](/post/collection/) [of](/post/of/) things [that](/post/that/) are scattered [or](/post/or/) dispersed. **[Example](/post/example/):** [A](/post/a/) scattering [of](/post/of/) stars [in](/post/in/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/).
+3. [A](/post/a/) random [or](/post/or/) haphazard [distribution](/post/distribution/). **[Example](/post/example/):** [The](/post/the/) seating [arrangement](/post/arrangement/) was [a](/post/a/) [bit](/post/bit/) [of](/post/of/) [a](/post/a/) [scatter](/post/scatter/) [when](/post/when/) [we](/post/we/) arrived.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) disperse [or](/en/post/or/) [distribute](/en/post/distribute/) ([people](/en/post/people/), objects, [or](/en/post/or/) seeds) [over](/en/post/over/) [a](/en/post/a/) [wide](/en/post/wide/) [area](/en/post/area/) [or](/en/post/or/) irregularly. **[Example](/en/post/example/):** [The](/en/post/the/) children scattered toys [around](/en/post/around/) [the](/en/post/the/) [playground](/en/post/playground/).
-2. [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [go](/en/post/go/) [in](/en/post/in/) [different](/en/post/different/) directions [or](/en/post/or/) [be](/en/post/be/) separated. **[Example](/en/post/example/):** [The](/en/post/the/) bullets scattered [across](/en/post/across/) [the](/en/post/the/) [wall](/en/post/wall/) [after](/en/post/after/) hitting [the](/en/post/the/) [target](/en/post/target/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) disperse [or](/post/or/) [distribute](/post/distribute/) ([people](/post/people/), objects, [or](/post/or/) seeds) [over](/post/over/) [a](/post/a/) [wide](/post/wide/) [area](/post/area/) [or](/post/or/) irregularly. **[Example](/post/example/):** [The](/post/the/) children scattered toys [around](/post/around/) [the](/post/the/) [playground](/post/playground/).
+2. [To](/post/to/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [go](/post/go/) [in](/post/in/) [different](/post/different/) directions [or](/post/or/) [be](/post/be/) separated. **[Example](/post/example/):** [The](/post/the/) bullets scattered [across](/post/across/) [the](/post/the/) [wall](/post/wall/) [after](/post/after/) hitting [the](/post/the/) [target](/post/target/).
 
-### [Adjective](/en/post/adjective/)
-1. Characterized [by](/en/post/by/) [being](/en/post/being/) scattered [or](/en/post/or/) dispersed. **[Example](/en/post/example/):** [The](/en/post/the/) [furniture](/en/post/furniture/) was scattered [throughout](/en/post/throughout/) [the](/en/post/the/) [room](/en/post/room/).
-2. [Not](/en/post/not/) concentrated [or](/en/post/or/) focused. **[Example](/en/post/example/):** [His](/en/post/his/) thoughts were scattered [as](/en/post/as/) [he](/en/post/he/) tried [to](/en/post/to/) [read](/en/post/read/) [the](/en/post/the/) [book](/en/post/book/).
+### [Adjective](/post/adjective/)
+1. Characterized [by](/post/by/) [being](/post/being/) scattered [or](/post/or/) dispersed. **[Example](/post/example/):** [The](/post/the/) [furniture](/post/furniture/) was scattered [throughout](/post/throughout/) [the](/post/the/) [room](/post/room/).
+2. [Not](/post/not/) concentrated [or](/post/or/) focused. **[Example](/post/example/):** [His](/post/his/) thoughts were scattered [as](/post/as/) [he](/post/he/) tried [to](/post/to/) [read](/post/read/) [the](/post/the/) [book](/post/book/).
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) scattered [manner](/en/post/manner/); randomly. **[Example](/en/post/example/):** [The](/en/post/the/) flowers grew [in](/en/post/in/) [a](/en/post/a/) [scatter](/en/post/scatter/) [along](/en/post/along/) [the](/en/post/the/) riverbank.
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) scattered [manner](/post/manner/); randomly. **[Example](/post/example/):** [The](/post/the/) flowers grew [in](/post/in/) [a](/post/a/) [scatter](/post/scatter/) [along](/post/along/) [the](/post/the/) riverbank.
 
 ## Phrases
-- "[Scatter](/en/post/scatter/) seeds" [means](/en/post/means/) [to](/en/post/to/) [sow](/en/post/sow/) seeds [over](/en/post/over/) [a](/en/post/a/) [wide](/en/post/wide/) [area](/en/post/area/).
-- "Scattered memories" refers [to](/en/post/to/) memories [that](/en/post/that/) are [not](/en/post/not/) [easily](/en/post/easily/) recalled [or](/en/post/or/) are jumbled.
-- "Scatter-brained" is [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) [someone](/en/post/someone/) [who](/en/post/who/) is [easily](/en/post/easily/) distracted [or](/en/post/or/) forgetful.
+- "[Scatter](/post/scatter/) seeds" [means](/post/means/) [to](/post/to/) [sow](/post/sow/) seeds [over](/post/over/) [a](/post/a/) [wide](/post/wide/) [area](/post/area/).
+- "Scattered memories" refers [to](/post/to/) memories [that](/post/that/) are [not](/post/not/) [easily](/post/easily/) recalled [or](/post/or/) are jumbled.
+- "Scatter-brained" is [a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) [someone](/post/someone/) [who](/post/who/) is [easily](/post/easily/) distracted [or](/post/or/) forgetful.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) birds scattered [as](/en/post/as/) [the](/en/post/the/) hunter approached.
-- **[Verb](/en/post/verb/)**: [She](/en/post/she/) carefully scattered birdseed [on](/en/post/on/) [the](/en/post/the/) [ground](/en/post/ground/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) books are scattered [everywhere](/en/post/everywhere/) [in](/en/post/in/) [her](/en/post/her/) [study](/en/post/study/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) birds scattered [as](/post/as/) [the](/post/the/) hunter approached.
+- **[Verb](/post/verb/)**: [She](/post/she/) carefully scattered birdseed [on](/post/on/) [the](/post/the/) [ground](/post/ground/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) books are scattered [everywhere](/post/everywhere/) [in](/post/in/) [her](/post/her/) [study](/post/study/).
 
 ## Synonyms
 - Disperse

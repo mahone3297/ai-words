@@ -7,34 +7,34 @@ description = '[səul] a.单独的，唯一的'
 keywords = ['ai words', 'sole']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səʊl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [bottom](/en/post/bottom/) [or](/en/post/or/) [sole](/en/post/sole/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [shoe](/en/post/shoe/) [or](/en/post/or/) [boot](/en/post/boot/), [usually](/en/post/usually/) made [of](/en/post/of/) [leather](/en/post/leather/) [or](/en/post/or/) [rubber](/en/post/rubber/). 2. [The](/en/post/the/) [flat](/en/post/flat/), [central](/en/post/central/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) fish's [body](/en/post/body/), [below](/en/post/below/) [the](/en/post/the/) [head](/en/post/head/) [and](/en/post/and/) [above](/en/post/above/) [the](/en/post/the/) fins. 3. (figurative) [The](/en/post/the/) [main](/en/post/main/) [or](/en/post/or/) [only](/en/post/only/) [part](/en/post/part/); essence. 4. ([mathematics](/en/post/mathematics/)) [The](/en/post/the/) [square](/en/post/square/) [root](/en/post/root/) [of](/en/post/of/) [a](/en/post/a/) [number](/en/post/number/), [especially](/en/post/especially/) [the](/en/post/the/) [principal](/en/post/principal/) [root](/en/post/root/) ([the](/en/post/the/) non-negative [one](/en/post/one/)).
-- **[Adjective](/en/post/adjective/)**: [Solely](/en/post/solely/), uniquely; [exclusively](/en/post/exclusively/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [bottom](/post/bottom/) [or](/post/or/) [sole](/post/sole/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [shoe](/post/shoe/) [or](/post/or/) [boot](/post/boot/), [usually](/post/usually/) made [of](/post/of/) [leather](/post/leather/) [or](/post/or/) [rubber](/post/rubber/). 2. [The](/post/the/) [flat](/post/flat/), [central](/post/central/) [part](/post/part/) [of](/post/of/) [a](/post/a/) fish's [body](/post/body/), [below](/post/below/) [the](/post/the/) [head](/post/head/) [and](/post/and/) [above](/post/above/) [the](/post/the/) fins. 3. (figurative) [The](/post/the/) [main](/post/main/) [or](/post/or/) [only](/post/only/) [part](/post/part/); essence. 4. ([mathematics](/post/mathematics/)) [The](/post/the/) [square](/post/square/) [root](/post/root/) [of](/post/of/) [a](/post/a/) [number](/post/number/), [especially](/post/especially/) [the](/post/the/) [principal](/post/principal/) [root](/post/root/) ([the](/post/the/) non-negative [one](/post/one/)).
+- **[Adjective](/post/adjective/)**: [Solely](/post/solely/), uniquely; [exclusively](/post/exclusively/).
 
 ## Phrases
-- "[Wear](/en/post/wear/) [a](/en/post/a/) [sole](/en/post/sole/)" [means](/en/post/means/) [to](/en/post/to/) [wear](/en/post/wear/) [a](/en/post/a/) [sole](/en/post/sole/) [on](/en/post/on/) [the](/en/post/the/) [bottom](/en/post/bottom/) [of](/en/post/of/) [a](/en/post/a/) [shoe](/en/post/shoe/).
-- "[The](/en/post/the/) [sole](/en/post/sole/) survivor" refers [to](/en/post/to/) [the](/en/post/the/) [last](/en/post/last/) [person](/en/post/person/) remaining [after](/en/post/after/) others [have](/en/post/have/) perished.
-- "[Sole](/en/post/sole/) [responsibility](/en/post/responsibility/)" indicates [that](/en/post/that/) [someone](/en/post/someone/) is [in](/en/post/in/) [charge](/en/post/charge/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [task](/en/post/task/) [or](/en/post/or/) [decision](/en/post/decision/).
+- "[Wear](/post/wear/) [a](/post/a/) [sole](/post/sole/)" [means](/post/means/) [to](/post/to/) [wear](/post/wear/) [a](/post/a/) [sole](/post/sole/) [on](/post/on/) [the](/post/the/) [bottom](/post/bottom/) [of](/post/of/) [a](/post/a/) [shoe](/post/shoe/).
+- "[The](/post/the/) [sole](/post/sole/) survivor" refers [to](/post/to/) [the](/post/the/) [last](/post/last/) [person](/post/person/) remaining [after](/post/after/) others [have](/post/have/) perished.
+- "[Sole](/post/sole/) [responsibility](/post/responsibility/)" indicates [that](/post/that/) [someone](/post/someone/) is [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [task](/post/task/) [or](/post/or/) [decision](/post/decision/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) carefully polished [the](/en/post/the/) [leather](/en/post/leather/) soles [of](/en/post/of/) [her](/en/post/her/) shoes [before](/en/post/before/) going [out](/en/post/out/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's [success](/en/post/success/) was [solely](/en/post/solely/) [due](/en/post/due/) [to](/en/post/to/) [his](/en/post/his/) innovative ideas."
-- **[Adjective](/en/post/adjective/) ([used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/))**: "[He](/en/post/he/) had [the](/en/post/the/) [sole](/en/post/sole/) [authority](/en/post/authority/) [to](/en/post/to/) [make](/en/post/make/) [that](/en/post/that/) [decision](/en/post/decision/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) carefully polished [the](/post/the/) [leather](/post/leather/) soles [of](/post/of/) [her](/post/her/) shoes [before](/post/before/) going [out](/post/out/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) company's [success](/post/success/) was [solely](/post/solely/) [due](/post/due/) [to](/post/to/) [his](/post/his/) innovative ideas."
+- **[Adjective](/post/adjective/) ([used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/))**: "[He](/post/he/) had [the](/post/the/) [sole](/post/sole/) [authority](/post/authority/) [to](/post/to/) [make](/post/make/) [that](/post/that/) [decision](/post/decision/)."
 
 ## Synonyms
-- [Solely](/en/post/solely/)
-- [Exclusively](/en/post/exclusively/)
-- [Unique](/en/post/unique/)
-- [Single](/en/post/single/)
-- [Principal](/en/post/principal/)
-- [Central](/en/post/central/)
+- [Solely](/post/solely/)
+- [Exclusively](/post/exclusively/)
+- [Unique](/post/unique/)
+- [Single](/post/single/)
+- [Principal](/post/principal/)
+- [Central](/post/central/)
 
 ## Antonyms
-- [Multiple](/en/post/multiple/)
+- [Multiple](/post/multiple/)
 - Shared
-- [Joint](/en/post/joint/)
+- [Joint](/post/joint/)
 - Collaborative
-- [Collective](/en/post/collective/)
+- [Collective](/post/collective/)

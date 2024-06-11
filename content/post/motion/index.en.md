@@ -7,34 +7,34 @@ description = '[ˈməu∫ən] n.运动；手势；提议'
 keywords = ['ai words', 'motion']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmoʊʃn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [change](/en/post/change/) [of](/en/post/of/) [position](/en/post/position/) [or](/en/post/or/) [location](/en/post/location/); [movement](/en/post/movement/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [motion](/en/post/motion/) [of](/en/post/of/) [the](/en/post/the/) planets [around](/en/post/around/) [the](/en/post/the/) [sun](/en/post/sun/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [proposal](/en/post/proposal/) [or](/en/post/or/) [suggestion](/en/post/suggestion/) formally [put](/en/post/put/) [forward](/en/post/forward/) [for](/en/post/for/) [discussion](/en/post/discussion/) [or](/en/post/or/) voting [in](/en/post/in/) [a](/en/post/a/) [meeting](/en/post/meeting/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) senator made [a](/en/post/a/) [motion](/en/post/motion/) [to](/en/post/to/) [pass](/en/post/pass/) [the](/en/post/the/) [new](/en/post/new/) [bill](/en/post/bill/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [action](/en/post/action/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) moving [or](/en/post/or/) [being](/en/post/being/) moved; [physical](/en/post/physical/) [activity](/en/post/activity/) [or](/en/post/or/) [gesture](/en/post/gesture/). [Example](/en/post/example/): "[A](/en/post/a/) [smooth](/en/post/smooth/) [and](/en/post/and/) [fluid](/en/post/fluid/) [motion](/en/post/motion/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [request](/en/post/request/) [to](/en/post/to/) [a](/en/post/a/) [court](/en/post/court/) [or](/en/post/or/) [judge](/en/post/judge/) [for](/en/post/for/) [a](/en/post/a/) ruling [or](/en/post/or/) [order](/en/post/order/). [Example](/en/post/example/): "[The](/en/post/the/) [lawyer](/en/post/lawyer/) filed [a](/en/post/a/) [motion](/en/post/motion/) [to](/en/post/to/) [dismiss](/en/post/dismiss/) [the](/en/post/the/) [case](/en/post/case/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [propose](/en/post/propose/) [or](/en/post/or/) [put](/en/post/put/) [forward](/en/post/forward/) ([a](/en/post/a/) [resolution](/en/post/resolution/) [or](/en/post/or/) [idea](/en/post/idea/)) [for](/en/post/for/) [consideration](/en/post/consideration/) [or](/en/post/or/) [vote](/en/post/vote/). [Example](/en/post/example/): "[The](/en/post/the/) [committee](/en/post/committee/) [member](/en/post/member/) motioned [to](/en/post/to/) [accept](/en/post/accept/) [the](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [cause](/en/post/cause/) [to](/en/post/to/) [move](/en/post/move/) [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [action](/en/post/action/) [or](/en/post/or/) [gesture](/en/post/gesture/). [Example](/en/post/example/): "[He](/en/post/he/) motioned [for](/en/post/for/) [her](/en/post/her/) [to](/en/post/to/) [sit](/en/post/sit/) [down](/en/post/down/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [change](/post/change/) [of](/post/of/) [position](/post/position/) [or](/post/or/) [location](/post/location/); [movement](/post/movement/) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [motion](/post/motion/) [of](/post/of/) [the](/post/the/) planets [around](/post/around/) [the](/post/the/) [sun](/post/sun/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [proposal](/post/proposal/) [or](/post/or/) [suggestion](/post/suggestion/) formally [put](/post/put/) [forward](/post/forward/) [for](/post/for/) [discussion](/post/discussion/) [or](/post/or/) voting [in](/post/in/) [a](/post/a/) [meeting](/post/meeting/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) senator made [a](/post/a/) [motion](/post/motion/) [to](/post/to/) [pass](/post/pass/) [the](/post/the/) [new](/post/new/) [bill](/post/bill/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [action](/post/action/) [or](/post/or/) [process](/post/process/) [of](/post/of/) moving [or](/post/or/) [being](/post/being/) moved; [physical](/post/physical/) [activity](/post/activity/) [or](/post/or/) [gesture](/post/gesture/). [Example](/post/example/): "[A](/post/a/) [smooth](/post/smooth/) [and](/post/and/) [fluid](/post/fluid/) [motion](/post/motion/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [request](/post/request/) [to](/post/to/) [a](/post/a/) [court](/post/court/) [or](/post/or/) [judge](/post/judge/) [for](/post/for/) [a](/post/a/) ruling [or](/post/or/) [order](/post/order/). [Example](/post/example/): "[The](/post/the/) [lawyer](/post/lawyer/) filed [a](/post/a/) [motion](/post/motion/) [to](/post/to/) [dismiss](/post/dismiss/) [the](/post/the/) [case](/post/case/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [propose](/post/propose/) [or](/post/or/) [put](/post/put/) [forward](/post/forward/) ([a](/post/a/) [resolution](/post/resolution/) [or](/post/or/) [idea](/post/idea/)) [for](/post/for/) [consideration](/post/consideration/) [or](/post/or/) [vote](/post/vote/). [Example](/post/example/): "[The](/post/the/) [committee](/post/committee/) [member](/post/member/) motioned [to](/post/to/) [accept](/post/accept/) [the](/post/the/) [new](/post/new/) [policy](/post/policy/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [move](/post/move/) [or](/post/or/) [cause](/post/cause/) [to](/post/to/) [move](/post/move/) [with](/post/with/) [a](/post/a/) [particular](/post/particular/) [action](/post/action/) [or](/post/or/) [gesture](/post/gesture/). [Example](/post/example/): "[He](/post/he/) motioned [for](/post/for/) [her](/post/her/) [to](/post/to/) [sit](/post/sit/) [down](/post/down/)."
 
 ## Phrases
-- "[In](/en/post/in/) [motion](/en/post/motion/)" - describes [something](/en/post/something/) [that](/en/post/that/) is currently moving [or](/en/post/or/) has been [set](/en/post/set/) [into](/en/post/into/) [movement](/en/post/movement/).
-- "[Make](/en/post/make/) [a](/en/post/a/) [motion](/en/post/motion/)" - [to](/en/post/to/) [suggest](/en/post/suggest/) [or](/en/post/or/) [propose](/en/post/propose/) [something](/en/post/something/) officially [in](/en/post/in/) [a](/en/post/a/) [meeting](/en/post/meeting/).
-- "[Motion](/en/post/motion/) [to](/en/post/to/) [dismiss](/en/post/dismiss/)" - [a](/en/post/a/) [legal](/en/post/legal/) [request](/en/post/request/) [to](/en/post/to/) [end](/en/post/end/) [a](/en/post/a/) [case](/en/post/case/) [before](/en/post/before/) [it](/en/post/it/) reaches [trial](/en/post/trial/).
-- "[By](/en/post/by/) unanimous [motion](/en/post/motion/)" - [when](/en/post/when/) [everyone](/en/post/everyone/) agrees [to](/en/post/to/) [a](/en/post/a/) [proposal](/en/post/proposal/) [without](/en/post/without/) opposition.
+- "[In](/post/in/) [motion](/post/motion/)" - describes [something](/post/something/) [that](/post/that/) is currently moving [or](/post/or/) has been [set](/post/set/) [into](/post/into/) [movement](/post/movement/).
+- "[Make](/post/make/) [a](/post/a/) [motion](/post/motion/)" - [to](/post/to/) [suggest](/post/suggest/) [or](/post/or/) [propose](/post/propose/) [something](/post/something/) officially [in](/post/in/) [a](/post/a/) [meeting](/post/meeting/).
+- "[Motion](/post/motion/) [to](/post/to/) [dismiss](/post/dismiss/)" - [a](/post/a/) [legal](/post/legal/) [request](/post/request/) [to](/post/to/) [end](/post/end/) [a](/post/a/) [case](/post/case/) [before](/post/before/) [it](/post/it/) reaches [trial](/post/trial/).
+- "[By](/post/by/) unanimous [motion](/post/motion/)" - [when](/post/when/) [everyone](/post/everyone/) agrees [to](/post/to/) [a](/post/a/) [proposal](/post/proposal/) [without](/post/without/) opposition.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([movement](/en/post/movement/))**: "[The](/en/post/the/) [motion](/en/post/motion/) [of](/en/post/of/) [the](/en/post/the/) waves was mesmerizing."
-- **[Noun](/en/post/noun/) ([proposal](/en/post/proposal/))**: "[Her](/en/post/her/) [motion](/en/post/motion/) [to](/en/post/to/) [increase](/en/post/increase/) funding [for](/en/post/for/) [education](/en/post/education/) received [widespread](/en/post/widespread/) [support](/en/post/support/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [chairman](/en/post/chairman/) motioned [for](/en/post/for/) [a](/en/post/a/) [moment](/en/post/moment/) [of](/en/post/of/) [silence](/en/post/silence/)."
-- **[Legal](/en/post/legal/) [sense](/en/post/sense/)**: "[The](/en/post/the/) defense attorney filed [a](/en/post/a/) [motion](/en/post/motion/) [to](/en/post/to/) suppress [evidence](/en/post/evidence/) obtained illegally."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([movement](/post/movement/))**: "[The](/post/the/) [motion](/post/motion/) [of](/post/of/) [the](/post/the/) waves was mesmerizing."
+- **[Noun](/post/noun/) ([proposal](/post/proposal/))**: "[Her](/post/her/) [motion](/post/motion/) [to](/post/to/) [increase](/post/increase/) funding [for](/post/for/) [education](/post/education/) received [widespread](/post/widespread/) [support](/post/support/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [chairman](/post/chairman/) motioned [for](/post/for/) [a](/post/a/) [moment](/post/moment/) [of](/post/of/) [silence](/post/silence/)."
+- **[Legal](/post/legal/) [sense](/post/sense/)**: "[The](/post/the/) defense attorney filed [a](/post/a/) [motion](/post/motion/) [to](/post/to/) suppress [evidence](/post/evidence/) obtained illegally."
 
 ## Synonyms
-- [Movement](/en/post/movement/)
-- [Action](/en/post/action/)
-- [Gesture](/en/post/gesture/)
-- [Shift](/en/post/shift/)
-- [Proposal](/en/post/proposal/)
-- [Suggestion](/en/post/suggestion/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [formal](/en/post/formal/) meetings)
-- [Request](/en/post/request/) ([in](/en/post/in/) [the](/en/post/the/) [legal](/en/post/legal/) context)
+- [Movement](/post/movement/)
+- [Action](/post/action/)
+- [Gesture](/post/gesture/)
+- [Shift](/post/shift/)
+- [Proposal](/post/proposal/)
+- [Suggestion](/post/suggestion/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [formal](/post/formal/) meetings)
+- [Request](/post/request/) ([in](/post/in/) [the](/post/the/) [legal](/post/legal/) context)

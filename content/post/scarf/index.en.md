@@ -7,30 +7,30 @@ description = '[skɑːf] n.围巾，头巾；领带'
 keywords = ['ai words', 'scarf']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /skɑːf/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [long](/en/post/long/) [piece](/en/post/piece/) [of](/en/post/of/) [cloth](/en/post/cloth/) worn [around](/en/post/around/) [the](/en/post/the/) [neck](/en/post/neck/), [often](/en/post/often/) [to](/en/post/to/) [provide](/en/post/provide/) [warmth](/en/post/warmth/) [or](/en/post/or/) [as](/en/post/as/) an [accessory](/en/post/accessory/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) wore [a](/en/post/a/) colorful [scarf](/en/post/scarf/) [to](/en/post/to/) [complete](/en/post/complete/) [her](/en/post/her/) outfit."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [wrap](/en/post/wrap/) [or](/en/post/or/) [tie](/en/post/tie/) [a](/en/post/a/) [scarf](/en/post/scarf/) [around](/en/post/around/) one's [neck](/en/post/neck/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) tied [a](/en/post/a/) [silk](/en/post/silk/) [scarf](/en/post/scarf/) [around](/en/post/around/) [his](/en/post/his/) [neck](/en/post/neck/) [before](/en/post/before/) leaving [the](/en/post/the/) [house](/en/post/house/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [long](/post/long/) [piece](/post/piece/) [of](/post/of/) [cloth](/post/cloth/) worn [around](/post/around/) [the](/post/the/) [neck](/post/neck/), [often](/post/often/) [to](/post/to/) [provide](/post/provide/) [warmth](/post/warmth/) [or](/post/or/) [as](/post/as/) an [accessory](/post/accessory/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) wore [a](/post/a/) colorful [scarf](/post/scarf/) [to](/post/to/) [complete](/post/complete/) [her](/post/her/) outfit."
+- **[Verb](/post/verb/)**: [To](/post/to/) [wrap](/post/wrap/) [or](/post/or/) [tie](/post/tie/) [a](/post/a/) [scarf](/post/scarf/) [around](/post/around/) one's [neck](/post/neck/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) tied [a](/post/a/) [silk](/post/silk/) [scarf](/post/scarf/) [around](/post/around/) [his](/post/his/) [neck](/post/neck/) [before](/post/before/) leaving [the](/post/the/) [house](/post/house/)."
 
 ## Phrases
-- "[Wrap](/en/post/wrap/) [a](/en/post/a/) [scarf](/en/post/scarf/) [around](/en/post/around/) [your](/en/post/your/) [neck](/en/post/neck/)" [means](/en/post/means/) [to](/en/post/to/) [put](/en/post/put/) [a](/en/post/a/) [scarf](/en/post/scarf/) [on](/en/post/on/) [for](/en/post/for/) [warmth](/en/post/warmth/) [or](/en/post/or/) [style](/en/post/style/).
-- "[A](/en/post/a/) [scarf](/en/post/scarf/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [fashion](/en/post/fashion/) [statement](/en/post/statement/)" highlights [its](/en/post/its/) [role](/en/post/role/) [in](/en/post/in/) [clothing](/en/post/clothing/).
-- "[A](/en/post/a/) [wool](/en/post/wool/) [scarf](/en/post/scarf/) is [perfect](/en/post/perfect/) [for](/en/post/for/) [cold](/en/post/cold/) [weather](/en/post/weather/)" describes [its](/en/post/its/) [function](/en/post/function/).
+- "[Wrap](/post/wrap/) [a](/post/a/) [scarf](/post/scarf/) [around](/post/around/) [your](/post/your/) [neck](/post/neck/)" [means](/post/means/) [to](/post/to/) [put](/post/put/) [a](/post/a/) [scarf](/post/scarf/) [on](/post/on/) [for](/post/for/) [warmth](/post/warmth/) [or](/post/or/) [style](/post/style/).
+- "[A](/post/a/) [scarf](/post/scarf/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [fashion](/post/fashion/) [statement](/post/statement/)" highlights [its](/post/its/) [role](/post/role/) [in](/post/in/) [clothing](/post/clothing/).
+- "[A](/post/a/) [wool](/post/wool/) [scarf](/post/scarf/) is [perfect](/post/perfect/) [for](/post/for/) [cold](/post/cold/) [weather](/post/weather/)" describes [its](/post/its/) [function](/post/function/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) draped [a](/en/post/a/) lightweight [scarf](/en/post/scarf/) [over](/en/post/over/) [her](/en/post/her/) shoulders [on](/en/post/on/) [a](/en/post/a/) chilly [day](/en/post/day/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) rolled [up](/en/post/up/) [his](/en/post/his/) [scarf](/en/post/scarf/) [and](/en/post/and/) tucked [it](/en/post/it/) [into](/en/post/into/) [his](/en/post/his/) backpack."
-- **Phrasal [Verb](/en/post/verb/)**: "I spotted [a](/en/post/a/) [lady](/en/post/lady/) gracefully tying [a](/en/post/a/) [silk](/en/post/silk/) [scarf](/en/post/scarf/) [as](/en/post/as/) [she](/en/post/she/) entered [the](/en/post/the/) café."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) draped [a](/post/a/) lightweight [scarf](/post/scarf/) [over](/post/over/) [her](/post/her/) shoulders [on](/post/on/) [a](/post/a/) chilly [day](/post/day/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) rolled [up](/post/up/) [his](/post/his/) [scarf](/post/scarf/) [and](/post/and/) tucked [it](/post/it/) [into](/post/into/) [his](/post/his/) backpack."
+- **Phrasal [Verb](/post/verb/)**: "I spotted [a](/post/a/) [lady](/post/lady/) gracefully tying [a](/post/a/) [silk](/post/silk/) [scarf](/post/scarf/) [as](/post/as/) [she](/post/she/) entered [the](/post/the/) café."
 
 ## Synonyms
 - Scarfie
 - Shawl
 - Snug
 - H围巾
-- Muffler (informal [in](/en/post/in/) British English)
+- Muffler (informal [in](/post/in/) British English)
 
 ## Antonyms
-- Unscarfed ([not](/en/post/not/) wearing [a](/en/post/a/) [scarf](/en/post/scarf/))
-- [Bare](/en/post/bare/) (uncovered)
+- Unscarfed ([not](/post/not/) wearing [a](/post/a/) [scarf](/post/scarf/))
+- [Bare](/post/bare/) (uncovered)

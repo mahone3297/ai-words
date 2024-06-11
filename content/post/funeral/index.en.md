@@ -7,32 +7,32 @@ description = '[ˈfjuːnərəl] n.葬礼，丧礼，丧葬'
 keywords = ['ai words', 'funeral']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfjuːnərəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [ceremony](/en/post/ceremony/) [or](/en/post/or/) [service](/en/post/service/) held [to](/en/post/to/) honor [a](/en/post/a/) deceased [person](/en/post/person/), typically involving [their](/en/post/their/) burial [or](/en/post/or/) cremation. [It](/en/post/it/) [often](/en/post/often/) includes prayers, eulogies, [and](/en/post/and/) tributes [from](/en/post/from/) [family](/en/post/family/) [and](/en/post/and/) friends. 
+- **[Noun](/post/noun/)**: [A](/post/a/) [ceremony](/post/ceremony/) [or](/post/or/) [service](/post/service/) held [to](/post/to/) honor [a](/post/a/) deceased [person](/post/person/), typically involving [their](/post/their/) burial [or](/post/or/) cremation. [It](/post/it/) [often](/post/often/) includes prayers, eulogies, [and](/post/and/) tributes [from](/post/from/) [family](/post/family/) [and](/post/and/) friends. 
 
-[Example](/en/post/example/) sentences:
-- _The [family](/en/post/family/) is planning [a](/en/post/a/) [solemn](/en/post/solemn/) [funeral](/en/post/funeral/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [the](/en/post/the/) [life](/en/post/life/) [of](/en/post/of/) [their](/en/post/their/) [late](/en/post/late/) [mother](/en/post/mother/)._
-- _A [large](/en/post/large/) [crowd](/en/post/crowd/) gathered [for](/en/post/for/) [the](/en/post/the/) [state](/en/post/state/) [funeral](/en/post/funeral/) [of](/en/post/of/) [the](/en/post/the/) [former](/en/post/former/) [president](/en/post/president/)._
-- _Flowers were laid [out](/en/post/out/) [in](/en/post/in/) abundance [at](/en/post/at/) [the](/en/post/the/) [funeral](/en/post/funeral/) [home](/en/post/home/)._
+[Example](/post/example/) sentences:
+- _The [family](/post/family/) is planning [a](/post/a/) [solemn](/post/solemn/) [funeral](/post/funeral/) [to](/post/to/) [celebrate](/post/celebrate/) [the](/post/the/) [life](/post/life/) [of](/post/of/) [their](/post/their/) [late](/post/late/) [mother](/post/mother/)._
+- _A [large](/post/large/) [crowd](/post/crowd/) gathered [for](/post/for/) [the](/post/the/) [state](/post/state/) [funeral](/post/funeral/) [of](/post/of/) [the](/post/the/) [former](/post/former/) [president](/post/president/)._
+- _Flowers were laid [out](/post/out/) [in](/post/in/) abundance [at](/post/at/) [the](/post/the/) [funeral](/post/funeral/) [home](/post/home/)._
 
 ## Phrases
-- **[Funeral](/en/post/funeral/) [procession](/en/post/procession/)**: [The](/en/post/the/) ordered [line](/en/post/line/) [of](/en/post/of/) vehicles [or](/en/post/or/) [people](/en/post/people/) accompanying [the](/en/post/the/) coffin [to](/en/post/to/) [the](/en/post/the/) burial [site](/en/post/site/) [or](/en/post/or/) crematorium.
-- **[Funeral](/en/post/funeral/) [service](/en/post/service/)**: [The](/en/post/the/) [religious](/en/post/religious/) [or](/en/post/or/) secular [ceremony](/en/post/ceremony/) conducted [by](/en/post/by/) [a](/en/post/a/) [priest](/en/post/priest/), [minister](/en/post/minister/), [or](/en/post/or/) celebrant [in](/en/post/in/) [memory](/en/post/memory/) [of](/en/post/of/) [the](/en/post/the/) deceased.
-- **[Funeral](/en/post/funeral/) rites**: [The](/en/post/the/) [traditional](/en/post/traditional/) [or](/en/post/or/) cultural customs performed [during](/en/post/during/) [a](/en/post/a/) [funeral](/en/post/funeral/) [ceremony](/en/post/ceremony/).
+- **[Funeral](/post/funeral/) [procession](/post/procession/)**: [The](/post/the/) ordered [line](/post/line/) [of](/post/of/) vehicles [or](/post/or/) [people](/post/people/) accompanying [the](/post/the/) coffin [to](/post/to/) [the](/post/the/) burial [site](/post/site/) [or](/post/or/) crematorium.
+- **[Funeral](/post/funeral/) [service](/post/service/)**: [The](/post/the/) [religious](/post/religious/) [or](/post/or/) secular [ceremony](/post/ceremony/) conducted [by](/post/by/) [a](/post/a/) [priest](/post/priest/), [minister](/post/minister/), [or](/post/or/) celebrant [in](/post/in/) [memory](/post/memory/) [of](/post/of/) [the](/post/the/) deceased.
+- **[Funeral](/post/funeral/) rites**: [The](/post/the/) [traditional](/post/traditional/) [or](/post/or/) cultural customs performed [during](/post/during/) [a](/post/a/) [funeral](/post/funeral/) [ceremony](/post/ceremony/).
 
-## [Example](/en/post/example/) Sentences
-- _The [funeral](/en/post/funeral/) [procession](/en/post/procession/) [wound](/en/post/wound/) [its](/en/post/its/) [way](/en/post/way/) [through](/en/post/through/) [the](/en/post/the/) [town](/en/post/town/) streets._
-- _At [the](/en/post/the/) [funeral](/en/post/funeral/) [service](/en/post/service/), [close](/en/post/close/) friends shared heartfelt memories [of](/en/post/of/) [the](/en/post/the/) dearly departed._
-- _In [some](/en/post/some/) cultures, [elaborate](/en/post/elaborate/) [funeral](/en/post/funeral/) rites [can](/en/post/can/) [last](/en/post/last/) [for](/en/post/for/) [several](/en/post/several/) days._
+## [Example](/post/example/) Sentences
+- _The [funeral](/post/funeral/) [procession](/post/procession/) [wound](/post/wound/) [its](/post/its/) [way](/post/way/) [through](/post/through/) [the](/post/the/) [town](/post/town/) streets._
+- _At [the](/post/the/) [funeral](/post/funeral/) [service](/post/service/), [close](/post/close/) friends shared heartfelt memories [of](/post/of/) [the](/post/the/) dearly departed._
+- _In [some](/post/some/) cultures, [elaborate](/post/elaborate/) [funeral](/post/funeral/) rites [can](/post/can/) [last](/post/last/) [for](/post/for/) [several](/post/several/) days._
 
 ## Synonyms
-- [Memorial](/en/post/memorial/) [service](/en/post/service/)
+- [Memorial](/post/memorial/) [service](/post/service/)
 - Burial
-- [Wake](/en/post/wake/)
-- Mourning [ceremony](/en/post/ceremony/)
+- [Wake](/post/wake/)
+- Mourning [ceremony](/post/ceremony/)
 - Internment
-- Celebration [of](/en/post/of/) [life](/en/post/life/)
-- Obsequies ([formal](/en/post/formal/))
+- Celebration [of](/post/of/) [life](/post/life/)
+- Obsequies ([formal](/post/formal/))

@@ -7,44 +7,44 @@ description = '[triːt] vt.对待；处理 n.款待'
 keywords = ['ai words', 'treat']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /triːt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [feast](/en/post/feast/) [or](/en/post/or/) [special](/en/post/special/) [meal](/en/post/meal/)**: "We're planning [a](/en/post/a/) [fancy](/en/post/fancy/) [dinner](/en/post/dinner/) [to](/en/post/to/) [treat](/en/post/treat/) [our](/en/post/our/) guests."
-2. **An [act](/en/post/act/) [of](/en/post/of/) [kindness](/en/post/kindness/) [or](/en/post/or/) hospitality**: "[The](/en/post/the/) [hotel](/en/post/hotel/) [staff](/en/post/staff/) went [above](/en/post/above/) [and](/en/post/and/) [beyond](/en/post/beyond/) [to](/en/post/to/) [treat](/en/post/treat/) [us](/en/post/us/) [well](/en/post/well/)."
-3. **[A](/en/post/a/) [way](/en/post/way/) [of](/en/post/of/) dealing [with](/en/post/with/) [something](/en/post/something/)**: "[Her](/en/post/her/) [new](/en/post/new/) [approach](/en/post/approach/) [to](/en/post/to/) problem-solving was [a](/en/post/a/) [welcome](/en/post/welcome/) [treatment](/en/post/treatment/) [for](/en/post/for/) [the](/en/post/the/) [issue](/en/post/issue/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [feast](/post/feast/) [or](/post/or/) [special](/post/special/) [meal](/post/meal/)**: "We're planning [a](/post/a/) [fancy](/post/fancy/) [dinner](/post/dinner/) [to](/post/to/) [treat](/post/treat/) [our](/post/our/) guests."
+2. **An [act](/post/act/) [of](/post/of/) [kindness](/post/kindness/) [or](/post/or/) hospitality**: "[The](/post/the/) [hotel](/post/hotel/) [staff](/post/staff/) went [above](/post/above/) [and](/post/and/) [beyond](/post/beyond/) [to](/post/to/) [treat](/post/treat/) [us](/post/us/) [well](/post/well/)."
+3. **[A](/post/a/) [way](/post/way/) [of](/post/of/) dealing [with](/post/with/) [something](/post/something/)**: "[Her](/post/her/) [new](/post/new/) [approach](/post/approach/) [to](/post/to/) problem-solving was [a](/post/a/) [welcome](/post/welcome/) [treatment](/post/treatment/) [for](/post/for/) [the](/post/the/) [issue](/post/issue/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [provide](/en/post/provide/) ([a](/en/post/a/) [meal](/en/post/meal/), [service](/en/post/service/), [or](/en/post/or/) [experience](/en/post/experience/)) [as](/en/post/as/) [a](/en/post/a/) favor**: "[They](/en/post/they/) treated [us](/en/post/us/) [to](/en/post/to/) [a](/en/post/a/) [free](/en/post/free/) [movie](/en/post/movie/) [after](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [journey](/en/post/journey/)."
-2. **[To](/en/post/to/) [give](/en/post/give/) [medical](/en/post/medical/) [care](/en/post/care/) [or](/en/post/or/) [attention](/en/post/attention/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) treated [the](/en/post/the/) patient's [wound](/en/post/wound/)."
-3. **[To](/en/post/to/) [regard](/en/post/regard/) [or](/en/post/or/) [consider](/en/post/consider/)**: "[She](/en/post/she/) treated [the](/en/post/the/) [news](/en/post/news/) [with](/en/post/with/) skepticism."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [provide](/post/provide/) ([a](/post/a/) [meal](/post/meal/), [service](/post/service/), [or](/post/or/) [experience](/post/experience/)) [as](/post/as/) [a](/post/a/) favor**: "[They](/post/they/) treated [us](/post/us/) [to](/post/to/) [a](/post/a/) [free](/post/free/) [movie](/post/movie/) [after](/post/after/) [the](/post/the/) [long](/post/long/) [journey](/post/journey/)."
+2. **[To](/post/to/) [give](/post/give/) [medical](/post/medical/) [care](/post/care/) [or](/post/or/) [attention](/post/attention/)**: "[The](/post/the/) [doctor](/post/doctor/) treated [the](/post/the/) patient's [wound](/post/wound/)."
+3. **[To](/post/to/) [regard](/post/regard/) [or](/post/or/) [consider](/post/consider/)**: "[She](/post/she/) treated [the](/post/the/) [news](/post/news/) [with](/post/with/) skepticism."
 
-### [Adjective](/en/post/adjective/)
-1. **[Kind](/en/post/kind/) [or](/en/post/or/) [generous](/en/post/generous/)**: "[His](/en/post/his/) [father](/en/post/father/) was [always](/en/post/always/) [a](/en/post/a/) [very](/en/post/very/) [generous](/en/post/generous/) [treat](/en/post/treat/) [to](/en/post/to/) [those](/en/post/those/) [in](/en/post/in/) [need](/en/post/need/)."
-2. **Delightful [or](/en/post/or/) enjoyable**: "[The](/en/post/the/) [concert](/en/post/concert/) was [a](/en/post/a/) [real](/en/post/real/) [treat](/en/post/treat/) [for](/en/post/for/) [music](/en/post/music/) lovers."
+### [Adjective](/post/adjective/)
+1. **[Kind](/post/kind/) [or](/post/or/) [generous](/post/generous/)**: "[His](/post/his/) [father](/post/father/) was [always](/post/always/) [a](/post/a/) [very](/post/very/) [generous](/post/generous/) [treat](/post/treat/) [to](/post/to/) [those](/post/those/) [in](/post/in/) [need](/post/need/)."
+2. **Delightful [or](/post/or/) enjoyable**: "[The](/post/the/) [concert](/post/concert/) was [a](/post/a/) [real](/post/real/) [treat](/post/treat/) [for](/post/for/) [music](/post/music/) lovers."
 
-### [Adverb](/en/post/adverb/)
-1. **[In](/en/post/in/) [a](/en/post/a/) [special](/en/post/special/) [or](/en/post/or/) [generous](/en/post/generous/) [manner](/en/post/manner/)**: "[He](/en/post/he/) [always](/en/post/always/) treats [his](/en/post/his/) employees [like](/en/post/like/) [family](/en/post/family/)."
+### [Adverb](/post/adverb/)
+1. **[In](/post/in/) [a](/post/a/) [special](/post/special/) [or](/post/or/) [generous](/post/generous/) [manner](/post/manner/)**: "[He](/post/he/) [always](/post/always/) treats [his](/post/his/) employees [like](/post/like/) [family](/post/family/)."
 
 ## Phrases
-- "[Treat](/en/post/treat/) [someone](/en/post/someone/) [to](/en/post/to/)" [means](/en/post/means/) [to](/en/post/to/) [pay](/en/post/pay/) [for](/en/post/for/) [or](/en/post/or/) [arrange](/en/post/arrange/) [something](/en/post/something/) enjoyable [for](/en/post/for/) [someone](/en/post/someone/) [else](/en/post/else/).
-- "[Treat](/en/post/treat/) [yourself](/en/post/yourself/)" encourages self-indulgence [or](/en/post/or/) [a](/en/post/a/) [reward](/en/post/reward/).
-- "[Get](/en/post/get/) treated" refers [to](/en/post/to/) receiving [medical](/en/post/medical/) [care](/en/post/care/) [or](/en/post/or/) [attention](/en/post/attention/).
+- "[Treat](/post/treat/) [someone](/post/someone/) [to](/post/to/)" [means](/post/means/) [to](/post/to/) [pay](/post/pay/) [for](/post/for/) [or](/post/or/) [arrange](/post/arrange/) [something](/post/something/) enjoyable [for](/post/for/) [someone](/post/someone/) [else](/post/else/).
+- "[Treat](/post/treat/) [yourself](/post/yourself/)" encourages self-indulgence [or](/post/or/) [a](/post/a/) [reward](/post/reward/).
+- "[Get](/post/get/) treated" refers [to](/post/to/) receiving [medical](/post/medical/) [care](/post/care/) [or](/post/or/) [attention](/post/attention/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were thrilled [with](/en/post/with/) [the](/en/post/the/) [special](/en/post/special/) [treat](/en/post/treat/) [of](/en/post/of/) [ice](/en/post/ice/) [cream](/en/post/cream/) [on](/en/post/on/) [their](/en/post/their/) [birthday](/en/post/birthday/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [her](/en/post/her/) [work](/en/post/work/), [she](/en/post/she/) decided [to](/en/post/to/) [treat](/en/post/treat/) [herself](/en/post/herself/) [to](/en/post/to/) [a](/en/post/a/) massage."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) vintage [car](/en/post/car/) was [a](/en/post/a/) [real](/en/post/real/) [treat](/en/post/treat/) [to](/en/post/to/) [see](/en/post/see/) [at](/en/post/at/) [the](/en/post/the/) [auto](/en/post/auto/) [show](/en/post/show/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) [always](/en/post/always/) treats [his](/en/post/his/) employees [with](/en/post/with/) [respect](/en/post/respect/) [and](/en/post/and/) appreciation."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were thrilled [with](/post/with/) [the](/post/the/) [special](/post/special/) [treat](/post/treat/) [of](/post/of/) [ice](/post/ice/) [cream](/post/cream/) [on](/post/on/) [their](/post/their/) [birthday](/post/birthday/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) finishing [her](/post/her/) [work](/post/work/), [she](/post/she/) decided [to](/post/to/) [treat](/post/treat/) [herself](/post/herself/) [to](/post/to/) [a](/post/a/) massage."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) vintage [car](/post/car/) was [a](/post/a/) [real](/post/real/) [treat](/post/treat/) [to](/post/to/) [see](/post/see/) [at](/post/at/) [the](/post/the/) [auto](/post/auto/) [show](/post/show/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) [always](/post/always/) treats [his](/post/his/) employees [with](/post/with/) [respect](/post/respect/) [and](/post/and/) appreciation."
 
 ## Synonyms
 - Indulge
-- [Entertain](/en/post/entertain/)
-- [Reward](/en/post/reward/)
+- [Entertain](/post/entertain/)
+- [Reward](/post/reward/)
 - Pamper
-- [Host](/en/post/host/)
-- [Provide](/en/post/provide/) [for](/en/post/for/)
+- [Host](/post/host/)
+- [Provide](/post/provide/) [for](/post/for/)
 - Bestow
-- [Appreciate](/en/post/appreciate/)
+- [Appreciate](/post/appreciate/)

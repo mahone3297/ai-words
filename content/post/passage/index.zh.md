@@ -12,23 +12,23 @@ keywords = ['ai words', 'passage']
 
 ## 释义
 - **名词**:
-  - 一段（文字、音乐、时间等）: 一段文章或故事的一部分。例如: "[Please](/post/please/) [read](/post/read/) [the](/post/the/) [first](/post/first/) [passage](/post/passage/) [of](/post/of/) [the](/post/the/) [book](/post/book/)."
-  - 通道，通路: 可以通过的空间或路径。例如: "There's [a](/post/a/) [narrow](/post/narrow/) [passage](/post/passage/) [between](/post/between/) [the](/post/the/) buildings."
-  - 过程，经过: 某事物从开始到结束的发展。例如: "[The](/post/the/) [passage](/post/passage/) [of](/post/of/) [time](/post/time/) has changed [everything](/post/everything/)."
+  - 一段（文字、音乐、时间等）: 一段文章或故事的一部分。例如: "[Please](/zh/post/please/) [read](/zh/post/read/) [the](/zh/post/the/) [first](/zh/post/first/) [passage](/zh/post/passage/) [of](/zh/post/of/) [the](/zh/post/the/) [book](/zh/post/book/)."
+  - 通道，通路: 可以通过的空间或路径。例如: "There's [a](/zh/post/a/) [narrow](/zh/post/narrow/) [passage](/zh/post/passage/) [between](/zh/post/between/) [the](/zh/post/the/) buildings."
+  - 过程，经过: 某事物从开始到结束的发展。例如: "[The](/zh/post/the/) [passage](/zh/post/passage/) [of](/zh/post/of/) [time](/zh/post/time/) has changed [everything](/zh/post/everything/)."
 
 ## 短语
-- "[passage](/post/passage/) [of](/post/of/) [time](/post/time/)" 指时间的流逝。
-- "[passage](/post/passage/) [through](/post/through/)" 表示穿过或通过某个地方。例如: "[We](/post/we/) made [our](/post/our/) [way](/post/way/) [through](/post/through/) [the](/post/the/) [forest](/post/forest/) [with](/post/with/) [ease](/post/ease/), thanks [to](/post/to/) [the](/post/the/) [clear](/post/clear/) [passage](/post/passage/)."
-- "[air](/post/air/) [passage](/post/passage/)" 在航空中指的是飞行路线。
+- "[passage](/zh/post/passage/) [of](/zh/post/of/) [time](/zh/post/time/)" 指时间的流逝。
+- "[passage](/zh/post/passage/) [through](/zh/post/through/)" 表示穿过或通过某个地方。例如: "[We](/zh/post/we/) made [our](/zh/post/our/) [way](/zh/post/way/) [through](/zh/post/through/) [the](/zh/post/the/) [forest](/zh/post/forest/) [with](/zh/post/with/) [ease](/zh/post/ease/), thanks [to](/zh/post/to/) [the](/zh/post/the/) [clear](/zh/post/clear/) [passage](/zh/post/passage/)."
+- "[air](/zh/post/air/) [passage](/zh/post/passage/)" 在航空中指的是飞行路线。
 
 ## 例句
-- 名词: "[The](/post/the/) [essay](/post/essay/) had [several](/post/several/) well-written passages [that](/post/that/) captured [the](/post/the/) reader's [attention](/post/attention/)."
-- 通道: "[The](/post/the/) [ship](/post/ship/) navigated [safely](/post/safely/) [through](/post/through/) [the](/post/the/) treacherous [passage](/post/passage/) [in](/post/in/) [the](/post/the/) reef."
-- 过程: "[The](/post/the/) [passage](/post/passage/) [from](/post/from/) adolescence [to](/post/to/) adulthood [can](/post/can/) [be](/post/be/) challenging [for](/post/for/) [many](/post/many/) [young](/post/young/) [people](/post/people/)."
+- 名词: "[The](/zh/post/the/) [essay](/zh/post/essay/) had [several](/zh/post/several/) well-written passages [that](/zh/post/that/) captured [the](/zh/post/the/) reader's [attention](/zh/post/attention/)."
+- 通道: "[The](/zh/post/the/) [ship](/zh/post/ship/) navigated [safely](/zh/post/safely/) [through](/zh/post/through/) [the](/zh/post/the/) treacherous [passage](/zh/post/passage/) [in](/zh/post/in/) [the](/zh/post/the/) reef."
+- 过程: "[The](/zh/post/the/) [passage](/zh/post/passage/) [from](/zh/post/from/) adolescence [to](/zh/post/to/) adulthood [can](/zh/post/can/) [be](/zh/post/be/) challenging [for](/zh/post/for/) [many](/zh/post/many/) [young](/zh/post/young/) [people](/zh/post/people/)."
 
 ## 同义词
-- [Section](/post/section/)
+- [Section](/zh/post/section/)
 - Segment
-- [Part](/post/part/)
-- [Chapter](/post/chapter/)
-- [Stage](/post/stage/)
+- [Part](/zh/post/part/)
+- [Chapter](/zh/post/chapter/)
+- [Stage](/zh/post/stage/)

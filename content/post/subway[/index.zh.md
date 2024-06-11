@@ -11,20 +11,20 @@ keywords = ['ai words', 'subway[']
 /ˈsuːbweɪ/
 
 ## 释义
-- **名词**: 地铁，一种在城市地下运行的公共交通系统。例如: "I [usually](/post/usually/) [take](/post/take/) [the](/post/the/) subway [to](/post/to/) [work](/post/work/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
-- **名词**: （美国）轻轨，一种在地面或高架上运行的城市轨道交通。例如: "[The](/post/the/) [new](/post/new/) subway [line](/post/line/) connects [the](/post/the/) downtown [area](/post/area/) [with](/post/with/) [the](/post/the/) suburbs."
+- **名词**: 地铁，一种在城市地下运行的公共交通系统。例如: "I [usually](/zh/post/usually/) [take](/zh/post/take/) [the](/zh/post/the/) subway [to](/zh/post/to/) [work](/zh/post/work/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+- **名词**: （美国）轻轨，一种在地面或高架上运行的城市轨道交通。例如: "[The](/zh/post/the/) [new](/zh/post/new/) subway [line](/zh/post/line/) connects [the](/zh/post/the/) downtown [area](/zh/post/area/) [with](/zh/post/with/) [the](/zh/post/the/) suburbs."
 
 ## 短语
-- "[Take](/post/take/) [the](/post/the/) subway" 意味着乘坐地铁出行。
-- "Subway [station](/post/station/)" 是地铁站，乘客上下地铁的地方。
+- "[Take](/zh/post/take/) [the](/zh/post/the/) subway" 意味着乘坐地铁出行。
+- "Subway [station](/zh/post/station/)" 是地铁站，乘客上下地铁的地方。
 
 ## 例句
-- 名词: "[The](/post/the/) fastest [way](/post/way/) [to](/post/to/) [get](/post/get/) [to](/post/to/) Times [Square](/post/square/) is [by](/post/by/) subway."
-- 名词: "[She](/post/she/) bought [a](/post/a/) [weekly](/post/weekly/) subway [pass](/post/pass/) [to](/post/to/) [save](/post/save/) [money](/post/money/) [on](/post/on/) [transportation](/post/transportation/)."
+- 名词: "[The](/zh/post/the/) fastest [way](/zh/post/way/) [to](/zh/post/to/) [get](/zh/post/get/) [to](/zh/post/to/) Times [Square](/zh/post/square/) is [by](/zh/post/by/) subway."
+- 名词: "[She](/zh/post/she/) bought [a](/zh/post/a/) [weekly](/zh/post/weekly/) subway [pass](/zh/post/pass/) [to](/zh/post/to/) [save](/zh/post/save/) [money](/zh/post/money/) [on](/zh/post/on/) [transportation](/zh/post/transportation/)."
 
 ## 同义词
 - Metro
-- [Underground](/post/underground/)
-- [Tube](/post/tube/) (主要指伦敦的地铁系统)
-- [Rapid](/post/rapid/) transit
-- [Light](/post/light/) [rail](/post/rail/) (在美国，有时用来指轻轨)
+- [Underground](/zh/post/underground/)
+- [Tube](/zh/post/tube/) (主要指伦敦的地铁系统)
+- [Rapid](/zh/post/rapid/) transit
+- [Light](/zh/post/light/) [rail](/zh/post/rail/) (在美国，有时用来指轻轨)

@@ -7,38 +7,38 @@ description = '[krɑːft] n.工艺；手艺，行业'
 keywords = ['ai words', 'craft']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kraft/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [skill](/en/post/skill/) [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) [make](/en/post/make/) things [with](/en/post/with/) hands, [especially](/en/post/especially/) [by](/en/post/by/) using tools [or](/en/post/or/) materials: *[She](/en/post/she/) is [a](/en/post/a/) [master](/en/post/master/) [of](/en/post/of/) crafts [like](/en/post/like/) woodworking [and](/en/post/and/) pottery.*
-2. An [activity](/en/post/activity/) [that](/en/post/that/) involves making things, [often](/en/post/often/) [as](/en/post/as/) [a](/en/post/a/) [hobby](/en/post/hobby/) [or](/en/post/or/) [profession](/en/post/profession/): *Embroidery is [a](/en/post/a/) [traditional](/en/post/traditional/) [craft](/en/post/craft/) passed [down](/en/post/down/) [through](/en/post/through/) generations.*
-3. [A](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [object](/en/post/object/) made [with](/en/post/with/) [skilled](/en/post/skilled/) workmanship: *[The](/en/post/the/) intricate [wooden](/en/post/wooden/) crafts [on](/en/post/on/) [display](/en/post/display/) were [highly](/en/post/highly/) valued [by](/en/post/by/) collectors.*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [skill](/post/skill/) [or](/post/or/) [ability](/post/ability/) [to](/post/to/) [make](/post/make/) things [with](/post/with/) hands, [especially](/post/especially/) [by](/post/by/) using tools [or](/post/or/) materials: *[She](/post/she/) is [a](/post/a/) [master](/post/master/) [of](/post/of/) crafts [like](/post/like/) woodworking [and](/post/and/) pottery.*
+2. An [activity](/post/activity/) [that](/post/that/) involves making things, [often](/post/often/) [as](/post/as/) [a](/post/a/) [hobby](/post/hobby/) [or](/post/or/) [profession](/post/profession/): *Embroidery is [a](/post/a/) [traditional](/post/traditional/) [craft](/post/craft/) passed [down](/post/down/) [through](/post/through/) generations.*
+3. [A](/post/a/) [product](/post/product/) [or](/post/or/) [object](/post/object/) made [with](/post/with/) [skilled](/post/skilled/) workmanship: *[The](/post/the/) intricate [wooden](/post/wooden/) crafts [on](/post/on/) [display](/post/display/) were [highly](/post/highly/) valued [by](/post/by/) collectors.*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [create](/en/post/create/), [make](/en/post/make/), [or](/en/post/or/) [produce](/en/post/produce/) [something](/en/post/something/) [with](/en/post/with/) [care](/en/post/care/) [and](/en/post/and/) [skill](/en/post/skill/): *[She](/en/post/she/) crafted [a](/en/post/a/) [beautiful](/en/post/beautiful/) [birthday](/en/post/birthday/) [card](/en/post/card/) [for](/en/post/for/) [her](/en/post/her/) [friend](/en/post/friend/).*
-2. [To](/en/post/to/) [fashion](/en/post/fashion/) [or](/en/post/or/) [assemble](/en/post/assemble/) (an [item](/en/post/item/)), typically [with](/en/post/with/) [great](/en/post/great/) [care](/en/post/care/): *[He](/en/post/he/) crafted [a](/en/post/a/) compelling narrative [for](/en/post/for/) [his](/en/post/his/) [novel](/en/post/novel/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [create](/post/create/), [make](/post/make/), [or](/post/or/) [produce](/post/produce/) [something](/post/something/) [with](/post/with/) [care](/post/care/) [and](/post/and/) [skill](/post/skill/): *[She](/post/she/) crafted [a](/post/a/) [beautiful](/post/beautiful/) [birthday](/post/birthday/) [card](/post/card/) [for](/post/for/) [her](/post/her/) [friend](/post/friend/).*
+2. [To](/post/to/) [fashion](/post/fashion/) [or](/post/or/) [assemble](/post/assemble/) (an [item](/post/item/)), typically [with](/post/with/) [great](/post/great/) [care](/post/care/): *[He](/post/he/) crafted [a](/post/a/) compelling narrative [for](/post/for/) [his](/post/his/) [novel](/post/novel/).*
 
-### [Adjective](/en/post/adjective/)
-1. Characterized [by](/en/post/by/) [skill](/en/post/skill/) [and](/en/post/and/) artistry: *[A](/en/post/a/) crafty [solution](/en/post/solution/) [to](/en/post/to/) [a](/en/post/a/) [problem](/en/post/problem/).*
-2. Done [with](/en/post/with/) [great](/en/post/great/) [care](/en/post/care/) [and](/en/post/and/) [attention](/en/post/attention/) [to](/en/post/to/) [detail](/en/post/detail/): *[A](/en/post/a/) crafty [piece](/en/post/piece/) [of](/en/post/of/) [furniture](/en/post/furniture/), lovingly restored.*
+### [Adjective](/post/adjective/)
+1. Characterized [by](/post/by/) [skill](/post/skill/) [and](/post/and/) artistry: *[A](/post/a/) crafty [solution](/post/solution/) [to](/post/to/) [a](/post/a/) [problem](/post/problem/).*
+2. Done [with](/post/with/) [great](/post/great/) [care](/post/care/) [and](/post/and/) [attention](/post/attention/) [to](/post/to/) [detail](/post/detail/): *[A](/post/a/) crafty [piece](/post/piece/) [of](/post/of/) [furniture](/post/furniture/), lovingly restored.*
 
 ## Phrases
-- "[Master](/en/post/master/) [the](/en/post/the/) [craft](/en/post/craft/)" [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) [highly](/en/post/highly/) [skilled](/en/post/skilled/) [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [trade](/en/post/trade/) [or](/en/post/or/) [art](/en/post/art/).
-- "[Craft](/en/post/craft/) [a](/en/post/a/) [story](/en/post/story/)" refers [to](/en/post/to/) creating [a](/en/post/a/) narrative [or](/en/post/or/) [plot](/en/post/plot/).
-- "Handcrafted items" are products made individually, [often](/en/post/often/) [with](/en/post/with/) [personal](/en/post/personal/) [touch](/en/post/touch/).
+- "[Master](/post/master/) [the](/post/the/) [craft](/post/craft/)" [means](/post/means/) [to](/post/to/) [become](/post/become/) [highly](/post/highly/) [skilled](/post/skilled/) [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [trade](/post/trade/) [or](/post/or/) [art](/post/art/).
+- "[Craft](/post/craft/) [a](/post/a/) [story](/post/story/)" refers [to](/post/to/) creating [a](/post/a/) narrative [or](/post/or/) [plot](/post/plot/).
+- "Handcrafted items" are products made individually, [often](/post/often/) [with](/post/with/) [personal](/post/personal/) [touch](/post/touch/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) [learned](/en/post/learned/) [the](/en/post/the/) [craft](/en/post/craft/) [of](/en/post/of/) blacksmithing [from](/en/post/from/) [her](/en/post/her/) [grandfather](/en/post/grandfather/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [artist](/en/post/artist/) spent months crafting [a](/en/post/a/) sculpture [out](/en/post/out/) [of](/en/post/of/) [metal](/en/post/metal/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) pottery is [a](/en/post/a/) [true](/en/post/true/) [work](/en/post/work/) [of](/en/post/of/) [craft](/en/post/craft/), [with](/en/post/with/) [each](/en/post/each/) [piece](/en/post/piece/) [unique](/en/post/unique/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) [learned](/post/learned/) [the](/post/the/) [craft](/post/craft/) [of](/post/of/) blacksmithing [from](/post/from/) [her](/post/her/) [grandfather](/post/grandfather/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [artist](/post/artist/) spent months crafting [a](/post/a/) sculpture [out](/post/out/) [of](/post/of/) [metal](/post/metal/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) pottery is [a](/post/a/) [true](/post/true/) [work](/post/work/) [of](/post/of/) [craft](/post/craft/), [with](/post/with/) [each](/post/each/) [piece](/post/piece/) [unique](/post/unique/)."
 
 ## Synonyms
 - Artisanal
-- [Skilled](/en/post/skilled/) [work](/en/post/work/)
+- [Skilled](/post/skilled/) [work](/post/work/)
 - Handicraft
 - Workmanship
 - Expertise
 
-### [Note](/en/post/note/): "[Craft](/en/post/craft/)" [can](/en/post/can/) [also](/en/post/also/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [but](/en/post/but/) [its](/en/post/its/) [usage](/en/post/usage/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) is [more](/en/post/more/) [common](/en/post/common/).
+### [Note](/post/note/): "[Craft](/post/craft/)" [can](/post/can/) [also](/post/also/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [but](/post/but/) [its](/post/its/) [usage](/post/usage/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) is [more](/post/more/) [common](/post/common/).

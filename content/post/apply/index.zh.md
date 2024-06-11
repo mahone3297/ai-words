@@ -12,23 +12,23 @@ keywords = ['ai words', 'apply']
 
 ## 释义
 - **动词**:
-  - 申请: 请求或请求获得职位、许可、奖学金等。例如: "[She](/post/she/) applied [for](/post/for/) [a](/post/a/) [job](/post/job/) [at](/post/at/) [the](/post/the/) [company](/post/company/)."
-  - 使用: 把某物用于特定目的。例如: "I'm applying [this](/post/this/) [cream](/post/cream/) [to](/post/to/) [my](/post/my/) [skin](/post/skin/)."
-  - 施加: 将力量、原则或方法应用于某事。例如: "[The](/post/the/) [teacher](/post/teacher/) applied [the](/post/the/) [new](/post/new/) [teaching](/post/teaching/) [method](/post/method/) [in](/post/in/) [class](/post/class/)."
+  - 申请: 请求或请求获得职位、许可、奖学金等。例如: "[She](/zh/post/she/) applied [for](/zh/post/for/) [a](/zh/post/a/) [job](/zh/post/job/) [at](/zh/post/at/) [the](/zh/post/the/) [company](/zh/post/company/)."
+  - 使用: 把某物用于特定目的。例如: "I'm applying [this](/zh/post/this/) [cream](/zh/post/cream/) [to](/zh/post/to/) [my](/zh/post/my/) [skin](/zh/post/skin/)."
+  - 施加: 将力量、原则或方法应用于某事。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) applied [the](/zh/post/the/) [new](/zh/post/new/) [teaching](/zh/post/teaching/) [method](/zh/post/method/) [in](/zh/post/in/) [class](/zh/post/class/)."
 
 ## 短语
-- "[apply](/post/apply/) [for](/post/for/)" 申请。例如: "[You](/post/you/) [need](/post/need/) [to](/post/to/) [apply](/post/apply/) [for](/post/for/) [a](/post/a/) visa [before](/post/before/) traveling [abroad](/post/abroad/)."
-- "[apply](/post/apply/) [to](/post/to/)" 适用于。例如: "[These](/post/these/) rules [apply](/post/apply/) [to](/post/to/) [all](/post/all/) employees."
-- "[apply](/post/apply/) [oneself](/post/oneself/) [to](/post/to/)" 致力于。例如: "[He](/post/he/) applied [himself](/post/himself/) [to](/post/to/) studying [for](/post/for/) [the](/post/the/) exams."
+- "[apply](/zh/post/apply/) [for](/zh/post/for/)" 申请。例如: "[You](/zh/post/you/) [need](/zh/post/need/) [to](/zh/post/to/) [apply](/zh/post/apply/) [for](/zh/post/for/) [a](/zh/post/a/) visa [before](/zh/post/before/) traveling [abroad](/zh/post/abroad/)."
+- "[apply](/zh/post/apply/) [to](/zh/post/to/)" 适用于。例如: "[These](/zh/post/these/) rules [apply](/zh/post/apply/) [to](/zh/post/to/) [all](/zh/post/all/) employees."
+- "[apply](/zh/post/apply/) [oneself](/zh/post/oneself/) [to](/zh/post/to/)" 致力于。例如: "[He](/zh/post/he/) applied [himself](/zh/post/himself/) [to](/zh/post/to/) studying [for](/zh/post/for/) [the](/zh/post/the/) exams."
 
 ## 例句
-- 申请: "I [just](/post/just/) applied [for](/post/for/) [a](/post/a/) [loan](/post/loan/) [at](/post/at/) [the](/post/the/) [bank](/post/bank/)."
-- 使用: "[She](/post/she/) applies sunscreen [every](/post/every/) [morning](/post/morning/) [to](/post/to/) [protect](/post/protect/) [her](/post/her/) [skin](/post/skin/) [from](/post/from/) [the](/post/the/) [sun](/post/sun/)."
-- 施加: "[The](/post/the/) [principle](/post/principle/) [of](/post/of/) [supply](/post/supply/) [and](/post/and/) [demand](/post/demand/) applies [to](/post/to/) [all](/post/all/) markets."
+- 申请: "I [just](/zh/post/just/) applied [for](/zh/post/for/) [a](/zh/post/a/) [loan](/zh/post/loan/) [at](/zh/post/at/) [the](/zh/post/the/) [bank](/zh/post/bank/)."
+- 使用: "[She](/zh/post/she/) applies sunscreen [every](/zh/post/every/) [morning](/zh/post/morning/) [to](/zh/post/to/) [protect](/zh/post/protect/) [her](/zh/post/her/) [skin](/zh/post/skin/) [from](/zh/post/from/) [the](/zh/post/the/) [sun](/zh/post/sun/)."
+- 施加: "[The](/zh/post/the/) [principle](/zh/post/principle/) [of](/zh/post/of/) [supply](/zh/post/supply/) [and](/zh/post/and/) [demand](/zh/post/demand/) applies [to](/zh/post/to/) [all](/zh/post/all/) markets."
 
 ## 同义词
-- [request](/post/request/)
-- [seek](/post/seek/)
-- [ask](/post/ask/) [for](/post/for/)
+- [request](/zh/post/request/)
+- [seek](/zh/post/seek/)
+- [ask](/zh/post/ask/) [for](/zh/post/for/)
 - petition
-- endeavor ([to](/post/to/) [use](/post/use/) [or](/post/or/) [apply](/post/apply/))
+- endeavor ([to](/zh/post/to/) [use](/zh/post/use/) [or](/zh/post/or/) [apply](/zh/post/apply/))

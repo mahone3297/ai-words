@@ -7,44 +7,44 @@ description = '[∫ip] n.(大)船，海船，舰'
 keywords = ['ai words', 'ship']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ʃɪp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Aircraft](/en/post/aircraft/) [carrier](/en/post/carrier/)**: [A](/en/post/a/) [large](/en/post/large/) warship designed [to](/en/post/to/) [carry](/en/post/carry/) [and](/en/post/and/) [support](/en/post/support/) [aircraft](/en/post/aircraft/), typically [with](/en/post/with/) [a](/en/post/a/) [flat](/en/post/flat/) [deck](/en/post/deck/) [for](/en/post/for/) takeoffs [and](/en/post/and/) landings. [Example](/en/post/example/): "[The](/en/post/the/) [aircraft](/en/post/aircraft/) [carrier](/en/post/carrier/) USS Enterprise was [a](/en/post/a/) formidable [force](/en/post/force/) [in](/en/post/in/) [the](/en/post/the/) [Pacific](/en/post/pacific/) [during](/en/post/during/) [World](/en/post/world/) [War](/en/post/war/) II."
-2. **[Vessel](/en/post/vessel/)**: [A](/en/post/a/) [large](/en/post/large/) waterborne [craft](/en/post/craft/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [boat](/en/post/boat/) [or](/en/post/or/) [a](/en/post/a/) [container](/en/post/container/) [ship](/en/post/ship/), [used](/en/post/used/) [for](/en/post/for/) [transportation](/en/post/transportation/). [Example](/en/post/example/): "[The](/en/post/the/) [cargo](/en/post/cargo/) [ship](/en/post/ship/) sailed [from](/en/post/from/) Europe [to](/en/post/to/) [Asia](/en/post/asia/), carrying [goods](/en/post/goods/) [across](/en/post/across/) [the](/en/post/the/) [ocean](/en/post/ocean/)."
-3. **[Spacecraft](/en/post/spacecraft/)**: [A](/en/post/a/) [vehicle](/en/post/vehicle/) designed [to](/en/post/to/) [travel](/en/post/travel/) [through](/en/post/through/) [outer](/en/post/outer/) [space](/en/post/space/). [Example](/en/post/example/): "[The](/en/post/the/) Mars rover is [a](/en/post/a/) [small](/en/post/small/) [spaceship](/en/post/spaceship/) [that](/en/post/that/) explores [the](/en/post/the/) [Red](/en/post/red/) [Planet](/en/post/planet/)."
-4. **[Fiction](/en/post/fiction/)**: [A](/en/post/a/) [literary](/en/post/literary/) [or](/en/post/or/) cinematic [work](/en/post/work/) [set](/en/post/set/) [on](/en/post/on/) [a](/en/post/a/) [ship](/en/post/ship/) [or](/en/post/or/) involving maritime adventures. [Example](/en/post/example/): "Jules Verne's '[Twenty](/en/post/twenty/) [Thousand](/en/post/thousand/) Leagues [Under](/en/post/under/) [the](/en/post/the/) [Sea](/en/post/sea/)' is [a](/en/post/a/) classic ship-based [novel](/en/post/novel/)."
-5. **Metaphor**: [A](/en/post/a/) figurative [comparison](/en/post/comparison/) using [the](/en/post/the/) [image](/en/post/image/) [of](/en/post/of/) [a](/en/post/a/) [ship](/en/post/ship/). [Example](/en/post/example/): "[Life](/en/post/life/) is [a](/en/post/a/) [journey](/en/post/journey/), [and](/en/post/and/) we're [all](/en/post/all/) passengers [on](/en/post/on/) [the](/en/post/the/) [same](/en/post/same/) [ship](/en/post/ship/)."
+### [Noun](/post/noun/)
+1. **[Aircraft](/post/aircraft/) [carrier](/post/carrier/)**: [A](/post/a/) [large](/post/large/) warship designed [to](/post/to/) [carry](/post/carry/) [and](/post/and/) [support](/post/support/) [aircraft](/post/aircraft/), typically [with](/post/with/) [a](/post/a/) [flat](/post/flat/) [deck](/post/deck/) [for](/post/for/) takeoffs [and](/post/and/) landings. [Example](/post/example/): "[The](/post/the/) [aircraft](/post/aircraft/) [carrier](/post/carrier/) USS Enterprise was [a](/post/a/) formidable [force](/post/force/) [in](/post/in/) [the](/post/the/) [Pacific](/post/pacific/) [during](/post/during/) [World](/post/world/) [War](/post/war/) II."
+2. **[Vessel](/post/vessel/)**: [A](/post/a/) [large](/post/large/) waterborne [craft](/post/craft/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [boat](/post/boat/) [or](/post/or/) [a](/post/a/) [container](/post/container/) [ship](/post/ship/), [used](/post/used/) [for](/post/for/) [transportation](/post/transportation/). [Example](/post/example/): "[The](/post/the/) [cargo](/post/cargo/) [ship](/post/ship/) sailed [from](/post/from/) Europe [to](/post/to/) [Asia](/post/asia/), carrying [goods](/post/goods/) [across](/post/across/) [the](/post/the/) [ocean](/post/ocean/)."
+3. **[Spacecraft](/post/spacecraft/)**: [A](/post/a/) [vehicle](/post/vehicle/) designed [to](/post/to/) [travel](/post/travel/) [through](/post/through/) [outer](/post/outer/) [space](/post/space/). [Example](/post/example/): "[The](/post/the/) Mars rover is [a](/post/a/) [small](/post/small/) [spaceship](/post/spaceship/) [that](/post/that/) explores [the](/post/the/) [Red](/post/red/) [Planet](/post/planet/)."
+4. **[Fiction](/post/fiction/)**: [A](/post/a/) [literary](/post/literary/) [or](/post/or/) cinematic [work](/post/work/) [set](/post/set/) [on](/post/on/) [a](/post/a/) [ship](/post/ship/) [or](/post/or/) involving maritime adventures. [Example](/post/example/): "Jules Verne's '[Twenty](/post/twenty/) [Thousand](/post/thousand/) Leagues [Under](/post/under/) [the](/post/the/) [Sea](/post/sea/)' is [a](/post/a/) classic ship-based [novel](/post/novel/)."
+5. **Metaphor**: [A](/post/a/) figurative [comparison](/post/comparison/) using [the](/post/the/) [image](/post/image/) [of](/post/of/) [a](/post/a/) [ship](/post/ship/). [Example](/post/example/): "[Life](/post/life/) is [a](/post/a/) [journey](/post/journey/), [and](/post/and/) we're [all](/post/all/) passengers [on](/post/on/) [the](/post/the/) [same](/post/same/) [ship](/post/ship/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [transport](/en/post/transport/) [by](/en/post/by/) [sea](/en/post/sea/) [or](/en/post/or/) [air](/en/post/air/). [Example](/en/post/example/): "[The](/en/post/the/) [ship](/en/post/ship/) [will](/en/post/will/) [depart](/en/post/depart/) [tomorrow](/en/post/tomorrow/) [for](/en/post/for/) [its](/en/post/its/) maiden [voyage](/en/post/voyage/)."
-2. [To](/en/post/to/) [convey](/en/post/convey/) [or](/en/post/or/) [send](/en/post/send/) ([information](/en/post/information/), [goods](/en/post/goods/), etc.) [via](/en/post/via/) [a](/en/post/a/) [ship](/en/post/ship/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) shipped thousands [of](/en/post/of/) boxes [of](/en/post/of/) products [to](/en/post/to/) [their](/en/post/their/) customers."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [transport](/post/transport/) [by](/post/by/) [sea](/post/sea/) [or](/post/or/) [air](/post/air/). [Example](/post/example/): "[The](/post/the/) [ship](/post/ship/) [will](/post/will/) [depart](/post/depart/) [tomorrow](/post/tomorrow/) [for](/post/for/) [its](/post/its/) maiden [voyage](/post/voyage/)."
+2. [To](/post/to/) [convey](/post/convey/) [or](/post/or/) [send](/post/send/) ([information](/post/information/), [goods](/post/goods/), etc.) [via](/post/via/) [a](/post/a/) [ship](/post/ship/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) shipped thousands [of](/post/of/) boxes [of](/post/of/) products [to](/post/to/) [their](/post/their/) customers."
 
-### [Noun](/en/post/noun/) (informal)
-1. **[Team](/en/post/team/) [or](/en/post/or/) [group](/en/post/group/)**: [A](/en/post/a/) metaphorical [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) individuals working [together](/en/post/together/). [Example](/en/post/example/): "We're [all](/en/post/all/) [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [boat](/en/post/boat/); let's [row](/en/post/row/) [together](/en/post/together/) [to](/en/post/to/) [reach](/en/post/reach/) [our](/en/post/our/) [goal](/en/post/goal/)."
+### [Noun](/post/noun/) (informal)
+1. **[Team](/post/team/) [or](/post/or/) [group](/post/group/)**: [A](/post/a/) metaphorical [term](/post/term/) [for](/post/for/) [a](/post/a/) [collection](/post/collection/) [of](/post/of/) individuals working [together](/post/together/). [Example](/post/example/): "We're [all](/post/all/) [in](/post/in/) [the](/post/the/) [same](/post/same/) [boat](/post/boat/); let's [row](/post/row/) [together](/post/together/) [to](/post/to/) [reach](/post/reach/) [our](/post/our/) [goal](/post/goal/)."
 
 ## Phrases
-- "Embark [on](/en/post/on/) [a](/en/post/a/) [ship](/en/post/ship/)" [to](/en/post/to/) [start](/en/post/start/) [a](/en/post/a/) [journey](/en/post/journey/) [by](/en/post/by/) [sea](/en/post/sea/) [or](/en/post/or/) [air](/en/post/air/).
-- "[Ship](/en/post/ship/) [something](/en/post/something/)" [to](/en/post/to/) [send](/en/post/send/) [or](/en/post/or/) [transport](/en/post/transport/) [it](/en/post/it/) [by](/en/post/by/) [sea](/en/post/sea/) [or](/en/post/or/) [air](/en/post/air/).
-- "[Be](/en/post/be/) [on](/en/post/on/) [board](/en/post/board/) [a](/en/post/a/) [ship](/en/post/ship/)" [to](/en/post/to/) [be](/en/post/be/) [aboard](/en/post/aboard/) [a](/en/post/a/) [vessel](/en/post/vessel/) [during](/en/post/during/) [a](/en/post/a/) [trip](/en/post/trip/).
-- "[Sail](/en/post/sail/) [the](/en/post/the/) seas" [to](/en/post/to/) navigate [and](/en/post/and/) [explore](/en/post/explore/) [the](/en/post/the/) oceans.
+- "Embark [on](/post/on/) [a](/post/a/) [ship](/post/ship/)" [to](/post/to/) [start](/post/start/) [a](/post/a/) [journey](/post/journey/) [by](/post/by/) [sea](/post/sea/) [or](/post/or/) [air](/post/air/).
+- "[Ship](/post/ship/) [something](/post/something/)" [to](/post/to/) [send](/post/send/) [or](/post/or/) [transport](/post/transport/) [it](/post/it/) [by](/post/by/) [sea](/post/sea/) [or](/post/or/) [air](/post/air/).
+- "[Be](/post/be/) [on](/post/on/) [board](/post/board/) [a](/post/a/) [ship](/post/ship/)" [to](/post/to/) [be](/post/be/) [aboard](/post/aboard/) [a](/post/a/) [vessel](/post/vessel/) [during](/post/during/) [a](/post/a/) [trip](/post/trip/).
+- "[Sail](/post/sail/) [the](/post/the/) seas" [to](/post/to/) navigate [and](/post/and/) [explore](/post/explore/) [the](/post/the/) oceans.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) ship's [crew](/en/post/crew/) was well-trained [and](/en/post/and/) [ready](/en/post/ready/) [for](/en/post/for/) [any](/en/post/any/) [challenge](/en/post/challenge/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [package](/en/post/package/) was shipped internationally [to](/en/post/to/) [arrive](/en/post/arrive/) [at](/en/post/at/) [its](/en/post/its/) [destination](/en/post/destination/)."
-- **Informal [Noun](/en/post/noun/)**: "[As](/en/post/as/) [a](/en/post/a/) [team](/en/post/team/), [we](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [row](/en/post/row/) [in](/en/post/in/) sync [if](/en/post/if/) [we](/en/post/we/) [want](/en/post/want/) [to](/en/post/to/) [ship](/en/post/ship/) [this](/en/post/this/) [project](/en/post/project/) [on](/en/post/on/) [time](/en/post/time/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) ship's [crew](/post/crew/) was well-trained [and](/post/and/) [ready](/post/ready/) [for](/post/for/) [any](/post/any/) [challenge](/post/challenge/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [package](/post/package/) was shipped internationally [to](/post/to/) [arrive](/post/arrive/) [at](/post/at/) [its](/post/its/) [destination](/post/destination/)."
+- **Informal [Noun](/post/noun/)**: "[As](/post/as/) [a](/post/a/) [team](/post/team/), [we](/post/we/) [need](/post/need/) [to](/post/to/) [row](/post/row/) [in](/post/in/) sync [if](/post/if/) [we](/post/we/) [want](/post/want/) [to](/post/to/) [ship](/post/ship/) [this](/post/this/) [project](/post/project/) [on](/post/on/) [time](/post/time/)."
 
 ## Synonyms
-- [Vessel](/en/post/vessel/)
-- [Boat](/en/post/boat/)
-- [Craft](/en/post/craft/)
-- [Marine](/en/post/marine/) [vessel](/en/post/vessel/)
+- [Vessel](/post/vessel/)
+- [Boat](/post/boat/)
+- [Craft](/post/craft/)
+- [Marine](/post/marine/) [vessel](/post/vessel/)
 - Airship
-- [Ocean](/en/post/ocean/) [liner](/en/post/liner/)
-- [Cargo](/en/post/cargo/) [ship](/en/post/ship/)
-- [Naval](/en/post/naval/) [vessel](/en/post/vessel/)
-- Cruise [ship](/en/post/ship/)
+- [Ocean](/post/ocean/) [liner](/post/liner/)
+- [Cargo](/post/cargo/) [ship](/post/ship/)
+- [Naval](/post/naval/) [vessel](/post/vessel/)
+- Cruise [ship](/post/ship/)
 
-*[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) "[ship](/en/post/ship/)" [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) transporting [or](/en/post/or/) conveying is [often](/en/post/often/) informal [or](/en/post/or/) colloquial, [and](/en/post/and/) [may](/en/post/may/) [not](/en/post/not/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [standard](/en/post/standard/) dictionaries [as](/en/post/as/) [a](/en/post/a/) [formal](/en/post/formal/) [verb](/en/post/verb/) conjugation.
+*[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) "[ship](/post/ship/)" [in](/post/in/) [the](/post/the/) context [of](/post/of/) transporting [or](/post/or/) conveying is [often](/post/often/) informal [or](/post/or/) colloquial, [and](/post/and/) [may](/post/may/) [not](/post/not/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [standard](/post/standard/) dictionaries [as](/post/as/) [a](/post/a/) [formal](/post/formal/) [verb](/post/verb/) conjugation.

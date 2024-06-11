@@ -7,35 +7,35 @@ description = '[beniˈfi∫əl] a.有利的，有益的'
 keywords = ['ai words', 'beneficial']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈnɛfɪʃl/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **Describing [something](/en/post/something/) [that](/en/post/that/) has [a](/en/post/a/) [positive](/en/post/positive/) [effect](/en/post/effect/) [or](/en/post/or/) [advantage](/en/post/advantage/)**: [Something](/en/post/something/) [that](/en/post/that/) is advantageous, [helpful](/en/post/helpful/), [or](/en/post/or/) favorable. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) has been [beneficial](/en/post/beneficial/) [for](/en/post/for/) [the](/en/post/the/) employees."
-- **Favorable [to](/en/post/to/) [health](/en/post/health/) [or](/en/post/or/) well-being**: [Something](/en/post/something/) [that](/en/post/that/) promotes [good](/en/post/good/) [health](/en/post/health/) [or](/en/post/or/) contributes [to](/en/post/to/) one's [welfare](/en/post/welfare/). [For](/en/post/for/) [example](/en/post/example/): "[Regular](/en/post/regular/) [exercise](/en/post/exercise/) is [highly](/en/post/highly/) [beneficial](/en/post/beneficial/) [for](/en/post/for/) [physical](/en/post/physical/) fitness."
+### [Adjective](/post/adjective/)
+- **Describing [something](/post/something/) [that](/post/that/) has [a](/post/a/) [positive](/post/positive/) [effect](/post/effect/) [or](/post/or/) [advantage](/post/advantage/)**: [Something](/post/something/) [that](/post/that/) is advantageous, [helpful](/post/helpful/), [or](/post/or/) favorable. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) has been [beneficial](/post/beneficial/) [for](/post/for/) [the](/post/the/) employees."
+- **Favorable [to](/post/to/) [health](/post/health/) [or](/post/or/) well-being**: [Something](/post/something/) [that](/post/that/) promotes [good](/post/good/) [health](/post/health/) [or](/post/or/) contributes [to](/post/to/) one's [welfare](/post/welfare/). [For](/post/for/) [example](/post/example/): "[Regular](/post/regular/) [exercise](/post/exercise/) is [highly](/post/highly/) [beneficial](/post/beneficial/) [for](/post/for/) [physical](/post/physical/) fitness."
 
-## [Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))
-- [A](/en/post/a/) [quality](/en/post/quality/) [or](/en/post/or/) [action](/en/post/action/) [that](/en/post/that/) brings advantages [or](/en/post/or/) [good](/en/post/good/): [The](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) [being](/en/post/being/) [beneficial](/en/post/beneficial/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) generosity was [a](/en/post/a/) [truly](/en/post/truly/) [beneficial](/en/post/beneficial/) trait."
+## [Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))
+- [A](/post/a/) [quality](/post/quality/) [or](/post/or/) [action](/post/action/) [that](/post/that/) brings advantages [or](/post/or/) [good](/post/good/): [The](/post/the/) [concept](/post/concept/) [of](/post/of/) [being](/post/being/) [beneficial](/post/beneficial/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) generosity was [a](/post/a/) [truly](/post/truly/) [beneficial](/post/beneficial/) trait."
 
-## [Verb](/en/post/verb/) ([rarely](/en/post/rarely/) [used](/en/post/used/))
-- [To](/en/post/to/) [cause](/en/post/cause/) [or](/en/post/or/) [bring](/en/post/bring/) [about](/en/post/about/) [something](/en/post/something/) [beneficial](/en/post/beneficial/): [The](/en/post/the/) [treatment](/en/post/treatment/) is said [to](/en/post/to/) [be](/en/post/be/) [beneficial](/en/post/beneficial/) [for](/en/post/for/) patients. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) diet [plan](/en/post/plan/) has benefited [her](/en/post/her/) [weight](/en/post/weight/) [loss](/en/post/loss/) [journey](/en/post/journey/)."
+## [Verb](/post/verb/) ([rarely](/post/rarely/) [used](/post/used/))
+- [To](/post/to/) [cause](/post/cause/) [or](/post/or/) [bring](/post/bring/) [about](/post/about/) [something](/post/something/) [beneficial](/post/beneficial/): [The](/post/the/) [treatment](/post/treatment/) is said [to](/post/to/) [be](/post/be/) [beneficial](/post/beneficial/) [for](/post/for/) patients. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) diet [plan](/post/plan/) has benefited [her](/post/her/) [weight](/post/weight/) [loss](/post/loss/) [journey](/post/journey/)."
 
 ## Phrases
-- "[Beneficial](/en/post/beneficial/) effects"
-- "[A](/en/post/a/) [beneficial](/en/post/beneficial/) [change](/en/post/change/)"
-- "[Beneficial](/en/post/beneficial/) [to](/en/post/to/) [both](/en/post/both/) parties"
+- "[Beneficial](/post/beneficial/) effects"
+- "[A](/post/a/) [beneficial](/post/beneficial/) [change](/post/change/)"
+- "[Beneficial](/post/beneficial/) [to](/post/to/) [both](/post/both/) parties"
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) software update has significantly benefited [our](/en/post/our/) productivity."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [advice](/en/post/advice/) [provided](/en/post/provided/) [us](/en/post/us/) [with](/en/post/with/) [valuable](/en/post/valuable/) [beneficial](/en/post/beneficial/) insights."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) vitamins are believed [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [beneficial](/en/post/beneficial/) [impact](/en/post/impact/) [on](/en/post/on/) immune [function](/en/post/function/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) software update has significantly benefited [our](/post/our/) productivity."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [advice](/post/advice/) [provided](/post/provided/) [us](/post/us/) [with](/post/with/) [valuable](/post/valuable/) [beneficial](/post/beneficial/) insights."
+- **[Verb](/post/verb/)**: "[The](/post/the/) vitamins are believed [to](/post/to/) [have](/post/have/) [a](/post/a/) [beneficial](/post/beneficial/) [impact](/post/impact/) [on](/post/on/) immune [function](/post/function/)."
 
 ## Synonyms
 - Advantageous
 - Advantageous
 - Favorable
-- [Helpful](/en/post/helpful/)
+- [Helpful](/post/helpful/)
 - Promoting
 - Enhancing
 - Constructive
@@ -43,4 +43,4 @@ keywords = ['ai words', 'beneficial']
 - Beneficially
 - Advantageously
 
-[Note](/en/post/note/): [The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) "[beneficial](/en/post/beneficial/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) is [less](/en/post/less/) [common](/en/post/common/), [and](/en/post/and/) it's [often](/en/post/often/) replaced [by](/en/post/by/) [other](/en/post/other/) verbs [like](/en/post/like/) "[aid](/en/post/aid/)," "[assist](/en/post/assist/)," [or](/en/post/or/) "[improve](/en/post/improve/)." [As](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), it's [rarely](/en/post/rarely/) encountered, [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [quality](/en/post/quality/) [or](/en/post/or/) [principle](/en/post/principle/).
+[Note](/post/note/): [The](/post/the/) [use](/post/use/) [of](/post/of/) "[beneficial](/post/beneficial/)" [as](/post/as/) [a](/post/a/) [verb](/post/verb/) is [less](/post/less/) [common](/post/common/), [and](/post/and/) it's [often](/post/often/) replaced [by](/post/by/) [other](/post/other/) verbs [like](/post/like/) "[aid](/post/aid/)," "[assist](/post/assist/)," [or](/post/or/) "[improve](/post/improve/)." [As](/post/as/) [a](/post/a/) [noun](/post/noun/), it's [rarely](/post/rarely/) encountered, [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [quality](/post/quality/) [or](/post/or/) [principle](/post/principle/).

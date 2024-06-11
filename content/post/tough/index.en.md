@@ -7,39 +7,39 @@ description = '[tʌf] a.坚韧的；健壮的'
 keywords = ['ai words', 'tough']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tʌf/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Tough](/en/post/tough/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is [hard](/en/post/hard/), [durable](/en/post/durable/), [or](/en/post/or/) [difficult](/en/post/difficult/) [to](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/). [Can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) physically [strong](/en/post/strong/) [or](/en/post/or/) resilient.
-- [Example](/en/post/example/): "[The](/en/post/the/) [construction](/en/post/construction/) [worker](/en/post/worker/) had [a](/en/post/a/) [tough](/en/post/tough/) [job](/en/post/job/) carrying [heavy](/en/post/heavy/) materials."
+### [Noun](/post/noun/)
+- **[Tough](/post/tough/)**: [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is [hard](/post/hard/), [durable](/post/durable/), [or](/post/or/) [difficult](/post/difficult/) [to](/post/to/) [deal](/post/deal/) [with](/post/with/). [Can](/post/can/) [also](/post/also/) [mean](/post/mean/) physically [strong](/post/strong/) [or](/post/or/) resilient.
+- [Example](/post/example/): "[The](/post/the/) [construction](/post/construction/) [worker](/post/worker/) had [a](/post/a/) [tough](/post/tough/) [job](/post/job/) carrying [heavy](/post/heavy/) materials."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) toughen**: [To](/en/post/to/) [make](/en/post/make/) ([a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [material](/en/post/material/)) harder, stronger, [or](/en/post/or/) [more](/en/post/more/) [resistant](/en/post/resistant/). [Can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [endure](/en/post/endure/) [or](/en/post/or/) [withstand](/en/post/withstand/) [hardship](/en/post/hardship/).
-- [Example](/en/post/example/): "[She](/en/post/she/) toughened [up](/en/post/up/) [her](/en/post/her/) [child](/en/post/child/) [by](/en/post/by/) exposing [them](/en/post/them/) [to](/en/post/to/) [different](/en/post/different/) challenges."
+### [Verb](/post/verb/)
+- **[To](/post/to/) toughen**: [To](/post/to/) [make](/post/make/) ([a](/post/a/) [person](/post/person/) [or](/post/or/) [material](/post/material/)) harder, stronger, [or](/post/or/) [more](/post/more/) [resistant](/post/resistant/). [Can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) [endure](/post/endure/) [or](/post/or/) [withstand](/post/withstand/) [hardship](/post/hardship/).
+- [Example](/post/example/): "[She](/post/she/) toughened [up](/post/up/) [her](/post/her/) [child](/post/child/) [by](/post/by/) exposing [them](/post/them/) [to](/post/to/) [different](/post/different/) challenges."
 
-### [Adjective](/en/post/adjective/)
-- **[Tough](/en/post/tough/)**: Describing [something](/en/post/something/) [that](/en/post/that/) is [hard](/en/post/hard/), [solid](/en/post/solid/), [or](/en/post/or/) requiring [great](/en/post/great/) [effort](/en/post/effort/) [to](/en/post/to/) [overcome](/en/post/overcome/). [Can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is strong-willed [or](/en/post/or/) resilient.
-- [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [oak](/en/post/oak/) [tree](/en/post/tree/) was [tough](/en/post/tough/) [enough](/en/post/enough/) [to](/en/post/to/) [withstand](/en/post/withstand/) [the](/en/post/the/) [storm](/en/post/storm/)."
+### [Adjective](/post/adjective/)
+- **[Tough](/post/tough/)**: Describing [something](/post/something/) [that](/post/that/) is [hard](/post/hard/), [solid](/post/solid/), [or](/post/or/) requiring [great](/post/great/) [effort](/post/effort/) [to](/post/to/) [overcome](/post/overcome/). [Can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is strong-willed [or](/post/or/) resilient.
+- [Example](/post/example/): "[The](/post/the/) [old](/post/old/) [oak](/post/oak/) [tree](/post/tree/) was [tough](/post/tough/) [enough](/post/enough/) [to](/post/to/) [withstand](/post/withstand/) [the](/post/the/) [storm](/post/storm/)."
 
-### [Adverb](/en/post/adverb/)
-- **Toughly**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) is [hard](/en/post/hard/), [severe](/en/post/severe/), [or](/en/post/or/) persistent. [Can](/en/post/can/) [describe](/en/post/describe/) [physical](/en/post/physical/) [strength](/en/post/strength/) [or](/en/post/or/) [a](/en/post/a/) challenging [approach](/en/post/approach/).
-- [Example](/en/post/example/): "[He](/en/post/he/) played [the](/en/post/the/) [game](/en/post/game/) tirelessly, tackling opponents toughly."
+### [Adverb](/post/adverb/)
+- **Toughly**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) is [hard](/post/hard/), [severe](/post/severe/), [or](/post/or/) persistent. [Can](/post/can/) [describe](/post/describe/) [physical](/post/physical/) [strength](/post/strength/) [or](/post/or/) [a](/post/a/) challenging [approach](/post/approach/).
+- [Example](/post/example/): "[He](/post/he/) played [the](/post/the/) [game](/post/game/) tirelessly, tackling opponents toughly."
 
 ## Phrases
-- "[Tough](/en/post/tough/) [customer](/en/post/customer/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is demanding [or](/en/post/or/) [difficult](/en/post/difficult/) [to](/en/post/to/) [please](/en/post/please/).
-- "[Tough](/en/post/tough/) [love](/en/post/love/)" is [a](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [strict](/en/post/strict/) [or](/en/post/or/) [firm](/en/post/firm/) parenting [or](/en/post/or/) [guidance](/en/post/guidance/).
-- "[No](/en/post/no/) [pain](/en/post/pain/), [no](/en/post/no/) [gain](/en/post/gain/)" implies [that](/en/post/that/) [tough](/en/post/tough/) [work](/en/post/work/) leads [to](/en/post/to/) [success](/en/post/success/).
+- "[Tough](/post/tough/) [customer](/post/customer/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is demanding [or](/post/or/) [difficult](/post/difficult/) [to](/post/to/) [please](/post/please/).
+- "[Tough](/post/tough/) [love](/post/love/)" is [a](/post/a/) [term](/post/term/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [strict](/post/strict/) [or](/post/or/) [firm](/post/firm/) parenting [or](/post/or/) [guidance](/post/guidance/).
+- "[No](/post/no/) [pain](/post/pain/), [no](/post/no/) [gain](/post/gain/)" implies [that](/post/that/) [tough](/post/tough/) [work](/post/work/) leads [to](/post/to/) [success](/post/success/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [man](/en/post/man/) had lived [through](/en/post/through/) [many](/en/post/many/) [tough](/en/post/tough/) times."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tried [to](/en/post/to/) toughen [up](/en/post/up/) [her](/en/post/her/) [team](/en/post/team/) [for](/en/post/for/) [the](/en/post/the/) upcoming [competition](/en/post/competition/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) steak was cooked [rare](/en/post/rare/), [but](/en/post/but/) [it](/en/post/it/) [still](/en/post/still/) tasted [tough](/en/post/tough/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) handled [the](/en/post/the/) [situation](/en/post/situation/) toughly, [not](/en/post/not/) backing [down](/en/post/down/) [easily](/en/post/easily/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [man](/post/man/) had lived [through](/post/through/) [many](/post/many/) [tough](/post/tough/) times."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tried [to](/post/to/) toughen [up](/post/up/) [her](/post/her/) [team](/post/team/) [for](/post/for/) [the](/post/the/) upcoming [competition](/post/competition/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) steak was cooked [rare](/post/rare/), [but](/post/but/) [it](/post/it/) [still](/post/still/) tasted [tough](/post/tough/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) handled [the](/post/the/) [situation](/post/situation/) toughly, [not](/post/not/) backing [down](/post/down/) [easily](/post/easily/)."
 
 ## Synonyms
-- [Strong](/en/post/strong/)
+- [Strong](/post/strong/)
 - Robust
 - Sturdy
 - Resilient

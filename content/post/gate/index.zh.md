@@ -11,24 +11,24 @@ keywords = ['ai words', 'gate']
 /ɡeɪt/
 
 ## 释义
-- **名词**: 1. 门，入口。例如: "[The](/post/the/) [entrance](/post/entrance/) [to](/post/to/) [the](/post/the/) [park](/post/park/) is [through](/post/through/) [a](/post/a/) [large](/post/large/) [iron](/post/iron/) [gate](/post/gate/)."
-   2. (体育)球场出入口。例如: "Players [run](/post/run/) [through](/post/through/) [the](/post/the/) [gate](/post/gate/) [onto](/post/onto/) [the](/post/the/) [field](/post/field/)."
-   3. 航班或火车的登机口。例如: "[Your](/post/your/) [flight](/post/flight/) [will](/post/will/) [board](/post/board/) [from](/post/from/) [gate](/post/gate/) 15."
+- **名词**: 1. 门，入口。例如: "[The](/zh/post/the/) [entrance](/zh/post/entrance/) [to](/zh/post/to/) [the](/zh/post/the/) [park](/zh/post/park/) is [through](/zh/post/through/) [a](/zh/post/a/) [large](/zh/post/large/) [iron](/zh/post/iron/) [gate](/zh/post/gate/)."
+   2. (体育)球场出入口。例如: "Players [run](/zh/post/run/) [through](/zh/post/through/) [the](/zh/post/the/) [gate](/zh/post/gate/) [onto](/zh/post/onto/) [the](/zh/post/the/) [field](/zh/post/field/)."
+   3. 航班或火车的登机口。例如: "[Your](/zh/post/your/) [flight](/zh/post/flight/) [will](/zh/post/will/) [board](/zh/post/board/) [from](/zh/post/from/) [gate](/zh/post/gate/) 15."
 
-- **动词**: 打开或关闭大门。例如: "[He](/post/he/) gated [the](/post/the/) [horse](/post/horse/) [into](/post/into/) [the](/post/the/) pasture."
+- **动词**: 打开或关闭大门。例如: "[He](/zh/post/he/) gated [the](/zh/post/the/) [horse](/zh/post/horse/) [into](/zh/post/into/) [the](/zh/post/the/) pasture."
 
 ## 短语
 - "gatekeeper" 看门人，守门员。
-- "[aircraft](/post/aircraft/) [gate](/post/gate/)" 机场登机口。
-- "[gate](/post/gate/) crasher" 不请自来的宾客。
+- "[aircraft](/zh/post/aircraft/) [gate](/zh/post/gate/)" 机场登机口。
+- "[gate](/zh/post/gate/) crasher" 不请自来的宾客。
 
 ## 例句
-- 名词: "[The](/post/the/) [garden](/post/garden/) was surrounded [by](/post/by/) [a](/post/a/) [white](/post/white/) picket [fence](/post/fence/) [with](/post/with/) [a](/post/a/) [small](/post/small/) [gate](/post/gate/)."
-- 动词: "[She](/post/she/) [gently](/post/gently/) gated [the](/post/the/) [door](/post/door/) [so](/post/so/) [as](/post/as/) [not](/post/not/) [to](/post/to/) [wake](/post/wake/) [the](/post/the/) sleeping [baby](/post/baby/)."
+- 名词: "[The](/zh/post/the/) [garden](/zh/post/garden/) was surrounded [by](/zh/post/by/) [a](/zh/post/a/) [white](/zh/post/white/) picket [fence](/zh/post/fence/) [with](/zh/post/with/) [a](/zh/post/a/) [small](/zh/post/small/) [gate](/zh/post/gate/)."
+- 动词: "[She](/zh/post/she/) [gently](/zh/post/gently/) gated [the](/zh/post/the/) [door](/zh/post/door/) [so](/zh/post/so/) [as](/zh/post/as/) [not](/zh/post/not/) [to](/zh/post/to/) [wake](/zh/post/wake/) [the](/zh/post/the/) sleeping [baby](/zh/post/baby/)."
 
 ## 同义词
-- [Entrance](/post/entrance/)
-- [Door](/post/door/)
+- [Entrance](/zh/post/entrance/)
+- [Door](/zh/post/door/)
 - Portal
-- [Barrier](/post/barrier/)
-- [Entry](/post/entry/)
+- [Barrier](/zh/post/barrier/)
+- [Entry](/zh/post/entry/)

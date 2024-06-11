@@ -7,43 +7,43 @@ description = '[kruː] n.全体船员'
 keywords = ['ai words', 'crew']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kruː/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[crew](/en/post/crew/)** [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/):
-1. [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) working [together](/en/post/together/), [often](/en/post/often/) [on](/en/post/on/) [a](/en/post/a/) [ship](/en/post/ship/) [or](/en/post/or/) [aircraft](/en/post/aircraft/): *[The](/en/post/the/) [construction](/en/post/construction/) [crew](/en/post/crew/) worked tirelessly [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/).*
-2. [A](/en/post/a/) [team](/en/post/team/) [of](/en/post/of/) entertainers [or](/en/post/or/) performers: *[The](/en/post/the/) comedy [crew](/en/post/crew/) [for](/en/post/for/) [the](/en/post/the/) TV [show](/en/post/show/) was hilarious.*
-3. [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) friends [or](/en/post/or/) companions: *[We](/en/post/we/) had [a](/en/post/a/) [fun](/en/post/fun/) [crew](/en/post/crew/) [of](/en/post/of/) friends [who](/en/post/who/) went [on](/en/post/on/) [a](/en/post/a/) [road](/en/post/road/) [trip](/en/post/trip/).*
+### [Noun](/post/noun/)
+[A](/post/a/) **[crew](/post/crew/)** [can](/post/can/) [refer](/post/refer/) [to](/post/to/):
+1. [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) working [together](/post/together/), [often](/post/often/) [on](/post/on/) [a](/post/a/) [ship](/post/ship/) [or](/post/or/) [aircraft](/post/aircraft/): *[The](/post/the/) [construction](/post/construction/) [crew](/post/crew/) worked tirelessly [on](/post/on/) [the](/post/the/) [project](/post/project/).*
+2. [A](/post/a/) [team](/post/team/) [of](/post/of/) entertainers [or](/post/or/) performers: *[The](/post/the/) comedy [crew](/post/crew/) [for](/post/for/) [the](/post/the/) TV [show](/post/show/) was hilarious.*
+3. [A](/post/a/) [group](/post/group/) [of](/post/of/) friends [or](/post/or/) companions: *[We](/post/we/) had [a](/post/a/) [fun](/post/fun/) [crew](/post/crew/) [of](/post/of/) friends [who](/post/who/) went [on](/post/on/) [a](/post/a/) [road](/post/road/) [trip](/post/trip/).*
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[crew](/en/post/crew/)** [can](/en/post/can/) [mean](/en/post/mean/):
-1. [To](/en/post/to/) [staff](/en/post/staff/) [or](/en/post/or/) [man](/en/post/man/) ([a](/en/post/a/) [vehicle](/en/post/vehicle/) [or](/en/post/or/) [vessel](/en/post/vessel/)): *[They](/en/post/they/) crewed [the](/en/post/the/) [ship](/en/post/ship/) [with](/en/post/with/) experienced sailors.*
-2. [To](/en/post/to/) [provide](/en/post/provide/) [a](/en/post/a/) [team](/en/post/team/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/): *[They](/en/post/they/) crewed [the](/en/post/the/) [event](/en/post/event/) [with](/en/post/with/) volunteers.*
+### [Verb](/post/verb/)
+[To](/post/to/) **[crew](/post/crew/)** [can](/post/can/) [mean](/post/mean/):
+1. [To](/post/to/) [staff](/post/staff/) [or](/post/or/) [man](/post/man/) ([a](/post/a/) [vehicle](/post/vehicle/) [or](/post/or/) [vessel](/post/vessel/)): *[They](/post/they/) crewed [the](/post/the/) [ship](/post/ship/) [with](/post/with/) experienced sailors.*
+2. [To](/post/to/) [provide](/post/provide/) [a](/post/a/) [team](/post/team/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/): *[They](/post/they/) crewed [the](/post/the/) [event](/post/event/) [with](/post/with/) volunteers.*
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) [some](/en/post/some/) contexts, "crewed" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) equipped [or](/en/post/or/) designed [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/): *[A](/en/post/a/) fully-crewed [submarine](/en/post/submarine/).*
+### [Adjective](/post/adjective/)
+[In](/post/in/) [some](/post/some/) contexts, "crewed" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) equipped [or](/post/or/) designed [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/): *[A](/post/a/) fully-crewed [submarine](/post/submarine/).*
 
-### [Collective](/en/post/collective/) [Noun](/en/post/noun/)
-[Crew](/en/post/crew/) [can](/en/post/can/) [also](/en/post/also/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [collective](/en/post/collective/) [noun](/en/post/noun/), referring [to](/en/post/to/) [the](/en/post/the/) [group](/en/post/group/) [as](/en/post/as/) [a](/en/post/a/) [single](/en/post/single/) [unit](/en/post/unit/): *[The](/en/post/the/) [entire](/en/post/entire/) [crew](/en/post/crew/) was praised [for](/en/post/for/) [their](/en/post/their/) teamwork.*
+### [Collective](/post/collective/) [Noun](/post/noun/)
+[Crew](/post/crew/) [can](/post/can/) [also](/post/also/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [collective](/post/collective/) [noun](/post/noun/), referring [to](/post/to/) [the](/post/the/) [group](/post/group/) [as](/post/as/) [a](/post/a/) [single](/post/single/) [unit](/post/unit/): *[The](/post/the/) [entire](/post/entire/) [crew](/post/crew/) was praised [for](/post/for/) [their](/post/their/) teamwork.*
 
 ## Phrases
-- "[Join](/en/post/join/) [the](/en/post/the/) [crew](/en/post/crew/)" [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [team](/en/post/team/) [or](/en/post/or/) [group](/en/post/group/).
-- "[Crew](/en/post/crew/) [up](/en/post/up/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [for](/en/post/for/) growing [up](/en/post/up/) [together](/en/post/together/) [or](/en/post/or/) bonding [with](/en/post/with/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) friends.
-- "[A](/en/post/a/) tight-knit [crew](/en/post/crew/)" describes [a](/en/post/a/) close-knit [group](/en/post/group/).
+- "[Join](/post/join/) [the](/post/the/) [crew](/post/crew/)" [means](/post/means/) [to](/post/to/) [become](/post/become/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [team](/post/team/) [or](/post/or/) [group](/post/group/).
+- "[Crew](/post/crew/) [up](/post/up/)" is [a](/post/a/) colloquial [expression](/post/expression/) [for](/post/for/) growing [up](/post/up/) [together](/post/together/) [or](/post/or/) bonding [with](/post/with/) [a](/post/a/) [group](/post/group/) [of](/post/of/) friends.
+- "[A](/post/a/) tight-knit [crew](/post/crew/)" describes [a](/post/a/) close-knit [group](/post/group/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [film](/en/post/film/) [crew](/en/post/crew/) consisted [of](/en/post/of/) actors, directors, [and](/en/post/and/) [support](/en/post/support/) [staff](/en/post/staff/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) crewed [the](/en/post/the/) [ship](/en/post/ship/) [with](/en/post/with/) [a](/en/post/a/) [diverse](/en/post/diverse/) [mix](/en/post/mix/) [of](/en/post/of/) sailors."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) newly-crewed [submarine](/en/post/submarine/) was [ready](/en/post/ready/) [for](/en/post/for/) [its](/en/post/its/) maiden [voyage](/en/post/voyage/)."
-- **[Collective](/en/post/collective/) [Noun](/en/post/noun/)**: "[The](/en/post/the/) [entire](/en/post/entire/) [crew](/en/post/crew/) celebrated [their](/en/post/their/) [successful](/en/post/successful/) completion [of](/en/post/of/) [the](/en/post/the/) [mission](/en/post/mission/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [film](/post/film/) [crew](/post/crew/) consisted [of](/post/of/) actors, directors, [and](/post/and/) [support](/post/support/) [staff](/post/staff/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) crewed [the](/post/the/) [ship](/post/ship/) [with](/post/with/) [a](/post/a/) [diverse](/post/diverse/) [mix](/post/mix/) [of](/post/of/) sailors."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) newly-crewed [submarine](/post/submarine/) was [ready](/post/ready/) [for](/post/for/) [its](/post/its/) maiden [voyage](/post/voyage/)."
+- **[Collective](/post/collective/) [Noun](/post/noun/)**: "[The](/post/the/) [entire](/post/entire/) [crew](/post/crew/) celebrated [their](/post/their/) [successful](/post/successful/) completion [of](/post/of/) [the](/post/the/) [mission](/post/mission/)."
 
 ## Synonyms
-- [Team](/en/post/team/)
-- [Group](/en/post/group/)
-- [Gang](/en/post/gang/)
+- [Team](/post/team/)
+- [Group](/post/group/)
+- [Gang](/post/gang/)
 - Squad
-- [Staff](/en/post/staff/)
-- [Cast](/en/post/cast/)
-- [Gang](/en/post/gang/) (informal)
+- [Staff](/post/staff/)
+- [Cast](/post/cast/)
+- [Gang](/post/gang/) (informal)

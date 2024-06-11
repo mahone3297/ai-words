@@ -7,43 +7,43 @@ description = '[ˈprimitiv] a.原始的；粗糙的'
 keywords = ['ai words', 'primitive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪˈmɪtɪv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Primitive](/en/post/primitive/)** (countable): [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [from](/en/post/from/) an [early](/en/post/early/) [stage](/en/post/stage/) [of](/en/post/of/) [human](/en/post/human/) [development](/en/post/development/), [especially](/en/post/especially/) [one](/en/post/one/) [from](/en/post/from/) [a](/en/post/a/) prehistoric [period](/en/post/period/). [Example](/en/post/example/): "[The](/en/post/the/) [primitive](/en/post/primitive/) tools [found](/en/post/found/) [in](/en/post/in/) [the](/en/post/the/) archaeological [site](/en/post/site/) were [over](/en/post/over/) 10,000 years [old](/en/post/old/)."
-2. **[Primitive](/en/post/primitive/)** (uncountable): [Simple](/en/post/simple/), [basic](/en/post/basic/), [or](/en/post/or/) having [a](/en/post/a/) [basic](/en/post/basic/) [form](/en/post/form/) [or](/en/post/or/) [structure](/en/post/structure/); lacking sophistication [or](/en/post/or/) refinement. [Example](/en/post/example/): "[Their](/en/post/their/) lifestyle was considered [primitive](/en/post/primitive/) [by](/en/post/by/) [modern](/en/post/modern/) standards."
-3. **[Primitive](/en/post/primitive/)** ([adjective](/en/post/adjective/)): [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) belonging [to](/en/post/to/) a原始的 [culture](/en/post/culture/) [or](/en/post/or/) [society](/en/post/society/). [Example](/en/post/example/): "[The](/en/post/the/) [dance](/en/post/dance/) was [a](/en/post/a/) [primitive](/en/post/primitive/) ritual performed [by](/en/post/by/) [the](/en/post/the/) [tribe](/en/post/tribe/)."
+### [Noun](/post/noun/)
+1. **[Primitive](/post/primitive/)** (countable): [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [from](/post/from/) an [early](/post/early/) [stage](/post/stage/) [of](/post/of/) [human](/post/human/) [development](/post/development/), [especially](/post/especially/) [one](/post/one/) [from](/post/from/) [a](/post/a/) prehistoric [period](/post/period/). [Example](/post/example/): "[The](/post/the/) [primitive](/post/primitive/) tools [found](/post/found/) [in](/post/in/) [the](/post/the/) archaeological [site](/post/site/) were [over](/post/over/) 10,000 years [old](/post/old/)."
+2. **[Primitive](/post/primitive/)** (uncountable): [Simple](/post/simple/), [basic](/post/basic/), [or](/post/or/) having [a](/post/a/) [basic](/post/basic/) [form](/post/form/) [or](/post/or/) [structure](/post/structure/); lacking sophistication [or](/post/or/) refinement. [Example](/post/example/): "[Their](/post/their/) lifestyle was considered [primitive](/post/primitive/) [by](/post/by/) [modern](/post/modern/) standards."
+3. **[Primitive](/post/primitive/)** ([adjective](/post/adjective/)): [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) belonging [to](/post/to/) a原始的 [culture](/post/culture/) [or](/post/or/) [society](/post/society/). [Example](/post/example/): "[The](/post/the/) [dance](/post/dance/) was [a](/post/a/) [primitive](/post/primitive/) ritual performed [by](/post/by/) [the](/post/the/) [tribe](/post/tribe/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [describe](/en/post/describe/) [or](/en/post/or/) [classify](/en/post/classify/) [something](/en/post/something/) [as](/en/post/as/) [primitive](/en/post/primitive/). [Example](/en/post/example/): "[The](/en/post/the/) [scientist](/en/post/scientist/) classified [the](/en/post/the/) species [as](/en/post/as/) [a](/en/post/a/) [primitive](/en/post/primitive/) [ancestor](/en/post/ancestor/)."
-2. [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [primitive](/en/post/primitive/) [quality](/en/post/quality/) [or](/en/post/or/) [character](/en/post/character/). [Example](/en/post/example/): "[Her](/en/post/her/) artwork has [a](/en/post/a/) [very](/en/post/very/) [primitive](/en/post/primitive/), [raw](/en/post/raw/) [expression](/en/post/expression/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [describe](/post/describe/) [or](/post/or/) [classify](/post/classify/) [something](/post/something/) [as](/post/as/) [primitive](/post/primitive/). [Example](/post/example/): "[The](/post/the/) [scientist](/post/scientist/) classified [the](/post/the/) species [as](/post/as/) [a](/post/a/) [primitive](/post/primitive/) [ancestor](/post/ancestor/)."
+2. [To](/post/to/) [have](/post/have/) [a](/post/a/) [primitive](/post/primitive/) [quality](/post/quality/) [or](/post/or/) [character](/post/character/). [Example](/post/example/): "[Her](/post/her/) artwork has [a](/post/a/) [very](/post/very/) [primitive](/post/primitive/), [raw](/post/raw/) [expression](/post/expression/)."
 
 ## Phrases
-- "[Primitive](/en/post/primitive/) societies" refers [to](/en/post/to/) [those](/en/post/those/) [with](/en/post/with/) minimal technological [or](/en/post/or/) cultural advancement.
-- "[Primitive](/en/post/primitive/) [art](/en/post/art/)" describes artwork [that](/en/post/that/) is [simple](/en/post/simple/) [and](/en/post/and/) [often](/en/post/often/) symbolic.
-- "[Primitive](/en/post/primitive/) [instinct](/en/post/instinct/)" refers [to](/en/post/to/) [a](/en/post/a/) [basic](/en/post/basic/), [natural](/en/post/natural/) [response](/en/post/response/) [or](/en/post/or/) [behavior](/en/post/behavior/).
+- "[Primitive](/post/primitive/) societies" refers [to](/post/to/) [those](/post/those/) [with](/post/with/) minimal technological [or](/post/or/) cultural advancement.
+- "[Primitive](/post/primitive/) [art](/post/art/)" describes artwork [that](/post/that/) is [simple](/post/simple/) [and](/post/and/) [often](/post/often/) symbolic.
+- "[Primitive](/post/primitive/) [instinct](/post/instinct/)" refers [to](/post/to/) [a](/post/a/) [basic](/post/basic/), [natural](/post/natural/) [response](/post/response/) [or](/post/or/) [behavior](/post/behavior/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [museum](/en/post/museum/) showcased artifacts [from](/en/post/from/) [various](/en/post/various/) [primitive](/en/post/primitive/) cultures [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) artist's paintings were [a](/en/post/a/) [mix](/en/post/mix/) [of](/en/post/of/) [primitive](/en/post/primitive/) [and](/en/post/and/) [modern](/en/post/modern/) techniques."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [cave](/en/post/cave/) paintings displayed [a](/en/post/a/) [primitive](/en/post/primitive/) [understanding](/en/post/understanding/) [of](/en/post/of/) [the](/en/post/the/) [natural](/en/post/natural/) [world](/en/post/world/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [museum](/post/museum/) showcased artifacts [from](/post/from/) [various](/post/various/) [primitive](/post/primitive/) cultures [around](/post/around/) [the](/post/the/) [world](/post/world/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) artist's paintings were [a](/post/a/) [mix](/post/mix/) [of](/post/of/) [primitive](/post/primitive/) [and](/post/and/) [modern](/post/modern/) techniques."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [cave](/post/cave/) paintings displayed [a](/post/a/) [primitive](/post/primitive/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [natural](/post/natural/) [world](/post/world/)."
 
 ## Synonyms
-- [Ancient](/en/post/ancient/)
-- [Early](/en/post/early/)
-- [Simple](/en/post/simple/)
+- [Ancient](/post/ancient/)
+- [Early](/post/early/)
+- [Simple](/post/simple/)
 - Unrefined
-- [Basic](/en/post/basic/)
+- [Basic](/post/basic/)
 - Archaic
 - Primordial
 - Uncivilized
 - Undeveloped
 
 ## Antonyms
-- [Advanced](/en/post/advanced/)
-- [Sophisticated](/en/post/sophisticated/)
+- [Advanced](/post/advanced/)
+- [Sophisticated](/post/sophisticated/)
 - Cultured
 - Developed
-- [Modern](/en/post/modern/)
+- [Modern](/post/modern/)

@@ -7,23 +7,23 @@ description = '[t∫əuk] vt.使窒息；塞满'
 keywords = ['ai words', 'choke']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəʊk/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) 1. [To](/en/post/to/) obstruct [the](/en/post/the/) [passage](/en/post/passage/) [of](/en/post/of/) [air](/en/post/air/) [or](/en/post/or/) [other](/en/post/other/) [fluid](/en/post/fluid/) [through](/en/post/through/) [the](/en/post/the/) [throat](/en/post/throat/), [usually](/en/post/usually/) [by](/en/post/by/) forceful compression [of](/en/post/of/) [the](/en/post/the/) windpipe [or](/en/post/or/) larynx. "[The](/en/post/the/) [man](/en/post/man/) choked [on](/en/post/on/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [food](/en/post/food/)."
-   2. [To](/en/post/to/) [cause](/en/post/cause/) [difficulty](/en/post/difficulty/) [or](/en/post/or/) suffocation [due](/en/post/due/) [to](/en/post/to/) [lack](/en/post/lack/) [of](/en/post/of/) oxygen. "[The](/en/post/the/) [smoke](/en/post/smoke/) choked [the](/en/post/the/) [air](/en/post/air/) [in](/en/post/in/) [the](/en/post/the/) burning [building](/en/post/building/)."
-   3. (n) An [act](/en/post/act/) [of](/en/post/of/) choking [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [unable](/en/post/unable/) [to](/en/post/to/) [breathe](/en/post/breathe/) [easily](/en/post/easily/). "[He](/en/post/he/) experienced [a](/en/post/a/) [sudden](/en/post/sudden/) choking sensation."
+- **[Verb](/post/verb/)**: (v) 1. [To](/post/to/) obstruct [the](/post/the/) [passage](/post/passage/) [of](/post/of/) [air](/post/air/) [or](/post/or/) [other](/post/other/) [fluid](/post/fluid/) [through](/post/through/) [the](/post/the/) [throat](/post/throat/), [usually](/post/usually/) [by](/post/by/) forceful compression [of](/post/of/) [the](/post/the/) windpipe [or](/post/or/) larynx. "[The](/post/the/) [man](/post/man/) choked [on](/post/on/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [food](/post/food/)."
+   2. [To](/post/to/) [cause](/post/cause/) [difficulty](/post/difficulty/) [or](/post/or/) suffocation [due](/post/due/) [to](/post/to/) [lack](/post/lack/) [of](/post/of/) oxygen. "[The](/post/the/) [smoke](/post/smoke/) choked [the](/post/the/) [air](/post/air/) [in](/post/in/) [the](/post/the/) burning [building](/post/building/)."
+   3. (n) An [act](/post/act/) [of](/post/of/) choking [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [unable](/post/unable/) [to](/post/to/) [breathe](/post/breathe/) [easily](/post/easily/). "[He](/post/he/) experienced [a](/post/a/) [sudden](/post/sudden/) choking sensation."
 
 ## Phrases
-- "[Choke](/en/post/choke/) [off](/en/post/off/)" [means](/en/post/means/) [to](/en/post/to/) [stop](/en/post/stop/) [the](/en/post/the/) [flow](/en/post/flow/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [used](/en/post/used/) [with](/en/post/with/) [a](/en/post/a/) metaphorical context [like](/en/post/like/) "[choke](/en/post/choke/) [off](/en/post/off/) [the](/en/post/the/) [competition](/en/post/competition/)."
-- "Choking [game](/en/post/game/)" refers [to](/en/post/to/) [a](/en/post/a/) [dangerous](/en/post/dangerous/) [and](/en/post/and/) [illegal](/en/post/illegal/) [practice](/en/post/practice/) involving intentionally cutting [off](/en/post/off/) circulation [to](/en/post/to/) [the](/en/post/the/) [neck](/en/post/neck/) [to](/en/post/to/) induce [a](/en/post/a/) trance-like [state](/en/post/state/), [which](/en/post/which/) is [extremely](/en/post/extremely/) [dangerous](/en/post/dangerous/) [and](/en/post/and/) [can](/en/post/can/) [be](/en/post/be/) [fatal](/en/post/fatal/).
-- "[Choke](/en/post/choke/) [point](/en/post/point/)" (n) denotes [a](/en/post/a/) [narrow](/en/post/narrow/) [or](/en/post/or/) [critical](/en/post/critical/) [location](/en/post/location/) [where](/en/post/where/) [control](/en/post/control/) [or](/en/post/or/) [access](/en/post/access/) is [limited](/en/post/limited/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) strategic [military](/en/post/military/) [position](/en/post/position/) [or](/en/post/or/) [a](/en/post/a/) bottleneck [in](/en/post/in/) [a](/en/post/a/) [supply](/en/post/supply/) [chain](/en/post/chain/).
+- "[Choke](/post/choke/) [off](/post/off/)" [means](/post/means/) [to](/post/to/) [stop](/post/stop/) [the](/post/the/) [flow](/post/flow/) [of](/post/of/) [something](/post/something/), [often](/post/often/) [used](/post/used/) [with](/post/with/) [a](/post/a/) metaphorical context [like](/post/like/) "[choke](/post/choke/) [off](/post/off/) [the](/post/the/) [competition](/post/competition/)."
+- "Choking [game](/post/game/)" refers [to](/post/to/) [a](/post/a/) [dangerous](/post/dangerous/) [and](/post/and/) [illegal](/post/illegal/) [practice](/post/practice/) involving intentionally cutting [off](/post/off/) circulation [to](/post/to/) [the](/post/the/) [neck](/post/neck/) [to](/post/to/) induce [a](/post/a/) trance-like [state](/post/state/), [which](/post/which/) is [extremely](/post/extremely/) [dangerous](/post/dangerous/) [and](/post/and/) [can](/post/can/) [be](/post/be/) [fatal](/post/fatal/).
+- "[Choke](/post/choke/) [point](/post/point/)" (n) denotes [a](/post/a/) [narrow](/post/narrow/) [or](/post/or/) [critical](/post/critical/) [location](/post/location/) [where](/post/where/) [control](/post/control/) [or](/post/or/) [access](/post/access/) is [limited](/post/limited/), [such](/post/such/) [as](/post/as/) [a](/post/a/) strategic [military](/post/military/) [position](/post/position/) [or](/post/or/) [a](/post/a/) bottleneck [in](/post/in/) [a](/post/a/) [supply](/post/supply/) [chain](/post/chain/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) lifeguard performed [the](/en/post/the/) Heimlich maneuver [to](/en/post/to/) unchoke [the](/en/post/the/) drowning [child](/en/post/child/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) victim's [face](/en/post/face/) turned [blue](/en/post/blue/) [from](/en/post/from/) [the](/en/post/the/) [lack](/en/post/lack/) [of](/en/post/of/) oxygen, indicating [she](/en/post/she/) was [in](/en/post/in/) [the](/en/post/the/) [midst](/en/post/midst/) [of](/en/post/of/) [a](/en/post/a/) [severe](/en/post/severe/) choking episode."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [engine](/en/post/engine/) started [to](/en/post/to/) [choke](/en/post/choke/) [when](/en/post/when/) [the](/en/post/the/) [fuel](/en/post/fuel/) [supply](/en/post/supply/) was restricted."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) lifeguard performed [the](/post/the/) Heimlich maneuver [to](/post/to/) unchoke [the](/post/the/) drowning [child](/post/child/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) victim's [face](/post/face/) turned [blue](/post/blue/) [from](/post/from/) [the](/post/the/) [lack](/post/lack/) [of](/post/of/) oxygen, indicating [she](/post/she/) was [in](/post/in/) [the](/post/the/) [midst](/post/midst/) [of](/post/of/) [a](/post/a/) [severe](/post/severe/) choking episode."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [engine](/post/engine/) started [to](/post/to/) [choke](/post/choke/) [when](/post/when/) [the](/post/the/) [fuel](/post/fuel/) [supply](/post/supply/) was restricted."
 
 ## Synonyms
 - Strangle
@@ -36,7 +36,7 @@ keywords = ['ai words', 'choke']
 
 ## Antonyms
 - Unchoke
-- [Relieve](/en/post/relieve/) ([from](/en/post/from/) choking)
-- [Clear](/en/post/clear/) ([a](/en/post/a/) constriction)
+- [Relieve](/post/relieve/) ([from](/post/from/) choking)
+- [Clear](/post/clear/) ([a](/post/a/) constriction)
 - Facilitate
-- [Open](/en/post/open/) [up](/en/post/up/)
+- [Open](/post/open/) [up](/post/up/)

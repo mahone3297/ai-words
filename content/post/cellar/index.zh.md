@@ -15,16 +15,16 @@ keywords = ['ai words', 'cellar']
 - **名词**: （建筑物中的）酒窖，储藏室。
 
 ## 短语
-- "[cellar](/post/cellar/) [door](/post/door/)" 常被引用为英语中最美的词组之一，常用于文学和哲学讨论中。
-- "[to](/post/to/) [store](/post/store/) [something](/post/something/) [in](/post/in/) [the](/post/the/) [cellar](/post/cellar/)" 意为将某物存放在地下室。
+- "[cellar](/zh/post/cellar/) [door](/zh/post/door/)" 常被引用为英语中最美的词组之一，常用于文学和哲学讨论中。
+- "[to](/zh/post/to/) [store](/zh/post/store/) [something](/zh/post/something/) [in](/zh/post/in/) [the](/zh/post/the/) [cellar](/zh/post/cellar/)" 意为将某物存放在地下室。
 
 ## 例句
-- 名词: "[We](/post/we/) [keep](/post/keep/) [the](/post/the/) [wine](/post/wine/) bottles [in](/post/in/) [the](/post/the/) [cellar](/post/cellar/) [to](/post/to/) [maintain](/post/maintain/) [their](/post/their/) [quality](/post/quality/)."
-- 名词: "[The](/post/the/) [old](/post/old/) [house](/post/house/) had [a](/post/a/) [mysterious](/post/mysterious/) [cellar](/post/cellar/) [that](/post/that/) [no](/post/no/) [one](/post/one/) dared [to](/post/to/) [explore](/post/explore/)."
+- 名词: "[We](/zh/post/we/) [keep](/zh/post/keep/) [the](/zh/post/the/) [wine](/zh/post/wine/) bottles [in](/zh/post/in/) [the](/zh/post/the/) [cellar](/zh/post/cellar/) [to](/zh/post/to/) [maintain](/zh/post/maintain/) [their](/zh/post/their/) [quality](/zh/post/quality/)."
+- 名词: "[The](/zh/post/the/) [old](/zh/post/old/) [house](/zh/post/house/) had [a](/zh/post/a/) [mysterious](/zh/post/mysterious/) [cellar](/zh/post/cellar/) [that](/zh/post/that/) [no](/zh/post/no/) [one](/zh/post/one/) dared [to](/zh/post/to/) [explore](/zh/post/explore/)."
 
 ## 同义词
 - Basement
-- [Wine](/post/wine/) [cellar](/post/cellar/)
-- [Storage](/post/storage/) [room](/post/room/)
+- [Wine](/zh/post/wine/) [cellar](/zh/post/cellar/)
+- [Storage](/zh/post/storage/) [room](/zh/post/room/)
 - Vault
-- [Underground](/post/underground/) [room](/post/room/)
+- [Underground](/zh/post/underground/) [room](/zh/post/room/)

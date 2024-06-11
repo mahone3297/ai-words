@@ -7,43 +7,43 @@ description = '[krɔs] vt.穿过；使交叉'
 keywords = ['ai words', 'cross']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /krɒs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [horizontal](/en/post/horizontal/) [piece](/en/post/piece/) [that](/en/post/that/) joins [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) things, [usually](/en/post/usually/) [at](/en/post/at/) [right](/en/post/right/) angles, [often](/en/post/often/) crossing [another](/en/post/another/) [one](/en/post/one/): "[The](/en/post/the/) [bridge](/en/post/bridge/) has [a](/en/post/a/) pedestrian crosswalk."
-2. An [act](/en/post/act/) [or](/en/post/or/) [instance](/en/post/instance/) [of](/en/post/of/) crossing [something](/en/post/something/) [over](/en/post/over/): "[The](/en/post/the/) [road](/en/post/road/) crosses [the](/en/post/the/) [river](/en/post/river/)."
-3. [A](/en/post/a/) [mark](/en/post/mark/) made [by](/en/post/by/) intersecting lines: "[A](/en/post/a/) [cross](/en/post/cross/) [on](/en/post/on/) [a](/en/post/a/) tombstone indicates [death](/en/post/death/)."
-4. (Christianity) [The](/en/post/the/) [instrument](/en/post/instrument/) [of](/en/post/of/) [the](/en/post/the/) [Passion](/en/post/passion/) [and](/en/post/and/) [death](/en/post/death/) [of](/en/post/of/) Jesus Christ, [usually](/en/post/usually/) represented [as](/en/post/as/) [a](/en/post/a/) [wooden](/en/post/wooden/) [beam](/en/post/beam/) [with](/en/post/with/) [a](/en/post/a/) perpendicular [piece](/en/post/piece/) [on](/en/post/on/) [top](/en/post/top/).
-5. [A](/en/post/a/) [shape](/en/post/shape/) consisting [of](/en/post/of/) [two](/en/post/two/) [straight](/en/post/straight/) lines [that](/en/post/that/) intersect [each](/en/post/each/) [other](/en/post/other/), forming [a](/en/post/a/) + [or](/en/post/or/) × [symbol](/en/post/symbol/): "[The](/en/post/the/) [cross](/en/post/cross/) symbolizes [unity](/en/post/unity/) [and](/en/post/and/) [sacrifice](/en/post/sacrifice/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [horizontal](/post/horizontal/) [piece](/post/piece/) [that](/post/that/) joins [two](/post/two/) [or](/post/or/) [more](/post/more/) things, [usually](/post/usually/) [at](/post/at/) [right](/post/right/) angles, [often](/post/often/) crossing [another](/post/another/) [one](/post/one/): "[The](/post/the/) [bridge](/post/bridge/) has [a](/post/a/) pedestrian crosswalk."
+2. An [act](/post/act/) [or](/post/or/) [instance](/post/instance/) [of](/post/of/) crossing [something](/post/something/) [over](/post/over/): "[The](/post/the/) [road](/post/road/) crosses [the](/post/the/) [river](/post/river/)."
+3. [A](/post/a/) [mark](/post/mark/) made [by](/post/by/) intersecting lines: "[A](/post/a/) [cross](/post/cross/) [on](/post/on/) [a](/post/a/) tombstone indicates [death](/post/death/)."
+4. (Christianity) [The](/post/the/) [instrument](/post/instrument/) [of](/post/of/) [the](/post/the/) [Passion](/post/passion/) [and](/post/and/) [death](/post/death/) [of](/post/of/) Jesus Christ, [usually](/post/usually/) represented [as](/post/as/) [a](/post/a/) [wooden](/post/wooden/) [beam](/post/beam/) [with](/post/with/) [a](/post/a/) perpendicular [piece](/post/piece/) [on](/post/on/) [top](/post/top/).
+5. [A](/post/a/) [shape](/post/shape/) consisting [of](/post/of/) [two](/post/two/) [straight](/post/straight/) lines [that](/post/that/) intersect [each](/post/each/) [other](/post/other/), forming [a](/post/a/) + [or](/post/or/) × [symbol](/post/symbol/): "[The](/post/the/) [cross](/post/cross/) symbolizes [unity](/post/unity/) [and](/post/and/) [sacrifice](/post/sacrifice/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [go](/en/post/go/) [from](/en/post/from/) [one](/en/post/one/) [side](/en/post/side/) [to](/en/post/to/) [the](/en/post/the/) [other](/en/post/other/), [especially](/en/post/especially/) [across](/en/post/across/) [something](/en/post/something/): "[He](/en/post/he/) crossed [the](/en/post/the/) [street](/en/post/street/)."
-2. [To](/en/post/to/) [pass](/en/post/pass/) [through](/en/post/through/) [or](/en/post/or/) [over](/en/post/over/) ([a](/en/post/a/) [space](/en/post/space/) [or](/en/post/or/) [area](/en/post/area/)): "[The](/en/post/the/) [train](/en/post/train/) [will](/en/post/will/) [cross](/en/post/cross/) [the](/en/post/the/) [railway](/en/post/railway/) [bridge](/en/post/bridge/)."
-3. [To](/en/post/to/) [exchange](/en/post/exchange/) (items [or](/en/post/or/) positions): "[They](/en/post/they/) crossed [their](/en/post/their/) arms [in](/en/post/in/) frustration."
-4. [To](/en/post/to/) [complete](/en/post/complete/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [action](/en/post/action/): "[She](/en/post/she/) crossed [off](/en/post/off/) [the](/en/post/the/) [last](/en/post/last/) [item](/en/post/item/) [on](/en/post/on/) [her](/en/post/her/) [list](/en/post/list/)."
-5. ([Mathematics](/en/post/mathematics/)) [To](/en/post/to/) [multiply](/en/post/multiply/) [two](/en/post/two/) numbers: "[The](/en/post/the/) [product](/en/post/product/) is obtained [by](/en/post/by/) crossing 3 [and](/en/post/and/) 4."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [go](/post/go/) [from](/post/from/) [one](/post/one/) [side](/post/side/) [to](/post/to/) [the](/post/the/) [other](/post/other/), [especially](/post/especially/) [across](/post/across/) [something](/post/something/): "[He](/post/he/) crossed [the](/post/the/) [street](/post/street/)."
+2. [To](/post/to/) [pass](/post/pass/) [through](/post/through/) [or](/post/or/) [over](/post/over/) ([a](/post/a/) [space](/post/space/) [or](/post/or/) [area](/post/area/)): "[The](/post/the/) [train](/post/train/) [will](/post/will/) [cross](/post/cross/) [the](/post/the/) [railway](/post/railway/) [bridge](/post/bridge/)."
+3. [To](/post/to/) [exchange](/post/exchange/) (items [or](/post/or/) positions): "[They](/post/they/) crossed [their](/post/their/) arms [in](/post/in/) frustration."
+4. [To](/post/to/) [complete](/post/complete/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [action](/post/action/): "[She](/post/she/) crossed [off](/post/off/) [the](/post/the/) [last](/post/last/) [item](/post/item/) [on](/post/on/) [her](/post/her/) [list](/post/list/)."
+5. ([Mathematics](/post/mathematics/)) [To](/post/to/) [multiply](/post/multiply/) [two](/post/two/) numbers: "[The](/post/the/) [product](/post/product/) is obtained [by](/post/by/) crossing 3 [and](/post/and/) 4."
 
-### [Preposition](/en/post/preposition/)
-[To](/en/post/to/) [move](/en/post/move/) [from](/en/post/from/) [one](/en/post/one/) [side](/en/post/side/) [to](/en/post/to/) [the](/en/post/the/) [opposite](/en/post/opposite/) [side](/en/post/side/), typically [along](/en/post/along/) [a](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) [path](/en/post/path/): "[The](/en/post/the/) hiker crossed [the](/en/post/the/) [mountain](/en/post/mountain/) [pass](/en/post/pass/)."
+### [Preposition](/post/preposition/)
+[To](/post/to/) [move](/post/move/) [from](/post/from/) [one](/post/one/) [side](/post/side/) [to](/post/to/) [the](/post/the/) [opposite](/post/opposite/) [side](/post/side/), typically [along](/post/along/) [a](/post/a/) [line](/post/line/) [or](/post/or/) [path](/post/path/): "[The](/post/the/) hiker crossed [the](/post/the/) [mountain](/post/mountain/) [pass](/post/pass/)."
 
-### [Adjective](/en/post/adjective/)
-1. [Opposite](/en/post/opposite/) [or](/en/post/or/) facing: "[The](/en/post/the/) houses [on](/en/post/on/) [the](/en/post/the/) [opposite](/en/post/opposite/) [side](/en/post/side/) [of](/en/post/of/) [the](/en/post/the/) [street](/en/post/street/) [have](/en/post/have/) [cross](/en/post/cross/) windows."
-2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) intersecting lines: "[A](/en/post/a/) cruciform [building](/en/post/building/) has [a](/en/post/a/) cross-shaped [plan](/en/post/plan/)."
-3. Perpendicular [or](/en/post/or/) diagonal: "[The](/en/post/the/) cross-ply [construction](/en/post/construction/) provides [strength](/en/post/strength/)."
-4. Occurring [or](/en/post/or/) situated [at](/en/post/at/) [right](/en/post/right/) angles: "[A](/en/post/a/) crossroads intersection."
+### [Adjective](/post/adjective/)
+1. [Opposite](/post/opposite/) [or](/post/or/) facing: "[The](/post/the/) houses [on](/post/on/) [the](/post/the/) [opposite](/post/opposite/) [side](/post/side/) [of](/post/of/) [the](/post/the/) [street](/post/street/) [have](/post/have/) [cross](/post/cross/) windows."
+2. [Characteristic](/post/characteristic/) [of](/post/of/) intersecting lines: "[A](/post/a/) cruciform [building](/post/building/) has [a](/post/a/) cross-shaped [plan](/post/plan/)."
+3. Perpendicular [or](/post/or/) diagonal: "[The](/post/the/) cross-ply [construction](/post/construction/) provides [strength](/post/strength/)."
+4. Occurring [or](/post/or/) situated [at](/post/at/) [right](/post/right/) angles: "[A](/post/a/) crossroads intersection."
 
 ## Phrases
-- "Cross-reference" [means](/en/post/means/) [to](/en/post/to/) [check](/en/post/check/) [or](/en/post/or/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [else](/en/post/else/) [for](/en/post/for/) [comparison](/en/post/comparison/) [or](/en/post/or/) clarification.
-- "Cross-legged" describes [a](/en/post/a/) sitting [position](/en/post/position/) [with](/en/post/with/) [the](/en/post/the/) legs folded.
-- "Cross-examination" is [a](/en/post/a/) [legal](/en/post/legal/) [procedure](/en/post/procedure/) [where](/en/post/where/) [one](/en/post/one/) [side](/en/post/side/) questions [a](/en/post/a/) [witness](/en/post/witness/) [being](/en/post/being/) questioned [by](/en/post/by/) [the](/en/post/the/) opposing [side](/en/post/side/).
+- "Cross-reference" [means](/post/means/) [to](/post/to/) [check](/post/check/) [or](/post/or/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [else](/post/else/) [for](/post/for/) [comparison](/post/comparison/) [or](/post/or/) clarification.
+- "Cross-legged" describes [a](/post/a/) sitting [position](/post/position/) [with](/post/with/) [the](/post/the/) legs folded.
+- "Cross-examination" is [a](/post/a/) [legal](/post/legal/) [procedure](/post/procedure/) [where](/post/where/) [one](/post/one/) [side](/post/side/) questions [a](/post/a/) [witness](/post/witness/) [being](/post/being/) questioned [by](/post/by/) [the](/post/the/) opposing [side](/post/side/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children drew [a](/en/post/a/) [cross](/en/post/cross/) [on](/en/post/on/) [the](/en/post/the/) sidewalk [with](/en/post/with/) [chalk](/en/post/chalk/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) crossed [his](/en/post/his/) arms [in](/en/post/in/) disbelief [when](/en/post/when/) [he](/en/post/he/) heard [the](/en/post/the/) [news](/en/post/news/)."
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) cables [run](/en/post/run/) diagonally [across](/en/post/across/) [the](/en/post/the/) [ceiling](/en/post/ceiling/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) cross-polo players [use](/en/post/use/) [a](/en/post/a/) mallet [to](/en/post/to/) [hit](/en/post/hit/) [the](/en/post/the/) [ball](/en/post/ball/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children drew [a](/post/a/) [cross](/post/cross/) [on](/post/on/) [the](/post/the/) sidewalk [with](/post/with/) [chalk](/post/chalk/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) crossed [his](/post/his/) arms [in](/post/in/) disbelief [when](/post/when/) [he](/post/he/) heard [the](/post/the/) [news](/post/news/)."
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) cables [run](/post/run/) diagonally [across](/post/across/) [the](/post/the/) [ceiling](/post/ceiling/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) cross-polo players [use](/post/use/) [a](/post/a/) mallet [to](/post/to/) [hit](/post/hit/) [the](/post/the/) [ball](/post/ball/)."
 
 ## Synonyms
 - Transverse

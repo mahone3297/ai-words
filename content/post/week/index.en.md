@@ -7,36 +7,36 @@ description = '[wiːk] n.星期，周'
 keywords = ['ai words', 'week']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wiːk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-    - [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [seven](/en/post/seven/) days, typically reckoned [from](/en/post/from/) Monday [to](/en/post/to/) Sunday: *[We](/en/post/we/) [have](/en/post/have/) [a](/en/post/a/) [meeting](/en/post/meeting/) [every](/en/post/every/) [week](/en/post/week/).*
-    - [A](/en/post/a/) week-long [period](/en/post/period/) [during](/en/post/during/) [which](/en/post/which/) [something](/en/post/something/) [regularly](/en/post/regularly/) happens: *[The](/en/post/the/) [sale](/en/post/sale/) lasts [for](/en/post/for/) [one](/en/post/one/) [week](/en/post/week/).*
-- **[Adjective](/en/post/adjective/)**: 
-    - Relating [to](/en/post/to/) [or](/en/post/or/) constituting [a](/en/post/a/) [week](/en/post/week/): *It's [the](/en/post/the/) [first](/en/post/first/) [week](/en/post/week/) [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) [semester](/en/post/semester/).*
-- **[Verb](/en/post/verb/)**: 
-    - [To](/en/post/to/) [go](/en/post/go/) [through](/en/post/through/) [or](/en/post/or/) [complete](/en/post/complete/) [a](/en/post/a/) [week](/en/post/week/): *We're [almost](/en/post/almost/) done [with](/en/post/with/) [this](/en/post/this/) week's [project](/en/post/project/).*
+- **[Noun](/post/noun/)**: 
+    - [A](/post/a/) [period](/post/period/) [of](/post/of/) [seven](/post/seven/) days, typically reckoned [from](/post/from/) Monday [to](/post/to/) Sunday: *[We](/post/we/) [have](/post/have/) [a](/post/a/) [meeting](/post/meeting/) [every](/post/every/) [week](/post/week/).*
+    - [A](/post/a/) week-long [period](/post/period/) [during](/post/during/) [which](/post/which/) [something](/post/something/) [regularly](/post/regularly/) happens: *[The](/post/the/) [sale](/post/sale/) lasts [for](/post/for/) [one](/post/one/) [week](/post/week/).*
+- **[Adjective](/post/adjective/)**: 
+    - Relating [to](/post/to/) [or](/post/or/) constituting [a](/post/a/) [week](/post/week/): *It's [the](/post/the/) [first](/post/first/) [week](/post/week/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [semester](/post/semester/).*
+- **[Verb](/post/verb/)**: 
+    - [To](/post/to/) [go](/post/go/) [through](/post/through/) [or](/post/or/) [complete](/post/complete/) [a](/post/a/) [week](/post/week/): *We're [almost](/post/almost/) done [with](/post/with/) [this](/post/this/) week's [project](/post/project/).*
 
 ## Phrases
-- "[Weekend](/en/post/weekend/)" refers [to](/en/post/to/) [the](/en/post/the/) [last](/en/post/last/) [two](/en/post/two/) days [of](/en/post/of/) [the](/en/post/the/) [week](/en/post/week/) (Saturday [and](/en/post/and/) Sunday).
-- "[Weekly](/en/post/weekly/)" describes [something](/en/post/something/) [that](/en/post/that/) occurs [once](/en/post/once/) [a](/en/post/a/) [week](/en/post/week/): *[A](/en/post/a/) [weekly](/en/post/weekly/) newsletter.*
-- "Weeklong [event](/en/post/event/)" is an [activity](/en/post/activity/) lasting [for](/en/post/for/) an [entire](/en/post/entire/) [week](/en/post/week/).
+- "[Weekend](/post/weekend/)" refers [to](/post/to/) [the](/post/the/) [last](/post/last/) [two](/post/two/) days [of](/post/of/) [the](/post/the/) [week](/post/week/) (Saturday [and](/post/and/) Sunday).
+- "[Weekly](/post/weekly/)" describes [something](/post/something/) [that](/post/that/) occurs [once](/post/once/) [a](/post/a/) [week](/post/week/): *[A](/post/a/) [weekly](/post/weekly/) newsletter.*
+- "Weeklong [event](/post/event/)" is an [activity](/post/activity/) lasting [for](/post/for/) an [entire](/post/entire/) [week](/post/week/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I'll [see](/en/post/see/) [you](/en/post/you/) [next](/en/post/next/) [week](/en/post/week/), [when](/en/post/when/) [we](/en/post/we/) [start](/en/post/start/) [our](/en/post/our/) [new](/en/post/new/) [project](/en/post/project/)."
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) is [the](/en/post/the/) [final](/en/post/final/) [week](/en/post/week/) [of](/en/post/of/) [the](/en/post/the/) [school](/en/post/school/) [year](/en/post/year/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) spends [her](/en/post/her/) weekends working [on](/en/post/on/) [her](/en/post/her/) [weekly](/en/post/weekly/) [report](/en/post/report/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I'll [see](/post/see/) [you](/post/you/) [next](/post/next/) [week](/post/week/), [when](/post/when/) [we](/post/we/) [start](/post/start/) [our](/post/our/) [new](/post/new/) [project](/post/project/)."
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) is [the](/post/the/) [final](/post/final/) [week](/post/week/) [of](/post/of/) [the](/post/the/) [school](/post/school/) [year](/post/year/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) spends [her](/post/her/) weekends working [on](/post/on/) [her](/post/her/) [weekly](/post/weekly/) [report](/post/report/)."
 
 ## Synonyms
-- Seven-day [period](/en/post/period/)
-- Lunar [week](/en/post/week/) ([in](/en/post/in/) [some](/en/post/some/) [religious](/en/post/religious/) [or](/en/post/or/) cultural contexts)
-- [Weekly](/en/post/weekly/) [cycle](/en/post/cycle/)
-- [Duration](/en/post/duration/) [of](/en/post/of/) [a](/en/post/a/) [week](/en/post/week/)
-- One-week [stretch](/en/post/stretch/)
+- Seven-day [period](/post/period/)
+- Lunar [week](/post/week/) ([in](/post/in/) [some](/post/some/) [religious](/post/religious/) [or](/post/or/) cultural contexts)
+- [Weekly](/post/weekly/) [cycle](/post/cycle/)
+- [Duration](/post/duration/) [of](/post/of/) [a](/post/a/) [week](/post/week/)
+- One-week [stretch](/post/stretch/)
 
 ## Antonyms
-- [Daily](/en/post/daily/)
-- [Monthly](/en/post/monthly/)
-- [Yearly](/en/post/yearly/) ([for](/en/post/for/) [a](/en/post/a/) longer [time](/en/post/time/) [frame](/en/post/frame/))
+- [Daily](/post/daily/)
+- [Monthly](/post/monthly/)
+- [Yearly](/post/yearly/) ([for](/post/for/) [a](/post/a/) longer [time](/post/time/) [frame](/post/frame/))

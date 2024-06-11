@@ -7,40 +7,40 @@ description = '[ˈævəridʒ] n.平均数 a.平均的'
 keywords = ['ai words', 'average']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈævərɪdʒ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) **[noun](/en/post/noun/)** [in](/en/post/in/) [this](/en/post/this/) context refers [to](/en/post/to/) [the](/en/post/the/) [arithmetic](/en/post/arithmetic/) [mean](/en/post/mean/) [of](/en/post/of/) [a](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) numbers, representing [a](/en/post/a/) [typical](/en/post/typical/) [or](/en/post/or/) [middle](/en/post/middle/) [value](/en/post/value/): "[The](/en/post/the/) [average](/en/post/average/) [temperature](/en/post/temperature/) [for](/en/post/for/) January is 50°F."
-- [In](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [a](/en/post/a/) [normal](/en/post/normal/) [or](/en/post/or/) [typical](/en/post/typical/) [level](/en/post/level/): "[His](/en/post/his/) grades were [above](/en/post/above/) [average](/en/post/average/) [for](/en/post/for/) [his](/en/post/his/) [class](/en/post/class/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) **[noun](/post/noun/)** [in](/post/in/) [this](/post/this/) context refers [to](/post/to/) [the](/post/the/) [arithmetic](/post/arithmetic/) [mean](/post/mean/) [of](/post/of/) [a](/post/a/) [set](/post/set/) [of](/post/of/) numbers, representing [a](/post/a/) [typical](/post/typical/) [or](/post/or/) [middle](/post/middle/) [value](/post/value/): "[The](/post/the/) [average](/post/average/) [temperature](/post/temperature/) [for](/post/for/) January is 50°F."
+- [In](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [a](/post/a/) [normal](/post/normal/) [or](/post/or/) [typical](/post/typical/) [level](/post/level/): "[His](/post/his/) grades were [above](/post/above/) [average](/post/average/) [for](/post/for/) [his](/post/his/) [class](/post/class/)."
 
-### [Verb](/en/post/verb/)
-- [As](/en/post/as/) [a](/en/post/a/) **[verb](/en/post/verb/)**, "[average](/en/post/average/)" [means](/en/post/means/) [to](/en/post/to/) [calculate](/en/post/calculate/) [the](/en/post/the/) [mean](/en/post/mean/) [or](/en/post/or/) [average](/en/post/average/) [of](/en/post/of/) [a](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) numbers: "[We](/en/post/we/) averaged [the](/en/post/the/) scores [to](/en/post/to/) [determine](/en/post/determine/) [the](/en/post/the/) [winner](/en/post/winner/)."
-- [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [standard](/en/post/standard/) [or](/en/post/or/) [typical](/en/post/typical/) [level](/en/post/level/): "[Her](/en/post/her/) [performance](/en/post/performance/) was [well](/en/post/well/) [above](/en/post/above/) [average](/en/post/average/)."
+### [Verb](/post/verb/)
+- [As](/post/as/) [a](/post/a/) **[verb](/post/verb/)**, "[average](/post/average/)" [means](/post/means/) [to](/post/to/) [calculate](/post/calculate/) [the](/post/the/) [mean](/post/mean/) [or](/post/or/) [average](/post/average/) [of](/post/of/) [a](/post/a/) [set](/post/set/) [of](/post/of/) numbers: "[We](/post/we/) averaged [the](/post/the/) scores [to](/post/to/) [determine](/post/determine/) [the](/post/the/) [winner](/post/winner/)."
+- [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [standard](/post/standard/) [or](/post/or/) [typical](/post/typical/) [level](/post/level/): "[Her](/post/her/) [performance](/post/performance/) was [well](/post/well/) [above](/post/above/) [average](/post/average/)."
 
-### [Adjective](/en/post/adjective/)
-- An **[adjective](/en/post/adjective/)** [form](/en/post/form/) is "[average](/en/post/average/)," [which](/en/post/which/) describes [something](/en/post/something/) [that](/en/post/that/) is [typical](/en/post/typical/) [or](/en/post/or/) [not](/en/post/not/) exceptional: "An [average](/en/post/average/) [house](/en/post/house/) has [three](/en/post/three/) bedrooms."
+### [Adjective](/post/adjective/)
+- An **[adjective](/post/adjective/)** [form](/post/form/) is "[average](/post/average/)," [which](/post/which/) describes [something](/post/something/) [that](/post/that/) is [typical](/post/typical/) [or](/post/or/) [not](/post/not/) exceptional: "An [average](/post/average/) [house](/post/house/) has [three](/post/three/) bedrooms."
 
-### [Adverb](/en/post/adverb/)
-- [Occasionally](/en/post/occasionally/), "averagely" [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) an **[adverb](/en/post/adverb/)** [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [level](/en/post/level/) [of](/en/post/of/) [quality](/en/post/quality/) [or](/en/post/or/) [performance](/en/post/performance/): "[He](/en/post/he/) played averagely [well](/en/post/well/) [in](/en/post/in/) [the](/en/post/the/) [game](/en/post/game/)."
+### [Adverb](/post/adverb/)
+- [Occasionally](/post/occasionally/), "averagely" [can](/post/can/) [function](/post/function/) [as](/post/as/) an **[adverb](/post/adverb/)** [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [level](/post/level/) [of](/post/of/) [quality](/post/quality/) [or](/post/or/) [performance](/post/performance/): "[He](/post/he/) played averagely [well](/post/well/) [in](/post/in/) [the](/post/the/) [game](/post/game/)."
 
 ## Phrases
-- "[Average](/en/post/average/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [mean](/en/post/mean/) [or](/en/post/or/) [balance](/en/post/balance/): "[The](/en/post/the/) prices had [to](/en/post/to/) [be](/en/post/be/) averaged [out](/en/post/out/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [fair](/en/post/fair/) [deal](/en/post/deal/)."
-- "[Above](/en/post/above/) [average](/en/post/average/)" [and](/en/post/and/) "[below](/en/post/below/) [average](/en/post/average/)" are comparisons indicating [better](/en/post/better/) [or](/en/post/or/) [worse](/en/post/worse/) [than](/en/post/than/) [the](/en/post/the/) norm.
-- "[Average](/en/post/average/) Joe" is [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) an [ordinary](/en/post/ordinary/), unremarkable [person](/en/post/person/).
+- "[Average](/post/average/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) [find](/post/find/) [the](/post/the/) [mean](/post/mean/) [or](/post/or/) [balance](/post/balance/): "[The](/post/the/) prices had [to](/post/to/) [be](/post/be/) averaged [out](/post/out/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [fair](/post/fair/) [deal](/post/deal/)."
+- "[Above](/post/above/) [average](/post/average/)" [and](/post/and/) "[below](/post/below/) [average](/post/average/)" are comparisons indicating [better](/post/better/) [or](/post/or/) [worse](/post/worse/) [than](/post/than/) [the](/post/the/) norm.
+- "[Average](/post/average/) Joe" is [a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) an [ordinary](/post/ordinary/), unremarkable [person](/post/person/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) students' [test](/en/post/test/) scores ranged [from](/en/post/from/) [below](/en/post/below/) [average](/en/post/average/) [to](/en/post/to/) [above](/en/post/above/) [average](/en/post/average/)."
-- **[Verb](/en/post/verb/)**: "[To](/en/post/to/) [calculate](/en/post/calculate/) [the](/en/post/the/) [average](/en/post/average/) [age](/en/post/age/) [of](/en/post/of/) [the](/en/post/the/) [team](/en/post/team/), [we](/en/post/we/) added [them](/en/post/them/) [all](/en/post/all/) [up](/en/post/up/) [and](/en/post/and/) divided [by](/en/post/by/) [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) members."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) skills were considered [average](/en/post/average/) [for](/en/post/for/) [her](/en/post/her/) [age](/en/post/age/) [group](/en/post/group/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) performed averagely [on](/en/post/on/) [stage](/en/post/stage/), [but](/en/post/but/) [the](/en/post/the/) [audience](/en/post/audience/) [still](/en/post/still/) enjoyed [the](/en/post/the/) [show](/en/post/show/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) students' [test](/post/test/) scores ranged [from](/post/from/) [below](/post/below/) [average](/post/average/) [to](/post/to/) [above](/post/above/) [average](/post/average/)."
+- **[Verb](/post/verb/)**: "[To](/post/to/) [calculate](/post/calculate/) [the](/post/the/) [average](/post/average/) [age](/post/age/) [of](/post/of/) [the](/post/the/) [team](/post/team/), [we](/post/we/) added [them](/post/them/) [all](/post/all/) [up](/post/up/) [and](/post/and/) divided [by](/post/by/) [the](/post/the/) [number](/post/number/) [of](/post/of/) members."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) skills were considered [average](/post/average/) [for](/post/for/) [her](/post/her/) [age](/post/age/) [group](/post/group/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) performed averagely [on](/post/on/) [stage](/post/stage/), [but](/post/but/) [the](/post/the/) [audience](/post/audience/) [still](/post/still/) enjoyed [the](/post/the/) [show](/post/show/)."
 
 ## Synonyms
-- [Mean](/en/post/mean/)
+- [Mean](/post/mean/)
 - Median
-- [Normal](/en/post/normal/)
-- [Standard](/en/post/standard/)
-- [Regular](/en/post/regular/)
+- [Normal](/post/normal/)
+- [Standard](/post/standard/)
+- [Regular](/post/regular/)
 - Commonplace
 - Run-of-the-mill

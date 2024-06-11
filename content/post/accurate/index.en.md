@@ -7,38 +7,38 @@ description = '[ˈækjurit] a.准确的，正确无误的'
 keywords = ['ai words', 'accurate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæktʃuəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) correctness, [precision](/en/post/precision/), [or](/en/post/or/) conformity [to](/en/post/to/) [a](/en/post/a/) [standard](/en/post/standard/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) measurements were taken [with](/en/post/with/) [great](/en/post/great/) [accuracy](/en/post/accuracy/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [precise](/en/post/precise/) [or](/en/post/or/) [exact](/en/post/exact/) [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) performed [the](/en/post/the/) [task](/en/post/task/) accurately."
-- **[Noun](/en/post/noun/)**: [Degree](/en/post/degree/) [of](/en/post/of/) correctness [or](/en/post/or/) [precision](/en/post/precision/); [precision](/en/post/precision/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [answer](/en/post/answer/) had [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/) [of](/en/post/of/) [accuracy](/en/post/accuracy/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) correctness, [precision](/post/precision/), [or](/post/or/) conformity [to](/post/to/) [a](/post/a/) [standard](/post/standard/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) measurements were taken [with](/post/with/) [great](/post/great/) [accuracy](/post/accuracy/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [precise](/post/precise/) [or](/post/or/) [exact](/post/exact/) [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) performed [the](/post/the/) [task](/post/task/) accurately."
+- **[Noun](/post/noun/)**: [Degree](/post/degree/) [of](/post/of/) correctness [or](/post/or/) [precision](/post/precision/); [precision](/post/precision/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [answer](/post/answer/) had [a](/post/a/) [high](/post/high/) [degree](/post/degree/) [of](/post/of/) [accuracy](/post/accuracy/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [accurate](/en/post/accurate/) [in](/en/post/in/) [your](/en/post/your/) [work](/en/post/work/)" emphasizes [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) [precision](/en/post/precision/).
-- "[Highly](/en/post/highly/) [accurate](/en/post/accurate/) [data](/en/post/data/)" indicates [very](/en/post/very/) [precise](/en/post/precise/) [information](/en/post/information/).
-- "[Accuracy](/en/post/accuracy/) is [key](/en/post/key/) [in](/en/post/in/) [science](/en/post/science/)" highlights [the](/en/post/the/) [value](/en/post/value/) [of](/en/post/of/) correctness [in](/en/post/in/) [research](/en/post/research/).
+- "[Be](/post/be/) [accurate](/post/accurate/) [in](/post/in/) [your](/post/your/) [work](/post/work/)" emphasizes [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [precision](/post/precision/).
+- "[Highly](/post/highly/) [accurate](/post/accurate/) [data](/post/data/)" indicates [very](/post/very/) [precise](/post/precise/) [information](/post/information/).
+- "[Accuracy](/post/accuracy/) is [key](/post/key/) [in](/post/in/) [science](/post/science/)" highlights [the](/post/the/) [value](/post/value/) [of](/post/of/) correctness [in](/post/in/) [research](/post/research/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) GPS [system](/en/post/system/) provides [highly](/en/post/highly/) [accurate](/en/post/accurate/) [location](/en/post/location/) [information](/en/post/information/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) writes [her](/en/post/her/) reports accurately, double-checking [every](/en/post/every/) [detail](/en/post/detail/)."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) calculations showed an [accuracy](/en/post/accuracy/) [rate](/en/post/rate/) [of](/en/post/of/) 99%."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) GPS [system](/post/system/) provides [highly](/post/highly/) [accurate](/post/accurate/) [location](/post/location/) [information](/post/information/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) writes [her](/post/her/) reports accurately, double-checking [every](/post/every/) [detail](/post/detail/)."
+- **[Noun](/post/noun/)**: "[His](/post/his/) calculations showed an [accuracy](/post/accuracy/) [rate](/post/rate/) [of](/post/of/) 99%."
 
 ## Synonyms
-- [Precise](/en/post/precise/)
-- [Accurate](/en/post/accurate/)
-- [Correct](/en/post/correct/)
-- [Exact](/en/post/exact/)
-- [Reliable](/en/post/reliable/)
+- [Precise](/post/precise/)
+- [Accurate](/post/accurate/)
+- [Correct](/post/correct/)
+- [Exact](/post/exact/)
+- [Reliable](/post/reliable/)
 - Well-founded
-- [Sound](/en/post/sound/)
+- [Sound](/post/sound/)
 
 ## Antonyms
 - Inaccurate
 - Imprecise
 - Misleading
 - Inexact
-- [Faulty](/en/post/faulty/)
+- [Faulty](/post/faulty/)
 - Unreliable
-- [Vague](/en/post/vague/)
+- [Vague](/post/vague/)

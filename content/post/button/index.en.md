@@ -7,39 +7,39 @@ description = '[ˈbʌtn] n.扣子；按钮 vt.扣紧'
 keywords = ['ai words', 'button']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bʌtən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [small](/en/post/small/), [usually](/en/post/usually/) [circular](/en/post/circular/) [piece](/en/post/piece/) [of](/en/post/of/) [material](/en/post/material/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [flat](/en/post/flat/) [surface](/en/post/surface/), [used](/en/post/used/) [to](/en/post/to/) [fasten](/en/post/fasten/) [clothing](/en/post/clothing/), [open](/en/post/open/) [or](/en/post/or/) [close](/en/post/close/) objects, [or](/en/post/or/) [serve](/en/post/serve/) [as](/en/post/as/) [a](/en/post/a/) [control](/en/post/control/) [on](/en/post/on/) [a](/en/post/a/) [device](/en/post/device/).
-- [In](/en/post/in/) computing, [a](/en/post/a/) graphical interface [element](/en/post/element/) [that](/en/post/that/) performs an [action](/en/post/action/) [when](/en/post/when/) clicked [or](/en/post/or/) pressed.
-- [A](/en/post/a/) [feature](/en/post/feature/) [or](/en/post/or/) [option](/en/post/option/) [on](/en/post/on/) [a](/en/post/a/) software [or](/en/post/or/) web [application](/en/post/application/).
+### [Noun](/post/noun/)
+- [A](/post/a/) [small](/post/small/), [usually](/post/usually/) [circular](/post/circular/) [piece](/post/piece/) [of](/post/of/) [material](/post/material/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [flat](/post/flat/) [surface](/post/surface/), [used](/post/used/) [to](/post/to/) [fasten](/post/fasten/) [clothing](/post/clothing/), [open](/post/open/) [or](/post/or/) [close](/post/close/) objects, [or](/post/or/) [serve](/post/serve/) [as](/post/as/) [a](/post/a/) [control](/post/control/) [on](/post/on/) [a](/post/a/) [device](/post/device/).
+- [In](/post/in/) computing, [a](/post/a/) graphical interface [element](/post/element/) [that](/post/that/) performs an [action](/post/action/) [when](/post/when/) clicked [or](/post/or/) pressed.
+- [A](/post/a/) [feature](/post/feature/) [or](/post/or/) [option](/post/option/) [on](/post/on/) [a](/post/a/) software [or](/post/or/) web [application](/post/application/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [press](/en/post/press/) [or](/en/post/or/) activate [a](/en/post/a/) [button](/en/post/button/) [on](/en/post/on/) [a](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) interface.
-- [To](/en/post/to/) [engage](/en/post/engage/) [or](/en/post/or/) trigger [a](/en/post/a/) [process](/en/post/process/) [by](/en/post/by/) pressing [a](/en/post/a/) [physical](/en/post/physical/) [button](/en/post/button/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [press](/post/press/) [or](/post/or/) activate [a](/post/a/) [button](/post/button/) [on](/post/on/) [a](/post/a/) [device](/post/device/) [or](/post/or/) interface.
+- [To](/post/to/) [engage](/post/engage/) [or](/post/or/) trigger [a](/post/a/) [process](/post/process/) [by](/post/by/) pressing [a](/post/a/) [physical](/post/physical/) [button](/post/button/).
 
 ## Phrases
-- "[Push](/en/post/push/) [the](/en/post/the/) [button](/en/post/button/)" [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) pressing [a](/en/post/a/) [button](/en/post/button/).
-- "[Button](/en/post/button/) [up](/en/post/up/)" [to](/en/post/to/) [fasten](/en/post/fasten/) buttons [on](/en/post/on/) [clothing](/en/post/clothing/).
-- "[Button](/en/post/button/) [down](/en/post/down/)" [to](/en/post/to/) [be](/en/post/be/) [formal](/en/post/formal/) [or](/en/post/or/) [serious](/en/post/serious/).
+- "[Push](/post/push/) [the](/post/the/) [button](/post/button/)" [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [action](/post/action/) [of](/post/of/) pressing [a](/post/a/) [button](/post/button/).
+- "[Button](/post/button/) [up](/post/up/)" [to](/post/to/) [fasten](/post/fasten/) buttons [on](/post/on/) [clothing](/post/clothing/).
+- "[Button](/post/button/) [down](/post/down/)" [to](/post/to/) [be](/post/be/) [formal](/post/formal/) [or](/post/or/) [serious](/post/serious/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) sewed [on](/en/post/on/) [a](/en/post/a/) [new](/en/post/new/) [button](/en/post/button/) [onto](/en/post/onto/) [her](/en/post/her/) [coat](/en/post/coat/)."
-- **[Verb](/en/post/verb/)**: "[To](/en/post/to/) [submit](/en/post/submit/) [the](/en/post/the/) [form](/en/post/form/), click [the](/en/post/the/) '[Submit](/en/post/submit/)' [button](/en/post/button/)."
-- "[He](/en/post/he/) pressed [the](/en/post/the/) [button](/en/post/button/) [to](/en/post/to/) [start](/en/post/start/) [the](/en/post/the/) [elevator](/en/post/elevator/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) sewed [on](/post/on/) [a](/post/a/) [new](/post/new/) [button](/post/button/) [onto](/post/onto/) [her](/post/her/) [coat](/post/coat/)."
+- **[Verb](/post/verb/)**: "[To](/post/to/) [submit](/post/submit/) [the](/post/the/) [form](/post/form/), click [the](/post/the/) '[Submit](/post/submit/)' [button](/post/button/)."
+- "[He](/post/he/) pressed [the](/post/the/) [button](/post/button/) [to](/post/to/) [start](/post/start/) [the](/post/the/) [elevator](/post/elevator/)."
 
 ## Synonyms
-- [Switch](/en/post/switch/)
-- [Lever](/en/post/lever/)
-- [Knob](/en/post/knob/)
-- [Control](/en/post/control/)
+- [Switch](/post/switch/)
+- [Lever](/post/lever/)
+- [Knob](/post/knob/)
+- [Control](/post/control/)
 - Push-button
 - Toggling mechanism
 
 ## Antonyms
-- [Release](/en/post/release/)
+- [Release](/post/release/)
 - Unbutton
 - Deactivate
-- [Disable](/en/post/disable/)
+- [Disable](/post/disable/)

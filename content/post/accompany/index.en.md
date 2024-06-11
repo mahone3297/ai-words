@@ -7,43 +7,43 @@ description = '[əˈkʌmpəni] vt.陪伴，陪同；伴随'
 keywords = ['ai words', 'accompany']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈkʌmpæni/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) **[noun](/en/post/noun/)** [in](/en/post/in/) [this](/en/post/this/) context refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) [with](/en/post/with/) [someone](/en/post/someone/), [usually](/en/post/usually/) providing [support](/en/post/support/) [or](/en/post/or/) entertainment: "[The](/en/post/the/) children were accompanied [by](/en/post/by/) [their](/en/post/their/) parents [on](/en/post/on/) [the](/en/post/the/) [trip](/en/post/trip/)."
-- [In](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) accompanies [another](/en/post/another/): "[The](/en/post/the/) [musician](/en/post/musician/) accompanied [the](/en/post/the/) [singer](/en/post/singer/) [on](/en/post/on/) [the](/en/post/the/) [piano](/en/post/piano/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) **[noun](/post/noun/)** [in](/post/in/) [this](/post/this/) context refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) [being](/post/being/) [with](/post/with/) [someone](/post/someone/), [usually](/post/usually/) providing [support](/post/support/) [or](/post/or/) entertainment: "[The](/post/the/) children were accompanied [by](/post/by/) [their](/post/their/) parents [on](/post/on/) [the](/post/the/) [trip](/post/trip/)."
+- [In](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [a](/post/a/) [person](/post/person/) [who](/post/who/) accompanies [another](/post/another/): "[The](/post/the/) [musician](/post/musician/) accompanied [the](/post/the/) [singer](/post/singer/) [on](/post/on/) [the](/post/the/) [piano](/post/piano/)."
 
-### [Verb](/en/post/verb/)
-- [As](/en/post/as/) [a](/en/post/a/) **[verb](/en/post/verb/)**, "[accompany](/en/post/accompany/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [with](/en/post/with/) [or](/en/post/or/) [be](/en/post/be/) [with](/en/post/with/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/), [often](/en/post/often/) providing accompaniment ([music](/en/post/music/), [for](/en/post/for/) [instance](/en/post/instance/)): "[She](/en/post/she/) accompanied [her](/en/post/her/) [friend](/en/post/friend/) [to](/en/post/to/) [the](/en/post/the/) [concert](/en/post/concert/)."
-- [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) assisting [or](/en/post/or/) supporting [someone](/en/post/someone/): "[The](/en/post/the/) [nurse](/en/post/nurse/) accompanied [the](/en/post/the/) [patient](/en/post/patient/) [during](/en/post/during/) [the](/en/post/the/) [medical](/en/post/medical/) [procedure](/en/post/procedure/)."
+### [Verb](/post/verb/)
+- [As](/post/as/) [a](/post/a/) **[verb](/post/verb/)**, "[accompany](/post/accompany/)" [means](/post/means/) [to](/post/to/) [go](/post/go/) [with](/post/with/) [or](/post/or/) [be](/post/be/) [with](/post/with/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/), [often](/post/often/) providing accompaniment ([music](/post/music/), [for](/post/for/) [instance](/post/instance/)): "[She](/post/she/) accompanied [her](/post/her/) [friend](/post/friend/) [to](/post/to/) [the](/post/the/) [concert](/post/concert/)."
+- [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) assisting [or](/post/or/) supporting [someone](/post/someone/): "[The](/post/the/) [nurse](/post/nurse/) accompanied [the](/post/the/) [patient](/post/patient/) [during](/post/during/) [the](/post/the/) [medical](/post/medical/) [procedure](/post/procedure/)."
 
-### [Adjective](/en/post/adjective/)
-- [Occasionally](/en/post/occasionally/), "accompanying" is [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) goes [along](/en/post/along/) [with](/en/post/with/) [or](/en/post/or/) supports [another](/en/post/another/): "[The](/en/post/the/) accompanying [sheet](/en/post/sheet/) [music](/en/post/music/) was [difficult](/en/post/difficult/) [to](/en/post/to/) [read](/en/post/read/)."
+### [Adjective](/post/adjective/)
+- [Occasionally](/post/occasionally/), "accompanying" is [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) goes [along](/post/along/) [with](/post/with/) [or](/post/or/) supports [another](/post/another/): "[The](/post/the/) accompanying [sheet](/post/sheet/) [music](/post/music/) was [difficult](/post/difficult/) [to](/post/to/) [read](/post/read/)."
 
 ## Phrases
-- "[Accompany](/en/post/accompany/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [with](/en/post/with/) [or](/en/post/or/) [be](/en/post/be/) [present](/en/post/present/) [for](/en/post/for/) [another](/en/post/another/) [person](/en/post/person/): "[He](/en/post/he/) [always](/en/post/always/) accompanies [his](/en/post/his/) [daughter](/en/post/daughter/) [to](/en/post/to/) [her](/en/post/her/) ballet lessons."
-- "An accompanying [report](/en/post/report/)" refers [to](/en/post/to/) [a](/en/post/a/) [document](/en/post/document/) [or](/en/post/or/) [piece](/en/post/piece/) [that](/en/post/that/) comes [along](/en/post/along/) [with](/en/post/with/) [something](/en/post/something/) [else](/en/post/else/), [like](/en/post/like/) [a](/en/post/a/) [research](/en/post/research/) [paper](/en/post/paper/) [and](/en/post/and/) [its](/en/post/its/) findings.
-- "Accompanied [by](/en/post/by/) [music](/en/post/music/)" indicates [that](/en/post/that/) [there](/en/post/there/) is [musical](/en/post/musical/) accompaniment [for](/en/post/for/) [a](/en/post/a/) [performance](/en/post/performance/) [or](/en/post/or/) [event](/en/post/event/).
+- "[Accompany](/post/accompany/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [go](/post/go/) [with](/post/with/) [or](/post/or/) [be](/post/be/) [present](/post/present/) [for](/post/for/) [another](/post/another/) [person](/post/person/): "[He](/post/he/) [always](/post/always/) accompanies [his](/post/his/) [daughter](/post/daughter/) [to](/post/to/) [her](/post/her/) ballet lessons."
+- "An accompanying [report](/post/report/)" refers [to](/post/to/) [a](/post/a/) [document](/post/document/) [or](/post/or/) [piece](/post/piece/) [that](/post/that/) comes [along](/post/along/) [with](/post/with/) [something](/post/something/) [else](/post/else/), [like](/post/like/) [a](/post/a/) [research](/post/research/) [paper](/post/paper/) [and](/post/and/) [its](/post/its/) findings.
+- "Accompanied [by](/post/by/) [music](/post/music/)" indicates [that](/post/that/) [there](/post/there/) is [musical](/post/musical/) accompaniment [for](/post/for/) [a](/post/a/) [performance](/post/performance/) [or](/post/or/) [event](/post/event/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were accompanied [by](/en/post/by/) [their](/en/post/their/) parents [on](/en/post/on/) [the](/en/post/the/) hike."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) pianist accompanied [the](/en/post/the/) violinist's solo beautifully."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [book](/en/post/book/) includes an accompanying CD [with](/en/post/with/) audio examples."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were accompanied [by](/post/by/) [their](/post/their/) parents [on](/post/on/) [the](/post/the/) hike."
+- **[Verb](/post/verb/)**: "[The](/post/the/) pianist accompanied [the](/post/the/) violinist's solo beautifully."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [book](/post/book/) includes an accompanying CD [with](/post/with/) audio examples."
 
 ## Synonyms
 - Chaperone
 - Escort
-- [Attend](/en/post/attend/)
-- [Support](/en/post/support/)
+- [Attend](/post/attend/)
+- [Support](/post/support/)
 - Accompanize
-- [Follow](/en/post/follow/)
-- [Keep](/en/post/keep/) [company](/en/post/company/)
+- [Follow](/post/follow/)
+- [Keep](/post/keep/) [company](/post/company/)
 - Companionship
 
 ## Antonyms
-- [Leave](/en/post/leave/) [behind](/en/post/behind/)
-- [Desert](/en/post/desert/)
-- [Separate](/en/post/separate/)
-- [Dismiss](/en/post/dismiss/)
+- [Leave](/post/leave/) [behind](/post/behind/)
+- [Desert](/post/desert/)
+- [Separate](/post/separate/)
+- [Dismiss](/post/dismiss/)

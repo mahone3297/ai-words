@@ -7,44 +7,44 @@ description = '[jiːld] vt.&vi.出产 n.产量'
 keywords = ['ai words', 'yield']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjaɪld/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [a](/en/post/a/) [crop](/en/post/crop/) [that](/en/post/that/) is harvested, [usually](/en/post/usually/) expressed [in](/en/post/in/) terms [of](/en/post/of/) [quantity](/en/post/quantity/) [or](/en/post/or/) [quality](/en/post/quality/): "[The](/en/post/the/) [wheat](/en/post/wheat/) [yield](/en/post/yield/) was higher [than](/en/post/than/) [last](/en/post/last/) [year](/en/post/year/)."
-2. [The](/en/post/the/) [production](/en/post/production/) [or](/en/post/or/) [return](/en/post/return/) obtained [from](/en/post/from/) an [investment](/en/post/investment/), [effort](/en/post/effort/), [or](/en/post/or/) [process](/en/post/process/): "[A](/en/post/a/) [new](/en/post/new/) farming [technique](/en/post/technique/) increased [crop](/en/post/crop/) [yield](/en/post/yield/)."
-3. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [or](/en/post/or/) surrendering: "[He](/en/post/he/) yielded [to](/en/post/to/) [her](/en/post/her/) demands."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [amount](/post/amount/) [of](/post/of/) [a](/post/a/) [crop](/post/crop/) [that](/post/that/) is harvested, [usually](/post/usually/) expressed [in](/post/in/) terms [of](/post/of/) [quantity](/post/quantity/) [or](/post/or/) [quality](/post/quality/): "[The](/post/the/) [wheat](/post/wheat/) [yield](/post/yield/) was higher [than](/post/than/) [last](/post/last/) [year](/post/year/)."
+2. [The](/post/the/) [production](/post/production/) [or](/post/or/) [return](/post/return/) obtained [from](/post/from/) an [investment](/post/investment/), [effort](/post/effort/), [or](/post/or/) [process](/post/process/): "[A](/post/a/) [new](/post/new/) farming [technique](/post/technique/) increased [crop](/post/crop/) [yield](/post/yield/)."
+3. [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [or](/post/or/) surrendering: "[He](/post/he/) yielded [to](/post/to/) [her](/post/her/) demands."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [give](/en/post/give/) [way](/en/post/way/) [or](/en/post/or/) [submit](/en/post/submit/) [to](/en/post/to/) [something](/en/post/something/), [especially](/en/post/especially/) [under](/en/post/under/) [pressure](/en/post/pressure/) [or](/en/post/or/) [influence](/en/post/influence/): "[She](/en/post/she/) yielded [to](/en/post/to/) [his](/en/post/his/) persuasion."
-2. [To](/en/post/to/) [produce](/en/post/produce/) [or](/en/post/or/) [give](/en/post/give/) [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/): "[The](/en/post/the/) [experiment](/en/post/experiment/) yielded [unexpected](/en/post/unexpected/) results."
-3. [To](/en/post/to/) comply [with](/en/post/with/) [a](/en/post/a/) [request](/en/post/request/) [or](/en/post/or/) [demand](/en/post/demand/): "[The](/en/post/the/) [company](/en/post/company/) yielded [to](/en/post/to/) consumer complaints."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [give](/post/give/) [way](/post/way/) [or](/post/or/) [submit](/post/submit/) [to](/post/to/) [something](/post/something/), [especially](/post/especially/) [under](/post/under/) [pressure](/post/pressure/) [or](/post/or/) [influence](/post/influence/): "[She](/post/she/) yielded [to](/post/to/) [his](/post/his/) persuasion."
+2. [To](/post/to/) [produce](/post/produce/) [or](/post/or/) [give](/post/give/) [as](/post/as/) [a](/post/a/) [result](/post/result/): "[The](/post/the/) [experiment](/post/experiment/) yielded [unexpected](/post/unexpected/) results."
+3. [To](/post/to/) comply [with](/post/with/) [a](/post/a/) [request](/post/request/) [or](/post/or/) [demand](/post/demand/): "[The](/post/the/) [company](/post/company/) yielded [to](/post/to/) consumer complaints."
 
-### [Adjective](/en/post/adjective/)
-1. [Capable](/en/post/capable/) [of](/en/post/of/) producing [a](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/): "[A](/en/post/a/) high-yielding [crop](/en/post/crop/)."
-2. [Willing](/en/post/willing/) [to](/en/post/to/) [give](/en/post/give/) [in](/en/post/in/) [or](/en/post/or/) [compromise](/en/post/compromise/): "[A](/en/post/a/) compliant [and](/en/post/and/) yielding manager."
+### [Adjective](/post/adjective/)
+1. [Capable](/post/capable/) [of](/post/of/) producing [a](/post/a/) [large](/post/large/) [amount](/post/amount/): "[A](/post/a/) high-yielding [crop](/post/crop/)."
+2. [Willing](/post/willing/) [to](/post/to/) [give](/post/give/) [in](/post/in/) [or](/post/or/) [compromise](/post/compromise/): "[A](/post/a/) compliant [and](/post/and/) yielding manager."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) submissive [or](/en/post/or/) compliant [manner](/en/post/manner/): "[He](/en/post/he/) yielded gracefully [to](/en/post/to/) [the](/en/post/the/) [situation](/en/post/situation/)."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) submissive [or](/post/or/) compliant [manner](/post/manner/): "[He](/post/he/) yielded gracefully [to](/post/to/) [the](/post/the/) [situation](/post/situation/)."
 
 ## Phrases
-- "[Yield](/en/post/yield/) [to](/en/post/to/) [traffic](/en/post/traffic/)" [means](/en/post/means/) [to](/en/post/to/) [stop](/en/post/stop/) [for](/en/post/for/) [other](/en/post/other/) vehicles [or](/en/post/or/) pedestrians.
-- "[Yield](/en/post/yield/) [data](/en/post/data/)" refers [to](/en/post/to/) statistics [on](/en/post/on/) [crop](/en/post/crop/) [production](/en/post/production/) [or](/en/post/or/) [performance](/en/post/performance/).
-- "[Yield](/en/post/yield/) [control](/en/post/control/)" is [the](/en/post/the/) [management](/en/post/management/) [of](/en/post/of/) [production](/en/post/production/) processes [to](/en/post/to/) optimize [efficiency](/en/post/efficiency/).
+- "[Yield](/post/yield/) [to](/post/to/) [traffic](/post/traffic/)" [means](/post/means/) [to](/post/to/) [stop](/post/stop/) [for](/post/for/) [other](/post/other/) vehicles [or](/post/or/) pedestrians.
+- "[Yield](/post/yield/) [data](/post/data/)" refers [to](/post/to/) statistics [on](/post/on/) [crop](/post/crop/) [production](/post/production/) [or](/post/or/) [performance](/post/performance/).
+- "[Yield](/post/yield/) [control](/post/control/)" is [the](/post/the/) [management](/post/management/) [of](/post/of/) [production](/post/production/) processes [to](/post/to/) optimize [efficiency](/post/efficiency/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) was pleased [with](/en/post/with/) [the](/en/post/the/) [crop](/en/post/crop/) [yield](/en/post/yield/) [this](/en/post/this/) [season](/en/post/season/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) negotiation, [they](/en/post/they/) [finally](/en/post/finally/) yielded [to](/en/post/to/) [the](/en/post/the/) [peace](/en/post/peace/) [agreement](/en/post/agreement/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [technology](/en/post/technology/) significantly increased [the](/en/post/the/) building's [energy](/en/post/energy/) [yield](/en/post/yield/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) yielded [easily](/en/post/easily/) [to](/en/post/to/) [her](/en/post/her/) arguments."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) was pleased [with](/post/with/) [the](/post/the/) [crop](/post/crop/) [yield](/post/yield/) [this](/post/this/) [season](/post/season/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) negotiation, [they](/post/they/) [finally](/post/finally/) yielded [to](/post/to/) [the](/post/the/) [peace](/post/peace/) [agreement](/post/agreement/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [technology](/post/technology/) significantly increased [the](/post/the/) building's [energy](/post/energy/) [yield](/post/yield/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) yielded [easily](/post/easily/) [to](/post/to/) [her](/post/her/) arguments."
 
 ## Synonyms
-- [Produce](/en/post/produce/)
-- [Give](/en/post/give/) ([up](/en/post/up/))
+- [Produce](/post/produce/)
+- [Give](/post/give/) ([up](/post/up/))
 - Concede
-- [Surrender](/en/post/surrender/)
+- [Surrender](/post/surrender/)
 - Comply
-- [Respond](/en/post/respond/)
-- [Generate](/en/post/generate/)
-- [Output](/en/post/output/)
+- [Respond](/post/respond/)
+- [Generate](/post/generate/)
+- [Output](/post/output/)

@@ -7,34 +7,34 @@ description = '[ˈlɑːftə] n.笑，笑声'
 keywords = ['ai words', 'laughter']
 +++
 
-## [Word](/en/post/word/): [Laughter](/en/post/laughter/)
+## [Word](/post/word/): [Laughter](/post/laughter/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlæftər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [sound](/en/post/sound/) made [by](/en/post/by/) humans [when](/en/post/when/) [they](/en/post/they/) [find](/en/post/find/) [something](/en/post/something/) [humorous](/en/post/humorous/) [or](/en/post/or/) enjoyable, typically characterized [by](/en/post/by/) vocalized expressions [such](/en/post/such/) [as](/en/post/as/) chuckling, giggling, [or](/en/post/or/) guffawing. [It](/en/post/it/) [often](/en/post/often/) signifies [joy](/en/post/joy/), amusement, [or](/en/post/or/) mirth. 
+- **[Noun](/post/noun/)**: [The](/post/the/) [sound](/post/sound/) made [by](/post/by/) humans [when](/post/when/) [they](/post/they/) [find](/post/find/) [something](/post/something/) [humorous](/post/humorous/) [or](/post/or/) enjoyable, typically characterized [by](/post/by/) vocalized expressions [such](/post/such/) [as](/post/as/) chuckling, giggling, [or](/post/or/) guffawing. [It](/post/it/) [often](/post/often/) signifies [joy](/post/joy/), amusement, [or](/post/or/) mirth. 
 
-[Example](/en/post/example/) sentences:
-- "[The](/en/post/the/) comedian's jokes evoked [loud](/en/post/loud/) [laughter](/en/post/laughter/) [from](/en/post/from/) [the](/en/post/the/) [audience](/en/post/audience/)."
-- "[Her](/en/post/her/) infectious [laughter](/en/post/laughter/) filled [the](/en/post/the/) [room](/en/post/room/) [with](/en/post/with/) [happiness](/en/post/happiness/)."
-- "[The](/en/post/the/) children's [innocent](/en/post/innocent/) [laughter](/en/post/laughter/) was [music](/en/post/music/) [to](/en/post/to/) [her](/en/post/her/) ears."
+[Example](/post/example/) sentences:
+- "[The](/post/the/) comedian's jokes evoked [loud](/post/loud/) [laughter](/post/laughter/) [from](/post/from/) [the](/post/the/) [audience](/post/audience/)."
+- "[Her](/post/her/) infectious [laughter](/post/laughter/) filled [the](/post/the/) [room](/post/room/) [with](/post/with/) [happiness](/post/happiness/)."
+- "[The](/post/the/) children's [innocent](/post/innocent/) [laughter](/post/laughter/) was [music](/post/music/) [to](/post/to/) [her](/post/her/) ears."
 
 ## Phrases
-- "[Laughter](/en/post/laughter/) is [the](/en/post/the/) [best](/en/post/best/) [medicine](/en/post/medicine/)": [This](/en/post/this/) [phrase](/en/post/phrase/) suggests [that](/en/post/that/) humor [and](/en/post/and/) enjoyment [can](/en/post/can/) [have](/en/post/have/) [positive](/en/post/positive/) effects [on](/en/post/on/) one's [mental](/en/post/mental/) [and](/en/post/and/) [emotional](/en/post/emotional/) [health](/en/post/health/).
-- "[Burst](/en/post/burst/) [out](/en/post/out/) laughing": [To](/en/post/to/) [suddenly](/en/post/suddenly/) [start](/en/post/start/) laughing loudly [and](/en/post/and/) uncontrollably.
-- "[Laughter](/en/post/laughter/) echoed [through](/en/post/through/) [the](/en/post/the/) [hall](/en/post/hall/)": Describes [how](/en/post/how/) [the](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) [laughter](/en/post/laughter/) reverberated [in](/en/post/in/) [a](/en/post/a/) [large](/en/post/large/) [space](/en/post/space/).
+- "[Laughter](/post/laughter/) is [the](/post/the/) [best](/post/best/) [medicine](/post/medicine/)": [This](/post/this/) [phrase](/post/phrase/) suggests [that](/post/that/) humor [and](/post/and/) enjoyment [can](/post/can/) [have](/post/have/) [positive](/post/positive/) effects [on](/post/on/) one's [mental](/post/mental/) [and](/post/and/) [emotional](/post/emotional/) [health](/post/health/).
+- "[Burst](/post/burst/) [out](/post/out/) laughing": [To](/post/to/) [suddenly](/post/suddenly/) [start](/post/start/) laughing loudly [and](/post/and/) uncontrollably.
+- "[Laughter](/post/laughter/) echoed [through](/post/through/) [the](/post/the/) [hall](/post/hall/)": Describes [how](/post/how/) [the](/post/the/) [sound](/post/sound/) [of](/post/of/) [laughter](/post/laughter/) reverberated [in](/post/in/) [a](/post/a/) [large](/post/large/) [space](/post/space/).
 
-## [Example](/en/post/example/) Sentences
-- [Noun](/en/post/noun/): "[Their](/en/post/their/) shared [sense](/en/post/sense/) [of](/en/post/of/) humor led [to](/en/post/to/) [frequent](/en/post/frequent/) bouts [of](/en/post/of/) [laughter](/en/post/laughter/)."
-- [Noun](/en/post/noun/) (idiomatic): "[Even](/en/post/even/) amidst [all](/en/post/all/) [the](/en/post/the/) [sadness](/en/post/sadness/), moments [of](/en/post/of/) [pure](/en/post/pure/) [laughter](/en/post/laughter/) kept [their](/en/post/their/) spirits [up](/en/post/up/)."
+## [Example](/post/example/) Sentences
+- [Noun](/post/noun/): "[Their](/post/their/) shared [sense](/post/sense/) [of](/post/of/) humor led [to](/post/to/) [frequent](/post/frequent/) bouts [of](/post/of/) [laughter](/post/laughter/)."
+- [Noun](/post/noun/) (idiomatic): "[Even](/post/even/) amidst [all](/post/all/) [the](/post/the/) [sadness](/post/sadness/), moments [of](/post/of/) [pure](/post/pure/) [laughter](/post/laughter/) kept [their](/post/their/) spirits [up](/post/up/)."
 
 ## Synonyms
 - Chuckle
 - Giggle
 - Guffaw
 - Cackle
-- [Roar](/en/post/roar/) ([of](/en/post/of/) [laughter](/en/post/laughter/))
+- [Roar](/post/roar/) ([of](/post/of/) [laughter](/post/laughter/))
 - Chortle
 - Snicker
 - Joviality

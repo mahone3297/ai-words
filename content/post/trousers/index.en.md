@@ -7,34 +7,34 @@ description = '[ˈtrauzəz] n.裤子，长裤'
 keywords = ['ai words', 'trousers']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /trʌzərz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Trousers](/en/post/trousers/)** ([plural](/en/post/plural/)): [A](/en/post/a/) garment consisting [of](/en/post/of/) [separate](/en/post/separate/) parts [for](/en/post/for/) [each](/en/post/each/) [leg](/en/post/leg/), typically reaching [from](/en/post/from/) [the](/en/post/the/) [waist](/en/post/waist/) [to](/en/post/to/) [the](/en/post/the/) ankles, worn [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) men's [or](/en/post/or/) women's [clothing](/en/post/clothing/).
-- **Pants**: [In](/en/post/in/) [some](/en/post/some/) regions, [particularly](/en/post/particularly/) [North](/en/post/north/) [America](/en/post/america/), [trousers](/en/post/trousers/) are [commonly](/en/post/commonly/) referred [to](/en/post/to/) [as](/en/post/as/) pants.
+### [Noun](/post/noun/)
+- **[Trousers](/post/trousers/)** ([plural](/post/plural/)): [A](/post/a/) garment consisting [of](/post/of/) [separate](/post/separate/) parts [for](/post/for/) [each](/post/each/) [leg](/post/leg/), typically reaching [from](/post/from/) [the](/post/the/) [waist](/post/waist/) [to](/post/to/) [the](/post/the/) ankles, worn [as](/post/as/) [part](/post/part/) [of](/post/of/) men's [or](/post/or/) women's [clothing](/post/clothing/).
+- **Pants**: [In](/post/in/) [some](/post/some/) regions, [particularly](/post/particularly/) [North](/post/north/) [America](/post/america/), [trousers](/post/trousers/) are [commonly](/post/commonly/) referred [to](/post/to/) [as](/post/as/) pants.
 
 ## Phrases
-- "[Wear](/en/post/wear/) [trousers](/en/post/trousers/)" [or](/en/post/or/) "[put](/en/post/put/) [on](/en/post/on/) [trousers](/en/post/trousers/)"
-- "[Blue](/en/post/blue/) [trousers](/en/post/trousers/)"
-- "Jeans [trousers](/en/post/trousers/)"
+- "[Wear](/post/wear/) [trousers](/post/trousers/)" [or](/post/or/) "[put](/post/put/) [on](/post/on/) [trousers](/post/trousers/)"
+- "[Blue](/post/blue/) [trousers](/post/trousers/)"
+- "Jeans [trousers](/post/trousers/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was wearing [a](/en/post/a/) [pair](/en/post/pair/) [of](/en/post/of/) tailored [trousers](/en/post/trousers/) [to](/en/post/to/) [the](/en/post/the/) [office](/en/post/office/)."
-- **[Verb](/en/post/verb/)**: "It's [time](/en/post/time/) [to](/en/post/to/) [take](/en/post/take/) [off](/en/post/off/) [these](/en/post/these/) [wet](/en/post/wet/) [trousers](/en/post/trousers/) [and](/en/post/and/) [change](/en/post/change/) [into](/en/post/into/) [something](/en/post/something/) [dry](/en/post/dry/)."
-- "I [have](/en/post/have/) [a](/en/post/a/) [pair](/en/post/pair/) [of](/en/post/of/) [black](/en/post/black/) [trousers](/en/post/trousers/) [that](/en/post/that/) [match](/en/post/match/) [any](/en/post/any/) [shirt](/en/post/shirt/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was wearing [a](/post/a/) [pair](/post/pair/) [of](/post/of/) tailored [trousers](/post/trousers/) [to](/post/to/) [the](/post/the/) [office](/post/office/)."
+- **[Verb](/post/verb/)**: "It's [time](/post/time/) [to](/post/to/) [take](/post/take/) [off](/post/off/) [these](/post/these/) [wet](/post/wet/) [trousers](/post/trousers/) [and](/post/and/) [change](/post/change/) [into](/post/into/) [something](/post/something/) [dry](/post/dry/)."
+- "I [have](/post/have/) [a](/post/a/) [pair](/post/pair/) [of](/post/of/) [black](/post/black/) [trousers](/post/trousers/) [that](/post/that/) [match](/post/match/) [any](/post/any/) [shirt](/post/shirt/)."
 
 ## Synonyms
 - Pants
 - Slacks
-- [Trousers](/en/post/trousers/) (informal [in](/en/post/in/) British English)
-- Leggings ([for](/en/post/for/) women's form-fitting pants)
+- [Trousers](/post/trousers/) (informal [in](/post/in/) British English)
+- Leggings ([for](/post/for/) women's form-fitting pants)
 - Drawers (informal, slang)
 
 ## Etymology
-[The](/en/post/the/) [word](/en/post/word/) "[trousers](/en/post/trousers/)" comes [from](/en/post/from/) [the](/en/post/the/) [Old](/en/post/old/) French "toussers," [which](/en/post/which/) originally meant "[to](/en/post/to/) [cough](/en/post/cough/)" [but](/en/post/but/) evolved [into](/en/post/into/) "[to](/en/post/to/) [throw](/en/post/throw/)" [or](/en/post/or/) "[to](/en/post/to/) [toss](/en/post/toss/)," referring [to](/en/post/to/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) throwing [up](/en/post/up/) one's legs [when](/en/post/when/) changing [clothes](/en/post/clothes/).
+[The](/post/the/) [word](/post/word/) "[trousers](/post/trousers/)" comes [from](/post/from/) [the](/post/the/) [Old](/post/old/) French "toussers," [which](/post/which/) originally meant "[to](/post/to/) [cough](/post/cough/)" [but](/post/but/) evolved [into](/post/into/) "[to](/post/to/) [throw](/post/throw/)" [or](/post/or/) "[to](/post/to/) [toss](/post/toss/)," referring [to](/post/to/) [the](/post/the/) [action](/post/action/) [of](/post/of/) throwing [up](/post/up/) one's legs [when](/post/when/) changing [clothes](/post/clothes/).
 
-## [Usage](/en/post/usage/) Notes
-- [In](/en/post/in/) British English, "[trousers](/en/post/trousers/)" is [used](/en/post/used/) [for](/en/post/for/) [both](/en/post/both/) men's [and](/en/post/and/) women's garments, [while](/en/post/while/) [in](/en/post/in/) [American](/en/post/american/) English, "pants" is [more](/en/post/more/) [common](/en/post/common/) [for](/en/post/for/) men's attire [and](/en/post/and/) "[trousers](/en/post/trousers/)" [for](/en/post/for/) women's.
-- [The](/en/post/the/) [term](/en/post/term/) "jeans" is specifically [used](/en/post/used/) [for](/en/post/for/) [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [durable](/en/post/durable/), [often](/en/post/often/) [blue](/en/post/blue/) denim [trousers](/en/post/trousers/).
+## [Usage](/post/usage/) Notes
+- [In](/post/in/) British English, "[trousers](/post/trousers/)" is [used](/post/used/) [for](/post/for/) [both](/post/both/) men's [and](/post/and/) women's garments, [while](/post/while/) [in](/post/in/) [American](/post/american/) English, "pants" is [more](/post/more/) [common](/post/common/) [for](/post/for/) men's attire [and](/post/and/) "[trousers](/post/trousers/)" [for](/post/for/) women's.
+- [The](/post/the/) [term](/post/term/) "jeans" is specifically [used](/post/used/) [for](/post/for/) [a](/post/a/) [type](/post/type/) [of](/post/of/) [durable](/post/durable/), [often](/post/often/) [blue](/post/blue/) denim [trousers](/post/trousers/).

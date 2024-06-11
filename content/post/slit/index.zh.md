@@ -11,23 +11,23 @@ keywords = ['ai words', 'slit']
 /slɪt/
 
 ## 释义
-- **名词**: 一条狭长的切口或裂缝。例如: "[She](/post/she/) made [a](/post/a/) [small](/post/small/) [slit](/post/slit/) [in](/post/in/) [the](/post/the/) [fabric](/post/fabric/) [for](/post/for/) [the](/post/the/) [button](/post/button/)."
-- **动词**: 切开或割开一条狭长的口子。例如: "[He](/post/he/) [slit](/post/slit/) [the](/post/the/) [envelope](/post/envelope/) [open](/post/open/) [with](/post/with/) [a](/post/a/) [knife](/post/knife/)."
-- **形容词**: 形容成细条状的。例如: "[The](/post/the/) [slit](/post/slit/) [skirt](/post/skirt/) revealed [her](/post/her/) toned legs."
+- **名词**: 一条狭长的切口或裂缝。例如: "[She](/zh/post/she/) made [a](/zh/post/a/) [small](/zh/post/small/) [slit](/zh/post/slit/) [in](/zh/post/in/) [the](/zh/post/the/) [fabric](/zh/post/fabric/) [for](/zh/post/for/) [the](/zh/post/the/) [button](/zh/post/button/)."
+- **动词**: 切开或割开一条狭长的口子。例如: "[He](/zh/post/he/) [slit](/zh/post/slit/) [the](/zh/post/the/) [envelope](/zh/post/envelope/) [open](/zh/post/open/) [with](/zh/post/with/) [a](/zh/post/a/) [knife](/zh/post/knife/)."
+- **形容词**: 形容成细条状的。例如: "[The](/zh/post/the/) [slit](/zh/post/slit/) [skirt](/zh/post/skirt/) revealed [her](/zh/post/her/) toned legs."
 
 ## 短语
-- "[slit](/post/slit/) one's wrists" 指割腕自杀的行为。
-- "[a](/post/a/) [slit](/post/slit/) [pocket](/post/pocket/)" 指有狭长开口的口袋。
-- "[slit](/post/slit/) eyes" 通常用来形容猫的眼睛形状，有时也用于贬低地描述人的眼睛。
+- "[slit](/zh/post/slit/) one's wrists" 指割腕自杀的行为。
+- "[a](/zh/post/a/) [slit](/zh/post/slit/) [pocket](/zh/post/pocket/)" 指有狭长开口的口袋。
+- "[slit](/zh/post/slit/) eyes" 通常用来形容猫的眼睛形状，有时也用于贬低地描述人的眼睛。
 
 ## 例句
-- 名词: "[The](/post/the/) [dress](/post/dress/) had [a](/post/a/) [daring](/post/daring/) [slit](/post/slit/) [up](/post/up/) [the](/post/the/) [side](/post/side/)."
-- 动词: "[He](/post/he/) carefully [slit](/post/slit/) [the](/post/the/) [tape](/post/tape/) [without](/post/without/) damaging [the](/post/the/) [package](/post/package/)."
-- 形容词: "[The](/post/the/) [model](/post/model/) wore [a](/post/a/) [dress](/post/dress/) [with](/post/with/) [a](/post/a/) [high](/post/high/) [slit](/post/slit/) [that](/post/that/) showed [off](/post/off/) [her](/post/her/) legs."
+- 名词: "[The](/zh/post/the/) [dress](/zh/post/dress/) had [a](/zh/post/a/) [daring](/zh/post/daring/) [slit](/zh/post/slit/) [up](/zh/post/up/) [the](/zh/post/the/) [side](/zh/post/side/)."
+- 动词: "[He](/zh/post/he/) carefully [slit](/zh/post/slit/) [the](/zh/post/the/) [tape](/zh/post/tape/) [without](/zh/post/without/) damaging [the](/zh/post/the/) [package](/zh/post/package/)."
+- 形容词: "[The](/zh/post/the/) [model](/zh/post/model/) wore [a](/zh/post/a/) [dress](/zh/post/dress/) [with](/zh/post/with/) [a](/zh/post/a/) [high](/zh/post/high/) [slit](/zh/post/slit/) [that](/zh/post/that/) showed [off](/zh/post/off/) [her](/zh/post/her/) legs."
 
 ## 同义词
-- [cut](/post/cut/)
-- [slice](/post/slice/)
-- [tear](/post/tear/)
+- [cut](/zh/post/cut/)
+- [slice](/zh/post/slice/)
+- [tear](/zh/post/tear/)
 - gash
-- [opening](/post/opening/)
+- [opening](/zh/post/opening/)

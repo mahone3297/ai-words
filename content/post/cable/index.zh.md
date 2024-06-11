@@ -11,21 +11,21 @@ keywords = ['ai words', 'cable']
 /kæbəl/
 
 ## 释义
-- **名词**: 电缆，电线；缆绳。例如: "They're laying [a](/post/a/) [new](/post/new/) [cable](/post/cable/) [under](/post/under/) [the](/post/the/) [ocean](/post/ocean/) [for](/post/for/) faster internet."（他们正在海底铺设新的电缆以实现更快的互联网速度。）
-- **动词**: 通过电缆发送（信息）。例如: "[The](/post/the/) [news](/post/news/) was cabled [to](/post/to/) [New](/post/new/) York [immediately](/post/immediately/)."（消息被立即通过电报传到纽约。）
+- **名词**: 电缆，电线；缆绳。例如: "They're laying [a](/zh/post/a/) [new](/zh/post/new/) [cable](/zh/post/cable/) [under](/zh/post/under/) [the](/zh/post/the/) [ocean](/zh/post/ocean/) [for](/zh/post/for/) faster internet."（他们正在海底铺设新的电缆以实现更快的互联网速度。）
+- **动词**: 通过电缆发送（信息）。例如: "[The](/zh/post/the/) [news](/zh/post/news/) was cabled [to](/zh/post/to/) [New](/zh/post/new/) York [immediately](/zh/post/immediately/)."（消息被立即通过电报传到纽约。）
 
 ## 短语
-- "undersea [cable](/post/cable/)" 海底电缆
-- "[television](/post/television/) [cable](/post/cable/)" 有线电视
-- "[cable](/post/cable/) [car](/post/car/)" 缆车
+- "undersea [cable](/zh/post/cable/)" 海底电缆
+- "[television](/zh/post/television/) [cable](/zh/post/cable/)" 有线电视
+- "[cable](/zh/post/cable/) [car](/zh/post/car/)" 缆车
 
 ## 例句
-- 名词: "[The](/post/the/) [ship](/post/ship/) is anchored [with](/post/with/) [a](/post/a/) [strong](/post/strong/) [steel](/post/steel/) [cable](/post/cable/)."（船用一根坚固的钢缆锚定。）
-- 动词: "[The](/post/the/) [message](/post/message/) was cabled [from](/post/from/) London [to](/post/to/) Paris [in](/post/in/) seconds."（消息从伦敦用电报瞬间发送到了巴黎。）
+- 名词: "[The](/zh/post/the/) [ship](/zh/post/ship/) is anchored [with](/zh/post/with/) [a](/zh/post/a/) [strong](/zh/post/strong/) [steel](/zh/post/steel/) [cable](/zh/post/cable/)."（船用一根坚固的钢缆锚定。）
+- 动词: "[The](/zh/post/the/) [message](/zh/post/message/) was cabled [from](/zh/post/from/) London [to](/zh/post/to/) Paris [in](/zh/post/in/) seconds."（消息从伦敦用电报瞬间发送到了巴黎。）
 
 ## 同义词
-- [wire](/post/wire/)
-- [rope](/post/rope/)
+- [wire](/zh/post/wire/)
+- [rope](/zh/post/rope/)
 - tether
-- [transmission](/post/transmission/) [line](/post/line/)
-- [telegraph](/post/telegraph/) [wire](/post/wire/)
+- [transmission](/zh/post/transmission/) [line](/zh/post/line/)
+- [telegraph](/zh/post/telegraph/) [wire](/zh/post/wire/)

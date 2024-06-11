@@ -7,32 +7,32 @@ description = '[iksˈpləud] vt.使爆炸 vi.爆炸'
 keywords = ['ai words', 'explode']
 +++
 
-## [Word](/en/post/word/): [Explode](/en/post/explode/)
+## [Word](/post/word/): [Explode](/post/explode/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈspləʊd/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [burst](/en/post/burst/) [suddenly](/en/post/suddenly/) [and](/en/post/and/) violently [with](/en/post/with/) [a](/en/post/a/) [loud](/en/post/loud/) [noise](/en/post/noise/) [due](/en/post/due/) [to](/en/post/to/) [great](/en/post/great/) [internal](/en/post/internal/) [pressure](/en/post/pressure/), [heat](/en/post/heat/), [or](/en/post/or/) [chemical](/en/post/chemical/) [reaction](/en/post/reaction/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) fireworks exploded [in](/en/post/in/) [the](/en/post/the/) [sky](/en/post/sky/)."
-  - **figurative**: [To](/en/post/to/) [expand](/en/post/expand/) [rapidly](/en/post/rapidly/) [or](/en/post/or/) [increase](/en/post/increase/) [greatly](/en/post/greatly/) [in](/en/post/in/) [number](/en/post/number/), [size](/en/post/size/), [or](/en/post/or/) [intensity](/en/post/intensity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [population](/en/post/population/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) exploded [over](/en/post/over/) [the](/en/post/the/) [past](/en/post/past/) [decade](/en/post/decade/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) exploding [or](/en/post/or/) [something](/en/post/something/) [that](/en/post/that/) explodes. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [explosion](/en/post/explosion/) caused [significant](/en/post/significant/) [damage](/en/post/damage/) [to](/en/post/to/) [the](/en/post/the/) [building](/en/post/building/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [burst](/post/burst/) [suddenly](/post/suddenly/) [and](/post/and/) violently [with](/post/with/) [a](/post/a/) [loud](/post/loud/) [noise](/post/noise/) [due](/post/due/) [to](/post/to/) [great](/post/great/) [internal](/post/internal/) [pressure](/post/pressure/), [heat](/post/heat/), [or](/post/or/) [chemical](/post/chemical/) [reaction](/post/reaction/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) fireworks exploded [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
+  - **figurative**: [To](/post/to/) [expand](/post/expand/) [rapidly](/post/rapidly/) [or](/post/or/) [increase](/post/increase/) [greatly](/post/greatly/) [in](/post/in/) [number](/post/number/), [size](/post/size/), [or](/post/or/) [intensity](/post/intensity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [population](/post/population/) [of](/post/of/) [the](/post/the/) [city](/post/city/) exploded [over](/post/over/) [the](/post/the/) [past](/post/past/) [decade](/post/decade/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) exploding [or](/post/or/) [something](/post/something/) [that](/post/that/) explodes. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [explosion](/post/explosion/) caused [significant](/post/significant/) [damage](/post/damage/) [to](/post/to/) [the](/post/the/) [building](/post/building/)."
 
 ## Phrases
-- "[Explode](/en/post/explode/) [with](/en/post/with/) [anger](/en/post/anger/)" [means](/en/post/means/) [to](/en/post/to/) [suddenly](/en/post/suddenly/) [become](/en/post/become/) [very](/en/post/very/) [angry](/en/post/angry/).
-- "[To](/en/post/to/) [go](/en/post/go/) [off](/en/post/off/) [like](/en/post/like/) [a](/en/post/a/) [bomb](/en/post/bomb/)" is an idiomatic [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [suddenly](/en/post/suddenly/) [become](/en/post/become/) [very](/en/post/very/) [active](/en/post/active/), [popular](/en/post/popular/), [or](/en/post/or/) problematic, [often](/en/post/often/) unexpectedly.
-- "[Explode](/en/post/explode/) [onto](/en/post/onto/) [the](/en/post/the/) [scene](/en/post/scene/)" is [used](/en/post/used/) [when](/en/post/when/) referring [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) making [a](/en/post/a/) [sudden](/en/post/sudden/) [and](/en/post/and/) [dramatic](/en/post/dramatic/) [impact](/en/post/impact/) [or](/en/post/or/) [entrance](/en/post/entrance/).
+- "[Explode](/post/explode/) [with](/post/with/) [anger](/post/anger/)" [means](/post/means/) [to](/post/to/) [suddenly](/post/suddenly/) [become](/post/become/) [very](/post/very/) [angry](/post/angry/).
+- "[To](/post/to/) [go](/post/go/) [off](/post/off/) [like](/post/like/) [a](/post/a/) [bomb](/post/bomb/)" is an idiomatic [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [suddenly](/post/suddenly/) [become](/post/become/) [very](/post/very/) [active](/post/active/), [popular](/post/popular/), [or](/post/or/) problematic, [often](/post/often/) unexpectedly.
+- "[Explode](/post/explode/) [onto](/post/onto/) [the](/post/the/) [scene](/post/scene/)" is [used](/post/used/) [when](/post/when/) referring [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) making [a](/post/a/) [sudden](/post/sudden/) [and](/post/and/) [dramatic](/post/dramatic/) [impact](/post/impact/) [or](/post/or/) [entrance](/post/entrance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (literal)**: "[The](/en/post/the/) [pressure](/en/post/pressure/) [inside](/en/post/inside/) [the](/en/post/the/) boiler became [too](/en/post/too/) [high](/en/post/high/) [and](/en/post/and/) [it](/en/post/it/) exploded."
-- **[Verb](/en/post/verb/) (figurative)**: "[Her](/en/post/her/) [career](/en/post/career/) exploded [after](/en/post/after/) [her](/en/post/her/) [first](/en/post/first/) [novel](/en/post/novel/) topped [the](/en/post/the/) bestseller [list](/en/post/list/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [police](/en/post/police/) were investigating [the](/en/post/the/) [cause](/en/post/cause/) [of](/en/post/of/) [the](/en/post/the/) [explosion](/en/post/explosion/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (literal)**: "[The](/post/the/) [pressure](/post/pressure/) [inside](/post/inside/) [the](/post/the/) boiler became [too](/post/too/) [high](/post/high/) [and](/post/and/) [it](/post/it/) exploded."
+- **[Verb](/post/verb/) (figurative)**: "[Her](/post/her/) [career](/post/career/) exploded [after](/post/after/) [her](/post/her/) [first](/post/first/) [novel](/post/novel/) topped [the](/post/the/) bestseller [list](/post/list/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [police](/post/police/) were investigating [the](/post/the/) [cause](/post/cause/) [of](/post/of/) [the](/post/the/) [explosion](/post/explosion/)."
 
 ## Synonyms
-- [Burst](/en/post/burst/)
+- [Burst](/post/burst/)
 - Detonate
-- [Blow](/en/post/blow/) [up](/en/post/up/)
+- [Blow](/post/blow/) [up](/post/up/)
 - Disintegrate
-- Erupt ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [a](/en/post/a/) [sudden](/en/post/sudden/) [release](/en/post/release/) [of](/en/post/of/) [energy](/en/post/energy/))
-- [Split](/en/post/split/) ([apart](/en/post/apart/))
+- Erupt ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [a](/post/a/) [sudden](/post/sudden/) [release](/post/release/) [of](/post/of/) [energy](/post/energy/))
+- [Split](/post/split/) ([apart](/post/apart/))
 - Shatter
-- [Rock](/en/post/rock/) (informal, [for](/en/post/for/) an [explosion](/en/post/explosion/))
+- [Rock](/post/rock/) (informal, [for](/post/for/) an [explosion](/post/explosion/))

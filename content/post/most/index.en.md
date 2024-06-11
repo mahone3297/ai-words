@@ -7,33 +7,33 @@ description = '[məust] a.最多的 ad.最，很'
 keywords = ['ai words', 'most']
 +++
 
-## [Word](/en/post/word/): [Most](/en/post/most/)
+## [Word](/post/word/): [Most](/post/most/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /məʊst/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Greatest [in](/en/post/in/) [amount](/en/post/amount/), [extent](/en/post/extent/), [or](/en/post/or/) [degree](/en/post/degree/); [the](/en/post/the/) [majority](/en/post/majority/) [of](/en/post/of/). _Example:_ "[Most](/en/post/most/) [people](/en/post/people/) [prefer](/en/post/prefer/) [coffee](/en/post/coffee/) [over](/en/post/over/) [tea](/en/post/tea/)."
-  - _Superlative [form](/en/post/form/) [of](/en/post/of/) '[many](/en/post/many/)' [or](/en/post/or/) 'much'_ : "That's [the](/en/post/the/) [most](/en/post/most/) [beautiful](/en/post/beautiful/) [sunset](/en/post/sunset/) I've [ever](/en/post/ever/) seen."
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [the](/en/post/the/) greatest [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/); [almost](/en/post/almost/) [all](/en/post/all/). _Example:_ "[She](/en/post/she/) was [most](/en/post/most/) impressed [by](/en/post/by/) [his](/en/post/his/) [performance](/en/post/performance/)."
-  - _Used [for](/en/post/for/) emphasis_ : "[Most](/en/post/most/) [certainly](/en/post/certainly/), I [will](/en/post/will/) [attend](/en/post/attend/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **Determiner**: [The](/en/post/the/) greater [part](/en/post/part/) [or](/en/post/or/) [majority](/en/post/majority/) [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [thing](/en/post/thing/). _Example:_ "[Most](/en/post/most/) students passed [the](/en/post/the/) [exam](/en/post/exam/)."
+- **[Adjective](/post/adjective/)**: Greatest [in](/post/in/) [amount](/post/amount/), [extent](/post/extent/), [or](/post/or/) [degree](/post/degree/); [the](/post/the/) [majority](/post/majority/) [of](/post/of/). _Example:_ "[Most](/post/most/) [people](/post/people/) [prefer](/post/prefer/) [coffee](/post/coffee/) [over](/post/over/) [tea](/post/tea/)."
+  - _Superlative [form](/post/form/) [of](/post/of/) '[many](/post/many/)' [or](/post/or/) 'much'_ : "That's [the](/post/the/) [most](/post/most/) [beautiful](/post/beautiful/) [sunset](/post/sunset/) I've [ever](/post/ever/) seen."
+- **[Adverb](/post/adverb/)**: [To](/post/to/) [the](/post/the/) greatest [extent](/post/extent/) [or](/post/or/) [degree](/post/degree/); [almost](/post/almost/) [all](/post/all/). _Example:_ "[She](/post/she/) was [most](/post/most/) impressed [by](/post/by/) [his](/post/his/) [performance](/post/performance/)."
+  - _Used [for](/post/for/) emphasis_ : "[Most](/post/most/) [certainly](/post/certainly/), I [will](/post/will/) [attend](/post/attend/) [the](/post/the/) [meeting](/post/meeting/)."
+- **Determiner**: [The](/post/the/) greater [part](/post/part/) [or](/post/or/) [majority](/post/majority/) [of](/post/of/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [thing](/post/thing/). _Example:_ "[Most](/post/most/) students passed [the](/post/the/) [exam](/post/exam/)."
 
 ## Phrases
-- "[The](/en/post/the/) [most](/en/post/most/) [important](/en/post/important/) [thing](/en/post/thing/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) holds [the](/en/post/the/) highest [level](/en/post/level/) [of](/en/post/of/) [significance](/en/post/significance/).
-- "[In](/en/post/in/) [most](/en/post/most/) cases" implies [that](/en/post/that/) [something](/en/post/something/) happens [or](/en/post/or/) applies [to](/en/post/to/) [nearly](/en/post/nearly/) [all](/en/post/all/) situations.
-- "[At](/en/post/at/) [most](/en/post/most/)" denotes [the](/en/post/the/) [maximum](/en/post/maximum/) [number](/en/post/number/) [or](/en/post/or/) [quantity](/en/post/quantity/) [of](/en/post/of/) [something](/en/post/something/). _Example:_ "[There](/en/post/there/) were [at](/en/post/at/) [most](/en/post/most/) [ten](/en/post/ten/) [people](/en/post/people/) [present](/en/post/present/)."
+- "[The](/post/the/) [most](/post/most/) [important](/post/important/) [thing](/post/thing/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) holds [the](/post/the/) highest [level](/post/level/) [of](/post/of/) [significance](/post/significance/).
+- "[In](/post/in/) [most](/post/most/) cases" implies [that](/post/that/) [something](/post/something/) happens [or](/post/or/) applies [to](/post/to/) [nearly](/post/nearly/) [all](/post/all/) situations.
+- "[At](/post/at/) [most](/post/most/)" denotes [the](/post/the/) [maximum](/post/maximum/) [number](/post/number/) [or](/post/or/) [quantity](/post/quantity/) [of](/post/of/) [something](/post/something/). _Example:_ "[There](/post/there/) were [at](/post/at/) [most](/post/most/) [ten](/post/ten/) [people](/post/people/) [present](/post/present/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [book](/en/post/book/) is [the](/en/post/the/) [most](/en/post/most/) [interesting](/en/post/interesting/) [one](/en/post/one/) I've [read](/en/post/read/) [this](/en/post/this/) [year](/en/post/year/)."
-- **[Adverb](/en/post/adverb/)**: "[Most](/en/post/most/) [likely](/en/post/likely/), we'll [have](/en/post/have/) [clear](/en/post/clear/) skies [tomorrow](/en/post/tomorrow/)."
-- **Determiner**: "[Most](/en/post/most/) evenings, [he](/en/post/he/) spends [time](/en/post/time/) [reading](/en/post/reading/) [before](/en/post/before/) [bed](/en/post/bed/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [book](/post/book/) is [the](/post/the/) [most](/post/most/) [interesting](/post/interesting/) [one](/post/one/) I've [read](/post/read/) [this](/post/this/) [year](/post/year/)."
+- **[Adverb](/post/adverb/)**: "[Most](/post/most/) [likely](/post/likely/), we'll [have](/post/have/) [clear](/post/clear/) skies [tomorrow](/post/tomorrow/)."
+- **Determiner**: "[Most](/post/most/) evenings, [he](/post/he/) spends [time](/post/time/) [reading](/post/reading/) [before](/post/before/) [bed](/post/bed/)."
 
 ## Synonyms
-- [Majority](/en/post/majority/)
+- [Majority](/post/majority/)
 - Greatest
-- [Mainly](/en/post/mainly/)
-- [Primarily](/en/post/primarily/)
+- [Mainly](/post/mainly/)
+- [Primarily](/post/primarily/)
 - Chiefly
-- [Virtually](/en/post/virtually/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/))
-- [Almost](/en/post/almost/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/))
+- [Virtually](/post/virtually/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/))
+- [Almost](/post/almost/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/))

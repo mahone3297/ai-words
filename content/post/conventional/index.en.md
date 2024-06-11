@@ -7,37 +7,37 @@ description = '[kənˈven∫ənl] a.普通的；习惯的'
 keywords = ['ai words', 'conventional']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈvɛnʃənl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Following](/en/post/following/) [or](/en/post/or/) conforming [to](/en/post/to/) established [or](/en/post/or/) [traditional](/en/post/traditional/) practices, norms, [or](/en/post/or/) customs. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [conventional](/en/post/conventional/) [wedding](/en/post/wedding/) [ceremony](/en/post/ceremony/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [conventional](/en/post/conventional/) [practice](/en/post/practice/) [or](/en/post/or/) [rule](/en/post/rule/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [game](/en/post/game/) has [its](/en/post/its/) [conventional](/en/post/conventional/) strategies."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [conventional](/en/post/conventional/) [manner](/en/post/manner/); typically [or](/en/post/or/) according [to](/en/post/to/) [custom](/en/post/custom/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) dressed conventionally [for](/en/post/for/) [the](/en/post/the/) [event](/en/post/event/)."
+- **[Adjective](/post/adjective/)**: [Following](/post/following/) [or](/post/or/) conforming [to](/post/to/) established [or](/post/or/) [traditional](/post/traditional/) practices, norms, [or](/post/or/) customs. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [conventional](/post/conventional/) [wedding](/post/wedding/) [ceremony](/post/ceremony/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [conventional](/post/conventional/) [practice](/post/practice/) [or](/post/or/) [rule](/post/rule/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [game](/post/game/) has [its](/post/its/) [conventional](/post/conventional/) strategies."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [conventional](/post/conventional/) [manner](/post/manner/); typically [or](/post/or/) according [to](/post/to/) [custom](/post/custom/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) dressed conventionally [for](/post/for/) [the](/post/the/) [event](/post/event/)."
 
 ## Phrases
-- "[Conventional](/en/post/conventional/) [wisdom](/en/post/wisdom/)" refers [to](/en/post/to/) [commonly](/en/post/commonly/) accepted beliefs [or](/en/post/or/) ideas.
-- "Acting conventionally" [means](/en/post/means/) behaving [in](/en/post/in/) [a](/en/post/a/) [typical](/en/post/typical/) [or](/en/post/or/) expected [way](/en/post/way/).
-- "Non-conventional thinking" encourages ideas [that](/en/post/that/) deviate [from](/en/post/from/) [the](/en/post/the/) norm.
+- "[Conventional](/post/conventional/) [wisdom](/post/wisdom/)" refers [to](/post/to/) [commonly](/post/commonly/) accepted beliefs [or](/post/or/) ideas.
+- "Acting conventionally" [means](/post/means/) behaving [in](/post/in/) [a](/post/a/) [typical](/post/typical/) [or](/post/or/) expected [way](/post/way/).
+- "Non-conventional thinking" encourages ideas [that](/post/that/) deviate [from](/post/from/) [the](/post/the/) norm.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) had [a](/en/post/a/) [conventional](/en/post/conventional/) [layout](/en/post/layout/) [with](/en/post/with/) [a](/en/post/a/) [living](/en/post/living/) [room](/en/post/room/) [and](/en/post/and/) [kitchen](/en/post/kitchen/) [on](/en/post/on/) [one](/en/post/one/) [side](/en/post/side/)."
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) followed [the](/en/post/the/) [conventional](/en/post/conventional/) [route](/en/post/route/) [for](/en/post/for/) applying [to](/en/post/to/) [college](/en/post/college/)."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) [response](/en/post/response/) was entirely [conventional](/en/post/conventional/), lacking [any](/en/post/any/) surprises."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) had [a](/post/a/) [conventional](/post/conventional/) [layout](/post/layout/) [with](/post/with/) [a](/post/a/) [living](/post/living/) [room](/post/room/) [and](/post/and/) [kitchen](/post/kitchen/) [on](/post/on/) [one](/post/one/) [side](/post/side/)."
+- **[Noun](/post/noun/)**: "[He](/post/he/) followed [the](/post/the/) [conventional](/post/conventional/) [route](/post/route/) [for](/post/for/) applying [to](/post/to/) [college](/post/college/)."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) [response](/post/response/) was entirely [conventional](/post/conventional/), lacking [any](/post/any/) surprises."
 
 ## Synonyms
-- [Traditional](/en/post/traditional/)
-- [Standard](/en/post/standard/)
+- [Traditional](/post/traditional/)
+- [Standard](/post/standard/)
 - Established
-- [Normal](/en/post/normal/)
-- [Routine](/en/post/routine/)
+- [Normal](/post/normal/)
+- [Routine](/post/routine/)
 - Expected
 - Customary
 
 ## Antonyms
 - Unconventional
 - Innovative
-- [Revolutionary](/en/post/revolutionary/)
+- [Revolutionary](/post/revolutionary/)
 - Non-traditional
 - Unorthodox
-- [Progressive](/en/post/progressive/)
+- [Progressive](/post/progressive/)

@@ -7,35 +7,35 @@ description = '[disˈtiŋk∫ən] n.差别，不同，区分'
 keywords = ['ai words', 'distinction']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /distɪŋkʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: **1**. [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [different](/en/post/different/) [or](/en/post/or/) [distinct](/en/post/distinct/); [a](/en/post/a/) [difference](/en/post/difference/) [between](/en/post/between/) things [or](/en/post/or/) [people](/en/post/people/). "[The](/en/post/the/) [distinction](/en/post/distinction/) [between](/en/post/between/) [art](/en/post/art/) [and](/en/post/and/) [craft](/en/post/craft/)." **2**. [A](/en/post/a/) [feature](/en/post/feature/) [that](/en/post/that/) separates [one](/en/post/one/) [thing](/en/post/thing/) [from](/en/post/from/) others [of](/en/post/of/) [its](/en/post/its/) [kind](/en/post/kind/). "[The](/en/post/the/) [distinction](/en/post/distinction/) [between](/en/post/between/) [his](/en/post/his/) [work](/en/post/work/) [and](/en/post/and/) [hers](/en/post/hers/) is [clear](/en/post/clear/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [perceive](/en/post/perceive/) [or](/en/post/or/) [point](/en/post/point/) [out](/en/post/out/) [the](/en/post/the/) differences [between](/en/post/between/); differentiate. "[She](/en/post/she/) [easily](/en/post/easily/) distinguished [the](/en/post/the/) [two](/en/post/two/) paintings [by](/en/post/by/) [their](/en/post/their/) styles."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [thing](/en/post/thing/) [or](/en/post/or/) [person](/en/post/person/); distinctive. "[His](/en/post/his/) [writing](/en/post/writing/) [style](/en/post/style/) has [a](/en/post/a/) [unique](/en/post/unique/) [distinction](/en/post/distinction/)."
+- **[Noun](/post/noun/)**: **1**. [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [different](/post/different/) [or](/post/or/) [distinct](/post/distinct/); [a](/post/a/) [difference](/post/difference/) [between](/post/between/) things [or](/post/or/) [people](/post/people/). "[The](/post/the/) [distinction](/post/distinction/) [between](/post/between/) [art](/post/art/) [and](/post/and/) [craft](/post/craft/)." **2**. [A](/post/a/) [feature](/post/feature/) [that](/post/that/) separates [one](/post/one/) [thing](/post/thing/) [from](/post/from/) others [of](/post/of/) [its](/post/its/) [kind](/post/kind/). "[The](/post/the/) [distinction](/post/distinction/) [between](/post/between/) [his](/post/his/) [work](/post/work/) [and](/post/and/) [hers](/post/hers/) is [clear](/post/clear/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [perceive](/post/perceive/) [or](/post/or/) [point](/post/point/) [out](/post/out/) [the](/post/the/) differences [between](/post/between/); differentiate. "[She](/post/she/) [easily](/post/easily/) distinguished [the](/post/the/) [two](/post/two/) paintings [by](/post/by/) [their](/post/their/) styles."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [thing](/post/thing/) [or](/post/or/) [person](/post/person/); distinctive. "[His](/post/his/) [writing](/post/writing/) [style](/post/style/) has [a](/post/a/) [unique](/post/unique/) [distinction](/post/distinction/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [distinction](/en/post/distinction/)" [means](/en/post/means/) [to](/en/post/to/) [identify](/en/post/identify/) [or](/en/post/or/) [emphasize](/en/post/emphasize/) [a](/en/post/a/) [difference](/en/post/difference/).
-- "[Lack](/en/post/lack/) [of](/en/post/of/) [distinction](/en/post/distinction/)" refers [to](/en/post/to/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [noticeable](/en/post/noticeable/) qualities [or](/en/post/or/) features.
-- "Educational [distinction](/en/post/distinction/)" [can](/en/post/can/) [mean](/en/post/mean/) [outstanding](/en/post/outstanding/) [academic](/en/post/academic/) [achievement](/en/post/achievement/).
+- "[Make](/post/make/) [a](/post/a/) [distinction](/post/distinction/)" [means](/post/means/) [to](/post/to/) [identify](/post/identify/) [or](/post/or/) [emphasize](/post/emphasize/) [a](/post/a/) [difference](/post/difference/).
+- "[Lack](/post/lack/) [of](/post/of/) [distinction](/post/distinction/)" refers [to](/post/to/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [noticeable](/post/noticeable/) qualities [or](/post/or/) features.
+- "Educational [distinction](/post/distinction/)" [can](/post/can/) [mean](/post/mean/) [outstanding](/post/outstanding/) [academic](/post/academic/) [achievement](/post/achievement/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [author](/en/post/author/) draws [a](/en/post/a/) [clear](/en/post/clear/) [distinction](/en/post/distinction/) [between](/en/post/between/) [fact](/en/post/fact/) [and](/en/post/and/) [fiction](/en/post/fiction/) [in](/en/post/in/) [her](/en/post/her/) [book](/en/post/book/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) judges were [able](/en/post/able/) [to](/en/post/to/) [distinguish](/en/post/distinguish/) [between](/en/post/between/) [the](/en/post/the/) contestants' performances."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [work](/en/post/work/) stands [out](/en/post/out/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [distinct](/en/post/distinct/) [color](/en/post/color/) palette."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [author](/post/author/) draws [a](/post/a/) [clear](/post/clear/) [distinction](/post/distinction/) [between](/post/between/) [fact](/post/fact/) [and](/post/and/) [fiction](/post/fiction/) [in](/post/in/) [her](/post/her/) [book](/post/book/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) judges were [able](/post/able/) [to](/post/to/) [distinguish](/post/distinguish/) [between](/post/between/) [the](/post/the/) contestants' performances."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [work](/post/work/) stands [out](/post/out/) [due](/post/due/) [to](/post/to/) [its](/post/its/) [distinct](/post/distinct/) [color](/post/color/) palette."
 
 ## Synonyms
-- [Difference](/en/post/difference/)
-- [Distinction](/en/post/distinction/)
-- [Separation](/en/post/separation/)
+- [Difference](/post/difference/)
+- [Distinction](/post/distinction/)
+- [Separation](/post/separation/)
 - Differentiation
 - Discrimination
 - Separateness
 
 ## Antonyms
 - Similarity
-- [Equality](/en/post/equality/)
+- [Equality](/post/equality/)
 - Uniformity
 - Indistinguishability
 - Congruence

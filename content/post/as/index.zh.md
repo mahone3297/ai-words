@@ -11,20 +11,20 @@ keywords = ['ai words', 'as']
 /æz/
 
 ## 释义
-- **介词**: 表示“作为”，“以…的身份”，“像…一样”。例如: "[She](/post/she/) works [as](/post/as/) [a](/post/a/) [teacher](/post/teacher/)." 
-- **连词**: 引导方式状语从句，表示“如同”，“按照”。例如: "[Do](/post/do/) [it](/post/it/) [as](/post/as/) I [show](/post/show/) [you](/post/you/)."
+- **介词**: 表示“作为”，“以…的身份”，“像…一样”。例如: "[She](/zh/post/she/) works [as](/zh/post/as/) [a](/zh/post/a/) [teacher](/zh/post/teacher/)." 
+- **连词**: 引导方式状语从句，表示“如同”，“按照”。例如: "[Do](/zh/post/do/) [it](/zh/post/it/) [as](/zh/post/as/) I [show](/zh/post/show/) [you](/zh/post/you/)."
 
 ## 短语
-- "[as](/post/as/) [well](/post/well/) [as](/post/as/)" 意为“也”，“和…一样”。例如: "[She](/post/she/) [can](/post/can/) [sing](/post/sing/) [as](/post/as/) [well](/post/well/) [as](/post/as/) [dance](/post/dance/)."
-- "[as](/post/as/) [soon](/post/soon/) [as](/post/as/)" 表示“一…就…”。例如: "I'll [call](/post/call/) [you](/post/you/) [as](/post/as/) [soon](/post/soon/) [as](/post/as/) I [arrive](/post/arrive/)."
+- "[as](/zh/post/as/) [well](/zh/post/well/) [as](/zh/post/as/)" 意为“也”，“和…一样”。例如: "[She](/zh/post/she/) [can](/zh/post/can/) [sing](/zh/post/sing/) [as](/zh/post/as/) [well](/zh/post/well/) [as](/zh/post/as/) [dance](/zh/post/dance/)."
+- "[as](/zh/post/as/) [soon](/zh/post/soon/) [as](/zh/post/as/)" 表示“一…就…”。例如: "I'll [call](/zh/post/call/) [you](/zh/post/you/) [as](/zh/post/as/) [soon](/zh/post/soon/) [as](/zh/post/as/) I [arrive](/zh/post/arrive/)."
 
 ## 例句
-- 介词: "[He](/post/he/) acted [as](/post/as/) [the](/post/the/) [team](/post/team/) [leader](/post/leader/) [during](/post/during/) [the](/post/the/) [project](/post/project/)."
-- 连词: "[She](/post/she/) sings [as](/post/as/) beautifully [as](/post/as/) [her](/post/her/) [mother](/post/mother/) did."
+- 介词: "[He](/zh/post/he/) acted [as](/zh/post/as/) [the](/zh/post/the/) [team](/zh/post/team/) [leader](/zh/post/leader/) [during](/zh/post/during/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- 连词: "[She](/zh/post/she/) sings [as](/zh/post/as/) beautifully [as](/zh/post/as/) [her](/zh/post/her/) [mother](/zh/post/mother/) did."
 
 ## 同义词
-- [like](/post/like/)
-- [in](/post/in/) [the](/post/the/) [role](/post/role/) [of](/post/of/)
-- [being](/post/being/)
-- considered [to](/post/to/) [be](/post/be/)
-- [just](/post/just/) [as](/post/as/)
+- [like](/zh/post/like/)
+- [in](/zh/post/in/) [the](/zh/post/the/) [role](/zh/post/role/) [of](/zh/post/of/)
+- [being](/zh/post/being/)
+- considered [to](/zh/post/to/) [be](/zh/post/be/)
+- [just](/zh/post/just/) [as](/zh/post/as/)

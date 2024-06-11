@@ -11,20 +11,20 @@ keywords = ['ai words', 'wool']
 /woʊl/
 
 ## 释义
-- **名词 (n)**: 织物或衣物的一种材料，由羊毛或其他动物毛发制成。例如: "[She](/post/she/) was wearing [a](/post/a/) [thick](/post/thick/) [wool](/post/wool/) [sweater](/post/sweater/) [on](/post/on/) [a](/post/a/) [cold](/post/cold/) [day](/post/day/)."
-- **名词 (n)**: 羊毛，羊的细毛。例如: "[The](/post/the/) sheep's [wool](/post/wool/) is harvested annually [for](/post/for/) [textile](/post/textile/) [production](/post/production/)."
+- **名词 (n)**: 织物或衣物的一种材料，由羊毛或其他动物毛发制成。例如: "[She](/zh/post/she/) was wearing [a](/zh/post/a/) [thick](/zh/post/thick/) [wool](/zh/post/wool/) [sweater](/zh/post/sweater/) [on](/zh/post/on/) [a](/zh/post/a/) [cold](/zh/post/cold/) [day](/zh/post/day/)."
+- **名词 (n)**: 羊毛，羊的细毛。例如: "[The](/zh/post/the/) sheep's [wool](/zh/post/wool/) is harvested annually [for](/zh/post/for/) [textile](/zh/post/textile/) [production](/zh/post/production/)."
 
 ## 短语
 - "Woolen garments" 指的是羊毛制成的衣服。
-- "[Wool](/post/wool/) spinning" 是指将羊毛纤维纺成纱线的过程。
+- "[Wool](/zh/post/wool/) spinning" 是指将羊毛纤维纺成纱线的过程。
 
 ## 例句
-- 名词: "[The](/post/the/) [scarf](/post/scarf/) is made [of](/post/of/) [pure](/post/pure/) [wool](/post/wool/) [and](/post/and/) provides [excellent](/post/excellent/) insulation."
-- 名词: "[The](/post/the/) [farmer](/post/farmer/) sheared [the](/post/the/) [sheep](/post/sheep/) [to](/post/to/) [get](/post/get/) [the](/post/the/) [wool](/post/wool/) [for](/post/for/) making blankets."
+- 名词: "[The](/zh/post/the/) [scarf](/zh/post/scarf/) is made [of](/zh/post/of/) [pure](/zh/post/pure/) [wool](/zh/post/wool/) [and](/zh/post/and/) provides [excellent](/zh/post/excellent/) insulation."
+- 名词: "[The](/zh/post/the/) [farmer](/zh/post/farmer/) sheared [the](/zh/post/the/) [sheep](/zh/post/sheep/) [to](/zh/post/to/) [get](/zh/post/get/) [the](/zh/post/the/) [wool](/zh/post/wool/) [for](/zh/post/for/) making blankets."
 
 ## 同义词
 - Fleece
-- [Fur](/post/fur/)
-- [Hair](/post/hair/)
+- [Fur](/zh/post/fur/)
+- [Hair](/zh/post/hair/)
 - Mohair
 - Cashmere

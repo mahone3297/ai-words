@@ -11,21 +11,21 @@ keywords = ['ai words', 'jail']
 /jeɪl/
 
 ## 释义
-- **名词 (n)**: 监狱，拘留所。一个关押犯人的地方。例如: "[He](/post/he/) was sent [to](/post/to/) [jail](/post/jail/) [for](/post/for/) theft."
-- **动词 (v)**: 将某人关进监狱。例如: "[The](/post/the/) [police](/post/police/) jailed [the](/post/the/) [suspect](/post/suspect/) [until](/post/until/) [further](/post/further/) [investigation](/post/investigation/)."
+- **名词 (n)**: 监狱，拘留所。一个关押犯人的地方。例如: "[He](/zh/post/he/) was sent [to](/zh/post/to/) [jail](/zh/post/jail/) [for](/zh/post/for/) theft."
+- **动词 (v)**: 将某人关进监狱。例如: "[The](/zh/post/the/) [police](/zh/post/police/) jailed [the](/zh/post/the/) [suspect](/zh/post/suspect/) [until](/zh/post/until/) [further](/zh/post/further/) [investigation](/zh/post/investigation/)."
 
 ## 短语
-- "[break](/post/break/) [out](/post/out/) [of](/post/of/) [jail](/post/jail/)" 从监狱逃跑。
-- "[do](/post/do/) [time](/post/time/) [in](/post/in/) [jail](/post/jail/)" 在监狱服刑。
-- "[be](/post/be/) [behind](/post/behind/) bars" 被关在监狱里。
+- "[break](/zh/post/break/) [out](/zh/post/out/) [of](/zh/post/of/) [jail](/zh/post/jail/)" 从监狱逃跑。
+- "[do](/zh/post/do/) [time](/zh/post/time/) [in](/zh/post/in/) [jail](/zh/post/jail/)" 在监狱服刑。
+- "[be](/zh/post/be/) [behind](/zh/post/behind/) bars" 被关在监狱里。
 
 ## 例句
-- 名词: "[The](/post/the/) escaped [prisoner](/post/prisoner/) was [back](/post/back/) [in](/post/in/) [jail](/post/jail/) [within](/post/within/) hours."
-- 动词: "[The](/post/the/) [judge](/post/judge/) sentenced [him](/post/him/) [to](/post/to/) [six](/post/six/) months [in](/post/in/) [jail](/post/jail/) [for](/post/for/) [drunk](/post/drunk/) driving."
+- 名词: "[The](/zh/post/the/) escaped [prisoner](/zh/post/prisoner/) was [back](/zh/post/back/) [in](/zh/post/in/) [jail](/zh/post/jail/) [within](/zh/post/within/) hours."
+- 动词: "[The](/zh/post/the/) [judge](/zh/post/judge/) sentenced [him](/zh/post/him/) [to](/zh/post/to/) [six](/zh/post/six/) months [in](/zh/post/in/) [jail](/zh/post/jail/) [for](/zh/post/for/) [drunk](/zh/post/drunk/) driving."
 
 ## 同义词
-- [Prison](/post/prison/)
+- [Prison](/zh/post/prison/)
 - Penitentiary
-- Correctional [facility](/post/facility/)
+- Correctional [facility](/zh/post/facility/)
 - Lockup
 - Gaol (主要在英式英语中使用)

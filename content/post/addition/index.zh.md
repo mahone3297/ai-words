@@ -12,24 +12,24 @@ keywords = ['ai words', 'addition']
 
 ## 释义
 - **名词 n**:
-1. 增加；添加：[The](/post/the/) [addition](/post/addition/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [room](/post/room/) made [the](/post/the/) [house](/post/house/) [more](/post/more/) [comfortable](/post/comfortable/).
-2. 加法；加项：[In](/post/in/) [mathematics](/post/mathematics/), [addition](/post/addition/) is [the](/post/the/) [process](/post/process/) [of](/post/of/) combining numbers.
+1. 增加；添加：[The](/zh/post/the/) [addition](/zh/post/addition/) [of](/zh/post/of/) [a](/zh/post/a/) [new](/zh/post/new/) [room](/zh/post/room/) made [the](/zh/post/the/) [house](/zh/post/house/) [more](/zh/post/more/) [comfortable](/zh/post/comfortable/).
+2. 加法；加项：[In](/zh/post/in/) [mathematics](/zh/post/mathematics/), [addition](/zh/post/addition/) is [the](/zh/post/the/) [process](/zh/post/process/) [of](/zh/post/of/) combining numbers.
 
 - **动词 v**:
-1. 增加；添加到：[They](/post/they/) decided [to](/post/to/) [addition](/post/addition/) [some](/post/some/) [furniture](/post/furniture/) [to](/post/to/) [their](/post/their/) [living](/post/living/) [room](/post/room/).
-2. 计算加法：[Can](/post/can/) [you](/post/you/) [addition](/post/addition/) [these](/post/these/) [two](/post/two/) numbers [quickly](/post/quickly/)?
+1. 增加；添加到：[They](/zh/post/they/) decided [to](/zh/post/to/) [addition](/zh/post/addition/) [some](/zh/post/some/) [furniture](/zh/post/furniture/) [to](/zh/post/to/) [their](/zh/post/their/) [living](/zh/post/living/) [room](/zh/post/room/).
+2. 计算加法：[Can](/zh/post/can/) [you](/zh/post/you/) [addition](/zh/post/addition/) [these](/zh/post/these/) [two](/zh/post/two/) numbers [quickly](/zh/post/quickly/)?
 
 ## 短语
-- "[Addition](/post/addition/) [problem](/post/problem/)" 指的是一个需要进行加法运算的数学问题。
-- "[Add](/post/add/) [something](/post/something/) [to](/post/to/) [something](/post/something/) [else](/post/else/)" 意味着将一个事物与另一个事物合并或结合。
+- "[Addition](/zh/post/addition/) [problem](/zh/post/problem/)" 指的是一个需要进行加法运算的数学问题。
+- "[Add](/zh/post/add/) [something](/zh/post/something/) [to](/zh/post/to/) [something](/zh/post/something/) [else](/zh/post/else/)" 意味着将一个事物与另一个事物合并或结合。
 
 ## 例句
-- 名词: "[The](/post/the/) [addition](/post/addition/) [of](/post/of/) [a](/post/a/) swimming [pool](/post/pool/) increased [the](/post/the/) [value](/post/value/) [of](/post/of/) [their](/post/their/) [property](/post/property/)."
-- 动词: "[She](/post/she/) added [some](/post/some/) [salt](/post/salt/) [to](/post/to/) [the](/post/the/) [soup](/post/soup/) [to](/post/to/) enhance [the](/post/the/) flavor."
+- 名词: "[The](/zh/post/the/) [addition](/zh/post/addition/) [of](/zh/post/of/) [a](/zh/post/a/) swimming [pool](/zh/post/pool/) increased [the](/zh/post/the/) [value](/zh/post/value/) [of](/zh/post/of/) [their](/zh/post/their/) [property](/zh/post/property/)."
+- 动词: "[She](/zh/post/she/) added [some](/zh/post/some/) [salt](/zh/post/salt/) [to](/zh/post/to/) [the](/zh/post/the/) [soup](/zh/post/soup/) [to](/zh/post/to/) enhance [the](/zh/post/the/) flavor."
 
 ## 同义词
-- [Increase](/post/increase/)
-- [Addition](/post/addition/)
+- [Increase](/zh/post/increase/)
+- [Addition](/zh/post/addition/)
 - Augmentation
 - Enhancement
-- [Extension](/post/extension/)
+- [Extension](/zh/post/extension/)

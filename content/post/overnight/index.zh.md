@@ -11,20 +11,20 @@ keywords = ['ai words', 'overnight']
 /ˌəˈnɔɪt/
 
 ## 释义
-- **形容词**: 发生在一夜之间；突然的；立即的。例如: "[The](/post/the/) [overnight](/post/overnight/) [success](/post/success/) [of](/post/of/) [the](/post/the/) [band](/post/band/) surprised [everyone](/post/everyone/)."
-- **副词**: 在一夜之间；突然地；立即。例如: "[The](/post/the/) [temperature](/post/temperature/) dropped [overnight](/post/overnight/)."
+- **形容词**: 发生在一夜之间；突然的；立即的。例如: "[The](/zh/post/the/) [overnight](/zh/post/overnight/) [success](/zh/post/success/) [of](/zh/post/of/) [the](/zh/post/the/) [band](/zh/post/band/) surprised [everyone](/zh/post/everyone/)."
+- **副词**: 在一夜之间；突然地；立即。例如: "[The](/zh/post/the/) [temperature](/zh/post/temperature/) dropped [overnight](/zh/post/overnight/)."
 
 ## 短语
-- "[overnight](/post/overnight/) [stay](/post/stay/)" 意为在某个地方过夜。
-- "[overnight](/post/overnight/) [delivery](/post/delivery/)" 指快递或邮件隔夜送达。
+- "[overnight](/zh/post/overnight/) [stay](/zh/post/stay/)" 意为在某个地方过夜。
+- "[overnight](/zh/post/overnight/) [delivery](/zh/post/delivery/)" 指快递或邮件隔夜送达。
 
 ## 例句
-- 形容词: "[Her](/post/her/) popularity became [overnight](/post/overnight/) [after](/post/after/) [her](/post/her/) viral [video](/post/video/)."
-- 副词: "[The](/post/the/) company's [reputation](/post/reputation/) changed [overnight](/post/overnight/) [due](/post/due/) [to](/post/to/) [a](/post/a/) scandal."
+- 形容词: "[Her](/zh/post/her/) popularity became [overnight](/zh/post/overnight/) [after](/zh/post/after/) [her](/zh/post/her/) viral [video](/zh/post/video/)."
+- 副词: "[The](/zh/post/the/) company's [reputation](/zh/post/reputation/) changed [overnight](/zh/post/overnight/) [due](/zh/post/due/) [to](/zh/post/to/) [a](/zh/post/a/) scandal."
 
 ## 同义词
-- [suddenly](/post/suddenly/)
+- [suddenly](/zh/post/suddenly/)
 - abruptly
 - swiftly
-- [rapidly](/post/rapidly/)
+- [rapidly](/zh/post/rapidly/)
 - instantaneously

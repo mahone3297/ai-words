@@ -7,28 +7,28 @@ description = '[stəuv] n.炉，火炉，电炉'
 keywords = ['ai words', 'stove']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stəv/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [kitchen](/en/post/kitchen/) [appliance](/en/post/appliance/) [used](/en/post/used/) [for](/en/post/for/) cooking [food](/en/post/food/) [by](/en/post/by/) [heating](/en/post/heating/) [it](/en/post/it/) [with](/en/post/with/) [gas](/en/post/gas/), [electric](/en/post/electric/) [power](/en/post/power/), [or](/en/post/or/) [wood](/en/post/wood/). **[Example](/en/post/example/)**: "[The](/en/post/the/) [old](/en/post/old/) [stove](/en/post/stove/) [in](/en/post/in/) [the](/en/post/the/) [kitchen](/en/post/kitchen/) had been [there](/en/post/there/) [for](/en/post/for/) decades."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cook](/en/post/cook/) [food](/en/post/food/) using [a](/en/post/a/) [stove](/en/post/stove/). **[Example](/en/post/example/)**: "[She](/en/post/she/) stove-topped [the](/en/post/the/) pasta [with](/en/post/with/) [some](/en/post/some/) olive [oil](/en/post/oil/) [and](/en/post/and/) garlic."
-- **[Noun](/en/post/noun/) (informal)**: [A](/en/post/a/) [person](/en/post/person/), [especially](/en/post/especially/) [a](/en/post/a/) [man](/en/post/man/), [who](/en/post/who/) is considered [attractive](/en/post/attractive/) [or](/en/post/or/) [desirable](/en/post/desirable/). **[Example](/en/post/example/)**: "He's [such](/en/post/such/) [a](/en/post/a/) [fireman](/en/post/fireman/) [stove](/en/post/stove/)!"
+- **[Noun](/post/noun/)**: [A](/post/a/) [kitchen](/post/kitchen/) [appliance](/post/appliance/) [used](/post/used/) [for](/post/for/) cooking [food](/post/food/) [by](/post/by/) [heating](/post/heating/) [it](/post/it/) [with](/post/with/) [gas](/post/gas/), [electric](/post/electric/) [power](/post/power/), [or](/post/or/) [wood](/post/wood/). **[Example](/post/example/)**: "[The](/post/the/) [old](/post/old/) [stove](/post/stove/) [in](/post/in/) [the](/post/the/) [kitchen](/post/kitchen/) had been [there](/post/there/) [for](/post/for/) decades."
+- **[Verb](/post/verb/)**: [To](/post/to/) [cook](/post/cook/) [food](/post/food/) using [a](/post/a/) [stove](/post/stove/). **[Example](/post/example/)**: "[She](/post/she/) stove-topped [the](/post/the/) pasta [with](/post/with/) [some](/post/some/) olive [oil](/post/oil/) [and](/post/and/) garlic."
+- **[Noun](/post/noun/) (informal)**: [A](/post/a/) [person](/post/person/), [especially](/post/especially/) [a](/post/a/) [man](/post/man/), [who](/post/who/) is considered [attractive](/post/attractive/) [or](/post/or/) [desirable](/post/desirable/). **[Example](/post/example/)**: "He's [such](/post/such/) [a](/post/a/) [fireman](/post/fireman/) [stove](/post/stove/)!"
 
 ## Phrases
-- "[Stove](/en/post/stove/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) [cook](/en/post/cook/) [or](/en/post/or/) [prepare](/en/post/prepare/) [food](/en/post/food/).
-- "[Stove](/en/post/stove/) [off](/en/post/off/)" (informal) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [avoid](/en/post/avoid/) [or](/en/post/or/) [reject](/en/post/reject/) [someone](/en/post/someone/) romantically.
-- "[On](/en/post/on/) [the](/en/post/the/) [stove](/en/post/stove/)" (figurative) refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [being](/en/post/being/) actively worked [on](/en/post/on/) [or](/en/post/or/) developed.
+- "[Stove](/post/stove/) [up](/post/up/)" [means](/post/means/) [to](/post/to/) [cook](/post/cook/) [or](/post/or/) [prepare](/post/prepare/) [food](/post/food/).
+- "[Stove](/post/stove/) [off](/post/off/)" (informal) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [avoid](/post/avoid/) [or](/post/or/) [reject](/post/reject/) [someone](/post/someone/) romantically.
+- "[On](/post/on/) [the](/post/the/) [stove](/post/stove/)" (figurative) refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is [being](/post/being/) actively worked [on](/post/on/) [or](/post/or/) developed.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [stove](/en/post/stove/) was covered [in](/en/post/in/) pots [and](/en/post/and/) pans [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [of](/en/post/of/) cooking."
-- **[Verb](/en/post/verb/)**: "I'll [just](/en/post/just/) [stove](/en/post/stove/) [up](/en/post/up/) [some](/en/post/some/) eggs [for](/en/post/for/) [breakfast](/en/post/breakfast/)."
-- **[Noun](/en/post/noun/) (informal)**: "He's been [single](/en/post/single/) [for](/en/post/for/) [a](/en/post/a/) [while](/en/post/while/) [now](/en/post/now/), [but](/en/post/but/) [she](/en/post/she/) thinks [he](/en/post/he/) [might](/en/post/might/) [be](/en/post/be/) [on](/en/post/on/) [the](/en/post/the/) [stove](/en/post/stove/) [for](/en/post/for/) [someone](/en/post/someone/) [else](/en/post/else/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [stove](/post/stove/) was covered [in](/post/in/) pots [and](/post/and/) pans [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [of](/post/of/) cooking."
+- **[Verb](/post/verb/)**: "I'll [just](/post/just/) [stove](/post/stove/) [up](/post/up/) [some](/post/some/) eggs [for](/post/for/) [breakfast](/post/breakfast/)."
+- **[Noun](/post/noun/) (informal)**: "He's been [single](/post/single/) [for](/post/for/) [a](/post/a/) [while](/post/while/) [now](/post/now/), [but](/post/but/) [she](/post/she/) thinks [he](/post/he/) [might](/post/might/) [be](/post/be/) [on](/post/on/) [the](/post/the/) [stove](/post/stove/) [for](/post/for/) [someone](/post/someone/) [else](/post/else/)."
 
 ## Synonyms
-- [Range](/en/post/range/)
-- [Oven](/en/post/oven/)
+- [Range](/post/range/)
+- [Oven](/post/oven/)
 - Cooker
 - Stove-top
-- [Furnace](/en/post/furnace/) ([in](/en/post/in/) [a](/en/post/a/) fireplace [sense](/en/post/sense/), [not](/en/post/not/) [as](/en/post/as/) [a](/en/post/a/) cooking [device](/en/post/device/))
-- [Appliance](/en/post/appliance/) ([more](/en/post/more/) [general](/en/post/general/) [term](/en/post/term/))
+- [Furnace](/post/furnace/) ([in](/post/in/) [a](/post/a/) fireplace [sense](/post/sense/), [not](/post/not/) [as](/post/as/) [a](/post/a/) cooking [device](/post/device/))
+- [Appliance](/post/appliance/) ([more](/post/more/) [general](/post/general/) [term](/post/term/))

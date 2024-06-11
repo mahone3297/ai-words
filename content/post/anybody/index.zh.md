@@ -14,15 +14,15 @@ keywords = ['ai words', 'anybody']
 - **代词**: 任何人，无论谁，随便哪个人。常用于疑问句和否定句中，表示不确定的人。
 
 ## 短语
-- "[Anybody](/post/anybody/) [else](/post/else/)?" 询问是否还有其他人。
-- "Is [there](/post/there/) [anybody](/post/anybody/) [in](/post/in/) [the](/post/the/) [room](/post/room/)?" 询问房间里是否有人。
+- "[Anybody](/zh/post/anybody/) [else](/zh/post/else/)?" 询问是否还有其他人。
+- "Is [there](/zh/post/there/) [anybody](/zh/post/anybody/) [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/)?" 询问房间里是否有人。
 
 ## 例句
-- "[If](/post/if/) [anybody](/post/anybody/) knows [the](/post/the/) [answer](/post/answer/), [please](/post/please/) [raise](/post/raise/) [your](/post/your/) [hand](/post/hand/)."（如果有人知道答案，请举手。）
-- "I don't [care](/post/care/) [what](/post/what/) [anybody](/post/anybody/) thinks [about](/post/about/) [my](/post/my/) [decision](/post/decision/)."（我不在乎任何人对我的决定的看法。）
+- "[If](/zh/post/if/) [anybody](/zh/post/anybody/) knows [the](/zh/post/the/) [answer](/zh/post/answer/), [please](/zh/post/please/) [raise](/zh/post/raise/) [your](/zh/post/your/) [hand](/zh/post/hand/)."（如果有人知道答案，请举手。）
+- "I don't [care](/zh/post/care/) [what](/zh/post/what/) [anybody](/zh/post/anybody/) thinks [about](/zh/post/about/) [my](/zh/post/my/) [decision](/zh/post/decision/)."（我不在乎任何人对我的决定的看法。）
 
 ## 同义词
-- [Anyone](/post/anyone/)
-- [Whoever](/post/whoever/)
-- [Any](/post/any/) [person](/post/person/)
-- [No](/post/no/) [matter](/post/matter/) [who](/post/who/)
+- [Anyone](/zh/post/anyone/)
+- [Whoever](/zh/post/whoever/)
+- [Any](/zh/post/any/) [person](/zh/post/person/)
+- [No](/zh/post/no/) [matter](/zh/post/matter/) [who](/zh/post/who/)

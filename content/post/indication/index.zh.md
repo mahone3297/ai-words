@@ -12,25 +12,25 @@ keywords = ['ai words', 'indication']
 
 ## 释义
 - **名词 n**:
-1. 显示，表明。例如: "[The](/post/the/) rising [temperature](/post/temperature/) is an [indication](/post/indication/) [of](/post/of/) spring's [arrival](/post/arrival/)."
-2. 指示，象征。例如: "[The](/post/the/) [red](/post/red/) [light](/post/light/) is an [indication](/post/indication/) [that](/post/that/) [you](/post/you/) [should](/post/should/) [stop](/post/stop/)."
-3. 医学上的迹象或征兆。例如: "[The](/post/the/) [doctor](/post/doctor/) [will](/post/will/) [look](/post/look/) [for](/post/for/) [specific](/post/specific/) indications [of](/post/of/) [the](/post/the/) [disease](/post/disease/)."
+1. 显示，表明。例如: "[The](/zh/post/the/) rising [temperature](/zh/post/temperature/) is an [indication](/zh/post/indication/) [of](/zh/post/of/) spring's [arrival](/zh/post/arrival/)."
+2. 指示，象征。例如: "[The](/zh/post/the/) [red](/zh/post/red/) [light](/zh/post/light/) is an [indication](/zh/post/indication/) [that](/zh/post/that/) [you](/zh/post/you/) [should](/zh/post/should/) [stop](/zh/post/stop/)."
+3. 医学上的迹象或征兆。例如: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) [will](/zh/post/will/) [look](/zh/post/look/) [for](/zh/post/for/) [specific](/zh/post/specific/) indications [of](/zh/post/of/) [the](/zh/post/the/) [disease](/zh/post/disease/)."
 
 - **动词 v**:
-1. 显示，指出。例如: "[The](/post/the/) [test](/post/test/) results [indicate](/post/indicate/) [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) [stress](/post/stress/)."
-2. 告知，提出。例如: "[The](/post/the/) [teacher](/post/teacher/) indicated [her](/post/her/) [approval](/post/approval/) [with](/post/with/) [a](/post/a/) [nod](/post/nod/)."
+1. 显示，指出。例如: "[The](/zh/post/the/) [test](/zh/post/test/) results [indicate](/zh/post/indicate/) [a](/zh/post/a/) [high](/zh/post/high/) [level](/zh/post/level/) [of](/zh/post/of/) [stress](/zh/post/stress/)."
+2. 告知，提出。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) indicated [her](/zh/post/her/) [approval](/zh/post/approval/) [with](/zh/post/with/) [a](/zh/post/a/) [nod](/zh/post/nod/)."
 
 ## 短语
-- "[Give](/post/give/) an [indication](/post/indication/) [of](/post/of/)" 意思是给出...的迹象。例如: "[Can](/post/can/) [you](/post/you/) [give](/post/give/) [any](/post/any/) [indication](/post/indication/) [of](/post/of/) [when](/post/when/) [the](/post/the/) [project](/post/project/) [will](/post/will/) [be](/post/be/) completed?"
-- "[Indicate](/post/indicate/) [to](/post/to/)" 指出对某人来说。例如: "[The](/post/the/) [map](/post/map/) indicates [the](/post/the/) nearest [exit](/post/exit/) [to](/post/to/) [you](/post/you/)."
+- "[Give](/zh/post/give/) an [indication](/zh/post/indication/) [of](/zh/post/of/)" 意思是给出...的迹象。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [give](/zh/post/give/) [any](/zh/post/any/) [indication](/zh/post/indication/) [of](/zh/post/of/) [when](/zh/post/when/) [the](/zh/post/the/) [project](/zh/post/project/) [will](/zh/post/will/) [be](/zh/post/be/) completed?"
+- "[Indicate](/zh/post/indicate/) [to](/zh/post/to/)" 指出对某人来说。例如: "[The](/zh/post/the/) [map](/zh/post/map/) indicates [the](/zh/post/the/) nearest [exit](/zh/post/exit/) [to](/zh/post/to/) [you](/zh/post/you/)."
 
 ## 例句
-- 名词: "[The](/post/the/) patient's [rapid](/post/rapid/) heartbeat was [a](/post/a/) [clear](/post/clear/) [indication](/post/indication/) [of](/post/of/) [anxiety](/post/anxiety/)."
-- 动词: "[The](/post/the/) [study](/post/study/) indicates [that](/post/that/) [exercise](/post/exercise/) [can](/post/can/) [improve](/post/improve/) [mental](/post/mental/) [health](/post/health/)."
+- 名词: "[The](/zh/post/the/) patient's [rapid](/zh/post/rapid/) heartbeat was [a](/zh/post/a/) [clear](/zh/post/clear/) [indication](/zh/post/indication/) [of](/zh/post/of/) [anxiety](/zh/post/anxiety/)."
+- 动词: "[The](/zh/post/the/) [study](/zh/post/study/) indicates [that](/zh/post/that/) [exercise](/zh/post/exercise/) [can](/zh/post/can/) [improve](/zh/post/improve/) [mental](/zh/post/mental/) [health](/zh/post/health/)."
 
 ## 同义词
-- [Sign](/post/sign/)
-- [Signal](/post/signal/)
-- [Hint](/post/hint/)
-- [Clue](/post/clue/)
+- [Sign](/zh/post/sign/)
+- [Signal](/zh/post/signal/)
+- [Hint](/zh/post/hint/)
+- [Clue](/zh/post/clue/)
 - Manifestation

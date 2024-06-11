@@ -7,32 +7,32 @@ description = '[inˈhæbit] vt.居住于，栖息于'
 keywords = ['ai words', 'inhabit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈhæbɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [live](/en/post/live/) [or](/en/post/or/) dwell [permanently](/en/post/permanently/) [or](/en/post/or/) continuously [in](/en/post/in/) [a](/en/post/a/) [place](/en/post/place/); [to](/en/post/to/) reside. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [have](/en/post/have/) inhabited [this](/en/post/this/) [village](/en/post/village/) [for](/en/post/for/) generations."
-  - *Transitive [Verb](/en/post/verb/)*: [To](/en/post/to/) populate [or](/en/post/or/) [occupy](/en/post/occupy/) ([a](/en/post/a/) [place](/en/post/place/)) [with](/en/post/with/) inhabitants. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [land](/en/post/land/) was inhabited [by](/en/post/by/) [various](/en/post/various/) tribes."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) inhabiting [or](/en/post/or/) [dwelling](/en/post/dwelling/) [in](/en/post/in/) [a](/en/post/a/) [place](/en/post/place/); [residence](/en/post/residence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [duration](/en/post/duration/) [of](/en/post/of/) [their](/en/post/their/) [inhabit](/en/post/inhabit/) [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/) was [brief](/en/post/brief/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [live](/post/live/) [or](/post/or/) dwell [permanently](/post/permanently/) [or](/post/or/) continuously [in](/post/in/) [a](/post/a/) [place](/post/place/); [to](/post/to/) reside. [For](/post/for/) [example](/post/example/): "[They](/post/they/) [have](/post/have/) inhabited [this](/post/this/) [village](/post/village/) [for](/post/for/) generations."
+  - *Transitive [Verb](/post/verb/)*: [To](/post/to/) populate [or](/post/or/) [occupy](/post/occupy/) ([a](/post/a/) [place](/post/place/)) [with](/post/with/) inhabitants. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [land](/post/land/) was inhabited [by](/post/by/) [various](/post/various/) tribes."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) inhabiting [or](/post/or/) [dwelling](/post/dwelling/) [in](/post/in/) [a](/post/a/) [place](/post/place/); [residence](/post/residence/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [duration](/post/duration/) [of](/post/of/) [their](/post/their/) [inhabit](/post/inhabit/) [in](/post/in/) [the](/post/the/) [city](/post/city/) was [brief](/post/brief/)."
 
 ## Phrases
-- "[Inhabit](/en/post/inhabit/) [a](/en/post/a/) [house](/en/post/house/)" [means](/en/post/means/) [to](/en/post/to/) [live](/en/post/live/) [in](/en/post/in/) [or](/en/post/or/) [make](/en/post/make/) [a](/en/post/a/) [home](/en/post/home/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [building](/en/post/building/).
-- "Inhabitants [of](/en/post/of/) [a](/en/post/a/) [city](/en/post/city/)" refers [to](/en/post/to/) [the](/en/post/the/) [people](/en/post/people/) [who](/en/post/who/) [live](/en/post/live/) [in](/en/post/in/) [that](/en/post/that/) [city](/en/post/city/) [permanently](/en/post/permanently/) [or](/en/post/or/) [on](/en/post/on/) [a](/en/post/a/) long-term [basis](/en/post/basis/).
-- "[To](/en/post/to/) [inhabit](/en/post/inhabit/) [different](/en/post/different/) worlds" [can](/en/post/can/) metaphorically [mean](/en/post/mean/) [to](/en/post/to/) [have](/en/post/have/) [very](/en/post/very/) [different](/en/post/different/) lifestyles [or](/en/post/or/) perspectives.
+- "[Inhabit](/post/inhabit/) [a](/post/a/) [house](/post/house/)" [means](/post/means/) [to](/post/to/) [live](/post/live/) [in](/post/in/) [or](/post/or/) [make](/post/make/) [a](/post/a/) [home](/post/home/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [building](/post/building/).
+- "Inhabitants [of](/post/of/) [a](/post/a/) [city](/post/city/)" refers [to](/post/to/) [the](/post/the/) [people](/post/people/) [who](/post/who/) [live](/post/live/) [in](/post/in/) [that](/post/that/) [city](/post/city/) [permanently](/post/permanently/) [or](/post/or/) [on](/post/on/) [a](/post/a/) long-term [basis](/post/basis/).
+- "[To](/post/to/) [inhabit](/post/inhabit/) [different](/post/different/) worlds" [can](/post/can/) metaphorically [mean](/post/mean/) [to](/post/to/) [have](/post/have/) [very](/post/very/) [different](/post/different/) lifestyles [or](/post/or/) perspectives.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [inhabit](/en/post/inhabit/) [the](/en/post/the/) [countryside](/en/post/countryside/) [after](/en/post/after/) retiring [from](/en/post/from/) [her](/en/post/her/) [busy](/en/post/busy/) [city](/en/post/city/) [life](/en/post/life/)."
-  - "[The](/en/post/the/) [forest](/en/post/forest/) was inhabited [by](/en/post/by/) [a](/en/post/a/) [wide](/en/post/wide/) [variety](/en/post/variety/) [of](/en/post/of/) wildlife."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) mansion had been abandoned [for](/en/post/for/) years [until](/en/post/until/) [new](/en/post/new/) inhabitants moved [in](/en/post/in/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [inhabit](/post/inhabit/) [the](/post/the/) [countryside](/post/countryside/) [after](/post/after/) retiring [from](/post/from/) [her](/post/her/) [busy](/post/busy/) [city](/post/city/) [life](/post/life/)."
+  - "[The](/post/the/) [forest](/post/forest/) was inhabited [by](/post/by/) [a](/post/a/) [wide](/post/wide/) [variety](/post/variety/) [of](/post/of/) wildlife."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) mansion had been abandoned [for](/post/for/) years [until](/post/until/) [new](/post/new/) inhabitants moved [in](/post/in/)."
   
 ## Synonyms
-- [Live](/en/post/live/)
+- [Live](/post/live/)
 - Dwell
 - Reside
-- [Occupy](/en/post/occupy/)
-- [Stay](/en/post/stay/)
-- [Settle](/en/post/settle/)
+- [Occupy](/post/occupy/)
+- [Stay](/post/stay/)
+- [Settle](/post/settle/)
 - Populate
 - Abide
-- [Lodge](/en/post/lodge/)
-- [Take](/en/post/take/) [up](/en/post/up/) [residence](/en/post/residence/)
+- [Lodge](/post/lodge/)
+- [Take](/post/take/) [up](/post/up/) [residence](/post/residence/)

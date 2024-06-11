@@ -12,24 +12,24 @@ keywords = ['ai words', 'ice']
 
 ## 释义
 - **名词**:
-  - 冰，固态的水。例如: "[There](/post/there/) was [ice](/post/ice/) [on](/post/on/) [the](/post/the/) [pond](/post/pond/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
-  - 制冷剂，用于冷却饮料或食物。例如: "[She](/post/she/) added [ice](/post/ice/) [to](/post/to/) [her](/post/her/) [drink](/post/drink/) [to](/post/to/) [keep](/post/keep/) [it](/post/it/) [cold](/post/cold/)."
-  - 毒品术语，指冰毒（甲基苯丙胺）。例如: "[The](/post/the/) [police](/post/police/) [found](/post/found/) [a](/post/a/) [large](/post/large/) [quantity](/post/quantity/) [of](/post/of/) [ice](/post/ice/) [during](/post/during/) [the](/post/the/) [raid](/post/raid/)."
+  - 冰，固态的水。例如: "[There](/zh/post/there/) was [ice](/zh/post/ice/) [on](/zh/post/on/) [the](/zh/post/the/) [pond](/zh/post/pond/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+  - 制冷剂，用于冷却饮料或食物。例如: "[She](/zh/post/she/) added [ice](/zh/post/ice/) [to](/zh/post/to/) [her](/zh/post/her/) [drink](/zh/post/drink/) [to](/zh/post/to/) [keep](/zh/post/keep/) [it](/zh/post/it/) [cold](/zh/post/cold/)."
+  - 毒品术语，指冰毒（甲基苯丙胺）。例如: "[The](/zh/post/the/) [police](/zh/post/police/) [found](/zh/post/found/) [a](/zh/post/a/) [large](/zh/post/large/) [quantity](/zh/post/quantity/) [of](/zh/post/of/) [ice](/zh/post/ice/) [during](/zh/post/during/) [the](/zh/post/the/) [raid](/zh/post/raid/)."
 
 - **动词**:
-  - 使结冰，冻结。例如: "[The](/post/the/) [cold](/post/cold/) [weather](/post/weather/) iced [over](/post/over/) [the](/post/the/) [lake](/post/lake/)."
-  - 在饮料中加入冰块。例如: "[Can](/post/can/) [you](/post/you/) [ice](/post/ice/) [my](/post/my/) [drink](/post/drink/), [please](/post/please/)?"
+  - 使结冰，冻结。例如: "[The](/zh/post/the/) [cold](/zh/post/cold/) [weather](/zh/post/weather/) iced [over](/zh/post/over/) [the](/zh/post/the/) [lake](/zh/post/lake/)."
+  - 在饮料中加入冰块。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [ice](/zh/post/ice/) [my](/zh/post/my/) [drink](/zh/post/drink/), [please](/zh/post/please/)?"
 
 ## 短语
-- "[on](/post/on/) [thin](/post/thin/) [ice](/post/ice/)" 表示处于危险或不稳定的情况。例如: "You're [on](/post/on/) [thin](/post/thin/) [ice](/post/ice/) [with](/post/with/) [your](/post/your/) [boss](/post/boss/) [after](/post/after/) [that](/post/that/) [mistake](/post/mistake/)."
-- "[ice](/post/ice/) [cream](/post/cream/)" 冰淇淋。例如: "Let's [get](/post/get/) [some](/post/some/) [ice](/post/ice/) [cream](/post/cream/) [for](/post/for/) dessert."
+- "[on](/zh/post/on/) [thin](/zh/post/thin/) [ice](/zh/post/ice/)" 表示处于危险或不稳定的情况。例如: "You're [on](/zh/post/on/) [thin](/zh/post/thin/) [ice](/zh/post/ice/) [with](/zh/post/with/) [your](/zh/post/your/) [boss](/zh/post/boss/) [after](/zh/post/after/) [that](/zh/post/that/) [mistake](/zh/post/mistake/)."
+- "[ice](/zh/post/ice/) [cream](/zh/post/cream/)" 冰淇淋。例如: "Let's [get](/zh/post/get/) [some](/zh/post/some/) [ice](/zh/post/ice/) [cream](/zh/post/cream/) [for](/zh/post/for/) dessert."
 
 ## 例句
-- 名词: "[The](/post/the/) [ice](/post/ice/) [cube](/post/cube/) melted [slowly](/post/slowly/) [in](/post/in/) [my](/post/my/) [glass](/post/glass/)."
-- 动词: "[The](/post/the/) roads were icy, [so](/post/so/) [we](/post/we/) had [to](/post/to/) [drive](/post/drive/) [slowly](/post/slowly/)."
+- 名词: "[The](/zh/post/the/) [ice](/zh/post/ice/) [cube](/zh/post/cube/) melted [slowly](/zh/post/slowly/) [in](/zh/post/in/) [my](/zh/post/my/) [glass](/zh/post/glass/)."
+- 动词: "[The](/zh/post/the/) roads were icy, [so](/zh/post/so/) [we](/zh/post/we/) had [to](/zh/post/to/) [drive](/zh/post/drive/) [slowly](/zh/post/slowly/)."
 
 ## 同义词
-- frozen [water](/post/water/)
-- [frost](/post/frost/)
-- glaciers ([for](/post/for/) [large](/post/large/) masses [of](/post/of/) [ice](/post/ice/))
-- chilly ([for](/post/for/) describing [cold](/post/cold/) conditions)
+- frozen [water](/zh/post/water/)
+- [frost](/zh/post/frost/)
+- glaciers ([for](/zh/post/for/) [large](/zh/post/large/) masses [of](/zh/post/of/) [ice](/zh/post/ice/))
+- chilly ([for](/zh/post/for/) describing [cold](/zh/post/cold/) conditions)

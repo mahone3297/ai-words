@@ -7,23 +7,23 @@ description = '[ˈlɔdʒik] n.逻辑，推理；逻辑性'
 keywords = ['ai words', 'logic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɑːdʒɪk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) systematic [study](/en/post/study/) [of](/en/post/of/) [the](/en/post/the/) principles [of](/en/post/of/) [valid](/en/post/valid/) reasoning [and](/en/post/and/) inference, [especially](/en/post/especially/) [the](/en/post/the/) [branch](/en/post/branch/) [of](/en/post/of/) [philosophy](/en/post/philosophy/) [that](/en/post/that/) deals [with](/en/post/with/) [the](/en/post/the/) [formal](/en/post/formal/) rules [of](/en/post/of/) inference [and](/en/post/and/) [the](/en/post/the/) relations [between](/en/post/between/) premises [and](/en/post/and/) conclusions [in](/en/post/in/) deductive arguments. [Example](/en/post/example/): "[He](/en/post/he/) has [a](/en/post/a/) [degree](/en/post/degree/) [in](/en/post/in/) [mathematical](/en/post/mathematical/) [logic](/en/post/logic/)."
-- **[Noun](/en/post/noun/)**: (n) Reasoning conducted [or](/en/post/or/) assessed according [to](/en/post/to/) [strict](/en/post/strict/) principles [of](/en/post/of/) validity. [Example](/en/post/example/): "[The](/en/post/the/) [logic](/en/post/logic/) [of](/en/post/of/) [her](/en/post/her/) [argument](/en/post/argument/) was impeccable."
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [particular](/en/post/particular/) [way](/en/post/way/) [of](/en/post/of/) thinking [or](/en/post/or/) reasoning [about](/en/post/about/) [something](/en/post/something/); [a](/en/post/a/) [method](/en/post/method/) [or](/en/post/or/) [system](/en/post/system/) [of](/en/post/of/) [thought](/en/post/thought/). [Example](/en/post/example/): "[The](/en/post/the/) [logic](/en/post/logic/) [behind](/en/post/behind/) [his](/en/post/his/) [decision](/en/post/decision/) [to](/en/post/to/) [quit](/en/post/quit/) made [sense](/en/post/sense/)."
-- **[Adjective](/en/post/adjective/)**: (adj) Relating [to](/en/post/to/) [or](/en/post/or/) using [logical](/en/post/logical/) methods [or](/en/post/or/) principles. [Example](/en/post/example/): "[A](/en/post/a/) [logical](/en/post/logical/) [conclusion](/en/post/conclusion/) based [on](/en/post/on/) [the](/en/post/the/) [available](/en/post/available/) [data](/en/post/data/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) systematic [study](/post/study/) [of](/post/of/) [the](/post/the/) principles [of](/post/of/) [valid](/post/valid/) reasoning [and](/post/and/) inference, [especially](/post/especially/) [the](/post/the/) [branch](/post/branch/) [of](/post/of/) [philosophy](/post/philosophy/) [that](/post/that/) deals [with](/post/with/) [the](/post/the/) [formal](/post/formal/) rules [of](/post/of/) inference [and](/post/and/) [the](/post/the/) relations [between](/post/between/) premises [and](/post/and/) conclusions [in](/post/in/) deductive arguments. [Example](/post/example/): "[He](/post/he/) has [a](/post/a/) [degree](/post/degree/) [in](/post/in/) [mathematical](/post/mathematical/) [logic](/post/logic/)."
+- **[Noun](/post/noun/)**: (n) Reasoning conducted [or](/post/or/) assessed according [to](/post/to/) [strict](/post/strict/) principles [of](/post/of/) validity. [Example](/post/example/): "[The](/post/the/) [logic](/post/logic/) [of](/post/of/) [her](/post/her/) [argument](/post/argument/) was impeccable."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [particular](/post/particular/) [way](/post/way/) [of](/post/of/) thinking [or](/post/or/) reasoning [about](/post/about/) [something](/post/something/); [a](/post/a/) [method](/post/method/) [or](/post/or/) [system](/post/system/) [of](/post/of/) [thought](/post/thought/). [Example](/post/example/): "[The](/post/the/) [logic](/post/logic/) [behind](/post/behind/) [his](/post/his/) [decision](/post/decision/) [to](/post/to/) [quit](/post/quit/) made [sense](/post/sense/)."
+- **[Adjective](/post/adjective/)**: (adj) Relating [to](/post/to/) [or](/post/or/) using [logical](/post/logical/) methods [or](/post/or/) principles. [Example](/post/example/): "[A](/post/a/) [logical](/post/logical/) [conclusion](/post/conclusion/) based [on](/post/on/) [the](/post/the/) [available](/post/available/) [data](/post/data/)."
 
 ## Phrases
-- "[Logical](/en/post/logical/) fallacy": An [error](/en/post/error/) [in](/en/post/in/) reasoning [that](/en/post/that/) renders an [argument](/en/post/argument/) invalid.
-- "[Logic](/en/post/logic/) gates": [Basic](/en/post/basic/) [building](/en/post/building/) blocks [of](/en/post/of/) [digital](/en/post/digital/) circuits, [which](/en/post/which/) [process](/en/post/process/) [information](/en/post/information/) based [on](/en/post/on/) Boolean [logic](/en/post/logic/).
-- "[In](/en/post/in/) [the](/en/post/the/) [logic](/en/post/logic/) [of](/en/post/of/) [the](/en/post/the/) [situation](/en/post/situation/)": Referring [to](/en/post/to/) [the](/en/post/the/) reasoning [or](/en/post/or/) rationale [that](/en/post/that/) applies given [the](/en/post/the/) circumstances.
+- "[Logical](/post/logical/) fallacy": An [error](/post/error/) [in](/post/in/) reasoning [that](/post/that/) renders an [argument](/post/argument/) invalid.
+- "[Logic](/post/logic/) gates": [Basic](/post/basic/) [building](/post/building/) blocks [of](/post/of/) [digital](/post/digital/) circuits, [which](/post/which/) [process](/post/process/) [information](/post/information/) based [on](/post/on/) Boolean [logic](/post/logic/).
+- "[In](/post/in/) [the](/post/the/) [logic](/post/logic/) [of](/post/of/) [the](/post/the/) [situation](/post/situation/)": Referring [to](/post/to/) [the](/post/the/) reasoning [or](/post/or/) rationale [that](/post/that/) applies given [the](/post/the/) circumstances.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [book](/en/post/book/) introduces [the](/en/post/the/) [reader](/en/post/reader/) [to](/en/post/to/) Aristotelian [logic](/en/post/logic/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [approach](/en/post/approach/) [to](/en/post/to/) solving problems is [both](/en/post/both/) analytical [and](/en/post/and/) [logical](/en/post/logical/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [book](/post/book/) introduces [the](/post/the/) [reader](/post/reader/) [to](/post/to/) Aristotelian [logic](/post/logic/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [approach](/post/approach/) [to](/post/to/) solving problems is [both](/post/both/) analytical [and](/post/and/) [logical](/post/logical/)."
 
 ## Synonyms
 - Rationality
@@ -32,7 +32,7 @@ keywords = ['ai words', 'logic']
 - Cognition
 - Deduction
 - Systematic thinking
-- [Logical](/en/post/logical/) thinking
+- [Logical](/post/logical/) thinking
 - Methodology
 
-[Note](/en/post/note/): [Logic](/en/post/logic/) does [not](/en/post/not/) [have](/en/post/have/) [typical](/en/post/typical/) [verb](/en/post/verb/) [or](/en/post/or/) adverbial usages [as](/en/post/as/) [it](/en/post/it/) is [primarily](/en/post/primarily/) [a](/en/post/a/) [noun](/en/post/noun/) [and](/en/post/and/) [adjective](/en/post/adjective/) [within](/en/post/within/) [its](/en/post/its/) context.
+[Note](/post/note/): [Logic](/post/logic/) does [not](/post/not/) [have](/post/have/) [typical](/post/typical/) [verb](/post/verb/) [or](/post/or/) adverbial usages [as](/post/as/) [it](/post/it/) is [primarily](/post/primarily/) [a](/post/a/) [noun](/post/noun/) [and](/post/and/) [adjective](/post/adjective/) [within](/post/within/) [its](/post/its/) context.

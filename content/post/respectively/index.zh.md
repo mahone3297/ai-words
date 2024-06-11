@@ -11,20 +11,20 @@ keywords = ['ai words', 'respectively']
 /rɪˈspektɪvli/
 
 ## 释义
-- **副词**: 分别地，各自地，各自就各自的。例如: "[They](/post/they/) [live](/post/live/) [in](/post/in/) [different](/post/different/) cities, [respectively](/post/respectively/) [New](/post/new/) York [and](/post/and/) Los Angeles."
-- **介词**: 用于强调每个项目与前面提及的对应关系。例如: "[The](/post/the/) students' ages were 18, 20, [and](/post/and/) 22, [respectively](/post/respectively/)."
+- **副词**: 分别地，各自地，各自就各自的。例如: "[They](/zh/post/they/) [live](/zh/post/live/) [in](/zh/post/in/) [different](/zh/post/different/) cities, [respectively](/zh/post/respectively/) [New](/zh/post/new/) York [and](/zh/post/and/) Los Angeles."
+- **介词**: 用于强调每个项目与前面提及的对应关系。例如: "[The](/zh/post/the/) students' ages were 18, 20, [and](/zh/post/and/) 22, [respectively](/zh/post/respectively/)."
 
 ## 短语
-- "[In](/post/in/) [their](/post/their/) [respective](/post/respective/) fields" 意为在他们各自的领域。
-- "[Respectively](/post/respectively/) speaking" 强调按顺序或分类讨论各个项目。
+- "[In](/zh/post/in/) [their](/zh/post/their/) [respective](/zh/post/respective/) fields" 意为在他们各自的领域。
+- "[Respectively](/zh/post/respectively/) speaking" 强调按顺序或分类讨论各个项目。
 
 ## 例句
-- 副词: "John is [a](/post/a/) [doctor](/post/doctor/), [and](/post/and/) [his](/post/his/) [wife](/post/wife/) is [a](/post/a/) [lawyer](/post/lawyer/), [respectively](/post/respectively/)."
-- 介词: "[The](/post/the/) [three](/post/three/) colors [of](/post/of/) [the](/post/the/) French [flag](/post/flag/) are [blue](/post/blue/), [white](/post/white/), [and](/post/and/) [red](/post/red/), [respectively](/post/respectively/)."
+- 副词: "John is [a](/zh/post/a/) [doctor](/zh/post/doctor/), [and](/zh/post/and/) [his](/zh/post/his/) [wife](/zh/post/wife/) is [a](/zh/post/a/) [lawyer](/zh/post/lawyer/), [respectively](/zh/post/respectively/)."
+- 介词: "[The](/zh/post/the/) [three](/zh/post/three/) colors [of](/zh/post/of/) [the](/zh/post/the/) French [flag](/zh/post/flag/) are [blue](/zh/post/blue/), [white](/zh/post/white/), [and](/zh/post/and/) [red](/zh/post/red/), [respectively](/zh/post/respectively/)."
 
 ## 同义词
 - Individually
-- [Separately](/post/separately/)
-- [Each](/post/each/) [in](/post/in/) [turn](/post/turn/)
-- [Concerning](/post/concerning/) [each](/post/each/) [one](/post/one/)
-- [As](/post/as/) concerns
+- [Separately](/zh/post/separately/)
+- [Each](/zh/post/each/) [in](/zh/post/in/) [turn](/zh/post/turn/)
+- [Concerning](/zh/post/concerning/) [each](/zh/post/each/) [one](/zh/post/one/)
+- [As](/zh/post/as/) concerns

@@ -11,20 +11,20 @@ keywords = ['ai words', 'essay']
 /ˈɛseɪ/
 
 ## 释义
-- **名词**: 一篇短文，通常在学术或教育环境中，用来阐述观点、论述或分析主题。例如: "[She](/post/she/) wrote an [essay](/post/essay/) [on](/post/on/) [the](/post/the/) [impact](/post/impact/) [of](/post/of/) [technology](/post/technology/) [on](/post/on/) [society](/post/society/)."
-- **名词**: 试图，尝试。例如: "[His](/post/his/) [attempt](/post/attempt/) [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [problem](/post/problem/) was an [essay](/post/essay/) [in](/post/in/) futility."
+- **名词**: 一篇短文，通常在学术或教育环境中，用来阐述观点、论述或分析主题。例如: "[She](/zh/post/she/) wrote an [essay](/zh/post/essay/) [on](/zh/post/on/) [the](/zh/post/the/) [impact](/zh/post/impact/) [of](/zh/post/of/) [technology](/zh/post/technology/) [on](/zh/post/on/) [society](/zh/post/society/)."
+- **名词**: 试图，尝试。例如: "[His](/zh/post/his/) [attempt](/zh/post/attempt/) [to](/zh/post/to/) [solve](/zh/post/solve/) [the](/zh/post/the/) [problem](/zh/post/problem/) was an [essay](/zh/post/essay/) [in](/zh/post/in/) futility."
 
 ## 短语
-- "Essays [on](/post/on/) [literature](/post/literature/)" 指的是关于文学主题的一系列文章。
-- "[Personal](/post/personal/) [essay](/post/essay/)" 是一种以个人经历和观点为中心的写作形式。
+- "Essays [on](/zh/post/on/) [literature](/zh/post/literature/)" 指的是关于文学主题的一系列文章。
+- "[Personal](/zh/post/personal/) [essay](/zh/post/essay/)" 是一种以个人经历和观点为中心的写作形式。
 
 ## 例句
-- "[The](/post/the/) students were asked [to](/post/to/) [write](/post/write/) [a](/post/a/) 500-word [essay](/post/essay/) [on](/post/on/) [their](/post/their/) favorite [book](/post/book/)."
-- "[He](/post/he/) submitted [his](/post/his/) [essay](/post/essay/) [on](/post/on/) [the](/post/the/) [history](/post/history/) [of](/post/of/) [art](/post/art/) [just](/post/just/) [before](/post/before/) [the](/post/the/) deadline."
+- "[The](/zh/post/the/) students were asked [to](/zh/post/to/) [write](/zh/post/write/) [a](/zh/post/a/) 500-word [essay](/zh/post/essay/) [on](/zh/post/on/) [their](/zh/post/their/) favorite [book](/zh/post/book/)."
+- "[He](/zh/post/he/) submitted [his](/zh/post/his/) [essay](/zh/post/essay/) [on](/zh/post/on/) [the](/zh/post/the/) [history](/zh/post/history/) [of](/zh/post/of/) [art](/zh/post/art/) [just](/zh/post/just/) [before](/zh/post/before/) [the](/zh/post/the/) deadline."
 
 ## 同义词
-- [Composition](/post/composition/)
-- [Article](/post/article/)
-- [Paper](/post/paper/)
+- [Composition](/zh/post/composition/)
+- [Article](/zh/post/article/)
+- [Paper](/zh/post/paper/)
 - Treatise
-- [Composition](/post/composition/)
+- [Composition](/zh/post/composition/)

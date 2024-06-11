@@ -7,47 +7,47 @@ description = '[daun] ad.向下，在下面'
 keywords = ['ai words', 'down']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dəʊn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Adjective](/en/post/adjective/)**: Located [below](/en/post/below/) [something](/en/post/something/) [else](/en/post/else/); situated [in](/en/post/in/) [a](/en/post/a/) [lower](/en/post/lower/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [chair](/en/post/chair/) is placed [down](/en/post/down/) [the](/en/post/the/) [hall](/en/post/hall/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [lower](/en/post/lower/) [oneself](/en/post/oneself/) [or](/en/post/or/) [something](/en/post/something/) [down](/en/post/down/); [to](/en/post/to/) [bring](/en/post/bring/) [something](/en/post/something/) [to](/en/post/to/) [a](/en/post/a/) [lower](/en/post/lower/) [level](/en/post/level/) [or](/en/post/or/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) carefully [set](/en/post/set/) [the](/en/post/the/) [vase](/en/post/vase/) [down](/en/post/down/) [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Preposition](/en/post/preposition/)**: Expressing [direction](/en/post/direction/) [or](/en/post/or/) placement [in](/en/post/in/) [relation](/en/post/relation/) [to](/en/post/to/) [the](/en/post/the/) [ground](/en/post/ground/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [ladder](/en/post/ladder/) was leaning [down](/en/post/down/) [against](/en/post/against/) [the](/en/post/the/) [wall](/en/post/wall/)."
+### [Noun](/post/noun/)
+- **[Adjective](/post/adjective/)**: Located [below](/post/below/) [something](/post/something/) [else](/post/else/); situated [in](/post/in/) [a](/post/a/) [lower](/post/lower/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [chair](/post/chair/) is placed [down](/post/down/) [the](/post/the/) [hall](/post/hall/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [lower](/post/lower/) [oneself](/post/oneself/) [or](/post/or/) [something](/post/something/) [down](/post/down/); [to](/post/to/) [bring](/post/bring/) [something](/post/something/) [to](/post/to/) [a](/post/a/) [lower](/post/lower/) [level](/post/level/) [or](/post/or/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) carefully [set](/post/set/) [the](/post/the/) [vase](/post/vase/) [down](/post/down/) [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+- **[Preposition](/post/preposition/)**: Expressing [direction](/post/direction/) [or](/post/or/) placement [in](/post/in/) [relation](/post/relation/) [to](/post/to/) [the](/post/the/) [ground](/post/ground/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [ladder](/post/ladder/) was leaning [down](/post/down/) [against](/post/against/) [the](/post/the/) [wall](/post/wall/)."
 
-### [Adverb](/en/post/adverb/)
-- [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [movement](/en/post/movement/) [or](/en/post/or/) [direction](/en/post/direction/) [downward](/en/post/downward/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [plane](/en/post/plane/) descended [down](/en/post/down/) [to](/en/post/to/) [land](/en/post/land/)."
-- Expressing [a](/en/post/a/) [degree](/en/post/degree/) [of](/en/post/of/) [intensity](/en/post/intensity/) [or](/en/post/or/) magnitude. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [feeling](/en/post/feeling/) [quite](/en/post/quite/) [down](/en/post/down/) [after](/en/post/after/) [the](/en/post/the/) [news](/en/post/news/)."
+### [Adverb](/post/adverb/)
+- [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [movement](/post/movement/) [or](/post/or/) [direction](/post/direction/) [downward](/post/downward/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [plane](/post/plane/) descended [down](/post/down/) [to](/post/to/) [land](/post/land/)."
+- Expressing [a](/post/a/) [degree](/post/degree/) [of](/post/of/) [intensity](/post/intensity/) [or](/post/or/) magnitude. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [feeling](/post/feeling/) [quite](/post/quite/) [down](/post/down/) [after](/post/after/) [the](/post/the/) [news](/post/news/)."
 
 ## Phrases
-- "[Put](/en/post/put/) [something](/en/post/something/) [down](/en/post/down/)" [means](/en/post/means/) [to](/en/post/to/) [place](/en/post/place/) [it](/en/post/it/) [on](/en/post/on/) [a](/en/post/a/) [surface](/en/post/surface/).
-- "[Come](/en/post/come/) [down](/en/post/down/) [with](/en/post/with/) [something](/en/post/something/)" refers [to](/en/post/to/) falling [ill](/en/post/ill/).
-- "[Down](/en/post/down/) [the](/en/post/the/) [street](/en/post/street/)" indicates [a](/en/post/a/) [direction](/en/post/direction/) [along](/en/post/along/) [a](/en/post/a/) [road](/en/post/road/).
-- "[Ease](/en/post/ease/) [down](/en/post/down/)" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [slow](/en/post/slow/) [down](/en/post/down/) [gradually](/en/post/gradually/).
+- "[Put](/post/put/) [something](/post/something/) [down](/post/down/)" [means](/post/means/) [to](/post/to/) [place](/post/place/) [it](/post/it/) [on](/post/on/) [a](/post/a/) [surface](/post/surface/).
+- "[Come](/post/come/) [down](/post/down/) [with](/post/with/) [something](/post/something/)" refers [to](/post/to/) falling [ill](/post/ill/).
+- "[Down](/post/down/) [the](/post/the/) [street](/post/street/)" indicates [a](/post/a/) [direction](/post/direction/) [along](/post/along/) [a](/post/a/) [road](/post/road/).
+- "[Ease](/post/ease/) [down](/post/down/)" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [slow](/post/slow/) [down](/post/down/) [gradually](/post/gradually/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sun](/en/post/sun/) was [setting](/en/post/setting/) [down](/en/post/down/) [behind](/en/post/behind/) [the](/en/post/the/) mountains."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) carefully brought [the](/en/post/the/) [cat](/en/post/cat/) [down](/en/post/down/) [from](/en/post/from/) [the](/en/post/the/) [tree](/en/post/tree/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [break](/en/post/break/) [and](/en/post/and/) [come](/en/post/come/) [down](/en/post/down/) [a](/en/post/a/) [bit](/en/post/bit/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sun](/post/sun/) was [setting](/post/setting/) [down](/post/down/) [behind](/post/behind/) [the](/post/the/) mountains."
+- **[Verb](/post/verb/)**: "[He](/post/he/) carefully brought [the](/post/the/) [cat](/post/cat/) [down](/post/down/) [from](/post/from/) [the](/post/the/) [tree](/post/tree/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [break](/post/break/) [and](/post/and/) [come](/post/come/) [down](/post/down/) [a](/post/a/) [bit](/post/bit/)."
 
-## Synonyms ([Noun](/en/post/noun/))
-- [Lower](/en/post/lower/)
-- [Bottom](/en/post/bottom/)
-- [Floor](/en/post/floor/)
-- [Base](/en/post/base/)
-- [Downward](/en/post/downward/)
+## Synonyms ([Noun](/post/noun/))
+- [Lower](/post/lower/)
+- [Bottom](/post/bottom/)
+- [Floor](/post/floor/)
+- [Base](/post/base/)
+- [Downward](/post/downward/)
 
-## Synonyms ([Verb](/en/post/verb/))
-- [Lower](/en/post/lower/)
-- [Place](/en/post/place/)
-- [Settle](/en/post/settle/)
-- [Bring](/en/post/bring/)
-- [Descend](/en/post/descend/)
+## Synonyms ([Verb](/post/verb/))
+- [Lower](/post/lower/)
+- [Place](/post/place/)
+- [Settle](/post/settle/)
+- [Bring](/post/bring/)
+- [Descend](/post/descend/)
 
-## Synonyms ([Adverb](/en/post/adverb/))
+## Synonyms ([Adverb](/post/adverb/))
 - Downwards
-- [Below](/en/post/below/)
-- [Beneath](/en/post/beneath/)
+- [Below](/post/below/)
+- [Beneath](/post/beneath/)
 - Lowering
 - Descending

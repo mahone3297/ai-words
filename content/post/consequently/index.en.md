@@ -7,35 +7,35 @@ description = '[ˈkɔnsikwəntli] ad.因此/而,所以'
 keywords = ['ai words', 'consequently']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈsɛkwəntli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Expressing [or](/en/post/or/) indicating [a](/en/post/a/) [result](/en/post/result/) [or](/en/post/or/) [consequence](/en/post/consequence/) [that](/en/post/that/) follows [from](/en/post/from/) [something](/en/post/something/) [previously](/en/post/previously/) mentioned [or](/en/post/or/) assumed. [It](/en/post/it/) typically modifies [a](/en/post/a/) [verb](/en/post/verb/), describing [how](/en/post/how/) an [action](/en/post/action/) was carried [out](/en/post/out/) [or](/en/post/or/) [what](/en/post/what/) happened [as](/en/post/as/) [a](/en/post/a/) [direct](/en/post/direct/) [outcome](/en/post/outcome/).
+- **[Adverb](/post/adverb/)**: Expressing [or](/post/or/) indicating [a](/post/a/) [result](/post/result/) [or](/post/or/) [consequence](/post/consequence/) [that](/post/that/) follows [from](/post/from/) [something](/post/something/) [previously](/post/previously/) mentioned [or](/post/or/) assumed. [It](/post/it/) typically modifies [a](/post/a/) [verb](/post/verb/), describing [how](/post/how/) an [action](/post/action/) was carried [out](/post/out/) [or](/post/or/) [what](/post/what/) happened [as](/post/as/) [a](/post/a/) [direct](/post/direct/) [outcome](/post/outcome/).
 
 ## Phrases
-- "[Consequently](/en/post/consequently/), [the](/en/post/the/) [decision](/en/post/decision/) was made."
-- "[Due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [delay](/en/post/delay/), [the](/en/post/the/) [meeting](/en/post/meeting/) was postponed [consequently](/en/post/consequently/)."
-- "[His](/en/post/his/) [hard](/en/post/hard/) [work](/en/post/work/) led [to](/en/post/to/) [success](/en/post/success/), [consequently](/en/post/consequently/) increasing [his](/en/post/his/) [confidence](/en/post/confidence/)."
+- "[Consequently](/post/consequently/), [the](/post/the/) [decision](/post/decision/) was made."
+- "[Due](/post/due/) [to](/post/to/) [the](/post/the/) [delay](/post/delay/), [the](/post/the/) [meeting](/post/meeting/) was postponed [consequently](/post/consequently/)."
+- "[His](/post/his/) [hard](/post/hard/) [work](/post/work/) led [to](/post/to/) [success](/post/success/), [consequently](/post/consequently/) increasing [his](/post/his/) [confidence](/post/confidence/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) studied diligently, [consequently](/en/post/consequently/) acing [the](/en/post/the/) [exam](/en/post/exam/)."
-- "[The](/en/post/the/) [storm](/en/post/storm/) delayed [our](/en/post/our/) [flight](/en/post/flight/), [consequently](/en/post/consequently/) causing [us](/en/post/us/) [to](/en/post/to/) [miss](/en/post/miss/) [the](/en/post/the/) connecting [flight](/en/post/flight/)."
-- "[The](/en/post/the/) team's [good](/en/post/good/) [preparation](/en/post/preparation/) resulted [in](/en/post/in/) [a](/en/post/a/) [strong](/en/post/strong/) [performance](/en/post/performance/), [consequently](/en/post/consequently/) winning [the](/en/post/the/) tournament."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) studied diligently, [consequently](/post/consequently/) acing [the](/post/the/) [exam](/post/exam/)."
+- "[The](/post/the/) [storm](/post/storm/) delayed [our](/post/our/) [flight](/post/flight/), [consequently](/post/consequently/) causing [us](/post/us/) [to](/post/to/) [miss](/post/miss/) [the](/post/the/) connecting [flight](/post/flight/)."
+- "[The](/post/the/) team's [good](/post/good/) [preparation](/post/preparation/) resulted [in](/post/in/) [a](/post/a/) [strong](/post/strong/) [performance](/post/performance/), [consequently](/post/consequently/) winning [the](/post/the/) tournament."
 
 ## Synonyms
-- [Therefore](/en/post/therefore/)
-- [Hence](/en/post/hence/)
-- [As](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/)
-- [Consequently](/en/post/consequently/), [thus](/en/post/thus/)
-- [So](/en/post/so/)
-- [Accordingly](/en/post/accordingly/)
+- [Therefore](/post/therefore/)
+- [Hence](/post/hence/)
+- [As](/post/as/) [a](/post/a/) [result](/post/result/)
+- [Consequently](/post/consequently/), [thus](/post/thus/)
+- [So](/post/so/)
+- [Accordingly](/post/accordingly/)
 
 ## Antonyms
 - Nonetheless
-- [However](/en/post/however/)
+- [However](/post/however/)
 - Contrarily
 - Unconsequentially
 
 ## Notes
-- "[Consequently](/en/post/consequently/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [of](/en/post/of/) [frequency](/en/post/frequency/), [meaning](/en/post/meaning/) "[now](/en/post/now/) [and](/en/post/and/) [then](/en/post/then/)" [or](/en/post/or/) "[occasionally](/en/post/occasionally/)." [In](/en/post/in/) [this](/en/post/this/) [case](/en/post/case/), [it](/en/post/it/) [would](/en/post/would/) [modify](/en/post/modify/) an [entire](/en/post/entire/) [sentence](/en/post/sentence/) [rather](/en/post/rather/) [than](/en/post/than/) [a](/en/post/a/) [verb](/en/post/verb/) [directly](/en/post/directly/). [Example](/en/post/example/): "[She](/en/post/she/) visited [her](/en/post/her/) grandparents [consequently](/en/post/consequently/), [every](/en/post/every/) [few](/en/post/few/) months."
+- "[Consequently](/post/consequently/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/) [of](/post/of/) [frequency](/post/frequency/), [meaning](/post/meaning/) "[now](/post/now/) [and](/post/and/) [then](/post/then/)" [or](/post/or/) "[occasionally](/post/occasionally/)." [In](/post/in/) [this](/post/this/) [case](/post/case/), [it](/post/it/) [would](/post/would/) [modify](/post/modify/) an [entire](/post/entire/) [sentence](/post/sentence/) [rather](/post/rather/) [than](/post/than/) [a](/post/a/) [verb](/post/verb/) [directly](/post/directly/). [Example](/post/example/): "[She](/post/she/) visited [her](/post/her/) grandparents [consequently](/post/consequently/), [every](/post/every/) [few](/post/few/) months."

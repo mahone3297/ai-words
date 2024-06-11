@@ -7,35 +7,35 @@ description = '[set] vt.放；安置 vi.落'
 keywords = ['ai words', 'set']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[set](/en/post/set/)/
+## [Pronunciation](/post/pronunciation/)
+/[set](/post/set/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [collection](/en/post/collection/) [or](/en/post/or/) [group](/en/post/group/) [of](/en/post/of/) items; [a](/en/post/a/) [number](/en/post/number/) [of](/en/post/of/) things considered [together](/en/post/together/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) organized [the](/en/post/the/) students [into](/en/post/into/) [study](/en/post/study/) groups."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [establish](/en/post/establish/), [fix](/en/post/fix/), [or](/en/post/or/) [determine](/en/post/determine/) [a](/en/post/a/) [particular](/en/post/particular/) [quantity](/en/post/quantity/), [level](/en/post/level/), [or](/en/post/or/) [standard](/en/post/standard/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [set](/en/post/set/) [a](/en/post/a/) budget [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [place](/en/post/place/) [or](/en/post/or/) [arrange](/en/post/arrange/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [position](/en/post/position/) [or](/en/post/or/) [location](/en/post/location/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [set](/en/post/set/) [the](/en/post/the/) [vase](/en/post/vase/) [on](/en/post/on/) [the](/en/post/the/) windowsill."
-- **[Verb](/en/post/verb/)**: (colloquial) [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [choice](/en/post/choice/), [especially](/en/post/especially/) [after](/en/post/after/) [some](/en/post/some/) [consideration](/en/post/consideration/). [For](/en/post/for/) [example](/en/post/example/): "Let's [set](/en/post/set/) [our](/en/post/our/) minds [to](/en/post/to/) [it](/en/post/it/) [and](/en/post/and/) [get](/en/post/get/) started."
+- **[Noun](/post/noun/)**: [A](/post/a/) [collection](/post/collection/) [or](/post/or/) [group](/post/group/) [of](/post/of/) items; [a](/post/a/) [number](/post/number/) [of](/post/of/) things considered [together](/post/together/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) organized [the](/post/the/) students [into](/post/into/) [study](/post/study/) groups."
+- **[Verb](/post/verb/)**: [To](/post/to/) [establish](/post/establish/), [fix](/post/fix/), [or](/post/or/) [determine](/post/determine/) [a](/post/a/) [particular](/post/particular/) [quantity](/post/quantity/), [level](/post/level/), [or](/post/or/) [standard](/post/standard/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [set](/post/set/) [a](/post/a/) budget [for](/post/for/) [the](/post/the/) [project](/post/project/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [place](/post/place/) [or](/post/or/) [arrange](/post/arrange/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [position](/post/position/) [or](/post/or/) [location](/post/location/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [set](/post/set/) [the](/post/the/) [vase](/post/vase/) [on](/post/on/) [the](/post/the/) windowsill."
+- **[Verb](/post/verb/)**: (colloquial) [To](/post/to/) [make](/post/make/) [a](/post/a/) [decision](/post/decision/) [or](/post/or/) [choice](/post/choice/), [especially](/post/especially/) [after](/post/after/) [some](/post/some/) [consideration](/post/consideration/). [For](/post/for/) [example](/post/example/): "Let's [set](/post/set/) [our](/post/our/) minds [to](/post/to/) [it](/post/it/) [and](/post/and/) [get](/post/get/) started."
 
 ## Phrases
-- "[Set](/en/post/set/) [a](/en/post/a/) [goal](/en/post/goal/)" [means](/en/post/means/) [to](/en/post/to/) [determine](/en/post/determine/) [a](/en/post/a/) [target](/en/post/target/) [or](/en/post/or/) [objective](/en/post/objective/).
-- "[Set](/en/post/set/) [the](/en/post/the/) [table](/en/post/table/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) preparing [a](/en/post/a/) dining [area](/en/post/area/) [for](/en/post/for/) [a](/en/post/a/) [meal](/en/post/meal/).
-- "[Set](/en/post/set/) [sail](/en/post/sail/)" is [a](/en/post/a/) metaphorical [expression](/en/post/expression/) [for](/en/post/for/) embarking [on](/en/post/on/) [a](/en/post/a/) [journey](/en/post/journey/).
+- "[Set](/post/set/) [a](/post/a/) [goal](/post/goal/)" [means](/post/means/) [to](/post/to/) [determine](/post/determine/) [a](/post/a/) [target](/post/target/) [or](/post/or/) [objective](/post/objective/).
+- "[Set](/post/set/) [the](/post/the/) [table](/post/table/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) preparing [a](/post/a/) dining [area](/post/area/) [for](/post/for/) [a](/post/a/) [meal](/post/meal/).
+- "[Set](/post/set/) [sail](/post/sail/)" is [a](/post/a/) metaphorical [expression](/post/expression/) [for](/post/for/) embarking [on](/post/on/) [a](/post/a/) [journey](/post/journey/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) carefully arranged [her](/en/post/her/) brushes [and](/en/post/and/) paints [in](/en/post/in/) [a](/en/post/a/) [neat](/en/post/neat/) [set](/en/post/set/) [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [set](/en/post/set/) [a](/en/post/a/) [new](/en/post/new/) [record](/en/post/record/) [during](/en/post/during/) [the](/en/post/the/) marathon."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [set](/en/post/set/) [the](/en/post/the/) books [aside](/en/post/aside/) [and](/en/post/and/) sat [down](/en/post/down/) [to](/en/post/to/) [read](/en/post/read/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [much](/en/post/much/) deliberation, [they](/en/post/they/) [finally](/en/post/finally/) [set](/en/post/set/) [on](/en/post/on/) [a](/en/post/a/) [destination](/en/post/destination/) [for](/en/post/for/) [their](/en/post/their/) [vacation](/en/post/vacation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) carefully arranged [her](/post/her/) brushes [and](/post/and/) paints [in](/post/in/) [a](/post/a/) [neat](/post/neat/) [set](/post/set/) [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) [set](/post/set/) [a](/post/a/) [new](/post/new/) [record](/post/record/) [during](/post/during/) [the](/post/the/) marathon."
+- **[Verb](/post/verb/)**: "[She](/post/she/) [set](/post/set/) [the](/post/the/) books [aside](/post/aside/) [and](/post/and/) sat [down](/post/down/) [to](/post/to/) [read](/post/read/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [much](/post/much/) deliberation, [they](/post/they/) [finally](/post/finally/) [set](/post/set/) [on](/post/on/) [a](/post/a/) [destination](/post/destination/) [for](/post/for/) [their](/post/their/) [vacation](/post/vacation/)."
 
 ## Synonyms
-- [Collection](/en/post/collection/)
+- [Collection](/post/collection/)
 - Assortment
 - Grouping
 - Batch
 - Array
-- [Establish](/en/post/establish/)
-- [Determine](/en/post/determine/)
-- [Fix](/en/post/fix/)
-- [Position](/en/post/position/)
-- [Decide](/en/post/decide/)
-- [Choose](/en/post/choose/)
+- [Establish](/post/establish/)
+- [Determine](/post/determine/)
+- [Fix](/post/fix/)
+- [Position](/post/position/)
+- [Decide](/post/decide/)
+- [Choose](/post/choose/)

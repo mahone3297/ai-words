@@ -7,32 +7,32 @@ description = '[bʌt] conj.但是，可是'
 keywords = ['ai words', 'but']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbʌt/
 
 ## Definitions
-### [Adverb](/en/post/adverb/)
-- **Refers [to](/en/post/to/)**: [A](/en/post/a/) [word](/en/post/word/) [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) contrasting [statement](/en/post/statement/) [or](/en/post/or/) [to](/en/post/to/) [show](/en/post/show/) [a](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [direction](/en/post/direction/) [or](/en/post/or/) [emphasis](/en/post/emphasis/). [It](/en/post/it/) [often](/en/post/often/) comes [after](/en/post/after/) [a](/en/post/a/) coordinating [conjunction](/en/post/conjunction/) (e.g., "[and](/en/post/and/)," "[but](/en/post/but/)," "[or](/en/post/or/)") [and](/en/post/and/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) soften [a](/en/post/a/) [negative](/en/post/negative/) [statement](/en/post/statement/).
+### [Adverb](/post/adverb/)
+- **Refers [to](/post/to/)**: [A](/post/a/) [word](/post/word/) [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) contrasting [statement](/post/statement/) [or](/post/or/) [to](/post/to/) [show](/post/show/) [a](/post/a/) [change](/post/change/) [in](/post/in/) [direction](/post/direction/) [or](/post/or/) [emphasis](/post/emphasis/). [It](/post/it/) [often](/post/often/) comes [after](/post/after/) [a](/post/a/) coordinating [conjunction](/post/conjunction/) (e.g., "[and](/post/and/)," "[but](/post/but/)," "[or](/post/or/)") [and](/post/and/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) soften [a](/post/a/) [negative](/post/negative/) [statement](/post/statement/).
 
 ## Phrases
-- "[However](/en/post/however/)" [or](/en/post/or/) "[on](/en/post/on/) [the](/en/post/the/) [other](/en/post/other/) [hand](/en/post/hand/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) contrasting [thought](/en/post/thought/) [with](/en/post/with/) "[but](/en/post/but/)."
-- "[Despite](/en/post/despite/) [that](/en/post/that/)" is [another](/en/post/another/) [phrase](/en/post/phrase/) [that](/en/post/that/) introduces [a](/en/post/a/) [contrast](/en/post/contrast/) [similar](/en/post/similar/) [to](/en/post/to/) "[but](/en/post/but/)."
-- "[In](/en/post/in/) [contrast](/en/post/contrast/)" is [used](/en/post/used/) [to](/en/post/to/) highlight [a](/en/post/a/) [difference](/en/post/difference/) compared [to](/en/post/to/) [what](/en/post/what/) was [previously](/en/post/previously/) mentioned.
+- "[However](/post/however/)" [or](/post/or/) "[on](/post/on/) [the](/post/the/) [other](/post/other/) [hand](/post/hand/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) contrasting [thought](/post/thought/) [with](/post/with/) "[but](/post/but/)."
+- "[Despite](/post/despite/) [that](/post/that/)" is [another](/post/another/) [phrase](/post/phrase/) [that](/post/that/) introduces [a](/post/a/) [contrast](/post/contrast/) [similar](/post/similar/) [to](/post/to/) "[but](/post/but/)."
+- "[In](/post/in/) [contrast](/post/contrast/)" is [used](/post/used/) [to](/post/to/) highlight [a](/post/a/) [difference](/post/difference/) compared [to](/post/to/) [what](/post/what/) was [previously](/post/previously/) mentioned.
 
-## [Example](/en/post/example/) Sentences
-- **[Contrast](/en/post/contrast/)**: "I wanted [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [beach](/en/post/beach/), [but](/en/post/but/) [it](/en/post/it/) started raining [heavily](/en/post/heavily/)."
-- **Softening**: "She's [not](/en/post/not/) [very](/en/post/very/) [good](/en/post/good/) [at](/en/post/at/) math, [but](/en/post/but/) [she](/en/post/she/) has [a](/en/post/a/) [great](/en/post/great/) [sense](/en/post/sense/) [of](/en/post/of/) humor."
-- **[Emphasis](/en/post/emphasis/)**: "[He](/en/post/he/) failed [the](/en/post/the/) [exam](/en/post/exam/), [but](/en/post/but/) he's determined [to](/en/post/to/) [improve](/en/post/improve/)."
+## [Example](/post/example/) Sentences
+- **[Contrast](/post/contrast/)**: "I wanted [to](/post/to/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [beach](/post/beach/), [but](/post/but/) [it](/post/it/) started raining [heavily](/post/heavily/)."
+- **Softening**: "She's [not](/post/not/) [very](/post/very/) [good](/post/good/) [at](/post/at/) math, [but](/post/but/) [she](/post/she/) has [a](/post/a/) [great](/post/great/) [sense](/post/sense/) [of](/post/of/) humor."
+- **[Emphasis](/post/emphasis/)**: "[He](/post/he/) failed [the](/post/the/) [exam](/post/exam/), [but](/post/but/) he's determined [to](/post/to/) [improve](/post/improve/)."
 
 ## Synonyms
-- [Yet](/en/post/yet/)
-- [Nevertheless](/en/post/nevertheless/)
+- [Yet](/post/yet/)
+- [Nevertheless](/post/nevertheless/)
 - Nonetheless
-- [However](/en/post/however/)
-- [Still](/en/post/still/)
-- [Though](/en/post/though/)
-- [Despite](/en/post/despite/)
-- [But](/en/post/but/) [for](/en/post/for/)
+- [However](/post/however/)
+- [Still](/post/still/)
+- [Though](/post/though/)
+- [Despite](/post/despite/)
+- [But](/post/but/) [for](/post/for/)
 
-## [Usage](/en/post/usage/) [Note](/en/post/note/)
-"[But](/en/post/but/)" is versatile [and](/en/post/and/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [various](/en/post/various/) contexts, [from](/en/post/from/) [simple](/en/post/simple/) [contrast](/en/post/contrast/) [to](/en/post/to/) [more](/en/post/more/) [complex](/en/post/complex/) [sentence](/en/post/sentence/) structures. It's [important](/en/post/important/) [to](/en/post/to/) [note](/en/post/note/) [that](/en/post/that/) using "[but](/en/post/but/)" [after](/en/post/after/) [a](/en/post/a/) coordinating [conjunction](/en/post/conjunction/) [like](/en/post/like/) "[and](/en/post/and/)" [can](/en/post/can/) [sound](/en/post/sound/) [awkward](/en/post/awkward/), [so](/en/post/so/) it's [more](/en/post/more/) [common](/en/post/common/) [to](/en/post/to/) [find](/en/post/find/) [it](/en/post/it/) [after](/en/post/after/) "[or](/en/post/or/)" [or](/en/post/or/) [without](/en/post/without/) [any](/en/post/any/) [conjunction](/en/post/conjunction/) [at](/en/post/at/) [all](/en/post/all/).
+## [Usage](/post/usage/) [Note](/post/note/)
+"[But](/post/but/)" is versatile [and](/post/and/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [various](/post/various/) contexts, [from](/post/from/) [simple](/post/simple/) [contrast](/post/contrast/) [to](/post/to/) [more](/post/more/) [complex](/post/complex/) [sentence](/post/sentence/) structures. It's [important](/post/important/) [to](/post/to/) [note](/post/note/) [that](/post/that/) using "[but](/post/but/)" [after](/post/after/) [a](/post/a/) coordinating [conjunction](/post/conjunction/) [like](/post/like/) "[and](/post/and/)" [can](/post/can/) [sound](/post/sound/) [awkward](/post/awkward/), [so](/post/so/) it's [more](/post/more/) [common](/post/common/) [to](/post/to/) [find](/post/find/) [it](/post/it/) [after](/post/after/) "[or](/post/or/)" [or](/post/or/) [without](/post/without/) [any](/post/any/) [conjunction](/post/conjunction/) [at](/post/at/) [all](/post/all/).

@@ -7,46 +7,46 @@ description = 'vt.划(船等) vi.划船'
 keywords = ['ai words', 'row']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [row](/en/post/row/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/):
-1. [A](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) objects [in](/en/post/in/) [a](/en/post/a/) [straight](/en/post/straight/) [line](/en/post/line/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [order](/en/post/order/) [or](/en/post/or/) [competition](/en/post/competition/): "[The](/en/post/the/) boats were lined [up](/en/post/up/) [in](/en/post/in/) [a](/en/post/a/) [neat](/en/post/neat/) [row](/en/post/row/) [on](/en/post/on/) [the](/en/post/the/) [water](/en/post/water/)."
-2. [A](/en/post/a/) [sequence](/en/post/sequence/) [of](/en/post/of/) events [or](/en/post/or/) actions, [often](/en/post/often/) consecutive: "[A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [unfortunate](/en/post/unfortunate/) events unfolded [in](/en/post/in/) [a](/en/post/a/) [single](/en/post/single/) [row](/en/post/row/)."
-3. [A](/en/post/a/) disagreement [or](/en/post/or/) [argument](/en/post/argument/) [between](/en/post/between/) [people](/en/post/people/): "[There](/en/post/there/) was [a](/en/post/a/) [row](/en/post/row/) [between](/en/post/between/) [the](/en/post/the/) siblings [over](/en/post/over/) [who](/en/post/who/) [should](/en/post/should/) [get](/en/post/get/) [the](/en/post/the/) bigger [share](/en/post/share/)."
-4. [A](/en/post/a/) fixed [position](/en/post/position/) [or](/en/post/or/) [seat](/en/post/seat/): "[Each](/en/post/each/) [passenger](/en/post/passenger/) had [their](/en/post/their/) [own](/en/post/own/) [row](/en/post/row/) [in](/en/post/in/) [the](/en/post/the/) [airplane](/en/post/airplane/)."
+### [Noun](/post/noun/)
+[A](/post/a/) [row](/post/row/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/):
+1. [A](/post/a/) [line](/post/line/) [or](/post/or/) [arrangement](/post/arrangement/) [of](/post/of/) objects [in](/post/in/) [a](/post/a/) [straight](/post/straight/) [line](/post/line/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [order](/post/order/) [or](/post/or/) [competition](/post/competition/): "[The](/post/the/) boats were lined [up](/post/up/) [in](/post/in/) [a](/post/a/) [neat](/post/neat/) [row](/post/row/) [on](/post/on/) [the](/post/the/) [water](/post/water/)."
+2. [A](/post/a/) [sequence](/post/sequence/) [of](/post/of/) events [or](/post/or/) actions, [often](/post/often/) consecutive: "[A](/post/a/) [series](/post/series/) [of](/post/of/) [unfortunate](/post/unfortunate/) events unfolded [in](/post/in/) [a](/post/a/) [single](/post/single/) [row](/post/row/)."
+3. [A](/post/a/) disagreement [or](/post/or/) [argument](/post/argument/) [between](/post/between/) [people](/post/people/): "[There](/post/there/) was [a](/post/a/) [row](/post/row/) [between](/post/between/) [the](/post/the/) siblings [over](/post/over/) [who](/post/who/) [should](/post/should/) [get](/post/get/) [the](/post/the/) bigger [share](/post/share/)."
+4. [A](/post/a/) fixed [position](/post/position/) [or](/post/or/) [seat](/post/seat/): "[Each](/post/each/) [passenger](/post/passenger/) had [their](/post/their/) [own](/post/own/) [row](/post/row/) [in](/post/in/) [the](/post/the/) [airplane](/post/airplane/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [row](/en/post/row/) ([as](/en/post/as/) [in](/en/post/in/) rowing): "[He](/en/post/he/) rows [regularly](/en/post/regularly/) [on](/en/post/on/) [the](/en/post/the/) [river](/en/post/river/)."
-[To](/en/post/to/) [argue](/en/post/argue/) [or](/en/post/or/) [dispute](/en/post/dispute/): "[They](/en/post/they/) had [a](/en/post/a/) heated [row](/en/post/row/) [about](/en/post/about/) [the](/en/post/the/) budget."
+### [Verb](/post/verb/)
+[To](/post/to/) [row](/post/row/) ([as](/post/as/) [in](/post/in/) rowing): "[He](/post/he/) rows [regularly](/post/regularly/) [on](/post/on/) [the](/post/the/) [river](/post/river/)."
+[To](/post/to/) [argue](/post/argue/) [or](/post/or/) [dispute](/post/dispute/): "[They](/post/they/) had [a](/post/a/) heated [row](/post/row/) [about](/post/about/) [the](/post/the/) budget."
 
-### [Adjective](/en/post/adjective/)
-1. Arranged [in](/en/post/in/) [a](/en/post/a/) [straight](/en/post/straight/) [line](/en/post/line/): "[The](/en/post/the/) plants were arranged [in](/en/post/in/) [a](/en/post/a/) [row](/en/post/row/)."
-2. Sequential [or](/en/post/or/) consecutive: "[The](/en/post/the/) [row](/en/post/row/) numbers [indicate](/en/post/indicate/) [the](/en/post/the/) [order](/en/post/order/) [of](/en/post/of/) [the](/en/post/the/) files."
+### [Adjective](/post/adjective/)
+1. Arranged [in](/post/in/) [a](/post/a/) [straight](/post/straight/) [line](/post/line/): "[The](/post/the/) plants were arranged [in](/post/in/) [a](/post/a/) [row](/post/row/)."
+2. Sequential [or](/post/or/) consecutive: "[The](/post/the/) [row](/post/row/) numbers [indicate](/post/indicate/) [the](/post/the/) [order](/post/order/) [of](/post/of/) [the](/post/the/) files."
 
-### [Adverb](/en/post/adverb/)
-[In](/en/post/in/) [a](/en/post/a/) [row](/en/post/row/) [or](/en/post/or/) consecutively: "[The](/en/post/the/) houses stood [in](/en/post/in/) [a](/en/post/a/) [row](/en/post/row/) [along](/en/post/along/) [the](/en/post/the/) [street](/en/post/street/)."
+### [Adverb](/post/adverb/)
+[In](/post/in/) [a](/post/a/) [row](/post/row/) [or](/post/or/) consecutively: "[The](/post/the/) houses stood [in](/post/in/) [a](/post/a/) [row](/post/row/) [along](/post/along/) [the](/post/the/) [street](/post/street/)."
 
 ## Phrases
-- "[In](/en/post/in/) [a](/en/post/a/) [row](/en/post/row/)" [means](/en/post/means/) [in](/en/post/in/) [a](/en/post/a/) [straight](/en/post/straight/) [or](/en/post/or/) aligned [manner](/en/post/manner/).
-- "[Row](/en/post/row/) [your](/en/post/your/) [boat](/en/post/boat/)" is [a](/en/post/a/) playful [reference](/en/post/reference/) [to](/en/post/to/) [a](/en/post/a/) children's [song](/en/post/song/), asking [someone](/en/post/someone/) [to](/en/post/to/) [move](/en/post/move/) [a](/en/post/a/) [boat](/en/post/boat/) [across](/en/post/across/) [water](/en/post/water/).
-- "[Get](/en/post/get/) [in](/en/post/in/) [a](/en/post/a/) [row](/en/post/row/)" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) align [oneself](/en/post/oneself/) [or](/en/post/or/) [come](/en/post/come/) [into](/en/post/into/) [order](/en/post/order/).
+- "[In](/post/in/) [a](/post/a/) [row](/post/row/)" [means](/post/means/) [in](/post/in/) [a](/post/a/) [straight](/post/straight/) [or](/post/or/) aligned [manner](/post/manner/).
+- "[Row](/post/row/) [your](/post/your/) [boat](/post/boat/)" is [a](/post/a/) playful [reference](/post/reference/) [to](/post/to/) [a](/post/a/) children's [song](/post/song/), asking [someone](/post/someone/) [to](/post/to/) [move](/post/move/) [a](/post/a/) [boat](/post/boat/) [across](/post/across/) [water](/post/water/).
+- "[Get](/post/get/) [in](/post/in/) [a](/post/a/) [row](/post/row/)" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) align [oneself](/post/oneself/) [or](/post/or/) [come](/post/come/) [into](/post/into/) [order](/post/order/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) flowers were planted [in](/en/post/in/) [a](/en/post/a/) [row](/en/post/row/) [down](/en/post/down/) [the](/en/post/the/) [garden](/en/post/garden/) [path](/en/post/path/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) rows [daily](/en/post/daily/) [to](/en/post/to/) [maintain](/en/post/maintain/) [his](/en/post/his/) fitness."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) shelves were filled [with](/en/post/with/) books [in](/en/post/in/) [a](/en/post/a/) [row](/en/post/row/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) houses were built [in](/en/post/in/) [a](/en/post/a/) [row](/en/post/row/), [each](/en/post/each/) [one](/en/post/one/) [close](/en/post/close/) [to](/en/post/to/) [the](/en/post/the/) [next](/en/post/next/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) flowers were planted [in](/post/in/) [a](/post/a/) [row](/post/row/) [down](/post/down/) [the](/post/the/) [garden](/post/garden/) [path](/post/path/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) rows [daily](/post/daily/) [to](/post/to/) [maintain](/post/maintain/) [his](/post/his/) fitness."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) shelves were filled [with](/post/with/) books [in](/post/in/) [a](/post/a/) [row](/post/row/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) houses were built [in](/post/in/) [a](/post/a/) [row](/post/row/), [each](/post/each/) [one](/post/one/) [close](/post/close/) [to](/post/to/) [the](/post/the/) [next](/post/next/)."
 
 ## Synonyms
-- [Line](/en/post/line/)
-- [Sequence](/en/post/sequence/)
-- [Series](/en/post/series/)
-- [Argument](/en/post/argument/)
-- [Dispute](/en/post/dispute/)
+- [Line](/post/line/)
+- [Sequence](/post/sequence/)
+- [Series](/post/series/)
+- [Argument](/post/argument/)
+- [Dispute](/post/dispute/)
 - Consecutive
-- [Straight](/en/post/straight/)
+- [Straight](/post/straight/)
 - Adjacent
-- [Run](/en/post/run/)
+- [Run](/post/run/)

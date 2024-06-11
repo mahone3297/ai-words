@@ -7,32 +7,32 @@ description = '[ˈkiləmiːtə] n.千米，公里'
 keywords = ['ai words', 'kilometer']
 +++
 
-## [Word](/en/post/word/): [Kilometer](/en/post/kilometer/)
+## [Word](/post/word/): [Kilometer](/post/kilometer/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkɪləˌmiːtər/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [length](/en/post/length/) [equal](/en/post/equal/) [to](/en/post/to/) 1000 meters [or](/en/post/or/) [approximately](/en/post/approximately/) 0.621 miles, [commonly](/en/post/commonly/) [used](/en/post/used/) [to](/en/post/to/) [measure](/en/post/measure/) distances traveled [on](/en/post/on/) [land](/en/post/land/), [especially](/en/post/especially/) [for](/en/post/for/) longer distances.
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [length](/post/length/) [equal](/post/equal/) [to](/post/to/) 1000 meters [or](/post/or/) [approximately](/post/approximately/) 0.621 miles, [commonly](/post/commonly/) [used](/post/used/) [to](/post/to/) [measure](/post/measure/) distances traveled [on](/post/on/) [land](/post/land/), [especially](/post/especially/) [for](/post/for/) longer distances.
 
-[Example](/en/post/example/) Sentences:
-- "[The](/en/post/the/) marathon [race](/en/post/race/) was 42 kilometers [long](/en/post/long/)."
-- "[We](/en/post/we/) drove 500 kilometers [to](/en/post/to/) [reach](/en/post/reach/) [our](/en/post/our/) [holiday](/en/post/holiday/) [destination](/en/post/destination/)."
+[Example](/post/example/) Sentences:
+- "[The](/post/the/) marathon [race](/post/race/) was 42 kilometers [long](/post/long/)."
+- "[We](/post/we/) drove 500 kilometers [to](/post/to/) [reach](/post/reach/) [our](/post/our/) [holiday](/post/holiday/) [destination](/post/destination/)."
 
 ## Phrases
-- "[Per](/en/post/per/) [kilometer](/en/post/kilometer/)" - [used](/en/post/used/) [when](/en/post/when/) referring [to](/en/post/to/) [something](/en/post/something/) measured [or](/en/post/or/) calculated [for](/en/post/for/) [each](/en/post/each/) [kilometer](/en/post/kilometer/), [such](/en/post/such/) [as](/en/post/as/) [fuel](/en/post/fuel/) [consumption](/en/post/consumption/) [or](/en/post/or/) [cost](/en/post/cost/) [per](/en/post/per/) [kilometer](/en/post/kilometer/) driven.
-- "[Within](/en/post/within/) [a](/en/post/a/) [radius](/en/post/radius/) [of](/en/post/of/) X kilometers" - expressing [a](/en/post/a/) [distance](/en/post/distance/) [around](/en/post/around/) [a](/en/post/a/) [specific](/en/post/specific/) [point](/en/post/point/).
-- "[Kilometer](/en/post/kilometer/) [zero](/en/post/zero/)" - [the](/en/post/the/) [central](/en/post/central/) [point](/en/post/point/) [from](/en/post/from/) [which](/en/post/which/) distances are traditionally measured [in](/en/post/in/) [a](/en/post/a/) [city](/en/post/city/) [or](/en/post/or/) [country](/en/post/country/).
+- "[Per](/post/per/) [kilometer](/post/kilometer/)" - [used](/post/used/) [when](/post/when/) referring [to](/post/to/) [something](/post/something/) measured [or](/post/or/) calculated [for](/post/for/) [each](/post/each/) [kilometer](/post/kilometer/), [such](/post/such/) [as](/post/as/) [fuel](/post/fuel/) [consumption](/post/consumption/) [or](/post/or/) [cost](/post/cost/) [per](/post/per/) [kilometer](/post/kilometer/) driven.
+- "[Within](/post/within/) [a](/post/a/) [radius](/post/radius/) [of](/post/of/) X kilometers" - expressing [a](/post/a/) [distance](/post/distance/) [around](/post/around/) [a](/post/a/) [specific](/post/specific/) [point](/post/point/).
+- "[Kilometer](/post/kilometer/) [zero](/post/zero/)" - [the](/post/the/) [central](/post/central/) [point](/post/point/) [from](/post/from/) [which](/post/which/) distances are traditionally measured [in](/post/in/) [a](/post/a/) [city](/post/city/) [or](/post/or/) [country](/post/country/).
 
-## [Example](/en/post/example/) Sentences
-- "[The](/en/post/the/) [cost](/en/post/cost/) [per](/en/post/per/) [kilometer](/en/post/kilometer/) [for](/en/post/for/) [this](/en/post/this/) rental [car](/en/post/car/) is [quite](/en/post/quite/) [reasonable](/en/post/reasonable/)."
-- "[All](/en/post/all/) locations [within](/en/post/within/) [a](/en/post/a/) 10-kilometer [radius](/en/post/radius/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) center were searched."
+## [Example](/post/example/) Sentences
+- "[The](/post/the/) [cost](/post/cost/) [per](/post/per/) [kilometer](/post/kilometer/) [for](/post/for/) [this](/post/this/) rental [car](/post/car/) is [quite](/post/quite/) [reasonable](/post/reasonable/)."
+- "[All](/post/all/) locations [within](/post/within/) [a](/post/a/) 10-kilometer [radius](/post/radius/) [of](/post/of/) [the](/post/the/) [city](/post/city/) center were searched."
 
 ## Synonyms
 - KM (abbreviation)
 - K (abbreviation)
-- kilometre (British English [spelling](/en/post/spelling/))
-- [mile](/en/post/mile/) ([alternative](/en/post/alternative/) [unit](/en/post/unit/) [of](/en/post/of/) [length](/en/post/length/), [used](/en/post/used/) [primarily](/en/post/primarily/) [in](/en/post/in/) [the](/en/post/the/) [US](/en/post/us/)) 
-- klick (informal, [especially](/en/post/especially/) [military](/en/post/military/) [usage](/en/post/usage/)) 
+- kilometre (British English [spelling](/post/spelling/))
+- [mile](/post/mile/) ([alternative](/post/alternative/) [unit](/post/unit/) [of](/post/of/) [length](/post/length/), [used](/post/used/) [primarily](/post/primarily/) [in](/post/in/) [the](/post/the/) [US](/post/us/)) 
+- klick (informal, [especially](/post/especially/) [military](/post/military/) [usage](/post/usage/)) 
 
-[Note](/en/post/note/) [that](/en/post/that/) [while](/en/post/while/) synonyms [like](/en/post/like/) "[mile](/en/post/mile/)" denote [a](/en/post/a/) [different](/en/post/different/) [unit](/en/post/unit/) [of](/en/post/of/) [length](/en/post/length/), [they](/en/post/they/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) contextually [to](/en/post/to/) [express](/en/post/express/) [similar](/en/post/similar/) concepts [of](/en/post/of/) measuring distances.
+[Note](/post/note/) [that](/post/that/) [while](/post/while/) synonyms [like](/post/like/) "[mile](/post/mile/)" denote [a](/post/a/) [different](/post/different/) [unit](/post/unit/) [of](/post/of/) [length](/post/length/), [they](/post/they/) [can](/post/can/) [be](/post/be/) [used](/post/used/) contextually [to](/post/to/) [express](/post/express/) [similar](/post/similar/) concepts [of](/post/of/) measuring distances.

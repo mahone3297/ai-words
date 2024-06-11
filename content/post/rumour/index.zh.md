@@ -11,20 +11,20 @@ keywords = ['ai words', 'rumour']
 /rʌˈmɔːr/
 
 ## 释义
-- **名词**: 不正式的消息或传闻，通常未经证实。例如: "[There](/post/there/) were rumours [of](/post/of/) [a](/post/a/) [possible](/post/possible/) [strike](/post/strike/) [by](/post/by/) [the](/post/the/) workers."
-- **动词**: 传播或听到谣言。例如: "[The](/post/the/) [news](/post/news/) [soon](/post/soon/) rumoured [throughout](/post/throughout/) [the](/post/the/) [city](/post/city/)."
+- **名词**: 不正式的消息或传闻，通常未经证实。例如: "[There](/zh/post/there/) were rumours [of](/zh/post/of/) [a](/zh/post/a/) [possible](/zh/post/possible/) [strike](/zh/post/strike/) [by](/zh/post/by/) [the](/zh/post/the/) workers."
+- **动词**: 传播或听到谣言。例如: "[The](/zh/post/the/) [news](/zh/post/news/) [soon](/zh/post/soon/) rumoured [throughout](/zh/post/throughout/) [the](/zh/post/the/) [city](/zh/post/city/)."
 
 ## 短语
-- "[Rumour](/post/rumour/) has [it](/post/it/) [that](/post/that/)..." 表示有传言说。例如: "[Rumour](/post/rumour/) has [it](/post/it/) [that](/post/that/) [the](/post/the/) [company](/post/company/) is going [to](/post/to/) [lay](/post/lay/) [off](/post/off/) [some](/post/some/) employees."
-- "[Start](/post/start/) [a](/post/a/) [rumour](/post/rumour/)" 意味着发起或制造一个谣言。例如: "[Some](/post/some/) [people](/post/people/) deliberately started [a](/post/a/) [rumour](/post/rumour/) [to](/post/to/) [damage](/post/damage/) [his](/post/his/) [reputation](/post/reputation/)."
+- "[Rumour](/zh/post/rumour/) has [it](/zh/post/it/) [that](/zh/post/that/)..." 表示有传言说。例如: "[Rumour](/zh/post/rumour/) has [it](/zh/post/it/) [that](/zh/post/that/) [the](/zh/post/the/) [company](/zh/post/company/) is going [to](/zh/post/to/) [lay](/zh/post/lay/) [off](/zh/post/off/) [some](/zh/post/some/) employees."
+- "[Start](/zh/post/start/) [a](/zh/post/a/) [rumour](/zh/post/rumour/)" 意味着发起或制造一个谣言。例如: "[Some](/zh/post/some/) [people](/zh/post/people/) deliberately started [a](/zh/post/a/) [rumour](/zh/post/rumour/) [to](/zh/post/to/) [damage](/zh/post/damage/) [his](/zh/post/his/) [reputation](/zh/post/reputation/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [rumour](/post/rumour/) [of](/post/of/) [his](/post/his/) [resignation](/post/resignation/) caused [a](/post/a/) [stir](/post/stir/) [in](/post/in/) [the](/post/the/) [office](/post/office/)."
-- 动词: "[She](/post/she/) rumoured [that](/post/that/) [the](/post/the/) celebrity was getting [married](/post/married/), [but](/post/but/) [it](/post/it/) turned [out](/post/out/) [to](/post/to/) [be](/post/be/) [false](/post/false/)."
+- 名词: "[The](/zh/post/the/) [rumour](/zh/post/rumour/) [of](/zh/post/of/) [his](/zh/post/his/) [resignation](/zh/post/resignation/) caused [a](/zh/post/a/) [stir](/zh/post/stir/) [in](/zh/post/in/) [the](/zh/post/the/) [office](/zh/post/office/)."
+- 动词: "[She](/zh/post/she/) rumoured [that](/zh/post/that/) [the](/zh/post/the/) celebrity was getting [married](/zh/post/married/), [but](/zh/post/but/) [it](/zh/post/it/) turned [out](/zh/post/out/) [to](/zh/post/to/) [be](/zh/post/be/) [false](/zh/post/false/)."
 
 ## 同义词
 - Gossip
-- [Whisper](/post/whisper/)
-- [Talk](/post/talk/)
-- [Report](/post/report/)
+- [Whisper](/zh/post/whisper/)
+- [Talk](/zh/post/talk/)
+- [Report](/zh/post/report/)
 - Slander

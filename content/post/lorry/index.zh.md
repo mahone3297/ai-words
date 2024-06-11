@@ -11,20 +11,20 @@ keywords = ['ai words', 'lorry']
 /ˈlɔːri/
 
 ## 释义
-- **名词**: 一种大型的、通常有开放式货箱的机动车辆，用于运输货物。例如: "[The](/post/the/) [lorry](/post/lorry/) carried [a](/post/a/) [load](/post/load/) [of](/post/of/) [construction](/post/construction/) materials [to](/post/to/) [the](/post/the/) [site](/post/site/)."
-- **名词 (在某些地区)**: 与卡车同义，用于运输大量物品。例如: "[She](/post/she/) [saw](/post/saw/) [a](/post/a/) [lorry](/post/lorry/) [on](/post/on/) [the](/post/the/) [highway](/post/highway/) loaded [with](/post/with/) boxes."
+- **名词**: 一种大型的、通常有开放式货箱的机动车辆，用于运输货物。例如: "[The](/zh/post/the/) [lorry](/zh/post/lorry/) carried [a](/zh/post/a/) [load](/zh/post/load/) [of](/zh/post/of/) [construction](/zh/post/construction/) materials [to](/zh/post/to/) [the](/zh/post/the/) [site](/zh/post/site/)."
+- **名词 (在某些地区)**: 与卡车同义，用于运输大量物品。例如: "[She](/zh/post/she/) [saw](/zh/post/saw/) [a](/zh/post/a/) [lorry](/zh/post/lorry/) [on](/zh/post/on/) [the](/zh/post/the/) [highway](/zh/post/highway/) loaded [with](/zh/post/with/) boxes."
 
 ## 短语
-- "[Lorry](/post/lorry/) [driver](/post/driver/)" 指驾驶货车的人。
-- "[Lorry](/post/lorry/) [load](/post/load/)" 指货车能承载的一批货物。
+- "[Lorry](/zh/post/lorry/) [driver](/zh/post/driver/)" 指驾驶货车的人。
+- "[Lorry](/zh/post/lorry/) [load](/zh/post/load/)" 指货车能承载的一批货物。
 
 ## 例句
-- "[The](/post/the/) [lorry](/post/lorry/) [driver](/post/driver/) carefully reversed [into](/post/into/) [the](/post/the/) loading [bay](/post/bay/)."
-- "[The](/post/the/) [company](/post/company/) hired [extra](/post/extra/) lorries [to](/post/to/) [cope](/post/cope/) [with](/post/with/) [the](/post/the/) increased [demand](/post/demand/) [during](/post/during/) Christmas [season](/post/season/)."
+- "[The](/zh/post/the/) [lorry](/zh/post/lorry/) [driver](/zh/post/driver/) carefully reversed [into](/zh/post/into/) [the](/zh/post/the/) loading [bay](/zh/post/bay/)."
+- "[The](/zh/post/the/) [company](/zh/post/company/) hired [extra](/zh/post/extra/) lorries [to](/zh/post/to/) [cope](/zh/post/cope/) [with](/zh/post/with/) [the](/zh/post/the/) increased [demand](/zh/post/demand/) [during](/zh/post/during/) Christmas [season](/zh/post/season/)."
 
 ## 同义词
-- [Truck](/post/truck/)
+- [Truck](/zh/post/truck/)
 - Hauler
-- [Goods](/post/goods/) [vehicle](/post/vehicle/)
-- [Cargo](/post/cargo/) [van](/post/van/)
-- [Delivery](/post/delivery/) [truck](/post/truck/)
+- [Goods](/zh/post/goods/) [vehicle](/zh/post/vehicle/)
+- [Cargo](/zh/post/cargo/) [van](/zh/post/van/)
+- [Delivery](/zh/post/delivery/) [truck](/zh/post/truck/)

@@ -7,37 +7,37 @@ description = '[ˈbraitn] vt.使发光；使快活'
 keywords = ['ai words', 'brighten']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /braɪt(ə)n/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [appear](/en/post/appear/) brighter [or](/en/post/or/) [more](/en/post/more/) illuminated; [to](/en/post/to/) [lighten](/en/post/lighten/) [the](/en/post/the/) [appearance](/en/post/appearance/) [of](/en/post/of/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sun](/en/post/sun/) brightened [the](/en/post/the/) [room](/en/post/room/) [with](/en/post/with/) [its](/en/post/its/) [warm](/en/post/warm/) [glow](/en/post/glow/)."
-- **[Adjective](/en/post/adjective/)**: (adj) Characterized [by](/en/post/by/) brightness, cheerfulness, [or](/en/post/or/) clarity. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [smile](/en/post/smile/) brightened [the](/en/post/the/) [gloomy](/en/post/gloomy/) [day](/en/post/day/)."
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) making [something](/en/post/something/) brighter [or](/en/post/or/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) brightened. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) curtains brightened [the](/en/post/the/) [room](/en/post/room/) significantly."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [make](/post/make/) [something](/post/something/) [appear](/post/appear/) brighter [or](/post/or/) [more](/post/more/) illuminated; [to](/post/to/) [lighten](/post/lighten/) [the](/post/the/) [appearance](/post/appearance/) [of](/post/of/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sun](/post/sun/) brightened [the](/post/the/) [room](/post/room/) [with](/post/with/) [its](/post/its/) [warm](/post/warm/) [glow](/post/glow/)."
+- **[Adjective](/post/adjective/)**: (adj) Characterized [by](/post/by/) brightness, cheerfulness, [or](/post/or/) clarity. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [smile](/post/smile/) brightened [the](/post/the/) [gloomy](/post/gloomy/) [day](/post/day/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) making [something](/post/something/) brighter [or](/post/or/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [being](/post/being/) brightened. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) curtains brightened [the](/post/the/) [room](/post/room/) significantly."
 
 ## Phrases
-- "[Brighten](/en/post/brighten/) [up](/en/post/up/) [your](/en/post/your/) [day](/en/post/day/)" is [a](/en/post/a/) [common](/en/post/common/) [expression](/en/post/expression/) [to](/en/post/to/) [encourage](/en/post/encourage/) [someone](/en/post/someone/) [to](/en/post/to/) [be](/en/post/be/) [cheerful](/en/post/cheerful/).
-- "[Brighten](/en/post/brighten/) [a](/en/post/a/) [corner](/en/post/corner/)" metaphorically [means](/en/post/means/) [to](/en/post/to/) [improve](/en/post/improve/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [atmosphere](/en/post/atmosphere/).
-- "[Brighten](/en/post/brighten/) someone's [mood](/en/post/mood/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [someone](/en/post/someone/) [feel](/en/post/feel/) happier.
+- "[Brighten](/post/brighten/) [up](/post/up/) [your](/post/your/) [day](/post/day/)" is [a](/post/a/) [common](/post/common/) [expression](/post/expression/) [to](/post/to/) [encourage](/post/encourage/) [someone](/post/someone/) [to](/post/to/) [be](/post/be/) [cheerful](/post/cheerful/).
+- "[Brighten](/post/brighten/) [a](/post/a/) [corner](/post/corner/)" metaphorically [means](/post/means/) [to](/post/to/) [improve](/post/improve/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [atmosphere](/post/atmosphere/).
+- "[Brighten](/post/brighten/) someone's [mood](/post/mood/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [someone](/post/someone/) [feel](/post/feel/) happier.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [addition](/en/post/addition/) [of](/en/post/of/) colorful flowers brightened [the](/en/post/the/) [garden](/en/post/garden/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) eyes lit [up](/en/post/up/), [and](/en/post/and/) [her](/en/post/her/) [whole](/en/post/whole/) [face](/en/post/face/) brightened [when](/en/post/when/) [she](/en/post/she/) [saw](/en/post/saw/) [her](/en/post/her/) [friend](/en/post/friend/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) lighting fixture brightened [the](/en/post/the/) [entire](/en/post/entire/) [kitchen](/en/post/kitchen/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [addition](/post/addition/) [of](/post/of/) colorful flowers brightened [the](/post/the/) [garden](/post/garden/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) eyes lit [up](/post/up/), [and](/post/and/) [her](/post/her/) [whole](/post/whole/) [face](/post/face/) brightened [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [her](/post/her/) [friend](/post/friend/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) lighting fixture brightened [the](/post/the/) [entire](/post/entire/) [kitchen](/post/kitchen/)."
 
 ## Synonyms
 - Illuminate
 - Enliven
-- [Cheer](/en/post/cheer/)
+- [Cheer](/post/cheer/)
 - Illuminate
-- [Lighten](/en/post/lighten/)
-- [Brighten](/en/post/brighten/) [up](/en/post/up/)
-- [Radiate](/en/post/radiate/)
-- [Sparkle](/en/post/sparkle/)
+- [Lighten](/post/lighten/)
+- [Brighten](/post/brighten/) [up](/post/up/)
+- [Radiate](/post/radiate/)
+- [Sparkle](/post/sparkle/)
 
 ## Antonyms
 - Diminish
 - Darken
-- [Depress](/en/post/depress/)
-- [Dull](/en/post/dull/)
-- [Weaken](/en/post/weaken/)
+- [Depress](/post/depress/)
+- [Dull](/post/dull/)
+- [Weaken](/post/weaken/)

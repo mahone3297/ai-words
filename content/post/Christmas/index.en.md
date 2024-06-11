@@ -7,45 +7,45 @@ description = '[ˈkrisməs] n.圣诞节'
 keywords = ['ai words', 'Christmas']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /chrɪsməs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Christmas**: [A](/en/post/a/) Christian [holiday](/en/post/holiday/) celebrated [on](/en/post/on/) December 25th, commemorating [the](/en/post/the/) [birth](/en/post/birth/) [of](/en/post/of/) Jesus Christ. [It](/en/post/it/) is [a](/en/post/a/) [time](/en/post/time/) [for](/en/post/for/) [family](/en/post/family/) gatherings, gift-giving, [and](/en/post/and/) [religious](/en/post/religious/) observances.
-- **[Festival](/en/post/festival/) [of](/en/post/of/) Lights**: [In](/en/post/in/) non-Christian cultures, [this](/en/post/this/) [term](/en/post/term/) is [sometimes](/en/post/sometimes/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [winter](/en/post/winter/) [holiday](/en/post/holiday/) [season](/en/post/season/), [often](/en/post/often/) associated [with](/en/post/with/) [similar](/en/post/similar/) traditions [as](/en/post/as/) Christmas.
+### [Noun](/post/noun/)
+- **Christmas**: [A](/post/a/) Christian [holiday](/post/holiday/) celebrated [on](/post/on/) December 25th, commemorating [the](/post/the/) [birth](/post/birth/) [of](/post/of/) Jesus Christ. [It](/post/it/) is [a](/post/a/) [time](/post/time/) [for](/post/for/) [family](/post/family/) gatherings, gift-giving, [and](/post/and/) [religious](/post/religious/) observances.
+- **[Festival](/post/festival/) [of](/post/of/) Lights**: [In](/post/in/) non-Christian cultures, [this](/post/this/) [term](/post/term/) is [sometimes](/post/sometimes/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [winter](/post/winter/) [holiday](/post/holiday/) [season](/post/season/), [often](/post/often/) associated [with](/post/with/) [similar](/post/similar/) traditions [as](/post/as/) Christmas.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [celebrate](/en/post/celebrate/) Christmas**: [Participate](/en/post/participate/) [in](/en/post/in/) [the](/en/post/the/) festivities, rituals, [and](/en/post/and/) customs [of](/en/post/of/) [the](/en/post/the/) [holiday](/en/post/holiday/).
-- **[To](/en/post/to/) [exchange](/en/post/exchange/) Christmas greetings**: [Send](/en/post/send/) [or](/en/post/or/) [receive](/en/post/receive/) messages, cards, [or](/en/post/or/) gifts [to](/en/post/to/) [convey](/en/post/convey/) [well](/en/post/well/) wishes [during](/en/post/during/) [the](/en/post/the/) [holiday](/en/post/holiday/) [season](/en/post/season/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [celebrate](/post/celebrate/) Christmas**: [Participate](/post/participate/) [in](/post/in/) [the](/post/the/) festivities, rituals, [and](/post/and/) customs [of](/post/of/) [the](/post/the/) [holiday](/post/holiday/).
+- **[To](/post/to/) [exchange](/post/exchange/) Christmas greetings**: [Send](/post/send/) [or](/post/or/) [receive](/post/receive/) messages, cards, [or](/post/or/) gifts [to](/post/to/) [convey](/post/convey/) [well](/post/well/) wishes [during](/post/during/) [the](/post/the/) [holiday](/post/holiday/) [season](/post/season/).
 
-### [Adjective](/en/post/adjective/)
-- **Christmas-y**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) associated [with](/en/post/with/) [the](/en/post/the/) Christmas [holiday](/en/post/holiday/), typically [in](/en/post/in/) terms [of](/en/post/of/) decorations, [music](/en/post/music/), [or](/en/post/or/) [atmosphere](/en/post/atmosphere/).
+### [Adjective](/post/adjective/)
+- **Christmas-y**: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) associated [with](/post/with/) [the](/post/the/) Christmas [holiday](/post/holiday/), typically [in](/post/in/) terms [of](/post/of/) decorations, [music](/post/music/), [or](/post/or/) [atmosphere](/post/atmosphere/).
 
-### [Adverb](/en/post/adverb/)
-- **[At](/en/post/at/) Christmas**: [During](/en/post/during/) [the](/en/post/the/) [holiday](/en/post/holiday/) [period](/en/post/period/).
+### [Adverb](/post/adverb/)
+- **[At](/post/at/) Christmas**: [During](/post/during/) [the](/post/the/) [holiday](/post/holiday/) [period](/post/period/).
 
 ## Phrases
-- "[Merry](/en/post/merry/) Christmas" [or](/en/post/or/) "[Happy](/en/post/happy/) Holidays": [Greeting](/en/post/greeting/) expressing [good](/en/post/good/) [cheer](/en/post/cheer/) [and](/en/post/and/) seasonal wishes.
-- "[Deck](/en/post/deck/) [the](/en/post/the/) halls [with](/en/post/with/) boughs [of](/en/post/of/) holly": [A](/en/post/a/) [popular](/en/post/popular/) Christmas carol's refrain, symbolizing festive preparations.
-- "It's [beginning](/en/post/beginning/) [to](/en/post/to/) [look](/en/post/look/) [a](/en/post/a/) [lot](/en/post/lot/) [like](/en/post/like/) Christmas": [A](/en/post/a/) [song](/en/post/song/) expressing [the](/en/post/the/) anticipation [of](/en/post/of/) [the](/en/post/the/) [holiday](/en/post/holiday/) [season](/en/post/season/).
-- "Auld Lang Syne": [The](/en/post/the/) [traditional](/en/post/traditional/) Scottish [song](/en/post/song/) sung [at](/en/post/at/) [midnight](/en/post/midnight/) [on](/en/post/on/) [New](/en/post/new/) Year's [Eve](/en/post/eve/), [but](/en/post/but/) [also](/en/post/also/) [sometimes](/en/post/sometimes/) associated [with](/en/post/with/) Christmas celebrations.
+- "[Merry](/post/merry/) Christmas" [or](/post/or/) "[Happy](/post/happy/) Holidays": [Greeting](/post/greeting/) expressing [good](/post/good/) [cheer](/post/cheer/) [and](/post/and/) seasonal wishes.
+- "[Deck](/post/deck/) [the](/post/the/) halls [with](/post/with/) boughs [of](/post/of/) holly": [A](/post/a/) [popular](/post/popular/) Christmas carol's refrain, symbolizing festive preparations.
+- "It's [beginning](/post/beginning/) [to](/post/to/) [look](/post/look/) [a](/post/a/) [lot](/post/lot/) [like](/post/like/) Christmas": [A](/post/a/) [song](/post/song/) expressing [the](/post/the/) anticipation [of](/post/of/) [the](/post/the/) [holiday](/post/holiday/) [season](/post/season/).
+- "Auld Lang Syne": [The](/post/the/) [traditional](/post/traditional/) Scottish [song](/post/song/) sung [at](/post/at/) [midnight](/post/midnight/) [on](/post/on/) [New](/post/new/) Year's [Eve](/post/eve/), [but](/post/but/) [also](/post/also/) [sometimes](/post/sometimes/) associated [with](/post/with/) Christmas celebrations.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [whole](/en/post/whole/) [family](/en/post/family/) gathered [for](/en/post/for/) [a](/en/post/a/) [big](/en/post/big/) Christmas [dinner](/en/post/dinner/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) [always](/en/post/always/) [celebrate](/en/post/celebrate/) Christmas [by](/en/post/by/) decorating [the](/en/post/the/) [tree](/en/post/tree/) [and](/en/post/and/) singing carols."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) Christmas lights brightened [up](/en/post/up/) [the](/en/post/the/) [street](/en/post/street/) [corner](/en/post/corner/)."
-- **[Adverb](/en/post/adverb/)**: "[They](/en/post/they/) exchanged Christmas cards [every](/en/post/every/) [year](/en/post/year/), [even](/en/post/even/) [when](/en/post/when/) [living](/en/post/living/) [far](/en/post/far/) [apart](/en/post/apart/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [whole](/post/whole/) [family](/post/family/) gathered [for](/post/for/) [a](/post/a/) [big](/post/big/) Christmas [dinner](/post/dinner/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) [always](/post/always/) [celebrate](/post/celebrate/) Christmas [by](/post/by/) decorating [the](/post/the/) [tree](/post/tree/) [and](/post/and/) singing carols."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) Christmas lights brightened [up](/post/up/) [the](/post/the/) [street](/post/street/) [corner](/post/corner/)."
+- **[Adverb](/post/adverb/)**: "[They](/post/they/) exchanged Christmas cards [every](/post/every/) [year](/post/year/), [even](/post/even/) [when](/post/when/) [living](/post/living/) [far](/post/far/) [apart](/post/apart/)."
 
 ## Synonyms
 - Yuletide
 - Noel
 - Festive
-- [Holiday](/en/post/holiday/)
+- [Holiday](/post/holiday/)
 - Wintertime
 - Seasonal
 
 ## Antonyms
 - Non-holiday
-- [Ordinary](/en/post/ordinary/)
-- Unrelated [to](/en/post/to/) Christmas
+- [Ordinary](/post/ordinary/)
+- Unrelated [to](/post/to/) Christmas

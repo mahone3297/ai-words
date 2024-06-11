@@ -11,21 +11,21 @@ keywords = ['ai words', 'elder']
 /ˈeldər/
 
 ## 释义
-- **形容词**: 年长的，较老的。例如: "[My](/post/my/) [elder](/post/elder/) [sister](/post/sister/) is [two](/post/two/) years older [than](/post/than/) [me](/post/me/)."
-- **名词**: 长者，年长的人。例如: "[In](/post/in/) [some](/post/some/) cultures, elders are [highly](/post/highly/) respected [for](/post/for/) [their](/post/their/) [wisdom](/post/wisdom/)."
+- **形容词**: 年长的，较老的。例如: "[My](/zh/post/my/) [elder](/zh/post/elder/) [sister](/zh/post/sister/) is [two](/zh/post/two/) years older [than](/zh/post/than/) [me](/zh/post/me/)."
+- **名词**: 长者，年长的人。例如: "[In](/zh/post/in/) [some](/zh/post/some/) cultures, elders are [highly](/zh/post/highly/) respected [for](/zh/post/for/) [their](/zh/post/their/) [wisdom](/zh/post/wisdom/)."
 - 在某些上下文中，也可指"长老"，如教会中的长老或家族中的年长成员。
 
 ## 短语
-- "Elderly [people](/post/people/)" 指的是老年人。
-- "[Elder](/post/elder/) [statesman](/post/statesman/)" 指在政治或公共事务中有威望和经验的资深人士。
+- "Elderly [people](/zh/post/people/)" 指的是老年人。
+- "[Elder](/zh/post/elder/) [statesman](/zh/post/statesman/)" 指在政治或公共事务中有威望和经验的资深人士。
 
 ## 例句
-- 形容词: "[My](/post/my/) [elder](/post/elder/) [brother](/post/brother/) took [care](/post/care/) [of](/post/of/) [me](/post/me/) [when](/post/when/) [our](/post/our/) parents were [away](/post/away/)."
-- 名词: "[The](/post/the/) [village](/post/village/) elders made an [important](/post/important/) [decision](/post/decision/) [about](/post/about/) [the](/post/the/) [land](/post/land/) [dispute](/post/dispute/)."
+- 形容词: "[My](/zh/post/my/) [elder](/zh/post/elder/) [brother](/zh/post/brother/) took [care](/zh/post/care/) [of](/zh/post/of/) [me](/zh/post/me/) [when](/zh/post/when/) [our](/zh/post/our/) parents were [away](/zh/post/away/)."
+- 名词: "[The](/zh/post/the/) [village](/zh/post/village/) elders made an [important](/zh/post/important/) [decision](/zh/post/decision/) [about](/zh/post/about/) [the](/zh/post/the/) [land](/zh/post/land/) [dispute](/zh/post/dispute/)."
 
 ## 同义词
 - Older
-- [Senior](/post/senior/)
-- [More](/post/more/) aged
-- [Ancient](/post/ancient/) (在某些语境下)
+- [Senior](/zh/post/senior/)
+- [More](/zh/post/more/) aged
+- [Ancient](/zh/post/ancient/) (在某些语境下)
 - Seasoned (常用于形容有经验的人)

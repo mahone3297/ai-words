@@ -7,37 +7,37 @@ description = '[ˈʌltimit] a.最后的，最终的'
 keywords = ['ai words', 'ultimate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʌltɪmət/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Final](/en/post/final/); [most](/en/post/most/) [advanced](/en/post/advanced/) [or](/en/post/or/) [complete](/en/post/complete/); highest [in](/en/post/in/) [degree](/en/post/degree/) [or](/en/post/or/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [ultimate](/en/post/ultimate/) [goal](/en/post/goal/) is [world](/en/post/world/) [peace](/en/post/peace/)." 
-   - **[Noun](/en/post/noun/)**: 2. [The](/en/post/the/) [final](/en/post/final/) [stage](/en/post/stage/) [or](/en/post/or/) [point](/en/post/point/) [in](/en/post/in/) [something](/en/post/something/); [the](/en/post/the/) highest [level](/en/post/level/) [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [ultimate](/en/post/ultimate/) [challenge](/en/post/challenge/) was [to](/en/post/to/) [climb](/en/post/climb/) [Mount](/en/post/mount/) Everest."
+- **[Adjective](/post/adjective/)**: 1. [Final](/post/final/); [most](/post/most/) [advanced](/post/advanced/) [or](/post/or/) [complete](/post/complete/); highest [in](/post/in/) [degree](/post/degree/) [or](/post/or/) [quality](/post/quality/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [ultimate](/post/ultimate/) [goal](/post/goal/) is [world](/post/world/) [peace](/post/peace/)." 
+   - **[Noun](/post/noun/)**: 2. [The](/post/the/) [final](/post/final/) [stage](/post/stage/) [or](/post/or/) [point](/post/point/) [in](/post/in/) [something](/post/something/); [the](/post/the/) highest [level](/post/level/) [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [ultimate](/post/ultimate/) [challenge](/post/challenge/) was [to](/post/to/) [climb](/post/climb/) [Mount](/post/mount/) Everest."
 
 ## Phrases
-- "[Reach](/en/post/reach/) [the](/en/post/the/) [ultimate](/en/post/ultimate/) [level](/en/post/level/)" [means](/en/post/means/) [to](/en/post/to/) [achieve](/en/post/achieve/) [the](/en/post/the/) highest [level](/en/post/level/) [or](/en/post/or/) [standard](/en/post/standard/).
-- "[Ultimate](/en/post/ultimate/) perfection" signifies [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [perfect](/en/post/perfect/) [or](/en/post/or/) flawless.
-- "[The](/en/post/the/) [ultimate](/en/post/ultimate/) [sacrifice](/en/post/sacrifice/)" refers [to](/en/post/to/) [the](/en/post/the/) greatest [loss](/en/post/loss/) or奉献.
+- "[Reach](/post/reach/) [the](/post/the/) [ultimate](/post/ultimate/) [level](/post/level/)" [means](/post/means/) [to](/post/to/) [achieve](/post/achieve/) [the](/post/the/) highest [level](/post/level/) [or](/post/or/) [standard](/post/standard/).
+- "[Ultimate](/post/ultimate/) perfection" signifies [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [perfect](/post/perfect/) [or](/post/or/) flawless.
+- "[The](/post/the/) [ultimate](/post/ultimate/) [sacrifice](/post/sacrifice/)" refers [to](/post/to/) [the](/post/the/) greatest [loss](/post/loss/) or奉献.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [ultimate](/en/post/ultimate/) [victory](/en/post/victory/) [in](/en/post/in/) [the](/en/post/the/) [competition](/en/post/competition/) was [a](/en/post/a/) testament [to](/en/post/to/) [his](/en/post/his/) dedication."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ultimate](/en/post/ultimate/) [solution](/en/post/solution/) [to](/en/post/to/) [this](/en/post/this/) [problem](/en/post/problem/) proved elusive."
-- "[After](/en/post/after/) years [of](/en/post/of/) [practice](/en/post/practice/), [he](/en/post/he/) [finally](/en/post/finally/) achieved [the](/en/post/the/) [ultimate](/en/post/ultimate/) [in](/en/post/in/) [skill](/en/post/skill/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [ultimate](/post/ultimate/) [victory](/post/victory/) [in](/post/in/) [the](/post/the/) [competition](/post/competition/) was [a](/post/a/) testament [to](/post/to/) [his](/post/his/) dedication."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ultimate](/post/ultimate/) [solution](/post/solution/) [to](/post/to/) [this](/post/this/) [problem](/post/problem/) proved elusive."
+- "[After](/post/after/) years [of](/post/of/) [practice](/post/practice/), [he](/post/he/) [finally](/post/finally/) achieved [the](/post/the/) [ultimate](/post/ultimate/) [in](/post/in/) [skill](/post/skill/)."
 
 ## Synonyms
-- [Supreme](/en/post/supreme/)
-- [Final](/en/post/final/)
+- [Supreme](/post/supreme/)
+- [Final](/post/final/)
 - Highest
-- [Peak](/en/post/peak/)
+- [Peak](/post/peak/)
 - Apex
 - Pinnacle
 - Culmination
-- Apex [level](/en/post/level/)
-- [Absolute](/en/post/absolute/)
+- Apex [level](/post/level/)
+- [Absolute](/post/absolute/)
 
 ## Antonyms
-- [Initial](/en/post/initial/)
-- [Basic](/en/post/basic/)
+- [Initial](/post/initial/)
+- [Basic](/post/basic/)
 - Incomplete
 - Lesser
 - Subordinate

@@ -7,26 +7,26 @@ description = '[djuː] a.预期的；应给的'
 keywords = ['ai words', 'due']
 +++
 
-## [Word](/en/post/word/): [Due](/en/post/due/)
+## [Word](/post/word/): [Due](/post/due/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /djuː/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) 1. Expected [at](/en/post/at/) [or](/en/post/or/) planned [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [time](/en/post/time/); owed [and](/en/post/and/) payable [now](/en/post/now/); [not](/en/post/not/) overdue. _For example_: "[The](/en/post/the/) [rent](/en/post/rent/) is [due](/en/post/due/) [on](/en/post/on/) [the](/en/post/the/) [first](/en/post/first/) [of](/en/post/of/) [every](/en/post/every/) [month](/en/post/month/)."
-   2. [Properly](/en/post/properly/) attributed [or](/en/post/or/) assigned [to](/en/post/to/) [something](/en/post/something/) [as](/en/post/as/) [its](/en/post/its/) [right](/en/post/right/) [or](/en/post/or/) [appropriate](/en/post/appropriate/) [portion](/en/post/portion/). _Example_: "[Credit](/en/post/credit/) is [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [team](/en/post/team/) [for](/en/post/for/) [their](/en/post/their/) [hard](/en/post/hard/) [work](/en/post/work/)."
-   3. Having reached [the](/en/post/the/) expected [time](/en/post/time/) [for](/en/post/for/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/), [especially](/en/post/especially/) [birth](/en/post/birth/). _Example_: "[Her](/en/post/her/) [baby](/en/post/baby/) is [due](/en/post/due/) [in](/en/post/in/) [May](/en/post/may/)."
+- **[Adjective](/post/adjective/)**: (adj) 1. Expected [at](/post/at/) [or](/post/or/) planned [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [time](/post/time/); owed [and](/post/and/) payable [now](/post/now/); [not](/post/not/) overdue. _For example_: "[The](/post/the/) [rent](/post/rent/) is [due](/post/due/) [on](/post/on/) [the](/post/the/) [first](/post/first/) [of](/post/of/) [every](/post/every/) [month](/post/month/)."
+   2. [Properly](/post/properly/) attributed [or](/post/or/) assigned [to](/post/to/) [something](/post/something/) [as](/post/as/) [its](/post/its/) [right](/post/right/) [or](/post/or/) [appropriate](/post/appropriate/) [portion](/post/portion/). _Example_: "[Credit](/post/credit/) is [due](/post/due/) [to](/post/to/) [the](/post/the/) [team](/post/team/) [for](/post/for/) [their](/post/their/) [hard](/post/hard/) [work](/post/work/)."
+   3. Having reached [the](/post/the/) expected [time](/post/time/) [for](/post/for/) [something](/post/something/) [to](/post/to/) [happen](/post/happen/), [especially](/post/especially/) [birth](/post/birth/). _Example_: "[Her](/post/her/) [baby](/post/baby/) is [due](/post/due/) [in](/post/in/) [May](/post/may/)."
    
-- **[Adverb](/en/post/adverb/)**: (adv)  [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) is owed [or](/en/post/or/) [proper](/en/post/proper/); rightfully; [properly](/en/post/properly/). _Example_: "[The](/en/post/the/) [suspect](/en/post/suspect/) was released [due](/en/post/due/) [to](/en/post/to/) [lack](/en/post/lack/) [of](/en/post/of/) [evidence](/en/post/evidence/)."
+- **[Adverb](/post/adverb/)**: (adv)  [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) is owed [or](/post/or/) [proper](/post/proper/); rightfully; [properly](/post/properly/). _Example_: "[The](/post/the/) [suspect](/post/suspect/) was released [due](/post/due/) [to](/post/to/) [lack](/post/lack/) [of](/post/of/) [evidence](/post/evidence/)."
 
 ## Phrases
-- "[Due](/en/post/due/) [date](/en/post/date/)": [The](/en/post/the/) scheduled [date](/en/post/date/) [by](/en/post/by/) [which](/en/post/which/) [something](/en/post/something/) [must](/en/post/must/) [be](/en/post/be/) completed [or](/en/post/or/) finished, [often](/en/post/often/) referring [to](/en/post/to/) [when](/en/post/when/) [a](/en/post/a/) [baby](/en/post/baby/) is expected [to](/en/post/to/) [be](/en/post/be/) [born](/en/post/born/) [or](/en/post/or/) [when](/en/post/when/) [a](/en/post/a/) [payment](/en/post/payment/) [should](/en/post/should/) [be](/en/post/be/) made.
-- "[In](/en/post/in/) [due](/en/post/due/) [course](/en/post/course/)": [At](/en/post/at/) [the](/en/post/the/) [appropriate](/en/post/appropriate/) [or](/en/post/or/) expected [time](/en/post/time/) [in](/en/post/in/) [the](/en/post/the/) [future](/en/post/future/).
-- "[Due](/en/post/due/) diligence": [Thorough](/en/post/thorough/) [research](/en/post/research/) [or](/en/post/or/) [investigation](/en/post/investigation/) [before](/en/post/before/) making [a](/en/post/a/) [decision](/en/post/decision/), typically [used](/en/post/used/) [in](/en/post/in/) [business](/en/post/business/) contexts.
+- "[Due](/post/due/) [date](/post/date/)": [The](/post/the/) scheduled [date](/post/date/) [by](/post/by/) [which](/post/which/) [something](/post/something/) [must](/post/must/) [be](/post/be/) completed [or](/post/or/) finished, [often](/post/often/) referring [to](/post/to/) [when](/post/when/) [a](/post/a/) [baby](/post/baby/) is expected [to](/post/to/) [be](/post/be/) [born](/post/born/) [or](/post/or/) [when](/post/when/) [a](/post/a/) [payment](/post/payment/) [should](/post/should/) [be](/post/be/) made.
+- "[In](/post/in/) [due](/post/due/) [course](/post/course/)": [At](/post/at/) [the](/post/the/) [appropriate](/post/appropriate/) [or](/post/or/) expected [time](/post/time/) [in](/post/in/) [the](/post/the/) [future](/post/future/).
+- "[Due](/post/due/) diligence": [Thorough](/post/thorough/) [research](/post/research/) [or](/post/or/) [investigation](/post/investigation/) [before](/post/before/) making [a](/post/a/) [decision](/post/decision/), typically [used](/post/used/) [in](/post/in/) [business](/post/business/) contexts.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [library](/en/post/library/) [book](/en/post/book/) was [due](/en/post/due/) [yesterday](/en/post/yesterday/), [so](/en/post/so/) [he](/en/post/he/) had [to](/en/post/to/) [pay](/en/post/pay/) [a](/en/post/a/) [late](/en/post/late/) [fee](/en/post/fee/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [project](/en/post/project/) [will](/en/post/will/) [be](/en/post/be/) completed [due](/en/post/due/) [time](/en/post/time/), according [to](/en/post/to/) [the](/en/post/the/) [schedule](/en/post/schedule/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [library](/post/library/) [book](/post/book/) was [due](/post/due/) [yesterday](/post/yesterday/), [so](/post/so/) [he](/post/he/) had [to](/post/to/) [pay](/post/pay/) [a](/post/a/) [late](/post/late/) [fee](/post/fee/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [project](/post/project/) [will](/post/will/) [be](/post/be/) completed [due](/post/due/) [time](/post/time/), according [to](/post/to/) [the](/post/the/) [schedule](/post/schedule/)."
 
 ## Synonyms
 - Owed
@@ -35,7 +35,7 @@ keywords = ['ai words', 'due']
 - Expected
 - Scheduled
 - Anticipated
-- [Due](/en/post/due/) [credit](/en/post/credit/)
+- [Due](/post/due/) [credit](/post/credit/)
 - Rightful
-- [Proper](/en/post/proper/)
-- [Appropriate](/en/post/appropriate/)
+- [Proper](/post/proper/)
+- [Appropriate](/post/appropriate/)

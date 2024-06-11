@@ -7,35 +7,35 @@ description = '[feit] n.命运，天数'
 keywords = ['ai words', 'fate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fāt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [development](/en/post/development/) [of](/en/post/of/) events [outside](/en/post/outside/) [a](/en/post/a/) person's [control](/en/post/control/), regarded [as](/en/post/as/) predetermined [by](/en/post/by/) [a](/en/post/a/) supernatural [power](/en/post/power/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [fate](/en/post/fate/) was sealed [when](/en/post/when/) [she](/en/post/she/) drew [the](/en/post/the/) [short](/en/post/short/) [straw](/en/post/straw/)."
-  - [Also](/en/post/also/), [a](/en/post/a/) person's destiny [or](/en/post/or/) [ultimate](/en/post/ultimate/) [end](/en/post/end/): "[He](/en/post/he/) believed [that](/en/post/that/) [he](/en/post/he/) [could](/en/post/could/) [alter](/en/post/alter/) [his](/en/post/his/) [fate](/en/post/fate/) [through](/en/post/through/) [hard](/en/post/hard/) [work](/en/post/work/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [development](/post/development/) [of](/post/of/) events [outside](/post/outside/) [a](/post/a/) person's [control](/post/control/), regarded [as](/post/as/) predetermined [by](/post/by/) [a](/post/a/) supernatural [power](/post/power/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [fate](/post/fate/) was sealed [when](/post/when/) [she](/post/she/) drew [the](/post/the/) [short](/post/short/) [straw](/post/straw/)."
+  - [Also](/post/also/), [a](/post/a/) person's destiny [or](/post/or/) [ultimate](/post/ultimate/) [end](/post/end/): "[He](/post/he/) believed [that](/post/that/) [he](/post/he/) [could](/post/could/) [alter](/post/alter/) [his](/post/his/) [fate](/post/fate/) [through](/post/through/) [hard](/post/hard/) [work](/post/work/)."
   
-- **[Verb](/en/post/verb/) (archaic)**: [To](/en/post/to/) destine; [to](/en/post/to/) predetermine unalterably. [Example](/en/post/example/): "[The](/en/post/the/) gods had fated [him](/en/post/him/) [to](/en/post/to/) [die](/en/post/die/) [young](/en/post/young/)."
+- **[Verb](/post/verb/) (archaic)**: [To](/post/to/) destine; [to](/post/to/) predetermine unalterably. [Example](/post/example/): "[The](/post/the/) gods had fated [him](/post/him/) [to](/post/to/) [die](/post/die/) [young](/post/young/)."
 
 ## Phrases
-- "[Fate](/en/post/fate/) [worse](/en/post/worse/) [than](/en/post/than/) [death](/en/post/death/)": An [extremely](/en/post/extremely/) [unpleasant](/en/post/unpleasant/) [or](/en/post/or/) disastrous [situation](/en/post/situation/) [that](/en/post/that/) [one](/en/post/one/) [might](/en/post/might/) [be](/en/post/be/) destined [for](/en/post/for/).
-- "Sealed one's [fate](/en/post/fate/)": [To](/en/post/to/) [have](/en/post/have/) irrevocably decided someone's [future](/en/post/future/) [outcome](/en/post/outcome/), [often](/en/post/often/) [with](/en/post/with/) [negative](/en/post/negative/) implications.
-- "[Leave](/en/post/leave/) [it](/en/post/it/) [to](/en/post/to/) [fate](/en/post/fate/)": [To](/en/post/to/) [decide](/en/post/decide/) [not](/en/post/not/) [to](/en/post/to/) intervene [and](/en/post/and/) [let](/en/post/let/) events unfold [naturally](/en/post/naturally/) [or](/en/post/or/) [by](/en/post/by/) [external](/en/post/external/) forces.
+- "[Fate](/post/fate/) [worse](/post/worse/) [than](/post/than/) [death](/post/death/)": An [extremely](/post/extremely/) [unpleasant](/post/unpleasant/) [or](/post/or/) disastrous [situation](/post/situation/) [that](/post/that/) [one](/post/one/) [might](/post/might/) [be](/post/be/) destined [for](/post/for/).
+- "Sealed one's [fate](/post/fate/)": [To](/post/to/) [have](/post/have/) irrevocably decided someone's [future](/post/future/) [outcome](/post/outcome/), [often](/post/often/) [with](/post/with/) [negative](/post/negative/) implications.
+- "[Leave](/post/leave/) [it](/post/it/) [to](/post/to/) [fate](/post/fate/)": [To](/post/to/) [decide](/post/decide/) [not](/post/not/) [to](/post/to/) intervene [and](/post/and/) [let](/post/let/) events unfold [naturally](/post/naturally/) [or](/post/or/) [by](/post/by/) [external](/post/external/) forces.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) [love](/en/post/love/) [story](/en/post/story/) was sealed [by](/en/post/by/) [fate](/en/post/fate/) [when](/en/post/when/) [they](/en/post/they/) met [again](/en/post/again/) [after](/en/post/after/) years [apart](/en/post/apart/)."
-- "[Whether](/en/post/whether/) [we](/en/post/we/) [succeed](/en/post/succeed/) [or](/en/post/or/) [fail](/en/post/fail/), [it](/en/post/it/) seems [our](/en/post/our/) [fate](/en/post/fate/) is tied [to](/en/post/to/) [this](/en/post/this/) [venture](/en/post/venture/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Their](/post/their/) [love](/post/love/) [story](/post/story/) was sealed [by](/post/by/) [fate](/post/fate/) [when](/post/when/) [they](/post/they/) met [again](/post/again/) [after](/post/after/) years [apart](/post/apart/)."
+- "[Whether](/post/whether/) [we](/post/we/) [succeed](/post/succeed/) [or](/post/or/) [fail](/post/fail/), [it](/post/it/) seems [our](/post/our/) [fate](/post/fate/) is tied [to](/post/to/) [this](/post/this/) [venture](/post/venture/)."
   
-- **[Verb](/en/post/verb/) (archaic)**: "[The](/en/post/the/) seer fated [that](/en/post/that/) [the](/en/post/the/) [kingdom](/en/post/kingdom/) [would](/en/post/would/) [fall](/en/post/fall/) [under](/en/post/under/) [a](/en/post/a/) [new](/en/post/new/) [ruler](/en/post/ruler/)."
+- **[Verb](/post/verb/) (archaic)**: "[The](/post/the/) seer fated [that](/post/that/) [the](/post/the/) [kingdom](/post/kingdom/) [would](/post/would/) [fall](/post/fall/) [under](/post/under/) [a](/post/a/) [new](/post/new/) [ruler](/post/ruler/)."
 
 ## Synonyms
 - Destiny
-- [Fortune](/en/post/fortune/)
-- [Lot](/en/post/lot/)
+- [Fortune](/post/fortune/)
+- [Lot](/post/lot/)
 - Karma
 - Providence
 - Predetermination
 - Doom
 - Predestination
-- Divine [will](/en/post/will/)
+- Divine [will](/post/will/)
 
-[Note](/en/post/note/): [While](/en/post/while/) '[fate](/en/post/fate/)' [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) archaic [usage](/en/post/usage/), [its](/en/post/its/) [primary](/en/post/primary/) [use](/en/post/use/) [in](/en/post/in/) [modern](/en/post/modern/) English is [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/).
+[Note](/post/note/): [While](/post/while/) '[fate](/post/fate/)' [can](/post/can/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) archaic [usage](/post/usage/), [its](/post/its/) [primary](/post/primary/) [use](/post/use/) [in](/post/in/) [modern](/post/modern/) English is [as](/post/as/) [a](/post/a/) [noun](/post/noun/).

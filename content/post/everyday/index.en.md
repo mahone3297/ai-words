@@ -7,36 +7,36 @@ description = '[ˈevridei] a.每天的，日常的'
 keywords = ['ai words', 'everyday']
 +++
 
-## [Word](/en/post/word/): [Everyday](/en/post/everyday/)
+## [Word](/post/word/): [Everyday](/post/everyday/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɛvriˌdeɪ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Occurring [or](/en/post/or/) [used](/en/post/used/) [regularly](/en/post/regularly/); [typical](/en/post/typical/) [or](/en/post/or/) [ordinary](/en/post/ordinary/). [It](/en/post/it/) describes [something](/en/post/something/) [that](/en/post/that/) happens, is done, [or](/en/post/or/) is seen [on](/en/post/on/) [a](/en/post/a/) [daily](/en/post/daily/) [basis](/en/post/basis/). 
+- **[Adjective](/post/adjective/)**: Occurring [or](/post/or/) [used](/post/used/) [regularly](/post/regularly/); [typical](/post/typical/) [or](/post/or/) [ordinary](/post/ordinary/). [It](/post/it/) describes [something](/post/something/) [that](/post/that/) happens, is done, [or](/post/or/) is seen [on](/post/on/) [a](/post/a/) [daily](/post/daily/) [basis](/post/basis/). 
 
-  > _Example [Sentence](/en/post/sentence/):_ "Walking [the](/en/post/the/) [dog](/en/post/dog/) is [part](/en/post/part/) [of](/en/post/of/) [my](/en/post/my/) [everyday](/en/post/everyday/) [routine](/en/post/routine/)."
-  > "[She](/en/post/she/) wears [casual](/en/post/casual/), [everyday](/en/post/everyday/) [clothes](/en/post/clothes/) [when](/en/post/when/) working [from](/en/post/from/) [home](/en/post/home/)."
+  > _Example [Sentence](/post/sentence/):_ "Walking [the](/post/the/) [dog](/post/dog/) is [part](/post/part/) [of](/post/of/) [my](/post/my/) [everyday](/post/everyday/) [routine](/post/routine/)."
+  > "[She](/post/she/) wears [casual](/post/casual/), [everyday](/post/everyday/) [clothes](/post/clothes/) [when](/post/when/) working [from](/post/from/) [home](/post/home/)."
 
-- **[Noun](/en/post/noun/) ([less](/en/post/less/) [common](/en/post/common/) [usage](/en/post/usage/))**: [The](/en/post/the/) [normal](/en/post/normal/) [or](/en/post/or/) [usual](/en/post/usual/) [time](/en/post/time/); referring [to](/en/post/to/) [the](/en/post/the/) commonplace aspects [of](/en/post/of/) [life](/en/post/life/).
+- **[Noun](/post/noun/) ([less](/post/less/) [common](/post/common/) [usage](/post/usage/))**: [The](/post/the/) [normal](/post/normal/) [or](/post/or/) [usual](/post/usual/) [time](/post/time/); referring [to](/post/to/) [the](/post/the/) commonplace aspects [of](/post/of/) [life](/post/life/).
 
-  > _Example [Sentence](/en/post/sentence/):_ "[The](/en/post/the/) [poetry](/en/post/poetry/) tries [to](/en/post/to/) [capture](/en/post/capture/) [the](/en/post/the/) [beauty](/en/post/beauty/) [in](/en/post/in/) [the](/en/post/the/) mundane, [in](/en/post/in/) [the](/en/post/the/) [everyday](/en/post/everyday/)."
+  > _Example [Sentence](/post/sentence/):_ "[The](/post/the/) [poetry](/post/poetry/) tries [to](/post/to/) [capture](/post/capture/) [the](/post/the/) [beauty](/post/beauty/) [in](/post/in/) [the](/post/the/) mundane, [in](/post/in/) [the](/post/the/) [everyday](/post/everyday/)."
 
 ## Phrases
-- **[Everyday](/en/post/everyday/) [life](/en/post/life/)**: [The](/en/post/the/) [routine](/en/post/routine/) activities [and](/en/post/and/) experiences [that](/en/post/that/) [make](/en/post/make/) [up](/en/post/up/) one's [normal](/en/post/normal/) [existence](/en/post/existence/). "[In](/en/post/in/) [everyday](/en/post/everyday/) [life](/en/post/life/), [we](/en/post/we/) [often](/en/post/often/) [take](/en/post/take/) [simple](/en/post/simple/) pleasures [for](/en/post/for/) granted."
-- **[Everyday](/en/post/everyday/) tasks**: [Regular](/en/post/regular/) chores [or](/en/post/or/) duties [that](/en/post/that/) [need](/en/post/need/) [to](/en/post/to/) [be](/en/post/be/) performed [each](/en/post/each/) [day](/en/post/day/). "Doing [the](/en/post/the/) dishes [and](/en/post/and/) [laundry](/en/post/laundry/) are [part](/en/post/part/) [of](/en/post/of/) [our](/en/post/our/) [everyday](/en/post/everyday/) tasks."
+- **[Everyday](/post/everyday/) [life](/post/life/)**: [The](/post/the/) [routine](/post/routine/) activities [and](/post/and/) experiences [that](/post/that/) [make](/post/make/) [up](/post/up/) one's [normal](/post/normal/) [existence](/post/existence/). "[In](/post/in/) [everyday](/post/everyday/) [life](/post/life/), [we](/post/we/) [often](/post/often/) [take](/post/take/) [simple](/post/simple/) pleasures [for](/post/for/) granted."
+- **[Everyday](/post/everyday/) tasks**: [Regular](/post/regular/) chores [or](/post/or/) duties [that](/post/that/) [need](/post/need/) [to](/post/to/) [be](/post/be/) performed [each](/post/each/) [day](/post/day/). "Doing [the](/post/the/) dishes [and](/post/and/) [laundry](/post/laundry/) are [part](/post/part/) [of](/post/of/) [our](/post/our/) [everyday](/post/everyday/) tasks."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "An [everyday](/en/post/everyday/) [occurrence](/en/post/occurrence/), [like](/en/post/like/) [the](/en/post/the/) [sunrise](/en/post/sunrise/), [can](/en/post/can/) [still](/en/post/still/) [inspire](/en/post/inspire/) awe."
-- **[Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/) [as](/en/post/as/) [such](/en/post/such/))**: "[The](/en/post/the/) [novel](/en/post/novel/) explores [the](/en/post/the/) [extraordinary](/en/post/extraordinary/) hidden [within](/en/post/within/) [the](/en/post/the/) [fabric](/en/post/fabric/) [of](/en/post/of/) [the](/en/post/the/) [everyday](/en/post/everyday/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "An [everyday](/post/everyday/) [occurrence](/post/occurrence/), [like](/post/like/) [the](/post/the/) [sunrise](/post/sunrise/), [can](/post/can/) [still](/post/still/) [inspire](/post/inspire/) awe."
+- **[Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/) [as](/post/as/) [such](/post/such/))**: "[The](/post/the/) [novel](/post/novel/) explores [the](/post/the/) [extraordinary](/post/extraordinary/) hidden [within](/post/within/) [the](/post/the/) [fabric](/post/fabric/) [of](/post/of/) [the](/post/the/) [everyday](/post/everyday/)."
 
 ## Synonyms
 - Commonplace
-- [Ordinary](/en/post/ordinary/)
-- [Usual](/en/post/usual/)
-- [Routine](/en/post/routine/)
-- [Daily](/en/post/daily/)
-- [Normal](/en/post/normal/)
-- [Habitual](/en/post/habitual/)
-- [Familiar](/en/post/familiar/)
-- Everydayness ([noun](/en/post/noun/) [form](/en/post/form/))
+- [Ordinary](/post/ordinary/)
+- [Usual](/post/usual/)
+- [Routine](/post/routine/)
+- [Daily](/post/daily/)
+- [Normal](/post/normal/)
+- [Habitual](/post/habitual/)
+- [Familiar](/post/familiar/)
+- Everydayness ([noun](/post/noun/) [form](/post/form/))

@@ -11,21 +11,21 @@ keywords = ['ai words', 'relation']
 /rɪˈleɪʃn/
 
 ## 释义
-- **名词**: 关系，联系。指两个或多个事物之间的相互作用、影响或关联。例如: "[There](/post/there/) is [a](/post/a/) [close](/post/close/) [relation](/post/relation/) [between](/post/between/) [exercise](/post/exercise/) [and](/post/and/) [good](/post/good/) [health](/post/health/)."
-- **动词**: 与...有关，涉及。例如: "[This](/post/this/) [problem](/post/problem/) relates [directly](/post/directly/) [to](/post/to/) [our](/post/our/) [project](/post/project/)."
+- **名词**: 关系，联系。指两个或多个事物之间的相互作用、影响或关联。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [close](/zh/post/close/) [relation](/zh/post/relation/) [between](/zh/post/between/) [exercise](/zh/post/exercise/) [and](/zh/post/and/) [good](/zh/post/good/) [health](/zh/post/health/)."
+- **动词**: 与...有关，涉及。例如: "[This](/zh/post/this/) [problem](/zh/post/problem/) relates [directly](/zh/post/directly/) [to](/zh/post/to/) [our](/zh/post/our/) [project](/zh/post/project/)."
 
 ## 短语
-- "[Family](/post/family/) relations" 家庭关系
-- "[Social](/post/social/) relations" 社会关系
-- "[Business](/post/business/) relations" 商业关系
+- "[Family](/zh/post/family/) relations" 家庭关系
+- "[Social](/zh/post/social/) relations" 社会关系
+- "[Business](/zh/post/business/) relations" 商业关系
 
 ## 例句
-- 名词: "Maintaining [good](/post/good/) relations [with](/post/with/) neighbors is [important](/post/important/) [for](/post/for/) [a](/post/a/) [peaceful](/post/peaceful/) [community](/post/community/)."
-- 动词: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) relates [to](/post/to/) [all](/post/all/) employees [in](/post/in/) [the](/post/the/) [company](/post/company/)."
+- 名词: "Maintaining [good](/zh/post/good/) relations [with](/zh/post/with/) neighbors is [important](/zh/post/important/) [for](/zh/post/for/) [a](/zh/post/a/) [peaceful](/zh/post/peaceful/) [community](/zh/post/community/)."
+- 动词: "[The](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/) relates [to](/zh/post/to/) [all](/zh/post/all/) employees [in](/zh/post/in/) [the](/zh/post/the/) [company](/zh/post/company/)."
 
 ## 同义词
-- [Connection](/post/connection/)
-- [Relationship](/post/relationship/)
-- [Association](/post/association/)
-- [Tie](/post/tie/)
-- [Bond](/post/bond/)
+- [Connection](/zh/post/connection/)
+- [Relationship](/zh/post/relationship/)
+- [Association](/zh/post/association/)
+- [Tie](/zh/post/tie/)
+- [Bond](/zh/post/bond/)

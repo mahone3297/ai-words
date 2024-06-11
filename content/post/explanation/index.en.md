@@ -7,34 +7,34 @@ description = '[ˌekspləˈnei∫ən] n.解释,说明;辩解'
 keywords = ['ai words', 'explanation']
 +++
 
-## [Word](/en/post/word/): [Explanation](/en/post/explanation/)
+## [Word](/post/word/): [Explanation](/post/explanation/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌekspləˈneɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [account](/en/post/account/) [that](/en/post/that/) makes [something](/en/post/something/) [clear](/en/post/clear/); [a](/en/post/a/) lucid [interpretation](/en/post/interpretation/) [or](/en/post/or/) presentation [of](/en/post/of/) [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) [provided](/en/post/provided/) [a](/en/post/a/) detailed [explanation](/en/post/explanation/) [for](/en/post/for/) [the](/en/post/the/) [complex](/en/post/complex/) [theory](/en/post/theory/)."
-  - "[She](/en/post/she/) offered an [explanation](/en/post/explanation/) [as](/en/post/as/) [to](/en/post/to/) [why](/en/post/why/) [she](/en/post/she/) was [late](/en/post/late/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [clarify](/en/post/clarify/) [or](/en/post/or/) [make](/en/post/make/) intelligible [by](/en/post/by/) providing [a](/en/post/a/) [reason](/en/post/reason/), [cause](/en/post/cause/), [or](/en/post/or/) [meaning](/en/post/meaning/). [For](/en/post/for/) [example](/en/post/example/): "[Can](/en/post/can/) [you](/en/post/you/) [please](/en/post/please/) [explain](/en/post/explain/) [this](/en/post/this/) [concept](/en/post/concept/) [again](/en/post/again/)?"
-  - "[He](/en/post/he/) explained [his](/en/post/his/) actions thoroughly [to](/en/post/to/) [avoid](/en/post/avoid/) misunderstandings."
+- **[Noun](/post/noun/)**: [A](/post/a/) [statement](/post/statement/) [or](/post/or/) [account](/post/account/) [that](/post/that/) makes [something](/post/something/) [clear](/post/clear/); [a](/post/a/) lucid [interpretation](/post/interpretation/) [or](/post/or/) presentation [of](/post/of/) [information](/post/information/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) [provided](/post/provided/) [a](/post/a/) detailed [explanation](/post/explanation/) [for](/post/for/) [the](/post/the/) [complex](/post/complex/) [theory](/post/theory/)."
+  - "[She](/post/she/) offered an [explanation](/post/explanation/) [as](/post/as/) [to](/post/to/) [why](/post/why/) [she](/post/she/) was [late](/post/late/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [clarify](/post/clarify/) [or](/post/or/) [make](/post/make/) intelligible [by](/post/by/) providing [a](/post/a/) [reason](/post/reason/), [cause](/post/cause/), [or](/post/or/) [meaning](/post/meaning/). [For](/post/for/) [example](/post/example/): "[Can](/post/can/) [you](/post/you/) [please](/post/please/) [explain](/post/explain/) [this](/post/this/) [concept](/post/concept/) [again](/post/again/)?"
+  - "[He](/post/he/) explained [his](/post/his/) actions thoroughly [to](/post/to/) [avoid](/post/avoid/) misunderstandings."
 
 ## Phrases
-- "[Give](/en/post/give/) an [explanation](/en/post/explanation/)": [To](/en/post/to/) [provide](/en/post/provide/) reasons [or](/en/post/or/) details [about](/en/post/about/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) manager asked [her](/en/post/her/) [to](/en/post/to/) [give](/en/post/give/) an [explanation](/en/post/explanation/) [for](/en/post/for/) [the](/en/post/the/) [decrease](/en/post/decrease/) [in](/en/post/in/) sales."
-- "[In](/en/post/in/) [explanation](/en/post/explanation/) [of](/en/post/of/)": [To](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) an [explanation](/en/post/explanation/) [for](/en/post/for/) [something](/en/post/something/). [Example](/en/post/example/): "[Her](/en/post/her/) tears were [in](/en/post/in/) [explanation](/en/post/explanation/) [of](/en/post/of/) [the](/en/post/the/) [sorrow](/en/post/sorrow/) [she](/en/post/she/) felt."
-- "[Explanation](/en/post/explanation/) [note](/en/post/note/)": [A](/en/post/a/) written [document](/en/post/document/) [that](/en/post/that/) provides clarification [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/) [or](/en/post/or/) [situation](/en/post/situation/).
+- "[Give](/post/give/) an [explanation](/post/explanation/)": [To](/post/to/) [provide](/post/provide/) reasons [or](/post/or/) details [about](/post/about/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) manager asked [her](/post/her/) [to](/post/to/) [give](/post/give/) an [explanation](/post/explanation/) [for](/post/for/) [the](/post/the/) [decrease](/post/decrease/) [in](/post/in/) sales."
+- "[In](/post/in/) [explanation](/post/explanation/) [of](/post/of/)": [To](/post/to/) [serve](/post/serve/) [as](/post/as/) an [explanation](/post/explanation/) [for](/post/for/) [something](/post/something/). [Example](/post/example/): "[Her](/post/her/) tears were [in](/post/in/) [explanation](/post/explanation/) [of](/post/of/) [the](/post/the/) [sorrow](/post/sorrow/) [she](/post/she/) felt."
+- "[Explanation](/post/explanation/) [note](/post/note/)": [A](/post/a/) written [document](/post/document/) [that](/post/that/) provides clarification [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/) [or](/post/or/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [book](/en/post/book/) contains [a](/en/post/a/) [comprehensive](/en/post/comprehensive/) [explanation](/en/post/explanation/) [of](/en/post/of/) quantum [physics](/en/post/physics/)."
-- **[Verb](/en/post/verb/)**: "I [will](/en/post/will/) [explain](/en/post/explain/) [the](/en/post/the/) [process](/en/post/process/) [step](/en/post/step/) [by](/en/post/by/) [step](/en/post/step/) [so](/en/post/so/) [that](/en/post/that/) [everyone](/en/post/everyone/) understands [it](/en/post/it/) [clearly](/en/post/clearly/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [book](/post/book/) contains [a](/post/a/) [comprehensive](/post/comprehensive/) [explanation](/post/explanation/) [of](/post/of/) quantum [physics](/post/physics/)."
+- **[Verb](/post/verb/)**: "I [will](/post/will/) [explain](/post/explain/) [the](/post/the/) [process](/post/process/) [step](/post/step/) [by](/post/by/) [step](/post/step/) [so](/post/so/) [that](/post/that/) [everyone](/post/everyone/) understands [it](/post/it/) [clearly](/post/clearly/)."
 
 ## Synonyms
 - Clarification
 - Elucidation
-- [Interpretation](/en/post/interpretation/)
-- [Account](/en/post/account/)
-- [Description](/en/post/description/)
-- [Definition](/en/post/definition/)
+- [Interpretation](/post/interpretation/)
+- [Account](/post/account/)
+- [Description](/post/description/)
+- [Definition](/post/definition/)
 - Exposition
 - Explication
-- [Discussion](/en/post/discussion/)
-- Justification ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- [Discussion](/post/discussion/)
+- Justification ([in](/post/in/) [certain](/post/certain/) contexts)

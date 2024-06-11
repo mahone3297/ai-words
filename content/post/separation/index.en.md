@@ -7,33 +7,33 @@ description = '[sepəˈrei∫ən] n.分离，分开/居'
 keywords = ['ai words', 'separation']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sepəˈreɪʃn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) separating [or](/en/post/or/) dividing [something](/en/post/something/) [into](/en/post/into/) parts [or](/en/post/or/) groups. 2. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [apart](/en/post/apart/) [from](/en/post/from/) others; isolation. 3. [A](/en/post/a/) [distance](/en/post/distance/) [or](/en/post/or/) [interval](/en/post/interval/) [between](/en/post/between/) things. 4. (Computing) [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) dividing [data](/en/post/data/) [into](/en/post/into/) [separate](/en/post/separate/) files [or](/en/post/or/) sections.
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [cause](/en/post/cause/) [to](/en/post/to/) [be](/en/post/be/) separated [or](/en/post/or/) divided. 2. [To](/en/post/to/) [keep](/en/post/keep/) [apart](/en/post/apart/); [isolate](/en/post/isolate/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) separating [or](/post/or/) dividing [something](/post/something/) [into](/post/into/) parts [or](/post/or/) groups. 2. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [apart](/post/apart/) [from](/post/from/) others; isolation. 3. [A](/post/a/) [distance](/post/distance/) [or](/post/or/) [interval](/post/interval/) [between](/post/between/) things. 4. (Computing) [The](/post/the/) [process](/post/process/) [of](/post/of/) dividing [data](/post/data/) [into](/post/into/) [separate](/post/separate/) files [or](/post/or/) sections.
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [cause](/post/cause/) [to](/post/to/) [be](/post/be/) separated [or](/post/or/) divided. 2. [To](/post/to/) [keep](/post/keep/) [apart](/post/apart/); [isolate](/post/isolate/).
 
 ## Phrases
-- "[Physical](/en/post/physical/) [separation](/en/post/separation/)" refers [to](/en/post/to/) [physical](/en/post/physical/) distancing.
-- "[Separation](/en/post/separation/) [anxiety](/en/post/anxiety/)" describes [the](/en/post/the/) [distress](/en/post/distress/) felt [by](/en/post/by/) individuals [when](/en/post/when/) separated [from](/en/post/from/) loved ones.
-- "Administrative [separation](/en/post/separation/)" is [a](/en/post/a/) [military](/en/post/military/) [term](/en/post/term/) [for](/en/post/for/) [the](/en/post/the/) termination [of](/en/post/of/) [a](/en/post/a/) [service](/en/post/service/) member's [contract](/en/post/contract/).
+- "[Physical](/post/physical/) [separation](/post/separation/)" refers [to](/post/to/) [physical](/post/physical/) distancing.
+- "[Separation](/post/separation/) [anxiety](/post/anxiety/)" describes [the](/post/the/) [distress](/post/distress/) felt [by](/post/by/) individuals [when](/post/when/) separated [from](/post/from/) loved ones.
+- "Administrative [separation](/post/separation/)" is [a](/post/a/) [military](/post/military/) [term](/post/term/) [for](/post/for/) [the](/post/the/) termination [of](/post/of/) [a](/post/a/) [service](/post/service/) member's [contract](/post/contract/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were given [separate](/en/post/separate/) rooms [to](/en/post/to/) [ensure](/en/post/ensure/) [they](/en/post/they/) had [enough](/en/post/enough/) privacy."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) authorities decided [to](/en/post/to/) [separate](/en/post/separate/) [the](/en/post/the/) suspects [to](/en/post/to/) [prevent](/en/post/prevent/) [them](/en/post/them/) [from](/en/post/from/) coordinating [their](/en/post/their/) defense."
-- **Intransitive**: "[After](/en/post/after/) years [of](/en/post/of/) [marriage](/en/post/marriage/), [they](/en/post/they/) experienced [a](/en/post/a/) [painful](/en/post/painful/) [separation](/en/post/separation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were given [separate](/post/separate/) rooms [to](/post/to/) [ensure](/post/ensure/) [they](/post/they/) had [enough](/post/enough/) privacy."
+- **[Verb](/post/verb/)**: "[The](/post/the/) authorities decided [to](/post/to/) [separate](/post/separate/) [the](/post/the/) suspects [to](/post/to/) [prevent](/post/prevent/) [them](/post/them/) [from](/post/from/) coordinating [their](/post/their/) defense."
+- **Intransitive**: "[After](/post/after/) years [of](/post/of/) [marriage](/post/marriage/), [they](/post/they/) experienced [a](/post/a/) [painful](/post/painful/) [separation](/post/separation/)."
 
 ## Synonyms
-- [Division](/en/post/division/)
+- [Division](/post/division/)
 - Distancing
 - Isolation
 - Partition
 - Disunion
-- [Separation](/en/post/separation/) [of](/en/post/of/) duties
+- [Separation](/post/separation/) [of](/post/of/) duties
 
 ## Antonyms
-- [Union](/en/post/union/)
+- [Union](/post/union/)
 - Integration
 - Concatenation
 - Reunification

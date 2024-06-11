@@ -11,23 +11,23 @@ keywords = ['ai words', 'table']
 /ˈteɪbl/
 
 ## 释义
-- **名词 (n)**: 一张平的家具，通常有四条腿，用来放东西。例如: "There's [a](/post/a/) [vase](/post/vase/) [on](/post/on/) [the](/post/the/) [table](/post/table/)."
-- **名词**: 数据或议题的展示，如会议上的议程。例如: "[The](/post/the/) [proposal](/post/proposal/) is [still](/post/still/) [on](/post/on/) [the](/post/the/) [table](/post/table/) [for](/post/for/) [discussion](/post/discussion/)."
-- **动词**: 将（议题）提交讨论。例如: "[The](/post/the/) [committee](/post/committee/) decided [to](/post/to/) [table](/post/table/) [the](/post/the/) budget [until](/post/until/) [next](/post/next/) [month](/post/month/)."
-- **动词**: 在游戏中将（牌）面朝下放在桌子上。例如: "[He](/post/he/) tabled [his](/post/his/) cards, revealing [a](/post/a/) winning [hand](/post/hand/)."
+- **名词 (n)**: 一张平的家具，通常有四条腿，用来放东西。例如: "There's [a](/zh/post/a/) [vase](/zh/post/vase/) [on](/zh/post/on/) [the](/zh/post/the/) [table](/zh/post/table/)."
+- **名词**: 数据或议题的展示，如会议上的议程。例如: "[The](/zh/post/the/) [proposal](/zh/post/proposal/) is [still](/zh/post/still/) [on](/zh/post/on/) [the](/zh/post/the/) [table](/zh/post/table/) [for](/zh/post/for/) [discussion](/zh/post/discussion/)."
+- **动词**: 将（议题）提交讨论。例如: "[The](/zh/post/the/) [committee](/zh/post/committee/) decided [to](/zh/post/to/) [table](/zh/post/table/) [the](/zh/post/the/) budget [until](/zh/post/until/) [next](/zh/post/next/) [month](/zh/post/month/)."
+- **动词**: 在游戏中将（牌）面朝下放在桌子上。例如: "[He](/zh/post/he/) tabled [his](/zh/post/his/) cards, revealing [a](/zh/post/a/) winning [hand](/zh/post/hand/)."
 
 ## 短语
-- "[Set](/post/set/) [the](/post/the/) [table](/post/table/)" 意为摆放餐具准备吃饭。
-- "[Turn](/post/turn/) [the](/post/the/) tables" 表示形势反转或逆袭。例如: "[She](/post/she/) managed [to](/post/to/) [turn](/post/turn/) [the](/post/the/) tables [and](/post/and/) [defeat](/post/defeat/) [her](/post/her/) [opponent](/post/opponent/)."
+- "[Set](/zh/post/set/) [the](/zh/post/the/) [table](/zh/post/table/)" 意为摆放餐具准备吃饭。
+- "[Turn](/zh/post/turn/) [the](/zh/post/the/) tables" 表示形势反转或逆袭。例如: "[She](/zh/post/she/) managed [to](/zh/post/to/) [turn](/zh/post/turn/) [the](/zh/post/the/) tables [and](/zh/post/and/) [defeat](/zh/post/defeat/) [her](/zh/post/her/) [opponent](/zh/post/opponent/)."
 
 ## 例句
-- 名词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) dining [table](/post/table/) [for](/post/for/) [our](/post/our/) [kitchen](/post/kitchen/)."
-- 动词（议题）: "[The](/post/the/) [council](/post/council/) decided [to](/post/to/) [table](/post/table/) [the](/post/the/) [new](/post/new/) zoning [proposal](/post/proposal/) [until](/post/until/) [further](/post/further/) [research](/post/research/) was done."
-- 动词（牌类游戏）: "[In](/post/in/) poker, [you](/post/you/) [can](/post/can/) [only](/post/only/) [table](/post/table/) [your](/post/your/) cards [when](/post/when/) it's [your](/post/your/) [turn](/post/turn/)."
+- 名词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [buy](/zh/post/buy/) [a](/zh/post/a/) [new](/zh/post/new/) dining [table](/zh/post/table/) [for](/zh/post/for/) [our](/zh/post/our/) [kitchen](/zh/post/kitchen/)."
+- 动词（议题）: "[The](/zh/post/the/) [council](/zh/post/council/) decided [to](/zh/post/to/) [table](/zh/post/table/) [the](/zh/post/the/) [new](/zh/post/new/) zoning [proposal](/zh/post/proposal/) [until](/zh/post/until/) [further](/zh/post/further/) [research](/zh/post/research/) was done."
+- 动词（牌类游戏）: "[In](/zh/post/in/) poker, [you](/zh/post/you/) [can](/zh/post/can/) [only](/zh/post/only/) [table](/zh/post/table/) [your](/zh/post/your/) cards [when](/zh/post/when/) it's [your](/zh/post/your/) [turn](/zh/post/turn/)."
 
 ## 同义词
-- [Desk](/post/desk/)
-- [Counter](/post/counter/)
-- [Platform](/post/platform/)
-- [Board](/post/board/)
-- [Stand](/post/stand/)
+- [Desk](/zh/post/desk/)
+- [Counter](/zh/post/counter/)
+- [Platform](/zh/post/platform/)
+- [Board](/zh/post/board/)
+- [Stand](/zh/post/stand/)

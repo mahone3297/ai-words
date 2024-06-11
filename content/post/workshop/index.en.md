@@ -7,51 +7,51 @@ description = '[ˈwəːk∫ɔp] n.车间，工场；创作室'
 keywords = ['ai words', 'workshop']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /workˈʃɒp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [workshop](/en/post/workshop/)** (n): [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [people](/en/post/people/), [especially](/en/post/especially/) craftspeople [or](/en/post/or/) artists, [work](/en/post/work/) [on](/en/post/on/) projects [or](/en/post/or/) [learn](/en/post/learn/) [new](/en/post/new/) skills, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/) [setting](/en/post/setting/).
-   - [Definition](/en/post/definition/): An informal [or](/en/post/or/) specialized [training](/en/post/training/) [session](/en/post/session/) [or](/en/post/or/) seminar, [usually](/en/post/usually/) focused [on](/en/post/on/) [a](/en/post/a/) [specific](/en/post/specific/) [topic](/en/post/topic/) [or](/en/post/or/) [activity](/en/post/activity/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) woodworking [workshop](/en/post/workshop/) was filled [with](/en/post/with/) [the](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) sawing [and](/en/post/and/) hammering."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [workshop](/post/workshop/)** (n): [A](/post/a/) [place](/post/place/) [where](/post/where/) [people](/post/people/), [especially](/post/especially/) craftspeople [or](/post/or/) artists, [work](/post/work/) [on](/post/on/) projects [or](/post/or/) [learn](/post/learn/) [new](/post/new/) skills, [often](/post/often/) [in](/post/in/) [a](/post/a/) [group](/post/group/) [setting](/post/setting/).
+   - [Definition](/post/definition/): An informal [or](/post/or/) specialized [training](/post/training/) [session](/post/session/) [or](/post/or/) seminar, [usually](/post/usually/) focused [on](/post/on/) [a](/post/a/) [specific](/post/specific/) [topic](/post/topic/) [or](/post/or/) [activity](/post/activity/).
+   - [Example](/post/example/): "[The](/post/the/) woodworking [workshop](/post/workshop/) was filled [with](/post/with/) [the](/post/the/) [sound](/post/sound/) [of](/post/of/) sawing [and](/post/and/) hammering."
 
-2. **[Workshop](/en/post/workshop/) [event](/en/post/event/)** (n): [A](/en/post/a/) gathering [or](/en/post/or/) [meeting](/en/post/meeting/) [where](/en/post/where/) participants collaborate, [share](/en/post/share/) ideas, [or](/en/post/or/) [develop](/en/post/develop/) solutions.
-   - [Definition](/en/post/definition/): [A](/en/post/a/) forum [for](/en/post/for/) hands-on [learning](/en/post/learning/) [or](/en/post/or/) problem-solving [in](/en/post/in/) [a](/en/post/a/) [professional](/en/post/professional/) context.
-   - [Example](/en/post/example/): "[The](/en/post/the/) marketing [workshop](/en/post/workshop/) helped [small](/en/post/small/) [business](/en/post/business/) owners [improve](/en/post/improve/) [their](/en/post/their/) [digital](/en/post/digital/) strategies."
+2. **[Workshop](/post/workshop/) [event](/post/event/)** (n): [A](/post/a/) gathering [or](/post/or/) [meeting](/post/meeting/) [where](/post/where/) participants collaborate, [share](/post/share/) ideas, [or](/post/or/) [develop](/post/develop/) solutions.
+   - [Definition](/post/definition/): [A](/post/a/) forum [for](/post/for/) hands-on [learning](/post/learning/) [or](/post/or/) problem-solving [in](/post/in/) [a](/post/a/) [professional](/post/professional/) context.
+   - [Example](/post/example/): "[The](/post/the/) marketing [workshop](/post/workshop/) helped [small](/post/small/) [business](/post/business/) owners [improve](/post/improve/) [their](/post/their/) [digital](/post/digital/) strategies."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [attend](/en/post/attend/) [a](/en/post/a/) [workshop](/en/post/workshop/)** (v): [To](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [workshop](/en/post/workshop/), [usually](/en/post/usually/) [as](/en/post/as/) [a](/en/post/a/) learner [or](/en/post/or/) participant.
-   - [Definition](/en/post/definition/): [Engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) structured [activity](/en/post/activity/) [for](/en/post/for/) [learning](/en/post/learning/) [or](/en/post/or/) [skill](/en/post/skill/) [development](/en/post/development/).
-   - [Example](/en/post/example/): "I'll [be](/en/post/be/) attending [a](/en/post/a/) photography [workshop](/en/post/workshop/) [next](/en/post/next/) [weekend](/en/post/weekend/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [attend](/post/attend/) [a](/post/a/) [workshop](/post/workshop/)** (v): [To](/post/to/) [participate](/post/participate/) [in](/post/in/) [a](/post/a/) [workshop](/post/workshop/), [usually](/post/usually/) [as](/post/as/) [a](/post/a/) learner [or](/post/or/) participant.
+   - [Definition](/post/definition/): [Engage](/post/engage/) [in](/post/in/) [a](/post/a/) structured [activity](/post/activity/) [for](/post/for/) [learning](/post/learning/) [or](/post/or/) [skill](/post/skill/) [development](/post/development/).
+   - [Example](/post/example/): "I'll [be](/post/be/) attending [a](/post/a/) photography [workshop](/post/workshop/) [next](/post/next/) [weekend](/post/weekend/)."
 
-2. **[To](/en/post/to/) [run](/en/post/run/) [a](/en/post/a/) [workshop](/en/post/workshop/)** (v): [To](/en/post/to/) [organize](/en/post/organize/) [and](/en/post/and/) facilitate [a](/en/post/a/) [workshop](/en/post/workshop/), [often](/en/post/often/) [as](/en/post/as/) an instructor [or](/en/post/or/) facilitator.
-   - [Definition](/en/post/definition/): [Lead](/en/post/lead/) [or](/en/post/or/) [coordinate](/en/post/coordinate/) [a](/en/post/a/) [session](/en/post/session/) [to](/en/post/to/) [teach](/en/post/teach/) [or](/en/post/or/) [guide](/en/post/guide/) others.
-   - [Example](/en/post/example/): "She's running [a](/en/post/a/) [writing](/en/post/writing/) [workshop](/en/post/workshop/) [at](/en/post/at/) [the](/en/post/the/) [local](/en/post/local/) [library](/en/post/library/)."
+2. **[To](/post/to/) [run](/post/run/) [a](/post/a/) [workshop](/post/workshop/)** (v): [To](/post/to/) [organize](/post/organize/) [and](/post/and/) facilitate [a](/post/a/) [workshop](/post/workshop/), [often](/post/often/) [as](/post/as/) an instructor [or](/post/or/) facilitator.
+   - [Definition](/post/definition/): [Lead](/post/lead/) [or](/post/or/) [coordinate](/post/coordinate/) [a](/post/a/) [session](/post/session/) [to](/post/to/) [teach](/post/teach/) [or](/post/or/) [guide](/post/guide/) others.
+   - [Example](/post/example/): "She's running [a](/post/a/) [writing](/post/writing/) [workshop](/post/workshop/) [at](/post/at/) [the](/post/the/) [local](/post/local/) [library](/post/library/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Workshop-based** (adj): Relating [to](/en/post/to/) [or](/en/post/or/) characterized [by](/en/post/by/) workshops [or](/en/post/or/) activities conducted [in](/en/post/in/) [a](/en/post/a/) [workshop](/en/post/workshop/) [setting](/en/post/setting/).
-   - [Definition](/en/post/definition/): Focused [on](/en/post/on/) [practical](/en/post/practical/) exercises [or](/en/post/or/) hands-on [learning](/en/post/learning/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) workshop-based [training](/en/post/training/) [program](/en/post/program/) has been [very](/en/post/very/) [effective](/en/post/effective/)."
+### [Adjective](/post/adjective/)
+1. **Workshop-based** (adj): Relating [to](/post/to/) [or](/post/or/) characterized [by](/post/by/) workshops [or](/post/or/) activities conducted [in](/post/in/) [a](/post/a/) [workshop](/post/workshop/) [setting](/post/setting/).
+   - [Definition](/post/definition/): Focused [on](/post/on/) [practical](/post/practical/) exercises [or](/post/or/) hands-on [learning](/post/learning/).
+   - [Example](/post/example/): "[The](/post/the/) workshop-based [training](/post/training/) [program](/post/program/) has been [very](/post/very/) [effective](/post/effective/)."
 
 ## Phrases
-- "[Attend](/en/post/attend/) [a](/en/post/a/) [workshop](/en/post/workshop/) [on](/en/post/on/) X" refers [to](/en/post/to/) participating [in](/en/post/in/) [a](/en/post/a/) focused [session](/en/post/session/) [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/).
-- "[Run](/en/post/run/) [a](/en/post/a/) DIY [workshop](/en/post/workshop/)" describes [a](/en/post/a/) self-guided [or](/en/post/or/) hands-on [activity](/en/post/activity/).
-- "[Community](/en/post/community/) [workshop](/en/post/workshop/) [series](/en/post/series/)" denotes [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) workshops [open](/en/post/open/) [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/).
+- "[Attend](/post/attend/) [a](/post/a/) [workshop](/post/workshop/) [on](/post/on/) X" refers [to](/post/to/) participating [in](/post/in/) [a](/post/a/) focused [session](/post/session/) [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/).
+- "[Run](/post/run/) [a](/post/a/) DIY [workshop](/post/workshop/)" describes [a](/post/a/) self-guided [or](/post/or/) hands-on [activity](/post/activity/).
+- "[Community](/post/community/) [workshop](/post/workshop/) [series](/post/series/)" denotes [a](/post/a/) [series](/post/series/) [of](/post/of/) workshops [open](/post/open/) [to](/post/to/) [the](/post/the/) [public](/post/public/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [art](/en/post/art/) [school](/en/post/school/) offers [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) workshops [on](/en/post/on/) [painting](/en/post/painting/) techniques."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) led [a](/en/post/a/) [workshop](/en/post/workshop/) [on](/en/post/on/) [public](/en/post/public/) speaking [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) aspiring entrepreneurs."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's workshop-based [training](/en/post/training/) improved [employee](/en/post/employee/) productivity."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [art](/post/art/) [school](/post/school/) offers [a](/post/a/) [variety](/post/variety/) [of](/post/of/) workshops [on](/post/on/) [painting](/post/painting/) techniques."
+- **[Verb](/post/verb/)**: "[He](/post/he/) led [a](/post/a/) [workshop](/post/workshop/) [on](/post/on/) [public](/post/public/) speaking [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) aspiring entrepreneurs."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) company's workshop-based [training](/post/training/) improved [employee](/post/employee/) productivity."
 
 ## Synonyms
-- [Training](/en/post/training/) [session](/en/post/session/)
+- [Training](/post/training/) [session](/post/session/)
 - Seminar
-- [Class](/en/post/class/)
+- [Class](/post/class/)
 - Tutorial
-- [Session](/en/post/session/)
-- [Course](/en/post/course/)
+- [Session](/post/session/)
+- [Course](/post/course/)
 -坊
-- [Lab](/en/post/lab/) ([in](/en/post/in/) [a](/en/post/a/) [scientific](/en/post/scientific/) context)
+- [Lab](/post/lab/) ([in](/post/in/) [a](/post/a/) [scientific](/post/scientific/) context)
 - Gathering
-- [Event](/en/post/event/) ([for](/en/post/for/) [learning](/en/post/learning/))
+- [Event](/post/event/) ([for](/post/for/) [learning](/post/learning/))

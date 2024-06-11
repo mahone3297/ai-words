@@ -11,22 +11,22 @@ keywords = ['ai words', 'departure']
 /ˈdɛpɑːrtʃər/
 
 ## 释义
-- **名词**: 离开，出发；启程。例如: "[Their](/post/their/) [departure](/post/departure/) [for](/post/for/) [the](/post/the/) [airport](/post/airport/) was delayed [due](/post/due/) [to](/post/to/) [traffic](/post/traffic/)."
-- **名词**: 离职，离职通知。例如: "[She](/post/she/) announced [her](/post/her/) [departure](/post/departure/) [from](/post/from/) [the](/post/the/) [company](/post/company/) [after](/post/after/) 10 years [of](/post/of/) [service](/post/service/)."
-- **名词**: 开始，起点。例如: "[The](/post/the/) [departure](/post/departure/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [project](/post/project/) marked an [exciting](/post/exciting/) [time](/post/time/) [for](/post/for/) [the](/post/the/) [team](/post/team/)."
+- **名词**: 离开，出发；启程。例如: "[Their](/zh/post/their/) [departure](/zh/post/departure/) [for](/zh/post/for/) [the](/zh/post/the/) [airport](/zh/post/airport/) was delayed [due](/zh/post/due/) [to](/zh/post/to/) [traffic](/zh/post/traffic/)."
+- **名词**: 离职，离职通知。例如: "[She](/zh/post/she/) announced [her](/zh/post/her/) [departure](/zh/post/departure/) [from](/zh/post/from/) [the](/zh/post/the/) [company](/zh/post/company/) [after](/zh/post/after/) 10 years [of](/zh/post/of/) [service](/zh/post/service/)."
+- **名词**: 开始，起点。例如: "[The](/zh/post/the/) [departure](/zh/post/departure/) [of](/zh/post/of/) [the](/zh/post/the/) [new](/zh/post/new/) [project](/zh/post/project/) marked an [exciting](/zh/post/exciting/) [time](/zh/post/time/) [for](/zh/post/for/) [the](/zh/post/the/) [team](/zh/post/team/)."
 
 ## 短语
-- "[departure](/post/departure/) [time](/post/time/)" 离开或出发的时间。
-- "[without](/post/without/) [prior](/post/prior/) [notice](/post/notice/) [of](/post/of/) [departure](/post/departure/)" 未事先告知就离开。
+- "[departure](/zh/post/departure/) [time](/zh/post/time/)" 离开或出发的时间。
+- "[without](/zh/post/without/) [prior](/zh/post/prior/) [notice](/zh/post/notice/) [of](/zh/post/of/) [departure](/zh/post/departure/)" 未事先告知就离开。
 
 ## 例句
-- 名词: "[The](/post/the/) ship's [departure](/post/departure/) was scheduled [for](/post/for/) [sunrise](/post/sunrise/)."
-- 名词: "[His](/post/his/) [sudden](/post/sudden/) [departure](/post/departure/) raised [many](/post/many/) questions [among](/post/among/) [his](/post/his/) colleagues."
-- 名词: "[The](/post/the/) band's [departure](/post/departure/) [from](/post/from/) [their](/post/their/) [usual](/post/usual/) [style](/post/style/) was met [with](/post/with/) mixed reviews."
+- 名词: "[The](/zh/post/the/) ship's [departure](/zh/post/departure/) was scheduled [for](/zh/post/for/) [sunrise](/zh/post/sunrise/)."
+- 名词: "[His](/zh/post/his/) [sudden](/zh/post/sudden/) [departure](/zh/post/departure/) raised [many](/zh/post/many/) questions [among](/zh/post/among/) [his](/zh/post/his/) colleagues."
+- 名词: "[The](/zh/post/the/) band's [departure](/zh/post/departure/) [from](/zh/post/from/) [their](/zh/post/their/) [usual](/zh/post/usual/) [style](/zh/post/style/) was met [with](/zh/post/with/) mixed reviews."
 
 ## 同义词
 - Leaving
-- [Exit](/post/exit/)
+- [Exit](/zh/post/exit/)
 - Going
-- [Departure](/post/departure/)
-- [Setting](/post/setting/) [off](/post/off/)
+- [Departure](/zh/post/departure/)
+- [Setting](/zh/post/setting/) [off](/zh/post/off/)

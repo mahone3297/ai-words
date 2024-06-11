@@ -7,37 +7,37 @@ description = '[krai] vi.哭，哭泣；叫喊'
 keywords = ['ai words', 'cry']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kraɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [loud](/en/post/loud/), [emotional](/en/post/emotional/) [expression](/en/post/expression/) [of](/en/post/of/) grief, [pain](/en/post/pain/), [or](/en/post/or/) [strong](/en/post/strong/) [feeling](/en/post/feeling/); [a](/en/post/a/) [sob](/en/post/sob/) [or](/en/post/or/) wail. 2. [A](/en/post/a/) tearful outburst [or](/en/post/or/) shedding [of](/en/post/of/) tears, [often](/en/post/often/) [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) an [emotional](/en/post/emotional/) stimulus. 3. [A](/en/post/a/) [shout](/en/post/shout/) [or](/en/post/or/) [cry](/en/post/cry/) [of](/en/post/of/) [alarm](/en/post/alarm/) [or](/en/post/or/) warning. 4. (figurative) [A](/en/post/a/) [public](/en/post/public/) demonstration [of](/en/post/of/) [support](/en/post/support/) [or](/en/post/or/) disapproval.
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [emit](/en/post/emit/) [a](/en/post/a/) [loud](/en/post/loud/), [emotional](/en/post/emotional/) [sound](/en/post/sound/), typically [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) [intense](/en/post/intense/) [emotion](/en/post/emotion/). 2. [To](/en/post/to/) [express](/en/post/express/) [sorrow](/en/post/sorrow/), grief, [or](/en/post/or/) lamentation. 3. [To](/en/post/to/) [call](/en/post/call/) [out](/en/post/out/) [or](/en/post/or/) beckon [someone](/en/post/someone/), [often](/en/post/often/) loudly. 4. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) vocal [protest](/en/post/protest/) [or](/en/post/or/) [complaint](/en/post/complaint/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [loud](/post/loud/), [emotional](/post/emotional/) [expression](/post/expression/) [of](/post/of/) grief, [pain](/post/pain/), [or](/post/or/) [strong](/post/strong/) [feeling](/post/feeling/); [a](/post/a/) [sob](/post/sob/) [or](/post/or/) wail. 2. [A](/post/a/) tearful outburst [or](/post/or/) shedding [of](/post/of/) tears, [often](/post/often/) [in](/post/in/) [response](/post/response/) [to](/post/to/) an [emotional](/post/emotional/) stimulus. 3. [A](/post/a/) [shout](/post/shout/) [or](/post/or/) [cry](/post/cry/) [of](/post/of/) [alarm](/post/alarm/) [or](/post/or/) warning. 4. (figurative) [A](/post/a/) [public](/post/public/) demonstration [of](/post/of/) [support](/post/support/) [or](/post/or/) disapproval.
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [emit](/post/emit/) [a](/post/a/) [loud](/post/loud/), [emotional](/post/emotional/) [sound](/post/sound/), typically [in](/post/in/) [response](/post/response/) [to](/post/to/) [intense](/post/intense/) [emotion](/post/emotion/). 2. [To](/post/to/) [express](/post/express/) [sorrow](/post/sorrow/), grief, [or](/post/or/) lamentation. 3. [To](/post/to/) [call](/post/call/) [out](/post/out/) [or](/post/or/) beckon [someone](/post/someone/), [often](/post/often/) loudly. 4. [To](/post/to/) [make](/post/make/) [a](/post/a/) vocal [protest](/post/protest/) [or](/post/or/) [complaint](/post/complaint/).
 
 ## Phrases
-- "[Cry](/en/post/cry/) [out](/en/post/out/) [for](/en/post/for/) [help](/en/post/help/)" indicates [a](/en/post/a/) [strong](/en/post/strong/) [need](/en/post/need/) [for](/en/post/for/) assistance.
-- "[Cry](/en/post/cry/) [oneself](/en/post/oneself/) [to](/en/post/to/) [sleep](/en/post/sleep/)" [means](/en/post/means/) [to](/en/post/to/) [fall](/en/post/fall/) [asleep](/en/post/asleep/) [after](/en/post/after/) crying [from](/en/post/from/) [sadness](/en/post/sadness/) [or](/en/post/or/) [emotional](/en/post/emotional/) exhaustion.
-- "[Cry](/en/post/cry/) [wolf](/en/post/wolf/)" ([idiom](/en/post/idiom/)) warns [of](/en/post/of/) [a](/en/post/a/) [false](/en/post/false/) [alarm](/en/post/alarm/) [or](/en/post/or/) [a](/en/post/a/) repeated [claim](/en/post/claim/) [that](/en/post/that/) is [not](/en/post/not/) credible.
+- "[Cry](/post/cry/) [out](/post/out/) [for](/post/for/) [help](/post/help/)" indicates [a](/post/a/) [strong](/post/strong/) [need](/post/need/) [for](/post/for/) assistance.
+- "[Cry](/post/cry/) [oneself](/post/oneself/) [to](/post/to/) [sleep](/post/sleep/)" [means](/post/means/) [to](/post/to/) [fall](/post/fall/) [asleep](/post/asleep/) [after](/post/after/) crying [from](/post/from/) [sadness](/post/sadness/) [or](/post/or/) [emotional](/post/emotional/) exhaustion.
+- "[Cry](/post/cry/) [wolf](/post/wolf/)" ([idiom](/post/idiom/)) warns [of](/post/of/) [a](/post/a/) [false](/post/false/) [alarm](/post/alarm/) [or](/post/or/) [a](/post/a/) repeated [claim](/post/claim/) [that](/post/that/) is [not](/post/not/) credible.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) couldn't [hold](/en/post/hold/) [back](/en/post/back/) [her](/en/post/her/) tears [when](/en/post/when/) [she](/en/post/she/) heard [the](/en/post/the/) [sad](/en/post/sad/) [news](/en/post/news/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [baby](/en/post/baby/) cried [all](/en/post/all/) [night](/en/post/night/), keeping [the](/en/post/the/) parents [awake](/en/post/awake/)."
-- **Interjection**: "[Oh](/en/post/oh/) [no](/en/post/no/)! [The](/en/post/the/) [baby](/en/post/baby/) [just](/en/post/just/) started crying."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) couldn't [hold](/post/hold/) [back](/post/back/) [her](/post/her/) tears [when](/post/when/) [she](/post/she/) heard [the](/post/the/) [sad](/post/sad/) [news](/post/news/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [baby](/post/baby/) cried [all](/post/all/) [night](/post/night/), keeping [the](/post/the/) parents [awake](/post/awake/)."
+- **Interjection**: "[Oh](/post/oh/) [no](/post/no/)! [The](/post/the/) [baby](/post/baby/) [just](/post/just/) started crying."
 
 ## Synonyms
-- [Sob](/en/post/sob/)
-- [Weep](/en/post/weep/)
-- [Groan](/en/post/groan/)
-- [Sigh](/en/post/sigh/)
+- [Sob](/post/sob/)
+- [Weep](/post/weep/)
+- [Groan](/post/groan/)
+- [Sigh](/post/sigh/)
 - Wail
 - Lament
-- [Protest](/en/post/protest/)
-- [Complain](/en/post/complain/)
+- [Protest](/post/protest/)
+- [Complain](/post/complain/)
 
 ## Antonyms
-- [Laugh](/en/post/laugh/)
-- [Smile](/en/post/smile/)
-- [Whisper](/en/post/whisper/)
-- [Whisper](/en/post/whisper/)
-- [Cheer](/en/post/cheer/)
-- [Silence](/en/post/silence/)
+- [Laugh](/post/laugh/)
+- [Smile](/post/smile/)
+- [Whisper](/post/whisper/)
+- [Whisper](/post/whisper/)
+- [Cheer](/post/cheer/)
+- [Silence](/post/silence/)

@@ -7,35 +7,35 @@ description = '[iksˈpləuʒən] n.爆炸，爆发，炸裂'
 keywords = ['ai words', 'explosion']
 +++
 
-## [Word](/en/post/word/): [Explosion](/en/post/explosion/)
+## [Word](/post/word/): [Explosion](/post/explosion/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈspləʒən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [violent](/en/post/violent/) [and](/en/post/and/) [sudden](/en/post/sudden/) [release](/en/post/release/) [of](/en/post/of/) [energy](/en/post/energy/), [often](/en/post/often/) resulting [from](/en/post/from/) [chemical](/en/post/chemical/), [nuclear](/en/post/nuclear/), [or](/en/post/or/) [mechanical](/en/post/mechanical/) forces, causing [destruction](/en/post/destruction/) [or](/en/post/or/) chaos. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) fireworks [display](/en/post/display/) ended [with](/en/post/with/) [a](/en/post/a/) [grand](/en/post/grand/) [explosion](/en/post/explosion/) [of](/en/post/of/) [light](/en/post/light/) [and](/en/post/and/) [sound](/en/post/sound/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [violent](/post/violent/) [and](/post/and/) [sudden](/post/sudden/) [release](/post/release/) [of](/post/of/) [energy](/post/energy/), [often](/post/often/) resulting [from](/post/from/) [chemical](/post/chemical/), [nuclear](/post/nuclear/), [or](/post/or/) [mechanical](/post/mechanical/) forces, causing [destruction](/post/destruction/) [or](/post/or/) chaos. [For](/post/for/) [example](/post/example/): "[The](/post/the/) fireworks [display](/post/display/) ended [with](/post/with/) [a](/post/a/) [grand](/post/grand/) [explosion](/post/explosion/) [of](/post/of/) [light](/post/light/) [and](/post/and/) [sound](/post/sound/)."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- "[A](/en/post/a/) [gas](/en/post/gas/) [explosion](/en/post/explosion/) destroyed [several](/en/post/several/) buildings [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/) center."
-- "[There](/en/post/there/) was an [explosion](/en/post/explosion/) [of](/en/post/of/) [laughter](/en/post/laughter/) [in](/en/post/in/) [the](/en/post/the/) theater [when](/en/post/when/) [the](/en/post/the/) comedian delivered [his](/en/post/his/) punchline."
-- "[The](/en/post/the/) [big](/en/post/big/) [bang](/en/post/bang/) [theory](/en/post/theory/) posits [that](/en/post/that/) [the](/en/post/the/) [universe](/en/post/universe/) began [with](/en/post/with/) [a](/en/post/a/) cosmic [explosion](/en/post/explosion/)."
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- "[A](/post/a/) [gas](/post/gas/) [explosion](/post/explosion/) destroyed [several](/post/several/) buildings [in](/post/in/) [the](/post/the/) [city](/post/city/) center."
+- "[There](/post/there/) was an [explosion](/post/explosion/) [of](/post/of/) [laughter](/post/laughter/) [in](/post/in/) [the](/post/the/) theater [when](/post/when/) [the](/post/the/) comedian delivered [his](/post/his/) punchline."
+- "[The](/post/the/) [big](/post/big/) [bang](/post/bang/) [theory](/post/theory/) posits [that](/post/that/) [the](/post/the/) [universe](/post/universe/) began [with](/post/with/) [a](/post/a/) cosmic [explosion](/post/explosion/)."
 
 ## Phrases
-- "[Explosion](/en/post/explosion/) [of](/en/post/of/) [color](/en/post/color/)": [A](/en/post/a/) metaphorical [expression](/en/post/expression/) describing [a](/en/post/a/) [sudden](/en/post/sudden/) [burst](/en/post/burst/) [or](/en/post/or/) profusion [of](/en/post/of/) colors.
-- "An [explosion](/en/post/explosion/) [of](/en/post/of/) [anger](/en/post/anger/)": [A](/en/post/a/) [sudden](/en/post/sudden/) outburst [of](/en/post/of/) [strong](/en/post/strong/) emotions, [especially](/en/post/especially/) [rage](/en/post/rage/).
-- "[In](/en/post/in/) [the](/en/post/the/) aftermath [of](/en/post/of/) [the](/en/post/the/) [explosion](/en/post/explosion/)": Refers [to](/en/post/to/) [the](/en/post/the/) [period](/en/post/period/) [following](/en/post/following/) [a](/en/post/a/) destructive [event](/en/post/event/).
+- "[Explosion](/post/explosion/) [of](/post/of/) [color](/post/color/)": [A](/post/a/) metaphorical [expression](/post/expression/) describing [a](/post/a/) [sudden](/post/sudden/) [burst](/post/burst/) [or](/post/or/) profusion [of](/post/of/) colors.
+- "An [explosion](/post/explosion/) [of](/post/of/) [anger](/post/anger/)": [A](/post/a/) [sudden](/post/sudden/) outburst [of](/post/of/) [strong](/post/strong/) emotions, [especially](/post/especially/) [rage](/post/rage/).
+- "[In](/post/in/) [the](/post/the/) aftermath [of](/post/of/) [the](/post/the/) [explosion](/post/explosion/)": Refers [to](/post/to/) [the](/post/the/) [period](/post/period/) [following](/post/following/) [a](/post/a/) destructive [event](/post/event/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) controlled [explosion](/en/post/explosion/) [by](/en/post/by/) [the](/en/post/the/) [bomb](/en/post/bomb/) squad [safely](/en/post/safely/) disarmed [the](/en/post/the/) [device](/en/post/device/)."
-- "[Her](/en/post/her/) [creative](/en/post/creative/) talents led [to](/en/post/to/) an [explosion](/en/post/explosion/) [of](/en/post/of/) [artistic](/en/post/artistic/) [expression](/en/post/expression/) [in](/en/post/in/) [her](/en/post/her/) [work](/en/post/work/)."
-- "[The](/en/post/the/) chef's [new](/en/post/new/) [dish](/en/post/dish/) caused an [explosion](/en/post/explosion/) [of](/en/post/of/) flavors [in](/en/post/in/) [my](/en/post/my/) [mouth](/en/post/mouth/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) controlled [explosion](/post/explosion/) [by](/post/by/) [the](/post/the/) [bomb](/post/bomb/) squad [safely](/post/safely/) disarmed [the](/post/the/) [device](/post/device/)."
+- "[Her](/post/her/) [creative](/post/creative/) talents led [to](/post/to/) an [explosion](/post/explosion/) [of](/post/of/) [artistic](/post/artistic/) [expression](/post/expression/) [in](/post/in/) [her](/post/her/) [work](/post/work/)."
+- "[The](/post/the/) chef's [new](/post/new/) [dish](/post/dish/) caused an [explosion](/post/explosion/) [of](/post/of/) flavors [in](/post/in/) [my](/post/my/) [mouth](/post/mouth/)."
 
 ## Synonyms
-- [Blast](/en/post/blast/)
+- [Blast](/post/blast/)
 - Detonation
 - Eruption
 - Implosion
-- Outburst ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) emotions)
-- [Burst](/en/post/burst/) ([for](/en/post/for/) suddenness [or](/en/post/or/) [rapid](/en/post/rapid/) [increase](/en/post/increase/), e.g., [population](/en/post/population/) [burst](/en/post/burst/)) 
-- Flare-up ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [conflict](/en/post/conflict/) [or](/en/post/or/) [disease](/en/post/disease/) symptoms)
-- Conflagration ([for](/en/post/for/) large-scale fires [or](/en/post/or/) disasters)
+- Outburst ([in](/post/in/) [the](/post/the/) context [of](/post/of/) emotions)
+- [Burst](/post/burst/) ([for](/post/for/) suddenness [or](/post/or/) [rapid](/post/rapid/) [increase](/post/increase/), e.g., [population](/post/population/) [burst](/post/burst/)) 
+- Flare-up ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [conflict](/post/conflict/) [or](/post/or/) [disease](/post/disease/) symptoms)
+- Conflagration ([for](/post/for/) large-scale fires [or](/post/or/) disasters)

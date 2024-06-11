@@ -11,24 +11,24 @@ keywords = ['ai words', 'short']
 /ʃɔːrt/
 
 ## 释义
-- **形容词**: 短的，不长的。例如: "[The](/post/the/) [dress](/post/dress/) is [too](/post/too/) [short](/post/short/) [for](/post/for/) [her](/post/her/)."
-- **名词**: 短裤，短裙，或其他长度较短的衣物。例如: "[He](/post/he/) wore [a](/post/a/) [pair](/post/pair/) [of](/post/of/) denim shorts [on](/post/on/) [a](/post/a/) [hot](/post/hot/) [day](/post/day/)."
-- **动词**: 缩短，使变短。例如: "[Can](/post/can/) [you](/post/you/) shorten [this](/post/this/) [story](/post/story/) [for](/post/for/) [me](/post/me/)?"
-- **副词**: 简短地，短暂地。例如: "[He](/post/he/) answered [the](/post/the/) [question](/post/question/) [short](/post/short/) [and](/post/and/) [to](/post/to/) [the](/post/the/) [point](/post/point/)."
+- **形容词**: 短的，不长的。例如: "[The](/zh/post/the/) [dress](/zh/post/dress/) is [too](/zh/post/too/) [short](/zh/post/short/) [for](/zh/post/for/) [her](/zh/post/her/)."
+- **名词**: 短裤，短裙，或其他长度较短的衣物。例如: "[He](/zh/post/he/) wore [a](/zh/post/a/) [pair](/zh/post/pair/) [of](/zh/post/of/) denim shorts [on](/zh/post/on/) [a](/zh/post/a/) [hot](/zh/post/hot/) [day](/zh/post/day/)."
+- **动词**: 缩短，使变短。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) shorten [this](/zh/post/this/) [story](/zh/post/story/) [for](/zh/post/for/) [me](/zh/post/me/)?"
+- **副词**: 简短地，短暂地。例如: "[He](/zh/post/he/) answered [the](/zh/post/the/) [question](/zh/post/question/) [short](/zh/post/short/) [and](/zh/post/and/) [to](/zh/post/to/) [the](/zh/post/the/) [point](/zh/post/point/)."
 
 ## 短语
-- "[at](/post/at/) [short](/post/short/) [notice](/post/notice/)" 表示短时间内，突然。例如: "[She](/post/she/) had [to](/post/to/) [leave](/post/leave/) [at](/post/at/) [short](/post/short/) [notice](/post/notice/) [due](/post/due/) [to](/post/to/) an [emergency](/post/emergency/)."
-- "[come](/post/come/) [up](/post/up/) [short](/post/short/)" 意味未能达到期望或目标。例如: "[Their](/post/their/) efforts came [up](/post/up/) [short](/post/short/) [in](/post/in/) [the](/post/the/) [final](/post/final/) [match](/post/match/)."
+- "[at](/zh/post/at/) [short](/zh/post/short/) [notice](/zh/post/notice/)" 表示短时间内，突然。例如: "[She](/zh/post/she/) had [to](/zh/post/to/) [leave](/zh/post/leave/) [at](/zh/post/at/) [short](/zh/post/short/) [notice](/zh/post/notice/) [due](/zh/post/due/) [to](/zh/post/to/) an [emergency](/zh/post/emergency/)."
+- "[come](/zh/post/come/) [up](/zh/post/up/) [short](/zh/post/short/)" 意味未能达到期望或目标。例如: "[Their](/zh/post/their/) efforts came [up](/zh/post/up/) [short](/zh/post/short/) [in](/zh/post/in/) [the](/zh/post/the/) [final](/zh/post/final/) [match](/zh/post/match/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) [summer](/post/summer/) days are [short](/post/short/) [in](/post/in/) [this](/post/this/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [world](/post/world/)."
-- 名词: "[She](/post/she/) bought [a](/post/a/) [new](/post/new/) [red](/post/red/) [short](/post/short/) [for](/post/for/) [her](/post/her/) [vacation](/post/vacation/)."
-- 动词: "I [need](/post/need/) [to](/post/to/) [short](/post/short/) [this](/post/this/) [piece](/post/piece/) [of](/post/of/) [fabric](/post/fabric/) [to](/post/to/) [fit](/post/fit/) [the](/post/the/) [frame](/post/frame/)."
-- 副词: "[He](/post/he/) replied [to](/post/to/) [my](/post/my/) [question](/post/question/) [short](/post/short/) [and](/post/and/) didn't [elaborate](/post/elaborate/) [further](/post/further/)."
+- 形容词: "[The](/zh/post/the/) [summer](/zh/post/summer/) days are [short](/zh/post/short/) [in](/zh/post/in/) [this](/zh/post/this/) [part](/zh/post/part/) [of](/zh/post/of/) [the](/zh/post/the/) [world](/zh/post/world/)."
+- 名词: "[She](/zh/post/she/) bought [a](/zh/post/a/) [new](/zh/post/new/) [red](/zh/post/red/) [short](/zh/post/short/) [for](/zh/post/for/) [her](/zh/post/her/) [vacation](/zh/post/vacation/)."
+- 动词: "I [need](/zh/post/need/) [to](/zh/post/to/) [short](/zh/post/short/) [this](/zh/post/this/) [piece](/zh/post/piece/) [of](/zh/post/of/) [fabric](/zh/post/fabric/) [to](/zh/post/to/) [fit](/zh/post/fit/) [the](/zh/post/the/) [frame](/zh/post/frame/)."
+- 副词: "[He](/zh/post/he/) replied [to](/zh/post/to/) [my](/zh/post/my/) [question](/zh/post/question/) [short](/zh/post/short/) [and](/zh/post/and/) didn't [elaborate](/zh/post/elaborate/) [further](/zh/post/further/)."
 
 ## 同义词
-- [Brief](/post/brief/)
+- [Brief](/zh/post/brief/)
 - Shortened
 - Briefly
 - concise
-- [Limited](/post/limited/)
+- [Limited](/zh/post/limited/)

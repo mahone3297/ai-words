@@ -7,32 +7,32 @@ description = '[mʌnθ] n.月，月份'
 keywords = ['ai words', 'month']
 +++
 
-## [Word](/en/post/word/): [Month](/en/post/month/)
+## [Word](/post/word/): [Month](/post/month/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /mʌnθ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [time](/en/post/time/) [equivalent](/en/post/equivalent/) [to](/en/post/to/) [approximately](/en/post/approximately/) 1/12th [of](/en/post/of/) [a](/en/post/a/) [year](/en/post/year/), [usually](/en/post/usually/) consisting [of](/en/post/of/) 30 [or](/en/post/or/) 31 days, [with](/en/post/with/) February having 28 [or](/en/post/or/) 29 days [in](/en/post/in/) [a](/en/post/a/) [leap](/en/post/leap/) [year](/en/post/year/). It's [a](/en/post/a/) periodical [division](/en/post/division/) [of](/en/post/of/) [time](/en/post/time/) traditionally reckoned [by](/en/post/by/) [the](/en/post/the/) moon's phases [or](/en/post/or/) movements.
+- **[Noun](/post/noun/)**: [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [time](/post/time/) [equivalent](/post/equivalent/) [to](/post/to/) [approximately](/post/approximately/) 1/12th [of](/post/of/) [a](/post/a/) [year](/post/year/), [usually](/post/usually/) consisting [of](/post/of/) 30 [or](/post/or/) 31 days, [with](/post/with/) February having 28 [or](/post/or/) 29 days [in](/post/in/) [a](/post/a/) [leap](/post/leap/) [year](/post/year/). It's [a](/post/a/) periodical [division](/post/division/) [of](/post/of/) [time](/post/time/) traditionally reckoned [by](/post/by/) [the](/post/the/) moon's phases [or](/post/or/) movements.
 
-### [Noun](/en/post/noun/) Examples
-- _"January is [the](/en/post/the/) [first](/en/post/first/) [month](/en/post/month/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/)."_
-- _"[She](/en/post/she/) was [born](/en/post/born/) [on](/en/post/on/) [the](/en/post/the/) [third](/en/post/third/) [month](/en/post/month/) [after](/en/post/after/) [her](/en/post/her/) parents' [wedding](/en/post/wedding/) anniversary."_
-- _"[The](/en/post/the/) [project](/en/post/project/) [must](/en/post/must/) [be](/en/post/be/) completed [within](/en/post/within/) [this](/en/post/this/) [month](/en/post/month/)."_
+### [Noun](/post/noun/) Examples
+- _"January is [the](/post/the/) [first](/post/first/) [month](/post/month/) [of](/post/of/) [the](/post/the/) [year](/post/year/)."_
+- _"[She](/post/she/) was [born](/post/born/) [on](/post/on/) [the](/post/the/) [third](/post/third/) [month](/post/month/) [after](/post/after/) [her](/post/her/) parents' [wedding](/post/wedding/) anniversary."_
+- _"[The](/post/the/) [project](/post/project/) [must](/post/must/) [be](/post/be/) completed [within](/post/within/) [this](/post/this/) [month](/post/month/)."_
 
 ## Phrases
-- "Month-to-month" - describing [something](/en/post/something/) [that](/en/post/that/) happens [or](/en/post/or/) changes [every](/en/post/every/) [month](/en/post/month/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) rental agreements [without](/en/post/without/) [a](/en/post/a/) fixed [term](/en/post/term/).
-- "[Once](/en/post/once/) [a](/en/post/a/) [month](/en/post/month/)" - indicating [something](/en/post/something/) [that](/en/post/that/) occurs [with](/en/post/with/) [monthly](/en/post/monthly/) [frequency](/en/post/frequency/).
-- "Month-end closing" - [a](/en/post/a/) [financial](/en/post/financial/) [process](/en/post/process/) [where](/en/post/where/) accounts are reconciled [and](/en/post/and/) closed [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [each](/en/post/each/) [month](/en/post/month/).
+- "Month-to-month" - describing [something](/post/something/) [that](/post/that/) happens [or](/post/or/) changes [every](/post/every/) [month](/post/month/), [often](/post/often/) [used](/post/used/) [in](/post/in/) rental agreements [without](/post/without/) [a](/post/a/) fixed [term](/post/term/).
+- "[Once](/post/once/) [a](/post/a/) [month](/post/month/)" - indicating [something](/post/something/) [that](/post/that/) occurs [with](/post/with/) [monthly](/post/monthly/) [frequency](/post/frequency/).
+- "Month-end closing" - [a](/post/a/) [financial](/post/financial/) [process](/post/process/) [where](/post/where/) accounts are reconciled [and](/post/and/) closed [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [each](/post/each/) [month](/post/month/).
 
-## [Example](/en/post/example/) Sentences
-- _"[They](/en/post/they/) [have](/en/post/have/) been dating [for](/en/post/for/) [six](/en/post/six/) months [now](/en/post/now/)."_
-- _"[In](/en/post/in/) [many](/en/post/many/) cultures, [different](/en/post/different/) celebrations [occur](/en/post/occur/) [each](/en/post/each/) [month](/en/post/month/) [throughout](/en/post/throughout/) [the](/en/post/the/) [year](/en/post/year/)."_
-- _"[The](/en/post/the/) company's sales figures are calculated [on](/en/post/on/) [a](/en/post/a/) [monthly](/en/post/monthly/) [basis](/en/post/basis/)."_
+## [Example](/post/example/) Sentences
+- _"[They](/post/they/) [have](/post/have/) been dating [for](/post/for/) [six](/post/six/) months [now](/post/now/)."_
+- _"[In](/post/in/) [many](/post/many/) cultures, [different](/post/different/) celebrations [occur](/post/occur/) [each](/post/each/) [month](/post/month/) [throughout](/post/throughout/) [the](/post/the/) [year](/post/year/)."_
+- _"[The](/post/the/) company's sales figures are calculated [on](/post/on/) [a](/post/a/) [monthly](/post/monthly/) [basis](/post/basis/)."_
 
 ## Synonyms
-- Lunar [cycle](/en/post/cycle/)
-- [Period](/en/post/period/)
-- [Term](/en/post/term/)
-- Epoch ([in](/en/post/in/) [a](/en/post/a/) [more](/en/post/more/) [formal](/en/post/formal/) context)
-- [Time](/en/post/time/) [span](/en/post/span/) (referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [block](/en/post/block/) [of](/en/post/of/) [one](/en/post/one/) [month](/en/post/month/))
+- Lunar [cycle](/post/cycle/)
+- [Period](/post/period/)
+- [Term](/post/term/)
+- Epoch ([in](/post/in/) [a](/post/a/) [more](/post/more/) [formal](/post/formal/) context)
+- [Time](/post/time/) [span](/post/span/) (referring [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [block](/post/block/) [of](/post/of/) [one](/post/one/) [month](/post/month/))

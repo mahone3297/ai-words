@@ -12,23 +12,23 @@ keywords = ['ai words', 'recall']
 
 ## 释义
 - **动词**:
-  - 回忆；回想。例如: "I can't [recall](/post/recall/) [his](/post/his/) [name](/post/name/) [right](/post/right/) [now](/post/now/)."
-  - 召回；撤销。例如: "[The](/post/the/) [company](/post/company/) recalled [the](/post/the/) [faulty](/post/faulty/) products [from](/post/from/) [the](/post/the/) [market](/post/market/)."
-  - 请求（某人）回忆。例如: "[The](/post/the/) detective asked [the](/post/the/) [witness](/post/witness/) [to](/post/to/) [recall](/post/recall/) [the](/post/the/) events [of](/post/of/) [that](/post/that/) [night](/post/night/)."
+  - 回忆；回想。例如: "I can't [recall](/zh/post/recall/) [his](/zh/post/his/) [name](/zh/post/name/) [right](/zh/post/right/) [now](/zh/post/now/)."
+  - 召回；撤销。例如: "[The](/zh/post/the/) [company](/zh/post/company/) recalled [the](/zh/post/the/) [faulty](/zh/post/faulty/) products [from](/zh/post/from/) [the](/zh/post/the/) [market](/zh/post/market/)."
+  - 请求（某人）回忆。例如: "[The](/zh/post/the/) detective asked [the](/zh/post/the/) [witness](/zh/post/witness/) [to](/zh/post/to/) [recall](/zh/post/recall/) [the](/zh/post/the/) events [of](/zh/post/of/) [that](/zh/post/that/) [night](/zh/post/night/)."
 
 ## 短语
-- "[recall](/post/recall/) [something](/post/something/) [from](/post/from/) [memory](/post/memory/)" 意为从记忆中想起某事。
-- "[recall](/post/recall/) an [event](/post/event/)" 指回忆某个事件。
-- "[recall](/post/recall/) [a](/post/a/) [product](/post/product/)" 指召回产品。
+- "[recall](/zh/post/recall/) [something](/zh/post/something/) [from](/zh/post/from/) [memory](/zh/post/memory/)" 意为从记忆中想起某事。
+- "[recall](/zh/post/recall/) an [event](/zh/post/event/)" 指回忆某个事件。
+- "[recall](/zh/post/recall/) [a](/zh/post/a/) [product](/zh/post/product/)" 指召回产品。
 
 ## 例句
-- "[She](/post/she/) tried [to](/post/to/) [recall](/post/recall/) [the](/post/the/) details [of](/post/of/) [their](/post/their/) [conversation](/post/conversation/) [but](/post/but/) [it](/post/it/) was fading [away](/post/away/)."
-- "[The](/post/the/) [government](/post/government/) ordered [a](/post/a/) [recall](/post/recall/) [of](/post/of/) [all](/post/all/) cars [with](/post/with/) defective brakes."
-- "[The](/post/the/) therapist asked [him](/post/him/) [to](/post/to/) [recall](/post/recall/) [his](/post/his/) [childhood](/post/childhood/) experiences."
+- "[She](/zh/post/she/) tried [to](/zh/post/to/) [recall](/zh/post/recall/) [the](/zh/post/the/) details [of](/zh/post/of/) [their](/zh/post/their/) [conversation](/zh/post/conversation/) [but](/zh/post/but/) [it](/zh/post/it/) was fading [away](/zh/post/away/)."
+- "[The](/zh/post/the/) [government](/zh/post/government/) ordered [a](/zh/post/a/) [recall](/zh/post/recall/) [of](/zh/post/of/) [all](/zh/post/all/) cars [with](/zh/post/with/) defective brakes."
+- "[The](/zh/post/the/) therapist asked [him](/zh/post/him/) [to](/zh/post/to/) [recall](/zh/post/recall/) [his](/zh/post/his/) [childhood](/zh/post/childhood/) experiences."
 
 ## 同义词
-- [Remember](/post/remember/)
+- [Remember](/zh/post/remember/)
 - Retrieve
-- [Rely](/post/rely/) [on](/post/on/) [memory](/post/memory/)
-- [Bring](/post/bring/) [to](/post/to/) [mind](/post/mind/)
-- [Think](/post/think/) [back](/post/back/)
+- [Rely](/zh/post/rely/) [on](/zh/post/on/) [memory](/zh/post/memory/)
+- [Bring](/zh/post/bring/) [to](/zh/post/to/) [mind](/zh/post/mind/)
+- [Think](/zh/post/think/) [back](/zh/post/back/)

@@ -7,54 +7,54 @@ description = '[ˈwɔːtə] n.水 vt.使湿，灌溉'
 keywords = ['ai words', 'water']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɔːtər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Water](/en/post/water/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [chemical](/en/post/chemical/) [compound](/en/post/compound/) [with](/en/post/with/) [the](/en/post/the/) molecular [formula](/en/post/formula/) H2O, [essential](/en/post/essential/) [for](/en/post/for/) [life](/en/post/life/), consisting [of](/en/post/of/) [hydrogen](/en/post/hydrogen/) [and](/en/post/and/) oxygen, [found](/en/post/found/) [in](/en/post/in/) rivers, lakes, oceans, [and](/en/post/and/) [rain](/en/post/rain/). [It](/en/post/it/) is [a](/en/post/a/) [transparent](/en/post/transparent/), [nearly](/en/post/nearly/) colorless, tasteless, [and](/en/post/and/) odorless [substance](/en/post/substance/) [that](/en/post/that/) exists [in](/en/post/in/) [liquid](/en/post/liquid/), [solid](/en/post/solid/) ([ice](/en/post/ice/)), [and](/en/post/and/) [gaseous](/en/post/gaseous/) ([steam](/en/post/steam/)) states [at](/en/post/at/) [standard](/en/post/standard/) [temperature](/en/post/temperature/) [and](/en/post/and/) [pressure](/en/post/pressure/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) ecosystem relies [on](/en/post/on/) [clean](/en/post/clean/) [water](/en/post/water/) [for](/en/post/for/) survival."
-   - Synonyms: H2O, [liquid](/en/post/liquid/), aqueous, [moisture](/en/post/moisture/)
+### [Noun](/post/noun/)
+1. **[Water](/post/water/)** ([noun](/post/noun/)): [A](/post/a/) [chemical](/post/chemical/) [compound](/post/compound/) [with](/post/with/) [the](/post/the/) molecular [formula](/post/formula/) H2O, [essential](/post/essential/) [for](/post/for/) [life](/post/life/), consisting [of](/post/of/) [hydrogen](/post/hydrogen/) [and](/post/and/) oxygen, [found](/post/found/) [in](/post/in/) rivers, lakes, oceans, [and](/post/and/) [rain](/post/rain/). [It](/post/it/) is [a](/post/a/) [transparent](/post/transparent/), [nearly](/post/nearly/) colorless, tasteless, [and](/post/and/) odorless [substance](/post/substance/) [that](/post/that/) exists [in](/post/in/) [liquid](/post/liquid/), [solid](/post/solid/) ([ice](/post/ice/)), [and](/post/and/) [gaseous](/post/gaseous/) ([steam](/post/steam/)) states [at](/post/at/) [standard](/post/standard/) [temperature](/post/temperature/) [and](/post/and/) [pressure](/post/pressure/).
+   - [Example](/post/example/): "[The](/post/the/) ecosystem relies [on](/post/on/) [clean](/post/clean/) [water](/post/water/) [for](/post/for/) survival."
+   - Synonyms: H2O, [liquid](/post/liquid/), aqueous, [moisture](/post/moisture/)
 
-2. **[Waterfall](/en/post/waterfall/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [natural](/en/post/natural/) [or](/en/post/or/) [artificial](/en/post/artificial/) descent [of](/en/post/of/) [water](/en/post/water/) [over](/en/post/over/) [a](/en/post/a/) [vertical](/en/post/vertical/) [or](/en/post/or/) near-vertical [drop](/en/post/drop/), [often](/en/post/often/) creating [a](/en/post/a/) scenic [feature](/en/post/feature/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) waterfall's soothing [sound](/en/post/sound/) echoed [through](/en/post/through/) [the](/en/post/the/) [valley](/en/post/valley/)."
+2. **[Waterfall](/post/waterfall/)** ([noun](/post/noun/)): [A](/post/a/) [natural](/post/natural/) [or](/post/or/) [artificial](/post/artificial/) descent [of](/post/of/) [water](/post/water/) [over](/post/over/) [a](/post/a/) [vertical](/post/vertical/) [or](/post/or/) near-vertical [drop](/post/drop/), [often](/post/often/) creating [a](/post/a/) scenic [feature](/post/feature/).
+   - [Example](/post/example/): "[The](/post/the/) waterfall's soothing [sound](/post/sound/) echoed [through](/post/through/) [the](/post/the/) [valley](/post/valley/)."
 
-3. **Watermark** ([noun](/en/post/noun/)): [A](/en/post/a/) [design](/en/post/design/) [or](/en/post/or/) [text](/en/post/text/) impressed [or](/en/post/or/) [visible](/en/post/visible/) [on](/en/post/on/) [paper](/en/post/paper/) [or](/en/post/or/) [other](/en/post/other/) [thin](/en/post/thin/) materials, [usually](/en/post/usually/) indicating [ownership](/en/post/ownership/) [or](/en/post/or/) authenticity.
-   - [Example](/en/post/example/): "[The](/en/post/the/) watermark [on](/en/post/on/) [the](/en/post/the/) antique [document](/en/post/document/) was barely [visible](/en/post/visible/)."
+3. **Watermark** ([noun](/post/noun/)): [A](/post/a/) [design](/post/design/) [or](/post/or/) [text](/post/text/) impressed [or](/post/or/) [visible](/post/visible/) [on](/post/on/) [paper](/post/paper/) [or](/post/or/) [other](/post/other/) [thin](/post/thin/) materials, [usually](/post/usually/) indicating [ownership](/post/ownership/) [or](/post/or/) authenticity.
+   - [Example](/post/example/): "[The](/post/the/) watermark [on](/post/on/) [the](/post/the/) antique [document](/post/document/) was barely [visible](/post/visible/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [water](/en/post/water/)** ([verb](/en/post/verb/)): [The](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) providing [water](/en/post/water/) [to](/en/post/to/) [something](/en/post/something/), [usually](/en/post/usually/) plants, [to](/en/post/to/) nourish [or](/en/post/or/) hydrate [them](/en/post/them/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) waters [the](/en/post/the/) flowers [every](/en/post/every/) [morning](/en/post/morning/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [water](/post/water/)** ([verb](/post/verb/)): [The](/post/the/) [action](/post/action/) [of](/post/of/) providing [water](/post/water/) [to](/post/to/) [something](/post/something/), [usually](/post/usually/) plants, [to](/post/to/) nourish [or](/post/or/) hydrate [them](/post/them/).
+   - [Example](/post/example/): "[She](/post/she/) waters [the](/post/the/) flowers [every](/post/every/) [morning](/post/morning/)."
 
-2. **[To](/en/post/to/) [water](/en/post/water/) [down](/en/post/down/)** ([verb](/en/post/verb/)): [To](/en/post/to/) dilute [or](/en/post/or/) [weaken](/en/post/weaken/) [a](/en/post/a/) [substance](/en/post/substance/) [by](/en/post/by/) adding [water](/en/post/water/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [soup](/en/post/soup/) had been watered [down](/en/post/down/) [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) [less](/en/post/less/) spicy."
+2. **[To](/post/to/) [water](/post/water/) [down](/post/down/)** ([verb](/post/verb/)): [To](/post/to/) dilute [or](/post/or/) [weaken](/post/weaken/) [a](/post/a/) [substance](/post/substance/) [by](/post/by/) adding [water](/post/water/).
+   - [Example](/post/example/): "[The](/post/the/) [soup](/post/soup/) had been watered [down](/post/down/) [to](/post/to/) [make](/post/make/) [it](/post/it/) [less](/post/less/) spicy."
 
-### [Adjective](/en/post/adjective/)
-1. **Watery** ([adjective](/en/post/adjective/)): Relating [to](/en/post/to/), resembling, [or](/en/post/or/) characterized [by](/en/post/by/) [water](/en/post/water/); having [a](/en/post/a/) watery consistency [or](/en/post/or/) [appearance](/en/post/appearance/).
-   - [Example](/en/post/example/): "[Her](/en/post/her/) eyes were watery [from](/en/post/from/) crying."
+### [Adjective](/post/adjective/)
+1. **Watery** ([adjective](/post/adjective/)): Relating [to](/post/to/), resembling, [or](/post/or/) characterized [by](/post/by/) [water](/post/water/); having [a](/post/a/) watery consistency [or](/post/or/) [appearance](/post/appearance/).
+   - [Example](/post/example/): "[Her](/post/her/) eyes were watery [from](/post/from/) crying."
 
-### [Adverb](/en/post/adverb/)
-1. **Watertight** ([adjective](/en/post/adjective/), [also](/en/post/also/) [as](/en/post/as/) an [adverb](/en/post/adverb/)): Impervious [to](/en/post/to/) [water](/en/post/water/); [completely](/en/post/completely/) sealed [or](/en/post/or/) [secure](/en/post/secure/) [against](/en/post/against/) leaks.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [container](/en/post/container/) was designed [to](/en/post/to/) [be](/en/post/be/) watertight."
+### [Adverb](/post/adverb/)
+1. **Watertight** ([adjective](/post/adjective/), [also](/post/also/) [as](/post/as/) an [adverb](/post/adverb/)): Impervious [to](/post/to/) [water](/post/water/); [completely](/post/completely/) sealed [or](/post/or/) [secure](/post/secure/) [against](/post/against/) leaks.
+   - [Example](/post/example/): "[The](/post/the/) [container](/post/container/) was designed [to](/post/to/) [be](/post/be/) watertight."
 
 ## Phrases
-- "[Water](/en/post/water/) [your](/en/post/your/) plants" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) [them](/en/post/them/) [water](/en/post/water/) [to](/en/post/to/) [keep](/en/post/keep/) [them](/en/post/them/) [healthy](/en/post/healthy/).
-- "[Drink](/en/post/drink/) [plenty](/en/post/plenty/) [of](/en/post/of/) [water](/en/post/water/)" is [a](/en/post/a/) [recommendation](/en/post/recommendation/) [for](/en/post/for/) maintaining hydration.
-- "[Water](/en/post/water/) [shortage](/en/post/shortage/)" refers [to](/en/post/to/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) accessible [water](/en/post/water/) [supply](/en/post/supply/).
+- "[Water](/post/water/) [your](/post/your/) plants" [means](/post/means/) [to](/post/to/) [give](/post/give/) [them](/post/them/) [water](/post/water/) [to](/post/to/) [keep](/post/keep/) [them](/post/them/) [healthy](/post/healthy/).
+- "[Drink](/post/drink/) [plenty](/post/plenty/) [of](/post/of/) [water](/post/water/)" is [a](/post/a/) [recommendation](/post/recommendation/) [for](/post/for/) maintaining hydration.
+- "[Water](/post/water/) [shortage](/post/shortage/)" refers [to](/post/to/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) accessible [water](/post/water/) [supply](/post/supply/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [river](/en/post/river/) flowed [gently](/en/post/gently/) [past](/en/post/past/) [the](/en/post/the/) [village](/en/post/village/), providing [fresh](/en/post/fresh/) [water](/en/post/water/) [for](/en/post/for/) [the](/en/post/the/) residents."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) waters [the](/en/post/the/) [garden](/en/post/garden/) [regularly](/en/post/regularly/) [to](/en/post/to/) [ensure](/en/post/ensure/) [the](/en/post/the/) plants [thrive](/en/post/thrive/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sky](/en/post/sky/) was [so](/en/post/so/) [clear](/en/post/clear/) [that](/en/post/that/) [the](/en/post/the/) stars looked crisp [and](/en/post/and/) watery [in](/en/post/in/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [ship](/en/post/ship/) had [to](/en/post/to/) navigate [through](/en/post/through/) [a](/en/post/a/) watertight [tunnel](/en/post/tunnel/) [to](/en/post/to/) [reach](/en/post/reach/) [its](/en/post/its/) [destination](/en/post/destination/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [river](/post/river/) flowed [gently](/post/gently/) [past](/post/past/) [the](/post/the/) [village](/post/village/), providing [fresh](/post/fresh/) [water](/post/water/) [for](/post/for/) [the](/post/the/) residents."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [gardener](/post/gardener/) waters [the](/post/the/) [garden](/post/garden/) [regularly](/post/regularly/) [to](/post/to/) [ensure](/post/ensure/) [the](/post/the/) plants [thrive](/post/thrive/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sky](/post/sky/) was [so](/post/so/) [clear](/post/clear/) [that](/post/that/) [the](/post/the/) stars looked crisp [and](/post/and/) watery [in](/post/in/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [ship](/post/ship/) had [to](/post/to/) navigate [through](/post/through/) [a](/post/a/) watertight [tunnel](/post/tunnel/) [to](/post/to/) [reach](/post/reach/) [its](/post/its/) [destination](/post/destination/)."
 
 ## Synonyms
 - H2O
-- [Liquid](/en/post/liquid/)
+- [Liquid](/post/liquid/)
 - Hydrating
-- [Moist](/en/post/moist/)
-- [Clear](/en/post/clear/)
-- [Cool](/en/post/cool/)
-- [Pure](/en/post/pure/)
-- [Damp](/en/post/damp/)
-- [Wet](/en/post/wet/)
+- [Moist](/post/moist/)
+- [Clear](/post/clear/)
+- [Cool](/post/cool/)
+- [Pure](/post/pure/)
+- [Damp](/post/damp/)
+- [Wet](/post/wet/)

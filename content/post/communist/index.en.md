@@ -7,30 +7,30 @@ description = '[ˈkɔmjunist] n.共产党员'
 keywords = ['ai words', 'communist']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈmunist/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) adheres [to](/en/post/to/) [the](/en/post/the/) principles [of](/en/post/of/) [communism](/en/post/communism/), an [economic](/en/post/economic/) [and](/en/post/and/) [social](/en/post/social/) [system](/en/post/system/) characterized [by](/en/post/by/) [state](/en/post/state/) [ownership](/en/post/ownership/) [of](/en/post/of/) [means](/en/post/means/) [of](/en/post/of/) [production](/en/post/production/) [and](/en/post/and/) [distribution](/en/post/distribution/) [of](/en/post/of/) [goods](/en/post/goods/) [and](/en/post/and/) resources according [to](/en/post/to/) [need](/en/post/need/). [1]
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) supporting [communism](/en/post/communism/); advocating [a](/en/post/a/) [society](/en/post/society/) based [on](/en/post/on/) [collective](/en/post/collective/) [ownership](/en/post/ownership/) [and](/en/post/and/) [distribution](/en/post/distribution/) [of](/en/post/of/) [property](/en/post/property/) [and](/en/post/and/) resources. [2]
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) adheres [to](/post/to/) [the](/post/the/) principles [of](/post/of/) [communism](/post/communism/), an [economic](/post/economic/) [and](/post/and/) [social](/post/social/) [system](/post/system/) characterized [by](/post/by/) [state](/post/state/) [ownership](/post/ownership/) [of](/post/of/) [means](/post/means/) [of](/post/of/) [production](/post/production/) [and](/post/and/) [distribution](/post/distribution/) [of](/post/of/) [goods](/post/goods/) [and](/post/and/) resources according [to](/post/to/) [need](/post/need/). [1]
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) supporting [communism](/post/communism/); advocating [a](/post/a/) [society](/post/society/) based [on](/post/on/) [collective](/post/collective/) [ownership](/post/ownership/) [and](/post/and/) [distribution](/post/distribution/) [of](/post/of/) [property](/post/property/) [and](/post/and/) resources. [2]
 
 ## Phrases
-- "[Communist](/en/post/communist/) ideology" refers [to](/en/post/to/) [the](/en/post/the/) beliefs [and](/en/post/and/) principles [of](/en/post/of/) [communism](/en/post/communism/).
-- "[Communist](/en/post/communist/) regime" describes [a](/en/post/a/) [government](/en/post/government/) [that](/en/post/that/) practices [communism](/en/post/communism/).
-- "Pro-communist sentiment" denotes [support](/en/post/support/) [for](/en/post/for/) [communist](/en/post/communist/) ideas [or](/en/post/or/) systems.
+- "[Communist](/post/communist/) ideology" refers [to](/post/to/) [the](/post/the/) beliefs [and](/post/and/) principles [of](/post/of/) [communism](/post/communism/).
+- "[Communist](/post/communist/) regime" describes [a](/post/a/) [government](/post/government/) [that](/post/that/) practices [communism](/post/communism/).
+- "Pro-communist sentiment" denotes [support](/post/support/) [for](/post/for/) [communist](/post/communist/) ideas [or](/post/or/) systems.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [communist](/en/post/communist/) [leader](/en/post/leader/) addressed [the](/en/post/the/) [crowd](/en/post/crowd/) [with](/en/post/with/) inspiring words."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) country's [economy](/en/post/economy/) is transitioning [from](/en/post/from/) capitalism [to](/en/post/to/) [a](/en/post/a/) [more](/en/post/more/) [communist](/en/post/communist/) [model](/en/post/model/)."
-- **[Adjective](/en/post/adjective/) modifying [a](/en/post/a/) [noun](/en/post/noun/)**: "[The](/en/post/the/) [communist](/en/post/communist/) manifesto outlined [a](/en/post/a/) [vision](/en/post/vision/) [for](/en/post/for/) [a](/en/post/a/) classless [society](/en/post/society/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [communist](/post/communist/) [leader](/post/leader/) addressed [the](/post/the/) [crowd](/post/crowd/) [with](/post/with/) inspiring words."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) country's [economy](/post/economy/) is transitioning [from](/post/from/) capitalism [to](/post/to/) [a](/post/a/) [more](/post/more/) [communist](/post/communist/) [model](/post/model/)."
+- **[Adjective](/post/adjective/) modifying [a](/post/a/) [noun](/post/noun/)**: "[The](/post/the/) [communist](/post/communist/) manifesto outlined [a](/post/a/) [vision](/post/vision/) [for](/post/for/) [a](/post/a/) classless [society](/post/society/)."
 
 ## Synonyms
 - Marxist
-- [Socialist](/en/post/socialist/)
+- [Socialist](/post/socialist/)
 - Proletarian
-- [Red](/en/post/red/) (informal)
-- [Communist](/en/post/communist/) [Party](/en/post/party/) [member](/en/post/member/) (specifically referring [to](/en/post/to/) [a](/en/post/a/) [political](/en/post/political/) affiliation)
+- [Red](/post/red/) (informal)
+- [Communist](/post/communist/) [Party](/post/party/) [member](/post/member/) (specifically referring [to](/post/to/) [a](/post/a/) [political](/post/political/) affiliation)
 
 ## Notes
-[1] Merriam-Webster. "[communist](/en/post/communist/)." Merriam-Webster.com, https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[communist](/en/post/communist/).
-[2] Oxford Languages. "[communist](/en/post/communist/)." Oxford Languages, https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[communist](/en/post/communist/).
+[1] Merriam-Webster. "[communist](/post/communist/)." Merriam-Webster.com, https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[communist](/post/communist/).
+[2] Oxford Languages. "[communist](/post/communist/)." Oxford Languages, https://en.oxforddictionaries.com/[definition](/post/definition/)/[communist](/post/communist/).

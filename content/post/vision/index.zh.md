@@ -12,24 +12,24 @@ keywords = ['ai words', 'vision']
 
 ## 释义
 - **名词 n**:
-  - 视力；视觉：[The](/post/the/) [ability](/post/ability/) [to](/post/to/) [see](/post/see/); [visual](/post/visual/) perception. 例如: "[She](/post/she/) has [perfect](/post/perfect/) [vision](/post/vision/) [in](/post/in/) [both](/post/both/) eyes."
-  - 幻象；幻觉：[A](/post/a/) [false](/post/false/) [or](/post/or/) imagined [sight](/post/sight/). 例如: "[He](/post/he/) [saw](/post/saw/) visions [of](/post/of/) [his](/post/his/) deceased loved ones."
-  - 远见；洞察力：[The](/post/the/) [ability](/post/ability/) [to](/post/to/) [think](/post/think/) [about](/post/about/) [or](/post/or/) [plan](/post/plan/) [the](/post/the/) [future](/post/future/) [with](/post/with/) [imagination](/post/imagination/) [or](/post/or/) [wisdom](/post/wisdom/). 例如: "[The](/post/the/) CEO's [vision](/post/vision/) [for](/post/for/) [the](/post/the/) [company](/post/company/) was [to](/post/to/) [become](/post/become/) [a](/post/a/) global [leader](/post/leader/)."
+  - 视力；视觉：[The](/zh/post/the/) [ability](/zh/post/ability/) [to](/zh/post/to/) [see](/zh/post/see/); [visual](/zh/post/visual/) perception. 例如: "[She](/zh/post/she/) has [perfect](/zh/post/perfect/) [vision](/zh/post/vision/) [in](/zh/post/in/) [both](/zh/post/both/) eyes."
+  - 幻象；幻觉：[A](/zh/post/a/) [false](/zh/post/false/) [or](/zh/post/or/) imagined [sight](/zh/post/sight/). 例如: "[He](/zh/post/he/) [saw](/zh/post/saw/) visions [of](/zh/post/of/) [his](/zh/post/his/) deceased loved ones."
+  - 远见；洞察力：[The](/zh/post/the/) [ability](/zh/post/ability/) [to](/zh/post/to/) [think](/zh/post/think/) [about](/zh/post/about/) [or](/zh/post/or/) [plan](/zh/post/plan/) [the](/zh/post/the/) [future](/zh/post/future/) [with](/zh/post/with/) [imagination](/zh/post/imagination/) [or](/zh/post/or/) [wisdom](/zh/post/wisdom/). 例如: "[The](/zh/post/the/) CEO's [vision](/zh/post/vision/) [for](/zh/post/for/) [the](/zh/post/the/) [company](/zh/post/company/) was [to](/zh/post/to/) [become](/zh/post/become/) [a](/zh/post/a/) global [leader](/zh/post/leader/)."
 
 - **动词 v**:
-  - 想象；预见：[To](/post/to/) [imagine](/post/imagine/) [or](/post/or/) [picture](/post/picture/) [something](/post/something/) [in](/post/in/) one's [mind](/post/mind/). 例如: "[She](/post/she/) [could](/post/could/) vividly [vision](/post/vision/) [herself](/post/herself/) [living](/post/living/) [in](/post/in/) [that](/post/that/) [beautiful](/post/beautiful/) [house](/post/house/)."
+  - 想象；预见：[To](/zh/post/to/) [imagine](/zh/post/imagine/) [or](/zh/post/or/) [picture](/zh/post/picture/) [something](/zh/post/something/) [in](/zh/post/in/) one's [mind](/zh/post/mind/). 例如: "[She](/zh/post/she/) [could](/zh/post/could/) vividly [vision](/zh/post/vision/) [herself](/zh/post/herself/) [living](/zh/post/living/) [in](/zh/post/in/) [that](/zh/post/that/) [beautiful](/zh/post/beautiful/) [house](/zh/post/house/)."
 
 ## 短语
-- "[Vision](/post/vision/) impaired" 指视力受损的人。
-- "[A](/post/a/) shared [vision](/post/vision/)" 指共同的目标或理想。
+- "[Vision](/zh/post/vision/) impaired" 指视力受损的人。
+- "[A](/zh/post/a/) shared [vision](/zh/post/vision/)" 指共同的目标或理想。
 
 ## 例句
-- 名词: "[After](/post/after/) [the](/post/the/) [accident](/post/accident/), [he](/post/he/) had [to](/post/to/) [rely](/post/rely/) [on](/post/on/) [his](/post/his/) [other](/post/other/) senses [because](/post/because/) [he](/post/he/) lost [his](/post/his/) [vision](/post/vision/)."
-- 动词: "[She](/post/she/) [could](/post/could/) [clearly](/post/clearly/) [vision](/post/vision/) [a](/post/a/) [future](/post/future/) [where](/post/where/) [technology](/post/technology/) [and](/post/and/) [nature](/post/nature/) coexisted harmoniously."
+- 名词: "[After](/zh/post/after/) [the](/zh/post/the/) [accident](/zh/post/accident/), [he](/zh/post/he/) had [to](/zh/post/to/) [rely](/zh/post/rely/) [on](/zh/post/on/) [his](/zh/post/his/) [other](/zh/post/other/) senses [because](/zh/post/because/) [he](/zh/post/he/) lost [his](/zh/post/his/) [vision](/zh/post/vision/)."
+- 动词: "[She](/zh/post/she/) [could](/zh/post/could/) [clearly](/zh/post/clearly/) [vision](/zh/post/vision/) [a](/zh/post/a/) [future](/zh/post/future/) [where](/zh/post/where/) [technology](/zh/post/technology/) [and](/zh/post/and/) [nature](/zh/post/nature/) coexisted harmoniously."
 
 ## 同义词
-- [Sight](/post/sight/)
+- [Sight](/zh/post/sight/)
 - Perception
-- [Imagination](/post/imagination/)
-- [Outlook](/post/outlook/)
+- [Imagination](/zh/post/imagination/)
+- [Outlook](/zh/post/outlook/)
 - Foreseeability

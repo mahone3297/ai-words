@@ -11,20 +11,20 @@ keywords = ['ai words', 'length']
 /ˈlɛŋθ/
 
 ## 释义
-- **名词**: 物体的尺寸，从一端到另一端的距离。例如: "[The](/post/the/) [length](/post/length/) [of](/post/of/) [the](/post/the/) [table](/post/table/) is [three](/post/three/) meters."
-- **名词**: 持续的时间。例如: "[The](/post/the/) [movie](/post/movie/) has [a](/post/a/) [length](/post/length/) [of](/post/of/) [two](/post/two/) hours."
+- **名词**: 物体的尺寸，从一端到另一端的距离。例如: "[The](/zh/post/the/) [length](/zh/post/length/) [of](/zh/post/of/) [the](/zh/post/the/) [table](/zh/post/table/) is [three](/zh/post/three/) meters."
+- **名词**: 持续的时间。例如: "[The](/zh/post/the/) [movie](/zh/post/movie/) has [a](/zh/post/a/) [length](/zh/post/length/) [of](/zh/post/of/) [two](/zh/post/two/) hours."
 
 ## 短语
-- "[in](/post/in/) [length](/post/length/)" 表示长度是多少。例如: "[The](/post/the/) [river](/post/river/) is 500 kilometers [in](/post/in/) [length](/post/length/)."
-- "[at](/post/at/) [length](/post/length/)" 意为详细地，详尽地。例如: "[He](/post/he/) explained [the](/post/the/) [problem](/post/problem/) [at](/post/at/) [length](/post/length/)."
+- "[in](/zh/post/in/) [length](/zh/post/length/)" 表示长度是多少。例如: "[The](/zh/post/the/) [river](/zh/post/river/) is 500 kilometers [in](/zh/post/in/) [length](/zh/post/length/)."
+- "[at](/zh/post/at/) [length](/zh/post/length/)" 意为详细地，详尽地。例如: "[He](/zh/post/he/) explained [the](/zh/post/the/) [problem](/zh/post/problem/) [at](/zh/post/at/) [length](/zh/post/length/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [dress](/post/dress/) is [just](/post/just/) [the](/post/the/) [right](/post/right/) [length](/post/length/) [for](/post/for/) [her](/post/her/) [height](/post/height/)."
-- 名词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [measure](/post/measure/) [the](/post/the/) [length](/post/length/) [of](/post/of/) [the](/post/the/) [rope](/post/rope/) [to](/post/to/) [know](/post/know/) [if](/post/if/) it's [enough](/post/enough/)."
+- 名词: "[The](/zh/post/the/) [dress](/zh/post/dress/) is [just](/zh/post/just/) [the](/zh/post/the/) [right](/zh/post/right/) [length](/zh/post/length/) [for](/zh/post/for/) [her](/zh/post/her/) [height](/zh/post/height/)."
+- 名词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [measure](/zh/post/measure/) [the](/zh/post/the/) [length](/zh/post/length/) [of](/zh/post/of/) [the](/zh/post/the/) [rope](/zh/post/rope/) [to](/zh/post/to/) [know](/zh/post/know/) [if](/zh/post/if/) it's [enough](/zh/post/enough/)."
 
 ## 同义词
-- [Duration](/post/duration/)
-- [Extent](/post/extent/)
-- [Breadth](/post/breadth/) (在某些语境中，如宽度)
-- [Measurement](/post/measurement/)
-- [Distance](/post/distance/) (在指物理距离时）
+- [Duration](/zh/post/duration/)
+- [Extent](/zh/post/extent/)
+- [Breadth](/zh/post/breadth/) (在某些语境中，如宽度)
+- [Measurement](/zh/post/measurement/)
+- [Distance](/zh/post/distance/) (在指物理距离时）

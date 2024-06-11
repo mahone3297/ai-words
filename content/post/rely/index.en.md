@@ -7,44 +7,44 @@ description = '[riˈlai] vi.依赖，依靠；信赖'
 keywords = ['ai words', 'rely']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈlaɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [verb](/en/post/verb/) [form](/en/post/form/) referring [to](/en/post/to/) dependence [on](/en/post/on/) [or](/en/post/or/) [confidence](/en/post/confidence/) [in](/en/post/in/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/): "[She](/en/post/she/) relies [heavily](/en/post/heavily/) [on](/en/post/on/) [her](/en/post/her/) parents [for](/en/post/for/) [support](/en/post/support/)."
-- [Trust](/en/post/trust/) [or](/en/post/or/) [reliance](/en/post/reliance/): "[The](/en/post/the/) [project](/en/post/project/) relies [on](/en/post/on/) [the](/en/post/the/) expertise [of](/en/post/of/) [its](/en/post/its/) [team](/en/post/team/) members."
+### [Noun](/post/noun/)
+- [A](/post/a/) [verb](/post/verb/) [form](/post/form/) referring [to](/post/to/) dependence [on](/post/on/) [or](/post/or/) [confidence](/post/confidence/) [in](/post/in/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/): "[She](/post/she/) relies [heavily](/post/heavily/) [on](/post/on/) [her](/post/her/) parents [for](/post/for/) [support](/post/support/)."
+- [Trust](/post/trust/) [or](/post/or/) [reliance](/post/reliance/): "[The](/post/the/) [project](/post/project/) relies [on](/post/on/) [the](/post/the/) expertise [of](/post/of/) [its](/post/its/) [team](/post/team/) members."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [depend](/en/post/depend/) [on](/en/post/on/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [for](/en/post/for/) [help](/en/post/help/) [or](/en/post/or/) [support](/en/post/support/): "[They](/en/post/they/) [rely](/en/post/rely/) [on](/en/post/on/) [their](/en/post/their/) teachers [for](/en/post/for/) [guidance](/en/post/guidance/)."
-- [To](/en/post/to/) [place](/en/post/place/) [trust](/en/post/trust/) [or](/en/post/or/) [confidence](/en/post/confidence/) [in](/en/post/in/): "[He](/en/post/he/) relies [on](/en/post/on/) [his](/en/post/his/) instincts [in](/en/post/in/) [difficult](/en/post/difficult/) situations."
+### [Verb](/post/verb/)
+- [To](/post/to/) [depend](/post/depend/) [on](/post/on/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [for](/post/for/) [help](/post/help/) [or](/post/or/) [support](/post/support/): "[They](/post/they/) [rely](/post/rely/) [on](/post/on/) [their](/post/their/) teachers [for](/post/for/) [guidance](/post/guidance/)."
+- [To](/post/to/) [place](/post/place/) [trust](/post/trust/) [or](/post/or/) [confidence](/post/confidence/) [in](/post/in/): "[He](/post/he/) relies [on](/post/on/) [his](/post/his/) instincts [in](/post/in/) [difficult](/post/difficult/) situations."
 
-### [Adjective](/en/post/adjective/)
-- [Dependent](/en/post/dependent/); relying: "[A](/en/post/a/) [child](/en/post/child/) [who](/en/post/who/) relies [on](/en/post/on/) [their](/en/post/their/) parents [for](/en/post/for/) [everything](/en/post/everything/)."
-- Trusted; dependable: "[A](/en/post/a/) [reliable](/en/post/reliable/) [source](/en/post/source/) [of](/en/post/of/) [information](/en/post/information/)."
+### [Adjective](/post/adjective/)
+- [Dependent](/post/dependent/); relying: "[A](/post/a/) [child](/post/child/) [who](/post/who/) relies [on](/post/on/) [their](/post/their/) parents [for](/post/for/) [everything](/post/everything/)."
+- Trusted; dependable: "[A](/post/a/) [reliable](/post/reliable/) [source](/post/source/) [of](/post/of/) [information](/post/information/)."
 
 ## Phrases
-- "[Rely](/en/post/rely/) [on](/en/post/on/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [faith](/en/post/faith/) [in](/en/post/in/) someone's [ability](/en/post/ability/) [or](/en/post/or/) judgment.
-- "Relying [solely](/en/post/solely/) [on](/en/post/on/) [technology](/en/post/technology/)" highlights dependence [on](/en/post/on/) [electronic](/en/post/electronic/) devices.
-- "Don't [rely](/en/post/rely/) [on](/en/post/on/) [quick](/en/post/quick/) fixes" suggests avoiding [temporary](/en/post/temporary/) solutions.
+- "[Rely](/post/rely/) [on](/post/on/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [faith](/post/faith/) [in](/post/in/) someone's [ability](/post/ability/) [or](/post/or/) judgment.
+- "Relying [solely](/post/solely/) [on](/post/on/) [technology](/post/technology/)" highlights dependence [on](/post/on/) [electronic](/post/electronic/) devices.
+- "Don't [rely](/post/rely/) [on](/post/on/) [quick](/post/quick/) fixes" suggests avoiding [temporary](/post/temporary/) solutions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [success](/en/post/success/) [of](/en/post/of/) [the](/en/post/the/) [business](/en/post/business/) relies [on](/en/post/on/) [strong](/en/post/strong/) [customer](/en/post/customer/) relationships."
-- **[Verb](/en/post/verb/)**: "I can't [complete](/en/post/complete/) [the](/en/post/the/) [project](/en/post/project/) [without](/en/post/without/) relying [on](/en/post/on/) [your](/en/post/your/) expertise."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) decision-making [process](/en/post/process/) is marked [by](/en/post/by/) [her](/en/post/her/) [reliance](/en/post/reliance/) [on](/en/post/on/) facts."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [success](/post/success/) [of](/post/of/) [the](/post/the/) [business](/post/business/) relies [on](/post/on/) [strong](/post/strong/) [customer](/post/customer/) relationships."
+- **[Verb](/post/verb/)**: "I can't [complete](/post/complete/) [the](/post/the/) [project](/post/project/) [without](/post/without/) relying [on](/post/on/) [your](/post/your/) expertise."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) decision-making [process](/post/process/) is marked [by](/post/by/) [her](/post/her/) [reliance](/post/reliance/) [on](/post/on/) facts."
 
 ## Synonyms
-- [Depend](/en/post/depend/)
-- [Count](/en/post/count/) [on](/en/post/on/)
-- [Trust](/en/post/trust/)
-- [Confidence](/en/post/confidence/)
-- [Reliance](/en/post/reliance/)
+- [Depend](/post/depend/)
+- [Count](/post/count/) [on](/post/on/)
+- [Trust](/post/trust/)
+- [Confidence](/post/confidence/)
+- [Reliance](/post/reliance/)
 - Assurance
-- [Stability](/en/post/stability/)
+- [Stability](/post/stability/)
 
 ## Antonyms
 - Disregard
-- [Doubt](/en/post/doubt/)
+- [Doubt](/post/doubt/)
 - Unreliability
 - Instability
-- [Independence](/en/post/independence/)
+- [Independence](/post/independence/)

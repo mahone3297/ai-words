@@ -7,30 +7,30 @@ description = '[skɔː] n.得分，比数，成绩'
 keywords = ['ai words', 'score']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /skɔːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Score](/en/post/score/)**: [A](/en/post/a/) [number](/en/post/number/) indicating [the](/en/post/the/) points [or](/en/post/or/) points gained [or](/en/post/or/) lost [in](/en/post/in/) [a](/en/post/a/) [game](/en/post/game/) [or](/en/post/or/) [competition](/en/post/competition/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) team's [final](/en/post/final/) [score](/en/post/score/) was 3-2."
-2. **[Mark](/en/post/mark/)**: [A](/en/post/a/) [grade](/en/post/grade/) [or](/en/post/or/) [point](/en/post/point/) assigned [for](/en/post/for/) an [assignment](/en/post/assignment/) [or](/en/post/or/) [exam](/en/post/exam/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) received [a](/en/post/a/) [perfect](/en/post/perfect/) [score](/en/post/score/) [on](/en/post/on/) [her](/en/post/her/) math [test](/en/post/test/)."
-3. **[Rank](/en/post/rank/)**: [A](/en/post/a/) [position](/en/post/position/) [in](/en/post/in/) [a](/en/post/a/) [list](/en/post/list/) [or](/en/post/or/) hierarchy, [often](/en/post/often/) [in](/en/post/in/) sports [or](/en/post/or/) competitions. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) finished [in](/en/post/in/) [first](/en/post/first/) [place](/en/post/place/) [with](/en/post/with/) [the](/en/post/the/) highest [score](/en/post/score/)."
-4. **Ratings**: [A](/en/post/a/) numerical assessment, [especially](/en/post/especially/) [in](/en/post/in/) movies [or](/en/post/or/) [music](/en/post/music/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [movie](/en/post/movie/) has [a](/en/post/a/) [high](/en/post/high/) [score](/en/post/score/) [on](/en/post/on/) IMDb."
+### [Noun](/post/noun/)
+1. **[Score](/post/score/)**: [A](/post/a/) [number](/post/number/) indicating [the](/post/the/) points [or](/post/or/) points gained [or](/post/or/) lost [in](/post/in/) [a](/post/a/) [game](/post/game/) [or](/post/or/) [competition](/post/competition/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) team's [final](/post/final/) [score](/post/score/) was 3-2."
+2. **[Mark](/post/mark/)**: [A](/post/a/) [grade](/post/grade/) [or](/post/or/) [point](/post/point/) assigned [for](/post/for/) an [assignment](/post/assignment/) [or](/post/or/) [exam](/post/exam/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) received [a](/post/a/) [perfect](/post/perfect/) [score](/post/score/) [on](/post/on/) [her](/post/her/) math [test](/post/test/)."
+3. **[Rank](/post/rank/)**: [A](/post/a/) [position](/post/position/) [in](/post/in/) [a](/post/a/) [list](/post/list/) [or](/post/or/) hierarchy, [often](/post/often/) [in](/post/in/) sports [or](/post/or/) competitions. [For](/post/for/) [example](/post/example/): "[He](/post/he/) finished [in](/post/in/) [first](/post/first/) [place](/post/place/) [with](/post/with/) [the](/post/the/) highest [score](/post/score/)."
+4. **Ratings**: [A](/post/a/) numerical assessment, [especially](/post/especially/) [in](/post/in/) movies [or](/post/or/) [music](/post/music/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [movie](/post/movie/) has [a](/post/a/) [high](/post/high/) [score](/post/score/) [on](/post/on/) IMDb."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [score](/en/post/score/)**: [Achieve](/en/post/achieve/) points [or](/en/post/or/) points [in](/en/post/in/) [a](/en/post/a/) [game](/en/post/game/) [or](/en/post/or/) [competition](/en/post/competition/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) scored [the](/en/post/the/) winning [goal](/en/post/goal/) [in](/en/post/in/) [the](/en/post/the/) [soccer](/en/post/soccer/) [match](/en/post/match/)."
-2. **[To](/en/post/to/) [rate](/en/post/rate/)**: [Assign](/en/post/assign/) [a](/en/post/a/) [score](/en/post/score/) [or](/en/post/or/) [evaluate](/en/post/evaluate/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) critics scored [the](/en/post/the/) [book](/en/post/book/) [highly](/en/post/highly/) [for](/en/post/for/) [its](/en/post/its/) originality."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [score](/post/score/)**: [Achieve](/post/achieve/) points [or](/post/or/) points [in](/post/in/) [a](/post/a/) [game](/post/game/) [or](/post/or/) [competition](/post/competition/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) scored [the](/post/the/) winning [goal](/post/goal/) [in](/post/in/) [the](/post/the/) [soccer](/post/soccer/) [match](/post/match/)."
+2. **[To](/post/to/) [rate](/post/rate/)**: [Assign](/post/assign/) [a](/post/a/) [score](/post/score/) [or](/post/or/) [evaluate](/post/evaluate/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) critics scored [the](/post/the/) [book](/post/book/) [highly](/post/highly/) [for](/post/for/) [its](/post/its/) originality."
 
 ## Phrases
-- "[Score](/en/post/score/) [a](/en/post/a/) [point](/en/post/point/)" [or](/en/post/or/) "[Score](/en/post/score/) [a](/en/post/a/) [goal](/en/post/goal/)" (sports)
-- "[Score](/en/post/score/) [well](/en/post/well/) [on](/en/post/on/) [a](/en/post/a/) [test](/en/post/test/)" [or](/en/post/or/) "[Score](/en/post/score/) [high](/en/post/high/) marks" ([education](/en/post/education/))
-- "[Score](/en/post/score/) [a](/en/post/a/) [deal](/en/post/deal/)" ([business](/en/post/business/))
-- "[Score](/en/post/score/) [a](/en/post/a/) touchdown" ([American](/en/post/american/) [football](/en/post/football/))
+- "[Score](/post/score/) [a](/post/a/) [point](/post/point/)" [or](/post/or/) "[Score](/post/score/) [a](/post/a/) [goal](/post/goal/)" (sports)
+- "[Score](/post/score/) [well](/post/well/) [on](/post/on/) [a](/post/a/) [test](/post/test/)" [or](/post/or/) "[Score](/post/score/) [high](/post/high/) marks" ([education](/post/education/))
+- "[Score](/post/score/) [a](/post/a/) [deal](/post/deal/)" ([business](/post/business/))
+- "[Score](/post/score/) [a](/post/a/) touchdown" ([American](/post/american/) [football](/post/football/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) player's [impressive](/en/post/impressive/) [performance](/en/post/performance/) earned [them](/en/post/them/) [the](/en/post/the/) highest [score](/en/post/score/) [of](/en/post/of/) [the](/en/post/the/) [season](/en/post/season/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [training](/en/post/training/), [he](/en/post/he/) [finally](/en/post/finally/) scored [a](/en/post/a/) hole-in-one [in](/en/post/in/) [golf](/en/post/golf/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[The](/en/post/the/) chef scored [the](/en/post/the/) [dish](/en/post/dish/) [with](/en/post/with/) [a](/en/post/a/) [perfect](/en/post/perfect/) 5 [out](/en/post/out/) [of](/en/post/of/) 5 stars."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) player's [impressive](/post/impressive/) [performance](/post/performance/) earned [them](/post/them/) [the](/post/the/) highest [score](/post/score/) [of](/post/of/) [the](/post/the/) [season](/post/season/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) [training](/post/training/), [he](/post/he/) [finally](/post/finally/) scored [a](/post/a/) hole-in-one [in](/post/in/) [golf](/post/golf/)."
+- **[As](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "[The](/post/the/) chef scored [the](/post/the/) [dish](/post/dish/) [with](/post/with/) [a](/post/a/) [perfect](/post/perfect/) 5 [out](/post/out/) [of](/post/of/) 5 stars."
 
 ## Synonyms
 - Points
@@ -38,7 +38,7 @@ keywords = ['ai words', 'score']
 - Grading
 - Assessment
 - Evaluation
-- [Total](/en/post/total/)
-- [Result](/en/post/result/)
-- [Margin](/en/post/margin/)
-- [Finish](/en/post/finish/)
+- [Total](/post/total/)
+- [Result](/post/result/)
+- [Margin](/post/margin/)
+- [Finish](/post/finish/)

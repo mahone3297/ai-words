@@ -7,32 +7,32 @@ description = '[biːn] n.豆，蚕豆'
 keywords = ['ai words', 'bean']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /biːn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [small](/en/post/small/), [usually](/en/post/usually/) [round](/en/post/round/), seedpod [of](/en/post/of/) [various](/en/post/various/) leguminous plants, [such](/en/post/such/) [as](/en/post/as/) peas [or](/en/post/or/) soybeans, [used](/en/post/used/) [for](/en/post/for/) [food](/en/post/food/). 2. [A](/en/post/a/) [small](/en/post/small/), [hard](/en/post/hard/), [black](/en/post/black/) [or](/en/post/or/) [brown](/en/post/brown/) [seed](/en/post/seed/), typically [of](/en/post/of/) [the](/en/post/the/) [coffee](/en/post/coffee/) [plant](/en/post/plant/). 3. [informal] [A](/en/post/a/) [person](/en/post/person/), [especially](/en/post/especially/) [a](/en/post/a/) [young](/en/post/young/) [or](/en/post/or/) inexperienced [one](/en/post/one/). 4. [slang] [A](/en/post/a/) [coin](/en/post/coin/) [or](/en/post/or/) [money](/en/post/money/), [especially](/en/post/especially/) [a](/en/post/a/) [small](/en/post/small/) [one](/en/post/one/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [small](/post/small/), [usually](/post/usually/) [round](/post/round/), seedpod [of](/post/of/) [various](/post/various/) leguminous plants, [such](/post/such/) [as](/post/as/) peas [or](/post/or/) soybeans, [used](/post/used/) [for](/post/for/) [food](/post/food/). 2. [A](/post/a/) [small](/post/small/), [hard](/post/hard/), [black](/post/black/) [or](/post/or/) [brown](/post/brown/) [seed](/post/seed/), typically [of](/post/of/) [the](/post/the/) [coffee](/post/coffee/) [plant](/post/plant/). 3. [informal] [A](/post/a/) [person](/post/person/), [especially](/post/especially/) [a](/post/a/) [young](/post/young/) [or](/post/or/) inexperienced [one](/post/one/). 4. [slang] [A](/post/a/) [coin](/post/coin/) [or](/post/or/) [money](/post/money/), [especially](/post/especially/) [a](/post/a/) [small](/post/small/) [one](/post/one/).
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [plant](/en/post/plant/) [or](/en/post/or/) [grow](/en/post/grow/) beans.
+- **[Verb](/post/verb/)**: [To](/post/to/) [plant](/post/plant/) [or](/post/or/) [grow](/post/grow/) beans.
 
 ## Phrases
-- "[A](/en/post/a/) [can](/en/post/can/) [of](/en/post/of/) [green](/en/post/green/) beans"
-- "[Bean](/en/post/bean/) sprouts [in](/en/post/in/) stir-fry"
-- "[A](/en/post/a/) kidney [bean](/en/post/bean/)"
+- "[A](/post/a/) [can](/post/can/) [of](/post/of/) [green](/post/green/) beans"
+- "[Bean](/post/bean/) sprouts [in](/post/in/) stir-fry"
+- "[A](/post/a/) kidney [bean](/post/bean/)"
 - "Canned baked beans"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) harvested [a](/en/post/a/) bountiful [crop](/en/post/crop/) [of](/en/post/of/) [green](/en/post/green/) beans [from](/en/post/from/) [her](/en/post/her/) [garden](/en/post/garden/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) is sowing [various](/en/post/various/) types [of](/en/post/of/) beans [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/)."
-- **Informal**: "[The](/en/post/the/) [new](/en/post/new/) intern is [just](/en/post/just/) [a](/en/post/a/) [bean](/en/post/bean/) [around](/en/post/around/) [the](/en/post/the/) [office](/en/post/office/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) harvested [a](/post/a/) bountiful [crop](/post/crop/) [of](/post/of/) [green](/post/green/) beans [from](/post/from/) [her](/post/her/) [garden](/post/garden/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [farmer](/post/farmer/) is sowing [various](/post/various/) types [of](/post/of/) beans [in](/post/in/) [the](/post/the/) [field](/post/field/)."
+- **Informal**: "[The](/post/the/) [new](/post/new/) intern is [just](/post/just/) [a](/post/a/) [bean](/post/bean/) [around](/post/around/) [the](/post/the/) [office](/post/office/)."
 
 ## Synonyms
 - Legume
 - Soybean
-- [Pea](/en/post/pea/)
+- [Pea](/post/pea/)
 - Lentil
 - Beanbag
 - Beaner (slang, derogatory)
-- [Cash](/en/post/cash/) (informal, slang, referring [to](/en/post/to/) [money](/en/post/money/))
+- [Cash](/post/cash/) (informal, slang, referring [to](/post/to/) [money](/post/money/))
 
-## [Note](/en/post/note/): "Beaner" is [a](/en/post/a/) slang [term](/en/post/term/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) considered derogatory, [so](/en/post/so/) it's [not](/en/post/not/) recommended [for](/en/post/for/) [formal](/en/post/formal/) [use](/en/post/use/). [The](/en/post/the/) [term](/en/post/term/) "[cash](/en/post/cash/)" [when](/en/post/when/) referring [to](/en/post/to/) [money](/en/post/money/) is [also](/en/post/also/) informal [and](/en/post/and/) slang.
+## [Note](/post/note/): "Beaner" is [a](/post/a/) slang [term](/post/term/) [that](/post/that/) [can](/post/can/) [be](/post/be/) considered derogatory, [so](/post/so/) it's [not](/post/not/) recommended [for](/post/for/) [formal](/post/formal/) [use](/post/use/). [The](/post/the/) [term](/post/term/) "[cash](/post/cash/)" [when](/post/when/) referring [to](/post/to/) [money](/post/money/) is [also](/post/also/) informal [and](/post/and/) slang.

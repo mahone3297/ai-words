@@ -20,18 +20,18 @@ keywords = ['ai words', 'coordinate']
    - 定位，标定：在地图或其他系统中确定一个点的位置。
 
 ## 短语
-- "[Coordinate](/post/coordinate/) efforts" 意味着共同努力或合作。
-- "[Coordinate](/post/coordinate/) colors" 指搭配颜色，使其和谐一致。
-- "[Coordinate](/post/coordinate/) axes" 在数学中指的是笛卡尔坐标系统的x轴和y轴。
+- "[Coordinate](/zh/post/coordinate/) efforts" 意味着共同努力或合作。
+- "[Coordinate](/zh/post/coordinate/) colors" 指搭配颜色，使其和谐一致。
+- "[Coordinate](/zh/post/coordinate/) axes" 在数学中指的是笛卡尔坐标系统的x轴和y轴。
 
 ## 例句
-- 名词: "[The](/post/the/) [two](/post/two/) lines intersect [at](/post/at/) [the](/post/the/) [same](/post/same/) [coordinate](/post/coordinate/) [on](/post/on/) [the](/post/the/) [graph](/post/graph/)."
-- 动词: "[The](/post/the/) [event](/post/event/) coordinator made [sure](/post/sure/) [all](/post/all/) [the](/post/the/) vendors arrived [on](/post/on/) [time](/post/time/)."
-- 作为形容词： "[She](/post/she/) chose [a](/post/a/) [set](/post/set/) [of](/post/of/) [coordinate](/post/coordinate/) outfits [for](/post/for/) [her](/post/her/) [trip](/post/trip/)."
+- 名词: "[The](/zh/post/the/) [two](/zh/post/two/) lines intersect [at](/zh/post/at/) [the](/zh/post/the/) [same](/zh/post/same/) [coordinate](/zh/post/coordinate/) [on](/zh/post/on/) [the](/zh/post/the/) [graph](/zh/post/graph/)."
+- 动词: "[The](/zh/post/the/) [event](/zh/post/event/) coordinator made [sure](/zh/post/sure/) [all](/zh/post/all/) [the](/zh/post/the/) vendors arrived [on](/zh/post/on/) [time](/zh/post/time/)."
+- 作为形容词： "[She](/zh/post/she/) chose [a](/zh/post/a/) [set](/zh/post/set/) [of](/zh/post/of/) [coordinate](/zh/post/coordinate/) outfits [for](/zh/post/for/) [her](/zh/post/her/) [trip](/zh/post/trip/)."
 
 ## 同义词
 - Align
 - Harmonize
 - Unify
 - Synch
-- [Adjust](/post/adjust/)
+- [Adjust](/zh/post/adjust/)

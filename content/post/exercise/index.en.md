@@ -7,37 +7,37 @@ description = '[ˈeksəsaiz] n.锻炼，训练 vi.练习'
 keywords = ['ai words', 'exercise']
 +++
 
-## [Word](/en/post/word/): [Exercise](/en/post/exercise/)
+## [Word](/post/word/): [Exercise](/post/exercise/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeksərsaɪz/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [Physical](/en/post/physical/) [activity](/en/post/activity/) done [to](/en/post/to/) [improve](/en/post/improve/) [health](/en/post/health/), [maintain](/en/post/maintain/) fitness, [or](/en/post/or/) [develop](/en/post/develop/) [a](/en/post/a/) [specific](/en/post/specific/) [skill](/en/post/skill/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) does yoga [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [her](/en/post/her/) [daily](/en/post/daily/) [exercise](/en/post/exercise/) [routine](/en/post/routine/)."
-  - An [activity](/en/post/activity/) performed [to](/en/post/to/) [practice](/en/post/practice/) [or](/en/post/or/) [demonstrate](/en/post/demonstrate/) [a](/en/post/a/) [particular](/en/post/particular/) [skill](/en/post/skill/) [or](/en/post/or/) [ability](/en/post/ability/). [Example](/en/post/example/): "[The](/en/post/the/) students did exercises [to](/en/post/to/) [improve](/en/post/improve/) [their](/en/post/their/) [grammar](/en/post/grammar/)."
-  - [The](/en/post/the/) [use](/en/post/use/) [or](/en/post/or/) [application](/en/post/application/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/). [Example](/en/post/example/): "[The](/en/post/the/) [exercise](/en/post/exercise/) [of](/en/post/of/) [authority](/en/post/authority/) [by](/en/post/by/) [the](/en/post/the/) manager was [necessary](/en/post/necessary/) [to](/en/post/to/) [maintain](/en/post/maintain/) [order](/en/post/order/)."
+- **[Noun](/post/noun/)**: [Physical](/post/physical/) [activity](/post/activity/) done [to](/post/to/) [improve](/post/improve/) [health](/post/health/), [maintain](/post/maintain/) fitness, [or](/post/or/) [develop](/post/develop/) [a](/post/a/) [specific](/post/specific/) [skill](/post/skill/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) does yoga [as](/post/as/) [part](/post/part/) [of](/post/of/) [her](/post/her/) [daily](/post/daily/) [exercise](/post/exercise/) [routine](/post/routine/)."
+  - An [activity](/post/activity/) performed [to](/post/to/) [practice](/post/practice/) [or](/post/or/) [demonstrate](/post/demonstrate/) [a](/post/a/) [particular](/post/particular/) [skill](/post/skill/) [or](/post/or/) [ability](/post/ability/). [Example](/post/example/): "[The](/post/the/) students did exercises [to](/post/to/) [improve](/post/improve/) [their](/post/their/) [grammar](/post/grammar/)."
+  - [The](/post/the/) [use](/post/use/) [or](/post/or/) [application](/post/application/) [of](/post/of/) [something](/post/something/), [often](/post/often/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/). [Example](/post/example/): "[The](/post/the/) [exercise](/post/exercise/) [of](/post/of/) [authority](/post/authority/) [by](/post/by/) [the](/post/the/) manager was [necessary](/post/necessary/) [to](/post/to/) [maintain](/post/maintain/) [order](/post/order/)."
   
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [physical](/en/post/physical/) [activity](/en/post/activity/) [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) improving [health](/en/post/health/) [or](/en/post/or/) fitness. [Example](/en/post/example/): "[He](/en/post/he/) exercises [every](/en/post/every/) [morning](/en/post/morning/) [to](/en/post/to/) [stay](/en/post/stay/) [in](/en/post/in/) [shape](/en/post/shape/)."
-  - [To](/en/post/to/) [put](/en/post/put/) [into](/en/post/into/) [use](/en/post/use/) [or](/en/post/or/) [practice](/en/post/practice/); [to](/en/post/to/) [apply](/en/post/apply/) [or](/en/post/or/) [employ](/en/post/employ/) [something](/en/post/something/). [Example](/en/post/example/): "[They](/en/post/they/) exercised caution [when](/en/post/when/) making [the](/en/post/the/) [investment](/en/post/investment/) [decision](/en/post/decision/)."
-  - [To](/en/post/to/) [exert](/en/post/exert/) [influence](/en/post/influence/) [or](/en/post/or/) [power](/en/post/power/); [to](/en/post/to/) [enforce](/en/post/enforce/) one's rights. [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [exercise](/en/post/exercise/) [its](/en/post/its/) [option](/en/post/option/) [to](/en/post/to/) [purchase](/en/post/purchase/) [the](/en/post/the/) [property](/en/post/property/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [physical](/post/physical/) [activity](/post/activity/) [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) improving [health](/post/health/) [or](/post/or/) fitness. [Example](/post/example/): "[He](/post/he/) exercises [every](/post/every/) [morning](/post/morning/) [to](/post/to/) [stay](/post/stay/) [in](/post/in/) [shape](/post/shape/)."
+  - [To](/post/to/) [put](/post/put/) [into](/post/into/) [use](/post/use/) [or](/post/or/) [practice](/post/practice/); [to](/post/to/) [apply](/post/apply/) [or](/post/or/) [employ](/post/employ/) [something](/post/something/). [Example](/post/example/): "[They](/post/they/) exercised caution [when](/post/when/) making [the](/post/the/) [investment](/post/investment/) [decision](/post/decision/)."
+  - [To](/post/to/) [exert](/post/exert/) [influence](/post/influence/) [or](/post/or/) [power](/post/power/); [to](/post/to/) [enforce](/post/enforce/) one's rights. [Example](/post/example/): "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [exercise](/post/exercise/) [its](/post/its/) [option](/post/option/) [to](/post/to/) [purchase](/post/purchase/) [the](/post/the/) [property](/post/property/)."
 
 ## Phrases
-- "[Daily](/en/post/daily/) [exercise](/en/post/exercise/)" refers [to](/en/post/to/) [regular](/en/post/regular/) [physical](/en/post/physical/) activities done [every](/en/post/every/) [day](/en/post/day/).
-- "[Exercise](/en/post/exercise/) regimen" is [a](/en/post/a/) planned [routine](/en/post/routine/) [of](/en/post/of/) [physical](/en/post/physical/) activities aimed [at](/en/post/at/) achieving [a](/en/post/a/) [specific](/en/post/specific/) [health](/en/post/health/) [or](/en/post/or/) fitness [goal](/en/post/goal/).
-- "[To](/en/post/to/) [exercise](/en/post/exercise/) [control](/en/post/control/)" [means](/en/post/means/) [to](/en/post/to/) [manage](/en/post/manage/), [direct](/en/post/direct/), [or](/en/post/or/) dominate [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [a](/en/post/a/) [person](/en/post/person/).
+- "[Daily](/post/daily/) [exercise](/post/exercise/)" refers [to](/post/to/) [regular](/post/regular/) [physical](/post/physical/) activities done [every](/post/every/) [day](/post/day/).
+- "[Exercise](/post/exercise/) regimen" is [a](/post/a/) planned [routine](/post/routine/) [of](/post/of/) [physical](/post/physical/) activities aimed [at](/post/at/) achieving [a](/post/a/) [specific](/post/specific/) [health](/post/health/) [or](/post/or/) fitness [goal](/post/goal/).
+- "[To](/post/to/) [exercise](/post/exercise/) [control](/post/control/)" [means](/post/means/) [to](/post/to/) [manage](/post/manage/), [direct](/post/direct/), [or](/post/or/) dominate [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [a](/post/a/) [person](/post/person/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Walking [the](/en/post/the/) [dog](/en/post/dog/) is [great](/en/post/great/) cardiovascular [exercise](/en/post/exercise/)."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [exercise](/en/post/exercise/) [regularly](/en/post/regularly/) [to](/en/post/to/) [maintain](/en/post/maintain/) [my](/en/post/my/) [weight](/en/post/weight/)."
-- "[The](/en/post/the/) [government](/en/post/government/) is exercising [restraint](/en/post/restraint/) [in](/en/post/in/) [its](/en/post/its/) [response](/en/post/response/) [to](/en/post/to/) [the](/en/post/the/) [crisis](/en/post/crisis/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Walking [the](/post/the/) [dog](/post/dog/) is [great](/post/great/) cardiovascular [exercise](/post/exercise/)."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [exercise](/post/exercise/) [regularly](/post/regularly/) [to](/post/to/) [maintain](/post/maintain/) [my](/post/my/) [weight](/post/weight/)."
+- "[The](/post/the/) [government](/post/government/) is exercising [restraint](/post/restraint/) [in](/post/in/) [its](/post/its/) [response](/post/response/) [to](/post/to/) [the](/post/the/) [crisis](/post/crisis/)."
 
 ## Synonyms
 - Workout
-- [Training](/en/post/training/)
-- [Practice](/en/post/practice/)
-- [Discipline](/en/post/discipline/) ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [activity](/en/post/activity/))
-- [Physical](/en/post/physical/) [activity](/en/post/activity/)
-- Workout [routine](/en/post/routine/)
-- [To](/en/post/to/) [train](/en/post/train/)
-- [To](/en/post/to/) [practice](/en/post/practice/)
-- [To](/en/post/to/) [exert](/en/post/exert/) ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/))
+- [Training](/post/training/)
+- [Practice](/post/practice/)
+- [Discipline](/post/discipline/) ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [activity](/post/activity/))
+- [Physical](/post/physical/) [activity](/post/activity/)
+- Workout [routine](/post/routine/)
+- [To](/post/to/) [train](/post/train/)
+- [To](/post/to/) [practice](/post/practice/)
+- [To](/post/to/) [exert](/post/exert/) ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [form](/post/form/))

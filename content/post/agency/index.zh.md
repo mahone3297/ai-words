@@ -12,22 +12,22 @@ keywords = ['ai words', 'agency']
 
 ## 释义
 - **名词**: 组织，代理机构；中介机构；行动力，影响力；（人的）能动性
-    - 例如: "[The](/post/the/) advertising [agency](/post/agency/) created an eye-catching [campaign](/post/campaign/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [product](/post/product/)."
-    - 例如: "[She](/post/she/) works [for](/post/for/) [a](/post/a/) [government](/post/government/) [agency](/post/agency/) [responsible](/post/responsible/) [for](/post/for/) environmental [protection](/post/protection/)."
-    - 例如: "[His](/post/his/) [belief](/post/belief/) [in](/post/in/) [free](/post/free/) [will](/post/will/) denied [any](/post/any/) divine [agency](/post/agency/) [in](/post/in/) [human](/post/human/) affairs."
+    - 例如: "[The](/zh/post/the/) advertising [agency](/zh/post/agency/) created an eye-catching [campaign](/zh/post/campaign/) [for](/zh/post/for/) [the](/zh/post/the/) [new](/zh/post/new/) [product](/zh/post/product/)."
+    - 例如: "[She](/zh/post/she/) works [for](/zh/post/for/) [a](/zh/post/a/) [government](/zh/post/government/) [agency](/zh/post/agency/) [responsible](/zh/post/responsible/) [for](/zh/post/for/) environmental [protection](/zh/post/protection/)."
+    - 例如: "[His](/zh/post/his/) [belief](/zh/post/belief/) [in](/zh/post/in/) [free](/zh/post/free/) [will](/zh/post/will/) denied [any](/zh/post/any/) divine [agency](/zh/post/agency/) [in](/zh/post/in/) [human](/zh/post/human/) affairs."
 
 ## 短语
-- "[government](/post/government/) [agency](/post/agency/)" 政府机构
-- "[travel](/post/travel/) [agency](/post/agency/)" 旅行社
-- "marketing [agency](/post/agency/)" 市场营销公司
+- "[government](/zh/post/government/) [agency](/zh/post/agency/)" 政府机构
+- "[travel](/zh/post/travel/) [agency](/zh/post/agency/)" 旅行社
+- "marketing [agency](/zh/post/agency/)" 市场营销公司
 
 ## 例句
-- 名词: "[The](/post/the/) recruitment [agency](/post/agency/) [found](/post/found/) [me](/post/me/) [a](/post/a/) [job](/post/job/) [in](/post/in/) [my](/post/my/) [field](/post/field/)."
-- 名词: "[The](/post/the/) [international](/post/international/) [aid](/post/aid/) [agency](/post/agency/) [provided](/post/provided/) [food](/post/food/) [and](/post/and/) [medical](/post/medical/) assistance [to](/post/to/) [the](/post/the/) disaster-stricken [area](/post/area/)."
+- 名词: "[The](/zh/post/the/) recruitment [agency](/zh/post/agency/) [found](/zh/post/found/) [me](/zh/post/me/) [a](/zh/post/a/) [job](/zh/post/job/) [in](/zh/post/in/) [my](/zh/post/my/) [field](/zh/post/field/)."
+- 名词: "[The](/zh/post/the/) [international](/zh/post/international/) [aid](/zh/post/aid/) [agency](/zh/post/agency/) [provided](/zh/post/provided/) [food](/zh/post/food/) [and](/zh/post/and/) [medical](/zh/post/medical/) assistance [to](/zh/post/to/) [the](/zh/post/the/) disaster-stricken [area](/zh/post/area/)."
 
 ## 同义词
-- [Bureau](/post/bureau/)
-- [Department](/post/department/)
-- [Office](/post/office/)
-- [Firm](/post/firm/)
-- [Establishment](/post/establishment/)
+- [Bureau](/zh/post/bureau/)
+- [Department](/zh/post/department/)
+- [Office](/zh/post/office/)
+- [Firm](/zh/post/firm/)
+- [Establishment](/zh/post/establishment/)

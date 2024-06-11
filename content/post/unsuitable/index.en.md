@@ -7,26 +7,26 @@ description = '[ʌnˈsuːtəb(ə)l] a.不合适的,不适宜的'
 keywords = ['ai words', 'unsuitable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ʌnˈsuːtəbl/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **[Meaning](/en/post/meaning/)**: [Not](/en/post/not/) [suitable](/en/post/suitable/) [or](/en/post/or/) [appropriate](/en/post/appropriate/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/) [or](/en/post/or/) [situation](/en/post/situation/); inappropriate [or](/en/post/or/) [not](/en/post/not/) fitting.
-- **Antonyms**: [Suitable](/en/post/suitable/), [appropriate](/en/post/appropriate/), [appropriate](/en/post/appropriate/)
+### [Adjective](/post/adjective/)
+- **[Meaning](/post/meaning/)**: [Not](/post/not/) [suitable](/post/suitable/) [or](/post/or/) [appropriate](/post/appropriate/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/) [or](/post/or/) [situation](/post/situation/); inappropriate [or](/post/or/) [not](/post/not/) fitting.
+- **Antonyms**: [Suitable](/post/suitable/), [appropriate](/post/appropriate/), [appropriate](/post/appropriate/)
 
-### [Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))
-- **[Meaning](/en/post/meaning/)**: An [unsuitable](/en/post/unsuitable/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/); [something](/en/post/something/) [that](/en/post/that/) is [not](/en/post/not/) [suitable](/en/post/suitable/).
-- **Synonyms**: Inappropriate, unfit, unsuited [person](/en/post/person/)/[thing](/en/post/thing/)
+### [Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))
+- **[Meaning](/post/meaning/)**: An [unsuitable](/post/unsuitable/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/); [something](/post/something/) [that](/post/that/) is [not](/post/not/) [suitable](/post/suitable/).
+- **Synonyms**: Inappropriate, unfit, unsuited [person](/post/person/)/[thing](/post/thing/)
 
 ## Phrases
-- "[Unsuitable](/en/post/unsuitable/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/)"
-- "[She](/en/post/she/) wore an [unsuitable](/en/post/unsuitable/) outfit [for](/en/post/for/) [the](/en/post/the/) [formal](/en/post/formal/) [event](/en/post/event/)"
-- "[The](/en/post/the/) [apartment](/en/post/apartment/) was [found](/en/post/found/) [to](/en/post/to/) [be](/en/post/be/) [unsuitable](/en/post/unsuitable/) [for](/en/post/for/) [a](/en/post/a/) [family](/en/post/family/) [with](/en/post/with/) [young](/en/post/young/) children"
+- "[Unsuitable](/post/unsuitable/) [for](/post/for/) [the](/post/the/) [job](/post/job/)"
+- "[She](/post/she/) wore an [unsuitable](/post/unsuitable/) outfit [for](/post/for/) [the](/post/the/) [formal](/post/formal/) [event](/post/event/)"
+- "[The](/post/the/) [apartment](/post/apartment/) was [found](/post/found/) [to](/post/to/) [be](/post/be/) [unsuitable](/post/unsuitable/) [for](/post/for/) [a](/post/a/) [family](/post/family/) [with](/post/with/) [young](/post/young/) children"
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [new](/en/post/new/) hairstyle was considered [unsuitable](/en/post/unsuitable/) [for](/en/post/for/) [the](/en/post/the/) [conservative](/en/post/conservative/) workplace."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) candidate's [lack](/en/post/lack/) [of](/en/post/of/) [experience](/en/post/experience/) made [them](/en/post/them/) an [unsuitable](/en/post/unsuitable/) [choice](/en/post/choice/) [for](/en/post/for/) [the](/en/post/the/) [position](/en/post/position/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [new](/post/new/) hairstyle was considered [unsuitable](/post/unsuitable/) [for](/post/for/) [the](/post/the/) [conservative](/post/conservative/) workplace."
+- **[Noun](/post/noun/)**: "[The](/post/the/) candidate's [lack](/post/lack/) [of](/post/of/) [experience](/post/experience/) made [them](/post/them/) an [unsuitable](/post/unsuitable/) [choice](/post/choice/) [for](/post/for/) [the](/post/the/) [position](/post/position/)."
 
 ## Synonyms
 - Inappropriate
@@ -35,5 +35,5 @@ keywords = ['ai words', 'unsuitable']
 - Improper
 - Irrelevant
 
-## [Note](/en/post/note/)
-[While](/en/post/while/) [the](/en/post/the/) [noun](/en/post/noun/) [form](/en/post/form/) [of](/en/post/of/) "[unsuitable](/en/post/unsuitable/)" is [less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/), [it](/en/post/it/) [can](/en/post/can/) [still](/en/post/still/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [some](/en/post/some/) contexts [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is [not](/en/post/not/) [suitable](/en/post/suitable/). [However](/en/post/however/), [the](/en/post/the/) [primary](/en/post/primary/) [usage](/en/post/usage/) [of](/en/post/of/) "[unsuitable](/en/post/unsuitable/)" is [as](/en/post/as/) an [adjective](/en/post/adjective/).
+## [Note](/post/note/)
+[While](/post/while/) [the](/post/the/) [noun](/post/noun/) [form](/post/form/) [of](/post/of/) "[unsuitable](/post/unsuitable/)" is [less](/post/less/) [commonly](/post/commonly/) [used](/post/used/), [it](/post/it/) [can](/post/can/) [still](/post/still/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [some](/post/some/) contexts [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is [not](/post/not/) [suitable](/post/suitable/). [However](/post/however/), [the](/post/the/) [primary](/post/primary/) [usage](/post/usage/) [of](/post/of/) "[unsuitable](/post/unsuitable/)" is [as](/post/as/) an [adjective](/post/adjective/).

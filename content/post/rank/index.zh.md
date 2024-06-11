@@ -12,32 +12,32 @@ keywords = ['ai words', 'rank']
 
 ## 释义
 - **名词**:
-  - 等级，级别：[A](/post/a/) [position](/post/position/) [or](/post/or/) [level](/post/level/) [in](/post/in/) [a](/post/a/) hierarchical [system](/post/system/); [a](/post/a/) [classification](/post/classification/).
-  - 军衔，军阶：[A](/post/a/) [position](/post/position/) [in](/post/in/) [the](/post/the/) [military](/post/military/) hierarchy.
-  - 队列，行列：[A](/post/a/) [line](/post/line/) [of](/post/of/) [people](/post/people/) [or](/post/or/) things arranged [in](/post/in/) [order](/post/order/).
+  - 等级，级别：[A](/zh/post/a/) [position](/zh/post/position/) [or](/zh/post/or/) [level](/zh/post/level/) [in](/zh/post/in/) [a](/zh/post/a/) hierarchical [system](/zh/post/system/); [a](/zh/post/a/) [classification](/zh/post/classification/).
+  - 军衔，军阶：[A](/zh/post/a/) [position](/zh/post/position/) [in](/zh/post/in/) [the](/zh/post/the/) [military](/zh/post/military/) hierarchy.
+  - 队列，行列：[A](/zh/post/a/) [line](/zh/post/line/) [of](/zh/post/of/) [people](/zh/post/people/) [or](/zh/post/or/) things arranged [in](/zh/post/in/) [order](/zh/post/order/).
 
 - **动词**:
-  - 排列，分类：[To](/post/to/) [arrange](/post/arrange/) [in](/post/in/) [a](/post/a/) [row](/post/row/) [or](/post/or/) [series](/post/series/); [to](/post/to/) [classify](/post/classify/).
-  - 给予军衔：[To](/post/to/) [assign](/post/assign/) [a](/post/a/) [military](/post/military/) [rank](/post/rank/) [to](/post/to/) [someone](/post/someone/).
-  - 在等级中位居…：[To](/post/to/) [occupy](/post/occupy/) [a](/post/a/) [particular](/post/particular/) [position](/post/position/) [in](/post/in/) [a](/post/a/) ranking [or](/post/or/) [scale](/post/scale/).
+  - 排列，分类：[To](/zh/post/to/) [arrange](/zh/post/arrange/) [in](/zh/post/in/) [a](/zh/post/a/) [row](/zh/post/row/) [or](/zh/post/or/) [series](/zh/post/series/); [to](/zh/post/to/) [classify](/zh/post/classify/).
+  - 给予军衔：[To](/zh/post/to/) [assign](/zh/post/assign/) [a](/zh/post/a/) [military](/zh/post/military/) [rank](/zh/post/rank/) [to](/zh/post/to/) [someone](/zh/post/someone/).
+  - 在等级中位居…：[To](/zh/post/to/) [occupy](/zh/post/occupy/) [a](/zh/post/a/) [particular](/zh/post/particular/) [position](/zh/post/position/) [in](/zh/post/in/) [a](/zh/post/a/) ranking [or](/zh/post/or/) [scale](/zh/post/scale/).
 
 - **形容词**:
-  - 等级的，级别的：Relating [to](/post/to/) [or](/post/or/) denoting [a](/post/a/) [position](/post/position/) [in](/post/in/) [a](/post/a/) hierarchy [or](/post/or/) [classification](/post/classification/).
-  - 权威的，有威信的：Having [authority](/post/authority/) [or](/post/or/) [influence](/post/influence/).
+  - 等级的，级别的：Relating [to](/zh/post/to/) [or](/zh/post/or/) denoting [a](/zh/post/a/) [position](/zh/post/position/) [in](/zh/post/in/) [a](/zh/post/a/) hierarchy [or](/zh/post/or/) [classification](/zh/post/classification/).
+  - 权威的，有威信的：Having [authority](/zh/post/authority/) [or](/zh/post/or/) [influence](/zh/post/influence/).
 
 ## 短语
-- "[rank](/post/rank/) [and](/post/and/) [file](/post/file/)" 指普通士兵或组织内的普通成员。
-- "[rank](/post/rank/) [up](/post/up/)" 在游戏或军事中提升等级或军衔。
-- "[rank](/post/rank/) [with](/post/with/)" 把…与…相提并论，视为同等重要。
+- "[rank](/zh/post/rank/) [and](/zh/post/and/) [file](/zh/post/file/)" 指普通士兵或组织内的普通成员。
+- "[rank](/zh/post/rank/) [up](/zh/post/up/)" 在游戏或军事中提升等级或军衔。
+- "[rank](/zh/post/rank/) [with](/zh/post/with/)" 把…与…相提并论，视为同等重要。
 
 ## 例句
-- 名词: "[He](/post/he/) was promoted [to](/post/to/) [the](/post/the/) [rank](/post/rank/) [of](/post/of/) [colonel](/post/colonel/)."
-- 动词: "[The](/post/the/) [new](/post/new/) recruits [will](/post/will/) [rank](/post/rank/) according [to](/post/to/) [their](/post/their/) [performance](/post/performance/)."
-- 形容词: "[He](/post/he/) held [a](/post/a/) [rank](/post/rank/) [position](/post/position/) [in](/post/in/) [the](/post/the/) [company](/post/company/), [but](/post/but/) had [little](/post/little/) [real](/post/real/) [power](/post/power/)."
+- 名词: "[He](/zh/post/he/) was promoted [to](/zh/post/to/) [the](/zh/post/the/) [rank](/zh/post/rank/) [of](/zh/post/of/) [colonel](/zh/post/colonel/)."
+- 动词: "[The](/zh/post/the/) [new](/zh/post/new/) recruits [will](/zh/post/will/) [rank](/zh/post/rank/) according [to](/zh/post/to/) [their](/zh/post/their/) [performance](/zh/post/performance/)."
+- 形容词: "[He](/zh/post/he/) held [a](/zh/post/a/) [rank](/zh/post/rank/) [position](/zh/post/position/) [in](/zh/post/in/) [the](/zh/post/the/) [company](/zh/post/company/), [but](/zh/post/but/) had [little](/zh/post/little/) [real](/zh/post/real/) [power](/zh/post/power/)."
 
 ## 同义词
-- [Grade](/post/grade/)
-- [Level](/post/level/)
-- [Position](/post/position/)
-- [Classification](/post/classification/)
+- [Grade](/zh/post/grade/)
+- [Level](/zh/post/level/)
+- [Position](/zh/post/position/)
+- [Classification](/zh/post/classification/)
 - Standing

@@ -11,20 +11,20 @@ keywords = ['ai words', 'idiom']
 /ˈaɪdiəm/
 
 ## 释义
-- **名词 (n)**: 固定短语，成语，习语，通常不能按照字面意思理解，具有特殊含义或文化背景的表达方式。例如: "Actions [speak](/post/speak/) louder [than](/post/than/) words"（事实胜于雄辩）。
+- **名词 (n)**: 固定短语，成语，习语，通常不能按照字面意思理解，具有特殊含义或文化背景的表达方式。例如: "Actions [speak](/zh/post/speak/) louder [than](/zh/post/than/) words"（事实胜于雄辩）。
 
 ## 短语
-- "[break](/post/break/) [the](/post/the/) [ice](/post/ice/)" 打破僵局，消除紧张气氛。
-- "[cost](/post/cost/) an [arm](/post/arm/) [and](/post/and/) [a](/post/a/) [leg](/post/leg/)" 花费巨大，价格昂贵。
-- "[let](/post/let/) [the](/post/the/) [cat](/post/cat/) [out](/post/out/) [of](/post/of/) [the](/post/the/) [bag](/post/bag/)" 泄露秘密。
+- "[break](/zh/post/break/) [the](/zh/post/the/) [ice](/zh/post/ice/)" 打破僵局，消除紧张气氛。
+- "[cost](/zh/post/cost/) an [arm](/zh/post/arm/) [and](/zh/post/and/) [a](/zh/post/a/) [leg](/zh/post/leg/)" 花费巨大，价格昂贵。
+- "[let](/zh/post/let/) [the](/zh/post/the/) [cat](/zh/post/cat/) [out](/zh/post/out/) [of](/zh/post/of/) [the](/zh/post/the/) [bag](/zh/post/bag/)" 泄露秘密。
 
 ## 例句
-- "Using idioms [can](/post/can/) [make](/post/make/) [your](/post/your/) [speech](/post/speech/) [more](/post/more/) [vivid](/post/vivid/), [like](/post/like/) 'it's raining cats [and](/post/and/) dogs' [means](/post/means/) it's raining [heavily](/post/heavily/)."
-- "[The](/post/the/) [idiom](/post/idiom/) '[time](/post/time/) heals [all](/post/all/) wounds' is [often](/post/often/) [used](/post/used/) [to](/post/to/) [comfort](/post/comfort/) [those](/post/those/) [who](/post/who/) are going [through](/post/through/) [a](/post/a/) [difficult](/post/difficult/) [time](/post/time/)."
+- "Using idioms [can](/zh/post/can/) [make](/zh/post/make/) [your](/zh/post/your/) [speech](/zh/post/speech/) [more](/zh/post/more/) [vivid](/zh/post/vivid/), [like](/zh/post/like/) 'it's raining cats [and](/zh/post/and/) dogs' [means](/zh/post/means/) it's raining [heavily](/zh/post/heavily/)."
+- "[The](/zh/post/the/) [idiom](/zh/post/idiom/) '[time](/zh/post/time/) heals [all](/zh/post/all/) wounds' is [often](/zh/post/often/) [used](/zh/post/used/) [to](/zh/post/to/) [comfort](/zh/post/comfort/) [those](/zh/post/those/) [who](/zh/post/who/) are going [through](/zh/post/through/) [a](/zh/post/a/) [difficult](/zh/post/difficult/) [time](/zh/post/time/)."
 
 ## 同义词
 - Proverb
-- [Phrase](/post/phrase/)
+- [Phrase](/zh/post/phrase/)
 - Colloquialism
-- [Figure](/post/figure/) [of](/post/of/) [speech](/post/speech/)
-- [Expression](/post/expression/)
+- [Figure](/zh/post/figure/) [of](/zh/post/of/) [speech](/zh/post/speech/)
+- [Expression](/zh/post/expression/)

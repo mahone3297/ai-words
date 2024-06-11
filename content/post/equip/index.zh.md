@@ -11,20 +11,20 @@ keywords = ['ai words', 'equip']
 /ɪˈkwɪp/
 
 ## 释义
-- **动词**: 准备或提供必要的工具、设备或资源。例如: "[The](/post/the/) [company](/post/company/) equips [its](/post/its/) employees [with](/post/with/) [the](/post/the/) latest [technology](/post/technology/)."
-- **名词**: 所需的装备或工具。例如: "[They](/post/they/) [need](/post/need/) [all](/post/all/) [the](/post/the/) [right](/post/right/) [equipment](/post/equipment/) [for](/post/for/) [the](/post/the/) camping [trip](/post/trip/)."
+- **动词**: 准备或提供必要的工具、设备或资源。例如: "[The](/zh/post/the/) [company](/zh/post/company/) equips [its](/zh/post/its/) employees [with](/zh/post/with/) [the](/zh/post/the/) latest [technology](/zh/post/technology/)."
+- **名词**: 所需的装备或工具。例如: "[They](/zh/post/they/) [need](/zh/post/need/) [all](/zh/post/all/) [the](/zh/post/the/) [right](/zh/post/right/) [equipment](/zh/post/equipment/) [for](/zh/post/for/) [the](/zh/post/the/) camping [trip](/zh/post/trip/)."
 
 ## 短语
-- "[to](/post/to/) [be](/post/be/) well-equipped" 意为装备齐全或准备充分。例如: "[The](/post/the/) [kitchen](/post/kitchen/) is well-equipped [for](/post/for/) cooking [elaborate](/post/elaborate/) meals."
-- "[to](/post/to/) [equip](/post/equip/) [someone](/post/someone/) [for](/post/for/) [something](/post/something/)" 意味着为某人提供完成某事所需的能力或工具。例如: "[The](/post/the/) [training](/post/training/) equipped [them](/post/them/) [for](/post/for/) [their](/post/their/) [new](/post/new/) jobs."
+- "[to](/zh/post/to/) [be](/zh/post/be/) well-equipped" 意为装备齐全或准备充分。例如: "[The](/zh/post/the/) [kitchen](/zh/post/kitchen/) is well-equipped [for](/zh/post/for/) cooking [elaborate](/zh/post/elaborate/) meals."
+- "[to](/zh/post/to/) [equip](/zh/post/equip/) [someone](/zh/post/someone/) [for](/zh/post/for/) [something](/zh/post/something/)" 意味着为某人提供完成某事所需的能力或工具。例如: "[The](/zh/post/the/) [training](/zh/post/training/) equipped [them](/zh/post/them/) [for](/zh/post/for/) [their](/zh/post/their/) [new](/zh/post/new/) jobs."
 
 ## 例句
-- 动词: "[The](/post/the/) [school](/post/school/) [will](/post/will/) [equip](/post/equip/) students [with](/post/with/) [essential](/post/essential/) skills [for](/post/for/) [future](/post/future/) careers."
-- 名词: "[Make](/post/make/) [sure](/post/sure/) [you](/post/you/) [have](/post/have/) [all](/post/all/) [the](/post/the/) [necessary](/post/necessary/) [equipment](/post/equipment/) [before](/post/before/) starting [the](/post/the/) [job](/post/job/)."
+- 动词: "[The](/zh/post/the/) [school](/zh/post/school/) [will](/zh/post/will/) [equip](/zh/post/equip/) students [with](/zh/post/with/) [essential](/zh/post/essential/) skills [for](/zh/post/for/) [future](/zh/post/future/) careers."
+- 名词: "[Make](/zh/post/make/) [sure](/zh/post/sure/) [you](/zh/post/you/) [have](/zh/post/have/) [all](/zh/post/all/) [the](/zh/post/the/) [necessary](/zh/post/necessary/) [equipment](/zh/post/equipment/) [before](/zh/post/before/) starting [the](/zh/post/the/) [job](/zh/post/job/)."
 
 ## 同义词
-- [Provide](/post/provide/)
-- [Furnish](/post/furnish/)
+- [Provide](/zh/post/provide/)
+- [Furnish](/zh/post/furnish/)
 - Outfit
-- [Supply](/post/supply/)
-- [Arm](/post/arm/)
+- [Supply](/zh/post/supply/)
+- [Arm](/zh/post/arm/)

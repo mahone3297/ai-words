@@ -11,20 +11,20 @@ keywords = ['ai words', 'dusk']
 /ˈdʌsk/
 
 ## 释义
-- **名词**: 黄昏，傍晚，天黑前的一段时间。例如: "[The](/post/the/) birds started chirping [as](/post/as/) [dusk](/post/dusk/) fell."
-- **形容词**: 暗淡的，黄昏时的。例如: "[The](/post/the/) [dusk](/post/dusk/) [sky](/post/sky/) was painted [with](/post/with/) shades [of](/post/of/) [orange](/post/orange/) [and](/post/and/) [purple](/post/purple/)."
+- **名词**: 黄昏，傍晚，天黑前的一段时间。例如: "[The](/zh/post/the/) birds started chirping [as](/zh/post/as/) [dusk](/zh/post/dusk/) fell."
+- **形容词**: 暗淡的，黄昏时的。例如: "[The](/zh/post/the/) [dusk](/zh/post/dusk/) [sky](/zh/post/sky/) was painted [with](/zh/post/with/) shades [of](/zh/post/of/) [orange](/zh/post/orange/) [and](/zh/post/and/) [purple](/zh/post/purple/)."
 
 ## 短语
-- "[at](/post/at/) [dusk](/post/dusk/)" 在黄昏时分。
-- "[dusk](/post/dusk/) [till](/post/till/) [dawn](/post/dawn/)" 从黄昏到黎明。
+- "[at](/zh/post/at/) [dusk](/zh/post/dusk/)" 在黄昏时分。
+- "[dusk](/zh/post/dusk/) [till](/zh/post/till/) [dawn](/zh/post/dawn/)" 从黄昏到黎明。
 
 ## 例句
-- 名词: "[We](/post/we/) [often](/post/often/) [take](/post/take/) [a](/post/a/) [walk](/post/walk/) [in](/post/in/) [the](/post/the/) [park](/post/park/) [at](/post/at/) [dusk](/post/dusk/)."
-- 形容词: "[The](/post/the/) streetlights illuminated [the](/post/the/) [dusk](/post/dusk/) landscape."
+- 名词: "[We](/zh/post/we/) [often](/zh/post/often/) [take](/zh/post/take/) [a](/zh/post/a/) [walk](/zh/post/walk/) [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/) [at](/zh/post/at/) [dusk](/zh/post/dusk/)."
+- 形容词: "[The](/zh/post/the/) streetlights illuminated [the](/zh/post/the/) [dusk](/zh/post/dusk/) landscape."
 
 ## 同义词
 - twilight
-- [evening](/post/evening/)
-- [sunset](/post/sunset/)
+- [evening](/zh/post/evening/)
+- [sunset](/zh/post/sunset/)
 - gloaming
 - crepuscule

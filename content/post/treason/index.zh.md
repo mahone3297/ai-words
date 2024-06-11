@@ -11,16 +11,16 @@ keywords = ['ai words', 'treason']
 /tɹiˈzən/
 
 ## 释义
-- **名词**: 反叛；背叛；叛国罪。例如: "[He](/post/he/) was accused [of](/post/of/) [high](/post/high/) [treason](/post/treason/) [against](/post/against/) [the](/post/the/) [king](/post/king/)."
-- **名词**: 不忠；违反誓言或义务。例如: "[Her](/post/her/) betrayal was considered an [act](/post/act/) [of](/post/of/) [treason](/post/treason/)."
+- **名词**: 反叛；背叛；叛国罪。例如: "[He](/zh/post/he/) was accused [of](/zh/post/of/) [high](/zh/post/high/) [treason](/zh/post/treason/) [against](/zh/post/against/) [the](/zh/post/the/) [king](/zh/post/king/)."
+- **名词**: 不忠；违反誓言或义务。例如: "[Her](/zh/post/her/) betrayal was considered an [act](/zh/post/act/) [of](/zh/post/of/) [treason](/zh/post/treason/)."
 
 ## 短语
-- "[commit](/post/commit/) [treason](/post/treason/)" 意为犯下叛国罪。
-- "[traitor](/post/traitor/) [to](/post/to/) one's [country](/post/country/)" 指的是叛国者。
+- "[commit](/zh/post/commit/) [treason](/zh/post/treason/)" 意为犯下叛国罪。
+- "[traitor](/zh/post/traitor/) [to](/zh/post/to/) one's [country](/zh/post/country/)" 指的是叛国者。
 
 ## 例句
-- "[The](/post/the/) accused was [found](/post/found/) [guilty](/post/guilty/) [of](/post/of/) [treason](/post/treason/) [and](/post/and/) sentenced [to](/post/to/) [life](/post/life/) imprisonment."
-- "[In](/post/in/) [some](/post/some/) countries, speaking [against](/post/against/) [the](/post/the/) [government](/post/government/) [can](/post/can/) [be](/post/be/) considered an [act](/post/act/) [of](/post/of/) [treason](/post/treason/)."
+- "[The](/zh/post/the/) accused was [found](/zh/post/found/) [guilty](/zh/post/guilty/) [of](/zh/post/of/) [treason](/zh/post/treason/) [and](/zh/post/and/) sentenced [to](/zh/post/to/) [life](/zh/post/life/) imprisonment."
+- "[In](/zh/post/in/) [some](/zh/post/some/) countries, speaking [against](/zh/post/against/) [the](/zh/post/the/) [government](/zh/post/government/) [can](/zh/post/can/) [be](/zh/post/be/) considered an [act](/zh/post/act/) [of](/zh/post/of/) [treason](/zh/post/treason/)."
 
 ## 同义词
 - Betrayal

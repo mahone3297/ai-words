@@ -11,20 +11,20 @@ keywords = ['ai words', 'necessary']
 /ˈnɛsərəri/
 
 ## 释义
-- **形容词**: 必要的，必需的，不可或缺的。例如: "[It](/post/it/) is [necessary](/post/necessary/) [to](/post/to/) [wear](/post/wear/) [a](/post/a/) [helmet](/post/helmet/) [while](/post/while/) riding [a](/post/a/) [bike](/post/bike/)."
-- **名词**: 必需品，必要条件。例如: "[Food](/post/food/) [and](/post/and/) [shelter](/post/shelter/) are [the](/post/the/) necessities [of](/post/of/) [life](/post/life/)."
+- **形容词**: 必要的，必需的，不可或缺的。例如: "[It](/zh/post/it/) is [necessary](/zh/post/necessary/) [to](/zh/post/to/) [wear](/zh/post/wear/) [a](/zh/post/a/) [helmet](/zh/post/helmet/) [while](/zh/post/while/) riding [a](/zh/post/a/) [bike](/zh/post/bike/)."
+- **名词**: 必需品，必要条件。例如: "[Food](/zh/post/food/) [and](/zh/post/and/) [shelter](/zh/post/shelter/) are [the](/zh/post/the/) necessities [of](/zh/post/of/) [life](/zh/post/life/)."
 
 ## 短语
-- "[In](/post/in/) [the](/post/the/) [necessary](/post/necessary/) [case](/post/case/)" 在必要的情况下。
-- "[The](/post/the/) [necessary](/post/necessary/) expenses" 必要的开支。
+- "[In](/zh/post/in/) [the](/zh/post/the/) [necessary](/zh/post/necessary/) [case](/zh/post/case/)" 在必要的情况下。
+- "[The](/zh/post/the/) [necessary](/zh/post/necessary/) expenses" 必要的开支。
 
 ## 例句
-- 形容词: "Doing [regular](/post/regular/) [exercise](/post/exercise/) is [necessary](/post/necessary/) [for](/post/for/) [good](/post/good/) [health](/post/health/)."
-- 名词: "[The](/post/the/) [company](/post/company/) [provided](/post/provided/) [all](/post/all/) [the](/post/the/) [necessary](/post/necessary/) tools [for](/post/for/) [the](/post/the/) [job](/post/job/)."
+- 形容词: "Doing [regular](/zh/post/regular/) [exercise](/zh/post/exercise/) is [necessary](/zh/post/necessary/) [for](/zh/post/for/) [good](/zh/post/good/) [health](/zh/post/health/)."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) [provided](/zh/post/provided/) [all](/zh/post/all/) [the](/zh/post/the/) [necessary](/zh/post/necessary/) tools [for](/zh/post/for/) [the](/zh/post/the/) [job](/zh/post/job/)."
 
 ## 同义词
-- [Essential](/post/essential/)
-- [Indispensable](/post/indispensable/)
-- [Vital](/post/vital/)
+- [Essential](/zh/post/essential/)
+- [Indispensable](/zh/post/indispensable/)
+- [Vital](/zh/post/vital/)
 - Crucial
 - Compulsory

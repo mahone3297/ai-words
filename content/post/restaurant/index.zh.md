@@ -11,21 +11,21 @@ keywords = ['ai words', 'restaurant']
 /rɪˈstərənt/
 
 ## 释义
-- **名词 (n)**: 一种提供食物和饮料给顾客消费的商业场所，通常有服务员服务。例如: "[We](/post/we/) had [a](/post/a/) [delicious](/post/delicious/) [dinner](/post/dinner/) [at](/post/at/) [the](/post/the/) French [restaurant](/post/restaurant/) [last](/post/last/) [night](/post/night/)."
+- **名词 (n)**: 一种提供食物和饮料给顾客消费的商业场所，通常有服务员服务。例如: "[We](/zh/post/we/) had [a](/zh/post/a/) [delicious](/zh/post/delicious/) [dinner](/zh/post/dinner/) [at](/zh/post/at/) [the](/zh/post/the/) French [restaurant](/zh/post/restaurant/) [last](/zh/post/last/) [night](/zh/post/night/)."
 
 ## 短语
-- "[Fine](/post/fine/) dining [restaurant](/post/restaurant/)" 指提供高级美食和服务的餐厅。
-- "[Fast](/post/fast/) [food](/post/food/) [restaurant](/post/restaurant/)" 指快餐店，如麦当劳或肯德基。
-- "Brunch [restaurant](/post/restaurant/)" 提供早午餐的餐馆。
+- "[Fine](/zh/post/fine/) dining [restaurant](/zh/post/restaurant/)" 指提供高级美食和服务的餐厅。
+- "[Fast](/zh/post/fast/) [food](/zh/post/food/) [restaurant](/zh/post/restaurant/)" 指快餐店，如麦当劳或肯德基。
+- "Brunch [restaurant](/zh/post/restaurant/)" 提供早午餐的餐馆。
 
 ## 例句
-- "Let's [meet](/post/meet/) [at](/post/at/) [that](/post/that/) [new](/post/new/) Italian [restaurant](/post/restaurant/) [on](/post/on/) Saturday [evening](/post/evening/)."
-- "[The](/post/the/) [restaurant](/post/restaurant/) was [so](/post/so/) crowded, [we](/post/we/) had [to](/post/to/) [wait](/post/wait/) [for](/post/for/) [a](/post/a/) [table](/post/table/)."
-- "[We](/post/we/) enjoyed [the](/post/the/) [live](/post/live/) [music](/post/music/) [while](/post/while/) having [dinner](/post/dinner/) [at](/post/at/) [the](/post/the/) riverside [restaurant](/post/restaurant/)."
+- "Let's [meet](/zh/post/meet/) [at](/zh/post/at/) [that](/zh/post/that/) [new](/zh/post/new/) Italian [restaurant](/zh/post/restaurant/) [on](/zh/post/on/) Saturday [evening](/zh/post/evening/)."
+- "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) was [so](/zh/post/so/) crowded, [we](/zh/post/we/) had [to](/zh/post/to/) [wait](/zh/post/wait/) [for](/zh/post/for/) [a](/zh/post/a/) [table](/zh/post/table/)."
+- "[We](/zh/post/we/) enjoyed [the](/zh/post/the/) [live](/zh/post/live/) [music](/zh/post/music/) [while](/zh/post/while/) having [dinner](/zh/post/dinner/) [at](/zh/post/at/) [the](/zh/post/the/) riverside [restaurant](/zh/post/restaurant/)."
 
 ## 同义词
-- [Cafe](/post/cafe/)
+- [Cafe](/zh/post/cafe/)
 - Bistro
 - Eatery
 - Diner
-- [Establishment](/post/establishment/)
+- [Establishment](/zh/post/establishment/)

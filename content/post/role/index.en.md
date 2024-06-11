@@ -7,46 +7,46 @@ description = '[rəul] n.角色，作用，任务'
 keywords = ['ai words', 'role']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəʊl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [role](/en/post/role/)** is [a](/en/post/a/) [part](/en/post/part/) [or](/en/post/or/) [function](/en/post/function/) [that](/en/post/that/) an [individual](/en/post/individual/) [or](/en/post/or/) entity plays [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) context [or](/en/post/or/) [situation](/en/post/situation/), [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) character's [position](/en/post/position/) [in](/en/post/in/) [a](/en/post/a/) [play](/en/post/play/), [movie](/en/post/movie/), [or](/en/post/or/) [social](/en/post/social/) hierarchy.
-- [In](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [organization](/en/post/organization/): "[Each](/en/post/each/) [team](/en/post/team/) [member](/en/post/member/) has [a](/en/post/a/) [specific](/en/post/specific/) [role](/en/post/role/) [to](/en/post/to/) fulfill."
-- [In](/en/post/in/) [society](/en/post/society/) [or](/en/post/or/) [culture](/en/post/culture/): "Roles [and](/en/post/and/) expectations [can](/en/post/can/) [vary](/en/post/vary/) [across](/en/post/across/) [different](/en/post/different/) [social](/en/post/social/) classes."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [role](/post/role/)** is [a](/post/a/) [part](/post/part/) [or](/post/or/) [function](/post/function/) [that](/post/that/) an [individual](/post/individual/) [or](/post/or/) entity plays [in](/post/in/) [a](/post/a/) [particular](/post/particular/) context [or](/post/or/) [situation](/post/situation/), [often](/post/often/) referring [to](/post/to/) [a](/post/a/) character's [position](/post/position/) [in](/post/in/) [a](/post/a/) [play](/post/play/), [movie](/post/movie/), [or](/post/or/) [social](/post/social/) hierarchy.
+- [In](/post/in/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [organization](/post/organization/): "[Each](/post/each/) [team](/post/team/) [member](/post/member/) has [a](/post/a/) [specific](/post/specific/) [role](/post/role/) [to](/post/to/) fulfill."
+- [In](/post/in/) [society](/post/society/) [or](/post/or/) [culture](/post/culture/): "Roles [and](/post/and/) expectations [can](/post/can/) [vary](/post/vary/) [across](/post/across/) [different](/post/different/) [social](/post/social/) classes."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) **[play](/en/post/play/) [a](/en/post/a/) [role](/en/post/role/)** is [to](/en/post/to/) [assume](/en/post/assume/) [or](/en/post/or/) [perform](/en/post/perform/) [a](/en/post/a/) [particular](/en/post/particular/) [function](/en/post/function/) [or](/en/post/or/) [duty](/en/post/duty/), [either](/en/post/either/) [in](/en/post/in/) [a](/en/post/a/) literal [or](/en/post/or/) figurative [sense](/en/post/sense/).
-- "[She](/en/post/she/) plays [a](/en/post/a/) [vital](/en/post/vital/) [role](/en/post/role/) [in](/en/post/in/) [our](/en/post/our/) company's [success](/en/post/success/)."
-- "[The](/en/post/the/) [child](/en/post/child/) eagerly assumes roles [during](/en/post/during/) [their](/en/post/their/) [pretend](/en/post/pretend/) [play](/en/post/play/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) **[play](/post/play/) [a](/post/a/) [role](/post/role/)** is [to](/post/to/) [assume](/post/assume/) [or](/post/or/) [perform](/post/perform/) [a](/post/a/) [particular](/post/particular/) [function](/post/function/) [or](/post/or/) [duty](/post/duty/), [either](/post/either/) [in](/post/in/) [a](/post/a/) literal [or](/post/or/) figurative [sense](/post/sense/).
+- "[She](/post/she/) plays [a](/post/a/) [vital](/post/vital/) [role](/post/role/) [in](/post/in/) [our](/post/our/) company's [success](/post/success/)."
+- "[The](/post/the/) [child](/post/child/) eagerly assumes roles [during](/post/during/) [their](/post/their/) [pretend](/post/pretend/) [play](/post/play/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Role](/en/post/role/) [model](/en/post/model/)** is [someone](/en/post/someone/) [who](/en/post/who/) serves [as](/en/post/as/) an [example](/en/post/example/) [or](/en/post/or/) inspiration, typically [for](/en/post/for/) others [to](/en/post/to/) emulate.
-- "[My](/en/post/my/) [teacher](/en/post/teacher/) was [a](/en/post/a/) [positive](/en/post/positive/) [role](/en/post/role/) [model](/en/post/model/) [for](/en/post/for/) [me](/en/post/me/)."
+### [Adjective](/post/adjective/)
+- **[Role](/post/role/) [model](/post/model/)** is [someone](/post/someone/) [who](/post/who/) serves [as](/post/as/) an [example](/post/example/) [or](/post/or/) inspiration, typically [for](/post/for/) others [to](/post/to/) emulate.
+- "[My](/post/my/) [teacher](/post/teacher/) was [a](/post/a/) [positive](/post/positive/) [role](/post/role/) [model](/post/model/) [for](/post/for/) [me](/post/me/)."
 
-### [Adjective](/en/post/adjective/) ([in](/en/post/in/) British English)
-- **Acting [role](/en/post/role/)** refers [to](/en/post/to/) [a](/en/post/a/) [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [performance](/en/post/performance/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [play](/en/post/play/) [or](/en/post/or/) [film](/en/post/film/).
-- "[She](/en/post/she/) landed [her](/en/post/her/) [first](/en/post/first/) acting [role](/en/post/role/) [in](/en/post/in/) [a](/en/post/a/) [major](/en/post/major/) [motion](/en/post/motion/) [picture](/en/post/picture/)."
+### [Adjective](/post/adjective/) ([in](/post/in/) British English)
+- **Acting [role](/post/role/)** refers [to](/post/to/) [a](/post/a/) [part](/post/part/) [in](/post/in/) [a](/post/a/) [performance](/post/performance/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [play](/post/play/) [or](/post/or/) [film](/post/film/).
+- "[She](/post/she/) landed [her](/post/her/) [first](/post/first/) acting [role](/post/role/) [in](/post/in/) [a](/post/a/) [major](/post/major/) [motion](/post/motion/) [picture](/post/picture/)."
 
 ## Phrases
-- "[Play](/en/post/play/) [your](/en/post/your/) [role](/en/post/role/) [well](/en/post/well/)" [means](/en/post/means/) [to](/en/post/to/) [perform](/en/post/perform/) one's duties [or](/en/post/or/) responsibilities effectively.
-- "[A](/en/post/a/) [leading](/en/post/leading/) [role](/en/post/role/)" signifies [a](/en/post/a/) [prominent](/en/post/prominent/) [position](/en/post/position/) [or](/en/post/or/) [significant](/en/post/significant/) [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [project](/en/post/project/) [or](/en/post/or/) [situation](/en/post/situation/).
-- "Breaking [free](/en/post/free/) [from](/en/post/from/) societal roles" implies challenging [or](/en/post/or/) transcending [traditional](/en/post/traditional/) expectations.
+- "[Play](/post/play/) [your](/post/your/) [role](/post/role/) [well](/post/well/)" [means](/post/means/) [to](/post/to/) [perform](/post/perform/) one's duties [or](/post/or/) responsibilities effectively.
+- "[A](/post/a/) [leading](/post/leading/) [role](/post/role/)" signifies [a](/post/a/) [prominent](/post/prominent/) [position](/post/position/) [or](/post/or/) [significant](/post/significant/) [part](/post/part/) [in](/post/in/) [a](/post/a/) [project](/post/project/) [or](/post/or/) [situation](/post/situation/).
+- "Breaking [free](/post/free/) [from](/post/from/) societal roles" implies challenging [or](/post/or/) transcending [traditional](/post/traditional/) expectations.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) [the](/en/post/the/) [play](/en/post/play/), [he](/en/post/he/) played [the](/en/post/the/) [role](/en/post/role/) [of](/en/post/of/) [a](/en/post/a/) detective."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) accepted [the](/en/post/the/) [role](/en/post/role/) [of](/en/post/of/) [team](/en/post/team/) [captain](/en/post/captain/) [without](/en/post/without/) hesitation."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) is [a](/en/post/a/) [role](/en/post/role/) [model](/en/post/model/) [for](/en/post/for/) [his](/en/post/his/) younger siblings."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[In](/post/in/) [the](/post/the/) [play](/post/play/), [he](/post/he/) played [the](/post/the/) [role](/post/role/) [of](/post/of/) [a](/post/a/) detective."
+- **[Verb](/post/verb/)**: "[She](/post/she/) accepted [the](/post/the/) [role](/post/role/) [of](/post/of/) [team](/post/team/) [captain](/post/captain/) [without](/post/without/) hesitation."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) is [a](/post/a/) [role](/post/role/) [model](/post/model/) [for](/post/for/) [his](/post/his/) younger siblings."
 
 ## Synonyms
-- [Part](/en/post/part/)
-- [Function](/en/post/function/)
-- [Position](/en/post/position/)
+- [Part](/post/part/)
+- [Function](/post/function/)
+- [Position](/post/position/)
 - Role-playing
-- [Character](/en/post/character/)
-- [Duty](/en/post/duty/)
-- [Responsibility](/en/post/responsibility/)
+- [Character](/post/character/)
+- [Duty](/post/duty/)
+- [Responsibility](/post/responsibility/)
 - Representation
 - Archetype
 - Prototype

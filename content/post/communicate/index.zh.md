@@ -11,23 +11,23 @@ keywords = ['ai words', 'communicate']
 /kuːmjuːˈneɪtɪv/
 
 ## 释义
-- **形容词**: 能够沟通的，善于交流的。例如: "[She](/post/she/) has [excellent](/post/excellent/) communicative skills."
-- **名词**: 交流，传达。例如: "[Good](/post/good/) [communication](/post/communication/) is [key](/post/key/) [to](/post/to/) [any](/post/any/) [relationship](/post/relationship/)."
-- **动词**: 传递，交流。例如: "[They](/post/they/) [communicate](/post/communicate/) [their](/post/their/) ideas effectively [in](/post/in/) [the](/post/the/) [meeting](/post/meeting/)."
+- **形容词**: 能够沟通的，善于交流的。例如: "[She](/zh/post/she/) has [excellent](/zh/post/excellent/) communicative skills."
+- **名词**: 交流，传达。例如: "[Good](/zh/post/good/) [communication](/zh/post/communication/) is [key](/zh/post/key/) [to](/zh/post/to/) [any](/zh/post/any/) [relationship](/zh/post/relationship/)."
+- **动词**: 传递，交流。例如: "[They](/zh/post/they/) [communicate](/zh/post/communicate/) [their](/zh/post/their/) ideas effectively [in](/zh/post/in/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
 
 ## 短语
-- "[Effective](/post/effective/) [communication](/post/communication/)" 指的是成功的传达信息。
-- "Nonverbal [communication](/post/communication/)" 指的是通过身体语言、面部表情等非语言方式交流。
-- "[To](/post/to/) [communicate](/post/communicate/) [with](/post/with/) sb." 意味着与某人进行交谈或传递信息。
+- "[Effective](/zh/post/effective/) [communication](/zh/post/communication/)" 指的是成功的传达信息。
+- "Nonverbal [communication](/zh/post/communication/)" 指的是通过身体语言、面部表情等非语言方式交流。
+- "[To](/zh/post/to/) [communicate](/zh/post/communicate/) [with](/zh/post/with/) sb." 意味着与某人进行交谈或传递信息。
 
 ## 例句
-- 形容词: "[The](/post/the/) [new](/post/new/) [employee](/post/employee/) is [very](/post/very/) communicative [and](/post/and/) [easily](/post/easily/) makes friends [with](/post/with/) colleagues."
-- 名词: "[The](/post/the/) [lack](/post/lack/) [of](/post/of/) [communication](/post/communication/) [between](/post/between/) departments led [to](/post/to/) misunderstandings."
-- 动词: "[They](/post/they/) [communicate](/post/communicate/) [their](/post/their/) feelings [through](/post/through/) [art](/post/art/)."
+- 形容词: "[The](/zh/post/the/) [new](/zh/post/new/) [employee](/zh/post/employee/) is [very](/zh/post/very/) communicative [and](/zh/post/and/) [easily](/zh/post/easily/) makes friends [with](/zh/post/with/) colleagues."
+- 名词: "[The](/zh/post/the/) [lack](/zh/post/lack/) [of](/zh/post/of/) [communication](/zh/post/communication/) [between](/zh/post/between/) departments led [to](/zh/post/to/) misunderstandings."
+- 动词: "[They](/zh/post/they/) [communicate](/zh/post/communicate/) [their](/zh/post/their/) feelings [through](/zh/post/through/) [art](/zh/post/art/)."
 
 ## 同义词
-- [Interaction](/post/interaction/)
+- [Interaction](/zh/post/interaction/)
 - Conveyance
-- [Transmission](/post/transmission/)
-- [Exchange](/post/exchange/)
-- [Contact](/post/contact/)
+- [Transmission](/zh/post/transmission/)
+- [Exchange](/zh/post/exchange/)
+- [Contact](/zh/post/contact/)

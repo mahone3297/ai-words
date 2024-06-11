@@ -7,45 +7,45 @@ description = '[ˈpaudə] n.粉末；药粉；火药'
 keywords = ['ai words', 'powder']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈauər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Powder](/en/post/powder/)**: [A](/en/post/a/) [fine](/en/post/fine/), [dry](/en/post/dry/) [substance](/en/post/substance/), typically made [by](/en/post/by/) grinding [or](/en/post/or/) milling solids [into](/en/post/into/) [a](/en/post/a/) [very](/en/post/very/) [fine](/en/post/fine/) particles. [Can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [various](/en/post/various/) substances [like](/en/post/like/) makeup, [gunpowder](/en/post/gunpowder/), [or](/en/post/or/) [flour](/en/post/flour/).
-- **[Baby](/en/post/baby/) [powder](/en/post/powder/)**: [A](/en/post/a/) [soft](/en/post/soft/), talcum-like [powder](/en/post/powder/) [used](/en/post/used/) [for](/en/post/for/) soothing [and](/en/post/and/) protecting [delicate](/en/post/delicate/) [skin](/en/post/skin/).
-- **Lavender [powder](/en/post/powder/)**: [A](/en/post/a/) fragrant [powder](/en/post/powder/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) aromatherapy [or](/en/post/or/) [as](/en/post/as/) an ingredient [in](/en/post/in/) skincare products.
+### [Noun](/post/noun/)
+- **[Powder](/post/powder/)**: [A](/post/a/) [fine](/post/fine/), [dry](/post/dry/) [substance](/post/substance/), typically made [by](/post/by/) grinding [or](/post/or/) milling solids [into](/post/into/) [a](/post/a/) [very](/post/very/) [fine](/post/fine/) particles. [Can](/post/can/) [refer](/post/refer/) [to](/post/to/) [various](/post/various/) substances [like](/post/like/) makeup, [gunpowder](/post/gunpowder/), [or](/post/or/) [flour](/post/flour/).
+- **[Baby](/post/baby/) [powder](/post/powder/)**: [A](/post/a/) [soft](/post/soft/), talcum-like [powder](/post/powder/) [used](/post/used/) [for](/post/for/) soothing [and](/post/and/) protecting [delicate](/post/delicate/) [skin](/post/skin/).
+- **Lavender [powder](/post/powder/)**: [A](/post/a/) fragrant [powder](/post/powder/), [often](/post/often/) [used](/post/used/) [for](/post/for/) aromatherapy [or](/post/or/) [as](/post/as/) an ingredient [in](/post/in/) skincare products.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [powder](/en/post/powder/)**: (1) [Apply](/en/post/apply/) [a](/en/post/a/) [powder](/en/post/powder/), [especially](/en/post/especially/) makeup, [to](/en/post/to/) one's [face](/en/post/face/). (2) [Dust](/en/post/dust/) [with](/en/post/with/) [a](/en/post/a/) [powder](/en/post/powder/), [as](/en/post/as/) [in](/en/post/in/) preserving [food](/en/post/food/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [powder](/post/powder/)**: (1) [Apply](/post/apply/) [a](/post/a/) [powder](/post/powder/), [especially](/post/especially/) makeup, [to](/post/to/) one's [face](/post/face/). (2) [Dust](/post/dust/) [with](/post/with/) [a](/post/a/) [powder](/post/powder/), [as](/post/as/) [in](/post/in/) preserving [food](/post/food/).
 
-### [Adjective](/en/post/adjective/)
-- **Powdery**: Having [a](/en/post/a/) powdery texture [or](/en/post/or/) consistency.
-- **Powdered**: [In](/en/post/in/) [the](/en/post/the/) [form](/en/post/form/) [of](/en/post/of/) [a](/en/post/a/) [powder](/en/post/powder/).
+### [Adjective](/post/adjective/)
+- **Powdery**: Having [a](/post/a/) powdery texture [or](/post/or/) consistency.
+- **Powdered**: [In](/post/in/) [the](/post/the/) [form](/post/form/) [of](/post/of/) [a](/post/a/) [powder](/post/powder/).
 
-### [Adverb](/en/post/adverb/)
-- **Powdery**: Characterized [by](/en/post/by/) [a](/en/post/a/) powdery [nature](/en/post/nature/), e.g., [a](/en/post/a/) powdery snowfall.
+### [Adverb](/post/adverb/)
+- **Powdery**: Characterized [by](/post/by/) [a](/post/a/) powdery [nature](/post/nature/), e.g., [a](/post/a/) powdery snowfall.
 
 ## Phrases
-- "[Powder](/en/post/powder/) [your](/en/post/your/) [nose](/en/post/nose/)" [means](/en/post/means/) [to](/en/post/to/) [apply](/en/post/apply/) facial [powder](/en/post/powder/) [to](/en/post/to/) freshen [up](/en/post/up/).
-- "[A](/en/post/a/) dusting [of](/en/post/of/) [powder](/en/post/powder/)" describes [a](/en/post/a/) [light](/en/post/light/) covering [of](/en/post/of/) [the](/en/post/the/) [substance](/en/post/substance/).
-- "Powdered [metal](/en/post/metal/)" refers [to](/en/post/to/) [a](/en/post/a/) metallic [material](/en/post/material/) [in](/en/post/in/) [a](/en/post/a/) finely divided [state](/en/post/state/).
+- "[Powder](/post/powder/) [your](/post/your/) [nose](/post/nose/)" [means](/post/means/) [to](/post/to/) [apply](/post/apply/) facial [powder](/post/powder/) [to](/post/to/) freshen [up](/post/up/).
+- "[A](/post/a/) dusting [of](/post/of/) [powder](/post/powder/)" describes [a](/post/a/) [light](/post/light/) covering [of](/post/of/) [the](/post/the/) [substance](/post/substance/).
+- "Powdered [metal](/post/metal/)" refers [to](/post/to/) [a](/post/a/) metallic [material](/post/material/) [in](/post/in/) [a](/post/a/) finely divided [state](/post/state/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [She](/en/post/she/) sifted [through](/en/post/through/) [the](/en/post/the/) [box](/en/post/box/) [of](/en/post/of/) [old](/en/post/old/) baking [powder](/en/post/powder/).
-- **[Verb](/en/post/verb/)**: [She](/en/post/she/) carefully powdered [her](/en/post/her/) [face](/en/post/face/) [before](/en/post/before/) leaving [the](/en/post/the/) [house](/en/post/house/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [floor](/en/post/floor/) was covered [with](/en/post/with/) [a](/en/post/a/) powdery [layer](/en/post/layer/) [of](/en/post/of/) [dust](/en/post/dust/).
-- **[Adverb](/en/post/adverb/)**: [He](/en/post/he/) wiped [the](/en/post/the/) [table](/en/post/table/) [clean](/en/post/clean/) [with](/en/post/with/) [a](/en/post/a/) [damp](/en/post/damp/) [cloth](/en/post/cloth/), avoiding [the](/en/post/the/) powdery residue.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [She](/post/she/) sifted [through](/post/through/) [the](/post/the/) [box](/post/box/) [of](/post/of/) [old](/post/old/) baking [powder](/post/powder/).
+- **[Verb](/post/verb/)**: [She](/post/she/) carefully powdered [her](/post/her/) [face](/post/face/) [before](/post/before/) leaving [the](/post/the/) [house](/post/house/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [floor](/post/floor/) was covered [with](/post/with/) [a](/post/a/) powdery [layer](/post/layer/) [of](/post/of/) [dust](/post/dust/).
+- **[Adverb](/post/adverb/)**: [He](/post/he/) wiped [the](/post/the/) [table](/post/table/) [clean](/post/clean/) [with](/post/with/) [a](/post/a/) [damp](/post/damp/) [cloth](/post/cloth/), avoiding [the](/post/the/) powdery residue.
 
 ## Synonyms
-- Talcum [powder](/en/post/powder/)
-- Cornstarch [powder](/en/post/powder/)
-- [Face](/en/post/face/) [powder](/en/post/powder/)
-- [Rice](/en/post/rice/) [powder](/en/post/powder/)
-- Finely [ground](/en/post/ground/)
+- Talcum [powder](/post/powder/)
+- Cornstarch [powder](/post/powder/)
+- [Face](/post/face/) [powder](/post/powder/)
+- [Rice](/post/rice/) [powder](/post/powder/)
+- Finely [ground](/post/ground/)
 
 ## Related Terms
-- Eyeshadow [powder](/en/post/powder/)
-- [Explosive](/en/post/explosive/) [powder](/en/post/powder/)
-- Medicinal [powder](/en/post/powder/) (e.g., antacid powders)
-- Blasting [powder](/en/post/powder/) ([in](/en/post/in/) mining)
+- Eyeshadow [powder](/post/powder/)
+- [Explosive](/post/explosive/) [powder](/post/powder/)
+- Medicinal [powder](/post/powder/) (e.g., antacid powders)
+- Blasting [powder](/post/powder/) ([in](/post/in/) mining)

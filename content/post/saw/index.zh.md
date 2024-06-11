@@ -11,16 +11,16 @@ keywords = ['ai words', 'saw']
 /sɔː/
 
 ## 释义
-- **动词**: 过去式和过去分词形式 [of](/post/of/) "[see](/post/see/)", 意为看见、看到。例如: "I [saw](/post/saw/) [her](/post/her/) [at](/post/at/) [the](/post/the/) [park](/post/park/) [yesterday](/post/yesterday/)."
-- **名词**: 在某些固定表达中，如 "[a](/post/a/) [saw](/post/saw/)"，指的是锯子，一种切割工具。例如: "[He](/post/he/) [used](/post/used/) [a](/post/a/) [saw](/post/saw/) [to](/post/to/) [cut](/post/cut/) [the](/post/the/) [wood](/post/wood/)."
+- **动词**: 过去式和过去分词形式 [of](/zh/post/of/) "[see](/zh/post/see/)", 意为看见、看到。例如: "I [saw](/zh/post/saw/) [her](/zh/post/her/) [at](/zh/post/at/) [the](/zh/post/the/) [park](/zh/post/park/) [yesterday](/zh/post/yesterday/)."
+- **名词**: 在某些固定表达中，如 "[a](/zh/post/a/) [saw](/zh/post/saw/)"，指的是锯子，一种切割工具。例如: "[He](/zh/post/he/) [used](/zh/post/used/) [a](/zh/post/a/) [saw](/zh/post/saw/) [to](/zh/post/to/) [cut](/zh/post/cut/) [the](/zh/post/the/) [wood](/zh/post/wood/)."
 
 ## 短语
-- "[See](/post/see/) [saw](/post/saw/)" 通常指儿童游乐设施，也用来描述事物反复变化的情况。
-- "I [saw](/post/saw/) [it](/post/it/) [with](/post/with/) [my](/post/my/) [own](/post/own/) eyes" 意为亲眼所见，确信无疑。
+- "[See](/zh/post/see/) [saw](/zh/post/saw/)" 通常指儿童游乐设施，也用来描述事物反复变化的情况。
+- "I [saw](/zh/post/saw/) [it](/zh/post/it/) [with](/zh/post/with/) [my](/zh/post/my/) [own](/zh/post/own/) eyes" 意为亲眼所见，确信无疑。
 
 ## 例句
-- 动词: "[Yesterday](/post/yesterday/), I [saw](/post/saw/) [a](/post/a/) [deer](/post/deer/) [in](/post/in/) [the](/post/the/) [forest](/post/forest/)."
-- 名词: "[He](/post/he/) picked [up](/post/up/) [a](/post/a/) [rusty](/post/rusty/) [old](/post/old/) [saw](/post/saw/) [from](/post/from/) [the](/post/the/) [shed](/post/shed/)."
+- 动词: "[Yesterday](/zh/post/yesterday/), I [saw](/zh/post/saw/) [a](/zh/post/a/) [deer](/zh/post/deer/) [in](/zh/post/in/) [the](/zh/post/the/) [forest](/zh/post/forest/)."
+- 名词: "[He](/zh/post/he/) picked [up](/zh/post/up/) [a](/zh/post/a/) [rusty](/zh/post/rusty/) [old](/zh/post/old/) [saw](/zh/post/saw/) [from](/zh/post/from/) [the](/zh/post/the/) [shed](/zh/post/shed/)."
 
 ## 同义词
 - Observed

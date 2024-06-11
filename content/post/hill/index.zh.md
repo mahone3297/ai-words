@@ -11,20 +11,20 @@ keywords = ['ai words', 'hill']
 /hɪl/
 
 ## 释义
-- **名词**: 一个小山丘，比山小但比地面高的地形。例如: "There's [a](/post/a/) [beautiful](/post/beautiful/) [view](/post/view/) [from](/post/from/) [the](/post/the/) [top](/post/top/) [of](/post/of/) [that](/post/that/) [hill](/post/hill/)."
-- **名词**: 用作姓氏。例如: "John [Hill](/post/hill/) is [a](/post/a/) [famous](/post/famous/) [author](/post/author/)."
+- **名词**: 一个小山丘，比山小但比地面高的地形。例如: "There's [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [view](/zh/post/view/) [from](/zh/post/from/) [the](/zh/post/the/) [top](/zh/post/top/) [of](/zh/post/of/) [that](/zh/post/that/) [hill](/zh/post/hill/)."
+- **名词**: 用作姓氏。例如: "John [Hill](/zh/post/hill/) is [a](/zh/post/a/) [famous](/zh/post/famous/) [author](/zh/post/author/)."
 
 ## 短语
-- "[On](/post/on/) [top](/post/top/) [of](/post/of/) [the](/post/the/) [hill](/post/hill/)" 指的是山丘的顶部。
-- "[Roll](/post/roll/) [down](/post/down/) [the](/post/the/) [hill](/post/hill/)" 意味着从山坡上滑下来。
+- "[On](/zh/post/on/) [top](/zh/post/top/) [of](/zh/post/of/) [the](/zh/post/the/) [hill](/zh/post/hill/)" 指的是山丘的顶部。
+- "[Roll](/zh/post/roll/) [down](/zh/post/down/) [the](/zh/post/the/) [hill](/zh/post/hill/)" 意味着从山坡上滑下来。
 
 ## 例句
-- 名词: "[The](/post/the/) children loved [to](/post/to/) [play](/post/play/) [on](/post/on/) [the](/post/the/) grassy [hill](/post/hill/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
-- 姓氏: "[Hill](/post/hill/) is [a](/post/a/) [common](/post/common/) [surname](/post/surname/) [in](/post/in/) England."
+- 名词: "[The](/zh/post/the/) children loved [to](/zh/post/to/) [play](/zh/post/play/) [on](/zh/post/on/) [the](/zh/post/the/) grassy [hill](/zh/post/hill/) [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/)."
+- 姓氏: "[Hill](/zh/post/hill/) is [a](/zh/post/a/) [common](/zh/post/common/) [surname](/zh/post/surname/) [in](/zh/post/in/) England."
 
 ## 同义词
 - Mound
 - Knoll
-- [Rise](/post/rise/)
+- [Rise](/zh/post/rise/)
 - Elevation
-- [Incline](/post/incline/)
+- [Incline](/zh/post/incline/)

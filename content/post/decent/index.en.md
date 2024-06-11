@@ -7,30 +7,30 @@ description = '[ˈdiːsnt] a.正派的；体面的'
 keywords = ['ai words', 'decent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈsent/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Moral](/en/post/moral/), [acceptable](/en/post/acceptable/), [or](/en/post/or/) [proper](/en/post/proper/) according [to](/en/post/to/) [generally](/en/post/generally/) recognized standards. "[A](/en/post/a/) [decent](/en/post/decent/) [home](/en/post/home/) [environment](/en/post/environment/)."
-   - **[Verb](/en/post/verb/)**: [To](/en/post/to/) [become](/en/post/become/) [or](/en/post/or/) [be](/en/post/be/) considered [decent](/en/post/decent/); [to](/en/post/to/) [improve](/en/post/improve/) morally [or](/en/post/or/) socially. "[The](/en/post/the/) children's [behavior](/en/post/behavior/) has decented [over](/en/post/over/) [time](/en/post/time/)."
-   - **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [decent](/en/post/decent/) [manner](/en/post/manner/); appropriately. "[She](/en/post/she/) sang [the](/en/post/the/) [song](/en/post/song/) decently."
+- **[Adjective](/post/adjective/)**: 1. [Moral](/post/moral/), [acceptable](/post/acceptable/), [or](/post/or/) [proper](/post/proper/) according [to](/post/to/) [generally](/post/generally/) recognized standards. "[A](/post/a/) [decent](/post/decent/) [home](/post/home/) [environment](/post/environment/)."
+   - **[Verb](/post/verb/)**: [To](/post/to/) [become](/post/become/) [or](/post/or/) [be](/post/be/) considered [decent](/post/decent/); [to](/post/to/) [improve](/post/improve/) morally [or](/post/or/) socially. "[The](/post/the/) children's [behavior](/post/behavior/) has decented [over](/post/over/) [time](/post/time/)."
+   - **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [decent](/post/decent/) [manner](/post/manner/); appropriately. "[She](/post/she/) sang [the](/post/the/) [song](/post/song/) decently."
 
 ## Phrases
-- "[Behave](/en/post/behave/) decently" implies acting [with](/en/post/with/) [respect](/en/post/respect/) [and](/en/post/and/) propriety.
-- "[Keep](/en/post/keep/) [it](/en/post/it/) [decent](/en/post/decent/)" suggests maintaining [a](/en/post/a/) [level](/en/post/level/) [of](/en/post/of/) decorum [or](/en/post/or/) appropriateness.
-- "[Decent](/en/post/decent/) wages" refers [to](/en/post/to/) [a](/en/post/a/) [fair](/en/post/fair/) [income](/en/post/income/).
+- "[Behave](/post/behave/) decently" implies acting [with](/post/with/) [respect](/post/respect/) [and](/post/and/) propriety.
+- "[Keep](/post/keep/) [it](/post/it/) [decent](/post/decent/)" suggests maintaining [a](/post/a/) [level](/post/level/) [of](/post/of/) decorum [or](/post/or/) appropriateness.
+- "[Decent](/post/decent/) wages" refers [to](/post/to/) [a](/post/a/) [fair](/post/fair/) [income](/post/income/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) wore [a](/en/post/a/) [decent](/en/post/decent/) [suit](/en/post/suit/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/) [interview](/en/post/interview/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tried [to](/en/post/to/) [decent](/en/post/decent/) [her](/en/post/her/) [tone](/en/post/tone/) [when](/en/post/when/) discussing [the](/en/post/the/) [sensitive](/en/post/sensitive/) [topic](/en/post/topic/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) danced decently [at](/en/post/at/) [the](/en/post/the/) [wedding](/en/post/wedding/) [reception](/en/post/reception/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) wore [a](/post/a/) [decent](/post/decent/) [suit](/post/suit/) [for](/post/for/) [the](/post/the/) [job](/post/job/) [interview](/post/interview/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tried [to](/post/to/) [decent](/post/decent/) [her](/post/her/) [tone](/post/tone/) [when](/post/when/) discussing [the](/post/the/) [sensitive](/post/sensitive/) [topic](/post/topic/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) danced decently [at](/post/at/) [the](/post/the/) [wedding](/post/wedding/) [reception](/post/reception/)."
 
 ## Synonyms
 - Respectable
-- [Moral](/en/post/moral/)
-- [Acceptable](/en/post/acceptable/)
+- [Moral](/post/moral/)
+- [Acceptable](/post/acceptable/)
 - Decently
-- [Proper](/en/post/proper/)
+- [Proper](/post/proper/)
 - Upstanding
 
 ## Antonyms
@@ -39,4 +39,4 @@ keywords = ['ai words', 'decent']
 - Unseemly
 - Disreputable
 - Improper
-- [Rude](/en/post/rude/)
+- [Rude](/post/rude/)

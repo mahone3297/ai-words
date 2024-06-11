@@ -11,21 +11,21 @@ keywords = ['ai words', 'petrol']
 /ˈpɛtrəl/
 
 ## 释义
-- **名词 (n)**: 汽油，一种石油提炼出的燃料，主要用于汽车引擎。例如: "I [need](/post/need/) [to](/post/to/) [fill](/post/fill/) [up](/post/up/) [my](/post/my/) [car](/post/car/) [with](/post/with/) [petrol](/post/petrol/)."
-- **形容词 (adj)**: 与汽油相关的或由汽油驱动的。例如: "[The](/post/the/) [petrol](/post/petrol/) [engine](/post/engine/) runs [on](/post/on/) fossil fuels."
+- **名词 (n)**: 汽油，一种石油提炼出的燃料，主要用于汽车引擎。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [fill](/zh/post/fill/) [up](/zh/post/up/) [my](/zh/post/my/) [car](/zh/post/car/) [with](/zh/post/with/) [petrol](/zh/post/petrol/)."
+- **形容词 (adj)**: 与汽油相关的或由汽油驱动的。例如: "[The](/zh/post/the/) [petrol](/zh/post/petrol/) [engine](/zh/post/engine/) runs [on](/zh/post/on/) fossil fuels."
 
 ## 短语
-- "[Petrol](/post/petrol/) [pump](/post/pump/)" 意为加油站。
-- "[Petrol](/post/petrol/) [price](/post/price/)" 指汽油的价格。
-- "Petrol-powered [vehicle](/post/vehicle/)" 指汽油驱动的车辆。
+- "[Petrol](/zh/post/petrol/) [pump](/zh/post/pump/)" 意为加油站。
+- "[Petrol](/zh/post/petrol/) [price](/zh/post/price/)" 指汽油的价格。
+- "Petrol-powered [vehicle](/zh/post/vehicle/)" 指汽油驱动的车辆。
 
 ## 例句
-- 名词: "[The](/post/the/) [cost](/post/cost/) [of](/post/of/) [petrol](/post/petrol/) has increased significantly [over](/post/over/) [the](/post/the/) [past](/post/past/) [year](/post/year/)."
-- 形容词: "[This](/post/this/) vintage [car](/post/car/) has [a](/post/a/) [beautiful](/post/beautiful/) petrol-blue [paint](/post/paint/) [job](/post/job/)."
+- 名词: "[The](/zh/post/the/) [cost](/zh/post/cost/) [of](/zh/post/of/) [petrol](/zh/post/petrol/) has increased significantly [over](/zh/post/over/) [the](/zh/post/the/) [past](/zh/post/past/) [year](/zh/post/year/)."
+- 形容词: "[This](/zh/post/this/) vintage [car](/zh/post/car/) has [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) petrol-blue [paint](/zh/post/paint/) [job](/zh/post/job/)."
 
 ## 同义词
-- [Gasoline](/post/gasoline/) (美式英语)
+- [Gasoline](/zh/post/gasoline/) (美式英语)
 - Petrolium
-- [Motor](/post/motor/) [spirit](/post/spirit/)
-- [Fuel](/post/fuel/)
-- Automotive [fuel](/post/fuel/)
+- [Motor](/zh/post/motor/) [spirit](/zh/post/spirit/)
+- [Fuel](/zh/post/fuel/)
+- Automotive [fuel](/zh/post/fuel/)

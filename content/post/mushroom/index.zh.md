@@ -11,20 +11,20 @@ keywords = ['ai words', 'mushroom']
 /ˈmʌʃrʊm/
 
 ## 释义
-- **名词 (n)**: 一种食用菌，通常呈伞状，可食用且在某些种类中具有药用价值。例如: "I [love](/post/love/) adding mushrooms [to](/post/to/) [my](/post/my/) pasta dishes."
-- **动词 (v)**: 指蘑菇状物迅速增长或出现。例如: "[The](/post/the/) mushrooms [in](/post/in/) [the](/post/the/) [garden](/post/garden/) mushroomed [overnight](/post/overnight/)."
+- **名词 (n)**: 一种食用菌，通常呈伞状，可食用且在某些种类中具有药用价值。例如: "I [love](/zh/post/love/) adding mushrooms [to](/zh/post/to/) [my](/zh/post/my/) pasta dishes."
+- **动词 (v)**: 指蘑菇状物迅速增长或出现。例如: "[The](/zh/post/the/) mushrooms [in](/zh/post/in/) [the](/zh/post/the/) [garden](/zh/post/garden/) mushroomed [overnight](/zh/post/overnight/)."
 
 ## 短语
-- "[Mushroom](/post/mushroom/) [cloud](/post/cloud/)" 指核爆炸产生的蘑菇形烟云。
-- "[Mushroom](/post/mushroom/) hunting" 指寻找和采集野生蘑菇的活动。
+- "[Mushroom](/zh/post/mushroom/) [cloud](/zh/post/cloud/)" 指核爆炸产生的蘑菇形烟云。
+- "[Mushroom](/zh/post/mushroom/) hunting" 指寻找和采集野生蘑菇的活动。
 
 ## 例句
-- 名词: "[The](/post/the/) [forest](/post/forest/) [floor](/post/floor/) was covered [with](/post/with/) [various](/post/various/) types [of](/post/of/) mushrooms."
-- 动词: "[The](/post/the/) [grass](/post/grass/) [in](/post/in/) [the](/post/the/) [lawn](/post/lawn/) mushroomed [after](/post/after/) [the](/post/the/) [rain](/post/rain/)."
+- 名词: "[The](/zh/post/the/) [forest](/zh/post/forest/) [floor](/zh/post/floor/) was covered [with](/zh/post/with/) [various](/zh/post/various/) types [of](/zh/post/of/) mushrooms."
+- 动词: "[The](/zh/post/the/) [grass](/zh/post/grass/) [in](/zh/post/in/) [the](/zh/post/the/) [lawn](/zh/post/lawn/) mushroomed [after](/zh/post/after/) [the](/zh/post/the/) [rain](/zh/post/rain/)."
 
 ## 同义词
 - Fungi
 - Toadstool
-- [Cap](/post/cap/) fungus
-- Edible [mushroom](/post/mushroom/)
-- [Wild](/post/wild/) [mushroom](/post/mushroom/)
+- [Cap](/zh/post/cap/) fungus
+- Edible [mushroom](/zh/post/mushroom/)
+- [Wild](/zh/post/wild/) [mushroom](/zh/post/mushroom/)

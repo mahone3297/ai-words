@@ -7,37 +7,37 @@ description = '[ˈdrɑːmə] n.一出戏剧，剧本'
 keywords = ['ai words', 'drama']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdrɑːmə/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [play](/en/post/play/), [especially](/en/post/especially/) [one](/en/post/one/) intended [for](/en/post/for/) [performance](/en/post/performance/) [by](/en/post/by/) actors [on](/en/post/on/) [a](/en/post/a/) [stage](/en/post/stage/), [often](/en/post/often/) dealing [with](/en/post/with/) [serious](/en/post/serious/) [or](/en/post/or/) [emotional](/en/post/emotional/) themes. 2. [A](/en/post/a/) [dramatic](/en/post/dramatic/) [work](/en/post/work/) [in](/en/post/in/) [any](/en/post/any/) [medium](/en/post/medium/), [such](/en/post/such/) [as](/en/post/as/) [film](/en/post/film/) [or](/en/post/or/) [television](/en/post/television/). 3. [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [style](/en/post/style/) [of](/en/post/of/) [being](/en/post/being/) [dramatic](/en/post/dramatic/) [or](/en/post/or/) theatrical. 4. An episode [or](/en/post/or/) [situation](/en/post/situation/) [that](/en/post/that/) is [intense](/en/post/intense/), [emotional](/en/post/emotional/), [or](/en/post/or/) [significant](/en/post/significant/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [present](/en/post/present/) [or](/en/post/or/) [involve](/en/post/involve/) [in](/en/post/in/) [a](/en/post/a/) [dramatic](/en/post/dramatic/) [manner](/en/post/manner/); enact dramatically.
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [play](/post/play/), [especially](/post/especially/) [one](/post/one/) intended [for](/post/for/) [performance](/post/performance/) [by](/post/by/) actors [on](/post/on/) [a](/post/a/) [stage](/post/stage/), [often](/post/often/) dealing [with](/post/with/) [serious](/post/serious/) [or](/post/or/) [emotional](/post/emotional/) themes. 2. [A](/post/a/) [dramatic](/post/dramatic/) [work](/post/work/) [in](/post/in/) [any](/post/any/) [medium](/post/medium/), [such](/post/such/) [as](/post/as/) [film](/post/film/) [or](/post/or/) [television](/post/television/). 3. [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [style](/post/style/) [of](/post/of/) [being](/post/being/) [dramatic](/post/dramatic/) [or](/post/or/) theatrical. 4. An episode [or](/post/or/) [situation](/post/situation/) [that](/post/that/) is [intense](/post/intense/), [emotional](/post/emotional/), [or](/post/or/) [significant](/post/significant/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [present](/post/present/) [or](/post/or/) [involve](/post/involve/) [in](/post/in/) [a](/post/a/) [dramatic](/post/dramatic/) [manner](/post/manner/); enact dramatically.
 
 ## Phrases
-- "[Drama](/en/post/drama/) [queen](/en/post/queen/)/[king](/en/post/king/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) exaggerates emotions [or](/en/post/or/) situations.
-- "[Behind](/en/post/behind/) [the](/en/post/the/) [drama](/en/post/drama/)" implies [the](/en/post/the/) hidden [or](/en/post/or/) [real](/en/post/real/) [story](/en/post/story/) [behind](/en/post/behind/) [a](/en/post/a/) [public](/en/post/public/) [display](/en/post/display/).
-- "[Drama](/en/post/drama/) unfolds" describes [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) events developing [in](/en/post/in/) [a](/en/post/a/) [dramatic](/en/post/dramatic/) [or](/en/post/or/) suspenseful [way](/en/post/way/).
+- "[Drama](/post/drama/) [queen](/post/queen/)/[king](/post/king/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) exaggerates emotions [or](/post/or/) situations.
+- "[Behind](/post/behind/) [the](/post/the/) [drama](/post/drama/)" implies [the](/post/the/) hidden [or](/post/or/) [real](/post/real/) [story](/post/story/) [behind](/post/behind/) [a](/post/a/) [public](/post/public/) [display](/post/display/).
+- "[Drama](/post/drama/) unfolds" describes [a](/post/a/) [series](/post/series/) [of](/post/of/) events developing [in](/post/in/) [a](/post/a/) [dramatic](/post/dramatic/) [or](/post/or/) suspenseful [way](/post/way/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [play](/en/post/play/) was [a](/en/post/a/) [masterpiece](/en/post/masterpiece/) [of](/en/post/of/) [modern](/en/post/modern/) [drama](/en/post/drama/), filled [with](/en/post/with/) [complex](/en/post/complex/) characters [and](/en/post/and/) [unexpected](/en/post/unexpected/) [plot](/en/post/plot/) twists."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) drama-ize [her](/en/post/her/) presentation [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) [more](/en/post/more/) engaging."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) tension [in](/en/post/in/) [the](/en/post/the/) [room](/en/post/room/) was palpable; [there](/en/post/there/) was [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [high](/en/post/high/) [drama](/en/post/drama/) [before](/en/post/before/) [the](/en/post/the/) announcement."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [play](/post/play/) was [a](/post/a/) [masterpiece](/post/masterpiece/) [of](/post/of/) [modern](/post/modern/) [drama](/post/drama/), filled [with](/post/with/) [complex](/post/complex/) characters [and](/post/and/) [unexpected](/post/unexpected/) [plot](/post/plot/) twists."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) drama-ize [her](/post/her/) presentation [to](/post/to/) [make](/post/make/) [it](/post/it/) [more](/post/more/) engaging."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) tension [in](/post/in/) [the](/post/the/) [room](/post/room/) was palpable; [there](/post/there/) was [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [high](/post/high/) [drama](/post/drama/) [before](/post/before/) [the](/post/the/) announcement."
 
 ## Synonyms
-- [Play](/en/post/play/)
-- [Performance](/en/post/performance/)
-- [Show](/en/post/show/)
+- [Play](/post/play/)
+- [Performance](/post/performance/)
+- [Show](/post/show/)
 - Theater
 - Acting
-- [Plot](/en/post/plot/)
-- [Conflict](/en/post/conflict/)
+- [Plot](/post/plot/)
+- [Conflict](/post/conflict/)
 - Tension
 - Excitement
 
 ## Antonyms
 - Calmness
 - Humdrum
-- [Lack](/en/post/lack/) [of](/en/post/of/) excitement
+- [Lack](/post/lack/) [of](/post/of/) excitement
 - Boring
 - Uneventful

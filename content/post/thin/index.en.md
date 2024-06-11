@@ -7,41 +7,41 @@ description = '[θin] a.薄的；淡的 vi.变薄'
 keywords = ['ai words', 'thin']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /thɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [of](/en/post/of/) [substance](/en/post/substance/) [or](/en/post/or/) [body](/en/post/body/); [not](/en/post/not/) [thick](/en/post/thick/) [or](/en/post/or/) robust. [Example](/en/post/example/): "[The](/en/post/the/) [model](/en/post/model/) is [very](/en/post/very/) [thin](/en/post/thin/) compared [to](/en/post/to/) [last](/en/post/last/) year's [version](/en/post/version/)."
-2. **[Noun](/en/post/noun/)**: [A](/en/post/a/) [narrow](/en/post/narrow/) [or](/en/post/or/) [slender](/en/post/slender/) [shape](/en/post/shape/) [or](/en/post/or/) [form](/en/post/form/). [Example](/en/post/example/): "[The](/en/post/the/) alleyway was [so](/en/post/so/) [thin](/en/post/thin/) [that](/en/post/that/) [only](/en/post/only/) [one](/en/post/one/) [person](/en/post/person/) [could](/en/post/could/) [pass](/en/post/pass/) [at](/en/post/at/) [a](/en/post/a/) [time](/en/post/time/)."
+### [Noun](/post/noun/)
+1. **[Adjective](/post/adjective/)**: Having [a](/post/a/) [small](/post/small/) [amount](/post/amount/) [of](/post/of/) [substance](/post/substance/) [or](/post/or/) [body](/post/body/); [not](/post/not/) [thick](/post/thick/) [or](/post/or/) robust. [Example](/post/example/): "[The](/post/the/) [model](/post/model/) is [very](/post/very/) [thin](/post/thin/) compared [to](/post/to/) [last](/post/last/) year's [version](/post/version/)."
+2. **[Noun](/post/noun/)**: [A](/post/a/) [narrow](/post/narrow/) [or](/post/or/) [slender](/post/slender/) [shape](/post/shape/) [or](/post/or/) [form](/post/form/). [Example](/post/example/): "[The](/post/the/) alleyway was [so](/post/so/) [thin](/post/thin/) [that](/post/that/) [only](/post/only/) [one](/post/one/) [person](/post/person/) [could](/post/could/) [pass](/post/pass/) [at](/post/at/) [a](/post/a/) [time](/post/time/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [become](/en/post/become/) [or](/en/post/or/) [make](/en/post/make/) [something](/en/post/something/) thinner [in](/en/post/in/) [size](/en/post/size/), [quantity](/en/post/quantity/), [or](/en/post/or/) [intensity](/en/post/intensity/). [Example](/en/post/example/): "[The](/en/post/the/) [soup](/en/post/soup/) thinned [out](/en/post/out/) [after](/en/post/after/) [being](/en/post/being/) cooked [for](/en/post/for/) [too](/en/post/too/) [long](/en/post/long/)."
-2. **[Verb](/en/post/verb/)**: (figurative) [To](/en/post/to/) [reduce](/en/post/reduce/) [in](/en/post/in/) [number](/en/post/number/), [importance](/en/post/importance/), [or](/en/post/or/) effectiveness. [Example](/en/post/example/): "[Their](/en/post/their/) arguments thinned [as](/en/post/as/) [the](/en/post/the/) [night](/en/post/night/) went [on](/en/post/on/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [become](/post/become/) [or](/post/or/) [make](/post/make/) [something](/post/something/) thinner [in](/post/in/) [size](/post/size/), [quantity](/post/quantity/), [or](/post/or/) [intensity](/post/intensity/). [Example](/post/example/): "[The](/post/the/) [soup](/post/soup/) thinned [out](/post/out/) [after](/post/after/) [being](/post/being/) cooked [for](/post/for/) [too](/post/too/) [long](/post/long/)."
+2. **[Verb](/post/verb/)**: (figurative) [To](/post/to/) [reduce](/post/reduce/) [in](/post/in/) [number](/post/number/), [importance](/post/importance/), [or](/post/or/) effectiveness. [Example](/post/example/): "[Their](/post/their/) arguments thinned [as](/post/as/) [the](/post/the/) [night](/post/night/) went [on](/post/on/)."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) [thin](/en/post/thin/) [manner](/en/post/manner/); [with](/en/post/with/) [little](/en/post/little/) [substance](/en/post/substance/) [or](/en/post/or/) [intensity](/en/post/intensity/). [Example](/en/post/example/): "[She](/en/post/she/) spoke [softly](/en/post/softly/) [and](/en/post/and/) thinly [through](/en/post/through/) [the](/en/post/the/) [phone](/en/post/phone/)."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) [thin](/post/thin/) [manner](/post/manner/); [with](/post/with/) [little](/post/little/) [substance](/post/substance/) [or](/post/or/) [intensity](/post/intensity/). [Example](/post/example/): "[She](/post/she/) spoke [softly](/post/softly/) [and](/post/and/) thinly [through](/post/through/) [the](/post/the/) [phone](/post/phone/)."
 
 ## Phrases
-- "[Stay](/en/post/stay/) [thin](/en/post/thin/)" refers [to](/en/post/to/) maintaining [a](/en/post/a/) slim [or](/en/post/or/) lightweight [state](/en/post/state/).
-- "[A](/en/post/a/) [thin](/en/post/thin/) [layer](/en/post/layer/) [of](/en/post/of/) [frost](/en/post/frost/)" describes [a](/en/post/a/) minimal covering [of](/en/post/of/) [ice](/en/post/ice/).
-- "[Get](/en/post/get/) thin-skinned" implies becoming [easily](/en/post/easily/) offended.
+- "[Stay](/post/stay/) [thin](/post/thin/)" refers [to](/post/to/) maintaining [a](/post/a/) slim [or](/post/or/) lightweight [state](/post/state/).
+- "[A](/post/a/) [thin](/post/thin/) [layer](/post/layer/) [of](/post/of/) [frost](/post/frost/)" describes [a](/post/a/) minimal covering [of](/post/of/) [ice](/post/ice/).
+- "[Get](/post/get/) thin-skinned" implies becoming [easily](/post/easily/) offended.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) felt [a](/en/post/a/) [bit](/en/post/bit/) chilly [in](/en/post/in/) [her](/en/post/her/) [thin](/en/post/thin/) [jacket](/en/post/jacket/) [on](/en/post/on/) [a](/en/post/a/) [cold](/en/post/cold/) [day](/en/post/day/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [athlete](/en/post/athlete/) worked [hard](/en/post/hard/) [to](/en/post/to/) [thin](/en/post/thin/) [their](/en/post/their/) waistline [before](/en/post/before/) [the](/en/post/the/) [competition](/en/post/competition/)."
-- **[Adverb](/en/post/adverb/)**: "[His](/en/post/his/) [voice](/en/post/voice/) thinned [as](/en/post/as/) [he](/en/post/he/) grew older, [but](/en/post/but/) [his](/en/post/his/) [sense](/en/post/sense/) [of](/en/post/of/) humor remained [strong](/en/post/strong/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) felt [a](/post/a/) [bit](/post/bit/) chilly [in](/post/in/) [her](/post/her/) [thin](/post/thin/) [jacket](/post/jacket/) [on](/post/on/) [a](/post/a/) [cold](/post/cold/) [day](/post/day/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [athlete](/post/athlete/) worked [hard](/post/hard/) [to](/post/to/) [thin](/post/thin/) [their](/post/their/) waistline [before](/post/before/) [the](/post/the/) [competition](/post/competition/)."
+- **[Adverb](/post/adverb/)**: "[His](/post/his/) [voice](/post/voice/) thinned [as](/post/as/) [he](/post/he/) grew older, [but](/post/but/) [his](/post/his/) [sense](/post/sense/) [of](/post/of/) humor remained [strong](/post/strong/)."
 
 ## Synonyms
 - Slim
-- [Lean](/en/post/lean/)
-- [Delicate](/en/post/delicate/)
+- [Lean](/post/lean/)
+- [Delicate](/post/delicate/)
 - Thinly
 - Sparse
 - Scanty
 
 ## Antonyms
-- [Thick](/en/post/thick/)
+- [Thick](/post/thick/)
 - Plump
 - Robust
 - Hearty

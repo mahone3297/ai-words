@@ -7,31 +7,31 @@ description = '[ˈhɑːdn] vt.使变硬 vi.变硬'
 keywords = ['ai words', 'harden']
 +++
 
-## [Word](/en/post/word/): [Harden](/en/post/harden/)
+## [Word](/post/word/): [Harden](/post/harden/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhɑːrdn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [become](/en/post/become/) [hard](/en/post/hard/) [or](/en/post/or/) [solid](/en/post/solid/); [to](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [hard](/en/post/hard/) [or](/en/post/or/) tougher [by](/en/post/by/) [physical](/en/post/physical/) [or](/en/post/or/) [chemical](/en/post/chemical/) processes. [For](/en/post/for/) [instance](/en/post/instance/), [when](/en/post/when/) [metal](/en/post/metal/) cools [down](/en/post/down/), [it](/en/post/it/) [may](/en/post/may/) [harden](/en/post/harden/). [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) making [oneself](/en/post/oneself/) emotionally [resistant](/en/post/resistant/) [or](/en/post/or/) unyielding. [Example](/en/post/example/): "[The](/en/post/the/) [clay](/en/post/clay/) hardened [in](/en/post/in/) [the](/en/post/the/) [oven](/en/post/oven/)." / "[Time](/en/post/time/) has hardened [her](/en/post/her/) [heart](/en/post/heart/) [against](/en/post/against/) [him](/en/post/him/)."
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [hard](/en/post/hard/) [or](/en/post/or/) [firm](/en/post/firm/); [also](/en/post/also/), [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [become](/en/post/become/) toughened [or](/en/post/or/) unyielding. [Example](/en/post/example/): "[The](/en/post/the/) hardness [of](/en/post/of/) [the](/en/post/the/) [steel](/en/post/steel/) was tested [before](/en/post/before/) [use](/en/post/use/)." / "Years [of](/en/post/of/) [training](/en/post/training/) made [him](/en/post/him/) [a](/en/post/a/) [harden](/en/post/harden/) [veteran](/en/post/veteran/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [become](/post/become/) [hard](/post/hard/) [or](/post/or/) [solid](/post/solid/); [to](/post/to/) [make](/post/make/) [something](/post/something/) [hard](/post/hard/) [or](/post/or/) tougher [by](/post/by/) [physical](/post/physical/) [or](/post/or/) [chemical](/post/chemical/) processes. [For](/post/for/) [instance](/post/instance/), [when](/post/when/) [metal](/post/metal/) cools [down](/post/down/), [it](/post/it/) [may](/post/may/) [harden](/post/harden/). [Also](/post/also/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [process](/post/process/) [of](/post/of/) making [oneself](/post/oneself/) emotionally [resistant](/post/resistant/) [or](/post/or/) unyielding. [Example](/post/example/): "[The](/post/the/) [clay](/post/clay/) hardened [in](/post/in/) [the](/post/the/) [oven](/post/oven/)." / "[Time](/post/time/) has hardened [her](/post/her/) [heart](/post/heart/) [against](/post/against/) [him](/post/him/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [hard](/post/hard/) [or](/post/or/) [firm](/post/firm/); [also](/post/also/), [a](/post/a/) [person](/post/person/) [who](/post/who/) has [become](/post/become/) toughened [or](/post/or/) unyielding. [Example](/post/example/): "[The](/post/the/) hardness [of](/post/of/) [the](/post/the/) [steel](/post/steel/) was tested [before](/post/before/) [use](/post/use/)." / "Years [of](/post/of/) [training](/post/training/) made [him](/post/him/) [a](/post/a/) [harden](/post/harden/) [veteran](/post/veteran/)."
 
 ## Phrases
-- "[Harden](/en/post/harden/) [up](/en/post/up/)": [To](/en/post/to/) [become](/en/post/become/) stronger mentally [or](/en/post/or/) physically; [to](/en/post/to/) toughen [oneself](/en/post/oneself/).
-- "[To](/en/post/to/) [harden](/en/post/harden/) one's [heart](/en/post/heart/)": [To](/en/post/to/) [become](/en/post/become/) emotionally [cold](/en/post/cold/) [or](/en/post/or/) [indifferent](/en/post/indifferent/) towards [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/).
-- "Hardening [process](/en/post/process/)": [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) steps taken [to](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) stronger [or](/en/post/or/) [less](/en/post/less/) susceptible [to](/en/post/to/) [damage](/en/post/damage/), [such](/en/post/such/) [as](/en/post/as/) [in](/en/post/in/) metallurgy [or](/en/post/or/) [construction](/en/post/construction/) materials.
+- "[Harden](/post/harden/) [up](/post/up/)": [To](/post/to/) [become](/post/become/) stronger mentally [or](/post/or/) physically; [to](/post/to/) toughen [oneself](/post/oneself/).
+- "[To](/post/to/) [harden](/post/harden/) one's [heart](/post/heart/)": [To](/post/to/) [become](/post/become/) emotionally [cold](/post/cold/) [or](/post/or/) [indifferent](/post/indifferent/) towards [something](/post/something/) [or](/post/or/) [someone](/post/someone/).
+- "Hardening [process](/post/process/)": [A](/post/a/) [series](/post/series/) [of](/post/of/) steps taken [to](/post/to/) [make](/post/make/) [something](/post/something/) stronger [or](/post/or/) [less](/post/less/) susceptible [to](/post/to/) [damage](/post/damage/), [such](/post/such/) [as](/post/as/) [in](/post/in/) metallurgy [or](/post/or/) [construction](/post/construction/) materials.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [day](/en/post/day/) [in](/en/post/in/) [the](/en/post/the/) [sun](/en/post/sun/), [the](/en/post/the/) [mud](/en/post/mud/) [path](/en/post/path/) had hardened [into](/en/post/into/) [a](/en/post/a/) crusty [surface](/en/post/surface/)."
-- "[The](/en/post/the/) [cook](/en/post/cook/) [left](/en/post/left/) [the](/en/post/the/) dough [to](/en/post/to/) [harden](/en/post/harden/) [overnight](/en/post/overnight/) [so](/en/post/so/) [it](/en/post/it/) [could](/en/post/could/) [be](/en/post/be/) sliced [for](/en/post/for/) breadsticks."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) soldiers were [all](/en/post/all/) hardens [from](/en/post/from/) years [of](/en/post/of/) rigorous [training](/en/post/training/)."
-- "[The](/en/post/the/) [harden](/en/post/harden/) [of](/en/post/of/) [his](/en/post/his/) countenance revealed [the](/en/post/the/) hardships [he](/en/post/he/) had endured."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [day](/post/day/) [in](/post/in/) [the](/post/the/) [sun](/post/sun/), [the](/post/the/) [mud](/post/mud/) [path](/post/path/) had hardened [into](/post/into/) [a](/post/a/) crusty [surface](/post/surface/)."
+- "[The](/post/the/) [cook](/post/cook/) [left](/post/left/) [the](/post/the/) dough [to](/post/to/) [harden](/post/harden/) [overnight](/post/overnight/) [so](/post/so/) [it](/post/it/) [could](/post/could/) [be](/post/be/) sliced [for](/post/for/) breadsticks."
+- **[Noun](/post/noun/)**: "[The](/post/the/) soldiers were [all](/post/all/) hardens [from](/post/from/) years [of](/post/of/) rigorous [training](/post/training/)."
+- "[The](/post/the/) [harden](/post/harden/) [of](/post/of/) [his](/post/his/) countenance revealed [the](/post/the/) hardships [he](/post/he/) had endured."
 
 ## Synonyms
 - Solidify
-- [Stiffen](/en/post/stiffen/)
+- [Stiffen](/post/stiffen/)
 - Toughen
 - Indurate
-- [Steel](/en/post/steel/) ([oneself](/en/post/oneself/))
-- [Render](/en/post/render/) ([something](/en/post/something/)) [hard](/en/post/hard/) [or](/en/post/or/) [strong](/en/post/strong/)
-- [For](/en/post/for/) nouns: Hardness, toughness, resilience.
+- [Steel](/post/steel/) ([oneself](/post/oneself/))
+- [Render](/post/render/) ([something](/post/something/)) [hard](/post/hard/) [or](/post/or/) [strong](/post/strong/)
+- [For](/post/for/) nouns: Hardness, toughness, resilience.

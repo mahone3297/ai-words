@@ -11,21 +11,21 @@ keywords = ['ai words', 'sunset']
 /sʌnˈsɛt/
 
 ## 释义
-- **名词**: 太阳落山的时候，黄昏，日落。例如: "[The](/post/the/) [sunset](/post/sunset/) was [a](/post/a/) [beautiful](/post/beautiful/) [display](/post/display/) [of](/post/of/) colors [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
-- **动词**: (非正式)指太阳落山的过程。例如: "[The](/post/the/) [sun](/post/sun/) is [setting](/post/setting/) [early](/post/early/) [these](/post/these/) days, sunsetted [around](/post/around/) 6 pm."
+- **名词**: 太阳落山的时候，黄昏，日落。例如: "[The](/zh/post/the/) [sunset](/zh/post/sunset/) was [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [display](/zh/post/display/) [of](/zh/post/of/) colors [in](/zh/post/in/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
+- **动词**: (非正式)指太阳落山的过程。例如: "[The](/zh/post/the/) [sun](/zh/post/sun/) is [setting](/zh/post/setting/) [early](/zh/post/early/) [these](/zh/post/these/) days, sunsetted [around](/zh/post/around/) 6 pm."
 
 ## 短语
-- "[Sunset](/post/sunset/) [view](/post/view/)" 指的是日落的景色。
-- "[Sunset](/post/sunset/) [hour](/post/hour/)" 是指黄昏时刻。
+- "[Sunset](/zh/post/sunset/) [view](/zh/post/view/)" 指的是日落的景色。
+- "[Sunset](/zh/post/sunset/) [hour](/zh/post/hour/)" 是指黄昏时刻。
 - "Sundown" 也是指日落，常在口语中使用。
 
 ## 例句
-- 名词: "[We](/post/we/) enjoyed [a](/post/a/) [picnic](/post/picnic/) [while](/post/while/) watching [the](/post/the/) [magnificent](/post/magnificent/) [sunset](/post/sunset/) [over](/post/over/) [the](/post/the/) [ocean](/post/ocean/)."
-- 动词: "[The](/post/the/) [village](/post/village/) falls [asleep](/post/asleep/) [soon](/post/soon/) [after](/post/after/) [sunset](/post/sunset/), [when](/post/when/) [the](/post/the/) day's activities [wind](/post/wind/) [down](/post/down/)."
+- 名词: "[We](/zh/post/we/) enjoyed [a](/zh/post/a/) [picnic](/zh/post/picnic/) [while](/zh/post/while/) watching [the](/zh/post/the/) [magnificent](/zh/post/magnificent/) [sunset](/zh/post/sunset/) [over](/zh/post/over/) [the](/zh/post/the/) [ocean](/zh/post/ocean/)."
+- 动词: "[The](/zh/post/the/) [village](/zh/post/village/) falls [asleep](/zh/post/asleep/) [soon](/zh/post/soon/) [after](/zh/post/after/) [sunset](/zh/post/sunset/), [when](/zh/post/when/) [the](/zh/post/the/) day's activities [wind](/zh/post/wind/) [down](/zh/post/down/)."
 
 ## 同义词
-- [Dusk](/post/dusk/)
+- [Dusk](/zh/post/dusk/)
 - Twilight
 - Sundown
-- [Eve](/post/eve/)
+- [Eve](/zh/post/eve/)
 - Nightfall

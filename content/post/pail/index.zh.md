@@ -11,20 +11,20 @@ keywords = ['ai words', 'pail']
 /peɪl/
 
 ## 释义
-- **名词**: 一种有手柄的浅金属桶，通常用于提水或装载其他物质。例如: "[She](/post/she/) [used](/post/used/) [a](/post/a/) [pail](/post/pail/) [to](/post/to/) [carry](/post/carry/) [water](/post/water/) [from](/post/from/) [the](/post/the/) [well](/post/well/)."
-- **动词**: (非标准用法，较罕见) 指使用桶装运或收集东西。例如: "[They](/post/they/) pailed [the](/post/the/) [sand](/post/sand/) [from](/post/from/) [the](/post/the/) [beach](/post/beach/)."
+- **名词**: 一种有手柄的浅金属桶，通常用于提水或装载其他物质。例如: "[She](/zh/post/she/) [used](/zh/post/used/) [a](/zh/post/a/) [pail](/zh/post/pail/) [to](/zh/post/to/) [carry](/zh/post/carry/) [water](/zh/post/water/) [from](/zh/post/from/) [the](/zh/post/the/) [well](/zh/post/well/)."
+- **动词**: (非标准用法，较罕见) 指使用桶装运或收集东西。例如: "[They](/zh/post/they/) pailed [the](/zh/post/the/) [sand](/zh/post/sand/) [from](/zh/post/from/) [the](/zh/post/the/) [beach](/zh/post/beach/)."
 
 ## 短语
-- "[to](/post/to/) [empty](/post/empty/) [a](/post/a/) [pail](/post/pail/)" 意为倒空桶里的东西。
-- "[to](/post/to/) [fill](/post/fill/) [a](/post/a/) [pail](/post/pail/)" 意为将桶装满。
+- "[to](/zh/post/to/) [empty](/zh/post/empty/) [a](/zh/post/a/) [pail](/zh/post/pail/)" 意为倒空桶里的东西。
+- "[to](/zh/post/to/) [fill](/zh/post/fill/) [a](/zh/post/a/) [pail](/zh/post/pail/)" 意为将桶装满。
 
 ## 例句
-- 名词: "[The](/post/the/) [child](/post/child/) held [a](/post/a/) [small](/post/small/) [pail](/post/pail/) filled [with](/post/with/) seashells."
-- 动词: "[He](/post/he/) pailed [the](/post/the/) [water](/post/water/) [from](/post/from/) [the](/post/the/) [river](/post/river/) [to](/post/to/) [water](/post/water/) [his](/post/his/) [garden](/post/garden/)."
+- 名词: "[The](/zh/post/the/) [child](/zh/post/child/) held [a](/zh/post/a/) [small](/zh/post/small/) [pail](/zh/post/pail/) filled [with](/zh/post/with/) seashells."
+- 动词: "[He](/zh/post/he/) pailed [the](/zh/post/the/) [water](/zh/post/water/) [from](/zh/post/from/) [the](/zh/post/the/) [river](/zh/post/river/) [to](/zh/post/to/) [water](/zh/post/water/) [his](/zh/post/his/) [garden](/zh/post/garden/)."
 
 ## 同义词
-- [bucket](/post/bucket/)
-- [tub](/post/tub/)
-- [can](/post/can/)
-- [vessel](/post/vessel/)
-- [container](/post/container/)
+- [bucket](/zh/post/bucket/)
+- [tub](/zh/post/tub/)
+- [can](/zh/post/can/)
+- [vessel](/zh/post/vessel/)
+- [container](/zh/post/container/)

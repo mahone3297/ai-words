@@ -14,16 +14,16 @@ keywords = ['ai words', 'railway']
 - **名词**: 铁路，铁道。一种由钢轨、枕木、道岔和信号设备组成的交通系统，通常用于运输旅客和货物。
 
 ## 短语
-- "[railway](/post/railway/) [station](/post/station/)" 火车站
-- "[railway](/post/railway/) [network](/post/network/)" 铁路网
-- "[railway](/post/railway/) [line](/post/line/)" 铁路线
+- "[railway](/zh/post/railway/) [station](/zh/post/station/)" 火车站
+- "[railway](/zh/post/railway/) [network](/zh/post/network/)" 铁路网
+- "[railway](/zh/post/railway/) [line](/zh/post/line/)" 铁路线
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [railway](/post/railway/) connects [the](/post/the/) [two](/post/two/) cities [directly](/post/directly/)."
-- "We'll [take](/post/take/) [the](/post/the/) [express](/post/express/) [train](/post/train/) [on](/post/on/) [the](/post/the/) [main](/post/main/) [railway](/post/railway/) [line](/post/line/) [to](/post/to/) [reach](/post/reach/) [our](/post/our/) [destination](/post/destination/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [railway](/zh/post/railway/) connects [the](/zh/post/the/) [two](/zh/post/two/) cities [directly](/zh/post/directly/)."
+- "We'll [take](/zh/post/take/) [the](/zh/post/the/) [express](/zh/post/express/) [train](/zh/post/train/) [on](/zh/post/on/) [the](/zh/post/the/) [main](/zh/post/main/) [railway](/zh/post/railway/) [line](/zh/post/line/) [to](/zh/post/to/) [reach](/zh/post/reach/) [our](/zh/post/our/) [destination](/zh/post/destination/)."
 
 ## 同义词
-- [railroad](/post/railroad/) (美式英语)
-- [railway](/post/railway/) [system](/post/system/)
-- [train](/post/train/) [track](/post/track/)
+- [railroad](/zh/post/railroad/) (美式英语)
+- [railway](/zh/post/railway/) [system](/zh/post/system/)
+- [train](/zh/post/train/) [track](/zh/post/track/)
 - tramway (在某些情况下，指城市有轨电车系统)

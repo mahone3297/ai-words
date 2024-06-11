@@ -7,37 +7,37 @@ description = '[fɔːˈmei∫ən] n.形成；构成；形成物'
 keywords = ['ai words', 'formation']
 +++
 
-[Word](/en/post/word/): [Form](/en/post/form/)
-## [Pronunciation](/en/post/pronunciation/)
+[Word](/post/word/): [Form](/post/form/)
+## [Pronunciation](/post/pronunciation/)
 /fɔːrm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (fôrm) [A](/en/post/a/) prescribed [or](/en/post/or/) [set](/en/post/set/) [structure](/en/post/structure/) [for](/en/post/for/) [writing](/en/post/writing/), filling [out](/en/post/out/), [or](/en/post/or/) arranging [information](/en/post/information/), [often](/en/post/often/) [on](/en/post/on/) [a](/en/post/a/) printed [document](/en/post/document/) [or](/en/post/or/) displayed [on](/en/post/on/) [a](/en/post/a/) [screen](/en/post/screen/). E.g., "[Please](/en/post/please/) [fill](/en/post/fill/) [out](/en/post/out/) [this](/en/post/this/) [form](/en/post/form/) [before](/en/post/before/) submitting [your](/en/post/your/) [application](/en/post/application/)."
-  - **[Physical](/en/post/physical/) [form](/en/post/form/)**: [The](/en/post/the/) [shape](/en/post/shape/), [appearance](/en/post/appearance/), [or](/en/post/or/) [structure](/en/post/structure/) [of](/en/post/of/) [something](/en/post/something/); [its](/en/post/its/) [external](/en/post/external/) [outline](/en/post/outline/) [or](/en/post/or/) configuration. E.g., "[The](/en/post/the/) sculpture had [a](/en/post/a/) [unique](/en/post/unique/) [form](/en/post/form/) [that](/en/post/that/) caught everyone's [attention](/en/post/attention/)."
-  - **Morphological [form](/en/post/form/)**: [In](/en/post/in/) linguistics, [the](/en/post/the/) [specific](/en/post/specific/) [shape](/en/post/shape/) [or](/en/post/or/) [structure](/en/post/structure/) [of](/en/post/of/) [a](/en/post/a/) [word](/en/post/word/), including [its](/en/post/its/) inflections, [which](/en/post/which/) [can](/en/post/can/) [change](/en/post/change/) according [to](/en/post/to/) [grammatical](/en/post/grammatical/) [function](/en/post/function/). E.g., "[The](/en/post/the/) [word](/en/post/word/) '[run](/en/post/run/)' has [different](/en/post/different/) forms [like](/en/post/like/) 'runs', 'ran', [and](/en/post/and/) 'running'."
+- **[Noun](/post/noun/)**: (fôrm) [A](/post/a/) prescribed [or](/post/or/) [set](/post/set/) [structure](/post/structure/) [for](/post/for/) [writing](/post/writing/), filling [out](/post/out/), [or](/post/or/) arranging [information](/post/information/), [often](/post/often/) [on](/post/on/) [a](/post/a/) printed [document](/post/document/) [or](/post/or/) displayed [on](/post/on/) [a](/post/a/) [screen](/post/screen/). E.g., "[Please](/post/please/) [fill](/post/fill/) [out](/post/out/) [this](/post/this/) [form](/post/form/) [before](/post/before/) submitting [your](/post/your/) [application](/post/application/)."
+  - **[Physical](/post/physical/) [form](/post/form/)**: [The](/post/the/) [shape](/post/shape/), [appearance](/post/appearance/), [or](/post/or/) [structure](/post/structure/) [of](/post/of/) [something](/post/something/); [its](/post/its/) [external](/post/external/) [outline](/post/outline/) [or](/post/or/) configuration. E.g., "[The](/post/the/) sculpture had [a](/post/a/) [unique](/post/unique/) [form](/post/form/) [that](/post/that/) caught everyone's [attention](/post/attention/)."
+  - **Morphological [form](/post/form/)**: [In](/post/in/) linguistics, [the](/post/the/) [specific](/post/specific/) [shape](/post/shape/) [or](/post/or/) [structure](/post/structure/) [of](/post/of/) [a](/post/a/) [word](/post/word/), including [its](/post/its/) inflections, [which](/post/which/) [can](/post/can/) [change](/post/change/) according [to](/post/to/) [grammatical](/post/grammatical/) [function](/post/function/). E.g., "[The](/post/the/) [word](/post/word/) '[run](/post/run/)' has [different](/post/different/) forms [like](/post/like/) 'runs', 'ran', [and](/post/and/) 'running'."
   
-- **[Verb](/en/post/verb/)**: (fôrm) 
-  - [To](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [give](/en/post/give/) [shape](/en/post/shape/) [to](/en/post/to/) [something](/en/post/something/), [either](/en/post/either/) physically [or](/en/post/or/) abstractly. E.g., "[They](/en/post/they/) formed [a](/en/post/a/) [plan](/en/post/plan/) [to](/en/post/to/) tackle [the](/en/post/the/) [issue](/en/post/issue/)."
-  - [To](/en/post/to/) [organize](/en/post/organize/) [or](/en/post/or/) [arrange](/en/post/arrange/) systematically, [such](/en/post/such/) [as](/en/post/as/) troops, ideas, [or](/en/post/or/) [data](/en/post/data/) [into](/en/post/into/) [a](/en/post/a/) structured [whole](/en/post/whole/). E.g., "[The](/en/post/the/) [teacher](/en/post/teacher/) helped [the](/en/post/the/) students [form](/en/post/form/) [study](/en/post/study/) groups."
-  - [In](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/), [to](/en/post/to/) [develop](/en/post/develop/) [or](/en/post/or/) [bring](/en/post/bring/) [into](/en/post/into/) [existence](/en/post/existence/). E.g., "[Time](/en/post/time/) [and](/en/post/and/) [pressure](/en/post/pressure/) formed diamonds [from](/en/post/from/) [coal](/en/post/coal/)."
+- **[Verb](/post/verb/)**: (fôrm) 
+  - [To](/post/to/) [create](/post/create/) [or](/post/or/) [give](/post/give/) [shape](/post/shape/) [to](/post/to/) [something](/post/something/), [either](/post/either/) physically [or](/post/or/) abstractly. E.g., "[They](/post/they/) formed [a](/post/a/) [plan](/post/plan/) [to](/post/to/) tackle [the](/post/the/) [issue](/post/issue/)."
+  - [To](/post/to/) [organize](/post/organize/) [or](/post/or/) [arrange](/post/arrange/) systematically, [such](/post/such/) [as](/post/as/) troops, ideas, [or](/post/or/) [data](/post/data/) [into](/post/into/) [a](/post/a/) structured [whole](/post/whole/). E.g., "[The](/post/the/) [teacher](/post/teacher/) helped [the](/post/the/) students [form](/post/form/) [study](/post/study/) groups."
+  - [In](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), [to](/post/to/) [develop](/post/develop/) [or](/post/or/) [bring](/post/bring/) [into](/post/into/) [existence](/post/existence/). E.g., "[Time](/post/time/) [and](/post/and/) [pressure](/post/pressure/) formed diamonds [from](/post/from/) [coal](/post/coal/)."
 
 ## Phrases
-- "[In](/en/post/in/) [its](/en/post/its/) [present](/en/post/present/) [form](/en/post/form/)": [Meaning](/en/post/meaning/) [how](/en/post/how/) [something](/en/post/something/) currently exists [or](/en/post/or/) appears.
-- "[Take](/en/post/take/) [form](/en/post/form/)": [Means](/en/post/means/) [to](/en/post/to/) [begin](/en/post/begin/) [to](/en/post/to/) [develop](/en/post/develop/) [a](/en/post/a/) [clear](/en/post/clear/) [shape](/en/post/shape/), [structure](/en/post/structure/), [or](/en/post/or/) [meaning](/en/post/meaning/).
-- "[To](/en/post/to/) [fill](/en/post/fill/) [out](/en/post/out/) [a](/en/post/a/) [form](/en/post/form/)": Completing [information](/en/post/information/) [on](/en/post/on/) [a](/en/post/a/) pre-designed [document](/en/post/document/).
+- "[In](/post/in/) [its](/post/its/) [present](/post/present/) [form](/post/form/)": [Meaning](/post/meaning/) [how](/post/how/) [something](/post/something/) currently exists [or](/post/or/) appears.
+- "[Take](/post/take/) [form](/post/form/)": [Means](/post/means/) [to](/post/to/) [begin](/post/begin/) [to](/post/to/) [develop](/post/develop/) [a](/post/a/) [clear](/post/clear/) [shape](/post/shape/), [structure](/post/structure/), [or](/post/or/) [meaning](/post/meaning/).
+- "[To](/post/to/) [fill](/post/fill/) [out](/post/out/) [a](/post/a/) [form](/post/form/)": Completing [information](/post/information/) [on](/post/on/) [a](/post/a/) pre-designed [document](/post/document/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [tax](/en/post/tax/) [return](/en/post/return/) [form](/en/post/form/) is [much](/en/post/much/) simpler [than](/en/post/than/) [previous](/en/post/previous/) years."
-- **[Verb](/en/post/verb/)**: "[Over](/en/post/over/) [time](/en/post/time/), [water](/en/post/water/) erosion formed [a](/en/post/a/) canyon [in](/en/post/in/) [the](/en/post/the/) [rock](/en/post/rock/) [face](/en/post/face/)."
-- **Morphological [form](/en/post/form/)**: "[The](/en/post/the/) [verb](/en/post/verb/) '[be](/en/post/be/)' has [several](/en/post/several/) forms: am, is, are, was, were, [being](/en/post/being/), been."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [tax](/post/tax/) [return](/post/return/) [form](/post/form/) is [much](/post/much/) simpler [than](/post/than/) [previous](/post/previous/) years."
+- **[Verb](/post/verb/)**: "[Over](/post/over/) [time](/post/time/), [water](/post/water/) erosion formed [a](/post/a/) canyon [in](/post/in/) [the](/post/the/) [rock](/post/rock/) [face](/post/face/)."
+- **Morphological [form](/post/form/)**: "[The](/post/the/) [verb](/post/verb/) '[be](/post/be/)' has [several](/post/several/) forms: am, is, are, was, were, [being](/post/being/), been."
 
 ## Synonyms
-- [Shape](/en/post/shape/)
-- [Structure](/en/post/structure/)
+- [Shape](/post/shape/)
+- [Structure](/post/structure/)
 - Configuration
-- [Organization](/en/post/organization/)
-- [Composition](/en/post/composition/)
+- [Organization](/post/organization/)
+- [Composition](/post/composition/)
 - Creation
-- [Development](/en/post/development/)
-- [Formation](/en/post/formation/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
-- [Layout](/en/post/layout/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) documents)
+- [Development](/post/development/)
+- [Formation](/post/formation/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))
+- [Layout](/post/layout/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) documents)

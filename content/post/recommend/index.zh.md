@@ -11,20 +11,20 @@ keywords = ['ai words', 'recommend']
 /ˌrekəˈmend/
 
 ## 释义
-- **动词**: 建议；推荐。例如: "I [highly](/post/highly/) [recommend](/post/recommend/) [this](/post/this/) [book](/post/book/) [to](/post/to/) [all](/post/all/) readers."
-- **名词**: 推荐；建议。例如: "[She](/post/she/) gave [me](/post/me/) [a](/post/a/) [strong](/post/strong/) [recommendation](/post/recommendation/) [for](/post/for/) [the](/post/the/) [job](/post/job/)."
+- **动词**: 建议；推荐。例如: "I [highly](/zh/post/highly/) [recommend](/zh/post/recommend/) [this](/zh/post/this/) [book](/zh/post/book/) [to](/zh/post/to/) [all](/zh/post/all/) readers."
+- **名词**: 推荐；建议。例如: "[She](/zh/post/she/) gave [me](/zh/post/me/) [a](/zh/post/a/) [strong](/zh/post/strong/) [recommendation](/zh/post/recommendation/) [for](/zh/post/for/) [the](/zh/post/the/) [job](/zh/post/job/)."
 
 ## 短语
-- "[Recommend](/post/recommend/) [someone](/post/someone/) [for](/post/for/) [a](/post/a/) [job](/post/job/)" 意为推荐某人担任某个职位。
-- "[Recommend](/post/recommend/) [something](/post/something/) [to](/post/to/) [someone](/post/someone/)" 表示向某人推荐某物。
+- "[Recommend](/zh/post/recommend/) [someone](/zh/post/someone/) [for](/zh/post/for/) [a](/zh/post/a/) [job](/zh/post/job/)" 意为推荐某人担任某个职位。
+- "[Recommend](/zh/post/recommend/) [something](/zh/post/something/) [to](/zh/post/to/) [someone](/zh/post/someone/)" 表示向某人推荐某物。
 
 ## 例句
-- 动词: "[My](/post/my/) [friend](/post/friend/) recommended [the](/post/the/) Italian [restaurant](/post/restaurant/) [down](/post/down/) [the](/post/the/) [street](/post/street/)."
-- 名词: "[The](/post/the/) teacher's [recommendation](/post/recommendation/) carried [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [weight](/post/weight/) [with](/post/with/) [the](/post/the/) [school](/post/school/) [board](/post/board/)."
+- 动词: "[My](/zh/post/my/) [friend](/zh/post/friend/) recommended [the](/zh/post/the/) Italian [restaurant](/zh/post/restaurant/) [down](/zh/post/down/) [the](/zh/post/the/) [street](/zh/post/street/)."
+- 名词: "[The](/zh/post/the/) teacher's [recommendation](/zh/post/recommendation/) carried [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) [weight](/zh/post/weight/) [with](/zh/post/with/) [the](/zh/post/the/) [school](/zh/post/school/) [board](/zh/post/board/)."
 
 ## 同义词
-- [Suggest](/post/suggest/)
-- [Advise](/post/advise/)
-- [Propose](/post/propose/)
+- [Suggest](/zh/post/suggest/)
+- [Advise](/zh/post/advise/)
+- [Propose](/zh/post/propose/)
 - Endorse
 - Advocate

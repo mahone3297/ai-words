@@ -12,20 +12,20 @@ keywords = ['ai words', 'England']
 
 ## 释义
 - **名词**:
-   - 英格兰，英国的一个国家组成部分，位于大不列颠岛的南部和东部。例如: "[She](/post/she/) comes [from](/post/from/) England [and](/post/and/) loves [its](/post/its/) historic castles."
-   - 英式（事物），指源自英格兰的文化、传统或风格。例如: "[They](/post/they/) played an England [football](/post/football/) [match](/post/match/), [with](/post/with/) [both](/post/both/) teams wearing [the](/post/the/) [traditional](/post/traditional/) [red](/post/red/) [and](/post/and/) [white](/post/white/) kits."
+   - 英格兰，英国的一个国家组成部分，位于大不列颠岛的南部和东部。例如: "[She](/zh/post/she/) comes [from](/zh/post/from/) England [and](/zh/post/and/) loves [its](/zh/post/its/) historic castles."
+   - 英式（事物），指源自英格兰的文化、传统或风格。例如: "[They](/zh/post/they/) played an England [football](/zh/post/football/) [match](/zh/post/match/), [with](/zh/post/with/) [both](/zh/post/both/) teams wearing [the](/zh/post/the/) [traditional](/zh/post/traditional/) [red](/zh/post/red/) [and](/zh/post/and/) [white](/zh/post/white/) kits."
 
 ## 短语
-- "[The](/post/the/) English" 通常指英格兰人或他们的文化。
-- "English [language](/post/language/)" 英语，全球广泛使用的语言之一。
+- "[The](/zh/post/the/) English" 通常指英格兰人或他们的文化。
+- "English [language](/zh/post/language/)" 英语，全球广泛使用的语言之一。
 
 ## 例句
-- "[My](/post/my/) [friend](/post/friend/) is studying [at](/post/at/) [a](/post/a/) [university](/post/university/) [in](/post/in/) England."
-- "[The](/post/the/) English [countryside](/post/countryside/) is known [for](/post/for/) [its](/post/its/) picturesque villages [and](/post/and/) rolling hills."
+- "[My](/zh/post/my/) [friend](/zh/post/friend/) is studying [at](/zh/post/at/) [a](/zh/post/a/) [university](/zh/post/university/) [in](/zh/post/in/) England."
+- "[The](/zh/post/the/) English [countryside](/zh/post/countryside/) is known [for](/zh/post/for/) [its](/zh/post/its/) picturesque villages [and](/zh/post/and/) rolling hills."
 
 ## 同义词
 - Britain
-- UK (United [Kingdom](/post/kingdom/))
-- [Great](/post/great/) Britain
+- UK (United [Kingdom](/zh/post/kingdom/))
+- [Great](/zh/post/great/) Britain
 
 请注意，"England" 主要作为地名或文化概念，并没有动词或形容词形式。在表达“英国的”时，通常使用 "English" 作为形容词。

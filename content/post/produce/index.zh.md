@@ -12,25 +12,25 @@ keywords = ['ai words', 'produce']
 
 ## 释义
 - **动词**:
-1. 制造；生产：例如 "[The](/post/the/) [factory](/post/factory/) produces cars [every](/post/every/) [day](/post/day/)."
-2. 出产；产生：例如 "[This](/post/this/) [farm](/post/farm/) produces high-quality vegetables."
-3. 创作；制作：例如 "[She](/post/she/) produces documentaries [for](/post/for/) [a](/post/a/) [living](/post/living/)."
+1. 制造；生产：例如 "[The](/zh/post/the/) [factory](/zh/post/factory/) produces cars [every](/zh/post/every/) [day](/zh/post/day/)."
+2. 出产；产生：例如 "[This](/zh/post/this/) [farm](/zh/post/farm/) produces high-quality vegetables."
+3. 创作；制作：例如 "[She](/zh/post/she/) produces documentaries [for](/zh/post/for/) [a](/zh/post/a/) [living](/zh/post/living/)."
 
 - **名词**:
-1. 产品；产物：例如 "[The](/post/the/) company's latest [produce](/post/produce/) is selling [well](/post/well/)."
-2. 农产品；果蔬：例如 "[The](/post/the/) [market](/post/market/) has [a](/post/a/) [wide](/post/wide/) [variety](/post/variety/) [of](/post/of/) [fresh](/post/fresh/) [produce](/post/produce/)."
+1. 产品；产物：例如 "[The](/zh/post/the/) company's latest [produce](/zh/post/produce/) is selling [well](/zh/post/well/)."
+2. 农产品；果蔬：例如 "[The](/zh/post/the/) [market](/zh/post/market/) has [a](/zh/post/a/) [wide](/zh/post/wide/) [variety](/zh/post/variety/) [of](/zh/post/of/) [fresh](/zh/post/fresh/) [produce](/zh/post/produce/)."
 
 ## 短语
-- "[Produce](/post/produce/) [goods](/post/goods/)" 意为制造商品。
-- "[Local](/post/local/) [produce](/post/produce/)" 指的是本地种植或养殖的产品。
+- "[Produce](/zh/post/produce/) [goods](/zh/post/goods/)" 意为制造商品。
+- "[Local](/zh/post/local/) [produce](/zh/post/produce/)" 指的是本地种植或养殖的产品。
 
 ## 例句
-- 动词: "[The](/post/the/) [factory](/post/factory/) [will](/post/will/) [increase](/post/increase/) [its](/post/its/) [production](/post/production/) [to](/post/to/) [meet](/post/meet/) [the](/post/the/) growing [demand](/post/demand/)."
-- 名词: "[The](/post/the/) farmers' [market](/post/market/) offers [a](/post/a/) [great](/post/great/) [selection](/post/selection/) [of](/post/of/) [organic](/post/organic/) [produce](/post/produce/)."
+- 动词: "[The](/zh/post/the/) [factory](/zh/post/factory/) [will](/zh/post/will/) [increase](/zh/post/increase/) [its](/zh/post/its/) [production](/zh/post/production/) [to](/zh/post/to/) [meet](/zh/post/meet/) [the](/zh/post/the/) growing [demand](/zh/post/demand/)."
+- 名词: "[The](/zh/post/the/) farmers' [market](/zh/post/market/) offers [a](/zh/post/a/) [great](/zh/post/great/) [selection](/zh/post/selection/) [of](/zh/post/of/) [organic](/zh/post/organic/) [produce](/zh/post/produce/)."
 
 ## 同义词
-- [Create](/post/create/)
-- [Generate](/post/generate/)
+- [Create](/zh/post/create/)
+- [Generate](/zh/post/generate/)
 - Fabricate
-- [Cultivate](/post/cultivate/)
-- [Yield](/post/yield/)
+- [Cultivate](/zh/post/cultivate/)
+- [Yield](/zh/post/yield/)

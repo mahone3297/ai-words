@@ -7,38 +7,38 @@ description = '[kəmˈpəunənt] n.组成部分；分；组件'
 keywords = ['ai words', 'component']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /həˈlɛm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [component](/en/post/component/) [or](/en/post/or/) constituent [part](/en/post/part/) [that](/en/post/that/) makes [up](/en/post/up/) [a](/en/post/a/) [whole](/en/post/whole/), [often](/en/post/often/) having [a](/en/post/a/) [specific](/en/post/specific/) [function](/en/post/function/) [or](/en/post/or/) [role](/en/post/role/) [within](/en/post/within/) [a](/en/post/a/) [system](/en/post/system/), [structure](/en/post/structure/), [or](/en/post/or/) [design](/en/post/design/).
+### [Noun](/post/noun/)
+[A](/post/a/) [component](/post/component/) [or](/post/or/) constituent [part](/post/part/) [that](/post/that/) makes [up](/post/up/) [a](/post/a/) [whole](/post/whole/), [often](/post/often/) having [a](/post/a/) [specific](/post/specific/) [function](/post/function/) [or](/post/or/) [role](/post/role/) [within](/post/within/) [a](/post/a/) [system](/post/system/), [structure](/post/structure/), [or](/post/or/) [design](/post/design/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [form](/en/post/form/) [or](/en/post/or/) constitute [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/); [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) constituent [element](/en/post/element/) [or](/en/post/or/) ingredient.
+### [Verb](/post/verb/)
+[To](/post/to/) [form](/post/form/) [or](/post/or/) constitute [a](/post/a/) [part](/post/part/) [of](/post/of/) [something](/post/something/); [to](/post/to/) [be](/post/be/) [a](/post/a/) constituent [element](/post/element/) [or](/post/or/) ingredient.
 
-### [Adjective](/en/post/adjective/)
-Characterizing [or](/en/post/or/) describing [a](/en/post/a/) [particular](/en/post/particular/) [aspect](/en/post/aspect/) [or](/en/post/or/) [feature](/en/post/feature/) [of](/en/post/of/) [something](/en/post/something/).
+### [Adjective](/post/adjective/)
+Characterizing [or](/post/or/) describing [a](/post/a/) [particular](/post/particular/) [aspect](/post/aspect/) [or](/post/or/) [feature](/post/feature/) [of](/post/of/) [something](/post/something/).
 
-### [Adverb](/en/post/adverb/)
-[In](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) refers [to](/en/post/to/) [the](/en/post/the/) [composition](/en/post/composition/) [or](/en/post/or/) makeup [of](/en/post/of/) [something](/en/post/something/).
+### [Adverb](/post/adverb/)
+[In](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) refers [to](/post/to/) [the](/post/the/) [composition](/post/composition/) [or](/post/or/) makeup [of](/post/of/) [something](/post/something/).
 
 ## Phrases
-- "[Form](/en/post/form/) [a](/en/post/a/) [component](/en/post/component/) [of](/en/post/of/)" implies [being](/en/post/being/) [one](/en/post/one/) [part](/en/post/part/) [among](/en/post/among/) [many](/en/post/many/).
-- "[The](/en/post/the/) [key](/en/post/key/) [component](/en/post/component/)" highlights [a](/en/post/a/) crucial [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [system](/en/post/system/).
-- "[Design](/en/post/design/) components" are [various](/en/post/various/) parts [that](/en/post/that/) [come](/en/post/come/) [together](/en/post/together/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [product](/en/post/product/).
+- "[Form](/post/form/) [a](/post/a/) [component](/post/component/) [of](/post/of/)" implies [being](/post/being/) [one](/post/one/) [part](/post/part/) [among](/post/among/) [many](/post/many/).
+- "[The](/post/the/) [key](/post/key/) [component](/post/component/)" highlights [a](/post/a/) crucial [part](/post/part/) [in](/post/in/) [a](/post/a/) [system](/post/system/).
+- "[Design](/post/design/) components" are [various](/post/various/) parts [that](/post/that/) [come](/post/come/) [together](/post/together/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [product](/post/product/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) computer's [hardware](/en/post/hardware/) consists [of](/en/post/of/) [several](/en/post/several/) [essential](/en/post/essential/) components."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) software update [will](/en/post/will/) integrate [additional](/en/post/additional/) components [for](/en/post/for/) improved functionality."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) recipe calls [for](/en/post/for/) [a](/en/post/a/) [blend](/en/post/blend/) [of](/en/post/of/) spices [as](/en/post/as/) [its](/en/post/its/) [main](/en/post/main/) flavor [component](/en/post/component/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [project](/en/post/project/) [team](/en/post/team/) carefully analyzed [the](/en/post/the/) [structural](/en/post/structural/) components [to](/en/post/to/) [ensure](/en/post/ensure/) [stability](/en/post/stability/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) computer's [hardware](/post/hardware/) consists [of](/post/of/) [several](/post/several/) [essential](/post/essential/) components."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) software update [will](/post/will/) integrate [additional](/post/additional/) components [for](/post/for/) improved functionality."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) recipe calls [for](/post/for/) [a](/post/a/) [blend](/post/blend/) [of](/post/of/) spices [as](/post/as/) [its](/post/its/) [main](/post/main/) flavor [component](/post/component/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [project](/post/project/) [team](/post/team/) carefully analyzed [the](/post/the/) [structural](/post/structural/) components [to](/post/to/) [ensure](/post/ensure/) [stability](/post/stability/)."
 
 ## Synonyms
-- [Element](/en/post/element/)
-- [Piece](/en/post/piece/)
-- [Part](/en/post/part/)
+- [Element](/post/element/)
+- [Piece](/post/piece/)
+- [Part](/post/part/)
 - Constituent
 - Ingredient
-- [Aspect](/en/post/aspect/)
-- [Feature](/en/post/feature/)
+- [Aspect](/post/aspect/)
+- [Feature](/post/feature/)

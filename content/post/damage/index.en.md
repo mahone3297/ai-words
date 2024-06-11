@@ -7,39 +7,39 @@ description = '[ˈdæmidʒ] vt.损害，毁坏 n.损害'
 keywords = ['ai words', 'damage']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dəmˈeɪdʒ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Damage](/en/post/damage/)** (n): [Physical](/en/post/physical/) [harm](/en/post/harm/), [injury](/en/post/injury/), [or](/en/post/or/) [destruction](/en/post/destruction/) caused [to](/en/post/to/) [something](/en/post/something/), [often](/en/post/often/) [to](/en/post/to/) [a](/en/post/a/) [material](/en/post/material/) [object](/en/post/object/) [or](/en/post/or/) [property](/en/post/property/). [Example](/en/post/example/): "[The](/en/post/the/) [car](/en/post/car/) sustained [significant](/en/post/significant/) [damage](/en/post/damage/) [in](/en/post/in/) [the](/en/post/the/) [accident](/en/post/accident/)."
-2. **[Emotional](/en/post/emotional/) [or](/en/post/or/) [psychological](/en/post/psychological/) [harm](/en/post/harm/)** (n): [The](/en/post/the/) [hurt](/en/post/hurt/) [or](/en/post/or/) [distress](/en/post/distress/) experienced [by](/en/post/by/) [someone](/en/post/someone/), [especially](/en/post/especially/) [after](/en/post/after/) [a](/en/post/a/) traumatic [event](/en/post/event/). [Example](/en/post/example/): "[She](/en/post/she/) suffered lasting [emotional](/en/post/emotional/) [damage](/en/post/damage/) [from](/en/post/from/) [her](/en/post/her/) [childhood](/en/post/childhood/)."
+### [Noun](/post/noun/)
+1. **[Damage](/post/damage/)** (n): [Physical](/post/physical/) [harm](/post/harm/), [injury](/post/injury/), [or](/post/or/) [destruction](/post/destruction/) caused [to](/post/to/) [something](/post/something/), [often](/post/often/) [to](/post/to/) [a](/post/a/) [material](/post/material/) [object](/post/object/) [or](/post/or/) [property](/post/property/). [Example](/post/example/): "[The](/post/the/) [car](/post/car/) sustained [significant](/post/significant/) [damage](/post/damage/) [in](/post/in/) [the](/post/the/) [accident](/post/accident/)."
+2. **[Emotional](/post/emotional/) [or](/post/or/) [psychological](/post/psychological/) [harm](/post/harm/)** (n): [The](/post/the/) [hurt](/post/hurt/) [or](/post/or/) [distress](/post/distress/) experienced [by](/post/by/) [someone](/post/someone/), [especially](/post/especially/) [after](/post/after/) [a](/post/a/) traumatic [event](/post/event/). [Example](/post/example/): "[She](/post/she/) suffered lasting [emotional](/post/emotional/) [damage](/post/damage/) [from](/post/from/) [her](/post/her/) [childhood](/post/childhood/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) **[cause](/en/post/cause/) [damage](/en/post/damage/)** (v): [To](/en/post/to/) inflict [harm](/en/post/harm/) [or](/en/post/or/) [injury](/en/post/injury/) [on](/en/post/on/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [Example](/en/post/example/): "[The](/en/post/the/) [fire](/en/post/fire/) [quickly](/en/post/quickly/) damaged [the](/en/post/the/) [entire](/en/post/entire/) [building](/en/post/building/)."
-2. [To](/en/post/to/) **[suffer](/en/post/suffer/) [damage](/en/post/damage/)** (v): [To](/en/post/to/) [experience](/en/post/experience/) [harm](/en/post/harm/) [oneself](/en/post/oneself/), [especially](/en/post/especially/) [through](/en/post/through/) an [external](/en/post/external/) [cause](/en/post/cause/). [Example](/en/post/example/): "[The](/en/post/the/) antique [vase](/en/post/vase/) suffered [damage](/en/post/damage/) [from](/en/post/from/) [water](/en/post/water/) [exposure](/en/post/exposure/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) **[cause](/post/cause/) [damage](/post/damage/)** (v): [To](/post/to/) inflict [harm](/post/harm/) [or](/post/or/) [injury](/post/injury/) [on](/post/on/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [Example](/post/example/): "[The](/post/the/) [fire](/post/fire/) [quickly](/post/quickly/) damaged [the](/post/the/) [entire](/post/entire/) [building](/post/building/)."
+2. [To](/post/to/) **[suffer](/post/suffer/) [damage](/post/damage/)** (v): [To](/post/to/) [experience](/post/experience/) [harm](/post/harm/) [oneself](/post/oneself/), [especially](/post/especially/) [through](/post/through/) an [external](/post/external/) [cause](/post/cause/). [Example](/post/example/): "[The](/post/the/) antique [vase](/post/vase/) suffered [damage](/post/damage/) [from](/post/from/) [water](/post/water/) [exposure](/post/exposure/)."
 
 ## Phrases
-- "[Prevent](/en/post/prevent/) [further](/en/post/further/) [damage](/en/post/damage/)" [means](/en/post/means/) [to](/en/post/to/) [stop](/en/post/stop/) [any](/en/post/any/) [more](/en/post/more/) [harm](/en/post/harm/) [from](/en/post/from/) occurring.
-- "[Do](/en/post/do/) minimal [damage](/en/post/damage/)" refers [to](/en/post/to/) causing [as](/en/post/as/) [little](/en/post/little/) [harm](/en/post/harm/) [as](/en/post/as/) [possible](/en/post/possible/).
-- "[Repair](/en/post/repair/) [the](/en/post/the/) [damage](/en/post/damage/)" is [about](/en/post/about/) restoring [something](/en/post/something/) [that](/en/post/that/) has been harmed.
+- "[Prevent](/post/prevent/) [further](/post/further/) [damage](/post/damage/)" [means](/post/means/) [to](/post/to/) [stop](/post/stop/) [any](/post/any/) [more](/post/more/) [harm](/post/harm/) [from](/post/from/) occurring.
+- "[Do](/post/do/) minimal [damage](/post/damage/)" refers [to](/post/to/) causing [as](/post/as/) [little](/post/little/) [harm](/post/harm/) [as](/post/as/) [possible](/post/possible/).
+- "[Repair](/post/repair/) [the](/post/the/) [damage](/post/damage/)" is [about](/post/about/) restoring [something](/post/something/) [that](/post/that/) has been harmed.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [storm](/en/post/storm/) caused [extensive](/en/post/extensive/) [damage](/en/post/damage/) [to](/en/post/to/) [the](/en/post/the/) [roof](/en/post/roof/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [careless](/en/post/careless/) [driver](/en/post/driver/) damaged [several](/en/post/several/) parked cars [in](/en/post/in/) [the](/en/post/the/) parking [lot](/en/post/lot/)."
-- **Infinitive**: "[They](/en/post/they/) [set](/en/post/set/) [out](/en/post/out/) [to](/en/post/to/) minimize [the](/en/post/the/) [damage](/en/post/damage/) [to](/en/post/to/) [the](/en/post/the/) [environment](/en/post/environment/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [storm](/post/storm/) caused [extensive](/post/extensive/) [damage](/post/damage/) [to](/post/to/) [the](/post/the/) [roof](/post/roof/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [careless](/post/careless/) [driver](/post/driver/) damaged [several](/post/several/) parked cars [in](/post/in/) [the](/post/the/) parking [lot](/post/lot/)."
+- **Infinitive**: "[They](/post/they/) [set](/post/set/) [out](/post/out/) [to](/post/to/) minimize [the](/post/the/) [damage](/post/damage/) [to](/post/to/) [the](/post/the/) [environment](/post/environment/)."
 
 ## Synonyms
-- [Harm](/en/post/harm/)
-- [Ruin](/en/post/ruin/)
-- [Injury](/en/post/injury/)
-- [Destruction](/en/post/destruction/)
-- [Wear](/en/post/wear/) [and](/en/post/and/) [tear](/en/post/tear/)
+- [Harm](/post/harm/)
+- [Ruin](/post/ruin/)
+- [Injury](/post/injury/)
+- [Destruction](/post/destruction/)
+- [Wear](/post/wear/) [and](/post/and/) [tear](/post/tear/)
 - Scarring
 
 ## Antonyms
-- [Repair](/en/post/repair/)
-- [Restore](/en/post/restore/)
-- [Benefit](/en/post/benefit/)
+- [Repair](/post/repair/)
+- [Restore](/post/restore/)
+- [Benefit](/post/benefit/)
 - Enhance
-- [Improve](/en/post/improve/)
+- [Improve](/post/improve/)

@@ -12,26 +12,26 @@ keywords = ['ai words', 'gap']
 
 ## 释义
 - **名词**:
-  - 空隙，间隙：[A](/post/a/) [space](/post/space/) [or](/post/or/) [opening](/post/opening/) [between](/post/between/) things [or](/post/or/) parts [of](/post/of/) [something](/post/something/). 例如: "There's [a](/post/a/) [gap](/post/gap/) [in](/post/in/) [the](/post/the/) [fence](/post/fence/)."
-  - 差距，鸿沟：[A](/post/a/) [difference](/post/difference/) [or](/post/or/) disparity, [especially](/post/especially/) [between](/post/between/) [two](/post/two/) ideas, concepts, [or](/post/or/) groups. 例如: "[The](/post/the/) [generation](/post/generation/) [gap](/post/gap/) [between](/post/between/) [young](/post/young/) [and](/post/and/) [old](/post/old/)."
-  - 缺口，空白：An [interruption](/post/interruption/) [in](/post/in/) continuity [or](/post/or/) [a](/post/a/) [missing](/post/missing/) [part](/post/part/). 例如: "[There](/post/there/) was [a](/post/a/) [gap](/post/gap/) [in](/post/in/) [his](/post/his/) [employment](/post/employment/) [history](/post/history/)."
+  - 空隙，间隙：[A](/zh/post/a/) [space](/zh/post/space/) [or](/zh/post/or/) [opening](/zh/post/opening/) [between](/zh/post/between/) things [or](/zh/post/or/) parts [of](/zh/post/of/) [something](/zh/post/something/). 例如: "There's [a](/zh/post/a/) [gap](/zh/post/gap/) [in](/zh/post/in/) [the](/zh/post/the/) [fence](/zh/post/fence/)."
+  - 差距，鸿沟：[A](/zh/post/a/) [difference](/zh/post/difference/) [or](/zh/post/or/) disparity, [especially](/zh/post/especially/) [between](/zh/post/between/) [two](/zh/post/two/) ideas, concepts, [or](/zh/post/or/) groups. 例如: "[The](/zh/post/the/) [generation](/zh/post/generation/) [gap](/zh/post/gap/) [between](/zh/post/between/) [young](/zh/post/young/) [and](/zh/post/and/) [old](/zh/post/old/)."
+  - 缺口，空白：An [interruption](/zh/post/interruption/) [in](/zh/post/in/) continuity [or](/zh/post/or/) [a](/zh/post/a/) [missing](/zh/post/missing/) [part](/zh/post/part/). 例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [gap](/zh/post/gap/) [in](/zh/post/in/) [his](/zh/post/his/) [employment](/zh/post/employment/) [history](/zh/post/history/)."
 
 - **动词**:
-  - 形成空隙：[To](/post/to/) [create](/post/create/) [or](/post/or/) [leave](/post/leave/) [a](/post/a/) [gap](/post/gap/). 例如: "[The](/post/the/) falling [rock](/post/rock/) gapped [the](/post/the/) [road](/post/road/)."
-  - 跳过或错过（某段时间）：[To](/post/to/) skip [or](/post/or/) [miss](/post/miss/) ([a](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/)). 例如: "[She](/post/she/) decided [to](/post/to/) [gap](/post/gap/) [a](/post/a/) [year](/post/year/) [before](/post/before/) starting [college](/post/college/)."
+  - 形成空隙：[To](/zh/post/to/) [create](/zh/post/create/) [or](/zh/post/or/) [leave](/zh/post/leave/) [a](/zh/post/a/) [gap](/zh/post/gap/). 例如: "[The](/zh/post/the/) falling [rock](/zh/post/rock/) gapped [the](/zh/post/the/) [road](/zh/post/road/)."
+  - 跳过或错过（某段时间）：[To](/zh/post/to/) skip [or](/zh/post/or/) [miss](/zh/post/miss/) ([a](/zh/post/a/) [period](/zh/post/period/) [of](/zh/post/of/) [time](/zh/post/time/)). 例如: "[She](/zh/post/she/) decided [to](/zh/post/to/) [gap](/zh/post/gap/) [a](/zh/post/a/) [year](/zh/post/year/) [before](/zh/post/before/) starting [college](/zh/post/college/)."
 
 ## 短语
-- "[bridge](/post/bridge/) [the](/post/the/) [gap](/post/gap/)" 意为弥合差距或连接两个事物。
-- "[gap](/post/gap/) [year](/post/year/)" 指在学业之间休学一年的时间。
+- "[bridge](/zh/post/bridge/) [the](/zh/post/the/) [gap](/zh/post/gap/)" 意为弥合差距或连接两个事物。
+- "[gap](/zh/post/gap/) [year](/zh/post/year/)" 指在学业之间休学一年的时间。
 
 ## 例句
-- 名词: "[The](/post/the/) [gap](/post/gap/) [in](/post/in/) [the](/post/the/) [wall](/post/wall/) allowed [us](/post/us/) [to](/post/to/) [see](/post/see/) [the](/post/the/) [view](/post/view/) [beyond](/post/beyond/)."
-- 动词: "[The](/post/the/) [train](/post/train/) gapped [the](/post/the/) [station](/post/station/), causing passengers [to](/post/to/) [miss](/post/miss/) [their](/post/their/) boarding."
-- 感叹词: "[Gap](/post/gap/)! I [almost](/post/almost/) forgot [my](/post/my/) keys!"
+- 名词: "[The](/zh/post/the/) [gap](/zh/post/gap/) [in](/zh/post/in/) [the](/zh/post/the/) [wall](/zh/post/wall/) allowed [us](/zh/post/us/) [to](/zh/post/to/) [see](/zh/post/see/) [the](/zh/post/the/) [view](/zh/post/view/) [beyond](/zh/post/beyond/)."
+- 动词: "[The](/zh/post/the/) [train](/zh/post/train/) gapped [the](/zh/post/the/) [station](/zh/post/station/), causing passengers [to](/zh/post/to/) [miss](/zh/post/miss/) [their](/zh/post/their/) boarding."
+- 感叹词: "[Gap](/zh/post/gap/)! I [almost](/zh/post/almost/) forgot [my](/zh/post/my/) keys!"
 
 ## 同义词
 - Breach
-- [Hole](/post/hole/)
+- [Hole](/zh/post/hole/)
 - Chasm
-- [Interval](/post/interval/)
-- [Divide](/post/divide/)
+- [Interval](/zh/post/interval/)
+- [Divide](/zh/post/divide/)

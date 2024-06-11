@@ -11,22 +11,22 @@ keywords = ['ai words', 'odd']
 /ɒd/
 
 ## 释义
-- **形容词**: 奇怪的；不寻常的。例如: "[She](/post/she/) has an [odd](/post/odd/) [sense](/post/sense/) [of](/post/of/) humor."
-- **名词**: 单数形式，奇数（非偶数）。例如: "[The](/post/the/) [sum](/post/sum/) [of](/post/of/) [two](/post/two/) [odd](/post/odd/) numbers is [always](/post/always/) an [even](/post/even/) [number](/post/number/)."
-- **副词**: 偶尔；时而。例如: "I [only](/post/only/) [eat](/post/eat/) [ice](/post/ice/) [cream](/post/cream/) [on](/post/on/) [odd](/post/odd/) occasions."
+- **形容词**: 奇怪的；不寻常的。例如: "[She](/zh/post/she/) has an [odd](/zh/post/odd/) [sense](/zh/post/sense/) [of](/zh/post/of/) humor."
+- **名词**: 单数形式，奇数（非偶数）。例如: "[The](/zh/post/the/) [sum](/zh/post/sum/) [of](/zh/post/of/) [two](/zh/post/two/) [odd](/zh/post/odd/) numbers is [always](/zh/post/always/) an [even](/zh/post/even/) [number](/zh/post/number/)."
+- **副词**: 偶尔；时而。例如: "I [only](/zh/post/only/) [eat](/zh/post/eat/) [ice](/zh/post/ice/) [cream](/zh/post/cream/) [on](/zh/post/on/) [odd](/zh/post/odd/) occasions."
 
 ## 短语
-- "[Odd](/post/odd/) [one](/post/one/) [out](/post/out/)" 指的是在一组中与众不同的那个。
-- "[On](/post/on/) [odd](/post/odd/) days" 指的是不是常规的、偶尔的日子。
+- "[Odd](/zh/post/odd/) [one](/zh/post/one/) [out](/zh/post/out/)" 指的是在一组中与众不同的那个。
+- "[On](/zh/post/on/) [odd](/zh/post/odd/) days" 指的是不是常规的、偶尔的日子。
 
 ## 例句
-- 形容词: "[There](/post/there/) was [something](/post/something/) [odd](/post/odd/) [about](/post/about/) [his](/post/his/) [behavior](/post/behavior/)."
-- 名词: "[The](/post/the/) [number](/post/number/) 5 is an [odd](/post/odd/) [number](/post/number/)."
-- 副词: "I [usually](/post/usually/) [go](/post/go/) running, [but](/post/but/) I [only](/post/only/) [do](/post/do/) [it](/post/it/) [on](/post/on/) [odd](/post/odd/) days."
+- 形容词: "[There](/zh/post/there/) was [something](/zh/post/something/) [odd](/zh/post/odd/) [about](/zh/post/about/) [his](/zh/post/his/) [behavior](/zh/post/behavior/)."
+- 名词: "[The](/zh/post/the/) [number](/zh/post/number/) 5 is an [odd](/zh/post/odd/) [number](/zh/post/number/)."
+- 副词: "I [usually](/zh/post/usually/) [go](/zh/post/go/) running, [but](/zh/post/but/) I [only](/zh/post/only/) [do](/zh/post/do/) [it](/zh/post/it/) [on](/zh/post/on/) [odd](/zh/post/odd/) days."
 
 ## 同义词
-- [Unusual](/post/unusual/)
-- [Strange](/post/strange/)
-- [Peculiar](/post/peculiar/)
+- [Unusual](/zh/post/unusual/)
+- [Strange](/zh/post/strange/)
+- [Peculiar](/zh/post/peculiar/)
 - Quirky
 - Bizarre

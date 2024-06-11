@@ -11,23 +11,23 @@ keywords = ['ai words', 'beyond']
 /bɪˈjɑːnd/
 
 ## 释义
-- **介词**: 指在...之外，超出...的范围。例如: "[The](/post/the/) [answer](/post/answer/) lies [beyond](/post/beyond/) [our](/post/our/) [understanding](/post/understanding/)."
-- **副词**: 超过，越过。例如: "[She](/post/she/) jumped [beyond](/post/beyond/) [the](/post/the/) [fence](/post/fence/)."
-- **形容词**: 非凡的，卓越的。例如: "[His](/post/his/) [talent](/post/talent/) is [beyond](/post/beyond/) [compare](/post/compare/)."
+- **介词**: 指在...之外，超出...的范围。例如: "[The](/zh/post/the/) [answer](/zh/post/answer/) lies [beyond](/zh/post/beyond/) [our](/zh/post/our/) [understanding](/zh/post/understanding/)."
+- **副词**: 超过，越过。例如: "[She](/zh/post/she/) jumped [beyond](/zh/post/beyond/) [the](/zh/post/the/) [fence](/zh/post/fence/)."
+- **形容词**: 非凡的，卓越的。例如: "[His](/zh/post/his/) [talent](/zh/post/talent/) is [beyond](/zh/post/beyond/) [compare](/zh/post/compare/)."
 
 ## 短语
-- "[Beyond](/post/beyond/) [measure](/post/measure/)" 意为极其，非常。例如: "[Her](/post/her/) [kindness](/post/kindness/) was [beyond](/post/beyond/) [measure](/post/measure/)."
-- "[Beyond](/post/beyond/) one's [reach](/post/reach/)" 表示无法触及或达成。例如: "[The](/post/the/) [goal](/post/goal/) seems [beyond](/post/beyond/) [my](/post/my/) [reach](/post/reach/)."
-- "[Beyond](/post/beyond/) [the](/post/the/) [pale](/post/pale/)" 指不可接受的行为或情况。例如: "[His](/post/his/) rudeness was [beyond](/post/beyond/) [the](/post/the/) [pale](/post/pale/)."
+- "[Beyond](/zh/post/beyond/) [measure](/zh/post/measure/)" 意为极其，非常。例如: "[Her](/zh/post/her/) [kindness](/zh/post/kindness/) was [beyond](/zh/post/beyond/) [measure](/zh/post/measure/)."
+- "[Beyond](/zh/post/beyond/) one's [reach](/zh/post/reach/)" 表示无法触及或达成。例如: "[The](/zh/post/the/) [goal](/zh/post/goal/) seems [beyond](/zh/post/beyond/) [my](/zh/post/my/) [reach](/zh/post/reach/)."
+- "[Beyond](/zh/post/beyond/) [the](/zh/post/the/) [pale](/zh/post/pale/)" 指不可接受的行为或情况。例如: "[His](/zh/post/his/) rudeness was [beyond](/zh/post/beyond/) [the](/zh/post/the/) [pale](/zh/post/pale/)."
 
 ## 例句
-- 介词: "[The](/post/the/) [mountain](/post/mountain/) [range](/post/range/) stretches [beyond](/post/beyond/) [the](/post/the/) [horizon](/post/horizon/)."
-- 副词: "[She](/post/she/) ran [so](/post/so/) [fast](/post/fast/) [that](/post/that/) [she](/post/she/) went [beyond](/post/beyond/) anyone's expectations."
-- 形容词: "[The](/post/the/) artist's creativity was [beyond](/post/beyond/) [ordinary](/post/ordinary/)."
+- 介词: "[The](/zh/post/the/) [mountain](/zh/post/mountain/) [range](/zh/post/range/) stretches [beyond](/zh/post/beyond/) [the](/zh/post/the/) [horizon](/zh/post/horizon/)."
+- 副词: "[She](/zh/post/she/) ran [so](/zh/post/so/) [fast](/zh/post/fast/) [that](/zh/post/that/) [she](/zh/post/she/) went [beyond](/zh/post/beyond/) anyone's expectations."
+- 形容词: "[The](/zh/post/the/) artist's creativity was [beyond](/zh/post/beyond/) [ordinary](/zh/post/ordinary/)."
 
 ## 同义词
-- [Above](/post/above/)
-- [Over](/post/over/)
+- [Above](/zh/post/above/)
+- [Over](/zh/post/over/)
 - Exceeding
-- [Supreme](/post/supreme/)
+- [Supreme](/zh/post/supreme/)
 - Unmatched

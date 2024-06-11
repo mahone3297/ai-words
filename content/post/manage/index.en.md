@@ -7,36 +7,36 @@ description = '[ˈmænidʒ] vt.管理；设法；对付'
 keywords = ['ai words', 'manage']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmænɪdʒ/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [control](/en/post/control/), [direct](/en/post/direct/), [or](/en/post/or/) [be](/en/post/be/) [responsible](/en/post/responsible/) [for](/en/post/for/) ([a](/en/post/a/) [company](/en/post/company/), [organization](/en/post/organization/), [or](/en/post/or/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/)), [often](/en/post/often/) dealing [with](/en/post/with/) [various](/en/post/various/) administrative tasks [and](/en/post/and/) decision-making processes. [Example](/en/post/example/): "[She](/en/post/she/) manages [the](/en/post/the/) sales [team](/en/post/team/) effectively."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [organize](/en/post/organize/), [coordinate](/en/post/coordinate/), [and](/en/post/and/) oversee [the](/en/post/the/) execution [of](/en/post/of/) (an [activity](/en/post/activity/), [event](/en/post/event/), [or](/en/post/or/) [process](/en/post/process/)). [Example](/en/post/example/): "[They](/en/post/they/) are managing [the](/en/post/the/) [project](/en/post/project/) [from](/en/post/from/) [start](/en/post/start/) [to](/en/post/to/) [finish](/en/post/finish/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [handle](/en/post/handle/) [or](/en/post/or/) [cope](/en/post/cope/) [with](/en/post/with/) ([a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [task](/en/post/task/)) [successfully](/en/post/successfully/). [Example](/en/post/example/): "He's managed [to](/en/post/to/) [keep](/en/post/keep/) [his](/en/post/his/) [business](/en/post/business/) afloat [during](/en/post/during/) [tough](/en/post/tough/) times."
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [skill](/en/post/skill/) [of](/en/post/of/) controlling [and](/en/post/and/) making decisions [about](/en/post/about/) [a](/en/post/a/) [company](/en/post/company/), [department](/en/post/department/), sports [team](/en/post/team/), etc. [Example](/en/post/example/): "[Effective](/en/post/effective/) [management](/en/post/management/) is [key](/en/post/key/) [to](/en/post/to/) [success](/en/post/success/) [in](/en/post/in/) [any](/en/post/any/) [organization](/en/post/organization/)."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [during](/en/post/during/) [which](/en/post/which/) [someone](/en/post/someone/) controls [or](/en/post/or/) directs [something](/en/post/something/). [Example](/en/post/example/): "[Under](/en/post/under/) [her](/en/post/her/) [management](/en/post/management/), [the](/en/post/the/) [company](/en/post/company/) doubled [its](/en/post/its/) profits."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [control](/post/control/), [direct](/post/direct/), [or](/post/or/) [be](/post/be/) [responsible](/post/responsible/) [for](/post/for/) ([a](/post/a/) [company](/post/company/), [organization](/post/organization/), [or](/post/or/) [group](/post/group/) [of](/post/of/) [people](/post/people/)), [often](/post/often/) dealing [with](/post/with/) [various](/post/various/) administrative tasks [and](/post/and/) decision-making processes. [Example](/post/example/): "[She](/post/she/) manages [the](/post/the/) sales [team](/post/team/) effectively."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [organize](/post/organize/), [coordinate](/post/coordinate/), [and](/post/and/) oversee [the](/post/the/) execution [of](/post/of/) (an [activity](/post/activity/), [event](/post/event/), [or](/post/or/) [process](/post/process/)). [Example](/post/example/): "[They](/post/they/) are managing [the](/post/the/) [project](/post/project/) [from](/post/from/) [start](/post/start/) [to](/post/to/) [finish](/post/finish/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [handle](/post/handle/) [or](/post/or/) [cope](/post/cope/) [with](/post/with/) ([a](/post/a/) [situation](/post/situation/) [or](/post/or/) [task](/post/task/)) [successfully](/post/successfully/). [Example](/post/example/): "He's managed [to](/post/to/) [keep](/post/keep/) [his](/post/his/) [business](/post/business/) afloat [during](/post/during/) [tough](/post/tough/) times."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [skill](/post/skill/) [of](/post/of/) controlling [and](/post/and/) making decisions [about](/post/about/) [a](/post/a/) [company](/post/company/), [department](/post/department/), sports [team](/post/team/), etc. [Example](/post/example/): "[Effective](/post/effective/) [management](/post/management/) is [key](/post/key/) [to](/post/to/) [success](/post/success/) [in](/post/in/) [any](/post/any/) [organization](/post/organization/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [during](/post/during/) [which](/post/which/) [someone](/post/someone/) controls [or](/post/or/) directs [something](/post/something/). [Example](/post/example/): "[Under](/post/under/) [her](/post/her/) [management](/post/management/), [the](/post/the/) [company](/post/company/) doubled [its](/post/its/) profits."
 
 ## Phrases
-- "[To](/en/post/to/) [manage](/en/post/manage/) affairs" [means](/en/post/means/) [to](/en/post/to/) [handle](/en/post/handle/) [or](/en/post/or/) [conduct](/en/post/conduct/) one's [business](/en/post/business/) [or](/en/post/or/) responsibilities.
-- "[To](/en/post/to/) [manage](/en/post/manage/) [without](/en/post/without/)" implies [being](/en/post/being/) [able](/en/post/able/) [to](/en/post/to/) [function](/en/post/function/) [or](/en/post/or/) [survive](/en/post/survive/) [without](/en/post/without/) [something](/en/post/something/).
-- "[To](/en/post/to/) [manage](/en/post/manage/) expectations" refers [to](/en/post/to/) [setting](/en/post/setting/) realistic goals [or](/en/post/or/) outcomes [for](/en/post/for/) others [to](/en/post/to/) [avoid](/en/post/avoid/) disappointment.
+- "[To](/post/to/) [manage](/post/manage/) affairs" [means](/post/means/) [to](/post/to/) [handle](/post/handle/) [or](/post/or/) [conduct](/post/conduct/) one's [business](/post/business/) [or](/post/or/) responsibilities.
+- "[To](/post/to/) [manage](/post/manage/) [without](/post/without/)" implies [being](/post/being/) [able](/post/able/) [to](/post/to/) [function](/post/function/) [or](/post/or/) [survive](/post/survive/) [without](/post/without/) [something](/post/something/).
+- "[To](/post/to/) [manage](/post/manage/) expectations" refers [to](/post/to/) [setting](/post/setting/) realistic goals [or](/post/or/) outcomes [for](/post/for/) others [to](/post/to/) [avoid](/post/avoid/) disappointment.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) has been managing [the](/en/post/the/) [IT](/en/post/it/) [department](/en/post/department/) [for](/en/post/for/) [over](/en/post/over/) [a](/en/post/a/) [decade](/en/post/decade/)."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) promotion [put](/en/post/put/) [him](/en/post/him/) [in](/en/post/in/) [charge](/en/post/charge/) [of](/en/post/of/) [the](/en/post/the/) [entire](/en/post/entire/) sales [management](/en/post/management/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [team](/en/post/team/) manager is [responsible](/en/post/responsible/) [for](/en/post/for/) managing [the](/en/post/the/) [training](/en/post/training/) [schedule](/en/post/schedule/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[He](/post/he/) has been managing [the](/post/the/) [IT](/post/it/) [department](/post/department/) [for](/post/for/) [over](/post/over/) [a](/post/a/) [decade](/post/decade/)."
+- **[Noun](/post/noun/)**: "[His](/post/his/) promotion [put](/post/put/) [him](/post/him/) [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [the](/post/the/) [entire](/post/entire/) sales [management](/post/management/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [team](/post/team/) manager is [responsible](/post/responsible/) [for](/post/for/) managing [the](/post/the/) [training](/post/training/) [schedule](/post/schedule/)."
 
 ## Synonyms
-- [Control](/en/post/control/)
-- [Direct](/en/post/direct/)
+- [Control](/post/control/)
+- [Direct](/post/direct/)
 - Administer
 - Supervise
 - Oversee
-- [Handle](/en/post/handle/)
-- [Run](/en/post/run/)
-- [Govern](/en/post/govern/)
-- [Conduct](/en/post/conduct/)
-- [Steer](/en/post/steer/)
-- [Tend](/en/post/tend/)
+- [Handle](/post/handle/)
+- [Run](/post/run/)
+- [Govern](/post/govern/)
+- [Conduct](/post/conduct/)
+- [Steer](/post/steer/)
+- [Tend](/post/tend/)
 - Navigate

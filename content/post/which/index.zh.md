@@ -11,22 +11,22 @@ keywords = ['ai words', 'which']
 /witch/
 
 ## 释义
-- **限定词** (Determiner): 用于引导非限制性定语从句，询问或指出特定的人或事物。例如: "[This](/post/this/) is [the](/post/the/) [house](/post/house/) [which](/post/which/) I lived [in](/post/in/)."
-- **代词** ( [Pronoun](/post/pronoun/)): 特指已提到或已知的人或事物。例如: "[The](/post/the/) [book](/post/book/), [which](/post/which/) I borrowed [from](/post/from/) [the](/post/the/) [library](/post/library/), was [very](/post/very/) [interesting](/post/interesting/)."
-- **疑问代词** (Interrogative [Pronoun](/post/pronoun/)): 在疑问句中用来询问具体的人或事物。例如: "[Which](/post/which/) [book](/post/book/) [do](/post/do/) [you](/post/you/) [want](/post/want/)?"
-- **关系代词** ([Relative](/post/relative/) [Pronoun](/post/pronoun/)): 引导定语从句，指代先行词。例如: "[The](/post/the/) [car](/post/car/), [which](/post/which/) was [red](/post/red/), drove [away](/post/away/)."
+- **限定词** (Determiner): 用于引导非限制性定语从句，询问或指出特定的人或事物。例如: "[This](/zh/post/this/) is [the](/zh/post/the/) [house](/zh/post/house/) [which](/zh/post/which/) I lived [in](/zh/post/in/)."
+- **代词** ( [Pronoun](/zh/post/pronoun/)): 特指已提到或已知的人或事物。例如: "[The](/zh/post/the/) [book](/zh/post/book/), [which](/zh/post/which/) I borrowed [from](/zh/post/from/) [the](/zh/post/the/) [library](/zh/post/library/), was [very](/zh/post/very/) [interesting](/zh/post/interesting/)."
+- **疑问代词** (Interrogative [Pronoun](/zh/post/pronoun/)): 在疑问句中用来询问具体的人或事物。例如: "[Which](/zh/post/which/) [book](/zh/post/book/) [do](/zh/post/do/) [you](/zh/post/you/) [want](/zh/post/want/)?"
+- **关系代词** ([Relative](/zh/post/relative/) [Pronoun](/zh/post/pronoun/)): 引导定语从句，指代先行词。例如: "[The](/zh/post/the/) [car](/zh/post/car/), [which](/zh/post/which/) was [red](/zh/post/red/), drove [away](/zh/post/away/)."
 
 ## 短语
-- "[Which](/post/which/) [one](/post/one/)?" 用于询问要选择的具体哪一个。
-- "[It](/post/it/) depends [on](/post/on/) [which](/post/which/) [perspective](/post/perspective/) [you](/post/you/) [look](/post/look/) [at](/post/at/) [it](/post/it/) [from](/post/from/)." 意为“这取决于你从哪个角度看问题。”
+- "[Which](/zh/post/which/) [one](/zh/post/one/)?" 用于询问要选择的具体哪一个。
+- "[It](/zh/post/it/) depends [on](/zh/post/on/) [which](/zh/post/which/) [perspective](/zh/post/perspective/) [you](/zh/post/you/) [look](/zh/post/look/) [at](/zh/post/at/) [it](/zh/post/it/) [from](/zh/post/from/)." 意为“这取决于你从哪个角度看问题。”
 
 ## 例句
-- 限定词: "She's [the](/post/the/) [girl](/post/girl/) [which](/post/which/) lives [next](/post/next/) [door](/post/door/)."
-- 代词: "[The](/post/the/) [pen](/post/pen/), [which](/post/which/) is [on](/post/on/) [the](/post/the/) [desk](/post/desk/), belongs [to](/post/to/) [him](/post/him/)."
-- 疑问代词: "[Which](/post/which/) [city](/post/city/) did [you](/post/you/) [visit](/post/visit/) [last](/post/last/) [summer](/post/summer/)?"
-- 关系代词: "[The](/post/the/) [movie](/post/movie/), [which](/post/which/) [we](/post/we/) watched [yesterday](/post/yesterday/), had [a](/post/a/) [surprising](/post/surprising/) [ending](/post/ending/)."
+- 限定词: "She's [the](/zh/post/the/) [girl](/zh/post/girl/) [which](/zh/post/which/) lives [next](/zh/post/next/) [door](/zh/post/door/)."
+- 代词: "[The](/zh/post/the/) [pen](/zh/post/pen/), [which](/zh/post/which/) is [on](/zh/post/on/) [the](/zh/post/the/) [desk](/zh/post/desk/), belongs [to](/zh/post/to/) [him](/zh/post/him/)."
+- 疑问代词: "[Which](/zh/post/which/) [city](/zh/post/city/) did [you](/zh/post/you/) [visit](/zh/post/visit/) [last](/zh/post/last/) [summer](/zh/post/summer/)?"
+- 关系代词: "[The](/zh/post/the/) [movie](/zh/post/movie/), [which](/zh/post/which/) [we](/zh/post/we/) watched [yesterday](/zh/post/yesterday/), had [a](/zh/post/a/) [surprising](/zh/post/surprising/) [ending](/zh/post/ending/)."
 
 ## 同义词
-- [That](/post/that/) (作为限定词和关系代词)
-- [The](/post/the/) [one](/post/one/) (作为限定词)
-- [As](/post/as/) (在某些情况下，作为关系代词)
+- [That](/zh/post/that/) (作为限定词和关系代词)
+- [The](/zh/post/the/) [one](/zh/post/one/) (作为限定词)
+- [As](/zh/post/as/) (在某些情况下，作为关系代词)

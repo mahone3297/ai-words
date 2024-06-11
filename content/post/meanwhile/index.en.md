@@ -7,35 +7,35 @@ description = '[ˈminhwail] ad.同时，当时'
 keywords = ['ai words', 'meanwhile']
 +++
 
-## [Word](/en/post/word/): [Meanwhile](/en/post/meanwhile/)
+## [Word](/post/word/): [Meanwhile](/post/meanwhile/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌmɛnˈwaɪl/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [During](/en/post/during/) [the](/en/post/the/) [time](/en/post/time/) [that](/en/post/that/) [something](/en/post/something/) [else](/en/post/else/) is happening; [meantime](/en/post/meantime/). [It](/en/post/it/) is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) events are happening concurrently [or](/en/post/or/) [that](/en/post/that/) [one](/en/post/one/) [event](/en/post/event/) is taking [place](/en/post/place/) [while](/en/post/while/) waiting [for](/en/post/for/) [another](/en/post/another/) [to](/en/post/to/) [happen](/en/post/happen/). 
+- **[Adverb](/post/adverb/)**: [During](/post/during/) [the](/post/the/) [time](/post/time/) [that](/post/that/) [something](/post/something/) [else](/post/else/) is happening; [meantime](/post/meantime/). [It](/post/it/) is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [two](/post/two/) [or](/post/or/) [more](/post/more/) events are happening concurrently [or](/post/or/) [that](/post/that/) [one](/post/one/) [event](/post/event/) is taking [place](/post/place/) [while](/post/while/) waiting [for](/post/for/) [another](/post/another/) [to](/post/to/) [happen](/post/happen/). 
 
-  > *[Example](/en/post/example/)*: "I'll [finish](/en/post/finish/) [my](/en/post/my/) homework [meanwhile](/en/post/meanwhile/), [and](/en/post/and/) [then](/en/post/then/) [we](/en/post/we/) [can](/en/post/can/) [watch](/en/post/watch/) [a](/en/post/a/) [movie](/en/post/movie/)."
+  > *[Example](/post/example/)*: "I'll [finish](/post/finish/) [my](/post/my/) homework [meanwhile](/post/meanwhile/), [and](/post/and/) [then](/post/then/) [we](/post/we/) [can](/post/can/) [watch](/post/watch/) [a](/post/a/) [movie](/post/movie/)."
   > 
-  > *"[Meanwhile](/en/post/meanwhile/), [back](/en/post/back/) [at](/en/post/at/) [the](/en/post/the/) ranch"* is [a](/en/post/a/) colloquial [phrase](/en/post/phrase/) [often](/en/post/often/) [used](/en/post/used/) humorously [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [parallel](/en/post/parallel/) [action](/en/post/action/) [or](/en/post/or/) storyline.
+  > *"[Meanwhile](/post/meanwhile/), [back](/post/back/) [at](/post/at/) [the](/post/the/) ranch"* is [a](/post/a/) colloquial [phrase](/post/phrase/) [often](/post/often/) [used](/post/used/) humorously [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [parallel](/post/parallel/) [action](/post/action/) [or](/post/or/) storyline.
 
 ## Phrases
-- **[In](/en/post/in/) [the](/en/post/the/) [meanwhile](/en/post/meanwhile/)**: [During](/en/post/during/) [the](/en/post/the/) intervening [time](/en/post/time/); [until](/en/post/until/) [a](/en/post/a/) [particular](/en/post/particular/) [event](/en/post/event/) happens.
-  > "*[In](/en/post/in/) [the](/en/post/the/) [meanwhile](/en/post/meanwhile/)*, we'll [have](/en/post/have/) [to](/en/post/to/) [use](/en/post/use/) [the](/en/post/the/) [old](/en/post/old/) [system](/en/post/system/)."
-- **[Meanwhile](/en/post/meanwhile/), [back](/en/post/back/) [at](/en/post/at/)...**: [As](/en/post/as/) mentioned [above](/en/post/above/), [this](/en/post/this/) [phrase](/en/post/phrase/) introduces [a](/en/post/a/) [change](/en/post/change/) [of](/en/post/of/) [scene](/en/post/scene/) [or](/en/post/or/) [focus](/en/post/focus/), [usually](/en/post/usually/) humorously, suggesting [that](/en/post/that/) [other](/en/post/other/) events are happening simultaneously [elsewhere](/en/post/elsewhere/).
+- **[In](/post/in/) [the](/post/the/) [meanwhile](/post/meanwhile/)**: [During](/post/during/) [the](/post/the/) intervening [time](/post/time/); [until](/post/until/) [a](/post/a/) [particular](/post/particular/) [event](/post/event/) happens.
+  > "*[In](/post/in/) [the](/post/the/) [meanwhile](/post/meanwhile/)*, we'll [have](/post/have/) [to](/post/to/) [use](/post/use/) [the](/post/the/) [old](/post/old/) [system](/post/system/)."
+- **[Meanwhile](/post/meanwhile/), [back](/post/back/) [at](/post/at/)...**: [As](/post/as/) mentioned [above](/post/above/), [this](/post/this/) [phrase](/post/phrase/) introduces [a](/post/a/) [change](/post/change/) [of](/post/of/) [scene](/post/scene/) [or](/post/or/) [focus](/post/focus/), [usually](/post/usually/) humorously, suggesting [that](/post/that/) [other](/post/other/) events are happening simultaneously [elsewhere](/post/elsewhere/).
   
-- **[Meanwhile](/en/post/meanwhile/), [back](/en/post/back/) [home](/en/post/home/)/[in](/en/post/in/) [the](/en/post/the/) [office](/en/post/office/)/[at](/en/post/at/) [school](/en/post/school/)**: [This](/en/post/this/) is [used](/en/post/used/) [to](/en/post/to/) [shift](/en/post/shift/) [the](/en/post/the/) narrative [or](/en/post/or/) [discussion](/en/post/discussion/) [from](/en/post/from/) [one](/en/post/one/) [location](/en/post/location/) [or](/en/post/or/) [situation](/en/post/situation/) [to](/en/post/to/) [another](/en/post/another/).
+- **[Meanwhile](/post/meanwhile/), [back](/post/back/) [home](/post/home/)/[in](/post/in/) [the](/post/the/) [office](/post/office/)/[at](/post/at/) [school](/post/school/)**: [This](/post/this/) is [used](/post/used/) [to](/post/to/) [shift](/post/shift/) [the](/post/the/) narrative [or](/post/or/) [discussion](/post/discussion/) [from](/post/from/) [one](/post/one/) [location](/post/location/) [or](/post/or/) [situation](/post/situation/) [to](/post/to/) [another](/post/another/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) kids were playing [outside](/en/post/outside/), [meanwhile](/en/post/meanwhile/), [their](/en/post/their/) parents were preparing [dinner](/en/post/dinner/)."
-- "She's looking [for](/en/post/for/) [a](/en/post/a/) [new](/en/post/new/) [job](/en/post/job/), [meanwhile](/en/post/meanwhile/), she's working part-time [to](/en/post/to/) [support](/en/post/support/) [herself](/en/post/herself/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) kids were playing [outside](/post/outside/), [meanwhile](/post/meanwhile/), [their](/post/their/) parents were preparing [dinner](/post/dinner/)."
+- "She's looking [for](/post/for/) [a](/post/a/) [new](/post/new/) [job](/post/job/), [meanwhile](/post/meanwhile/), she's working part-time [to](/post/to/) [support](/post/support/) [herself](/post/herself/)."
 
 ## Synonyms
 - Concurrently
 - Simultaneously
-- [In](/en/post/in/) [the](/en/post/the/) [meantime](/en/post/meantime/)
+- [In](/post/in/) [the](/post/the/) [meantime](/post/meantime/)
 - Temporarily
-- [For](/en/post/for/) [the](/en/post/the/) [time](/en/post/time/) [being](/en/post/being/)
-- [In](/en/post/in/) [the](/en/post/the/) interim
-- [During](/en/post/during/) [the](/en/post/the/) [interval](/en/post/interval/)
-- [Whilst](/en/post/whilst/) (British English)
+- [For](/post/for/) [the](/post/the/) [time](/post/time/) [being](/post/being/)
+- [In](/post/in/) [the](/post/the/) interim
+- [During](/post/during/) [the](/post/the/) [interval](/post/interval/)
+- [Whilst](/post/whilst/) (British English)

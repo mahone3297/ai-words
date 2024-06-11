@@ -7,43 +7,43 @@ description = '[ɔə] n.浆，橹'
 keywords = ['ai words', 'oar']
 +++
 
-## [Word](/en/post/word/): [Oar](/en/post/oar/)
+## [Word](/post/word/): [Oar](/post/oar/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɔːr/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [long](/en/post/long/), [narrow](/en/post/narrow/) [blade](/en/post/blade/) attached [to](/en/post/to/) [a](/en/post/a/) [handle](/en/post/handle/), [used](/en/post/used/) [to](/en/post/to/) propel [a](/en/post/a/) [boat](/en/post/boat/) [through](/en/post/through/) [water](/en/post/water/) [by](/en/post/by/) moving [it](/en/post/it/) [back](/en/post/back/) [and](/en/post/and/) [forth](/en/post/forth/). [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) rower had an [oar](/en/post/oar/) [to](/en/post/to/) [steer](/en/post/steer/) [the](/en/post/the/) [boat](/en/post/boat/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [long](/post/long/), [narrow](/post/narrow/) [blade](/post/blade/) attached [to](/post/to/) [a](/post/a/) [handle](/post/handle/), [used](/post/used/) [to](/post/to/) propel [a](/post/a/) [boat](/post/boat/) [through](/post/through/) [water](/post/water/) [by](/post/by/) moving [it](/post/it/) [back](/post/back/) [and](/post/and/) [forth](/post/forth/). [For](/post/for/) [example](/post/example/): "[Each](/post/each/) rower had an [oar](/post/oar/) [to](/post/to/) [steer](/post/steer/) [the](/post/the/) [boat](/post/boat/)."
   
-  > [Phrase](/en/post/phrase/): "[take](/en/post/take/) [the](/en/post/the/) oars" - [to](/en/post/to/) [begin](/en/post/begin/) rowing [or](/en/post/or/) [assume](/en/post/assume/) [responsibility](/en/post/responsibility/) [for](/en/post/for/) propelling [a](/en/post/a/) [boat](/en/post/boat/).
+  > [Phrase](/post/phrase/): "[take](/post/take/) [the](/post/the/) oars" - [to](/post/to/) [begin](/post/begin/) rowing [or](/post/or/) [assume](/post/assume/) [responsibility](/post/responsibility/) [for](/post/for/) propelling [a](/post/a/) [boat](/post/boat/).
   > 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) experienced rower took [the](/en/post/the/) oars [and](/en/post/and/) began [to](/en/post/to/) [guide](/en/post/guide/) [the](/en/post/the/) [boat](/en/post/boat/) upstream."
+  > [Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) experienced rower took [the](/post/the/) oars [and](/post/and/) began [to](/post/to/) [guide](/post/guide/) [the](/post/the/) [boat](/post/boat/) upstream."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) propel [or](/en/post/or/) [steer](/en/post/steer/) [a](/en/post/a/) [boat](/en/post/boat/) using an [oar](/en/post/oar/). [For](/en/post/for/) [instance](/en/post/instance/): "[They](/en/post/they/) oared [their](/en/post/their/) [way](/en/post/way/) [across](/en/post/across/) [the](/en/post/the/) [lake](/en/post/lake/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) propel [or](/post/or/) [steer](/post/steer/) [a](/post/a/) [boat](/post/boat/) using an [oar](/post/oar/). [For](/post/for/) [instance](/post/instance/): "[They](/post/they/) oared [their](/post/their/) [way](/post/way/) [across](/post/across/) [the](/post/the/) [lake](/post/lake/)."
 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[We](/en/post/we/) spent [the](/en/post/the/) [afternoon](/en/post/afternoon/) oaring [down](/en/post/down/) [the](/en/post/the/) [river](/en/post/river/) [on](/en/post/on/) [a](/en/post/a/) [sunny](/en/post/sunny/) [day](/en/post/day/)."
+  > [Example](/post/example/) [Sentence](/post/sentence/): "[We](/post/we/) spent [the](/post/the/) [afternoon](/post/afternoon/) oaring [down](/post/down/) [the](/post/the/) [river](/post/river/) [on](/post/on/) [a](/post/a/) [sunny](/post/sunny/) [day](/post/day/)."
 
 ## Phrases
-- "[To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [boat](/en/post/boat/) [and](/en/post/and/) pulling [different](/en/post/different/) oars" -比喻意见不合，行动不协调。
-- "Grabbing [the](/en/post/the/) [wrong](/en/post/wrong/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [oar](/en/post/oar/)" -指的是做事方法错误或方向不对。
+- "[To](/post/to/) [be](/post/be/) [in](/post/in/) [the](/post/the/) [same](/post/same/) [boat](/post/boat/) [and](/post/and/) pulling [different](/post/different/) oars" -比喻意见不合，行动不协调。
+- "Grabbing [the](/post/the/) [wrong](/post/wrong/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [oar](/post/oar/)" -指的是做事方法错误或方向不对。
 
 ## Synonyms
 - Paddle
-- Rudder ([in](/en/post/in/) [some](/en/post/some/) contexts)
-- Rowlock (referring [to](/en/post/to/) [the](/en/post/the/) holder [for](/en/post/for/) [the](/en/post/the/) [oar](/en/post/oar/), [but](/en/post/but/) [can](/en/post/can/) [also](/en/post/also/) metaphorically [mean](/en/post/mean/) [a](/en/post/a/) [tool](/en/post/tool/) [for](/en/post/for/) [control](/en/post/control/) [or](/en/post/or/) [direction](/en/post/direction/))
-- Rudderspoon ([a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [large](/en/post/large/) [oar](/en/post/oar/) [used](/en/post/used/) [for](/en/post/for/) steering)
+- Rudder ([in](/post/in/) [some](/post/some/) contexts)
+- Rowlock (referring [to](/post/to/) [the](/post/the/) holder [for](/post/for/) [the](/post/the/) [oar](/post/oar/), [but](/post/but/) [can](/post/can/) [also](/post/also/) metaphorically [mean](/post/mean/) [a](/post/a/) [tool](/post/tool/) [for](/post/for/) [control](/post/control/) [or](/post/or/) [direction](/post/direction/))
+- Rudderspoon ([a](/post/a/) [type](/post/type/) [of](/post/of/) [large](/post/large/) [oar](/post/oar/) [used](/post/used/) [for](/post/for/) steering)
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) oars splashing [in](/en/post/in/) [the](/en/post/the/) [water](/en/post/water/) echoed [along](/en/post/along/) [the](/en/post/the/) [canal](/en/post/canal/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) expertly oared [the](/en/post/the/) [small](/en/post/small/) skiff [against](/en/post/against/) [the](/en/post/the/) [strong](/en/post/strong/) [current](/en/post/current/)." 
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) oars splashing [in](/post/in/) [the](/post/the/) [water](/post/water/) echoed [along](/post/along/) [the](/post/the/) [canal](/post/canal/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) expertly oared [the](/post/the/) [small](/post/small/) skiff [against](/post/against/) [the](/post/the/) [strong](/post/strong/) [current](/post/current/)." 
 
-## Synonyms [for](/en/post/for/) [the](/en/post/the/) [Noun](/en/post/noun/) [form](/en/post/form/)
-- Paddlewheel ([for](/en/post/for/) boats propelled [by](/en/post/by/) rotating oars)
-- [Sweep](/en/post/sweep/) ([a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [oar](/en/post/oar/) [used](/en/post/used/) [in](/en/post/in/) rowing sports)
-- Scull ([another](/en/post/another/) [type](/en/post/type/) [of](/en/post/of/) [oar](/en/post/oar/) [used](/en/post/used/) [in](/en/post/in/) rowing)
+## Synonyms [for](/post/for/) [the](/post/the/) [Noun](/post/noun/) [form](/post/form/)
+- Paddlewheel ([for](/post/for/) boats propelled [by](/post/by/) rotating oars)
+- [Sweep](/post/sweep/) ([a](/post/a/) [type](/post/type/) [of](/post/of/) [oar](/post/oar/) [used](/post/used/) [in](/post/in/) rowing sports)
+- Scull ([another](/post/another/) [type](/post/type/) [of](/post/of/) [oar](/post/oar/) [used](/post/used/) [in](/post/in/) rowing)
 
-## Synonyms [for](/en/post/for/) [the](/en/post/the/) [Verb](/en/post/verb/) [form](/en/post/form/)
-- [Row](/en/post/row/)
+## Synonyms [for](/post/for/) [the](/post/the/) [Verb](/post/verb/) [form](/post/form/)
+- [Row](/post/row/)
 - Propel
 - Navigate
-- [Steer](/en/post/steer/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [boat](/en/post/boat/) [movement](/en/post/movement/))
+- [Steer](/post/steer/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [boat](/post/boat/) [movement](/post/movement/))

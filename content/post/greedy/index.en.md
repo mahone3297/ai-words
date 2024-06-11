@@ -7,22 +7,22 @@ description = '[ˈgriːdi] a.贪吃的；贪婪的'
 keywords = ['ai words', 'greedy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡriːdi/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Excessively [or](/en/post/or/) inordinately desirous [of](/en/post/of/) acquiring [or](/en/post/or/) possessing [something](/en/post/something/), [especially](/en/post/especially/) [wealth](/en/post/wealth/), [food](/en/post/food/), [or](/en/post/or/) [other](/en/post/other/) possessions; having [or](/en/post/or/) showing [a](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [for](/en/post/for/) [material](/en/post/material/) things. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [greedy](/en/post/greedy/) [child](/en/post/child/) wanted [all](/en/post/all/) [the](/en/post/the/) [candy](/en/post/candy/) [for](/en/post/for/) [himself](/en/post/himself/)."
-- **[Adjective](/en/post/adjective/) (figurative)**: Characterized [by](/en/post/by/) [intense](/en/post/intense/) [and](/en/post/and/) [selfish](/en/post/selfish/) longing [or](/en/post/or/) craving; voracious. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [greedy](/en/post/greedy/) [appetite](/en/post/appetite/) [for](/en/post/for/) [power](/en/post/power/) drove [him](/en/post/him/) [to](/en/post/to/) [make](/en/post/make/) unethical decisions."
+- **[Adjective](/post/adjective/)**: Excessively [or](/post/or/) inordinately desirous [of](/post/of/) acquiring [or](/post/or/) possessing [something](/post/something/), [especially](/post/especially/) [wealth](/post/wealth/), [food](/post/food/), [or](/post/or/) [other](/post/other/) possessions; having [or](/post/or/) showing [a](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [for](/post/for/) [material](/post/material/) things. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [greedy](/post/greedy/) [child](/post/child/) wanted [all](/post/all/) [the](/post/the/) [candy](/post/candy/) [for](/post/for/) [himself](/post/himself/)."
+- **[Adjective](/post/adjective/) (figurative)**: Characterized [by](/post/by/) [intense](/post/intense/) [and](/post/and/) [selfish](/post/selfish/) longing [or](/post/or/) craving; voracious. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [greedy](/post/greedy/) [appetite](/post/appetite/) [for](/post/for/) [power](/post/power/) drove [him](/post/him/) [to](/post/to/) [make](/post/make/) unethical decisions."
 
 ## Phrases
-- "[Greedy](/en/post/greedy/) [for](/en/post/for/) [knowledge](/en/post/knowledge/)": Describes [someone](/en/post/someone/) [who](/en/post/who/) has an [intense](/en/post/intense/) [desire](/en/post/desire/) [to](/en/post/to/) [learn](/en/post/learn/).
-- "[Greedy](/en/post/greedy/) guts": Informal [term](/en/post/term/) [for](/en/post/for/) [someone](/en/post/someone/) [who](/en/post/who/) eats [too](/en/post/too/) [much](/en/post/much/) [or](/en/post/or/) shows [excessive](/en/post/excessive/) [appetite](/en/post/appetite/).
-- "[Greedy](/en/post/greedy/) hands": Refers [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) wants [to](/en/post/to/) [acquire](/en/post/acquire/) [or](/en/post/or/) [take](/en/post/take/) [control](/en/post/control/) [of](/en/post/of/) [something](/en/post/something/) [quickly](/en/post/quickly/) [or](/en/post/or/) excessively.
+- "[Greedy](/post/greedy/) [for](/post/for/) [knowledge](/post/knowledge/)": Describes [someone](/post/someone/) [who](/post/who/) has an [intense](/post/intense/) [desire](/post/desire/) [to](/post/to/) [learn](/post/learn/).
+- "[Greedy](/post/greedy/) guts": Informal [term](/post/term/) [for](/post/for/) [someone](/post/someone/) [who](/post/who/) eats [too](/post/too/) [much](/post/much/) [or](/post/or/) shows [excessive](/post/excessive/) [appetite](/post/appetite/).
+- "[Greedy](/post/greedy/) hands": Refers [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) wants [to](/post/to/) [acquire](/post/acquire/) [or](/post/or/) [take](/post/take/) [control](/post/control/) [of](/post/of/) [something](/post/something/) [quickly](/post/quickly/) [or](/post/or/) excessively.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [greedy](/en/post/greedy/) eyes scanned [the](/en/post/the/) [table](/en/post/table/) piled [high](/en/post/high/) [with](/en/post/with/) [food](/en/post/food/)."
-- "[She](/en/post/she/) couldn't [trust](/en/post/trust/) [her](/en/post/her/) [greedy](/en/post/greedy/) [cousin](/en/post/cousin/) [not](/en/post/not/) [to](/en/post/to/) [take](/en/post/take/) [more](/en/post/more/) [than](/en/post/than/) [his](/en/post/his/) [fair](/en/post/fair/) [share](/en/post/share/) [of](/en/post/of/) [the](/en/post/the/) inheritance."
-- **Figurative**: "[The](/en/post/the/) corporation's [greedy](/en/post/greedy/) [expansion](/en/post/expansion/) plans led [to](/en/post/to/) [the](/en/post/the/) [destruction](/en/post/destruction/) [of](/en/post/of/) [many](/en/post/many/) [small](/en/post/small/) businesses."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [greedy](/post/greedy/) eyes scanned [the](/post/the/) [table](/post/table/) piled [high](/post/high/) [with](/post/with/) [food](/post/food/)."
+- "[She](/post/she/) couldn't [trust](/post/trust/) [her](/post/her/) [greedy](/post/greedy/) [cousin](/post/cousin/) [not](/post/not/) [to](/post/to/) [take](/post/take/) [more](/post/more/) [than](/post/than/) [his](/post/his/) [fair](/post/fair/) [share](/post/share/) [of](/post/of/) [the](/post/the/) inheritance."
+- **Figurative**: "[The](/post/the/) corporation's [greedy](/post/greedy/) [expansion](/post/expansion/) plans led [to](/post/to/) [the](/post/the/) [destruction](/post/destruction/) [of](/post/of/) [many](/post/many/) [small](/post/small/) businesses."
 
 ## Synonyms
 - Avaricious
@@ -31,7 +31,7 @@ keywords = ['ai words', 'greedy']
 - Gluttonous
 - Insatiable
 - Rapacious
-- [Hungry](/en/post/hungry/) ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/))
+- [Hungry](/post/hungry/) ([in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/))
 - Greedful
-- [Selfish](/en/post/selfish/)
+- [Selfish](/post/selfish/)
 - Overindulgent

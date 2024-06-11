@@ -7,36 +7,36 @@ description = '[iˈfi∫ənsi] n.效率；功效，效能'
 keywords = ['ai words', 'efficiency']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈfɪʃnsi/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [efficient](/en/post/efficient/); [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [achieve](/en/post/achieve/) [maximum](/en/post/maximum/) productivity [with](/en/post/with/) [minimum](/en/post/minimum/) wasted [effort](/en/post/effort/) [or](/en/post/or/) [expense](/en/post/expense/). [It](/en/post/it/) [often](/en/post/often/) refers [to](/en/post/to/) [the](/en/post/the/) [ratio](/en/post/ratio/) [of](/en/post/of/) [output](/en/post/output/) [to](/en/post/to/) [input](/en/post/input/) [in](/en/post/in/) [a](/en/post/a/) [system](/en/post/system/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's [success](/en/post/success/) was [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [remarkable](/en/post/remarkable/) [efficiency](/en/post/efficiency/) [in](/en/post/in/) [production](/en/post/production/) processes."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [efficient](/post/efficient/); [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [achieve](/post/achieve/) [maximum](/post/maximum/) productivity [with](/post/with/) [minimum](/post/minimum/) wasted [effort](/post/effort/) [or](/post/or/) [expense](/post/expense/). [It](/post/it/) [often](/post/often/) refers [to](/post/to/) [the](/post/the/) [ratio](/post/ratio/) [of](/post/of/) [output](/post/output/) [to](/post/to/) [input](/post/input/) [in](/post/in/) [a](/post/a/) [system](/post/system/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's [success](/post/success/) was [due](/post/due/) [to](/post/to/) [its](/post/its/) [remarkable](/post/remarkable/) [efficiency](/post/efficiency/) [in](/post/in/) [production](/post/production/) processes."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): _The [new](/en/post/new/) [machine](/en/post/machine/) has significantly improved [our](/en/post/our/) manufacturing [efficiency](/en/post/efficiency/)._
+[Example](/post/example/) [Sentence](/post/sentence/): _The [new](/post/new/) [machine](/post/machine/) has significantly improved [our](/post/our/) manufacturing [efficiency](/post/efficiency/)._
 
 Phrases:
-- "[Operational](/en/post/operational/) [efficiency](/en/post/efficiency/)": [The](/en/post/the/) [measure](/en/post/measure/) [of](/en/post/of/) [how](/en/post/how/) [well](/en/post/well/) an [organization](/en/post/organization/) [can](/en/post/can/) [use](/en/post/use/) [its](/en/post/its/) resources [to](/en/post/to/) [produce](/en/post/produce/) [goods](/en/post/goods/) [and](/en/post/and/) services [without](/en/post/without/) [waste](/en/post/waste/).
-- "[Energy](/en/post/energy/) [efficiency](/en/post/efficiency/)": [The](/en/post/the/) [ability](/en/post/ability/) [of](/en/post/of/) [a](/en/post/a/) [system](/en/post/system/) [or](/en/post/or/) [device](/en/post/device/) [to](/en/post/to/) [deliver](/en/post/deliver/) services using [less](/en/post/less/) [energy](/en/post/energy/).
-- "[Work](/en/post/work/) [efficiency](/en/post/efficiency/)": [The](/en/post/the/) [level](/en/post/level/) [of](/en/post/of/) effectiveness [with](/en/post/with/) [which](/en/post/which/) [work](/en/post/work/) tasks are completed [within](/en/post/within/) [a](/en/post/a/) given [time](/en/post/time/) [frame](/en/post/frame/).
+- "[Operational](/post/operational/) [efficiency](/post/efficiency/)": [The](/post/the/) [measure](/post/measure/) [of](/post/of/) [how](/post/how/) [well](/post/well/) an [organization](/post/organization/) [can](/post/can/) [use](/post/use/) [its](/post/its/) resources [to](/post/to/) [produce](/post/produce/) [goods](/post/goods/) [and](/post/and/) services [without](/post/without/) [waste](/post/waste/).
+- "[Energy](/post/energy/) [efficiency](/post/efficiency/)": [The](/post/the/) [ability](/post/ability/) [of](/post/of/) [a](/post/a/) [system](/post/system/) [or](/post/or/) [device](/post/device/) [to](/post/to/) [deliver](/post/deliver/) services using [less](/post/less/) [energy](/post/energy/).
+- "[Work](/post/work/) [efficiency](/post/efficiency/)": [The](/post/the/) [level](/post/level/) [of](/post/of/) effectiveness [with](/post/with/) [which](/post/which/) [work](/post/work/) tasks are completed [within](/post/within/) [a](/post/a/) given [time](/post/time/) [frame](/post/frame/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [project](/en/post/project/) manager aimed [to](/en/post/to/) boost [team](/en/post/team/) [efficiency](/en/post/efficiency/) [by](/en/post/by/) streamlining [communication](/en/post/communication/)."
-- "Investing [in](/en/post/in/) renewable [energy](/en/post/energy/) technologies increases [energy](/en/post/energy/) [efficiency](/en/post/efficiency/) [and](/en/post/and/) reduces costs [over](/en/post/over/) [time](/en/post/time/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [project](/post/project/) manager aimed [to](/post/to/) boost [team](/post/team/) [efficiency](/post/efficiency/) [by](/post/by/) streamlining [communication](/post/communication/)."
+- "Investing [in](/post/in/) renewable [energy](/post/energy/) technologies increases [energy](/post/energy/) [efficiency](/post/efficiency/) [and](/post/and/) reduces costs [over](/post/over/) [time](/post/time/)."
 
 ## Synonyms
 - Effectiveness
 - Productivity
 - Competence
-- [Economy](/en/post/economy/)
+- [Economy](/post/economy/)
 - Prudence
 - Productiveness
-- [Performance](/en/post/performance/)
-- [Output](/en/post/output/)/[Input](/en/post/input/) [Ratio](/en/post/ratio/)
+- [Performance](/post/performance/)
+- [Output](/post/output/)/[Input](/post/input/) [Ratio](/post/ratio/)
 
 ## Antonyms
 - Inefficiency
-- [Waste](/en/post/waste/)
+- [Waste](/post/waste/)
 - Ineffectiveness
 - Profligacy
 - Slackness

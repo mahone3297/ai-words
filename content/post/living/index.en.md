@@ -7,37 +7,37 @@ description = '[ˈliviŋ] a.活的 n.生活，生计'
 keywords = ['ai words', 'living']
 +++
 
-## [Word](/en/post/word/): [Living](/en/post/living/)
+## [Word](/post/word/): [Living](/post/living/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɪvɪŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [condition](/en/post/condition/) [of](/en/post/of/) [being](/en/post/being/) [alive](/en/post/alive/); [life](/en/post/life/), [especially](/en/post/especially/) [in](/en/post/in/) [relation](/en/post/relation/) [to](/en/post/to/) [creature](/en/post/creature/) comforts [or](/en/post/or/) sustenance. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [bear](/en/post/bear/) was making [its](/en/post/its/) [living](/en/post/living/) [by](/en/post/by/) fishing [in](/en/post/in/) [the](/en/post/the/) [river](/en/post/river/)."
-  - **[As](/en/post/as/) [a](/en/post/a/) [Noun](/en/post/noun/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) livelihood)**: Earnings [or](/en/post/or/) [income](/en/post/income/) derived [from](/en/post/from/) [work](/en/post/work/) [or](/en/post/or/) investments; [means](/en/post/means/) [of](/en/post/of/) subsistence. [Example](/en/post/example/): "[They](/en/post/they/) were [able](/en/post/able/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [good](/en/post/good/) [living](/en/post/living/) [through](/en/post/through/) [their](/en/post/their/) [small](/en/post/small/) [business](/en/post/business/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [condition](/post/condition/) [of](/post/of/) [being](/post/being/) [alive](/post/alive/); [life](/post/life/), [especially](/post/especially/) [in](/post/in/) [relation](/post/relation/) [to](/post/to/) [creature](/post/creature/) comforts [or](/post/or/) sustenance. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [bear](/post/bear/) was making [its](/post/its/) [living](/post/living/) [by](/post/by/) fishing [in](/post/in/) [the](/post/the/) [river](/post/river/)."
+  - **[As](/post/as/) [a](/post/a/) [Noun](/post/noun/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) livelihood)**: Earnings [or](/post/or/) [income](/post/income/) derived [from](/post/from/) [work](/post/work/) [or](/post/or/) investments; [means](/post/means/) [of](/post/of/) subsistence. [Example](/post/example/): "[They](/post/they/) were [able](/post/able/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [good](/post/good/) [living](/post/living/) [through](/post/through/) [their](/post/their/) [small](/post/small/) [business](/post/business/)."
   
-- **[Adjective](/en/post/adjective/)**: Having [life](/en/post/life/); [alive](/en/post/alive/). [Example](/en/post/example/): "[The](/en/post/the/) [living](/en/post/living/) organisms [in](/en/post/in/) [the](/en/post/the/) [pond](/en/post/pond/) included [fish](/en/post/fish/) [and](/en/post/and/) plants."
-  - **[As](/en/post/as/) an [Adjective](/en/post/adjective/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [current](/en/post/current/) [or](/en/post/or/) [contemporary](/en/post/contemporary/))**: Currently existing [or](/en/post/or/) happening; [not](/en/post/not/) [dead](/en/post/dead/) [or](/en/post/or/) [past](/en/post/past/). [Example](/en/post/example/): "[These](/en/post/these/) are [the](/en/post/the/) [living](/en/post/living/) traditions [of](/en/post/of/) [our](/en/post/our/) ancestors."
+- **[Adjective](/post/adjective/)**: Having [life](/post/life/); [alive](/post/alive/). [Example](/post/example/): "[The](/post/the/) [living](/post/living/) organisms [in](/post/in/) [the](/post/the/) [pond](/post/pond/) included [fish](/post/fish/) [and](/post/and/) plants."
+  - **[As](/post/as/) an [Adjective](/post/adjective/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [current](/post/current/) [or](/post/or/) [contemporary](/post/contemporary/))**: Currently existing [or](/post/or/) happening; [not](/post/not/) [dead](/post/dead/) [or](/post/or/) [past](/post/past/). [Example](/post/example/): "[These](/post/these/) are [the](/post/the/) [living](/post/living/) traditions [of](/post/of/) [our](/post/our/) ancestors."
   
-- **[Verb](/en/post/verb/) ([Present](/en/post/present/) participle [of](/en/post/of/) [live](/en/post/live/))**: [To](/en/post/to/) [have](/en/post/have/) one's [permanent](/en/post/permanent/) [home](/en/post/home/) [in](/en/post/in/) [a](/en/post/a/) [place](/en/post/place/); reside. [Example](/en/post/example/): "[They](/en/post/they/) are [living](/en/post/living/) [in](/en/post/in/) [New](/en/post/new/) York [City](/en/post/city/) [now](/en/post/now/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) '[to](/en/post/to/) [experience](/en/post/experience/) [or](/en/post/or/) [endure](/en/post/endure/) [something](/en/post/something/)'. [Example](/en/post/example/): "[She](/en/post/she/) has been [living](/en/post/living/) [with](/en/post/with/) chronic [pain](/en/post/pain/) [for](/en/post/for/) years."
+- **[Verb](/post/verb/) ([Present](/post/present/) participle [of](/post/of/) [live](/post/live/))**: [To](/post/to/) [have](/post/have/) one's [permanent](/post/permanent/) [home](/post/home/) [in](/post/in/) [a](/post/a/) [place](/post/place/); reside. [Example](/post/example/): "[They](/post/they/) are [living](/post/living/) [in](/post/in/) [New](/post/new/) York [City](/post/city/) [now](/post/now/)."
+  - [Also](/post/also/) [used](/post/used/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) '[to](/post/to/) [experience](/post/experience/) [or](/post/or/) [endure](/post/endure/) [something](/post/something/)'. [Example](/post/example/): "[She](/post/she/) has been [living](/post/living/) [with](/post/with/) chronic [pain](/post/pain/) [for](/post/for/) years."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [living](/en/post/living/)": [To](/en/post/to/) [earn](/en/post/earn/) [enough](/en/post/enough/) [money](/en/post/money/) [to](/en/post/to/) [support](/en/post/support/) [oneself](/en/post/oneself/) [or](/en/post/or/) one's [family](/en/post/family/). [Example](/en/post/example/): "[She](/en/post/she/) makes [a](/en/post/a/) [living](/en/post/living/) [as](/en/post/as/) [a](/en/post/a/) freelance [writer](/en/post/writer/)."
-- "[Living](/en/post/living/) [room](/en/post/room/)": [A](/en/post/a/) [room](/en/post/room/) [in](/en/post/in/) [a](/en/post/a/) [house](/en/post/house/) [for](/en/post/for/) [general](/en/post/general/) [everyday](/en/post/everyday/) [use](/en/post/use/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) socializing [with](/en/post/with/) guests.
-- "[Living](/en/post/living/) [wage](/en/post/wage/)": [A](/en/post/a/) [wage](/en/post/wage/) [sufficient](/en/post/sufficient/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [normal](/en/post/normal/) [standard](/en/post/standard/) [of](/en/post/of/) [living](/en/post/living/).
+- "[Make](/post/make/) [a](/post/a/) [living](/post/living/)": [To](/post/to/) [earn](/post/earn/) [enough](/post/enough/) [money](/post/money/) [to](/post/to/) [support](/post/support/) [oneself](/post/oneself/) [or](/post/or/) one's [family](/post/family/). [Example](/post/example/): "[She](/post/she/) makes [a](/post/a/) [living](/post/living/) [as](/post/as/) [a](/post/a/) freelance [writer](/post/writer/)."
+- "[Living](/post/living/) [room](/post/room/)": [A](/post/a/) [room](/post/room/) [in](/post/in/) [a](/post/a/) [house](/post/house/) [for](/post/for/) [general](/post/general/) [everyday](/post/everyday/) [use](/post/use/), [often](/post/often/) [used](/post/used/) [for](/post/for/) socializing [with](/post/with/) guests.
+- "[Living](/post/living/) [wage](/post/wage/)": [A](/post/a/) [wage](/post/wage/) [sufficient](/post/sufficient/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [normal](/post/normal/) [standard](/post/standard/) [of](/post/of/) [living](/post/living/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([life](/en/post/life/))**: "[Her](/en/post/her/) [love](/en/post/love/) [for](/en/post/for/) [nature](/en/post/nature/) was [a](/en/post/a/) [vital](/en/post/vital/) [part](/en/post/part/) [of](/en/post/of/) [her](/en/post/her/) [living](/en/post/living/)."
-- **[Noun](/en/post/noun/) (livelihood)**: "[Through](/en/post/through/) [hard](/en/post/hard/) [work](/en/post/work/), [he](/en/post/he/) managed [to](/en/post/to/) [secure](/en/post/secure/) [a](/en/post/a/) [comfortable](/en/post/comfortable/) [living](/en/post/living/) [for](/en/post/for/) [his](/en/post/his/) [family](/en/post/family/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [living](/en/post/living/) conditions [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/) improved significantly."
-- **[Verb](/en/post/verb/)**: "[Despite](/en/post/despite/) [numerous](/en/post/numerous/) challenges, they're happily [living](/en/post/living/) [their](/en/post/their/) [dream](/en/post/dream/) [life](/en/post/life/) [in](/en/post/in/) [the](/en/post/the/) [countryside](/en/post/countryside/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([life](/post/life/))**: "[Her](/post/her/) [love](/post/love/) [for](/post/for/) [nature](/post/nature/) was [a](/post/a/) [vital](/post/vital/) [part](/post/part/) [of](/post/of/) [her](/post/her/) [living](/post/living/)."
+- **[Noun](/post/noun/) (livelihood)**: "[Through](/post/through/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) managed [to](/post/to/) [secure](/post/secure/) [a](/post/a/) [comfortable](/post/comfortable/) [living](/post/living/) [for](/post/for/) [his](/post/his/) [family](/post/family/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [living](/post/living/) conditions [in](/post/in/) [the](/post/the/) [city](/post/city/) improved significantly."
+- **[Verb](/post/verb/)**: "[Despite](/post/despite/) [numerous](/post/numerous/) challenges, they're happily [living](/post/living/) [their](/post/their/) [dream](/post/dream/) [life](/post/life/) [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/)."
 
 ## Synonyms
-- [Alive](/en/post/alive/)
+- [Alive](/post/alive/)
 - Existing
 - Residing
 - Surviving
 - Breathing
-- Inhabiting ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
-- Subsisting ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) livelihood)
+- Inhabiting ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))
+- Subsisting ([in](/post/in/) [the](/post/the/) context [of](/post/of/) livelihood)

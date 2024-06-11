@@ -7,39 +7,39 @@ description = '[ˈbækgraund] n.背景，后景，经历'
 keywords = ['ai words', 'background']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bækgraʊnd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [phrase](/en/post/phrase/) [that](/en/post/that/) introduces [or](/en/post/or/) provides context [for](/en/post/for/) [something](/en/post/something/)**: [The](/en/post/the/) painting's [background](/en/post/background/) is [a](/en/post/a/) vibrant [blue](/en/post/blue/). *[Example](/en/post/example/) [sentence](/en/post/sentence/):* [The](/en/post/the/) [artist](/en/post/artist/) chose [a](/en/post/a/) [deep](/en/post/deep/) [red](/en/post/red/) [as](/en/post/as/) [the](/en/post/the/) [background](/en/post/background/) [for](/en/post/for/) [the](/en/post/the/) [main](/en/post/main/) [subject](/en/post/subject/).
-2. **[The](/en/post/the/) [rear](/en/post/rear/) [or](/en/post/or/) [side](/en/post/side/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [stage](/en/post/stage/), [screen](/en/post/screen/), [or](/en/post/or/) [scene](/en/post/scene/)**: [A](/en/post/a/) [plain](/en/post/plain/) [white](/en/post/white/) [background](/en/post/background/) [for](/en/post/for/) [the](/en/post/the/) actors. *[Example](/en/post/example/) [sentence](/en/post/sentence/):* [The](/en/post/the/) dancers performed [against](/en/post/against/) [a](/en/post/a/) backdrop [of](/en/post/of/) [a](/en/post/a/) starry [night](/en/post/night/) [sky](/en/post/sky/).
-3. **[Past](/en/post/past/) experiences, upbringing, [or](/en/post/or/) circumstances**: [His](/en/post/his/) [musical](/en/post/musical/) [background](/en/post/background/) includes [classical](/en/post/classical/) [training](/en/post/training/). *[Example](/en/post/example/) [sentence](/en/post/sentence/):* [Her](/en/post/her/) [diverse](/en/post/diverse/) [background](/en/post/background/) made [her](/en/post/her/) [a](/en/post/a/) well-rounded [candidate](/en/post/candidate/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/).
-4. **[Statistical](/en/post/statistical/) [data](/en/post/data/) [or](/en/post/or/) [information](/en/post/information/)**: [Market](/en/post/market/) [research](/en/post/research/) [provided](/en/post/provided/) [a](/en/post/a/) [strong](/en/post/strong/) [economic](/en/post/economic/) [background](/en/post/background/) [for](/en/post/for/) [the](/en/post/the/) [business](/en/post/business/) [plan](/en/post/plan/). *[Example](/en/post/example/) [sentence](/en/post/sentence/):* [The](/en/post/the/) [report](/en/post/report/) offered [a](/en/post/a/) [comprehensive](/en/post/comprehensive/) [background](/en/post/background/) [on](/en/post/on/) [the](/en/post/the/) [industry](/en/post/industry/) trends.
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [word](/post/word/) [or](/post/or/) [phrase](/post/phrase/) [that](/post/that/) introduces [or](/post/or/) provides context [for](/post/for/) [something](/post/something/)**: [The](/post/the/) painting's [background](/post/background/) is [a](/post/a/) vibrant [blue](/post/blue/). *[Example](/post/example/) [sentence](/post/sentence/):* [The](/post/the/) [artist](/post/artist/) chose [a](/post/a/) [deep](/post/deep/) [red](/post/red/) [as](/post/as/) [the](/post/the/) [background](/post/background/) [for](/post/for/) [the](/post/the/) [main](/post/main/) [subject](/post/subject/).
+2. **[The](/post/the/) [rear](/post/rear/) [or](/post/or/) [side](/post/side/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [stage](/post/stage/), [screen](/post/screen/), [or](/post/or/) [scene](/post/scene/)**: [A](/post/a/) [plain](/post/plain/) [white](/post/white/) [background](/post/background/) [for](/post/for/) [the](/post/the/) actors. *[Example](/post/example/) [sentence](/post/sentence/):* [The](/post/the/) dancers performed [against](/post/against/) [a](/post/a/) backdrop [of](/post/of/) [a](/post/a/) starry [night](/post/night/) [sky](/post/sky/).
+3. **[Past](/post/past/) experiences, upbringing, [or](/post/or/) circumstances**: [His](/post/his/) [musical](/post/musical/) [background](/post/background/) includes [classical](/post/classical/) [training](/post/training/). *[Example](/post/example/) [sentence](/post/sentence/):* [Her](/post/her/) [diverse](/post/diverse/) [background](/post/background/) made [her](/post/her/) [a](/post/a/) well-rounded [candidate](/post/candidate/) [for](/post/for/) [the](/post/the/) [job](/post/job/).
+4. **[Statistical](/post/statistical/) [data](/post/data/) [or](/post/or/) [information](/post/information/)**: [Market](/post/market/) [research](/post/research/) [provided](/post/provided/) [a](/post/a/) [strong](/post/strong/) [economic](/post/economic/) [background](/post/background/) [for](/post/for/) [the](/post/the/) [business](/post/business/) [plan](/post/plan/). *[Example](/post/example/) [sentence](/post/sentence/):* [The](/post/the/) [report](/post/report/) offered [a](/post/a/) [comprehensive](/post/comprehensive/) [background](/post/background/) [on](/post/on/) [the](/post/the/) [industry](/post/industry/) trends.
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [place](/en/post/place/) [or](/en/post/or/) [set](/en/post/set/) [something](/en/post/something/) [behind](/en/post/behind/) [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [foundation](/en/post/foundation/)**: [She](/en/post/she/) background-checked [the](/en/post/the/) employees [before](/en/post/before/) hiring [them](/en/post/them/). *[Example](/en/post/example/) [sentence](/en/post/sentence/):* [The](/en/post/the/) [director](/en/post/director/) decided [to](/en/post/to/) [background](/en/post/background/) [the](/en/post/the/) [main](/en/post/main/) [character](/en/post/character/) [with](/en/post/with/) [his](/en/post/his/) troubled [past](/en/post/past/).
-2. **[To](/en/post/to/) [fill](/en/post/fill/) [in](/en/post/in/) [the](/en/post/the/) details [or](/en/post/or/) [establish](/en/post/establish/) [the](/en/post/the/) context [for](/en/post/for/)**: [The](/en/post/the/) [story](/en/post/story/) was backgrounded [with](/en/post/with/) [historical](/en/post/historical/) events. *[Example](/en/post/example/) [sentence](/en/post/sentence/):* [The](/en/post/the/) [article](/en/post/article/) was backgrounded [with](/en/post/with/) [expert](/en/post/expert/) opinions [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/).
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [place](/post/place/) [or](/post/or/) [set](/post/set/) [something](/post/something/) [behind](/post/behind/) [or](/post/or/) [as](/post/as/) [a](/post/a/) [foundation](/post/foundation/)**: [She](/post/she/) background-checked [the](/post/the/) employees [before](/post/before/) hiring [them](/post/them/). *[Example](/post/example/) [sentence](/post/sentence/):* [The](/post/the/) [director](/post/director/) decided [to](/post/to/) [background](/post/background/) [the](/post/the/) [main](/post/main/) [character](/post/character/) [with](/post/with/) [his](/post/his/) troubled [past](/post/past/).
+2. **[To](/post/to/) [fill](/post/fill/) [in](/post/in/) [the](/post/the/) details [or](/post/or/) [establish](/post/establish/) [the](/post/the/) context [for](/post/for/)**: [The](/post/the/) [story](/post/story/) was backgrounded [with](/post/with/) [historical](/post/historical/) events. *[Example](/post/example/) [sentence](/post/sentence/):* [The](/post/the/) [article](/post/article/) was backgrounded [with](/post/with/) [expert](/post/expert/) opinions [on](/post/on/) [climate](/post/climate/) [change](/post/change/).
 
-### [Adjective](/en/post/adjective/)
-1. **Characterizing [or](/en/post/or/) forming [the](/en/post/the/) underlying [basis](/en/post/basis/) [of](/en/post/of/) [something](/en/post/something/)**: [A](/en/post/a/) [background](/en/post/background/) [check](/en/post/check/) is required [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/). *[Example](/en/post/example/) [sentence](/en/post/sentence/):* [The](/en/post/the/) [soft](/en/post/soft/) [piano](/en/post/piano/) melody [provided](/en/post/provided/) [a](/en/post/a/) soothing [background](/en/post/background/) [for](/en/post/for/) [the](/en/post/the/) [conversation](/en/post/conversation/).
+### [Adjective](/post/adjective/)
+1. **Characterizing [or](/post/or/) forming [the](/post/the/) underlying [basis](/post/basis/) [of](/post/of/) [something](/post/something/)**: [A](/post/a/) [background](/post/background/) [check](/post/check/) is required [for](/post/for/) [the](/post/the/) [job](/post/job/). *[Example](/post/example/) [sentence](/post/sentence/):* [The](/post/the/) [soft](/post/soft/) [piano](/post/piano/) melody [provided](/post/provided/) [a](/post/a/) soothing [background](/post/background/) [for](/post/for/) [the](/post/the/) [conversation](/post/conversation/).
 
 ## Phrases
-- "[Set](/en/post/set/) [against](/en/post/against/) [a](/en/post/a/) [background](/en/post/background/) [of](/en/post/of/)"
-- "[Background](/en/post/background/) [noise](/en/post/noise/)"
-- "[A](/en/post/a/) [clean](/en/post/clean/) slate [with](/en/post/with/) [no](/en/post/no/) [background](/en/post/background/)"
-- "[Provide](/en/post/provide/) [a](/en/post/a/) [background](/en/post/background/) [for](/en/post/for/)"
+- "[Set](/post/set/) [against](/post/against/) [a](/post/a/) [background](/post/background/) [of](/post/of/)"
+- "[Background](/post/background/) [noise](/post/noise/)"
+- "[A](/post/a/) [clean](/post/clean/) slate [with](/post/with/) [no](/post/no/) [background](/post/background/)"
+- "[Provide](/post/provide/) [a](/post/a/) [background](/post/background/) [for](/post/for/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [conference](/en/post/conference/) started [with](/en/post/with/) [a](/en/post/a/) [brief](/en/post/brief/) [background](/en/post/background/) [on](/en/post/on/) [the](/en/post/the/) [topic](/en/post/topic/).
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) had [to](/en/post/to/) [background](/en/post/background/) [himself](/en/post/himself/) [in](/en/post/in/) [international](/en/post/international/) [law](/en/post/law/) [before](/en/post/before/) taking [on](/en/post/on/) [the](/en/post/the/) [case](/en/post/case/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) employee's [impressive](/en/post/impressive/) [background](/en/post/background/) [in](/en/post/in/) marketing helped [secure](/en/post/secure/) [the](/en/post/the/) promotion.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [conference](/post/conference/) started [with](/post/with/) [a](/post/a/) [brief](/post/brief/) [background](/post/background/) [on](/post/on/) [the](/post/the/) [topic](/post/topic/).
+- **[Verb](/post/verb/)**: [He](/post/he/) had [to](/post/to/) [background](/post/background/) [himself](/post/himself/) [in](/post/in/) [international](/post/international/) [law](/post/law/) [before](/post/before/) taking [on](/post/on/) [the](/post/the/) [case](/post/case/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) employee's [impressive](/post/impressive/) [background](/post/background/) [in](/post/in/) marketing helped [secure](/post/secure/) [the](/post/the/) promotion.
 
 ## Synonyms
 - Foreground
 - Context
-- [Foundation](/en/post/foundation/)
-- [Background](/en/post/background/) [information](/en/post/information/)
-- [Past](/en/post/past/) [history](/en/post/history/)
+- [Foundation](/post/foundation/)
+- [Background](/post/background/) [information](/post/information/)
+- [Past](/post/past/) [history](/post/history/)
 - Contextual details
-- Supporting [information](/en/post/information/)
+- Supporting [information](/post/information/)

@@ -7,42 +7,42 @@ description = '[riˈmɑːk] vt.&vi.&n.评论，谈论'
 keywords = ['ai words', 'remark']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈmɑːrk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[noun](/en/post/noun/)** [in](/en/post/in/) [this](/en/post/this/) context is:
-1. [A](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [observation](/en/post/observation/) made, [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is [brief](/en/post/brief/) or不经意.
-   - [Example](/en/post/example/): "[Her](/en/post/her/) [remark](/en/post/remark/) [about](/en/post/about/) [the](/en/post/the/) [weather](/en/post/weather/) was [unexpected](/en/post/unexpected/)."
-2. An [expression](/en/post/expression/) [of](/en/post/of/) [opinion](/en/post/opinion/) [or](/en/post/or/) [criticism](/en/post/criticism/).
-   - [Example](/en/post/example/): "[He](/en/post/he/) made [a](/en/post/a/) [rude](/en/post/rude/) [remark](/en/post/remark/) [about](/en/post/about/) [her](/en/post/her/) cooking."
+### [Noun](/post/noun/)
+[A](/post/a/) **[noun](/post/noun/)** [in](/post/in/) [this](/post/this/) context is:
+1. [A](/post/a/) [statement](/post/statement/) [or](/post/or/) [observation](/post/observation/) made, [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is [brief](/post/brief/) or不经意.
+   - [Example](/post/example/): "[Her](/post/her/) [remark](/post/remark/) [about](/post/about/) [the](/post/the/) [weather](/post/weather/) was [unexpected](/post/unexpected/)."
+2. An [expression](/post/expression/) [of](/post/of/) [opinion](/post/opinion/) [or](/post/or/) [criticism](/post/criticism/).
+   - [Example](/post/example/): "[He](/post/he/) made [a](/post/a/) [rude](/post/rude/) [remark](/post/remark/) [about](/post/about/) [her](/post/her/) cooking."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[remark](/en/post/remark/)** [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [means](/en/post/means/):
-1. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [comment](/en/post/comment/) [or](/en/post/or/) [observation](/en/post/observation/), typically [about](/en/post/about/) [something](/en/post/something/) [that](/en/post/that/) has [just](/en/post/just/) been said [or](/en/post/or/) done.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [professor](/en/post/professor/) remarked [on](/en/post/on/) [the](/en/post/the/) [significance](/en/post/significance/) [of](/en/post/of/) [the](/en/post/the/) [discovery](/en/post/discovery/)."
-2. [To](/en/post/to/) [express](/en/post/express/) an [opinion](/en/post/opinion/) [or](/en/post/or/) [feeling](/en/post/feeling/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) remarked [on](/en/post/on/) [how](/en/post/how/) [well](/en/post/well/) [the](/en/post/the/) children were behaving."
+### [Verb](/post/verb/)
+[To](/post/to/) **[remark](/post/remark/)** [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [means](/post/means/):
+1. [To](/post/to/) [make](/post/make/) [a](/post/a/) [comment](/post/comment/) [or](/post/or/) [observation](/post/observation/), typically [about](/post/about/) [something](/post/something/) [that](/post/that/) has [just](/post/just/) been said [or](/post/or/) done.
+   - [Example](/post/example/): "[The](/post/the/) [professor](/post/professor/) remarked [on](/post/on/) [the](/post/the/) [significance](/post/significance/) [of](/post/of/) [the](/post/the/) [discovery](/post/discovery/)."
+2. [To](/post/to/) [express](/post/express/) an [opinion](/post/opinion/) [or](/post/or/) [feeling](/post/feeling/).
+   - [Example](/post/example/): "[She](/post/she/) remarked [on](/post/on/) [how](/post/how/) [well](/post/well/) [the](/post/the/) children were behaving."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [remark](/en/post/remark/)" suggests offering [a](/en/post/a/) [comment](/en/post/comment/).
-- "[In](/en/post/in/) passing, [he](/en/post/he/) remarked" implies [a](/en/post/a/) [comment](/en/post/comment/) made casually.
-- "An offhand [remark](/en/post/remark/)" refers [to](/en/post/to/) [a](/en/post/a/) [comment](/en/post/comment/) made [without](/en/post/without/) [much](/en/post/much/) [thought](/en/post/thought/).
+- "[Make](/post/make/) [a](/post/a/) [remark](/post/remark/)" suggests offering [a](/post/a/) [comment](/post/comment/).
+- "[In](/post/in/) passing, [he](/post/he/) remarked" implies [a](/post/a/) [comment](/post/comment/) made casually.
+- "An offhand [remark](/post/remark/)" refers [to](/post/to/) [a](/post/a/) [comment](/post/comment/) made [without](/post/without/) [much](/post/much/) [thought](/post/thought/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) witty [remark](/en/post/remark/) had [everyone](/en/post/everyone/) laughing."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [her](/en/post/her/) [meal](/en/post/meal/), [she](/en/post/she/) remarked [on](/en/post/on/) [the](/en/post/the/) [excellent](/en/post/excellent/) [service](/en/post/service/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "Don't [take](/en/post/take/) [his](/en/post/his/) remarks [too](/en/post/too/) [seriously](/en/post/seriously/); [he](/en/post/he/) tends [to](/en/post/to/) [be](/en/post/be/) sarcastic."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) witty [remark](/post/remark/) had [everyone](/post/everyone/) laughing."
+- **[Verb](/post/verb/)**: "[After](/post/after/) finishing [her](/post/her/) [meal](/post/meal/), [she](/post/she/) remarked [on](/post/on/) [the](/post/the/) [excellent](/post/excellent/) [service](/post/service/)."
+- **[As](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "Don't [take](/post/take/) [his](/post/his/) remarks [too](/post/too/) [seriously](/post/seriously/); [he](/post/he/) tends [to](/post/to/) [be](/post/be/) sarcastic."
 
 ## Synonyms
-- [Observation](/en/post/observation/)
-- [Comment](/en/post/comment/)
-- [Observation](/en/post/observation/)
-- [Observation](/en/post/observation/)
-- [Observation](/en/post/observation/)
-- [Criticism](/en/post/criticism/)
-- [Expression](/en/post/expression/)
-- [Observation](/en/post/observation/)
-- [Note](/en/post/note/)
-- [Observation](/en/post/observation/)
+- [Observation](/post/observation/)
+- [Comment](/post/comment/)
+- [Observation](/post/observation/)
+- [Observation](/post/observation/)
+- [Observation](/post/observation/)
+- [Criticism](/post/criticism/)
+- [Expression](/post/expression/)
+- [Observation](/post/observation/)
+- [Note](/post/note/)
+- [Observation](/post/observation/)

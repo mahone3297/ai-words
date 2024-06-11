@@ -11,21 +11,21 @@ keywords = ['ai words', 'toilet']
 /toɪˈlɛt/
 
 ## 释义
-- **名词**: 一个设施，通常在室内，用于排泄和/或洗手。例如: "There's [a](/post/a/) [toilet](/post/toilet/) [in](/post/in/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [the](/post/the/) [restaurant](/post/restaurant/)."
-- **名词 (英国用法)**: 通常指洗手间或卫生间。例如: "[Excuse](/post/excuse/) [me](/post/me/), [where](/post/where/) is [the](/post/the/) [toilet](/post/toilet/)?"
+- **名词**: 一个设施，通常在室内，用于排泄和/或洗手。例如: "There's [a](/zh/post/a/) [toilet](/zh/post/toilet/) [in](/zh/post/in/) [the](/zh/post/the/) [back](/zh/post/back/) [of](/zh/post/of/) [the](/zh/post/the/) [restaurant](/zh/post/restaurant/)."
+- **名词 (英国用法)**: 通常指洗手间或卫生间。例如: "[Excuse](/zh/post/excuse/) [me](/zh/post/me/), [where](/zh/post/where/) is [the](/zh/post/the/) [toilet](/zh/post/toilet/)?"
 
 ## 短语
-- "[Go](/post/go/) [to](/post/to/) [the](/post/the/) [toilet](/post/toilet/)" 意为去上厕所。
-- "[Public](/post/public/) [toilet](/post/toilet/)" 是指公共厕所。
-- "[Toilet](/post/toilet/) [paper](/post/paper/)" 是指厕纸。
+- "[Go](/zh/post/go/) [to](/zh/post/to/) [the](/zh/post/the/) [toilet](/zh/post/toilet/)" 意为去上厕所。
+- "[Public](/zh/post/public/) [toilet](/zh/post/toilet/)" 是指公共厕所。
+- "[Toilet](/zh/post/toilet/) [paper](/zh/post/paper/)" 是指厕纸。
 
 ## 例句
-- 名词: "I [need](/post/need/) [to](/post/to/) [use](/post/use/) [the](/post/the/) [toilet](/post/toilet/) [before](/post/before/) [we](/post/we/) [leave](/post/leave/)."
-- 名词 (英国用法): "[Sorry](/post/sorry/), [do](/post/do/) [you](/post/you/) [know](/post/know/) [where](/post/where/) [the](/post/the/) nearest [toilet](/post/toilet/) is?"
+- 名词: "I [need](/zh/post/need/) [to](/zh/post/to/) [use](/zh/post/use/) [the](/zh/post/the/) [toilet](/zh/post/toilet/) [before](/zh/post/before/) [we](/zh/post/we/) [leave](/zh/post/leave/)."
+- 名词 (英国用法): "[Sorry](/zh/post/sorry/), [do](/zh/post/do/) [you](/zh/post/you/) [know](/zh/post/know/) [where](/zh/post/where/) [the](/zh/post/the/) nearest [toilet](/zh/post/toilet/) is?"
 
 ## 同义词
-- [Bathroom](/post/bathroom/)
+- [Bathroom](/zh/post/bathroom/)
 - Washroom
 - Restroom
-- [Lavatory](/post/lavatory/)
-- WC ([Water](/post/water/) Closet)
+- [Lavatory](/zh/post/lavatory/)
+- WC ([Water](/zh/post/water/) Closet)

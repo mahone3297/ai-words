@@ -12,26 +12,26 @@ keywords = ['ai words', 'grant']
 
 ## 释义
 - **名词**:
-  - 授予物；赠款：[A](/post/a/) [sum](/post/sum/) [of](/post/of/) [money](/post/money/) [or](/post/or/) [other](/post/other/) [aid](/post/aid/) given, [especially](/post/especially/) [by](/post/by/) [a](/post/a/) [government](/post/government/) [or](/post/or/) [other](/post/other/) [organization](/post/organization/), [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/).
-  - 权利；许可：[Permission](/post/permission/) [or](/post/or/) [authority](/post/authority/) [to](/post/to/) [do](/post/do/) [something](/post/something/).
+  - 授予物；赠款：[A](/zh/post/a/) [sum](/zh/post/sum/) [of](/zh/post/of/) [money](/zh/post/money/) [or](/zh/post/or/) [other](/zh/post/other/) [aid](/zh/post/aid/) given, [especially](/zh/post/especially/) [by](/zh/post/by/) [a](/zh/post/a/) [government](/zh/post/government/) [or](/zh/post/or/) [other](/zh/post/other/) [organization](/zh/post/organization/), [for](/zh/post/for/) [a](/zh/post/a/) [specific](/zh/post/specific/) [purpose](/zh/post/purpose/).
+  - 权利；许可：[Permission](/zh/post/permission/) [or](/zh/post/or/) [authority](/zh/post/authority/) [to](/zh/post/to/) [do](/zh/post/do/) [something](/zh/post/something/).
 
 - **动词**:
-  - 授予；给予：[To](/post/to/) [give](/post/give/) ([money](/post/money/), [permission](/post/permission/), etc.) officially [or](/post/or/) formally.
-  - 承认；同意：[To](/post/to/) [admit](/post/admit/) [or](/post/or/) concede [something](/post/something/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [point](/post/point/) [in](/post/in/) an [argument](/post/argument/).
+  - 授予；给予：[To](/zh/post/to/) [give](/zh/post/give/) ([money](/zh/post/money/), [permission](/zh/post/permission/), etc.) officially [or](/zh/post/or/) formally.
+  - 承认；同意：[To](/zh/post/to/) [admit](/zh/post/admit/) [or](/zh/post/or/) concede [something](/zh/post/something/), [such](/zh/post/such/) [as](/zh/post/as/) [a](/zh/post/a/) [point](/zh/post/point/) [in](/zh/post/in/) an [argument](/zh/post/argument/).
 
 ## 短语
-- "[grant](/post/grant/) [aid](/post/aid/)" 意为提供援助或补助。
-- "[grant](/post/grant/) [permission](/post/permission/)" 意为给予许可。
-- "[grant](/post/grant/) [access](/post/access/)" 意为允许进入或使用。
+- "[grant](/zh/post/grant/) [aid](/zh/post/aid/)" 意为提供援助或补助。
+- "[grant](/zh/post/grant/) [permission](/zh/post/permission/)" 意为给予许可。
+- "[grant](/zh/post/grant/) [access](/zh/post/access/)" 意为允许进入或使用。
 
 ## 例句
-- 名词: "[The](/post/the/) [government](/post/government/) has announced [a](/post/a/) [new](/post/new/) [grant](/post/grant/) [for](/post/for/) [small](/post/small/) businesses affected [by](/post/by/) [the](/post/the/) pandemic."
-- 动词: "[The](/post/the/) [university](/post/university/) granted [her](/post/her/) [a](/post/a/) [scholarship](/post/scholarship/) [to](/post/to/) [pursue](/post/pursue/) [her](/post/her/) PhD studies."
-- 承认: "[After](/post/after/) [much](/post/much/) [debate](/post/debate/), [they](/post/they/) [finally](/post/finally/) granted [the](/post/the/) legitimacy [of](/post/of/) [his](/post/his/) [argument](/post/argument/)."
+- 名词: "[The](/zh/post/the/) [government](/zh/post/government/) has announced [a](/zh/post/a/) [new](/zh/post/new/) [grant](/zh/post/grant/) [for](/zh/post/for/) [small](/zh/post/small/) businesses affected [by](/zh/post/by/) [the](/zh/post/the/) pandemic."
+- 动词: "[The](/zh/post/the/) [university](/zh/post/university/) granted [her](/zh/post/her/) [a](/zh/post/a/) [scholarship](/zh/post/scholarship/) [to](/zh/post/to/) [pursue](/zh/post/pursue/) [her](/zh/post/her/) PhD studies."
+- 承认: "[After](/zh/post/after/) [much](/zh/post/much/) [debate](/zh/post/debate/), [they](/zh/post/they/) [finally](/zh/post/finally/) granted [the](/zh/post/the/) legitimacy [of](/zh/post/of/) [his](/zh/post/his/) [argument](/zh/post/argument/)."
 
 ## 同义词
-- [Award](/post/award/)
+- [Award](/zh/post/award/)
 - Bestow
 - Concede
-- [Approve](/post/approve/)
+- [Approve](/zh/post/approve/)
 - Allocate

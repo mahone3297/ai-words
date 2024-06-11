@@ -7,49 +7,49 @@ description = '[səbˈstæn∫əl] a.物质的；坚固的'
 keywords = ['ai words', 'substantial']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /subˈstænʃl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [Of](/en/post/of/) [considerable](/en/post/considerable/) [importance](/en/post/importance/), [quality](/en/post/quality/), [or](/en/post/or/) [size](/en/post/size/); [significant](/en/post/significant/).
-   - "[The](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/) has [substantial](/en/post/substantial/) [financial](/en/post/financial/) backing."
-2. [Sufficient](/en/post/sufficient/) [in](/en/post/in/) [amount](/en/post/amount/) [or](/en/post/or/) [substance](/en/post/substance/); [substantial](/en/post/substantial/).
-   - "[A](/en/post/a/) [substantial](/en/post/substantial/) [meal](/en/post/meal/) [at](/en/post/at/) [the](/en/post/the/) [restaurant](/en/post/restaurant/)"
-3. Consisting [of](/en/post/of/) [or](/en/post/or/) containing [a](/en/post/a/) [substantial](/en/post/substantial/) [part](/en/post/part/) [or](/en/post/or/) [quantity](/en/post/quantity/).
-   - "[Substantial](/en/post/substantial/) portions [of](/en/post/of/) [the](/en/post/the/) [book](/en/post/book/) are devoted [to](/en/post/to/) [history](/en/post/history/)."
+### [Noun](/post/noun/)
+1. [Of](/post/of/) [considerable](/post/considerable/) [importance](/post/importance/), [quality](/post/quality/), [or](/post/or/) [size](/post/size/); [significant](/post/significant/).
+   - "[The](/post/the/) [new](/post/new/) [project](/post/project/) has [substantial](/post/substantial/) [financial](/post/financial/) backing."
+2. [Sufficient](/post/sufficient/) [in](/post/in/) [amount](/post/amount/) [or](/post/or/) [substance](/post/substance/); [substantial](/post/substantial/).
+   - "[A](/post/a/) [substantial](/post/substantial/) [meal](/post/meal/) [at](/post/at/) [the](/post/the/) [restaurant](/post/restaurant/)"
+3. Consisting [of](/post/of/) [or](/post/or/) containing [a](/post/a/) [substantial](/post/substantial/) [part](/post/part/) [or](/post/or/) [quantity](/post/quantity/).
+   - "[Substantial](/post/substantial/) portions [of](/post/of/) [the](/post/the/) [book](/post/book/) are devoted [to](/post/to/) [history](/post/history/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [become](/en/post/become/) [substantial](/en/post/substantial/); [take](/en/post/take/) [on](/en/post/on/) [substance](/en/post/substance/) [or](/en/post/or/) [reality](/en/post/reality/).
-   - "[The](/en/post/the/) [idea](/en/post/idea/) [slowly](/en/post/slowly/) became [substantial](/en/post/substantial/) [after](/en/post/after/) months [of](/en/post/of/) [discussion](/en/post/discussion/)."
-2. [To](/en/post/to/) [support](/en/post/support/) [or](/en/post/or/) [satisfy](/en/post/satisfy/) [in](/en/post/in/) [a](/en/post/a/) [significant](/en/post/significant/) [way](/en/post/way/).
-   - "[This](/en/post/this/) [evidence](/en/post/evidence/) provides [substantial](/en/post/substantial/) [proof](/en/post/proof/) [of](/en/post/of/) [their](/en/post/their/) innocence."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [become](/post/become/) [substantial](/post/substantial/); [take](/post/take/) [on](/post/on/) [substance](/post/substance/) [or](/post/or/) [reality](/post/reality/).
+   - "[The](/post/the/) [idea](/post/idea/) [slowly](/post/slowly/) became [substantial](/post/substantial/) [after](/post/after/) months [of](/post/of/) [discussion](/post/discussion/)."
+2. [To](/post/to/) [support](/post/support/) [or](/post/or/) [satisfy](/post/satisfy/) [in](/post/in/) [a](/post/a/) [significant](/post/significant/) [way](/post/way/).
+   - "[This](/post/this/) [evidence](/post/evidence/) provides [substantial](/post/substantial/) [proof](/post/proof/) [of](/post/of/) [their](/post/their/) innocence."
 
-### [Adjective](/en/post/adjective/)
-1. [Mainly](/en/post/mainly/) [or](/en/post/or/) [largely](/en/post/largely/) made [up](/en/post/up/) [of](/en/post/of/) [something](/en/post/something/); [solid](/en/post/solid/) [or](/en/post/or/) [reliable](/en/post/reliable/).
-   - "[A](/en/post/a/) [substantial](/en/post/substantial/) [wall](/en/post/wall/) [of](/en/post/of/) [stone](/en/post/stone/)"
-2. Characterized [by](/en/post/by/) [being](/en/post/being/) [substantial](/en/post/substantial/) [or](/en/post/or/) [significant](/en/post/significant/).
-   - "[A](/en/post/a/) [substantial](/en/post/substantial/) [increase](/en/post/increase/) [in](/en/post/in/) sales"
+### [Adjective](/post/adjective/)
+1. [Mainly](/post/mainly/) [or](/post/or/) [largely](/post/largely/) made [up](/post/up/) [of](/post/of/) [something](/post/something/); [solid](/post/solid/) [or](/post/or/) [reliable](/post/reliable/).
+   - "[A](/post/a/) [substantial](/post/substantial/) [wall](/post/wall/) [of](/post/of/) [stone](/post/stone/)"
+2. Characterized [by](/post/by/) [being](/post/being/) [substantial](/post/substantial/) [or](/post/or/) [significant](/post/significant/).
+   - "[A](/post/a/) [substantial](/post/substantial/) [increase](/post/increase/) [in](/post/in/) sales"
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [substantial](/en/post/substantial/) contribution"
-- "[Provide](/en/post/provide/) [substantial](/en/post/substantial/) [evidence](/en/post/evidence/)"
-- "[A](/en/post/a/) [substantial](/en/post/substantial/) [reduction](/en/post/reduction/) [in](/en/post/in/) costs"
-- "[A](/en/post/a/) [substantial](/en/post/substantial/) [amount](/en/post/amount/) [of](/en/post/of/) [work](/en/post/work/)"
+- "[Make](/post/make/) [a](/post/a/) [substantial](/post/substantial/) contribution"
+- "[Provide](/post/provide/) [substantial](/post/substantial/) [evidence](/post/evidence/)"
+- "[A](/post/a/) [substantial](/post/substantial/) [reduction](/post/reduction/) [in](/post/in/) costs"
+- "[A](/post/a/) [substantial](/post/substantial/) [amount](/post/amount/) [of](/post/of/) [work](/post/work/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [house](/en/post/house/) had [several](/en/post/several/) [substantial](/en/post/substantial/) rooms, [each](/en/post/each/) [with](/en/post/with/) [its](/en/post/its/) [own](/en/post/own/) [unique](/en/post/unique/) [character](/en/post/character/)."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [argument](/en/post/argument/) was based [on](/en/post/on/) [substantial](/en/post/substantial/) [research](/en/post/research/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [proposal](/en/post/proposal/) was [a](/en/post/a/) [substantial](/en/post/substantial/) [improvement](/en/post/improvement/) [over](/en/post/over/) [the](/en/post/the/) [previous](/en/post/previous/) [one](/en/post/one/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [house](/post/house/) had [several](/post/several/) [substantial](/post/substantial/) rooms, [each](/post/each/) [with](/post/with/) [its](/post/its/) [own](/post/own/) [unique](/post/unique/) [character](/post/character/)."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [argument](/post/argument/) was based [on](/post/on/) [substantial](/post/substantial/) [research](/post/research/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [proposal](/post/proposal/) was [a](/post/a/) [substantial](/post/substantial/) [improvement](/post/improvement/) [over](/post/over/) [the](/post/the/) [previous](/post/previous/) [one](/post/one/)."
 
 ## Synonyms
-- [Significant](/en/post/significant/)
-- [Considerable](/en/post/considerable/)
-- [Material](/en/post/material/)
+- [Significant](/post/significant/)
+- [Considerable](/post/considerable/)
+- [Material](/post/material/)
 - Hefty
-- [Solid](/en/post/solid/)
-- [Real](/en/post/real/)
-- [Strong](/en/post/strong/)
-- [Prominent](/en/post/prominent/)
-- [Substantial](/en/post/substantial/) [amount](/en/post/amount/)
+- [Solid](/post/solid/)
+- [Real](/post/real/)
+- [Strong](/post/strong/)
+- [Prominent](/post/prominent/)
+- [Substantial](/post/substantial/) [amount](/post/amount/)
 - Sizeable

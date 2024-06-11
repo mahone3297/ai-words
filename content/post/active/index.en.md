@@ -7,43 +7,43 @@ description = '[ˈæktiv] a.活跃的；积极的'
 keywords = ['ai words', 'active']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæktɪv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Active](/en/post/active/)** ([noun](/en/post/noun/)): Refers [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/), [thing](/en/post/thing/), [or](/en/post/or/) [situation](/en/post/situation/) [that](/en/post/that/) is energetic, participating, [or](/en/post/or/) exercising [power](/en/post/power/) [or](/en/post/or/) [influence](/en/post/influence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) children were actively engaged [in](/en/post/in/) [the](/en/post/the/) [game](/en/post/game/)."
-- **[Active](/en/post/active/) [voice](/en/post/voice/)** ([grammar](/en/post/grammar/)): [In](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/) [where](/en/post/where/) [the](/en/post/the/) [subject](/en/post/subject/) performs [the](/en/post/the/) [action](/en/post/action/), [not](/en/post/not/) [the](/en/post/the/) [object](/en/post/object/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [dog](/en/post/dog/) chased [the](/en/post/the/) [cat](/en/post/cat/)."
+### [Noun](/post/noun/)
+- **[Active](/post/active/)** ([noun](/post/noun/)): Refers [to](/post/to/) [a](/post/a/) [person](/post/person/), [thing](/post/thing/), [or](/post/or/) [situation](/post/situation/) [that](/post/that/) is energetic, participating, [or](/post/or/) exercising [power](/post/power/) [or](/post/or/) [influence](/post/influence/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) children were actively engaged [in](/post/in/) [the](/post/the/) [game](/post/game/)."
+- **[Active](/post/active/) [voice](/post/voice/)** ([grammar](/post/grammar/)): [In](/post/in/) [a](/post/a/) [sentence](/post/sentence/) [where](/post/where/) [the](/post/the/) [subject](/post/subject/) performs [the](/post/the/) [action](/post/action/), [not](/post/not/) [the](/post/the/) [object](/post/object/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [dog](/post/dog/) chased [the](/post/the/) [cat](/post/cat/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [be](/en/post/be/) [active](/en/post/active/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) activities, [show](/en/post/show/) initiative, [or](/en/post/or/) [have](/en/post/have/) [a](/en/post/a/) [role](/en/post/role/) [in](/en/post/in/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is an [active](/en/post/active/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) [community](/en/post/community/) [club](/en/post/club/)."
-- **Activate** ([verb](/en/post/verb/)): [To](/en/post/to/) [start](/en/post/start/) functioning [or](/en/post/or/) [become](/en/post/become/) operative. [For](/en/post/for/) [example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) activate [my](/en/post/my/) [new](/en/post/new/) [phone](/en/post/phone/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [be](/post/be/) [active](/post/active/)** ([verb](/post/verb/)): [To](/post/to/) [participate](/post/participate/) [in](/post/in/) activities, [show](/post/show/) initiative, [or](/post/or/) [have](/post/have/) [a](/post/a/) [role](/post/role/) [in](/post/in/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) is an [active](/post/active/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [community](/post/community/) [club](/post/club/)."
+- **Activate** ([verb](/post/verb/)): [To](/post/to/) [start](/post/start/) functioning [or](/post/or/) [become](/post/become/) operative. [For](/post/for/) [example](/post/example/): "I [need](/post/need/) [to](/post/to/) activate [my](/post/my/) [new](/post/new/) [phone](/post/phone/)."
 
-### [Adjective](/en/post/adjective/)
-- Describing [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [dynamic](/en/post/dynamic/), energetic, [or](/en/post/or/) showing [interest](/en/post/interest/) [or](/en/post/or/) involvement. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) is an [active](/en/post/active/) [listener](/en/post/listener/) [during](/en/post/during/) meetings."
-- Describing [a](/en/post/a/) [substance](/en/post/substance/) [that](/en/post/that/) reacts [with](/en/post/with/) others [or](/en/post/or/) is [ready](/en/post/ready/) [to](/en/post/to/) [undergo](/en/post/undergo/) [a](/en/post/a/) [chemical](/en/post/chemical/) [change](/en/post/change/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [active](/en/post/active/) ingredient [in](/en/post/in/) [the](/en/post/the/) [medicine](/en/post/medicine/) helps [reduce](/en/post/reduce/) [pain](/en/post/pain/)."
+### [Adjective](/post/adjective/)
+- Describing [a](/post/a/) [person](/post/person/) [who](/post/who/) is [dynamic](/post/dynamic/), energetic, [or](/post/or/) showing [interest](/post/interest/) [or](/post/or/) involvement. [For](/post/for/) [example](/post/example/): "[He](/post/he/) is an [active](/post/active/) [listener](/post/listener/) [during](/post/during/) meetings."
+- Describing [a](/post/a/) [substance](/post/substance/) [that](/post/that/) reacts [with](/post/with/) others [or](/post/or/) is [ready](/post/ready/) [to](/post/to/) [undergo](/post/undergo/) [a](/post/a/) [chemical](/post/chemical/) [change](/post/change/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [active](/post/active/) ingredient [in](/post/in/) [the](/post/the/) [medicine](/post/medicine/) helps [reduce](/post/reduce/) [pain](/post/pain/)."
 
-### [Adverb](/en/post/adverb/)
-- Describing [how](/en/post/how/) [something](/en/post/something/) is done, [often](/en/post/often/) [with](/en/post/with/) [energy](/en/post/energy/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sang actively, engaging [the](/en/post/the/) [audience](/en/post/audience/)."
+### [Adverb](/post/adverb/)
+- Describing [how](/post/how/) [something](/post/something/) is done, [often](/post/often/) [with](/post/with/) [energy](/post/energy/) [or](/post/or/) [enthusiasm](/post/enthusiasm/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) sang actively, engaging [the](/post/the/) [audience](/post/audience/)."
 
 ## Phrases
-- "[Stay](/en/post/stay/) [active](/en/post/active/)" encourages [regular](/en/post/regular/) [exercise](/en/post/exercise/) [and](/en/post/and/) [physical](/en/post/physical/) [activity](/en/post/activity/).
-- "An inactive lifestyle" refers [to](/en/post/to/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) participation [in](/en/post/in/) activities.
-- "[Active](/en/post/active/) listening" involves fully concentrating [on](/en/post/on/) [what](/en/post/what/) [someone](/en/post/someone/) is saying.
+- "[Stay](/post/stay/) [active](/post/active/)" encourages [regular](/post/regular/) [exercise](/post/exercise/) [and](/post/and/) [physical](/post/physical/) [activity](/post/activity/).
+- "An inactive lifestyle" refers [to](/post/to/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) participation [in](/post/in/) activities.
+- "[Active](/post/active/) listening" involves fully concentrating [on](/post/on/) [what](/post/what/) [someone](/post/someone/) is saying.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's [active](/en/post/active/) employees received [a](/en/post/a/) [special](/en/post/special/) bonus."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) is trying [to](/en/post/to/) [make](/en/post/make/) [his](/en/post/his/) retirement [life](/en/post/life/) [as](/en/post/as/) [active](/en/post/active/) [as](/en/post/as/) [possible](/en/post/possible/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [volcano](/en/post/volcano/) showed signs [of](/en/post/of/) [active](/en/post/active/) lava [flow](/en/post/flow/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) danced actively [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/), filling [the](/en/post/the/) [dance](/en/post/dance/) [floor](/en/post/floor/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) company's [active](/post/active/) employees received [a](/post/a/) [special](/post/special/) bonus."
+- **[Verb](/post/verb/)**: "[He](/post/he/) is trying [to](/post/to/) [make](/post/make/) [his](/post/his/) retirement [life](/post/life/) [as](/post/as/) [active](/post/active/) [as](/post/as/) [possible](/post/possible/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [volcano](/post/volcano/) showed signs [of](/post/of/) [active](/post/active/) lava [flow](/post/flow/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) danced actively [at](/post/at/) [the](/post/the/) [party](/post/party/), filling [the](/post/the/) [dance](/post/dance/) [floor](/post/floor/)."
 
 ## Synonyms
 - Energetic
-- [Dynamic](/en/post/dynamic/)
+- [Dynamic](/post/dynamic/)
 - Engaged
 - Proactive
-- [Vigorous](/en/post/vigorous/)
+- [Vigorous](/post/vigorous/)
 - Resolute
-- [Enthusiastic](/en/post/enthusiastic/)
+- [Enthusiastic](/post/enthusiastic/)
 - Responsive
-- Active-passive ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [voice](/en/post/voice/))
+- Active-passive ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [voice](/post/voice/))

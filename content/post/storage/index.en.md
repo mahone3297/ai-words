@@ -7,30 +7,30 @@ description = '[ˈstɔridʒ] n.贮藏；贮藏量'
 keywords = ['ai words', 'storage']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stɔrɪdʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-    - 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) keeping [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) kept; holding [something](/en/post/something/) [in](/en/post/in/) [reserve](/en/post/reserve/) [or](/en/post/or/) [for](/en/post/for/) [future](/en/post/future/) [use](/en/post/use/). [[Example](/en/post/example/): "[The](/en/post/the/) [storage](/en/post/storage/) [facility](/en/post/facility/) holds [a](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) inventory."]
-    - 2. [A](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [container](/en/post/container/) [where](/en/post/where/) items are stored. [[Example](/en/post/example/): "[The](/en/post/the/) [garage](/en/post/garage/) serves [as](/en/post/as/) [additional](/en/post/additional/) [storage](/en/post/storage/) [space](/en/post/space/)."]
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [keep](/en/post/keep/) [or](/en/post/or/) [retain](/en/post/retain/) [something](/en/post/something/) [for](/en/post/for/) [later](/en/post/later/) [use](/en/post/use/). [[Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [store](/en/post/store/) [these](/en/post/these/) documents securely."]
-- **[Adjective](/en/post/adjective/)**: Designating [or](/en/post/or/) relating [to](/en/post/to/) [the](/en/post/the/) [capacity](/en/post/capacity/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) storing. [[Example](/en/post/example/): "[A](/en/post/a/) high-capacity [storage](/en/post/storage/) [drive](/en/post/drive/)."]
+- **[Noun](/post/noun/)**: 
+    - 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) keeping [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) kept; holding [something](/post/something/) [in](/post/in/) [reserve](/post/reserve/) [or](/post/or/) [for](/post/for/) [future](/post/future/) [use](/post/use/). [[Example](/post/example/): "[The](/post/the/) [storage](/post/storage/) [facility](/post/facility/) holds [a](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) inventory."]
+    - 2. [A](/post/a/) [place](/post/place/) [or](/post/or/) [container](/post/container/) [where](/post/where/) items are stored. [[Example](/post/example/): "[The](/post/the/) [garage](/post/garage/) serves [as](/post/as/) [additional](/post/additional/) [storage](/post/storage/) [space](/post/space/)."]
+- **[Verb](/post/verb/)**: [To](/post/to/) [keep](/post/keep/) [or](/post/or/) [retain](/post/retain/) [something](/post/something/) [for](/post/for/) [later](/post/later/) [use](/post/use/). [[Example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [store](/post/store/) [these](/post/these/) documents securely."]
+- **[Adjective](/post/adjective/)**: Designating [or](/post/or/) relating [to](/post/to/) [the](/post/the/) [capacity](/post/capacity/) [or](/post/or/) [process](/post/process/) [of](/post/of/) storing. [[Example](/post/example/): "[A](/post/a/) high-capacity [storage](/post/storage/) [drive](/post/drive/)."]
 
 ## Phrases
-- "[Storage](/en/post/storage/) [capacity](/en/post/capacity/)" refers [to](/en/post/to/) [the](/en/post/the/) [maximum](/en/post/maximum/) [amount](/en/post/amount/) [of](/en/post/of/) [data](/en/post/data/) [or](/en/post/or/) items [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) held.
-- "[Cloud](/en/post/cloud/) [storage](/en/post/storage/)" is [the](/en/post/the/) [remote](/en/post/remote/) [storage](/en/post/storage/) [of](/en/post/of/) [data](/en/post/data/) [on](/en/post/on/) servers accessed [over](/en/post/over/) [the](/en/post/the/) internet.
-- "[Storage](/en/post/storage/) [unit](/en/post/unit/)" is [a](/en/post/a/) rented [space](/en/post/space/) [for](/en/post/for/) storing [personal](/en/post/personal/) belongings.
+- "[Storage](/post/storage/) [capacity](/post/capacity/)" refers [to](/post/to/) [the](/post/the/) [maximum](/post/maximum/) [amount](/post/amount/) [of](/post/of/) [data](/post/data/) [or](/post/or/) items [that](/post/that/) [can](/post/can/) [be](/post/be/) held.
+- "[Cloud](/post/cloud/) [storage](/post/storage/)" is [the](/post/the/) [remote](/post/remote/) [storage](/post/storage/) [of](/post/of/) [data](/post/data/) [on](/post/on/) servers accessed [over](/post/over/) [the](/post/the/) internet.
+- "[Storage](/post/storage/) [unit](/post/unit/)" is [a](/post/a/) rented [space](/post/space/) [for](/post/for/) storing [personal](/post/personal/) belongings.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "We're looking [into](/en/post/into/) expanding [our](/en/post/our/) [data](/en/post/data/) [storage](/en/post/storage/) solutions."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) has been storing [old](/en/post/old/) files [in](/en/post/in/) an offsite [storage](/en/post/storage/) [facility](/en/post/facility/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) server has ample [storage](/en/post/storage/) [for](/en/post/for/) [all](/en/post/all/) [our](/en/post/our/) projects."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "We're looking [into](/post/into/) expanding [our](/post/our/) [data](/post/data/) [storage](/post/storage/) solutions."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [company](/post/company/) has been storing [old](/post/old/) files [in](/post/in/) an offsite [storage](/post/storage/) [facility](/post/facility/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) server has ample [storage](/post/storage/) [for](/post/for/) [all](/post/all/) [our](/post/our/) projects."
 
 ## Synonyms
 - Holding
 - Keeping
-- [Reserve](/en/post/reserve/)
+- [Reserve](/post/reserve/)
 - Retention
 - Repository
 - Warehouse
@@ -38,8 +38,8 @@ keywords = ['ai words', 'storage']
 - Vault
 
 ## Antonyms
-- [Consumption](/en/post/consumption/)
-- [Disposal](/en/post/disposal/)
+- [Consumption](/post/consumption/)
+- [Disposal](/post/disposal/)
 - Expenditure
-- [Usage](/en/post/usage/)
+- [Usage](/post/usage/)
 - Depletion

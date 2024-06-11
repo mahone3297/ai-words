@@ -7,36 +7,36 @@ description = '[ræŋk] n.排，横行；社会阶层'
 keywords = ['ai words', 'rank']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ræŋk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Rank](/en/post/rank/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [position](/en/post/position/) [or](/en/post/or/) [order](/en/post/order/) [of](/en/post/of/) [importance](/en/post/importance/), [value](/en/post/value/), [or](/en/post/or/) hierarchy [within](/en/post/within/) [a](/en/post/a/) [series](/en/post/series/), [list](/en/post/list/), [or](/en/post/or/) [group](/en/post/group/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [the](/en/post/the/) [army](/en/post/army/), [he](/en/post/he/) held [the](/en/post/the/) [rank](/en/post/rank/) [of](/en/post/of/) [captain](/en/post/captain/)."
-2. **Ranking** ([noun](/en/post/noun/)): [The](/en/post/the/) [system](/en/post/system/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) assigning positions based [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) criterion. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) universities are ranked according [to](/en/post/to/) [their](/en/post/their/) [academic](/en/post/academic/) [reputation](/en/post/reputation/)."
-3. **[Social](/en/post/social/) [rank](/en/post/rank/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [position](/en/post/position/) [or](/en/post/or/) [status](/en/post/status/) [in](/en/post/in/) [a](/en/post/a/) [social](/en/post/social/) hierarchy. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) family's [high](/en/post/high/) [social](/en/post/social/) [rank](/en/post/rank/) allowed [her](/en/post/her/) [access](/en/post/access/) [to](/en/post/to/) exclusive events."
+### [Noun](/post/noun/)
+1. **[Rank](/post/rank/)** ([noun](/post/noun/)): [The](/post/the/) [position](/post/position/) [or](/post/or/) [order](/post/order/) [of](/post/of/) [importance](/post/importance/), [value](/post/value/), [or](/post/or/) hierarchy [within](/post/within/) [a](/post/a/) [series](/post/series/), [list](/post/list/), [or](/post/or/) [group](/post/group/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) [the](/post/the/) [army](/post/army/), [he](/post/he/) held [the](/post/the/) [rank](/post/rank/) [of](/post/of/) [captain](/post/captain/)."
+2. **Ranking** ([noun](/post/noun/)): [The](/post/the/) [system](/post/system/) [or](/post/or/) [process](/post/process/) [of](/post/of/) assigning positions based [on](/post/on/) [a](/post/a/) [particular](/post/particular/) criterion. [For](/post/for/) [example](/post/example/): "[The](/post/the/) universities are ranked according [to](/post/to/) [their](/post/their/) [academic](/post/academic/) [reputation](/post/reputation/)."
+3. **[Social](/post/social/) [rank](/post/rank/)** ([noun](/post/noun/)): [The](/post/the/) [position](/post/position/) [or](/post/or/) [status](/post/status/) [in](/post/in/) [a](/post/a/) [social](/post/social/) hierarchy. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) family's [high](/post/high/) [social](/post/social/) [rank](/post/rank/) allowed [her](/post/her/) [access](/post/access/) [to](/post/to/) exclusive events."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [rank](/en/post/rank/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [place](/en/post/place/) [or](/en/post/or/) [assign](/en/post/assign/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [value](/en/post/value/) [to](/en/post/to/) [something](/en/post/something/) [in](/en/post/in/) [comparison](/en/post/comparison/) [with](/en/post/with/) others. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) ranks [its](/en/post/its/) employees based [on](/en/post/on/) [their](/en/post/their/) [performance](/en/post/performance/)."
-2. **[To](/en/post/to/) [hold](/en/post/hold/) [rank](/en/post/rank/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [specific](/en/post/specific/) [position](/en/post/position/) [or](/en/post/or/) [rank](/en/post/rank/) [in](/en/post/in/) an [organization](/en/post/organization/) [or](/en/post/or/) [group](/en/post/group/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) holds [the](/en/post/the/) [rank](/en/post/rank/) [of](/en/post/of/) [lieutenant](/en/post/lieutenant/) [in](/en/post/in/) [the](/en/post/the/) [navy](/en/post/navy/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [rank](/post/rank/)** ([verb](/post/verb/)): [To](/post/to/) [place](/post/place/) [or](/post/or/) [assign](/post/assign/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [value](/post/value/) [to](/post/to/) [something](/post/something/) [in](/post/in/) [comparison](/post/comparison/) [with](/post/with/) others. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) ranks [its](/post/its/) employees based [on](/post/on/) [their](/post/their/) [performance](/post/performance/)."
+2. **[To](/post/to/) [hold](/post/hold/) [rank](/post/rank/)** ([verb](/post/verb/)): [To](/post/to/) [have](/post/have/) [a](/post/a/) [specific](/post/specific/) [position](/post/position/) [or](/post/or/) [rank](/post/rank/) [in](/post/in/) an [organization](/post/organization/) [or](/post/or/) [group](/post/group/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) holds [the](/post/the/) [rank](/post/rank/) [of](/post/of/) [lieutenant](/post/lieutenant/) [in](/post/in/) [the](/post/the/) [navy](/post/navy/)."
 
 ## Phrases
-- "[Promote](/en/post/promote/) [to](/en/post/to/) [a](/en/post/a/) higher [rank](/en/post/rank/)" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) [someone](/en/post/someone/) [a](/en/post/a/) [better](/en/post/better/) [position](/en/post/position/) [or](/en/post/or/) [title](/en/post/title/).
-- "[Maintain](/en/post/maintain/) [rank](/en/post/rank/)" implies staying [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [position](/en/post/position/) [without](/en/post/without/) [any](/en/post/any/) changes.
-- "Ranks [from](/en/post/from/) [bottom](/en/post/bottom/) [to](/en/post/to/) [top](/en/post/top/)" refers [to](/en/post/to/) [a](/en/post/a/) hierarchical [structure](/en/post/structure/) [with](/en/post/with/) [various](/en/post/various/) levels.
+- "[Promote](/post/promote/) [to](/post/to/) [a](/post/a/) higher [rank](/post/rank/)" [means](/post/means/) [to](/post/to/) [give](/post/give/) [someone](/post/someone/) [a](/post/a/) [better](/post/better/) [position](/post/position/) [or](/post/or/) [title](/post/title/).
+- "[Maintain](/post/maintain/) [rank](/post/rank/)" implies staying [in](/post/in/) [the](/post/the/) [same](/post/same/) [position](/post/position/) [without](/post/without/) [any](/post/any/) changes.
+- "Ranks [from](/post/from/) [bottom](/post/bottom/) [to](/post/to/) [top](/post/top/)" refers [to](/post/to/) [a](/post/a/) hierarchical [structure](/post/structure/) [with](/post/with/) [various](/post/various/) levels.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) was [proud](/en/post/proud/) [of](/en/post/of/) [his](/en/post/his/) [new](/en/post/new/) [rank](/en/post/rank/) [in](/en/post/in/) [the](/en/post/the/) [police](/en/post/police/) [force](/en/post/force/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [several](/en/post/several/) years [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [she](/en/post/she/) [finally](/en/post/finally/) ranked [first](/en/post/first/) [in](/en/post/in/) [her](/en/post/her/) [class](/en/post/class/)."
-- **Interjection**: "[The](/en/post/the/) team's [rank](/en/post/rank/) slipped [after](/en/post/after/) losing [several](/en/post/several/) games [in](/en/post/in/) [a](/en/post/a/) [row](/en/post/row/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) was [proud](/post/proud/) [of](/post/of/) [his](/post/his/) [new](/post/new/) [rank](/post/rank/) [in](/post/in/) [the](/post/the/) [police](/post/police/) [force](/post/force/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [several](/post/several/) years [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [she](/post/she/) [finally](/post/finally/) ranked [first](/post/first/) [in](/post/in/) [her](/post/her/) [class](/post/class/)."
+- **Interjection**: "[The](/post/the/) team's [rank](/post/rank/) slipped [after](/post/after/) losing [several](/post/several/) games [in](/post/in/) [a](/post/a/) [row](/post/row/)."
 
 ## Synonyms
-- [Position](/en/post/position/)
-- [Grade](/en/post/grade/)
+- [Position](/post/position/)
+- [Grade](/post/grade/)
 - Standing
 - Positioning
-- [Order](/en/post/order/)
-- [Sequence](/en/post/sequence/)
+- [Order](/post/order/)
+- [Sequence](/post/sequence/)
 - Tier
-- [Level](/en/post/level/)
-- Positional [status](/en/post/status/)
+- [Level](/post/level/)
+- Positional [status](/post/status/)

@@ -7,30 +7,30 @@ description = '[ˈsʌbəːb] n.郊区，郊外，近郊'
 keywords = ['ai words', 'suburb']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /subˈɜːrb/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) residential [area](/en/post/area/) [that](/en/post/that/) is located [on](/en/post/on/) [the](/en/post/the/) outskirts [of](/en/post/of/) [a](/en/post/a/) [city](/en/post/city/) [or](/en/post/or/) [town](/en/post/town/), typically consisting [of](/en/post/of/) houses [and](/en/post/and/) smaller communities.
-2. [The](/en/post/the/) suburban lifestyle, characterized [by](/en/post/by/) detached houses, [lower](/en/post/lower/) [population](/en/post/population/) [density](/en/post/density/), [and](/en/post/and/) [a](/en/post/a/) quieter [atmosphere](/en/post/atmosphere/) compared [to](/en/post/to/) urban centers.
+### [Noun](/post/noun/)
+1. [A](/post/a/) residential [area](/post/area/) [that](/post/that/) is located [on](/post/on/) [the](/post/the/) outskirts [of](/post/of/) [a](/post/a/) [city](/post/city/) [or](/post/or/) [town](/post/town/), typically consisting [of](/post/of/) houses [and](/post/and/) smaller communities.
+2. [The](/post/the/) suburban lifestyle, characterized [by](/post/by/) detached houses, [lower](/post/lower/) [population](/post/population/) [density](/post/density/), [and](/post/and/) [a](/post/a/) quieter [atmosphere](/post/atmosphere/) compared [to](/post/to/) urban centers.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [live](/en/post/live/) [or](/en/post/or/) [be](/en/post/be/) situated [in](/en/post/in/) [a](/en/post/a/) [suburb](/en/post/suburb/).
-2. [To](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [or](/en/post/or/) [describe](/en/post/describe/) an [area](/en/post/area/) [as](/en/post/as/) suburban.
+### [Verb](/post/verb/)
+1. [To](/post/to/) [live](/post/live/) [or](/post/or/) [be](/post/be/) situated [in](/post/in/) [a](/post/a/) [suburb](/post/suburb/).
+2. [To](/post/to/) [refer](/post/refer/) [to](/post/to/) [or](/post/or/) [describe](/post/describe/) an [area](/post/area/) [as](/post/as/) suburban.
 
 ## Phrases
-- "[Move](/en/post/move/) [to](/en/post/to/) [the](/en/post/the/) suburbs" [means](/en/post/means/) [to](/en/post/to/) relocate [to](/en/post/to/) [a](/en/post/a/) residential [area](/en/post/area/) [outside](/en/post/outside/) [the](/en/post/the/) [city](/en/post/city/) center.
-- "Suburban sprawl" describes uncontrolled [expansion](/en/post/expansion/) [of](/en/post/of/) suburban [development](/en/post/development/).
-- "Suburbanite" is [a](/en/post/a/) [term](/en/post/term/) [for](/en/post/for/) [someone](/en/post/someone/) [who](/en/post/who/) lives [in](/en/post/in/) [the](/en/post/the/) suburbs.
+- "[Move](/post/move/) [to](/post/to/) [the](/post/the/) suburbs" [means](/post/means/) [to](/post/to/) relocate [to](/post/to/) [a](/post/a/) residential [area](/post/area/) [outside](/post/outside/) [the](/post/the/) [city](/post/city/) center.
+- "Suburban sprawl" describes uncontrolled [expansion](/post/expansion/) [of](/post/of/) suburban [development](/post/development/).
+- "Suburbanite" is [a](/post/a/) [term](/post/term/) [for](/post/for/) [someone](/post/someone/) [who](/post/who/) lives [in](/post/in/) [the](/post/the/) suburbs.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Many](/en/post/many/) families [prefer](/en/post/prefer/) [the](/en/post/the/) [quiet](/en/post/quiet/) suburbs [over](/en/post/over/) [the](/en/post/the/) [noisy](/en/post/noisy/) [city](/en/post/city/) [life](/en/post/life/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) years [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/), [they](/en/post/they/) decided [to](/en/post/to/) [move](/en/post/move/) [to](/en/post/to/) [the](/en/post/the/) suburbs [for](/en/post/for/) [more](/en/post/more/) [space](/en/post/space/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [government](/en/post/government/) is trying [to](/en/post/to/) combat suburban sprawl [by](/en/post/by/) promoting [public](/en/post/public/) [transportation](/en/post/transportation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Many](/post/many/) families [prefer](/post/prefer/) [the](/post/the/) [quiet](/post/quiet/) suburbs [over](/post/over/) [the](/post/the/) [noisy](/post/noisy/) [city](/post/city/) [life](/post/life/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) years [in](/post/in/) [the](/post/the/) [city](/post/city/), [they](/post/they/) decided [to](/post/to/) [move](/post/move/) [to](/post/to/) [the](/post/the/) suburbs [for](/post/for/) [more](/post/more/) [space](/post/space/)."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) [government](/post/government/) is trying [to](/post/to/) combat suburban sprawl [by](/post/by/) promoting [public](/post/public/) [transportation](/post/transportation/)."
 
 ## Synonyms
-- [Outer](/en/post/outer/) areas
+- [Outer](/post/outer/) areas
 - Exurbia
 - Suburbia
 - Residential outskirts
@@ -40,6 +40,6 @@ keywords = ['ai words', 'suburb']
 ## Antonyms
 - Urban
 - Downtown
-- [Inner](/en/post/inner/) [city](/en/post/city/)
-- [Central](/en/post/central/) [district](/en/post/district/)
-- Downtown [core](/en/post/core/)
+- [Inner](/post/inner/) [city](/post/city/)
+- [Central](/post/central/) [district](/post/district/)
+- Downtown [core](/post/core/)

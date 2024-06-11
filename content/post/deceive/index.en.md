@@ -7,28 +7,28 @@ description = '[diˈsiːv] vt.欺骗，蒙蔽，行骗'
 keywords = ['ai words', 'deceive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈsiːv/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) intentionally [mislead](/en/post/mislead/) [or](/en/post/or/) [trick](/en/post/trick/) [someone](/en/post/someone/), causing [them](/en/post/them/) [to](/en/post/to/) [believe](/en/post/believe/) [something](/en/post/something/) [that](/en/post/that/) is [false](/en/post/false/) [or](/en/post/or/) misleading. (n. [deceit](/en/post/deceit/))
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) deceiving [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) deceived; deception.
+- **[Verb](/post/verb/)**: [To](/post/to/) intentionally [mislead](/post/mislead/) [or](/post/or/) [trick](/post/trick/) [someone](/post/someone/), causing [them](/post/them/) [to](/post/to/) [believe](/post/believe/) [something](/post/something/) [that](/post/that/) is [false](/post/false/) [or](/post/or/) misleading. (n. [deceit](/post/deceit/))
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) deceiving [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) deceived; deception.
 
 ## Phrases
-- "Deceived [by](/en/post/by/) appearances" implies [being](/en/post/being/) misled [by](/en/post/by/) [how](/en/post/how/) things [appear](/en/post/appear/).
-- "Beware [of](/en/post/of/) [false](/en/post/false/) promises" warns [against](/en/post/against/) [being](/en/post/being/) deceived.
-- "Caught red-handed" describes [being](/en/post/being/) caught [in](/en/post/in/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) deceiving.
+- "Deceived [by](/post/by/) appearances" implies [being](/post/being/) misled [by](/post/by/) [how](/post/how/) things [appear](/post/appear/).
+- "Beware [of](/post/of/) [false](/post/false/) promises" warns [against](/post/against/) [being](/post/being/) deceived.
+- "Caught red-handed" describes [being](/post/being/) caught [in](/post/in/) [the](/post/the/) [act](/post/act/) [of](/post/of/) deceiving.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) deliberately deceived [his](/en/post/his/) friends [about](/en/post/about/) [his](/en/post/his/) whereabouts."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) felt betrayed [after](/en/post/after/) falling [for](/en/post/for/) [his](/en/post/his/) [elaborate](/en/post/elaborate/) deception."
-- **Idiomatic**: "[He](/en/post/he/) was [so](/en/post/so/) [cunning](/en/post/cunning/) [that](/en/post/that/) [he](/en/post/he/) deceived [even](/en/post/even/) [the](/en/post/the/) [most](/en/post/most/) astute detective."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[He](/post/he/) deliberately deceived [his](/post/his/) friends [about](/post/about/) [his](/post/his/) whereabouts."
+- **[Noun](/post/noun/)**: "[She](/post/she/) felt betrayed [after](/post/after/) falling [for](/post/for/) [his](/post/his/) [elaborate](/post/elaborate/) deception."
+- **Idiomatic**: "[He](/post/he/) was [so](/post/so/) [cunning](/post/cunning/) [that](/post/that/) [he](/post/he/) deceived [even](/post/even/) [the](/post/the/) [most](/post/most/) astute detective."
 
 ## Synonyms
-- [Mislead](/en/post/mislead/)
-- [Trick](/en/post/trick/)
-- [Lie](/en/post/lie/)
-- [Fool](/en/post/fool/)
+- [Mislead](/post/mislead/)
+- [Trick](/post/trick/)
+- [Lie](/post/lie/)
+- [Fool](/post/fool/)
 - Delude
 - Manipulate
 - Misrepresent
@@ -37,13 +37,13 @@ keywords = ['ai words', 'deceive']
 
 ## Antonyms
 - Truthful
-- [Honest](/en/post/honest/)
-- [Transparent](/en/post/transparent/)
-- [Open](/en/post/open/)
+- [Honest](/post/honest/)
+- [Transparent](/post/transparent/)
+- [Open](/post/open/)
 - Candid
 - Unadulterated
 
-## [Usage](/en/post/usage/)
-1. [She](/en/post/she/) tried [to](/en/post/to/) [deceive](/en/post/deceive/) [her](/en/post/her/) [boss](/en/post/boss/) [about](/en/post/about/) [her](/en/post/her/) [work](/en/post/work/) [progress](/en/post/progress/), [but](/en/post/but/) [the](/en/post/the/) [truth](/en/post/truth/) [eventually](/en/post/eventually/) came [out](/en/post/out/).
-2. [He](/en/post/he/) was devastated [when](/en/post/when/) [he](/en/post/he/) discovered [his](/en/post/his/) [partner](/en/post/partner/) had deceived [him](/en/post/him/) [about](/en/post/about/) [their](/en/post/their/) finances.
-3. [The](/en/post/the/) magician's deceptive [hand](/en/post/hand/) movements made [the](/en/post/the/) [trick](/en/post/trick/) [seem](/en/post/seem/) effortless.
+## [Usage](/post/usage/)
+1. [She](/post/she/) tried [to](/post/to/) [deceive](/post/deceive/) [her](/post/her/) [boss](/post/boss/) [about](/post/about/) [her](/post/her/) [work](/post/work/) [progress](/post/progress/), [but](/post/but/) [the](/post/the/) [truth](/post/truth/) [eventually](/post/eventually/) came [out](/post/out/).
+2. [He](/post/he/) was devastated [when](/post/when/) [he](/post/he/) discovered [his](/post/his/) [partner](/post/partner/) had deceived [him](/post/him/) [about](/post/about/) [their](/post/their/) finances.
+3. [The](/post/the/) magician's deceptive [hand](/post/hand/) movements made [the](/post/the/) [trick](/post/trick/) [seem](/post/seem/) effortless.

@@ -7,32 +7,32 @@ description = '[məˈtjuə] a.成熟的 vt.使成熟'
 keywords = ['ai words', 'mature']
 +++
 
-## [Word](/en/post/word/): [Mature](/en/post/mature/)
+## [Word](/post/word/): [Mature](/post/mature/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmætʃuər/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/) (adj)**: Having reached [full](/en/post/full/) [natural](/en/post/natural/) [growth](/en/post/growth/) [or](/en/post/or/) [development](/en/post/development/); fully grown [or](/en/post/or/) developed. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [mature](/en/post/mature/) [oak](/en/post/oak/) [tree](/en/post/tree/) provides [shade](/en/post/shade/) [for](/en/post/for/) [the](/en/post/the/) [entire](/en/post/entire/) [garden](/en/post/garden/)."
-  - [Also](/en/post/also/) refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) has reached [mental](/en/post/mental/) [or](/en/post/or/) [emotional](/en/post/emotional/) adulthood, displaying characteristics [such](/en/post/such/) [as](/en/post/as/) [responsibility](/en/post/responsibility/), self-control, [and](/en/post/and/) [wisdom](/en/post/wisdom/). [Example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [very](/en/post/very/) [mature](/en/post/mature/) [attitude](/en/post/attitude/) towards life's challenges."
-  - [In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [finance](/en/post/finance/), [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) having reached [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) [period](/en/post/period/) [before](/en/post/before/) [payment](/en/post/payment/) is [due](/en/post/due/), [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [mature](/en/post/mature/) [bond](/en/post/bond/) [or](/en/post/or/) [loan](/en/post/loan/).
+- **[Adjective](/post/adjective/) (adj)**: Having reached [full](/post/full/) [natural](/post/natural/) [growth](/post/growth/) [or](/post/or/) [development](/post/development/); fully grown [or](/post/or/) developed. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [mature](/post/mature/) [oak](/post/oak/) [tree](/post/tree/) provides [shade](/post/shade/) [for](/post/for/) [the](/post/the/) [entire](/post/entire/) [garden](/post/garden/)."
+  - [Also](/post/also/) refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) has reached [mental](/post/mental/) [or](/post/or/) [emotional](/post/emotional/) adulthood, displaying characteristics [such](/post/such/) [as](/post/as/) [responsibility](/post/responsibility/), self-control, [and](/post/and/) [wisdom](/post/wisdom/). [Example](/post/example/): "[She](/post/she/) has [a](/post/a/) [very](/post/very/) [mature](/post/mature/) [attitude](/post/attitude/) towards life's challenges."
+  - [In](/post/in/) [the](/post/the/) context [of](/post/of/) [finance](/post/finance/), [it](/post/it/) [can](/post/can/) [mean](/post/mean/) having reached [the](/post/the/) [end](/post/end/) [of](/post/of/) [a](/post/a/) [period](/post/period/) [before](/post/before/) [payment](/post/payment/) is [due](/post/due/), [as](/post/as/) [in](/post/in/) [a](/post/a/) [mature](/post/mature/) [bond](/post/bond/) [or](/post/or/) [loan](/post/loan/).
   
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [develop](/en/post/develop/) [or](/en/post/or/) [grow](/en/post/grow/) [to](/en/post/to/) [full](/en/post/full/) [size](/en/post/size/) [or](/en/post/or/) maturity. [Example](/en/post/example/): "[The](/en/post/the/) [wine](/en/post/wine/) [will](/en/post/will/) [mature](/en/post/mature/) [over](/en/post/over/) [the](/en/post/the/) [next](/en/post/next/) [several](/en/post/several/) years."
-  - Figuratively, [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [become](/en/post/become/) fully developed mentally [or](/en/post/or/) emotionally. [Example](/en/post/example/): "[Through](/en/post/through/) [his](/en/post/his/) experiences, [he](/en/post/he/) matured [greatly](/en/post/greatly/) [in](/en/post/in/) [his](/en/post/his/) [understanding](/en/post/understanding/) [of](/en/post/of/) [the](/en/post/the/) [world](/en/post/world/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [develop](/post/develop/) [or](/post/or/) [grow](/post/grow/) [to](/post/to/) [full](/post/full/) [size](/post/size/) [or](/post/or/) maturity. [Example](/post/example/): "[The](/post/the/) [wine](/post/wine/) [will](/post/will/) [mature](/post/mature/) [over](/post/over/) [the](/post/the/) [next](/post/next/) [several](/post/several/) years."
+  - Figuratively, [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [become](/post/become/) fully developed mentally [or](/post/or/) emotionally. [Example](/post/example/): "[Through](/post/through/) [his](/post/his/) experiences, [he](/post/he/) matured [greatly](/post/greatly/) [in](/post/in/) [his](/post/his/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [world](/post/world/)."
 
 ## Phrases
-- "[Mature](/en/post/mature/) [age](/en/post/age/)": Refers [to](/en/post/to/) an older [age](/en/post/age/) [group](/en/post/group/), typically [those](/en/post/those/) [past](/en/post/past/) adolescence [or](/en/post/or/) [young](/en/post/young/) adulthood.
-- "[Mature](/en/post/mature/) [beyond](/en/post/beyond/) [their](/en/post/their/) years": Describes [someone](/en/post/someone/) [who](/en/post/who/) exhibits qualities [or](/en/post/or/) behaviors [that](/en/post/that/) are [usually](/en/post/usually/) associated [with](/en/post/with/) [people](/en/post/people/) [much](/en/post/much/) older [than](/en/post/than/) [them](/en/post/them/).
-- "[Mature](/en/post/mature/) thinking": Indicates [a](/en/post/a/) [thought](/en/post/thought/) [process](/en/post/process/) characterized [by](/en/post/by/) [depth](/en/post/depth/), prudence, [and](/en/post/and/) [balance](/en/post/balance/).
+- "[Mature](/post/mature/) [age](/post/age/)": Refers [to](/post/to/) an older [age](/post/age/) [group](/post/group/), typically [those](/post/those/) [past](/post/past/) adolescence [or](/post/or/) [young](/post/young/) adulthood.
+- "[Mature](/post/mature/) [beyond](/post/beyond/) [their](/post/their/) years": Describes [someone](/post/someone/) [who](/post/who/) exhibits qualities [or](/post/or/) behaviors [that](/post/that/) are [usually](/post/usually/) associated [with](/post/with/) [people](/post/people/) [much](/post/much/) older [than](/post/than/) [them](/post/them/).
+- "[Mature](/post/mature/) thinking": Indicates [a](/post/a/) [thought](/post/thought/) [process](/post/process/) characterized [by](/post/by/) [depth](/post/depth/), prudence, [and](/post/and/) [balance](/post/balance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Only](/en/post/only/) [mature](/en/post/mature/) audiences are allowed [to](/en/post/to/) [watch](/en/post/watch/) [this](/en/post/this/) [film](/en/post/film/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) graphic [content](/en/post/content/)."
-- **[Verb](/en/post/verb/)**: "[It](/en/post/it/) takes [time](/en/post/time/) [and](/en/post/and/) [patience](/en/post/patience/) [for](/en/post/for/) [cheese](/en/post/cheese/) [to](/en/post/to/) [mature](/en/post/mature/) [and](/en/post/and/) [reach](/en/post/reach/) [its](/en/post/its/) [peak](/en/post/peak/) flavor."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Only](/post/only/) [mature](/post/mature/) audiences are allowed [to](/post/to/) [watch](/post/watch/) [this](/post/this/) [film](/post/film/) [due](/post/due/) [to](/post/to/) [its](/post/its/) graphic [content](/post/content/)."
+- **[Verb](/post/verb/)**: "[It](/post/it/) takes [time](/post/time/) [and](/post/and/) [patience](/post/patience/) [for](/post/for/) [cheese](/post/cheese/) [to](/post/to/) [mature](/post/mature/) [and](/post/and/) [reach](/post/reach/) [its](/post/its/) [peak](/post/peak/) flavor."
 
 ## Synonyms
-- [Adult](/en/post/adult/) (adj)
+- [Adult](/post/adult/) (adj)
 - Fully grown (adj)
 - Developed (adj)
 - Ripened (v)
-- Seasoned (adj, [in](/en/post/in/) [some](/en/post/some/) contexts)
+- Seasoned (adj, [in](/post/in/) [some](/post/some/) contexts)
 - Experienced (adj)

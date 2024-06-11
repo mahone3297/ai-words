@@ -11,24 +11,24 @@ keywords = ['ai words', 'straw']
 /strɔː/
 
 ## 释义
-- **名词**: 1. 稻草，谷物脱粒后的茎秆，常用于动物饲料或制作工艺品。例如: "[The](/post/the/) [farmer](/post/farmer/) [used](/post/used/) [straw](/post/straw/) [to](/post/to/) [bed](/post/bed/) [his](/post/his/) horses."
-    2. 吸管，用于饮用液体的小细管。例如: "[She](/post/she/) sipped [her](/post/her/) [drink](/post/drink/) [through](/post/through/) [a](/post/a/) [straw](/post/straw/)."
+- **名词**: 1. 稻草，谷物脱粒后的茎秆，常用于动物饲料或制作工艺品。例如: "[The](/zh/post/the/) [farmer](/zh/post/farmer/) [used](/zh/post/used/) [straw](/zh/post/straw/) [to](/zh/post/to/) [bed](/zh/post/bed/) [his](/zh/post/his/) horses."
+    2. 吸管，用于饮用液体的小细管。例如: "[She](/zh/post/she/) sipped [her](/zh/post/her/) [drink](/zh/post/drink/) [through](/zh/post/through/) [a](/zh/post/a/) [straw](/zh/post/straw/)."
 
-- **动词**: 用稻草吸（液体）。例如: "[He](/post/he/) straws [his](/post/his/) milkshake [through](/post/through/) [a](/post/a/) [long](/post/long/) [straw](/post/straw/)."
+- **动词**: 用稻草吸（液体）。例如: "[He](/zh/post/he/) straws [his](/zh/post/his/) milkshake [through](/zh/post/through/) [a](/zh/post/a/) [long](/zh/post/long/) [straw](/zh/post/straw/)."
 
 ## 短语
-- "[straw](/post/straw/) [man](/post/man/)" 一个虚构的、弱小的对手，用来在辩论中容易击败。
-- "[draw](/post/draw/) [the](/post/the/) [short](/post/short/) [straw](/post/straw/)" 被抽到较不利的一根（稻草），比喻不幸被选中做不受欢迎的任务。
+- "[straw](/zh/post/straw/) [man](/zh/post/man/)" 一个虚构的、弱小的对手，用来在辩论中容易击败。
+- "[draw](/zh/post/draw/) [the](/zh/post/the/) [short](/zh/post/short/) [straw](/zh/post/straw/)" 被抽到较不利的一根（稻草），比喻不幸被选中做不受欢迎的任务。
 
 ## 例句
-- 名词: "[The](/post/the/) cows were happily munching [on](/post/on/) [the](/post/the/) [fresh](/post/fresh/) [straw](/post/straw/) [in](/post/in/) [their](/post/their/) [barn](/post/barn/)."
-- 动词: "[The](/post/the/) [child](/post/child/) [learned](/post/learned/) [to](/post/to/) [straw](/post/straw/) [his](/post/his/) [juice](/post/juice/) [without](/post/without/) making [a](/post/a/) [mess](/post/mess/)."
+- 名词: "[The](/zh/post/the/) cows were happily munching [on](/zh/post/on/) [the](/zh/post/the/) [fresh](/zh/post/fresh/) [straw](/zh/post/straw/) [in](/zh/post/in/) [their](/zh/post/their/) [barn](/zh/post/barn/)."
+- 动词: "[The](/zh/post/the/) [child](/zh/post/child/) [learned](/zh/post/learned/) [to](/zh/post/to/) [straw](/zh/post/straw/) [his](/zh/post/his/) [juice](/zh/post/juice/) [without](/zh/post/without/) making [a](/zh/post/a/) [mess](/zh/post/mess/)."
 
 ## 同义词
 - 吸管: 
-    - drinking [tube](/post/tube/)
-    - [paper](/post/paper/) [tube](/post/tube/)
+    - drinking [tube](/zh/post/tube/)
+    - [paper](/zh/post/paper/) [tube](/zh/post/tube/)
 - 稻草:
-    - [hay](/post/hay/)
+    - [hay](/zh/post/hay/)
     - stubble
-    - [reed](/post/reed/) (在某些语境下)
+    - [reed](/zh/post/reed/) (在某些语境下)

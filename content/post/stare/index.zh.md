@@ -11,20 +11,20 @@ keywords = ['ai words', 'stare']
 /stɛər/
 
 ## 释义
-- **动词**: 直视，凝视。例如: "[He](/post/he/) stared [at](/post/at/) [the](/post/the/) [painting](/post/painting/) [in](/post/in/) amazement."
-- **名词**: 凝视，盯着看的行为。例如: "[Her](/post/her/) [stare](/post/stare/) was [so](/post/so/) [intense](/post/intense/) [that](/post/that/) [it](/post/it/) made [him](/post/him/) [uncomfortable](/post/uncomfortable/)."
+- **动词**: 直视，凝视。例如: "[He](/zh/post/he/) stared [at](/zh/post/at/) [the](/zh/post/the/) [painting](/zh/post/painting/) [in](/zh/post/in/) amazement."
+- **名词**: 凝视，盯着看的行为。例如: "[Her](/zh/post/her/) [stare](/zh/post/stare/) was [so](/zh/post/so/) [intense](/zh/post/intense/) [that](/zh/post/that/) [it](/zh/post/it/) made [him](/zh/post/him/) [uncomfortable](/zh/post/uncomfortable/)."
 
 ## 短语
-- "[stare](/post/stare/) [in](/post/in/) disbelief" 意为难以置信地盯着看。
-- "[stare](/post/stare/) [someone](/post/someone/) [down](/post/down/)" 表示用眼神威慑或挑战对方。
+- "[stare](/zh/post/stare/) [in](/zh/post/in/) disbelief" 意为难以置信地盯着看。
+- "[stare](/zh/post/stare/) [someone](/zh/post/someone/) [down](/zh/post/down/)" 表示用眼神威慑或挑战对方。
 
 ## 例句
-- 动词: "[She](/post/she/) stared [at](/post/at/) [the](/post/the/) [stranger](/post/stranger/) [for](/post/for/) [a](/post/a/) [long](/post/long/) [moment](/post/moment/) [before](/post/before/) speaking."
-- 名词: "[His](/post/his/) [stare](/post/stare/) was [so](/post/so/) fixed [that](/post/that/) [it](/post/it/) seemed [he](/post/he/) hadn't blinked [all](/post/all/) [day](/post/day/)."
+- 动词: "[She](/zh/post/she/) stared [at](/zh/post/at/) [the](/zh/post/the/) [stranger](/zh/post/stranger/) [for](/zh/post/for/) [a](/zh/post/a/) [long](/zh/post/long/) [moment](/zh/post/moment/) [before](/zh/post/before/) speaking."
+- 名词: "[His](/zh/post/his/) [stare](/zh/post/stare/) was [so](/zh/post/so/) fixed [that](/zh/post/that/) [it](/zh/post/it/) seemed [he](/zh/post/he/) hadn't blinked [all](/zh/post/all/) [day](/zh/post/day/)."
 
 ## 同义词
-- [gaze](/post/gaze/)
-- [look](/post/look/)
-- [fix](/post/fix/) one's eyes [on](/post/on/)
-- [regard](/post/regard/)
+- [gaze](/zh/post/gaze/)
+- [look](/zh/post/look/)
+- [fix](/zh/post/fix/) one's eyes [on](/zh/post/on/)
+- [regard](/zh/post/regard/)
 - peer

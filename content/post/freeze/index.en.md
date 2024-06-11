@@ -7,32 +7,32 @@ description = '[friːz] vi.冻；结冻 vt.使结冰'
 keywords = ['ai words', 'freeze']
 +++
 
-## [Word](/en/post/word/): [Freeze](/en/post/freeze/)
+## [Word](/post/word/): [Freeze](/post/freeze/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /friːz/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [change](/en/post/change/) [from](/en/post/from/) [a](/en/post/a/) [liquid](/en/post/liquid/) [or](/en/post/or/) [a](/en/post/a/) [gas](/en/post/gas/) [to](/en/post/to/) [a](/en/post/a/) [solid](/en/post/solid/) [by](/en/post/by/) reducing [the](/en/post/the/) [temperature](/en/post/temperature/) [below](/en/post/below/) [its](/en/post/its/) freezing [point](/en/post/point/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [water](/en/post/water/) [in](/en/post/in/) [the](/en/post/the/) [pond](/en/post/pond/) froze [overnight](/en/post/overnight/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [indicate](/en/post/indicate/) stopping [or](/en/post/or/) halting [something](/en/post/something/) [suddenly](/en/post/suddenly/) [and](/en/post/and/) [completely](/en/post/completely/): "[Time](/en/post/time/) seemed [to](/en/post/to/) [freeze](/en/post/freeze/) [when](/en/post/when/) [they](/en/post/they/) heard [the](/en/post/the/) [news](/en/post/news/)."
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) frozen [or](/en/post/or/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) becoming frozen. [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) was [a](/en/post/a/) [severe](/en/post/severe/) [freeze](/en/post/freeze/) [last](/en/post/last/) [night](/en/post/night/) [that](/en/post/that/) damaged [many](/en/post/many/) crops."
-  - [As](/en/post/as/) [a](/en/post/a/) colloquial [term](/en/post/term/): "Let's [have](/en/post/have/) [a](/en/post/a/) [freeze](/en/post/freeze/) [on](/en/post/on/) hiring [new](/en/post/new/) employees [until](/en/post/until/) [further](/en/post/further/) [notice](/en/post/notice/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [change](/post/change/) [from](/post/from/) [a](/post/a/) [liquid](/post/liquid/) [or](/post/or/) [a](/post/a/) [gas](/post/gas/) [to](/post/to/) [a](/post/a/) [solid](/post/solid/) [by](/post/by/) reducing [the](/post/the/) [temperature](/post/temperature/) [below](/post/below/) [its](/post/its/) freezing [point](/post/point/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [water](/post/water/) [in](/post/in/) [the](/post/the/) [pond](/post/pond/) froze [overnight](/post/overnight/)."
+  - [Also](/post/also/) [used](/post/used/) metaphorically [to](/post/to/) [indicate](/post/indicate/) stopping [or](/post/or/) halting [something](/post/something/) [suddenly](/post/suddenly/) [and](/post/and/) [completely](/post/completely/): "[Time](/post/time/) seemed [to](/post/to/) [freeze](/post/freeze/) [when](/post/when/) [they](/post/they/) heard [the](/post/the/) [news](/post/news/)."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) frozen [or](/post/or/) [the](/post/the/) [process](/post/process/) [of](/post/of/) becoming frozen. [For](/post/for/) [example](/post/example/): "[There](/post/there/) was [a](/post/a/) [severe](/post/severe/) [freeze](/post/freeze/) [last](/post/last/) [night](/post/night/) [that](/post/that/) damaged [many](/post/many/) crops."
+  - [As](/post/as/) [a](/post/a/) colloquial [term](/post/term/): "Let's [have](/post/have/) [a](/post/a/) [freeze](/post/freeze/) [on](/post/on/) hiring [new](/post/new/) employees [until](/post/until/) [further](/post/further/) [notice](/post/notice/)."
 
 ## Phrases
-- "[To](/en/post/to/) [put](/en/post/put/) [something](/en/post/something/) [on](/en/post/on/) [ice](/en/post/ice/)" [means](/en/post/means/) [to](/en/post/to/) [postpone](/en/post/postpone/) [or](/en/post/or/) [delay](/en/post/delay/) [something](/en/post/something/) indefinitely, [often](/en/post/often/) using '[freeze](/en/post/freeze/)' metaphorically.
-- "[Freeze](/en/post/freeze/) [frame](/en/post/frame/)" refers [to](/en/post/to/) [a](/en/post/a/) [still](/en/post/still/) [image](/en/post/image/) taken [from](/en/post/from/) [a](/en/post/a/) [video](/en/post/video/) [or](/en/post/or/) [film](/en/post/film/), [where](/en/post/where/) [all](/en/post/all/) [motion](/en/post/motion/) appears frozen.
-- "[To](/en/post/to/) [freeze](/en/post/freeze/) [up](/en/post/up/)" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [become](/en/post/become/) immobilized [with](/en/post/with/) [fear](/en/post/fear/) [or](/en/post/or/) panic, [or](/en/post/or/) [for](/en/post/for/) machinery [to](/en/post/to/) [stop](/en/post/stop/) functioning [due](/en/post/due/) [to](/en/post/to/) [extreme](/en/post/extreme/) [cold](/en/post/cold/) [or](/en/post/or/) malfunction.
+- "[To](/post/to/) [put](/post/put/) [something](/post/something/) [on](/post/on/) [ice](/post/ice/)" [means](/post/means/) [to](/post/to/) [postpone](/post/postpone/) [or](/post/or/) [delay](/post/delay/) [something](/post/something/) indefinitely, [often](/post/often/) using '[freeze](/post/freeze/)' metaphorically.
+- "[Freeze](/post/freeze/) [frame](/post/frame/)" refers [to](/post/to/) [a](/post/a/) [still](/post/still/) [image](/post/image/) taken [from](/post/from/) [a](/post/a/) [video](/post/video/) [or](/post/or/) [film](/post/film/), [where](/post/where/) [all](/post/all/) [motion](/post/motion/) appears frozen.
+- "[To](/post/to/) [freeze](/post/freeze/) [up](/post/up/)" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [become](/post/become/) immobilized [with](/post/with/) [fear](/post/fear/) [or](/post/or/) panic, [or](/post/or/) [for](/post/for/) machinery [to](/post/to/) [stop](/post/stop/) functioning [due](/post/due/) [to](/post/to/) [extreme](/post/extreme/) [cold](/post/cold/) [or](/post/or/) malfunction.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I accidentally [left](/en/post/left/) [the](/en/post/the/) [milk](/en/post/milk/) [out](/en/post/out/), [and](/en/post/and/) [it](/en/post/it/) froze [solid](/en/post/solid/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sudden](/en/post/sudden/) [freeze](/en/post/freeze/) caught farmers unprepared, causing [significant](/en/post/significant/) losses."
-- **Metaphorical [usage](/en/post/usage/)**: "[When](/en/post/when/) [he](/en/post/he/) [saw](/en/post/saw/) [the](/en/post/the/) [police](/en/post/police/) [car](/en/post/car/) [behind](/en/post/behind/) [him](/en/post/him/), [his](/en/post/his/) [heart](/en/post/heart/) froze [in](/en/post/in/) [terror](/en/post/terror/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I accidentally [left](/post/left/) [the](/post/the/) [milk](/post/milk/) [out](/post/out/), [and](/post/and/) [it](/post/it/) froze [solid](/post/solid/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sudden](/post/sudden/) [freeze](/post/freeze/) caught farmers unprepared, causing [significant](/post/significant/) losses."
+- **Metaphorical [usage](/post/usage/)**: "[When](/post/when/) [he](/post/he/) [saw](/post/saw/) [the](/post/the/) [police](/post/police/) [car](/post/car/) [behind](/post/behind/) [him](/post/him/), [his](/post/his/) [heart](/post/heart/) froze [in](/post/in/) [terror](/post/terror/)."
 
 ## Synonyms
 - Solidify
-- [Chill](/en/post/chill/)
-- [Cool](/en/post/cool/) [down](/en/post/down/)
+- [Chill](/post/chill/)
+- [Cool](/post/cool/) [down](/post/down/)
 - Congeal
 - Icify
-- Petrify ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/))
-- [Halt](/en/post/halt/) ([for](/en/post/for/) [the](/en/post/the/) metaphorical [sense](/en/post/sense/))
+- Petrify ([in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/))
+- [Halt](/post/halt/) ([for](/post/for/) [the](/post/the/) metaphorical [sense](/post/sense/))

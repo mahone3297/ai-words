@@ -7,37 +7,37 @@ description = '[iˈmens] a.巨大的；极好的'
 keywords = ['ai words', 'immense']
 +++
 
-## [Word](/en/post/word/): [Immense](/en/post/immense/)
+## [Word](/post/word/): [Immense](/post/immense/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈmɛns/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Extremely](/en/post/extremely/) [large](/en/post/large/) [or](/en/post/or/) [great](/en/post/great/) [in](/en/post/in/) [size](/en/post/size/), [degree](/en/post/degree/), [or](/en/post/or/) [intensity](/en/post/intensity/); [enormous](/en/post/enormous/), [vast](/en/post/vast/).
+- **[Adjective](/post/adjective/)**: [Extremely](/post/extremely/) [large](/post/large/) [or](/post/or/) [great](/post/great/) [in](/post/in/) [size](/post/size/), [degree](/post/degree/), [or](/post/or/) [intensity](/post/intensity/); [enormous](/post/enormous/), [vast](/post/vast/).
 
 ### Examples
-- **[Size](/en/post/size/)**: "[The](/en/post/the/) [ship](/en/post/ship/) was [of](/en/post/of/) [immense](/en/post/immense/) proportions."
-- **[Degree](/en/post/degree/)**: "[She](/en/post/she/) felt an [immense](/en/post/immense/) [relief](/en/post/relief/) [after](/en/post/after/) hearing [the](/en/post/the/) [good](/en/post/good/) [news](/en/post/news/)."
-- **[Intensity](/en/post/intensity/)**: "[The](/en/post/the/) [painting](/en/post/painting/) evoked [immense](/en/post/immense/) [emotion](/en/post/emotion/) [in](/en/post/in/) [its](/en/post/its/) viewers."
+- **[Size](/post/size/)**: "[The](/post/the/) [ship](/post/ship/) was [of](/post/of/) [immense](/post/immense/) proportions."
+- **[Degree](/post/degree/)**: "[She](/post/she/) felt an [immense](/post/immense/) [relief](/post/relief/) [after](/post/after/) hearing [the](/post/the/) [good](/post/good/) [news](/post/news/)."
+- **[Intensity](/post/intensity/)**: "[The](/post/the/) [painting](/post/painting/) evoked [immense](/post/immense/) [emotion](/post/emotion/) [in](/post/in/) [its](/post/its/) viewers."
 
 ## Phrases
-- "[Immense](/en/post/immense/) [pressure](/en/post/pressure/)": Refers [to](/en/post/to/) [a](/en/post/a/) [very](/en/post/very/) [strong](/en/post/strong/) [or](/en/post/or/) overwhelming [amount](/en/post/amount/) [of](/en/post/of/) [stress](/en/post/stress/) [or](/en/post/or/) [demand](/en/post/demand/).
-- "[Immense](/en/post/immense/) popularity": Indicates [that](/en/post/that/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) is [extremely](/en/post/extremely/) well-liked [or](/en/post/or/) admired [by](/en/post/by/) [many](/en/post/many/) [people](/en/post/people/).
-- "[Of](/en/post/of/) [immense](/en/post/immense/) [importance](/en/post/importance/)": Denotes [something](/en/post/something/) [that](/en/post/that/) is critically [significant](/en/post/significant/) [or](/en/post/or/) [essential](/en/post/essential/).
+- "[Immense](/post/immense/) [pressure](/post/pressure/)": Refers [to](/post/to/) [a](/post/a/) [very](/post/very/) [strong](/post/strong/) [or](/post/or/) overwhelming [amount](/post/amount/) [of](/post/of/) [stress](/post/stress/) [or](/post/or/) [demand](/post/demand/).
+- "[Immense](/post/immense/) popularity": Indicates [that](/post/that/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) is [extremely](/post/extremely/) well-liked [or](/post/or/) admired [by](/post/by/) [many](/post/many/) [people](/post/people/).
+- "[Of](/post/of/) [immense](/post/immense/) [importance](/post/importance/)": Denotes [something](/post/something/) [that](/post/that/) is critically [significant](/post/significant/) [or](/post/or/) [essential](/post/essential/).
 
-## [Example](/en/post/example/) Sentences
-- [Adjective](/en/post/adjective/): "[The](/en/post/the/) Amazon rainforest covers an [immense](/en/post/immense/) [area](/en/post/area/), teeming [with](/en/post/with/) biodiversity."
-- "[The](/en/post/the/) [task](/en/post/task/) [ahead](/en/post/ahead/) [of](/en/post/of/) [us](/en/post/us/) is [immense](/en/post/immense/), [but](/en/post/but/) we're determined [to](/en/post/to/) [succeed](/en/post/succeed/)."
-- "[His](/en/post/his/) contribution [to](/en/post/to/) [science](/en/post/science/) has been [immense](/en/post/immense/), shaping [our](/en/post/our/) [understanding](/en/post/understanding/) [of](/en/post/of/) [the](/en/post/the/) [universe](/en/post/universe/)."
+## [Example](/post/example/) Sentences
+- [Adjective](/post/adjective/): "[The](/post/the/) Amazon rainforest covers an [immense](/post/immense/) [area](/post/area/), teeming [with](/post/with/) biodiversity."
+- "[The](/post/the/) [task](/post/task/) [ahead](/post/ahead/) [of](/post/of/) [us](/post/us/) is [immense](/post/immense/), [but](/post/but/) we're determined [to](/post/to/) [succeed](/post/succeed/)."
+- "[His](/post/his/) contribution [to](/post/to/) [science](/post/science/) has been [immense](/post/immense/), shaping [our](/post/our/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [universe](/post/universe/)."
 
 ## Synonyms
-- [Enormous](/en/post/enormous/)
-- [Vast](/en/post/vast/)
-- [Huge](/en/post/huge/)
+- [Enormous](/post/enormous/)
+- [Vast](/post/vast/)
+- [Huge](/post/huge/)
 - Colossal
 - Gigantic
 - Monumental
-- [Tremendous](/en/post/tremendous/)
+- [Tremendous](/post/tremendous/)
 - Prodigious
 - Unparalleled
 - Boundless

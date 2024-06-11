@@ -7,25 +7,25 @@ description = '[ˈməːdərə(r)] n.杀人犯，凶手'
 keywords = ['ai words', 'murderer']
 +++
 
-## [Word](/en/post/word/): [Murderer](/en/post/murderer/)
+## [Word](/post/word/): [Murderer](/post/murderer/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɜːrdərər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) unlawfully kills [another](/en/post/another/), [especially](/en/post/especially/) [with](/en/post/with/) premeditation [or](/en/post/or/) malice aforethought. 
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) unlawfully kills [another](/post/another/), [especially](/post/especially/) [with](/post/with/) premeditation [or](/post/or/) malice aforethought. 
 
 ### Examples
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [police](/en/post/police/) [finally](/en/post/finally/) apprehended [the](/en/post/the/) serial [murderer](/en/post/murderer/) [after](/en/post/after/) months [of](/en/post/of/) [investigation](/en/post/investigation/)."
-- "[In](/en/post/in/) [the](/en/post/the/) [novel](/en/post/novel/), [the](/en/post/the/) protagonist's [journey](/en/post/journey/) is [about](/en/post/about/) hunting [down](/en/post/down/) [the](/en/post/the/) [murderer](/en/post/murderer/) [of](/en/post/of/) [his](/en/post/his/) [family](/en/post/family/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [police](/post/police/) [finally](/post/finally/) apprehended [the](/post/the/) serial [murderer](/post/murderer/) [after](/post/after/) months [of](/post/of/) [investigation](/post/investigation/)."
+- "[In](/post/in/) [the](/post/the/) [novel](/post/novel/), [the](/post/the/) protagonist's [journey](/post/journey/) is [about](/post/about/) hunting [down](/post/down/) [the](/post/the/) [murderer](/post/murderer/) [of](/post/of/) [his](/post/his/) [family](/post/family/)."
   
 ## Phrases
-- "Bringing [a](/en/post/a/) [murderer](/en/post/murderer/) [to](/en/post/to/) [justice](/en/post/justice/)" - [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) identifying [and](/en/post/and/) punishing [someone](/en/post/someone/) [guilty](/en/post/guilty/) [of](/en/post/of/) [murder](/en/post/murder/).
-- "Murderer's [row](/en/post/row/)" - An idiomatic [expression](/en/post/expression/) referring [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [particularly](/en/post/particularly/) formidable individuals, [often](/en/post/often/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [tough](/en/post/tough/) [series](/en/post/series/) [of](/en/post/of/) challenges [or](/en/post/or/) competitors.
+- "Bringing [a](/post/a/) [murderer](/post/murderer/) [to](/post/to/) [justice](/post/justice/)" - [The](/post/the/) [act](/post/act/) [of](/post/of/) identifying [and](/post/and/) punishing [someone](/post/someone/) [guilty](/post/guilty/) [of](/post/of/) [murder](/post/murder/).
+- "Murderer's [row](/post/row/)" - An idiomatic [expression](/post/expression/) referring [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) [particularly](/post/particularly/) formidable individuals, [often](/post/often/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [tough](/post/tough/) [series](/post/series/) [of](/post/of/) challenges [or](/post/or/) competitors.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) cold-blooded [murderer](/en/post/murderer/) was sentenced [to](/en/post/to/) [life](/en/post/life/) imprisonment [without](/en/post/without/) parole."
-- "[The](/en/post/the/) victim's [family](/en/post/family/) members had [to](/en/post/to/) confront [the](/en/post/the/) [murderer](/en/post/murderer/) [in](/en/post/in/) [court](/en/post/court/) [during](/en/post/during/) [the](/en/post/the/) [trial](/en/post/trial/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) cold-blooded [murderer](/post/murderer/) was sentenced [to](/post/to/) [life](/post/life/) imprisonment [without](/post/without/) parole."
+- "[The](/post/the/) victim's [family](/post/family/) members had [to](/post/to/) confront [the](/post/the/) [murderer](/post/murderer/) [in](/post/in/) [court](/post/court/) [during](/post/during/) [the](/post/the/) [trial](/post/trial/)."
 
 ## Synonyms
 - Killer
@@ -33,6 +33,6 @@ keywords = ['ai words', 'murderer']
 - Homicide
 - Slayer
 - Manslayer
-- Executioner ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- Executioner ([in](/post/in/) [certain](/post/certain/) contexts)
 - Predator (figurative)
-- Culprit ([for](/en/post/for/) [the](/en/post/the/) [one](/en/post/one/) [responsible](/en/post/responsible/) [for](/en/post/for/) [the](/en/post/the/) [crime](/en/post/crime/))
+- Culprit ([for](/post/for/) [the](/post/the/) [one](/post/one/) [responsible](/post/responsible/) [for](/post/for/) [the](/post/the/) [crime](/post/crime/))

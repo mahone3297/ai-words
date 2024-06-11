@@ -7,35 +7,35 @@ description = '[ˈglɔːriəs] a.光荣的；壮丽的'
 keywords = ['ai words', 'glorious']
 +++
 
-## [Word](/en/post/word/): [Glorious](/en/post/glorious/)
+## [Word](/post/word/): [Glorious](/post/glorious/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡlɔːriəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Describing [something](/en/post/something/) [that](/en/post/that/) is [magnificent](/en/post/magnificent/), [splendid](/en/post/splendid/), [or](/en/post/or/) [highly](/en/post/highly/) praiseworthy; inspiring admiration [or](/en/post/or/) awe. [It](/en/post/it/) [often](/en/post/often/) conveys [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) greatness, [beauty](/en/post/beauty/), [or](/en/post/or/) divine radiance.
+- **[Adjective](/post/adjective/)**: Describing [something](/post/something/) [that](/post/that/) is [magnificent](/post/magnificent/), [splendid](/post/splendid/), [or](/post/or/) [highly](/post/highly/) praiseworthy; inspiring admiration [or](/post/or/) awe. [It](/post/it/) [often](/post/often/) conveys [a](/post/a/) [sense](/post/sense/) [of](/post/of/) greatness, [beauty](/post/beauty/), [or](/post/or/) divine radiance.
 
-[Example](/en/post/example/) Sentences:
-- _**[Adjective](/en/post/adjective/)**_: [The](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) mountaintop was [absolutely](/en/post/absolutely/) [glorious](/en/post/glorious/), [with](/en/post/with/) [sunlight](/en/post/sunlight/) illuminating [the](/en/post/the/) valleys [below](/en/post/below/).
-- "[The](/en/post/the/) [victorious](/en/post/victorious/) [athlete](/en/post/athlete/) basked [in](/en/post/in/) [the](/en/post/the/) [glorious](/en/post/glorious/) [moment](/en/post/moment/) [of](/en/post/of/) receiving [his](/en/post/his/) [gold](/en/post/gold/) [medal](/en/post/medal/)."
-- "[The](/en/post/the/) stained-glass windows [in](/en/post/in/) [the](/en/post/the/) [cathedral](/en/post/cathedral/) [cast](/en/post/cast/) [a](/en/post/a/) [glorious](/en/post/glorious/) array [of](/en/post/of/) colors [throughout](/en/post/throughout/) [the](/en/post/the/) [interior](/en/post/interior/)."
+[Example](/post/example/) Sentences:
+- _**[Adjective](/post/adjective/)**_: [The](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) mountaintop was [absolutely](/post/absolutely/) [glorious](/post/glorious/), [with](/post/with/) [sunlight](/post/sunlight/) illuminating [the](/post/the/) valleys [below](/post/below/).
+- "[The](/post/the/) [victorious](/post/victorious/) [athlete](/post/athlete/) basked [in](/post/in/) [the](/post/the/) [glorious](/post/glorious/) [moment](/post/moment/) [of](/post/of/) receiving [his](/post/his/) [gold](/post/gold/) [medal](/post/medal/)."
+- "[The](/post/the/) stained-glass windows [in](/post/in/) [the](/post/the/) [cathedral](/post/cathedral/) [cast](/post/cast/) [a](/post/a/) [glorious](/post/glorious/) array [of](/post/of/) colors [throughout](/post/throughout/) [the](/post/the/) [interior](/post/interior/)."
 
 ## Phrases
-- "[In](/en/post/in/) [all](/en/post/all/) [its](/en/post/its/) [glory](/en/post/glory/)": Referring [to](/en/post/to/) [something](/en/post/something/) [when](/en/post/when/) [it](/en/post/it/) is displayed [or](/en/post/or/) experienced [at](/en/post/at/) [its](/en/post/its/) [most](/en/post/most/) [magnificent](/en/post/magnificent/) [or](/en/post/or/) [impressive](/en/post/impressive/) [state](/en/post/state/). [Example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) [park](/en/post/park/) was [in](/en/post/in/) [all](/en/post/all/) [its](/en/post/its/) [glory](/en/post/glory/) [during](/en/post/during/) [the](/en/post/the/) [autumn](/en/post/autumn/) [season](/en/post/season/)."
-- "[Glorious](/en/post/glorious/) [victory](/en/post/victory/)": An [extremely](/en/post/extremely/) [impressive](/en/post/impressive/) [or](/en/post/or/) triumphant [win](/en/post/win/). [Example](/en/post/example/): "[The](/en/post/the/) team's comeback [and](/en/post/and/) eventual [win](/en/post/win/) was [a](/en/post/a/) [glorious](/en/post/glorious/) [victory](/en/post/victory/) [indeed](/en/post/indeed/)."
+- "[In](/post/in/) [all](/post/all/) [its](/post/its/) [glory](/post/glory/)": Referring [to](/post/to/) [something](/post/something/) [when](/post/when/) [it](/post/it/) is displayed [or](/post/or/) experienced [at](/post/at/) [its](/post/its/) [most](/post/most/) [magnificent](/post/magnificent/) [or](/post/or/) [impressive](/post/impressive/) [state](/post/state/). [Example](/post/example/): "[The](/post/the/) [city](/post/city/) [park](/post/park/) was [in](/post/in/) [all](/post/all/) [its](/post/its/) [glory](/post/glory/) [during](/post/during/) [the](/post/the/) [autumn](/post/autumn/) [season](/post/season/)."
+- "[Glorious](/post/glorious/) [victory](/post/victory/)": An [extremely](/post/extremely/) [impressive](/post/impressive/) [or](/post/or/) triumphant [win](/post/win/). [Example](/post/example/): "[The](/post/the/) team's comeback [and](/post/and/) eventual [win](/post/win/) was [a](/post/a/) [glorious](/post/glorious/) [victory](/post/victory/) [indeed](/post/indeed/)."
 
 ## Synonyms
-- [Splendid](/en/post/splendid/)
-- [Magnificent](/en/post/magnificent/)
+- [Splendid](/post/splendid/)
+- [Magnificent](/post/magnificent/)
 - Majestic
 - Sublime
 - Radiant
 - Dazzling
-- [Grand](/en/post/grand/)
+- [Grand](/post/grand/)
 - Exalted
 - Resplendent
-- [Noble](/en/post/noble/)
+- [Noble](/post/noble/)
 - Pristine
 - Glittering
 
-[Note](/en/post/note/): [While](/en/post/while/) '[glorious](/en/post/glorious/)' [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [various](/en/post/various/) contexts, [it](/en/post/it/) does [not](/en/post/not/) [have](/en/post/have/) [specific](/en/post/specific/) [noun](/en/post/noun/), [verb](/en/post/verb/), [or](/en/post/or/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) meanings [like](/en/post/like/) [the](/en/post/the/) [example](/en/post/example/) [provided](/en/post/provided/) [for](/en/post/for/) "[hello](/en/post/hello/)." [In](/en/post/in/) [general](/en/post/general/), '[glorious](/en/post/glorious/)' is [primarily](/en/post/primarily/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) nouns [or](/en/post/or/) [modify](/en/post/modify/) verbs.
+[Note](/post/note/): [While](/post/while/) '[glorious](/post/glorious/)' [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [various](/post/various/) contexts, [it](/post/it/) does [not](/post/not/) [have](/post/have/) [specific](/post/specific/) [noun](/post/noun/), [verb](/post/verb/), [or](/post/or/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) meanings [like](/post/like/) [the](/post/the/) [example](/post/example/) [provided](/post/provided/) [for](/post/for/) "[hello](/post/hello/)." [In](/post/in/) [general](/post/general/), '[glorious](/post/glorious/)' is [primarily](/post/primarily/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) nouns [or](/post/or/) [modify](/post/modify/) verbs.

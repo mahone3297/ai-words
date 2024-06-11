@@ -7,38 +7,38 @@ description = '[ˈfrendli] a.友好的，友谊的'
 keywords = ['ai words', 'friendly']
 +++
 
-## [Word](/en/post/word/): [Friendly](/en/post/friendly/)
+## [Word](/post/word/): [Friendly](/post/friendly/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfrendli/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [or](/en/post/or/) showing friendliness, [kindness](/en/post/kindness/), [and](/en/post/and/) [warmth](/en/post/warmth/) towards others; amicable. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [friendly](/en/post/friendly/) [smile](/en/post/smile/) [that](/en/post/that/) puts [people](/en/post/people/) [at](/en/post/at/) [ease](/en/post/ease/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [friendly](/en/post/friendly/) [manner](/en/post/manner/); [with](/en/post/with/) [friendship](/en/post/friendship/) [or](/en/post/or/) goodwill. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) chatted [together](/en/post/together/) [friendly](/en/post/friendly/) [over](/en/post/over/) [coffee](/en/post/coffee/)."
+- **[Adjective](/post/adjective/)**: Having [or](/post/or/) showing friendliness, [kindness](/post/kindness/), [and](/post/and/) [warmth](/post/warmth/) towards others; amicable. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [friendly](/post/friendly/) [smile](/post/smile/) [that](/post/that/) puts [people](/post/people/) [at](/post/at/) [ease](/post/ease/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [friendly](/post/friendly/) [manner](/post/manner/); [with](/post/with/) [friendship](/post/friendship/) [or](/post/or/) goodwill. [For](/post/for/) [example](/post/example/): "[They](/post/they/) chatted [together](/post/together/) [friendly](/post/friendly/) [over](/post/over/) [coffee](/post/coffee/)."
 
-### [As](/en/post/as/) an [Adjective](/en/post/adjective/):
-- [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) [appropriate](/en/post/appropriate/) [to](/en/post/to/) [a](/en/post/a/) [friend](/en/post/friend/); genial, kind-hearted. [Example](/en/post/example/): "[He](/en/post/he/) received [a](/en/post/a/) [friendly](/en/post/friendly/) [welcome](/en/post/welcome/) [from](/en/post/from/) [his](/en/post/his/) neighbors."
-- [Of](/en/post/of/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) friends; [intimate](/en/post/intimate/), [close](/en/post/close/). [Example](/en/post/example/): "[They](/en/post/they/) [have](/en/post/have/) [a](/en/post/a/) [friendly](/en/post/friendly/) [relationship](/en/post/relationship/) based [on](/en/post/on/) [mutual](/en/post/mutual/) [respect](/en/post/respect/)."
-- Favorable, supportive, [or](/en/post/or/) advantageous. [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) is [friendly](/en/post/friendly/) [to](/en/post/to/) [small](/en/post/small/) businesses."
+### [As](/post/as/) an [Adjective](/post/adjective/):
+- [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) [appropriate](/post/appropriate/) [to](/post/to/) [a](/post/a/) [friend](/post/friend/); genial, kind-hearted. [Example](/post/example/): "[He](/post/he/) received [a](/post/a/) [friendly](/post/friendly/) [welcome](/post/welcome/) [from](/post/from/) [his](/post/his/) neighbors."
+- [Of](/post/of/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) friends; [intimate](/post/intimate/), [close](/post/close/). [Example](/post/example/): "[They](/post/they/) [have](/post/have/) [a](/post/a/) [friendly](/post/friendly/) [relationship](/post/relationship/) based [on](/post/on/) [mutual](/post/mutual/) [respect](/post/respect/)."
+- Favorable, supportive, [or](/post/or/) advantageous. [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) is [friendly](/post/friendly/) [to](/post/to/) [small](/post/small/) businesses."
 
 ## Phrases
-- **[Friendly](/en/post/friendly/) [fire](/en/post/fire/)**: [Accidental](/en/post/accidental/) firing [on](/en/post/on/) one's [own](/en/post/own/) troops [or](/en/post/or/) allies, [often](/en/post/often/) [due](/en/post/due/) [to](/en/post/to/) misidentification [or](/en/post/or/) [mistake](/en/post/mistake/).
-- **[Friendly](/en/post/friendly/) [match](/en/post/match/)**: [A](/en/post/a/) non-competitive sports [game](/en/post/game/) [or](/en/post/or/) [contest](/en/post/contest/) [between](/en/post/between/) teams [or](/en/post/or/) players, typically [used](/en/post/used/) [for](/en/post/for/) [practice](/en/post/practice/) [or](/en/post/or/) entertainment [rather](/en/post/rather/) [than](/en/post/than/) [league](/en/post/league/) points.
-- **[Friendly](/en/post/friendly/) [competition](/en/post/competition/)**: [A](/en/post/a/) rivalry [or](/en/post/or/) [contest](/en/post/contest/) [where](/en/post/where/) participants [maintain](/en/post/maintain/) [a](/en/post/a/) [positive](/en/post/positive/) [and](/en/post/and/) supportive [attitude](/en/post/attitude/) towards [each](/en/post/each/) [other](/en/post/other/).
+- **[Friendly](/post/friendly/) [fire](/post/fire/)**: [Accidental](/post/accidental/) firing [on](/post/on/) one's [own](/post/own/) troops [or](/post/or/) allies, [often](/post/often/) [due](/post/due/) [to](/post/to/) misidentification [or](/post/or/) [mistake](/post/mistake/).
+- **[Friendly](/post/friendly/) [match](/post/match/)**: [A](/post/a/) non-competitive sports [game](/post/game/) [or](/post/or/) [contest](/post/contest/) [between](/post/between/) teams [or](/post/or/) players, typically [used](/post/used/) [for](/post/for/) [practice](/post/practice/) [or](/post/or/) entertainment [rather](/post/rather/) [than](/post/than/) [league](/post/league/) points.
+- **[Friendly](/post/friendly/) [competition](/post/competition/)**: [A](/post/a/) rivalry [or](/post/or/) [contest](/post/contest/) [where](/post/where/) participants [maintain](/post/maintain/) [a](/post/a/) [positive](/post/positive/) [and](/post/and/) supportive [attitude](/post/attitude/) towards [each](/post/each/) [other](/post/other/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [dog](/en/post/dog/) greeted [us](/en/post/us/) [with](/en/post/with/) [a](/en/post/a/) [friendly](/en/post/friendly/) wag [of](/en/post/of/) [its](/en/post/its/) [tail](/en/post/tail/)."
-- "[Their](/en/post/their/) [company](/en/post/company/) [culture](/en/post/culture/) encourages [a](/en/post/a/) [friendly](/en/post/friendly/) [atmosphere](/en/post/atmosphere/) [where](/en/post/where/) employees [feel](/en/post/feel/) [comfortable](/en/post/comfortable/) sharing ideas."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) approached [the](/en/post/the/) newcomer [in](/en/post/in/) [a](/en/post/a/) [friendly](/en/post/friendly/) [fashion](/en/post/fashion/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [dog](/post/dog/) greeted [us](/post/us/) [with](/post/with/) [a](/post/a/) [friendly](/post/friendly/) wag [of](/post/of/) [its](/post/its/) [tail](/post/tail/)."
+- "[Their](/post/their/) [company](/post/company/) [culture](/post/culture/) encourages [a](/post/a/) [friendly](/post/friendly/) [atmosphere](/post/atmosphere/) [where](/post/where/) employees [feel](/post/feel/) [comfortable](/post/comfortable/) sharing ideas."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) approached [the](/post/the/) newcomer [in](/post/in/) [a](/post/a/) [friendly](/post/friendly/) [fashion](/post/fashion/)."
 
 ## Synonyms
 - Amiable
 - Affable
 - Hospitable
 - Sociable
-- [Cordial](/en/post/cordial/)
+- [Cordial](/post/cordial/)
 - Genial
 - Welcoming
-- [Warm](/en/post/warm/)
+- [Warm](/post/warm/)
 - Supportive
 - Kind-hearted

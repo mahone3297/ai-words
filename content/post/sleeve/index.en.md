@@ -7,39 +7,39 @@ description = '[sliːv] n.袖子，袖套'
 keywords = ['ai words', 'sleeve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sliːv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Sleeve](/en/post/sleeve/)**: [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) garment extending [from](/en/post/from/) [the](/en/post/the/) [shoulder](/en/post/shoulder/) [to](/en/post/to/) [the](/en/post/the/) [wrist](/en/post/wrist/), [usually](/en/post/usually/) [on](/en/post/on/) [the](/en/post/the/) [upper](/en/post/upper/) [arm](/en/post/arm/).
-   - [Definition](/en/post/definition/): [The](/en/post/the/) [sleeve](/en/post/sleeve/) protects [the](/en/post/the/) [arm](/en/post/arm/) [and](/en/post/and/) [can](/en/post/can/) [be](/en/post/be/) made [of](/en/post/of/) [various](/en/post/various/) materials, [such](/en/post/such/) [as](/en/post/as/) [cotton](/en/post/cotton/), [silk](/en/post/silk/), [or](/en/post/or/) [leather](/en/post/leather/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) rolled [up](/en/post/up/) [her](/en/post/her/) [long](/en/post/long/) sleeves [to](/en/post/to/) [help](/en/post/help/) [with](/en/post/with/) [the](/en/post/the/) gardening."
+### [Noun](/post/noun/)
+1. **[Sleeve](/post/sleeve/)**: [A](/post/a/) [part](/post/part/) [of](/post/of/) [a](/post/a/) garment extending [from](/post/from/) [the](/post/the/) [shoulder](/post/shoulder/) [to](/post/to/) [the](/post/the/) [wrist](/post/wrist/), [usually](/post/usually/) [on](/post/on/) [the](/post/the/) [upper](/post/upper/) [arm](/post/arm/).
+   - [Definition](/post/definition/): [The](/post/the/) [sleeve](/post/sleeve/) protects [the](/post/the/) [arm](/post/arm/) [and](/post/and/) [can](/post/can/) [be](/post/be/) made [of](/post/of/) [various](/post/various/) materials, [such](/post/such/) [as](/post/as/) [cotton](/post/cotton/), [silk](/post/silk/), [or](/post/or/) [leather](/post/leather/).
+   - [Example](/post/example/): "[She](/post/she/) rolled [up](/post/up/) [her](/post/her/) [long](/post/long/) sleeves [to](/post/to/) [help](/post/help/) [with](/post/with/) [the](/post/the/) gardening."
 
-2. **Sleeveless**: [Without](/en/post/without/) sleeves; having [no](/en/post/no/) covering [for](/en/post/for/) [the](/en/post/the/) arms.
-   - [Example](/en/post/example/): "[The](/en/post/the/) sleeveless [dress](/en/post/dress/) was [perfect](/en/post/perfect/) [for](/en/post/for/) [the](/en/post/the/) [summer](/en/post/summer/) [heat](/en/post/heat/)."
+2. **Sleeveless**: [Without](/post/without/) sleeves; having [no](/post/no/) covering [for](/post/for/) [the](/post/the/) arms.
+   - [Example](/post/example/): "[The](/post/the/) sleeveless [dress](/post/dress/) was [perfect](/post/perfect/) [for](/post/for/) [the](/post/the/) [summer](/post/summer/) [heat](/post/heat/)."
 
-### [Verb](/en/post/verb/)
-- (Informal) [To](/en/post/to/) [put](/en/post/put/) [on](/en/post/on/) [or](/en/post/or/) [remove](/en/post/remove/) [the](/en/post/the/) [sleeve](/en/post/sleeve/) [of](/en/post/of/) [a](/en/post/a/) garment.
-   - [Example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [sleeve](/en/post/sleeve/) [up](/en/post/up/) [my](/en/post/my/) [jacket](/en/post/jacket/) [before](/en/post/before/) going [outside](/en/post/outside/)."
+### [Verb](/post/verb/)
+- (Informal) [To](/post/to/) [put](/post/put/) [on](/post/on/) [or](/post/or/) [remove](/post/remove/) [the](/post/the/) [sleeve](/post/sleeve/) [of](/post/of/) [a](/post/a/) garment.
+   - [Example](/post/example/): "I [need](/post/need/) [to](/post/to/) [sleeve](/post/sleeve/) [up](/post/up/) [my](/post/my/) [jacket](/post/jacket/) [before](/post/before/) going [outside](/post/outside/)."
 
-### [Adjective](/en/post/adjective/)
-- Sleeveless: Describing [a](/en/post/a/) garment [without](/en/post/without/) sleeves.
-   - [Example](/en/post/example/): "[The](/en/post/the/) sleeveless [top](/en/post/top/) was [a](/en/post/a/) [popular](/en/post/popular/) [choice](/en/post/choice/) [for](/en/post/for/) [the](/en/post/the/) [beach](/en/post/beach/) [party](/en/post/party/)."
+### [Adjective](/post/adjective/)
+- Sleeveless: Describing [a](/post/a/) garment [without](/post/without/) sleeves.
+   - [Example](/post/example/): "[The](/post/the/) sleeveless [top](/post/top/) was [a](/post/a/) [popular](/post/popular/) [choice](/post/choice/) [for](/post/for/) [the](/post/the/) [beach](/post/beach/) [party](/post/party/)."
 
 ## Phrases
-- "[Roll](/en/post/roll/) [up](/en/post/up/) [your](/en/post/your/) sleeves" [means](/en/post/means/) [to](/en/post/to/) [get](/en/post/get/) [ready](/en/post/ready/) [to](/en/post/to/) [work](/en/post/work/) [or](/en/post/or/) [be](/en/post/be/) [more](/en/post/more/) involved.
-- "[Long](/en/post/long/) sleeves" [or](/en/post/or/) "[short](/en/post/short/) sleeves" [describe](/en/post/describe/) [the](/en/post/the/) [length](/en/post/length/) [of](/en/post/of/) [a](/en/post/a/) [sleeve](/en/post/sleeve/) [on](/en/post/on/) [a](/en/post/a/) garment.
-- "Button-up sleeves" refers [to](/en/post/to/) [the](/en/post/the/) [type](/en/post/type/) [of](/en/post/of/) closure [on](/en/post/on/) [a](/en/post/a/) [shirt](/en/post/shirt/) [or](/en/post/or/) blouse.
+- "[Roll](/post/roll/) [up](/post/up/) [your](/post/your/) sleeves" [means](/post/means/) [to](/post/to/) [get](/post/get/) [ready](/post/ready/) [to](/post/to/) [work](/post/work/) [or](/post/or/) [be](/post/be/) [more](/post/more/) involved.
+- "[Long](/post/long/) sleeves" [or](/post/or/) "[short](/post/short/) sleeves" [describe](/post/describe/) [the](/post/the/) [length](/post/length/) [of](/post/of/) [a](/post/a/) [sleeve](/post/sleeve/) [on](/post/on/) [a](/post/a/) garment.
+- "Button-up sleeves" refers [to](/post/to/) [the](/post/the/) [type](/post/type/) [of](/post/of/) closure [on](/post/on/) [a](/post/a/) [shirt](/post/shirt/) [or](/post/or/) blouse.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) carefully removed [the](/en/post/the/) [sleeve](/en/post/sleeve/) [from](/en/post/from/) [the](/en/post/the/) [dry](/en/post/dry/) cleaning [bag](/en/post/bag/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) rolled [up](/en/post/up/) [his](/en/post/his/) sleeves [and](/en/post/and/) got [down](/en/post/down/) [to](/en/post/to/) [work](/en/post/work/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sleeveless [dress](/en/post/dress/) was [a](/en/post/a/) refreshing [change](/en/post/change/) [from](/en/post/from/) [her](/en/post/her/) [usual](/en/post/usual/) attire."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) carefully removed [the](/post/the/) [sleeve](/post/sleeve/) [from](/post/from/) [the](/post/the/) [dry](/post/dry/) cleaning [bag](/post/bag/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) rolled [up](/post/up/) [his](/post/his/) sleeves [and](/post/and/) got [down](/post/down/) [to](/post/to/) [work](/post/work/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sleeveless [dress](/post/dress/) was [a](/post/a/) refreshing [change](/post/change/) [from](/post/from/) [her](/post/her/) [usual](/post/usual/) attire."
 
 ## Synonyms
 - Armhole
-- [Arm](/en/post/arm/) coverage
-- [Arm](/en/post/arm/) [guard](/en/post/guard/)
+- [Arm](/post/arm/) coverage
+- [Arm](/post/arm/) [guard](/post/guard/)
 - Jumper (informal, UK)
-- [Shirt](/en/post/shirt/) [sleeve](/en/post/sleeve/) (UK)
+- [Shirt](/post/shirt/) [sleeve](/post/sleeve/) (UK)

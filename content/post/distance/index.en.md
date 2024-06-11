@@ -7,31 +7,31 @@ description = '[ˈdistəns] n.距离，间距；远处'
 keywords = ['ai words', 'distance']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /distəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [physical](/en/post/physical/) [space](/en/post/space/) [between](/en/post/between/) [two](/en/post/two/) points [or](/en/post/or/) objects; [the](/en/post/the/) [measurement](/en/post/measurement/) [of](/en/post/of/) [length](/en/post/length/) [from](/en/post/from/) [one](/en/post/one/) [point](/en/post/point/) [to](/en/post/to/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [distance](/en/post/distance/) [between](/en/post/between/) [the](/en/post/the/) cities is 200 miles."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [measure](/en/post/measure/) [the](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [space](/en/post/space/) [or](/en/post/or/) [separation](/en/post/separation/) [between](/en/post/between/); [to](/en/post/to/) [travel](/en/post/travel/) [a](/en/post/a/) [certain](/en/post/certain/) [distance](/en/post/distance/). [For](/en/post/for/) [example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [distance](/en/post/distance/) [myself](/en/post/myself/) emotionally [from](/en/post/from/) [this](/en/post/this/) [situation](/en/post/situation/)."
-- **[Adjective](/en/post/adjective/)**: (adj) Characterized [by](/en/post/by/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) closeness [or](/en/post/or/) intimacy; [remote](/en/post/remote/) [or](/en/post/or/) [apart](/en/post/apart/). [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) [relationship](/en/post/relationship/) has [become](/en/post/become/) [a](/en/post/a/) [distant](/en/post/distant/) [memory](/en/post/memory/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [physical](/post/physical/) [space](/post/space/) [between](/post/between/) [two](/post/two/) points [or](/post/or/) objects; [the](/post/the/) [measurement](/post/measurement/) [of](/post/of/) [length](/post/length/) [from](/post/from/) [one](/post/one/) [point](/post/point/) [to](/post/to/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [distance](/post/distance/) [between](/post/between/) [the](/post/the/) cities is 200 miles."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [measure](/post/measure/) [the](/post/the/) [amount](/post/amount/) [of](/post/of/) [space](/post/space/) [or](/post/or/) [separation](/post/separation/) [between](/post/between/); [to](/post/to/) [travel](/post/travel/) [a](/post/a/) [certain](/post/certain/) [distance](/post/distance/). [For](/post/for/) [example](/post/example/): "I [need](/post/need/) [to](/post/to/) [distance](/post/distance/) [myself](/post/myself/) emotionally [from](/post/from/) [this](/post/this/) [situation](/post/situation/)."
+- **[Adjective](/post/adjective/)**: (adj) Characterized [by](/post/by/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) closeness [or](/post/or/) intimacy; [remote](/post/remote/) [or](/post/or/) [apart](/post/apart/). [For](/post/for/) [example](/post/example/): "[Their](/post/their/) [relationship](/post/relationship/) has [become](/post/become/) [a](/post/a/) [distant](/post/distant/) [memory](/post/memory/)."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [a](/en/post/a/) [safe](/en/post/safe/) [distance](/en/post/distance/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) specified [amount](/en/post/amount/) [of](/en/post/of/) [space](/en/post/space/) [for](/en/post/for/) [safety](/en/post/safety/).
-- "[Distance](/en/post/distance/) [learning](/en/post/learning/)" refers [to](/en/post/to/) [education](/en/post/education/) [that](/en/post/that/) takes [place](/en/post/place/) remotely.
-- "Cultural [distance](/en/post/distance/)" describes [the](/en/post/the/) [difference](/en/post/difference/) [in](/en/post/in/) customs [and](/en/post/and/) values [between](/en/post/between/) [people](/en/post/people/) [or](/en/post/or/) societies.
+- "[Keep](/post/keep/) [a](/post/a/) [safe](/post/safe/) [distance](/post/distance/)" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) specified [amount](/post/amount/) [of](/post/of/) [space](/post/space/) [for](/post/for/) [safety](/post/safety/).
+- "[Distance](/post/distance/) [learning](/post/learning/)" refers [to](/post/to/) [education](/post/education/) [that](/post/that/) takes [place](/post/place/) remotely.
+- "Cultural [distance](/post/distance/)" describes [the](/post/the/) [difference](/post/difference/) [in](/post/in/) customs [and](/post/and/) values [between](/post/between/) [people](/post/people/) [or](/post/or/) societies.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) marathon runners covered [a](/en/post/a/) [great](/en/post/great/) [distance](/en/post/distance/) [before](/en/post/before/) crossing [the](/en/post/the/) [finish](/en/post/finish/) [line](/en/post/line/)."
-- **[Verb](/en/post/verb/)**: "I decided [to](/en/post/to/) [distance](/en/post/distance/) [myself](/en/post/myself/) [from](/en/post/from/) [her](/en/post/her/) [drama](/en/post/drama/) [for](/en/post/for/) [my](/en/post/my/) [own](/en/post/own/) [peace](/en/post/peace/) [of](/en/post/of/) [mind](/en/post/mind/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [new](/en/post/new/) [job](/en/post/job/) required [her](/en/post/her/) [to](/en/post/to/) [work](/en/post/work/) [at](/en/post/at/) [a](/en/post/a/) greater [distance](/en/post/distance/) [from](/en/post/from/) [home](/en/post/home/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) marathon runners covered [a](/post/a/) [great](/post/great/) [distance](/post/distance/) [before](/post/before/) crossing [the](/post/the/) [finish](/post/finish/) [line](/post/line/)."
+- **[Verb](/post/verb/)**: "I decided [to](/post/to/) [distance](/post/distance/) [myself](/post/myself/) [from](/post/from/) [her](/post/her/) [drama](/post/drama/) [for](/post/for/) [my](/post/my/) [own](/post/own/) [peace](/post/peace/) [of](/post/of/) [mind](/post/mind/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [new](/post/new/) [job](/post/job/) required [her](/post/her/) [to](/post/to/) [work](/post/work/) [at](/post/at/) [a](/post/a/) greater [distance](/post/distance/) [from](/post/from/) [home](/post/home/)."
 
 ## Synonyms
-- [Separation](/en/post/separation/)
-- [Interval](/en/post/interval/)
-- [Space](/en/post/space/)
-- [Span](/en/post/span/)
+- [Separation](/post/separation/)
+- [Interval](/post/interval/)
+- [Space](/post/space/)
+- [Span](/post/span/)
 - Leeway
-- [Gap](/en/post/gap/)
+- [Gap](/post/gap/)
 - remoteness
 - aloofness
 
@@ -40,5 +40,5 @@ keywords = ['ai words', 'distance']
 - Closeness
 - Nearness
 - Intimacy
-- [Contact](/en/post/contact/)
+- [Contact](/post/contact/)
 - Adjacency

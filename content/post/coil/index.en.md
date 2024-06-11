@@ -7,37 +7,37 @@ description = '[kɔil] n.(一)卷；线圈 vt.卷'
 keywords = ['ai words', 'coil']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkɔɪl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [coil](/en/post/coil/)**: [A](/en/post/a/) tightly [wound](/en/post/wound/), spiral-shaped [structure](/en/post/structure/), typically made [of](/en/post/of/) [wire](/en/post/wire/), [used](/en/post/used/) [for](/en/post/for/) [various](/en/post/various/) purposes, [such](/en/post/such/) [as](/en/post/as/) storing [energy](/en/post/energy/) ([in](/en/post/in/) transformers), winding [up](/en/post/up/) springs, [or](/en/post/or/) [in](/en/post/in/) [electrical](/en/post/electrical/) machinery.
-2. **[Electrical](/en/post/electrical/) [coil](/en/post/coil/)**: [A](/en/post/a/) coiled [conductor](/en/post/conductor/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) electromagnets [or](/en/post/or/) [electronic](/en/post/electronic/) circuits.
-3. **[Hair](/en/post/hair/) [coil](/en/post/coil/)**: [A](/en/post/a/) [style](/en/post/style/) [in](/en/post/in/) [which](/en/post/which/) [hair](/en/post/hair/) is twisted [into](/en/post/into/) [a](/en/post/a/) [tight](/en/post/tight/), spiral [shape](/en/post/shape/).
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [coil](/post/coil/)**: [A](/post/a/) tightly [wound](/post/wound/), spiral-shaped [structure](/post/structure/), typically made [of](/post/of/) [wire](/post/wire/), [used](/post/used/) [for](/post/for/) [various](/post/various/) purposes, [such](/post/such/) [as](/post/as/) storing [energy](/post/energy/) ([in](/post/in/) transformers), winding [up](/post/up/) springs, [or](/post/or/) [in](/post/in/) [electrical](/post/electrical/) machinery.
+2. **[Electrical](/post/electrical/) [coil](/post/coil/)**: [A](/post/a/) coiled [conductor](/post/conductor/), [often](/post/often/) [used](/post/used/) [in](/post/in/) electromagnets [or](/post/or/) [electronic](/post/electronic/) circuits.
+3. **[Hair](/post/hair/) [coil](/post/coil/)**: [A](/post/a/) [style](/post/style/) [in](/post/in/) [which](/post/which/) [hair](/post/hair/) is twisted [into](/post/into/) [a](/post/a/) [tight](/post/tight/), spiral [shape](/post/shape/).
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [coil](/en/post/coil/)**: [The](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) winding [something](/en/post/something/) [into](/en/post/into/) [a](/en/post/a/) spiral [or](/en/post/or/) coiled [form](/en/post/form/), [either](/en/post/either/) physically [or](/en/post/or/) metaphorically.
-2. **Coiling**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) forming [a](/en/post/a/) [coil](/en/post/coil/) [or](/en/post/or/) [spring](/en/post/spring/).
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [coil](/post/coil/)**: [The](/post/the/) [action](/post/action/) [of](/post/of/) winding [something](/post/something/) [into](/post/into/) [a](/post/a/) spiral [or](/post/or/) coiled [form](/post/form/), [either](/post/either/) physically [or](/post/or/) metaphorically.
+2. **Coiling**: [The](/post/the/) [process](/post/process/) [of](/post/of/) forming [a](/post/a/) [coil](/post/coil/) [or](/post/or/) [spring](/post/spring/).
 
-### [Adjective](/en/post/adjective/)
-1. **Coiled**: Having [the](/en/post/the/) [shape](/en/post/shape/) [of](/en/post/of/) [a](/en/post/a/) [coil](/en/post/coil/); twisted [or](/en/post/or/) curled.
+### [Adjective](/post/adjective/)
+1. **Coiled**: Having [the](/post/the/) [shape](/post/shape/) [of](/post/of/) [a](/post/a/) [coil](/post/coil/); twisted [or](/post/or/) curled.
 
 ## Phrases
-- "[Wind](/en/post/wind/) [a](/en/post/a/) [coil](/en/post/coil/)" [or](/en/post/or/) "[form](/en/post/form/) [a](/en/post/a/) [coil](/en/post/coil/)"
-- "[A](/en/post/a/) tightly coiled [spring](/en/post/spring/)"
-- "[A](/en/post/a/) coiled [cable](/en/post/cable/)"
-- "[A](/en/post/a/) [coil](/en/post/coil/) [of](/en/post/of/) [wire](/en/post/wire/)"
+- "[Wind](/post/wind/) [a](/post/a/) [coil](/post/coil/)" [or](/post/or/) "[form](/post/form/) [a](/post/a/) [coil](/post/coil/)"
+- "[A](/post/a/) tightly coiled [spring](/post/spring/)"
+- "[A](/post/a/) coiled [cable](/post/cable/)"
+- "[A](/post/a/) [coil](/post/coil/) [of](/post/of/) [wire](/post/wire/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [transformer](/en/post/transformer/) had [several](/en/post/several/) layers [of](/en/post/of/) tightly coiled wires."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) carefully coiled [the](/en/post/the/) [extension](/en/post/extension/) [cord](/en/post/cord/) [before](/en/post/before/) storing [it](/en/post/it/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) snake's [body](/en/post/body/) was sleek [and](/en/post/and/) coiled [ready](/en/post/ready/) [to](/en/post/to/) [strike](/en/post/strike/)."
-- **[Action](/en/post/action/)**: "[She](/en/post/she/) uncoiled [the](/en/post/the/) [rope](/en/post/rope/) [from](/en/post/from/) [around](/en/post/around/) [her](/en/post/her/) [waist](/en/post/waist/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [transformer](/post/transformer/) had [several](/post/several/) layers [of](/post/of/) tightly coiled wires."
+- **[Verb](/post/verb/)**: "[He](/post/he/) carefully coiled [the](/post/the/) [extension](/post/extension/) [cord](/post/cord/) [before](/post/before/) storing [it](/post/it/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) snake's [body](/post/body/) was sleek [and](/post/and/) coiled [ready](/post/ready/) [to](/post/to/) [strike](/post/strike/)."
+- **[Action](/post/action/)**: "[She](/post/she/) uncoiled [the](/post/the/) [rope](/post/rope/) [from](/post/from/) [around](/post/around/) [her](/post/her/) [waist](/post/waist/)."
 
 ## Synonyms
 - Twisted
-- [Wound](/en/post/wound/)
+- [Wound](/post/wound/)
 - Rolled
 - Coiled-up
 - Spiral-shaped

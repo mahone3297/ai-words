@@ -11,20 +11,20 @@ keywords = ['ai words', 'agony']
 /ˈæɡəni/
 
 ## 释义
-- **名词**: 极度的痛苦，折磨；精神上的苦楚。例如: "[She](/post/she/) was [in](/post/in/) [agony](/post/agony/) [from](/post/from/) [the](/post/the/) [wound](/post/wound/)."
-- **形容词**: 极度痛苦的，苦不堪言的。例如: "an [agony](/post/agony/) [of](/post/of/) indecision"
+- **名词**: 极度的痛苦，折磨；精神上的苦楚。例如: "[She](/zh/post/she/) was [in](/zh/post/in/) [agony](/zh/post/agony/) [from](/zh/post/from/) [the](/zh/post/the/) [wound](/zh/post/wound/)."
+- **形容词**: 极度痛苦的，苦不堪言的。例如: "an [agony](/zh/post/agony/) [of](/zh/post/of/) indecision"
 
 ## 短语
-- "[in](/post/in/) [agony](/post/agony/)" 表示处于极大的痛苦之中。
-- "[agony](/post/agony/) [aunt](/post/aunt/)" 或 "[agony](/post/agony/) [column](/post/column/)" 在某些国家指的是报纸或杂志上解答读者个人问题的专栏。
+- "[in](/zh/post/in/) [agony](/zh/post/agony/)" 表示处于极大的痛苦之中。
+- "[agony](/zh/post/agony/) [aunt](/zh/post/aunt/)" 或 "[agony](/zh/post/agony/) [column](/zh/post/column/)" 在某些国家指的是报纸或杂志上解答读者个人问题的专栏。
 
 ## 例句
-- 名词: "[The](/post/the/) [patient](/post/patient/) cried [out](/post/out/) [in](/post/in/) [agony](/post/agony/) [as](/post/as/) [the](/post/the/) [doctor](/post/doctor/) applied [pressure](/post/pressure/) [to](/post/to/) [the](/post/the/) [injury](/post/injury/)."
-- 形容词: "[She](/post/she/) was [in](/post/in/) [such](/post/such/) [agony](/post/agony/) [that](/post/that/) [she](/post/she/) couldn't [even](/post/even/) [speak](/post/speak/)."
+- 名词: "[The](/zh/post/the/) [patient](/zh/post/patient/) cried [out](/zh/post/out/) [in](/zh/post/in/) [agony](/zh/post/agony/) [as](/zh/post/as/) [the](/zh/post/the/) [doctor](/zh/post/doctor/) applied [pressure](/zh/post/pressure/) [to](/zh/post/to/) [the](/zh/post/the/) [injury](/zh/post/injury/)."
+- 形容词: "[She](/zh/post/she/) was [in](/zh/post/in/) [such](/zh/post/such/) [agony](/zh/post/agony/) [that](/zh/post/that/) [she](/zh/post/she/) couldn't [even](/zh/post/even/) [speak](/zh/post/speak/)."
 
 ## 同义词
 - torment
-- [distress](/post/distress/)
+- [distress](/zh/post/distress/)
 - suffering
 - anguish
-- [pain](/post/pain/)
+- [pain](/zh/post/pain/)

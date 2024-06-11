@@ -11,22 +11,22 @@ keywords = ['ai words', 'proper']
 /ˈprɑːpər/
 
 ## 释义
-- **形容词**: 正确的，恰当的，适当的。例如: "[Please](/post/please/) [use](/post/use/) [proper](/post/proper/) [grammar](/post/grammar/) [in](/post/in/) [your](/post/your/) essays."
-- **名词**: 名字，专用名，特有的事物。例如: "[She](/post/she/) has [a](/post/a/) [proper](/post/proper/) [name](/post/name/) [for](/post/for/) [her](/post/her/) [business](/post/business/)."
-- **副词**: 完全地，十足地。例如: "[The](/post/the/) [dog](/post/dog/) behaved [properly](/post/properly/) [at](/post/at/) [the](/post/the/) [dinner](/post/dinner/) [table](/post/table/)."
+- **形容词**: 正确的，恰当的，适当的。例如: "[Please](/zh/post/please/) [use](/zh/post/use/) [proper](/zh/post/proper/) [grammar](/zh/post/grammar/) [in](/zh/post/in/) [your](/zh/post/your/) essays."
+- **名词**: 名字，专用名，特有的事物。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [proper](/zh/post/proper/) [name](/zh/post/name/) [for](/zh/post/for/) [her](/zh/post/her/) [business](/zh/post/business/)."
+- **副词**: 完全地，十足地。例如: "[The](/zh/post/the/) [dog](/zh/post/dog/) behaved [properly](/zh/post/properly/) [at](/zh/post/at/) [the](/zh/post/the/) [dinner](/zh/post/dinner/) [table](/zh/post/table/)."
 
 ## 短语
-- "[Do](/post/do/) [something](/post/something/) [properly](/post/properly/)" 意为正确地做某事。
-- "[In](/post/in/) [its](/post/its/) [proper](/post/proper/) context" 指在合适的情境下。
+- "[Do](/zh/post/do/) [something](/zh/post/something/) [properly](/zh/post/properly/)" 意为正确地做某事。
+- "[In](/zh/post/in/) [its](/zh/post/its/) [proper](/zh/post/proper/) context" 指在合适的情境下。
 
 ## 例句
-- 形容词: "It's [important](/post/important/) [to](/post/to/) [wear](/post/wear/) [proper](/post/proper/) [clothing](/post/clothing/) [for](/post/for/) [a](/post/a/) [job](/post/job/) [interview](/post/interview/)."
-- 名词: "[The](/post/the/) [property](/post/property/) [owner](/post/owner/) wants [to](/post/to/) [keep](/post/keep/) [their](/post/their/) [proper](/post/proper/) [name](/post/name/) confidential."
-- 副词: "[The](/post/the/) [machine](/post/machine/) functions [properly](/post/properly/) [when](/post/when/) maintained [regularly](/post/regularly/)."
+- 形容词: "It's [important](/zh/post/important/) [to](/zh/post/to/) [wear](/zh/post/wear/) [proper](/zh/post/proper/) [clothing](/zh/post/clothing/) [for](/zh/post/for/) [a](/zh/post/a/) [job](/zh/post/job/) [interview](/zh/post/interview/)."
+- 名词: "[The](/zh/post/the/) [property](/zh/post/property/) [owner](/zh/post/owner/) wants [to](/zh/post/to/) [keep](/zh/post/keep/) [their](/zh/post/their/) [proper](/zh/post/proper/) [name](/zh/post/name/) confidential."
+- 副词: "[The](/zh/post/the/) [machine](/zh/post/machine/) functions [properly](/zh/post/properly/) [when](/zh/post/when/) maintained [regularly](/zh/post/regularly/)."
 
 ## 同义词
-- [Correct](/post/correct/)
-- [Appropriate](/post/appropriate/)
-- [Suitable](/post/suitable/)
-- [Accurate](/post/accurate/)
-- [Right](/post/right/)
+- [Correct](/zh/post/correct/)
+- [Appropriate](/zh/post/appropriate/)
+- [Suitable](/zh/post/suitable/)
+- [Accurate](/zh/post/accurate/)
+- [Right](/zh/post/right/)

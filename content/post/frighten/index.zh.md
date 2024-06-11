@@ -11,20 +11,20 @@ keywords = ['ai words', 'frighten']
 /fraɪˈtɛn/
 
 ## 释义
-- **动词**: 使害怕；使惊恐。例如: "[The](/post/the/) [sudden](/post/sudden/) [noise](/post/noise/) frightened [the](/post/the/) [child](/post/child/)."
-- **名词**: 惊吓；恐惧。例如: "[She](/post/she/) felt [a](/post/a/) [deep](/post/deep/) fright [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [the](/post/the/) [snake](/post/snake/)."
+- **动词**: 使害怕；使惊恐。例如: "[The](/zh/post/the/) [sudden](/zh/post/sudden/) [noise](/zh/post/noise/) frightened [the](/zh/post/the/) [child](/zh/post/child/)."
+- **名词**: 惊吓；恐惧。例如: "[She](/zh/post/she/) felt [a](/zh/post/a/) [deep](/zh/post/deep/) fright [when](/zh/post/when/) [she](/zh/post/she/) [saw](/zh/post/saw/) [the](/zh/post/the/) [snake](/zh/post/snake/)."
 
 ## 短语
-- "[to](/post/to/) [frighten](/post/frighten/) [someone](/post/someone/) [away](/post/away/)" 让某人感到害怕而离开。
-- "[a](/post/a/) frightful [experience](/post/experience/)" 一次可怕的体验。
+- "[to](/zh/post/to/) [frighten](/zh/post/frighten/) [someone](/zh/post/someone/) [away](/zh/post/away/)" 让某人感到害怕而离开。
+- "[a](/zh/post/a/) frightful [experience](/zh/post/experience/)" 一次可怕的体验。
 
 ## 例句
-- 动词: "[The](/post/the/) [dark](/post/dark/) alleyway frightened [her](/post/her/), [so](/post/so/) [she](/post/she/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [different](/post/different/) [route](/post/route/) [home](/post/home/)."
-- 名词: "[The](/post/the/) child's [scream](/post/scream/) was [a](/post/a/) [result](/post/result/) [of](/post/of/) [his](/post/his/) fright [at](/post/at/) [the](/post/the/) clown's [appearance](/post/appearance/)."
+- 动词: "[The](/zh/post/the/) [dark](/zh/post/dark/) alleyway frightened [her](/zh/post/her/), [so](/zh/post/so/) [she](/zh/post/she/) decided [to](/zh/post/to/) [take](/zh/post/take/) [a](/zh/post/a/) [different](/zh/post/different/) [route](/zh/post/route/) [home](/zh/post/home/)."
+- 名词: "[The](/zh/post/the/) child's [scream](/zh/post/scream/) was [a](/zh/post/a/) [result](/zh/post/result/) [of](/zh/post/of/) [his](/zh/post/his/) fright [at](/zh/post/at/) [the](/zh/post/the/) clown's [appearance](/zh/post/appearance/)."
 
 ## 同义词
-- [scare](/post/scare/)
+- [scare](/zh/post/scare/)
 - terrify
-- [alarm](/post/alarm/)
+- [alarm](/zh/post/alarm/)
 - intimidate
-- [startle](/post/startle/)
+- [startle](/zh/post/startle/)

@@ -7,42 +7,42 @@ description = '[ˈwediŋ] n.婚礼'
 keywords = ['ai words', 'wedding']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɪˈdeɪɪŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [ceremony](/en/post/ceremony/) [where](/en/post/where/) [two](/en/post/two/) [people](/en/post/people/) [get](/en/post/get/) [married](/en/post/married/), [usually](/en/post/usually/) followed [by](/en/post/by/) [a](/en/post/a/) celebration. [Example](/en/post/example/): "[The](/en/post/the/) [wedding](/en/post/wedding/) was [a](/en/post/a/) [beautiful](/en/post/beautiful/) [event](/en/post/event/), filled [with](/en/post/with/) [joy](/en/post/joy/) [and](/en/post/and/) [love](/en/post/love/)."
-2. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) exchanging vows [and](/en/post/and/) becoming legally [married](/en/post/married/). [Example](/en/post/example/): "[They](/en/post/they/) tied [the](/en/post/the/) [knot](/en/post/knot/) [in](/en/post/in/) [a](/en/post/a/) [small](/en/post/small/), [intimate](/en/post/intimate/) [wedding](/en/post/wedding/) [ceremony](/en/post/ceremony/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [ceremony](/post/ceremony/) [where](/post/where/) [two](/post/two/) [people](/post/people/) [get](/post/get/) [married](/post/married/), [usually](/post/usually/) followed [by](/post/by/) [a](/post/a/) celebration. [Example](/post/example/): "[The](/post/the/) [wedding](/post/wedding/) was [a](/post/a/) [beautiful](/post/beautiful/) [event](/post/event/), filled [with](/post/with/) [joy](/post/joy/) [and](/post/and/) [love](/post/love/)."
+2. [The](/post/the/) [act](/post/act/) [of](/post/of/) exchanging vows [and](/post/and/) becoming legally [married](/post/married/). [Example](/post/example/): "[They](/post/they/) tied [the](/post/the/) [knot](/post/knot/) [in](/post/in/) [a](/post/a/) [small](/post/small/), [intimate](/post/intimate/) [wedding](/post/wedding/) [ceremony](/post/ceremony/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [wedding](/en/post/wedding/), [or](/en/post/or/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [a](/en/post/a/) [marriage](/en/post/marriage/). [Example](/en/post/example/): "[They](/en/post/they/) are planning [their](/en/post/their/) [wedding](/en/post/wedding/) [for](/en/post/for/) [next](/en/post/next/) [summer](/en/post/summer/)."
-2. (informal) [To](/en/post/to/) [unite](/en/post/unite/) [in](/en/post/in/) [marriage](/en/post/marriage/), [as](/en/post/as/) [in](/en/post/in/) "They're getting [married](/en/post/married/)." 
+### [Verb](/post/verb/)
+1. [To](/post/to/) [have](/post/have/) [a](/post/a/) [wedding](/post/wedding/), [or](/post/or/) [to](/post/to/) [celebrate](/post/celebrate/) [a](/post/a/) [marriage](/post/marriage/). [Example](/post/example/): "[They](/post/they/) are planning [their](/post/their/) [wedding](/post/wedding/) [for](/post/for/) [next](/post/next/) [summer](/post/summer/)."
+2. (informal) [To](/post/to/) [unite](/post/unite/) [in](/post/in/) [marriage](/post/marriage/), [as](/post/as/) [in](/post/in/) "They're getting [married](/post/married/)." 
 
-### [Adjective](/en/post/adjective/)
-Referring [to](/en/post/to/) [the](/en/post/the/) [event](/en/post/event/) [or](/en/post/or/) [period](/en/post/period/) surrounding [a](/en/post/a/) [marriage](/en/post/marriage/) [ceremony](/en/post/ceremony/). [Example](/en/post/example/): "[A](/en/post/a/) [wedding](/en/post/wedding/) [dress](/en/post/dress/) is typically [white](/en/post/white/) [and](/en/post/and/) [elaborate](/en/post/elaborate/) [for](/en/post/for/) [the](/en/post/the/) [wedding](/en/post/wedding/) [day](/en/post/day/)."
+### [Adjective](/post/adjective/)
+Referring [to](/post/to/) [the](/post/the/) [event](/post/event/) [or](/post/or/) [period](/post/period/) surrounding [a](/post/a/) [marriage](/post/marriage/) [ceremony](/post/ceremony/). [Example](/post/example/): "[A](/post/a/) [wedding](/post/wedding/) [dress](/post/dress/) is typically [white](/post/white/) [and](/post/and/) [elaborate](/post/elaborate/) [for](/post/for/) [the](/post/the/) [wedding](/post/wedding/) [day](/post/day/)."
 
 ## Phrases
-- "[Exchange](/en/post/exchange/) vows [at](/en/post/at/) [the](/en/post/the/) [wedding](/en/post/wedding/)"
-- "[A](/en/post/a/) [summer](/en/post/summer/) [wedding](/en/post/wedding/)"
-- "[Destination](/en/post/destination/) [wedding](/en/post/wedding/)"
-- "[White](/en/post/white/) [wedding](/en/post/wedding/)"
-- "[Wedding](/en/post/wedding/) [reception](/en/post/reception/)"
+- "[Exchange](/post/exchange/) vows [at](/post/at/) [the](/post/the/) [wedding](/post/wedding/)"
+- "[A](/post/a/) [summer](/post/summer/) [wedding](/post/wedding/)"
+- "[Destination](/post/destination/) [wedding](/post/wedding/)"
+- "[White](/post/white/) [wedding](/post/wedding/)"
+- "[Wedding](/post/wedding/) [reception](/post/reception/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) couple's [wedding](/en/post/wedding/) was [a](/en/post/a/) lavish [affair](/en/post/affair/), [with](/en/post/with/) guests [from](/en/post/from/) [all](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [world](/en/post/world/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [ceremony](/en/post/ceremony/), [they](/en/post/they/) went [on](/en/post/on/) [a](/en/post/a/) [honeymoon](/en/post/honeymoon/) [following](/en/post/following/) [their](/en/post/their/) [wedding](/en/post/wedding/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) bride looked stunning [in](/en/post/in/) [her](/en/post/her/) [wedding](/en/post/wedding/) [gown](/en/post/gown/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) couple's [wedding](/post/wedding/) was [a](/post/a/) lavish [affair](/post/affair/), [with](/post/with/) guests [from](/post/from/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [world](/post/world/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [ceremony](/post/ceremony/), [they](/post/they/) went [on](/post/on/) [a](/post/a/) [honeymoon](/post/honeymoon/) [following](/post/following/) [their](/post/their/) [wedding](/post/wedding/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) bride looked stunning [in](/post/in/) [her](/post/her/) [wedding](/post/wedding/) [gown](/post/gown/)."
 
 ## Synonyms
-- [Marriage](/en/post/marriage/) [ceremony](/en/post/ceremony/)
-- [Wedding](/en/post/wedding/) [feast](/en/post/feast/)
+- [Marriage](/post/marriage/) [ceremony](/post/ceremony/)
+- [Wedding](/post/wedding/) [feast](/post/feast/)
 - Nuptial rite
-- [Union](/en/post/union/)
+- [Union](/post/union/)
 - Celebration
-- [Ceremony](/en/post/ceremony/)
+- [Ceremony](/post/ceremony/)
 
 ## Antonyms
-- [Separation](/en/post/separation/)
-- [Divorce](/en/post/divorce/)
-- Engagement ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) an arranged [marriage](/en/post/marriage/), [not](/en/post/not/) [the](/en/post/the/) engagement [ring](/en/post/ring/))
+- [Separation](/post/separation/)
+- [Divorce](/post/divorce/)
+- Engagement ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) an arranged [marriage](/post/marriage/), [not](/post/not/) [the](/post/the/) engagement [ring](/post/ring/))

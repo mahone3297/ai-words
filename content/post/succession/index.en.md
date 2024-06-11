@@ -7,35 +7,35 @@ description = '[səkˈse∫ən] n.连续；继任，继承'
 keywords = ['ai words', 'succession']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səkˈseɪʃ(ə)n/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) succeeding [or](/en/post/or/) coming [after](/en/post/after/), [usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) [order](/en/post/order/). **[Example](/en/post/example/):** "[The](/en/post/the/) [new](/en/post/new/) CEO's [succession](/en/post/succession/) [plan](/en/post/plan/) was well-received [by](/en/post/by/) [the](/en/post/the/) [board](/en/post/board/)."
-2. [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) taking [over](/en/post/over/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [role](/en/post/role/) [after](/en/post/after/) [someone](/en/post/someone/) [else](/en/post/else/). **[Example](/en/post/example/):** "[She](/en/post/she/) was chosen [for](/en/post/for/) [the](/en/post/the/) [top](/en/post/top/) [job](/en/post/job/) [in](/en/post/in/) [her](/en/post/her/) company's [succession](/en/post/succession/)."
-3. [Successive](/en/post/successive/) generations [or](/en/post/or/) periods. **[Example](/en/post/example/):** "[The](/en/post/the/) family's [long](/en/post/long/) [succession](/en/post/succession/) [of](/en/post/of/) artists."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) succeeding [or](/post/or/) coming [after](/post/after/), [usually](/post/usually/) [in](/post/in/) [a](/post/a/) [series](/post/series/) [or](/post/or/) [order](/post/order/). **[Example](/post/example/):** "[The](/post/the/) [new](/post/new/) CEO's [succession](/post/succession/) [plan](/post/plan/) was well-received [by](/post/by/) [the](/post/the/) [board](/post/board/)."
+2. [The](/post/the/) [process](/post/process/) [of](/post/of/) taking [over](/post/over/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [role](/post/role/) [after](/post/after/) [someone](/post/someone/) [else](/post/else/). **[Example](/post/example/):** "[She](/post/she/) was chosen [for](/post/for/) [the](/post/the/) [top](/post/top/) [job](/post/job/) [in](/post/in/) [her](/post/her/) company's [succession](/post/succession/)."
+3. [Successive](/post/successive/) generations [or](/post/or/) periods. **[Example](/post/example/):** "[The](/post/the/) family's [long](/post/long/) [succession](/post/succession/) [of](/post/of/) artists."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [take](/en/post/take/) [over](/en/post/over/) [or](/en/post/or/) [succeed](/en/post/succeed/) [someone](/en/post/someone/) [in](/en/post/in/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [role](/en/post/role/). **[Example](/en/post/example/):** "John [will](/en/post/will/) [succeed](/en/post/succeed/) [his](/en/post/his/) [father](/en/post/father/) [as](/en/post/as/) CEO."
-2. [To](/en/post/to/) [follow](/en/post/follow/) [one](/en/post/one/) [thing](/en/post/thing/) [or](/en/post/or/) [event](/en/post/event/) [after](/en/post/after/) [another](/en/post/another/). **[Example](/en/post/example/):** "[Her](/en/post/her/) [career](/en/post/career/) [saw](/en/post/saw/) [a](/en/post/a/) [succession](/en/post/succession/) [of](/en/post/of/) milestones."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [take](/post/take/) [over](/post/over/) [or](/post/or/) [succeed](/post/succeed/) [someone](/post/someone/) [in](/post/in/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [role](/post/role/). **[Example](/post/example/):** "John [will](/post/will/) [succeed](/post/succeed/) [his](/post/his/) [father](/post/father/) [as](/post/as/) CEO."
+2. [To](/post/to/) [follow](/post/follow/) [one](/post/one/) [thing](/post/thing/) [or](/post/or/) [event](/post/event/) [after](/post/after/) [another](/post/another/). **[Example](/post/example/):** "[Her](/post/her/) [career](/post/career/) [saw](/post/saw/) [a](/post/a/) [succession](/post/succession/) [of](/post/of/) milestones."
 
-### [Adjective](/en/post/adjective/)
-1. Replacing [or](/en/post/or/) [following](/en/post/following/) [another](/en/post/another/) [in](/en/post/in/) [turn](/en/post/turn/). **[Example](/en/post/example/):** "[The](/en/post/the/) [succession](/en/post/succession/) [of](/en/post/of/) [warm](/en/post/warm/) days made [it](/en/post/it/) [feel](/en/post/feel/) [like](/en/post/like/) [summer](/en/post/summer/)."
-2. Showing [a](/en/post/a/) [continuous](/en/post/continuous/) [or](/en/post/or/) unbroken [series](/en/post/series/). **[Example](/en/post/example/):** "[A](/en/post/a/) [succession](/en/post/succession/) [of](/en/post/of/) storms [hit](/en/post/hit/) [the](/en/post/the/) [region](/en/post/region/)."
+### [Adjective](/post/adjective/)
+1. Replacing [or](/post/or/) [following](/post/following/) [another](/post/another/) [in](/post/in/) [turn](/post/turn/). **[Example](/post/example/):** "[The](/post/the/) [succession](/post/succession/) [of](/post/of/) [warm](/post/warm/) days made [it](/post/it/) [feel](/post/feel/) [like](/post/like/) [summer](/post/summer/)."
+2. Showing [a](/post/a/) [continuous](/post/continuous/) [or](/post/or/) unbroken [series](/post/series/). **[Example](/post/example/):** "[A](/post/a/) [succession](/post/succession/) [of](/post/of/) storms [hit](/post/hit/) [the](/post/the/) [region](/post/region/)."
 
 ## Phrases
-- "Succeeding [in](/en/post/in/) [their](/en/post/their/) footsteps" refers [to](/en/post/to/) [following](/en/post/following/) someone's [path](/en/post/path/).
-- "[In](/en/post/in/) [the](/en/post/the/) [wake](/en/post/wake/) [of](/en/post/of/) [their](/en/post/their/) [succession](/en/post/succession/)" implies happening [after](/en/post/after/) someone's [departure](/en/post/departure/).
-- "[A](/en/post/a/) [smooth](/en/post/smooth/) [succession](/en/post/succession/)" denotes [a](/en/post/a/) seamless transition.
+- "Succeeding [in](/post/in/) [their](/post/their/) footsteps" refers [to](/post/to/) [following](/post/following/) someone's [path](/post/path/).
+- "[In](/post/in/) [the](/post/the/) [wake](/post/wake/) [of](/post/of/) [their](/post/their/) [succession](/post/succession/)" implies happening [after](/post/after/) someone's [departure](/post/departure/).
+- "[A](/post/a/) [smooth](/post/smooth/) [succession](/post/succession/)" denotes [a](/post/a/) seamless transition.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's [succession](/en/post/succession/) [plan](/en/post/plan/) ensures [a](/en/post/a/) seamless handover [of](/en/post/of/) [leadership](/en/post/leadership/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [his](/en/post/his/) retirement, John's [son](/en/post/son/) [will](/en/post/will/) [succeed](/en/post/succeed/) [him](/en/post/him/) [as](/en/post/as/) [team](/en/post/team/) [captain](/en/post/captain/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [succession](/en/post/succession/) [of](/en/post/of/) events led [to](/en/post/to/) [a](/en/post/a/) [dramatic](/en/post/dramatic/) [change](/en/post/change/) [in](/en/post/in/) [the](/en/post/the/) [market](/en/post/market/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) company's [succession](/post/succession/) [plan](/post/plan/) ensures [a](/post/a/) seamless handover [of](/post/of/) [leadership](/post/leadership/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [his](/post/his/) retirement, John's [son](/post/son/) [will](/post/will/) [succeed](/post/succeed/) [him](/post/him/) [as](/post/as/) [team](/post/team/) [captain](/post/captain/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [succession](/post/succession/) [of](/post/of/) events led [to](/post/to/) [a](/post/a/) [dramatic](/post/dramatic/) [change](/post/change/) [in](/post/in/) [the](/post/the/) [market](/post/market/)."
 
 ## Synonyms
-- [Success](/en/post/success/)
+- [Success](/post/success/)
 - Continuation
 - Lineage
 - Successorship

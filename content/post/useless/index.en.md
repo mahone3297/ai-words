@@ -7,34 +7,34 @@ description = '[ˈjuːslis] a.无用的，无价值的'
 keywords = ['ai words', 'useless']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjuːsləs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [useless](/en/post/useless/) [object](/en/post/object/) [or](/en/post/or/) [thing](/en/post/thing/) is [one](/en/post/one/) [that](/en/post/that/) has [no](/en/post/no/) [practical](/en/post/practical/) [purpose](/en/post/purpose/) [or](/en/post/or/) [value](/en/post/value/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [broken](/en/post/broken/) [machine](/en/post/machine/) was [a](/en/post/a/) [useless](/en/post/useless/) [piece](/en/post/piece/) [of](/en/post/of/) [equipment](/en/post/equipment/)."
-- [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [useless](/en/post/useless/) is unproductive [or](/en/post/or/) ineffective. [For](/en/post/for/) [example](/en/post/example/): "He's been [a](/en/post/a/) [useless](/en/post/useless/) [employee](/en/post/employee/), [not](/en/post/not/) contributing [much](/en/post/much/) [to](/en/post/to/) [the](/en/post/the/) [team](/en/post/team/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) [useless](/post/useless/) [object](/post/object/) [or](/post/or/) [thing](/post/thing/) is [one](/post/one/) [that](/post/that/) has [no](/post/no/) [practical](/post/practical/) [purpose](/post/purpose/) [or](/post/or/) [value](/post/value/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [broken](/post/broken/) [machine](/post/machine/) was [a](/post/a/) [useless](/post/useless/) [piece](/post/piece/) [of](/post/of/) [equipment](/post/equipment/)."
+- [A](/post/a/) [person](/post/person/) [who](/post/who/) is [useless](/post/useless/) is unproductive [or](/post/or/) ineffective. [For](/post/for/) [example](/post/example/): "He's been [a](/post/a/) [useless](/post/useless/) [employee](/post/employee/), [not](/post/not/) contributing [much](/post/much/) [to](/post/to/) [the](/post/the/) [team](/post/team/)."
 
-### [Adjective](/en/post/adjective/)
-- Describes [something](/en/post/something/) [that](/en/post/that/) is [of](/en/post/of/) [no](/en/post/no/) [use](/en/post/use/) [or](/en/post/or/) serves [no](/en/post/no/) [purpose](/en/post/purpose/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [useless](/en/post/useless/) [attempt](/en/post/attempt/) [will](/en/post/will/) [never](/en/post/never/) [lead](/en/post/lead/) [to](/en/post/to/) [success](/en/post/success/)."
-- Characterizes [a](/en/post/a/) [person](/en/post/person/) [as](/en/post/as/) [inefficient](/en/post/inefficient/) [or](/en/post/or/) incapable. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is [a](/en/post/a/) [useless](/en/post/useless/) [driver](/en/post/driver/), [always](/en/post/always/) getting lost."
+### [Adjective](/post/adjective/)
+- Describes [something](/post/something/) [that](/post/that/) is [of](/post/of/) [no](/post/no/) [use](/post/use/) [or](/post/or/) serves [no](/post/no/) [purpose](/post/purpose/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [useless](/post/useless/) [attempt](/post/attempt/) [will](/post/will/) [never](/post/never/) [lead](/post/lead/) [to](/post/to/) [success](/post/success/)."
+- Characterizes [a](/post/a/) [person](/post/person/) [as](/post/as/) [inefficient](/post/inefficient/) [or](/post/or/) incapable. [For](/post/for/) [example](/post/example/): "[She](/post/she/) is [a](/post/a/) [useless](/post/useless/) [driver](/post/driver/), [always](/post/always/) getting lost."
 
-### [Adverb](/en/post/adverb/)
-- [Sometimes](/en/post/sometimes/) [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [that](/en/post/that/) [something](/en/post/something/) is [completely](/en/post/completely/) [without](/en/post/without/) [value](/en/post/value/) [or](/en/post/or/) effectiveness. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) tried [to](/en/post/to/) [solve](/en/post/solve/) [the](/en/post/the/) [problem](/en/post/problem/), [but](/en/post/but/) [his](/en/post/his/) efforts were utterly [useless](/en/post/useless/)."
+### [Adverb](/post/adverb/)
+- [Sometimes](/post/sometimes/) [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [that](/post/that/) [something](/post/something/) is [completely](/post/completely/) [without](/post/without/) [value](/post/value/) [or](/post/or/) effectiveness. [For](/post/for/) [example](/post/example/): "[He](/post/he/) tried [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [problem](/post/problem/), [but](/post/but/) [his](/post/his/) efforts were utterly [useless](/post/useless/)."
 
 ## Phrases
-- "[A](/en/post/a/) [useless](/en/post/useless/) endeavor" refers [to](/en/post/to/) [a](/en/post/a/) futile [or](/en/post/or/) pointless [activity](/en/post/activity/).
-- "[Useless](/en/post/useless/) worrying" describes [excessive](/en/post/excessive/) [or](/en/post/or/) [unnecessary](/en/post/unnecessary/) [anxiety](/en/post/anxiety/).
-- "She's [as](/en/post/as/) [useful](/en/post/useful/) [as](/en/post/as/) [a](/en/post/a/) one-legged [man](/en/post/man/) [in](/en/post/in/) [a](/en/post/a/) butt-kicking [contest](/en/post/contest/)" is an idiomatic [expression](/en/post/expression/) [meaning](/en/post/meaning/) [she](/en/post/she/) is [completely](/en/post/completely/) ineffectual.
+- "[A](/post/a/) [useless](/post/useless/) endeavor" refers [to](/post/to/) [a](/post/a/) futile [or](/post/or/) pointless [activity](/post/activity/).
+- "[Useless](/post/useless/) worrying" describes [excessive](/post/excessive/) [or](/post/or/) [unnecessary](/post/unnecessary/) [anxiety](/post/anxiety/).
+- "She's [as](/post/as/) [useful](/post/useful/) [as](/post/as/) [a](/post/a/) one-legged [man](/post/man/) [in](/post/in/) [a](/post/a/) butt-kicking [contest](/post/contest/)" is an idiomatic [expression](/post/expression/) [meaning](/post/meaning/) [she](/post/she/) is [completely](/post/completely/) ineffectual.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/), rusted [bicycle](/en/post/bicycle/) was [a](/en/post/a/) [useless](/en/post/useless/) [addition](/en/post/addition/) [to](/en/post/to/) [our](/en/post/our/) [garage](/en/post/garage/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [advice](/en/post/advice/) was [so](/en/post/so/) [useless](/en/post/useless/) [that](/en/post/that/) [it](/en/post/it/) didn't [help](/en/post/help/) [at](/en/post/at/) [all](/en/post/all/)."
-- **[Adverb](/en/post/adverb/)**: "[His](/en/post/his/) attempts [to](/en/post/to/) [fix](/en/post/fix/) [the](/en/post/the/) [leak](/en/post/leak/) were [completely](/en/post/completely/) [useless](/en/post/useless/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/), rusted [bicycle](/post/bicycle/) was [a](/post/a/) [useless](/post/useless/) [addition](/post/addition/) [to](/post/to/) [our](/post/our/) [garage](/post/garage/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [advice](/post/advice/) was [so](/post/so/) [useless](/post/useless/) [that](/post/that/) [it](/post/it/) didn't [help](/post/help/) [at](/post/at/) [all](/post/all/)."
+- **[Adverb](/post/adverb/)**: "[His](/post/his/) attempts [to](/post/to/) [fix](/post/fix/) [the](/post/the/) [leak](/post/leak/) were [completely](/post/completely/) [useless](/post/useless/)."
 
 ## Synonyms
 - Ineffective
-- [Worthless](/en/post/worthless/)
+- [Worthless](/post/worthless/)
 - Uselessness
 - Impotent
 - Unproductive
@@ -43,9 +43,9 @@ keywords = ['ai words', 'useless']
 - Incapable
 
 ## Antonyms
-- [Effective](/en/post/effective/)
-- [Valuable](/en/post/valuable/)
-- [Productive](/en/post/productive/)
-- [Efficient](/en/post/efficient/)
-- [Beneficial](/en/post/beneficial/)
-- [Successful](/en/post/successful/)
+- [Effective](/post/effective/)
+- [Valuable](/post/valuable/)
+- [Productive](/post/productive/)
+- [Efficient](/post/efficient/)
+- [Beneficial](/post/beneficial/)
+- [Successful](/post/successful/)

@@ -7,36 +7,36 @@ description = '[sait] n.视力；见；情景'
 keywords = ['ai words', 'sight']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /saɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-    1. [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [see](/en/post/see/); [vision](/en/post/vision/). "[She](/en/post/she/) has [excellent](/en/post/excellent/) [sight](/en/post/sight/)."
-    2. An [instance](/en/post/instance/) [or](/en/post/or/) [experience](/en/post/experience/) [of](/en/post/of/) seeing [something](/en/post/something/); [a](/en/post/a/) [visual](/en/post/visual/) perception. "[The](/en/post/the/) [sight](/en/post/sight/) [of](/en/post/of/) [the](/en/post/the/) [sunset](/en/post/sunset/) [left](/en/post/left/) [her](/en/post/her/) speechless."
-    3. [A](/en/post/a/) [particular](/en/post/particular/) [view](/en/post/view/) [or](/en/post/or/) [scene](/en/post/scene/), [often](/en/post/often/) picturesque [or](/en/post/or/) [impressive](/en/post/impressive/). "[The](/en/post/the/) tourists marveled [at](/en/post/at/) [the](/en/post/the/) historic [sight](/en/post/sight/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [perceive](/en/post/perceive/) [with](/en/post/with/) [the](/en/post/the/) [eye](/en/post/eye/); [to](/en/post/to/) [see](/en/post/see/). "I sighted [a](/en/post/a/) [bird](/en/post/bird/) perched [on](/en/post/on/) [a](/en/post/a/) [branch](/en/post/branch/)."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) relating [to](/en/post/to/) [sight](/en/post/sight/). "[Sight](/en/post/sight/) tests [check](/en/post/check/) [a](/en/post/a/) person's [visual](/en/post/visual/) acuity."
+- **[Noun](/post/noun/)**: 
+    1. [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [see](/post/see/); [vision](/post/vision/). "[She](/post/she/) has [excellent](/post/excellent/) [sight](/post/sight/)."
+    2. An [instance](/post/instance/) [or](/post/or/) [experience](/post/experience/) [of](/post/of/) seeing [something](/post/something/); [a](/post/a/) [visual](/post/visual/) perception. "[The](/post/the/) [sight](/post/sight/) [of](/post/of/) [the](/post/the/) [sunset](/post/sunset/) [left](/post/left/) [her](/post/her/) speechless."
+    3. [A](/post/a/) [particular](/post/particular/) [view](/post/view/) [or](/post/or/) [scene](/post/scene/), [often](/post/often/) picturesque [or](/post/or/) [impressive](/post/impressive/). "[The](/post/the/) tourists marveled [at](/post/at/) [the](/post/the/) historic [sight](/post/sight/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [perceive](/post/perceive/) [with](/post/with/) [the](/post/the/) [eye](/post/eye/); [to](/post/to/) [see](/post/see/). "I sighted [a](/post/a/) [bird](/post/bird/) perched [on](/post/on/) [a](/post/a/) [branch](/post/branch/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) relating [to](/post/to/) [sight](/post/sight/). "[Sight](/post/sight/) tests [check](/post/check/) [a](/post/a/) person's [visual](/post/visual/) acuity."
 
 ## Phrases
-- "[Get](/en/post/get/) [a](/en/post/a/) [good](/en/post/good/) [sight](/en/post/sight/) [of](/en/post/of/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [see](/en/post/see/) [something](/en/post/something/) [clearly](/en/post/clearly/).
-- "[Out](/en/post/out/) [of](/en/post/of/) [sight](/en/post/sight/), [out](/en/post/out/) [of](/en/post/of/) [mind](/en/post/mind/)" implies [that](/en/post/that/) [when](/en/post/when/) [something](/en/post/something/) is [no](/en/post/no/) longer [visible](/en/post/visible/), [it](/en/post/it/) is [also](/en/post/also/) forgotten.
-- "[Sightseeing](/en/post/sightseeing/)" is [the](/en/post/the/) [activity](/en/post/activity/) [of](/en/post/of/) visiting [interesting](/en/post/interesting/) places [to](/en/post/to/) [see](/en/post/see/) [their](/en/post/their/) sights.
+- "[Get](/post/get/) [a](/post/a/) [good](/post/good/) [sight](/post/sight/) [of](/post/of/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [see](/post/see/) [something](/post/something/) [clearly](/post/clearly/).
+- "[Out](/post/out/) [of](/post/of/) [sight](/post/sight/), [out](/post/out/) [of](/post/of/) [mind](/post/mind/)" implies [that](/post/that/) [when](/post/when/) [something](/post/something/) is [no](/post/no/) longer [visible](/post/visible/), [it](/post/it/) is [also](/post/also/) forgotten.
+- "[Sightseeing](/post/sightseeing/)" is [the](/post/the/) [activity](/post/activity/) [of](/post/of/) visiting [interesting](/post/interesting/) places [to](/post/to/) [see](/post/see/) [their](/post/their/) sights.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) adjusting [my](/en/post/my/) glasses, I [could](/en/post/could/) [finally](/en/post/finally/) [get](/en/post/get/) [a](/en/post/a/) [clear](/en/post/clear/) [sight](/en/post/sight/) [of](/en/post/of/) [the](/en/post/the/) [painting](/en/post/painting/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) sighted [the](/en/post/the/) [ship](/en/post/ship/) [in](/en/post/in/) [the](/en/post/the/) [distance](/en/post/distance/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sight](/en/post/sight/) [of](/en/post/of/) [her](/en/post/her/) [old](/en/post/old/) [house](/en/post/house/) brought [back](/en/post/back/) memories [from](/en/post/from/) [her](/en/post/her/) [childhood](/en/post/childhood/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) adjusting [my](/post/my/) glasses, I [could](/post/could/) [finally](/post/finally/) [get](/post/get/) [a](/post/a/) [clear](/post/clear/) [sight](/post/sight/) [of](/post/of/) [the](/post/the/) [painting](/post/painting/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) sighted [the](/post/the/) [ship](/post/ship/) [in](/post/in/) [the](/post/the/) [distance](/post/distance/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sight](/post/sight/) [of](/post/of/) [her](/post/her/) [old](/post/old/) [house](/post/house/) brought [back](/post/back/) memories [from](/post/from/) [her](/post/her/) [childhood](/post/childhood/)."
 
 ## Synonyms
-- [Vision](/en/post/vision/)
+- [Vision](/post/vision/)
 - Visionary
-- [Visual](/en/post/visual/)
+- [Visual](/post/visual/)
 - Perception
-- [Observation](/en/post/observation/)
+- [Observation](/post/observation/)
 - Insight
-- [View](/en/post/view/)
+- [View](/post/view/)
 -景观
-- [Scene](/en/post/scene/)
+- [Scene](/post/scene/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [last](/en/post/last/) [entry](/en/post/entry/) is [the](/en/post/the/) Chinese [translation](/en/post/translation/) [of](/en/post/of/) "[sight](/en/post/sight/)" [as](/en/post/as/) [it](/en/post/it/) [would](/en/post/would/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) describing [a](/en/post/a/) scenic [view](/en/post/view/).
+[Note](/post/note/): [The](/post/the/) [last](/post/last/) [entry](/post/entry/) is [the](/post/the/) Chinese [translation](/post/translation/) [of](/post/of/) "[sight](/post/sight/)" [as](/post/as/) [it](/post/it/) [would](/post/would/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) describing [a](/post/a/) scenic [view](/post/view/).

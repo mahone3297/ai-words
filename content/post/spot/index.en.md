@@ -7,51 +7,51 @@ description = '[spɔt] n.点，斑点；地点'
 keywords = ['ai words', 'spot']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /spɒt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [point](/en/post/point/) [or](/en/post/or/) [area](/en/post/area/) [on](/en/post/on/) [a](/en/post/a/) [surface](/en/post/surface/) [or](/en/post/or/) [in](/en/post/in/) [space](/en/post/space/)**: [The](/en/post/the/) [dog](/en/post/dog/) jumped [on](/en/post/on/) [the](/en/post/the/) [spot](/en/post/spot/). ([Location](/en/post/location/))
-- **[A](/en/post/a/) [mark](/en/post/mark/) [or](/en/post/or/) [stain](/en/post/stain/)**: There's [a](/en/post/a/) [spot](/en/post/spot/) [on](/en/post/on/) [your](/en/post/your/) [shirt](/en/post/shirt/). ([Defect](/en/post/defect/))
-- **[A](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [or](/en/post/or/) [time](/en/post/time/)**: [The](/en/post/the/) [meeting](/en/post/meeting/) [spot](/en/post/spot/) is [the](/en/post/the/) café [across](/en/post/across/) [the](/en/post/the/) [street](/en/post/street/). ([Specific](/en/post/specific/) [location](/en/post/location/))
-- **[A](/en/post/a/) person's distinctive [feature](/en/post/feature/) [or](/en/post/or/) [characteristic](/en/post/characteristic/)**: [He](/en/post/he/) has [a](/en/post/a/) freckle [right](/en/post/right/) [on](/en/post/on/) [his](/en/post/his/) [spot](/en/post/spot/). (Distinctive trait)
-- **[A](/en/post/a/) [role](/en/post/role/) [or](/en/post/or/) [position](/en/post/position/)**: [She](/en/post/she/) got [the](/en/post/the/) [lead](/en/post/lead/) [spot](/en/post/spot/) [in](/en/post/in/) [the](/en/post/the/) [play](/en/post/play/). ([Role](/en/post/role/))
+### [Noun](/post/noun/)
+- **[A](/post/a/) [point](/post/point/) [or](/post/or/) [area](/post/area/) [on](/post/on/) [a](/post/a/) [surface](/post/surface/) [or](/post/or/) [in](/post/in/) [space](/post/space/)**: [The](/post/the/) [dog](/post/dog/) jumped [on](/post/on/) [the](/post/the/) [spot](/post/spot/). ([Location](/post/location/))
+- **[A](/post/a/) [mark](/post/mark/) [or](/post/or/) [stain](/post/stain/)**: There's [a](/post/a/) [spot](/post/spot/) [on](/post/on/) [your](/post/your/) [shirt](/post/shirt/). ([Defect](/post/defect/))
+- **[A](/post/a/) [particular](/post/particular/) [place](/post/place/) [or](/post/or/) [time](/post/time/)**: [The](/post/the/) [meeting](/post/meeting/) [spot](/post/spot/) is [the](/post/the/) café [across](/post/across/) [the](/post/the/) [street](/post/street/). ([Specific](/post/specific/) [location](/post/location/))
+- **[A](/post/a/) person's distinctive [feature](/post/feature/) [or](/post/or/) [characteristic](/post/characteristic/)**: [He](/post/he/) has [a](/post/a/) freckle [right](/post/right/) [on](/post/on/) [his](/post/his/) [spot](/post/spot/). (Distinctive trait)
+- **[A](/post/a/) [role](/post/role/) [or](/post/or/) [position](/post/position/)**: [She](/post/she/) got [the](/post/the/) [lead](/post/lead/) [spot](/post/spot/) [in](/post/in/) [the](/post/the/) [play](/post/play/). ([Role](/post/role/))
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [notice](/en/post/notice/) [or](/en/post/or/) [identify](/en/post/identify/)**: I spotted [a](/en/post/a/) [bird](/en/post/bird/) [in](/en/post/in/) [the](/en/post/the/) [tree](/en/post/tree/). ([Detect](/en/post/detect/))
-- **[To](/en/post/to/) [mark](/en/post/mark/) [or](/en/post/or/) [indicate](/en/post/indicate/) [with](/en/post/with/) [a](/en/post/a/) [spot](/en/post/spot/) [or](/en/post/or/) [dot](/en/post/dot/)**: [She](/en/post/she/) spotted [her](/en/post/her/) [name](/en/post/name/) [on](/en/post/on/) [the](/en/post/the/) [list](/en/post/list/). ([Mark](/en/post/mark/))
-- **[To](/en/post/to/) [give](/en/post/give/) [special](/en/post/special/) [attention](/en/post/attention/) [or](/en/post/or/) [recognition](/en/post/recognition/) [to](/en/post/to/)**: [He](/en/post/he/) spotted [the](/en/post/the/) [error](/en/post/error/) [in](/en/post/in/) [the](/en/post/the/) [report](/en/post/report/). ([Identify](/en/post/identify/))
-- **To未婚夫 [or](/en/post/or/) girlfriend**: [She](/en/post/she/) spotted [her](/en/post/her/) [future](/en/post/future/) [husband](/en/post/husband/) [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/). ([Notice](/en/post/notice/) romantically)
+### [Verb](/post/verb/)
+- **[To](/post/to/) [notice](/post/notice/) [or](/post/or/) [identify](/post/identify/)**: I spotted [a](/post/a/) [bird](/post/bird/) [in](/post/in/) [the](/post/the/) [tree](/post/tree/). ([Detect](/post/detect/))
+- **[To](/post/to/) [mark](/post/mark/) [or](/post/or/) [indicate](/post/indicate/) [with](/post/with/) [a](/post/a/) [spot](/post/spot/) [or](/post/or/) [dot](/post/dot/)**: [She](/post/she/) spotted [her](/post/her/) [name](/post/name/) [on](/post/on/) [the](/post/the/) [list](/post/list/). ([Mark](/post/mark/))
+- **[To](/post/to/) [give](/post/give/) [special](/post/special/) [attention](/post/attention/) [or](/post/or/) [recognition](/post/recognition/) [to](/post/to/)**: [He](/post/he/) spotted [the](/post/the/) [error](/post/error/) [in](/post/in/) [the](/post/the/) [report](/post/report/). ([Identify](/post/identify/))
+- **To未婚夫 [or](/post/or/) girlfriend**: [She](/post/she/) spotted [her](/post/her/) [future](/post/future/) [husband](/post/husband/) [at](/post/at/) [the](/post/the/) [party](/post/party/). ([Notice](/post/notice/) romantically)
 
-### [Adjective](/en/post/adjective/)
-- **[Small](/en/post/small/) [or](/en/post/or/) [particular](/en/post/particular/)**: [a](/en/post/a/) [tiny](/en/post/tiny/) [spot](/en/post/spot/) [of](/en/post/of/) [paint](/en/post/paint/) ([Size](/en/post/size/))
-- **[Distinct](/en/post/distinct/) [or](/en/post/or/) [noticeable](/en/post/noticeable/)**: [a](/en/post/a/) [bright](/en/post/bright/) [spot](/en/post/spot/) [in](/en/post/in/) [the](/en/post/the/) [dark](/en/post/dark/) (Characteristics)
-- **[Unusual](/en/post/unusual/) [or](/en/post/or/) [out](/en/post/out/) [of](/en/post/of/) [place](/en/post/place/)**: [a](/en/post/a/) [strange](/en/post/strange/) [spot](/en/post/spot/) [on](/en/post/on/) [the](/en/post/the/) [wall](/en/post/wall/) (Abnormality)
+### [Adjective](/post/adjective/)
+- **[Small](/post/small/) [or](/post/or/) [particular](/post/particular/)**: [a](/post/a/) [tiny](/post/tiny/) [spot](/post/spot/) [of](/post/of/) [paint](/post/paint/) ([Size](/post/size/))
+- **[Distinct](/post/distinct/) [or](/post/or/) [noticeable](/post/noticeable/)**: [a](/post/a/) [bright](/post/bright/) [spot](/post/spot/) [in](/post/in/) [the](/post/the/) [dark](/post/dark/) (Characteristics)
+- **[Unusual](/post/unusual/) [or](/post/or/) [out](/post/out/) [of](/post/of/) [place](/post/place/)**: [a](/post/a/) [strange](/post/strange/) [spot](/post/spot/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/) (Abnormality)
 
-### [Adverb](/en/post/adverb/)
-- **[Exactly](/en/post/exactly/) [or](/en/post/or/) precisely**: [She](/en/post/she/) [hit](/en/post/hit/) [the](/en/post/the/) [target](/en/post/target/) [spot](/en/post/spot/) [on](/en/post/on/). ([Accuracy](/en/post/accuracy/))
-- **[In](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/)**: [The](/en/post/the/) [bullet](/en/post/bullet/) landed [in](/en/post/in/) [the](/en/post/the/) [spot](/en/post/spot/) [it](/en/post/it/) was aimed [at](/en/post/at/). ([Location](/en/post/location/))
+### [Adverb](/post/adverb/)
+- **[Exactly](/post/exactly/) [or](/post/or/) precisely**: [She](/post/she/) [hit](/post/hit/) [the](/post/the/) [target](/post/target/) [spot](/post/spot/) [on](/post/on/). ([Accuracy](/post/accuracy/))
+- **[In](/post/in/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/)**: [The](/post/the/) [bullet](/post/bullet/) landed [in](/post/in/) [the](/post/the/) [spot](/post/spot/) [it](/post/it/) was aimed [at](/post/at/). ([Location](/post/location/))
 
 ## Phrases
-- "[Spot](/en/post/spot/) [on](/en/post/on/)" [means](/en/post/means/) [exactly](/en/post/exactly/) [right](/en/post/right/).
-- "[Spot](/en/post/spot/) [check](/en/post/check/)" is [a](/en/post/a/) [quick](/en/post/quick/) [inspection](/en/post/inspection/).
-- "[A](/en/post/a/) [spot](/en/post/spot/) [of](/en/post/of/) [trouble](/en/post/trouble/)" refers [to](/en/post/to/) [a](/en/post/a/) [small](/en/post/small/) [problem](/en/post/problem/) [or](/en/post/or/) [difficulty](/en/post/difficulty/).
+- "[Spot](/post/spot/) [on](/post/on/)" [means](/post/means/) [exactly](/post/exactly/) [right](/post/right/).
+- "[Spot](/post/spot/) [check](/post/check/)" is [a](/post/a/) [quick](/post/quick/) [inspection](/post/inspection/).
+- "[A](/post/a/) [spot](/post/spot/) [of](/post/of/) [trouble](/post/trouble/)" refers [to](/post/to/) [a](/post/a/) [small](/post/small/) [problem](/post/problem/) [or](/post/or/) [difficulty](/post/difficulty/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sun](/en/post/sun/) [left](/en/post/left/) [a](/en/post/a/) [spot](/en/post/spot/) [of](/en/post/of/) [warmth](/en/post/warmth/) [on](/en/post/on/) [my](/en/post/my/) [skin](/en/post/skin/)."
-- **[Verb](/en/post/verb/)**: "I spotted [a](/en/post/a/) [ripe](/en/post/ripe/) [apple](/en/post/apple/) [from](/en/post/from/) [across](/en/post/across/) [the](/en/post/the/) [garden](/en/post/garden/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) had [a](/en/post/a/) cozy [spot](/en/post/spot/) [by](/en/post/by/) [the](/en/post/the/) fireplace."
-- **[Adverb](/en/post/adverb/)**: "[His](/en/post/his/) [aim](/en/post/aim/) was spot-on, [and](/en/post/and/) [he](/en/post/he/) scored [a](/en/post/a/) [goal](/en/post/goal/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sun](/post/sun/) [left](/post/left/) [a](/post/a/) [spot](/post/spot/) [of](/post/of/) [warmth](/post/warmth/) [on](/post/on/) [my](/post/my/) [skin](/post/skin/)."
+- **[Verb](/post/verb/)**: "I spotted [a](/post/a/) [ripe](/post/ripe/) [apple](/post/apple/) [from](/post/from/) [across](/post/across/) [the](/post/the/) [garden](/post/garden/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) had [a](/post/a/) cozy [spot](/post/spot/) [by](/post/by/) [the](/post/the/) fireplace."
+- **[Adverb](/post/adverb/)**: "[His](/post/his/) [aim](/post/aim/) was spot-on, [and](/post/and/) [he](/post/he/) scored [a](/post/a/) [goal](/post/goal/)."
 
 ## Synonyms
-- [Mark](/en/post/mark/)
-- [Dot](/en/post/dot/)
+- [Mark](/post/mark/)
+- [Dot](/post/dot/)
 - Blemish
-- [Patch](/en/post/patch/)
-- Spotlight ([as](/en/post/as/) [in](/en/post/in/) [attention](/en/post/attention/))
-- [Find](/en/post/find/)
+- [Patch](/post/patch/)
+- Spotlight ([as](/post/as/) [in](/post/in/) [attention](/post/attention/))
+- [Find](/post/find/)
 - Pinpoint
-- [Land](/en/post/land/)
-- [Recognize](/en/post/recognize/)
-- [Discover](/en/post/discover/)
+- [Land](/post/land/)
+- [Recognize](/post/recognize/)
+- [Discover](/post/discover/)

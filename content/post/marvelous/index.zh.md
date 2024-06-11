@@ -11,20 +11,20 @@ keywords = ['ai words', 'marvelous']
 /məˈrævələs/
 
 ## 释义
-- **形容词**: 极好的，令人惊叹的，非凡的。例如: "[The](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) [mountain](/post/mountain/) [top](/post/top/) was [simply](/post/simply/) [marvelous](/post/marvelous/)."
-- **副词**: 非常，极其。例如: "[She](/post/she/) played [the](/post/the/) [piano](/post/piano/) marvelously [well](/post/well/)."
+- **形容词**: 极好的，令人惊叹的，非凡的。例如: "[The](/zh/post/the/) [view](/zh/post/view/) [from](/zh/post/from/) [the](/zh/post/the/) [mountain](/zh/post/mountain/) [top](/zh/post/top/) was [simply](/zh/post/simply/) [marvelous](/zh/post/marvelous/)."
+- **副词**: 非常，极其。例如: "[She](/zh/post/she/) played [the](/zh/post/the/) [piano](/zh/post/piano/) marvelously [well](/zh/post/well/)."
 
 ## 短语
-- "[marvelous](/post/marvelous/) [achievement](/post/achievement/)" 意为卓越的成就。
-- "[marvelous](/post/marvelous/) [performance](/post/performance/)" 指的是出色的表演。
+- "[marvelous](/zh/post/marvelous/) [achievement](/zh/post/achievement/)" 意为卓越的成就。
+- "[marvelous](/zh/post/marvelous/) [performance](/zh/post/performance/)" 指的是出色的表演。
 
 ## 例句
-- 形容词: "[The](/post/the/) artist's [work](/post/work/) is [truly](/post/truly/) [marvelous](/post/marvelous/), showcasing incredible [detail](/post/detail/) [and](/post/and/) [skill](/post/skill/)."
-- 副词: "[She](/post/she/) sang [with](/post/with/) [a](/post/a/) [marvelous](/post/marvelous/) [voice](/post/voice/) [that](/post/that/) captivated [the](/post/the/) [entire](/post/entire/) [audience](/post/audience/)."
+- 形容词: "[The](/zh/post/the/) artist's [work](/zh/post/work/) is [truly](/zh/post/truly/) [marvelous](/zh/post/marvelous/), showcasing incredible [detail](/zh/post/detail/) [and](/zh/post/and/) [skill](/zh/post/skill/)."
+- 副词: "[She](/zh/post/she/) sang [with](/zh/post/with/) [a](/zh/post/a/) [marvelous](/zh/post/marvelous/) [voice](/zh/post/voice/) [that](/zh/post/that/) captivated [the](/zh/post/the/) [entire](/zh/post/entire/) [audience](/zh/post/audience/)."
 
 ## 同义词
-- [Wonderful](/post/wonderful/)
+- [Wonderful](/zh/post/wonderful/)
 - Amazing
 - Incredible
 - Astonishing
-- [Impressive](/post/impressive/)
+- [Impressive](/zh/post/impressive/)

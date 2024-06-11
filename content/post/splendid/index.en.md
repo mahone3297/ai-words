@@ -7,34 +7,34 @@ description = '[ˈsplendid] a.壮丽的；显著的'
 keywords = ['ai words', 'splendid']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /splɪˈnɪd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Of](/en/post/of/) [high](/en/post/high/) [quality](/en/post/quality/); [excellent](/en/post/excellent/); [impressive](/en/post/impressive/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) [top](/en/post/top/) was [absolutely](/en/post/absolutely/) [splendid](/en/post/splendid/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) ([something](/en/post/something/)) [appear](/en/post/appear/) [splendid](/en/post/splendid/) [or](/en/post/or/) [attractive](/en/post/attractive/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) decorator worked wonders, making [the](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) [look](/en/post/look/) [splendid](/en/post/splendid/)."
+- **[Adjective](/post/adjective/)**: [Of](/post/of/) [high](/post/high/) [quality](/post/quality/); [excellent](/post/excellent/); [impressive](/post/impressive/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) [top](/post/top/) was [absolutely](/post/absolutely/) [splendid](/post/splendid/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) ([something](/post/something/)) [appear](/post/appear/) [splendid](/post/splendid/) [or](/post/or/) [attractive](/post/attractive/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) decorator worked wonders, making [the](/post/the/) [old](/post/old/) [house](/post/house/) [look](/post/look/) [splendid](/post/splendid/)."
 
 ## Phrases
-- "[In](/en/post/in/) [splendid](/en/post/splendid/) isolation" describes [something](/en/post/something/) [that](/en/post/that/) is isolated [but](/en/post/but/) [still](/en/post/still/) [impressive](/en/post/impressive/).
-- "[A](/en/post/a/) [splendid](/en/post/splendid/) [occasion](/en/post/occasion/)" refers [to](/en/post/to/) [a](/en/post/a/) [special](/en/post/special/) [and](/en/post/and/) enjoyable [event](/en/post/event/).
-- "[Splendid](/en/post/splendid/) [job](/en/post/job/)" is [used](/en/post/used/) [to](/en/post/to/) [praise](/en/post/praise/) [someone](/en/post/someone/) [for](/en/post/for/) [a](/en/post/a/) well-done [task](/en/post/task/).
+- "[In](/post/in/) [splendid](/post/splendid/) isolation" describes [something](/post/something/) [that](/post/that/) is isolated [but](/post/but/) [still](/post/still/) [impressive](/post/impressive/).
+- "[A](/post/a/) [splendid](/post/splendid/) [occasion](/post/occasion/)" refers [to](/post/to/) [a](/post/a/) [special](/post/special/) [and](/post/and/) enjoyable [event](/post/event/).
+- "[Splendid](/post/splendid/) [job](/post/job/)" is [used](/post/used/) [to](/post/to/) [praise](/post/praise/) [someone](/post/someone/) [for](/post/for/) [a](/post/a/) well-done [task](/post/task/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [magnificent](/en/post/magnificent/) fireworks [display](/en/post/display/) was [a](/en/post/a/) [splendid](/en/post/splendid/) [sight](/en/post/sight/) [to](/en/post/to/) behold."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [thorough](/en/post/thorough/) cleaning, [the](/en/post/the/) [old](/en/post/old/) mansion looked [splendid](/en/post/splendid/)."
-- "[She](/en/post/she/) felt [splendid](/en/post/splendid/) [after](/en/post/after/) finishing [her](/en/post/her/) marathon."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [magnificent](/post/magnificent/) fireworks [display](/post/display/) was [a](/post/a/) [splendid](/post/splendid/) [sight](/post/sight/) [to](/post/to/) behold."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [thorough](/post/thorough/) cleaning, [the](/post/the/) [old](/post/old/) mansion looked [splendid](/post/splendid/)."
+- "[She](/post/she/) felt [splendid](/post/splendid/) [after](/post/after/) finishing [her](/post/her/) marathon."
 
 ## Synonyms
-- [Excellent](/en/post/excellent/)
-- [Magnificent](/en/post/magnificent/)
-- [Impressive](/en/post/impressive/)
-- [Beautiful](/en/post/beautiful/)
+- [Excellent](/post/excellent/)
+- [Magnificent](/post/magnificent/)
+- [Impressive](/post/impressive/)
+- [Beautiful](/post/beautiful/)
 - Gorgeous
-- [Excellent](/en/post/excellent/)
+- [Excellent](/post/excellent/)
 
 ## Antonyms
-- [Poor](/en/post/poor/)
-- [Terrible](/en/post/terrible/)
-- [Ordinary](/en/post/ordinary/)
-- [Dull](/en/post/dull/)
+- [Poor](/post/poor/)
+- [Terrible](/post/terrible/)
+- [Ordinary](/post/ordinary/)
+- [Dull](/post/dull/)
 - Unimpressive

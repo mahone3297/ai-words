@@ -11,19 +11,19 @@ keywords = ['ai words', 'superficial']
 /suːˈfɪsiəl/
 
 ## 释义
-- **形容词**: 表面的，肤浅的，仅限于表面的。例如: "[His](/post/his/) [knowledge](/post/knowledge/) [of](/post/of/) [the](/post/the/) [subject](/post/subject/) is [superficial](/post/superficial/)."
-- **名词**: 肤浅的人或事。例如: "[She](/post/she/) was accused [of](/post/of/) having [a](/post/a/) [superficial](/post/superficial/) [attitude](/post/attitude/) towards [life](/post/life/)."
+- **形容词**: 表面的，肤浅的，仅限于表面的。例如: "[His](/zh/post/his/) [knowledge](/zh/post/knowledge/) [of](/zh/post/of/) [the](/zh/post/the/) [subject](/zh/post/subject/) is [superficial](/zh/post/superficial/)."
+- **名词**: 肤浅的人或事。例如: "[She](/zh/post/she/) was accused [of](/zh/post/of/) having [a](/zh/post/a/) [superficial](/zh/post/superficial/) [attitude](/zh/post/attitude/) towards [life](/zh/post/life/)."
 
 ## 短语
-- "superficially" 副词形式，表示表面上地，肤浅地。例如: "[The](/post/the/) [wound](/post/wound/) looked [superficial](/post/superficial/), [but](/post/but/) [it](/post/it/) was [actually](/post/actually/) [quite](/post/quite/) [deep](/post/deep/)."
-- "[superficial](/post/superficial/) charm" 表面上的吸引力或魅力。
+- "superficially" 副词形式，表示表面上地，肤浅地。例如: "[The](/zh/post/the/) [wound](/zh/post/wound/) looked [superficial](/zh/post/superficial/), [but](/zh/post/but/) [it](/zh/post/it/) was [actually](/zh/post/actually/) [quite](/zh/post/quite/) [deep](/zh/post/deep/)."
+- "[superficial](/zh/post/superficial/) charm" 表面上的吸引力或魅力。
 
 ## 例句
-- 形容词: "[Their](/post/their/) [friendship](/post/friendship/) was based [on](/post/on/) [superficial](/post/superficial/) similarities [rather](/post/rather/) [than](/post/than/) shared values."
-- 名词: "[He](/post/he/) was criticized [for](/post/for/) [his](/post/his/) [superficial](/post/superficial/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [issue](/post/issue/)."
+- 形容词: "[Their](/zh/post/their/) [friendship](/zh/post/friendship/) was based [on](/zh/post/on/) [superficial](/zh/post/superficial/) similarities [rather](/zh/post/rather/) [than](/zh/post/than/) shared values."
+- 名词: "[He](/zh/post/he/) was criticized [for](/zh/post/for/) [his](/zh/post/his/) [superficial](/zh/post/superficial/) [understanding](/zh/post/understanding/) [of](/zh/post/of/) [the](/zh/post/the/) [issue](/zh/post/issue/)."
 
 ## 同义词
-- [shallow](/post/shallow/)
+- [shallow](/zh/post/shallow/)
 - trivial
 - surface-level
 - cursory

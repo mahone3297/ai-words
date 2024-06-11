@@ -7,43 +7,43 @@ description = '[wɔːl] n.墙，壁，围墙，城墙'
 keywords = ['ai words', 'wall']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɔːl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Wall](/en/post/wall/)**: [A](/en/post/a/) [continuous](/en/post/continuous/) [vertical](/en/post/vertical/) [structure](/en/post/structure/) made [of](/en/post/of/) [brick](/en/post/brick/), [stone](/en/post/stone/), [wood](/en/post/wood/), [or](/en/post/or/) [other](/en/post/other/) materials, typically [used](/en/post/used/) [to](/en/post/to/) [separate](/en/post/separate/) [or](/en/post/or/) [enclose](/en/post/enclose/) spaces [or](/en/post/or/) [provide](/en/post/provide/) [protection](/en/post/protection/). [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) had [thick](/en/post/thick/) [stone](/en/post/stone/) walls [that](/en/post/that/) kept [it](/en/post/it/) [warm](/en/post/warm/) [in](/en/post/in/) [winter](/en/post/winter/)."
-2. **Conceptual [wall](/en/post/wall/)**: [A](/en/post/a/) [mental](/en/post/mental/) [barrier](/en/post/barrier/) [or](/en/post/or/) [obstacle](/en/post/obstacle/) [that](/en/post/that/) prevents [understanding](/en/post/understanding/) [or](/en/post/or/) [acceptance](/en/post/acceptance/). [Example](/en/post/example/): "[He](/en/post/he/) had built [a](/en/post/a/) [wall](/en/post/wall/) [around](/en/post/around/) [his](/en/post/his/) [heart](/en/post/heart/), making [it](/en/post/it/) [hard](/en/post/hard/) [for](/en/post/for/) others [to](/en/post/to/) [get](/en/post/get/) [close](/en/post/close/)."
-3. **Walls [of](/en/post/of/) [a](/en/post/a/) [city](/en/post/city/)**: [The](/en/post/the/) fortified structures surrounding [a](/en/post/a/) historic [town](/en/post/town/) [or](/en/post/or/) [city](/en/post/city/). [Example](/en/post/example/): "[The](/en/post/the/) [ancient](/en/post/ancient/) [city](/en/post/city/) was surrounded [by](/en/post/by/) [high](/en/post/high/) walls [for](/en/post/for/) defense."
+### [Noun](/post/noun/)
+1. **[Wall](/post/wall/)**: [A](/post/a/) [continuous](/post/continuous/) [vertical](/post/vertical/) [structure](/post/structure/) made [of](/post/of/) [brick](/post/brick/), [stone](/post/stone/), [wood](/post/wood/), [or](/post/or/) [other](/post/other/) materials, typically [used](/post/used/) [to](/post/to/) [separate](/post/separate/) [or](/post/or/) [enclose](/post/enclose/) spaces [or](/post/or/) [provide](/post/provide/) [protection](/post/protection/). [Example](/post/example/): "[The](/post/the/) [old](/post/old/) [house](/post/house/) had [thick](/post/thick/) [stone](/post/stone/) walls [that](/post/that/) kept [it](/post/it/) [warm](/post/warm/) [in](/post/in/) [winter](/post/winter/)."
+2. **Conceptual [wall](/post/wall/)**: [A](/post/a/) [mental](/post/mental/) [barrier](/post/barrier/) [or](/post/or/) [obstacle](/post/obstacle/) [that](/post/that/) prevents [understanding](/post/understanding/) [or](/post/or/) [acceptance](/post/acceptance/). [Example](/post/example/): "[He](/post/he/) had built [a](/post/a/) [wall](/post/wall/) [around](/post/around/) [his](/post/his/) [heart](/post/heart/), making [it](/post/it/) [hard](/post/hard/) [for](/post/for/) others [to](/post/to/) [get](/post/get/) [close](/post/close/)."
+3. **Walls [of](/post/of/) [a](/post/a/) [city](/post/city/)**: [The](/post/the/) fortified structures surrounding [a](/post/a/) historic [town](/post/town/) [or](/post/or/) [city](/post/city/). [Example](/post/example/): "[The](/post/the/) [ancient](/post/ancient/) [city](/post/city/) was surrounded [by](/post/by/) [high](/post/high/) walls [for](/post/for/) defense."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [build](/en/post/build/) [or](/en/post/or/) [construct](/en/post/construct/) [a](/en/post/a/) [wall](/en/post/wall/). [Example](/en/post/example/): "[They](/en/post/they/) are planning [to](/en/post/to/) [wall](/en/post/wall/) [off](/en/post/off/) [the](/en/post/the/) [garden](/en/post/garden/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [private](/en/post/private/) [area](/en/post/area/)."
-2. [To](/en/post/to/) [erect](/en/post/erect/) [or](/en/post/or/) [put](/en/post/put/) [up](/en/post/up/) [a](/en/post/a/) [physical](/en/post/physical/) [or](/en/post/or/) metaphorical [barrier](/en/post/barrier/). [Example](/en/post/example/): "[She](/en/post/she/) felt [a](/en/post/a/) [wall](/en/post/wall/) [go](/en/post/go/) [up](/en/post/up/) [between](/en/post/between/) [them](/en/post/them/) [after](/en/post/after/) [he](/en/post/he/) shared [his](/en/post/his/) [secret](/en/post/secret/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [build](/post/build/) [or](/post/or/) [construct](/post/construct/) [a](/post/a/) [wall](/post/wall/). [Example](/post/example/): "[They](/post/they/) are planning [to](/post/to/) [wall](/post/wall/) [off](/post/off/) [the](/post/the/) [garden](/post/garden/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [private](/post/private/) [area](/post/area/)."
+2. [To](/post/to/) [erect](/post/erect/) [or](/post/or/) [put](/post/put/) [up](/post/up/) [a](/post/a/) [physical](/post/physical/) [or](/post/or/) metaphorical [barrier](/post/barrier/). [Example](/post/example/): "[She](/post/she/) felt [a](/post/a/) [wall](/post/wall/) [go](/post/go/) [up](/post/up/) [between](/post/between/) [them](/post/them/) [after](/post/after/) [he](/post/he/) shared [his](/post/his/) [secret](/post/secret/)."
 
-### [Adjective](/en/post/adjective/)
-1. Impenetrable [or](/en/post/or/) unyielding. [Example](/en/post/example/): "[Her](/en/post/her/) defenses were [as](/en/post/as/) [solid](/en/post/solid/) [as](/en/post/as/) [a](/en/post/a/) [brick](/en/post/brick/) [wall](/en/post/wall/)."
-2. [Solid](/en/post/solid/) [or](/en/post/or/) immovable. [Example](/en/post/example/): "[A](/en/post/a/) [wall](/en/post/wall/) [of](/en/post/of/) [silence](/en/post/silence/) filled [the](/en/post/the/) [room](/en/post/room/) [after](/en/post/after/) [the](/en/post/the/) announcement."
+### [Adjective](/post/adjective/)
+1. Impenetrable [or](/post/or/) unyielding. [Example](/post/example/): "[Her](/post/her/) defenses were [as](/post/as/) [solid](/post/solid/) [as](/post/as/) [a](/post/a/) [brick](/post/brick/) [wall](/post/wall/)."
+2. [Solid](/post/solid/) [or](/post/or/) immovable. [Example](/post/example/): "[A](/post/a/) [wall](/post/wall/) [of](/post/of/) [silence](/post/silence/) filled [the](/post/the/) [room](/post/room/) [after](/post/after/) [the](/post/the/) announcement."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) resembling [a](/en/post/a/) [wall](/en/post/wall/). [Example](/en/post/example/): "[He](/en/post/he/) stood [with](/en/post/with/) [his](/en/post/his/) arms [out](/en/post/out/), forming [a](/en/post/a/) [wall](/en/post/wall/) [to](/en/post/to/) [protect](/en/post/protect/) [the](/en/post/the/) children."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) [manner](/post/manner/) resembling [a](/post/a/) [wall](/post/wall/). [Example](/post/example/): "[He](/post/he/) stood [with](/post/with/) [his](/post/his/) arms [out](/post/out/), forming [a](/post/a/) [wall](/post/wall/) [to](/post/to/) [protect](/post/protect/) [the](/post/the/) children."
 
 ## Phrases
-- "[Put](/en/post/put/) [up](/en/post/up/) [a](/en/post/a/) [wall](/en/post/wall/)" [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [barrier](/en/post/barrier/) emotionally [or](/en/post/or/) socially.
-- "[Bring](/en/post/bring/) [down](/en/post/down/) [the](/en/post/the/) walls" [to](/en/post/to/) [encourage](/en/post/encourage/) openness [or](/en/post/or/) [connection](/en/post/connection/).
-- "[A](/en/post/a/) [wall](/en/post/wall/) [of](/en/post/of/) [silence](/en/post/silence/)" indicates [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [communication](/en/post/communication/).
+- "[Put](/post/put/) [up](/post/up/) [a](/post/a/) [wall](/post/wall/)" [to](/post/to/) [create](/post/create/) [a](/post/a/) [barrier](/post/barrier/) emotionally [or](/post/or/) socially.
+- "[Bring](/post/bring/) [down](/post/down/) [the](/post/the/) walls" [to](/post/to/) [encourage](/post/encourage/) openness [or](/post/or/) [connection](/post/connection/).
+- "[A](/post/a/) [wall](/post/wall/) [of](/post/of/) [silence](/post/silence/)" indicates [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [communication](/post/communication/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) carefully removed [the](/en/post/the/) [old](/en/post/old/) [wall](/en/post/wall/) [to](/en/post/to/) [make](/en/post/make/) [way](/en/post/way/) [for](/en/post/for/) [a](/en/post/a/) [new](/en/post/new/) [flower](/en/post/flower/) [bed](/en/post/bed/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [argument](/en/post/argument/), [they](/en/post/they/) seemed [to](/en/post/to/) [have](/en/post/have/) built [a](/en/post/a/) [wall](/en/post/wall/) [between](/en/post/between/) [them](/en/post/them/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [resolve](/en/post/resolve/) was [as](/en/post/as/) unyielding [as](/en/post/as/) [a](/en/post/a/) [castle](/en/post/castle/) [wall](/en/post/wall/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) stood [like](/en/post/like/) [a](/en/post/a/) [wall](/en/post/wall/), blocking [the](/en/post/the/) [entrance](/en/post/entrance/) [to](/en/post/to/) [the](/en/post/the/) [museum](/en/post/museum/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [gardener](/post/gardener/) carefully removed [the](/post/the/) [old](/post/old/) [wall](/post/wall/) [to](/post/to/) [make](/post/make/) [way](/post/way/) [for](/post/for/) [a](/post/a/) [new](/post/new/) [flower](/post/flower/) [bed](/post/bed/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [argument](/post/argument/), [they](/post/they/) seemed [to](/post/to/) [have](/post/have/) built [a](/post/a/) [wall](/post/wall/) [between](/post/between/) [them](/post/them/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [resolve](/post/resolve/) was [as](/post/as/) unyielding [as](/post/as/) [a](/post/a/) [castle](/post/castle/) [wall](/post/wall/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) stood [like](/post/like/) [a](/post/a/) [wall](/post/wall/), blocking [the](/post/the/) [entrance](/post/entrance/) [to](/post/to/) [the](/post/the/) [museum](/post/museum/)."
 
 ## Synonyms
-- [Barrier](/en/post/barrier/)
+- [Barrier](/post/barrier/)
 - Partition
 - Fencing
-- [Shield](/en/post/shield/)
+- [Shield](/post/shield/)
 - Rampart
 - Enclosure
-- [Obstacle](/en/post/obstacle/)
+- [Obstacle](/post/obstacle/)
 - Blockade

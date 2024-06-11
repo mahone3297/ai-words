@@ -7,32 +7,32 @@ description = '[ˈkʌlə] n.颜色，彩色；颜料'
 keywords = ['ai words', 'color']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[color](/en/post/color/)/
+## [Pronunciation](/post/pronunciation/)
+/[color](/post/color/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [property](/en/post/property/) [of](/en/post/of/) objects [to](/en/post/to/) [reflect](/en/post/reflect/), [absorb](/en/post/absorb/), [or](/en/post/or/) [emit](/en/post/emit/) [light](/en/post/light/), resulting [in](/en/post/in/) [certain](/en/post/certain/) [visual](/en/post/visual/) sensations called colors. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [rainbow](/en/post/rainbow/) displays [a](/en/post/a/) spectrum [of](/en/post/of/) colors."
-   - 2. [A](/en/post/a/) [particular](/en/post/particular/) [quality](/en/post/quality/) [or](/en/post/or/) [appearance](/en/post/appearance/) [that](/en/post/that/) makes an [object](/en/post/object/) distinguishable [from](/en/post/from/) others, [often](/en/post/often/) referring [to](/en/post/to/) pigments [or](/en/post/or/) wavelengths. [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [painting](/en/post/painting/) features [a](/en/post/a/) vibrant [color](/en/post/color/) palette."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [have](/en/post/have/) [or](/en/post/or/) [be](/en/post/be/) characterized [by](/en/post/by/) [a](/en/post/a/) [particular](/en/post/particular/) [color](/en/post/color/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sky](/en/post/sky/) is [a](/en/post/a/) [beautiful](/en/post/beautiful/) [shade](/en/post/shade/) [of](/en/post/of/) [blue](/en/post/blue/) [during](/en/post/during/) [sunset](/en/post/sunset/)."
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [the](/en/post/the/) [visual](/en/post/visual/) [aspect](/en/post/aspect/) [or](/en/post/or/) hue [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) eyes [have](/en/post/have/) [a](/en/post/a/) captivating [green](/en/post/green/) [color](/en/post/color/)."
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [property](/post/property/) [of](/post/of/) objects [to](/post/to/) [reflect](/post/reflect/), [absorb](/post/absorb/), [or](/post/or/) [emit](/post/emit/) [light](/post/light/), resulting [in](/post/in/) [certain](/post/certain/) [visual](/post/visual/) sensations called colors. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [rainbow](/post/rainbow/) displays [a](/post/a/) spectrum [of](/post/of/) colors."
+   - 2. [A](/post/a/) [particular](/post/particular/) [quality](/post/quality/) [or](/post/or/) [appearance](/post/appearance/) [that](/post/that/) makes an [object](/post/object/) distinguishable [from](/post/from/) others, [often](/post/often/) referring [to](/post/to/) pigments [or](/post/or/) wavelengths. [For](/post/for/) [example](/post/example/): "[This](/post/this/) [painting](/post/painting/) features [a](/post/a/) vibrant [color](/post/color/) palette."
+- **[Verb](/post/verb/)**: [To](/post/to/) [have](/post/have/) [or](/post/or/) [be](/post/be/) characterized [by](/post/by/) [a](/post/a/) [particular](/post/particular/) [color](/post/color/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sky](/post/sky/) is [a](/post/a/) [beautiful](/post/beautiful/) [shade](/post/shade/) [of](/post/of/) [blue](/post/blue/) [during](/post/during/) [sunset](/post/sunset/)."
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [the](/post/the/) [visual](/post/visual/) [aspect](/post/aspect/) [or](/post/or/) hue [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) eyes [have](/post/have/) [a](/post/a/) captivating [green](/post/green/) [color](/post/color/)."
 
 ## Phrases
-- "[A](/en/post/a/) colorblind [person](/en/post/person/)" cannot [distinguish](/en/post/distinguish/) [between](/en/post/between/) [certain](/en/post/certain/) colors.
-- "[Color](/en/post/color/) coordination" refers [to](/en/post/to/) matching colors [in](/en/post/in/) [clothing](/en/post/clothing/) [or](/en/post/or/) [design](/en/post/design/).
-- "[Add](/en/post/add/) [some](/en/post/some/) [color](/en/post/color/) [to](/en/post/to/) [your](/en/post/your/) [life](/en/post/life/)" [means](/en/post/means/) [to](/en/post/to/) [bring](/en/post/bring/) [variety](/en/post/variety/) [or](/en/post/or/) excitement.
+- "[A](/post/a/) colorblind [person](/post/person/)" cannot [distinguish](/post/distinguish/) [between](/post/between/) [certain](/post/certain/) colors.
+- "[Color](/post/color/) coordination" refers [to](/post/to/) matching colors [in](/post/in/) [clothing](/post/clothing/) [or](/post/or/) [design](/post/design/).
+- "[Add](/post/add/) [some](/post/some/) [color](/post/color/) [to](/post/to/) [your](/post/your/) [life](/post/life/)" [means](/post/means/) [to](/post/to/) [bring](/post/bring/) [variety](/post/variety/) [or](/post/or/) excitement.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) flowers [in](/en/post/in/) [the](/en/post/the/) [garden](/en/post/garden/) [come](/en/post/come/) [in](/en/post/in/) [various](/en/post/various/) colors, [like](/en/post/like/) [red](/en/post/red/), [yellow](/en/post/yellow/), [and](/en/post/and/) [purple](/en/post/purple/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) walls were painted [a](/en/post/a/) calming [shade](/en/post/shade/) [of](/en/post/of/) [blue](/en/post/blue/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [artist](/en/post/artist/) chose [bright](/en/post/bright/) colors [for](/en/post/for/) [her](/en/post/her/) [abstract](/en/post/abstract/) artwork."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) flowers [in](/post/in/) [the](/post/the/) [garden](/post/garden/) [come](/post/come/) [in](/post/in/) [various](/post/various/) colors, [like](/post/like/) [red](/post/red/), [yellow](/post/yellow/), [and](/post/and/) [purple](/post/purple/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) walls were painted [a](/post/a/) calming [shade](/post/shade/) [of](/post/of/) [blue](/post/blue/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [artist](/post/artist/) chose [bright](/post/bright/) colors [for](/post/for/) [her](/post/her/) [abstract](/post/abstract/) artwork."
 
 ## Synonyms
 - Hue
 - Tint
-- [Shade](/en/post/shade/)
-- [Tone](/en/post/tone/)
+- [Shade](/post/shade/)
+- [Tone](/post/tone/)
 - Spectral
 - Palette
 - Coloration
-- [Dye](/en/post/dye/)
+- [Dye](/post/dye/)
 - Pigment

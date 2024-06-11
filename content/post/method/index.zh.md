@@ -11,20 +11,20 @@ keywords = ['ai words', 'method']
 /ˈmɛθəd/
 
 ## 释义
-- **名词 (n)**: 一种系统性的步骤或程序，用于完成特定任务或解决问题。例如: "[She](/post/she/) [used](/post/used/) [a](/post/a/) [scientific](/post/scientific/) [method](/post/method/) [to](/post/to/) [conduct](/post/conduct/) [her](/post/her/) [research](/post/research/)."
-- **动词 (v)**: 采用某种方法或方式去做。例如: "[He](/post/he/) methodically went [through](/post/through/) [each](/post/each/) [step](/post/step/) [of](/post/of/) [the](/post/the/) [process](/post/process/)."
+- **名词 (n)**: 一种系统性的步骤或程序，用于完成特定任务或解决问题。例如: "[She](/zh/post/she/) [used](/zh/post/used/) [a](/zh/post/a/) [scientific](/zh/post/scientific/) [method](/zh/post/method/) [to](/zh/post/to/) [conduct](/zh/post/conduct/) [her](/zh/post/her/) [research](/zh/post/research/)."
+- **动词 (v)**: 采用某种方法或方式去做。例如: "[He](/zh/post/he/) methodically went [through](/zh/post/through/) [each](/zh/post/each/) [step](/zh/post/step/) [of](/zh/post/of/) [the](/zh/post/the/) [process](/zh/post/process/)."
 
 ## 短语
-- "[by](/post/by/) [method](/post/method/) [of](/post/of/)" 通过...的方法。例如: "[The](/post/the/) [problem](/post/problem/) was solved [by](/post/by/) [method](/post/method/) [of](/post/of/) [elimination](/post/elimination/)."
-- "[teaching](/post/teaching/) methods" 教学方法。
+- "[by](/zh/post/by/) [method](/zh/post/method/) [of](/zh/post/of/)" 通过...的方法。例如: "[The](/zh/post/the/) [problem](/zh/post/problem/) was solved [by](/zh/post/by/) [method](/zh/post/method/) [of](/zh/post/of/) [elimination](/zh/post/elimination/)."
+- "[teaching](/zh/post/teaching/) methods" 教学方法。
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [management](/post/management/) [method](/post/method/) has improved [our](/post/our/) productivity."
-- 动词: "[She](/post/she/) methoded [her](/post/her/) [way](/post/way/) [through](/post/through/) [the](/post/the/) [complex](/post/complex/) [task](/post/task/) [with](/post/with/) [ease](/post/ease/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [management](/zh/post/management/) [method](/zh/post/method/) has improved [our](/zh/post/our/) productivity."
+- 动词: "[She](/zh/post/she/) methoded [her](/zh/post/her/) [way](/zh/post/way/) [through](/zh/post/through/) [the](/zh/post/the/) [complex](/zh/post/complex/) [task](/zh/post/task/) [with](/zh/post/with/) [ease](/zh/post/ease/)."
 
 ## 同义词
-- [Approach](/post/approach/)
-- [Technique](/post/technique/)
-- [Strategy](/post/strategy/)
-- [Procedure](/post/procedure/)
-- [Plan](/post/plan/)
+- [Approach](/zh/post/approach/)
+- [Technique](/zh/post/technique/)
+- [Strategy](/zh/post/strategy/)
+- [Procedure](/zh/post/procedure/)
+- [Plan](/zh/post/plan/)

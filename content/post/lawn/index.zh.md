@@ -11,21 +11,21 @@ keywords = ['ai words', 'lawn']
 /laʊn/
 
 ## 释义
-- **名词**: 一块修剪整齐的草地，通常在住宅区或公园里。例如: "[The](/post/the/) kids were playing [soccer](/post/soccer/) [on](/post/on/) [the](/post/the/) [lawn](/post/lawn/) [in](/post/in/) [front](/post/front/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
-- **动词**: （尤指定期）割草以保持草坪整洁。例如: "I [need](/post/need/) [to](/post/to/) [lawn](/post/lawn/) [the](/post/the/) [garden](/post/garden/) [this](/post/this/) [weekend](/post/weekend/)."
+- **名词**: 一块修剪整齐的草地，通常在住宅区或公园里。例如: "[The](/zh/post/the/) kids were playing [soccer](/zh/post/soccer/) [on](/zh/post/on/) [the](/zh/post/the/) [lawn](/zh/post/lawn/) [in](/zh/post/in/) [front](/zh/post/front/) [of](/zh/post/of/) [the](/zh/post/the/) [house](/zh/post/house/)."
+- **动词**: （尤指定期）割草以保持草坪整洁。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [lawn](/zh/post/lawn/) [the](/zh/post/the/) [garden](/zh/post/garden/) [this](/zh/post/this/) [weekend](/zh/post/weekend/)."
 
 ## 短语
-- "mow [the](/post/the/) [lawn](/post/lawn/)" 割草，修剪草坪。
-- "[picnic](/post/picnic/) [on](/post/on/) [the](/post/the/) [lawn](/post/lawn/)" 在草地上野餐。
-- "[lawn](/post/lawn/) [party](/post/party/)" 草坪聚会。
+- "mow [the](/zh/post/the/) [lawn](/zh/post/lawn/)" 割草，修剪草坪。
+- "[picnic](/zh/post/picnic/) [on](/zh/post/on/) [the](/zh/post/the/) [lawn](/zh/post/lawn/)" 在草地上野餐。
+- "[lawn](/zh/post/lawn/) [party](/zh/post/party/)" 草坪聚会。
 
 ## 例句
-- 名词: "[She](/post/she/) loved sitting [on](/post/on/) [the](/post/the/) [cool](/post/cool/) [lawn](/post/lawn/) [on](/post/on/) [a](/post/a/) [hot](/post/hot/) [summer](/post/summer/) [day](/post/day/)."
-- 动词: "[He](/post/he/) spends [every](/post/every/) Saturday [morning](/post/morning/) lawn-ing [his](/post/his/) [large](/post/large/) backyard."
+- 名词: "[She](/zh/post/she/) loved sitting [on](/zh/post/on/) [the](/zh/post/the/) [cool](/zh/post/cool/) [lawn](/zh/post/lawn/) [on](/zh/post/on/) [a](/zh/post/a/) [hot](/zh/post/hot/) [summer](/zh/post/summer/) [day](/zh/post/day/)."
+- 动词: "[He](/zh/post/he/) spends [every](/zh/post/every/) Saturday [morning](/zh/post/morning/) lawn-ing [his](/zh/post/his/) [large](/zh/post/large/) backyard."
 
 ## 同义词
-- grassy [area](/post/area/)
-- [green](/post/green/)
-- [yard](/post/yard/)
-- [garden](/post/garden/)
-- playing [field](/post/field/)
+- grassy [area](/zh/post/area/)
+- [green](/zh/post/green/)
+- [yard](/zh/post/yard/)
+- [garden](/zh/post/garden/)
+- playing [field](/zh/post/field/)

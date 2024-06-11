@@ -7,39 +7,39 @@ description = '[vain] n.葡萄树'
 keywords = ['ai words', 'vine']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) woody [plant](/en/post/plant/) [with](/en/post/with/) [long](/en/post/long/), trailing stems, [usually](/en/post/usually/) having leaves [and](/en/post/and/) [often](/en/post/often/) producing [fruit](/en/post/fruit/) [or](/en/post/or/) flowers. [Example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was filled [with](/en/post/with/) [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) vines, climbing [up](/en/post/up/) [the](/en/post/the/) trellis."
+### [Noun](/post/noun/)
+- [A](/post/a/) woody [plant](/post/plant/) [with](/post/with/) [long](/post/long/), trailing stems, [usually](/post/usually/) having leaves [and](/post/and/) [often](/post/often/) producing [fruit](/post/fruit/) [or](/post/or/) flowers. [Example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) [a](/post/a/) [variety](/post/variety/) [of](/post/of/) vines, climbing [up](/post/up/) [the](/post/the/) trellis."
 - A蔓生植物, 特指用于酿酒、制葡萄汁或作为装饰的植物。
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [grow](/en/post/grow/) [or](/en/post/or/) [spread](/en/post/spread/) [in](/en/post/in/) [a](/en/post/a/) vine-like [manner](/en/post/manner/). [Example](/en/post/example/): "[The](/en/post/the/) ivy began [to](/en/post/to/) [vine](/en/post/vine/) [along](/en/post/along/) [the](/en/post/the/) [old](/en/post/old/) [brick](/en/post/brick/) [wall](/en/post/wall/)."
-- [To](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [source](/en/post/source/) [or](/en/post/or/) supplier [of](/en/post/of/) [something](/en/post/something/), typically [alcohol](/en/post/alcohol/) [or](/en/post/or/) [juice](/en/post/juice/). [Example](/en/post/example/): "[This](/en/post/this/) vineyard produces high-quality [wine](/en/post/wine/) [each](/en/post/each/) [year](/en/post/year/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [grow](/post/grow/) [or](/post/or/) [spread](/post/spread/) [in](/post/in/) [a](/post/a/) vine-like [manner](/post/manner/). [Example](/post/example/): "[The](/post/the/) ivy began [to](/post/to/) [vine](/post/vine/) [along](/post/along/) [the](/post/the/) [old](/post/old/) [brick](/post/brick/) [wall](/post/wall/)."
+- [To](/post/to/) [be](/post/be/) [a](/post/a/) [source](/post/source/) [or](/post/or/) supplier [of](/post/of/) [something](/post/something/), typically [alcohol](/post/alcohol/) [or](/post/or/) [juice](/post/juice/). [Example](/post/example/): "[This](/post/this/) vineyard produces high-quality [wine](/post/wine/) [each](/post/each/) [year](/post/year/)."
 
-### [Adjective](/en/post/adjective/)
-- [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [vine](/en/post/vine/), [such](/en/post/such/) as蔓生的 or攀缘的. [Example](/en/post/example/): "[The](/en/post/the/) vine-covered pergola [provided](/en/post/provided/) [shade](/en/post/shade/) [and](/en/post/and/) [beauty](/en/post/beauty/) [to](/en/post/to/) [the](/en/post/the/) [outdoor](/en/post/outdoor/) [space](/en/post/space/)."
+### [Adjective](/post/adjective/)
+- [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [vine](/post/vine/), [such](/post/such/) as蔓生的 or攀缘的. [Example](/post/example/): "[The](/post/the/) vine-covered pergola [provided](/post/provided/) [shade](/post/shade/) [and](/post/and/) [beauty](/post/beauty/) [to](/post/to/) [the](/post/the/) [outdoor](/post/outdoor/) [space](/post/space/)."
 
 ## Phrases
-- "[Train](/en/post/train/) [a](/en/post/a/) [vine](/en/post/vine/) [up](/en/post/up/) [a](/en/post/a/) trellis" [means](/en/post/means/) [to](/en/post/to/) [guide](/en/post/guide/) [a](/en/post/a/) vine's [growth](/en/post/growth/) [on](/en/post/on/) [a](/en/post/a/) [support](/en/post/support/) [structure](/en/post/structure/).
-- "Climbing vines" refers [to](/en/post/to/) [those](/en/post/those/) [that](/en/post/that/) [naturally](/en/post/naturally/) [climb](/en/post/climb/) [to](/en/post/to/) [reach](/en/post/reach/) [sunlight](/en/post/sunlight/).
-- "Vine-ripened fruits" are [those](/en/post/those/) [that](/en/post/that/) [have](/en/post/have/) been grown [on](/en/post/on/) vines [and](/en/post/and/) [not](/en/post/not/) artificially ripened.
+- "[Train](/post/train/) [a](/post/a/) [vine](/post/vine/) [up](/post/up/) [a](/post/a/) trellis" [means](/post/means/) [to](/post/to/) [guide](/post/guide/) [a](/post/a/) vine's [growth](/post/growth/) [on](/post/on/) [a](/post/a/) [support](/post/support/) [structure](/post/structure/).
+- "Climbing vines" refers [to](/post/to/) [those](/post/those/) [that](/post/that/) [naturally](/post/naturally/) [climb](/post/climb/) [to](/post/to/) [reach](/post/reach/) [sunlight](/post/sunlight/).
+- "Vine-ripened fruits" are [those](/post/those/) [that](/post/that/) [have](/post/have/) been grown [on](/post/on/) vines [and](/post/and/) [not](/post/not/) artificially ripened.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) carefully pruned [the](/en/post/the/) overgrown grapevine."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) winemaker skillfully harvested [the](/en/post/the/) [ripe](/en/post/ripe/) grapes [from](/en/post/from/) [the](/en/post/the/) [vine](/en/post/vine/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) pergola was adorned [with](/en/post/with/) [a](/en/post/a/) lush, [green](/en/post/green/) [vine](/en/post/vine/) canopy."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [gardener](/post/gardener/) carefully pruned [the](/post/the/) overgrown grapevine."
+- **[Verb](/post/verb/)**: "[The](/post/the/) winemaker skillfully harvested [the](/post/the/) [ripe](/post/ripe/) grapes [from](/post/from/) [the](/post/the/) [vine](/post/vine/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) pergola was adorned [with](/post/with/) [a](/post/a/) lush, [green](/post/green/) [vine](/post/vine/) canopy."
 
 ## Synonyms
-- Grapevine (specifically [for](/en/post/for/) [grape](/en/post/grape/) plants)
+- Grapevine (specifically [for](/post/for/) [grape](/post/grape/) plants)
 - Creeper
 - Climber
 -蔓藤植物
 - Vining vegetation
 
 ## Antonyms
-- [Erect](/en/post/erect/)
-- [Upright](/en/post/upright/)
+- [Erect](/post/erect/)
+- [Upright](/post/upright/)
 - Non-climbing

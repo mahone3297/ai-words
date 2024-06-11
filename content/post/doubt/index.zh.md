@@ -11,22 +11,22 @@ keywords = ['ai words', 'doubt']
 /ˈdaʊt/
 
 ## 释义
-- **名词**: 疑惑，不确定，怀疑。例如: "[She](/post/she/) had doubts [about](/post/about/) [the](/post/the/) [decision](/post/decision/)."
-- **动词**: 怀疑，不相信。例如: "I [doubt](/post/doubt/) [the](/post/the/) [truth](/post/truth/) [of](/post/of/) [his](/post/his/) [statement](/post/statement/)."
-- **形容词**: 怀疑的，不确定的。例如: "[a](/post/a/) [doubtful](/post/doubtful/) [expression](/post/expression/) [on](/post/on/) [her](/post/her/) [face](/post/face/)"
+- **名词**: 疑惑，不确定，怀疑。例如: "[She](/zh/post/she/) had doubts [about](/zh/post/about/) [the](/zh/post/the/) [decision](/zh/post/decision/)."
+- **动词**: 怀疑，不相信。例如: "I [doubt](/zh/post/doubt/) [the](/zh/post/the/) [truth](/zh/post/truth/) [of](/zh/post/of/) [his](/zh/post/his/) [statement](/zh/post/statement/)."
+- **形容词**: 怀疑的，不确定的。例如: "[a](/zh/post/a/) [doubtful](/zh/post/doubtful/) [expression](/zh/post/expression/) [on](/zh/post/on/) [her](/zh/post/her/) [face](/zh/post/face/)"
 
 ## 短语
-- "[cast](/post/cast/) [doubt](/post/doubt/) [on](/post/on/) [something](/post/something/)" 表示对某事产生怀疑。
-- "[in](/post/in/) [doubt](/post/doubt/)" 表示有疑问，未确定。例如: "[The](/post/the/) [result](/post/result/) [of](/post/of/) [the](/post/the/) [match](/post/match/) is [still](/post/still/) [in](/post/in/) [doubt](/post/doubt/)."
+- "[cast](/zh/post/cast/) [doubt](/zh/post/doubt/) [on](/zh/post/on/) [something](/zh/post/something/)" 表示对某事产生怀疑。
+- "[in](/zh/post/in/) [doubt](/zh/post/doubt/)" 表示有疑问，未确定。例如: "[The](/zh/post/the/) [result](/zh/post/result/) [of](/zh/post/of/) [the](/zh/post/the/) [match](/zh/post/match/) is [still](/zh/post/still/) [in](/zh/post/in/) [doubt](/zh/post/doubt/)."
 
 ## 例句
-- 名词: "[Her](/post/her/) doubts grew stronger [as](/post/as/) [more](/post/more/) [evidence](/post/evidence/) emerged."
-- 动词: "I [seriously](/post/seriously/) [doubt](/post/doubt/) [that](/post/that/) he'll [come](/post/come/) [to](/post/to/) [the](/post/the/) [party](/post/party/)."
-- 形容词: "[There](/post/there/) were [many](/post/many/) [doubtful](/post/doubtful/) points [in](/post/in/) [his](/post/his/) [argument](/post/argument/)."
+- 名词: "[Her](/zh/post/her/) doubts grew stronger [as](/zh/post/as/) [more](/zh/post/more/) [evidence](/zh/post/evidence/) emerged."
+- 动词: "I [seriously](/zh/post/seriously/) [doubt](/zh/post/doubt/) [that](/zh/post/that/) he'll [come](/zh/post/come/) [to](/zh/post/to/) [the](/zh/post/the/) [party](/zh/post/party/)."
+- 形容词: "[There](/zh/post/there/) were [many](/zh/post/many/) [doubtful](/zh/post/doubtful/) points [in](/zh/post/in/) [his](/zh/post/his/) [argument](/zh/post/argument/)."
 
 ## 同义词
-- [Question](/post/question/)
-- [Suspect](/post/suspect/)
+- [Question](/zh/post/question/)
+- [Suspect](/zh/post/suspect/)
 - Uncertainty
 - Skepticism
 - Disbelief

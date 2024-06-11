@@ -7,30 +7,30 @@ description = '[ˈtræktə] n.拖拉机；牵引车'
 keywords = ['ai words', 'tractor']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtræktər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/) [farm](/en/post/farm/) [machine](/en/post/machine/) [with](/en/post/with/) [powerful](/en/post/powerful/) engines [and](/en/post/and/) [strong](/en/post/strong/) wheels, [used](/en/post/used/) [for](/en/post/for/) plowing, digging, [or](/en/post/or/) moving [heavy](/en/post/heavy/) loads. [1]
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [pull](/en/post/pull/) using [a](/en/post/a/) [tractor](/en/post/tractor/), [often](/en/post/often/) [in](/en/post/in/) [agriculture](/en/post/agriculture/). [2]
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/) [farm](/post/farm/) [machine](/post/machine/) [with](/post/with/) [powerful](/post/powerful/) engines [and](/post/and/) [strong](/post/strong/) wheels, [used](/post/used/) [for](/post/for/) plowing, digging, [or](/post/or/) moving [heavy](/post/heavy/) loads. [1]
+- **[Verb](/post/verb/)**: [To](/post/to/) [move](/post/move/) [or](/post/or/) [pull](/post/pull/) using [a](/post/a/) [tractor](/post/tractor/), [often](/post/often/) [in](/post/in/) [agriculture](/post/agriculture/). [2]
 
 ## Phrases
-- "[Drive](/en/post/drive/) [a](/en/post/a/) [tractor](/en/post/tractor/)" [means](/en/post/means/) operating [a](/en/post/a/) [tractor](/en/post/tractor/) [for](/en/post/for/) [work](/en/post/work/).
-- "[tractor](/en/post/tractor/) [power](/en/post/power/)" refers [to](/en/post/to/) [the](/en/post/the/) [mechanical](/en/post/mechanical/) [advantage](/en/post/advantage/) [provided](/en/post/provided/) [by](/en/post/by/) [a](/en/post/a/) [tractor](/en/post/tractor/).
-- "[Tractor](/en/post/tractor/) [pull](/en/post/pull/)" is [a](/en/post/a/) [competition](/en/post/competition/) [where](/en/post/where/) modified tractors [compete](/en/post/compete/) [to](/en/post/to/) [see](/en/post/see/) [who](/en/post/who/) [can](/en/post/can/) [pull](/en/post/pull/) [the](/en/post/the/) [most](/en/post/most/) [weight](/en/post/weight/).
+- "[Drive](/post/drive/) [a](/post/a/) [tractor](/post/tractor/)" [means](/post/means/) operating [a](/post/a/) [tractor](/post/tractor/) [for](/post/for/) [work](/post/work/).
+- "[tractor](/post/tractor/) [power](/post/power/)" refers [to](/post/to/) [the](/post/the/) [mechanical](/post/mechanical/) [advantage](/post/advantage/) [provided](/post/provided/) [by](/post/by/) [a](/post/a/) [tractor](/post/tractor/).
+- "[Tractor](/post/tractor/) [pull](/post/pull/)" is [a](/post/a/) [competition](/post/competition/) [where](/post/where/) modified tractors [compete](/post/compete/) [to](/post/to/) [see](/post/see/) [who](/post/who/) [can](/post/can/) [pull](/post/pull/) [the](/post/the/) [most](/post/most/) [weight](/post/weight/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) [used](/en/post/used/) [his](/en/post/his/) trusty [tractor](/en/post/tractor/) [to](/en/post/to/) [till](/en/post/till/) [the](/en/post/the/) fields."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [construction](/en/post/construction/) workers hitched [the](/en/post/the/) trailer [to](/en/post/to/) [the](/en/post/the/) [tractor](/en/post/tractor/) [and](/en/post/and/) started [the](/en/post/the/) day's [work](/en/post/work/)."
-- "[The](/en/post/the/) [tractor](/en/post/tractor/) was [essential](/en/post/essential/) [to](/en/post/to/) [the](/en/post/the/) [harvest](/en/post/harvest/), making [short](/en/post/short/) [work](/en/post/work/) [of](/en/post/of/) [the](/en/post/the/) [crop](/en/post/crop/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) [used](/post/used/) [his](/post/his/) trusty [tractor](/post/tractor/) [to](/post/to/) [till](/post/till/) [the](/post/the/) fields."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [construction](/post/construction/) workers hitched [the](/post/the/) trailer [to](/post/to/) [the](/post/the/) [tractor](/post/tractor/) [and](/post/and/) started [the](/post/the/) day's [work](/post/work/)."
+- "[The](/post/the/) [tractor](/post/tractor/) was [essential](/post/essential/) [to](/post/to/) [the](/post/the/) [harvest](/post/harvest/), making [short](/post/short/) [work](/post/work/) [of](/post/of/) [the](/post/the/) [crop](/post/crop/)."
 
 ## Synonyms
-- [Tractor](/en/post/tractor/) [unit](/en/post/unit/)
-- [Farm](/en/post/farm/) [machine](/en/post/machine/)
-- Agricultural [vehicle](/en/post/vehicle/)
-- [Power](/en/post/power/) [unit](/en/post/unit/)
+- [Tractor](/post/tractor/) [unit](/post/unit/)
+- [Farm](/post/farm/) [machine](/post/machine/)
+- Agricultural [vehicle](/post/vehicle/)
+- [Power](/post/power/) [unit](/post/unit/)
 -拖拉机 (Dàolājī) (Chinese)
 
 ## References
-1. [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[tractor](/en/post/tractor/))
-2. [Cambridge [Dictionary](/en/post/dictionary/)](https://[dictionary](/en/post/dictionary/).cambridge.org/[us](/en/post/us/)/[dictionary](/en/post/dictionary/)/english/[tractor](/en/post/tractor/))
+1. [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[tractor](/post/tractor/))
+2. [Cambridge [Dictionary](/post/dictionary/)](https://[dictionary](/post/dictionary/).cambridge.org/[us](/post/us/)/[dictionary](/post/dictionary/)/english/[tractor](/post/tractor/))

@@ -7,35 +7,35 @@ description = '[ˈprɔpə] a.适合的；合乎体统的'
 keywords = ['ai words', 'proper']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /proʊpər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Proper](/en/post/proper/) [noun](/en/post/noun/)**: [A](/en/post/a/) [specific](/en/post/specific/) [name](/en/post/name/) given [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/), [place](/en/post/place/), [or](/en/post/or/) [thing](/en/post/thing/), [usually](/en/post/usually/) capitalized, [to](/en/post/to/) [distinguish](/en/post/distinguish/) [it](/en/post/it/) [from](/en/post/from/) others [of](/en/post/of/) [the](/en/post/the/) [same](/en/post/same/) [type](/en/post/type/). [For](/en/post/for/) [example](/en/post/example/): "[New](/en/post/new/) York is [a](/en/post/a/) [proper](/en/post/proper/) [noun](/en/post/noun/)."
-2. **[Proper](/en/post/proper/) [adjective](/en/post/adjective/)**: An [adjective](/en/post/adjective/) [that](/en/post/that/) modifies [a](/en/post/a/) [noun](/en/post/noun/), [usually](/en/post/usually/) denoting [a](/en/post/a/) [unique](/en/post/unique/) [or](/en/post/or/) distinctive [quality](/en/post/quality/), [and](/en/post/and/) is capitalized. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [White](/en/post/white/) [House](/en/post/house/) is [a](/en/post/a/) [proper](/en/post/proper/) [adjective](/en/post/adjective/) referring [to](/en/post/to/) [the](/en/post/the/) [official](/en/post/official/) [residence](/en/post/residence/) [of](/en/post/of/) [the](/en/post/the/) [President](/en/post/president/) [of](/en/post/of/) [the](/en/post/the/) United States."
+### [Noun](/post/noun/)
+1. **[Proper](/post/proper/) [noun](/post/noun/)**: [A](/post/a/) [specific](/post/specific/) [name](/post/name/) given [to](/post/to/) [a](/post/a/) [person](/post/person/), [place](/post/place/), [or](/post/or/) [thing](/post/thing/), [usually](/post/usually/) capitalized, [to](/post/to/) [distinguish](/post/distinguish/) [it](/post/it/) [from](/post/from/) others [of](/post/of/) [the](/post/the/) [same](/post/same/) [type](/post/type/). [For](/post/for/) [example](/post/example/): "[New](/post/new/) York is [a](/post/a/) [proper](/post/proper/) [noun](/post/noun/)."
+2. **[Proper](/post/proper/) [adjective](/post/adjective/)**: An [adjective](/post/adjective/) [that](/post/that/) modifies [a](/post/a/) [noun](/post/noun/), [usually](/post/usually/) denoting [a](/post/a/) [unique](/post/unique/) [or](/post/or/) distinctive [quality](/post/quality/), [and](/post/and/) is capitalized. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [White](/post/white/) [House](/post/house/) is [a](/post/a/) [proper](/post/proper/) [adjective](/post/adjective/) referring [to](/post/to/) [the](/post/the/) [official](/post/official/) [residence](/post/residence/) [of](/post/of/) [the](/post/the/) [President](/post/president/) [of](/post/of/) [the](/post/the/) United States."
 
-### [Adjective](/en/post/adjective/)
-1. [Appropriate](/en/post/appropriate/) [or](/en/post/or/) fitting [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [person](/en/post/person/), [situation](/en/post/situation/), [or](/en/post/or/) context. [For](/en/post/for/) [example](/en/post/example/): "Wearing [formal](/en/post/formal/) attire was [proper](/en/post/proper/) [for](/en/post/for/) [the](/en/post/the/) [wedding](/en/post/wedding/) [ceremony](/en/post/ceremony/)."
+### [Adjective](/post/adjective/)
+1. [Appropriate](/post/appropriate/) [or](/post/or/) fitting [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [person](/post/person/), [situation](/post/situation/), [or](/post/or/) context. [For](/post/for/) [example](/post/example/): "Wearing [formal](/post/formal/) attire was [proper](/post/proper/) [for](/post/for/) [the](/post/the/) [wedding](/post/wedding/) [ceremony](/post/ceremony/)."
 
 ## Phrases
-- "[Her](/en/post/her/) [last](/en/post/last/) [name](/en/post/name/) is [Proper](/en/post/proper/), [so](/en/post/so/) [she](/en/post/she/) [always](/en/post/always/) capitalizes [it](/en/post/it/)."
-- "It's considered impolite [to](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [proper](/en/post/proper/) [noun](/en/post/noun/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)."
-- "Using [a](/en/post/a/) [proper](/en/post/proper/) [title](/en/post/title/) (e.g., Mr., Ms., Dr.) is [proper](/en/post/proper/) [when](/en/post/when/) addressing [someone](/en/post/someone/) formally."
+- "[Her](/post/her/) [last](/post/last/) [name](/post/name/) is [Proper](/post/proper/), [so](/post/so/) [she](/post/she/) [always](/post/always/) capitalizes [it](/post/it/)."
+- "It's considered impolite [to](/post/to/) [use](/post/use/) [a](/post/a/) [proper](/post/proper/) [noun](/post/noun/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/)."
+- "Using [a](/post/a/) [proper](/post/proper/) [title](/post/title/) (e.g., Mr., Ms., Dr.) is [proper](/post/proper/) [when](/post/when/) addressing [someone](/post/someone/) formally."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) painted [a](/en/post/a/) [portrait](/en/post/portrait/) [of](/en/post/of/) [Queen](/en/post/queen/) Elizabeth II, [a](/en/post/a/) [proper](/en/post/proper/) icon [in](/en/post/in/) British [history](/en/post/history/)."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) dressed [in](/en/post/in/) [a](/en/post/a/) [proper](/en/post/proper/) [manner](/en/post/manner/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/) [interview](/en/post/interview/)."
-- "[In](/en/post/in/) [writing](/en/post/writing/), it's [essential](/en/post/essential/) [to](/en/post/to/) capitalize [proper](/en/post/proper/) nouns consistently."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) painted [a](/post/a/) [portrait](/post/portrait/) [of](/post/of/) [Queen](/post/queen/) Elizabeth II, [a](/post/a/) [proper](/post/proper/) icon [in](/post/in/) British [history](/post/history/)."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) dressed [in](/post/in/) [a](/post/a/) [proper](/post/proper/) [manner](/post/manner/) [for](/post/for/) [the](/post/the/) [job](/post/job/) [interview](/post/interview/)."
+- "[In](/post/in/) [writing](/post/writing/), it's [essential](/post/essential/) [to](/post/to/) capitalize [proper](/post/proper/) nouns consistently."
 
 ## Synonyms
-- [Specific](/en/post/specific/)
-- [Unique](/en/post/unique/)
-- [Personal](/en/post/personal/)
-- [Correct](/en/post/correct/)
-- [Appropriate](/en/post/appropriate/)
+- [Specific](/post/specific/)
+- [Unique](/post/unique/)
+- [Personal](/post/personal/)
+- [Correct](/post/correct/)
+- [Appropriate](/post/appropriate/)
 - Designated
-- [Formal](/en/post/formal/)
+- [Formal](/post/formal/)
 
-## [Note](/en/post/note/)
-[Proper](/en/post/proper/) nouns are [not](/en/post/not/) considered [separate](/en/post/separate/) parts [of](/en/post/of/) [speech](/en/post/speech/) [but](/en/post/but/) [rather](/en/post/rather/) [a](/en/post/a/) [specific](/en/post/specific/) [usage](/en/post/usage/) [of](/en/post/of/) nouns [or](/en/post/or/) adjectives. [However](/en/post/however/), [the](/en/post/the/) [adjective](/en/post/adjective/) [form](/en/post/form/) "[proper](/en/post/proper/)" is treated [separately](/en/post/separately/) [in](/en/post/in/) [this](/en/post/this/) context.
+## [Note](/post/note/)
+[Proper](/post/proper/) nouns are [not](/post/not/) considered [separate](/post/separate/) parts [of](/post/of/) [speech](/post/speech/) [but](/post/but/) [rather](/post/rather/) [a](/post/a/) [specific](/post/specific/) [usage](/post/usage/) [of](/post/of/) nouns [or](/post/or/) adjectives. [However](/post/however/), [the](/post/the/) [adjective](/post/adjective/) [form](/post/form/) "[proper](/post/proper/)" is treated [separately](/post/separately/) [in](/post/in/) [this](/post/this/) context.

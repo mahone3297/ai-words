@@ -7,38 +7,38 @@ description = '[ˈstrʌkt∫ərəl] a.结构的，构造的'
 keywords = ['ai words', 'structural']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈstrʌktʃərəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [structural](/en/post/structural/) [adjective](/en/post/adjective/) [that](/en/post/that/) describes [something](/en/post/something/) related [to](/en/post/to/) [the](/en/post/the/) [arrangement](/en/post/arrangement/), [organization](/en/post/organization/), [or](/en/post/or/) [composition](/en/post/composition/) [of](/en/post/of/) [a](/en/post/a/) [system](/en/post/system/), [building](/en/post/building/), [or](/en/post/or/) [design](/en/post/design/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) supporting [framework](/en/post/framework/) [or](/en/post/or/) elements [that](/en/post/that/) [give](/en/post/give/) [a](/en/post/a/) [structure](/en/post/structure/) [stability](/en/post/stability/).
+### [Noun](/post/noun/)
+[A](/post/a/) [structural](/post/structural/) [adjective](/post/adjective/) [that](/post/that/) describes [something](/post/something/) related [to](/post/to/) [the](/post/the/) [arrangement](/post/arrangement/), [organization](/post/organization/), [or](/post/or/) [composition](/post/composition/) [of](/post/of/) [a](/post/a/) [system](/post/system/), [building](/post/building/), [or](/post/or/) [design](/post/design/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) supporting [framework](/post/framework/) [or](/post/or/) elements [that](/post/that/) [give](/post/give/) [a](/post/a/) [structure](/post/structure/) [stability](/post/stability/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [describe](/en/post/describe/) [or](/en/post/or/) analyze [the](/en/post/the/) [structure](/en/post/structure/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) systematic [or](/en/post/or/) [formal](/en/post/formal/) [manner](/en/post/manner/). [This](/en/post/this/) [can](/en/post/can/) [include](/en/post/include/) [the](/en/post/the/) [way](/en/post/way/) components are arranged [or](/en/post/or/) connected.
+### [Verb](/post/verb/)
+[To](/post/to/) [describe](/post/describe/) [or](/post/or/) analyze [the](/post/the/) [structure](/post/structure/) [of](/post/of/) [something](/post/something/), [often](/post/often/) [in](/post/in/) [a](/post/a/) systematic [or](/post/or/) [formal](/post/formal/) [manner](/post/manner/). [This](/post/this/) [can](/post/can/) [include](/post/include/) [the](/post/the/) [way](/post/way/) components are arranged [or](/post/or/) connected.
 
-### [Adjective](/en/post/adjective/)
-1. Characterizing [or](/en/post/or/) concerned [with](/en/post/with/) [the](/en/post/the/) [arrangement](/en/post/arrangement/) [or](/en/post/or/) [composition](/en/post/composition/) [of](/en/post/of/) parts [in](/en/post/in/) [a](/en/post/a/) [system](/en/post/system/) [or](/en/post/or/) [object](/en/post/object/), typically [to](/en/post/to/) [ensure](/en/post/ensure/) [stability](/en/post/stability/) [or](/en/post/or/) functionality.
-2. [Of](/en/post/of/) [or](/en/post/or/) relating [to](/en/post/to/) [the](/en/post/the/) [basic](/en/post/basic/) [framework](/en/post/framework/) [or](/en/post/or/) [constitution](/en/post/constitution/) [of](/en/post/of/) [a](/en/post/a/) [thing](/en/post/thing/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) [a](/en/post/a/) [theory](/en/post/theory/).
+### [Adjective](/post/adjective/)
+1. Characterizing [or](/post/or/) concerned [with](/post/with/) [the](/post/the/) [arrangement](/post/arrangement/) [or](/post/or/) [composition](/post/composition/) [of](/post/of/) parts [in](/post/in/) [a](/post/a/) [system](/post/system/) [or](/post/or/) [object](/post/object/), typically [to](/post/to/) [ensure](/post/ensure/) [stability](/post/stability/) [or](/post/or/) functionality.
+2. [Of](/post/of/) [or](/post/or/) relating [to](/post/to/) [the](/post/the/) [basic](/post/basic/) [framework](/post/framework/) [or](/post/or/) [constitution](/post/constitution/) [of](/post/of/) [a](/post/a/) [thing](/post/thing/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [building](/post/building/) [or](/post/or/) [a](/post/a/) [theory](/post/theory/).
 
 ## Phrases
-- "[Structural](/en/post/structural/) changes" [imply](/en/post/imply/) modifications [to](/en/post/to/) [the](/en/post/the/) [fundamental](/en/post/fundamental/) [structure](/en/post/structure/).
-- "[The](/en/post/the/) [structural](/en/post/structural/) integrity" refers [to](/en/post/to/) [the](/en/post/the/) [strength](/en/post/strength/) [and](/en/post/and/) [stability](/en/post/stability/) [of](/en/post/of/) [a](/en/post/a/) [structure](/en/post/structure/).
-- "[Structural](/en/post/structural/) [analysis](/en/post/analysis/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) studying [how](/en/post/how/) [different](/en/post/different/) parts [work](/en/post/work/) [together](/en/post/together/).
+- "[Structural](/post/structural/) changes" [imply](/post/imply/) modifications [to](/post/to/) [the](/post/the/) [fundamental](/post/fundamental/) [structure](/post/structure/).
+- "[The](/post/the/) [structural](/post/structural/) integrity" refers [to](/post/to/) [the](/post/the/) [strength](/post/strength/) [and](/post/and/) [stability](/post/stability/) [of](/post/of/) [a](/post/a/) [structure](/post/structure/).
+- "[Structural](/post/structural/) [analysis](/post/analysis/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) studying [how](/post/how/) [different](/post/different/) parts [work](/post/work/) [together](/post/together/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) architect paid [close](/en/post/close/) [attention](/en/post/attention/) [to](/en/post/to/) [the](/en/post/the/) [structural](/en/post/structural/) details [of](/en/post/of/) [the](/en/post/the/) [bridge](/en/post/bridge/).
-- **[Verb](/en/post/verb/)**: [We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [conduct](/en/post/conduct/) [a](/en/post/a/) [structural](/en/post/structural/) assessment [of](/en/post/of/) [the](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) [before](/en/post/before/) renovating.
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [new](/en/post/new/) software has [a](/en/post/a/) [more](/en/post/more/) intuitive [structural](/en/post/structural/) [layout](/en/post/layout/) [than](/en/post/than/) [the](/en/post/the/) [previous](/en/post/previous/) [version](/en/post/version/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) architect paid [close](/post/close/) [attention](/post/attention/) [to](/post/to/) [the](/post/the/) [structural](/post/structural/) details [of](/post/of/) [the](/post/the/) [bridge](/post/bridge/).
+- **[Verb](/post/verb/)**: [We](/post/we/) [need](/post/need/) [to](/post/to/) [conduct](/post/conduct/) [a](/post/a/) [structural](/post/structural/) assessment [of](/post/of/) [the](/post/the/) [old](/post/old/) [house](/post/house/) [before](/post/before/) renovating.
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [new](/post/new/) software has [a](/post/a/) [more](/post/more/) intuitive [structural](/post/structural/) [layout](/post/layout/) [than](/post/than/) [the](/post/the/) [previous](/post/previous/) [version](/post/version/).
 
 ## Synonyms
 - Architectural
 - Organizational
 - Systemic
-- [Fundamental](/en/post/fundamental/)
-- [Structural](/en/post/structural/) [framework](/en/post/framework/)
-- [Composition](/en/post/composition/)
+- [Fundamental](/post/fundamental/)
+- [Structural](/post/structural/) [framework](/post/framework/)
+- [Composition](/post/composition/)
 - Constructional
 - Supporting
-- [Essential](/en/post/essential/)
+- [Essential](/post/essential/)
 - Constituent

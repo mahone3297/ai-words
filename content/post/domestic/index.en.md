@@ -7,40 +7,40 @@ description = '[dəˈmestik] a.本国的；家庭的'
 keywords = ['ai words', 'domestic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dəˈmestɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Domestic](/en/post/domestic/)** ([noun](/en/post/noun/)): Referring [to](/en/post/to/) [something](/en/post/something/) related [to](/en/post/to/) [a](/en/post/a/) [household](/en/post/household/), [its](/en/post/its/) activities, [or](/en/post/or/) belonging [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [country](/en/post/country/) [or](/en/post/or/) [region](/en/post/region/). [Example](/en/post/example/): "[The](/en/post/the/) [domestic](/en/post/domestic/) chores [include](/en/post/include/) cleaning [and](/en/post/and/) cooking."
-2. **[Domestic](/en/post/domestic/) [animal](/en/post/animal/)** ([noun](/en/post/noun/)): An [animal](/en/post/animal/) [that](/en/post/that/) is kept [for](/en/post/for/) companionship, [work](/en/post/work/), [or](/en/post/or/) [food](/en/post/food/) [within](/en/post/within/) [a](/en/post/a/) [home](/en/post/home/) [or](/en/post/or/) [farm](/en/post/farm/). [Example](/en/post/example/): "[She](/en/post/she/) has [two](/en/post/two/) domesticated cats [as](/en/post/as/) pets."
+### [Noun](/post/noun/)
+1. **[Domestic](/post/domestic/)** ([noun](/post/noun/)): Referring [to](/post/to/) [something](/post/something/) related [to](/post/to/) [a](/post/a/) [household](/post/household/), [its](/post/its/) activities, [or](/post/or/) belonging [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [country](/post/country/) [or](/post/or/) [region](/post/region/). [Example](/post/example/): "[The](/post/the/) [domestic](/post/domestic/) chores [include](/post/include/) cleaning [and](/post/and/) cooking."
+2. **[Domestic](/post/domestic/) [animal](/post/animal/)** ([noun](/post/noun/)): An [animal](/post/animal/) [that](/post/that/) is kept [for](/post/for/) companionship, [work](/post/work/), [or](/post/or/) [food](/post/food/) [within](/post/within/) [a](/post/a/) [home](/post/home/) [or](/post/or/) [farm](/post/farm/). [Example](/post/example/): "[She](/post/she/) has [two](/post/two/) domesticated cats [as](/post/as/) pets."
 
-### [Adjective](/en/post/adjective/)
-1. **Domesticated** ([adjective](/en/post/adjective/)): Tamed [and](/en/post/and/) [accustomed](/en/post/accustomed/) [to](/en/post/to/) [living](/en/post/living/) [with](/en/post/with/) humans, typically referring [to](/en/post/to/) animals. [Example](/en/post/example/): "[The](/en/post/the/) [dog](/en/post/dog/) is [a](/en/post/a/) domesticated [breed](/en/post/breed/)."
-2. **[Domestic](/en/post/domestic/) [life](/en/post/life/)** ([adjective](/en/post/adjective/)): [The](/en/post/the/) [everyday](/en/post/everyday/) [life](/en/post/life/) [within](/en/post/within/) [a](/en/post/a/) [family](/en/post/family/) [or](/en/post/or/) [household](/en/post/household/). [Example](/en/post/example/): "[She](/en/post/she/) enjoyed [the](/en/post/the/) [simplicity](/en/post/simplicity/) [of](/en/post/of/) [domestic](/en/post/domestic/) [life](/en/post/life/)."
-3. **[Domestic](/en/post/domestic/) [policy](/en/post/policy/)** ([adjective](/en/post/adjective/)): [Concerning](/en/post/concerning/) [the](/en/post/the/) affairs [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/), [especially](/en/post/especially/) [those](/en/post/those/) related [to](/en/post/to/) [its](/en/post/its/) citizens [and](/en/post/and/) [their](/en/post/their/) well-being. [Example](/en/post/example/): "[The](/en/post/the/) government's [domestic](/en/post/domestic/) [policy](/en/post/policy/) focuses [on](/en/post/on/) healthcare [and](/en/post/and/) [education](/en/post/education/)."
+### [Adjective](/post/adjective/)
+1. **Domesticated** ([adjective](/post/adjective/)): Tamed [and](/post/and/) [accustomed](/post/accustomed/) [to](/post/to/) [living](/post/living/) [with](/post/with/) humans, typically referring [to](/post/to/) animals. [Example](/post/example/): "[The](/post/the/) [dog](/post/dog/) is [a](/post/a/) domesticated [breed](/post/breed/)."
+2. **[Domestic](/post/domestic/) [life](/post/life/)** ([adjective](/post/adjective/)): [The](/post/the/) [everyday](/post/everyday/) [life](/post/life/) [within](/post/within/) [a](/post/a/) [family](/post/family/) [or](/post/or/) [household](/post/household/). [Example](/post/example/): "[She](/post/she/) enjoyed [the](/post/the/) [simplicity](/post/simplicity/) [of](/post/of/) [domestic](/post/domestic/) [life](/post/life/)."
+3. **[Domestic](/post/domestic/) [policy](/post/policy/)** ([adjective](/post/adjective/)): [Concerning](/post/concerning/) [the](/post/the/) affairs [of](/post/of/) [a](/post/a/) [country](/post/country/), [especially](/post/especially/) [those](/post/those/) related [to](/post/to/) [its](/post/its/) citizens [and](/post/and/) [their](/post/their/) well-being. [Example](/post/example/): "[The](/post/the/) government's [domestic](/post/domestic/) [policy](/post/policy/) focuses [on](/post/on/) healthcare [and](/post/and/) [education](/post/education/)."
 
 ## Phrases
-- "[Domestic](/en/post/domestic/) [violence](/en/post/violence/)" refers [to](/en/post/to/) [abuse](/en/post/abuse/) [within](/en/post/within/) [a](/en/post/a/) [home](/en/post/home/) [or](/en/post/or/) [intimate](/en/post/intimate/) [relationship](/en/post/relationship/).
-- "[Domestic](/en/post/domestic/) [economy](/en/post/economy/)" is [the](/en/post/the/) [economic](/en/post/economic/) activities [and](/en/post/and/) conditions [within](/en/post/within/) [a](/en/post/a/) [country](/en/post/country/).
-- "[Domestic](/en/post/domestic/) [product](/en/post/product/)" (GDP) is [the](/en/post/the/) [total](/en/post/total/) [value](/en/post/value/) [of](/en/post/of/) [goods](/en/post/goods/) [and](/en/post/and/) services produced [within](/en/post/within/) [a](/en/post/a/) [country](/en/post/country/).
+- "[Domestic](/post/domestic/) [violence](/post/violence/)" refers [to](/post/to/) [abuse](/post/abuse/) [within](/post/within/) [a](/post/a/) [home](/post/home/) [or](/post/or/) [intimate](/post/intimate/) [relationship](/post/relationship/).
+- "[Domestic](/post/domestic/) [economy](/post/economy/)" is [the](/post/the/) [economic](/post/economic/) activities [and](/post/and/) conditions [within](/post/within/) [a](/post/a/) [country](/post/country/).
+- "[Domestic](/post/domestic/) [product](/post/product/)" (GDP) is [the](/post/the/) [total](/post/total/) [value](/post/value/) [of](/post/of/) [goods](/post/goods/) [and](/post/and/) services produced [within](/post/within/) [a](/post/a/) [country](/post/country/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) had [to](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [a](/en/post/a/) [domestic](/en/post/domestic/) [dispute](/en/post/dispute/) [between](/en/post/between/) [her](/en/post/her/) siblings."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [domestic](/en/post/domestic/) [market](/en/post/market/) [for](/en/post/for/) [electric](/en/post/electric/) vehicles is growing [rapidly](/en/post/rapidly/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) government's efforts [to](/en/post/to/) [improve](/en/post/improve/) [domestic](/en/post/domestic/) infrastructure are commendable."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) had [to](/post/to/) [deal](/post/deal/) [with](/post/with/) [a](/post/a/) [domestic](/post/domestic/) [dispute](/post/dispute/) [between](/post/between/) [her](/post/her/) siblings."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [domestic](/post/domestic/) [market](/post/market/) [for](/post/for/) [electric](/post/electric/) vehicles is growing [rapidly](/post/rapidly/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) government's efforts [to](/post/to/) [improve](/post/improve/) [domestic](/post/domestic/) infrastructure are commendable."
 
 ## Synonyms
-- [Household](/en/post/household/)
+- [Household](/post/household/)
 - Intra-familial
 - Domesticated
 - Insular
 - Regional
-- [Internal](/en/post/internal/)
+- [Internal](/post/internal/)
 
 ## Antonyms
-- [International](/en/post/international/)
+- [International](/post/international/)
 - Exotic
-- [Foreign](/en/post/foreign/)
+- [Foreign](/post/foreign/)
 - Global
 - Outsiders

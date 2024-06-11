@@ -7,29 +7,29 @@ description = '[ˈhɑːdweə] n.五金器具；硬件'
 keywords = ['ai words', 'hardware']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhɑːdweər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (uncountable) [The](/en/post/the/) [physical](/en/post/physical/) components [of](/en/post/of/) [a](/en/post/a/) [computer](/en/post/computer/) [system](/en/post/system/), [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) [monitor](/en/post/monitor/), [keyboard](/en/post/keyboard/), motherboard, [and](/en/post/and/) [hard](/en/post/hard/) [disk](/en/post/disk/) [drive](/en/post/drive/); machinery [or](/en/post/or/) [equipment](/en/post/equipment/), typically [that](/en/post/that/) [used](/en/post/used/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/).
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [store](/en/post/store/) sells [both](/en/post/both/) [computer](/en/post/computer/) software [and](/en/post/and/) [hardware](/en/post/hardware/)."
-- **[Noun](/en/post/noun/)**: (countable) [Any](/en/post/any/) tangible, moveable [property](/en/post/property/) [or](/en/post/or/) [goods](/en/post/goods/), [especially](/en/post/especially/) [when](/en/post/when/) distinguished [from](/en/post/from/) [real](/en/post/real/) estate [or](/en/post/or/) buildings.
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "Tools [and](/en/post/and/) machinery are considered [hardware](/en/post/hardware/) [in](/en/post/in/) [a](/en/post/a/) [construction](/en/post/construction/) [business](/en/post/business/)."
+- **[Noun](/post/noun/)**: (uncountable) [The](/post/the/) [physical](/post/physical/) components [of](/post/of/) [a](/post/a/) [computer](/post/computer/) [system](/post/system/), [such](/post/such/) [as](/post/as/) [the](/post/the/) [monitor](/post/monitor/), [keyboard](/post/keyboard/), motherboard, [and](/post/and/) [hard](/post/hard/) [disk](/post/disk/) [drive](/post/drive/); machinery [or](/post/or/) [equipment](/post/equipment/), typically [that](/post/that/) [used](/post/used/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/).
+  - [Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) [store](/post/store/) sells [both](/post/both/) [computer](/post/computer/) software [and](/post/and/) [hardware](/post/hardware/)."
+- **[Noun](/post/noun/)**: (countable) [Any](/post/any/) tangible, moveable [property](/post/property/) [or](/post/or/) [goods](/post/goods/), [especially](/post/especially/) [when](/post/when/) distinguished [from](/post/from/) [real](/post/real/) estate [or](/post/or/) buildings.
+  - [Example](/post/example/) [Sentence](/post/sentence/): "Tools [and](/post/and/) machinery are considered [hardware](/post/hardware/) [in](/post/in/) [a](/post/a/) [construction](/post/construction/) [business](/post/business/)."
 
 ## Phrases
-- "[Computer](/en/post/computer/) [hardware](/en/post/hardware/)" refers [to](/en/post/to/) [the](/en/post/the/) [physical](/en/post/physical/) parts [of](/en/post/of/) [a](/en/post/a/) [computer](/en/post/computer/) [system](/en/post/system/).
-- "[Home](/en/post/home/) [improvement](/en/post/improvement/) [hardware](/en/post/hardware/)" includes items [like](/en/post/like/) tools, locks, [and](/en/post/and/) fixtures sold [in](/en/post/in/) [hardware](/en/post/hardware/) stores.
-- "[To](/en/post/to/) upgrade [hardware](/en/post/hardware/)" [means](/en/post/means/) [to](/en/post/to/) [replace](/en/post/replace/) [or](/en/post/or/) [add](/en/post/add/) components [to](/en/post/to/) [improve](/en/post/improve/) [a](/en/post/a/) device's [performance](/en/post/performance/).
+- "[Computer](/post/computer/) [hardware](/post/hardware/)" refers [to](/post/to/) [the](/post/the/) [physical](/post/physical/) parts [of](/post/of/) [a](/post/a/) [computer](/post/computer/) [system](/post/system/).
+- "[Home](/post/home/) [improvement](/post/improvement/) [hardware](/post/hardware/)" includes items [like](/post/like/) tools, locks, [and](/post/and/) fixtures sold [in](/post/in/) [hardware](/post/hardware/) stores.
+- "[To](/post/to/) upgrade [hardware](/post/hardware/)" [means](/post/means/) [to](/post/to/) [replace](/post/replace/) [or](/post/or/) [add](/post/add/) components [to](/post/to/) [improve](/post/improve/) [a](/post/a/) device's [performance](/post/performance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([computer](/en/post/computer/) components)**: "I [need](/en/post/need/) [to](/en/post/to/) [buy](/en/post/buy/) [new](/en/post/new/) [hardware](/en/post/hardware/) [for](/en/post/for/) [my](/en/post/my/) PC [because](/en/post/because/) [the](/en/post/the/) graphics [card](/en/post/card/) is outdated."
-- **[Noun](/en/post/noun/) (tangible [goods](/en/post/goods/))**: "[The](/en/post/the/) [hardware](/en/post/hardware/) [store](/en/post/store/) carries [everything](/en/post/everything/) [from](/en/post/from/) [paint](/en/post/paint/) [to](/en/post/to/) gardening tools."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([computer](/post/computer/) components)**: "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [new](/post/new/) [hardware](/post/hardware/) [for](/post/for/) [my](/post/my/) PC [because](/post/because/) [the](/post/the/) graphics [card](/post/card/) is outdated."
+- **[Noun](/post/noun/) (tangible [goods](/post/goods/))**: "[The](/post/the/) [hardware](/post/hardware/) [store](/post/store/) carries [everything](/post/everything/) [from](/post/from/) [paint](/post/paint/) [to](/post/to/) gardening tools."
 
 ## Synonyms
-- [Equipment](/en/post/equipment/)
+- [Equipment](/post/equipment/)
 - Machinery
 - Tools
 - Devices
 - Components
-- peripherals (specifically [for](/en/post/for/) [computer](/en/post/computer/) [hardware](/en/post/hardware/))
-- fittings ([for](/en/post/for/) [building](/en/post/building/) [or](/en/post/or/) [home](/en/post/home/) [improvement](/en/post/improvement/) [hardware](/en/post/hardware/))
+- peripherals (specifically [for](/post/for/) [computer](/post/computer/) [hardware](/post/hardware/))
+- fittings ([for](/post/for/) [building](/post/building/) [or](/post/or/) [home](/post/home/) [improvement](/post/improvement/) [hardware](/post/hardware/))

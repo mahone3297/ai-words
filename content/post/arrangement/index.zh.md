@@ -11,21 +11,21 @@ keywords = ['ai words', 'arrangement']
 /əˈreɪndʒmənt/
 
 ## 释义
-- **名词**: 有计划的安排或布置；约定；排列。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [make](/post/make/) arrangements [for](/post/for/) [the](/post/the/) [meeting](/post/meeting/)."
-- **动词**: 安排；筹划。例如: "[She](/post/she/) arranged [a](/post/a/) [surprise](/post/surprise/) [party](/post/party/) [for](/post/for/) [her](/post/her/) friend's [birthday](/post/birthday/)."
+- **名词**: 有计划的安排或布置；约定；排列。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [make](/zh/post/make/) arrangements [for](/zh/post/for/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
+- **动词**: 安排；筹划。例如: "[She](/zh/post/she/) arranged [a](/zh/post/a/) [surprise](/zh/post/surprise/) [party](/zh/post/party/) [for](/zh/post/for/) [her](/zh/post/her/) friend's [birthday](/zh/post/birthday/)."
 
 ## 短语
-- "[make](/post/make/) arrangements" 意为做准备，安排事务。
-- "[arrangement](/post/arrangement/) [of](/post/of/) flowers" 指花的排列或花束设计。
-- "[musical](/post/musical/) [arrangement](/post/arrangement/)" 指音乐作品的改编或编曲。
+- "[make](/zh/post/make/) arrangements" 意为做准备，安排事务。
+- "[arrangement](/zh/post/arrangement/) [of](/zh/post/of/) flowers" 指花的排列或花束设计。
+- "[musical](/zh/post/musical/) [arrangement](/zh/post/arrangement/)" 指音乐作品的改编或编曲。
 
 ## 例句
-- 名词: "[The](/post/the/) [arrangement](/post/arrangement/) [of](/post/of/) [furniture](/post/furniture/) [in](/post/in/) [the](/post/the/) [living](/post/living/) [room](/post/room/) was [quite](/post/quite/) elegant."
-- 动词: "[They](/post/they/) are arranging [a](/post/a/) [concert](/post/concert/) [for](/post/for/) [the](/post/the/) [local](/post/local/) [charity](/post/charity/)."
+- 名词: "[The](/zh/post/the/) [arrangement](/zh/post/arrangement/) [of](/zh/post/of/) [furniture](/zh/post/furniture/) [in](/zh/post/in/) [the](/zh/post/the/) [living](/zh/post/living/) [room](/zh/post/room/) was [quite](/zh/post/quite/) elegant."
+- 动词: "[They](/zh/post/they/) are arranging [a](/zh/post/a/) [concert](/zh/post/concert/) [for](/zh/post/for/) [the](/zh/post/the/) [local](/zh/post/local/) [charity](/zh/post/charity/)."
 
 ## 同义词
-- [Plan](/post/plan/)
+- [Plan](/zh/post/plan/)
 - Setup
-- [Preparation](/post/preparation/)
-- [Organization](/post/organization/)
+- [Preparation](/zh/post/preparation/)
+- [Organization](/zh/post/organization/)
 - Disposition

@@ -7,45 +7,45 @@ description = '[∫uə] a.确信的；确实的'
 keywords = ['ai words', 'sure']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ʃʊə(r)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [Certainty](/en/post/certainty/) [or](/en/post/or/) [confidence](/en/post/confidence/): *I'm [sure](/en/post/sure/) [that](/en/post/that/) he'll [come](/en/post/come/).*
-2. Assured [knowledge](/en/post/knowledge/) [or](/en/post/or/) [belief](/en/post/belief/): *[She](/en/post/she/) was [sure](/en/post/sure/) [of](/en/post/of/) [his](/en/post/his/) innocence.*
-3. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [certain](/en/post/certain/) [or](/en/post/or/) [confident](/en/post/confident/): *[The](/en/post/the/) [host](/en/post/host/) was [a](/en/post/a/) [sure](/en/post/sure/) [presence](/en/post/presence/) [at](/en/post/at/) [every](/en/post/every/) [event](/en/post/event/).*
+### [Noun](/post/noun/)
+1. [Certainty](/post/certainty/) [or](/post/or/) [confidence](/post/confidence/): *I'm [sure](/post/sure/) [that](/post/that/) he'll [come](/post/come/).*
+2. Assured [knowledge](/post/knowledge/) [or](/post/or/) [belief](/post/belief/): *[She](/post/she/) was [sure](/post/sure/) [of](/post/of/) [his](/post/his/) innocence.*
+3. [A](/post/a/) [person](/post/person/) [who](/post/who/) is [certain](/post/certain/) [or](/post/or/) [confident](/post/confident/): *[The](/post/the/) [host](/post/host/) was [a](/post/a/) [sure](/post/sure/) [presence](/post/presence/) [at](/post/at/) [every](/post/every/) [event](/post/event/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [be](/en/post/be/) [confident](/en/post/confident/) [or](/en/post/or/) convinced: *I'm [sure](/en/post/sure/) [that](/en/post/that/) we'll [win](/en/post/win/) [the](/en/post/the/) [game](/en/post/game/).*
-2. [To](/en/post/to/) [confirm](/en/post/confirm/) [or](/en/post/or/) [assure](/en/post/assure/): *He's [sure](/en/post/sure/) [to](/en/post/to/) [let](/en/post/let/) [us](/en/post/us/) [know](/en/post/know/) [the](/en/post/the/) [result](/en/post/result/) [soon](/en/post/soon/).*
-3. (informal) [To](/en/post/to/) affirm [or](/en/post/or/) [state](/en/post/state/) [with](/en/post/with/) [certainty](/en/post/certainty/): *I'm [sure](/en/post/sure/) you'll [enjoy](/en/post/enjoy/) [the](/en/post/the/) [concert](/en/post/concert/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [be](/post/be/) [confident](/post/confident/) [or](/post/or/) convinced: *I'm [sure](/post/sure/) [that](/post/that/) we'll [win](/post/win/) [the](/post/the/) [game](/post/game/).*
+2. [To](/post/to/) [confirm](/post/confirm/) [or](/post/or/) [assure](/post/assure/): *He's [sure](/post/sure/) [to](/post/to/) [let](/post/let/) [us](/post/us/) [know](/post/know/) [the](/post/the/) [result](/post/result/) [soon](/post/soon/).*
+3. (informal) [To](/post/to/) affirm [or](/post/or/) [state](/post/state/) [with](/post/with/) [certainty](/post/certainty/): *I'm [sure](/post/sure/) you'll [enjoy](/post/enjoy/) [the](/post/the/) [concert](/post/concert/).*
 
-### [Adjective](/en/post/adjective/)
-1. [Absolutely](/en/post/absolutely/) [certain](/en/post/certain/): *There's [no](/en/post/no/) surefire [way](/en/post/way/) [to](/en/post/to/) [solve](/en/post/solve/) [this](/en/post/this/) [problem](/en/post/problem/).*
-2. [Reliable](/en/post/reliable/) [or](/en/post/or/) dependable: *[A](/en/post/a/) [sure](/en/post/sure/) [bet](/en/post/bet/) is [someone](/en/post/someone/) [you](/en/post/you/) [can](/en/post/can/) [count](/en/post/count/) [on](/en/post/on/).*
-3. [Without](/en/post/without/) [doubt](/en/post/doubt/) [or](/en/post/or/) hesitation: *[Her](/en/post/her/) [answer](/en/post/answer/) was [a](/en/post/a/) [sure](/en/post/sure/) [yes](/en/post/yes/).*
+### [Adjective](/post/adjective/)
+1. [Absolutely](/post/absolutely/) [certain](/post/certain/): *There's [no](/post/no/) surefire [way](/post/way/) [to](/post/to/) [solve](/post/solve/) [this](/post/this/) [problem](/post/problem/).*
+2. [Reliable](/post/reliable/) [or](/post/or/) dependable: *[A](/post/a/) [sure](/post/sure/) [bet](/post/bet/) is [someone](/post/someone/) [you](/post/you/) [can](/post/can/) [count](/post/count/) [on](/post/on/).*
+3. [Without](/post/without/) [doubt](/post/doubt/) [or](/post/or/) hesitation: *[Her](/post/her/) [answer](/post/answer/) was [a](/post/a/) [sure](/post/sure/) [yes](/post/yes/).*
 
-### [Adverb](/en/post/adverb/)
-1. [Definitely](/en/post/definitely/) [or](/en/post/or/) [certainly](/en/post/certainly/): *He's [sure](/en/post/sure/) [to](/en/post/to/) [arrive](/en/post/arrive/) [on](/en/post/on/) [time](/en/post/time/).*
-2. Positively [or](/en/post/or/) confidently: *[She](/en/post/she/) spoke [her](/en/post/her/) [mind](/en/post/mind/) [with](/en/post/with/) [sure](/en/post/sure/) conviction.*
+### [Adverb](/post/adverb/)
+1. [Definitely](/post/definitely/) [or](/post/or/) [certainly](/post/certainly/): *He's [sure](/post/sure/) [to](/post/to/) [arrive](/post/arrive/) [on](/post/on/) [time](/post/time/).*
+2. Positively [or](/post/or/) confidently: *[She](/post/she/) spoke [her](/post/her/) [mind](/post/mind/) [with](/post/with/) [sure](/post/sure/) conviction.*
 
 ## Phrases
-- "[Be](/en/post/be/) [sure](/en/post/sure/) [about](/en/post/about/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [confidence](/en/post/confidence/) [in](/en/post/in/) [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [fact](/en/post/fact/).
-- "[Sure](/en/post/sure/) [enough](/en/post/enough/)" is [used](/en/post/used/) [to](/en/post/to/) [confirm](/en/post/confirm/) [a](/en/post/a/) prediction [or](/en/post/or/) [expectation](/en/post/expectation/).
-- "[No](/en/post/no/) [problem](/en/post/problem/), [sure](/en/post/sure/) [thing](/en/post/thing/)" expresses willingness [to](/en/post/to/) [help](/en/post/help/) [or](/en/post/or/) [agree](/en/post/agree/).
+- "[Be](/post/be/) [sure](/post/sure/) [about](/post/about/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [confidence](/post/confidence/) [in](/post/in/) [a](/post/a/) [decision](/post/decision/) [or](/post/or/) [fact](/post/fact/).
+- "[Sure](/post/sure/) [enough](/post/enough/)" is [used](/post/used/) [to](/post/to/) [confirm](/post/confirm/) [a](/post/a/) prediction [or](/post/or/) [expectation](/post/expectation/).
+- "[No](/post/no/) [problem](/post/problem/), [sure](/post/sure/) [thing](/post/thing/)" expresses willingness [to](/post/to/) [help](/post/help/) [or](/post/or/) [agree](/post/agree/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) was [absolutely](/en/post/absolutely/) [sure](/en/post/sure/) [of](/en/post/of/) [his](/en/post/his/) [future](/en/post/future/) [career](/en/post/career/) [path](/en/post/path/)."
-- **[Verb](/en/post/verb/)**: "She's [sure](/en/post/sure/) [to](/en/post/to/) [get](/en/post/get/) an [A](/en/post/a/) [in](/en/post/in/) [the](/en/post/the/) math [exam](/en/post/exam/) [if](/en/post/if/) [she](/en/post/she/) studies [hard](/en/post/hard/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [weather](/en/post/weather/) [forecast](/en/post/forecast/) is looking [very](/en/post/very/) [sure](/en/post/sure/) [for](/en/post/for/) [sunny](/en/post/sunny/) skies [tomorrow](/en/post/tomorrow/)."
-- **[Adverb](/en/post/adverb/)**: "He's [always](/en/post/always/) [sure](/en/post/sure/) [to](/en/post/to/) [remember](/en/post/remember/) [our](/en/post/our/) anniversary."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) was [absolutely](/post/absolutely/) [sure](/post/sure/) [of](/post/of/) [his](/post/his/) [future](/post/future/) [career](/post/career/) [path](/post/path/)."
+- **[Verb](/post/verb/)**: "She's [sure](/post/sure/) [to](/post/to/) [get](/post/get/) an [A](/post/a/) [in](/post/in/) [the](/post/the/) math [exam](/post/exam/) [if](/post/if/) [she](/post/she/) studies [hard](/post/hard/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/) is looking [very](/post/very/) [sure](/post/sure/) [for](/post/for/) [sunny](/post/sunny/) skies [tomorrow](/post/tomorrow/)."
+- **[Adverb](/post/adverb/)**: "He's [always](/post/always/) [sure](/post/sure/) [to](/post/to/) [remember](/post/remember/) [our](/post/our/) anniversary."
 
 ## Synonyms
-- [Certain](/en/post/certain/)
-- [Positive](/en/post/positive/)
-- [Confident](/en/post/confident/)
-- [Reliable](/en/post/reliable/)
+- [Certain](/post/certain/)
+- [Positive](/post/positive/)
+- [Confident](/post/confident/)
+- [Reliable](/post/reliable/)
 - Convinced
 - Assured
 - Indisputable

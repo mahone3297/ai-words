@@ -7,37 +7,37 @@ description = '[eid] n.帮助，救护；助手'
 keywords = ['ai words', 'aid']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeɪd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. Assistance [or](/en/post/or/) [support](/en/post/support/) given [to](/en/post/to/) [someone](/en/post/someone/) [in](/en/post/in/) [need](/en/post/need/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [practical](/en/post/practical/) [or](/en/post/or/) [financial](/en/post/financial/) [sense](/en/post/sense/): *[The](/en/post/the/) [charity](/en/post/charity/) [provided](/en/post/provided/) [medical](/en/post/medical/) [aid](/en/post/aid/) [to](/en/post/to/) [the](/en/post/the/) [flood](/en/post/flood/) victims.*
-2. Aids [or](/en/post/or/) tools designed [to](/en/post/to/) [help](/en/post/help/) [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) [task](/en/post/task/): *[Aid](/en/post/aid/) [for](/en/post/for/) [reading](/en/post/reading/) is [available](/en/post/available/) [for](/en/post/for/) visually impaired students.*
-3. (pl) Aids, [as](/en/post/as/) [in](/en/post/in/) aids [to](/en/post/to/) [navigation](/en/post/navigation/) [or](/en/post/or/) aids [to](/en/post/to/) [memory](/en/post/memory/).
+### [Noun](/post/noun/)
+1. Assistance [or](/post/or/) [support](/post/support/) given [to](/post/to/) [someone](/post/someone/) [in](/post/in/) [need](/post/need/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [practical](/post/practical/) [or](/post/or/) [financial](/post/financial/) [sense](/post/sense/): *[The](/post/the/) [charity](/post/charity/) [provided](/post/provided/) [medical](/post/medical/) [aid](/post/aid/) [to](/post/to/) [the](/post/the/) [flood](/post/flood/) victims.*
+2. Aids [or](/post/or/) tools designed [to](/post/to/) [help](/post/help/) [with](/post/with/) [a](/post/a/) [specific](/post/specific/) [task](/post/task/): *[Aid](/post/aid/) [for](/post/for/) [reading](/post/reading/) is [available](/post/available/) [for](/post/for/) visually impaired students.*
+3. (pl) Aids, [as](/post/as/) [in](/post/in/) aids [to](/post/to/) [navigation](/post/navigation/) [or](/post/or/) aids [to](/post/to/) [memory](/post/memory/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [give](/en/post/give/) assistance [or](/en/post/or/) [support](/en/post/support/): *[She](/en/post/she/) [quickly](/en/post/quickly/) aided [the](/en/post/the/) injured [person](/en/post/person/) [to](/en/post/to/) [their](/en/post/their/) feet.*
-2. [To](/en/post/to/) facilitate [or](/en/post/or/) [promote](/en/post/promote/): *[New](/en/post/new/) technologies are aiding [research](/en/post/research/) [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/) [of](/en/post/of/) [medicine](/en/post/medicine/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [give](/post/give/) assistance [or](/post/or/) [support](/post/support/): *[She](/post/she/) [quickly](/post/quickly/) aided [the](/post/the/) injured [person](/post/person/) [to](/post/to/) [their](/post/their/) feet.*
+2. [To](/post/to/) facilitate [or](/post/or/) [promote](/post/promote/): *[New](/post/new/) technologies are aiding [research](/post/research/) [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [medicine](/post/medicine/).*
 
-### [Adjective](/en/post/adjective/)
-1. Serving [to](/en/post/to/) [assist](/en/post/assist/) [or](/en/post/or/) [support](/en/post/support/): *An [aid](/en/post/aid/) [to](/en/post/to/) [learning](/en/post/learning/).*
-2. Designed [to](/en/post/to/) [assist](/en/post/assist/) [or](/en/post/or/) [improve](/en/post/improve/): *An [aid](/en/post/aid/) [package](/en/post/package/) [for](/en/post/for/) developing countries.*
+### [Adjective](/post/adjective/)
+1. Serving [to](/post/to/) [assist](/post/assist/) [or](/post/or/) [support](/post/support/): *An [aid](/post/aid/) [to](/post/to/) [learning](/post/learning/).*
+2. Designed [to](/post/to/) [assist](/post/assist/) [or](/post/or/) [improve](/post/improve/): *An [aid](/post/aid/) [package](/post/package/) [for](/post/for/) developing countries.*
 
 ## Phrases
-- "[Provide](/en/post/provide/) [aid](/en/post/aid/) [and](/en/post/and/) [relief](/en/post/relief/)" [to](/en/post/to/) [supply](/en/post/supply/) assistance [during](/en/post/during/) an [emergency](/en/post/emergency/) [or](/en/post/or/) [crisis](/en/post/crisis/).
-- "[Visual](/en/post/visual/) aids" are materials [used](/en/post/used/) [to](/en/post/to/) enhance [teaching](/en/post/teaching/) [or](/en/post/or/) presentations.
-- "[Aid](/en/post/aid/) [in](/en/post/in/) [recovery](/en/post/recovery/)" refers [to](/en/post/to/) [support](/en/post/support/) [that](/en/post/that/) helps [someone](/en/post/someone/) regain [strength](/en/post/strength/) [or](/en/post/or/) functionality [after](/en/post/after/) an [illness](/en/post/illness/) [or](/en/post/or/) [injury](/en/post/injury/).
+- "[Provide](/post/provide/) [aid](/post/aid/) [and](/post/and/) [relief](/post/relief/)" [to](/post/to/) [supply](/post/supply/) assistance [during](/post/during/) an [emergency](/post/emergency/) [or](/post/or/) [crisis](/post/crisis/).
+- "[Visual](/post/visual/) aids" are materials [used](/post/used/) [to](/post/to/) enhance [teaching](/post/teaching/) [or](/post/or/) presentations.
+- "[Aid](/post/aid/) [in](/post/in/) [recovery](/post/recovery/)" refers [to](/post/to/) [support](/post/support/) [that](/post/that/) helps [someone](/post/someone/) regain [strength](/post/strength/) [or](/post/or/) functionality [after](/post/after/) an [illness](/post/illness/) [or](/post/or/) [injury](/post/injury/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) organization's [primary](/en/post/primary/) [function](/en/post/function/) is [to](/en/post/to/) [provide](/en/post/provide/) humanitarian [aid](/en/post/aid/) [during](/en/post/during/) [natural](/en/post/natural/) disasters."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [aid](/en/post/aid/) [her](/en/post/her/) elderly neighbor [with](/en/post/with/) [grocery](/en/post/grocery/) [shopping](/en/post/shopping/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) software has [greatly](/en/post/greatly/) aided [our](/en/post/our/) productivity."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) organization's [primary](/post/primary/) [function](/post/function/) is [to](/post/to/) [provide](/post/provide/) humanitarian [aid](/post/aid/) [during](/post/during/) [natural](/post/natural/) disasters."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [aid](/post/aid/) [her](/post/her/) elderly neighbor [with](/post/with/) [grocery](/post/grocery/) [shopping](/post/shopping/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) software has [greatly](/post/greatly/) aided [our](/post/our/) productivity."
 
 ## Synonyms
-- [Help](/en/post/help/)
-- [Support](/en/post/support/)
-- [Relief](/en/post/relief/)
+- [Help](/post/help/)
+- [Support](/post/support/)
+- [Relief](/post/relief/)
 - Assistance
 - Boost
 - Facilitation
@@ -48,5 +48,5 @@ keywords = ['ai words', 'aid']
 - Obstruction
 - Hindrance
 -妨礙 (fángài) (Chinese)
-- Assistance [can](/en/post/can/) [be](/en/post/be/) translated [as](/en/post/as/) "unterstützung" (German)
-- "[aid](/en/post/aid/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) translated [as](/en/post/as/) "apoyo" (Spanish) [or](/en/post/or/) "assistance" (French)
+- Assistance [can](/post/can/) [be](/post/be/) translated [as](/post/as/) "unterstützung" (German)
+- "[aid](/post/aid/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) translated [as](/post/as/) "apoyo" (Spanish) [or](/post/or/) "assistance" (French)

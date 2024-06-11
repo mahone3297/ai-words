@@ -7,28 +7,28 @@ description = '[ˈdʒəːnəlist] n.记者，新闻工作者'
 keywords = ['ai words', 'journalist']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒɜːrnəlɪst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) collects, writes, edits, photographs, [or](/en/post/or/) [otherwise](/en/post/otherwise/) reports [news](/en/post/news/) [or](/en/post/or/) [other](/en/post/other/) [current](/en/post/current/) [information](/en/post/information/) [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/), typically [through](/en/post/through/) newspapers, magazines, [radio](/en/post/radio/), [television](/en/post/television/), [or](/en/post/or/) online media platforms. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has been working [as](/en/post/as/) [a](/en/post/a/) [journalist](/en/post/journalist/) [for](/en/post/for/) [over](/en/post/over/) [a](/en/post/a/) [decade](/en/post/decade/), covering [political](/en/post/political/) events worldwide."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) collects, writes, edits, photographs, [or](/post/or/) [otherwise](/post/otherwise/) reports [news](/post/news/) [or](/post/or/) [other](/post/other/) [current](/post/current/) [information](/post/information/) [to](/post/to/) [the](/post/the/) [public](/post/public/), typically [through](/post/through/) newspapers, magazines, [radio](/post/radio/), [television](/post/television/), [or](/post/or/) online media platforms. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has been working [as](/post/as/) [a](/post/a/) [journalist](/post/journalist/) [for](/post/for/) [over](/post/over/) [a](/post/a/) [decade](/post/decade/), covering [political](/post/political/) events worldwide."
 
-### [Example](/en/post/example/) Sentences
-- "[The](/en/post/the/) investigative [journalist](/en/post/journalist/) broke [the](/en/post/the/) [story](/en/post/story/) [on](/en/post/on/) corruption [within](/en/post/within/) [the](/en/post/the/) [local](/en/post/local/) [government](/en/post/government/)."
-- "[After](/en/post/after/) studying journalism [in](/en/post/in/) [college](/en/post/college/), [he](/en/post/he/) landed [a](/en/post/a/) [job](/en/post/job/) [as](/en/post/as/) [a](/en/post/a/) freelance [journalist](/en/post/journalist/) [for](/en/post/for/) [several](/en/post/several/) renowned magazines."
+### [Example](/post/example/) Sentences
+- "[The](/post/the/) investigative [journalist](/post/journalist/) broke [the](/post/the/) [story](/post/story/) [on](/post/on/) corruption [within](/post/within/) [the](/post/the/) [local](/post/local/) [government](/post/government/)."
+- "[After](/post/after/) studying journalism [in](/post/in/) [college](/post/college/), [he](/post/he/) landed [a](/post/a/) [job](/post/job/) [as](/post/as/) [a](/post/a/) freelance [journalist](/post/journalist/) [for](/post/for/) [several](/post/several/) renowned magazines."
 
 ## Phrases
-- "[Journalist](/en/post/journalist/) [on](/en/post/on/) [the](/en/post/the/) [ground](/en/post/ground/)": Refers [to](/en/post/to/) [a](/en/post/a/) [reporter](/en/post/reporter/) [who](/en/post/who/) is physically [present](/en/post/present/) [at](/en/post/at/) an [event](/en/post/event/) [or](/en/post/or/) [location](/en/post/location/) [to](/en/post/to/) [cover](/en/post/cover/) [it](/en/post/it/) firsthand.
-- "[Citizen](/en/post/citizen/) [journalist](/en/post/journalist/)": An amateur [reporter](/en/post/reporter/) [who](/en/post/who/) gathers, reports, [or](/en/post/or/) analyzes [news](/en/post/news/) [and](/en/post/and/) [information](/en/post/information/), [often](/en/post/often/) using [digital](/en/post/digital/) [technology](/en/post/technology/) [such](/en/post/such/) [as](/en/post/as/) [social](/en/post/social/) media.
-- "Journalistic ethics": [The](/en/post/the/) principles [of](/en/post/of/) [conduct](/en/post/conduct/) [for](/en/post/for/) journalists [that](/en/post/that/) [guide](/en/post/guide/) [them](/en/post/them/) [in](/en/post/in/) making [professional](/en/post/professional/) decisions, [such](/en/post/such/) [as](/en/post/as/) [accuracy](/en/post/accuracy/), fairness, [and](/en/post/and/) objectivity.
+- "[Journalist](/post/journalist/) [on](/post/on/) [the](/post/the/) [ground](/post/ground/)": Refers [to](/post/to/) [a](/post/a/) [reporter](/post/reporter/) [who](/post/who/) is physically [present](/post/present/) [at](/post/at/) an [event](/post/event/) [or](/post/or/) [location](/post/location/) [to](/post/to/) [cover](/post/cover/) [it](/post/it/) firsthand.
+- "[Citizen](/post/citizen/) [journalist](/post/journalist/)": An amateur [reporter](/post/reporter/) [who](/post/who/) gathers, reports, [or](/post/or/) analyzes [news](/post/news/) [and](/post/and/) [information](/post/information/), [often](/post/often/) using [digital](/post/digital/) [technology](/post/technology/) [such](/post/such/) [as](/post/as/) [social](/post/social/) media.
+- "Journalistic ethics": [The](/post/the/) principles [of](/post/of/) [conduct](/post/conduct/) [for](/post/for/) journalists [that](/post/that/) [guide](/post/guide/) [them](/post/them/) [in](/post/in/) making [professional](/post/professional/) decisions, [such](/post/such/) [as](/post/as/) [accuracy](/post/accuracy/), fairness, [and](/post/and/) objectivity.
 
 ## Synonyms
-- [Reporter](/en/post/reporter/)
-- [News](/en/post/news/) [correspondent](/en/post/correspondent/)
-- [Writer](/en/post/writer/)
-- [Editor](/en/post/editor/)
+- [Reporter](/post/reporter/)
+- [News](/post/news/) [correspondent](/post/correspondent/)
+- [Writer](/post/writer/)
+- [Editor](/post/editor/)
 - Broadcaster
 - Newscaster
-- [Corresponding](/en/post/corresponding/) [journalist](/en/post/journalist/)
-- Newsman ([or](/en/post/or/) newswoman)
-- [Press](/en/post/press/) [representative](/en/post/representative/)
+- [Corresponding](/post/corresponding/) [journalist](/post/journalist/)
+- Newsman ([or](/post/or/) newswoman)
+- [Press](/post/press/) [representative](/post/representative/)

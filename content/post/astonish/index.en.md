@@ -7,26 +7,26 @@ description = '[əsˈtɔni∫] vt.使惊讶，使吃惊'
 keywords = ['ai words', 'astonish']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈstɑːnɪʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-Astonishment, amazement, [or](/en/post/or/) [shock](/en/post/shock/); [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [being](/en/post/being/) [greatly](/en/post/greatly/) surprised [or](/en/post/or/) amazed.
+### [Noun](/post/noun/)
+Astonishment, amazement, [or](/post/or/) [shock](/post/shock/); [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [being](/post/being/) [greatly](/post/greatly/) surprised [or](/post/or/) amazed.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [cause](/en/post/cause/) [great](/en/post/great/) [surprise](/en/post/surprise/) [or](/en/post/or/) [shock](/en/post/shock/) [in](/en/post/in/) [someone](/en/post/someone/). (e.g., "[The](/en/post/the/) [news](/en/post/news/) astonished [everyone](/en/post/everyone/).")
-2. [To](/en/post/to/) surpass expectations [or](/en/post/or/) [be](/en/post/be/) [extraordinary](/en/post/extraordinary/). (e.g., "[Her](/en/post/her/) [performance](/en/post/performance/) astonished [the](/en/post/the/) [audience](/en/post/audience/).")
+### [Verb](/post/verb/)
+1. [To](/post/to/) [cause](/post/cause/) [great](/post/great/) [surprise](/post/surprise/) [or](/post/or/) [shock](/post/shock/) [in](/post/in/) [someone](/post/someone/). (e.g., "[The](/post/the/) [news](/post/news/) astonished [everyone](/post/everyone/).")
+2. [To](/post/to/) surpass expectations [or](/post/or/) [be](/post/be/) [extraordinary](/post/extraordinary/). (e.g., "[Her](/post/her/) [performance](/post/performance/) astonished [the](/post/the/) [audience](/post/audience/).")
 
 ## Phrases
-- "[Be](/en/post/be/) astonished [by](/en/post/by/) [something](/en/post/something/)" implies [being](/en/post/being/) amazed [by](/en/post/by/) [a](/en/post/a/) [particular](/en/post/particular/) [event](/en/post/event/) [or](/en/post/or/) [fact](/en/post/fact/).
-- "[He](/en/post/he/) was utterly astonished [when](/en/post/when/) [he](/en/post/he/) [found](/en/post/found/) [out](/en/post/out/) [the](/en/post/the/) [truth](/en/post/truth/)."
-- "[She](/en/post/she/) was astonished [at](/en/post/at/) [her](/en/post/her/) child's [sudden](/en/post/sudden/) [talent](/en/post/talent/)."
+- "[Be](/post/be/) astonished [by](/post/by/) [something](/post/something/)" implies [being](/post/being/) amazed [by](/post/by/) [a](/post/a/) [particular](/post/particular/) [event](/post/event/) [or](/post/or/) [fact](/post/fact/).
+- "[He](/post/he/) was utterly astonished [when](/post/when/) [he](/post/he/) [found](/post/found/) [out](/post/out/) [the](/post/the/) [truth](/post/truth/)."
+- "[She](/post/she/) was astonished [at](/post/at/) [her](/post/her/) child's [sudden](/post/sudden/) [talent](/post/talent/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [discovery](/en/post/discovery/) [of](/en/post/of/) [a](/en/post/a/) [new](/en/post/new/) species [always](/en/post/always/) astonishes scientists."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) incredible [speed](/en/post/speed/) [on](/en/post/on/) [the](/en/post/the/) [race](/en/post/race/) [track](/en/post/track/) astonished [his](/en/post/his/) opponents."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) magician's illusions [always](/en/post/always/) [leave](/en/post/leave/) [the](/en/post/the/) [audience](/en/post/audience/) astonished."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [discovery](/post/discovery/) [of](/post/of/) [a](/post/a/) [new](/post/new/) species [always](/post/always/) astonishes scientists."
+- **[Verb](/post/verb/)**: "[His](/post/his/) incredible [speed](/post/speed/) [on](/post/on/) [the](/post/the/) [race](/post/race/) [track](/post/track/) astonished [his](/post/his/) opponents."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) magician's illusions [always](/post/always/) [leave](/post/leave/) [the](/post/the/) [audience](/post/audience/) astonished."
 
 ## Synonyms
 - Startled
@@ -40,8 +40,8 @@ Astonishment, amazement, [or](/en/post/or/) [shock](/en/post/shock/); [a](/en/po
 ## Antonyms
 - Unsurprised
 - Expected
-- [Calm](/en/post/calm/)
+- [Calm](/post/calm/)
 - Unamused
 - Unimpressed
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) "[astonish](/en/post/astonish/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) transitively [with](/en/post/with/) [a](/en/post/a/) [direct](/en/post/direct/) [object](/en/post/object/), [as](/en/post/as/) shown [in](/en/post/in/) [the](/en/post/the/) [second](/en/post/second/) [definition](/en/post/definition/) [above](/en/post/above/).
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) "[astonish](/post/astonish/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) transitively [with](/post/with/) [a](/post/a/) [direct](/post/direct/) [object](/post/object/), [as](/post/as/) shown [in](/post/in/) [the](/post/the/) [second](/post/second/) [definition](/post/definition/) [above](/post/above/).

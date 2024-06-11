@@ -7,35 +7,35 @@ description = '[haus] n.房屋，住宅；商号'
 keywords = ['ai words', 'house']
 +++
 
-## [Word](/en/post/word/): [House](/en/post/house/)
+## [Word](/post/word/): [House](/post/house/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /haʊs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [building](/en/post/building/) designed [for](/en/post/for/) [people](/en/post/people/) [to](/en/post/to/) [live](/en/post/live/) [in](/en/post/in/), [usually](/en/post/usually/) [with](/en/post/with/) [a](/en/post/a/) [roof](/en/post/roof/) [and](/en/post/and/) walls, [often](/en/post/often/) containing [multiple](/en/post/multiple/) rooms [and](/en/post/and/) facilities [for](/en/post/for/) [daily](/en/post/daily/) [living](/en/post/living/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [family](/en/post/family/) [or](/en/post/or/) [household](/en/post/household/), [as](/en/post/as/) [in](/en/post/in/) "[the](/en/post/the/) Smith [house](/en/post/house/)."
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[They](/en/post/they/) bought [a](/en/post/a/) [new](/en/post/new/) [house](/en/post/house/) [in](/en/post/in/) [the](/en/post/the/) suburbs [last](/en/post/last/) [year](/en/post/year/)."
-- **[Noun](/en/post/noun/) (figurative)**: An [organization](/en/post/organization/) [or](/en/post/or/) [institution](/en/post/institution/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) publishing [house](/en/post/house/) [or](/en/post/or/) [a](/en/post/a/) theater [house](/en/post/house/).
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [play](/en/post/play/) is currently showing [at](/en/post/at/) [the](/en/post/the/) [Royal](/en/post/royal/) [Opera](/en/post/opera/) [House](/en/post/house/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [provide](/en/post/provide/) housing [or](/en/post/or/) [shelter](/en/post/shelter/) [for](/en/post/for/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/); [to](/en/post/to/) [accommodate](/en/post/accommodate/).
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [shelter](/en/post/shelter/) houses dozens [of](/en/post/of/) stray animals."
+- **[Noun](/post/noun/)**: [A](/post/a/) [building](/post/building/) designed [for](/post/for/) [people](/post/people/) [to](/post/to/) [live](/post/live/) [in](/post/in/), [usually](/post/usually/) [with](/post/with/) [a](/post/a/) [roof](/post/roof/) [and](/post/and/) walls, [often](/post/often/) containing [multiple](/post/multiple/) rooms [and](/post/and/) facilities [for](/post/for/) [daily](/post/daily/) [living](/post/living/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [family](/post/family/) [or](/post/or/) [household](/post/household/), [as](/post/as/) [in](/post/in/) "[the](/post/the/) Smith [house](/post/house/)."
+  - [Example](/post/example/) [Sentence](/post/sentence/): "[They](/post/they/) bought [a](/post/a/) [new](/post/new/) [house](/post/house/) [in](/post/in/) [the](/post/the/) suburbs [last](/post/last/) [year](/post/year/)."
+- **[Noun](/post/noun/) (figurative)**: An [organization](/post/organization/) [or](/post/or/) [institution](/post/institution/), [such](/post/such/) [as](/post/as/) [a](/post/a/) publishing [house](/post/house/) [or](/post/or/) [a](/post/a/) theater [house](/post/house/).
+  - [Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) [play](/post/play/) is currently showing [at](/post/at/) [the](/post/the/) [Royal](/post/royal/) [Opera](/post/opera/) [House](/post/house/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [provide](/post/provide/) housing [or](/post/or/) [shelter](/post/shelter/) [for](/post/for/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/); [to](/post/to/) [accommodate](/post/accommodate/).
+  - [Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) [shelter](/post/shelter/) houses dozens [of](/post/of/) stray animals."
   
 ## Phrases
-- "[Bring](/en/post/bring/) [someone](/en/post/someone/) [into](/en/post/into/) [the](/en/post/the/) [house](/en/post/house/)" [means](/en/post/means/) [to](/en/post/to/) [let](/en/post/let/) [someone](/en/post/someone/) [enter](/en/post/enter/) [or](/en/post/or/) [join](/en/post/join/) [your](/en/post/your/) [home](/en/post/home/) [or](/en/post/or/) [family](/en/post/family/).
-- "[Clean](/en/post/clean/) [house](/en/post/house/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [significant](/en/post/significant/) changes, [often](/en/post/often/) [by](/en/post/by/) getting [rid](/en/post/rid/) [of](/en/post/of/) unwanted things [or](/en/post/or/) [people](/en/post/people/).
-- "[On](/en/post/on/) [the](/en/post/the/) [house](/en/post/house/)" implies [that](/en/post/that/) [something](/en/post/something/) is [provided](/en/post/provided/) [free](/en/post/free/) [of](/en/post/of/) [charge](/en/post/charge/) [by](/en/post/by/) [the](/en/post/the/) [establishment](/en/post/establishment/), typically [food](/en/post/food/) [or](/en/post/or/) drinks [at](/en/post/at/) [a](/en/post/a/) [restaurant](/en/post/restaurant/) [or](/en/post/or/) [bar](/en/post/bar/).
+- "[Bring](/post/bring/) [someone](/post/someone/) [into](/post/into/) [the](/post/the/) [house](/post/house/)" [means](/post/means/) [to](/post/to/) [let](/post/let/) [someone](/post/someone/) [enter](/post/enter/) [or](/post/or/) [join](/post/join/) [your](/post/your/) [home](/post/home/) [or](/post/or/) [family](/post/family/).
+- "[Clean](/post/clean/) [house](/post/house/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [significant](/post/significant/) changes, [often](/post/often/) [by](/post/by/) getting [rid](/post/rid/) [of](/post/of/) unwanted things [or](/post/or/) [people](/post/people/).
+- "[On](/post/on/) [the](/post/the/) [house](/post/house/)" implies [that](/post/that/) [something](/post/something/) is [provided](/post/provided/) [free](/post/free/) [of](/post/of/) [charge](/post/charge/) [by](/post/by/) [the](/post/the/) [establishment](/post/establishment/), typically [food](/post/food/) [or](/post/or/) drinks [at](/post/at/) [a](/post/a/) [restaurant](/post/restaurant/) [or](/post/or/) [bar](/post/bar/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([building](/en/post/building/))**: "[We](/en/post/we/) spent [all](/en/post/all/) [weekend](/en/post/weekend/) [painting](/en/post/painting/) [the](/en/post/the/) [exterior](/en/post/exterior/) [of](/en/post/of/) [our](/en/post/our/) [house](/en/post/house/)."
-- **[Noun](/en/post/noun/) ([family](/en/post/family/))**: "It's [a](/en/post/a/) [tradition](/en/post/tradition/) [in](/en/post/in/) [their](/en/post/their/) [house](/en/post/house/) [to](/en/post/to/) [have](/en/post/have/) Sunday [dinner](/en/post/dinner/) [together](/en/post/together/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [hotel](/en/post/hotel/) [will](/en/post/will/) [house](/en/post/house/) guests attending [the](/en/post/the/) [conference](/en/post/conference/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([building](/post/building/))**: "[We](/post/we/) spent [all](/post/all/) [weekend](/post/weekend/) [painting](/post/painting/) [the](/post/the/) [exterior](/post/exterior/) [of](/post/of/) [our](/post/our/) [house](/post/house/)."
+- **[Noun](/post/noun/) ([family](/post/family/))**: "It's [a](/post/a/) [tradition](/post/tradition/) [in](/post/in/) [their](/post/their/) [house](/post/house/) [to](/post/to/) [have](/post/have/) Sunday [dinner](/post/dinner/) [together](/post/together/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [hotel](/post/hotel/) [will](/post/will/) [house](/post/house/) guests attending [the](/post/the/) [conference](/post/conference/)."
 
 ## Synonyms
-- [Dwelling](/en/post/dwelling/)
-- [Residence](/en/post/residence/)
-- [Home](/en/post/home/)
+- [Dwelling](/post/dwelling/)
+- [Residence](/post/residence/)
+- [Home](/post/home/)
 - Abode
-- [Accommodation](/en/post/accommodation/)
-- [Shelter](/en/post/shelter/)
+- [Accommodation](/post/accommodation/)
+- [Shelter](/post/shelter/)
 - Lodging
-- [Establishment](/en/post/establishment/) ([when](/en/post/when/) referring [to](/en/post/to/) organizations)
+- [Establishment](/post/establishment/) ([when](/post/when/) referring [to](/post/to/) organizations)

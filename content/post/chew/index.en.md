@@ -7,32 +7,32 @@ description = '[t∫uː] vt.咀嚼，嚼碎'
 keywords = ['ai words', 'chew']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /chuː/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: n. & v. [To](/en/post/to/) masticate [food](/en/post/food/) [by](/en/post/by/) moving [the](/en/post/the/) jaws [back](/en/post/back/) [and](/en/post/and/) [forth](/en/post/forth/); [crush](/en/post/crush/) [or](/en/post/or/) [grind](/en/post/grind/) [between](/en/post/between/) [the](/en/post/the/) teeth. [n] [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) chewing; gnawing. [v] [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [the](/en/post/the/) [habit](/en/post/habit/) [or](/en/post/or/) [activity](/en/post/activity/) [of](/en/post/of/) chewing, [often](/en/post/often/) mindlessly.
+- **[Verb](/post/verb/)**: n. & v. [To](/post/to/) masticate [food](/post/food/) [by](/post/by/) moving [the](/post/the/) jaws [back](/post/back/) [and](/post/and/) [forth](/post/forth/); [crush](/post/crush/) [or](/post/or/) [grind](/post/grind/) [between](/post/between/) [the](/post/the/) teeth. [n] [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) chewing; gnawing. [v] [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [the](/post/the/) [habit](/post/habit/) [or](/post/or/) [activity](/post/activity/) [of](/post/of/) chewing, [often](/post/often/) mindlessly.
 
 ## Phrases
-- "Chewing [gum](/en/post/gum/)" is [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) confectionary meant [to](/en/post/to/) [be](/en/post/be/) chewed.
-- "Chewing [tobacco](/en/post/tobacco/)" is [a](/en/post/a/) [popular](/en/post/popular/) [substance](/en/post/substance/) [for](/en/post/for/) [oral](/en/post/oral/) [consumption](/en/post/consumption/).
-- "[Chew](/en/post/chew/) [over](/en/post/over/)" [means](/en/post/means/) [to](/en/post/to/) [think](/en/post/think/) [about](/en/post/about/) [something](/en/post/something/) carefully.
+- "Chewing [gum](/post/gum/)" is [a](/post/a/) [type](/post/type/) [of](/post/of/) confectionary meant [to](/post/to/) [be](/post/be/) chewed.
+- "Chewing [tobacco](/post/tobacco/)" is [a](/post/a/) [popular](/post/popular/) [substance](/post/substance/) [for](/post/for/) [oral](/post/oral/) [consumption](/post/consumption/).
+- "[Chew](/post/chew/) [over](/post/over/)" [means](/post/means/) [to](/post/to/) [think](/post/think/) [about](/post/about/) [something](/post/something/) carefully.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (n)**: "[The](/en/post/the/) puppy was chewing [on](/en/post/on/) [its](/en/post/its/) [new](/en/post/new/) [toy](/en/post/toy/) [all](/en/post/all/) [day](/en/post/day/)."
-- **[Verb](/en/post/verb/) (v)**: "I [need](/en/post/need/) [to](/en/post/to/) [chew](/en/post/chew/) [my](/en/post/my/) [food](/en/post/food/) thoroughly [to](/en/post/to/) [ensure](/en/post/ensure/) [proper](/en/post/proper/) digestion."
-- **Phrasal [verb](/en/post/verb/)**: "[He](/en/post/he/) spent [a](/en/post/a/) [long](/en/post/long/) [time](/en/post/time/) chewing [over](/en/post/over/) [his](/en/post/his/) [decision](/en/post/decision/) [before](/en/post/before/) making [it](/en/post/it/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (n)**: "[The](/post/the/) puppy was chewing [on](/post/on/) [its](/post/its/) [new](/post/new/) [toy](/post/toy/) [all](/post/all/) [day](/post/day/)."
+- **[Verb](/post/verb/) (v)**: "I [need](/post/need/) [to](/post/to/) [chew](/post/chew/) [my](/post/my/) [food](/post/food/) thoroughly [to](/post/to/) [ensure](/post/ensure/) [proper](/post/proper/) digestion."
+- **Phrasal [verb](/post/verb/)**: "[He](/post/he/) spent [a](/post/a/) [long](/post/long/) [time](/post/time/) chewing [over](/post/over/) [his](/post/his/) [decision](/post/decision/) [before](/post/before/) making [it](/post/it/)."
 
 ## Synonyms
-- [Bite](/en/post/bite/)
-- [Grind](/en/post/grind/)
+- [Bite](/post/bite/)
+- [Grind](/post/grind/)
 - Gnaw
 - Chomp
 - Ruminate
 - Chaw
 
 ## Antonyms
-- [Swallow](/en/post/swallow/)
-- [Spit](/en/post/spit/)
-- [Suck](/en/post/suck/)
-- [Drink](/en/post/drink/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [not](/en/post/not/) chewing [food](/en/post/food/))
+- [Swallow](/post/swallow/)
+- [Spit](/post/spit/)
+- [Suck](/post/suck/)
+- [Drink](/post/drink/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [not](/post/not/) chewing [food](/post/food/))

@@ -11,20 +11,20 @@ keywords = ['ai words', 'concentrate']
 /ˈkɑːnsntreɪt/
 
 ## 释义
-- **动词**: 集中（注意力、精力等）；浓缩。例如: "I [need](/post/need/) [to](/post/to/) [concentrate](/post/concentrate/) [on](/post/on/) [my](/post/my/) studies." 
-- **名词**: 浓缩物；精华。例如: "[The](/post/the/) [juice](/post/juice/) has been concentrated [for](/post/for/) longer [storage](/post/storage/)."
+- **动词**: 集中（注意力、精力等）；浓缩。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [concentrate](/zh/post/concentrate/) [on](/zh/post/on/) [my](/zh/post/my/) studies." 
+- **名词**: 浓缩物；精华。例如: "[The](/zh/post/the/) [juice](/zh/post/juice/) has been concentrated [for](/zh/post/for/) longer [storage](/zh/post/storage/)."
 
 ## 短语
-- "[Concentrate](/post/concentrate/) [on](/post/on/) [something](/post/something/)" 意为专注于某事。例如: "[You](/post/you/) [should](/post/should/) [concentrate](/post/concentrate/) [on](/post/on/) [your](/post/your/) [task](/post/task/) [at](/post/at/) [hand](/post/hand/)."
-- "[Concentration](/post/concentration/) [camp](/post/camp/)" 是指集中营，二战期间用来关押囚犯的地方。
+- "[Concentrate](/zh/post/concentrate/) [on](/zh/post/on/) [something](/zh/post/something/)" 意为专注于某事。例如: "[You](/zh/post/you/) [should](/zh/post/should/) [concentrate](/zh/post/concentrate/) [on](/zh/post/on/) [your](/zh/post/your/) [task](/zh/post/task/) [at](/zh/post/at/) [hand](/zh/post/hand/)."
+- "[Concentration](/zh/post/concentration/) [camp](/zh/post/camp/)" 是指集中营，二战期间用来关押囚犯的地方。
 
 ## 例句
-- 动词: "[To](/post/to/) [pass](/post/pass/) [the](/post/the/) [exam](/post/exam/), [you](/post/you/) [must](/post/must/) [concentrate](/post/concentrate/) [while](/post/while/) studying."
-- 名词: "[The](/post/the/) [juice](/post/juice/) [concentrate](/post/concentrate/) is [more](/post/more/) potent [than](/post/than/) [the](/post/the/) [original](/post/original/) [drink](/post/drink/)."
+- 动词: "[To](/zh/post/to/) [pass](/zh/post/pass/) [the](/zh/post/the/) [exam](/zh/post/exam/), [you](/zh/post/you/) [must](/zh/post/must/) [concentrate](/zh/post/concentrate/) [while](/zh/post/while/) studying."
+- 名词: "[The](/zh/post/the/) [juice](/zh/post/juice/) [concentrate](/zh/post/concentrate/) is [more](/zh/post/more/) potent [than](/zh/post/than/) [the](/zh/post/the/) [original](/zh/post/original/) [drink](/zh/post/drink/)."
 
 ## 同义词
-- [Focus](/post/focus/)
+- [Focus](/zh/post/focus/)
 - Center
-- [Direct](/post/direct/)
+- [Direct](/zh/post/direct/)
 - Pinpoint
-- [Devote](/post/devote/)
+- [Devote](/zh/post/devote/)

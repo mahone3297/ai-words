@@ -7,44 +7,44 @@ description = '[ˈrezidəns] n.居住；驻扎；住处'
 keywords = ['ai words', 'residence']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈzɪdəns/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[residence](/en/post/residence/)** is [a](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [someone](/en/post/someone/) lives, [especially](/en/post/especially/) [their](/en/post/their/) [permanent](/en/post/permanent/) [home](/en/post/home/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) [dwelling](/en/post/dwelling/) occupied [by](/en/post/by/) [a](/en/post/a/) [particular](/en/post/particular/) [person](/en/post/person/) [or](/en/post/or/) [family](/en/post/family/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[residence](/post/residence/)** is [a](/post/a/) [place](/post/place/) [where](/post/where/) [someone](/post/someone/) lives, [especially](/post/especially/) [their](/post/their/) [permanent](/post/permanent/) [home](/post/home/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [building](/post/building/) [or](/post/or/) [dwelling](/post/dwelling/) occupied [by](/post/by/) [a](/post/a/) [particular](/post/particular/) [person](/post/person/) [or](/post/or/) [family](/post/family/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **reside** is [to](/en/post/to/) [live](/en/post/live/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [on](/en/post/on/) [a](/en/post/a/) [regular](/en/post/regular/) [basis](/en/post/basis/).
+### [Verb](/post/verb/)
+[To](/post/to/) **reside** is [to](/post/to/) [live](/post/live/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/) [on](/post/on/) [a](/post/a/) [regular](/post/regular/) [basis](/post/basis/).
 
 ## Phrases
-- "[Live](/en/post/live/) [in](/en/post/in/) [a](/en/post/a/) [residence](/en/post/residence/)" [or](/en/post/or/) "Reside [at](/en/post/at/) [a](/en/post/a/) [location](/en/post/location/)"
-- "[Primary](/en/post/primary/) [residence](/en/post/residence/)" [or](/en/post/or/) "[Secondary](/en/post/secondary/) [residence](/en/post/residence/)"
-- "Residential [address](/en/post/address/)" [or](/en/post/or/) "[Private](/en/post/private/) [residence](/en/post/residence/)"
+- "[Live](/post/live/) [in](/post/in/) [a](/post/a/) [residence](/post/residence/)" [or](/post/or/) "Reside [at](/post/at/) [a](/post/a/) [location](/post/location/)"
+- "[Primary](/post/primary/) [residence](/post/residence/)" [or](/post/or/) "[Secondary](/post/secondary/) [residence](/post/residence/)"
+- "Residential [address](/post/address/)" [or](/post/or/) "[Private](/post/private/) [residence](/post/residence/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [president](/en/post/president/) resides [at](/en/post/at/) [the](/en/post/the/) [White](/en/post/white/) [House](/en/post/house/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) moving [to](/en/post/to/) [the](/en/post/the/) [city](/en/post/city/), [they](/en/post/they/) [found](/en/post/found/) [a](/en/post/a/) cozy [residence](/en/post/residence/) [near](/en/post/near/) [the](/en/post/the/) [park](/en/post/park/)."
-- "[Many](/en/post/many/) students reside [in](/en/post/in/) dormitories [during](/en/post/during/) [their](/en/post/their/) [college](/en/post/college/) years."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [president](/post/president/) resides [at](/post/at/) [the](/post/the/) [White](/post/white/) [House](/post/house/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) moving [to](/post/to/) [the](/post/the/) [city](/post/city/), [they](/post/they/) [found](/post/found/) [a](/post/a/) cozy [residence](/post/residence/) [near](/post/near/) [the](/post/the/) [park](/post/park/)."
+- "[Many](/post/many/) students reside [in](/post/in/) dormitories [during](/post/during/) [their](/post/their/) [college](/post/college/) years."
 
 ## Synonyms
-- [Dwelling](/en/post/dwelling/)
-- [Home](/en/post/home/)
+- [Dwelling](/post/dwelling/)
+- [Home](/post/home/)
 - Abode
 - Lodging
 - Quarters
-- [Residence](/en/post/residence/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [can](/en/post/can/) [be](/en/post/be/) replaced [with](/en/post/with/) "[live](/en/post/live/)" [or](/en/post/or/) "[occupy](/en/post/occupy/)")
+- [Residence](/post/residence/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/) [can](/post/can/) [be](/post/be/) replaced [with](/post/with/) "[live](/post/live/)" [or](/post/or/) "[occupy](/post/occupy/)")
 
 ## Antonyms
-- [Temporary](/en/post/temporary/) [accommodation](/en/post/accommodation/)
-- [Vacation](/en/post/vacation/) [home](/en/post/home/)
-- [Hotel](/en/post/hotel/) ([as](/en/post/as/) it's [not](/en/post/not/) [a](/en/post/a/) [permanent](/en/post/permanent/) [residence](/en/post/residence/))
+- [Temporary](/post/temporary/) [accommodation](/post/accommodation/)
+- [Vacation](/post/vacation/) [home](/post/home/)
+- [Hotel](/post/hotel/) ([as](/post/as/) it's [not](/post/not/) [a](/post/a/) [permanent](/post/permanent/) [residence](/post/residence/))
 
 ## Related Words
 - Tenure
-- Rental [property](/en/post/property/)
-- [House](/en/post/house/)
-- [Apartment](/en/post/apartment/)
+- Rental [property](/post/property/)
+- [House](/post/house/)
+- [Apartment](/post/apartment/)
 - Villa
-- [Flat](/en/post/flat/)
+- [Flat](/post/flat/)
 - Condo

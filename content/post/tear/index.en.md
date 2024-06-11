@@ -7,42 +7,42 @@ description = 'vt.撕开，撕裂'
 keywords = ['ai words', 'tear']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɛər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [tear](/en/post/tear/)** (countable): [A](/en/post/a/) [drop](/en/post/drop/) [of](/en/post/of/) [liquid](/en/post/liquid/) [that](/en/post/that/) comes [from](/en/post/from/) [the](/en/post/the/) [eye](/en/post/eye/) [when](/en/post/when/) [it](/en/post/it/) is [sad](/en/post/sad/), [emotional](/en/post/emotional/), [or](/en/post/or/) [due](/en/post/due/) [to](/en/post/to/) [physical](/en/post/physical/) irritation. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) wiped [away](/en/post/away/) [a](/en/post/a/) [tear](/en/post/tear/) [from](/en/post/from/) [her](/en/post/her/) [cheek](/en/post/cheek/)."
-- **[A](/en/post/a/) rip [or](/en/post/or/) [gap](/en/post/gap/)**: [A](/en/post/a/) [tear](/en/post/tear/) [in](/en/post/in/) [clothing](/en/post/clothing/) [or](/en/post/or/) [a](/en/post/a/) [hole](/en/post/hole/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) seam [on](/en/post/on/) [my](/en/post/my/) [shirt](/en/post/shirt/) has [a](/en/post/a/) [small](/en/post/small/) [tear](/en/post/tear/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [tear](/post/tear/)** (countable): [A](/post/a/) [drop](/post/drop/) [of](/post/of/) [liquid](/post/liquid/) [that](/post/that/) comes [from](/post/from/) [the](/post/the/) [eye](/post/eye/) [when](/post/when/) [it](/post/it/) is [sad](/post/sad/), [emotional](/post/emotional/), [or](/post/or/) [due](/post/due/) [to](/post/to/) [physical](/post/physical/) irritation. [For](/post/for/) [example](/post/example/): "[She](/post/she/) wiped [away](/post/away/) [a](/post/a/) [tear](/post/tear/) [from](/post/from/) [her](/post/her/) [cheek](/post/cheek/)."
+- **[A](/post/a/) rip [or](/post/or/) [gap](/post/gap/)**: [A](/post/a/) [tear](/post/tear/) [in](/post/in/) [clothing](/post/clothing/) [or](/post/or/) [a](/post/a/) [hole](/post/hole/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) seam [on](/post/on/) [my](/post/my/) [shirt](/post/shirt/) has [a](/post/a/) [small](/post/small/) [tear](/post/tear/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [tear](/en/post/tear/)** (v): 
-  - (1) [To](/en/post/to/) [pull](/en/post/pull/) [apart](/en/post/apart/) [or](/en/post/or/) rend [with](/en/post/with/) [force](/en/post/force/), causing [a](/en/post/a/) [break](/en/post/break/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [paper](/en/post/paper/) tore [easily](/en/post/easily/) [when](/en/post/when/) I tried [to](/en/post/to/) [fold](/en/post/fold/) [it](/en/post/it/)."
-  - (2) [To](/en/post/to/) [experience](/en/post/experience/) an [emotional](/en/post/emotional/) breakdown [or](/en/post/or/) [be](/en/post/be/) [overcome](/en/post/overcome/) [with](/en/post/with/) [emotion](/en/post/emotion/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) tore [up](/en/post/up/) [after](/en/post/after/) hearing [the](/en/post/the/) [sad](/en/post/sad/) [news](/en/post/news/)."
-  - (3) [To](/en/post/to/) [remove](/en/post/remove/) forcefully [or](/en/post/or/) [roughly](/en/post/roughly/). [For](/en/post/for/) [example](/en/post/example/): "[Tear](/en/post/tear/) [off](/en/post/off/) [the](/en/post/the/) [tape](/en/post/tape/) [from](/en/post/from/) [the](/en/post/the/) [package](/en/post/package/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [tear](/post/tear/)** (v): 
+  - (1) [To](/post/to/) [pull](/post/pull/) [apart](/post/apart/) [or](/post/or/) rend [with](/post/with/) [force](/post/force/), causing [a](/post/a/) [break](/post/break/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [paper](/post/paper/) tore [easily](/post/easily/) [when](/post/when/) I tried [to](/post/to/) [fold](/post/fold/) [it](/post/it/)."
+  - (2) [To](/post/to/) [experience](/post/experience/) an [emotional](/post/emotional/) breakdown [or](/post/or/) [be](/post/be/) [overcome](/post/overcome/) [with](/post/with/) [emotion](/post/emotion/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) tore [up](/post/up/) [after](/post/after/) hearing [the](/post/the/) [sad](/post/sad/) [news](/post/news/)."
+  - (3) [To](/post/to/) [remove](/post/remove/) forcefully [or](/post/or/) [roughly](/post/roughly/). [For](/post/for/) [example](/post/example/): "[Tear](/post/tear/) [off](/post/off/) [the](/post/the/) [tape](/post/tape/) [from](/post/from/) [the](/post/the/) [package](/post/package/)."
 
-### [Adjective](/en/post/adjective/)
-- **Tearful**: Characterized [by](/en/post/by/) tears [or](/en/post/or/) causing tears. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) tearful [goodbye](/en/post/goodbye/) was said [at](/en/post/at/) [the](/en/post/the/) [farewell](/en/post/farewell/) [ceremony](/en/post/ceremony/)."
+### [Adjective](/post/adjective/)
+- **Tearful**: Characterized [by](/post/by/) tears [or](/post/or/) causing tears. [For](/post/for/) [example](/post/example/): "[A](/post/a/) tearful [goodbye](/post/goodbye/) was said [at](/post/at/) [the](/post/the/) [farewell](/post/farewell/) [ceremony](/post/ceremony/)."
 
-### [Adverb](/en/post/adverb/)
-- **Tearfully**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) involving tears [or](/en/post/or/) expressing [sadness](/en/post/sadness/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) cried tearfully [as](/en/post/as/) [she](/en/post/she/) remembered [her](/en/post/her/) [grandmother](/en/post/grandmother/)."
+### [Adverb](/post/adverb/)
+- **Tearfully**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) involving tears [or](/post/or/) expressing [sadness](/post/sadness/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) cried tearfully [as](/post/as/) [she](/post/she/) remembered [her](/post/her/) [grandmother](/post/grandmother/)."
 
 ## Phrases
-- "[Tear](/en/post/tear/) [up](/en/post/up/) [a](/en/post/a/) [document](/en/post/document/)" [means](/en/post/means/) [to](/en/post/to/) [destroy](/en/post/destroy/) [or](/en/post/or/) shred [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [paper](/en/post/paper/).
-- "[Tear](/en/post/tear/) [down](/en/post/down/) [a](/en/post/a/) [wall](/en/post/wall/)" [can](/en/post/can/) metaphorically [mean](/en/post/mean/) [to](/en/post/to/) [break](/en/post/break/) [down](/en/post/down/) barriers [or](/en/post/or/) preconceptions.
-- "Tears [of](/en/post/of/) [joy](/en/post/joy/)" [describe](/en/post/describe/) [happy](/en/post/happy/) tears.
+- "[Tear](/post/tear/) [up](/post/up/) [a](/post/a/) [document](/post/document/)" [means](/post/means/) [to](/post/to/) [destroy](/post/destroy/) [or](/post/or/) shred [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [paper](/post/paper/).
+- "[Tear](/post/tear/) [down](/post/down/) [a](/post/a/) [wall](/post/wall/)" [can](/post/can/) metaphorically [mean](/post/mean/) [to](/post/to/) [break](/post/break/) [down](/post/down/) barriers [or](/post/or/) preconceptions.
+- "Tears [of](/post/of/) [joy](/post/joy/)" [describe](/post/describe/) [happy](/post/happy/) tears.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) held [back](/en/post/back/) [her](/en/post/her/) tears [as](/en/post/as/) [she](/en/post/she/) [read](/en/post/read/) [the](/en/post/the/) [letter](/en/post/letter/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [old](/en/post/old/) [man](/en/post/man/) couldn't [help](/en/post/help/) [but](/en/post/but/) [tear](/en/post/tear/) [up](/en/post/up/) [when](/en/post/when/) [he](/en/post/he/) [saw](/en/post/saw/) [his](/en/post/his/) children's faces."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) mother's tearful eyes showed [her](/en/post/her/) [deep](/en/post/deep/) [sorrow](/en/post/sorrow/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) spoke tearfully [about](/en/post/about/) [his](/en/post/his/) lost [childhood](/en/post/childhood/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) held [back](/post/back/) [her](/post/her/) tears [as](/post/as/) [she](/post/she/) [read](/post/read/) [the](/post/the/) [letter](/post/letter/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [old](/post/old/) [man](/post/man/) couldn't [help](/post/help/) [but](/post/but/) [tear](/post/tear/) [up](/post/up/) [when](/post/when/) [he](/post/he/) [saw](/post/saw/) [his](/post/his/) children's faces."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) mother's tearful eyes showed [her](/post/her/) [deep](/post/deep/) [sorrow](/post/sorrow/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) spoke tearfully [about](/post/about/) [his](/post/his/) lost [childhood](/post/childhood/)."
 
 ## Synonyms
-- [Cry](/en/post/cry/)
-- [Sob](/en/post/sob/)
-- [Weep](/en/post/weep/)
-- [Split](/en/post/split/)
+- [Cry](/post/cry/)
+- [Sob](/post/sob/)
+- [Weep](/post/weep/)
+- [Split](/post/split/)
 - Rupture
 - Rip
 - Fracture

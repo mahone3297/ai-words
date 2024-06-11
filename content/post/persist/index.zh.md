@@ -12,20 +12,20 @@ keywords = ['ai words', 'persist']
 
 ## 释义
 - **动词**:
-  - 坚持；持续不断。例如: "[Despite](/post/despite/) difficulties, [she](/post/she/) persisted [in](/post/in/) [her](/post/her/) efforts."
-  - 持续存在。例如: "[The](/post/the/) [problem](/post/problem/) persists [even](/post/even/) [after](/post/after/) [several](/post/several/) attempts [to](/post/to/) [solve](/post/solve/) [it](/post/it/)."
+  - 坚持；持续不断。例如: "[Despite](/zh/post/despite/) difficulties, [she](/zh/post/she/) persisted [in](/zh/post/in/) [her](/zh/post/her/) efforts."
+  - 持续存在。例如: "[The](/zh/post/the/) [problem](/zh/post/problem/) persists [even](/zh/post/even/) [after](/zh/post/after/) [several](/zh/post/several/) attempts [to](/zh/post/to/) [solve](/zh/post/solve/) [it](/zh/post/it/)."
 
 ## 短语
-- "[persist](/post/persist/) [in](/post/in/) doing [something](/post/something/)" 坚持做某事。例如: "[He](/post/he/) persisted [in](/post/in/) [his](/post/his/) [belief](/post/belief/) [that](/post/that/) [the](/post/the/) [theory](/post/theory/) was [correct](/post/correct/)."
-- "[the](/post/the/) persistence [of](/post/of/) [memory](/post/memory/)" 记忆的持久性。
+- "[persist](/zh/post/persist/) [in](/zh/post/in/) doing [something](/zh/post/something/)" 坚持做某事。例如: "[He](/zh/post/he/) persisted [in](/zh/post/in/) [his](/zh/post/his/) [belief](/zh/post/belief/) [that](/zh/post/that/) [the](/zh/post/the/) [theory](/zh/post/theory/) was [correct](/zh/post/correct/)."
+- "[the](/zh/post/the/) persistence [of](/zh/post/of/) [memory](/zh/post/memory/)" 记忆的持久性。
 
 ## 例句
-- 动词: "[She](/post/she/) persisted [with](/post/with/) [her](/post/her/) [painting](/post/painting/) [even](/post/even/) [when](/post/when/) critics were [harsh](/post/harsh/)."
-- 持续存在: "[The](/post/the/) [noise](/post/noise/) [from](/post/from/) [the](/post/the/) [construction](/post/construction/) [site](/post/site/) persisted [throughout](/post/throughout/) [the](/post/the/) [night](/post/night/)."
+- 动词: "[She](/zh/post/she/) persisted [with](/zh/post/with/) [her](/zh/post/her/) [painting](/zh/post/painting/) [even](/zh/post/even/) [when](/zh/post/when/) critics were [harsh](/zh/post/harsh/)."
+- 持续存在: "[The](/zh/post/the/) [noise](/zh/post/noise/) [from](/zh/post/from/) [the](/zh/post/the/) [construction](/zh/post/construction/) [site](/zh/post/site/) persisted [throughout](/zh/post/throughout/) [the](/zh/post/the/) [night](/zh/post/night/)."
 
 ## 同义词
-- [continue](/post/continue/)
-- [endure](/post/endure/)
-- [last](/post/last/)
-- [remain](/post/remain/)
-- [go](/post/go/) [on](/post/on/)
+- [continue](/zh/post/continue/)
+- [endure](/zh/post/endure/)
+- [last](/zh/post/last/)
+- [remain](/zh/post/remain/)
+- [go](/zh/post/go/) [on](/zh/post/on/)

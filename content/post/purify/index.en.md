@@ -7,35 +7,35 @@ description = '[ˈpjuərifai] vt.使纯净，使洁净'
 keywords = ['ai words', 'purify']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈraɪfaɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) making [something](/en/post/something/) [pure](/en/post/pure/) [or](/en/post/or/) [free](/en/post/free/) [from](/en/post/from/) impurities, [dirt](/en/post/dirt/), [or](/en/post/or/) contaminants. [Example](/en/post/example/): "[The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [water](/en/post/water/) purification removes [harmful](/en/post/harmful/) chemicals."
-2. [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [pure](/en/post/pure/) [or](/en/post/or/) [free](/en/post/free/) [from](/en/post/from/) [sin](/en/post/sin/), guilt, [or](/en/post/or/) [moral](/en/post/moral/) imperfection. [Example](/en/post/example/): "[After](/en/post/after/) [much](/en/post/much/) contemplation, [she](/en/post/she/) felt [her](/en/post/her/) [soul](/en/post/soul/) had been purified [by](/en/post/by/) [her](/en/post/her/) [spiritual](/en/post/spiritual/) [journey](/en/post/journey/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) making [something](/post/something/) [pure](/post/pure/) [or](/post/or/) [free](/post/free/) [from](/post/from/) impurities, [dirt](/post/dirt/), [or](/post/or/) contaminants. [Example](/post/example/): "[The](/post/the/) [process](/post/process/) [of](/post/of/) [water](/post/water/) purification removes [harmful](/post/harmful/) chemicals."
+2. [A](/post/a/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [pure](/post/pure/) [or](/post/or/) [free](/post/free/) [from](/post/from/) [sin](/post/sin/), guilt, [or](/post/or/) [moral](/post/moral/) imperfection. [Example](/post/example/): "[After](/post/after/) [much](/post/much/) contemplation, [she](/post/she/) felt [her](/post/her/) [soul](/post/soul/) had been purified [by](/post/by/) [her](/post/her/) [spiritual](/post/spiritual/) [journey](/post/journey/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) cleanse [or](/en/post/or/) [refine](/en/post/refine/) ([a](/en/post/a/) [substance](/en/post/substance/)) [so](/en/post/so/) [as](/en/post/as/) [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) [pure](/en/post/pure/) [or](/en/post/or/) [free](/en/post/free/) [from](/en/post/from/) impurities. [Example](/en/post/example/): "[The](/en/post/the/) [scientist](/en/post/scientist/) purified [the](/en/post/the/) [metal](/en/post/metal/) [for](/en/post/for/) [their](/en/post/their/) [experiment](/en/post/experiment/)."
-2. [To](/en/post/to/) [free](/en/post/free/) [or](/en/post/or/) [improve](/en/post/improve/) [the](/en/post/the/) [moral](/en/post/moral/) [character](/en/post/character/) [or](/en/post/or/) [mental](/en/post/mental/) [state](/en/post/state/) [of](/en/post/of/) [someone](/en/post/someone/). [Example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [purify](/en/post/purify/) [her](/en/post/her/) thoughts [and](/en/post/and/) [focus](/en/post/focus/) [on](/en/post/on/) [positive](/en/post/positive/) [energy](/en/post/energy/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) cleanse [or](/post/or/) [refine](/post/refine/) ([a](/post/a/) [substance](/post/substance/)) [so](/post/so/) [as](/post/as/) [to](/post/to/) [make](/post/make/) [it](/post/it/) [pure](/post/pure/) [or](/post/or/) [free](/post/free/) [from](/post/from/) impurities. [Example](/post/example/): "[The](/post/the/) [scientist](/post/scientist/) purified [the](/post/the/) [metal](/post/metal/) [for](/post/for/) [their](/post/their/) [experiment](/post/experiment/)."
+2. [To](/post/to/) [free](/post/free/) [or](/post/or/) [improve](/post/improve/) [the](/post/the/) [moral](/post/moral/) [character](/post/character/) [or](/post/or/) [mental](/post/mental/) [state](/post/state/) [of](/post/of/) [someone](/post/someone/). [Example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [purify](/post/purify/) [her](/post/her/) thoughts [and](/post/and/) [focus](/post/focus/) [on](/post/on/) [positive](/post/positive/) [energy](/post/energy/)."
 
-### [Adjective](/en/post/adjective/)
-1. [Free](/en/post/free/) [from](/en/post/from/) impurities [or](/en/post/or/) contamination. [Example](/en/post/example/): "[The](/en/post/the/) [air](/en/post/air/) [in](/en/post/in/) [the](/en/post/the/) [mountain](/en/post/mountain/) was [so](/en/post/so/) [pure](/en/post/pure/) [and](/en/post/and/) [fresh](/en/post/fresh/)."
-2. ([Religious](/en/post/religious/) context) [Free](/en/post/free/) [from](/en/post/from/) [sin](/en/post/sin/) [or](/en/post/or/) defiled. [Example](/en/post/example/): "[A](/en/post/a/) purified [heart](/en/post/heart/) is [essential](/en/post/essential/) [for](/en/post/for/) entering [the](/en/post/the/) [sacred](/en/post/sacred/) [space](/en/post/space/)."
+### [Adjective](/post/adjective/)
+1. [Free](/post/free/) [from](/post/from/) impurities [or](/post/or/) contamination. [Example](/post/example/): "[The](/post/the/) [air](/post/air/) [in](/post/in/) [the](/post/the/) [mountain](/post/mountain/) was [so](/post/so/) [pure](/post/pure/) [and](/post/and/) [fresh](/post/fresh/)."
+2. ([Religious](/post/religious/) context) [Free](/post/free/) [from](/post/from/) [sin](/post/sin/) [or](/post/or/) defiled. [Example](/post/example/): "[A](/post/a/) purified [heart](/post/heart/) is [essential](/post/essential/) [for](/post/for/) entering [the](/post/the/) [sacred](/post/sacred/) [space](/post/space/)."
 
 ## Phrases
-- "[Purify](/en/post/purify/) [water](/en/post/water/)" [means](/en/post/means/) [to](/en/post/to/) [remove](/en/post/remove/) contaminants [and](/en/post/and/) [make](/en/post/make/) [it](/en/post/it/) [safe](/en/post/safe/) [to](/en/post/to/) [drink](/en/post/drink/).
-- "[Purify](/en/post/purify/) one's intentions" refers [to](/en/post/to/) [setting](/en/post/setting/) [a](/en/post/a/) [clear](/en/post/clear/) [and](/en/post/and/) [pure](/en/post/pure/) [purpose](/en/post/purpose/).
-- "[Spiritual](/en/post/spiritual/) purification" is [a](/en/post/a/) [religious](/en/post/religious/) [concept](/en/post/concept/) involving cleansing [the](/en/post/the/) [soul](/en/post/soul/).
+- "[Purify](/post/purify/) [water](/post/water/)" [means](/post/means/) [to](/post/to/) [remove](/post/remove/) contaminants [and](/post/and/) [make](/post/make/) [it](/post/it/) [safe](/post/safe/) [to](/post/to/) [drink](/post/drink/).
+- "[Purify](/post/purify/) one's intentions" refers [to](/post/to/) [setting](/post/setting/) [a](/post/a/) [clear](/post/clear/) [and](/post/and/) [pure](/post/pure/) [purpose](/post/purpose/).
+- "[Spiritual](/post/spiritual/) purification" is [a](/post/a/) [religious](/post/religious/) [concept](/post/concept/) involving cleansing [the](/post/the/) [soul](/post/soul/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [laboratory](/en/post/laboratory/) [equipment](/en/post/equipment/) was designed [for](/en/post/for/) [efficient](/en/post/efficient/) purification [of](/en/post/of/) chemicals."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) went [through](/en/post/through/) [a](/en/post/a/) rigorous purification ritual [before](/en/post/before/) embarking [on](/en/post/on/) [her](/en/post/her/) pilgrimage."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) alchemist aimed [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) purified [gold](/en/post/gold/) [by](/en/post/by/) refining [it](/en/post/it/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [laboratory](/post/laboratory/) [equipment](/post/equipment/) was designed [for](/post/for/) [efficient](/post/efficient/) purification [of](/post/of/) chemicals."
+- **[Verb](/post/verb/)**: "[She](/post/she/) went [through](/post/through/) [a](/post/a/) rigorous purification ritual [before](/post/before/) embarking [on](/post/on/) [her](/post/her/) pilgrimage."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) alchemist aimed [to](/post/to/) [create](/post/create/) [a](/post/a/) purified [gold](/post/gold/) [by](/post/by/) refining [it](/post/it/)."
 
 ## Synonyms
 - Sanitize
 - Cleanse
 - Detoxify
 - Elevate
-- [Improve](/en/post/improve/) (morally)
+- [Improve](/post/improve/) (morally)

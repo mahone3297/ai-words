@@ -11,20 +11,20 @@ keywords = ['ai words', 'serious']
 /ˈsɪriəs/
 
 ## 释义
-- **形容词**: 严重的，认真的，重要的。例如: "[He](/post/he/) had [a](/post/a/) [serious](/post/serious/) [injury](/post/injury/) [and](/post/and/) needed [immediate](/post/immediate/) [medical](/post/medical/) [attention](/post/attention/)." 
-- **副词**: 认真地，严肃地。例如: "[She](/post/she/) spoke [seriously](/post/seriously/) [about](/post/about/) [the](/post/the/) [situation](/post/situation/)."
+- **形容词**: 严重的，认真的，重要的。例如: "[He](/zh/post/he/) had [a](/zh/post/a/) [serious](/zh/post/serious/) [injury](/zh/post/injury/) [and](/zh/post/and/) needed [immediate](/zh/post/immediate/) [medical](/zh/post/medical/) [attention](/zh/post/attention/)." 
+- **副词**: 认真地，严肃地。例如: "[She](/zh/post/she/) spoke [seriously](/zh/post/seriously/) [about](/zh/post/about/) [the](/zh/post/the/) [situation](/zh/post/situation/)."
 
 ## 短语
-- "[in](/post/in/) [all](/post/all/) seriousness" 表示非常认真地说，不开玩笑。
-- "[serious](/post/serious/) [about](/post/about/) [something](/post/something/)" 表示对某事非常认真或投入。
+- "[in](/zh/post/in/) [all](/zh/post/all/) seriousness" 表示非常认真地说，不开玩笑。
+- "[serious](/zh/post/serious/) [about](/zh/post/about/) [something](/zh/post/something/)" 表示对某事非常认真或投入。
 
 ## 例句
-- 形容词: "[The](/post/the/) [doctor](/post/doctor/) said [it](/post/it/) was [a](/post/a/) [serious](/post/serious/) [illness](/post/illness/) [that](/post/that/) required [surgery](/post/surgery/)."
-- 副词: "[When](/post/when/) discussing [the](/post/the/) [issue](/post/issue/), [he](/post/he/) looked [at](/post/at/) [her](/post/her/) [seriously](/post/seriously/)."
+- 形容词: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) said [it](/zh/post/it/) was [a](/zh/post/a/) [serious](/zh/post/serious/) [illness](/zh/post/illness/) [that](/zh/post/that/) required [surgery](/zh/post/surgery/)."
+- 副词: "[When](/zh/post/when/) discussing [the](/zh/post/the/) [issue](/zh/post/issue/), [he](/zh/post/he/) looked [at](/zh/post/at/) [her](/zh/post/her/) [seriously](/zh/post/seriously/)."
 
 ## 同义词
-- [Severe](/post/severe/)
-- [Grave](/post/grave/)
+- [Severe](/zh/post/severe/)
+- [Grave](/zh/post/grave/)
 - Profound
 - weighty
 - crucial

@@ -11,27 +11,27 @@ keywords = ['ai words', 'beam']
 /biːm/
 
 ## 释义
-- **名词**: 1. 光线，光束，尤指集中的一束光或电子束。例如: "[The](/post/the/) [laser](/post/laser/) produced [a](/post/a/) [powerful](/post/powerful/) [beam](/post/beam/) [of](/post/of/) [light](/post/light/)."
-   2. (结构) 梁，栋梁，横梁。例如: "[The](/post/the/) [old](/post/old/) [house](/post/house/) had [wooden](/post/wooden/) beams supporting [the](/post/the/) [ceiling](/post/ceiling/)."
+- **名词**: 1. 光线，光束，尤指集中的一束光或电子束。例如: "[The](/zh/post/the/) [laser](/zh/post/laser/) produced [a](/zh/post/a/) [powerful](/zh/post/powerful/) [beam](/zh/post/beam/) [of](/zh/post/of/) [light](/zh/post/light/)."
+   2. (结构) 梁，栋梁，横梁。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [house](/zh/post/house/) had [wooden](/zh/post/wooden/) beams supporting [the](/zh/post/the/) [ceiling](/zh/post/ceiling/)."
 
-- **动词**: 发射光束或无线电波。例如: "[The](/post/the/) [satellite](/post/satellite/) dishes were beaming signals [to](/post/to/) [the](/post/the/) [other](/post/other/) [side](/post/side/) [of](/post/of/) [the](/post/the/) [world](/post/world/)."
+- **动词**: 发射光束或无线电波。例如: "[The](/zh/post/the/) [satellite](/zh/post/satellite/) dishes were beaming signals [to](/zh/post/to/) [the](/zh/post/the/) [other](/zh/post/other/) [side](/zh/post/side/) [of](/zh/post/of/) [the](/zh/post/the/) [world](/zh/post/world/)."
 
 ## 短语
-- "[beam](/post/beam/) [with](/post/with/) [joy](/post/joy/)" 表示满脸喜悦。
-- "[beam](/post/beam/) [out](/post/out/)" 指发射无线电波或激光。
-- "[to](/post/to/) [beam](/post/beam/) [a](/post/a/) [message](/post/message/)" 通过光束或无线电波传递信息。
+- "[beam](/zh/post/beam/) [with](/zh/post/with/) [joy](/zh/post/joy/)" 表示满脸喜悦。
+- "[beam](/zh/post/beam/) [out](/zh/post/out/)" 指发射无线电波或激光。
+- "[to](/zh/post/to/) [beam](/zh/post/beam/) [a](/zh/post/a/) [message](/zh/post/message/)" 通过光束或无线电波传递信息。
 
 ## 例句
-- 名词: "[The](/post/the/) lighthouse emitted [a](/post/a/) [steady](/post/steady/) [beam](/post/beam/) [across](/post/across/) [the](/post/the/) [dark](/post/dark/) [sea](/post/sea/)."
-- 动词: "[The](/post/the/) astronaut's communicator was beaming [their](/post/their/) [voice](/post/voice/) [back](/post/back/) [to](/post/to/) [Earth](/post/earth/)."
+- 名词: "[The](/zh/post/the/) lighthouse emitted [a](/zh/post/a/) [steady](/zh/post/steady/) [beam](/zh/post/beam/) [across](/zh/post/across/) [the](/zh/post/the/) [dark](/zh/post/dark/) [sea](/zh/post/sea/)."
+- 动词: "[The](/zh/post/the/) astronaut's communicator was beaming [their](/zh/post/their/) [voice](/zh/post/voice/) [back](/zh/post/back/) [to](/zh/post/to/) [Earth](/zh/post/earth/)."
 
 ## 同义词
 - 光线/光束:
-  - [ray](/post/ray/)
+  - [ray](/zh/post/ray/)
   - shaft
-  - [flash](/post/flash/)
+  - [flash](/zh/post/flash/)
 
 - 发射（信号）:
-  - [transmit](/post/transmit/)
-  - [send](/post/send/) [out](/post/out/)
-  - [broadcast](/post/broadcast/)
+  - [transmit](/zh/post/transmit/)
+  - [send](/zh/post/send/) [out](/zh/post/out/)
+  - [broadcast](/zh/post/broadcast/)

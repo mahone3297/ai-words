@@ -7,30 +7,30 @@ description = '[ˈfainəl] a.最后的；决定性的'
 keywords = ['ai words', 'final']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfaɪnl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Occurring [or](/en/post/or/) coming [after](/en/post/after/) [all](/en/post/all/) others; [last](/en/post/last/) [in](/en/post/in/) [order](/en/post/order/) [or](/en/post/or/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [final](/en/post/final/) [exam](/en/post/exam/) [will](/en/post/will/) [determine](/en/post/determine/) [your](/en/post/your/) [course](/en/post/course/) [grade](/en/post/grade/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [last](/en/post/last/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/); [the](/en/post/the/) [end](/en/post/end/) [or](/en/post/or/) [conclusion](/en/post/conclusion/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [final](/en/post/final/) [chapter](/en/post/chapter/) [of](/en/post/of/) [the](/en/post/the/) [book](/en/post/book/) was [the](/en/post/the/) [most](/en/post/most/) thrilling."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) conclusive [or](/en/post/or/) decisive [manner](/en/post/manner/); [ultimately](/en/post/ultimately/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) months [of](/en/post/of/) [preparation](/en/post/preparation/), [he](/en/post/he/) [finally](/en/post/finally/) won [the](/en/post/the/) marathon."
+- **[Adjective](/post/adjective/)**: Occurring [or](/post/or/) coming [after](/post/after/) [all](/post/all/) others; [last](/post/last/) [in](/post/in/) [order](/post/order/) [or](/post/or/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [final](/post/final/) [exam](/post/exam/) [will](/post/will/) [determine](/post/determine/) [your](/post/your/) [course](/post/course/) [grade](/post/grade/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [last](/post/last/) [part](/post/part/) [of](/post/of/) [something](/post/something/); [the](/post/the/) [end](/post/end/) [or](/post/or/) [conclusion](/post/conclusion/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [final](/post/final/) [chapter](/post/chapter/) [of](/post/of/) [the](/post/the/) [book](/post/book/) was [the](/post/the/) [most](/post/most/) thrilling."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) conclusive [or](/post/or/) decisive [manner](/post/manner/); [ultimately](/post/ultimately/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) months [of](/post/of/) [preparation](/post/preparation/), [he](/post/he/) [finally](/post/finally/) won [the](/post/the/) marathon."
 
 ## Phrases
-- "[Final](/en/post/final/) [decision](/en/post/decision/)" refers [to](/en/post/to/) [a](/en/post/a/) conclusive [choice](/en/post/choice/) [that](/en/post/that/) cannot [be](/en/post/be/) changed [or](/en/post/or/) reversed.
-- "[Final](/en/post/final/) countdown" refers [to](/en/post/to/) [the](/en/post/the/) [last](/en/post/last/) moments [before](/en/post/before/) an [event](/en/post/event/) occurs, [often](/en/post/often/) [used](/en/post/used/) metaphorically.
-- "[Final](/en/post/final/) [match](/en/post/match/)" denotes [the](/en/post/the/) concluding [game](/en/post/game/) [or](/en/post/or/) [contest](/en/post/contest/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) tournament.
-- "[Final](/en/post/final/) [destination](/en/post/destination/)" refers [to](/en/post/to/) [the](/en/post/the/) [last](/en/post/last/) [stop](/en/post/stop/) [or](/en/post/or/) endpoint [in](/en/post/in/) [a](/en/post/a/) [journey](/en/post/journey/) [or](/en/post/or/) [process](/en/post/process/).
+- "[Final](/post/final/) [decision](/post/decision/)" refers [to](/post/to/) [a](/post/a/) conclusive [choice](/post/choice/) [that](/post/that/) cannot [be](/post/be/) changed [or](/post/or/) reversed.
+- "[Final](/post/final/) countdown" refers [to](/post/to/) [the](/post/the/) [last](/post/last/) moments [before](/post/before/) an [event](/post/event/) occurs, [often](/post/often/) [used](/post/used/) metaphorically.
+- "[Final](/post/final/) [match](/post/match/)" denotes [the](/post/the/) concluding [game](/post/game/) [or](/post/or/) [contest](/post/contest/) [in](/post/in/) [a](/post/a/) [series](/post/series/) [or](/post/or/) tournament.
+- "[Final](/post/final/) [destination](/post/destination/)" refers [to](/post/to/) [the](/post/the/) [last](/post/last/) [stop](/post/stop/) [or](/post/or/) endpoint [in](/post/in/) [a](/post/a/) [journey](/post/journey/) [or](/post/or/) [process](/post/process/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [final](/en/post/final/) instalment [of](/en/post/of/) [the](/en/post/the/) [loan](/en/post/loan/) is [due](/en/post/due/) [next](/en/post/next/) [month](/en/post/month/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [team](/en/post/team/) celebrated [their](/en/post/their/) [victory](/en/post/victory/) [after](/en/post/after/) [the](/en/post/the/) [final](/en/post/final/) [whistle](/en/post/whistle/) blew."
-- **[Adverb](/en/post/adverb/)**: "[After](/en/post/after/) [many](/en/post/many/) attempts, [she](/en/post/she/) [finally](/en/post/finally/) [found](/en/post/found/) [the](/en/post/the/) [solution](/en/post/solution/) [to](/en/post/to/) [the](/en/post/the/) [problem](/en/post/problem/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [final](/post/final/) instalment [of](/post/of/) [the](/post/the/) [loan](/post/loan/) is [due](/post/due/) [next](/post/next/) [month](/post/month/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [team](/post/team/) celebrated [their](/post/their/) [victory](/post/victory/) [after](/post/after/) [the](/post/the/) [final](/post/final/) [whistle](/post/whistle/) blew."
+- **[Adverb](/post/adverb/)**: "[After](/post/after/) [many](/post/many/) attempts, [she](/post/she/) [finally](/post/finally/) [found](/post/found/) [the](/post/the/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/)."
 
 ## Synonyms
-- [Ultimate](/en/post/ultimate/) (adj.)
+- [Ultimate](/post/ultimate/) (adj.)
 - Concluding (adj.)
-- [Terminal](/en/post/terminal/) (adj.)
-- [Last](/en/post/last/) (adj.)
-- [End](/en/post/end/) ([noun](/en/post/noun/))
-- [Conclusion](/en/post/conclusion/) ([noun](/en/post/noun/))
-- [Ultimately](/en/post/ultimately/) (adv.)
+- [Terminal](/post/terminal/) (adj.)
+- [Last](/post/last/) (adj.)
+- [End](/post/end/) ([noun](/post/noun/))
+- [Conclusion](/post/conclusion/) ([noun](/post/noun/))
+- [Ultimately](/post/ultimately/) (adv.)

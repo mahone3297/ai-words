@@ -7,41 +7,41 @@ description = '[kəuˈɔpəreit] vi.合作，协作；配合'
 keywords = ['ai words', 'cooperate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəʊˈoʊpəreɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) working [together](/en/post/together/) [with](/en/post/with/) others towards [a](/en/post/a/) [common](/en/post/common/) [goal](/en/post/goal/) [or](/en/post/or/) [purpose](/en/post/purpose/).
-   - *[The](/en/post/the/) [team](/en/post/team/) decided [to](/en/post/to/) [cooperate](/en/post/cooperate/) [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/).*
-2. [Agreement](/en/post/agreement/) [or](/en/post/or/) [harmony](/en/post/harmony/) [in](/en/post/in/) [action](/en/post/action/) [or](/en/post/or/) [behavior](/en/post/behavior/).
-   - *[Their](/en/post/their/) cooperative efforts led [to](/en/post/to/) [a](/en/post/a/) [successful](/en/post/successful/) [outcome](/en/post/outcome/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) working [together](/post/together/) [with](/post/with/) others towards [a](/post/a/) [common](/post/common/) [goal](/post/goal/) [or](/post/or/) [purpose](/post/purpose/).
+   - *[The](/post/the/) [team](/post/team/) decided [to](/post/to/) [cooperate](/post/cooperate/) [on](/post/on/) [the](/post/the/) [project](/post/project/).*
+2. [Agreement](/post/agreement/) [or](/post/or/) [harmony](/post/harmony/) [in](/post/in/) [action](/post/action/) [or](/post/or/) [behavior](/post/behavior/).
+   - *[Their](/post/their/) cooperative efforts led [to](/post/to/) [a](/post/a/) [successful](/post/successful/) [outcome](/post/outcome/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [work](/en/post/work/) [together](/en/post/together/) [with](/en/post/with/) others, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) harmonious [and](/en/post/and/) mutually [beneficial](/en/post/beneficial/) [way](/en/post/way/).
-   - *[They](/en/post/they/) [need](/en/post/need/) [to](/en/post/to/) [cooperate](/en/post/cooperate/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [task](/en/post/task/) [on](/en/post/on/) [time](/en/post/time/).*
-2. [To](/en/post/to/) [support](/en/post/support/) [or](/en/post/or/) [assist](/en/post/assist/) [another](/en/post/another/) [person](/en/post/person/) [or](/en/post/or/) [group](/en/post/group/).
-   - *[She](/en/post/she/) cooperated [with](/en/post/with/) [the](/en/post/the/) [investigation](/en/post/investigation/) [by](/en/post/by/) providing crucial [information](/en/post/information/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [work](/post/work/) [together](/post/together/) [with](/post/with/) others, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) harmonious [and](/post/and/) mutually [beneficial](/post/beneficial/) [way](/post/way/).
+   - *[They](/post/they/) [need](/post/need/) [to](/post/to/) [cooperate](/post/cooperate/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [task](/post/task/) [on](/post/on/) [time](/post/time/).*
+2. [To](/post/to/) [support](/post/support/) [or](/post/or/) [assist](/post/assist/) [another](/post/another/) [person](/post/person/) [or](/post/or/) [group](/post/group/).
+   - *[She](/post/she/) cooperated [with](/post/with/) [the](/post/the/) [investigation](/post/investigation/) [by](/post/by/) providing crucial [information](/post/information/).*
 
-### [Adjective](/en/post/adjective/)
-1. Characterized [by](/en/post/by/) collaboration [and](/en/post/and/) teamwork.
-   - *[A](/en/post/a/) cooperative [environment](/en/post/environment/) fosters productivity.*
-2. [Willing](/en/post/willing/) [to](/en/post/to/) [help](/en/post/help/) [or](/en/post/or/) [support](/en/post/support/) others.
-   - *He's [a](/en/post/a/) [very](/en/post/very/) cooperative [person](/en/post/person/) [who](/en/post/who/) [always](/en/post/always/) offers assistance.*
+### [Adjective](/post/adjective/)
+1. Characterized [by](/post/by/) collaboration [and](/post/and/) teamwork.
+   - *[A](/post/a/) cooperative [environment](/post/environment/) fosters productivity.*
+2. [Willing](/post/willing/) [to](/post/to/) [help](/post/help/) [or](/post/or/) [support](/post/support/) others.
+   - *He's [a](/post/a/) [very](/post/very/) cooperative [person](/post/person/) [who](/post/who/) [always](/post/always/) offers assistance.*
 
 ## Phrases
-- "[Cooperate](/en/post/cooperate/) [with](/en/post/with/)" implies working [together](/en/post/together/) [for](/en/post/for/) [a](/en/post/a/) shared [objective](/en/post/objective/).
-- "[Form](/en/post/form/) [a](/en/post/a/) cooperative partnership" signifies joining forces [for](/en/post/for/) [mutual](/en/post/mutual/) [benefit](/en/post/benefit/).
-- "Cooperative [attitude](/en/post/attitude/)" describes [a](/en/post/a/) willingness [to](/en/post/to/) collaborate.
+- "[Cooperate](/post/cooperate/) [with](/post/with/)" implies working [together](/post/together/) [for](/post/for/) [a](/post/a/) shared [objective](/post/objective/).
+- "[Form](/post/form/) [a](/post/a/) cooperative partnership" signifies joining forces [for](/post/for/) [mutual](/post/mutual/) [benefit](/post/benefit/).
+- "Cooperative [attitude](/post/attitude/)" describes [a](/post/a/) willingness [to](/post/to/) collaborate.
 
-## [Example](/en/post/example/) Sentences
-- *[The](/en/post/the/) employees had [to](/en/post/to/) [cooperate](/en/post/cooperate/) [to](/en/post/to/) [meet](/en/post/meet/) [the](/en/post/the/) [tight](/en/post/tight/) deadline.*
-- *[The](/en/post/the/) scientists are cooperating [on](/en/post/on/) [a](/en/post/a/) groundbreaking [research](/en/post/research/) [project](/en/post/project/).*
-- *[He](/en/post/he/) was cooperative [during](/en/post/during/) [the](/en/post/the/) [police](/en/post/police/) interrogation.*
+## [Example](/post/example/) Sentences
+- *[The](/post/the/) employees had [to](/post/to/) [cooperate](/post/cooperate/) [to](/post/to/) [meet](/post/meet/) [the](/post/the/) [tight](/post/tight/) deadline.*
+- *[The](/post/the/) scientists are cooperating [on](/post/on/) [a](/post/a/) groundbreaking [research](/post/research/) [project](/post/project/).*
+- *[He](/post/he/) was cooperative [during](/post/during/) [the](/post/the/) [police](/post/police/) interrogation.*
 
 ## Synonyms
 - Collaborate
-- [Assist](/en/post/assist/)
+- [Assist](/post/assist/)
 - Assistive
 - Synergistic
 - Complementary
@@ -49,8 +49,8 @@ keywords = ['ai words', 'cooperate']
 - Harmonious
 
 ## Antonyms
-- [Compete](/en/post/compete/)
-- [Oppose](/en/post/oppose/)
-- [Disagree](/en/post/disagree/)
-- [Resist](/en/post/resist/)
-- [Isolate](/en/post/isolate/)
+- [Compete](/post/compete/)
+- [Oppose](/post/oppose/)
+- [Disagree](/post/disagree/)
+- [Resist](/post/resist/)
+- [Isolate](/post/isolate/)

@@ -11,22 +11,22 @@ keywords = ['ai words', 'okay']
 /əʊˈkeɪ/
 
 ## 释义
-- **形容词**: 表示同意、接受或情况良好。例如: "That's [okay](/post/okay/) [with](/post/with/) [me](/post/me/)."，"Is [everything](/post/everything/) [okay](/post/okay/)?"
-- **副词**: 用于确认或同意。例如: "It's [okay](/post/okay/), I'll [do](/post/do/) [it](/post/it/)."
-- **感叹词**: 用于打招呼或表示惊讶。例如: "[Okay](/post/okay/), [what](/post/what/) did [you](/post/you/) [find](/post/find/) [out](/post/out/)?"，"[Okay](/post/okay/), [now](/post/now/) I [understand](/post/understand/)."
+- **形容词**: 表示同意、接受或情况良好。例如: "That's [okay](/zh/post/okay/) [with](/zh/post/with/) [me](/zh/post/me/)."，"Is [everything](/zh/post/everything/) [okay](/zh/post/okay/)?"
+- **副词**: 用于确认或同意。例如: "It's [okay](/zh/post/okay/), I'll [do](/zh/post/do/) [it](/zh/post/it/)."
+- **感叹词**: 用于打招呼或表示惊讶。例如: "[Okay](/zh/post/okay/), [what](/zh/post/what/) did [you](/zh/post/you/) [find](/zh/post/find/) [out](/zh/post/out/)?"，"[Okay](/zh/post/okay/), [now](/zh/post/now/) I [understand](/zh/post/understand/)."
 
 ## 短语
-- "[Okay](/post/okay/), [then](/post/then/)" 用于表示同意或继续下一个话题。
-- "Are [you](/post/you/) [okay](/post/okay/)?" 用来询问某人的健康或情绪状况。
+- "[Okay](/zh/post/okay/), [then](/zh/post/then/)" 用于表示同意或继续下一个话题。
+- "Are [you](/zh/post/you/) [okay](/zh/post/okay/)?" 用来询问某人的健康或情绪状况。
 
 ## 例句
-- 形容词: "[If](/post/if/) [you](/post/you/) can't [come](/post/come/), it's [okay](/post/okay/), we'll [manage](/post/manage/) [without](/post/without/) [you](/post/you/)."
-- 副词: "[You](/post/you/) [can](/post/can/) [use](/post/use/) [my](/post/my/) [car](/post/car/), that's [okay](/post/okay/)."
-- 感叹词: "[Okay](/post/okay/), let's [start](/post/start/) [the](/post/the/) [meeting](/post/meeting/)."
+- 形容词: "[If](/zh/post/if/) [you](/zh/post/you/) can't [come](/zh/post/come/), it's [okay](/zh/post/okay/), we'll [manage](/zh/post/manage/) [without](/zh/post/without/) [you](/zh/post/you/)."
+- 副词: "[You](/zh/post/you/) [can](/zh/post/can/) [use](/zh/post/use/) [my](/zh/post/my/) [car](/zh/post/car/), that's [okay](/zh/post/okay/)."
+- 感叹词: "[Okay](/zh/post/okay/), let's [start](/zh/post/start/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
 
 ## 同义词
 - Alright
-- [Fine](/post/fine/)
-- [All](/post/all/) [right](/post/right/)
-- [Good](/post/good/)
-- [Acceptable](/post/acceptable/)
+- [Fine](/zh/post/fine/)
+- [All](/zh/post/all/) [right](/zh/post/right/)
+- [Good](/zh/post/good/)
+- [Acceptable](/zh/post/acceptable/)

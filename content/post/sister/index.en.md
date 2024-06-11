@@ -7,34 +7,34 @@ description = '[ˈsistə] n.姐妹，姐，妹'
 keywords = ['ai words', 'sister']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪsˈtər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [female](/en/post/female/) sibling, typically younger [than](/en/post/than/) [or](/en/post/or/) [equal](/en/post/equal/) [to](/en/post/to/) one's [own](/en/post/own/) [age](/en/post/age/). 2. [A](/en/post/a/) [woman](/en/post/woman/) regarded [as](/en/post/as/) [a](/en/post/a/) [close](/en/post/close/) [female](/en/post/female/) [friend](/en/post/friend/) [or](/en/post/or/) [associate](/en/post/associate/). 3. (informal) [A](/en/post/a/) [female](/en/post/female/) [acquaintance](/en/post/acquaintance/) [or](/en/post/or/) [colleague](/en/post/colleague/). 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [or](/en/post/or/) acknowledge [someone](/en/post/someone/) [as](/en/post/as/) one's [sister](/en/post/sister/), [or](/en/post/or/) [to](/en/post/to/) [consider](/en/post/consider/) [someone](/en/post/someone/) [as](/en/post/as/) [a](/en/post/a/) [sister](/en/post/sister/) [figure](/en/post/figure/). 
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [female](/post/female/) sibling, typically younger [than](/post/than/) [or](/post/or/) [equal](/post/equal/) [to](/post/to/) one's [own](/post/own/) [age](/post/age/). 2. [A](/post/a/) [woman](/post/woman/) regarded [as](/post/as/) [a](/post/a/) [close](/post/close/) [female](/post/female/) [friend](/post/friend/) [or](/post/or/) [associate](/post/associate/). 3. (informal) [A](/post/a/) [female](/post/female/) [acquaintance](/post/acquaintance/) [or](/post/or/) [colleague](/post/colleague/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [refer](/post/refer/) [to](/post/to/) [or](/post/or/) acknowledge [someone](/post/someone/) [as](/post/as/) one's [sister](/post/sister/), [or](/post/or/) [to](/post/to/) [consider](/post/consider/) [someone](/post/someone/) [as](/post/as/) [a](/post/a/) [sister](/post/sister/) [figure](/post/figure/). 
 
 ## Phrases
-- "[Call](/en/post/call/) [your](/en/post/your/) [sister](/en/post/sister/)" [means](/en/post/means/) [to](/en/post/to/) [contact](/en/post/contact/) [or](/en/post/or/) interact [with](/en/post/with/) [your](/en/post/your/) [female](/en/post/female/) sibling.
-- "Sisterhood" refers [to](/en/post/to/) [a](/en/post/a/) [strong](/en/post/strong/) [bond](/en/post/bond/) [or](/en/post/or/) [community](/en/post/community/) [among](/en/post/among/) women.
-- "[Blood](/en/post/blood/) [sister](/en/post/sister/)" denotes [a](/en/post/a/) [close](/en/post/close/) [friendship](/en/post/friendship/) [or](/en/post/or/) [loyalty](/en/post/loyalty/) [between](/en/post/between/) women [not](/en/post/not/) [necessarily](/en/post/necessarily/) related [by](/en/post/by/) [blood](/en/post/blood/).
+- "[Call](/post/call/) [your](/post/your/) [sister](/post/sister/)" [means](/post/means/) [to](/post/to/) [contact](/post/contact/) [or](/post/or/) interact [with](/post/with/) [your](/post/your/) [female](/post/female/) sibling.
+- "Sisterhood" refers [to](/post/to/) [a](/post/a/) [strong](/post/strong/) [bond](/post/bond/) [or](/post/or/) [community](/post/community/) [among](/post/among/) women.
+- "[Blood](/post/blood/) [sister](/post/sister/)" denotes [a](/post/a/) [close](/post/close/) [friendship](/post/friendship/) [or](/post/or/) [loyalty](/post/loyalty/) [between](/post/between/) women [not](/post/not/) [necessarily](/post/necessarily/) related [by](/post/by/) [blood](/post/blood/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[My](/en/post/my/) [sister](/en/post/sister/) [and](/en/post/and/) I [share](/en/post/share/) [a](/en/post/a/) [love](/en/post/love/) [for](/en/post/for/) [adventure](/en/post/adventure/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) introduced [her](/en/post/her/) [new](/en/post/new/) sister-in-law [to](/en/post/to/) [the](/en/post/the/) [family](/en/post/family/)."
-- "[She](/en/post/she/) felt [like](/en/post/like/) an older [sister](/en/post/sister/) [to](/en/post/to/) [the](/en/post/the/) troubled [teenager](/en/post/teenager/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[My](/post/my/) [sister](/post/sister/) [and](/post/and/) I [share](/post/share/) [a](/post/a/) [love](/post/love/) [for](/post/for/) [adventure](/post/adventure/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) introduced [her](/post/her/) [new](/post/new/) sister-in-law [to](/post/to/) [the](/post/the/) [family](/post/family/)."
+- "[She](/post/she/) felt [like](/post/like/) an older [sister](/post/sister/) [to](/post/to/) [the](/post/the/) troubled [teenager](/post/teenager/)."
 
 ## Synonyms
 - Sisterly
 - Sibling
-- [Female](/en/post/female/) [cousin](/en/post/cousin/)
-- [Aunt](/en/post/aunt/) (informal)
-- [Female](/en/post/female/) [friend](/en/post/friend/)
-- [Comrade](/en/post/comrade/) ([in](/en/post/in/) [a](/en/post/a/) sisterly [sense](/en/post/sense/))
+- [Female](/post/female/) [cousin](/post/cousin/)
+- [Aunt](/post/aunt/) (informal)
+- [Female](/post/female/) [friend](/post/friend/)
+- [Comrade](/post/comrade/) ([in](/post/in/) [a](/post/a/) sisterly [sense](/post/sense/))
 
 ## Antonyms
-- [Brother](/en/post/brother/)
-- [Male](/en/post/male/) sibling
-- [Cousin](/en/post/cousin/) ([male](/en/post/male/))
-- [Uncle](/en/post/uncle/)
-- [Male](/en/post/male/) [friend](/en/post/friend/)
+- [Brother](/post/brother/)
+- [Male](/post/male/) sibling
+- [Cousin](/post/cousin/) ([male](/post/male/))
+- [Uncle](/post/uncle/)
+- [Male](/post/male/) [friend](/post/friend/)

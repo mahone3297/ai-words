@@ -7,31 +7,31 @@ description = '[ˈmetrik] a.公制的，米制的'
 keywords = ['ai words', 'metric']
 +++
 
-## [Word](/en/post/word/): [Metric](/en/post/metric/)
+## [Word](/post/word/): [Metric](/post/metric/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɛtrɪk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [system](/en/post/system/) [or](/en/post/or/) [standard](/en/post/standard/) [of](/en/post/of/) [measurement](/en/post/measurement/), [especially](/en/post/especially/) [the](/en/post/the/) [International](/en/post/international/) [System](/en/post/system/) [of](/en/post/of/) Units (SI), [which](/en/post/which/) includes meters, kilograms, seconds, etc., [used](/en/post/used/) [widely](/en/post/widely/) [in](/en/post/in/) [science](/en/post/science/), [industry](/en/post/industry/), [and](/en/post/and/) [everyday](/en/post/everyday/) [life](/en/post/life/). [Example](/en/post/example/): "[The](/en/post/the/) [metric](/en/post/metric/) [system](/en/post/system/) allows [for](/en/post/for/) [easy](/en/post/easy/) [conversion](/en/post/conversion/) [between](/en/post/between/) units [like](/en/post/like/) kilometers [and](/en/post/and/) meters."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) numerical [measure](/en/post/measure/) [that](/en/post/that/) assesses [or](/en/post/or/) describes [a](/en/post/a/) [particular](/en/post/particular/) [characteristic](/en/post/characteristic/), [quality](/en/post/quality/), [or](/en/post/or/) [phenomenon](/en/post/phenomenon/). [Example](/en/post/example/): "[Customer](/en/post/customer/) [satisfaction](/en/post/satisfaction/) metrics are crucial [for](/en/post/for/) evaluating [a](/en/post/a/) company's [performance](/en/post/performance/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [measurement](/en/post/measurement/) [or](/en/post/or/) metrics. [Example](/en/post/example/): "[The](/en/post/the/) [metric](/en/post/metric/) [data](/en/post/data/) showed [a](/en/post/a/) [significant](/en/post/significant/) [improvement](/en/post/improvement/) [in](/en/post/in/) website [traffic](/en/post/traffic/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [system](/post/system/) [or](/post/or/) [standard](/post/standard/) [of](/post/of/) [measurement](/post/measurement/), [especially](/post/especially/) [the](/post/the/) [International](/post/international/) [System](/post/system/) [of](/post/of/) Units (SI), [which](/post/which/) includes meters, kilograms, seconds, etc., [used](/post/used/) [widely](/post/widely/) [in](/post/in/) [science](/post/science/), [industry](/post/industry/), [and](/post/and/) [everyday](/post/everyday/) [life](/post/life/). [Example](/post/example/): "[The](/post/the/) [metric](/post/metric/) [system](/post/system/) allows [for](/post/for/) [easy](/post/easy/) [conversion](/post/conversion/) [between](/post/between/) units [like](/post/like/) kilometers [and](/post/and/) meters."
+- **[Noun](/post/noun/)**: [A](/post/a/) numerical [measure](/post/measure/) [that](/post/that/) assesses [or](/post/or/) describes [a](/post/a/) [particular](/post/particular/) [characteristic](/post/characteristic/), [quality](/post/quality/), [or](/post/or/) [phenomenon](/post/phenomenon/). [Example](/post/example/): "[Customer](/post/customer/) [satisfaction](/post/satisfaction/) metrics are crucial [for](/post/for/) evaluating [a](/post/a/) company's [performance](/post/performance/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [measurement](/post/measurement/) [or](/post/or/) metrics. [Example](/post/example/): "[The](/post/the/) [metric](/post/metric/) [data](/post/data/) showed [a](/post/a/) [significant](/post/significant/) [improvement](/post/improvement/) [in](/post/in/) website [traffic](/post/traffic/)."
 
 ## Phrases
-- "[In](/en/post/in/) [metric](/en/post/metric/) terms" - Referring [to](/en/post/to/) measurements using [the](/en/post/the/) [metric](/en/post/metric/) [system](/en/post/system/).
-- "[Key](/en/post/key/) [performance](/en/post/performance/) indicators (KPIs)" - [Also](/en/post/also/) known [as](/en/post/as/) metrics, [these](/en/post/these/) are [specific](/en/post/specific/) measures [used](/en/post/used/) [to](/en/post/to/) [evaluate](/en/post/evaluate/) [how](/en/post/how/) effectively an [organization](/en/post/organization/) is achieving [its](/en/post/its/) [key](/en/post/key/) [business](/en/post/business/) objectives.
+- "[In](/post/in/) [metric](/post/metric/) terms" - Referring [to](/post/to/) measurements using [the](/post/the/) [metric](/post/metric/) [system](/post/system/).
+- "[Key](/post/key/) [performance](/post/performance/) indicators (KPIs)" - [Also](/post/also/) known [as](/post/as/) metrics, [these](/post/these/) are [specific](/post/specific/) measures [used](/post/used/) [to](/post/to/) [evaluate](/post/evaluate/) [how](/post/how/) effectively an [organization](/post/organization/) is achieving [its](/post/its/) [key](/post/key/) [business](/post/business/) objectives.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([measurement](/en/post/measurement/) [system](/en/post/system/))**: "Canada adopted [the](/en/post/the/) [metric](/en/post/metric/) [system](/en/post/system/) [as](/en/post/as/) [its](/en/post/its/) [official](/en/post/official/) [system](/en/post/system/) [of](/en/post/of/) [measurement](/en/post/measurement/) [in](/en/post/in/) [the](/en/post/the/) 1970s."
-- **[Noun](/en/post/noun/) ([measure](/en/post/measure/))**: "[A](/en/post/a/) [vital](/en/post/vital/) [metric](/en/post/metric/) [for](/en/post/for/) assessing [the](/en/post/the/) [success](/en/post/success/) [of](/en/post/of/) [a](/en/post/a/) [social](/en/post/social/) media [campaign](/en/post/campaign/) is engagement [rate](/en/post/rate/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [metric](/en/post/metric/) [scale](/en/post/scale/) [on](/en/post/on/) [the](/en/post/the/) [ruler](/en/post/ruler/) helps scientists [make](/en/post/make/) [precise](/en/post/precise/) measurements."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([measurement](/post/measurement/) [system](/post/system/))**: "Canada adopted [the](/post/the/) [metric](/post/metric/) [system](/post/system/) [as](/post/as/) [its](/post/its/) [official](/post/official/) [system](/post/system/) [of](/post/of/) [measurement](/post/measurement/) [in](/post/in/) [the](/post/the/) 1970s."
+- **[Noun](/post/noun/) ([measure](/post/measure/))**: "[A](/post/a/) [vital](/post/vital/) [metric](/post/metric/) [for](/post/for/) assessing [the](/post/the/) [success](/post/success/) [of](/post/of/) [a](/post/a/) [social](/post/social/) media [campaign](/post/campaign/) is engagement [rate](/post/rate/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [metric](/post/metric/) [scale](/post/scale/) [on](/post/on/) [the](/post/the/) [ruler](/post/ruler/) helps scientists [make](/post/make/) [precise](/post/precise/) measurements."
 
 ## Synonyms
-- [Measurement](/en/post/measurement/)
-- [Unit](/en/post/unit/)
+- [Measurement](/post/measurement/)
+- [Unit](/post/unit/)
 - Indicator
-- [Standard](/en/post/standard/)
-- [Index](/en/post/index/)
-- [Gauge](/en/post/gauge/)
+- [Standard](/post/standard/)
+- [Index](/post/index/)
+- [Gauge](/post/gauge/)
 - Criteria
-- Yardstick ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/))
+- Yardstick ([in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/))

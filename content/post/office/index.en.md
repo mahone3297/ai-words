@@ -7,29 +7,29 @@ description = '[ˈɔfis] n.办公室；处，局，社'
 keywords = ['ai words', 'office']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɒfɪs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [room](/en/post/room/) [or](/en/post/or/) [set](/en/post/set/) [of](/en/post/of/) rooms [where](/en/post/where/) [people](/en/post/people/) [work](/en/post/work/), typically [in](/en/post/in/) an administrative [capacity](/en/post/capacity/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [building](/en/post/building/) [that](/en/post/that/) houses [such](/en/post/such/) rooms. _Example_: "[The](/en/post/the/) company's [headquarters](/en/post/headquarters/) has [a](/en/post/a/) spacious [main](/en/post/main/) [office](/en/post/office/) [with](/en/post/with/) [several](/en/post/several/) departments."
-  - _As [a](/en/post/a/) [collective](/en/post/collective/) noun_: [The](/en/post/the/) [staff](/en/post/staff/) [or](/en/post/or/) [organization](/en/post/organization/) associated [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [type](/en/post/type/) [of](/en/post/of/) [work](/en/post/work/) [or](/en/post/or/) [function](/en/post/function/). _Example_: "[She](/en/post/she/) works [for](/en/post/for/) [the](/en/post/the/) sales [office](/en/post/office/)."
-- **[Verb](/en/post/verb/) (transitive)**: [To](/en/post/to/) [assign](/en/post/assign/) [or](/en/post/or/) allocate [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [position](/en/post/position/) [or](/en/post/or/) [duty](/en/post/duty/) [within](/en/post/within/) an [office](/en/post/office/) [or](/en/post/or/) [organization](/en/post/organization/). _Example_: "[After](/en/post/after/) graduation, [he](/en/post/he/) was officed [in](/en/post/in/) [the](/en/post/the/) [New](/en/post/new/) York [branch](/en/post/branch/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [room](/post/room/) [or](/post/or/) [set](/post/set/) [of](/post/of/) rooms [where](/post/where/) [people](/post/people/) [work](/post/work/), typically [in](/post/in/) an administrative [capacity](/post/capacity/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [building](/post/building/) [that](/post/that/) houses [such](/post/such/) rooms. _Example_: "[The](/post/the/) company's [headquarters](/post/headquarters/) has [a](/post/a/) spacious [main](/post/main/) [office](/post/office/) [with](/post/with/) [several](/post/several/) departments."
+  - _As [a](/post/a/) [collective](/post/collective/) noun_: [The](/post/the/) [staff](/post/staff/) [or](/post/or/) [organization](/post/organization/) associated [with](/post/with/) [a](/post/a/) [particular](/post/particular/) [type](/post/type/) [of](/post/of/) [work](/post/work/) [or](/post/or/) [function](/post/function/). _Example_: "[She](/post/she/) works [for](/post/for/) [the](/post/the/) sales [office](/post/office/)."
+- **[Verb](/post/verb/) (transitive)**: [To](/post/to/) [assign](/post/assign/) [or](/post/or/) allocate [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [position](/post/position/) [or](/post/or/) [duty](/post/duty/) [within](/post/within/) an [office](/post/office/) [or](/post/or/) [organization](/post/organization/). _Example_: "[After](/post/after/) graduation, [he](/post/he/) was officed [in](/post/in/) [the](/post/the/) [New](/post/new/) York [branch](/post/branch/)."
 
 ## Phrases
-- "[In](/en/post/in/) [office](/en/post/office/)": Refers [to](/en/post/to/) holding [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [being](/en/post/being/) actively engaged [in](/en/post/in/) one's duties [in](/en/post/in/) an [official](/en/post/official/) [capacity](/en/post/capacity/). _Example_: "[The](/en/post/the/) [president](/en/post/president/) has been [in](/en/post/in/) [office](/en/post/office/) [for](/en/post/for/) [two](/en/post/two/) terms."
-- "[Office](/en/post/office/) hours": [The](/en/post/the/) designated [time](/en/post/time/) [during](/en/post/during/) [which](/en/post/which/) [a](/en/post/a/) [professional](/en/post/professional/), [usually](/en/post/usually/) [a](/en/post/a/) [teacher](/en/post/teacher/) [or](/en/post/or/) [professor](/en/post/professor/), is [available](/en/post/available/) [to](/en/post/to/) [meet](/en/post/meet/) [with](/en/post/with/) students [or](/en/post/or/) clients.
-- "[Office](/en/post/office/) [politics](/en/post/politics/)": [The](/en/post/the/) [often](/en/post/often/) [complex](/en/post/complex/) interpersonal relationships [and](/en/post/and/) strategies employed [by](/en/post/by/) individuals [to](/en/post/to/) [gain](/en/post/gain/) [advantage](/en/post/advantage/) [or](/en/post/or/) [influence](/en/post/influence/) [within](/en/post/within/) an [organization](/en/post/organization/).
+- "[In](/post/in/) [office](/post/office/)": Refers [to](/post/to/) holding [a](/post/a/) [position](/post/position/) [or](/post/or/) [being](/post/being/) actively engaged [in](/post/in/) one's duties [in](/post/in/) an [official](/post/official/) [capacity](/post/capacity/). _Example_: "[The](/post/the/) [president](/post/president/) has been [in](/post/in/) [office](/post/office/) [for](/post/for/) [two](/post/two/) terms."
+- "[Office](/post/office/) hours": [The](/post/the/) designated [time](/post/time/) [during](/post/during/) [which](/post/which/) [a](/post/a/) [professional](/post/professional/), [usually](/post/usually/) [a](/post/a/) [teacher](/post/teacher/) [or](/post/or/) [professor](/post/professor/), is [available](/post/available/) [to](/post/to/) [meet](/post/meet/) [with](/post/with/) students [or](/post/or/) clients.
+- "[Office](/post/office/) [politics](/post/politics/)": [The](/post/the/) [often](/post/often/) [complex](/post/complex/) interpersonal relationships [and](/post/and/) strategies employed [by](/post/by/) individuals [to](/post/to/) [gain](/post/gain/) [advantage](/post/advantage/) [or](/post/or/) [influence](/post/influence/) [within](/post/within/) an [organization](/post/organization/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [need](/en/post/need/) [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [post](/en/post/post/) [office](/en/post/office/) [to](/en/post/to/) [send](/en/post/send/) [this](/en/post/this/) [package](/en/post/package/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [office](/en/post/office/) [the](/en/post/the/) [new](/en/post/new/) [employee](/en/post/employee/) [in](/en/post/in/) [the](/en/post/the/) [corner](/en/post/corner/) cubicle [for](/en/post/for/) [maximum](/en/post/maximum/) [concentration](/en/post/concentration/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [need](/post/need/) [to](/post/to/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [post](/post/post/) [office](/post/office/) [to](/post/to/) [send](/post/send/) [this](/post/this/) [package](/post/package/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) decided [to](/post/to/) [office](/post/office/) [the](/post/the/) [new](/post/new/) [employee](/post/employee/) [in](/post/in/) [the](/post/the/) [corner](/post/corner/) cubicle [for](/post/for/) [maximum](/post/maximum/) [concentration](/post/concentration/)."
 
 ## Synonyms
 - Workplace
-- [Bureau](/en/post/bureau/)
-- [Headquarters](/en/post/headquarters/)
+- [Bureau](/post/bureau/)
+- [Headquarters](/post/headquarters/)
 - Suite
-- [Department](/en/post/department/)
-- [Administration](/en/post/administration/)
-- [Room](/en/post/room/)
-- [Position](/en/post/position/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
+- [Department](/post/department/)
+- [Administration](/post/administration/)
+- [Room](/post/room/)
+- [Position](/post/position/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/))

@@ -11,21 +11,21 @@ keywords = ['ai words', 'dense']
 /dɛns/
 
 ## 释义
-- **形容词**: 密集的，稠密的。例如: "[The](/post/the/) [forest](/post/forest/) is [so](/post/so/) [dense](/post/dense/) [that](/post/that/) [sunlight](/post/sunlight/) [hardly](/post/hardly/) penetrates [it](/post/it/)."
-- **副词**: 密集地，浓密地。例如: "[The](/post/the/) [fog](/post/fog/) was [dense](/post/dense/) [enough](/post/enough/) [to](/post/to/) obscure [the](/post/the/) [view](/post/view/)."
+- **形容词**: 密集的，稠密的。例如: "[The](/zh/post/the/) [forest](/zh/post/forest/) is [so](/zh/post/so/) [dense](/zh/post/dense/) [that](/zh/post/that/) [sunlight](/zh/post/sunlight/) [hardly](/zh/post/hardly/) penetrates [it](/zh/post/it/)."
+- **副词**: 密集地，浓密地。例如: "[The](/zh/post/the/) [fog](/zh/post/fog/) was [dense](/zh/post/dense/) [enough](/zh/post/enough/) [to](/zh/post/to/) obscure [the](/zh/post/the/) [view](/zh/post/view/)."
 
 ## 短语
-- "[dense](/post/dense/) [population](/post/population/)" 指人口密集。
-- "[dense](/post/dense/) [forest](/post/forest/)" 指茂密的森林。
-- "[dense](/post/dense/) [fog](/post/fog/)" 指浓厚的雾。
+- "[dense](/zh/post/dense/) [population](/zh/post/population/)" 指人口密集。
+- "[dense](/zh/post/dense/) [forest](/zh/post/forest/)" 指茂密的森林。
+- "[dense](/zh/post/dense/) [fog](/zh/post/fog/)" 指浓厚的雾。
 
 ## 例句
-- 形容词: "[The](/post/the/) [city](/post/city/) has [a](/post/a/) [very](/post/very/) [dense](/post/dense/) [population](/post/population/) [due](/post/due/) [to](/post/to/) [its](/post/its/) [size](/post/size/) [and](/post/and/) infrastructure."
-- 副词: "[The](/post/the/) [smoke](/post/smoke/) [from](/post/from/) [the](/post/the/) [fire](/post/fire/) was [so](/post/so/) [dense](/post/dense/) [that](/post/that/) [we](/post/we/) couldn't [see](/post/see/) [anything](/post/anything/)."
+- 形容词: "[The](/zh/post/the/) [city](/zh/post/city/) has [a](/zh/post/a/) [very](/zh/post/very/) [dense](/zh/post/dense/) [population](/zh/post/population/) [due](/zh/post/due/) [to](/zh/post/to/) [its](/zh/post/its/) [size](/zh/post/size/) [and](/zh/post/and/) infrastructure."
+- 副词: "[The](/zh/post/the/) [smoke](/zh/post/smoke/) [from](/zh/post/from/) [the](/zh/post/the/) [fire](/zh/post/fire/) was [so](/zh/post/so/) [dense](/zh/post/dense/) [that](/zh/post/that/) [we](/zh/post/we/) couldn't [see](/zh/post/see/) [anything](/zh/post/anything/)."
 
 ## 同义词
-- [thick](/post/thick/)
+- [thick](/zh/post/thick/)
 - compact
 - concentrated
 - close-packed
-- [heavy](/post/heavy/)
+- [heavy](/zh/post/heavy/)

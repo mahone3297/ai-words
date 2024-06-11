@@ -7,39 +7,39 @@ description = '[prəˈviʒən] n.供应；预备；存粮'
 keywords = ['ai words', 'provision']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈvɪʒn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Provision](/en/post/provision/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) providing [something](/en/post/something/) [in](/en/post/in/) [advance](/en/post/advance/) [or](/en/post/or/) beforehand; [a](/en/post/a/) [supply](/en/post/supply/) [or](/en/post/or/) allocation [of](/en/post/of/) [goods](/en/post/goods/), services, [or](/en/post/or/) [money](/en/post/money/) [to](/en/post/to/) [meet](/en/post/meet/) [future](/en/post/future/) needs.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) made provisions [for](/en/post/for/) [emergency](/en/post/emergency/) [aid](/en/post/aid/) [during](/en/post/during/) [the](/en/post/the/) pandemic."
-2. **Provisioning** ([noun](/en/post/noun/), [verb](/en/post/verb/)): [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) preparing [or](/en/post/or/) supplying [something](/en/post/something/) [for](/en/post/for/) [use](/en/post/use/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [ship](/en/post/ship/) [or](/en/post/or/) [aircraft](/en/post/aircraft/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [crew](/en/post/crew/) was [busy](/en/post/busy/) provisioning [the](/en/post/the/) [ship](/en/post/ship/) [with](/en/post/with/) [food](/en/post/food/) [and](/en/post/and/) [water](/en/post/water/)."
+### [Noun](/post/noun/)
+1. **[Provision](/post/provision/)** ([noun](/post/noun/)): [The](/post/the/) [act](/post/act/) [of](/post/of/) providing [something](/post/something/) [in](/post/in/) [advance](/post/advance/) [or](/post/or/) beforehand; [a](/post/a/) [supply](/post/supply/) [or](/post/or/) allocation [of](/post/of/) [goods](/post/goods/), services, [or](/post/or/) [money](/post/money/) [to](/post/to/) [meet](/post/meet/) [future](/post/future/) needs.
+   - [Example](/post/example/): "[The](/post/the/) [government](/post/government/) made provisions [for](/post/for/) [emergency](/post/emergency/) [aid](/post/aid/) [during](/post/during/) [the](/post/the/) pandemic."
+2. **Provisioning** ([noun](/post/noun/), [verb](/post/verb/)): [The](/post/the/) [process](/post/process/) [of](/post/of/) preparing [or](/post/or/) supplying [something](/post/something/) [for](/post/for/) [use](/post/use/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [ship](/post/ship/) [or](/post/or/) [aircraft](/post/aircraft/).
+   - [Example](/post/example/): "[The](/post/the/) [crew](/post/crew/) was [busy](/post/busy/) provisioning [the](/post/the/) [ship](/post/ship/) [with](/post/with/) [food](/post/food/) [and](/post/and/) [water](/post/water/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [make](/en/post/make/) provisions: [To](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) [plan](/en/post/plan/) [for](/en/post/for/) [something](/en/post/something/) [in](/en/post/in/) [advance](/en/post/advance/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) made provisions [to](/en/post/to/) [expand](/en/post/expand/) [its](/en/post/its/) operations [next](/en/post/next/) [year](/en/post/year/)."
-2. [To](/en/post/to/) [provide](/en/post/provide/) ([something](/en/post/something/)) [in](/en/post/in/) [advance](/en/post/advance/): Supplying [something](/en/post/something/) [before](/en/post/before/) it's needed.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [school](/en/post/school/) [provided](/en/post/provided/) textbooks [for](/en/post/for/) [the](/en/post/the/) students [in](/en/post/in/) [advance](/en/post/advance/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [make](/post/make/) provisions: [To](/post/to/) [arrange](/post/arrange/) [or](/post/or/) [plan](/post/plan/) [for](/post/for/) [something](/post/something/) [in](/post/in/) [advance](/post/advance/).
+   - [Example](/post/example/): "[The](/post/the/) [company](/post/company/) made provisions [to](/post/to/) [expand](/post/expand/) [its](/post/its/) operations [next](/post/next/) [year](/post/year/)."
+2. [To](/post/to/) [provide](/post/provide/) ([something](/post/something/)) [in](/post/in/) [advance](/post/advance/): Supplying [something](/post/something/) [before](/post/before/) it's needed.
+   - [Example](/post/example/): "[The](/post/the/) [school](/post/school/) [provided](/post/provided/) textbooks [for](/post/for/) [the](/post/the/) students [in](/post/in/) [advance](/post/advance/)."
 
 ## Phrases
-- "[Make](/en/post/make/) provisions [for](/en/post/for/)" implies planning [and](/en/post/and/) anticipating needs.
-- "Provisional arrangements" denote [temporary](/en/post/temporary/) [or](/en/post/or/) [temporary](/en/post/temporary/) solutions.
-- "Understood, we'll [provision](/en/post/provision/) [accordingly](/en/post/accordingly/)" [means](/en/post/means/) agreeing [to](/en/post/to/) fulfill [a](/en/post/a/) [request](/en/post/request/) [or](/en/post/or/) [requirement](/en/post/requirement/).
+- "[Make](/post/make/) provisions [for](/post/for/)" implies planning [and](/post/and/) anticipating needs.
+- "Provisional arrangements" denote [temporary](/post/temporary/) [or](/post/or/) [temporary](/post/temporary/) solutions.
+- "Understood, we'll [provision](/post/provision/) [accordingly](/post/accordingly/)" [means](/post/means/) agreeing [to](/post/to/) fulfill [a](/post/a/) [request](/post/request/) [or](/post/or/) [requirement](/post/requirement/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [building](/en/post/building/) has ample provisions [for](/en/post/for/) disabled [access](/en/post/access/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) made provisions [for](/en/post/for/) [a](/en/post/a/) backup [generator](/en/post/generator/) [in](/en/post/in/) [case](/en/post/case/) [of](/en/post/of/) [power](/en/post/power/) outages."
-- **Provisioning**: "[The](/en/post/the/) expedition [team](/en/post/team/) was provisioning [their](/en/post/their/) campsite [for](/en/post/for/) [the](/en/post/the/) [long](/en/post/long/) [journey](/en/post/journey/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [building](/post/building/) has ample provisions [for](/post/for/) disabled [access](/post/access/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) made provisions [for](/post/for/) [a](/post/a/) backup [generator](/post/generator/) [in](/post/in/) [case](/post/case/) [of](/post/of/) [power](/post/power/) outages."
+- **Provisioning**: "[The](/post/the/) expedition [team](/post/team/) was provisioning [their](/post/their/) campsite [for](/post/for/) [the](/post/the/) [long](/post/long/) [journey](/post/journey/)."
 
 ## Synonyms
 - Allocation
-- [Supply](/en/post/supply/)
-- [Stock](/en/post/stock/)
+- [Supply](/post/supply/)
+- [Stock](/post/stock/)
 - Backup
-- [Reserve](/en/post/reserve/)
-- Allocation [of](/en/post/of/) resources
+- [Reserve](/post/reserve/)
+- Allocation [of](/post/of/) resources
 - Preparations
 - Arrangements
 - Supplying

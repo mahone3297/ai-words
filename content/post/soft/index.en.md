@@ -7,37 +7,37 @@ description = '[sɔft] a.软的；柔和的'
 keywords = ['ai words', 'soft']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsɒft/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Soft](/en/post/soft/)** (adj): Refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is physically [gentle](/en/post/gentle/), [not](/en/post/not/) [hard](/en/post/hard/), [or](/en/post/or/) lacking stiffness. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [pillow](/en/post/pillow/) was [soft](/en/post/soft/) [and](/en/post/and/) [comfortable](/en/post/comfortable/)."
-- **Softness** ([noun](/en/post/noun/)): [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [soft](/en/post/soft/); gentleness. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was touched [by](/en/post/by/) [the](/en/post/the/) softness [of](/en/post/of/) [his](/en/post/his/) [voice](/en/post/voice/)."
+### [Noun](/post/noun/)
+- **[Soft](/post/soft/)** (adj): Refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is physically [gentle](/post/gentle/), [not](/post/not/) [hard](/post/hard/), [or](/post/or/) lacking stiffness. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [pillow](/post/pillow/) was [soft](/post/soft/) [and](/post/and/) [comfortable](/post/comfortable/)."
+- **Softness** ([noun](/post/noun/)): [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [soft](/post/soft/); gentleness. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was touched [by](/post/by/) [the](/post/the/) softness [of](/post/of/) [his](/post/his/) [voice](/post/voice/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) soften** (v): [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [less](/en/post/less/) [firm](/en/post/firm/), [rigid](/en/post/rigid/), [or](/en/post/or/) [harsh](/en/post/harsh/); [to](/en/post/to/) [become](/en/post/become/) [less](/en/post/less/) [severe](/en/post/severe/) [or](/en/post/or/) [intense](/en/post/intense/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [light](/en/post/light/) softened [the](/en/post/the/) [harsh](/en/post/harsh/) shadows [in](/en/post/in/) [the](/en/post/the/) [room](/en/post/room/)."
-- **[To](/en/post/to/) soften [a](/en/post/a/) [surface](/en/post/surface/)** (v): [To](/en/post/to/) [apply](/en/post/apply/) [a](/en/post/a/) [substance](/en/post/substance/) [that](/en/post/that/) makes [a](/en/post/a/) [material](/en/post/material/) [more](/en/post/more/) pliable [or](/en/post/or/) malleable. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) softened [the](/en/post/the/) [leather](/en/post/leather/) [with](/en/post/with/) [a](/en/post/a/) [special](/en/post/special/) [cream](/en/post/cream/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) soften** (v): [To](/post/to/) [make](/post/make/) [something](/post/something/) [less](/post/less/) [firm](/post/firm/), [rigid](/post/rigid/), [or](/post/or/) [harsh](/post/harsh/); [to](/post/to/) [become](/post/become/) [less](/post/less/) [severe](/post/severe/) [or](/post/or/) [intense](/post/intense/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [light](/post/light/) softened [the](/post/the/) [harsh](/post/harsh/) shadows [in](/post/in/) [the](/post/the/) [room](/post/room/)."
+- **[To](/post/to/) soften [a](/post/a/) [surface](/post/surface/)** (v): [To](/post/to/) [apply](/post/apply/) [a](/post/a/) [substance](/post/substance/) [that](/post/that/) makes [a](/post/a/) [material](/post/material/) [more](/post/more/) pliable [or](/post/or/) malleable. [For](/post/for/) [example](/post/example/): "[She](/post/she/) softened [the](/post/the/) [leather](/post/leather/) [with](/post/with/) [a](/post/a/) [special](/post/special/) [cream](/post/cream/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Soft](/en/post/soft/) materials** ([noun](/en/post/noun/) [phrase](/en/post/phrase/)): Referring [to](/en/post/to/) substances [that](/en/post/that/) are [easily](/en/post/easily/) deformed [or](/en/post/or/) [yield](/en/post/yield/) [to](/en/post/to/) [pressure](/en/post/pressure/). [For](/en/post/for/) [example](/en/post/example/): "[Cotton](/en/post/cotton/) is [a](/en/post/a/) [soft](/en/post/soft/) [fabric](/en/post/fabric/)."
+### [Adjective](/post/adjective/)
+- **[Soft](/post/soft/) materials** ([noun](/post/noun/) [phrase](/post/phrase/)): Referring [to](/post/to/) substances [that](/post/that/) are [easily](/post/easily/) deformed [or](/post/or/) [yield](/post/yield/) [to](/post/to/) [pressure](/post/pressure/). [For](/post/for/) [example](/post/example/): "[Cotton](/post/cotton/) is [a](/post/a/) [soft](/post/soft/) [fabric](/post/fabric/)."
 
-### [Adverb](/en/post/adverb/)
-- **[Softly](/en/post/softly/)** (adv): [In](/en/post/in/) [a](/en/post/a/) [gentle](/en/post/gentle/) [or](/en/post/or/) [tender](/en/post/tender/) [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) spoke [softly](/en/post/softly/) [to](/en/post/to/) [comfort](/en/post/comfort/) [the](/en/post/the/) crying [child](/en/post/child/)."
+### [Adverb](/post/adverb/)
+- **[Softly](/post/softly/)** (adv): [In](/post/in/) [a](/post/a/) [gentle](/post/gentle/) [or](/post/or/) [tender](/post/tender/) [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) spoke [softly](/post/softly/) [to](/post/to/) [comfort](/post/comfort/) [the](/post/the/) crying [child](/post/child/)."
 
 ## Phrases
-- "[A](/en/post/a/) [soft](/en/post/soft/) [touch](/en/post/touch/)" describes [someone](/en/post/someone/) [who](/en/post/who/) is [gentle](/en/post/gentle/) [or](/en/post/or/) [considerate](/en/post/considerate/).
-- "[Soft](/en/post/soft/) [landing](/en/post/landing/)" refers [to](/en/post/to/) [a](/en/post/a/) [smooth](/en/post/smooth/) [and](/en/post/and/) [gentle](/en/post/gentle/) descent [or](/en/post/or/) [conclusion](/en/post/conclusion/).
-- "[Soft](/en/post/soft/) [sell](/en/post/sell/)" is [a](/en/post/a/) marketing [strategy](/en/post/strategy/) [that](/en/post/that/) uses persuasion [rather](/en/post/rather/) [than](/en/post/than/) [aggressive](/en/post/aggressive/) tactics.
+- "[A](/post/a/) [soft](/post/soft/) [touch](/post/touch/)" describes [someone](/post/someone/) [who](/post/who/) is [gentle](/post/gentle/) [or](/post/or/) [considerate](/post/considerate/).
+- "[Soft](/post/soft/) [landing](/post/landing/)" refers [to](/post/to/) [a](/post/a/) [smooth](/post/smooth/) [and](/post/and/) [gentle](/post/gentle/) descent [or](/post/or/) [conclusion](/post/conclusion/).
+- "[Soft](/post/soft/) [sell](/post/sell/)" is [a](/post/a/) marketing [strategy](/post/strategy/) [that](/post/that/) uses persuasion [rather](/post/rather/) [than](/post/than/) [aggressive](/post/aggressive/) tactics.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) baby's [skin](/en/post/skin/) was [soft](/en/post/soft/) [to](/en/post/to/) [the](/en/post/the/) [touch](/en/post/touch/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tried [to](/en/post/to/) soften [her](/en/post/her/) husband's [heart](/en/post/heart/) [with](/en/post/with/) [kind](/en/post/kind/) words."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sofa cushions were incredibly [soft](/en/post/soft/) [after](/en/post/after/) years [of](/en/post/of/) [use](/en/post/use/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) baby's [skin](/post/skin/) was [soft](/post/soft/) [to](/post/to/) [the](/post/the/) [touch](/post/touch/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tried [to](/post/to/) soften [her](/post/her/) husband's [heart](/post/heart/) [with](/post/with/) [kind](/post/kind/) words."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sofa cushions were incredibly [soft](/post/soft/) [after](/post/after/) years [of](/post/of/) [use](/post/use/)."
 
 ## Synonyms
-- [Gentle](/en/post/gentle/)
+- [Gentle](/post/gentle/)
 - Plush
-- [Delicate](/en/post/delicate/)
-- [Tender](/en/post/tender/)
+- [Delicate](/post/delicate/)
+- [Tender](/post/tender/)
 - Malleable

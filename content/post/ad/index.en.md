@@ -7,35 +7,35 @@ description = '[æd] n.广告'
 keywords = ['ai words', 'ad']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- An abbreviation [for](/en/post/for/) [the](/en/post/the/) [word](/en/post/word/) "[advertisement](/en/post/advertisement/)," referring [to](/en/post/to/) [a](/en/post/a/) paid announcement promoting [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [newspaper](/en/post/newspaper/) had [several](/en/post/several/) full-page ads [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) smartphone."
+### [Noun](/post/noun/)
+- An abbreviation [for](/post/for/) [the](/post/the/) [word](/post/word/) "[advertisement](/post/advertisement/)," referring [to](/post/to/) [a](/post/a/) paid announcement promoting [a](/post/a/) [product](/post/product/) [or](/post/or/) [service](/post/service/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [newspaper](/post/newspaper/) had [several](/post/several/) full-page ads [for](/post/for/) [the](/post/the/) [new](/post/new/) smartphone."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [promote](/en/post/promote/) [or](/en/post/or/) publicize ([a](/en/post/a/) [product](/en/post/product/), [service](/en/post/service/), [or](/en/post/or/) [event](/en/post/event/)) [through](/en/post/through/) advertising. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) spent millions [on](/en/post/on/) advertising [their](/en/post/their/) [new](/en/post/new/) [line](/en/post/line/) [of](/en/post/of/) eco-friendly products."
-- [To](/en/post/to/) [announce](/en/post/announce/) [or](/en/post/or/) [draw](/en/post/draw/) [attention](/en/post/attention/) [to](/en/post/to/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) [ad](/en/post/ad/) [her](/en/post/her/) [name](/en/post/name/) [before](/en/post/before/) starting [the](/en/post/the/) [class](/en/post/class/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [promote](/post/promote/) [or](/post/or/) publicize ([a](/post/a/) [product](/post/product/), [service](/post/service/), [or](/post/or/) [event](/post/event/)) [through](/post/through/) advertising. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) spent millions [on](/post/on/) advertising [their](/post/their/) [new](/post/new/) [line](/post/line/) [of](/post/of/) eco-friendly products."
+- [To](/post/to/) [announce](/post/announce/) [or](/post/or/) [draw](/post/draw/) [attention](/post/attention/) [to](/post/to/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) [ad](/post/ad/) [her](/post/her/) [name](/post/name/) [before](/post/before/) starting [the](/post/the/) [class](/post/class/)."
 
-### [Adjective](/en/post/adjective/)
-- Relating [to](/en/post/to/) advertising [or](/en/post/or/) promotional activities. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [ad](/en/post/ad/) [campaign](/en/post/campaign/) was [highly](/en/post/highly/) [effective](/en/post/effective/)."
-- [Brief](/en/post/brief/) [or](/en/post/or/) concise. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) gave [a](/en/post/a/) [short](/en/post/short/) [ad](/en/post/ad/) [about](/en/post/about/) [her](/en/post/her/) [project](/en/post/project/)."
+### [Adjective](/post/adjective/)
+- Relating [to](/post/to/) advertising [or](/post/or/) promotional activities. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [ad](/post/ad/) [campaign](/post/campaign/) was [highly](/post/highly/) [effective](/post/effective/)."
+- [Brief](/post/brief/) [or](/post/or/) concise. [For](/post/for/) [example](/post/example/): "[She](/post/she/) gave [a](/post/a/) [short](/post/short/) [ad](/post/ad/) [about](/post/about/) [her](/post/her/) [project](/post/project/)."
 
 ## Phrases
-- "[Run](/en/post/run/) an [ad](/en/post/ad/)" [means](/en/post/means/) [to](/en/post/to/) [place](/en/post/place/) an [advertisement](/en/post/advertisement/).
-- "[Ad](/en/post/ad/) [space](/en/post/space/)" refers [to](/en/post/to/) [the](/en/post/the/) designated [area](/en/post/area/) [in](/en/post/in/) [a](/en/post/a/) [publication](/en/post/publication/) [for](/en/post/for/) advertisements.
-- "[Do](/en/post/do/) [a](/en/post/a/) [commercial](/en/post/commercial/) [ad](/en/post/ad/)" is [to](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [perform](/en/post/perform/) [a](/en/post/a/) [television](/en/post/television/) [or](/en/post/or/) [radio](/en/post/radio/) [advertisement](/en/post/advertisement/).
+- "[Run](/post/run/) an [ad](/post/ad/)" [means](/post/means/) [to](/post/to/) [place](/post/place/) an [advertisement](/post/advertisement/).
+- "[Ad](/post/ad/) [space](/post/space/)" refers [to](/post/to/) [the](/post/the/) designated [area](/post/area/) [in](/post/in/) [a](/post/a/) [publication](/post/publication/) [for](/post/for/) advertisements.
+- "[Do](/post/do/) [a](/post/a/) [commercial](/post/commercial/) [ad](/post/ad/)" is [to](/post/to/) [create](/post/create/) [or](/post/or/) [perform](/post/perform/) [a](/post/a/) [television](/post/television/) [or](/post/or/) [radio](/post/radio/) [advertisement](/post/advertisement/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) placed [a](/en/post/a/) [large](/en/post/large/) [ad](/en/post/ad/) [in](/en/post/in/) [the](/en/post/the/) [local](/en/post/local/) [newspaper](/en/post/newspaper/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [ad](/en/post/ad/) [a](/en/post/a/) [new](/en/post/new/) [product](/en/post/product/) [to](/en/post/to/) [their](/en/post/their/) marketing [strategy](/en/post/strategy/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [ad](/en/post/ad/) [copy](/en/post/copy/) was well-crafted [and](/en/post/and/) eye-catching."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) placed [a](/post/a/) [large](/post/large/) [ad](/post/ad/) [in](/post/in/) [the](/post/the/) [local](/post/local/) [newspaper](/post/newspaper/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) decided [to](/post/to/) [ad](/post/ad/) [a](/post/a/) [new](/post/new/) [product](/post/product/) [to](/post/to/) [their](/post/their/) marketing [strategy](/post/strategy/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [ad](/post/ad/) [copy](/post/copy/) was well-crafted [and](/post/and/) eye-catching."
 
 ## Synonyms
 - Promotion
 - Marketing
-- Advertising [material](/en/post/material/)
+- Advertising [material](/post/material/)
 - Billboard
-- [Spot](/en/post/spot/)
-- Sponsored [content](/en/post/content/)
+- [Spot](/post/spot/)
+- Sponsored [content](/post/content/)

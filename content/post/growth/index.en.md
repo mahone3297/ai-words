@@ -7,38 +7,38 @@ description = '[grəuθ] n.增长；增长量；生长'
 keywords = ['ai words', 'growth']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡrəʊθ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) increasing [in](/en/post/in/) [size](/en/post/size/), [amount](/en/post/amount/), [value](/en/post/value/), [or](/en/post/or/) [degree](/en/post/degree/); [development](/en/post/development/) [or](/en/post/or/) maturation [over](/en/post/over/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) experienced [rapid](/en/post/rapid/) [growth](/en/post/growth/) [in](/en/post/in/) [the](/en/post/the/) [last](/en/post/last/) [quarter](/en/post/quarter/)."
-  - **[Economic](/en/post/economic/) [Growth](/en/post/growth/)**: [The](/en/post/the/) [increase](/en/post/increase/) [in](/en/post/in/) [the](/en/post/the/) [production](/en/post/production/) [of](/en/post/of/) [goods](/en/post/goods/) [and](/en/post/and/) services [by](/en/post/by/) an [economy](/en/post/economy/) [over](/en/post/over/) [a](/en/post/a/) [specific](/en/post/specific/) [period](/en/post/period/).
-  - **[Personal](/en/post/personal/) [Growth](/en/post/growth/)**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) self-improvement [through](/en/post/through/) [learning](/en/post/learning/), developing [new](/en/post/new/) skills, [and](/en/post/and/) enhancing [emotional](/en/post/emotional/) [intelligence](/en/post/intelligence/).
-- **[Verb](/en/post/verb/) ([used](/en/post/used/) [without](/en/post/without/) [object](/en/post/object/))**: [To](/en/post/to/) [grow](/en/post/grow/) [or](/en/post/or/) [develop](/en/post/develop/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) child's [vocabulary](/en/post/vocabulary/) is growing [rapidly](/en/post/rapidly/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [process](/post/process/) [of](/post/of/) increasing [in](/post/in/) [size](/post/size/), [amount](/post/amount/), [value](/post/value/), [or](/post/or/) [degree](/post/degree/); [development](/post/development/) [or](/post/or/) maturation [over](/post/over/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) experienced [rapid](/post/rapid/) [growth](/post/growth/) [in](/post/in/) [the](/post/the/) [last](/post/last/) [quarter](/post/quarter/)."
+  - **[Economic](/post/economic/) [Growth](/post/growth/)**: [The](/post/the/) [increase](/post/increase/) [in](/post/in/) [the](/post/the/) [production](/post/production/) [of](/post/of/) [goods](/post/goods/) [and](/post/and/) services [by](/post/by/) an [economy](/post/economy/) [over](/post/over/) [a](/post/a/) [specific](/post/specific/) [period](/post/period/).
+  - **[Personal](/post/personal/) [Growth](/post/growth/)**: [The](/post/the/) [process](/post/process/) [of](/post/of/) self-improvement [through](/post/through/) [learning](/post/learning/), developing [new](/post/new/) skills, [and](/post/and/) enhancing [emotional](/post/emotional/) [intelligence](/post/intelligence/).
+- **[Verb](/post/verb/) ([used](/post/used/) [without](/post/without/) [object](/post/object/))**: [To](/post/to/) [grow](/post/grow/) [or](/post/or/) [develop](/post/develop/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) child's [vocabulary](/post/vocabulary/) is growing [rapidly](/post/rapidly/)."
 
 ## Phrases
-- "[Growth](/en/post/growth/) [rate](/en/post/rate/)": [The](/en/post/the/) [percentage](/en/post/percentage/) [change](/en/post/change/) [in](/en/post/in/) [a](/en/post/a/) [variable](/en/post/variable/) [over](/en/post/over/) [a](/en/post/a/) [specific](/en/post/specific/) [period](/en/post/period/).
-- "Sustainable [growth](/en/post/growth/)": [Economic](/en/post/economic/) [or](/en/post/or/) [business](/en/post/business/) [expansion](/en/post/expansion/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) maintained [without](/en/post/without/) depleting resources [or](/en/post/or/) causing [severe](/en/post/severe/) environmental [damage](/en/post/damage/).
-- "[Organic](/en/post/organic/) [growth](/en/post/growth/)": [Expansion](/en/post/expansion/) achieved internally [through](/en/post/through/) increased [efficiency](/en/post/efficiency/) [or](/en/post/or/) sales [rather](/en/post/rather/) [than](/en/post/than/) [through](/en/post/through/) mergers [or](/en/post/or/) acquisitions.
+- "[Growth](/post/growth/) [rate](/post/rate/)": [The](/post/the/) [percentage](/post/percentage/) [change](/post/change/) [in](/post/in/) [a](/post/a/) [variable](/post/variable/) [over](/post/over/) [a](/post/a/) [specific](/post/specific/) [period](/post/period/).
+- "Sustainable [growth](/post/growth/)": [Economic](/post/economic/) [or](/post/or/) [business](/post/business/) [expansion](/post/expansion/) [that](/post/that/) [can](/post/can/) [be](/post/be/) maintained [without](/post/without/) depleting resources [or](/post/or/) causing [severe](/post/severe/) environmental [damage](/post/damage/).
+- "[Organic](/post/organic/) [growth](/post/growth/)": [Expansion](/post/expansion/) achieved internally [through](/post/through/) increased [efficiency](/post/efficiency/) [or](/post/or/) sales [rather](/post/rather/) [than](/post/than/) [through](/post/through/) mergers [or](/post/or/) acquisitions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [city](/en/post/city/) has seen [significant](/en/post/significant/) [population](/en/post/population/) [growth](/en/post/growth/) [since](/en/post/since/) [the](/en/post/the/) [new](/en/post/new/) industries moved [in](/en/post/in/)."
-- **[Verb](/en/post/verb/)**: "[This](/en/post/this/) startup aims [to](/en/post/to/) [grow](/en/post/grow/) [its](/en/post/its/) [customer](/en/post/customer/) [base](/en/post/base/) [within](/en/post/within/) [the](/en/post/the/) [next](/en/post/next/) [year](/en/post/year/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [city](/post/city/) has seen [significant](/post/significant/) [population](/post/population/) [growth](/post/growth/) [since](/post/since/) [the](/post/the/) [new](/post/new/) industries moved [in](/post/in/)."
+- **[Verb](/post/verb/)**: "[This](/post/this/) startup aims [to](/post/to/) [grow](/post/grow/) [its](/post/its/) [customer](/post/customer/) [base](/post/base/) [within](/post/within/) [the](/post/the/) [next](/post/next/) [year](/post/year/)."
 
 ## Synonyms
-- [Development](/en/post/development/)
-- [Expansion](/en/post/expansion/)
-- [Increase](/en/post/increase/)
-- [Progress](/en/post/progress/)
+- [Development](/post/development/)
+- [Expansion](/post/expansion/)
+- [Increase](/post/increase/)
+- [Progress](/post/progress/)
 - Advancement
-- [Evolution](/en/post/evolution/)
+- [Evolution](/post/evolution/)
 - Maturation
 - Thriving
 - Blossoming
 
 ## Antonyms
 - Decline
-- [Decrease](/en/post/decrease/)
+- [Decrease](/post/decrease/)
 - Contraction
 - Regression
 - Shrinkage

@@ -7,39 +7,39 @@ description = '[stəun] n.石，石头；宝石'
 keywords = ['ai words', 'stone']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stəʊn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [solid](/en/post/solid/) [mineral](/en/post/mineral/) [or](/en/post/or/) aggregate [of](/en/post/of/) minerals, typically consisting [of](/en/post/of/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) [chemical](/en/post/chemical/) compounds.** Examples: [A](/en/post/a/) granite [stone](/en/post/stone/), [a](/en/post/a/) sedimentary [stone](/en/post/stone/).
-- **[A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [solid](/en/post/solid/) [matter](/en/post/matter/), [often](/en/post/often/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [building](/en/post/building/) [material](/en/post/material/) [or](/en/post/or/) [for](/en/post/for/) decorative purposes.** [Example](/en/post/example/): [A](/en/post/a/) [marble](/en/post/marble/) [statue](/en/post/statue/) made [from](/en/post/from/) [a](/en/post/a/) [single](/en/post/single/) [stone](/en/post/stone/).
-- **An [object](/en/post/object/) thrown [or](/en/post/or/) [used](/en/post/used/) [in](/en/post/in/) games [like](/en/post/like/) bowling [or](/en/post/or/) dodgeball.** [Example](/en/post/example/): Throwing [a](/en/post/a/) [stone](/en/post/stone/) [across](/en/post/across/) [the](/en/post/the/) [river](/en/post/river/).
+### [Noun](/post/noun/)
+- **[A](/post/a/) [type](/post/type/) [of](/post/of/) [solid](/post/solid/) [mineral](/post/mineral/) [or](/post/or/) aggregate [of](/post/of/) minerals, typically consisting [of](/post/of/) [one](/post/one/) [or](/post/or/) [more](/post/more/) [chemical](/post/chemical/) compounds.** Examples: [A](/post/a/) granite [stone](/post/stone/), [a](/post/a/) sedimentary [stone](/post/stone/).
+- **[A](/post/a/) [piece](/post/piece/) [of](/post/of/) [solid](/post/solid/) [matter](/post/matter/), [often](/post/often/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [building](/post/building/) [material](/post/material/) [or](/post/or/) [for](/post/for/) decorative purposes.** [Example](/post/example/): [A](/post/a/) [marble](/post/marble/) [statue](/post/statue/) made [from](/post/from/) [a](/post/a/) [single](/post/single/) [stone](/post/stone/).
+- **An [object](/post/object/) thrown [or](/post/or/) [used](/post/used/) [in](/post/in/) games [like](/post/like/) bowling [or](/post/or/) dodgeball.** [Example](/post/example/): Throwing [a](/post/a/) [stone](/post/stone/) [across](/post/across/) [the](/post/the/) [river](/post/river/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [throw](/en/post/throw/) [or](/en/post/or/) [place](/en/post/place/) [a](/en/post/a/) [stone](/en/post/stone/), typically [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [game](/en/post/game/) [or](/en/post/or/) [action](/en/post/action/).** [Example](/en/post/example/): [The](/en/post/the/) children were playing [a](/en/post/a/) [game](/en/post/game/) [of](/en/post/of/) stone-skipping.
-- **[To](/en/post/to/) [mark](/en/post/mark/) [or](/en/post/or/) engrave [with](/en/post/with/) [a](/en/post/a/) [stone](/en/post/stone/) [tool](/en/post/tool/), [as](/en/post/as/) [in](/en/post/in/) [ancient](/en/post/ancient/) times.** [Example](/en/post/example/): [The](/en/post/the/) [ancient](/en/post/ancient/) [people](/en/post/people/) carved [their](/en/post/their/) symbols [into](/en/post/into/) [stone](/en/post/stone/) tablets.
+### [Verb](/post/verb/)
+- **[To](/post/to/) [throw](/post/throw/) [or](/post/or/) [place](/post/place/) [a](/post/a/) [stone](/post/stone/), typically [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [game](/post/game/) [or](/post/or/) [action](/post/action/).** [Example](/post/example/): [The](/post/the/) children were playing [a](/post/a/) [game](/post/game/) [of](/post/of/) stone-skipping.
+- **[To](/post/to/) [mark](/post/mark/) [or](/post/or/) engrave [with](/post/with/) [a](/post/a/) [stone](/post/stone/) [tool](/post/tool/), [as](/post/as/) [in](/post/in/) [ancient](/post/ancient/) times.** [Example](/post/example/): [The](/post/the/) [ancient](/post/ancient/) [people](/post/people/) carved [their](/post/their/) symbols [into](/post/into/) [stone](/post/stone/) tablets.
 
-### [Adjective](/en/post/adjective/)
-- **[Hard](/en/post/hard/) [and](/en/post/and/) [durable](/en/post/durable/), typically forming [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) Earth's [crust](/en/post/crust/).** [Example](/en/post/example/): [A](/en/post/a/) [stone](/en/post/stone/) [floor](/en/post/floor/) [that](/en/post/that/) has stood [the](/en/post/the/) [test](/en/post/test/) [of](/en/post/of/) [time](/en/post/time/).
-- **Immovable [or](/en/post/or/) unyielding.** [Example](/en/post/example/): [A](/en/post/a/) [stone](/en/post/stone/) [heart](/en/post/heart/), [meaning](/en/post/meaning/) [someone](/en/post/someone/) is [very](/en/post/very/) stubborn.
+### [Adjective](/post/adjective/)
+- **[Hard](/post/hard/) [and](/post/and/) [durable](/post/durable/), typically forming [part](/post/part/) [of](/post/of/) [the](/post/the/) Earth's [crust](/post/crust/).** [Example](/post/example/): [A](/post/a/) [stone](/post/stone/) [floor](/post/floor/) [that](/post/that/) has stood [the](/post/the/) [test](/post/test/) [of](/post/of/) [time](/post/time/).
+- **Immovable [or](/post/or/) unyielding.** [Example](/post/example/): [A](/post/a/) [stone](/post/stone/) [heart](/post/heart/), [meaning](/post/meaning/) [someone](/post/someone/) is [very](/post/very/) stubborn.
 
 ## Phrases
-- "[Carve](/en/post/carve/) [your](/en/post/your/) [name](/en/post/name/) [in](/en/post/in/) [stone](/en/post/stone/)" implies [something](/en/post/something/) is [permanent](/en/post/permanent/) [or](/en/post/or/) enduring.
-- "[As](/en/post/as/) [solid](/en/post/solid/) [as](/en/post/as/) [a](/en/post/a/) [rock](/en/post/rock/)" refers [to](/en/post/to/) [something](/en/post/something/) [being](/en/post/being/) [very](/en/post/very/) [strong](/en/post/strong/) [and](/en/post/and/) [reliable](/en/post/reliable/).
-- "[A](/en/post/a/) [pebble](/en/post/pebble/) [in](/en/post/in/) [the](/en/post/the/) [shoe](/en/post/shoe/)" is [a](/en/post/a/) [figure](/en/post/figure/) [of](/en/post/of/) [speech](/en/post/speech/) [for](/en/post/for/) [a](/en/post/a/) [small](/en/post/small/) annoyance.
+- "[Carve](/post/carve/) [your](/post/your/) [name](/post/name/) [in](/post/in/) [stone](/post/stone/)" implies [something](/post/something/) is [permanent](/post/permanent/) [or](/post/or/) enduring.
+- "[As](/post/as/) [solid](/post/solid/) [as](/post/as/) [a](/post/a/) [rock](/post/rock/)" refers [to](/post/to/) [something](/post/something/) [being](/post/being/) [very](/post/very/) [strong](/post/strong/) [and](/post/and/) [reliable](/post/reliable/).
+- "[A](/post/a/) [pebble](/post/pebble/) [in](/post/in/) [the](/post/the/) [shoe](/post/shoe/)" is [a](/post/a/) [figure](/post/figure/) [of](/post/of/) [speech](/post/speech/) [for](/post/for/) [a](/post/a/) [small](/post/small/) annoyance.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [stone](/en/post/stone/) [bridge](/en/post/bridge/) [over](/en/post/over/) [the](/en/post/the/) [river](/en/post/river/) dates [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) 19th [century](/en/post/century/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) chiseled [his](/en/post/his/) initials [into](/en/post/into/) [the](/en/post/the/) [stone](/en/post/stone/) [wall](/en/post/wall/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [determination](/en/post/determination/) was [as](/en/post/as/) [steady](/en/post/steady/) [as](/en/post/as/) [a](/en/post/a/) [stone](/en/post/stone/) [during](/en/post/during/) [the](/en/post/the/) marathon."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [stone](/post/stone/) [bridge](/post/bridge/) [over](/post/over/) [the](/post/the/) [river](/post/river/) dates [back](/post/back/) [to](/post/to/) [the](/post/the/) 19th [century](/post/century/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) chiseled [his](/post/his/) initials [into](/post/into/) [the](/post/the/) [stone](/post/stone/) [wall](/post/wall/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [determination](/post/determination/) was [as](/post/as/) [steady](/post/steady/) [as](/post/as/) [a](/post/a/) [stone](/post/stone/) [during](/post/during/) [the](/post/the/) marathon."
 
 ## Synonyms
-- [Rock](/en/post/rock/)
+- [Rock](/post/rock/)
 - Boulder
 - Limestone
 - Slate
-- [Pebble](/en/post/pebble/)
+- [Pebble](/post/pebble/)
 - Granite
 - Flint
--燧石 ([in](/en/post/in/) [some](/en/post/some/) contexts)
+-燧石 ([in](/post/in/) [some](/post/some/) contexts)

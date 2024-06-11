@@ -7,43 +7,43 @@ description = '[wɔ∫] vt.洗；冲出 vi.洗涤'
 keywords = ['ai words', 'wash']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɒʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Wash](/en/post/wash/)**: [A](/en/post/a/) cleaning [process](/en/post/process/) using [water](/en/post/water/) [and](/en/post/and/) [soap](/en/post/soap/) [or](/en/post/or/) detergent [to](/en/post/to/) [remove](/en/post/remove/) [dirt](/en/post/dirt/), stains, [or](/en/post/or/) [sweat](/en/post/sweat/) [from](/en/post/from/) [clothes](/en/post/clothes/), dishes, [or](/en/post/or/) surfaces. [For](/en/post/for/) [example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [do](/en/post/do/) [a](/en/post/a/) [load](/en/post/load/) [of](/en/post/of/) [laundry](/en/post/laundry/) [this](/en/post/this/) [weekend](/en/post/weekend/)."
-- **Washing [machine](/en/post/machine/)**: [A](/en/post/a/) [household](/en/post/household/) [appliance](/en/post/appliance/) [used](/en/post/used/) [for](/en/post/for/) washing [clothes](/en/post/clothes/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) washing [machine](/en/post/machine/) was humming loudly [as](/en/post/as/) [she](/en/post/she/) loaded [it](/en/post/it/) [with](/en/post/with/) [clothes](/en/post/clothes/)."
-- **Washbasin**: [A](/en/post/a/) [sink](/en/post/sink/) typically [used](/en/post/used/) [for](/en/post/for/) washing hands [or](/en/post/or/) [small](/en/post/small/) items. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) washed [her](/en/post/her/) [face](/en/post/face/) [at](/en/post/at/) [the](/en/post/the/) hotel's washbasin [before](/en/post/before/) going [to](/en/post/to/) [bed](/en/post/bed/)."
+### [Noun](/post/noun/)
+- **[Wash](/post/wash/)**: [A](/post/a/) cleaning [process](/post/process/) using [water](/post/water/) [and](/post/and/) [soap](/post/soap/) [or](/post/or/) detergent [to](/post/to/) [remove](/post/remove/) [dirt](/post/dirt/), stains, [or](/post/or/) [sweat](/post/sweat/) [from](/post/from/) [clothes](/post/clothes/), dishes, [or](/post/or/) surfaces. [For](/post/for/) [example](/post/example/): "I [need](/post/need/) [to](/post/to/) [do](/post/do/) [a](/post/a/) [load](/post/load/) [of](/post/of/) [laundry](/post/laundry/) [this](/post/this/) [weekend](/post/weekend/)."
+- **Washing [machine](/post/machine/)**: [A](/post/a/) [household](/post/household/) [appliance](/post/appliance/) [used](/post/used/) [for](/post/for/) washing [clothes](/post/clothes/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) washing [machine](/post/machine/) was humming loudly [as](/post/as/) [she](/post/she/) loaded [it](/post/it/) [with](/post/with/) [clothes](/post/clothes/)."
+- **Washbasin**: [A](/post/a/) [sink](/post/sink/) typically [used](/post/used/) [for](/post/for/) washing hands [or](/post/or/) [small](/post/small/) items. [For](/post/for/) [example](/post/example/): "[She](/post/she/) washed [her](/post/her/) [face](/post/face/) [at](/post/at/) [the](/post/the/) hotel's washbasin [before](/post/before/) going [to](/post/to/) [bed](/post/bed/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [wash](/en/post/wash/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) cleaning [with](/en/post/with/) [water](/en/post/water/) [and](/en/post/and/) [soap](/en/post/soap/) [or](/en/post/or/) detergent. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) meticulously washed [the](/en/post/the/) [car](/en/post/car/) [to](/en/post/to/) [remove](/en/post/remove/) [the](/en/post/the/) grime."
-- **[Hand](/en/post/hand/) [wash](/en/post/wash/)**: Cleaning [by](/en/post/by/) [hand](/en/post/hand/), [often](/en/post/often/) [without](/en/post/without/) [a](/en/post/a/) [machine](/en/post/machine/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) decided [to](/en/post/to/) [hand](/en/post/hand/) [wash](/en/post/wash/) [his](/en/post/his/) [delicate](/en/post/delicate/) fabrics [to](/en/post/to/) [preserve](/en/post/preserve/) [them](/en/post/them/)."
-- **[Machine](/en/post/machine/) [wash](/en/post/wash/)**: Using [a](/en/post/a/) washing [machine](/en/post/machine/). [For](/en/post/for/) [example](/en/post/example/): "I'll [machine](/en/post/machine/) [wash](/en/post/wash/) [these](/en/post/these/) towels [since](/en/post/since/) they're [heavily](/en/post/heavily/) soiled."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [wash](/post/wash/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) cleaning [with](/post/with/) [water](/post/water/) [and](/post/and/) [soap](/post/soap/) [or](/post/or/) detergent. [For](/post/for/) [example](/post/example/): "[She](/post/she/) meticulously washed [the](/post/the/) [car](/post/car/) [to](/post/to/) [remove](/post/remove/) [the](/post/the/) grime."
+- **[Hand](/post/hand/) [wash](/post/wash/)**: Cleaning [by](/post/by/) [hand](/post/hand/), [often](/post/often/) [without](/post/without/) [a](/post/a/) [machine](/post/machine/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) decided [to](/post/to/) [hand](/post/hand/) [wash](/post/wash/) [his](/post/his/) [delicate](/post/delicate/) fabrics [to](/post/to/) [preserve](/post/preserve/) [them](/post/them/)."
+- **[Machine](/post/machine/) [wash](/post/wash/)**: Using [a](/post/a/) washing [machine](/post/machine/). [For](/post/for/) [example](/post/example/): "I'll [machine](/post/machine/) [wash](/post/wash/) [these](/post/these/) towels [since](/post/since/) they're [heavily](/post/heavily/) soiled."
 
-### [Adjective](/en/post/adjective/)
-- **Washed**: [Clean](/en/post/clean/) [or](/en/post/or/) having undergone [the](/en/post/the/) washing [process](/en/post/process/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) freshly washed sheets smelled [of](/en/post/of/) lavender."
-- **Washable**: [Capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) washed. [For](/en/post/for/) [example](/en/post/example/): "[These](/en/post/these/) curtains are machine-washable, [which](/en/post/which/) is [convenient](/en/post/convenient/)."
+### [Adjective](/post/adjective/)
+- **Washed**: [Clean](/post/clean/) [or](/post/or/) having undergone [the](/post/the/) washing [process](/post/process/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) freshly washed sheets smelled [of](/post/of/) lavender."
+- **Washable**: [Capable](/post/capable/) [of](/post/of/) [being](/post/being/) washed. [For](/post/for/) [example](/post/example/): "[These](/post/these/) curtains are machine-washable, [which](/post/which/) is [convenient](/post/convenient/)."
 
-### [Adverb](/en/post/adverb/)
-- **Washed [clean](/en/post/clean/)**: [Completely](/en/post/completely/) cleaned. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [rain](/en/post/rain/) washed [the](/en/post/the/) streets [clean](/en/post/clean/) [after](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/)."
+### [Adverb](/post/adverb/)
+- **Washed [clean](/post/clean/)**: [Completely](/post/completely/) cleaned. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [rain](/post/rain/) washed [the](/post/the/) streets [clean](/post/clean/) [after](/post/after/) [the](/post/the/) [storm](/post/storm/)."
 
 ## Phrases
-- "[Give](/en/post/give/) [something](/en/post/something/) [a](/en/post/a/) [wash](/en/post/wash/)" [means](/en/post/means/) [to](/en/post/to/) [clean](/en/post/clean/) [it](/en/post/it/).
-- "[Wash](/en/post/wash/) [up](/en/post/up/)" is [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) cleaning one's hands [or](/en/post/or/) [face](/en/post/face/).
-- "[Wash](/en/post/wash/) [out](/en/post/out/)" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [fade](/en/post/fade/) [or](/en/post/or/) [lose](/en/post/lose/) [color](/en/post/color/), [or](/en/post/or/) [to](/en/post/to/) [no](/en/post/no/) longer [be](/en/post/be/) [effective](/en/post/effective/).
+- "[Give](/post/give/) [something](/post/something/) [a](/post/a/) [wash](/post/wash/)" [means](/post/means/) [to](/post/to/) [clean](/post/clean/) [it](/post/it/).
+- "[Wash](/post/wash/) [up](/post/up/)" is [a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) cleaning one's hands [or](/post/or/) [face](/post/face/).
+- "[Wash](/post/wash/) [out](/post/out/)" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [fade](/post/fade/) [or](/post/or/) [lose](/post/lose/) [color](/post/color/), [or](/post/or/) [to](/post/to/) [no](/post/no/) longer [be](/post/be/) [effective](/post/effective/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) did [several](/en/post/several/) loads [of](/en/post/of/) [wash](/en/post/wash/) [over](/en/post/over/) [the](/en/post/the/) [weekend](/en/post/weekend/) [to](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) [spring](/en/post/spring/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) carefully washed [the](/en/post/the/) [mud](/en/post/mud/) [off](/en/post/off/) [his](/en/post/his/) boots [before](/en/post/before/) entering [the](/en/post/the/) [house](/en/post/house/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [newly](/en/post/newly/) washed [hair](/en/post/hair/) shone [under](/en/post/under/) [the](/en/post/the/) [sun](/en/post/sun/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [paint](/en/post/paint/) [on](/en/post/on/) [the](/en/post/the/) [wall](/en/post/wall/) had washed [out](/en/post/out/) [after](/en/post/after/) years [of](/en/post/of/) [exposure](/en/post/exposure/) [to](/en/post/to/) [sunlight](/en/post/sunlight/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) did [several](/post/several/) loads [of](/post/of/) [wash](/post/wash/) [over](/post/over/) [the](/post/the/) [weekend](/post/weekend/) [to](/post/to/) [prepare](/post/prepare/) [for](/post/for/) [spring](/post/spring/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) carefully washed [the](/post/the/) [mud](/post/mud/) [off](/post/off/) [his](/post/his/) boots [before](/post/before/) entering [the](/post/the/) [house](/post/house/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [newly](/post/newly/) washed [hair](/post/hair/) shone [under](/post/under/) [the](/post/the/) [sun](/post/sun/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [paint](/post/paint/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/) had washed [out](/post/out/) [after](/post/after/) years [of](/post/of/) [exposure](/post/exposure/) [to](/post/to/) [sunlight](/post/sunlight/)."
 
 ## Synonyms
-- [Clean](/en/post/clean/)
+- [Clean](/post/clean/)
 - Sanitize
 - Rinse
 - Scrub
-- [Soak](/en/post/soak/)
-- Detangle ([for](/en/post/for/) [hair](/en/post/hair/))
-- Deluge (informal, [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) [water](/en/post/water/))
+- [Soak](/post/soak/)
+- Detangle ([for](/post/for/) [hair](/post/hair/))
+- Deluge (informal, [large](/post/large/) [amount](/post/amount/) [of](/post/of/) [water](/post/water/))

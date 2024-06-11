@@ -11,20 +11,20 @@ keywords = ['ai words', 'gloomy']
 /ˈɡlum.i/
 
 ## 释义
-- **形容词**: 昏暗的；阴沉的；忧郁的；沮丧的。例如: "[The](/post/the/) [gloomy](/post/gloomy/) [weather](/post/weather/) made [me](/post/me/) [feel](/post/feel/) depressed."
-- **名词**: 忧郁的气氛；压抑的环境。例如: "[The](/post/the/) [room](/post/room/) had [a](/post/a/) [gloomy](/post/gloomy/) [atmosphere](/post/atmosphere/)."
+- **形容词**: 昏暗的；阴沉的；忧郁的；沮丧的。例如: "[The](/zh/post/the/) [gloomy](/zh/post/gloomy/) [weather](/zh/post/weather/) made [me](/zh/post/me/) [feel](/zh/post/feel/) depressed."
+- **名词**: 忧郁的气氛；压抑的环境。例如: "[The](/zh/post/the/) [room](/zh/post/room/) had [a](/zh/post/a/) [gloomy](/zh/post/gloomy/) [atmosphere](/zh/post/atmosphere/)."
 
 ## 短语
-- "[gloomy](/post/gloomy/) [outlook](/post/outlook/)" 指悲观的前景或预测。
-- "[in](/post/in/) [a](/post/a/) [gloomy](/post/gloomy/) [mood](/post/mood/)" 表示情绪低落的状态。
+- "[gloomy](/zh/post/gloomy/) [outlook](/zh/post/outlook/)" 指悲观的前景或预测。
+- "[in](/zh/post/in/) [a](/zh/post/a/) [gloomy](/zh/post/gloomy/) [mood](/zh/post/mood/)" 表示情绪低落的状态。
 
 ## 例句
-- 形容词: "[The](/post/the/) [gloomy](/post/gloomy/) [sky](/post/sky/) suggested [it](/post/it/) was going [to](/post/to/) [rain](/post/rain/) [soon](/post/soon/)."
-- 名词: "[She](/post/she/) couldn't [shake](/post/shake/) [off](/post/off/) [the](/post/the/) [gloomy](/post/gloomy/) [feeling](/post/feeling/) [that](/post/that/) had settled [over](/post/over/) [her](/post/her/)."
+- 形容词: "[The](/zh/post/the/) [gloomy](/zh/post/gloomy/) [sky](/zh/post/sky/) suggested [it](/zh/post/it/) was going [to](/zh/post/to/) [rain](/zh/post/rain/) [soon](/zh/post/soon/)."
+- 名词: "[She](/zh/post/she/) couldn't [shake](/zh/post/shake/) [off](/zh/post/off/) [the](/zh/post/the/) [gloomy](/zh/post/gloomy/) [feeling](/zh/post/feeling/) [that](/zh/post/that/) had settled [over](/zh/post/over/) [her](/zh/post/her/)."
 
 ## 同义词
 - bleak
-- [dark](/post/dark/)
+- [dark](/zh/post/dark/)
 - depressing
 - somber
-- [pessimistic](/post/pessimistic/)
+- [pessimistic](/zh/post/pessimistic/)

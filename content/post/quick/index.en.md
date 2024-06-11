@@ -7,41 +7,41 @@ description = '[kwik] a.快的；敏捷的'
 keywords = ['ai words', 'quick']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkwɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Quick](/en/post/quick/)** (adj): Relating [to](/en/post/to/) [speed](/en/post/speed/), rapidity, [or](/en/post/or/) swiftness. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [quick](/en/post/quick/) [fox](/en/post/fox/) jumps [over](/en/post/over/) [the](/en/post/the/) [lazy](/en/post/lazy/) [dog](/en/post/dog/)."
-- **Quickness** (n): [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [quick](/en/post/quick/); agility. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) demonstrated [remarkable](/en/post/remarkable/) quickness [on](/en/post/on/) [the](/en/post/the/) [basketball](/en/post/basketball/) [court](/en/post/court/)."
+### [Noun](/post/noun/)
+- **[Quick](/post/quick/)** (adj): Relating [to](/post/to/) [speed](/post/speed/), rapidity, [or](/post/or/) swiftness. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [quick](/post/quick/) [fox](/post/fox/) jumps [over](/post/over/) [the](/post/the/) [lazy](/post/lazy/) [dog](/post/dog/)."
+- **Quickness** (n): [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [quick](/post/quick/); agility. [For](/post/for/) [example](/post/example/): "[She](/post/she/) demonstrated [remarkable](/post/remarkable/) quickness [on](/post/on/) [the](/post/the/) [basketball](/post/basketball/) [court](/post/court/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [act](/en/post/act/) [or](/en/post/or/) [move](/en/post/move/) [quickly](/en/post/quickly/); [to](/en/post/to/) [react](/en/post/react/) promptly. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [quickly](/en/post/quickly/) closed [the](/en/post/the/) [door](/en/post/door/) [before](/en/post/before/) [anyone](/en/post/anyone/) [could](/en/post/could/) [enter](/en/post/enter/)."
-- [To](/en/post/to/) [solve](/en/post/solve/) [or](/en/post/or/) [understand](/en/post/understand/) [something](/en/post/something/) [rapidly](/en/post/rapidly/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [able](/en/post/able/) [to](/en/post/to/) [answer](/en/post/answer/) [the](/en/post/the/) math [problem](/en/post/problem/) [quickly](/en/post/quickly/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [act](/post/act/) [or](/post/or/) [move](/post/move/) [quickly](/post/quickly/); [to](/post/to/) [react](/post/react/) promptly. [For](/post/for/) [example](/post/example/): "[He](/post/he/) [quickly](/post/quickly/) closed [the](/post/the/) [door](/post/door/) [before](/post/before/) [anyone](/post/anyone/) [could](/post/could/) [enter](/post/enter/)."
+- [To](/post/to/) [solve](/post/solve/) [or](/post/or/) [understand](/post/understand/) [something](/post/something/) [rapidly](/post/rapidly/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [able](/post/able/) [to](/post/to/) [answer](/post/answer/) [the](/post/the/) math [problem](/post/problem/) [quickly](/post/quickly/)."
 
-### [Adverb](/en/post/adverb/)
-- Describing [action](/en/post/action/) [with](/en/post/with/) [speed](/en/post/speed/) [or](/en/post/or/) agility. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) ran [quickly](/en/post/quickly/) [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [bus](/en/post/bus/)."
+### [Adverb](/post/adverb/)
+- Describing [action](/post/action/) [with](/post/with/) [speed](/post/speed/) [or](/post/or/) agility. [For](/post/for/) [example](/post/example/): "[He](/post/he/) ran [quickly](/post/quickly/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [bus](/post/bus/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [quick](/en/post/quick/) [about](/en/post/about/) [it](/en/post/it/)" urges [someone](/en/post/someone/) [to](/en/post/to/) [act](/en/post/act/) promptly.
-- "[Quick](/en/post/quick/) thinking" refers [to](/en/post/to/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [make](/en/post/make/) decisions [rapidly](/en/post/rapidly/).
-- "[Take](/en/post/take/) [your](/en/post/your/) [time](/en/post/time/), don't [be](/en/post/be/) [hasty](/en/post/hasty/)" contrasts [with](/en/post/with/) [being](/en/post/being/) [quick](/en/post/quick/).
+- "[Be](/post/be/) [quick](/post/quick/) [about](/post/about/) [it](/post/it/)" urges [someone](/post/someone/) [to](/post/to/) [act](/post/act/) promptly.
+- "[Quick](/post/quick/) thinking" refers [to](/post/to/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [make](/post/make/) decisions [rapidly](/post/rapidly/).
+- "[Take](/post/take/) [your](/post/your/) [time](/post/time/), don't [be](/post/be/) [hasty](/post/hasty/)" contrasts [with](/post/with/) [being](/post/being/) [quick](/post/quick/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) recipe calls [for](/en/post/for/) [a](/en/post/a/) [quick](/en/post/quick/) whisking [of](/en/post/of/) [the](/en/post/the/) ingredients."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [quickly](/en/post/quickly/) composed [a](/en/post/a/) [response](/en/post/response/) [to](/en/post/to/) [the](/en/post/the/) email."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) [quickly](/en/post/quickly/) scanned [the](/en/post/the/) [text](/en/post/text/) [before](/en/post/before/) presenting [her](/en/post/her/) findings."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) recipe calls [for](/post/for/) [a](/post/a/) [quick](/post/quick/) whisking [of](/post/of/) [the](/post/the/) ingredients."
+- **[Verb](/post/verb/)**: "[He](/post/he/) [quickly](/post/quickly/) composed [a](/post/a/) [response](/post/response/) [to](/post/to/) [the](/post/the/) email."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) [quickly](/post/quickly/) scanned [the](/post/the/) [text](/post/text/) [before](/post/before/) presenting [her](/post/her/) findings."
 
 ## Synonyms
-- [Fast](/en/post/fast/)
-- [Rapid](/en/post/rapid/)
-- [Swift](/en/post/swift/)
-- [Prompt](/en/post/prompt/)
-- [Hasty](/en/post/hasty/)
-- [Immediate](/en/post/immediate/)
+- [Fast](/post/fast/)
+- [Rapid](/post/rapid/)
+- [Swift](/post/swift/)
+- [Prompt](/post/prompt/)
+- [Hasty](/post/hasty/)
+- [Immediate](/post/immediate/)
 
 ## Antonyms
-- [Slow](/en/post/slow/)
+- [Slow](/post/slow/)
 - Leisurely
 - Deliberate
 - Unhurried

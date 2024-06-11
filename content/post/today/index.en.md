@@ -7,28 +7,28 @@ description = '[təˈdei] ad.在今天；现在'
 keywords = ['ai words', 'today']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /təˈdeɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [specific](/en/post/specific/) [day](/en/post/day/) [in](/en/post/in/) [the](/en/post/the/) [current](/en/post/current/) [week](/en/post/week/) [or](/en/post/or/) [month](/en/post/month/), [usually](/en/post/usually/) referring [to](/en/post/to/) [the](/en/post/the/) [present](/en/post/present/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[Today](/en/post/today/) is [a](/en/post/a/) [busy](/en/post/busy/) [day](/en/post/day/) [for](/en/post/for/) [me](/en/post/me/)."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [the](/en/post/the/) [present](/en/post/present/) [time](/en/post/time/) [or](/en/post/or/) [day](/en/post/day/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) [today](/en/post/today/) is [beautiful](/en/post/beautiful/)."
-- **Interjection**: Expressing [the](/en/post/the/) [idea](/en/post/idea/) [of](/en/post/of/) [the](/en/post/the/) [current](/en/post/current/) [moment](/en/post/moment/) [or](/en/post/or/) [the](/en/post/the/) [near](/en/post/near/) [future](/en/post/future/). [For](/en/post/for/) [example](/en/post/example/): "Let's [meet](/en/post/meet/) [today](/en/post/today/)!"
+- **[Noun](/post/noun/)**: [A](/post/a/) [specific](/post/specific/) [day](/post/day/) [in](/post/in/) [the](/post/the/) [current](/post/current/) [week](/post/week/) [or](/post/or/) [month](/post/month/), [usually](/post/usually/) referring [to](/post/to/) [the](/post/the/) [present](/post/present/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[Today](/post/today/) is [a](/post/a/) [busy](/post/busy/) [day](/post/day/) [for](/post/for/) [me](/post/me/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [the](/post/the/) [present](/post/present/) [time](/post/time/) [or](/post/or/) [day](/post/day/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) [today](/post/today/) is [beautiful](/post/beautiful/)."
+- **Interjection**: Expressing [the](/post/the/) [idea](/post/idea/) [of](/post/of/) [the](/post/the/) [current](/post/current/) [moment](/post/moment/) [or](/post/or/) [the](/post/the/) [near](/post/near/) [future](/post/future/). [For](/post/for/) [example](/post/example/): "Let's [meet](/post/meet/) [today](/post/today/)!"
 
 ## Phrases
-- "What's [on](/en/post/on/) [your](/en/post/your/) agenda [for](/en/post/for/) [today](/en/post/today/)?" is [a](/en/post/a/) [question](/en/post/question/) [about](/en/post/about/) someone's plans [for](/en/post/for/) [the](/en/post/the/) [day](/en/post/day/).
-- "It's [just](/en/post/just/) [another](/en/post/another/) [day](/en/post/day/)" implies [that](/en/post/that/) [the](/en/post/the/) [day](/en/post/day/) is [like](/en/post/like/) [any](/en/post/any/) [other](/en/post/other/).
-- "[Today](/en/post/today/) is [the](/en/post/the/) [first](/en/post/first/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [rest](/en/post/rest/) [of](/en/post/of/) [your](/en/post/your/) [life](/en/post/life/)" is [a](/en/post/a/) proverb suggesting [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) making [a](/en/post/a/) [fresh](/en/post/fresh/) [start](/en/post/start/).
+- "What's [on](/post/on/) [your](/post/your/) agenda [for](/post/for/) [today](/post/today/)?" is [a](/post/a/) [question](/post/question/) [about](/post/about/) someone's plans [for](/post/for/) [the](/post/the/) [day](/post/day/).
+- "It's [just](/post/just/) [another](/post/another/) [day](/post/day/)" implies [that](/post/that/) [the](/post/the/) [day](/post/day/) is [like](/post/like/) [any](/post/any/) [other](/post/other/).
+- "[Today](/post/today/) is [the](/post/the/) [first](/post/first/) [day](/post/day/) [of](/post/of/) [the](/post/the/) [rest](/post/rest/) [of](/post/of/) [your](/post/your/) [life](/post/life/)" is [a](/post/a/) proverb suggesting [the](/post/the/) [importance](/post/importance/) [of](/post/of/) making [a](/post/a/) [fresh](/post/fresh/) [start](/post/start/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [have](/en/post/have/) [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [work](/en/post/work/) [to](/en/post/to/) [do](/en/post/do/) [today](/en/post/today/), [so](/en/post/so/) I can't [join](/en/post/join/) [you](/en/post/you/) [for](/en/post/for/) [lunch](/en/post/lunch/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [weather](/en/post/weather/) [today](/en/post/today/) is [perfect](/en/post/perfect/) [for](/en/post/for/) [a](/en/post/a/) [picnic](/en/post/picnic/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **Interjection**: "Let's [make](/en/post/make/) [today](/en/post/today/) [a](/en/post/a/) memorable [day](/en/post/day/) [by](/en/post/by/) trying [something](/en/post/something/) [new](/en/post/new/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [have](/post/have/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [work](/post/work/) [to](/post/to/) [do](/post/do/) [today](/post/today/), [so](/post/so/) I can't [join](/post/join/) [you](/post/you/) [for](/post/for/) [lunch](/post/lunch/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [weather](/post/weather/) [today](/post/today/) is [perfect](/post/perfect/) [for](/post/for/) [a](/post/a/) [picnic](/post/picnic/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **Interjection**: "Let's [make](/post/make/) [today](/post/today/) [a](/post/a/) memorable [day](/post/day/) [by](/post/by/) trying [something](/post/something/) [new](/post/new/)."
 
 ## Synonyms
-- [Now](/en/post/now/)
-- [Present](/en/post/present/)
-- [Current](/en/post/current/)
-- [This](/en/post/this/) [day](/en/post/day/)
-- [The](/en/post/the/) [present](/en/post/present/) [moment](/en/post/moment/)
-- Tod's [day](/en/post/day/) (informal)
+- [Now](/post/now/)
+- [Present](/post/present/)
+- [Current](/post/current/)
+- [This](/post/this/) [day](/post/day/)
+- [The](/post/the/) [present](/post/present/) [moment](/post/moment/)
+- Tod's [day](/post/day/) (informal)

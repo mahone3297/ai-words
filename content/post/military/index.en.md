@@ -7,39 +7,39 @@ description = '[ˈmilitəri] a.军事的；军人的'
 keywords = ['ai words', 'military']
 +++
 
-## [Word](/en/post/word/): [Military](/en/post/military/)
+## [Word](/post/word/): [Military](/post/military/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɪlɪtɛri/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) armed forces [or](/en/post/or/) [war](/en/post/war/); [concerning](/en/post/concerning/) [the](/en/post/the/) [profession](/en/post/profession/) [of](/en/post/of/) arms [or](/en/post/or/) [service](/en/post/service/) [in](/en/post/in/) [the](/en/post/the/) [army](/en/post/army/), [navy](/en/post/navy/), [air](/en/post/air/) [force](/en/post/force/), etc. [For](/en/post/for/) [example](/en/post/example/): "[Military](/en/post/military/) [service](/en/post/service/) is mandatory [in](/en/post/in/) [some](/en/post/some/) countries."
-- **[Noun](/en/post/noun/) ([collective](/en/post/collective/))**: [The](/en/post/the/) [military](/en/post/military/) refers [to](/en/post/to/) [the](/en/post/the/) combined armed forces [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/), including [its](/en/post/its/) soldiers, sailors, airmen, [and](/en/post/and/) marines. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [military](/en/post/military/) is [a](/en/post/a/) crucial [component](/en/post/component/) [of](/en/post/of/) [national](/en/post/national/) defense."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) armed forces [or](/post/or/) [war](/post/war/); [concerning](/post/concerning/) [the](/post/the/) [profession](/post/profession/) [of](/post/of/) arms [or](/post/or/) [service](/post/service/) [in](/post/in/) [the](/post/the/) [army](/post/army/), [navy](/post/navy/), [air](/post/air/) [force](/post/force/), etc. [For](/post/for/) [example](/post/example/): "[Military](/post/military/) [service](/post/service/) is mandatory [in](/post/in/) [some](/post/some/) countries."
+- **[Noun](/post/noun/) ([collective](/post/collective/))**: [The](/post/the/) [military](/post/military/) refers [to](/post/to/) [the](/post/the/) combined armed forces [of](/post/of/) [a](/post/a/) [country](/post/country/), including [its](/post/its/) soldiers, sailors, airmen, [and](/post/and/) marines. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [military](/post/military/) is [a](/post/a/) crucial [component](/post/component/) [of](/post/of/) [national](/post/national/) defense."
 
-### [Adjective](/en/post/adjective/) [Definition](/en/post/definition/) Examples
-- *[Military](/en/post/military/) [strategy](/en/post/strategy/)*: Plans [and](/en/post/and/) tactics [used](/en/post/used/) [by](/en/post/by/) [the](/en/post/the/) armed forces [in](/en/post/in/) warfare.
-- *[Military](/en/post/military/) [discipline](/en/post/discipline/)*: [Strict](/en/post/strict/) obedience [to](/en/post/to/) rules [and](/en/post/and/) orders [within](/en/post/within/) [the](/en/post/the/) armed forces.
+### [Adjective](/post/adjective/) [Definition](/post/definition/) Examples
+- *[Military](/post/military/) [strategy](/post/strategy/)*: Plans [and](/post/and/) tactics [used](/post/used/) [by](/post/by/) [the](/post/the/) armed forces [in](/post/in/) warfare.
+- *[Military](/post/military/) [discipline](/post/discipline/)*: [Strict](/post/strict/) obedience [to](/post/to/) rules [and](/post/and/) orders [within](/post/within/) [the](/post/the/) armed forces.
 
-### [Noun](/en/post/noun/) [Definition](/en/post/definition/) Examples
-- *[The](/en/post/the/) [military](/en/post/military/) [parade](/en/post/parade/) showcased [new](/en/post/new/) [technology](/en/post/technology/).*
-- *"Joining [the](/en/post/the/) [military](/en/post/military/) was [his](/en/post/his/) lifelong [ambition](/en/post/ambition/)."*
+### [Noun](/post/noun/) [Definition](/post/definition/) Examples
+- *[The](/post/the/) [military](/post/military/) [parade](/post/parade/) showcased [new](/post/new/) [technology](/post/technology/).*
+- *"Joining [the](/post/the/) [military](/post/military/) was [his](/post/his/) lifelong [ambition](/post/ambition/)."*
 
 ## Phrases
-- *"[Military](/en/post/military/) [intelligence](/en/post/intelligence/)" refers [to](/en/post/to/) [information](/en/post/information/) gathered [for](/en/post/for/) [military](/en/post/military/) purposes.*
-- *"[Military](/en/post/military/) coup"* describes [a](/en/post/a/) [sudden](/en/post/sudden/) [and](/en/post/and/) [illegal](/en/post/illegal/) seizure [of](/en/post/of/) [power](/en/post/power/), [usually](/en/post/usually/) [by](/en/post/by/) [a](/en/post/a/) faction [within](/en/post/within/) [the](/en/post/the/) [military](/en/post/military/).
-- *"[Military](/en/post/military/) [academy](/en/post/academy/)"* is [a](/en/post/a/) [college](/en/post/college/) [that](/en/post/that/) prepares students [for](/en/post/for/) [service](/en/post/service/) [in](/en/post/in/) [the](/en/post/the/) armed forces.
+- *"[Military](/post/military/) [intelligence](/post/intelligence/)" refers [to](/post/to/) [information](/post/information/) gathered [for](/post/for/) [military](/post/military/) purposes.*
+- *"[Military](/post/military/) coup"* describes [a](/post/a/) [sudden](/post/sudden/) [and](/post/and/) [illegal](/post/illegal/) seizure [of](/post/of/) [power](/post/power/), [usually](/post/usually/) [by](/post/by/) [a](/post/a/) faction [within](/post/within/) [the](/post/the/) [military](/post/military/).
+- *"[Military](/post/military/) [academy](/post/academy/)"* is [a](/post/a/) [college](/post/college/) [that](/post/that/) prepares students [for](/post/for/) [service](/post/service/) [in](/post/in/) [the](/post/the/) armed forces.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) wore [a](/en/post/a/) [military](/en/post/military/) [uniform](/en/post/uniform/) [with](/en/post/with/) [pride](/en/post/pride/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [government](/en/post/government/) increased funding [for](/en/post/for/) [the](/en/post/the/) [military](/en/post/military/) [to](/en/post/to/) modernize [its](/en/post/its/) weaponry."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) wore [a](/post/a/) [military](/post/military/) [uniform](/post/uniform/) [with](/post/with/) [pride](/post/pride/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [government](/post/government/) increased funding [for](/post/for/) [the](/post/the/) [military](/post/military/) [to](/post/to/) modernize [its](/post/its/) weaponry."
 
 ## Synonyms
 - Armed forces
 - Troops
-- [Service](/en/post/service/) members
-- [War](/en/post/war/) [machine](/en/post/machine/)
+- [Service](/post/service/) members
+- [War](/post/war/) [machine](/post/machine/)
 - Fighting forces
-- [Defence](/en/post/defence/) forces
+- [Defence](/post/defence/) forces
 
 ## Antonyms
-- Civilian ([as](/en/post/as/) opposed [to](/en/post/to/) [military](/en/post/military/) [personnel](/en/post/personnel/))
+- Civilian ([as](/post/as/) opposed [to](/post/to/) [military](/post/military/) [personnel](/post/personnel/))

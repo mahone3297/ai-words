@@ -7,42 +7,42 @@ description = '[əˈlau] vt.允许，准许；任'
 keywords = ['ai words', 'allow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈləʊ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: n. v. [To](/en/post/to/) [give](/en/post/give/) [permission](/en/post/permission/) [or](/en/post/or/) [approval](/en/post/approval/) [for](/en/post/for/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/); [to](/en/post/to/) [permit](/en/post/permit/). [Also](/en/post/also/), [to](/en/post/to/) [enable](/en/post/enable/) ([a](/en/post/a/) [person](/en/post/person/)) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). *[Example](/en/post/example/):*
-  - "[The](/en/post/the/) [teacher](/en/post/teacher/) allowed [the](/en/post/the/) students [to](/en/post/to/) [use](/en/post/use/) [their](/en/post/their/) phones [during](/en/post/during/) breaks."
-  - "[The](/en/post/the/) [boss](/en/post/boss/) allows [flexible](/en/post/flexible/) working hours."
+- **[Verb](/post/verb/)**: n. v. [To](/post/to/) [give](/post/give/) [permission](/post/permission/) [or](/post/or/) [approval](/post/approval/) [for](/post/for/) [something](/post/something/) [to](/post/to/) [happen](/post/happen/); [to](/post/to/) [permit](/post/permit/). [Also](/post/also/), [to](/post/to/) [enable](/post/enable/) ([a](/post/a/) [person](/post/person/)) [to](/post/to/) [do](/post/do/) [something](/post/something/). *[Example](/post/example/):*
+  - "[The](/post/the/) [teacher](/post/teacher/) allowed [the](/post/the/) students [to](/post/to/) [use](/post/use/) [their](/post/their/) phones [during](/post/during/) breaks."
+  - "[The](/post/the/) [boss](/post/boss/) allows [flexible](/post/flexible/) working hours."
 
-- **[Noun](/en/post/noun/)**: [Permission](/en/post/permission/) [or](/en/post/or/) authorization given [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). *[Example](/en/post/example/):*
-  - "[With](/en/post/with/) [his](/en/post/his/) parent's allowance, [he](/en/post/he/) [could](/en/post/could/) [buy](/en/post/buy/) [that](/en/post/that/) [new](/en/post/new/) [video](/en/post/video/) [game](/en/post/game/)."
-  - "[The](/en/post/the/) [company](/en/post/company/) has [a](/en/post/a/) [strict](/en/post/strict/) [policy](/en/post/policy/) [on](/en/post/on/) [alcohol](/en/post/alcohol/) [consumption](/en/post/consumption/) [during](/en/post/during/) [work](/en/post/work/) hours; [no](/en/post/no/) allowance is granted."
+- **[Noun](/post/noun/)**: [Permission](/post/permission/) [or](/post/or/) authorization given [to](/post/to/) [do](/post/do/) [something](/post/something/). *[Example](/post/example/):*
+  - "[With](/post/with/) [his](/post/his/) parent's allowance, [he](/post/he/) [could](/post/could/) [buy](/post/buy/) [that](/post/that/) [new](/post/new/) [video](/post/video/) [game](/post/game/)."
+  - "[The](/post/the/) [company](/post/company/) has [a](/post/a/) [strict](/post/strict/) [policy](/post/policy/) [on](/post/on/) [alcohol](/post/alcohol/) [consumption](/post/consumption/) [during](/post/during/) [work](/post/work/) hours; [no](/post/no/) allowance is granted."
 
-- **[Adjective](/en/post/adjective/)**: Permissive [or](/en/post/or/) [not](/en/post/not/) restrictive. *[Example](/en/post/example/):*
-  - "[The](/en/post/the/) [school](/en/post/school/) has [a](/en/post/a/) lenient [policy](/en/post/policy/) [on](/en/post/on/) tardiness, allowing [some](/en/post/some/) leeway."
+- **[Adjective](/post/adjective/)**: Permissive [or](/post/or/) [not](/post/not/) restrictive. *[Example](/post/example/):*
+  - "[The](/post/the/) [school](/post/school/) has [a](/post/a/) lenient [policy](/post/policy/) [on](/post/on/) tardiness, allowing [some](/post/some/) leeway."
 
 ## Phrases
-- "[Allow](/en/post/allow/) [for](/en/post/for/)" [means](/en/post/means/) [to](/en/post/to/) [consider](/en/post/consider/) [or](/en/post/or/) [accommodate](/en/post/accommodate/) [a](/en/post/a/) [certain](/en/post/certain/) [factor](/en/post/factor/) [or](/en/post/or/) [possibility](/en/post/possibility/).
-- "Allowance" refers [to](/en/post/to/) [a](/en/post/a/) [sum](/en/post/sum/) [of](/en/post/of/) [money](/en/post/money/) given [regularly](/en/post/regularly/) [for](/en/post/for/) [personal](/en/post/personal/) expenses.
-- "[Not](/en/post/not/) allowing [for](/en/post/for/)" indicates [something](/en/post/something/) [that](/en/post/that/) does [not](/en/post/not/) [take](/en/post/take/) [into](/en/post/into/) [account](/en/post/account/) [or](/en/post/or/) [consider](/en/post/consider/) [a](/en/post/a/) [particular](/en/post/particular/) [aspect](/en/post/aspect/).
+- "[Allow](/post/allow/) [for](/post/for/)" [means](/post/means/) [to](/post/to/) [consider](/post/consider/) [or](/post/or/) [accommodate](/post/accommodate/) [a](/post/a/) [certain](/post/certain/) [factor](/post/factor/) [or](/post/or/) [possibility](/post/possibility/).
+- "Allowance" refers [to](/post/to/) [a](/post/a/) [sum](/post/sum/) [of](/post/of/) [money](/post/money/) given [regularly](/post/regularly/) [for](/post/for/) [personal](/post/personal/) expenses.
+- "[Not](/post/not/) allowing [for](/post/for/)" indicates [something](/post/something/) [that](/post/that/) does [not](/post/not/) [take](/post/take/) [into](/post/into/) [account](/post/account/) [or](/post/or/) [consider](/post/consider/) [a](/post/a/) [particular](/post/particular/) [aspect](/post/aspect/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [careful](/en/post/careful/) [consideration](/en/post/consideration/), [the](/en/post/the/) supervisor allowed [the](/en/post/the/) [project](/en/post/project/) deadline [to](/en/post/to/) [be](/en/post/be/) extended."
-- **[Noun](/en/post/noun/)**: "[As](/en/post/as/) [a](/en/post/a/) [reward](/en/post/reward/) [for](/en/post/for/) [good](/en/post/good/) grades, [she](/en/post/she/) received [a](/en/post/a/) larger allowance [this](/en/post/this/) [month](/en/post/month/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) doesn't [allow](/en/post/allow/) [for](/en/post/for/) [any](/en/post/any/) exceptions [to](/en/post/to/) [the](/en/post/the/) rules."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) [careful](/post/careful/) [consideration](/post/consideration/), [the](/post/the/) supervisor allowed [the](/post/the/) [project](/post/project/) deadline [to](/post/to/) [be](/post/be/) extended."
+- **[Noun](/post/noun/)**: "[As](/post/as/) [a](/post/a/) [reward](/post/reward/) [for](/post/for/) [good](/post/good/) grades, [she](/post/she/) received [a](/post/a/) larger allowance [this](/post/this/) [month](/post/month/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) doesn't [allow](/post/allow/) [for](/post/for/) [any](/post/any/) exceptions [to](/post/to/) [the](/post/the/) rules."
 
 ## Synonyms
-- [Permit](/en/post/permit/)
-- [Approve](/en/post/approve/)
+- [Permit](/post/permit/)
+- [Approve](/post/approve/)
 - Authorize
 - Concede
 - Endorse
 - Sanction
 
 ## Antonyms
-- [Prohibit](/en/post/prohibit/)
-- [Deny](/en/post/deny/)
-- [Restrict](/en/post/restrict/)
-- [Refuse](/en/post/refuse/)
+- [Prohibit](/post/prohibit/)
+- [Deny](/post/deny/)
+- [Restrict](/post/restrict/)
+- [Refuse](/post/refuse/)
 - Disallow

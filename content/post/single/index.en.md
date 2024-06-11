@@ -7,35 +7,35 @@ description = '[ˈsiŋgl] a.单一的；独身的'
 keywords = ['ai words', 'single']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪŋɡl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Single](/en/post/single/)**: [A](/en/post/a/) [person](/en/post/person/) [not](/en/post/not/) [married](/en/post/married/) [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) committed [relationship](/en/post/relationship/). [Example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [live](/en/post/live/) [a](/en/post/a/) [single](/en/post/single/) [life](/en/post/life/) [after](/en/post/after/) [the](/en/post/the/) breakup."
-2. **[Single](/en/post/single/) [unit](/en/post/unit/)**: [One](/en/post/one/) [item](/en/post/item/) [or](/en/post/or/) [piece](/en/post/piece/). [Example](/en/post/example/): "[The](/en/post/the/) [package](/en/post/package/) contains [a](/en/post/a/) [single](/en/post/single/) CD."
-3. **Unpaired**: [Not](/en/post/not/) matched [or](/en/post/or/) accompanied [by](/en/post/by/) [another](/en/post/another/). [Example](/en/post/example/): "[Each](/en/post/each/) [drawer](/en/post/drawer/) had [a](/en/post/a/) [single](/en/post/single/) [key](/en/post/key/)."
-4. **Monotonic**: [Concerning](/en/post/concerning/) [a](/en/post/a/) [song](/en/post/song/) [with](/en/post/with/) [only](/en/post/only/) [one](/en/post/one/) melody [line](/en/post/line/). [Example](/en/post/example/): "[The](/en/post/the/) [song](/en/post/song/) had [a](/en/post/a/) catchy [single](/en/post/single/) chorus."
+### [Noun](/post/noun/)
+1. **[Single](/post/single/)**: [A](/post/a/) [person](/post/person/) [not](/post/not/) [married](/post/married/) [or](/post/or/) [in](/post/in/) [a](/post/a/) committed [relationship](/post/relationship/). [Example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [live](/post/live/) [a](/post/a/) [single](/post/single/) [life](/post/life/) [after](/post/after/) [the](/post/the/) breakup."
+2. **[Single](/post/single/) [unit](/post/unit/)**: [One](/post/one/) [item](/post/item/) [or](/post/or/) [piece](/post/piece/). [Example](/post/example/): "[The](/post/the/) [package](/post/package/) contains [a](/post/a/) [single](/post/single/) CD."
+3. **Unpaired**: [Not](/post/not/) matched [or](/post/or/) accompanied [by](/post/by/) [another](/post/another/). [Example](/post/example/): "[Each](/post/each/) [drawer](/post/drawer/) had [a](/post/a/) [single](/post/single/) [key](/post/key/)."
+4. **Monotonic**: [Concerning](/post/concerning/) [a](/post/a/) [song](/post/song/) [with](/post/with/) [only](/post/only/) [one](/post/one/) melody [line](/post/line/). [Example](/post/example/): "[The](/post/the/) [song](/post/song/) had [a](/post/a/) catchy [single](/post/single/) chorus."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [be](/en/post/be/) [single](/en/post/single/)**: [To](/en/post/to/) [not](/en/post/not/) [have](/en/post/have/) [a](/en/post/a/) [romantic](/en/post/romantic/) [partner](/en/post/partner/). [Example](/en/post/example/): "[After](/en/post/after/) [a](/en/post/a/) long-term [relationship](/en/post/relationship/), he's [now](/en/post/now/) [single](/en/post/single/) [again](/en/post/again/)."
-2. **[To](/en/post/to/) [live](/en/post/live/) [single](/en/post/single/)**: [To](/en/post/to/) [live](/en/post/live/) [alone](/en/post/alone/). [Example](/en/post/example/): "[She](/en/post/she/) chose [to](/en/post/to/) [live](/en/post/live/) [single](/en/post/single/), focusing [on](/en/post/on/) [her](/en/post/her/) [career](/en/post/career/)."
-3. **[To](/en/post/to/) [buy](/en/post/buy/)/[sell](/en/post/sell/) [a](/en/post/a/) [single](/en/post/single/)**: [To](/en/post/to/) [purchase](/en/post/purchase/) [or](/en/post/or/) [sell](/en/post/sell/) [a](/en/post/a/) [single](/en/post/single/) [item](/en/post/item/). [Example](/en/post/example/): "I'll [take](/en/post/take/) [a](/en/post/a/) [single](/en/post/single/) [copy](/en/post/copy/) [of](/en/post/of/) [that](/en/post/that/) [book](/en/post/book/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [be](/post/be/) [single](/post/single/)**: [To](/post/to/) [not](/post/not/) [have](/post/have/) [a](/post/a/) [romantic](/post/romantic/) [partner](/post/partner/). [Example](/post/example/): "[After](/post/after/) [a](/post/a/) long-term [relationship](/post/relationship/), he's [now](/post/now/) [single](/post/single/) [again](/post/again/)."
+2. **[To](/post/to/) [live](/post/live/) [single](/post/single/)**: [To](/post/to/) [live](/post/live/) [alone](/post/alone/). [Example](/post/example/): "[She](/post/she/) chose [to](/post/to/) [live](/post/live/) [single](/post/single/), focusing [on](/post/on/) [her](/post/her/) [career](/post/career/)."
+3. **[To](/post/to/) [buy](/post/buy/)/[sell](/post/sell/) [a](/post/a/) [single](/post/single/)**: [To](/post/to/) [purchase](/post/purchase/) [or](/post/or/) [sell](/post/sell/) [a](/post/a/) [single](/post/single/) [item](/post/item/). [Example](/post/example/): "I'll [take](/post/take/) [a](/post/a/) [single](/post/single/) [copy](/post/copy/) [of](/post/of/) [that](/post/that/) [book](/post/book/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Unmatched**: Having [no](/en/post/no/) [pair](/en/post/pair/) [or](/en/post/or/) counterpart. [Example](/en/post/example/): "[The](/en/post/the/) [table](/en/post/table/) had [a](/en/post/a/) [single](/en/post/single/) [lamp](/en/post/lamp/)."
-2. **[Simple](/en/post/simple/)**: [Without](/en/post/without/) complexity [or](/en/post/or/) [multiple](/en/post/multiple/) parts. [Example](/en/post/example/): "[A](/en/post/a/) single-syllable [word](/en/post/word/) is [easy](/en/post/easy/) [to](/en/post/to/) [remember](/en/post/remember/)."
-3. **[Primary](/en/post/primary/)**: [Most](/en/post/most/) [important](/en/post/important/) [or](/en/post/or/) [significant](/en/post/significant/). [Example](/en/post/example/): "[Her](/en/post/her/) [single](/en/post/single/) contribution made [a](/en/post/a/) [big](/en/post/big/) [impact](/en/post/impact/)."
+### [Adjective](/post/adjective/)
+1. **Unmatched**: Having [no](/post/no/) [pair](/post/pair/) [or](/post/or/) counterpart. [Example](/post/example/): "[The](/post/the/) [table](/post/table/) had [a](/post/a/) [single](/post/single/) [lamp](/post/lamp/)."
+2. **[Simple](/post/simple/)**: [Without](/post/without/) complexity [or](/post/or/) [multiple](/post/multiple/) parts. [Example](/post/example/): "[A](/post/a/) single-syllable [word](/post/word/) is [easy](/post/easy/) [to](/post/to/) [remember](/post/remember/)."
+3. **[Primary](/post/primary/)**: [Most](/post/most/) [important](/post/important/) [or](/post/or/) [significant](/post/significant/). [Example](/post/example/): "[Her](/post/her/) [single](/post/single/) contribution made [a](/post/a/) [big](/post/big/) [impact](/post/impact/)."
 
 ## Phrases
-- "[Being](/en/post/being/) [single](/en/post/single/)" [or](/en/post/or/) "Living单身"
-- "[A](/en/post/a/) [single](/en/post/single/) serving" [for](/en/post/for/) [a](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) intended [for](/en/post/for/) [one](/en/post/one/) [person](/en/post/person/)
-- "[A](/en/post/a/) [single](/en/post/single/) [parent](/en/post/parent/)" [or](/en/post/or/) "Single-handedly"
+- "[Being](/post/being/) [single](/post/single/)" [or](/post/or/) "Living单身"
+- "[A](/post/a/) [single](/post/single/) serving" [for](/post/for/) [a](/post/a/) [small](/post/small/) [amount](/post/amount/) intended [for](/post/for/) [one](/post/one/) [person](/post/person/)
+- "[A](/post/a/) [single](/post/single/) [parent](/post/parent/)" [or](/post/or/) "Single-handedly"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "She's been enjoying [the](/en/post/the/) [freedom](/en/post/freedom/) [of](/en/post/of/) [being](/en/post/being/) [single](/en/post/single/) [since](/en/post/since/) [the](/en/post/the/) [divorce](/en/post/divorce/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [buy](/en/post/buy/) [a](/en/post/a/) [single](/en/post/single/) [ticket](/en/post/ticket/) [for](/en/post/for/) [the](/en/post/the/) [concert](/en/post/concert/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [room](/en/post/room/) had [a](/en/post/a/) [single](/en/post/single/) [large](/en/post/large/) [window](/en/post/window/) letting [in](/en/post/in/) [natural](/en/post/natural/) [light](/en/post/light/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "She's been enjoying [the](/post/the/) [freedom](/post/freedom/) [of](/post/of/) [being](/post/being/) [single](/post/single/) [since](/post/since/) [the](/post/the/) [divorce](/post/divorce/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [single](/post/single/) [ticket](/post/ticket/) [for](/post/for/) [the](/post/the/) [concert](/post/concert/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [room](/post/room/) had [a](/post/a/) [single](/post/single/) [large](/post/large/) [window](/post/window/) letting [in](/post/in/) [natural](/post/natural/) [light](/post/light/)."
 
 ## Synonyms
 - Solo

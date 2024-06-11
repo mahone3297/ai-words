@@ -7,40 +7,40 @@ description = '[∫ɔp] n.商店，店铺；车间'
 keywords = ['ai words', 'shop']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ʃɒp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) retail [establishment](/en/post/establishment/) [where](/en/post/where/) [goods](/en/post/goods/) [or](/en/post/or/) services are sold, [often](/en/post/often/) [in](/en/post/in/) [small](/en/post/small/) quantities: *I [need](/en/post/need/) [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [grocery](/en/post/grocery/) [shop](/en/post/shop/) [for](/en/post/for/) [some](/en/post/some/) [milk](/en/post/milk/).*
-2. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [shopping](/en/post/shopping/): *[She](/en/post/she/) spent [the](/en/post/the/) [afternoon](/en/post/afternoon/) browsing [through](/en/post/through/) [the](/en/post/the/) shops downtown.*
-3. [A](/en/post/a/) person's [place](/en/post/place/) [of](/en/post/of/) [work](/en/post/work/), [especially](/en/post/especially/) [if](/en/post/if/) [they](/en/post/they/) [sell](/en/post/sell/) [goods](/en/post/goods/): *[He](/en/post/he/) works [as](/en/post/as/) [a](/en/post/a/) [mechanic](/en/post/mechanic/) [at](/en/post/at/) [the](/en/post/the/) [car](/en/post/car/) [shop](/en/post/shop/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) retail [establishment](/post/establishment/) [where](/post/where/) [goods](/post/goods/) [or](/post/or/) services are sold, [often](/post/often/) [in](/post/in/) [small](/post/small/) quantities: *I [need](/post/need/) [to](/post/to/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [grocery](/post/grocery/) [shop](/post/shop/) [for](/post/for/) [some](/post/some/) [milk](/post/milk/).*
+2. [The](/post/the/) [act](/post/act/) [of](/post/of/) [shopping](/post/shopping/): *[She](/post/she/) spent [the](/post/the/) [afternoon](/post/afternoon/) browsing [through](/post/through/) [the](/post/the/) shops downtown.*
+3. [A](/post/a/) person's [place](/post/place/) [of](/post/of/) [work](/post/work/), [especially](/post/especially/) [if](/post/if/) [they](/post/they/) [sell](/post/sell/) [goods](/post/goods/): *[He](/post/he/) works [as](/post/as/) [a](/post/a/) [mechanic](/post/mechanic/) [at](/post/at/) [the](/post/the/) [car](/post/car/) [shop](/post/shop/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [buy](/en/post/buy/) [goods](/en/post/goods/) [or](/en/post/or/) services [from](/en/post/from/) [a](/en/post/a/) [shop](/en/post/shop/): *I'll [be](/en/post/be/) [shopping](/en/post/shopping/) [for](/en/post/for/) [new](/en/post/new/) [clothes](/en/post/clothes/) [this](/en/post/this/) [weekend](/en/post/weekend/).*
-2. [To](/en/post/to/) browse [or](/en/post/or/) [look](/en/post/look/) [at](/en/post/at/) items [in](/en/post/in/) [a](/en/post/a/) [shop](/en/post/shop/) [without](/en/post/without/) [necessarily](/en/post/necessarily/) buying: *[She](/en/post/she/) [just](/en/post/just/) likes [to](/en/post/to/) [shop](/en/post/shop/) [for](/en/post/for/) [fun](/en/post/fun/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [buy](/post/buy/) [goods](/post/goods/) [or](/post/or/) services [from](/post/from/) [a](/post/a/) [shop](/post/shop/): *I'll [be](/post/be/) [shopping](/post/shopping/) [for](/post/for/) [new](/post/new/) [clothes](/post/clothes/) [this](/post/this/) [weekend](/post/weekend/).*
+2. [To](/post/to/) browse [or](/post/or/) [look](/post/look/) [at](/post/at/) items [in](/post/in/) [a](/post/a/) [shop](/post/shop/) [without](/post/without/) [necessarily](/post/necessarily/) buying: *[She](/post/she/) [just](/post/just/) likes [to](/post/to/) [shop](/post/shop/) [for](/post/for/) [fun](/post/fun/).*
 
-### [Preposition](/en/post/preposition/)
-[To](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [location](/en/post/location/) [of](/en/post/of/) [a](/en/post/a/) [business](/en/post/business/) [or](/en/post/or/) [activity](/en/post/activity/): *[The](/en/post/the/) [shop](/en/post/shop/) is located [on](/en/post/on/) [Main](/en/post/main/) [Street](/en/post/street/).*
+### [Preposition](/post/preposition/)
+[To](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [location](/post/location/) [of](/post/of/) [a](/post/a/) [business](/post/business/) [or](/post/or/) [activity](/post/activity/): *[The](/post/the/) [shop](/post/shop/) is located [on](/post/on/) [Main](/post/main/) [Street](/post/street/).*
 
 ## Phrases
-- "[Do](/en/post/do/) [some](/en/post/some/) [shopping](/en/post/shopping/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [a](/en/post/a/) [store](/en/post/store/) [to](/en/post/to/) [buy](/en/post/buy/) things.
-- "[Shop](/en/post/shop/) [around](/en/post/around/)" implies comparing prices [or](/en/post/or/) options [before](/en/post/before/) making [a](/en/post/a/) [purchase](/en/post/purchase/).
-- "[Open](/en/post/open/) [the](/en/post/the/) [shop](/en/post/shop/)" signifies starting [the](/en/post/the/) [business](/en/post/business/) [for](/en/post/for/) [the](/en/post/the/) [day](/en/post/day/).
+- "[Do](/post/do/) [some](/post/some/) [shopping](/post/shopping/)" [means](/post/means/) [to](/post/to/) [go](/post/go/) [to](/post/to/) [a](/post/a/) [store](/post/store/) [to](/post/to/) [buy](/post/buy/) things.
+- "[Shop](/post/shop/) [around](/post/around/)" implies comparing prices [or](/post/or/) options [before](/post/before/) making [a](/post/a/) [purchase](/post/purchase/).
+- "[Open](/post/open/) [the](/post/the/) [shop](/post/shop/)" signifies starting [the](/post/the/) [business](/post/business/) [for](/post/for/) [the](/post/the/) [day](/post/day/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) [usually](/en/post/usually/) does [her](/en/post/her/) [shopping](/en/post/shopping/) [on](/en/post/on/) Saturdays."
-- **[Verb](/en/post/verb/)**: "I'll [stop](/en/post/stop/) [by](/en/post/by/) [the](/en/post/the/) bookshop [after](/en/post/after/) [work](/en/post/work/) [to](/en/post/to/) [pick](/en/post/pick/) [up](/en/post/up/) [a](/en/post/a/) [novel](/en/post/novel/)."
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) [flower](/en/post/flower/) [shop](/en/post/shop/) opens [early](/en/post/early/) [every](/en/post/every/) [morning](/en/post/morning/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) [usually](/post/usually/) does [her](/post/her/) [shopping](/post/shopping/) [on](/post/on/) Saturdays."
+- **[Verb](/post/verb/)**: "I'll [stop](/post/stop/) [by](/post/by/) [the](/post/the/) bookshop [after](/post/after/) [work](/post/work/) [to](/post/to/) [pick](/post/pick/) [up](/post/up/) [a](/post/a/) [novel](/post/novel/)."
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) [flower](/post/flower/) [shop](/post/shop/) opens [early](/post/early/) [every](/post/every/) [morning](/post/morning/)."
 
 ## Synonyms
-- [Store](/en/post/store/)
-- [Market](/en/post/market/)
-- Retail [outlet](/en/post/outlet/)
+- [Store](/post/store/)
+- [Market](/post/market/)
+- Retail [outlet](/post/outlet/)
 - Shopper
 - Buying
 - Browse
 
 ## Antonyms
-- [Sell](/en/post/sell/) ([opposite](/en/post/opposite/) [of](/en/post/of/) buying)
-- [Close](/en/post/close/) ([opposite](/en/post/opposite/) [of](/en/post/of/) [open](/en/post/open/))
+- [Sell](/post/sell/) ([opposite](/post/opposite/) [of](/post/of/) buying)
+- [Close](/post/close/) ([opposite](/post/opposite/) [of](/post/of/) [open](/post/open/))

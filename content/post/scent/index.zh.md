@@ -12,23 +12,23 @@ keywords = ['ai words', 'scent']
 
 ## 释义
 - **名词**:
-  - 气味，香味：一种通过嗅觉感知的气体或混合物的味道，通常指吸引人的香气。例如: "[The](/post/the/) [scent](/post/scent/) [of](/post/of/) freshly baked [bread](/post/bread/) filled [the](/post/the/) [kitchen](/post/kitchen/)."
-  - 香水，香精：一种用于给人或物增添香味的液体。例如: "[She](/post/she/) dabbed [some](/post/some/) [scent](/post/scent/) [behind](/post/behind/) [her](/post/her/) ears [before](/post/before/) going [out](/post/out/)."
+  - 气味，香味：一种通过嗅觉感知的气体或混合物的味道，通常指吸引人的香气。例如: "[The](/zh/post/the/) [scent](/zh/post/scent/) [of](/zh/post/of/) freshly baked [bread](/zh/post/bread/) filled [the](/zh/post/the/) [kitchen](/zh/post/kitchen/)."
+  - 香水，香精：一种用于给人或物增添香味的液体。例如: "[She](/zh/post/she/) dabbed [some](/zh/post/some/) [scent](/zh/post/scent/) [behind](/zh/post/behind/) [her](/zh/post/her/) ears [before](/zh/post/before/) going [out](/zh/post/out/)."
 
 - **动词**:
-  - 闻到，嗅出：察觉到某种气味。例如: "[The](/post/the/) [dog](/post/dog/) scented [the](/post/the/) intruder [before](/post/before/) [anyone](/post/anyone/) [else](/post/else/) did."
+  - 闻到，嗅出：察觉到某种气味。例如: "[The](/zh/post/the/) [dog](/zh/post/dog/) scented [the](/zh/post/the/) intruder [before](/zh/post/before/) [anyone](/zh/post/anyone/) [else](/zh/post/else/) did."
 
 ## 短语
-- "[pick](/post/pick/) [up](/post/up/) [a](/post/a/) [scent](/post/scent/)" 意为追踪气味，常用于描述猎犬或侦探寻找线索。
-- "[leave](/post/leave/) [a](/post/a/) [scent](/post/scent/) [trail](/post/trail/)" 指留下气味痕迹，常用于动物行为描述。
+- "[pick](/zh/post/pick/) [up](/zh/post/up/) [a](/zh/post/a/) [scent](/zh/post/scent/)" 意为追踪气味，常用于描述猎犬或侦探寻找线索。
+- "[leave](/zh/post/leave/) [a](/zh/post/a/) [scent](/zh/post/scent/) [trail](/zh/post/trail/)" 指留下气味痕迹，常用于动物行为描述。
 
 ## 例句
-- 名词: "[The](/post/the/) flowers [in](/post/in/) [the](/post/the/) [garden](/post/garden/) [have](/post/have/) [a](/post/a/) [sweet](/post/sweet/) [scent](/post/scent/)."
-- 动词: "[The](/post/the/) hound was [able](/post/able/) [to](/post/to/) [scent](/post/scent/) [the](/post/the/) [missing](/post/missing/) person's [trail](/post/trail/)."
+- 名词: "[The](/zh/post/the/) flowers [in](/zh/post/in/) [the](/zh/post/the/) [garden](/zh/post/garden/) [have](/zh/post/have/) [a](/zh/post/a/) [sweet](/zh/post/sweet/) [scent](/zh/post/scent/)."
+- 动词: "[The](/zh/post/the/) hound was [able](/zh/post/able/) [to](/zh/post/to/) [scent](/zh/post/scent/) [the](/zh/post/the/) [missing](/zh/post/missing/) person's [trail](/zh/post/trail/)."
 
 ## 同义词
 - Aroma
 - Fragrance
 - Odor
-- [Smell](/post/smell/)
+- [Smell](/zh/post/smell/)
 - Essence

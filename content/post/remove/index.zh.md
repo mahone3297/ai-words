@@ -12,25 +12,25 @@ keywords = ['ai words', 'remove']
 
 ## 释义
 - **动词**:
-  1. 移除，拿掉。例如: "[Please](/post/please/) [remove](/post/remove/) [your](/post/your/) shoes [before](/post/before/) entering [the](/post/the/) [house](/post/house/)."
-  2. 解雇，开除。例如: "[He](/post/he/) was removed [from](/post/from/) [his](/post/his/) [position](/post/position/) [due](/post/due/) [to](/post/to/) [poor](/post/poor/) [performance](/post/performance/)."
-  3. 删除，去掉（信息、内容等）。例如: "[She](/post/she/) removed [the](/post/the/) [incorrect](/post/incorrect/) [information](/post/information/) [from](/post/from/) [the](/post/the/) [report](/post/report/)."
-  4. 脱掉（衣物）。例如: "[He](/post/he/) removed [his](/post/his/) [jacket](/post/jacket/) [and](/post/and/) hung [it](/post/it/) [on](/post/on/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [the](/post/the/) [chair](/post/chair/)."
+  1. 移除，拿掉。例如: "[Please](/zh/post/please/) [remove](/zh/post/remove/) [your](/zh/post/your/) shoes [before](/zh/post/before/) entering [the](/zh/post/the/) [house](/zh/post/house/)."
+  2. 解雇，开除。例如: "[He](/zh/post/he/) was removed [from](/zh/post/from/) [his](/zh/post/his/) [position](/zh/post/position/) [due](/zh/post/due/) [to](/zh/post/to/) [poor](/zh/post/poor/) [performance](/zh/post/performance/)."
+  3. 删除，去掉（信息、内容等）。例如: "[She](/zh/post/she/) removed [the](/zh/post/the/) [incorrect](/zh/post/incorrect/) [information](/zh/post/information/) [from](/zh/post/from/) [the](/zh/post/the/) [report](/zh/post/report/)."
+  4. 脱掉（衣物）。例如: "[He](/zh/post/he/) removed [his](/zh/post/his/) [jacket](/zh/post/jacket/) [and](/zh/post/and/) hung [it](/zh/post/it/) [on](/zh/post/on/) [the](/zh/post/the/) [back](/zh/post/back/) [of](/zh/post/of/) [the](/zh/post/the/) [chair](/zh/post/chair/)."
 
 ## 短语
-- "[Remove](/post/remove/) [oneself](/post/oneself/)" 意为离开或移出某个地方。
-- "[Remove](/post/remove/) [the](/post/the/) [obstacle](/post/obstacle/)" 意为移除障碍物。
-- "[Remove](/post/remove/) stains" 意为去除污渍。
+- "[Remove](/zh/post/remove/) [oneself](/zh/post/oneself/)" 意为离开或移出某个地方。
+- "[Remove](/zh/post/remove/) [the](/zh/post/the/) [obstacle](/zh/post/obstacle/)" 意为移除障碍物。
+- "[Remove](/zh/post/remove/) stains" 意为去除污渍。
 
 ## 例句
-- 移除: "[The](/post/the/) cleaner removed [all](/post/all/) [the](/post/the/) [dirt](/post/dirt/) [from](/post/from/) [the](/post/the/) [carpet](/post/carpet/)."
-- 解雇: "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [remove](/post/remove/) [several](/post/several/) employees [to](/post/to/) [cut](/post/cut/) costs."
-- 删除: "[She](/post/she/) removed [the](/post/the/) controversial [paragraph](/post/paragraph/) [from](/post/from/) [her](/post/her/) [essay](/post/essay/)."
-- 脱掉: "[He](/post/he/) removed [his](/post/his/) [tie](/post/tie/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/)."
+- 移除: "[The](/zh/post/the/) cleaner removed [all](/zh/post/all/) [the](/zh/post/the/) [dirt](/zh/post/dirt/) [from](/zh/post/from/) [the](/zh/post/the/) [carpet](/zh/post/carpet/)."
+- 解雇: "[The](/zh/post/the/) [company](/zh/post/company/) decided [to](/zh/post/to/) [remove](/zh/post/remove/) [several](/zh/post/several/) employees [to](/zh/post/to/) [cut](/zh/post/cut/) costs."
+- 删除: "[She](/zh/post/she/) removed [the](/zh/post/the/) controversial [paragraph](/zh/post/paragraph/) [from](/zh/post/from/) [her](/zh/post/her/) [essay](/zh/post/essay/)."
+- 脱掉: "[He](/zh/post/he/) removed [his](/zh/post/his/) [tie](/zh/post/tie/) [after](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [day](/zh/post/day/) [at](/zh/post/at/) [work](/zh/post/work/)."
 
 ## 同义词
-- [Take](/post/take/) [away](/post/away/)
-- [Eliminate](/post/eliminate/)
+- [Take](/zh/post/take/) [away](/zh/post/away/)
+- [Eliminate](/zh/post/eliminate/)
 - Erase
-- [Dismiss](/post/dismiss/)
+- [Dismiss](/zh/post/dismiss/)
 - Offload

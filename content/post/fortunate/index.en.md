@@ -7,26 +7,26 @@ description = '[ˈfɔːt∫ənit] a.幸运的，侥幸的'
 keywords = ['ai words', 'fortunate']
 +++
 
-## [Word](/en/post/word/): [Fortunate](/en/post/fortunate/)
+## [Word](/post/word/): [Fortunate](/post/fortunate/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɔːrtʃənət/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [good](/en/post/good/) [luck](/en/post/luck/) [or](/en/post/or/) receiving [desirable](/en/post/desirable/) outcomes; receiving benefits [or](/en/post/or/) advantages [from](/en/post/from/) circumstances. [Example](/en/post/example/): "[She](/en/post/she/) considers [herself](/en/post/herself/) [fortunate](/en/post/fortunate/) [to](/en/post/to/) [have](/en/post/have/) [found](/en/post/found/) [such](/en/post/such/) [a](/en/post/a/) fulfilling [job](/en/post/job/)."
+- **[Adjective](/post/adjective/)**: Having [good](/post/good/) [luck](/post/luck/) [or](/post/or/) receiving [desirable](/post/desirable/) outcomes; receiving benefits [or](/post/or/) advantages [from](/post/from/) circumstances. [Example](/post/example/): "[She](/post/she/) considers [herself](/post/herself/) [fortunate](/post/fortunate/) [to](/post/to/) [have](/post/have/) [found](/post/found/) [such](/post/such/) [a](/post/a/) fulfilling [job](/post/job/)."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/):
-- _Adjective_: "[It](/en/post/it/) was [fortunate](/en/post/fortunate/) [that](/en/post/that/) [he](/en/post/he/) arrived [just](/en/post/just/) [in](/en/post/in/) [time](/en/post/time/) [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [last](/en/post/last/) [train](/en/post/train/)."
+[Example](/post/example/) [Sentence](/post/sentence/):
+- _Adjective_: "[It](/post/it/) was [fortunate](/post/fortunate/) [that](/post/that/) [he](/post/he/) arrived [just](/post/just/) [in](/post/in/) [time](/post/time/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [last](/post/last/) [train](/post/train/)."
 
 ## Phrases
-- "[Fortunate](/en/post/fortunate/) [enough](/en/post/enough/)": Expresses [that](/en/post/that/) [something](/en/post/something/) [positive](/en/post/positive/) has happened unexpectedly [or](/en/post/or/) [with](/en/post/with/) [some](/en/post/some/) [degree](/en/post/degree/) [of](/en/post/of/) [luck](/en/post/luck/). [Example](/en/post/example/): "[She](/en/post/she/) was [fortunate](/en/post/fortunate/) [enough](/en/post/enough/) [to](/en/post/to/) [win](/en/post/win/) [the](/en/post/the/) lottery."
-- "[Fortune](/en/post/fortune/) smiles [on](/en/post/on/)": Indicates [that](/en/post/that/) [someone](/en/post/someone/) is experiencing [good](/en/post/good/) [luck](/en/post/luck/) [or](/en/post/or/) favorable circumstances. [Example](/en/post/example/): "[Fortune](/en/post/fortune/) seems [to](/en/post/to/) [be](/en/post/be/) smiling [on](/en/post/on/) [her](/en/post/her/) [lately](/en/post/lately/) [with](/en/post/with/) [all](/en/post/all/) [these](/en/post/these/) opportunities coming [her](/en/post/her/) [way](/en/post/way/)."
+- "[Fortunate](/post/fortunate/) [enough](/post/enough/)": Expresses [that](/post/that/) [something](/post/something/) [positive](/post/positive/) has happened unexpectedly [or](/post/or/) [with](/post/with/) [some](/post/some/) [degree](/post/degree/) [of](/post/of/) [luck](/post/luck/). [Example](/post/example/): "[She](/post/she/) was [fortunate](/post/fortunate/) [enough](/post/enough/) [to](/post/to/) [win](/post/win/) [the](/post/the/) lottery."
+- "[Fortune](/post/fortune/) smiles [on](/post/on/)": Indicates [that](/post/that/) [someone](/post/someone/) is experiencing [good](/post/good/) [luck](/post/luck/) [or](/post/or/) favorable circumstances. [Example](/post/example/): "[Fortune](/post/fortune/) seems [to](/post/to/) [be](/post/be/) smiling [on](/post/on/) [her](/post/her/) [lately](/post/lately/) [with](/post/with/) [all](/post/all/) [these](/post/these/) opportunities coming [her](/post/her/) [way](/post/way/)."
 
 ## Synonyms
-- [Lucky](/en/post/lucky/)
+- [Lucky](/post/lucky/)
 - Blessed
 - Thriving
-- [Prosperous](/en/post/prosperous/)
+- [Prosperous](/post/prosperous/)
 - Auspicious
 - Serendipitous
 - Boonful
@@ -34,12 +34,12 @@ keywords = ['ai words', 'fortunate']
 - Privileged
 
 ## Antonyms
-- [Unfortunate](/en/post/unfortunate/)
-- [Unlucky](/en/post/unlucky/)
+- [Unfortunate](/post/unfortunate/)
+- [Unlucky](/post/unlucky/)
 - Disadvantaged
 - Ill-fated
 - Misfortunate
 
-## [Example](/en/post/example/) Sentences
-- _Adjective ([phrase](/en/post/phrase/))_: "[They](/en/post/they/) were [fortunate](/en/post/fortunate/) [enough](/en/post/enough/) [to](/en/post/to/) [survive](/en/post/survive/) [the](/en/post/the/) [storm](/en/post/storm/) [without](/en/post/without/) [any](/en/post/any/) injuries."
-- _Adjective ([idiom](/en/post/idiom/))_: "[Being](/en/post/being/) [born](/en/post/born/) [into](/en/post/into/) [a](/en/post/a/) supportive [family](/en/post/family/) made [him](/en/post/him/) [feel](/en/post/feel/) [like](/en/post/like/) [the](/en/post/the/) [most](/en/post/most/) [fortunate](/en/post/fortunate/) [person](/en/post/person/) [alive](/en/post/alive/)."
+## [Example](/post/example/) Sentences
+- _Adjective ([phrase](/post/phrase/))_: "[They](/post/they/) were [fortunate](/post/fortunate/) [enough](/post/enough/) [to](/post/to/) [survive](/post/survive/) [the](/post/the/) [storm](/post/storm/) [without](/post/without/) [any](/post/any/) injuries."
+- _Adjective ([idiom](/post/idiom/))_: "[Being](/post/being/) [born](/post/born/) [into](/post/into/) [a](/post/a/) supportive [family](/post/family/) made [him](/post/him/) [feel](/post/feel/) [like](/post/like/) [the](/post/the/) [most](/post/most/) [fortunate](/post/fortunate/) [person](/post/person/) [alive](/post/alive/)."

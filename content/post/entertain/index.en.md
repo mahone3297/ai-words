@@ -7,39 +7,39 @@ description = '[ˌentəˈtein] vt.使欢乐；招待'
 keywords = ['ai words', 'entertain']
 +++
 
-## [Word](/en/post/word/): [Entertain](/en/post/entertain/)
+## [Word](/post/word/): [Entertain](/post/entertain/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌentərˈteɪn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-  - (vt) [To](/en/post/to/) [engage](/en/post/engage/) [the](/en/post/the/) [attention](/en/post/attention/) [or](/en/post/or/) [interest](/en/post/interest/) [of](/en/post/of/) [someone](/en/post/someone/) pleasantly; [to](/en/post/to/) [provide](/en/post/provide/) amusement [or](/en/post/or/) enjoyment [for](/en/post/for/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) entertained [their](/en/post/their/) guests [with](/en/post/with/) [music](/en/post/music/) [and](/en/post/and/) dancing."
-  - (vt) [To](/en/post/to/) [host](/en/post/host/) [or](/en/post/or/) [receive](/en/post/receive/) guests socially, [often](/en/post/often/) providing [food](/en/post/food/), drinks, [or](/en/post/or/) [some](/en/post/some/) [form](/en/post/form/) [of](/en/post/of/) amusement. [Example](/en/post/example/): "[The](/en/post/the/) [couple](/en/post/couple/) loves [to](/en/post/to/) [entertain](/en/post/entertain/) friends [at](/en/post/at/) [their](/en/post/their/) [home](/en/post/home/) [on](/en/post/on/) weekends."
-  - (vt) [To](/en/post/to/) [consider](/en/post/consider/) [or](/en/post/or/) contemplate [something](/en/post/something/), [especially](/en/post/especially/) an [idea](/en/post/idea/) [or](/en/post/or/) [possibility](/en/post/possibility/). [Example](/en/post/example/): "I'm entertaining [the](/en/post/the/) [thought](/en/post/thought/) [of](/en/post/of/) moving [to](/en/post/to/) [another](/en/post/another/) [city](/en/post/city/)."
+- **[Verb](/post/verb/)**: 
+  - (vt) [To](/post/to/) [engage](/post/engage/) [the](/post/the/) [attention](/post/attention/) [or](/post/or/) [interest](/post/interest/) [of](/post/of/) [someone](/post/someone/) pleasantly; [to](/post/to/) [provide](/post/provide/) amusement [or](/post/or/) enjoyment [for](/post/for/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) entertained [their](/post/their/) guests [with](/post/with/) [music](/post/music/) [and](/post/and/) dancing."
+  - (vt) [To](/post/to/) [host](/post/host/) [or](/post/or/) [receive](/post/receive/) guests socially, [often](/post/often/) providing [food](/post/food/), drinks, [or](/post/or/) [some](/post/some/) [form](/post/form/) [of](/post/of/) amusement. [Example](/post/example/): "[The](/post/the/) [couple](/post/couple/) loves [to](/post/to/) [entertain](/post/entertain/) friends [at](/post/at/) [their](/post/their/) [home](/post/home/) [on](/post/on/) weekends."
+  - (vt) [To](/post/to/) [consider](/post/consider/) [or](/post/or/) contemplate [something](/post/something/), [especially](/post/especially/) an [idea](/post/idea/) [or](/post/or/) [possibility](/post/possibility/). [Example](/post/example/): "I'm entertaining [the](/post/the/) [thought](/post/thought/) [of](/post/of/) moving [to](/post/to/) [another](/post/another/) [city](/post/city/)."
   
-- **[Noun](/en/post/noun/)** ([usually](/en/post/usually/) [in](/en/post/in/) [the](/en/post/the/) [form](/en/post/form/) 'entertainment'): 
-  - [Something](/en/post/something/) [provided](/en/post/provided/) [to](/en/post/to/) [amuse](/en/post/amuse/) [or](/en/post/or/) [occupy](/en/post/occupy/) people's [leisure](/en/post/leisure/) [time](/en/post/time/), [like](/en/post/like/) [a](/en/post/a/) [show](/en/post/show/), [performance](/en/post/performance/), [or](/en/post/or/) [activity](/en/post/activity/). [Example](/en/post/example/): "[The](/en/post/the/) circus was [a](/en/post/a/) [grand](/en/post/grand/) entertainment [for](/en/post/for/) [all](/en/post/all/) ages."
-  - [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) entertaining guests [or](/en/post/or/) hosting [a](/en/post/a/) [social](/en/post/social/) [event](/en/post/event/). [Example](/en/post/example/): "Preparing [dinner](/en/post/dinner/) parties is [her](/en/post/her/) favorite [form](/en/post/form/) [of](/en/post/of/) entertainment."
+- **[Noun](/post/noun/)** ([usually](/post/usually/) [in](/post/in/) [the](/post/the/) [form](/post/form/) 'entertainment'): 
+  - [Something](/post/something/) [provided](/post/provided/) [to](/post/to/) [amuse](/post/amuse/) [or](/post/or/) [occupy](/post/occupy/) people's [leisure](/post/leisure/) [time](/post/time/), [like](/post/like/) [a](/post/a/) [show](/post/show/), [performance](/post/performance/), [or](/post/or/) [activity](/post/activity/). [Example](/post/example/): "[The](/post/the/) circus was [a](/post/a/) [grand](/post/grand/) entertainment [for](/post/for/) [all](/post/all/) ages."
+  - [The](/post/the/) [act](/post/act/) [of](/post/of/) entertaining guests [or](/post/or/) hosting [a](/post/a/) [social](/post/social/) [event](/post/event/). [Example](/post/example/): "Preparing [dinner](/post/dinner/) parties is [her](/post/her/) favorite [form](/post/form/) [of](/post/of/) entertainment."
 
 ## Phrases
-- "[Entertain](/en/post/entertain/) [a](/en/post/a/) [guest](/en/post/guest/)" [means](/en/post/means/) [to](/en/post/to/) [welcome](/en/post/welcome/) [and](/en/post/and/) [provide](/en/post/provide/) hospitality [to](/en/post/to/) [someone](/en/post/someone/) [in](/en/post/in/) one's [home](/en/post/home/) [or](/en/post/or/) [establishment](/en/post/establishment/).
-- "[Entertain](/en/post/entertain/) an [idea](/en/post/idea/)" implies considering [or](/en/post/or/) giving [thought](/en/post/thought/) [to](/en/post/to/) [a](/en/post/a/) notion [or](/en/post/or/) [proposal](/en/post/proposal/).
-- "Entertainment [industry](/en/post/industry/)" refers [to](/en/post/to/) businesses [or](/en/post/or/) activities involved [in](/en/post/in/) providing entertainment products [and](/en/post/and/) services.
+- "[Entertain](/post/entertain/) [a](/post/a/) [guest](/post/guest/)" [means](/post/means/) [to](/post/to/) [welcome](/post/welcome/) [and](/post/and/) [provide](/post/provide/) hospitality [to](/post/to/) [someone](/post/someone/) [in](/post/in/) one's [home](/post/home/) [or](/post/or/) [establishment](/post/establishment/).
+- "[Entertain](/post/entertain/) an [idea](/post/idea/)" implies considering [or](/post/or/) giving [thought](/post/thought/) [to](/post/to/) [a](/post/a/) notion [or](/post/or/) [proposal](/post/proposal/).
+- "Entertainment [industry](/post/industry/)" refers [to](/post/to/) businesses [or](/post/or/) activities involved [in](/post/in/) providing entertainment products [and](/post/and/) services.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[On](/en/post/on/) Saturday [night](/en/post/night/), [they](/en/post/they/) entertained [us](/en/post/us/) [with](/en/post/with/) [their](/en/post/their/) witty stories [and](/en/post/and/) [lively](/en/post/lively/) banter."
-- "[She](/en/post/she/) is currently entertaining [several](/en/post/several/) [job](/en/post/job/) offers [from](/en/post/from/) top-tier companies."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [play](/en/post/play/) promises [to](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) highlight [of](/en/post/of/) [this](/en/post/this/) season's entertainment [calendar](/en/post/calendar/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[On](/post/on/) Saturday [night](/post/night/), [they](/post/they/) entertained [us](/post/us/) [with](/post/with/) [their](/post/their/) witty stories [and](/post/and/) [lively](/post/lively/) banter."
+- "[She](/post/she/) is currently entertaining [several](/post/several/) [job](/post/job/) offers [from](/post/from/) top-tier companies."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [play](/post/play/) promises [to](/post/to/) [be](/post/be/) [the](/post/the/) highlight [of](/post/of/) [this](/post/this/) season's entertainment [calendar](/post/calendar/)."
 
 ## Synonyms
-- [Amuse](/en/post/amuse/)
-- [Delight](/en/post/delight/)
-- [Engage](/en/post/engage/)
+- [Amuse](/post/amuse/)
+- [Delight](/post/delight/)
+- [Engage](/post/engage/)
 - Divert
-- [Host](/en/post/host/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
-- [Accommodate](/en/post/accommodate/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) hosting guests)
-- [Consider](/en/post/consider/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) entertaining ideas)
+- [Host](/post/host/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))
+- [Accommodate](/post/accommodate/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) hosting guests)
+- [Consider](/post/consider/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) entertaining ideas)
 - Enthrall
 - Gratify
-- [Provide](/en/post/provide/) amusement [for](/en/post/for/)
+- [Provide](/post/provide/) amusement [for](/post/for/)

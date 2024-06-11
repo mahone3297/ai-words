@@ -11,20 +11,20 @@ keywords = ['ai words', 'candy']
 /ˈkændi/
 
 ## 释义
-- **名词 (n)**: 一种甜食，通常由糖和各种口味的混合物制成，可以是硬糖、软糖、巧克力等。例如: "[The](/post/the/) children [love](/post/love/) eating [candy](/post/candy/) [after](/post/after/) [dinner](/post/dinner/)."
-- **形容词 (adj)**: 用来形容甜美、讨人喜欢或像糖果一样诱人的。例如: "[That](/post/that/) [dress](/post/dress/) is [so](/post/so/) candy-colored, [it](/post/it/) looks [perfect](/post/perfect/) [for](/post/for/) [spring](/post/spring/)."
+- **名词 (n)**: 一种甜食，通常由糖和各种口味的混合物制成，可以是硬糖、软糖、巧克力等。例如: "[The](/zh/post/the/) children [love](/zh/post/love/) eating [candy](/zh/post/candy/) [after](/zh/post/after/) [dinner](/zh/post/dinner/)."
+- **形容词 (adj)**: 用来形容甜美、讨人喜欢或像糖果一样诱人的。例如: "[That](/zh/post/that/) [dress](/zh/post/dress/) is [so](/zh/post/so/) candy-colored, [it](/zh/post/it/) looks [perfect](/zh/post/perfect/) [for](/zh/post/for/) [spring](/zh/post/spring/)."
 
 ## 短语
-- "[Candy](/post/candy/) [store](/post/store/)" 是卖糖果的商店。
-- "[Candy](/post/candy/) [bar](/post/bar/)" 通常指的是巧克力棒或其他长条形的糖果。
+- "[Candy](/zh/post/candy/) [store](/zh/post/store/)" 是卖糖果的商店。
+- "[Candy](/zh/post/candy/) [bar](/zh/post/bar/)" 通常指的是巧克力棒或其他长条形的糖果。
 
 ## 例句
-- 名词: "[She](/post/she/) couldn't [resist](/post/resist/) [the](/post/the/) [temptation](/post/temptation/) [of](/post/of/) [the](/post/the/) [candy](/post/candy/) displayed [in](/post/in/) [the](/post/the/) [shop](/post/shop/) [window](/post/window/)."
-- 形容词: "[The](/post/the/) baby's [candy](/post/candy/) [smile](/post/smile/) melted everyone's hearts."
+- 名词: "[She](/zh/post/she/) couldn't [resist](/zh/post/resist/) [the](/zh/post/the/) [temptation](/zh/post/temptation/) [of](/zh/post/of/) [the](/zh/post/the/) [candy](/zh/post/candy/) displayed [in](/zh/post/in/) [the](/zh/post/the/) [shop](/zh/post/shop/) [window](/zh/post/window/)."
+- 形容词: "[The](/zh/post/the/) baby's [candy](/zh/post/candy/) [smile](/zh/post/smile/) melted everyone's hearts."
 
 ## 同义词
-- [Sweet](/post/sweet/)
-- [Treat](/post/treat/)
+- [Sweet](/zh/post/sweet/)
+- [Treat](/zh/post/treat/)
 - Confection
 - Dessert
-- Sugary [delight](/post/delight/)
+- Sugary [delight](/zh/post/delight/)

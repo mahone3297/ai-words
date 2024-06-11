@@ -11,21 +11,21 @@ keywords = ['ai words', 'receipt']
 /rɪˈsiːpt/
 
 ## 释义
-- **名词**: 收据；发票。例如: "[Please](/post/please/) [keep](/post/keep/) [your](/post/your/) [receipt](/post/receipt/) [for](/post/for/) warranty purposes."
-- **动词**: 发给收据；确认收到。例如: "[The](/post/the/) [store](/post/store/) [clerk](/post/clerk/) receipted [the](/post/the/) customer's [payment](/post/payment/)."
+- **名词**: 收据；发票。例如: "[Please](/zh/post/please/) [keep](/zh/post/keep/) [your](/zh/post/your/) [receipt](/zh/post/receipt/) [for](/zh/post/for/) warranty purposes."
+- **动词**: 发给收据；确认收到。例如: "[The](/zh/post/the/) [store](/zh/post/store/) [clerk](/zh/post/clerk/) receipted [the](/zh/post/the/) customer's [payment](/zh/post/payment/)."
 
 ## 短语
-- "[Cash](/post/cash/) [receipt](/post/receipt/)" 指的是现金收据。
-- "[Receipt](/post/receipt/) [of](/post/of/) [goods](/post/goods/)" 表示货物已收到。
-- "[Make](/post/make/) [out](/post/out/) [a](/post/a/) [receipt](/post/receipt/)" 意味着填写收据。
+- "[Cash](/zh/post/cash/) [receipt](/zh/post/receipt/)" 指的是现金收据。
+- "[Receipt](/zh/post/receipt/) [of](/zh/post/of/) [goods](/zh/post/goods/)" 表示货物已收到。
+- "[Make](/zh/post/make/) [out](/zh/post/out/) [a](/zh/post/a/) [receipt](/zh/post/receipt/)" 意味着填写收据。
 
 ## 例句
-- 名词: "I [need](/post/need/) [to](/post/to/) [find](/post/find/) [my](/post/my/) [receipt](/post/receipt/) [to](/post/to/) [return](/post/return/) [the](/post/the/) [faulty](/post/faulty/) [product](/post/product/)."
-- 动词: "[The](/post/the/) [bank](/post/bank/) [will](/post/will/) [receipt](/post/receipt/) [your](/post/your/) [deposit](/post/deposit/) [once](/post/once/) it's processed."
+- 名词: "I [need](/zh/post/need/) [to](/zh/post/to/) [find](/zh/post/find/) [my](/zh/post/my/) [receipt](/zh/post/receipt/) [to](/zh/post/to/) [return](/zh/post/return/) [the](/zh/post/the/) [faulty](/zh/post/faulty/) [product](/zh/post/product/)."
+- 动词: "[The](/zh/post/the/) [bank](/zh/post/bank/) [will](/zh/post/will/) [receipt](/zh/post/receipt/) [your](/zh/post/your/) [deposit](/zh/post/deposit/) [once](/zh/post/once/) it's processed."
 
 ## 同义词
 - Invoice
-- [Bill](/post/bill/)
-- [Statement](/post/statement/)
+- [Bill](/zh/post/bill/)
+- [Statement](/zh/post/statement/)
 - Confirmation
-- [Document](/post/document/)
+- [Document](/zh/post/document/)

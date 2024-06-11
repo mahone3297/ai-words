@@ -7,37 +7,37 @@ description = '[əˈwɔːd] n.奖，奖品；判定'
 keywords = ['ai words', 'award']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːrəd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. An honor [or](/en/post/or/) [prize](/en/post/prize/) given [for](/en/post/for/) [achievement](/en/post/achievement/), excellence, [or](/en/post/or/) [service](/en/post/service/): *[The](/en/post/the/) Nobel [Peace](/en/post/peace/) [Prize](/en/post/prize/) is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [most](/en/post/most/) prestigious awards.*
-2. [A](/en/post/a/) [public](/en/post/public/) declaration [of](/en/post/of/) [praise](/en/post/praise/) [or](/en/post/or/) [recognition](/en/post/recognition/): *[She](/en/post/she/) received an [award](/en/post/award/) [for](/en/post/for/) [her](/en/post/her/) [outstanding](/en/post/outstanding/) [work](/en/post/work/) [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/).*
+### [Noun](/post/noun/)
+1. An honor [or](/post/or/) [prize](/post/prize/) given [for](/post/for/) [achievement](/post/achievement/), excellence, [or](/post/or/) [service](/post/service/): *[The](/post/the/) Nobel [Peace](/post/peace/) [Prize](/post/prize/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) prestigious awards.*
+2. [A](/post/a/) [public](/post/public/) declaration [of](/post/of/) [praise](/post/praise/) [or](/post/or/) [recognition](/post/recognition/): *[She](/post/she/) received an [award](/post/award/) [for](/post/for/) [her](/post/her/) [outstanding](/post/outstanding/) [work](/post/work/) [in](/post/in/) [the](/post/the/) [field](/post/field/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) bestow [or](/en/post/or/) [give](/en/post/give/) ([a](/en/post/a/) [prize](/en/post/prize/), honor, [or](/en/post/or/) [distinction](/en/post/distinction/)): *[The](/en/post/the/) [president](/en/post/president/) [will](/en/post/will/) [be](/en/post/be/) awarding [the](/en/post/the/) medals [at](/en/post/at/) [the](/en/post/the/) [ceremony](/en/post/ceremony/).*
-2. [To](/en/post/to/) [recognize](/en/post/recognize/) [with](/en/post/with/) an [award](/en/post/award/): *[He](/en/post/he/) was awarded [a](/en/post/a/) [special](/en/post/special/) commendation [for](/en/post/for/) [his](/en/post/his/) bravery.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) bestow [or](/post/or/) [give](/post/give/) ([a](/post/a/) [prize](/post/prize/), honor, [or](/post/or/) [distinction](/post/distinction/)): *[The](/post/the/) [president](/post/president/) [will](/post/will/) [be](/post/be/) awarding [the](/post/the/) medals [at](/post/at/) [the](/post/the/) [ceremony](/post/ceremony/).*
+2. [To](/post/to/) [recognize](/post/recognize/) [with](/post/with/) an [award](/post/award/): *[He](/post/he/) was awarded [a](/post/a/) [special](/post/special/) commendation [for](/post/for/) [his](/post/his/) bravery.*
 
 ## Phrases
-- "[Award](/en/post/award/) [a](/en/post/a/) [prize](/en/post/prize/)" signifies giving [a](/en/post/a/) [reward](/en/post/reward/) [or](/en/post/or/) accolade.
-- "[Winner](/en/post/winner/) [of](/en/post/of/) [the](/en/post/the/) [award](/en/post/award/)" refers [to](/en/post/to/) [the](/en/post/the/) recipient [of](/en/post/of/) [the](/en/post/the/) [prize](/en/post/prize/) [or](/en/post/or/) honor.
-- "[Lifetime](/en/post/lifetime/) [achievement](/en/post/achievement/) [award](/en/post/award/)" is [a](/en/post/a/) [special](/en/post/special/) honor given [for](/en/post/for/) long-term excellence.
+- "[Award](/post/award/) [a](/post/a/) [prize](/post/prize/)" signifies giving [a](/post/a/) [reward](/post/reward/) [or](/post/or/) accolade.
+- "[Winner](/post/winner/) [of](/post/of/) [the](/post/the/) [award](/post/award/)" refers [to](/post/to/) [the](/post/the/) recipient [of](/post/of/) [the](/post/the/) [prize](/post/prize/) [or](/post/or/) honor.
+- "[Lifetime](/post/lifetime/) [achievement](/post/achievement/) [award](/post/award/)" is [a](/post/a/) [special](/post/special/) honor given [for](/post/for/) long-term excellence.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) was thrilled [to](/en/post/to/) [receive](/en/post/receive/) [the](/en/post/the/) [lifetime](/en/post/lifetime/) [achievement](/en/post/achievement/) [award](/en/post/award/) [at](/en/post/at/) [the](/en/post/the/) gala."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [the](/en/post/the/) [team](/en/post/team/) was [finally](/en/post/finally/) awarded [the](/en/post/the/) [contract](/en/post/contract/)."
-- **[Recognition](/en/post/recognition/)**: "[Many](/en/post/many/) [people](/en/post/people/) attended [the](/en/post/the/) [ceremony](/en/post/ceremony/) [to](/en/post/to/) [witness](/en/post/witness/) [the](/en/post/the/) awards [being](/en/post/being/) presented."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) was thrilled [to](/post/to/) [receive](/post/receive/) [the](/post/the/) [lifetime](/post/lifetime/) [achievement](/post/achievement/) [award](/post/award/) [at](/post/at/) [the](/post/the/) gala."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [the](/post/the/) [team](/post/team/) was [finally](/post/finally/) awarded [the](/post/the/) [contract](/post/contract/)."
+- **[Recognition](/post/recognition/)**: "[Many](/post/many/) [people](/post/people/) attended [the](/post/the/) [ceremony](/post/ceremony/) [to](/post/to/) [witness](/post/witness/) [the](/post/the/) awards [being](/post/being/) presented."
 
 ## Synonyms
 - Honor
-- [Prize](/en/post/prize/)
-- [Recognition](/en/post/recognition/)
+- [Prize](/post/prize/)
+- [Recognition](/post/recognition/)
 - Commendation
 - Plaudit
-- [Distinction](/en/post/distinction/)
-- [Certificate](/en/post/certificate/)
-- [Medal](/en/post/medal/)
+- [Distinction](/post/distinction/)
+- [Certificate](/post/certificate/)
+- [Medal](/post/medal/)
 - Trophy
 
 ## Antonyms

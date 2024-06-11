@@ -7,34 +7,34 @@ description = '[ˈtæksi] n.出租汽车'
 keywords = ['ai words', 'taxi']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tæksi/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [taxi](/en/post/taxi/) is [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [vehicle](/en/post/vehicle/) designed [for](/en/post/for/) [hire](/en/post/hire/), typically [with](/en/post/with/) [a](/en/post/a/) [driver](/en/post/driver/), [that](/en/post/that/) operates [on](/en/post/on/) [public](/en/post/public/) roads [to](/en/post/to/) [transport](/en/post/transport/) passengers [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/), [usually](/en/post/usually/) [for](/en/post/for/) [a](/en/post/a/) [fee](/en/post/fee/).
+### [Noun](/post/noun/)
+[A](/post/a/) [taxi](/post/taxi/) is [a](/post/a/) [type](/post/type/) [of](/post/of/) [vehicle](/post/vehicle/) designed [for](/post/for/) [hire](/post/hire/), typically [with](/post/with/) [a](/post/a/) [driver](/post/driver/), [that](/post/that/) operates [on](/post/on/) [public](/post/public/) roads [to](/post/to/) [transport](/post/transport/) passengers [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/), [usually](/post/usually/) [for](/post/for/) [a](/post/a/) [fee](/post/fee/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [taxi](/en/post/taxi/) ([as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/)): [To](/en/post/to/) [ride](/en/post/ride/) [or](/en/post/or/) [drive](/en/post/drive/) [a](/en/post/a/) [taxi](/en/post/taxi/). [To](/en/post/to/) maneuver [a](/en/post/a/) [vehicle](/en/post/vehicle/), [especially](/en/post/especially/) an [aircraft](/en/post/aircraft/), [in](/en/post/in/) [preparation](/en/post/preparation/) [for](/en/post/for/) takeoff [or](/en/post/or/) [landing](/en/post/landing/), [or](/en/post/or/) [to](/en/post/to/) [move](/en/post/move/) [along](/en/post/along/) [a](/en/post/a/) [road](/en/post/road/) [or](/en/post/or/) [area](/en/post/area/) [by](/en/post/by/) [short](/en/post/short/), controlled movements.
+### [Verb](/post/verb/)
+[To](/post/to/) [taxi](/post/taxi/) ([as](/post/as/) [a](/post/a/) [noun](/post/noun/)): [To](/post/to/) [ride](/post/ride/) [or](/post/or/) [drive](/post/drive/) [a](/post/a/) [taxi](/post/taxi/). [To](/post/to/) maneuver [a](/post/a/) [vehicle](/post/vehicle/), [especially](/post/especially/) an [aircraft](/post/aircraft/), [in](/post/in/) [preparation](/post/preparation/) [for](/post/for/) takeoff [or](/post/or/) [landing](/post/landing/), [or](/post/or/) [to](/post/to/) [move](/post/move/) [along](/post/along/) [a](/post/a/) [road](/post/road/) [or](/post/or/) [area](/post/area/) [by](/post/by/) [short](/post/short/), controlled movements.
 
-[To](/en/post/to/) [taxi](/en/post/taxi/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)): [To](/en/post/to/) [arrange](/en/post/arrange/) [for](/en/post/for/) [or](/en/post/or/) hail [a](/en/post/a/) [taxi](/en/post/taxi/) [for](/en/post/for/) [transportation](/en/post/transportation/).
+[To](/post/to/) [taxi](/post/taxi/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/)): [To](/post/to/) [arrange](/post/arrange/) [for](/post/for/) [or](/post/or/) hail [a](/post/a/) [taxi](/post/taxi/) [for](/post/for/) [transportation](/post/transportation/).
 
-### [Adjective](/en/post/adjective/)
-Taxi-like: Having [the](/en/post/the/) characteristics [or](/en/post/or/) [appearance](/en/post/appearance/) [of](/en/post/of/) [a](/en/post/a/) [taxi](/en/post/taxi/).
+### [Adjective](/post/adjective/)
+Taxi-like: Having [the](/post/the/) characteristics [or](/post/or/) [appearance](/post/appearance/) [of](/post/of/) [a](/post/a/) [taxi](/post/taxi/).
 
 ## Phrases
-- "[Get](/en/post/get/) [into](/en/post/into/) [a](/en/post/a/) [taxi](/en/post/taxi/)" [means](/en/post/means/) [to](/en/post/to/) [enter](/en/post/enter/) [a](/en/post/a/) [taxi](/en/post/taxi/) [for](/en/post/for/) [a](/en/post/a/) [ride](/en/post/ride/).
-- "[Taxi](/en/post/taxi/) [service](/en/post/service/)" refers [to](/en/post/to/) [the](/en/post/the/) [business](/en/post/business/) [of](/en/post/of/) providing [transportation](/en/post/transportation/) [by](/en/post/by/) [taxi](/en/post/taxi/).
-- "[Taxi](/en/post/taxi/) [stand](/en/post/stand/)" is [a](/en/post/a/) designated [area](/en/post/area/) [where](/en/post/where/) taxis [wait](/en/post/wait/) [for](/en/post/for/) passengers.
+- "[Get](/post/get/) [into](/post/into/) [a](/post/a/) [taxi](/post/taxi/)" [means](/post/means/) [to](/post/to/) [enter](/post/enter/) [a](/post/a/) [taxi](/post/taxi/) [for](/post/for/) [a](/post/a/) [ride](/post/ride/).
+- "[Taxi](/post/taxi/) [service](/post/service/)" refers [to](/post/to/) [the](/post/the/) [business](/post/business/) [of](/post/of/) providing [transportation](/post/transportation/) [by](/post/by/) [taxi](/post/taxi/).
+- "[Taxi](/post/taxi/) [stand](/post/stand/)" is [a](/post/a/) designated [area](/post/area/) [where](/post/where/) taxis [wait](/post/wait/) [for](/post/for/) passengers.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I hailed [a](/en/post/a/) [taxi](/en/post/taxi/) [and](/en/post/and/) gave [the](/en/post/the/) [driver](/en/post/driver/) [my](/en/post/my/) [destination](/en/post/destination/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [pilot](/en/post/pilot/) taxied [the](/en/post/the/) [plane](/en/post/plane/) [to](/en/post/to/) [the](/en/post/the/) runway [for](/en/post/for/) takeoff."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [taxi](/en/post/taxi/) was painted [in](/en/post/in/) [a](/en/post/a/) distinctive [yellow](/en/post/yellow/) [color](/en/post/color/), [typical](/en/post/typical/) [of](/en/post/of/) [many](/en/post/many/) cities."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I hailed [a](/post/a/) [taxi](/post/taxi/) [and](/post/and/) gave [the](/post/the/) [driver](/post/driver/) [my](/post/my/) [destination](/post/destination/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [pilot](/post/pilot/) taxied [the](/post/the/) [plane](/post/plane/) [to](/post/to/) [the](/post/the/) runway [for](/post/for/) takeoff."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) [taxi](/post/taxi/) was painted [in](/post/in/) [a](/post/a/) distinctive [yellow](/post/yellow/) [color](/post/color/), [typical](/post/typical/) [of](/post/of/) [many](/post/many/) cities."
 
 ## Synonyms
 - Cab
-- [Carriage](/en/post/carriage/)
-- [Vehicle](/en/post/vehicle/) ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [taxi](/en/post/taxi/) specifically)
+- [Carriage](/post/carriage/)
+- [Vehicle](/post/vehicle/) ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) [taxi](/post/taxi/) specifically)
 - Ride-hailing (e.g., Uber, Lyft)
-- Shuttle ([in](/en/post/in/) [specific](/en/post/specific/) contexts)
+- Shuttle ([in](/post/in/) [specific](/post/specific/) contexts)

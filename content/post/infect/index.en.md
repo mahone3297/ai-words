@@ -7,30 +7,30 @@ description = '[inˈfekt] vt.传染；感染'
 keywords = ['ai words', 'infect']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈfekt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [spread](/en/post/spread/) [a](/en/post/a/) [disease](/en/post/disease/), virus, [or](/en/post/or/) [harmful](/en/post/harmful/) [organism](/en/post/organism/) [from](/en/post/from/) [one](/en/post/one/) [living](/en/post/living/) [thing](/en/post/thing/) [to](/en/post/to/) [another](/en/post/another/); [to](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [be](/en/post/be/) affected [by](/en/post/by/) [a](/en/post/a/) [disease](/en/post/disease/) [or](/en/post/or/) [bad](/en/post/bad/) [influence](/en/post/influence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [flu](/en/post/flu/) virus infected [many](/en/post/many/) [people](/en/post/people/) [during](/en/post/during/) [the](/en/post/the/) [winter](/en/post/winter/) [season](/en/post/season/)."
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) infecting [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) infected; [a](/en/post/a/) [disease](/en/post/disease/) [or](/en/post/or/) infection. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [early](/en/post/early/) [detection](/en/post/detection/) [of](/en/post/of/) [the](/en/post/the/) infection was crucial [to](/en/post/to/) [prevent](/en/post/prevent/) [its](/en/post/its/) [spread](/en/post/spread/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [spread](/post/spread/) [a](/post/a/) [disease](/post/disease/), virus, [or](/post/or/) [harmful](/post/harmful/) [organism](/post/organism/) [from](/post/from/) [one](/post/one/) [living](/post/living/) [thing](/post/thing/) [to](/post/to/) [another](/post/another/); [to](/post/to/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [be](/post/be/) affected [by](/post/by/) [a](/post/a/) [disease](/post/disease/) [or](/post/or/) [bad](/post/bad/) [influence](/post/influence/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [flu](/post/flu/) virus infected [many](/post/many/) [people](/post/people/) [during](/post/during/) [the](/post/the/) [winter](/post/winter/) [season](/post/season/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) infecting [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) infected; [a](/post/a/) [disease](/post/disease/) [or](/post/or/) infection. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [early](/post/early/) [detection](/post/detection/) [of](/post/of/) [the](/post/the/) infection was crucial [to](/post/to/) [prevent](/post/prevent/) [its](/post/its/) [spread](/post/spread/)."
 
 ## Phrases
-- "Infectious [disease](/en/post/disease/)" refers [to](/en/post/to/) [a](/en/post/a/) [disease](/en/post/disease/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) transmitted [from](/en/post/from/) [one](/en/post/one/) [person](/en/post/person/) [to](/en/post/to/) [another](/en/post/another/) [through](/en/post/through/) [contact](/en/post/contact/), [air](/en/post/air/), bodily fluids, [or](/en/post/or/) vectors.
-- "[To](/en/post/to/) [infect](/en/post/infect/) [with](/en/post/with/) [enthusiasm](/en/post/enthusiasm/)" is [a](/en/post/a/) metaphorical [usage](/en/post/usage/) [meaning](/en/post/meaning/) [to](/en/post/to/) [inspire](/en/post/inspire/) [someone](/en/post/someone/) [with](/en/post/with/) excitement [or](/en/post/or/) eagerness.
-- "[To](/en/post/to/) [infect](/en/post/infect/) [the](/en/post/the/) [mind](/en/post/mind/)" suggests influencing someone's thoughts [or](/en/post/or/) beliefs negatively.
+- "Infectious [disease](/post/disease/)" refers [to](/post/to/) [a](/post/a/) [disease](/post/disease/) [that](/post/that/) [can](/post/can/) [be](/post/be/) transmitted [from](/post/from/) [one](/post/one/) [person](/post/person/) [to](/post/to/) [another](/post/another/) [through](/post/through/) [contact](/post/contact/), [air](/post/air/), bodily fluids, [or](/post/or/) vectors.
+- "[To](/post/to/) [infect](/post/infect/) [with](/post/with/) [enthusiasm](/post/enthusiasm/)" is [a](/post/a/) metaphorical [usage](/post/usage/) [meaning](/post/meaning/) [to](/post/to/) [inspire](/post/inspire/) [someone](/post/someone/) [with](/post/with/) excitement [or](/post/or/) eagerness.
+- "[To](/post/to/) [infect](/post/infect/) [the](/post/the/) [mind](/post/mind/)" suggests influencing someone's thoughts [or](/post/or/) beliefs negatively.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) worried [she](/en/post/she/) [might](/en/post/might/) [have](/en/post/have/) infected [her](/en/post/her/) coworkers [after](/en/post/after/) coming [down](/en/post/down/) [with](/en/post/with/) [the](/en/post/the/) [flu](/en/post/flu/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) patient's [recovery](/en/post/recovery/) was delayed [due](/en/post/due/) [to](/en/post/to/) [a](/en/post/a/) [severe](/en/post/severe/) [chest](/en/post/chest/) infection."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[She](/post/she/) worried [she](/post/she/) [might](/post/might/) [have](/post/have/) infected [her](/post/her/) coworkers [after](/post/after/) coming [down](/post/down/) [with](/post/with/) [the](/post/the/) [flu](/post/flu/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) patient's [recovery](/post/recovery/) was delayed [due](/post/due/) [to](/post/to/) [a](/post/a/) [severe](/post/severe/) [chest](/post/chest/) infection."
 
 ## Synonyms
 - Contaminate (v)
-- [Transmit](/en/post/transmit/) (v)
-- [Spread](/en/post/spread/) (v)
+- [Transmit](/post/transmit/) (v)
+- [Spread](/post/spread/) (v)
 - Impair (v)
-- [Disease](/en/post/disease/) (n)
-- [Illness](/en/post/illness/) (n)
-- [Sickness](/en/post/sickness/) (n)
+- [Disease](/post/disease/) (n)
+- [Illness](/post/illness/) (n)
+- [Sickness](/post/sickness/) (n)
 - Infection (n) 
 
-[Note](/en/post/note/): [As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), "[infect](/en/post/infect/)" doesn't [have](/en/post/have/) [direct](/en/post/direct/) synonyms [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) spreading diseases, [but](/en/post/but/) words [like](/en/post/like/) 'contaminate', '[transmit](/en/post/transmit/)' [and](/en/post/and/) '[spread](/en/post/spread/)' are [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [similar](/en/post/similar/) contexts. [As](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), "infection", "[disease](/en/post/disease/)", "[illness](/en/post/illness/)", [and](/en/post/and/) "[sickness](/en/post/sickness/)" denote [similar](/en/post/similar/) concepts.
+[Note](/post/note/): [As](/post/as/) [a](/post/a/) [verb](/post/verb/), "[infect](/post/infect/)" doesn't [have](/post/have/) [direct](/post/direct/) synonyms [in](/post/in/) [the](/post/the/) context [of](/post/of/) spreading diseases, [but](/post/but/) words [like](/post/like/) 'contaminate', '[transmit](/post/transmit/)' [and](/post/and/) '[spread](/post/spread/)' are [often](/post/often/) [used](/post/used/) [in](/post/in/) [similar](/post/similar/) contexts. [As](/post/as/) [a](/post/a/) [noun](/post/noun/), "infection", "[disease](/post/disease/)", "[illness](/post/illness/)", [and](/post/and/) "[sickness](/post/sickness/)" denote [similar](/post/similar/) concepts.

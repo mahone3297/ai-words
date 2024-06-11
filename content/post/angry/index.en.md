@@ -7,35 +7,35 @@ description = '[ˈæŋgri] a.愤怒的，生气的'
 keywords = ['ai words', 'angry']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæŋgri/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Anger](/en/post/anger/)**: [A](/en/post/a/) [strong](/en/post/strong/) [feeling](/en/post/feeling/) [of](/en/post/of/) annoyance, displeasure, [or](/en/post/or/) hostility towards [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [due](/en/post/due/) [to](/en/post/to/) injustice, frustration, [or](/en/post/or/) provocation. [Example](/en/post/example/): "[She](/en/post/she/) was filled [with](/en/post/with/) [anger](/en/post/anger/) [after](/en/post/after/) witnessing [the](/en/post/the/) [unfair](/en/post/unfair/) [treatment](/en/post/treatment/)."
+### [Noun](/post/noun/)
+**[Anger](/post/anger/)**: [A](/post/a/) [strong](/post/strong/) [feeling](/post/feeling/) [of](/post/of/) annoyance, displeasure, [or](/post/or/) hostility towards [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [due](/post/due/) [to](/post/to/) injustice, frustration, [or](/post/or/) provocation. [Example](/post/example/): "[She](/post/she/) was filled [with](/post/with/) [anger](/post/anger/) [after](/post/after/) witnessing [the](/post/the/) [unfair](/post/unfair/) [treatment](/post/treatment/)."
 
-### [Verb](/en/post/verb/)
-**[To](/en/post/to/) [be](/en/post/be/) [angry](/en/post/angry/)**: [To](/en/post/to/) [experience](/en/post/experience/) [or](/en/post/or/) [show](/en/post/show/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) annoyance, displeasure, [or](/en/post/or/) hostility. [Example](/en/post/example/): "[He](/en/post/he/) was [angry](/en/post/angry/) [at](/en/post/at/) [his](/en/post/his/) partner's [constant](/en/post/constant/) delays."
+### [Verb](/post/verb/)
+**[To](/post/to/) [be](/post/be/) [angry](/post/angry/)**: [To](/post/to/) [experience](/post/experience/) [or](/post/or/) [show](/post/show/) [a](/post/a/) [state](/post/state/) [of](/post/of/) annoyance, displeasure, [or](/post/or/) hostility. [Example](/post/example/): "[He](/post/he/) was [angry](/post/angry/) [at](/post/at/) [his](/post/his/) partner's [constant](/post/constant/) delays."
 
-### [Adjective](/en/post/adjective/)
-**[Angry](/en/post/angry/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) showing [a](/en/post/a/) readiness [to](/en/post/to/) [express](/en/post/express/) annoyance, displeasure, [or](/en/post/or/) hostility. [Example](/en/post/example/): "[The](/en/post/the/) [angry](/en/post/angry/) mob demanded [justice](/en/post/justice/)."
+### [Adjective](/post/adjective/)
+**[Angry](/post/angry/)**: Characterized [by](/post/by/) [or](/post/or/) showing [a](/post/a/) readiness [to](/post/to/) [express](/post/express/) annoyance, displeasure, [or](/post/or/) hostility. [Example](/post/example/): "[The](/post/the/) [angry](/post/angry/) mob demanded [justice](/post/justice/)."
 
-### [Adverb](/en/post/adverb/)
-**Angrily**: [In](/en/post/in/) an [angry](/en/post/angry/) [manner](/en/post/manner/); [with](/en/post/with/) [anger](/en/post/anger/). [Example](/en/post/example/): "[He](/en/post/he/) slammed [the](/en/post/the/) [door](/en/post/door/) angrily."
+### [Adverb](/post/adverb/)
+**Angrily**: [In](/post/in/) an [angry](/post/angry/) [manner](/post/manner/); [with](/post/with/) [anger](/post/anger/). [Example](/post/example/): "[He](/post/he/) slammed [the](/post/the/) [door](/post/door/) angrily."
 
 ## Phrases
-- "Lost [my](/en/post/my/) [temper](/en/post/temper/)" [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) [angry](/en/post/angry/) [and](/en/post/and/) [lose](/en/post/lose/) [control](/en/post/control/).
-- "[Keep](/en/post/keep/) [your](/en/post/your/) [cool](/en/post/cool/)" is [a](/en/post/a/) [suggestion](/en/post/suggestion/) [to](/en/post/to/) [remain](/en/post/remain/) [calm](/en/post/calm/) [and](/en/post/and/) [not](/en/post/not/) [get](/en/post/get/) [angry](/en/post/angry/).
-- "Don't [take](/en/post/take/) [it](/en/post/it/) personally" implies [not](/en/post/not/) [to](/en/post/to/) [become](/en/post/become/) [angry](/en/post/angry/) [over](/en/post/over/) [a](/en/post/a/) perceived [slight](/en/post/slight/).
+- "Lost [my](/post/my/) [temper](/post/temper/)" [means](/post/means/) [to](/post/to/) [become](/post/become/) [angry](/post/angry/) [and](/post/and/) [lose](/post/lose/) [control](/post/control/).
+- "[Keep](/post/keep/) [your](/post/your/) [cool](/post/cool/)" is [a](/post/a/) [suggestion](/post/suggestion/) [to](/post/to/) [remain](/post/remain/) [calm](/post/calm/) [and](/post/and/) [not](/post/not/) [get](/post/get/) [angry](/post/angry/).
+- "Don't [take](/post/take/) [it](/post/it/) personally" implies [not](/post/not/) [to](/post/to/) [become](/post/become/) [angry](/post/angry/) [over](/post/over/) [a](/post/a/) perceived [slight](/post/slight/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [anger](/en/post/anger/) boiled [over](/en/post/over/) [when](/en/post/when/) [he](/en/post/he/) heard [the](/en/post/the/) [news](/en/post/news/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tried [to](/en/post/to/) [calm](/en/post/calm/) [herself](/en/post/herself/) [down](/en/post/down/) [before](/en/post/before/) [she](/en/post/she/) became [too](/en/post/too/) [angry](/en/post/angry/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [angry](/en/post/angry/) [expression](/en/post/expression/) [on](/en/post/on/) [his](/en/post/his/) [face](/en/post/face/) showed [his](/en/post/his/) dissatisfaction."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) shouted angrily [at](/en/post/at/) [the](/en/post/the/) [waiter](/en/post/waiter/) [for](/en/post/for/) [the](/en/post/the/) [mistake](/en/post/mistake/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [anger](/post/anger/) boiled [over](/post/over/) [when](/post/when/) [he](/post/he/) heard [the](/post/the/) [news](/post/news/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tried [to](/post/to/) [calm](/post/calm/) [herself](/post/herself/) [down](/post/down/) [before](/post/before/) [she](/post/she/) became [too](/post/too/) [angry](/post/angry/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [angry](/post/angry/) [expression](/post/expression/) [on](/post/on/) [his](/post/his/) [face](/post/face/) showed [his](/post/his/) dissatisfaction."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) shouted angrily [at](/post/at/) [the](/post/the/) [waiter](/post/waiter/) [for](/post/for/) [the](/post/the/) [mistake](/post/mistake/)."
 
 ## Synonyms
-- [Furious](/en/post/furious/)
+- [Furious](/post/furious/)
 - Enraged
 - Irritated
 - Livid

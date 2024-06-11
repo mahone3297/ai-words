@@ -11,22 +11,22 @@ keywords = ['ai words', 'tidy']
 /tɪˈdaɪ/
 
 ## 释义
-- **形容词**: 整齐的，有序的。例如: "[She](/post/she/) likes [to](/post/to/) [keep](/post/keep/) [her](/post/her/) [room](/post/room/) [tidy](/post/tidy/)."
-- **动词**: 整理，收拾。例如: "I [need](/post/need/) [to](/post/to/) [tidy](/post/tidy/) [up](/post/up/) [the](/post/the/) [living](/post/living/) [room](/post/room/) [before](/post/before/) guests [arrive](/post/arrive/)."
-- **名词**: 整理，收拾的过程或结果。例如: "[After](/post/after/) [the](/post/the/) [party](/post/party/), [we](/post/we/) had [a](/post/a/) [lot](/post/lot/) [of](/post/of/) tidying [to](/post/to/) [do](/post/do/)."
+- **形容词**: 整齐的，有序的。例如: "[She](/zh/post/she/) likes [to](/zh/post/to/) [keep](/zh/post/keep/) [her](/zh/post/her/) [room](/zh/post/room/) [tidy](/zh/post/tidy/)."
+- **动词**: 整理，收拾。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [tidy](/zh/post/tidy/) [up](/zh/post/up/) [the](/zh/post/the/) [living](/zh/post/living/) [room](/zh/post/room/) [before](/zh/post/before/) guests [arrive](/zh/post/arrive/)."
+- **名词**: 整理，收拾的过程或结果。例如: "[After](/zh/post/after/) [the](/zh/post/the/) [party](/zh/post/party/), [we](/zh/post/we/) had [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) tidying [to](/zh/post/to/) [do](/zh/post/do/)."
 
 ## 短语
-- "[Tidy](/post/tidy/) [up](/post/up/)" 意味着把东西整理好，使地方变得整洁。
-- "[Tidy](/post/tidy/) [away](/post/away/)" 意味着把东西放回原处或藏起来，以保持整洁。
+- "[Tidy](/zh/post/tidy/) [up](/zh/post/up/)" 意味着把东西整理好，使地方变得整洁。
+- "[Tidy](/zh/post/tidy/) [away](/zh/post/away/)" 意味着把东西放回原处或藏起来，以保持整洁。
 
 ## 例句
-- 形容词: "[The](/post/the/) [desk](/post/desk/) was [so](/post/so/) [tidy](/post/tidy/) [that](/post/that/) [you](/post/you/) [could](/post/could/) [find](/post/find/) [anything](/post/anything/) [easily](/post/easily/)."
-- 动词: "[Could](/post/could/) [you](/post/you/) [please](/post/please/) [tidy](/post/tidy/) [your](/post/your/) toys [before](/post/before/) bedtime?"
-- 名词: "[The](/post/the/) [house](/post/house/) looked [much](/post/much/) [better](/post/better/) [after](/post/after/) [a](/post/a/) [good](/post/good/) [tidy](/post/tidy/)."
+- 形容词: "[The](/zh/post/the/) [desk](/zh/post/desk/) was [so](/zh/post/so/) [tidy](/zh/post/tidy/) [that](/zh/post/that/) [you](/zh/post/you/) [could](/zh/post/could/) [find](/zh/post/find/) [anything](/zh/post/anything/) [easily](/zh/post/easily/)."
+- 动词: "[Could](/zh/post/could/) [you](/zh/post/you/) [please](/zh/post/please/) [tidy](/zh/post/tidy/) [your](/zh/post/your/) toys [before](/zh/post/before/) bedtime?"
+- 名词: "[The](/zh/post/the/) [house](/zh/post/house/) looked [much](/zh/post/much/) [better](/zh/post/better/) [after](/zh/post/after/) [a](/zh/post/a/) [good](/zh/post/good/) [tidy](/zh/post/tidy/)."
 
 ## 同义词
-- [Neat](/post/neat/)
+- [Neat](/zh/post/neat/)
 - Organized
-- [Clean](/post/clean/)
+- [Clean](/zh/post/clean/)
 - Shipshape
-- Spruced [up](/post/up/)
+- Spruced [up](/zh/post/up/)

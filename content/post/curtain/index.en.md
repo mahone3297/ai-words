@@ -7,33 +7,33 @@ description = '[ˈkəːtən] n.帘，窗帘；幕(布)'
 keywords = ['ai words', 'curtain']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈrtɪn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) hanging [fabric](/en/post/fabric/) [or](/en/post/or/) [material](/en/post/material/), [usually](/en/post/usually/) made [of](/en/post/of/) [heavy](/en/post/heavy/) [cloth](/en/post/cloth/), [that](/en/post/that/) is [used](/en/post/used/) [to](/en/post/to/) [cover](/en/post/cover/) [a](/en/post/a/) [window](/en/post/window/) [or](/en/post/or/) partition [to](/en/post/to/) [block](/en/post/block/) [light](/en/post/light/), [sound](/en/post/sound/), [or](/en/post/or/) [view](/en/post/view/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [stage](/en/post/stage/) curtains opened [to](/en/post/to/) [reveal](/en/post/reveal/) [the](/en/post/the/) [lead](/en/post/lead/) [actor](/en/post/actor/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [lower](/en/post/lower/) [or](/en/post/or/) [close](/en/post/close/) ([a](/en/post/a/) [curtain](/en/post/curtain/)) [to](/en/post/to/) [block](/en/post/block/) [light](/en/post/light/) [or](/en/post/or/) visibility. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) drew [the](/en/post/the/) curtains [to](/en/post/to/) darken [the](/en/post/the/) [room](/en/post/room/)."
-- **[Adjective](/en/post/adjective/)**: Characterizing [or](/en/post/or/) relating [to](/en/post/to/) [a](/en/post/a/) covering, [especially](/en/post/especially/) [a](/en/post/a/) hanging [one](/en/post/one/), [for](/en/post/for/) windows [or](/en/post/or/) doors. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [velvet](/en/post/velvet/) [curtain](/en/post/curtain/) adds elegance [to](/en/post/to/) [the](/en/post/the/) [living](/en/post/living/) [room](/en/post/room/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [piece](/post/piece/) [of](/post/of/) hanging [fabric](/post/fabric/) [or](/post/or/) [material](/post/material/), [usually](/post/usually/) made [of](/post/of/) [heavy](/post/heavy/) [cloth](/post/cloth/), [that](/post/that/) is [used](/post/used/) [to](/post/to/) [cover](/post/cover/) [a](/post/a/) [window](/post/window/) [or](/post/or/) partition [to](/post/to/) [block](/post/block/) [light](/post/light/), [sound](/post/sound/), [or](/post/or/) [view](/post/view/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [stage](/post/stage/) curtains opened [to](/post/to/) [reveal](/post/reveal/) [the](/post/the/) [lead](/post/lead/) [actor](/post/actor/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [lower](/post/lower/) [or](/post/or/) [close](/post/close/) ([a](/post/a/) [curtain](/post/curtain/)) [to](/post/to/) [block](/post/block/) [light](/post/light/) [or](/post/or/) visibility. [For](/post/for/) [example](/post/example/): "[She](/post/she/) drew [the](/post/the/) curtains [to](/post/to/) darken [the](/post/the/) [room](/post/room/)."
+- **[Adjective](/post/adjective/)**: Characterizing [or](/post/or/) relating [to](/post/to/) [a](/post/a/) covering, [especially](/post/especially/) [a](/post/a/) hanging [one](/post/one/), [for](/post/for/) windows [or](/post/or/) doors. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [velvet](/post/velvet/) [curtain](/post/curtain/) adds elegance [to](/post/to/) [the](/post/the/) [living](/post/living/) [room](/post/room/)."
 
 ## Phrases
-- "[Pull](/en/post/pull/) [back](/en/post/back/) [the](/en/post/the/) curtains" [means](/en/post/means/) [to](/en/post/to/) [open](/en/post/open/) [them](/en/post/them/) [to](/en/post/to/) [let](/en/post/let/) [in](/en/post/in/) [light](/en/post/light/).
-- "[Stage](/en/post/stage/) curtains" are [those](/en/post/those/) [used](/en/post/used/) [in](/en/post/in/) theaters.
-- "Sheer curtains" [allow](/en/post/allow/) [some](/en/post/some/) [light](/en/post/light/) [to](/en/post/to/) [pass](/en/post/pass/) [through](/en/post/through/).
+- "[Pull](/post/pull/) [back](/post/back/) [the](/post/the/) curtains" [means](/post/means/) [to](/post/to/) [open](/post/open/) [them](/post/them/) [to](/post/to/) [let](/post/let/) [in](/post/in/) [light](/post/light/).
+- "[Stage](/post/stage/) curtains" are [those](/post/those/) [used](/post/used/) [in](/post/in/) theaters.
+- "Sheer curtains" [allow](/post/allow/) [some](/post/some/) [light](/post/light/) [to](/post/to/) [pass](/post/pass/) [through](/post/through/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) theater had [heavy](/en/post/heavy/) [velvet](/en/post/velvet/) curtains [that](/en/post/that/) [could](/en/post/could/) [be](/en/post/be/) drawn [across](/en/post/across/) [the](/en/post/the/) [stage](/en/post/stage/)."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/), [she](/en/post/she/) likes [to](/en/post/to/) [wake](/en/post/wake/) [up](/en/post/up/) [slowly](/en/post/slowly/) [by](/en/post/by/) [opening](/en/post/opening/) [the](/en/post/the/) curtains [slowly](/en/post/slowly/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [apartment](/en/post/apartment/) had [large](/en/post/large/), floor-to-ceiling curtains [that](/en/post/that/) softened [the](/en/post/the/) [view](/en/post/view/) [outside](/en/post/outside/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) theater had [heavy](/post/heavy/) [velvet](/post/velvet/) curtains [that](/post/that/) [could](/post/could/) [be](/post/be/) drawn [across](/post/across/) [the](/post/the/) [stage](/post/stage/)."
+- **[Verb](/post/verb/)**: "[In](/post/in/) [the](/post/the/) [morning](/post/morning/), [she](/post/she/) likes [to](/post/to/) [wake](/post/wake/) [up](/post/up/) [slowly](/post/slowly/) [by](/post/by/) [opening](/post/opening/) [the](/post/the/) curtains [slowly](/post/slowly/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [apartment](/post/apartment/) had [large](/post/large/), floor-to-ceiling curtains [that](/post/that/) softened [the](/post/the/) [view](/post/view/) [outside](/post/outside/)."
 
 ## Synonyms
 - Drapes
 - Sheer
 - Blinds
 - Valance
-- [Screen](/en/post/screen/)
+- [Screen](/post/screen/)
 - Partition
 
 ## Antonyms
-- [Open](/en/post/open/)
-- [Transparent](/en/post/transparent/)
-- [Bare](/en/post/bare/) ([window](/en/post/window/))
+- [Open](/post/open/)
+- [Transparent](/post/transparent/)
+- [Bare](/post/bare/) ([window](/post/window/))

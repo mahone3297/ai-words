@@ -7,38 +7,38 @@ description = '[ˈ∫əuldə] n.肩，肩膀；挑起'
 keywords = ['ai words', 'shoulder']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʃəʊldər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [body](/en/post/body/)**: [A](/en/post/a/) [broad](/en/post/broad/), curved [bone](/en/post/bone/) [at](/en/post/at/) [the](/en/post/the/) [top](/en/post/top/) [of](/en/post/of/) [the](/en/post/the/) [arm](/en/post/arm/) [that](/en/post/that/) connects [the](/en/post/the/) torso [to](/en/post/to/) [the](/en/post/the/) [arm](/en/post/arm/), typically supporting [the](/en/post/the/) [weight](/en/post/weight/) [of](/en/post/of/) [the](/en/post/the/) [upper](/en/post/upper/) [limb](/en/post/limb/) [and](/en/post/and/) allowing [for](/en/post/for/) [movement](/en/post/movement/) [of](/en/post/of/) [the](/en/post/the/) [arm](/en/post/arm/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) rested [her](/en/post/her/) [elbow](/en/post/elbow/) [on](/en/post/on/) [the](/en/post/the/) [wooden](/en/post/wooden/) [shoulder](/en/post/shoulder/)."
-2. **[Shoulder](/en/post/shoulder/) [of](/en/post/of/) [responsibility](/en/post/responsibility/)**: [The](/en/post/the/) [task](/en/post/task/) [or](/en/post/or/) [burden](/en/post/burden/) [of](/en/post/of/) taking [charge](/en/post/charge/) [or](/en/post/or/) making decisions, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [leadership](/en/post/leadership/) [role](/en/post/role/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) [leader](/en/post/leader/) shouldered [the](/en/post/the/) [responsibility](/en/post/responsibility/) [for](/en/post/for/) [the](/en/post/the/) project's [success](/en/post/success/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [body](/post/body/)**: [A](/post/a/) [broad](/post/broad/), curved [bone](/post/bone/) [at](/post/at/) [the](/post/the/) [top](/post/top/) [of](/post/of/) [the](/post/the/) [arm](/post/arm/) [that](/post/that/) connects [the](/post/the/) torso [to](/post/to/) [the](/post/the/) [arm](/post/arm/), typically supporting [the](/post/the/) [weight](/post/weight/) [of](/post/of/) [the](/post/the/) [upper](/post/upper/) [limb](/post/limb/) [and](/post/and/) allowing [for](/post/for/) [movement](/post/movement/) [of](/post/of/) [the](/post/the/) [arm](/post/arm/).
+   - [Example](/post/example/): "[She](/post/she/) rested [her](/post/her/) [elbow](/post/elbow/) [on](/post/on/) [the](/post/the/) [wooden](/post/wooden/) [shoulder](/post/shoulder/)."
+2. **[Shoulder](/post/shoulder/) [of](/post/of/) [responsibility](/post/responsibility/)**: [The](/post/the/) [task](/post/task/) [or](/post/or/) [burden](/post/burden/) [of](/post/of/) taking [charge](/post/charge/) [or](/post/or/) making decisions, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [leadership](/post/leadership/) [role](/post/role/).
+   - [Example](/post/example/): "[The](/post/the/) [team](/post/team/) [leader](/post/leader/) shouldered [the](/post/the/) [responsibility](/post/responsibility/) [for](/post/for/) [the](/post/the/) project's [success](/post/success/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [support](/en/post/support/) [with](/en/post/with/) [the](/en/post/the/) [shoulder](/en/post/shoulder/)**: [To](/en/post/to/) [hold](/en/post/hold/) [or](/en/post/or/) [bear](/en/post/bear/) [something](/en/post/something/), [often](/en/post/often/) figuratively, using [the](/en/post/the/) [shoulder](/en/post/shoulder/) [for](/en/post/for/) [stability](/en/post/stability/) [or](/en/post/or/) [balance](/en/post/balance/).
-   - [Example](/en/post/example/): "[He](/en/post/he/) shouldered [the](/en/post/the/) [heavy](/en/post/heavy/) [box](/en/post/box/) [onto](/en/post/onto/) [the](/en/post/the/) [shelf](/en/post/shelf/)."
-2. **[To](/en/post/to/) [bear](/en/post/bear/) [or](/en/post/or/) [endure](/en/post/endure/)**: [To](/en/post/to/) [tolerate](/en/post/tolerate/) [or](/en/post/or/) [carry](/en/post/carry/) [a](/en/post/a/) [burden](/en/post/burden/) [or](/en/post/or/) [hardship](/en/post/hardship/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) shouldered [the](/en/post/the/) [emotional](/en/post/emotional/) [pain](/en/post/pain/) [of](/en/post/of/) [the](/en/post/the/) [loss](/en/post/loss/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [support](/post/support/) [with](/post/with/) [the](/post/the/) [shoulder](/post/shoulder/)**: [To](/post/to/) [hold](/post/hold/) [or](/post/or/) [bear](/post/bear/) [something](/post/something/), [often](/post/often/) figuratively, using [the](/post/the/) [shoulder](/post/shoulder/) [for](/post/for/) [stability](/post/stability/) [or](/post/or/) [balance](/post/balance/).
+   - [Example](/post/example/): "[He](/post/he/) shouldered [the](/post/the/) [heavy](/post/heavy/) [box](/post/box/) [onto](/post/onto/) [the](/post/the/) [shelf](/post/shelf/)."
+2. **[To](/post/to/) [bear](/post/bear/) [or](/post/or/) [endure](/post/endure/)**: [To](/post/to/) [tolerate](/post/tolerate/) [or](/post/or/) [carry](/post/carry/) [a](/post/a/) [burden](/post/burden/) [or](/post/or/) [hardship](/post/hardship/).
+   - [Example](/post/example/): "[She](/post/she/) shouldered [the](/post/the/) [emotional](/post/emotional/) [pain](/post/pain/) [of](/post/of/) [the](/post/the/) [loss](/post/loss/)."
 
 ## Phrases
-- "[Put](/en/post/put/) one's [shoulder](/en/post/shoulder/) [to](/en/post/to/) [the](/en/post/the/) [wheel](/en/post/wheel/)" [to](/en/post/to/) [work](/en/post/work/) [hard](/en/post/hard/) [or](/en/post/or/) [make](/en/post/make/) an [effort](/en/post/effort/).
-- "Shoulder-to-shoulder": [Side](/en/post/side/) [by](/en/post/by/) [side](/en/post/side/), [in](/en/post/in/) [close](/en/post/close/) proximity.
-- "Shouldering [the](/en/post/the/) [blame](/en/post/blame/)" accepting [responsibility](/en/post/responsibility/) [for](/en/post/for/) [a](/en/post/a/) [mistake](/en/post/mistake/) [or](/en/post/or/) misfortune.
+- "[Put](/post/put/) one's [shoulder](/post/shoulder/) [to](/post/to/) [the](/post/the/) [wheel](/post/wheel/)" [to](/post/to/) [work](/post/work/) [hard](/post/hard/) [or](/post/or/) [make](/post/make/) an [effort](/post/effort/).
+- "Shoulder-to-shoulder": [Side](/post/side/) [by](/post/by/) [side](/post/side/), [in](/post/in/) [close](/post/close/) proximity.
+- "Shouldering [the](/post/the/) [blame](/post/blame/)" accepting [responsibility](/post/responsibility/) [for](/post/for/) [a](/post/a/) [mistake](/post/mistake/) [or](/post/or/) misfortune.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) hiker felt [a](/en/post/a/) [sharp](/en/post/sharp/) [pain](/en/post/pain/) [in](/en/post/in/) [his](/en/post/his/) [shoulder](/en/post/shoulder/) [after](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [climb](/en/post/climb/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) shouldered [his](/en/post/his/) [way](/en/post/way/) [through](/en/post/through/) [the](/en/post/the/) crowded [room](/en/post/room/)."
-- **Metaphorical [Usage](/en/post/usage/)**: "[The](/en/post/the/) [team](/en/post/team/) shouldered [their](/en/post/their/) responsibilities [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [on](/en/post/on/) [time](/en/post/time/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) hiker felt [a](/post/a/) [sharp](/post/sharp/) [pain](/post/pain/) [in](/post/in/) [his](/post/his/) [shoulder](/post/shoulder/) [after](/post/after/) [the](/post/the/) [long](/post/long/) [climb](/post/climb/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) shouldered [his](/post/his/) [way](/post/way/) [through](/post/through/) [the](/post/the/) crowded [room](/post/room/)."
+- **Metaphorical [Usage](/post/usage/)**: "[The](/post/the/) [team](/post/team/) shouldered [their](/post/their/) responsibilities [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [on](/post/on/) [time](/post/time/)."
 
 ## Synonyms
 - Hump (informal)
-- [Carry](/en/post/carry/)
-- [Bear](/en/post/bear/)
-- [Support](/en/post/support/)
-- [Endure](/en/post/endure/)
-- [Hold](/en/post/hold/)
+- [Carry](/post/carry/)
+- [Bear](/post/bear/)
+- [Support](/post/support/)
+- [Endure](/post/endure/)
+- [Hold](/post/hold/)
 - Elevate
-- [Rise](/en/post/rise/) [to](/en/post/to/) [the](/en/post/the/) [challenge](/en/post/challenge/)
+- [Rise](/post/rise/) [to](/post/to/) [the](/post/the/) [challenge](/post/challenge/)

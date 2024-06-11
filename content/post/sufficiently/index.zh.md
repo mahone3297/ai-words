@@ -14,17 +14,17 @@ keywords = ['ai words', 'sufficiently']
 - **副词**: 足够地，充分地，充足地。表示某事已经达到了足够的程度或标准。
 
 ## 短语
-- "[sufficiently](/post/sufficiently/) [advanced](/post/advanced/)" 充分发展或进步的
-- "[sufficiently](/post/sufficiently/) prepared" 准备充分的
+- "[sufficiently](/zh/post/sufficiently/) [advanced](/zh/post/advanced/)" 充分发展或进步的
+- "[sufficiently](/zh/post/sufficiently/) prepared" 准备充分的
 
 ## 例句
-- "[The](/post/the/) [amount](/post/amount/) [of](/post/of/) [food](/post/food/) [we](/post/we/) [have](/post/have/) is [sufficiently](/post/sufficiently/) [large](/post/large/) [for](/post/for/) [everyone](/post/everyone/) [to](/post/to/) [have](/post/have/) seconds."（我们有的食物足够每个人再吃一份。）
-- "[You](/post/you/) [need](/post/need/) [to](/post/to/) [study](/post/study/) [sufficiently](/post/sufficiently/) [to](/post/to/) [pass](/post/pass/) [the](/post/the/) [exam](/post/exam/)."（你需要充分学习才能通过考试。）
-- "[Her](/post/her/) [experience](/post/experience/) was [sufficiently](/post/sufficiently/) [diverse](/post/diverse/) [to](/post/to/) [handle](/post/handle/) [any](/post/any/) [challenge](/post/challenge/)."（她的经验足够丰富，可以应对任何挑战。）
+- "[The](/zh/post/the/) [amount](/zh/post/amount/) [of](/zh/post/of/) [food](/zh/post/food/) [we](/zh/post/we/) [have](/zh/post/have/) is [sufficiently](/zh/post/sufficiently/) [large](/zh/post/large/) [for](/zh/post/for/) [everyone](/zh/post/everyone/) [to](/zh/post/to/) [have](/zh/post/have/) seconds."（我们有的食物足够每个人再吃一份。）
+- "[You](/zh/post/you/) [need](/zh/post/need/) [to](/zh/post/to/) [study](/zh/post/study/) [sufficiently](/zh/post/sufficiently/) [to](/zh/post/to/) [pass](/zh/post/pass/) [the](/zh/post/the/) [exam](/zh/post/exam/)."（你需要充分学习才能通过考试。）
+- "[Her](/zh/post/her/) [experience](/zh/post/experience/) was [sufficiently](/zh/post/sufficiently/) [diverse](/zh/post/diverse/) [to](/zh/post/to/) [handle](/zh/post/handle/) [any](/zh/post/any/) [challenge](/zh/post/challenge/)."（她的经验足够丰富，可以应对任何挑战。）
 
 ## 同义词
 - adequately
-- [enough](/post/enough/)
-- [plenty](/post/plenty/)
+- [enough](/zh/post/enough/)
+- [plenty](/zh/post/plenty/)
 - abundantly
-- [more](/post/more/) [than](/post/than/) [enough](/post/enough/)
+- [more](/zh/post/more/) [than](/zh/post/than/) [enough](/zh/post/enough/)

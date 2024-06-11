@@ -7,34 +7,34 @@ description = '[ləuˈkei∫ən] n.位置，场所'
 keywords = ['ai words', 'location']
 +++
 
-## [Word](/en/post/word/): [Location](/en/post/location/)
+## [Word](/post/word/): [Location](/post/location/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌləʊkəˈkeɪʃn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [position](/en/post/position/) [where](/en/post/where/) [something](/en/post/something/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/). [It](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [physical](/en/post/physical/) [spot](/en/post/spot/), an [area](/en/post/area/), [or](/en/post/or/) [a](/en/post/a/) [specific](/en/post/specific/) [point](/en/post/point/) [within](/en/post/within/) [a](/en/post/a/) larger [space](/en/post/space/). [For](/en/post/for/) [example](/en/post/example/):
-  - _The [location](/en/post/location/) [of](/en/post/of/) [the](/en/post/the/) [restaurant](/en/post/restaurant/) is [perfect](/en/post/perfect/), [right](/en/post/right/) [in](/en/post/in/) [the](/en/post/the/) [heart](/en/post/heart/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/)._
-  - _We're looking [for](/en/post/for/) [a](/en/post/a/) filming [location](/en/post/location/) [with](/en/post/with/) [beautiful](/en/post/beautiful/) [natural](/en/post/natural/) [scenery](/en/post/scenery/)._
+- **[Noun](/post/noun/)**: [A](/post/a/) [place](/post/place/) [or](/post/or/) [position](/post/position/) [where](/post/where/) [something](/post/something/) [can](/post/can/) [be](/post/be/) [found](/post/found/). [It](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [physical](/post/physical/) [spot](/post/spot/), an [area](/post/area/), [or](/post/or/) [a](/post/a/) [specific](/post/specific/) [point](/post/point/) [within](/post/within/) [a](/post/a/) larger [space](/post/space/). [For](/post/for/) [example](/post/example/):
+  - _The [location](/post/location/) [of](/post/of/) [the](/post/the/) [restaurant](/post/restaurant/) is [perfect](/post/perfect/), [right](/post/right/) [in](/post/in/) [the](/post/the/) [heart](/post/heart/) [of](/post/of/) [the](/post/the/) [city](/post/city/)._
+  - _We're looking [for](/post/for/) [a](/post/a/) filming [location](/post/location/) [with](/post/with/) [beautiful](/post/beautiful/) [natural](/post/natural/) [scenery](/post/scenery/)._
 
 ## Phrases
-- **[At](/en/post/at/) [location](/en/post/location/)**: [Being](/en/post/being/) physically [present](/en/post/present/) [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/). [Example](/en/post/example/): "[The](/en/post/the/) [film](/en/post/film/) [crew](/en/post/crew/) was [already](/en/post/already/) [set](/en/post/set/) [up](/en/post/up/) [at](/en/post/at/) [location](/en/post/location/) [by](/en/post/by/) [sunrise](/en/post/sunrise/)."
-- **[Location](/en/post/location/) scouting**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [finding](/en/post/finding/) [suitable](/en/post/suitable/) places [to](/en/post/to/) [shoot](/en/post/shoot/) scenes [for](/en/post/for/) films, TV shows, [or](/en/post/or/) photographs.
-- **Location-based services**: Services [that](/en/post/that/) [use](/en/post/use/) real-time geodata [to](/en/post/to/) [provide](/en/post/provide/) [information](/en/post/information/) [or](/en/post/or/) services based [on](/en/post/on/) [a](/en/post/a/) user's [location](/en/post/location/).
+- **[At](/post/at/) [location](/post/location/)**: [Being](/post/being/) physically [present](/post/present/) [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/). [Example](/post/example/): "[The](/post/the/) [film](/post/film/) [crew](/post/crew/) was [already](/post/already/) [set](/post/set/) [up](/post/up/) [at](/post/at/) [location](/post/location/) [by](/post/by/) [sunrise](/post/sunrise/)."
+- **[Location](/post/location/) scouting**: [The](/post/the/) [process](/post/process/) [of](/post/of/) [finding](/post/finding/) [suitable](/post/suitable/) places [to](/post/to/) [shoot](/post/shoot/) scenes [for](/post/for/) films, TV shows, [or](/post/or/) photographs.
+- **Location-based services**: Services [that](/post/that/) [use](/post/use/) real-time geodata [to](/post/to/) [provide](/post/provide/) [information](/post/information/) [or](/post/or/) services based [on](/post/on/) [a](/post/a/) user's [location](/post/location/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: _They decided [to](/en/post/to/) [change](/en/post/change/) [the](/en/post/the/) [meeting](/en/post/meeting/) [location](/en/post/location/) [due](/en/post/due/) [to](/en/post/to/) [construction](/en/post/construction/) [nearby](/en/post/nearby/)._
-- _Finding [a](/en/post/a/) [prime](/en/post/prime/) [real](/en/post/real/) estate [location](/en/post/location/) is crucial [for](/en/post/for/) [a](/en/post/a/) [successful](/en/post/successful/) [business](/en/post/business/)._
-- _GPS helps [us](/en/post/us/) [determine](/en/post/determine/) [our](/en/post/our/) [exact](/en/post/exact/) [location](/en/post/location/) [anywhere](/en/post/anywhere/) [on](/en/post/on/) [Earth](/en/post/earth/)._
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: _They decided [to](/post/to/) [change](/post/change/) [the](/post/the/) [meeting](/post/meeting/) [location](/post/location/) [due](/post/due/) [to](/post/to/) [construction](/post/construction/) [nearby](/post/nearby/)._
+- _Finding [a](/post/a/) [prime](/post/prime/) [real](/post/real/) estate [location](/post/location/) is crucial [for](/post/for/) [a](/post/a/) [successful](/post/successful/) [business](/post/business/)._
+- _GPS helps [us](/post/us/) [determine](/post/determine/) [our](/post/our/) [exact](/post/exact/) [location](/post/location/) [anywhere](/post/anywhere/) [on](/post/on/) [Earth](/post/earth/)._
 
 ## Synonyms
-- [Place](/en/post/place/)
-- [Position](/en/post/position/)
-- [Site](/en/post/site/)
-- [Spot](/en/post/spot/)
+- [Place](/post/place/)
+- [Position](/post/position/)
+- [Site](/post/site/)
+- [Spot](/post/spot/)
 - Locale
-- [Area](/en/post/area/)
-- [Setting](/en/post/setting/)
-- [Situation](/en/post/situation/)
+- [Area](/post/area/)
+- [Setting](/post/setting/)
+- [Situation](/post/situation/)
 - Locality
 - Placement

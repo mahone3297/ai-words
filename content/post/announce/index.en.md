@@ -7,47 +7,47 @@ description = '[əˈnauns] vt.宣布，宣告，发表'
 keywords = ['ai words', 'announce']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈnaʊns/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) publicly declaring [or](/en/post/or/) making known, [especially](/en/post/especially/) [something](/en/post/something/) [important](/en/post/important/) [or](/en/post/or/) [significant](/en/post/significant/).
-2. An announcement: [The](/en/post/the/) [mayor](/en/post/mayor/) made an [official](/en/post/official/) announcement [about](/en/post/about/) [the](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/).
-3. [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) attracts [attention](/en/post/attention/) [or](/en/post/or/) draws [notice](/en/post/notice/): [She](/en/post/she/) was [the](/en/post/the/) [star](/en/post/star/) [of](/en/post/of/) [the](/en/post/the/) [show](/en/post/show/), an announcement [in](/en/post/in/) [herself](/en/post/herself/).
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) publicly declaring [or](/post/or/) making known, [especially](/post/especially/) [something](/post/something/) [important](/post/important/) [or](/post/or/) [significant](/post/significant/).
+2. An announcement: [The](/post/the/) [mayor](/post/mayor/) made an [official](/post/official/) announcement [about](/post/about/) [the](/post/the/) [new](/post/new/) [project](/post/project/).
+3. [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) attracts [attention](/post/attention/) [or](/post/or/) draws [notice](/post/notice/): [She](/post/she/) was [the](/post/the/) [star](/post/star/) [of](/post/of/) [the](/post/the/) [show](/post/show/), an announcement [in](/post/in/) [herself](/post/herself/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [declare](/en/post/declare/) [or](/en/post/or/) [communicate](/en/post/communicate/) officially: [He](/en/post/he/) announced [the](/en/post/the/) [winner](/en/post/winner/) [of](/en/post/of/) [the](/en/post/the/) [competition](/en/post/competition/).
-2. [To](/en/post/to/) [make](/en/post/make/) known [or](/en/post/or/) [reveal](/en/post/reveal/) ([news](/en/post/news/), [information](/en/post/information/), [or](/en/post/or/) [a](/en/post/a/) [plan](/en/post/plan/)): We'll [announce](/en/post/announce/) [our](/en/post/our/) [vacation](/en/post/vacation/) plans [next](/en/post/next/) [week](/en/post/week/).
-3. [To](/en/post/to/) [introduce](/en/post/introduce/) [or](/en/post/or/) [present](/en/post/present/) ([a](/en/post/a/) [speaker](/en/post/speaker/), performer, [or](/en/post/or/) [item](/en/post/item/)) [to](/en/post/to/) an [audience](/en/post/audience/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [declare](/post/declare/) [or](/post/or/) [communicate](/post/communicate/) officially: [He](/post/he/) announced [the](/post/the/) [winner](/post/winner/) [of](/post/of/) [the](/post/the/) [competition](/post/competition/).
+2. [To](/post/to/) [make](/post/make/) known [or](/post/or/) [reveal](/post/reveal/) ([news](/post/news/), [information](/post/information/), [or](/post/or/) [a](/post/a/) [plan](/post/plan/)): We'll [announce](/post/announce/) [our](/post/our/) [vacation](/post/vacation/) plans [next](/post/next/) [week](/post/week/).
+3. [To](/post/to/) [introduce](/post/introduce/) [or](/post/or/) [present](/post/present/) ([a](/post/a/) [speaker](/post/speaker/), performer, [or](/post/or/) [item](/post/item/)) [to](/post/to/) an [audience](/post/audience/).
 
-### [Adjective](/en/post/adjective/)
-1. Publicly declared [or](/en/post/or/) proclaimed: an [official](/en/post/official/) announcement
+### [Adjective](/post/adjective/)
+1. Publicly declared [or](/post/or/) proclaimed: an [official](/post/official/) announcement
 
 ## Phrases
-- "Made an announcement" [means](/en/post/means/) [to](/en/post/to/) formally [communicate](/en/post/communicate/) [information](/en/post/information/).
-- "Breaking [news](/en/post/news/) announcement" refers [to](/en/post/to/) [a](/en/post/a/) [significant](/en/post/significant/) update.
-- "Announcement [of](/en/post/of/) engagement" is [a](/en/post/a/) [formal](/en/post/formal/) declaration [of](/en/post/of/) an upcoming [marriage](/en/post/marriage/).
+- "Made an announcement" [means](/post/means/) [to](/post/to/) formally [communicate](/post/communicate/) [information](/post/information/).
+- "Breaking [news](/post/news/) announcement" refers [to](/post/to/) [a](/post/a/) [significant](/post/significant/) update.
+- "Announcement [of](/post/of/) engagement" is [a](/post/a/) [formal](/post/formal/) declaration [of](/post/of/) an upcoming [marriage](/post/marriage/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [company](/en/post/company/) issued an announcement [regarding](/en/post/regarding/) [their](/en/post/their/) [quarterly](/en/post/quarterly/) earnings [report](/en/post/report/).
-- **[Verb](/en/post/verb/)**: [The](/en/post/the/) [teacher](/en/post/teacher/) announced [the](/en/post/the/) [schedule](/en/post/schedule/) [for](/en/post/for/) [the](/en/post/the/) [field](/en/post/field/) [trip](/en/post/trip/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) event's keynote [speaker](/en/post/speaker/) was [a](/en/post/a/) renowned announcement [artist](/en/post/artist/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [company](/post/company/) issued an announcement [regarding](/post/regarding/) [their](/post/their/) [quarterly](/post/quarterly/) earnings [report](/post/report/).
+- **[Verb](/post/verb/)**: [The](/post/the/) [teacher](/post/teacher/) announced [the](/post/the/) [schedule](/post/schedule/) [for](/post/for/) [the](/post/the/) [field](/post/field/) [trip](/post/trip/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) event's keynote [speaker](/post/speaker/) was [a](/post/a/) renowned announcement [artist](/post/artist/).
 
 ## Synonyms
-- [Declare](/en/post/declare/)
-- [Announce](/en/post/announce/)
-- [Proclaim](/en/post/proclaim/)
-- [Declare](/en/post/declare/) publicly
-- [Inform](/en/post/inform/)
-- [Declare](/en/post/declare/) officially
-- [Declare](/en/post/declare/) [news](/en/post/news/)
-- [Declare](/en/post/declare/) [intention](/en/post/intention/)
-- [Declare](/en/post/declare/) availability
+- [Declare](/post/declare/)
+- [Announce](/post/announce/)
+- [Proclaim](/post/proclaim/)
+- [Declare](/post/declare/) publicly
+- [Inform](/post/inform/)
+- [Declare](/post/declare/) officially
+- [Declare](/post/declare/) [news](/post/news/)
+- [Declare](/post/declare/) [intention](/post/intention/)
+- [Declare](/post/declare/) availability
 
 ## Antonyms
-- [Conceal](/en/post/conceal/)
-- [Hide](/en/post/hide/)
-- [Silence](/en/post/silence/)
+- [Conceal](/post/conceal/)
+- [Hide](/post/hide/)
+- [Silence](/post/silence/)
 - Withhold
 - Muffle

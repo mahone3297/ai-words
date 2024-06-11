@@ -7,38 +7,38 @@ description = '[brɑːnt∫] n.树枝；分部；分科'
 keywords = ['ai words', 'branch']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /brɑːntʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [tree](/en/post/tree/) [separate](/en/post/separate/) [from](/en/post/from/) [the](/en/post/the/) [trunk](/en/post/trunk/), [usually](/en/post/usually/) [with](/en/post/with/) [its](/en/post/its/) [own](/en/post/own/) [set](/en/post/set/) [of](/en/post/of/) leaves**: *[The](/en/post/the/) [tree](/en/post/tree/) had [several](/en/post/several/) branches reaching towards [the](/en/post/the/) [sunlight](/en/post/sunlight/).*
-2. **[A](/en/post/a/) [division](/en/post/division/) [or](/en/post/or/) offshoot [of](/en/post/of/) [a](/en/post/a/) [company](/en/post/company/), [organization](/en/post/organization/), [or](/en/post/or/) [activity](/en/post/activity/)**: *[The](/en/post/the/) [new](/en/post/new/) [branch](/en/post/branch/) [of](/en/post/of/) [the](/en/post/the/) [bank](/en/post/bank/) opened [last](/en/post/last/) [week](/en/post/week/).*
-3. **[A](/en/post/a/) lateral [line](/en/post/line/) [of](/en/post/of/) troops, vehicles, [or](/en/post/or/) individuals**: *[The](/en/post/the/) [military](/en/post/military/) [formation](/en/post/formation/) branched [out](/en/post/out/) [to](/en/post/to/) [cover](/en/post/cover/) [the](/en/post/the/) [wide](/en/post/wide/) [area](/en/post/area/).*
-4. **[A](/en/post/a/) [line](/en/post/line/) [of](/en/post/of/) descendants [or](/en/post/or/) [family](/en/post/family/) members**: *[The](/en/post/the/) genealogy [chart](/en/post/chart/) showed [several](/en/post/several/) branches [of](/en/post/of/) [the](/en/post/the/) [royal](/en/post/royal/) [family](/en/post/family/).*
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [tree](/post/tree/) [separate](/post/separate/) [from](/post/from/) [the](/post/the/) [trunk](/post/trunk/), [usually](/post/usually/) [with](/post/with/) [its](/post/its/) [own](/post/own/) [set](/post/set/) [of](/post/of/) leaves**: *[The](/post/the/) [tree](/post/tree/) had [several](/post/several/) branches reaching towards [the](/post/the/) [sunlight](/post/sunlight/).*
+2. **[A](/post/a/) [division](/post/division/) [or](/post/or/) offshoot [of](/post/of/) [a](/post/a/) [company](/post/company/), [organization](/post/organization/), [or](/post/or/) [activity](/post/activity/)**: *[The](/post/the/) [new](/post/new/) [branch](/post/branch/) [of](/post/of/) [the](/post/the/) [bank](/post/bank/) opened [last](/post/last/) [week](/post/week/).*
+3. **[A](/post/a/) lateral [line](/post/line/) [of](/post/of/) troops, vehicles, [or](/post/or/) individuals**: *[The](/post/the/) [military](/post/military/) [formation](/post/formation/) branched [out](/post/out/) [to](/post/to/) [cover](/post/cover/) [the](/post/the/) [wide](/post/wide/) [area](/post/area/).*
+4. **[A](/post/a/) [line](/post/line/) [of](/post/of/) descendants [or](/post/or/) [family](/post/family/) members**: *[The](/post/the/) genealogy [chart](/post/chart/) showed [several](/post/several/) branches [of](/post/of/) [the](/post/the/) [royal](/post/royal/) [family](/post/family/).*
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [grow](/en/post/grow/) [or](/en/post/or/) [extend](/en/post/extend/) [from](/en/post/from/) [a](/en/post/a/) [main](/en/post/main/) [stem](/en/post/stem/)**: *[The](/en/post/the/) [vine](/en/post/vine/) branched [out](/en/post/out/) [along](/en/post/along/) [the](/en/post/the/) [fence](/en/post/fence/).*
-2. **[To](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [separate](/en/post/separate/) [unit](/en/post/unit/) [or](/en/post/or/) [department](/en/post/department/)**: *[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [branch](/en/post/branch/) [out](/en/post/out/) [into](/en/post/into/) [a](/en/post/a/) [new](/en/post/new/) [product](/en/post/product/) [line](/en/post/line/).*
-3. **[To](/en/post/to/) diverge [or](/en/post/or/) [take](/en/post/take/) [different](/en/post/different/) paths**: *[Their](/en/post/their/) careers branched [in](/en/post/in/) [different](/en/post/different/) directions [after](/en/post/after/) [college](/en/post/college/).*
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [grow](/post/grow/) [or](/post/or/) [extend](/post/extend/) [from](/post/from/) [a](/post/a/) [main](/post/main/) [stem](/post/stem/)**: *[The](/post/the/) [vine](/post/vine/) branched [out](/post/out/) [along](/post/along/) [the](/post/the/) [fence](/post/fence/).*
+2. **[To](/post/to/) [form](/post/form/) [a](/post/a/) [separate](/post/separate/) [unit](/post/unit/) [or](/post/or/) [department](/post/department/)**: *[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [branch](/post/branch/) [out](/post/out/) [into](/post/into/) [a](/post/a/) [new](/post/new/) [product](/post/product/) [line](/post/line/).*
+3. **[To](/post/to/) diverge [or](/post/or/) [take](/post/take/) [different](/post/different/) paths**: *[Their](/post/their/) careers branched [in](/post/in/) [different](/post/different/) directions [after](/post/after/) [college](/post/college/).*
 
 ## Phrases
-- "[Branch](/en/post/branch/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) [expand](/en/post/expand/) [or](/en/post/or/) diversify (e.g., "[The](/en/post/the/) [company](/en/post/company/) is branching [out](/en/post/out/) [into](/en/post/into/) [international](/en/post/international/) markets.")
-- "[Branch](/en/post/branch/) [location](/en/post/location/)" refers [to](/en/post/to/) [a](/en/post/a/) subsidiary [or](/en/post/or/) [satellite](/en/post/satellite/) [office](/en/post/office/) [or](/en/post/or/) [store](/en/post/store/).
-- "[Branch](/en/post/branch/) [of](/en/post/of/) [knowledge](/en/post/knowledge/)" signifies [a](/en/post/a/) [distinct](/en/post/distinct/) [area](/en/post/area/) [within](/en/post/within/) [a](/en/post/a/) [subject](/en/post/subject/) (e.g., "Botany is [a](/en/post/a/) [branch](/en/post/branch/) [of](/en/post/of/) [biology](/en/post/biology/).")
+- "[Branch](/post/branch/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) [expand](/post/expand/) [or](/post/or/) diversify (e.g., "[The](/post/the/) [company](/post/company/) is branching [out](/post/out/) [into](/post/into/) [international](/post/international/) markets.")
+- "[Branch](/post/branch/) [location](/post/location/)" refers [to](/post/to/) [a](/post/a/) subsidiary [or](/post/or/) [satellite](/post/satellite/) [office](/post/office/) [or](/post/or/) [store](/post/store/).
+- "[Branch](/post/branch/) [of](/post/of/) [knowledge](/post/knowledge/)" signifies [a](/post/a/) [distinct](/post/distinct/) [area](/post/area/) [within](/post/within/) [a](/post/a/) [subject](/post/subject/) (e.g., "Botany is [a](/post/a/) [branch](/post/branch/) [of](/post/of/) [biology](/post/biology/).")
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[The](/en/post/the/) tree's branches [provided](/en/post/provided/) [shade](/en/post/shade/) [for](/en/post/for/) [the](/en/post/the/) [picnic](/en/post/picnic/) [area](/en/post/area/).*
-- **[Verb](/en/post/verb/)**: *[After](/en/post/after/) graduating, [she](/en/post/she/) branched [off](/en/post/off/) [to](/en/post/to/) [pursue](/en/post/pursue/) [her](/en/post/her/) [own](/en/post/own/) [career](/en/post/career/) [path](/en/post/path/).*
-- **[Verb](/en/post/verb/) (transitive)**: *[The](/en/post/the/) [river](/en/post/river/) branched [into](/en/post/into/) [two](/en/post/two/) channels [near](/en/post/near/) [the](/en/post/the/) [town](/en/post/town/).*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[The](/post/the/) tree's branches [provided](/post/provided/) [shade](/post/shade/) [for](/post/for/) [the](/post/the/) [picnic](/post/picnic/) [area](/post/area/).*
+- **[Verb](/post/verb/)**: *[After](/post/after/) graduating, [she](/post/she/) branched [off](/post/off/) [to](/post/to/) [pursue](/post/pursue/) [her](/post/her/) [own](/post/own/) [career](/post/career/) [path](/post/path/).*
+- **[Verb](/post/verb/) (transitive)**: *[The](/post/the/) [river](/post/river/) branched [into](/post/into/) [two](/post/two/) channels [near](/post/near/) [the](/post/the/) [town](/post/town/).*
 
 ## Synonyms
 - Offshoot
-- [Division](/en/post/division/)
-- [Extension](/en/post/extension/)
-- [Limb](/en/post/limb/)
-- [Arm](/en/post/arm/)
+- [Division](/post/division/)
+- [Extension](/post/extension/)
+- [Limb](/post/limb/)
+- [Arm](/post/arm/)
 - Offspring
 - Lineage
-- [Department](/en/post/department/)
-- Armament ([in](/en/post/in/) [military](/en/post/military/) context)
+- [Department](/post/department/)
+- Armament ([in](/post/in/) [military](/post/military/) context)

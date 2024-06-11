@@ -7,36 +7,36 @@ description = '[diˈtəːmin] vt.决定；查明；决心'
 keywords = ['ai words', 'determine']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈtɜrmɪn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) ascertain [or](/en/post/or/) [decide](/en/post/decide/) [something](/en/post/something/) [with](/en/post/with/) [certainty](/en/post/certainty/) [or](/en/post/or/) [accuracy](/en/post/accuracy/). "[To](/en/post/to/) [determine](/en/post/determine/) [the](/en/post/the/) [winner](/en/post/winner/) [of](/en/post/of/) [the](/en/post/the/) [race](/en/post/race/)."
-   - [Noun](/en/post/noun/): [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) making [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) establishing [a](/en/post/a/) [fact](/en/post/fact/). "[The](/en/post/the/) [determination](/en/post/determination/) [of](/en/post/of/) [the](/en/post/the/) suspect's whereabouts was crucial."
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) ascertain [or](/post/or/) [decide](/post/decide/) [something](/post/something/) [with](/post/with/) [certainty](/post/certainty/) [or](/post/or/) [accuracy](/post/accuracy/). "[To](/post/to/) [determine](/post/determine/) [the](/post/the/) [winner](/post/winner/) [of](/post/of/) [the](/post/the/) [race](/post/race/)."
+   - [Noun](/post/noun/): [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) making [a](/post/a/) [decision](/post/decision/) [or](/post/or/) establishing [a](/post/a/) [fact](/post/fact/). "[The](/post/the/) [determination](/post/determination/) [of](/post/of/) [the](/post/the/) suspect's whereabouts was crucial."
 
 ## Phrases
-- "[Determine](/en/post/determine/) [the](/en/post/the/) [outcome](/en/post/outcome/)" [means](/en/post/means/) [to](/en/post/to/) [decide](/en/post/decide/) [the](/en/post/the/) [result](/en/post/result/).
-- "[Be](/en/post/be/) determined [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/)" expresses [a](/en/post/a/) [strong](/en/post/strong/) commitment [or](/en/post/or/) [resolve](/en/post/resolve/).
-- "Determining [factor](/en/post/factor/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) has [a](/en/post/a/) [significant](/en/post/significant/) [impact](/en/post/impact/) [on](/en/post/on/) [a](/en/post/a/) [situation](/en/post/situation/).
+- "[Determine](/post/determine/) [the](/post/the/) [outcome](/post/outcome/)" [means](/post/means/) [to](/post/to/) [decide](/post/decide/) [the](/post/the/) [result](/post/result/).
+- "[Be](/post/be/) determined [to](/post/to/) [do](/post/do/) [something](/post/something/)" expresses [a](/post/a/) [strong](/post/strong/) commitment [or](/post/or/) [resolve](/post/resolve/).
+- "Determining [factor](/post/factor/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) has [a](/post/a/) [significant](/post/significant/) [impact](/post/impact/) [on](/post/on/) [a](/post/a/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "Scientists are working diligently [to](/en/post/to/) [determine](/en/post/determine/) [the](/en/post/the/) [cause](/en/post/cause/) [of](/en/post/of/) [the](/en/post/the/) outbreak."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) perseverance was [the](/en/post/the/) determining [factor](/en/post/factor/) [in](/en/post/in/) [his](/en/post/his/) [success](/en/post/success/)."
-- "[After](/en/post/after/) [careful](/en/post/careful/) [consideration](/en/post/consideration/), [we](/en/post/we/) determined [the](/en/post/the/) [best](/en/post/best/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "Scientists are working diligently [to](/post/to/) [determine](/post/determine/) [the](/post/the/) [cause](/post/cause/) [of](/post/of/) [the](/post/the/) outbreak."
+- **[Noun](/post/noun/)**: "[His](/post/his/) perseverance was [the](/post/the/) determining [factor](/post/factor/) [in](/post/in/) [his](/post/his/) [success](/post/success/)."
+- "[After](/post/after/) [careful](/post/careful/) [consideration](/post/consideration/), [we](/post/we/) determined [the](/post/the/) [best](/post/best/) [course](/post/course/) [of](/post/of/) [action](/post/action/)."
 
 ## Synonyms
-- [Establish](/en/post/establish/)
-- [Decide](/en/post/decide/)
-- [Establish](/en/post/establish/)
-- [Assess](/en/post/assess/)
-- [Establish](/en/post/establish/)
+- [Establish](/post/establish/)
+- [Decide](/post/decide/)
+- [Establish](/post/establish/)
+- [Assess](/post/assess/)
+- [Establish](/post/establish/)
 - Pinpoint
-- [Resolve](/en/post/resolve/)
-- [Settle](/en/post/settle/)
+- [Resolve](/post/resolve/)
+- [Settle](/post/settle/)
 
 ## Antonyms
 - Indecisive
-- [Uncertain](/en/post/uncertain/)
+- [Uncertain](/post/uncertain/)
 - Ambiguous
 - Inconclusive
 - Unsettled

@@ -11,19 +11,19 @@ keywords = ['ai words', 'themselves']
 /ðəmˈsɛlvz/
 
 ## 释义
-- **代词**: 反身代词，指代主语自身，表示“他们自己”、“她们自己”或“它们自己”。例如: "[They](/post/they/) did [it](/post/it/) [themselves](/post/themselves/)."
+- **代词**: 反身代词，指代主语自身，表示“他们自己”、“她们自己”或“它们自己”。例如: "[They](/zh/post/they/) did [it](/zh/post/it/) [themselves](/zh/post/themselves/)."
 
 ## 短语
-- "[Take](/post/take/) [care](/post/care/) [of](/post/of/) [themselves](/post/themselves/)" 意为照顾他们自己。
-- "[Do](/post/do/) [it](/post/it/) [themselves](/post/themselves/)" 意为亲自做这件事。
+- "[Take](/zh/post/take/) [care](/zh/post/care/) [of](/zh/post/of/) [themselves](/zh/post/themselves/)" 意为照顾他们自己。
+- "[Do](/zh/post/do/) [it](/zh/post/it/) [themselves](/zh/post/themselves/)" 意为亲自做这件事。
 
 ## 例句
-- "[The](/post/the/) children [can](/post/can/) [dress](/post/dress/) [themselves](/post/themselves/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
-- "[They](/post/they/) cooked [a](/post/a/) [delicious](/post/delicious/) [meal](/post/meal/) [for](/post/for/) [themselves](/post/themselves/)."
-- "[The](/post/the/) animals built [a](/post/a/) [shelter](/post/shelter/) [to](/post/to/) [protect](/post/protect/) [themselves](/post/themselves/) [from](/post/from/) [the](/post/the/) [rain](/post/rain/)."
+- "[The](/zh/post/the/) children [can](/zh/post/can/) [dress](/zh/post/dress/) [themselves](/zh/post/themselves/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+- "[They](/zh/post/they/) cooked [a](/zh/post/a/) [delicious](/zh/post/delicious/) [meal](/zh/post/meal/) [for](/zh/post/for/) [themselves](/zh/post/themselves/)."
+- "[The](/zh/post/the/) animals built [a](/zh/post/a/) [shelter](/zh/post/shelter/) [to](/zh/post/to/) [protect](/zh/post/protect/) [themselves](/zh/post/themselves/) [from](/zh/post/from/) [the](/zh/post/the/) [rain](/zh/post/rain/)."
 
 ## 同义词
-- [their](/post/their/) [own](/post/own/)
-- [on](/post/on/) [their](/post/their/) [own](/post/own/)
-- [by](/post/by/) [themselves](/post/themselves/)
-- [for](/post/for/) [oneself](/post/oneself/)
+- [their](/zh/post/their/) [own](/zh/post/own/)
+- [on](/zh/post/on/) [their](/zh/post/their/) [own](/zh/post/own/)
+- [by](/zh/post/by/) [themselves](/zh/post/themselves/)
+- [for](/zh/post/for/) [oneself](/zh/post/oneself/)

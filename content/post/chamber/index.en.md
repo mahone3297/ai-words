@@ -7,44 +7,44 @@ description = '[ˈt∫eimbə] n.会议室；房间；腔'
 keywords = ['ai words', 'chamber']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃeɪmbə(r)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [room](/en/post/room/) [or](/en/post/or/) [apartment](/en/post/apartment/) designed [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/), [such](/en/post/such/) [as](/en/post/as/) sleeping, working, [or](/en/post/or/) dining.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [study](/en/post/study/) is [a](/en/post/a/) [quiet](/en/post/quiet/) [chamber](/en/post/chamber/) [where](/en/post/where/) [he](/en/post/he/) likes [to](/en/post/to/) [read](/en/post/read/)."
-2. [A](/en/post/a/) [small](/en/post/small/) [room](/en/post/room/) [or](/en/post/or/) compartment [within](/en/post/within/) [a](/en/post/a/) larger [building](/en/post/building/), [often](/en/post/often/) [for](/en/post/for/) [storage](/en/post/storage/) [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [private](/en/post/private/) [space](/en/post/space/).
-   - [Example](/en/post/example/): "[Each](/en/post/each/) [apartment](/en/post/apartment/) has [its](/en/post/its/) [own](/en/post/own/) kitchenette [and](/en/post/and/) [bathroom](/en/post/bathroom/) [chamber](/en/post/chamber/)."
-3. [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [something](/en/post/something/) happens [or](/en/post/or/) is produced, [especially](/en/post/especially/) [a](/en/post/a/) legislative [or](/en/post/or/) judicial [body](/en/post/body/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [Senate](/en/post/senate/) [chamber](/en/post/chamber/) is located [in](/en/post/in/) [the](/en/post/the/) Capitol [building](/en/post/building/)."
-4. An enclosed [space](/en/post/space/) [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) [function](/en/post/function/), [like](/en/post/like/) [a](/en/post/a/) [gunpowder](/en/post/gunpowder/) [chamber](/en/post/chamber/) [in](/en/post/in/) [a](/en/post/a/) firearm.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [castle](/en/post/castle/) had [secret](/en/post/secret/) chambers hidden [throughout](/en/post/throughout/) [its](/en/post/its/) walls."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [room](/post/room/) [or](/post/or/) [apartment](/post/apartment/) designed [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/), [such](/post/such/) [as](/post/as/) sleeping, working, [or](/post/or/) dining.
+   - [Example](/post/example/): "[The](/post/the/) [study](/post/study/) is [a](/post/a/) [quiet](/post/quiet/) [chamber](/post/chamber/) [where](/post/where/) [he](/post/he/) likes [to](/post/to/) [read](/post/read/)."
+2. [A](/post/a/) [small](/post/small/) [room](/post/room/) [or](/post/or/) compartment [within](/post/within/) [a](/post/a/) larger [building](/post/building/), [often](/post/often/) [for](/post/for/) [storage](/post/storage/) [or](/post/or/) [as](/post/as/) [a](/post/a/) [private](/post/private/) [space](/post/space/).
+   - [Example](/post/example/): "[Each](/post/each/) [apartment](/post/apartment/) has [its](/post/its/) [own](/post/own/) kitchenette [and](/post/and/) [bathroom](/post/bathroom/) [chamber](/post/chamber/)."
+3. [A](/post/a/) [place](/post/place/) [where](/post/where/) [something](/post/something/) happens [or](/post/or/) is produced, [especially](/post/especially/) [a](/post/a/) legislative [or](/post/or/) judicial [body](/post/body/).
+   - [Example](/post/example/): "[The](/post/the/) [Senate](/post/senate/) [chamber](/post/chamber/) is located [in](/post/in/) [the](/post/the/) Capitol [building](/post/building/)."
+4. An enclosed [space](/post/space/) [with](/post/with/) [a](/post/a/) [specific](/post/specific/) [function](/post/function/), [like](/post/like/) [a](/post/a/) [gunpowder](/post/gunpowder/) [chamber](/post/chamber/) [in](/post/in/) [a](/post/a/) firearm.
+   - [Example](/post/example/): "[The](/post/the/) [old](/post/old/) [castle](/post/castle/) had [secret](/post/secret/) chambers hidden [throughout](/post/throughout/) [its](/post/its/) walls."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [occupy](/en/post/occupy/) [or](/en/post/or/) [be](/en/post/be/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [chamber](/en/post/chamber/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) researchers spent months [in](/en/post/in/) [the](/en/post/the/) [laboratory](/en/post/laboratory/) [chamber](/en/post/chamber/)."
-2. [To](/en/post/to/) [hold](/en/post/hold/) [a](/en/post/a/) [meeting](/en/post/meeting/) [or](/en/post/or/) [session](/en/post/session/) [in](/en/post/in/) [a](/en/post/a/) [chamber](/en/post/chamber/) ([as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) legislative [body](/en/post/body/)).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [committee](/en/post/committee/) [will](/en/post/will/) convene [in](/en/post/in/) [the](/en/post/the/) [chamber](/en/post/chamber/) [to](/en/post/to/) [discuss](/en/post/discuss/) [the](/en/post/the/) [bill](/en/post/bill/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [occupy](/post/occupy/) [or](/post/or/) [be](/post/be/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [chamber](/post/chamber/).
+   - [Example](/post/example/): "[The](/post/the/) researchers spent months [in](/post/in/) [the](/post/the/) [laboratory](/post/laboratory/) [chamber](/post/chamber/)."
+2. [To](/post/to/) [hold](/post/hold/) [a](/post/a/) [meeting](/post/meeting/) [or](/post/or/) [session](/post/session/) [in](/post/in/) [a](/post/a/) [chamber](/post/chamber/) ([as](/post/as/) [in](/post/in/) [a](/post/a/) legislative [body](/post/body/)).
+   - [Example](/post/example/): "[The](/post/the/) [committee](/post/committee/) [will](/post/will/) convene [in](/post/in/) [the](/post/the/) [chamber](/post/chamber/) [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) [bill](/post/bill/)."
 
 ## Phrases
-- "[Live](/en/post/live/) [in](/en/post/in/) [a](/en/post/a/) [chamber](/en/post/chamber/)" [means](/en/post/means/) [to](/en/post/to/) reside [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [room](/en/post/room/) [or](/en/post/or/) [apartment](/en/post/apartment/).
-- "[Chamber](/en/post/chamber/) [of](/en/post/of/) [commerce](/en/post/commerce/)" is [a](/en/post/a/) [business](/en/post/business/) [organization](/en/post/organization/) [that](/en/post/that/) promotes [local](/en/post/local/) [trade](/en/post/trade/).
-- "[Public](/en/post/public/) hearing [chamber](/en/post/chamber/)" is [where](/en/post/where/) [public](/en/post/public/) meetings [take](/en/post/take/) [place](/en/post/place/).
+- "[Live](/post/live/) [in](/post/in/) [a](/post/a/) [chamber](/post/chamber/)" [means](/post/means/) [to](/post/to/) reside [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [room](/post/room/) [or](/post/or/) [apartment](/post/apartment/).
+- "[Chamber](/post/chamber/) [of](/post/of/) [commerce](/post/commerce/)" is [a](/post/a/) [business](/post/business/) [organization](/post/organization/) [that](/post/that/) promotes [local](/post/local/) [trade](/post/trade/).
+- "[Public](/post/public/) hearing [chamber](/post/chamber/)" is [where](/post/where/) [public](/post/public/) meetings [take](/post/take/) [place](/post/place/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) artist's studio was [a](/en/post/a/) cluttered [mixture](/en/post/mixture/) [of](/en/post/of/) [paint](/en/post/paint/) [and](/en/post/and/) [canvas](/en/post/canvas/), surrounded [by](/en/post/by/) [various](/en/post/various/) [work](/en/post/work/) chambers."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) delegates gathered [in](/en/post/in/) [the](/en/post/the/) [chamber](/en/post/chamber/) [to](/en/post/to/) [vote](/en/post/vote/) [on](/en/post/on/) [the](/en/post/the/) [proposal](/en/post/proposal/)."
-- **[Noun](/en/post/noun/) [as](/en/post/as/) [a](/en/post/a/) [Function](/en/post/function/)**: "[The](/en/post/the/) government's budget was debated [in](/en/post/in/) [the](/en/post/the/) [Finance](/en/post/finance/) [Committee](/en/post/committee/) [chamber](/en/post/chamber/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) artist's studio was [a](/post/a/) cluttered [mixture](/post/mixture/) [of](/post/of/) [paint](/post/paint/) [and](/post/and/) [canvas](/post/canvas/), surrounded [by](/post/by/) [various](/post/various/) [work](/post/work/) chambers."
+- **[Verb](/post/verb/)**: "[The](/post/the/) delegates gathered [in](/post/in/) [the](/post/the/) [chamber](/post/chamber/) [to](/post/to/) [vote](/post/vote/) [on](/post/on/) [the](/post/the/) [proposal](/post/proposal/)."
+- **[Noun](/post/noun/) [as](/post/as/) [a](/post/a/) [Function](/post/function/)**: "[The](/post/the/) government's budget was debated [in](/post/in/) [the](/post/the/) [Finance](/post/finance/) [Committee](/post/committee/) [chamber](/post/chamber/)."
 
 ## Synonyms
-- [Room](/en/post/room/)
-- [Apartment](/en/post/apartment/)
+- [Room](/post/room/)
+- [Apartment](/post/apartment/)
 - Suite
-- [Lodge](/en/post/lodge/)
+- [Lodge](/post/lodge/)
 - Closet
-- [Workshop](/en/post/workshop/)
-- [Session](/en/post/session/) [room](/en/post/room/)
-- Hearing [room](/en/post/room/)
-- [Council](/en/post/council/) [chamber](/en/post/chamber/)
-- [Committee](/en/post/committee/) [room](/en/post/room/)
+- [Workshop](/post/workshop/)
+- [Session](/post/session/) [room](/post/room/)
+- Hearing [room](/post/room/)
+- [Council](/post/council/) [chamber](/post/chamber/)
+- [Committee](/post/committee/) [room](/post/room/)

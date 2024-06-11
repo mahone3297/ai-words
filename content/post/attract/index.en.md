@@ -7,32 +7,32 @@ description = '[əˈtrækt] vt.吸引；引起，诱惑'
 keywords = ['ai words', 'attract']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈtræk/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: ([at](/en/post/at/)·tract) [To](/en/post/to/) [draw](/en/post/draw/) [or](/en/post/or/) [pull](/en/post/pull/) towards [oneself](/en/post/oneself/), [often](/en/post/often/) [by](/en/post/by/) [means](/en/post/means/) [of](/en/post/of/) [something](/en/post/something/) appealing; [to](/en/post/to/) [have](/en/post/have/) an [influence](/en/post/influence/) [or](/en/post/or/) charm [that](/en/post/that/) causes [someone](/en/post/someone/) [to](/en/post/to/) [be](/en/post/be/) interested [or](/en/post/or/) fascinated.
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [action](/en/post/action/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) attracting; [the](/en/post/the/) [power](/en/post/power/) [to](/en/post/to/) [draw](/en/post/draw/) [people](/en/post/people/) [or](/en/post/or/) things [to](/en/post/to/) [oneself](/en/post/oneself/).
+- **[Verb](/post/verb/)**: ([at](/post/at/)·tract) [To](/post/to/) [draw](/post/draw/) [or](/post/or/) [pull](/post/pull/) towards [oneself](/post/oneself/), [often](/post/often/) [by](/post/by/) [means](/post/means/) [of](/post/of/) [something](/post/something/) appealing; [to](/post/to/) [have](/post/have/) an [influence](/post/influence/) [or](/post/or/) charm [that](/post/that/) causes [someone](/post/someone/) [to](/post/to/) [be](/post/be/) interested [or](/post/or/) fascinated.
+- **[Noun](/post/noun/)**: [The](/post/the/) [action](/post/action/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) attracting; [the](/post/the/) [power](/post/power/) [to](/post/to/) [draw](/post/draw/) [people](/post/people/) [or](/post/or/) things [to](/post/to/) [oneself](/post/oneself/).
 
 ## Phrases
-- "[Be](/en/post/be/) attracted [to](/en/post/to/)" implies having [a](/en/post/a/) [strong](/en/post/strong/) [interest](/en/post/interest/) [or](/en/post/or/) [preference](/en/post/preference/) [for](/en/post/for/) [something](/en/post/something/).
-- "Drawn [to](/en/post/to/)" suggests [being](/en/post/being/) involuntarily attracted.
-- "[Attraction](/en/post/attraction/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [event](/en/post/event/) [that](/en/post/that/) draws visitors.
+- "[Be](/post/be/) attracted [to](/post/to/)" implies having [a](/post/a/) [strong](/post/strong/) [interest](/post/interest/) [or](/post/or/) [preference](/post/preference/) [for](/post/for/) [something](/post/something/).
+- "Drawn [to](/post/to/)" suggests [being](/post/being/) involuntarily attracted.
+- "[Attraction](/post/attraction/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [event](/post/event/) [that](/post/that/) draws visitors.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) museum's [unique](/en/post/unique/) exhibits [strongly](/en/post/strongly/) [attract](/en/post/attract/) visitors [from](/en/post/from/) [all](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [world](/en/post/world/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) park's [beautiful](/en/post/beautiful/) [scenery](/en/post/scenery/) is [a](/en/post/a/) [major](/en/post/major/) [attraction](/en/post/attraction/) [for](/en/post/for/) [nature](/en/post/nature/) lovers."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [job](/en/post/job/) [offer](/en/post/offer/) had [a](/en/post/a/) [certain](/en/post/certain/) [magnetic](/en/post/magnetic/) [attraction](/en/post/attraction/) [for](/en/post/for/) [him](/en/post/him/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) museum's [unique](/post/unique/) exhibits [strongly](/post/strongly/) [attract](/post/attract/) visitors [from](/post/from/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [world](/post/world/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) park's [beautiful](/post/beautiful/) [scenery](/post/scenery/) is [a](/post/a/) [major](/post/major/) [attraction](/post/attraction/) [for](/post/for/) [nature](/post/nature/) lovers."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) [job](/post/job/) [offer](/post/offer/) had [a](/post/a/) [certain](/post/certain/) [magnetic](/post/magnetic/) [attraction](/post/attraction/) [for](/post/for/) [him](/post/him/)."
 
 ## Synonyms
 - Attractiveness
 - Magnetism
-- [Appeal](/en/post/appeal/)
+- [Appeal](/post/appeal/)
 -引力
 - Fascination
-- [Interest](/en/post/interest/)
+- [Interest](/post/interest/)
 - Charisma
-- [Pull](/en/post/pull/)
+- [Pull](/post/pull/)
 - Lure
 
 ## Antonyms
@@ -40,9 +40,9 @@ keywords = ['ai words', 'attract']
 - Distract
 - Detach
 - Repulse
-- [Turn](/en/post/turn/) [off](/en/post/off/)
+- [Turn](/post/turn/) [off](/post/off/)
 
 ## Idiomatic expressions
-- "[Be](/en/post/be/) attracted [to](/en/post/to/) [someone](/en/post/someone/)" ([fall](/en/post/fall/) [in](/en/post/in/) [love](/en/post/love/) [or](/en/post/or/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) liking)
-- "[Get](/en/post/get/) attracted [to](/en/post/to/) [a](/en/post/a/) [topic](/en/post/topic/)" ([become](/en/post/become/) interested [or](/en/post/or/) engrossed)
-- "[Lose](/en/post/lose/) one's [attraction](/en/post/attraction/)" ([lose](/en/post/lose/) [interest](/en/post/interest/) [or](/en/post/or/) [appeal](/en/post/appeal/))
+- "[Be](/post/be/) attracted [to](/post/to/) [someone](/post/someone/)" ([fall](/post/fall/) [in](/post/in/) [love](/post/love/) [or](/post/or/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) liking)
+- "[Get](/post/get/) attracted [to](/post/to/) [a](/post/a/) [topic](/post/topic/)" ([become](/post/become/) interested [or](/post/or/) engrossed)
+- "[Lose](/post/lose/) one's [attraction](/post/attraction/)" ([lose](/post/lose/) [interest](/post/interest/) [or](/post/or/) [appeal](/post/appeal/))

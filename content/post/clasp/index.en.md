@@ -7,29 +7,29 @@ description = '[klɑːsp] n.扣子，钩子；别针'
 keywords = ['ai words', 'clasp']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /klæsp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. An [act](/en/post/act/) [of](/en/post/of/) securing [something](/en/post/something/) closed [with](/en/post/with/) [a](/en/post/a/) fastener, typically one's hands. 2. [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [clasp](/en/post/clasp/) [used](/en/post/used/) [to](/en/post/to/) [hold](/en/post/hold/) items [together](/en/post/together/), [such](/en/post/such/) [as](/en/post/as/) jewelry [or](/en/post/or/) [clothing](/en/post/clothing/). 3. (figurative) [A](/en/post/a/) [close](/en/post/close/) [bond](/en/post/bond/) [or](/en/post/or/) [connection](/en/post/connection/). [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) [friendship](/en/post/friendship/) was [a](/en/post/a/) [firm](/en/post/firm/) [clasp](/en/post/clasp/)."
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [fasten](/en/post/fasten/) [or](/en/post/or/) [secure](/en/post/secure/) [with](/en/post/with/) [a](/en/post/a/) [clasp](/en/post/clasp/). 2. (transitive) [To](/en/post/to/) [hold](/en/post/hold/) [or](/en/post/or/) [grasp](/en/post/grasp/) tightly. 3. (figurative) [To](/en/post/to/) [embrace](/en/post/embrace/) [or](/en/post/or/) [support](/en/post/support/) emotionally. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) clasped [her](/en/post/her/) [child](/en/post/child/) [in](/en/post/in/) [her](/en/post/her/) arms."
+- **[Noun](/post/noun/)**: 1. An [act](/post/act/) [of](/post/of/) securing [something](/post/something/) closed [with](/post/with/) [a](/post/a/) fastener, typically one's hands. 2. [A](/post/a/) [type](/post/type/) [of](/post/of/) [clasp](/post/clasp/) [used](/post/used/) [to](/post/to/) [hold](/post/hold/) items [together](/post/together/), [such](/post/such/) [as](/post/as/) jewelry [or](/post/or/) [clothing](/post/clothing/). 3. (figurative) [A](/post/a/) [close](/post/close/) [bond](/post/bond/) [or](/post/or/) [connection](/post/connection/). [For](/post/for/) [example](/post/example/): "[Their](/post/their/) [friendship](/post/friendship/) was [a](/post/a/) [firm](/post/firm/) [clasp](/post/clasp/)."
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [fasten](/post/fasten/) [or](/post/or/) [secure](/post/secure/) [with](/post/with/) [a](/post/a/) [clasp](/post/clasp/). 2. (transitive) [To](/post/to/) [hold](/post/hold/) [or](/post/or/) [grasp](/post/grasp/) tightly. 3. (figurative) [To](/post/to/) [embrace](/post/embrace/) [or](/post/or/) [support](/post/support/) emotionally. [For](/post/for/) [example](/post/example/): "[She](/post/she/) clasped [her](/post/her/) [child](/post/child/) [in](/post/in/) [her](/post/her/) arms."
 
 ## Phrases
-- "[To](/en/post/to/) [clasp](/en/post/clasp/) one's hands" indicates [the](/en/post/the/) [physical](/en/post/physical/) [act](/en/post/act/) [of](/en/post/of/) bringing hands [together](/en/post/together/).
-- "[A](/en/post/a/) [safety](/en/post/safety/) [clasp](/en/post/clasp/) [on](/en/post/on/) [a](/en/post/a/) [necklace](/en/post/necklace/)" ensures [it](/en/post/it/) doesn't accidentally [fall](/en/post/fall/) [off](/en/post/off/).
-- "[Emotional](/en/post/emotional/) [clasp](/en/post/clasp/)" refers [to](/en/post/to/) [a](/en/post/a/) [strong](/en/post/strong/) [emotional](/en/post/emotional/) [connection](/en/post/connection/).
+- "[To](/post/to/) [clasp](/post/clasp/) one's hands" indicates [the](/post/the/) [physical](/post/physical/) [act](/post/act/) [of](/post/of/) bringing hands [together](/post/together/).
+- "[A](/post/a/) [safety](/post/safety/) [clasp](/post/clasp/) [on](/post/on/) [a](/post/a/) [necklace](/post/necklace/)" ensures [it](/post/it/) doesn't accidentally [fall](/post/fall/) [off](/post/off/).
+- "[Emotional](/post/emotional/) [clasp](/post/clasp/)" refers [to](/post/to/) [a](/post/a/) [strong](/post/strong/) [emotional](/post/emotional/) [connection](/post/connection/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) adjusted [the](/en/post/the/) [necklace](/en/post/necklace/), making [sure](/en/post/sure/) [the](/en/post/the/) [clasp](/en/post/clasp/) was securely fastened."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) clasped [his](/en/post/his/) hands [together](/en/post/together/) [in](/en/post/in/) [prayer](/en/post/prayer/)."
-- **Figurative**: "[Their](/en/post/their/) [love](/en/post/love/) was [a](/en/post/a/) [deep](/en/post/deep/) [emotional](/en/post/emotional/) [clasp](/en/post/clasp/) [that](/en/post/that/) sustained [them](/en/post/them/) [through](/en/post/through/) [difficult](/en/post/difficult/) times."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) adjusted [the](/post/the/) [necklace](/post/necklace/), making [sure](/post/sure/) [the](/post/the/) [clasp](/post/clasp/) was securely fastened."
+- **[Verb](/post/verb/)**: "[He](/post/he/) clasped [his](/post/his/) hands [together](/post/together/) [in](/post/in/) [prayer](/post/prayer/)."
+- **Figurative**: "[Their](/post/their/) [love](/post/love/) was [a](/post/a/) [deep](/post/deep/) [emotional](/post/emotional/) [clasp](/post/clasp/) [that](/post/that/) sustained [them](/post/them/) [through](/post/through/) [difficult](/post/difficult/) times."
 
 ## Synonyms
-- [Grasp](/en/post/grasp/)
-- [Hold](/en/post/hold/)
-- [Secure](/en/post/secure/)
-- [Fasten](/en/post/fasten/)
-- [Embrace](/en/post/embrace/)
+- [Grasp](/post/grasp/)
+- [Hold](/post/hold/)
+- [Secure](/post/secure/)
+- [Fasten](/post/fasten/)
+- [Embrace](/post/embrace/)
 - Clutch
-- [Bond](/en/post/bond/)
+- [Bond](/post/bond/)
 - Tighten

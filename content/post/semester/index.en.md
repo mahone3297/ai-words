@@ -7,34 +7,34 @@ description = '[siˈmestə] n.半年；学期，半学年'
 keywords = ['ai words', 'semester']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsemɪstər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[semester](/en/post/semester/)** is [a](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [time](/en/post/time/) typically [used](/en/post/used/) [in](/en/post/in/) educational institutions, [especially](/en/post/especially/) universities, [to](/en/post/to/) [divide](/en/post/divide/) [the](/en/post/the/) [academic](/en/post/academic/) [year](/en/post/year/) [into](/en/post/into/) [two](/en/post/two/) [equal](/en/post/equal/) [or](/en/post/or/) [nearly](/en/post/nearly/) [equal](/en/post/equal/) parts. [It](/en/post/it/) [usually](/en/post/usually/) lasts [for](/en/post/for/) 15 weeks [or](/en/post/or/) [approximately](/en/post/approximately/) [half](/en/post/half/) [a](/en/post/a/) [school](/en/post/school/) [year](/en/post/year/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[semester](/post/semester/)** is [a](/post/a/) [unit](/post/unit/) [of](/post/of/) [time](/post/time/) typically [used](/post/used/) [in](/post/in/) educational institutions, [especially](/post/especially/) universities, [to](/post/to/) [divide](/post/divide/) [the](/post/the/) [academic](/post/academic/) [year](/post/year/) [into](/post/into/) [two](/post/two/) [equal](/post/equal/) [or](/post/or/) [nearly](/post/nearly/) [equal](/post/equal/) parts. [It](/post/it/) [usually](/post/usually/) lasts [for](/post/for/) 15 weeks [or](/post/or/) [approximately](/post/approximately/) [half](/post/half/) [a](/post/a/) [school](/post/school/) [year](/post/year/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[semester](/en/post/semester/)** [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [division](/en/post/division/) [or](/en/post/or/) allocation [of](/en/post/of/) [time](/en/post/time/) [into](/en/post/into/) semesters [or](/en/post/or/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [following](/en/post/following/) [a](/en/post/a/) [semester](/en/post/semester/) [system](/en/post/system/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[semester](/post/semester/)** [can](/post/can/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [division](/post/division/) [or](/post/or/) allocation [of](/post/of/) [time](/post/time/) [into](/post/into/) semesters [or](/post/or/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [process](/post/process/) [of](/post/of/) [following](/post/following/) [a](/post/a/) [semester](/post/semester/) [system](/post/system/).
 
 ## Phrases
-- "[Complete](/en/post/complete/) [a](/en/post/a/) [semester](/en/post/semester/) [of](/en/post/of/) [study](/en/post/study/)"
-- "[Take](/en/post/take/) [a](/en/post/a/) [course](/en/post/course/) [for](/en/post/for/) [a](/en/post/a/) [semester](/en/post/semester/)"
-- "[Switch](/en/post/switch/) [to](/en/post/to/) [a](/en/post/a/) [different](/en/post/different/) [semester](/en/post/semester/) [schedule](/en/post/schedule/)"
+- "[Complete](/post/complete/) [a](/post/a/) [semester](/post/semester/) [of](/post/of/) [study](/post/study/)"
+- "[Take](/post/take/) [a](/post/a/) [course](/post/course/) [for](/post/for/) [a](/post/a/) [semester](/post/semester/)"
+- "[Switch](/post/switch/) [to](/post/to/) [a](/post/a/) [different](/post/different/) [semester](/post/semester/) [schedule](/post/schedule/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Students typically enroll [in](/en/post/in/) [four](/en/post/four/) courses [per](/en/post/per/) [semester](/en/post/semester/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [full](/en/post/full/) [load](/en/post/load/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [her](/en/post/her/) [summer](/en/post/summer/) [break](/en/post/break/), [she](/en/post/she/) began [her](/en/post/her/) [new](/en/post/new/) [semester](/en/post/semester/) [with](/en/post/with/) [enthusiasm](/en/post/enthusiasm/)."
-- **Metaphorical [usage](/en/post/usage/)**: "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [semester](/en/post/semester/) [their](/en/post/their/) [project](/en/post/project/) [into](/en/post/into/) [two](/en/post/two/) phases [for](/en/post/for/) [better](/en/post/better/) [management](/en/post/management/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Students typically enroll [in](/post/in/) [four](/post/four/) courses [per](/post/per/) [semester](/post/semester/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [full](/post/full/) [load](/post/load/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) finishing [her](/post/her/) [summer](/post/summer/) [break](/post/break/), [she](/post/she/) began [her](/post/her/) [new](/post/new/) [semester](/post/semester/) [with](/post/with/) [enthusiasm](/post/enthusiasm/)."
+- **Metaphorical [usage](/post/usage/)**: "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [semester](/post/semester/) [their](/post/their/) [project](/post/project/) [into](/post/into/) [two](/post/two/) phases [for](/post/for/) [better](/post/better/) [management](/post/management/)."
 
 ## Synonyms
-- [Term](/en/post/term/)
+- [Term](/post/term/)
 - Trimester
 - Half-year
-- [Academic](/en/post/academic/) [term](/en/post/term/)
-- [Quarter](/en/post/quarter/) ([in](/en/post/in/) [some](/en/post/some/) educational systems)
-- [Session](/en/post/session/)
+- [Academic](/post/academic/) [term](/post/term/)
+- [Quarter](/post/quarter/) ([in](/post/in/) [some](/post/some/) educational systems)
+- [Session](/post/session/)
 
 ## Antonyms
-- Full-year [program](/en/post/program/)
-- [Continuous](/en/post/continuous/) [study](/en/post/study/) [period](/en/post/period/)
+- Full-year [program](/post/program/)
+- [Continuous](/post/continuous/) [study](/post/study/) [period](/post/period/)

@@ -7,30 +7,30 @@ description = '[bəˈnɑːnə] n.香蕉；芭蕉属植物'
 keywords = ['ai words', 'banana']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bəˈnɑːnə/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [long](/en/post/long/), curved [fruit](/en/post/fruit/) [with](/en/post/with/) [yellow](/en/post/yellow/) [skin](/en/post/skin/) [when](/en/post/when/) [ripe](/en/post/ripe/), having [a](/en/post/a/) [sweet](/en/post/sweet/) [flesh](/en/post/flesh/) [inside](/en/post/inside/). [Also](/en/post/also/) [used](/en/post/used/) figuratively [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) resembling [a](/en/post/a/) [banana](/en/post/banana/) [in](/en/post/in/) [shape](/en/post/shape/) [or](/en/post/or/) [behavior](/en/post/behavior/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [fruit](/en/post/fruit/) [bowl](/en/post/bowl/) was filled [with](/en/post/with/) [ripe](/en/post/ripe/) bananas."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [eat](/en/post/eat/) [or](/en/post/or/) [use](/en/post/use/) [a](/en/post/a/) [banana](/en/post/banana/), [often](/en/post/often/) metaphorically. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) enjoyed eating [a](/en/post/a/) [banana](/en/post/banana/) [for](/en/post/for/) [breakfast](/en/post/breakfast/)."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [banana](/en/post/banana/), resembling [its](/en/post/its/) [shape](/en/post/shape/) [or](/en/post/or/) [color](/en/post/color/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [yellow](/en/post/yellow/) [banana](/en/post/banana/) [shade](/en/post/shade/) was [prominent](/en/post/prominent/) [in](/en/post/in/) [the](/en/post/the/) [painting](/en/post/painting/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [long](/post/long/), curved [fruit](/post/fruit/) [with](/post/with/) [yellow](/post/yellow/) [skin](/post/skin/) [when](/post/when/) [ripe](/post/ripe/), having [a](/post/a/) [sweet](/post/sweet/) [flesh](/post/flesh/) [inside](/post/inside/). [Also](/post/also/) [used](/post/used/) figuratively [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [person](/post/person/) resembling [a](/post/a/) [banana](/post/banana/) [in](/post/in/) [shape](/post/shape/) [or](/post/or/) [behavior](/post/behavior/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [fruit](/post/fruit/) [bowl](/post/bowl/) was filled [with](/post/with/) [ripe](/post/ripe/) bananas."
+- **[Verb](/post/verb/)**: [To](/post/to/) [eat](/post/eat/) [or](/post/or/) [use](/post/use/) [a](/post/a/) [banana](/post/banana/), [often](/post/often/) metaphorically. [For](/post/for/) [example](/post/example/): "[She](/post/she/) enjoyed eating [a](/post/a/) [banana](/post/banana/) [for](/post/for/) [breakfast](/post/breakfast/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [banana](/post/banana/), resembling [its](/post/its/) [shape](/post/shape/) [or](/post/or/) [color](/post/color/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [yellow](/post/yellow/) [banana](/post/banana/) [shade](/post/shade/) was [prominent](/post/prominent/) [in](/post/in/) [the](/post/the/) [painting](/post/painting/)."
 
 ## Phrases
-- "[Banana](/en/post/banana/) [peel](/en/post/peel/)" refers [to](/en/post/to/) [the](/en/post/the/) discarded [outer](/en/post/outer/) [layer](/en/post/layer/) [of](/en/post/of/) [a](/en/post/a/) [banana](/en/post/banana/).
-- "Ape-like [banana](/en/post/banana/)" is [a](/en/post/a/) colloquialism [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [with](/en/post/with/) exaggerated [or](/en/post/or/) [awkward](/en/post/awkward/) movements.
-- "[Banana](/en/post/banana/) [split](/en/post/split/)" is [a](/en/post/a/) dessert consisting [of](/en/post/of/) sliced bananas topped [with](/en/post/with/) [ice](/en/post/ice/) [cream](/en/post/cream/) [and](/en/post/and/) [chocolate](/en/post/chocolate/) [sauce](/en/post/sauce/).
+- "[Banana](/post/banana/) [peel](/post/peel/)" refers [to](/post/to/) [the](/post/the/) discarded [outer](/post/outer/) [layer](/post/layer/) [of](/post/of/) [a](/post/a/) [banana](/post/banana/).
+- "Ape-like [banana](/post/banana/)" is [a](/post/a/) colloquialism [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [with](/post/with/) exaggerated [or](/post/or/) [awkward](/post/awkward/) movements.
+- "[Banana](/post/banana/) [split](/post/split/)" is [a](/post/a/) dessert consisting [of](/post/of/) sliced bananas topped [with](/post/with/) [ice](/post/ice/) [cream](/post/cream/) [and](/post/and/) [chocolate](/post/chocolate/) [sauce](/post/sauce/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I peeled [the](/en/post/the/) [banana](/en/post/banana/) [and](/en/post/and/) took [a](/en/post/a/) [bite](/en/post/bite/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tried [to](/en/post/to/) [hold](/en/post/hold/) [a](/en/post/a/) [serious](/en/post/serious/) [conversation](/en/post/conversation/) [while](/en/post/while/) peeling [her](/en/post/her/) [banana](/en/post/banana/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sunbather's [skin](/en/post/skin/) was [a](/en/post/a/) [golden](/en/post/golden/) [banana](/en/post/banana/) [shade](/en/post/shade/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I peeled [the](/post/the/) [banana](/post/banana/) [and](/post/and/) took [a](/post/a/) [bite](/post/bite/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tried [to](/post/to/) [hold](/post/hold/) [a](/post/a/) [serious](/post/serious/) [conversation](/post/conversation/) [while](/post/while/) peeling [her](/post/her/) [banana](/post/banana/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sunbather's [skin](/post/skin/) was [a](/post/a/) [golden](/post/golden/) [banana](/post/banana/) [shade](/post/shade/)."
 
 ## Synonyms
-- [Fruit](/en/post/fruit/)
+- [Fruit](/post/fruit/)
 - Cucumber-shaped
 - Yellow-skinned
 - Long-fingered
 - Banana-colored
 
 ## Antonyms
-- [None](/en/post/none/) ([since](/en/post/since/) it's [a](/en/post/a/) [specific](/en/post/specific/) [fruit](/en/post/fruit/), [not](/en/post/not/) [easily](/en/post/easily/) replaced [by](/en/post/by/) [another](/en/post/another/) [noun](/en/post/noun/))
+- [None](/post/none/) ([since](/post/since/) it's [a](/post/a/) [specific](/post/specific/) [fruit](/post/fruit/), [not](/post/not/) [easily](/post/easily/) replaced [by](/post/by/) [another](/post/another/) [noun](/post/noun/))

@@ -7,40 +7,40 @@ description = '[ˌinviˈtei∫ən] n.邀请，招待；请柬'
 keywords = ['ai words', 'invitation']
 +++
 
-## [Word](/en/post/word/): [Invitation](/en/post/invitation/)
+## [Word](/post/word/): [Invitation](/post/invitation/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɪnvɪˈteɪʃən/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-- [A](/en/post/a/) written [or](/en/post/or/) verbal [request](/en/post/request/) inviting [someone](/en/post/someone/) [to](/en/post/to/) [go](/en/post/go/) [somewhere](/en/post/somewhere/) [or](/en/post/or/) [do](/en/post/do/) [something](/en/post/something/), [often](/en/post/often/) suggesting [a](/en/post/a/) [social](/en/post/social/) [event](/en/post/event/) [or](/en/post/or/) [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) received an [invitation](/en/post/invitation/) [to](/en/post/to/) [her](/en/post/her/) friend's [wedding](/en/post/wedding/)."
-- [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) inviting [or](/en/post/or/) attracting; allurement [or](/en/post/or/) enticement. [Example](/en/post/example/): "[The](/en/post/the/) [smell](/en/post/smell/) [of](/en/post/of/) [fresh](/en/post/fresh/) [coffee](/en/post/coffee/) was an [invitation](/en/post/invitation/) [to](/en/post/to/) [start](/en/post/start/) [the](/en/post/the/) [day](/en/post/day/)."
+### [Noun](/post/noun/) (n)
+- [A](/post/a/) written [or](/post/or/) verbal [request](/post/request/) inviting [someone](/post/someone/) [to](/post/to/) [go](/post/go/) [somewhere](/post/somewhere/) [or](/post/or/) [do](/post/do/) [something](/post/something/), [often](/post/often/) suggesting [a](/post/a/) [social](/post/social/) [event](/post/event/) [or](/post/or/) [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) received an [invitation](/post/invitation/) [to](/post/to/) [her](/post/her/) friend's [wedding](/post/wedding/)."
+- [The](/post/the/) [act](/post/act/) [of](/post/of/) inviting [or](/post/or/) attracting; allurement [or](/post/or/) enticement. [Example](/post/example/): "[The](/post/the/) [smell](/post/smell/) [of](/post/of/) [fresh](/post/fresh/) [coffee](/post/coffee/) was an [invitation](/post/invitation/) [to](/post/to/) [start](/post/start/) [the](/post/the/) [day](/post/day/)."
 
 ### Phrases
-- "[Send](/en/post/send/) an [invitation](/en/post/invitation/)" [means](/en/post/means/) [to](/en/post/to/) dispatch [a](/en/post/a/) written [or](/en/post/or/) [electronic](/en/post/electronic/) [request](/en/post/request/) asking [someone](/en/post/someone/) [to](/en/post/to/) [attend](/en/post/attend/) an [event](/en/post/event/).
-- "RSVP [to](/en/post/to/) an [invitation](/en/post/invitation/)" [means](/en/post/means/) [to](/en/post/to/) [respond](/en/post/respond/) [to](/en/post/to/) [the](/en/post/the/) [invitation](/en/post/invitation/) indicating [whether](/en/post/whether/) [one](/en/post/one/) [will](/en/post/will/) [attend](/en/post/attend/) [or](/en/post/or/) [not](/en/post/not/).
-- "[Accept](/en/post/accept/)/decline an [invitation](/en/post/invitation/)" refers [to](/en/post/to/) responding positively [or](/en/post/or/) negatively [to](/en/post/to/) an [offer](/en/post/offer/) [or](/en/post/or/) [request](/en/post/request/).
+- "[Send](/post/send/) an [invitation](/post/invitation/)" [means](/post/means/) [to](/post/to/) dispatch [a](/post/a/) written [or](/post/or/) [electronic](/post/electronic/) [request](/post/request/) asking [someone](/post/someone/) [to](/post/to/) [attend](/post/attend/) an [event](/post/event/).
+- "RSVP [to](/post/to/) an [invitation](/post/invitation/)" [means](/post/means/) [to](/post/to/) [respond](/post/respond/) [to](/post/to/) [the](/post/the/) [invitation](/post/invitation/) indicating [whether](/post/whether/) [one](/post/one/) [will](/post/will/) [attend](/post/attend/) [or](/post/or/) [not](/post/not/).
+- "[Accept](/post/accept/)/decline an [invitation](/post/invitation/)" refers [to](/post/to/) responding positively [or](/post/or/) negatively [to](/post/to/) an [offer](/post/offer/) [or](/post/or/) [request](/post/request/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "We've sent [out](/en/post/out/) invitations [for](/en/post/for/) [our](/en/post/our/) housewarming [party](/en/post/party/)."
-- "[His](/en/post/his/) winning [smile](/en/post/smile/) was an unspoken [invitation](/en/post/invitation/) [to](/en/post/to/) [dance](/en/post/dance/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "We've sent [out](/post/out/) invitations [for](/post/for/) [our](/post/our/) housewarming [party](/post/party/)."
+- "[His](/post/his/) winning [smile](/post/smile/) was an unspoken [invitation](/post/invitation/) [to](/post/to/) [dance](/post/dance/)."
 
 ## Synonyms
-- [Request](/en/post/request/)
-- [Invite](/en/post/invite/)
+- [Request](/post/request/)
+- [Invite](/post/invite/)
 - summons
 - bidding
-- [call](/en/post/call/)
+- [call](/post/call/)
 - Exhortation
-- [Appeal](/en/post/appeal/)
+- [Appeal](/post/appeal/)
 - Entreaty
 - Proposition
 
-## [Phrase](/en/post/phrase/) Examples
-- "I [have](/en/post/have/) extended an [invitation](/en/post/invitation/) [to](/en/post/to/) [my](/en/post/my/) colleagues [for](/en/post/for/) [dinner](/en/post/dinner/) [this](/en/post/this/) [weekend](/en/post/weekend/)."
-- "Don't [forget](/en/post/forget/) [to](/en/post/to/) RSVP [by](/en/post/by/) [the](/en/post/the/) deadline mentioned [in](/en/post/in/) [your](/en/post/your/) [birthday](/en/post/birthday/) [party](/en/post/party/) [invitation](/en/post/invitation/)." 
+## [Phrase](/post/phrase/) Examples
+- "I [have](/post/have/) extended an [invitation](/post/invitation/) [to](/post/to/) [my](/post/my/) colleagues [for](/post/for/) [dinner](/post/dinner/) [this](/post/this/) [weekend](/post/weekend/)."
+- "Don't [forget](/post/forget/) [to](/post/to/) RSVP [by](/post/by/) [the](/post/the/) deadline mentioned [in](/post/in/) [your](/post/your/) [birthday](/post/birthday/) [party](/post/party/) [invitation](/post/invitation/)." 
 
 ## Derived Forms & Phrasal Verbs
-- **[Invite](/en/post/invite/) (v)**: [To](/en/post/to/) [extend](/en/post/extend/) an [invitation](/en/post/invitation/) [to](/en/post/to/) [someone](/en/post/someone/). [Example](/en/post/example/): "[They](/en/post/they/) invited [us](/en/post/us/) [over](/en/post/over/) [for](/en/post/for/) [a](/en/post/a/) barbecue [on](/en/post/on/) Saturday."
-- "[Issue](/en/post/issue/) an [invitation](/en/post/invitation/)": [To](/en/post/to/) formally [present](/en/post/present/) [or](/en/post/or/) [distribute](/en/post/distribute/) invitations. [Example](/en/post/example/): "[The](/en/post/the/) [hostess](/en/post/hostess/) issued invitations [to](/en/post/to/) [her](/en/post/her/) [annual](/en/post/annual/) [charity](/en/post/charity/) gala."
+- **[Invite](/post/invite/) (v)**: [To](/post/to/) [extend](/post/extend/) an [invitation](/post/invitation/) [to](/post/to/) [someone](/post/someone/). [Example](/post/example/): "[They](/post/they/) invited [us](/post/us/) [over](/post/over/) [for](/post/for/) [a](/post/a/) barbecue [on](/post/on/) Saturday."
+- "[Issue](/post/issue/) an [invitation](/post/invitation/)": [To](/post/to/) formally [present](/post/present/) [or](/post/or/) [distribute](/post/distribute/) invitations. [Example](/post/example/): "[The](/post/the/) [hostess](/post/hostess/) issued invitations [to](/post/to/) [her](/post/her/) [annual](/post/annual/) [charity](/post/charity/) gala."

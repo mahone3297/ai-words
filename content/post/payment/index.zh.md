@@ -11,20 +11,20 @@ keywords = ['ai words', 'payment']
 /ˈpeɪmənt/
 
 ## 释义
-- **名词**: 付款；支付。指支付金钱或其他形式的偿付。例如: "I made [the](/post/the/) [final](/post/final/) [payment](/post/payment/) [on](/post/on/) [my](/post/my/) [car](/post/car/) [yesterday](/post/yesterday/)."
-- **动词**: 支付；结算。表示付清款项的行为。例如: "[She](/post/she/) [will](/post/will/) [payment](/post/payment/) [the](/post/the/) [bill](/post/bill/) [when](/post/when/) [it](/post/it/) arrives."
+- **名词**: 付款；支付。指支付金钱或其他形式的偿付。例如: "I made [the](/zh/post/the/) [final](/zh/post/final/) [payment](/zh/post/payment/) [on](/zh/post/on/) [my](/zh/post/my/) [car](/zh/post/car/) [yesterday](/zh/post/yesterday/)."
+- **动词**: 支付；结算。表示付清款项的行为。例如: "[She](/zh/post/she/) [will](/zh/post/will/) [payment](/zh/post/payment/) [the](/zh/post/the/) [bill](/zh/post/bill/) [when](/zh/post/when/) [it](/zh/post/it/) arrives."
 
 ## 短语
-- "[Payment](/post/payment/) [plan](/post/plan/)" 指分期付款计划。
-- "Upfront [payment](/post/payment/)" 指预付款或首付。
-- "[Cash](/post/cash/) [payment](/post/payment/)" 指现金支付。
+- "[Payment](/zh/post/payment/) [plan](/zh/post/plan/)" 指分期付款计划。
+- "Upfront [payment](/zh/post/payment/)" 指预付款或首付。
+- "[Cash](/zh/post/cash/) [payment](/zh/post/payment/)" 指现金支付。
 
 ## 例句
-- 名词: "[Please](/post/please/) [confirm](/post/confirm/) [your](/post/your/) [payment](/post/payment/) details [before](/post/before/) submitting [the](/post/the/) [order](/post/order/)."
-- 动词: "[He](/post/he/) promised [to](/post/to/) [payment](/post/payment/) [the](/post/the/) [debt](/post/debt/) [as](/post/as/) [soon](/post/soon/) [as](/post/as/) [possible](/post/possible/)."
+- 名词: "[Please](/zh/post/please/) [confirm](/zh/post/confirm/) [your](/zh/post/your/) [payment](/zh/post/payment/) details [before](/zh/post/before/) submitting [the](/zh/post/the/) [order](/zh/post/order/)."
+- 动词: "[He](/zh/post/he/) promised [to](/zh/post/to/) [payment](/zh/post/payment/) [the](/zh/post/the/) [debt](/zh/post/debt/) [as](/zh/post/as/) [soon](/zh/post/soon/) [as](/zh/post/as/) [possible](/zh/post/possible/)."
 
 ## 同义词
-- [Settlement](/post/settlement/)
+- [Settlement](/zh/post/settlement/)
 - Repayment
 - Remittance
 - Disbursement

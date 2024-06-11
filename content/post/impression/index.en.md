@@ -7,44 +7,44 @@ description = '[imˈpre∫ən] n.印；印象；印记'
 keywords = ['ai words', 'impression']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪmˈpreʃən/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-- **[A](/en/post/a/) [mark](/en/post/mark/), indentation, [or](/en/post/or/) imprint [left](/en/post/left/) [by](/en/post/by/) [pressure](/en/post/pressure/)**: [The](/en/post/the/) [book](/en/post/book/) [left](/en/post/left/) an [impression](/en/post/impression/) [on](/en/post/on/) [the](/en/post/the/) tablecloth.
-- **[A](/en/post/a/) lasting [effect](/en/post/effect/) produced [on](/en/post/on/) someone's [mind](/en/post/mind/) [or](/en/post/or/) feelings [by](/en/post/by/) [a](/en/post/a/) [person](/en/post/person/), [experience](/en/post/experience/), [or](/en/post/or/) [thing](/en/post/thing/)**: [Her](/en/post/her/) [speech](/en/post/speech/) made [a](/en/post/a/) [deep](/en/post/deep/) [impression](/en/post/impression/) [on](/en/post/on/) [the](/en/post/the/) [audience](/en/post/audience/).
-- **[A](/en/post/a/) person's [mental](/en/post/mental/) [image](/en/post/image/) [or](/en/post/or/) conception [of](/en/post/of/) [something](/en/post/something/)**: [His](/en/post/his/) [impression](/en/post/impression/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) was [that](/en/post/that/) [it](/en/post/it/) was bustling [with](/en/post/with/) [life](/en/post/life/).
-- **[A](/en/post/a/) [performance](/en/post/performance/) [that](/en/post/that/) imitates [or](/en/post/or/) replicates [another](/en/post/another/) [person](/en/post/person/), [usually](/en/post/usually/) [for](/en/post/for/) entertainment**: [He](/en/post/he/) does [a](/en/post/a/) hilarious [impression](/en/post/impression/) [of](/en/post/of/) [the](/en/post/the/) [president](/en/post/president/).
-- [In](/en/post/in/) [law](/en/post/law/), [a](/en/post/a/) reproduction [or](/en/post/or/) [copy](/en/post/copy/) [of](/en/post/of/) an [original](/en/post/original/) [document](/en/post/document/).
+### [Noun](/post/noun/) (n)
+- **[A](/post/a/) [mark](/post/mark/), indentation, [or](/post/or/) imprint [left](/post/left/) [by](/post/by/) [pressure](/post/pressure/)**: [The](/post/the/) [book](/post/book/) [left](/post/left/) an [impression](/post/impression/) [on](/post/on/) [the](/post/the/) tablecloth.
+- **[A](/post/a/) lasting [effect](/post/effect/) produced [on](/post/on/) someone's [mind](/post/mind/) [or](/post/or/) feelings [by](/post/by/) [a](/post/a/) [person](/post/person/), [experience](/post/experience/), [or](/post/or/) [thing](/post/thing/)**: [Her](/post/her/) [speech](/post/speech/) made [a](/post/a/) [deep](/post/deep/) [impression](/post/impression/) [on](/post/on/) [the](/post/the/) [audience](/post/audience/).
+- **[A](/post/a/) person's [mental](/post/mental/) [image](/post/image/) [or](/post/or/) conception [of](/post/of/) [something](/post/something/)**: [His](/post/his/) [impression](/post/impression/) [of](/post/of/) [the](/post/the/) [city](/post/city/) was [that](/post/that/) [it](/post/it/) was bustling [with](/post/with/) [life](/post/life/).
+- **[A](/post/a/) [performance](/post/performance/) [that](/post/that/) imitates [or](/post/or/) replicates [another](/post/another/) [person](/post/person/), [usually](/post/usually/) [for](/post/for/) entertainment**: [He](/post/he/) does [a](/post/a/) hilarious [impression](/post/impression/) [of](/post/of/) [the](/post/the/) [president](/post/president/).
+- [In](/post/in/) [law](/post/law/), [a](/post/a/) reproduction [or](/post/or/) [copy](/post/copy/) [of](/post/of/) an [original](/post/original/) [document](/post/document/).
 
-[Example](/en/post/example/) sentences:
-- *[The](/en/post/the/) [artist](/en/post/artist/) created [a](/en/post/a/) detailed [impression](/en/post/impression/) [of](/en/post/of/) [the](/en/post/the/) landscape using [oil](/en/post/oil/) paints.*
-- *[Her](/en/post/her/) [first](/en/post/first/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/) [left](/en/post/left/) [a](/en/post/a/) favorable [impression](/en/post/impression/) [on](/en/post/on/) [her](/en/post/her/) colleagues.*
+[Example](/post/example/) sentences:
+- *[The](/post/the/) [artist](/post/artist/) created [a](/post/a/) detailed [impression](/post/impression/) [of](/post/of/) [the](/post/the/) landscape using [oil](/post/oil/) paints.*
+- *[Her](/post/her/) [first](/post/first/) [day](/post/day/) [at](/post/at/) [work](/post/work/) [left](/post/left/) [a](/post/a/) favorable [impression](/post/impression/) [on](/post/on/) [her](/post/her/) colleagues.*
 
-### [Verb](/en/post/verb/) (v)
-- **[To](/en/post/to/) [produce](/en/post/produce/) [a](/en/post/a/) [mark](/en/post/mark/) [or](/en/post/or/) indentation [on](/en/post/on/) [something](/en/post/something/)**: [She](/en/post/she/) accidentally impressed [her](/en/post/her/) initials [into](/en/post/into/) [the](/en/post/the/) [wet](/en/post/wet/) [cement](/en/post/cement/).
-- **[To](/en/post/to/) [affect](/en/post/affect/) [or](/en/post/or/) [influence](/en/post/influence/) someone's thoughts [or](/en/post/or/) feelings**: [The](/en/post/the/) [teacher](/en/post/teacher/) impressed [upon](/en/post/upon/) [us](/en/post/us/) [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) punctuality.
-- **[To](/en/post/to/) [produce](/en/post/produce/) [a](/en/post/a/) [vivid](/en/post/vivid/) [or](/en/post/or/) [clear](/en/post/clear/) [mental](/en/post/mental/) [image](/en/post/image/) [or](/en/post/or/) [understanding](/en/post/understanding/) [in](/en/post/in/) someone's [mind](/en/post/mind/)**: [The](/en/post/the/) [author](/en/post/author/) impresses [vivid](/en/post/vivid/) descriptions [of](/en/post/of/) [the](/en/post/the/) [setting](/en/post/setting/).
-- **[To](/en/post/to/) mimic [or](/en/post/or/) impersonate ([someone](/en/post/someone/)) [for](/en/post/for/) amusement [or](/en/post/or/) [effect](/en/post/effect/)**: He's [great](/en/post/great/) [at](/en/post/at/) impressions; [he](/en/post/he/) [can](/en/post/can/) [do](/en/post/do/) [all](/en/post/all/) [the](/en/post/the/) Hollywood stars.
+### [Verb](/post/verb/) (v)
+- **[To](/post/to/) [produce](/post/produce/) [a](/post/a/) [mark](/post/mark/) [or](/post/or/) indentation [on](/post/on/) [something](/post/something/)**: [She](/post/she/) accidentally impressed [her](/post/her/) initials [into](/post/into/) [the](/post/the/) [wet](/post/wet/) [cement](/post/cement/).
+- **[To](/post/to/) [affect](/post/affect/) [or](/post/or/) [influence](/post/influence/) someone's thoughts [or](/post/or/) feelings**: [The](/post/the/) [teacher](/post/teacher/) impressed [upon](/post/upon/) [us](/post/us/) [the](/post/the/) [importance](/post/importance/) [of](/post/of/) punctuality.
+- **[To](/post/to/) [produce](/post/produce/) [a](/post/a/) [vivid](/post/vivid/) [or](/post/or/) [clear](/post/clear/) [mental](/post/mental/) [image](/post/image/) [or](/post/or/) [understanding](/post/understanding/) [in](/post/in/) someone's [mind](/post/mind/)**: [The](/post/the/) [author](/post/author/) impresses [vivid](/post/vivid/) descriptions [of](/post/of/) [the](/post/the/) [setting](/post/setting/).
+- **[To](/post/to/) mimic [or](/post/or/) impersonate ([someone](/post/someone/)) [for](/post/for/) amusement [or](/post/or/) [effect](/post/effect/)**: He's [great](/post/great/) [at](/post/at/) impressions; [he](/post/he/) [can](/post/can/) [do](/post/do/) [all](/post/all/) [the](/post/the/) Hollywood stars.
 
-[Example](/en/post/example/) sentences:
-- *[The](/en/post/the/) sculpture impressed [its](/en/post/its/) [design](/en/post/design/) [onto](/en/post/onto/) [the](/en/post/the/) [clay](/en/post/clay/).*
-- *"[He](/en/post/he/) tried [to](/en/post/to/) [impress](/en/post/impress/) [his](/en/post/his/) [boss](/en/post/boss/) [with](/en/post/with/) [his](/en/post/his/) dedication [and](/en/post/and/) [hard](/en/post/hard/) [work](/en/post/work/)."*
+[Example](/post/example/) sentences:
+- *[The](/post/the/) sculpture impressed [its](/post/its/) [design](/post/design/) [onto](/post/onto/) [the](/post/the/) [clay](/post/clay/).*
+- *"[He](/post/he/) tried [to](/post/to/) [impress](/post/impress/) [his](/post/his/) [boss](/post/boss/) [with](/post/with/) [his](/post/his/) dedication [and](/post/and/) [hard](/post/hard/) [work](/post/work/)."*
 
 ## Phrases
-- "[Make](/en/post/make/) an [impression](/en/post/impression/)": [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [significant](/en/post/significant/) [impact](/en/post/impact/) [or](/en/post/or/) [influence](/en/post/influence/) [on](/en/post/on/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/).
-- "[First](/en/post/first/) [impression](/en/post/impression/)": [The](/en/post/the/) [initial](/en/post/initial/) perception [one](/en/post/one/) forms [about](/en/post/about/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/).
-- "[Under](/en/post/under/) [the](/en/post/the/) [impression](/en/post/impression/)": Believing [something](/en/post/something/) [to](/en/post/to/) [be](/en/post/be/) [true](/en/post/true/) based [on](/en/post/on/) [information](/en/post/information/) received.
+- "[Make](/post/make/) an [impression](/post/impression/)": [To](/post/to/) [have](/post/have/) [a](/post/a/) [significant](/post/significant/) [impact](/post/impact/) [or](/post/or/) [influence](/post/influence/) [on](/post/on/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/).
+- "[First](/post/first/) [impression](/post/impression/)": [The](/post/the/) [initial](/post/initial/) perception [one](/post/one/) forms [about](/post/about/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/).
+- "[Under](/post/under/) [the](/post/the/) [impression](/post/impression/)": Believing [something](/post/something/) [to](/post/to/) [be](/post/be/) [true](/post/true/) based [on](/post/on/) [information](/post/information/) received.
 
 ## Synonyms
-- [Impact](/en/post/impact/)
-- [Effect](/en/post/effect/)
-- [Influence](/en/post/influence/)
-- Impressionism ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [art](/en/post/art/))
-- Mimicry ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [sense](/en/post/sense/) related [to](/en/post/to/) impersonation)
-- Replica ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [sense](/en/post/sense/) referring [to](/en/post/to/) reproductions)
+- [Impact](/post/impact/)
+- [Effect](/post/effect/)
+- [Influence](/post/influence/)
+- Impressionism ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [art](/post/art/))
+- Mimicry ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [sense](/post/sense/) related [to](/post/to/) impersonation)
+- Replica ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [sense](/post/sense/) referring [to](/post/to/) reproductions)
 - Perception
-- [Understanding](/en/post/understanding/)
+- [Understanding](/post/understanding/)
 
-[Note](/en/post/note/): [Some](/en/post/some/) synonyms [may](/en/post/may/) [vary](/en/post/vary/) depending [on](/en/post/on/) [the](/en/post/the/) [specific](/en/post/specific/) [meaning](/en/post/meaning/) [being](/en/post/being/) referred [to](/en/post/to/).
+[Note](/post/note/): [Some](/post/some/) synonyms [may](/post/may/) [vary](/post/vary/) depending [on](/post/on/) [the](/post/the/) [specific](/post/specific/) [meaning](/post/meaning/) [being](/post/being/) referred [to](/post/to/).

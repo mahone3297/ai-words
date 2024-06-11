@@ -7,31 +7,31 @@ description = '[ˈriːˈtel] vt.再讲，重述，复述'
 keywords = ['ai words', 'retell']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈrɛtɛl/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) recount [or](/en/post/or/) [repeat](/en/post/repeat/) [a](/en/post/a/) [story](/en/post/story/), [event](/en/post/event/), [or](/en/post/or/) [information](/en/post/information/) [after](/en/post/after/) hearing [it](/en/post/it/) originally. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) rephrase [or](/en/post/or/) [adapt](/en/post/adapt/) [the](/en/post/the/) [content](/en/post/content/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) retold [the](/en/post/the/) [story](/en/post/story/) [in](/en/post/in/) [her](/en/post/her/) [own](/en/post/own/) words."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) retelling, [which](/en/post/which/) is [a](/en/post/a/) restatement [or](/en/post/or/) reproduction [of](/en/post/of/) [a](/en/post/a/) narrative [or](/en/post/or/) [account](/en/post/account/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) contains [several](/en/post/several/) retellings [of](/en/post/of/) classic fairy tales."
+- **[Verb](/post/verb/)**: [To](/post/to/) recount [or](/post/or/) [repeat](/post/repeat/) [a](/post/a/) [story](/post/story/), [event](/post/event/), [or](/post/or/) [information](/post/information/) [after](/post/after/) hearing [it](/post/it/) originally. [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) rephrase [or](/post/or/) [adapt](/post/adapt/) [the](/post/the/) [content](/post/content/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) retold [the](/post/the/) [story](/post/story/) [in](/post/in/) [her](/post/her/) [own](/post/own/) words."
+- **[Noun](/post/noun/)**: [A](/post/a/) retelling, [which](/post/which/) is [a](/post/a/) restatement [or](/post/or/) reproduction [of](/post/of/) [a](/post/a/) narrative [or](/post/or/) [account](/post/account/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) contains [several](/post/several/) retellings [of](/post/of/) classic fairy tales."
 
 ## Phrases
-- "[Retell](/en/post/retell/) [a](/en/post/a/) [tale](/en/post/tale/)" [means](/en/post/means/) [to](/en/post/to/) narrate [a](/en/post/a/) [story](/en/post/story/) [again](/en/post/again/).
-- "[He](/en/post/he/) retold [the](/en/post/the/) [legend](/en/post/legend/) [with](/en/post/with/) [vivid](/en/post/vivid/) [detail](/en/post/detail/)."
-- "[She](/en/post/she/) gave [a](/en/post/a/) retelling [of](/en/post/of/) [the](/en/post/the/) day's events [to](/en/post/to/) [her](/en/post/her/) friends."
+- "[Retell](/post/retell/) [a](/post/a/) [tale](/post/tale/)" [means](/post/means/) [to](/post/to/) narrate [a](/post/a/) [story](/post/story/) [again](/post/again/).
+- "[He](/post/he/) retold [the](/post/the/) [legend](/post/legend/) [with](/post/with/) [vivid](/post/vivid/) [detail](/post/detail/)."
+- "[She](/post/she/) gave [a](/post/a/) retelling [of](/post/of/) [the](/post/the/) day's events [to](/post/to/) [her](/post/her/) friends."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) listening [to](/en/post/to/) [the](/en/post/the/) [lecture](/en/post/lecture/), [he](/en/post/he/) retold [the](/en/post/the/) [key](/en/post/key/) points [to](/en/post/to/) [his](/en/post/his/) classmates."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [movie](/en/post/movie/) was [a](/en/post/a/) [visual](/en/post/visual/) retelling [of](/en/post/of/) [the](/en/post/the/) [original](/en/post/original/) [novel](/en/post/novel/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) retelling [of](/en/post/of/) [the](/en/post/the/) [adventure](/en/post/adventure/) had [a](/en/post/a/) magical [touch](/en/post/touch/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) listening [to](/post/to/) [the](/post/the/) [lecture](/post/lecture/), [he](/post/he/) retold [the](/post/the/) [key](/post/key/) points [to](/post/to/) [his](/post/his/) classmates."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [movie](/post/movie/) was [a](/post/a/) [visual](/post/visual/) retelling [of](/post/of/) [the](/post/the/) [original](/post/original/) [novel](/post/novel/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) retelling [of](/post/of/) [the](/post/the/) [adventure](/post/adventure/) had [a](/post/a/) magical [touch](/post/touch/)."
 
 ## Synonyms
 - Recount
-- [Reproduce](/en/post/reproduce/)
+- [Reproduce](/post/reproduce/)
 - Reiterate
-- [Relate](/en/post/relate/)
+- [Relate](/post/relate/)
 - Recapitulate
 
 ## Antonyms
-- [Invent](/en/post/invent/) ([as](/en/post/as/) [in](/en/post/in/) creating [a](/en/post/a/) [story](/en/post/story/) [from](/en/post/from/) [scratch](/en/post/scratch/))
-- Misrepresent ([as](/en/post/as/) [in](/en/post/in/) altering [the](/en/post/the/) [original](/en/post/original/) [content](/en/post/content/))
-- Paraphrase ([a](/en/post/a/) [slightly](/en/post/slightly/) [different](/en/post/different/) wording, [not](/en/post/not/) [necessarily](/en/post/necessarily/) [a](/en/post/a/) [complete](/en/post/complete/) retelling)
+- [Invent](/post/invent/) ([as](/post/as/) [in](/post/in/) creating [a](/post/a/) [story](/post/story/) [from](/post/from/) [scratch](/post/scratch/))
+- Misrepresent ([as](/post/as/) [in](/post/in/) altering [the](/post/the/) [original](/post/original/) [content](/post/content/))
+- Paraphrase ([a](/post/a/) [slightly](/post/slightly/) [different](/post/different/) wording, [not](/post/not/) [necessarily](/post/necessarily/) [a](/post/a/) [complete](/post/complete/) retelling)

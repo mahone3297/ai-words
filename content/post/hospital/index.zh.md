@@ -11,21 +11,21 @@ keywords = ['ai words', 'hospital']
 /həˈspɪtəl/
 
 ## 释义
-- **名词 (n)**: 提供医疗和护理服务的机构或建筑物。例如: "[She](/post/she/) is staying [in](/post/in/) [the](/post/the/) [hospital](/post/hospital/) [for](/post/for/) [a](/post/a/) [few](/post/few/) days [after](/post/after/) [her](/post/her/) [surgery](/post/surgery/)."
-- **形容词 (adj)**: 与医院相关的。例如: "[hospital](/post/hospital/) [staff](/post/staff/)"（医院工作人员）
+- **名词 (n)**: 提供医疗和护理服务的机构或建筑物。例如: "[She](/zh/post/she/) is staying [in](/zh/post/in/) [the](/zh/post/the/) [hospital](/zh/post/hospital/) [for](/zh/post/for/) [a](/zh/post/a/) [few](/zh/post/few/) days [after](/zh/post/after/) [her](/zh/post/her/) [surgery](/zh/post/surgery/)."
+- **形容词 (adj)**: 与医院相关的。例如: "[hospital](/zh/post/hospital/) [staff](/zh/post/staff/)"（医院工作人员）
 
 ## 短语
-- "[be](/post/be/) admitted [to](/post/to/) [the](/post/the/) [hospital](/post/hospital/)" 意为住院。
-- "outpatient [department](/post/department/)" 是医院中的门诊部。
-- "[emergency](/post/emergency/) [room](/post/room/)" 或 "ER" 是医院的急诊室。
+- "[be](/zh/post/be/) admitted [to](/zh/post/to/) [the](/zh/post/the/) [hospital](/zh/post/hospital/)" 意为住院。
+- "outpatient [department](/zh/post/department/)" 是医院中的门诊部。
+- "[emergency](/zh/post/emergency/) [room](/zh/post/room/)" 或 "ER" 是医院的急诊室。
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [hospital](/post/hospital/) has state-of-the-art [medical](/post/medical/) [equipment](/post/equipment/)."
-- 形容词: "[The](/post/the/) [hospital](/post/hospital/) [policy](/post/policy/) requires [all](/post/all/) visitors [to](/post/to/) [wear](/post/wear/) masks."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [hospital](/zh/post/hospital/) has state-of-the-art [medical](/zh/post/medical/) [equipment](/zh/post/equipment/)."
+- 形容词: "[The](/zh/post/the/) [hospital](/zh/post/hospital/) [policy](/zh/post/policy/) requires [all](/zh/post/all/) visitors [to](/zh/post/to/) [wear](/zh/post/wear/) masks."
 
 ## 同义词
 - Clinic
 - Infirmary
-- [Medical](/post/medical/) center
+- [Medical](/zh/post/medical/) center
 - Sanatorium
-- Healthcare [facility](/post/facility/)
+- Healthcare [facility](/zh/post/facility/)

@@ -7,38 +7,38 @@ description = '[əˈkɔːd] vt.使一致；给予'
 keywords = ['ai words', 'accord']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈkɔːrd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [Agreement](/en/post/agreement/) [or](/en/post/or/) [harmony](/en/post/harmony/) [in](/en/post/in/) [opinion](/en/post/opinion/), [action](/en/post/action/), [or](/en/post/or/) [feeling](/en/post/feeling/): *[The](/en/post/the/) [two](/en/post/two/) sides reached an [accord](/en/post/accord/) [on](/en/post/on/) [the](/en/post/the/) terms [of](/en/post/of/) [the](/en/post/the/) [treaty](/en/post/treaty/).*
-2. [A](/en/post/a/) [formal](/en/post/formal/) [agreement](/en/post/agreement/) [or](/en/post/or/) [understanding](/en/post/understanding/): *[They](/en/post/they/) signed an [accord](/en/post/accord/) [to](/en/post/to/) [end](/en/post/end/) [the](/en/post/the/) [conflict](/en/post/conflict/).*
-3. [A](/en/post/a/) [musical](/en/post/musical/) [composition](/en/post/composition/) [or](/en/post/or/) [arrangement](/en/post/arrangement/) characterized [by](/en/post/by/) [a](/en/post/a/) [particular](/en/post/particular/) [style](/en/post/style/) [or](/en/post/or/) [mood](/en/post/mood/): *[The](/en/post/the/) [jazz](/en/post/jazz/) [piece](/en/post/piece/) had [a](/en/post/a/) relaxed [accord](/en/post/accord/).*
+### [Noun](/post/noun/)
+1. [Agreement](/post/agreement/) [or](/post/or/) [harmony](/post/harmony/) [in](/post/in/) [opinion](/post/opinion/), [action](/post/action/), [or](/post/or/) [feeling](/post/feeling/): *[The](/post/the/) [two](/post/two/) sides reached an [accord](/post/accord/) [on](/post/on/) [the](/post/the/) terms [of](/post/of/) [the](/post/the/) [treaty](/post/treaty/).*
+2. [A](/post/a/) [formal](/post/formal/) [agreement](/post/agreement/) [or](/post/or/) [understanding](/post/understanding/): *[They](/post/they/) signed an [accord](/post/accord/) [to](/post/to/) [end](/post/end/) [the](/post/the/) [conflict](/post/conflict/).*
+3. [A](/post/a/) [musical](/post/musical/) [composition](/post/composition/) [or](/post/or/) [arrangement](/post/arrangement/) characterized [by](/post/by/) [a](/post/a/) [particular](/post/particular/) [style](/post/style/) [or](/post/or/) [mood](/post/mood/): *[The](/post/the/) [jazz](/post/jazz/) [piece](/post/piece/) had [a](/post/a/) relaxed [accord](/post/accord/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [reach](/en/post/reach/) an [agreement](/en/post/agreement/) [or](/en/post/or/) [understanding](/en/post/understanding/): *[The](/en/post/the/) parties accorded [each](/en/post/each/) [other](/en/post/other/) [equal](/en/post/equal/) rights.*
-2. [To](/en/post/to/) [give](/en/post/give/) [or](/en/post/or/) [show](/en/post/show/) [respect](/en/post/respect/) [or](/en/post/or/) [consideration](/en/post/consideration/): *[He](/en/post/he/) accorded [her](/en/post/her/) [the](/en/post/the/) [title](/en/post/title/) [of](/en/post/of/) honor.*
-3. ([Music](/en/post/music/)) [To](/en/post/to/) [play](/en/post/play/) [in](/en/post/in/) [harmony](/en/post/harmony/) [with](/en/post/with/) [another](/en/post/another/) [instrument](/en/post/instrument/) [or](/en/post/or/) [voice](/en/post/voice/): *[The](/en/post/the/) pianist accorded beautifully [with](/en/post/with/) [the](/en/post/the/) [singer](/en/post/singer/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [reach](/post/reach/) an [agreement](/post/agreement/) [or](/post/or/) [understanding](/post/understanding/): *[The](/post/the/) parties accorded [each](/post/each/) [other](/post/other/) [equal](/post/equal/) rights.*
+2. [To](/post/to/) [give](/post/give/) [or](/post/or/) [show](/post/show/) [respect](/post/respect/) [or](/post/or/) [consideration](/post/consideration/): *[He](/post/he/) accorded [her](/post/her/) [the](/post/the/) [title](/post/title/) [of](/post/of/) honor.*
+3. ([Music](/post/music/)) [To](/post/to/) [play](/post/play/) [in](/post/in/) [harmony](/post/harmony/) [with](/post/with/) [another](/post/another/) [instrument](/post/instrument/) [or](/post/or/) [voice](/post/voice/): *[The](/post/the/) pianist accorded beautifully [with](/post/with/) [the](/post/the/) [singer](/post/singer/).*
 
-### [Adjective](/en/post/adjective/)
-1. [In](/en/post/in/) [harmony](/en/post/harmony/) [or](/en/post/or/) [agreement](/en/post/agreement/): *[Their](/en/post/their/) ideas were [in](/en/post/in/) [accord](/en/post/accord/).*
-2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [agreement](/en/post/agreement/) [or](/en/post/or/) [harmony](/en/post/harmony/): *[The](/en/post/the/) [atmosphere](/en/post/atmosphere/) was marked [by](/en/post/by/) [a](/en/post/a/) [friendly](/en/post/friendly/) [accord](/en/post/accord/).*
+### [Adjective](/post/adjective/)
+1. [In](/post/in/) [harmony](/post/harmony/) [or](/post/or/) [agreement](/post/agreement/): *[Their](/post/their/) ideas were [in](/post/in/) [accord](/post/accord/).*
+2. [Characteristic](/post/characteristic/) [of](/post/of/) [agreement](/post/agreement/) [or](/post/or/) [harmony](/post/harmony/): *[The](/post/the/) [atmosphere](/post/atmosphere/) was marked [by](/post/by/) [a](/post/a/) [friendly](/post/friendly/) [accord](/post/accord/).*
 
 ## Phrases
-- "[Come](/en/post/come/) [to](/en/post/to/) an [accord](/en/post/accord/)" [means](/en/post/means/) [to](/en/post/to/) [reach](/en/post/reach/) [a](/en/post/a/) [mutual](/en/post/mutual/) [agreement](/en/post/agreement/).
-- "[In](/en/post/in/) [accord](/en/post/accord/) [with](/en/post/with/)" signifies [agreement](/en/post/agreement/) [or](/en/post/or/) conformity.
-- "An [accord](/en/post/accord/) [between](/en/post/between/) nations" highlights [a](/en/post/a/) [peaceful](/en/post/peaceful/) [relationship](/en/post/relationship/).
+- "[Come](/post/come/) [to](/post/to/) an [accord](/post/accord/)" [means](/post/means/) [to](/post/to/) [reach](/post/reach/) [a](/post/a/) [mutual](/post/mutual/) [agreement](/post/agreement/).
+- "[In](/post/in/) [accord](/post/accord/) [with](/post/with/)" signifies [agreement](/post/agreement/) [or](/post/or/) conformity.
+- "An [accord](/post/accord/) [between](/post/between/) nations" highlights [a](/post/a/) [peaceful](/post/peaceful/) [relationship](/post/relationship/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[After](/en/post/after/) months [of](/en/post/of/) negotiations, [the](/en/post/the/) [two](/en/post/two/) countries [finally](/en/post/finally/) reached an [accord](/en/post/accord/) [on](/en/post/on/) [trade](/en/post/trade/) tariffs.*
-- **[Verb](/en/post/verb/)**: *[They](/en/post/they/) accorded [each](/en/post/each/) [other](/en/post/other/) [the](/en/post/the/) [respect](/en/post/respect/) [they](/en/post/they/) deserved [after](/en/post/after/) years [of](/en/post/of/) rivalry.*
-- **[Adjective](/en/post/adjective/)**: *[Their](/en/post/their/) actions were [in](/en/post/in/) [accord](/en/post/accord/) [with](/en/post/with/) [their](/en/post/their/) stated beliefs.*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[After](/post/after/) months [of](/post/of/) negotiations, [the](/post/the/) [two](/post/two/) countries [finally](/post/finally/) reached an [accord](/post/accord/) [on](/post/on/) [trade](/post/trade/) tariffs.*
+- **[Verb](/post/verb/)**: *[They](/post/they/) accorded [each](/post/each/) [other](/post/other/) [the](/post/the/) [respect](/post/respect/) [they](/post/they/) deserved [after](/post/after/) years [of](/post/of/) rivalry.*
+- **[Adjective](/post/adjective/)**: *[Their](/post/their/) actions were [in](/post/in/) [accord](/post/accord/) [with](/post/with/) [their](/post/their/) stated beliefs.*
 
 ## Synonyms
 - Consensus
-- [Agreement](/en/post/agreement/)
-- [Harmony](/en/post/harmony/)
+- [Agreement](/post/agreement/)
+- [Harmony](/post/harmony/)
 - Concurrence
-- [Mutual](/en/post/mutual/) [understanding](/en/post/understanding/)
-- [Mutual](/en/post/mutual/) [consent](/en/post/consent/)
+- [Mutual](/post/mutual/) [understanding](/post/understanding/)
+- [Mutual](/post/mutual/) [consent](/post/consent/)

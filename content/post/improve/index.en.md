@@ -7,31 +7,31 @@ description = '[imˈpruːv] vt.使更好 vi.改善'
 keywords = ['ai words', 'improve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪmˈpruːv/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) enhance [or](/en/post/or/) [make](/en/post/make/) [better](/en/post/better/) [in](/en/post/in/) [quality](/en/post/quality/), [quantity](/en/post/quantity/), [or](/en/post/or/) [efficiency](/en/post/efficiency/); [to](/en/post/to/) [advance](/en/post/advance/) [or](/en/post/or/) [develop](/en/post/develop/) [something](/en/post/something/) towards [a](/en/post/a/) [better](/en/post/better/) [state](/en/post/state/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) are constantly working [to](/en/post/to/) [improve](/en/post/improve/) [their](/en/post/their/) products."
-  - *[Improve](/en/post/improve/) [oneself](/en/post/oneself/)*: [To](/en/post/to/) [work](/en/post/work/) [on](/en/post/on/) [personal](/en/post/personal/) [development](/en/post/development/) [or](/en/post/or/) self-improvement, e.g., "He's taking courses [to](/en/post/to/) [improve](/en/post/improve/) [himself](/en/post/himself/)."
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [result](/en/post/result/) [of](/en/post/of/) making [something](/en/post/something/) [better](/en/post/better/); [improvement](/en/post/improvement/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) has shown [remarkable](/en/post/remarkable/) [improve](/en/post/improve/) [this](/en/post/this/) [quarter](/en/post/quarter/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) enhance [or](/post/or/) [make](/post/make/) [better](/post/better/) [in](/post/in/) [quality](/post/quality/), [quantity](/post/quantity/), [or](/post/or/) [efficiency](/post/efficiency/); [to](/post/to/) [advance](/post/advance/) [or](/post/or/) [develop](/post/develop/) [something](/post/something/) towards [a](/post/a/) [better](/post/better/) [state](/post/state/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) are constantly working [to](/post/to/) [improve](/post/improve/) [their](/post/their/) products."
+  - *[Improve](/post/improve/) [oneself](/post/oneself/)*: [To](/post/to/) [work](/post/work/) [on](/post/on/) [personal](/post/personal/) [development](/post/development/) [or](/post/or/) self-improvement, e.g., "He's taking courses [to](/post/to/) [improve](/post/improve/) [himself](/post/himself/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [or](/post/or/) [result](/post/result/) [of](/post/of/) making [something](/post/something/) [better](/post/better/); [improvement](/post/improvement/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) has shown [remarkable](/post/remarkable/) [improve](/post/improve/) [this](/post/this/) [quarter](/post/quarter/)."
 
 ## Phrases
-- "[To](/en/post/to/) [improve](/en/post/improve/) [upon](/en/post/upon/) [something](/en/post/something/)": [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [better](/en/post/better/) [than](/en/post/than/) [its](/en/post/its/) [current](/en/post/current/) [state](/en/post/state/). [Example](/en/post/example/): "[She](/en/post/she/) improved [upon](/en/post/upon/) [her](/en/post/her/) [previous](/en/post/previous/) [design](/en/post/design/) [with](/en/post/with/) [new](/en/post/new/) features."
-- "[For](/en/post/for/) [the](/en/post/the/) [better](/en/post/better/)": An [expression](/en/post/expression/) [that](/en/post/that/) implies [improvement](/en/post/improvement/) has occurred [or](/en/post/or/) is expected. [Example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) [surgery](/en/post/surgery/), [his](/en/post/his/) [health](/en/post/health/) was [definitely](/en/post/definitely/) [for](/en/post/for/) [the](/en/post/the/) [better](/en/post/better/)."
-- "[Improvement](/en/post/improvement/) [plan](/en/post/plan/)": [A](/en/post/a/) [strategy](/en/post/strategy/) designed [to](/en/post/to/) enhance [performance](/en/post/performance/), productivity, [or](/en/post/or/) [quality](/en/post/quality/) [in](/en/post/in/) [various](/en/post/various/) contexts.
+- "[To](/post/to/) [improve](/post/improve/) [upon](/post/upon/) [something](/post/something/)": [To](/post/to/) [make](/post/make/) [something](/post/something/) [better](/post/better/) [than](/post/than/) [its](/post/its/) [current](/post/current/) [state](/post/state/). [Example](/post/example/): "[She](/post/she/) improved [upon](/post/upon/) [her](/post/her/) [previous](/post/previous/) [design](/post/design/) [with](/post/with/) [new](/post/new/) features."
+- "[For](/post/for/) [the](/post/the/) [better](/post/better/)": An [expression](/post/expression/) [that](/post/that/) implies [improvement](/post/improvement/) has occurred [or](/post/or/) is expected. [Example](/post/example/): "[After](/post/after/) [the](/post/the/) [surgery](/post/surgery/), [his](/post/his/) [health](/post/health/) was [definitely](/post/definitely/) [for](/post/for/) [the](/post/the/) [better](/post/better/)."
+- "[Improvement](/post/improvement/) [plan](/post/plan/)": [A](/post/a/) [strategy](/post/strategy/) designed [to](/post/to/) enhance [performance](/post/performance/), productivity, [or](/post/or/) [quality](/post/quality/) [in](/post/in/) [various](/post/various/) contexts.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[By](/en/post/by/) exercising [regularly](/en/post/regularly/), [he](/en/post/he/) has improved [his](/en/post/his/) [overall](/en/post/overall/) [health](/en/post/health/) significantly."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) manager presented [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) proposed improvements [for](/en/post/for/) [the](/en/post/the/) [office](/en/post/office/) workflow."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[By](/post/by/) exercising [regularly](/post/regularly/), [he](/post/he/) has improved [his](/post/his/) [overall](/post/overall/) [health](/post/health/) significantly."
+- **[Noun](/post/noun/)**: "[The](/post/the/) manager presented [a](/post/a/) [list](/post/list/) [of](/post/of/) proposed improvements [for](/post/for/) [the](/post/the/) [office](/post/office/) workflow."
 
 ## Synonyms
 - Enhance
-- [Better](/en/post/better/)
+- [Better](/post/better/)
 - Upgrade
-- [Develop](/en/post/develop/)
+- [Develop](/post/develop/)
 - Boost
-- [Refine](/en/post/refine/)
-- [Advance](/en/post/advance/)
-- [Perfect](/en/post/perfect/)
+- [Refine](/post/refine/)
+- [Advance](/post/advance/)
+- [Perfect](/post/perfect/)
 - Optimize
 - Elevate

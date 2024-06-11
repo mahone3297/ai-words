@@ -7,37 +7,37 @@ description = '[ˈɔːdinəri] a.平常的；平凡的'
 keywords = ['ai words', 'ordinary']
 +++
 
-## [Word](/en/post/word/): [Ordinary](/en/post/ordinary/)
+## [Word](/post/word/): [Ordinary](/post/ordinary/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːrd(ə)n.eri/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Common](/en/post/common/); [usual](/en/post/usual/); [not](/en/post/not/) exceptional [or](/en/post/or/) [unusual](/en/post/unusual/). [For](/en/post/for/) [example](/en/post/example/): "An [ordinary](/en/post/ordinary/) [day](/en/post/day/) [at](/en/post/at/) [the](/en/post/the/) [office](/en/post/office/)."
-  - *[Formal](/en/post/formal/) [Definition](/en/post/definition/)*: Belonging [to](/en/post/to/) [the](/en/post/the/) [regular](/en/post/regular/) [or](/en/post/or/) established [order](/en/post/order/) [or](/en/post/or/) [course](/en/post/course/) [of](/en/post/of/) things; [normal](/en/post/normal/), [standard](/en/post/standard/).
-    > "[The](/en/post/the/) [ordinary](/en/post/ordinary/) rules [of](/en/post/of/) [grammar](/en/post/grammar/) [apply](/en/post/apply/) [here](/en/post/here/)."
-  - *[Legal](/en/post/legal/) [Definition](/en/post/definition/)*: Referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [routine](/en/post/routine/), customary, [or](/en/post/or/) statutory; e.g., an '[ordinary](/en/post/ordinary/) [meeting](/en/post/meeting/)' [of](/en/post/of/) [a](/en/post/a/) [company](/en/post/company/).
+- **[Adjective](/post/adjective/)**: [Common](/post/common/); [usual](/post/usual/); [not](/post/not/) exceptional [or](/post/or/) [unusual](/post/unusual/). [For](/post/for/) [example](/post/example/): "An [ordinary](/post/ordinary/) [day](/post/day/) [at](/post/at/) [the](/post/the/) [office](/post/office/)."
+  - *[Formal](/post/formal/) [Definition](/post/definition/)*: Belonging [to](/post/to/) [the](/post/the/) [regular](/post/regular/) [or](/post/or/) established [order](/post/order/) [or](/post/or/) [course](/post/course/) [of](/post/of/) things; [normal](/post/normal/), [standard](/post/standard/).
+    > "[The](/post/the/) [ordinary](/post/ordinary/) rules [of](/post/of/) [grammar](/post/grammar/) [apply](/post/apply/) [here](/post/here/)."
+  - *[Legal](/post/legal/) [Definition](/post/definition/)*: Referring [to](/post/to/) [something](/post/something/) [that](/post/that/) is [routine](/post/routine/), customary, [or](/post/or/) statutory; e.g., an '[ordinary](/post/ordinary/) [meeting](/post/meeting/)' [of](/post/of/) [a](/post/a/) [company](/post/company/).
 
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [regular](/en/post/regular/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [religious](/en/post/religious/) [community](/en/post/community/) [who](/en/post/who/) is [not](/en/post/not/) [a](/en/post/a/) [priest](/en/post/priest/) [or](/en/post/or/) monk; [also](/en/post/also/) known [as](/en/post/as/) [a](/en/post/a/) layperson. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) ordinaries [of](/en/post/of/) [the](/en/post/the/) monastery helped [with](/en/post/with/) [daily](/en/post/daily/) chores."
-  - *[Historical](/en/post/historical/) Context*: [In](/en/post/in/) heraldry, [the](/en/post/the/) [ordinary](/en/post/ordinary/) refers [to](/en/post/to/) [a](/en/post/a/) [simple](/en/post/simple/) geometrical [figure](/en/post/figure/) [that](/en/post/that/) appears [frequently](/en/post/frequently/) [on](/en/post/on/) coats [of](/en/post/of/) arms, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [stripe](/en/post/stripe/) (fess) [or](/en/post/or/) chevron.
+- **[Noun](/post/noun/)**: [A](/post/a/) [regular](/post/regular/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [religious](/post/religious/) [community](/post/community/) [who](/post/who/) is [not](/post/not/) [a](/post/a/) [priest](/post/priest/) [or](/post/or/) monk; [also](/post/also/) known [as](/post/as/) [a](/post/a/) layperson. [For](/post/for/) [example](/post/example/): "[The](/post/the/) ordinaries [of](/post/of/) [the](/post/the/) monastery helped [with](/post/with/) [daily](/post/daily/) chores."
+  - *[Historical](/post/historical/) Context*: [In](/post/in/) heraldry, [the](/post/the/) [ordinary](/post/ordinary/) refers [to](/post/to/) [a](/post/a/) [simple](/post/simple/) geometrical [figure](/post/figure/) [that](/post/that/) appears [frequently](/post/frequently/) [on](/post/on/) coats [of](/post/of/) arms, [such](/post/such/) [as](/post/as/) [a](/post/a/) [stripe](/post/stripe/) (fess) [or](/post/or/) chevron.
 
 ## Phrases
-- "[In](/en/post/in/) [ordinary](/en/post/ordinary/) circumstances": [Under](/en/post/under/) [normal](/en/post/normal/) [or](/en/post/or/) [usual](/en/post/usual/) conditions.
-- "[Ordinary](/en/post/ordinary/) [people](/en/post/people/)": [Everyday](/en/post/everyday/) individuals, [not](/en/post/not/) [those](/en/post/those/) [with](/en/post/with/) [special](/en/post/special/) [status](/en/post/status/) [or](/en/post/or/) powers.
-- "[To](/en/post/to/) [go](/en/post/go/) [through](/en/post/through/) [the](/en/post/the/) [ordinary](/en/post/ordinary/) channels": [To](/en/post/to/) [follow](/en/post/follow/) [standard](/en/post/standard/) procedures [or](/en/post/or/) protocols.
+- "[In](/post/in/) [ordinary](/post/ordinary/) circumstances": [Under](/post/under/) [normal](/post/normal/) [or](/post/or/) [usual](/post/usual/) conditions.
+- "[Ordinary](/post/ordinary/) [people](/post/people/)": [Everyday](/post/everyday/) individuals, [not](/post/not/) [those](/post/those/) [with](/post/with/) [special](/post/special/) [status](/post/status/) [or](/post/or/) powers.
+- "[To](/post/to/) [go](/post/go/) [through](/post/through/) [the](/post/the/) [ordinary](/post/ordinary/) channels": [To](/post/to/) [follow](/post/follow/) [standard](/post/standard/) procedures [or](/post/or/) protocols.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) [found](/en/post/found/) [the](/en/post/the/) [ordinary](/en/post/ordinary/) [life](/en/post/life/) [quite](/en/post/quite/) satisfying [despite](/en/post/despite/) [her](/en/post/her/) [past](/en/post/past/) adventures."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) ordinaries [of](/en/post/of/) [the](/en/post/the/) [church](/en/post/church/) [community](/en/post/community/) gathered [for](/en/post/for/) [prayer](/en/post/prayer/) [every](/en/post/every/) [morning](/en/post/morning/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) [found](/post/found/) [the](/post/the/) [ordinary](/post/ordinary/) [life](/post/life/) [quite](/post/quite/) satisfying [despite](/post/despite/) [her](/post/her/) [past](/post/past/) adventures."
+- **[Noun](/post/noun/)**: "[The](/post/the/) ordinaries [of](/post/of/) [the](/post/the/) [church](/post/church/) [community](/post/community/) gathered [for](/post/for/) [prayer](/post/prayer/) [every](/post/every/) [morning](/post/morning/)."
 
 ## Synonyms
-- [Common](/en/post/common/)
-- [Usual](/en/post/usual/)
-- [Standard](/en/post/standard/)
-- [Normal](/en/post/normal/)
-- [Average](/en/post/average/)
-- [Conventional](/en/post/conventional/)
-- [Routine](/en/post/routine/)
-- [Everyday](/en/post/everyday/)
+- [Common](/post/common/)
+- [Usual](/post/usual/)
+- [Standard](/post/standard/)
+- [Normal](/post/normal/)
+- [Average](/post/average/)
+- [Conventional](/post/conventional/)
+- [Routine](/post/routine/)
+- [Everyday](/post/everyday/)
 - Unexceptional
 - Mundane

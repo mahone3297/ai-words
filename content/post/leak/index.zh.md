@@ -11,21 +11,21 @@ keywords = ['ai words', 'leak']
 /liːk/
 
 ## 释义
-- **名词**: 渗漏，泄漏；泄露（信息）。例如: "There's [a](/post/a/) [leak](/post/leak/) [in](/post/in/) [the](/post/the/) [roof](/post/roof/)."，"[The](/post/the/) [company](/post/company/) suffered [from](/post/from/) [a](/post/a/) [data](/post/data/) [leak](/post/leak/)."
-- **动词**: 泄露，使渗漏。例如: "[The](/post/the/) [pipe](/post/pipe/) was leaking [water](/post/water/)."，"[She](/post/she/) leaked [the](/post/the/) confidential [information](/post/information/) [to](/post/to/) [the](/post/the/) [press](/post/press/)."
+- **名词**: 渗漏，泄漏；泄露（信息）。例如: "There's [a](/zh/post/a/) [leak](/zh/post/leak/) [in](/zh/post/in/) [the](/zh/post/the/) [roof](/zh/post/roof/)."，"[The](/zh/post/the/) [company](/zh/post/company/) suffered [from](/zh/post/from/) [a](/zh/post/a/) [data](/zh/post/data/) [leak](/zh/post/leak/)."
+- **动词**: 泄露，使渗漏。例如: "[The](/zh/post/the/) [pipe](/zh/post/pipe/) was leaking [water](/zh/post/water/)."，"[She](/zh/post/she/) leaked [the](/zh/post/the/) confidential [information](/zh/post/information/) [to](/zh/post/to/) [the](/zh/post/the/) [press](/zh/post/press/)."
 
 ## 短语
-- "[leak](/post/leak/) [out](/post/out/)" 意为逐渐透露或泄露出去。例如: "[News](/post/news/) [of](/post/of/) [the](/post/the/) merger leaked [out](/post/out/) [before](/post/before/) [the](/post/the/) [official](/post/official/) announcement."
-- "[to](/post/to/) [have](/post/have/) [a](/post/a/) [leak](/post/leak/)" 表示有泄漏问题。例如: "[Our](/post/our/) [bathroom](/post/bathroom/) seems [to](/post/to/) [have](/post/have/) [a](/post/a/) [leak](/post/leak/) [in](/post/in/) [the](/post/the/) faucet."
+- "[leak](/zh/post/leak/) [out](/zh/post/out/)" 意为逐渐透露或泄露出去。例如: "[News](/zh/post/news/) [of](/zh/post/of/) [the](/zh/post/the/) merger leaked [out](/zh/post/out/) [before](/zh/post/before/) [the](/zh/post/the/) [official](/zh/post/official/) announcement."
+- "[to](/zh/post/to/) [have](/zh/post/have/) [a](/zh/post/a/) [leak](/zh/post/leak/)" 表示有泄漏问题。例如: "[Our](/zh/post/our/) [bathroom](/zh/post/bathroom/) seems [to](/zh/post/to/) [have](/zh/post/have/) [a](/zh/post/a/) [leak](/zh/post/leak/) [in](/zh/post/in/) [the](/zh/post/the/) faucet."
 
 ## 例句
-- 名词: "[The](/post/the/) [government](/post/government/) is investigating [the](/post/the/) [source](/post/source/) [of](/post/of/) [the](/post/the/) [security](/post/security/) [leak](/post/leak/)."
-- 动词: "[The](/post/the/) plumber fixed [the](/post/the/) [leak](/post/leak/) [in](/post/in/) [our](/post/our/) [bathroom](/post/bathroom/) [sink](/post/sink/)."
-- 感叹词: (不适用，"[leak](/post/leak/)" 不作为感叹词使用)
+- 名词: "[The](/zh/post/the/) [government](/zh/post/government/) is investigating [the](/zh/post/the/) [source](/zh/post/source/) [of](/zh/post/of/) [the](/zh/post/the/) [security](/zh/post/security/) [leak](/zh/post/leak/)."
+- 动词: "[The](/zh/post/the/) plumber fixed [the](/zh/post/the/) [leak](/zh/post/leak/) [in](/zh/post/in/) [our](/zh/post/our/) [bathroom](/zh/post/bathroom/) [sink](/zh/post/sink/)."
+- 感叹词: (不适用，"[leak](/zh/post/leak/)" 不作为感叹词使用)
 
 ## 同义词
-- [Disclose](/post/disclose/)
-- [Reveal](/post/reveal/)
-- [Expose](/post/expose/)
-- [Let](/post/let/) [slip](/post/slip/)
-- [Inform](/post/inform/)
+- [Disclose](/zh/post/disclose/)
+- [Reveal](/zh/post/reveal/)
+- [Expose](/zh/post/expose/)
+- [Let](/zh/post/let/) [slip](/zh/post/slip/)
+- [Inform](/zh/post/inform/)

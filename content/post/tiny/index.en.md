@@ -7,33 +7,33 @@ description = '[ˈtaini] a.微小的，极小的'
 keywords = ['ai words', 'tiny']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtaɪni/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Extremely](/en/post/extremely/) [small](/en/post/small/) [in](/en/post/in/) [size](/en/post/size/), [amount](/en/post/amount/), [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [baby](/en/post/baby/) [bird](/en/post/bird/) was [a](/en/post/a/) [tiny](/en/post/tiny/) [creature](/en/post/creature/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [very](/en/post/very/) [small](/en/post/small/) [manner](/en/post/manner/) [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sang [the](/en/post/the/) [song](/en/post/song/) [very](/en/post/very/) [tiny](/en/post/tiny/), [almost](/en/post/almost/) inaudibly."
+- **[Adjective](/post/adjective/)**: [Extremely](/post/extremely/) [small](/post/small/) [in](/post/in/) [size](/post/size/), [amount](/post/amount/), [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [baby](/post/baby/) [bird](/post/bird/) was [a](/post/a/) [tiny](/post/tiny/) [creature](/post/creature/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [very](/post/very/) [small](/post/small/) [manner](/post/manner/) [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) sang [the](/post/the/) [song](/post/song/) [very](/post/very/) [tiny](/post/tiny/), [almost](/post/almost/) inaudibly."
 
 ## Phrases
-- "[A](/en/post/a/) [tiny](/en/post/tiny/) [house](/en/post/house/)" refers [to](/en/post/to/) [a](/en/post/a/) [small](/en/post/small/), compact [dwelling](/en/post/dwelling/).
-- "[Tiny](/en/post/tiny/) details" highlight [small](/en/post/small/) [but](/en/post/but/) [significant](/en/post/significant/) aspects.
-- "[She](/en/post/she/) has [a](/en/post/a/) [tiny](/en/post/tiny/) [voice](/en/post/voice/)" describes [someone](/en/post/someone/) [with](/en/post/with/) [a](/en/post/a/) [soft](/en/post/soft/) [or](/en/post/or/) [faint](/en/post/faint/) speaking [voice](/en/post/voice/).
+- "[A](/post/a/) [tiny](/post/tiny/) [house](/post/house/)" refers [to](/post/to/) [a](/post/a/) [small](/post/small/), compact [dwelling](/post/dwelling/).
+- "[Tiny](/post/tiny/) details" highlight [small](/post/small/) [but](/post/but/) [significant](/post/significant/) aspects.
+- "[She](/post/she/) has [a](/post/a/) [tiny](/post/tiny/) [voice](/post/voice/)" describes [someone](/post/someone/) [with](/post/with/) [a](/post/a/) [soft](/post/soft/) [or](/post/or/) [faint](/post/faint/) speaking [voice](/post/voice/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [garden](/en/post/garden/) contained [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) [tiny](/en/post/tiny/) flowers."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) made [a](/en/post/a/) [tiny](/en/post/tiny/) adjustment [to](/en/post/to/) [the](/en/post/the/) machine's settings."
-- "[She](/en/post/she/) managed [to](/en/post/to/) [fit](/en/post/fit/) [her](/en/post/her/) [entire](/en/post/entire/) [collection](/en/post/collection/) [of](/en/post/of/) books [in](/en/post/in/) [a](/en/post/a/) [tiny](/en/post/tiny/) suitcase."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [garden](/post/garden/) contained [a](/post/a/) [variety](/post/variety/) [of](/post/of/) [tiny](/post/tiny/) flowers."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) made [a](/post/a/) [tiny](/post/tiny/) adjustment [to](/post/to/) [the](/post/the/) machine's settings."
+- "[She](/post/she/) managed [to](/post/to/) [fit](/post/fit/) [her](/post/her/) [entire](/post/entire/) [collection](/post/collection/) [of](/post/of/) books [in](/post/in/) [a](/post/a/) [tiny](/post/tiny/) suitcase."
 
 ## Synonyms
-- [Small](/en/post/small/)
+- [Small](/post/small/)
 - Miniature
 - Petite
-- [Delicate](/en/post/delicate/)
-- [Minute](/en/post/minute/)
+- [Delicate](/post/delicate/)
+- [Minute](/post/minute/)
 
 ## Antonyms
-- [Large](/en/post/large/)
-- [Huge](/en/post/huge/)
-- [Enormous](/en/post/enormous/)
+- [Large](/post/large/)
+- [Huge](/post/huge/)
+- [Enormous](/post/enormous/)
 - Gigantic
 - Bulky

@@ -7,41 +7,41 @@ description = '[ˈplætfɔːm] n.平台；站台；讲台'
 keywords = ['ai words', 'platform']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[platform](/en/post/platform/)/
+## [Pronunciation](/post/pronunciation/)
+/[platform](/post/platform/)/
 ```vbnet
-- [Noun](/en/post/noun/): /ˈplætfɔːrm/
-- [Verb](/en/post/verb/): /ˈplætfɔːrm/
+- [Noun](/post/noun/): /ˈplætfɔːrm/
+- [Verb](/post/verb/): /ˈplætfɔːrm/
 ```
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [structure](/en/post/structure/)**: [A](/en/post/a/) raised [level](/en/post/level/) [or](/en/post/or/) [area](/en/post/area/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [roof](/en/post/roof/), [where](/en/post/where/) [people](/en/post/people/) [can](/en/post/can/) [gather](/en/post/gather/) [or](/en/post/or/) activities [take](/en/post/take/) [place](/en/post/place/), [especially](/en/post/especially/) [one](/en/post/one/) [for](/en/post/for/) [public](/en/post/public/) events [or](/en/post/or/) exhibitions. [Example](/en/post/example/): "[The](/en/post/the/) [stage](/en/post/stage/) was [a](/en/post/a/) [large](/en/post/large/) [wooden](/en/post/wooden/) [platform](/en/post/platform/)."
-- **An online interface**: [A](/en/post/a/) [digital](/en/post/digital/) [platform](/en/post/platform/) [that](/en/post/that/) allows users [to](/en/post/to/) interact, [access](/en/post/access/) [content](/en/post/content/), [or](/en/post/or/) [participate](/en/post/participate/) [in](/en/post/in/) [various](/en/post/various/) activities, [such](/en/post/such/) [as](/en/post/as/) [social](/en/post/social/) media [or](/en/post/or/) e-commerce websites. [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) launched [a](/en/post/a/) [new](/en/post/new/) [mobile](/en/post/mobile/) [platform](/en/post/platform/) [for](/en/post/for/) [their](/en/post/their/) customers."
-- **[A](/en/post/a/) [platform](/en/post/platform/) [for](/en/post/for/) ideas**: [A](/en/post/a/) [space](/en/post/space/) [or](/en/post/or/) forum [where](/en/post/where/) individuals [express](/en/post/express/), [debate](/en/post/debate/), [or](/en/post/or/) [promote](/en/post/promote/) [their](/en/post/their/) views [or](/en/post/or/) projects. [Example](/en/post/example/): "[He](/en/post/he/) built [a](/en/post/a/) [platform](/en/post/platform/) [to](/en/post/to/) advocate [for](/en/post/for/) environmental sustainability."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [structure](/post/structure/)**: [A](/post/a/) raised [level](/post/level/) [or](/post/or/) [area](/post/area/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [roof](/post/roof/), [where](/post/where/) [people](/post/people/) [can](/post/can/) [gather](/post/gather/) [or](/post/or/) activities [take](/post/take/) [place](/post/place/), [especially](/post/especially/) [one](/post/one/) [for](/post/for/) [public](/post/public/) events [or](/post/or/) exhibitions. [Example](/post/example/): "[The](/post/the/) [stage](/post/stage/) was [a](/post/a/) [large](/post/large/) [wooden](/post/wooden/) [platform](/post/platform/)."
+- **An online interface**: [A](/post/a/) [digital](/post/digital/) [platform](/post/platform/) [that](/post/that/) allows users [to](/post/to/) interact, [access](/post/access/) [content](/post/content/), [or](/post/or/) [participate](/post/participate/) [in](/post/in/) [various](/post/various/) activities, [such](/post/such/) [as](/post/as/) [social](/post/social/) media [or](/post/or/) e-commerce websites. [Example](/post/example/): "[The](/post/the/) [company](/post/company/) launched [a](/post/a/) [new](/post/new/) [mobile](/post/mobile/) [platform](/post/platform/) [for](/post/for/) [their](/post/their/) customers."
+- **[A](/post/a/) [platform](/post/platform/) [for](/post/for/) ideas**: [A](/post/a/) [space](/post/space/) [or](/post/or/) forum [where](/post/where/) individuals [express](/post/express/), [debate](/post/debate/), [or](/post/or/) [promote](/post/promote/) [their](/post/their/) views [or](/post/or/) projects. [Example](/post/example/): "[He](/post/he/) built [a](/post/a/) [platform](/post/platform/) [to](/post/to/) advocate [for](/post/for/) environmental sustainability."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [use](/en/post/use/) [as](/en/post/as/) [a](/en/post/a/) [base](/en/post/base/)**: [To](/en/post/to/) [set](/en/post/set/) [up](/en/post/up/) [or](/en/post/or/) [establish](/en/post/establish/) [something](/en/post/something/) [on](/en/post/on/) [a](/en/post/a/) [platform](/en/post/platform/), [often](/en/post/often/) metaphorically. [Example](/en/post/example/): "She'll [be](/en/post/be/) presenting [her](/en/post/her/) [research](/en/post/research/) [on](/en/post/on/) [the](/en/post/the/) [platform](/en/post/platform/) [tomorrow](/en/post/tomorrow/)."
-- **[To](/en/post/to/) [support](/en/post/support/) [or](/en/post/or/) endorse**: [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [platform](/en/post/platform/) [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/), [usually](/en/post/usually/) [by](/en/post/by/) providing [a](/en/post/a/) [space](/en/post/space/) [or](/en/post/or/) [opportunity](/en/post/opportunity/). [Example](/en/post/example/): "[The](/en/post/the/) [organization](/en/post/organization/) gave [a](/en/post/a/) [platform](/en/post/platform/) [to](/en/post/to/) [local](/en/post/local/) artists."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [use](/post/use/) [as](/post/as/) [a](/post/a/) [base](/post/base/)**: [To](/post/to/) [set](/post/set/) [up](/post/up/) [or](/post/or/) [establish](/post/establish/) [something](/post/something/) [on](/post/on/) [a](/post/a/) [platform](/post/platform/), [often](/post/often/) metaphorically. [Example](/post/example/): "She'll [be](/post/be/) presenting [her](/post/her/) [research](/post/research/) [on](/post/on/) [the](/post/the/) [platform](/post/platform/) [tomorrow](/post/tomorrow/)."
+- **[To](/post/to/) [support](/post/support/) [or](/post/or/) endorse**: [To](/post/to/) [give](/post/give/) [a](/post/a/) [platform](/post/platform/) [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/), [usually](/post/usually/) [by](/post/by/) providing [a](/post/a/) [space](/post/space/) [or](/post/or/) [opportunity](/post/opportunity/). [Example](/post/example/): "[The](/post/the/) [organization](/post/organization/) gave [a](/post/a/) [platform](/post/platform/) [to](/post/to/) [local](/post/local/) artists."
 
 ## Phrases
-- "[Take](/en/post/take/) [the](/en/post/the/) [stage](/en/post/stage/) [on](/en/post/on/) [a](/en/post/a/) [platform](/en/post/platform/)" [means](/en/post/means/) [to](/en/post/to/) [begin](/en/post/begin/) [a](/en/post/a/) [performance](/en/post/performance/) [or](/en/post/or/) presentation.
-- "[Platform](/en/post/platform/) [for](/en/post/for/) [discussion](/en/post/discussion/)" refers [to](/en/post/to/) [a](/en/post/a/) venue [for](/en/post/for/) [open](/en/post/open/) dialogue.
-- "[Social](/en/post/social/) media [platform](/en/post/platform/)" is [a](/en/post/a/) [digital](/en/post/digital/) [space](/en/post/space/) [for](/en/post/for/) users [to](/en/post/to/) [connect](/en/post/connect/).
+- "[Take](/post/take/) [the](/post/the/) [stage](/post/stage/) [on](/post/on/) [a](/post/a/) [platform](/post/platform/)" [means](/post/means/) [to](/post/to/) [begin](/post/begin/) [a](/post/a/) [performance](/post/performance/) [or](/post/or/) presentation.
+- "[Platform](/post/platform/) [for](/post/for/) [discussion](/post/discussion/)" refers [to](/post/to/) [a](/post/a/) venue [for](/post/for/) [open](/post/open/) dialogue.
+- "[Social](/post/social/) media [platform](/post/platform/)" is [a](/post/a/) [digital](/post/digital/) [space](/post/space/) [for](/post/for/) users [to](/post/to/) [connect](/post/connect/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [festival](/en/post/festival/) featured [various](/en/post/various/) artists performing [on](/en/post/on/) [a](/en/post/a/) colorful [platform](/en/post/platform/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) built [a](/en/post/a/) [platform](/en/post/platform/) [to](/en/post/to/) [share](/en/post/share/) [his](/en/post/his/) recipes [with](/en/post/with/) [a](/en/post/a/) global [audience](/en/post/audience/)."
-- **[Verb](/en/post/verb/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))**: "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [launch](/en/post/launch/) [its](/en/post/its/) [new](/en/post/new/) [product](/en/post/product/) [on](/en/post/on/) [a](/en/post/a/) virtual [platform](/en/post/platform/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [festival](/post/festival/) featured [various](/post/various/) artists performing [on](/post/on/) [a](/post/a/) colorful [platform](/post/platform/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) built [a](/post/a/) [platform](/post/platform/) [to](/post/to/) [share](/post/share/) [his](/post/his/) recipes [with](/post/with/) [a](/post/a/) global [audience](/post/audience/)."
+- **[Verb](/post/verb/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))**: "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [launch](/post/launch/) [its](/post/its/) [new](/post/new/) [product](/post/product/) [on](/post/on/) [a](/post/a/) virtual [platform](/post/platform/)."
 
 ## Synonyms
-- [Stage](/en/post/stage/)
-- [Base](/en/post/base/)
-- [Ground](/en/post/ground/)
+- [Stage](/post/stage/)
+- [Base](/post/base/)
+- [Ground](/post/ground/)
 - Scaffold
 - Venue
 - Arena
-- [Framework](/en/post/framework/)
+- [Framework](/post/framework/)
 - Infrastructure
-- [Foundation](/en/post/foundation/)
-- [Medium](/en/post/medium/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [communication](/en/post/communication/))
+- [Foundation](/post/foundation/)
+- [Medium](/post/medium/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [communication](/post/communication/))

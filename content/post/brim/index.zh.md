@@ -11,22 +11,22 @@ keywords = ['ai words', 'brim']
 /brɪm/
 
 ## 释义
-- **名词**: 1. 边缘；边缘部分。例如: "[The](/post/the/) [hat](/post/hat/) had [a](/post/a/) [wide](/post/wide/) [brim](/post/brim/)."  
-2. (容器等的)满溢状态。例如: "[The](/post/the/) [cup](/post/cup/) was brimming [with](/post/with/) [coffee](/post/coffee/)."
+- **名词**: 1. 边缘；边缘部分。例如: "[The](/zh/post/the/) [hat](/zh/post/hat/) had [a](/zh/post/a/) [wide](/zh/post/wide/) [brim](/zh/post/brim/)."  
+2. (容器等的)满溢状态。例如: "[The](/zh/post/the/) [cup](/zh/post/cup/) was brimming [with](/zh/post/with/) [coffee](/zh/post/coffee/)."
 
-- **动词**: 充满；溢出。例如: "[Her](/post/her/) eyes brimmed [with](/post/with/) tears [of](/post/of/) [joy](/post/joy/)."
+- **动词**: 充满；溢出。例如: "[Her](/zh/post/her/) eyes brimmed [with](/zh/post/with/) tears [of](/zh/post/of/) [joy](/zh/post/joy/)."
 
 ## 短语
-- "[Brim](/post/brim/) [over](/post/over/)" 意味着充满到溢出，常用来描述情感或情绪。例如: "[Her](/post/her/) [happiness](/post/happiness/) brimmed [over](/post/over/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [her](/post/her/) [old](/post/old/) [friend](/post/friend/)."
-- "[At](/post/at/) [the](/post/the/) [brim](/post/brim/)" 指满到边缘。例如: "[The](/post/the/) [pond](/post/pond/) was [at](/post/at/) [the](/post/the/) [brim](/post/brim/) [after](/post/after/) [the](/post/the/) [heavy](/post/heavy/) [rain](/post/rain/)."
+- "[Brim](/zh/post/brim/) [over](/zh/post/over/)" 意味着充满到溢出，常用来描述情感或情绪。例如: "[Her](/zh/post/her/) [happiness](/zh/post/happiness/) brimmed [over](/zh/post/over/) [when](/zh/post/when/) [she](/zh/post/she/) [saw](/zh/post/saw/) [her](/zh/post/her/) [old](/zh/post/old/) [friend](/zh/post/friend/)."
+- "[At](/zh/post/at/) [the](/zh/post/the/) [brim](/zh/post/brim/)" 指满到边缘。例如: "[The](/zh/post/the/) [pond](/zh/post/pond/) was [at](/zh/post/at/) [the](/zh/post/the/) [brim](/zh/post/brim/) [after](/zh/post/after/) [the](/zh/post/the/) [heavy](/zh/post/heavy/) [rain](/zh/post/rain/)."
 
 ## 例句
-- 名词: "[The](/post/the/) sunhat's [brim](/post/brim/) [provided](/post/provided/) [shade](/post/shade/) [for](/post/for/) [her](/post/her/) [face](/post/face/)."
-- 动词: "[Her](/post/her/) [heart](/post/heart/) brimmed [with](/post/with/) [gratitude](/post/gratitude/) [for](/post/for/) [their](/post/their/) [kindness](/post/kindness/)."
+- 名词: "[The](/zh/post/the/) sunhat's [brim](/zh/post/brim/) [provided](/zh/post/provided/) [shade](/zh/post/shade/) [for](/zh/post/for/) [her](/zh/post/her/) [face](/zh/post/face/)."
+- 动词: "[Her](/zh/post/her/) [heart](/zh/post/heart/) brimmed [with](/zh/post/with/) [gratitude](/zh/post/gratitude/) [for](/zh/post/for/) [their](/zh/post/their/) [kindness](/zh/post/kindness/)."
 
 ## 同义词
-- [Edge](/post/edge/)
+- [Edge](/zh/post/edge/)
 - Rim
 - Overflowing
-- Filled [to](/post/to/) [the](/post/the/) [capacity](/post/capacity/)
+- Filled [to](/zh/post/to/) [the](/zh/post/the/) [capacity](/zh/post/capacity/)
 - Abounding

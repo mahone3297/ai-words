@@ -7,42 +7,42 @@ description = '[ˈterəbl] a.可怕的；极度的'
 keywords = ['ai words', 'terrible']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /təˈrəbl/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **[Terrible](/en/post/terrible/)**: 1. [Extremely](/en/post/extremely/) [bad](/en/post/bad/) [or](/en/post/or/) [unpleasant](/en/post/unpleasant/); [extremely](/en/post/extremely/) [poor](/en/post/poor/) [or](/en/post/or/) [unsatisfactory](/en/post/unsatisfactory/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) was [terrible](/en/post/terrible/) [during](/en/post/during/) [our](/en/post/our/) [vacation](/en/post/vacation/)."
-- 2. Causing [fear](/en/post/fear/) [or](/en/post/or/) [horror](/en/post/horror/); [extremely](/en/post/extremely/) alarming. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [storm](/en/post/storm/) was [a](/en/post/a/) [terrible](/en/post/terrible/) [sight](/en/post/sight/) [to](/en/post/to/) behold."
-- 3. [Very](/en/post/very/) [unkind](/en/post/unkind/) [or](/en/post/or/) [harsh](/en/post/harsh/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) words were terribly hurtful."
+### [Adjective](/post/adjective/)
+- **[Terrible](/post/terrible/)**: 1. [Extremely](/post/extremely/) [bad](/post/bad/) [or](/post/or/) [unpleasant](/post/unpleasant/); [extremely](/post/extremely/) [poor](/post/poor/) [or](/post/or/) [unsatisfactory](/post/unsatisfactory/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) was [terrible](/post/terrible/) [during](/post/during/) [our](/post/our/) [vacation](/post/vacation/)."
+- 2. Causing [fear](/post/fear/) [or](/post/or/) [horror](/post/horror/); [extremely](/post/extremely/) alarming. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [storm](/post/storm/) was [a](/post/a/) [terrible](/post/terrible/) [sight](/post/sight/) [to](/post/to/) behold."
+- 3. [Very](/post/very/) [unkind](/post/unkind/) [or](/post/or/) [harsh](/post/harsh/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) words were terribly hurtful."
 
-### [Noun](/en/post/noun/)
-- **Terribleness**: [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [terrible](/en/post/terrible/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [experience](/en/post/experience/) was marked [by](/en/post/by/) an overwhelming terribleness."
-- (informal) [A](/en/post/a/) [very](/en/post/very/) [bad](/en/post/bad/) [thing](/en/post/thing/) [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[That](/en/post/that/) was [the](/en/post/the/) [worst](/en/post/worst/) [day](/en/post/day/) [of](/en/post/of/) [my](/en/post/my/) [life](/en/post/life/), [it](/en/post/it/) was [a](/en/post/a/) [terrible](/en/post/terrible/) [day](/en/post/day/)."
+### [Noun](/post/noun/)
+- **Terribleness**: [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [terrible](/post/terrible/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [experience](/post/experience/) was marked [by](/post/by/) an overwhelming terribleness."
+- (informal) [A](/post/a/) [very](/post/very/) [bad](/post/bad/) [thing](/post/thing/) [or](/post/or/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[That](/post/that/) was [the](/post/the/) [worst](/post/worst/) [day](/post/day/) [of](/post/of/) [my](/post/my/) [life](/post/life/), [it](/post/it/) was [a](/post/a/) [terrible](/post/terrible/) [day](/post/day/)."
 
 ## Phrases
-- "[A](/en/post/a/) [terrible](/en/post/terrible/) [accident](/en/post/accident/)" refers [to](/en/post/to/) [a](/en/post/a/) [very](/en/post/very/) [unfortunate](/en/post/unfortunate/) [incident](/en/post/incident/).
-- "[Terrible](/en/post/terrible/) [news](/en/post/news/)" denotes [something](/en/post/something/) [highly](/en/post/highly/) distressing [or](/en/post/or/) shocking.
-- "[She](/en/post/she/) handled [the](/en/post/the/) [terrible](/en/post/terrible/) [situation](/en/post/situation/) [with](/en/post/with/) [grace](/en/post/grace/)."
+- "[A](/post/a/) [terrible](/post/terrible/) [accident](/post/accident/)" refers [to](/post/to/) [a](/post/a/) [very](/post/very/) [unfortunate](/post/unfortunate/) [incident](/post/incident/).
+- "[Terrible](/post/terrible/) [news](/post/news/)" denotes [something](/post/something/) [highly](/post/highly/) distressing [or](/post/or/) shocking.
+- "[She](/post/she/) handled [the](/post/the/) [terrible](/post/terrible/) [situation](/post/situation/) [with](/post/with/) [grace](/post/grace/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [terrible](/en/post/terrible/) [noise](/en/post/noise/) kept [me](/en/post/me/) [awake](/en/post/awake/) [all](/en/post/all/) [night](/en/post/night/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [terrible](/en/post/terrible/) [loss](/en/post/loss/) [left](/en/post/left/) [her](/en/post/her/) [feeling](/en/post/feeling/) devastated."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) reacted [with](/en/post/with/) [terrible](/en/post/terrible/) [fear](/en/post/fear/) [when](/en/post/when/) [he](/en/post/he/) [saw](/en/post/saw/) [the](/en/post/the/) [snake](/en/post/snake/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [terrible](/post/terrible/) [noise](/post/noise/) kept [me](/post/me/) [awake](/post/awake/) [all](/post/all/) [night](/post/night/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [terrible](/post/terrible/) [loss](/post/loss/) [left](/post/left/) [her](/post/her/) [feeling](/post/feeling/) devastated."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) reacted [with](/post/with/) [terrible](/post/terrible/) [fear](/post/fear/) [when](/post/when/) [he](/post/he/) [saw](/post/saw/) [the](/post/the/) [snake](/post/snake/)."
 
 ## Synonyms
-- [Awful](/en/post/awful/)
+- [Awful](/post/awful/)
 - Horrible
 - Dreadful
 - Appalling
 - Ghastly
 - Intolerable
-- [Unbearable](/en/post/unbearable/)
+- [Unbearable](/post/unbearable/)
 
 ## Antonyms
-- [Great](/en/post/great/)
-- [Wonderful](/en/post/wonderful/)
-- [Excellent](/en/post/excellent/)
-- [Pleasant](/en/post/pleasant/)
-- [Marvelous](/en/post/marvelous/)
-- [Beautiful](/en/post/beautiful/)
+- [Great](/post/great/)
+- [Wonderful](/post/wonderful/)
+- [Excellent](/post/excellent/)
+- [Pleasant](/post/pleasant/)
+- [Marvelous](/post/marvelous/)
+- [Beautiful](/post/beautiful/)

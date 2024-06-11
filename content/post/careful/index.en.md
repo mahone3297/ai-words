@@ -7,32 +7,32 @@ description = '[ˈkeəful] a.仔细的；细致的'
 keywords = ['ai words', 'careful']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈrɪfl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Displaying [or](/en/post/or/) showing [great](/en/post/great/) [attention](/en/post/attention/) [to](/en/post/to/) [detail](/en/post/detail/); cautious [and](/en/post/and/) meticulous. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [very](/en/post/very/) [careful](/en/post/careful/) [when](/en/post/when/) handling [the](/en/post/the/) [delicate](/en/post/delicate/) [vase](/en/post/vase/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [careful](/en/post/careful/) [or](/en/post/or/) cautious [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) drove carefully [on](/en/post/on/) [the](/en/post/the/) icy [road](/en/post/road/)."
+- **[Adjective](/post/adjective/)**: Displaying [or](/post/or/) showing [great](/post/great/) [attention](/post/attention/) [to](/post/to/) [detail](/post/detail/); cautious [and](/post/and/) meticulous. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [very](/post/very/) [careful](/post/careful/) [when](/post/when/) handling [the](/post/the/) [delicate](/post/delicate/) [vase](/post/vase/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [careful](/post/careful/) [or](/post/or/) cautious [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) drove carefully [on](/post/on/) [the](/post/the/) icy [road](/post/road/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [careful](/en/post/careful/) [with](/en/post/with/)" implies caution [or](/en/post/or/) warning [about](/en/post/about/) handling [something](/en/post/something/).
-- "[Careful](/en/post/careful/), [now](/en/post/now/)!" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [to](/en/post/to/) [advise](/en/post/advise/) caution.
-- "[Take](/en/post/take/) [care](/en/post/care/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [concern](/en/post/concern/) [for](/en/post/for/) someone's well-being.
+- "[Be](/post/be/) [careful](/post/careful/) [with](/post/with/)" implies caution [or](/post/or/) warning [about](/post/about/) handling [something](/post/something/).
+- "[Careful](/post/careful/), [now](/post/now/)!" is [a](/post/a/) colloquial [expression](/post/expression/) [to](/post/to/) [advise](/post/advise/) caution.
+- "[Take](/post/take/) [care](/post/care/)" is [a](/post/a/) [phrase](/post/phrase/) [used](/post/used/) [to](/post/to/) [express](/post/express/) [concern](/post/concern/) [for](/post/for/) someone's well-being.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [artist](/en/post/artist/) was meticulous [and](/en/post/and/) [careful](/en/post/careful/) [with](/en/post/with/) [each](/en/post/each/) brushstroke."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) crossed [the](/en/post/the/) [street](/en/post/street/) carefully [to](/en/post/to/) [avoid](/en/post/avoid/) accidents."
-- "[Please](/en/post/please/) [be](/en/post/be/) [careful](/en/post/careful/) [when](/en/post/when/) using [the](/en/post/the/) [hot](/en/post/hot/) [stove](/en/post/stove/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [artist](/post/artist/) was meticulous [and](/post/and/) [careful](/post/careful/) [with](/post/with/) [each](/post/each/) brushstroke."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) crossed [the](/post/the/) [street](/post/street/) carefully [to](/post/to/) [avoid](/post/avoid/) accidents."
+- "[Please](/post/please/) [be](/post/be/) [careful](/post/careful/) [when](/post/when/) using [the](/post/the/) [hot](/post/hot/) [stove](/post/stove/)."
 
 ## Synonyms
-- [Thoughtful](/en/post/thoughtful/)
-- [Attentive](/en/post/attentive/)
+- [Thoughtful](/post/thoughtful/)
+- [Attentive](/post/attentive/)
 - Cautious
 - Mindful
 - Punctilious
 
 ## Antonyms
-- [Careless](/en/post/careless/)
+- [Careless](/post/careless/)
 - Thoughtless
 - Disregardful
 - Carefree

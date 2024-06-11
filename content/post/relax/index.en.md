@@ -7,31 +7,31 @@ description = '[riˈlæks] vt.使松弛 vi.松弛'
 keywords = ['ai words', 'relax']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈlæks/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) relaxing [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) relaxed; [ease](/en/post/ease/) [or](/en/post/or/) [freedom](/en/post/freedom/) [from](/en/post/from/) tension. [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [he](/en/post/he/) enjoyed [a](/en/post/a/) [peaceful](/en/post/peaceful/) [moment](/en/post/moment/) [of](/en/post/of/) relaxation."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [become](/en/post/become/) [less](/en/post/less/) [tense](/en/post/tense/) [or](/en/post/or/) stressed; [to](/en/post/to/) [rest](/en/post/rest/) [or](/en/post/or/) unwind. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) likes [to](/en/post/to/) [relax](/en/post/relax/) [by](/en/post/by/) [reading](/en/post/reading/) [a](/en/post/a/) [book](/en/post/book/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) relaxation [or](/en/post/or/) [ease](/en/post/ease/); [not](/en/post/not/) [tense](/en/post/tense/) [or](/en/post/or/) strained. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) relaxing [vacation](/en/post/vacation/) is [just](/en/post/just/) [what](/en/post/what/) [we](/en/post/we/) [need](/en/post/need/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) relaxing [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) relaxed; [ease](/post/ease/) [or](/post/or/) [freedom](/post/freedom/) [from](/post/from/) tension. [For](/post/for/) [example](/post/example/): "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) enjoyed [a](/post/a/) [peaceful](/post/peaceful/) [moment](/post/moment/) [of](/post/of/) relaxation."
+- **[Verb](/post/verb/)**: [To](/post/to/) [become](/post/become/) [less](/post/less/) [tense](/post/tense/) [or](/post/or/) stressed; [to](/post/to/) [rest](/post/rest/) [or](/post/or/) unwind. [For](/post/for/) [example](/post/example/): "[She](/post/she/) likes [to](/post/to/) [relax](/post/relax/) [by](/post/by/) [reading](/post/reading/) [a](/post/a/) [book](/post/book/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) relaxation [or](/post/or/) [ease](/post/ease/); [not](/post/not/) [tense](/post/tense/) [or](/post/or/) strained. [For](/post/for/) [example](/post/example/): "[A](/post/a/) relaxing [vacation](/post/vacation/) is [just](/post/just/) [what](/post/what/) [we](/post/we/) [need](/post/need/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [break](/en/post/break/) [and](/en/post/and/) [relax](/en/post/relax/)" suggests giving [oneself](/en/post/oneself/) [time](/en/post/time/) [to](/en/post/to/) unwind.
-- "[Deep](/en/post/deep/) breathing exercises [can](/en/post/can/) [help](/en/post/help/) [you](/en/post/you/) [relax](/en/post/relax/)."
-- "Relaxation techniques [include](/en/post/include/) meditation [and](/en/post/and/) yoga."
+- "[Take](/post/take/) [a](/post/a/) [break](/post/break/) [and](/post/and/) [relax](/post/relax/)" suggests giving [oneself](/post/oneself/) [time](/post/time/) [to](/post/to/) unwind.
+- "[Deep](/post/deep/) breathing exercises [can](/post/can/) [help](/post/help/) [you](/post/you/) [relax](/post/relax/)."
+- "Relaxation techniques [include](/post/include/) meditation [and](/post/and/) yoga."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) spent [her](/en/post/her/) weekends [in](/en/post/in/) [a](/en/post/a/) tranquil [place](/en/post/place/) [to](/en/post/to/) [relax](/en/post/relax/) [and](/en/post/and/) recharge."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) stressful [meeting](/en/post/meeting/), [he](/en/post/he/) decided [to](/en/post/to/) [relax](/en/post/relax/) [by](/en/post/by/) taking [a](/en/post/a/) [walk](/en/post/walk/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) cozy [atmosphere](/en/post/atmosphere/) [of](/en/post/of/) [the](/en/post/the/) spa encouraged [a](/en/post/a/) relaxing [atmosphere](/en/post/atmosphere/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) spent [her](/post/her/) weekends [in](/post/in/) [a](/post/a/) tranquil [place](/post/place/) [to](/post/to/) [relax](/post/relax/) [and](/post/and/) recharge."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) stressful [meeting](/post/meeting/), [he](/post/he/) decided [to](/post/to/) [relax](/post/relax/) [by](/post/by/) taking [a](/post/a/) [walk](/post/walk/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) cozy [atmosphere](/post/atmosphere/) [of](/post/of/) [the](/post/the/) spa encouraged [a](/post/a/) relaxing [atmosphere](/post/atmosphere/)."
 
 ## Synonyms
 - Relaxation
 - Unwind
-- [Ease](/en/post/ease/)
+- [Ease](/post/ease/)
 - Repose
-- [Leisure](/en/post/leisure/)
-- [Chill](/en/post/chill/)
+- [Leisure](/post/leisure/)
+- [Chill](/post/chill/)
 - Unstress
 - Unwind
 - Detente

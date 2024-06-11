@@ -7,50 +7,50 @@ description = '[stret∫] vt.伸展 vi.伸 n.伸展'
 keywords = ['ai words', 'stretch']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[stretch](/en/post/stretch/)/
+## [Pronunciation](/post/pronunciation/)
+/[stretch](/post/stretch/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [stretch](/en/post/stretch/) is [a](/en/post/a/) [noun](/en/post/noun/) [that](/en/post/that/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/):
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) extending [or](/en/post/or/) reaching, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [physical](/en/post/physical/) [sense](/en/post/sense/): "[She](/en/post/she/) stretched [her](/en/post/her/) arms [above](/en/post/above/) [her](/en/post/her/) [head](/en/post/head/)."
-2. [A](/en/post/a/) [period](/en/post/period/) [or](/en/post/or/) [range](/en/post/range/) [of](/en/post/of/) [time](/en/post/time/), [often](/en/post/often/) extended: "[The](/en/post/the/) [concert](/en/post/concert/) was [two](/en/post/two/) hours [long](/en/post/long/) [with](/en/post/with/) [no](/en/post/no/) intermission, [it](/en/post/it/) felt [like](/en/post/like/) [a](/en/post/a/) never-ending [stretch](/en/post/stretch/)."
-3. [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [body](/en/post/body/) [that](/en/post/that/) is elongated [or](/en/post/or/) extended: "[He](/en/post/he/) did [some](/en/post/some/) stretching exercises [before](/en/post/before/) running."
-4. [A](/en/post/a/) [financial](/en/post/financial/) [deal](/en/post/deal/) [or](/en/post/or/) [arrangement](/en/post/arrangement/) [over](/en/post/over/) an extended [period](/en/post/period/): "[They](/en/post/they/) signed [a](/en/post/a/) five-year [stretch](/en/post/stretch/) [contract](/en/post/contract/) [with](/en/post/with/) [the](/en/post/the/) [company](/en/post/company/)."
+### [Noun](/post/noun/)
+[A](/post/a/) [stretch](/post/stretch/) is [a](/post/a/) [noun](/post/noun/) [that](/post/that/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/):
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) extending [or](/post/or/) reaching, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [physical](/post/physical/) [sense](/post/sense/): "[She](/post/she/) stretched [her](/post/her/) arms [above](/post/above/) [her](/post/her/) [head](/post/head/)."
+2. [A](/post/a/) [period](/post/period/) [or](/post/or/) [range](/post/range/) [of](/post/of/) [time](/post/time/), [often](/post/often/) extended: "[The](/post/the/) [concert](/post/concert/) was [two](/post/two/) hours [long](/post/long/) [with](/post/with/) [no](/post/no/) intermission, [it](/post/it/) felt [like](/post/like/) [a](/post/a/) never-ending [stretch](/post/stretch/)."
+3. [A](/post/a/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [body](/post/body/) [that](/post/that/) is elongated [or](/post/or/) extended: "[He](/post/he/) did [some](/post/some/) stretching exercises [before](/post/before/) running."
+4. [A](/post/a/) [financial](/post/financial/) [deal](/post/deal/) [or](/post/or/) [arrangement](/post/arrangement/) [over](/post/over/) an extended [period](/post/period/): "[They](/post/they/) signed [a](/post/a/) five-year [stretch](/post/stretch/) [contract](/post/contract/) [with](/post/with/) [the](/post/the/) [company](/post/company/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [stretch](/en/post/stretch/) (v) [means](/en/post/means/):
-1. [To](/en/post/to/) lengthen [or](/en/post/or/) [extend](/en/post/extend/) [something](/en/post/something/) physically: "[He](/en/post/he/) stretched [his](/en/post/his/) muscles [after](/en/post/after/) sitting [for](/en/post/for/) [a](/en/post/a/) [long](/en/post/long/) [time](/en/post/time/)."
-2. [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [last](/en/post/last/) longer [than](/en/post/than/) intended [or](/en/post/or/) planned: "[She](/en/post/she/) tried [to](/en/post/to/) [stretch](/en/post/stretch/) [her](/en/post/her/) [vacation](/en/post/vacation/) [by](/en/post/by/) an [extra](/en/post/extra/) [day](/en/post/day/)."
-3. [To](/en/post/to/) manipulate [or](/en/post/or/) [pull](/en/post/pull/) [something](/en/post/something/) [to](/en/post/to/) [reach](/en/post/reach/) [or](/en/post/or/) [access](/en/post/access/) [something](/en/post/something/) [else](/en/post/else/): "[He](/en/post/he/) stretched [his](/en/post/his/) [arm](/en/post/arm/) [across](/en/post/across/) [the](/en/post/the/) [table](/en/post/table/) [to](/en/post/to/) grab [the](/en/post/the/) [book](/en/post/book/)."
+### [Verb](/post/verb/)
+[To](/post/to/) [stretch](/post/stretch/) (v) [means](/post/means/):
+1. [To](/post/to/) lengthen [or](/post/or/) [extend](/post/extend/) [something](/post/something/) physically: "[He](/post/he/) stretched [his](/post/his/) muscles [after](/post/after/) sitting [for](/post/for/) [a](/post/a/) [long](/post/long/) [time](/post/time/)."
+2. [To](/post/to/) [make](/post/make/) [something](/post/something/) [last](/post/last/) longer [than](/post/than/) intended [or](/post/or/) planned: "[She](/post/she/) tried [to](/post/to/) [stretch](/post/stretch/) [her](/post/her/) [vacation](/post/vacation/) [by](/post/by/) an [extra](/post/extra/) [day](/post/day/)."
+3. [To](/post/to/) manipulate [or](/post/or/) [pull](/post/pull/) [something](/post/something/) [to](/post/to/) [reach](/post/reach/) [or](/post/or/) [access](/post/access/) [something](/post/something/) [else](/post/else/): "[He](/post/he/) stretched [his](/post/his/) [arm](/post/arm/) [across](/post/across/) [the](/post/the/) [table](/post/table/) [to](/post/to/) grab [the](/post/the/) [book](/post/book/)."
 
-### [Adjective](/en/post/adjective/)
-An [adjective](/en/post/adjective/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/):
-1. An [action](/en/post/action/) [or](/en/post/or/) [movement](/en/post/movement/) [that](/en/post/that/) extends: "[A](/en/post/a/) yoga [class](/en/post/class/) focuses [on](/en/post/on/) stretching exercises."
-2. An extended [or](/en/post/or/) prolonged [state](/en/post/state/): "[The](/en/post/the/) [project](/en/post/project/) required [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [mental](/en/post/mental/) stretching [for](/en/post/for/) [the](/en/post/the/) [team](/en/post/team/)."
+### [Adjective](/post/adjective/)
+An [adjective](/post/adjective/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/):
+1. An [action](/post/action/) [or](/post/or/) [movement](/post/movement/) [that](/post/that/) extends: "[A](/post/a/) yoga [class](/post/class/) focuses [on](/post/on/) stretching exercises."
+2. An extended [or](/post/or/) prolonged [state](/post/state/): "[The](/post/the/) [project](/post/project/) required [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [mental](/post/mental/) stretching [for](/post/for/) [the](/post/the/) [team](/post/team/)."
 
-### [Adverb](/en/post/adverb/)
-[As](/en/post/as/) an [adverb](/en/post/adverb/), 'stretching' refers [to](/en/post/to/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) stretching [out](/en/post/out/) [or](/en/post/or/) extending: "[She](/en/post/she/) was stretching [her](/en/post/her/) legs [after](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [drive](/en/post/drive/)."
+### [Adverb](/post/adverb/)
+[As](/post/as/) an [adverb](/post/adverb/), 'stretching' refers [to](/post/to/) [the](/post/the/) [action](/post/action/) [of](/post/of/) stretching [out](/post/out/) [or](/post/or/) extending: "[She](/post/she/) was stretching [her](/post/her/) legs [after](/post/after/) [the](/post/the/) [long](/post/long/) [drive](/post/drive/)."
 
 ## Phrases
-- "[Stretch](/en/post/stretch/) [your](/en/post/your/) legs" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [walk](/en/post/walk/) [or](/en/post/or/) [move](/en/post/move/) [around](/en/post/around/) [to](/en/post/to/) [relieve](/en/post/relieve/) tension.
-- "[A](/en/post/a/) [good](/en/post/good/) [stretch](/en/post/stretch/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/)" is [a](/en/post/a/) [common](/en/post/common/) [recommendation](/en/post/recommendation/) [for](/en/post/for/) starting [the](/en/post/the/) [day](/en/post/day/).
-- "[Financial](/en/post/financial/) stretching" implies managing resources carefully [over](/en/post/over/) [time](/en/post/time/).
+- "[Stretch](/post/stretch/) [your](/post/your/) legs" [means](/post/means/) [to](/post/to/) [take](/post/take/) [a](/post/a/) [walk](/post/walk/) [or](/post/or/) [move](/post/move/) [around](/post/around/) [to](/post/to/) [relieve](/post/relieve/) tension.
+- "[A](/post/a/) [good](/post/good/) [stretch](/post/stretch/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)" is [a](/post/a/) [common](/post/common/) [recommendation](/post/recommendation/) [for](/post/for/) starting [the](/post/the/) [day](/post/day/).
+- "[Financial](/post/financial/) stretching" implies managing resources carefully [over](/post/over/) [time](/post/time/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) marathon, [she](/en/post/she/) reached [for](/en/post/for/) [a](/en/post/a/) sports [drink](/en/post/drink/), [feeling](/en/post/feeling/) [the](/en/post/the/) [strain](/en/post/strain/) [in](/en/post/in/) [her](/en/post/her/) legs [from](/en/post/from/) [the](/en/post/the/) [long](/en/post/long/) [stretch](/en/post/stretch/)."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [stretch](/en/post/stretch/) [my](/en/post/my/) budget [to](/en/post/to/) [cover](/en/post/cover/) [the](/en/post/the/) [unexpected](/en/post/unexpected/) expenses."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) demonstrated [proper](/en/post/proper/) stretching techniques [for](/en/post/for/) [the](/en/post/the/) ballet [class](/en/post/class/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) marathon, [she](/post/she/) reached [for](/post/for/) [a](/post/a/) sports [drink](/post/drink/), [feeling](/post/feeling/) [the](/post/the/) [strain](/post/strain/) [in](/post/in/) [her](/post/her/) legs [from](/post/from/) [the](/post/the/) [long](/post/long/) [stretch](/post/stretch/)."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [stretch](/post/stretch/) [my](/post/my/) budget [to](/post/to/) [cover](/post/cover/) [the](/post/the/) [unexpected](/post/unexpected/) expenses."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [teacher](/post/teacher/) demonstrated [proper](/post/proper/) stretching techniques [for](/post/for/) [the](/post/the/) ballet [class](/post/class/)."
 
 ## Synonyms
-- [Extend](/en/post/extend/)
+- [Extend](/post/extend/)
 - Lengthen
 - Elongate
-- [Reach](/en/post/reach/)
+- [Reach](/post/reach/)
 - Protract
 - Stretcher
 - Spreader
-- [Duration](/en/post/duration/)
-- [Extent](/en/post/extent/)
+- [Duration](/post/duration/)
+- [Extent](/post/extent/)
 - Tension
-- [Yawn](/en/post/yawn/) (informal, [when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [long](/en/post/long/) [stretch](/en/post/stretch/))
+- [Yawn](/post/yawn/) (informal, [when](/post/when/) referring [to](/post/to/) [a](/post/a/) [long](/post/long/) [stretch](/post/stretch/))

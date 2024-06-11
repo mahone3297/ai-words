@@ -7,37 +7,37 @@ description = '[ˈhændful] n.一把；少数，一小撮'
 keywords = ['ai words', 'handful']
 +++
 
-## [Word](/en/post/word/): [Handful](/en/post/handful/)
+## [Word](/post/word/): [Handful](/post/handful/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhændfʊl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/) [quantity](/en/post/quantity/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) held [in](/en/post/in/) [one](/en/post/one/) [hand](/en/post/hand/); [the](/en/post/the/) [amount](/en/post/amount/) [that](/en/post/that/) fills [the](/en/post/the/) [hand](/en/post/hand/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) picked [up](/en/post/up/) [a](/en/post/a/) [handful](/en/post/handful/) [of](/en/post/of/) [sand](/en/post/sand/) [from](/en/post/from/) [the](/en/post/the/) [beach](/en/post/beach/)."
-  - Figurative: [A](/en/post/a/) [small](/en/post/small/) [number](/en/post/number/) [of](/en/post/of/) [people](/en/post/people/) [or](/en/post/or/) things [that](/en/post/that/) are [difficult](/en/post/difficult/) [to](/en/post/to/) [manage](/en/post/manage/) [or](/en/post/or/) [control](/en/post/control/) [because](/en/post/because/) [they](/en/post/they/) [require](/en/post/require/) [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [effort](/en/post/effort/) [or](/en/post/or/) [attention](/en/post/attention/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) toddler was [a](/en/post/a/) [real](/en/post/real/) [handful](/en/post/handful/) [for](/en/post/for/) [his](/en/post/his/) parents."
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/) [quantity](/post/quantity/) [that](/post/that/) [can](/post/can/) [be](/post/be/) held [in](/post/in/) [one](/post/one/) [hand](/post/hand/); [the](/post/the/) [amount](/post/amount/) [that](/post/that/) fills [the](/post/the/) [hand](/post/hand/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) picked [up](/post/up/) [a](/post/a/) [handful](/post/handful/) [of](/post/of/) [sand](/post/sand/) [from](/post/from/) [the](/post/the/) [beach](/post/beach/)."
+  - Figurative: [A](/post/a/) [small](/post/small/) [number](/post/number/) [of](/post/of/) [people](/post/people/) [or](/post/or/) things [that](/post/that/) are [difficult](/post/difficult/) [to](/post/to/) [manage](/post/manage/) [or](/post/or/) [control](/post/control/) [because](/post/because/) [they](/post/they/) [require](/post/require/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [effort](/post/effort/) [or](/post/or/) [attention](/post/attention/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) toddler was [a](/post/a/) [real](/post/real/) [handful](/post/handful/) [for](/post/for/) [his](/post/his/) parents."
 
-[Example](/en/post/example/) sentences:
-- **[Noun](/en/post/noun/) ([quantity](/en/post/quantity/))**: "I bought [a](/en/post/a/) [handful](/en/post/handful/) [of](/en/post/of/) grapes [from](/en/post/from/) [the](/en/post/the/) farmer's [market](/en/post/market/)."
-- **Figurative**: "[The](/en/post/the/) [new](/en/post/new/) [teacher](/en/post/teacher/) had [quite](/en/post/quite/) [a](/en/post/a/) [handful](/en/post/handful/) [with](/en/post/with/) [this](/en/post/this/) energetic [class](/en/post/class/) [full](/en/post/full/) [of](/en/post/of/) mischievous students."
+[Example](/post/example/) sentences:
+- **[Noun](/post/noun/) ([quantity](/post/quantity/))**: "I bought [a](/post/a/) [handful](/post/handful/) [of](/post/of/) grapes [from](/post/from/) [the](/post/the/) farmer's [market](/post/market/)."
+- **Figurative**: "[The](/post/the/) [new](/post/new/) [teacher](/post/teacher/) had [quite](/post/quite/) [a](/post/a/) [handful](/post/handful/) [with](/post/with/) [this](/post/this/) energetic [class](/post/class/) [full](/post/full/) [of](/post/of/) mischievous students."
 
 ## Phrases
-- "[A](/en/post/a/) [handful](/en/post/handful/) [of](/en/post/of/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [small](/en/post/small/), unspecified [number](/en/post/number/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[There](/en/post/there/) were [only](/en/post/only/) [a](/en/post/a/) [handful](/en/post/handful/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) attended [the](/en/post/the/) [lecture](/en/post/lecture/)."
-- "[More](/en/post/more/) [than](/en/post/than/) [a](/en/post/a/) [handful](/en/post/handful/)": Refers [to](/en/post/to/) [something](/en/post/something/) [being](/en/post/being/) [too](/en/post/too/) [much](/en/post/much/) [to](/en/post/to/) [handle](/en/post/handle/) [easily](/en/post/easily/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [humorous](/en/post/humorous/) context [when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [breast](/en/post/breast/) [size](/en/post/size/) [or](/en/post/or/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [very](/en/post/very/) challenging [to](/en/post/to/) [manage](/en/post/manage/). [Example](/en/post/example/): "[She](/en/post/she/) complained [that](/en/post/that/) [her](/en/post/her/) newborn triplets were [more](/en/post/more/) [than](/en/post/than/) [a](/en/post/a/) [handful](/en/post/handful/)."
+- "[A](/post/a/) [handful](/post/handful/) [of](/post/of/)": [This](/post/this/) [phrase](/post/phrase/) is [often](/post/often/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [small](/post/small/), unspecified [number](/post/number/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[There](/post/there/) were [only](/post/only/) [a](/post/a/) [handful](/post/handful/) [of](/post/of/) [people](/post/people/) [who](/post/who/) attended [the](/post/the/) [lecture](/post/lecture/)."
+- "[More](/post/more/) [than](/post/than/) [a](/post/a/) [handful](/post/handful/)": Refers [to](/post/to/) [something](/post/something/) [being](/post/being/) [too](/post/too/) [much](/post/much/) [to](/post/to/) [handle](/post/handle/) [easily](/post/easily/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [humorous](/post/humorous/) context [when](/post/when/) referring [to](/post/to/) [a](/post/a/) [large](/post/large/) [breast](/post/breast/) [size](/post/size/) [or](/post/or/) [a](/post/a/) [person](/post/person/) [who](/post/who/) is [very](/post/very/) challenging [to](/post/to/) [manage](/post/manage/). [Example](/post/example/): "[She](/post/she/) complained [that](/post/that/) [her](/post/her/) newborn triplets were [more](/post/more/) [than](/post/than/) [a](/post/a/) [handful](/post/handful/)."
 
 ## Synonyms
-- [A](/en/post/a/) [few](/en/post/few/)
-- [Some](/en/post/some/)
-- [A](/en/post/a/) [bit](/en/post/bit/)
-- [A](/en/post/a/) [little](/en/post/little/)
-- [A](/en/post/a/) clutch
-- [A](/en/post/a/) [grip](/en/post/grip/) (informal)
-- [A](/en/post/a/) sprinkling
-- [A](/en/post/a/) [bunch](/en/post/bunch/) (informal, [especially](/en/post/especially/) [for](/en/post/for/) countable items)
+- [A](/post/a/) [few](/post/few/)
+- [Some](/post/some/)
+- [A](/post/a/) [bit](/post/bit/)
+- [A](/post/a/) [little](/post/little/)
+- [A](/post/a/) clutch
+- [A](/post/a/) [grip](/post/grip/) (informal)
+- [A](/post/a/) sprinkling
+- [A](/post/a/) [bunch](/post/bunch/) (informal, [especially](/post/especially/) [for](/post/for/) countable items)
 
-[When](/en/post/when/) [used](/en/post/used/) [in](/en/post/in/) [its](/en/post/its/) figurative [sense](/en/post/sense/):
-- [Difficult](/en/post/difficult/) [to](/en/post/to/) [manage](/en/post/manage/)
-- [Troublesome](/en/post/troublesome/)
+[When](/post/when/) [used](/post/used/) [in](/post/in/) [its](/post/its/) figurative [sense](/post/sense/):
+- [Difficult](/post/difficult/) [to](/post/to/) [manage](/post/manage/)
+- [Troublesome](/post/troublesome/)
 - Challenging
 - Demanding
 - Unruly
-- [Wild](/en/post/wild/)
+- [Wild](/post/wild/)

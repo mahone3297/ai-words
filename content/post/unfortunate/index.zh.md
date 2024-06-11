@@ -11,19 +11,19 @@ keywords = ['ai words', 'unfortunate']
 /ʌnˈfɔːrtʃənət/
 
 ## 释义
-- **形容词**: 不幸的，倒霉的，令人遗憾的。例如: "[He](/post/he/) had an [unfortunate](/post/unfortunate/) [accident](/post/accident/)."
-- **名词**: 不幸的事，灾祸。例如: "[They](/post/they/) experienced [several](/post/several/) [unfortunate](/post/unfortunate/) events [during](/post/during/) [their](/post/their/) [trip](/post/trip/)."
+- **形容词**: 不幸的，倒霉的，令人遗憾的。例如: "[He](/zh/post/he/) had an [unfortunate](/zh/post/unfortunate/) [accident](/zh/post/accident/)."
+- **名词**: 不幸的事，灾祸。例如: "[They](/zh/post/they/) experienced [several](/zh/post/several/) [unfortunate](/zh/post/unfortunate/) events [during](/zh/post/during/) [their](/zh/post/their/) [trip](/zh/post/trip/)."
 
 ## 短语
-- "An [unfortunate](/post/unfortunate/) [situation](/post/situation/)" 意为一个不幸的情况。
-- "[Unfortunately](/post/unfortunately/)" 通常用作副词，表示遗憾或失望。例如: "[Unfortunately](/post/unfortunately/), [the](/post/the/) [weather](/post/weather/) turned [bad](/post/bad/)."
+- "An [unfortunate](/zh/post/unfortunate/) [situation](/zh/post/situation/)" 意为一个不幸的情况。
+- "[Unfortunately](/zh/post/unfortunately/)" 通常用作副词，表示遗憾或失望。例如: "[Unfortunately](/zh/post/unfortunately/), [the](/zh/post/the/) [weather](/zh/post/weather/) turned [bad](/zh/post/bad/)."
 
 ## 例句
-- 形容词: "[It](/post/it/) was [unfortunate](/post/unfortunate/) [that](/post/that/) [she](/post/she/) missed [the](/post/the/) [train](/post/train/)."
-- 名词: "[The](/post/the/) [storm](/post/storm/) caused [widespread](/post/widespread/) [damage](/post/damage/), an [unfortunate](/post/unfortunate/) [consequence](/post/consequence/) [of](/post/of/) [living](/post/living/) [near](/post/near/) [the](/post/the/) [coast](/post/coast/)."
+- 形容词: "[It](/zh/post/it/) was [unfortunate](/zh/post/unfortunate/) [that](/zh/post/that/) [she](/zh/post/she/) missed [the](/zh/post/the/) [train](/zh/post/train/)."
+- 名词: "[The](/zh/post/the/) [storm](/zh/post/storm/) caused [widespread](/zh/post/widespread/) [damage](/zh/post/damage/), an [unfortunate](/zh/post/unfortunate/) [consequence](/zh/post/consequence/) [of](/zh/post/of/) [living](/zh/post/living/) [near](/zh/post/near/) [the](/zh/post/the/) [coast](/zh/post/coast/)."
 
 ## 同义词
-- [Unlucky](/post/unlucky/)
+- [Unlucky](/zh/post/unlucky/)
 - Misfortunate
 - Doomed
 - Disadvantaged

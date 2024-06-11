@@ -7,30 +7,30 @@ description = '[ˈinsidənt] n.发生的事；事件'
 keywords = ['ai words', 'incident']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪnˌsɪdənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [event](/en/post/event/) [or](/en/post/or/) [occurrence](/en/post/occurrence/), typically [one](/en/post/one/) [that](/en/post/that/) is [unexpected](/en/post/unexpected/), unplanned, [or](/en/post/or/) unwanted, [and](/en/post/and/) [which](/en/post/which/) [may](/en/post/may/) [have](/en/post/have/) [a](/en/post/a/) [negative](/en/post/negative/) [impact](/en/post/impact/) [or](/en/post/or/) [cause](/en/post/cause/) [harm](/en/post/harm/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [car](/en/post/car/) [accident](/en/post/accident/) was [a](/en/post/a/) tragic [incident](/en/post/incident/)."
-- **[Noun](/en/post/noun/) ([legal](/en/post/legal/))**: [A](/en/post/a/) [particular](/en/post/particular/) [action](/en/post/action/) [or](/en/post/or/) [event](/en/post/event/) [that](/en/post/that/) is [under](/en/post/under/) [investigation](/en/post/investigation/), [often](/en/post/often/) involving [possible](/en/post/possible/) wrongdoing [or](/en/post/or/) [criminal](/en/post/criminal/) [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [police](/en/post/police/) are looking [into](/en/post/into/) [the](/en/post/the/) theft [incident](/en/post/incident/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [happen](/en/post/happen/) [or](/en/post/or/) [occur](/en/post/occur/), [especially](/en/post/especially/) unexpectedly [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [minor](/en/post/minor/) accompaniment [to](/en/post/to/) [something](/en/post/something/) [else](/en/post/else/). [For](/en/post/for/) [example](/en/post/example/): "[Several](/en/post/several/) incidents [of](/en/post/of/) plagiarism were noted [during](/en/post/during/) [the](/en/post/the/) [academic](/en/post/academic/) [year](/en/post/year/)."
+- **[Noun](/post/noun/)**: An [event](/post/event/) [or](/post/or/) [occurrence](/post/occurrence/), typically [one](/post/one/) [that](/post/that/) is [unexpected](/post/unexpected/), unplanned, [or](/post/or/) unwanted, [and](/post/and/) [which](/post/which/) [may](/post/may/) [have](/post/have/) [a](/post/a/) [negative](/post/negative/) [impact](/post/impact/) [or](/post/or/) [cause](/post/cause/) [harm](/post/harm/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [car](/post/car/) [accident](/post/accident/) was [a](/post/a/) tragic [incident](/post/incident/)."
+- **[Noun](/post/noun/) ([legal](/post/legal/))**: [A](/post/a/) [particular](/post/particular/) [action](/post/action/) [or](/post/or/) [event](/post/event/) [that](/post/that/) is [under](/post/under/) [investigation](/post/investigation/), [often](/post/often/) involving [possible](/post/possible/) wrongdoing [or](/post/or/) [criminal](/post/criminal/) [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [police](/post/police/) are looking [into](/post/into/) [the](/post/the/) theft [incident](/post/incident/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [happen](/post/happen/) [or](/post/or/) [occur](/post/occur/), [especially](/post/especially/) unexpectedly [or](/post/or/) [as](/post/as/) [a](/post/a/) [minor](/post/minor/) accompaniment [to](/post/to/) [something](/post/something/) [else](/post/else/). [For](/post/for/) [example](/post/example/): "[Several](/post/several/) incidents [of](/post/of/) plagiarism were noted [during](/post/during/) [the](/post/the/) [academic](/post/academic/) [year](/post/year/)."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) aftermath [of](/en/post/of/) [the](/en/post/the/) [incident](/en/post/incident/)": Refers [to](/en/post/to/) [the](/en/post/the/) [period](/en/post/period/) [following](/en/post/following/) an [event](/en/post/event/), [particularly](/en/post/particularly/) [when](/en/post/when/) dealing [with](/en/post/with/) [its](/en/post/its/) consequences.
-- "[Incident](/en/post/incident/) [response](/en/post/response/)": [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) dealing [with](/en/post/with/) an [unexpected](/en/post/unexpected/) [event](/en/post/event/), [especially](/en/post/especially/) [in](/en/post/in/) [IT](/en/post/it/) [security](/en/post/security/) [where](/en/post/where/) [it](/en/post/it/) involves managing [and](/en/post/and/) mitigating [the](/en/post/the/) effects [of](/en/post/of/) [a](/en/post/a/) cyber [attack](/en/post/attack/).
-- "[Without](/en/post/without/) [incident](/en/post/incident/)": Describes [a](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) an [event](/en/post/event/) proceeded [smoothly](/en/post/smoothly/) [and](/en/post/and/) [without](/en/post/without/) [any](/en/post/any/) problems [or](/en/post/or/) issues.
+- "[In](/post/in/) [the](/post/the/) aftermath [of](/post/of/) [the](/post/the/) [incident](/post/incident/)": Refers [to](/post/to/) [the](/post/the/) [period](/post/period/) [following](/post/following/) an [event](/post/event/), [particularly](/post/particularly/) [when](/post/when/) dealing [with](/post/with/) [its](/post/its/) consequences.
+- "[Incident](/post/incident/) [response](/post/response/)": [The](/post/the/) [process](/post/process/) [of](/post/of/) dealing [with](/post/with/) an [unexpected](/post/unexpected/) [event](/post/event/), [especially](/post/especially/) [in](/post/in/) [IT](/post/it/) [security](/post/security/) [where](/post/where/) [it](/post/it/) involves managing [and](/post/and/) mitigating [the](/post/the/) effects [of](/post/of/) [a](/post/a/) cyber [attack](/post/attack/).
+- "[Without](/post/without/) [incident](/post/incident/)": Describes [a](/post/a/) [situation](/post/situation/) [where](/post/where/) an [event](/post/event/) proceeded [smoothly](/post/smoothly/) [and](/post/and/) [without](/post/without/) [any](/post/any/) problems [or](/post/or/) issues.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[A](/en/post/a/) [fire](/en/post/fire/) broke [out](/en/post/out/) [last](/en/post/last/) [night](/en/post/night/), causing [significant](/en/post/significant/) [damage](/en/post/damage/) [to](/en/post/to/) [the](/en/post/the/) [building](/en/post/building/) [in](/en/post/in/) [what](/en/post/what/) has been described [as](/en/post/as/) [a](/en/post/a/) [major](/en/post/major/) [incident](/en/post/incident/)."
-- **[Legal](/en/post/legal/) [Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) reported [several](/en/post/several/) [data](/en/post/data/) breaches [to](/en/post/to/) regulatory authorities [as](/en/post/as/) [separate](/en/post/separate/) incidents."
-- **[Verb](/en/post/verb/)**: "[Despite](/en/post/despite/) [heavy](/en/post/heavy/) [rain](/en/post/rain/), [the](/en/post/the/) [parade](/en/post/parade/) went [ahead](/en/post/ahead/) incident-free."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[A](/post/a/) [fire](/post/fire/) broke [out](/post/out/) [last](/post/last/) [night](/post/night/), causing [significant](/post/significant/) [damage](/post/damage/) [to](/post/to/) [the](/post/the/) [building](/post/building/) [in](/post/in/) [what](/post/what/) has been described [as](/post/as/) [a](/post/a/) [major](/post/major/) [incident](/post/incident/)."
+- **[Legal](/post/legal/) [Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) reported [several](/post/several/) [data](/post/data/) breaches [to](/post/to/) regulatory authorities [as](/post/as/) [separate](/post/separate/) incidents."
+- **[Verb](/post/verb/)**: "[Despite](/post/despite/) [heavy](/post/heavy/) [rain](/post/rain/), [the](/post/the/) [parade](/post/parade/) went [ahead](/post/ahead/) incident-free."
 
 ## Synonyms
-- [Event](/en/post/event/)
-- [Occurrence](/en/post/occurrence/)
+- [Event](/post/event/)
+- [Occurrence](/post/occurrence/)
 - Episode
 - Mishap
-- [Accident](/en/post/accident/)
-- [Affair](/en/post/affair/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) an [unexpected](/en/post/unexpected/) [event](/en/post/event/))
+- [Accident](/post/accident/)
+- [Affair](/post/affair/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) an [unexpected](/post/unexpected/) [event](/post/event/))
 - Happening
-- Episode ([in](/en/post/in/) [legal](/en/post/legal/) contexts)
+- Episode ([in](/post/in/) [legal](/post/legal/) contexts)

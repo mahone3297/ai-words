@@ -7,32 +7,32 @@ description = '[ˈhænsəm] a.英俊的；相当大的'
 keywords = ['ai words', 'handsome']
 +++
 
-## [Word](/en/post/word/): [Handsome](/en/post/handsome/)
+## [Word](/post/word/): [Handsome](/post/handsome/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhænsəm/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) [Attractive](/en/post/attractive/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [manly](/en/post/manly/) [or](/en/post/or/) dignified [way](/en/post/way/); good-looking. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [actor](/en/post/actor/) has [a](/en/post/a/) [handsome](/en/post/handsome/) [face](/en/post/face/) [with](/en/post/with/) chiseled features."
+- **[Adjective](/post/adjective/)**: (adj) [Attractive](/post/attractive/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [manly](/post/manly/) [or](/post/or/) dignified [way](/post/way/); good-looking. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [actor](/post/actor/) has [a](/post/a/) [handsome](/post/handsome/) [face](/post/face/) [with](/post/with/) chiseled features."
   
-  - Referring [to](/en/post/to/) [money](/en/post/money/) [or](/en/post/or/) an [amount](/en/post/amount/): [Generous](/en/post/generous/), ample, [considerable](/en/post/considerable/). [Example](/en/post/example/): "[He](/en/post/he/) received [a](/en/post/a/) [handsome](/en/post/handsome/) [reward](/en/post/reward/) [for](/en/post/for/) [his](/en/post/his/) efforts."
+  - Referring [to](/post/to/) [money](/post/money/) [or](/post/or/) an [amount](/post/amount/): [Generous](/post/generous/), ample, [considerable](/post/considerable/). [Example](/post/example/): "[He](/post/he/) received [a](/post/a/) [handsome](/post/handsome/) [reward](/post/reward/) [for](/post/for/) [his](/post/his/) efforts."
   
-- **[Noun](/en/post/noun/)** ([less](/en/post/less/) [commonly](/en/post/commonly/)): [A](/en/post/a/) [handsome](/en/post/handsome/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/). [Example](/en/post/example/): "[The](/en/post/the/) [young](/en/post/young/) [man](/en/post/man/) was [quite](/en/post/quite/) [the](/en/post/the/) [handsome](/en/post/handsome/) [around](/en/post/around/) [town](/en/post/town/)."
+- **[Noun](/post/noun/)** ([less](/post/less/) [commonly](/post/commonly/)): [A](/post/a/) [handsome](/post/handsome/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/). [Example](/post/example/): "[The](/post/the/) [young](/post/young/) [man](/post/man/) was [quite](/post/quite/) [the](/post/the/) [handsome](/post/handsome/) [around](/post/around/) [town](/post/town/)."
 
 ## Phrases
-- "[A](/en/post/a/) [handsome](/en/post/handsome/) [sum](/en/post/sum/)": [A](/en/post/a/) [large](/en/post/large/) [or](/en/post/or/) [generous](/en/post/generous/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/). [Example](/en/post/example/): "[The](/en/post/the/) inheritance was [a](/en/post/a/) [handsome](/en/post/handsome/) [sum](/en/post/sum/) [indeed](/en/post/indeed/)."
-- "[Handsome](/en/post/handsome/) is [as](/en/post/as/) [handsome](/en/post/handsome/) does": [This](/en/post/this/) idiomatic [expression](/en/post/expression/) suggests [that](/en/post/that/) one's [true](/en/post/true/) [worth](/en/post/worth/) is based [on](/en/post/on/) [their](/en/post/their/) actions [rather](/en/post/rather/) [than](/en/post/than/) [their](/en/post/their/) [appearance](/en/post/appearance/).
+- "[A](/post/a/) [handsome](/post/handsome/) [sum](/post/sum/)": [A](/post/a/) [large](/post/large/) [or](/post/or/) [generous](/post/generous/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/). [Example](/post/example/): "[The](/post/the/) inheritance was [a](/post/a/) [handsome](/post/handsome/) [sum](/post/sum/) [indeed](/post/indeed/)."
+- "[Handsome](/post/handsome/) is [as](/post/as/) [handsome](/post/handsome/) does": [This](/post/this/) idiomatic [expression](/post/expression/) suggests [that](/post/that/) one's [true](/post/true/) [worth](/post/worth/) is based [on](/post/on/) [their](/post/their/) actions [rather](/post/rather/) [than](/post/than/) [their](/post/their/) [appearance](/post/appearance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) couldn't [help](/en/post/help/) [but](/en/post/but/) [admire](/en/post/admire/) [her](/en/post/her/) date's [handsome](/en/post/handsome/) [suit](/en/post/suit/) [and](/en/post/and/) debonair demeanor."
-- "[He](/en/post/he/) inherited [a](/en/post/a/) [handsome](/en/post/handsome/) Victorian [house](/en/post/house/) [from](/en/post/from/) [his](/en/post/his/) [grandmother](/en/post/grandmother/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [leading](/en/post/leading/) [man](/en/post/man/) was known [for](/en/post/for/) [being](/en/post/being/) [the](/en/post/the/) [most](/en/post/most/) [handsome](/en/post/handsome/) [in](/en/post/in/) Hollywood."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) couldn't [help](/post/help/) [but](/post/but/) [admire](/post/admire/) [her](/post/her/) date's [handsome](/post/handsome/) [suit](/post/suit/) [and](/post/and/) debonair demeanor."
+- "[He](/post/he/) inherited [a](/post/a/) [handsome](/post/handsome/) Victorian [house](/post/house/) [from](/post/from/) [his](/post/his/) [grandmother](/post/grandmother/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [leading](/post/leading/) [man](/post/man/) was known [for](/post/for/) [being](/post/being/) [the](/post/the/) [most](/post/most/) [handsome](/post/handsome/) [in](/post/in/) Hollywood."
 
 ## Synonyms
-- [Attractive](/en/post/attractive/)
+- [Attractive](/post/attractive/)
 - Good-looking
 - Dashing
-- [Charming](/en/post/charming/)
-- Elegant ([for](/en/post/for/) [appearance](/en/post/appearance/))
-- [Generous](/en/post/generous/) ([for](/en/post/for/) amounts)
-- [Considerable](/en/post/considerable/) ([for](/en/post/for/) quantities)
+- [Charming](/post/charming/)
+- Elegant ([for](/post/for/) [appearance](/post/appearance/))
+- [Generous](/post/generous/) ([for](/post/for/) amounts)
+- [Considerable](/post/considerable/) ([for](/post/for/) quantities)

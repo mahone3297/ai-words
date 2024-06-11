@@ -12,20 +12,20 @@ keywords = ['ai words', 'mood']
 
 ## 释义
 - **名词**:
-  - 心情，情绪：表示个人的内心感受或态度，如愉快、悲伤、愤怒等。例如: "[She](/post/she/) was [in](/post/in/) [a](/post/a/) [good](/post/good/) [mood](/post/mood/) [today](/post/today/)."
-  - 气氛，氛围：指环境或场合的总体感觉或气氛。例如: "[The](/post/the/) [mood](/post/mood/) [in](/post/in/) [the](/post/the/) [room](/post/room/) became [tense](/post/tense/) [when](/post/when/) [the](/post/the/) [news](/post/news/) came [in](/post/in/)."
+  - 心情，情绪：表示个人的内心感受或态度，如愉快、悲伤、愤怒等。例如: "[She](/zh/post/she/) was [in](/zh/post/in/) [a](/zh/post/a/) [good](/zh/post/good/) [mood](/zh/post/mood/) [today](/zh/post/today/)."
+  - 气氛，氛围：指环境或场合的总体感觉或气氛。例如: "[The](/zh/post/the/) [mood](/zh/post/mood/) [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/) became [tense](/zh/post/tense/) [when](/zh/post/when/) [the](/zh/post/the/) [news](/zh/post/news/) came [in](/zh/post/in/)."
 
 ## 短语
-- "[set](/post/set/) [the](/post/the/) [mood](/post/mood/)" 意为营造气氛或调整情绪。
-- "[in](/post/in/) [a](/post/a/) [bad](/post/bad/)/[good](/post/good/) [mood](/post/mood/)" 表示情绪的好坏。
+- "[set](/zh/post/set/) [the](/zh/post/the/) [mood](/zh/post/mood/)" 意为营造气氛或调整情绪。
+- "[in](/zh/post/in/) [a](/zh/post/a/) [bad](/zh/post/bad/)/[good](/zh/post/good/) [mood](/zh/post/mood/)" 表示情绪的好坏。
 
 ## 例句
-- 名词: "[The](/post/the/) [music](/post/music/) helped [to](/post/to/) [create](/post/create/) [a](/post/a/) [romantic](/post/romantic/) [mood](/post/mood/) [for](/post/for/) [their](/post/their/) [dinner](/post/dinner/) [date](/post/date/)."
-- 动词（非标准用法，较为口语化）: "[His](/post/his/) jokes [really](/post/really/) moods [up](/post/up/) [the](/post/the/) [party](/post/party/)."
+- 名词: "[The](/zh/post/the/) [music](/zh/post/music/) helped [to](/zh/post/to/) [create](/zh/post/create/) [a](/zh/post/a/) [romantic](/zh/post/romantic/) [mood](/zh/post/mood/) [for](/zh/post/for/) [their](/zh/post/their/) [dinner](/zh/post/dinner/) [date](/zh/post/date/)."
+- 动词（非标准用法，较为口语化）: "[His](/zh/post/his/) jokes [really](/zh/post/really/) moods [up](/zh/post/up/) [the](/zh/post/the/) [party](/zh/post/party/)."
 
 ## 同义词
-- [State](/post/state/) [of](/post/of/) [mind](/post/mind/)
-- [Feeling](/post/feeling/)
-- [Temper](/post/temper/)
+- [State](/zh/post/state/) [of](/zh/post/of/) [mind](/zh/post/mind/)
+- [Feeling](/zh/post/feeling/)
+- [Temper](/zh/post/temper/)
 - Disposition
-- [Atmosphere](/post/atmosphere/)
+- [Atmosphere](/zh/post/atmosphere/)

@@ -7,37 +7,37 @@ description = '[ʌmˈbrelə] n.伞，雨伞'
 keywords = ['ai words', 'umbrella']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ʌmˈbrelə/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [portable](/en/post/portable/) canopy [with](/en/post/with/) [a](/en/post/a/) [frame](/en/post/frame/) [and](/en/post/and/) [fabric](/en/post/fabric/) [or](/en/post/or/) [other](/en/post/other/) [material](/en/post/material/), designed [to](/en/post/to/) [provide](/en/post/provide/) [protection](/en/post/protection/) [from](/en/post/from/) [rain](/en/post/rain/), [sun](/en/post/sun/), [or](/en/post/or/) [snow](/en/post/snow/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) carried an [umbrella](/en/post/umbrella/) [to](/en/post/to/) [shield](/en/post/shield/) [herself](/en/post/herself/) [from](/en/post/from/) [the](/en/post/the/) [rain](/en/post/rain/)."
-2. [A](/en/post/a/) [thing](/en/post/thing/) [that](/en/post/that/) provides [protection](/en/post/protection/) [or](/en/post/or/) [support](/en/post/support/), [especially](/en/post/especially/) [in](/en/post/in/) times [of](/en/post/of/) [trouble](/en/post/trouble/) [or](/en/post/or/) adversity.
-   - [Example](/en/post/example/): "An [umbrella](/en/post/umbrella/) [of](/en/post/of/) [insurance](/en/post/insurance/) covers [unexpected](/en/post/unexpected/) expenses."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [portable](/post/portable/) canopy [with](/post/with/) [a](/post/a/) [frame](/post/frame/) [and](/post/and/) [fabric](/post/fabric/) [or](/post/or/) [other](/post/other/) [material](/post/material/), designed [to](/post/to/) [provide](/post/provide/) [protection](/post/protection/) [from](/post/from/) [rain](/post/rain/), [sun](/post/sun/), [or](/post/or/) [snow](/post/snow/).
+   - [Example](/post/example/): "[She](/post/she/) carried an [umbrella](/post/umbrella/) [to](/post/to/) [shield](/post/shield/) [herself](/post/herself/) [from](/post/from/) [the](/post/the/) [rain](/post/rain/)."
+2. [A](/post/a/) [thing](/post/thing/) [that](/post/that/) provides [protection](/post/protection/) [or](/post/or/) [support](/post/support/), [especially](/post/especially/) [in](/post/in/) times [of](/post/of/) [trouble](/post/trouble/) [or](/post/or/) adversity.
+   - [Example](/post/example/): "An [umbrella](/post/umbrella/) [of](/post/of/) [insurance](/post/insurance/) covers [unexpected](/post/unexpected/) expenses."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [use](/en/post/use/) [or](/en/post/or/) [carry](/en/post/carry/) an [umbrella](/en/post/umbrella/), typically [as](/en/post/as/) [protection](/en/post/protection/) [from](/en/post/from/) [rain](/en/post/rain/) [or](/en/post/or/) [sun](/en/post/sun/).
-   - [Example](/en/post/example/): "[He](/en/post/he/) [quickly](/en/post/quickly/) opened [his](/en/post/his/) [umbrella](/en/post/umbrella/) [when](/en/post/when/) [it](/en/post/it/) started raining."
-2. [To](/en/post/to/) [provide](/en/post/provide/) [or](/en/post/or/) [offer](/en/post/offer/) [protection](/en/post/protection/) [or](/en/post/or/) [support](/en/post/support/), [often](/en/post/often/) metaphorically.
-   - [Example](/en/post/example/): "[The](/en/post/the/) company's [policy](/en/post/policy/) umbrellas [their](/en/post/their/) employees [with](/en/post/with/) [legal](/en/post/legal/) assistance."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [use](/post/use/) [or](/post/or/) [carry](/post/carry/) an [umbrella](/post/umbrella/), typically [as](/post/as/) [protection](/post/protection/) [from](/post/from/) [rain](/post/rain/) [or](/post/or/) [sun](/post/sun/).
+   - [Example](/post/example/): "[He](/post/he/) [quickly](/post/quickly/) opened [his](/post/his/) [umbrella](/post/umbrella/) [when](/post/when/) [it](/post/it/) started raining."
+2. [To](/post/to/) [provide](/post/provide/) [or](/post/or/) [offer](/post/offer/) [protection](/post/protection/) [or](/post/or/) [support](/post/support/), [often](/post/often/) metaphorically.
+   - [Example](/post/example/): "[The](/post/the/) company's [policy](/post/policy/) umbrellas [their](/post/their/) employees [with](/post/with/) [legal](/post/legal/) assistance."
 
 ## Phrases
-- "[Under](/en/post/under/) an [umbrella](/en/post/umbrella/)" implies [shelter](/en/post/shelter/) [or](/en/post/or/) [protection](/en/post/protection/).
-- "[Umbrella](/en/post/umbrella/) [policy](/en/post/policy/)" refers [to](/en/post/to/) [a](/en/post/a/) [comprehensive](/en/post/comprehensive/) coverage [that](/en/post/that/) combines [multiple](/en/post/multiple/) [insurance](/en/post/insurance/) policies.
-- "[Keep](/en/post/keep/) [your](/en/post/your/) [head](/en/post/head/) [down](/en/post/down/) [under](/en/post/under/) [the](/en/post/the/) [umbrella](/en/post/umbrella/)" is [a](/en/post/a/) figurative [expression](/en/post/expression/) [to](/en/post/to/) [advise](/en/post/advise/) [someone](/en/post/someone/) [to](/en/post/to/) [avoid](/en/post/avoid/) [trouble](/en/post/trouble/) [or](/en/post/or/) [danger](/en/post/danger/).
+- "[Under](/post/under/) an [umbrella](/post/umbrella/)" implies [shelter](/post/shelter/) [or](/post/or/) [protection](/post/protection/).
+- "[Umbrella](/post/umbrella/) [policy](/post/policy/)" refers [to](/post/to/) [a](/post/a/) [comprehensive](/post/comprehensive/) coverage [that](/post/that/) combines [multiple](/post/multiple/) [insurance](/post/insurance/) policies.
+- "[Keep](/post/keep/) [your](/post/your/) [head](/post/head/) [down](/post/down/) [under](/post/under/) [the](/post/the/) [umbrella](/post/umbrella/)" is [a](/post/a/) figurative [expression](/post/expression/) [to](/post/to/) [advise](/post/advise/) [someone](/post/someone/) [to](/post/to/) [avoid](/post/avoid/) [trouble](/post/trouble/) [or](/post/or/) [danger](/post/danger/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [couple](/en/post/couple/) held hands [under](/en/post/under/) [their](/en/post/their/) shared [umbrella](/en/post/umbrella/) [on](/en/post/on/) [the](/en/post/the/) [rainy](/en/post/rainy/) [street](/en/post/street/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) remembered [to](/en/post/to/) [umbrella](/en/post/umbrella/) [his](/en/post/his/) children [from](/en/post/from/) [the](/en/post/the/) [sun](/en/post/sun/) [at](/en/post/at/) [the](/en/post/the/) [park](/en/post/park/)."
-- **Metaphorical**: "[The](/en/post/the/) government's [economic](/en/post/economic/) policies acted [as](/en/post/as/) an [umbrella](/en/post/umbrella/) [during](/en/post/during/) [the](/en/post/the/) recession."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [couple](/post/couple/) held hands [under](/post/under/) [their](/post/their/) shared [umbrella](/post/umbrella/) [on](/post/on/) [the](/post/the/) [rainy](/post/rainy/) [street](/post/street/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) remembered [to](/post/to/) [umbrella](/post/umbrella/) [his](/post/his/) children [from](/post/from/) [the](/post/the/) [sun](/post/sun/) [at](/post/at/) [the](/post/the/) [park](/post/park/)."
+- **Metaphorical**: "[The](/post/the/) government's [economic](/post/economic/) policies acted [as](/post/as/) an [umbrella](/post/umbrella/) [during](/post/during/) [the](/post/the/) recession."
 
 ## Synonyms
 - Parasol
 - Brolly
 - Umbrele
-- [Cover](/en/post/cover/)
-- [Shield](/en/post/shield/)
-- [Protection](/en/post/protection/)
+- [Cover](/post/cover/)
+- [Shield](/post/shield/)
+- [Protection](/post/protection/)
 - Canopy

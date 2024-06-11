@@ -7,33 +7,33 @@ description = '[ˈdʒəːni] n.旅行，旅程 n.旅行'
 keywords = ['ai words', 'journey']
 +++
 
-## [Word](/en/post/word/): [Journey](/en/post/journey/)
+## [Word](/post/word/): [Journey](/post/journey/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒɜːrni/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [trip](/en/post/trip/) [or](/en/post/or/) [voyage](/en/post/voyage/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/), [usually](/en/post/usually/) taking [a](/en/post/a/) [significant](/en/post/significant/) [amount](/en/post/amount/) [of](/en/post/of/) [time](/en/post/time/) [or](/en/post/or/) involving notable experiences. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) embarked [on](/en/post/on/) [a](/en/post/a/) [long](/en/post/long/) [and](/en/post/and/) arduous [journey](/en/post/journey/) [across](/en/post/across/) [the](/en/post/the/) [desert](/en/post/desert/)."
-  - _Extended Meaning_: [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [process](/en/post/process/) [of](/en/post/of/) [personal](/en/post/personal/) [development](/en/post/development/) [or](/en/post/or/) [change](/en/post/change/); e.g., "[Her](/en/post/her/) [journey](/en/post/journey/) towards [recovery](/en/post/recovery/) was filled [with](/en/post/with/) ups [and](/en/post/and/) downs."
+- **[Noun](/post/noun/)**: [A](/post/a/) [trip](/post/trip/) [or](/post/or/) [voyage](/post/voyage/) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/), [usually](/post/usually/) taking [a](/post/a/) [significant](/post/significant/) [amount](/post/amount/) [of](/post/of/) [time](/post/time/) [or](/post/or/) involving notable experiences. [For](/post/for/) [example](/post/example/): "[They](/post/they/) embarked [on](/post/on/) [a](/post/a/) [long](/post/long/) [and](/post/and/) arduous [journey](/post/journey/) [across](/post/across/) [the](/post/the/) [desert](/post/desert/)."
+  - _Extended Meaning_: [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [process](/post/process/) [of](/post/of/) [personal](/post/personal/) [development](/post/development/) [or](/post/or/) [change](/post/change/); e.g., "[Her](/post/her/) [journey](/post/journey/) towards [recovery](/post/recovery/) was filled [with](/post/with/) ups [and](/post/and/) downs."
   
-- **[Verb](/en/post/verb/)**: (journeyed, journeying) [To](/en/post/to/) [travel](/en/post/travel/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) [over](/en/post/over/) [a](/en/post/a/) [considerable](/en/post/considerable/) [distance](/en/post/distance/). [For](/en/post/for/) [example](/en/post/example/): "[Every](/en/post/every/) [summer](/en/post/summer/), [we](/en/post/we/) [journey](/en/post/journey/) [to](/en/post/to/) [the](/en/post/the/) [countryside](/en/post/countryside/) [to](/en/post/to/) [escape](/en/post/escape/) [the](/en/post/the/) [city](/en/post/city/) [heat](/en/post/heat/)."
+- **[Verb](/post/verb/)**: (journeyed, journeying) [To](/post/to/) [travel](/post/travel/) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/), [often](/post/often/) [over](/post/over/) [a](/post/a/) [considerable](/post/considerable/) [distance](/post/distance/). [For](/post/for/) [example](/post/example/): "[Every](/post/every/) [summer](/post/summer/), [we](/post/we/) [journey](/post/journey/) [to](/post/to/) [the](/post/the/) [countryside](/post/countryside/) [to](/post/to/) [escape](/post/escape/) [the](/post/the/) [city](/post/city/) [heat](/post/heat/)."
 
 ## Phrases
-- "[A](/en/post/a/) [journey](/en/post/journey/) [of](/en/post/of/) [a](/en/post/a/) [thousand](/en/post/thousand/) miles begins [with](/en/post/with/) [a](/en/post/a/) [single](/en/post/single/) [step](/en/post/step/)": [This](/en/post/this/) proverb emphasizes [that](/en/post/that/) [every](/en/post/every/) [great](/en/post/great/) [undertaking](/en/post/undertaking/) starts [with](/en/post/with/) [a](/en/post/a/) [small](/en/post/small/) [action](/en/post/action/).
-- "Life's [a](/en/post/a/) [journey](/en/post/journey/), [not](/en/post/not/) [a](/en/post/a/) [destination](/en/post/destination/)": [This](/en/post/this/) [quote](/en/post/quote/) suggests [that](/en/post/that/) [the](/en/post/the/) [value](/en/post/value/) lies [in](/en/post/in/) [the](/en/post/the/) experiences gained [during](/en/post/during/) [the](/en/post/the/) [process](/en/post/process/) [rather](/en/post/rather/) [than](/en/post/than/) [just](/en/post/just/) reaching [the](/en/post/the/) [end](/en/post/end/) [goal](/en/post/goal/).
+- "[A](/post/a/) [journey](/post/journey/) [of](/post/of/) [a](/post/a/) [thousand](/post/thousand/) miles begins [with](/post/with/) [a](/post/a/) [single](/post/single/) [step](/post/step/)": [This](/post/this/) proverb emphasizes [that](/post/that/) [every](/post/every/) [great](/post/great/) [undertaking](/post/undertaking/) starts [with](/post/with/) [a](/post/a/) [small](/post/small/) [action](/post/action/).
+- "Life's [a](/post/a/) [journey](/post/journey/), [not](/post/not/) [a](/post/a/) [destination](/post/destination/)": [This](/post/this/) [quote](/post/quote/) suggests [that](/post/that/) [the](/post/the/) [value](/post/value/) lies [in](/post/in/) [the](/post/the/) experiences gained [during](/post/during/) [the](/post/the/) [process](/post/process/) [rather](/post/rather/) [than](/post/than/) [just](/post/just/) reaching [the](/post/the/) [end](/post/end/) [goal](/post/goal/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [journey](/en/post/journey/) [by](/en/post/by/) [train](/en/post/train/) [through](/en/post/through/) [the](/en/post/the/) mountains offered breathtaking views."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) packing [their](/en/post/their/) bags, [they](/en/post/they/) journeyed [to](/en/post/to/) [the](/en/post/the/) [coast](/en/post/coast/) [for](/en/post/for/) [a](/en/post/a/) week-long [vacation](/en/post/vacation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [journey](/post/journey/) [by](/post/by/) [train](/post/train/) [through](/post/through/) [the](/post/the/) mountains offered breathtaking views."
+- **[Verb](/post/verb/)**: "[After](/post/after/) packing [their](/post/their/) bags, [they](/post/they/) journeyed [to](/post/to/) [the](/post/the/) [coast](/post/coast/) [for](/post/for/) [a](/post/a/) week-long [vacation](/post/vacation/)."
 
 ## Synonyms
-- [Trip](/en/post/trip/)
-- [Voyage](/en/post/voyage/)
+- [Trip](/post/trip/)
+- [Voyage](/post/voyage/)
 - Expedition
-- [Tour](/en/post/tour/)
+- [Tour](/post/tour/)
 - Trek
-- [Travel](/en/post/travel/)
-- [Adventure](/en/post/adventure/)
-- [Excursion](/en/post/excursion/)
-- odyssey ([for](/en/post/for/) [particularly](/en/post/particularly/) [long](/en/post/long/) [or](/en/post/or/) eventful journeys)
-- Pilgrimage ([for](/en/post/for/) [a](/en/post/a/) [journey](/en/post/journey/) made [for](/en/post/for/) [spiritual](/en/post/spiritual/) reasons)
+- [Travel](/post/travel/)
+- [Adventure](/post/adventure/)
+- [Excursion](/post/excursion/)
+- odyssey ([for](/post/for/) [particularly](/post/particularly/) [long](/post/long/) [or](/post/or/) eventful journeys)
+- Pilgrimage ([for](/post/for/) [a](/post/a/) [journey](/post/journey/) made [for](/post/for/) [spiritual](/post/spiritual/) reasons)

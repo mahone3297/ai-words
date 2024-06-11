@@ -7,40 +7,40 @@ description = '[ˈsɔləm] a.庄严的；隆重的'
 keywords = ['ai words', 'solemn']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsəʊləm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [solemn](/en/post/solemn/) [noun](/en/post/noun/) refers [to](/en/post/to/) [a](/en/post/a/) [serious](/en/post/serious/), [grave](/en/post/grave/), [or](/en/post/or/) [solemn](/en/post/solemn/) [event](/en/post/event/), [ceremony](/en/post/ceremony/), [or](/en/post/or/) [atmosphere](/en/post/atmosphere/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) appears [or](/en/post/or/) behaves [with](/en/post/with/) [grave](/en/post/grave/) dignity [or](/en/post/or/) seriousness.
+### [Noun](/post/noun/)
+[A](/post/a/) [solemn](/post/solemn/) [noun](/post/noun/) refers [to](/post/to/) [a](/post/a/) [serious](/post/serious/), [grave](/post/grave/), [or](/post/or/) [solemn](/post/solemn/) [event](/post/event/), [ceremony](/post/ceremony/), [or](/post/or/) [atmosphere](/post/atmosphere/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [describe](/post/describe/) [a](/post/a/) [person](/post/person/) [who](/post/who/) appears [or](/post/or/) behaves [with](/post/with/) [grave](/post/grave/) dignity [or](/post/or/) seriousness.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) solemnly ([verb](/en/post/verb/)) [means](/en/post/means/) [to](/en/post/to/) [perform](/en/post/perform/) [or](/en/post/or/) [conduct](/en/post/conduct/) [something](/en/post/something/) [with](/en/post/with/) [great](/en/post/great/) formality, [gravity](/en/post/gravity/), [or](/en/post/or/) seriousness. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [describe](/en/post/describe/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) expressing [deep](/en/post/deep/) [respect](/en/post/respect/) [or](/en/post/or/) [sorrow](/en/post/sorrow/).
+### [Verb](/post/verb/)
+[To](/post/to/) solemnly ([verb](/post/verb/)) [means](/post/means/) [to](/post/to/) [perform](/post/perform/) [or](/post/or/) [conduct](/post/conduct/) [something](/post/something/) [with](/post/with/) [great](/post/great/) formality, [gravity](/post/gravity/), [or](/post/or/) seriousness. [It](/post/it/) [can](/post/can/) [also](/post/also/) [describe](/post/describe/) [the](/post/the/) [act](/post/act/) [of](/post/of/) expressing [deep](/post/deep/) [respect](/post/respect/) [or](/post/or/) [sorrow](/post/sorrow/).
 
-### [Adjective](/en/post/adjective/)
-[Solemn](/en/post/solemn/) ([adjective](/en/post/adjective/)) describes [something](/en/post/something/) [that](/en/post/that/) is solemnly conducted, characterized [by](/en/post/by/) solemnity, [or](/en/post/or/) having [a](/en/post/a/) [serious](/en/post/serious/), [grave](/en/post/grave/), [or](/en/post/or/) [formal](/en/post/formal/) [quality](/en/post/quality/).
+### [Adjective](/post/adjective/)
+[Solemn](/post/solemn/) ([adjective](/post/adjective/)) describes [something](/post/something/) [that](/post/that/) is solemnly conducted, characterized [by](/post/by/) solemnity, [or](/post/or/) having [a](/post/a/) [serious](/post/serious/), [grave](/post/grave/), [or](/post/or/) [formal](/post/formal/) [quality](/post/quality/).
 
-### [Adverb](/en/post/adverb/)
-Solemnly ([adverb](/en/post/adverb/)) modifies actions [or](/en/post/or/) expressions, indicating [they](/en/post/they/) are done [with](/en/post/with/) [great](/en/post/great/) seriousness [or](/en/post/or/) [gravity](/en/post/gravity/).
+### [Adverb](/post/adverb/)
+Solemnly ([adverb](/post/adverb/)) modifies actions [or](/post/or/) expressions, indicating [they](/post/they/) are done [with](/post/with/) [great](/post/great/) seriousness [or](/post/or/) [gravity](/post/gravity/).
 
 ## Phrases
-- "[A](/en/post/a/) [solemn](/en/post/solemn/) vow" refers [to](/en/post/to/) [a](/en/post/a/) [serious](/en/post/serious/) [promise](/en/post/promise/) [or](/en/post/or/) commitment.
-- "[A](/en/post/a/) [solemn](/en/post/solemn/) [ceremony](/en/post/ceremony/)" denotes [a](/en/post/a/) [serious](/en/post/serious/) [and](/en/post/and/) dignified [event](/en/post/event/), [often](/en/post/often/) [with](/en/post/with/) [religious](/en/post/religious/) [or](/en/post/or/) [memorial](/en/post/memorial/) [significance](/en/post/significance/).
-- "[Solemn](/en/post/solemn/) [silence](/en/post/silence/)" indicates [a](/en/post/a/) [heavy](/en/post/heavy/) [or](/en/post/or/) [respectful](/en/post/respectful/) quietness.
+- "[A](/post/a/) [solemn](/post/solemn/) vow" refers [to](/post/to/) [a](/post/a/) [serious](/post/serious/) [promise](/post/promise/) [or](/post/or/) commitment.
+- "[A](/post/a/) [solemn](/post/solemn/) [ceremony](/post/ceremony/)" denotes [a](/post/a/) [serious](/post/serious/) [and](/post/and/) dignified [event](/post/event/), [often](/post/often/) [with](/post/with/) [religious](/post/religious/) [or](/post/or/) [memorial](/post/memorial/) [significance](/post/significance/).
+- "[Solemn](/post/solemn/) [silence](/post/silence/)" indicates [a](/post/a/) [heavy](/post/heavy/) [or](/post/or/) [respectful](/post/respectful/) quietness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [funeral](/en/post/funeral/) was [a](/en/post/a/) [solemn](/en/post/solemn/) [affair](/en/post/affair/), filled [with](/en/post/with/) grief [and](/en/post/and/) [respect](/en/post/respect/).
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) solemnly swore [never](/en/post/never/) [to](/en/post/to/) [forget](/en/post/forget/) [their](/en/post/their/) shared [history](/en/post/history/).
-- **[Adjective](/en/post/adjective/)**: [She](/en/post/she/) wore [a](/en/post/a/) [solemn](/en/post/solemn/) [expression](/en/post/expression/) [as](/en/post/as/) [she](/en/post/she/) listened [to](/en/post/to/) [the](/en/post/the/) eulogy.
-- **[Adverb](/en/post/adverb/)**: [He](/en/post/he/) entered [the](/en/post/the/) [church](/en/post/church/) solemnly, pausing [to](/en/post/to/) [bow](/en/post/bow/) [his](/en/post/his/) [head](/en/post/head/) [in](/en/post/in/) [prayer](/en/post/prayer/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [funeral](/post/funeral/) was [a](/post/a/) [solemn](/post/solemn/) [affair](/post/affair/), filled [with](/post/with/) grief [and](/post/and/) [respect](/post/respect/).
+- **[Verb](/post/verb/)**: [He](/post/he/) solemnly swore [never](/post/never/) [to](/post/to/) [forget](/post/forget/) [their](/post/their/) shared [history](/post/history/).
+- **[Adjective](/post/adjective/)**: [She](/post/she/) wore [a](/post/a/) [solemn](/post/solemn/) [expression](/post/expression/) [as](/post/as/) [she](/post/she/) listened [to](/post/to/) [the](/post/the/) eulogy.
+- **[Adverb](/post/adverb/)**: [He](/post/he/) entered [the](/post/the/) [church](/post/church/) solemnly, pausing [to](/post/to/) [bow](/post/bow/) [his](/post/his/) [head](/post/head/) [in](/post/in/) [prayer](/post/prayer/).
 
 ## Synonyms
-- [Grave](/en/post/grave/)
+- [Grave](/post/grave/)
 - Solemnly
-- [Formal](/en/post/formal/)
-- [Respectful](/en/post/respectful/)
+- [Formal](/post/formal/)
+- [Respectful](/post/respectful/)
 - Funereal
-- [Sad](/en/post/sad/)
+- [Sad](/post/sad/)
 - Solemnity
 - Weighty
-- [Earnest](/en/post/earnest/)
+- [Earnest](/post/earnest/)

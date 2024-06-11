@@ -11,17 +11,17 @@ keywords = ['ai words', 'moisture']
 /ˈmoɪstʃər/
 
 ## 释义
-- **名词**: 湿气，湿度；微量水分。例如: "[The](/post/the/) [high](/post/high/) [moisture](/post/moisture/) [content](/post/content/) [in](/post/in/) [the](/post/the/) [air](/post/air/) made [the](/post/the/) [room](/post/room/) [feel](/post/feel/) [humid](/post/humid/)."
-- **形容词**: 湿润的，含水分的。例如: "[The](/post/the/) [soil](/post/soil/) was [still](/post/still/) [moist](/post/moist/) [after](/post/after/) [the](/post/the/) [rain](/post/rain/)."
+- **名词**: 湿气，湿度；微量水分。例如: "[The](/zh/post/the/) [high](/zh/post/high/) [moisture](/zh/post/moisture/) [content](/zh/post/content/) [in](/zh/post/in/) [the](/zh/post/the/) [air](/zh/post/air/) made [the](/zh/post/the/) [room](/zh/post/room/) [feel](/zh/post/feel/) [humid](/zh/post/humid/)."
+- **形容词**: 湿润的，含水分的。例如: "[The](/zh/post/the/) [soil](/zh/post/soil/) was [still](/zh/post/still/) [moist](/zh/post/moist/) [after](/zh/post/after/) [the](/zh/post/the/) [rain](/zh/post/rain/)."
 
 ## 短语
 - "Moisturizer" 是保湿剂，常用于护肤产品。
-- "[Moist](/post/moist/) [air](/post/air/)" 指湿润的空气。
-- "[Keep](/post/keep/) [something](/post/something/) [moist](/post/moist/)" 意为保持某物湿润。
+- "[Moist](/zh/post/moist/) [air](/zh/post/air/)" 指湿润的空气。
+- "[Keep](/zh/post/keep/) [something](/zh/post/something/) [moist](/zh/post/moist/)" 意为保持某物湿润。
 
 ## 例句
-- 名词: "[The](/post/the/) plants [need](/post/need/) [regular](/post/regular/) watering [to](/post/to/) [maintain](/post/maintain/) [the](/post/the/) [necessary](/post/necessary/) [moisture](/post/moisture/) [in](/post/in/) [the](/post/the/) [soil](/post/soil/)."
-- 形容词: "[She](/post/she/) applied [a](/post/a/) moisturizing [cream](/post/cream/) [to](/post/to/) [her](/post/her/) [dry](/post/dry/) [skin](/post/skin/)."
+- 名词: "[The](/zh/post/the/) plants [need](/zh/post/need/) [regular](/zh/post/regular/) watering [to](/zh/post/to/) [maintain](/zh/post/maintain/) [the](/zh/post/the/) [necessary](/zh/post/necessary/) [moisture](/zh/post/moisture/) [in](/zh/post/in/) [the](/zh/post/the/) [soil](/zh/post/soil/)."
+- 形容词: "[She](/zh/post/she/) applied [a](/zh/post/a/) moisturizing [cream](/zh/post/cream/) [to](/zh/post/to/) [her](/zh/post/her/) [dry](/zh/post/dry/) [skin](/zh/post/skin/)."
 
 ## 同义词
 - Humidity

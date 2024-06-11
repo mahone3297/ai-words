@@ -7,27 +7,27 @@ description = '[skriːm] vi.尖叫；呼啸'
 keywords = ['ai words', 'scream']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /skriːm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [loud](/en/post/loud/), high-pitched [cry](/en/post/cry/) [of](/en/post/of/) [fear](/en/post/fear/), [pain](/en/post/pain/), [or](/en/post/or/) [alarm](/en/post/alarm/). 2. An [intense](/en/post/intense/) [emotional](/en/post/emotional/) outburst [or](/en/post/or/) exclamation. 3. (colloquial) [A](/en/post/a/) [humorous](/en/post/humorous/) [or](/en/post/or/) exaggerated [shout](/en/post/shout/) [or](/en/post/or/) [yell](/en/post/yell/), [often](/en/post/often/) [for](/en/post/for/) [attention](/en/post/attention/) [or](/en/post/or/) entertainment.
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [utter](/en/post/utter/) [a](/en/post/a/) [loud](/en/post/loud/), high-pitched [cry](/en/post/cry/), typically [of](/en/post/of/) [fear](/en/post/fear/) [or](/en/post/or/) [pain](/en/post/pain/). 2. [To](/en/post/to/) [express](/en/post/express/) [strong](/en/post/strong/) [emotion](/en/post/emotion/) [or](/en/post/or/) excitement [by](/en/post/by/) shouting [or](/en/post/or/) crying [out](/en/post/out/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [loud](/post/loud/), high-pitched [cry](/post/cry/) [of](/post/of/) [fear](/post/fear/), [pain](/post/pain/), [or](/post/or/) [alarm](/post/alarm/). 2. An [intense](/post/intense/) [emotional](/post/emotional/) outburst [or](/post/or/) exclamation. 3. (colloquial) [A](/post/a/) [humorous](/post/humorous/) [or](/post/or/) exaggerated [shout](/post/shout/) [or](/post/or/) [yell](/post/yell/), [often](/post/often/) [for](/post/for/) [attention](/post/attention/) [or](/post/or/) entertainment.
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [utter](/post/utter/) [a](/post/a/) [loud](/post/loud/), high-pitched [cry](/post/cry/), typically [of](/post/of/) [fear](/post/fear/) [or](/post/or/) [pain](/post/pain/). 2. [To](/post/to/) [express](/post/express/) [strong](/post/strong/) [emotion](/post/emotion/) [or](/post/or/) excitement [by](/post/by/) shouting [or](/post/or/) crying [out](/post/out/).
 
 ## Phrases
-- "[Let](/en/post/let/) [out](/en/post/out/) [a](/en/post/a/) [scream](/en/post/scream/)" [means](/en/post/means/) [to](/en/post/to/) [emit](/en/post/emit/) [a](/en/post/a/) [loud](/en/post/loud/) [cry](/en/post/cry/).
-- "[Scream](/en/post/scream/) [in](/en/post/in/) [terror](/en/post/terror/)" describes reacting [with](/en/post/with/) [a](/en/post/a/) [fearful](/en/post/fearful/) [cry](/en/post/cry/).
-- "[Scream](/en/post/scream/) [your](/en/post/your/) lungs [out](/en/post/out/)" implies shouting [or](/en/post/or/) crying [very](/en/post/very/) loudly.
+- "[Let](/post/let/) [out](/post/out/) [a](/post/a/) [scream](/post/scream/)" [means](/post/means/) [to](/post/to/) [emit](/post/emit/) [a](/post/a/) [loud](/post/loud/) [cry](/post/cry/).
+- "[Scream](/post/scream/) [in](/post/in/) [terror](/post/terror/)" describes reacting [with](/post/with/) [a](/post/a/) [fearful](/post/fearful/) [cry](/post/cry/).
+- "[Scream](/post/scream/) [your](/post/your/) lungs [out](/post/out/)" implies shouting [or](/post/or/) crying [very](/post/very/) loudly.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [child](/en/post/child/) screamed [when](/en/post/when/) [they](/en/post/they/) [saw](/en/post/saw/) [the](/en/post/the/) [spider](/en/post/spider/)." 
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) screamed [in](/en/post/in/) [delight](/en/post/delight/) [when](/en/post/when/) [she](/en/post/she/) won [the](/en/post/the/) [race](/en/post/race/)."
-- **Interjection**: "[Oh](/en/post/oh/) [no](/en/post/no/)! [He](/en/post/he/) screamed [when](/en/post/when/) [he](/en/post/he/) tripped [on](/en/post/on/) [the](/en/post/the/) [banana](/en/post/banana/) [peel](/en/post/peel/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [child](/post/child/) screamed [when](/post/when/) [they](/post/they/) [saw](/post/saw/) [the](/post/the/) [spider](/post/spider/)." 
+- **[Verb](/post/verb/)**: "[She](/post/she/) screamed [in](/post/in/) [delight](/post/delight/) [when](/post/when/) [she](/post/she/) won [the](/post/the/) [race](/post/race/)."
+- **Interjection**: "[Oh](/post/oh/) [no](/post/no/)! [He](/post/he/) screamed [when](/post/when/) [he](/post/he/) tripped [on](/post/on/) [the](/post/the/) [banana](/post/banana/) [peel](/post/peel/)."
 
 ## Synonyms
-- [Yell](/en/post/yell/)
-- [Shout](/en/post/shout/)
+- [Yell](/post/yell/)
+- [Shout](/post/shout/)
 - Wail
-- [Sigh](/en/post/sigh/)
-- [Groan](/en/post/groan/) ([for](/en/post/for/) [a](/en/post/a/) [less](/en/post/less/) [intense](/en/post/intense/) [scream](/en/post/scream/))
-- Screech ([for](/en/post/for/) [a](/en/post/a/) high-pitched [scream](/en/post/scream/), [often](/en/post/often/) [from](/en/post/from/) animals)
+- [Sigh](/post/sigh/)
+- [Groan](/post/groan/) ([for](/post/for/) [a](/post/a/) [less](/post/less/) [intense](/post/intense/) [scream](/post/scream/))
+- Screech ([for](/post/for/) [a](/post/a/) high-pitched [scream](/post/scream/), [often](/post/often/) [from](/post/from/) animals)

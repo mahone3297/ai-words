@@ -11,20 +11,20 @@ keywords = ['ai words', 'careful']
 /ˈkɛrfl/
 
 ## 释义
-- **形容词**: 小心的，谨慎的，仔细的。表示做事或行动时的小心态度或注意细节。例如: "[She](/post/she/) was [careful](/post/careful/) [not](/post/not/) [to](/post/to/) [wake](/post/wake/) [the](/post/the/) [baby](/post/baby/)."
-- **副词**: 仔细地，小心翼翼地。修饰动词，表示动作的方式。例如: "[Drive](/post/drive/) carefully [on](/post/on/) icy roads."
+- **形容词**: 小心的，谨慎的，仔细的。表示做事或行动时的小心态度或注意细节。例如: "[She](/zh/post/she/) was [careful](/zh/post/careful/) [not](/zh/post/not/) [to](/zh/post/to/) [wake](/zh/post/wake/) [the](/zh/post/the/) [baby](/zh/post/baby/)."
+- **副词**: 仔细地，小心翼翼地。修饰动词，表示动作的方式。例如: "[Drive](/zh/post/drive/) carefully [on](/zh/post/on/) icy roads."
 
 ## 短语
-- "[Be](/post/be/) [careful](/post/careful/)" 用来警告或提醒某人要小心。
-- "[Careful](/post/careful/) planning" 指的是周密的计划。
+- "[Be](/zh/post/be/) [careful](/zh/post/careful/)" 用来警告或提醒某人要小心。
+- "[Careful](/zh/post/careful/) planning" 指的是周密的计划。
 
 ## 例句
-- 形容词: "[The](/post/the/) [artist](/post/artist/) was [careful](/post/careful/) [with](/post/with/) [each](/post/each/) brushstroke, ensuring [a](/post/a/) [perfect](/post/perfect/) [painting](/post/painting/)."
-- 副词: "[He](/post/he/) lifted [the](/post/the/) fragile [vase](/post/vase/) carefully, [not](/post/not/) wanting [to](/post/to/) [break](/post/break/) [it](/post/it/)."
+- 形容词: "[The](/zh/post/the/) [artist](/zh/post/artist/) was [careful](/zh/post/careful/) [with](/zh/post/with/) [each](/zh/post/each/) brushstroke, ensuring [a](/zh/post/a/) [perfect](/zh/post/perfect/) [painting](/zh/post/painting/)."
+- 副词: "[He](/zh/post/he/) lifted [the](/zh/post/the/) fragile [vase](/zh/post/vase/) carefully, [not](/zh/post/not/) wanting [to](/zh/post/to/) [break](/zh/post/break/) [it](/zh/post/it/)."
 
 ## 同义词
 - cautious
-- [attentive](/post/attentive/)
-- [diligent](/post/diligent/)
+- [attentive](/zh/post/attentive/)
+- [diligent](/zh/post/diligent/)
 - watchful
 - meticulous

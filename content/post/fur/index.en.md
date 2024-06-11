@@ -7,30 +7,30 @@ description = '[fəː] n.软毛；毛皮，裘皮'
 keywords = ['ai words', 'fur']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɜːr/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [thick](/en/post/thick/), [soft](/en/post/soft/), [usually](/en/post/usually/) hairy [coat](/en/post/coat/) [that](/en/post/that/) covers [the](/en/post/the/) [skin](/en/post/skin/) [of](/en/post/of/) [many](/en/post/many/) mammals, [especially](/en/post/especially/) [those](/en/post/those/) [living](/en/post/living/) [in](/en/post/in/) [cold](/en/post/cold/) climates; [also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [such](/en/post/such/) [a](/en/post/a/) [coat](/en/post/coat/) [when](/en/post/when/) [it](/en/post/it/) has been removed [from](/en/post/from/) [the](/en/post/the/) [animal](/en/post/animal/) [and](/en/post/and/) [used](/en/post/used/) [for](/en/post/for/) [clothing](/en/post/clothing/), upholstery, [or](/en/post/or/) [other](/en/post/other/) purposes. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) fox's [fur](/en/post/fur/) was fiery [red](/en/post/red/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [thick](/post/thick/), [soft](/post/soft/), [usually](/post/usually/) hairy [coat](/post/coat/) [that](/post/that/) covers [the](/post/the/) [skin](/post/skin/) [of](/post/of/) [many](/post/many/) mammals, [especially](/post/especially/) [those](/post/those/) [living](/post/living/) [in](/post/in/) [cold](/post/cold/) climates; [also](/post/also/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [such](/post/such/) [a](/post/a/) [coat](/post/coat/) [when](/post/when/) [it](/post/it/) has been removed [from](/post/from/) [the](/post/the/) [animal](/post/animal/) [and](/post/and/) [used](/post/used/) [for](/post/for/) [clothing](/post/clothing/), upholstery, [or](/post/or/) [other](/post/other/) purposes. [For](/post/for/) [example](/post/example/): "[The](/post/the/) fox's [fur](/post/fur/) was fiery [red](/post/red/)."
   
-  - **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [cover](/en/post/cover/) [or](/en/post/or/) [line](/en/post/line/) [something](/en/post/something/) [with](/en/post/with/) [fur](/en/post/fur/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [fur](/en/post/fur/) [her](/en/post/her/) [coat](/en/post/coat/) [with](/en/post/with/) [genuine](/en/post/genuine/) mink [fur](/en/post/fur/)."
+  - **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [cover](/post/cover/) [or](/post/or/) [line](/post/line/) [something](/post/something/) [with](/post/with/) [fur](/post/fur/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [fur](/post/fur/) [her](/post/her/) [coat](/post/coat/) [with](/post/with/) [genuine](/post/genuine/) mink [fur](/post/fur/)."
   
-  - **[Adjective](/en/post/adjective/)**: Made [of](/en/post/of/) [or](/en/post/or/) covered [with](/en/post/with/) [fur](/en/post/fur/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [fur](/en/post/fur/) [coat](/en/post/coat/) is [often](/en/post/often/) seen [as](/en/post/as/) [a](/en/post/a/) [symbol](/en/post/symbol/) [of](/en/post/of/) [luxury](/en/post/luxury/)."
+  - **[Adjective](/post/adjective/)**: Made [of](/post/of/) [or](/post/or/) covered [with](/post/with/) [fur](/post/fur/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [fur](/post/fur/) [coat](/post/coat/) is [often](/post/often/) seen [as](/post/as/) [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) [luxury](/post/luxury/)."
 
 ## Phrases
-- "[Fur](/en/post/fur/) [and](/en/post/and/) [feather](/en/post/feather/)" refers collectively [to](/en/post/to/) animals, [particularly](/en/post/particularly/) [wild](/en/post/wild/) ones.
-- "[Beat](/en/post/beat/) [the](/en/post/the/) [fur](/en/post/fur/) [off](/en/post/off/)" is an informal [phrase](/en/post/phrase/) [meaning](/en/post/meaning/) [to](/en/post/to/) [defeat](/en/post/defeat/) decisively [or](/en/post/or/) overwhelm.
-- "[The](/en/post/the/) cat's [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [bag](/en/post/bag/)" [can](/en/post/can/) [sometimes](/en/post/sometimes/) [be](/en/post/be/) humorously altered [to](/en/post/to/) "[the](/en/post/the/) cat's [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [fur](/en/post/fur/) [coat](/en/post/coat/)", implying [a](/en/post/a/) [secret](/en/post/secret/) has been revealed.
+- "[Fur](/post/fur/) [and](/post/and/) [feather](/post/feather/)" refers collectively [to](/post/to/) animals, [particularly](/post/particularly/) [wild](/post/wild/) ones.
+- "[Beat](/post/beat/) [the](/post/the/) [fur](/post/fur/) [off](/post/off/)" is an informal [phrase](/post/phrase/) [meaning](/post/meaning/) [to](/post/to/) [defeat](/post/defeat/) decisively [or](/post/or/) overwhelm.
+- "[The](/post/the/) cat's [out](/post/out/) [of](/post/of/) [the](/post/the/) [bag](/post/bag/)" [can](/post/can/) [sometimes](/post/sometimes/) [be](/post/be/) humorously altered [to](/post/to/) "[the](/post/the/) cat's [out](/post/out/) [of](/post/of/) [the](/post/the/) [fur](/post/fur/) [coat](/post/coat/)", implying [a](/post/a/) [secret](/post/secret/) has been revealed.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) hunter sold [the](/en/post/the/) bear's [fur](/en/post/fur/) [to](/en/post/to/) [a](/en/post/a/) [local](/en/post/local/) trader."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) had [her](/en/post/her/) favorite [jacket](/en/post/jacket/) furred [with](/en/post/with/) [rabbit](/en/post/rabbit/) [fur](/en/post/fur/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) wore [a](/en/post/a/) [fur](/en/post/fur/) stole [over](/en/post/over/) [her](/en/post/her/) [evening](/en/post/evening/) [gown](/en/post/gown/) [during](/en/post/during/) [the](/en/post/the/) [winter](/en/post/winter/) [ball](/en/post/ball/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) hunter sold [the](/post/the/) bear's [fur](/post/fur/) [to](/post/to/) [a](/post/a/) [local](/post/local/) trader."
+- **[Verb](/post/verb/)**: "[She](/post/she/) had [her](/post/her/) favorite [jacket](/post/jacket/) furred [with](/post/with/) [rabbit](/post/rabbit/) [fur](/post/fur/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) wore [a](/post/a/) [fur](/post/fur/) stole [over](/post/over/) [her](/post/her/) [evening](/post/evening/) [gown](/post/gown/) [during](/post/during/) [the](/post/the/) [winter](/post/winter/) [ball](/post/ball/)."
 
 ## Synonyms
 - Pelage
 - Pelt
-- Fleece ([when](/en/post/when/) referring [to](/en/post/to/) [certain](/en/post/certain/) animals [like](/en/post/like/) [sheep](/en/post/sheep/))
-- [Coat](/en/post/coat/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [animal](/en/post/animal/) [fur](/en/post/fur/))
-- [Velvet](/en/post/velvet/) ([when](/en/post/when/) describing [particularly](/en/post/particularly/) [soft](/en/post/soft/) [fur](/en/post/fur/))
-- Plush (referring [to](/en/post/to/) [the](/en/post/the/) texture [of](/en/post/of/) [fur](/en/post/fur/))
+- Fleece ([when](/post/when/) referring [to](/post/to/) [certain](/post/certain/) animals [like](/post/like/) [sheep](/post/sheep/))
+- [Coat](/post/coat/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [animal](/post/animal/) [fur](/post/fur/))
+- [Velvet](/post/velvet/) ([when](/post/when/) describing [particularly](/post/particularly/) [soft](/post/soft/) [fur](/post/fur/))
+- Plush (referring [to](/post/to/) [the](/post/the/) texture [of](/post/of/) [fur](/post/fur/))

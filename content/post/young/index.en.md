@@ -7,29 +7,29 @@ description = '[jʌŋ] a.年轻的 n.青年们'
 keywords = ['ai words', 'young']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjʌŋ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Designating [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [as](/en/post/as/) [not](/en/post/not/) [old](/en/post/old/) [or](/en/post/or/) having qualities typically associated [with](/en/post/with/) [a](/en/post/a/) younger [age](/en/post/age/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [young](/en/post/young/) children were excited [to](/en/post/to/) [start](/en/post/start/) [their](/en/post/their/) [first](/en/post/first/) [day](/en/post/day/) [at](/en/post/at/) [school](/en/post/school/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [not](/en/post/not/) [yet](/en/post/yet/) fully grown [or](/en/post/or/) [mature](/en/post/mature/), typically [one](/en/post/one/) considered [to](/en/post/to/) [be](/en/post/be/) [below](/en/post/below/) [the](/en/post/the/) [age](/en/post/age/) [of](/en/post/of/) adulthood. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [young](/en/post/young/) [adult](/en/post/adult/) decided [to](/en/post/to/) [pursue](/en/post/pursue/) higher [education](/en/post/education/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [youthful](/en/post/youthful/) [manner](/en/post/manner/); energetically. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) danced [young](/en/post/young/) [and](/en/post/and/) [lively](/en/post/lively/) [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/)."
+- **[Adjective](/post/adjective/)**: Designating [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [as](/post/as/) [not](/post/not/) [old](/post/old/) [or](/post/or/) having qualities typically associated [with](/post/with/) [a](/post/a/) younger [age](/post/age/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [young](/post/young/) children were excited [to](/post/to/) [start](/post/start/) [their](/post/their/) [first](/post/first/) [day](/post/day/) [at](/post/at/) [school](/post/school/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [not](/post/not/) [yet](/post/yet/) fully grown [or](/post/or/) [mature](/post/mature/), typically [one](/post/one/) considered [to](/post/to/) [be](/post/be/) [below](/post/below/) [the](/post/the/) [age](/post/age/) [of](/post/of/) adulthood. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [young](/post/young/) [adult](/post/adult/) decided [to](/post/to/) [pursue](/post/pursue/) higher [education](/post/education/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [youthful](/post/youthful/) [manner](/post/manner/); energetically. [For](/post/for/) [example](/post/example/): "[She](/post/she/) danced [young](/post/young/) [and](/post/and/) [lively](/post/lively/) [at](/post/at/) [the](/post/the/) [party](/post/party/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [young](/en/post/young/) [at](/en/post/at/) [heart](/en/post/heart/)" suggests maintaining [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [enthusiasm](/en/post/enthusiasm/) [and](/en/post/and/) playfulness.
-- "[The](/en/post/the/) [young](/en/post/young/) [generation](/en/post/generation/)" refers [to](/en/post/to/) [the](/en/post/the/) newer [or](/en/post/or/) up-and-coming [people](/en/post/people/).
-- "[Act](/en/post/act/) [your](/en/post/your/) [age](/en/post/age/) ([or](/en/post/or/) don't [act](/en/post/act/) [your](/en/post/your/) [age](/en/post/age/))" is [a](/en/post/a/) [phrase](/en/post/phrase/) advising [someone](/en/post/someone/) [to](/en/post/to/) [behave](/en/post/behave/) appropriately given [their](/en/post/their/) [age](/en/post/age/).
+- "[Be](/post/be/) [young](/post/young/) [at](/post/at/) [heart](/post/heart/)" suggests maintaining [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [enthusiasm](/post/enthusiasm/) [and](/post/and/) playfulness.
+- "[The](/post/the/) [young](/post/young/) [generation](/post/generation/)" refers [to](/post/to/) [the](/post/the/) newer [or](/post/or/) up-and-coming [people](/post/people/).
+- "[Act](/post/act/) [your](/post/your/) [age](/post/age/) ([or](/post/or/) don't [act](/post/act/) [your](/post/your/) [age](/post/age/))" is [a](/post/a/) [phrase](/post/phrase/) advising [someone](/post/someone/) [to](/post/to/) [behave](/post/behave/) appropriately given [their](/post/their/) [age](/post/age/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [young](/en/post/young/) [couple](/en/post/couple/) was filled [with](/en/post/with/) [hope](/en/post/hope/) [for](/en/post/for/) [their](/en/post/their/) [future](/en/post/future/) [together](/en/post/together/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [young](/en/post/young/) volunteers spent [their](/en/post/their/) weekends helping [out](/en/post/out/) [at](/en/post/at/) [the](/en/post/the/) [local](/en/post/local/) [shelter](/en/post/shelter/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) spoke [with](/en/post/with/) [a](/en/post/a/) [young](/en/post/young/) [voice](/en/post/voice/), [full](/en/post/full/) [of](/en/post/of/) [curiosity](/en/post/curiosity/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [young](/post/young/) [couple](/post/couple/) was filled [with](/post/with/) [hope](/post/hope/) [for](/post/for/) [their](/post/their/) [future](/post/future/) [together](/post/together/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [young](/post/young/) volunteers spent [their](/post/their/) weekends helping [out](/post/out/) [at](/post/at/) [the](/post/the/) [local](/post/local/) [shelter](/post/shelter/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) spoke [with](/post/with/) [a](/post/a/) [young](/post/young/) [voice](/post/voice/), [full](/post/full/) [of](/post/of/) [curiosity](/post/curiosity/)."
 
 ## Synonyms
 - Teenage
 - Adolescent
 - Juvenile
 - Fresh-faced
-- [Youthful](/en/post/youthful/)
+- [Youthful](/post/youthful/)
 - Energetic
 - Sprightly

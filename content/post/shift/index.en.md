@@ -7,41 +7,41 @@ description = '[∫ift] vt.替换，转移 n.转换'
 keywords = ['ai words', 'shift']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ʃɪft/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [shift](/en/post/shift/)** [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/):
-  - [A](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [position](/en/post/position/) [or](/en/post/or/) [direction](/en/post/direction/): "[The](/en/post/the/) [wind](/en/post/wind/) shifted directions [during](/en/post/during/) [the](/en/post/the/) [storm](/en/post/storm/)."
-  - [A](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [work](/en/post/work/) [schedule](/en/post/schedule/) [or](/en/post/or/) [duty](/en/post/duty/): "She's taking [a](/en/post/a/) [night](/en/post/night/) [shift](/en/post/shift/) [at](/en/post/at/) [the](/en/post/the/) [hospital](/en/post/hospital/)."
-  - [A](/en/post/a/) [political](/en/post/political/) [or](/en/post/or/) [social](/en/post/social/) [change](/en/post/change/): "[The](/en/post/the/) [political](/en/post/political/) landscape has undergone [a](/en/post/a/) [significant](/en/post/significant/) [shift](/en/post/shift/)."
-  - [A](/en/post/a/) guitar playing [technique](/en/post/technique/): "[He](/en/post/he/) executed [a](/en/post/a/) [smooth](/en/post/smooth/) chord [shift](/en/post/shift/) [on](/en/post/on/) [the](/en/post/the/) [piano](/en/post/piano/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [shift](/post/shift/)** [can](/post/can/) [refer](/post/refer/) [to](/post/to/):
+  - [A](/post/a/) [change](/post/change/) [in](/post/in/) [position](/post/position/) [or](/post/or/) [direction](/post/direction/): "[The](/post/the/) [wind](/post/wind/) shifted directions [during](/post/during/) [the](/post/the/) [storm](/post/storm/)."
+  - [A](/post/a/) [change](/post/change/) [in](/post/in/) [work](/post/work/) [schedule](/post/schedule/) [or](/post/or/) [duty](/post/duty/): "She's taking [a](/post/a/) [night](/post/night/) [shift](/post/shift/) [at](/post/at/) [the](/post/the/) [hospital](/post/hospital/)."
+  - [A](/post/a/) [political](/post/political/) [or](/post/or/) [social](/post/social/) [change](/post/change/): "[The](/post/the/) [political](/post/political/) landscape has undergone [a](/post/a/) [significant](/post/significant/) [shift](/post/shift/)."
+  - [A](/post/a/) guitar playing [technique](/post/technique/): "[He](/post/he/) executed [a](/post/a/) [smooth](/post/smooth/) chord [shift](/post/shift/) [on](/post/on/) [the](/post/the/) [piano](/post/piano/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [change](/en/post/change/) [from](/en/post/from/) [one](/en/post/one/) [thing](/en/post/thing/) [to](/en/post/to/) [another](/en/post/another/): "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [shift](/en/post/shift/) [its](/en/post/its/) [focus](/en/post/focus/) [to](/en/post/to/) e-commerce."
-- [To](/en/post/to/) [transfer](/en/post/transfer/) [responsibility](/en/post/responsibility/) [or](/en/post/or/) [control](/en/post/control/): "[The](/en/post/the/) [shift](/en/post/shift/) manager handed [over](/en/post/over/) [the](/en/post/the/) duties [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) [employee](/en/post/employee/)."
-- [To](/en/post/to/) [alter](/en/post/alter/) one's [behavior](/en/post/behavior/) [or](/en/post/or/) [attitude](/en/post/attitude/): "[She](/en/post/she/) shifted [her](/en/post/her/) [approach](/en/post/approach/) [after](/en/post/after/) receiving [feedback](/en/post/feedback/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [change](/post/change/) [from](/post/from/) [one](/post/one/) [thing](/post/thing/) [to](/post/to/) [another](/post/another/): "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [shift](/post/shift/) [its](/post/its/) [focus](/post/focus/) [to](/post/to/) e-commerce."
+- [To](/post/to/) [transfer](/post/transfer/) [responsibility](/post/responsibility/) [or](/post/or/) [control](/post/control/): "[The](/post/the/) [shift](/post/shift/) manager handed [over](/post/over/) [the](/post/the/) duties [to](/post/to/) [the](/post/the/) [new](/post/new/) [employee](/post/employee/)."
+- [To](/post/to/) [alter](/post/alter/) one's [behavior](/post/behavior/) [or](/post/or/) [attitude](/post/attitude/): "[She](/post/she/) shifted [her](/post/her/) [approach](/post/approach/) [after](/post/after/) receiving [feedback](/post/feedback/)."
 
-### [Adjective](/en/post/adjective/)
-- [Flexible](/en/post/flexible/) [or](/en/post/or/) adaptable: "[The](/en/post/the/) [new](/en/post/new/) [system](/en/post/system/) allows [for](/en/post/for/) [easy](/en/post/easy/) shifts [between](/en/post/between/) [different](/en/post/different/) settings."
+### [Adjective](/post/adjective/)
+- [Flexible](/post/flexible/) [or](/post/or/) adaptable: "[The](/post/the/) [new](/post/new/) [system](/post/system/) allows [for](/post/for/) [easy](/post/easy/) shifts [between](/post/between/) [different](/post/different/) settings."
 
-### [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) shifting [manner](/en/post/manner/): "[The](/en/post/the/) clouds drifted [across](/en/post/across/) [the](/en/post/the/) [sky](/en/post/sky/), casting shifting shadows [on](/en/post/on/) [the](/en/post/the/) [ground](/en/post/ground/)."
+### [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) shifting [manner](/post/manner/): "[The](/post/the/) clouds drifted [across](/post/across/) [the](/post/the/) [sky](/post/sky/), casting shifting shadows [on](/post/on/) [the](/post/the/) [ground](/post/ground/)."
 
 ## Phrases
-- "[Shift](/en/post/shift/) gears" [means](/en/post/means/) [to](/en/post/to/) [change](/en/post/change/) one's mindset [or](/en/post/or/) [approach](/en/post/approach/).
-- "[Shift](/en/post/shift/) workload" implies redistributing tasks [among](/en/post/among/) [team](/en/post/team/) members.
-- "[Shift](/en/post/shift/) [responsibility](/en/post/responsibility/)" indicates passing tasks [to](/en/post/to/) [someone](/en/post/someone/) [else](/en/post/else/).
+- "[Shift](/post/shift/) gears" [means](/post/means/) [to](/post/to/) [change](/post/change/) one's mindset [or](/post/or/) [approach](/post/approach/).
+- "[Shift](/post/shift/) workload" implies redistributing tasks [among](/post/among/) [team](/post/team/) members.
+- "[Shift](/post/shift/) [responsibility](/post/responsibility/)" indicates passing tasks [to](/post/to/) [someone](/post/someone/) [else](/post/else/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [worker](/en/post/worker/) was relieved [from](/en/post/from/) [his](/en/post/his/) [day](/en/post/day/) [shift](/en/post/shift/) [and](/en/post/and/) headed [home](/en/post/home/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [exam](/en/post/exam/), [he](/en/post/he/) had [to](/en/post/to/) [shift](/en/post/shift/) [his](/en/post/his/) [study](/en/post/study/) habits [to](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) [the](/en/post/the/) [final](/en/post/final/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) adaptable [shift](/en/post/shift/) [schedule](/en/post/schedule/) ensures [everyone](/en/post/everyone/) gets [enough](/en/post/enough/) [rest](/en/post/rest/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [worker](/post/worker/) was relieved [from](/post/from/) [his](/post/his/) [day](/post/day/) [shift](/post/shift/) [and](/post/and/) headed [home](/post/home/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [exam](/post/exam/), [he](/post/he/) had [to](/post/to/) [shift](/post/shift/) [his](/post/his/) [study](/post/study/) habits [to](/post/to/) [prepare](/post/prepare/) [for](/post/for/) [the](/post/the/) [final](/post/final/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) adaptable [shift](/post/shift/) [schedule](/post/schedule/) ensures [everyone](/post/everyone/) gets [enough](/post/enough/) [rest](/post/rest/)."
 
 ## Synonyms
-- [Change](/en/post/change/)
+- [Change](/post/change/)
 - Transition
-- Shiftiness (informal, [primarily](/en/post/primarily/) referring [to](/en/post/to/) [a](/en/post/a/) [tendency](/en/post/tendency/) [to](/en/post/to/) [change](/en/post/change/))
+- Shiftiness (informal, [primarily](/post/primarily/) referring [to](/post/to/) [a](/post/a/) [tendency](/post/tendency/) [to](/post/to/) [change](/post/change/))
 - Reconfiguration
 - Alteration

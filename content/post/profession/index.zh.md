@@ -12,20 +12,20 @@ keywords = ['ai words', 'profession']
 
 ## 释义
 - **名词**:
-   - 职业；行业： "[He](/post/he/) pursued [a](/post/a/) [career](/post/career/) [in](/post/in/) [the](/post/the/) [medical](/post/medical/) [profession](/post/profession/)."
-   - (尤指需要专门知识和训练的)专业： "[She](/post/she/) has [a](/post/a/) [degree](/post/degree/) [in](/post/in/) [computer](/post/computer/) [science](/post/science/) [and](/post/and/) works [in](/post/in/) [the](/post/the/) [IT](/post/it/) [profession](/post/profession/)."
+   - 职业；行业： "[He](/zh/post/he/) pursued [a](/zh/post/a/) [career](/zh/post/career/) [in](/zh/post/in/) [the](/zh/post/the/) [medical](/zh/post/medical/) [profession](/zh/post/profession/)."
+   - (尤指需要专门知识和训练的)专业： "[She](/zh/post/she/) has [a](/zh/post/a/) [degree](/zh/post/degree/) [in](/zh/post/in/) [computer](/zh/post/computer/) [science](/zh/post/science/) [and](/zh/post/and/) works [in](/zh/post/in/) [the](/zh/post/the/) [IT](/zh/post/it/) [profession](/zh/post/profession/)."
 
 ## 短语
-- "[Profession](/post/profession/) [of](/post/of/) [faith](/post/faith/)" 意为信仰的宣示或声明。
-- "[In](/post/in/) [the](/post/the/) [same](/post/same/) [profession](/post/profession/)" 指在相同的行业或职业中工作。
+- "[Profession](/zh/post/profession/) [of](/zh/post/of/) [faith](/zh/post/faith/)" 意为信仰的宣示或声明。
+- "[In](/zh/post/in/) [the](/zh/post/the/) [same](/zh/post/same/) [profession](/zh/post/profession/)" 指在相同的行业或职业中工作。
 
 ## 例句
-- "[His](/post/his/) [father](/post/father/) [and](/post/and/) [he](/post/he/) [both](/post/both/) followed [the](/post/the/) [legal](/post/legal/) [profession](/post/profession/)."
-- "[She](/post/she/) is [proud](/post/proud/) [to](/post/to/) [be](/post/be/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [teaching](/post/teaching/) [profession](/post/profession/)."
+- "[His](/zh/post/his/) [father](/zh/post/father/) [and](/zh/post/and/) [he](/zh/post/he/) [both](/zh/post/both/) followed [the](/zh/post/the/) [legal](/zh/post/legal/) [profession](/zh/post/profession/)."
+- "[She](/zh/post/she/) is [proud](/zh/post/proud/) [to](/zh/post/to/) [be](/zh/post/be/) [part](/zh/post/part/) [of](/zh/post/of/) [the](/zh/post/the/) [teaching](/zh/post/teaching/) [profession](/zh/post/profession/)."
 
 ## 同义词
-- [Occupation](/post/occupation/)
+- [Occupation](/zh/post/occupation/)
 - Vocation
-- [Career](/post/career/)
-- [Field](/post/field/)
-- [Industry](/post/industry/)
+- [Career](/zh/post/career/)
+- [Field](/zh/post/field/)
+- [Industry](/zh/post/industry/)

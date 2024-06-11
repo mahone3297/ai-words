@@ -7,43 +7,43 @@ description = '[vəut] n.选举，投票，表决'
 keywords = ['ai words', 'vote']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vəʊt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) countable [noun](/en/post/noun/)**: [A](/en/post/a/) [formal](/en/post/formal/) [expression](/en/post/expression/) [of](/en/post/of/) [preference](/en/post/preference/) [or](/en/post/or/) [decision](/en/post/decision/), typically [in](/en/post/in/) [a](/en/post/a/) [political](/en/post/political/) [or](/en/post/or/) organizational context. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) citizens [cast](/en/post/cast/) [their](/en/post/their/) votes [in](/en/post/in/) [the](/en/post/the/) [election](/en/post/election/)."
-- **An uncountable [noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) expressing one's [preference](/en/post/preference/) [by](/en/post/by/) choosing [between](/en/post/between/) options. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) students were asked [to](/en/post/to/) [vote](/en/post/vote/) [on](/en/post/on/) [the](/en/post/the/) [best](/en/post/best/) [activity](/en/post/activity/) [for](/en/post/for/) [the](/en/post/the/) [field](/en/post/field/) [trip](/en/post/trip/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) countable [noun](/post/noun/)**: [A](/post/a/) [formal](/post/formal/) [expression](/post/expression/) [of](/post/of/) [preference](/post/preference/) [or](/post/or/) [decision](/post/decision/), typically [in](/post/in/) [a](/post/a/) [political](/post/political/) [or](/post/or/) organizational context. [For](/post/for/) [example](/post/example/): "[The](/post/the/) citizens [cast](/post/cast/) [their](/post/their/) votes [in](/post/in/) [the](/post/the/) [election](/post/election/)."
+- **An uncountable [noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) expressing one's [preference](/post/preference/) [by](/post/by/) choosing [between](/post/between/) options. [For](/post/for/) [example](/post/example/): "[The](/post/the/) students were asked [to](/post/to/) [vote](/post/vote/) [on](/post/on/) [the](/post/the/) [best](/post/best/) [activity](/post/activity/) [for](/post/for/) [the](/post/the/) [field](/post/field/) [trip](/post/trip/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [express](/en/post/express/) one's [choice](/en/post/choice/) [or](/en/post/or/) [approval](/en/post/approval/) [in](/en/post/in/) [a](/en/post/a/) decision-making [process](/en/post/process/). [For](/en/post/for/) [example](/en/post/example/): "[Everyone](/en/post/everyone/) [in](/en/post/in/) [the](/en/post/the/) [meeting](/en/post/meeting/) was invited [to](/en/post/to/) [vote](/en/post/vote/) [on](/en/post/on/) [the](/en/post/the/) [new](/en/post/new/) [proposal](/en/post/proposal/)."
-- [To](/en/post/to/) [approve](/en/post/approve/) [or](/en/post/or/) [agree](/en/post/agree/) [with](/en/post/with/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [proposal](/en/post/proposal/) was voted [through](/en/post/through/) [by](/en/post/by/) [a](/en/post/a/) [large](/en/post/large/) [margin](/en/post/margin/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [express](/post/express/) one's [choice](/post/choice/) [or](/post/or/) [approval](/post/approval/) [in](/post/in/) [a](/post/a/) decision-making [process](/post/process/). [For](/post/for/) [example](/post/example/): "[Everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) [meeting](/post/meeting/) was invited [to](/post/to/) [vote](/post/vote/) [on](/post/on/) [the](/post/the/) [new](/post/new/) [proposal](/post/proposal/)."
+- [To](/post/to/) [approve](/post/approve/) [or](/post/or/) [agree](/post/agree/) [with](/post/with/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [proposal](/post/proposal/) was voted [through](/post/through/) [by](/post/by/) [a](/post/a/) [large](/post/large/) [margin](/post/margin/)."
 
 ## Phrases
-- "[Cast](/en/post/cast/) [a](/en/post/a/) [vote](/en/post/vote/)" [means](/en/post/means/) [to](/en/post/to/) [exercise](/en/post/exercise/) [your](/en/post/your/) [right](/en/post/right/) [to](/en/post/to/) [choose](/en/post/choose/) [or](/en/post/or/) [decide](/en/post/decide/) [by](/en/post/by/) voting.
-- "[Vote](/en/post/vote/) [for](/en/post/for/)/[against](/en/post/against/)" is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [support](/en/post/support/) [or](/en/post/or/) opposition [in](/en/post/in/) an [election](/en/post/election/) [or](/en/post/or/) [decision](/en/post/decision/).
-- "Unanimous [vote](/en/post/vote/)" signifies [that](/en/post/that/) [all](/en/post/all/) members [agree](/en/post/agree/) [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [decision](/en/post/decision/).
+- "[Cast](/post/cast/) [a](/post/a/) [vote](/post/vote/)" [means](/post/means/) [to](/post/to/) [exercise](/post/exercise/) [your](/post/your/) [right](/post/right/) [to](/post/to/) [choose](/post/choose/) [or](/post/or/) [decide](/post/decide/) [by](/post/by/) voting.
+- "[Vote](/post/vote/) [for](/post/for/)/[against](/post/against/)" is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [support](/post/support/) [or](/post/or/) opposition [in](/post/in/) an [election](/post/election/) [or](/post/or/) [decision](/post/decision/).
+- "Unanimous [vote](/post/vote/)" signifies [that](/post/that/) [all](/post/all/) members [agree](/post/agree/) [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [decision](/post/decision/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [debate](/en/post/debate/), [the](/en/post/the/) senator waited [for](/en/post/for/) [the](/en/post/the/) [final](/en/post/final/) [vote](/en/post/vote/) [on](/en/post/on/) [the](/en/post/the/) [bill](/en/post/bill/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) shareholders [will](/en/post/will/) [vote](/en/post/vote/) [on](/en/post/on/) [whether](/en/post/whether/) [to](/en/post/to/) [approve](/en/post/approve/) [the](/en/post/the/) merger."
-- **Phrasal**: "[The](/en/post/the/) [board](/en/post/board/) [of](/en/post/of/) directors made [a](/en/post/a/) unanimous [vote](/en/post/vote/) [to](/en/post/to/) [approve](/en/post/approve/) [the](/en/post/the/) [new](/en/post/new/) CEO."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [debate](/post/debate/), [the](/post/the/) senator waited [for](/post/for/) [the](/post/the/) [final](/post/final/) [vote](/post/vote/) [on](/post/on/) [the](/post/the/) [bill](/post/bill/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) shareholders [will](/post/will/) [vote](/post/vote/) [on](/post/on/) [whether](/post/whether/) [to](/post/to/) [approve](/post/approve/) [the](/post/the/) merger."
+- **Phrasal**: "[The](/post/the/) [board](/post/board/) [of](/post/of/) directors made [a](/post/a/) unanimous [vote](/post/vote/) [to](/post/to/) [approve](/post/approve/) [the](/post/the/) [new](/post/new/) CEO."
 
 ## Synonyms
 - Ballot
-- [Expression](/en/post/expression/) [of](/en/post/of/) [preference](/en/post/preference/)
-- [Decision](/en/post/decision/)
-- [Choice](/en/post/choice/)
-- [Approval](/en/post/approval/)
-- [Support](/en/post/support/)
-- [Consent](/en/post/consent/)
-- [Selection](/en/post/selection/)
+- [Expression](/post/expression/) [of](/post/of/) [preference](/post/preference/)
+- [Decision](/post/decision/)
+- [Choice](/post/choice/)
+- [Approval](/post/approval/)
+- [Support](/post/support/)
+- [Consent](/post/consent/)
+- [Selection](/post/selection/)
 -表决权
 - 投票权
 
 ## Antonyms
-- [Oppose](/en/post/oppose/)
-- [Reject](/en/post/reject/)
-- [Deny](/en/post/deny/)
+- [Oppose](/post/oppose/)
+- [Reject](/post/reject/)
+- [Deny](/post/deny/)
 - Abstain
 - Refrain

@@ -7,34 +7,34 @@ description = '[riˈfjuːzəl] n.拒绝'
 keywords = ['ai words', 'refusal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈfjuːzəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [refusal](/en/post/refusal/) is [when](/en/post/when/) [someone](/en/post/someone/) rejects [or](/en/post/or/) declines [something](/en/post/something/), [often](/en/post/often/) verbally [or](/en/post/or/) [in](/en/post/in/) [writing](/en/post/writing/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [refusal](/en/post/refusal/) [of](/en/post/of/) an [offer](/en/post/offer/), [request](/en/post/request/), [or](/en/post/or/) [invitation](/en/post/invitation/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [refusal](/en/post/refusal/) [to](/en/post/to/) [attend](/en/post/attend/) [the](/en/post/the/) [event](/en/post/event/) was [unexpected](/en/post/unexpected/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [refuse](/en/post/refuse/) [or](/en/post/or/) decline [something](/en/post/something/), typically [with](/en/post/with/) [a](/en/post/a/) [negative](/en/post/negative/) [response](/en/post/response/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) refused [to](/en/post/to/) [accept](/en/post/accept/) [the](/en/post/the/) [job](/en/post/job/) [offer](/en/post/offer/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [refusal](/post/refusal/) is [when](/post/when/) [someone](/post/someone/) rejects [or](/post/or/) declines [something](/post/something/), [often](/post/often/) verbally [or](/post/or/) [in](/post/in/) [writing](/post/writing/). [It](/post/it/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [refusal](/post/refusal/) [of](/post/of/) an [offer](/post/offer/), [request](/post/request/), [or](/post/or/) [invitation](/post/invitation/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [refusal](/post/refusal/) [to](/post/to/) [attend](/post/attend/) [the](/post/the/) [event](/post/event/) was [unexpected](/post/unexpected/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [refuse](/post/refuse/) [or](/post/or/) decline [something](/post/something/), typically [with](/post/with/) [a](/post/a/) [negative](/post/negative/) [response](/post/response/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) refused [to](/post/to/) [accept](/post/accept/) [the](/post/the/) [job](/post/job/) [offer](/post/offer/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [refusal](/en/post/refusal/)" [means](/en/post/means/) [to](/en/post/to/) formally [reject](/en/post/reject/) [something](/en/post/something/).
-- "[Refusal](/en/post/refusal/) [to](/en/post/to/) [cooperate](/en/post/cooperate/)" indicates unwillingness [to](/en/post/to/) [participate](/en/post/participate/) [or](/en/post/or/) comply.
-- "[No](/en/post/no/) [refusal](/en/post/refusal/) [policy](/en/post/policy/)" refers [to](/en/post/to/) [a](/en/post/a/) [rule](/en/post/rule/) [that](/en/post/that/) does [not](/en/post/not/) [allow](/en/post/allow/) [for](/en/post/for/) [turning](/en/post/turning/) [down](/en/post/down/) [a](/en/post/a/) [request](/en/post/request/) [or](/en/post/or/) [offer](/en/post/offer/).
+- "[Make](/post/make/) [a](/post/a/) [refusal](/post/refusal/)" [means](/post/means/) [to](/post/to/) formally [reject](/post/reject/) [something](/post/something/).
+- "[Refusal](/post/refusal/) [to](/post/to/) [cooperate](/post/cooperate/)" indicates unwillingness [to](/post/to/) [participate](/post/participate/) [or](/post/or/) comply.
+- "[No](/post/no/) [refusal](/post/refusal/) [policy](/post/policy/)" refers [to](/post/to/) [a](/post/a/) [rule](/post/rule/) [that](/post/that/) does [not](/post/not/) [allow](/post/allow/) [for](/post/for/) [turning](/post/turning/) [down](/post/down/) [a](/post/a/) [request](/post/request/) [or](/post/or/) [offer](/post/offer/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [refusal](/en/post/refusal/) [to](/en/post/to/) [compromise](/en/post/compromise/) [on](/en/post/on/) [the](/en/post/the/) [matter](/en/post/matter/) led [to](/en/post/to/) [conflict](/en/post/conflict/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) politely refused [their](/en/post/their/) [invitation](/en/post/invitation/) [to](/en/post/to/) [dinner](/en/post/dinner/)."
-- **Negation**: "[He](/en/post/he/) didn't [refuse](/en/post/refuse/) [the](/en/post/the/) [suggestion](/en/post/suggestion/) outright; [instead](/en/post/instead/), [he](/en/post/he/) hesitated."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [refusal](/post/refusal/) [to](/post/to/) [compromise](/post/compromise/) [on](/post/on/) [the](/post/the/) [matter](/post/matter/) led [to](/post/to/) [conflict](/post/conflict/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) politely refused [their](/post/their/) [invitation](/post/invitation/) [to](/post/to/) [dinner](/post/dinner/)."
+- **Negation**: "[He](/post/he/) didn't [refuse](/post/refuse/) [the](/post/the/) [suggestion](/post/suggestion/) outright; [instead](/post/instead/), [he](/post/he/) hesitated."
 
 ## Synonyms
 - Rejection
 - Denial
 - Decline
-- [Refusal](/en/post/refusal/) [to](/en/post/to/) [accept](/en/post/accept/)
-- [Refusal](/en/post/refusal/) [to](/en/post/to/) comply
-- [Turn](/en/post/turn/) [down](/en/post/down/)
+- [Refusal](/post/refusal/) [to](/post/to/) [accept](/post/accept/)
+- [Refusal](/post/refusal/) [to](/post/to/) comply
+- [Turn](/post/turn/) [down](/post/down/)
 
 ## Antonyms
-- [Acceptance](/en/post/acceptance/)
-- [Agreement](/en/post/agreement/)
+- [Acceptance](/post/acceptance/)
+- [Agreement](/post/agreement/)
 - Compliance
 - Endorsement
 - Assent

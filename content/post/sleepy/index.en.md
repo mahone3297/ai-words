@@ -7,27 +7,27 @@ description = '[ˈsliːpi] a.想睡的；寂静的'
 keywords = ['ai words', 'sleepy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sliːpi/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [a](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [to](/en/post/to/) [sleep](/en/post/sleep/) [or](/en/post/or/) [feeling](/en/post/feeling/) drowsy. [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [she](/en/post/she/) felt [very](/en/post/very/) [sleepy](/en/post/sleepy/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [asleep](/en/post/asleep/) [or](/en/post/or/) drowsy. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) fell [asleep](/en/post/asleep/) [during](/en/post/during/) [the](/en/post/the/) [movie](/en/post/movie/), [feeling](/en/post/feeling/) [extremely](/en/post/extremely/) [sleepy](/en/post/sleepy/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [someone](/en/post/someone/) [feel](/en/post/feel/) [sleepy](/en/post/sleepy/); [to](/en/post/to/) induce sleepiness. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [warm](/en/post/warm/) [milk](/en/post/milk/) made [her](/en/post/her/) [feel](/en/post/feel/) [really](/en/post/really/) [sleepy](/en/post/sleepy/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [a](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [to](/post/to/) [sleep](/post/sleep/) [or](/post/or/) [feeling](/post/feeling/) drowsy. [For](/post/for/) [example](/post/example/): "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [she](/post/she/) felt [very](/post/very/) [sleepy](/post/sleepy/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [asleep](/post/asleep/) [or](/post/or/) drowsy. [For](/post/for/) [example](/post/example/): "[He](/post/he/) fell [asleep](/post/asleep/) [during](/post/during/) [the](/post/the/) [movie](/post/movie/), [feeling](/post/feeling/) [extremely](/post/extremely/) [sleepy](/post/sleepy/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [someone](/post/someone/) [feel](/post/feel/) [sleepy](/post/sleepy/); [to](/post/to/) induce sleepiness. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [warm](/post/warm/) [milk](/post/milk/) made [her](/post/her/) [feel](/post/feel/) [really](/post/really/) [sleepy](/post/sleepy/)."
 
 ## Phrases
-- "[Feeling](/en/post/feeling/) [sleepy](/en/post/sleepy/)" describes [the](/en/post/the/) sensation [of](/en/post/of/) tiredness.
-- "[A](/en/post/a/) [sleepy](/en/post/sleepy/) [afternoon](/en/post/afternoon/)" refers [to](/en/post/to/) [a](/en/post/a/) sluggish [time](/en/post/time/) [of](/en/post/of/) [day](/en/post/day/).
-- "[Stay](/en/post/stay/) [awake](/en/post/awake/), don't [let](/en/post/let/) sleepiness [overcome](/en/post/overcome/) [you](/en/post/you/)" is [a](/en/post/a/) [common](/en/post/common/) [advice](/en/post/advice/).
+- "[Feeling](/post/feeling/) [sleepy](/post/sleepy/)" describes [the](/post/the/) sensation [of](/post/of/) tiredness.
+- "[A](/post/a/) [sleepy](/post/sleepy/) [afternoon](/post/afternoon/)" refers [to](/post/to/) [a](/post/a/) sluggish [time](/post/time/) [of](/post/of/) [day](/post/day/).
+- "[Stay](/post/stay/) [awake](/post/awake/), don't [let](/post/let/) sleepiness [overcome](/post/overcome/) [you](/post/you/)" is [a](/post/a/) [common](/post/common/) [advice](/post/advice/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) yawned, looking [quite](/en/post/quite/) [sleepy](/en/post/sleepy/) [after](/en/post/after/) [a](/en/post/a/) [late](/en/post/late/) [night](/en/post/night/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [baby](/en/post/baby/) was [fast](/en/post/fast/) [asleep](/en/post/asleep/) [in](/en/post/in/) [her](/en/post/her/) crib, [completely](/en/post/completely/) surrounded [by](/en/post/by/) [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [sleepy](/en/post/sleepy/) [comfort](/en/post/comfort/)."
-- **[Verb](/en/post/verb/)**: "[Reading](/en/post/reading/) [a](/en/post/a/) boring [book](/en/post/book/) tends [to](/en/post/to/) [make](/en/post/make/) [people](/en/post/people/) [feel](/en/post/feel/) [sleepy](/en/post/sleepy/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) yawned, looking [quite](/post/quite/) [sleepy](/post/sleepy/) [after](/post/after/) [a](/post/a/) [late](/post/late/) [night](/post/night/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [baby](/post/baby/) was [fast](/post/fast/) [asleep](/post/asleep/) [in](/post/in/) [her](/post/her/) crib, [completely](/post/completely/) surrounded [by](/post/by/) [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [sleepy](/post/sleepy/) [comfort](/post/comfort/)."
+- **[Verb](/post/verb/)**: "[Reading](/post/reading/) [a](/post/a/) boring [book](/post/book/) tends [to](/post/to/) [make](/post/make/) [people](/post/people/) [feel](/post/feel/) [sleepy](/post/sleepy/)."
 
 ## Synonyms
 - Drowsy
-- [Tired](/en/post/tired/)
-- [Weary](/en/post/weary/)
+- [Tired](/post/tired/)
+- [Weary](/post/weary/)
 - Fatigued
 - Sluggish

@@ -12,23 +12,23 @@ keywords = ['ai words', 'pour']
 
 ## 释义
 - **动词**:
-1. 倾倒，倒出：将液体从一个容器倒入另一个容器。例如: "[He](/post/he/) poured [water](/post/water/) [from](/post/from/) [the](/post/the/) jug [into](/post/into/) [the](/post/the/) [glass](/post/glass/)."
-2. 浇注：在表面上连续地放出液体。例如: "[She](/post/she/) poured [cement](/post/cement/) [onto](/post/onto/) [the](/post/the/) [ground](/post/ground/) [to](/post/to/) [build](/post/build/) [a](/post/a/) [foundation](/post/foundation/)."
-3. 大量涌出，倾泻：（非物质）大量流出或涌出。例如: "[The](/post/the/) [crowd](/post/crowd/) poured [out](/post/out/) [of](/post/of/) [the](/post/the/) [stadium](/post/stadium/) [after](/post/after/) [the](/post/the/) [game](/post/game/)."
+1. 倾倒，倒出：将液体从一个容器倒入另一个容器。例如: "[He](/zh/post/he/) poured [water](/zh/post/water/) [from](/zh/post/from/) [the](/zh/post/the/) jug [into](/zh/post/into/) [the](/zh/post/the/) [glass](/zh/post/glass/)."
+2. 浇注：在表面上连续地放出液体。例如: "[She](/zh/post/she/) poured [cement](/zh/post/cement/) [onto](/zh/post/onto/) [the](/zh/post/the/) [ground](/zh/post/ground/) [to](/zh/post/to/) [build](/zh/post/build/) [a](/zh/post/a/) [foundation](/zh/post/foundation/)."
+3. 大量涌出，倾泻：（非物质）大量流出或涌出。例如: "[The](/zh/post/the/) [crowd](/zh/post/crowd/) poured [out](/zh/post/out/) [of](/zh/post/of/) [the](/zh/post/the/) [stadium](/zh/post/stadium/) [after](/zh/post/after/) [the](/zh/post/the/) [game](/zh/post/game/)."
 
 ## 短语
-- "[pour](/post/pour/) [water](/post/water/)" 倒水
-- "[pour](/post/pour/) [rain](/post/rain/)" 下大雨
-- "[pour](/post/pour/) one's [heart](/post/heart/) [out](/post/out/)" 倾诉心事
+- "[pour](/zh/post/pour/) [water](/zh/post/water/)" 倒水
+- "[pour](/zh/post/pour/) [rain](/zh/post/rain/)" 下大雨
+- "[pour](/zh/post/pour/) one's [heart](/zh/post/heart/) [out](/zh/post/out/)" 倾诉心事
 
 ## 例句
-- 动词(1): "[She](/post/she/) carefully poured [the](/post/the/) [milk](/post/milk/) [into](/post/into/) [the](/post/the/) [bowl](/post/bowl/) [without](/post/without/) spilling [any](/post/any/)."
-- 动词(2): "[It](/post/it/) was pouring [rain](/post/rain/), [so](/post/so/) [we](/post/we/) decided [to](/post/to/) [stay](/post/stay/) [inside](/post/inside/)."
-- 动词(3): "[He](/post/he/) couldn't [contain](/post/contain/) [his](/post/his/) excitement [and](/post/and/) poured [his](/post/his/) feelings [out](/post/out/) [to](/post/to/) [his](/post/his/) friends."
+- 动词(1): "[She](/zh/post/she/) carefully poured [the](/zh/post/the/) [milk](/zh/post/milk/) [into](/zh/post/into/) [the](/zh/post/the/) [bowl](/zh/post/bowl/) [without](/zh/post/without/) spilling [any](/zh/post/any/)."
+- 动词(2): "[It](/zh/post/it/) was pouring [rain](/zh/post/rain/), [so](/zh/post/so/) [we](/zh/post/we/) decided [to](/zh/post/to/) [stay](/zh/post/stay/) [inside](/zh/post/inside/)."
+- 动词(3): "[He](/zh/post/he/) couldn't [contain](/zh/post/contain/) [his](/zh/post/his/) excitement [and](/zh/post/and/) poured [his](/zh/post/his/) feelings [out](/zh/post/out/) [to](/zh/post/to/) [his](/zh/post/his/) friends."
 
 ## 同义词
-- [empty](/post/empty/)
-- [flow](/post/flow/)
-- [shed](/post/shed/)
-- [unload](/post/unload/)
+- [empty](/zh/post/empty/)
+- [flow](/zh/post/flow/)
+- [shed](/zh/post/shed/)
+- [unload](/zh/post/unload/)
 - dispense

@@ -7,35 +7,35 @@ description = '[skaut] n.侦察员，侦察机'
 keywords = ['ai words', 'scout']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /skaʊt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is sent [or](/en/post/or/) appointed [to](/en/post/to/) [explore](/en/post/explore/) an [area](/en/post/area/), [gather](/en/post/gather/) [information](/en/post/information/), [or](/en/post/or/) [find](/en/post/find/) [potential](/en/post/potential/) [new](/en/post/new/) members, [especially](/en/post/especially/) [for](/en/post/for/) [a](/en/post/a/) sports [team](/en/post/team/) [or](/en/post/or/) [organization](/en/post/organization/).
-- [A](/en/post/a/) [young](/en/post/young/) [person](/en/post/person/) [who](/en/post/who/) participates [in](/en/post/in/) scouting activities, [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) [Boy](/en/post/boy/) Scouts [or](/en/post/or/) [Girl](/en/post/girl/) Scouts.
+### [Noun](/post/noun/)
+- [A](/post/a/) [person](/post/person/) [who](/post/who/) is sent [or](/post/or/) appointed [to](/post/to/) [explore](/post/explore/) an [area](/post/area/), [gather](/post/gather/) [information](/post/information/), [or](/post/or/) [find](/post/find/) [potential](/post/potential/) [new](/post/new/) members, [especially](/post/especially/) [for](/post/for/) [a](/post/a/) sports [team](/post/team/) [or](/post/or/) [organization](/post/organization/).
+- [A](/post/a/) [young](/post/young/) [person](/post/person/) [who](/post/who/) participates [in](/post/in/) scouting activities, [such](/post/such/) [as](/post/as/) [the](/post/the/) [Boy](/post/boy/) Scouts [or](/post/or/) [Girl](/post/girl/) Scouts.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [search](/en/post/search/) [or](/en/post/or/) [explore](/en/post/explore/) an [area](/en/post/area/) [to](/en/post/to/) [discover](/en/post/discover/) details [or](/en/post/or/) [potential](/en/post/potential/) opportunities.
-- [To](/en/post/to/) [look](/en/post/look/) [for](/en/post/for/) [or](/en/post/or/) [investigate](/en/post/investigate/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/), [often](/en/post/often/) secretly.
+### [Verb](/post/verb/)
+- [To](/post/to/) [search](/post/search/) [or](/post/or/) [explore](/post/explore/) an [area](/post/area/) [to](/post/to/) [discover](/post/discover/) details [or](/post/or/) [potential](/post/potential/) opportunities.
+- [To](/post/to/) [look](/post/look/) [for](/post/for/) [or](/post/or/) [investigate](/post/investigate/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/), [often](/post/often/) secretly.
 
 ## Phrases
-- "[Scout](/en/post/scout/) [out](/en/post/out/) [a](/en/post/a/) [location](/en/post/location/)" [means](/en/post/means/) [to](/en/post/to/) [examine](/en/post/examine/) [or](/en/post/or/) [survey](/en/post/survey/) an [area](/en/post/area/) beforehand.
-- "[Be](/en/post/be/) [a](/en/post/a/) [scout](/en/post/scout/) [for](/en/post/for/) [a](/en/post/a/) [company](/en/post/company/)" refers [to](/en/post/to/) [finding](/en/post/finding/) [potential](/en/post/potential/) clients [or](/en/post/or/) [talent](/en/post/talent/) [for](/en/post/for/) [a](/en/post/a/) [business](/en/post/business/).
-- "Scouting [report](/en/post/report/)" is [a](/en/post/a/) [summary](/en/post/summary/) [of](/en/post/of/) [information](/en/post/information/) gathered [by](/en/post/by/) [a](/en/post/a/) [scout](/en/post/scout/) [about](/en/post/about/) [a](/en/post/a/) [player](/en/post/player/) [or](/en/post/or/) [prospect](/en/post/prospect/).
+- "[Scout](/post/scout/) [out](/post/out/) [a](/post/a/) [location](/post/location/)" [means](/post/means/) [to](/post/to/) [examine](/post/examine/) [or](/post/or/) [survey](/post/survey/) an [area](/post/area/) beforehand.
+- "[Be](/post/be/) [a](/post/a/) [scout](/post/scout/) [for](/post/for/) [a](/post/a/) [company](/post/company/)" refers [to](/post/to/) [finding](/post/finding/) [potential](/post/potential/) clients [or](/post/or/) [talent](/post/talent/) [for](/post/for/) [a](/post/a/) [business](/post/business/).
+- "Scouting [report](/post/report/)" is [a](/post/a/) [summary](/post/summary/) [of](/post/of/) [information](/post/information/) gathered [by](/post/by/) [a](/post/a/) [scout](/post/scout/) [about](/post/about/) [a](/post/a/) [player](/post/player/) [or](/post/or/) [prospect](/post/prospect/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [scout](/en/post/scout/) spent weeks [in](/en/post/in/) [the](/en/post/the/) [forest](/en/post/forest/), gathering [data](/en/post/data/) [on](/en/post/on/) wildlife."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [real](/en/post/real/) estate [agent](/en/post/agent/) scouted [several](/en/post/several/) properties [before](/en/post/before/) settling [on](/en/post/on/) [the](/en/post/the/) [perfect](/en/post/perfect/) [one](/en/post/one/) [for](/en/post/for/) [her](/en/post/her/) client."
-- **Scouting [mission](/en/post/mission/)** [might](/en/post/might/) [be](/en/post/be/) "[The](/en/post/the/) [team](/en/post/team/) embarked [on](/en/post/on/) [a](/en/post/a/) scouting [mission](/en/post/mission/) [to](/en/post/to/) [find](/en/post/find/) [new](/en/post/new/) [business](/en/post/business/) opportunities."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [scout](/post/scout/) spent weeks [in](/post/in/) [the](/post/the/) [forest](/post/forest/), gathering [data](/post/data/) [on](/post/on/) wildlife."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [real](/post/real/) estate [agent](/post/agent/) scouted [several](/post/several/) properties [before](/post/before/) settling [on](/post/on/) [the](/post/the/) [perfect](/post/perfect/) [one](/post/one/) [for](/post/for/) [her](/post/her/) client."
+- **Scouting [mission](/post/mission/)** [might](/post/might/) [be](/post/be/) "[The](/post/the/) [team](/post/team/) embarked [on](/post/on/) [a](/post/a/) scouting [mission](/post/mission/) [to](/post/to/) [find](/post/find/) [new](/post/new/) [business](/post/business/) opportunities."
 
 ## Synonyms
-- [Scout](/en/post/scout/) [around](/en/post/around/)
+- [Scout](/post/scout/) [around](/post/around/)
 - Reconnoitre
 - Probe
-- [Explore](/en/post/explore/)
-- [Survey](/en/post/survey/)
+- [Explore](/post/explore/)
+- [Survey](/post/survey/)
 
 ## Antonyms
-- [Hide](/en/post/hide/) ([opposite](/en/post/opposite/) [of](/en/post/of/) searching)
-- [Uncover](/en/post/uncover/) ([opposite](/en/post/opposite/) [of](/en/post/of/) discovering)
+- [Hide](/post/hide/) ([opposite](/post/opposite/) [of](/post/of/) searching)
+- [Uncover](/post/uncover/) ([opposite](/post/opposite/) [of](/post/of/) discovering)

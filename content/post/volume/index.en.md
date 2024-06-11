@@ -7,36 +7,36 @@ description = '[ˈvɔljuːm] n.卷，册；容积；音量'
 keywords = ['ai words', 'volume']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈvɒljuːm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [space](/en/post/space/) [inside](/en/post/inside/) [a](/en/post/a/) [container](/en/post/container/) [or](/en/post/or/) [the](/en/post/the/) [capacity](/en/post/capacity/) [to](/en/post/to/) [hold](/en/post/hold/) [something](/en/post/something/), measured [in](/en/post/in/) [cubic](/en/post/cubic/) units. *[Example](/en/post/example/)*: "[The](/en/post/the/) book's [volume](/en/post/volume/) is 500 pages."
-2. [A](/en/post/a/) [collection](/en/post/collection/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) books, [especially](/en/post/especially/) [one](/en/post/one/) [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) theme [or](/en/post/or/) [author](/en/post/author/). *[Example](/en/post/example/)*: "[The](/en/post/the/) [library](/en/post/library/) has an [extensive](/en/post/extensive/) [volume](/en/post/volume/) [on](/en/post/on/) [ancient](/en/post/ancient/) [history](/en/post/history/)."
-3. [A](/en/post/a/) [sound](/en/post/sound/) [or](/en/post/or/) [quantity](/en/post/quantity/) produced [by](/en/post/by/) [a](/en/post/a/) [musical](/en/post/musical/) [instrument](/en/post/instrument/) [or](/en/post/or/) [voice](/en/post/voice/), [often](/en/post/often/) [loud](/en/post/loud/) [and](/en/post/and/) resonant. *[Example](/en/post/example/)*: "[She](/en/post/she/) [hit](/en/post/hit/) [the](/en/post/the/) [drum](/en/post/drum/) [with](/en/post/with/) [great](/en/post/great/) [volume](/en/post/volume/)."
-4. [Volume](/en/post/volume/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) loudness [or](/en/post/or/) [intensity](/en/post/intensity/) [of](/en/post/of/) [sound](/en/post/sound/) [in](/en/post/in/) [a](/en/post/a/) recording [or](/en/post/or/) [performance](/en/post/performance/). *[Example](/en/post/example/)*: "[He](/en/post/he/) lowered [the](/en/post/the/) [volume](/en/post/volume/) [on](/en/post/on/) [the](/en/post/the/) [radio](/en/post/radio/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [amount](/post/amount/) [of](/post/of/) [space](/post/space/) [inside](/post/inside/) [a](/post/a/) [container](/post/container/) [or](/post/or/) [the](/post/the/) [capacity](/post/capacity/) [to](/post/to/) [hold](/post/hold/) [something](/post/something/), measured [in](/post/in/) [cubic](/post/cubic/) units. *[Example](/post/example/)*: "[The](/post/the/) book's [volume](/post/volume/) is 500 pages."
+2. [A](/post/a/) [collection](/post/collection/) [or](/post/or/) [series](/post/series/) [of](/post/of/) books, [especially](/post/especially/) [one](/post/one/) [with](/post/with/) [a](/post/a/) [specific](/post/specific/) theme [or](/post/or/) [author](/post/author/). *[Example](/post/example/)*: "[The](/post/the/) [library](/post/library/) has an [extensive](/post/extensive/) [volume](/post/volume/) [on](/post/on/) [ancient](/post/ancient/) [history](/post/history/)."
+3. [A](/post/a/) [sound](/post/sound/) [or](/post/or/) [quantity](/post/quantity/) produced [by](/post/by/) [a](/post/a/) [musical](/post/musical/) [instrument](/post/instrument/) [or](/post/or/) [voice](/post/voice/), [often](/post/often/) [loud](/post/loud/) [and](/post/and/) resonant. *[Example](/post/example/)*: "[She](/post/she/) [hit](/post/hit/) [the](/post/the/) [drum](/post/drum/) [with](/post/with/) [great](/post/great/) [volume](/post/volume/)."
+4. [Volume](/post/volume/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) loudness [or](/post/or/) [intensity](/post/intensity/) [of](/post/of/) [sound](/post/sound/) [in](/post/in/) [a](/post/a/) recording [or](/post/or/) [performance](/post/performance/). *[Example](/post/example/)*: "[He](/post/he/) lowered [the](/post/the/) [volume](/post/volume/) [on](/post/on/) [the](/post/the/) [radio](/post/radio/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [publish](/en/post/publish/) [or](/en/post/or/) [issue](/en/post/issue/) [a](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) books [as](/en/post/as/) [a](/en/post/a/) [single](/en/post/single/) [unit](/en/post/unit/). *[Example](/en/post/example/)*: "[The](/en/post/the/) publisher [will](/en/post/will/) [be](/en/post/be/) releasing [a](/en/post/a/) [new](/en/post/new/) [volume](/en/post/volume/) [of](/en/post/of/) [poetry](/en/post/poetry/) [next](/en/post/next/) [year](/en/post/year/)."
-2. [To](/en/post/to/) [produce](/en/post/produce/) [or](/en/post/or/) [emit](/en/post/emit/) [sound](/en/post/sound/) [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [volume](/en/post/volume/) [level](/en/post/level/). *[Example](/en/post/example/)*: "[She](/en/post/she/) adjusted [the](/en/post/the/) [volume](/en/post/volume/) [to](/en/post/to/) [hear](/en/post/hear/) [the](/en/post/the/) [news](/en/post/news/) [clearly](/en/post/clearly/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [publish](/post/publish/) [or](/post/or/) [issue](/post/issue/) [a](/post/a/) [set](/post/set/) [of](/post/of/) books [as](/post/as/) [a](/post/a/) [single](/post/single/) [unit](/post/unit/). *[Example](/post/example/)*: "[The](/post/the/) publisher [will](/post/will/) [be](/post/be/) releasing [a](/post/a/) [new](/post/new/) [volume](/post/volume/) [of](/post/of/) [poetry](/post/poetry/) [next](/post/next/) [year](/post/year/)."
+2. [To](/post/to/) [produce](/post/produce/) [or](/post/or/) [emit](/post/emit/) [sound](/post/sound/) [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [volume](/post/volume/) [level](/post/level/). *[Example](/post/example/)*: "[She](/post/she/) adjusted [the](/post/the/) [volume](/post/volume/) [to](/post/to/) [hear](/post/hear/) [the](/post/the/) [news](/post/news/) [clearly](/post/clearly/)."
 
 ## Phrases
-- "[Increase](/en/post/increase/)/[decrease](/en/post/decrease/) [the](/en/post/the/) [volume](/en/post/volume/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [sound](/en/post/sound/) louder [or](/en/post/or/) softer.
-- "[At](/en/post/at/) [full](/en/post/full/) [volume](/en/post/volume/)" indicates [maximum](/en/post/maximum/) [sound](/en/post/sound/) [output](/en/post/output/).
-- "[Volume](/en/post/volume/) [control](/en/post/control/)" refers [to](/en/post/to/) [a](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [setting](/en/post/setting/) [that](/en/post/that/) adjusts [sound](/en/post/sound/) levels.
+- "[Increase](/post/increase/)/[decrease](/post/decrease/) [the](/post/the/) [volume](/post/volume/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [sound](/post/sound/) louder [or](/post/or/) softer.
+- "[At](/post/at/) [full](/post/full/) [volume](/post/volume/)" indicates [maximum](/post/maximum/) [sound](/post/sound/) [output](/post/output/).
+- "[Volume](/post/volume/) [control](/post/control/)" refers [to](/post/to/) [a](/post/a/) [device](/post/device/) [or](/post/or/) [setting](/post/setting/) [that](/post/that/) adjusts [sound](/post/sound/) levels.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [room](/en/post/room/) was filled [with](/en/post/with/) [the](/en/post/the/) aroma [of](/en/post/of/) freshly brewed [coffee](/en/post/coffee/), [and](/en/post/and/) [the](/en/post/the/) bookshelves held [a](/en/post/a/) [vast](/en/post/vast/) [volume](/en/post/volume/) [of](/en/post/of/) [literature](/en/post/literature/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) cranked [up](/en/post/up/) [the](/en/post/the/) [volume](/en/post/volume/) [on](/en/post/on/) [the](/en/post/the/) stereo [to](/en/post/to/) [dance](/en/post/dance/) [along](/en/post/along/)."
-- **[Noun](/en/post/noun/) ([sound](/en/post/sound/))**: "[The](/en/post/the/) [orchestra](/en/post/orchestra/) played [with](/en/post/with/) [a](/en/post/a/) thunderous [volume](/en/post/volume/) [during](/en/post/during/) [the](/en/post/the/) climax [of](/en/post/of/) [the](/en/post/the/) [concert](/en/post/concert/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [room](/post/room/) was filled [with](/post/with/) [the](/post/the/) aroma [of](/post/of/) freshly brewed [coffee](/post/coffee/), [and](/post/and/) [the](/post/the/) bookshelves held [a](/post/a/) [vast](/post/vast/) [volume](/post/volume/) [of](/post/of/) [literature](/post/literature/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) cranked [up](/post/up/) [the](/post/the/) [volume](/post/volume/) [on](/post/on/) [the](/post/the/) stereo [to](/post/to/) [dance](/post/dance/) [along](/post/along/)."
+- **[Noun](/post/noun/) ([sound](/post/sound/))**: "[The](/post/the/) [orchestra](/post/orchestra/) played [with](/post/with/) [a](/post/a/) thunderous [volume](/post/volume/) [during](/post/during/) [the](/post/the/) climax [of](/post/of/) [the](/post/the/) [concert](/post/concert/)."
 
 ## Synonyms
-- [Size](/en/post/size/)
-- [Capacity](/en/post/capacity/)
-- [Quantity](/en/post/quantity/)
-- [Level](/en/post/level/)
+- [Size](/post/size/)
+- [Capacity](/post/capacity/)
+- [Quantity](/post/quantity/)
+- [Level](/post/level/)
 - Loudness
-- [Amount](/en/post/amount/)
+- [Amount](/post/amount/)
 - Array
-- [Series](/en/post/series/) (books)
+- [Series](/post/series/) (books)

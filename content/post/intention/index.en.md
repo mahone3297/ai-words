@@ -7,36 +7,36 @@ description = '[inˈten∫ən] n.意图，意向，目的'
 keywords = ['ai words', 'intention']
 +++
 
-# [Intention](/en/post/intention/)
+# [Intention](/post/intention/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈtenʃən/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-- **[A](/en/post/a/) [plan](/en/post/plan/) [or](/en/post/or/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/) [that](/en/post/that/) [a](/en/post/a/) [person](/en/post/person/) intends [to](/en/post/to/) [follow](/en/post/follow/) [through](/en/post/through/)**: [The](/en/post/the/) [intention](/en/post/intention/) [behind](/en/post/behind/) [his](/en/post/his/) actions was [to](/en/post/to/) [help](/en/post/help/) [the](/en/post/the/) [community](/en/post/community/). _"[She](/en/post/she/) had [every](/en/post/every/) [intention](/en/post/intention/) [of](/en/post/of/) finishing [her](/en/post/her/) [degree](/en/post/degree/)."_
-- **[Purpose](/en/post/purpose/) [or](/en/post/or/) [aim](/en/post/aim/)**: [His](/en/post/his/) [intention](/en/post/intention/) was [to](/en/post/to/) [write](/en/post/write/) [a](/en/post/a/) [novel](/en/post/novel/) [about](/en/post/about/) [his](/en/post/his/) [life](/en/post/life/) experiences. _"[The](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) [this](/en/post/this/) [project](/en/post/project/) is [to](/en/post/to/) [raise](/en/post/raise/) awareness [on](/en/post/on/) environmental issues."_
-- **[Mental](/en/post/mental/) [state](/en/post/state/) [of](/en/post/of/) having [a](/en/post/a/) [purpose](/en/post/purpose/)**: [She](/en/post/she/) acted [with](/en/post/with/) [good](/en/post/good/) intentions [but](/en/post/but/) [unfortunately](/en/post/unfortunately/) caused [some](/en/post/some/) [confusion](/en/post/confusion/). _"[His](/en/post/his/) intentions were [pure](/en/post/pure/), [even](/en/post/even/) [if](/en/post/if/) [the](/en/post/the/) [outcome](/en/post/outcome/) wasn't [what](/en/post/what/) [he](/en/post/he/) expected."_
+### [Noun](/post/noun/) (n)
+- **[A](/post/a/) [plan](/post/plan/) [or](/post/or/) [course](/post/course/) [of](/post/of/) [action](/post/action/) [that](/post/that/) [a](/post/a/) [person](/post/person/) intends [to](/post/to/) [follow](/post/follow/) [through](/post/through/)**: [The](/post/the/) [intention](/post/intention/) [behind](/post/behind/) [his](/post/his/) actions was [to](/post/to/) [help](/post/help/) [the](/post/the/) [community](/post/community/). _"[She](/post/she/) had [every](/post/every/) [intention](/post/intention/) [of](/post/of/) finishing [her](/post/her/) [degree](/post/degree/)."_
+- **[Purpose](/post/purpose/) [or](/post/or/) [aim](/post/aim/)**: [His](/post/his/) [intention](/post/intention/) was [to](/post/to/) [write](/post/write/) [a](/post/a/) [novel](/post/novel/) [about](/post/about/) [his](/post/his/) [life](/post/life/) experiences. _"[The](/post/the/) [intention](/post/intention/) [of](/post/of/) [this](/post/this/) [project](/post/project/) is [to](/post/to/) [raise](/post/raise/) awareness [on](/post/on/) environmental issues."_
+- **[Mental](/post/mental/) [state](/post/state/) [of](/post/of/) having [a](/post/a/) [purpose](/post/purpose/)**: [She](/post/she/) acted [with](/post/with/) [good](/post/good/) intentions [but](/post/but/) [unfortunately](/post/unfortunately/) caused [some](/post/some/) [confusion](/post/confusion/). _"[His](/post/his/) intentions were [pure](/post/pure/), [even](/post/even/) [if](/post/if/) [the](/post/the/) [outcome](/post/outcome/) wasn't [what](/post/what/) [he](/post/he/) expected."_
 
-### [Verb](/en/post/verb/) (v)
-- **[To](/en/post/to/) [intend](/en/post/intend/); [to](/en/post/to/) [have](/en/post/have/) [in](/en/post/in/) [mind](/en/post/mind/) [as](/en/post/as/) [a](/en/post/a/) [purpose](/en/post/purpose/) [or](/en/post/or/) [goal](/en/post/goal/)**: [They](/en/post/they/) intended [to](/en/post/to/) [launch](/en/post/launch/) [the](/en/post/the/) [product](/en/post/product/) [by](/en/post/by/) [next](/en/post/next/) [month](/en/post/month/). _"I'm intending [to](/en/post/to/) [apply](/en/post/apply/) [for](/en/post/for/) [that](/en/post/that/) [job](/en/post/job/)."_
+### [Verb](/post/verb/) (v)
+- **[To](/post/to/) [intend](/post/intend/); [to](/post/to/) [have](/post/have/) [in](/post/in/) [mind](/post/mind/) [as](/post/as/) [a](/post/a/) [purpose](/post/purpose/) [or](/post/or/) [goal](/post/goal/)**: [They](/post/they/) intended [to](/post/to/) [launch](/post/launch/) [the](/post/the/) [product](/post/product/) [by](/post/by/) [next](/post/next/) [month](/post/month/). _"I'm intending [to](/post/to/) [apply](/post/apply/) [for](/post/for/) [that](/post/that/) [job](/post/job/)."_
   
 ## Phrases
-- **[With](/en/post/with/) [the](/en/post/the/) [best](/en/post/best/) intentions**: [Meaning](/en/post/meaning/) [to](/en/post/to/) [have](/en/post/have/) [noble](/en/post/noble/) [or](/en/post/or/) well-meaning objectives, [even](/en/post/even/) [if](/en/post/if/) [the](/en/post/the/) results are [not](/en/post/not/) [ideal](/en/post/ideal/). _"[She](/en/post/she/) meant [it](/en/post/it/) [with](/en/post/with/) [the](/en/post/the/) [best](/en/post/best/) intentions, [but](/en/post/but/) [her](/en/post/her/) [advice](/en/post/advice/) ended [up](/en/post/up/) causing [more](/en/post/more/) problems."_
-- **Intentions vs. actions**: [This](/en/post/this/) [phrase](/en/post/phrase/) suggests [that](/en/post/that/) one's [actual](/en/post/actual/) [behavior](/en/post/behavior/) [can](/en/post/can/) [differ](/en/post/differ/) [from](/en/post/from/) [their](/en/post/their/) intended plans [or](/en/post/or/) goals. _"[His](/en/post/his/) intentions were admirable, [but](/en/post/but/) [his](/en/post/his/) actions did [not](/en/post/not/) [reflect](/en/post/reflect/) [them](/en/post/them/)."_
+- **[With](/post/with/) [the](/post/the/) [best](/post/best/) intentions**: [Meaning](/post/meaning/) [to](/post/to/) [have](/post/have/) [noble](/post/noble/) [or](/post/or/) well-meaning objectives, [even](/post/even/) [if](/post/if/) [the](/post/the/) results are [not](/post/not/) [ideal](/post/ideal/). _"[She](/post/she/) meant [it](/post/it/) [with](/post/with/) [the](/post/the/) [best](/post/best/) intentions, [but](/post/but/) [her](/post/her/) [advice](/post/advice/) ended [up](/post/up/) causing [more](/post/more/) problems."_
+- **Intentions vs. actions**: [This](/post/this/) [phrase](/post/phrase/) suggests [that](/post/that/) one's [actual](/post/actual/) [behavior](/post/behavior/) [can](/post/can/) [differ](/post/differ/) [from](/post/from/) [their](/post/their/) intended plans [or](/post/or/) goals. _"[His](/post/his/) intentions were admirable, [but](/post/but/) [his](/post/his/) actions did [not](/post/not/) [reflect](/post/reflect/) [them](/post/them/)."_
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Despite](/en/post/despite/) [his](/en/post/his/) [initial](/en/post/initial/) intentions [to](/en/post/to/) [stay](/en/post/stay/) [for](/en/post/for/) [just](/en/post/just/) [a](/en/post/a/) [short](/en/post/short/) [visit](/en/post/visit/), [he](/en/post/he/) ended [up](/en/post/up/) staying [the](/en/post/the/) [whole](/en/post/whole/) [summer](/en/post/summer/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) intends [to](/en/post/to/) [expand](/en/post/expand/) [its](/en/post/its/) operations globally [within](/en/post/within/) [the](/en/post/the/) [next](/en/post/next/) [five](/en/post/five/) years."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Despite](/post/despite/) [his](/post/his/) [initial](/post/initial/) intentions [to](/post/to/) [stay](/post/stay/) [for](/post/for/) [just](/post/just/) [a](/post/a/) [short](/post/short/) [visit](/post/visit/), [he](/post/he/) ended [up](/post/up/) staying [the](/post/the/) [whole](/post/whole/) [summer](/post/summer/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [company](/post/company/) intends [to](/post/to/) [expand](/post/expand/) [its](/post/its/) operations globally [within](/post/within/) [the](/post/the/) [next](/post/next/) [five](/post/five/) years."
 
 ## Synonyms
-- [Aim](/en/post/aim/)
-- [Purpose](/en/post/purpose/)
-- [Design](/en/post/design/)
-- [Plan](/en/post/plan/)
+- [Aim](/post/aim/)
+- [Purpose](/post/purpose/)
+- [Design](/post/design/)
+- [Plan](/post/plan/)
 - Intent
-- [Goal](/en/post/goal/)
-- [Objective](/en/post/objective/)
-- [Motive](/en/post/motive/)
+- [Goal](/post/goal/)
+- [Objective](/post/objective/)
+- [Motive](/post/motive/)
 - Intendment
-- [Resolution](/en/post/resolution/)
+- [Resolution](/post/resolution/)

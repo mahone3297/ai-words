@@ -11,20 +11,20 @@ keywords = ['ai words', 'chimney']
 /ˈtʃɪm.ni/
 
 ## 释义
-- **名词 (n)**: 建筑物内用于排放烟雾的垂直管道或构造，通常由砖石或金属制成。例如: "[The](/post/the/) [fire](/post/fire/) was burning brightly [in](/post/in/) [the](/post/the/) fireplace, [and](/post/and/) [smoke](/post/smoke/) [rose](/post/rose/) [up](/post/up/) [the](/post/the/) [chimney](/post/chimney/)."
-- **名词 (n)**: 在某些工业过程中，如炼铁炉或化工厂中，用来排放废气的高大结构。例如: "[The](/post/the/) [old](/post/old/) [factory](/post/factory/) had [a](/post/a/) [tall](/post/tall/) [chimney](/post/chimney/) puffing [out](/post/out/) [smoke](/post/smoke/)."
+- **名词 (n)**: 建筑物内用于排放烟雾的垂直管道或构造，通常由砖石或金属制成。例如: "[The](/zh/post/the/) [fire](/zh/post/fire/) was burning brightly [in](/zh/post/in/) [the](/zh/post/the/) fireplace, [and](/zh/post/and/) [smoke](/zh/post/smoke/) [rose](/zh/post/rose/) [up](/zh/post/up/) [the](/zh/post/the/) [chimney](/zh/post/chimney/)."
+- **名词 (n)**: 在某些工业过程中，如炼铁炉或化工厂中，用来排放废气的高大结构。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [factory](/zh/post/factory/) had [a](/zh/post/a/) [tall](/zh/post/tall/) [chimney](/zh/post/chimney/) puffing [out](/zh/post/out/) [smoke](/zh/post/smoke/)."
 
 ## 短语
-- "[chimney](/post/chimney/) [sweep](/post/sweep/)" 指清扫烟囱的人或工作。
-- "[chimney](/post/chimney/) [pot](/post/pot/)" 是烟囱顶部的陶瓷或金属部件，用于排放烟气。
+- "[chimney](/zh/post/chimney/) [sweep](/zh/post/sweep/)" 指清扫烟囱的人或工作。
+- "[chimney](/zh/post/chimney/) [pot](/zh/post/pot/)" 是烟囱顶部的陶瓷或金属部件，用于排放烟气。
 
 ## 例句
-- 名词: "[The](/post/the/) Santa Claus [legend](/post/legend/) says [he](/post/he/) comes [down](/post/down/) [the](/post/the/) [chimney](/post/chimney/) [on](/post/on/) Christmas [Eve](/post/eve/)."
-- 名词: "[The](/post/the/) [chimney](/post/chimney/) [sweep](/post/sweep/) climbed [up](/post/up/) [the](/post/the/) [ladder](/post/ladder/) [to](/post/to/) [clean](/post/clean/) [the](/post/the/) blocked [chimney](/post/chimney/)."
+- 名词: "[The](/zh/post/the/) Santa Claus [legend](/zh/post/legend/) says [he](/zh/post/he/) comes [down](/zh/post/down/) [the](/zh/post/the/) [chimney](/zh/post/chimney/) [on](/zh/post/on/) Christmas [Eve](/zh/post/eve/)."
+- 名词: "[The](/zh/post/the/) [chimney](/zh/post/chimney/) [sweep](/zh/post/sweep/) climbed [up](/zh/post/up/) [the](/zh/post/the/) [ladder](/zh/post/ladder/) [to](/zh/post/to/) [clean](/zh/post/clean/) [the](/zh/post/the/) blocked [chimney](/zh/post/chimney/)."
 
 ## 同义词
 - Flue
-- [Stack](/post/stack/)
+- [Stack](/zh/post/stack/)
 - Stovepipe
 - Vent
 - Smokestack

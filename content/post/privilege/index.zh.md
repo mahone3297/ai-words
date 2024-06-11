@@ -11,21 +11,21 @@ keywords = ['ai words', 'privilege']
 /ˈprɪvəlɪdʒ/
 
 ## 释义
-- **名词**: 特殊权利或利益；优待；特权。例如: "[He](/post/he/) was given [the](/post/the/) [privilege](/post/privilege/) [of](/post/of/) [meeting](/post/meeting/) [the](/post/the/) [president](/post/president/)."
-- **形容词**: 特权的；有优惠的。例如: "[The](/post/the/) members enjoyed privileged [access](/post/access/) [to](/post/to/) [the](/post/the/) [club](/post/club/) facilities."
+- **名词**: 特殊权利或利益；优待；特权。例如: "[He](/zh/post/he/) was given [the](/zh/post/the/) [privilege](/zh/post/privilege/) [of](/zh/post/of/) [meeting](/zh/post/meeting/) [the](/zh/post/the/) [president](/zh/post/president/)."
+- **形容词**: 特权的；有优惠的。例如: "[The](/zh/post/the/) members enjoyed privileged [access](/zh/post/access/) [to](/zh/post/to/) [the](/zh/post/the/) [club](/zh/post/club/) facilities."
 
 ## 短语
-- "[Without](/post/without/) [privilege](/post/privilege/)" 意为没有特别的优待或权利。
-- "Privileged [information](/post/information/)" 指的是只有特定人才能获得的机密信息。
-- "[Social](/post/social/) [privilege](/post/privilege/)" 指在社会中某些群体享有的优势地位。
+- "[Without](/zh/post/without/) [privilege](/zh/post/privilege/)" 意为没有特别的优待或权利。
+- "Privileged [information](/zh/post/information/)" 指的是只有特定人才能获得的机密信息。
+- "[Social](/zh/post/social/) [privilege](/zh/post/privilege/)" 指在社会中某些群体享有的优势地位。
 
 ## 例句
-- 名词: "[She](/post/she/) felt [grateful](/post/grateful/) [for](/post/for/) [the](/post/the/) educational [privilege](/post/privilege/) [she](/post/she/) had received."
-- 形容词: "[As](/post/as/) [a](/post/a/) VIP, you'll [enjoy](/post/enjoy/) privileged [treatment](/post/treatment/) [during](/post/during/) [your](/post/your/) [stay](/post/stay/)."
+- 名词: "[She](/zh/post/she/) felt [grateful](/zh/post/grateful/) [for](/zh/post/for/) [the](/zh/post/the/) educational [privilege](/zh/post/privilege/) [she](/zh/post/she/) had received."
+- 形容词: "[As](/zh/post/as/) [a](/zh/post/a/) VIP, you'll [enjoy](/zh/post/enjoy/) privileged [treatment](/zh/post/treatment/) [during](/zh/post/during/) [your](/zh/post/your/) [stay](/zh/post/stay/)."
 
 ## 同义词
-- [Advantage](/post/advantage/)
-- [Benefit](/post/benefit/)
+- [Advantage](/zh/post/advantage/)
+- [Benefit](/zh/post/benefit/)
 - Favor
 - Exemption
 - Precedence

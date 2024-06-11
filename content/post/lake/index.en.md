@@ -7,37 +7,37 @@ description = '[leik] n.湖'
 keywords = ['ai words', 'lake']
 +++
 
-## [Word](/en/post/word/): [Lake](/en/post/lake/)
+## [Word](/post/word/): [Lake](/post/lake/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /leɪk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/) [body](/en/post/body/) [of](/en/post/of/) [water](/en/post/water/) [that](/en/post/that/) is surrounded [by](/en/post/by/) [land](/en/post/land/) [and](/en/post/and/) [usually](/en/post/usually/) fed [by](/en/post/by/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) rivers. [It](/en/post/it/) [may](/en/post/may/) [be](/en/post/be/) freshwater [or](/en/post/or/) saltwater, [but](/en/post/but/) [generally](/en/post/generally/) refers [to](/en/post/to/) freshwater bodies. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) spent [our](/en/post/our/) [summer](/en/post/summer/) [vacation](/en/post/vacation/) [at](/en/post/at/) [the](/en/post/the/) lakeside [cabin](/en/post/cabin/) [near](/en/post/near/) [the](/en/post/the/) tranquil [lake](/en/post/lake/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/) [body](/post/body/) [of](/post/of/) [water](/post/water/) [that](/post/that/) is surrounded [by](/post/by/) [land](/post/land/) [and](/post/and/) [usually](/post/usually/) fed [by](/post/by/) [one](/post/one/) [or](/post/or/) [more](/post/more/) rivers. [It](/post/it/) [may](/post/may/) [be](/post/be/) freshwater [or](/post/or/) saltwater, [but](/post/but/) [generally](/post/generally/) refers [to](/post/to/) freshwater bodies. [For](/post/for/) [example](/post/example/): "[We](/post/we/) spent [our](/post/our/) [summer](/post/summer/) [vacation](/post/vacation/) [at](/post/at/) [the](/post/the/) lakeside [cabin](/post/cabin/) [near](/post/near/) [the](/post/the/) tranquil [lake](/post/lake/)."
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _"[The](/en/post/the/) sun's [reflection](/en/post/reflection/) [on](/en/post/on/) [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [the](/en/post/the/) [lake](/en/post/lake/) was breathtaking."_
+[Example](/post/example/) [sentence](/post/sentence/): _"[The](/post/the/) sun's [reflection](/post/reflection/) [on](/post/on/) [the](/post/the/) [surface](/post/surface/) [of](/post/of/) [the](/post/the/) [lake](/post/lake/) was breathtaking."_
 
 Phrases:
-- "[Take](/en/post/take/) [a](/en/post/a/) [dip](/en/post/dip/) [in](/en/post/in/) [the](/en/post/the/) [lake](/en/post/lake/)": [to](/en/post/to/) [go](/en/post/go/) swimming [in](/en/post/in/) [a](/en/post/a/) [lake](/en/post/lake/).
-- "Lakefront [property](/en/post/property/)": [real](/en/post/real/) estate located [directly](/en/post/directly/) [on](/en/post/on/) [the](/en/post/the/) [shore](/en/post/shore/) [of](/en/post/of/) [a](/en/post/a/) [lake](/en/post/lake/).
-- "[A](/en/post/a/) [walk](/en/post/walk/) [around](/en/post/around/) [the](/en/post/the/) [lake](/en/post/lake/)": [to](/en/post/to/) stroll [along](/en/post/along/) [the](/en/post/the/) perimeter [of](/en/post/of/) [a](/en/post/a/) [lake](/en/post/lake/).
+- "[Take](/post/take/) [a](/post/a/) [dip](/post/dip/) [in](/post/in/) [the](/post/the/) [lake](/post/lake/)": [to](/post/to/) [go](/post/go/) swimming [in](/post/in/) [a](/post/a/) [lake](/post/lake/).
+- "Lakefront [property](/post/property/)": [real](/post/real/) estate located [directly](/post/directly/) [on](/post/on/) [the](/post/the/) [shore](/post/shore/) [of](/post/of/) [a](/post/a/) [lake](/post/lake/).
+- "[A](/post/a/) [walk](/post/walk/) [around](/post/around/) [the](/post/the/) [lake](/post/lake/)": [to](/post/to/) stroll [along](/post/along/) [the](/post/the/) perimeter [of](/post/of/) [a](/post/a/) [lake](/post/lake/).
 
 ## Synonyms
-- [Pond](/en/post/pond/)
-- [Reservoir](/en/post/reservoir/)
+- [Pond](/post/pond/)
+- [Reservoir](/post/reservoir/)
 - Lagoon
 - Loch (Scottish)
-- Inland [sea](/en/post/sea/) ([for](/en/post/for/) larger lakes)
-- [Basin](/en/post/basin/)
+- Inland [sea](/post/sea/) ([for](/post/for/) larger lakes)
+- [Basin](/post/basin/)
 - Waterbody
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [lake](/en/post/lake/) froze [over](/en/post/over/) [during](/en/post/during/) [the](/en/post/the/) [harsh](/en/post/harsh/) [winter](/en/post/winter/) months, allowing locals [to](/en/post/to/) [ice](/en/post/ice/) [skate](/en/post/skate/) [on](/en/post/on/) [its](/en/post/its/) [surface](/en/post/surface/)."
-- "[Many](/en/post/many/) species [of](/en/post/of/) [fish](/en/post/fish/) [thrive](/en/post/thrive/) [in](/en/post/in/) [the](/en/post/the/) [deep](/en/post/deep/), [clear](/en/post/clear/) waters [of](/en/post/of/) [the](/en/post/the/) [lake](/en/post/lake/)."
-- "[The](/en/post/the/) [national](/en/post/national/) [park](/en/post/park/) is [famous](/en/post/famous/) [for](/en/post/for/) [its](/en/post/its/) [chain](/en/post/chain/) [of](/en/post/of/) interconnected lakes, [which](/en/post/which/) [draw](/en/post/draw/) tourists [from](/en/post/from/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [lake](/post/lake/) froze [over](/post/over/) [during](/post/during/) [the](/post/the/) [harsh](/post/harsh/) [winter](/post/winter/) months, allowing locals [to](/post/to/) [ice](/post/ice/) [skate](/post/skate/) [on](/post/on/) [its](/post/its/) [surface](/post/surface/)."
+- "[Many](/post/many/) species [of](/post/of/) [fish](/post/fish/) [thrive](/post/thrive/) [in](/post/in/) [the](/post/the/) [deep](/post/deep/), [clear](/post/clear/) waters [of](/post/of/) [the](/post/the/) [lake](/post/lake/)."
+- "[The](/post/the/) [national](/post/national/) [park](/post/park/) is [famous](/post/famous/) [for](/post/for/) [its](/post/its/) [chain](/post/chain/) [of](/post/of/) interconnected lakes, [which](/post/which/) [draw](/post/draw/) tourists [from](/post/from/) [around](/post/around/) [the](/post/the/) [world](/post/world/)."
 
 ## Related Words & Phrases
-- [Lake](/en/post/lake/) [district](/en/post/district/): An [area](/en/post/area/) [with](/en/post/with/) [numerous](/en/post/numerous/) lakes, [often](/en/post/often/) [popular](/en/post/popular/) [for](/en/post/for/) tourism [and](/en/post/and/) [outdoor](/en/post/outdoor/) activities.
-- Lake-effect [snow](/en/post/snow/): Snowfall [that](/en/post/that/) occurs [when](/en/post/when/) [cold](/en/post/cold/), [dry](/en/post/dry/) [air](/en/post/air/) passes [over](/en/post/over/) [a](/en/post/a/) warmer [lake](/en/post/lake/), picking [up](/en/post/up/) [moisture](/en/post/moisture/) [and](/en/post/and/) [then](/en/post/then/) depositing [it](/en/post/it/) [as](/en/post/as/) [snow](/en/post/snow/) [on](/en/post/on/) [the](/en/post/the/) leeward [side](/en/post/side/).
-- Lakebed: [The](/en/post/the/) [bottom](/en/post/bottom/) [or](/en/post/or/) [floor](/en/post/floor/) [of](/en/post/of/) [a](/en/post/a/) [lake](/en/post/lake/), [especially](/en/post/especially/) [when](/en/post/when/) [dry](/en/post/dry/) [or](/en/post/or/) drained.
-- [Lake](/en/post/lake/) [view](/en/post/view/): [A](/en/post/a/) scenic [outlook](/en/post/outlook/) [or](/en/post/or/) vista featuring [a](/en/post/a/) [lake](/en/post/lake/).
+- [Lake](/post/lake/) [district](/post/district/): An [area](/post/area/) [with](/post/with/) [numerous](/post/numerous/) lakes, [often](/post/often/) [popular](/post/popular/) [for](/post/for/) tourism [and](/post/and/) [outdoor](/post/outdoor/) activities.
+- Lake-effect [snow](/post/snow/): Snowfall [that](/post/that/) occurs [when](/post/when/) [cold](/post/cold/), [dry](/post/dry/) [air](/post/air/) passes [over](/post/over/) [a](/post/a/) warmer [lake](/post/lake/), picking [up](/post/up/) [moisture](/post/moisture/) [and](/post/and/) [then](/post/then/) depositing [it](/post/it/) [as](/post/as/) [snow](/post/snow/) [on](/post/on/) [the](/post/the/) leeward [side](/post/side/).
+- Lakebed: [The](/post/the/) [bottom](/post/bottom/) [or](/post/or/) [floor](/post/floor/) [of](/post/of/) [a](/post/a/) [lake](/post/lake/), [especially](/post/especially/) [when](/post/when/) [dry](/post/dry/) [or](/post/or/) drained.
+- [Lake](/post/lake/) [view](/post/view/): [A](/post/a/) scenic [outlook](/post/outlook/) [or](/post/or/) vista featuring [a](/post/a/) [lake](/post/lake/).

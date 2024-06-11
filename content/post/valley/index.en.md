@@ -7,44 +7,44 @@ description = '[ˈvæli] n.(山)谷，溪谷；流域'
 keywords = ['ai words', 'valley']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈveɪli/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [valley](/en/post/valley/) is [a](/en/post/a/) [low](/en/post/low/) [area](/en/post/area/) [between](/en/post/between/) hills [or](/en/post/or/) mountains, typically [with](/en/post/with/) [a](/en/post/a/) [river](/en/post/river/) [or](/en/post/or/) [stream](/en/post/stream/) flowing [through](/en/post/through/) [it](/en/post/it/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [low](/en/post/low/) [point](/en/post/point/) [or](/en/post/or/) [a](/en/post/a/) depression [in](/en/post/in/) [something](/en/post/something/). 
+### [Noun](/post/noun/)
+[A](/post/a/) [valley](/post/valley/) is [a](/post/a/) [low](/post/low/) [area](/post/area/) [between](/post/between/) hills [or](/post/or/) mountains, typically [with](/post/with/) [a](/post/a/) [river](/post/river/) [or](/post/or/) [stream](/post/stream/) flowing [through](/post/through/) [it](/post/it/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [low](/post/low/) [point](/post/point/) [or](/post/or/) [a](/post/a/) depression [in](/post/in/) [something](/post/something/). 
 
-### [Verb](/en/post/verb/) (Transitive)
-[To](/en/post/to/) [valley](/en/post/valley/), [or](/en/post/or/) [valley](/en/post/valley/) [oneself](/en/post/oneself/), [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [descend](/en/post/descend/) [into](/en/post/into/) [a](/en/post/a/) [valley](/en/post/valley/) [or](/en/post/or/) [pass](/en/post/pass/) [through](/en/post/through/) [one](/en/post/one/), [often](/en/post/often/) figuratively [in](/en/post/in/) terms [of](/en/post/of/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [experience](/en/post/experience/).
+### [Verb](/post/verb/) (Transitive)
+[To](/post/to/) [valley](/post/valley/), [or](/post/or/) [valley](/post/valley/) [oneself](/post/oneself/), [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [descend](/post/descend/) [into](/post/into/) [a](/post/a/) [valley](/post/valley/) [or](/post/or/) [pass](/post/pass/) [through](/post/through/) [one](/post/one/), [often](/post/often/) figuratively [in](/post/in/) terms [of](/post/of/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [experience](/post/experience/).
 
-### [Adjective](/en/post/adjective/)
-1. Geographical: Characterized [by](/en/post/by/) [a](/en/post/a/) [valley](/en/post/valley/), having [a](/en/post/a/) [low](/en/post/low/), elongated depression.
-2. Metaphorical: Describing [a](/en/post/a/) decline [or](/en/post/or/) downturn [in](/en/post/in/) [a](/en/post/a/) [process](/en/post/process/), [trend](/en/post/trend/), [or](/en/post/or/) [condition](/en/post/condition/).
+### [Adjective](/post/adjective/)
+1. Geographical: Characterized [by](/post/by/) [a](/post/a/) [valley](/post/valley/), having [a](/post/a/) [low](/post/low/), elongated depression.
+2. Metaphorical: Describing [a](/post/a/) decline [or](/post/or/) downturn [in](/post/in/) [a](/post/a/) [process](/post/process/), [trend](/post/trend/), [or](/post/or/) [condition](/post/condition/).
 
 ## Phrases
-- "[Valley](/en/post/valley/) [of](/en/post/of/) [the](/en/post/the/) gods" refers [to](/en/post/to/) [a](/en/post/a/) scenic, picturesque [valley](/en/post/valley/).
-- "[Sink](/en/post/sink/) [into](/en/post/into/) [a](/en/post/a/) [valley](/en/post/valley/) [of](/en/post/of/) [despair](/en/post/despair/)" implies [a](/en/post/a/) [deep](/en/post/deep/) [emotional](/en/post/emotional/) [low](/en/post/low/).
-- "[Life](/en/post/life/) [in](/en/post/in/) [the](/en/post/the/) [valley](/en/post/valley/)" [can](/en/post/can/) [describe](/en/post/describe/) [a](/en/post/a/) [peaceful](/en/post/peaceful/) [or](/en/post/or/) sheltered [existence](/en/post/existence/).
+- "[Valley](/post/valley/) [of](/post/of/) [the](/post/the/) gods" refers [to](/post/to/) [a](/post/a/) scenic, picturesque [valley](/post/valley/).
+- "[Sink](/post/sink/) [into](/post/into/) [a](/post/a/) [valley](/post/valley/) [of](/post/of/) [despair](/post/despair/)" implies [a](/post/a/) [deep](/post/deep/) [emotional](/post/emotional/) [low](/post/low/).
+- "[Life](/post/life/) [in](/post/in/) [the](/post/the/) [valley](/post/valley/)" [can](/post/can/) [describe](/post/describe/) [a](/post/a/) [peaceful](/post/peaceful/) [or](/post/or/) sheltered [existence](/post/existence/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) hikers reached [the](/en/post/the/) [base](/en/post/base/) [of](/en/post/of/) [the](/en/post/the/) [mountain](/en/post/mountain/), admiring [the](/en/post/the/) [beauty](/en/post/beauty/) [of](/en/post/of/) [the](/en/post/the/) [valley](/en/post/valley/) [below](/en/post/below/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/), [the](/en/post/the/) [river](/en/post/river/) [valley](/en/post/valley/) was flooded, [and](/en/post/and/) [people](/en/post/people/) had [to](/en/post/to/) evacuate."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [mood](/en/post/mood/) sank [into](/en/post/into/) [a](/en/post/a/) [valley](/en/post/valley/) [after](/en/post/after/) receiving disappointing [news](/en/post/news/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) hikers reached [the](/post/the/) [base](/post/base/) [of](/post/of/) [the](/post/the/) [mountain](/post/mountain/), admiring [the](/post/the/) [beauty](/post/beauty/) [of](/post/of/) [the](/post/the/) [valley](/post/valley/) [below](/post/below/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [storm](/post/storm/), [the](/post/the/) [river](/post/river/) [valley](/post/valley/) was flooded, [and](/post/and/) [people](/post/people/) had [to](/post/to/) evacuate."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [mood](/post/mood/) sank [into](/post/into/) [a](/post/a/) [valley](/post/valley/) [after](/post/after/) receiving disappointing [news](/post/news/)."
 
 ## Synonyms
-- Creek [bed](/en/post/bed/)
+- Creek [bed](/post/bed/)
 - Lowland
-- [Basin](/en/post/basin/)
+- [Basin](/post/basin/)
 - Trough
 - Depression
 - Rift
 -谷地
-- [Valley](/en/post/valley/) [floor](/en/post/floor/)
+- [Valley](/post/valley/) [floor](/post/floor/)
 
 ## Antonyms
-- [Hill](/en/post/hill/)
-- [Ridge](/en/post/ridge/)
+- [Hill](/post/hill/)
+- [Ridge](/post/ridge/)
 - Upland
 - Heights
 - Summit
-- [Peak](/en/post/peak/)
+- [Peak](/post/peak/)

@@ -11,22 +11,22 @@ keywords = ['ai words', 'dim']
 /dɪm/
 
 ## 释义
-- **形容词**: 不明亮的，昏暗的。例如: "[The](/post/the/) [room](/post/room/) was dimly lit [by](/post/by/) [a](/post/a/) [single](/post/single/) [candle](/post/candle/)."
-- **动词**: 使变暗，减弱亮度。例如: "[The](/post/the/) [sun](/post/sun/) began [to](/post/to/) [set](/post/set/), dimming [the](/post/the/) [sky](/post/sky/)."
-- **名词**: （电子设备的）调光功能。例如: "I [need](/post/need/) [to](/post/to/) [adjust](/post/adjust/) [the](/post/the/) [dim](/post/dim/) [on](/post/on/) [my](/post/my/) [computer](/post/computer/) [screen](/post/screen/)."
+- **形容词**: 不明亮的，昏暗的。例如: "[The](/zh/post/the/) [room](/zh/post/room/) was dimly lit [by](/zh/post/by/) [a](/zh/post/a/) [single](/zh/post/single/) [candle](/zh/post/candle/)."
+- **动词**: 使变暗，减弱亮度。例如: "[The](/zh/post/the/) [sun](/zh/post/sun/) began [to](/zh/post/to/) [set](/zh/post/set/), dimming [the](/zh/post/the/) [sky](/zh/post/sky/)."
+- **名词**: （电子设备的）调光功能。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [adjust](/zh/post/adjust/) [the](/zh/post/the/) [dim](/zh/post/dim/) [on](/zh/post/on/) [my](/zh/post/my/) [computer](/zh/post/computer/) [screen](/zh/post/screen/)."
 
 ## 短语
-- "[dim](/post/dim/) [the](/post/the/) lights" 意味着降低灯光亮度。
-- "[dim](/post/dim/) memories" 指模糊的记忆。
+- "[dim](/zh/post/dim/) [the](/zh/post/the/) lights" 意味着降低灯光亮度。
+- "[dim](/zh/post/dim/) memories" 指模糊的记忆。
 
 ## 例句
-- 形容词: "[The](/post/the/) [movie](/post/movie/) theater had [a](/post/a/) [dim](/post/dim/) [atmosphere](/post/atmosphere/) [for](/post/for/) [a](/post/a/) [better](/post/better/) viewing [experience](/post/experience/)."
-- 动词: "[She](/post/she/) dimmed [the](/post/the/) [lamp](/post/lamp/) [to](/post/to/) [create](/post/create/) [a](/post/a/) cozy [atmosphere](/post/atmosphere/)."
-- 名词: "[Press](/post/press/) [the](/post/the/) [button](/post/button/) [to](/post/to/) [control](/post/control/) [the](/post/the/) [dim](/post/dim/) [of](/post/of/) [your](/post/your/) [smart](/post/smart/) [bulb](/post/bulb/)."
+- 形容词: "[The](/zh/post/the/) [movie](/zh/post/movie/) theater had [a](/zh/post/a/) [dim](/zh/post/dim/) [atmosphere](/zh/post/atmosphere/) [for](/zh/post/for/) [a](/zh/post/a/) [better](/zh/post/better/) viewing [experience](/zh/post/experience/)."
+- 动词: "[She](/zh/post/she/) dimmed [the](/zh/post/the/) [lamp](/zh/post/lamp/) [to](/zh/post/to/) [create](/zh/post/create/) [a](/zh/post/a/) cozy [atmosphere](/zh/post/atmosphere/)."
+- 名词: "[Press](/zh/post/press/) [the](/zh/post/the/) [button](/zh/post/button/) [to](/zh/post/to/) [control](/zh/post/control/) [the](/zh/post/the/) [dim](/zh/post/dim/) [of](/zh/post/of/) [your](/zh/post/your/) [smart](/zh/post/smart/) [bulb](/zh/post/bulb/)."
 
 ## 同义词
-- [Dark](/post/dark/)
-- [Faint](/post/faint/)
+- [Dark](/zh/post/dark/)
+- [Faint](/zh/post/faint/)
 - Murky
-- [Gloomy](/post/gloomy/)
+- [Gloomy](/zh/post/gloomy/)
 - Hazy

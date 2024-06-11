@@ -12,24 +12,24 @@ keywords = ['ai words', 'need']
 
 ## 释义
 - **动词**: 
-    - 需要，必须有。例如: "I [need](/post/need/) [your](/post/your/) [help](/post/help/) [with](/post/with/) [this](/post/this/) [problem](/post/problem/)."
-    - 想要，渴望。例如: "[She](/post/she/) needs [some](/post/some/) [time](/post/time/) [alone](/post/alone/) [to](/post/to/) [relax](/post/relax/)."
+    - 需要，必须有。例如: "I [need](/zh/post/need/) [your](/zh/post/your/) [help](/zh/post/help/) [with](/zh/post/with/) [this](/zh/post/this/) [problem](/zh/post/problem/)."
+    - 想要，渴望。例如: "[She](/zh/post/she/) needs [some](/zh/post/some/) [time](/zh/post/time/) [alone](/zh/post/alone/) [to](/zh/post/to/) [relax](/zh/post/relax/)."
 
 - **名词**:
-    - 需求，要求。例如: "[The](/post/the/) [project](/post/project/) has [a](/post/a/) pressing [need](/post/need/) [for](/post/for/) [more](/post/more/) funding."
-    - 必要性，必需品。例如: "[Food](/post/food/) [and](/post/and/) [shelter](/post/shelter/) are [basic](/post/basic/) [human](/post/human/) needs."
+    - 需求，要求。例如: "[The](/zh/post/the/) [project](/zh/post/project/) has [a](/zh/post/a/) pressing [need](/zh/post/need/) [for](/zh/post/for/) [more](/zh/post/more/) funding."
+    - 必要性，必需品。例如: "[Food](/zh/post/food/) [and](/zh/post/and/) [shelter](/zh/post/shelter/) are [basic](/zh/post/basic/) [human](/zh/post/human/) needs."
 
 ## 短语
-- "[in](/post/in/) [need](/post/need/) [of](/post/of/)" 表示需要或缺乏。例如: "[The](/post/the/) [old](/post/old/) [building](/post/building/) is [in](/post/in/) [need](/post/need/) [of](/post/of/) [repair](/post/repair/)."
-- "[meet](/post/meet/) one's needs" 满足某人的需求。例如: "[This](/post/this/) [new](/post/new/) [plan](/post/plan/) [should](/post/should/) [meet](/post/meet/) [all](/post/all/) [our](/post/our/) needs."
+- "[in](/zh/post/in/) [need](/zh/post/need/) [of](/zh/post/of/)" 表示需要或缺乏。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [building](/zh/post/building/) is [in](/zh/post/in/) [need](/zh/post/need/) [of](/zh/post/of/) [repair](/zh/post/repair/)."
+- "[meet](/zh/post/meet/) one's needs" 满足某人的需求。例如: "[This](/zh/post/this/) [new](/zh/post/new/) [plan](/zh/post/plan/) [should](/zh/post/should/) [meet](/zh/post/meet/) [all](/zh/post/all/) [our](/zh/post/our/) needs."
 
 ## 例句
-- 动词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [finish](/post/finish/) [this](/post/this/) [task](/post/task/) [by](/post/by/) [tomorrow](/post/tomorrow/)."
-- 名词: "[The](/post/the/) [company](/post/company/) identified [the](/post/the/) [need](/post/need/) [for](/post/for/) [better](/post/better/) [communication](/post/communication/)."
+- 动词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [finish](/zh/post/finish/) [this](/zh/post/this/) [task](/zh/post/task/) [by](/zh/post/by/) [tomorrow](/zh/post/tomorrow/)."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) identified [the](/zh/post/the/) [need](/zh/post/need/) [for](/zh/post/for/) [better](/zh/post/better/) [communication](/zh/post/communication/)."
 
 ## 同义词
-- [require](/post/require/)
-- [demand](/post/demand/)
-- [want](/post/want/)
-- [requirement](/post/requirement/)
-- [necessity](/post/necessity/)
+- [require](/zh/post/require/)
+- [demand](/zh/post/demand/)
+- [want](/zh/post/want/)
+- [requirement](/zh/post/requirement/)
+- [necessity](/zh/post/necessity/)

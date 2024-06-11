@@ -7,37 +7,37 @@ description = '[fist] n.拳(头)'
 keywords = ['ai words', 'fist']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɪst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [hand](/en/post/hand/) [when](/en/post/when/) [all](/en/post/all/) fingers [except](/en/post/except/) [the](/en/post/the/) [thumb](/en/post/thumb/) are curled [into](/en/post/into/) [the](/en/post/the/) [palm](/en/post/palm/), typically [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) compact, [hard](/en/post/hard/) [shape](/en/post/shape/) [for](/en/post/for/) hitting [or](/en/post/or/) striking [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) clenched [his](/en/post/his/) [fist](/en/post/fist/) [in](/en/post/in/) [anger](/en/post/anger/)."
-  - **[Noun](/en/post/noun/) (figurative)**: [Power](/en/post/power/) [or](/en/post/or/) [strength](/en/post/strength/); symbolically representing [determination](/en/post/determination/) [or](/en/post/or/) [resistance](/en/post/resistance/). [Example](/en/post/example/): "[The](/en/post/the/) people's [movement](/en/post/movement/) had [a](/en/post/a/) [strong](/en/post/strong/) [fist](/en/post/fist/) [against](/en/post/against/) oppression."
+- **[Noun](/post/noun/)**: [The](/post/the/) [hand](/post/hand/) [when](/post/when/) [all](/post/all/) fingers [except](/post/except/) [the](/post/the/) [thumb](/post/thumb/) are curled [into](/post/into/) [the](/post/the/) [palm](/post/palm/), typically [to](/post/to/) [make](/post/make/) [a](/post/a/) compact, [hard](/post/hard/) [shape](/post/shape/) [for](/post/for/) hitting [or](/post/or/) striking [something](/post/something/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) clenched [his](/post/his/) [fist](/post/fist/) [in](/post/in/) [anger](/post/anger/)."
+  - **[Noun](/post/noun/) (figurative)**: [Power](/post/power/) [or](/post/or/) [strength](/post/strength/); symbolically representing [determination](/post/determination/) [or](/post/or/) [resistance](/post/resistance/). [Example](/post/example/): "[The](/post/the/) people's [movement](/post/movement/) had [a](/post/a/) [strong](/post/strong/) [fist](/post/fist/) [against](/post/against/) oppression."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) clench [or](/en/post/or/) [hold](/en/post/hold/) [something](/en/post/something/) tightly [in](/en/post/in/) [a](/en/post/a/) [fist](/en/post/fist/). [Example](/en/post/example/): "[He](/en/post/he/) fist-pumped [the](/en/post/the/) [air](/en/post/air/) [in](/en/post/in/) [triumph](/en/post/triumph/) [after](/en/post/after/) winning [the](/en/post/the/) [race](/en/post/race/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) clench [or](/post/or/) [hold](/post/hold/) [something](/post/something/) tightly [in](/post/in/) [a](/post/a/) [fist](/post/fist/). [Example](/post/example/): "[He](/post/he/) fist-pumped [the](/post/the/) [air](/post/air/) [in](/post/in/) [triumph](/post/triumph/) [after](/post/after/) winning [the](/post/the/) [race](/post/race/)."
 
 ## Phrases
-- "[Fist](/en/post/fist/) bump" refers [to](/en/post/to/) [a](/en/post/a/) [greeting](/en/post/greeting/) [or](/en/post/or/) congratulatory [gesture](/en/post/gesture/) [where](/en/post/where/) [two](/en/post/two/) [people](/en/post/people/) [touch](/en/post/touch/) fists [lightly](/en/post/lightly/).
-- "[Make](/en/post/make/) [a](/en/post/a/) [fist](/en/post/fist/)" [means](/en/post/means/) [to](/en/post/to/) clench one's [hand](/en/post/hand/) [into](/en/post/into/) [a](/en/post/a/) [fist](/en/post/fist/).
-- "[With](/en/post/with/) [open](/en/post/open/) arms [or](/en/post/or/) [with](/en/post/with/) [open](/en/post/open/) hearts [but](/en/post/but/) [with](/en/post/with/) clenched fists" represents [a](/en/post/a/) welcoming [attitude](/en/post/attitude/) [while](/en/post/while/) [being](/en/post/being/) prepared [to](/en/post/to/) [defend](/en/post/defend/) [or](/en/post/or/) [fight](/en/post/fight/) [if](/en/post/if/) [necessary](/en/post/necessary/).
+- "[Fist](/post/fist/) bump" refers [to](/post/to/) [a](/post/a/) [greeting](/post/greeting/) [or](/post/or/) congratulatory [gesture](/post/gesture/) [where](/post/where/) [two](/post/two/) [people](/post/people/) [touch](/post/touch/) fists [lightly](/post/lightly/).
+- "[Make](/post/make/) [a](/post/a/) [fist](/post/fist/)" [means](/post/means/) [to](/post/to/) clench one's [hand](/post/hand/) [into](/post/into/) [a](/post/a/) [fist](/post/fist/).
+- "[With](/post/with/) [open](/post/open/) arms [or](/post/or/) [with](/post/with/) [open](/post/open/) hearts [but](/post/but/) [with](/post/with/) clenched fists" represents [a](/post/a/) welcoming [attitude](/post/attitude/) [while](/post/while/) [being](/post/being/) prepared [to](/post/to/) [defend](/post/defend/) [or](/post/or/) [fight](/post/fight/) [if](/post/if/) [necessary](/post/necessary/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) raised [his](/en/post/his/) [fist](/en/post/fist/) threateningly towards [his](/en/post/his/) [opponent](/en/post/opponent/)."
-- **[Verb](/en/post/verb/)**: "[Angry](/en/post/angry/) protesters fists were raised [high](/en/post/high/) [in](/en/post/in/) solidarity."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) raised [his](/post/his/) [fist](/post/fist/) threateningly towards [his](/post/his/) [opponent](/post/opponent/)."
+- **[Verb](/post/verb/)**: "[Angry](/post/angry/) protesters fists were raised [high](/post/high/) [in](/post/in/) solidarity."
   
 ## Synonyms
-- Clenched [hand](/en/post/hand/)
-- Closed [hand](/en/post/hand/)
-- Knuckle [sandwich](/en/post/sandwich/) (informal, [often](/en/post/often/) [humorous](/en/post/humorous/), referring [to](/en/post/to/) [a](/en/post/a/) [punch](/en/post/punch/))
-- Handball (slang, referring [to](/en/post/to/) [a](/en/post/a/) [punch](/en/post/punch/))
-- [Punch](/en/post/punch/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)) 
+- Clenched [hand](/post/hand/)
+- Closed [hand](/post/hand/)
+- Knuckle [sandwich](/post/sandwich/) (informal, [often](/post/often/) [humorous](/post/humorous/), referring [to](/post/to/) [a](/post/a/) [punch](/post/punch/))
+- Handball (slang, referring [to](/post/to/) [a](/post/a/) [punch](/post/punch/))
+- [Punch](/post/punch/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/)) 
 
 ## Antonyms
-- [Open](/en/post/open/) [hand](/en/post/hand/)
-- Unclenched [hand](/en/post/hand/)
-- [Palm](/en/post/palm/) [up](/en/post/up/) ([in](/en/post/in/) terms [of](/en/post/of/) posture [or](/en/post/or/) [gesture](/en/post/gesture/))
+- [Open](/post/open/) [hand](/post/hand/)
+- Unclenched [hand](/post/hand/)
+- [Palm](/post/palm/) [up](/post/up/) ([in](/post/in/) terms [of](/post/of/) posture [or](/post/or/) [gesture](/post/gesture/))
 
 ## Related Terms
 - Fistfight
 - Fisticuffs
-- [Iron](/en/post/iron/) [fist](/en/post/fist/) (metaphorically referring [to](/en/post/to/) [strict](/en/post/strict/) [control](/en/post/control/) [or](/en/post/or/) [authority](/en/post/authority/))
+- [Iron](/post/iron/) [fist](/post/fist/) (metaphorically referring [to](/post/to/) [strict](/post/strict/) [control](/post/control/) [or](/post/or/) [authority](/post/authority/))

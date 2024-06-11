@@ -7,37 +7,37 @@ description = '[ˈprɔdəkt] n.产品，产物；(乘)积'
 keywords = ['ai words', 'product']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈdʌkt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Product](/en/post/product/)**: [A](/en/post/a/) tangible [or](/en/post/or/) intangible [item](/en/post/item/) resulting [from](/en/post/from/) [a](/en/post/a/) manufacturing, creation, [or](/en/post/or/) [process](/en/post/process/), [often](/en/post/often/) sold [for](/en/post/for/) [commercial](/en/post/commercial/) [use](/en/post/use/) [or](/en/post/or/) [consumption](/en/post/consumption/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's latest [product](/en/post/product/) is [a](/en/post/a/) state-of-the-art smartphone."
-2. **[Outcome](/en/post/outcome/)**: [The](/en/post/the/) [result](/en/post/result/) [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [effort](/en/post/effort/), [especially](/en/post/especially/) [in](/en/post/in/) terms [of](/en/post/of/) [quality](/en/post/quality/) [or](/en/post/or/) [success](/en/post/success/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) project's [success](/en/post/success/) was measured [by](/en/post/by/) [its](/en/post/its/) [end](/en/post/end/) [product](/en/post/product/)."
-3. **Artifact**: An [object](/en/post/object/) made [or](/en/post/or/) produced [by](/en/post/by/) [human](/en/post/human/) [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "Archaeologists [study](/en/post/study/) [ancient](/en/post/ancient/) artifacts [to](/en/post/to/) [learn](/en/post/learn/) [about](/en/post/about/) [past](/en/post/past/) civilizations."
+### [Noun](/post/noun/)
+1. **[Product](/post/product/)**: [A](/post/a/) tangible [or](/post/or/) intangible [item](/post/item/) resulting [from](/post/from/) [a](/post/a/) manufacturing, creation, [or](/post/or/) [process](/post/process/), [often](/post/often/) sold [for](/post/for/) [commercial](/post/commercial/) [use](/post/use/) [or](/post/or/) [consumption](/post/consumption/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's latest [product](/post/product/) is [a](/post/a/) state-of-the-art smartphone."
+2. **[Outcome](/post/outcome/)**: [The](/post/the/) [result](/post/result/) [of](/post/of/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [effort](/post/effort/), [especially](/post/especially/) [in](/post/in/) terms [of](/post/of/) [quality](/post/quality/) [or](/post/or/) [success](/post/success/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) project's [success](/post/success/) was measured [by](/post/by/) [its](/post/its/) [end](/post/end/) [product](/post/product/)."
+3. **Artifact**: An [object](/post/object/) made [or](/post/or/) produced [by](/post/by/) [human](/post/human/) [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "Archaeologists [study](/post/study/) [ancient](/post/ancient/) artifacts [to](/post/to/) [learn](/post/learn/) [about](/post/about/) [past](/post/past/) civilizations."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [bring](/en/post/bring/) [forth](/en/post/forth/) [a](/en/post/a/) finished [item](/en/post/item/) [or](/en/post/or/) [outcome](/en/post/outcome/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) engineers worked tirelessly [to](/en/post/to/) [product](/en/post/product/) [a](/en/post/a/) [new](/en/post/new/) [car](/en/post/car/) [model](/en/post/model/)."
-2. [To](/en/post/to/) [generate](/en/post/generate/) [or](/en/post/or/) [contribute](/en/post/contribute/) [to](/en/post/to/) [a](/en/post/a/) [result](/en/post/result/) [or](/en/post/or/) [effect](/en/post/effect/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) marketing [strategy](/en/post/strategy/) [really](/en/post/really/) products sales [growth](/en/post/growth/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [create](/post/create/) [or](/post/or/) [bring](/post/bring/) [forth](/post/forth/) [a](/post/a/) finished [item](/post/item/) [or](/post/or/) [outcome](/post/outcome/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) engineers worked tirelessly [to](/post/to/) [product](/post/product/) [a](/post/a/) [new](/post/new/) [car](/post/car/) [model](/post/model/)."
+2. [To](/post/to/) [generate](/post/generate/) [or](/post/or/) [contribute](/post/contribute/) [to](/post/to/) [a](/post/a/) [result](/post/result/) [or](/post/or/) [effect](/post/effect/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) marketing [strategy](/post/strategy/) [really](/post/really/) products sales [growth](/post/growth/)."
 
 ## Phrases
-- "[A](/en/post/a/) [product](/en/post/product/) [of](/en/post/of/) [their](/en/post/their/) [environment](/en/post/environment/)" refers [to](/en/post/to/) [something](/en/post/something/) shaped [by](/en/post/by/) [the](/en/post/the/) conditions [in](/en/post/in/) [which](/en/post/which/) [it](/en/post/it/) was created.
-- "High-quality products" are [those](/en/post/those/) [that](/en/post/that/) [meet](/en/post/meet/) [or](/en/post/or/) [exceed](/en/post/exceed/) expectations [in](/en/post/in/) terms [of](/en/post/of/) [performance](/en/post/performance/) [or](/en/post/or/) durability.
-- "[The](/en/post/the/) [end](/en/post/end/) [product](/en/post/product/)" is [the](/en/post/the/) [final](/en/post/final/) [result](/en/post/result/) [or](/en/post/or/) [outcome](/en/post/outcome/) [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/).
+- "[A](/post/a/) [product](/post/product/) [of](/post/of/) [their](/post/their/) [environment](/post/environment/)" refers [to](/post/to/) [something](/post/something/) shaped [by](/post/by/) [the](/post/the/) conditions [in](/post/in/) [which](/post/which/) [it](/post/it/) was created.
+- "High-quality products" are [those](/post/those/) [that](/post/that/) [meet](/post/meet/) [or](/post/or/) [exceed](/post/exceed/) expectations [in](/post/in/) terms [of](/post/of/) [performance](/post/performance/) [or](/post/or/) durability.
+- "[The](/post/the/) [end](/post/end/) [product](/post/product/)" is [the](/post/the/) [final](/post/final/) [result](/post/result/) [or](/post/or/) [outcome](/post/outcome/) [of](/post/of/) [a](/post/a/) [process](/post/process/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [factory](/en/post/factory/) produces [a](/en/post/a/) [wide](/en/post/wide/) [variety](/en/post/variety/) [of](/en/post/of/) consumer products."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) chef's culinary skills [produce](/en/post/produce/) amazing dishes [every](/en/post/every/) [night](/en/post/night/)."
-- **Interjection**: "Wow, [the](/en/post/the/) company's [product](/en/post/product/) [line](/en/post/line/) has [really](/en/post/really/) taken [off](/en/post/off/)!"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [factory](/post/factory/) produces [a](/post/a/) [wide](/post/wide/) [variety](/post/variety/) [of](/post/of/) consumer products."
+- **[Verb](/post/verb/)**: "[The](/post/the/) chef's culinary skills [produce](/post/produce/) amazing dishes [every](/post/every/) [night](/post/night/)."
+- **Interjection**: "Wow, [the](/post/the/) company's [product](/post/product/) [line](/post/line/) has [really](/post/really/) taken [off](/post/off/)!"
 
 ## Synonyms
-- [Output](/en/post/output/)
-- [Result](/en/post/result/)
+- [Output](/post/output/)
+- [Result](/post/result/)
 - Creation
 - Artifact
-- [End](/en/post/end/) [result](/en/post/result/)
-- [Yield](/en/post/yield/)
-- [Outcome](/en/post/outcome/)
-- [Production](/en/post/production/)
+- [End](/post/end/) [result](/post/result/)
+- [Yield](/post/yield/)
+- [Outcome](/post/outcome/)
+- [Production](/post/production/)
 - Merchandise
-- [Item](/en/post/item/)
+- [Item](/post/item/)

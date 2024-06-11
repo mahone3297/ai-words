@@ -7,33 +7,33 @@ description = '[ˈpɑːsl] n.包裹，小包，邮包'
 keywords = ['ai words', 'parcel']
 +++
 
-## [Word](/en/post/word/): [Parcel](/en/post/parcel/)
+## [Word](/post/word/): [Parcel](/post/parcel/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈpɑːrsəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) wrapped [or](/en/post/or/) packaged [object](/en/post/object/), [usually](/en/post/usually/) smaller [than](/en/post/than/) [a](/en/post/a/) [box](/en/post/box/), sent [or](/en/post/or/) delivered [by](/en/post/by/) [post](/en/post/post/) [or](/en/post/or/) carried [by](/en/post/by/) [hand](/en/post/hand/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) received [a](/en/post/a/) [small](/en/post/small/) [parcel](/en/post/parcel/) [from](/en/post/from/) [her](/en/post/her/) [grandmother](/en/post/grandmother/) containing homemade cookies."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [wrap](/en/post/wrap/) [or](/en/post/or/) [package](/en/post/package/) [something](/en/post/something/) securely, typically [for](/en/post/for/) sending [or](/en/post/or/) delivering. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) carefully parcelled [up](/en/post/up/) [the](/en/post/the/) fragile [vase](/en/post/vase/) [in](/en/post/in/) [bubble](/en/post/bubble/) [wrap](/en/post/wrap/) [before](/en/post/before/) posting [it](/en/post/it/)."
-- **[Noun](/en/post/noun/) ([in](/en/post/in/) [a](/en/post/a/) [different](/en/post/different/) [sense](/en/post/sense/))**: [A](/en/post/a/) [portion](/en/post/portion/) [or](/en/post/or/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) is divided [or](/en/post/or/) apportioned; [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [land](/en/post/land/) [or](/en/post/or/) [property](/en/post/property/). [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) sibling inherited [a](/en/post/a/) [parcel](/en/post/parcel/) [of](/en/post/of/) [land](/en/post/land/) [from](/en/post/from/) [their](/en/post/their/) [father](/en/post/father/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) wrapped [or](/post/or/) packaged [object](/post/object/), [usually](/post/usually/) smaller [than](/post/than/) [a](/post/a/) [box](/post/box/), sent [or](/post/or/) delivered [by](/post/by/) [post](/post/post/) [or](/post/or/) carried [by](/post/by/) [hand](/post/hand/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) received [a](/post/a/) [small](/post/small/) [parcel](/post/parcel/) [from](/post/from/) [her](/post/her/) [grandmother](/post/grandmother/) containing homemade cookies."
+- **[Verb](/post/verb/)**: [To](/post/to/) [wrap](/post/wrap/) [or](/post/or/) [package](/post/package/) [something](/post/something/) securely, typically [for](/post/for/) sending [or](/post/or/) delivering. [For](/post/for/) [example](/post/example/): "[He](/post/he/) carefully parcelled [up](/post/up/) [the](/post/the/) fragile [vase](/post/vase/) [in](/post/in/) [bubble](/post/bubble/) [wrap](/post/wrap/) [before](/post/before/) posting [it](/post/it/)."
+- **[Noun](/post/noun/) ([in](/post/in/) [a](/post/a/) [different](/post/different/) [sense](/post/sense/))**: [A](/post/a/) [portion](/post/portion/) [or](/post/or/) [part](/post/part/) [of](/post/of/) [something](/post/something/) [that](/post/that/) is divided [or](/post/or/) apportioned; [often](/post/often/) [used](/post/used/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) [land](/post/land/) [or](/post/or/) [property](/post/property/). [For](/post/for/) [example](/post/example/): "[Each](/post/each/) sibling inherited [a](/post/a/) [parcel](/post/parcel/) [of](/post/of/) [land](/post/land/) [from](/post/from/) [their](/post/their/) [father](/post/father/)."
 
 ## Phrases
-- "[Parcel](/en/post/parcel/) [post](/en/post/post/)" refers [to](/en/post/to/) [a](/en/post/a/) postal [service](/en/post/service/) [for](/en/post/for/) sending packages [or](/en/post/or/) parcels.
-- "[To](/en/post/to/) [parcel](/en/post/parcel/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) [distribute](/en/post/distribute/) [or](/en/post/or/) [divide](/en/post/divide/) [something](/en/post/something/) [among](/en/post/among/) [several](/en/post/several/) recipients. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) parceled [out](/en/post/out/) [the](/en/post/the/) sweets equally [among](/en/post/among/) [the](/en/post/the/) children."
-- "[A](/en/post/a/) [hot](/en/post/hot/) [parcel](/en/post/parcel/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [for](/en/post/for/) [a](/en/post/a/) stolen [item](/en/post/item/), [especially](/en/post/especially/) [a](/en/post/a/) [car](/en/post/car/).
+- "[Parcel](/post/parcel/) [post](/post/post/)" refers [to](/post/to/) [a](/post/a/) postal [service](/post/service/) [for](/post/for/) sending packages [or](/post/or/) parcels.
+- "[To](/post/to/) [parcel](/post/parcel/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) [distribute](/post/distribute/) [or](/post/or/) [divide](/post/divide/) [something](/post/something/) [among](/post/among/) [several](/post/several/) recipients. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) parceled [out](/post/out/) [the](/post/the/) sweets equally [among](/post/among/) [the](/post/the/) children."
+- "[A](/post/a/) [hot](/post/hot/) [parcel](/post/parcel/)" is [a](/post/a/) colloquial [expression](/post/expression/) [for](/post/for/) [a](/post/a/) stolen [item](/post/item/), [especially](/post/especially/) [a](/post/a/) [car](/post/car/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([package](/en/post/package/))**: "I'm expecting [a](/en/post/a/) [parcel](/en/post/parcel/) [from](/en/post/from/) Amazon [today](/en/post/today/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) spent [the](/en/post/the/) [morning](/en/post/morning/) parceling [up](/en/post/up/) Christmas gifts [to](/en/post/to/) [send](/en/post/send/) [to](/en/post/to/) relatives [abroad](/en/post/abroad/)."
-- **[Noun](/en/post/noun/) ([land](/en/post/land/) [division](/en/post/division/))**: "[The](/en/post/the/) developer plans [to](/en/post/to/) [build](/en/post/build/) houses [on](/en/post/on/) [the](/en/post/the/) [new](/en/post/new/) [parcel](/en/post/parcel/) [of](/en/post/of/) [land](/en/post/land/) [they](/en/post/they/) purchased."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([package](/post/package/))**: "I'm expecting [a](/post/a/) [parcel](/post/parcel/) [from](/post/from/) Amazon [today](/post/today/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) spent [the](/post/the/) [morning](/post/morning/) parceling [up](/post/up/) Christmas gifts [to](/post/to/) [send](/post/send/) [to](/post/to/) relatives [abroad](/post/abroad/)."
+- **[Noun](/post/noun/) ([land](/post/land/) [division](/post/division/))**: "[The](/post/the/) developer plans [to](/post/to/) [build](/post/build/) houses [on](/post/on/) [the](/post/the/) [new](/post/new/) [parcel](/post/parcel/) [of](/post/of/) [land](/post/land/) [they](/post/they/) purchased."
 
 ## Synonyms
-- [Package](/en/post/package/)
-- [Box](/en/post/box/)
-- [Bundle](/en/post/bundle/)
+- [Package](/post/package/)
+- [Box](/post/box/)
+- [Bundle](/post/bundle/)
 - Consignment
-- [Packet](/en/post/packet/) ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [meaning](/en/post/meaning/) '[a](/en/post/a/) wrapped [or](/en/post/or/) packaged [object](/en/post/object/)')
-- [Divide](/en/post/divide/)
-- [Distribute](/en/post/distribute/)
-- [Portion](/en/post/portion/) [out](/en/post/out/) ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [meaning](/en/post/meaning/) '[to](/en/post/to/) [wrap](/en/post/wrap/) [or](/en/post/or/) [package](/en/post/package/) [something](/en/post/something/)') 
-- Apportion ([for](/en/post/for/) [the](/en/post/the/) [sense](/en/post/sense/) referring [to](/en/post/to/) dividing [a](/en/post/a/) [portion](/en/post/portion/) [of](/en/post/of/) [something](/en/post/something/))
+- [Packet](/post/packet/) ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [meaning](/post/meaning/) '[a](/post/a/) wrapped [or](/post/or/) packaged [object](/post/object/)')
+- [Divide](/post/divide/)
+- [Distribute](/post/distribute/)
+- [Portion](/post/portion/) [out](/post/out/) ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [meaning](/post/meaning/) '[to](/post/to/) [wrap](/post/wrap/) [or](/post/or/) [package](/post/package/) [something](/post/something/)') 
+- Apportion ([for](/post/for/) [the](/post/the/) [sense](/post/sense/) referring [to](/post/to/) dividing [a](/post/a/) [portion](/post/portion/) [of](/post/of/) [something](/post/something/))

@@ -7,39 +7,39 @@ description = '[feə] n.车费，船费，票价'
 keywords = ['ai words', 'fare']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /feər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)** (n): 
-  - [The](/en/post/the/) [price](/en/post/price/) paid [for](/en/post/for/) [a](/en/post/a/) [ride](/en/post/ride/) [on](/en/post/on/) [public](/en/post/public/) [transportation](/en/post/transportation/) [like](/en/post/like/) [a](/en/post/a/) [bus](/en/post/bus/), [train](/en/post/train/), [or](/en/post/or/) [taxi](/en/post/taxi/). [Example](/en/post/example/): "[The](/en/post/the/) [bus](/en/post/bus/) [fare](/en/post/fare/) [from](/en/post/from/) [here](/en/post/here/) [to](/en/post/to/) [the](/en/post/the/) [city](/en/post/city/) center is $2.50."
-  - [The](/en/post/the/) [cost](/en/post/cost/) [of](/en/post/of/) [a](/en/post/a/) [meal](/en/post/meal/) [or](/en/post/or/) refreshments [at](/en/post/at/) [a](/en/post/a/) [restaurant](/en/post/restaurant/) [or](/en/post/or/) [event](/en/post/event/). [Example](/en/post/example/): "[The](/en/post/the/) [dinner](/en/post/dinner/) [fare](/en/post/fare/) included [a](/en/post/a/) three-course [meal](/en/post/meal/) [with](/en/post/with/) [wine](/en/post/wine/) pairings."
-  - [The](/en/post/the/) [food](/en/post/food/) served [or](/en/post/or/) [available](/en/post/available/) [for](/en/post/for/) [consumption](/en/post/consumption/), [especially](/en/post/especially/) [at](/en/post/at/) [a](/en/post/a/) [restaurant](/en/post/restaurant/) [or](/en/post/or/) [on](/en/post/on/) [a](/en/post/a/) [ship](/en/post/ship/). [Example](/en/post/example/): "[The](/en/post/the/) cruise [ship](/en/post/ship/) offered [a](/en/post/a/) sumptuous [variety](/en/post/variety/) [of](/en/post/of/) [fare](/en/post/fare/) [for](/en/post/for/) [its](/en/post/its/) passengers."
+- **[Noun](/post/noun/)** (n): 
+  - [The](/post/the/) [price](/post/price/) paid [for](/post/for/) [a](/post/a/) [ride](/post/ride/) [on](/post/on/) [public](/post/public/) [transportation](/post/transportation/) [like](/post/like/) [a](/post/a/) [bus](/post/bus/), [train](/post/train/), [or](/post/or/) [taxi](/post/taxi/). [Example](/post/example/): "[The](/post/the/) [bus](/post/bus/) [fare](/post/fare/) [from](/post/from/) [here](/post/here/) [to](/post/to/) [the](/post/the/) [city](/post/city/) center is $2.50."
+  - [The](/post/the/) [cost](/post/cost/) [of](/post/of/) [a](/post/a/) [meal](/post/meal/) [or](/post/or/) refreshments [at](/post/at/) [a](/post/a/) [restaurant](/post/restaurant/) [or](/post/or/) [event](/post/event/). [Example](/post/example/): "[The](/post/the/) [dinner](/post/dinner/) [fare](/post/fare/) included [a](/post/a/) three-course [meal](/post/meal/) [with](/post/with/) [wine](/post/wine/) pairings."
+  - [The](/post/the/) [food](/post/food/) served [or](/post/or/) [available](/post/available/) [for](/post/for/) [consumption](/post/consumption/), [especially](/post/especially/) [at](/post/at/) [a](/post/a/) [restaurant](/post/restaurant/) [or](/post/or/) [on](/post/on/) [a](/post/a/) [ship](/post/ship/). [Example](/post/example/): "[The](/post/the/) cruise [ship](/post/ship/) offered [a](/post/a/) sumptuous [variety](/post/variety/) [of](/post/of/) [fare](/post/fare/) [for](/post/for/) [its](/post/its/) passengers."
   
-- **[Verb](/en/post/verb/)** (v):
-  - [To](/en/post/to/) [travel](/en/post/travel/) [or](/en/post/or/) [journey](/en/post/journey/), [usually](/en/post/usually/) paying [for](/en/post/for/) [transportation](/en/post/transportation/). [Example](/en/post/example/): "[We](/en/post/we/) [will](/en/post/will/) [be](/en/post/be/) fareing [across](/en/post/across/) [the](/en/post/the/) [country](/en/post/country/) [by](/en/post/by/) [train](/en/post/train/)."
-  - [To](/en/post/to/) [get](/en/post/get/) [along](/en/post/along/) [or](/en/post/or/) [progress](/en/post/progress/); [to](/en/post/to/) [manage](/en/post/manage/) [or](/en/post/or/) [survive](/en/post/survive/) [under](/en/post/under/) [specific](/en/post/specific/) conditions. [Example](/en/post/example/): "[How](/en/post/how/) are [you](/en/post/you/) faring [during](/en/post/during/) [this](/en/post/this/) challenging [time](/en/post/time/)?"
+- **[Verb](/post/verb/)** (v):
+  - [To](/post/to/) [travel](/post/travel/) [or](/post/or/) [journey](/post/journey/), [usually](/post/usually/) paying [for](/post/for/) [transportation](/post/transportation/). [Example](/post/example/): "[We](/post/we/) [will](/post/will/) [be](/post/be/) fareing [across](/post/across/) [the](/post/the/) [country](/post/country/) [by](/post/by/) [train](/post/train/)."
+  - [To](/post/to/) [get](/post/get/) [along](/post/along/) [or](/post/or/) [progress](/post/progress/); [to](/post/to/) [manage](/post/manage/) [or](/post/or/) [survive](/post/survive/) [under](/post/under/) [specific](/post/specific/) conditions. [Example](/post/example/): "[How](/post/how/) are [you](/post/you/) faring [during](/post/during/) [this](/post/this/) challenging [time](/post/time/)?"
 
 ## Phrases
-- "[Fare](/en/post/fare/) [well](/en/post/well/)" [can](/en/post/can/) [mean](/en/post/mean/) [either](/en/post/either/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [good](/en/post/good/) [journey](/en/post/journey/) [or](/en/post/or/) [to](/en/post/to/) [do](/en/post/do/) [well](/en/post/well/) [in](/en/post/in/) [life](/en/post/life/).
-- "[To](/en/post/to/) [pay](/en/post/pay/) one's [fare](/en/post/fare/)" [means](/en/post/means/) [to](/en/post/to/) [pay](/en/post/pay/) [the](/en/post/the/) required [amount](/en/post/amount/) [for](/en/post/for/) using [a](/en/post/a/) [service](/en/post/service/) [such](/en/post/such/) [as](/en/post/as/) [public](/en/post/public/) [transport](/en/post/transport/).
-- "[At](/en/post/at/) [a](/en/post/a/) [fair](/en/post/fair/) [fare](/en/post/fare/)" implies [that](/en/post/that/) [the](/en/post/the/) [price](/en/post/price/) charged is [reasonable](/en/post/reasonable/) [or](/en/post/or/) [just](/en/post/just/).
+- "[Fare](/post/fare/) [well](/post/well/)" [can](/post/can/) [mean](/post/mean/) [either](/post/either/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [good](/post/good/) [journey](/post/journey/) [or](/post/or/) [to](/post/to/) [do](/post/do/) [well](/post/well/) [in](/post/in/) [life](/post/life/).
+- "[To](/post/to/) [pay](/post/pay/) one's [fare](/post/fare/)" [means](/post/means/) [to](/post/to/) [pay](/post/pay/) [the](/post/the/) required [amount](/post/amount/) [for](/post/for/) using [a](/post/a/) [service](/post/service/) [such](/post/such/) [as](/post/as/) [public](/post/public/) [transport](/post/transport/).
+- "[At](/post/at/) [a](/post/a/) [fair](/post/fair/) [fare](/post/fare/)" implies [that](/post/that/) [the](/post/the/) [price](/post/price/) charged is [reasonable](/post/reasonable/) [or](/post/or/) [just](/post/just/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [airline](/en/post/airline/) increased [its](/en/post/its/) [international](/en/post/international/) fares [due](/en/post/due/) [to](/en/post/to/) rising [fuel](/en/post/fuel/) costs."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) fareing [through](/en/post/through/) [heavy](/en/post/heavy/) [traffic](/en/post/traffic/), [we](/en/post/we/) [finally](/en/post/finally/) arrived [at](/en/post/at/) [our](/en/post/our/) [destination](/en/post/destination/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [airline](/post/airline/) increased [its](/post/its/) [international](/post/international/) fares [due](/post/due/) [to](/post/to/) rising [fuel](/post/fuel/) costs."
+- **[Verb](/post/verb/)**: "[After](/post/after/) fareing [through](/post/through/) [heavy](/post/heavy/) [traffic](/post/traffic/), [we](/post/we/) [finally](/post/finally/) arrived [at](/post/at/) [our](/post/our/) [destination](/post/destination/)."
 
 ## Synonyms
-- **[As](/en/post/as/) [a](/en/post/a/) [Noun](/en/post/noun/)**:
-  - [Transportation](/en/post/transportation/) [cost](/en/post/cost/)
-  - [Charge](/en/post/charge/)
-  - [Price](/en/post/price/)
-  - [Cost](/en/post/cost/)
+- **[As](/post/as/) [a](/post/a/) [Noun](/post/noun/)**:
+  - [Transportation](/post/transportation/) [cost](/post/cost/)
+  - [Charge](/post/charge/)
+  - [Price](/post/price/)
+  - [Cost](/post/cost/)
   
-- **[As](/en/post/as/) [a](/en/post/a/) [Verb](/en/post/verb/)**:
-  - [Journey](/en/post/journey/)
-  - [Travel](/en/post/travel/)
-  - [Proceed](/en/post/proceed/)
+- **[As](/post/as/) [a](/post/a/) [Verb](/post/verb/)**:
+  - [Journey](/post/journey/)
+  - [Travel](/post/travel/)
+  - [Proceed](/post/proceed/)
   - Navigate
-  - [Endure](/en/post/endure/)
-  - [Manage](/en/post/manage/)
+  - [Endure](/post/endure/)
+  - [Manage](/post/manage/)

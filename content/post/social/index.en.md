@@ -7,37 +7,37 @@ description = '[ˈsəu∫əl] a.社会的；社交的'
 keywords = ['ai words', 'social']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səʊʃəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Social](/en/post/social/)**: Referring [to](/en/post/to/) [the](/en/post/the/) [way](/en/post/way/) [people](/en/post/people/) interact [with](/en/post/with/) [each](/en/post/each/) [other](/en/post/other/) [in](/en/post/in/) [society](/en/post/society/), [often](/en/post/often/) involving shared interests [or](/en/post/or/) activities. [Example](/en/post/example/): "[The](/en/post/the/) [social](/en/post/social/) [event](/en/post/event/) was well-attended."
-- **[Social](/en/post/social/) media**: Online platforms [where](/en/post/where/) individuals [connect](/en/post/connect/) [and](/en/post/and/) [share](/en/post/share/) [information](/en/post/information/), typically [for](/en/post/for/) [personal](/en/post/personal/) [or](/en/post/or/) [professional](/en/post/professional/) purposes. [Example](/en/post/example/): "[She](/en/post/she/) updates [her](/en/post/her/) [social](/en/post/social/) media [regularly](/en/post/regularly/)."
+### [Noun](/post/noun/)
+- **[Social](/post/social/)**: Referring [to](/post/to/) [the](/post/the/) [way](/post/way/) [people](/post/people/) interact [with](/post/with/) [each](/post/each/) [other](/post/other/) [in](/post/in/) [society](/post/society/), [often](/post/often/) involving shared interests [or](/post/or/) activities. [Example](/post/example/): "[The](/post/the/) [social](/post/social/) [event](/post/event/) was well-attended."
+- **[Social](/post/social/) media**: Online platforms [where](/post/where/) individuals [connect](/post/connect/) [and](/post/and/) [share](/post/share/) [information](/post/information/), typically [for](/post/for/) [personal](/post/personal/) [or](/post/or/) [professional](/post/professional/) purposes. [Example](/post/example/): "[She](/post/she/) updates [her](/post/her/) [social](/post/social/) media [regularly](/post/regularly/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) socialize**: [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [conversation](/en/post/conversation/), activities, [or](/en/post/or/) relationships [with](/en/post/with/) others [for](/en/post/for/) amusement [or](/en/post/or/) [to](/en/post/to/) [form](/en/post/form/) connections. [Example](/en/post/example/): "[They](/en/post/they/) [enjoy](/en/post/enjoy/) socializing [with](/en/post/with/) friends [over](/en/post/over/) [dinner](/en/post/dinner/) parties."
-- **[Social](/en/post/social/) dynamics**: [The](/en/post/the/) [way](/en/post/way/) [people](/en/post/people/) [behave](/en/post/behave/) [and](/en/post/and/) interact [in](/en/post/in/) [group](/en/post/group/) settings. [Example](/en/post/example/): "[Understanding](/en/post/understanding/) [social](/en/post/social/) dynamics is crucial [in](/en/post/in/) [a](/en/post/a/) workplace."
+### [Verb](/post/verb/)
+- **[To](/post/to/) socialize**: [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [conversation](/post/conversation/), activities, [or](/post/or/) relationships [with](/post/with/) others [for](/post/for/) amusement [or](/post/or/) [to](/post/to/) [form](/post/form/) connections. [Example](/post/example/): "[They](/post/they/) [enjoy](/post/enjoy/) socializing [with](/post/with/) friends [over](/post/over/) [dinner](/post/dinner/) parties."
+- **[Social](/post/social/) dynamics**: [The](/post/the/) [way](/post/way/) [people](/post/people/) [behave](/post/behave/) [and](/post/and/) interact [in](/post/in/) [group](/post/group/) settings. [Example](/post/example/): "[Understanding](/post/understanding/) [social](/post/social/) dynamics is crucial [in](/post/in/) [a](/post/a/) workplace."
 
-### [Adjective](/en/post/adjective/)
-- **Socially**: Relating [to](/en/post/to/) [society](/en/post/society/) [or](/en/post/or/) [its](/en/post/its/) norms; involving [or](/en/post/or/) characterized [by](/en/post/by/) [interaction](/en/post/interaction/) [with](/en/post/with/) others. [Example](/en/post/example/): "She's [a](/en/post/a/) socially [skilled](/en/post/skilled/) diplomat."
-- **Sociable**: Enjoying [the](/en/post/the/) [company](/en/post/company/) [of](/en/post/of/) others [or](/en/post/or/) [easily](/en/post/easily/) adapting [to](/en/post/to/) [social](/en/post/social/) situations. [Example](/en/post/example/): "He's [a](/en/post/a/) [very](/en/post/very/) sociable [person](/en/post/person/) [who](/en/post/who/) loves [to](/en/post/to/) [host](/en/post/host/) gatherings."
+### [Adjective](/post/adjective/)
+- **Socially**: Relating [to](/post/to/) [society](/post/society/) [or](/post/or/) [its](/post/its/) norms; involving [or](/post/or/) characterized [by](/post/by/) [interaction](/post/interaction/) [with](/post/with/) others. [Example](/post/example/): "She's [a](/post/a/) socially [skilled](/post/skilled/) diplomat."
+- **Sociable**: Enjoying [the](/post/the/) [company](/post/company/) [of](/post/of/) others [or](/post/or/) [easily](/post/easily/) adapting [to](/post/to/) [social](/post/social/) situations. [Example](/post/example/): "He's [a](/post/a/) [very](/post/very/) sociable [person](/post/person/) [who](/post/who/) loves [to](/post/to/) [host](/post/host/) gatherings."
 
-### [Adverb](/en/post/adverb/)
-- **Socially**: [In](/en/post/in/) [a](/en/post/a/) [social](/en/post/social/) [manner](/en/post/manner/) [or](/en/post/or/) context. [Example](/en/post/example/): "[He](/en/post/he/) handled [the](/en/post/the/) [situation](/en/post/situation/) socially, avoiding [conflict](/en/post/conflict/)."
+### [Adverb](/post/adverb/)
+- **Socially**: [In](/post/in/) [a](/post/a/) [social](/post/social/) [manner](/post/manner/) [or](/post/or/) context. [Example](/post/example/): "[He](/post/he/) handled [the](/post/the/) [situation](/post/situation/) socially, avoiding [conflict](/post/conflict/)."
 
 ## Phrases
-- "Socialize [with](/en/post/with/) [someone](/en/post/someone/)"
-- "[Maintain](/en/post/maintain/) [social](/en/post/social/) ties"
-- "[A](/en/post/a/) [social](/en/post/social/) [network](/en/post/network/)"
-- "[Social](/en/post/social/) isolation"
-- "[Keep](/en/post/keep/) [up](/en/post/up/) [with](/en/post/with/) [social](/en/post/social/) events"
+- "Socialize [with](/post/with/) [someone](/post/someone/)"
+- "[Maintain](/post/maintain/) [social](/post/social/) ties"
+- "[A](/post/a/) [social](/post/social/) [network](/post/network/)"
+- "[Social](/post/social/) isolation"
+- "[Keep](/post/keep/) [up](/post/up/) [with](/post/with/) [social](/post/social/) events"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) attended [several](/en/post/several/) [social](/en/post/social/) gatherings [this](/en/post/this/) [weekend](/en/post/weekend/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) decided [to](/en/post/to/) socialize [more](/en/post/more/) [after](/en/post/after/) [work](/en/post/work/) [to](/en/post/to/) [build](/en/post/build/) stronger bonds."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) sociable [nature](/en/post/nature/) made [her](/en/post/her/) [popular](/en/post/popular/) [among](/en/post/among/) [her](/en/post/her/) peers."
-- **[Adverb](/en/post/adverb/)**: "He's known [for](/en/post/for/) [his](/en/post/his/) socially [responsible](/en/post/responsible/) [business](/en/post/business/) practices."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) attended [several](/post/several/) [social](/post/social/) gatherings [this](/post/this/) [weekend](/post/weekend/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) decided [to](/post/to/) socialize [more](/post/more/) [after](/post/after/) [work](/post/work/) [to](/post/to/) [build](/post/build/) stronger bonds."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) sociable [nature](/post/nature/) made [her](/post/her/) [popular](/post/popular/) [among](/post/among/) [her](/post/her/) peers."
+- **[Adverb](/post/adverb/)**: "He's known [for](/post/for/) [his](/post/his/) socially [responsible](/post/responsible/) [business](/post/business/) practices."
 
 ## Synonyms
 - Interpersonal
@@ -47,6 +47,6 @@ keywords = ['ai words', 'social']
 - Interactive
 - Community-focused
 - Societal
-- [Friendly](/en/post/friendly/)
+- [Friendly](/post/friendly/)
 - Outgoing
 - gregarious

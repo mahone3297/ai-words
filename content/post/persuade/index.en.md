@@ -7,41 +7,41 @@ description = '[pəˈsweid] vt.说服 vi.被说服'
 keywords = ['ai words', 'persuade']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pərˈsuːd/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [convince](/en/post/convince/) [or](/en/post/or/) [influence](/en/post/influence/) [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), typically [by](/en/post/by/) giving reasons [or](/en/post/or/) using arguments. 
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) persuading [or](/en/post/or/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [persuade](/en/post/persuade/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [convince](/post/convince/) [or](/post/or/) [influence](/post/influence/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/), typically [by](/post/by/) giving reasons [or](/post/or/) using arguments. 
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) persuading [or](/post/or/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [persuade](/post/persuade/).
 
 ## Phrases
-- "[Persuade](/en/post/persuade/) [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [convince](/en/post/convince/) [them](/en/post/them/) [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [particular](/en/post/particular/) [action](/en/post/action/).
-- "Failed [to](/en/post/to/) [persuade](/en/post/persuade/)" indicates [that](/en/post/that/) [someone](/en/post/someone/) was [unable](/en/post/unable/) [to](/en/post/to/) [convince](/en/post/convince/) [another](/en/post/another/) [person](/en/post/person/).
-- "Persuasive [argument](/en/post/argument/)" refers [to](/en/post/to/) [a](/en/post/a/) convincing [reason](/en/post/reason/) [or](/en/post/or/) [explanation](/en/post/explanation/).
+- "[Persuade](/post/persuade/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [convince](/post/convince/) [them](/post/them/) [to](/post/to/) [take](/post/take/) [a](/post/a/) [particular](/post/particular/) [action](/post/action/).
+- "Failed [to](/post/to/) [persuade](/post/persuade/)" indicates [that](/post/that/) [someone](/post/someone/) was [unable](/post/unable/) [to](/post/to/) [convince](/post/convince/) [another](/post/another/) [person](/post/person/).
+- "Persuasive [argument](/post/argument/)" refers [to](/post/to/) [a](/post/a/) convincing [reason](/post/reason/) [or](/post/or/) [explanation](/post/explanation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) persuaded [her](/en/post/her/) [team](/en/post/team/) [to](/en/post/to/) [accept](/en/post/accept/) [the](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/) [proposal](/en/post/proposal/)."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [confident](/en/post/confident/) presentation had [a](/en/post/a/) persuasive [effect](/en/post/effect/) [on](/en/post/on/) [the](/en/post/the/) [audience](/en/post/audience/)."
-- **Phrasal [verb](/en/post/verb/)**: "[The](/en/post/the/) salesperson tried [hard](/en/post/hard/) [to](/en/post/to/) [persuade](/en/post/persuade/) [the](/en/post/the/) [customer](/en/post/customer/) [to](/en/post/to/) [buy](/en/post/buy/) [the](/en/post/the/) [product](/en/post/product/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[She](/post/she/) persuaded [her](/post/her/) [team](/post/team/) [to](/post/to/) [accept](/post/accept/) [the](/post/the/) [new](/post/new/) [project](/post/project/) [proposal](/post/proposal/)."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [confident](/post/confident/) presentation had [a](/post/a/) persuasive [effect](/post/effect/) [on](/post/on/) [the](/post/the/) [audience](/post/audience/)."
+- **Phrasal [verb](/post/verb/)**: "[The](/post/the/) salesperson tried [hard](/post/hard/) [to](/post/to/) [persuade](/post/persuade/) [the](/post/the/) [customer](/post/customer/) [to](/post/to/) [buy](/post/buy/) [the](/post/the/) [product](/post/product/)."
 
 ## Synonyms
-- [Convince](/en/post/convince/)
-- [Influence](/en/post/influence/)
+- [Convince](/post/convince/)
+- [Influence](/post/influence/)
 - Coax
-- [Win](/en/post/win/) [over](/en/post/over/)
+- [Win](/post/win/) [over](/post/over/)
 - Concede
-- [Influence](/en/post/influence/)
-- [Talk](/en/post/talk/) [someone](/en/post/someone/) [into](/en/post/into/)
-- [Influence](/en/post/influence/)
+- [Influence](/post/influence/)
+- [Talk](/post/talk/) [someone](/post/someone/) [into](/post/into/)
+- [Influence](/post/influence/)
 
 ## Antonyms
-- Dispel ([to](/en/post/to/) [undo](/en/post/undo/) persuasion)
-- [Oppose](/en/post/oppose/)
-- [Resist](/en/post/resist/)
-- [Reject](/en/post/reject/)
-- [Deny](/en/post/deny/)
-- [Convince](/en/post/convince/) [against](/en/post/against/) ([opposite](/en/post/opposite/) [meaning](/en/post/meaning/))
+- Dispel ([to](/post/to/) [undo](/post/undo/) persuasion)
+- [Oppose](/post/oppose/)
+- [Resist](/post/resist/)
+- [Reject](/post/reject/)
+- [Deny](/post/deny/)
+- [Convince](/post/convince/) [against](/post/against/) ([opposite](/post/opposite/) [meaning](/post/meaning/))
 
-## [Usage](/en/post/usage/)
-- Persuasion [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [both](/en/post/both/) [formal](/en/post/formal/) [and](/en/post/and/) informal contexts, [often](/en/post/often/) involving [a](/en/post/a/) [skilled](/en/post/skilled/) [communication](/en/post/communication/) [strategy](/en/post/strategy/).
-- It's [common](/en/post/common/) [to](/en/post/to/) [use](/en/post/use/) persuasive [language](/en/post/language/) [when](/en/post/when/) trying [to](/en/post/to/) [influence](/en/post/influence/) someone's [opinion](/en/post/opinion/) [or](/en/post/or/) decision-making [process](/en/post/process/).
+## [Usage](/post/usage/)
+- Persuasion [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [both](/post/both/) [formal](/post/formal/) [and](/post/and/) informal contexts, [often](/post/often/) involving [a](/post/a/) [skilled](/post/skilled/) [communication](/post/communication/) [strategy](/post/strategy/).
+- It's [common](/post/common/) [to](/post/to/) [use](/post/use/) persuasive [language](/post/language/) [when](/post/when/) trying [to](/post/to/) [influence](/post/influence/) someone's [opinion](/post/opinion/) [or](/post/or/) decision-making [process](/post/process/).

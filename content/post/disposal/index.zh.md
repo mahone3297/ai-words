@@ -12,25 +12,25 @@ keywords = ['ai words', 'disposal']
 
 ## 释义
 - **名词**:
-   - 处理；处置：例如 "[The](/post/the/) [proper](/post/proper/) [disposal](/post/disposal/) [of](/post/of/) [waste](/post/waste/) is crucial [for](/post/for/) environmental [protection](/post/protection/)."
-   - 去除；抛弃：例如 "[We](/post/we/) [need](/post/need/) [to](/post/to/) [dispose](/post/dispose/) [of](/post/of/) [these](/post/these/) [old](/post/old/) [furniture](/post/furniture/) items."
-   - 可供使用；支配权：例如 "[She](/post/she/) had [full](/post/full/) [disposal](/post/disposal/) [of](/post/of/) [the](/post/the/) company's resources."
+   - 处理；处置：例如 "[The](/zh/post/the/) [proper](/zh/post/proper/) [disposal](/zh/post/disposal/) [of](/zh/post/of/) [waste](/zh/post/waste/) is crucial [for](/zh/post/for/) environmental [protection](/zh/post/protection/)."
+   - 去除；抛弃：例如 "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [dispose](/zh/post/dispose/) [of](/zh/post/of/) [these](/zh/post/these/) [old](/zh/post/old/) [furniture](/zh/post/furniture/) items."
+   - 可供使用；支配权：例如 "[She](/zh/post/she/) had [full](/zh/post/full/) [disposal](/zh/post/disposal/) [of](/zh/post/of/) [the](/zh/post/the/) company's resources."
 
 - **动词**:
-   - 处理；处置：例如 "[The](/post/the/) [company](/post/company/) disposes [of](/post/of/) [its](/post/its/) [waste](/post/waste/) [through](/post/through/) recycling."
-   - 安排；决定：例如 "[They](/post/they/) disposed [their](/post/their/) [time](/post/time/) wisely [during](/post/during/) [the](/post/the/) [vacation](/post/vacation/)."
+   - 处理；处置：例如 "[The](/zh/post/the/) [company](/zh/post/company/) disposes [of](/zh/post/of/) [its](/zh/post/its/) [waste](/zh/post/waste/) [through](/zh/post/through/) recycling."
+   - 安排；决定：例如 "[They](/zh/post/they/) disposed [their](/zh/post/their/) [time](/zh/post/time/) wisely [during](/zh/post/during/) [the](/zh/post/the/) [vacation](/zh/post/vacation/)."
 
 ## 短语
-- "[at](/post/at/) one's [disposal](/post/disposal/)" 意为可供某人使用：例如 "[All](/post/all/) [the](/post/the/) tools were [at](/post/at/) [his](/post/his/) [disposal](/post/disposal/) [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [project](/post/project/)."
-- "[dispose](/post/dispose/) [of](/post/of/)" 用于处理或去除某物：例如 "[We](/post/we/) [need](/post/need/) [to](/post/to/) [dispose](/post/dispose/) [of](/post/of/) [these](/post/these/) [old](/post/old/) documents securely."
+- "[at](/zh/post/at/) one's [disposal](/zh/post/disposal/)" 意为可供某人使用：例如 "[All](/zh/post/all/) [the](/zh/post/the/) tools were [at](/zh/post/at/) [his](/zh/post/his/) [disposal](/zh/post/disposal/) [to](/zh/post/to/) [complete](/zh/post/complete/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- "[dispose](/zh/post/dispose/) [of](/zh/post/of/)" 用于处理或去除某物：例如 "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [dispose](/zh/post/dispose/) [of](/zh/post/of/) [these](/zh/post/these/) [old](/zh/post/old/) documents securely."
 
 ## 例句
-- 名词: "[The](/post/the/) [city](/post/city/) has implemented [new](/post/new/) policies [for](/post/for/) [waste](/post/waste/) [disposal](/post/disposal/)."
-- 动词: "We'll [dispose](/post/dispose/) [of](/post/of/) [the](/post/the/) damaged [goods](/post/goods/) [before](/post/before/) [the](/post/the/) [inspection](/post/inspection/)."
+- 名词: "[The](/zh/post/the/) [city](/zh/post/city/) has implemented [new](/zh/post/new/) policies [for](/zh/post/for/) [waste](/zh/post/waste/) [disposal](/zh/post/disposal/)."
+- 动词: "We'll [dispose](/zh/post/dispose/) [of](/zh/post/of/) [the](/zh/post/the/) damaged [goods](/zh/post/goods/) [before](/zh/post/before/) [the](/zh/post/the/) [inspection](/zh/post/inspection/)."
   
 ## 同义词
 - Handling
-- [Management](/post/management/)
-- [Elimination](/post/elimination/)
+- [Management](/zh/post/management/)
+- [Elimination](/zh/post/elimination/)
 - Riddance
-- [Settlement](/post/settlement/)
+- [Settlement](/zh/post/settlement/)

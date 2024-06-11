@@ -7,37 +7,37 @@ description = '[tuːl] n.工具，器具，用具'
 keywords = ['ai words', 'tool']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtuːl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Tool](/en/post/tool/)**: [A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) implement [used](/en/post/used/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/), [often](/en/post/often/) [manual](/en/post/manual/), [to](/en/post/to/) [perform](/en/post/perform/) tasks [or](/en/post/or/) [work](/en/post/work/) [on](/en/post/on/) objects. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) carpenter's toolbox contained [various](/en/post/various/) tools [for](/en/post/for/) [his](/en/post/his/) [trade](/en/post/trade/)."
-2. **Software [Tool](/en/post/tool/)**: [A](/en/post/a/) [program](/en/post/program/) [or](/en/post/or/) [application](/en/post/application/) designed [to](/en/post/to/) [help](/en/post/help/) users [accomplish](/en/post/accomplish/) [a](/en/post/a/) [particular](/en/post/particular/) [task](/en/post/task/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [word](/en/post/word/) processor [or](/en/post/or/) graphic [design](/en/post/design/) software. [For](/en/post/for/) [example](/en/post/example/): "Microsoft Excel is [a](/en/post/a/) [popular](/en/post/popular/) spreadsheet [tool](/en/post/tool/) [for](/en/post/for/) [data](/en/post/data/) [analysis](/en/post/analysis/)."
+### [Noun](/post/noun/)
+1. **[Tool](/post/tool/)**: [A](/post/a/) [device](/post/device/) [or](/post/or/) implement [used](/post/used/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/), [often](/post/often/) [manual](/post/manual/), [to](/post/to/) [perform](/post/perform/) tasks [or](/post/or/) [work](/post/work/) [on](/post/on/) objects. [For](/post/for/) [example](/post/example/): "[The](/post/the/) carpenter's toolbox contained [various](/post/various/) tools [for](/post/for/) [his](/post/his/) [trade](/post/trade/)."
+2. **Software [Tool](/post/tool/)**: [A](/post/a/) [program](/post/program/) [or](/post/or/) [application](/post/application/) designed [to](/post/to/) [help](/post/help/) users [accomplish](/post/accomplish/) [a](/post/a/) [particular](/post/particular/) [task](/post/task/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [word](/post/word/) processor [or](/post/or/) graphic [design](/post/design/) software. [For](/post/for/) [example](/post/example/): "Microsoft Excel is [a](/post/a/) [popular](/post/popular/) spreadsheet [tool](/post/tool/) [for](/post/for/) [data](/post/data/) [analysis](/post/analysis/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [use](/en/post/use/) [or](/en/post/or/) [employ](/en/post/employ/) [a](/en/post/a/) [tool](/en/post/tool/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [used](/en/post/used/) [a](/en/post/a/) screwdriver [to](/en/post/to/) tighten [the](/en/post/the/) screws."
-2. [To](/en/post/to/) [provide](/en/post/provide/) [or](/en/post/or/) [offer](/en/post/offer/) [a](/en/post/a/) [tool](/en/post/tool/) [for](/en/post/for/) [someone](/en/post/someone/) else's [use](/en/post/use/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [provided](/en/post/provided/) [her](/en/post/her/) students [with](/en/post/with/) [the](/en/post/the/) [necessary](/en/post/necessary/) tools [for](/en/post/for/) [their](/en/post/their/) [project](/en/post/project/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [use](/post/use/) [or](/post/or/) [employ](/post/employ/) [a](/post/a/) [tool](/post/tool/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) [used](/post/used/) [a](/post/a/) screwdriver [to](/post/to/) tighten [the](/post/the/) screws."
+2. [To](/post/to/) [provide](/post/provide/) [or](/post/or/) [offer](/post/offer/) [a](/post/a/) [tool](/post/tool/) [for](/post/for/) [someone](/post/someone/) else's [use](/post/use/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [provided](/post/provided/) [her](/post/her/) students [with](/post/with/) [the](/post/the/) [necessary](/post/necessary/) tools [for](/post/for/) [their](/post/their/) [project](/post/project/)."
 
-### [Adjective](/en/post/adjective/)
-Referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) facilitates [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) serves [as](/en/post/as/) [a](/en/post/a/) [means](/en/post/means/) [to](/en/post/to/) an [end](/en/post/end/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's marketing [strategy](/en/post/strategy/) was [a](/en/post/a/) [powerful](/en/post/powerful/) [tool](/en/post/tool/) [for](/en/post/for/) [customer](/en/post/customer/) acquisition."
+### [Adjective](/post/adjective/)
+Referring [to](/post/to/) [something](/post/something/) [that](/post/that/) facilitates [a](/post/a/) [task](/post/task/) [or](/post/or/) serves [as](/post/as/) [a](/post/a/) [means](/post/means/) [to](/post/to/) an [end](/post/end/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's marketing [strategy](/post/strategy/) was [a](/post/a/) [powerful](/post/powerful/) [tool](/post/tool/) [for](/post/for/) [customer](/post/customer/) acquisition."
 
 ## Phrases
-- "[A](/en/post/a/) [tool](/en/post/tool/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/)" signifies [a](/en/post/a/) [suitable](/en/post/suitable/) [instrument](/en/post/instrument/) [or](/en/post/or/) [method](/en/post/method/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [task](/en/post/task/).
-- "Using [the](/en/post/the/) [right](/en/post/right/) [tool](/en/post/tool/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/)" emphasizes selecting [the](/en/post/the/) [appropriate](/en/post/appropriate/) [instrument](/en/post/instrument/) [or](/en/post/or/) [approach](/en/post/approach/).
-- "[A](/en/post/a/) Swiss [Army](/en/post/army/) [Knife](/en/post/knife/) is [a](/en/post/a/) multitool" highlights [a](/en/post/a/) versatile [tool](/en/post/tool/) [with](/en/post/with/) [many](/en/post/many/) functions.
+- "[A](/post/a/) [tool](/post/tool/) [for](/post/for/) [the](/post/the/) [job](/post/job/)" signifies [a](/post/a/) [suitable](/post/suitable/) [instrument](/post/instrument/) [or](/post/or/) [method](/post/method/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [task](/post/task/).
+- "Using [the](/post/the/) [right](/post/right/) [tool](/post/tool/) [for](/post/for/) [the](/post/the/) [job](/post/job/)" emphasizes selecting [the](/post/the/) [appropriate](/post/appropriate/) [instrument](/post/instrument/) [or](/post/or/) [approach](/post/approach/).
+- "[A](/post/a/) Swiss [Army](/post/army/) [Knife](/post/knife/) is [a](/post/a/) multitool" highlights [a](/post/a/) versatile [tool](/post/tool/) [with](/post/with/) [many](/post/many/) functions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) plumber brought [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) tools [to](/en/post/to/) [fix](/en/post/fix/) [the](/en/post/the/) [leak](/en/post/leak/)."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [find](/en/post/find/) [a](/en/post/a/) [better](/en/post/better/) [tool](/en/post/tool/) [to](/en/post/to/) [remove](/en/post/remove/) [the](/en/post/the/) nails."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [writing](/en/post/writing/) skills were [a](/en/post/a/) [valuable](/en/post/valuable/) [tool](/en/post/tool/) [in](/en/post/in/) [her](/en/post/her/) [career](/en/post/career/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) plumber brought [a](/post/a/) [variety](/post/variety/) [of](/post/of/) tools [to](/post/to/) [fix](/post/fix/) [the](/post/the/) [leak](/post/leak/)."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [find](/post/find/) [a](/post/a/) [better](/post/better/) [tool](/post/tool/) [to](/post/to/) [remove](/post/remove/) [the](/post/the/) nails."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [writing](/post/writing/) skills were [a](/post/a/) [valuable](/post/valuable/) [tool](/post/tool/) [in](/post/in/) [her](/post/her/) [career](/post/career/)."
 
 ## Synonyms
-- [Instrument](/en/post/instrument/)
-- [Apparatus](/en/post/apparatus/)
+- [Instrument](/post/instrument/)
+- [Apparatus](/post/apparatus/)
 - Implement
-- [Device](/en/post/device/)
-- [Aid](/en/post/aid/)
+- [Device](/post/device/)
+- [Aid](/post/aid/)
 - utensil
 - facilitator
-- [resource](/en/post/resource/)
+- [resource](/post/resource/)

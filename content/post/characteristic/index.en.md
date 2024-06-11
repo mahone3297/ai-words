@@ -7,36 +7,36 @@ description = '[ˌkæriktəˈristik] a.特有的 n.特性'
 keywords = ['ai words', 'characteristic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈtrɪstətɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Characteristic](/en/post/characteristic/)** (n): [A](/en/post/a/) distinguishing trait [or](/en/post/or/) [quality](/en/post/quality/) [that](/en/post/that/) is [typical](/en/post/typical/) [or](/en/post/or/) [peculiar](/en/post/peculiar/) [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [kindness](/en/post/kindness/) was [a](/en/post/a/) defining [characteristic](/en/post/characteristic/) [of](/en/post/of/) [her](/en/post/her/) personality."
-2. **[Feature](/en/post/feature/)** (n): [A](/en/post/a/) [noticeable](/en/post/noticeable/) [aspect](/en/post/aspect/) [or](/en/post/or/) [element](/en/post/element/) [of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/), [place](/en/post/place/), [or](/en/post/or/) [thing](/en/post/thing/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) antique [house](/en/post/house/) had [many](/en/post/many/) [unique](/en/post/unique/) architectural characteristics."
-3. **[Mark](/en/post/mark/)** (n): [A](/en/post/a/) [sign](/en/post/sign/) [or](/en/post/or/) [indication](/en/post/indication/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) book's [title](/en/post/title/) was [a](/en/post/a/) distinctive [characteristic](/en/post/characteristic/) [of](/en/post/of/) [its](/en/post/its/) genre."
+### [Noun](/post/noun/)
+1. **[Characteristic](/post/characteristic/)** (n): [A](/post/a/) distinguishing trait [or](/post/or/) [quality](/post/quality/) [that](/post/that/) is [typical](/post/typical/) [or](/post/or/) [peculiar](/post/peculiar/) [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [kindness](/post/kindness/) was [a](/post/a/) defining [characteristic](/post/characteristic/) [of](/post/of/) [her](/post/her/) personality."
+2. **[Feature](/post/feature/)** (n): [A](/post/a/) [noticeable](/post/noticeable/) [aspect](/post/aspect/) [or](/post/or/) [element](/post/element/) [of](/post/of/) [a](/post/a/) [person](/post/person/), [place](/post/place/), [or](/post/or/) [thing](/post/thing/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) antique [house](/post/house/) had [many](/post/many/) [unique](/post/unique/) architectural characteristics."
+3. **[Mark](/post/mark/)** (n): [A](/post/a/) [sign](/post/sign/) [or](/post/or/) [indication](/post/indication/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) book's [title](/post/title/) was [a](/post/a/) distinctive [characteristic](/post/characteristic/) [of](/post/of/) [its](/post/its/) genre."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [be](/en/post/be/) **[characteristic](/en/post/characteristic/)** [of](/en/post/of/) (v): [To](/en/post/to/) [exhibit](/en/post/exhibit/) [a](/en/post/a/) [particular](/en/post/particular/) [quality](/en/post/quality/) [or](/en/post/or/) trait [as](/en/post/as/) [typical](/en/post/typical/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) humor is [often](/en/post/often/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [his](/en/post/his/) [positive](/en/post/positive/) [outlook](/en/post/outlook/) [on](/en/post/on/) [life](/en/post/life/)."
-2. [To](/en/post/to/) [possess](/en/post/possess/) [a](/en/post/a/) **distinctive [characteristic](/en/post/characteristic/)** (v): [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) notable [feature](/en/post/feature/) [or](/en/post/or/) [quality](/en/post/quality/) [that](/en/post/that/) sets [one](/en/post/one/) [apart](/en/post/apart/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [wine](/en/post/wine/) is characterized [by](/en/post/by/) [its](/en/post/its/) [rich](/en/post/rich/) flavor."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [be](/post/be/) **[characteristic](/post/characteristic/)** [of](/post/of/) (v): [To](/post/to/) [exhibit](/post/exhibit/) [a](/post/a/) [particular](/post/particular/) [quality](/post/quality/) [or](/post/or/) trait [as](/post/as/) [typical](/post/typical/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) humor is [often](/post/often/) [characteristic](/post/characteristic/) [of](/post/of/) [his](/post/his/) [positive](/post/positive/) [outlook](/post/outlook/) [on](/post/on/) [life](/post/life/)."
+2. [To](/post/to/) [possess](/post/possess/) [a](/post/a/) **distinctive [characteristic](/post/characteristic/)** (v): [To](/post/to/) [have](/post/have/) [a](/post/a/) notable [feature](/post/feature/) [or](/post/or/) [quality](/post/quality/) [that](/post/that/) sets [one](/post/one/) [apart](/post/apart/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [wine](/post/wine/) is characterized [by](/post/by/) [its](/post/its/) [rich](/post/rich/) flavor."
 
 ## Phrases
-- "[A](/en/post/a/) distinctive [characteristic](/en/post/characteristic/)" emphasizes [a](/en/post/a/) [unique](/en/post/unique/) [quality](/en/post/quality/).
-- "[The](/en/post/the/) painting's [color](/en/post/color/) palette was [a](/en/post/a/) defining [characteristic](/en/post/characteristic/)."
-- "[Her](/en/post/her/) [laughter](/en/post/laughter/) was [a](/en/post/a/) telltale [characteristic](/en/post/characteristic/)."
+- "[A](/post/a/) distinctive [characteristic](/post/characteristic/)" emphasizes [a](/post/a/) [unique](/post/unique/) [quality](/post/quality/).
+- "[The](/post/the/) painting's [color](/post/color/) palette was [a](/post/a/) defining [characteristic](/post/characteristic/)."
+- "[Her](/post/her/) [laughter](/post/laughter/) was [a](/post/a/) telltale [characteristic](/post/characteristic/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) book's [plot](/en/post/plot/) was [full](/en/post/full/) [of](/en/post/of/) [unexpected](/en/post/unexpected/) twists, making [it](/en/post/it/) [a](/en/post/a/) [truly](/en/post/truly/) [characteristic](/en/post/characteristic/) [work](/en/post/work/) [of](/en/post/of/) [the](/en/post/the/) [author](/en/post/author/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [climate](/en/post/climate/) [in](/en/post/in/) [this](/en/post/this/) [region](/en/post/region/) is typically characterized [by](/en/post/by/) [long](/en/post/long/), [hot](/en/post/hot/) summers [and](/en/post/and/) [mild](/en/post/mild/) winters."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) man's rugged facial features were [a](/en/post/a/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [his](/en/post/his/) adventurous lifestyle."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) book's [plot](/post/plot/) was [full](/post/full/) [of](/post/of/) [unexpected](/post/unexpected/) twists, making [it](/post/it/) [a](/post/a/) [truly](/post/truly/) [characteristic](/post/characteristic/) [work](/post/work/) [of](/post/of/) [the](/post/the/) [author](/post/author/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [climate](/post/climate/) [in](/post/in/) [this](/post/this/) [region](/post/region/) is typically characterized [by](/post/by/) [long](/post/long/), [hot](/post/hot/) summers [and](/post/and/) [mild](/post/mild/) winters."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) man's rugged facial features were [a](/post/a/) [characteristic](/post/characteristic/) [of](/post/of/) [his](/post/his/) adventurous lifestyle."
 
 ## Synonyms
 - Trait
-- [Quality](/en/post/quality/)
-- [Attribute](/en/post/attribute/)
-- [Feature](/en/post/feature/)
-- [Property](/en/post/property/)
-- [Distinction](/en/post/distinction/)
+- [Quality](/post/quality/)
+- [Attribute](/post/attribute/)
+- [Feature](/post/feature/)
+- [Property](/post/property/)
+- [Distinction](/post/distinction/)
 - Emblem
 -hallmark
-- [Signature](/en/post/signature/)
+- [Signature](/post/signature/)

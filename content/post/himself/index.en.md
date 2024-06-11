@@ -7,33 +7,33 @@ description = '[himˈself] pron.他自己；他亲自'
 keywords = ['ai words', 'himself']
 +++
 
-## [Word](/en/post/word/): [Himself](/en/post/himself/)
+## [Word](/post/word/): [Himself](/post/himself/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhɪmˈself/
 
 ## Definitions
-- **[Pronoun](/en/post/pronoun/) (reflexive)**: [Used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [back](/en/post/back/) [to](/en/post/to/) [a](/en/post/a/) [male](/en/post/male/) [person](/en/post/person/) [previously](/en/post/previously/) mentioned [or](/en/post/or/) [easily](/en/post/easily/) identified, emphasizing [that](/en/post/that/) [the](/en/post/the/) [subject](/en/post/subject/) is acting [alone](/en/post/alone/) [or](/en/post/or/) [on](/en/post/on/) [his](/en/post/his/) [own](/en/post/own/) [behalf](/en/post/behalf/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) dressed [himself](/en/post/himself/) [quickly](/en/post/quickly/) [for](/en/post/for/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **Emphatic [Pronoun](/en/post/pronoun/)**: [Used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [the](/en/post/the/) [subject](/en/post/subject/), [especially](/en/post/especially/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [no](/en/post/no/) [one](/en/post/one/) [else](/en/post/else/) was involved. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [himself](/en/post/himself/) did [not](/en/post/not/) [believe](/en/post/believe/) [the](/en/post/the/) [news](/en/post/news/)."
+- **[Pronoun](/post/pronoun/) (reflexive)**: [Used](/post/used/) [to](/post/to/) [refer](/post/refer/) [back](/post/back/) [to](/post/to/) [a](/post/a/) [male](/post/male/) [person](/post/person/) [previously](/post/previously/) mentioned [or](/post/or/) [easily](/post/easily/) identified, emphasizing [that](/post/that/) [the](/post/the/) [subject](/post/subject/) is acting [alone](/post/alone/) [or](/post/or/) [on](/post/on/) [his](/post/his/) [own](/post/own/) [behalf](/post/behalf/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) dressed [himself](/post/himself/) [quickly](/post/quickly/) [for](/post/for/) [the](/post/the/) [meeting](/post/meeting/)."
+- **Emphatic [Pronoun](/post/pronoun/)**: [Used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [the](/post/the/) [subject](/post/subject/), [especially](/post/especially/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [no](/post/no/) [one](/post/one/) [else](/post/else/) was involved. [For](/post/for/) [example](/post/example/): "[He](/post/he/) [himself](/post/himself/) did [not](/post/not/) [believe](/post/believe/) [the](/post/the/) [news](/post/news/)."
   
 ## Phrases
-- "[By](/en/post/by/) [himself](/en/post/himself/)": [Meaning](/en/post/meaning/) [alone](/en/post/alone/), [without](/en/post/without/) [any](/en/post/any/) assistance [or](/en/post/or/) [company](/en/post/company/). [Example](/en/post/example/): "[He](/en/post/he/) decided [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [by](/en/post/by/) [himself](/en/post/himself/)."
-- "[Himself](/en/post/himself/) included": [To](/en/post/to/) [include](/en/post/include/) [the](/en/post/the/) [male](/en/post/male/) [person](/en/post/person/) [being](/en/post/being/) referred [to](/en/post/to/) [among](/en/post/among/) others. [Example](/en/post/example/): "[All](/en/post/all/) [the](/en/post/the/) boys, [himself](/en/post/himself/) included, were excited [about](/en/post/about/) [the](/en/post/the/) [trip](/en/post/trip/)."
-- "[Do](/en/post/do/) [it](/en/post/it/) [to](/en/post/to/)/[for](/en/post/for/) [oneself](/en/post/oneself/)": [When](/en/post/when/) [someone](/en/post/someone/) performs an [action](/en/post/action/) independently. [Example](/en/post/example/): "[He](/en/post/he/) wanted [to](/en/post/to/) [learn](/en/post/learn/) [how](/en/post/how/) [to](/en/post/to/) [cook](/en/post/cook/) [for](/en/post/for/) [himself](/en/post/himself/)."
+- "[By](/post/by/) [himself](/post/himself/)": [Meaning](/post/meaning/) [alone](/post/alone/), [without](/post/without/) [any](/post/any/) assistance [or](/post/or/) [company](/post/company/). [Example](/post/example/): "[He](/post/he/) decided [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [by](/post/by/) [himself](/post/himself/)."
+- "[Himself](/post/himself/) included": [To](/post/to/) [include](/post/include/) [the](/post/the/) [male](/post/male/) [person](/post/person/) [being](/post/being/) referred [to](/post/to/) [among](/post/among/) others. [Example](/post/example/): "[All](/post/all/) [the](/post/the/) boys, [himself](/post/himself/) included, were excited [about](/post/about/) [the](/post/the/) [trip](/post/trip/)."
+- "[Do](/post/do/) [it](/post/it/) [to](/post/to/)/[for](/post/for/) [oneself](/post/oneself/)": [When](/post/when/) [someone](/post/someone/) performs an [action](/post/action/) independently. [Example](/post/example/): "[He](/post/he/) wanted [to](/post/to/) [learn](/post/learn/) [how](/post/how/) [to](/post/to/) [cook](/post/cook/) [for](/post/for/) [himself](/post/himself/)."
 
-## [Example](/en/post/example/) Sentences
-- **Reflexive [Pronoun](/en/post/pronoun/)**: "[The](/en/post/the/) [boy](/en/post/boy/) tied [his](/en/post/his/) shoes [himself](/en/post/himself/) [this](/en/post/this/) [morning](/en/post/morning/)."
-- **Emphatic [Pronoun](/en/post/pronoun/)**: "[No](/en/post/no/) [one](/en/post/one/) [but](/en/post/but/) [he](/en/post/he/) [himself](/en/post/himself/) [could](/en/post/could/) [have](/en/post/have/) guessed [the](/en/post/the/) [outcome](/en/post/outcome/)."
+## [Example](/post/example/) Sentences
+- **Reflexive [Pronoun](/post/pronoun/)**: "[The](/post/the/) [boy](/post/boy/) tied [his](/post/his/) shoes [himself](/post/himself/) [this](/post/this/) [morning](/post/morning/)."
+- **Emphatic [Pronoun](/post/pronoun/)**: "[No](/post/no/) [one](/post/one/) [but](/post/but/) [he](/post/he/) [himself](/post/himself/) [could](/post/could/) [have](/post/have/) guessed [the](/post/the/) [outcome](/post/outcome/)."
 
 ## Synonyms
-- [Himself](/en/post/himself/) [can](/en/post/can/) [be](/en/post/be/) replaced [with](/en/post/with/) [other](/en/post/other/) reflexive pronouns [in](/en/post/in/) [specific](/en/post/specific/) contexts:
-  - [Oneself](/en/post/oneself/) (gender-neutral)
-  - [Himself](/en/post/himself/) ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [male](/en/post/male/))
-  - [Herself](/en/post/herself/) ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [female](/en/post/female/))
-  - [Itself](/en/post/itself/) ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) non-person entity)
+- [Himself](/post/himself/) [can](/post/can/) [be](/post/be/) replaced [with](/post/with/) [other](/post/other/) reflexive pronouns [in](/post/in/) [specific](/post/specific/) contexts:
+  - [Oneself](/post/oneself/) (gender-neutral)
+  - [Himself](/post/himself/) ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) [male](/post/male/))
+  - [Herself](/post/herself/) ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) [female](/post/female/))
+  - [Itself](/post/itself/) ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) non-person entity)
 
-[However](/en/post/however/), [note](/en/post/note/) [that](/en/post/that/) "[himself](/en/post/himself/)" is [unique](/en/post/unique/) [as](/en/post/as/) an emphatic [pronoun](/en/post/pronoun/), [where](/en/post/where/) [its](/en/post/its/) synonyms [would](/en/post/would/) [be](/en/post/be/) [different](/en/post/different/) ways [to](/en/post/to/) [emphasize](/en/post/emphasize/) [the](/en/post/the/) [same](/en/post/same/) [subject](/en/post/subject/):
+[However](/post/however/), [note](/post/note/) [that](/post/that/) "[himself](/post/himself/)" is [unique](/post/unique/) [as](/post/as/) an emphatic [pronoun](/post/pronoun/), [where](/post/where/) [its](/post/its/) synonyms [would](/post/would/) [be](/post/be/) [different](/post/different/) ways [to](/post/to/) [emphasize](/post/emphasize/) [the](/post/the/) [same](/post/same/) [subject](/post/subject/):
 - Personally
-- [Directly](/en/post/directly/)
+- [Directly](/post/directly/)
 - Specifically
 - Individually

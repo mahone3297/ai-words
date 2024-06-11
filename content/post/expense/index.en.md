@@ -7,33 +7,33 @@ description = '[ikˈspens] n.花费，消费；费用'
 keywords = ['ai words', 'expense']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈspens/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [cost](/en/post/cost/) incurred [in](/en/post/in/) buying [or](/en/post/or/) producing [something](/en/post/something/); [money](/en/post/money/) spent. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's expenses increased [due](/en/post/due/) [to](/en/post/to/) higher [raw](/en/post/raw/) [material](/en/post/material/) costs."
-  - [Financial](/en/post/financial/) [burden](/en/post/burden/) [or](/en/post/or/) [loss](/en/post/loss/): "[The](/en/post/the/) [trip](/en/post/trip/) [abroad](/en/post/abroad/) proved [to](/en/post/to/) [be](/en/post/be/) [quite](/en/post/quite/) an [expense](/en/post/expense/)."
-  - [Something](/en/post/something/) bought [or](/en/post/or/) done [at](/en/post/at/) [great](/en/post/great/) [cost](/en/post/cost/): "[His](/en/post/his/) [good](/en/post/good/) [health](/en/post/health/) is [not](/en/post/not/) an [expense](/en/post/expense/) [he](/en/post/he/) [can](/en/post/can/) [afford](/en/post/afford/) [to](/en/post/to/) [ignore](/en/post/ignore/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [cost](/post/cost/) incurred [in](/post/in/) buying [or](/post/or/) producing [something](/post/something/); [money](/post/money/) spent. [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's expenses increased [due](/post/due/) [to](/post/to/) higher [raw](/post/raw/) [material](/post/material/) costs."
+  - [Financial](/post/financial/) [burden](/post/burden/) [or](/post/or/) [loss](/post/loss/): "[The](/post/the/) [trip](/post/trip/) [abroad](/post/abroad/) proved [to](/post/to/) [be](/post/be/) [quite](/post/quite/) an [expense](/post/expense/)."
+  - [Something](/post/something/) bought [or](/post/or/) done [at](/post/at/) [great](/post/great/) [cost](/post/cost/): "[His](/post/his/) [good](/post/good/) [health](/post/health/) is [not](/post/not/) an [expense](/post/expense/) [he](/post/he/) [can](/post/can/) [afford](/post/afford/) [to](/post/to/) [ignore](/post/ignore/)."
   
-- **[Verb](/en/post/verb/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: [To](/en/post/to/) [spend](/en/post/spend/) [or](/en/post/or/) [pay](/en/post/pay/) [out](/en/post/out/) ([money](/en/post/money/)); incur an [expense](/en/post/expense/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [expense](/en/post/expense/) [their](/en/post/their/) [travel](/en/post/travel/) costs."
+- **[Verb](/post/verb/) ([rarely](/post/rarely/) [used](/post/used/))**: [To](/post/to/) [spend](/post/spend/) [or](/post/or/) [pay](/post/pay/) [out](/post/out/) ([money](/post/money/)); incur an [expense](/post/expense/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [expense](/post/expense/) [their](/post/their/) [travel](/post/travel/) costs."
 
 ## Phrases
-- "[At](/en/post/at/) [the](/en/post/the/) [expense](/en/post/expense/) [of](/en/post/of/)": [Meaning](/en/post/meaning/) causing [harm](/en/post/harm/) [or](/en/post/or/) [loss](/en/post/loss/) [to](/en/post/to/) [something](/en/post/something/) [else](/en/post/else/), [often](/en/post/often/) implying [that](/en/post/that/) [one](/en/post/one/) [thing](/en/post/thing/) benefits [while](/en/post/while/) [another](/en/post/another/) suffers. [Example](/en/post/example/): "Improving [efficiency](/en/post/efficiency/) was achieved [at](/en/post/at/) [the](/en/post/the/) [expense](/en/post/expense/) [of](/en/post/of/) [worker](/en/post/worker/) [satisfaction](/en/post/satisfaction/)."
-- "[Expense](/en/post/expense/) [account](/en/post/account/)": [A](/en/post/a/) [fund](/en/post/fund/) [provided](/en/post/provided/) [by](/en/post/by/) an [employer](/en/post/employer/) [for](/en/post/for/) reimbursing employees' work-related expenditures.
-- "[Under](/en/post/under/) one's [own](/en/post/own/) [expense](/en/post/expense/)": [To](/en/post/to/) [pay](/en/post/pay/) [for](/en/post/for/) [something](/en/post/something/) [oneself](/en/post/oneself/) [without](/en/post/without/) reimbursement.
+- "[At](/post/at/) [the](/post/the/) [expense](/post/expense/) [of](/post/of/)": [Meaning](/post/meaning/) causing [harm](/post/harm/) [or](/post/or/) [loss](/post/loss/) [to](/post/to/) [something](/post/something/) [else](/post/else/), [often](/post/often/) implying [that](/post/that/) [one](/post/one/) [thing](/post/thing/) benefits [while](/post/while/) [another](/post/another/) suffers. [Example](/post/example/): "Improving [efficiency](/post/efficiency/) was achieved [at](/post/at/) [the](/post/the/) [expense](/post/expense/) [of](/post/of/) [worker](/post/worker/) [satisfaction](/post/satisfaction/)."
+- "[Expense](/post/expense/) [account](/post/account/)": [A](/post/a/) [fund](/post/fund/) [provided](/post/provided/) [by](/post/by/) an [employer](/post/employer/) [for](/post/for/) reimbursing employees' work-related expenditures.
+- "[Under](/post/under/) one's [own](/post/own/) [expense](/post/expense/)": [To](/post/to/) [pay](/post/pay/) [for](/post/for/) [something](/post/something/) [oneself](/post/oneself/) [without](/post/without/) reimbursement.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) renovation [project](/en/post/project/) [will](/en/post/will/) [involve](/en/post/involve/) [considerable](/en/post/considerable/) expenses."
-- "[Her](/en/post/her/) [monthly](/en/post/monthly/) [living](/en/post/living/) expenses [include](/en/post/include/) [rent](/en/post/rent/), utilities, [and](/en/post/and/) groceries."
-- **[Verb](/en/post/verb/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: "[The](/en/post/the/) [company](/en/post/company/) chose [to](/en/post/to/) [expense](/en/post/expense/) [the](/en/post/the/) marketing [campaign](/en/post/campaign/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [its](/en/post/its/) [annual](/en/post/annual/) budget."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) renovation [project](/post/project/) [will](/post/will/) [involve](/post/involve/) [considerable](/post/considerable/) expenses."
+- "[Her](/post/her/) [monthly](/post/monthly/) [living](/post/living/) expenses [include](/post/include/) [rent](/post/rent/), utilities, [and](/post/and/) groceries."
+- **[Verb](/post/verb/) ([rarely](/post/rarely/) [used](/post/used/))**: "[The](/post/the/) [company](/post/company/) chose [to](/post/to/) [expense](/post/expense/) [the](/post/the/) marketing [campaign](/post/campaign/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [its](/post/its/) [annual](/post/annual/) budget."
 
 ## Synonyms
-- [Cost](/en/post/cost/)
+- [Cost](/post/cost/)
 - Expenditure
 - Outlay
-- [Charge](/en/post/charge/)
-- [Payment](/en/post/payment/)
+- [Charge](/post/charge/)
+- [Payment](/post/payment/)
 - Toll
-- [Investment](/en/post/investment/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- [Investment](/post/investment/) ([in](/post/in/) [certain](/post/certain/) contexts)
 - Spending
 - Budget

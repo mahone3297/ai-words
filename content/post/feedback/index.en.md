@@ -7,31 +7,31 @@ description = '[ˈfiːdbæk] n.回授，反馈，反应'
 keywords = ['ai words', 'feedback']
 +++
 
-## [Word](/en/post/word/): [Feedback](/en/post/feedback/)
+## [Word](/post/word/): [Feedback](/post/feedback/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfiːdbæk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [Information](/en/post/information/) [about](/en/post/about/) [how](/en/post/how/) [well](/en/post/well/), effectively, [or](/en/post/or/) satisfactorily [something](/en/post/something/) has been done; [especially](/en/post/especially/) [when](/en/post/when/) [used](/en/post/used/) [to](/en/post/to/) [make](/en/post/make/) improvements. _E.g._: "[The](/en/post/the/) [company](/en/post/company/) collected [feedback](/en/post/feedback/) [from](/en/post/from/) customers [to](/en/post/to/) [improve](/en/post/improve/) [its](/en/post/its/) products."
-  - [In](/en/post/in/) [a](/en/post/a/) [technical](/en/post/technical/) context, [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [return](/en/post/return/) [of](/en/post/of/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [output](/en/post/output/) [signal](/en/post/signal/) [in](/en/post/in/) [a](/en/post/a/) [circuit](/en/post/circuit/) [or](/en/post/or/) [system](/en/post/system/) [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) [input](/en/post/input/), [which](/en/post/which/) [can](/en/post/can/) [affect](/en/post/affect/) [the](/en/post/the/) [output](/en/post/output/) [itself](/en/post/itself/).
+- **[Noun](/post/noun/)**: [Information](/post/information/) [about](/post/about/) [how](/post/how/) [well](/post/well/), effectively, [or](/post/or/) satisfactorily [something](/post/something/) has been done; [especially](/post/especially/) [when](/post/when/) [used](/post/used/) [to](/post/to/) [make](/post/make/) improvements. _E.g._: "[The](/post/the/) [company](/post/company/) collected [feedback](/post/feedback/) [from](/post/from/) customers [to](/post/to/) [improve](/post/improve/) [its](/post/its/) products."
+  - [In](/post/in/) [a](/post/a/) [technical](/post/technical/) context, [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [return](/post/return/) [of](/post/of/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [output](/post/output/) [signal](/post/signal/) [in](/post/in/) [a](/post/a/) [circuit](/post/circuit/) [or](/post/or/) [system](/post/system/) [back](/post/back/) [to](/post/to/) [the](/post/the/) [input](/post/input/), [which](/post/which/) [can](/post/can/) [affect](/post/affect/) [the](/post/the/) [output](/post/output/) [itself](/post/itself/).
   
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [provide](/en/post/provide/) [such](/en/post/such/) [information](/en/post/information/), typically [to](/en/post/to/) [someone](/en/post/someone/) [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [help](/en/post/help/) [them](/en/post/them/) [evaluate](/en/post/evaluate/) [or](/en/post/or/) [improve](/en/post/improve/) [their](/en/post/their/) [performance](/en/post/performance/) [or](/en/post/or/) [product](/en/post/product/). _E.g._: "Managers [should](/en/post/should/) [regularly](/en/post/regularly/) [feedback](/en/post/feedback/) [progress](/en/post/progress/) reports [to](/en/post/to/) [the](/en/post/the/) [team](/en/post/team/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [provide](/post/provide/) [such](/post/such/) [information](/post/information/), typically [to](/post/to/) [someone](/post/someone/) [in](/post/in/) [order](/post/order/) [to](/post/to/) [help](/post/help/) [them](/post/them/) [evaluate](/post/evaluate/) [or](/post/or/) [improve](/post/improve/) [their](/post/their/) [performance](/post/performance/) [or](/post/or/) [product](/post/product/). _E.g._: "Managers [should](/post/should/) [regularly](/post/regularly/) [feedback](/post/feedback/) [progress](/post/progress/) reports [to](/post/to/) [the](/post/the/) [team](/post/team/)."
 
 ## Phrases
-- "[Give](/en/post/give/) [feedback](/en/post/feedback/)": [To](/en/post/to/) [offer](/en/post/offer/) one's [opinion](/en/post/opinion/) [or](/en/post/or/) evaluation [on](/en/post/on/) [something](/en/post/something/).
-- "[Feedback](/en/post/feedback/) [loop](/en/post/loop/)": [A](/en/post/a/) [process](/en/post/process/) [where](/en/post/where/) [the](/en/post/the/) [output](/en/post/output/) [of](/en/post/of/) [a](/en/post/a/) [system](/en/post/system/) influences [its](/en/post/its/) [input](/en/post/input/), creating [a](/en/post/a/) [continuous](/en/post/continuous/) [cycle](/en/post/cycle/) [of](/en/post/of/) [improvement](/en/post/improvement/) [or](/en/post/or/) adjustment.
-- "[Request](/en/post/request/) [feedback](/en/post/feedback/)": Asking [for](/en/post/for/) others' opinions [or](/en/post/or/) evaluations [on](/en/post/on/) [your](/en/post/your/) [work](/en/post/work/) [or](/en/post/or/) [performance](/en/post/performance/).
+- "[Give](/post/give/) [feedback](/post/feedback/)": [To](/post/to/) [offer](/post/offer/) one's [opinion](/post/opinion/) [or](/post/or/) evaluation [on](/post/on/) [something](/post/something/).
+- "[Feedback](/post/feedback/) [loop](/post/loop/)": [A](/post/a/) [process](/post/process/) [where](/post/where/) [the](/post/the/) [output](/post/output/) [of](/post/of/) [a](/post/a/) [system](/post/system/) influences [its](/post/its/) [input](/post/input/), creating [a](/post/a/) [continuous](/post/continuous/) [cycle](/post/cycle/) [of](/post/of/) [improvement](/post/improvement/) [or](/post/or/) adjustment.
+- "[Request](/post/request/) [feedback](/post/feedback/)": Asking [for](/post/for/) others' opinions [or](/post/or/) evaluations [on](/post/on/) [your](/post/your/) [work](/post/work/) [or](/post/or/) [performance](/post/performance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Your](/en/post/your/) constructive [feedback](/en/post/feedback/) was instrumental [in](/en/post/in/) refining [our](/en/post/our/) [project](/en/post/project/)."
-- **[Verb](/en/post/verb/)**: "I [will](/en/post/will/) [feedback](/en/post/feedback/) [my](/en/post/my/) thoughts [on](/en/post/on/) [your](/en/post/your/) presentation [after](/en/post/after/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Your](/post/your/) constructive [feedback](/post/feedback/) was instrumental [in](/post/in/) refining [our](/post/our/) [project](/post/project/)."
+- **[Verb](/post/verb/)**: "I [will](/post/will/) [feedback](/post/feedback/) [my](/post/my/) thoughts [on](/post/on/) [your](/post/your/) presentation [after](/post/after/) [the](/post/the/) [meeting](/post/meeting/)."
 
 ## Synonyms
 - Critique
 - Comments
-- [Input](/en/post/input/)
-- [Review](/en/post/review/)
+- [Input](/post/input/)
+- [Review](/post/review/)
 - Evaluation
 - Suggestions
 - Remarks

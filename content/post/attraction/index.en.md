@@ -7,39 +7,39 @@ description = '[əˈtræk∫ən] n.吸引；吸引力；引力'
 keywords = ['ai words', 'attraction']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈtrækʃən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Attraction](/en/post/attraction/)**: [A](/en/post/a/) [natural](/en/post/natural/) [force](/en/post/force/) [that](/en/post/that/) draws objects towards [each](/en/post/each/) [other](/en/post/other/); [often](/en/post/often/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) captures [interest](/en/post/interest/) [or](/en/post/or/) [desire](/en/post/desire/). [Example](/en/post/example/): "[The](/en/post/the/) city's skyline is [a](/en/post/a/) [major](/en/post/major/) [tourist](/en/post/tourist/) [attraction](/en/post/attraction/)."
-2. **[Attraction](/en/post/attraction/)**: [A](/en/post/a/) [place](/en/post/place/), [event](/en/post/event/), [or](/en/post/or/) [exhibit](/en/post/exhibit/) [that](/en/post/that/) is designed [to](/en/post/to/) [draw](/en/post/draw/) visitors [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [interesting](/en/post/interesting/) features [or](/en/post/or/) entertainment [value](/en/post/value/). [Example](/en/post/example/): "[The](/en/post/the/) amusement [park](/en/post/park/) had [several](/en/post/several/) [new](/en/post/new/) attractions [this](/en/post/this/) [year](/en/post/year/)."
-3. **[Attraction](/en/post/attraction/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is appealing [or](/en/post/or/) has [a](/en/post/a/) [strong](/en/post/strong/) [hold](/en/post/hold/) [on](/en/post/on/) [someone](/en/post/someone/) else's affections. [Example](/en/post/example/): "[She](/en/post/she/) was [a](/en/post/a/) [major](/en/post/major/) [attraction](/en/post/attraction/) [at](/en/post/at/) [the](/en/post/the/) [charity](/en/post/charity/) [event](/en/post/event/)."
+### [Noun](/post/noun/)
+1. **[Attraction](/post/attraction/)**: [A](/post/a/) [natural](/post/natural/) [force](/post/force/) [that](/post/that/) draws objects towards [each](/post/each/) [other](/post/other/); [often](/post/often/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) captures [interest](/post/interest/) [or](/post/or/) [desire](/post/desire/). [Example](/post/example/): "[The](/post/the/) city's skyline is [a](/post/a/) [major](/post/major/) [tourist](/post/tourist/) [attraction](/post/attraction/)."
+2. **[Attraction](/post/attraction/)**: [A](/post/a/) [place](/post/place/), [event](/post/event/), [or](/post/or/) [exhibit](/post/exhibit/) [that](/post/that/) is designed [to](/post/to/) [draw](/post/draw/) visitors [due](/post/due/) [to](/post/to/) [its](/post/its/) [interesting](/post/interesting/) features [or](/post/or/) entertainment [value](/post/value/). [Example](/post/example/): "[The](/post/the/) amusement [park](/post/park/) had [several](/post/several/) [new](/post/new/) attractions [this](/post/this/) [year](/post/year/)."
+3. **[Attraction](/post/attraction/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is appealing [or](/post/or/) has [a](/post/a/) [strong](/post/strong/) [hold](/post/hold/) [on](/post/on/) [someone](/post/someone/) else's affections. [Example](/post/example/): "[She](/post/she/) was [a](/post/a/) [major](/post/major/) [attraction](/post/attraction/) [at](/post/at/) [the](/post/the/) [charity](/post/charity/) [event](/post/event/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [be](/en/post/be/) attracted [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/), typically [because](/en/post/because/) [of](/en/post/of/) [their](/en/post/their/) qualities [or](/en/post/or/) features. [Example](/en/post/example/): "[He](/en/post/he/) was [immediately](/en/post/immediately/) attracted [to](/en/post/to/) [her](/en/post/her/) vibrant personality."
+### [Verb](/post/verb/)
+[To](/post/to/) [be](/post/be/) attracted [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/), typically [because](/post/because/) [of](/post/of/) [their](/post/their/) qualities [or](/post/or/) features. [Example](/post/example/): "[He](/post/he/) was [immediately](/post/immediately/) attracted [to](/post/to/) [her](/post/her/) vibrant personality."
 
-### [Adjective](/en/post/adjective/)
-Describing [something](/en/post/something/) [that](/en/post/that/) is compelling, fascinating, [or](/en/post/or/) appealing. [Example](/en/post/example/): "[The](/en/post/the/) museum's exhibits were [highly](/en/post/highly/) [attractive](/en/post/attractive/) [to](/en/post/to/) [art](/en/post/art/) enthusiasts."
+### [Adjective](/post/adjective/)
+Describing [something](/post/something/) [that](/post/that/) is compelling, fascinating, [or](/post/or/) appealing. [Example](/post/example/): "[The](/post/the/) museum's exhibits were [highly](/post/highly/) [attractive](/post/attractive/) [to](/post/to/) [art](/post/art/) enthusiasts."
 
 ## Phrases
-- "[Be](/en/post/be/) attracted [to](/en/post/to/)" implies [a](/en/post/a/) [strong](/en/post/strong/) liking [or](/en/post/or/) [interest](/en/post/interest/).
-- "[Natural](/en/post/natural/) [attraction](/en/post/attraction/)" refers [to](/en/post/to/) an inherent [pull](/en/post/pull/) [between](/en/post/between/) [people](/en/post/people/) [or](/en/post/or/) objects.
-- "[Draw](/en/post/draw/) visitors' [attention](/en/post/attention/)" highlights [the](/en/post/the/) [power](/en/post/power/) [of](/en/post/of/) [something](/en/post/something/) [to](/en/post/to/) [capture](/en/post/capture/) [curiosity](/en/post/curiosity/).
-- "[A](/en/post/a/) [magnet](/en/post/magnet/) [for](/en/post/for/) tourists" describes [a](/en/post/a/) [place](/en/post/place/) [that](/en/post/that/) consistently attracts [many](/en/post/many/) travelers.
+- "[Be](/post/be/) attracted [to](/post/to/)" implies [a](/post/a/) [strong](/post/strong/) liking [or](/post/or/) [interest](/post/interest/).
+- "[Natural](/post/natural/) [attraction](/post/attraction/)" refers [to](/post/to/) an inherent [pull](/post/pull/) [between](/post/between/) [people](/post/people/) [or](/post/or/) objects.
+- "[Draw](/post/draw/) visitors' [attention](/post/attention/)" highlights [the](/post/the/) [power](/post/power/) [of](/post/of/) [something](/post/something/) [to](/post/to/) [capture](/post/capture/) [curiosity](/post/curiosity/).
+- "[A](/post/a/) [magnet](/post/magnet/) [for](/post/for/) tourists" describes [a](/post/a/) [place](/post/place/) [that](/post/that/) consistently attracts [many](/post/many/) travelers.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [local](/en/post/local/) aquarium is [a](/en/post/a/) [major](/en/post/major/) [attraction](/en/post/attraction/) [for](/en/post/for/) families [with](/en/post/with/) children."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [couple](/en/post/couple/) was [instantly](/en/post/instantly/) attracted [to](/en/post/to/) [each](/en/post/each/) other's shared interests."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) redesigned [store](/en/post/store/) had an irresistible [and](/en/post/and/) [modern](/en/post/modern/) aesthetic."
-- **[Adjective](/en/post/adjective/) ([as](/en/post/as/) [a](/en/post/a/) modifier)**: "[Her](/en/post/her/) [magnetic](/en/post/magnetic/) personality was [a](/en/post/a/) [major](/en/post/major/) [attraction](/en/post/attraction/) [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [local](/post/local/) aquarium is [a](/post/a/) [major](/post/major/) [attraction](/post/attraction/) [for](/post/for/) families [with](/post/with/) children."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [couple](/post/couple/) was [instantly](/post/instantly/) attracted [to](/post/to/) [each](/post/each/) other's shared interests."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) redesigned [store](/post/store/) had an irresistible [and](/post/and/) [modern](/post/modern/) aesthetic."
+- **[Adjective](/post/adjective/) ([as](/post/as/) [a](/post/a/) modifier)**: "[Her](/post/her/) [magnetic](/post/magnetic/) personality was [a](/post/a/) [major](/post/major/) [attraction](/post/attraction/) [at](/post/at/) [the](/post/the/) [conference](/post/conference/)."
 
 ## Synonyms
-- [Appeal](/en/post/appeal/)
+- [Appeal](/post/appeal/)
 - Fascination
 - Magnetism
-- [Pull](/en/post/pull/)
-- [Draw](/en/post/draw/)
-- [Interest](/en/post/interest/)
+- [Pull](/post/pull/)
+- [Draw](/post/draw/)
+- [Interest](/post/interest/)
 - Enchantment
-- [Attraction](/en/post/attraction/) [power](/en/post/power/)
+- [Attraction](/post/attraction/) [power](/post/power/)

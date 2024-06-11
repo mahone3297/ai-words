@@ -7,30 +7,30 @@ description = '[spit] vi.吐 vi.吐唾沫'
 keywords = ['ai words', 'spit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /spɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/) globule [of](/en/post/of/) saliva [that](/en/post/that/) is ejected [from](/en/post/from/) [the](/en/post/the/) [mouth](/en/post/mouth/); [also](/en/post/also/), [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) spitting [this](/en/post/this/) [out](/en/post/out/). [Example](/en/post/example/): "[He](/en/post/he/) wiped [the](/en/post/the/) [dirt](/en/post/dirt/) [off](/en/post/off/) [his](/en/post/his/) hands [by](/en/post/by/) spitting [on](/en/post/on/) [them](/en/post/them/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) expel saliva [from](/en/post/from/) [the](/en/post/the/) [mouth](/en/post/mouth/), [often](/en/post/often/) [with](/en/post/with/) [force](/en/post/force/); [to](/en/post/to/) [deposit](/en/post/deposit/) saliva [on](/en/post/on/) [something](/en/post/something/). [Example](/en/post/example/): "[She](/en/post/she/) spat [out](/en/post/out/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [food](/en/post/food/) [that](/en/post/that/) got stuck [in](/en/post/in/) [her](/en/post/her/) teeth."
-- **[Verb](/en/post/verb/) (informal)**: [To](/en/post/to/) [show](/en/post/show/) [contempt](/en/post/contempt/) [or](/en/post/or/) [anger](/en/post/anger/) [by](/en/post/by/) spitting. [Example](/en/post/example/): "[He](/en/post/he/) spat [on](/en/post/on/) [the](/en/post/the/) [ground](/en/post/ground/) [after](/en/post/after/) hearing [the](/en/post/the/) [insult](/en/post/insult/)."
-- **[Verb](/en/post/verb/) (idiomatic)**: [To](/en/post/to/) [communicate](/en/post/communicate/) [or](/en/post/or/) [convey](/en/post/convey/) [a](/en/post/a/) [message](/en/post/message/) tersely [or](/en/post/or/) bluntly. [Example](/en/post/example/): "[He](/en/post/he/) spat [out](/en/post/out/) [his](/en/post/his/) [opinion](/en/post/opinion/) [without](/en/post/without/) sugar-coating [it](/en/post/it/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/) globule [of](/post/of/) saliva [that](/post/that/) is ejected [from](/post/from/) [the](/post/the/) [mouth](/post/mouth/); [also](/post/also/), [the](/post/the/) [act](/post/act/) [of](/post/of/) spitting [this](/post/this/) [out](/post/out/). [Example](/post/example/): "[He](/post/he/) wiped [the](/post/the/) [dirt](/post/dirt/) [off](/post/off/) [his](/post/his/) hands [by](/post/by/) spitting [on](/post/on/) [them](/post/them/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) expel saliva [from](/post/from/) [the](/post/the/) [mouth](/post/mouth/), [often](/post/often/) [with](/post/with/) [force](/post/force/); [to](/post/to/) [deposit](/post/deposit/) saliva [on](/post/on/) [something](/post/something/). [Example](/post/example/): "[She](/post/she/) spat [out](/post/out/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [food](/post/food/) [that](/post/that/) got stuck [in](/post/in/) [her](/post/her/) teeth."
+- **[Verb](/post/verb/) (informal)**: [To](/post/to/) [show](/post/show/) [contempt](/post/contempt/) [or](/post/or/) [anger](/post/anger/) [by](/post/by/) spitting. [Example](/post/example/): "[He](/post/he/) spat [on](/post/on/) [the](/post/the/) [ground](/post/ground/) [after](/post/after/) hearing [the](/post/the/) [insult](/post/insult/)."
+- **[Verb](/post/verb/) (idiomatic)**: [To](/post/to/) [communicate](/post/communicate/) [or](/post/or/) [convey](/post/convey/) [a](/post/a/) [message](/post/message/) tersely [or](/post/or/) bluntly. [Example](/post/example/): "[He](/post/he/) spat [out](/post/out/) [his](/post/his/) [opinion](/post/opinion/) [without](/post/without/) sugar-coating [it](/post/it/)."
 
 ## Phrases
-- "[Spit](/en/post/spit/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) expel [from](/en/post/from/) [the](/en/post/the/) [mouth](/en/post/mouth/).
-- "Spitballing" is [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) brainstorming [or](/en/post/or/) coming [up](/en/post/up/) [with](/en/post/with/) ideas informally.
-- "[Spit](/en/post/spit/) [and](/en/post/and/) [polish](/en/post/polish/)" refers [to](/en/post/to/) [the](/en/post/the/) [final](/en/post/final/) touches given [to](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [look](/en/post/look/) [neat](/en/post/neat/) [and](/en/post/and/) presentable.
+- "[Spit](/post/spit/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) expel [from](/post/from/) [the](/post/the/) [mouth](/post/mouth/).
+- "Spitballing" is [a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) brainstorming [or](/post/or/) coming [up](/post/up/) [with](/post/with/) ideas informally.
+- "[Spit](/post/spit/) [and](/post/and/) [polish](/post/polish/)" refers [to](/post/to/) [the](/post/the/) [final](/post/final/) touches given [to](/post/to/) [make](/post/make/) [something](/post/something/) [look](/post/look/) [neat](/post/neat/) [and](/post/and/) presentable.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [child](/en/post/child/) was fascinated [by](/en/post/by/) [the](/en/post/the/) [way](/en/post/way/) flies [could](/en/post/could/) [spit](/en/post/spit/) [so](/en/post/so/) accurately."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) eating [too](/en/post/too/) [much](/en/post/much/) spicy [food](/en/post/food/), [he](/en/post/he/) had [to](/en/post/to/) [spit](/en/post/spit/) [out](/en/post/out/) [some](/en/post/some/) [of](/en/post/of/) [it](/en/post/it/)."
-- **[Verb](/en/post/verb/) (informal)**: "[When](/en/post/when/) [he](/en/post/he/) [saw](/en/post/saw/) [the](/en/post/the/) [snake](/en/post/snake/), [he](/en/post/he/) spat [in](/en/post/in/) [disgust](/en/post/disgust/)."
-- **[Verb](/en/post/verb/) (idiomatic)**: "[They](/en/post/they/) spent hours spitballing solutions [to](/en/post/to/) [the](/en/post/the/) [problem](/en/post/problem/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [child](/post/child/) was fascinated [by](/post/by/) [the](/post/the/) [way](/post/way/) flies [could](/post/could/) [spit](/post/spit/) [so](/post/so/) accurately."
+- **[Verb](/post/verb/)**: "[After](/post/after/) eating [too](/post/too/) [much](/post/much/) spicy [food](/post/food/), [he](/post/he/) had [to](/post/to/) [spit](/post/spit/) [out](/post/out/) [some](/post/some/) [of](/post/of/) [it](/post/it/)."
+- **[Verb](/post/verb/) (informal)**: "[When](/post/when/) [he](/post/he/) [saw](/post/saw/) [the](/post/the/) [snake](/post/snake/), [he](/post/he/) spat [in](/post/in/) [disgust](/post/disgust/)."
+- **[Verb](/post/verb/) (idiomatic)**: "[They](/post/they/) spent hours spitballing solutions [to](/post/to/) [the](/post/the/) [problem](/post/problem/)."
 
 ## Synonyms
 - Expectorate
 - Expectoration
 - Expectorate (v.)
-- [Cough](/en/post/cough/) [up](/en/post/up/)
+- [Cough](/post/cough/) [up](/post/up/)
 - Disgorge
 - Hurl (informally)

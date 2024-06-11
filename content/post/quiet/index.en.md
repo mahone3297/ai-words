@@ -7,30 +7,30 @@ description = '[ˈkwaiət] a.寂静的；安静的'
 keywords = ['ai words', 'quiet']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkwaɪət/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [noise](/en/post/noise/) [or](/en/post/or/) disturbance; [peaceful](/en/post/peaceful/) [and](/en/post/and/) [calm](/en/post/calm/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [library](/en/post/library/) is [a](/en/post/a/) [quiet](/en/post/quiet/) [place](/en/post/place/) [to](/en/post/to/) [study](/en/post/study/)."
-- **[Noun](/en/post/noun/)**: [Silence](/en/post/silence/) [or](/en/post/or/) stillness; [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [quiet](/en/post/quiet/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [baby](/en/post/baby/) fell [asleep](/en/post/asleep/) amidst [the](/en/post/the/) [soft](/en/post/soft/) [quiet](/en/post/quiet/) [of](/en/post/of/) [the](/en/post/the/) [night](/en/post/night/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [or](/en/post/or/) [become](/en/post/become/) [quiet](/en/post/quiet/); [to](/en/post/to/) [silence](/en/post/silence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) students [to](/en/post/to/) [quiet](/en/post/quiet/) [down](/en/post/down/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [quiet](/en/post/quiet/) [manner](/en/post/manner/); [softly](/en/post/softly/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) whispered [to](/en/post/to/) [avoid](/en/post/avoid/) waking [the](/en/post/the/) [baby](/en/post/baby/), [but](/en/post/but/) [her](/en/post/her/) [voice](/en/post/voice/) was [still](/en/post/still/) [quite](/en/post/quite/) [quiet](/en/post/quiet/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [noise](/post/noise/) [or](/post/or/) disturbance; [peaceful](/post/peaceful/) [and](/post/and/) [calm](/post/calm/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [library](/post/library/) is [a](/post/a/) [quiet](/post/quiet/) [place](/post/place/) [to](/post/to/) [study](/post/study/)."
+- **[Noun](/post/noun/)**: [Silence](/post/silence/) [or](/post/or/) stillness; [a](/post/a/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [quiet](/post/quiet/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [baby](/post/baby/) fell [asleep](/post/asleep/) amidst [the](/post/the/) [soft](/post/soft/) [quiet](/post/quiet/) [of](/post/of/) [the](/post/the/) [night](/post/night/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [or](/post/or/) [become](/post/become/) [quiet](/post/quiet/); [to](/post/to/) [silence](/post/silence/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [quiet](/post/quiet/) [down](/post/down/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [quiet](/post/quiet/) [manner](/post/manner/); [softly](/post/softly/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) whispered [to](/post/to/) [avoid](/post/avoid/) waking [the](/post/the/) [baby](/post/baby/), [but](/post/but/) [her](/post/her/) [voice](/post/voice/) was [still](/post/still/) [quite](/post/quite/) [quiet](/post/quiet/)."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [quiet](/en/post/quiet/)" [means](/en/post/means/) [to](/en/post/to/) [remain](/en/post/remain/) [silent](/en/post/silent/) [or](/en/post/or/) [not](/en/post/not/) [speak](/en/post/speak/).
-- "[Speak](/en/post/speak/) quietly" is [a](/en/post/a/) [request](/en/post/request/) [for](/en/post/for/) [someone](/en/post/someone/) [to](/en/post/to/) [lower](/en/post/lower/) [their](/en/post/their/) [volume](/en/post/volume/).
-- "[A](/en/post/a/) [quiet](/en/post/quiet/) [moment](/en/post/moment/)" refers [to](/en/post/to/) [a](/en/post/a/) [brief](/en/post/brief/) [pause](/en/post/pause/) [or](/en/post/or/) [a](/en/post/a/) serene [atmosphere](/en/post/atmosphere/).
+- "[Keep](/post/keep/) [quiet](/post/quiet/)" [means](/post/means/) [to](/post/to/) [remain](/post/remain/) [silent](/post/silent/) [or](/post/or/) [not](/post/not/) [speak](/post/speak/).
+- "[Speak](/post/speak/) quietly" is [a](/post/a/) [request](/post/request/) [for](/post/for/) [someone](/post/someone/) [to](/post/to/) [lower](/post/lower/) [their](/post/their/) [volume](/post/volume/).
+- "[A](/post/a/) [quiet](/post/quiet/) [moment](/post/moment/)" refers [to](/post/to/) [a](/post/a/) [brief](/post/brief/) [pause](/post/pause/) [or](/post/or/) [a](/post/a/) serene [atmosphere](/post/atmosphere/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) children were [quiet](/en/post/quiet/) [after](/en/post/after/) [their](/en/post/their/) mother's [stern](/en/post/stern/) [look](/en/post/look/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) enjoyed [the](/en/post/the/) [quiet](/en/post/quiet/) [of](/en/post/of/) [the](/en/post/the/) [countryside](/en/post/countryside/) [during](/en/post/during/) [her](/en/post/her/) [vacation](/en/post/vacation/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [baby](/en/post/baby/) quieted [down](/en/post/down/) [when](/en/post/when/) [she](/en/post/she/) heard [her](/en/post/her/) favorite lullaby."
-- **[Adverb](/en/post/adverb/)**: "[Please](/en/post/please/) [be](/en/post/be/) [quiet](/en/post/quiet/) [while](/en/post/while/) [we](/en/post/we/) [listen](/en/post/listen/) [to](/en/post/to/) [the](/en/post/the/) [lecture](/en/post/lecture/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) children were [quiet](/post/quiet/) [after](/post/after/) [their](/post/their/) mother's [stern](/post/stern/) [look](/post/look/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) enjoyed [the](/post/the/) [quiet](/post/quiet/) [of](/post/of/) [the](/post/the/) [countryside](/post/countryside/) [during](/post/during/) [her](/post/her/) [vacation](/post/vacation/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [baby](/post/baby/) quieted [down](/post/down/) [when](/post/when/) [she](/post/she/) heard [her](/post/her/) favorite lullaby."
+- **[Adverb](/post/adverb/)**: "[Please](/post/please/) [be](/post/be/) [quiet](/post/quiet/) [while](/post/while/) [we](/post/we/) [listen](/post/listen/) [to](/post/to/) [the](/post/the/) [lecture](/post/lecture/)."
 
 ## Synonyms
-- [Silent](/en/post/silent/)
-- [Still](/en/post/still/)
-- [Peaceful](/en/post/peaceful/)
+- [Silent](/post/silent/)
+- [Still](/post/still/)
+- [Peaceful](/post/peaceful/)
 - Serene
 - Lullingly
 - Hushed

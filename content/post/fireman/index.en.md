@@ -7,31 +7,31 @@ description = '[ˈfaiəmən] n.消防队员；司炉工'
 keywords = ['ai words', 'fireman']
 +++
 
-## [Word](/en/post/word/): [Fireman](/en/post/fireman/)
+## [Word](/post/word/): [Fireman](/post/fireman/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfaɪərmən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [whose](/en/post/whose/) [job](/en/post/job/) is [to](/en/post/to/) [put](/en/post/put/) [out](/en/post/out/) fires, [especially](/en/post/especially/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) firefighting [service](/en/post/service/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [brave](/en/post/brave/) [fireman](/en/post/fireman/) rescued [people](/en/post/people/) [from](/en/post/from/) [the](/en/post/the/) burning [building](/en/post/building/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [whose](/post/whose/) [job](/post/job/) is [to](/post/to/) [put](/post/put/) [out](/post/out/) fires, [especially](/post/especially/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) firefighting [service](/post/service/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [brave](/post/brave/) [fireman](/post/fireman/) rescued [people](/post/people/) [from](/post/from/) [the](/post/the/) burning [building](/post/building/)."
 
-### [Noun](/en/post/noun/) [usage](/en/post/usage/) examples
-- "[The](/en/post/the/) [fireman](/en/post/fireman/) bravely entered [the](/en/post/the/) blazing inferno [to](/en/post/to/) [save](/en/post/save/) [the](/en/post/the/) trapped residents."
-- "[She](/en/post/she/) has [always](/en/post/always/) dreamed [of](/en/post/of/) becoming [a](/en/post/a/) [fireman](/en/post/fireman/) [since](/en/post/since/) [she](/en/post/she/) was [a](/en/post/a/) [little](/en/post/little/) [girl](/en/post/girl/)."
-- "Firemen [undergo](/en/post/undergo/) rigorous [training](/en/post/training/) [to](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) [their](/en/post/their/) life-saving duties."
+### [Noun](/post/noun/) [usage](/post/usage/) examples
+- "[The](/post/the/) [fireman](/post/fireman/) bravely entered [the](/post/the/) blazing inferno [to](/post/to/) [save](/post/save/) [the](/post/the/) trapped residents."
+- "[She](/post/she/) has [always](/post/always/) dreamed [of](/post/of/) becoming [a](/post/a/) [fireman](/post/fireman/) [since](/post/since/) [she](/post/she/) was [a](/post/a/) [little](/post/little/) [girl](/post/girl/)."
+- "Firemen [undergo](/post/undergo/) rigorous [training](/post/training/) [to](/post/to/) [prepare](/post/prepare/) [for](/post/for/) [their](/post/their/) life-saving duties."
 
 ## Phrases
-- "[Call](/en/post/call/) [the](/en/post/the/) [fireman](/en/post/fireman/)" implies requesting [emergency](/en/post/emergency/) assistance [from](/en/post/from/) [the](/en/post/the/) [fire](/en/post/fire/) [department](/en/post/department/).
-- "[A](/en/post/a/) fireman's [carry](/en/post/carry/)" is [a](/en/post/a/) [method](/en/post/method/) [of](/en/post/of/) carrying an [unconscious](/en/post/unconscious/) [or](/en/post/or/) injured [person](/en/post/person/) [where](/en/post/where/) [they](/en/post/they/) are slung [over](/en/post/over/) [the](/en/post/the/) rescuer's [shoulder](/en/post/shoulder/).
-- "[Fireman](/en/post/fireman/) Sam" is [a](/en/post/a/) [popular](/en/post/popular/) British animated children's [television](/en/post/television/) [series](/en/post/series/) featuring [a](/en/post/a/) firefighter protagonist.
+- "[Call](/post/call/) [the](/post/the/) [fireman](/post/fireman/)" implies requesting [emergency](/post/emergency/) assistance [from](/post/from/) [the](/post/the/) [fire](/post/fire/) [department](/post/department/).
+- "[A](/post/a/) fireman's [carry](/post/carry/)" is [a](/post/a/) [method](/post/method/) [of](/post/of/) carrying an [unconscious](/post/unconscious/) [or](/post/or/) injured [person](/post/person/) [where](/post/where/) [they](/post/they/) are slung [over](/post/over/) [the](/post/the/) rescuer's [shoulder](/post/shoulder/).
+- "[Fireman](/post/fireman/) Sam" is [a](/post/a/) [popular](/post/popular/) British animated children's [television](/post/television/) [series](/post/series/) featuring [a](/post/a/) firefighter protagonist.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [fireman](/en/post/fireman/) extinguished [the](/en/post/the/) flames [with](/en/post/with/) [a](/en/post/a/) [powerful](/en/post/powerful/) [jet](/en/post/jet/) [of](/en/post/of/) [water](/en/post/water/)."
-- "[During](/en/post/during/) [the](/en/post/the/) [emergency](/en/post/emergency/) [drill](/en/post/drill/), [the](/en/post/the/) [fireman](/en/post/fireman/) demonstrated [how](/en/post/how/) [to](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [fire](/en/post/fire/) extinguisher."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [fireman](/post/fireman/) extinguished [the](/post/the/) flames [with](/post/with/) [a](/post/a/) [powerful](/post/powerful/) [jet](/post/jet/) [of](/post/of/) [water](/post/water/)."
+- "[During](/post/during/) [the](/post/the/) [emergency](/post/emergency/) [drill](/post/drill/), [the](/post/the/) [fireman](/post/fireman/) demonstrated [how](/post/how/) [to](/post/to/) [use](/post/use/) [a](/post/a/) [fire](/post/fire/) extinguisher."
 
 ## Synonyms
 - Firefighter
-- Firefighter [Officer](/en/post/officer/)
-- [Fire](/en/post/fire/) [Service](/en/post/service/) [Personnel](/en/post/personnel/)
-- [Rescue](/en/post/rescue/) [Worker](/en/post/worker/)
-- [Blaze](/en/post/blaze/) Fighter
+- Firefighter [Officer](/post/officer/)
+- [Fire](/post/fire/) [Service](/post/service/) [Personnel](/post/personnel/)
+- [Rescue](/post/rescue/) [Worker](/post/worker/)
+- [Blaze](/post/blaze/) Fighter

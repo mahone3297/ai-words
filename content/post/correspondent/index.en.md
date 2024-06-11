@@ -7,30 +7,30 @@ description = '[ˌkɔrisˈpɔndənt] n.通信者;通讯员'
 keywords = ['ai words', 'correspondent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kərˈsɒnsənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[correspondent](/en/post/correspondent/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) writes [regularly](/en/post/regularly/) [for](/en/post/for/) [a](/en/post/a/) [newspaper](/en/post/newspaper/), [magazine](/en/post/magazine/), [or](/en/post/or/) [other](/en/post/other/) [publication](/en/post/publication/), [often](/en/post/often/) reporting [from](/en/post/from/) [a](/en/post/a/) [particular](/en/post/particular/) [location](/en/post/location/) [or](/en/post/or/) covering [a](/en/post/a/) [specific](/en/post/specific/) [topic](/en/post/topic/). [In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [communication](/en/post/communication/), [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) communicates [by](/en/post/by/) [mail](/en/post/mail/) [or](/en/post/or/) [electronic](/en/post/electronic/) [means](/en/post/means/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[correspondent](/post/correspondent/)** is [a](/post/a/) [person](/post/person/) [who](/post/who/) writes [regularly](/post/regularly/) [for](/post/for/) [a](/post/a/) [newspaper](/post/newspaper/), [magazine](/post/magazine/), [or](/post/or/) [other](/post/other/) [publication](/post/publication/), [often](/post/often/) reporting [from](/post/from/) [a](/post/a/) [particular](/post/particular/) [location](/post/location/) [or](/post/or/) covering [a](/post/a/) [specific](/post/specific/) [topic](/post/topic/). [In](/post/in/) [the](/post/the/) context [of](/post/of/) [communication](/post/communication/), [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) communicates [by](/post/by/) [mail](/post/mail/) [or](/post/or/) [electronic](/post/electronic/) [means](/post/means/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[correspond](/en/post/correspond/)** [means](/en/post/means/) [to](/en/post/to/) [communicate](/en/post/communicate/) [or](/en/post/or/) [exchange](/en/post/exchange/) messages [with](/en/post/with/) [someone](/en/post/someone/), [usually](/en/post/usually/) [by](/en/post/by/) [writing](/en/post/writing/) [or](/en/post/or/) sending [electronic](/en/post/electronic/) communications. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [imply](/en/post/imply/) [a](/en/post/a/) [match](/en/post/match/) [or](/en/post/or/) similarity [between](/en/post/between/) things.
+### [Verb](/post/verb/)
+[To](/post/to/) **[correspond](/post/correspond/)** [means](/post/means/) [to](/post/to/) [communicate](/post/communicate/) [or](/post/or/) [exchange](/post/exchange/) messages [with](/post/with/) [someone](/post/someone/), [usually](/post/usually/) [by](/post/by/) [writing](/post/writing/) [or](/post/or/) sending [electronic](/post/electronic/) communications. [It](/post/it/) [can](/post/can/) [also](/post/also/) [imply](/post/imply/) [a](/post/a/) [match](/post/match/) [or](/post/or/) similarity [between](/post/between/) things.
 
 ## Phrases
-- "[Keep](/en/post/keep/) [in](/en/post/in/) correspondence" refers [to](/en/post/to/) maintaining [regular](/en/post/regular/) [communication](/en/post/communication/).
-- "Correspondence [course](/en/post/course/)" is an educational [program](/en/post/program/) offered [through](/en/post/through/) [mail](/en/post/mail/) [or](/en/post/or/) online.
-- "[Corresponding](/en/post/corresponding/) [author](/en/post/author/)" is [the](/en/post/the/) [primary](/en/post/primary/) [contact](/en/post/contact/) [for](/en/post/for/) [a](/en/post/a/) [scientific](/en/post/scientific/) [paper](/en/post/paper/) [or](/en/post/or/) [academic](/en/post/academic/) [publication](/en/post/publication/).
+- "[Keep](/post/keep/) [in](/post/in/) correspondence" refers [to](/post/to/) maintaining [regular](/post/regular/) [communication](/post/communication/).
+- "Correspondence [course](/post/course/)" is an educational [program](/post/program/) offered [through](/post/through/) [mail](/post/mail/) [or](/post/or/) online.
+- "[Corresponding](/post/corresponding/) [author](/post/author/)" is [the](/post/the/) [primary](/post/primary/) [contact](/post/contact/) [for](/post/for/) [a](/post/a/) [scientific](/post/scientific/) [paper](/post/paper/) [or](/post/or/) [academic](/post/academic/) [publication](/post/publication/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [foreign](/en/post/foreign/) [correspondent](/en/post/correspondent/) filed [a](/en/post/a/) [report](/en/post/report/) [from](/en/post/from/) [the](/en/post/the/) [war](/en/post/war/) [zone](/en/post/zone/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) moving [abroad](/en/post/abroad/), [they](/en/post/they/) kept [up](/en/post/up/) [a](/en/post/a/) correspondence [with](/en/post/with/) [their](/en/post/their/) [family](/en/post/family/) [back](/en/post/back/) [home](/en/post/home/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[Their](/en/post/their/) letters began [to](/en/post/to/) [correspond](/en/post/correspond/) [with](/en/post/with/) [each](/en/post/each/) other's thoughts [on](/en/post/on/) [the](/en/post/the/) [topic](/en/post/topic/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [foreign](/post/foreign/) [correspondent](/post/correspondent/) filed [a](/post/a/) [report](/post/report/) [from](/post/from/) [the](/post/the/) [war](/post/war/) [zone](/post/zone/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) moving [abroad](/post/abroad/), [they](/post/they/) kept [up](/post/up/) [a](/post/a/) correspondence [with](/post/with/) [their](/post/their/) [family](/post/family/) [back](/post/back/) [home](/post/home/)."
+- **Phrasal [Verb](/post/verb/)**: "[Their](/post/their/) letters began [to](/post/to/) [correspond](/post/correspond/) [with](/post/with/) [each](/post/each/) other's thoughts [on](/post/on/) [the](/post/the/) [topic](/post/topic/)."
 
 ## Synonyms
-- [Journalist](/en/post/journalist/) (specifically [for](/en/post/for/) written journalism)
-- [Reporter](/en/post/reporter/) ([especially](/en/post/especially/) [for](/en/post/for/) [news](/en/post/news/) reporting)
-- Contributor ([for](/en/post/for/) [someone](/en/post/someone/) providing [content](/en/post/content/))
+- [Journalist](/post/journalist/) (specifically [for](/post/for/) written journalism)
+- [Reporter](/post/reporter/) ([especially](/post/especially/) [for](/post/for/) [news](/post/news/) reporting)
+- Contributor ([for](/post/for/) [someone](/post/someone/) providing [content](/post/content/))
 - Communicator
-- [Corresponding](/en/post/corresponding/) [party](/en/post/party/)
-- [Link](/en/post/link/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [a](/en/post/a/) [connection](/en/post/connection/))
+- [Corresponding](/post/corresponding/) [party](/post/party/)
+- [Link](/post/link/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [a](/post/a/) [connection](/post/connection/))

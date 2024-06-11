@@ -7,37 +7,37 @@ description = '[ˈfriːkwənt] ad.时常，常常'
 keywords = ['ai words', 'frequently']
 +++
 
-## [Word](/en/post/word/): [Frequently](/en/post/frequently/)
+## [Word](/post/word/): [Frequently](/post/frequently/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfrikwəntli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Happening [often](/en/post/often/), [many](/en/post/many/) times, [or](/en/post/or/) [regularly](/en/post/regularly/); [with](/en/post/with/) [frequency](/en/post/frequency/). [It](/en/post/it/) is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) recurrence [or](/en/post/or/) regularity [of](/en/post/of/) an [action](/en/post/action/) [or](/en/post/or/) [event](/en/post/event/).
+- **[Adverb](/post/adverb/)**: Happening [often](/post/often/), [many](/post/many/) times, [or](/post/or/) [regularly](/post/regularly/); [with](/post/with/) [frequency](/post/frequency/). [It](/post/it/) is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) recurrence [or](/post/or/) regularity [of](/post/of/) an [action](/post/action/) [or](/post/or/) [event](/post/event/).
 
-[Example](/en/post/example/) sentences:
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) visits [the](/en/post/the/) [library](/en/post/library/) [frequently](/en/post/frequently/) [to](/en/post/to/) [borrow](/en/post/borrow/) [new](/en/post/new/) books."
-- "[He](/en/post/he/) exercises [frequently](/en/post/frequently/) [to](/en/post/to/) [maintain](/en/post/maintain/) [his](/en/post/his/) fitness [level](/en/post/level/)."
-- "[We](/en/post/we/) [should](/en/post/should/) [communicate](/en/post/communicate/) [frequently](/en/post/frequently/) [to](/en/post/to/) [ensure](/en/post/ensure/) [a](/en/post/a/) [smooth](/en/post/smooth/) [project](/en/post/project/) [flow](/en/post/flow/)."
+[Example](/post/example/) sentences:
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) visits [the](/post/the/) [library](/post/library/) [frequently](/post/frequently/) [to](/post/to/) [borrow](/post/borrow/) [new](/post/new/) books."
+- "[He](/post/he/) exercises [frequently](/post/frequently/) [to](/post/to/) [maintain](/post/maintain/) [his](/post/his/) fitness [level](/post/level/)."
+- "[We](/post/we/) [should](/post/should/) [communicate](/post/communicate/) [frequently](/post/frequently/) [to](/post/to/) [ensure](/post/ensure/) [a](/post/a/) [smooth](/post/smooth/) [project](/post/project/) [flow](/post/flow/)."
 
 ## Phrases
-- "[Frequently](/en/post/frequently/) Asked Questions (FAQs)": [Common](/en/post/common/) questions [that](/en/post/that/) are asked [repeatedly](/en/post/repeatedly/) [about](/en/post/about/) [a](/en/post/a/) [product](/en/post/product/), [service](/en/post/service/), [or](/en/post/or/) [topic](/en/post/topic/).
-- "[Frequent](/en/post/frequent/) flyer": [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) travels [by](/en/post/by/) [air](/en/post/air/) [very](/en/post/very/) [often](/en/post/often/), [usually](/en/post/usually/) referring [to](/en/post/to/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) an airline's [loyalty](/en/post/loyalty/) [program](/en/post/program/).
-- "[Frequent](/en/post/frequent/) [visitor](/en/post/visitor/)": [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) visits [a](/en/post/a/) [place](/en/post/place/) [on](/en/post/on/) [a](/en/post/a/) [regular](/en/post/regular/) [or](/en/post/or/) recurring [basis](/en/post/basis/).
+- "[Frequently](/post/frequently/) Asked Questions (FAQs)": [Common](/post/common/) questions [that](/post/that/) are asked [repeatedly](/post/repeatedly/) [about](/post/about/) [a](/post/a/) [product](/post/product/), [service](/post/service/), [or](/post/or/) [topic](/post/topic/).
+- "[Frequent](/post/frequent/) flyer": [A](/post/a/) [person](/post/person/) [who](/post/who/) travels [by](/post/by/) [air](/post/air/) [very](/post/very/) [often](/post/often/), [usually](/post/usually/) referring [to](/post/to/) [a](/post/a/) [member](/post/member/) [of](/post/of/) an airline's [loyalty](/post/loyalty/) [program](/post/program/).
+- "[Frequent](/post/frequent/) [visitor](/post/visitor/)": [A](/post/a/) [person](/post/person/) [who](/post/who/) visits [a](/post/a/) [place](/post/place/) [on](/post/on/) [a](/post/a/) [regular](/post/regular/) [or](/post/or/) recurring [basis](/post/basis/).
 
-## [Example](/en/post/example/) Sentences
-- [Adverb](/en/post/adverb/): "[Due](/en/post/due/) [to](/en/post/to/) [traffic](/en/post/traffic/) congestion, delays [occur](/en/post/occur/) [frequently](/en/post/frequently/) [during](/en/post/during/) [rush](/en/post/rush/) [hour](/en/post/hour/)."
-- "[The](/en/post/the/) chef changes [the](/en/post/the/) [menu](/en/post/menu/) [frequently](/en/post/frequently/) [to](/en/post/to/) incorporate seasonal ingredients."
-- "[They](/en/post/they/) [meet](/en/post/meet/) [frequently](/en/post/frequently/) [to](/en/post/to/) [discuss](/en/post/discuss/) [business](/en/post/business/) strategies."
+## [Example](/post/example/) Sentences
+- [Adverb](/post/adverb/): "[Due](/post/due/) [to](/post/to/) [traffic](/post/traffic/) congestion, delays [occur](/post/occur/) [frequently](/post/frequently/) [during](/post/during/) [rush](/post/rush/) [hour](/post/hour/)."
+- "[The](/post/the/) chef changes [the](/post/the/) [menu](/post/menu/) [frequently](/post/frequently/) [to](/post/to/) incorporate seasonal ingredients."
+- "[They](/post/they/) [meet](/post/meet/) [frequently](/post/frequently/) [to](/post/to/) [discuss](/post/discuss/) [business](/post/business/) strategies."
 
 ## Synonyms
-- [Often](/en/post/often/)
-- [Regularly](/en/post/regularly/)
-- [Repeatedly](/en/post/repeatedly/)
+- [Often](/post/often/)
+- [Regularly](/post/regularly/)
+- [Repeatedly](/post/repeatedly/)
 - Habitually
 - Consistently
-- [Commonly](/en/post/commonly/)
+- [Commonly](/post/commonly/)
 - Routinely
 - Typically
 - Customarily
-- [With](/en/post/with/) [frequency](/en/post/frequency/)
+- [With](/post/with/) [frequency](/post/frequency/)

@@ -12,21 +12,21 @@ keywords = ['ai words', 'prefer']
 
 ## 释义
 - **动词**:
-  - 喜欢；更喜欢。例如: "I [prefer](/post/prefer/) [coffee](/post/coffee/) [to](/post/to/) [tea](/post/tea/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
-  - 要求；希望。例如: "[When](/post/when/) ordering, [he](/post/he/) [usually](/post/usually/) prefers [a](/post/a/) [quiet](/post/quiet/) [table](/post/table/) [by](/post/by/) [the](/post/the/) [window](/post/window/)."
+  - 喜欢；更喜欢。例如: "I [prefer](/zh/post/prefer/) [coffee](/zh/post/coffee/) [to](/zh/post/to/) [tea](/zh/post/tea/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+  - 要求；希望。例如: "[When](/zh/post/when/) ordering, [he](/zh/post/he/) [usually](/zh/post/usually/) prefers [a](/zh/post/a/) [quiet](/zh/post/quiet/) [table](/zh/post/table/) [by](/zh/post/by/) [the](/zh/post/the/) [window](/zh/post/window/)."
 
 ## 短语
-- "[Prefer](/post/prefer/) [something](/post/something/) [to](/post/to/) [something](/post/something/) [else](/post/else/)" 意味着在两者之间更喜欢前者。
-- "[Would](/post/would/) [prefer](/post/prefer/) ([not](/post/not/)) [to](/post/to/) [do](/post/do/) [something](/post/something/)" 用来表达对某个行动的倾向。例如: "I [would](/post/would/) [prefer](/post/prefer/) [not](/post/not/) [to](/post/to/) [discuss](/post/discuss/) [this](/post/this/) [topic](/post/topic/) [now](/post/now/)."
+- "[Prefer](/zh/post/prefer/) [something](/zh/post/something/) [to](/zh/post/to/) [something](/zh/post/something/) [else](/zh/post/else/)" 意味着在两者之间更喜欢前者。
+- "[Would](/zh/post/would/) [prefer](/zh/post/prefer/) ([not](/zh/post/not/)) [to](/zh/post/to/) [do](/zh/post/do/) [something](/zh/post/something/)" 用来表达对某个行动的倾向。例如: "I [would](/zh/post/would/) [prefer](/zh/post/prefer/) [not](/zh/post/not/) [to](/zh/post/to/) [discuss](/zh/post/discuss/) [this](/zh/post/this/) [topic](/zh/post/topic/) [now](/zh/post/now/)."
 
 ## 例句
-- "[She](/post/she/) prefers [reading](/post/reading/) books [to](/post/to/) watching TV."
-- "[When](/post/when/) given [a](/post/a/) [choice](/post/choice/), [he](/post/he/) [always](/post/always/) prefers [to](/post/to/) [work](/post/work/) [from](/post/from/) [home](/post/home/)."
-- "[If](/post/if/) [you](/post/you/) [could](/post/could/), [what](/post/what/) [time](/post/time/) [would](/post/would/) [you](/post/you/) [prefer](/post/prefer/) [for](/post/for/) [our](/post/our/) [meeting](/post/meeting/)?"
+- "[She](/zh/post/she/) prefers [reading](/zh/post/reading/) books [to](/zh/post/to/) watching TV."
+- "[When](/zh/post/when/) given [a](/zh/post/a/) [choice](/zh/post/choice/), [he](/zh/post/he/) [always](/zh/post/always/) prefers [to](/zh/post/to/) [work](/zh/post/work/) [from](/zh/post/from/) [home](/zh/post/home/)."
+- "[If](/zh/post/if/) [you](/zh/post/you/) [could](/zh/post/could/), [what](/zh/post/what/) [time](/zh/post/time/) [would](/zh/post/would/) [you](/zh/post/you/) [prefer](/zh/post/prefer/) [for](/zh/post/for/) [our](/zh/post/our/) [meeting](/zh/post/meeting/)?"
 
 ## 同义词
-- [Like](/post/like/) [better](/post/better/)
+- [Like](/zh/post/like/) [better](/zh/post/better/)
 - Favor
-- [Choose](/post/choose/)
-- Opt [for](/post/for/)
-- [Tend](/post/tend/) towards
+- [Choose](/zh/post/choose/)
+- Opt [for](/zh/post/for/)
+- [Tend](/zh/post/tend/) towards

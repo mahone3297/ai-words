@@ -7,29 +7,29 @@ description = '[vikˈtɔːriəs] a.胜利的，得胜的'
 keywords = ['ai words', 'victorious']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vɪˈkærəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Conquering [or](/en/post/or/) having gained [victory](/en/post/victory/); triumphant. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [victorious](/en/post/victorious/) [army](/en/post/army/) entered [the](/en/post/the/) [city](/en/post/city/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has won [or](/en/post/or/) achieved [success](/en/post/success/) [in](/en/post/in/) [a](/en/post/a/) [contest](/en/post/contest/) [or](/en/post/or/) [battle](/en/post/battle/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [victorious](/en/post/victorious/) [athlete](/en/post/athlete/) was celebrated [by](/en/post/by/) fans."
+- **[Adjective](/post/adjective/)**: Conquering [or](/post/or/) having gained [victory](/post/victory/); triumphant. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [victorious](/post/victorious/) [army](/post/army/) entered [the](/post/the/) [city](/post/city/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) has won [or](/post/or/) achieved [success](/post/success/) [in](/post/in/) [a](/post/a/) [contest](/post/contest/) [or](/post/or/) [battle](/post/battle/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [victorious](/post/victorious/) [athlete](/post/athlete/) was celebrated [by](/post/by/) fans."
 
 ## Phrases
-- "[Victorious](/en/post/victorious/) [return](/en/post/return/)" signifies [a](/en/post/a/) triumphant [return](/en/post/return/) [after](/en/post/after/) [a](/en/post/a/) [successful](/en/post/successful/) endeavor.
-- "[Victorious](/en/post/victorious/) [campaign](/en/post/campaign/)" refers [to](/en/post/to/) [a](/en/post/a/) [successful](/en/post/successful/) [military](/en/post/military/) [or](/en/post/or/) [political](/en/post/political/) [campaign](/en/post/campaign/).
-- "[Victorious](/en/post/victorious/) laurels" are [the](/en/post/the/) rewards [or](/en/post/or/) [glory](/en/post/glory/) given [to](/en/post/to/) [a](/en/post/a/) [winner](/en/post/winner/).
+- "[Victorious](/post/victorious/) [return](/post/return/)" signifies [a](/post/a/) triumphant [return](/post/return/) [after](/post/after/) [a](/post/a/) [successful](/post/successful/) endeavor.
+- "[Victorious](/post/victorious/) [campaign](/post/campaign/)" refers [to](/post/to/) [a](/post/a/) [successful](/post/successful/) [military](/post/military/) [or](/post/or/) [political](/post/political/) [campaign](/post/campaign/).
+- "[Victorious](/post/victorious/) laurels" are [the](/post/the/) rewards [or](/post/or/) [glory](/post/glory/) given [to](/post/to/) [a](/post/a/) [winner](/post/winner/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [victorious](/en/post/victorious/) [team](/en/post/team/) lifted [the](/en/post/the/) championship trophy."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [victorious](/en/post/victorious/) [general](/en/post/general/) received [a](/en/post/a/) hero's [welcome](/en/post/welcome/)."
-- **[Adverb](/en/post/adverb/)**: "[With](/en/post/with/) [a](/en/post/a/) [victorious](/en/post/victorious/) [smile](/en/post/smile/), [she](/en/post/she/) completed [the](/en/post/the/) marathon."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [victorious](/post/victorious/) [team](/post/team/) lifted [the](/post/the/) championship trophy."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [victorious](/post/victorious/) [general](/post/general/) received [a](/post/a/) hero's [welcome](/post/welcome/)."
+- **[Adverb](/post/adverb/)**: "[With](/post/with/) [a](/post/a/) [victorious](/post/victorious/) [smile](/post/smile/), [she](/post/she/) completed [the](/post/the/) marathon."
 
 ## Synonyms
 - Conquering
 - Triumphant
-- [Victorious](/en/post/victorious/)
-- [Successful](/en/post/successful/)
-- [Champion](/en/post/champion/)
+- [Victorious](/post/victorious/)
+- [Successful](/post/successful/)
+- [Champion](/post/champion/)
 - Victor
 
 ## Antonyms

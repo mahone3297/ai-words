@@ -7,36 +7,36 @@ description = '[ˈkætl] n.牛；牲口，家畜'
 keywords = ['ai words', 'cattle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈtl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[Cattle](/en/post/cattle/) refers [to](/en/post/to/) domesticated [large](/en/post/large/) ungulates, typically bovines (cows, bulls, [and](/en/post/and/) heifers), kept [for](/en/post/for/) [their](/en/post/their/) [meat](/en/post/meat/), [milk](/en/post/milk/), [or](/en/post/or/) labor. 
+### [Noun](/post/noun/)
+[Cattle](/post/cattle/) refers [to](/post/to/) domesticated [large](/post/large/) ungulates, typically bovines (cows, bulls, [and](/post/and/) heifers), kept [for](/post/for/) [their](/post/their/) [meat](/post/meat/), [milk](/post/milk/), [or](/post/or/) labor. 
 
-### [Verb](/en/post/verb/) ([collective](/en/post/collective/))
-[To](/en/post/to/) [cattle](/en/post/cattle/) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [herd](/en/post/herd/) [or](/en/post/or/) [manage](/en/post/manage/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) livestock, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [large](/en/post/large/) [number](/en/post/number/).
+### [Verb](/post/verb/) ([collective](/post/collective/))
+[To](/post/to/) [cattle](/post/cattle/) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [herd](/post/herd/) [or](/post/or/) [manage](/post/manage/) [a](/post/a/) [group](/post/group/) [of](/post/of/) livestock, [often](/post/often/) [in](/post/in/) [a](/post/a/) [large](/post/large/) [number](/post/number/).
 
-### [Adjective](/en/post/adjective/)
-Cattle-related [or](/en/post/or/) referring [to](/en/post/to/) animals [of](/en/post/of/) [the](/en/post/the/) bovine species.
+### [Adjective](/post/adjective/)
+Cattle-related [or](/post/or/) referring [to](/post/to/) animals [of](/post/of/) [the](/post/the/) bovine species.
 
 ## Phrases
-- "[Manage](/en/post/manage/) [the](/en/post/the/) [cattle](/en/post/cattle/)" [means](/en/post/means/) [to](/en/post/to/) oversee [and](/en/post/and/) [care](/en/post/care/) [for](/en/post/for/) [a](/en/post/a/) [herd](/en/post/herd/) [of](/en/post/of/) cows.
-- "Cow-calf [operation](/en/post/operation/)" describes [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [farm](/en/post/farm/) [that](/en/post/that/) focuses [on](/en/post/on/) raising calves [for](/en/post/for/) [sale](/en/post/sale/).
-- "[Cattle](/en/post/cattle/) [drive](/en/post/drive/)" is [a](/en/post/a/) [historical](/en/post/historical/) [term](/en/post/term/) [for](/en/post/for/) moving herds [over](/en/post/over/) [long](/en/post/long/) distances.
+- "[Manage](/post/manage/) [the](/post/the/) [cattle](/post/cattle/)" [means](/post/means/) [to](/post/to/) oversee [and](/post/and/) [care](/post/care/) [for](/post/for/) [a](/post/a/) [herd](/post/herd/) [of](/post/of/) cows.
+- "Cow-calf [operation](/post/operation/)" describes [a](/post/a/) [type](/post/type/) [of](/post/of/) [farm](/post/farm/) [that](/post/that/) focuses [on](/post/on/) raising calves [for](/post/for/) [sale](/post/sale/).
+- "[Cattle](/post/cattle/) [drive](/post/drive/)" is [a](/post/a/) [historical](/post/historical/) [term](/post/term/) [for](/post/for/) moving herds [over](/post/over/) [long](/post/long/) distances.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) was checking [on](/en/post/on/) [his](/en/post/his/) [cattle](/en/post/cattle/) [before](/en/post/before/) [dawn](/en/post/dawn/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) rancher had [to](/en/post/to/) [cattle](/en/post/cattle/) [the](/en/post/the/) strays [back](/en/post/back/) [into](/en/post/into/) [the](/en/post/the/) [pen](/en/post/pen/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [cattle](/en/post/cattle/) were peacefully grazing [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) was checking [on](/post/on/) [his](/post/his/) [cattle](/post/cattle/) [before](/post/before/) [dawn](/post/dawn/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) rancher had [to](/post/to/) [cattle](/post/cattle/) [the](/post/the/) strays [back](/post/back/) [into](/post/into/) [the](/post/the/) [pen](/post/pen/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [cattle](/post/cattle/) were peacefully grazing [in](/post/in/) [the](/post/the/) [field](/post/field/)."
 
 ## Synonyms
 - Livestock
-- [Herd](/en/post/herd/)
+- [Herd](/post/herd/)
 - Grazing animals
-- [Beef](/en/post/beef/) [cattle](/en/post/cattle/)
-- [Dairy](/en/post/dairy/) [cattle](/en/post/cattle/)
+- [Beef](/post/beef/) [cattle](/post/cattle/)
+- [Dairy](/post/dairy/) [cattle](/post/cattle/)
 
 ## Antonyms
-- Predators (animals [that](/en/post/that/) [hunt](/en/post/hunt/) [cattle](/en/post/cattle/))
-- [Wild](/en/post/wild/) animals (untamed [or](/en/post/or/) non-domesticated ungulates)
+- Predators (animals [that](/post/that/) [hunt](/post/hunt/) [cattle](/post/cattle/))
+- [Wild](/post/wild/) animals (untamed [or](/post/or/) non-domesticated ungulates)

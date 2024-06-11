@@ -7,34 +7,34 @@ description = '[ˈmesidʒ] n.信息，消息；启示'
 keywords = ['ai words', 'message']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɛsɪdʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) verbal, written, [or](/en/post/or/) recorded [communication](/en/post/communication/) sent [from](/en/post/from/) [one](/en/post/one/) [person](/en/post/person/) [or](/en/post/or/) [group](/en/post/group/) [to](/en/post/to/) [another](/en/post/another/); [information](/en/post/information/) conveyed. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) received an [important](/en/post/important/) [message](/en/post/message/) [on](/en/post/on/) [her](/en/post/her/) [phone](/en/post/phone/)."
-  - _Idiomatically_, [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [content](/en/post/content/) [or](/en/post/or/) [meaning](/en/post/meaning/) [behind](/en/post/behind/) [something](/en/post/something/) expressed indirectly: "[The](/en/post/the/) [message](/en/post/message/) [of](/en/post/of/) [the](/en/post/the/) [film](/en/post/film/) is [about](/en/post/about/) perseverance."
+- **[Noun](/post/noun/)**: [A](/post/a/) verbal, written, [or](/post/or/) recorded [communication](/post/communication/) sent [from](/post/from/) [one](/post/one/) [person](/post/person/) [or](/post/or/) [group](/post/group/) [to](/post/to/) [another](/post/another/); [information](/post/information/) conveyed. [For](/post/for/) [example](/post/example/): "[She](/post/she/) received an [important](/post/important/) [message](/post/message/) [on](/post/on/) [her](/post/her/) [phone](/post/phone/)."
+  - _Idiomatically_, [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [content](/post/content/) [or](/post/or/) [meaning](/post/meaning/) [behind](/post/behind/) [something](/post/something/) expressed indirectly: "[The](/post/the/) [message](/post/message/) [of](/post/of/) [the](/post/the/) [film](/post/film/) is [about](/post/about/) perseverance."
   
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [convey](/en/post/convey/) [information](/en/post/information/), thoughts, [or](/en/post/or/) feelings [through](/en/post/through/) [a](/en/post/a/) [message](/en/post/message/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) messaged [him](/en/post/him/) [to](/en/post/to/) [confirm](/en/post/confirm/) [the](/en/post/the/) [meeting](/en/post/meeting/) [time](/en/post/time/)."
-  - _In [modern](/en/post/modern/) context_, [it](/en/post/it/) [often](/en/post/often/) refers [to](/en/post/to/) sending [a](/en/post/a/) [digital](/en/post/digital/) [message](/en/post/message/) [via](/en/post/via/) [text](/en/post/text/), email, [or](/en/post/or/) [social](/en/post/social/) media: "I'll [message](/en/post/message/) [you](/en/post/you/) [the](/en/post/the/) details [later](/en/post/later/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [convey](/post/convey/) [information](/post/information/), thoughts, [or](/post/or/) feelings [through](/post/through/) [a](/post/a/) [message](/post/message/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) messaged [him](/post/him/) [to](/post/to/) [confirm](/post/confirm/) [the](/post/the/) [meeting](/post/meeting/) [time](/post/time/)."
+  - _In [modern](/post/modern/) context_, [it](/post/it/) [often](/post/often/) refers [to](/post/to/) sending [a](/post/a/) [digital](/post/digital/) [message](/post/message/) [via](/post/via/) [text](/post/text/), email, [or](/post/or/) [social](/post/social/) media: "I'll [message](/post/message/) [you](/post/you/) [the](/post/the/) details [later](/post/later/)."
 
 ## Phrases
-- "[Get](/en/post/get/) [the](/en/post/the/) [message](/en/post/message/)" [means](/en/post/means/) [to](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [grasp](/en/post/grasp/) [the](/en/post/the/) intended [meaning](/en/post/meaning/) [or](/en/post/or/) implications.
-- "[Message](/en/post/message/) [board](/en/post/board/)" refers [to](/en/post/to/) an online [platform](/en/post/platform/) [where](/en/post/where/) users [can](/en/post/can/) [post](/en/post/post/) messages [and](/en/post/and/) [communicate](/en/post/communicate/) [with](/en/post/with/) [each](/en/post/each/) [other](/en/post/other/).
-- "[Leave](/en/post/leave/) [a](/en/post/a/) [message](/en/post/message/)" suggests recording [a](/en/post/a/) [voice](/en/post/voice/) [or](/en/post/or/) [text](/en/post/text/) [message](/en/post/message/) [when](/en/post/when/) [the](/en/post/the/) recipient is unavailable.
+- "[Get](/post/get/) [the](/post/the/) [message](/post/message/)" [means](/post/means/) [to](/post/to/) [understand](/post/understand/) [or](/post/or/) [grasp](/post/grasp/) [the](/post/the/) intended [meaning](/post/meaning/) [or](/post/or/) implications.
+- "[Message](/post/message/) [board](/post/board/)" refers [to](/post/to/) an online [platform](/post/platform/) [where](/post/where/) users [can](/post/can/) [post](/post/post/) messages [and](/post/and/) [communicate](/post/communicate/) [with](/post/with/) [each](/post/each/) [other](/post/other/).
+- "[Leave](/post/leave/) [a](/post/a/) [message](/post/message/)" suggests recording [a](/post/a/) [voice](/post/voice/) [or](/post/or/) [text](/post/text/) [message](/post/message/) [when](/post/when/) [the](/post/the/) recipient is unavailable.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Please](/en/post/please/) [write](/en/post/write/) [down](/en/post/down/) [the](/en/post/the/) [message](/en/post/message/) [before](/en/post/before/) [you](/en/post/you/) [forget](/en/post/forget/) [it](/en/post/it/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [message](/en/post/message/) [her](/en/post/her/) [friend](/en/post/friend/) [about](/en/post/about/) [the](/en/post/the/) [exciting](/en/post/exciting/) [news](/en/post/news/)."
-- **Idiomatic [usage](/en/post/usage/)**: "[His](/en/post/his/) [silence](/en/post/silence/) was [a](/en/post/a/) [clear](/en/post/clear/) [message](/en/post/message/) [that](/en/post/that/) [he](/en/post/he/) wasn't interested [in](/en/post/in/) [the](/en/post/the/) [proposal](/en/post/proposal/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Please](/post/please/) [write](/post/write/) [down](/post/down/) [the](/post/the/) [message](/post/message/) [before](/post/before/) [you](/post/you/) [forget](/post/forget/) [it](/post/it/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [message](/post/message/) [her](/post/her/) [friend](/post/friend/) [about](/post/about/) [the](/post/the/) [exciting](/post/exciting/) [news](/post/news/)."
+- **Idiomatic [usage](/post/usage/)**: "[His](/post/his/) [silence](/post/silence/) was [a](/post/a/) [clear](/post/clear/) [message](/post/message/) [that](/post/that/) [he](/post/he/) wasn't interested [in](/post/in/) [the](/post/the/) [proposal](/post/proposal/)."
 
 ## Synonyms
-- [Communication](/en/post/communication/)
-- [Note](/en/post/note/)
-- [Telegram](/en/post/telegram/)
-- [Notice](/en/post/notice/)
+- [Communication](/post/communication/)
+- [Note](/post/note/)
+- [Telegram](/post/telegram/)
+- [Notice](/post/notice/)
 - Bulletin
 - Dispatch
-- [Text](/en/post/text/) (informal, [especially](/en/post/especially/) [for](/en/post/for/) [digital](/en/post/digital/) messaging)
+- [Text](/post/text/) (informal, [especially](/post/especially/) [for](/post/for/) [digital](/post/digital/) messaging)
 - Email
 - Notification
-- [Signal](/en/post/signal/) ([in](/en/post/in/) broader contexts [of](/en/post/of/) conveying [meaning](/en/post/meaning/))
+- [Signal](/post/signal/) ([in](/post/in/) broader contexts [of](/post/of/) conveying [meaning](/post/meaning/))

@@ -12,23 +12,23 @@ keywords = ['ai words', 'treatment']
 
 ## 释义
 - **名词 n**:
-  - 医疗治疗：[The](/post/the/) [medical](/post/medical/) [care](/post/care/) [or](/post/or/) [attention](/post/attention/) given [to](/post/to/) [a](/post/a/) [patient](/post/patient/), [as](/post/as/) [for](/post/for/) an [illness](/post/illness/) [or](/post/or/) [injury](/post/injury/).
-  - 对待方式：[The](/post/the/) [way](/post/way/) [someone](/post/someone/) is dealt [with](/post/with/) [or](/post/or/) regarded; handling.
+  - 医疗治疗：[The](/zh/post/the/) [medical](/zh/post/medical/) [care](/zh/post/care/) [or](/zh/post/or/) [attention](/zh/post/attention/) given [to](/zh/post/to/) [a](/zh/post/a/) [patient](/zh/post/patient/), [as](/zh/post/as/) [for](/zh/post/for/) an [illness](/zh/post/illness/) [or](/zh/post/or/) [injury](/zh/post/injury/).
+  - 对待方式：[The](/zh/post/the/) [way](/zh/post/way/) [someone](/zh/post/someone/) is dealt [with](/zh/post/with/) [or](/zh/post/or/) regarded; handling.
 
 - **动词 v**:
-  - 给予治疗：[To](/post/to/) [subject](/post/subject/) [to](/post/to/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [method](/post/method/) [of](/post/of/) [treatment](/post/treatment/), [especially](/post/especially/) [medical](/post/medical/) [or](/post/or/) therapeutic.
+  - 给予治疗：[To](/zh/post/to/) [subject](/zh/post/subject/) [to](/zh/post/to/) [a](/zh/post/a/) [process](/zh/post/process/) [or](/zh/post/or/) [method](/zh/post/method/) [of](/zh/post/of/) [treatment](/zh/post/treatment/), [especially](/zh/post/especially/) [medical](/zh/post/medical/) [or](/zh/post/or/) therapeutic.
 
 ## 短语
-- "[treatment](/post/treatment/) [plan](/post/plan/)" 治疗计划：[A](/post/a/) detailed [plan](/post/plan/) outlining [the](/post/the/) [course](/post/course/) [of](/post/of/) therapy [or](/post/or/) [medical](/post/medical/) [care](/post/care/).
-- "[treat](/post/treat/) [someone](/post/someone/) [with](/post/with/) [respect](/post/respect/)" 以尊重对待某人：[To](/post/to/) [deal](/post/deal/) [with](/post/with/) [someone](/post/someone/) [in](/post/in/) [a](/post/a/) [considerate](/post/considerate/) [and](/post/and/) courteous [manner](/post/manner/).
+- "[treatment](/zh/post/treatment/) [plan](/zh/post/plan/)" 治疗计划：[A](/zh/post/a/) detailed [plan](/zh/post/plan/) outlining [the](/zh/post/the/) [course](/zh/post/course/) [of](/zh/post/of/) therapy [or](/zh/post/or/) [medical](/zh/post/medical/) [care](/zh/post/care/).
+- "[treat](/zh/post/treat/) [someone](/zh/post/someone/) [with](/zh/post/with/) [respect](/zh/post/respect/)" 以尊重对待某人：[To](/zh/post/to/) [deal](/zh/post/deal/) [with](/zh/post/with/) [someone](/zh/post/someone/) [in](/zh/post/in/) [a](/zh/post/a/) [considerate](/zh/post/considerate/) [and](/zh/post/and/) courteous [manner](/zh/post/manner/).
 
 ## 例句
-- 名词: "[The](/post/the/) [cancer](/post/cancer/) [patient](/post/patient/) is undergoing [a](/post/a/) [new](/post/new/) chemotherapy [treatment](/post/treatment/)."
-- 动词: "[The](/post/the/) therapist [will](/post/will/) [treat](/post/treat/) [your](/post/your/) [back](/post/back/) [pain](/post/pain/) using [a](/post/a/) [combination](/post/combination/) [of](/post/of/) massage [and](/post/and/) acupuncture."
+- 名词: "[The](/zh/post/the/) [cancer](/zh/post/cancer/) [patient](/zh/post/patient/) is undergoing [a](/zh/post/a/) [new](/zh/post/new/) chemotherapy [treatment](/zh/post/treatment/)."
+- 动词: "[The](/zh/post/the/) therapist [will](/zh/post/will/) [treat](/zh/post/treat/) [your](/zh/post/your/) [back](/zh/post/back/) [pain](/zh/post/pain/) using [a](/zh/post/a/) [combination](/zh/post/combination/) [of](/zh/post/of/) massage [and](/zh/post/and/) acupuncture."
 
 ## 同义词
-- [Care](/post/care/)
+- [Care](/zh/post/care/)
 - Therapy
-- [Cure](/post/cure/)
-- [Management](/post/management/)
+- [Cure](/zh/post/cure/)
+- [Management](/zh/post/management/)
 - Handling

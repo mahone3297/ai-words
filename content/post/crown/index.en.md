@@ -7,48 +7,48 @@ description = '[kraun] n.王冠，冕；花冠'
 keywords = ['ai words', 'crown']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kraʊn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) circlet [or](/en/post/or/) diadem placed [on](/en/post/on/) [the](/en/post/the/) [head](/en/post/head/) [as](/en/post/as/) [a](/en/post/a/) [symbol](/en/post/symbol/) [of](/en/post/of/) sovereignty, [victory](/en/post/victory/), [or](/en/post/or/) [high](/en/post/high/) [rank](/en/post/rank/): [The](/en/post/the/) [king](/en/post/king/) was crowned [with](/en/post/with/) [gold](/en/post/gold/).
-2. [A](/en/post/a/) championship [title](/en/post/title/) [or](/en/post/or/) [achievement](/en/post/achievement/): [She](/en/post/she/) won [the](/en/post/the/) [tennis](/en/post/tennis/) [crown](/en/post/crown/).
-3. [The](/en/post/the/) [top](/en/post/top/) [or](/en/post/or/) summit [of](/en/post/of/) [something](/en/post/something/): [The](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) mountaintop was [a](/en/post/a/) [royal](/en/post/royal/) [crown](/en/post/crown/).
-4. [A](/en/post/a/) laurel [wreath](/en/post/wreath/) [or](/en/post/or/) [other](/en/post/other/) symbolic [ornament](/en/post/ornament/) awarded [for](/en/post/for/) excellence: [The](/en/post/the/) Nobel [Peace](/en/post/peace/) [Prize](/en/post/prize/) [winner](/en/post/winner/) was crowned [with](/en/post/with/) honor.
-5. (figurative) [The](/en/post/the/) [most](/en/post/most/) prestigious [or](/en/post/or/) [prominent](/en/post/prominent/) [position](/en/post/position/): [He](/en/post/he/) held [the](/en/post/the/) [crown](/en/post/crown/) [in](/en/post/in/) [the](/en/post/the/) company's hierarchy.
+### [Noun](/post/noun/)
+1. [A](/post/a/) circlet [or](/post/or/) diadem placed [on](/post/on/) [the](/post/the/) [head](/post/head/) [as](/post/as/) [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) sovereignty, [victory](/post/victory/), [or](/post/or/) [high](/post/high/) [rank](/post/rank/): [The](/post/the/) [king](/post/king/) was crowned [with](/post/with/) [gold](/post/gold/).
+2. [A](/post/a/) championship [title](/post/title/) [or](/post/or/) [achievement](/post/achievement/): [She](/post/she/) won [the](/post/the/) [tennis](/post/tennis/) [crown](/post/crown/).
+3. [The](/post/the/) [top](/post/top/) [or](/post/or/) summit [of](/post/of/) [something](/post/something/): [The](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) mountaintop was [a](/post/a/) [royal](/post/royal/) [crown](/post/crown/).
+4. [A](/post/a/) laurel [wreath](/post/wreath/) [or](/post/or/) [other](/post/other/) symbolic [ornament](/post/ornament/) awarded [for](/post/for/) excellence: [The](/post/the/) Nobel [Peace](/post/peace/) [Prize](/post/prize/) [winner](/post/winner/) was crowned [with](/post/with/) honor.
+5. (figurative) [The](/post/the/) [most](/post/most/) prestigious [or](/post/or/) [prominent](/post/prominent/) [position](/post/position/): [He](/post/he/) held [the](/post/the/) [crown](/post/crown/) [in](/post/in/) [the](/post/the/) company's hierarchy.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [place](/en/post/place/) [a](/en/post/a/) [crown](/en/post/crown/) [or](/en/post/or/) tiara [on](/en/post/on/) someone's [head](/en/post/head/), [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [ceremony](/en/post/ceremony/): [The](/en/post/the/) [king](/en/post/king/) was crowned [in](/en/post/in/) [a](/en/post/a/) [grand](/en/post/grand/) [ceremony](/en/post/ceremony/).
-2. [To](/en/post/to/) bestow [a](/en/post/a/) [title](/en/post/title/) [or](/en/post/or/) honor [upon](/en/post/upon/): [She](/en/post/she/) was crowned [the](/en/post/the/) [new](/en/post/new/) [champion](/en/post/champion/) [after](/en/post/after/) winning [the](/en/post/the/) marathon.
-3. (informal) [To](/en/post/to/) [be](/en/post/be/) considered [the](/en/post/the/) [best](/en/post/best/) [or](/en/post/or/) [most](/en/post/most/) [successful](/en/post/successful/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/): [He](/en/post/he/) was crowned [the](/en/post/the/) [king](/en/post/king/) [of](/en/post/of/) comedy.
+### [Verb](/post/verb/)
+1. [To](/post/to/) [place](/post/place/) [a](/post/a/) [crown](/post/crown/) [or](/post/or/) tiara [on](/post/on/) someone's [head](/post/head/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [ceremony](/post/ceremony/): [The](/post/the/) [king](/post/king/) was crowned [in](/post/in/) [a](/post/a/) [grand](/post/grand/) [ceremony](/post/ceremony/).
+2. [To](/post/to/) bestow [a](/post/a/) [title](/post/title/) [or](/post/or/) honor [upon](/post/upon/): [She](/post/she/) was crowned [the](/post/the/) [new](/post/new/) [champion](/post/champion/) [after](/post/after/) winning [the](/post/the/) marathon.
+3. (informal) [To](/post/to/) [be](/post/be/) considered [the](/post/the/) [best](/post/best/) [or](/post/or/) [most](/post/most/) [successful](/post/successful/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/): [He](/post/he/) was crowned [the](/post/the/) [king](/post/king/) [of](/post/of/) comedy.
 
-### [Adjective](/en/post/adjective/)
-1. [Most](/en/post/most/) [excellent](/en/post/excellent/) [or](/en/post/or/) [superior](/en/post/superior/): [The](/en/post/the/) [crown](/en/post/crown/) jewels are [the](/en/post/the/) finest examples [of](/en/post/of/) [their](/en/post/their/) [kind](/en/post/kind/).
-2. Having [the](/en/post/the/) highest [position](/en/post/position/) [or](/en/post/or/) [rank](/en/post/rank/): [The](/en/post/the/) team's [star](/en/post/star/) [player](/en/post/player/) was named [the](/en/post/the/) league's [crown](/en/post/crown/) [prince](/en/post/prince/).
+### [Adjective](/post/adjective/)
+1. [Most](/post/most/) [excellent](/post/excellent/) [or](/post/or/) [superior](/post/superior/): [The](/post/the/) [crown](/post/crown/) jewels are [the](/post/the/) finest examples [of](/post/of/) [their](/post/their/) [kind](/post/kind/).
+2. Having [the](/post/the/) highest [position](/post/position/) [or](/post/or/) [rank](/post/rank/): [The](/post/the/) team's [star](/post/star/) [player](/post/player/) was named [the](/post/the/) league's [crown](/post/crown/) [prince](/post/prince/).
 
-### [Adverb](/en/post/adverb/)
-(archaic [or](/en/post/or/) poetic) [In](/en/post/in/) [a](/en/post/a/) [royal](/en/post/royal/) [or](/en/post/or/) regal [manner](/en/post/manner/): [The](/en/post/the/) [king](/en/post/king/) ruled [his](/en/post/his/) [kingdom](/en/post/kingdom/) [with](/en/post/with/) [a](/en/post/a/) crown-adverbial [grace](/en/post/grace/).
+### [Adverb](/post/adverb/)
+(archaic [or](/post/or/) poetic) [In](/post/in/) [a](/post/a/) [royal](/post/royal/) [or](/post/or/) regal [manner](/post/manner/): [The](/post/the/) [king](/post/king/) ruled [his](/post/his/) [kingdom](/post/kingdom/) [with](/post/with/) [a](/post/a/) crown-adverbial [grace](/post/grace/).
 
 ## Phrases
-- "[Wear](/en/post/wear/) [the](/en/post/the/) [crown](/en/post/crown/) [of](/en/post/of/) [glory](/en/post/glory/)" refers [to](/en/post/to/) achieving [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) honor [or](/en/post/or/) excellence.
-- "[Crown](/en/post/crown/) [a](/en/post/a/) [champion](/en/post/champion/)" is [used](/en/post/used/) [to](/en/post/to/) [announce](/en/post/announce/) [or](/en/post/or/) [celebrate](/en/post/celebrate/) [a](/en/post/a/) [winner](/en/post/winner/).
-- "[To](/en/post/to/) [lay](/en/post/lay/) [a](/en/post/a/) [crown](/en/post/crown/) [on](/en/post/on/) someone's shoulders" signifies [great](/en/post/great/) [praise](/en/post/praise/) [or](/en/post/or/) admiration.
+- "[Wear](/post/wear/) [the](/post/the/) [crown](/post/crown/) [of](/post/of/) [glory](/post/glory/)" refers [to](/post/to/) achieving [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) honor [or](/post/or/) excellence.
+- "[Crown](/post/crown/) [a](/post/a/) [champion](/post/champion/)" is [used](/post/used/) [to](/post/to/) [announce](/post/announce/) [or](/post/or/) [celebrate](/post/celebrate/) [a](/post/a/) [winner](/post/winner/).
+- "[To](/post/to/) [lay](/post/lay/) [a](/post/a/) [crown](/post/crown/) [on](/post/on/) someone's shoulders" signifies [great](/post/great/) [praise](/post/praise/) [or](/post/or/) admiration.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [queen](/en/post/queen/) wore [her](/en/post/her/) [crown](/en/post/crown/) [during](/en/post/during/) [the](/en/post/the/) [state](/en/post/state/) [visit](/en/post/visit/).
-- **[Verb](/en/post/verb/)**: [After](/en/post/after/) winning [the](/en/post/the/) [gold](/en/post/gold/) [medal](/en/post/medal/), [she](/en/post/she/) was crowned [the](/en/post/the/) Olympic [champion](/en/post/champion/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [crown](/en/post/crown/) [prince](/en/post/prince/) was chosen [to](/en/post/to/) [succeed](/en/post/succeed/) [the](/en/post/the/) [king](/en/post/king/).
-- **[Adverb](/en/post/adverb/)**: [His](/en/post/his/) crown-adverbial [performance](/en/post/performance/) [left](/en/post/left/) [the](/en/post/the/) [audience](/en/post/audience/) [in](/en/post/in/) awe.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [queen](/post/queen/) wore [her](/post/her/) [crown](/post/crown/) [during](/post/during/) [the](/post/the/) [state](/post/state/) [visit](/post/visit/).
+- **[Verb](/post/verb/)**: [After](/post/after/) winning [the](/post/the/) [gold](/post/gold/) [medal](/post/medal/), [she](/post/she/) was crowned [the](/post/the/) Olympic [champion](/post/champion/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [crown](/post/crown/) [prince](/post/prince/) was chosen [to](/post/to/) [succeed](/post/succeed/) [the](/post/the/) [king](/post/king/).
+- **[Adverb](/post/adverb/)**: [His](/post/his/) crown-adverbial [performance](/post/performance/) [left](/post/left/) [the](/post/the/) [audience](/post/audience/) [in](/post/in/) awe.
 
 ## Synonyms
-- [Royal](/en/post/royal/)
-- [Supreme](/en/post/supreme/)
-- [Supreme](/en/post/supreme/) excellence
+- [Royal](/post/royal/)
+- [Supreme](/post/supreme/)
+- [Supreme](/post/supreme/) excellence
 - Topmost
 - Apex
 - Regal
-- [Champion](/en/post/champion/)
-- [Best](/en/post/best/)
-- [Supreme](/en/post/supreme/) [title](/en/post/title/)
-- Highest [rank](/en/post/rank/)
+- [Champion](/post/champion/)
+- [Best](/post/best/)
+- [Supreme](/post/supreme/) [title](/post/title/)
+- Highest [rank](/post/rank/)

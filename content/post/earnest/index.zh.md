@@ -11,20 +11,20 @@ keywords = ['ai words', 'earnest']
 /ˈɜːrnɪst/
 
 ## 释义
-- **形容词**: 真诚的，认真的，坚定的。例如: "[He](/post/he/) made an [earnest](/post/earnest/) [request](/post/request/) [for](/post/for/) [help](/post/help/)."
-- **名词**: 认真，诚意，保证金。例如: "[She](/post/she/) [put](/post/put/) [down](/post/down/) an [earnest](/post/earnest/) [payment](/post/payment/) [for](/post/for/) [the](/post/the/) [house](/post/house/)."
+- **形容词**: 真诚的，认真的，坚定的。例如: "[He](/zh/post/he/) made an [earnest](/zh/post/earnest/) [request](/zh/post/request/) [for](/zh/post/for/) [help](/zh/post/help/)."
+- **名词**: 认真，诚意，保证金。例如: "[She](/zh/post/she/) [put](/zh/post/put/) [down](/zh/post/down/) an [earnest](/zh/post/earnest/) [payment](/zh/post/payment/) [for](/zh/post/for/) [the](/zh/post/the/) [house](/zh/post/house/)."
 
 ## 短语
-- "[in](/post/in/) [earnest](/post/earnest/)" 表示认真地，严肃地开始。例如: "[They](/post/they/) started working [in](/post/in/) [earnest](/post/earnest/) [on](/post/on/) [the](/post/the/) [project](/post/project/)."
-- "[earnest](/post/earnest/) [money](/post/money/)" 指购房或租赁时的保证金。
+- "[in](/zh/post/in/) [earnest](/zh/post/earnest/)" 表示认真地，严肃地开始。例如: "[They](/zh/post/they/) started working [in](/zh/post/in/) [earnest](/zh/post/earnest/) [on](/zh/post/on/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- "[earnest](/zh/post/earnest/) [money](/zh/post/money/)" 指购房或租赁时的保证金。
 
 ## 例句
-- 形容词: "[She](/post/she/) spoke [with](/post/with/) an [earnest](/post/earnest/) [expression](/post/expression/), showing [how](/post/how/) [much](/post/much/) [she](/post/she/) cared [about](/post/about/) [the](/post/the/) [issue](/post/issue/)."
-- 名词: "[The](/post/the/) buyer paid [a](/post/a/) [substantial](/post/substantial/) [earnest](/post/earnest/) [to](/post/to/) [secure](/post/secure/) [the](/post/the/) [property](/post/property/)."
+- 形容词: "[She](/zh/post/she/) spoke [with](/zh/post/with/) an [earnest](/zh/post/earnest/) [expression](/zh/post/expression/), showing [how](/zh/post/how/) [much](/zh/post/much/) [she](/zh/post/she/) cared [about](/zh/post/about/) [the](/zh/post/the/) [issue](/zh/post/issue/)."
+- 名词: "[The](/zh/post/the/) buyer paid [a](/zh/post/a/) [substantial](/zh/post/substantial/) [earnest](/zh/post/earnest/) [to](/zh/post/to/) [secure](/zh/post/secure/) [the](/zh/post/the/) [property](/zh/post/property/)."
 
 ## 同义词
-- [Sincere](/post/sincere/)
-- [Serious](/post/serious/)
+- [Sincere](/zh/post/sincere/)
+- [Serious](/zh/post/serious/)
 - Dedicated
-- [Genuine](/post/genuine/)
+- [Genuine](/zh/post/genuine/)
 - Wholehearted

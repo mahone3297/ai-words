@@ -12,21 +12,21 @@ keywords = ['ai words', 'penetrate']
 
 ## 释义
 - **动词**:
-1. 穿透；刺穿：使（如尖锐物）穿透或穿过物体。例如: "[The](/post/the/) [arrow](/post/arrow/) penetrated [his](/post/his/) armor."
-2. 渗透；深入：进入或透过表面到达内部。例如: "[The](/post/the/) [oil](/post/oil/) [spill](/post/spill/) penetrated [the](/post/the/) [soil](/post/soil/)."
-3. （思想、信息等）深入理解，领悟：深入理解或领会复杂的事物。例如: "[He](/post/he/) tried [to](/post/to/) [penetrate](/post/penetrate/) [the](/post/the/) [meaning](/post/meaning/) [of](/post/of/) [the](/post/the/) [poem](/post/poem/)."
+1. 穿透；刺穿：使（如尖锐物）穿透或穿过物体。例如: "[The](/zh/post/the/) [arrow](/zh/post/arrow/) penetrated [his](/zh/post/his/) armor."
+2. 渗透；深入：进入或透过表面到达内部。例如: "[The](/zh/post/the/) [oil](/zh/post/oil/) [spill](/zh/post/spill/) penetrated [the](/zh/post/the/) [soil](/zh/post/soil/)."
+3. （思想、信息等）深入理解，领悟：深入理解或领会复杂的事物。例如: "[He](/zh/post/he/) tried [to](/zh/post/to/) [penetrate](/zh/post/penetrate/) [the](/zh/post/the/) [meaning](/zh/post/meaning/) [of](/zh/post/of/) [the](/zh/post/the/) [poem](/zh/post/poem/)."
 
 ## 短语
-- "[Penetrate](/post/penetrate/) [the](/post/the/) [market](/post/market/)" 意为打入市场。
-- "[Penetrate](/post/penetrate/) [the](/post/the/) enemy's defenses" 指突破敌人的防线。
+- "[Penetrate](/zh/post/penetrate/) [the](/zh/post/the/) [market](/zh/post/market/)" 意为打入市场。
+- "[Penetrate](/zh/post/penetrate/) [the](/zh/post/the/) enemy's defenses" 指突破敌人的防线。
 
 ## 例句
-- 动词: "[The](/post/the/) [bullet](/post/bullet/) penetrated [the](/post/the/) [wall](/post/wall/) [and](/post/and/) lodged [in](/post/in/) [the](/post/the/) adjacent [room](/post/room/)."
-- 动词: "[Her](/post/her/) ideas penetrated [the](/post/the/) minds [of](/post/of/) [the](/post/the/) [audience](/post/audience/), leaving [a](/post/a/) lasting [impact](/post/impact/)."
+- 动词: "[The](/zh/post/the/) [bullet](/zh/post/bullet/) penetrated [the](/zh/post/the/) [wall](/zh/post/wall/) [and](/zh/post/and/) lodged [in](/zh/post/in/) [the](/zh/post/the/) adjacent [room](/zh/post/room/)."
+- 动词: "[Her](/zh/post/her/) ideas penetrated [the](/zh/post/the/) minds [of](/zh/post/of/) [the](/zh/post/the/) [audience](/zh/post/audience/), leaving [a](/zh/post/a/) lasting [impact](/zh/post/impact/)."
 
 ## 同义词
 - Permeate
 - Infiltrate
-- [Invade](/post/invade/)
-- [Break](/post/break/) [through](/post/through/)
-- [Succeed](/post/succeed/) [in](/post/in/) reaching
+- [Invade](/zh/post/invade/)
+- [Break](/zh/post/break/) [through](/zh/post/through/)
+- [Succeed](/zh/post/succeed/) [in](/zh/post/in/) reaching

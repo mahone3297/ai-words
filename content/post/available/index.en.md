@@ -7,34 +7,34 @@ description = '[əˈveiləbl] a.可利用的；通用的'
 keywords = ['ai words', 'available']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈveɪləbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) [used](/en/post/used/) [or](/en/post/or/) obtained; usable [or](/en/post/or/) accessible [when](/en/post/when/) needed. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [hotel](/en/post/hotel/) rooms are [available](/en/post/available/) [for](/en/post/for/) reservation."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [ready](/en/post/ready/) [for](/en/post/for/) [use](/en/post/use/) [or](/en/post/or/) occupancy; [to](/en/post/to/) [be](/en/post/be/) [capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) [used](/en/post/used/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) software is [now](/en/post/now/) [available](/en/post/available/) [for](/en/post/for/) download."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [fact](/en/post/fact/) [of](/en/post/of/) [being](/en/post/being/) [available](/en/post/available/); accessibility. [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) are [several](/en/post/several/) [available](/en/post/available/) parking spots [nearby](/en/post/nearby/)."
+- **[Adjective](/post/adjective/)**: [Capable](/post/capable/) [of](/post/of/) [being](/post/being/) [used](/post/used/) [or](/post/or/) obtained; usable [or](/post/or/) accessible [when](/post/when/) needed. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [hotel](/post/hotel/) rooms are [available](/post/available/) [for](/post/for/) reservation."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [ready](/post/ready/) [for](/post/for/) [use](/post/use/) [or](/post/or/) occupancy; [to](/post/to/) [be](/post/be/) [capable](/post/capable/) [of](/post/of/) [being](/post/being/) [used](/post/used/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) software is [now](/post/now/) [available](/post/available/) [for](/post/for/) download."
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [or](/post/or/) [fact](/post/fact/) [of](/post/of/) [being](/post/being/) [available](/post/available/); accessibility. [For](/post/for/) [example](/post/example/): "[There](/post/there/) are [several](/post/several/) [available](/post/available/) parking spots [nearby](/post/nearby/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [available](/en/post/available/) [at](/en/post/at/)" indicates [a](/en/post/a/) [time](/en/post/time/) [or](/en/post/or/) [place](/en/post/place/) [where](/en/post/where/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [can](/en/post/can/) [be](/en/post/be/) reached.
-- "[Available](/en/post/available/) [for](/en/post/for/) [hire](/en/post/hire/)" signifies [that](/en/post/that/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [resource](/en/post/resource/) [can](/en/post/can/) [be](/en/post/be/) rented [or](/en/post/or/) leased.
-- "[Available](/en/post/available/) [on](/en/post/on/) [demand](/en/post/demand/)" [means](/en/post/means/) [something](/en/post/something/) [can](/en/post/can/) [be](/en/post/be/) accessed [immediately](/en/post/immediately/) [or](/en/post/or/) [as](/en/post/as/) needed.
+- "[Be](/post/be/) [available](/post/available/) [at](/post/at/)" indicates [a](/post/a/) [time](/post/time/) [or](/post/or/) [place](/post/place/) [where](/post/where/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [can](/post/can/) [be](/post/be/) reached.
+- "[Available](/post/available/) [for](/post/for/) [hire](/post/hire/)" signifies [that](/post/that/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [resource](/post/resource/) [can](/post/can/) [be](/post/be/) rented [or](/post/or/) leased.
+- "[Available](/post/available/) [on](/post/on/) [demand](/post/demand/)" [means](/post/means/) [something](/post/something/) [can](/post/can/) [be](/post/be/) accessed [immediately](/post/immediately/) [or](/post/or/) [as](/post/as/) needed.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) tickets [to](/en/post/to/) [the](/en/post/the/) [concert](/en/post/concert/) are [available](/en/post/available/) starting [from](/en/post/from/) [next](/en/post/next/) [week](/en/post/week/)."
-- **[Verb](/en/post/verb/)**: "[Please](/en/post/please/) [make](/en/post/make/) [sure](/en/post/sure/) [the](/en/post/the/) [meeting](/en/post/meeting/) [room](/en/post/room/) is [available](/en/post/available/) [for](/en/post/for/) [our](/en/post/our/) 2 PM [appointment](/en/post/appointment/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) server was [down](/en/post/down/), [but](/en/post/but/) it's [now](/en/post/now/) [available](/en/post/available/) [again](/en/post/again/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) tickets [to](/post/to/) [the](/post/the/) [concert](/post/concert/) are [available](/post/available/) starting [from](/post/from/) [next](/post/next/) [week](/post/week/)."
+- **[Verb](/post/verb/)**: "[Please](/post/please/) [make](/post/make/) [sure](/post/sure/) [the](/post/the/) [meeting](/post/meeting/) [room](/post/room/) is [available](/post/available/) [for](/post/for/) [our](/post/our/) 2 PM [appointment](/post/appointment/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) server was [down](/post/down/), [but](/post/but/) it's [now](/post/now/) [available](/post/available/) [again](/post/again/)."
 
 ## Synonyms
 - Accessible
-- [Present](/en/post/present/)
-- [Readily](/en/post/readily/) [available](/en/post/available/)
-- [In](/en/post/in/) [stock](/en/post/stock/)
+- [Present](/post/present/)
+- [Readily](/post/readily/) [available](/post/available/)
+- [In](/post/in/) [stock](/post/stock/)
 - Unoccupied
 
 ## Antonyms
 - Unavailable
 - Occupied
-- [Out](/en/post/out/) [of](/en/post/of/) [stock](/en/post/stock/)
+- [Out](/post/out/) [of](/post/of/) [stock](/post/stock/)
 - Restricted
-- [Not](/en/post/not/) accessible
+- [Not](/post/not/) accessible

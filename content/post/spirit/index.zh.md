@@ -12,26 +12,26 @@ keywords = ['ai words', 'spirit']
 
 ## 释义
 - **名词**:
-    - 精神，灵魂：[The](/post/the/) [spirit](/post/spirit/) [of](/post/of/) teamwork is [essential](/post/essential/) [for](/post/for/) [success](/post/success/).
-    - 酒精饮料，烈酒：[She](/post/she/) enjoys [a](/post/a/) [glass](/post/glass/) [of](/post/of/) [brandy](/post/brandy/), [a](/post/a/) [type](/post/type/) [of](/post/of/) [spirit](/post/spirit/).
-    - 情绪，态度：[He](/post/he/) was [in](/post/in/) [high](/post/high/) spirits [after](/post/after/) winning [the](/post/the/) [game](/post/game/).
+    - 精神，灵魂：[The](/zh/post/the/) [spirit](/zh/post/spirit/) [of](/zh/post/of/) teamwork is [essential](/zh/post/essential/) [for](/zh/post/for/) [success](/zh/post/success/).
+    - 酒精饮料，烈酒：[She](/zh/post/she/) enjoys [a](/zh/post/a/) [glass](/zh/post/glass/) [of](/zh/post/of/) [brandy](/zh/post/brandy/), [a](/zh/post/a/) [type](/zh/post/type/) [of](/zh/post/of/) [spirit](/zh/post/spirit/).
+    - 情绪，态度：[He](/zh/post/he/) was [in](/zh/post/in/) [high](/zh/post/high/) spirits [after](/zh/post/after/) winning [the](/zh/post/the/) [game](/zh/post/game/).
 
 - **形容词**:
-    - 精神上的，无形的：[We](/post/we/) talked [about](/post/about/) [spiritual](/post/spiritual/) matters.
-    - 勇敢的，有决心的：[She](/post/she/) showed [great](/post/great/) [spirit](/post/spirit/) [in](/post/in/) facing [her](/post/her/) challenges.
+    - 精神上的，无形的：[We](/zh/post/we/) talked [about](/zh/post/about/) [spiritual](/zh/post/spiritual/) matters.
+    - 勇敢的，有决心的：[She](/zh/post/she/) showed [great](/zh/post/great/) [spirit](/zh/post/spirit/) [in](/zh/post/in/) facing [her](/zh/post/her/) challenges.
 
 ## 短语
-- "[In](/post/in/) [high](/post/high/) spirits" 意为情绪高涨，心情愉快。
-- "[The](/post/the/) [spirit](/post/spirit/) [of](/post/of/) [the](/post/the/) [law](/post/law/)" 指法律的精神或意图，而不仅仅是字面意义。
-- "[Lift](/post/lift/) one's spirits" 表示振奋精神或鼓舞士气。
+- "[In](/zh/post/in/) [high](/zh/post/high/) spirits" 意为情绪高涨，心情愉快。
+- "[The](/zh/post/the/) [spirit](/zh/post/spirit/) [of](/zh/post/of/) [the](/zh/post/the/) [law](/zh/post/law/)" 指法律的精神或意图，而不仅仅是字面意义。
+- "[Lift](/zh/post/lift/) one's spirits" 表示振奋精神或鼓舞士气。
 
 ## 例句
-- 名词: "[The](/post/the/) athletes were inspired [by](/post/by/) [the](/post/the/) [spirit](/post/spirit/) [of](/post/of/) [competition](/post/competition/)."
-- 形容词: "[She](/post/she/) demonstrated [great](/post/great/) [spirit](/post/spirit/) [when](/post/when/) [she](/post/she/) stood [up](/post/up/) [to](/post/to/) [her](/post/her/) [opponent](/post/opponent/)."
+- 名词: "[The](/zh/post/the/) athletes were inspired [by](/zh/post/by/) [the](/zh/post/the/) [spirit](/zh/post/spirit/) [of](/zh/post/of/) [competition](/zh/post/competition/)."
+- 形容词: "[She](/zh/post/she/) demonstrated [great](/zh/post/great/) [spirit](/zh/post/spirit/) [when](/zh/post/when/) [she](/zh/post/she/) stood [up](/zh/post/up/) [to](/zh/post/to/) [her](/zh/post/her/) [opponent](/zh/post/opponent/)."
 
 ## 同义词
-- [Mind](/post/mind/)
-- [Soul](/post/soul/)
+- [Mind](/zh/post/mind/)
+- [Soul](/zh/post/soul/)
 - Essence
-- [Mood](/post/mood/)
+- [Mood](/zh/post/mood/)
 - Temperament

@@ -7,34 +7,34 @@ description = '[ˈtʌmbl] vi.摔倒，跌倒；打滚'
 keywords = ['ai words', 'tumble']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tʌmbl/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (n.) [To](/en/post/to/) [fall](/en/post/fall/) [or](/en/post/or/) [roll](/en/post/roll/) [down](/en/post/down/) [or](/en/post/or/) [over](/en/post/over/), typically [in](/en/post/in/) an uncontrolled [manner](/en/post/manner/). (v.) [To](/en/post/to/) [lose](/en/post/lose/) one's [balance](/en/post/balance/) [and](/en/post/and/) [fall](/en/post/fall/). (n.) [A](/en/post/a/) [sudden](/en/post/sudden/) [or](/en/post/or/) [unexpected](/en/post/unexpected/) [event](/en/post/event/) [or](/en/post/or/) [collapse](/en/post/collapse/). (adj.) Disordered [or](/en/post/or/) chaotic; confused.
+- **[Verb](/post/verb/)**: (n.) [To](/post/to/) [fall](/post/fall/) [or](/post/or/) [roll](/post/roll/) [down](/post/down/) [or](/post/or/) [over](/post/over/), typically [in](/post/in/) an uncontrolled [manner](/post/manner/). (v.) [To](/post/to/) [lose](/post/lose/) one's [balance](/post/balance/) [and](/post/and/) [fall](/post/fall/). (n.) [A](/post/a/) [sudden](/post/sudden/) [or](/post/or/) [unexpected](/post/unexpected/) [event](/post/event/) [or](/post/or/) [collapse](/post/collapse/). (adj.) Disordered [or](/post/or/) chaotic; confused.
 
 ## Phrases
-- "Tumbledown [house](/en/post/house/)" refers [to](/en/post/to/) [a](/en/post/a/) dilapidated [building](/en/post/building/).
-- "Tumbleweed" is [a](/en/post/a/) slang [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) rolls [with](/en/post/with/) [the](/en/post/the/) punches [or](/en/post/or/) is carefree.
-- "[Tumble](/en/post/tumble/) [and](/en/post/and/) [roll](/en/post/roll/)" is [a](/en/post/a/) self-defense maneuver.
+- "Tumbledown [house](/post/house/)" refers [to](/post/to/) [a](/post/a/) dilapidated [building](/post/building/).
+- "Tumbleweed" is [a](/post/a/) slang [term](/post/term/) [for](/post/for/) [a](/post/a/) [person](/post/person/) [who](/post/who/) rolls [with](/post/with/) [the](/post/the/) punches [or](/post/or/) is carefree.
+- "[Tumble](/post/tumble/) [and](/post/and/) [roll](/post/roll/)" is [a](/post/a/) self-defense maneuver.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [child](/en/post/child/) tumbled [off](/en/post/off/) [the](/en/post/the/) [swing](/en/post/swing/) [and](/en/post/and/) landed [on](/en/post/on/) [her](/en/post/her/) feet."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [earthquake](/en/post/earthquake/), [the](/en/post/the/) once-grand [building](/en/post/building/) had [become](/en/post/become/) [a](/en/post/a/) tumbledown [ruin](/en/post/ruin/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) messy [room](/en/post/room/) was [a](/en/post/a/) tangle [of](/en/post/of/) [clothes](/en/post/clothes/) [and](/en/post/and/) books, [a](/en/post/a/) [total](/en/post/total/) [tumble](/en/post/tumble/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [child](/post/child/) tumbled [off](/post/off/) [the](/post/the/) [swing](/post/swing/) [and](/post/and/) landed [on](/post/on/) [her](/post/her/) feet."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [earthquake](/post/earthquake/), [the](/post/the/) once-grand [building](/post/building/) had [become](/post/become/) [a](/post/a/) tumbledown [ruin](/post/ruin/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) messy [room](/post/room/) was [a](/post/a/) tangle [of](/post/of/) [clothes](/post/clothes/) [and](/post/and/) books, [a](/post/a/) [total](/post/total/) [tumble](/post/tumble/)."
 
 ## Synonyms
 - Topple
-- [Fall](/en/post/fall/)
-- [Collapse](/en/post/collapse/)
-- [Go](/en/post/go/) [down](/en/post/down/)
-- [Upset](/en/post/upset/)
+- [Fall](/post/fall/)
+- [Collapse](/post/collapse/)
+- [Go](/post/go/) [down](/post/down/)
+- [Upset](/post/upset/)
 - Disarray
 
 ## Antonyms
-- [Stand](/en/post/stand/)
-- [Rise](/en/post/rise/)
-- [Maintain](/en/post/maintain/)
-- [Balance](/en/post/balance/)
+- [Stand](/post/stand/)
+- [Rise](/post/rise/)
+- [Maintain](/post/maintain/)
+- [Balance](/post/balance/)
 - Orderliness
-- [Stability](/en/post/stability/)
+- [Stability](/post/stability/)

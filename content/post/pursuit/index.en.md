@@ -7,36 +7,36 @@ description = '[pəˈsjuːt] n.追赶；追求；事务'
 keywords = ['ai words', 'pursuit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pərˈsuːt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Pursuit](/en/post/pursuit/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) chasing, pursuing, [or](/en/post/or/) [following](/en/post/following/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [to](/en/post/to/) [catch](/en/post/catch/) [or](/en/post/or/) [attain](/en/post/attain/) [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [police](/en/post/police/) pursued [the](/en/post/the/) fleeing [suspect](/en/post/suspect/)."
-2. **[Pursuit](/en/post/pursuit/) [of](/en/post/of/) [knowledge](/en/post/knowledge/)**: [The](/en/post/the/) [continuous](/en/post/continuous/) [search](/en/post/search/) [for](/en/post/for/) [understanding](/en/post/understanding/) [and](/en/post/and/) [learning](/en/post/learning/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) lifelong [pursuit](/en/post/pursuit/) [of](/en/post/of/) [scientific](/en/post/scientific/) [knowledge](/en/post/knowledge/) led [to](/en/post/to/) [many](/en/post/many/) discoveries."
-3. **[Pursuit](/en/post/pursuit/) hobbies**: Engaging [in](/en/post/in/) activities [one](/en/post/one/) enjoys [in](/en/post/in/) [their](/en/post/their/) [free](/en/post/free/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) [passion](/en/post/passion/) [for](/en/post/for/) [the](/en/post/the/) [pursuit](/en/post/pursuit/) [of](/en/post/of/) [painting](/en/post/painting/)."
+### [Noun](/post/noun/)
+1. **[Pursuit](/post/pursuit/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) chasing, pursuing, [or](/post/or/) [following](/post/following/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [to](/post/to/) [catch](/post/catch/) [or](/post/or/) [attain](/post/attain/) [it](/post/it/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [police](/post/police/) pursued [the](/post/the/) fleeing [suspect](/post/suspect/)."
+2. **[Pursuit](/post/pursuit/) [of](/post/of/) [knowledge](/post/knowledge/)**: [The](/post/the/) [continuous](/post/continuous/) [search](/post/search/) [for](/post/for/) [understanding](/post/understanding/) [and](/post/and/) [learning](/post/learning/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) lifelong [pursuit](/post/pursuit/) [of](/post/of/) [scientific](/post/scientific/) [knowledge](/post/knowledge/) led [to](/post/to/) [many](/post/many/) discoveries."
+3. **[Pursuit](/post/pursuit/) hobbies**: Engaging [in](/post/in/) activities [one](/post/one/) enjoys [in](/post/in/) [their](/post/their/) [free](/post/free/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) had [a](/post/a/) [passion](/post/passion/) [for](/post/for/) [the](/post/the/) [pursuit](/post/pursuit/) [of](/post/of/) [painting](/post/painting/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [chase](/en/post/chase/) [or](/en/post/or/) [follow](/en/post/follow/) [after](/en/post/after/) [with](/en/post/with/) [the](/en/post/the/) [aim](/en/post/aim/) [of](/en/post/of/) capturing [or](/en/post/or/) obtaining. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) pursued [his](/en/post/his/) [dream](/en/post/dream/) [career](/en/post/career/) [in](/en/post/in/) journalism."
-2. [To](/en/post/to/) actively [seek](/en/post/seek/) [or](/en/post/or/) strive [for](/en/post/for/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "Students [pursue](/en/post/pursue/) higher [education](/en/post/education/) [to](/en/post/to/) [gain](/en/post/gain/) skills [for](/en/post/for/) [the](/en/post/the/) [future](/en/post/future/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [chase](/post/chase/) [or](/post/or/) [follow](/post/follow/) [after](/post/after/) [with](/post/with/) [the](/post/the/) [aim](/post/aim/) [of](/post/of/) capturing [or](/post/or/) obtaining. [For](/post/for/) [example](/post/example/): "[He](/post/he/) pursued [his](/post/his/) [dream](/post/dream/) [career](/post/career/) [in](/post/in/) journalism."
+2. [To](/post/to/) actively [seek](/post/seek/) [or](/post/or/) strive [for](/post/for/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "Students [pursue](/post/pursue/) higher [education](/post/education/) [to](/post/to/) [gain](/post/gain/) skills [for](/post/for/) [the](/post/the/) [future](/post/future/)."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [pursuit](/en/post/pursuit/) [of](/en/post/of/) [happiness](/en/post/happiness/)" refers [to](/en/post/to/) [the](/en/post/the/) [search](/en/post/search/) [for](/en/post/for/) well-being [and](/en/post/and/) contentment.
-- "[The](/en/post/the/) [pursuit](/en/post/pursuit/) [of](/en/post/of/) [justice](/en/post/justice/)" is [the](/en/post/the/) [effort](/en/post/effort/) [to](/en/post/to/) uphold fairness [and](/en/post/and/) rightness.
-- "[The](/en/post/the/) [pursuit](/en/post/pursuit/) [of](/en/post/of/) excellence" is [a](/en/post/a/) commitment [to](/en/post/to/) striving [for](/en/post/for/) [the](/en/post/the/) [best](/en/post/best/).
+- "[In](/post/in/) [the](/post/the/) [pursuit](/post/pursuit/) [of](/post/of/) [happiness](/post/happiness/)" refers [to](/post/to/) [the](/post/the/) [search](/post/search/) [for](/post/for/) well-being [and](/post/and/) contentment.
+- "[The](/post/the/) [pursuit](/post/pursuit/) [of](/post/of/) [justice](/post/justice/)" is [the](/post/the/) [effort](/post/effort/) [to](/post/to/) uphold fairness [and](/post/and/) rightness.
+- "[The](/post/the/) [pursuit](/post/pursuit/) [of](/post/of/) excellence" is [a](/post/a/) commitment [to](/post/to/) striving [for](/post/for/) [the](/post/the/) [best](/post/best/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) hiker was determined [to](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) summit, [despite](/en/post/despite/) [the](/en/post/the/) challenging [pursuit](/en/post/pursuit/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) graduating, [he](/en/post/he/) pursued [a](/en/post/a/) [career](/en/post/career/) [in](/en/post/in/) [law](/en/post/law/), relentlessly pursuing [justice](/en/post/justice/) [for](/en/post/for/) [the](/en/post/the/) victims."
-- **[Pursuit](/en/post/pursuit/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[He](/en/post/he/) pursued [his](/en/post/his/) [dream](/en/post/dream/) [of](/en/post/of/) becoming [a](/en/post/a/) [professional](/en/post/professional/) [musician](/en/post/musician/), practicing diligently [every](/en/post/every/) [day](/en/post/day/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) hiker was determined [to](/post/to/) [reach](/post/reach/) [the](/post/the/) summit, [despite](/post/despite/) [the](/post/the/) challenging [pursuit](/post/pursuit/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) graduating, [he](/post/he/) pursued [a](/post/a/) [career](/post/career/) [in](/post/in/) [law](/post/law/), relentlessly pursuing [justice](/post/justice/) [for](/post/for/) [the](/post/the/) victims."
+- **[Pursuit](/post/pursuit/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "[He](/post/he/) pursued [his](/post/his/) [dream](/post/dream/) [of](/post/of/) becoming [a](/post/a/) [professional](/post/professional/) [musician](/post/musician/), practicing diligently [every](/post/every/) [day](/post/day/)."
 
 ## Synonyms
 - Chasing
 - Tracking
-- [Following](/en/post/following/)
+- [Following](/post/following/)
 - Seeking
-- Going [after](/en/post/after/)
-- Striving [for](/en/post/for/)
+- Going [after](/post/after/)
+- Striving [for](/post/for/)
 - Attainment
-- [Goal](/en/post/goal/)
-- [Objective](/en/post/objective/)
+- [Goal](/post/goal/)
+- [Objective](/post/objective/)

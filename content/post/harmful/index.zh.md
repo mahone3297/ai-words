@@ -11,20 +11,20 @@ keywords = ['ai words', 'harmful']
 /hɑːrˈmfl/
 
 ## 释义
-- **形容词**: 造成伤害的，有害的，有毒的。例如: "Smoking is [harmful](/post/harmful/) [to](/post/to/) [your](/post/your/) [health](/post/health/)."
-- **副词**: 有害地，不利地。例如: "[This](/post/this/) [chemical](/post/chemical/) [substance](/post/substance/) [can](/post/can/) harmfully [affect](/post/affect/) [the](/post/the/) [environment](/post/environment/)."
+- **形容词**: 造成伤害的，有害的，有毒的。例如: "Smoking is [harmful](/zh/post/harmful/) [to](/zh/post/to/) [your](/zh/post/your/) [health](/zh/post/health/)."
+- **副词**: 有害地，不利地。例如: "[This](/zh/post/this/) [chemical](/zh/post/chemical/) [substance](/zh/post/substance/) [can](/zh/post/can/) harmfully [affect](/zh/post/affect/) [the](/zh/post/the/) [environment](/zh/post/environment/)."
 
 ## 短语
-- "[Harmful](/post/harmful/) effects" 指的是不良影响或损害作用。
-- "[Harmful](/post/harmful/) substances" 指的是有毒或危险的物质。
+- "[Harmful](/zh/post/harmful/) effects" 指的是不良影响或损害作用。
+- "[Harmful](/zh/post/harmful/) substances" 指的是有毒或危险的物质。
 
 ## 例句
-- 形容词: "[Exposure](/post/exposure/) [to](/post/to/) UV rays [can](/post/can/) [be](/post/be/) [harmful](/post/harmful/) [to](/post/to/) [your](/post/your/) [skin](/post/skin/)."
-- 副词: "[The](/post/the/) [pollution](/post/pollution/) is harmfully impacting [the](/post/the/) [marine](/post/marine/) [life](/post/life/)."
+- 形容词: "[Exposure](/zh/post/exposure/) [to](/zh/post/to/) UV rays [can](/zh/post/can/) [be](/zh/post/be/) [harmful](/zh/post/harmful/) [to](/zh/post/to/) [your](/zh/post/your/) [skin](/zh/post/skin/)."
+- 副词: "[The](/zh/post/the/) [pollution](/zh/post/pollution/) is harmfully impacting [the](/zh/post/the/) [marine](/zh/post/marine/) [life](/zh/post/life/)."
 
 ## 同义词
-- [Dangerous](/post/dangerous/)
-- [Poisonous](/post/poisonous/)
+- [Dangerous](/zh/post/dangerous/)
+- [Poisonous](/zh/post/poisonous/)
 - Detrimental
 - Injurious
 - Perilous

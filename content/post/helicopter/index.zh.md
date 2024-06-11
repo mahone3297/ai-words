@@ -14,15 +14,15 @@ keywords = ['ai words', 'helicopter']
 - **名词**: 一种能垂直起降和悬停的飞行器，通常有两个或更多的旋转叶片提供升力和推进力。
 
 ## 短语
-- "[helicopter](/post/helicopter/) [parent](/post/parent/)" 指过度参与孩子生活的父母。
-- "[helicopter](/post/helicopter/) [view](/post/view/)" 指从高处俯瞰全局的视角。
+- "[helicopter](/zh/post/helicopter/) [parent](/zh/post/parent/)" 指过度参与孩子生活的父母。
+- "[helicopter](/zh/post/helicopter/) [view](/zh/post/view/)" 指从高处俯瞰全局的视角。
 
 ## 例句
-- "[The](/post/the/) [helicopter](/post/helicopter/) landed [on](/post/on/) [the](/post/the/) rooftop, transporting [the](/post/the/) injured [person](/post/person/) [to](/post/to/) [the](/post/the/) [hospital](/post/hospital/)."
-- "[He](/post/he/) [could](/post/could/) [see](/post/see/) [the](/post/the/) [entire](/post/entire/) [city](/post/city/) [from](/post/from/) [the](/post/the/) helicopter's bird's-eye [view](/post/view/)."
+- "[The](/zh/post/the/) [helicopter](/zh/post/helicopter/) landed [on](/zh/post/on/) [the](/zh/post/the/) rooftop, transporting [the](/zh/post/the/) injured [person](/zh/post/person/) [to](/zh/post/to/) [the](/zh/post/the/) [hospital](/zh/post/hospital/)."
+- "[He](/zh/post/he/) [could](/zh/post/could/) [see](/zh/post/see/) [the](/zh/post/the/) [entire](/zh/post/entire/) [city](/zh/post/city/) [from](/zh/post/from/) [the](/zh/post/the/) helicopter's bird's-eye [view](/zh/post/view/)."
 
 ## 同义词
 - rotorcraft
 - chopper
 - whirlybird
-- aerial [vehicle](/post/vehicle/)
+- aerial [vehicle](/zh/post/vehicle/)

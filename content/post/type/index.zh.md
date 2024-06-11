@@ -11,22 +11,22 @@ keywords = ['ai words', 'type']
 /taɪp/
 
 ## 释义
-- **名词 (n)**: 1. 类型，种类。例如: "[There](/post/there/) are [different](/post/different/) types [of](/post/of/) dogs." 2. 样式，模式。例如: "[This](/post/this/) is [the](/post/the/) [new](/post/new/) [type](/post/type/) [of](/post/of/) smartphone." 3. 打字机或打印机上的字符。例如: "[She](/post/she/) [hit](/post/hit/) [the](/post/the/) spacebar [to](/post/to/) [move](/post/move/) [the](/post/the/) cursor [to](/post/to/) [the](/post/the/) [next](/post/next/) [type](/post/type/)."
-- **动词 (v)**: 1. 打字，键入。例如: "I [need](/post/need/) [to](/post/to/) [type](/post/type/) [up](/post/up/) [this](/post/this/) [report](/post/report/) [before](/post/before/) [the](/post/the/) [meeting](/post/meeting/)." 2. 归类，分类。例如: "[The](/post/the/) animals were typed based [on](/post/on/) [their](/post/their/) genetic traits."
+- **名词 (n)**: 1. 类型，种类。例如: "[There](/zh/post/there/) are [different](/zh/post/different/) types [of](/zh/post/of/) dogs." 2. 样式，模式。例如: "[This](/zh/post/this/) is [the](/zh/post/the/) [new](/zh/post/new/) [type](/zh/post/type/) [of](/zh/post/of/) smartphone." 3. 打字机或打印机上的字符。例如: "[She](/zh/post/she/) [hit](/zh/post/hit/) [the](/zh/post/the/) spacebar [to](/zh/post/to/) [move](/zh/post/move/) [the](/zh/post/the/) cursor [to](/zh/post/to/) [the](/zh/post/the/) [next](/zh/post/next/) [type](/zh/post/type/)."
+- **动词 (v)**: 1. 打字，键入。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [type](/zh/post/type/) [up](/zh/post/up/) [this](/zh/post/this/) [report](/zh/post/report/) [before](/zh/post/before/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)." 2. 归类，分类。例如: "[The](/zh/post/the/) animals were typed based [on](/zh/post/on/) [their](/zh/post/their/) genetic traits."
 
 ## 短语
-- "[Typical](/post/typical/) [of](/post/of/) [something](/post/something/)" 意味着某事物的典型特征。
+- "[Typical](/zh/post/typical/) [of](/zh/post/of/) [something](/zh/post/something/)" 意味着某事物的典型特征。
 - "Typecast" 指因常扮演某一类型角色而被定型。
-- "[Type](/post/type/) [error](/post/error/)" 在编程中指的是错误的类型使用。
+- "[Type](/zh/post/type/) [error](/zh/post/error/)" 在编程中指的是错误的类型使用。
 
 ## 例句
-- 名词: "[The](/post/the/) [novel](/post/novel/) has [a](/post/a/) [mix](/post/mix/) [of](/post/of/) romance [and](/post/and/) [adventure](/post/adventure/) genres, [so](/post/so/) it's [a](/post/a/) [type](/post/type/) [of](/post/of/) crossover [literature](/post/literature/)."
-- 动词: "[She](/post/she/) [quickly](/post/quickly/) typed [out](/post/out/) [her](/post/her/) email [and](/post/and/) [hit](/post/hit/) [send](/post/send/)."
-- 感叹词（非正式用法）: "[Type](/post/type/) [it](/post/it/) [up](/post/up/) [now](/post/now/), [or](/post/or/) you'll [be](/post/be/) [late](/post/late/)!"
+- 名词: "[The](/zh/post/the/) [novel](/zh/post/novel/) has [a](/zh/post/a/) [mix](/zh/post/mix/) [of](/zh/post/of/) romance [and](/zh/post/and/) [adventure](/zh/post/adventure/) genres, [so](/zh/post/so/) it's [a](/zh/post/a/) [type](/zh/post/type/) [of](/zh/post/of/) crossover [literature](/zh/post/literature/)."
+- 动词: "[She](/zh/post/she/) [quickly](/zh/post/quickly/) typed [out](/zh/post/out/) [her](/zh/post/her/) email [and](/zh/post/and/) [hit](/zh/post/hit/) [send](/zh/post/send/)."
+- 感叹词（非正式用法）: "[Type](/zh/post/type/) [it](/zh/post/it/) [up](/zh/post/up/) [now](/zh/post/now/), [or](/zh/post/or/) you'll [be](/zh/post/be/) [late](/zh/post/late/)!"
 
 ## 同义词
-- [Kind](/post/kind/)
-- [Sort](/post/sort/)
+- [Kind](/zh/post/kind/)
+- [Sort](/zh/post/sort/)
 - Category
-- [Variety](/post/variety/)
+- [Variety](/zh/post/variety/)
 - Genre

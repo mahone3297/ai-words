@@ -7,49 +7,49 @@ description = '[wei] n.路；路线；方向'
 keywords = ['ai words', 'way']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wā/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [manner](/en/post/manner/) [or](/en/post/or/) [method](/en/post/method/) [of](/en/post/of/) doing [something](/en/post/something/): "[There](/en/post/there/) are [many](/en/post/many/) ways [to](/en/post/to/) [solve](/en/post/solve/) [this](/en/post/this/) [problem](/en/post/problem/)."
-- [A](/en/post/a/) [particular](/en/post/particular/) [course](/en/post/course/) [or](/en/post/or/) [direction](/en/post/direction/) taken: "[Take](/en/post/take/) [the](/en/post/the/) [left](/en/post/left/) [way](/en/post/way/) [down](/en/post/down/) [the](/en/post/the/) [street](/en/post/street/)."
-- An [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/): "[She](/en/post/she/) was [grateful](/en/post/grateful/) [for](/en/post/for/) [his](/en/post/his/) [kindness](/en/post/kindness/) [in](/en/post/in/) [every](/en/post/every/) [way](/en/post/way/)."
-- [A](/en/post/a/) [social](/en/post/social/) [or](/en/post/or/) [personal](/en/post/personal/) [relationship](/en/post/relationship/): "We've known [each](/en/post/each/) [other](/en/post/other/) [for](/en/post/for/) [many](/en/post/many/) ways."
+### [Noun](/post/noun/)
+- [A](/post/a/) [manner](/post/manner/) [or](/post/or/) [method](/post/method/) [of](/post/of/) doing [something](/post/something/): "[There](/post/there/) are [many](/post/many/) ways [to](/post/to/) [solve](/post/solve/) [this](/post/this/) [problem](/post/problem/)."
+- [A](/post/a/) [particular](/post/particular/) [course](/post/course/) [or](/post/or/) [direction](/post/direction/) taken: "[Take](/post/take/) [the](/post/the/) [left](/post/left/) [way](/post/way/) [down](/post/down/) [the](/post/the/) [street](/post/street/)."
+- An [extent](/post/extent/) [or](/post/or/) [degree](/post/degree/): "[She](/post/she/) was [grateful](/post/grateful/) [for](/post/for/) [his](/post/his/) [kindness](/post/kindness/) [in](/post/in/) [every](/post/every/) [way](/post/way/)."
+- [A](/post/a/) [social](/post/social/) [or](/post/or/) [personal](/post/personal/) [relationship](/post/relationship/): "We've known [each](/post/each/) [other](/post/other/) [for](/post/for/) [many](/post/many/) ways."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [travel](/en/post/travel/) [or](/en/post/or/) [go](/en/post/go/) [along](/en/post/along/) [a](/en/post/a/) [route](/en/post/route/): "I'll [be](/en/post/be/) driving [that](/en/post/that/) [way](/en/post/way/) [tomorrow](/en/post/tomorrow/)."
-- [To](/en/post/to/) [perform](/en/post/perform/) [or](/en/post/or/) [execute](/en/post/execute/) ([a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [action](/en/post/action/)): "[She](/en/post/she/) knew [how](/en/post/how/) [to](/en/post/to/) [way](/en/post/way/) [her](/en/post/her/) guitar."
-- [To](/en/post/to/) [express](/en/post/express/) [or](/en/post/or/) [convey](/en/post/convey/) [something](/en/post/something/): "[He](/en/post/he/) ways [his](/en/post/his/) [opinion](/en/post/opinion/) [clearly](/en/post/clearly/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [travel](/post/travel/) [or](/post/or/) [go](/post/go/) [along](/post/along/) [a](/post/a/) [route](/post/route/): "I'll [be](/post/be/) driving [that](/post/that/) [way](/post/way/) [tomorrow](/post/tomorrow/)."
+- [To](/post/to/) [perform](/post/perform/) [or](/post/or/) [execute](/post/execute/) ([a](/post/a/) [task](/post/task/) [or](/post/or/) [action](/post/action/)): "[She](/post/she/) knew [how](/post/how/) [to](/post/to/) [way](/post/way/) [her](/post/her/) guitar."
+- [To](/post/to/) [express](/post/express/) [or](/post/or/) [convey](/post/convey/) [something](/post/something/): "[He](/post/he/) ways [his](/post/his/) [opinion](/post/opinion/) [clearly](/post/clearly/)."
 
-### [Adjective](/en/post/adjective/)
-- [Characteristic](/en/post/characteristic/) [or](/en/post/or/) [typical](/en/post/typical/): "[The](/en/post/the/) old-fashioned [way](/en/post/way/) [of](/en/post/of/) doing things."
-- [In](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [manner](/en/post/manner/): "[She](/en/post/she/) handled [the](/en/post/the/) [situation](/en/post/situation/) [in](/en/post/in/) [a](/en/post/a/) [calm](/en/post/calm/) [and](/en/post/and/) [considerate](/en/post/considerate/) [way](/en/post/way/)."
+### [Adjective](/post/adjective/)
+- [Characteristic](/post/characteristic/) [or](/post/or/) [typical](/post/typical/): "[The](/post/the/) old-fashioned [way](/post/way/) [of](/post/of/) doing things."
+- [In](/post/in/) [a](/post/a/) [particular](/post/particular/) [manner](/post/manner/): "[She](/post/she/) handled [the](/post/the/) [situation](/post/situation/) [in](/post/in/) [a](/post/a/) [calm](/post/calm/) [and](/post/and/) [considerate](/post/considerate/) [way](/post/way/)."
 
-### [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) specified [manner](/en/post/manner/) [or](/en/post/or/) [direction](/en/post/direction/): "[He](/en/post/he/) spoke [in](/en/post/in/) [a](/en/post/a/) [friendly](/en/post/friendly/) [way](/en/post/way/)."
-- [To](/en/post/to/) [a](/en/post/a/) [great](/en/post/great/) [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/): "She's been [through](/en/post/through/) [many](/en/post/many/) ways emotionally."
+### [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) specified [manner](/post/manner/) [or](/post/or/) [direction](/post/direction/): "[He](/post/he/) spoke [in](/post/in/) [a](/post/a/) [friendly](/post/friendly/) [way](/post/way/)."
+- [To](/post/to/) [a](/post/a/) [great](/post/great/) [extent](/post/extent/) [or](/post/or/) [degree](/post/degree/): "She's been [through](/post/through/) [many](/post/many/) ways emotionally."
 
 ## Phrases
-- "[In](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/)" implies [a](/en/post/a/) figurative [sense](/en/post/sense/) [or](/en/post/or/) [comparison](/en/post/comparison/): "[In](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/), [it](/en/post/it/) was [fate](/en/post/fate/)."
-- "[Every](/en/post/every/) [which](/en/post/which/) [way](/en/post/way/)" describes [various](/en/post/various/) directions [or](/en/post/or/) circumstances: "[The](/en/post/the/) [ball](/en/post/ball/) rolled [every](/en/post/every/) [which](/en/post/which/) [way](/en/post/way/) [after](/en/post/after/) [the](/en/post/the/) [kick](/en/post/kick/)."
-- "[No](/en/post/no/) [way](/en/post/way/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [meaning](/en/post/meaning/) "[impossible](/en/post/impossible/)" [or](/en/post/or/) "[definitely](/en/post/definitely/) [not](/en/post/not/)."
+- "[In](/post/in/) [a](/post/a/) [way](/post/way/)" implies [a](/post/a/) figurative [sense](/post/sense/) [or](/post/or/) [comparison](/post/comparison/): "[In](/post/in/) [a](/post/a/) [way](/post/way/), [it](/post/it/) was [fate](/post/fate/)."
+- "[Every](/post/every/) [which](/post/which/) [way](/post/way/)" describes [various](/post/various/) directions [or](/post/or/) circumstances: "[The](/post/the/) [ball](/post/ball/) rolled [every](/post/every/) [which](/post/which/) [way](/post/way/) [after](/post/after/) [the](/post/the/) [kick](/post/kick/)."
+- "[No](/post/no/) [way](/post/way/)" is [a](/post/a/) colloquial [expression](/post/expression/) [meaning](/post/meaning/) "[impossible](/post/impossible/)" [or](/post/or/) "[definitely](/post/definitely/) [not](/post/not/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[There](/en/post/there/) are [several](/en/post/several/) ways [to](/en/post/to/) [approach](/en/post/approach/) [this](/en/post/this/) [project](/en/post/project/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [found](/en/post/found/) [his](/en/post/his/) [way](/en/post/way/) [home](/en/post/home/) [even](/en/post/even/) [in](/en/post/in/) [the](/en/post/the/) [dark](/en/post/dark/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [way](/en/post/way/) [of](/en/post/of/) thinking was unconventional."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) smiled [at](/en/post/at/) [him](/en/post/him/) [in](/en/post/in/) [a](/en/post/a/) [friendly](/en/post/friendly/) [way](/en/post/way/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[There](/post/there/) are [several](/post/several/) ways [to](/post/to/) [approach](/post/approach/) [this](/post/this/) [project](/post/project/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) [found](/post/found/) [his](/post/his/) [way](/post/way/) [home](/post/home/) [even](/post/even/) [in](/post/in/) [the](/post/the/) [dark](/post/dark/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [way](/post/way/) [of](/post/of/) thinking was unconventional."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) smiled [at](/post/at/) [him](/post/him/) [in](/post/in/) [a](/post/a/) [friendly](/post/friendly/) [way](/post/way/)."
 
 ## Synonyms
-- [Manner](/en/post/manner/)
-- [Approach](/en/post/approach/)
-- [Route](/en/post/route/)
-- [Method](/en/post/method/)
-- [Fashion](/en/post/fashion/)
-- [Style](/en/post/style/)
-- [Form](/en/post/form/)
-- [Path](/en/post/path/)
-- [Mode](/en/post/mode/)
-- [Means](/en/post/means/)
-- [Sense](/en/post/sense/)
+- [Manner](/post/manner/)
+- [Approach](/post/approach/)
+- [Route](/post/route/)
+- [Method](/post/method/)
+- [Fashion](/post/fashion/)
+- [Style](/post/style/)
+- [Form](/post/form/)
+- [Path](/post/path/)
+- [Mode](/post/mode/)
+- [Means](/post/means/)
+- [Sense](/post/sense/)

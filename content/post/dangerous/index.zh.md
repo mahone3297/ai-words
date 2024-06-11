@@ -11,17 +11,17 @@ keywords = ['ai words', 'dangerous']
 /dəˈnædʒərəs/
 
 ## 释义
-- **形容词**: 危险的，可能导致伤害、损害或不安全的。例如: "It's [dangerous](/post/dangerous/) [to](/post/to/) [walk](/post/walk/) [alone](/post/alone/) [at](/post/at/) [night](/post/night/) [in](/post/in/) [this](/post/this/) [area](/post/area/)."
-- **名词**: （尤指潜在的）危险，风险。例如: "[The](/post/the/) [dangerous](/post/dangerous/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [job](/post/job/) is handling toxic chemicals."
+- **形容词**: 危险的，可能导致伤害、损害或不安全的。例如: "It's [dangerous](/zh/post/dangerous/) [to](/zh/post/to/) [walk](/zh/post/walk/) [alone](/zh/post/alone/) [at](/zh/post/at/) [night](/zh/post/night/) [in](/zh/post/in/) [this](/zh/post/this/) [area](/zh/post/area/)."
+- **名词**: （尤指潜在的）危险，风险。例如: "[The](/zh/post/the/) [dangerous](/zh/post/dangerous/) [part](/zh/post/part/) [of](/zh/post/of/) [the](/zh/post/the/) [job](/zh/post/job/) is handling toxic chemicals."
 
 ## 短语
-- "[at](/post/at/) [risk](/post/risk/) [of](/post/of/) [danger](/post/danger/)" 表示处于危险之中。
-- "[out](/post/out/) [of](/post/of/) [danger](/post/danger/)" 意味着脱离了危险。
-- "[in](/post/in/) harm's [way](/post/way/)" 指处于可能受到伤害的位置。
+- "[at](/zh/post/at/) [risk](/zh/post/risk/) [of](/zh/post/of/) [danger](/zh/post/danger/)" 表示处于危险之中。
+- "[out](/zh/post/out/) [of](/zh/post/of/) [danger](/zh/post/danger/)" 意味着脱离了危险。
+- "[in](/zh/post/in/) harm's [way](/zh/post/way/)" 指处于可能受到伤害的位置。
 
 ## 例句
-- 形容词: "Driving [too](/post/too/) [fast](/post/fast/) [on](/post/on/) icy roads [can](/post/can/) [be](/post/be/) [very](/post/very/) [dangerous](/post/dangerous/)."
-- 名词: "[After](/post/after/) [the](/post/the/) [surgery](/post/surgery/), [he](/post/he/) was [no](/post/no/) longer [in](/post/in/) [any](/post/any/) [immediate](/post/immediate/) [danger](/post/danger/)."
+- 形容词: "Driving [too](/zh/post/too/) [fast](/zh/post/fast/) [on](/zh/post/on/) icy roads [can](/zh/post/can/) [be](/zh/post/be/) [very](/zh/post/very/) [dangerous](/zh/post/dangerous/)."
+- 名词: "[After](/zh/post/after/) [the](/zh/post/the/) [surgery](/zh/post/surgery/), [he](/zh/post/he/) was [no](/zh/post/no/) longer [in](/zh/post/in/) [any](/zh/post/any/) [immediate](/zh/post/immediate/) [danger](/zh/post/danger/)."
 
 ## 同义词
 - Hazardous

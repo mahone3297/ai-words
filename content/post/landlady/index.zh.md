@@ -11,18 +11,18 @@ keywords = ['ai words', 'landlady']
 /ˈlændleɪdi/
 
 ## 释义
-- **名词**: 女房东；出租房屋的女性主人。例如: "[The](/post/the/) [landlady](/post/landlady/) came [by](/post/by/) [to](/post/to/) [collect](/post/collect/) [the](/post/the/) [rent](/post/rent/)."
-- **名词 (非正式)**: 女经理；女店主。例如: "[The](/post/the/) [landlady](/post/landlady/) [of](/post/of/) [the](/post/the/) [inn](/post/inn/) welcomed [us](/post/us/) warmly."
+- **名词**: 女房东；出租房屋的女性主人。例如: "[The](/zh/post/the/) [landlady](/zh/post/landlady/) came [by](/zh/post/by/) [to](/zh/post/to/) [collect](/zh/post/collect/) [the](/zh/post/the/) [rent](/zh/post/rent/)."
+- **名词 (非正式)**: 女经理；女店主。例如: "[The](/zh/post/the/) [landlady](/zh/post/landlady/) [of](/zh/post/of/) [the](/zh/post/the/) [inn](/zh/post/inn/) welcomed [us](/zh/post/us/) warmly."
 
 ## 短语
-- "[landlord](/post/landlord/) [and](/post/and/) [landlady](/post/landlady/)" 指房东夫妇。
-- "[pay](/post/pay/) [the](/post/the/) [landlady](/post/landlady/)" 意味着支付租金给房东女士。
+- "[landlord](/zh/post/landlord/) [and](/zh/post/and/) [landlady](/zh/post/landlady/)" 指房东夫妇。
+- "[pay](/zh/post/pay/) [the](/zh/post/the/) [landlady](/zh/post/landlady/)" 意味着支付租金给房东女士。
 
 ## 例句
-- "[The](/post/the/) [landlady](/post/landlady/) was [strict](/post/strict/) [about](/post/about/) keeping [the](/post/the/) [apartment](/post/apartment/) [clean](/post/clean/)."
-- "I had [a](/post/a/) [pleasant](/post/pleasant/) [conversation](/post/conversation/) [with](/post/with/) [the](/post/the/) [landlady](/post/landlady/) [about](/post/about/) [the](/post/the/) lease renewal."
+- "[The](/zh/post/the/) [landlady](/zh/post/landlady/) was [strict](/zh/post/strict/) [about](/zh/post/about/) keeping [the](/zh/post/the/) [apartment](/zh/post/apartment/) [clean](/zh/post/clean/)."
+- "I had [a](/zh/post/a/) [pleasant](/zh/post/pleasant/) [conversation](/zh/post/conversation/) [with](/zh/post/with/) [the](/zh/post/the/) [landlady](/zh/post/landlady/) [about](/zh/post/about/) [the](/zh/post/the/) lease renewal."
 
 ## 同义词
-- [female](/post/female/) [landlord](/post/landlord/)
+- [female](/zh/post/female/) [landlord](/zh/post/landlord/)
 - proprietress
-- innkeeper ([if](/post/if/) referring [to](/post/to/) [a](/post/a/) [hotel](/post/hotel/) [or](/post/or/) pub [owner](/post/owner/))
+- innkeeper ([if](/zh/post/if/) referring [to](/zh/post/to/) [a](/zh/post/a/) [hotel](/zh/post/hotel/) [or](/zh/post/or/) pub [owner](/zh/post/owner/))

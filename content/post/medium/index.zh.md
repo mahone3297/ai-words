@@ -12,30 +12,30 @@ keywords = ['ai words', 'medium']
 
 ## 释义
 - **名词**:
-  - 中间物，媒介：[Something](/post/something/) [that](/post/that/) serves [as](/post/as/) [a](/post/a/) [means](/post/means/) [of](/post/of/) [communication](/post/communication/) [or](/post/or/) [expression](/post/expression/), [such](/post/such/) [as](/post/as/) [television](/post/television/), [radio](/post/radio/), [or](/post/or/) [print](/post/print/).
-  - 平均值，中等：[A](/post/a/) [value](/post/value/) [that](/post/that/) is midway [between](/post/between/) [the](/post/the/) largest [and](/post/and/) smallest values [in](/post/in/) [a](/post/a/) [set](/post/set/).
-  - 介质，媒介物：[The](/post/the/) [substance](/post/substance/) [through](/post/through/) [which](/post/which/) [something](/post/something/) passes [or](/post/or/) acts, [like](/post/like/) [air](/post/air/) [or](/post/or/) [water](/post/water/).
+  - 中间物，媒介：[Something](/zh/post/something/) [that](/zh/post/that/) serves [as](/zh/post/as/) [a](/zh/post/a/) [means](/zh/post/means/) [of](/zh/post/of/) [communication](/zh/post/communication/) [or](/zh/post/or/) [expression](/zh/post/expression/), [such](/zh/post/such/) [as](/zh/post/as/) [television](/zh/post/television/), [radio](/zh/post/radio/), [or](/zh/post/or/) [print](/zh/post/print/).
+  - 平均值，中等：[A](/zh/post/a/) [value](/zh/post/value/) [that](/zh/post/that/) is midway [between](/zh/post/between/) [the](/zh/post/the/) largest [and](/zh/post/and/) smallest values [in](/zh/post/in/) [a](/zh/post/a/) [set](/zh/post/set/).
+  - 介质，媒介物：[The](/zh/post/the/) [substance](/zh/post/substance/) [through](/zh/post/through/) [which](/zh/post/which/) [something](/zh/post/something/) passes [or](/zh/post/or/) acts, [like](/zh/post/like/) [air](/zh/post/air/) [or](/zh/post/or/) [water](/zh/post/water/).
 
 - **形容词**:
-  - 中等的，适中的：[Not](/post/not/) [too](/post/too/) [large](/post/large/) [or](/post/or/) [too](/post/too/) [small](/post/small/); [moderate](/post/moderate/).
-  - 平均的，中等水平的：[Of](/post/of/) [average](/post/average/) [quality](/post/quality/) [or](/post/or/) [ability](/post/ability/).
+  - 中等的，适中的：[Not](/zh/post/not/) [too](/zh/post/too/) [large](/zh/post/large/) [or](/zh/post/or/) [too](/zh/post/too/) [small](/zh/post/small/); [moderate](/zh/post/moderate/).
+  - 平均的，中等水平的：[Of](/zh/post/of/) [average](/zh/post/average/) [quality](/zh/post/quality/) [or](/zh/post/or/) [ability](/zh/post/ability/).
 
 ## 短语
-- "[the](/post/the/) [medium](/post/medium/) [of](/post/of/) [television](/post/television/)" 指电视这种传播媒介。
-- "medium-sized [company](/post/company/)" 指中等规模的公司。
-- "[medium](/post/medium/) [rare](/post/rare/)" 在烹饪中用来描述牛排等食物的熟度，意为半熟。
+- "[the](/zh/post/the/) [medium](/zh/post/medium/) [of](/zh/post/of/) [television](/zh/post/television/)" 指电视这种传播媒介。
+- "medium-sized [company](/zh/post/company/)" 指中等规模的公司。
+- "[medium](/zh/post/medium/) [rare](/zh/post/rare/)" 在烹饪中用来描述牛排等食物的熟度，意为半熟。
 
 ## 例句
-- 名词: "[News](/post/news/) [can](/post/can/) [be](/post/be/) conveyed [through](/post/through/) [various](/post/various/) media, [such](/post/such/) [as](/post/as/) newspapers [and](/post/and/) [the](/post/the/) internet."
-- 形容词: "[She](/post/she/) likes [her](/post/her/) steak cooked [medium](/post/medium/) [so](/post/so/) it's [still](/post/still/) [slightly](/post/slightly/) [pink](/post/pink/) [inside](/post/inside/)."
+- 名词: "[News](/zh/post/news/) [can](/zh/post/can/) [be](/zh/post/be/) conveyed [through](/zh/post/through/) [various](/zh/post/various/) media, [such](/zh/post/such/) [as](/zh/post/as/) newspapers [and](/zh/post/and/) [the](/zh/post/the/) internet."
+- 形容词: "[She](/zh/post/she/) likes [her](/zh/post/her/) steak cooked [medium](/zh/post/medium/) [so](/zh/post/so/) it's [still](/zh/post/still/) [slightly](/zh/post/slightly/) [pink](/zh/post/pink/) [inside](/zh/post/inside/)."
 
 ## 同义词
-- [Noun](/post/noun/):
-  - [Channel](/post/channel/)
-  - [Method](/post/method/)
-  - [Agent](/post/agent/)
+- [Noun](/zh/post/noun/):
+  - [Channel](/zh/post/channel/)
+  - [Method](/zh/post/method/)
+  - [Agent](/zh/post/agent/)
 
-- [Adjective](/post/adjective/):
-  - [Average](/post/average/)
-  - [Moderate](/post/moderate/)
-  - [Reasonable](/post/reasonable/)
+- [Adjective](/zh/post/adjective/):
+  - [Average](/zh/post/average/)
+  - [Moderate](/zh/post/moderate/)
+  - [Reasonable](/zh/post/reasonable/)

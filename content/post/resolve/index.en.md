@@ -7,38 +7,38 @@ description = '[riˈzɔlv] vt.解决；决心 n.决心'
 keywords = ['ai words', 'resolve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈzɑːlv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) determining [something](/en/post/something/) [with](/en/post/with/) firmness [and](/en/post/and/) [determination](/en/post/determination/); [a](/en/post/a/) settled [purpose](/en/post/purpose/) [or](/en/post/or/) [decision](/en/post/decision/). **[Example](/en/post/example/):** "[After](/en/post/after/) [much](/en/post/much/) contemplation, [he](/en/post/he/) [finally](/en/post/finally/) resolved [to](/en/post/to/) [change](/en/post/change/) [his](/en/post/his/) [career](/en/post/career/) [path](/en/post/path/)."
-2. [A](/en/post/a/) [solution](/en/post/solution/) [to](/en/post/to/) [a](/en/post/a/) [problem](/en/post/problem/) [or](/en/post/or/) [conflict](/en/post/conflict/); [a](/en/post/a/) [settlement](/en/post/settlement/) [or](/en/post/or/) [conclusion](/en/post/conclusion/). **[Example](/en/post/example/):** "[The](/en/post/the/) [committee](/en/post/committee/) reached [a](/en/post/a/) [resolution](/en/post/resolution/) [on](/en/post/on/) [the](/en/post/the/) budget [issue](/en/post/issue/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) determining [something](/post/something/) [with](/post/with/) firmness [and](/post/and/) [determination](/post/determination/); [a](/post/a/) settled [purpose](/post/purpose/) [or](/post/or/) [decision](/post/decision/). **[Example](/post/example/):** "[After](/post/after/) [much](/post/much/) contemplation, [he](/post/he/) [finally](/post/finally/) resolved [to](/post/to/) [change](/post/change/) [his](/post/his/) [career](/post/career/) [path](/post/path/)."
+2. [A](/post/a/) [solution](/post/solution/) [to](/post/to/) [a](/post/a/) [problem](/post/problem/) [or](/post/or/) [conflict](/post/conflict/); [a](/post/a/) [settlement](/post/settlement/) [or](/post/or/) [conclusion](/post/conclusion/). **[Example](/post/example/):** "[The](/post/the/) [committee](/post/committee/) reached [a](/post/a/) [resolution](/post/resolution/) [on](/post/on/) [the](/post/the/) budget [issue](/post/issue/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) [conclusion](/en/post/conclusion/) [or](/en/post/or/) [make](/en/post/make/) [a](/en/post/a/) [firm](/en/post/firm/) [decision](/en/post/decision/) [about](/en/post/about/) [something](/en/post/something/). **[Example](/en/post/example/):** "[She](/en/post/she/) resolved [to](/en/post/to/) [start](/en/post/start/) [a](/en/post/a/) [new](/en/post/new/) [exercise](/en/post/exercise/) [routine](/en/post/routine/) [after](/en/post/after/) [the](/en/post/the/) [New](/en/post/new/) [Year](/en/post/year/)."
-2. (Computing) [To](/en/post/to/) [resolve](/en/post/resolve/) [a](/en/post/a/) URL [or](/en/post/or/) domain [name](/en/post/name/) [into](/en/post/into/) [its](/en/post/its/) IP [address](/en/post/address/). **[Example](/en/post/example/):** "[The](/en/post/the/) server resolved [the](/en/post/the/) domain [name](/en/post/name/) [to](/en/post/to/) [its](/en/post/its/) [corresponding](/en/post/corresponding/) IP [address](/en/post/address/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [come](/post/come/) [to](/post/to/) [a](/post/a/) [conclusion](/post/conclusion/) [or](/post/or/) [make](/post/make/) [a](/post/a/) [firm](/post/firm/) [decision](/post/decision/) [about](/post/about/) [something](/post/something/). **[Example](/post/example/):** "[She](/post/she/) resolved [to](/post/to/) [start](/post/start/) [a](/post/a/) [new](/post/new/) [exercise](/post/exercise/) [routine](/post/routine/) [after](/post/after/) [the](/post/the/) [New](/post/new/) [Year](/post/year/)."
+2. (Computing) [To](/post/to/) [resolve](/post/resolve/) [a](/post/a/) URL [or](/post/or/) domain [name](/post/name/) [into](/post/into/) [its](/post/its/) IP [address](/post/address/). **[Example](/post/example/):** "[The](/post/the/) server resolved [the](/post/the/) domain [name](/post/name/) [to](/post/to/) [its](/post/its/) [corresponding](/post/corresponding/) IP [address](/post/address/)."
 
-### [Adjective](/en/post/adjective/)
-1. Firmly [set](/en/post/set/) [or](/en/post/or/) determined; resolute. **[Example](/en/post/example/):** "[His](/en/post/his/) [resolve](/en/post/resolve/) was unwavering [in](/en/post/in/) [the](/en/post/the/) [face](/en/post/face/) [of](/en/post/of/) adversity."
-2. ([Mathematics](/en/post/mathematics/)) Having [a](/en/post/a/) [unique](/en/post/unique/) [value](/en/post/value/) [or](/en/post/or/) [answer](/en/post/answer/). **[Example](/en/post/example/):** "[The](/en/post/the/) [equation](/en/post/equation/) has [a](/en/post/a/) [simple](/en/post/simple/) algebraic [resolution](/en/post/resolution/)."
+### [Adjective](/post/adjective/)
+1. Firmly [set](/post/set/) [or](/post/or/) determined; resolute. **[Example](/post/example/):** "[His](/post/his/) [resolve](/post/resolve/) was unwavering [in](/post/in/) [the](/post/the/) [face](/post/face/) [of](/post/of/) adversity."
+2. ([Mathematics](/post/mathematics/)) Having [a](/post/a/) [unique](/post/unique/) [value](/post/value/) [or](/post/or/) [answer](/post/answer/). **[Example](/post/example/):** "[The](/post/the/) [equation](/post/equation/) has [a](/post/a/) [simple](/post/simple/) algebraic [resolution](/post/resolution/)."
 
 ## Phrases
-- "[Resolve](/en/post/resolve/) [a](/en/post/a/) [conflict](/en/post/conflict/)" [means](/en/post/means/) [to](/en/post/to/) [find](/en/post/find/) [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [end](/en/post/end/) [a](/en/post/a/) disagreement [or](/en/post/or/) [dispute](/en/post/dispute/).
-- "[Resolve](/en/post/resolve/) an [issue](/en/post/issue/)" refers [to](/en/post/to/) [finding](/en/post/finding/) [a](/en/post/a/) [solution](/en/post/solution/) [to](/en/post/to/) [a](/en/post/a/) [problem](/en/post/problem/).
-- "[A](/en/post/a/) [personal](/en/post/personal/) [resolution](/en/post/resolution/)" typically refers [to](/en/post/to/) [a](/en/post/a/) commitment made [at](/en/post/at/) [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [a](/en/post/a/) [year](/en/post/year/) [or](/en/post/or/) [a](/en/post/a/) [specific](/en/post/specific/) [goal](/en/post/goal/) [to](/en/post/to/) [achieve](/en/post/achieve/).
+- "[Resolve](/post/resolve/) [a](/post/a/) [conflict](/post/conflict/)" [means](/post/means/) [to](/post/to/) [find](/post/find/) [a](/post/a/) [way](/post/way/) [to](/post/to/) [end](/post/end/) [a](/post/a/) disagreement [or](/post/or/) [dispute](/post/dispute/).
+- "[Resolve](/post/resolve/) an [issue](/post/issue/)" refers [to](/post/to/) [finding](/post/finding/) [a](/post/a/) [solution](/post/solution/) [to](/post/to/) [a](/post/a/) [problem](/post/problem/).
+- "[A](/post/a/) [personal](/post/personal/) [resolution](/post/resolution/)" typically refers [to](/post/to/) [a](/post/a/) commitment made [at](/post/at/) [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [a](/post/a/) [year](/post/year/) [or](/post/or/) [a](/post/a/) [specific](/post/specific/) [goal](/post/goal/) [to](/post/to/) [achieve](/post/achieve/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [final](/en/post/final/) [resolution](/en/post/resolution/) was [to](/en/post/to/) donate [half](/en/post/half/) [his](/en/post/his/) inheritance [to](/en/post/to/) [charity](/en/post/charity/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) negotiations, [they](/en/post/they/) [finally](/en/post/finally/) resolved [their](/en/post/their/) differences."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [resolve](/en/post/resolve/) [to](/en/post/to/) [succeed](/en/post/succeed/) was [evident](/en/post/evident/) [in](/en/post/in/) [her](/en/post/her/) [determination](/en/post/determination/) [to](/en/post/to/) [study](/en/post/study/) [hard](/en/post/hard/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [final](/post/final/) [resolution](/post/resolution/) was [to](/post/to/) donate [half](/post/half/) [his](/post/his/) inheritance [to](/post/to/) [charity](/post/charity/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) negotiations, [they](/post/they/) [finally](/post/finally/) resolved [their](/post/their/) differences."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [resolve](/post/resolve/) [to](/post/to/) [succeed](/post/succeed/) was [evident](/post/evident/) [in](/post/in/) [her](/post/her/) [determination](/post/determination/) [to](/post/to/) [study](/post/study/) [hard](/post/hard/)."
 
 ## Synonyms
-- [Decision](/en/post/decision/)
-- [Determination](/en/post/determination/)
-- [Fix](/en/post/fix/)
-- [Solution](/en/post/solution/)
-- [Conclusion](/en/post/conclusion/)
+- [Decision](/post/decision/)
+- [Determination](/post/determination/)
+- [Fix](/post/fix/)
+- [Solution](/post/solution/)
+- [Conclusion](/post/conclusion/)
 - Settling
 - Unwavering
 - Steadfast

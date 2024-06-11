@@ -12,20 +12,20 @@ keywords = ['ai words', 'wealth']
 
 ## 释义
 - **名词**:
-   - 财富，富裕：表示个人或国家拥有的大量金钱、财产或有价值的东西。例如: "[He](/post/he/) inherited [a](/post/a/) [great](/post/great/) [wealth](/post/wealth/) [from](/post/from/) [his](/post/his/) [grandfather](/post/grandfather/)."
-   - 知识，智慧：指知识、经验或技能的积累。例如: "[She](/post/she/) possesses [a](/post/a/) [wealth](/post/wealth/) [of](/post/of/) [knowledge](/post/knowledge/) [about](/post/about/) [ancient](/post/ancient/) civilizations."
+   - 财富，富裕：表示个人或国家拥有的大量金钱、财产或有价值的东西。例如: "[He](/zh/post/he/) inherited [a](/zh/post/a/) [great](/zh/post/great/) [wealth](/zh/post/wealth/) [from](/zh/post/from/) [his](/zh/post/his/) [grandfather](/zh/post/grandfather/)."
+   - 知识，智慧：指知识、经验或技能的积累。例如: "[She](/zh/post/she/) possesses [a](/zh/post/a/) [wealth](/zh/post/wealth/) [of](/zh/post/of/) [knowledge](/zh/post/knowledge/) [about](/zh/post/about/) [ancient](/zh/post/ancient/) civilizations."
 
 ## 短语
-- "[Wealth](/post/wealth/) [of](/post/of/) nations" 指一个国家的经济实力和资源。
-- "[Material](/post/material/) [wealth](/post/wealth/)" 物质财富，指实物形式的财产。
-- "[Intellectual](/post/intellectual/) [wealth](/post/wealth/)" 智力财富，指知识、创意和智慧的积累。
+- "[Wealth](/zh/post/wealth/) [of](/zh/post/of/) nations" 指一个国家的经济实力和资源。
+- "[Material](/zh/post/material/) [wealth](/zh/post/wealth/)" 物质财富，指实物形式的财产。
+- "[Intellectual](/zh/post/intellectual/) [wealth](/zh/post/wealth/)" 智力财富，指知识、创意和智慧的积累。
 
 ## 例句
-- 名词: "[His](/post/his/) [wealth](/post/wealth/) allowed [him](/post/him/) [to](/post/to/) [live](/post/live/) [a](/post/a/) [life](/post/life/) [of](/post/of/) [luxury](/post/luxury/)."
-- "[She](/post/she/) believes [in](/post/in/) using [her](/post/her/) [wealth](/post/wealth/) [for](/post/for/) philanthropic causes."
+- 名词: "[His](/zh/post/his/) [wealth](/zh/post/wealth/) allowed [him](/zh/post/him/) [to](/zh/post/to/) [live](/zh/post/live/) [a](/zh/post/a/) [life](/zh/post/life/) [of](/zh/post/of/) [luxury](/zh/post/luxury/)."
+- "[She](/zh/post/she/) believes [in](/zh/post/in/) using [her](/zh/post/her/) [wealth](/zh/post/wealth/) [for](/zh/post/for/) philanthropic causes."
 
 ## 同义词
-- [Fortune](/post/fortune/)
+- [Fortune](/zh/post/fortune/)
 - Riches
 - Possessions
 - Abundance

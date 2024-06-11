@@ -7,34 +7,34 @@ description = '[inˈspaiə] vt.鼓舞；给…以灵感'
 keywords = ['ai words', 'inspire']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈspaɪər/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [fill](/en/post/fill/) [someone](/en/post/someone/) [with](/en/post/with/) [the](/en/post/the/) [urge](/en/post/urge/) [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) [do](/en/post/do/) [or](/en/post/or/) [create](/en/post/create/) [something](/en/post/something/), [especially](/en/post/especially/) [by](/en/post/by/) stirring [their](/en/post/their/) [imagination](/en/post/imagination/) [or](/en/post/or/) emotions. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [story](/en/post/story/) inspired [us](/en/post/us/) [all](/en/post/all/) [to](/en/post/to/) [work](/en/post/work/) towards [change](/en/post/change/)."
-  - [Also](/en/post/also/) [means](/en/post/means/) [to](/en/post/to/) [influence](/en/post/influence/) [or](/en/post/or/) [guide](/en/post/guide/) someone's thoughts, feelings, [or](/en/post/or/) actions positively; [to](/en/post/to/) [motivate](/en/post/motivate/). [Example](/en/post/example/): "[The](/en/post/the/) teacher's [passion](/en/post/passion/) inspired [his](/en/post/his/) students [to](/en/post/to/) [take](/en/post/take/) [up](/en/post/up/) [science](/en/post/science/) [seriously](/en/post/seriously/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [fill](/post/fill/) [someone](/post/someone/) [with](/post/with/) [the](/post/the/) [urge](/post/urge/) [or](/post/or/) [ability](/post/ability/) [to](/post/to/) [do](/post/do/) [or](/post/or/) [create](/post/create/) [something](/post/something/), [especially](/post/especially/) [by](/post/by/) stirring [their](/post/their/) [imagination](/post/imagination/) [or](/post/or/) emotions. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [story](/post/story/) inspired [us](/post/us/) [all](/post/all/) [to](/post/to/) [work](/post/work/) towards [change](/post/change/)."
+  - [Also](/post/also/) [means](/post/means/) [to](/post/to/) [influence](/post/influence/) [or](/post/or/) [guide](/post/guide/) someone's thoughts, feelings, [or](/post/or/) actions positively; [to](/post/to/) [motivate](/post/motivate/). [Example](/post/example/): "[The](/post/the/) teacher's [passion](/post/passion/) inspired [his](/post/his/) students [to](/post/to/) [take](/post/take/) [up](/post/up/) [science](/post/science/) [seriously](/post/seriously/)."
   
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) inspiring [or](/en/post/or/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) inspiring; inspiration. [Example](/en/post/example/): "[She](/en/post/she/) [found](/en/post/found/) [her](/en/post/her/) inspiration [for](/en/post/for/) [the](/en/post/the/) [painting](/en/post/painting/) [in](/en/post/in/) [nature](/en/post/nature/)’s [beauty](/en/post/beauty/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) inspiring [or](/post/or/) [the](/post/the/) [act](/post/act/) [of](/post/of/) inspiring; inspiration. [Example](/post/example/): "[She](/post/she/) [found](/post/found/) [her](/post/her/) inspiration [for](/post/for/) [the](/post/the/) [painting](/post/painting/) [in](/post/in/) [nature](/post/nature/)’s [beauty](/post/beauty/)."
 
 ## Phrases
-- "[To](/en/post/to/) [be](/en/post/be/) inspired [by](/en/post/by/) [someone](/en/post/someone/)/[something](/en/post/something/)": [To](/en/post/to/) [feel](/en/post/feel/) motivated [or](/en/post/or/) creatively influenced [by](/en/post/by/) [another](/en/post/another/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/). [Example](/en/post/example/): "[She](/en/post/she/) was inspired [by](/en/post/by/) [her](/en/post/her/) grandmother's [strength](/en/post/strength/) [to](/en/post/to/) [write](/en/post/write/) [her](/en/post/her/) [first](/en/post/first/) [novel](/en/post/novel/)."
-- "[A](/en/post/a/) [source](/en/post/source/) [of](/en/post/of/) inspiration": [Something](/en/post/something/) [that](/en/post/that/) provides motivation [or](/en/post/or/) [creative](/en/post/creative/) ideas. [Example](/en/post/example/): "[The](/en/post/the/) cityscape [at](/en/post/at/) [night](/en/post/night/) served [as](/en/post/as/) [a](/en/post/a/) [constant](/en/post/constant/) [source](/en/post/source/) [of](/en/post/of/) inspiration [for](/en/post/for/) [the](/en/post/the/) [artist](/en/post/artist/)."
+- "[To](/post/to/) [be](/post/be/) inspired [by](/post/by/) [someone](/post/someone/)/[something](/post/something/)": [To](/post/to/) [feel](/post/feel/) motivated [or](/post/or/) creatively influenced [by](/post/by/) [another](/post/another/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/). [Example](/post/example/): "[She](/post/she/) was inspired [by](/post/by/) [her](/post/her/) grandmother's [strength](/post/strength/) [to](/post/to/) [write](/post/write/) [her](/post/her/) [first](/post/first/) [novel](/post/novel/)."
+- "[A](/post/a/) [source](/post/source/) [of](/post/of/) inspiration": [Something](/post/something/) [that](/post/that/) provides motivation [or](/post/or/) [creative](/post/creative/) ideas. [Example](/post/example/): "[The](/post/the/) cityscape [at](/post/at/) [night](/post/night/) served [as](/post/as/) [a](/post/a/) [constant](/post/constant/) [source](/post/source/) [of](/post/of/) inspiration [for](/post/for/) [the](/post/the/) [artist](/post/artist/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) coach's words inspired [the](/en/post/the/) [team](/en/post/team/) [to](/en/post/to/) [victory](/en/post/victory/)."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [life](/en/post/life/) has been marked [by](/en/post/by/) moments [of](/en/post/of/) profound inspiration."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) coach's words inspired [the](/post/the/) [team](/post/team/) [to](/post/to/) [victory](/post/victory/)."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [life](/post/life/) has been marked [by](/post/by/) moments [of](/post/of/) profound inspiration."
 
 ## Synonyms
-- [Motivate](/en/post/motivate/)
-- [Encourage](/en/post/encourage/)
-- [Stimulate](/en/post/stimulate/)
-- [Influence](/en/post/influence/)
-- [Move](/en/post/move/)
+- [Motivate](/post/motivate/)
+- [Encourage](/post/encourage/)
+- [Stimulate](/post/stimulate/)
+- [Influence](/post/influence/)
+- [Move](/post/move/)
 - Awaken
 - Enlighten
-- [Fire](/en/post/fire/) [up](/en/post/up/)
-- [Excite](/en/post/excite/)
+- [Fire](/post/fire/) [up](/post/up/)
+- [Excite](/post/excite/)
 - Uplift
 - Galvanize
 - Impel
-- [Stir](/en/post/stir/) ([up](/en/post/up/))
+- [Stir](/post/stir/) ([up](/post/up/))

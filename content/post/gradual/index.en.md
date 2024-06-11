@@ -7,32 +7,32 @@ description = '[ˈgrædjuəl] a.逐渐的；渐进的'
 keywords = ['ai words', 'gradual']
 +++
 
-## [Word](/en/post/word/): [Gradual](/en/post/gradual/)
+## [Word](/post/word/): [Gradual](/post/gradual/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡrædʒuəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Happening [or](/en/post/or/) changing [slowly](/en/post/slowly/) [or](/en/post/or/) [in](/en/post/in/) stages; [not](/en/post/not/) [sudden](/en/post/sudden/) [or](/en/post/or/) abrupt. [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) has been [a](/en/post/a/) [gradual](/en/post/gradual/) [improvement](/en/post/improvement/) [in](/en/post/in/) [her](/en/post/her/) [health](/en/post/health/)."
-  - _Gradual progress_ implies [that](/en/post/that/) advancements are made [over](/en/post/over/) [time](/en/post/time/), [not](/en/post/not/) [instantly](/en/post/instantly/).
-  - _Gradual change_ suggests [a](/en/post/a/) [shift](/en/post/shift/) [that](/en/post/that/) takes [place](/en/post/place/) progressively.
+- **[Adjective](/post/adjective/)**: Happening [or](/post/or/) changing [slowly](/post/slowly/) [or](/post/or/) [in](/post/in/) stages; [not](/post/not/) [sudden](/post/sudden/) [or](/post/or/) abrupt. [For](/post/for/) [example](/post/example/): "[There](/post/there/) has been [a](/post/a/) [gradual](/post/gradual/) [improvement](/post/improvement/) [in](/post/in/) [her](/post/her/) [health](/post/health/)."
+  - _Gradual progress_ implies [that](/post/that/) advancements are made [over](/post/over/) [time](/post/time/), [not](/post/not/) [instantly](/post/instantly/).
+  - _Gradual change_ suggests [a](/post/a/) [shift](/post/shift/) [that](/post/that/) takes [place](/post/place/) progressively.
 
 ### Phrases
-- _Gradual process_: [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) steps [or](/en/post/or/) stages [leading](/en/post/leading/) [to](/en/post/to/) [a](/en/post/a/) [final](/en/post/final/) [result](/en/post/result/).
-- _Gradual decline_: [A](/en/post/a/) [slow](/en/post/slow/) [but](/en/post/but/) [steady](/en/post/steady/) [decrease](/en/post/decrease/) [in](/en/post/in/) [quality](/en/post/quality/), [quantity](/en/post/quantity/), [or](/en/post/or/) [strength](/en/post/strength/).
-- _Gradual revelation_: [The](/en/post/the/) [slow](/en/post/slow/) uncovering [or](/en/post/or/) unfolding [of](/en/post/of/) [information](/en/post/information/) [or](/en/post/or/) facts [over](/en/post/over/) [time](/en/post/time/).
+- _Gradual process_: [A](/post/a/) [series](/post/series/) [of](/post/of/) steps [or](/post/or/) stages [leading](/post/leading/) [to](/post/to/) [a](/post/a/) [final](/post/final/) [result](/post/result/).
+- _Gradual decline_: [A](/post/a/) [slow](/post/slow/) [but](/post/but/) [steady](/post/steady/) [decrease](/post/decrease/) [in](/post/in/) [quality](/post/quality/), [quantity](/post/quantity/), [or](/post/or/) [strength](/post/strength/).
+- _Gradual revelation_: [The](/post/the/) [slow](/post/slow/) uncovering [or](/post/or/) unfolding [of](/post/of/) [information](/post/information/) [or](/post/or/) facts [over](/post/over/) [time](/post/time/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [company](/en/post/company/) experienced [a](/en/post/a/) [gradual](/en/post/gradual/) [increase](/en/post/increase/) [in](/en/post/in/) profits [after](/en/post/after/) implementing [new](/en/post/new/) strategies."
-- "[Over](/en/post/over/) [time](/en/post/time/), [the](/en/post/the/) [forest](/en/post/forest/) underwent [a](/en/post/a/) [gradual](/en/post/gradual/) [transformation](/en/post/transformation/) [due](/en/post/due/) [to](/en/post/to/) [climate](/en/post/climate/) [change](/en/post/change/)."
-- "[Through](/en/post/through/) [gradual](/en/post/gradual/) [practice](/en/post/practice/), [he](/en/post/he/) improved [his](/en/post/his/) [public](/en/post/public/) speaking skills."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [company](/post/company/) experienced [a](/post/a/) [gradual](/post/gradual/) [increase](/post/increase/) [in](/post/in/) profits [after](/post/after/) implementing [new](/post/new/) strategies."
+- "[Over](/post/over/) [time](/post/time/), [the](/post/the/) [forest](/post/forest/) underwent [a](/post/a/) [gradual](/post/gradual/) [transformation](/post/transformation/) [due](/post/due/) [to](/post/to/) [climate](/post/climate/) [change](/post/change/)."
+- "[Through](/post/through/) [gradual](/post/gradual/) [practice](/post/practice/), [he](/post/he/) improved [his](/post/his/) [public](/post/public/) speaking skills."
 
 ## Synonyms
-- [Slow](/en/post/slow/)
-- [Steady](/en/post/steady/)
-- [Progressive](/en/post/progressive/)
+- [Slow](/post/slow/)
+- [Steady](/post/steady/)
+- [Progressive](/post/progressive/)
 - Incremental
 - Prolonged
 - Graduated
 - Sequential
-- [Continuous](/en/post/continuous/)
+- [Continuous](/post/continuous/)

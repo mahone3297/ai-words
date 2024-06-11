@@ -11,19 +11,19 @@ keywords = ['ai words', 'cat']
 /kæt/
 
 ## 释义
-- **名词 (n)**: 宠物猫，一种小型哺乳动物，属于猫科。例如: "[She](/post/she/) has [a](/post/a/) cute [black](/post/black/) [cat](/post/cat/) named Whiskers."
-- **名词 (n)**: 女性的蔑称或昵称。例如: "Hey, [cat](/post/cat/), what's [up](/post/up/)?"
-- **动词 (v)**: 捕鼠，捕鸟，泛指狩猎行为。例如: "[The](/post/the/) [cat](/post/cat/) was [busy](/post/busy/) catting mice [in](/post/in/) [the](/post/the/) [barn](/post/barn/)."
+- **名词 (n)**: 宠物猫，一种小型哺乳动物，属于猫科。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) cute [black](/zh/post/black/) [cat](/zh/post/cat/) named Whiskers."
+- **名词 (n)**: 女性的蔑称或昵称。例如: "Hey, [cat](/zh/post/cat/), what's [up](/zh/post/up/)?"
+- **动词 (v)**: 捕鼠，捕鸟，泛指狩猎行为。例如: "[The](/zh/post/the/) [cat](/zh/post/cat/) was [busy](/zh/post/busy/) catting mice [in](/zh/post/in/) [the](/zh/post/the/) [barn](/zh/post/barn/)."
 
 ## 短语
-- "[play](/post/play/) [with](/post/with/) [a](/post/a/) [cat](/post/cat/)" 与猫玩耍。
-- "[let](/post/let/) [the](/post/the/) [cat](/post/cat/) [out](/post/out/) [of](/post/of/) [the](/post/the/) [bag](/post/bag/)" 泄露秘密。
-- "[cat](/post/cat/) [nap](/post/nap/)" 短暂的小憩。
+- "[play](/zh/post/play/) [with](/zh/post/with/) [a](/zh/post/a/) [cat](/zh/post/cat/)" 与猫玩耍。
+- "[let](/zh/post/let/) [the](/zh/post/the/) [cat](/zh/post/cat/) [out](/zh/post/out/) [of](/zh/post/of/) [the](/zh/post/the/) [bag](/zh/post/bag/)" 泄露秘密。
+- "[cat](/zh/post/cat/) [nap](/zh/post/nap/)" 短暂的小憩。
 
 ## 例句
-- 名词: "[The](/post/the/) [cat](/post/cat/) curled [up](/post/up/) [on](/post/on/) [the](/post/the/) windowsill, enjoying [the](/post/the/) [warmth](/post/warmth/) [of](/post/of/) [the](/post/the/) [sun](/post/sun/)."
-- 名词（昵称）: "[My](/post/my/) friend's nickname is [Cat](/post/cat/), [short](/post/short/) [for](/post/for/) Catherine."
-- 动词: "[The](/post/the/) tomcat was [out](/post/out/) catting [at](/post/at/) [night](/post/night/), chasing [after](/post/after/) birds."
+- 名词: "[The](/zh/post/the/) [cat](/zh/post/cat/) curled [up](/zh/post/up/) [on](/zh/post/on/) [the](/zh/post/the/) windowsill, enjoying [the](/zh/post/the/) [warmth](/zh/post/warmth/) [of](/zh/post/of/) [the](/zh/post/the/) [sun](/zh/post/sun/)."
+- 名词（昵称）: "[My](/zh/post/my/) friend's nickname is [Cat](/zh/post/cat/), [short](/zh/post/short/) [for](/zh/post/for/) Catherine."
+- 动词: "[The](/zh/post/the/) tomcat was [out](/zh/post/out/) catting [at](/zh/post/at/) [night](/zh/post/night/), chasing [after](/zh/post/after/) birds."
 
 ## 同义词
 - Feline

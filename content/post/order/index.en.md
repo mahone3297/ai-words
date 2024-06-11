@@ -7,44 +7,44 @@ description = '[ˈɔːdə(r)] n.次序；整齐 vt.命令'
 keywords = ['ai words', 'order']
 +++
 
-## [Word](/en/post/word/): [Order](/en/post/order/)
+## [Word](/post/word/): [Order](/post/order/)
 
-### [Pronunciation](/en/post/pronunciation/)
+### [Pronunciation](/post/pronunciation/)
 /ˈɔrdər/
 
 ### Definitions
-- **[Noun](/en/post/noun/)**
-  - [Arrangement](/en/post/arrangement/), disposition, [or](/en/post/or/) [organization](/en/post/organization/) [of](/en/post/of/) [people](/en/post/people/) [or](/en/post/or/) things according [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [sequence](/en/post/sequence/), [pattern](/en/post/pattern/), [or](/en/post/or/) [structure](/en/post/structure/). [Example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [us](/en/post/us/) [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [straight](/en/post/straight/) [line](/en/post/line/) [in](/en/post/in/) alphabetical [order](/en/post/order/)."
-  - [A](/en/post/a/) [command](/en/post/command/), directive, [or](/en/post/or/) [instruction](/en/post/instruction/) given [by](/en/post/by/) [someone](/en/post/someone/) [in](/en/post/in/) [authority](/en/post/authority/). [Example](/en/post/example/): "[The](/en/post/the/) [captain](/en/post/captain/) gave [the](/en/post/the/) [order](/en/post/order/) [to](/en/post/to/) [set](/en/post/set/) [sail](/en/post/sail/) [immediately](/en/post/immediately/)."
-  - [A](/en/post/a/) [request](/en/post/request/) [for](/en/post/for/) [goods](/en/post/goods/) [or](/en/post/or/) services [to](/en/post/to/) [be](/en/post/be/) supplied, [often](/en/post/often/) [in](/en/post/in/) [exchange](/en/post/exchange/) [for](/en/post/for/) [payment](/en/post/payment/). [Example](/en/post/example/): "[She](/en/post/she/) placed an [order](/en/post/order/) [for](/en/post/for/) [a](/en/post/a/) [new](/en/post/new/) laptop online."
-  - [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) well-organized, systematic, [or](/en/post/or/) controlled. [Example](/en/post/example/): "Maintaining [order](/en/post/order/) [in](/en/post/in/) [a](/en/post/a/) [classroom](/en/post/classroom/) is crucial [for](/en/post/for/) [effective](/en/post/effective/) [learning](/en/post/learning/)."
+- **[Noun](/post/noun/)**
+  - [Arrangement](/post/arrangement/), disposition, [or](/post/or/) [organization](/post/organization/) [of](/post/of/) [people](/post/people/) [or](/post/or/) things according [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [sequence](/post/sequence/), [pattern](/post/pattern/), [or](/post/or/) [structure](/post/structure/). [Example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) asked [us](/post/us/) [to](/post/to/) [form](/post/form/) [a](/post/a/) [straight](/post/straight/) [line](/post/line/) [in](/post/in/) alphabetical [order](/post/order/)."
+  - [A](/post/a/) [command](/post/command/), directive, [or](/post/or/) [instruction](/post/instruction/) given [by](/post/by/) [someone](/post/someone/) [in](/post/in/) [authority](/post/authority/). [Example](/post/example/): "[The](/post/the/) [captain](/post/captain/) gave [the](/post/the/) [order](/post/order/) [to](/post/to/) [set](/post/set/) [sail](/post/sail/) [immediately](/post/immediately/)."
+  - [A](/post/a/) [request](/post/request/) [for](/post/for/) [goods](/post/goods/) [or](/post/or/) services [to](/post/to/) [be](/post/be/) supplied, [often](/post/often/) [in](/post/in/) [exchange](/post/exchange/) [for](/post/for/) [payment](/post/payment/). [Example](/post/example/): "[She](/post/she/) placed an [order](/post/order/) [for](/post/for/) [a](/post/a/) [new](/post/new/) laptop online."
+  - [A](/post/a/) [state](/post/state/) [of](/post/of/) [being](/post/being/) well-organized, systematic, [or](/post/or/) controlled. [Example](/post/example/): "Maintaining [order](/post/order/) [in](/post/in/) [a](/post/a/) [classroom](/post/classroom/) is crucial [for](/post/for/) [effective](/post/effective/) [learning](/post/learning/)."
   
-- **[Verb](/en/post/verb/)**
-  - [To](/en/post/to/) [arrange](/en/post/arrange/), [organize](/en/post/organize/), [or](/en/post/or/) [classify](/en/post/classify/) systematically. [Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [order](/en/post/order/) [these](/en/post/these/) files chronologically."
-  - [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [command](/en/post/command/), directive, [or](/en/post/or/) [instruction](/en/post/instruction/). [Example](/en/post/example/): "[The](/en/post/the/) manager ordered [the](/en/post/the/) [team](/en/post/team/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [by](/en/post/by/) Friday."
-  - [To](/en/post/to/) [request](/en/post/request/) [or](/en/post/or/) [buy](/en/post/buy/) [something](/en/post/something/) [from](/en/post/from/) [a](/en/post/a/) supplier [or](/en/post/or/) [merchant](/en/post/merchant/). [Example](/en/post/example/): "I ordered takeout [for](/en/post/for/) [dinner](/en/post/dinner/) [tonight](/en/post/tonight/)."
-  - [To](/en/post/to/) [direct](/en/post/direct/) [the](/en/post/the/) [sequence](/en/post/sequence/) [or](/en/post/or/) [course](/en/post/course/) [of](/en/post/of/) events. [Example](/en/post/example/): "[The](/en/post/the/) [judge](/en/post/judge/) ordered [that](/en/post/that/) [the](/en/post/the/) [trial](/en/post/trial/) [proceed](/en/post/proceed/) [the](/en/post/the/) [next](/en/post/next/) [day](/en/post/day/)."
+- **[Verb](/post/verb/)**
+  - [To](/post/to/) [arrange](/post/arrange/), [organize](/post/organize/), [or](/post/or/) [classify](/post/classify/) systematically. [Example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [order](/post/order/) [these](/post/these/) files chronologically."
+  - [To](/post/to/) [give](/post/give/) [a](/post/a/) [command](/post/command/), directive, [or](/post/or/) [instruction](/post/instruction/). [Example](/post/example/): "[The](/post/the/) manager ordered [the](/post/the/) [team](/post/team/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [by](/post/by/) Friday."
+  - [To](/post/to/) [request](/post/request/) [or](/post/or/) [buy](/post/buy/) [something](/post/something/) [from](/post/from/) [a](/post/a/) supplier [or](/post/or/) [merchant](/post/merchant/). [Example](/post/example/): "I ordered takeout [for](/post/for/) [dinner](/post/dinner/) [tonight](/post/tonight/)."
+  - [To](/post/to/) [direct](/post/direct/) [the](/post/the/) [sequence](/post/sequence/) [or](/post/or/) [course](/post/course/) [of](/post/of/) events. [Example](/post/example/): "[The](/post/the/) [judge](/post/judge/) ordered [that](/post/that/) [the](/post/the/) [trial](/post/trial/) [proceed](/post/proceed/) [the](/post/the/) [next](/post/next/) [day](/post/day/)."
 
 ### Phrases
-- "[In](/en/post/in/) [order](/en/post/order/)": [In](/en/post/in/) [a](/en/post/a/) [correct](/en/post/correct/) [or](/en/post/or/) [appropriate](/en/post/appropriate/) [arrangement](/en/post/arrangement/) [or](/en/post/or/) [condition](/en/post/condition/).
-- "[Out](/en/post/out/) [of](/en/post/of/) [order](/en/post/order/)": [Not](/en/post/not/) functioning correctly, [or](/en/post/or/) behaving inappropriately.
-- "[Place](/en/post/place/) an [order](/en/post/order/)": [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [purchase](/en/post/purchase/) [or](/en/post/or/) [request](/en/post/request/) [goods](/en/post/goods/)/services.
-- "[Order](/en/post/order/) [of](/en/post/of/) operations": [A](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) rules followed [when](/en/post/when/) performing [mathematical](/en/post/mathematical/) operations.
-- "[Law](/en/post/law/) [and](/en/post/and/) [order](/en/post/order/)": [The](/en/post/the/) [maintenance](/en/post/maintenance/) [of](/en/post/of/) [social](/en/post/social/) [control](/en/post/control/) [through](/en/post/through/) [law](/en/post/law/) enforcement.
+- "[In](/post/in/) [order](/post/order/)": [In](/post/in/) [a](/post/a/) [correct](/post/correct/) [or](/post/or/) [appropriate](/post/appropriate/) [arrangement](/post/arrangement/) [or](/post/or/) [condition](/post/condition/).
+- "[Out](/post/out/) [of](/post/of/) [order](/post/order/)": [Not](/post/not/) functioning correctly, [or](/post/or/) behaving inappropriately.
+- "[Place](/post/place/) an [order](/post/order/)": [To](/post/to/) [make](/post/make/) [a](/post/a/) [purchase](/post/purchase/) [or](/post/or/) [request](/post/request/) [goods](/post/goods/)/services.
+- "[Order](/post/order/) [of](/post/of/) operations": [A](/post/a/) [set](/post/set/) [of](/post/of/) rules followed [when](/post/when/) performing [mathematical](/post/mathematical/) operations.
+- "[Law](/post/law/) [and](/post/and/) [order](/post/order/)": [The](/post/the/) [maintenance](/post/maintenance/) [of](/post/of/) [social](/post/social/) [control](/post/control/) [through](/post/through/) [law](/post/law/) enforcement.
 
-### [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) sergeant maintained [strict](/en/post/strict/) [discipline](/en/post/discipline/) [and](/en/post/and/) [order](/en/post/order/) [within](/en/post/within/) [his](/en/post/his/) platoon."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) chef orders ingredients [fresh](/en/post/fresh/) [every](/en/post/every/) [morning](/en/post/morning/) [for](/en/post/for/) [the](/en/post/the/) restaurant's [menu](/en/post/menu/)."
-- **[Other](/en/post/other/) uses**: "It's [essential](/en/post/essential/) [to](/en/post/to/) [follow](/en/post/follow/) [the](/en/post/the/) [order](/en/post/order/) [of](/en/post/of/) steps [in](/en/post/in/) [a](/en/post/a/) [scientific](/en/post/scientific/) [experiment](/en/post/experiment/)."
+### [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) sergeant maintained [strict](/post/strict/) [discipline](/post/discipline/) [and](/post/and/) [order](/post/order/) [within](/post/within/) [his](/post/his/) platoon."
+- **[Verb](/post/verb/)**: "[The](/post/the/) chef orders ingredients [fresh](/post/fresh/) [every](/post/every/) [morning](/post/morning/) [for](/post/for/) [the](/post/the/) restaurant's [menu](/post/menu/)."
+- **[Other](/post/other/) uses**: "It's [essential](/post/essential/) [to](/post/to/) [follow](/post/follow/) [the](/post/the/) [order](/post/order/) [of](/post/of/) steps [in](/post/in/) [a](/post/a/) [scientific](/post/scientific/) [experiment](/post/experiment/)."
 
 ### Synonyms
-- [Sequence](/en/post/sequence/)
-- [Arrangement](/en/post/arrangement/)
-- [Command](/en/post/command/)
+- [Sequence](/post/sequence/)
+- [Arrangement](/post/arrangement/)
+- [Command](/post/command/)
 - Directive
-- [Instruction](/en/post/instruction/)
-- [Purchase](/en/post/purchase/)
-- [Request](/en/post/request/)
-- [Organization](/en/post/organization/)
+- [Instruction](/post/instruction/)
+- [Purchase](/post/purchase/)
+- [Request](/post/request/)
+- [Organization](/post/organization/)
 - Systematics
-- [Rule](/en/post/rule/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) '[order](/en/post/order/) [of](/en/post/of/) operations')
+- [Rule](/post/rule/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) '[order](/post/order/) [of](/post/of/) operations')

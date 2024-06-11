@@ -7,32 +7,32 @@ description = '[eit] num.八，八个，第八'
 keywords = ['ai words', 'eight']
 +++
 
-## [Word](/en/post/word/): [Eight](/en/post/eight/)
+## [Word](/post/word/): [Eight](/post/eight/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /eɪt/
 
 ## Definitions
-- **Numeral**: [The](/en/post/the/) cardinal [number](/en/post/number/) [that](/en/post/that/) is [the](/en/post/the/) [sum](/en/post/sum/) [of](/en/post/of/) [seven](/en/post/seven/) [and](/en/post/and/) [one](/en/post/one/); denoting [a](/en/post/a/) [quantity](/en/post/quantity/) [of](/en/post/of/) [eight](/en/post/eight/) items [or](/en/post/or/) units. [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) are [eight](/en/post/eight/) chairs [around](/en/post/around/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [the](/en/post/the/) [number](/en/post/number/) [eight](/en/post/eight/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [eight](/en/post/eight/) siblings."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) digit [or](/en/post/or/) [figure](/en/post/figure/) 8. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) [learned](/en/post/learned/) [to](/en/post/to/) [write](/en/post/write/) [the](/en/post/the/) numbers [from](/en/post/from/) [zero](/en/post/zero/) [to](/en/post/to/) [eight](/en/post/eight/)."
+- **Numeral**: [The](/post/the/) cardinal [number](/post/number/) [that](/post/that/) is [the](/post/the/) [sum](/post/sum/) [of](/post/of/) [seven](/post/seven/) [and](/post/and/) [one](/post/one/); denoting [a](/post/a/) [quantity](/post/quantity/) [of](/post/of/) [eight](/post/eight/) items [or](/post/or/) units. [For](/post/for/) [example](/post/example/): "[There](/post/there/) are [eight](/post/eight/) chairs [around](/post/around/) [the](/post/the/) [table](/post/table/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [the](/post/the/) [number](/post/number/) [eight](/post/eight/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [eight](/post/eight/) siblings."
+- **[Noun](/post/noun/)**: [The](/post/the/) digit [or](/post/or/) [figure](/post/figure/) 8. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [child](/post/child/) [learned](/post/learned/) [to](/post/to/) [write](/post/write/) [the](/post/the/) numbers [from](/post/from/) [zero](/post/zero/) [to](/post/to/) [eight](/post/eight/)."
 
 ## Phrases
-- "[Eight](/en/post/eight/) o'clock" refers [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [time](/en/post/time/) [on](/en/post/on/) [a](/en/post/a/) [clock](/en/post/clock/).
-- "[A](/en/post/a/) baker's [dozen](/en/post/dozen/)" refers [to](/en/post/to/) [thirteen](/en/post/thirteen/) items [instead](/en/post/instead/) [of](/en/post/of/) [twelve](/en/post/twelve/), suggesting [the](/en/post/the/) [extra](/en/post/extra/) [item](/en/post/item/) is thrown [in](/en/post/in/) [for](/en/post/for/) [good](/en/post/good/) [measure](/en/post/measure/), [which](/en/post/which/) [can](/en/post/can/) [sometimes](/en/post/sometimes/) [be](/en/post/be/) referred [to](/en/post/to/) [as](/en/post/as/) "an [eighth](/en/post/eighth/)".
-- "[Eight](/en/post/eight/) days [a](/en/post/a/) [week](/en/post/week/)" is an idiomatic [expression](/en/post/expression/) [meaning](/en/post/meaning/) an [excessive](/en/post/excessive/) [amount](/en/post/amount/) [or](/en/post/or/) [all](/en/post/all/) [the](/en/post/the/) [time](/en/post/time/), [often](/en/post/often/) [used](/en/post/used/) hyperbolically [since](/en/post/since/) [there](/en/post/there/) are [only](/en/post/only/) [seven](/en/post/seven/) days [in](/en/post/in/) [a](/en/post/a/) [week](/en/post/week/).
+- "[Eight](/post/eight/) o'clock" refers [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [time](/post/time/) [on](/post/on/) [a](/post/a/) [clock](/post/clock/).
+- "[A](/post/a/) baker's [dozen](/post/dozen/)" refers [to](/post/to/) [thirteen](/post/thirteen/) items [instead](/post/instead/) [of](/post/of/) [twelve](/post/twelve/), suggesting [the](/post/the/) [extra](/post/extra/) [item](/post/item/) is thrown [in](/post/in/) [for](/post/for/) [good](/post/good/) [measure](/post/measure/), [which](/post/which/) [can](/post/can/) [sometimes](/post/sometimes/) [be](/post/be/) referred [to](/post/to/) [as](/post/as/) "an [eighth](/post/eighth/)".
+- "[Eight](/post/eight/) days [a](/post/a/) [week](/post/week/)" is an idiomatic [expression](/post/expression/) [meaning](/post/meaning/) an [excessive](/post/excessive/) [amount](/post/amount/) [or](/post/or/) [all](/post/all/) [the](/post/the/) [time](/post/time/), [often](/post/often/) [used](/post/used/) hyperbolically [since](/post/since/) [there](/post/there/) are [only](/post/only/) [seven](/post/seven/) days [in](/post/in/) [a](/post/a/) [week](/post/week/).
 
-## [Example](/en/post/example/) Sentences
-- **Numeral**: "[We](/en/post/we/) [need](/en/post/need/) [eight](/en/post/eight/) volunteers [to](/en/post/to/) [staff](/en/post/staff/) [the](/en/post/the/) [event](/en/post/event/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) bought [eight](/en/post/eight/) [different](/en/post/different/) colored pens [for](/en/post/for/) [her](/en/post/her/) [collection](/en/post/collection/)."
-- **[Noun](/en/post/noun/)**: "[On](/en/post/on/) [the](/en/post/the/) dice, [the](/en/post/the/) [eight](/en/post/eight/) is [opposite](/en/post/opposite/) [to](/en/post/to/) [the](/en/post/the/) [two](/en/post/two/)."
+## [Example](/post/example/) Sentences
+- **Numeral**: "[We](/post/we/) [need](/post/need/) [eight](/post/eight/) volunteers [to](/post/to/) [staff](/post/staff/) [the](/post/the/) [event](/post/event/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) bought [eight](/post/eight/) [different](/post/different/) colored pens [for](/post/for/) [her](/post/her/) [collection](/post/collection/)."
+- **[Noun](/post/noun/)**: "[On](/post/on/) [the](/post/the/) dice, [the](/post/the/) [eight](/post/eight/) is [opposite](/post/opposite/) [to](/post/to/) [the](/post/the/) [two](/post/two/)."
 
 ## Synonyms
 - 8
-- VIII ([in](/en/post/in/) Roman numerals)
-- Octo ([in](/en/post/in/) Latin)
-- [In](/en/post/in/) terms [of](/en/post/of/) [quantity](/en/post/quantity/), synonyms [might](/en/post/might/) [include](/en/post/include/): 
-  - [Eighteen](/en/post/eighteen/) [minus](/en/post/minus/) [ten](/en/post/ten/)
-  - [Twice](/en/post/twice/) [four](/en/post/four/)
-  - [One](/en/post/one/) [more](/en/post/more/) [than](/en/post/than/) [seven](/en/post/seven/)
-- [When](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) numerical [adjective](/en/post/adjective/), [no](/en/post/no/) [direct](/en/post/direct/) synonyms [exist](/en/post/exist/) [but](/en/post/but/) expressions [like](/en/post/like/) "[a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [eight](/en/post/eight/)" [could](/en/post/could/) [be](/en/post/be/) rephrased using [other](/en/post/other/) numbers (e.g., "[a](/en/post/a/) septet").
+- VIII ([in](/post/in/) Roman numerals)
+- Octo ([in](/post/in/) Latin)
+- [In](/post/in/) terms [of](/post/of/) [quantity](/post/quantity/), synonyms [might](/post/might/) [include](/post/include/): 
+  - [Eighteen](/post/eighteen/) [minus](/post/minus/) [ten](/post/ten/)
+  - [Twice](/post/twice/) [four](/post/four/)
+  - [One](/post/one/) [more](/post/more/) [than](/post/than/) [seven](/post/seven/)
+- [When](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) numerical [adjective](/post/adjective/), [no](/post/no/) [direct](/post/direct/) synonyms [exist](/post/exist/) [but](/post/but/) expressions [like](/post/like/) "[a](/post/a/) [group](/post/group/) [of](/post/of/) [eight](/post/eight/)" [could](/post/could/) [be](/post/be/) rephrased using [other](/post/other/) numbers (e.g., "[a](/post/a/) septet").

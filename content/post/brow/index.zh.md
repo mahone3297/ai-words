@@ -12,21 +12,21 @@ keywords = ['ai words', 'brow']
 
 ## 释义
 - **名词**:
-1. 人的眉毛，尤指其突出部分。例如: "[He](/post/he/) raised [his](/post/his/) brows [in](/post/in/) [surprise](/post/surprise/)."
-2. （动物的）额，眉骨。例如: "[The](/post/the/) [horse](/post/horse/) has [a](/post/a/) [broad](/post/broad/) [brow](/post/brow/)."
+1. 人的眉毛，尤指其突出部分。例如: "[He](/zh/post/he/) raised [his](/zh/post/his/) brows [in](/zh/post/in/) [surprise](/zh/post/surprise/)."
+2. （动物的）额，眉骨。例如: "[The](/zh/post/the/) [horse](/zh/post/horse/) has [a](/zh/post/a/) [broad](/zh/post/broad/) [brow](/zh/post/brow/)."
 
 - **动词**:
-（通常与raise或lower连用）皱眉，扬眉。例如: "[She](/post/she/) browbeat [him](/post/him/) [with](/post/with/) [her](/post/her/) [stern](/post/stern/) [gaze](/post/gaze/)."
+（通常与raise或lower连用）皱眉，扬眉。例如: "[She](/zh/post/she/) browbeat [him](/zh/post/him/) [with](/zh/post/with/) [her](/zh/post/her/) [stern](/zh/post/stern/) [gaze](/zh/post/gaze/)."
 
 ## 短语
-- "[brow](/post/brow/) furrow" 表示皱眉头。
-- "[heavy](/post/heavy/) [brow](/post/brow/)" 指浓眉或严肃的表情。
+- "[brow](/zh/post/brow/) furrow" 表示皱眉头。
+- "[heavy](/zh/post/heavy/) [brow](/zh/post/brow/)" 指浓眉或严肃的表情。
 
 ## 例句
-- 名词: "[She](/post/she/) penciled [in](/post/in/) [her](/post/her/) brows [to](/post/to/) enhance [her](/post/her/) [appearance](/post/appearance/)."
-- 动词: "[He](/post/he/) browed [in](/post/in/) [concentration](/post/concentration/) [while](/post/while/) solving [the](/post/the/) [puzzle](/post/puzzle/)."
+- 名词: "[She](/zh/post/she/) penciled [in](/zh/post/in/) [her](/zh/post/her/) brows [to](/zh/post/to/) enhance [her](/zh/post/her/) [appearance](/zh/post/appearance/)."
+- 动词: "[He](/zh/post/he/) browed [in](/zh/post/in/) [concentration](/zh/post/concentration/) [while](/zh/post/while/) solving [the](/zh/post/the/) [puzzle](/zh/post/puzzle/)."
 
 ## 同义词
-- [forehead](/post/forehead/)
--眉峰- ([noun](/post/noun/))
-- [frown](/post/frown/) ([verb](/post/verb/))
+- [forehead](/zh/post/forehead/)
+-眉峰- ([noun](/zh/post/noun/))
+- [frown](/zh/post/frown/) ([verb](/zh/post/verb/))

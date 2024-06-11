@@ -7,30 +7,30 @@ description = '[ˈdʒuəri] n.陪审团；评奖团'
 keywords = ['ai words', 'jury']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒʊri/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) selected [to](/en/post/to/) [hear](/en/post/hear/) [evidence](/en/post/evidence/) [and](/en/post/and/) [make](/en/post/make/) [a](/en/post/a/) [decision](/en/post/decision/) [in](/en/post/in/) [a](/en/post/a/) [legal](/en/post/legal/) [case](/en/post/case/), [either](/en/post/either/) [civil](/en/post/civil/) [or](/en/post/or/) [criminal](/en/post/criminal/). [The](/en/post/the/) [decision](/en/post/decision/) [they](/en/post/they/) [reach](/en/post/reach/) is [usually](/en/post/usually/) referred [to](/en/post/to/) [as](/en/post/as/) [a](/en/post/a/) verdict. _Example_: "[The](/en/post/the/) [jury](/en/post/jury/) deliberated [for](/en/post/for/) [three](/en/post/three/) days [before](/en/post/before/) reaching [a](/en/post/a/) unanimous [decision](/en/post/decision/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) selected [to](/post/to/) [hear](/post/hear/) [evidence](/post/evidence/) [and](/post/and/) [make](/post/make/) [a](/post/a/) [decision](/post/decision/) [in](/post/in/) [a](/post/a/) [legal](/post/legal/) [case](/post/case/), [either](/post/either/) [civil](/post/civil/) [or](/post/or/) [criminal](/post/criminal/). [The](/post/the/) [decision](/post/decision/) [they](/post/they/) [reach](/post/reach/) is [usually](/post/usually/) referred [to](/post/to/) [as](/post/as/) [a](/post/a/) verdict. _Example_: "[The](/post/the/) [jury](/post/jury/) deliberated [for](/post/for/) [three](/post/three/) days [before](/post/before/) reaching [a](/post/a/) unanimous [decision](/post/decision/)."
 
-  - _Also_ (informal): [A](/en/post/a/) [body](/en/post/body/) [of](/en/post/of/) individuals [who](/en/post/who/) [judge](/en/post/judge/) [or](/en/post/or/) [evaluate](/en/post/evaluate/) [something](/en/post/something/), [often](/en/post/often/) [used](/en/post/used/) metaphorically. _Example_: "[A](/en/post/a/) [jury](/en/post/jury/) [of](/en/post/of/) [our](/en/post/our/) peers [will](/en/post/will/) [decide](/en/post/decide/) [the](/en/post/the/) [winner](/en/post/winner/) [of](/en/post/of/) [the](/en/post/the/) [art](/en/post/art/) [competition](/en/post/competition/)."
+  - _Also_ (informal): [A](/post/a/) [body](/post/body/) [of](/post/of/) individuals [who](/post/who/) [judge](/post/judge/) [or](/post/or/) [evaluate](/post/evaluate/) [something](/post/something/), [often](/post/often/) [used](/post/used/) metaphorically. _Example_: "[A](/post/a/) [jury](/post/jury/) [of](/post/of/) [our](/post/our/) peers [will](/post/will/) [decide](/post/decide/) [the](/post/the/) [winner](/post/winner/) [of](/post/of/) [the](/post/the/) [art](/post/art/) [competition](/post/competition/)."
 
 ## Phrases
-- "[Jury](/en/post/jury/) [duty](/en/post/duty/)": [The](/en/post/the/) [legal](/en/post/legal/) obligation [to](/en/post/to/) [serve](/en/post/serve/) [on](/en/post/on/) [a](/en/post/a/) [jury](/en/post/jury/) [in](/en/post/in/) [a](/en/post/a/) [court](/en/post/court/) [of](/en/post/of/) [law](/en/post/law/).
-- "[Jury](/en/post/jury/) [trial](/en/post/trial/)": [A](/en/post/a/) [legal](/en/post/legal/) proceeding [where](/en/post/where/) [the](/en/post/the/) facts [of](/en/post/of/) [the](/en/post/the/) [case](/en/post/case/) are decided [by](/en/post/by/) [a](/en/post/a/) [jury](/en/post/jury/).
-- "[A](/en/post/a/) hung [jury](/en/post/jury/)": [When](/en/post/when/) [the](/en/post/the/) members [of](/en/post/of/) [a](/en/post/a/) [jury](/en/post/jury/) cannot [reach](/en/post/reach/) [a](/en/post/a/) unanimous [decision](/en/post/decision/), [leading](/en/post/leading/) [to](/en/post/to/) [a](/en/post/a/) mistrial.
-- "[Twelve](/en/post/twelve/) men [and](/en/post/and/) women [of](/en/post/of/) [the](/en/post/the/) [jury](/en/post/jury/)": [A](/en/post/a/) [traditional](/en/post/traditional/) [phrase](/en/post/phrase/) referring [to](/en/post/to/) [the](/en/post/the/) [number](/en/post/number/) [and](/en/post/and/) gender [composition](/en/post/composition/) [of](/en/post/of/) jurors [in](/en/post/in/) [some](/en/post/some/) jurisdictions.
+- "[Jury](/post/jury/) [duty](/post/duty/)": [The](/post/the/) [legal](/post/legal/) obligation [to](/post/to/) [serve](/post/serve/) [on](/post/on/) [a](/post/a/) [jury](/post/jury/) [in](/post/in/) [a](/post/a/) [court](/post/court/) [of](/post/of/) [law](/post/law/).
+- "[Jury](/post/jury/) [trial](/post/trial/)": [A](/post/a/) [legal](/post/legal/) proceeding [where](/post/where/) [the](/post/the/) facts [of](/post/of/) [the](/post/the/) [case](/post/case/) are decided [by](/post/by/) [a](/post/a/) [jury](/post/jury/).
+- "[A](/post/a/) hung [jury](/post/jury/)": [When](/post/when/) [the](/post/the/) members [of](/post/of/) [a](/post/a/) [jury](/post/jury/) cannot [reach](/post/reach/) [a](/post/a/) unanimous [decision](/post/decision/), [leading](/post/leading/) [to](/post/to/) [a](/post/a/) mistrial.
+- "[Twelve](/post/twelve/) men [and](/post/and/) women [of](/post/of/) [the](/post/the/) [jury](/post/jury/)": [A](/post/a/) [traditional](/post/traditional/) [phrase](/post/phrase/) referring [to](/post/to/) [the](/post/the/) [number](/post/number/) [and](/post/and/) gender [composition](/post/composition/) [of](/post/of/) jurors [in](/post/in/) [some](/post/some/) jurisdictions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) listening [to](/en/post/to/) [all](/en/post/all/) [the](/en/post/the/) testimony, [the](/en/post/the/) [jury](/en/post/jury/) [found](/en/post/found/) [the](/en/post/the/) defendant [guilty](/en/post/guilty/)."
-- "[In](/en/post/in/) [the](/en/post/the/) [US](/en/post/us/), [every](/en/post/every/) [citizen](/en/post/citizen/) [may](/en/post/may/) [be](/en/post/be/) called [upon](/en/post/upon/) [for](/en/post/for/) [jury](/en/post/jury/) [duty](/en/post/duty/)."
-- "[Their](/en/post/their/) [design](/en/post/design/) was judged [by](/en/post/by/) [a](/en/post/a/) [jury](/en/post/jury/) [of](/en/post/of/) [industry](/en/post/industry/) experts."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) listening [to](/post/to/) [all](/post/all/) [the](/post/the/) testimony, [the](/post/the/) [jury](/post/jury/) [found](/post/found/) [the](/post/the/) defendant [guilty](/post/guilty/)."
+- "[In](/post/in/) [the](/post/the/) [US](/post/us/), [every](/post/every/) [citizen](/post/citizen/) [may](/post/may/) [be](/post/be/) called [upon](/post/upon/) [for](/post/for/) [jury](/post/jury/) [duty](/post/duty/)."
+- "[Their](/post/their/) [design](/post/design/) was judged [by](/post/by/) [a](/post/a/) [jury](/post/jury/) [of](/post/of/) [industry](/post/industry/) experts."
 
 ## Synonyms
-- [Panel](/en/post/panel/)
+- [Panel](/post/panel/)
 - Tribunal
-- [Court](/en/post/court/)
-- [Jury](/en/post/jury/) [panel](/en/post/panel/)
+- [Court](/post/court/)
+- [Jury](/post/jury/) [panel](/post/panel/)
 - Jurors
-- [Bench](/en/post/bench/) ([in](/en/post/in/) [some](/en/post/some/) [legal](/en/post/legal/) contexts)  
-- Judging [committee](/en/post/committee/) ([in](/en/post/in/) non-legal contexts)
+- [Bench](/post/bench/) ([in](/post/in/) [some](/post/some/) [legal](/post/legal/) contexts)  
+- Judging [committee](/post/committee/) ([in](/post/in/) non-legal contexts)

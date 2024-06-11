@@ -11,20 +11,20 @@ keywords = ['ai words', 'tremble']
 /trembl/
 
 ## 释义
-- **动词**: 发抖；颤抖。例如: "[Her](/post/her/) hands trembled [with](/post/with/) [fear](/post/fear/)."
-- **名词**: 颤抖；战栗。例如: "[There](/post/there/) was [a](/post/a/) [slight](/post/slight/) [tremble](/post/tremble/) [in](/post/in/) [his](/post/his/) [voice](/post/voice/)."
+- **动词**: 发抖；颤抖。例如: "[Her](/zh/post/her/) hands trembled [with](/zh/post/with/) [fear](/zh/post/fear/)."
+- **名词**: 颤抖；战栗。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [slight](/zh/post/slight/) [tremble](/zh/post/tremble/) [in](/zh/post/in/) [his](/zh/post/his/) [voice](/zh/post/voice/)."
 
 ## 短语
-- "[tremble](/post/tremble/) [with](/post/with/) [fear](/post/fear/)" 意为因害怕而颤抖。
-- "[tremble](/post/tremble/) [at](/post/at/) [the](/post/the/) [thought](/post/thought/) [of](/post/of/)" 意为一想到就发抖。
+- "[tremble](/zh/post/tremble/) [with](/zh/post/with/) [fear](/zh/post/fear/)" 意为因害怕而颤抖。
+- "[tremble](/zh/post/tremble/) [at](/zh/post/at/) [the](/zh/post/the/) [thought](/zh/post/thought/) [of](/zh/post/of/)" 意为一想到就发抖。
 
 ## 例句
-- 动词: "[The](/post/the/) [old](/post/old/) man's knees trembled [as](/post/as/) [he](/post/he/) climbed [the](/post/the/) stairs."
-- 名词: "[The](/post/the/) [ground](/post/ground/) trembled [slightly](/post/slightly/) [during](/post/during/) [the](/post/the/) [earthquake](/post/earthquake/)."
+- 动词: "[The](/zh/post/the/) [old](/zh/post/old/) man's knees trembled [as](/zh/post/as/) [he](/zh/post/he/) climbed [the](/zh/post/the/) stairs."
+- 名词: "[The](/zh/post/the/) [ground](/zh/post/ground/) trembled [slightly](/zh/post/slightly/) [during](/zh/post/during/) [the](/zh/post/the/) [earthquake](/zh/post/earthquake/)."
 
 ## 同义词
-- [shake](/post/shake/)
+- [shake](/zh/post/shake/)
 - quiver
 - shudder
 - jolt
-- [vibrate](/post/vibrate/)
+- [vibrate](/zh/post/vibrate/)

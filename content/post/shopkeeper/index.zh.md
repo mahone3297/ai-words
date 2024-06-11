@@ -11,20 +11,20 @@ keywords = ['ai words', 'shopkeeper']
 /ˈʃɒpˌkiːpər/
 
 ## 释义
-- **名词 (n)**: 经营商店的人，店主。例如: "[The](/post/the/) [shopkeeper](/post/shopkeeper/) is [very](/post/very/) [friendly](/post/friendly/) [with](/post/with/) [his](/post/his/) customers."
-- **动词 (v)**: 通常不作为动词使用，但可以表达“经营店铺”的含义。例如: "[She](/post/she/) shopkeeps [at](/post/at/) [a](/post/a/) [small](/post/small/) bookstore downtown."
+- **名词 (n)**: 经营商店的人，店主。例如: "[The](/zh/post/the/) [shopkeeper](/zh/post/shopkeeper/) is [very](/zh/post/very/) [friendly](/zh/post/friendly/) [with](/zh/post/with/) [his](/zh/post/his/) customers."
+- **动词 (v)**: 通常不作为动词使用，但可以表达“经营店铺”的含义。例如: "[She](/zh/post/she/) shopkeeps [at](/zh/post/at/) [a](/zh/post/a/) [small](/zh/post/small/) bookstore downtown."
 
 ## 短语
-- "[Behind](/post/behind/) [the](/post/the/) [counter](/post/counter/), [the](/post/the/) [shopkeeper](/post/shopkeeper/) was [busy](/post/busy/) serving customers." 店主在柜台后面忙着接待顾客。
+- "[Behind](/zh/post/behind/) [the](/zh/post/the/) [counter](/zh/post/counter/), [the](/zh/post/the/) [shopkeeper](/zh/post/shopkeeper/) was [busy](/zh/post/busy/) serving customers." 店主在柜台后面忙着接待顾客。
 - "Shopkeeper's hours" 指店主通常工作的时间，可能很长且不固定。
 
 ## 例句
-- 名词: "[The](/post/the/) [local](/post/local/) [shopkeeper](/post/shopkeeper/) knows [everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) [village](/post/village/) [by](/post/by/) [name](/post/name/)."
-- 动词: "[She](/post/she/) has been shopkeeping [for](/post/for/) [over](/post/over/) 20 years."
+- 名词: "[The](/zh/post/the/) [local](/zh/post/local/) [shopkeeper](/zh/post/shopkeeper/) knows [everyone](/zh/post/everyone/) [in](/zh/post/in/) [the](/zh/post/the/) [village](/zh/post/village/) [by](/zh/post/by/) [name](/zh/post/name/)."
+- 动词: "[She](/zh/post/she/) has been shopkeeping [for](/zh/post/for/) [over](/zh/post/over/) 20 years."
 
 ## 同义词
 - Proprietor
-- [Merchant](/post/merchant/)
-- [Owner](/post/owner/)
+- [Merchant](/zh/post/merchant/)
+- [Owner](/zh/post/owner/)
 - Retailer
 - Dealer

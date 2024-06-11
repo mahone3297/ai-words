@@ -7,26 +7,26 @@ description = '[ˈækses] n.接近；通道，入口'
 keywords = ['ai words', 'access']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈækses/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [means](/en/post/means/) [or](/en/post/or/) [opportunity](/en/post/opportunity/) [to](/en/post/to/) [approach](/en/post/approach/), [enter](/en/post/enter/), [communicate](/en/post/communicate/) [with](/en/post/with/), [or](/en/post/or/) [use](/en/post/use/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [building](/en/post/building/) has wheelchair [access](/en/post/access/)." 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/) [approach](/en/post/approach/), [enter](/en/post/enter/), [communicate](/en/post/communicate/) [with](/en/post/with/), [or](/en/post/or/) [use](/en/post/use/) ([a](/en/post/a/) [place](/en/post/place/), [information](/en/post/information/), [service](/en/post/service/), etc.). [For](/en/post/for/) [example](/en/post/example/): "[Staff](/en/post/staff/) [can](/en/post/can/) [access](/en/post/access/) [the](/en/post/the/) database [from](/en/post/from/) [home](/en/post/home/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [means](/post/means/) [or](/post/or/) [opportunity](/post/opportunity/) [to](/post/to/) [approach](/post/approach/), [enter](/post/enter/), [communicate](/post/communicate/) [with](/post/with/), [or](/post/or/) [use](/post/use/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [building](/post/building/) has wheelchair [access](/post/access/)." 
+- **[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) [able](/post/able/) [to](/post/to/) [approach](/post/approach/), [enter](/post/enter/), [communicate](/post/communicate/) [with](/post/with/), [or](/post/or/) [use](/post/use/) ([a](/post/a/) [place](/post/place/), [information](/post/information/), [service](/post/service/), etc.). [For](/post/for/) [example](/post/example/): "[Staff](/post/staff/) [can](/post/can/) [access](/post/access/) [the](/post/the/) database [from](/post/from/) [home](/post/home/)."
 
 ## Phrases
-- "[Access](/en/post/access/) [to](/en/post/to/) [information](/en/post/information/)" refers [to](/en/post/to/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [obtain](/en/post/obtain/) [or](/en/post/or/) [view](/en/post/view/) [certain](/en/post/certain/) [data](/en/post/data/).
-- "Restricted [access](/en/post/access/)" [means](/en/post/means/) [only](/en/post/only/) authorized individuals [can](/en/post/can/) [enter](/en/post/enter/) [or](/en/post/or/) [use](/en/post/use/) [a](/en/post/a/) [resource](/en/post/resource/).
-- "[Easy](/en/post/easy/) [access](/en/post/access/)" describes [something](/en/post/something/) [that](/en/post/that/) is [simple](/en/post/simple/) [or](/en/post/or/) [convenient](/en/post/convenient/) [to](/en/post/to/) [reach](/en/post/reach/).
+- "[Access](/post/access/) [to](/post/to/) [information](/post/information/)" refers [to](/post/to/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [obtain](/post/obtain/) [or](/post/or/) [view](/post/view/) [certain](/post/certain/) [data](/post/data/).
+- "Restricted [access](/post/access/)" [means](/post/means/) [only](/post/only/) authorized individuals [can](/post/can/) [enter](/post/enter/) [or](/post/or/) [use](/post/use/) [a](/post/a/) [resource](/post/resource/).
+- "[Easy](/post/easy/) [access](/post/access/)" describes [something](/post/something/) [that](/post/that/) is [simple](/post/simple/) [or](/post/or/) [convenient](/post/convenient/) [to](/post/to/) [reach](/post/reach/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [library](/en/post/library/) provides [free](/en/post/free/) internet [access](/en/post/access/) [to](/en/post/to/) [all](/en/post/all/) visitors."
-- **[Verb](/en/post/verb/)**: "[Only](/en/post/only/) authorized [personnel](/en/post/personnel/) [can](/en/post/can/) [access](/en/post/access/) [the](/en/post/the/) server [room](/en/post/room/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [library](/post/library/) provides [free](/post/free/) internet [access](/post/access/) [to](/post/to/) [all](/post/all/) visitors."
+- **[Verb](/post/verb/)**: "[Only](/post/only/) authorized [personnel](/post/personnel/) [can](/post/can/) [access](/post/access/) [the](/post/the/) server [room](/post/room/)."
 
 ## Synonyms
-- [Reach](/en/post/reach/)
-- [Enter](/en/post/enter/)
-- [Utilize](/en/post/utilize/)
-- [Obtain](/en/post/obtain/)
-- [Admission](/en/post/admission/) ([noun](/en/post/noun/))
-- [Gain](/en/post/gain/) [entry](/en/post/entry/) ([verb](/en/post/verb/))
+- [Reach](/post/reach/)
+- [Enter](/post/enter/)
+- [Utilize](/post/utilize/)
+- [Obtain](/post/obtain/)
+- [Admission](/post/admission/) ([noun](/post/noun/))
+- [Gain](/post/gain/) [entry](/post/entry/) ([verb](/post/verb/))

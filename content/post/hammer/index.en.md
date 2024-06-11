@@ -7,30 +7,30 @@ description = '[ˈhæmə] n.锤，榔头 vt.锤击'
 keywords = ['ai words', 'hammer']
 +++
 
-## [Word](/en/post/word/): [Hammer](/en/post/hammer/)
+## [Word](/post/word/): [Hammer](/post/hammer/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhæmər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [tool](/en/post/tool/) [with](/en/post/with/) [a](/en/post/a/) [heavy](/en/post/heavy/) [head](/en/post/head/) fixed [on](/en/post/on/) [a](/en/post/a/) [handle](/en/post/handle/), [used](/en/post/used/) [for](/en/post/for/) striking blows, [especially](/en/post/especially/) [for](/en/post/for/) driving nails, breaking things [apart](/en/post/apart/), [or](/en/post/or/) forging [metal](/en/post/metal/). [Example](/en/post/example/): "[He](/en/post/he/) picked [up](/en/post/up/) [a](/en/post/a/) [hammer](/en/post/hammer/) [to](/en/post/to/) [fix](/en/post/fix/) [the](/en/post/the/) [broken](/en/post/broken/) [shelf](/en/post/shelf/)."
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [hit](/en/post/hit/) [or](/en/post/or/) [strike](/en/post/strike/) [with](/en/post/with/) [a](/en/post/a/) [hammer](/en/post/hammer/), [often](/en/post/often/) [to](/en/post/to/) [drive](/en/post/drive/) [something](/en/post/something/) [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [nail](/en/post/nail/) [or](/en/post/or/) [to](/en/post/to/) [shape](/en/post/shape/) [or](/en/post/or/) [break](/en/post/break/) an [object](/en/post/object/). [Example](/en/post/example/): "[She](/en/post/she/) hammered [the](/en/post/the/) [nail](/en/post/nail/) [into](/en/post/into/) [the](/en/post/the/) [wall](/en/post/wall/)."
-- **[Verb](/en/post/verb/)**: (figurative) [To](/en/post/to/) [criticize](/en/post/criticize/) [or](/en/post/or/) [attack](/en/post/attack/) forcefully [and](/en/post/and/) [repeatedly](/en/post/repeatedly/). [Example](/en/post/example/): "[The](/en/post/the/) senator hammered [his](/en/post/his/) [opponent](/en/post/opponent/) [on](/en/post/on/) [her](/en/post/her/) voting [record](/en/post/record/) [during](/en/post/during/) [the](/en/post/the/) [debate](/en/post/debate/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [tool](/post/tool/) [with](/post/with/) [a](/post/a/) [heavy](/post/heavy/) [head](/post/head/) fixed [on](/post/on/) [a](/post/a/) [handle](/post/handle/), [used](/post/used/) [for](/post/for/) striking blows, [especially](/post/especially/) [for](/post/for/) driving nails, breaking things [apart](/post/apart/), [or](/post/or/) forging [metal](/post/metal/). [Example](/post/example/): "[He](/post/he/) picked [up](/post/up/) [a](/post/a/) [hammer](/post/hammer/) [to](/post/to/) [fix](/post/fix/) [the](/post/the/) [broken](/post/broken/) [shelf](/post/shelf/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [hit](/post/hit/) [or](/post/or/) [strike](/post/strike/) [with](/post/with/) [a](/post/a/) [hammer](/post/hammer/), [often](/post/often/) [to](/post/to/) [drive](/post/drive/) [something](/post/something/) [such](/post/such/) [as](/post/as/) [a](/post/a/) [nail](/post/nail/) [or](/post/or/) [to](/post/to/) [shape](/post/shape/) [or](/post/or/) [break](/post/break/) an [object](/post/object/). [Example](/post/example/): "[She](/post/she/) hammered [the](/post/the/) [nail](/post/nail/) [into](/post/into/) [the](/post/the/) [wall](/post/wall/)."
+- **[Verb](/post/verb/)**: (figurative) [To](/post/to/) [criticize](/post/criticize/) [or](/post/or/) [attack](/post/attack/) forcefully [and](/post/and/) [repeatedly](/post/repeatedly/). [Example](/post/example/): "[The](/post/the/) senator hammered [his](/post/his/) [opponent](/post/opponent/) [on](/post/on/) [her](/post/her/) voting [record](/post/record/) [during](/post/during/) [the](/post/the/) [debate](/post/debate/)."
 
 ## Phrases
-- "[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [hammer](/en/post/hammer/) [in](/en/post/in/) one's [hand](/en/post/hand/)" implies having [power](/en/post/power/) [or](/en/post/or/) [authority](/en/post/authority/) [over](/en/post/over/) [something](/en/post/something/).
-- "[Hammer](/en/post/hammer/) [and](/en/post/and/) tongs" refers [to](/en/post/to/) working vigorously [or](/en/post/or/) engaging [in](/en/post/in/) heated [argument](/en/post/argument/).
-- "[Hammer](/en/post/hammer/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) negotiate [or](/en/post/or/) [work](/en/post/work/) [out](/en/post/out/) [a](/en/post/a/) [solution](/en/post/solution/) [through](/en/post/through/) [intense](/en/post/intense/) [discussion](/en/post/discussion/) [or](/en/post/or/) [effort](/en/post/effort/).
+- "[To](/post/to/) [have](/post/have/) [a](/post/a/) [hammer](/post/hammer/) [in](/post/in/) one's [hand](/post/hand/)" implies having [power](/post/power/) [or](/post/or/) [authority](/post/authority/) [over](/post/over/) [something](/post/something/).
+- "[Hammer](/post/hammer/) [and](/post/and/) tongs" refers [to](/post/to/) working vigorously [or](/post/or/) engaging [in](/post/in/) heated [argument](/post/argument/).
+- "[Hammer](/post/hammer/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) negotiate [or](/post/or/) [work](/post/work/) [out](/post/out/) [a](/post/a/) [solution](/post/solution/) [through](/post/through/) [intense](/post/intense/) [discussion](/post/discussion/) [or](/post/or/) [effort](/post/effort/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Using [a](/en/post/a/) [small](/en/post/small/) [hammer](/en/post/hammer/), [he](/en/post/he/) carefully adjusted [the](/en/post/the/) components [of](/en/post/of/) [the](/en/post/the/) [clock](/en/post/clock/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) spent [the](/en/post/the/) [day](/en/post/day/) hammering [away](/en/post/away/) [at](/en/post/at/) [the](/en/post/the/) [old](/en/post/old/) [concrete](/en/post/concrete/) [to](/en/post/to/) [make](/en/post/make/) [space](/en/post/space/) [for](/en/post/for/) [new](/en/post/new/) foundations."
-- **[Verb](/en/post/verb/) (figurative)**: "[The](/en/post/the/) [journalist](/en/post/journalist/) hammered [home](/en/post/home/) [the](/en/post/the/) [point](/en/post/point/) [about](/en/post/about/) [the](/en/post/the/) [need](/en/post/need/) [for](/en/post/for/) [political](/en/post/political/) transparency."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Using [a](/post/a/) [small](/post/small/) [hammer](/post/hammer/), [he](/post/he/) carefully adjusted [the](/post/the/) components [of](/post/of/) [the](/post/the/) [clock](/post/clock/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) spent [the](/post/the/) [day](/post/day/) hammering [away](/post/away/) [at](/post/at/) [the](/post/the/) [old](/post/old/) [concrete](/post/concrete/) [to](/post/to/) [make](/post/make/) [space](/post/space/) [for](/post/for/) [new](/post/new/) foundations."
+- **[Verb](/post/verb/) (figurative)**: "[The](/post/the/) [journalist](/post/journalist/) hammered [home](/post/home/) [the](/post/the/) [point](/post/point/) [about](/post/about/) [the](/post/the/) [need](/post/need/) [for](/post/for/) [political](/post/political/) transparency."
 
 ## Synonyms
 - Mallet
-- Sledgehammer ([for](/en/post/for/) [a](/en/post/a/) heavier [type](/en/post/type/))
-- [Tool](/en/post/tool/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [noun](/en/post/noun/))
-- [Pound](/en/post/pound/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [verb](/en/post/verb/))
-- [Criticize](/en/post/criticize/) harshly ([in](/en/post/in/) [the](/en/post/the/) figurative [sense](/en/post/sense/))
-- Lambaste ([in](/en/post/in/) [the](/en/post/the/) figurative [sense](/en/post/sense/))
+- Sledgehammer ([for](/post/for/) [a](/post/a/) heavier [type](/post/type/))
+- [Tool](/post/tool/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [noun](/post/noun/))
+- [Pound](/post/pound/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [verb](/post/verb/))
+- [Criticize](/post/criticize/) harshly ([in](/post/in/) [the](/post/the/) figurative [sense](/post/sense/))
+- Lambaste ([in](/post/in/) [the](/post/the/) figurative [sense](/post/sense/))

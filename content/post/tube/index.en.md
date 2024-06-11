@@ -7,32 +7,32 @@ description = '[ˈtjuːb] n.管；电子管，显像管'
 keywords = ['ai words', 'tube']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tuːb/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Tube](/en/post/tube/)**: 
-    - 1. [A](/en/post/a/) [long](/en/post/long/), [hollow](/en/post/hollow/), cylindrical [object](/en/post/object/), typically made [of](/en/post/of/) [metal](/en/post/metal/) [or](/en/post/or/) [plastic](/en/post/plastic/), [used](/en/post/used/) [for](/en/post/for/) conveying fluids [or](/en/post/or/) gases, [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) conduit [for](/en/post/for/) [electricity](/en/post/electricity/). [Example](/en/post/example/): "[The](/en/post/the/) subway runs [through](/en/post/through/) [a](/en/post/a/) [network](/en/post/network/) [of](/en/post/of/) [underground](/en/post/underground/) tubes."
-    - 2. (informal) [A](/en/post/a/) [television](/en/post/television/) [or](/en/post/or/) [vacuum](/en/post/vacuum/) cleaner. [Example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [buy](/en/post/buy/) [a](/en/post/a/) [new](/en/post/new/) TV [tube](/en/post/tube/)."
-    - 3. (British) [A](/en/post/a/) slang [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) penis. [Example](/en/post/example/): "[He](/en/post/he/) was showing [off](/en/post/off/) [his](/en/post/his/) [new](/en/post/new/) tattoo [on](/en/post/on/) [his](/en/post/his/) [arm](/en/post/arm/) – [a](/en/post/a/) [snake](/en/post/snake/) coiled [around](/en/post/around/) [a](/en/post/a/) [tube](/en/post/tube/)."
+### [Noun](/post/noun/)
+- **[Tube](/post/tube/)**: 
+    - 1. [A](/post/a/) [long](/post/long/), [hollow](/post/hollow/), cylindrical [object](/post/object/), typically made [of](/post/of/) [metal](/post/metal/) [or](/post/or/) [plastic](/post/plastic/), [used](/post/used/) [for](/post/for/) conveying fluids [or](/post/or/) gases, [or](/post/or/) [as](/post/as/) [a](/post/a/) conduit [for](/post/for/) [electricity](/post/electricity/). [Example](/post/example/): "[The](/post/the/) subway runs [through](/post/through/) [a](/post/a/) [network](/post/network/) [of](/post/of/) [underground](/post/underground/) tubes."
+    - 2. (informal) [A](/post/a/) [television](/post/television/) [or](/post/or/) [vacuum](/post/vacuum/) cleaner. [Example](/post/example/): "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) TV [tube](/post/tube/)."
+    - 3. (British) [A](/post/a/) slang [term](/post/term/) [for](/post/for/) [a](/post/a/) penis. [Example](/post/example/): "[He](/post/he/) was showing [off](/post/off/) [his](/post/his/) [new](/post/new/) tattoo [on](/post/on/) [his](/post/his/) [arm](/post/arm/) – [a](/post/a/) [snake](/post/snake/) coiled [around](/post/around/) [a](/post/a/) [tube](/post/tube/)."
 
-### [Verb](/en/post/verb/)
-- [Not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [the](/en/post/the/) [standard](/en/post/standard/) [sense](/en/post/sense/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) flows [or](/en/post/or/) moves [like](/en/post/like/) [a](/en/post/a/) [tube](/en/post/tube/). [Example](/en/post/example/): "[The](/en/post/the/) ideas flowed [smoothly](/en/post/smoothly/) [through](/en/post/through/) [the](/en/post/the/) [pipeline](/en/post/pipeline/) [of](/en/post/of/) collaboration."
+### [Verb](/post/verb/)
+- [Not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [the](/post/the/) [standard](/post/standard/) [sense](/post/sense/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) flows [or](/post/or/) moves [like](/post/like/) [a](/post/a/) [tube](/post/tube/). [Example](/post/example/): "[The](/post/the/) ideas flowed [smoothly](/post/smoothly/) [through](/post/through/) [the](/post/the/) [pipeline](/post/pipeline/) [of](/post/of/) collaboration."
 
 ## Phrases
-- "Tube-shaped [object](/en/post/object/)"
-- "[A](/en/post/a/) [roll](/en/post/roll/) [of](/en/post/of/) tubes"
-- "[Tube](/en/post/tube/) [of](/en/post/of/) toothpaste"
+- "Tube-shaped [object](/post/object/)"
+- "[A](/post/a/) [roll](/post/roll/) [of](/post/of/) tubes"
+- "[Tube](/post/tube/) [of](/post/of/) toothpaste"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) plumber had [to](/en/post/to/) [replace](/en/post/replace/) [a](/en/post/a/) [section](/en/post/section/) [of](/en/post/of/) [pipe](/en/post/pipe/) [that](/en/post/that/) had rusted [out](/en/post/out/), causing [water](/en/post/water/) [to](/en/post/to/) [leak](/en/post/leak/) [from](/en/post/from/) [the](/en/post/the/) [kitchen](/en/post/kitchen/) [tube](/en/post/tube/)."
-- **Metaphorical [Verb](/en/post/verb/)**: "[The](/en/post/the/) [information](/en/post/information/) was transmitted [through](/en/post/through/) [the](/en/post/the/) [digital](/en/post/digital/) [tube](/en/post/tube/) [to](/en/post/to/) [the](/en/post/the/) recipient's inbox."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) plumber had [to](/post/to/) [replace](/post/replace/) [a](/post/a/) [section](/post/section/) [of](/post/of/) [pipe](/post/pipe/) [that](/post/that/) had rusted [out](/post/out/), causing [water](/post/water/) [to](/post/to/) [leak](/post/leak/) [from](/post/from/) [the](/post/the/) [kitchen](/post/kitchen/) [tube](/post/tube/)."
+- **Metaphorical [Verb](/post/verb/)**: "[The](/post/the/) [information](/post/information/) was transmitted [through](/post/through/) [the](/post/the/) [digital](/post/digital/) [tube](/post/tube/) [to](/post/to/) [the](/post/the/) recipient's inbox."
 
 ## Synonyms
 - Cylinder
-- [Pipe](/en/post/pipe/)
+- [Pipe](/post/pipe/)
 - Conduit
-- [Vacuum](/en/post/vacuum/) [tube](/en/post/tube/) ([specific](/en/post/specific/) [type](/en/post/type/))
-- [Electrical](/en/post/electrical/) conduit
+- [Vacuum](/post/vacuum/) [tube](/post/tube/) ([specific](/post/specific/) [type](/post/type/))
+- [Electrical](/post/electrical/) conduit
 - Slang terms (British): bloke, chap (informal), willy (slang)

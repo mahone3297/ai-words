@@ -7,45 +7,45 @@ description = '[∫ɔk] n.冲击；震惊 vi.震动'
 keywords = ['ai words', 'shock']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ʃɒk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Shock](/en/post/shock/)**: 1. [A](/en/post/a/) [sudden](/en/post/sudden/) [and](/en/post/and/) [intense](/en/post/intense/) [feeling](/en/post/feeling/) [of](/en/post/of/) [surprise](/en/post/surprise/), [horror](/en/post/horror/), [or](/en/post/or/) grief. "[The](/en/post/the/) [news](/en/post/news/) [of](/en/post/of/) [her](/en/post/her/) [death](/en/post/death/) came [as](/en/post/as/) [a](/en/post/a/) shocking [blow](/en/post/blow/)."
-   - 2. An [electric](/en/post/electric/) [current](/en/post/current/) [that](/en/post/that/) causes [a](/en/post/a/) [person](/en/post/person/) [to](/en/post/to/) [feel](/en/post/feel/) [a](/en/post/a/) [sudden](/en/post/sudden/) jolt [or](/en/post/or/) [lose](/en/post/lose/) [consciousness](/en/post/consciousness/). "[The](/en/post/the/) [device](/en/post/device/) was designed [to](/en/post/to/) administer [a](/en/post/a/) [mild](/en/post/mild/) [electrical](/en/post/electrical/) [shock](/en/post/shock/) [for](/en/post/for/) [medical](/en/post/medical/) purposes."
-   - 3. [A](/en/post/a/) physiological [response](/en/post/response/) [to](/en/post/to/) [injury](/en/post/injury/) [or](/en/post/or/) [extreme](/en/post/extreme/) [stress](/en/post/stress/), characterized [by](/en/post/by/) increased [heart](/en/post/heart/) [rate](/en/post/rate/), [blood](/en/post/blood/) [pressure](/en/post/pressure/), [and](/en/post/and/) metabolic [activity](/en/post/activity/). "[He](/en/post/he/) recovered [quickly](/en/post/quickly/) [from](/en/post/from/) [the](/en/post/the/) [physical](/en/post/physical/) [shock](/en/post/shock/)."
+### [Noun](/post/noun/)
+- **[Shock](/post/shock/)**: 1. [A](/post/a/) [sudden](/post/sudden/) [and](/post/and/) [intense](/post/intense/) [feeling](/post/feeling/) [of](/post/of/) [surprise](/post/surprise/), [horror](/post/horror/), [or](/post/or/) grief. "[The](/post/the/) [news](/post/news/) [of](/post/of/) [her](/post/her/) [death](/post/death/) came [as](/post/as/) [a](/post/a/) shocking [blow](/post/blow/)."
+   - 2. An [electric](/post/electric/) [current](/post/current/) [that](/post/that/) causes [a](/post/a/) [person](/post/person/) [to](/post/to/) [feel](/post/feel/) [a](/post/a/) [sudden](/post/sudden/) jolt [or](/post/or/) [lose](/post/lose/) [consciousness](/post/consciousness/). "[The](/post/the/) [device](/post/device/) was designed [to](/post/to/) administer [a](/post/a/) [mild](/post/mild/) [electrical](/post/electrical/) [shock](/post/shock/) [for](/post/for/) [medical](/post/medical/) purposes."
+   - 3. [A](/post/a/) physiological [response](/post/response/) [to](/post/to/) [injury](/post/injury/) [or](/post/or/) [extreme](/post/extreme/) [stress](/post/stress/), characterized [by](/post/by/) increased [heart](/post/heart/) [rate](/post/rate/), [blood](/post/blood/) [pressure](/post/pressure/), [and](/post/and/) metabolic [activity](/post/activity/). "[He](/post/he/) recovered [quickly](/post/quickly/) [from](/post/from/) [the](/post/the/) [physical](/post/physical/) [shock](/post/shock/)."
 
-### [Verb](/en/post/verb/)
-- **[Shock](/en/post/shock/)**: 1. [To](/en/post/to/) [cause](/en/post/cause/) [surprise](/en/post/surprise/), [shock](/en/post/shock/), [or](/en/post/or/) amazement [in](/en/post/in/) [someone](/en/post/someone/). "[Her](/en/post/her/) revelation shocked [the](/en/post/the/) [entire](/en/post/entire/) [audience](/en/post/audience/)."
-   - 2. [To](/en/post/to/) stun [or](/en/post/or/) overwhelm [with](/en/post/with/) [a](/en/post/a/) [sudden](/en/post/sudden/) [change](/en/post/change/) [or](/en/post/or/) [event](/en/post/event/). "[The](/en/post/the/) [sudden](/en/post/sudden/) [loss](/en/post/loss/) [of](/en/post/of/) [her](/en/post/her/) [job](/en/post/job/) [left](/en/post/left/) [her](/en/post/her/) [completely](/en/post/completely/) shocked."
-   - 3. ([Medicine](/en/post/medicine/)) [To](/en/post/to/) [treat](/en/post/treat/) [with](/en/post/with/) an [electric](/en/post/electric/) [shock](/en/post/shock/), [especially](/en/post/especially/) [to](/en/post/to/) revive [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has stopped breathing. "[The](/en/post/the/) paramedics shocked [the](/en/post/the/) [patient](/en/post/patient/) [to](/en/post/to/) [restore](/en/post/restore/) [his](/en/post/his/) heartbeat."
+### [Verb](/post/verb/)
+- **[Shock](/post/shock/)**: 1. [To](/post/to/) [cause](/post/cause/) [surprise](/post/surprise/), [shock](/post/shock/), [or](/post/or/) amazement [in](/post/in/) [someone](/post/someone/). "[Her](/post/her/) revelation shocked [the](/post/the/) [entire](/post/entire/) [audience](/post/audience/)."
+   - 2. [To](/post/to/) stun [or](/post/or/) overwhelm [with](/post/with/) [a](/post/a/) [sudden](/post/sudden/) [change](/post/change/) [or](/post/or/) [event](/post/event/). "[The](/post/the/) [sudden](/post/sudden/) [loss](/post/loss/) [of](/post/of/) [her](/post/her/) [job](/post/job/) [left](/post/left/) [her](/post/her/) [completely](/post/completely/) shocked."
+   - 3. ([Medicine](/post/medicine/)) [To](/post/to/) [treat](/post/treat/) [with](/post/with/) an [electric](/post/electric/) [shock](/post/shock/), [especially](/post/especially/) [to](/post/to/) revive [a](/post/a/) [person](/post/person/) [who](/post/who/) has stopped breathing. "[The](/post/the/) paramedics shocked [the](/post/the/) [patient](/post/patient/) [to](/post/to/) [restore](/post/restore/) [his](/post/his/) heartbeat."
 
-### [Adjective](/en/post/adjective/)
-- **Shocking**: 1. Causing [great](/en/post/great/) [surprise](/en/post/surprise/) [or](/en/post/or/) [horror](/en/post/horror/); morally [or](/en/post/or/) socially unacceptable. "[The](/en/post/the/) graphic [violence](/en/post/violence/) [in](/en/post/in/) [the](/en/post/the/) [film](/en/post/film/) was [quite](/en/post/quite/) shocking."
-   - 2. [Intense](/en/post/intense/) [or](/en/post/or/) [severe](/en/post/severe/). "[The](/en/post/the/) [cold](/en/post/cold/) [shock](/en/post/shock/) [of](/en/post/of/) [the](/en/post/the/) [water](/en/post/water/) woke [him](/en/post/him/) [up](/en/post/up/) [immediately](/en/post/immediately/)."
+### [Adjective](/post/adjective/)
+- **Shocking**: 1. Causing [great](/post/great/) [surprise](/post/surprise/) [or](/post/or/) [horror](/post/horror/); morally [or](/post/or/) socially unacceptable. "[The](/post/the/) graphic [violence](/post/violence/) [in](/post/in/) [the](/post/the/) [film](/post/film/) was [quite](/post/quite/) shocking."
+   - 2. [Intense](/post/intense/) [or](/post/or/) [severe](/post/severe/). "[The](/post/the/) [cold](/post/cold/) [shock](/post/shock/) [of](/post/of/) [the](/post/the/) [water](/post/water/) woke [him](/post/him/) [up](/post/up/) [immediately](/post/immediately/)."
 
-### [Adverb](/en/post/adverb/)
-- **Shockingly**: [In](/en/post/in/) [a](/en/post/a/) shocking [manner](/en/post/manner/); unexpectedly. "[The](/en/post/the/) results [of](/en/post/of/) [the](/en/post/the/) [election](/en/post/election/) were shockingly [unexpected](/en/post/unexpected/)."
+### [Adverb](/post/adverb/)
+- **Shockingly**: [In](/post/in/) [a](/post/a/) shocking [manner](/post/manner/); unexpectedly. "[The](/post/the/) results [of](/post/of/) [the](/post/the/) [election](/post/election/) were shockingly [unexpected](/post/unexpected/)."
 
 ## Phrases
-- "[Receive](/en/post/receive/) [a](/en/post/a/) [shock](/en/post/shock/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) surprised [or](/en/post/or/) startled [by](/en/post/by/) [something](/en/post/something/).
-- "[A](/en/post/a/) [rude](/en/post/rude/) awakening" [can](/en/post/can/) [describe](/en/post/describe/) [a](/en/post/a/) [sudden](/en/post/sudden/), shocking realization [or](/en/post/or/) [situation](/en/post/situation/).
-- "[In](/en/post/in/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [shock](/en/post/shock/)" refers [to](/en/post/to/) [being](/en/post/being/) overwhelmed [by](/en/post/by/) [a](/en/post/a/) traumatic [event](/en/post/event/).
+- "[Receive](/post/receive/) [a](/post/a/) [shock](/post/shock/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) surprised [or](/post/or/) startled [by](/post/by/) [something](/post/something/).
+- "[A](/post/a/) [rude](/post/rude/) awakening" [can](/post/can/) [describe](/post/describe/) [a](/post/a/) [sudden](/post/sudden/), shocking realization [or](/post/or/) [situation](/post/situation/).
+- "[In](/post/in/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [shock](/post/shock/)" refers [to](/post/to/) [being](/post/being/) overwhelmed [by](/post/by/) [a](/post/a/) traumatic [event](/post/event/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [discovery](/en/post/discovery/) [of](/en/post/of/) [the](/en/post/the/) stolen artifacts came [as](/en/post/as/) [a](/en/post/a/) shocking revelation."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [sudden](/en/post/sudden/) [departure](/en/post/departure/) shocked [his](/en/post/his/) friends [and](/en/post/and/) [family](/en/post/family/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) severity [of](/en/post/of/) [her](/en/post/her/) injuries was shocking [to](/en/post/to/) [witness](/en/post/witness/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) economy's [rapid](/en/post/rapid/) decline was shockingly [swift](/en/post/swift/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [discovery](/post/discovery/) [of](/post/of/) [the](/post/the/) stolen artifacts came [as](/post/as/) [a](/post/a/) shocking revelation."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [sudden](/post/sudden/) [departure](/post/departure/) shocked [his](/post/his/) friends [and](/post/and/) [family](/post/family/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) severity [of](/post/of/) [her](/post/her/) injuries was shocking [to](/post/to/) [witness](/post/witness/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) economy's [rapid](/post/rapid/) decline was shockingly [swift](/post/swift/)."
 
 ## Synonyms
-- [Surprise](/en/post/surprise/)
-- [Startle](/en/post/startle/)
+- [Surprise](/post/surprise/)
+- [Startle](/post/startle/)
 - Stun
 - Appal
 - Astound
 - Shockwave
-- [Electric](/en/post/electric/) [shock](/en/post/shock/) ([as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/))
-- [Severe](/en/post/severe/) jolt
-- [Sudden](/en/post/sudden/) jolt
+- [Electric](/post/electric/) [shock](/post/shock/) ([as](/post/as/) [a](/post/a/) [noun](/post/noun/))
+- [Severe](/post/severe/) jolt
+- [Sudden](/post/sudden/) jolt

@@ -7,39 +7,39 @@ description = '[mend] vt.修理，修补，缝补'
 keywords = ['ai words', 'mend']
 +++
 
-## [Word](/en/post/word/): [Mend](/en/post/mend/)
+## [Word](/post/word/): [Mend](/post/mend/)
 
-## [Pronunciation](/en/post/pronunciation/)
-/[mend](/en/post/mend/)/
+## [Pronunciation](/post/pronunciation/)
+/[mend](/post/mend/)/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [repair](/en/post/repair/) [something](/en/post/something/) [that](/en/post/that/) is [broken](/en/post/broken/), damaged, [or](/en/post/or/) worn [out](/en/post/out/); [to](/en/post/to/) [restore](/en/post/restore/) [to](/en/post/to/) [a](/en/post/a/) [good](/en/post/good/) [or](/en/post/or/) [sound](/en/post/sound/) [condition](/en/post/condition/). [For](/en/post/for/) [example](/en/post/example/): "I'm going [to](/en/post/to/) [mend](/en/post/mend/) [the](/en/post/the/) [hole](/en/post/hole/) [in](/en/post/in/) [my](/en/post/my/) [sweater](/en/post/sweater/)."
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) repairing [something](/en/post/something/) [or](/en/post/or/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [being](/en/post/being/) repaired. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [car](/en/post/car/) was [in](/en/post/in/) [the](/en/post/the/) [garage](/en/post/garage/) [for](/en/post/for/) [its](/en/post/its/) [annual](/en/post/annual/) [mend](/en/post/mend/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [repair](/post/repair/) [something](/post/something/) [that](/post/that/) is [broken](/post/broken/), damaged, [or](/post/or/) worn [out](/post/out/); [to](/post/to/) [restore](/post/restore/) [to](/post/to/) [a](/post/a/) [good](/post/good/) [or](/post/or/) [sound](/post/sound/) [condition](/post/condition/). [For](/post/for/) [example](/post/example/): "I'm going [to](/post/to/) [mend](/post/mend/) [the](/post/the/) [hole](/post/hole/) [in](/post/in/) [my](/post/my/) [sweater](/post/sweater/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) repairing [something](/post/something/) [or](/post/or/) [the](/post/the/) [process](/post/process/) [of](/post/of/) [being](/post/being/) repaired. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [car](/post/car/) was [in](/post/in/) [the](/post/the/) [garage](/post/garage/) [for](/post/for/) [its](/post/its/) [annual](/post/annual/) [mend](/post/mend/)."
 
-### [Verb](/en/post/verb/) [Usage](/en/post/usage/) Examples
-- "[She](/en/post/she/) mended [the](/en/post/the/) torn pages [of](/en/post/of/) [her](/en/post/her/) [book](/en/post/book/) [with](/en/post/with/) [tape](/en/post/tape/)."
-- "[After](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/), [they](/en/post/they/) spent [the](/en/post/the/) [day](/en/post/day/) mending [the](/en/post/the/) [roof](/en/post/roof/)."
+### [Verb](/post/verb/) [Usage](/post/usage/) Examples
+- "[She](/post/she/) mended [the](/post/the/) torn pages [of](/post/of/) [her](/post/her/) [book](/post/book/) [with](/post/with/) [tape](/post/tape/)."
+- "[After](/post/after/) [the](/post/the/) [storm](/post/storm/), [they](/post/they/) spent [the](/post/the/) [day](/post/day/) mending [the](/post/the/) [roof](/post/roof/)."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- "[The](/en/post/the/) [cost](/en/post/cost/) [of](/en/post/of/) [the](/en/post/the/) [mend](/en/post/mend/) [will](/en/post/will/) [depend](/en/post/depend/) [on](/en/post/on/) [the](/en/post/the/) [extent](/en/post/extent/) [of](/en/post/of/) [the](/en/post/the/) [damage](/en/post/damage/)."
-- "[Her](/en/post/her/) [skillful](/en/post/skillful/) handiwork made [the](/en/post/the/) [mend](/en/post/mend/) [nearly](/en/post/nearly/) [invisible](/en/post/invisible/)."
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- "[The](/post/the/) [cost](/post/cost/) [of](/post/of/) [the](/post/the/) [mend](/post/mend/) [will](/post/will/) [depend](/post/depend/) [on](/post/on/) [the](/post/the/) [extent](/post/extent/) [of](/post/of/) [the](/post/the/) [damage](/post/damage/)."
+- "[Her](/post/her/) [skillful](/post/skillful/) handiwork made [the](/post/the/) [mend](/post/mend/) [nearly](/post/nearly/) [invisible](/post/invisible/)."
 
 ## Phrases
-- "[To](/en/post/to/) [mend](/en/post/mend/) [a](/en/post/a/) [broken](/en/post/broken/) [heart](/en/post/heart/)" - [to](/en/post/to/) [recover](/en/post/recover/) emotionally [after](/en/post/after/) [a](/en/post/a/) breakup [or](/en/post/or/) [loss](/en/post/loss/).
-- "[Mend](/en/post/mend/) one's ways" - [to](/en/post/to/) [correct](/en/post/correct/) one's [behavior](/en/post/behavior/) [or](/en/post/or/) habits.
-- "[A](/en/post/a/) [stitch](/en/post/stitch/) [in](/en/post/in/) [time](/en/post/time/) saves [nine](/en/post/nine/)" - an [idiom](/en/post/idiom/) suggesting [that](/en/post/that/) [if](/en/post/if/) [you](/en/post/you/) [mend](/en/post/mend/) [or](/en/post/or/) [fix](/en/post/fix/) [something](/en/post/something/) [early](/en/post/early/), [it](/en/post/it/) prevents [more](/en/post/more/) [extensive](/en/post/extensive/) repairs [later](/en/post/later/).
+- "[To](/post/to/) [mend](/post/mend/) [a](/post/a/) [broken](/post/broken/) [heart](/post/heart/)" - [to](/post/to/) [recover](/post/recover/) emotionally [after](/post/after/) [a](/post/a/) breakup [or](/post/or/) [loss](/post/loss/).
+- "[Mend](/post/mend/) one's ways" - [to](/post/to/) [correct](/post/correct/) one's [behavior](/post/behavior/) [or](/post/or/) habits.
+- "[A](/post/a/) [stitch](/post/stitch/) [in](/post/in/) [time](/post/time/) saves [nine](/post/nine/)" - an [idiom](/post/idiom/) suggesting [that](/post/that/) [if](/post/if/) [you](/post/you/) [mend](/post/mend/) [or](/post/or/) [fix](/post/fix/) [something](/post/something/) [early](/post/early/), [it](/post/it/) prevents [more](/post/more/) [extensive](/post/extensive/) repairs [later](/post/later/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [mend](/en/post/mend/) [the](/en/post/the/) [fence](/en/post/fence/) [before](/en/post/before/) [his](/en/post/his/) neighbor complained [about](/en/post/about/) [the](/en/post/the/) wandering livestock."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [tailor](/en/post/tailor/) promised [a](/en/post/a/) [quick](/en/post/quick/) [mend](/en/post/mend/) [on](/en/post/on/) [my](/en/post/my/) [suit](/en/post/suit/) [jacket](/en/post/jacket/) [before](/en/post/before/) [the](/en/post/the/) [big](/en/post/big/) [event](/en/post/event/) [tomorrow](/en/post/tomorrow/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [mend](/post/mend/) [the](/post/the/) [fence](/post/fence/) [before](/post/before/) [his](/post/his/) neighbor complained [about](/post/about/) [the](/post/the/) wandering livestock."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [tailor](/post/tailor/) promised [a](/post/a/) [quick](/post/quick/) [mend](/post/mend/) [on](/post/on/) [my](/post/my/) [suit](/post/suit/) [jacket](/post/jacket/) [before](/post/before/) [the](/post/the/) [big](/post/big/) [event](/post/event/) [tomorrow](/post/tomorrow/)."
 
 ## Synonyms
-- [Repair](/en/post/repair/)
-- [Fix](/en/post/fix/)
-- [Patch](/en/post/patch/) [up](/en/post/up/)
-- [Restore](/en/post/restore/)
+- [Repair](/post/repair/)
+- [Fix](/post/fix/)
+- [Patch](/post/patch/) [up](/post/up/)
+- [Restore](/post/restore/)
 - Revive
-- [Renew](/en/post/renew/)
+- [Renew](/post/renew/)
 - Rebuild
 - Rectify
-- [Correct](/en/post/correct/)
+- [Correct](/post/correct/)

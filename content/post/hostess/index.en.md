@@ -7,31 +7,31 @@ description = '[ˈhəustis] n.女主人；空姐'
 keywords = ['ai words', 'hostess']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhəʊstəs/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-- [A](/en/post/a/) [woman](/en/post/woman/) [who](/en/post/who/) receives guests [or](/en/post/or/) customers, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [restaurant](/en/post/restaurant/), [hotel](/en/post/hotel/), [or](/en/post/or/) [on](/en/post/on/) an [airplane](/en/post/airplane/): "[The](/en/post/the/) [hostess](/en/post/hostess/) greeted [us](/en/post/us/) [with](/en/post/with/) [a](/en/post/a/) [smile](/en/post/smile/) [as](/en/post/as/) [we](/en/post/we/) entered [the](/en/post/the/) [restaurant](/en/post/restaurant/)."
-- [The](/en/post/the/) [female](/en/post/female/) [head](/en/post/head/) [of](/en/post/of/) [a](/en/post/a/) [household](/en/post/household/) [who](/en/post/who/) entertains guests: "[At](/en/post/at/) [the](/en/post/the/) [dinner](/en/post/dinner/) [party](/en/post/party/), [the](/en/post/the/) [hostess](/en/post/hostess/) ensured [everyone](/en/post/everyone/) was [comfortable](/en/post/comfortable/) [and](/en/post/and/) well-fed."
-- [A](/en/post/a/) [woman](/en/post/woman/) [who](/en/post/who/) organizes [and](/en/post/and/) hosts [social](/en/post/social/) events: "She's an [excellent](/en/post/excellent/) [hostess](/en/post/hostess/); [her](/en/post/her/) parties are [always](/en/post/always/) talked [about](/en/post/about/) [for](/en/post/for/) weeks."
+### [Noun](/post/noun/) (n)
+- [A](/post/a/) [woman](/post/woman/) [who](/post/who/) receives guests [or](/post/or/) customers, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [restaurant](/post/restaurant/), [hotel](/post/hotel/), [or](/post/or/) [on](/post/on/) an [airplane](/post/airplane/): "[The](/post/the/) [hostess](/post/hostess/) greeted [us](/post/us/) [with](/post/with/) [a](/post/a/) [smile](/post/smile/) [as](/post/as/) [we](/post/we/) entered [the](/post/the/) [restaurant](/post/restaurant/)."
+- [The](/post/the/) [female](/post/female/) [head](/post/head/) [of](/post/of/) [a](/post/a/) [household](/post/household/) [who](/post/who/) entertains guests: "[At](/post/at/) [the](/post/the/) [dinner](/post/dinner/) [party](/post/party/), [the](/post/the/) [hostess](/post/hostess/) ensured [everyone](/post/everyone/) was [comfortable](/post/comfortable/) [and](/post/and/) well-fed."
+- [A](/post/a/) [woman](/post/woman/) [who](/post/who/) organizes [and](/post/and/) hosts [social](/post/social/) events: "She's an [excellent](/post/excellent/) [hostess](/post/hostess/); [her](/post/her/) parties are [always](/post/always/) talked [about](/post/about/) [for](/post/for/) weeks."
 
-### [Verb](/en/post/verb/) (v)
-- ([rarely](/en/post/rarely/) [used](/en/post/used/)) [To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) [a](/en/post/a/) [hostess](/en/post/hostess/), [that](/en/post/that/) is, [to](/en/post/to/) [entertain](/en/post/entertain/) [or](/en/post/or/) [receive](/en/post/receive/) guests: "[She](/en/post/she/) was chosen [to](/en/post/to/) [hostess](/en/post/hostess/) [the](/en/post/the/) [charity](/en/post/charity/) gala [event](/en/post/event/)."
+### [Verb](/post/verb/) (v)
+- ([rarely](/post/rarely/) [used](/post/used/)) [To](/post/to/) [act](/post/act/) [as](/post/as/) [a](/post/a/) [hostess](/post/hostess/), [that](/post/that/) is, [to](/post/to/) [entertain](/post/entertain/) [or](/post/or/) [receive](/post/receive/) guests: "[She](/post/she/) was chosen [to](/post/to/) [hostess](/post/hostess/) [the](/post/the/) [charity](/post/charity/) gala [event](/post/event/)."
 
 ## Phrases
-- "[Hostess](/en/post/hostess/) [with](/en/post/with/) [the](/en/post/the/) mostest" - [a](/en/post/a/) colloquial [expression](/en/post/expression/) referring [to](/en/post/to/) [a](/en/post/a/) [particularly](/en/post/particularly/) adept [or](/en/post/or/) [charming](/en/post/charming/) [female](/en/post/female/) [host](/en/post/host/).
-- "[Airline](/en/post/airline/) [hostess](/en/post/hostess/)" - [now](/en/post/now/) [often](/en/post/often/) called [a](/en/post/a/) [flight](/en/post/flight/) attendant, [this](/en/post/this/) [term](/en/post/term/) refers [to](/en/post/to/) [a](/en/post/a/) [female](/en/post/female/) [staff](/en/post/staff/) [member](/en/post/member/) [who](/en/post/who/) attends [to](/en/post/to/) passengers' needs [during](/en/post/during/) flights.
+- "[Hostess](/post/hostess/) [with](/post/with/) [the](/post/the/) mostest" - [a](/post/a/) colloquial [expression](/post/expression/) referring [to](/post/to/) [a](/post/a/) [particularly](/post/particularly/) adept [or](/post/or/) [charming](/post/charming/) [female](/post/female/) [host](/post/host/).
+- "[Airline](/post/airline/) [hostess](/post/hostess/)" - [now](/post/now/) [often](/post/often/) called [a](/post/a/) [flight](/post/flight/) attendant, [this](/post/this/) [term](/post/term/) refers [to](/post/to/) [a](/post/a/) [female](/post/female/) [staff](/post/staff/) [member](/post/member/) [who](/post/who/) attends [to](/post/to/) passengers' needs [during](/post/during/) flights.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[As](/en/post/as/) [a](/en/post/a/) [professional](/en/post/professional/) [hostess](/en/post/hostess/), [she](/en/post/she/) made [sure](/en/post/sure/) [every](/en/post/every/) [guest](/en/post/guest/) felt [welcome](/en/post/welcome/) [and](/en/post/and/) attended [to](/en/post/to/)."
-- "[The](/en/post/the/) cruise [ship](/en/post/ship/) had [a](/en/post/a/) [team](/en/post/team/) [of](/en/post/of/) [attentive](/en/post/attentive/) hostesses [ready](/en/post/ready/) [to](/en/post/to/) [assist](/en/post/assist/) passengers [around](/en/post/around/) [the](/en/post/the/) [clock](/en/post/clock/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[As](/post/as/) [a](/post/a/) [professional](/post/professional/) [hostess](/post/hostess/), [she](/post/she/) made [sure](/post/sure/) [every](/post/every/) [guest](/post/guest/) felt [welcome](/post/welcome/) [and](/post/and/) attended [to](/post/to/)."
+- "[The](/post/the/) cruise [ship](/post/ship/) had [a](/post/a/) [team](/post/team/) [of](/post/of/) [attentive](/post/attentive/) hostesses [ready](/post/ready/) [to](/post/to/) [assist](/post/assist/) passengers [around](/post/around/) [the](/post/the/) [clock](/post/clock/)."
 
 ## Synonyms
-- [Host](/en/post/host/) ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [female](/en/post/female/))
+- [Host](/post/host/) ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) [female](/post/female/))
 - Hosteler
 - Greeter
-- Receptionist ([in](/en/post/in/) [certain](/en/post/certain/) contexts [such](/en/post/such/) [as](/en/post/as/) hospitality)
-- Server (specifically [in](/en/post/in/) restaurants [or](/en/post/or/) cafes) 
+- Receptionist ([in](/post/in/) [certain](/post/certain/) contexts [such](/post/such/) [as](/post/as/) hospitality)
+- Server (specifically [in](/post/in/) restaurants [or](/post/or/) cafes) 
 
-Antonyms [might](/en/post/might/) [include](/en/post/include/) '[guest](/en/post/guest/)' [or](/en/post/or/) '[visitor](/en/post/visitor/)' depending [on](/en/post/on/) [the](/en/post/the/) context [but](/en/post/but/) [note](/en/post/note/) [that](/en/post/that/) [these](/en/post/these/) don't [directly](/en/post/directly/) [oppose](/en/post/oppose/) [the](/en/post/the/) [role](/en/post/role/) [of](/en/post/of/) [a](/en/post/a/) [hostess](/en/post/hostess/).
+Antonyms [might](/post/might/) [include](/post/include/) '[guest](/post/guest/)' [or](/post/or/) '[visitor](/post/visitor/)' depending [on](/post/on/) [the](/post/the/) context [but](/post/but/) [note](/post/note/) [that](/post/that/) [these](/post/these/) don't [directly](/post/directly/) [oppose](/post/oppose/) [the](/post/the/) [role](/post/role/) [of](/post/of/) [a](/post/a/) [hostess](/post/hostess/).

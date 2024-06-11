@@ -7,27 +7,27 @@ description = '[ˈθəːˈtiːn] num.十三，十三个'
 keywords = ['ai words', 'thirteen']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /thɜːˈtɛɪn/
 
 ## Definitions
-- **Numeral**: [A](/en/post/a/) [number](/en/post/number/) indicating [the](/en/post/the/) [quantity](/en/post/quantity/) [or](/en/post/or/) [position](/en/post/position/) [between](/en/post/between/) [twelve](/en/post/twelve/) [and](/en/post/and/) [fourteen](/en/post/fourteen/). [It](/en/post/it/) is [the](/en/post/the/) cardinal [form](/en/post/form/) [of](/en/post/of/) [the](/en/post/the/) [number](/en/post/number/).
+- **Numeral**: [A](/post/a/) [number](/post/number/) indicating [the](/post/the/) [quantity](/post/quantity/) [or](/post/or/) [position](/post/position/) [between](/post/between/) [twelve](/post/twelve/) [and](/post/and/) [fourteen](/post/fourteen/). [It](/post/it/) is [the](/post/the/) cardinal [form](/post/form/) [of](/post/of/) [the](/post/the/) [number](/post/number/).
 
 ## Phrases
-- "[Thirteen](/en/post/thirteen/) is an [unlucky](/en/post/unlucky/) [number](/en/post/number/)" ([a](/en/post/a/) superstition)
-- "[Thirteen](/en/post/thirteen/) guests [at](/en/post/at/) [the](/en/post/the/) [dinner](/en/post/dinner/)" (counting individuals)
-- "[Thirteen](/en/post/thirteen/) colonies declared [independence](/en/post/independence/)" ([American](/en/post/american/) [history](/en/post/history/))
+- "[Thirteen](/post/thirteen/) is an [unlucky](/post/unlucky/) [number](/post/number/)" ([a](/post/a/) superstition)
+- "[Thirteen](/post/thirteen/) guests [at](/post/at/) [the](/post/the/) [dinner](/post/dinner/)" (counting individuals)
+- "[Thirteen](/post/thirteen/) colonies declared [independence](/post/independence/)" ([American](/post/american/) [history](/post/history/))
 
-## [Example](/en/post/example/) Sentences
-- "[There](/en/post/there/) were [thirteen](/en/post/thirteen/) [people](/en/post/people/) [at](/en/post/at/) [the](/en/post/the/) [birthday](/en/post/birthday/) [party](/en/post/party/)."
-- "I was [born](/en/post/born/) [on](/en/post/on/) [the](/en/post/the/) thirteenth [of](/en/post/of/) February."
-- "[The](/en/post/the/) [game](/en/post/game/) ended [with](/en/post/with/) [a](/en/post/a/) [score](/en/post/score/) [of](/en/post/of/) [thirteen](/en/post/thirteen/) [to](/en/post/to/) [ten](/en/post/ten/)."
+## [Example](/post/example/) Sentences
+- "[There](/post/there/) were [thirteen](/post/thirteen/) [people](/post/people/) [at](/post/at/) [the](/post/the/) [birthday](/post/birthday/) [party](/post/party/)."
+- "I was [born](/post/born/) [on](/post/on/) [the](/post/the/) thirteenth [of](/post/of/) February."
+- "[The](/post/the/) [game](/post/game/) ended [with](/post/with/) [a](/post/a/) [score](/post/score/) [of](/post/of/) [thirteen](/post/thirteen/) [to](/post/to/) [ten](/post/ten/)."
 
 ## Synonyms
-- [None](/en/post/none/) ([since](/en/post/since/) it's [a](/en/post/a/) [specific](/en/post/specific/) numeral [and](/en/post/and/) [not](/en/post/not/) [a](/en/post/a/) [general](/en/post/general/) [term](/en/post/term/) [like](/en/post/like/) "[one](/en/post/one/)" [or](/en/post/or/) "[two](/en/post/two/)")
+- [None](/post/none/) ([since](/post/since/) it's [a](/post/a/) [specific](/post/specific/) numeral [and](/post/and/) [not](/post/not/) [a](/post/a/) [general](/post/general/) [term](/post/term/) [like](/post/like/) "[one](/post/one/)" [or](/post/or/) "[two](/post/two/)")
 
 ## Related Words
-- [Tenth](/en/post/tenth/) (10)
-- [Fourteen](/en/post/fourteen/) (14)
-- [Twelfth](/en/post/twelfth/) (12)
-- [Fourteen](/en/post/fourteen/) (14)
+- [Tenth](/post/tenth/) (10)
+- [Fourteen](/post/fourteen/) (14)
+- [Twelfth](/post/twelfth/) (12)
+- [Fourteen](/post/fourteen/) (14)

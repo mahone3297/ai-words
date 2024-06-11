@@ -11,20 +11,20 @@ keywords = ['ai words', 'outwards']
 /outˈwərdz/
 
 ## 释义
-- **副词**: 向外，往外，朝外。指方向或动作从内部指向外部。例如: "[The](/post/the/) [door](/post/door/) opens [outwards](/post/outwards/)."
-- **形容词**: 外部的，向外的。描述事物的位置或状态。例如: "[The](/post/the/) [outwards](/post/outwards/) [appearance](/post/appearance/) [of](/post/of/) [the](/post/the/) [building](/post/building/) was [impressive](/post/impressive/)."
+- **副词**: 向外，往外，朝外。指方向或动作从内部指向外部。例如: "[The](/zh/post/the/) [door](/zh/post/door/) opens [outwards](/zh/post/outwards/)."
+- **形容词**: 外部的，向外的。描述事物的位置或状态。例如: "[The](/zh/post/the/) [outwards](/zh/post/outwards/) [appearance](/zh/post/appearance/) [of](/zh/post/of/) [the](/zh/post/the/) [building](/zh/post/building/) was [impressive](/zh/post/impressive/)."
 
 ## 短语
-- "[outwards](/post/outwards/) [journey](/post/journey/)" 指的是离开出发地前往目的地的行程。
-- "[outward](/post/outward/) [bound](/post/bound/)" 可以指某种活动或旅行，尤其是户外探险或训练。
+- "[outwards](/zh/post/outwards/) [journey](/zh/post/journey/)" 指的是离开出发地前往目的地的行程。
+- "[outward](/zh/post/outward/) [bound](/zh/post/bound/)" 可以指某种活动或旅行，尤其是户外探险或训练。
 
 ## 例句
-- 副词: "[The](/post/the/) [drawer](/post/drawer/) pulls [outwards](/post/outwards/) [for](/post/for/) [easy](/post/easy/) [access](/post/access/)."
-- 形容词: "[The](/post/the/) [outwards](/post/outwards/) [curve](/post/curve/) [of](/post/of/) [the](/post/the/) [roof](/post/roof/) made [it](/post/it/) [stand](/post/stand/) [out](/post/out/) [in](/post/in/) [the](/post/the/) neighborhood."
+- 副词: "[The](/zh/post/the/) [drawer](/zh/post/drawer/) pulls [outwards](/zh/post/outwards/) [for](/zh/post/for/) [easy](/zh/post/easy/) [access](/zh/post/access/)."
+- 形容词: "[The](/zh/post/the/) [outwards](/zh/post/outwards/) [curve](/zh/post/curve/) [of](/zh/post/of/) [the](/zh/post/the/) [roof](/zh/post/roof/) made [it](/zh/post/it/) [stand](/zh/post/stand/) [out](/zh/post/out/) [in](/zh/post/in/) [the](/zh/post/the/) neighborhood."
 
 ## 同义词
 - Externally
-- Toward [the](/post/the/) [outside](/post/outside/)
+- Toward [the](/zh/post/the/) [outside](/zh/post/outside/)
 - Outwardly
-- [In](/post/in/) [the](/post/the/) [outward](/post/outward/) [direction](/post/direction/)
-- [External](/post/external/)
+- [In](/zh/post/in/) [the](/zh/post/the/) [outward](/zh/post/outward/) [direction](/zh/post/direction/)
+- [External](/zh/post/external/)

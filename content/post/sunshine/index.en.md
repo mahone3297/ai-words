@@ -7,31 +7,31 @@ description = '[ˈsʌn∫ain] n.(直射)日光，阳光'
 keywords = ['ai words', 'sunshine']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sʌnˈʃaɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Sunshine](/en/post/sunshine/)** refers [to](/en/post/to/) [the](/en/post/the/) [light](/en/post/light/) [and](/en/post/and/) [warmth](/en/post/warmth/) [from](/en/post/from/) [the](/en/post/the/) [sun](/en/post/sun/), [which](/en/post/which/) is [vital](/en/post/vital/) [for](/en/post/for/) [life](/en/post/life/) [on](/en/post/on/) [Earth](/en/post/earth/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) symbolize [happiness](/en/post/happiness/), positivity, [and](/en/post/and/) [bright](/en/post/bright/) [energy](/en/post/energy/).
+### [Noun](/post/noun/)
+**[Sunshine](/post/sunshine/)** refers [to](/post/to/) [the](/post/the/) [light](/post/light/) [and](/post/and/) [warmth](/post/warmth/) [from](/post/from/) [the](/post/the/) [sun](/post/sun/), [which](/post/which/) is [vital](/post/vital/) [for](/post/for/) [life](/post/life/) [on](/post/on/) [Earth](/post/earth/). [It](/post/it/) [can](/post/can/) [also](/post/also/) symbolize [happiness](/post/happiness/), positivity, [and](/post/and/) [bright](/post/bright/) [energy](/post/energy/).
 
-### [Verb](/en/post/verb/) (informal)
-[To](/en/post/to/) "[enjoy](/en/post/enjoy/) [sunshine](/en/post/sunshine/)" [means](/en/post/means/) [to](/en/post/to/) bask [in](/en/post/in/) [the](/en/post/the/) [pleasant](/en/post/pleasant/) [warmth](/en/post/warmth/) [and](/en/post/and/) brightness [of](/en/post/of/) [the](/en/post/the/) [sun](/en/post/sun/), [often](/en/post/often/) metaphorically implying [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [pleasure](/en/post/pleasure/) [or](/en/post/or/) relaxation.
+### [Verb](/post/verb/) (informal)
+[To](/post/to/) "[enjoy](/post/enjoy/) [sunshine](/post/sunshine/)" [means](/post/means/) [to](/post/to/) bask [in](/post/in/) [the](/post/the/) [pleasant](/post/pleasant/) [warmth](/post/warmth/) [and](/post/and/) brightness [of](/post/of/) [the](/post/the/) [sun](/post/sun/), [often](/post/often/) metaphorically implying [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [pleasure](/post/pleasure/) [or](/post/or/) relaxation.
 
 ## Phrases
-- "Bask [in](/en/post/in/) [the](/en/post/the/) [sunshine](/en/post/sunshine/)"
-- "[A](/en/post/a/) [day](/en/post/day/) filled [with](/en/post/with/) [sunshine](/en/post/sunshine/)"
-- "Seeking [the](/en/post/the/) [sunshine](/en/post/sunshine/)" ([to](/en/post/to/) [go](/en/post/go/) [outside](/en/post/outside/) [on](/en/post/on/) [a](/en/post/a/) [sunny](/en/post/sunny/) [day](/en/post/day/) [for](/en/post/for/) [leisure](/en/post/leisure/) [or](/en/post/or/) [to](/en/post/to/) [improve](/en/post/improve/) [mood](/en/post/mood/))
+- "Bask [in](/post/in/) [the](/post/the/) [sunshine](/post/sunshine/)"
+- "[A](/post/a/) [day](/post/day/) filled [with](/post/with/) [sunshine](/post/sunshine/)"
+- "Seeking [the](/post/the/) [sunshine](/post/sunshine/)" ([to](/post/to/) [go](/post/go/) [outside](/post/outside/) [on](/post/on/) [a](/post/a/) [sunny](/post/sunny/) [day](/post/day/) [for](/post/for/) [leisure](/post/leisure/) [or](/post/or/) [to](/post/to/) [improve](/post/improve/) [mood](/post/mood/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children played happily [in](/en/post/in/) [the](/en/post/the/) [sunshine](/en/post/sunshine/) [at](/en/post/at/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Verb](/en/post/verb/) (informal)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/), dreary [winter](/en/post/winter/), [she](/en/post/she/) loved [to](/en/post/to/) [enjoy](/en/post/enjoy/) [the](/en/post/the/) [sunshine](/en/post/sunshine/) [on](/en/post/on/) [her](/en/post/her/) [daily](/en/post/daily/) walks."
-- **Phrases**: "[She](/en/post/she/) decided [to](/en/post/to/) [spend](/en/post/spend/) [her](/en/post/her/) [afternoon](/en/post/afternoon/) basking [in](/en/post/in/) [the](/en/post/the/) [sunshine](/en/post/sunshine/) [by](/en/post/by/) [the](/en/post/the/) [beach](/en/post/beach/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children played happily [in](/post/in/) [the](/post/the/) [sunshine](/post/sunshine/) [at](/post/at/) [the](/post/the/) [park](/post/park/)."
+- **[Verb](/post/verb/) (informal)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/), dreary [winter](/post/winter/), [she](/post/she/) loved [to](/post/to/) [enjoy](/post/enjoy/) [the](/post/the/) [sunshine](/post/sunshine/) [on](/post/on/) [her](/post/her/) [daily](/post/daily/) walks."
+- **Phrases**: "[She](/post/she/) decided [to](/post/to/) [spend](/post/spend/) [her](/post/her/) [afternoon](/post/afternoon/) basking [in](/post/in/) [the](/post/the/) [sunshine](/post/sunshine/) [by](/post/by/) [the](/post/the/) [beach](/post/beach/)."
 
 ## Synonyms
-- [Sunlight](/en/post/sunlight/)
+- [Sunlight](/post/sunlight/)
 - Radiance
-- [Cheer](/en/post/cheer/)
-- [Warmth](/en/post/warmth/)
+- [Cheer](/post/cheer/)
+- [Warmth](/post/warmth/)
 - Brightness
 - Gladness
 - Positivity

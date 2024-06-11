@@ -12,21 +12,21 @@ keywords = ['ai words', 'understand']
 
 ## 释义
 - **动词**:
-  - 理解，明白。例如: "I [need](/post/need/) [you](/post/you/) [to](/post/to/) [understand](/post/understand/) [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [this](/post/this/) [task](/post/task/)."
-  - 接受（想法、观点等）。例如: "[She](/post/she/) understands [and](/post/and/) agrees [with](/post/with/) [our](/post/our/) [proposal](/post/proposal/)."
+  - 理解，明白。例如: "I [need](/zh/post/need/) [you](/zh/post/you/) [to](/zh/post/to/) [understand](/zh/post/understand/) [the](/zh/post/the/) [importance](/zh/post/importance/) [of](/zh/post/of/) [this](/zh/post/this/) [task](/zh/post/task/)."
+  - 接受（想法、观点等）。例如: "[She](/zh/post/she/) understands [and](/zh/post/and/) agrees [with](/zh/post/with/) [our](/zh/post/our/) [proposal](/zh/post/proposal/)."
 
 ## 短语
-- "[to](/post/to/) [get](/post/get/) [the](/post/the/) [wrong](/post/wrong/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [stick](/post/stick/)" 误解了情况。
-- "[to](/post/to/) fully [understand](/post/understand/) [something](/post/something/)" 完全理解某事。
+- "[to](/zh/post/to/) [get](/zh/post/get/) [the](/zh/post/the/) [wrong](/zh/post/wrong/) [end](/zh/post/end/) [of](/zh/post/of/) [the](/zh/post/the/) [stick](/zh/post/stick/)" 误解了情况。
+- "[to](/zh/post/to/) fully [understand](/zh/post/understand/) [something](/zh/post/something/)" 完全理解某事。
 
 ## 例句
-- "[Please](/post/please/) [make](/post/make/) [sure](/post/sure/) [you](/post/you/) [understand](/post/understand/) [the](/post/the/) instructions [before](/post/before/) starting [the](/post/the/) [experiment](/post/experiment/)."
-- "[He](/post/he/) seemed [to](/post/to/) [understand](/post/understand/) [my](/post/my/) feelings [without](/post/without/) [me](/post/me/) saying [a](/post/a/) [word](/post/word/)."
-- "[The](/post/the/) [teacher](/post/teacher/) explained [the](/post/the/) [concept](/post/concept/) [again](/post/again/) [until](/post/until/) [all](/post/all/) [the](/post/the/) students understood."
+- "[Please](/zh/post/please/) [make](/zh/post/make/) [sure](/zh/post/sure/) [you](/zh/post/you/) [understand](/zh/post/understand/) [the](/zh/post/the/) instructions [before](/zh/post/before/) starting [the](/zh/post/the/) [experiment](/zh/post/experiment/)."
+- "[He](/zh/post/he/) seemed [to](/zh/post/to/) [understand](/zh/post/understand/) [my](/zh/post/my/) feelings [without](/zh/post/without/) [me](/zh/post/me/) saying [a](/zh/post/a/) [word](/zh/post/word/)."
+- "[The](/zh/post/the/) [teacher](/zh/post/teacher/) explained [the](/zh/post/the/) [concept](/zh/post/concept/) [again](/zh/post/again/) [until](/zh/post/until/) [all](/zh/post/all/) [the](/zh/post/the/) students understood."
 
 ## 同义词
 - Comprehend
-- [Grasp](/post/grasp/)
-- [Know](/post/know/)
-- [Interpret](/post/interpret/)
-- [Digest](/post/digest/)
+- [Grasp](/zh/post/grasp/)
+- [Know](/zh/post/know/)
+- [Interpret](/zh/post/interpret/)
+- [Digest](/zh/post/digest/)

@@ -7,33 +7,33 @@ description = '[ˈpɔiznəs] a.有毒的，有害的'
 keywords = ['ai words', 'poisonous']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈziənəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) producing [harmful](/en/post/harmful/) effects; [deadly](/en/post/deadly/) [or](/en/post/or/) causing [illness](/en/post/illness/) [or](/en/post/or/) [injury](/en/post/injury/) [if](/en/post/if/) ingested [or](/en/post/or/) contacted. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) snake's venom was [poisonous](/en/post/poisonous/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [poisonous](/en/post/poisonous/) [substance](/en/post/substance/) [or](/en/post/or/) [agent](/en/post/agent/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [mushroom](/en/post/mushroom/) was toxic [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [poisonous](/en/post/poisonous/) [nature](/en/post/nature/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) producing [harmful](/post/harmful/) effects; [deadly](/post/deadly/) [or](/post/or/) causing [illness](/post/illness/) [or](/post/or/) [injury](/post/injury/) [if](/post/if/) ingested [or](/post/or/) contacted. [For](/post/for/) [example](/post/example/): "[The](/post/the/) snake's venom was [poisonous](/post/poisonous/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [poisonous](/post/poisonous/) [substance](/post/substance/) [or](/post/or/) [agent](/post/agent/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [mushroom](/post/mushroom/) was toxic [due](/post/due/) [to](/post/to/) [its](/post/its/) [poisonous](/post/poisonous/) [nature](/post/nature/)."
 
 ## Phrases
-- "[Poisonous](/en/post/poisonous/) plants" refers [to](/en/post/to/) [those](/en/post/those/) [with](/en/post/with/) [harmful](/en/post/harmful/) chemicals.
-- "[A](/en/post/a/) [poisonous](/en/post/poisonous/) [bite](/en/post/bite/)" indicates [a](/en/post/a/) venomous [sting](/en/post/sting/) [or](/en/post/or/) puncture [wound](/en/post/wound/).
-- "[Be](/en/post/be/) cautious [of](/en/post/of/) [poisonous](/en/post/poisonous/) substances" is [a](/en/post/a/) warning [to](/en/post/to/) [avoid](/en/post/avoid/) [harm](/en/post/harm/).
+- "[Poisonous](/post/poisonous/) plants" refers [to](/post/to/) [those](/post/those/) [with](/post/with/) [harmful](/post/harmful/) chemicals.
+- "[A](/post/a/) [poisonous](/post/poisonous/) [bite](/post/bite/)" indicates [a](/post/a/) venomous [sting](/post/sting/) [or](/post/or/) puncture [wound](/post/wound/).
+- "[Be](/post/be/) cautious [of](/post/of/) [poisonous](/post/poisonous/) substances" is [a](/post/a/) warning [to](/post/to/) [avoid](/post/avoid/) [harm](/post/harm/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [patient](/en/post/patient/) recovered [from](/en/post/from/) [the](/en/post/the/) [poisonous](/en/post/poisonous/) snake's venom."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) wore gloves [to](/en/post/to/) [handle](/en/post/handle/) [the](/en/post/the/) [poisonous](/en/post/poisonous/) ivy."
-- "[The](/en/post/the/) [cook](/en/post/cook/) carefully checked [the](/en/post/the/) expiration [date](/en/post/date/) [on](/en/post/on/) [the](/en/post/the/) [food](/en/post/food/), avoiding [any](/en/post/any/) [poisonous](/en/post/poisonous/) ingredients."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [patient](/post/patient/) recovered [from](/post/from/) [the](/post/the/) [poisonous](/post/poisonous/) snake's venom."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [gardener](/post/gardener/) wore gloves [to](/post/to/) [handle](/post/handle/) [the](/post/the/) [poisonous](/post/poisonous/) ivy."
+- "[The](/post/the/) [cook](/post/cook/) carefully checked [the](/post/the/) expiration [date](/post/date/) [on](/post/on/) [the](/post/the/) [food](/post/food/), avoiding [any](/post/any/) [poisonous](/post/poisonous/) ingredients."
 
 ## Synonyms
 - Toxical
 - Venomous
 - Noxious
-- [Deadly](/en/post/deadly/)
+- [Deadly](/post/deadly/)
 - Hazardous
 
 ## Antonyms
 - Harmless
-- [Safe](/en/post/safe/)
+- [Safe](/post/safe/)
 - Nontoxic
 - Inert
 - Benign

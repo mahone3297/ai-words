@@ -7,38 +7,38 @@ description = '[brɔːd] a.宽的，阔的；广泛的'
 keywords = ['ai words', 'broad']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /brɔd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) [wide](/en/post/wide/) [extent](/en/post/extent/) [or](/en/post/or/) [scope](/en/post/scope/); [extensive](/en/post/extensive/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [river](/en/post/river/) was [broad](/en/post/broad/) [and](/en/post/and/) [calm](/en/post/calm/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [width](/en/post/width/) [of](/en/post/of/) [something](/en/post/something/), typically [from](/en/post/from/) [side](/en/post/side/) [to](/en/post/to/) [side](/en/post/side/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [bridge](/en/post/bridge/) had [a](/en/post/a/) [broad](/en/post/broad/) [span](/en/post/span/)."
+### [Noun](/post/noun/)
+- **[Adjective](/post/adjective/)**: Having [a](/post/a/) [wide](/post/wide/) [extent](/post/extent/) [or](/post/or/) [scope](/post/scope/); [extensive](/post/extensive/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [river](/post/river/) was [broad](/post/broad/) [and](/post/and/) [calm](/post/calm/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [width](/post/width/) [of](/post/of/) [something](/post/something/), typically [from](/post/from/) [side](/post/side/) [to](/post/to/) [side](/post/side/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [bridge](/post/bridge/) had [a](/post/a/) [broad](/post/broad/) [span](/post/span/)."
 
-### [Verb](/en/post/verb/)
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [wide](/en/post/wide/) [or](/en/post/or/) broader. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) broadened [the](/en/post/the/) [field](/en/post/field/) [with](/en/post/with/) [his](/en/post/his/) plow."
-- **[Verb](/en/post/verb/)**: (British) [To](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) comprehend [easily](/en/post/easily/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [broad](/en/post/broad/) [knowledge](/en/post/knowledge/) [of](/en/post/of/) [history](/en/post/history/)."
+### [Verb](/post/verb/)
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [wide](/post/wide/) [or](/post/or/) broader. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) broadened [the](/post/the/) [field](/post/field/) [with](/post/with/) [his](/post/his/) plow."
+- **[Verb](/post/verb/)**: (British) [To](/post/to/) [understand](/post/understand/) [or](/post/or/) comprehend [easily](/post/easily/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [broad](/post/broad/) [knowledge](/post/knowledge/) [of](/post/of/) [history](/post/history/)."
 
 ## Phrases
-- "[A](/en/post/a/) [broad](/en/post/broad/) [smile](/en/post/smile/)" indicates [a](/en/post/a/) [wide](/en/post/wide/) grin.
-- "[Broad](/en/post/broad/) shoulders" describes [someone](/en/post/someone/) [with](/en/post/with/) [strong](/en/post/strong/), [wide](/en/post/wide/) [upper](/en/post/upper/) [body](/en/post/body/).
-- "[A](/en/post/a/) [broad](/en/post/broad/) [range](/en/post/range/)" signifies [a](/en/post/a/) [large](/en/post/large/) [variety](/en/post/variety/) [or](/en/post/or/) [extent](/en/post/extent/).
+- "[A](/post/a/) [broad](/post/broad/) [smile](/post/smile/)" indicates [a](/post/a/) [wide](/post/wide/) grin.
+- "[Broad](/post/broad/) shoulders" describes [someone](/post/someone/) [with](/post/with/) [strong](/post/strong/), [wide](/post/wide/) [upper](/post/upper/) [body](/post/body/).
+- "[A](/post/a/) [broad](/post/broad/) [range](/post/range/)" signifies [a](/post/a/) [large](/post/large/) [variety](/post/variety/) [or](/post/or/) [extent](/post/extent/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [road](/en/post/road/) was [so](/en/post/so/) [broad](/en/post/broad/) [that](/en/post/that/) [several](/en/post/several/) cars [could](/en/post/could/) [drive](/en/post/drive/) abreast."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) worked [to](/en/post/to/) broaden [the](/en/post/the/) [garden](/en/post/garden/) beds."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) had [a](/en/post/a/) [broad](/en/post/broad/) [perspective](/en/post/perspective/) [on](/en/post/on/) life's challenges."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [road](/post/road/) was [so](/post/so/) [broad](/post/broad/) [that](/post/that/) [several](/post/several/) cars [could](/post/could/) [drive](/post/drive/) abreast."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [gardener](/post/gardener/) worked [to](/post/to/) broaden [the](/post/the/) [garden](/post/garden/) beds."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) had [a](/post/a/) [broad](/post/broad/) [perspective](/post/perspective/) [on](/post/on/) life's challenges."
 
 ## Synonyms
-- [Wide](/en/post/wide/)
-- [Extensive](/en/post/extensive/)
+- [Wide](/post/wide/)
+- [Extensive](/post/extensive/)
 - Broad-minded
 - Broad-based
 - Ample
 
 ## Antonyms
-- [Narrow](/en/post/narrow/)
+- [Narrow](/post/narrow/)
 -狹隘
 - Narrow-minded
 - Restricted
-- [Limited](/en/post/limited/)
+- [Limited](/post/limited/)

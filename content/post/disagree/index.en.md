@@ -7,35 +7,35 @@ description = '[ˌdisəˈgriː] vi.有分歧；不一致'
 keywords = ['ai words', 'disagree']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /disərˈɡriː/
 
 ## Definitions
-### [Verb](/en/post/verb/)
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) disagreement [or](/en/post/or/) [difference](/en/post/difference/) [in](/en/post/in/) [opinion](/en/post/opinion/) [or](/en/post/or/) [viewpoint](/en/post/viewpoint/) [between](/en/post/between/) individuals [or](/en/post/or/) parties. [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) was [a](/en/post/a/) heated disagreement [about](/en/post/about/) [the](/en/post/the/) project's [direction](/en/post/direction/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [hold](/en/post/hold/) [or](/en/post/or/) [express](/en/post/express/) [a](/en/post/a/) [different](/en/post/different/) [opinion](/en/post/opinion/) [from](/en/post/from/) [someone](/en/post/someone/) [else](/en/post/else/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) disagreed [with](/en/post/with/) [his](/en/post/his/) [proposal](/en/post/proposal/)." ([Present](/en/post/present/) [tense](/en/post/tense/): disagrees)
+### [Verb](/post/verb/)
+- **[Noun](/post/noun/)**: [A](/post/a/) disagreement [or](/post/or/) [difference](/post/difference/) [in](/post/in/) [opinion](/post/opinion/) [or](/post/or/) [viewpoint](/post/viewpoint/) [between](/post/between/) individuals [or](/post/or/) parties. [For](/post/for/) [example](/post/example/): "[There](/post/there/) was [a](/post/a/) heated disagreement [about](/post/about/) [the](/post/the/) project's [direction](/post/direction/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [hold](/post/hold/) [or](/post/or/) [express](/post/express/) [a](/post/a/) [different](/post/different/) [opinion](/post/opinion/) [from](/post/from/) [someone](/post/someone/) [else](/post/else/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) disagreed [with](/post/with/) [his](/post/his/) [proposal](/post/proposal/)." ([Present](/post/present/) [tense](/post/tense/): disagrees)
 
 ## Phrases
-- "[Disagree](/en/post/disagree/) [with](/en/post/with/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [not](/en/post/not/) [share](/en/post/share/) [the](/en/post/the/) [same](/en/post/same/) [view](/en/post/view/) [or](/en/post/or/) [belief](/en/post/belief/).
-- "[Mutual](/en/post/mutual/) disagreement" indicates [that](/en/post/that/) [both](/en/post/both/) parties [have](/en/post/have/) [different](/en/post/different/) opinions.
-- "[Reach](/en/post/reach/) an [agreement](/en/post/agreement/) [after](/en/post/after/) disagreeing" [means](/en/post/means/) [to](/en/post/to/) [come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) consensus [after](/en/post/after/) initially differing.
+- "[Disagree](/post/disagree/) [with](/post/with/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [not](/post/not/) [share](/post/share/) [the](/post/the/) [same](/post/same/) [view](/post/view/) [or](/post/or/) [belief](/post/belief/).
+- "[Mutual](/post/mutual/) disagreement" indicates [that](/post/that/) [both](/post/both/) parties [have](/post/have/) [different](/post/different/) opinions.
+- "[Reach](/post/reach/) an [agreement](/post/agreement/) [after](/post/after/) disagreeing" [means](/post/means/) [to](/post/to/) [come](/post/come/) [to](/post/to/) [a](/post/a/) consensus [after](/post/after/) initially differing.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) discussing [the](/en/post/the/) [issue](/en/post/issue/), [they](/en/post/they/) [eventually](/en/post/eventually/) agreed [to](/en/post/to/) [disagree](/en/post/disagree/) [and](/en/post/and/) [find](/en/post/find/) [a](/en/post/a/) [middle](/en/post/middle/) [ground](/en/post/ground/)."
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) disagreement [over](/en/post/over/) [the](/en/post/the/) budget caused tension [at](/en/post/at/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) stubbornness [often](/en/post/often/) leads [to](/en/post/to/) disagreements [in](/en/post/in/) [their](/en/post/their/) [relationship](/en/post/relationship/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) discussing [the](/post/the/) [issue](/post/issue/), [they](/post/they/) [eventually](/post/eventually/) agreed [to](/post/to/) [disagree](/post/disagree/) [and](/post/and/) [find](/post/find/) [a](/post/a/) [middle](/post/middle/) [ground](/post/ground/)."
+- **[Noun](/post/noun/)**: "[Their](/post/their/) disagreement [over](/post/over/) [the](/post/the/) budget caused tension [at](/post/at/) [the](/post/the/) [meeting](/post/meeting/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) stubbornness [often](/post/often/) leads [to](/post/to/) disagreements [in](/post/in/) [their](/post/their/) [relationship](/post/relationship/)."
 
 ## Synonyms
 - Disapprove
 - Contend
-- [Oppose](/en/post/oppose/)
-- [Dispute](/en/post/dispute/)
-- [Contest](/en/post/contest/)
-- [Contrast](/en/post/contrast/)
+- [Oppose](/post/oppose/)
+- [Dispute](/post/dispute/)
+- [Contest](/post/contest/)
+- [Contrast](/post/contrast/)
 
 ## Antonyms
-- [Agree](/en/post/agree/)
+- [Agree](/post/agree/)
 - Concur
-- [Consent](/en/post/consent/)
+- [Consent](/post/consent/)
 - Align
 - Harmonize

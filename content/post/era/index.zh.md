@@ -16,17 +16,17 @@ keywords = ['ai words', 'era']
     - 王朝，纪元：指一个国家或地区由特定家族或领袖统治的时期。
 
 ## 短语
-- "[the](/post/the/) [era](/post/era/) [of](/post/of/) [peace](/post/peace/)" 意为和平时代。
-- "[the](/post/the/) Ming dynasty [era](/post/era/)" 指明朝时期。
+- "[the](/zh/post/the/) [era](/zh/post/era/) [of](/zh/post/of/) [peace](/zh/post/peace/)" 意为和平时代。
+- "[the](/zh/post/the/) Ming dynasty [era](/zh/post/era/)" 指明朝时期。
 
 ## 例句
-- "We're [living](/post/living/) [in](/post/in/) [the](/post/the/) [digital](/post/digital/) [era](/post/era/), [where](/post/where/) [technology](/post/technology/) has transformed [our](/post/our/) lives."
-- "[The](/post/the/) Roman [Empire](/post/empire/) was [a](/post/a/) [significant](/post/significant/) [era](/post/era/) [in](/post/in/) [human](/post/human/) [history](/post/history/)."
-- "[Her](/post/her/) [reign](/post/reign/) marked [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [era](/post/era/) [for](/post/for/) [the](/post/the/) [country](/post/country/)."
+- "We're [living](/zh/post/living/) [in](/zh/post/in/) [the](/zh/post/the/) [digital](/zh/post/digital/) [era](/zh/post/era/), [where](/zh/post/where/) [technology](/zh/post/technology/) has transformed [our](/zh/post/our/) lives."
+- "[The](/zh/post/the/) Roman [Empire](/zh/post/empire/) was [a](/zh/post/a/) [significant](/zh/post/significant/) [era](/zh/post/era/) [in](/zh/post/in/) [human](/zh/post/human/) [history](/zh/post/history/)."
+- "[Her](/zh/post/her/) [reign](/zh/post/reign/) marked [the](/zh/post/the/) [beginning](/zh/post/beginning/) [of](/zh/post/of/) [a](/zh/post/a/) [new](/zh/post/new/) [era](/zh/post/era/) [for](/zh/post/for/) [the](/zh/post/the/) [country](/zh/post/country/)."
 
 ## 同义词
-- [Period](/post/period/)
-- [Age](/post/age/)
+- [Period](/zh/post/period/)
+- [Age](/zh/post/age/)
 - Epoch
-- [Time](/post/time/)
-- [Phase](/post/phase/)
+- [Time](/zh/post/time/)
+- [Phase](/zh/post/phase/)

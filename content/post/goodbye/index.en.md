@@ -7,31 +7,31 @@ description = '[ˌgudˈbai] int.再见，再会'
 keywords = ['ai words', 'goodbye']
 +++
 
-## [Word](/en/post/word/): [Goodbye](/en/post/goodbye/)
+## [Word](/post/word/): [Goodbye](/post/goodbye/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɡʊdˈbaɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [expression](/en/post/expression/) [used](/en/post/used/) [when](/en/post/when/) taking [leave](/en/post/leave/) [of](/en/post/of/) [someone](/en/post/someone/) [or](/en/post/or/) parting [from](/en/post/from/) [a](/en/post/a/) [place](/en/post/place/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) said [her](/en/post/her/) goodbyes [before](/en/post/before/) boarding [the](/en/post/the/) [plane](/en/post/plane/)."
-- **Interjection**: [Used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [farewell](/en/post/farewell/) [or](/en/post/or/) [departure](/en/post/departure/). [For](/en/post/for/) [example](/en/post/example/): "[Goodbye](/en/post/goodbye/), [everyone](/en/post/everyone/)! I'll [see](/en/post/see/) [you](/en/post/you/) [tomorrow](/en/post/tomorrow/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [word](/post/word/) [or](/post/or/) [expression](/post/expression/) [used](/post/used/) [when](/post/when/) taking [leave](/post/leave/) [of](/post/of/) [someone](/post/someone/) [or](/post/or/) parting [from](/post/from/) [a](/post/a/) [place](/post/place/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) said [her](/post/her/) goodbyes [before](/post/before/) boarding [the](/post/the/) [plane](/post/plane/)."
+- **Interjection**: [Used](/post/used/) [to](/post/to/) [express](/post/express/) [farewell](/post/farewell/) [or](/post/or/) [departure](/post/departure/). [For](/post/for/) [example](/post/example/): "[Goodbye](/post/goodbye/), [everyone](/post/everyone/)! I'll [see](/post/see/) [you](/post/you/) [tomorrow](/post/tomorrow/)."
 
 ## Phrases
-- "[Say](/en/post/say/) [goodbye](/en/post/goodbye/)": [To](/en/post/to/) bid [farewell](/en/post/farewell/) [to](/en/post/to/) [someone](/en/post/someone/).
-- "[A](/en/post/a/) [fond](/en/post/fond/) [goodbye](/en/post/goodbye/)": An affectionate [or](/en/post/or/) [emotional](/en/post/emotional/) [farewell](/en/post/farewell/).
-- "[Until](/en/post/until/) [we](/en/post/we/) [meet](/en/post/meet/) [again](/en/post/again/)": [A](/en/post/a/) [phrase](/en/post/phrase/) [often](/en/post/often/) [used](/en/post/used/) [after](/en/post/after/) saying [goodbye](/en/post/goodbye/), indicating [the](/en/post/the/) [expectation](/en/post/expectation/) [of](/en/post/of/) [future](/en/post/future/) reunion.
-- "Don't [let](/en/post/let/) [the](/en/post/the/) [door](/en/post/door/) [hit](/en/post/hit/) [you](/en/post/you/) [on](/en/post/on/) [the](/en/post/the/) [way](/en/post/way/) [out](/en/post/out/)" (informal): [A](/en/post/a/) sarcastic [or](/en/post/or/) [humorous](/en/post/humorous/) [way](/en/post/way/) [of](/en/post/of/) saying [goodbye](/en/post/goodbye/) [to](/en/post/to/) [someone](/en/post/someone/) who's leaving [under](/en/post/under/) [unpleasant](/en/post/unpleasant/) circumstances.
+- "[Say](/post/say/) [goodbye](/post/goodbye/)": [To](/post/to/) bid [farewell](/post/farewell/) [to](/post/to/) [someone](/post/someone/).
+- "[A](/post/a/) [fond](/post/fond/) [goodbye](/post/goodbye/)": An affectionate [or](/post/or/) [emotional](/post/emotional/) [farewell](/post/farewell/).
+- "[Until](/post/until/) [we](/post/we/) [meet](/post/meet/) [again](/post/again/)": [A](/post/a/) [phrase](/post/phrase/) [often](/post/often/) [used](/post/used/) [after](/post/after/) saying [goodbye](/post/goodbye/), indicating [the](/post/the/) [expectation](/post/expectation/) [of](/post/of/) [future](/post/future/) reunion.
+- "Don't [let](/post/let/) [the](/post/the/) [door](/post/door/) [hit](/post/hit/) [you](/post/you/) [on](/post/on/) [the](/post/the/) [way](/post/way/) [out](/post/out/)" (informal): [A](/post/a/) sarcastic [or](/post/or/) [humorous](/post/humorous/) [way](/post/way/) [of](/post/of/) saying [goodbye](/post/goodbye/) [to](/post/to/) [someone](/post/someone/) who's leaving [under](/post/under/) [unpleasant](/post/unpleasant/) circumstances.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[As](/en/post/as/) [the](/en/post/the/) [train](/en/post/train/) pulled [away](/en/post/away/), [he](/en/post/he/) waved [his](/en/post/his/) [handkerchief](/en/post/handkerchief/) [in](/en/post/in/) [a](/en/post/a/) [final](/en/post/final/) [goodbye](/en/post/goodbye/)."
-- **Interjection**: "[Goodbye](/en/post/goodbye/) [for](/en/post/for/) [now](/en/post/now/), [but](/en/post/but/) [remember](/en/post/remember/) we're [always](/en/post/always/) connected [through](/en/post/through/) [our](/en/post/our/) emails."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[As](/post/as/) [the](/post/the/) [train](/post/train/) pulled [away](/post/away/), [he](/post/he/) waved [his](/post/his/) [handkerchief](/post/handkerchief/) [in](/post/in/) [a](/post/a/) [final](/post/final/) [goodbye](/post/goodbye/)."
+- **Interjection**: "[Goodbye](/post/goodbye/) [for](/post/for/) [now](/post/now/), [but](/post/but/) [remember](/post/remember/) we're [always](/post/always/) connected [through](/post/through/) [our](/post/our/) emails."
 
 ## Synonyms
-- [Farewell](/en/post/farewell/)
+- [Farewell](/post/farewell/)
 - Bye
 - Adieu
-- [See](/en/post/see/) [you](/en/post/you/) [later](/en/post/later/)
-- [Take](/en/post/take/) [care](/en/post/care/)
+- [See](/post/see/) [you](/post/you/) [later](/post/later/)
+- [Take](/post/take/) [care](/post/care/)
 - Cheerio (informal, British)
 - Adios (Spanish)
 - Au revoir (French)

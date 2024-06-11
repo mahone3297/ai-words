@@ -11,20 +11,20 @@ keywords = ['ai words', 'assume']
 /əˈsuːm/
 
 ## 释义
-- **动词**: 假定，认为，承担。例如: "I assumed [he](/post/he/) was [busy](/post/busy/), [so](/post/so/) I didn't [disturb](/post/disturb/) [him](/post/him/)."
-- **名词**: 假设，前提。例如: "[The](/post/the/) [theory](/post/theory/) is based [on](/post/on/) [several](/post/several/) [key](/post/key/) assumptions."
+- **动词**: 假定，认为，承担。例如: "I assumed [he](/zh/post/he/) was [busy](/zh/post/busy/), [so](/zh/post/so/) I didn't [disturb](/zh/post/disturb/) [him](/zh/post/him/)."
+- **名词**: 假设，前提。例如: "[The](/zh/post/the/) [theory](/zh/post/theory/) is based [on](/zh/post/on/) [several](/zh/post/several/) [key](/zh/post/key/) assumptions."
 
 ## 短语
-- "[Assume](/post/assume/) [the](/post/the/) [worst](/post/worst/)" 意思是设想最坏的情况。
-- "[Assume](/post/assume/) [responsibility](/post/responsibility/)" 意味着承担责任。
+- "[Assume](/zh/post/assume/) [the](/zh/post/the/) [worst](/zh/post/worst/)" 意思是设想最坏的情况。
+- "[Assume](/zh/post/assume/) [responsibility](/zh/post/responsibility/)" 意味着承担责任。
 
 ## 例句
-- 动词: "[Without](/post/without/) [evidence](/post/evidence/), [they](/post/they/) assumed [she](/post/she/) was [guilty](/post/guilty/)."
-- 名词: "[Their](/post/their/) [argument](/post/argument/) rests [on](/post/on/) [a](/post/a/) [number](/post/number/) [of](/post/of/) untested assumptions."
+- 动词: "[Without](/zh/post/without/) [evidence](/zh/post/evidence/), [they](/zh/post/they/) assumed [she](/zh/post/she/) was [guilty](/zh/post/guilty/)."
+- 名词: "[Their](/zh/post/their/) [argument](/zh/post/argument/) rests [on](/zh/post/on/) [a](/zh/post/a/) [number](/zh/post/number/) [of](/zh/post/of/) untested assumptions."
 
 ## 同义词
 - Presume
-- [Suppose](/post/suppose/)
-- [Believe](/post/believe/)
-- [Take](/post/take/) [for](/post/for/) granted
-- [Guess](/post/guess/)
+- [Suppose](/zh/post/suppose/)
+- [Believe](/zh/post/believe/)
+- [Take](/zh/post/take/) [for](/zh/post/for/) granted
+- [Guess](/zh/post/guess/)

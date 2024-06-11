@@ -11,17 +11,17 @@ keywords = ['ai words', 'gramme']
 /ˈɡræm/
 
 ## 释义
-- **名词**: 克，公制质量单位，常用于表示极小的质量。例如: "[A](/post/a/) [grain](/post/grain/) [of](/post/of/) [sand](/post/sand/) weighs [about](/post/about/) 0.025 grammes."
+- **名词**: 克，公制质量单位，常用于表示极小的质量。例如: "[A](/zh/post/a/) [grain](/zh/post/grain/) [of](/zh/post/of/) [sand](/zh/post/sand/) weighs [about](/zh/post/about/) 0.025 grammes."
 
 ## 短语
-- "[gramme](/post/gramme/) [by](/post/by/) [gramme](/post/gramme/)" 用来描述逐渐增加或减少的过程，比如 "[We](/post/we/) added [the](/post/the/) ingredients [gramme](/post/gramme/) [by](/post/by/) [gramme](/post/gramme/)."
-- "[in](/post/in/) grammes" 表示以克为单位，如 "[The](/post/the/) recipe calls [for](/post/for/) 100 grammes [of](/post/of/) [sugar](/post/sugar/)."
+- "[gramme](/zh/post/gramme/) [by](/zh/post/by/) [gramme](/zh/post/gramme/)" 用来描述逐渐增加或减少的过程，比如 "[We](/zh/post/we/) added [the](/zh/post/the/) ingredients [gramme](/zh/post/gramme/) [by](/zh/post/by/) [gramme](/zh/post/gramme/)."
+- "[in](/zh/post/in/) grammes" 表示以克为单位，如 "[The](/zh/post/the/) recipe calls [for](/zh/post/for/) 100 grammes [of](/zh/post/of/) [sugar](/zh/post/sugar/)."
 
 ## 例句
-- "[The](/post/the/) [baby](/post/baby/) was [so](/post/so/) [tiny](/post/tiny/), [she](/post/she/) weighed [only](/post/only/) [a](/post/a/) [few](/post/few/) grammes [at](/post/at/) [birth](/post/birth/)."
-- "[In](/post/in/) France, [they](/post/they/) [measure](/post/measure/) [flour](/post/flour/) [in](/post/in/) grammes [rather](/post/rather/) [than](/post/than/) cups."
+- "[The](/zh/post/the/) [baby](/zh/post/baby/) was [so](/zh/post/so/) [tiny](/zh/post/tiny/), [she](/zh/post/she/) weighed [only](/zh/post/only/) [a](/zh/post/a/) [few](/zh/post/few/) grammes [at](/zh/post/at/) [birth](/zh/post/birth/)."
+- "[In](/zh/post/in/) France, [they](/zh/post/they/) [measure](/zh/post/measure/) [flour](/zh/post/flour/) [in](/zh/post/in/) grammes [rather](/zh/post/rather/) [than](/zh/post/than/) cups."
 
 ## 同义词
 - gram
-- [kilogram](/post/kilogram/) ([if](/post/if/) referring [to](/post/to/) [a](/post/a/) larger [quantity](/post/quantity/))
-- [weight](/post/weight/) ([in](/post/in/) [a](/post/a/) [general](/post/general/) [sense](/post/sense/))
+- [kilogram](/zh/post/kilogram/) ([if](/zh/post/if/) referring [to](/zh/post/to/) [a](/zh/post/a/) larger [quantity](/zh/post/quantity/))
+- [weight](/zh/post/weight/) ([in](/zh/post/in/) [a](/zh/post/a/) [general](/zh/post/general/) [sense](/zh/post/sense/))

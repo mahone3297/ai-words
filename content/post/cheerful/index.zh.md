@@ -11,21 +11,21 @@ keywords = ['ai words', 'cheerful']
 /ˈtʃɪf(ə)l/
 
 ## 释义
-- **形容词**: 快乐的，愉快的，充满活力的。例如: "[She](/post/she/) has [a](/post/a/) [cheerful](/post/cheerful/) personality."
-- **副词**: 快乐地，乐观地。例如: "[He](/post/he/) sang [cheerful](/post/cheerful/) songs [all](/post/all/) [day](/post/day/) [long](/post/long/)."
+- **形容词**: 快乐的，愉快的，充满活力的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [cheerful](/zh/post/cheerful/) personality."
+- **副词**: 快乐地，乐观地。例如: "[He](/zh/post/he/) sang [cheerful](/zh/post/cheerful/) songs [all](/zh/post/all/) [day](/zh/post/day/) [long](/zh/post/long/)."
 
 ## 短语
-- "[cheerful](/post/cheerful/) disposition" 意为快乐的天性。
-- "[in](/post/in/) [a](/post/a/) [cheerful](/post/cheerful/) [mood](/post/mood/)" 表示心情愉快。
-- "[cheerful](/post/cheerful/) [surroundings](/post/surroundings/)" 指令人愉悦的环境。
+- "[cheerful](/zh/post/cheerful/) disposition" 意为快乐的天性。
+- "[in](/zh/post/in/) [a](/zh/post/a/) [cheerful](/zh/post/cheerful/) [mood](/zh/post/mood/)" 表示心情愉快。
+- "[cheerful](/zh/post/cheerful/) [surroundings](/zh/post/surroundings/)" 指令人愉悦的环境。
 
 ## 例句
-- 形容词: "[The](/post/the/) children's [cheerful](/post/cheerful/) [laughter](/post/laughter/) filled [the](/post/the/) [park](/post/park/)."
-- 副词: "[She](/post/she/) greeted [us](/post/us/) cheerfully [as](/post/as/) [we](/post/we/) entered [her](/post/her/) [home](/post/home/)."
+- 形容词: "[The](/zh/post/the/) children's [cheerful](/zh/post/cheerful/) [laughter](/zh/post/laughter/) filled [the](/zh/post/the/) [park](/zh/post/park/)."
+- 副词: "[She](/zh/post/she/) greeted [us](/zh/post/us/) cheerfully [as](/zh/post/as/) [we](/zh/post/we/) entered [her](/zh/post/her/) [home](/zh/post/home/)."
 
 ## 同义词
-- [Happy](/post/happy/)
-- [Jolly](/post/jolly/)
+- [Happy](/zh/post/happy/)
+- [Jolly](/zh/post/jolly/)
 - Upbeat
-- [Optimistic](/post/optimistic/)
-- [Sunny](/post/sunny/)
+- [Optimistic](/zh/post/optimistic/)
+- [Sunny](/zh/post/sunny/)

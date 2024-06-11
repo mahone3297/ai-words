@@ -14,15 +14,15 @@ keywords = ['ai words', 'housewife']
 - **名词 (n)**: 一个不从事有偿工作，主要负责家务和照顾家庭成员的已婚女性。
 
 ## 短语
-- "[The](/post/the/) [housewife](/post/housewife/) managed [to](/post/to/) [balance](/post/balance/) cooking, cleaning, [and](/post/and/) childcare [with](/post/with/) [ease](/post/ease/)."
-- "Stay-at-home mom" 或 "homemaker" 是与 "[housewife](/post/housewife/)" 类似的表达，指在家照顾家庭的女性。
+- "[The](/zh/post/the/) [housewife](/zh/post/housewife/) managed [to](/zh/post/to/) [balance](/zh/post/balance/) cooking, cleaning, [and](/zh/post/and/) childcare [with](/zh/post/with/) [ease](/zh/post/ease/)."
+- "Stay-at-home mom" 或 "homemaker" 是与 "[housewife](/zh/post/housewife/)" 类似的表达，指在家照顾家庭的女性。
 
 ## 例句
-- "[She](/post/she/) was [a](/post/a/) devoted [housewife](/post/housewife/) [who](/post/who/) took [great](/post/great/) [pride](/post/pride/) [in](/post/in/) [her](/post/her/) family's well-being."
-- "[Being](/post/being/) [a](/post/a/) full-time [housewife](/post/housewife/) [can](/post/can/) [be](/post/be/) [a](/post/a/) challenging [yet](/post/yet/) rewarding [job](/post/job/)."
+- "[She](/zh/post/she/) was [a](/zh/post/a/) devoted [housewife](/zh/post/housewife/) [who](/zh/post/who/) took [great](/zh/post/great/) [pride](/zh/post/pride/) [in](/zh/post/in/) [her](/zh/post/her/) family's well-being."
+- "[Being](/zh/post/being/) [a](/zh/post/a/) full-time [housewife](/zh/post/housewife/) [can](/zh/post/can/) [be](/zh/post/be/) [a](/zh/post/a/) challenging [yet](/zh/post/yet/) rewarding [job](/zh/post/job/)."
 
 ## 同义词
 - Homemaker
 - Stay-at-home mom
-- [Domestic](/post/domestic/) [engineer](/post/engineer/)
-- [Wife](/post/wife/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [not](/post/not/) working [outside](/post/outside/) [the](/post/the/) [home](/post/home/))
+- [Domestic](/zh/post/domestic/) [engineer](/zh/post/engineer/)
+- [Wife](/zh/post/wife/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [not](/zh/post/not/) working [outside](/zh/post/outside/) [the](/zh/post/the/) [home](/zh/post/home/))

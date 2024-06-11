@@ -7,39 +7,39 @@ description = '[ˌjuːniˈvəːsiti] n.大学，综合性大学'
 keywords = ['ai words', 'university']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unɪ'versɪtɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [large](/en/post/large/), autonomous [institution](/en/post/institution/) [of](/en/post/of/) higher [education](/en/post/education/) offering degrees [and](/en/post/and/) carrying [out](/en/post/out/) [research](/en/post/research/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) has [a](/en/post/a/) [college](/en/post/college/) [of](/en/post/of/) arts [and](/en/post/and/) sciences [and](/en/post/and/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) [professional](/en/post/professional/) schools.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [university](/en/post/university/) is renowned [for](/en/post/for/) [its](/en/post/its/) [medical](/en/post/medical/) [school](/en/post/school/) [and](/en/post/and/) [research](/en/post/research/) programs."
-2. An [association](/en/post/association/) [of](/en/post/of/) students, teachers, [and](/en/post/and/) administrators [at](/en/post/at/) [a](/en/post/a/) [university](/en/post/university/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [branch](/en/post/branch/) [or](/en/post/or/) [department](/en/post/department/).
-   - [Example](/en/post/example/): "[He](/en/post/he/) joined [the](/en/post/the/) university's debating [society](/en/post/society/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [large](/post/large/), autonomous [institution](/post/institution/) [of](/post/of/) higher [education](/post/education/) offering degrees [and](/post/and/) carrying [out](/post/out/) [research](/post/research/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) has [a](/post/a/) [college](/post/college/) [of](/post/of/) arts [and](/post/and/) sciences [and](/post/and/) [one](/post/one/) [or](/post/or/) [more](/post/more/) [professional](/post/professional/) schools.
+   - [Example](/post/example/): "[The](/post/the/) [university](/post/university/) is renowned [for](/post/for/) [its](/post/its/) [medical](/post/medical/) [school](/post/school/) [and](/post/and/) [research](/post/research/) programs."
+2. An [association](/post/association/) [of](/post/of/) students, teachers, [and](/post/and/) administrators [at](/post/at/) [a](/post/a/) [university](/post/university/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [particular](/post/particular/) [branch](/post/branch/) [or](/post/or/) [department](/post/department/).
+   - [Example](/post/example/): "[He](/post/he/) joined [the](/post/the/) university's debating [society](/post/society/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) enroll [or](/en/post/or/) [admit](/en/post/admit/) [as](/en/post/as/) [a](/en/post/a/) [student](/en/post/student/) [at](/en/post/at/) [a](/en/post/a/) [university](/en/post/university/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) [will](/en/post/will/) [be](/en/post/be/) university-bound [next](/en/post/next/) [year](/en/post/year/)."
-2. [To](/en/post/to/) [attend](/en/post/attend/) [a](/en/post/a/) [university](/en/post/university/), [often](/en/post/often/) [as](/en/post/as/) [a](/en/post/a/) [regular](/en/post/regular/) [part](/en/post/part/) [of](/en/post/of/) one's [education](/en/post/education/).
-   - [Example](/en/post/example/): "[He](/en/post/he/) universityed [in](/en/post/in/) London [before](/en/post/before/) returning [home](/en/post/home/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) enroll [or](/post/or/) [admit](/post/admit/) [as](/post/as/) [a](/post/a/) [student](/post/student/) [at](/post/at/) [a](/post/a/) [university](/post/university/).
+   - [Example](/post/example/): "[She](/post/she/) [will](/post/will/) [be](/post/be/) university-bound [next](/post/next/) [year](/post/year/)."
+2. [To](/post/to/) [attend](/post/attend/) [a](/post/a/) [university](/post/university/), [often](/post/often/) [as](/post/as/) [a](/post/a/) [regular](/post/regular/) [part](/post/part/) [of](/post/of/) one's [education](/post/education/).
+   - [Example](/post/example/): "[He](/post/he/) universityed [in](/post/in/) London [before](/post/before/) returning [home](/post/home/)."
 
-### [Adjective](/en/post/adjective/)
-Referring [to](/en/post/to/) [a](/en/post/a/) [university](/en/post/university/) [or](/en/post/or/) [its](/en/post/its/) educational [system](/en/post/system/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) university's curriculum is designed [to](/en/post/to/) [be](/en/post/be/) rigorous [and](/en/post/and/) [comprehensive](/en/post/comprehensive/)."
+### [Adjective](/post/adjective/)
+Referring [to](/post/to/) [a](/post/a/) [university](/post/university/) [or](/post/or/) [its](/post/its/) educational [system](/post/system/).
+   - [Example](/post/example/): "[The](/post/the/) university's curriculum is designed [to](/post/to/) [be](/post/be/) rigorous [and](/post/and/) [comprehensive](/post/comprehensive/)."
 
 ## Phrases
-- "[Apply](/en/post/apply/) [to](/en/post/to/) [university](/en/post/university/)" [means](/en/post/means/) [to](/en/post/to/) [submit](/en/post/submit/) an [application](/en/post/application/) [for](/en/post/for/) [admission](/en/post/admission/).
-- "[Graduate](/en/post/graduate/) [from](/en/post/from/) [university](/en/post/university/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) completing [a](/en/post/a/) [degree](/en/post/degree/) [program](/en/post/program/) [and](/en/post/and/) earning [a](/en/post/a/) diploma.
-- "[University](/en/post/university/) [life](/en/post/life/)" refers [to](/en/post/to/) [the](/en/post/the/) [experience](/en/post/experience/) [of](/en/post/of/) studying [at](/en/post/at/) [a](/en/post/a/) [university](/en/post/university/).
+- "[Apply](/post/apply/) [to](/post/to/) [university](/post/university/)" [means](/post/means/) [to](/post/to/) [submit](/post/submit/) an [application](/post/application/) [for](/post/for/) [admission](/post/admission/).
+- "[Graduate](/post/graduate/) [from](/post/from/) [university](/post/university/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) completing [a](/post/a/) [degree](/post/degree/) [program](/post/program/) [and](/post/and/) earning [a](/post/a/) diploma.
+- "[University](/post/university/) [life](/post/life/)" refers [to](/post/to/) [the](/post/the/) [experience](/post/experience/) [of](/post/of/) studying [at](/post/at/) [a](/post/a/) [university](/post/university/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) completed [her](/en/post/her/) [degree](/en/post/degree/) [at](/en/post/at/) Harvard [University](/en/post/university/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [high](/en/post/high/) [school](/en/post/school/), [he](/en/post/he/) decided [to](/en/post/to/) [university](/en/post/university/) [in](/en/post/in/) Europe."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) university's facilities are state-of-the-art."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) completed [her](/post/her/) [degree](/post/degree/) [at](/post/at/) Harvard [University](/post/university/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [high](/post/high/) [school](/post/school/), [he](/post/he/) decided [to](/post/to/) [university](/post/university/) [in](/post/in/) Europe."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) university's facilities are state-of-the-art."
 
 ## Synonyms
-- [College](/en/post/college/)
-- [Institution](/en/post/institution/) [of](/en/post/of/) higher [learning](/en/post/learning/)
-- [Academy](/en/post/academy/)
-- [School](/en/post/school/) [of](/en/post/of/) higher [education](/en/post/education/)
-- Collegiate [institution](/en/post/institution/)
+- [College](/post/college/)
+- [Institution](/post/institution/) [of](/post/of/) higher [learning](/post/learning/)
+- [Academy](/post/academy/)
+- [School](/post/school/) [of](/post/of/) higher [education](/post/education/)
+- Collegiate [institution](/post/institution/)

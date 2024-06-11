@@ -11,24 +11,24 @@ keywords = ['ai words', 'pace']
 /peɪs/
 
 ## 释义
-- **名词**: 步伐，步速；节奏。例如: "[He](/post/he/) [set](/post/set/) [a](/post/a/) [steady](/post/steady/) [pace](/post/pace/) [for](/post/for/) [the](/post/the/) hike."
-- **动词**: 以一定的步伐行走。例如: "[She](/post/she/) paced [back](/post/back/) [and](/post/and/) [forth](/post/forth/) [in](/post/in/) [the](/post/the/) [room](/post/room/), [deep](/post/deep/) [in](/post/in/) [thought](/post/thought/)."
-- **名词**: 量度单位，常用于测量速度或距离。例如: "[The](/post/the/) [car](/post/car/) was traveling [at](/post/at/) [a](/post/a/) [pace](/post/pace/) [of](/post/of/) 60 miles [per](/post/per/) [hour](/post/hour/)."
-- **动词**: 调整（音乐、演讲等）的节奏。例如: "[The](/post/the/) [conductor](/post/conductor/) paced [the](/post/the/) [orchestra](/post/orchestra/) [to](/post/to/) [start](/post/start/) [the](/post/the/) [piece](/post/piece/) [slowly](/post/slowly/)."
+- **名词**: 步伐，步速；节奏。例如: "[He](/zh/post/he/) [set](/zh/post/set/) [a](/zh/post/a/) [steady](/zh/post/steady/) [pace](/zh/post/pace/) [for](/zh/post/for/) [the](/zh/post/the/) hike."
+- **动词**: 以一定的步伐行走。例如: "[She](/zh/post/she/) paced [back](/zh/post/back/) [and](/zh/post/and/) [forth](/zh/post/forth/) [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/), [deep](/zh/post/deep/) [in](/zh/post/in/) [thought](/zh/post/thought/)."
+- **名词**: 量度单位，常用于测量速度或距离。例如: "[The](/zh/post/the/) [car](/zh/post/car/) was traveling [at](/zh/post/at/) [a](/zh/post/a/) [pace](/zh/post/pace/) [of](/zh/post/of/) 60 miles [per](/zh/post/per/) [hour](/zh/post/hour/)."
+- **动词**: 调整（音乐、演讲等）的节奏。例如: "[The](/zh/post/the/) [conductor](/zh/post/conductor/) paced [the](/zh/post/the/) [orchestra](/zh/post/orchestra/) [to](/zh/post/to/) [start](/zh/post/start/) [the](/zh/post/the/) [piece](/zh/post/piece/) [slowly](/zh/post/slowly/)."
 
 ## 短语
-- "[at](/post/at/) [a](/post/a/) [steady](/post/steady/) [pace](/post/pace/)" 指以稳定的速度进行。
-- "[pace](/post/pace/) [oneself](/post/oneself/)" 意为根据个人能力调整步伐或速度。
-- "[set](/post/set/) [the](/post/the/) [pace](/post/pace/)" 指设定标准或引领方向。
+- "[at](/zh/post/at/) [a](/zh/post/a/) [steady](/zh/post/steady/) [pace](/zh/post/pace/)" 指以稳定的速度进行。
+- "[pace](/zh/post/pace/) [oneself](/zh/post/oneself/)" 意为根据个人能力调整步伐或速度。
+- "[set](/zh/post/set/) [the](/zh/post/the/) [pace](/zh/post/pace/)" 指设定标准或引领方向。
 
 ## 例句
-- 名词: "[He](/post/he/) kept [a](/post/a/) [quick](/post/quick/) [pace](/post/pace/) [to](/post/to/) [reach](/post/reach/) [the](/post/the/) [destination](/post/destination/) [on](/post/on/) [time](/post/time/)."
-- 动词: "[She](/post/she/) paced [the](/post/the/) [room](/post/room/), [anxious](/post/anxious/) [about](/post/about/) [the](/post/the/) upcoming [meeting](/post/meeting/)."
-- 名词: "[Their](/post/their/) team's [pace](/post/pace/) [in](/post/in/) [the](/post/the/) [project](/post/project/) was [much](/post/much/) faster [than](/post/than/) [ours](/post/ours/)."
+- 名词: "[He](/zh/post/he/) kept [a](/zh/post/a/) [quick](/zh/post/quick/) [pace](/zh/post/pace/) [to](/zh/post/to/) [reach](/zh/post/reach/) [the](/zh/post/the/) [destination](/zh/post/destination/) [on](/zh/post/on/) [time](/zh/post/time/)."
+- 动词: "[She](/zh/post/she/) paced [the](/zh/post/the/) [room](/zh/post/room/), [anxious](/zh/post/anxious/) [about](/zh/post/about/) [the](/zh/post/the/) upcoming [meeting](/zh/post/meeting/)."
+- 名词: "[Their](/zh/post/their/) team's [pace](/zh/post/pace/) [in](/zh/post/in/) [the](/zh/post/the/) [project](/zh/post/project/) was [much](/zh/post/much/) faster [than](/zh/post/than/) [ours](/zh/post/ours/)."
 
 ## 同义词
-- [step](/post/step/)
-- [rate](/post/rate/)
-- [speed](/post/speed/)
+- [step](/zh/post/step/)
+- [rate](/zh/post/rate/)
+- [speed](/zh/post/speed/)
 - tempo
-- [rhythm](/post/rhythm/)
+- [rhythm](/zh/post/rhythm/)

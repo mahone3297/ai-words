@@ -7,48 +7,48 @@ description = '[stif] a.硬的；僵直的'
 keywords = ['ai words', 'stiff']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stɪf/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [stiff](/en/post/stiff/) [person](/en/post/person/) is [one](/en/post/one/) [who](/en/post/who/) is inflexible, unyielding, [or](/en/post/or/) [rigid](/en/post/rigid/) [in](/en/post/in/) [their](/en/post/their/) movements [or](/en/post/or/) opinions.
-- [A](/en/post/a/) [stiff](/en/post/stiff/) [piece](/en/post/piece/) [of](/en/post/of/) [material](/en/post/material/), [such](/en/post/such/) [as](/en/post/as/) cardboard [or](/en/post/or/) [paper](/en/post/paper/), is [hard](/en/post/hard/) [and](/en/post/and/) unyielding.
-- [In](/en/post/in/) [card](/en/post/card/) games, [a](/en/post/a/) [stiff](/en/post/stiff/) [hand](/en/post/hand/) refers [to](/en/post/to/) [a](/en/post/a/) [poor](/en/post/poor/) [hand](/en/post/hand/) [with](/en/post/with/) [few](/en/post/few/) high-ranking cards.
-- [A](/en/post/a/) [stiff](/en/post/stiff/) [competition](/en/post/competition/) [or](/en/post/or/) [challenge](/en/post/challenge/) is [one](/en/post/one/) [that](/en/post/that/) is [difficult](/en/post/difficult/) [or](/en/post/or/) [closely](/en/post/closely/) contested.
+### [Noun](/post/noun/)
+- [A](/post/a/) [stiff](/post/stiff/) [person](/post/person/) is [one](/post/one/) [who](/post/who/) is inflexible, unyielding, [or](/post/or/) [rigid](/post/rigid/) [in](/post/in/) [their](/post/their/) movements [or](/post/or/) opinions.
+- [A](/post/a/) [stiff](/post/stiff/) [piece](/post/piece/) [of](/post/of/) [material](/post/material/), [such](/post/such/) [as](/post/as/) cardboard [or](/post/or/) [paper](/post/paper/), is [hard](/post/hard/) [and](/post/and/) unyielding.
+- [In](/post/in/) [card](/post/card/) games, [a](/post/a/) [stiff](/post/stiff/) [hand](/post/hand/) refers [to](/post/to/) [a](/post/a/) [poor](/post/poor/) [hand](/post/hand/) [with](/post/with/) [few](/post/few/) high-ranking cards.
+- [A](/post/a/) [stiff](/post/stiff/) [competition](/post/competition/) [or](/post/or/) [challenge](/post/challenge/) is [one](/post/one/) [that](/post/that/) is [difficult](/post/difficult/) [or](/post/or/) [closely](/post/closely/) contested.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [stiffen](/en/post/stiffen/) (sth.) [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) harder [or](/en/post/or/) stiffer, [often](/en/post/often/) [by](/en/post/by/) adding [a](/en/post/a/) solidifying [agent](/en/post/agent/).
-- [To](/en/post/to/) [stiff](/en/post/stiff/) [someone](/en/post/someone/) ([usually](/en/post/usually/) [in](/en/post/in/) [business](/en/post/business/)) is [to](/en/post/to/) [refuse](/en/post/refuse/) [to](/en/post/to/) [pay](/en/post/pay/) [them](/en/post/them/), typically [for](/en/post/for/) [goods](/en/post/goods/) [or](/en/post/or/) services [provided](/en/post/provided/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [stiffen](/post/stiffen/) (sth.) [means](/post/means/) [to](/post/to/) [make](/post/make/) [something](/post/something/) harder [or](/post/or/) stiffer, [often](/post/often/) [by](/post/by/) adding [a](/post/a/) solidifying [agent](/post/agent/).
+- [To](/post/to/) [stiff](/post/stiff/) [someone](/post/someone/) ([usually](/post/usually/) [in](/post/in/) [business](/post/business/)) is [to](/post/to/) [refuse](/post/refuse/) [to](/post/to/) [pay](/post/pay/) [them](/post/them/), typically [for](/post/for/) [goods](/post/goods/) [or](/post/or/) services [provided](/post/provided/).
 
-### [Adjective](/en/post/adjective/)
-- [Stiff](/en/post/stiff/) [can](/en/post/can/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is unresponsive [or](/en/post/or/) unemotional.
-- [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [cold](/en/post/cold/) [or](/en/post/or/) [uncomfortable](/en/post/uncomfortable/), [as](/en/post/as/) [in](/en/post/in/) "[a](/en/post/a/) [stiff](/en/post/stiff/) [breeze](/en/post/breeze/)" [or](/en/post/or/) "[a](/en/post/a/) [stiff](/en/post/stiff/) [neck](/en/post/neck/) [from](/en/post/from/) sleeping poorly."
-- [In](/en/post/in/) terms [of](/en/post/of/) [clothing](/en/post/clothing/), [it](/en/post/it/) refers [to](/en/post/to/) tight-fitting [or](/en/post/or/) [formal](/en/post/formal/) attire.
+### [Adjective](/post/adjective/)
+- [Stiff](/post/stiff/) [can](/post/can/) [describe](/post/describe/) [a](/post/a/) [person](/post/person/) [who](/post/who/) is unresponsive [or](/post/or/) unemotional.
+- [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [cold](/post/cold/) [or](/post/or/) [uncomfortable](/post/uncomfortable/), [as](/post/as/) [in](/post/in/) "[a](/post/a/) [stiff](/post/stiff/) [breeze](/post/breeze/)" [or](/post/or/) "[a](/post/a/) [stiff](/post/stiff/) [neck](/post/neck/) [from](/post/from/) sleeping poorly."
+- [In](/post/in/) terms [of](/post/of/) [clothing](/post/clothing/), [it](/post/it/) refers [to](/post/to/) tight-fitting [or](/post/or/) [formal](/post/formal/) attire.
 
-### [Adverb](/en/post/adverb/)
-- Stiffly describes [movement](/en/post/movement/) [that](/en/post/that/) is [awkward](/en/post/awkward/), uncoordinated, [or](/en/post/or/) lacking flexibility.
+### [Adverb](/post/adverb/)
+- Stiffly describes [movement](/post/movement/) [that](/post/that/) is [awkward](/post/awkward/), uncoordinated, [or](/post/or/) lacking flexibility.
 
 ## Phrases
-- "[To](/en/post/to/) [take](/en/post/take/) [something](/en/post/something/) stiffly" implies doing [so](/en/post/so/) [with](/en/post/with/) rigidity [or](/en/post/or/) formality.
-- "[A](/en/post/a/) [stiff](/en/post/stiff/) [upper](/en/post/upper/) [lip](/en/post/lip/)" is [a](/en/post/a/) British [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [remain](/en/post/remain/) composed [and](/en/post/and/) resilient [in](/en/post/in/) [the](/en/post/the/) [face](/en/post/face/) [of](/en/post/of/) adversity.
-- "[A](/en/post/a/) [stiff](/en/post/stiff/) [drink](/en/post/drink/)" refers [to](/en/post/to/) [a](/en/post/a/) [strong](/en/post/strong/) alcoholic beverage.
+- "[To](/post/to/) [take](/post/take/) [something](/post/something/) stiffly" implies doing [so](/post/so/) [with](/post/with/) rigidity [or](/post/or/) formality.
+- "[A](/post/a/) [stiff](/post/stiff/) [upper](/post/upper/) [lip](/post/lip/)" is [a](/post/a/) British [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [remain](/post/remain/) composed [and](/post/and/) resilient [in](/post/in/) [the](/post/the/) [face](/post/face/) [of](/post/of/) adversity.
+- "[A](/post/a/) [stiff](/post/stiff/) [drink](/post/drink/)" refers [to](/post/to/) [a](/post/a/) [strong](/post/strong/) alcoholic beverage.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [man](/en/post/man/) had [a](/en/post/a/) [stiff](/en/post/stiff/) [back](/en/post/back/) [from](/en/post/from/) years [of](/en/post/of/) [manual](/en/post/manual/) labor."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tried [to](/en/post/to/) straighten [the](/en/post/the/) sofa cushions, [but](/en/post/but/) [they](/en/post/they/) were [already](/en/post/already/) [quite](/en/post/quite/) [stiff](/en/post/stiff/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [ceremony](/en/post/ceremony/) was conducted [with](/en/post/with/) [a](/en/post/a/) [stiff](/en/post/stiff/) formality."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) danced stiffly [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/), [clearly](/en/post/clearly/) [uncomfortable](/en/post/uncomfortable/) [on](/en/post/on/) [the](/en/post/the/) [dance](/en/post/dance/) [floor](/en/post/floor/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [man](/post/man/) had [a](/post/a/) [stiff](/post/stiff/) [back](/post/back/) [from](/post/from/) years [of](/post/of/) [manual](/post/manual/) labor."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tried [to](/post/to/) straighten [the](/post/the/) sofa cushions, [but](/post/but/) [they](/post/they/) were [already](/post/already/) [quite](/post/quite/) [stiff](/post/stiff/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [ceremony](/post/ceremony/) was conducted [with](/post/with/) [a](/post/a/) [stiff](/post/stiff/) formality."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) danced stiffly [at](/post/at/) [the](/post/the/) [party](/post/party/), [clearly](/post/clearly/) [uncomfortable](/post/uncomfortable/) [on](/post/on/) [the](/post/the/) [dance](/post/dance/) [floor](/post/floor/)."
 
 ## Synonyms
-- [Rigid](/en/post/rigid/)
+- [Rigid](/post/rigid/)
 - Unbending
 - Starchy
-- [Formal](/en/post/formal/)
+- [Formal](/post/formal/)
 - Unyielding
-- [Tight](/en/post/tight/)
-- [Cold](/en/post/cold/)
-- [Uncomfortable](/en/post/uncomfortable/)
+- [Tight](/post/tight/)
+- [Cold](/post/cold/)
+- [Uncomfortable](/post/uncomfortable/)
 
 Related Words:
 - Rigidity

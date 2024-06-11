@@ -12,21 +12,21 @@ keywords = ['ai words', 'magic']
 
 ## 释义
 - **名词**:
-    - 超自然的力量或现象，如巫术、咒语。例如: "[She](/post/she/) believed [in](/post/in/) [the](/post/the/) [magic](/post/magic/) [of](/post/of/) spells [and](/post/and/) incantations."
-    - 魔法，神秘的魅力。例如: "[The](/post/the/) magician performed [a](/post/a/) [trick](/post/trick/) [that](/post/that/) seemed [to](/post/to/) defy [the](/post/the/) laws [of](/post/of/) [physics](/post/physics/), filling [the](/post/the/) [audience](/post/audience/) [with](/post/with/) [wonder](/post/wonder/) [and](/post/and/) [magic](/post/magic/)."
-    - 惊奇，魅力。例如: "[The](/post/the/) [city](/post/city/) [at](/post/at/) [night](/post/night/) had [a](/post/a/) [certain](/post/certain/) [magic](/post/magic/) [that](/post/that/) captivated visitors."
+    - 超自然的力量或现象，如巫术、咒语。例如: "[She](/zh/post/she/) believed [in](/zh/post/in/) [the](/zh/post/the/) [magic](/zh/post/magic/) [of](/zh/post/of/) spells [and](/zh/post/and/) incantations."
+    - 魔法，神秘的魅力。例如: "[The](/zh/post/the/) magician performed [a](/zh/post/a/) [trick](/zh/post/trick/) [that](/zh/post/that/) seemed [to](/zh/post/to/) defy [the](/zh/post/the/) laws [of](/zh/post/of/) [physics](/zh/post/physics/), filling [the](/zh/post/the/) [audience](/zh/post/audience/) [with](/zh/post/with/) [wonder](/zh/post/wonder/) [and](/zh/post/and/) [magic](/zh/post/magic/)."
+    - 惊奇，魅力。例如: "[The](/zh/post/the/) [city](/zh/post/city/) [at](/zh/post/at/) [night](/zh/post/night/) had [a](/zh/post/a/) [certain](/zh/post/certain/) [magic](/zh/post/magic/) [that](/zh/post/that/) captivated visitors."
 
 - **形容词**:
-    - 具有魔法般的，神奇的。例如: "[The](/post/the/) [magic](/post/magic/) [touch](/post/touch/) [of](/post/of/) [the](/post/the/) [artist](/post/artist/) brought [the](/post/the/) [painting](/post/painting/) [to](/post/to/) [life](/post/life/)."
-    - 极好的，美妙的。例如: "[It](/post/it/) was [a](/post/a/) [magic](/post/magic/) [moment](/post/moment/) [when](/post/when/) [they](/post/they/) [first](/post/first/) met eyes."
+    - 具有魔法般的，神奇的。例如: "[The](/zh/post/the/) [magic](/zh/post/magic/) [touch](/zh/post/touch/) [of](/zh/post/of/) [the](/zh/post/the/) [artist](/zh/post/artist/) brought [the](/zh/post/the/) [painting](/zh/post/painting/) [to](/zh/post/to/) [life](/zh/post/life/)."
+    - 极好的，美妙的。例如: "[It](/zh/post/it/) was [a](/zh/post/a/) [magic](/zh/post/magic/) [moment](/zh/post/moment/) [when](/zh/post/when/) [they](/zh/post/they/) [first](/zh/post/first/) met eyes."
 
 ## 短语
-- "[Magic](/post/magic/) wand" 指魔法棒，常与童话或魔术表演相关。
-- "[A](/post/a/) [touch](/post/touch/) [of](/post/of/) [magic](/post/magic/)" 指带来惊喜或神奇元素的事物。
+- "[Magic](/zh/post/magic/) wand" 指魔法棒，常与童话或魔术表演相关。
+- "[A](/zh/post/a/) [touch](/zh/post/touch/) [of](/zh/post/of/) [magic](/zh/post/magic/)" 指带来惊喜或神奇元素的事物。
 
 ## 例句
-- 名词: "[The](/post/the/) children were spellbound [by](/post/by/) [the](/post/the/) wizard's [magic](/post/magic/) tricks."
-- 形容词: "[Her](/post/her/) [voice](/post/voice/) had [a](/post/a/) [magic](/post/magic/) [quality](/post/quality/) [that](/post/that/) [could](/post/could/) soothe [even](/post/even/) [the](/post/the/) wildest animals."
+- 名词: "[The](/zh/post/the/) children were spellbound [by](/zh/post/by/) [the](/zh/post/the/) wizard's [magic](/zh/post/magic/) tricks."
+- 形容词: "[Her](/zh/post/her/) [voice](/zh/post/voice/) had [a](/zh/post/a/) [magic](/zh/post/magic/) [quality](/zh/post/quality/) [that](/zh/post/that/) [could](/zh/post/could/) soothe [even](/zh/post/even/) [the](/zh/post/the/) wildest animals."
 
 ## 同义词
 - Spellbinding

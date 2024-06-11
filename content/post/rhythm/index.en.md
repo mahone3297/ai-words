@@ -7,38 +7,38 @@ description = '[ˈrið(ə)m] n.韵律，格律；节奏'
 keywords = ['ai words', 'rhythm']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈðəm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Rhythm](/en/post/rhythm/)**: [A](/en/post/a/) [natural](/en/post/natural/) [pattern](/en/post/pattern/) [or](/en/post/or/) [flow](/en/post/flow/) [of](/en/post/of/) sounds, movements, [or](/en/post/or/) events [that](/en/post/that/) [repeat](/en/post/repeat/) [in](/en/post/in/) [a](/en/post/a/) [regular](/en/post/regular/) [way](/en/post/way/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [musical](/en/post/musical/) [beat](/en/post/beat/) [or](/en/post/or/) timing.
-- **Metrical [rhythm](/en/post/rhythm/)**: [The](/en/post/the/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) stressed [and](/en/post/and/) unstressed syllables [in](/en/post/in/) [poetry](/en/post/poetry/) [or](/en/post/or/) [music](/en/post/music/).
-- **[Internal](/en/post/internal/) [rhythm](/en/post/rhythm/)**: [The](/en/post/the/) [natural](/en/post/natural/) cadence [or](/en/post/or/) [flow](/en/post/flow/) [within](/en/post/within/) [a](/en/post/a/) [sentence](/en/post/sentence/) [or](/en/post/or/) [piece](/en/post/piece/) [of](/en/post/of/) [writing](/en/post/writing/).
+### [Noun](/post/noun/)
+- **[Rhythm](/post/rhythm/)**: [A](/post/a/) [natural](/post/natural/) [pattern](/post/pattern/) [or](/post/or/) [flow](/post/flow/) [of](/post/of/) sounds, movements, [or](/post/or/) events [that](/post/that/) [repeat](/post/repeat/) [in](/post/in/) [a](/post/a/) [regular](/post/regular/) [way](/post/way/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [musical](/post/musical/) [beat](/post/beat/) [or](/post/or/) timing.
+- **Metrical [rhythm](/post/rhythm/)**: [The](/post/the/) [arrangement](/post/arrangement/) [of](/post/of/) stressed [and](/post/and/) unstressed syllables [in](/post/in/) [poetry](/post/poetry/) [or](/post/or/) [music](/post/music/).
+- **[Internal](/post/internal/) [rhythm](/post/rhythm/)**: [The](/post/the/) [natural](/post/natural/) cadence [or](/post/or/) [flow](/post/flow/) [within](/post/within/) [a](/post/a/) [sentence](/post/sentence/) [or](/post/or/) [piece](/post/piece/) [of](/post/of/) [writing](/post/writing/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [have](/en/post/have/) [rhythm](/en/post/rhythm/)**: [To](/en/post/to/) [exhibit](/en/post/exhibit/) [a](/en/post/a/) [natural](/en/post/natural/) [sense](/en/post/sense/) [of](/en/post/of/) timing [or](/en/post/or/) [flow](/en/post/flow/), [especially](/en/post/especially/) [in](/en/post/in/) [movement](/en/post/movement/) [or](/en/post/or/) [speech](/en/post/speech/).
-- **[To](/en/post/to/) [maintain](/en/post/maintain/) [rhythm](/en/post/rhythm/)**: [To](/en/post/to/) [keep](/en/post/keep/) [a](/en/post/a/) [consistent](/en/post/consistent/) [pattern](/en/post/pattern/) [or](/en/post/or/) [pace](/en/post/pace/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [have](/post/have/) [rhythm](/post/rhythm/)**: [To](/post/to/) [exhibit](/post/exhibit/) [a](/post/a/) [natural](/post/natural/) [sense](/post/sense/) [of](/post/of/) timing [or](/post/or/) [flow](/post/flow/), [especially](/post/especially/) [in](/post/in/) [movement](/post/movement/) [or](/post/or/) [speech](/post/speech/).
+- **[To](/post/to/) [maintain](/post/maintain/) [rhythm](/post/rhythm/)**: [To](/post/to/) [keep](/post/keep/) [a](/post/a/) [consistent](/post/consistent/) [pattern](/post/pattern/) [or](/post/or/) [pace](/post/pace/).
 
 ## Phrases
-- "Rhythmic [beat](/en/post/beat/)": [A](/en/post/a/) [regular](/en/post/regular/) [and](/en/post/and/) repeating [pattern](/en/post/pattern/) [of](/en/post/of/) [sound](/en/post/sound/) [or](/en/post/or/) [movement](/en/post/movement/).
-- "Syncopated [rhythm](/en/post/rhythm/)": [A](/en/post/a/) rhythmic [structure](/en/post/structure/) [that](/en/post/that/) emphasizes off-beat sounds.
-- "[Rhythm](/en/post/rhythm/) [section](/en/post/section/)": [In](/en/post/in/) [music](/en/post/music/), [the](/en/post/the/) [group](/en/post/group/) [of](/en/post/of/) instruments [responsible](/en/post/responsible/) [for](/en/post/for/) maintaining [the](/en/post/the/) [beat](/en/post/beat/) ([usually](/en/post/usually/) drums, bass, [and](/en/post/and/) [piano](/en/post/piano/)).
+- "Rhythmic [beat](/post/beat/)": [A](/post/a/) [regular](/post/regular/) [and](/post/and/) repeating [pattern](/post/pattern/) [of](/post/of/) [sound](/post/sound/) [or](/post/or/) [movement](/post/movement/).
+- "Syncopated [rhythm](/post/rhythm/)": [A](/post/a/) rhythmic [structure](/post/structure/) [that](/post/that/) emphasizes off-beat sounds.
+- "[Rhythm](/post/rhythm/) [section](/post/section/)": [In](/post/in/) [music](/post/music/), [the](/post/the/) [group](/post/group/) [of](/post/of/) instruments [responsible](/post/responsible/) [for](/post/for/) maintaining [the](/post/the/) [beat](/post/beat/) ([usually](/post/usually/) drums, bass, [and](/post/and/) [piano](/post/piano/)).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [dance](/en/post/dance/) moves had [a](/en/post/a/) mesmerizing [rhythm](/en/post/rhythm/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) [teach](/en/post/teach/) [his](/en/post/his/) [child](/en/post/child/) [how](/en/post/how/) [to](/en/post/to/) [tap](/en/post/tap/) [their](/en/post/their/) [foot](/en/post/foot/) [to](/en/post/to/) [the](/en/post/the/) [rhythm](/en/post/rhythm/) [of](/en/post/of/) [the](/en/post/the/) [song](/en/post/song/)."
-- **[Internal](/en/post/internal/) [rhythm](/en/post/rhythm/)**: "[The](/en/post/the/) author's prose flowed [smoothly](/en/post/smoothly/) [with](/en/post/with/) [a](/en/post/a/) [natural](/en/post/natural/) [internal](/en/post/internal/) [rhythm](/en/post/rhythm/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [dance](/post/dance/) moves had [a](/post/a/) mesmerizing [rhythm](/post/rhythm/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) tried [to](/post/to/) [teach](/post/teach/) [his](/post/his/) [child](/post/child/) [how](/post/how/) [to](/post/to/) [tap](/post/tap/) [their](/post/their/) [foot](/post/foot/) [to](/post/to/) [the](/post/the/) [rhythm](/post/rhythm/) [of](/post/of/) [the](/post/the/) [song](/post/song/)."
+- **[Internal](/post/internal/) [rhythm](/post/rhythm/)**: "[The](/post/the/) author's prose flowed [smoothly](/post/smoothly/) [with](/post/with/) [a](/post/a/) [natural](/post/natural/) [internal](/post/internal/) [rhythm](/post/rhythm/)."
 
 ## Synonyms
-- [Beat](/en/post/beat/)
+- [Beat](/post/beat/)
 - Cadence
-- [Flow](/en/post/flow/)
+- [Flow](/post/flow/)
 - Tempo
 - Ticker
-- [Pulse](/en/post/pulse/)
+- [Pulse](/post/pulse/)
 
 ## Antonyms
 - Dissonance
-- [Lack](/en/post/lack/) [of](/en/post/of/) [rhythm](/en/post/rhythm/)
-- Staccato (lacking [a](/en/post/a/) [continuous](/en/post/continuous/) [flow](/en/post/flow/))
+- [Lack](/post/lack/) [of](/post/of/) [rhythm](/post/rhythm/)
+- Staccato (lacking [a](/post/a/) [continuous](/post/continuous/) [flow](/post/flow/))

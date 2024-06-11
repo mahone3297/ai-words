@@ -7,31 +7,31 @@ description = '[ˈhʌmbl] a.谦逊的；地位低下的'
 keywords = ['ai words', 'humble']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhʌmbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [or](/en/post/or/) showing [a](/en/post/a/) [modest](/en/post/modest/) [or](/en/post/or/) [low](/en/post/low/) [estimate](/en/post/estimate/) [of](/en/post/of/) one's [importance](/en/post/importance/), [rank](/en/post/rank/), [or](/en/post/or/) abilities; [not](/en/post/not/) [proud](/en/post/proud/) [or](/en/post/or/) arrogant. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) remained [humble](/en/post/humble/) [despite](/en/post/despite/) [her](/en/post/her/) [many](/en/post/many/) achievements."
-  - *Derived [Noun](/en/post/noun/) [Usage](/en/post/usage/)*: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [humble](/en/post/humble/). [Example](/en/post/example/): "[He](/en/post/he/) is [a](/en/post/a/) [truly](/en/post/truly/) [humble](/en/post/humble/) [man](/en/post/man/), [never](/en/post/never/) seeking [the](/en/post/the/) limelight."
+- **[Adjective](/post/adjective/)**: Having [or](/post/or/) showing [a](/post/a/) [modest](/post/modest/) [or](/post/or/) [low](/post/low/) [estimate](/post/estimate/) [of](/post/of/) one's [importance](/post/importance/), [rank](/post/rank/), [or](/post/or/) abilities; [not](/post/not/) [proud](/post/proud/) [or](/post/or/) arrogant. [For](/post/for/) [example](/post/example/): "[She](/post/she/) remained [humble](/post/humble/) [despite](/post/despite/) [her](/post/her/) [many](/post/many/) achievements."
+  - *Derived [Noun](/post/noun/) [Usage](/post/usage/)*: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [humble](/post/humble/). [Example](/post/example/): "[He](/post/he/) is [a](/post/a/) [truly](/post/truly/) [humble](/post/humble/) [man](/post/man/), [never](/post/never/) seeking [the](/post/the/) limelight."
   
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [lower](/en/post/lower/) [in](/en/post/in/) [condition](/en/post/condition/), [importance](/en/post/importance/), [or](/en/post/or/) [status](/en/post/status/); abase. [Example](/en/post/example/): "[The](/en/post/the/) [experience](/en/post/experience/) humbled [him](/en/post/him/) [greatly](/en/post/greatly/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [lower](/post/lower/) [in](/post/in/) [condition](/post/condition/), [importance](/post/importance/), [or](/post/or/) [status](/post/status/); abase. [Example](/post/example/): "[The](/post/the/) [experience](/post/experience/) humbled [him](/post/him/) [greatly](/post/greatly/)."
 
 ## Phrases
-- "[Stay](/en/post/stay/) [humble](/en/post/humble/)": An [expression](/en/post/expression/) encouraging [someone](/en/post/someone/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [modest](/en/post/modest/) [attitude](/en/post/attitude/) [despite](/en/post/despite/) [success](/en/post/success/) [or](/en/post/or/) [achievement](/en/post/achievement/).
-- "[Eat](/en/post/eat/) [humble](/en/post/humble/) [pie](/en/post/pie/)": [To](/en/post/to/) [admit](/en/post/admit/) one's mistakes [or](/en/post/or/) [accept](/en/post/accept/) humiliation [after](/en/post/after/) [being](/en/post/being/) proven [wrong](/en/post/wrong/) [or](/en/post/or/) overconfident.
-- "[Humble](/en/post/humble/) [oneself](/en/post/oneself/)": [To](/en/post/to/) acknowledge one's faults [or](/en/post/or/) limitations, [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) seeking forgiveness [or](/en/post/or/) making amends.
+- "[Stay](/post/stay/) [humble](/post/humble/)": An [expression](/post/expression/) encouraging [someone](/post/someone/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [modest](/post/modest/) [attitude](/post/attitude/) [despite](/post/despite/) [success](/post/success/) [or](/post/or/) [achievement](/post/achievement/).
+- "[Eat](/post/eat/) [humble](/post/humble/) [pie](/post/pie/)": [To](/post/to/) [admit](/post/admit/) one's mistakes [or](/post/or/) [accept](/post/accept/) humiliation [after](/post/after/) [being](/post/being/) proven [wrong](/post/wrong/) [or](/post/or/) overconfident.
+- "[Humble](/post/humble/) [oneself](/post/oneself/)": [To](/post/to/) acknowledge one's faults [or](/post/or/) limitations, [often](/post/often/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) seeking forgiveness [or](/post/or/) making amends.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Despite](/en/post/despite/) [his](/en/post/his/) [wealth](/en/post/wealth/) [and](/en/post/and/) [fame](/en/post/fame/), [he](/en/post/he/) remained incredibly [humble](/en/post/humble/) [and](/en/post/and/) down-to-earth."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [defeat](/en/post/defeat/), [the](/en/post/the/) once-arrogant [champion](/en/post/champion/) was humbled [by](/en/post/by/) [the](/en/post/the/) underdog's [victory](/en/post/victory/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Despite](/post/despite/) [his](/post/his/) [wealth](/post/wealth/) [and](/post/and/) [fame](/post/fame/), [he](/post/he/) remained incredibly [humble](/post/humble/) [and](/post/and/) down-to-earth."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [defeat](/post/defeat/), [the](/post/the/) once-arrogant [champion](/post/champion/) was humbled [by](/post/by/) [the](/post/the/) underdog's [victory](/post/victory/)."
 
 ## Synonyms
-- [Modest](/en/post/modest/)
+- [Modest](/post/modest/)
 - Unassuming
 - Meek
 - Lowly
 - Unpretentious
-- Humiliating ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
+- Humiliating ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))
 - Down-to-earth
 - Self-effacing
 - Unostentatious

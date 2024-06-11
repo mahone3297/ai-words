@@ -7,41 +7,41 @@ description = '[pəustˈpəun] vt.延迟，推迟，延缓'
 keywords = ['ai words', 'postpone']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈstəʊn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [delay](/en/post/delay/) [or](/en/post/or/) [put](/en/post/put/) [off](/en/post/off/) [until](/en/post/until/) [a](/en/post/a/) [later](/en/post/later/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [meeting](/en/post/meeting/) was postponed [until](/en/post/until/) [next](/en/post/next/) [week](/en/post/week/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) delaying [or](/en/post/or/) putting [something](/en/post/something/) [off](/en/post/off/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [decision](/en/post/decision/) [to](/en/post/to/) [postpone](/en/post/postpone/) [the](/en/post/the/) [project](/en/post/project/) was [a](/en/post/a/) [tough](/en/post/tough/) [one](/en/post/one/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [delay](/post/delay/) [or](/post/or/) [put](/post/put/) [off](/post/off/) [until](/post/until/) [a](/post/a/) [later](/post/later/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [meeting](/post/meeting/) was postponed [until](/post/until/) [next](/post/next/) [week](/post/week/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) delaying [or](/post/or/) putting [something](/post/something/) [off](/post/off/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [decision](/post/decision/) [to](/post/to/) [postpone](/post/postpone/) [the](/post/the/) [project](/post/project/) was [a](/post/a/) [tough](/post/tough/) [one](/post/one/)."
 
 ## Phrases
-- "[Postpone](/en/post/postpone/) an [event](/en/post/event/)" [means](/en/post/means/) [to](/en/post/to/) reschedule an [activity](/en/post/activity/) [for](/en/post/for/) [a](/en/post/a/) [later](/en/post/later/) [date](/en/post/date/).
-- "Postponement" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) delaying [something](/en/post/something/).
-- "[Postpone](/en/post/postpone/) indefinitely" [means](/en/post/means/) [to](/en/post/to/) [not](/en/post/not/) [set](/en/post/set/) [a](/en/post/a/) [new](/en/post/new/) [date](/en/post/date/) [for](/en/post/for/) [the](/en/post/the/) [action](/en/post/action/).
+- "[Postpone](/post/postpone/) an [event](/post/event/)" [means](/post/means/) [to](/post/to/) reschedule an [activity](/post/activity/) [for](/post/for/) [a](/post/a/) [later](/post/later/) [date](/post/date/).
+- "Postponement" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) delaying [something](/post/something/).
+- "[Postpone](/post/postpone/) indefinitely" [means](/post/means/) [to](/post/to/) [not](/post/not/) [set](/post/set/) [a](/post/a/) [new](/post/new/) [date](/post/date/) [for](/post/for/) [the](/post/the/) [action](/post/action/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[Due](/en/post/due/) [to](/en/post/to/) unforeseen circumstances, [the](/en/post/the/) [concert](/en/post/concert/) has been postponed [until](/en/post/until/) [next](/en/post/next/) [month](/en/post/month/)."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [wedding](/en/post/wedding/) was postponed [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) COVID-19 pandemic."
-- **Phrasal [Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [postpone](/en/post/postpone/) [her](/en/post/her/) [vacation](/en/post/vacation/) [until](/en/post/until/) [after](/en/post/after/) [the](/en/post/the/) exams."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[Due](/post/due/) [to](/post/to/) unforeseen circumstances, [the](/post/the/) [concert](/post/concert/) has been postponed [until](/post/until/) [next](/post/next/) [month](/post/month/)."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [wedding](/post/wedding/) was postponed [due](/post/due/) [to](/post/to/) [the](/post/the/) COVID-19 pandemic."
+- **Phrasal [Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [postpone](/post/postpone/) [her](/post/her/) [vacation](/post/vacation/) [until](/post/until/) [after](/post/after/) [the](/post/the/) exams."
 
 ## Synonyms
-- [Suspend](/en/post/suspend/)
+- [Suspend](/post/suspend/)
 - Reschedule
-- [Delay](/en/post/delay/)
+- [Delay](/post/delay/)
 - Postponement
-- [Put](/en/post/put/) [off](/en/post/off/)
+- [Put](/post/put/) [off](/post/off/)
 - Rearrange
 
 ## Antonyms
-- [Advance](/en/post/advance/)
-- [Accelerate](/en/post/accelerate/)
+- [Advance](/post/advance/)
+- [Accelerate](/post/accelerate/)
 - Initiate
-- [Schedule](/en/post/schedule/)
-- [Proceed](/en/post/proceed/)
+- [Schedule](/post/schedule/)
+- [Proceed](/post/proceed/)
 
-## [Usage](/en/post/usage/)
-- **[Formal](/en/post/formal/)**: It's [common](/en/post/common/) [to](/en/post/to/) [use](/en/post/use/) "[postpone](/en/post/postpone/)" [in](/en/post/in/) [formal](/en/post/formal/) contexts, [such](/en/post/such/) [as](/en/post/as/) [business](/en/post/business/) meetings [or](/en/post/or/) [official](/en/post/official/) announcements.
-- **Informal**: [In](/en/post/in/) informal conversations, [people](/en/post/people/) [might](/en/post/might/) [use](/en/post/use/) "[delay](/en/post/delay/)" [or](/en/post/or/) "[put](/en/post/put/) [off](/en/post/off/)" interchangeably.
+## [Usage](/post/usage/)
+- **[Formal](/post/formal/)**: It's [common](/post/common/) [to](/post/to/) [use](/post/use/) "[postpone](/post/postpone/)" [in](/post/in/) [formal](/post/formal/) contexts, [such](/post/such/) [as](/post/as/) [business](/post/business/) meetings [or](/post/or/) [official](/post/official/) announcements.
+- **Informal**: [In](/post/in/) informal conversations, [people](/post/people/) [might](/post/might/) [use](/post/use/) "[delay](/post/delay/)" [or](/post/or/) "[put](/post/put/) [off](/post/off/)" interchangeably.
 
 ## Notes
-- "[Postpone](/en/post/postpone/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [with](/en/post/with/) [specific](/en/post/specific/) deadlines [or](/en/post/or/) appointments, [while](/en/post/while/) "[delay](/en/post/delay/)" is [often](/en/post/often/) [used](/en/post/used/) [more](/en/post/more/) [generally](/en/post/generally/) [for](/en/post/for/) [any](/en/post/any/) [interruption](/en/post/interruption/) [or](/en/post/or/) slowdown [in](/en/post/in/) [progress](/en/post/progress/).
+- "[Postpone](/post/postpone/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [with](/post/with/) [specific](/post/specific/) deadlines [or](/post/or/) appointments, [while](/post/while/) "[delay](/post/delay/)" is [often](/post/often/) [used](/post/used/) [more](/post/more/) [generally](/post/generally/) [for](/post/for/) [any](/post/any/) [interruption](/post/interruption/) [or](/post/or/) slowdown [in](/post/in/) [progress](/post/progress/).

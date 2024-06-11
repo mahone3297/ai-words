@@ -11,22 +11,22 @@ keywords = ['ai words', 'total']
 /ˈtəʊtəl/
 
 ## 释义
-- **形容词**: 总计的，全部的，完全的。例如: "[The](/post/the/) [total](/post/total/) [cost](/post/cost/) [of](/post/of/) [the](/post/the/) items was $100."
-- **名词**: 总数，总额。例如: "[The](/post/the/) [total](/post/total/) [number](/post/number/) [of](/post/of/) students is 500."
-- **动词**: 计算总数，总计。例如: "Let's [total](/post/total/) [up](/post/up/) [the](/post/the/) expenses."
+- **形容词**: 总计的，全部的，完全的。例如: "[The](/zh/post/the/) [total](/zh/post/total/) [cost](/zh/post/cost/) [of](/zh/post/of/) [the](/zh/post/the/) items was $100."
+- **名词**: 总数，总额。例如: "[The](/zh/post/the/) [total](/zh/post/total/) [number](/zh/post/number/) [of](/zh/post/of/) students is 500."
+- **动词**: 计算总数，总计。例如: "Let's [total](/zh/post/total/) [up](/zh/post/up/) [the](/zh/post/the/) expenses."
 
 ## 短语
-- "[In](/post/in/) [total](/post/total/)" 意为总计，合计。例如: "[There](/post/there/) were 20 [people](/post/people/) [in](/post/in/) attendance [in](/post/in/) [total](/post/total/)."
-- "[Total](/post/total/) [amount](/post/amount/)" 指的是总金额或总数量。例如: "What's [the](/post/the/) [total](/post/total/) [amount](/post/amount/) [we](/post/we/) [need](/post/need/) [to](/post/to/) [pay](/post/pay/)?"
+- "[In](/zh/post/in/) [total](/zh/post/total/)" 意为总计，合计。例如: "[There](/zh/post/there/) were 20 [people](/zh/post/people/) [in](/zh/post/in/) attendance [in](/zh/post/in/) [total](/zh/post/total/)."
+- "[Total](/zh/post/total/) [amount](/zh/post/amount/)" 指的是总金额或总数量。例如: "What's [the](/zh/post/the/) [total](/zh/post/total/) [amount](/zh/post/amount/) [we](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [pay](/zh/post/pay/)?"
 
 ## 例句
-- 形容词: "[The](/post/the/) [total](/post/total/) [amount](/post/amount/) [of](/post/of/) [time](/post/time/) spent [on](/post/on/) [the](/post/the/) [project](/post/project/) was 120 hours."
-- 名词: "[The](/post/the/) [total](/post/total/) included [both](/post/both/) [the](/post/the/) [price](/post/price/) [of](/post/of/) [the](/post/the/) [product](/post/product/) [and](/post/and/) [the](/post/the/) shipping [fee](/post/fee/)."
-- 动词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [total](/post/total/) [the](/post/the/) scores [to](/post/to/) [determine](/post/determine/) [the](/post/the/) [winner](/post/winner/)."
+- 形容词: "[The](/zh/post/the/) [total](/zh/post/total/) [amount](/zh/post/amount/) [of](/zh/post/of/) [time](/zh/post/time/) spent [on](/zh/post/on/) [the](/zh/post/the/) [project](/zh/post/project/) was 120 hours."
+- 名词: "[The](/zh/post/the/) [total](/zh/post/total/) included [both](/zh/post/both/) [the](/zh/post/the/) [price](/zh/post/price/) [of](/zh/post/of/) [the](/zh/post/the/) [product](/zh/post/product/) [and](/zh/post/and/) [the](/zh/post/the/) shipping [fee](/zh/post/fee/)."
+- 动词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [total](/zh/post/total/) [the](/zh/post/the/) scores [to](/zh/post/to/) [determine](/zh/post/determine/) [the](/zh/post/the/) [winner](/zh/post/winner/)."
 
 ## 同义词
-- [Complete](/post/complete/)
-- [Entire](/post/entire/)
-- [Full](/post/full/)
-- [Gross](/post/gross/)
-- [Overall](/post/overall/)
+- [Complete](/zh/post/complete/)
+- [Entire](/zh/post/entire/)
+- [Full](/zh/post/full/)
+- [Gross](/zh/post/gross/)
+- [Overall](/zh/post/overall/)

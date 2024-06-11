@@ -7,32 +7,32 @@ description = '[iˈtæljən] a.意大利的 n.意大利人'
 keywords = ['ai words', 'Italian']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈtæljən/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) Italy, [its](/en/post/its/) [people](/en/post/people/), [or](/en/post/or/) [its](/en/post/its/) [culture](/en/post/culture/). [For](/en/post/for/) [example](/en/post/example/): "Italian cuisine is renowned worldwide."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [from](/en/post/from/) Italy [or](/en/post/or/) [a](/en/post/a/) [citizen](/en/post/citizen/) [of](/en/post/of/) Italy. [For](/en/post/for/) [example](/en/post/example/): "She's an Italian [living](/en/post/living/) [in](/en/post/in/) [New](/en/post/new/) York."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) Italy, [its](/post/its/) [people](/post/people/), [or](/post/or/) [its](/post/its/) [culture](/post/culture/). [For](/post/for/) [example](/post/example/): "Italian cuisine is renowned worldwide."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [from](/post/from/) Italy [or](/post/or/) [a](/post/a/) [citizen](/post/citizen/) [of](/post/of/) Italy. [For](/post/for/) [example](/post/example/): "She's an Italian [living](/post/living/) [in](/post/in/) [New](/post/new/) York."
 
-### [Adjective](/en/post/adjective/) (definitions [and](/en/post/and/) examples)
-- Describing [something](/en/post/something/) [that](/en/post/that/) originates [from](/en/post/from/) [or](/en/post/or/) is [characteristic](/en/post/characteristic/) [of](/en/post/of/) Italy. [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) Italian [language](/en/post/language/) is [a](/en/post/a/) Romance [language](/en/post/language/)."
-  - [Example](/en/post/example/) [sentence](/en/post/sentence/): "I'm [learning](/en/post/learning/) Italian [so](/en/post/so/) I [can](/en/post/can/) [better](/en/post/better/) [appreciate](/en/post/appreciate/) Italian [literature](/en/post/literature/)."
+### [Adjective](/post/adjective/) (definitions [and](/post/and/) examples)
+- Describing [something](/post/something/) [that](/post/that/) originates [from](/post/from/) [or](/post/or/) is [characteristic](/post/characteristic/) [of](/post/of/) Italy. [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) Italian [language](/post/language/) is [a](/post/a/) Romance [language](/post/language/)."
+  - [Example](/post/example/) [sentence](/post/sentence/): "I'm [learning](/post/learning/) Italian [so](/post/so/) I [can](/post/can/) [better](/post/better/) [appreciate](/post/appreciate/) Italian [literature](/post/literature/)."
 
-- Referring [to](/en/post/to/) [food](/en/post/food/) [or](/en/post/or/) dishes associated [with](/en/post/with/) Italy. [Example](/en/post/example/): "Spaghetti Bolognese is [a](/en/post/a/) [popular](/en/post/popular/) Italian [dish](/en/post/dish/)."
+- Referring [to](/post/to/) [food](/post/food/) [or](/post/or/) dishes associated [with](/post/with/) Italy. [Example](/post/example/): "Spaghetti Bolognese is [a](/post/a/) [popular](/post/popular/) Italian [dish](/post/dish/)."
 
-### [Noun](/en/post/noun/) ([definition](/en/post/definition/) [and](/en/post/and/) [example](/en/post/example/))
-- Referring [to](/en/post/to/) [the](/en/post/the/) [people](/en/post/people/) [or](/en/post/or/) inhabitants [of](/en/post/of/) Italy [as](/en/post/as/) an ethnic [group](/en/post/group/). [Example](/en/post/example/): "Italian Americans [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [presence](/en/post/presence/) [in](/en/post/in/) [many](/en/post/many/) [US](/en/post/us/) cities."
+### [Noun](/post/noun/) ([definition](/post/definition/) [and](/post/and/) [example](/post/example/))
+- Referring [to](/post/to/) [the](/post/the/) [people](/post/people/) [or](/post/or/) inhabitants [of](/post/of/) Italy [as](/post/as/) an ethnic [group](/post/group/). [Example](/post/example/): "Italian Americans [have](/post/have/) [a](/post/a/) [strong](/post/strong/) [presence](/post/presence/) [in](/post/in/) [many](/post/many/) [US](/post/us/) cities."
 
 ## Phrases
-- "Made [in](/en/post/in/) Italy": [This](/en/post/this/) [phrase](/en/post/phrase/) indicates [that](/en/post/that/) [a](/en/post/a/) [product](/en/post/product/) has been manufactured [in](/en/post/in/) Italy [and](/en/post/and/) [often](/en/post/often/) implies [high](/en/post/high/) [quality](/en/post/quality/) [and](/en/post/and/) craftsmanship.
-- "Ciao, bella/o!" is an informal Italian [greeting](/en/post/greeting/) [meaning](/en/post/meaning/) "[Hi](/en/post/hi/), [beautiful](/en/post/beautiful/)/[handsome](/en/post/handsome/)!"
+- "Made [in](/post/in/) Italy": [This](/post/this/) [phrase](/post/phrase/) indicates [that](/post/that/) [a](/post/a/) [product](/post/product/) has been manufactured [in](/post/in/) Italy [and](/post/and/) [often](/post/often/) implies [high](/post/high/) [quality](/post/quality/) [and](/post/and/) craftsmanship.
+- "Ciao, bella/o!" is an informal Italian [greeting](/post/greeting/) [meaning](/post/meaning/) "[Hi](/post/hi/), [beautiful](/post/beautiful/)/[handsome](/post/handsome/)!"
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[They](/en/post/they/) [serve](/en/post/serve/) authentic Italian pizza [in](/en/post/in/) [that](/en/post/that/) [restaurant](/en/post/restaurant/)."
-- **[Noun](/en/post/noun/)**: "[Many](/en/post/many/) Italians migrated [to](/en/post/to/) [other](/en/post/other/) countries [during](/en/post/during/) [the](/en/post/the/) [late](/en/post/late/) 19th [century](/en/post/century/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[They](/post/they/) [serve](/post/serve/) authentic Italian pizza [in](/post/in/) [that](/post/that/) [restaurant](/post/restaurant/)."
+- **[Noun](/post/noun/)**: "[Many](/post/many/) Italians migrated [to](/post/to/) [other](/post/other/) countries [during](/post/during/) [the](/post/the/) [late](/post/late/) 19th [century](/post/century/)."
 
 ## Synonyms
-- ([for](/en/post/for/) [the](/en/post/the/) [adjective](/en/post/adjective/) [sense](/en/post/sense/)) Roman, Tuscan, Neapolitan, depending [on](/en/post/on/) [the](/en/post/the/) context referring [to](/en/post/to/) regional cultures [within](/en/post/within/) Italy.
-- ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [sense](/en/post/sense/), [as](/en/post/as/) [a](/en/post/a/) [nationality](/en/post/nationality/)) Italian [national](/en/post/national/), Italian [citizen](/en/post/citizen/). 
+- ([for](/post/for/) [the](/post/the/) [adjective](/post/adjective/) [sense](/post/sense/)) Roman, Tuscan, Neapolitan, depending [on](/post/on/) [the](/post/the/) context referring [to](/post/to/) regional cultures [within](/post/within/) Italy.
+- ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [sense](/post/sense/), [as](/post/as/) [a](/post/a/) [nationality](/post/nationality/)) Italian [national](/post/national/), Italian [citizen](/post/citizen/). 
 
-[Note](/en/post/note/): [When](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) [language](/en/post/language/), "Italian" does [not](/en/post/not/) [have](/en/post/have/) [direct](/en/post/direct/) synonyms [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) described [as](/en/post/as/) "[the](/en/post/the/) Italian [tongue](/en/post/tongue/)" [or](/en/post/or/) "[the](/en/post/the/) Italian [language](/en/post/language/)."
+[Note](/post/note/): [When](/post/when/) referring [to](/post/to/) [the](/post/the/) [language](/post/language/), "Italian" does [not](/post/not/) [have](/post/have/) [direct](/post/direct/) synonyms [but](/post/but/) [can](/post/can/) [be](/post/be/) described [as](/post/as/) "[the](/post/the/) Italian [tongue](/post/tongue/)" [or](/post/or/) "[the](/post/the/) Italian [language](/post/language/)."

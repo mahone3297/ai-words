@@ -11,20 +11,20 @@ keywords = ['ai words', 'genuine']
 /ˈdʒenjuɪn/
 
 ## 释义
-- **形容词**: 真正的；真实的；非伪造的。例如: "[This](/post/this/) is [a](/post/a/) [genuine](/post/genuine/) [leather](/post/leather/) [bag](/post/bag/)."（这是一款真正的皮革包。）
-- **名词**: 真诚；真实感。例如: "[She](/post/she/) showed [her](/post/her/) [genuine](/post/genuine/) [concern](/post/concern/) [for](/post/for/) [his](/post/his/) well-being."（她表现出对他健康的真诚关心。）
+- **形容词**: 真正的；真实的；非伪造的。例如: "[This](/zh/post/this/) is [a](/zh/post/a/) [genuine](/zh/post/genuine/) [leather](/zh/post/leather/) [bag](/zh/post/bag/)."（这是一款真正的皮革包。）
+- **名词**: 真诚；真实感。例如: "[She](/zh/post/she/) showed [her](/zh/post/her/) [genuine](/zh/post/genuine/) [concern](/zh/post/concern/) [for](/zh/post/for/) [his](/zh/post/his/) well-being."（她表现出对他健康的真诚关心。）
 
 ## 短语
-- "[genuine](/post/genuine/) [article](/post/article/)" 指真正的东西，正宗货。
-- "[genuine](/post/genuine/) intentions" 表示真诚的意图。
+- "[genuine](/zh/post/genuine/) [article](/zh/post/article/)" 指真正的东西，正宗货。
+- "[genuine](/zh/post/genuine/) intentions" 表示真诚的意图。
 
 ## 例句
-- 形容词: "[The](/post/the/) antique was [genuine](/post/genuine/), [worth](/post/worth/) [a](/post/a/) [fortune](/post/fortune/)."（这个古董是真的，价值连城。）
-- 名词: "[His](/post/his/) [smile](/post/smile/) conveyed [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [genuine](/post/genuine/) [happiness](/post/happiness/)."（他的笑容流露出真诚的幸福感。）
+- 形容词: "[The](/zh/post/the/) antique was [genuine](/zh/post/genuine/), [worth](/zh/post/worth/) [a](/zh/post/a/) [fortune](/zh/post/fortune/)."（这个古董是真的，价值连城。）
+- 名词: "[His](/zh/post/his/) [smile](/zh/post/smile/) conveyed [a](/zh/post/a/) [sense](/zh/post/sense/) [of](/zh/post/of/) [genuine](/zh/post/genuine/) [happiness](/zh/post/happiness/)."（他的笑容流露出真诚的幸福感。）
 
 ## 同义词
 - authentic
-- [real](/post/real/)
-- [sincere](/post/sincere/)
-- [true](/post/true/)
+- [real](/zh/post/real/)
+- [sincere](/zh/post/sincere/)
+- [true](/zh/post/true/)
 - unfeigned

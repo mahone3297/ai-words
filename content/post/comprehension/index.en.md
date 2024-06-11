@@ -7,27 +7,27 @@ description = '[ˌkɔmpriˈhen∫ən] n.理解，理解力；领悟'
 keywords = ['ai words', 'comprehension']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /comprɪˈzɛnʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [understand](/en/post/understand/) [the](/en/post/the/) [meaning](/en/post/meaning/) [of](/en/post/of/) words, sentences, [or](/en/post/or/) ideas, [especially](/en/post/especially/) [in](/en/post/in/) [reading](/en/post/reading/) [or](/en/post/or/) listening. [It](/en/post/it/) involves interpreting context [and](/en/post/and/) grasping [the](/en/post/the/) [overall](/en/post/overall/) [message](/en/post/message/). [For](/en/post/for/) [example](/en/post/example/): "[Reading](/en/post/reading/) [comprehension](/en/post/comprehension/) is crucial [for](/en/post/for/) [academic](/en/post/academic/) [success](/en/post/success/)."
-- **[Verb](/en/post/verb/)**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [understanding](/en/post/understanding/) [or](/en/post/or/) grasping [the](/en/post/the/) [meaning](/en/post/meaning/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [after](/en/post/after/) [reading](/en/post/reading/) [or](/en/post/or/) listening. [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) studying [the](/en/post/the/) [text](/en/post/text/), [she](/en/post/she/) worked [on](/en/post/on/) improving [her](/en/post/her/) [comprehension](/en/post/comprehension/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [understand](/post/understand/) [the](/post/the/) [meaning](/post/meaning/) [of](/post/of/) words, sentences, [or](/post/or/) ideas, [especially](/post/especially/) [in](/post/in/) [reading](/post/reading/) [or](/post/or/) listening. [It](/post/it/) involves interpreting context [and](/post/and/) grasping [the](/post/the/) [overall](/post/overall/) [message](/post/message/). [For](/post/for/) [example](/post/example/): "[Reading](/post/reading/) [comprehension](/post/comprehension/) is crucial [for](/post/for/) [academic](/post/academic/) [success](/post/success/)."
+- **[Verb](/post/verb/)**: [The](/post/the/) [process](/post/process/) [of](/post/of/) [understanding](/post/understanding/) [or](/post/or/) grasping [the](/post/the/) [meaning](/post/meaning/) [of](/post/of/) [something](/post/something/), [often](/post/often/) [after](/post/after/) [reading](/post/reading/) [or](/post/or/) listening. [For](/post/for/) [example](/post/example/): "[After](/post/after/) studying [the](/post/the/) [text](/post/text/), [she](/post/she/) worked [on](/post/on/) improving [her](/post/her/) [comprehension](/post/comprehension/)."
 
 ## Phrases
-- "[Improve](/en/post/improve/) [comprehension](/en/post/comprehension/)" refers [to](/en/post/to/) enhancing one's [ability](/en/post/ability/) [to](/en/post/to/) [understand](/en/post/understand/).
-- "[Lack](/en/post/lack/) [of](/en/post/of/) [comprehension](/en/post/comprehension/)" [means](/en/post/means/) [difficulty](/en/post/difficulty/) [in](/en/post/in/) [understanding](/en/post/understanding/) [or](/en/post/or/) grasping [something](/en/post/something/).
-- "Enhance [reading](/en/post/reading/) [comprehension](/en/post/comprehension/)" focuses [on](/en/post/on/) boosting [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [understand](/en/post/understand/) written [material](/en/post/material/).
+- "[Improve](/post/improve/) [comprehension](/post/comprehension/)" refers [to](/post/to/) enhancing one's [ability](/post/ability/) [to](/post/to/) [understand](/post/understand/).
+- "[Lack](/post/lack/) [of](/post/of/) [comprehension](/post/comprehension/)" [means](/post/means/) [difficulty](/post/difficulty/) [in](/post/in/) [understanding](/post/understanding/) [or](/post/or/) grasping [something](/post/something/).
+- "Enhance [reading](/post/reading/) [comprehension](/post/comprehension/)" focuses [on](/post/on/) boosting [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [understand](/post/understand/) written [material](/post/material/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) students [to](/en/post/to/) [demonstrate](/en/post/demonstrate/) [their](/en/post/their/) [comprehension](/en/post/comprehension/) [of](/en/post/of/) [the](/en/post/the/) [lesson](/en/post/lesson/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) struggled [with](/en/post/with/) [comprehension](/en/post/comprehension/) [when](/en/post/when/) listening [to](/en/post/to/) [the](/en/post/the/) [complex](/en/post/complex/) [scientific](/en/post/scientific/) [lecture](/en/post/lecture/)."
-- **[Adjective](/en/post/adjective/)**: "[Their](/en/post/their/) [advanced](/en/post/advanced/) [level](/en/post/level/) [of](/en/post/of/) [comprehension](/en/post/comprehension/) allowed [them](/en/post/them/) [to](/en/post/to/) [grasp](/en/post/grasp/) [complex](/en/post/complex/) concepts [easily](/en/post/easily/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [demonstrate](/post/demonstrate/) [their](/post/their/) [comprehension](/post/comprehension/) [of](/post/of/) [the](/post/the/) [lesson](/post/lesson/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) struggled [with](/post/with/) [comprehension](/post/comprehension/) [when](/post/when/) listening [to](/post/to/) [the](/post/the/) [complex](/post/complex/) [scientific](/post/scientific/) [lecture](/post/lecture/)."
+- **[Adjective](/post/adjective/)**: "[Their](/post/their/) [advanced](/post/advanced/) [level](/post/level/) [of](/post/of/) [comprehension](/post/comprehension/) allowed [them](/post/them/) [to](/post/to/) [grasp](/post/grasp/) [complex](/post/complex/) concepts [easily](/post/easily/)."
 
 ## Synonyms
-- [Understanding](/en/post/understanding/)
-- [Interpretation](/en/post/interpretation/)
+- [Understanding](/post/understanding/)
+- [Interpretation](/post/interpretation/)
 - Comprehending
 - Appreciation
 - Insight
-- [Facility](/en/post/facility/) ([in](/en/post/in/) [understanding](/en/post/understanding/))
+- [Facility](/post/facility/) ([in](/post/in/) [understanding](/post/understanding/))

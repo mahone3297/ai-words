@@ -7,36 +7,36 @@ description = '[t∫iə] vt.使振作；欢呼'
 keywords = ['ai words', 'cheer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃɪr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [feeling](/en/post/feeling/) [or](/en/post/or/) [expression](/en/post/expression/) [of](/en/post/of/) [enthusiasm](/en/post/enthusiasm/), [support](/en/post/support/), [or](/en/post/or/) encouragement, [often](/en/post/often/) accompanied [by](/en/post/by/) vocalizations [or](/en/post/or/) gestures. [Example](/en/post/example/): "[The](/en/post/the/) team's [cheer](/en/post/cheer/) brought [the](/en/post/the/) [crowd](/en/post/crowd/) [to](/en/post/to/) [their](/en/post/their/) feet."
-2. [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) [perform](/en/post/perform/) coordinated chants, songs, [and](/en/post/and/) [dance](/en/post/dance/) routines [to](/en/post/to/) [encourage](/en/post/encourage/) [a](/en/post/a/) sports [team](/en/post/team/) [or](/en/post/or/) performer. [Example](/en/post/example/): "[The](/en/post/the/) cheerleaders led [the](/en/post/the/) [crowd](/en/post/crowd/) [with](/en/post/with/) [their](/en/post/their/) energetic [cheer](/en/post/cheer/) [before](/en/post/before/) [the](/en/post/the/) [big](/en/post/big/) [game](/en/post/game/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [feeling](/post/feeling/) [or](/post/or/) [expression](/post/expression/) [of](/post/of/) [enthusiasm](/post/enthusiasm/), [support](/post/support/), [or](/post/or/) encouragement, [often](/post/often/) accompanied [by](/post/by/) vocalizations [or](/post/or/) gestures. [Example](/post/example/): "[The](/post/the/) team's [cheer](/post/cheer/) brought [the](/post/the/) [crowd](/post/crowd/) [to](/post/to/) [their](/post/their/) feet."
+2. [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [who](/post/who/) [perform](/post/perform/) coordinated chants, songs, [and](/post/and/) [dance](/post/dance/) routines [to](/post/to/) [encourage](/post/encourage/) [a](/post/a/) sports [team](/post/team/) [or](/post/or/) performer. [Example](/post/example/): "[The](/post/the/) cheerleaders led [the](/post/the/) [crowd](/post/crowd/) [with](/post/with/) [their](/post/their/) energetic [cheer](/post/cheer/) [before](/post/before/) [the](/post/the/) [big](/post/big/) [game](/post/game/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [express](/en/post/express/) [approval](/en/post/approval/), encouragement, [or](/en/post/or/) [support](/en/post/support/) vocally [or](/en/post/or/) [with](/en/post/with/) gestures. [Example](/en/post/example/): "[She](/en/post/she/) cheered loudly [after](/en/post/after/) [her](/en/post/her/) [friend](/en/post/friend/) scored [a](/en/post/a/) [goal](/en/post/goal/)."
-2. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [the](/en/post/the/) [activity](/en/post/activity/) [of](/en/post/of/) cheering, [especially](/en/post/especially/) [for](/en/post/for/) [a](/en/post/a/) sports [team](/en/post/team/). [Example](/en/post/example/): "[The](/en/post/the/) fans cheered [on](/en/post/on/) [their](/en/post/their/) favorite [football](/en/post/football/) [team](/en/post/team/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [express](/post/express/) [approval](/post/approval/), encouragement, [or](/post/or/) [support](/post/support/) vocally [or](/post/or/) [with](/post/with/) gestures. [Example](/post/example/): "[She](/post/she/) cheered loudly [after](/post/after/) [her](/post/her/) [friend](/post/friend/) scored [a](/post/a/) [goal](/post/goal/)."
+2. [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [the](/post/the/) [activity](/post/activity/) [of](/post/of/) cheering, [especially](/post/especially/) [for](/post/for/) [a](/post/a/) sports [team](/post/team/). [Example](/post/example/): "[The](/post/the/) fans cheered [on](/post/on/) [their](/post/their/) favorite [football](/post/football/) [team](/post/team/)."
 
-### [Adjective](/en/post/adjective/)
-1. Inspiring [happiness](/en/post/happiness/), excitement, [or](/en/post/or/) motivation. [Example](/en/post/example/): "[A](/en/post/a/) cheery [smile](/en/post/smile/) [can](/en/post/can/) [brighten](/en/post/brighten/) anyone's [day](/en/post/day/)."
-2. [Optimistic](/en/post/optimistic/) [and](/en/post/and/) [lively](/en/post/lively/). [Example](/en/post/example/): "[The](/en/post/the/) cheery decor [of](/en/post/of/) [the](/en/post/the/) café created [a](/en/post/a/) welcoming [atmosphere](/en/post/atmosphere/)."
+### [Adjective](/post/adjective/)
+1. Inspiring [happiness](/post/happiness/), excitement, [or](/post/or/) motivation. [Example](/post/example/): "[A](/post/a/) cheery [smile](/post/smile/) [can](/post/can/) [brighten](/post/brighten/) anyone's [day](/post/day/)."
+2. [Optimistic](/post/optimistic/) [and](/post/and/) [lively](/post/lively/). [Example](/post/example/): "[The](/post/the/) cheery decor [of](/post/of/) [the](/post/the/) café created [a](/post/a/) welcoming [atmosphere](/post/atmosphere/)."
 
 ## Phrases
-- "[Cheer](/en/post/cheer/) [someone](/en/post/someone/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [someone](/en/post/someone/) [feel](/en/post/feel/) happier [or](/en/post/or/) [more](/en/post/more/) [optimistic](/en/post/optimistic/).
-- "[Join](/en/post/join/) [in](/en/post/in/) [the](/en/post/the/) [cheer](/en/post/cheer/)" is an [invitation](/en/post/invitation/) [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) group's encouragement.
-- "[Let](/en/post/let/) [out](/en/post/out/) [a](/en/post/a/) [cheer](/en/post/cheer/)" implies expressing [enthusiasm](/en/post/enthusiasm/) [or](/en/post/or/) [approval](/en/post/approval/) loudly.
+- "[Cheer](/post/cheer/) [someone](/post/someone/) [up](/post/up/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [someone](/post/someone/) [feel](/post/feel/) happier [or](/post/or/) [more](/post/more/) [optimistic](/post/optimistic/).
+- "[Join](/post/join/) [in](/post/in/) [the](/post/the/) [cheer](/post/cheer/)" is an [invitation](/post/invitation/) [to](/post/to/) [participate](/post/participate/) [in](/post/in/) [a](/post/a/) group's encouragement.
+- "[Let](/post/let/) [out](/post/out/) [a](/post/a/) [cheer](/post/cheer/)" implies expressing [enthusiasm](/post/enthusiasm/) [or](/post/or/) [approval](/post/approval/) loudly.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children's cheers echoed [through](/en/post/through/) [the](/en/post/the/) [playground](/en/post/playground/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [crowd](/en/post/crowd/) cheered [the](/en/post/the/) [winner](/en/post/winner/) [as](/en/post/as/) [they](/en/post/they/) crossed [the](/en/post/the/) [finish](/en/post/finish/) [line](/en/post/line/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) cheery [news](/en/post/news/) brought [hope](/en/post/hope/) [to](/en/post/to/) [those](/en/post/those/) [in](/en/post/in/) [need](/en/post/need/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children's cheers echoed [through](/post/through/) [the](/post/the/) [playground](/post/playground/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [crowd](/post/crowd/) cheered [the](/post/the/) [winner](/post/winner/) [as](/post/as/) [they](/post/they/) crossed [the](/post/the/) [finish](/post/finish/) [line](/post/line/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) cheery [news](/post/news/) brought [hope](/post/hope/) [to](/post/to/) [those](/post/those/) [in](/post/in/) [need](/post/need/)."
 
 ## Synonyms
 - Encouragement
 - Applause
-- [Support](/en/post/support/)
+- [Support](/post/support/)
 - Jubilation
 - Euphoria
 - Inspiration

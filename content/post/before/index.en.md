@@ -7,27 +7,27 @@ description = '[biˈfɔː] prep.在…以前；向…'
 keywords = ['ai words', 'before']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈfɔːr/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [front](/en/post/front/) [of](/en/post/of/) [or](/en/post/or/) [preceding](/en/post/preceding/) [something](/en/post/something/) [in](/en/post/in/) [time](/en/post/time/), [space](/en/post/space/), [or](/en/post/or/) [order](/en/post/order/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [store](/en/post/store/) is located [before](/en/post/before/) [the](/en/post/the/) [bridge](/en/post/bridge/)."
-- **[Preposition](/en/post/preposition/)**: [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [position](/en/post/position/) [or](/en/post/or/) [relationship](/en/post/relationship/) [with](/en/post/with/) [respect](/en/post/respect/) [to](/en/post/to/) [something](/en/post/something/) [else](/en/post/else/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) placed [the](/en/post/the/) [book](/en/post/book/) [before](/en/post/before/) [her](/en/post/her/) [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Conjunction](/en/post/conjunction/)**: [Used](/en/post/used/) [to](/en/post/to/) [connect](/en/post/connect/) words, phrases, [or](/en/post/or/) clauses [that](/en/post/that/) [show](/en/post/show/) [time](/en/post/time/), [sequence](/en/post/sequence/), [or](/en/post/or/) [condition](/en/post/condition/). [For](/en/post/for/) [example](/en/post/example/): "I'll [meet](/en/post/meet/) [you](/en/post/you/) [before](/en/post/before/) [the](/en/post/the/) [movie](/en/post/movie/) starts."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [front](/post/front/) [of](/post/of/) [or](/post/or/) [preceding](/post/preceding/) [something](/post/something/) [in](/post/in/) [time](/post/time/), [space](/post/space/), [or](/post/or/) [order](/post/order/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [store](/post/store/) is located [before](/post/before/) [the](/post/the/) [bridge](/post/bridge/)."
+- **[Preposition](/post/preposition/)**: [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [position](/post/position/) [or](/post/or/) [relationship](/post/relationship/) [with](/post/with/) [respect](/post/respect/) [to](/post/to/) [something](/post/something/) [else](/post/else/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) placed [the](/post/the/) [book](/post/book/) [before](/post/before/) [her](/post/her/) [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+- **[Conjunction](/post/conjunction/)**: [Used](/post/used/) [to](/post/to/) [connect](/post/connect/) words, phrases, [or](/post/or/) clauses [that](/post/that/) [show](/post/show/) [time](/post/time/), [sequence](/post/sequence/), [or](/post/or/) [condition](/post/condition/). [For](/post/for/) [example](/post/example/): "I'll [meet](/post/meet/) [you](/post/you/) [before](/post/before/) [the](/post/the/) [movie](/post/movie/) starts."
 
 ## Phrases
-- "Beforehand" indicates [something](/en/post/something/) done [in](/en/post/in/) [advance](/en/post/advance/).
-- "[In](/en/post/in/) [front](/en/post/front/) [of](/en/post/of/)" describes [the](/en/post/the/) spatial [arrangement](/en/post/arrangement/).
-- "[Before](/en/post/before/) [long](/en/post/long/)" [means](/en/post/means/) [soon](/en/post/soon/) [or](/en/post/or/) [shortly](/en/post/shortly/) [afterward](/en/post/afterward/).
+- "Beforehand" indicates [something](/post/something/) done [in](/post/in/) [advance](/post/advance/).
+- "[In](/post/in/) [front](/post/front/) [of](/post/of/)" describes [the](/post/the/) spatial [arrangement](/post/arrangement/).
+- "[Before](/post/before/) [long](/post/long/)" [means](/post/means/) [soon](/post/soon/) [or](/post/or/) [shortly](/post/shortly/) [afterward](/post/afterward/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [before](/en/post/before/) [the](/en/post/the/) deadline."
-- **[Preposition](/en/post/preposition/)**: "[She](/en/post/she/) [left](/en/post/left/) [her](/en/post/her/) keys [before](/en/post/before/) going [out](/en/post/out/)."
-- **[Conjunction](/en/post/conjunction/)**: "I'll [call](/en/post/call/) [you](/en/post/you/) [before](/en/post/before/) I [arrive](/en/post/arrive/) [at](/en/post/at/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [before](/post/before/) [the](/post/the/) deadline."
+- **[Preposition](/post/preposition/)**: "[She](/post/she/) [left](/post/left/) [her](/post/her/) keys [before](/post/before/) going [out](/post/out/)."
+- **[Conjunction](/post/conjunction/)**: "I'll [call](/post/call/) [you](/post/you/) [before](/post/before/) I [arrive](/post/arrive/) [at](/post/at/) [the](/post/the/) [meeting](/post/meeting/)."
 
 ## Synonyms
-- [Ahead](/en/post/ahead/) [of](/en/post/of/)
-- [Prior](/en/post/prior/) [to](/en/post/to/)
+- [Ahead](/post/ahead/) [of](/post/of/)
+- [Prior](/post/prior/) [to](/post/to/)
 - Antecedently
-- [Previously](/en/post/previously/)
--前置地 ([in](/en/post/in/) Chinese)
+- [Previously](/post/previously/)
+-前置地 ([in](/post/in/) Chinese)

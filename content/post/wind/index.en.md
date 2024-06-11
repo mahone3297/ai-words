@@ -7,54 +7,54 @@ description = 'vt.绕，缠绕 vi.卷曲'
 keywords = ['ai words', 'wind']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɪnd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [natural](/en/post/natural/) [movement](/en/post/movement/) [of](/en/post/of/) [air](/en/post/air/), [often](/en/post/often/) causing [a](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [direction](/en/post/direction/) [or](/en/post/or/) [force](/en/post/force/).
-   - "[The](/en/post/the/) [wind](/en/post/wind/) blew [gently](/en/post/gently/) [through](/en/post/through/) [the](/en/post/the/) trees."
-2. An [instance](/en/post/instance/) [or](/en/post/or/) gust [of](/en/post/of/) [this](/en/post/this/) [movement](/en/post/movement/), [often](/en/post/often/) accompanied [by](/en/post/by/) [sound](/en/post/sound/).
-   - "[He](/en/post/he/) heard [the](/en/post/the/) [wind](/en/post/wind/) howling [outside](/en/post/outside/)."
-3. [A](/en/post/a/) person's [breath](/en/post/breath/) [or](/en/post/or/) [the](/en/post/the/) breathy [sound](/en/post/sound/) produced [when](/en/post/when/) speaking.
-   - "[She](/en/post/she/) whispered [her](/en/post/her/) secrets [into](/en/post/into/) [his](/en/post/his/) [ear](/en/post/ear/), [her](/en/post/her/) [voice](/en/post/voice/) barely [a](/en/post/a/) [wind](/en/post/wind/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [natural](/post/natural/) [movement](/post/movement/) [of](/post/of/) [air](/post/air/), [often](/post/often/) causing [a](/post/a/) [change](/post/change/) [in](/post/in/) [direction](/post/direction/) [or](/post/or/) [force](/post/force/).
+   - "[The](/post/the/) [wind](/post/wind/) blew [gently](/post/gently/) [through](/post/through/) [the](/post/the/) trees."
+2. An [instance](/post/instance/) [or](/post/or/) gust [of](/post/of/) [this](/post/this/) [movement](/post/movement/), [often](/post/often/) accompanied [by](/post/by/) [sound](/post/sound/).
+   - "[He](/post/he/) heard [the](/post/the/) [wind](/post/wind/) howling [outside](/post/outside/)."
+3. [A](/post/a/) person's [breath](/post/breath/) [or](/post/or/) [the](/post/the/) breathy [sound](/post/sound/) produced [when](/post/when/) speaking.
+   - "[She](/post/she/) whispered [her](/post/her/) secrets [into](/post/into/) [his](/post/his/) [ear](/post/ear/), [her](/post/her/) [voice](/post/voice/) barely [a](/post/a/) [wind](/post/wind/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [cause](/en/post/cause/) ([air](/en/post/air/)) [to](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [flow](/en/post/flow/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [direction](/en/post/direction/).
-   - "[The](/en/post/the/) [wind](/en/post/wind/) is blowing [the](/en/post/the/) leaves [off](/en/post/off/) [the](/en/post/the/) trees."
-2. [To](/en/post/to/) propel [something](/en/post/something/) [with](/en/post/with/) [the](/en/post/the/) [power](/en/post/power/) [of](/en/post/of/) [the](/en/post/the/) [wind](/en/post/wind/).
-   - "[The](/en/post/the/) sailboat was [being](/en/post/being/) winded [by](/en/post/by/) [the](/en/post/the/) [strong](/en/post/strong/) gusts."
-3. (figurative) [To](/en/post/to/) [influence](/en/post/influence/) [or](/en/post/or/) [affect](/en/post/affect/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/).
-   - "[Her](/en/post/her/) words seemed [to](/en/post/to/) [wind](/en/post/wind/) [around](/en/post/around/) [his](/en/post/his/) thoughts."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [cause](/post/cause/) ([air](/post/air/)) [to](/post/to/) [move](/post/move/) [or](/post/or/) [flow](/post/flow/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [direction](/post/direction/).
+   - "[The](/post/the/) [wind](/post/wind/) is blowing [the](/post/the/) leaves [off](/post/off/) [the](/post/the/) trees."
+2. [To](/post/to/) propel [something](/post/something/) [with](/post/with/) [the](/post/the/) [power](/post/power/) [of](/post/of/) [the](/post/the/) [wind](/post/wind/).
+   - "[The](/post/the/) sailboat was [being](/post/being/) winded [by](/post/by/) [the](/post/the/) [strong](/post/strong/) gusts."
+3. (figurative) [To](/post/to/) [influence](/post/influence/) [or](/post/or/) [affect](/post/affect/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/).
+   - "[Her](/post/her/) words seemed [to](/post/to/) [wind](/post/wind/) [around](/post/around/) [his](/post/his/) thoughts."
 
-### [Adjective](/en/post/adjective/)
-1. Characterized [by](/en/post/by/) [or](/en/post/or/) occurring [with](/en/post/with/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) [the](/en/post/the/) [wind](/en/post/wind/).
-   - "[A](/en/post/a/) wind-powered [turbine](/en/post/turbine/) harnesses [the](/en/post/the/) wind's [energy](/en/post/energy/)."
-2. Occurring irregularly [or](/en/post/or/) erratically.
-   - "[His](/en/post/his/) moods [would](/en/post/would/) [often](/en/post/often/) [wind](/en/post/wind/) [up](/en/post/up/) [and](/en/post/and/) [down](/en/post/down/) [like](/en/post/like/) [the](/en/post/the/) [wind](/en/post/wind/)."
+### [Adjective](/post/adjective/)
+1. Characterized [by](/post/by/) [or](/post/or/) occurring [with](/post/with/) [the](/post/the/) [action](/post/action/) [of](/post/of/) [the](/post/the/) [wind](/post/wind/).
+   - "[A](/post/a/) wind-powered [turbine](/post/turbine/) harnesses [the](/post/the/) wind's [energy](/post/energy/)."
+2. Occurring irregularly [or](/post/or/) erratically.
+   - "[His](/post/his/) moods [would](/post/would/) [often](/post/often/) [wind](/post/wind/) [up](/post/up/) [and](/post/and/) [down](/post/down/) [like](/post/like/) [the](/post/the/) [wind](/post/wind/)."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) influenced [by](/en/post/by/) [the](/en/post/the/) [wind](/en/post/wind/).
-   - "[The](/en/post/the/) [kite](/en/post/kite/) flew beautifully windward."
-2. (informal) Randomly [or](/en/post/or/) unpredictably.
-   - "[Life](/en/post/life/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [bit](/en/post/bit/) unpredictable, [with](/en/post/with/) events [just](/en/post/just/) winding [up](/en/post/up/) [at](/en/post/at/) [unexpected](/en/post/unexpected/) times."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) [manner](/post/manner/) influenced [by](/post/by/) [the](/post/the/) [wind](/post/wind/).
+   - "[The](/post/the/) [kite](/post/kite/) flew beautifully windward."
+2. (informal) Randomly [or](/post/or/) unpredictably.
+   - "[Life](/post/life/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [bit](/post/bit/) unpredictable, [with](/post/with/) events [just](/post/just/) winding [up](/post/up/) [at](/post/at/) [unexpected](/post/unexpected/) times."
 
 ## Phrases
-- "[Catch](/en/post/catch/) [the](/en/post/the/) [wind](/en/post/wind/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [advantage](/en/post/advantage/) [of](/en/post/of/) [the](/en/post/the/) wind's [force](/en/post/force/) [for](/en/post/for/) sailing [or](/en/post/or/) [movement](/en/post/movement/).
-- "[Wind](/en/post/wind/) [up](/en/post/up/)" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [finish](/en/post/finish/) [or](/en/post/or/) [conclude](/en/post/conclude/) [something](/en/post/something/), [or](/en/post/or/) [to](/en/post/to/) [control](/en/post/control/) [or](/en/post/or/) manipulate [someone](/en/post/someone/).
-- "[Out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [blue](/en/post/blue/)" refers [to](/en/post/to/) an [unexpected](/en/post/unexpected/) [event](/en/post/event/), [like](/en/post/like/) [a](/en/post/a/) [sudden](/en/post/sudden/) gust [of](/en/post/of/) [wind](/en/post/wind/).
+- "[Catch](/post/catch/) [the](/post/the/) [wind](/post/wind/)" [means](/post/means/) [to](/post/to/) [take](/post/take/) [advantage](/post/advantage/) [of](/post/of/) [the](/post/the/) wind's [force](/post/force/) [for](/post/for/) sailing [or](/post/or/) [movement](/post/movement/).
+- "[Wind](/post/wind/) [up](/post/up/)" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [finish](/post/finish/) [or](/post/or/) [conclude](/post/conclude/) [something](/post/something/), [or](/post/or/) [to](/post/to/) [control](/post/control/) [or](/post/or/) manipulate [someone](/post/someone/).
+- "[Out](/post/out/) [of](/post/of/) [the](/post/the/) [blue](/post/blue/)" refers [to](/post/to/) an [unexpected](/post/unexpected/) [event](/post/event/), [like](/post/like/) [a](/post/a/) [sudden](/post/sudden/) gust [of](/post/of/) [wind](/post/wind/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [wind](/en/post/wind/) was [so](/en/post/so/) [strong](/en/post/strong/) [that](/en/post/that/) [it](/en/post/it/) knocked [over](/en/post/over/) [the](/en/post/the/) [picnic](/en/post/picnic/) [table](/en/post/table/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [wound](/en/post/wound/) [the](/en/post/the/) [clock](/en/post/clock/) mechanism [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) chime."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) wind-swept landscape looked desolate [and](/en/post/and/) [wild](/en/post/wild/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [wind](/en/post/wind/) [down](/en/post/down/) [early](/en/post/early/), [feeling](/en/post/feeling/) exhausted."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [wind](/post/wind/) was [so](/post/so/) [strong](/post/strong/) [that](/post/that/) [it](/post/it/) knocked [over](/post/over/) [the](/post/the/) [picnic](/post/picnic/) [table](/post/table/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) [wound](/post/wound/) [the](/post/the/) [clock](/post/clock/) mechanism [to](/post/to/) [make](/post/make/) [it](/post/it/) chime."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) wind-swept landscape looked desolate [and](/post/and/) [wild](/post/wild/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) decided [to](/post/to/) [wind](/post/wind/) [down](/post/down/) [early](/post/early/), [feeling](/post/feeling/) exhausted."
 
 ## Synonyms
-- [Air](/en/post/air/) [current](/en/post/current/)
+- [Air](/post/air/) [current](/post/current/)
 - Gust
-- [Breeze](/en/post/breeze/)
+- [Breeze](/post/breeze/)
 - Zephyr
 - Gale
-- [Blow](/en/post/blow/)
+- [Blow](/post/blow/)
 - Impulse

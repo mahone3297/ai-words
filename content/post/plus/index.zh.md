@@ -11,25 +11,25 @@ keywords = ['ai words', 'plus']
 /plʌs/
 
 ## 释义
-- **名词**: 1. 加号，表示增加或正数。例如: "[In](/post/in/) [mathematics](/post/mathematics/), [plus](/post/plus/) (+) [means](/post/means/) [addition](/post/addition/)."  
-2. 优势，加分项。例如: "[Her](/post/her/) [experience](/post/experience/) was [a](/post/a/) [big](/post/big/) [plus](/post/plus/) [for](/post/for/) [the](/post/the/) [company](/post/company/)."
+- **名词**: 1. 加号，表示增加或正数。例如: "[In](/zh/post/in/) [mathematics](/zh/post/mathematics/), [plus](/zh/post/plus/) (+) [means](/zh/post/means/) [addition](/zh/post/addition/)."  
+2. 优势，加分项。例如: "[Her](/zh/post/her/) [experience](/zh/post/experience/) was [a](/zh/post/a/) [big](/zh/post/big/) [plus](/zh/post/plus/) [for](/zh/post/for/) [the](/zh/post/the/) [company](/zh/post/company/)."
 
-- **形容词**: 额外的，附加的。例如: "[The](/post/the/) [hotel](/post/hotel/) offered [plus](/post/plus/) services [such](/post/such/) [as](/post/as/) spa treatments."
+- **形容词**: 额外的，附加的。例如: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) offered [plus](/zh/post/plus/) services [such](/zh/post/such/) [as](/zh/post/as/) spa treatments."
 
-- **副词**: 除此之外，另外。例如: "I [need](/post/need/) [more](/post/more/) [time](/post/time/), [plus](/post/plus/) I [have](/post/have/) [other](/post/other/) commitments."
+- **副词**: 除此之外，另外。例如: "I [need](/zh/post/need/) [more](/zh/post/more/) [time](/zh/post/time/), [plus](/zh/post/plus/) I [have](/zh/post/have/) [other](/zh/post/other/) commitments."
 
 ## 短语
-- "[Plus](/post/plus/) [size](/post/size/)" 指加大号的衣服或尺寸。
-- "[Plus](/post/plus/) [or](/post/or/) [minus](/post/minus/)" 表示大约，误差范围。例如: "[The](/post/the/) [estimate](/post/estimate/) is [plus](/post/plus/) [or](/post/or/) [minus](/post/minus/) [five](/post/five/) [percent](/post/percent/)."
+- "[Plus](/zh/post/plus/) [size](/zh/post/size/)" 指加大号的衣服或尺寸。
+- "[Plus](/zh/post/plus/) [or](/zh/post/or/) [minus](/zh/post/minus/)" 表示大约，误差范围。例如: "[The](/zh/post/the/) [estimate](/zh/post/estimate/) is [plus](/zh/post/plus/) [or](/zh/post/or/) [minus](/zh/post/minus/) [five](/zh/post/five/) [percent](/zh/post/percent/)."
 
 ## 例句
-- 名词: "[In](/post/in/) [the](/post/the/) [equation](/post/equation/) 5 + 3 = 8, [the](/post/the/) [plus](/post/plus/) [sign](/post/sign/) indicates [addition](/post/addition/)."
-- 形容词: "[This](/post/this/) [phone](/post/phone/) comes [with](/post/with/) [a](/post/a/) [plus](/post/plus/) [battery](/post/battery/) [that](/post/that/) lasts [all](/post/all/) [day](/post/day/)."
-- 副词: "[We](/post/we/) [will](/post/will/) [meet](/post/meet/) [at](/post/at/) 7 PM, [and](/post/and/) [plus](/post/plus/), [we](/post/we/) [can](/post/can/) [have](/post/have/) [dinner](/post/dinner/) [together](/post/together/)."
+- 名词: "[In](/zh/post/in/) [the](/zh/post/the/) [equation](/zh/post/equation/) 5 + 3 = 8, [the](/zh/post/the/) [plus](/zh/post/plus/) [sign](/zh/post/sign/) indicates [addition](/zh/post/addition/)."
+- 形容词: "[This](/zh/post/this/) [phone](/zh/post/phone/) comes [with](/zh/post/with/) [a](/zh/post/a/) [plus](/zh/post/plus/) [battery](/zh/post/battery/) [that](/zh/post/that/) lasts [all](/zh/post/all/) [day](/zh/post/day/)."
+- 副词: "[We](/zh/post/we/) [will](/zh/post/will/) [meet](/zh/post/meet/) [at](/zh/post/at/) 7 PM, [and](/zh/post/and/) [plus](/zh/post/plus/), [we](/zh/post/we/) [can](/zh/post/can/) [have](/zh/post/have/) [dinner](/zh/post/dinner/) [together](/zh/post/together/)."
 
 ## 同义词
-- [Additional](/post/additional/)
-- [Extra](/post/extra/)
+- [Additional](/zh/post/additional/)
+- [Extra](/zh/post/extra/)
 - Supplementary
-- [More](/post/more/)
+- [More](/zh/post/more/)
 - Bonus

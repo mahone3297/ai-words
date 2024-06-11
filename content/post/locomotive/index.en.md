@@ -7,29 +7,29 @@ description = '[ˌləukəˈməutiv] n.火车头，机车'
 keywords = ['ai words', 'locomotive']
 +++
 
-## [Word](/en/post/word/): [Locomotive](/en/post/locomotive/)
+## [Word](/post/word/): [Locomotive](/post/locomotive/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌloʊkəˈmōtɪv/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) self-propelled [railway](/en/post/railway/) [vehicle](/en/post/vehicle/) [that](/en/post/that/) pulls [a](/en/post/a/) [train](/en/post/train/) [along](/en/post/along/) [the](/en/post/the/) tracks. [It](/en/post/it/) [usually](/en/post/usually/) produces [power](/en/post/power/) [through](/en/post/through/) [a](/en/post/a/) diesel [engine](/en/post/engine/) [or](/en/post/or/) [electric](/en/post/electric/) motors. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [steam](/en/post/steam/) [locomotive](/en/post/locomotive/) was [once](/en/post/once/) [the](/en/post/the/) driving [force](/en/post/force/) [of](/en/post/of/) [the](/en/post/the/) [industrial](/en/post/industrial/) [revolution](/en/post/revolution/)."
-  - _Example sentence_: "[The](/en/post/the/) locomotive's [whistle](/en/post/whistle/) echoed [across](/en/post/across/) [the](/en/post/the/) [valley](/en/post/valley/) [as](/en/post/as/) [it](/en/post/it/) approached [the](/en/post/the/) [station](/en/post/station/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) self-propelled [railway](/post/railway/) [vehicle](/post/vehicle/) [that](/post/that/) pulls [a](/post/a/) [train](/post/train/) [along](/post/along/) [the](/post/the/) tracks. [It](/post/it/) [usually](/post/usually/) produces [power](/post/power/) [through](/post/through/) [a](/post/a/) diesel [engine](/post/engine/) [or](/post/or/) [electric](/post/electric/) motors. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [steam](/post/steam/) [locomotive](/post/locomotive/) was [once](/post/once/) [the](/post/the/) driving [force](/post/force/) [of](/post/of/) [the](/post/the/) [industrial](/post/industrial/) [revolution](/post/revolution/)."
+  - _Example sentence_: "[The](/post/the/) locomotive's [whistle](/post/whistle/) echoed [across](/post/across/) [the](/post/the/) [valley](/post/valley/) [as](/post/as/) [it](/post/it/) approached [the](/post/the/) [station](/post/station/)."
   
-- **[Adjective](/en/post/adjective/)**: ([less](/en/post/less/) [commonly](/en/post/commonly/)) Describing [something](/en/post/something/) [that](/en/post/that/) has [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [move](/en/post/move/) [itself](/en/post/itself/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [powerful](/en/post/powerful/) [or](/en/post/or/) controlled [manner](/en/post/manner/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [new](/en/post/new/) robotic [vacuum](/en/post/vacuum/) cleaner is [a](/en/post/a/) [highly](/en/post/highly/) [locomotive](/en/post/locomotive/) [device](/en/post/device/)."
+- **[Adjective](/post/adjective/)**: ([less](/post/less/) [commonly](/post/commonly/)) Describing [something](/post/something/) [that](/post/that/) has [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [move](/post/move/) [itself](/post/itself/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [powerful](/post/powerful/) [or](/post/or/) controlled [manner](/post/manner/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [new](/post/new/) robotic [vacuum](/post/vacuum/) cleaner is [a](/post/a/) [highly](/post/highly/) [locomotive](/post/locomotive/) [device](/post/device/)."
 
 ## Phrases
-- "[At](/en/post/at/) [the](/en/post/the/) [head](/en/post/head/) [of](/en/post/of/) [the](/en/post/the/) [train](/en/post/train/)" implies [that](/en/post/that/) [the](/en/post/the/) [locomotive](/en/post/locomotive/) is [leading](/en/post/leading/) [the](/en/post/the/) [train](/en/post/train/).
-- "[Under](/en/post/under/) [its](/en/post/its/) [own](/en/post/own/) [power](/en/post/power/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [locomotive](/en/post/locomotive/) operating independently [without](/en/post/without/) [being](/en/post/being/) towed [or](/en/post/or/) pushed.
+- "[At](/post/at/) [the](/post/the/) [head](/post/head/) [of](/post/of/) [the](/post/the/) [train](/post/train/)" implies [that](/post/that/) [the](/post/the/) [locomotive](/post/locomotive/) is [leading](/post/leading/) [the](/post/the/) [train](/post/train/).
+- "[Under](/post/under/) [its](/post/its/) [own](/post/own/) [power](/post/power/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [locomotive](/post/locomotive/) operating independently [without](/post/without/) [being](/post/being/) towed [or](/post/or/) pushed.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [engineer](/en/post/engineer/) inspected [the](/en/post/the/) [locomotive](/en/post/locomotive/) [before](/en/post/before/) [setting](/en/post/setting/) [off](/en/post/off/) [on](/en/post/on/) [the](/en/post/the/) cross-country [journey](/en/post/journey/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [experimental](/en/post/experimental/) [locomotive](/en/post/locomotive/) [vehicle](/en/post/vehicle/) demonstrated unprecedented agility [and](/en/post/and/) [speed](/en/post/speed/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [engineer](/post/engineer/) inspected [the](/post/the/) [locomotive](/post/locomotive/) [before](/post/before/) [setting](/post/setting/) [off](/post/off/) [on](/post/on/) [the](/post/the/) cross-country [journey](/post/journey/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [experimental](/post/experimental/) [locomotive](/post/locomotive/) [vehicle](/post/vehicle/) demonstrated unprecedented agility [and](/post/and/) [speed](/post/speed/)."
 
 ## Synonyms
-- [Engine](/en/post/engine/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) trains)
-- [Train](/en/post/train/) [engine](/en/post/engine/)
-- [Power](/en/post/power/) [car](/en/post/car/)
+- [Engine](/post/engine/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) trains)
+- [Train](/post/train/) [engine](/post/engine/)
+- [Power](/post/power/) [car](/post/car/)
 - Diesel
-- [Electric](/en/post/electric/) (referring [to](/en/post/to/) [the](/en/post/the/) [type](/en/post/type/) [of](/en/post/of/) [locomotive](/en/post/locomotive/))
-- [Steam](/en/post/steam/) [engine](/en/post/engine/) ([for](/en/post/for/) older models)
+- [Electric](/post/electric/) (referring [to](/post/to/) [the](/post/the/) [type](/post/type/) [of](/post/of/) [locomotive](/post/locomotive/))
+- [Steam](/post/steam/) [engine](/post/engine/) ([for](/post/for/) older models)

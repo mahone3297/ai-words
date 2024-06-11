@@ -7,25 +7,25 @@ description = '[ˈmɔnjumənt] n.纪念碑；纪念馆'
 keywords = ['ai words', 'monument']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɒnjəmənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [statue](/en/post/statue/), [building](/en/post/building/), [or](/en/post/or/) [other](/en/post/other/) [structure](/en/post/structure/) established [to](/en/post/to/) commemorate [a](/en/post/a/) notable [person](/en/post/person/) [or](/en/post/or/) [event](/en/post/event/). [It](/en/post/it/) [often](/en/post/often/) serves [as](/en/post/as/) [a](/en/post/a/) [permanent](/en/post/permanent/) reminder [or](/en/post/or/) tribute. [Example](/en/post/example/): "[The](/en/post/the/) Washington [Monument](/en/post/monument/) stands [tall](/en/post/tall/) [in](/en/post/in/) [the](/en/post/the/) nation's [capital](/en/post/capital/) [to](/en/post/to/) honor George Washington."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [statue](/post/statue/), [building](/post/building/), [or](/post/or/) [other](/post/other/) [structure](/post/structure/) established [to](/post/to/) commemorate [a](/post/a/) notable [person](/post/person/) [or](/post/or/) [event](/post/event/). [It](/post/it/) [often](/post/often/) serves [as](/post/as/) [a](/post/a/) [permanent](/post/permanent/) reminder [or](/post/or/) tribute. [Example](/post/example/): "[The](/post/the/) Washington [Monument](/post/monument/) stands [tall](/post/tall/) [in](/post/in/) [the](/post/the/) nation's [capital](/post/capital/) [to](/post/to/) honor George Washington."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- "[The](/en/post/the/) [newly](/en/post/newly/) erected [monument](/en/post/monument/) honors [the](/en/post/the/) fallen soldiers [who](/en/post/who/) fought [for](/en/post/for/) [our](/en/post/our/) [country](/en/post/country/)."
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- "[The](/post/the/) [newly](/post/newly/) erected [monument](/post/monument/) honors [the](/post/the/) fallen soldiers [who](/post/who/) fought [for](/post/for/) [our](/post/our/) [country](/post/country/)."
 
 Phrases:
-- "[A](/en/post/a/) [monument](/en/post/monument/) [to](/en/post/to/) [something](/en/post/something/)/[someone](/en/post/someone/)": referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) serves [as](/en/post/as/) [a](/en/post/a/) [significant](/en/post/significant/) representation or纪念 [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [quality](/en/post/quality/), [achievement](/en/post/achievement/), [or](/en/post/or/) [person](/en/post/person/). [Example](/en/post/example/): "[This](/en/post/this/) [library](/en/post/library/) is [a](/en/post/a/) [monument](/en/post/monument/) [to](/en/post/to/) [his](/en/post/his/) lifelong dedication [to](/en/post/to/) [learning](/en/post/learning/)."
+- "[A](/post/a/) [monument](/post/monument/) [to](/post/to/) [something](/post/something/)/[someone](/post/someone/)": referring [to](/post/to/) [something](/post/something/) [that](/post/that/) serves [as](/post/as/) [a](/post/a/) [significant](/post/significant/) representation or纪念 [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [quality](/post/quality/), [achievement](/post/achievement/), [or](/post/or/) [person](/post/person/). [Example](/post/example/): "[This](/post/this/) [library](/post/library/) is [a](/post/a/) [monument](/post/monument/) [to](/post/to/) [his](/post/his/) lifelong dedication [to](/post/to/) [learning](/post/learning/)."
   
-## [Example](/en/post/example/) Sentences
-- [Noun](/en/post/noun/): "[The](/en/post/the/) [ancient](/en/post/ancient/) [monument](/en/post/monument/) has stood [witness](/en/post/witness/) [to](/en/post/to/) centuries [of](/en/post/of/) [history](/en/post/history/)."
-- "[They](/en/post/they/) placed [a](/en/post/a/) plaque [on](/en/post/on/) [the](/en/post/the/) [monument](/en/post/monument/) detailing [its](/en/post/its/) [historical](/en/post/historical/) [significance](/en/post/significance/)."
+## [Example](/post/example/) Sentences
+- [Noun](/post/noun/): "[The](/post/the/) [ancient](/post/ancient/) [monument](/post/monument/) has stood [witness](/post/witness/) [to](/post/to/) centuries [of](/post/of/) [history](/post/history/)."
+- "[They](/post/they/) placed [a](/post/a/) plaque [on](/post/on/) [the](/post/the/) [monument](/post/monument/) detailing [its](/post/its/) [historical](/post/historical/) [significance](/post/significance/)."
 
 ## Synonyms
-- [Memorial](/en/post/memorial/)
-- [Statue](/en/post/statue/)
+- [Memorial](/post/memorial/)
+- [Statue](/post/statue/)
 - Obelisk
 - Shrine
 - Commemoration
@@ -33,12 +33,12 @@ Phrases:
 - Landmark
 - Tribute
 
-## [Additional](/en/post/additional/) Meanings
-- **[Noun](/en/post/noun/)**: [Something](/en/post/something/) [that](/en/post/that/) serves [as](/en/post/as/) [a](/en/post/a/) lasting [evidence](/en/post/evidence/) [or](/en/post/or/) [symbol](/en/post/symbol/) [of](/en/post/of/) [a](/en/post/a/) [quality](/en/post/quality/), [event](/en/post/event/), [or](/en/post/or/) [idea](/en/post/idea/). [Example](/en/post/example/): "[His](/en/post/his/) [work](/en/post/work/) became [a](/en/post/a/) [monument](/en/post/monument/) [to](/en/post/to/) [human](/en/post/human/) ingenuity."
+## [Additional](/post/additional/) Meanings
+- **[Noun](/post/noun/)**: [Something](/post/something/) [that](/post/that/) serves [as](/post/as/) [a](/post/a/) lasting [evidence](/post/evidence/) [or](/post/or/) [symbol](/post/symbol/) [of](/post/of/) [a](/post/a/) [quality](/post/quality/), [event](/post/event/), [or](/post/or/) [idea](/post/idea/). [Example](/post/example/): "[His](/post/his/) [work](/post/work/) became [a](/post/a/) [monument](/post/monument/) [to](/post/to/) [human](/post/human/) ingenuity."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- "[Her](/en/post/her/) tireless efforts [in](/en/post/in/) [conservation](/en/post/conservation/) [have](/en/post/have/) made [her](/en/post/her/) [a](/en/post/a/) [living](/en/post/living/) [monument](/en/post/monument/) [to](/en/post/to/) environmental activism." 
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- "[Her](/post/her/) tireless efforts [in](/post/in/) [conservation](/post/conservation/) [have](/post/have/) made [her](/post/her/) [a](/post/a/) [living](/post/living/) [monument](/post/monument/) [to](/post/to/) environmental activism." 
 
-## Phrases [with](/en/post/with/) '[monument](/en/post/monument/)'
-- "[A](/en/post/a/) monumental [task](/en/post/task/)": Referring [to](/en/post/to/) [a](/en/post/a/) [very](/en/post/very/) [large](/en/post/large/), [difficult](/en/post/difficult/), [or](/en/post/or/) [significant](/en/post/significant/) [undertaking](/en/post/undertaking/). [Example](/en/post/example/): "Rebuilding [the](/en/post/the/) [city](/en/post/city/) [after](/en/post/after/) [the](/en/post/the/) [disaster](/en/post/disaster/) was [a](/en/post/a/) monumental [task](/en/post/task/)."
-- "Monumental [mistake](/en/post/mistake/)": An [error](/en/post/error/) [of](/en/post/of/) [great](/en/post/great/) magnitude [or](/en/post/or/) [consequence](/en/post/consequence/). [Example](/en/post/example/): "Failing [to](/en/post/to/) [anticipate](/en/post/anticipate/) [market](/en/post/market/) trends turned [out](/en/post/out/) [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) monumental [mistake](/en/post/mistake/) [for](/en/post/for/) [the](/en/post/the/) [company](/en/post/company/)."
+## Phrases [with](/post/with/) '[monument](/post/monument/)'
+- "[A](/post/a/) monumental [task](/post/task/)": Referring [to](/post/to/) [a](/post/a/) [very](/post/very/) [large](/post/large/), [difficult](/post/difficult/), [or](/post/or/) [significant](/post/significant/) [undertaking](/post/undertaking/). [Example](/post/example/): "Rebuilding [the](/post/the/) [city](/post/city/) [after](/post/after/) [the](/post/the/) [disaster](/post/disaster/) was [a](/post/a/) monumental [task](/post/task/)."
+- "Monumental [mistake](/post/mistake/)": An [error](/post/error/) [of](/post/of/) [great](/post/great/) magnitude [or](/post/or/) [consequence](/post/consequence/). [Example](/post/example/): "Failing [to](/post/to/) [anticipate](/post/anticipate/) [market](/post/market/) trends turned [out](/post/out/) [to](/post/to/) [be](/post/be/) [a](/post/a/) monumental [mistake](/post/mistake/) [for](/post/for/) [the](/post/the/) [company](/post/company/)."

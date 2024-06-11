@@ -12,21 +12,21 @@ keywords = ['ai words', 'forbid']
 
 ## 释义
 - **动词**:
-1. 禁止；不准。例如: "[The](/post/the/) [teacher](/post/teacher/) forbade [the](/post/the/) students [from](/post/from/) talking [during](/post/during/) [the](/post/the/) [exam](/post/exam/)."
-2. (使)不可能，不容许。例如: "[His](/post/his/) [illness](/post/illness/) forbade [him](/post/him/) [from](/post/from/) attending [the](/post/the/) [event](/post/event/)."
+1. 禁止；不准。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) forbade [the](/zh/post/the/) students [from](/zh/post/from/) talking [during](/zh/post/during/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
+2. (使)不可能，不容许。例如: "[His](/zh/post/his/) [illness](/zh/post/illness/) forbade [him](/zh/post/him/) [from](/zh/post/from/) attending [the](/zh/post/the/) [event](/zh/post/event/)."
 
 ## 短语
-- "[forbid](/post/forbid/) doing [something](/post/something/)" 禁止做某事。例如: "[The](/post/the/) [law](/post/law/) forbids smoking [in](/post/in/) [public](/post/public/) places."
-- "[forbid](/post/forbid/) sb. [to](/post/to/) [do](/post/do/) [something](/post/something/)" 不允许某人做某事。例如: "[My](/post/my/) [doctor](/post/doctor/) forbade [me](/post/me/) [to](/post/to/) [eat](/post/eat/) junk [food](/post/food/)."
+- "[forbid](/zh/post/forbid/) doing [something](/zh/post/something/)" 禁止做某事。例如: "[The](/zh/post/the/) [law](/zh/post/law/) forbids smoking [in](/zh/post/in/) [public](/zh/post/public/) places."
+- "[forbid](/zh/post/forbid/) sb. [to](/zh/post/to/) [do](/zh/post/do/) [something](/zh/post/something/)" 不允许某人做某事。例如: "[My](/zh/post/my/) [doctor](/zh/post/doctor/) forbade [me](/zh/post/me/) [to](/zh/post/to/) [eat](/zh/post/eat/) junk [food](/zh/post/food/)."
 
 ## 例句
-- "[The](/post/the/) [school](/post/school/) forbids students [from](/post/from/) using [mobile](/post/mobile/) phones [in](/post/in/) [class](/post/class/)."
-- "[She](/post/she/) was forbidden [to](/post/to/) [leave](/post/leave/) [the](/post/the/) [country](/post/country/) [by](/post/by/) [the](/post/the/) authorities."
-- "[His](/post/his/) [fear](/post/fear/) forbade [him](/post/him/) [from](/post/from/) taking risks."
+- "[The](/zh/post/the/) [school](/zh/post/school/) forbids students [from](/zh/post/from/) using [mobile](/zh/post/mobile/) phones [in](/zh/post/in/) [class](/zh/post/class/)."
+- "[She](/zh/post/she/) was forbidden [to](/zh/post/to/) [leave](/zh/post/leave/) [the](/zh/post/the/) [country](/zh/post/country/) [by](/zh/post/by/) [the](/zh/post/the/) authorities."
+- "[His](/zh/post/his/) [fear](/zh/post/fear/) forbade [him](/zh/post/him/) [from](/zh/post/from/) taking risks."
 
 ## 同义词
-- [prohibit](/post/prohibit/)
+- [prohibit](/zh/post/prohibit/)
 - ban
 - disallow
-- [restrict](/post/restrict/)
+- [restrict](/zh/post/restrict/)
 - prohibitively

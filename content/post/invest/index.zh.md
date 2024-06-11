@@ -11,21 +11,21 @@ keywords = ['ai words', 'invest']
 /inˈvest/
 
 ## 释义
-- **动词**: 把钱投入（股票、债券、房地产等）以期望获得回报。例如: "[He](/post/he/) decided [to](/post/to/) [invest](/post/invest/) [his](/post/his/) savings [in](/post/in/) stocks."
-- **名词**: 投资；投入的资金。例如: "[The](/post/the/) [company](/post/company/) attracted [a](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) [invest](/post/invest/) [from](/post/from/) [venture](/post/venture/) capitalists."
+- **动词**: 把钱投入（股票、债券、房地产等）以期望获得回报。例如: "[He](/zh/post/he/) decided [to](/zh/post/to/) [invest](/zh/post/invest/) [his](/zh/post/his/) savings [in](/zh/post/in/) stocks."
+- **名词**: 投资；投入的资金。例如: "[The](/zh/post/the/) [company](/zh/post/company/) attracted [a](/zh/post/a/) [large](/zh/post/large/) [amount](/zh/post/amount/) [of](/zh/post/of/) [invest](/zh/post/invest/) [from](/zh/post/from/) [venture](/zh/post/venture/) capitalists."
 
 ## 短语
-- "[Invest](/post/invest/) [in](/post/in/) [something](/post/something/)" 意味着在某物上投入资金。例如: "They're considering investing [in](/post/in/) renewable [energy](/post/energy/) projects."
-- "Long-term [invest](/post/invest/)" 指的是长期的投资计划。例如: "Making long-term invests [can](/post/can/) [be](/post/be/) [more](/post/more/) profitable [than](/post/than/) short-term ones."
-- "[Risk](/post/risk/) [invest](/post/invest/)" 指带有较高风险的投资。例如: "High-risk invests [often](/post/often/) [yield](/post/yield/) higher returns [but](/post/but/) [come](/post/come/) [with](/post/with/) greater [potential](/post/potential/) losses."
+- "[Invest](/zh/post/invest/) [in](/zh/post/in/) [something](/zh/post/something/)" 意味着在某物上投入资金。例如: "They're considering investing [in](/zh/post/in/) renewable [energy](/zh/post/energy/) projects."
+- "Long-term [invest](/zh/post/invest/)" 指的是长期的投资计划。例如: "Making long-term invests [can](/zh/post/can/) [be](/zh/post/be/) [more](/zh/post/more/) profitable [than](/zh/post/than/) short-term ones."
+- "[Risk](/zh/post/risk/) [invest](/zh/post/invest/)" 指带有较高风险的投资。例如: "High-risk invests [often](/zh/post/often/) [yield](/zh/post/yield/) higher returns [but](/zh/post/but/) [come](/zh/post/come/) [with](/zh/post/with/) greater [potential](/zh/post/potential/) losses."
 
 ## 例句
-- 动词: "[She](/post/she/) decided [to](/post/to/) [invest](/post/invest/) $10,000 [in](/post/in/) [a](/post/a/) startup [company](/post/company/)."
-- 名词: "[His](/post/his/) [invest](/post/invest/) [in](/post/in/) [real](/post/real/) estate has proven [to](/post/to/) [be](/post/be/) [very](/post/very/) profitable."
+- 动词: "[She](/zh/post/she/) decided [to](/zh/post/to/) [invest](/zh/post/invest/) $10,000 [in](/zh/post/in/) [a](/zh/post/a/) startup [company](/zh/post/company/)."
+- 名词: "[His](/zh/post/his/) [invest](/zh/post/invest/) [in](/zh/post/in/) [real](/zh/post/real/) estate has proven [to](/zh/post/to/) [be](/zh/post/be/) [very](/zh/post/very/) profitable."
 
 ## 同义词
-- [Put](/post/put/) [money](/post/money/) [into](/post/into/)
-- [Deposit](/post/deposit/)
-- [Stake](/post/stake/)
-- [Commit](/post/commit/) funds
-- [Make](/post/make/) an [investment](/post/investment/)
+- [Put](/zh/post/put/) [money](/zh/post/money/) [into](/zh/post/into/)
+- [Deposit](/zh/post/deposit/)
+- [Stake](/zh/post/stake/)
+- [Commit](/zh/post/commit/) funds
+- [Make](/zh/post/make/) an [investment](/zh/post/investment/)

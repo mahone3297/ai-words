@@ -11,25 +11,25 @@ keywords = ['ai words', 'fail']
 /fəɪl/
 
 ## 释义
-- **动词**: 未能成功；失败。例如: "[The](/post/the/) [project](/post/project/) failed [due](/post/due/) [to](/post/to/) [poor](/post/poor/) planning."
-- **名词**: 失败；不及格。例如: "[He](/post/he/) was [on](/post/on/) [the](/post/the/) verge [of](/post/of/) failing [the](/post/the/) [exam](/post/exam/)."
-- **名词**: 失败者；不成功的事物。例如: "[She](/post/she/) considered [herself](/post/herself/) [a](/post/a/) [failure](/post/failure/) [in](/post/in/) [her](/post/her/) [career](/post/career/)."
+- **动词**: 未能成功；失败。例如: "[The](/zh/post/the/) [project](/zh/post/project/) failed [due](/zh/post/due/) [to](/zh/post/to/) [poor](/zh/post/poor/) planning."
+- **名词**: 失败；不及格。例如: "[He](/zh/post/he/) was [on](/zh/post/on/) [the](/zh/post/the/) verge [of](/zh/post/of/) failing [the](/zh/post/the/) [exam](/zh/post/exam/)."
+- **名词**: 失败者；不成功的事物。例如: "[She](/zh/post/she/) considered [herself](/zh/post/herself/) [a](/zh/post/a/) [failure](/zh/post/failure/) [in](/zh/post/in/) [her](/zh/post/her/) [career](/zh/post/career/)."
 
 ## 短语
-- "[to](/post/to/) [fail](/post/fail/) [in](/post/in/) [something](/post/something/)" 在某事上失败。
-- "[to](/post/to/) [fail](/post/fail/) an [exam](/post/exam/)" 考试不及格。
-- "[a](/post/a/) failed [attempt](/post/attempt/)" 一次失败的尝试。
+- "[to](/zh/post/to/) [fail](/zh/post/fail/) [in](/zh/post/in/) [something](/zh/post/something/)" 在某事上失败。
+- "[to](/zh/post/to/) [fail](/zh/post/fail/) an [exam](/zh/post/exam/)" 考试不及格。
+- "[a](/zh/post/a/) failed [attempt](/zh/post/attempt/)" 一次失败的尝试。
 
 ## 例句
-- 动词: "[Despite](/post/despite/) [his](/post/his/) [best](/post/best/) efforts, [he](/post/he/) failed [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [task](/post/task/) [on](/post/on/) [time](/post/time/)."
-- 名词: "[She](/post/she/) was devastated [when](/post/when/) [she](/post/she/) received [a](/post/a/) failing [grade](/post/grade/) [on](/post/on/) [her](/post/her/) [report](/post/report/) [card](/post/card/)."
-- 名词: "[The](/post/the/) [new](/post/new/) [product](/post/product/) turned [out](/post/out/) [to](/post/to/) [be](/post/be/) [a](/post/a/) [failure](/post/failure/) [in](/post/in/) [the](/post/the/) [market](/post/market/)."
+- 动词: "[Despite](/zh/post/despite/) [his](/zh/post/his/) [best](/zh/post/best/) efforts, [he](/zh/post/he/) failed [to](/zh/post/to/) [complete](/zh/post/complete/) [the](/zh/post/the/) [task](/zh/post/task/) [on](/zh/post/on/) [time](/zh/post/time/)."
+- 名词: "[She](/zh/post/she/) was devastated [when](/zh/post/when/) [she](/zh/post/she/) received [a](/zh/post/a/) failing [grade](/zh/post/grade/) [on](/zh/post/on/) [her](/zh/post/her/) [report](/zh/post/report/) [card](/zh/post/card/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [product](/zh/post/product/) turned [out](/zh/post/out/) [to](/zh/post/to/) [be](/zh/post/be/) [a](/zh/post/a/) [failure](/zh/post/failure/) [in](/zh/post/in/) [the](/zh/post/the/) [market](/zh/post/market/)."
 
 ## 同义词
 - 不及格: 
-  - "[to](/post/to/) flunk"
-  - "[to](/post/to/) [be](/post/be/) unsuccessful"
+  - "[to](/zh/post/to/) flunk"
+  - "[to](/zh/post/to/) [be](/zh/post/be/) unsuccessful"
 - 失败:
-  - "[to](/post/to/) [fall](/post/fall/) [short](/post/short/)"
-  - "[to](/post/to/) [come](/post/come/) [up](/post/up/) [short](/post/short/)"
-  - "[to](/post/to/) [miss](/post/miss/) [the](/post/the/) [mark](/post/mark/)"
+  - "[to](/zh/post/to/) [fall](/zh/post/fall/) [short](/zh/post/short/)"
+  - "[to](/zh/post/to/) [come](/zh/post/come/) [up](/zh/post/up/) [short](/zh/post/short/)"
+  - "[to](/zh/post/to/) [miss](/zh/post/miss/) [the](/zh/post/the/) [mark](/zh/post/mark/)"

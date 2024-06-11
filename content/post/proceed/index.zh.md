@@ -11,20 +11,20 @@ keywords = ['ai words', 'proceed']
 /prəˈsiːd/
 
 ## 释义
-- **动词**: 继续进行；前进。例如: "[After](/post/after/) [a](/post/a/) [short](/post/short/) [break](/post/break/), [we](/post/we/) proceeded [with](/post/with/) [the](/post/the/) [meeting](/post/meeting/)."
-- **名词**: （尤指正式的）开始，进行。例如: "[The](/post/the/) [opening](/post/opening/) [ceremony](/post/ceremony/) [of](/post/of/) [the](/post/the/) [event](/post/event/) was followed [by](/post/by/) [the](/post/the/) [main](/post/main/) [proceed](/post/proceed/)."
+- **动词**: 继续进行；前进。例如: "[After](/zh/post/after/) [a](/zh/post/a/) [short](/zh/post/short/) [break](/zh/post/break/), [we](/zh/post/we/) proceeded [with](/zh/post/with/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
+- **名词**: （尤指正式的）开始，进行。例如: "[The](/zh/post/the/) [opening](/zh/post/opening/) [ceremony](/zh/post/ceremony/) [of](/zh/post/of/) [the](/zh/post/the/) [event](/zh/post/event/) was followed [by](/zh/post/by/) [the](/zh/post/the/) [main](/zh/post/main/) [proceed](/zh/post/proceed/)."
 
 ## 短语
-- "[to](/post/to/) [proceed](/post/proceed/) [with](/post/with/) [something](/post/something/)" 继续做某事。例如: "[We](/post/we/) decided [to](/post/to/) [proceed](/post/proceed/) [with](/post/with/) [the](/post/the/) [project](/post/project/) [despite](/post/despite/) [the](/post/the/) difficulties."
-- "[without](/post/without/) [further](/post/further/) ado, let's [proceed](/post/proceed/)" 没有更多耽搁，让我们开始。例如: "[Without](/post/without/) [further](/post/further/) ado, let's [proceed](/post/proceed/) [to](/post/to/) [the](/post/the/) [next](/post/next/) agenda."
+- "[to](/zh/post/to/) [proceed](/zh/post/proceed/) [with](/zh/post/with/) [something](/zh/post/something/)" 继续做某事。例如: "[We](/zh/post/we/) decided [to](/zh/post/to/) [proceed](/zh/post/proceed/) [with](/zh/post/with/) [the](/zh/post/the/) [project](/zh/post/project/) [despite](/zh/post/despite/) [the](/zh/post/the/) difficulties."
+- "[without](/zh/post/without/) [further](/zh/post/further/) ado, let's [proceed](/zh/post/proceed/)" 没有更多耽搁，让我们开始。例如: "[Without](/zh/post/without/) [further](/zh/post/further/) ado, let's [proceed](/zh/post/proceed/) [to](/zh/post/to/) [the](/zh/post/the/) [next](/zh/post/next/) agenda."
 
 ## 例句
-- 动词: "[Once](/post/once/) [we](/post/we/) [have](/post/have/) [all](/post/all/) [the](/post/the/) [necessary](/post/necessary/) [information](/post/information/), [we](/post/we/) [can](/post/can/) [proceed](/post/proceed/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [decision](/post/decision/)."
-- 名词: "[The](/post/the/) auctioneer announced [the](/post/the/) [start](/post/start/) [of](/post/of/) [the](/post/the/) bidding, [and](/post/and/) [the](/post/the/) proceeds [would](/post/would/) [go](/post/go/) [to](/post/to/) [charity](/post/charity/)."
+- 动词: "[Once](/zh/post/once/) [we](/zh/post/we/) [have](/zh/post/have/) [all](/zh/post/all/) [the](/zh/post/the/) [necessary](/zh/post/necessary/) [information](/zh/post/information/), [we](/zh/post/we/) [can](/zh/post/can/) [proceed](/zh/post/proceed/) [to](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) [decision](/zh/post/decision/)."
+- 名词: "[The](/zh/post/the/) auctioneer announced [the](/zh/post/the/) [start](/zh/post/start/) [of](/zh/post/of/) [the](/zh/post/the/) bidding, [and](/zh/post/and/) [the](/zh/post/the/) proceeds [would](/zh/post/would/) [go](/zh/post/go/) [to](/zh/post/to/) [charity](/zh/post/charity/)."
 
 ## 同义词
-- [continue](/post/continue/)
-- [advance](/post/advance/)
-- [go](/post/go/) [on](/post/on/)
-- [move](/post/move/) [forward](/post/forward/)
+- [continue](/zh/post/continue/)
+- [advance](/zh/post/advance/)
+- [go](/zh/post/go/) [on](/zh/post/on/)
+- [move](/zh/post/move/) [forward](/zh/post/forward/)
 - commence

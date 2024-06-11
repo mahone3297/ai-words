@@ -11,22 +11,22 @@ keywords = ['ai words', 'slow']
 /sləʊ/
 
 ## 释义
-- **形容词**: 缓慢的，不快的。例如: "[The](/post/the/) turtle moved [at](/post/at/) [a](/post/a/) [slow](/post/slow/) [pace](/post/pace/)."
-- **副词**: 缓慢地，慢慢地。例如: "[Please](/post/please/) [drive](/post/drive/) [slow](/post/slow/) [on](/post/on/) [the](/post/the/) icy [road](/post/road/)."
-- **动词**: 使减速，放慢。例如: "[The](/post/the/) [old](/post/old/) [computer](/post/computer/) started [to](/post/to/) [slow](/post/slow/) [down](/post/down/) [after](/post/after/) running [many](/post/many/) programs."
+- **形容词**: 缓慢的，不快的。例如: "[The](/zh/post/the/) turtle moved [at](/zh/post/at/) [a](/zh/post/a/) [slow](/zh/post/slow/) [pace](/zh/post/pace/)."
+- **副词**: 缓慢地，慢慢地。例如: "[Please](/zh/post/please/) [drive](/zh/post/drive/) [slow](/zh/post/slow/) [on](/zh/post/on/) [the](/zh/post/the/) icy [road](/zh/post/road/)."
+- **动词**: 使减速，放慢。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [computer](/zh/post/computer/) started [to](/zh/post/to/) [slow](/zh/post/slow/) [down](/zh/post/down/) [after](/zh/post/after/) running [many](/zh/post/many/) programs."
 
 ## 短语
-- "[Slow](/post/slow/) [down](/post/down/)" 意味着减缓速度或节奏。
-- "[Take](/post/take/) [it](/post/it/) [slow](/post/slow/)" 建议某人谨慎行事，不要急于求成。
+- "[Slow](/zh/post/slow/) [down](/zh/post/down/)" 意味着减缓速度或节奏。
+- "[Take](/zh/post/take/) [it](/zh/post/it/) [slow](/zh/post/slow/)" 建议某人谨慎行事，不要急于求成。
 
 ## 例句
-- 形容词: "[He](/post/he/) is [a](/post/a/) [slow](/post/slow/) learner, [but](/post/but/) [very](/post/very/) persistent."
-- 副词: "[She](/post/she/) played [the](/post/the/) [piano](/post/piano/) [slow](/post/slow/) [and](/post/and/) melodiously."
-- 动词: "[The](/post/the/) [traffic](/post/traffic/) slowed [us](/post/us/) [down](/post/down/), [so](/post/so/) [we](/post/we/) arrived [late](/post/late/)."
+- 形容词: "[He](/zh/post/he/) is [a](/zh/post/a/) [slow](/zh/post/slow/) learner, [but](/zh/post/but/) [very](/zh/post/very/) persistent."
+- 副词: "[She](/zh/post/she/) played [the](/zh/post/the/) [piano](/zh/post/piano/) [slow](/zh/post/slow/) [and](/zh/post/and/) melodiously."
+- 动词: "[The](/zh/post/the/) [traffic](/zh/post/traffic/) slowed [us](/zh/post/us/) [down](/zh/post/down/), [so](/zh/post/so/) [we](/zh/post/we/) arrived [late](/zh/post/late/)."
 
 ## 同义词
 - Sluggish
 - Leisurely
-- [Gradual](/post/gradual/)
-- [Steady](/post/steady/)
+- [Gradual](/zh/post/gradual/)
+- [Steady](/zh/post/steady/)
 - unhurried

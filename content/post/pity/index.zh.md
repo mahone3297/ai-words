@@ -11,22 +11,22 @@ keywords = ['ai words', 'pity']
 /pɪti/
 
 ## 释义
-- **名词**: 对不幸或苦难的同情；怜悯。例如: "[She](/post/she/) felt [deep](/post/deep/) [pity](/post/pity/) [for](/post/for/) [the](/post/the/) homeless [child](/post/child/)."
-- **动词**: 对...表示怜悯或同情。例如: "[He](/post/he/) pitied [her](/post/her/) [for](/post/for/) [the](/post/the/) [loss](/post/loss/) [of](/post/of/) [her](/post/her/) parents."
-- **形容词**: 值得怜悯的；可怜的。例如: "[The](/post/the/) [old](/post/old/) [dog](/post/dog/) looked [so](/post/so/) [pity](/post/pity/) [that](/post/that/) [everyone](/post/everyone/) stopped [to](/post/to/) [give](/post/give/) [it](/post/it/) [some](/post/some/) [food](/post/food/)."
+- **名词**: 对不幸或苦难的同情；怜悯。例如: "[She](/zh/post/she/) felt [deep](/zh/post/deep/) [pity](/zh/post/pity/) [for](/zh/post/for/) [the](/zh/post/the/) homeless [child](/zh/post/child/)."
+- **动词**: 对...表示怜悯或同情。例如: "[He](/zh/post/he/) pitied [her](/zh/post/her/) [for](/zh/post/for/) [the](/zh/post/the/) [loss](/zh/post/loss/) [of](/zh/post/of/) [her](/zh/post/her/) parents."
+- **形容词**: 值得怜悯的；可怜的。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [dog](/zh/post/dog/) looked [so](/zh/post/so/) [pity](/zh/post/pity/) [that](/zh/post/that/) [everyone](/zh/post/everyone/) stopped [to](/zh/post/to/) [give](/zh/post/give/) [it](/zh/post/it/) [some](/zh/post/some/) [food](/zh/post/food/)."
 
 ## 短语
-- "[have](/post/have/) [pity](/post/pity/) [on](/post/on/) [someone](/post/someone/)" 表示对某人表示同情。
-- "[feel](/post/feel/) [pity](/post/pity/) [for](/post/for/) [someone](/post/someone/)" 意味着对某人的不幸感到同情。
+- "[have](/zh/post/have/) [pity](/zh/post/pity/) [on](/zh/post/on/) [someone](/zh/post/someone/)" 表示对某人表示同情。
+- "[feel](/zh/post/feel/) [pity](/zh/post/pity/) [for](/zh/post/for/) [someone](/zh/post/someone/)" 意味着对某人的不幸感到同情。
 
 ## 例句
-- 名词: "[Her](/post/her/) eyes showed [nothing](/post/nothing/) [but](/post/but/) [pity](/post/pity/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [his](/post/his/) [broken](/post/broken/) [leg](/post/leg/)."
-- 动词: "[He](/post/he/) couldn't [help](/post/help/) [but](/post/but/) [pity](/post/pity/) [the](/post/the/) workers [in](/post/in/) [such](/post/such/) [harsh](/post/harsh/) conditions."
-- 形容词: "[The](/post/the/) [poor](/post/poor/) [animal](/post/animal/) was [in](/post/in/) [a](/post/a/) [pity](/post/pity/) [state](/post/state/) [after](/post/after/) [the](/post/the/) [accident](/post/accident/)."
+- 名词: "[Her](/zh/post/her/) eyes showed [nothing](/zh/post/nothing/) [but](/zh/post/but/) [pity](/zh/post/pity/) [when](/zh/post/when/) [she](/zh/post/she/) [saw](/zh/post/saw/) [his](/zh/post/his/) [broken](/zh/post/broken/) [leg](/zh/post/leg/)."
+- 动词: "[He](/zh/post/he/) couldn't [help](/zh/post/help/) [but](/zh/post/but/) [pity](/zh/post/pity/) [the](/zh/post/the/) workers [in](/zh/post/in/) [such](/zh/post/such/) [harsh](/zh/post/harsh/) conditions."
+- 形容词: "[The](/zh/post/the/) [poor](/zh/post/poor/) [animal](/zh/post/animal/) was [in](/zh/post/in/) [a](/zh/post/a/) [pity](/zh/post/pity/) [state](/zh/post/state/) [after](/zh/post/after/) [the](/zh/post/the/) [accident](/zh/post/accident/)."
 
 ## 同义词
-- [Sympathy](/post/sympathy/)
+- [Sympathy](/zh/post/sympathy/)
 - Compassion
-- [Mercy](/post/mercy/)
+- [Mercy](/zh/post/mercy/)
 -怜惜
 - 怜悯

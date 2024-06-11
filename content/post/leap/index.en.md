@@ -7,34 +7,34 @@ description = '[liːp] vi.跳，跃 n.跳跃'
 keywords = ['ai words', 'leap']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lēp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [sudden](/en/post/sudden/), [powerful](/en/post/powerful/) [jump](/en/post/jump/) [or](/en/post/or/) [spring](/en/post/spring/), typically [with](/en/post/with/) [the](/en/post/the/) legs bent [and](/en/post/and/) [the](/en/post/the/) arms outstretched [forward](/en/post/forward/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [athlete](/en/post/athlete/) made [a](/en/post/a/) [magnificent](/en/post/magnificent/) [leap](/en/post/leap/) [over](/en/post/over/) [the](/en/post/the/) [high](/en/post/high/) hurdle."
-- **[Verb](/en/post/verb/)**: 
-  - **Transitive [Verb](/en/post/verb/)**: [To](/en/post/to/) [jump](/en/post/jump/) [over](/en/post/over/) [or](/en/post/or/) [across](/en/post/across/) (an [obstacle](/en/post/obstacle/)), [especially](/en/post/especially/) [with](/en/post/with/) [one](/en/post/one/) [powerful](/en/post/powerful/) [bound](/en/post/bound/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) leaped [the](/en/post/the/) [stream](/en/post/stream/) [in](/en/post/in/) [a](/en/post/a/) [single](/en/post/single/) [bound](/en/post/bound/)."
-  - **Intransitive [Verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [suddenly](/en/post/suddenly/) [and](/en/post/and/) [quickly](/en/post/quickly/) [through](/en/post/through/) [the](/en/post/the/) [air](/en/post/air/) [by](/en/post/by/) jumping; [to](/en/post/to/) [spring](/en/post/spring/) [clear](/en/post/clear/) [of](/en/post/of/) [the](/en/post/the/) [ground](/en/post/ground/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [cat](/en/post/cat/) leaped [onto](/en/post/onto/) [the](/en/post/the/) windowsill."
-  - **Figurative**: [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [sudden](/en/post/sudden/), [large](/en/post/large/) [advance](/en/post/advance/) [or](/en/post/or/) [increase](/en/post/increase/); [to](/en/post/to/) [undergo](/en/post/undergo/) [a](/en/post/a/) [rapid](/en/post/rapid/) [change](/en/post/change/). [For](/en/post/for/) [example](/en/post/example/): "[Technology](/en/post/technology/) has leaped [ahead](/en/post/ahead/) [in](/en/post/in/) [recent](/en/post/recent/) years."
+- **[Noun](/post/noun/)**: [A](/post/a/) [sudden](/post/sudden/), [powerful](/post/powerful/) [jump](/post/jump/) [or](/post/or/) [spring](/post/spring/), typically [with](/post/with/) [the](/post/the/) legs bent [and](/post/and/) [the](/post/the/) arms outstretched [forward](/post/forward/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [athlete](/post/athlete/) made [a](/post/a/) [magnificent](/post/magnificent/) [leap](/post/leap/) [over](/post/over/) [the](/post/the/) [high](/post/high/) hurdle."
+- **[Verb](/post/verb/)**: 
+  - **Transitive [Verb](/post/verb/)**: [To](/post/to/) [jump](/post/jump/) [over](/post/over/) [or](/post/or/) [across](/post/across/) (an [obstacle](/post/obstacle/)), [especially](/post/especially/) [with](/post/with/) [one](/post/one/) [powerful](/post/powerful/) [bound](/post/bound/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) leaped [the](/post/the/) [stream](/post/stream/) [in](/post/in/) [a](/post/a/) [single](/post/single/) [bound](/post/bound/)."
+  - **Intransitive [Verb](/post/verb/)**: [To](/post/to/) [move](/post/move/) [suddenly](/post/suddenly/) [and](/post/and/) [quickly](/post/quickly/) [through](/post/through/) [the](/post/the/) [air](/post/air/) [by](/post/by/) jumping; [to](/post/to/) [spring](/post/spring/) [clear](/post/clear/) [of](/post/of/) [the](/post/the/) [ground](/post/ground/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [cat](/post/cat/) leaped [onto](/post/onto/) [the](/post/the/) windowsill."
+  - **Figurative**: [To](/post/to/) [make](/post/make/) [a](/post/a/) [sudden](/post/sudden/), [large](/post/large/) [advance](/post/advance/) [or](/post/or/) [increase](/post/increase/); [to](/post/to/) [undergo](/post/undergo/) [a](/post/a/) [rapid](/post/rapid/) [change](/post/change/). [For](/post/for/) [example](/post/example/): "[Technology](/post/technology/) has leaped [ahead](/post/ahead/) [in](/post/in/) [recent](/post/recent/) years."
   
 ## Phrases
-- "[Leap](/en/post/leap/) [of](/en/post/of/) [faith](/en/post/faith/)": An [act](/en/post/act/) [of](/en/post/of/) [belief](/en/post/belief/) [or](/en/post/or/) [trust](/en/post/trust/) [in](/en/post/in/) [something](/en/post/something/) [without](/en/post/without/) [proof](/en/post/proof/) [or](/en/post/or/) [evidence](/en/post/evidence/).
-- "[Take](/en/post/take/) [a](/en/post/a/) [leap](/en/post/leap/)": [To](/en/post/to/) [decide](/en/post/decide/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [that](/en/post/that/) involves [risk](/en/post/risk/) [or](/en/post/or/) [a](/en/post/a/) [significant](/en/post/significant/) [change](/en/post/change/).
-- "[Leap](/en/post/leap/) [year](/en/post/year/)": [A](/en/post/a/) [calendar](/en/post/calendar/) [year](/en/post/year/) containing [one](/en/post/one/) [additional](/en/post/additional/) [day](/en/post/day/) (February 29) [to](/en/post/to/) [keep](/en/post/keep/) [the](/en/post/the/) [calendar](/en/post/calendar/) synchronized [with](/en/post/with/) Earth's revolutions [around](/en/post/around/) [the](/en/post/the/) [Sun](/en/post/sun/).
+- "[Leap](/post/leap/) [of](/post/of/) [faith](/post/faith/)": An [act](/post/act/) [of](/post/of/) [belief](/post/belief/) [or](/post/or/) [trust](/post/trust/) [in](/post/in/) [something](/post/something/) [without](/post/without/) [proof](/post/proof/) [or](/post/or/) [evidence](/post/evidence/).
+- "[Take](/post/take/) [a](/post/a/) [leap](/post/leap/)": [To](/post/to/) [decide](/post/decide/) [to](/post/to/) [do](/post/do/) [something](/post/something/) [that](/post/that/) involves [risk](/post/risk/) [or](/post/or/) [a](/post/a/) [significant](/post/significant/) [change](/post/change/).
+- "[Leap](/post/leap/) [year](/post/year/)": [A](/post/a/) [calendar](/post/calendar/) [year](/post/year/) containing [one](/post/one/) [additional](/post/additional/) [day](/post/day/) (February 29) [to](/post/to/) [keep](/post/keep/) [the](/post/the/) [calendar](/post/calendar/) synchronized [with](/post/with/) Earth's revolutions [around](/post/around/) [the](/post/the/) [Sun](/post/sun/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) incredible [leap](/en/post/leap/) secured [him](/en/post/him/) [the](/en/post/the/) [gold](/en/post/gold/) [medal](/en/post/medal/) [in](/en/post/in/) [the](/en/post/the/) [long](/en/post/long/) [jump](/en/post/jump/) [competition](/en/post/competition/)."
-- **[Verb](/en/post/verb/)**: 
-  - "[The](/en/post/the/) gazelle leaped gracefully [away](/en/post/away/) [from](/en/post/from/) [the](/en/post/the/) approaching predator."
-  - "[She](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [leap](/en/post/leap/) [and](/en/post/and/) [start](/en/post/start/) [her](/en/post/her/) [own](/en/post/own/) [business](/en/post/business/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) incredible [leap](/post/leap/) secured [him](/post/him/) [the](/post/the/) [gold](/post/gold/) [medal](/post/medal/) [in](/post/in/) [the](/post/the/) [long](/post/long/) [jump](/post/jump/) [competition](/post/competition/)."
+- **[Verb](/post/verb/)**: 
+  - "[The](/post/the/) gazelle leaped gracefully [away](/post/away/) [from](/post/from/) [the](/post/the/) approaching predator."
+  - "[She](/post/she/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [leap](/post/leap/) [and](/post/and/) [start](/post/start/) [her](/post/her/) [own](/post/own/) [business](/post/business/)."
 
 ## Synonyms
-- [Jump](/en/post/jump/)
-- [Bound](/en/post/bound/)
-- [Spring](/en/post/spring/)
+- [Jump](/post/jump/)
+- [Bound](/post/bound/)
+- [Spring](/post/spring/)
 - Hop
 - Vault
 - Skip
-- [Dive](/en/post/dive/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
-- [Advance](/en/post/advance/) (figuratively)
+- [Dive](/post/dive/) ([in](/post/in/) [some](/post/some/) contexts)
+- [Advance](/post/advance/) (figuratively)
 - Surge (figuratively)

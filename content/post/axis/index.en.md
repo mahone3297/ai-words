@@ -7,36 +7,36 @@ description = '[ˈæksis] n.轴，轴线；中心线'
 keywords = ['ai words', 'axis']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæksiːz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) [plane](/en/post/plane/) [around](/en/post/around/) [which](/en/post/which/) [a](/en/post/a/) [body](/en/post/body/) [or](/en/post/or/) [object](/en/post/object/) rotates, typically [one](/en/post/one/) [that](/en/post/that/) passes [through](/en/post/through/) [its](/en/post/its/) center [of](/en/post/of/) [gravity](/en/post/gravity/): *[The](/en/post/the/) [Earth](/en/post/earth/) rotates [on](/en/post/on/) [its](/en/post/its/) [axis](/en/post/axis/).*
-2. [The](/en/post/the/) [main](/en/post/main/) [direction](/en/post/direction/) [or](/en/post/or/) [line](/en/post/line/) [of](/en/post/of/) [thought](/en/post/thought/), [interest](/en/post/interest/), [or](/en/post/or/) [action](/en/post/action/): *[The](/en/post/the/) project's [axis](/en/post/axis/) is innovation [and](/en/post/and/) sustainability.*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [line](/post/line/) [or](/post/or/) [plane](/post/plane/) [around](/post/around/) [which](/post/which/) [a](/post/a/) [body](/post/body/) [or](/post/or/) [object](/post/object/) rotates, typically [one](/post/one/) [that](/post/that/) passes [through](/post/through/) [its](/post/its/) center [of](/post/of/) [gravity](/post/gravity/): *[The](/post/the/) [Earth](/post/earth/) rotates [on](/post/on/) [its](/post/its/) [axis](/post/axis/).*
+2. [The](/post/the/) [main](/post/main/) [direction](/post/direction/) [or](/post/or/) [line](/post/line/) [of](/post/of/) [thought](/post/thought/), [interest](/post/interest/), [or](/post/or/) [action](/post/action/): *[The](/post/the/) project's [axis](/post/axis/) is innovation [and](/post/and/) sustainability.*
 
-### [Verb](/en/post/verb/) (informal)
-1. [To](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [central](/en/post/central/) [point](/en/post/point/) [or](/en/post/or/) [focus](/en/post/focus/) [of](/en/post/of/) [something](/en/post/something/): *[This](/en/post/this/) [event](/en/post/event/) is [the](/en/post/the/) [axis](/en/post/axis/) [of](/en/post/of/) [our](/en/post/our/) [social](/en/post/social/) [calendar](/en/post/calendar/) [this](/en/post/this/) [month](/en/post/month/).*
-2. [To](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [determine](/en/post/determine/) [the](/en/post/the/) orientation [or](/en/post/or/) [direction](/en/post/direction/) [of](/en/post/of/) [something](/en/post/something/): *[They](/en/post/they/) aligned [their](/en/post/their/) [strategy](/en/post/strategy/) [with](/en/post/with/) [the](/en/post/the/) company's [new](/en/post/new/) [axis](/en/post/axis/).*
+### [Verb](/post/verb/) (informal)
+1. [To](/post/to/) [be](/post/be/) [the](/post/the/) [central](/post/central/) [point](/post/point/) [or](/post/or/) [focus](/post/focus/) [of](/post/of/) [something](/post/something/): *[This](/post/this/) [event](/post/event/) is [the](/post/the/) [axis](/post/axis/) [of](/post/of/) [our](/post/our/) [social](/post/social/) [calendar](/post/calendar/) [this](/post/this/) [month](/post/month/).*
+2. [To](/post/to/) [establish](/post/establish/) [or](/post/or/) [determine](/post/determine/) [the](/post/the/) orientation [or](/post/or/) [direction](/post/direction/) [of](/post/of/) [something](/post/something/): *[They](/post/they/) aligned [their](/post/their/) [strategy](/post/strategy/) [with](/post/with/) [the](/post/the/) company's [new](/post/new/) [axis](/post/axis/).*
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [or](/en/post/or/) situated [along](/en/post/along/) [a](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) [axis](/en/post/axis/): *[The](/en/post/the/) building's [design](/en/post/design/) is based [on](/en/post/on/) [a](/en/post/a/) radial [axis](/en/post/axis/).*
-2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/) [or](/en/post/or/) [field](/en/post/field/): *Anatomy textbooks [often](/en/post/often/) [discuss](/en/post/discuss/) [the](/en/post/the/) cranial [axis](/en/post/axis/).*
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [or](/post/or/) situated [along](/post/along/) [a](/post/a/) [line](/post/line/) [or](/post/or/) [axis](/post/axis/): *[The](/post/the/) building's [design](/post/design/) is based [on](/post/on/) [a](/post/a/) radial [axis](/post/axis/).*
+2. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/) [or](/post/or/) [field](/post/field/): *Anatomy textbooks [often](/post/often/) [discuss](/post/discuss/) [the](/post/the/) cranial [axis](/post/axis/).*
 
 ## Phrases
-- "[On](/en/post/on/) [the](/en/post/the/) [axis](/en/post/axis/) [of](/en/post/of/)" implies [a](/en/post/a/) [relationship](/en/post/relationship/) [to](/en/post/to/) [or](/en/post/or/) alignment [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [direction](/en/post/direction/) [or](/en/post/or/) [focus](/en/post/focus/).
-- "[Shift](/en/post/shift/) [the](/en/post/the/) [axis](/en/post/axis/) [of](/en/post/of/) [discussion](/en/post/discussion/)" [means](/en/post/means/) [to](/en/post/to/) [change](/en/post/change/) [the](/en/post/the/) [topic](/en/post/topic/) [or](/en/post/or/) [main](/en/post/main/) [focus](/en/post/focus/) [of](/en/post/of/) [a](/en/post/a/) [conversation](/en/post/conversation/).
-- "[Axis](/en/post/axis/) [of](/en/post/of/) [power](/en/post/power/)" historically referred [to](/en/post/to/) [major](/en/post/major/) nations [with](/en/post/with/) [significant](/en/post/significant/) [influence](/en/post/influence/) [in](/en/post/in/) global [politics](/en/post/politics/).
+- "[On](/post/on/) [the](/post/the/) [axis](/post/axis/) [of](/post/of/)" implies [a](/post/a/) [relationship](/post/relationship/) [to](/post/to/) [or](/post/or/) alignment [with](/post/with/) [a](/post/a/) [particular](/post/particular/) [direction](/post/direction/) [or](/post/or/) [focus](/post/focus/).
+- "[Shift](/post/shift/) [the](/post/the/) [axis](/post/axis/) [of](/post/of/) [discussion](/post/discussion/)" [means](/post/means/) [to](/post/to/) [change](/post/change/) [the](/post/the/) [topic](/post/topic/) [or](/post/or/) [main](/post/main/) [focus](/post/focus/) [of](/post/of/) [a](/post/a/) [conversation](/post/conversation/).
+- "[Axis](/post/axis/) [of](/post/of/) [power](/post/power/)" historically referred [to](/post/to/) [major](/post/major/) nations [with](/post/with/) [significant](/post/significant/) [influence](/post/influence/) [in](/post/in/) global [politics](/post/politics/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[The](/en/post/the/) tree's [trunk](/en/post/trunk/) grew [straight](/en/post/straight/) [down](/en/post/down/) [the](/en/post/the/) [axis](/en/post/axis/) [of](/en/post/of/) [the](/en/post/the/) [garden](/en/post/garden/).*
-- **[Verb](/en/post/verb/)**: *[To](/en/post/to/) [find](/en/post/find/) [a](/en/post/a/) [balance](/en/post/balance/) [between](/en/post/between/) [work](/en/post/work/) [and](/en/post/and/) [life](/en/post/life/), [we](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) realign [our](/en/post/our/) [personal](/en/post/personal/) [axis](/en/post/axis/).*
-- **[Adjective](/en/post/adjective/)**: *[The](/en/post/the/) [exhibit](/en/post/exhibit/) showcased [various](/en/post/various/) works [of](/en/post/of/) [art](/en/post/art/) [along](/en/post/along/) [the](/en/post/the/) [historical](/en/post/historical/) [art](/en/post/art/) movement's [axis](/en/post/axis/).*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[The](/post/the/) tree's [trunk](/post/trunk/) grew [straight](/post/straight/) [down](/post/down/) [the](/post/the/) [axis](/post/axis/) [of](/post/of/) [the](/post/the/) [garden](/post/garden/).*
+- **[Verb](/post/verb/)**: *[To](/post/to/) [find](/post/find/) [a](/post/a/) [balance](/post/balance/) [between](/post/between/) [work](/post/work/) [and](/post/and/) [life](/post/life/), [we](/post/we/) [need](/post/need/) [to](/post/to/) realign [our](/post/our/) [personal](/post/personal/) [axis](/post/axis/).*
+- **[Adjective](/post/adjective/)**: *[The](/post/the/) [exhibit](/post/exhibit/) showcased [various](/post/various/) works [of](/post/of/) [art](/post/art/) [along](/post/along/) [the](/post/the/) [historical](/post/historical/) [art](/post/art/) movement's [axis](/post/axis/).*
 
 ## Synonyms
-- Pivot [point](/en/post/point/)
+- Pivot [point](/post/point/)
 - Centerline
-- [Axis](/en/post/axis/) [of](/en/post/of/) [rotation](/en/post/rotation/)
-- [Main](/en/post/main/) [focus](/en/post/focus/)
-- [Core](/en/post/core/) [principle](/en/post/principle/)
-- [Central](/en/post/central/) [axis](/en/post/axis/)
+- [Axis](/post/axis/) [of](/post/of/) [rotation](/post/rotation/)
+- [Main](/post/main/) [focus](/post/focus/)
+- [Core](/post/core/) [principle](/post/principle/)
+- [Central](/post/central/) [axis](/post/axis/)

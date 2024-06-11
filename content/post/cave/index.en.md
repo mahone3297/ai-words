@@ -7,38 +7,38 @@ description = '[keiv] n.山洞，洞穴，窑洞'
 keywords = ['ai words', 'cave']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kæv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [cave](/en/post/cave/) is [a](/en/post/a/) [natural](/en/post/natural/) [underground](/en/post/underground/) [hollow](/en/post/hollow/) [space](/en/post/space/), typically formed [by](/en/post/by/) [the](/en/post/the/) erosion [of](/en/post/of/) [rock](/en/post/rock/), [often](/en/post/often/) [found](/en/post/found/) [in](/en/post/in/) limestone [or](/en/post/or/) karst regions. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [shelter](/en/post/shelter/) [or](/en/post/or/) hiding [place](/en/post/place/), [especially](/en/post/especially/) [one](/en/post/one/) that's [large](/en/post/large/) [enough](/en/post/enough/) [to](/en/post/to/) [accommodate](/en/post/accommodate/) [people](/en/post/people/) [or](/en/post/or/) animals.
+### [Noun](/post/noun/)
+[A](/post/a/) [cave](/post/cave/) is [a](/post/a/) [natural](/post/natural/) [underground](/post/underground/) [hollow](/post/hollow/) [space](/post/space/), typically formed [by](/post/by/) [the](/post/the/) erosion [of](/post/of/) [rock](/post/rock/), [often](/post/often/) [found](/post/found/) [in](/post/in/) limestone [or](/post/or/) karst regions. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [shelter](/post/shelter/) [or](/post/or/) hiding [place](/post/place/), [especially](/post/especially/) [one](/post/one/) that's [large](/post/large/) [enough](/post/enough/) [to](/post/to/) [accommodate](/post/accommodate/) [people](/post/people/) [or](/post/or/) animals.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [cave](/en/post/cave/) ([as](/en/post/as/) [in](/en/post/in/) "[cave](/en/post/cave/) [in](/en/post/in/)") [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [yield](/en/post/yield/), [give](/en/post/give/) [in](/en/post/in/), [or](/en/post/or/) [collapse](/en/post/collapse/) [under](/en/post/under/) [pressure](/en/post/pressure/), [especially](/en/post/especially/) emotionally [or](/en/post/or/) mentally. [In](/en/post/in/) [a](/en/post/a/) geological context, [it](/en/post/it/) refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) rocks collapsing [or](/en/post/or/) forming caves.
+### [Verb](/post/verb/)
+[To](/post/to/) [cave](/post/cave/) ([as](/post/as/) [in](/post/in/) "[cave](/post/cave/) [in](/post/in/)") [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [yield](/post/yield/), [give](/post/give/) [in](/post/in/), [or](/post/or/) [collapse](/post/collapse/) [under](/post/under/) [pressure](/post/pressure/), [especially](/post/especially/) emotionally [or](/post/or/) mentally. [In](/post/in/) [a](/post/a/) geological context, [it](/post/it/) refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) rocks collapsing [or](/post/or/) forming caves.
 
-### [Adjective](/en/post/adjective/)
-Cave-like describes [something](/en/post/something/) having [the](/en/post/the/) [appearance](/en/post/appearance/) [or](/en/post/or/) characteristics [of](/en/post/of/) [a](/en/post/a/) [cave](/en/post/cave/), [with](/en/post/with/) [its](/en/post/its/) [dim](/en/post/dim/) lighting, rocky formations, [or](/en/post/or/) echoing acoustics.
+### [Adjective](/post/adjective/)
+Cave-like describes [something](/post/something/) having [the](/post/the/) [appearance](/post/appearance/) [or](/post/or/) characteristics [of](/post/of/) [a](/post/a/) [cave](/post/cave/), [with](/post/with/) [its](/post/its/) [dim](/post/dim/) lighting, rocky formations, [or](/post/or/) echoing acoustics.
 
-### [Adverb](/en/post/adverb/)
-Cavelike ([or](/en/post/or/) cavernously) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [manner](/en/post/manner/) [or](/en/post/or/) [environment](/en/post/environment/) [that](/en/post/that/) is reminiscent [of](/en/post/of/) [a](/en/post/a/) [cave](/en/post/cave/), [with](/en/post/with/) echoes, darkness, [or](/en/post/or/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [depth](/en/post/depth/).
+### [Adverb](/post/adverb/)
+Cavelike ([or](/post/or/) cavernously) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [manner](/post/manner/) [or](/post/or/) [environment](/post/environment/) [that](/post/that/) is reminiscent [of](/post/of/) [a](/post/a/) [cave](/post/cave/), [with](/post/with/) echoes, darkness, [or](/post/or/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [depth](/post/depth/).
 
 ## Phrases
-- "[Explore](/en/post/explore/) [a](/en/post/a/) [cave](/en/post/cave/)" [means](/en/post/means/) [to](/en/post/to/) [venture](/en/post/venture/) [into](/en/post/into/) [a](/en/post/a/) [cave](/en/post/cave/) [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) [discovery](/en/post/discovery/) [or](/en/post/or/) [adventure](/en/post/adventure/).
-- "[Cave](/en/post/cave/) paintings" are [ancient](/en/post/ancient/) artwork [found](/en/post/found/) [in](/en/post/in/) [natural](/en/post/natural/) cavities.
-- "[The](/en/post/the/) [cave](/en/post/cave/) [system](/en/post/system/) was [vast](/en/post/vast/)" highlights [the](/en/post/the/) [size](/en/post/size/) [of](/en/post/of/) [the](/en/post/the/) [underground](/en/post/underground/) [network](/en/post/network/).
+- "[Explore](/post/explore/) [a](/post/a/) [cave](/post/cave/)" [means](/post/means/) [to](/post/to/) [venture](/post/venture/) [into](/post/into/) [a](/post/a/) [cave](/post/cave/) [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) [discovery](/post/discovery/) [or](/post/or/) [adventure](/post/adventure/).
+- "[Cave](/post/cave/) paintings" are [ancient](/post/ancient/) artwork [found](/post/found/) [in](/post/in/) [natural](/post/natural/) cavities.
+- "[The](/post/the/) [cave](/post/cave/) [system](/post/system/) was [vast](/post/vast/)" highlights [the](/post/the/) [size](/post/size/) [of](/post/of/) [the](/post/the/) [underground](/post/underground/) [network](/post/network/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) spelunker [found](/en/post/found/) [a](/en/post/a/) hidden [cave](/en/post/cave/) [deep](/en/post/deep/) [in](/en/post/in/) [the](/en/post/the/) mountains."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) weeks [of](/en/post/of/) negotiation, [he](/en/post/he/) [finally](/en/post/finally/) caved [in](/en/post/in/) [and](/en/post/and/) agreed [to](/en/post/to/) [the](/en/post/the/) terms."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) ruins had [a](/en/post/a/) cave-like [atmosphere](/en/post/atmosphere/), [with](/en/post/with/) bats hanging [from](/en/post/from/) [the](/en/post/the/) [ceiling](/en/post/ceiling/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [sound](/en/post/sound/) echoed cavernously [through](/en/post/through/) [the](/en/post/the/) cave's depths."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) spelunker [found](/post/found/) [a](/post/a/) hidden [cave](/post/cave/) [deep](/post/deep/) [in](/post/in/) [the](/post/the/) mountains."
+- **[Verb](/post/verb/)**: "[After](/post/after/) weeks [of](/post/of/) negotiation, [he](/post/he/) [finally](/post/finally/) caved [in](/post/in/) [and](/post/and/) agreed [to](/post/to/) [the](/post/the/) terms."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [ancient](/post/ancient/) ruins had [a](/post/a/) cave-like [atmosphere](/post/atmosphere/), [with](/post/with/) bats hanging [from](/post/from/) [the](/post/the/) [ceiling](/post/ceiling/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [sound](/post/sound/) echoed cavernously [through](/post/through/) [the](/post/the/) cave's depths."
 
 ## Synonyms
-- [Natural](/en/post/natural/) [hollow](/en/post/hollow/)
-- [Underground](/en/post/underground/) [chamber](/en/post/chamber/)
+- [Natural](/post/natural/) [hollow](/post/hollow/)
+- [Underground](/post/underground/) [chamber](/post/chamber/)
 - Den
-- [Refuge](/en/post/refuge/)
+- [Refuge](/post/refuge/)
 - Grotto
 - Cavern
-- [Hole](/en/post/hole/) [in](/en/post/in/) [the](/en/post/the/) [ground](/en/post/ground/)
+- [Hole](/post/hole/) [in](/post/in/) [the](/post/the/) [ground](/post/ground/)

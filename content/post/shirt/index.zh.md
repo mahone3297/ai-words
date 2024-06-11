@@ -11,20 +11,20 @@ keywords = ['ai words', 'shirt']
 /ʃɜːrt/
 
 ## 释义
-- **名词**: 一种穿在上半身的衣物，通常有领子和袖子。例如: "[He](/post/he/) was wearing [a](/post/a/) [blue](/post/blue/) [shirt](/post/shirt/) [with](/post/with/) [white](/post/white/) stripes."
-- **动词**: 穿衬衫。例如: "[She](/post/she/) [quickly](/post/quickly/) shirts [before](/post/before/) leaving [for](/post/for/) [work](/post/work/)."
+- **名词**: 一种穿在上半身的衣物，通常有领子和袖子。例如: "[He](/zh/post/he/) was wearing [a](/zh/post/a/) [blue](/zh/post/blue/) [shirt](/zh/post/shirt/) [with](/zh/post/with/) [white](/zh/post/white/) stripes."
+- **动词**: 穿衬衫。例如: "[She](/zh/post/she/) [quickly](/zh/post/quickly/) shirts [before](/zh/post/before/) leaving [for](/zh/post/for/) [work](/zh/post/work/)."
 
 ## 短语
-- "Button-up [shirt](/post/shirt/)" 表示有纽扣的衬衫。
+- "Button-up [shirt](/zh/post/shirt/)" 表示有纽扣的衬衫。
 - "T-shirt" 是一种无领短袖的上衣。
-- "[Shirt](/post/shirt/) [collar](/post/collar/)" 指的是衬衫的领子部分。
+- "[Shirt](/zh/post/shirt/) [collar](/zh/post/collar/)" 指的是衬衫的领子部分。
 
 ## 例句
-- 名词: "[He](/post/he/) chose [a](/post/a/) [white](/post/white/) [shirt](/post/shirt/) [to](/post/to/) [match](/post/match/) [his](/post/his/) [black](/post/black/) pants [for](/post/for/) [the](/post/the/) [interview](/post/interview/)."
-- 动词: "[She](/post/she/) shirts [daily](/post/daily/) [for](/post/for/) [her](/post/her/) [office](/post/office/) [job](/post/job/)."
+- 名词: "[He](/zh/post/he/) chose [a](/zh/post/a/) [white](/zh/post/white/) [shirt](/zh/post/shirt/) [to](/zh/post/to/) [match](/zh/post/match/) [his](/zh/post/his/) [black](/zh/post/black/) pants [for](/zh/post/for/) [the](/zh/post/the/) [interview](/zh/post/interview/)."
+- 动词: "[She](/zh/post/she/) shirts [daily](/zh/post/daily/) [for](/zh/post/for/) [her](/zh/post/her/) [office](/zh/post/office/) [job](/zh/post/job/)."
 
 ## 同义词
 - Blouse (女性衬衫)
-- [Top](/post/top/) (泛指上衣)
+- [Top](/zh/post/top/) (泛指上衣)
 - Garment (衣物)
-- [Dress](/post/dress/) [shirt](/post/shirt/) (正式的长袖衬衫)
+- [Dress](/zh/post/dress/) [shirt](/zh/post/shirt/) (正式的长袖衬衫)

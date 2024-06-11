@@ -7,42 +7,42 @@ description = '[vjuː] n.看；视力；风景'
 keywords = ['ai words', 'view']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vjuː/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) looking [at](/en/post/at/) [something](/en/post/something/) [with](/en/post/with/) [interest](/en/post/interest/) [or](/en/post/or/) [attention](/en/post/attention/), [often](/en/post/often/) [from](/en/post/from/) [a](/en/post/a/) [particular](/en/post/particular/) [angle](/en/post/angle/) [or](/en/post/or/) [perspective](/en/post/perspective/). "[She](/en/post/she/) had [a](/en/post/a/) breathtaking [view](/en/post/view/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) [from](/en/post/from/) [her](/en/post/her/) balcony."
-2. An [opinion](/en/post/opinion/) [or](/en/post/or/) judgment [about](/en/post/about/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). "[His](/en/post/his/) [view](/en/post/view/) [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/) is [quite](/en/post/quite/) [progressive](/en/post/progressive/)."
-3. [A](/en/post/a/) [display](/en/post/display/) [or](/en/post/or/) presentation, [especially](/en/post/especially/) [on](/en/post/on/) [a](/en/post/a/) [screen](/en/post/screen/) [or](/en/post/or/) [monitor](/en/post/monitor/). "[The](/en/post/the/) students watched [a](/en/post/a/) documentary [with](/en/post/with/) [a](/en/post/a/) stunning [view](/en/post/view/) [of](/en/post/of/) [the](/en/post/the/) Amazon rainforest."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) looking [at](/post/at/) [something](/post/something/) [with](/post/with/) [interest](/post/interest/) [or](/post/or/) [attention](/post/attention/), [often](/post/often/) [from](/post/from/) [a](/post/a/) [particular](/post/particular/) [angle](/post/angle/) [or](/post/or/) [perspective](/post/perspective/). "[She](/post/she/) had [a](/post/a/) breathtaking [view](/post/view/) [of](/post/of/) [the](/post/the/) [city](/post/city/) [from](/post/from/) [her](/post/her/) balcony."
+2. An [opinion](/post/opinion/) [or](/post/or/) judgment [about](/post/about/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). "[His](/post/his/) [view](/post/view/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/) is [quite](/post/quite/) [progressive](/post/progressive/)."
+3. [A](/post/a/) [display](/post/display/) [or](/post/or/) presentation, [especially](/post/especially/) [on](/post/on/) [a](/post/a/) [screen](/post/screen/) [or](/post/or/) [monitor](/post/monitor/). "[The](/post/the/) students watched [a](/post/a/) documentary [with](/post/with/) [a](/post/a/) stunning [view](/post/view/) [of](/post/of/) [the](/post/the/) Amazon rainforest."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [look](/en/post/look/) [at](/en/post/at/) [something](/en/post/something/) attentively, [often](/en/post/often/) [with](/en/post/with/) admiration [or](/en/post/or/) appreciation. "[We](/en/post/we/) viewed [the](/en/post/the/) [sunset](/en/post/sunset/) [together](/en/post/together/) [on](/en/post/on/) [the](/en/post/the/) [beach](/en/post/beach/)."
-2. [To](/en/post/to/) [perceive](/en/post/perceive/) [or](/en/post/or/) [consider](/en/post/consider/) [something](/en/post/something/) [from](/en/post/from/) [a](/en/post/a/) [particular](/en/post/particular/) [standpoint](/en/post/standpoint/) [or](/en/post/or/) [perspective](/en/post/perspective/). "It's [important](/en/post/important/) [to](/en/post/to/) [view](/en/post/view/) challenges [as](/en/post/as/) opportunities [for](/en/post/for/) [growth](/en/post/growth/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [look](/post/look/) [at](/post/at/) [something](/post/something/) attentively, [often](/post/often/) [with](/post/with/) admiration [or](/post/or/) appreciation. "[We](/post/we/) viewed [the](/post/the/) [sunset](/post/sunset/) [together](/post/together/) [on](/post/on/) [the](/post/the/) [beach](/post/beach/)."
+2. [To](/post/to/) [perceive](/post/perceive/) [or](/post/or/) [consider](/post/consider/) [something](/post/something/) [from](/post/from/) [a](/post/a/) [particular](/post/particular/) [standpoint](/post/standpoint/) [or](/post/or/) [perspective](/post/perspective/). "It's [important](/post/important/) [to](/post/to/) [view](/post/view/) challenges [as](/post/as/) opportunities [for](/post/for/) [growth](/post/growth/)."
 
-### [Adjective](/en/post/adjective/)
-1. Giving [a](/en/post/a/) [good](/en/post/good/) [or](/en/post/or/) [extensive](/en/post/extensive/) [view](/en/post/view/) [of](/en/post/of/) [something](/en/post/something/). "[The](/en/post/the/) [house](/en/post/house/) has [a](/en/post/a/) panoramic [view](/en/post/view/) [of](/en/post/of/) [the](/en/post/the/) [ocean](/en/post/ocean/)."
-2. Reflecting [or](/en/post/or/) presenting [a](/en/post/a/) [particular](/en/post/particular/) [viewpoint](/en/post/viewpoint/) [or](/en/post/or/) [opinion](/en/post/opinion/). "[A](/en/post/a/) balanced [view](/en/post/view/) [on](/en/post/on/) [the](/en/post/the/) [topic](/en/post/topic/) is [essential](/en/post/essential/)."
+### [Adjective](/post/adjective/)
+1. Giving [a](/post/a/) [good](/post/good/) [or](/post/or/) [extensive](/post/extensive/) [view](/post/view/) [of](/post/of/) [something](/post/something/). "[The](/post/the/) [house](/post/house/) has [a](/post/a/) panoramic [view](/post/view/) [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/)."
+2. Reflecting [or](/post/or/) presenting [a](/post/a/) [particular](/post/particular/) [viewpoint](/post/viewpoint/) [or](/post/or/) [opinion](/post/opinion/). "[A](/post/a/) balanced [view](/post/view/) [on](/post/on/) [the](/post/the/) [topic](/post/topic/) is [essential](/post/essential/)."
 
 ## Phrases
-- "[Enjoy](/en/post/enjoy/) [the](/en/post/the/) [view](/en/post/view/)" [means](/en/post/means/) [to](/en/post/to/) [appreciate](/en/post/appreciate/) [the](/en/post/the/) [scenery](/en/post/scenery/) [or](/en/post/or/) [surroundings](/en/post/surroundings/).
-- "[From](/en/post/from/) [this](/en/post/this/) [view](/en/post/view/), it's [clear](/en/post/clear/)" implies [a](/en/post/a/) [clear](/en/post/clear/) [understanding](/en/post/understanding/) [or](/en/post/or/) perception.
-- "[A](/en/post/a/) bird's-eye [view](/en/post/view/)" refers [to](/en/post/to/) [a](/en/post/a/) high-level, [overall](/en/post/overall/) [perspective](/en/post/perspective/).
+- "[Enjoy](/post/enjoy/) [the](/post/the/) [view](/post/view/)" [means](/post/means/) [to](/post/to/) [appreciate](/post/appreciate/) [the](/post/the/) [scenery](/post/scenery/) [or](/post/or/) [surroundings](/post/surroundings/).
+- "[From](/post/from/) [this](/post/this/) [view](/post/view/), it's [clear](/post/clear/)" implies [a](/post/a/) [clear](/post/clear/) [understanding](/post/understanding/) [or](/post/or/) perception.
+- "[A](/post/a/) bird's-eye [view](/post/view/)" refers [to](/post/to/) [a](/post/a/) high-level, [overall](/post/overall/) [perspective](/post/perspective/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) tourists marveled [at](/en/post/at/) [the](/en/post/the/) breathtaking [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) [mountain](/en/post/mountain/) [top](/en/post/top/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) took [a](/en/post/a/) [moment](/en/post/moment/) [to](/en/post/to/) [view](/en/post/view/) [the](/en/post/the/) artwork [in](/en/post/in/) [the](/en/post/the/) [gallery](/en/post/gallery/) [before](/en/post/before/) making [a](/en/post/a/) [decision](/en/post/decision/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [hotel](/en/post/hotel/) [room](/en/post/room/) offered [a](/en/post/a/) stunning [view](/en/post/view/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) lights."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) tourists marveled [at](/post/at/) [the](/post/the/) breathtaking [view](/post/view/) [from](/post/from/) [the](/post/the/) [mountain](/post/mountain/) [top](/post/top/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) took [a](/post/a/) [moment](/post/moment/) [to](/post/to/) [view](/post/view/) [the](/post/the/) artwork [in](/post/in/) [the](/post/the/) [gallery](/post/gallery/) [before](/post/before/) making [a](/post/a/) [decision](/post/decision/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [hotel](/post/hotel/) [room](/post/room/) offered [a](/post/a/) stunning [view](/post/view/) [of](/post/of/) [the](/post/the/) [city](/post/city/) lights."
 
 ## Synonyms
-- [Perspective](/en/post/perspective/)
-- [Outlook](/en/post/outlook/)
-- [Sight](/en/post/sight/)
-- [Observation](/en/post/observation/)
-- [Vision](/en/post/vision/)
+- [Perspective](/post/perspective/)
+- [Outlook](/post/outlook/)
+- [Sight](/post/sight/)
+- [Observation](/post/observation/)
+- [Vision](/post/vision/)
 - Panorama
 - Perception
 
 ---
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) "[view](/en/post/view/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) transitive [verb](/en/post/verb/), [meaning](/en/post/meaning/) [to](/en/post/to/) [cause](/en/post/cause/) [or](/en/post/or/) [permit](/en/post/permit/) [someone](/en/post/someone/) [to](/en/post/to/) [see](/en/post/see/) [something](/en/post/something/), [but](/en/post/but/) [the](/en/post/the/) definitions [provided](/en/post/provided/) [above](/en/post/above/) [focus](/en/post/focus/) [on](/en/post/on/) [its](/en/post/its/) [most](/en/post/most/) [common](/en/post/common/) senses.
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) "[view](/post/view/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) transitive [verb](/post/verb/), [meaning](/post/meaning/) [to](/post/to/) [cause](/post/cause/) [or](/post/or/) [permit](/post/permit/) [someone](/post/someone/) [to](/post/to/) [see](/post/see/) [something](/post/something/), [but](/post/but/) [the](/post/the/) definitions [provided](/post/provided/) [above](/post/above/) [focus](/post/focus/) [on](/post/on/) [its](/post/its/) [most](/post/most/) [common](/post/common/) senses.

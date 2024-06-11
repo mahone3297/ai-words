@@ -7,35 +7,35 @@ description = '[ˈberi] n.浆果(如草莓等)'
 keywords = ['ai words', 'berry']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈberi/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [small](/en/post/small/), [usually](/en/post/usually/) [round](/en/post/round/) [fruit](/en/post/fruit/) [with](/en/post/with/) [a](/en/post/a/) fleshy [exterior](/en/post/exterior/) [and](/en/post/and/) [a](/en/post/a/) [central](/en/post/central/) [seed](/en/post/seed/), typically [found](/en/post/found/) [on](/en/post/on/) bushes [or](/en/post/or/) [low](/en/post/low/) trees. Examples [include](/en/post/include/) strawberries, raspberries, [and](/en/post/and/) blackberries.
+### [Noun](/post/noun/)
+[A](/post/a/) [small](/post/small/), [usually](/post/usually/) [round](/post/round/) [fruit](/post/fruit/) [with](/post/with/) [a](/post/a/) fleshy [exterior](/post/exterior/) [and](/post/and/) [a](/post/a/) [central](/post/central/) [seed](/post/seed/), typically [found](/post/found/) [on](/post/on/) bushes [or](/post/or/) [low](/post/low/) trees. Examples [include](/post/include/) strawberries, raspberries, [and](/post/and/) blackberries.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [gather](/en/post/gather/) [or](/en/post/or/) [eat](/en/post/eat/) berries; [to](/en/post/to/) [collect](/en/post/collect/) [fruit](/en/post/fruit/) [from](/en/post/from/) [a](/en/post/a/) [bush](/en/post/bush/) [or](/en/post/or/) [tree](/en/post/tree/). [For](/en/post/for/) [example](/en/post/example/): "We'll [go](/en/post/go/) [berry](/en/post/berry/) picking [this](/en/post/this/) [weekend](/en/post/weekend/)."
-[To](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [as](/en/post/as/) having [a](/en/post/a/) berry-like [color](/en/post/color/) [or](/en/post/or/) [appearance](/en/post/appearance/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sky](/en/post/sky/) had [a](/en/post/a/) [deep](/en/post/deep/) [berry](/en/post/berry/) hue [during](/en/post/during/) [sunset](/en/post/sunset/)."
+### [Verb](/post/verb/)
+[To](/post/to/) [gather](/post/gather/) [or](/post/or/) [eat](/post/eat/) berries; [to](/post/to/) [collect](/post/collect/) [fruit](/post/fruit/) [from](/post/from/) [a](/post/a/) [bush](/post/bush/) [or](/post/or/) [tree](/post/tree/). [For](/post/for/) [example](/post/example/): "We'll [go](/post/go/) [berry](/post/berry/) picking [this](/post/this/) [weekend](/post/weekend/)."
+[To](/post/to/) [describe](/post/describe/) [something](/post/something/) [as](/post/as/) having [a](/post/a/) berry-like [color](/post/color/) [or](/post/or/) [appearance](/post/appearance/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sky](/post/sky/) had [a](/post/a/) [deep](/post/deep/) [berry](/post/berry/) hue [during](/post/during/) [sunset](/post/sunset/)."
 
-### [Adjective](/en/post/adjective/)
-Characterized [by](/en/post/by/) [or](/en/post/or/) containing berries; having [a](/en/post/a/) fruity [or](/en/post/or/) [sweet](/en/post/sweet/) [taste](/en/post/taste/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [fruit](/en/post/fruit/) [salad](/en/post/salad/) [with](/en/post/with/) [a](/en/post/a/) [mix](/en/post/mix/) [of](/en/post/of/) berries."
-[Dark](/en/post/dark/) [red](/en/post/red/) [or](/en/post/or/) [purple](/en/post/purple/) [in](/en/post/in/) [color](/en/post/color/), [like](/en/post/like/) [a](/en/post/a/) [berry](/en/post/berry/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [dress](/en/post/dress/) had [a](/en/post/a/) [rich](/en/post/rich/) [berry](/en/post/berry/) [shade](/en/post/shade/)."
+### [Adjective](/post/adjective/)
+Characterized [by](/post/by/) [or](/post/or/) containing berries; having [a](/post/a/) fruity [or](/post/or/) [sweet](/post/sweet/) [taste](/post/taste/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [fruit](/post/fruit/) [salad](/post/salad/) [with](/post/with/) [a](/post/a/) [mix](/post/mix/) [of](/post/of/) berries."
+[Dark](/post/dark/) [red](/post/red/) [or](/post/or/) [purple](/post/purple/) [in](/post/in/) [color](/post/color/), [like](/post/like/) [a](/post/a/) [berry](/post/berry/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [dress](/post/dress/) had [a](/post/a/) [rich](/post/rich/) [berry](/post/berry/) [shade](/post/shade/)."
 
 ## Phrases
-- "Berries are [a](/en/post/a/) [great](/en/post/great/) [source](/en/post/source/) [of](/en/post/of/) antioxidants."
-- "Berries are [in](/en/post/in/) [season](/en/post/season/) [now](/en/post/now/)."
-- "[A](/en/post/a/) [bowl](/en/post/bowl/) [of](/en/post/of/) mixed berries [for](/en/post/for/) [breakfast](/en/post/breakfast/)."
+- "Berries are [a](/post/a/) [great](/post/great/) [source](/post/source/) [of](/post/of/) antioxidants."
+- "Berries are [in](/post/in/) [season](/post/season/) [now](/post/now/)."
+- "[A](/post/a/) [bowl](/post/bowl/) [of](/post/of/) mixed berries [for](/post/for/) [breakfast](/post/breakfast/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) picked [a](/en/post/a/) [basket](/en/post/basket/) [full](/en/post/full/) [of](/en/post/of/) [wild](/en/post/wild/) blueberries [for](/en/post/for/) [her](/en/post/her/) [pie](/en/post/pie/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) children were [busy](/en/post/busy/) berrying [the](/en/post/the/) trees [for](/en/post/for/) [their](/en/post/their/) [science](/en/post/science/) [project](/en/post/project/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) lipstick had [a](/en/post/a/) lustrous [berry](/en/post/berry/) [finish](/en/post/finish/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) picked [a](/post/a/) [basket](/post/basket/) [full](/post/full/) [of](/post/of/) [wild](/post/wild/) blueberries [for](/post/for/) [her](/post/her/) [pie](/post/pie/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) children were [busy](/post/busy/) berrying [the](/post/the/) trees [for](/post/for/) [their](/post/their/) [science](/post/science/) [project](/post/project/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) lipstick had [a](/post/a/) lustrous [berry](/post/berry/) [finish](/post/finish/)."
 
 ## Synonyms
 - Berry-like
 - Fruity
 - Juicy
 - Reddish/purplish
-- [Wild](/en/post/wild/)
-- Tart/[sweet](/en/post/sweet/) ([in](/en/post/in/) [taste](/en/post/taste/))
+- [Wild](/post/wild/)
+- Tart/[sweet](/post/sweet/) ([in](/post/in/) [taste](/post/taste/))

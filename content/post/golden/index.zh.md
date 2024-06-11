@@ -11,22 +11,22 @@ keywords = ['ai words', 'golden']
 /ˈɡəʊldən/
 
 ## 释义
-- **形容词**: 金黄色的；金色的。例如: "[The](/post/the/) [autumn](/post/autumn/) leaves turned [golden](/post/golden/) [in](/post/in/) [the](/post/the/) [sunlight](/post/sunlight/)."
-- **形容词**: 极好的；理想的。例如: "[She](/post/she/) has [a](/post/a/) [golden](/post/golden/) [opportunity](/post/opportunity/) [to](/post/to/) [get](/post/get/) [the](/post/the/) [job](/post/job/)."
-- **名词**: 金子；黄金。例如: "[They](/post/they/) [found](/post/found/) [a](/post/a/) [small](/post/small/) [amount](/post/amount/) [of](/post/of/) [gold](/post/gold/) [in](/post/in/) [the](/post/the/) riverbed."
+- **形容词**: 金黄色的；金色的。例如: "[The](/zh/post/the/) [autumn](/zh/post/autumn/) leaves turned [golden](/zh/post/golden/) [in](/zh/post/in/) [the](/zh/post/the/) [sunlight](/zh/post/sunlight/)."
+- **形容词**: 极好的；理想的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [golden](/zh/post/golden/) [opportunity](/zh/post/opportunity/) [to](/zh/post/to/) [get](/zh/post/get/) [the](/zh/post/the/) [job](/zh/post/job/)."
+- **名词**: 金子；黄金。例如: "[They](/zh/post/they/) [found](/zh/post/found/) [a](/zh/post/a/) [small](/zh/post/small/) [amount](/zh/post/amount/) [of](/zh/post/of/) [gold](/zh/post/gold/) [in](/zh/post/in/) [the](/zh/post/the/) riverbed."
 
 ## 短语
-- "[The](/post/the/) [golden](/post/golden/) [hour](/post/hour/)" 指日出或日落时分，光线特别美丽的一段时间。
-- "[Golden](/post/golden/) [opportunity](/post/opportunity/)" 意味着绝佳的机会。
-- "[Golden](/post/golden/) [rule](/post/rule/)" 常指“己所不欲，勿施于人”的道德准则。
+- "[The](/zh/post/the/) [golden](/zh/post/golden/) [hour](/zh/post/hour/)" 指日出或日落时分，光线特别美丽的一段时间。
+- "[Golden](/zh/post/golden/) [opportunity](/zh/post/opportunity/)" 意味着绝佳的机会。
+- "[Golden](/zh/post/golden/) [rule](/zh/post/rule/)" 常指“己所不欲，勿施于人”的道德准则。
 
 ## 例句
-- 形容词: "[The](/post/the/) [sunset](/post/sunset/) was [a](/post/a/) [beautiful](/post/beautiful/) [sight](/post/sight/) [with](/post/with/) [its](/post/its/) [golden](/post/golden/) hues."
-- 形容词: "[His](/post/his/) [talent](/post/talent/) [and](/post/and/) dedication made [him](/post/him/) [a](/post/a/) [golden](/post/golden/) [employee](/post/employee/)."
-- 名词: "[Gold](/post/gold/) is [a](/post/a/) [precious](/post/precious/) [metal](/post/metal/) [that](/post/that/) has been valued [for](/post/for/) centuries."
+- 形容词: "[The](/zh/post/the/) [sunset](/zh/post/sunset/) was [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [sight](/zh/post/sight/) [with](/zh/post/with/) [its](/zh/post/its/) [golden](/zh/post/golden/) hues."
+- 形容词: "[His](/zh/post/his/) [talent](/zh/post/talent/) [and](/zh/post/and/) dedication made [him](/zh/post/him/) [a](/zh/post/a/) [golden](/zh/post/golden/) [employee](/zh/post/employee/)."
+- 名词: "[Gold](/zh/post/gold/) is [a](/zh/post/a/) [precious](/zh/post/precious/) [metal](/zh/post/metal/) [that](/zh/post/that/) has been valued [for](/zh/post/for/) centuries."
 
 ## 同义词
-- [Yellow](/post/yellow/)
+- [Yellow](/zh/post/yellow/)
 - Blond
 - Aureate
 - Sunlit

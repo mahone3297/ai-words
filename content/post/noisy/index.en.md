@@ -7,29 +7,29 @@ description = '[ˈnɔizi] a.嘈杂的；喧闹的'
 keywords = ['ai words', 'noisy']
 +++
 
-## [Word](/en/post/word/): [Noisy](/en/post/noisy/)
+## [Word](/post/word/): [Noisy](/post/noisy/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnɔɪzi/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Producing [or](/en/post/or/) characterized [by](/en/post/by/) [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [noise](/en/post/noise/); [loud](/en/post/loud/) [and](/en/post/and/) disruptive. 
+- **[Adjective](/post/adjective/)**: Producing [or](/post/or/) characterized [by](/post/by/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [noise](/post/noise/); [loud](/post/loud/) [and](/post/and/) disruptive. 
 
-### [Definition](/en/post/definition/) Examples
-- **[As](/en/post/as/) [a](/en/post/a/) descriptor**: "[The](/en/post/the/) [noisy](/en/post/noisy/) [traffic](/en/post/traffic/) [outside](/en/post/outside/) kept [me](/en/post/me/) [up](/en/post/up/) [all](/en/post/all/) [night](/en/post/night/)."
-- **[In](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/)**: "[Her](/en/post/her/) neighbors were having [a](/en/post/a/) [noisy](/en/post/noisy/) [party](/en/post/party/) [that](/en/post/that/) disturbed [the](/en/post/the/) [entire](/en/post/entire/) [block](/en/post/block/)."
+### [Definition](/post/definition/) Examples
+- **[As](/post/as/) [a](/post/a/) descriptor**: "[The](/post/the/) [noisy](/post/noisy/) [traffic](/post/traffic/) [outside](/post/outside/) kept [me](/post/me/) [up](/post/up/) [all](/post/all/) [night](/post/night/)."
+- **[In](/post/in/) [a](/post/a/) [sentence](/post/sentence/)**: "[Her](/post/her/) neighbors were having [a](/post/a/) [noisy](/post/noisy/) [party](/post/party/) [that](/post/that/) disturbed [the](/post/the/) [entire](/post/entire/) [block](/post/block/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [noisy](/en/post/noisy/) [entrance](/en/post/entrance/)": [To](/en/post/to/) [arrive](/en/post/arrive/) [somewhere](/en/post/somewhere/) [with](/en/post/with/) [considerable](/en/post/considerable/) [noise](/en/post/noise/) [or](/en/post/or/) fanfare.
-- "[Noisy](/en/post/noisy/) [background](/en/post/background/)": Refers [to](/en/post/to/) [a](/en/post/a/) [setting](/en/post/setting/) [with](/en/post/with/) [loud](/en/post/loud/) [and](/en/post/and/) distracting sounds, [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) recordings [or](/en/post/or/) conversations.
-- "[Noisy](/en/post/noisy/) neighbor": [A](/en/post/a/) colloquialism [for](/en/post/for/) [someone](/en/post/someone/) [who](/en/post/who/) creates [excessive](/en/post/excessive/) [noise](/en/post/noise/) [in](/en/post/in/) [a](/en/post/a/) residential [area](/en/post/area/).
+- "[Make](/post/make/) [a](/post/a/) [noisy](/post/noisy/) [entrance](/post/entrance/)": [To](/post/to/) [arrive](/post/arrive/) [somewhere](/post/somewhere/) [with](/post/with/) [considerable](/post/considerable/) [noise](/post/noise/) [or](/post/or/) fanfare.
+- "[Noisy](/post/noisy/) [background](/post/background/)": Refers [to](/post/to/) [a](/post/a/) [setting](/post/setting/) [with](/post/with/) [loud](/post/loud/) [and](/post/and/) distracting sounds, [often](/post/often/) [used](/post/used/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) recordings [or](/post/or/) conversations.
+- "[Noisy](/post/noisy/) neighbor": [A](/post/a/) colloquialism [for](/post/for/) [someone](/post/someone/) [who](/post/who/) creates [excessive](/post/excessive/) [noise](/post/noise/) [in](/post/in/) [a](/post/a/) residential [area](/post/area/).
 
-## [Example](/en/post/example/) Sentences
-- **[As](/en/post/as/) an [adjective](/en/post/adjective/)**: "[The](/en/post/the/) [construction](/en/post/construction/) [work](/en/post/work/) [next](/en/post/next/) [door](/en/post/door/) is incredibly [noisy](/en/post/noisy/) [during](/en/post/during/) [the](/en/post/the/) [day](/en/post/day/)."
-- "[The](/en/post/the/) children were playing noisily [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/), [their](/en/post/their/) [laughter](/en/post/laughter/) echoing [throughout](/en/post/throughout/) [the](/en/post/the/) neighborhood."
+## [Example](/post/example/) Sentences
+- **[As](/post/as/) an [adjective](/post/adjective/)**: "[The](/post/the/) [construction](/post/construction/) [work](/post/work/) [next](/post/next/) [door](/post/door/) is incredibly [noisy](/post/noisy/) [during](/post/during/) [the](/post/the/) [day](/post/day/)."
+- "[The](/post/the/) children were playing noisily [in](/post/in/) [the](/post/the/) [park](/post/park/), [their](/post/their/) [laughter](/post/laughter/) echoing [throughout](/post/throughout/) [the](/post/the/) neighborhood."
 
 ## Synonyms
-- [Loud](/en/post/loud/)
+- [Loud](/post/loud/)
 - Raucous
 - Boisterous
 - Clamorous

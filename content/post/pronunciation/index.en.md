@@ -7,26 +7,26 @@ description = '[prəˌnʌnsiˈei∫ən] n.发音(法)'
 keywords = ['ai words', 'pronunciation']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /həˈloʊ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [to](/en/post/to/) [greet](/en/post/greet/) [or](/en/post/or/) [address](/en/post/address/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) waved [a](/en/post/a/) [friendly](/en/post/friendly/) [hello](/en/post/hello/) [at](/en/post/at/) [the](/en/post/the/) [bus](/en/post/bus/) [stop](/en/post/stop/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) initiate [communication](/en/post/communication/) [with](/en/post/with/) [a](/en/post/a/) [greeting](/en/post/greeting/) [or](/en/post/or/) [expression](/en/post/expression/) [of](/en/post/of/) [recognition](/en/post/recognition/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) greeted [the](/en/post/the/) guests [with](/en/post/with/) [a](/en/post/a/) hearty [hello](/en/post/hello/)."
-- **Interjection**: Expressing [a](/en/post/a/) salutation, [surprise](/en/post/surprise/), [or](/en/post/or/) [attention](/en/post/attention/). [For](/en/post/for/) [example](/en/post/example/): "[Oh](/en/post/oh/), [hello](/en/post/hello/)! [You](/en/post/you/) startled [me](/en/post/me/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [term](/post/term/) [used](/post/used/) [to](/post/to/) [greet](/post/greet/) [or](/post/or/) [address](/post/address/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) waved [a](/post/a/) [friendly](/post/friendly/) [hello](/post/hello/) [at](/post/at/) [the](/post/the/) [bus](/post/bus/) [stop](/post/stop/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) initiate [communication](/post/communication/) [with](/post/with/) [a](/post/a/) [greeting](/post/greeting/) [or](/post/or/) [expression](/post/expression/) [of](/post/of/) [recognition](/post/recognition/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) greeted [the](/post/the/) guests [with](/post/with/) [a](/post/a/) hearty [hello](/post/hello/)."
+- **Interjection**: Expressing [a](/post/a/) salutation, [surprise](/post/surprise/), [or](/post/or/) [attention](/post/attention/). [For](/post/for/) [example](/post/example/): "[Oh](/post/oh/), [hello](/post/hello/)! [You](/post/you/) startled [me](/post/me/)."
 
 ## Phrases
-- "[Give](/en/post/give/) [someone](/en/post/someone/) [a](/en/post/a/) [hello](/en/post/hello/)" [means](/en/post/means/) [to](/en/post/to/) [extend](/en/post/extend/) [a](/en/post/a/) [greeting](/en/post/greeting/).
-- "[Hello](/en/post/hello/), [how](/en/post/how/) are [you](/en/post/you/)?" is [a](/en/post/a/) [standard](/en/post/standard/) conversational [opening](/en/post/opening/).
-- "[Hello](/en/post/hello/), [old](/en/post/old/) [friend](/en/post/friend/)" is [a](/en/post/a/) [familiar](/en/post/familiar/) [way](/en/post/way/) [to](/en/post/to/) [address](/en/post/address/) [someone](/en/post/someone/) [you](/en/post/you/) [know](/en/post/know/) [well](/en/post/well/).
+- "[Give](/post/give/) [someone](/post/someone/) [a](/post/a/) [hello](/post/hello/)" [means](/post/means/) [to](/post/to/) [extend](/post/extend/) [a](/post/a/) [greeting](/post/greeting/).
+- "[Hello](/post/hello/), [how](/post/how/) are [you](/post/you/)?" is [a](/post/a/) [standard](/post/standard/) conversational [opening](/post/opening/).
+- "[Hello](/post/hello/), [old](/post/old/) [friend](/post/friend/)" is [a](/post/a/) [familiar](/post/familiar/) [way](/post/way/) [to](/post/to/) [address](/post/address/) [someone](/post/someone/) [you](/post/you/) [know](/post/know/) [well](/post/well/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children said [their](/en/post/their/) goodbyes [with](/en/post/with/) [a](/en/post/a/) chorus [of](/en/post/of/) hellos [as](/en/post/as/) [they](/en/post/they/) [left](/en/post/left/) [for](/en/post/for/) [school](/en/post/school/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [he](/en/post/he/) was [happy](/en/post/happy/) [to](/en/post/to/) [hear](/en/post/hear/) [his](/en/post/his/) son's [hello](/en/post/hello/) [from](/en/post/from/) [the](/en/post/the/) [other](/en/post/other/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [phone](/en/post/phone/)."
-- **Interjection**: "[Hello](/en/post/hello/), [sunshine](/en/post/sunshine/)! It's [such](/en/post/such/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) [day](/en/post/day/) [today](/en/post/today/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children said [their](/post/their/) goodbyes [with](/post/with/) [a](/post/a/) chorus [of](/post/of/) hellos [as](/post/as/) [they](/post/they/) [left](/post/left/) [for](/post/for/) [school](/post/school/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [he](/post/he/) was [happy](/post/happy/) [to](/post/to/) [hear](/post/hear/) [his](/post/his/) son's [hello](/post/hello/) [from](/post/from/) [the](/post/the/) [other](/post/other/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [phone](/post/phone/)."
+- **Interjection**: "[Hello](/post/hello/), [sunshine](/post/sunshine/)! It's [such](/post/such/) [a](/post/a/) [beautiful](/post/beautiful/) [day](/post/day/) [today](/post/today/)."
 
 ## Synonyms
-- [Hi](/en/post/hi/)
+- [Hi](/post/hi/)
 - Hey
 - Greetings
 - Salutations

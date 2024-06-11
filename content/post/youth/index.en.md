@@ -7,24 +7,24 @@ description = '[juːθ] n.青春；青年们；青年'
 keywords = ['ai words', 'youth']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjʌθ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-    - 1. [The](/en/post/the/) [period](/en/post/period/) [of](/en/post/of/) [life](/en/post/life/) [between](/en/post/between/) adolescence [and](/en/post/and/) [middle](/en/post/middle/) [age](/en/post/age/), typically considered [to](/en/post/to/) [be](/en/post/be/) [between](/en/post/between/) [the](/en/post/the/) ages [of](/en/post/of/) 15 [and](/en/post/and/) 30.
-    - 2. (pl.) [Young](/en/post/young/) [people](/en/post/people/) [as](/en/post/as/) [a](/en/post/a/) [group](/en/post/group/), [often](/en/post/often/) considered [to](/en/post/to/) [be](/en/post/be/) energetic, [optimistic](/en/post/optimistic/), [and](/en/post/and/) rebellious.
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [young](/en/post/young/) [people](/en/post/people/); [youthful](/en/post/youthful/).
+- **[Noun](/post/noun/)**: 
+    - 1. [The](/post/the/) [period](/post/period/) [of](/post/of/) [life](/post/life/) [between](/post/between/) adolescence [and](/post/and/) [middle](/post/middle/) [age](/post/age/), typically considered [to](/post/to/) [be](/post/be/) [between](/post/between/) [the](/post/the/) ages [of](/post/of/) 15 [and](/post/and/) 30.
+    - 2. (pl.) [Young](/post/young/) [people](/post/people/) [as](/post/as/) [a](/post/a/) [group](/post/group/), [often](/post/often/) considered [to](/post/to/) [be](/post/be/) energetic, [optimistic](/post/optimistic/), [and](/post/and/) rebellious.
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [young](/post/young/) [people](/post/people/); [youthful](/post/youthful/).
 
 ## Phrases
-- "[The](/en/post/the/) [youth](/en/post/youth/) [of](/en/post/of/) [today](/en/post/today/)" refers [to](/en/post/to/) [the](/en/post/the/) [current](/en/post/current/) [generation](/en/post/generation/) [of](/en/post/of/) [young](/en/post/young/) [people](/en/post/people/).
-- "[A](/en/post/a/) [youth](/en/post/youth/) [movement](/en/post/movement/)" is [a](/en/post/a/) [social](/en/post/social/) [or](/en/post/or/) [political](/en/post/political/) [movement](/en/post/movement/) involving [young](/en/post/young/) [people](/en/post/people/).
-- "[Keep](/en/post/keep/) [your](/en/post/your/) [youth](/en/post/youth/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) [your](/en/post/your/) vitality [or](/en/post/or/) freshness.
+- "[The](/post/the/) [youth](/post/youth/) [of](/post/of/) [today](/post/today/)" refers [to](/post/to/) [the](/post/the/) [current](/post/current/) [generation](/post/generation/) [of](/post/of/) [young](/post/young/) [people](/post/people/).
+- "[A](/post/a/) [youth](/post/youth/) [movement](/post/movement/)" is [a](/post/a/) [social](/post/social/) [or](/post/or/) [political](/post/political/) [movement](/post/movement/) involving [young](/post/young/) [people](/post/people/).
+- "[Keep](/post/keep/) [your](/post/your/) [youth](/post/youth/)" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) [your](/post/your/) vitality [or](/post/or/) freshness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) reminisced [about](/en/post/about/) [her](/en/post/her/) carefree [youth](/en/post/youth/) spent traveling [the](/en/post/the/) [world](/en/post/world/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [youth](/en/post/youth/) [on](/en/post/on/) [the](/en/post/the/) [dance](/en/post/dance/) [floor](/en/post/floor/) were filled [with](/en/post/with/) [energy](/en/post/energy/) [and](/en/post/and/) [enthusiasm](/en/post/enthusiasm/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) was surprised [by](/en/post/by/) [the](/en/post/the/) [wisdom](/en/post/wisdom/) displayed [by](/en/post/by/) [the](/en/post/the/) [youth](/en/post/youth/) [leader](/en/post/leader/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) reminisced [about](/post/about/) [her](/post/her/) carefree [youth](/post/youth/) spent traveling [the](/post/the/) [world](/post/world/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [youth](/post/youth/) [on](/post/on/) [the](/post/the/) [dance](/post/dance/) [floor](/post/floor/) were filled [with](/post/with/) [energy](/post/energy/) [and](/post/and/) [enthusiasm](/post/enthusiasm/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) was surprised [by](/post/by/) [the](/post/the/) [wisdom](/post/wisdom/) displayed [by](/post/by/) [the](/post/the/) [youth](/post/youth/) [leader](/post/leader/)."
 
 ## Synonyms
 - Adolescence
@@ -34,10 +34,10 @@ keywords = ['ai words', 'youth']
 - Adolescent
 
 ## Antonyms
-- [Old](/en/post/old/) [age](/en/post/age/)
+- [Old](/post/old/) [age](/post/age/)
 - Senescence
 - maturity
 - adulthood
 
-## [Usage](/en/post/usage/) Notes
-- [Youth](/en/post/youth/) is [often](/en/post/often/) associated [with](/en/post/with/) [growth](/en/post/growth/), exploration, [and](/en/post/and/) [learning](/en/post/learning/), [and](/en/post/and/) [can](/en/post/can/) [also](/en/post/also/) [imply](/en/post/imply/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [rebellion](/en/post/rebellion/) [or](/en/post/or/) non-conformity. [Its](/en/post/its/) [meaning](/en/post/meaning/) [can](/en/post/can/) [vary](/en/post/vary/) depending [on](/en/post/on/) cultural context [and](/en/post/and/) [historical](/en/post/historical/) periods.
+## [Usage](/post/usage/) Notes
+- [Youth](/post/youth/) is [often](/post/often/) associated [with](/post/with/) [growth](/post/growth/), exploration, [and](/post/and/) [learning](/post/learning/), [and](/post/and/) [can](/post/can/) [also](/post/also/) [imply](/post/imply/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [rebellion](/post/rebellion/) [or](/post/or/) non-conformity. [Its](/post/its/) [meaning](/post/meaning/) [can](/post/can/) [vary](/post/vary/) depending [on](/post/on/) cultural context [and](/post/and/) [historical](/post/historical/) periods.

@@ -7,31 +7,31 @@ description = '[ˈneikid] a.裸体的；无遮敝的'
 keywords = ['ai words', 'naked']
 +++
 
-## [Word](/en/post/word/): [Naked](/en/post/naked/)
+## [Word](/post/word/): [Naked](/post/naked/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈneɪkɪd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) [Not](/en/post/not/) wearing [any](/en/post/any/) [clothes](/en/post/clothes/); [without](/en/post/without/) [clothing](/en/post/clothing/) [on](/en/post/on/) one's [body](/en/post/body/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was standing [there](/en/post/there/) [completely](/en/post/completely/) [naked](/en/post/naked/)."
-  - Figurative: Uncovered, [not](/en/post/not/) concealed [or](/en/post/or/) disguised; revealed [or](/en/post/or/) exposed. [Example](/en/post/example/): "[The](/en/post/the/) [truth](/en/post/truth/) was laid [bare](/en/post/bare/), [naked](/en/post/naked/) [for](/en/post/for/) [all](/en/post/all/) [to](/en/post/to/) [see](/en/post/see/)."
+- **[Adjective](/post/adjective/)**: (adj) [Not](/post/not/) wearing [any](/post/any/) [clothes](/post/clothes/); [without](/post/without/) [clothing](/post/clothing/) [on](/post/on/) one's [body](/post/body/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) was standing [there](/post/there/) [completely](/post/completely/) [naked](/post/naked/)."
+  - Figurative: Uncovered, [not](/post/not/) concealed [or](/post/or/) disguised; revealed [or](/post/or/) exposed. [Example](/post/example/): "[The](/post/the/) [truth](/post/truth/) was laid [bare](/post/bare/), [naked](/post/naked/) [for](/post/for/) [all](/post/all/) [to](/post/to/) [see](/post/see/)."
 
 ## Phrases
-- "[As](/en/post/as/) [naked](/en/post/naked/) [as](/en/post/as/) [the](/en/post/the/) [day](/en/post/day/) [they](/en/post/they/) were [born](/en/post/born/)": Describing [someone](/en/post/someone/) [who](/en/post/who/) is [completely](/en/post/completely/) unclothed.
-- "[The](/en/post/the/) [naked](/en/post/naked/) [eye](/en/post/eye/)": Refers [to](/en/post/to/) [normal](/en/post/normal/) [human](/en/post/human/) [vision](/en/post/vision/) unaided [by](/en/post/by/) magnifying devices [like](/en/post/like/) telescopes [or](/en/post/or/) microscopes.
-- "[Naked](/en/post/naked/) [ambition](/en/post/ambition/)": An [intense](/en/post/intense/) [desire](/en/post/desire/) [for](/en/post/for/) [success](/en/post/success/) [or](/en/post/or/) [power](/en/post/power/) [that](/en/post/that/) is openly displayed [without](/en/post/without/) [shame](/en/post/shame/) [or](/en/post/or/) concealment.
+- "[As](/post/as/) [naked](/post/naked/) [as](/post/as/) [the](/post/the/) [day](/post/day/) [they](/post/they/) were [born](/post/born/)": Describing [someone](/post/someone/) [who](/post/who/) is [completely](/post/completely/) unclothed.
+- "[The](/post/the/) [naked](/post/naked/) [eye](/post/eye/)": Refers [to](/post/to/) [normal](/post/normal/) [human](/post/human/) [vision](/post/vision/) unaided [by](/post/by/) magnifying devices [like](/post/like/) telescopes [or](/post/or/) microscopes.
+- "[Naked](/post/naked/) [ambition](/post/ambition/)": An [intense](/post/intense/) [desire](/post/desire/) [for](/post/for/) [success](/post/success/) [or](/post/or/) [power](/post/power/) [that](/post/that/) is openly displayed [without](/post/without/) [shame](/post/shame/) [or](/post/or/) concealment.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) stepped [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [shower](/en/post/shower/), wrapped [only](/en/post/only/) [in](/en/post/in/) [a](/en/post/a/) [towel](/en/post/towel/), [her](/en/post/her/) [body](/en/post/body/) [still](/en/post/still/) [damp](/en/post/damp/) [and](/en/post/and/) [naked](/en/post/naked/)."
-  - Figurative: "[His](/en/post/his/) [naked](/en/post/naked/) [ambition](/en/post/ambition/) was [evident](/en/post/evident/) [when](/en/post/when/) [he](/en/post/he/) took [over](/en/post/over/) [his](/en/post/his/) competitor's [business](/en/post/business/) [without](/en/post/without/) hesitation."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) stepped [out](/post/out/) [of](/post/of/) [the](/post/the/) [shower](/post/shower/), wrapped [only](/post/only/) [in](/post/in/) [a](/post/a/) [towel](/post/towel/), [her](/post/her/) [body](/post/body/) [still](/post/still/) [damp](/post/damp/) [and](/post/and/) [naked](/post/naked/)."
+  - Figurative: "[His](/post/his/) [naked](/post/naked/) [ambition](/post/ambition/) was [evident](/post/evident/) [when](/post/when/) [he](/post/he/) took [over](/post/over/) [his](/post/his/) competitor's [business](/post/business/) [without](/post/without/) hesitation."
 
 ## Synonyms
 - Nude
-- [Bare](/en/post/bare/)
+- [Bare](/post/bare/)
 - Unclothed
 - Undressed
 - Unclad
-- [In](/en/post/in/) [the](/en/post/the/) buff
-- [Without](/en/post/without/) [a](/en/post/a/) [stitch](/en/post/stitch/) [on](/en/post/on/)
-- [In](/en/post/in/) one's [birthday](/en/post/birthday/) [suit](/en/post/suit/)
-- [In](/en/post/in/) [the](/en/post/the/) [altogether](/en/post/altogether/)
+- [In](/post/in/) [the](/post/the/) buff
+- [Without](/post/without/) [a](/post/a/) [stitch](/post/stitch/) [on](/post/on/)
+- [In](/post/in/) one's [birthday](/post/birthday/) [suit](/post/suit/)
+- [In](/post/in/) [the](/post/the/) [altogether](/post/altogether/)

@@ -7,41 +7,41 @@ description = '[ˈbæriə] n.栅栏，屏障；障碍'
 keywords = ['ai words', 'barrier']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /barɪ'ər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [barrier](/en/post/barrier/)** is [a](/en/post/a/) [physical](/en/post/physical/) [or](/en/post/or/) metaphorical [obstacle](/en/post/obstacle/) [that](/en/post/that/) obstructs [or](/en/post/or/) separates [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [wall](/en/post/wall/), [fence](/en/post/fence/), [or](/en/post/or/) [any](/en/post/any/) impediment [to](/en/post/to/) [movement](/en/post/movement/) [or](/en/post/or/) [access](/en/post/access/).
-   - [Definition](/en/post/definition/): An [obstacle](/en/post/obstacle/) [that](/en/post/that/) prevents [movement](/en/post/movement/) [or](/en/post/or/) [communication](/en/post/communication/): "[The](/en/post/the/) [language](/en/post/language/) [barrier](/en/post/barrier/) prevented [us](/en/post/us/) [from](/en/post/from/) having [a](/en/post/a/) [deep](/en/post/deep/) [conversation](/en/post/conversation/)."
-2. **[A](/en/post/a/) [mental](/en/post/mental/) [barrier](/en/post/barrier/)** refers [to](/en/post/to/) [a](/en/post/a/) [psychological](/en/post/psychological/) [block](/en/post/block/) [or](/en/post/or/) [limitation](/en/post/limitation/) [that](/en/post/that/) hinders one's thoughts [or](/en/post/or/) actions.
-   - [Definition](/en/post/definition/): [A](/en/post/a/) [mental](/en/post/mental/) [obstacle](/en/post/obstacle/) preventing [progress](/en/post/progress/) [or](/en/post/or/) [understanding](/en/post/understanding/): "Breaking [down](/en/post/down/) [emotional](/en/post/emotional/) barriers is [key](/en/post/key/) [to](/en/post/to/) [personal](/en/post/personal/) [growth](/en/post/growth/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [barrier](/post/barrier/)** is [a](/post/a/) [physical](/post/physical/) [or](/post/or/) metaphorical [obstacle](/post/obstacle/) [that](/post/that/) obstructs [or](/post/or/) separates [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [It](/post/it/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [wall](/post/wall/), [fence](/post/fence/), [or](/post/or/) [any](/post/any/) impediment [to](/post/to/) [movement](/post/movement/) [or](/post/or/) [access](/post/access/).
+   - [Definition](/post/definition/): An [obstacle](/post/obstacle/) [that](/post/that/) prevents [movement](/post/movement/) [or](/post/or/) [communication](/post/communication/): "[The](/post/the/) [language](/post/language/) [barrier](/post/barrier/) prevented [us](/post/us/) [from](/post/from/) having [a](/post/a/) [deep](/post/deep/) [conversation](/post/conversation/)."
+2. **[A](/post/a/) [mental](/post/mental/) [barrier](/post/barrier/)** refers [to](/post/to/) [a](/post/a/) [psychological](/post/psychological/) [block](/post/block/) [or](/post/or/) [limitation](/post/limitation/) [that](/post/that/) hinders one's thoughts [or](/post/or/) actions.
+   - [Definition](/post/definition/): [A](/post/a/) [mental](/post/mental/) [obstacle](/post/obstacle/) preventing [progress](/post/progress/) [or](/post/or/) [understanding](/post/understanding/): "Breaking [down](/post/down/) [emotional](/post/emotional/) barriers is [key](/post/key/) [to](/post/to/) [personal](/post/personal/) [growth](/post/growth/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) **[barrier](/en/post/barrier/)** [something](/en/post/something/) is [to](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [create](/en/post/create/) [a](/en/post/a/) [barrier](/en/post/barrier/) [between](/en/post/between/) [it](/en/post/it/) [and](/en/post/and/) [another](/en/post/another/) [thing](/en/post/thing/).
-   - [Definition](/en/post/definition/): [To](/en/post/to/) obstruct [or](/en/post/or/) [separate](/en/post/separate/) [with](/en/post/with/) [a](/en/post/a/) [barrier](/en/post/barrier/): "[The](/en/post/the/) [company](/en/post/company/) [put](/en/post/put/) [up](/en/post/up/) [a](/en/post/a/) firewall [to](/en/post/to/) [barrier](/en/post/barrier/) [their](/en/post/their/) [network](/en/post/network/) [from](/en/post/from/) [outside](/en/post/outside/) threats."
+### [Verb](/post/verb/)
+1. [To](/post/to/) **[barrier](/post/barrier/)** [something](/post/something/) is [to](/post/to/) [establish](/post/establish/) [or](/post/or/) [create](/post/create/) [a](/post/a/) [barrier](/post/barrier/) [between](/post/between/) [it](/post/it/) [and](/post/and/) [another](/post/another/) [thing](/post/thing/).
+   - [Definition](/post/definition/): [To](/post/to/) obstruct [or](/post/or/) [separate](/post/separate/) [with](/post/with/) [a](/post/a/) [barrier](/post/barrier/): "[The](/post/the/) [company](/post/company/) [put](/post/put/) [up](/post/up/) [a](/post/a/) firewall [to](/post/to/) [barrier](/post/barrier/) [their](/post/their/) [network](/post/network/) [from](/post/from/) [outside](/post/outside/) threats."
 
-### [Adjective](/en/post/adjective/)
-1. **Impenetrable [barrier](/en/post/barrier/)** describes [something](/en/post/something/) [that](/en/post/that/) cannot [be](/en/post/be/) penetrated [or](/en/post/or/) [overcome](/en/post/overcome/) [easily](/en/post/easily/).
-   - [Definition](/en/post/definition/): [Extremely](/en/post/extremely/) [difficult](/en/post/difficult/) [to](/en/post/to/) [pass](/en/post/pass/) [through](/en/post/through/) [or](/en/post/or/) [penetrate](/en/post/penetrate/): "An impenetrable [barrier](/en/post/barrier/) [of](/en/post/of/) secrecy surrounds [the](/en/post/the/) [project](/en/post/project/)."
+### [Adjective](/post/adjective/)
+1. **Impenetrable [barrier](/post/barrier/)** describes [something](/post/something/) [that](/post/that/) cannot [be](/post/be/) penetrated [or](/post/or/) [overcome](/post/overcome/) [easily](/post/easily/).
+   - [Definition](/post/definition/): [Extremely](/post/extremely/) [difficult](/post/difficult/) [to](/post/to/) [pass](/post/pass/) [through](/post/through/) [or](/post/or/) [penetrate](/post/penetrate/): "An impenetrable [barrier](/post/barrier/) [of](/post/of/) secrecy surrounds [the](/post/the/) [project](/post/project/)."
 
 ## Phrases
-- "[Remove](/en/post/remove/) [the](/en/post/the/) [barrier](/en/post/barrier/)" [means](/en/post/means/) [to](/en/post/to/) [clear](/en/post/clear/) [or](/en/post/or/) [eliminate](/en/post/eliminate/) [the](/en/post/the/) [obstacle](/en/post/obstacle/).
-- "[A](/en/post/a/) cultural [barrier](/en/post/barrier/)" refers [to](/en/post/to/) [a](/en/post/a/) [difference](/en/post/difference/) [in](/en/post/in/) customs, beliefs, [or](/en/post/or/) [language](/en/post/language/) [that](/en/post/that/) makes [communication](/en/post/communication/) challenging.
-- "[A](/en/post/a/) symbolic [barrier](/en/post/barrier/)" represents [a](/en/post/a/) metaphorical [obstacle](/en/post/obstacle/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [literature](/en/post/literature/) [or](/en/post/or/) [art](/en/post/art/).
+- "[Remove](/post/remove/) [the](/post/the/) [barrier](/post/barrier/)" [means](/post/means/) [to](/post/to/) [clear](/post/clear/) [or](/post/or/) [eliminate](/post/eliminate/) [the](/post/the/) [obstacle](/post/obstacle/).
+- "[A](/post/a/) cultural [barrier](/post/barrier/)" refers [to](/post/to/) [a](/post/a/) [difference](/post/difference/) [in](/post/in/) customs, beliefs, [or](/post/or/) [language](/post/language/) [that](/post/that/) makes [communication](/post/communication/) challenging.
+- "[A](/post/a/) symbolic [barrier](/post/barrier/)" represents [a](/post/a/) metaphorical [obstacle](/post/obstacle/), [often](/post/often/) [used](/post/used/) [in](/post/in/) [literature](/post/literature/) [or](/post/or/) [art](/post/art/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [fence](/en/post/fence/) acted [as](/en/post/as/) [a](/en/post/a/) [barrier](/en/post/barrier/) [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) properties."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) engineers worked tirelessly [to](/en/post/to/) [remove](/en/post/remove/) [the](/en/post/the/) [technical](/en/post/technical/) [barrier](/en/post/barrier/) [to](/en/post/to/) [the](/en/post/the/) project's [success](/en/post/success/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) impenetrable [barrier](/en/post/barrier/) [of](/en/post/of/) [silence](/en/post/silence/) made [the](/en/post/the/) negotiation [process](/en/post/process/) [difficult](/en/post/difficult/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [fence](/post/fence/) acted [as](/post/as/) [a](/post/a/) [barrier](/post/barrier/) [between](/post/between/) [the](/post/the/) [two](/post/two/) properties."
+- **[Verb](/post/verb/)**: "[The](/post/the/) engineers worked tirelessly [to](/post/to/) [remove](/post/remove/) [the](/post/the/) [technical](/post/technical/) [barrier](/post/barrier/) [to](/post/to/) [the](/post/the/) project's [success](/post/success/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) impenetrable [barrier](/post/barrier/) [of](/post/of/) [silence](/post/silence/) made [the](/post/the/) negotiation [process](/post/process/) [difficult](/post/difficult/)."
 
 ## Synonyms
-- [Obstacle](/en/post/obstacle/)
+- [Obstacle](/post/obstacle/)
 - hindrance
 - obstruction
-- [restriction](/en/post/restriction/)
+- [restriction](/post/restriction/)
 - impediment
-- [divide](/en/post/divide/)
-- [obstacle](/en/post/obstacle/) [course](/en/post/course/)
+- [divide](/post/divide/)
+- [obstacle](/post/obstacle/) [course](/post/course/)
 - partition
 - blockade

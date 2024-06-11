@@ -7,26 +7,26 @@ description = '[ˈwestwəd] a.向西的 ad.向西'
 keywords = ['ai words', 'westward']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /westˈwɜːrd/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Directed towards [the](/en/post/the/) [west](/en/post/west/); moving [in](/en/post/in/) [a](/en/post/a/) westerly [direction](/en/post/direction/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) travelers journeyed [westward](/en/post/westward/) towards [the](/en/post/the/) [sunset](/en/post/sunset/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) [in](/en/post/in/) [the](/en/post/the/) [direction](/en/post/direction/) [of](/en/post/of/) [the](/en/post/the/) [west](/en/post/west/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wind](/en/post/wind/) blew [westward](/en/post/westward/), carrying seeds [across](/en/post/across/) [the](/en/post/the/) landscape."
+- **[Adverb](/post/adverb/)**: Directed towards [the](/post/the/) [west](/post/west/); moving [in](/post/in/) [a](/post/a/) westerly [direction](/post/direction/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) travelers journeyed [westward](/post/westward/) towards [the](/post/the/) [sunset](/post/sunset/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) [in](/post/in/) [the](/post/the/) [direction](/post/direction/) [of](/post/of/) [the](/post/the/) [west](/post/west/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wind](/post/wind/) blew [westward](/post/westward/), carrying seeds [across](/post/across/) [the](/post/the/) landscape."
 
 ## Phrases
-- "[Travel](/en/post/travel/) [westward](/en/post/westward/)" implies moving [from](/en/post/from/) [east](/en/post/east/) [to](/en/post/to/) [west](/en/post/west/).
-- "[Set](/en/post/set/) [sail](/en/post/sail/) [westward](/en/post/westward/)" is [a](/en/post/a/) maritime [expression](/en/post/expression/) [to](/en/post/to/) [head](/en/post/head/) [west](/en/post/west/).
-- "[Grow](/en/post/grow/) [up](/en/post/up/) [westward](/en/post/westward/)" [can](/en/post/can/) [mean](/en/post/mean/) someone's upbringing [in](/en/post/in/) [a](/en/post/a/) [western](/en/post/western/) [location](/en/post/location/).
+- "[Travel](/post/travel/) [westward](/post/westward/)" implies moving [from](/post/from/) [east](/post/east/) [to](/post/to/) [west](/post/west/).
+- "[Set](/post/set/) [sail](/post/sail/) [westward](/post/westward/)" is [a](/post/a/) maritime [expression](/post/expression/) [to](/post/to/) [head](/post/head/) [west](/post/west/).
+- "[Grow](/post/grow/) [up](/post/up/) [westward](/post/westward/)" [can](/post/can/) [mean](/post/mean/) someone's upbringing [in](/post/in/) [a](/post/a/) [western](/post/western/) [location](/post/location/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) expedition camped [westward](/en/post/westward/) [of](/en/post/of/) [the](/en/post/the/) [river](/en/post/river/) [to](/en/post/to/) [avoid](/en/post/avoid/) flooding."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sun](/en/post/sun/) sets [in](/en/post/in/) [the](/en/post/the/) [westward](/en/post/westward/) [horizon](/en/post/horizon/) [every](/en/post/every/) [evening](/en/post/evening/)."
-- "[She](/en/post/she/) remembered [her](/en/post/her/) [childhood](/en/post/childhood/) spent exploring [the](/en/post/the/) [vast](/en/post/vast/) [westward](/en/post/westward/) prairies."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) expedition camped [westward](/post/westward/) [of](/post/of/) [the](/post/the/) [river](/post/river/) [to](/post/to/) [avoid](/post/avoid/) flooding."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sun](/post/sun/) sets [in](/post/in/) [the](/post/the/) [westward](/post/westward/) [horizon](/post/horizon/) [every](/post/every/) [evening](/post/evening/)."
+- "[She](/post/she/) remembered [her](/post/her/) [childhood](/post/childhood/) spent exploring [the](/post/the/) [vast](/post/vast/) [westward](/post/westward/) prairies."
 
 ## Synonyms
 - Westwards
 - Westernly
-- Toward [the](/en/post/the/) [west](/en/post/west/)
-- [In](/en/post/in/) [a](/en/post/a/) westerly [direction](/en/post/direction/)
-- Geographical [west](/en/post/west/)
+- Toward [the](/post/the/) [west](/post/west/)
+- [In](/post/in/) [a](/post/a/) westerly [direction](/post/direction/)
+- Geographical [west](/post/west/)

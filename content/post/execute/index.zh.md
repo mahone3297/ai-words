@@ -12,24 +12,24 @@ keywords = ['ai words', 'execute']
 
 ## 释义
 - **动词**:
-1. 执行；实施。例如: "[The](/post/the/) [company](/post/company/) executed [a](/post/a/) [new](/post/new/) marketing [strategy](/post/strategy/)."
-2. 实行（法律、判决等）。例如: "[The](/post/the/) [judge](/post/judge/) ordered [the](/post/the/) execution [of](/post/of/) [the](/post/the/) [death](/post/death/) [sentence](/post/sentence/)."
-3. 完成；实现。例如: "[The](/post/the/) [artist](/post/artist/) executed [the](/post/the/) [painting](/post/painting/) [with](/post/with/) [great](/post/great/) [skill](/post/skill/)."
-4. 杀死（尤指根据判决）。例如: "[In](/post/in/) [some](/post/some/) countries, criminals are executed [by](/post/by/) lethal [injection](/post/injection/)."
+1. 执行；实施。例如: "[The](/zh/post/the/) [company](/zh/post/company/) executed [a](/zh/post/a/) [new](/zh/post/new/) marketing [strategy](/zh/post/strategy/)."
+2. 实行（法律、判决等）。例如: "[The](/zh/post/the/) [judge](/zh/post/judge/) ordered [the](/zh/post/the/) execution [of](/zh/post/of/) [the](/zh/post/the/) [death](/zh/post/death/) [sentence](/zh/post/sentence/)."
+3. 完成；实现。例如: "[The](/zh/post/the/) [artist](/zh/post/artist/) executed [the](/zh/post/the/) [painting](/zh/post/painting/) [with](/zh/post/with/) [great](/zh/post/great/) [skill](/zh/post/skill/)."
+4. 杀死（尤指根据判决）。例如: "[In](/zh/post/in/) [some](/zh/post/some/) countries, criminals are executed [by](/zh/post/by/) lethal [injection](/zh/post/injection/)."
 
 ## 短语
-- "[Execute](/post/execute/) an [order](/post/order/)" 意为执行命令。
-- "[Execute](/post/execute/) [a](/post/a/) [plan](/post/plan/)" 表示实施计划。
-- "[Execute](/post/execute/) [a](/post/a/) [contract](/post/contract/)" 意为履行合同。
+- "[Execute](/zh/post/execute/) an [order](/zh/post/order/)" 意为执行命令。
+- "[Execute](/zh/post/execute/) [a](/zh/post/a/) [plan](/zh/post/plan/)" 表示实施计划。
+- "[Execute](/zh/post/execute/) [a](/zh/post/a/) [contract](/zh/post/contract/)" 意为履行合同。
 
 ## 例句
-- 动词: "[The](/post/the/) software developer executed [the](/post/the/) [code](/post/code/) flawlessly."
-- 动词: "[The](/post/the/) [police](/post/police/) were ordered [to](/post/to/) [execute](/post/execute/) [a](/post/a/) [search](/post/search/) warrant [at](/post/at/) [the](/post/the/) suspect's [house](/post/house/)."
-- 动词: "[The](/post/the/) [athlete](/post/athlete/) executed [a](/post/a/) [perfect](/post/perfect/) [dive](/post/dive/) [during](/post/during/) [the](/post/the/) [competition](/post/competition/)."
+- 动词: "[The](/zh/post/the/) software developer executed [the](/zh/post/the/) [code](/zh/post/code/) flawlessly."
+- 动词: "[The](/zh/post/the/) [police](/zh/post/police/) were ordered [to](/zh/post/to/) [execute](/zh/post/execute/) [a](/zh/post/a/) [search](/zh/post/search/) warrant [at](/zh/post/at/) [the](/zh/post/the/) suspect's [house](/zh/post/house/)."
+- 动词: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) executed [a](/zh/post/a/) [perfect](/zh/post/perfect/) [dive](/zh/post/dive/) [during](/zh/post/during/) [the](/zh/post/the/) [competition](/zh/post/competition/)."
 
 ## 同义词
-- [Carry](/post/carry/) [out](/post/out/)
-- [Perform](/post/perform/)
-- [Accomplish](/post/accomplish/)
+- [Carry](/zh/post/carry/) [out](/zh/post/out/)
+- [Perform](/zh/post/perform/)
+- [Accomplish](/zh/post/accomplish/)
 - Fulfill
 - Enact

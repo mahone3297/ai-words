@@ -7,38 +7,38 @@ description = '[prəˈtektiv] a.保护的，防护的'
 keywords = ['ai words', 'protective']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈtɛktɪv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [protective](/en/post/protective/) [noun](/en/post/noun/) refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) serves [to](/en/post/to/) [guard](/en/post/guard/), [shield](/en/post/shield/), [or](/en/post/or/) [preserve](/en/post/preserve/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [physical](/en/post/physical/) [object](/en/post/object/), [action](/en/post/action/), [or](/en/post/or/) [attitude](/en/post/attitude/) designed [to](/en/post/to/) [prevent](/en/post/prevent/) [harm](/en/post/harm/) [or](/en/post/or/) [damage](/en/post/damage/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [protective](/en/post/protective/) [barrier](/en/post/barrier/) prevented [the](/en/post/the/) intruders [from](/en/post/from/) entering."
+### [Noun](/post/noun/)
+[A](/post/a/) [protective](/post/protective/) [noun](/post/noun/) refers [to](/post/to/) [something](/post/something/) [that](/post/that/) serves [to](/post/to/) [guard](/post/guard/), [shield](/post/shield/), [or](/post/or/) [preserve](/post/preserve/). [It](/post/it/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [physical](/post/physical/) [object](/post/object/), [action](/post/action/), [or](/post/or/) [attitude](/post/attitude/) designed [to](/post/to/) [prevent](/post/prevent/) [harm](/post/harm/) [or](/post/or/) [damage](/post/damage/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [protective](/post/protective/) [barrier](/post/barrier/) prevented [the](/post/the/) intruders [from](/post/from/) entering."
 
-### [Adjective](/en/post/adjective/)
-1. **Describing an [action](/en/post/action/)**: Intended [to](/en/post/to/) [keep](/en/post/keep/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [safe](/en/post/safe/) [from](/en/post/from/) [harm](/en/post/harm/) [or](/en/post/or/) [danger](/en/post/danger/). [Example](/en/post/example/): "[The](/en/post/the/) [protective](/en/post/protective/) measures taken [by](/en/post/by/) parents [for](/en/post/for/) [their](/en/post/their/) children's [safety](/en/post/safety/)."
-2. **Characterizing [a](/en/post/a/) [characteristic](/en/post/characteristic/)**: Marking [a](/en/post/a/) [quality](/en/post/quality/) [that](/en/post/that/) guards [against](/en/post/against/) [harm](/en/post/harm/) [or](/en/post/or/) [injury](/en/post/injury/). [Example](/en/post/example/): "[Her](/en/post/her/) [protective](/en/post/protective/) [clothing](/en/post/clothing/) saved [her](/en/post/her/) [from](/en/post/from/) burns."
+### [Adjective](/post/adjective/)
+1. **Describing an [action](/post/action/)**: Intended [to](/post/to/) [keep](/post/keep/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [safe](/post/safe/) [from](/post/from/) [harm](/post/harm/) [or](/post/or/) [danger](/post/danger/). [Example](/post/example/): "[The](/post/the/) [protective](/post/protective/) measures taken [by](/post/by/) parents [for](/post/for/) [their](/post/their/) children's [safety](/post/safety/)."
+2. **Characterizing [a](/post/a/) [characteristic](/post/characteristic/)**: Marking [a](/post/a/) [quality](/post/quality/) [that](/post/that/) guards [against](/post/against/) [harm](/post/harm/) [or](/post/or/) [injury](/post/injury/). [Example](/post/example/): "[Her](/post/her/) [protective](/post/protective/) [clothing](/post/clothing/) saved [her](/post/her/) [from](/post/from/) burns."
 
-### [Adverb](/en/post/adverb/)
-[In](/en/post/in/) [this](/en/post/this/) context, "protectively" describes [how](/en/post/how/) [something](/en/post/something/) is done [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) guarding [or](/en/post/or/) preserving. [Example](/en/post/example/): "[He](/en/post/he/) held [the](/en/post/the/) [baby](/en/post/baby/) protectively [in](/en/post/in/) [his](/en/post/his/) arms."
+### [Adverb](/post/adverb/)
+[In](/post/in/) [this](/post/this/) context, "protectively" describes [how](/post/how/) [something](/post/something/) is done [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) guarding [or](/post/or/) preserving. [Example](/post/example/): "[He](/post/he/) held [the](/post/the/) [baby](/post/baby/) protectively [in](/post/in/) [his](/post/his/) arms."
 
 ## Phrases
-- "[Provide](/en/post/provide/) [protective](/en/post/protective/) [cover](/en/post/cover/)" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) [shelter](/en/post/shelter/) [or](/en/post/or/) defense.
-- "[A](/en/post/a/) [protective](/en/post/protective/) [instinct](/en/post/instinct/)" refers [to](/en/post/to/) [a](/en/post/a/) [natural](/en/post/natural/) [tendency](/en/post/tendency/) [to](/en/post/to/) safeguard [oneself](/en/post/oneself/) [or](/en/post/or/) others.
-- "[Protective](/en/post/protective/) gear" includes [equipment](/en/post/equipment/) worn [to](/en/post/to/) [prevent](/en/post/prevent/) [injury](/en/post/injury/).
+- "[Provide](/post/provide/) [protective](/post/protective/) [cover](/post/cover/)" [means](/post/means/) [to](/post/to/) [give](/post/give/) [shelter](/post/shelter/) [or](/post/or/) defense.
+- "[A](/post/a/) [protective](/post/protective/) [instinct](/post/instinct/)" refers [to](/post/to/) [a](/post/a/) [natural](/post/natural/) [tendency](/post/tendency/) [to](/post/to/) safeguard [oneself](/post/oneself/) [or](/post/or/) others.
+- "[Protective](/post/protective/) gear" includes [equipment](/post/equipment/) worn [to](/post/to/) [prevent](/post/prevent/) [injury](/post/injury/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [protective](/en/post/protective/) [umbrella](/en/post/umbrella/) [provided](/en/post/provided/) [shade](/en/post/shade/) [from](/en/post/from/) [the](/en/post/the/) [rain](/en/post/rain/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) felt [safe](/en/post/safe/) [under](/en/post/under/) [his](/en/post/his/) [protective](/en/post/protective/) [gaze](/en/post/gaze/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) drove protectively [around](/en/post/around/) [the](/en/post/the/) corners."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [protective](/post/protective/) [umbrella](/post/umbrella/) [provided](/post/provided/) [shade](/post/shade/) [from](/post/from/) [the](/post/the/) [rain](/post/rain/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) felt [safe](/post/safe/) [under](/post/under/) [his](/post/his/) [protective](/post/protective/) [gaze](/post/gaze/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) drove protectively [around](/post/around/) [the](/post/the/) corners."
 
 ## Synonyms
 - Shielding
 - Guarding
 - Defending
 - Safeguarding
-- [Careful](/en/post/careful/)
-- [Protective](/en/post/protective/) measures
+- [Careful](/post/careful/)
+- [Protective](/post/protective/) measures
 - Custodial
-- [Shield](/en/post/shield/)
+- [Shield](/post/shield/)
 - Armor
 - Covering

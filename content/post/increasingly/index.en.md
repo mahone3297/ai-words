@@ -7,34 +7,34 @@ description = '[inˈkriːsiŋli] ad.日益，越来越多地'
 keywords = ['ai words', 'increasingly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈkriːsɪŋlɪ/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) growing [or](/en/post/or/) [progressive](/en/post/progressive/) [manner](/en/post/manner/); [by](/en/post/by/) increasing degrees. [It](/en/post/it/) describes verbs, typically indicating [that](/en/post/that/) [something](/en/post/something/) is becoming [more](/en/post/more/) [frequent](/en/post/frequent/), [intense](/en/post/intense/), [or](/en/post/or/) larger [over](/en/post/over/) [time](/en/post/time/).
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) growing [or](/post/or/) [progressive](/post/progressive/) [manner](/post/manner/); [by](/post/by/) increasing degrees. [It](/post/it/) describes verbs, typically indicating [that](/post/that/) [something](/post/something/) is becoming [more](/post/more/) [frequent](/post/frequent/), [intense](/post/intense/), [or](/post/or/) larger [over](/post/over/) [time](/post/time/).
 
-[Example](/en/post/example/) [usage](/en/post/usage/):
+[Example](/post/example/) [usage](/post/usage/):
 
-- **Describing [a](/en/post/a/) [Verb](/en/post/verb/)**: "[The](/en/post/the/) [demand](/en/post/demand/) [for](/en/post/for/) [electric](/en/post/electric/) cars is [increasingly](/en/post/increasingly/) [high](/en/post/high/) [due](/en/post/due/) [to](/en/post/to/) environmental concerns."
-  - _In [this](/en/post/this/) [sentence](/en/post/sentence/), "[increasingly](/en/post/increasingly/)" modifies [the](/en/post/the/) [adjective](/en/post/adjective/) "[high](/en/post/high/)," emphasizing [that](/en/post/that/) [the](/en/post/the/) [demand](/en/post/demand/) is rising [more](/en/post/more/) [and](/en/post/and/) [more](/en/post/more/)._
+- **Describing [a](/post/a/) [Verb](/post/verb/)**: "[The](/post/the/) [demand](/post/demand/) [for](/post/for/) [electric](/post/electric/) cars is [increasingly](/post/increasingly/) [high](/post/high/) [due](/post/due/) [to](/post/to/) environmental concerns."
+  - _In [this](/post/this/) [sentence](/post/sentence/), "[increasingly](/post/increasingly/)" modifies [the](/post/the/) [adjective](/post/adjective/) "[high](/post/high/)," emphasizing [that](/post/that/) [the](/post/the/) [demand](/post/demand/) is rising [more](/post/more/) [and](/post/and/) [more](/post/more/)._
 
-- **Modifying Adjectives**: "[She](/en/post/she/) [found](/en/post/found/) [herself](/en/post/herself/) [feeling](/en/post/feeling/) [increasingly](/en/post/increasingly/) [anxious](/en/post/anxious/) [before](/en/post/before/) exams."
-  - _Here, "[increasingly](/en/post/increasingly/)" intensifies [the](/en/post/the/) [degree](/en/post/degree/) [to](/en/post/to/) [which](/en/post/which/) [the](/en/post/the/) [person](/en/post/person/) feels [anxious](/en/post/anxious/)._
+- **Modifying Adjectives**: "[She](/post/she/) [found](/post/found/) [herself](/post/herself/) [feeling](/post/feeling/) [increasingly](/post/increasingly/) [anxious](/post/anxious/) [before](/post/before/) exams."
+  - _Here, "[increasingly](/post/increasingly/)" intensifies [the](/post/the/) [degree](/post/degree/) [to](/post/to/) [which](/post/which/) [the](/post/the/) [person](/post/person/) feels [anxious](/post/anxious/)._
 
 ## Phrases
-- "[Increasingly](/en/post/increasingly/) [popular](/en/post/popular/)": Refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) gains popularity [over](/en/post/over/) [time](/en/post/time/).
-  - [Example](/en/post/example/): "[Electric](/en/post/electric/) bikes [have](/en/post/have/) [become](/en/post/become/) [increasingly](/en/post/increasingly/) [popular](/en/post/popular/) [among](/en/post/among/) urban commuters."
+- "[Increasingly](/post/increasingly/) [popular](/post/popular/)": Refers [to](/post/to/) [something](/post/something/) [that](/post/that/) gains popularity [over](/post/over/) [time](/post/time/).
+  - [Example](/post/example/): "[Electric](/post/electric/) bikes [have](/post/have/) [become](/post/become/) [increasingly](/post/increasingly/) [popular](/post/popular/) [among](/post/among/) urban commuters."
 
-- "[Increasingly](/en/post/increasingly/) [important](/en/post/important/)": Signifies [that](/en/post/that/) [something](/en/post/something/) is gaining [significance](/en/post/significance/) [with](/en/post/with/) [time](/en/post/time/).
-  - [Example](/en/post/example/): "Environmental [protection](/en/post/protection/) has [become](/en/post/become/) [increasingly](/en/post/increasingly/) [important](/en/post/important/) [in](/en/post/in/) global policy-making."
+- "[Increasingly](/post/increasingly/) [important](/post/important/)": Signifies [that](/post/that/) [something](/post/something/) is gaining [significance](/post/significance/) [with](/post/with/) [time](/post/time/).
+  - [Example](/post/example/): "Environmental [protection](/post/protection/) has [become](/post/become/) [increasingly](/post/increasingly/) [important](/post/important/) [in](/post/in/) global policy-making."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/) modifying [a](/en/post/a/) [Verb](/en/post/verb/)**: "[The](/en/post/the/) [need](/en/post/need/) [for](/en/post/for/) renewable [energy](/en/post/energy/) sources is [increasingly](/en/post/increasingly/) pressing [as](/en/post/as/) fossil [fuel](/en/post/fuel/) reserves dwindle."
-- **[Adverb](/en/post/adverb/) modifying an [Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [confidence](/en/post/confidence/) grew [increasingly](/en/post/increasingly/) [throughout](/en/post/throughout/) [the](/en/post/the/) [season](/en/post/season/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/) modifying [a](/post/a/) [Verb](/post/verb/)**: "[The](/post/the/) [need](/post/need/) [for](/post/for/) renewable [energy](/post/energy/) sources is [increasingly](/post/increasingly/) pressing [as](/post/as/) fossil [fuel](/post/fuel/) reserves dwindle."
+- **[Adverb](/post/adverb/) modifying an [Adjective](/post/adjective/)**: "[His](/post/his/) [confidence](/post/confidence/) grew [increasingly](/post/increasingly/) [throughout](/post/throughout/) [the](/post/the/) [season](/post/season/)."
 
 ## Synonyms
-- [More](/en/post/more/) [and](/en/post/and/) [more](/en/post/more/)
-- [Gradually](/en/post/gradually/)
-- [Steadily](/en/post/steadily/)
+- [More](/post/more/) [and](/post/and/) [more](/post/more/)
+- [Gradually](/post/gradually/)
+- [Steadily](/post/steadily/)
 - Progressively
 - Growingly

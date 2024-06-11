@@ -11,20 +11,20 @@ keywords = ['ai words', 'scare']
 /scɛər/
 
 ## 释义
-- **动词**: 使惊恐；使害怕。例如: "[The](/post/the/) [sudden](/post/sudden/) [noise](/post/noise/) scared [the](/post/the/) [child](/post/child/)."
-- **名词**: 恐惧；惊吓。例如: "[The](/post/the/) [sight](/post/sight/) [of](/post/of/) [a](/post/a/) [snake](/post/snake/) caused [a](/post/a/) [scare](/post/scare/) [among](/post/among/) [the](/post/the/) campers."
+- **动词**: 使惊恐；使害怕。例如: "[The](/zh/post/the/) [sudden](/zh/post/sudden/) [noise](/zh/post/noise/) scared [the](/zh/post/the/) [child](/zh/post/child/)."
+- **名词**: 恐惧；惊吓。例如: "[The](/zh/post/the/) [sight](/zh/post/sight/) [of](/zh/post/of/) [a](/zh/post/a/) [snake](/zh/post/snake/) caused [a](/zh/post/a/) [scare](/zh/post/scare/) [among](/zh/post/among/) [the](/zh/post/the/) campers."
 
 ## 短语
-- "[to](/post/to/) [give](/post/give/) [someone](/post/someone/) [a](/post/a/) [scare](/post/scare/)" 使某人受惊。
-- "[a](/post/a/) [false](/post/false/) [scare](/post/scare/)" 虚惊一场。
+- "[to](/zh/post/to/) [give](/zh/post/give/) [someone](/zh/post/someone/) [a](/zh/post/a/) [scare](/zh/post/scare/)" 使某人受惊。
+- "[a](/zh/post/a/) [false](/zh/post/false/) [scare](/zh/post/scare/)" 虚惊一场。
 
 ## 例句
-- 动词: "[The](/post/the/) [loud](/post/loud/) [thunder](/post/thunder/) scared [the](/post/the/) [cat](/post/cat/) [into](/post/into/) hiding [under](/post/under/) [the](/post/the/) [bed](/post/bed/)."
-- 名词: "[The](/post/the/) [news](/post/news/) [of](/post/of/) [a](/post/a/) [possible](/post/possible/) outbreak created [a](/post/a/) [health](/post/health/) [scare](/post/scare/) [in](/post/in/) [the](/post/the/) [community](/post/community/)."
+- 动词: "[The](/zh/post/the/) [loud](/zh/post/loud/) [thunder](/zh/post/thunder/) scared [the](/zh/post/the/) [cat](/zh/post/cat/) [into](/zh/post/into/) hiding [under](/zh/post/under/) [the](/zh/post/the/) [bed](/zh/post/bed/)."
+- 名词: "[The](/zh/post/the/) [news](/zh/post/news/) [of](/zh/post/of/) [a](/zh/post/a/) [possible](/zh/post/possible/) outbreak created [a](/zh/post/a/) [health](/zh/post/health/) [scare](/zh/post/scare/) [in](/zh/post/in/) [the](/zh/post/the/) [community](/zh/post/community/)."
 
 ## 同义词
-- [Frighten](/post/frighten/)
+- [Frighten](/zh/post/frighten/)
 - Terrify
-- [Alarm](/post/alarm/)
-- [Startle](/post/startle/)
+- [Alarm](/zh/post/alarm/)
+- [Startle](/zh/post/startle/)
 - Panic

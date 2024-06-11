@@ -7,40 +7,40 @@ description = '[gəuld] n.金；钱财 a.金制的'
 keywords = ['ai words', 'gold']
 +++
 
-## [Word](/en/post/word/): [Gold](/en/post/gold/)
+## [Word](/post/word/): [Gold](/post/gold/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡōld/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [yellow](/en/post/yellow/) [precious](/en/post/precious/) [metal](/en/post/metal/), [often](/en/post/often/) [found](/en/post/found/) [in](/en/post/in/) nuggets [or](/en/post/or/) grains, [that](/en/post/that/) is [highly](/en/post/highly/) valued [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) rarity, [beauty](/en/post/beauty/), [and](/en/post/and/) [resistance](/en/post/resistance/) [to](/en/post/to/) corrosion. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) wore [a](/en/post/a/) [necklace](/en/post/necklace/) made [of](/en/post/of/) [pure](/en/post/pure/) [gold](/en/post/gold/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) considered [valuable](/en/post/valuable/) [or](/en/post/or/) [of](/en/post/of/) [the](/en/post/the/) highest [quality](/en/post/quality/), e.g., "[The](/en/post/the/) championship trophy was [the](/en/post/the/) [gold](/en/post/gold/) [they](/en/post/they/) had been striving [for](/en/post/for/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [yellow](/post/yellow/) [precious](/post/precious/) [metal](/post/metal/), [often](/post/often/) [found](/post/found/) [in](/post/in/) nuggets [or](/post/or/) grains, [that](/post/that/) is [highly](/post/highly/) valued [due](/post/due/) [to](/post/to/) [its](/post/its/) rarity, [beauty](/post/beauty/), [and](/post/and/) [resistance](/post/resistance/) [to](/post/to/) corrosion. [For](/post/for/) [example](/post/example/): "[She](/post/she/) wore [a](/post/a/) [necklace](/post/necklace/) made [of](/post/of/) [pure](/post/pure/) [gold](/post/gold/)."
+  - [Also](/post/also/) [used](/post/used/) metaphorically [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) considered [valuable](/post/valuable/) [or](/post/or/) [of](/post/of/) [the](/post/the/) highest [quality](/post/quality/), e.g., "[The](/post/the/) championship trophy was [the](/post/the/) [gold](/post/gold/) [they](/post/they/) had been striving [for](/post/for/)."
   
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) made [of](/en/post/of/) [gold](/en/post/gold/); having [the](/en/post/the/) [color](/en/post/color/) [of](/en/post/of/) [gold](/en/post/gold/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) sun's rays [cast](/en/post/cast/) [a](/en/post/a/) [golden](/en/post/golden/) [glow](/en/post/glow/) [over](/en/post/over/) [the](/en/post/the/) landscape."
-  - [Also](/en/post/also/) [used](/en/post/used/) figuratively [to](/en/post/to/) denote excellence [or](/en/post/or/) superiority, e.g., "[He](/en/post/he/) achieved [gold](/en/post/gold/) [medal](/en/post/medal/) [status](/en/post/status/) [in](/en/post/in/) [his](/en/post/his/) [field](/en/post/field/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) made [of](/post/of/) [gold](/post/gold/); having [the](/post/the/) [color](/post/color/) [of](/post/of/) [gold](/post/gold/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) sun's rays [cast](/post/cast/) [a](/post/a/) [golden](/post/golden/) [glow](/post/glow/) [over](/post/over/) [the](/post/the/) landscape."
+  - [Also](/post/also/) [used](/post/used/) figuratively [to](/post/to/) denote excellence [or](/post/or/) superiority, e.g., "[He](/post/he/) achieved [gold](/post/gold/) [medal](/post/medal/) [status](/post/status/) [in](/post/in/) [his](/post/his/) [field](/post/field/)."
 
 ## Phrases
-- "[Gold](/en/post/gold/) [standard](/en/post/standard/)": [A](/en/post/a/) benchmark [against](/en/post/against/) [which](/en/post/which/) [other](/en/post/other/) things [can](/en/post/can/) [be](/en/post/be/) measured [or](/en/post/or/) judged, originally referring [to](/en/post/to/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [gold](/en/post/gold/) [as](/en/post/as/) [a](/en/post/a/) monetary [standard](/en/post/standard/).
-- "[Pot](/en/post/pot/) [of](/en/post/of/) [gold](/en/post/gold/)": Refers [to](/en/post/to/) [the](/en/post/the/) [treasure](/en/post/treasure/) [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) [rainbow](/en/post/rainbow/) [in](/en/post/in/) folklore; [also](/en/post/also/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) lucrative [or](/en/post/or/) [highly](/en/post/highly/) [desirable](/en/post/desirable/) [outcome](/en/post/outcome/).
-- "[Good](/en/post/good/) [as](/en/post/as/) [gold](/en/post/gold/)": Describing [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [that](/en/post/that/) is [extremely](/en/post/extremely/) well-behaved, [reliable](/en/post/reliable/), [or](/en/post/or/) [of](/en/post/of/) [high](/en/post/high/) [quality](/en/post/quality/).
+- "[Gold](/post/gold/) [standard](/post/standard/)": [A](/post/a/) benchmark [against](/post/against/) [which](/post/which/) [other](/post/other/) things [can](/post/can/) [be](/post/be/) measured [or](/post/or/) judged, originally referring [to](/post/to/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [gold](/post/gold/) [as](/post/as/) [a](/post/a/) monetary [standard](/post/standard/).
+- "[Pot](/post/pot/) [of](/post/of/) [gold](/post/gold/)": Refers [to](/post/to/) [the](/post/the/) [treasure](/post/treasure/) [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [a](/post/a/) [rainbow](/post/rainbow/) [in](/post/in/) folklore; [also](/post/also/) [used](/post/used/) metaphorically [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) lucrative [or](/post/or/) [highly](/post/highly/) [desirable](/post/desirable/) [outcome](/post/outcome/).
+- "[Good](/post/good/) [as](/post/as/) [gold](/post/gold/)": Describing [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [that](/post/that/) is [extremely](/post/extremely/) well-behaved, [reliable](/post/reliable/), [or](/post/or/) [of](/post/of/) [high](/post/high/) [quality](/post/quality/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [civilization](/en/post/civilization/) crafted intricate jewelry [out](/en/post/out/) [of](/en/post/of/) [solid](/en/post/solid/) [gold](/en/post/gold/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [interior](/en/post/interior/) [of](/en/post/of/) [the](/en/post/the/) [palace](/en/post/palace/) was adorned [with](/en/post/with/) gold-plated fixtures."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ancient](/post/ancient/) [civilization](/post/civilization/) crafted intricate jewelry [out](/post/out/) [of](/post/of/) [solid](/post/solid/) [gold](/post/gold/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [interior](/post/interior/) [of](/post/of/) [the](/post/the/) [palace](/post/palace/) was adorned [with](/post/with/) gold-plated fixtures."
 
 ## Synonyms
 - Bullion
-- [Metal](/en/post/metal/)
-- [Ore](/en/post/ore/)
-- [Treasure](/en/post/treasure/)
-- [Yellow](/en/post/yellow/) [metal](/en/post/metal/)
-- Aurum ([in](/en/post/in/) [scientific](/en/post/scientific/) contexts)
-- [Golden](/en/post/golden/) ([as](/en/post/as/) an [adjective](/en/post/adjective/)) 
+- [Metal](/post/metal/)
+- [Ore](/post/ore/)
+- [Treasure](/post/treasure/)
+- [Yellow](/post/yellow/) [metal](/post/metal/)
+- Aurum ([in](/post/in/) [scientific](/post/scientific/) contexts)
+- [Golden](/post/golden/) ([as](/post/as/) an [adjective](/post/adjective/)) 
 
-### [Adjective](/en/post/adjective/) Synonyms
-- [Golden](/en/post/golden/)
+### [Adjective](/post/adjective/) Synonyms
+- [Golden](/post/golden/)
 - Gilded
-- [Precious](/en/post/precious/)
-- [Valuable](/en/post/valuable/)
+- [Precious](/post/precious/)
+- [Valuable](/post/valuable/)
 - Invaluable
 - Priceless

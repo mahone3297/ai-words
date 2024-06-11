@@ -7,34 +7,34 @@ description = '[ˈnei∫(ə)n] n.民族；国家'
 keywords = ['ai words', 'nation']
 +++
 
-## [Word](/en/post/word/): [Nation](/en/post/nation/)
+## [Word](/post/word/): [Nation](/post/nation/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈneɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) [share](/en/post/share/) [the](/en/post/the/) [same](/en/post/same/) [history](/en/post/history/), [culture](/en/post/culture/), [language](/en/post/language/), descent, [or](/en/post/or/) [territory](/en/post/territory/), [often](/en/post/often/) [under](/en/post/under/) [the](/en/post/the/) [same](/en/post/same/) [government](/en/post/government/) [and](/en/post/and/) occupying [a](/en/post/a/) [particular](/en/post/particular/) geographical [area](/en/post/area/). [It](/en/post/it/) [usually](/en/post/usually/) has [its](/en/post/its/) [own](/en/post/own/) distinctive identity [and](/en/post/and/) institutions. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) United States is [a](/en/post/a/) [nation](/en/post/nation/) built [by](/en/post/by/) immigrants [from](/en/post/from/) [all](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [world](/en/post/world/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [who](/post/who/) [share](/post/share/) [the](/post/the/) [same](/post/same/) [history](/post/history/), [culture](/post/culture/), [language](/post/language/), descent, [or](/post/or/) [territory](/post/territory/), [often](/post/often/) [under](/post/under/) [the](/post/the/) [same](/post/same/) [government](/post/government/) [and](/post/and/) occupying [a](/post/a/) [particular](/post/particular/) geographical [area](/post/area/). [It](/post/it/) [usually](/post/usually/) has [its](/post/its/) [own](/post/own/) distinctive identity [and](/post/and/) institutions. [For](/post/for/) [example](/post/example/): "[The](/post/the/) United States is [a](/post/a/) [nation](/post/nation/) built [by](/post/by/) immigrants [from](/post/from/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [world](/post/world/)."
 
-  - **Derived Terms**: [National](/en/post/national/) (adj.), [Nationality](/en/post/nationality/) ([noun](/en/post/noun/)), Nationalism ([noun](/en/post/noun/))
+  - **Derived Terms**: [National](/post/national/) (adj.), [Nationality](/post/nationality/) ([noun](/post/noun/)), Nationalism ([noun](/post/noun/))
 
-**[Example](/en/post/example/) Sentences**
-- _Noun_: "[The](/en/post/the/) [entire](/en/post/entire/) [nation](/en/post/nation/) came [together](/en/post/together/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [their](/en/post/their/) [independence](/en/post/independence/) [day](/en/post/day/)."
-- "[They](/en/post/they/) aimed [to](/en/post/to/) [build](/en/post/build/) [a](/en/post/a/) [strong](/en/post/strong/), unified [nation](/en/post/nation/) [with](/en/post/with/) [equal](/en/post/equal/) opportunities [for](/en/post/for/) [all](/en/post/all/) citizens."
+**[Example](/post/example/) Sentences**
+- _Noun_: "[The](/post/the/) [entire](/post/entire/) [nation](/post/nation/) came [together](/post/together/) [to](/post/to/) [celebrate](/post/celebrate/) [their](/post/their/) [independence](/post/independence/) [day](/post/day/)."
+- "[They](/post/they/) aimed [to](/post/to/) [build](/post/build/) [a](/post/a/) [strong](/post/strong/), unified [nation](/post/nation/) [with](/post/with/) [equal](/post/equal/) opportunities [for](/post/for/) [all](/post/all/) citizens."
 
 ## Phrases
-- "Nation-state": [A](/en/post/a/) [political](/en/post/political/) entity [where](/en/post/where/) [the](/en/post/the/) [population](/en/post/population/) is composed [primarily](/en/post/primarily/) [of](/en/post/of/) [a](/en/post/a/) [single](/en/post/single/) [nation](/en/post/nation/).
-- "Nation-building": [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) constructing [or](/en/post/or/) strengthening [the](/en/post/the/) [national](/en/post/national/) identity [and](/en/post/and/) [the](/en/post/the/) institutions [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/).
-- "[One](/en/post/one/) [nation](/en/post/nation/) [under](/en/post/under/) God": [A](/en/post/a/) [phrase](/en/post/phrase/) [often](/en/post/often/) [found](/en/post/found/) [in](/en/post/in/) [national](/en/post/national/) pledges [or](/en/post/or/) anthems, symbolizing [unity](/en/post/unity/) [and](/en/post/and/) shared values.
+- "Nation-state": [A](/post/a/) [political](/post/political/) entity [where](/post/where/) [the](/post/the/) [population](/post/population/) is composed [primarily](/post/primarily/) [of](/post/of/) [a](/post/a/) [single](/post/single/) [nation](/post/nation/).
+- "Nation-building": [The](/post/the/) [process](/post/process/) [of](/post/of/) constructing [or](/post/or/) strengthening [the](/post/the/) [national](/post/national/) identity [and](/post/and/) [the](/post/the/) institutions [of](/post/of/) [a](/post/a/) [country](/post/country/).
+- "[One](/post/one/) [nation](/post/nation/) [under](/post/under/) God": [A](/post/a/) [phrase](/post/phrase/) [often](/post/often/) [found](/post/found/) [in](/post/in/) [national](/post/national/) pledges [or](/post/or/) anthems, symbolizing [unity](/post/unity/) [and](/post/and/) shared values.
   
 ## Synonyms
-- [Country](/en/post/country/)
-- [State](/en/post/state/)
-- [People](/en/post/people/)
+- [Country](/post/country/)
+- [State](/post/state/)
+- [People](/post/people/)
 - Nationhood
-- [Community](/en/post/community/)
-- [Population](/en/post/population/)
-- [Civilization](/en/post/civilization/)
-- Sovereign [state](/en/post/state/)
-- [Republic](/en/post/republic/)
-- [Kingdom](/en/post/kingdom/)
+- [Community](/post/community/)
+- [Population](/post/population/)
+- [Civilization](/post/civilization/)
+- Sovereign [state](/post/state/)
+- [Republic](/post/republic/)
+- [Kingdom](/post/kingdom/)
 - Commonwealth

@@ -12,20 +12,20 @@ keywords = ['ai words', 'steer']
 
 ## 释义
 - **动词**:
-1. 控制（车辆、船等）的方向；驾驶。例如: "[He](/post/he/) steered [the](/post/the/) [car](/post/car/) [through](/post/through/) [the](/post/the/) [busy](/post/busy/) streets."
-2. 引导；指导。例如: "[The](/post/the/) [teacher](/post/teacher/) steered [the](/post/the/) students towards [better](/post/better/) [study](/post/study/) habits."
+1. 控制（车辆、船等）的方向；驾驶。例如: "[He](/zh/post/he/) steered [the](/zh/post/the/) [car](/zh/post/car/) [through](/zh/post/through/) [the](/zh/post/the/) [busy](/zh/post/busy/) streets."
+2. 引导；指导。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) steered [the](/zh/post/the/) students towards [better](/zh/post/better/) [study](/zh/post/study/) habits."
 
 ## 短语
-- "[steer](/post/steer/) [clear](/post/clear/) [of](/post/of/)" 避开，避免。例如: "[You](/post/you/) [should](/post/should/) [steer](/post/steer/) [clear](/post/clear/) [of](/post/of/) [that](/post/that/) [topic](/post/topic/) [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
-- "[steer](/post/steer/) [someone](/post/someone/) [in](/post/in/) [the](/post/the/) [right](/post/right/) [direction](/post/direction/)" 帮助某人找到正确的方法或方向。例如: "[Her](/post/her/) mentor steered [her](/post/her/) [in](/post/in/) [the](/post/the/) [right](/post/right/) [direction](/post/direction/) [for](/post/for/) [career](/post/career/) advancement."
+- "[steer](/zh/post/steer/) [clear](/zh/post/clear/) [of](/zh/post/of/)" 避开，避免。例如: "[You](/zh/post/you/) [should](/zh/post/should/) [steer](/zh/post/steer/) [clear](/zh/post/clear/) [of](/zh/post/of/) [that](/zh/post/that/) [topic](/zh/post/topic/) [during](/zh/post/during/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
+- "[steer](/zh/post/steer/) [someone](/zh/post/someone/) [in](/zh/post/in/) [the](/zh/post/the/) [right](/zh/post/right/) [direction](/zh/post/direction/)" 帮助某人找到正确的方法或方向。例如: "[Her](/zh/post/her/) mentor steered [her](/zh/post/her/) [in](/zh/post/in/) [the](/zh/post/the/) [right](/zh/post/right/) [direction](/zh/post/direction/) [for](/zh/post/for/) [career](/zh/post/career/) advancement."
 
 ## 例句
-- 动词: "[She](/post/she/) expertly steered [the](/post/the/) [boat](/post/boat/) [through](/post/through/) [the](/post/the/) [narrow](/post/narrow/) [canal](/post/canal/)."
-- 动词: "[The](/post/the/) [coach](/post/coach/) steered [the](/post/the/) [team](/post/team/) towards [victory](/post/victory/) [with](/post/with/) [his](/post/his/) strategic decisions."
+- 动词: "[She](/zh/post/she/) expertly steered [the](/zh/post/the/) [boat](/zh/post/boat/) [through](/zh/post/through/) [the](/zh/post/the/) [narrow](/zh/post/narrow/) [canal](/zh/post/canal/)."
+- 动词: "[The](/zh/post/the/) [coach](/zh/post/coach/) steered [the](/zh/post/the/) [team](/zh/post/team/) towards [victory](/zh/post/victory/) [with](/zh/post/with/) [his](/zh/post/his/) strategic decisions."
 
 ## 同义词
-- [guide](/post/guide/)
-- [direct](/post/direct/)
+- [guide](/zh/post/guide/)
+- [direct](/zh/post/direct/)
 - navigate
-- [pilot](/post/pilot/)
+- [pilot](/zh/post/pilot/)
 - manipulate

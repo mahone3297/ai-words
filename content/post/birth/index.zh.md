@@ -11,20 +11,20 @@ keywords = ['ai words', 'birth']
 /bɜːθ/
 
 ## 释义
-- **名词**: 生，出生，诞生。指生命的开始，特别是指婴儿的出生。例如: "[She](/post/she/) gave [birth](/post/birth/) [to](/post/to/) [a](/post/a/) [healthy](/post/healthy/) [baby](/post/baby/) [boy](/post/boy/)."
-- **名词**: 起源，发源，创建。指事物的开始或起源。例如: "[The](/post/the/) [birth](/post/birth/) [of](/post/of/) [the](/post/the/) internet revolutionized [communication](/post/communication/)."
+- **名词**: 生，出生，诞生。指生命的开始，特别是指婴儿的出生。例如: "[She](/zh/post/she/) gave [birth](/zh/post/birth/) [to](/zh/post/to/) [a](/zh/post/a/) [healthy](/zh/post/healthy/) [baby](/zh/post/baby/) [boy](/zh/post/boy/)."
+- **名词**: 起源，发源，创建。指事物的开始或起源。例如: "[The](/zh/post/the/) [birth](/zh/post/birth/) [of](/zh/post/of/) [the](/zh/post/the/) internet revolutionized [communication](/zh/post/communication/)."
 
 ## 短语
-- "[At](/post/at/) [birth](/post/birth/)" 指在出生时。例如: "[The](/post/the/) [baby](/post/baby/) weighed 3.5 kg [at](/post/at/) [birth](/post/birth/)."
-- "[Birth](/post/birth/) [rate](/post/rate/)" 出生率，指一个地区或群体在一定时间内新生儿的数量。
+- "[At](/zh/post/at/) [birth](/zh/post/birth/)" 指在出生时。例如: "[The](/zh/post/the/) [baby](/zh/post/baby/) weighed 3.5 kg [at](/zh/post/at/) [birth](/zh/post/birth/)."
+- "[Birth](/zh/post/birth/) [rate](/zh/post/rate/)" 出生率，指一个地区或群体在一定时间内新生儿的数量。
 
 ## 例句
-- 名词: "[The](/post/the/) [birth](/post/birth/) [of](/post/of/) [their](/post/their/) [first](/post/first/) [child](/post/child/) was [a](/post/a/) joyous [occasion](/post/occasion/) [for](/post/for/) [the](/post/the/) [couple](/post/couple/)."
-- 名词: "[The](/post/the/) [ancient](/post/ancient/) civilization's [birth](/post/birth/) [can](/post/can/) [be](/post/be/) traced [back](/post/back/) [to](/post/to/) 3000 BC."
+- 名词: "[The](/zh/post/the/) [birth](/zh/post/birth/) [of](/zh/post/of/) [their](/zh/post/their/) [first](/zh/post/first/) [child](/zh/post/child/) was [a](/zh/post/a/) joyous [occasion](/zh/post/occasion/) [for](/zh/post/for/) [the](/zh/post/the/) [couple](/zh/post/couple/)."
+- 名词: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) civilization's [birth](/zh/post/birth/) [can](/zh/post/can/) [be](/zh/post/be/) traced [back](/zh/post/back/) [to](/zh/post/to/) 3000 BC."
 
 ## 同义词
-- [Arrival](/post/arrival/)
-- Coming [into](/post/into/) [existence](/post/existence/)
-- [Origin](/post/origin/)
-- [Start](/post/start/)
+- [Arrival](/zh/post/arrival/)
+- Coming [into](/zh/post/into/) [existence](/zh/post/existence/)
+- [Origin](/zh/post/origin/)
+- [Start](/zh/post/start/)
 - Emergence

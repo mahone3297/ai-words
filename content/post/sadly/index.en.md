@@ -7,21 +7,21 @@ description = '[ˈsædli] ad.悲痛地，悲哀地'
 keywords = ['ai words', 'sadly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sædli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Expressing [sorrow](/en/post/sorrow/), [regret](/en/post/regret/), [or](/en/post/or/) disappointment [in](/en/post/in/) [the](/en/post/the/) [manner](/en/post/manner/) [of](/en/post/of/) [something](/en/post/something/) [being](/en/post/being/) done [or](/en/post/or/) said. [It](/en/post/it/) modifies [a](/en/post/a/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [or](/en/post/or/) [other](/en/post/other/) [adverb](/en/post/adverb/).
+- **[Adverb](/post/adverb/)**: Expressing [sorrow](/post/sorrow/), [regret](/post/regret/), [or](/post/or/) disappointment [in](/post/in/) [the](/post/the/) [manner](/post/manner/) [of](/post/of/) [something](/post/something/) [being](/post/being/) done [or](/post/or/) said. [It](/post/it/) modifies [a](/post/a/) [verb](/post/verb/), [adjective](/post/adjective/), [or](/post/or/) [other](/post/other/) [adverb](/post/adverb/).
 
 ## Phrases
-- "[Sadly](/en/post/sadly/), [he](/en/post/he/) had [to](/en/post/to/) [leave](/en/post/leave/)."
-- "[She](/en/post/she/) wept [sadly](/en/post/sadly/) [after](/en/post/after/) receiving [the](/en/post/the/) [news](/en/post/news/)."
-- "[The](/en/post/the/) [news](/en/post/news/) came [sadly](/en/post/sadly/)."
+- "[Sadly](/post/sadly/), [he](/post/he/) had [to](/post/to/) [leave](/post/leave/)."
+- "[She](/post/she/) wept [sadly](/post/sadly/) [after](/post/after/) receiving [the](/post/the/) [news](/post/news/)."
+- "[The](/post/the/) [news](/post/news/) came [sadly](/post/sadly/)."
 
-## [Example](/en/post/example/) Sentences
-- "[He](/en/post/he/) accepted [the](/en/post/the/) [defeat](/en/post/defeat/) [with](/en/post/with/) [a](/en/post/a/) [heavy](/en/post/heavy/) [heart](/en/post/heart/), [sadly](/en/post/sadly/) acknowledging [his](/en/post/his/) [loss](/en/post/loss/)."
-- "[Sadly](/en/post/sadly/), [the](/en/post/the/) [concert](/en/post/concert/) was canceled [due](/en/post/due/) [to](/en/post/to/) unforeseen circumstances."
-- "[She](/en/post/she/) sighed [sadly](/en/post/sadly/) [as](/en/post/as/) [she](/en/post/she/) reminisced [about](/en/post/about/) [the](/en/post/the/) [past](/en/post/past/)."
+## [Example](/post/example/) Sentences
+- "[He](/post/he/) accepted [the](/post/the/) [defeat](/post/defeat/) [with](/post/with/) [a](/post/a/) [heavy](/post/heavy/) [heart](/post/heart/), [sadly](/post/sadly/) acknowledging [his](/post/his/) [loss](/post/loss/)."
+- "[Sadly](/post/sadly/), [the](/post/the/) [concert](/post/concert/) was canceled [due](/post/due/) [to](/post/to/) unforeseen circumstances."
+- "[She](/post/she/) sighed [sadly](/post/sadly/) [as](/post/as/) [she](/post/she/) reminisced [about](/post/about/) [the](/post/the/) [past](/post/past/)."
 
 ## Synonyms
 - Unhappily

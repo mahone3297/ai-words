@@ -7,31 +7,31 @@ description = '[ˈbritən] n.不列颠，英国'
 keywords = ['ai words', 'Britain']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /braɪˈtən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) largest [island](/en/post/island/) [in](/en/post/in/) [the](/en/post/the/) British Isles, consisting [of](/en/post/of/) England, Scotland, Wales, [and](/en/post/and/) [Northern](/en/post/northern/) Ireland; [also](/en/post/also/), [the](/en/post/the/) United [Kingdom](/en/post/kingdom/) excluding Ireland. 2. (informal) [The](/en/post/the/) British [nation](/en/post/nation/) [or](/en/post/or/) [its](/en/post/its/) [people](/en/post/people/) collectively. 
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) Britain [or](/en/post/or/) [its](/en/post/its/) [people](/en/post/people/), [culture](/en/post/culture/), [or](/en/post/or/) [history](/en/post/history/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) largest [island](/post/island/) [in](/post/in/) [the](/post/the/) British Isles, consisting [of](/post/of/) England, Scotland, Wales, [and](/post/and/) [Northern](/post/northern/) Ireland; [also](/post/also/), [the](/post/the/) United [Kingdom](/post/kingdom/) excluding Ireland. 2. (informal) [The](/post/the/) British [nation](/post/nation/) [or](/post/or/) [its](/post/its/) [people](/post/people/) collectively. 
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) Britain [or](/post/or/) [its](/post/its/) [people](/post/people/), [culture](/post/culture/), [or](/post/or/) [history](/post/history/).
 
 ## Phrases
-- "[Call](/en/post/call/) Britain [home](/en/post/home/)" [to](/en/post/to/) [describe](/en/post/describe/) someone's [connection](/en/post/connection/) [to](/en/post/to/) [the](/en/post/the/) [country](/en/post/country/).
-- "British Airways" is [the](/en/post/the/) airline's [name](/en/post/name/).
-- "[The](/en/post/the/) British [Empire](/en/post/empire/)" refers [to](/en/post/to/) [the](/en/post/the/) [historical](/en/post/historical/) [collection](/en/post/collection/) [of](/en/post/of/) territories controlled [by](/en/post/by/) [the](/en/post/the/) United [Kingdom](/en/post/kingdom/).
+- "[Call](/post/call/) Britain [home](/post/home/)" [to](/post/to/) [describe](/post/describe/) someone's [connection](/post/connection/) [to](/post/to/) [the](/post/the/) [country](/post/country/).
+- "British Airways" is [the](/post/the/) airline's [name](/post/name/).
+- "[The](/post/the/) British [Empire](/post/empire/)" refers [to](/post/to/) [the](/post/the/) [historical](/post/historical/) [collection](/post/collection/) [of](/post/of/) territories controlled [by](/post/by/) [the](/post/the/) United [Kingdom](/post/kingdom/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Many](/en/post/many/) tourists [visit](/en/post/visit/) Britain [to](/en/post/to/) [explore](/en/post/explore/) [its](/en/post/its/) historic landmarks."
-- **[Adjective](/en/post/adjective/)**: "Heritage sites [in](/en/post/in/) Britain showcase [the](/en/post/the/) [rich](/en/post/rich/) architectural [history](/en/post/history/)."
-- "[He](/en/post/he/) proudly displayed [his](/en/post/his/) British [passport](/en/post/passport/) [during](/en/post/during/) [the](/en/post/the/) [ceremony](/en/post/ceremony/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Many](/post/many/) tourists [visit](/post/visit/) Britain [to](/post/to/) [explore](/post/explore/) [its](/post/its/) historic landmarks."
+- **[Adjective](/post/adjective/)**: "Heritage sites [in](/post/in/) Britain showcase [the](/post/the/) [rich](/post/rich/) architectural [history](/post/history/)."
+- "[He](/post/he/) proudly displayed [his](/post/his/) British [passport](/post/passport/) [during](/post/during/) [the](/post/the/) [ceremony](/post/ceremony/)."
 
 ## Synonyms
-- UK (United [Kingdom](/en/post/kingdom/))
-- [Great](/en/post/great/) Britain
+- UK (United [Kingdom](/post/kingdom/))
+- [Great](/post/great/) Britain
 - British Isles
-- England, Scotland, Wales, [and](/en/post/and/) [Northern](/en/post/northern/) Ireland
+- England, Scotland, Wales, [and](/post/and/) [Northern](/post/northern/) Ireland
 - Anglo-Saxon
 
 ## Antonyms
-- [None](/en/post/none/) ([as](/en/post/as/) [it](/en/post/it/) is [a](/en/post/a/) geographical [term](/en/post/term/) [rather](/en/post/rather/) [than](/en/post/than/) [a](/en/post/a/) sentiment)
+- [None](/post/none/) ([as](/post/as/) [it](/post/it/) is [a](/post/a/) geographical [term](/post/term/) [rather](/post/rather/) [than](/post/than/) [a](/post/a/) sentiment)
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) [of](/en/post/of/) "Britain" is [not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) standalone [action](/en/post/action/), [but](/en/post/but/) [rather](/en/post/rather/) "British" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [modify](/en/post/modify/) verbs, [as](/en/post/as/) [in](/en/post/in/) "[the](/en/post/the/) British [government](/en/post/government/)" [or](/en/post/or/) "British citizens [greet](/en/post/greet/) visitors."
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) [of](/post/of/) "Britain" is [not](/post/not/) typically [used](/post/used/) [as](/post/as/) [a](/post/a/) standalone [action](/post/action/), [but](/post/but/) [rather](/post/rather/) "British" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [modify](/post/modify/) verbs, [as](/post/as/) [in](/post/in/) "[the](/post/the/) British [government](/post/government/)" [or](/post/or/) "British citizens [greet](/post/greet/) visitors."

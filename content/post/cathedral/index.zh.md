@@ -11,20 +11,20 @@ keywords = ['ai words', 'cathedral']
 /ˈkæθədrəl/
 
 ## 释义
-- **名词**: 大教堂，主教座堂。指基督教（尤其是天主教和圣公会）中主教所在地的大规模教堂，通常具有重要的宗教和建筑意义。例如: "[The](/post/the/) Notre-Dame [Cathedral](/post/cathedral/) [in](/post/in/) Paris is [a](/post/a/) [famous](/post/famous/) [example](/post/example/) [of](/post/of/) Gothic [architecture](/post/architecture/)."
+- **名词**: 大教堂，主教座堂。指基督教（尤其是天主教和圣公会）中主教所在地的大规模教堂，通常具有重要的宗教和建筑意义。例如: "[The](/zh/post/the/) Notre-Dame [Cathedral](/zh/post/cathedral/) [in](/zh/post/in/) Paris is [a](/zh/post/a/) [famous](/zh/post/famous/) [example](/zh/post/example/) [of](/zh/post/of/) Gothic [architecture](/zh/post/architecture/)."
   
 ## 短语
-- "[Cathedral](/post/cathedral/) [city](/post/city/)" 指拥有大教堂的城市。
-- "[Cathedral](/post/cathedral/) choir" 指在大教堂中演唱的唱诗班。
+- "[Cathedral](/zh/post/cathedral/) [city](/zh/post/city/)" 指拥有大教堂的城市。
+- "[Cathedral](/zh/post/cathedral/) choir" 指在大教堂中演唱的唱诗班。
 
 ## 例句
-- "[We](/post/we/) visited [the](/post/the/) [magnificent](/post/magnificent/) [cathedral](/post/cathedral/) [in](/post/in/) [the](/post/the/) [heart](/post/heart/) [of](/post/of/) [the](/post/the/) [old](/post/old/) [town](/post/town/)."
-- "[The](/post/the/) cathedral's [bell](/post/bell/) [tower](/post/tower/) [can](/post/can/) [be](/post/be/) seen [from](/post/from/) miles [away](/post/away/)."
-- "[The](/post/the/) cathedral's stained [glass](/post/glass/) windows are [truly](/post/truly/) breathtaking."
+- "[We](/zh/post/we/) visited [the](/zh/post/the/) [magnificent](/zh/post/magnificent/) [cathedral](/zh/post/cathedral/) [in](/zh/post/in/) [the](/zh/post/the/) [heart](/zh/post/heart/) [of](/zh/post/of/) [the](/zh/post/the/) [old](/zh/post/old/) [town](/zh/post/town/)."
+- "[The](/zh/post/the/) cathedral's [bell](/zh/post/bell/) [tower](/zh/post/tower/) [can](/zh/post/can/) [be](/zh/post/be/) seen [from](/zh/post/from/) miles [away](/zh/post/away/)."
+- "[The](/zh/post/the/) cathedral's stained [glass](/zh/post/glass/) windows are [truly](/zh/post/truly/) breathtaking."
 
 ## 同义词
 - Basilica
 - Minster
-- Abbey [Church](/post/church/)
-- Metropolitical [Church](/post/church/)
-- [Church](/post/church/) [Cathedral](/post/cathedral/)
+- Abbey [Church](/zh/post/church/)
+- Metropolitical [Church](/zh/post/church/)
+- [Church](/zh/post/church/) [Cathedral](/zh/post/cathedral/)

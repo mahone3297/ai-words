@@ -14,17 +14,17 @@ keywords = ['ai words', 'usually']
 - **副词**: 通常，经常，常常，一般情况下。表示行为或情况发生的频率很高。
 
 ## 短语
-- "[usually](/post/usually/) [do](/post/do/) [something](/post/something/)" 指经常做某事，如 "I [usually](/post/usually/) [go](/post/go/) [for](/post/for/) [a](/post/a/) [run](/post/run/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
-- "It's [usually](/post/usually/) [busy](/post/busy/) [at](/post/at/) [this](/post/this/) [time](/post/time/) [of](/post/of/) [day](/post/day/)" 表示在一天中的某个时段通常很忙。
+- "[usually](/zh/post/usually/) [do](/zh/post/do/) [something](/zh/post/something/)" 指经常做某事，如 "I [usually](/zh/post/usually/) [go](/zh/post/go/) [for](/zh/post/for/) [a](/zh/post/a/) [run](/zh/post/run/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+- "It's [usually](/zh/post/usually/) [busy](/zh/post/busy/) [at](/zh/post/at/) [this](/zh/post/this/) [time](/zh/post/time/) [of](/zh/post/of/) [day](/zh/post/day/)" 表示在一天中的某个时段通常很忙。
 
 ## 例句
-- "I [usually](/post/usually/) [wake](/post/wake/) [up](/post/up/) [at](/post/at/) 6 am [to](/post/to/) [start](/post/start/) [my](/post/my/) [day](/post/day/)."
-- "[The](/post/the/) [store](/post/store/) is [usually](/post/usually/) closed [on](/post/on/) Sundays."
-- "[He](/post/he/) arrives [at](/post/at/) [work](/post/work/) [early](/post/early/), [but](/post/but/) [today](/post/today/) he's running [late](/post/late/), [which](/post/which/) is [unusual](/post/unusual/)."
+- "I [usually](/zh/post/usually/) [wake](/zh/post/wake/) [up](/zh/post/up/) [at](/zh/post/at/) 6 am [to](/zh/post/to/) [start](/zh/post/start/) [my](/zh/post/my/) [day](/zh/post/day/)."
+- "[The](/zh/post/the/) [store](/zh/post/store/) is [usually](/zh/post/usually/) closed [on](/zh/post/on/) Sundays."
+- "[He](/zh/post/he/) arrives [at](/zh/post/at/) [work](/zh/post/work/) [early](/zh/post/early/), [but](/zh/post/but/) [today](/zh/post/today/) he's running [late](/zh/post/late/), [which](/zh/post/which/) is [unusual](/zh/post/unusual/)."
 
 ## 同义词
-- [commonly](/post/commonly/)
-- [often](/post/often/)
-- [frequently](/post/frequently/)
+- [commonly](/zh/post/commonly/)
+- [often](/zh/post/often/)
+- [frequently](/zh/post/frequently/)
 - typically
-- [as](/post/as/) [a](/post/a/) [rule](/post/rule/)
+- [as](/zh/post/as/) [a](/zh/post/a/) [rule](/zh/post/rule/)

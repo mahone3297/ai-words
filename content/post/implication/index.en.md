@@ -7,29 +7,29 @@ description = '[ˌimpliˈkei∫ən] n.含义，暗示，暗指'
 keywords = ['ai words', 'implication']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɪmplɪˈkeɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [conclusion](/en/post/conclusion/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) drawn [from](/en/post/from/) [something](/en/post/something/) [although](/en/post/although/) [it](/en/post/it/) is [not](/en/post/not/) explicitly stated; [a](/en/post/a/) [logical](/en/post/logical/) [consequence](/en/post/consequence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [implication](/en/post/implication/) [of](/en/post/of/) [his](/en/post/his/) [statement](/en/post/statement/) was [clear](/en/post/clear/) - [he](/en/post/he/) [would](/en/post/would/) [have](/en/post/have/) [to](/en/post/to/) [resign](/en/post/resign/)."
-  - **[Noun](/en/post/noun/)**: [In](/en/post/in/) [law](/en/post/law/), [a](/en/post/a/) [suggestion](/en/post/suggestion/) [or](/en/post/or/) [indication](/en/post/indication/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [something](/en/post/something/) unfavorable, [without](/en/post/without/) [direct](/en/post/direct/) assertion. [For](/en/post/for/) [instance](/en/post/instance/): "[There](/en/post/there/) were implications [of](/en/post/of/) guilt [in](/en/post/in/) [his](/en/post/his/) [behavior](/en/post/behavior/)."
-- **[Verb](/en/post/verb/)**: ([to](/en/post/to/) [imply](/en/post/imply/)) [To](/en/post/to/) [suggest](/en/post/suggest/) [or](/en/post/or/) [indicate](/en/post/indicate/) [something](/en/post/something/) [without](/en/post/without/) stating [it](/en/post/it/) [directly](/en/post/directly/). [Example](/en/post/example/): "[Her](/en/post/her/) [silence](/en/post/silence/) implied [her](/en/post/her/) disagreement [with](/en/post/with/) [the](/en/post/the/) [proposal](/en/post/proposal/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [conclusion](/post/conclusion/) [that](/post/that/) [can](/post/can/) [be](/post/be/) drawn [from](/post/from/) [something](/post/something/) [although](/post/although/) [it](/post/it/) is [not](/post/not/) explicitly stated; [a](/post/a/) [logical](/post/logical/) [consequence](/post/consequence/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [implication](/post/implication/) [of](/post/of/) [his](/post/his/) [statement](/post/statement/) was [clear](/post/clear/) - [he](/post/he/) [would](/post/would/) [have](/post/have/) [to](/post/to/) [resign](/post/resign/)."
+  - **[Noun](/post/noun/)**: [In](/post/in/) [law](/post/law/), [a](/post/a/) [suggestion](/post/suggestion/) [or](/post/or/) [indication](/post/indication/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [something](/post/something/) unfavorable, [without](/post/without/) [direct](/post/direct/) assertion. [For](/post/for/) [instance](/post/instance/): "[There](/post/there/) were implications [of](/post/of/) guilt [in](/post/in/) [his](/post/his/) [behavior](/post/behavior/)."
+- **[Verb](/post/verb/)**: ([to](/post/to/) [imply](/post/imply/)) [To](/post/to/) [suggest](/post/suggest/) [or](/post/or/) [indicate](/post/indicate/) [something](/post/something/) [without](/post/without/) stating [it](/post/it/) [directly](/post/directly/). [Example](/post/example/): "[Her](/post/her/) [silence](/post/silence/) implied [her](/post/her/) disagreement [with](/post/with/) [the](/post/the/) [proposal](/post/proposal/)."
 
 ## Phrases
-- "[Implication](/en/post/implication/) [of](/en/post/of/) [something](/en/post/something/)": Refers [to](/en/post/to/) [the](/en/post/the/) inferred [meaning](/en/post/meaning/) [or](/en/post/or/) [consequence](/en/post/consequence/) [of](/en/post/of/) an [action](/en/post/action/), [event](/en/post/event/), [or](/en/post/or/) [statement](/en/post/statement/).
-- "[Have](/en/post/have/) implications [for](/en/post/for/)": [Means](/en/post/means/) [that](/en/post/that/) [something](/en/post/something/) [will](/en/post/will/) [affect](/en/post/affect/) [or](/en/post/or/) [have](/en/post/have/) consequences [on](/en/post/on/) [something](/en/post/something/) [else](/en/post/else/). [Example](/en/post/example/): "[This](/en/post/this/) [new](/en/post/new/) [discovery](/en/post/discovery/) has [huge](/en/post/huge/) implications [for](/en/post/for/) [our](/en/post/our/) [understanding](/en/post/understanding/) [of](/en/post/of/) [the](/en/post/the/) [universe](/en/post/universe/)."
+- "[Implication](/post/implication/) [of](/post/of/) [something](/post/something/)": Refers [to](/post/to/) [the](/post/the/) inferred [meaning](/post/meaning/) [or](/post/or/) [consequence](/post/consequence/) [of](/post/of/) an [action](/post/action/), [event](/post/event/), [or](/post/or/) [statement](/post/statement/).
+- "[Have](/post/have/) implications [for](/post/for/)": [Means](/post/means/) [that](/post/that/) [something](/post/something/) [will](/post/will/) [affect](/post/affect/) [or](/post/or/) [have](/post/have/) consequences [on](/post/on/) [something](/post/something/) [else](/post/else/). [Example](/post/example/): "[This](/post/this/) [new](/post/new/) [discovery](/post/discovery/) has [huge](/post/huge/) implications [for](/post/for/) [our](/post/our/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [universe](/post/universe/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's [decision](/en/post/decision/) [to](/en/post/to/) downsize has [serious](/en/post/serious/) implications [for](/en/post/for/) [job](/en/post/job/) [security](/en/post/security/)."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [refusal](/en/post/refusal/) [to](/en/post/to/) [comment](/en/post/comment/) implies [that](/en/post/that/) [he](/en/post/he/) [might](/en/post/might/) [be](/en/post/be/) involved [in](/en/post/in/) [the](/en/post/the/) scandal."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) company's [decision](/post/decision/) [to](/post/to/) downsize has [serious](/post/serious/) implications [for](/post/for/) [job](/post/job/) [security](/post/security/)."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [refusal](/post/refusal/) [to](/post/to/) [comment](/post/comment/) implies [that](/post/that/) [he](/post/he/) [might](/post/might/) [be](/post/be/) involved [in](/post/in/) [the](/post/the/) scandal."
 
 ## Synonyms
-- [Consequence](/en/post/consequence/)
+- [Consequence](/post/consequence/)
 - Ramification
-- [Suggestion](/en/post/suggestion/)
-- [Indication](/en/post/indication/)
+- [Suggestion](/post/suggestion/)
+- [Indication](/post/indication/)
 - Inference
-- [Imply](/en/post/imply/)
-- [Hint](/en/post/hint/)
+- [Imply](/post/imply/)
+- [Hint](/post/hint/)
 - Allude
-- [Signal](/en/post/signal/)
+- [Signal](/post/signal/)

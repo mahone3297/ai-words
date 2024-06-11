@@ -7,31 +7,31 @@ description = '[lɔːn] n.草地，草坪，草场'
 keywords = ['ai words', 'lawn']
 +++
 
-## [Word](/en/post/word/): [Lawn](/en/post/lawn/)
+## [Word](/post/word/): [Lawn](/post/lawn/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lɔːn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [area](/en/post/area/) [of](/en/post/of/) [land](/en/post/land/) covered [with](/en/post/with/) [closely](/en/post/closely/) mown [grass](/en/post/grass/), typically [found](/en/post/found/) [around](/en/post/around/) [a](/en/post/a/) [house](/en/post/house/), [park](/en/post/park/), [or](/en/post/or/) [other](/en/post/other/) [outdoor](/en/post/outdoor/) [space](/en/post/space/). It's [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) recreation [or](/en/post/or/) aesthetic purposes. 
+- **[Noun](/post/noun/)**: An [area](/post/area/) [of](/post/of/) [land](/post/land/) covered [with](/post/with/) [closely](/post/closely/) mown [grass](/post/grass/), typically [found](/post/found/) [around](/post/around/) [a](/post/a/) [house](/post/house/), [park](/post/park/), [or](/post/or/) [other](/post/other/) [outdoor](/post/outdoor/) [space](/post/space/). It's [often](/post/often/) [used](/post/used/) [for](/post/for/) recreation [or](/post/or/) aesthetic purposes. 
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): _The homeowner spent hours maintaining [his](/en/post/his/) pristine [green](/en/post/green/) [lawn](/en/post/lawn/)._
+[Example](/post/example/) [Sentence](/post/sentence/): _The homeowner spent hours maintaining [his](/post/his/) pristine [green](/post/green/) [lawn](/post/lawn/)._
 
 ## Phrases
-- "[Lawn](/en/post/lawn/) mower": [A](/en/post/a/) [machine](/en/post/machine/) [used](/en/post/used/) [to](/en/post/to/) [cut](/en/post/cut/) [grass](/en/post/grass/) [on](/en/post/on/) [a](/en/post/a/) [lawn](/en/post/lawn/).
-- "[Lawn](/en/post/lawn/) [care](/en/post/care/)": [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) maintaining [and](/en/post/and/) tending [to](/en/post/to/) [a](/en/post/a/) [lawn](/en/post/lawn/), [which](/en/post/which/) includes mowing, watering, fertilizing, [and](/en/post/and/) [weed](/en/post/weed/) [control](/en/post/control/).
-- "[Roll](/en/post/roll/) [out](/en/post/out/) [the](/en/post/the/) [red](/en/post/red/) [carpet](/en/post/carpet/) / [roll](/en/post/roll/) [out](/en/post/out/) [the](/en/post/the/) [lawn](/en/post/lawn/)": [To](/en/post/to/) [welcome](/en/post/welcome/) [someone](/en/post/someone/) [in](/en/post/in/) [a](/en/post/a/) [particularly](/en/post/particularly/) [grand](/en/post/grand/) [or](/en/post/or/) [special](/en/post/special/) [way](/en/post/way/).
-- "[On](/en/post/on/) [the](/en/post/the/) [front](/en/post/front/) [lawn](/en/post/lawn/)": Refers [to](/en/post/to/) [the](/en/post/the/) [lawn](/en/post/lawn/) located [in](/en/post/in/) [front](/en/post/front/) [of](/en/post/of/) [a](/en/post/a/) [house](/en/post/house/) [or](/en/post/or/) [building](/en/post/building/).
+- "[Lawn](/post/lawn/) mower": [A](/post/a/) [machine](/post/machine/) [used](/post/used/) [to](/post/to/) [cut](/post/cut/) [grass](/post/grass/) [on](/post/on/) [a](/post/a/) [lawn](/post/lawn/).
+- "[Lawn](/post/lawn/) [care](/post/care/)": [The](/post/the/) [act](/post/act/) [of](/post/of/) maintaining [and](/post/and/) tending [to](/post/to/) [a](/post/a/) [lawn](/post/lawn/), [which](/post/which/) includes mowing, watering, fertilizing, [and](/post/and/) [weed](/post/weed/) [control](/post/control/).
+- "[Roll](/post/roll/) [out](/post/out/) [the](/post/the/) [red](/post/red/) [carpet](/post/carpet/) / [roll](/post/roll/) [out](/post/out/) [the](/post/the/) [lawn](/post/lawn/)": [To](/post/to/) [welcome](/post/welcome/) [someone](/post/someone/) [in](/post/in/) [a](/post/a/) [particularly](/post/particularly/) [grand](/post/grand/) [or](/post/or/) [special](/post/special/) [way](/post/way/).
+- "[On](/post/on/) [the](/post/the/) [front](/post/front/) [lawn](/post/lawn/)": Refers [to](/post/to/) [the](/post/the/) [lawn](/post/lawn/) located [in](/post/in/) [front](/post/front/) [of](/post/of/) [a](/post/a/) [house](/post/house/) [or](/post/or/) [building](/post/building/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children played [soccer](/en/post/soccer/) [on](/en/post/on/) [the](/en/post/the/) [back](/en/post/back/) [lawn](/en/post/lawn/)."
-- "[A](/en/post/a/) striped [pattern](/en/post/pattern/) [on](/en/post/on/) [the](/en/post/the/) [lawn](/en/post/lawn/) indicates [it](/en/post/it/) has been mowed [in](/en/post/in/) [different](/en/post/different/) directions."
-- "[They](/en/post/they/) hosted [a](/en/post/a/) [garden](/en/post/garden/) [party](/en/post/party/) [on](/en/post/on/) [their](/en/post/their/) well-manicured [lawn](/en/post/lawn/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children played [soccer](/post/soccer/) [on](/post/on/) [the](/post/the/) [back](/post/back/) [lawn](/post/lawn/)."
+- "[A](/post/a/) striped [pattern](/post/pattern/) [on](/post/on/) [the](/post/the/) [lawn](/post/lawn/) indicates [it](/post/it/) has been mowed [in](/post/in/) [different](/post/different/) directions."
+- "[They](/post/they/) hosted [a](/post/a/) [garden](/post/garden/) [party](/post/party/) [on](/post/on/) [their](/post/their/) well-manicured [lawn](/post/lawn/)."
 
 ## Synonyms
-- [Grass](/en/post/grass/) [plot](/en/post/plot/)
+- [Grass](/post/grass/) [plot](/post/plot/)
 - Turf
-- [Green](/en/post/green/)
-- [Garden](/en/post/garden/) (informal, [especially](/en/post/especially/) [when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [small](/en/post/small/), maintained [area](/en/post/area/) [of](/en/post/of/) [grass](/en/post/grass/))
-- [Yard](/en/post/yard/) (chiefly [American](/en/post/american/) English) 
-- Grounds ([when](/en/post/when/) referring [to](/en/post/to/) larger areas surrounding [a](/en/post/a/) [property](/en/post/property/))
+- [Green](/post/green/)
+- [Garden](/post/garden/) (informal, [especially](/post/especially/) [when](/post/when/) referring [to](/post/to/) [a](/post/a/) [small](/post/small/), maintained [area](/post/area/) [of](/post/of/) [grass](/post/grass/))
+- [Yard](/post/yard/) (chiefly [American](/post/american/) English) 
+- Grounds ([when](/post/when/) referring [to](/post/to/) larger areas surrounding [a](/post/a/) [property](/post/property/))

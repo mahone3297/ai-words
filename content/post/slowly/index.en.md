@@ -7,32 +7,32 @@ description = '[ˈsləuli] ad.慢慢地'
 keywords = ['ai words', 'slowly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səʊlədli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Describes [or](/en/post/or/) modifies [a](/en/post/a/) [verb](/en/post/verb/), [action](/en/post/action/), [or](/en/post/or/) [state](/en/post/state/), expressing [the](/en/post/the/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) [something](/en/post/something/) is done. [It](/en/post/it/) indicates [a](/en/post/a/) [slow](/en/post/slow/) [pace](/en/post/pace/) [or](/en/post/or/) gradualness.
+- **[Adverb](/post/adverb/)**: Describes [or](/post/or/) modifies [a](/post/a/) [verb](/post/verb/), [action](/post/action/), [or](/post/or/) [state](/post/state/), expressing [the](/post/the/) [manner](/post/manner/) [in](/post/in/) [which](/post/which/) [something](/post/something/) is done. [It](/post/it/) indicates [a](/post/a/) [slow](/post/slow/) [pace](/post/pace/) [or](/post/or/) gradualness.
 
 ## Phrases
-- "[Slowly](/en/post/slowly/) [walk](/en/post/walk/)" [means](/en/post/means/) [to](/en/post/to/) [move](/en/post/move/) [at](/en/post/at/) [a](/en/post/a/) [slow](/en/post/slow/) [pace](/en/post/pace/).
-- "[He](/en/post/he/) spoke [slowly](/en/post/slowly/) [to](/en/post/to/) [help](/en/post/help/) [the](/en/post/the/) [child](/en/post/child/) [understand](/en/post/understand/)."
-- "[She](/en/post/she/) drank [her](/en/post/her/) [coffee](/en/post/coffee/) [slowly](/en/post/slowly/), savoring [every](/en/post/every/) sip."
+- "[Slowly](/post/slowly/) [walk](/post/walk/)" [means](/post/means/) [to](/post/to/) [move](/post/move/) [at](/post/at/) [a](/post/a/) [slow](/post/slow/) [pace](/post/pace/).
+- "[He](/post/he/) spoke [slowly](/post/slowly/) [to](/post/to/) [help](/post/help/) [the](/post/the/) [child](/post/child/) [understand](/post/understand/)."
+- "[She](/post/she/) drank [her](/post/her/) [coffee](/post/coffee/) [slowly](/post/slowly/), savoring [every](/post/every/) sip."
 
-## [Example](/en/post/example/) Sentences
-- "[He](/en/post/he/) moved [the](/en/post/the/) [heavy](/en/post/heavy/) [box](/en/post/box/) [slowly](/en/post/slowly/) [to](/en/post/to/) [avoid](/en/post/avoid/) [injury](/en/post/injury/)."
-- "[The](/en/post/the/) [car](/en/post/car/) drove [along](/en/post/along/) [the](/en/post/the/) winding [road](/en/post/road/) [slowly](/en/post/slowly/)."
-- "[She](/en/post/she/) [read](/en/post/read/) [the](/en/post/the/) [book](/en/post/book/) [aloud](/en/post/aloud/), [reading](/en/post/reading/) [each](/en/post/each/) [word](/en/post/word/) [slowly](/en/post/slowly/) [for](/en/post/for/) [her](/en/post/her/) son's [benefit](/en/post/benefit/)."
+## [Example](/post/example/) Sentences
+- "[He](/post/he/) moved [the](/post/the/) [heavy](/post/heavy/) [box](/post/box/) [slowly](/post/slowly/) [to](/post/to/) [avoid](/post/avoid/) [injury](/post/injury/)."
+- "[The](/post/the/) [car](/post/car/) drove [along](/post/along/) [the](/post/the/) winding [road](/post/road/) [slowly](/post/slowly/)."
+- "[She](/post/she/) [read](/post/read/) [the](/post/the/) [book](/post/book/) [aloud](/post/aloud/), [reading](/post/reading/) [each](/post/each/) [word](/post/word/) [slowly](/post/slowly/) [for](/post/for/) [her](/post/her/) son's [benefit](/post/benefit/)."
 
 ## Synonyms
-- [Gradually](/en/post/gradually/)
+- [Gradually](/post/gradually/)
 - Leisurely
-- [Steadily](/en/post/steadily/)
+- [Steadily](/post/steadily/)
 - Deliberately
 - Slow-paced
 
 ## Antonyms
-- [Rapidly](/en/post/rapidly/)
+- [Rapidly](/post/rapidly/)
 - Swiftly
 - Hastily
-- [Quickly](/en/post/quickly/)
+- [Quickly](/post/quickly/)
 - Speedily

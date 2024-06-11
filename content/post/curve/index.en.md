@@ -7,39 +7,39 @@ description = '[kəːv] n.曲线；弯 vt.弄弯'
 keywords = ['ai words', 'curve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɜːrv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [curve](/en/post/curve/) is [a](/en/post/a/) **[noun](/en/post/noun/)** [that](/en/post/that/) refers [to](/en/post/to/):
-1. [A](/en/post/a/) [bend](/en/post/bend/) [or](/en/post/or/) undulation [in](/en/post/in/) [a](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) [surface](/en/post/surface/), typically [following](/en/post/following/) [a](/en/post/a/) [mathematical](/en/post/mathematical/) [function](/en/post/function/): *[The](/en/post/the/) [road](/en/post/road/) winds [along](/en/post/along/) [a](/en/post/a/) scenic [curve](/en/post/curve/).*
-2. [A](/en/post/a/) graphical representation [of](/en/post/of/) [a](/en/post/a/) [function](/en/post/function/), [with](/en/post/with/) points lying [on](/en/post/on/) [a](/en/post/a/) [smooth](/en/post/smooth/) [path](/en/post/path/): *[The](/en/post/the/) [stock](/en/post/stock/) [price](/en/post/price/) [chart](/en/post/chart/) showed [a](/en/post/a/) [downward](/en/post/downward/) [curve](/en/post/curve/).*
-3. [A](/en/post/a/) [tendency](/en/post/tendency/) [or](/en/post/or/) inclination: *[Her](/en/post/her/) personality has [a](/en/post/a/) [gentle](/en/post/gentle/) [curve](/en/post/curve/) towards [kindness](/en/post/kindness/).*
+### [Noun](/post/noun/)
+[A](/post/a/) [curve](/post/curve/) is [a](/post/a/) **[noun](/post/noun/)** [that](/post/that/) refers [to](/post/to/):
+1. [A](/post/a/) [bend](/post/bend/) [or](/post/or/) undulation [in](/post/in/) [a](/post/a/) [line](/post/line/) [or](/post/or/) [surface](/post/surface/), typically [following](/post/following/) [a](/post/a/) [mathematical](/post/mathematical/) [function](/post/function/): *[The](/post/the/) [road](/post/road/) winds [along](/post/along/) [a](/post/a/) scenic [curve](/post/curve/).*
+2. [A](/post/a/) graphical representation [of](/post/of/) [a](/post/a/) [function](/post/function/), [with](/post/with/) points lying [on](/post/on/) [a](/post/a/) [smooth](/post/smooth/) [path](/post/path/): *[The](/post/the/) [stock](/post/stock/) [price](/post/price/) [chart](/post/chart/) showed [a](/post/a/) [downward](/post/downward/) [curve](/post/curve/).*
+3. [A](/post/a/) [tendency](/post/tendency/) [or](/post/or/) inclination: *[Her](/post/her/) personality has [a](/post/a/) [gentle](/post/gentle/) [curve](/post/curve/) towards [kindness](/post/kindness/).*
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [curve](/en/post/curve/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) **[verb](/en/post/verb/)** [meaning](/en/post/meaning/):
-1. [To](/en/post/to/) [shape](/en/post/shape/) [or](/en/post/or/) [form](/en/post/form/) [a](/en/post/a/) [curve](/en/post/curve/): *[The](/en/post/the/) [artist](/en/post/artist/) curved [the](/en/post/the/) [wood](/en/post/wood/) [into](/en/post/into/) [a](/en/post/a/) [graceful](/en/post/graceful/) [design](/en/post/design/).*
-2. (intransitive) [To](/en/post/to/) [change](/en/post/change/) [direction](/en/post/direction/) [or](/en/post/or/) [follow](/en/post/follow/) [a](/en/post/a/) curved [path](/en/post/path/): *[The](/en/post/the/) [ball](/en/post/ball/) curved [around](/en/post/around/) [the](/en/post/the/) defender's [head](/en/post/head/).*
+### [Verb](/post/verb/)
+[To](/post/to/) [curve](/post/curve/) [can](/post/can/) [be](/post/be/) [a](/post/a/) **[verb](/post/verb/)** [meaning](/post/meaning/):
+1. [To](/post/to/) [shape](/post/shape/) [or](/post/or/) [form](/post/form/) [a](/post/a/) [curve](/post/curve/): *[The](/post/the/) [artist](/post/artist/) curved [the](/post/the/) [wood](/post/wood/) [into](/post/into/) [a](/post/a/) [graceful](/post/graceful/) [design](/post/design/).*
+2. (intransitive) [To](/post/to/) [change](/post/change/) [direction](/post/direction/) [or](/post/or/) [follow](/post/follow/) [a](/post/a/) curved [path](/post/path/): *[The](/post/the/) [ball](/post/ball/) curved [around](/post/around/) [the](/post/the/) defender's [head](/post/head/).*
 
-### [Adjective](/en/post/adjective/)
-[A](/en/post/a/) [curve](/en/post/curve/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) an **[adjective](/en/post/adjective/)** describing:
-1. Curved [in](/en/post/in/) [shape](/en/post/shape/): *[The](/en/post/the/) elliptical [garden](/en/post/garden/) featured curved [flower](/en/post/flower/) beds.*
-2. [Following](/en/post/following/) [a](/en/post/a/) curved [pattern](/en/post/pattern/) [or](/en/post/or/) trajectory: *[The](/en/post/the/) bullet's trajectory was [a](/en/post/a/) [perfect](/en/post/perfect/) [curve](/en/post/curve/).*
+### [Adjective](/post/adjective/)
+[A](/post/a/) [curve](/post/curve/) [can](/post/can/) [also](/post/also/) [be](/post/be/) an **[adjective](/post/adjective/)** describing:
+1. Curved [in](/post/in/) [shape](/post/shape/): *[The](/post/the/) elliptical [garden](/post/garden/) featured curved [flower](/post/flower/) beds.*
+2. [Following](/post/following/) [a](/post/a/) curved [pattern](/post/pattern/) [or](/post/or/) trajectory: *[The](/post/the/) bullet's trajectory was [a](/post/a/) [perfect](/post/perfect/) [curve](/post/curve/).*
 
 ## Phrases
-- "[Draw](/en/post/draw/) [a](/en/post/a/) [curve](/en/post/curve/)" [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) curved [line](/en/post/line/) [or](/en/post/or/) [shape](/en/post/shape/).
-- "[Follow](/en/post/follow/) [the](/en/post/the/) [curve](/en/post/curve/)" suggests adapting [to](/en/post/to/) [a](/en/post/a/) [gradual](/en/post/gradual/) [change](/en/post/change/) [or](/en/post/or/) [trend](/en/post/trend/).
-- "[The](/en/post/the/) curveball caught [the](/en/post/the/) batter [off](/en/post/off/) [guard](/en/post/guard/)."
+- "[Draw](/post/draw/) [a](/post/a/) [curve](/post/curve/)" [means](/post/means/) [to](/post/to/) [create](/post/create/) [a](/post/a/) curved [line](/post/line/) [or](/post/or/) [shape](/post/shape/).
+- "[Follow](/post/follow/) [the](/post/the/) [curve](/post/curve/)" suggests adapting [to](/post/to/) [a](/post/a/) [gradual](/post/gradual/) [change](/post/change/) [or](/post/or/) [trend](/post/trend/).
+- "[The](/post/the/) curveball caught [the](/post/the/) batter [off](/post/off/) [guard](/post/guard/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) carefully traced [the](/en/post/the/) [curve](/en/post/curve/) [of](/en/post/of/) [the](/en/post/the/) [mountain](/en/post/mountain/) [range](/en/post/range/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [basketball](/en/post/basketball/) [player](/en/post/player/) released [the](/en/post/the/) [pass](/en/post/pass/) [with](/en/post/with/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) [curve](/en/post/curve/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) lampshade had [a](/en/post/a/) sleek, curved [design](/en/post/design/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) carefully traced [the](/post/the/) [curve](/post/curve/) [of](/post/of/) [the](/post/the/) [mountain](/post/mountain/) [range](/post/range/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [basketball](/post/basketball/) [player](/post/player/) released [the](/post/the/) [pass](/post/pass/) [with](/post/with/) [a](/post/a/) [beautiful](/post/beautiful/) [curve](/post/curve/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) lampshade had [a](/post/a/) sleek, curved [design](/post/design/)."
 
 ## Synonyms
 - Swoop
-- [Bend](/en/post/bend/)
+- [Bend](/post/bend/)
 - Contour
 - Arc
 -镰刀形的
@@ -47,6 +47,6 @@ keywords = ['ai words', 'curve']
 - Curving
 
 ## Antonyms
-- [Straight](/en/post/straight/)
+- [Straight](/post/straight/)
 - Linear
 - Angular

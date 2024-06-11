@@ -7,23 +7,23 @@ description = '[ˈɔːrəl] a.耳的，听觉的'
 keywords = ['ai words', 'aural']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːrəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) hearing [or](/en/post/or/) [sound](/en/post/sound/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [aural](/en/post/aural/) [experience](/en/post/experience/) was immersive."
-- **[Noun](/en/post/noun/)**: Pertaining [to](/en/post/to/) [the](/en/post/the/) [ear](/en/post/ear/) [or](/en/post/or/) auditory perception. [For](/en/post/for/) [example](/en/post/example/): "Audiobooks [provide](/en/post/provide/) an [aural](/en/post/aural/) [learning](/en/post/learning/) [experience](/en/post/experience/)."
-- **[Pronoun](/en/post/pronoun/)**: ([rarely](/en/post/rarely/) [used](/en/post/used/)) Referring [to](/en/post/to/) [the](/en/post/the/) ears [or](/en/post/or/) auditory senses. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) adjusted [her](/en/post/her/) [aural](/en/post/aural/) [focus](/en/post/focus/) [on](/en/post/on/) [the](/en/post/the/) [concert](/en/post/concert/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) hearing [or](/post/or/) [sound](/post/sound/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [aural](/post/aural/) [experience](/post/experience/) was immersive."
+- **[Noun](/post/noun/)**: Pertaining [to](/post/to/) [the](/post/the/) [ear](/post/ear/) [or](/post/or/) auditory perception. [For](/post/for/) [example](/post/example/): "Audiobooks [provide](/post/provide/) an [aural](/post/aural/) [learning](/post/learning/) [experience](/post/experience/)."
+- **[Pronoun](/post/pronoun/)**: ([rarely](/post/rarely/) [used](/post/used/)) Referring [to](/post/to/) [the](/post/the/) ears [or](/post/or/) auditory senses. [For](/post/for/) [example](/post/example/): "[She](/post/she/) adjusted [her](/post/her/) [aural](/post/aural/) [focus](/post/focus/) [on](/post/on/) [the](/post/the/) [concert](/post/concert/)."
 
 ## Phrases
-- "[Aural](/en/post/aural/) [feedback](/en/post/feedback/)" refers [to](/en/post/to/) [the](/en/post/the/) [sound](/en/post/sound/) heard [by](/en/post/by/) [the](/en/post/the/) [listener](/en/post/listener/).
-- "[Aural](/en/post/aural/) [training](/en/post/training/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) improving one's [ability](/en/post/ability/) [to](/en/post/to/) [perceive](/en/post/perceive/) [and](/en/post/and/) [distinguish](/en/post/distinguish/) sounds.
-- "[Aural](/en/post/aural/) [memory](/en/post/memory/)" is [the](/en/post/the/) [capacity](/en/post/capacity/) [to](/en/post/to/) [remember](/en/post/remember/) sounds [without](/en/post/without/) [visual](/en/post/visual/) cues.
+- "[Aural](/post/aural/) [feedback](/post/feedback/)" refers [to](/post/to/) [the](/post/the/) [sound](/post/sound/) heard [by](/post/by/) [the](/post/the/) [listener](/post/listener/).
+- "[Aural](/post/aural/) [training](/post/training/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) improving one's [ability](/post/ability/) [to](/post/to/) [perceive](/post/perceive/) [and](/post/and/) [distinguish](/post/distinguish/) sounds.
+- "[Aural](/post/aural/) [memory](/post/memory/)" is [the](/post/the/) [capacity](/post/capacity/) [to](/post/to/) [remember](/post/remember/) sounds [without](/post/without/) [visual](/post/visual/) cues.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [aural](/en/post/aural/) [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [concert](/en/post/concert/) [hall](/en/post/hall/) was [impressive](/en/post/impressive/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) underwent [a](/en/post/a/) [thorough](/en/post/thorough/) [aural](/en/post/aural/) [examination](/en/post/examination/) [at](/en/post/at/) [the](/en/post/the/) clinic."
-- **[Pronoun](/en/post/pronoun/)**: "[He](/en/post/he/) adjusted [his](/en/post/his/) headphones [to](/en/post/to/) [ensure](/en/post/ensure/) optimal [aural](/en/post/aural/) [comfort](/en/post/comfort/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [aural](/post/aural/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [concert](/post/concert/) [hall](/post/hall/) was [impressive](/post/impressive/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) underwent [a](/post/a/) [thorough](/post/thorough/) [aural](/post/aural/) [examination](/post/examination/) [at](/post/at/) [the](/post/the/) clinic."
+- **[Pronoun](/post/pronoun/)**: "[He](/post/he/) adjusted [his](/post/his/) headphones [to](/post/to/) [ensure](/post/ensure/) optimal [aural](/post/aural/) [comfort](/post/comfort/)."
 
 ## Synonyms
 - Auditory
@@ -32,4 +32,4 @@ keywords = ['ai words', 'aural']
 - Ear-related
 - Sonic
 
-## [Note](/en/post/note/): [The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) "[aural](/en/post/aural/)" [as](/en/post/as/) [a](/en/post/a/) [pronoun](/en/post/pronoun/) is [not](/en/post/not/) [common](/en/post/common/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [some](/en/post/some/) [technical](/en/post/technical/) contexts [or](/en/post/or/) poetic [language](/en/post/language/) [where](/en/post/where/) [it](/en/post/it/) refers [to](/en/post/to/) [the](/en/post/the/) ears [or](/en/post/or/) auditory senses. [In](/en/post/in/) [everyday](/en/post/everyday/) [conversation](/en/post/conversation/), [it](/en/post/it/) is [more](/en/post/more/) [likely](/en/post/likely/) [to](/en/post/to/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [or](/en/post/or/) [noun](/en/post/noun/).
+## [Note](/post/note/): [The](/post/the/) [use](/post/use/) [of](/post/of/) "[aural](/post/aural/)" [as](/post/as/) [a](/post/a/) [pronoun](/post/pronoun/) is [not](/post/not/) [common](/post/common/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [some](/post/some/) [technical](/post/technical/) contexts [or](/post/or/) poetic [language](/post/language/) [where](/post/where/) [it](/post/it/) refers [to](/post/to/) [the](/post/the/) ears [or](/post/or/) auditory senses. [In](/post/in/) [everyday](/post/everyday/) [conversation](/post/conversation/), [it](/post/it/) is [more](/post/more/) [likely](/post/likely/) [to](/post/to/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [or](/post/or/) [noun](/post/noun/).

@@ -7,32 +7,32 @@ description = '[ˈθiknis] n.厚(度)；密(度)'
 keywords = ['ai words', 'thickness']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /θɪknəs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [thick](/en/post/thick/); [the](/en/post/the/) [degree](/en/post/degree/) [of](/en/post/of/) [density](/en/post/density/) [or](/en/post/or/) fullness. 2. [The](/en/post/the/) [distance](/en/post/distance/) [between](/en/post/between/) [two](/en/post/two/) surfaces measured [through](/en/post/through/) [their](/en/post/their/) [substance](/en/post/substance/). 3. ([Physics](/en/post/physics/)) [The](/en/post/the/) [ratio](/en/post/ratio/) [of](/en/post/of/) [the](/en/post/the/) [mass](/en/post/mass/) [per](/en/post/per/) [unit](/en/post/unit/) [area](/en/post/area/) [of](/en/post/of/) [a](/en/post/a/) [material](/en/post/material/). 4. ([Film](/en/post/film/)) [The](/en/post/the/) darkness [or](/en/post/or/) opacity [of](/en/post/of/) [a](/en/post/a/) [film](/en/post/film/) [or](/en/post/or/) emulsion.
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) indicating [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/) [of](/en/post/of/) [thickness](/en/post/thickness/); [dense](/en/post/dense/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [thick](/post/thick/); [the](/post/the/) [degree](/post/degree/) [of](/post/of/) [density](/post/density/) [or](/post/or/) fullness. 2. [The](/post/the/) [distance](/post/distance/) [between](/post/between/) [two](/post/two/) surfaces measured [through](/post/through/) [their](/post/their/) [substance](/post/substance/). 3. ([Physics](/post/physics/)) [The](/post/the/) [ratio](/post/ratio/) [of](/post/of/) [the](/post/the/) [mass](/post/mass/) [per](/post/per/) [unit](/post/unit/) [area](/post/area/) [of](/post/of/) [a](/post/a/) [material](/post/material/). 4. ([Film](/post/film/)) [The](/post/the/) darkness [or](/post/or/) opacity [of](/post/of/) [a](/post/a/) [film](/post/film/) [or](/post/or/) emulsion.
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) indicating [a](/post/a/) [high](/post/high/) [degree](/post/degree/) [of](/post/of/) [thickness](/post/thickness/); [dense](/post/dense/).
 
 ## Phrases
-- "[Increase](/en/post/increase/) [the](/en/post/the/) [thickness](/en/post/thickness/) [of](/en/post/of/) [the](/en/post/the/) [layer](/en/post/layer/)"
-- "[The](/en/post/the/) book's [thickness](/en/post/thickness/) made [it](/en/post/it/) [difficult](/en/post/difficult/) [to](/en/post/to/) [carry](/en/post/carry/)."
-- "[A](/en/post/a/) [thick](/en/post/thick/) [slice](/en/post/slice/) [of](/en/post/of/) [bread](/en/post/bread/)"
+- "[Increase](/post/increase/) [the](/post/the/) [thickness](/post/thickness/) [of](/post/of/) [the](/post/the/) [layer](/post/layer/)"
+- "[The](/post/the/) book's [thickness](/post/thickness/) made [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [carry](/post/carry/)."
+- "[A](/post/a/) [thick](/post/thick/) [slice](/post/slice/) [of](/post/of/) [bread](/post/bread/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) applied [several](/en/post/several/) coats [of](/en/post/of/) [paint](/en/post/paint/) [to](/en/post/to/) [achieve](/en/post/achieve/) [the](/en/post/the/) desired [thickness](/en/post/thickness/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [soup](/en/post/soup/) had [a](/en/post/a/) [rich](/en/post/rich/), [thick](/en/post/thick/) consistency."
-- "[The](/en/post/the/) [tree](/en/post/tree/) [trunk](/en/post/trunk/) was [so](/en/post/so/) [thick](/en/post/thick/) [that](/en/post/that/) [it](/en/post/it/) took [both](/en/post/both/) hands [to](/en/post/to/) encircle [it](/en/post/it/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) applied [several](/post/several/) coats [of](/post/of/) [paint](/post/paint/) [to](/post/to/) [achieve](/post/achieve/) [the](/post/the/) desired [thickness](/post/thickness/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [soup](/post/soup/) had [a](/post/a/) [rich](/post/rich/), [thick](/post/thick/) consistency."
+- "[The](/post/the/) [tree](/post/tree/) [trunk](/post/trunk/) was [so](/post/so/) [thick](/post/thick/) [that](/post/that/) [it](/post/it/) took [both](/post/both/) hands [to](/post/to/) encircle [it](/post/it/)."
 
 ## Synonyms
-- [Thickness](/en/post/thickness/)
-- [Width](/en/post/width/)
-- [Density](/en/post/density/)
+- [Thickness](/post/thickness/)
+- [Width](/post/width/)
+- [Density](/post/density/)
 - Robustness
-- [Substance](/en/post/substance/)
+- [Substance](/post/substance/)
 - Heft
 - Plumpness
-- Profundity ([in](/en/post/in/) context)
+- Profundity ([in](/post/in/) context)
 
 ## Antonyms
 - Thinness
@@ -42,11 +42,11 @@ keywords = ['ai words', 'thickness']
 - Sparse
 - Translucent
 
-## [Usage](/en/post/usage/)
-### [Noun](/en/post/noun/) Examples
-- "[The](/en/post/the/) wall's [thickness](/en/post/thickness/) [provided](/en/post/provided/) [extra](/en/post/extra/) insulation."
-- "[The](/en/post/the/) [glass](/en/post/glass/) was [so](/en/post/so/) [thin](/en/post/thin/) compared [to](/en/post/to/) [its](/en/post/its/) advertised [thickness](/en/post/thickness/)."
+## [Usage](/post/usage/)
+### [Noun](/post/noun/) Examples
+- "[The](/post/the/) wall's [thickness](/post/thickness/) [provided](/post/provided/) [extra](/post/extra/) insulation."
+- "[The](/post/the/) [glass](/post/glass/) was [so](/post/so/) [thin](/post/thin/) compared [to](/post/to/) [its](/post/its/) advertised [thickness](/post/thickness/)."
 
-### [Adjective](/en/post/adjective/) Examples
-- "[She](/en/post/she/) admired [the](/en/post/the/) [thick](/en/post/thick/) [fur](/en/post/fur/) [on](/en/post/on/) [her](/en/post/her/) cat's [coat](/en/post/coat/)."
-- "[The](/en/post/the/) book's pages were [surprisingly](/en/post/surprisingly/) [thick](/en/post/thick/) [for](/en/post/for/) [its](/en/post/its/) [size](/en/post/size/)."
+### [Adjective](/post/adjective/) Examples
+- "[She](/post/she/) admired [the](/post/the/) [thick](/post/thick/) [fur](/post/fur/) [on](/post/on/) [her](/post/her/) cat's [coat](/post/coat/)."
+- "[The](/post/the/) book's pages were [surprisingly](/post/surprisingly/) [thick](/post/thick/) [for](/post/for/) [its](/post/its/) [size](/post/size/)."

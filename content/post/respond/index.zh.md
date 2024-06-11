@@ -12,22 +12,22 @@ keywords = ['ai words', 'respond']
 
 ## 释义
 - **动词**:
-1. 回答或答复（问题、评论等）。例如: "[She](/post/she/) responded promptly [to](/post/to/) [my](/post/my/) email."
-2. 对…作出反应或回应。例如: "[The](/post/the/) [audience](/post/audience/) responded enthusiastically [to](/post/to/) [the](/post/the/) [performance](/post/performance/)."
-3. （身体）对刺激或治疗作出反应。例如: "[The](/post/the/) [patient](/post/patient/) responded [well](/post/well/) [to](/post/to/) [the](/post/the/) [new](/post/new/) medication."
+1. 回答或答复（问题、评论等）。例如: "[She](/zh/post/she/) responded promptly [to](/zh/post/to/) [my](/zh/post/my/) email."
+2. 对…作出反应或回应。例如: "[The](/zh/post/the/) [audience](/zh/post/audience/) responded enthusiastically [to](/zh/post/to/) [the](/zh/post/the/) [performance](/zh/post/performance/)."
+3. （身体）对刺激或治疗作出反应。例如: "[The](/zh/post/the/) [patient](/zh/post/patient/) responded [well](/zh/post/well/) [to](/zh/post/to/) [the](/zh/post/the/) [new](/zh/post/new/) medication."
 
 ## 短语
-- "[Respond](/post/respond/) [to](/post/to/)" 意为对…作出回应或回答。例如: "[Please](/post/please/) [respond](/post/respond/) [to](/post/to/) [the](/post/the/) questionnaire [by](/post/by/) Friday."
-- "[In](/post/in/) [response](/post/response/) [to](/post/to/)" 表示作为对…的回应。例如: "[They](/post/they/) organized [a](/post/a/) [protest](/post/protest/) [in](/post/in/) [response](/post/response/) [to](/post/to/) [the](/post/the/) government's [decision](/post/decision/)."
+- "[Respond](/zh/post/respond/) [to](/zh/post/to/)" 意为对…作出回应或回答。例如: "[Please](/zh/post/please/) [respond](/zh/post/respond/) [to](/zh/post/to/) [the](/zh/post/the/) questionnaire [by](/zh/post/by/) Friday."
+- "[In](/zh/post/in/) [response](/zh/post/response/) [to](/zh/post/to/)" 表示作为对…的回应。例如: "[They](/zh/post/they/) organized [a](/zh/post/a/) [protest](/zh/post/protest/) [in](/zh/post/in/) [response](/zh/post/response/) [to](/zh/post/to/) [the](/zh/post/the/) government's [decision](/zh/post/decision/)."
 
 ## 例句
-- 作为回答: "[When](/post/when/) asked [about](/post/about/) [his](/post/his/) plans, [he](/post/he/) responded [that](/post/that/) [he](/post/he/) was going [to](/post/to/) [travel](/post/travel/)."
-- 对刺激的反应: "[The](/post/the/) [plant](/post/plant/) responds [to](/post/to/) [light](/post/light/) [by](/post/by/) [turning](/post/turning/) [its](/post/its/) leaves towards [it](/post/it/)."
-- 对评论的回应: "[She](/post/she/) responded angrily [to](/post/to/) [his](/post/his/) [criticism](/post/criticism/)."
+- 作为回答: "[When](/zh/post/when/) asked [about](/zh/post/about/) [his](/zh/post/his/) plans, [he](/zh/post/he/) responded [that](/zh/post/that/) [he](/zh/post/he/) was going [to](/zh/post/to/) [travel](/zh/post/travel/)."
+- 对刺激的反应: "[The](/zh/post/the/) [plant](/zh/post/plant/) responds [to](/zh/post/to/) [light](/zh/post/light/) [by](/zh/post/by/) [turning](/zh/post/turning/) [its](/zh/post/its/) leaves towards [it](/zh/post/it/)."
+- 对评论的回应: "[She](/zh/post/she/) responded angrily [to](/zh/post/to/) [his](/zh/post/his/) [criticism](/zh/post/criticism/)."
 
 ## 同义词
-- [Answer](/post/answer/)
-- [React](/post/react/)
-- [Comment](/post/comment/)
-- [Reply](/post/reply/)
-- [Counter](/post/counter/)
+- [Answer](/zh/post/answer/)
+- [React](/zh/post/react/)
+- [Comment](/zh/post/comment/)
+- [Reply](/zh/post/reply/)
+- [Counter](/zh/post/counter/)

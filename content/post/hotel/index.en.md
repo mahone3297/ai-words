@@ -7,33 +7,33 @@ description = '[həuˈtel] n.旅馆'
 keywords = ['ai words', 'hotel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /hoʊˈtel/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [building](/en/post/building/) providing lodging, meals, [and](/en/post/and/) [other](/en/post/other/) services [for](/en/post/for/) travelers [and](/en/post/and/) tourists; [often](/en/post/often/) includes [various](/en/post/various/) facilities [such](/en/post/such/) [as](/en/post/as/) restaurants, [meeting](/en/post/meeting/) rooms, [and](/en/post/and/) recreational areas.
+- **[Noun](/post/noun/)**: [A](/post/a/) [building](/post/building/) providing lodging, meals, [and](/post/and/) [other](/post/other/) services [for](/post/for/) travelers [and](/post/and/) tourists; [often](/post/often/) includes [various](/post/various/) facilities [such](/post/such/) [as](/post/as/) restaurants, [meeting](/post/meeting/) rooms, [and](/post/and/) recreational areas.
 
-### [Example](/en/post/example/) Sentences
-- _Noun_: "[We](/en/post/we/) checked [into](/en/post/into/) [the](/en/post/the/) luxurious [hotel](/en/post/hotel/) overlooking [the](/en/post/the/) [beach](/en/post/beach/)."
-  - "[The](/en/post/the/) [hotel](/en/post/hotel/) offers [a](/en/post/a/) complimentary [breakfast](/en/post/breakfast/) [to](/en/post/to/) [its](/en/post/its/) guests."
-  - "[They](/en/post/they/) stayed [at](/en/post/at/) [a](/en/post/a/) [small](/en/post/small/) boutique [hotel](/en/post/hotel/) [in](/en/post/in/) [the](/en/post/the/) [heart](/en/post/heart/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/)."
+### [Example](/post/example/) Sentences
+- _Noun_: "[We](/post/we/) checked [into](/post/into/) [the](/post/the/) luxurious [hotel](/post/hotel/) overlooking [the](/post/the/) [beach](/post/beach/)."
+  - "[The](/post/the/) [hotel](/post/hotel/) offers [a](/post/a/) complimentary [breakfast](/post/breakfast/) [to](/post/to/) [its](/post/its/) guests."
+  - "[They](/post/they/) stayed [at](/post/at/) [a](/post/a/) [small](/post/small/) boutique [hotel](/post/hotel/) [in](/post/in/) [the](/post/the/) [heart](/post/heart/) [of](/post/of/) [the](/post/the/) [city](/post/city/)."
 
 ## Phrases
-- "[Check](/en/post/check/) [into](/en/post/into/) [a](/en/post/a/) [hotel](/en/post/hotel/)": [Register](/en/post/register/) [and](/en/post/and/) [pay](/en/post/pay/) [for](/en/post/for/) [a](/en/post/a/) [room](/en/post/room/) [in](/en/post/in/) [a](/en/post/a/) [hotel](/en/post/hotel/) [to](/en/post/to/) [stay](/en/post/stay/) [overnight](/en/post/overnight/) [or](/en/post/or/) [for](/en/post/for/) an extended [period](/en/post/period/).
-- "[Hotel](/en/post/hotel/) [room](/en/post/room/) [service](/en/post/service/)": [A](/en/post/a/) [facility](/en/post/facility/) [where](/en/post/where/) [hotel](/en/post/hotel/) guests [can](/en/post/can/) [order](/en/post/order/) [food](/en/post/food/) [and](/en/post/and/) drinks [to](/en/post/to/) [be](/en/post/be/) delivered [to](/en/post/to/) [their](/en/post/their/) [room](/en/post/room/).
-- "[Hotel](/en/post/hotel/) amenities": [The](/en/post/the/) [additional](/en/post/additional/) features [or](/en/post/or/) services [provided](/en/post/provided/) [by](/en/post/by/) [a](/en/post/a/) [hotel](/en/post/hotel/) [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) swimming [pool](/en/post/pool/), gym, spa, [or](/en/post/or/) Wi-Fi.
+- "[Check](/post/check/) [into](/post/into/) [a](/post/a/) [hotel](/post/hotel/)": [Register](/post/register/) [and](/post/and/) [pay](/post/pay/) [for](/post/for/) [a](/post/a/) [room](/post/room/) [in](/post/in/) [a](/post/a/) [hotel](/post/hotel/) [to](/post/to/) [stay](/post/stay/) [overnight](/post/overnight/) [or](/post/or/) [for](/post/for/) an extended [period](/post/period/).
+- "[Hotel](/post/hotel/) [room](/post/room/) [service](/post/service/)": [A](/post/a/) [facility](/post/facility/) [where](/post/where/) [hotel](/post/hotel/) guests [can](/post/can/) [order](/post/order/) [food](/post/food/) [and](/post/and/) drinks [to](/post/to/) [be](/post/be/) delivered [to](/post/to/) [their](/post/their/) [room](/post/room/).
+- "[Hotel](/post/hotel/) amenities": [The](/post/the/) [additional](/post/additional/) features [or](/post/or/) services [provided](/post/provided/) [by](/post/by/) [a](/post/a/) [hotel](/post/hotel/) [such](/post/such/) [as](/post/as/) [a](/post/a/) swimming [pool](/post/pool/), gym, spa, [or](/post/or/) Wi-Fi.
 
 ## Synonyms
-- [Inn](/en/post/inn/)
+- [Inn](/post/inn/)
 - Motel
-- [Lodge](/en/post/lodge/)
-- [Resort](/en/post/resort/)
+- [Lodge](/post/lodge/)
+- [Resort](/post/resort/)
 - Guesthouse
 - Hostel
-- [Bed](/en/post/bed/) [and](/en/post/and/) [breakfast](/en/post/breakfast/) (B&B)
-- [Accommodation](/en/post/accommodation/)
+- [Bed](/post/bed/) [and](/post/and/) [breakfast](/post/breakfast/) (B&B)
+- [Accommodation](/post/accommodation/)
 
-## [Further](/en/post/further/) Details
-- **Etymology**: [The](/en/post/the/) [word](/en/post/word/) '[hotel](/en/post/hotel/)' comes [from](/en/post/from/) [the](/en/post/the/) French 'hôtel', [which](/en/post/which/) originally meant [a](/en/post/a/) [large](/en/post/large/) townhouse [or](/en/post/or/) mansion, [but](/en/post/but/) [later](/en/post/later/) referred [to](/en/post/to/) [a](/en/post/a/) [place](/en/post/place/) [that](/en/post/that/) provides [accommodation](/en/post/accommodation/) [for](/en/post/for/) paying guests.
+## [Further](/post/further/) Details
+- **Etymology**: [The](/post/the/) [word](/post/word/) '[hotel](/post/hotel/)' comes [from](/post/from/) [the](/post/the/) French 'hôtel', [which](/post/which/) originally meant [a](/post/a/) [large](/post/large/) townhouse [or](/post/or/) mansion, [but](/post/but/) [later](/post/later/) referred [to](/post/to/) [a](/post/a/) [place](/post/place/) [that](/post/that/) provides [accommodation](/post/accommodation/) [for](/post/for/) paying guests.
   
-  [No](/en/post/no/) [specific](/en/post/specific/) [verb](/en/post/verb/) [form](/en/post/form/) [or](/en/post/or/) [usage](/en/post/usage/) [of](/en/post/of/) "[hotel](/en/post/hotel/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) exists [in](/en/post/in/) [standard](/en/post/standard/) English. [It](/en/post/it/) is [primarily](/en/post/primarily/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [establishment](/en/post/establishment/) [itself](/en/post/itself/) [or](/en/post/or/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) staying [at](/en/post/at/) [one](/en/post/one/) ("[to](/en/post/to/) [hotel](/en/post/hotel/)" [could](/en/post/could/) [mean](/en/post/mean/) [to](/en/post/to/) [stay](/en/post/stay/) temporarily [at](/en/post/at/) [a](/en/post/a/) [hotel](/en/post/hotel/), [though](/en/post/though/) [this](/en/post/this/) [usage](/en/post/usage/) is [less](/en/post/less/) [common](/en/post/common/)). [Also](/en/post/also/), [no](/en/post/no/) notable interjections [or](/en/post/or/) idiomatic expressions [with](/en/post/with/) "[hotel](/en/post/hotel/)" are typically [found](/en/post/found/) [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) context [as](/en/post/as/) [the](/en/post/the/) examples given [for](/en/post/for/) "[hello](/en/post/hello/)."
+  [No](/post/no/) [specific](/post/specific/) [verb](/post/verb/) [form](/post/form/) [or](/post/or/) [usage](/post/usage/) [of](/post/of/) "[hotel](/post/hotel/)" [as](/post/as/) [a](/post/a/) [verb](/post/verb/) exists [in](/post/in/) [standard](/post/standard/) English. [It](/post/it/) is [primarily](/post/primarily/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [establishment](/post/establishment/) [itself](/post/itself/) [or](/post/or/) [the](/post/the/) [act](/post/act/) [of](/post/of/) staying [at](/post/at/) [one](/post/one/) ("[to](/post/to/) [hotel](/post/hotel/)" [could](/post/could/) [mean](/post/mean/) [to](/post/to/) [stay](/post/stay/) temporarily [at](/post/at/) [a](/post/a/) [hotel](/post/hotel/), [though](/post/though/) [this](/post/this/) [usage](/post/usage/) is [less](/post/less/) [common](/post/common/)). [Also](/post/also/), [no](/post/no/) notable interjections [or](/post/or/) idiomatic expressions [with](/post/with/) "[hotel](/post/hotel/)" are typically [found](/post/found/) [in](/post/in/) [the](/post/the/) [same](/post/same/) context [as](/post/as/) [the](/post/the/) examples given [for](/post/for/) "[hello](/post/hello/)."

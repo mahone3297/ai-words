@@ -11,16 +11,16 @@ keywords = ['ai words', 'thirty']
 /ˈθɜːrti/
 
 ## 释义
-- **数词**: 表示数字30。例如: "I turned [thirty](/post/thirty/) [last](/post/last/) [month](/post/month/)."
+- **数词**: 表示数字30。例如: "I turned [thirty](/zh/post/thirty/) [last](/zh/post/last/) [month](/zh/post/month/)."
 
 ## 短语
-- "[Thirty](/post/thirty/) years [old](/post/old/)" 指的是30岁的人。
-- "[Thirty](/post/thirty/) days hath September" 是一首帮助记忆月份天数的诗。
+- "[Thirty](/zh/post/thirty/) years [old](/zh/post/old/)" 指的是30岁的人。
+- "[Thirty](/zh/post/thirty/) days hath September" 是一首帮助记忆月份天数的诗。
 
 ## 例句
-- "[She](/post/she/) was thrilled [to](/post/to/) [have](/post/have/) reached [her](/post/her/) thirties, [feeling](/post/feeling/) [more](/post/more/) [confident](/post/confident/) [than](/post/than/) [ever](/post/ever/)."
-- "[There](/post/there/) are [thirty](/post/thirty/) students [in](/post/in/) [our](/post/our/) [class](/post/class/)."
+- "[She](/zh/post/she/) was thrilled [to](/zh/post/to/) [have](/zh/post/have/) reached [her](/zh/post/her/) thirties, [feeling](/zh/post/feeling/) [more](/zh/post/more/) [confident](/zh/post/confident/) [than](/zh/post/than/) [ever](/zh/post/ever/)."
+- "[There](/zh/post/there/) are [thirty](/zh/post/thirty/) students [in](/zh/post/in/) [our](/zh/post/our/) [class](/zh/post/class/)."
 
 ## 同义词
-- [Thirty](/post/thirty/) [can](/post/can/) [be](/post/be/) represented [by](/post/by/) "XXX" [in](/post/in/) Roman numerals.
-- "[Three](/post/three/) decades" [also](/post/also/) refers [to](/post/to/) [a](/post/a/) [period](/post/period/) [of](/post/of/) 30 years.
+- [Thirty](/zh/post/thirty/) [can](/zh/post/can/) [be](/zh/post/be/) represented [by](/zh/post/by/) "XXX" [in](/zh/post/in/) Roman numerals.
+- "[Three](/zh/post/three/) decades" [also](/zh/post/also/) refers [to](/zh/post/to/) [a](/zh/post/a/) [period](/zh/post/period/) [of](/zh/post/of/) 30 years.

@@ -11,20 +11,20 @@ keywords = ['ai words', 'precious']
 /ˈpreʃəs/
 
 ## 释义
-- **形容词**: 宝贵的，珍贵的，极重要的。例如: "[This](/post/this/) [necklace](/post/necklace/) is [precious](/post/precious/) [to](/post/to/) [her](/post/her/) [because](/post/because/) [it](/post/it/) was [a](/post/a/) [gift](/post/gift/) [from](/post/from/) [her](/post/her/) [grandmother](/post/grandmother/)."
-- **名词**: 宝贝，心爱的人或物。例如: "[My](/post/my/) [little](/post/little/) [girl](/post/girl/) is [my](/post/my/) [precious](/post/precious/)."
+- **形容词**: 宝贵的，珍贵的，极重要的。例如: "[This](/zh/post/this/) [necklace](/zh/post/necklace/) is [precious](/zh/post/precious/) [to](/zh/post/to/) [her](/zh/post/her/) [because](/zh/post/because/) [it](/zh/post/it/) was [a](/zh/post/a/) [gift](/zh/post/gift/) [from](/zh/post/from/) [her](/zh/post/her/) [grandmother](/zh/post/grandmother/)."
+- **名词**: 宝贝，心爱的人或物。例如: "[My](/zh/post/my/) [little](/zh/post/little/) [girl](/zh/post/girl/) is [my](/zh/post/my/) [precious](/zh/post/precious/)."
 
 ## 短语
-- "[precious](/post/precious/) [little](/post/little/)" 表示几乎没有，珍贵而少量的。例如: "There's [precious](/post/precious/) [little](/post/little/) [time](/post/time/) [left](/post/left/) [before](/post/before/) [the](/post/the/) deadline."
-- "[precious](/post/precious/) metals" 指贵重金属，如黄金、白银。例如: "[Gold](/post/gold/) [and](/post/and/) [silver](/post/silver/) are [precious](/post/precious/) metals."
+- "[precious](/zh/post/precious/) [little](/zh/post/little/)" 表示几乎没有，珍贵而少量的。例如: "There's [precious](/zh/post/precious/) [little](/zh/post/little/) [time](/zh/post/time/) [left](/zh/post/left/) [before](/zh/post/before/) [the](/zh/post/the/) deadline."
+- "[precious](/zh/post/precious/) metals" 指贵重金属，如黄金、白银。例如: "[Gold](/zh/post/gold/) [and](/zh/post/and/) [silver](/zh/post/silver/) are [precious](/zh/post/precious/) metals."
 
 ## 例句
-- 形容词: "[The](/post/the/) [ancient](/post/ancient/) [vase](/post/vase/) is [precious](/post/precious/) [due](/post/due/) [to](/post/to/) [its](/post/its/) [historical](/post/historical/) [value](/post/value/)."
-- 名词: "[My](/post/my/) [cat](/post/cat/) is [my](/post/my/) [precious](/post/precious/) [companion](/post/companion/), [always](/post/always/) [by](/post/by/) [my](/post/my/) [side](/post/side/)."
+- 形容词: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) [vase](/zh/post/vase/) is [precious](/zh/post/precious/) [due](/zh/post/due/) [to](/zh/post/to/) [its](/zh/post/its/) [historical](/zh/post/historical/) [value](/zh/post/value/)."
+- 名词: "[My](/zh/post/my/) [cat](/zh/post/cat/) is [my](/zh/post/my/) [precious](/zh/post/precious/) [companion](/zh/post/companion/), [always](/zh/post/always/) [by](/zh/post/by/) [my](/zh/post/my/) [side](/zh/post/side/)."
 
 ## 同义词
-- [Valuable](/post/valuable/)
+- [Valuable](/zh/post/valuable/)
 - Priceless
-- [Dear](/post/dear/)
+- [Dear](/zh/post/dear/)
 - Cherished
 - Invaluable

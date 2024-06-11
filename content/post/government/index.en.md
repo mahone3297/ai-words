@@ -7,41 +7,41 @@ description = '[ˈgʌvənmənt] n.政府；治理；政治'
 keywords = ['ai words', 'government']
 +++
 
-## [Word](/en/post/word/): [Government](/en/post/government/)
+## [Word](/post/word/): [Government](/post/government/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡʌvərnmənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) [control](/en/post/control/) [and](/en/post/and/) [make](/en/post/make/) decisions [for](/en/post/for/) [a](/en/post/a/) [country](/en/post/country/), [region](/en/post/region/), [or](/en/post/or/) [community](/en/post/community/); [the](/en/post/the/) [system](/en/post/system/) [by](/en/post/by/) [which](/en/post/which/) [a](/en/post/a/) [state](/en/post/state/) [or](/en/post/or/) [community](/en/post/community/) is governed. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) governing [or](/en/post/or/) [the](/en/post/the/) [exercise](/en/post/exercise/) [of](/en/post/of/) [authority](/en/post/authority/) [over](/en/post/over/) [a](/en/post/a/) [political](/en/post/political/) [unit](/en/post/unit/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [government](/en/post/government/) has promised [tax](/en/post/tax/) reforms."
-  - _Formal definition_: [The](/en/post/the/) [organization](/en/post/organization/), machinery, [or](/en/post/or/) [agency](/en/post/agency/) [through](/en/post/through/) [which](/en/post/which/) [a](/en/post/a/) [political](/en/post/political/) [unit](/en/post/unit/) exercises [authority](/en/post/authority/) [and](/en/post/and/) performs functions [and](/en/post/and/) [which](/en/post/which/) is [usually](/en/post/usually/) classified according [to](/en/post/to/) [the](/en/post/the/) [distribution](/en/post/distribution/) [of](/en/post/of/) [power](/en/post/power/) [within](/en/post/within/) [it](/en/post/it/).
+- **[Noun](/post/noun/)**: [The](/post/the/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [who](/post/who/) [control](/post/control/) [and](/post/and/) [make](/post/make/) decisions [for](/post/for/) [a](/post/a/) [country](/post/country/), [region](/post/region/), [or](/post/or/) [community](/post/community/); [the](/post/the/) [system](/post/system/) [by](/post/by/) [which](/post/which/) [a](/post/a/) [state](/post/state/) [or](/post/or/) [community](/post/community/) is governed. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) governing [or](/post/or/) [the](/post/the/) [exercise](/post/exercise/) [of](/post/of/) [authority](/post/authority/) [over](/post/over/) [a](/post/a/) [political](/post/political/) [unit](/post/unit/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) [government](/post/government/) has promised [tax](/post/tax/) reforms."
+  - _Formal definition_: [The](/post/the/) [organization](/post/organization/), machinery, [or](/post/or/) [agency](/post/agency/) [through](/post/through/) [which](/post/which/) [a](/post/a/) [political](/post/political/) [unit](/post/unit/) exercises [authority](/post/authority/) [and](/post/and/) performs functions [and](/post/and/) [which](/post/which/) is [usually](/post/usually/) classified according [to](/post/to/) [the](/post/the/) [distribution](/post/distribution/) [of](/post/of/) [power](/post/power/) [within](/post/within/) [it](/post/it/).
 
-[Example](/en/post/example/) sentences:
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [government](/en/post/government/) plans [to](/en/post/to/) [invest](/en/post/invest/) [heavily](/en/post/heavily/) [in](/en/post/in/) [education](/en/post/education/) [this](/en/post/this/) [year](/en/post/year/)."
-- "[They](/en/post/they/) [work](/en/post/work/) [for](/en/post/for/) [the](/en/post/the/) [federal](/en/post/federal/) [government](/en/post/government/) [in](/en/post/in/) [the](/en/post/the/) [department](/en/post/department/) [of](/en/post/of/) defense."
+[Example](/post/example/) sentences:
+- **[Noun](/post/noun/)**: "[The](/post/the/) [government](/post/government/) plans [to](/post/to/) [invest](/post/invest/) [heavily](/post/heavily/) [in](/post/in/) [education](/post/education/) [this](/post/this/) [year](/post/year/)."
+- "[They](/post/they/) [work](/post/work/) [for](/post/for/) [the](/post/the/) [federal](/post/federal/) [government](/post/government/) [in](/post/in/) [the](/post/the/) [department](/post/department/) [of](/post/of/) defense."
   
 ## Phrases
-- "[Government](/en/post/government/) [policy](/en/post/policy/)": [The](/en/post/the/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/) adopted [and](/en/post/and/) pursued [by](/en/post/by/) [a](/en/post/a/) [government](/en/post/government/).
-- "[Government](/en/post/government/) [official](/en/post/official/)": [A](/en/post/a/) [person](/en/post/person/) holding [a](/en/post/a/) [position](/en/post/position/) [of](/en/post/of/) [authority](/en/post/authority/) [in](/en/post/in/) [a](/en/post/a/) [government](/en/post/government/) [body](/en/post/body/).
-- "Opposition [government](/en/post/government/)": [The](/en/post/the/) [political](/en/post/political/) [party](/en/post/party/) [or](/en/post/or/) parties [that](/en/post/that/) are [not](/en/post/not/) [in](/en/post/in/) [power](/en/post/power/) [but](/en/post/but/) [have](/en/post/have/) [significant](/en/post/significant/) representation [in](/en/post/in/) [a](/en/post/a/) legislative [body](/en/post/body/).
-- "[Central](/en/post/central/) [government](/en/post/government/)": [The](/en/post/the/) [national](/en/post/national/) [government](/en/post/government/) [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/) [as](/en/post/as/) opposed [to](/en/post/to/) [local](/en/post/local/) [or](/en/post/or/) regional ones.
+- "[Government](/post/government/) [policy](/post/policy/)": [The](/post/the/) [course](/post/course/) [of](/post/of/) [action](/post/action/) adopted [and](/post/and/) pursued [by](/post/by/) [a](/post/a/) [government](/post/government/).
+- "[Government](/post/government/) [official](/post/official/)": [A](/post/a/) [person](/post/person/) holding [a](/post/a/) [position](/post/position/) [of](/post/of/) [authority](/post/authority/) [in](/post/in/) [a](/post/a/) [government](/post/government/) [body](/post/body/).
+- "Opposition [government](/post/government/)": [The](/post/the/) [political](/post/political/) [party](/post/party/) [or](/post/or/) parties [that](/post/that/) are [not](/post/not/) [in](/post/in/) [power](/post/power/) [but](/post/but/) [have](/post/have/) [significant](/post/significant/) representation [in](/post/in/) [a](/post/a/) legislative [body](/post/body/).
+- "[Central](/post/central/) [government](/post/government/)": [The](/post/the/) [national](/post/national/) [government](/post/government/) [of](/post/of/) [a](/post/a/) [country](/post/country/) [as](/post/as/) opposed [to](/post/to/) [local](/post/local/) [or](/post/or/) regional ones.
   
-## [Example](/en/post/example/) Sentences
-- "[The](/en/post/the/) government's [role](/en/post/role/) is [to](/en/post/to/) [ensure](/en/post/ensure/) [public](/en/post/public/) [safety](/en/post/safety/) [and](/en/post/and/) [welfare](/en/post/welfare/)."
-- "[Following](/en/post/following/) [the](/en/post/the/) [election](/en/post/election/), [a](/en/post/a/) [new](/en/post/new/) coalition [government](/en/post/government/) was formed."
+## [Example](/post/example/) Sentences
+- "[The](/post/the/) government's [role](/post/role/) is [to](/post/to/) [ensure](/post/ensure/) [public](/post/public/) [safety](/post/safety/) [and](/post/and/) [welfare](/post/welfare/)."
+- "[Following](/post/following/) [the](/post/the/) [election](/post/election/), [a](/post/a/) [new](/post/new/) coalition [government](/post/government/) was formed."
 
 ## Synonyms
-- [Administration](/en/post/administration/)
+- [Administration](/post/administration/)
 - Regime
-- [Authority](/en/post/authority/)
-- [Rule](/en/post/rule/)
+- [Authority](/post/authority/)
+- [Rule](/post/rule/)
 - Governance
-- [State](/en/post/state/)
-- Ruling [body](/en/post/body/)
-- [Executive](/en/post/executive/) [branch](/en/post/branch/)
-- [Council](/en/post/council/) ([in](/en/post/in/) [some](/en/post/some/) contexts) 
+- [State](/post/state/)
+- Ruling [body](/post/body/)
+- [Executive](/post/executive/) [branch](/post/branch/)
+- [Council](/post/council/) ([in](/post/in/) [some](/post/some/) contexts) 
 
-## [Other](/en/post/other/) Usages
-- **[Adjective](/en/post/adjective/)**: Describing [something](/en/post/something/) related [to](/en/post/to/) [or](/en/post/or/) controlled [by](/en/post/by/) [a](/en/post/a/) [government](/en/post/government/). [For](/en/post/for/) [instance](/en/post/instance/), "government-owned enterprises" [or](/en/post/or/) "[government](/en/post/government/) schools." 
+## [Other](/post/other/) Usages
+- **[Adjective](/post/adjective/)**: Describing [something](/post/something/) related [to](/post/to/) [or](/post/or/) controlled [by](/post/by/) [a](/post/a/) [government](/post/government/). [For](/post/for/) [instance](/post/instance/), "government-owned enterprises" [or](/post/or/) "[government](/post/government/) schools." 
 
-[Note](/en/post/note/): '[Government](/en/post/government/)' does [not](/en/post/not/) [have](/en/post/have/) [common](/en/post/common/) [usage](/en/post/usage/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), [preposition](/en/post/preposition/), [conjunction](/en/post/conjunction/), [pronoun](/en/post/pronoun/), numeral, [or](/en/post/or/) interjection [in](/en/post/in/) [standard](/en/post/standard/) English.
+[Note](/post/note/): '[Government](/post/government/)' does [not](/post/not/) [have](/post/have/) [common](/post/common/) [usage](/post/usage/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [adjective](/post/adjective/), [adverb](/post/adverb/), [preposition](/post/preposition/), [conjunction](/post/conjunction/), [pronoun](/post/pronoun/), numeral, [or](/post/or/) interjection [in](/post/in/) [standard](/post/standard/) English.

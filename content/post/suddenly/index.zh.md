@@ -14,16 +14,16 @@ keywords = ['ai words', 'suddenly']
 - **副词**: 突然地，出乎意料地。表示行为或事件发生得很迅速，没有预兆。
 
 ## 短语
-- "[suddenly](/post/suddenly/) [appear](/post/appear/)" 意为突然出现。
-- "[suddenly](/post/suddenly/) [change](/post/change/)" 表示突然改变。
+- "[suddenly](/zh/post/suddenly/) [appear](/zh/post/appear/)" 意为突然出现。
+- "[suddenly](/zh/post/suddenly/) [change](/zh/post/change/)" 表示突然改变。
 
 ## 例句
-- "I was walking [down](/post/down/) [the](/post/the/) [street](/post/street/) [when](/post/when/), [suddenly](/post/suddenly/), [a](/post/a/) [dog](/post/dog/) ran [out](/post/out/) [in](/post/in/) [front](/post/front/) [of](/post/of/) [me](/post/me/)."
-- "[The](/post/the/) [sky](/post/sky/) was [clear](/post/clear/) [a](/post/a/) [moment](/post/moment/) [ago](/post/ago/), [but](/post/but/) [suddenly](/post/suddenly/), [dark](/post/dark/) clouds rolled [in](/post/in/)."
+- "I was walking [down](/zh/post/down/) [the](/zh/post/the/) [street](/zh/post/street/) [when](/zh/post/when/), [suddenly](/zh/post/suddenly/), [a](/zh/post/a/) [dog](/zh/post/dog/) ran [out](/zh/post/out/) [in](/zh/post/in/) [front](/zh/post/front/) [of](/zh/post/of/) [me](/zh/post/me/)."
+- "[The](/zh/post/the/) [sky](/zh/post/sky/) was [clear](/zh/post/clear/) [a](/zh/post/a/) [moment](/zh/post/moment/) [ago](/zh/post/ago/), [but](/zh/post/but/) [suddenly](/zh/post/suddenly/), [dark](/zh/post/dark/) clouds rolled [in](/zh/post/in/)."
 
 ## 同义词
 - abruptly
-- [all](/post/all/) [of](/post/of/) [a](/post/a/) [sudden](/post/sudden/)
+- [all](/zh/post/all/) [of](/zh/post/of/) [a](/zh/post/a/) [sudden](/zh/post/sudden/)
 - unexpectedly
-- [without](/post/without/) warning
-- [in](/post/in/) [a](/post/a/) [flash](/post/flash/)
+- [without](/zh/post/without/) warning
+- [in](/zh/post/in/) [a](/zh/post/a/) [flash](/zh/post/flash/)

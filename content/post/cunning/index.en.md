@@ -7,35 +7,35 @@ description = '[ˈkʌniŋ] a.狡猾的，狡诈的'
 keywords = ['ai words', 'cunning']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kʌnɪŋ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Skilled](/en/post/skilled/) [in](/en/post/in/) achieving one's aims [by](/en/post/by/) [indirect](/en/post/indirect/) [or](/en/post/or/) deceitful [means](/en/post/means/); [clever](/en/post/clever/) [and](/en/post/and/) resourceful. *[Example](/en/post/example/): [He](/en/post/he/) showed [remarkable](/en/post/remarkable/) [cunning](/en/post/cunning/) [in](/en/post/in/) escaping [from](/en/post/from/) [the](/en/post/the/) [trap](/en/post/trap/).*
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [act](/en/post/act/) cunningly; [to](/en/post/to/) [be](/en/post/be/) crafty [or](/en/post/or/) [sly](/en/post/sly/) [in](/en/post/in/) one's actions [or](/en/post/or/) plans. *[Example](/en/post/example/): [She](/en/post/she/) cunningly avoided answering [the](/en/post/the/) [question](/en/post/question/).*
+- **[Adjective](/post/adjective/)**: [Skilled](/post/skilled/) [in](/post/in/) achieving one's aims [by](/post/by/) [indirect](/post/indirect/) [or](/post/or/) deceitful [means](/post/means/); [clever](/post/clever/) [and](/post/and/) resourceful. *[Example](/post/example/): [He](/post/he/) showed [remarkable](/post/remarkable/) [cunning](/post/cunning/) [in](/post/in/) escaping [from](/post/from/) [the](/post/the/) [trap](/post/trap/).*
+- **[Verb](/post/verb/)**: [To](/post/to/) [act](/post/act/) cunningly; [to](/post/to/) [be](/post/be/) crafty [or](/post/or/) [sly](/post/sly/) [in](/post/in/) one's actions [or](/post/or/) plans. *[Example](/post/example/): [She](/post/she/) cunningly avoided answering [the](/post/the/) [question](/post/question/).*
 
 ## Phrases
-- "[Cunning](/en/post/cunning/) [plan](/en/post/plan/)" refers [to](/en/post/to/) [a](/en/post/a/) [clever](/en/post/clever/) [or](/en/post/or/) devious [strategy](/en/post/strategy/).
-- "[He](/en/post/he/) displayed [his](/en/post/his/) [cunning](/en/post/cunning/)" indicates [that](/en/post/that/) [someone](/en/post/someone/) has shown [their](/en/post/their/) [ability](/en/post/ability/) [to](/en/post/to/) [be](/en/post/be/) cleverly manipulative.
-- "Don't [be](/en/post/be/) outdone [by](/en/post/by/) [their](/en/post/their/) [cunning](/en/post/cunning/)" warns [against](/en/post/against/) [being](/en/post/being/) tricked [by](/en/post/by/) someone's [clever](/en/post/clever/) tactics.
+- "[Cunning](/post/cunning/) [plan](/post/plan/)" refers [to](/post/to/) [a](/post/a/) [clever](/post/clever/) [or](/post/or/) devious [strategy](/post/strategy/).
+- "[He](/post/he/) displayed [his](/post/his/) [cunning](/post/cunning/)" indicates [that](/post/that/) [someone](/post/someone/) has shown [their](/post/their/) [ability](/post/ability/) [to](/post/to/) [be](/post/be/) cleverly manipulative.
+- "Don't [be](/post/be/) outdone [by](/post/by/) [their](/post/their/) [cunning](/post/cunning/)" warns [against](/post/against/) [being](/post/being/) tricked [by](/post/by/) someone's [clever](/post/clever/) tactics.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [thief](/en/post/thief/) was [cunning](/en/post/cunning/) [enough](/en/post/enough/) [to](/en/post/to/) [escape](/en/post/escape/) [without](/en/post/without/) leaving [any](/en/post/any/) traces."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) cunningly negotiated [a](/en/post/a/) [better](/en/post/better/) [deal](/en/post/deal/) [for](/en/post/for/) [her](/en/post/her/) [company](/en/post/company/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [thief](/post/thief/) was [cunning](/post/cunning/) [enough](/post/enough/) [to](/post/to/) [escape](/post/escape/) [without](/post/without/) leaving [any](/post/any/) traces."
+- **[Verb](/post/verb/)**: "[She](/post/she/) cunningly negotiated [a](/post/a/) [better](/post/better/) [deal](/post/deal/) [for](/post/for/) [her](/post/her/) [company](/post/company/)."
 
 ## Synonyms
-- [Clever](/en/post/clever/)
+- [Clever](/post/clever/)
 - Artful
 - Deceitful
-- [Sly](/en/post/sly/)
+- [Sly](/post/sly/)
 - Resourceful
 - Shrewd
 - Slyly
 
 ## Antonyms
-- [Foolish](/en/post/foolish/)
+- [Foolish](/post/foolish/)
 - Naive
 - Straightforward
 - Inexperienced
 - Unwitting
-- [Stupid](/en/post/stupid/)
+- [Stupid](/post/stupid/)

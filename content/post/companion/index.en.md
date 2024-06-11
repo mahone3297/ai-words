@@ -7,39 +7,39 @@ description = '[kəmˈpænjən] n.同伴;共事者;伴侣'
 keywords = ['ai words', 'companion']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈpænɪən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) accompanies [another](/en/post/another/), [often](/en/post/often/) [for](/en/post/for/) companionship [or](/en/post/or/) [support](/en/post/support/). *[Example](/en/post/example/): [She](/en/post/she/) traveled [with](/en/post/with/) [a](/en/post/a/) [companion](/en/post/companion/) [on](/en/post/on/) [her](/en/post/her/) [trip](/en/post/trip/).*
-- [Someone](/en/post/someone/) [who](/en/post/who/) shares activities [or](/en/post/or/) experiences; [a](/en/post/a/) [friend](/en/post/friend/) [or](/en/post/or/) [colleague](/en/post/colleague/). *[Example](/en/post/example/): [They](/en/post/they/) were [good](/en/post/good/) friends [since](/en/post/since/) [childhood](/en/post/childhood/), [always](/en/post/always/) companions [in](/en/post/in/) [their](/en/post/their/) adventures.*
-- [A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [piece](/en/post/piece/) [of](/en/post/of/) [equipment](/en/post/equipment/) designed [to](/en/post/to/) [work](/en/post/work/) alongside [another](/en/post/another/), [like](/en/post/like/) [a](/en/post/a/) computer's operating [system](/en/post/system/) [or](/en/post/or/) [a](/en/post/a/) smartphone app. *[Example](/en/post/example/): [The](/en/post/the/) fitness tracker is [a](/en/post/a/) [companion](/en/post/companion/) app [for](/en/post/for/) [your](/en/post/your/) smartwatch.*
+### [Noun](/post/noun/)
+- [A](/post/a/) [person](/post/person/) [who](/post/who/) accompanies [another](/post/another/), [often](/post/often/) [for](/post/for/) companionship [or](/post/or/) [support](/post/support/). *[Example](/post/example/): [She](/post/she/) traveled [with](/post/with/) [a](/post/a/) [companion](/post/companion/) [on](/post/on/) [her](/post/her/) [trip](/post/trip/).*
+- [Someone](/post/someone/) [who](/post/who/) shares activities [or](/post/or/) experiences; [a](/post/a/) [friend](/post/friend/) [or](/post/or/) [colleague](/post/colleague/). *[Example](/post/example/): [They](/post/they/) were [good](/post/good/) friends [since](/post/since/) [childhood](/post/childhood/), [always](/post/always/) companions [in](/post/in/) [their](/post/their/) adventures.*
+- [A](/post/a/) [device](/post/device/) [or](/post/or/) [piece](/post/piece/) [of](/post/of/) [equipment](/post/equipment/) designed [to](/post/to/) [work](/post/work/) alongside [another](/post/another/), [like](/post/like/) [a](/post/a/) computer's operating [system](/post/system/) [or](/post/or/) [a](/post/a/) smartphone app. *[Example](/post/example/): [The](/post/the/) fitness tracker is [a](/post/a/) [companion](/post/companion/) app [for](/post/for/) [your](/post/your/) smartwatch.*
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [be](/en/post/be/) accompanied [by](/en/post/by/); [to](/en/post/to/) [travel](/en/post/travel/) [or](/en/post/or/) [go](/en/post/go/) [along](/en/post/along/) [with](/en/post/with/). *[Example](/en/post/example/): [He](/en/post/he/) [always](/en/post/always/) accompanies [his](/en/post/his/) [grandmother](/en/post/grandmother/) [to](/en/post/to/) [the](/en/post/the/) doctor's appointments.*
-- [To](/en/post/to/) [provide](/en/post/provide/) [company](/en/post/company/) [or](/en/post/or/) [support](/en/post/support/) [for](/en/post/for/). *[Example](/en/post/example/): [She](/en/post/she/) felt [more](/en/post/more/) [comfortable](/en/post/comfortable/) [with](/en/post/with/) [a](/en/post/a/) [companion](/en/post/companion/) [during](/en/post/during/) [the](/en/post/the/) [long](/en/post/long/) [journey](/en/post/journey/).*
-- [To](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) [a](/en/post/a/) complement [or](/en/post/or/) [supplement](/en/post/supplement/). *[Example](/en/post/example/): [This](/en/post/this/) [book](/en/post/book/) serves [as](/en/post/as/) [a](/en/post/a/) [companion](/en/post/companion/) [to](/en/post/to/) [the](/en/post/the/) [museum](/en/post/museum/) [exhibit](/en/post/exhibit/).*
+### [Verb](/post/verb/)
+- [To](/post/to/) [be](/post/be/) accompanied [by](/post/by/); [to](/post/to/) [travel](/post/travel/) [or](/post/or/) [go](/post/go/) [along](/post/along/) [with](/post/with/). *[Example](/post/example/): [He](/post/he/) [always](/post/always/) accompanies [his](/post/his/) [grandmother](/post/grandmother/) [to](/post/to/) [the](/post/the/) doctor's appointments.*
+- [To](/post/to/) [provide](/post/provide/) [company](/post/company/) [or](/post/or/) [support](/post/support/) [for](/post/for/). *[Example](/post/example/): [She](/post/she/) felt [more](/post/more/) [comfortable](/post/comfortable/) [with](/post/with/) [a](/post/a/) [companion](/post/companion/) [during](/post/during/) [the](/post/the/) [long](/post/long/) [journey](/post/journey/).*
+- [To](/post/to/) [serve](/post/serve/) [as](/post/as/) [a](/post/a/) complement [or](/post/or/) [supplement](/post/supplement/). *[Example](/post/example/): [This](/post/this/) [book](/post/book/) serves [as](/post/as/) [a](/post/a/) [companion](/post/companion/) [to](/post/to/) [the](/post/the/) [museum](/post/museum/) [exhibit](/post/exhibit/).*
 
-### [Adjective](/en/post/adjective/)
-- Fitting [as](/en/post/as/) [a](/en/post/a/) [partner](/en/post/partner/) [or](/en/post/or/) accompaniment. *[Example](/en/post/example/): [The](/en/post/the/) classic [music](/en/post/music/) was [a](/en/post/a/) [perfect](/en/post/perfect/) [companion](/en/post/companion/) [to](/en/post/to/) [the](/en/post/the/) elegant [dinner](/en/post/dinner/).*
-- [Friendly](/en/post/friendly/) [or](/en/post/or/) sociable. *[Example](/en/post/example/): [She](/en/post/she/) was [a](/en/post/a/) [very](/en/post/very/) companionable [person](/en/post/person/), [always](/en/post/always/) [eager](/en/post/eager/) [to](/en/post/to/) chat.*
+### [Adjective](/post/adjective/)
+- Fitting [as](/post/as/) [a](/post/a/) [partner](/post/partner/) [or](/post/or/) accompaniment. *[Example](/post/example/): [The](/post/the/) classic [music](/post/music/) was [a](/post/a/) [perfect](/post/perfect/) [companion](/post/companion/) [to](/post/to/) [the](/post/the/) elegant [dinner](/post/dinner/).*
+- [Friendly](/post/friendly/) [or](/post/or/) sociable. *[Example](/post/example/): [She](/post/she/) was [a](/post/a/) [very](/post/very/) companionable [person](/post/person/), [always](/post/always/) [eager](/post/eager/) [to](/post/to/) chat.*
 
 ## Phrases
-- "[Keep](/en/post/keep/) [someone](/en/post/someone/) [company](/en/post/company/)" [means](/en/post/means/) [to](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/) [with](/en/post/with/) [someone](/en/post/someone/) [to](/en/post/to/) [make](/en/post/make/) [them](/en/post/them/) [feel](/en/post/feel/) [less](/en/post/less/) [lonely](/en/post/lonely/) [or](/en/post/or/) bored.
-- "[A](/en/post/a/) [travel](/en/post/travel/) [companion](/en/post/companion/)" refers [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) travels [with](/en/post/with/) [you](/en/post/you/) [for](/en/post/for/) [the](/en/post/the/) [duration](/en/post/duration/) [of](/en/post/of/) [a](/en/post/a/) [trip](/en/post/trip/).
-- "[Companion](/en/post/companion/) planting" is [the](/en/post/the/) [practice](/en/post/practice/) [of](/en/post/of/) growing [certain](/en/post/certain/) plants [together](/en/post/together/) [to](/en/post/to/) [benefit](/en/post/benefit/) [each](/en/post/each/) [other](/en/post/other/).
+- "[Keep](/post/keep/) [someone](/post/someone/) [company](/post/company/)" [means](/post/means/) [to](/post/to/) [spend](/post/spend/) [time](/post/time/) [with](/post/with/) [someone](/post/someone/) [to](/post/to/) [make](/post/make/) [them](/post/them/) [feel](/post/feel/) [less](/post/less/) [lonely](/post/lonely/) [or](/post/or/) bored.
+- "[A](/post/a/) [travel](/post/travel/) [companion](/post/companion/)" refers [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) travels [with](/post/with/) [you](/post/you/) [for](/post/for/) [the](/post/the/) [duration](/post/duration/) [of](/post/of/) [a](/post/a/) [trip](/post/trip/).
+- "[Companion](/post/companion/) planting" is [the](/post/the/) [practice](/post/practice/) [of](/post/of/) growing [certain](/post/certain/) plants [together](/post/together/) [to](/post/to/) [benefit](/post/benefit/) [each](/post/each/) [other](/post/other/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[During](/en/post/during/) [the](/en/post/the/) hike, [they](/en/post/they/) relied [on](/en/post/on/) [each](/en/post/each/) [other](/en/post/other/) [for](/en/post/for/) [support](/en/post/support/), [being](/en/post/being/) [strong](/en/post/strong/) companions."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [hire](/en/post/hire/) [a](/en/post/a/) [companion](/en/post/companion/) [to](/en/post/to/) [ease](/en/post/ease/) [his](/en/post/his/) grandmother's loneliness."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) cozy fireplace made [the](/en/post/the/) [room](/en/post/room/) [feel](/en/post/feel/) [like](/en/post/like/) [a](/en/post/a/) [true](/en/post/true/) [companion](/en/post/companion/) [to](/en/post/to/) [the](/en/post/the/) [rest](/en/post/rest/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[During](/post/during/) [the](/post/the/) hike, [they](/post/they/) relied [on](/post/on/) [each](/post/each/) [other](/post/other/) [for](/post/for/) [support](/post/support/), [being](/post/being/) [strong](/post/strong/) companions."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [hire](/post/hire/) [a](/post/a/) [companion](/post/companion/) [to](/post/to/) [ease](/post/ease/) [his](/post/his/) grandmother's loneliness."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) cozy fireplace made [the](/post/the/) [room](/post/room/) [feel](/post/feel/) [like](/post/like/) [a](/post/a/) [true](/post/true/) [companion](/post/companion/) [to](/post/to/) [the](/post/the/) [rest](/post/rest/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
 
 ## Synonyms
-- [Partner](/en/post/partner/)
-- [Friend](/en/post/friend/)
-- [Comrade](/en/post/comrade/)
-- [Fellow](/en/post/fellow/) traveler
+- [Partner](/post/partner/)
+- [Friend](/post/friend/)
+- [Comrade](/post/comrade/)
+- [Fellow](/post/fellow/) traveler
 - Sidekick
 - Accompanyer
 - Attendant

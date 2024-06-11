@@ -7,38 +7,38 @@ description = '[ədˈmit] vt.承认；准许…进入'
 keywords = ['ai words', 'admit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /adˈmɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-  - **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) acknowledging [or](/en/post/or/) accepting [something](/en/post/something/), typically an [admission](/en/post/admission/) [of](/en/post/of/) guilt [or](/en/post/or/) [fault](/en/post/fault/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) admitted [her](/en/post/her/) [mistake](/en/post/mistake/)."
-  - **[Verb](/en/post/verb/)**: [To](/en/post/to/) [allow](/en/post/allow/) ([someone](/en/post/someone/)) [entry](/en/post/entry/) [or](/en/post/or/) [access](/en/post/access/), [especially](/en/post/especially/) [to](/en/post/to/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [institution](/en/post/institution/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [school](/en/post/school/) admits students based [on](/en/post/on/) [their](/en/post/their/) grades."
-  - **[Verb](/en/post/verb/)**: [To](/en/post/to/) [recognize](/en/post/recognize/) [or](/en/post/or/) [accept](/en/post/accept/) [the](/en/post/the/) [truth](/en/post/truth/) [or](/en/post/or/) [existence](/en/post/existence/) [of](/en/post/of/) ([a](/en/post/a/) [fact](/en/post/fact/) [or](/en/post/or/) [idea](/en/post/idea/)). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) admitted [the](/en/post/the/) [need](/en/post/need/) [for](/en/post/for/) [change](/en/post/change/)."
+- **[Verb](/post/verb/)**: 
+  - **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) acknowledging [or](/post/or/) accepting [something](/post/something/), typically an [admission](/post/admission/) [of](/post/of/) guilt [or](/post/or/) [fault](/post/fault/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) admitted [her](/post/her/) [mistake](/post/mistake/)."
+  - **[Verb](/post/verb/)**: [To](/post/to/) [allow](/post/allow/) ([someone](/post/someone/)) [entry](/post/entry/) [or](/post/or/) [access](/post/access/), [especially](/post/especially/) [to](/post/to/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [institution](/post/institution/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [school](/post/school/) admits students based [on](/post/on/) [their](/post/their/) grades."
+  - **[Verb](/post/verb/)**: [To](/post/to/) [recognize](/post/recognize/) [or](/post/or/) [accept](/post/accept/) [the](/post/the/) [truth](/post/truth/) [or](/post/or/) [existence](/post/existence/) [of](/post/of/) ([a](/post/a/) [fact](/post/fact/) [or](/post/or/) [idea](/post/idea/)). [For](/post/for/) [example](/post/example/): "[They](/post/they/) admitted [the](/post/the/) [need](/post/need/) [for](/post/for/) [change](/post/change/)."
   
-- **[Adjective](/en/post/adjective/)**: Given [or](/en/post/or/) expressing [permission](/en/post/permission/) [to](/en/post/to/) [enter](/en/post/enter/) [or](/en/post/or/) [be](/en/post/be/) [present](/en/post/present/). [For](/en/post/for/) [example](/en/post/example/): "An [open](/en/post/open/) [admission](/en/post/admission/) [policy](/en/post/policy/)."
+- **[Adjective](/post/adjective/)**: Given [or](/post/or/) expressing [permission](/post/permission/) [to](/post/to/) [enter](/post/enter/) [or](/post/or/) [be](/post/be/) [present](/post/present/). [For](/post/for/) [example](/post/example/): "An [open](/post/open/) [admission](/post/admission/) [policy](/post/policy/)."
 
 ## Phrases
-- "[Admit](/en/post/admit/) [defeat](/en/post/defeat/)" [means](/en/post/means/) [to](/en/post/to/) acknowledge [that](/en/post/that/) [one](/en/post/one/) has lost.
-- "[Admit](/en/post/admit/) [oneself](/en/post/oneself/) [to](/en/post/to/) [a](/en/post/a/) [hospital](/en/post/hospital/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) allowed [to](/en/post/to/) [enter](/en/post/enter/) [a](/en/post/a/) healthcare [facility](/en/post/facility/).
-- "[Admission](/en/post/admission/) [ticket](/en/post/ticket/)" refers [to](/en/post/to/) [a](/en/post/a/) [ticket](/en/post/ticket/) granting [entry](/en/post/entry/) [to](/en/post/to/) an [event](/en/post/event/) [or](/en/post/or/) venue.
+- "[Admit](/post/admit/) [defeat](/post/defeat/)" [means](/post/means/) [to](/post/to/) acknowledge [that](/post/that/) [one](/post/one/) has lost.
+- "[Admit](/post/admit/) [oneself](/post/oneself/) [to](/post/to/) [a](/post/a/) [hospital](/post/hospital/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) [being](/post/being/) allowed [to](/post/to/) [enter](/post/enter/) [a](/post/a/) healthcare [facility](/post/facility/).
+- "[Admission](/post/admission/) [ticket](/post/ticket/)" refers [to](/post/to/) [a](/post/a/) [ticket](/post/ticket/) granting [entry](/post/entry/) [to](/post/to/) an [event](/post/event/) [or](/post/or/) venue.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [careful](/en/post/careful/) [consideration](/en/post/consideration/), [he](/en/post/he/) admitted [his](/en/post/his/) [responsibility](/en/post/responsibility/) [for](/en/post/for/) [the](/en/post/the/) [accident](/en/post/accident/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [student](/en/post/student/) was given [a](/en/post/a/) conditional [admission](/en/post/admission/) [to](/en/post/to/) [the](/en/post/the/) [university](/en/post/university/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [park](/en/post/park/) has an open-admission [policy](/en/post/policy/) [for](/en/post/for/) children."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) [careful](/post/careful/) [consideration](/post/consideration/), [he](/post/he/) admitted [his](/post/his/) [responsibility](/post/responsibility/) [for](/post/for/) [the](/post/the/) [accident](/post/accident/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [student](/post/student/) was given [a](/post/a/) conditional [admission](/post/admission/) [to](/post/to/) [the](/post/the/) [university](/post/university/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [park](/post/park/) has an open-admission [policy](/post/policy/) [for](/post/for/) children."
 
 ## Synonyms
 - Acknowledge
-- [Recognize](/en/post/recognize/)
+- [Recognize](/post/recognize/)
 - Concede
-- [Admit](/en/post/admit/) [to](/en/post/to/)
-- [Permit](/en/post/permit/)
-- [Grant](/en/post/grant/) [access](/en/post/access/)
+- [Admit](/post/admit/) [to](/post/to/)
+- [Permit](/post/permit/)
+- [Grant](/post/grant/) [access](/post/access/)
 
 ## Antonyms
-- [Deny](/en/post/deny/)
-- [Refuse](/en/post/refuse/)
+- [Deny](/post/deny/)
+- [Refuse](/post/refuse/)
 - Denounce
 - Disclaim
 - Negate

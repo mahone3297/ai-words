@@ -7,39 +7,39 @@ description = '[kɔst] n.价格，代价；成本'
 keywords = ['ai words', 'cost']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɒst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) [that](/en/post/that/) [something](/en/post/something/) **costs** [when](/en/post/when/) purchased [or](/en/post/or/) required. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [car](/en/post/car/) was [quite](/en/post/quite/) [expensive](/en/post/expensive/); [it](/en/post/it/) [cost](/en/post/cost/) $50,000."
-2. [The](/en/post/the/) [time](/en/post/time/), [effort](/en/post/effort/), [or](/en/post/or/) resources expended [in](/en/post/in/) obtaining, producing, [or](/en/post/or/) achieving [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) [cost](/en/post/cost/) [us](/en/post/us/) months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) [that](/post/that/) [something](/post/something/) **costs** [when](/post/when/) purchased [or](/post/or/) required. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) [car](/post/car/) was [quite](/post/quite/) [expensive](/post/expensive/); [it](/post/it/) [cost](/post/cost/) $50,000."
+2. [The](/post/the/) [time](/post/time/), [effort](/post/effort/), [or](/post/or/) resources expended [in](/post/in/) obtaining, producing, [or](/post/or/) achieving [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) [cost](/post/cost/) [us](/post/us/) months [of](/post/of/) [hard](/post/hard/) [work](/post/work/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) incur [a](/en/post/a/) [financial](/en/post/financial/) [expense](/en/post/expense/) [for](/en/post/for/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [trip](/en/post/trip/) [to](/en/post/to/) Europe [will](/en/post/will/) [cost](/en/post/cost/) [us](/en/post/us/) [around](/en/post/around/) $3,000 [per](/en/post/per/) [person](/en/post/person/)."
-2. [To](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [result](/en/post/result/) [or](/en/post/or/) [consequence](/en/post/consequence/) [of](/en/post/of/) (an [action](/en/post/action/) [or](/en/post/or/) [event](/en/post/event/)). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [injury](/en/post/injury/) [cost](/en/post/cost/) [him](/en/post/him/) [the](/en/post/the/) [game](/en/post/game/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) incur [a](/post/a/) [financial](/post/financial/) [expense](/post/expense/) [for](/post/for/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [trip](/post/trip/) [to](/post/to/) Europe [will](/post/will/) [cost](/post/cost/) [us](/post/us/) [around](/post/around/) $3,000 [per](/post/per/) [person](/post/person/)."
+2. [To](/post/to/) [be](/post/be/) [the](/post/the/) [result](/post/result/) [or](/post/or/) [consequence](/post/consequence/) [of](/post/of/) (an [action](/post/action/) [or](/post/or/) [event](/post/event/)). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [injury](/post/injury/) [cost](/post/cost/) [him](/post/him/) [the](/post/the/) [game](/post/game/)."
 
 ## Phrases
-- "[The](/en/post/the/) [total](/en/post/total/) [cost](/en/post/cost/)" refers [to](/en/post/to/) [the](/en/post/the/) [sum](/en/post/sum/) [of](/en/post/of/) [all](/en/post/all/) expenses.
-- "Cost-cutting measures" are actions taken [to](/en/post/to/) [reduce](/en/post/reduce/) expenses.
-- "Cost-benefit [analysis](/en/post/analysis/)" evaluates [the](/en/post/the/) advantages [and](/en/post/and/) disadvantages [of](/en/post/of/) [a](/en/post/a/) [decision](/en/post/decision/) based [on](/en/post/on/) [its](/en/post/its/) costs [and](/en/post/and/) [potential](/en/post/potential/) benefits.
+- "[The](/post/the/) [total](/post/total/) [cost](/post/cost/)" refers [to](/post/to/) [the](/post/the/) [sum](/post/sum/) [of](/post/of/) [all](/post/all/) expenses.
+- "Cost-cutting measures" are actions taken [to](/post/to/) [reduce](/post/reduce/) expenses.
+- "Cost-benefit [analysis](/post/analysis/)" evaluates [the](/post/the/) advantages [and](/post/and/) disadvantages [of](/post/of/) [a](/post/a/) [decision](/post/decision/) based [on](/post/on/) [its](/post/its/) costs [and](/post/and/) [potential](/post/potential/) benefits.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) renovation [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/) [cost](/en/post/cost/) [more](/en/post/more/) [than](/en/post/than/) [we](/en/post/we/) initially anticipated."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) regretted [not](/en/post/not/) researching [the](/en/post/the/) [cost](/en/post/cost/) [of](/en/post/of/) [living](/en/post/living/) [abroad](/en/post/abroad/) [before](/en/post/before/) making [the](/en/post/the/) [move](/en/post/move/)."
-- **[Sentence](/en/post/sentence/) [with](/en/post/with/) '[cost](/en/post/cost/)' [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[The](/en/post/the/) [experiment](/en/post/experiment/) proved [to](/en/post/to/) [be](/en/post/be/) [costly](/en/post/costly/) [but](/en/post/but/) [provided](/en/post/provided/) [valuable](/en/post/valuable/) insights."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) renovation [of](/post/of/) [the](/post/the/) [house](/post/house/) [cost](/post/cost/) [more](/post/more/) [than](/post/than/) [we](/post/we/) initially anticipated."
+- **[Verb](/post/verb/)**: "[He](/post/he/) regretted [not](/post/not/) researching [the](/post/the/) [cost](/post/cost/) [of](/post/of/) [living](/post/living/) [abroad](/post/abroad/) [before](/post/before/) making [the](/post/the/) [move](/post/move/)."
+- **[Sentence](/post/sentence/) [with](/post/with/) '[cost](/post/cost/)' [as](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "[The](/post/the/) [experiment](/post/experiment/) proved [to](/post/to/) [be](/post/be/) [costly](/post/costly/) [but](/post/but/) [provided](/post/provided/) [valuable](/post/valuable/) insights."
 
 ## Synonyms
-- [Expense](/en/post/expense/)
-- [Price](/en/post/price/)
-- [Charge](/en/post/charge/)
+- [Expense](/post/expense/)
+- [Price](/post/price/)
+- [Charge](/post/charge/)
 - Expenditure
 - Valuation
 - Outlay
 
 ## Antonyms
-- [Profit](/en/post/profit/)
-- [Gain](/en/post/gain/)
-- [Free](/en/post/free/)
+- [Profit](/post/profit/)
+- [Gain](/post/gain/)
+- [Free](/post/free/)
 - Discount
-- [Saving](/en/post/saving/)
+- [Saving](/post/saving/)

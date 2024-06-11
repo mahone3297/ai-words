@@ -7,30 +7,30 @@ description = '[inˈtaiə] a.全部的，整个的'
 keywords = ['ai words', 'entire']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈtaɪər/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) [Whole](/en/post/whole/), [complete](/en/post/complete/); [not](/en/post/not/) divided [or](/en/post/or/) [broken](/en/post/broken/) [up](/en/post/up/) [into](/en/post/into/) parts; [total](/en/post/total/), [full](/en/post/full/), [comprehensive](/en/post/comprehensive/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [entire](/en/post/entire/) [company](/en/post/company/) attended [the](/en/post/the/) [meeting](/en/post/meeting/)."
-  - _Example Sentence_: "I [read](/en/post/read/) [the](/en/post/the/) [entire](/en/post/entire/) [book](/en/post/book/) [in](/en/post/in/) [one](/en/post/one/) sitting."
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [whole](/en/post/whole/) [amount](/en/post/amount/), [quantity](/en/post/quantity/), [or](/en/post/or/) [extent](/en/post/extent/) [of](/en/post/of/) [something](/en/post/something/); totality. [Less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [entire](/en/post/entire/) [of](/en/post/of/) [his](/en/post/his/) [wealth](/en/post/wealth/) was invested [in](/en/post/in/) stocks."
+- **[Adjective](/post/adjective/)**: (adj) [Whole](/post/whole/), [complete](/post/complete/); [not](/post/not/) divided [or](/post/or/) [broken](/post/broken/) [up](/post/up/) [into](/post/into/) parts; [total](/post/total/), [full](/post/full/), [comprehensive](/post/comprehensive/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [entire](/post/entire/) [company](/post/company/) attended [the](/post/the/) [meeting](/post/meeting/)."
+  - _Example Sentence_: "I [read](/post/read/) [the](/post/the/) [entire](/post/entire/) [book](/post/book/) [in](/post/in/) [one](/post/one/) sitting."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [whole](/post/whole/) [amount](/post/amount/), [quantity](/post/quantity/), [or](/post/or/) [extent](/post/extent/) [of](/post/of/) [something](/post/something/); totality. [Less](/post/less/) [commonly](/post/commonly/) [used](/post/used/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [entire](/post/entire/) [of](/post/of/) [his](/post/his/) [wealth](/post/wealth/) was invested [in](/post/in/) stocks."
 
 ## Phrases
-- "[In](/en/post/in/) [its](/en/post/its/) entirety": [Meaning](/en/post/meaning/) [the](/en/post/the/) [whole](/en/post/whole/) [thing](/en/post/thing/) [without](/en/post/without/) [any](/en/post/any/) [part](/en/post/part/) [left](/en/post/left/) [out](/en/post/out/). [Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [read](/en/post/read/) [the](/en/post/the/) [contract](/en/post/contract/) [in](/en/post/in/) [its](/en/post/its/) entirety [before](/en/post/before/) signing."
-- "Entirely [possible](/en/post/possible/)": [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) [can](/en/post/can/) [happen](/en/post/happen/) [completely](/en/post/completely/) [or](/en/post/or/) fully. [Example](/en/post/example/): "It's entirely [possible](/en/post/possible/) [that](/en/post/that/) we'll [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [ahead](/en/post/ahead/) [of](/en/post/of/) [schedule](/en/post/schedule/)."
+- "[In](/post/in/) [its](/post/its/) entirety": [Meaning](/post/meaning/) [the](/post/the/) [whole](/post/whole/) [thing](/post/thing/) [without](/post/without/) [any](/post/any/) [part](/post/part/) [left](/post/left/) [out](/post/out/). [Example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [read](/post/read/) [the](/post/the/) [contract](/post/contract/) [in](/post/in/) [its](/post/its/) entirety [before](/post/before/) signing."
+- "Entirely [possible](/post/possible/)": [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) [can](/post/can/) [happen](/post/happen/) [completely](/post/completely/) [or](/post/or/) fully. [Example](/post/example/): "It's entirely [possible](/post/possible/) [that](/post/that/) we'll [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [ahead](/post/ahead/) [of](/post/of/) [schedule](/post/schedule/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) ate [the](/en/post/the/) [entire](/en/post/entire/) pizza [by](/en/post/by/) [herself](/en/post/herself/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [entire](/en/post/entire/) [of](/en/post/of/) [human](/en/post/human/) [knowledge](/en/post/knowledge/) is [now](/en/post/now/) accessible [on](/en/post/on/) [the](/en/post/the/) internet."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) ate [the](/post/the/) [entire](/post/entire/) pizza [by](/post/by/) [herself](/post/herself/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [entire](/post/entire/) [of](/post/of/) [human](/post/human/) [knowledge](/post/knowledge/) is [now](/post/now/) accessible [on](/post/on/) [the](/post/the/) internet."
 
 ## Synonyms
-- [Complete](/en/post/complete/)
-- [Total](/en/post/total/)
-- [Full](/en/post/full/)
-- [Comprehensive](/en/post/comprehensive/)
+- [Complete](/post/complete/)
+- [Total](/post/total/)
+- [Full](/post/full/)
+- [Comprehensive](/post/comprehensive/)
 - Integral
 - Unbroken
-- [Whole](/en/post/whole/)
-- [Utter](/en/post/utter/)
-- [All](/en/post/all/) [of](/en/post/of/)
-- [Every](/en/post/every/) [bit](/en/post/bit/) [of](/en/post/of/)
+- [Whole](/post/whole/)
+- [Utter](/post/utter/)
+- [All](/post/all/) [of](/post/of/)
+- [Every](/post/every/) [bit](/post/bit/) [of](/post/of/)

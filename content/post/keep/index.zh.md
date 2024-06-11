@@ -12,26 +12,26 @@ keywords = ['ai words', 'keep']
 
 ## 释义
 - **动词**:
-    - 保持；维持：保持某事物的状态不变。例如: "I [need](/post/need/) [to](/post/to/) [keep](/post/keep/) [my](/post/my/) [house](/post/house/) [clean](/post/clean/)."
-    - 保存；保留：不丢弃或使用，以备将来之需。例如: "[She](/post/she/) keeps [old](/post/old/) photographs [in](/post/in/) [a](/post/a/) [box](/post/box/)."
-    - 遵守；遵循：按照规定或承诺行事。例如: "[You](/post/you/) [must](/post/must/) [keep](/post/keep/) [your](/post/your/) [promise](/post/promise/)."
-    - 照顾；看护：照管或监护某人或某物。例如: "[Can](/post/can/) [you](/post/you/) [keep](/post/keep/) an [eye](/post/eye/) [on](/post/on/) [my](/post/my/) [dog](/post/dog/) [while](/post/while/) I'm [away](/post/away/)?"
-    - 继续；持续：做某事而不间断。例如: "We'll [keep](/post/keep/) dancing [until](/post/until/) [midnight](/post/midnight/)."
+    - 保持；维持：保持某事物的状态不变。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [keep](/zh/post/keep/) [my](/zh/post/my/) [house](/zh/post/house/) [clean](/zh/post/clean/)."
+    - 保存；保留：不丢弃或使用，以备将来之需。例如: "[She](/zh/post/she/) keeps [old](/zh/post/old/) photographs [in](/zh/post/in/) [a](/zh/post/a/) [box](/zh/post/box/)."
+    - 遵守；遵循：按照规定或承诺行事。例如: "[You](/zh/post/you/) [must](/zh/post/must/) [keep](/zh/post/keep/) [your](/zh/post/your/) [promise](/zh/post/promise/)."
+    - 照顾；看护：照管或监护某人或某物。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [keep](/zh/post/keep/) an [eye](/zh/post/eye/) [on](/zh/post/on/) [my](/zh/post/my/) [dog](/zh/post/dog/) [while](/zh/post/while/) I'm [away](/zh/post/away/)?"
+    - 继续；持续：做某事而不间断。例如: "We'll [keep](/zh/post/keep/) dancing [until](/zh/post/until/) [midnight](/zh/post/midnight/)."
 
 ## 短语
-- "[Keep](/post/keep/) [fit](/post/fit/)" 保持健康。
-- "[Keep](/post/keep/) [quiet](/post/quiet/)" 保持安静。
-- "[Keep](/post/keep/) [up](/post/up/) [with](/post/with/)" 跟上，不落后于。例如: "It's [hard](/post/hard/) [to](/post/to/) [keep](/post/keep/) [up](/post/up/) [with](/post/with/) [the](/post/the/) latest [technology](/post/technology/)."
+- "[Keep](/zh/post/keep/) [fit](/zh/post/fit/)" 保持健康。
+- "[Keep](/zh/post/keep/) [quiet](/zh/post/quiet/)" 保持安静。
+- "[Keep](/zh/post/keep/) [up](/zh/post/up/) [with](/zh/post/with/)" 跟上，不落后于。例如: "It's [hard](/zh/post/hard/) [to](/zh/post/to/) [keep](/zh/post/keep/) [up](/zh/post/up/) [with](/zh/post/with/) [the](/zh/post/the/) latest [technology](/zh/post/technology/)."
 
 ## 例句
 - 动词: 
-    - "[Please](/post/please/) [keep](/post/keep/) [your](/post/your/) [voice](/post/voice/) [down](/post/down/) [in](/post/in/) [the](/post/the/) [library](/post/library/)."
-    - "He's trying [to](/post/to/) [keep](/post/keep/) [his](/post/his/) [job](/post/job/) [by](/post/by/) working [extra](/post/extra/) hours."
-    - "[She](/post/she/) keeps [a](/post/a/) [journal](/post/journal/) [of](/post/of/) [her](/post/her/) [daily](/post/daily/) thoughts."
+    - "[Please](/zh/post/please/) [keep](/zh/post/keep/) [your](/zh/post/your/) [voice](/zh/post/voice/) [down](/zh/post/down/) [in](/zh/post/in/) [the](/zh/post/the/) [library](/zh/post/library/)."
+    - "He's trying [to](/zh/post/to/) [keep](/zh/post/keep/) [his](/zh/post/his/) [job](/zh/post/job/) [by](/zh/post/by/) working [extra](/zh/post/extra/) hours."
+    - "[She](/zh/post/she/) keeps [a](/zh/post/a/) [journal](/zh/post/journal/) [of](/zh/post/of/) [her](/zh/post/her/) [daily](/zh/post/daily/) thoughts."
 
 ## 同义词
-- [Maintain](/post/maintain/)
-- [Retain](/post/retain/)
-- [Hold](/post/hold/) [onto](/post/onto/)
-- [Sustain](/post/sustain/)
-- Abide [by](/post/by/)
+- [Maintain](/zh/post/maintain/)
+- [Retain](/zh/post/retain/)
+- [Hold](/zh/post/hold/) [onto](/zh/post/onto/)
+- [Sustain](/zh/post/sustain/)
+- Abide [by](/zh/post/by/)

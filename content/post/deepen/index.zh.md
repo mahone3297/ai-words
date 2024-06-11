@@ -11,20 +11,20 @@ keywords = ['ai words', 'deepen']
 /deˈpniːn/
 
 ## 释义
-- **动词**: 使变得更深；加深。例如: "[Regular](/post/regular/) [practice](/post/practice/) [can](/post/can/) [deepen](/post/deepen/) [your](/post/your/) [understanding](/post/understanding/) [of](/post/of/) [a](/post/a/) [subject](/post/subject/)."
-- **形容词**: 深入的，深厚的。例如: "[Their](/post/their/) [friendship](/post/friendship/) had deepened [over](/post/over/) [the](/post/the/) years."
+- **动词**: 使变得更深；加深。例如: "[Regular](/zh/post/regular/) [practice](/zh/post/practice/) [can](/zh/post/can/) [deepen](/zh/post/deepen/) [your](/zh/post/your/) [understanding](/zh/post/understanding/) [of](/zh/post/of/) [a](/zh/post/a/) [subject](/zh/post/subject/)."
+- **形容词**: 深入的，深厚的。例如: "[Their](/zh/post/their/) [friendship](/zh/post/friendship/) had deepened [over](/zh/post/over/) [the](/zh/post/the/) years."
 
 ## 短语
-- "[deepen](/post/deepen/) one's [knowledge](/post/knowledge/)" 增进知识。
-- "[deepen](/post/deepen/) [the](/post/the/) [relationship](/post/relationship/)" 加深关系。
+- "[deepen](/zh/post/deepen/) one's [knowledge](/zh/post/knowledge/)" 增进知识。
+- "[deepen](/zh/post/deepen/) [the](/zh/post/the/) [relationship](/zh/post/relationship/)" 加深关系。
 
 ## 例句
-- 动词: "[Reading](/post/reading/) [widely](/post/widely/) [can](/post/can/) [deepen](/post/deepen/) [your](/post/your/) [comprehension](/post/comprehension/) [of](/post/of/) [literature](/post/literature/)."
-- 形容词: "[The](/post/the/) [experience](/post/experience/) [left](/post/left/) [a](/post/a/) deepened [sense](/post/sense/) [of](/post/of/) [responsibility](/post/responsibility/) [in](/post/in/) [him](/post/him/)."
+- 动词: "[Reading](/zh/post/reading/) [widely](/zh/post/widely/) [can](/zh/post/can/) [deepen](/zh/post/deepen/) [your](/zh/post/your/) [comprehension](/zh/post/comprehension/) [of](/zh/post/of/) [literature](/zh/post/literature/)."
+- 形容词: "[The](/zh/post/the/) [experience](/zh/post/experience/) [left](/zh/post/left/) [a](/zh/post/a/) deepened [sense](/zh/post/sense/) [of](/zh/post/of/) [responsibility](/zh/post/responsibility/) [in](/zh/post/in/) [him](/zh/post/him/)."
 
 ## 同义词
 - Intensify
-- [Strengthen](/post/strengthen/)
+- [Strengthen](/zh/post/strengthen/)
 - Augment
 - Enrich
 - Enhance

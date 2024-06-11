@@ -7,34 +7,34 @@ description = '[ˈɔnist] a.诚实的；可敬的'
 keywords = ['ai words', 'honest']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɑːnɪst/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) truthfulness, sincerity, [or](/en/post/or/) frankness; [free](/en/post/free/) [from](/en/post/from/) [deceit](/en/post/deceit/) [or](/en/post/or/) fraud. [For](/en/post/for/) [example](/en/post/example/): "She's known [for](/en/post/for/) [her](/en/post/her/) [honest](/en/post/honest/) opinions."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) truthfulness, sincerity, [or](/post/or/) frankness; [free](/post/free/) [from](/post/from/) [deceit](/post/deceit/) [or](/post/or/) fraud. [For](/post/for/) [example](/post/example/): "She's known [for](/post/for/) [her](/post/her/) [honest](/post/honest/) opinions."
   
-  > *[He](/en/post/he/) was praised [for](/en/post/for/) [his](/en/post/his/) [honest](/en/post/honest/) [approach](/en/post/approach/) [to](/en/post/to/) [business](/en/post/business/).*
-  > *An [honest](/en/post/honest/) day's [work](/en/post/work/) deserves an [honest](/en/post/honest/) day's [pay](/en/post/pay/).*
+  > *[He](/post/he/) was praised [for](/post/for/) [his](/post/his/) [honest](/post/honest/) [approach](/post/approach/) [to](/post/to/) [business](/post/business/).*
+  > *An [honest](/post/honest/) day's [work](/post/work/) deserves an [honest](/post/honest/) day's [pay](/post/pay/).*
 
 ## Phrases
-- "[To](/en/post/to/) [be](/en/post/be/) [honest](/en/post/honest/)": [To](/en/post/to/) [speak](/en/post/speak/) [or](/en/post/or/) [act](/en/post/act/) [with](/en/post/with/) sincerity [or](/en/post/or/) truthfulness. [For](/en/post/for/) [example](/en/post/example/): "[To](/en/post/to/) [be](/en/post/be/) [honest](/en/post/honest/), I don't [think](/en/post/think/) that's [a](/en/post/a/) [good](/en/post/good/) [idea](/en/post/idea/)."
-- "[Honest](/en/post/honest/) [mistake](/en/post/mistake/)": An unintentional [error](/en/post/error/) made [without](/en/post/without/) deception [or](/en/post/or/) malice. [Example](/en/post/example/): "[It](/en/post/it/) was [just](/en/post/just/) an [honest](/en/post/honest/) [mistake](/en/post/mistake/); [he](/en/post/he/) didn't [mean](/en/post/mean/) [to](/en/post/to/) [mislead](/en/post/mislead/) [anyone](/en/post/anyone/)."
+- "[To](/post/to/) [be](/post/be/) [honest](/post/honest/)": [To](/post/to/) [speak](/post/speak/) [or](/post/or/) [act](/post/act/) [with](/post/with/) sincerity [or](/post/or/) truthfulness. [For](/post/for/) [example](/post/example/): "[To](/post/to/) [be](/post/be/) [honest](/post/honest/), I don't [think](/post/think/) that's [a](/post/a/) [good](/post/good/) [idea](/post/idea/)."
+- "[Honest](/post/honest/) [mistake](/post/mistake/)": An unintentional [error](/post/error/) made [without](/post/without/) deception [or](/post/or/) malice. [Example](/post/example/): "[It](/post/it/) was [just](/post/just/) an [honest](/post/honest/) [mistake](/post/mistake/); [he](/post/he/) didn't [mean](/post/mean/) [to](/post/to/) [mislead](/post/mislead/) [anyone](/post/anyone/)."
   
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [honest](/en/post/honest/) [face](/en/post/face/) reflected [the](/en/post/the/) innocence [he](/en/post/he/) felt."
-- "[The](/en/post/the/) [politician](/en/post/politician/) promised [to](/en/post/to/) [run](/en/post/run/) an [honest](/en/post/honest/) [campaign](/en/post/campaign/)."
-- "[She](/en/post/she/) earned [a](/en/post/a/) [reputation](/en/post/reputation/) [for](/en/post/for/) [being](/en/post/being/) [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [most](/en/post/most/) [honest](/en/post/honest/) [people](/en/post/people/) [in](/en/post/in/) [town](/en/post/town/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [honest](/post/honest/) [face](/post/face/) reflected [the](/post/the/) innocence [he](/post/he/) felt."
+- "[The](/post/the/) [politician](/post/politician/) promised [to](/post/to/) [run](/post/run/) an [honest](/post/honest/) [campaign](/post/campaign/)."
+- "[She](/post/she/) earned [a](/post/a/) [reputation](/post/reputation/) [for](/post/for/) [being](/post/being/) [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [honest](/post/honest/) [people](/post/people/) [in](/post/in/) [town](/post/town/)."
 
 ## Synonyms
 - Truthful
 - Trustworthy
-- [Sincere](/en/post/sincere/)
-- [Frank](/en/post/frank/)
+- [Sincere](/post/sincere/)
+- [Frank](/post/frank/)
 - Candid
-- [Upright](/en/post/upright/)
-- [Genuine](/en/post/genuine/)
+- [Upright](/post/upright/)
+- [Genuine](/post/genuine/)
 - Straightforward
 - Unpretentious
 - Veracious
 
-[Note](/en/post/note/): [Although](/en/post/although/) "[honest](/en/post/honest/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) (e.g., referring [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [honest](/en/post/honest/) [people](/en/post/people/)), it's [far](/en/post/far/) [less](/en/post/less/) [common](/en/post/common/) [than](/en/post/than/) [its](/en/post/its/) [use](/en/post/use/) [as](/en/post/as/) an [adjective](/en/post/adjective/). [In](/en/post/in/) [this](/en/post/this/) context, [no](/en/post/no/) examples [or](/en/post/or/) synonyms [have](/en/post/have/) been [provided](/en/post/provided/) [for](/en/post/for/) [its](/en/post/its/) [noun](/en/post/noun/) [usage](/en/post/usage/) [since](/en/post/since/) it's [not](/en/post/not/) [typical](/en/post/typical/).
+[Note](/post/note/): [Although](/post/although/) "[honest](/post/honest/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) (e.g., referring [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) [honest](/post/honest/) [people](/post/people/)), it's [far](/post/far/) [less](/post/less/) [common](/post/common/) [than](/post/than/) [its](/post/its/) [use](/post/use/) [as](/post/as/) an [adjective](/post/adjective/). [In](/post/in/) [this](/post/this/) context, [no](/post/no/) examples [or](/post/or/) synonyms [have](/post/have/) been [provided](/post/provided/) [for](/post/for/) [its](/post/its/) [noun](/post/noun/) [usage](/post/usage/) [since](/post/since/) it's [not](/post/not/) [typical](/post/typical/).

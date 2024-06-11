@@ -7,36 +7,36 @@ description = '[send] vt.送，寄发；派遣'
 keywords = ['ai words', 'send']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[send](/en/post/send/)/
+## [Pronunciation](/post/pronunciation/)
+/[send](/post/send/)/
 
 ## Definitions
-### [Verb](/en/post/verb/)
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [action](/en/post/action/) [or](/en/post/or/) [act](/en/post/act/) [of](/en/post/of/) sending [something](/en/post/something/) [or](/en/post/or/) transmitting [it](/en/post/it/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "I sent [a](/en/post/a/) [letter](/en/post/letter/) [to](/en/post/to/) [my](/en/post/my/) [friend](/en/post/friend/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) dispatch [or](/en/post/or/) [convey](/en/post/convey/) ([a](/en/post/a/) [message](/en/post/message/), [information](/en/post/information/), [or](/en/post/or/) [goods](/en/post/goods/)) [by](/en/post/by/) [mail](/en/post/mail/), email, [or](/en/post/or/) [other](/en/post/other/) [means](/en/post/means/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sent [me](/en/post/me/) an [important](/en/post/important/) [document](/en/post/document/) [via](/en/post/via/) email."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [convey](/en/post/convey/) [a](/en/post/a/) [thought](/en/post/thought/), [feeling](/en/post/feeling/), [or](/en/post/or/) [message](/en/post/message/) [through](/en/post/through/) [a](/en/post/a/) [medium](/en/post/medium/) [like](/en/post/like/) [a](/en/post/a/) [signal](/en/post/signal/) [or](/en/post/or/) [gesture](/en/post/gesture/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) sent [his](/en/post/his/) apologies [with](/en/post/with/) [a](/en/post/a/) bouquet [of](/en/post/of/) flowers."
+### [Verb](/post/verb/)
+- **[Noun](/post/noun/)**: [The](/post/the/) [action](/post/action/) [or](/post/or/) [act](/post/act/) [of](/post/of/) sending [something](/post/something/) [or](/post/or/) transmitting [it](/post/it/) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "I sent [a](/post/a/) [letter](/post/letter/) [to](/post/to/) [my](/post/my/) [friend](/post/friend/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) dispatch [or](/post/or/) [convey](/post/convey/) ([a](/post/a/) [message](/post/message/), [information](/post/information/), [or](/post/or/) [goods](/post/goods/)) [by](/post/by/) [mail](/post/mail/), email, [or](/post/or/) [other](/post/other/) [means](/post/means/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) sent [me](/post/me/) an [important](/post/important/) [document](/post/document/) [via](/post/via/) email."
+- **[Verb](/post/verb/)**: [To](/post/to/) [convey](/post/convey/) [a](/post/a/) [thought](/post/thought/), [feeling](/post/feeling/), [or](/post/or/) [message](/post/message/) [through](/post/through/) [a](/post/a/) [medium](/post/medium/) [like](/post/like/) [a](/post/a/) [signal](/post/signal/) [or](/post/or/) [gesture](/post/gesture/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) sent [his](/post/his/) apologies [with](/post/with/) [a](/post/a/) bouquet [of](/post/of/) flowers."
 
-### [Adjective](/en/post/adjective/)
-- Refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) sending [or](/en/post/or/) [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) dispatched [or](/en/post/or/) conveyed. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [package](/en/post/package/) was sent [express](/en/post/express/)."
+### [Adjective](/post/adjective/)
+- Refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) sending [or](/post/or/) [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) dispatched [or](/post/or/) conveyed. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [package](/post/package/) was sent [express](/post/express/)."
 
 ## Phrases
-- "[Send](/en/post/send/) [something](/en/post/something/) [to](/en/post/to/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [deliver](/en/post/deliver/) an [item](/en/post/item/) [or](/en/post/or/) [information](/en/post/information/) [to](/en/post/to/) [that](/en/post/that/) [person](/en/post/person/).
-- "Sent [out](/en/post/out/) invitations" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) distributing invitations.
-- "[Send](/en/post/send/) [your](/en/post/your/) regards" is [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [express](/en/post/express/) [affection](/en/post/affection/) [or](/en/post/or/) [best](/en/post/best/) wishes [on](/en/post/on/) [behalf](/en/post/behalf/) [of](/en/post/of/) [someone](/en/post/someone/).
+- "[Send](/post/send/) [something](/post/something/) [to](/post/to/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [deliver](/post/deliver/) an [item](/post/item/) [or](/post/or/) [information](/post/information/) [to](/post/to/) [that](/post/that/) [person](/post/person/).
+- "Sent [out](/post/out/) invitations" is [the](/post/the/) [act](/post/act/) [of](/post/of/) distributing invitations.
+- "[Send](/post/send/) [your](/post/your/) regards" is [a](/post/a/) [way](/post/way/) [to](/post/to/) [express](/post/express/) [affection](/post/affection/) [or](/post/or/) [best](/post/best/) wishes [on](/post/on/) [behalf](/post/behalf/) [of](/post/of/) [someone](/post/someone/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [you](/en/post/you/) [to](/en/post/to/) [send](/en/post/send/) [the](/en/post/the/) [report](/en/post/report/) [to](/en/post/to/) [the](/en/post/the/) manager [by](/en/post/by/) 5 PM."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's [policy](/en/post/policy/) is [to](/en/post/to/) [send](/en/post/send/) [all](/en/post/all/) [customer](/en/post/customer/) inquiries [within](/en/post/within/) 24 hours."
-- **Phrasal [Verb](/en/post/verb/)**: "I'll [send](/en/post/send/) [you](/en/post/you/) [a](/en/post/a/) [text](/en/post/text/) [when](/en/post/when/) I [arrive](/en/post/arrive/) [at](/en/post/at/) [the](/en/post/the/) [airport](/en/post/airport/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [you](/post/you/) [to](/post/to/) [send](/post/send/) [the](/post/the/) [report](/post/report/) [to](/post/to/) [the](/post/the/) manager [by](/post/by/) 5 PM."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) company's [policy](/post/policy/) is [to](/post/to/) [send](/post/send/) [all](/post/all/) [customer](/post/customer/) inquiries [within](/post/within/) 24 hours."
+- **Phrasal [Verb](/post/verb/)**: "I'll [send](/post/send/) [you](/post/you/) [a](/post/a/) [text](/post/text/) [when](/post/when/) I [arrive](/post/arrive/) [at](/post/at/) [the](/post/the/) [airport](/post/airport/)."
 
 ## Synonyms
-- [Transmit](/en/post/transmit/)
+- [Transmit](/post/transmit/)
 - Dispatch
-- [Forward](/en/post/forward/)
-- [Mail](/en/post/mail/)
-- [Communicate](/en/post/communicate/)
-- [Express](/en/post/express/)
+- [Forward](/post/forward/)
+- [Mail](/post/mail/)
+- [Communicate](/post/communicate/)
+- [Express](/post/express/)
 - Relay
-- [Transmit](/en/post/transmit/) ([information](/en/post/information/))
-- Dispatch ([message](/en/post/message/))
-- [Put](/en/post/put/) ([something](/en/post/something/)) [in](/en/post/in/) [the](/en/post/the/) [post](/en/post/post/)
+- [Transmit](/post/transmit/) ([information](/post/information/))
+- Dispatch ([message](/post/message/))
+- [Put](/post/put/) ([something](/post/something/)) [in](/post/in/) [the](/post/the/) [post](/post/post/)

@@ -7,35 +7,35 @@ description = '[∫æmˈpuː] vt.用洗发剂洗 n.洗头'
 keywords = ['ai words', 'shampoo']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʃæm-pəʊn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [shampoo](/en/post/shampoo/) is [a](/en/post/a/) [hair](/en/post/hair/) [care](/en/post/care/) [product](/en/post/product/) designed [to](/en/post/to/) cleanse, nourish, [and](/en/post/and/) [condition](/en/post/condition/) [the](/en/post/the/) scalp [and](/en/post/and/) [hair](/en/post/hair/). [It](/en/post/it/) is typically applied [wet](/en/post/wet/) [and](/en/post/and/) rinsed [off](/en/post/off/). 
+### [Noun](/post/noun/)
+[A](/post/a/) [shampoo](/post/shampoo/) is [a](/post/a/) [hair](/post/hair/) [care](/post/care/) [product](/post/product/) designed [to](/post/to/) cleanse, nourish, [and](/post/and/) [condition](/post/condition/) [the](/post/the/) scalp [and](/post/and/) [hair](/post/hair/). [It](/post/it/) is typically applied [wet](/post/wet/) [and](/post/and/) rinsed [off](/post/off/). 
 
-### [Verb](/en/post/verb/) (transitive)
-[To](/en/post/to/) [shampoo](/en/post/shampoo/) (one's [hair](/en/post/hair/)) [means](/en/post/means/) [to](/en/post/to/) [wash](/en/post/wash/) [it](/en/post/it/) using [shampoo](/en/post/shampoo/), [usually](/en/post/usually/) [for](/en/post/for/) cleaning [and](/en/post/and/) conditioning purposes.
+### [Verb](/post/verb/) (transitive)
+[To](/post/to/) [shampoo](/post/shampoo/) (one's [hair](/post/hair/)) [means](/post/means/) [to](/post/to/) [wash](/post/wash/) [it](/post/it/) using [shampoo](/post/shampoo/), [usually](/post/usually/) [for](/post/for/) cleaning [and](/post/and/) conditioning purposes.
 
-### [Adjective](/en/post/adjective/)
-[Shampoo](/en/post/shampoo/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [hair](/en/post/hair/) [treatment](/en/post/treatment/) [or](/en/post/or/) [a](/en/post/a/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [product](/en/post/product/) [that](/en/post/that/) cleanses [hair](/en/post/hair/) effectively.
+### [Adjective](/post/adjective/)
+[Shampoo](/post/shampoo/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [type](/post/type/) [of](/post/of/) [hair](/post/hair/) [treatment](/post/treatment/) [or](/post/or/) [a](/post/a/) [characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [product](/post/product/) [that](/post/that/) cleanses [hair](/post/hair/) effectively.
 
 ## Phrases
-- "[Shampoo](/en/post/shampoo/) [your](/en/post/your/) [hair](/en/post/hair/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) washing [it](/en/post/it/) [with](/en/post/with/) [shampoo](/en/post/shampoo/).
-- "[Dry](/en/post/dry/) [shampoo](/en/post/shampoo/)" is [a](/en/post/a/) [product](/en/post/product/) [used](/en/post/used/) [for](/en/post/for/) refreshing [hair](/en/post/hair/) [between](/en/post/between/) washes [without](/en/post/without/) [water](/en/post/water/).
-- "Sulfate-free [shampoo](/en/post/shampoo/)" refers [to](/en/post/to/) [a](/en/post/a/) [formula](/en/post/formula/) [without](/en/post/without/) [harsh](/en/post/harsh/) detergents [to](/en/post/to/) [avoid](/en/post/avoid/) stripping [natural](/en/post/natural/) oils.
+- "[Shampoo](/post/shampoo/) [your](/post/your/) [hair](/post/hair/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) washing [it](/post/it/) [with](/post/with/) [shampoo](/post/shampoo/).
+- "[Dry](/post/dry/) [shampoo](/post/shampoo/)" is [a](/post/a/) [product](/post/product/) [used](/post/used/) [for](/post/for/) refreshing [hair](/post/hair/) [between](/post/between/) washes [without](/post/without/) [water](/post/water/).
+- "Sulfate-free [shampoo](/post/shampoo/)" refers [to](/post/to/) [a](/post/a/) [formula](/post/formula/) [without](/post/without/) [harsh](/post/harsh/) detergents [to](/post/to/) [avoid](/post/avoid/) stripping [natural](/post/natural/) oils.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) uses [a](/en/post/a/) [gentle](/en/post/gentle/) [shampoo](/en/post/shampoo/) [to](/en/post/to/) [prevent](/en/post/prevent/) [her](/en/post/her/) [sensitive](/en/post/sensitive/) scalp [from](/en/post/from/) irritation."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [shampoo](/en/post/shampoo/) [and](/en/post/and/) [condition](/en/post/condition/) [my](/en/post/my/) [hair](/en/post/hair/) [before](/en/post/before/) going [out](/en/post/out/) [tonight](/en/post/tonight/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [baby](/en/post/baby/) has [fine](/en/post/fine/), silky [hair](/en/post/hair/) [that](/en/post/that/) requires [a](/en/post/a/) moisturizing [shampoo](/en/post/shampoo/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) uses [a](/post/a/) [gentle](/post/gentle/) [shampoo](/post/shampoo/) [to](/post/to/) [prevent](/post/prevent/) [her](/post/her/) [sensitive](/post/sensitive/) scalp [from](/post/from/) irritation."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [shampoo](/post/shampoo/) [and](/post/and/) [condition](/post/condition/) [my](/post/my/) [hair](/post/hair/) [before](/post/before/) going [out](/post/out/) [tonight](/post/tonight/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [baby](/post/baby/) has [fine](/post/fine/), silky [hair](/post/hair/) [that](/post/that/) requires [a](/post/a/) moisturizing [shampoo](/post/shampoo/)."
 
 ## Synonyms
 - Hair洗发水
 - Cleanser
 - Conditioner
 - Hydrator
-- Scalp [treatment](/en/post/treatment/)
+- Scalp [treatment](/post/treatment/)
 
-## [Additional](/en/post/additional/) [Information](/en/post/information/)
-[Shampoo](/en/post/shampoo/) comes [in](/en/post/in/) [various](/en/post/various/) formulations, [such](/en/post/such/) [as](/en/post/as/) foaming, volumizing, color-safe, [or](/en/post/or/) targeted [for](/en/post/for/) [specific](/en/post/specific/) [hair](/en/post/hair/) concerns [like](/en/post/like/) dandruff, oily [hair](/en/post/hair/), [or](/en/post/or/) dryness. [Some](/en/post/some/) [people](/en/post/people/) [also](/en/post/also/) [use](/en/post/use/) [it](/en/post/it/) [as](/en/post/as/) [a](/en/post/a/) [body](/en/post/body/) [wash](/en/post/wash/) [or](/en/post/or/) [for](/en/post/for/) pets.
+## [Additional](/post/additional/) [Information](/post/information/)
+[Shampoo](/post/shampoo/) comes [in](/post/in/) [various](/post/various/) formulations, [such](/post/such/) [as](/post/as/) foaming, volumizing, color-safe, [or](/post/or/) targeted [for](/post/for/) [specific](/post/specific/) [hair](/post/hair/) concerns [like](/post/like/) dandruff, oily [hair](/post/hair/), [or](/post/or/) dryness. [Some](/post/some/) [people](/post/people/) [also](/post/also/) [use](/post/use/) [it](/post/it/) [as](/post/as/) [a](/post/a/) [body](/post/body/) [wash](/post/wash/) [or](/post/or/) [for](/post/for/) pets.

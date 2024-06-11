@@ -7,32 +7,32 @@ description = '[fækt] n.事实；实际，实情'
 keywords = ['ai words', 'fact']
 +++
 
-## [Word](/en/post/word/): [Fact](/en/post/fact/)
+## [Word](/post/word/): [Fact](/post/fact/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fækt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [thing](/en/post/thing/) [that](/en/post/that/) is known [or](/en/post/or/) proved [to](/en/post/to/) [be](/en/post/be/) [true](/en/post/true/); [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/) presented [as](/en/post/as/) having [objective](/en/post/objective/) [reality](/en/post/reality/). _Example_: "[The](/en/post/the/) [fact](/en/post/fact/) [that](/en/post/that/) [Earth](/en/post/earth/) revolves [around](/en/post/around/) [the](/en/post/the/) [Sun](/en/post/sun/) is an established [scientific](/en/post/scientific/) [truth](/en/post/truth/)."
-  - _In law_: [A](/en/post/a/) verified [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/) [or](/en/post/or/) [evidence](/en/post/evidence/) presented [in](/en/post/in/) [court](/en/post/court/). _Example_: "[The](/en/post/the/) facts [of](/en/post/of/) [the](/en/post/the/) [case](/en/post/case/) were thoroughly examined [by](/en/post/by/) [the](/en/post/the/) [jury](/en/post/jury/)."
-- **[Verb](/en/post/verb/) (infinitive: [to](/en/post/to/) fact-check)**: [To](/en/post/to/) [verify](/en/post/verify/) [or](/en/post/or/) authenticate [the](/en/post/the/) [accuracy](/en/post/accuracy/) [of](/en/post/of/) [information](/en/post/information/), [especially](/en/post/especially/) [before](/en/post/before/) [publication](/en/post/publication/) [or](/en/post/or/) dissemination. _Example_: "Journalists [must](/en/post/must/) fact-check [their](/en/post/their/) stories [before](/en/post/before/) submitting [them](/en/post/them/) [for](/en/post/for/) [publication](/en/post/publication/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [thing](/post/thing/) [that](/post/that/) is known [or](/post/or/) proved [to](/post/to/) [be](/post/be/) [true](/post/true/); [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [information](/post/information/) presented [as](/post/as/) having [objective](/post/objective/) [reality](/post/reality/). _Example_: "[The](/post/the/) [fact](/post/fact/) [that](/post/that/) [Earth](/post/earth/) revolves [around](/post/around/) [the](/post/the/) [Sun](/post/sun/) is an established [scientific](/post/scientific/) [truth](/post/truth/)."
+  - _In law_: [A](/post/a/) verified [piece](/post/piece/) [of](/post/of/) [information](/post/information/) [or](/post/or/) [evidence](/post/evidence/) presented [in](/post/in/) [court](/post/court/). _Example_: "[The](/post/the/) facts [of](/post/of/) [the](/post/the/) [case](/post/case/) were thoroughly examined [by](/post/by/) [the](/post/the/) [jury](/post/jury/)."
+- **[Verb](/post/verb/) (infinitive: [to](/post/to/) fact-check)**: [To](/post/to/) [verify](/post/verify/) [or](/post/or/) authenticate [the](/post/the/) [accuracy](/post/accuracy/) [of](/post/of/) [information](/post/information/), [especially](/post/especially/) [before](/post/before/) [publication](/post/publication/) [or](/post/or/) dissemination. _Example_: "Journalists [must](/post/must/) fact-check [their](/post/their/) stories [before](/post/before/) submitting [them](/post/them/) [for](/post/for/) [publication](/post/publication/)."
 
 ## Phrases
-- "[In](/en/post/in/) [fact](/en/post/fact/)": [Used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [statement](/en/post/statement/) [that](/en/post/that/) reinforces [or](/en/post/or/) adds [new](/en/post/new/) [information](/en/post/information/), [often](/en/post/often/) correcting [a](/en/post/a/) misconception. _Example_: "I [thought](/en/post/thought/) [he](/en/post/he/) was [late](/en/post/late/), [but](/en/post/but/) [in](/en/post/in/) [fact](/en/post/fact/), [he](/en/post/he/) arrived [on](/en/post/on/) [time](/en/post/time/)."
-- "[As](/en/post/as/) [a](/en/post/a/) [matter](/en/post/matter/) [of](/en/post/of/) [fact](/en/post/fact/)": Introducing [a](/en/post/a/) [statement](/en/post/statement/) [that](/en/post/that/) corrects [or](/en/post/or/) contradicts [what](/en/post/what/) has [just](/en/post/just/) been said. _Example_: "I don't [mind](/en/post/mind/) waiting; [as](/en/post/as/) [a](/en/post/a/) [matter](/en/post/matter/) [of](/en/post/of/) [fact](/en/post/fact/), I [have](/en/post/have/) [some](/en/post/some/) [reading](/en/post/reading/) [to](/en/post/to/) [catch](/en/post/catch/) [up](/en/post/up/) [on](/en/post/on/)."
-- "[Fact](/en/post/fact/) [of](/en/post/of/) [the](/en/post/the/) [matter](/en/post/matter/)": Referring [to](/en/post/to/) [the](/en/post/the/) [most](/en/post/most/) [important](/en/post/important/) [or](/en/post/or/) [essential](/en/post/essential/) [point](/en/post/point/) [about](/en/post/about/) [a](/en/post/a/) [situation](/en/post/situation/). _Example_: "[The](/en/post/the/) [fact](/en/post/fact/) [of](/en/post/of/) [the](/en/post/the/) [matter](/en/post/matter/) is, [we](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [increase](/en/post/increase/) [our](/en/post/our/) sales [if](/en/post/if/) [we](/en/post/we/) [want](/en/post/want/) [to](/en/post/to/) [stay](/en/post/stay/) [in](/en/post/in/) [business](/en/post/business/)."
+- "[In](/post/in/) [fact](/post/fact/)": [Used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [statement](/post/statement/) [that](/post/that/) reinforces [or](/post/or/) adds [new](/post/new/) [information](/post/information/), [often](/post/often/) correcting [a](/post/a/) misconception. _Example_: "I [thought](/post/thought/) [he](/post/he/) was [late](/post/late/), [but](/post/but/) [in](/post/in/) [fact](/post/fact/), [he](/post/he/) arrived [on](/post/on/) [time](/post/time/)."
+- "[As](/post/as/) [a](/post/a/) [matter](/post/matter/) [of](/post/of/) [fact](/post/fact/)": Introducing [a](/post/a/) [statement](/post/statement/) [that](/post/that/) corrects [or](/post/or/) contradicts [what](/post/what/) has [just](/post/just/) been said. _Example_: "I don't [mind](/post/mind/) waiting; [as](/post/as/) [a](/post/a/) [matter](/post/matter/) [of](/post/of/) [fact](/post/fact/), I [have](/post/have/) [some](/post/some/) [reading](/post/reading/) [to](/post/to/) [catch](/post/catch/) [up](/post/up/) [on](/post/on/)."
+- "[Fact](/post/fact/) [of](/post/of/) [the](/post/the/) [matter](/post/matter/)": Referring [to](/post/to/) [the](/post/the/) [most](/post/most/) [important](/post/important/) [or](/post/or/) [essential](/post/essential/) [point](/post/point/) [about](/post/about/) [a](/post/a/) [situation](/post/situation/). _Example_: "[The](/post/the/) [fact](/post/fact/) [of](/post/of/) [the](/post/the/) [matter](/post/matter/) is, [we](/post/we/) [need](/post/need/) [to](/post/to/) [increase](/post/increase/) [our](/post/our/) sales [if](/post/if/) [we](/post/we/) [want](/post/want/) [to](/post/to/) [stay](/post/stay/) [in](/post/in/) [business](/post/business/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "It's [a](/en/post/a/) [fact](/en/post/fact/) [that](/en/post/that/) [exercise](/en/post/exercise/) improves [mental](/en/post/mental/) [health](/en/post/health/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [news](/en/post/news/) [organization](/en/post/organization/) prides [itself](/en/post/itself/) [on](/en/post/on/) fact-checking [all](/en/post/all/) [its](/en/post/its/) articles rigorously."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "It's [a](/post/a/) [fact](/post/fact/) [that](/post/that/) [exercise](/post/exercise/) improves [mental](/post/mental/) [health](/post/health/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [news](/post/news/) [organization](/post/organization/) prides [itself](/post/itself/) [on](/post/on/) fact-checking [all](/post/all/) [its](/post/its/) articles rigorously."
 
 ## Synonyms
-- [Truth](/en/post/truth/)
-- [Reality](/en/post/reality/)
-- [Certainty](/en/post/certainty/)
-- [Evidence](/en/post/evidence/)
-- [Information](/en/post/information/)
+- [Truth](/post/truth/)
+- [Reality](/post/reality/)
+- [Certainty](/post/certainty/)
+- [Evidence](/post/evidence/)
+- [Information](/post/information/)
 - Datum
 - Verity
-- Factual [data](/en/post/data/)
-- Established [truth](/en/post/truth/)
+- Factual [data](/post/data/)
+- Established [truth](/post/truth/)

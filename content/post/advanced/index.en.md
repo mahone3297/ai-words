@@ -7,37 +7,37 @@ description = '[ədˈvɑːnst] a.先进的；高级的'
 keywords = ['ai words', 'advanced']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈvænsd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [progress](/en/post/progress/) [or](/en/post/or/) [development](/en/post/development/) [beyond](/en/post/beyond/) [the](/en/post/the/) [usual](/en/post/usual/) [or](/en/post/or/) expected [level](/en/post/level/); [advanced](/en/post/advanced/) [in](/en/post/in/) [knowledge](/en/post/knowledge/), [skill](/en/post/skill/), [or](/en/post/or/) [stage](/en/post/stage/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [technology](/en/post/technology/) is [highly](/en/post/highly/) [advanced](/en/post/advanced/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) an [advanced](/en/post/advanced/) [manner](/en/post/manner/); [with](/en/post/with/) [a](/en/post/a/) higher [degree](/en/post/degree/) [or](/en/post/or/) [stage](/en/post/stage/) [of](/en/post/of/) [development](/en/post/development/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [learned](/en/post/learned/) [to](/en/post/to/) [play](/en/post/play/) [the](/en/post/the/) [piano](/en/post/piano/) [quite](/en/post/quite/) advancedly."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [progress](/post/progress/) [or](/post/or/) [development](/post/development/) [beyond](/post/beyond/) [the](/post/the/) [usual](/post/usual/) [or](/post/or/) expected [level](/post/level/); [advanced](/post/advanced/) [in](/post/in/) [knowledge](/post/knowledge/), [skill](/post/skill/), [or](/post/or/) [stage](/post/stage/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [technology](/post/technology/) is [highly](/post/highly/) [advanced](/post/advanced/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) an [advanced](/post/advanced/) [manner](/post/manner/); [with](/post/with/) [a](/post/a/) higher [degree](/post/degree/) [or](/post/or/) [stage](/post/stage/) [of](/post/of/) [development](/post/development/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [learned](/post/learned/) [to](/post/to/) [play](/post/play/) [the](/post/the/) [piano](/post/piano/) [quite](/post/quite/) advancedly."
 
 ## Phrases
-- "[Advanced](/en/post/advanced/) techniques" refers [to](/en/post/to/) [sophisticated](/en/post/sophisticated/) [or](/en/post/or/) cutting-edge methods.
-- "[Advanced](/en/post/advanced/) [level](/en/post/level/)" signifies [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/) [of](/en/post/of/) proficiency [or](/en/post/or/) complexity.
-- "[Advanced](/en/post/advanced/) [course](/en/post/course/)" is [one](/en/post/one/) [that](/en/post/that/) covers [complex](/en/post/complex/) [or](/en/post/or/) specialized [material](/en/post/material/).
+- "[Advanced](/post/advanced/) techniques" refers [to](/post/to/) [sophisticated](/post/sophisticated/) [or](/post/or/) cutting-edge methods.
+- "[Advanced](/post/advanced/) [level](/post/level/)" signifies [a](/post/a/) [high](/post/high/) [degree](/post/degree/) [of](/post/of/) proficiency [or](/post/or/) complexity.
+- "[Advanced](/post/advanced/) [course](/post/course/)" is [one](/post/one/) [that](/post/that/) covers [complex](/post/complex/) [or](/post/or/) specialized [material](/post/material/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [student](/en/post/student/) demonstrated [advanced](/en/post/advanced/) [understanding](/en/post/understanding/) [of](/en/post/of/) quantum [physics](/en/post/physics/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) took [the](/en/post/the/) [training](/en/post/training/) [program](/en/post/program/) [to](/en/post/to/) an [advanced](/en/post/advanced/) [level](/en/post/level/) [within](/en/post/within/) [a](/en/post/a/) [short](/en/post/short/) [time](/en/post/time/)."
-- "[The](/en/post/the/) [project](/en/post/project/) required [advanced](/en/post/advanced/) [mathematical](/en/post/mathematical/) concepts."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [student](/post/student/) demonstrated [advanced](/post/advanced/) [understanding](/post/understanding/) [of](/post/of/) quantum [physics](/post/physics/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) took [the](/post/the/) [training](/post/training/) [program](/post/program/) [to](/post/to/) an [advanced](/post/advanced/) [level](/post/level/) [within](/post/within/) [a](/post/a/) [short](/post/short/) [time](/post/time/)."
+- "[The](/post/the/) [project](/post/project/) required [advanced](/post/advanced/) [mathematical](/post/mathematical/) concepts."
 
 ## Synonyms
 - State-of-the-art
-- [Highly](/en/post/highly/) developed
-- [Sophisticated](/en/post/sophisticated/)
-- [Expert](/en/post/expert/)
-- [Advanced](/en/post/advanced/) [stage](/en/post/stage/)
-- [Progressive](/en/post/progressive/)
+- [Highly](/post/highly/) developed
+- [Sophisticated](/post/sophisticated/)
+- [Expert](/post/expert/)
+- [Advanced](/post/advanced/) [stage](/post/stage/)
+- [Progressive](/post/progressive/)
 - Innovative
 
 ## Antonyms
-- [Basic](/en/post/basic/)
-- [Elementary](/en/post/elementary/)
-- [Simple](/en/post/simple/)
-- [Primitive](/en/post/primitive/)
+- [Basic](/post/basic/)
+- [Elementary](/post/elementary/)
+- [Simple](/post/simple/)
+- [Primitive](/post/primitive/)
 - Unadvanced
 - Rookie
-- [Beginner](/en/post/beginner/)
+- [Beginner](/post/beginner/)

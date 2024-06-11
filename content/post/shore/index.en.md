@@ -7,39 +7,39 @@ description = '[∫ɔː] n.滨，岸'
 keywords = ['ai words', 'shore']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʃɔːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [strip](/en/post/strip/) [of](/en/post/of/) [land](/en/post/land/) [along](/en/post/along/) [the](/en/post/the/) [edge](/en/post/edge/) [of](/en/post/of/) [a](/en/post/a/) [sea](/en/post/sea/), [lake](/en/post/lake/), [or](/en/post/or/) [river](/en/post/river/), [especially](/en/post/especially/) [where](/en/post/where/) [it](/en/post/it/) meets [the](/en/post/the/) [water](/en/post/water/).
-- [The](/en/post/the/) [area](/en/post/area/) [near](/en/post/near/) [the](/en/post/the/) water's [edge](/en/post/edge/) [where](/en/post/where/) waves [break](/en/post/break/) [or](/en/post/or/) [where](/en/post/where/) boats [can](/en/post/can/) [be](/en/post/be/) landed.
-- [A](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) [boundary](/en/post/boundary/); [a](/en/post/a/) dividing [line](/en/post/line/).
+### [Noun](/post/noun/)
+- [A](/post/a/) [strip](/post/strip/) [of](/post/of/) [land](/post/land/) [along](/post/along/) [the](/post/the/) [edge](/post/edge/) [of](/post/of/) [a](/post/a/) [sea](/post/sea/), [lake](/post/lake/), [or](/post/or/) [river](/post/river/), [especially](/post/especially/) [where](/post/where/) [it](/post/it/) meets [the](/post/the/) [water](/post/water/).
+- [The](/post/the/) [area](/post/area/) [near](/post/near/) [the](/post/the/) water's [edge](/post/edge/) [where](/post/where/) waves [break](/post/break/) [or](/post/or/) [where](/post/where/) boats [can](/post/can/) [be](/post/be/) landed.
+- [A](/post/a/) [line](/post/line/) [or](/post/or/) [boundary](/post/boundary/); [a](/post/a/) dividing [line](/post/line/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [reach](/en/post/reach/) [or](/en/post/or/) [approach](/en/post/approach/) [the](/en/post/the/) [shore](/en/post/shore/); [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [edge](/en/post/edge/) [of](/en/post/of/) [the](/en/post/the/) [water](/en/post/water/).
-- [To](/en/post/to/) [border](/en/post/border/) [or](/en/post/or/) encircle ([a](/en/post/a/) [body](/en/post/body/) [of](/en/post/of/) [water](/en/post/water/)).
-- [To](/en/post/to/) [come](/en/post/come/) [close](/en/post/close/) [to](/en/post/to/) realizing [or](/en/post/or/) achieving [something](/en/post/something/); [get](/en/post/get/) [near](/en/post/near/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [reach](/post/reach/) [or](/post/or/) [approach](/post/approach/) [the](/post/the/) [shore](/post/shore/); [go](/post/go/) [to](/post/to/) [the](/post/the/) [edge](/post/edge/) [of](/post/of/) [the](/post/the/) [water](/post/water/).
+- [To](/post/to/) [border](/post/border/) [or](/post/or/) encircle ([a](/post/a/) [body](/post/body/) [of](/post/of/) [water](/post/water/)).
+- [To](/post/to/) [come](/post/come/) [close](/post/close/) [to](/post/to/) realizing [or](/post/or/) achieving [something](/post/something/); [get](/post/get/) [near](/post/near/).
 
-### [Adjective](/en/post/adjective/)
-- Relating [to](/en/post/to/) [or](/en/post/or/) situated [on](/en/post/on/) [the](/en/post/the/) [shore](/en/post/shore/).
-- Bordering [a](/en/post/a/) [body](/en/post/body/) [of](/en/post/of/) [water](/en/post/water/).
+### [Adjective](/post/adjective/)
+- Relating [to](/post/to/) [or](/post/or/) situated [on](/post/on/) [the](/post/the/) [shore](/post/shore/).
+- Bordering [a](/post/a/) [body](/post/body/) [of](/post/of/) [water](/post/water/).
 
 ## Phrases
-- "[Come](/en/post/come/) [down](/en/post/down/) [to](/en/post/to/) [the](/en/post/the/) [shore](/en/post/shore/)" [for](/en/post/for/) going [to](/en/post/to/) [the](/en/post/the/) [beach](/en/post/beach/) [or](/en/post/or/) waterfront.
-- "[The](/en/post/the/) shorebirds [feed](/en/post/feed/) [along](/en/post/along/) [the](/en/post/the/) [shore](/en/post/shore/)" [to](/en/post/to/) [describe](/en/post/describe/) birds [that](/en/post/that/) [live](/en/post/live/) [near](/en/post/near/) [the](/en/post/the/) [water](/en/post/water/).
-- "[The](/en/post/the/) [shore](/en/post/shore/) has [a](/en/post/a/) [beautiful](/en/post/beautiful/) [view](/en/post/view/)" [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) scenic coastal [location](/en/post/location/).
+- "[Come](/post/come/) [down](/post/down/) [to](/post/to/) [the](/post/the/) [shore](/post/shore/)" [for](/post/for/) going [to](/post/to/) [the](/post/the/) [beach](/post/beach/) [or](/post/or/) waterfront.
+- "[The](/post/the/) shorebirds [feed](/post/feed/) [along](/post/along/) [the](/post/the/) [shore](/post/shore/)" [to](/post/to/) [describe](/post/describe/) birds [that](/post/that/) [live](/post/live/) [near](/post/near/) [the](/post/the/) [water](/post/water/).
+- "[The](/post/the/) [shore](/post/shore/) has [a](/post/a/) [beautiful](/post/beautiful/) [view](/post/view/)" [to](/post/to/) [describe](/post/describe/) [a](/post/a/) scenic coastal [location](/post/location/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) spent [the](/en/post/the/) [day](/en/post/day/) walking [along](/en/post/along/) [the](/en/post/the/) [sandy](/en/post/sandy/) [shore](/en/post/shore/) [of](/en/post/of/) [the](/en/post/the/) [ocean](/en/post/ocean/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) fishermen anchored [their](/en/post/their/) [boat](/en/post/boat/) [just](/en/post/just/) [off](/en/post/off/) [the](/en/post/the/) [shore](/en/post/shore/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [shore](/en/post/shore/) houses were built [with](/en/post/with/) sturdy materials [to](/en/post/to/) [withstand](/en/post/withstand/) [the](/en/post/the/) [harsh](/en/post/harsh/) coastal [weather](/en/post/weather/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) spent [the](/post/the/) [day](/post/day/) walking [along](/post/along/) [the](/post/the/) [sandy](/post/sandy/) [shore](/post/shore/) [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) fishermen anchored [their](/post/their/) [boat](/post/boat/) [just](/post/just/) [off](/post/off/) [the](/post/the/) [shore](/post/shore/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [shore](/post/shore/) houses were built [with](/post/with/) sturdy materials [to](/post/to/) [withstand](/post/withstand/) [the](/post/the/) [harsh](/post/harsh/) coastal [weather](/post/weather/)."
 
 ## Synonyms
 - Coastline
 - Seashore
-- [Beach](/en/post/beach/)
+- [Beach](/post/beach/)
 -滨（bīn）
-- [Edge](/en/post/edge/)
+- [Edge](/post/edge/)
 - Periphery
-- [Margin](/en/post/margin/)
+- [Margin](/post/margin/)

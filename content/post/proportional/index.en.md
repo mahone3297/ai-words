@@ -7,28 +7,28 @@ description = '[prəˈpɔː∫ənl] a.比例/相称的'
 keywords = ['ai words', 'proportional']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈpɔːrʃənl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [the](/en/post/the/) [same](/en/post/same/) [ratio](/en/post/ratio/) [or](/en/post/or/) [comparative](/en/post/comparative/) [size](/en/post/size/) [or](/en/post/or/) [amount](/en/post/amount/) [as](/en/post/as/) [something](/en/post/something/) [else](/en/post/else/); [corresponding](/en/post/corresponding/) [in](/en/post/in/) [proportion](/en/post/proportion/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [size](/en/post/size/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/) is [proportional](/en/post/proportional/) [to](/en/post/to/) [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) [people](/en/post/people/) [living](/en/post/living/) [in](/en/post/in/) [it](/en/post/it/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [proportional](/en/post/proportional/) [manner](/en/post/manner/); according [to](/en/post/to/) [the](/en/post/the/) [ratio](/en/post/ratio/) [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) salaries are paid proportionally [to](/en/post/to/) [their](/en/post/their/) [experience](/en/post/experience/)."
+- **[Adjective](/post/adjective/)**: Having [the](/post/the/) [same](/post/same/) [ratio](/post/ratio/) [or](/post/or/) [comparative](/post/comparative/) [size](/post/size/) [or](/post/or/) [amount](/post/amount/) [as](/post/as/) [something](/post/something/) [else](/post/else/); [corresponding](/post/corresponding/) [in](/post/in/) [proportion](/post/proportion/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [size](/post/size/) [of](/post/of/) [the](/post/the/) [house](/post/house/) is [proportional](/post/proportional/) [to](/post/to/) [the](/post/the/) [number](/post/number/) [of](/post/of/) [people](/post/people/) [living](/post/living/) [in](/post/in/) [it](/post/it/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [proportional](/post/proportional/) [manner](/post/manner/); according [to](/post/to/) [the](/post/the/) [ratio](/post/ratio/) [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[Their](/post/their/) salaries are paid proportionally [to](/post/to/) [their](/post/their/) [experience](/post/experience/)."
 
 ## Phrases
-- "[Proportional](/en/post/proportional/) representation" refers [to](/en/post/to/) [a](/en/post/a/) [system](/en/post/system/) [where](/en/post/where/) [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) representatives [in](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/) reflects [the](/en/post/the/) [distribution](/en/post/distribution/) [of](/en/post/of/) [support](/en/post/support/) [for](/en/post/for/) [different](/en/post/different/) parties [or](/en/post/or/) groups.
-- "[Keep](/en/post/keep/) [a](/en/post/a/) [proportional](/en/post/proportional/) [balance](/en/post/balance/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [fair](/en/post/fair/) [and](/en/post/and/) [even](/en/post/even/) [distribution](/en/post/distribution/) [of](/en/post/of/) resources [or](/en/post/or/) quantities.
-- "[Proportional](/en/post/proportional/) [growth](/en/post/growth/)" describes [a](/en/post/a/) [steady](/en/post/steady/) [increase](/en/post/increase/) [in](/en/post/in/) [relation](/en/post/relation/) [to](/en/post/to/) [a](/en/post/a/) [base](/en/post/base/) [or](/en/post/or/) [initial](/en/post/initial/) [value](/en/post/value/).
+- "[Proportional](/post/proportional/) representation" refers [to](/post/to/) [a](/post/a/) [system](/post/system/) [where](/post/where/) [the](/post/the/) [number](/post/number/) [of](/post/of/) representatives [in](/post/in/) [a](/post/a/) [group](/post/group/) reflects [the](/post/the/) [distribution](/post/distribution/) [of](/post/of/) [support](/post/support/) [for](/post/for/) [different](/post/different/) parties [or](/post/or/) groups.
+- "[Keep](/post/keep/) [a](/post/a/) [proportional](/post/proportional/) [balance](/post/balance/)" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [fair](/post/fair/) [and](/post/and/) [even](/post/even/) [distribution](/post/distribution/) [of](/post/of/) resources [or](/post/or/) quantities.
+- "[Proportional](/post/proportional/) [growth](/post/growth/)" describes [a](/post/a/) [steady](/post/steady/) [increase](/post/increase/) [in](/post/in/) [relation](/post/relation/) [to](/post/to/) [a](/post/a/) [base](/post/base/) [or](/post/or/) [initial](/post/initial/) [value](/post/value/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) expenses were distributed proportionally [among](/en/post/among/) [the](/en/post/the/) [team](/en/post/team/) members."
-- **[Adverb](/en/post/adverb/)**: "[Their](/en/post/their/) [investment](/en/post/investment/) returns [have](/en/post/have/) grown proportionally [over](/en/post/over/) [the](/en/post/the/) years."
-- "[The](/en/post/the/) budget allocation was made proportionally based [on](/en/post/on/) [each](/en/post/each/) department's needs."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) expenses were distributed proportionally [among](/post/among/) [the](/post/the/) [team](/post/team/) members."
+- **[Adverb](/post/adverb/)**: "[Their](/post/their/) [investment](/post/investment/) returns [have](/post/have/) grown proportionally [over](/post/over/) [the](/post/the/) years."
+- "[The](/post/the/) budget allocation was made proportionally based [on](/post/on/) [each](/post/each/) department's needs."
 
 ## Synonyms
-- [Relative](/en/post/relative/)
-- [Comparative](/en/post/comparative/)
-- [Proportional](/en/post/proportional/) [to](/en/post/to/)
-- [In](/en/post/in/) keeping [with](/en/post/with/) [ratio](/en/post/ratio/)
+- [Relative](/post/relative/)
+- [Comparative](/post/comparative/)
+- [Proportional](/post/proportional/) [to](/post/to/)
+- [In](/post/in/) keeping [with](/post/with/) [ratio](/post/ratio/)
 - Harmonious
 
 ## Antonyms

@@ -7,35 +7,35 @@ description = '[melt] vi.融化 vt.使融化'
 keywords = ['ai words', 'melt']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[melt](/en/post/melt/)/
+## [Pronunciation](/post/pronunciation/)
+/[melt](/post/melt/)/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [change](/en/post/change/) [from](/en/post/from/) [a](/en/post/a/) [solid](/en/post/solid/) [to](/en/post/to/) [a](/en/post/a/) [liquid](/en/post/liquid/) [by](/en/post/by/) [heating](/en/post/heating/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [ice](/en/post/ice/) melted [in](/en/post/in/) [the](/en/post/the/) [sun](/en/post/sun/)."
-  - **Intransitive**: [When](/en/post/when/) [something](/en/post/something/) melts [on](/en/post/on/) [its](/en/post/its/) [own](/en/post/own/). [Example](/en/post/example/): "[The](/en/post/the/) [snow](/en/post/snow/) began [to](/en/post/to/) [melt](/en/post/melt/)."
-  - **Transitive**: [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [become](/en/post/become/) [liquid](/en/post/liquid/) [through](/en/post/through/) [heat](/en/post/heat/). [Example](/en/post/example/): "[She](/en/post/she/) melted [the](/en/post/the/) [chocolate](/en/post/chocolate/) [over](/en/post/over/) [low](/en/post/low/) [heat](/en/post/heat/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [change](/post/change/) [from](/post/from/) [a](/post/a/) [solid](/post/solid/) [to](/post/to/) [a](/post/a/) [liquid](/post/liquid/) [by](/post/by/) [heating](/post/heating/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [ice](/post/ice/) melted [in](/post/in/) [the](/post/the/) [sun](/post/sun/)."
+  - **Intransitive**: [When](/post/when/) [something](/post/something/) melts [on](/post/on/) [its](/post/its/) [own](/post/own/). [Example](/post/example/): "[The](/post/the/) [snow](/post/snow/) began [to](/post/to/) [melt](/post/melt/)."
+  - **Transitive**: [To](/post/to/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [become](/post/become/) [liquid](/post/liquid/) [through](/post/through/) [heat](/post/heat/). [Example](/post/example/): "[She](/post/she/) melted [the](/post/the/) [chocolate](/post/chocolate/) [over](/post/over/) [low](/post/low/) [heat](/post/heat/)."
   
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) changing [from](/en/post/from/) [a](/en/post/a/) [solid](/en/post/solid/) [to](/en/post/to/) [a](/en/post/a/) [liquid](/en/post/liquid/) [state](/en/post/state/); [also](/en/post/also/), [the](/en/post/the/) resulting [liquid](/en/post/liquid/) [substance](/en/post/substance/). [Example](/en/post/example/): "[The](/en/post/the/) [water](/en/post/water/) was [the](/en/post/the/) [product](/en/post/product/) [of](/en/post/of/) [the](/en/post/the/) ice's [melt](/en/post/melt/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [process](/post/process/) [of](/post/of/) changing [from](/post/from/) [a](/post/a/) [solid](/post/solid/) [to](/post/to/) [a](/post/a/) [liquid](/post/liquid/) [state](/post/state/); [also](/post/also/), [the](/post/the/) resulting [liquid](/post/liquid/) [substance](/post/substance/). [Example](/post/example/): "[The](/post/the/) [water](/post/water/) was [the](/post/the/) [product](/post/product/) [of](/post/of/) [the](/post/the/) ice's [melt](/post/melt/)."
 
 ## Phrases
-- "[Melt](/en/post/melt/) [down](/en/post/down/)": [To](/en/post/to/) [reduce](/en/post/reduce/) [something](/en/post/something/) [to](/en/post/to/) [liquid](/en/post/liquid/) [form](/en/post/form/), [often](/en/post/often/) referring [to](/en/post/to/) metals [or](/en/post/or/) [nuclear](/en/post/nuclear/) [fuel](/en/post/fuel/) rods, [but](/en/post/but/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) losing [emotional](/en/post/emotional/) [control](/en/post/control/). [Example](/en/post/example/): "[The](/en/post/the/) reactor had [a](/en/post/a/) meltdown."
-- "[Melt](/en/post/melt/) [away](/en/post/away/)": [To](/en/post/to/) [disappear](/en/post/disappear/) [gradually](/en/post/gradually/) [or](/en/post/or/) [vanish](/en/post/vanish/). [Example](/en/post/example/): "[Her](/en/post/her/) worries melted [away](/en/post/away/) [after](/en/post/after/) [a](/en/post/a/) relaxing [vacation](/en/post/vacation/)."
-- "[Melt](/en/post/melt/) one's [heart](/en/post/heart/)": [To](/en/post/to/) evoke [strong](/en/post/strong/) feelings [of](/en/post/of/) [affection](/en/post/affection/) [or](/en/post/or/) [sympathy](/en/post/sympathy/). [Example](/en/post/example/): "[His](/en/post/his/) [kind](/en/post/kind/) [gesture](/en/post/gesture/) [just](/en/post/just/) melted [my](/en/post/my/) [heart](/en/post/heart/)."
+- "[Melt](/post/melt/) [down](/post/down/)": [To](/post/to/) [reduce](/post/reduce/) [something](/post/something/) [to](/post/to/) [liquid](/post/liquid/) [form](/post/form/), [often](/post/often/) referring [to](/post/to/) metals [or](/post/or/) [nuclear](/post/nuclear/) [fuel](/post/fuel/) rods, [but](/post/but/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [person](/post/person/) losing [emotional](/post/emotional/) [control](/post/control/). [Example](/post/example/): "[The](/post/the/) reactor had [a](/post/a/) meltdown."
+- "[Melt](/post/melt/) [away](/post/away/)": [To](/post/to/) [disappear](/post/disappear/) [gradually](/post/gradually/) [or](/post/or/) [vanish](/post/vanish/). [Example](/post/example/): "[Her](/post/her/) worries melted [away](/post/away/) [after](/post/after/) [a](/post/a/) relaxing [vacation](/post/vacation/)."
+- "[Melt](/post/melt/) one's [heart](/post/heart/)": [To](/post/to/) evoke [strong](/post/strong/) feelings [of](/post/of/) [affection](/post/affection/) [or](/post/or/) [sympathy](/post/sympathy/). [Example](/post/example/): "[His](/post/his/) [kind](/post/kind/) [gesture](/post/gesture/) [just](/post/just/) melted [my](/post/my/) [heart](/post/heart/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [candle](/en/post/candle/) [wax](/en/post/wax/) [slowly](/en/post/slowly/) melted [as](/en/post/as/) [we](/en/post/we/) lit [the](/en/post/the/) wick."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [river](/en/post/river/) levels [rose](/en/post/rose/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [spring](/en/post/spring/) thaw [and](/en/post/and/) [snow](/en/post/snow/) [melt](/en/post/melt/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [candle](/post/candle/) [wax](/post/wax/) [slowly](/post/slowly/) melted [as](/post/as/) [we](/post/we/) lit [the](/post/the/) wick."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [river](/post/river/) levels [rose](/post/rose/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [spring](/post/spring/) thaw [and](/post/and/) [snow](/post/snow/) [melt](/post/melt/)."
 
 ## Synonyms
-- [Dissolve](/en/post/dissolve/)
+- [Dissolve](/post/dissolve/)
 - Liquify
 - Thaw
 - Fuse
-- [Run](/en/post/run/)
+- [Run](/post/run/)
 - Soften
 -liquefy
 
 Antonyms:
-- [Freeze](/en/post/freeze/)
+- [Freeze](/post/freeze/)
 - Solidify
-- [Harden](/en/post/harden/)
+- [Harden](/post/harden/)

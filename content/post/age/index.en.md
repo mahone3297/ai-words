@@ -7,46 +7,46 @@ description = '[eidʒ] n.年龄；时代 vt.变老'
 keywords = ['ai words', 'age']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeɪdʒ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) developing [or](/en/post/or/) growing [from](/en/post/from/) [childhood](/en/post/childhood/) [to](/en/post/to/) adulthood; [the](/en/post/the/) [time](/en/post/time/) [during](/en/post/during/) [which](/en/post/which/) [one](/en/post/one/) becomes physically, mentally, [or](/en/post/or/) socially [mature](/en/post/mature/).
-   - "She's [in](/en/post/in/) [her](/en/post/her/) [golden](/en/post/golden/) [age](/en/post/age/), enjoying retirement."
-   - "[The](/en/post/the/) [age](/en/post/age/) [of](/en/post/of/) [consent](/en/post/consent/) varies [by](/en/post/by/) [country](/en/post/country/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [process](/post/process/) [of](/post/of/) developing [or](/post/or/) growing [from](/post/from/) [childhood](/post/childhood/) [to](/post/to/) adulthood; [the](/post/the/) [time](/post/time/) [during](/post/during/) [which](/post/which/) [one](/post/one/) becomes physically, mentally, [or](/post/or/) socially [mature](/post/mature/).
+   - "She's [in](/post/in/) [her](/post/her/) [golden](/post/golden/) [age](/post/age/), enjoying retirement."
+   - "[The](/post/the/) [age](/post/age/) [of](/post/of/) [consent](/post/consent/) varies [by](/post/by/) [country](/post/country/)."
 
-2. An individual's years, [especially](/en/post/especially/) [when](/en/post/when/) considered [in](/en/post/in/) terms [of](/en/post/of/) maturity [or](/en/post/or/) [experience](/en/post/experience/).
-   - "He's been [around](/en/post/around/) [for](/en/post/for/) [a](/en/post/a/) [few](/en/post/few/) decades, [so](/en/post/so/) [he](/en/post/he/) has [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [life](/en/post/life/) [experience](/en/post/experience/) [at](/en/post/at/) [his](/en/post/his/) [age](/en/post/age/)."
-   - "[The](/en/post/the/) [average](/en/post/average/) [age](/en/post/age/) [of](/en/post/of/) [the](/en/post/the/) participants was 30."
+2. An individual's years, [especially](/post/especially/) [when](/post/when/) considered [in](/post/in/) terms [of](/post/of/) maturity [or](/post/or/) [experience](/post/experience/).
+   - "He's been [around](/post/around/) [for](/post/for/) [a](/post/a/) [few](/post/few/) decades, [so](/post/so/) [he](/post/he/) has [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [life](/post/life/) [experience](/post/experience/) [at](/post/at/) [his](/post/his/) [age](/post/age/)."
+   - "[The](/post/the/) [average](/post/average/) [age](/post/age/) [of](/post/of/) [the](/post/the/) participants was 30."
 
-3. [A](/en/post/a/) [particular](/en/post/particular/) [stage](/en/post/stage/) [in](/en/post/in/) [history](/en/post/history/) [or](/en/post/or/) [development](/en/post/development/).
-   - "[The](/en/post/the/) [Middle](/en/post/middle/) Ages marked [a](/en/post/a/) [distinct](/en/post/distinct/) [age](/en/post/age/) [in](/en/post/in/) European [history](/en/post/history/)."
-   - "[The](/en/post/the/) Renaissance was [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [great](/en/post/great/) [artistic](/en/post/artistic/) [growth](/en/post/growth/)."
+3. [A](/post/a/) [particular](/post/particular/) [stage](/post/stage/) [in](/post/in/) [history](/post/history/) [or](/post/or/) [development](/post/development/).
+   - "[The](/post/the/) [Middle](/post/middle/) Ages marked [a](/post/a/) [distinct](/post/distinct/) [age](/post/age/) [in](/post/in/) European [history](/post/history/)."
+   - "[The](/post/the/) Renaissance was [a](/post/a/) [period](/post/period/) [of](/post/of/) [great](/post/great/) [artistic](/post/artistic/) [growth](/post/growth/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) years [that](/en/post/that/) [have](/en/post/have/) passed [since](/en/post/since/) [birth](/en/post/birth/) [or](/en/post/or/) [a](/en/post/a/) [specific](/en/post/specific/) [event](/en/post/event/).
-   - "[She](/en/post/she/) is [now](/en/post/now/) 50 years [old](/en/post/old/), having aged gracefully."
-   - "[The](/en/post/the/) [book](/en/post/book/) has aged [well](/en/post/well/) [over](/en/post/over/) [time](/en/post/time/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [number](/post/number/) [of](/post/of/) years [that](/post/that/) [have](/post/have/) passed [since](/post/since/) [birth](/post/birth/) [or](/post/or/) [a](/post/a/) [specific](/post/specific/) [event](/post/event/).
+   - "[She](/post/she/) is [now](/post/now/) 50 years [old](/post/old/), having aged gracefully."
+   - "[The](/post/the/) [book](/post/book/) has aged [well](/post/well/) [over](/post/over/) [time](/post/time/)."
 
-2. [To](/en/post/to/) [become](/en/post/become/) older [or](/en/post/or/) [more](/en/post/more/) [mature](/en/post/mature/) [in](/en/post/in/) [appearance](/en/post/appearance/) [or](/en/post/or/) [character](/en/post/character/).
-   - "[The](/en/post/the/) trees [have](/en/post/have/) aged [with](/en/post/with/) [the](/en/post/the/) passing [of](/en/post/of/) [the](/en/post/the/) seasons."
+2. [To](/post/to/) [become](/post/become/) older [or](/post/or/) [more](/post/more/) [mature](/post/mature/) [in](/post/in/) [appearance](/post/appearance/) [or](/post/or/) [character](/post/character/).
+   - "[The](/post/the/) trees [have](/post/have/) aged [with](/post/with/) [the](/post/the/) passing [of](/post/of/) [the](/post/the/) seasons."
 
 ## Phrases
-- "[At](/en/post/at/) [what](/en/post/what/) [age](/en/post/age/) did [you](/en/post/you/) [start](/en/post/start/) playing [the](/en/post/the/) [piano](/en/post/piano/)?"
-- "[Age](/en/post/age/) [before](/en/post/before/) [beauty](/en/post/beauty/)" is [a](/en/post/a/) saying suggesting [wisdom](/en/post/wisdom/) [and](/en/post/and/) [experience](/en/post/experience/) are [more](/en/post/more/) [important](/en/post/important/) [than](/en/post/than/) [physical](/en/post/physical/) [appearance](/en/post/appearance/).
-- "[Age](/en/post/age/) is [just](/en/post/just/) [a](/en/post/a/) [number](/en/post/number/)" implies [that](/en/post/that/) [a](/en/post/a/) person's [worth](/en/post/worth/) isn't determined [solely](/en/post/solely/) [by](/en/post/by/) [their](/en/post/their/) [age](/en/post/age/).
+- "[At](/post/at/) [what](/post/what/) [age](/post/age/) did [you](/post/you/) [start](/post/start/) playing [the](/post/the/) [piano](/post/piano/)?"
+- "[Age](/post/age/) [before](/post/before/) [beauty](/post/beauty/)" is [a](/post/a/) saying suggesting [wisdom](/post/wisdom/) [and](/post/and/) [experience](/post/experience/) are [more](/post/more/) [important](/post/important/) [than](/post/than/) [physical](/post/physical/) [appearance](/post/appearance/).
+- "[Age](/post/age/) is [just](/post/just/) [a](/post/a/) [number](/post/number/)" implies [that](/post/that/) [a](/post/a/) person's [worth](/post/worth/) isn't determined [solely](/post/solely/) [by](/post/by/) [their](/post/their/) [age](/post/age/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) baby's [first](/en/post/first/) steps marked [a](/en/post/a/) [significant](/en/post/significant/) milestone [in](/en/post/in/) [their](/en/post/their/) [age](/en/post/age/) [development](/en/post/development/)."
-- **[Verb](/en/post/verb/)**: "[As](/en/post/as/) [the](/en/post/the/) years [age](/en/post/age/), [she](/en/post/she/) became [more](/en/post/more/) [confident](/en/post/confident/) [in](/en/post/in/) [her](/en/post/her/) abilities."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [age](/en/post/age/) showed [in](/en/post/in/) [the](/en/post/the/) lines [on](/en/post/on/) [her](/en/post/her/) [face](/en/post/face/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) baby's [first](/post/first/) steps marked [a](/post/a/) [significant](/post/significant/) milestone [in](/post/in/) [their](/post/their/) [age](/post/age/) [development](/post/development/)."
+- **[Verb](/post/verb/)**: "[As](/post/as/) [the](/post/the/) years [age](/post/age/), [she](/post/she/) became [more](/post/more/) [confident](/post/confident/) [in](/post/in/) [her](/post/her/) abilities."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [age](/post/age/) showed [in](/post/in/) [the](/post/the/) lines [on](/post/on/) [her](/post/her/) [face](/post/face/)."
 
 ## Synonyms
 - Years
-- Years [old](/en/post/old/)
-- Years [of](/en/post/of/) [experience](/en/post/experience/)
+- Years [old](/post/old/)
+- Years [of](/post/of/) [experience](/post/experience/)
 - Epoch
-- [Era](/en/post/era/)
-- [Stage](/en/post/stage/)
-- Vintage ([when](/en/post/when/) referring [to](/en/post/to/) something's [age](/en/post/age/))
+- [Era](/post/era/)
+- [Stage](/post/stage/)
+- Vintage ([when](/post/when/) referring [to](/post/to/) something's [age](/post/age/))

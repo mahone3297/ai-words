@@ -7,46 +7,46 @@ description = '[ˈbɑːskitbɔːl] n.篮球；篮球运动'
 keywords = ['ai words', 'basketball']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bæsbɔːl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**篮球**: [A](/en/post/a/) [large](/en/post/large/), [round](/en/post/round/), inflated [ball](/en/post/ball/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) [sport](/en/post/sport/) [of](/en/post/of/) [basketball](/en/post/basketball/), typically played [by](/en/post/by/) [two](/en/post/two/) teams [of](/en/post/of/) [five](/en/post/five/) players [each](/en/post/each/) [on](/en/post/on/) [a](/en/post/a/) [court](/en/post/court/) [with](/en/post/with/) [the](/en/post/the/) [aim](/en/post/aim/) [of](/en/post/of/) scoring points [by](/en/post/by/) shooting [the](/en/post/the/) [ball](/en/post/ball/) [through](/en/post/through/) [a](/en/post/a/) hoop.
+### [Noun](/post/noun/)
+**篮球**: [A](/post/a/) [large](/post/large/), [round](/post/round/), inflated [ball](/post/ball/) [used](/post/used/) [in](/post/in/) [the](/post/the/) [sport](/post/sport/) [of](/post/of/) [basketball](/post/basketball/), typically played [by](/post/by/) [two](/post/two/) teams [of](/post/of/) [five](/post/five/) players [each](/post/each/) [on](/post/on/) [a](/post/a/) [court](/post/court/) [with](/post/with/) [the](/post/the/) [aim](/post/aim/) [of](/post/of/) scoring points [by](/post/by/) shooting [the](/post/the/) [ball](/post/ball/) [through](/post/through/) [a](/post/a/) hoop.
 
-### [Verb](/en/post/verb/)
-**[play](/en/post/play/) [basketball](/en/post/basketball/)**: [To](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [the](/en/post/the/) [game](/en/post/game/) [of](/en/post/of/) [basketball](/en/post/basketball/), [either](/en/post/either/) professionally [or](/en/post/or/) recreationally.
+### [Verb](/post/verb/)
+**[play](/post/play/) [basketball](/post/basketball/)**: [To](/post/to/) [participate](/post/participate/) [in](/post/in/) [the](/post/the/) [game](/post/game/) [of](/post/of/) [basketball](/post/basketball/), [either](/post/either/) professionally [or](/post/or/) recreationally.
 
-**[watch](/en/post/watch/) [basketball](/en/post/basketball/)**: [To](/en/post/to/) [observe](/en/post/observe/) [and](/en/post/and/) [follow](/en/post/follow/) [the](/en/post/the/) [progress](/en/post/progress/) [of](/en/post/of/) [a](/en/post/a/) [basketball](/en/post/basketball/) [game](/en/post/game/).
+**[watch](/post/watch/) [basketball](/post/basketball/)**: [To](/post/to/) [observe](/post/observe/) [and](/post/and/) [follow](/post/follow/) [the](/post/the/) [progress](/post/progress/) [of](/post/of/) [a](/post/a/) [basketball](/post/basketball/) [game](/post/game/).
 
-**[play](/en/post/play/) [basketball](/en/post/basketball/) competitively**: [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) organized [basketball](/en/post/basketball/) matches, [often](/en/post/often/) [at](/en/post/at/) [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/).
+**[play](/post/play/) [basketball](/post/basketball/) competitively**: [To](/post/to/) [engage](/post/engage/) [in](/post/in/) organized [basketball](/post/basketball/) matches, [often](/post/often/) [at](/post/at/) [a](/post/a/) [high](/post/high/) [level](/post/level/).
 
-**[attend](/en/post/attend/) [a](/en/post/a/) [basketball](/en/post/basketball/) [game](/en/post/game/)**: [To](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [a](/en/post/a/) venue [to](/en/post/to/) [watch](/en/post/watch/) [a](/en/post/a/) [live](/en/post/live/) [basketball](/en/post/basketball/) [match](/en/post/match/).
+**[attend](/post/attend/) [a](/post/a/) [basketball](/post/basketball/) [game](/post/game/)**: [To](/post/to/) [go](/post/go/) [to](/post/to/) [a](/post/a/) venue [to](/post/to/) [watch](/post/watch/) [a](/post/a/) [live](/post/live/) [basketball](/post/basketball/) [match](/post/match/).
 
-**[be](/en/post/be/) [a](/en/post/a/) [basketball](/en/post/basketball/) [fan](/en/post/fan/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [interest](/en/post/interest/) [and](/en/post/and/) enjoyment [in](/en/post/in/) [the](/en/post/the/) [sport](/en/post/sport/) [of](/en/post/of/) [basketball](/en/post/basketball/).
+**[be](/post/be/) [a](/post/a/) [basketball](/post/basketball/) [fan](/post/fan/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) [interest](/post/interest/) [and](/post/and/) enjoyment [in](/post/in/) [the](/post/the/) [sport](/post/sport/) [of](/post/of/) [basketball](/post/basketball/).
 
 ## Phrases
-- "[Shoot](/en/post/shoot/) [a](/en/post/a/) [basketball](/en/post/basketball/)"
-- "Dribble [the](/en/post/the/) [basketball](/en/post/basketball/)"
-- "[Basketball](/en/post/basketball/) skills"
-- "[Basketball](/en/post/basketball/) teamwork"
-- "Three-point [shot](/en/post/shot/)"
+- "[Shoot](/post/shoot/) [a](/post/a/) [basketball](/post/basketball/)"
+- "Dribble [the](/post/the/) [basketball](/post/basketball/)"
+- "[Basketball](/post/basketball/) skills"
+- "[Basketball](/post/basketball/) teamwork"
+- "Three-point [shot](/post/shot/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Basketball](/en/post/basketball/) is [a](/en/post/a/) [popular](/en/post/popular/) [sport](/en/post/sport/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) spends [every](/en/post/every/) Saturday playing [basketball](/en/post/basketball/) [with](/en/post/with/) [his](/en/post/his/) friends."
-- **[Observation](/en/post/observation/)**: "[The](/en/post/the/) [crowd](/en/post/crowd/) was mesmerized [as](/en/post/as/) [they](/en/post/they/) watched [the](/en/post/the/) [basketball](/en/post/basketball/) players [perform](/en/post/perform/) acrobatic moves."
-- **[Fan](/en/post/fan/)**: "She's been [a](/en/post/a/) [basketball](/en/post/basketball/) [fan](/en/post/fan/) [since](/en/post/since/) [she](/en/post/she/) was [a](/en/post/a/) [child](/en/post/child/), attending games [regularly](/en/post/regularly/)."
-- **[Strategy](/en/post/strategy/)**: "[Their](/en/post/their/) team's [success](/en/post/success/) relies [on](/en/post/on/) [their](/en/post/their/) [excellent](/en/post/excellent/) [basketball](/en/post/basketball/) [strategy](/en/post/strategy/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Basketball](/post/basketball/) is [a](/post/a/) [popular](/post/popular/) [sport](/post/sport/) [around](/post/around/) [the](/post/the/) [world](/post/world/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) spends [every](/post/every/) Saturday playing [basketball](/post/basketball/) [with](/post/with/) [his](/post/his/) friends."
+- **[Observation](/post/observation/)**: "[The](/post/the/) [crowd](/post/crowd/) was mesmerized [as](/post/as/) [they](/post/they/) watched [the](/post/the/) [basketball](/post/basketball/) players [perform](/post/perform/) acrobatic moves."
+- **[Fan](/post/fan/)**: "She's been [a](/post/a/) [basketball](/post/basketball/) [fan](/post/fan/) [since](/post/since/) [she](/post/she/) was [a](/post/a/) [child](/post/child/), attending games [regularly](/post/regularly/)."
+- **[Strategy](/post/strategy/)**: "[Their](/post/their/) team's [success](/post/success/) relies [on](/post/on/) [their](/post/their/) [excellent](/post/excellent/) [basketball](/post/basketball/) [strategy](/post/strategy/)."
 
 ## Synonyms
 - Hoops
 - Ballgame
-- [Court](/en/post/court/) [sport](/en/post/sport/)
+- [Court](/post/court/) [sport](/post/sport/)
 - B-Ball
 - Roundball
 
 ## Antonyms
-- [Volleyball](/en/post/volleyball/)
-- [Soccer](/en/post/soccer/)
-- [Chess](/en/post/chess/) ([a](/en/post/a/) [different](/en/post/different/) [type](/en/post/type/) [of](/en/post/of/) [ball](/en/post/ball/) [game](/en/post/game/))
+- [Volleyball](/post/volleyball/)
+- [Soccer](/post/soccer/)
+- [Chess](/post/chess/) ([a](/post/a/) [different](/post/different/) [type](/post/type/) [of](/post/of/) [ball](/post/ball/) [game](/post/game/))

@@ -7,23 +7,23 @@ description = '[ˈplezənt] a.令人愉快的，舒适的'
 keywords = ['ai words', 'pleasant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pleɪsnt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) producing [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) enjoyment, [satisfaction](/en/post/satisfaction/), [or](/en/post/or/) contentment. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) was pleasantly [warm](/en/post/warm/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [pleasant](/en/post/pleasant/) [manner](/en/post/manner/); agreeably. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke [to](/en/post/to/) [us](/en/post/us/) pleasantly."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) pleasing [or](/en/post/or/) agreeable [quality](/en/post/quality/) [or](/en/post/or/) [experience](/en/post/experience/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) had [a](/en/post/a/) [pleasant](/en/post/pleasant/) aroma."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) producing [a](/post/a/) [sense](/post/sense/) [of](/post/of/) enjoyment, [satisfaction](/post/satisfaction/), [or](/post/or/) contentment. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) was pleasantly [warm](/post/warm/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [pleasant](/post/pleasant/) [manner](/post/manner/); agreeably. [For](/post/for/) [example](/post/example/): "[She](/post/she/) spoke [to](/post/to/) [us](/post/us/) pleasantly."
+- **[Noun](/post/noun/)**: [A](/post/a/) pleasing [or](/post/or/) agreeable [quality](/post/quality/) [or](/post/or/) [experience](/post/experience/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [garden](/post/garden/) had [a](/post/a/) [pleasant](/post/pleasant/) aroma."
 
 ## Phrases
-- "[A](/en/post/a/) [pleasant](/en/post/pleasant/) [surprise](/en/post/surprise/)" indicates an enjoyable [unexpected](/en/post/unexpected/) [event](/en/post/event/).
-- "[Pleasant](/en/post/pleasant/) [company](/en/post/company/)" refers [to](/en/post/to/) enjoyable [or](/en/post/or/) delightful companionship.
-- "[Have](/en/post/have/) [a](/en/post/a/) [pleasant](/en/post/pleasant/) [day](/en/post/day/)" is [a](/en/post/a/) [common](/en/post/common/) [expression](/en/post/expression/) wishing [someone](/en/post/someone/) [a](/en/post/a/) [good](/en/post/good/) [day](/en/post/day/).
+- "[A](/post/a/) [pleasant](/post/pleasant/) [surprise](/post/surprise/)" indicates an enjoyable [unexpected](/post/unexpected/) [event](/post/event/).
+- "[Pleasant](/post/pleasant/) [company](/post/company/)" refers [to](/post/to/) enjoyable [or](/post/or/) delightful companionship.
+- "[Have](/post/have/) [a](/post/a/) [pleasant](/post/pleasant/) [day](/post/day/)" is [a](/post/a/) [common](/post/common/) [expression](/post/expression/) wishing [someone](/post/someone/) [a](/post/a/) [good](/post/good/) [day](/post/day/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) balcony was delightfully [pleasant](/en/post/pleasant/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) greeted [the](/en/post/the/) guests [with](/en/post/with/) [a](/en/post/a/) [pleasant](/en/post/pleasant/) [smile](/en/post/smile/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [park](/en/post/park/) offered [a](/en/post/a/) [peaceful](/en/post/peaceful/) [and](/en/post/and/) [pleasant](/en/post/pleasant/) [retreat](/en/post/retreat/) [from](/en/post/from/) [the](/en/post/the/) [city](/en/post/city/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) balcony was delightfully [pleasant](/post/pleasant/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) greeted [the](/post/the/) guests [with](/post/with/) [a](/post/a/) [pleasant](/post/pleasant/) [smile](/post/smile/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [park](/post/park/) offered [a](/post/a/) [peaceful](/post/peaceful/) [and](/post/and/) [pleasant](/post/pleasant/) [retreat](/post/retreat/) [from](/post/from/) [the](/post/the/) [city](/post/city/)."
 
 ## Synonyms
 - Enjoyable
@@ -33,8 +33,8 @@ keywords = ['ai words', 'pleasant']
 - Amusing
 
 ## Antonyms
-- [Unpleasant](/en/post/unpleasant/)
+- [Unpleasant](/post/unpleasant/)
 - Disagreeable
 - Dismal
-- [Uncomfortable](/en/post/uncomfortable/)
+- [Uncomfortable](/post/uncomfortable/)
 - Boring

@@ -7,33 +7,33 @@ description = '[ˈdʒest∫ə] n.姿势，手势；姿态'
 keywords = ['ai words', 'gesture']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒestʃər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [movement](/en/post/movement/) [or](/en/post/or/) [position](/en/post/position/) [of](/en/post/of/) [the](/en/post/the/) [body](/en/post/body/), [especially](/en/post/especially/) [of](/en/post/of/) [the](/en/post/the/) hands [or](/en/post/or/) [face](/en/post/face/), [to](/en/post/to/) [express](/en/post/express/) an [idea](/en/post/idea/), [emotion](/en/post/emotion/), [or](/en/post/or/) [intention](/en/post/intention/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) made [a](/en/post/a/) dismissive [gesture](/en/post/gesture/) [with](/en/post/with/) [his](/en/post/his/) [hand](/en/post/hand/)."
-  - *[As](/en/post/as/) [a](/en/post/a/) figurative [use](/en/post/use/)*, [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) an [action](/en/post/action/) intended [to](/en/post/to/) [convey](/en/post/convey/) [a](/en/post/a/) [message](/en/post/message/) [or](/en/post/or/) [meaning](/en/post/meaning/) [beyond](/en/post/beyond/) [the](/en/post/the/) literal [act](/en/post/act/) [itself](/en/post/itself/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [resignation](/en/post/resignation/) was seen [as](/en/post/as/) [a](/en/post/a/) [protest](/en/post/protest/) [gesture](/en/post/gesture/) [against](/en/post/against/) [the](/en/post/the/) company's policies."
+- **[Noun](/post/noun/)**: [A](/post/a/) [movement](/post/movement/) [or](/post/or/) [position](/post/position/) [of](/post/of/) [the](/post/the/) [body](/post/body/), [especially](/post/especially/) [of](/post/of/) [the](/post/the/) hands [or](/post/or/) [face](/post/face/), [to](/post/to/) [express](/post/express/) an [idea](/post/idea/), [emotion](/post/emotion/), [or](/post/or/) [intention](/post/intention/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) made [a](/post/a/) dismissive [gesture](/post/gesture/) [with](/post/with/) [his](/post/his/) [hand](/post/hand/)."
+  - *[As](/post/as/) [a](/post/a/) figurative [use](/post/use/)*, [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) an [action](/post/action/) intended [to](/post/to/) [convey](/post/convey/) [a](/post/a/) [message](/post/message/) [or](/post/or/) [meaning](/post/meaning/) [beyond](/post/beyond/) [the](/post/the/) literal [act](/post/act/) [itself](/post/itself/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [resignation](/post/resignation/) was seen [as](/post/as/) [a](/post/a/) [protest](/post/protest/) [gesture](/post/gesture/) [against](/post/against/) [the](/post/the/) company's policies."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [movement](/en/post/movement/) [or](/en/post/or/) [signal](/en/post/signal/) [with](/en/post/with/) one's [body](/en/post/body/), typically [a](/en/post/a/) [hand](/en/post/hand/) [movement](/en/post/movement/), [to](/en/post/to/) [express](/en/post/express/) [something](/en/post/something/) non-verbally. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) gestured towards [the](/en/post/the/) [door](/en/post/door/), indicating [that](/en/post/that/) [we](/en/post/we/) [should](/en/post/should/) [leave](/en/post/leave/)."
-  - [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [indicate](/en/post/indicate/) [or](/en/post/or/) [suggest](/en/post/suggest/) [something](/en/post/something/) indirectly [through](/en/post/through/) actions [rather](/en/post/rather/) [than](/en/post/than/) words. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [behavior](/en/post/behavior/) gestures [at](/en/post/at/) [a](/en/post/a/) deeper [emotional](/en/post/emotional/) [struggle](/en/post/struggle/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [a](/post/a/) [movement](/post/movement/) [or](/post/or/) [signal](/post/signal/) [with](/post/with/) one's [body](/post/body/), typically [a](/post/a/) [hand](/post/hand/) [movement](/post/movement/), [to](/post/to/) [express](/post/express/) [something](/post/something/) non-verbally. [For](/post/for/) [example](/post/example/): "[She](/post/she/) gestured towards [the](/post/the/) [door](/post/door/), indicating [that](/post/that/) [we](/post/we/) [should](/post/should/) [leave](/post/leave/)."
+  - [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) [indicate](/post/indicate/) [or](/post/or/) [suggest](/post/suggest/) [something](/post/something/) indirectly [through](/post/through/) actions [rather](/post/rather/) [than](/post/than/) words. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [behavior](/post/behavior/) gestures [at](/post/at/) [a](/post/a/) deeper [emotional](/post/emotional/) [struggle](/post/struggle/)."
 
 ## Phrases
-- "[A](/en/post/a/) [gesture](/en/post/gesture/) [of](/en/post/of/) goodwill" implies an [action](/en/post/action/) taken [to](/en/post/to/) [show](/en/post/show/) [friendly](/en/post/friendly/) intentions [or](/en/post/or/) reconcile differences.
-- "[A](/en/post/a/) symbolic [gesture](/en/post/gesture/)" denotes an [action](/en/post/action/) done [primarily](/en/post/primarily/) [for](/en/post/for/) [its](/en/post/its/) emblematic [significance](/en/post/significance/) [rather](/en/post/rather/) [than](/en/post/than/) [practical](/en/post/practical/) [effect](/en/post/effect/).
-- "[Gesture](/en/post/gesture/) [control](/en/post/control/)" refers [to](/en/post/to/) [technology](/en/post/technology/) [that](/en/post/that/) interprets [physical](/en/post/physical/) movements [to](/en/post/to/) [control](/en/post/control/) devices, [often](/en/post/often/) [found](/en/post/found/) [in](/en/post/in/) interactive systems.
+- "[A](/post/a/) [gesture](/post/gesture/) [of](/post/of/) goodwill" implies an [action](/post/action/) taken [to](/post/to/) [show](/post/show/) [friendly](/post/friendly/) intentions [or](/post/or/) reconcile differences.
+- "[A](/post/a/) symbolic [gesture](/post/gesture/)" denotes an [action](/post/action/) done [primarily](/post/primarily/) [for](/post/for/) [its](/post/its/) emblematic [significance](/post/significance/) [rather](/post/rather/) [than](/post/than/) [practical](/post/practical/) [effect](/post/effect/).
+- "[Gesture](/post/gesture/) [control](/post/control/)" refers [to](/post/to/) [technology](/post/technology/) [that](/post/that/) interprets [physical](/post/physical/) movements [to](/post/to/) [control](/post/control/) devices, [often](/post/often/) [found](/post/found/) [in](/post/in/) interactive systems.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [child](/en/post/child/) smiled [and](/en/post/and/) made [a](/en/post/a/) waving [gesture](/en/post/gesture/) [when](/en/post/when/) [she](/en/post/she/) [saw](/en/post/saw/) [her](/en/post/her/) [mother](/en/post/mother/) [across](/en/post/across/) [the](/en/post/the/) [playground](/en/post/playground/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) gestured [for](/en/post/for/) [the](/en/post/the/) students [to](/en/post/to/) [take](/en/post/take/) [their](/en/post/their/) seats [before](/en/post/before/) starting [the](/en/post/the/) [lesson](/en/post/lesson/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [child](/post/child/) smiled [and](/post/and/) made [a](/post/a/) waving [gesture](/post/gesture/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [her](/post/her/) [mother](/post/mother/) [across](/post/across/) [the](/post/the/) [playground](/post/playground/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) gestured [for](/post/for/) [the](/post/the/) students [to](/post/to/) [take](/post/take/) [their](/post/their/) seats [before](/post/before/) starting [the](/post/the/) [lesson](/post/lesson/)."
 
 ## Synonyms
-- [Movement](/en/post/movement/)
-- [Signal](/en/post/signal/)
-- [Motion](/en/post/motion/)
-- [Sign](/en/post/sign/)
+- [Movement](/post/movement/)
+- [Signal](/post/signal/)
+- [Motion](/post/motion/)
+- [Sign](/post/sign/)
 - Wink
-- [Nod](/en/post/nod/)
-- [Wave](/en/post/wave/)
+- [Nod](/post/nod/)
+- [Wave](/post/wave/)
 - Mimicry
-- [Body](/en/post/body/) [language](/en/post/language/)
-- Nonverbal [communication](/en/post/communication/)
+- [Body](/post/body/) [language](/post/language/)
+- Nonverbal [communication](/post/communication/)

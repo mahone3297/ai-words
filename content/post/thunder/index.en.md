@@ -7,29 +7,29 @@ description = '[ˈθʌndə] n.雷 vi.打雷 vt.吼出'
 keywords = ['ai words', 'thunder']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈθʌndər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [loud](/en/post/loud/), [deep](/en/post/deep/) rumbling [sound](/en/post/sound/) produced [by](/en/post/by/) [lightning](/en/post/lightning/), typically accompanied [by](/en/post/by/) an [electric](/en/post/electric/) [discharge](/en/post/discharge/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [thunder](/en/post/thunder/) was [so](/en/post/so/) [powerful](/en/post/powerful/) [that](/en/post/that/) [it](/en/post/it/) shook [the](/en/post/the/) windows."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [noise](/en/post/noise/) [like](/en/post/like/) [thunder](/en/post/thunder/), [often](/en/post/often/) metaphorically [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [loud](/en/post/loud/) [or](/en/post/or/) [dramatic](/en/post/dramatic/) [event](/en/post/event/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) announcement thundered [through](/en/post/through/) [the](/en/post/the/) auditorium."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) resembling [thunder](/en/post/thunder/), [especially](/en/post/especially/) [in](/en/post/in/) [intensity](/en/post/intensity/) [or](/en/post/or/) [volume](/en/post/volume/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) thunderous applause echoed [through](/en/post/through/) [the](/en/post/the/) [hall](/en/post/hall/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [loud](/post/loud/), [deep](/post/deep/) rumbling [sound](/post/sound/) produced [by](/post/by/) [lightning](/post/lightning/), typically accompanied [by](/post/by/) an [electric](/post/electric/) [discharge](/post/discharge/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [thunder](/post/thunder/) was [so](/post/so/) [powerful](/post/powerful/) [that](/post/that/) [it](/post/it/) shook [the](/post/the/) windows."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [a](/post/a/) [noise](/post/noise/) [like](/post/like/) [thunder](/post/thunder/), [often](/post/often/) metaphorically [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [loud](/post/loud/) [or](/post/or/) [dramatic](/post/dramatic/) [event](/post/event/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) announcement thundered [through](/post/through/) [the](/post/the/) auditorium."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) resembling [thunder](/post/thunder/), [especially](/post/especially/) [in](/post/in/) [intensity](/post/intensity/) [or](/post/or/) [volume](/post/volume/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) thunderous applause echoed [through](/post/through/) [the](/post/the/) [hall](/post/hall/)."
 
 ## Phrases
-- "[A](/en/post/a/) [clap](/en/post/clap/) [of](/en/post/of/) [thunder](/en/post/thunder/)" refers [to](/en/post/to/) [a](/en/post/a/) [single](/en/post/single/), [sharp](/en/post/sharp/) [sound](/en/post/sound/).
-- "Thunderstorm" is [a](/en/post/a/) [weather](/en/post/weather/) [condition](/en/post/condition/) [with](/en/post/with/) [frequent](/en/post/frequent/) [thunder](/en/post/thunder/) [and](/en/post/and/) [lightning](/en/post/lightning/).
-- "Thunderous [laughter](/en/post/laughter/)" describes [loud](/en/post/loud/), hearty [laughter](/en/post/laughter/).
+- "[A](/post/a/) [clap](/post/clap/) [of](/post/of/) [thunder](/post/thunder/)" refers [to](/post/to/) [a](/post/a/) [single](/post/single/), [sharp](/post/sharp/) [sound](/post/sound/).
+- "Thunderstorm" is [a](/post/a/) [weather](/post/weather/) [condition](/post/condition/) [with](/post/with/) [frequent](/post/frequent/) [thunder](/post/thunder/) [and](/post/and/) [lightning](/post/lightning/).
+- "Thunderous [laughter](/post/laughter/)" describes [loud](/post/loud/), hearty [laughter](/post/laughter/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [storm](/en/post/storm/) was [so](/en/post/so/) [intense](/en/post/intense/), [it](/en/post/it/) produced [continuous](/en/post/continuous/) [thunder](/en/post/thunder/)."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [voice](/en/post/voice/) thundered [with](/en/post/with/) [anger](/en/post/anger/) [when](/en/post/when/) [he](/en/post/he/) heard [the](/en/post/the/) [news](/en/post/news/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [concert](/en/post/concert/) ended [with](/en/post/with/) [a](/en/post/a/) thunderous encore."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [storm](/post/storm/) was [so](/post/so/) [intense](/post/intense/), [it](/post/it/) produced [continuous](/post/continuous/) [thunder](/post/thunder/)."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [voice](/post/voice/) thundered [with](/post/with/) [anger](/post/anger/) [when](/post/when/) [he](/post/he/) heard [the](/post/the/) [news](/post/news/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [concert](/post/concert/) ended [with](/post/with/) [a](/post/a/) thunderous encore."
 
 ## Synonyms
-- [Roar](/en/post/roar/)
-- [Roll](/en/post/roll/)
+- [Roar](/post/roar/)
+- [Roll](/post/roll/)
 - Crackle
 - Boom
-- [Clap](/en/post/clap/)
+- [Clap](/post/clap/)
 - Rumble
 - Jolt

@@ -12,29 +12,29 @@ keywords = ['ai words', 'match']
 
 ## 释义
 - **名词**:
-  - 1. 相配的人或物；匹配的事物。例如: "[The](/post/the/) shoes are [a](/post/a/) [perfect](/post/perfect/) [match](/post/match/) [for](/post/for/) [the](/post/the/) [dress](/post/dress/)."
-  - 2. 比赛；对决。例如: "[They](/post/they/) played [a](/post/a/) thrilling [tennis](/post/tennis/) [match](/post/match/) [yesterday](/post/yesterday/)."
-  - 3. 火柴。例如: "[Can](/post/can/) [you](/post/you/) [pass](/post/pass/) [me](/post/me/) [a](/post/a/) [match](/post/match/) [to](/post/to/) [light](/post/light/) [the](/post/the/) [candle](/post/candle/)?"
+  - 1. 相配的人或物；匹配的事物。例如: "[The](/zh/post/the/) shoes are [a](/zh/post/a/) [perfect](/zh/post/perfect/) [match](/zh/post/match/) [for](/zh/post/for/) [the](/zh/post/the/) [dress](/zh/post/dress/)."
+  - 2. 比赛；对决。例如: "[They](/zh/post/they/) played [a](/zh/post/a/) thrilling [tennis](/zh/post/tennis/) [match](/zh/post/match/) [yesterday](/zh/post/yesterday/)."
+  - 3. 火柴。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [pass](/zh/post/pass/) [me](/zh/post/me/) [a](/zh/post/a/) [match](/zh/post/match/) [to](/zh/post/to/) [light](/zh/post/light/) [the](/zh/post/the/) [candle](/zh/post/candle/)?"
 
 - **动词**:
-  - 1. 与...相配，匹敌。例如: "[Her](/post/her/) skills don't [match](/post/match/) [his](/post/his/) [in](/post/in/) [this](/post/this/) [field](/post/field/)."
-  - 2. 使比赛，安排对决。例如: "We'll [match](/post/match/) [the](/post/the/) [two](/post/two/) teams [against](/post/against/) [each](/post/each/) [other](/post/other/) [in](/post/in/) [the](/post/the/) [final](/post/final/) [round](/post/round/)."
+  - 1. 与...相配，匹敌。例如: "[Her](/zh/post/her/) skills don't [match](/zh/post/match/) [his](/zh/post/his/) [in](/zh/post/in/) [this](/zh/post/this/) [field](/zh/post/field/)."
+  - 2. 使比赛，安排对决。例如: "We'll [match](/zh/post/match/) [the](/zh/post/the/) [two](/zh/post/two/) teams [against](/zh/post/against/) [each](/zh/post/each/) [other](/zh/post/other/) [in](/zh/post/in/) [the](/zh/post/the/) [final](/zh/post/final/) [round](/zh/post/round/)."
 
 - **形容词**:
-  - 1. 相配的，相符的。例如: "[The](/post/the/) colors are [a](/post/a/) [perfect](/post/perfect/) [match](/post/match/)."
+  - 1. 相配的，相符的。例如: "[The](/zh/post/the/) colors are [a](/zh/post/a/) [perfect](/zh/post/perfect/) [match](/zh/post/match/)."
 
 ## 短语
-- "[be](/post/be/) [a](/post/a/) [match](/post/match/) [for](/post/for/) sb/sth" 意味着能与某人或某事物匹敌。
-- "[match](/post/match/) made [in](/post/in/) [heaven](/post/heaven/)" 形容非常理想或完美的结合。
+- "[be](/zh/post/be/) [a](/zh/post/a/) [match](/zh/post/match/) [for](/zh/post/for/) sb/sth" 意味着能与某人或某事物匹敌。
+- "[match](/zh/post/match/) made [in](/zh/post/in/) [heaven](/zh/post/heaven/)" 形容非常理想或完美的结合。
 
 ## 例句
-- 名词: "[The](/post/the/) rug's [pattern](/post/pattern/) was [a](/post/a/) [beautiful](/post/beautiful/) [match](/post/match/) [for](/post/for/) [the](/post/the/) [living](/post/living/) room's decor."
-- 动词: "[His](/post/his/) [strength](/post/strength/) doesn't [match](/post/match/) [hers](/post/hers/) [when](/post/when/) [it](/post/it/) comes [to](/post/to/) weightlifting."
-- 形容词: "[Their](/post/their/) personalities were [a](/post/a/) [match](/post/match/) made [in](/post/in/) [heaven](/post/heaven/)."
+- 名词: "[The](/zh/post/the/) rug's [pattern](/zh/post/pattern/) was [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [match](/zh/post/match/) [for](/zh/post/for/) [the](/zh/post/the/) [living](/zh/post/living/) room's decor."
+- 动词: "[His](/zh/post/his/) [strength](/zh/post/strength/) doesn't [match](/zh/post/match/) [hers](/zh/post/hers/) [when](/zh/post/when/) [it](/zh/post/it/) comes [to](/zh/post/to/) weightlifting."
+- 形容词: "[Their](/zh/post/their/) personalities were [a](/zh/post/a/) [match](/zh/post/match/) made [in](/zh/post/in/) [heaven](/zh/post/heaven/)."
 
 ## 同义词
-- [Pair](/post/pair/)
-- [Equivalent](/post/equivalent/)
-- [Rival](/post/rival/)
+- [Pair](/zh/post/pair/)
+- [Equivalent](/zh/post/equivalent/)
+- [Rival](/zh/post/rival/)
 - Competitor
 - Counterpart

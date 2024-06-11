@@ -7,38 +7,38 @@ description = '[səpˈtembə] n.九月'
 keywords = ['ai words', 'September']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /septˈeɪmber/
 
 ## Definitions
-### [Noun](/en/post/noun/)
+### [Noun](/post/noun/)
 **September**
-1. [The](/en/post/the/) [ninth](/en/post/ninth/) [month](/en/post/month/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/) [in](/en/post/in/) [the](/en/post/the/) Gregorian [calendar](/en/post/calendar/), [between](/en/post/between/) [August](/en/post/august/) [and](/en/post/and/) October.
-2. ([US](/en/post/us/)) An informal [term](/en/post/term/) [for](/en/post/for/) [the](/en/post/the/) [autumn](/en/post/autumn/) [season](/en/post/season/), typically associated [with](/en/post/with/) [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [school](/en/post/school/).
+1. [The](/post/the/) [ninth](/post/ninth/) [month](/post/month/) [of](/post/of/) [the](/post/the/) [year](/post/year/) [in](/post/in/) [the](/post/the/) Gregorian [calendar](/post/calendar/), [between](/post/between/) [August](/post/august/) [and](/post/and/) October.
+2. ([US](/post/us/)) An informal [term](/post/term/) [for](/post/for/) [the](/post/the/) [autumn](/post/autumn/) [season](/post/season/), typically associated [with](/post/with/) [the](/post/the/) [start](/post/start/) [of](/post/of/) [school](/post/school/).
 
-### [Verb](/en/post/verb/)
-**[To](/en/post/to/) September**
-1. (Informal) [To](/en/post/to/) [begin](/en/post/begin/) [or](/en/post/or/) [relate](/en/post/relate/) [to](/en/post/to/) [the](/en/post/the/) [month](/en/post/month/) [of](/en/post/of/) September.
+### [Verb](/post/verb/)
+**[To](/post/to/) September**
+1. (Informal) [To](/post/to/) [begin](/post/begin/) [or](/post/or/) [relate](/post/relate/) [to](/post/to/) [the](/post/the/) [month](/post/month/) [of](/post/of/) September.
 
 ## Phrases
-- "[Welcome](/en/post/welcome/) [to](/en/post/to/) September" marks [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [the](/en/post/the/) [month](/en/post/month/).
-- "It's officially September" signifies [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [a](/en/post/a/) [new](/en/post/new/) [academic](/en/post/academic/) [or](/en/post/or/) [calendar](/en/post/calendar/) [year](/en/post/year/).
-- "Remembering September" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) nostalgic recollections [of](/en/post/of/) [past](/en/post/past/) events.
+- "[Welcome](/post/welcome/) [to](/post/to/) September" marks [the](/post/the/) [start](/post/start/) [of](/post/of/) [the](/post/the/) [month](/post/month/).
+- "It's officially September" signifies [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [academic](/post/academic/) [or](/post/or/) [calendar](/post/calendar/) [year](/post/year/).
+- "Remembering September" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) nostalgic recollections [of](/post/of/) [past](/post/past/) events.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [first](/en/post/first/) [day](/en/post/day/) [of](/en/post/of/) [school](/en/post/school/) is [always](/en/post/always/) [in](/en/post/in/) September."
-- **[Verb](/en/post/verb/)**: "Let's September-planning [for](/en/post/for/) [the](/en/post/the/) upcoming [outdoor](/en/post/outdoor/) events."
-- **Phrases**: "[The](/en/post/the/) [summer](/en/post/summer/) [sun](/en/post/sun/) was replaced [by](/en/post/by/) crisp September [air](/en/post/air/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [first](/post/first/) [day](/post/day/) [of](/post/of/) [school](/post/school/) is [always](/post/always/) [in](/post/in/) September."
+- **[Verb](/post/verb/)**: "Let's September-planning [for](/post/for/) [the](/post/the/) upcoming [outdoor](/post/outdoor/) events."
+- **Phrases**: "[The](/post/the/) [summer](/post/summer/) [sun](/post/sun/) was replaced [by](/post/by/) crisp September [air](/post/air/)."
 
 ## Synonyms
-- [Autumn](/en/post/autumn/)
-- September [month](/en/post/month/)
-- [Fall](/en/post/fall/) (informal [in](/en/post/in/) [US](/en/post/us/))
-- [The](/en/post/the/) [harvest](/en/post/harvest/) [month](/en/post/month/)
-- [The](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [the](/en/post/the/) [academic](/en/post/academic/) [year](/en/post/year/) ([education](/en/post/education/) context)
+- [Autumn](/post/autumn/)
+- September [month](/post/month/)
+- [Fall](/post/fall/) (informal [in](/post/in/) [US](/post/us/))
+- [The](/post/the/) [harvest](/post/harvest/) [month](/post/month/)
+- [The](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [the](/post/the/) [academic](/post/academic/) [year](/post/year/) ([education](/post/education/) context)
 
 ## Related Terms
-- Labor [Day](/en/post/day/) ([US](/en/post/us/))
-- [Back](/en/post/back/) [to](/en/post/to/) [school](/en/post/school/)
-- [Fall](/en/post/fall/) foliage
-- [First](/en/post/first/) [day](/en/post/day/) [of](/en/post/of/) [school](/en/post/school/) ([US](/en/post/us/))
+- Labor [Day](/post/day/) ([US](/post/us/))
+- [Back](/post/back/) [to](/post/to/) [school](/post/school/)
+- [Fall](/post/fall/) foliage
+- [First](/post/first/) [day](/post/day/) [of](/post/of/) [school](/post/school/) ([US](/post/us/))

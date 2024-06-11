@@ -11,20 +11,20 @@ keywords = ['ai words', 'elsewhere']
 /ˈɛlswɛə(r)/
 
 ## 释义
-- **副词**: 在别处；在其他地方。例如: "I can't [find](/post/find/) [my](/post/my/) keys, [they](/post/they/) [must](/post/must/) [be](/post/be/) [elsewhere](/post/elsewhere/)."
-- **形容词**: 别处的，其他的。例如: "There's [no](/post/no/) [water](/post/water/) [in](/post/in/) [this](/post/this/) [well](/post/well/), we'll [have](/post/have/) [to](/post/to/) [look](/post/look/) [elsewhere](/post/elsewhere/) [for](/post/for/) [a](/post/a/) [source](/post/source/)."
+- **副词**: 在别处；在其他地方。例如: "I can't [find](/zh/post/find/) [my](/zh/post/my/) keys, [they](/zh/post/they/) [must](/zh/post/must/) [be](/zh/post/be/) [elsewhere](/zh/post/elsewhere/)."
+- **形容词**: 别处的，其他的。例如: "There's [no](/zh/post/no/) [water](/zh/post/water/) [in](/zh/post/in/) [this](/zh/post/this/) [well](/zh/post/well/), we'll [have](/zh/post/have/) [to](/zh/post/to/) [look](/zh/post/look/) [elsewhere](/zh/post/elsewhere/) [for](/zh/post/for/) [a](/zh/post/a/) [source](/zh/post/source/)."
 
 ## 短语
-- "[Elsewhere](/post/elsewhere/) [in](/post/in/) [the](/post/the/) [city](/post/city/)" 指的是城市中的其他地方。
-- "[To](/post/to/) [go](/post/go/) [elsewhere](/post/elsewhere/)" 意味着去别的地方。
+- "[Elsewhere](/zh/post/elsewhere/) [in](/zh/post/in/) [the](/zh/post/the/) [city](/zh/post/city/)" 指的是城市中的其他地方。
+- "[To](/zh/post/to/) [go](/zh/post/go/) [elsewhere](/zh/post/elsewhere/)" 意味着去别的地方。
 
 ## 例句
-- 副词: "[The](/post/the/) [party](/post/party/) is happening [elsewhere](/post/elsewhere/), [not](/post/not/) [here](/post/here/)."
-- 形容词: "[The](/post/the/) [information](/post/information/) [you](/post/you/) [need](/post/need/) [might](/post/might/) [be](/post/be/) [found](/post/found/) [elsewhere](/post/elsewhere/) online."
+- 副词: "[The](/zh/post/the/) [party](/zh/post/party/) is happening [elsewhere](/zh/post/elsewhere/), [not](/zh/post/not/) [here](/zh/post/here/)."
+- 形容词: "[The](/zh/post/the/) [information](/zh/post/information/) [you](/zh/post/you/) [need](/zh/post/need/) [might](/zh/post/might/) [be](/zh/post/be/) [found](/zh/post/found/) [elsewhere](/zh/post/elsewhere/) online."
 
 ## 同义词
-- [Else](/post/else/)
-- [Somewhere](/post/somewhere/) [else](/post/else/)
-- [In](/post/in/) [another](/post/another/) [place](/post/place/)
-- [Different](/post/different/) locations
-- [Distant](/post/distant/)
+- [Else](/zh/post/else/)
+- [Somewhere](/zh/post/somewhere/) [else](/zh/post/else/)
+- [In](/zh/post/in/) [another](/zh/post/another/) [place](/zh/post/place/)
+- [Different](/zh/post/different/) locations
+- [Distant](/zh/post/distant/)

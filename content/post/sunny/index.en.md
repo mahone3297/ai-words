@@ -7,27 +7,27 @@ description = '[ˈsʌni] a.阳光充足的；快活的'
 keywords = ['ai words', 'sunny']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sʌni/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized by明媚的 [sunshine](/en/post/sunshine/); [bright](/en/post/bright/) [and](/en/post/and/) [clear](/en/post/clear/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sunny](/en/post/sunny/) [day](/en/post/day/) invited [us](/en/post/us/) [to](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/) [outdoors](/en/post/outdoors/)."
-- **[Noun](/en/post/noun/)**: [Sunlight](/en/post/sunlight/); [solar](/en/post/solar/) [radiation](/en/post/radiation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sun](/en/post/sun/) was shining brightly [on](/en/post/on/) [the](/en/post/the/) [beach](/en/post/beach/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [sunny](/en/post/sunny/) [manner](/en/post/manner/); cheerfully. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) greeted [the](/en/post/the/) children [with](/en/post/with/) [a](/en/post/a/) [sunny](/en/post/sunny/) [smile](/en/post/smile/)."
+- **[Adjective](/post/adjective/)**: Characterized by明媚的 [sunshine](/post/sunshine/); [bright](/post/bright/) [and](/post/and/) [clear](/post/clear/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sunny](/post/sunny/) [day](/post/day/) invited [us](/post/us/) [to](/post/to/) [spend](/post/spend/) [time](/post/time/) [outdoors](/post/outdoors/)."
+- **[Noun](/post/noun/)**: [Sunlight](/post/sunlight/); [solar](/post/solar/) [radiation](/post/radiation/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sun](/post/sun/) was shining brightly [on](/post/on/) [the](/post/the/) [beach](/post/beach/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [sunny](/post/sunny/) [manner](/post/manner/); cheerfully. [For](/post/for/) [example](/post/example/): "[She](/post/she/) greeted [the](/post/the/) children [with](/post/with/) [a](/post/a/) [sunny](/post/sunny/) [smile](/post/smile/)."
 
 ## Phrases
-- "Enjoying [a](/en/post/a/) [sunny](/en/post/sunny/) [day](/en/post/day/)" [means](/en/post/means/) [to](/en/post/to/) [appreciate](/en/post/appreciate/) [a](/en/post/a/) [day](/en/post/day/) [with](/en/post/with/) [clear](/en/post/clear/) skies [and](/en/post/and/) [warmth](/en/post/warmth/).
-- "[A](/en/post/a/) [sunny](/en/post/sunny/) disposition" describes [someone](/en/post/someone/) [who](/en/post/who/) is [cheerful](/en/post/cheerful/) [and](/en/post/and/) [optimistic](/en/post/optimistic/).
-- "Sunny-side [up](/en/post/up/)" refers [to](/en/post/to/) eggs cooked [with](/en/post/with/) [the](/en/post/the/) yolk [on](/en/post/on/) [top](/en/post/top/), metaphorically suggesting [a](/en/post/a/) [positive](/en/post/positive/) [outlook](/en/post/outlook/).
+- "Enjoying [a](/post/a/) [sunny](/post/sunny/) [day](/post/day/)" [means](/post/means/) [to](/post/to/) [appreciate](/post/appreciate/) [a](/post/a/) [day](/post/day/) [with](/post/with/) [clear](/post/clear/) skies [and](/post/and/) [warmth](/post/warmth/).
+- "[A](/post/a/) [sunny](/post/sunny/) disposition" describes [someone](/post/someone/) [who](/post/who/) is [cheerful](/post/cheerful/) [and](/post/and/) [optimistic](/post/optimistic/).
+- "Sunny-side [up](/post/up/)" refers [to](/post/to/) eggs cooked [with](/post/with/) [the](/post/the/) yolk [on](/post/on/) [top](/post/top/), metaphorically suggesting [a](/post/a/) [positive](/post/positive/) [outlook](/post/outlook/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [garden](/en/post/garden/) was [in](/en/post/in/) [full](/en/post/full/) [bloom](/en/post/bloom/) [under](/en/post/under/) [the](/en/post/the/) [warm](/en/post/warm/) [and](/en/post/and/) [sunny](/en/post/sunny/) rays."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) basked [in](/en/post/in/) [the](/en/post/the/) [sunny](/en/post/sunny/) [field](/en/post/field/), tending [to](/en/post/to/) [his](/en/post/his/) crops."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) had [a](/en/post/a/) [sunny](/en/post/sunny/) [attitude](/en/post/attitude/) [even](/en/post/even/) [during](/en/post/during/) [difficult](/en/post/difficult/) times."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [garden](/post/garden/) was [in](/post/in/) [full](/post/full/) [bloom](/post/bloom/) [under](/post/under/) [the](/post/the/) [warm](/post/warm/) [and](/post/and/) [sunny](/post/sunny/) rays."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) basked [in](/post/in/) [the](/post/the/) [sunny](/post/sunny/) [field](/post/field/), tending [to](/post/to/) [his](/post/his/) crops."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) had [a](/post/a/) [sunny](/post/sunny/) [attitude](/post/attitude/) [even](/post/even/) [during](/post/during/) [difficult](/post/difficult/) times."
 
 ## Synonyms
-- [Bright](/en/post/bright/)
-- [Clear](/en/post/clear/)
+- [Bright](/post/bright/)
+- [Clear](/post/clear/)
 - Radiant
-- Sunny-side [down](/en/post/down/) (idiomatic [for](/en/post/for/) [optimistic](/en/post/optimistic/) [or](/en/post/or/) [positive](/en/post/positive/))
-- [Cheerful](/en/post/cheerful/)
+- Sunny-side [down](/post/down/) (idiomatic [for](/post/for/) [optimistic](/post/optimistic/) [or](/post/or/) [positive](/post/positive/))
+- [Cheerful](/post/cheerful/)

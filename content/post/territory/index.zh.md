@@ -11,21 +11,21 @@ keywords = ['ai words', 'territory']
 /ˈtɜːrɪtəri/
 
 ## 释义
-- **名词**: 一个国家或政治实体所控制的地理区域；领土，领地。例如: "[The](/post/the/) [country](/post/country/) expanded [its](/post/its/) [territory](/post/territory/) [through](/post/through/) [conquest](/post/conquest/)."
-- **名词**: 特定个人、群体或动物的领域或范围。例如: "[The](/post/the/) [lion](/post/lion/) marked [out](/post/out/) [its](/post/its/) [territory](/post/territory/) [with](/post/with/) urine."
+- **名词**: 一个国家或政治实体所控制的地理区域；领土，领地。例如: "[The](/zh/post/the/) [country](/zh/post/country/) expanded [its](/zh/post/its/) [territory](/zh/post/territory/) [through](/zh/post/through/) [conquest](/zh/post/conquest/)."
+- **名词**: 特定个人、群体或动物的领域或范围。例如: "[The](/zh/post/the/) [lion](/zh/post/lion/) marked [out](/zh/post/out/) [its](/zh/post/its/) [territory](/zh/post/territory/) [with](/zh/post/with/) urine."
 
 ## 短语
-- "[Within](/post/within/) someone's [territory](/post/territory/)" 意为在某人的领域内。
+- "[Within](/zh/post/within/) someone's [territory](/zh/post/territory/)" 意为在某人的领域内。
 - "Colonial territories" 指的是殖民地领土。
-- "[Personal](/post/personal/) [territory](/post/territory/)" 可以指个人的空间或领地感。
+- "[Personal](/zh/post/personal/) [territory](/zh/post/territory/)" 可以指个人的空间或领地感。
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [treaty](/post/treaty/) defined [the](/post/the/) boundaries [of](/post/of/) [both](/post/both/) countries' territories."
-- 名词: "[The](/post/the/) penguins fiercely [defend](/post/defend/) [their](/post/their/) nesting territories [from](/post/from/) intruders."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [treaty](/zh/post/treaty/) defined [the](/zh/post/the/) boundaries [of](/zh/post/of/) [both](/zh/post/both/) countries' territories."
+- 名词: "[The](/zh/post/the/) penguins fiercely [defend](/zh/post/defend/) [their](/zh/post/their/) nesting territories [from](/zh/post/from/) intruders."
 
 ## 同义词
-- [Region](/post/region/)
+- [Region](/zh/post/region/)
 - Domain
-- [Realm](/post/realm/)
-- [Area](/post/area/)
+- [Realm](/zh/post/realm/)
+- [Area](/zh/post/area/)
 - Grounds

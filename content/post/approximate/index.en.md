@@ -7,31 +7,31 @@ description = '[əˈprɔksimeit] a.近似的 vt.近似'
 keywords = ['ai words', 'approximate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈprəksɪmeɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-An [approximate](/en/post/approximate/) [value](/en/post/value/) [or](/en/post/or/) estimation, [often](/en/post/often/) [used](/en/post/used/) [when](/en/post/when/) [the](/en/post/the/) [exact](/en/post/exact/) [figure](/en/post/figure/) is [uncertain](/en/post/uncertain/) [or](/en/post/or/) [not](/en/post/not/) [available](/en/post/available/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [answer](/en/post/answer/) is [approximately](/en/post/approximately/) 75."
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [come](/en/post/come/) [close](/en/post/close/) [to](/en/post/to/) [or](/en/post/or/) [estimate](/en/post/estimate/) [something](/en/post/something/) [without](/en/post/without/) [being](/en/post/being/) [exact](/en/post/exact/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [calculation](/en/post/calculation/) approximates [the](/en/post/the/) [real](/en/post/real/) [value](/en/post/value/)."
-2. [To](/en/post/to/) [represent](/en/post/represent/) [or](/en/post/or/) mimic [roughly](/en/post/roughly/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [model](/en/post/model/) approximates [the](/en/post/the/) [behavior](/en/post/behavior/) [of](/en/post/of/) [the](/en/post/the/) [actual](/en/post/actual/) [system](/en/post/system/)."
-3. (Computing) [To](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [substitute](/en/post/substitute/) [or](/en/post/or/) [substitute](/en/post/substitute/) [function](/en/post/function/) [that](/en/post/that/) [closely](/en/post/closely/) resembles [the](/en/post/the/) desired [one](/en/post/one/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [program](/en/post/program/) approximates pi [with](/en/post/with/) [high](/en/post/high/) [precision](/en/post/precision/)."
+### [Noun](/post/noun/)
+An [approximate](/post/approximate/) [value](/post/value/) [or](/post/or/) estimation, [often](/post/often/) [used](/post/used/) [when](/post/when/) [the](/post/the/) [exact](/post/exact/) [figure](/post/figure/) is [uncertain](/post/uncertain/) [or](/post/or/) [not](/post/not/) [available](/post/available/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [answer](/post/answer/) is [approximately](/post/approximately/) 75."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [come](/post/come/) [close](/post/close/) [to](/post/to/) [or](/post/or/) [estimate](/post/estimate/) [something](/post/something/) [without](/post/without/) [being](/post/being/) [exact](/post/exact/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [calculation](/post/calculation/) approximates [the](/post/the/) [real](/post/real/) [value](/post/value/)."
+2. [To](/post/to/) [represent](/post/represent/) [or](/post/or/) mimic [roughly](/post/roughly/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [model](/post/model/) approximates [the](/post/the/) [behavior](/post/behavior/) [of](/post/of/) [the](/post/the/) [actual](/post/actual/) [system](/post/system/)."
+3. (Computing) [To](/post/to/) [use](/post/use/) [a](/post/a/) [substitute](/post/substitute/) [or](/post/or/) [substitute](/post/substitute/) [function](/post/function/) [that](/post/that/) [closely](/post/closely/) resembles [the](/post/the/) desired [one](/post/one/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [program](/post/program/) approximates pi [with](/post/with/) [high](/post/high/) [precision](/post/precision/)."
 
 ## Phrases
-- "[Approximately](/en/post/approximately/) 20 [people](/en/post/people/) showed [up](/en/post/up/)."
-- "[The](/en/post/the/) [answer](/en/post/answer/) is [within](/en/post/within/) an [approximate](/en/post/approximate/) 5% [margin](/en/post/margin/) [of](/en/post/of/) [error](/en/post/error/)."
-- "[This](/en/post/this/) algorithm approximates [the](/en/post/the/) [solution](/en/post/solution/) [rather](/en/post/rather/) [than](/en/post/than/) [finding](/en/post/finding/) [the](/en/post/the/) [exact](/en/post/exact/) [one](/en/post/one/)."
+- "[Approximately](/post/approximately/) 20 [people](/post/people/) showed [up](/post/up/)."
+- "[The](/post/the/) [answer](/post/answer/) is [within](/post/within/) an [approximate](/post/approximate/) 5% [margin](/post/margin/) [of](/post/of/) [error](/post/error/)."
+- "[This](/post/this/) algorithm approximates [the](/post/the/) [solution](/post/solution/) [rather](/post/rather/) [than](/post/than/) [finding](/post/finding/) [the](/post/the/) [exact](/post/exact/) [one](/post/one/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) estimated [cost](/en/post/cost/) is [approximately](/en/post/approximately/) $10,000."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) approximated [the](/en/post/the/) [height](/en/post/height/) [of](/en/post/of/) [the](/en/post/the/) [building](/en/post/building/) [by](/en/post/by/) looking [up](/en/post/up/)."
-- **[Verb](/en/post/verb/) (Computing)**: "[The](/en/post/the/) software approximates real-world [physics](/en/post/physics/) [for](/en/post/for/) [a](/en/post/a/) realistic simulation."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) estimated [cost](/post/cost/) is [approximately](/post/approximately/) $10,000."
+- **[Verb](/post/verb/)**: "[He](/post/he/) approximated [the](/post/the/) [height](/post/height/) [of](/post/of/) [the](/post/the/) [building](/post/building/) [by](/post/by/) looking [up](/post/up/)."
+- **[Verb](/post/verb/) (Computing)**: "[The](/post/the/) software approximates real-world [physics](/post/physics/) [for](/post/for/) [a](/post/a/) realistic simulation."
 
 ## Synonyms
-- [Estimate](/en/post/estimate/)
-- [Guess](/en/post/guess/)
+- [Estimate](/post/estimate/)
+- [Guess](/post/guess/)
 - Approximation
-- [Close](/en/post/close/) approximation
-- [Rough](/en/post/rough/) [estimate](/en/post/estimate/)
-- [Near](/en/post/near/) [value](/en/post/value/)
+- [Close](/post/close/) approximation
+- [Rough](/post/rough/) [estimate](/post/estimate/)
+- [Near](/post/near/) [value](/post/value/)

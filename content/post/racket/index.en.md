@@ -7,32 +7,32 @@ description = '[ˈrækit] n.球拍'
 keywords = ['ai words', 'racket']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəˈkeɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [tool](/en/post/tool/) [with](/en/post/with/) [a](/en/post/a/) [handle](/en/post/handle/) [and](/en/post/and/) strings [or](/en/post/or/) blades, [used](/en/post/used/) [for](/en/post/for/) hitting balls [in](/en/post/in/) [various](/en/post/various/) games, [such](/en/post/such/) [as](/en/post/as/) [tennis](/en/post/tennis/) [or](/en/post/or/) [badminton](/en/post/badminton/).
-2. An [illegal](/en/post/illegal/) [or](/en/post/or/) dishonest [scheme](/en/post/scheme/) [or](/en/post/or/) [group](/en/post/group/) involved [in](/en/post/in/) extortion [or](/en/post/or/) fraud, [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) exploits [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/) [or](/en/post/or/) [weakness](/en/post/weakness/).
-3. [A](/en/post/a/) [loud](/en/post/loud/), raucous [noise](/en/post/noise/) [or](/en/post/or/) disturbance, [often](/en/post/often/) associated [with](/en/post/with/) sports [or](/en/post/or/) gambling.
+### [Noun](/post/noun/)
+1. [A](/post/a/) [tool](/post/tool/) [with](/post/with/) [a](/post/a/) [handle](/post/handle/) [and](/post/and/) strings [or](/post/or/) blades, [used](/post/used/) [for](/post/for/) hitting balls [in](/post/in/) [various](/post/various/) games, [such](/post/such/) [as](/post/as/) [tennis](/post/tennis/) [or](/post/or/) [badminton](/post/badminton/).
+2. An [illegal](/post/illegal/) [or](/post/or/) dishonest [scheme](/post/scheme/) [or](/post/or/) [group](/post/group/) involved [in](/post/in/) extortion [or](/post/or/) fraud, [especially](/post/especially/) [one](/post/one/) [that](/post/that/) exploits [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/) [or](/post/or/) [weakness](/post/weakness/).
+3. [A](/post/a/) [loud](/post/loud/), raucous [noise](/post/noise/) [or](/post/or/) disturbance, [often](/post/often/) associated [with](/post/with/) sports [or](/post/or/) gambling.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [strike](/en/post/strike/) [a](/en/post/a/) [ball](/en/post/ball/) [with](/en/post/with/) [a](/en/post/a/) [racket](/en/post/racket/), [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [sport](/en/post/sport/).
-2. [To](/en/post/to/) [operate](/en/post/operate/) [or](/en/post/or/) manipulate [something](/en/post/something/), [often](/en/post/often/) noisily, [in](/en/post/in/) [a](/en/post/a/) [clumsy](/en/post/clumsy/) [or](/en/post/or/) haphazard [manner](/en/post/manner/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [strike](/post/strike/) [a](/post/a/) [ball](/post/ball/) [with](/post/with/) [a](/post/a/) [racket](/post/racket/), [as](/post/as/) [in](/post/in/) [a](/post/a/) [sport](/post/sport/).
+2. [To](/post/to/) [operate](/post/operate/) [or](/post/or/) manipulate [something](/post/something/), [often](/post/often/) noisily, [in](/post/in/) [a](/post/a/) [clumsy](/post/clumsy/) [or](/post/or/) haphazard [manner](/post/manner/).
 
 ## Phrases
-- "[Play](/en/post/play/) [tennis](/en/post/tennis/) [with](/en/post/with/) [a](/en/post/a/) [racket](/en/post/racket/)"
-- "[Get](/en/post/get/) [a](/en/post/a/) [racket](/en/post/racket/) [for](/en/post/for/) Christmas"
-- "[The](/en/post/the/) [racket](/en/post/racket/) [outside](/en/post/outside/) was [unbearable](/en/post/unbearable/)"
+- "[Play](/post/play/) [tennis](/post/tennis/) [with](/post/with/) [a](/post/a/) [racket](/post/racket/)"
+- "[Get](/post/get/) [a](/post/a/) [racket](/post/racket/) [for](/post/for/) Christmas"
+- "[The](/post/the/) [racket](/post/racket/) [outside](/post/outside/) was [unbearable](/post/unbearable/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "She's an [excellent](/en/post/excellent/) [player](/en/post/player/), [even](/en/post/even/) [with](/en/post/with/) [just](/en/post/just/) [a](/en/post/a/) [wooden](/en/post/wooden/) [tennis](/en/post/tennis/) [racket](/en/post/racket/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) [quiet](/en/post/quiet/) [down](/en/post/down/) [the](/en/post/the/) [racket](/en/post/racket/) [in](/en/post/in/) [the](/en/post/the/) [construction](/en/post/construction/) [site](/en/post/site/)."
-- **[Illegal](/en/post/illegal/) [racket](/en/post/racket/)**: "[The](/en/post/the/) [police](/en/post/police/) dismantled [a](/en/post/a/) [money](/en/post/money/) laundering [racket](/en/post/racket/) [run](/en/post/run/) [by](/en/post/by/) organized [crime](/en/post/crime/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "She's an [excellent](/post/excellent/) [player](/post/player/), [even](/post/even/) [with](/post/with/) [just](/post/just/) [a](/post/a/) [wooden](/post/wooden/) [tennis](/post/tennis/) [racket](/post/racket/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) tried [to](/post/to/) [quiet](/post/quiet/) [down](/post/down/) [the](/post/the/) [racket](/post/racket/) [in](/post/in/) [the](/post/the/) [construction](/post/construction/) [site](/post/site/)."
+- **[Illegal](/post/illegal/) [racket](/post/racket/)**: "[The](/post/the/) [police](/post/police/) dismantled [a](/post/a/) [money](/post/money/) laundering [racket](/post/racket/) [run](/post/run/) [by](/post/by/) organized [crime](/post/crime/)."
 
 ## Synonyms
-- [Bat](/en/post/bat/) ([in](/en/post/in/) sports)
-- [Club](/en/post/club/) ([in](/en/post/in/) sports)
+- [Bat](/post/bat/) ([in](/post/in/) sports)
+- [Club](/post/club/) ([in](/post/in/) sports)
 - Grub (informal, slang)
--噪音 (Chinese; literally, "noise-making [thing](/en/post/thing/)")
-- Scam ([when](/en/post/when/) referring [to](/en/post/to/) an [illegal](/en/post/illegal/) [scheme](/en/post/scheme/))
+-噪音 (Chinese; literally, "noise-making [thing](/post/thing/)")
+- Scam ([when](/post/when/) referring [to](/post/to/) an [illegal](/post/illegal/) [scheme](/post/scheme/))

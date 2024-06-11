@@ -7,40 +7,40 @@ description = '[riˈsep∫ən] a.接待；招待会；接受'
 keywords = ['ai words', 'reception']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /reɪˈsepʃ(ə)n/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Reception](/en/post/reception/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) receiving guests [or](/en/post/or/) visitors, [especially](/en/post/especially/) [at](/en/post/at/) an [event](/en/post/event/) [or](/en/post/or/) gathering. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) guests arrived [at](/en/post/at/) [the](/en/post/the/) [reception](/en/post/reception/), admiring [the](/en/post/the/) elegant decor."
-2. **[A](/en/post/a/) perception [or](/en/post/or/) [impression](/en/post/impression/)**: [The](/en/post/the/) [way](/en/post/way/) [something](/en/post/something/) is received [or](/en/post/or/) perceived [by](/en/post/by/) others. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) CEO's [reception](/en/post/reception/) was mixed [among](/en/post/among/) [the](/en/post/the/) employees."
-3. (Telecommunications) [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) receiving signals [or](/en/post/or/) [data](/en/post/data/) [from](/en/post/from/) [a](/en/post/a/) transmitter. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) Wi-Fi [reception](/en/post/reception/) [in](/en/post/in/) [the](/en/post/the/) [hotel](/en/post/hotel/) was [weak](/en/post/weak/)."
+### [Noun](/post/noun/)
+1. **[Reception](/post/reception/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) receiving guests [or](/post/or/) visitors, [especially](/post/especially/) [at](/post/at/) an [event](/post/event/) [or](/post/or/) gathering. [For](/post/for/) [example](/post/example/): "[The](/post/the/) guests arrived [at](/post/at/) [the](/post/the/) [reception](/post/reception/), admiring [the](/post/the/) elegant decor."
+2. **[A](/post/a/) perception [or](/post/or/) [impression](/post/impression/)**: [The](/post/the/) [way](/post/way/) [something](/post/something/) is received [or](/post/or/) perceived [by](/post/by/) others. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) CEO's [reception](/post/reception/) was mixed [among](/post/among/) [the](/post/the/) employees."
+3. (Telecommunications) [The](/post/the/) [process](/post/process/) [of](/post/of/) receiving signals [or](/post/or/) [data](/post/data/) [from](/post/from/) [a](/post/a/) transmitter. [For](/post/for/) [example](/post/example/): "[The](/post/the/) Wi-Fi [reception](/post/reception/) [in](/post/in/) [the](/post/the/) [hotel](/post/hotel/) was [weak](/post/weak/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [welcome](/en/post/welcome/) [or](/en/post/or/) [greet](/en/post/greet/) [someone](/en/post/someone/) formally [or](/en/post/or/) informally. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [host](/en/post/host/) warmly received [the](/en/post/the/) dignitaries [at](/en/post/at/) [the](/en/post/the/) [entrance](/en/post/entrance/)."
-2. [To](/en/post/to/) [accept](/en/post/accept/) [or](/en/post/or/) acknowledge [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [enthusiasm](/en/post/enthusiasm/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) received [the](/en/post/the/) [award](/en/post/award/) [with](/en/post/with/) [a](/en/post/a/) [big](/en/post/big/) [smile](/en/post/smile/) [on](/en/post/on/) [her](/en/post/her/) [face](/en/post/face/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [welcome](/post/welcome/) [or](/post/or/) [greet](/post/greet/) [someone](/post/someone/) formally [or](/post/or/) informally. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [host](/post/host/) warmly received [the](/post/the/) dignitaries [at](/post/at/) [the](/post/the/) [entrance](/post/entrance/)."
+2. [To](/post/to/) [accept](/post/accept/) [or](/post/or/) acknowledge [something](/post/something/), [often](/post/often/) [with](/post/with/) [enthusiasm](/post/enthusiasm/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) received [the](/post/the/) [award](/post/award/) [with](/post/with/) [a](/post/a/) [big](/post/big/) [smile](/post/smile/) [on](/post/on/) [her](/post/her/) [face](/post/face/)."
 
-### [Adjective](/en/post/adjective/)
-1. Welcoming [or](/en/post/or/) [friendly](/en/post/friendly/): [The](/en/post/the/) [atmosphere](/en/post/atmosphere/) [or](/en/post/or/) [style](/en/post/style/) [of](/en/post/of/) [a](/en/post/a/) [reception](/en/post/reception/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [hotel](/en/post/hotel/) had [a](/en/post/a/) cozy [reception](/en/post/reception/) [area](/en/post/area/) [for](/en/post/for/) guests."
-2. Informal: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [or](/en/post/or/) receiving [something](/en/post/something/) [without](/en/post/without/) [much](/en/post/much/) [ceremony](/en/post/ceremony/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [casual](/en/post/casual/) [reception](/en/post/reception/) followed [the](/en/post/the/) [ceremony](/en/post/ceremony/)."
+### [Adjective](/post/adjective/)
+1. Welcoming [or](/post/or/) [friendly](/post/friendly/): [The](/post/the/) [atmosphere](/post/atmosphere/) [or](/post/or/) [style](/post/style/) [of](/post/of/) [a](/post/a/) [reception](/post/reception/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [hotel](/post/hotel/) had [a](/post/a/) cozy [reception](/post/reception/) [area](/post/area/) [for](/post/for/) guests."
+2. Informal: [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [or](/post/or/) receiving [something](/post/something/) [without](/post/without/) [much](/post/much/) [ceremony](/post/ceremony/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [casual](/post/casual/) [reception](/post/reception/) followed [the](/post/the/) [ceremony](/post/ceremony/)."
 
 ## Phrases
-- "[Give](/en/post/give/) [a](/en/post/a/) [good](/en/post/good/) [reception](/en/post/reception/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) welcoming [impression](/en/post/impression/) [or](/en/post/or/) [handle](/en/post/handle/) [something](/en/post/something/) [well](/en/post/well/).
-- "[Open](/en/post/open/) [reception](/en/post/reception/)" indicates [that](/en/post/that/) [anyone](/en/post/anyone/) is [welcome](/en/post/welcome/) [to](/en/post/to/) [attend](/en/post/attend/).
-- "[Lack](/en/post/lack/) [of](/en/post/of/) [reception](/en/post/reception/)" refers [to](/en/post/to/) [poor](/en/post/poor/) [signal](/en/post/signal/) [strength](/en/post/strength/) [or](/en/post/or/) [difficulty](/en/post/difficulty/) [in](/en/post/in/) connecting.
+- "[Give](/post/give/) [a](/post/a/) [good](/post/good/) [reception](/post/reception/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [a](/post/a/) welcoming [impression](/post/impression/) [or](/post/or/) [handle](/post/handle/) [something](/post/something/) [well](/post/well/).
+- "[Open](/post/open/) [reception](/post/reception/)" indicates [that](/post/that/) [anyone](/post/anyone/) is [welcome](/post/welcome/) [to](/post/to/) [attend](/post/attend/).
+- "[Lack](/post/lack/) [of](/post/of/) [reception](/post/reception/)" refers [to](/post/to/) [poor](/post/poor/) [signal](/post/signal/) [strength](/post/strength/) [or](/post/or/) [difficulty](/post/difficulty/) [in](/post/in/) connecting.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [reception](/en/post/reception/) [committee](/en/post/committee/) was waiting [at](/en/post/at/) [the](/en/post/the/) [airport](/en/post/airport/) [to](/en/post/to/) [greet](/en/post/greet/) [the](/en/post/the/) arriving dignitaries."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) guests were seated [in](/en/post/in/) [the](/en/post/the/) [reception](/en/post/reception/) [area](/en/post/area/), chatting amiably [before](/en/post/before/) [the](/en/post/the/) [dinner](/en/post/dinner/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [conference](/en/post/conference/) organizers aimed [for](/en/post/for/) [a](/en/post/a/) [professional](/en/post/professional/) [yet](/en/post/yet/) [friendly](/en/post/friendly/) [reception](/en/post/reception/) [for](/en/post/for/) [all](/en/post/all/) attendees."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [reception](/post/reception/) [committee](/post/committee/) was waiting [at](/post/at/) [the](/post/the/) [airport](/post/airport/) [to](/post/to/) [greet](/post/greet/) [the](/post/the/) arriving dignitaries."
+- **[Verb](/post/verb/)**: "[The](/post/the/) guests were seated [in](/post/in/) [the](/post/the/) [reception](/post/reception/) [area](/post/area/), chatting amiably [before](/post/before/) [the](/post/the/) [dinner](/post/dinner/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [conference](/post/conference/) organizers aimed [for](/post/for/) [a](/post/a/) [professional](/post/professional/) [yet](/post/yet/) [friendly](/post/friendly/) [reception](/post/reception/) [for](/post/for/) [all](/post/all/) attendees."
 
 ## Synonyms
-- [Greeting](/en/post/greeting/)
-- [Welcome](/en/post/welcome/)
+- [Greeting](/post/greeting/)
+- [Welcome](/post/welcome/)
 - Entree
-- [Welcome](/en/post/welcome/) [party](/en/post/party/)
+- [Welcome](/post/welcome/) [party](/post/party/)
 - Gathering
-- Gathering [place](/en/post/place/)
-- [Welcome](/en/post/welcome/) [reception](/en/post/reception/)
+- Gathering [place](/post/place/)
+- [Welcome](/post/welcome/) [reception](/post/reception/)
 - Fete
-- [Social](/en/post/social/) [event](/en/post/event/)
+- [Social](/post/social/) [event](/post/event/)

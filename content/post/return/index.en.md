@@ -7,45 +7,45 @@ description = '[riˈtəːn] vi.&n.回来，返回'
 keywords = ['ai words', 'return']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈtɜːrn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [something](/en/post/something/) [back](/en/post/back/) [to](/en/post/to/) [its](/en/post/its/) [owner](/en/post/owner/) [or](/en/post/or/) [original](/en/post/original/) [place](/en/post/place/) [after](/en/post/after/) [being](/en/post/being/) borrowed, purchased, [or](/en/post/or/) [away](/en/post/away/) [for](/en/post/for/) [a](/en/post/a/) [period](/en/post/period/): *[The](/en/post/the/) [library](/en/post/library/) [book](/en/post/book/) was [due](/en/post/due/) [for](/en/post/for/) [return](/en/post/return/) [next](/en/post/next/) [week](/en/post/week/).*
-2. [A](/en/post/a/) [return](/en/post/return/) [journey](/en/post/journey/) [or](/en/post/or/) [trip](/en/post/trip/): *[Many](/en/post/many/) tourists opt [for](/en/post/for/) [a](/en/post/a/) [return](/en/post/return/) [ticket](/en/post/ticket/) [to](/en/post/to/) [save](/en/post/save/) [money](/en/post/money/).*
-3. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) repaying [or](/en/post/or/) responding [to](/en/post/to/) [a](/en/post/a/) [request](/en/post/request/) [or](/en/post/or/) [action](/en/post/action/): *[Your](/en/post/your/) [help](/en/post/help/) was [greatly](/en/post/greatly/) appreciated; I'll [return](/en/post/return/) [the](/en/post/the/) favor [soon](/en/post/soon/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [something](/post/something/) [back](/post/back/) [to](/post/to/) [its](/post/its/) [owner](/post/owner/) [or](/post/or/) [original](/post/original/) [place](/post/place/) [after](/post/after/) [being](/post/being/) borrowed, purchased, [or](/post/or/) [away](/post/away/) [for](/post/for/) [a](/post/a/) [period](/post/period/): *[The](/post/the/) [library](/post/library/) [book](/post/book/) was [due](/post/due/) [for](/post/for/) [return](/post/return/) [next](/post/next/) [week](/post/week/).*
+2. [A](/post/a/) [return](/post/return/) [journey](/post/journey/) [or](/post/or/) [trip](/post/trip/): *[Many](/post/many/) tourists opt [for](/post/for/) [a](/post/a/) [return](/post/return/) [ticket](/post/ticket/) [to](/post/to/) [save](/post/save/) [money](/post/money/).*
+3. [The](/post/the/) [act](/post/act/) [of](/post/of/) repaying [or](/post/or/) responding [to](/post/to/) [a](/post/a/) [request](/post/request/) [or](/post/or/) [action](/post/action/): *[Your](/post/your/) [help](/post/help/) was [greatly](/post/greatly/) appreciated; I'll [return](/post/return/) [the](/post/the/) favor [soon](/post/soon/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [bring](/en/post/bring/) [something](/en/post/something/) [or](/en/post/or/) [oneself](/en/post/oneself/) [back](/en/post/back/) [to](/en/post/to/) [a](/en/post/a/) [previous](/en/post/previous/) [location](/en/post/location/) [or](/en/post/or/) [owner](/en/post/owner/): *[She](/en/post/she/) returned [home](/en/post/home/) [from](/en/post/from/) [her](/en/post/her/) [vacation](/en/post/vacation/).*
-2. [To](/en/post/to/) [give](/en/post/give/) [back](/en/post/back/), [send](/en/post/send/) [back](/en/post/back/), [or](/en/post/or/) [yield](/en/post/yield/): *[The](/en/post/the/) [company](/en/post/company/) [will](/en/post/will/) [return](/en/post/return/) [the](/en/post/the/) refund [upon](/en/post/upon/) [inspection](/en/post/inspection/).*
-3. [To](/en/post/to/) [come](/en/post/come/) [or](/en/post/or/) [go](/en/post/go/) [back](/en/post/back/) [to](/en/post/to/) [a](/en/post/a/) [previous](/en/post/previous/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/): *[The](/en/post/the/) [stock](/en/post/stock/) [market](/en/post/market/) returned [to](/en/post/to/) [its](/en/post/its/) [previous](/en/post/previous/) levels.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [bring](/post/bring/) [something](/post/something/) [or](/post/or/) [oneself](/post/oneself/) [back](/post/back/) [to](/post/to/) [a](/post/a/) [previous](/post/previous/) [location](/post/location/) [or](/post/or/) [owner](/post/owner/): *[She](/post/she/) returned [home](/post/home/) [from](/post/from/) [her](/post/her/) [vacation](/post/vacation/).*
+2. [To](/post/to/) [give](/post/give/) [back](/post/back/), [send](/post/send/) [back](/post/back/), [or](/post/or/) [yield](/post/yield/): *[The](/post/the/) [company](/post/company/) [will](/post/will/) [return](/post/return/) [the](/post/the/) refund [upon](/post/upon/) [inspection](/post/inspection/).*
+3. [To](/post/to/) [come](/post/come/) [or](/post/or/) [go](/post/go/) [back](/post/back/) [to](/post/to/) [a](/post/a/) [previous](/post/previous/) [state](/post/state/) [or](/post/or/) [condition](/post/condition/): *[The](/post/the/) [stock](/post/stock/) [market](/post/market/) returned [to](/post/to/) [its](/post/its/) [previous](/post/previous/) levels.*
 
-### [Adjective](/en/post/adjective/)
-1. Coming [or](/en/post/or/) going [back](/en/post/back/): *[The](/en/post/the/) [return](/en/post/return/) [flight](/en/post/flight/) leaves [at](/en/post/at/) 6 PM.*
-2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [return](/en/post/return/) [trip](/en/post/trip/) [or](/en/post/or/) [journey](/en/post/journey/): *[The](/en/post/the/) [return](/en/post/return/) [fare](/en/post/fare/) is cheaper [than](/en/post/than/) [the](/en/post/the/) one-way.*
+### [Adjective](/post/adjective/)
+1. Coming [or](/post/or/) going [back](/post/back/): *[The](/post/the/) [return](/post/return/) [flight](/post/flight/) leaves [at](/post/at/) 6 PM.*
+2. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [return](/post/return/) [trip](/post/trip/) [or](/post/or/) [journey](/post/journey/): *[The](/post/the/) [return](/post/return/) [fare](/post/fare/) is cheaper [than](/post/than/) [the](/post/the/) one-way.*
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) returning [manner](/en/post/manner/): *[He](/en/post/he/) returned [quickly](/en/post/quickly/) [to](/en/post/to/) [his](/en/post/his/) [seat](/en/post/seat/).*
-2. [Back](/en/post/back/) [to](/en/post/to/) [a](/en/post/a/) starting [point](/en/post/point/) [or](/en/post/or/) [origin](/en/post/origin/): *[The](/en/post/the/) [ball](/en/post/ball/) returned [to](/en/post/to/) [its](/en/post/its/) [original](/en/post/original/) [position](/en/post/position/).*
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) returning [manner](/post/manner/): *[He](/post/he/) returned [quickly](/post/quickly/) [to](/post/to/) [his](/post/his/) [seat](/post/seat/).*
+2. [Back](/post/back/) [to](/post/to/) [a](/post/a/) starting [point](/post/point/) [or](/post/or/) [origin](/post/origin/): *[The](/post/the/) [ball](/post/ball/) returned [to](/post/to/) [its](/post/its/) [original](/post/original/) [position](/post/position/).*
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [return](/en/post/return/) [visit](/en/post/visit/)" [means](/en/post/means/) [to](/en/post/to/) [come](/en/post/come/) [back](/en/post/back/) [to](/en/post/to/) [a](/en/post/a/) [place](/en/post/place/) [again](/en/post/again/).
-- "[Return](/en/post/return/) [policy](/en/post/policy/)" refers [to](/en/post/to/) [a](/en/post/a/) store's guidelines [for](/en/post/for/) exchanging [or](/en/post/or/) refunding items.
-- "[Return](/en/post/return/) [on](/en/post/on/) [investment](/en/post/investment/)" (ROI) is [a](/en/post/a/) [financial](/en/post/financial/) [measure](/en/post/measure/) [of](/en/post/of/) [how](/en/post/how/) [much](/en/post/much/) [profit](/en/post/profit/) [a](/en/post/a/) [venture](/en/post/venture/) generates.
+- "[Make](/post/make/) [a](/post/a/) [return](/post/return/) [visit](/post/visit/)" [means](/post/means/) [to](/post/to/) [come](/post/come/) [back](/post/back/) [to](/post/to/) [a](/post/a/) [place](/post/place/) [again](/post/again/).
+- "[Return](/post/return/) [policy](/post/policy/)" refers [to](/post/to/) [a](/post/a/) store's guidelines [for](/post/for/) exchanging [or](/post/or/) refunding items.
+- "[Return](/post/return/) [on](/post/on/) [investment](/post/investment/)" (ROI) is [a](/post/a/) [financial](/post/financial/) [measure](/post/measure/) [of](/post/of/) [how](/post/how/) [much](/post/much/) [profit](/post/profit/) [a](/post/a/) [venture](/post/venture/) generates.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [After](/en/post/after/) [the](/en/post/the/) marathon, [he](/en/post/he/) felt [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [relief](/en/post/relief/) [when](/en/post/when/) [he](/en/post/he/) [finally](/en/post/finally/) returned [to](/en/post/to/) [his](/en/post/his/) [normal](/en/post/normal/) [routine](/en/post/routine/).
-- **[Verb](/en/post/verb/)**: [She](/en/post/she/) returned [the](/en/post/the/) borrowed [car](/en/post/car/) [to](/en/post/to/) [the](/en/post/the/) rental [agency](/en/post/agency/) promptly.
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [return](/en/post/return/) [flight](/en/post/flight/) was smoother [than](/en/post/than/) [the](/en/post/the/) outbound [journey](/en/post/journey/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [After](/post/after/) [the](/post/the/) marathon, [he](/post/he/) felt [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [relief](/post/relief/) [when](/post/when/) [he](/post/he/) [finally](/post/finally/) returned [to](/post/to/) [his](/post/his/) [normal](/post/normal/) [routine](/post/routine/).
+- **[Verb](/post/verb/)**: [She](/post/she/) returned [the](/post/the/) borrowed [car](/post/car/) [to](/post/to/) [the](/post/the/) rental [agency](/post/agency/) promptly.
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [return](/post/return/) [flight](/post/flight/) was smoother [than](/post/than/) [the](/post/the/) outbound [journey](/post/journey/).
 
 ## Synonyms
-- [Come](/en/post/come/) [back](/en/post/back/)
+- [Come](/post/come/) [back](/post/back/)
 - Revert
 - Repay
-- [Give](/en/post/give/) [back](/en/post/back/)
-- [Yield](/en/post/yield/)
-- [Circulate](/en/post/circulate/)
+- [Give](/post/give/) [back](/post/back/)
+- [Yield](/post/yield/)
+- [Circulate](/post/circulate/)
 - Reciprocate
-- Revert [to](/en/post/to/)
-- [Send](/en/post/send/) [forth](/en/post/forth/) [again](/en/post/again/)
+- Revert [to](/post/to/)
+- [Send](/post/send/) [forth](/post/forth/) [again](/post/again/)

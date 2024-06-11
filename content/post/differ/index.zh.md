@@ -12,22 +12,22 @@ keywords = ['ai words', 'differ']
 
 ## 释义
 - **动词**:
-  - 表示不同，相异。例如: "[Their](/post/their/) opinions [differ](/post/differ/) [on](/post/on/) [this](/post/this/) [matter](/post/matter/)."
-  - 比较，对比。例如: "Let's [differ](/post/differ/) [the](/post/the/) [two](/post/two/) proposals [to](/post/to/) [see](/post/see/) [which](/post/which/) [one](/post/one/) is [better](/post/better/)."
-  - 不同意，持异议。例如: "[We](/post/we/) differed [with](/post/with/) [their](/post/their/) [decision](/post/decision/) [and](/post/and/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [different](/post/different/) [approach](/post/approach/)."
+  - 表示不同，相异。例如: "[Their](/zh/post/their/) opinions [differ](/zh/post/differ/) [on](/zh/post/on/) [this](/zh/post/this/) [matter](/zh/post/matter/)."
+  - 比较，对比。例如: "Let's [differ](/zh/post/differ/) [the](/zh/post/the/) [two](/zh/post/two/) proposals [to](/zh/post/to/) [see](/zh/post/see/) [which](/zh/post/which/) [one](/zh/post/one/) is [better](/zh/post/better/)."
+  - 不同意，持异议。例如: "[We](/zh/post/we/) differed [with](/zh/post/with/) [their](/zh/post/their/) [decision](/zh/post/decision/) [and](/zh/post/and/) decided [to](/zh/post/to/) [take](/zh/post/take/) [a](/zh/post/a/) [different](/zh/post/different/) [approach](/zh/post/approach/)."
 
 ## 短语
-- "[to](/post/to/) [differ](/post/differ/) [from](/post/from/)" 意为与...不同。例如: "[My](/post/my/) [opinion](/post/opinion/) differs [from](/post/from/) [yours](/post/yours/) [on](/post/on/) [this](/post/this/) [issue](/post/issue/)."
-- "[in](/post/in/) [difference](/post/difference/)" 表示差异或区别。例如: "[There](/post/there/) is [a](/post/a/) [significant](/post/significant/) [difference](/post/difference/) [in](/post/in/) [their](/post/their/) approaches."
+- "[to](/zh/post/to/) [differ](/zh/post/differ/) [from](/zh/post/from/)" 意为与...不同。例如: "[My](/zh/post/my/) [opinion](/zh/post/opinion/) differs [from](/zh/post/from/) [yours](/zh/post/yours/) [on](/zh/post/on/) [this](/zh/post/this/) [issue](/zh/post/issue/)."
+- "[in](/zh/post/in/) [difference](/zh/post/difference/)" 表示差异或区别。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [significant](/zh/post/significant/) [difference](/zh/post/difference/) [in](/zh/post/in/) [their](/zh/post/their/) approaches."
 
 ## 例句
-- "[The](/post/the/) [climate](/post/climate/) [in](/post/in/) [the](/post/the/) [north](/post/north/) [and](/post/and/) [south](/post/south/) [of](/post/of/) [the](/post/the/) [country](/post/country/) differs [greatly](/post/greatly/)."
-- "[We](/post/we/) [need](/post/need/) [to](/post/to/) [differ](/post/differ/) [the](/post/the/) [plan](/post/plan/) based [on](/post/on/) [the](/post/the/) [new](/post/new/) [information](/post/information/) [we](/post/we/) received."
-- "[They](/post/they/) differed [with](/post/with/) [their](/post/their/) colleagues [on](/post/on/) [the](/post/the/) project's [direction](/post/direction/)."
+- "[The](/zh/post/the/) [climate](/zh/post/climate/) [in](/zh/post/in/) [the](/zh/post/the/) [north](/zh/post/north/) [and](/zh/post/and/) [south](/zh/post/south/) [of](/zh/post/of/) [the](/zh/post/the/) [country](/zh/post/country/) differs [greatly](/zh/post/greatly/)."
+- "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [differ](/zh/post/differ/) [the](/zh/post/the/) [plan](/zh/post/plan/) based [on](/zh/post/on/) [the](/zh/post/the/) [new](/zh/post/new/) [information](/zh/post/information/) [we](/zh/post/we/) received."
+- "[They](/zh/post/they/) differed [with](/zh/post/with/) [their](/zh/post/their/) colleagues [on](/zh/post/on/) [the](/zh/post/the/) project's [direction](/zh/post/direction/)."
 
 ## 同义词
-- [vary](/post/vary/)
-- [disagree](/post/disagree/)
-- [contrast](/post/contrast/)
-- [distinguish](/post/distinguish/)
+- [vary](/zh/post/vary/)
+- [disagree](/zh/post/disagree/)
+- [contrast](/zh/post/contrast/)
+- [distinguish](/zh/post/distinguish/)
 - deviate

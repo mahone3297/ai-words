@@ -11,21 +11,21 @@ keywords = ['ai words', 'fairly']
 /fərˈli/
 
 ## 释义
-- **副词**: 相当，还算，相当程度上。表示某种程度的认可或评估。例如: "[He](/post/he/) did [fairly](/post/fairly/) [well](/post/well/) [on](/post/on/) [the](/post/the/) [exam](/post/exam/)."
-- **形容词**: 公正的，公平的。例如: "[The](/post/the/) [judge](/post/judge/) was known [for](/post/for/) [his](/post/his/) [fair](/post/fair/) decisions."
+- **副词**: 相当，还算，相当程度上。表示某种程度的认可或评估。例如: "[He](/zh/post/he/) did [fairly](/zh/post/fairly/) [well](/zh/post/well/) [on](/zh/post/on/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
+- **形容词**: 公正的，公平的。例如: "[The](/zh/post/the/) [judge](/zh/post/judge/) was known [for](/zh/post/for/) [his](/zh/post/his/) [fair](/zh/post/fair/) decisions."
 
 ## 短语
-- "[Fairly](/post/fairly/) [recently](/post/recently/)" 意为最近，不久前。
-- "[Fairly](/post/fairly/) [certain](/post/certain/)" 表示相当确定。
-- "[Treat](/post/treat/) [someone](/post/someone/) [fairly](/post/fairly/)" 意为公正对待某人。
+- "[Fairly](/zh/post/fairly/) [recently](/zh/post/recently/)" 意为最近，不久前。
+- "[Fairly](/zh/post/fairly/) [certain](/zh/post/certain/)" 表示相当确定。
+- "[Treat](/zh/post/treat/) [someone](/zh/post/someone/) [fairly](/zh/post/fairly/)" 意为公正对待某人。
 
 ## 例句
-- 副词: "[She](/post/she/) speaks English [fairly](/post/fairly/) fluently."
-- 形容词: "[The](/post/the/) [company](/post/company/) tries [to](/post/to/) [treat](/post/treat/) [all](/post/all/) employees [fairly](/post/fairly/)."
+- 副词: "[She](/zh/post/she/) speaks English [fairly](/zh/post/fairly/) fluently."
+- 形容词: "[The](/zh/post/the/) [company](/zh/post/company/) tries [to](/zh/post/to/) [treat](/zh/post/treat/) [all](/zh/post/all/) employees [fairly](/zh/post/fairly/)."
 
 ## 同义词
-- [Rather](/post/rather/)
-- [Quite](/post/quite/)
-- [To](/post/to/) [some](/post/some/) [extent](/post/extent/)
-- [Somewhat](/post/somewhat/)
+- [Rather](/zh/post/rather/)
+- [Quite](/zh/post/quite/)
+- [To](/zh/post/to/) [some](/zh/post/some/) [extent](/zh/post/extent/)
+- [Somewhat](/zh/post/somewhat/)
 - Decently

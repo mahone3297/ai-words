@@ -12,27 +12,27 @@ keywords = ['ai words', 'stone']
 
 ## 释义
 - **名词**:
-   - 硬石，岩石。例如: "[The](/post/the/) [statue](/post/statue/) was carved [from](/post/from/) [a](/post/a/) [single](/post/single/) [block](/post/block/) [of](/post/of/) [stone](/post/stone/)."
-   - 石头，鹅卵石。例如: "[The](/post/the/) [child](/post/child/) was playing [with](/post/with/) [small](/post/small/) stones [in](/post/in/) [the](/post/the/) [garden](/post/garden/)."
-   - 钻石（珠宝）。例如: "[She](/post/she/) wore [a](/post/a/) [beautiful](/post/beautiful/) [diamond](/post/diamond/) [ring](/post/ring/) [on](/post/on/) [her](/post/her/) [finger](/post/finger/)."
-   - (某些单位)磅（用于某些国家的体重单位）。例如: "[He](/post/he/) weighs [in](/post/in/) [at](/post/at/) 14 [stone](/post/stone/)."
+   - 硬石，岩石。例如: "[The](/zh/post/the/) [statue](/zh/post/statue/) was carved [from](/zh/post/from/) [a](/zh/post/a/) [single](/zh/post/single/) [block](/zh/post/block/) [of](/zh/post/of/) [stone](/zh/post/stone/)."
+   - 石头，鹅卵石。例如: "[The](/zh/post/the/) [child](/zh/post/child/) was playing [with](/zh/post/with/) [small](/zh/post/small/) stones [in](/zh/post/in/) [the](/zh/post/the/) [garden](/zh/post/garden/)."
+   - 钻石（珠宝）。例如: "[She](/zh/post/she/) wore [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [diamond](/zh/post/diamond/) [ring](/zh/post/ring/) [on](/zh/post/on/) [her](/zh/post/her/) [finger](/zh/post/finger/)."
+   - (某些单位)磅（用于某些国家的体重单位）。例如: "[He](/zh/post/he/) weighs [in](/zh/post/in/) [at](/zh/post/at/) 14 [stone](/zh/post/stone/)."
 
 - **形容词**:
-   - 坚硬如石的。例如: "[The](/post/the/) [ground](/post/ground/) was frozen [solid](/post/solid/), [as](/post/as/) [hard](/post/hard/) [as](/post/as/) [stone](/post/stone/)."
-   - 不可改变的，固定的。例如: "[Their](/post/their/) [decision](/post/decision/) was [set](/post/set/) [in](/post/in/) [stone](/post/stone/); [there](/post/there/) was [no](/post/no/) changing [it](/post/it/)."
+   - 坚硬如石的。例如: "[The](/zh/post/the/) [ground](/zh/post/ground/) was frozen [solid](/zh/post/solid/), [as](/zh/post/as/) [hard](/zh/post/hard/) [as](/zh/post/as/) [stone](/zh/post/stone/)."
+   - 不可改变的，固定的。例如: "[Their](/zh/post/their/) [decision](/zh/post/decision/) was [set](/zh/post/set/) [in](/zh/post/in/) [stone](/zh/post/stone/); [there](/zh/post/there/) was [no](/zh/post/no/) changing [it](/zh/post/it/)."
 
 ## 短语
-- "[throw](/post/throw/) [a](/post/a/) [stone](/post/stone/)" 扔石头。
-- "[at](/post/at/) one's fingertips" (习语)手边的，容易得到的，例如: "[All](/post/all/) [the](/post/the/) [information](/post/information/) [he](/post/he/) needed was [at](/post/at/) [his](/post/his/) fingertips."
-- "[a](/post/a/) stone's [throw](/post/throw/) [away](/post/away/)" (习语)很近的地方，例如: "[The](/post/the/) [park](/post/park/) is [just](/post/just/) [a](/post/a/) stone's [throw](/post/throw/) [from](/post/from/) [my](/post/my/) [house](/post/house/)."
+- "[throw](/zh/post/throw/) [a](/zh/post/a/) [stone](/zh/post/stone/)" 扔石头。
+- "[at](/zh/post/at/) one's fingertips" (习语)手边的，容易得到的，例如: "[All](/zh/post/all/) [the](/zh/post/the/) [information](/zh/post/information/) [he](/zh/post/he/) needed was [at](/zh/post/at/) [his](/zh/post/his/) fingertips."
+- "[a](/zh/post/a/) stone's [throw](/zh/post/throw/) [away](/zh/post/away/)" (习语)很近的地方，例如: "[The](/zh/post/the/) [park](/zh/post/park/) is [just](/zh/post/just/) [a](/zh/post/a/) stone's [throw](/zh/post/throw/) [from](/zh/post/from/) [my](/zh/post/my/) [house](/zh/post/house/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [ancient](/post/ancient/) [castle](/post/castle/) walls were made [of](/post/of/) massive [stone](/post/stone/) blocks."
-- 形容词: "[The](/post/the/) [old](/post/old/) [well](/post/well/) had [a](/post/a/) [stone](/post/stone/) [cover](/post/cover/) [that](/post/that/) had been [there](/post/there/) [for](/post/for/) centuries."
+- 名词: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) [castle](/zh/post/castle/) walls were made [of](/zh/post/of/) massive [stone](/zh/post/stone/) blocks."
+- 形容词: "[The](/zh/post/the/) [old](/zh/post/old/) [well](/zh/post/well/) had [a](/zh/post/a/) [stone](/zh/post/stone/) [cover](/zh/post/cover/) [that](/zh/post/that/) had been [there](/zh/post/there/) [for](/zh/post/for/) centuries."
 
 ## 同义词
-- [rock](/post/rock/)
-- [pebble](/post/pebble/)
+- [rock](/zh/post/rock/)
+- [pebble](/zh/post/pebble/)
 - boulder
 - sedimentary
 - igneous

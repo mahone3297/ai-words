@@ -7,37 +7,37 @@ description = '[ˈpəːməntli] ad.永久/持久地'
 keywords = ['ai words', 'permanently']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /perˈmænəntli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) lasting [or](/en/post/or/) [permanent](/en/post/permanent/) [manner](/en/post/manner/); [without](/en/post/without/) [end](/en/post/end/) [or](/en/post/or/) [change](/en/post/change/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [decision](/en/post/decision/) was made [permanently](/en/post/permanently/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) permanence; lasting indefinitely. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [permanently](/en/post/permanently/) scarred [face](/en/post/face/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) lasting [or](/post/or/) [permanent](/post/permanent/) [manner](/post/manner/); [without](/post/without/) [end](/post/end/) [or](/post/or/) [change](/post/change/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [decision](/post/decision/) was made [permanently](/post/permanently/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) permanence; lasting indefinitely. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [permanently](/post/permanently/) scarred [face](/post/face/)."
 
 ## Phrases
-- "[Permanently](/en/post/permanently/) [settle](/en/post/settle/)" implies [a](/en/post/a/) long-term, irrevocable [arrangement](/en/post/arrangement/).
-- "[A](/en/post/a/) [permanently](/en/post/permanently/) fixed [smile](/en/post/smile/)" suggests [a](/en/post/a/) [constant](/en/post/constant/) [expression](/en/post/expression/).
-- "[Permanently](/en/post/permanently/) banned" [means](/en/post/means/) [a](/en/post/a/) prohibition [that](/en/post/that/) cannot [be](/en/post/be/) lifted.
+- "[Permanently](/post/permanently/) [settle](/post/settle/)" implies [a](/post/a/) long-term, irrevocable [arrangement](/post/arrangement/).
+- "[A](/post/a/) [permanently](/post/permanently/) fixed [smile](/post/smile/)" suggests [a](/post/a/) [constant](/post/constant/) [expression](/post/expression/).
+- "[Permanently](/post/permanently/) banned" [means](/post/means/) [a](/post/a/) prohibition [that](/post/that/) cannot [be](/post/be/) lifted.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) [will](/en/post/will/) [be](/en/post/be/) implemented [permanently](/en/post/permanently/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [monument](/en/post/monument/) stands [as](/en/post/as/) [a](/en/post/a/) [permanent](/en/post/permanent/) reminder [of](/en/post/of/) [their](/en/post/their/) [sacrifice](/en/post/sacrifice/)."
-- "[They](/en/post/they/) decided [to](/en/post/to/) [permanently](/en/post/permanently/) [close](/en/post/close/) [the](/en/post/the/) [old](/en/post/old/) [store](/en/post/store/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) [will](/post/will/) [be](/post/be/) implemented [permanently](/post/permanently/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [monument](/post/monument/) stands [as](/post/as/) [a](/post/a/) [permanent](/post/permanent/) reminder [of](/post/of/) [their](/post/their/) [sacrifice](/post/sacrifice/)."
+- "[They](/post/they/) decided [to](/post/to/) [permanently](/post/permanently/) [close](/post/close/) [the](/post/the/) [old](/post/old/) [store](/post/store/)."
 
 ## Synonyms
 - Indefinitely
-- [Permanently](/en/post/permanently/)
+- [Permanently](/post/permanently/)
 - Lasting
 - Eternal
 - Irreversible
 - Everlasting
-- [Constant](/en/post/constant/)
-- [Steady](/en/post/steady/)
+- [Constant](/post/constant/)
+- [Steady](/post/steady/)
 
 ## Antonyms
 - Temporarily
 - Transient
-- [Temporary](/en/post/temporary/)
+- [Temporary](/post/temporary/)
 - Evanescent
 - Fluctuating
 - Changing

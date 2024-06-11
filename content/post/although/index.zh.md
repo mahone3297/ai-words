@@ -11,19 +11,19 @@ keywords = ['ai words', 'although']
 /ðoʊθ/
 
 ## 释义
-- **连词**: 引导让步状语从句，表示虽然，尽管。例如: "[Although](/post/although/) [he](/post/he/) was [tired](/post/tired/), [he](/post/he/) continued working."
+- **连词**: 引导让步状语从句，表示虽然，尽管。例如: "[Although](/zh/post/although/) [he](/zh/post/he/) was [tired](/zh/post/tired/), [he](/zh/post/he/) continued working."
 
 ## 短语
-- "[Despite](/post/despite/) [the](/post/the/) [fact](/post/fact/) [that](/post/that/)" 可以与 [although](/post/although/) 替换使用，表示尽管某个事实。
-- "[Although](/post/although/) [not](/post/not/)" 表示虽然不，例如: "[Although](/post/although/) [not](/post/not/) [perfect](/post/perfect/), [the](/post/the/) [plan](/post/plan/) is [still](/post/still/) [acceptable](/post/acceptable/)."
+- "[Despite](/zh/post/despite/) [the](/zh/post/the/) [fact](/zh/post/fact/) [that](/zh/post/that/)" 可以与 [although](/zh/post/although/) 替换使用，表示尽管某个事实。
+- "[Although](/zh/post/although/) [not](/zh/post/not/)" 表示虽然不，例如: "[Although](/zh/post/although/) [not](/zh/post/not/) [perfect](/zh/post/perfect/), [the](/zh/post/the/) [plan](/zh/post/plan/) is [still](/zh/post/still/) [acceptable](/zh/post/acceptable/)."
 
 ## 例句
-- "[Although](/post/although/) [it](/post/it/) was raining, [they](/post/they/) went [for](/post/for/) [a](/post/a/) [walk](/post/walk/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
-- "She's [young](/post/young/), [although](/post/although/) [very](/post/very/) experienced [in](/post/in/) [her](/post/her/) [field](/post/field/)."
+- "[Although](/zh/post/although/) [it](/zh/post/it/) was raining, [they](/zh/post/they/) went [for](/zh/post/for/) [a](/zh/post/a/) [walk](/zh/post/walk/) [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/)."
+- "She's [young](/zh/post/young/), [although](/zh/post/although/) [very](/zh/post/very/) experienced [in](/zh/post/in/) [her](/zh/post/her/) [field](/zh/post/field/)."
 
 ## 同义词
-- [Though](/post/though/)
-- [Even](/post/even/) [though](/post/though/)
-- [In](/post/in/) spite [of](/post/of/)
-- [Despite](/post/despite/)
-- [Nevertheless](/post/nevertheless/)
+- [Though](/zh/post/though/)
+- [Even](/zh/post/even/) [though](/zh/post/though/)
+- [In](/zh/post/in/) spite [of](/zh/post/of/)
+- [Despite](/zh/post/despite/)
+- [Nevertheless](/zh/post/nevertheless/)

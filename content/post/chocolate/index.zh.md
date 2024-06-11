@@ -12,22 +12,22 @@ keywords = ['ai words', 'chocolate']
 
 ## 释义
 - **名词 n**: 一种甜食，由可可制成的固体块，通常呈深褐色，有甜味，常作为零食或用于烹饪。
-    - 例: "[She](/post/she/) loves eating [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [chocolate](/post/chocolate/) [after](/post/after/) [dinner](/post/dinner/)."
+    - 例: "[She](/zh/post/she/) loves eating [a](/zh/post/a/) [piece](/zh/post/piece/) [of](/zh/post/of/) [chocolate](/zh/post/chocolate/) [after](/zh/post/after/) [dinner](/zh/post/dinner/)."
 - **形容词 adj**: 指与巧克力有关的或具有巧克力味道的。
-    - 例: "[The](/post/the/) bakery sells [delicious](/post/delicious/) [chocolate](/post/chocolate/) cakes."
+    - 例: "[The](/zh/post/the/) bakery sells [delicious](/zh/post/delicious/) [chocolate](/zh/post/chocolate/) cakes."
 
 ## 短语
-- "[Chocolate](/post/chocolate/) [bar](/post/bar/)" 巧克力条，一块长方形的巧克力。
-- "[Dark](/post/dark/) [chocolate](/post/chocolate/)" 黑巧克力，可可含量较高的巧克力。
-- "[Milk](/post/milk/) [chocolate](/post/chocolate/)" 全脂牛奶巧克力，含有牛奶成分的巧克力。
+- "[Chocolate](/zh/post/chocolate/) [bar](/zh/post/bar/)" 巧克力条，一块长方形的巧克力。
+- "[Dark](/zh/post/dark/) [chocolate](/zh/post/chocolate/)" 黑巧克力，可可含量较高的巧克力。
+- "[Milk](/zh/post/milk/) [chocolate](/zh/post/chocolate/)" 全脂牛奶巧克力，含有牛奶成分的巧克力。
 
 ## 例句
-- 名词: "[The](/post/the/) kids were thrilled [to](/post/to/) [find](/post/find/) [chocolate](/post/chocolate/) eggs [in](/post/in/) [their](/post/their/) Easter baskets."
-- 形容词: "I [prefer](/post/prefer/) [my](/post/my/) [coffee](/post/coffee/) [with](/post/with/) [a](/post/a/) [hint](/post/hint/) [of](/post/of/) [chocolate](/post/chocolate/) flavor."
+- 名词: "[The](/zh/post/the/) kids were thrilled [to](/zh/post/to/) [find](/zh/post/find/) [chocolate](/zh/post/chocolate/) eggs [in](/zh/post/in/) [their](/zh/post/their/) Easter baskets."
+- 形容词: "I [prefer](/zh/post/prefer/) [my](/zh/post/my/) [coffee](/zh/post/coffee/) [with](/zh/post/with/) [a](/zh/post/a/) [hint](/zh/post/hint/) [of](/zh/post/of/) [chocolate](/zh/post/chocolate/) flavor."
 
 ## 同义词
-- [Candy](/post/candy/)
-- [Sweet](/post/sweet/)
+- [Candy](/zh/post/candy/)
+- [Sweet](/zh/post/sweet/)
 - Confection
-- [Treat](/post/treat/)
+- [Treat](/zh/post/treat/)
 - Dessert (泛指甜点，不特指巧克力)

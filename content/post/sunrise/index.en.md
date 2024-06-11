@@ -7,33 +7,33 @@ description = '[ˈsʌnraiz] n.日出(时分)'
 keywords = ['ai words', 'sunrise']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈraɪzn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: **1** [The](/en/post/the/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [when](/en/post/when/) [the](/en/post/the/) [sun](/en/post/sun/) rises [above](/en/post/above/) [the](/en/post/the/) [horizon](/en/post/horizon/), marking [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [the](/en/post/the/) [day](/en/post/day/). **2** [A](/en/post/a/) [beautiful](/en/post/beautiful/) [and](/en/post/and/) spectacular [display](/en/post/display/) [of](/en/post/of/) colors [in](/en/post/in/) [the](/en/post/the/) [sky](/en/post/sky/) [at](/en/post/at/) [dawn](/en/post/dawn/). **3** (figurative) [The](/en/post/the/) [start](/en/post/start/) [or](/en/post/or/) [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) symbolizing [hope](/en/post/hope/) [or](/en/post/or/) [a](/en/post/a/) [new](/en/post/new/) [chapter](/en/post/chapter/). 
+- **[Noun](/post/noun/)**: **1** [The](/post/the/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [when](/post/when/) [the](/post/the/) [sun](/post/sun/) rises [above](/post/above/) [the](/post/the/) [horizon](/post/horizon/), marking [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [the](/post/the/) [day](/post/day/). **2** [A](/post/a/) [beautiful](/post/beautiful/) [and](/post/and/) spectacular [display](/post/display/) [of](/post/of/) colors [in](/post/in/) [the](/post/the/) [sky](/post/sky/) [at](/post/at/) [dawn](/post/dawn/). **3** (figurative) [The](/post/the/) [start](/post/start/) [or](/post/or/) [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [something](/post/something/), [often](/post/often/) symbolizing [hope](/post/hope/) [or](/post/or/) [a](/post/a/) [new](/post/new/) [chapter](/post/chapter/). 
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [observe](/en/post/observe/) [or](/en/post/or/) [experience](/en/post/experience/) [the](/en/post/the/) [sunrise](/en/post/sunrise/); [to](/en/post/to/) [witness](/en/post/witness/) [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [the](/en/post/the/) day's [light](/en/post/light/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [observe](/post/observe/) [or](/post/or/) [experience](/post/experience/) [the](/post/the/) [sunrise](/post/sunrise/); [to](/post/to/) [witness](/post/witness/) [the](/post/the/) [start](/post/start/) [of](/post/of/) [the](/post/the/) day's [light](/post/light/).
 
 ## Phrases
-- "[Watch](/en/post/watch/) [the](/en/post/the/) [sunrise](/en/post/sunrise/)" [means](/en/post/means/) [to](/en/post/to/) [enjoy](/en/post/enjoy/) [the](/en/post/the/) [spectacle](/en/post/spectacle/) [of](/en/post/of/) [the](/en/post/the/) [sun](/en/post/sun/) rising.
-- "[The](/en/post/the/) [first](/en/post/first/) [light](/en/post/light/) [of](/en/post/of/) [the](/en/post/the/) [sunrise](/en/post/sunrise/)" describes [the](/en/post/the/) [initial](/en/post/initial/) [glow](/en/post/glow/) [of](/en/post/of/) [dawn](/en/post/dawn/).
-- "[To](/en/post/to/) [greet](/en/post/greet/) [the](/en/post/the/) [sunrise](/en/post/sunrise/)" symbolically signifies [a](/en/post/a/) [fresh](/en/post/fresh/) [start](/en/post/start/) [or](/en/post/or/) [positive](/en/post/positive/) [outlook](/en/post/outlook/).
+- "[Watch](/post/watch/) [the](/post/the/) [sunrise](/post/sunrise/)" [means](/post/means/) [to](/post/to/) [enjoy](/post/enjoy/) [the](/post/the/) [spectacle](/post/spectacle/) [of](/post/of/) [the](/post/the/) [sun](/post/sun/) rising.
+- "[The](/post/the/) [first](/post/first/) [light](/post/light/) [of](/post/of/) [the](/post/the/) [sunrise](/post/sunrise/)" describes [the](/post/the/) [initial](/post/initial/) [glow](/post/glow/) [of](/post/of/) [dawn](/post/dawn/).
+- "[To](/post/to/) [greet](/post/greet/) [the](/post/the/) [sunrise](/post/sunrise/)" symbolically signifies [a](/post/a/) [fresh](/post/fresh/) [start](/post/start/) [or](/post/or/) [positive](/post/positive/) [outlook](/post/outlook/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) loved [to](/en/post/to/) [wake](/en/post/wake/) [up](/en/post/up/) [early](/en/post/early/) [to](/en/post/to/) [watch](/en/post/watch/) [the](/en/post/the/) [sunrise](/en/post/sunrise/) [over](/en/post/over/) [the](/en/post/the/) [ocean](/en/post/ocean/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [night](/en/post/night/), [he](/en/post/he/) stumbled [out](/en/post/out/) [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [sunrise](/en/post/sunrise/)."
-- **Phrasal [Usage](/en/post/usage/)**: "Starting [her](/en/post/her/) [day](/en/post/day/) [with](/en/post/with/) [a](/en/post/a/) [morning](/en/post/morning/) jog [by](/en/post/by/) [the](/en/post/the/) [beach](/en/post/beach/), [she](/en/post/she/) was [grateful](/en/post/grateful/) [to](/en/post/to/) [be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/) [greet](/en/post/greet/) [the](/en/post/the/) [sunrise](/en/post/sunrise/) [each](/en/post/each/) [day](/en/post/day/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) loved [to](/post/to/) [wake](/post/wake/) [up](/post/up/) [early](/post/early/) [to](/post/to/) [watch](/post/watch/) [the](/post/the/) [sunrise](/post/sunrise/) [over](/post/over/) [the](/post/the/) [ocean](/post/ocean/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [night](/post/night/), [he](/post/he/) stumbled [out](/post/out/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [sunrise](/post/sunrise/)."
+- **Phrasal [Usage](/post/usage/)**: "Starting [her](/post/her/) [day](/post/day/) [with](/post/with/) [a](/post/a/) [morning](/post/morning/) jog [by](/post/by/) [the](/post/the/) [beach](/post/beach/), [she](/post/she/) was [grateful](/post/grateful/) [to](/post/to/) [be](/post/be/) [able](/post/able/) [to](/post/to/) [greet](/post/greet/) [the](/post/the/) [sunrise](/post/sunrise/) [each](/post/each/) [day](/post/day/)."
 
 ## Synonyms
-- [Dawn](/en/post/dawn/)
-- [Dawn](/en/post/dawn/) [break](/en/post/break/)
-- [Sunrise](/en/post/sunrise/) [glow](/en/post/glow/)
+- [Dawn](/post/dawn/)
+- [Dawn](/post/dawn/) [break](/post/break/)
+- [Sunrise](/post/sunrise/) [glow](/post/glow/)
 -曙光
-- [Sunrise](/en/post/sunrise/) [spectacle](/en/post/spectacle/)
+- [Sunrise](/post/sunrise/) [spectacle](/post/spectacle/)
 
 ## Antonyms
-- [Sunset](/en/post/sunset/)
+- [Sunset](/post/sunset/)
 - Twilight
-- [Dusk](/en/post/dusk/)
-- [Midnight](/en/post/midnight/) ([the](/en/post/the/) [opposite](/en/post/opposite/) [of](/en/post/of/) [sunrise](/en/post/sunrise/), [which](/en/post/which/) marks [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [the](/en/post/the/) [day](/en/post/day/))
+- [Dusk](/post/dusk/)
+- [Midnight](/post/midnight/) ([the](/post/the/) [opposite](/post/opposite/) [of](/post/of/) [sunrise](/post/sunrise/), [which](/post/which/) marks [the](/post/the/) [start](/post/start/) [of](/post/of/) [the](/post/the/) [day](/post/day/))

@@ -7,34 +7,34 @@ description = '[əːdʒ] vt.推进；催促 n.冲动'
 keywords = ['ai words', 'urge']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɜːrɡ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [strong](/en/post/strong/) [feeling](/en/post/feeling/) [of](/en/post/of/) [desire](/en/post/desire/) [or](/en/post/or/) [necessity](/en/post/necessity/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/); [a](/en/post/a/) [push](/en/post/push/) [or](/en/post/or/) impulse. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) had an [urge](/en/post/urge/) [to](/en/post/to/) [travel](/en/post/travel/) [the](/en/post/the/) [world](/en/post/world/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [feel](/en/post/feel/) [a](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [or](/en/post/or/) inclination [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/); [to](/en/post/to/) impel [or](/en/post/or/) [motivate](/en/post/motivate/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) urged [her](/en/post/her/) [team](/en/post/team/) [to](/en/post/to/) [work](/en/post/work/) harder [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [a](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [or](/en/post/or/) inclination; compelling. [For](/en/post/for/) [example](/en/post/example/): "An [urgent](/en/post/urgent/) [matter](/en/post/matter/) requires [immediate](/en/post/immediate/) [attention](/en/post/attention/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [strong](/post/strong/) [feeling](/post/feeling/) [of](/post/of/) [desire](/post/desire/) [or](/post/or/) [necessity](/post/necessity/) [to](/post/to/) [do](/post/do/) [something](/post/something/); [a](/post/a/) [push](/post/push/) [or](/post/or/) impulse. [For](/post/for/) [example](/post/example/): "[He](/post/he/) had an [urge](/post/urge/) [to](/post/to/) [travel](/post/travel/) [the](/post/the/) [world](/post/world/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [feel](/post/feel/) [a](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [or](/post/or/) inclination [to](/post/to/) [do](/post/do/) [something](/post/something/); [to](/post/to/) impel [or](/post/or/) [motivate](/post/motivate/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) urged [her](/post/her/) [team](/post/team/) [to](/post/to/) [work](/post/work/) harder [on](/post/on/) [the](/post/the/) [project](/post/project/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [a](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [or](/post/or/) inclination; compelling. [For](/post/for/) [example](/post/example/): "An [urgent](/post/urgent/) [matter](/post/matter/) requires [immediate](/post/immediate/) [attention](/post/attention/)."
 
 ## Phrases
-- "[Feel](/en/post/feel/) an [urge](/en/post/urge/) [to](/en/post/to/) [do](/en/post/do/)" signifies [a](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [to](/en/post/to/) [perform](/en/post/perform/) an [action](/en/post/action/).
-- "[urge](/en/post/urge/) [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/)" implies encouraging [someone](/en/post/someone/) [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [particular](/en/post/particular/) [action](/en/post/action/).
-- "[urge](/en/post/urge/) caution" is [a](/en/post/a/) warning [to](/en/post/to/) [be](/en/post/be/) [careful](/en/post/careful/) [or](/en/post/or/) restrained.
+- "[Feel](/post/feel/) an [urge](/post/urge/) [to](/post/to/) [do](/post/do/)" signifies [a](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [to](/post/to/) [perform](/post/perform/) an [action](/post/action/).
+- "[urge](/post/urge/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/)" implies encouraging [someone](/post/someone/) [to](/post/to/) [take](/post/take/) [a](/post/a/) [particular](/post/particular/) [action](/post/action/).
+- "[urge](/post/urge/) caution" is [a](/post/a/) warning [to](/post/to/) [be](/post/be/) [careful](/post/careful/) [or](/post/or/) restrained.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) urged [her](/en/post/her/) [patient](/en/post/patient/) [to](/en/post/to/) [quit](/en/post/quit/) smoking [for](/en/post/for/) [their](/en/post/their/) health's [sake](/en/post/sake/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) urged [his](/en/post/his/) colleagues [to](/en/post/to/) [contribute](/en/post/contribute/) [their](/en/post/their/) ideas [to](/en/post/to/) [the](/en/post/the/) [discussion](/en/post/discussion/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [emergency](/en/post/emergency/) services were urgently needed [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [accident](/en/post/accident/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [doctor](/post/doctor/) urged [her](/post/her/) [patient](/post/patient/) [to](/post/to/) [quit](/post/quit/) smoking [for](/post/for/) [their](/post/their/) health's [sake](/post/sake/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) urged [his](/post/his/) colleagues [to](/post/to/) [contribute](/post/contribute/) [their](/post/their/) ideas [to](/post/to/) [the](/post/the/) [discussion](/post/discussion/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [emergency](/post/emergency/) services were urgently needed [due](/post/due/) [to](/post/to/) [the](/post/the/) [accident](/post/accident/)."
 
 ## Synonyms
 - Impetus
-- [Push](/en/post/push/)
-- [Desire](/en/post/desire/)
+- [Push](/post/push/)
+- [Desire](/post/desire/)
 - Enticement
 - Conviction
 
 ## Antonyms
 - Relaxation
-- [Resistance](/en/post/resistance/)
+- [Resistance](/post/resistance/)
 - Indifference
 - Detachment
-- [Lack](/en/post/lack/) [of](/en/post/of/) [interest](/en/post/interest/)
+- [Lack](/post/lack/) [of](/post/of/) [interest](/post/interest/)

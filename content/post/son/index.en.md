@@ -7,37 +7,37 @@ description = '[sʌn] n.儿子'
 keywords = ['ai words', 'son']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsʌn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [male](/en/post/male/) [child](/en/post/child/)**: [The](/en/post/the/) offspring [of](/en/post/of/) [a](/en/post/a/) [father](/en/post/father/) [and](/en/post/and/) [mother](/en/post/mother/), typically [one](/en/post/one/) [who](/en/post/who/) is [born](/en/post/born/) [naturally](/en/post/naturally/). [Example](/en/post/example/): "[His](/en/post/his/) [son](/en/post/son/) came [home](/en/post/home/) [from](/en/post/from/) [college](/en/post/college/) [for](/en/post/for/) [the](/en/post/the/) holidays."
-2. **Son-in-law**: [A](/en/post/a/) [man](/en/post/man/) [who](/en/post/who/) has [married](/en/post/married/) [a](/en/post/a/) woman's [daughter](/en/post/daughter/). [Example](/en/post/example/): "[My](/en/post/my/) daughter's [new](/en/post/new/) [husband](/en/post/husband/) is [a](/en/post/a/) delightful son-in-law."
-3. **Descendant**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is related [to](/en/post/to/) [someone](/en/post/someone/) [through](/en/post/through/) [their](/en/post/their/) [family](/en/post/family/) [line](/en/post/line/), [particularly](/en/post/particularly/) [a](/en/post/a/) [male](/en/post/male/) descendant. [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) had been [in](/en/post/in/) [his](/en/post/his/) [family](/en/post/family/) [for](/en/post/for/) generations, passed [down](/en/post/down/) [as](/en/post/as/) [a](/en/post/a/) son's inheritance."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [male](/post/male/) [child](/post/child/)**: [The](/post/the/) offspring [of](/post/of/) [a](/post/a/) [father](/post/father/) [and](/post/and/) [mother](/post/mother/), typically [one](/post/one/) [who](/post/who/) is [born](/post/born/) [naturally](/post/naturally/). [Example](/post/example/): "[His](/post/his/) [son](/post/son/) came [home](/post/home/) [from](/post/from/) [college](/post/college/) [for](/post/for/) [the](/post/the/) holidays."
+2. **Son-in-law**: [A](/post/a/) [man](/post/man/) [who](/post/who/) has [married](/post/married/) [a](/post/a/) woman's [daughter](/post/daughter/). [Example](/post/example/): "[My](/post/my/) daughter's [new](/post/new/) [husband](/post/husband/) is [a](/post/a/) delightful son-in-law."
+3. **Descendant**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is related [to](/post/to/) [someone](/post/someone/) [through](/post/through/) [their](/post/their/) [family](/post/family/) [line](/post/line/), [particularly](/post/particularly/) [a](/post/a/) [male](/post/male/) descendant. [Example](/post/example/): "[The](/post/the/) [old](/post/old/) [house](/post/house/) had been [in](/post/in/) [his](/post/his/) [family](/post/family/) [for](/post/for/) generations, passed [down](/post/down/) [as](/post/as/) [a](/post/a/) son's inheritance."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) beget [or](/en/post/or/) [produce](/en/post/produce/) offspring, [especially](/en/post/especially/) [a](/en/post/a/) [male](/en/post/male/) [child](/en/post/child/). [Example](/en/post/example/): "[His](/en/post/his/) [father](/en/post/father/) sired [three](/en/post/three/) sons."
-2. [To](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [male](/en/post/male/) [child](/en/post/child/) [of](/en/post/of/) ([a](/en/post/a/) [particular](/en/post/particular/) [person](/en/post/person/)). [Example](/en/post/example/): "[She](/en/post/she/) was [proud](/en/post/proud/) [to](/en/post/to/) [announce](/en/post/announce/) [that](/en/post/that/) [her](/en/post/her/) [brother](/en/post/brother/) is [her](/en/post/her/) [son](/en/post/son/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) beget [or](/post/or/) [produce](/post/produce/) offspring, [especially](/post/especially/) [a](/post/a/) [male](/post/male/) [child](/post/child/). [Example](/post/example/): "[His](/post/his/) [father](/post/father/) sired [three](/post/three/) sons."
+2. [To](/post/to/) [be](/post/be/) [a](/post/a/) [male](/post/male/) [child](/post/child/) [of](/post/of/) ([a](/post/a/) [particular](/post/particular/) [person](/post/person/)). [Example](/post/example/): "[She](/post/she/) was [proud](/post/proud/) [to](/post/to/) [announce](/post/announce/) [that](/post/that/) [her](/post/her/) [brother](/post/brother/) is [her](/post/her/) [son](/post/son/)."
 
 ## Phrases
-- "[Call](/en/post/call/) [your](/en/post/your/) [son](/en/post/son/)" [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [phone](/en/post/phone/) [call](/en/post/call/) [to](/en/post/to/) [your](/en/post/your/) [child](/en/post/child/).
-- "[Be](/en/post/be/) [like](/en/post/like/) [your](/en/post/your/) [son](/en/post/son/)" [to](/en/post/to/) emulate [a](/en/post/a/) son's qualities.
-- "[The](/en/post/the/) [son](/en/post/son/) [of](/en/post/of/) [the](/en/post/the/) [soil](/en/post/soil/)" refers [to](/en/post/to/) [a](/en/post/a/) native-born [or](/en/post/or/) long-term [resident](/en/post/resident/).
+- "[Call](/post/call/) [your](/post/your/) [son](/post/son/)" [to](/post/to/) [make](/post/make/) [a](/post/a/) [phone](/post/phone/) [call](/post/call/) [to](/post/to/) [your](/post/your/) [child](/post/child/).
+- "[Be](/post/be/) [like](/post/like/) [your](/post/your/) [son](/post/son/)" [to](/post/to/) emulate [a](/post/a/) son's qualities.
+- "[The](/post/the/) [son](/post/son/) [of](/post/of/) [the](/post/the/) [soil](/post/soil/)" refers [to](/post/to/) [a](/post/a/) native-born [or](/post/or/) long-term [resident](/post/resident/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [son](/en/post/son/) took [over](/en/post/over/) [the](/en/post/the/) [family](/en/post/family/) [business](/en/post/business/) [after](/en/post/after/) [his](/en/post/his/) [father](/en/post/father/) retired."
-- **[Verb](/en/post/verb/)**: "[As](/en/post/as/) [a](/en/post/a/) [son](/en/post/son/), [he](/en/post/he/) has [learned](/en/post/learned/) [valuable](/en/post/valuable/) [life](/en/post/life/) lessons [from](/en/post/from/) [his](/en/post/his/) parents."
-- **Descendant**: "[Their](/en/post/their/) [family](/en/post/family/) [tree](/en/post/tree/) traced [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) founding [son](/en/post/son/) [of](/en/post/of/) [the](/en/post/the/) [village](/en/post/village/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [son](/post/son/) took [over](/post/over/) [the](/post/the/) [family](/post/family/) [business](/post/business/) [after](/post/after/) [his](/post/his/) [father](/post/father/) retired."
+- **[Verb](/post/verb/)**: "[As](/post/as/) [a](/post/a/) [son](/post/son/), [he](/post/he/) has [learned](/post/learned/) [valuable](/post/valuable/) [life](/post/life/) lessons [from](/post/from/) [his](/post/his/) parents."
+- **Descendant**: "[Their](/post/their/) [family](/post/family/) [tree](/post/tree/) traced [back](/post/back/) [to](/post/to/) [the](/post/the/) founding [son](/post/son/) [of](/post/of/) [the](/post/the/) [village](/post/village/)."
 
 ## Synonyms
-- [Boy](/en/post/boy/)
-- [Male](/en/post/male/) offspring
-- [Young](/en/post/young/) [man](/en/post/man/)
-- [Heir](/en/post/heir/)
-- [Child](/en/post/child/)
+- [Boy](/post/boy/)
+- [Male](/post/male/) offspring
+- [Young](/post/young/) [man](/post/man/)
+- [Heir](/post/heir/)
+- [Child](/post/child/)
 - progeny
-- [Issue](/en/post/issue/)
+- [Issue](/post/issue/)
 - Offspring
 
-### [Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) "[son](/en/post/son/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) is [less](/en/post/less/) [common](/en/post/common/), [and](/en/post/and/) it's [often](/en/post/often/) replaced [by](/en/post/by/) [other](/en/post/other/) verbs [like](/en/post/like/) "[father](/en/post/father/)" [or](/en/post/or/) "beget." [The](/en/post/the/) examples using "[son](/en/post/son/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) are [provided](/en/post/provided/) [for](/en/post/for/) completeness [but](/en/post/but/) [might](/en/post/might/) [not](/en/post/not/) [be](/en/post/be/) [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [everyday](/en/post/everyday/) [language](/en/post/language/).
+### [Note](/post/note/): [The](/post/the/) [verb](/post/verb/) "[son](/post/son/)" [as](/post/as/) [a](/post/a/) [verb](/post/verb/) is [less](/post/less/) [common](/post/common/), [and](/post/and/) it's [often](/post/often/) replaced [by](/post/by/) [other](/post/other/) verbs [like](/post/like/) "[father](/post/father/)" [or](/post/or/) "beget." [The](/post/the/) examples using "[son](/post/son/)" [as](/post/as/) [a](/post/a/) [verb](/post/verb/) are [provided](/post/provided/) [for](/post/for/) completeness [but](/post/but/) [might](/post/might/) [not](/post/not/) [be](/post/be/) [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [everyday](/post/everyday/) [language](/post/language/).

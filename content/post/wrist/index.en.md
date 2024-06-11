@@ -7,30 +7,30 @@ description = '[rist] n.腕，腕关节'
 keywords = ['ai words', 'wrist']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [bone](/en/post/bone/) located [on](/en/post/on/) [the](/en/post/the/) [lower](/en/post/lower/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) forearm, connecting [the](/en/post/the/) [hand](/en/post/hand/) [to](/en/post/to/) [the](/en/post/the/) forearm bones. ["[wrist](/en/post/wrist/) n."](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[wrist](/en/post/wrist/))
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [rotate](/en/post/rotate/) [the](/en/post/the/) [wrist](/en/post/wrist/), typically [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [gesture](/en/post/gesture/) [or](/en/post/or/) [to](/en/post/to/) manipulate [something](/en/post/something/). ["[wrist](/en/post/wrist/) v."](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[wrist](/en/post/wrist/))
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) situated [on](/en/post/on/) [the](/en/post/the/) [wrist](/en/post/wrist/). ["[wrist](/en/post/wrist/) adj."](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[wrist](/en/post/wrist/))
+- **[Noun](/post/noun/)**: [A](/post/a/) [bone](/post/bone/) located [on](/post/on/) [the](/post/the/) [lower](/post/lower/) [part](/post/part/) [of](/post/of/) [the](/post/the/) forearm, connecting [the](/post/the/) [hand](/post/hand/) [to](/post/to/) [the](/post/the/) forearm bones. ["[wrist](/post/wrist/) n."](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[wrist](/post/wrist/))
+- **[Verb](/post/verb/)**: [To](/post/to/) [move](/post/move/) [or](/post/or/) [rotate](/post/rotate/) [the](/post/the/) [wrist](/post/wrist/), typically [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [gesture](/post/gesture/) [or](/post/or/) [to](/post/to/) manipulate [something](/post/something/). ["[wrist](/post/wrist/) v."](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[wrist](/post/wrist/))
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) situated [on](/post/on/) [the](/post/the/) [wrist](/post/wrist/). ["[wrist](/post/wrist/) adj."](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[wrist](/post/wrist/))
 
 ## Phrases
-- "[Wrist](/en/post/wrist/) [injury](/en/post/injury/)" refers [to](/en/post/to/) [damage](/en/post/damage/) [to](/en/post/to/) [the](/en/post/the/) [wrist](/en/post/wrist/) [area](/en/post/area/).
-- "[Wrist](/en/post/wrist/) [strength](/en/post/strength/)" measures [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [exert](/en/post/exert/) [force](/en/post/force/) [with](/en/post/with/) [the](/en/post/the/) [wrist](/en/post/wrist/).
-- "Wristwatch" is [a](/en/post/a/) timepiece worn [on](/en/post/on/) [the](/en/post/the/) [wrist](/en/post/wrist/).
+- "[Wrist](/post/wrist/) [injury](/post/injury/)" refers [to](/post/to/) [damage](/post/damage/) [to](/post/to/) [the](/post/the/) [wrist](/post/wrist/) [area](/post/area/).
+- "[Wrist](/post/wrist/) [strength](/post/strength/)" measures [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [exert](/post/exert/) [force](/post/force/) [with](/post/with/) [the](/post/the/) [wrist](/post/wrist/).
+- "Wristwatch" is [a](/post/a/) timepiece worn [on](/post/on/) [the](/post/the/) [wrist](/post/wrist/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) sprained [her](/en/post/her/) [wrist](/en/post/wrist/) [while](/en/post/while/) playing [tennis](/en/post/tennis/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) rotated [his](/en/post/his/) [wrist](/en/post/wrist/) [to](/en/post/to/) [relieve](/en/post/relieve/) [the](/en/post/the/) [pain](/en/post/pain/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) bracelet was [delicate](/en/post/delicate/) [and](/en/post/and/) adorned [her](/en/post/her/) [slender](/en/post/slender/) [wrist](/en/post/wrist/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) sprained [her](/post/her/) [wrist](/post/wrist/) [while](/post/while/) playing [tennis](/post/tennis/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) rotated [his](/post/his/) [wrist](/post/wrist/) [to](/post/to/) [relieve](/post/relieve/) [the](/post/the/) [pain](/post/pain/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) bracelet was [delicate](/post/delicate/) [and](/post/and/) adorned [her](/post/her/) [slender](/post/slender/) [wrist](/post/wrist/)."
 
 ## Synonyms
-- [Elbow](/en/post/elbow/) [joint](/en/post/joint/) ([when](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) [joint](/en/post/joint/))
-- Carpal [tunnel](/en/post/tunnel/) ([as](/en/post/as/) [a](/en/post/a/) [location](/en/post/location/))
-- [Hand](/en/post/hand/) [movement](/en/post/movement/) ([in](/en/post/in/) [a](/en/post/a/) [general](/en/post/general/) [sense](/en/post/sense/))
-- Wrist-flexible ([for](/en/post/for/) describing dexterity)
+- [Elbow](/post/elbow/) [joint](/post/joint/) ([when](/post/when/) referring [to](/post/to/) [the](/post/the/) [joint](/post/joint/))
+- Carpal [tunnel](/post/tunnel/) ([as](/post/as/) [a](/post/a/) [location](/post/location/))
+- [Hand](/post/hand/) [movement](/post/movement/) ([in](/post/in/) [a](/post/a/) [general](/post/general/) [sense](/post/sense/))
+- Wrist-flexible ([for](/post/for/) describing dexterity)
 
 ## Antonyms
-- [Arm](/en/post/arm/) ([upper](/en/post/upper/) [part](/en/post/part/))
-- [Palm](/en/post/palm/) ([lower](/en/post/lower/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [hand](/en/post/hand/))
+- [Arm](/post/arm/) ([upper](/post/upper/) [part](/post/part/))
+- [Palm](/post/palm/) ([lower](/post/lower/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [hand](/post/hand/))

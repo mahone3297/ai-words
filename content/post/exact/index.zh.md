@@ -11,22 +11,22 @@ keywords = ['ai words', 'exact']
 /ɪɡˈzækt/
 
 ## 释义
-- **形容词**: 精确的，准确的。例如: "[The](/post/the/) [measurement](/post/measurement/) was [exact](/post/exact/), leaving [no](/post/no/) [room](/post/room/) [for](/post/for/) [error](/post/error/)."
-- **动词**: 要求（某物），索取（某物）。例如: "[They](/post/they/) exacted [a](/post/a/) [high](/post/high/) [price](/post/price/) [for](/post/for/) [their](/post/their/) services."
-- **名词**: （尤指金钱上的）要求，索取。例如: "[The](/post/the/) taxman's [exact](/post/exact/) is [always](/post/always/) [due](/post/due/) [on](/post/on/) [time](/post/time/)."
+- **形容词**: 精确的，准确的。例如: "[The](/zh/post/the/) [measurement](/zh/post/measurement/) was [exact](/zh/post/exact/), leaving [no](/zh/post/no/) [room](/zh/post/room/) [for](/zh/post/for/) [error](/zh/post/error/)."
+- **动词**: 要求（某物），索取（某物）。例如: "[They](/zh/post/they/) exacted [a](/zh/post/a/) [high](/zh/post/high/) [price](/zh/post/price/) [for](/zh/post/for/) [their](/zh/post/their/) services."
+- **名词**: （尤指金钱上的）要求，索取。例如: "[The](/zh/post/the/) taxman's [exact](/zh/post/exact/) is [always](/zh/post/always/) [due](/zh/post/due/) [on](/zh/post/on/) [time](/zh/post/time/)."
 
 ## 短语
-- "[exact](/post/exact/) replica" 指完全相同的复制品。
-- "[exact](/post/exact/) [justice](/post/justice/)" 指公正无误的裁决。
+- "[exact](/zh/post/exact/) replica" 指完全相同的复制品。
+- "[exact](/zh/post/exact/) [justice](/zh/post/justice/)" 指公正无误的裁决。
 
 ## 例句
-- 形容词: "[The](/post/the/) [map](/post/map/) has an [exact](/post/exact/) [scale](/post/scale/), making [it](/post/it/) [easy](/post/easy/) [to](/post/to/) [calculate](/post/calculate/) distances."
-- 动词: "[The](/post/the/) [boss](/post/boss/) exacted [a](/post/a/) [promise](/post/promise/) [from](/post/from/) [his](/post/his/) employees [to](/post/to/) [work](/post/work/) [overtime](/post/overtime/)."
-- 名词: "[The](/post/the/) ransom [note](/post/note/) demanded an [exact](/post/exact/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/)."
+- 形容词: "[The](/zh/post/the/) [map](/zh/post/map/) has an [exact](/zh/post/exact/) [scale](/zh/post/scale/), making [it](/zh/post/it/) [easy](/zh/post/easy/) [to](/zh/post/to/) [calculate](/zh/post/calculate/) distances."
+- 动词: "[The](/zh/post/the/) [boss](/zh/post/boss/) exacted [a](/zh/post/a/) [promise](/zh/post/promise/) [from](/zh/post/from/) [his](/zh/post/his/) employees [to](/zh/post/to/) [work](/zh/post/work/) [overtime](/zh/post/overtime/)."
+- 名词: "[The](/zh/post/the/) ransom [note](/zh/post/note/) demanded an [exact](/zh/post/exact/) [amount](/zh/post/amount/) [of](/zh/post/of/) [money](/zh/post/money/)."
 
 ## 同义词
-- [Precise](/post/precise/)
-- [Accurate](/post/accurate/)
+- [Precise](/zh/post/precise/)
+- [Accurate](/zh/post/accurate/)
 - Exactitude
 - Exactness
 - Fidelity

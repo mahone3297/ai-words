@@ -7,29 +7,29 @@ description = '[ˈdensiti] n.密集，稠密；密度'
 keywords = ['ai words', 'density']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈnɛsɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [being](/en/post/being/) [closely](/en/post/closely/) packed [or](/en/post/or/) crowded [together](/en/post/together/); [concentration](/en/post/concentration/) [or](/en/post/or/) compactness [of](/en/post/of/) [matter](/en/post/matter/). 2. [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [something](/en/post/something/) [per](/en/post/per/) [unit](/en/post/unit/) [volume](/en/post/volume/), [usually](/en/post/usually/) expressed [as](/en/post/as/) [a](/en/post/a/) [ratio](/en/post/ratio/). 3. (Ecology) [The](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) individuals [of](/en/post/of/) [a](/en/post/a/) species [per](/en/post/per/) [unit](/en/post/unit/) [area](/en/post/area/) [or](/en/post/or/) [volume](/en/post/volume/). 4. ([Physics](/en/post/physics/)) [The](/en/post/the/) [measure](/en/post/measure/) [of](/en/post/of/) [the](/en/post/the/) [mass](/en/post/mass/) [of](/en/post/of/) [a](/en/post/a/) [system](/en/post/system/) [that](/en/post/that/) cannot [be](/en/post/be/) separated [by](/en/post/by/) [physical](/en/post/physical/) [means](/en/post/means/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [high](/en/post/high/) [density](/en/post/density/) [or](/en/post/or/) [concentration](/en/post/concentration/) [of](/en/post/of/) [matter](/en/post/matter/). 3. [To](/en/post/to/) [fill](/en/post/fill/) [a](/en/post/a/) [space](/en/post/space/) densely.
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [characteristic](/post/characteristic/) [of](/post/of/) [being](/post/being/) [closely](/post/closely/) packed [or](/post/or/) crowded [together](/post/together/); [concentration](/post/concentration/) [or](/post/or/) compactness [of](/post/of/) [matter](/post/matter/). 2. [The](/post/the/) [amount](/post/amount/) [of](/post/of/) [something](/post/something/) [per](/post/per/) [unit](/post/unit/) [volume](/post/volume/), [usually](/post/usually/) expressed [as](/post/as/) [a](/post/a/) [ratio](/post/ratio/). 3. (Ecology) [The](/post/the/) [number](/post/number/) [of](/post/of/) individuals [of](/post/of/) [a](/post/a/) species [per](/post/per/) [unit](/post/unit/) [area](/post/area/) [or](/post/or/) [volume](/post/volume/). 4. ([Physics](/post/physics/)) [The](/post/the/) [measure](/post/measure/) [of](/post/of/) [the](/post/the/) [mass](/post/mass/) [of](/post/of/) [a](/post/a/) [system](/post/system/) [that](/post/that/) cannot [be](/post/be/) separated [by](/post/by/) [physical](/post/physical/) [means](/post/means/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [high](/post/high/) [density](/post/density/) [or](/post/or/) [concentration](/post/concentration/) [of](/post/of/) [matter](/post/matter/). 3. [To](/post/to/) [fill](/post/fill/) [a](/post/a/) [space](/post/space/) densely.
 
 ## Phrases
-- "[High](/en/post/high/) [density](/en/post/density/) [population](/en/post/population/)" refers [to](/en/post/to/) [a](/en/post/a/) densely populated [area](/en/post/area/).
-- "Optimal [density](/en/post/density/)" denotes [the](/en/post/the/) [most](/en/post/most/) [suitable](/en/post/suitable/) [level](/en/post/level/) [of](/en/post/of/) [density](/en/post/density/) [for](/en/post/for/) [a](/en/post/a/) given [purpose](/en/post/purpose/).
-- "[Density](/en/post/density/) [of](/en/post/of/) states" ([in](/en/post/in/) [physics](/en/post/physics/)) describes [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) [available](/en/post/available/) [energy](/en/post/energy/) levels [for](/en/post/for/) [a](/en/post/a/) given quantum [system](/en/post/system/).
+- "[High](/post/high/) [density](/post/density/) [population](/post/population/)" refers [to](/post/to/) [a](/post/a/) densely populated [area](/post/area/).
+- "Optimal [density](/post/density/)" denotes [the](/post/the/) [most](/post/most/) [suitable](/post/suitable/) [level](/post/level/) [of](/post/of/) [density](/post/density/) [for](/post/for/) [a](/post/a/) given [purpose](/post/purpose/).
+- "[Density](/post/density/) [of](/post/of/) states" ([in](/post/in/) [physics](/post/physics/)) describes [the](/post/the/) [number](/post/number/) [of](/post/of/) [available](/post/available/) [energy](/post/energy/) levels [for](/post/for/) [a](/post/a/) given quantum [system](/post/system/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [forest](/en/post/forest/) has [a](/en/post/a/) [high](/en/post/high/) [tree](/en/post/tree/) [density](/en/post/density/), making [it](/en/post/it/) [difficult](/en/post/difficult/) [to](/en/post/to/) navigate."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) soil's [high](/en/post/high/) [clay](/en/post/clay/) [content](/en/post/content/) increases [its](/en/post/its/) [density](/en/post/density/), [which](/en/post/which/) affects [water](/en/post/water/) retention."
-- **[Density](/en/post/density/) [in](/en/post/in/) ecology**: "[The](/en/post/the/) coral reef's [high](/en/post/high/) biodiversity is [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [high](/en/post/high/) [density](/en/post/density/) [of](/en/post/of/) [marine](/en/post/marine/) [life](/en/post/life/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [forest](/post/forest/) has [a](/post/a/) [high](/post/high/) [tree](/post/tree/) [density](/post/density/), making [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) navigate."
+- **[Verb](/post/verb/)**: "[The](/post/the/) soil's [high](/post/high/) [clay](/post/clay/) [content](/post/content/) increases [its](/post/its/) [density](/post/density/), [which](/post/which/) affects [water](/post/water/) retention."
+- **[Density](/post/density/) [in](/post/in/) ecology**: "[The](/post/the/) coral reef's [high](/post/high/) biodiversity is [due](/post/due/) [to](/post/to/) [the](/post/the/) [high](/post/high/) [density](/post/density/) [of](/post/of/) [marine](/post/marine/) [life](/post/life/)."
 
 ## Synonyms
-- [Concentration](/en/post/concentration/)
+- [Concentration](/post/concentration/)
 - Packing
-- [Intensity](/en/post/intensity/)
+- [Intensity](/post/intensity/)
 - Compactness
 -稠密
-- [Dense](/en/post/dense/)
+- [Dense](/post/dense/)
 - Richness (ecology)
-- Concentrated ([for](/en/post/for/) substances)
+- Concentrated ([for](/post/for/) substances)

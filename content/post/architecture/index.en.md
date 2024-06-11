@@ -7,43 +7,43 @@ description = '[ˈɑːkitekt∫ə] n.建筑学；建筑式样'
 keywords = ['ai words', 'architecture']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɑːrkɪtektʃər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Architecture](/en/post/architecture/)**: [The](/en/post/the/) [art](/en/post/art/) [or](/en/post/or/) [practice](/en/post/practice/) [of](/en/post/of/) designing buildings, [especially](/en/post/especially/) [with](/en/post/with/) [regard](/en/post/regard/) [to](/en/post/to/) [their](/en/post/their/) [size](/en/post/size/), [shape](/en/post/shape/), [structure](/en/post/structure/), [and](/en/post/and/) [appearance](/en/post/appearance/), [as](/en/post/as/) [well](/en/post/well/) [as](/en/post/as/) [the](/en/post/the/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) spaces [within](/en/post/within/) [them](/en/post/them/).
-- **[Building](/en/post/building/) [design](/en/post/design/)**: [The](/en/post/the/) systematic [process](/en/post/process/) [of](/en/post/of/) creating functional, aesthetic, [and](/en/post/and/) environmentally sustainable structures.
-- **[Style](/en/post/style/) [or](/en/post/or/) [system](/en/post/system/)**: [The](/en/post/the/) [characteristic](/en/post/characteristic/) [arrangement](/en/post/arrangement/) [or](/en/post/or/) [organization](/en/post/organization/) [of](/en/post/of/) components [in](/en/post/in/) [a](/en/post/a/) [system](/en/post/system/), [such](/en/post/such/) [as](/en/post/as/) [computer](/en/post/computer/) software [or](/en/post/or/) [a](/en/post/a/) [communication](/en/post/communication/) [network](/en/post/network/).
+### [Noun](/post/noun/)
+- **[Architecture](/post/architecture/)**: [The](/post/the/) [art](/post/art/) [or](/post/or/) [practice](/post/practice/) [of](/post/of/) designing buildings, [especially](/post/especially/) [with](/post/with/) [regard](/post/regard/) [to](/post/to/) [their](/post/their/) [size](/post/size/), [shape](/post/shape/), [structure](/post/structure/), [and](/post/and/) [appearance](/post/appearance/), [as](/post/as/) [well](/post/well/) [as](/post/as/) [the](/post/the/) [arrangement](/post/arrangement/) [of](/post/of/) spaces [within](/post/within/) [them](/post/them/).
+- **[Building](/post/building/) [design](/post/design/)**: [The](/post/the/) systematic [process](/post/process/) [of](/post/of/) creating functional, aesthetic, [and](/post/and/) environmentally sustainable structures.
+- **[Style](/post/style/) [or](/post/or/) [system](/post/system/)**: [The](/post/the/) [characteristic](/post/characteristic/) [arrangement](/post/arrangement/) [or](/post/or/) [organization](/post/organization/) [of](/post/of/) components [in](/post/in/) [a](/post/a/) [system](/post/system/), [such](/post/such/) [as](/post/as/) [computer](/post/computer/) software [or](/post/or/) [a](/post/a/) [communication](/post/communication/) [network](/post/network/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) architect**: [To](/en/post/to/) [plan](/en/post/plan/) [and](/en/post/and/) [design](/en/post/design/) [the](/en/post/the/) [overall](/en/post/overall/) [structure](/en/post/structure/) [or](/en/post/or/) [layout](/en/post/layout/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) referring [to](/en/post/to/) systems [or](/en/post/or/) processes.
-- **[To](/en/post/to/) conceptualize**: [To](/en/post/to/) [develop](/en/post/develop/) [a](/en/post/a/) blueprint [or](/en/post/or/) [vision](/en/post/vision/) [for](/en/post/for/) [a](/en/post/a/) [project](/en/post/project/) [or](/en/post/or/) [system](/en/post/system/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) architect**: [To](/post/to/) [plan](/post/plan/) [and](/post/and/) [design](/post/design/) [the](/post/the/) [overall](/post/overall/) [structure](/post/structure/) [or](/post/or/) [layout](/post/layout/) [of](/post/of/) [something](/post/something/), [often](/post/often/) referring [to](/post/to/) systems [or](/post/or/) processes.
+- **[To](/post/to/) conceptualize**: [To](/post/to/) [develop](/post/develop/) [a](/post/a/) blueprint [or](/post/or/) [vision](/post/vision/) [for](/post/for/) [a](/post/a/) [project](/post/project/) [or](/post/or/) [system](/post/system/).
 
-### [Adjective](/en/post/adjective/)
-- **Architectural**: Relating [to](/en/post/to/) [the](/en/post/the/) [design](/en/post/design/) [or](/en/post/or/) [style](/en/post/style/) [of](/en/post/of/) buildings [or](/en/post/or/) structures.
-- **[Structural](/en/post/structural/)**: Pertaining [to](/en/post/to/) [the](/en/post/the/) [basic](/en/post/basic/) [framework](/en/post/framework/) [or](/en/post/or/) [composition](/en/post/composition/) [of](/en/post/of/) [something](/en/post/something/).
+### [Adjective](/post/adjective/)
+- **Architectural**: Relating [to](/post/to/) [the](/post/the/) [design](/post/design/) [or](/post/or/) [style](/post/style/) [of](/post/of/) buildings [or](/post/or/) structures.
+- **[Structural](/post/structural/)**: Pertaining [to](/post/to/) [the](/post/the/) [basic](/post/basic/) [framework](/post/framework/) [or](/post/or/) [composition](/post/composition/) [of](/post/of/) [something](/post/something/).
 
 ## Phrases
-- "[Design](/en/post/design/) an architectural [masterpiece](/en/post/masterpiece/)"
-- "[The](/en/post/the/) [architecture](/en/post/architecture/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) center"
-- "[Modern](/en/post/modern/) architectural marvels"
-- "Sustainable [architecture](/en/post/architecture/) [for](/en/post/for/) [the](/en/post/the/) [future](/en/post/future/)"
-- "[The](/en/post/the/) [architecture](/en/post/architecture/) [of](/en/post/of/) [a](/en/post/a/) [computer](/en/post/computer/) [program](/en/post/program/)"
+- "[Design](/post/design/) an architectural [masterpiece](/post/masterpiece/)"
+- "[The](/post/the/) [architecture](/post/architecture/) [of](/post/of/) [the](/post/the/) [city](/post/city/) center"
+- "[Modern](/post/modern/) architectural marvels"
+- "Sustainable [architecture](/post/architecture/) [for](/post/for/) [the](/post/the/) [future](/post/future/)"
+- "[The](/post/the/) [architecture](/post/architecture/) [of](/post/of/) [a](/post/a/) [computer](/post/computer/) [program](/post/program/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [architecture](/en/post/architecture/) [of](/en/post/of/) [the](/en/post/the/) [temple](/en/post/temple/) was awe-inspiring."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) architect spent months planning [the](/en/post/the/) [new](/en/post/new/) [office](/en/post/office/) building's [architecture](/en/post/architecture/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) had [a](/en/post/a/) sleek, [contemporary](/en/post/contemporary/) architectural [design](/en/post/design/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ancient](/post/ancient/) [architecture](/post/architecture/) [of](/post/of/) [the](/post/the/) [temple](/post/temple/) was awe-inspiring."
+- **[Verb](/post/verb/)**: "[The](/post/the/) architect spent months planning [the](/post/the/) [new](/post/new/) [office](/post/office/) building's [architecture](/post/architecture/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) had [a](/post/a/) sleek, [contemporary](/post/contemporary/) architectural [design](/post/design/)."
 
 ## Synonyms
-- [Design](/en/post/design/)
+- [Design](/post/design/)
 - Planning
 - Blueprint
-- [Layout](/en/post/layout/)
-- [Structural](/en/post/structural/) [design](/en/post/design/)
-- [Form](/en/post/form/)
-- [Style](/en/post/style/)
-- [Composition](/en/post/composition/)
+- [Layout](/post/layout/)
+- [Structural](/post/structural/) [design](/post/design/)
+- [Form](/post/form/)
+- [Style](/post/style/)
+- [Composition](/post/composition/)
 - Configuration
 - Conceptualization

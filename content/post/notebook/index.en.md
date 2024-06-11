@@ -7,31 +7,31 @@ description = '[ˈnəutbuk] n.笔记本，期票簿'
 keywords = ['ai words', 'notebook']
 +++
 
-## [Word](/en/post/word/): [Notebook](/en/post/notebook/)
+## [Word](/post/word/): [Notebook](/post/notebook/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnʊtbʊk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/) [book](/en/post/book/) [with](/en/post/with/) [blank](/en/post/blank/) pages [for](/en/post/for/) [writing](/en/post/writing/) notes, [often](/en/post/often/) [used](/en/post/used/) [by](/en/post/by/) students [for](/en/post/for/) taking [down](/en/post/down/) [class](/en/post/class/) notes, making lists, [or](/en/post/or/) jotting [down](/en/post/down/) ideas. 
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/) [book](/post/book/) [with](/post/with/) [blank](/post/blank/) pages [for](/post/for/) [writing](/post/writing/) notes, [often](/post/often/) [used](/post/used/) [by](/post/by/) students [for](/post/for/) taking [down](/post/down/) [class](/post/class/) notes, making lists, [or](/post/or/) jotting [down](/post/down/) ideas. 
 
-  - [Example](/en/post/example/) [sentence](/en/post/sentence/): [She](/en/post/she/) pulled [out](/en/post/out/) [her](/en/post/her/) [notebook](/en/post/notebook/) [and](/en/post/and/) began taking meticulous [lecture](/en/post/lecture/) notes [during](/en/post/during/) [the](/en/post/the/) [history](/en/post/history/) [class](/en/post/class/).
+  - [Example](/post/example/) [sentence](/post/sentence/): [She](/post/she/) pulled [out](/post/out/) [her](/post/her/) [notebook](/post/notebook/) [and](/post/and/) began taking meticulous [lecture](/post/lecture/) notes [during](/post/during/) [the](/post/the/) [history](/post/history/) [class](/post/class/).
   
 ## Phrases
-- "[Keep](/en/post/keep/) [a](/en/post/a/) [notebook](/en/post/notebook/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [record](/en/post/record/) [of](/en/post/of/) [information](/en/post/information/), thoughts, [or](/en/post/or/) ideas [in](/en/post/in/) [a](/en/post/a/) [notebook](/en/post/notebook/).
-- "[Notebook](/en/post/notebook/) PC" [or](/en/post/or/) "laptop" refers [to](/en/post/to/) [a](/en/post/a/) [portable](/en/post/portable/) [personal](/en/post/personal/) [computer](/en/post/computer/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) [easily](/en/post/easily/) carried [and](/en/post/and/) [used](/en/post/used/) [in](/en/post/in/) [different](/en/post/different/) locations.
-- "[A](/en/post/a/) [notebook](/en/post/notebook/) [full](/en/post/full/) [of](/en/post/of/) doodles" suggests [a](/en/post/a/) [journal](/en/post/journal/) [or](/en/post/or/) [diary](/en/post/diary/) filled [with](/en/post/with/) drawings [or](/en/post/or/) sketches done [while](/en/post/while/) [the](/en/post/the/) [user](/en/post/user/) was engaged [in](/en/post/in/) [another](/en/post/another/) [activity](/en/post/activity/).
+- "[Keep](/post/keep/) [a](/post/a/) [notebook](/post/notebook/)" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [record](/post/record/) [of](/post/of/) [information](/post/information/), thoughts, [or](/post/or/) ideas [in](/post/in/) [a](/post/a/) [notebook](/post/notebook/).
+- "[Notebook](/post/notebook/) PC" [or](/post/or/) "laptop" refers [to](/post/to/) [a](/post/a/) [portable](/post/portable/) [personal](/post/personal/) [computer](/post/computer/) [that](/post/that/) [can](/post/can/) [be](/post/be/) [easily](/post/easily/) carried [and](/post/and/) [used](/post/used/) [in](/post/in/) [different](/post/different/) locations.
+- "[A](/post/a/) [notebook](/post/notebook/) [full](/post/full/) [of](/post/of/) doodles" suggests [a](/post/a/) [journal](/post/journal/) [or](/post/or/) [diary](/post/diary/) filled [with](/post/with/) drawings [or](/post/or/) sketches done [while](/post/while/) [the](/post/the/) [user](/post/user/) was engaged [in](/post/in/) [another](/post/another/) [activity](/post/activity/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) detective flipped [through](/en/post/through/) [his](/en/post/his/) worn [notebook](/en/post/notebook/), scanning [for](/en/post/for/) clues [he](/en/post/he/) [might](/en/post/might/) [have](/en/post/have/) missed earlier.
-- "[In](/en/post/in/) [his](/en/post/his/) schoolbag, [he](/en/post/he/) had neatly arranged [his](/en/post/his/) textbooks alongside [his](/en/post/his/) spiral-bound [notebook](/en/post/notebook/)."
-- "[Her](/en/post/her/) [notebook](/en/post/notebook/) was [a](/en/post/a/) [treasure](/en/post/treasure/) trove [of](/en/post/of/) [creative](/en/post/creative/) ideas [and](/en/post/and/) musings."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) detective flipped [through](/post/through/) [his](/post/his/) worn [notebook](/post/notebook/), scanning [for](/post/for/) clues [he](/post/he/) [might](/post/might/) [have](/post/have/) missed earlier.
+- "[In](/post/in/) [his](/post/his/) schoolbag, [he](/post/he/) had neatly arranged [his](/post/his/) textbooks alongside [his](/post/his/) spiral-bound [notebook](/post/notebook/)."
+- "[Her](/post/her/) [notebook](/post/notebook/) was [a](/post/a/) [treasure](/post/treasure/) trove [of](/post/of/) [creative](/post/creative/) ideas [and](/post/and/) musings."
 
 ## Synonyms
-- [Journal](/en/post/journal/)
-- [Diary](/en/post/diary/)
+- [Journal](/post/journal/)
+- [Diary](/post/diary/)
 - Notepad
-- Memorandum [book](/en/post/book/)
-- Scrapbook ([for](/en/post/for/) storing notes, clippings, etc.)
-- Planner ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) scheduling [and](/en/post/and/) organizing)
-- Logbook ([in](/en/post/in/) [certain](/en/post/certain/) [professional](/en/post/professional/) contexts [like](/en/post/like/) [science](/en/post/science/) [or](/en/post/or/) [navigation](/en/post/navigation/))
+- Memorandum [book](/post/book/)
+- Scrapbook ([for](/post/for/) storing notes, clippings, etc.)
+- Planner ([in](/post/in/) [the](/post/the/) context [of](/post/of/) scheduling [and](/post/and/) organizing)
+- Logbook ([in](/post/in/) [certain](/post/certain/) [professional](/post/professional/) contexts [like](/post/like/) [science](/post/science/) [or](/post/or/) [navigation](/post/navigation/))

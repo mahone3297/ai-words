@@ -7,38 +7,38 @@ description = '[əˈpɔlədʒi] n.道歉，认错，谢罪'
 keywords = ['ai words', 'apology']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈpɑːlədʒi/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. An [expression](/en/post/expression/) [of](/en/post/of/) [regret](/en/post/regret/) or歉意 [for](/en/post/for/) one's actions, words, [or](/en/post/or/) [behavior](/en/post/behavior/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) offered [a](/en/post/a/) heartfelt [apology](/en/post/apology/) [for](/en/post/for/) [her](/en/post/her/) [mistake](/en/post/mistake/)."
-2. [A](/en/post/a/) [formal](/en/post/formal/) [statement](/en/post/statement/) acknowledging [a](/en/post/a/) [fault](/en/post/fault/) [or](/en/post/or/) wrongdoing. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) wrote [a](/en/post/a/) [letter](/en/post/letter/) [of](/en/post/of/) [apology](/en/post/apology/) [to](/en/post/to/) [his](/en/post/his/) [friend](/en/post/friend/)."
+### [Noun](/post/noun/)
+1. An [expression](/post/expression/) [of](/post/of/) [regret](/post/regret/) or歉意 [for](/post/for/) one's actions, words, [or](/post/or/) [behavior](/post/behavior/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) offered [a](/post/a/) heartfelt [apology](/post/apology/) [for](/post/for/) [her](/post/her/) [mistake](/post/mistake/)."
+2. [A](/post/a/) [formal](/post/formal/) [statement](/post/statement/) acknowledging [a](/post/a/) [fault](/post/fault/) [or](/post/or/) wrongdoing. [For](/post/for/) [example](/post/example/): "[He](/post/he/) wrote [a](/post/a/) [letter](/post/letter/) [of](/post/of/) [apology](/post/apology/) [to](/post/to/) [his](/post/his/) [friend](/post/friend/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) acknowledge [a](/en/post/a/) [fault](/en/post/fault/) [or](/en/post/or/) wrongdoing [with](/en/post/with/) an [apology](/en/post/apology/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) apologized profusely [for](/en/post/for/) [her](/en/post/her/) [rude](/en/post/rude/) [behavior](/en/post/behavior/)."
-2. [To](/en/post/to/) [express](/en/post/express/) remorse [or](/en/post/or/) [regret](/en/post/regret/) [for](/en/post/for/) [something](/en/post/something/) done. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) apologized [to](/en/post/to/) [his](/en/post/his/) [boss](/en/post/boss/) [for](/en/post/for/) [being](/en/post/being/) [late](/en/post/late/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) acknowledge [a](/post/a/) [fault](/post/fault/) [or](/post/or/) wrongdoing [with](/post/with/) an [apology](/post/apology/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) apologized profusely [for](/post/for/) [her](/post/her/) [rude](/post/rude/) [behavior](/post/behavior/)."
+2. [To](/post/to/) [express](/post/express/) remorse [or](/post/or/) [regret](/post/regret/) [for](/post/for/) [something](/post/something/) done. [For](/post/for/) [example](/post/example/): "[He](/post/he/) apologized [to](/post/to/) [his](/post/his/) [boss](/post/boss/) [for](/post/for/) [being](/post/being/) [late](/post/late/)."
 
-### [Adjective](/en/post/adjective/)
-1. Expressing [or](/en/post/or/) involving an [apology](/en/post/apology/). [For](/en/post/for/) [example](/en/post/example/): "An apologetic [tone](/en/post/tone/) [in](/en/post/in/) [her](/en/post/her/) [voice](/en/post/voice/)."
-2. Showing [regret](/en/post/regret/) [or](/en/post/or/) contrition. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) wore an apologetic [look](/en/post/look/) [on](/en/post/on/) [her](/en/post/her/) [face](/en/post/face/)."
+### [Adjective](/post/adjective/)
+1. Expressing [or](/post/or/) involving an [apology](/post/apology/). [For](/post/for/) [example](/post/example/): "An apologetic [tone](/post/tone/) [in](/post/in/) [her](/post/her/) [voice](/post/voice/)."
+2. Showing [regret](/post/regret/) [or](/post/or/) contrition. [For](/post/for/) [example](/post/example/): "[She](/post/she/) wore an apologetic [look](/post/look/) [on](/post/on/) [her](/post/her/) [face](/post/face/)."
 
 ## Phrases
-- "[Make](/en/post/make/) an [apology](/en/post/apology/)" [means](/en/post/means/) [to](/en/post/to/) [express](/en/post/express/) [regret](/en/post/regret/) [or](/en/post/or/) remorse.
-- "[Apologize](/en/post/apologize/) [in](/en/post/in/) [person](/en/post/person/)" suggests giving [a](/en/post/a/) verbal [apology](/en/post/apology/) [directly](/en/post/directly/).
-- "I'm [sorry](/en/post/sorry/) [for](/en/post/for/) [the](/en/post/the/) inconvenience" is [a](/en/post/a/) [common](/en/post/common/) [way](/en/post/way/) [to](/en/post/to/) [apologize](/en/post/apologize/) [for](/en/post/for/) causing [trouble](/en/post/trouble/).
+- "[Make](/post/make/) an [apology](/post/apology/)" [means](/post/means/) [to](/post/to/) [express](/post/express/) [regret](/post/regret/) [or](/post/or/) remorse.
+- "[Apologize](/post/apologize/) [in](/post/in/) [person](/post/person/)" suggests giving [a](/post/a/) verbal [apology](/post/apology/) [directly](/post/directly/).
+- "I'm [sorry](/post/sorry/) [for](/post/for/) [the](/post/the/) inconvenience" is [a](/post/a/) [common](/post/common/) [way](/post/way/) [to](/post/to/) [apologize](/post/apologize/) [for](/post/for/) causing [trouble](/post/trouble/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) received an [apology](/en/post/apology/) [from](/en/post/from/) [her](/en/post/her/) [friend](/en/post/friend/) [after](/en/post/after/) [the](/en/post/the/) misunderstanding."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) realizing [his](/en/post/his/) [error](/en/post/error/), [he](/en/post/he/) [immediately](/en/post/immediately/) apologized [to](/en/post/to/) [the](/en/post/the/) [customer](/en/post/customer/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) apologetic [gesture](/en/post/gesture/) showed [how](/en/post/how/) [much](/en/post/much/) [he](/en/post/he/) regretted [his](/en/post/his/) actions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) received an [apology](/post/apology/) [from](/post/from/) [her](/post/her/) [friend](/post/friend/) [after](/post/after/) [the](/post/the/) misunderstanding."
+- **[Verb](/post/verb/)**: "[After](/post/after/) realizing [his](/post/his/) [error](/post/error/), [he](/post/he/) [immediately](/post/immediately/) apologized [to](/post/to/) [the](/post/the/) [customer](/post/customer/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) apologetic [gesture](/post/gesture/) showed [how](/post/how/) [much](/post/much/) [he](/post/he/) regretted [his](/post/his/) actions."
 
 ## Synonyms
-- [Apology](/en/post/apology/) ([noun](/en/post/noun/))
-- [Pardon](/en/post/pardon/)
+- [Apology](/post/apology/) ([noun](/post/noun/))
+- [Pardon](/post/pardon/)
 - Forgiveness
 - Repentance
-- [Regret](/en/post/regret/)
+- [Regret](/post/regret/)
 - Remorse
 - Exculpation
 - Amends

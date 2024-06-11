@@ -7,26 +7,26 @@ description = '[ˈstedili] ad.稳定地，不变地'
 keywords = ['ai words', 'steadily']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stiˈdɪli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [steady](/en/post/steady/) [manner](/en/post/manner/); consistently [without](/en/post/without/) [interruption](/en/post/interruption/) [or](/en/post/or/) [variation](/en/post/variation/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was working [steadily](/en/post/steadily/) [all](/en/post/all/) [day](/en/post/day/)."
-- **[Adjective](/en/post/adjective/)**: [Firm](/en/post/firm/) [and](/en/post/and/) unchanging; [constant](/en/post/constant/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [ship](/en/post/ship/) sailed [steadily](/en/post/steadily/) [through](/en/post/through/) [the](/en/post/the/) [calm](/en/post/calm/) waters."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [progress](/en/post/progress/) [steadily](/en/post/steadily/); [maintain](/en/post/maintain/) [a](/en/post/a/) [consistent](/en/post/consistent/) [pace](/en/post/pace/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [steadily](/en/post/steadily/) improved [his](/en/post/his/) skills [over](/en/post/over/) [time](/en/post/time/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [steady](/post/steady/) [manner](/post/manner/); consistently [without](/post/without/) [interruption](/post/interruption/) [or](/post/or/) [variation](/post/variation/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was working [steadily](/post/steadily/) [all](/post/all/) [day](/post/day/)."
+- **[Adjective](/post/adjective/)**: [Firm](/post/firm/) [and](/post/and/) unchanging; [constant](/post/constant/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [ship](/post/ship/) sailed [steadily](/post/steadily/) [through](/post/through/) [the](/post/the/) [calm](/post/calm/) waters."
+- **[Verb](/post/verb/)**: [To](/post/to/) [move](/post/move/) [or](/post/or/) [progress](/post/progress/) [steadily](/post/steadily/); [maintain](/post/maintain/) [a](/post/a/) [consistent](/post/consistent/) [pace](/post/pace/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) [steadily](/post/steadily/) improved [his](/post/his/) skills [over](/post/over/) [time](/post/time/)."
 
 ## Phrases
-- "[Maintain](/en/post/maintain/) [a](/en/post/a/) [steady](/en/post/steady/) [pace](/en/post/pace/)" refers [to](/en/post/to/) keeping [a](/en/post/a/) [consistent](/en/post/consistent/) [rhythm](/en/post/rhythm/) [or](/en/post/or/) [speed](/en/post/speed/).
-- "[Steadily](/en/post/steadily/) increasing" indicates [a](/en/post/a/) [gradual](/en/post/gradual/) [and](/en/post/and/) [continuous](/en/post/continuous/) [rise](/en/post/rise/).
-- "[Steady](/en/post/steady/) hands" is [a](/en/post/a/) metaphor [for](/en/post/for/) [someone](/en/post/someone/) [who](/en/post/who/) is [calm](/en/post/calm/) [and](/en/post/and/) [not](/en/post/not/) [easily](/en/post/easily/) distracted.
+- "[Maintain](/post/maintain/) [a](/post/a/) [steady](/post/steady/) [pace](/post/pace/)" refers [to](/post/to/) keeping [a](/post/a/) [consistent](/post/consistent/) [rhythm](/post/rhythm/) [or](/post/or/) [speed](/post/speed/).
+- "[Steadily](/post/steadily/) increasing" indicates [a](/post/a/) [gradual](/post/gradual/) [and](/post/and/) [continuous](/post/continuous/) [rise](/post/rise/).
+- "[Steady](/post/steady/) hands" is [a](/post/a/) metaphor [for](/post/for/) [someone](/post/someone/) [who](/post/who/) is [calm](/post/calm/) [and](/post/and/) [not](/post/not/) [easily](/post/easily/) distracted.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) typed [steadily](/en/post/steadily/) [on](/en/post/on/) [her](/en/post/her/) [keyboard](/en/post/keyboard/), finishing [the](/en/post/the/) [report](/en/post/report/) [in](/en/post/in/) [no](/en/post/no/) [time](/en/post/time/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [car](/en/post/car/) drove [steadily](/en/post/steadily/) [down](/en/post/down/) [the](/en/post/the/) [highway](/en/post/highway/)."
-- **[Verb](/en/post/verb/)**: "[Over](/en/post/over/) [time](/en/post/time/), [he](/en/post/he/) [steadily](/en/post/steadily/) gained [confidence](/en/post/confidence/) [in](/en/post/in/) [public](/en/post/public/) speaking."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) typed [steadily](/post/steadily/) [on](/post/on/) [her](/post/her/) [keyboard](/post/keyboard/), finishing [the](/post/the/) [report](/post/report/) [in](/post/in/) [no](/post/no/) [time](/post/time/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [car](/post/car/) drove [steadily](/post/steadily/) [down](/post/down/) [the](/post/the/) [highway](/post/highway/)."
+- **[Verb](/post/verb/)**: "[Over](/post/over/) [time](/post/time/), [he](/post/he/) [steadily](/post/steadily/) gained [confidence](/post/confidence/) [in](/post/in/) [public](/post/public/) speaking."
 
 ## Synonyms
-- [Regularly](/en/post/regularly/)
+- [Regularly](/post/regularly/)
 - Constantly
 - Unwavering
 - Steadfast

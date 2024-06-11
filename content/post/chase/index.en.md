@@ -7,34 +7,34 @@ description = '[t∫eis] n.追逐，追赶，追求'
 keywords = ['ai words', 'chase']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /chse/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [pursue](/en/post/pursue/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) capturing [or](/en/post/or/) stopping, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) competitive [or](/en/post/or/) playful [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) children were chasing [each](/en/post/each/) [other](/en/post/other/) [around](/en/post/around/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) pursuing, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [game](/en/post/game/) [or](/en/post/or/) [competition](/en/post/competition/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [police](/en/post/police/) chased [the](/en/post/the/) [thief](/en/post/thief/) [through](/en/post/through/) [the](/en/post/the/) streets."
-- **[Adjective](/en/post/adjective/)**: [Intense](/en/post/intense/) [or](/en/post/or/) [enthusiastic](/en/post/enthusiastic/) [pursuit](/en/post/pursuit/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [chase](/en/post/chase/) [for](/en/post/for/) [the](/en/post/the/) championship was thrilling."
+- **[Verb](/post/verb/)**: [To](/post/to/) [pursue](/post/pursue/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) capturing [or](/post/or/) stopping, [often](/post/often/) [in](/post/in/) [a](/post/a/) competitive [or](/post/or/) playful [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) children were chasing [each](/post/each/) [other](/post/other/) [around](/post/around/) [the](/post/the/) [park](/post/park/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) pursuing, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [game](/post/game/) [or](/post/or/) [competition](/post/competition/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [police](/post/police/) chased [the](/post/the/) [thief](/post/thief/) [through](/post/through/) [the](/post/the/) streets."
+- **[Adjective](/post/adjective/)**: [Intense](/post/intense/) [or](/post/or/) [enthusiastic](/post/enthusiastic/) [pursuit](/post/pursuit/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [chase](/post/chase/) [for](/post/for/) [the](/post/the/) championship was thrilling."
 
 ## Phrases
-- "[Chase](/en/post/chase/) [after](/en/post/after/) [someone](/en/post/someone/)" implies pursuing someone's [attention](/en/post/attention/) [or](/en/post/or/) [goal](/en/post/goal/).
-- "[The](/en/post/the/) [race](/en/post/race/) was [on](/en/post/on/) [as](/en/post/as/) [they](/en/post/they/) chased [the](/en/post/the/) [finish](/en/post/finish/) [line](/en/post/line/)."
-- "[A](/en/post/a/) [wild](/en/post/wild/) [goose](/en/post/goose/) [chase](/en/post/chase/)" refers [to](/en/post/to/) an unsuccessful [search](/en/post/search/) [or](/en/post/or/) [pursuit](/en/post/pursuit/).
+- "[Chase](/post/chase/) [after](/post/after/) [someone](/post/someone/)" implies pursuing someone's [attention](/post/attention/) [or](/post/or/) [goal](/post/goal/).
+- "[The](/post/the/) [race](/post/race/) was [on](/post/on/) [as](/post/as/) [they](/post/they/) chased [the](/post/the/) [finish](/post/finish/) [line](/post/line/)."
+- "[A](/post/a/) [wild](/post/wild/) [goose](/post/goose/) [chase](/post/chase/)" refers [to](/post/to/) an unsuccessful [search](/post/search/) [or](/post/or/) [pursuit](/post/pursuit/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [chase](/en/post/chase/) [his](/en/post/his/) [dream](/en/post/dream/) [of](/en/post/of/) becoming [a](/en/post/a/) [professional](/en/post/professional/) [athlete](/en/post/athlete/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) detectives were [hot](/en/post/hot/) [on](/en/post/on/) [the](/en/post/the/) [trail](/en/post/trail/) [of](/en/post/of/) [the](/en/post/the/) stolen artifact, determined [to](/en/post/to/) [chase](/en/post/chase/) [it](/en/post/it/) [down](/en/post/down/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) eyes were fixed [on](/en/post/on/) [the](/en/post/the/) [prize](/en/post/prize/), chasing [success](/en/post/success/) relentlessly."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [chase](/post/chase/) [his](/post/his/) [dream](/post/dream/) [of](/post/of/) becoming [a](/post/a/) [professional](/post/professional/) [athlete](/post/athlete/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) detectives were [hot](/post/hot/) [on](/post/on/) [the](/post/the/) [trail](/post/trail/) [of](/post/of/) [the](/post/the/) stolen artifact, determined [to](/post/to/) [chase](/post/chase/) [it](/post/it/) [down](/post/down/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) eyes were fixed [on](/post/on/) [the](/post/the/) [prize](/post/prize/), chasing [success](/post/success/) relentlessly."
 
 ## Synonyms
-- [Pursuit](/en/post/pursuit/)
-- [Run](/en/post/run/) [after](/en/post/after/)
-- [Hunt](/en/post/hunt/)
-- [Follow](/en/post/follow/)
-- [Chase](/en/post/chase/) [after](/en/post/after/) ([also](/en/post/also/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
-- [Go](/en/post/go/) [after](/en/post/after/)
-- [Go](/en/post/go/) [for](/en/post/for/)
+- [Pursuit](/post/pursuit/)
+- [Run](/post/run/) [after](/post/after/)
+- [Hunt](/post/hunt/)
+- [Follow](/post/follow/)
+- [Chase](/post/chase/) [after](/post/after/) ([also](/post/also/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/))
+- [Go](/post/go/) [after](/post/after/)
+- [Go](/post/go/) [for](/post/for/)
 
 ## Antonyms
-- [Avoid](/en/post/avoid/)
-- [Escape](/en/post/escape/)
-- [Lose](/en/post/lose/) ([in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/))
+- [Avoid](/post/avoid/)
+- [Escape](/post/escape/)
+- [Lose](/post/lose/) ([in](/post/in/) [a](/post/a/) [competition](/post/competition/))

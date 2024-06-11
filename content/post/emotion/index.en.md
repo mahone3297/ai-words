@@ -7,33 +7,33 @@ description = '[iˈməu∫ən] n.情感，感情；激动'
 keywords = ['ai words', 'emotion']
 +++
 
-## [Word](/en/post/word/): [Emotion](/en/post/emotion/)
+## [Word](/post/word/): [Emotion](/post/emotion/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈmoʊʃn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [complex](/en/post/complex/) [mental](/en/post/mental/) [state](/en/post/state/) involving feelings, thoughts, [and](/en/post/and/) physiological reactions, typically triggered [by](/en/post/by/) [external](/en/post/external/) [or](/en/post/or/) [internal](/en/post/internal/) stimuli. [It](/en/post/it/) [can](/en/post/can/) [drive](/en/post/drive/) [behavior](/en/post/behavior/) [and](/en/post/and/) [influence](/en/post/influence/) decision-making. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) emotions were running [high](/en/post/high/) [during](/en/post/during/) [the](/en/post/the/) [farewell](/en/post/farewell/) [speech](/en/post/speech/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [complex](/post/complex/) [mental](/post/mental/) [state](/post/state/) involving feelings, thoughts, [and](/post/and/) physiological reactions, typically triggered [by](/post/by/) [external](/post/external/) [or](/post/or/) [internal](/post/internal/) stimuli. [It](/post/it/) [can](/post/can/) [drive](/post/drive/) [behavior](/post/behavior/) [and](/post/and/) [influence](/post/influence/) decision-making. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) emotions were running [high](/post/high/) [during](/post/during/) [the](/post/the/) [farewell](/post/farewell/) [speech](/post/speech/)."
 
-  - _Example [Sentence](/en/post/sentence/):_ "[He](/en/post/he/) struggled [to](/en/post/to/) [hide](/en/post/hide/) [his](/en/post/his/) emotions [when](/en/post/when/) [he](/en/post/he/) [saw](/en/post/saw/) [her](/en/post/her/) [again](/en/post/again/) [after](/en/post/after/) years [apart](/en/post/apart/)."
+  - _Example [Sentence](/post/sentence/):_ "[He](/post/he/) struggled [to](/post/to/) [hide](/post/hide/) [his](/post/his/) emotions [when](/post/when/) [he](/post/he/) [saw](/post/saw/) [her](/post/her/) [again](/post/again/) [after](/post/after/) years [apart](/post/apart/)."
 
 ## Phrases
-- "[In](/en/post/in/) [a](/en/post/a/) [fit](/en/post/fit/) [of](/en/post/of/) [emotion](/en/post/emotion/)": Describes an outburst [or](/en/post/or/) [strong](/en/post/strong/) [display](/en/post/display/) [of](/en/post/of/) [emotion](/en/post/emotion/).
-- "[Emotional](/en/post/emotional/) rollercoaster": Refers [to](/en/post/to/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [intense](/en/post/intense/), fluctuating emotions experienced [over](/en/post/over/) [time](/en/post/time/).
-- "[Play](/en/post/play/) [on](/en/post/on/) one's emotions": [To](/en/post/to/) manipulate someone's feelings [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/).
+- "[In](/post/in/) [a](/post/a/) [fit](/post/fit/) [of](/post/of/) [emotion](/post/emotion/)": Describes an outburst [or](/post/or/) [strong](/post/strong/) [display](/post/display/) [of](/post/of/) [emotion](/post/emotion/).
+- "[Emotional](/post/emotional/) rollercoaster": Refers [to](/post/to/) [a](/post/a/) [series](/post/series/) [of](/post/of/) [intense](/post/intense/), fluctuating emotions experienced [over](/post/over/) [time](/post/time/).
+- "[Play](/post/play/) [on](/post/on/) one's emotions": [To](/post/to/) manipulate someone's feelings [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [film](/en/post/film/) was [so](/en/post/so/) moving [that](/en/post/that/) [it](/en/post/it/) evoked [a](/en/post/a/) [range](/en/post/range/) [of](/en/post/of/) emotions [from](/en/post/from/) [its](/en/post/its/) [audience](/en/post/audience/)."
-- "[Understanding](/en/post/understanding/) [and](/en/post/and/) managing [your](/en/post/your/) emotions is [a](/en/post/a/) [key](/en/post/key/) [part](/en/post/part/) [of](/en/post/of/) [emotional](/en/post/emotional/) [intelligence](/en/post/intelligence/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [film](/post/film/) was [so](/post/so/) moving [that](/post/that/) [it](/post/it/) evoked [a](/post/a/) [range](/post/range/) [of](/post/of/) emotions [from](/post/from/) [its](/post/its/) [audience](/post/audience/)."
+- "[Understanding](/post/understanding/) [and](/post/and/) managing [your](/post/your/) emotions is [a](/post/a/) [key](/post/key/) [part](/post/part/) [of](/post/of/) [emotional](/post/emotional/) [intelligence](/post/intelligence/)."
 
 ## Synonyms
-- [Feeling](/en/post/feeling/)
+- [Feeling](/post/feeling/)
 - Sentiment
-- [Passion](/en/post/passion/)
+- [Passion](/post/passion/)
 - Sensation
-- [Affect](/en/post/affect/)
-- [Mood](/en/post/mood/)
-- [Affection](/en/post/affection/)
-- Heartfelt [response](/en/post/response/)
-- [Emotional](/en/post/emotional/) [reaction](/en/post/reaction/)
-- [Inner](/en/post/inner/) turmoil
+- [Affect](/post/affect/)
+- [Mood](/post/mood/)
+- [Affection](/post/affection/)
+- Heartfelt [response](/post/response/)
+- [Emotional](/post/emotional/) [reaction](/post/reaction/)
+- [Inner](/post/inner/) turmoil

@@ -7,33 +7,33 @@ description = '[təu] n.脚趾，足尖'
 keywords = ['ai words', 'toe']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /toʊ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/) [bone](/en/post/bone/) [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [foot](/en/post/foot/), connecting [the](/en/post/the/) [foot](/en/post/foot/) [to](/en/post/to/) [the](/en/post/the/) [leg](/en/post/leg/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) stubbed [his](/en/post/his/) [toe](/en/post/toe/) [on](/en/post/on/) [the](/en/post/the/) [furniture](/en/post/furniture/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [touch](/en/post/touch/) [or](/en/post/or/) [hit](/en/post/hit/) [with](/en/post/with/) [the](/en/post/the/) [toe](/en/post/toe/), [often](/en/post/often/) causing [pain](/en/post/pain/) [or](/en/post/or/) [injury](/en/post/injury/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) accidentally toe-danced [on](/en/post/on/) [the](/en/post/the/) [sharp](/en/post/sharp/) [edge](/en/post/edge/)."
-- **[Pronoun](/en/post/pronoun/)**: (informal) Referring [to](/en/post/to/) one's [own](/en/post/own/) [foot](/en/post/foot/). [For](/en/post/for/) [example](/en/post/example/): "[Keep](/en/post/keep/) [your](/en/post/your/) toes [warm](/en/post/warm/), it's [cold](/en/post/cold/) [outside](/en/post/outside/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/) [bone](/post/bone/) [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [foot](/post/foot/), connecting [the](/post/the/) [foot](/post/foot/) [to](/post/to/) [the](/post/the/) [leg](/post/leg/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) stubbed [his](/post/his/) [toe](/post/toe/) [on](/post/on/) [the](/post/the/) [furniture](/post/furniture/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [touch](/post/touch/) [or](/post/or/) [hit](/post/hit/) [with](/post/with/) [the](/post/the/) [toe](/post/toe/), [often](/post/often/) causing [pain](/post/pain/) [or](/post/or/) [injury](/post/injury/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) accidentally toe-danced [on](/post/on/) [the](/post/the/) [sharp](/post/sharp/) [edge](/post/edge/)."
+- **[Pronoun](/post/pronoun/)**: (informal) Referring [to](/post/to/) one's [own](/post/own/) [foot](/post/foot/). [For](/post/for/) [example](/post/example/): "[Keep](/post/keep/) [your](/post/your/) toes [warm](/post/warm/), it's [cold](/post/cold/) [outside](/post/outside/)."
 
 ## Phrases
-- "[Hit](/en/post/hit/)/[Touch](/en/post/touch/) [a](/en/post/a/) [toe](/en/post/toe/)" [means](/en/post/means/) [to](/en/post/to/) [strike](/en/post/strike/) or碰触 [the](/en/post/the/) [toe](/en/post/toe/) unintentionally.
-- "Tweak [your](/en/post/your/) [toe](/en/post/toe/)" is [a](/en/post/a/) colloquial [way](/en/post/way/) [of](/en/post/of/) saying [to](/en/post/to/) accidentally [hurt](/en/post/hurt/) [your](/en/post/your/) [toe](/en/post/toe/).
-- "[Toe](/en/post/toe/) [the](/en/post/the/) [line](/en/post/line/)" (idiomatic) [means](/en/post/means/) [to](/en/post/to/) [follow](/en/post/follow/) rules [or](/en/post/or/) instructions precisely.
+- "[Hit](/post/hit/)/[Touch](/post/touch/) [a](/post/a/) [toe](/post/toe/)" [means](/post/means/) [to](/post/to/) [strike](/post/strike/) or碰触 [the](/post/the/) [toe](/post/toe/) unintentionally.
+- "Tweak [your](/post/your/) [toe](/post/toe/)" is [a](/post/a/) colloquial [way](/post/way/) [of](/post/of/) saying [to](/post/to/) accidentally [hurt](/post/hurt/) [your](/post/your/) [toe](/post/toe/).
+- "[Toe](/post/toe/) [the](/post/the/) [line](/post/line/)" (idiomatic) [means](/post/means/) [to](/post/to/) [follow](/post/follow/) rules [or](/post/or/) instructions precisely.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [child](/en/post/child/) wiggled [their](/en/post/their/) toes [in](/en/post/in/) [the](/en/post/the/) [sand](/en/post/sand/) [at](/en/post/at/) [the](/en/post/the/) [beach](/en/post/beach/)."
-- **[Verb](/en/post/verb/)**: "I felt [a](/en/post/a/) [sharp](/en/post/sharp/) [pain](/en/post/pain/) [when](/en/post/when/) I toe-tested [the](/en/post/the/) [surface](/en/post/surface/)."
-- **[Pronoun](/en/post/pronoun/)**: "[He](/en/post/he/) rubbed [his](/en/post/his/) [sore](/en/post/sore/) [toe](/en/post/toe/), hoping [it](/en/post/it/) [would](/en/post/would/) [feel](/en/post/feel/) [better](/en/post/better/) [soon](/en/post/soon/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [child](/post/child/) wiggled [their](/post/their/) toes [in](/post/in/) [the](/post/the/) [sand](/post/sand/) [at](/post/at/) [the](/post/the/) [beach](/post/beach/)."
+- **[Verb](/post/verb/)**: "I felt [a](/post/a/) [sharp](/post/sharp/) [pain](/post/pain/) [when](/post/when/) I toe-tested [the](/post/the/) [surface](/post/surface/)."
+- **[Pronoun](/post/pronoun/)**: "[He](/post/he/) rubbed [his](/post/his/) [sore](/post/sore/) [toe](/post/toe/), hoping [it](/post/it/) [would](/post/would/) [feel](/post/feel/) [better](/post/better/) [soon](/post/soon/)."
 
 ## Synonyms
 - Foottip
-- [Claw](/en/post/claw/)
-- [Tip](/en/post/tip/) [of](/en/post/of/) [the](/en/post/the/) [foot](/en/post/foot/)
-- [First](/en/post/first/) digit
-- Proximal phalanx [of](/en/post/of/) [the](/en/post/the/) [foot](/en/post/foot/)
+- [Claw](/post/claw/)
+- [Tip](/post/tip/) [of](/post/of/) [the](/post/the/) [foot](/post/foot/)
+- [First](/post/first/) digit
+- Proximal phalanx [of](/post/of/) [the](/post/the/) [foot](/post/foot/)
 
 ## Antonyms
-- [Heel](/en/post/heel/)
+- [Heel](/post/heel/)
 - Midfoot
 - Arch
 - Calf

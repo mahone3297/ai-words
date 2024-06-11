@@ -11,20 +11,20 @@ keywords = ['ai words', 'defeat']
 /diːˈfiːt/
 
 ## 释义
-- **动词**: 战胜，击败。例如: "[The](/post/the/) underdog [team](/post/team/) managed [to](/post/to/) [defeat](/post/defeat/) [the](/post/the/) champions [in](/post/in/) [the](/post/the/) [final](/post/final/) [match](/post/match/)."
-- **名词**: 失败，挫败。例如: "[Despite](/post/despite/) [their](/post/their/) efforts, [they](/post/they/) faced [a](/post/a/) [bitter](/post/bitter/) [defeat](/post/defeat/) [in](/post/in/) [the](/post/the/) [election](/post/election/)."
+- **动词**: 战胜，击败。例如: "[The](/zh/post/the/) underdog [team](/zh/post/team/) managed [to](/zh/post/to/) [defeat](/zh/post/defeat/) [the](/zh/post/the/) champions [in](/zh/post/in/) [the](/zh/post/the/) [final](/zh/post/final/) [match](/zh/post/match/)."
+- **名词**: 失败，挫败。例如: "[Despite](/zh/post/despite/) [their](/zh/post/their/) efforts, [they](/zh/post/they/) faced [a](/zh/post/a/) [bitter](/zh/post/bitter/) [defeat](/zh/post/defeat/) [in](/zh/post/in/) [the](/zh/post/the/) [election](/zh/post/election/)."
 
 ## 短语
-- "[defeat](/post/defeat/) an [opponent](/post/opponent/)" 意为战胜对手。
-- "[suffer](/post/suffer/) [a](/post/a/) [defeat](/post/defeat/)" 指经历失败。
+- "[defeat](/zh/post/defeat/) an [opponent](/zh/post/opponent/)" 意为战胜对手。
+- "[suffer](/zh/post/suffer/) [a](/zh/post/a/) [defeat](/zh/post/defeat/)" 指经历失败。
 
 ## 例句
-- 动词: "[The](/post/the/) [army](/post/army/) defeated [the](/post/the/) [enemy](/post/enemy/) forces [with](/post/with/) [a](/post/a/) [clever](/post/clever/) [strategy](/post/strategy/)."
-- 名词: "[Their](/post/their/) [defeat](/post/defeat/) [in](/post/in/) [the](/post/the/) [battle](/post/battle/) marked [the](/post/the/) [end](/post/end/) [of](/post/of/) [their](/post/their/) [campaign](/post/campaign/)."
+- 动词: "[The](/zh/post/the/) [army](/zh/post/army/) defeated [the](/zh/post/the/) [enemy](/zh/post/enemy/) forces [with](/zh/post/with/) [a](/zh/post/a/) [clever](/zh/post/clever/) [strategy](/zh/post/strategy/)."
+- 名词: "[Their](/zh/post/their/) [defeat](/zh/post/defeat/) [in](/zh/post/in/) [the](/zh/post/the/) [battle](/zh/post/battle/) marked [the](/zh/post/the/) [end](/zh/post/end/) [of](/zh/post/of/) [their](/zh/post/their/) [campaign](/zh/post/campaign/)."
 
 ## 同义词
-- [overcome](/post/overcome/)
-- [conquer](/post/conquer/)
+- [overcome](/zh/post/overcome/)
+- [conquer](/zh/post/conquer/)
 - vanquish
-- [triumph](/post/triumph/) [over](/post/over/)
+- [triumph](/zh/post/triumph/) [over](/zh/post/over/)
 - outdo

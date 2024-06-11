@@ -7,36 +7,36 @@ description = '[ˌɔːtəˈməubil] n.汽车，机动车'
 keywords = ['ai words', 'automobile']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈbəʊˌtuːm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [vehicle](/en/post/vehicle/) [with](/en/post/with/) [four](/en/post/four/) wheels, powered [by](/en/post/by/) an [internal](/en/post/internal/) combustion [engine](/en/post/engine/), designed [for](/en/post/for/) [the](/en/post/the/) [passenger](/en/post/passenger/) [transportation](/en/post/transportation/) [on](/en/post/on/) roads. ([Also](/en/post/also/) known [as](/en/post/as/) [car](/en/post/car/))
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) an [automobile](/en/post/automobile/), [such](/en/post/such/) [as](/en/post/as/) self-propelled [or](/en/post/or/) motorized. (E.g., "an [automobile](/en/post/automobile/) [engine](/en/post/engine/)")
+- **[Noun](/post/noun/)**: [A](/post/a/) [vehicle](/post/vehicle/) [with](/post/with/) [four](/post/four/) wheels, powered [by](/post/by/) an [internal](/post/internal/) combustion [engine](/post/engine/), designed [for](/post/for/) [the](/post/the/) [passenger](/post/passenger/) [transportation](/post/transportation/) [on](/post/on/) roads. ([Also](/post/also/) known [as](/post/as/) [car](/post/car/))
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) an [automobile](/post/automobile/), [such](/post/such/) [as](/post/as/) self-propelled [or](/post/or/) motorized. (E.g., "an [automobile](/post/automobile/) [engine](/post/engine/)")
 
 ## Phrases
-- "[Drive](/en/post/drive/) an [automobile](/en/post/automobile/)"
-- "[Own](/en/post/own/) an [automobile](/en/post/automobile/)"
-- "[Modern](/en/post/modern/) [automobile](/en/post/automobile/) [technology](/en/post/technology/)"
-- "Classic [automobile](/en/post/automobile/) collector"
+- "[Drive](/post/drive/) an [automobile](/post/automobile/)"
+- "[Own](/post/own/) an [automobile](/post/automobile/)"
+- "[Modern](/post/modern/) [automobile](/post/automobile/) [technology](/post/technology/)"
+- "Classic [automobile](/post/automobile/) collector"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) purchased [a](/en/post/a/) [new](/en/post/new/) [automobile](/en/post/automobile/) [last](/en/post/last/) [month](/en/post/month/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [automobile](/en/post/automobile/) [industry](/en/post/industry/) is constantly evolving."
-- "[She](/en/post/she/) arrived [in](/en/post/in/) [her](/en/post/her/) sleek, [red](/en/post/red/) [automobile](/en/post/automobile/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) purchased [a](/post/a/) [new](/post/new/) [automobile](/post/automobile/) [last](/post/last/) [month](/post/month/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [automobile](/post/automobile/) [industry](/post/industry/) is constantly evolving."
+- "[She](/post/she/) arrived [in](/post/in/) [her](/post/her/) sleek, [red](/post/red/) [automobile](/post/automobile/)."
 
 ## Synonyms
-- [Car](/en/post/car/)
-- [Vehicle](/en/post/vehicle/)
+- [Car](/post/car/)
+- [Vehicle](/post/vehicle/)
 - Motorcar
-- [Auto](/en/post/auto/)
-- [Machine](/en/post/machine/)
+- [Auto](/post/auto/)
+- [Machine](/post/machine/)
 - Sedan
 - SUV
-- [Truck](/en/post/truck/)
+- [Truck](/post/truck/)
 
 ## Antonyms
-- [Bicycle](/en/post/bicycle/)
-- [Bicycle](/en/post/bicycle/) ([as](/en/post/as/) [a](/en/post/a/) [contrast](/en/post/contrast/) [to](/en/post/to/) [a](/en/post/a/) motorized [vehicle](/en/post/vehicle/))
+- [Bicycle](/post/bicycle/)
+- [Bicycle](/post/bicycle/) ([as](/post/as/) [a](/post/a/) [contrast](/post/contrast/) [to](/post/to/) [a](/post/a/) motorized [vehicle](/post/vehicle/))
 - Non-motorized
-- [Public](/en/post/public/) [transport](/en/post/transport/) (e.g., [bus](/en/post/bus/), [train](/en/post/train/))
+- [Public](/post/public/) [transport](/post/transport/) (e.g., [bus](/post/bus/), [train](/post/train/))

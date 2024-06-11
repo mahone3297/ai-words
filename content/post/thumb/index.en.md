@@ -7,27 +7,27 @@ description = '[θʌm] n.(大)拇指'
 keywords = ['ai words', 'thumb']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /θʌm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [short](/en/post/short/) [finger](/en/post/finger/) [on](/en/post/on/) [the](/en/post/the/) [hand](/en/post/hand/) [between](/en/post/between/) [the](/en/post/the/) [index](/en/post/index/) [and](/en/post/and/) [the](/en/post/the/) [wrist](/en/post/wrist/), typically [the](/en/post/the/) [first](/en/post/first/) [one](/en/post/one/) [when](/en/post/when/) counting [from](/en/post/from/) [the](/en/post/the/) [base](/en/post/base/). 2. (informal) An informal [greeting](/en/post/greeting/) [or](/en/post/or/) [sign](/en/post/sign/) [of](/en/post/of/) [approval](/en/post/approval/), [often](/en/post/often/) accompanied [by](/en/post/by/) [a](/en/post/a/) [simple](/en/post/simple/) [touch](/en/post/touch/) [or](/en/post/or/) [squeeze](/en/post/squeeze/). 3. [A](/en/post/a/) person's拇指 (mǔ zhǐ) [in](/en/post/in/) Chinese.
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [extend](/en/post/extend/) [or](/en/post/or/) [move](/en/post/move/) one's [thumb](/en/post/thumb/) [up](/en/post/up/) [or](/en/post/or/) [down](/en/post/down/) [as](/en/post/as/) [a](/en/post/a/) [gesture](/en/post/gesture/) [of](/en/post/of/) [approval](/en/post/approval/) [or](/en/post/or/) disapproval. 2. [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) thumbs-up [or](/en/post/or/) thumbs-down (thumbs [up](/en/post/up/)/[down](/en/post/down/)) [to](/en/post/to/) [show](/en/post/show/) [agreement](/en/post/agreement/) [or](/en/post/or/) disagreement.
-- **[Adjective](/en/post/adjective/)**: (informal) [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [thumb](/en/post/thumb/); having [a](/en/post/a/) [large](/en/post/large/) [or](/en/post/or/) protruding [thumb](/en/post/thumb/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [short](/post/short/) [finger](/post/finger/) [on](/post/on/) [the](/post/the/) [hand](/post/hand/) [between](/post/between/) [the](/post/the/) [index](/post/index/) [and](/post/and/) [the](/post/the/) [wrist](/post/wrist/), typically [the](/post/the/) [first](/post/first/) [one](/post/one/) [when](/post/when/) counting [from](/post/from/) [the](/post/the/) [base](/post/base/). 2. (informal) An informal [greeting](/post/greeting/) [or](/post/or/) [sign](/post/sign/) [of](/post/of/) [approval](/post/approval/), [often](/post/often/) accompanied [by](/post/by/) [a](/post/a/) [simple](/post/simple/) [touch](/post/touch/) [or](/post/or/) [squeeze](/post/squeeze/). 3. [A](/post/a/) person's拇指 (mǔ zhǐ) [in](/post/in/) Chinese.
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [extend](/post/extend/) [or](/post/or/) [move](/post/move/) one's [thumb](/post/thumb/) [up](/post/up/) [or](/post/or/) [down](/post/down/) [as](/post/as/) [a](/post/a/) [gesture](/post/gesture/) [of](/post/of/) [approval](/post/approval/) [or](/post/or/) disapproval. 2. [To](/post/to/) [give](/post/give/) [a](/post/a/) thumbs-up [or](/post/or/) thumbs-down (thumbs [up](/post/up/)/[down](/post/down/)) [to](/post/to/) [show](/post/show/) [agreement](/post/agreement/) [or](/post/or/) disagreement.
+- **[Adjective](/post/adjective/)**: (informal) [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [thumb](/post/thumb/); having [a](/post/a/) [large](/post/large/) [or](/post/or/) protruding [thumb](/post/thumb/).
 
 ## Phrases
-- "[Give](/en/post/give/) [someone](/en/post/someone/) [a](/en/post/a/) thumbs-up" [means](/en/post/means/) [to](/en/post/to/) [show](/en/post/show/) [approval](/en/post/approval/) [or](/en/post/or/) [agreement](/en/post/agreement/).
-- "[Thumb](/en/post/thumb/) [through](/en/post/through/) [a](/en/post/a/) [book](/en/post/book/)" is [to](/en/post/to/) flip [through](/en/post/through/) pages [quickly](/en/post/quickly/) [without](/en/post/without/) [reading](/en/post/reading/) [them](/en/post/them/).
-- "[Have](/en/post/have/) [a](/en/post/a/) [big](/en/post/big/) [thumb](/en/post/thumb/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [for](/en/post/for/) [being](/en/post/being/) [skilled](/en/post/skilled/) [or](/en/post/or/) talented.
+- "[Give](/post/give/) [someone](/post/someone/) [a](/post/a/) thumbs-up" [means](/post/means/) [to](/post/to/) [show](/post/show/) [approval](/post/approval/) [or](/post/or/) [agreement](/post/agreement/).
+- "[Thumb](/post/thumb/) [through](/post/through/) [a](/post/a/) [book](/post/book/)" is [to](/post/to/) flip [through](/post/through/) pages [quickly](/post/quickly/) [without](/post/without/) [reading](/post/reading/) [them](/post/them/).
+- "[Have](/post/have/) [a](/post/a/) [big](/post/big/) [thumb](/post/thumb/)" is [a](/post/a/) colloquial [expression](/post/expression/) [for](/post/for/) [being](/post/being/) [skilled](/post/skilled/) [or](/post/or/) talented.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) held [up](/en/post/up/) [his](/en/post/his/) [thumb](/en/post/thumb/) [to](/en/post/to/) [signal](/en/post/signal/) [that](/en/post/that/) [everything](/en/post/everything/) was [okay](/en/post/okay/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) gave [him](/en/post/him/) [a](/en/post/a/) thumbs-up [after](/en/post/after/) [he](/en/post/he/) completed [the](/en/post/the/) [task](/en/post/task/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [child](/en/post/child/) had [a](/en/post/a/) [strong](/en/post/strong/), agile [thumb](/en/post/thumb/), [perfect](/en/post/perfect/) [for](/en/post/for/) [piano](/en/post/piano/) playing."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) held [up](/post/up/) [his](/post/his/) [thumb](/post/thumb/) [to](/post/to/) [signal](/post/signal/) [that](/post/that/) [everything](/post/everything/) was [okay](/post/okay/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) gave [him](/post/him/) [a](/post/a/) thumbs-up [after](/post/after/) [he](/post/he/) completed [the](/post/the/) [task](/post/task/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [child](/post/child/) had [a](/post/a/) [strong](/post/strong/), agile [thumb](/post/thumb/), [perfect](/post/perfect/) [for](/post/for/) [piano](/post/piano/) playing."
 
 ## Synonyms
-- [Fist](/en/post/fist/) bump
+- [Fist](/post/fist/) bump
 - High-five
-- Thumbs-down ([opposite](/en/post/opposite/) [of](/en/post/of/) thumbs-up)
-- [Fist](/en/post/fist/) [salute](/en/post/salute/)
-- Fingertip [tap](/en/post/tap/)
+- Thumbs-down ([opposite](/post/opposite/) [of](/post/of/) thumbs-up)
+- [Fist](/post/fist/) [salute](/post/salute/)
+- Fingertip [tap](/post/tap/)

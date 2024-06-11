@@ -7,34 +7,34 @@ description = '[ˈdedli] a.致命的，死一般的'
 keywords = ['ai words', 'deadly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /deɪlɪ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Extremely](/en/post/extremely/) [dangerous](/en/post/dangerous/) [or](/en/post/or/) [likely](/en/post/likely/) [to](/en/post/to/) [cause](/en/post/cause/) [death](/en/post/death/); [fatal](/en/post/fatal/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [deadly](/en/post/deadly/) virus [spread](/en/post/spread/) [rapidly](/en/post/rapidly/)."
-   - **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) causing [death](/en/post/death/) [or](/en/post/or/) considered [extremely](/en/post/extremely/) [dangerous](/en/post/dangerous/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [snake](/en/post/snake/) was [a](/en/post/a/) [deadly](/en/post/deadly/) predator."
-   - **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [deadly](/en/post/deadly/) [manner](/en/post/manner/) [or](/en/post/or/) [to](/en/post/to/) an [extreme](/en/post/extreme/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) fought [back](/en/post/back/) [deadly](/en/post/deadly/) [in](/en/post/in/) self-defense."
+- **[Adjective](/post/adjective/)**: 1. [Extremely](/post/extremely/) [dangerous](/post/dangerous/) [or](/post/or/) [likely](/post/likely/) [to](/post/to/) [cause](/post/cause/) [death](/post/death/); [fatal](/post/fatal/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [deadly](/post/deadly/) virus [spread](/post/spread/) [rapidly](/post/rapidly/)."
+   - **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) causing [death](/post/death/) [or](/post/or/) considered [extremely](/post/extremely/) [dangerous](/post/dangerous/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [snake](/post/snake/) was [a](/post/a/) [deadly](/post/deadly/) predator."
+   - **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [deadly](/post/deadly/) [manner](/post/manner/) [or](/post/or/) [to](/post/to/) an [extreme](/post/extreme/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) fought [back](/post/back/) [deadly](/post/deadly/) [in](/post/in/) self-defense."
 
 ## Phrases
-- "[Deadly](/en/post/deadly/) [combination](/en/post/combination/)" signifies [a](/en/post/a/) [harmful](/en/post/harmful/) [or](/en/post/or/) disastrous [mixture](/en/post/mixture/).
-- "[Deadly](/en/post/deadly/) [silent](/en/post/silent/)" describes [complete](/en/post/complete/) [silence](/en/post/silence/) [that](/en/post/that/) is eerie [or](/en/post/or/) ominous.
-- "[Deadly](/en/post/deadly/) [serious](/en/post/serious/)" [means](/en/post/means/) [very](/en/post/very/) [grave](/en/post/grave/) [or](/en/post/or/) [completely](/en/post/completely/) focused [on](/en/post/on/) [a](/en/post/a/) [matter](/en/post/matter/).
+- "[Deadly](/post/deadly/) [combination](/post/combination/)" signifies [a](/post/a/) [harmful](/post/harmful/) [or](/post/or/) disastrous [mixture](/post/mixture/).
+- "[Deadly](/post/deadly/) [silent](/post/silent/)" describes [complete](/post/complete/) [silence](/post/silence/) [that](/post/that/) is eerie [or](/post/or/) ominous.
+- "[Deadly](/post/deadly/) [serious](/post/serious/)" [means](/post/means/) [very](/post/very/) [grave](/post/grave/) [or](/post/or/) [completely](/post/completely/) focused [on](/post/on/) [a](/post/a/) [matter](/post/matter/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [deadly](/en/post/deadly/) [storm](/en/post/storm/) resulted [in](/en/post/in/) [numerous](/en/post/numerous/) casualties."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [deadly](/en/post/deadly/) assassin was [never](/en/post/never/) caught."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) driving skills were [deadly](/en/post/deadly/) [accurate](/en/post/accurate/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [deadly](/post/deadly/) [storm](/post/storm/) resulted [in](/post/in/) [numerous](/post/numerous/) casualties."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [deadly](/post/deadly/) assassin was [never](/post/never/) caught."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) driving skills were [deadly](/post/deadly/) [accurate](/post/accurate/)."
 
 ## Synonyms
 - Lethal
-- [Fatal](/en/post/fatal/)
-- [Mortal](/en/post/mortal/)
+- [Fatal](/post/fatal/)
+- [Mortal](/post/mortal/)
 - Perilous
 - Hazardous
 
 ## Antonyms
-- [Safe](/en/post/safe/)
+- [Safe](/post/safe/)
 - Harmless
 - Inoffensive
 - Non-lethal
-- [Secure](/en/post/secure/)
+- [Secure](/post/secure/)

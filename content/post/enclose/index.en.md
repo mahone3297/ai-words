@@ -7,29 +7,29 @@ description = '[inˈkləuz] vt.围住，圈起；附上'
 keywords = ['ai words', 'enclose']
 +++
 
-## [Word](/en/post/word/): [Enclose](/en/post/enclose/)
+## [Word](/post/word/): [Enclose](/post/enclose/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈkloʊz/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [surround](/en/post/surround/) [or](/en/post/or/) [bound](/en/post/bound/) [something](/en/post/something/) [completely](/en/post/completely/) [on](/en/post/on/) [all](/en/post/all/) sides; [to](/en/post/to/) [place](/en/post/place/) [or](/en/post/or/) [put](/en/post/put/) [something](/en/post/something/) [inside](/en/post/inside/) [a](/en/post/a/) [container](/en/post/container/) [or](/en/post/or/) [boundary](/en/post/boundary/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) enclosed [the](/en/post/the/) [field](/en/post/field/) [with](/en/post/with/) [a](/en/post/a/) [new](/en/post/new/) [fence](/en/post/fence/)."
-  - **Transitive [Verb](/en/post/verb/)**: [To](/en/post/to/) [put](/en/post/put/) [or](/en/post/or/) [place](/en/post/place/) [something](/en/post/something/) [inside](/en/post/inside/) an [envelope](/en/post/envelope/), [cover](/en/post/cover/), [or](/en/post/or/) wrapper [before](/en/post/before/) sending [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) enclosed [a](/en/post/a/) [letter](/en/post/letter/) [with](/en/post/with/) [her](/en/post/her/) [job](/en/post/job/) [application](/en/post/application/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [surround](/post/surround/) [or](/post/or/) [bound](/post/bound/) [something](/post/something/) [completely](/post/completely/) [on](/post/on/) [all](/post/all/) sides; [to](/post/to/) [place](/post/place/) [or](/post/or/) [put](/post/put/) [something](/post/something/) [inside](/post/inside/) [a](/post/a/) [container](/post/container/) [or](/post/or/) [boundary](/post/boundary/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) enclosed [the](/post/the/) [field](/post/field/) [with](/post/with/) [a](/post/a/) [new](/post/new/) [fence](/post/fence/)."
+  - **Transitive [Verb](/post/verb/)**: [To](/post/to/) [put](/post/put/) [or](/post/or/) [place](/post/place/) [something](/post/something/) [inside](/post/inside/) an [envelope](/post/envelope/), [cover](/post/cover/), [or](/post/or/) wrapper [before](/post/before/) sending [it](/post/it/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) enclosed [a](/post/a/) [letter](/post/letter/) [with](/post/with/) [her](/post/her/) [job](/post/job/) [application](/post/application/)."
 
 ### Phrases
-- "[Enclose](/en/post/enclose/) [something](/en/post/something/) [in](/en/post/in/) [something](/en/post/something/)": [To](/en/post/to/) [put](/en/post/put/) [one](/en/post/one/) [thing](/en/post/thing/) [within](/en/post/within/) [another](/en/post/another/) [thing](/en/post/thing/). [Example](/en/post/example/): "[Please](/en/post/please/) [enclose](/en/post/enclose/) [your](/en/post/your/) [resume](/en/post/resume/) [in](/en/post/in/) an [envelope](/en/post/envelope/)."
-- "[To](/en/post/to/) [be](/en/post/be/) enclosed [by](/en/post/by/) [something](/en/post/something/)": [To](/en/post/to/) [be](/en/post/be/) surrounded [or](/en/post/or/) bounded [by](/en/post/by/) [something](/en/post/something/) [else](/en/post/else/). [Example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was enclosed [by](/en/post/by/) [a](/en/post/a/) [high](/en/post/high/) [brick](/en/post/brick/) [wall](/en/post/wall/)."
+- "[Enclose](/post/enclose/) [something](/post/something/) [in](/post/in/) [something](/post/something/)": [To](/post/to/) [put](/post/put/) [one](/post/one/) [thing](/post/thing/) [within](/post/within/) [another](/post/another/) [thing](/post/thing/). [Example](/post/example/): "[Please](/post/please/) [enclose](/post/enclose/) [your](/post/your/) [resume](/post/resume/) [in](/post/in/) an [envelope](/post/envelope/)."
+- "[To](/post/to/) [be](/post/be/) enclosed [by](/post/by/) [something](/post/something/)": [To](/post/to/) [be](/post/be/) surrounded [or](/post/or/) bounded [by](/post/by/) [something](/post/something/) [else](/post/else/). [Example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was enclosed [by](/post/by/) [a](/post/a/) [high](/post/high/) [brick](/post/brick/) [wall](/post/wall/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([surround](/en/post/surround/))**: "[They](/en/post/they/) decided [to](/en/post/to/) [enclose](/en/post/enclose/) [their](/en/post/their/) backyard [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [private](/en/post/private/) [space](/en/post/space/) [for](/en/post/for/) [their](/en/post/their/) children [to](/en/post/to/) [play](/en/post/play/)."
-- **[Verb](/en/post/verb/) ([put](/en/post/put/) [inside](/en/post/inside/))**: "[Make](/en/post/make/) [sure](/en/post/sure/) [to](/en/post/to/) [enclose](/en/post/enclose/) [your](/en/post/your/) [payment](/en/post/payment/) [along](/en/post/along/) [with](/en/post/with/) [the](/en/post/the/) completed [form](/en/post/form/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([surround](/post/surround/))**: "[They](/post/they/) decided [to](/post/to/) [enclose](/post/enclose/) [their](/post/their/) backyard [to](/post/to/) [create](/post/create/) [a](/post/a/) [private](/post/private/) [space](/post/space/) [for](/post/for/) [their](/post/their/) children [to](/post/to/) [play](/post/play/)."
+- **[Verb](/post/verb/) ([put](/post/put/) [inside](/post/inside/))**: "[Make](/post/make/) [sure](/post/sure/) [to](/post/to/) [enclose](/post/enclose/) [your](/post/your/) [payment](/post/payment/) [along](/post/along/) [with](/post/with/) [the](/post/the/) completed [form](/post/form/)."
 
 ## Synonyms
-- [Surround](/en/post/surround/)
+- [Surround](/post/surround/)
 - Encompass
-- [Contain](/en/post/contain/)
-- [Confine](/en/post/confine/)
-- [Box](/en/post/box/) [in](/en/post/in/)
-- [Seal](/en/post/seal/) [up](/en/post/up/)
-- [Wrap](/en/post/wrap/) [up](/en/post/up/)
-- [Include](/en/post/include/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) placing [something](/en/post/something/) [inside](/en/post/inside/) [another](/en/post/another/) [item](/en/post/item/))
+- [Contain](/post/contain/)
+- [Confine](/post/confine/)
+- [Box](/post/box/) [in](/post/in/)
+- [Seal](/post/seal/) [up](/post/up/)
+- [Wrap](/post/wrap/) [up](/post/up/)
+- [Include](/post/include/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) placing [something](/post/something/) [inside](/post/inside/) [another](/post/another/) [item](/post/item/))

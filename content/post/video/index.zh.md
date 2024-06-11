@@ -11,23 +11,23 @@ keywords = ['ai words', 'video']
 /ˈviːdiəʊ/
 
 ## 释义
-- **名词 (n)**: 电子视频信号，尤指通过电视、录像或互联网观看的视听记录。例如: "[She](/post/she/) recorded [a](/post/a/) [video](/post/video/) [message](/post/message/) [for](/post/for/) [her](/post/her/) fans."
-- **名词**: 视频设备，如摄像机或录像机。例如: "[He](/post/he/) bought [a](/post/a/) [new](/post/new/) [video](/post/video/) [camera](/post/camera/) [for](/post/for/) [his](/post/his/) [trip](/post/trip/)."
-- **动词 (v)**: 录制或拍摄视频。例如: "[They](/post/they/) videoed [the](/post/the/) [entire](/post/entire/) [concert](/post/concert/)."
+- **名词 (n)**: 电子视频信号，尤指通过电视、录像或互联网观看的视听记录。例如: "[She](/zh/post/she/) recorded [a](/zh/post/a/) [video](/zh/post/video/) [message](/zh/post/message/) [for](/zh/post/for/) [her](/zh/post/her/) fans."
+- **名词**: 视频设备，如摄像机或录像机。例如: "[He](/zh/post/he/) bought [a](/zh/post/a/) [new](/zh/post/new/) [video](/zh/post/video/) [camera](/zh/post/camera/) [for](/zh/post/for/) [his](/zh/post/his/) [trip](/zh/post/trip/)."
+- **动词 (v)**: 录制或拍摄视频。例如: "[They](/zh/post/they/) videoed [the](/zh/post/the/) [entire](/zh/post/entire/) [concert](/zh/post/concert/)."
 
 ## 短语
-- "[Watch](/post/watch/) [a](/post/a/) [video](/post/video/)" 意为观看视频。
-- "[Record](/post/record/) [a](/post/a/) [video](/post/video/)" 表示录制视频。
-- "[Video](/post/video/) [call](/post/call/)" 指通过网络进行的视频通话。
+- "[Watch](/zh/post/watch/) [a](/zh/post/a/) [video](/zh/post/video/)" 意为观看视频。
+- "[Record](/zh/post/record/) [a](/zh/post/a/) [video](/zh/post/video/)" 表示录制视频。
+- "[Video](/zh/post/video/) [call](/zh/post/call/)" 指通过网络进行的视频通话。
 
 ## 例句
-- 名词: "[The](/post/the/) viral [video](/post/video/) has been viewed millions [of](/post/of/) times online."
-- 动词: "[She](/post/she/) videos [her](/post/her/) [daily](/post/daily/) [routine](/post/routine/) [and](/post/and/) shares [it](/post/it/) [on](/post/on/) [social](/post/social/) media."
-- 名词 ([as](/post/as/) [a](/post/a/) [verb](/post/verb/)): "I videoed [my](/post/my/) son's [first](/post/first/) steps [so](/post/so/) I [could](/post/could/) [show](/post/show/) [it](/post/it/) [to](/post/to/) [the](/post/the/) [family](/post/family/)."
+- 名词: "[The](/zh/post/the/) viral [video](/zh/post/video/) has been viewed millions [of](/zh/post/of/) times online."
+- 动词: "[She](/zh/post/she/) videos [her](/zh/post/her/) [daily](/zh/post/daily/) [routine](/zh/post/routine/) [and](/zh/post/and/) shares [it](/zh/post/it/) [on](/zh/post/on/) [social](/zh/post/social/) media."
+- 名词 ([as](/zh/post/as/) [a](/zh/post/a/) [verb](/zh/post/verb/)): "I videoed [my](/zh/post/my/) son's [first](/zh/post/first/) steps [so](/zh/post/so/) I [could](/zh/post/could/) [show](/zh/post/show/) [it](/zh/post/it/) [to](/zh/post/to/) [the](/zh/post/the/) [family](/zh/post/family/)."
 
 ## 同义词
-- [Film](/post/film/)
+- [Film](/zh/post/film/)
 - Recording
 - Clip
 - Footage
-- [Movie](/post/movie/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [short](/post/short/) [or](/post/or/) informal videos)
+- [Movie](/zh/post/movie/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [short](/zh/post/short/) [or](/zh/post/or/) informal videos)

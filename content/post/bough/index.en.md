@@ -7,26 +7,26 @@ description = '[bau] n.树枝'
 keywords = ['ai words', 'bough']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bəʊ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [In](/en/post/in/) botanical context, [a](/en/post/a/) [branch](/en/post/branch/) [that](/en/post/that/) has detached [from](/en/post/from/) [the](/en/post/the/) [main](/en/post/main/) [trunk](/en/post/trunk/) [or](/en/post/or/) [stem](/en/post/stem/) [of](/en/post/of/) [a](/en/post/a/) [tree](/en/post/tree/), [usually](/en/post/usually/) [with](/en/post/with/) leaves. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) boughs swayed [gently](/en/post/gently/) [in](/en/post/in/) [the](/en/post/the/) [breeze](/en/post/breeze/)."
-- **[Verb](/en/post/verb/)**: (archaic) [To](/en/post/to/) [hang](/en/post/hang/) [or](/en/post/or/) [attach](/en/post/attach/) [something](/en/post/something/), [often](/en/post/often/) [a](/en/post/a/) [load](/en/post/load/), [to](/en/post/to/) [a](/en/post/a/) [branch](/en/post/branch/) [or](/en/post/or/) [limb](/en/post/limb/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [bough](/en/post/bough/) [a](/en/post/a/) [heavy](/en/post/heavy/) [bag](/en/post/bag/) [of](/en/post/of/) groceries [onto](/en/post/onto/) [the](/en/post/the/) [high](/en/post/high/) [shelf](/en/post/shelf/)."
-- **[Adjective](/en/post/adjective/)**: (slang) [A](/en/post/a/) slang [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) prostitute [or](/en/post/or/) promiscuous [woman](/en/post/woman/). [For](/en/post/for/) [example](/en/post/example/): "She's known [to](/en/post/to/) [be](/en/post/be/) [quite](/en/post/quite/) [the](/en/post/the/) [bough](/en/post/bough/) [around](/en/post/around/) [these](/en/post/these/) parts."
+- **[Noun](/post/noun/)**: [In](/post/in/) botanical context, [a](/post/a/) [branch](/post/branch/) [that](/post/that/) has detached [from](/post/from/) [the](/post/the/) [main](/post/main/) [trunk](/post/trunk/) [or](/post/or/) [stem](/post/stem/) [of](/post/of/) [a](/post/a/) [tree](/post/tree/), [usually](/post/usually/) [with](/post/with/) leaves. [For](/post/for/) [example](/post/example/): "[The](/post/the/) boughs swayed [gently](/post/gently/) [in](/post/in/) [the](/post/the/) [breeze](/post/breeze/)."
+- **[Verb](/post/verb/)**: (archaic) [To](/post/to/) [hang](/post/hang/) [or](/post/or/) [attach](/post/attach/) [something](/post/something/), [often](/post/often/) [a](/post/a/) [load](/post/load/), [to](/post/to/) [a](/post/a/) [branch](/post/branch/) [or](/post/or/) [limb](/post/limb/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) [bough](/post/bough/) [a](/post/a/) [heavy](/post/heavy/) [bag](/post/bag/) [of](/post/of/) groceries [onto](/post/onto/) [the](/post/the/) [high](/post/high/) [shelf](/post/shelf/)."
+- **[Adjective](/post/adjective/)**: (slang) [A](/post/a/) slang [term](/post/term/) [for](/post/for/) [a](/post/a/) prostitute [or](/post/or/) promiscuous [woman](/post/woman/). [For](/post/for/) [example](/post/example/): "She's known [to](/post/to/) [be](/post/be/) [quite](/post/quite/) [the](/post/the/) [bough](/post/bough/) [around](/post/around/) [these](/post/these/) parts."
 
 ## Phrases
-- "[Hang](/en/post/hang/) [a](/en/post/a/) [bough](/en/post/bough/)" [means](/en/post/means/) [to](/en/post/to/) [suspend](/en/post/suspend/) [or](/en/post/or/) [attach](/en/post/attach/) [a](/en/post/a/) [bough](/en/post/bough/) [to](/en/post/to/) [a](/en/post/a/) [structure](/en/post/structure/), typically [for](/en/post/for/) decoration.
-- "[A](/en/post/a/) [bough](/en/post/bough/) [of](/en/post/of/) holly" is [a](/en/post/a/) [traditional](/en/post/traditional/) Christmas decoration.
-- "[Bough](/en/post/bough/) [of](/en/post/of/) [laughter](/en/post/laughter/)" is [a](/en/post/a/) metaphorical [expression](/en/post/expression/) [for](/en/post/for/) [a](/en/post/a/) hearty, infectious [laugh](/en/post/laugh/).
+- "[Hang](/post/hang/) [a](/post/a/) [bough](/post/bough/)" [means](/post/means/) [to](/post/to/) [suspend](/post/suspend/) [or](/post/or/) [attach](/post/attach/) [a](/post/a/) [bough](/post/bough/) [to](/post/to/) [a](/post/a/) [structure](/post/structure/), typically [for](/post/for/) decoration.
+- "[A](/post/a/) [bough](/post/bough/) [of](/post/of/) holly" is [a](/post/a/) [traditional](/post/traditional/) Christmas decoration.
+- "[Bough](/post/bough/) [of](/post/of/) [laughter](/post/laughter/)" is [a](/post/a/) metaphorical [expression](/post/expression/) [for](/post/for/) [a](/post/a/) hearty, infectious [laugh](/post/laugh/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) carefully placed [the](/en/post/the/) flowers [on](/en/post/on/) [the](/en/post/the/) boughs [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) [wreath](/en/post/wreath/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [worker](/en/post/worker/) had [to](/en/post/to/) [bough](/en/post/bough/) [a](/en/post/a/) [ladder](/en/post/ladder/) [to](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) [high](/en/post/high/) branches."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [man](/en/post/man/) recalled [the](/en/post/the/) days [when](/en/post/when/) [he](/en/post/he/) was known [as](/en/post/as/) [the](/en/post/the/) town's [bough](/en/post/bough/), [but](/en/post/but/) [now](/en/post/now/) [he](/en/post/he/) was retired."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [gardener](/post/gardener/) carefully placed [the](/post/the/) flowers [on](/post/on/) [the](/post/the/) boughs [to](/post/to/) [create](/post/create/) [a](/post/a/) [beautiful](/post/beautiful/) [wreath](/post/wreath/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [worker](/post/worker/) had [to](/post/to/) [bough](/post/bough/) [a](/post/a/) [ladder](/post/ladder/) [to](/post/to/) [reach](/post/reach/) [the](/post/the/) [high](/post/high/) branches."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) [man](/post/man/) recalled [the](/post/the/) days [when](/post/when/) [he](/post/he/) was known [as](/post/as/) [the](/post/the/) town's [bough](/post/bough/), [but](/post/but/) [now](/post/now/) [he](/post/he/) was retired."
 
 ## Synonyms
-- [Branch](/en/post/branch/) (botanical [sense](/en/post/sense/))
-- [Limb](/en/post/limb/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) trees)
+- [Branch](/post/branch/) (botanical [sense](/post/sense/))
+- [Limb](/post/limb/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) trees)
 - Slut (informal, derogatory)
-- Harlot (archaic, [formal](/en/post/formal/))
+- Harlot (archaic, [formal](/post/formal/))

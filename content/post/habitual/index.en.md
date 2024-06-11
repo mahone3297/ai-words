@@ -7,33 +7,33 @@ description = '[həˈbitjuəl] a.习惯性的，惯常的'
 keywords = ['ai words', 'habitual']
 +++
 
-## [Word](/en/post/word/): [Habitual](/en/post/habitual/)
+## [Word](/post/word/): [Habitual](/post/habitual/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhæbɪtʃuəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: ([of](/en/post/of/) [a](/en/post/a/) [behavior](/en/post/behavior/), [activity](/en/post/activity/), [or](/en/post/or/) [pattern](/en/post/pattern/)) Happening [regularly](/en/post/regularly/) [or](/en/post/or/) [repeatedly](/en/post/repeatedly/), [often](/en/post/often/) [without](/en/post/without/) [conscious](/en/post/conscious/) [thought](/en/post/thought/); [usual](/en/post/usual/) [or](/en/post/or/) customary. 
+- **[Adjective](/post/adjective/)**: ([of](/post/of/) [a](/post/a/) [behavior](/post/behavior/), [activity](/post/activity/), [or](/post/or/) [pattern](/post/pattern/)) Happening [regularly](/post/regularly/) [or](/post/or/) [repeatedly](/post/repeatedly/), [often](/post/often/) [without](/post/without/) [conscious](/post/conscious/) [thought](/post/thought/); [usual](/post/usual/) [or](/post/or/) customary. 
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _Smoking had [become](/en/post/become/) [a](/en/post/a/) [habitual](/en/post/habitual/) [part](/en/post/part/) [of](/en/post/of/) [his](/en/post/his/) [routine](/en/post/routine/)._
-- **[Noun](/en/post/noun/)** ([less](/en/post/less/) [common](/en/post/common/)): [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [a](/en/post/a/) [habit](/en/post/habit/), [especially](/en/post/especially/) [one](/en/post/one/) that's [hard](/en/post/hard/) [to](/en/post/to/) [break](/en/post/break/).
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _He was known [as](/en/post/as/) [a](/en/post/a/) [habitual](/en/post/habitual/) smoker._
+[Example](/post/example/) [sentence](/post/sentence/): _Smoking had [become](/post/become/) [a](/post/a/) [habitual](/post/habitual/) [part](/post/part/) [of](/post/of/) [his](/post/his/) [routine](/post/routine/)._
+- **[Noun](/post/noun/)** ([less](/post/less/) [common](/post/common/)): [A](/post/a/) [person](/post/person/) [who](/post/who/) has [a](/post/a/) [habit](/post/habit/), [especially](/post/especially/) [one](/post/one/) that's [hard](/post/hard/) [to](/post/to/) [break](/post/break/).
+[Example](/post/example/) [sentence](/post/sentence/): _He was known [as](/post/as/) [a](/post/a/) [habitual](/post/habitual/) smoker._
 
 ## Phrases
-- **[Habitual](/en/post/habitual/) offender**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) [repeatedly](/en/post/repeatedly/) commits crimes [or](/en/post/or/) breaks rules, [often](/en/post/often/) [leading](/en/post/leading/) [to](/en/post/to/) stricter [legal](/en/post/legal/) penalties.
-- **[Habitual](/en/post/habitual/) [behavior](/en/post/behavior/)**: Behaviors [that](/en/post/that/) [have](/en/post/have/) [become](/en/post/become/) [automatic](/en/post/automatic/) [or](/en/post/or/) ingrained [through](/en/post/through/) [frequent](/en/post/frequent/) [repetition](/en/post/repetition/).
-- **[Habitual](/en/post/habitual/) [residence](/en/post/residence/)**: [The](/en/post/the/) [place](/en/post/place/) [where](/en/post/where/) [a](/en/post/a/) [person](/en/post/person/) customarily lives, [particularly](/en/post/particularly/) [in](/en/post/in/) [legal](/en/post/legal/) contexts [regarding](/en/post/regarding/) residency [or](/en/post/or/) custody rights.
+- **[Habitual](/post/habitual/) offender**: [A](/post/a/) [person](/post/person/) [who](/post/who/) [repeatedly](/post/repeatedly/) commits crimes [or](/post/or/) breaks rules, [often](/post/often/) [leading](/post/leading/) [to](/post/to/) stricter [legal](/post/legal/) penalties.
+- **[Habitual](/post/habitual/) [behavior](/post/behavior/)**: Behaviors [that](/post/that/) [have](/post/have/) [become](/post/become/) [automatic](/post/automatic/) [or](/post/or/) ingrained [through](/post/through/) [frequent](/post/frequent/) [repetition](/post/repetition/).
+- **[Habitual](/post/habitual/) [residence](/post/residence/)**: [The](/post/the/) [place](/post/place/) [where](/post/where/) [a](/post/a/) [person](/post/person/) customarily lives, [particularly](/post/particularly/) [in](/post/in/) [legal](/post/legal/) contexts [regarding](/post/regarding/) residency [or](/post/or/) custody rights.
 
-## [Example](/en/post/example/) Sentences
-- [Adjective](/en/post/adjective/): _She had developed [a](/en/post/a/) [habitual](/en/post/habitual/) [practice](/en/post/practice/) [of](/en/post/of/) [reading](/en/post/reading/) [before](/en/post/before/) going [to](/en/post/to/) [bed](/en/post/bed/)._
-- [Noun](/en/post/noun/): _The [police](/en/post/police/) arrested [him](/en/post/him/) [because](/en/post/because/) [he](/en/post/he/) was identified [as](/en/post/as/) [a](/en/post/a/) [habitual](/en/post/habitual/) [thief](/en/post/thief/)._
+## [Example](/post/example/) Sentences
+- [Adjective](/post/adjective/): _She had developed [a](/post/a/) [habitual](/post/habitual/) [practice](/post/practice/) [of](/post/of/) [reading](/post/reading/) [before](/post/before/) going [to](/post/to/) [bed](/post/bed/)._
+- [Noun](/post/noun/): _The [police](/post/police/) arrested [him](/post/him/) [because](/post/because/) [he](/post/he/) was identified [as](/post/as/) [a](/post/a/) [habitual](/post/habitual/) [thief](/post/thief/)._
 
 ## Synonyms
-- [Regular](/en/post/regular/)
-- [Usual](/en/post/usual/)
+- [Regular](/post/regular/)
+- [Usual](/post/usual/)
 - Customary
 - Commonplace
 - Ingrained
-- [Routine](/en/post/routine/)
-- Chronic ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [negative](/en/post/negative/) habits)
-- Persistent ([also](/en/post/also/) [used](/en/post/used/) [for](/en/post/for/) [negative](/en/post/negative/) habits)
+- [Routine](/post/routine/)
+- Chronic ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [negative](/post/negative/) habits)
+- Persistent ([also](/post/also/) [used](/post/used/) [for](/post/for/) [negative](/post/negative/) habits)

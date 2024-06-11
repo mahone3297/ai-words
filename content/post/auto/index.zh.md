@@ -12,24 +12,24 @@ keywords = ['ai words', 'auto']
 
 ## 释义
 - **名词**: 
-    1. 自动（装置、机器或过程）：指能够自动运行或控制而无需人工干预的事物。例如: "[The](/post/the/) [car](/post/car/) has [a](/post/a/) [new](/post/new/) [auto](/post/auto/) [feature](/post/feature/) [that](/post/that/) parks [itself](/post/itself/)."
-    2. 汽车；轿车：指四轮机动车，尤指私人拥有的小型汽车。例如: "I [just](/post/just/) bought [a](/post/a/) [new](/post/new/) [auto](/post/auto/) [with](/post/with/) [excellent](/post/excellent/) [fuel](/post/fuel/) [efficiency](/post/efficiency/)."
+    1. 自动（装置、机器或过程）：指能够自动运行或控制而无需人工干预的事物。例如: "[The](/zh/post/the/) [car](/zh/post/car/) has [a](/zh/post/a/) [new](/zh/post/new/) [auto](/zh/post/auto/) [feature](/zh/post/feature/) [that](/zh/post/that/) parks [itself](/zh/post/itself/)."
+    2. 汽车；轿车：指四轮机动车，尤指私人拥有的小型汽车。例如: "I [just](/zh/post/just/) bought [a](/zh/post/a/) [new](/zh/post/new/) [auto](/zh/post/auto/) [with](/zh/post/with/) [excellent](/zh/post/excellent/) [fuel](/zh/post/fuel/) [efficiency](/zh/post/efficiency/)."
 
 - **形容词**:
-    1. 自动的：形容词，表示某事发生或运作无需外部操作或控制。例如: "[The](/post/the/) [auto](/post/auto/) [door](/post/door/) opens [when](/post/when/) [you](/post/you/) [approach](/post/approach/) [it](/post/it/)."
+    1. 自动的：形容词，表示某事发生或运作无需外部操作或控制。例如: "[The](/zh/post/the/) [auto](/zh/post/auto/) [door](/zh/post/door/) opens [when](/zh/post/when/) [you](/zh/post/you/) [approach](/zh/post/approach/) [it](/zh/post/it/)."
 
 ## 短语
-- "[Auto](/post/auto/) [industry](/post/industry/)" 指汽车制造业。
-- "[Automatic](/post/automatic/) [transmission](/post/transmission/)" 指自动变速器，汽车的一种换挡系统。
+- "[Auto](/zh/post/auto/) [industry](/zh/post/industry/)" 指汽车制造业。
+- "[Automatic](/zh/post/automatic/) [transmission](/zh/post/transmission/)" 指自动变速器，汽车的一种换挡系统。
 - "Auto-pilot" 指自动驾驶模式，常用于飞机和船只上。
 
 ## 例句
-- 名词: "[He](/post/he/) sold [his](/post/his/) [old](/post/old/) [auto](/post/auto/) [and](/post/and/) bought an [electric](/post/electric/) [one](/post/one/) [for](/post/for/) environmental reasons."
-- 形容词: "[The](/post/the/) [new](/post/new/) [safety](/post/safety/) [feature](/post/feature/) [in](/post/in/) [the](/post/the/) [car](/post/car/) includes an auto-brake [system](/post/system/)."
+- 名词: "[He](/zh/post/he/) sold [his](/zh/post/his/) [old](/zh/post/old/) [auto](/zh/post/auto/) [and](/zh/post/and/) bought an [electric](/zh/post/electric/) [one](/zh/post/one/) [for](/zh/post/for/) environmental reasons."
+- 形容词: "[The](/zh/post/the/) [new](/zh/post/new/) [safety](/zh/post/safety/) [feature](/zh/post/feature/) [in](/zh/post/in/) [the](/zh/post/the/) [car](/zh/post/car/) includes an auto-brake [system](/zh/post/system/)."
 
 ## 同义词
-- [Car](/post/car/)
-- [Vehicle](/post/vehicle/)
-- [Machine](/post/machine/)
+- [Car](/zh/post/car/)
+- [Vehicle](/zh/post/vehicle/)
+- [Machine](/zh/post/machine/)
 - Self-driving
 - Motorcar

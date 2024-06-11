@@ -12,22 +12,22 @@ keywords = ['ai words', 'attach']
 
 ## 释义
 - **动词**:
-  1. 将某物附着在另一物上。例如: "[Please](/post/please/) [attach](/post/attach/) [the](/post/the/) [label](/post/label/) [to](/post/to/) [the](/post/the/) [package](/post/package/)."
-  2. 与…有关联或联系。例如: "[The](/post/the/) [document](/post/document/) is attached [to](/post/to/) [the](/post/the/) email."
-  3. 赋予（情感、意义等）。例如: "[She](/post/she/) attaches [great](/post/great/) [importance](/post/importance/) [to](/post/to/) [her](/post/her/) [family](/post/family/)."
+  1. 将某物附着在另一物上。例如: "[Please](/zh/post/please/) [attach](/zh/post/attach/) [the](/zh/post/the/) [label](/zh/post/label/) [to](/zh/post/to/) [the](/zh/post/the/) [package](/zh/post/package/)."
+  2. 与…有关联或联系。例如: "[The](/zh/post/the/) [document](/zh/post/document/) is attached [to](/zh/post/to/) [the](/zh/post/the/) email."
+  3. 赋予（情感、意义等）。例如: "[She](/zh/post/she/) attaches [great](/zh/post/great/) [importance](/zh/post/importance/) [to](/zh/post/to/) [her](/zh/post/her/) [family](/zh/post/family/)."
 
 ## 短语
-- "[attach](/post/attach/) [importance](/post/importance/) [to](/post/to/)" 意为重视或认为重要。
-- "[attach](/post/attach/) [a](/post/a/) [file](/post/file/)" 在电子邮件或其他文档中添加附件。
+- "[attach](/zh/post/attach/) [importance](/zh/post/importance/) [to](/zh/post/to/)" 意为重视或认为重要。
+- "[attach](/zh/post/attach/) [a](/zh/post/a/) [file](/zh/post/file/)" 在电子邮件或其他文档中添加附件。
 
 ## 例句
 - 动词: 
-  - "[He](/post/he/) attached [the](/post/the/) photo [to](/post/to/) [his](/post/his/) [resume](/post/resume/) [before](/post/before/) sending [it](/post/it/) [off](/post/off/)."
-  - "[She](/post/she/) attaches [herself](/post/herself/) emotionally [to](/post/to/) [every](/post/every/) [project](/post/project/) [she](/post/she/) works [on](/post/on/)."
+  - "[He](/zh/post/he/) attached [the](/zh/post/the/) photo [to](/zh/post/to/) [his](/zh/post/his/) [resume](/zh/post/resume/) [before](/zh/post/before/) sending [it](/zh/post/it/) [off](/zh/post/off/)."
+  - "[She](/zh/post/she/) attaches [herself](/zh/post/herself/) emotionally [to](/zh/post/to/) [every](/zh/post/every/) [project](/zh/post/project/) [she](/zh/post/she/) works [on](/zh/post/on/)."
 
 ## 同义词
 - affix
-- [connect](/post/connect/)
-- [join](/post/join/)
-- [link](/post/link/)
-- [fasten](/post/fasten/)
+- [connect](/zh/post/connect/)
+- [join](/zh/post/join/)
+- [link](/zh/post/link/)
+- [fasten](/zh/post/fasten/)

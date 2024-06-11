@@ -7,39 +7,39 @@ description = '[diˈveləpmənt] n.发展;开发；生长'
 keywords = ['ai words', 'development']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdɪvɛləpmənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) growing [or](/en/post/or/) changing, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) is planned [or](/en/post/or/) intended: *[The](/en/post/the/) country's [economic](/en/post/economic/) [development](/en/post/development/) has been [impressive](/en/post/impressive/).*
-2. [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/) [of](/en/post/of/) [being](/en/post/being/) [advanced](/en/post/advanced/) [in](/en/post/in/) [progress](/en/post/progress/) [or](/en/post/or/) [organization](/en/post/organization/): *[The](/en/post/the/) [project](/en/post/project/) is [still](/en/post/still/) [in](/en/post/in/) [its](/en/post/its/) [early](/en/post/early/) stages [of](/en/post/of/) [development](/en/post/development/).*
-3. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) forming [or](/en/post/or/) creating [something](/en/post/something/) [new](/en/post/new/): *[The](/en/post/the/) company's [recent](/en/post/recent/) technological developments are groundbreaking.*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [process](/post/process/) [of](/post/of/) growing [or](/post/or/) changing, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) is planned [or](/post/or/) intended: *[The](/post/the/) country's [economic](/post/economic/) [development](/post/development/) has been [impressive](/post/impressive/).*
+2. [The](/post/the/) [state](/post/state/) [or](/post/or/) [condition](/post/condition/) [of](/post/of/) [being](/post/being/) [advanced](/post/advanced/) [in](/post/in/) [progress](/post/progress/) [or](/post/or/) [organization](/post/organization/): *[The](/post/the/) [project](/post/project/) is [still](/post/still/) [in](/post/in/) [its](/post/its/) [early](/post/early/) stages [of](/post/of/) [development](/post/development/).*
+3. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) forming [or](/post/or/) creating [something](/post/something/) [new](/post/new/): *[The](/post/the/) company's [recent](/post/recent/) technological developments are groundbreaking.*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [bring](/en/post/bring/) [about](/en/post/about/) [the](/en/post/the/) [growth](/en/post/growth/), [improvement](/en/post/improvement/), [or](/en/post/or/) maturation [of](/en/post/of/): *[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [develop](/en/post/develop/) [new](/en/post/new/) strategies [for](/en/post/for/) marketing [our](/en/post/our/) [product](/en/post/product/).*
-2. [To](/en/post/to/) [cause](/en/post/cause/) ([a](/en/post/a/) [person](/en/post/person/)) [to](/en/post/to/) [progress](/en/post/progress/) [or](/en/post/or/) [advance](/en/post/advance/) [in](/en/post/in/) [skill](/en/post/skill/) [or](/en/post/or/) [understanding](/en/post/understanding/): *[She](/en/post/she/) developed [a](/en/post/a/) [passion](/en/post/passion/) [for](/en/post/for/) [music](/en/post/music/) [at](/en/post/at/) [a](/en/post/a/) [young](/en/post/young/) [age](/en/post/age/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [bring](/post/bring/) [about](/post/about/) [the](/post/the/) [growth](/post/growth/), [improvement](/post/improvement/), [or](/post/or/) maturation [of](/post/of/): *[We](/post/we/) [need](/post/need/) [to](/post/to/) [develop](/post/develop/) [new](/post/new/) strategies [for](/post/for/) marketing [our](/post/our/) [product](/post/product/).*
+2. [To](/post/to/) [cause](/post/cause/) ([a](/post/a/) [person](/post/person/)) [to](/post/to/) [progress](/post/progress/) [or](/post/or/) [advance](/post/advance/) [in](/post/in/) [skill](/post/skill/) [or](/post/or/) [understanding](/post/understanding/): *[She](/post/she/) developed [a](/post/a/) [passion](/post/passion/) [for](/post/for/) [music](/post/music/) [at](/post/at/) [a](/post/a/) [young](/post/young/) [age](/post/age/).*
 
 ## Phrases
-- "Facilitating [development](/en/post/development/)"
-- "[Current](/en/post/current/) developmental trends"
-- "Undergoing [rapid](/en/post/rapid/) [development](/en/post/development/)"
+- "Facilitating [development](/post/development/)"
+- "[Current](/post/current/) developmental trends"
+- "Undergoing [rapid](/post/rapid/) [development](/post/development/)"
 - "Developmental milestones"
-- "Promoting sustainable [development](/en/post/development/)"
+- "Promoting sustainable [development](/post/development/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) city's [development](/en/post/development/) [plan](/en/post/plan/) includes [new](/en/post/new/) infrastructure projects."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) developed [a](/en/post/a/) [strong](/en/post/strong/) [interest](/en/post/interest/) [in](/en/post/in/) [science](/en/post/science/) [during](/en/post/during/) [her](/en/post/her/) teenage years."
-- **[In](/en/post/in/) Context**: "[The](/en/post/the/) [company](/en/post/company/) is constantly developing innovative solutions [to](/en/post/to/) [stay](/en/post/stay/) [ahead](/en/post/ahead/) [in](/en/post/in/) [the](/en/post/the/) [market](/en/post/market/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) city's [development](/post/development/) [plan](/post/plan/) includes [new](/post/new/) infrastructure projects."
+- **[Verb](/post/verb/)**: "[She](/post/she/) developed [a](/post/a/) [strong](/post/strong/) [interest](/post/interest/) [in](/post/in/) [science](/post/science/) [during](/post/during/) [her](/post/her/) teenage years."
+- **[In](/post/in/) Context**: "[The](/post/the/) [company](/post/company/) is constantly developing innovative solutions [to](/post/to/) [stay](/post/stay/) [ahead](/post/ahead/) [in](/post/in/) [the](/post/the/) [market](/post/market/)."
 
 ## Synonyms
-- [Growth](/en/post/growth/)
-- [Progress](/en/post/progress/)
+- [Growth](/post/growth/)
+- [Progress](/post/progress/)
 - Advancement
-- [Formation](/en/post/formation/)
-- [Evolution](/en/post/evolution/)
-- [Improvement](/en/post/improvement/)
+- [Formation](/post/formation/)
+- [Evolution](/post/evolution/)
+- [Improvement](/post/improvement/)
 - Enhancement
 - Maturation
 - Creation
-- [Expansion](/en/post/expansion/)
+- [Expansion](/post/expansion/)

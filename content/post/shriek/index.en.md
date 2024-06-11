@@ -7,30 +7,30 @@ description = '[∫riːk] vi.尖声喊叫 n.尖叫声'
 keywords = ['ai words', 'shriek']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ʃriːk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [shriek](/en/post/shriek/) is [a](/en/post/a/) high-pitched, [sharp](/en/post/sharp/) [sound](/en/post/sound/), typically emitted [as](/en/post/as/) [a](/en/post/a/) [sudden](/en/post/sudden/), [intense](/en/post/intense/) [expression](/en/post/expression/) [of](/en/post/of/) [fear](/en/post/fear/), [pain](/en/post/pain/), [or](/en/post/or/) [alarm](/en/post/alarm/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [scream](/en/post/scream/) [or](/en/post/or/) [a](/en/post/a/) [loud](/en/post/loud/), piercing [noise](/en/post/noise/).
+### [Noun](/post/noun/)
+[A](/post/a/) [shriek](/post/shriek/) is [a](/post/a/) high-pitched, [sharp](/post/sharp/) [sound](/post/sound/), typically emitted [as](/post/as/) [a](/post/a/) [sudden](/post/sudden/), [intense](/post/intense/) [expression](/post/expression/) [of](/post/of/) [fear](/post/fear/), [pain](/post/pain/), [or](/post/or/) [alarm](/post/alarm/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [scream](/post/scream/) [or](/post/or/) [a](/post/a/) [loud](/post/loud/), piercing [noise](/post/noise/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [shriek](/en/post/shriek/) is [to](/en/post/to/) [emit](/en/post/emit/) [a](/en/post/a/) high-pitched,尖叫般的声音, [often](/en/post/often/) [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) [a](/en/post/a/) [strong](/en/post/strong/) [emotion](/en/post/emotion/) [or](/en/post/or/) [to](/en/post/to/) [convey](/en/post/convey/) [alarm](/en/post/alarm/).
+### [Verb](/post/verb/)
+[To](/post/to/) [shriek](/post/shriek/) is [to](/post/to/) [emit](/post/emit/) [a](/post/a/) high-pitched,尖叫般的声音, [often](/post/often/) [in](/post/in/) [response](/post/response/) [to](/post/to/) [a](/post/a/) [strong](/post/strong/) [emotion](/post/emotion/) [or](/post/or/) [to](/post/to/) [convey](/post/convey/) [alarm](/post/alarm/).
 
 ## Phrases
-- "[Let](/en/post/let/) [out](/en/post/out/) [a](/en/post/a/) shrill [shriek](/en/post/shriek/)" describes [a](/en/post/a/) [loud](/en/post/loud/), high-pitched [scream](/en/post/scream/).
-- "[She](/en/post/she/) screamed/shrieked [in](/en/post/in/) [terror](/en/post/terror/)" indicates fear-induced vocalization.
-- "[The](/en/post/the/) child's [laughter](/en/post/laughter/) turned [into](/en/post/into/) [a](/en/post/a/) shriveled [shriek](/en/post/shriek/)" implies [a](/en/post/a/) [sudden](/en/post/sudden/) [change](/en/post/change/) [in](/en/post/in/) [tone](/en/post/tone/).
+- "[Let](/post/let/) [out](/post/out/) [a](/post/a/) shrill [shriek](/post/shriek/)" describes [a](/post/a/) [loud](/post/loud/), high-pitched [scream](/post/scream/).
+- "[She](/post/she/) screamed/shrieked [in](/post/in/) [terror](/post/terror/)" indicates fear-induced vocalization.
+- "[The](/post/the/) child's [laughter](/post/laughter/) turned [into](/post/into/) [a](/post/a/) shriveled [shriek](/post/shriek/)" implies [a](/post/a/) [sudden](/post/sudden/) [change](/post/change/) [in](/post/in/) [tone](/post/tone/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) frightened [child](/en/post/child/) [let](/en/post/let/) [out](/en/post/out/) [a](/en/post/a/) blood-curdling [shriek](/en/post/shriek/) [when](/en/post/when/) [they](/en/post/they/) [saw](/en/post/saw/) [the](/en/post/the/) [spider](/en/post/spider/)."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) [the](/en/post/the/) [dark](/en/post/dark/), [she](/en/post/she/) [could](/en/post/could/) [only](/en/post/only/) [hear](/en/post/hear/) [her](/en/post/her/) [own](/en/post/own/) panicked shrieks echoing [through](/en/post/through/) [the](/en/post/the/) [forest](/en/post/forest/)."
-- **Interjection**: "[The](/en/post/the/) [crowd](/en/post/crowd/) gasped [in](/en/post/in/) [horror](/en/post/horror/) [as](/en/post/as/) [the](/en/post/the/) actor's [unexpected](/en/post/unexpected/) [entrance](/en/post/entrance/) elicited [a](/en/post/a/) shrill [shriek](/en/post/shriek/) [from](/en/post/from/) [the](/en/post/the/) [audience](/en/post/audience/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) frightened [child](/post/child/) [let](/post/let/) [out](/post/out/) [a](/post/a/) blood-curdling [shriek](/post/shriek/) [when](/post/when/) [they](/post/they/) [saw](/post/saw/) [the](/post/the/) [spider](/post/spider/)."
+- **[Verb](/post/verb/)**: "[In](/post/in/) [the](/post/the/) [dark](/post/dark/), [she](/post/she/) [could](/post/could/) [only](/post/only/) [hear](/post/hear/) [her](/post/her/) [own](/post/own/) panicked shrieks echoing [through](/post/through/) [the](/post/the/) [forest](/post/forest/)."
+- **Interjection**: "[The](/post/the/) [crowd](/post/crowd/) gasped [in](/post/in/) [horror](/post/horror/) [as](/post/as/) [the](/post/the/) actor's [unexpected](/post/unexpected/) [entrance](/post/entrance/) elicited [a](/post/a/) shrill [shriek](/post/shriek/) [from](/post/from/) [the](/post/the/) [audience](/post/audience/)."
 
 ## Synonyms
-- [Scream](/en/post/scream/)
+- [Scream](/post/scream/)
 - Wail
-- [Yell](/en/post/yell/)
-- [Utter](/en/post/utter/)
-- [Exclaim](/en/post/exclaim/) ([with](/en/post/with/) [fear](/en/post/fear/) [or](/en/post/or/) [alarm](/en/post/alarm/))
-- Whine ([in](/en/post/in/) [a](/en/post/a/) high-pitched, complaining [manner](/en/post/manner/))
+- [Yell](/post/yell/)
+- [Utter](/post/utter/)
+- [Exclaim](/post/exclaim/) ([with](/post/with/) [fear](/post/fear/) [or](/post/or/) [alarm](/post/alarm/))
+- Whine ([in](/post/in/) [a](/post/a/) high-pitched, complaining [manner](/post/manner/))

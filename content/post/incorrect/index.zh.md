@@ -11,20 +11,20 @@ keywords = ['ai words', 'incorrect']
 /ɪnˈkrɛkt/
 
 ## 释义
-- **形容词**: 不正确的，错误的，不准确的。例如: "[The](/post/the/) [answer](/post/answer/) [you](/post/you/) [provided](/post/provided/) is [incorrect](/post/incorrect/)."
-- **名词**: 错误，不正确的事物。例如: "[There](/post/there/) were [several](/post/several/) [grammatical](/post/grammatical/) errors [in](/post/in/) [his](/post/his/) [essay](/post/essay/), [all](/post/all/) [of](/post/of/) [which](/post/which/) were marked [with](/post/with/) an '[incorrect](/post/incorrect/)' [symbol](/post/symbol/)."
+- **形容词**: 不正确的，错误的，不准确的。例如: "[The](/zh/post/the/) [answer](/zh/post/answer/) [you](/zh/post/you/) [provided](/zh/post/provided/) is [incorrect](/zh/post/incorrect/)."
+- **名词**: 错误，不正确的事物。例如: "[There](/zh/post/there/) were [several](/zh/post/several/) [grammatical](/zh/post/grammatical/) errors [in](/zh/post/in/) [his](/zh/post/his/) [essay](/zh/post/essay/), [all](/zh/post/all/) [of](/zh/post/of/) [which](/zh/post/which/) were marked [with](/zh/post/with/) an '[incorrect](/zh/post/incorrect/)' [symbol](/zh/post/symbol/)."
 
 ## 短语
-- "[be](/post/be/) [incorrect](/post/incorrect/) [about](/post/about/) [something](/post/something/)" 意思是在某事上是错误的。
-- "[correct](/post/correct/) [the](/post/the/) incorrectness" 意味着修正错误或不准确的地方。
+- "[be](/zh/post/be/) [incorrect](/zh/post/incorrect/) [about](/zh/post/about/) [something](/zh/post/something/)" 意思是在某事上是错误的。
+- "[correct](/zh/post/correct/) [the](/zh/post/the/) incorrectness" 意味着修正错误或不准确的地方。
 
 ## 例句
-- 形容词: "[Your](/post/your/) [calculation](/post/calculation/) is [incorrect](/post/incorrect/), [you](/post/you/) forgot [to](/post/to/) [divide](/post/divide/) [by](/post/by/) [two](/post/two/)."
-- 名词: "[Please](/post/please/) [point](/post/point/) [out](/post/out/) [any](/post/any/) [incorrect](/post/incorrect/) [information](/post/information/) [in](/post/in/) [the](/post/the/) [document](/post/document/)."
+- 形容词: "[Your](/zh/post/your/) [calculation](/zh/post/calculation/) is [incorrect](/zh/post/incorrect/), [you](/zh/post/you/) forgot [to](/zh/post/to/) [divide](/zh/post/divide/) [by](/zh/post/by/) [two](/zh/post/two/)."
+- 名词: "[Please](/zh/post/please/) [point](/zh/post/point/) [out](/zh/post/out/) [any](/zh/post/any/) [incorrect](/zh/post/incorrect/) [information](/zh/post/information/) [in](/zh/post/in/) [the](/zh/post/the/) [document](/zh/post/document/)."
 
 ## 同义词
-- [Wrong](/post/wrong/)
+- [Wrong](/zh/post/wrong/)
 - Inaccurate
-- [False](/post/false/)
+- [False](/zh/post/false/)
 - Erroneous
 - Misleading

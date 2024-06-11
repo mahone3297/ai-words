@@ -14,17 +14,17 @@ keywords = ['ai words', 'sunlight']
 - **名词**: 太阳光；日光。指太阳发出的光线或者白天的光照。
 
 ## 短语
-- "bask [in](/post/in/) [the](/post/the/) [sunlight](/post/sunlight/)" 意为在阳光下取暖或享受阳光。
-- "[sunlight](/post/sunlight/) hours" 指日照时间，即一天中有阳光照射的时间。
+- "bask [in](/zh/post/in/) [the](/zh/post/the/) [sunlight](/zh/post/sunlight/)" 意为在阳光下取暖或享受阳光。
+- "[sunlight](/zh/post/sunlight/) hours" 指日照时间，即一天中有阳光照射的时间。
 
 ## 例句
-- "[The](/post/the/) plants [need](/post/need/) [plenty](/post/plenty/) [of](/post/of/) [sunlight](/post/sunlight/) [to](/post/to/) [grow](/post/grow/)."
-- "[She](/post/she/) sat [in](/post/in/) [the](/post/the/) [window](/post/window/), enjoying [the](/post/the/) [warmth](/post/warmth/) [of](/post/of/) [the](/post/the/) [sunlight](/post/sunlight/)."
-- "[We](/post/we/) [have](/post/have/) [long](/post/long/) [sunlight](/post/sunlight/) hours [in](/post/in/) [summer](/post/summer/)."
+- "[The](/zh/post/the/) plants [need](/zh/post/need/) [plenty](/zh/post/plenty/) [of](/zh/post/of/) [sunlight](/zh/post/sunlight/) [to](/zh/post/to/) [grow](/zh/post/grow/)."
+- "[She](/zh/post/she/) sat [in](/zh/post/in/) [the](/zh/post/the/) [window](/zh/post/window/), enjoying [the](/zh/post/the/) [warmth](/zh/post/warmth/) [of](/zh/post/of/) [the](/zh/post/the/) [sunlight](/zh/post/sunlight/)."
+- "[We](/zh/post/we/) [have](/zh/post/have/) [long](/zh/post/long/) [sunlight](/zh/post/sunlight/) hours [in](/zh/post/in/) [summer](/zh/post/summer/)."
 
 ## 同义词
-- [sunshine](/post/sunshine/)
-- [daylight](/post/daylight/)
+- [sunshine](/zh/post/sunshine/)
+- [daylight](/zh/post/daylight/)
 - rays
-- [beam](/post/beam/)
-- [glow](/post/glow/)
+- [beam](/zh/post/beam/)
+- [glow](/zh/post/glow/)

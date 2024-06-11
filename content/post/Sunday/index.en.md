@@ -7,23 +7,23 @@ description = '[ˈsʌndi] n.星期日，礼拜日'
 keywords = ['ai words', 'Sunday']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /nˈsʌndeɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [day](/en/post/day/) [in](/en/post/in/) [the](/en/post/the/) [week](/en/post/week/), [usually](/en/post/usually/) [the](/en/post/the/) [last](/en/post/last/) [one](/en/post/one/), marked [by](/en/post/by/) [religious](/en/post/religious/) observance [as](/en/post/as/) [a](/en/post/a/) [day](/en/post/day/) [of](/en/post/of/) [rest](/en/post/rest/) [and](/en/post/and/) [worship](/en/post/worship/) ([in](/en/post/in/) [many](/en/post/many/) [Western](/en/post/western/) calendars). [Example](/en/post/example/): "Sunday is [my](/en/post/my/) favorite [day](/en/post/day/) [because](/en/post/because/) it's [a](/en/post/a/) [day](/en/post/day/) [of](/en/post/of/) relaxation."
-- **[Adjective](/en/post/adjective/)**: Designating [or](/en/post/or/) occurring [on](/en/post/on/) [a](/en/post/a/) Sunday. [Example](/en/post/example/): "Sunday brunch is [a](/en/post/a/) [popular](/en/post/popular/) [weekend](/en/post/weekend/) [activity](/en/post/activity/)."
-- **[Proper](/en/post/proper/) [Noun](/en/post/noun/)**: [The](/en/post/the/) [specific](/en/post/specific/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [week](/en/post/week/), referring [to](/en/post/to/) [the](/en/post/the/) [seventh](/en/post/seventh/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [week](/en/post/week/) according [to](/en/post/to/) [the](/en/post/the/) Gregorian [calendar](/en/post/calendar/). [Example](/en/post/example/): "[We](/en/post/we/) [have](/en/post/have/) [church](/en/post/church/) services [on](/en/post/on/) Sundays."
+- **[Noun](/post/noun/)**: [A](/post/a/) [day](/post/day/) [in](/post/in/) [the](/post/the/) [week](/post/week/), [usually](/post/usually/) [the](/post/the/) [last](/post/last/) [one](/post/one/), marked [by](/post/by/) [religious](/post/religious/) observance [as](/post/as/) [a](/post/a/) [day](/post/day/) [of](/post/of/) [rest](/post/rest/) [and](/post/and/) [worship](/post/worship/) ([in](/post/in/) [many](/post/many/) [Western](/post/western/) calendars). [Example](/post/example/): "Sunday is [my](/post/my/) favorite [day](/post/day/) [because](/post/because/) it's [a](/post/a/) [day](/post/day/) [of](/post/of/) relaxation."
+- **[Adjective](/post/adjective/)**: Designating [or](/post/or/) occurring [on](/post/on/) [a](/post/a/) Sunday. [Example](/post/example/): "Sunday brunch is [a](/post/a/) [popular](/post/popular/) [weekend](/post/weekend/) [activity](/post/activity/)."
+- **[Proper](/post/proper/) [Noun](/post/noun/)**: [The](/post/the/) [specific](/post/specific/) [day](/post/day/) [of](/post/of/) [the](/post/the/) [week](/post/week/), referring [to](/post/to/) [the](/post/the/) [seventh](/post/seventh/) [day](/post/day/) [of](/post/of/) [the](/post/the/) [week](/post/week/) according [to](/post/to/) [the](/post/the/) Gregorian [calendar](/post/calendar/). [Example](/post/example/): "[We](/post/we/) [have](/post/have/) [church](/post/church/) services [on](/post/on/) Sundays."
 
 ## Phrases
-- "It's Sunday" indicates [that](/en/post/that/) it's [the](/en/post/the/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [week](/en/post/week/).
-- "Sunday funday" refers [to](/en/post/to/) [a](/en/post/a/) leisurely [day](/en/post/day/) spent [with](/en/post/with/) friends [or](/en/post/or/) [family](/en/post/family/).
-- "Rolling [into](/en/post/into/) Sunday" implies [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [the](/en/post/the/) [weekend](/en/post/weekend/).
+- "It's Sunday" indicates [that](/post/that/) it's [the](/post/the/) [day](/post/day/) [of](/post/of/) [the](/post/the/) [week](/post/week/).
+- "Sunday funday" refers [to](/post/to/) [a](/post/a/) leisurely [day](/post/day/) spent [with](/post/with/) friends [or](/post/or/) [family](/post/family/).
+- "Rolling [into](/post/into/) Sunday" implies [the](/post/the/) [start](/post/start/) [of](/post/of/) [the](/post/the/) [weekend](/post/weekend/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [week](/en/post/week/), I [look](/en/post/look/) [forward](/en/post/forward/) [to](/en/post/to/) sleeping [in](/en/post/in/) [on](/en/post/on/) Sunday mornings."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [weather](/en/post/weather/) was [beautiful](/en/post/beautiful/), [perfect](/en/post/perfect/) [for](/en/post/for/) [a](/en/post/a/) Sunday stroll [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Proper](/en/post/proper/) [Noun](/en/post/noun/)**: "[We](/en/post/we/) decided [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) barbecue [on](/en/post/on/) Sunday [afternoon](/en/post/afternoon/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [week](/post/week/), I [look](/post/look/) [forward](/post/forward/) [to](/post/to/) sleeping [in](/post/in/) [on](/post/on/) Sunday mornings."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [weather](/post/weather/) was [beautiful](/post/beautiful/), [perfect](/post/perfect/) [for](/post/for/) [a](/post/a/) Sunday stroll [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **[Proper](/post/proper/) [Noun](/post/noun/)**: "[We](/post/we/) decided [to](/post/to/) [have](/post/have/) [a](/post/a/) barbecue [on](/post/on/) Sunday [afternoon](/post/afternoon/)."
 
 ## Synonyms
 -礼拜日
@@ -33,4 +33,4 @@ keywords = ['ai words', 'Sunday']
 -宗教日
 
 ## Antonyms
-- [Weekday](/en/post/weekday/) (Monday [through](/en/post/through/) Friday)
+- [Weekday](/post/weekday/) (Monday [through](/post/through/) Friday)

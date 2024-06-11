@@ -7,39 +7,39 @@ description = '[spred] vt.伸开；传播 n.传播'
 keywords = ['ai words', 'spread']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /spred/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) 1. [To](/en/post/to/) [distribute](/en/post/distribute/) [or](/en/post/or/) [scatter](/en/post/scatter/) [widely](/en/post/widely/), esp. [over](/en/post/over/) [a](/en/post/a/) [surface](/en/post/surface/) [or](/en/post/or/) [area](/en/post/area/). 2. [To](/en/post/to/) [extend](/en/post/extend/) [or](/en/post/or/) [stretch](/en/post/stretch/) [out](/en/post/out/); [expand](/en/post/expand/). 3. [To](/en/post/to/) [pass](/en/post/pass/) [from](/en/post/from/) [one](/en/post/one/) [person](/en/post/person/) [or](/en/post/or/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) [rapidly](/en/post/rapidly/) [or](/en/post/or/) extensively. 4. [To](/en/post/to/) [make](/en/post/make/) known [or](/en/post/or/) publicize [information](/en/post/information/) [or](/en/post/or/) [news](/en/post/news/). 5. [To](/en/post/to/) [apply](/en/post/apply/) [or](/en/post/or/) [spread](/en/post/spread/) [a](/en/post/a/) [substance](/en/post/substance/), [such](/en/post/such/) [as](/en/post/as/) [paint](/en/post/paint/) [or](/en/post/or/) [butter](/en/post/butter/).
+- **[Verb](/post/verb/)**: (v) 1. [To](/post/to/) [distribute](/post/distribute/) [or](/post/or/) [scatter](/post/scatter/) [widely](/post/widely/), esp. [over](/post/over/) [a](/post/a/) [surface](/post/surface/) [or](/post/or/) [area](/post/area/). 2. [To](/post/to/) [extend](/post/extend/) [or](/post/or/) [stretch](/post/stretch/) [out](/post/out/); [expand](/post/expand/). 3. [To](/post/to/) [pass](/post/pass/) [from](/post/from/) [one](/post/one/) [person](/post/person/) [or](/post/or/) [place](/post/place/) [to](/post/to/) [another](/post/another/), [often](/post/often/) [rapidly](/post/rapidly/) [or](/post/or/) extensively. 4. [To](/post/to/) [make](/post/make/) known [or](/post/or/) publicize [information](/post/information/) [or](/post/or/) [news](/post/news/). 5. [To](/post/to/) [apply](/post/apply/) [or](/post/or/) [spread](/post/spread/) [a](/post/a/) [substance](/post/substance/), [such](/post/such/) [as](/post/as/) [paint](/post/paint/) [or](/post/or/) [butter](/post/butter/).
 
 ## Phrases
-- "[Spread](/en/post/spread/) [the](/en/post/the/) [word](/en/post/word/)" [means](/en/post/means/) [to](/en/post/to/) [inform](/en/post/inform/) others [about](/en/post/about/) [something](/en/post/something/).
-- "[Spread](/en/post/spread/) [the](/en/post/the/) [love](/en/post/love/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) [used](/en/post/used/) [to](/en/post/to/) [encourage](/en/post/encourage/) [kindness](/en/post/kindness/) [and](/en/post/and/) generosity.
-- "[Spread](/en/post/spread/) [your](/en/post/your/) wings" is [a](/en/post/a/) metaphorical [expression](/en/post/expression/) [for](/en/post/for/) taking [on](/en/post/on/) [new](/en/post/new/) challenges [or](/en/post/or/) opportunities.
+- "[Spread](/post/spread/) [the](/post/the/) [word](/post/word/)" [means](/post/means/) [to](/post/to/) [inform](/post/inform/) others [about](/post/about/) [something](/post/something/).
+- "[Spread](/post/spread/) [the](/post/the/) [love](/post/love/)" is [a](/post/a/) [phrase](/post/phrase/) [used](/post/used/) [to](/post/to/) [encourage](/post/encourage/) [kindness](/post/kindness/) [and](/post/and/) generosity.
+- "[Spread](/post/spread/) [your](/post/your/) wings" is [a](/post/a/) metaphorical [expression](/post/expression/) [for](/post/for/) taking [on](/post/on/) [new](/post/new/) challenges [or](/post/or/) opportunities.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) rumor [quickly](/en/post/quickly/) [spread](/en/post/spread/) [through](/en/post/through/) [the](/en/post/the/) [office](/en/post/office/)."
-- "[The](/en/post/the/) [jam](/en/post/jam/) [spread](/en/post/spread/) [easily](/en/post/easily/) [on](/en/post/on/) [the](/en/post/the/) [toast](/en/post/toast/)."
-- "[After](/en/post/after/) [the](/en/post/the/) [accident](/en/post/accident/), [the](/en/post/the/) [emergency](/en/post/emergency/) services [quickly](/en/post/quickly/) [spread](/en/post/spread/) [across](/en/post/across/) [the](/en/post/the/) [scene](/en/post/scene/)."
-- "[She](/en/post/she/) [spread](/en/post/spread/) [her](/en/post/her/) wings [and](/en/post/and/) took [flight](/en/post/flight/)."
-- "[The](/en/post/the/) [news](/en/post/news/) [of](/en/post/of/) [their](/en/post/their/) engagement [spread](/en/post/spread/) [like](/en/post/like/) wildfire."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) rumor [quickly](/post/quickly/) [spread](/post/spread/) [through](/post/through/) [the](/post/the/) [office](/post/office/)."
+- "[The](/post/the/) [jam](/post/jam/) [spread](/post/spread/) [easily](/post/easily/) [on](/post/on/) [the](/post/the/) [toast](/post/toast/)."
+- "[After](/post/after/) [the](/post/the/) [accident](/post/accident/), [the](/post/the/) [emergency](/post/emergency/) services [quickly](/post/quickly/) [spread](/post/spread/) [across](/post/across/) [the](/post/the/) [scene](/post/scene/)."
+- "[She](/post/she/) [spread](/post/spread/) [her](/post/her/) wings [and](/post/and/) took [flight](/post/flight/)."
+- "[The](/post/the/) [news](/post/news/) [of](/post/of/) [their](/post/their/) engagement [spread](/post/spread/) [like](/post/like/) wildfire."
 
 ## Synonyms
 - Disperse
-- [Scatter](/en/post/scatter/)
-- [Extend](/en/post/extend/)
+- [Scatter](/post/scatter/)
+- [Extend](/post/extend/)
 - Propagate
-- [Broadcast](/en/post/broadcast/)
-- [Pass](/en/post/pass/) [on](/en/post/on/)
-- [Circulate](/en/post/circulate/)
+- [Broadcast](/post/broadcast/)
+- [Pass](/post/pass/) [on](/post/on/)
+- [Circulate](/post/circulate/)
 - diffuse
 
 ## Antonyms
-- [Gather](/en/post/gather/)
-- [Condense](/en/post/condense/)
-- [Contract](/en/post/contract/)
+- [Gather](/post/gather/)
+- [Condense](/post/condense/)
+- [Contract](/post/contract/)
 - Retract
 - Constrict
-- [Limit](/en/post/limit/)
-- [Restrict](/en/post/restrict/)
+- [Limit](/post/limit/)
+- [Restrict](/post/restrict/)

@@ -12,21 +12,21 @@ keywords = ['ai words', 'scan']
 
 ## 释义
 - **动词**:
-  - 仔细查看；扫描：例如 "I scanned [the](/post/the/) [document](/post/document/) [for](/post/for/) [any](/post/any/) errors."
-  - 用扫描仪或其他设备把图像或文字转化为电子格式：例如 "[She](/post/she/) scanned [the](/post/the/) photo [and](/post/and/) sent [it](/post/it/) [by](/post/by/) email."
-  - （无线电）搜索信号或频道：例如 "[The](/post/the/) [radio](/post/radio/) scanner picked [up](/post/up/) an [emergency](/post/emergency/) [signal](/post/signal/)."
+  - 仔细查看；扫描：例如 "I scanned [the](/zh/post/the/) [document](/zh/post/document/) [for](/zh/post/for/) [any](/zh/post/any/) errors."
+  - 用扫描仪或其他设备把图像或文字转化为电子格式：例如 "[She](/zh/post/she/) scanned [the](/zh/post/the/) photo [and](/zh/post/and/) sent [it](/zh/post/it/) [by](/zh/post/by/) email."
+  - （无线电）搜索信号或频道：例如 "[The](/zh/post/the/) [radio](/zh/post/radio/) scanner picked [up](/zh/post/up/) an [emergency](/zh/post/emergency/) [signal](/zh/post/signal/)."
 
 ## 短语
-- "[Scan](/post/scan/) [through](/post/through/)" 意为快速浏览：例如 "[Scan](/post/scan/) [through](/post/through/) [the](/post/the/) [text](/post/text/) [quickly](/post/quickly/) [to](/post/to/) [find](/post/find/) [the](/post/the/) [main](/post/main/) points."
-- "Scanner" 可指扫描设备：例如 "[The](/post/the/) [security](/post/security/) [guard](/post/guard/) [used](/post/used/) [a](/post/a/) scanner [to](/post/to/) [check](/post/check/) [our](/post/our/) bags."
+- "[Scan](/zh/post/scan/) [through](/zh/post/through/)" 意为快速浏览：例如 "[Scan](/zh/post/scan/) [through](/zh/post/through/) [the](/zh/post/the/) [text](/zh/post/text/) [quickly](/zh/post/quickly/) [to](/zh/post/to/) [find](/zh/post/find/) [the](/zh/post/the/) [main](/zh/post/main/) points."
+- "Scanner" 可指扫描设备：例如 "[The](/zh/post/the/) [security](/zh/post/security/) [guard](/zh/post/guard/) [used](/zh/post/used/) [a](/zh/post/a/) scanner [to](/zh/post/to/) [check](/zh/post/check/) [our](/zh/post/our/) bags."
 
 ## 例句
-- 动词: "[Before](/post/before/) printing, [he](/post/he/) carefully scanned [the](/post/the/) [document](/post/document/) [to](/post/to/) [ensure](/post/ensure/) [no](/post/no/) mistakes."
-- 名词: "[The](/post/the/) [airport](/post/airport/) uses [advanced](/post/advanced/) [body](/post/body/) scanners [for](/post/for/) [security](/post/security/) checks."
+- 动词: "[Before](/zh/post/before/) printing, [he](/zh/post/he/) carefully scanned [the](/zh/post/the/) [document](/zh/post/document/) [to](/zh/post/to/) [ensure](/zh/post/ensure/) [no](/zh/post/no/) mistakes."
+- 名词: "[The](/zh/post/the/) [airport](/zh/post/airport/) uses [advanced](/zh/post/advanced/) [body](/zh/post/body/) scanners [for](/zh/post/for/) [security](/zh/post/security/) checks."
 
 ## 同义词
-- [Examine](/post/examine/)
-- [Survey](/post/survey/)
-- [Check](/post/check/)
+- [Examine](/zh/post/examine/)
+- [Survey](/zh/post/survey/)
+- [Check](/zh/post/check/)
 - Peruse
-- [Glance](/post/glance/) [over](/post/over/)
+- [Glance](/zh/post/glance/) [over](/zh/post/over/)

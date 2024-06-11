@@ -7,37 +7,37 @@ description = '[ədˈvaiz] vt.劝告；建议；通知'
 keywords = ['ai words', 'advise']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈvaɪz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [suggestion](/en/post/suggestion/) [or](/en/post/or/) [opinion](/en/post/opinion/) offered [by](/en/post/by/) [one](/en/post/one/) [person](/en/post/person/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) helping [or](/en/post/or/) guiding [them](/en/post/them/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) advisor recommended [a](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [strategy](/en/post/strategy/)."
-- An [act](/en/post/act/) [of](/en/post/of/) giving [professional](/en/post/professional/) [advice](/en/post/advice/) [or](/en/post/or/) [guidance](/en/post/guidance/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [doctor](/en/post/doctor/) advised [her](/en/post/her/) [to](/en/post/to/) [eat](/en/post/eat/) [a](/en/post/a/) healthier diet."
+### [Noun](/post/noun/)
+- [A](/post/a/) [suggestion](/post/suggestion/) [or](/post/or/) [opinion](/post/opinion/) offered [by](/post/by/) [one](/post/one/) [person](/post/person/) [to](/post/to/) [another](/post/another/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) helping [or](/post/or/) guiding [them](/post/them/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) advisor recommended [a](/post/a/) [change](/post/change/) [in](/post/in/) [strategy](/post/strategy/)."
+- An [act](/post/act/) [of](/post/of/) giving [professional](/post/professional/) [advice](/post/advice/) [or](/post/or/) [guidance](/post/guidance/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [doctor](/post/doctor/) advised [her](/post/her/) [to](/post/to/) [eat](/post/eat/) [a](/post/a/) healthier diet."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [give](/en/post/give/) [advice](/en/post/advice/) [or](/en/post/or/) counsel [to](/en/post/to/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "I [advise](/en/post/advise/) [you](/en/post/you/) [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [break](/en/post/break/) [and](/en/post/and/) recharge."
-- [To](/en/post/to/) [suggest](/en/post/suggest/) [or](/en/post/or/) [propose](/en/post/propose/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) advised [against](/en/post/against/) taking [the](/en/post/the/) risky [investment](/en/post/investment/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [give](/post/give/) [advice](/post/advice/) [or](/post/or/) counsel [to](/post/to/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "I [advise](/post/advise/) [you](/post/you/) [to](/post/to/) [take](/post/take/) [a](/post/a/) [break](/post/break/) [and](/post/and/) recharge."
+- [To](/post/to/) [suggest](/post/suggest/) [or](/post/or/) [propose](/post/propose/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) advised [against](/post/against/) taking [the](/post/the/) risky [investment](/post/investment/)."
 
-### [Adjective](/en/post/adjective/)
-- Giving [or](/en/post/or/) expressing [advice](/en/post/advice/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) advisory [board](/en/post/board/) consists [of](/en/post/of/) experienced professionals."
+### [Adjective](/post/adjective/)
+- Giving [or](/post/or/) expressing [advice](/post/advice/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) advisory [board](/post/board/) consists [of](/post/of/) experienced professionals."
 
 ## Phrases
-- "[Take](/en/post/take/) someone's [advice](/en/post/advice/)" [means](/en/post/means/) [to](/en/post/to/) [follow](/en/post/follow/) [the](/en/post/the/) suggestions given [by](/en/post/by/) [someone](/en/post/someone/).
-- "[Seek](/en/post/seek/) [professional](/en/post/professional/) [advice](/en/post/advice/)" is [when](/en/post/when/) [you](/en/post/you/) [consult](/en/post/consult/) an [expert](/en/post/expert/) [for](/en/post/for/) [guidance](/en/post/guidance/).
-- "[Sound](/en/post/sound/) [advice](/en/post/advice/)" refers [to](/en/post/to/) [good](/en/post/good/) [or](/en/post/or/) [sensible](/en/post/sensible/) suggestions.
+- "[Take](/post/take/) someone's [advice](/post/advice/)" [means](/post/means/) [to](/post/to/) [follow](/post/follow/) [the](/post/the/) suggestions given [by](/post/by/) [someone](/post/someone/).
+- "[Seek](/post/seek/) [professional](/post/professional/) [advice](/post/advice/)" is [when](/post/when/) [you](/post/you/) [consult](/post/consult/) an [expert](/post/expert/) [for](/post/for/) [guidance](/post/guidance/).
+- "[Sound](/post/sound/) [advice](/post/advice/)" refers [to](/post/to/) [good](/post/good/) [or](/post/or/) [sensible](/post/sensible/) suggestions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [financial](/en/post/financial/) advisor helped [her](/en/post/her/) [create](/en/post/create/) [a](/en/post/a/) [solid](/en/post/solid/) retirement [plan](/en/post/plan/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [coach](/en/post/coach/) advised [the](/en/post/the/) [team](/en/post/team/) [on](/en/post/on/) [their](/en/post/their/) [game](/en/post/game/) tactics."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) advisory [note](/en/post/note/) mentioned [potential](/en/post/potential/) risks."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [financial](/post/financial/) advisor helped [her](/post/her/) [create](/post/create/) [a](/post/a/) [solid](/post/solid/) retirement [plan](/post/plan/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [coach](/post/coach/) advised [the](/post/the/) [team](/post/team/) [on](/post/on/) [their](/post/their/) [game](/post/game/) tactics."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) advisory [note](/post/note/) mentioned [potential](/post/potential/) risks."
 
 ## Synonyms
 - Counsel
 - Advisement
-- [Recommendation](/en/post/recommendation/)
-- [Guidance](/en/post/guidance/)
-- [Suggestion](/en/post/suggestion/)
-- [Inform](/en/post/inform/)
-- [Offer](/en/post/offer/) counsel
+- [Recommendation](/post/recommendation/)
+- [Guidance](/post/guidance/)
+- [Suggestion](/post/suggestion/)
+- [Inform](/post/inform/)
+- [Offer](/post/offer/) counsel
 - Mentorship (informal)

@@ -12,20 +12,20 @@ keywords = ['ai words', 'preparation']
 
 ## 释义
 - **名词** (n):
-    - 准备；预备：意为为某个活动或事件做好必要的安排和准备工作。例如: "[We](/post/we/) [need](/post/need/) ample [time](/post/time/) [for](/post/for/) [preparation](/post/preparation/) [before](/post/before/) [the](/post/the/) [exam](/post/exam/)."
-    - 预制品；制剂：特指化学或医学上的混合物，如药剂或溶液。例如: "[The](/post/the/) [doctor](/post/doctor/) prescribed [a](/post/a/) [special](/post/special/) [preparation](/post/preparation/) [for](/post/for/) [his](/post/his/) [sore](/post/sore/) [throat](/post/throat/)."
+    - 准备；预备：意为为某个活动或事件做好必要的安排和准备工作。例如: "[We](/zh/post/we/) [need](/zh/post/need/) ample [time](/zh/post/time/) [for](/zh/post/for/) [preparation](/zh/post/preparation/) [before](/zh/post/before/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
+    - 预制品；制剂：特指化学或医学上的混合物，如药剂或溶液。例如: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) prescribed [a](/zh/post/a/) [special](/zh/post/special/) [preparation](/zh/post/preparation/) [for](/zh/post/for/) [his](/zh/post/his/) [sore](/zh/post/sore/) [throat](/zh/post/throat/)."
 
 ## 短语
-- "[Make](/post/make/) preparations [for](/post/for/) [something](/post/something/)" 意味着为某事做准备。
-- "[Preparation](/post/preparation/) H" 是一种治疗痔疮的非处方药。
+- "[Make](/zh/post/make/) preparations [for](/zh/post/for/) [something](/zh/post/something/)" 意味着为某事做准备。
+- "[Preparation](/zh/post/preparation/) H" 是一种治疗痔疮的非处方药。
 
 ## 例句
-- 名词: "[The](/post/the/) chef spent hours [in](/post/in/) [the](/post/the/) [kitchen](/post/kitchen/) [on](/post/on/) [food](/post/food/) [preparation](/post/preparation/) [for](/post/for/) [the](/post/the/) [dinner](/post/dinner/) [party](/post/party/)."
-- 名词: "[She](/post/she/) applied [the](/post/the/) [preparation](/post/preparation/) [to](/post/to/) [the](/post/the/) affected [area](/post/area/) [as](/post/as/) directed [by](/post/by/) [the](/post/the/) pharmacist."
+- 名词: "[The](/zh/post/the/) chef spent hours [in](/zh/post/in/) [the](/zh/post/the/) [kitchen](/zh/post/kitchen/) [on](/zh/post/on/) [food](/zh/post/food/) [preparation](/zh/post/preparation/) [for](/zh/post/for/) [the](/zh/post/the/) [dinner](/zh/post/dinner/) [party](/zh/post/party/)."
+- 名词: "[She](/zh/post/she/) applied [the](/zh/post/the/) [preparation](/zh/post/preparation/) [to](/zh/post/to/) [the](/zh/post/the/) affected [area](/zh/post/area/) [as](/zh/post/as/) directed [by](/zh/post/by/) [the](/zh/post/the/) pharmacist."
 
 ## 同义词
 - Planning
-- [Arrangement](/post/arrangement/)
+- [Arrangement](/zh/post/arrangement/)
 - Readiness
 - Compilation
-- [Provision](/post/provision/)
+- [Provision](/zh/post/provision/)

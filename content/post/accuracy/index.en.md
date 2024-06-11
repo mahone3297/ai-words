@@ -7,26 +7,26 @@ description = '[ˈækjurəsi] n.准确(性)；准确度'
 keywords = ['ai words', 'accuracy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈkjuːrəsi/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [correct](/en/post/correct/), [precise](/en/post/precise/), [or](/en/post/or/) [exact](/en/post/exact/) [in](/en/post/in/) [accordance](/en/post/accordance/) [with](/en/post/with/) facts [or](/en/post/or/) standards. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [watch](/en/post/watch/) has [a](/en/post/a/) [high](/en/post/high/) [accuracy](/en/post/accuracy/)."
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [the](/en/post/the/) [degree](/en/post/degree/) [of](/en/post/of/) correctness [or](/en/post/or/) [precision](/en/post/precision/) [in](/en/post/in/) [a](/en/post/a/) [measurement](/en/post/measurement/), estimation, [or](/en/post/or/) [statement](/en/post/statement/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) typing [accuracy](/en/post/accuracy/) improved [with](/en/post/with/) [practice](/en/post/practice/)."
-- **[Verb](/en/post/verb/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) achieving [or](/en/post/or/) maintaining [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) correctness [or](/en/post/or/) [precision](/en/post/precision/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) aimed [for](/en/post/for/) [accuracy](/en/post/accuracy/) [in](/en/post/in/) [his](/en/post/his/) calculations."
+- **[Noun](/post/noun/)**: [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [correct](/post/correct/), [precise](/post/precise/), [or](/post/or/) [exact](/post/exact/) [in](/post/in/) [accordance](/post/accordance/) [with](/post/with/) facts [or](/post/or/) standards. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [watch](/post/watch/) has [a](/post/a/) [high](/post/high/) [accuracy](/post/accuracy/)."
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [the](/post/the/) [degree](/post/degree/) [of](/post/of/) correctness [or](/post/or/) [precision](/post/precision/) [in](/post/in/) [a](/post/a/) [measurement](/post/measurement/), estimation, [or](/post/or/) [statement](/post/statement/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) typing [accuracy](/post/accuracy/) improved [with](/post/with/) [practice](/post/practice/)."
+- **[Verb](/post/verb/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) achieving [or](/post/or/) maintaining [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) correctness [or](/post/or/) [precision](/post/precision/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) aimed [for](/post/for/) [accuracy](/post/accuracy/) [in](/post/in/) [his](/post/his/) calculations."
 
 ## Phrases
-- "[High](/en/post/high/) [accuracy](/en/post/accuracy/)" indicates [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) [precision](/en/post/precision/).
-- "[Accuracy](/en/post/accuracy/) [rate](/en/post/rate/)" refers [to](/en/post/to/) [the](/en/post/the/) [proportion](/en/post/proportion/) [of](/en/post/of/) [correct](/en/post/correct/) items [in](/en/post/in/) [a](/en/post/a/) [sample](/en/post/sample/).
-- "Achieving [accuracy](/en/post/accuracy/)" [means](/en/post/means/) reaching [a](/en/post/a/) [standard](/en/post/standard/) [of](/en/post/of/) correctness.
+- "[High](/post/high/) [accuracy](/post/accuracy/)" indicates [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) [precision](/post/precision/).
+- "[Accuracy](/post/accuracy/) [rate](/post/rate/)" refers [to](/post/to/) [the](/post/the/) [proportion](/post/proportion/) [of](/post/of/) [correct](/post/correct/) items [in](/post/in/) [a](/post/a/) [sample](/post/sample/).
+- "Achieving [accuracy](/post/accuracy/)" [means](/post/means/) reaching [a](/post/a/) [standard](/post/standard/) [of](/post/of/) correctness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) measuring [tool](/en/post/tool/) ensures [a](/en/post/a/) [high](/en/post/high/) [accuracy](/en/post/accuracy/) [in](/en/post/in/) [our](/en/post/our/) experiments."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) completed [the](/en/post/the/) [task](/en/post/task/) [with](/en/post/with/) [impressive](/en/post/impressive/) [accuracy](/en/post/accuracy/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [several](/en/post/several/) revisions, [the](/en/post/the/) report's [accuracy](/en/post/accuracy/) was significantly improved."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) measuring [tool](/post/tool/) ensures [a](/post/a/) [high](/post/high/) [accuracy](/post/accuracy/) [in](/post/in/) [our](/post/our/) experiments."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) completed [the](/post/the/) [task](/post/task/) [with](/post/with/) [impressive](/post/impressive/) [accuracy](/post/accuracy/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [several](/post/several/) revisions, [the](/post/the/) report's [accuracy](/post/accuracy/) was significantly improved."
 
 ## Synonyms
-- [Precision](/en/post/precision/)
+- [Precision](/post/precision/)
 - Correctness
 - Fidelity
 - Exactness
@@ -34,7 +34,7 @@ keywords = ['ai words', 'accuracy']
 
 ## Antonyms
 - Inaccuracy
-- [Error](/en/post/error/)
+- [Error](/post/error/)
 - Imprecision
 - Misinterpretation
 - Miscalculation

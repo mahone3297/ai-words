@@ -12,21 +12,21 @@ keywords = ['ai words', 'imitate']
 
 ## 释义
 - **动词**:
-1. 模仿；效仿。例如: "[The](/post/the/) [young](/post/young/) [artist](/post/artist/) was trying [to](/post/to/) [imitate](/post/imitate/) [the](/post/the/) [style](/post/style/) [of](/post/of/) [Van](/post/van/) Gogh."
-2. 假装；装模作样。例如: "[He](/post/he/) imitated [being](/post/being/) [sick](/post/sick/) [to](/post/to/) [get](/post/get/) [out](/post/out/) [of](/post/of/) [work](/post/work/)."
+1. 模仿；效仿。例如: "[The](/zh/post/the/) [young](/zh/post/young/) [artist](/zh/post/artist/) was trying [to](/zh/post/to/) [imitate](/zh/post/imitate/) [the](/zh/post/the/) [style](/zh/post/style/) [of](/zh/post/of/) [Van](/zh/post/van/) Gogh."
+2. 假装；装模作样。例如: "[He](/zh/post/he/) imitated [being](/zh/post/being/) [sick](/zh/post/sick/) [to](/zh/post/to/) [get](/zh/post/get/) [out](/zh/post/out/) [of](/zh/post/of/) [work](/zh/post/work/)."
 
 ## 短语
-- "[imitate](/post/imitate/) someone's [behavior](/post/behavior/)" 意为模仿某人的行为举止。
-- "[imitate](/post/imitate/) [a](/post/a/) [sound](/post/sound/)" 表示模仿一个声音。
+- "[imitate](/zh/post/imitate/) someone's [behavior](/zh/post/behavior/)" 意为模仿某人的行为举止。
+- "[imitate](/zh/post/imitate/) [a](/zh/post/a/) [sound](/zh/post/sound/)" 表示模仿一个声音。
 
 ## 例句
-- "[She](/post/she/) carefully imitated [her](/post/her/) teacher's [handwriting](/post/handwriting/) [in](/post/in/) [her](/post/her/) [notebook](/post/notebook/)."
-- "[The](/post/the/) children were imitating animals' sounds, making [everyone](/post/everyone/) [laugh](/post/laugh/)."
-- "[He](/post/he/) imitated [a](/post/a/) [famous](/post/famous/) actor's [accent](/post/accent/) [during](/post/during/) [his](/post/his/) [performance](/post/performance/)."
+- "[She](/zh/post/she/) carefully imitated [her](/zh/post/her/) teacher's [handwriting](/zh/post/handwriting/) [in](/zh/post/in/) [her](/zh/post/her/) [notebook](/zh/post/notebook/)."
+- "[The](/zh/post/the/) children were imitating animals' sounds, making [everyone](/zh/post/everyone/) [laugh](/zh/post/laugh/)."
+- "[He](/zh/post/he/) imitated [a](/zh/post/a/) [famous](/zh/post/famous/) actor's [accent](/zh/post/accent/) [during](/zh/post/during/) [his](/zh/post/his/) [performance](/zh/post/performance/)."
 
 ## 同义词
 - mimic
-- [copy](/post/copy/)
+- [copy](/zh/post/copy/)
 - ape
 - emulate
-- [reproduce](/post/reproduce/)
+- [reproduce](/zh/post/reproduce/)

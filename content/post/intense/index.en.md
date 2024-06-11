@@ -7,35 +7,35 @@ description = '[inˈtens] a.强烈的；紧张的'
 keywords = ['ai words', 'intense']
 +++
 
-## [Word](/en/post/word/): [Intense](/en/post/intense/)
+## [Word](/post/word/): [Intense](/post/intense/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈtens/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [or](/en/post/or/) showing [strong](/en/post/strong/) feelings [or](/en/post/or/) opinions; [very](/en/post/very/) [serious](/en/post/serious/) [or](/en/post/or/) [powerful](/en/post/powerful/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) had [intense](/en/post/intense/) [loyalty](/en/post/loyalty/) towards [her](/en/post/her/) friends."
-  - *[Intensity](/en/post/intensity/)*: [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [intense](/en/post/intense/), [often](/en/post/often/) referring [to](/en/post/to/) emotions, [focus](/en/post/focus/), [or](/en/post/or/) [force](/en/post/force/).
-    > [Example](/en/post/example/): "[The](/en/post/the/) athletes displayed incredible [intensity](/en/post/intensity/) [during](/en/post/during/) [their](/en/post/their/) [training](/en/post/training/) sessions."
-- **[Adjective](/en/post/adjective/) ([Physics](/en/post/physics/))**: [Extremely](/en/post/extremely/) [great](/en/post/great/) [in](/en/post/in/) [degree](/en/post/degree/) [or](/en/post/or/) [strength](/en/post/strength/); concentrated [or](/en/post/or/) [high](/en/post/high/) [in](/en/post/in/) [amount](/en/post/amount/). [For](/en/post/for/) [instance](/en/post/instance/): "An [intense](/en/post/intense/) [beam](/en/post/beam/) [of](/en/post/of/) [light](/en/post/light/)."
+- **[Adjective](/post/adjective/)**: Having [or](/post/or/) showing [strong](/post/strong/) feelings [or](/post/or/) opinions; [very](/post/very/) [serious](/post/serious/) [or](/post/or/) [powerful](/post/powerful/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) had [intense](/post/intense/) [loyalty](/post/loyalty/) towards [her](/post/her/) friends."
+  - *[Intensity](/post/intensity/)*: [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [intense](/post/intense/), [often](/post/often/) referring [to](/post/to/) emotions, [focus](/post/focus/), [or](/post/or/) [force](/post/force/).
+    > [Example](/post/example/): "[The](/post/the/) athletes displayed incredible [intensity](/post/intensity/) [during](/post/during/) [their](/post/their/) [training](/post/training/) sessions."
+- **[Adjective](/post/adjective/) ([Physics](/post/physics/))**: [Extremely](/post/extremely/) [great](/post/great/) [in](/post/in/) [degree](/post/degree/) [or](/post/or/) [strength](/post/strength/); concentrated [or](/post/or/) [high](/post/high/) [in](/post/in/) [amount](/post/amount/). [For](/post/for/) [instance](/post/instance/): "An [intense](/post/intense/) [beam](/post/beam/) [of](/post/of/) [light](/post/light/)."
 
 ## Phrases
-- "[Intense](/en/post/intense/) [emotion](/en/post/emotion/)": Describes [a](/en/post/a/) [deep](/en/post/deep/), [powerful](/en/post/powerful/) [feeling](/en/post/feeling/) [such](/en/post/such/) [as](/en/post/as/) [love](/en/post/love/), [hate](/en/post/hate/), [fear](/en/post/fear/), [or](/en/post/or/) [joy](/en/post/joy/).
-- "[Intense](/en/post/intense/) [debate](/en/post/debate/)": [A](/en/post/a/) heated [and](/en/post/and/) passionate [argument](/en/post/argument/) [where](/en/post/where/) [both](/en/post/both/) sides [strongly](/en/post/strongly/) advocate [their](/en/post/their/) viewpoints.
-- "[Intense](/en/post/intense/) workout": [A](/en/post/a/) physically demanding [exercise](/en/post/exercise/) [session](/en/post/session/) [that](/en/post/that/) pushes one's limits.
+- "[Intense](/post/intense/) [emotion](/post/emotion/)": Describes [a](/post/a/) [deep](/post/deep/), [powerful](/post/powerful/) [feeling](/post/feeling/) [such](/post/such/) [as](/post/as/) [love](/post/love/), [hate](/post/hate/), [fear](/post/fear/), [or](/post/or/) [joy](/post/joy/).
+- "[Intense](/post/intense/) [debate](/post/debate/)": [A](/post/a/) heated [and](/post/and/) passionate [argument](/post/argument/) [where](/post/where/) [both](/post/both/) sides [strongly](/post/strongly/) advocate [their](/post/their/) viewpoints.
+- "[Intense](/post/intense/) workout": [A](/post/a/) physically demanding [exercise](/post/exercise/) [session](/post/session/) [that](/post/that/) pushes one's limits.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) ([Emotion](/en/post/emotion/))**: "[Their](/en/post/their/) [intense](/en/post/intense/) [passion](/en/post/passion/) [for](/en/post/for/) [music](/en/post/music/) drove [them](/en/post/them/) [to](/en/post/to/) [practice](/en/post/practice/) [for](/en/post/for/) hours [every](/en/post/every/) [day](/en/post/day/)."
-- **[Adjective](/en/post/adjective/) ([Focus](/en/post/focus/))**: "[He](/en/post/he/) maintained an [intense](/en/post/intense/) [concentration](/en/post/concentration/) [while](/en/post/while/) solving [the](/en/post/the/) [complex](/en/post/complex/) math [problem](/en/post/problem/)."
-- **[Adjective](/en/post/adjective/) ([Physics](/en/post/physics/))**: "[The](/en/post/the/) [experiment](/en/post/experiment/) required an [intense](/en/post/intense/) [heat](/en/post/heat/) [source](/en/post/source/) [to](/en/post/to/) ignite [the](/en/post/the/) [chemical](/en/post/chemical/) [reaction](/en/post/reaction/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) ([Emotion](/post/emotion/))**: "[Their](/post/their/) [intense](/post/intense/) [passion](/post/passion/) [for](/post/for/) [music](/post/music/) drove [them](/post/them/) [to](/post/to/) [practice](/post/practice/) [for](/post/for/) hours [every](/post/every/) [day](/post/day/)."
+- **[Adjective](/post/adjective/) ([Focus](/post/focus/))**: "[He](/post/he/) maintained an [intense](/post/intense/) [concentration](/post/concentration/) [while](/post/while/) solving [the](/post/the/) [complex](/post/complex/) math [problem](/post/problem/)."
+- **[Adjective](/post/adjective/) ([Physics](/post/physics/))**: "[The](/post/the/) [experiment](/post/experiment/) required an [intense](/post/intense/) [heat](/post/heat/) [source](/post/source/) [to](/post/to/) ignite [the](/post/the/) [chemical](/post/chemical/) [reaction](/post/reaction/)."
 
 ## Synonyms
-- [Extreme](/en/post/extreme/)
-- [Powerful](/en/post/powerful/)
-- [Strong](/en/post/strong/)
-- [Severe](/en/post/severe/)
-- [Fierce](/en/post/fierce/)
+- [Extreme](/post/extreme/)
+- [Powerful](/post/powerful/)
+- [Strong](/post/strong/)
+- [Severe](/post/severe/)
+- [Fierce](/post/fierce/)
 - Profound
-- [Vigorous](/en/post/vigorous/)
+- [Vigorous](/post/vigorous/)
 - Ardent
-- [Steep](/en/post/steep/)
+- [Steep](/post/steep/)
 - Concentrated

@@ -7,38 +7,38 @@ description = '[gæp] n.缺口；间隔；差距'
 keywords = ['ai words', 'gap']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡæp/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-1. **[A](/en/post/a/) [break](/en/post/break/) [or](/en/post/or/) [opening](/en/post/opening/)** [in](/en/post/in/) [something](/en/post/something/) [that](/en/post/that/) is [otherwise](/en/post/otherwise/) [solid](/en/post/solid/), [continuous](/en/post/continuous/), [or](/en/post/or/) [complete](/en/post/complete/); [for](/en/post/for/) [instance](/en/post/instance/), [a](/en/post/a/) [space](/en/post/space/) [between](/en/post/between/) [two](/en/post/two/) buildings [or](/en/post/or/) [a](/en/post/a/) [hole](/en/post/hole/) [in](/en/post/in/) [a](/en/post/a/) [fence](/en/post/fence/): "[The](/en/post/the/) [fence](/en/post/fence/) had [a](/en/post/a/) [gap](/en/post/gap/) [where](/en/post/where/) [the](/en/post/the/) [dog](/en/post/dog/) [could](/en/post/could/) [escape](/en/post/escape/)."
-2. **[A](/en/post/a/) [difference](/en/post/difference/) [or](/en/post/or/) disparity** [between](/en/post/between/) [two](/en/post/two/) things: "There's [a](/en/post/a/) [significant](/en/post/significant/) [gap](/en/post/gap/) [in](/en/post/in/) [understanding](/en/post/understanding/) [between](/en/post/between/) [management](/en/post/management/) [and](/en/post/and/) employees."
-3. **[A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/)** [between](/en/post/between/) events [or](/en/post/or/) actions: "[She](/en/post/she/) took [a](/en/post/a/) [gap](/en/post/gap/) [year](/en/post/year/) [before](/en/post/before/) starting [college](/en/post/college/) [to](/en/post/to/) [travel](/en/post/travel/)."
-4. **[A](/en/post/a/) deficiency [or](/en/post/or/) [lack](/en/post/lack/)**: "There's [a](/en/post/a/) [gap](/en/post/gap/) [in](/en/post/in/) [our](/en/post/our/) [knowledge](/en/post/knowledge/) [on](/en/post/on/) [this](/en/post/this/) [subject](/en/post/subject/)."
-5. **[In](/en/post/in/) retail, [a](/en/post/a/) [gap](/en/post/gap/) [in](/en/post/in/) [the](/en/post/the/) [market](/en/post/market/)** refers [to](/en/post/to/) an unmet consumer [need](/en/post/need/) [or](/en/post/or/) [demand](/en/post/demand/) [for](/en/post/for/) [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/).
+### [Noun](/post/noun/) (n)
+1. **[A](/post/a/) [break](/post/break/) [or](/post/or/) [opening](/post/opening/)** [in](/post/in/) [something](/post/something/) [that](/post/that/) is [otherwise](/post/otherwise/) [solid](/post/solid/), [continuous](/post/continuous/), [or](/post/or/) [complete](/post/complete/); [for](/post/for/) [instance](/post/instance/), [a](/post/a/) [space](/post/space/) [between](/post/between/) [two](/post/two/) buildings [or](/post/or/) [a](/post/a/) [hole](/post/hole/) [in](/post/in/) [a](/post/a/) [fence](/post/fence/): "[The](/post/the/) [fence](/post/fence/) had [a](/post/a/) [gap](/post/gap/) [where](/post/where/) [the](/post/the/) [dog](/post/dog/) [could](/post/could/) [escape](/post/escape/)."
+2. **[A](/post/a/) [difference](/post/difference/) [or](/post/or/) disparity** [between](/post/between/) [two](/post/two/) things: "There's [a](/post/a/) [significant](/post/significant/) [gap](/post/gap/) [in](/post/in/) [understanding](/post/understanding/) [between](/post/between/) [management](/post/management/) [and](/post/and/) employees."
+3. **[A](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/)** [between](/post/between/) events [or](/post/or/) actions: "[She](/post/she/) took [a](/post/a/) [gap](/post/gap/) [year](/post/year/) [before](/post/before/) starting [college](/post/college/) [to](/post/to/) [travel](/post/travel/)."
+4. **[A](/post/a/) deficiency [or](/post/or/) [lack](/post/lack/)**: "There's [a](/post/a/) [gap](/post/gap/) [in](/post/in/) [our](/post/our/) [knowledge](/post/knowledge/) [on](/post/on/) [this](/post/this/) [subject](/post/subject/)."
+5. **[In](/post/in/) retail, [a](/post/a/) [gap](/post/gap/) [in](/post/in/) [the](/post/the/) [market](/post/market/)** refers [to](/post/to/) an unmet consumer [need](/post/need/) [or](/post/or/) [demand](/post/demand/) [for](/post/for/) [a](/post/a/) [product](/post/product/) [or](/post/or/) [service](/post/service/).
 
-### [Verb](/en/post/verb/) (v)
-6. **[To](/en/post/to/) [leave](/en/post/leave/) [a](/en/post/a/) [gap](/en/post/gap/)** [or](/en/post/or/) [create](/en/post/create/) [a](/en/post/a/) [space](/en/post/space/): "[The](/en/post/the/) trees were planted [so](/en/post/so/) [they](/en/post/they/) wouldn't [gap](/en/post/gap/) [too](/en/post/too/) [much](/en/post/much/) [as](/en/post/as/) [they](/en/post/they/) grew."
-7. **[To](/en/post/to/) [bridge](/en/post/bridge/) [a](/en/post/a/) [gap](/en/post/gap/)** [means](/en/post/means/) [to](/en/post/to/) [connect](/en/post/connect/) [or](/en/post/or/) [fill](/en/post/fill/) [the](/en/post/the/) [space](/en/post/space/) [between](/en/post/between/) [two](/en/post/two/) things, [often](/en/post/often/) figuratively: "[The](/en/post/the/) [new](/en/post/new/) [program](/en/post/program/) aims [to](/en/post/to/) [bridge](/en/post/bridge/) [the](/en/post/the/) [gap](/en/post/gap/) [between](/en/post/between/) [education](/en/post/education/) [and](/en/post/and/) [employment](/en/post/employment/)."
+### [Verb](/post/verb/) (v)
+6. **[To](/post/to/) [leave](/post/leave/) [a](/post/a/) [gap](/post/gap/)** [or](/post/or/) [create](/post/create/) [a](/post/a/) [space](/post/space/): "[The](/post/the/) trees were planted [so](/post/so/) [they](/post/they/) wouldn't [gap](/post/gap/) [too](/post/too/) [much](/post/much/) [as](/post/as/) [they](/post/they/) grew."
+7. **[To](/post/to/) [bridge](/post/bridge/) [a](/post/a/) [gap](/post/gap/)** [means](/post/means/) [to](/post/to/) [connect](/post/connect/) [or](/post/or/) [fill](/post/fill/) [the](/post/the/) [space](/post/space/) [between](/post/between/) [two](/post/two/) things, [often](/post/often/) figuratively: "[The](/post/the/) [new](/post/new/) [program](/post/program/) aims [to](/post/to/) [bridge](/post/bridge/) [the](/post/the/) [gap](/post/gap/) [between](/post/between/) [education](/post/education/) [and](/post/and/) [employment](/post/employment/)."
 
 ## Phrases
-- "[Mind](/en/post/mind/) [the](/en/post/the/) [gap](/en/post/gap/)" is [a](/en/post/a/) warning [phrase](/en/post/phrase/) [often](/en/post/often/) heard [on](/en/post/on/) trains, reminding passengers [to](/en/post/to/) [be](/en/post/be/) [careful](/en/post/careful/) [of](/en/post/of/) [the](/en/post/the/) [space](/en/post/space/) [between](/en/post/between/) [the](/en/post/the/) [train](/en/post/train/) [and](/en/post/and/) [platform](/en/post/platform/).
-- "[Gap](/en/post/gap/) [analysis](/en/post/analysis/)" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) comparing [actual](/en/post/actual/) [performance](/en/post/performance/) [with](/en/post/with/) desired [performance](/en/post/performance/) [to](/en/post/to/) [identify](/en/post/identify/) areas [that](/en/post/that/) [require](/en/post/require/) [improvement](/en/post/improvement/).
-- "[Generation](/en/post/generation/) [gap](/en/post/gap/)" denotes [the](/en/post/the/) differences [in](/en/post/in/) values [and](/en/post/and/) attitudes [between](/en/post/between/) [one](/en/post/one/) [generation](/en/post/generation/) [and](/en/post/and/) [another](/en/post/another/).
+- "[Mind](/post/mind/) [the](/post/the/) [gap](/post/gap/)" is [a](/post/a/) warning [phrase](/post/phrase/) [often](/post/often/) heard [on](/post/on/) trains, reminding passengers [to](/post/to/) [be](/post/be/) [careful](/post/careful/) [of](/post/of/) [the](/post/the/) [space](/post/space/) [between](/post/between/) [the](/post/the/) [train](/post/train/) [and](/post/and/) [platform](/post/platform/).
+- "[Gap](/post/gap/) [analysis](/post/analysis/)" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) comparing [actual](/post/actual/) [performance](/post/performance/) [with](/post/with/) desired [performance](/post/performance/) [to](/post/to/) [identify](/post/identify/) areas [that](/post/that/) [require](/post/require/) [improvement](/post/improvement/).
+- "[Generation](/post/generation/) [gap](/post/gap/)" denotes [the](/post/the/) differences [in](/post/in/) values [and](/post/and/) attitudes [between](/post/between/) [one](/post/one/) [generation](/post/generation/) [and](/post/and/) [another](/post/another/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) plans [to](/en/post/to/) [fill](/en/post/fill/) [the](/en/post/the/) [skill](/en/post/skill/) [gap](/en/post/gap/) [by](/en/post/by/) offering [training](/en/post/training/) programs."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) retirement [of](/en/post/of/) [several](/en/post/several/) [senior](/en/post/senior/) [staff](/en/post/staff/) members [will](/en/post/will/) [gap](/en/post/gap/) [the](/en/post/the/) [leadership](/en/post/leadership/) [team](/en/post/team/) significantly."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) plans [to](/post/to/) [fill](/post/fill/) [the](/post/the/) [skill](/post/skill/) [gap](/post/gap/) [by](/post/by/) offering [training](/post/training/) programs."
+- **[Verb](/post/verb/)**: "[The](/post/the/) retirement [of](/post/of/) [several](/post/several/) [senior](/post/senior/) [staff](/post/staff/) members [will](/post/will/) [gap](/post/gap/) [the](/post/the/) [leadership](/post/leadership/) [team](/post/team/) significantly."
 
 ## Synonyms
 - Breach
-- [Opening](/en/post/opening/)
-- [Space](/en/post/space/)
+- [Opening](/post/opening/)
+- [Space](/post/space/)
 - Void
-- [Interval](/en/post/interval/)
-- [Break](/en/post/break/)
+- [Interval](/post/interval/)
+- [Break](/post/break/)
 - Disparity
-- [Difference](/en/post/difference/)
-- [Hole](/en/post/hole/)
-- Lapse ([in](/en/post/in/) [time](/en/post/time/))
+- [Difference](/post/difference/)
+- [Hole](/post/hole/)
+- Lapse ([in](/post/in/) [time](/post/time/))

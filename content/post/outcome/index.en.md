@@ -7,34 +7,34 @@ description = '[ˈautkʌm] n.结果，后果，成果'
 keywords = ['ai words', 'outcome']
 +++
 
-## [Word](/en/post/word/): [Outcome](/en/post/outcome/)
+## [Word](/post/word/): [Outcome](/post/outcome/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaʊtkʌm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [final](/en/post/final/) [result](/en/post/result/) [or](/en/post/or/) [consequence](/en/post/consequence/) [of](/en/post/of/) [a](/en/post/a/) [sequence](/en/post/sequence/) [of](/en/post/of/) events, actions, [or](/en/post/or/) processes; [the](/en/post/the/) [conclusion](/en/post/conclusion/) [or](/en/post/or/) [effect](/en/post/effect/) [that](/en/post/that/) follows [from](/en/post/from/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [outcome](/en/post/outcome/) [of](/en/post/of/) [the](/en/post/the/) [experiment](/en/post/experiment/) was [unexpected](/en/post/unexpected/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [decision](/en/post/decision/) reached [by](/en/post/by/) [a](/en/post/a/) [court](/en/post/court/) [or](/en/post/or/) [judge](/en/post/judge/); [a](/en/post/a/) verdict. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [jury](/en/post/jury/) delivered [its](/en/post/its/) [final](/en/post/final/) [outcome](/en/post/outcome/) [on](/en/post/on/) [the](/en/post/the/) [case](/en/post/case/)."
-- **[Noun](/en/post/noun/)**: [In](/en/post/in/) [a](/en/post/a/) [contest](/en/post/contest/) [or](/en/post/or/) [competition](/en/post/competition/), [the](/en/post/the/) [result](/en/post/result/) determining [which](/en/post/which/) [side](/en/post/side/) wins [or](/en/post/or/) loses. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [outcome](/en/post/outcome/) [of](/en/post/of/) [the](/en/post/the/) [match](/en/post/match/) was decided [in](/en/post/in/) [the](/en/post/the/) [last](/en/post/last/) [minute](/en/post/minute/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [final](/post/final/) [result](/post/result/) [or](/post/or/) [consequence](/post/consequence/) [of](/post/of/) [a](/post/a/) [sequence](/post/sequence/) [of](/post/of/) events, actions, [or](/post/or/) processes; [the](/post/the/) [conclusion](/post/conclusion/) [or](/post/or/) [effect](/post/effect/) [that](/post/that/) follows [from](/post/from/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [the](/post/the/) [experiment](/post/experiment/) was [unexpected](/post/unexpected/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [decision](/post/decision/) reached [by](/post/by/) [a](/post/a/) [court](/post/court/) [or](/post/or/) [judge](/post/judge/); [a](/post/a/) verdict. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [jury](/post/jury/) delivered [its](/post/its/) [final](/post/final/) [outcome](/post/outcome/) [on](/post/on/) [the](/post/the/) [case](/post/case/)."
+- **[Noun](/post/noun/)**: [In](/post/in/) [a](/post/a/) [contest](/post/contest/) [or](/post/or/) [competition](/post/competition/), [the](/post/the/) [result](/post/result/) determining [which](/post/which/) [side](/post/side/) wins [or](/post/or/) loses. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [the](/post/the/) [match](/post/match/) was decided [in](/post/in/) [the](/post/the/) [last](/post/last/) [minute](/post/minute/)."
 
 ## Phrases
-- "[The](/en/post/the/) [likely](/en/post/likely/) [outcome](/en/post/outcome/)": Refers [to](/en/post/to/) [what](/en/post/what/) is expected [to](/en/post/to/) [happen](/en/post/happen/) [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) [something](/en/post/something/).
-- "[In](/en/post/in/) [the](/en/post/the/) [end](/en/post/end/), [the](/en/post/the/) [outcome](/en/post/outcome/) was [positive](/en/post/positive/)": Implies [that](/en/post/that/) [despite](/en/post/despite/) [any](/en/post/any/) difficulties, [the](/en/post/the/) [final](/en/post/final/) [result](/en/post/result/) was favorable.
-- "[To](/en/post/to/) [influence](/en/post/influence/) [the](/en/post/the/) [outcome](/en/post/outcome/)": [Means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) an [effect](/en/post/effect/) [on](/en/post/on/) [the](/en/post/the/) [final](/en/post/final/) [result](/en/post/result/).
+- "[The](/post/the/) [likely](/post/likely/) [outcome](/post/outcome/)": Refers [to](/post/to/) [what](/post/what/) is expected [to](/post/to/) [happen](/post/happen/) [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) [something](/post/something/).
+- "[In](/post/in/) [the](/post/the/) [end](/post/end/), [the](/post/the/) [outcome](/post/outcome/) was [positive](/post/positive/)": Implies [that](/post/that/) [despite](/post/despite/) [any](/post/any/) difficulties, [the](/post/the/) [final](/post/final/) [result](/post/result/) was favorable.
+- "[To](/post/to/) [influence](/post/influence/) [the](/post/the/) [outcome](/post/outcome/)": [Means](/post/means/) [to](/post/to/) [have](/post/have/) an [effect](/post/effect/) [on](/post/on/) [the](/post/the/) [final](/post/final/) [result](/post/result/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([general](/en/post/general/) [result](/en/post/result/))**: "[The](/en/post/the/) [outcome](/en/post/outcome/) [of](/en/post/of/) [the](/en/post/the/) [election](/en/post/election/) surprised [many](/en/post/many/) [political](/en/post/political/) analysts."
-- **[Noun](/en/post/noun/) ([legal](/en/post/legal/) [decision](/en/post/decision/))**: "[The](/en/post/the/) [outcome](/en/post/outcome/) [of](/en/post/of/) [the](/en/post/the/) [trial](/en/post/trial/) [could](/en/post/could/) [set](/en/post/set/) [a](/en/post/a/) precedent [for](/en/post/for/) [similar](/en/post/similar/) cases."
-- **[Noun](/en/post/noun/) ([contest](/en/post/contest/) [result](/en/post/result/))**: "[Their](/en/post/their/) [hard](/en/post/hard/) [work](/en/post/work/) [during](/en/post/during/) [practice](/en/post/practice/) sessions significantly affected [the](/en/post/the/) [outcome](/en/post/outcome/) [of](/en/post/of/) [the](/en/post/the/) [game](/en/post/game/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([general](/post/general/) [result](/post/result/))**: "[The](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [the](/post/the/) [election](/post/election/) surprised [many](/post/many/) [political](/post/political/) analysts."
+- **[Noun](/post/noun/) ([legal](/post/legal/) [decision](/post/decision/))**: "[The](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [the](/post/the/) [trial](/post/trial/) [could](/post/could/) [set](/post/set/) [a](/post/a/) precedent [for](/post/for/) [similar](/post/similar/) cases."
+- **[Noun](/post/noun/) ([contest](/post/contest/) [result](/post/result/))**: "[Their](/post/their/) [hard](/post/hard/) [work](/post/work/) [during](/post/during/) [practice](/post/practice/) sessions significantly affected [the](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [the](/post/the/) [game](/post/game/)."
 
 ## Synonyms
-- [Result](/en/post/result/)
-- [Consequence](/en/post/consequence/)
-- [Effect](/en/post/effect/)
-- [Conclusion](/en/post/conclusion/)
-- [End](/en/post/end/) [product](/en/post/product/)
+- [Result](/post/result/)
+- [Consequence](/post/consequence/)
+- [Effect](/post/effect/)
+- [Conclusion](/post/conclusion/)
+- [End](/post/end/) [product](/post/product/)
 - Verdict
-- [Resolution](/en/post/resolution/)
-- [Decision](/en/post/decision/)
-- [Determination](/en/post/determination/)
-- [Final](/en/post/final/) [score](/en/post/score/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) competitions)
+- [Resolution](/post/resolution/)
+- [Decision](/post/decision/)
+- [Determination](/post/determination/)
+- [Final](/post/final/) [score](/post/score/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) competitions)

@@ -11,21 +11,21 @@ keywords = ['ai words', 'berry']
 /bərɪ/
 
 ## 释义
-- **名词**: 一种小型水果，通常圆形，多汁，可食用，如蓝莓、草莓、覆盆子等。例如: "I [love](/post/love/) [to](/post/to/) [eat](/post/eat/) berries [in](/post/in/) [my](/post/my/) [morning](/post/morning/) yogurt."
-- **形容词**: 指具有浆果特征的。例如: "[The](/post/the/) berry-like flowers [on](/post/on/) [this](/post/this/) [plant](/post/plant/) are [so](/post/so/) [pretty](/post/pretty/)."
+- **名词**: 一种小型水果，通常圆形，多汁，可食用，如蓝莓、草莓、覆盆子等。例如: "I [love](/zh/post/love/) [to](/zh/post/to/) [eat](/zh/post/eat/) berries [in](/zh/post/in/) [my](/zh/post/my/) [morning](/zh/post/morning/) yogurt."
+- **形容词**: 指具有浆果特征的。例如: "[The](/zh/post/the/) berry-like flowers [on](/zh/post/on/) [this](/zh/post/this/) [plant](/zh/post/plant/) are [so](/zh/post/so/) [pretty](/zh/post/pretty/)."
 
 ## 短语
-- "[berry](/post/berry/) bushes" 指浆果丛。
-- "[berry](/post/berry/) [jam](/post/jam/)" 是用浆果制作的果酱。
-- "[berry](/post/berry/) picking" 指采摘浆果的活动。
+- "[berry](/zh/post/berry/) bushes" 指浆果丛。
+- "[berry](/zh/post/berry/) [jam](/zh/post/jam/)" 是用浆果制作的果酱。
+- "[berry](/zh/post/berry/) picking" 指采摘浆果的活动。
 
 ## 例句
-- 名词: "[The](/post/the/) [forest](/post/forest/) is [abundant](/post/abundant/) [with](/post/with/) [wild](/post/wild/) berries [during](/post/during/) [the](/post/the/) [summer](/post/summer/)."
-- 形容词: "[These](/post/these/) [tiny](/post/tiny/), [red](/post/red/) fruits [have](/post/have/) [a](/post/a/) [berry](/post/berry/) flavor [and](/post/and/) are [perfect](/post/perfect/) [for](/post/for/) baking."
+- 名词: "[The](/zh/post/the/) [forest](/zh/post/forest/) is [abundant](/zh/post/abundant/) [with](/zh/post/with/) [wild](/zh/post/wild/) berries [during](/zh/post/during/) [the](/zh/post/the/) [summer](/zh/post/summer/)."
+- 形容词: "[These](/zh/post/these/) [tiny](/zh/post/tiny/), [red](/zh/post/red/) fruits [have](/zh/post/have/) [a](/zh/post/a/) [berry](/zh/post/berry/) flavor [and](/zh/post/and/) are [perfect](/zh/post/perfect/) [for](/zh/post/for/) baking."
 
 ## 同义词
-- [Fruit](/post/fruit/)
-- [Small](/post/small/) [fruit](/post/fruit/)
+- [Fruit](/zh/post/fruit/)
+- [Small](/zh/post/small/) [fruit](/zh/post/fruit/)
 - Drupe
 - Berry-like
-- [Stone](/post/stone/) [fruit](/post/fruit/) ([for](/post/for/) [some](/post/some/) types)
+- [Stone](/zh/post/stone/) [fruit](/zh/post/fruit/) ([for](/zh/post/for/) [some](/zh/post/some/) types)

@@ -7,32 +7,32 @@ description = '[imˈpəuz] vt.把…强加；征(税)'
 keywords = ['ai words', 'impose']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪmˈpəʊz/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: ([impose](/en/post/impose/) [on](/en/post/on/)/[upon](/en/post/upon/)) [To](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [set](/en/post/set/) [something](/en/post/something/) [as](/en/post/as/) [a](/en/post/a/) [requirement](/en/post/requirement/), [rule](/en/post/rule/), [or](/en/post/or/) [condition](/en/post/condition/), [often](/en/post/often/) [with](/en/post/with/) [authority](/en/post/authority/) [or](/en/post/or/) [force](/en/post/force/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) imposed [new](/en/post/new/) taxes [on](/en/post/on/) imported [goods](/en/post/goods/)."
-  - [To](/en/post/to/) [force](/en/post/force/) [something](/en/post/something/) unwelcome [or](/en/post/or/) burdensome [onto](/en/post/onto/) [someone](/en/post/someone/) [else](/en/post/else/). [Example](/en/post/example/): "[She](/en/post/she/) didn't [want](/en/post/want/) [to](/en/post/to/) [impose](/en/post/impose/) [her](/en/post/her/) opinions [on](/en/post/on/) others."
-  - [To](/en/post/to/) [present](/en/post/present/) [oneself](/en/post/oneself/) [as](/en/post/as/) [a](/en/post/a/) [visitor](/en/post/visitor/) [or](/en/post/or/) [guest](/en/post/guest/) [somewhere](/en/post/somewhere/) uninvited [or](/en/post/or/) [without](/en/post/without/) [prior](/en/post/prior/) [notice](/en/post/notice/), [often](/en/post/often/) creating inconvenience. [Example](/en/post/example/): "[They](/en/post/they/) decided [not](/en/post/not/) [to](/en/post/to/) [impose](/en/post/impose/) [on](/en/post/on/) [their](/en/post/their/) friends [during](/en/post/during/) [their](/en/post/their/) [vacation](/en/post/vacation/)."
+- **[Verb](/post/verb/)**: ([impose](/post/impose/) [on](/post/on/)/[upon](/post/upon/)) [To](/post/to/) [establish](/post/establish/) [or](/post/or/) [set](/post/set/) [something](/post/something/) [as](/post/as/) [a](/post/a/) [requirement](/post/requirement/), [rule](/post/rule/), [or](/post/or/) [condition](/post/condition/), [often](/post/often/) [with](/post/with/) [authority](/post/authority/) [or](/post/or/) [force](/post/force/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [government](/post/government/) imposed [new](/post/new/) taxes [on](/post/on/) imported [goods](/post/goods/)."
+  - [To](/post/to/) [force](/post/force/) [something](/post/something/) unwelcome [or](/post/or/) burdensome [onto](/post/onto/) [someone](/post/someone/) [else](/post/else/). [Example](/post/example/): "[She](/post/she/) didn't [want](/post/want/) [to](/post/to/) [impose](/post/impose/) [her](/post/her/) opinions [on](/post/on/) others."
+  - [To](/post/to/) [present](/post/present/) [oneself](/post/oneself/) [as](/post/as/) [a](/post/a/) [visitor](/post/visitor/) [or](/post/or/) [guest](/post/guest/) [somewhere](/post/somewhere/) uninvited [or](/post/or/) [without](/post/without/) [prior](/post/prior/) [notice](/post/notice/), [often](/post/often/) creating inconvenience. [Example](/post/example/): "[They](/post/they/) decided [not](/post/not/) [to](/post/to/) [impose](/post/impose/) [on](/post/on/) [their](/post/their/) friends [during](/post/during/) [their](/post/their/) [vacation](/post/vacation/)."
 
-- **[Noun](/en/post/noun/)**: ([the](/en/post/the/) imposition) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) imposing [something](/en/post/something/), [especially](/en/post/especially/) an unwanted [burden](/en/post/burden/) [or](/en/post/or/) [restriction](/en/post/restriction/). [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) regulations [have](/en/post/have/) been met [with](/en/post/with/) [widespread](/en/post/widespread/) resentment [over](/en/post/over/) [their](/en/post/their/) imposition."
+- **[Noun](/post/noun/)**: ([the](/post/the/) imposition) [The](/post/the/) [act](/post/act/) [of](/post/of/) imposing [something](/post/something/), [especially](/post/especially/) an unwanted [burden](/post/burden/) [or](/post/or/) [restriction](/post/restriction/). [Example](/post/example/): "[The](/post/the/) [new](/post/new/) regulations [have](/post/have/) been met [with](/post/with/) [widespread](/post/widespread/) resentment [over](/post/over/) [their](/post/their/) imposition."
 
 ## Phrases
-- "[To](/en/post/to/) [impose](/en/post/impose/) one's [will](/en/post/will/)": [To](/en/post/to/) [force](/en/post/force/) [or](/en/post/or/) coerce others [to](/en/post/to/) [accept](/en/post/accept/) one's [own](/en/post/own/) wishes [or](/en/post/or/) decisions.
-- "[To](/en/post/to/) [be](/en/post/be/) imposed [upon](/en/post/upon/)": [To](/en/post/to/) [be](/en/post/be/) taken [advantage](/en/post/advantage/) [of](/en/post/of/) [or](/en/post/or/) treated unfairly [by](/en/post/by/) having [something](/en/post/something/) undesired forced [upon](/en/post/upon/) [one](/en/post/one/).
+- "[To](/post/to/) [impose](/post/impose/) one's [will](/post/will/)": [To](/post/to/) [force](/post/force/) [or](/post/or/) coerce others [to](/post/to/) [accept](/post/accept/) one's [own](/post/own/) wishes [or](/post/or/) decisions.
+- "[To](/post/to/) [be](/post/be/) imposed [upon](/post/upon/)": [To](/post/to/) [be](/post/be/) taken [advantage](/post/advantage/) [of](/post/of/) [or](/post/or/) treated unfairly [by](/post/by/) having [something](/post/something/) undesired forced [upon](/post/upon/) [one](/post/one/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [school](/en/post/school/) has imposed [strict](/en/post/strict/) rules [about](/en/post/about/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [mobile](/en/post/mobile/) phones [during](/en/post/during/) [class](/en/post/class/) hours."
-- "Realizing [it](/en/post/it/) was [late](/en/post/late/), [they](/en/post/they/) didn't [want](/en/post/want/) [to](/en/post/to/) [impose](/en/post/impose/) [on](/en/post/on/) [their](/en/post/their/) hosts [by](/en/post/by/) arriving unannounced."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sudden](/en/post/sudden/) imposition [of](/en/post/of/) curfews disrupted [many](/en/post/many/) people's [daily](/en/post/daily/) routines."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [school](/post/school/) has imposed [strict](/post/strict/) rules [about](/post/about/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [mobile](/post/mobile/) phones [during](/post/during/) [class](/post/class/) hours."
+- "Realizing [it](/post/it/) was [late](/post/late/), [they](/post/they/) didn't [want](/post/want/) [to](/post/to/) [impose](/post/impose/) [on](/post/on/) [their](/post/their/) hosts [by](/post/by/) arriving unannounced."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sudden](/post/sudden/) imposition [of](/post/of/) curfews disrupted [many](/post/many/) people's [daily](/post/daily/) routines."
 
 ## Synonyms
-- [Enforce](/en/post/enforce/)
+- [Enforce](/post/enforce/)
 - Impart
 - Inflict
-- [Force](/en/post/force/)
-- [Oblige](/en/post/oblige/)
-- [Dictate](/en/post/dictate/)
+- [Force](/post/force/)
+- [Oblige](/post/oblige/)
+- [Dictate](/post/dictate/)
 - Implant
-- Foist ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) forcing [something](/en/post/something/) unwelcome)
-- Intrude ([when](/en/post/when/) referring [to](/en/post/to/) visiting uninvited)
+- Foist ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) forcing [something](/post/something/) unwelcome)
+- Intrude ([when](/post/when/) referring [to](/post/to/) visiting uninvited)

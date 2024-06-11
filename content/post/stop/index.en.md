@@ -7,39 +7,39 @@ description = '[stɔp] vt.塞住；阻止；停止'
 keywords = ['ai words', 'stop']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stɒp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [pause](/en/post/pause/) [or](/en/post/or/) [interruption](/en/post/interruption/) [in](/en/post/in/) [action](/en/post/action/); [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) ceasing [movement](/en/post/movement/) [or](/en/post/or/) [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [train](/en/post/train/) came [to](/en/post/to/) [a](/en/post/a/) [stop](/en/post/stop/) [at](/en/post/at/) [the](/en/post/the/) [station](/en/post/station/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cease](/en/post/cease/) moving, [come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) [halt](/en/post/halt/), [or](/en/post/or/) [bring](/en/post/bring/) [something](/en/post/something/) [to](/en/post/to/) an [end](/en/post/end/). [For](/en/post/for/) [example](/en/post/example/): "I stopped walking [when](/en/post/when/) I [saw](/en/post/saw/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) [sunset](/en/post/sunset/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [prevent](/en/post/prevent/) [or](/en/post/or/) hinder [the](/en/post/the/) [progress](/en/post/progress/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [heavy](/en/post/heavy/) [rain](/en/post/rain/) stopped [the](/en/post/the/) [construction](/en/post/construction/) [work](/en/post/work/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [request](/en/post/request/) [or](/en/post/or/) [require](/en/post/require/) [someone](/en/post/someone/) [to](/en/post/to/) [stop](/en/post/stop/) doing [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [stop](/en/post/stop/) talking [during](/en/post/during/) [the](/en/post/the/) [movie](/en/post/movie/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [pause](/post/pause/) [or](/post/or/) [interruption](/post/interruption/) [in](/post/in/) [action](/post/action/); [the](/post/the/) [act](/post/act/) [of](/post/of/) ceasing [movement](/post/movement/) [or](/post/or/) [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [train](/post/train/) came [to](/post/to/) [a](/post/a/) [stop](/post/stop/) [at](/post/at/) [the](/post/the/) [station](/post/station/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [cease](/post/cease/) moving, [come](/post/come/) [to](/post/to/) [a](/post/a/) [halt](/post/halt/), [or](/post/or/) [bring](/post/bring/) [something](/post/something/) [to](/post/to/) an [end](/post/end/). [For](/post/for/) [example](/post/example/): "I stopped walking [when](/post/when/) I [saw](/post/saw/) [a](/post/a/) [beautiful](/post/beautiful/) [sunset](/post/sunset/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [prevent](/post/prevent/) [or](/post/or/) hinder [the](/post/the/) [progress](/post/progress/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [heavy](/post/heavy/) [rain](/post/rain/) stopped [the](/post/the/) [construction](/post/construction/) [work](/post/work/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [request](/post/request/) [or](/post/or/) [require](/post/require/) [someone](/post/someone/) [to](/post/to/) [stop](/post/stop/) doing [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [stop](/post/stop/) talking [during](/post/during/) [the](/post/the/) [movie](/post/movie/)."
 
 ## Phrases
-- "[Stop](/en/post/stop/) [and](/en/post/and/) [think](/en/post/think/)" [means](/en/post/means/) [to](/en/post/to/) [pause](/en/post/pause/) [and](/en/post/and/) [consider](/en/post/consider/).
-- "Stopgap [measure](/en/post/measure/)" refers [to](/en/post/to/) [a](/en/post/a/) [temporary](/en/post/temporary/) [solution](/en/post/solution/) [to](/en/post/to/) [a](/en/post/a/) [problem](/en/post/problem/).
-- "[Stop](/en/post/stop/) [motion](/en/post/motion/) animation" is [a](/en/post/a/) filmmaking [technique](/en/post/technique/) [where](/en/post/where/) objects are made [to](/en/post/to/) [appear](/en/post/appear/) [in](/en/post/in/) [motion](/en/post/motion/) [by](/en/post/by/) photographing [them](/en/post/them/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [still](/en/post/still/) frames.
+- "[Stop](/post/stop/) [and](/post/and/) [think](/post/think/)" [means](/post/means/) [to](/post/to/) [pause](/post/pause/) [and](/post/and/) [consider](/post/consider/).
+- "Stopgap [measure](/post/measure/)" refers [to](/post/to/) [a](/post/a/) [temporary](/post/temporary/) [solution](/post/solution/) [to](/post/to/) [a](/post/a/) [problem](/post/problem/).
+- "[Stop](/post/stop/) [motion](/post/motion/) animation" is [a](/post/a/) filmmaking [technique](/post/technique/) [where](/post/where/) objects are made [to](/post/to/) [appear](/post/appear/) [in](/post/in/) [motion](/post/motion/) [by](/post/by/) photographing [them](/post/them/) [in](/post/in/) [a](/post/a/) [series](/post/series/) [of](/post/of/) [still](/post/still/) frames.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [car](/en/post/car/) came [to](/en/post/to/) [a](/en/post/a/) [sudden](/en/post/sudden/) [stop](/en/post/stop/) [after](/en/post/after/) hitting [a](/en/post/a/) [rock](/en/post/rock/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) stopped [her](/en/post/her/) [bike](/en/post/bike/) [at](/en/post/at/) [the](/en/post/the/) [traffic](/en/post/traffic/) [light](/en/post/light/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) stopped [the](/en/post/the/) students [from](/en/post/from/) cheating [on](/en/post/on/) [the](/en/post/the/) [exam](/en/post/exam/)."
-- **[Verb](/en/post/verb/)**: "I asked [him](/en/post/him/) [to](/en/post/to/) [stop](/en/post/stop/) smoking [for](/en/post/for/) [his](/en/post/his/) [health](/en/post/health/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [car](/post/car/) came [to](/post/to/) [a](/post/a/) [sudden](/post/sudden/) [stop](/post/stop/) [after](/post/after/) hitting [a](/post/a/) [rock](/post/rock/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) stopped [her](/post/her/) [bike](/post/bike/) [at](/post/at/) [the](/post/the/) [traffic](/post/traffic/) [light](/post/light/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) stopped [the](/post/the/) students [from](/post/from/) cheating [on](/post/on/) [the](/post/the/) [exam](/post/exam/)."
+- **[Verb](/post/verb/)**: "I asked [him](/post/him/) [to](/post/to/) [stop](/post/stop/) smoking [for](/post/for/) [his](/post/his/) [health](/post/health/)."
 
 ## Synonyms
-- [Halt](/en/post/halt/)
-- [Cease](/en/post/cease/)
-- [Pause](/en/post/pause/)
-- [Interrupt](/en/post/interrupt/)
+- [Halt](/post/halt/)
+- [Cease](/post/cease/)
+- [Pause](/post/pause/)
+- [Interrupt](/post/interrupt/)
 - Quench
-- [Arrest](/en/post/arrest/)
-- [Brake](/en/post/brake/)
-- [Block](/en/post/block/)
+- [Arrest](/post/arrest/)
+- [Brake](/post/brake/)
+- [Block](/post/block/)
 
 ## Antonyms
-- [Continue](/en/post/continue/)
-- [Proceed](/en/post/proceed/)
-- [Go](/en/post/go/) [on](/en/post/on/)
-- [Accelerate](/en/post/accelerate/)
-- [Resume](/en/post/resume/)
+- [Continue](/post/continue/)
+- [Proceed](/post/proceed/)
+- [Go](/post/go/) [on](/post/on/)
+- [Accelerate](/post/accelerate/)
+- [Resume](/post/resume/)

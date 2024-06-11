@@ -7,40 +7,40 @@ description = '[sigˈnifikəns] n.意义，意味；重要性'
 keywords = ['ai words', 'significance']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪgˈnɪfɪkəns/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [The](/en/post/the/) [importance](/en/post/importance/), [meaning](/en/post/meaning/), [or](/en/post/or/) relevance [of](/en/post/of/) [something](/en/post/something/); [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [significant](/en/post/significant/) [or](/en/post/or/) notable.
-- [A](/en/post/a/) [measure](/en/post/measure/) [or](/en/post/or/) [degree](/en/post/degree/) [of](/en/post/of/) [how](/en/post/how/) [important](/en/post/important/) [something](/en/post/something/) is.
-- **[Example](/en/post/example/)**: [The](/en/post/the/) [significance](/en/post/significance/) [of](/en/post/of/) [this](/en/post/this/) [discovery](/en/post/discovery/) cannot [be](/en/post/be/) overstated.
-- **Synonyms**: [importance](/en/post/importance/), [meaning](/en/post/meaning/), [value](/en/post/value/), relevancy, [consequence](/en/post/consequence/)
+### [Noun](/post/noun/)
+- [The](/post/the/) [importance](/post/importance/), [meaning](/post/meaning/), [or](/post/or/) relevance [of](/post/of/) [something](/post/something/); [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [significant](/post/significant/) [or](/post/or/) notable.
+- [A](/post/a/) [measure](/post/measure/) [or](/post/or/) [degree](/post/degree/) [of](/post/of/) [how](/post/how/) [important](/post/important/) [something](/post/something/) is.
+- **[Example](/post/example/)**: [The](/post/the/) [significance](/post/significance/) [of](/post/of/) [this](/post/this/) [discovery](/post/discovery/) cannot [be](/post/be/) overstated.
+- **Synonyms**: [importance](/post/importance/), [meaning](/post/meaning/), [value](/post/value/), relevancy, [consequence](/post/consequence/)
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [attribute](/en/post/attribute/) [importance](/en/post/importance/) [or](/en/post/or/) relevance [to](/en/post/to/) [something](/en/post/something/); [to](/en/post/to/) [consider](/en/post/consider/) [something](/en/post/something/) [as](/en/post/as/) having [significance](/en/post/significance/).
-- [To](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [interpret](/en/post/interpret/) [the](/en/post/the/) [meaning](/en/post/meaning/) [or](/en/post/or/) implications [of](/en/post/of/) [something](/en/post/something/).
-- **[Example](/en/post/example/)**: [The](/en/post/the/) [event](/en/post/event/) holds [great](/en/post/great/) [significance](/en/post/significance/) [in](/en/post/in/) [our](/en/post/our/) [history](/en/post/history/).
-- **Synonyms**: [assign](/en/post/assign/) [significance](/en/post/significance/), [recognize](/en/post/recognize/), [interpret](/en/post/interpret/), [perceive](/en/post/perceive/)
+### [Verb](/post/verb/)
+- [To](/post/to/) [attribute](/post/attribute/) [importance](/post/importance/) [or](/post/or/) relevance [to](/post/to/) [something](/post/something/); [to](/post/to/) [consider](/post/consider/) [something](/post/something/) [as](/post/as/) having [significance](/post/significance/).
+- [To](/post/to/) [understand](/post/understand/) [or](/post/or/) [interpret](/post/interpret/) [the](/post/the/) [meaning](/post/meaning/) [or](/post/or/) implications [of](/post/of/) [something](/post/something/).
+- **[Example](/post/example/)**: [The](/post/the/) [event](/post/event/) holds [great](/post/great/) [significance](/post/significance/) [in](/post/in/) [our](/post/our/) [history](/post/history/).
+- **Synonyms**: [assign](/post/assign/) [significance](/post/significance/), [recognize](/post/recognize/), [interpret](/post/interpret/), [perceive](/post/perceive/)
 
-### [Adjective](/en/post/adjective/)
-- Characterized [by](/en/post/by/) [or](/en/post/or/) expressing [importance](/en/post/importance/) [or](/en/post/or/) [meaning](/en/post/meaning/); having [or](/en/post/or/) showing [significance](/en/post/significance/).
-- **[Example](/en/post/example/)**: [The](/en/post/the/) [study](/en/post/study/) had profound [significance](/en/post/significance/) [for](/en/post/for/) [the](/en/post/the/) [field](/en/post/field/).
-- **Synonyms**: meaningful, [substantial](/en/post/substantial/), [important](/en/post/important/), [relevant](/en/post/relevant/)
+### [Adjective](/post/adjective/)
+- Characterized [by](/post/by/) [or](/post/or/) expressing [importance](/post/importance/) [or](/post/or/) [meaning](/post/meaning/); having [or](/post/or/) showing [significance](/post/significance/).
+- **[Example](/post/example/)**: [The](/post/the/) [study](/post/study/) had profound [significance](/post/significance/) [for](/post/for/) [the](/post/the/) [field](/post/field/).
+- **Synonyms**: meaningful, [substantial](/post/substantial/), [important](/post/important/), [relevant](/post/relevant/)
 
 ## Phrases
-- "[The](/en/post/the/) [significance](/en/post/significance/) [of](/en/post/of/)..." introduces [a](/en/post/a/) [discussion](/en/post/discussion/) [about](/en/post/about/) [the](/en/post/the/) [importance](/en/post/importance/) [or](/en/post/or/) [meaning](/en/post/meaning/) [of](/en/post/of/) [a](/en/post/a/) [topic](/en/post/topic/).
-- "[This](/en/post/this/) [decision](/en/post/decision/) carries [great](/en/post/great/) [significance](/en/post/significance/)."
-- "[To](/en/post/to/) [overlook](/en/post/overlook/) [its](/en/post/its/) [significance](/en/post/significance/) [would](/en/post/would/) [be](/en/post/be/) [a](/en/post/a/) [mistake](/en/post/mistake/)."
+- "[The](/post/the/) [significance](/post/significance/) [of](/post/of/)..." introduces [a](/post/a/) [discussion](/post/discussion/) [about](/post/about/) [the](/post/the/) [importance](/post/importance/) [or](/post/or/) [meaning](/post/meaning/) [of](/post/of/) [a](/post/a/) [topic](/post/topic/).
+- "[This](/post/this/) [decision](/post/decision/) carries [great](/post/great/) [significance](/post/significance/)."
+- "[To](/post/to/) [overlook](/post/overlook/) [its](/post/its/) [significance](/post/significance/) [would](/post/would/) [be](/post/be/) [a](/post/a/) [mistake](/post/mistake/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [significance](/en/post/significance/) [of](/en/post/of/) [his](/en/post/his/) words was lost [on](/en/post/on/) [some](/en/post/some/) [of](/en/post/of/) [the](/en/post/the/) [audience](/en/post/audience/).
-- **[Verb](/en/post/verb/)**: [She](/en/post/she/) pondered [the](/en/post/the/) [significance](/en/post/significance/) [of](/en/post/of/) [her](/en/post/her/) [dream](/en/post/dream/) [before](/en/post/before/) sharing [it](/en/post/it/) [with](/en/post/with/) [her](/en/post/her/) therapist.
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) treaty's [significance](/en/post/significance/) was [widely](/en/post/widely/) acknowledged.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [significance](/post/significance/) [of](/post/of/) [his](/post/his/) words was lost [on](/post/on/) [some](/post/some/) [of](/post/of/) [the](/post/the/) [audience](/post/audience/).
+- **[Verb](/post/verb/)**: [She](/post/she/) pondered [the](/post/the/) [significance](/post/significance/) [of](/post/of/) [her](/post/her/) [dream](/post/dream/) [before](/post/before/) sharing [it](/post/it/) [with](/post/with/) [her](/post/her/) therapist.
+- **[Adjective](/post/adjective/)**: [The](/post/the/) treaty's [significance](/post/significance/) was [widely](/post/widely/) acknowledged.
 
 ## Synonyms
-- [Importance](/en/post/importance/)
-- [Importance](/en/post/importance/)
+- [Importance](/post/importance/)
+- [Importance](/post/importance/)
 - Vitality
-- [Weight](/en/post/weight/)
+- [Weight](/post/weight/)
 - Relevance

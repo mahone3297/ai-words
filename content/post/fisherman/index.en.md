@@ -7,32 +7,32 @@ description = '[ˈfi∫əmən] n.渔民，渔夫，打鱼人'
 keywords = ['ai words', 'fisherman']
 +++
 
-## [Word](/en/post/word/): [Fisherman](/en/post/fisherman/)
+## [Word](/post/word/): [Fisherman](/post/fisherman/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɪʃərmən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) catches [fish](/en/post/fish/) [either](/en/post/either/) professionally [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [hobby](/en/post/hobby/), typically using [a](/en/post/a/) [net](/en/post/net/), [line](/en/post/line/), [rod](/en/post/rod/), [or](/en/post/or/) [other](/en/post/other/) fishing [equipment](/en/post/equipment/). 
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) catches [fish](/post/fish/) [either](/post/either/) professionally [or](/post/or/) [as](/post/as/) [a](/post/a/) [hobby](/post/hobby/), typically using [a](/post/a/) [net](/post/net/), [line](/post/line/), [rod](/post/rod/), [or](/post/or/) [other](/post/other/) fishing [equipment](/post/equipment/). 
 
 ### Examples
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [skilled](/en/post/skilled/) [fisherman](/en/post/fisherman/) [cast](/en/post/cast/) [his](/en/post/his/) [line](/en/post/line/) [into](/en/post/into/) [the](/en/post/the/) [calm](/en/post/calm/) [lake](/en/post/lake/) [early](/en/post/early/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/)."
-- "[He](/en/post/he/) comes [from](/en/post/from/) [a](/en/post/a/) [long](/en/post/long/) [line](/en/post/line/) [of](/en/post/of/) fishermen [in](/en/post/in/) [his](/en/post/his/) [family](/en/post/family/)."
-- "[After](/en/post/after/) retiring [from](/en/post/from/) [his](/en/post/his/) [office](/en/post/office/) [job](/en/post/job/), [he](/en/post/he/) became an avid [fisherman](/en/post/fisherman/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [skilled](/post/skilled/) [fisherman](/post/fisherman/) [cast](/post/cast/) [his](/post/his/) [line](/post/line/) [into](/post/into/) [the](/post/the/) [calm](/post/calm/) [lake](/post/lake/) [early](/post/early/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- "[He](/post/he/) comes [from](/post/from/) [a](/post/a/) [long](/post/long/) [line](/post/line/) [of](/post/of/) fishermen [in](/post/in/) [his](/post/his/) [family](/post/family/)."
+- "[After](/post/after/) retiring [from](/post/from/) [his](/post/his/) [office](/post/office/) [job](/post/job/), [he](/post/he/) became an avid [fisherman](/post/fisherman/)."
 
 ## Phrases
-- "[A](/en/post/a/) fisherman's [tale](/en/post/tale/)": [A](/en/post/a/) [story](/en/post/story/), [often](/en/post/often/) exaggerated, [about](/en/post/about/) catching [fish](/en/post/fish/), [usually](/en/post/usually/) told [by](/en/post/by/) [a](/en/post/a/) [fisherman](/en/post/fisherman/).
-- "[To](/en/post/to/) [go](/en/post/go/) fishing": [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) engaging [in](/en/post/in/) [the](/en/post/the/) [activity](/en/post/activity/) [of](/en/post/of/) fishing, typically done [by](/en/post/by/) [a](/en/post/a/) [fisherman](/en/post/fisherman/).
-- "[Fish](/en/post/fish/) [out](/en/post/out/) [of](/en/post/of/) [water](/en/post/water/)": [This](/en/post/this/) idiomatic [phrase](/en/post/phrase/), [though](/en/post/though/) [not](/en/post/not/) [directly](/en/post/directly/) related [to](/en/post/to/) [the](/en/post/the/) [profession](/en/post/profession/), [can](/en/post/can/) metaphorically [describe](/en/post/describe/) [someone](/en/post/someone/) ([not](/en/post/not/) [necessarily](/en/post/necessarily/) [a](/en/post/a/) [fisherman](/en/post/fisherman/)) [who](/en/post/who/) feels [uncomfortable](/en/post/uncomfortable/) [or](/en/post/or/) [out](/en/post/out/) [of](/en/post/of/) [their](/en/post/their/) [element](/en/post/element/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/).
+- "[A](/post/a/) fisherman's [tale](/post/tale/)": [A](/post/a/) [story](/post/story/), [often](/post/often/) exaggerated, [about](/post/about/) catching [fish](/post/fish/), [usually](/post/usually/) told [by](/post/by/) [a](/post/a/) [fisherman](/post/fisherman/).
+- "[To](/post/to/) [go](/post/go/) fishing": [The](/post/the/) [act](/post/act/) [of](/post/of/) engaging [in](/post/in/) [the](/post/the/) [activity](/post/activity/) [of](/post/of/) fishing, typically done [by](/post/by/) [a](/post/a/) [fisherman](/post/fisherman/).
+- "[Fish](/post/fish/) [out](/post/out/) [of](/post/of/) [water](/post/water/)": [This](/post/this/) idiomatic [phrase](/post/phrase/), [though](/post/though/) [not](/post/not/) [directly](/post/directly/) related [to](/post/to/) [the](/post/the/) [profession](/post/profession/), [can](/post/can/) metaphorically [describe](/post/describe/) [someone](/post/someone/) ([not](/post/not/) [necessarily](/post/necessarily/) [a](/post/a/) [fisherman](/post/fisherman/)) [who](/post/who/) feels [uncomfortable](/post/uncomfortable/) [or](/post/or/) [out](/post/out/) [of](/post/of/) [their](/post/their/) [element](/post/element/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [fisherman](/en/post/fisherman/) shared tales [of](/en/post/of/) [his](/en/post/his/) biggest [catch](/en/post/catch/) [over](/en/post/over/) [a](/en/post/a/) campfire."
-- "[The](/en/post/the/) [local](/en/post/local/) fishermen [rely](/en/post/rely/) [on](/en/post/on/) [the](/en/post/the/) [sea](/en/post/sea/) [for](/en/post/for/) [their](/en/post/their/) livelihood."
-- "[As](/en/post/as/) [a](/en/post/a/) [child](/en/post/child/), [he](/en/post/he/) [would](/en/post/would/) [accompany](/en/post/accompany/) [his](/en/post/his/) [grandfather](/en/post/grandfather/), [a](/en/post/a/) seasoned [fisherman](/en/post/fisherman/), [on](/en/post/on/) [weekend](/en/post/weekend/) fishing trips."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [fisherman](/post/fisherman/) shared tales [of](/post/of/) [his](/post/his/) biggest [catch](/post/catch/) [over](/post/over/) [a](/post/a/) campfire."
+- "[The](/post/the/) [local](/post/local/) fishermen [rely](/post/rely/) [on](/post/on/) [the](/post/the/) [sea](/post/sea/) [for](/post/for/) [their](/post/their/) livelihood."
+- "[As](/post/as/) [a](/post/a/) [child](/post/child/), [he](/post/he/) [would](/post/would/) [accompany](/post/accompany/) [his](/post/his/) [grandfather](/post/grandfather/), [a](/post/a/) seasoned [fisherman](/post/fisherman/), [on](/post/on/) [weekend](/post/weekend/) fishing trips."
 
 ## Synonyms
 - Angler
 - Fisher
 - piscator
-- Fishermen ([plural](/en/post/plural/) [form](/en/post/form/))
-- Hunter-gatherer ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [traditional](/en/post/traditional/) societies [where](/en/post/where/) fishing is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [primary](/en/post/primary/) [means](/en/post/means/) [of](/en/post/of/) subsistence)
+- Fishermen ([plural](/post/plural/) [form](/post/form/))
+- Hunter-gatherer ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [traditional](/post/traditional/) societies [where](/post/where/) fishing is [one](/post/one/) [of](/post/of/) [the](/post/the/) [primary](/post/primary/) [means](/post/means/) [of](/post/of/) subsistence)

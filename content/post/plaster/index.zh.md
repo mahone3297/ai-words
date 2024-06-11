@@ -12,30 +12,30 @@ keywords = ['ai words', 'plaster']
 
 ## 释义
 - **名词**: 
-    1. 布满，涂满：[She](/post/she/) plastered [the](/post/the/) walls [with](/post/with/) posters.
-    2. 石膏：[The](/post/the/) [doctor](/post/doctor/) applied [a](/post/a/) [plaster](/post/plaster/) [to](/post/to/) [her](/post/her/) [broken](/post/broken/) [arm](/post/arm/).
-    3. (英国)创可贴：[He](/post/he/) had [a](/post/a/) [plaster](/post/plaster/) [on](/post/on/) [his](/post/his/) [finger](/post/finger/) [after](/post/after/) cutting [it](/post/it/).
+    1. 布满，涂满：[She](/zh/post/she/) plastered [the](/zh/post/the/) walls [with](/zh/post/with/) posters.
+    2. 石膏：[The](/zh/post/the/) [doctor](/zh/post/doctor/) applied [a](/zh/post/a/) [plaster](/zh/post/plaster/) [to](/zh/post/to/) [her](/zh/post/her/) [broken](/zh/post/broken/) [arm](/zh/post/arm/).
+    3. (英国)创可贴：[He](/zh/post/he/) had [a](/zh/post/a/) [plaster](/zh/post/plaster/) [on](/zh/post/on/) [his](/zh/post/his/) [finger](/zh/post/finger/) [after](/zh/post/after/) cutting [it](/zh/post/it/).
 
 - **动词**:
-    1. 布满，涂满：[The](/post/the/) [rain](/post/rain/) plastered [her](/post/her/) [hair](/post/hair/) [to](/post/to/) [her](/post/her/) [face](/post/face/).
-    2. 重重打击，猛烈轰炸：[The](/post/the/) enemy's artillery plastered [the](/post/the/) [city](/post/city/).
+    1. 布满，涂满：[The](/zh/post/the/) [rain](/zh/post/rain/) plastered [her](/zh/post/her/) [hair](/zh/post/hair/) [to](/zh/post/to/) [her](/zh/post/her/) [face](/zh/post/face/).
+    2. 重重打击，猛烈轰炸：[The](/zh/post/the/) enemy's artillery plastered [the](/zh/post/the/) [city](/zh/post/city/).
 
 ## 短语
-- "[plaster](/post/plaster/) [over](/post/over/)" 意为覆盖，掩饰：[They](/post/they/) tried [to](/post/to/) [plaster](/post/plaster/) [over](/post/over/) [their](/post/their/) differences.
-- "[to](/post/to/) [be](/post/be/) plastered" 在口语中表示喝得很醉：[He](/post/he/) was [so](/post/so/) plastered [that](/post/that/) [he](/post/he/) couldn't [even](/post/even/) [stand](/post/stand/) [up](/post/up/).
+- "[plaster](/zh/post/plaster/) [over](/zh/post/over/)" 意为覆盖，掩饰：[They](/zh/post/they/) tried [to](/zh/post/to/) [plaster](/zh/post/plaster/) [over](/zh/post/over/) [their](/zh/post/their/) differences.
+- "[to](/zh/post/to/) [be](/zh/post/be/) plastered" 在口语中表示喝得很醉：[He](/zh/post/he/) was [so](/zh/post/so/) plastered [that](/zh/post/that/) [he](/zh/post/he/) couldn't [even](/zh/post/even/) [stand](/zh/post/stand/) [up](/zh/post/up/).
 
 ## 例句
-- 名词: "[She](/post/she/) [put](/post/put/) [a](/post/a/) [plaster](/post/plaster/) [on](/post/on/) [the](/post/the/) [wound](/post/wound/) [to](/post/to/) [stop](/post/stop/) [the](/post/the/) bleeding."
-- 动词: "[The](/post/the/) [rain](/post/rain/) plastered [the](/post/the/) leaves [to](/post/to/) [the](/post/the/) [ground](/post/ground/)."
-- "[The](/post/the/) soldiers were plastered [by](/post/by/) [enemy](/post/enemy/) [fire](/post/fire/)."
+- 名词: "[She](/zh/post/she/) [put](/zh/post/put/) [a](/zh/post/a/) [plaster](/zh/post/plaster/) [on](/zh/post/on/) [the](/zh/post/the/) [wound](/zh/post/wound/) [to](/zh/post/to/) [stop](/zh/post/stop/) [the](/zh/post/the/) bleeding."
+- 动词: "[The](/zh/post/the/) [rain](/zh/post/rain/) plastered [the](/zh/post/the/) leaves [to](/zh/post/to/) [the](/zh/post/the/) [ground](/zh/post/ground/)."
+- "[The](/zh/post/the/) soldiers were plastered [by](/zh/post/by/) [enemy](/zh/post/enemy/) [fire](/zh/post/fire/)."
 
 ## 同义词
 - 名词:
     - bandage
     - dressing
-    - adhesive [strip](/post/strip/)
+    - adhesive [strip](/zh/post/strip/)
 
 - 动词:
-    - [cover](/post/cover/) [completely](/post/completely/)
+    - [cover](/zh/post/cover/) [completely](/zh/post/completely/)
     - bombard
-    - drench ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [rain](/post/rain/) [or](/post/or/) [liquid](/post/liquid/))
+    - drench ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [rain](/zh/post/rain/) [or](/zh/post/or/) [liquid](/zh/post/liquid/))

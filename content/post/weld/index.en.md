@@ -7,28 +7,28 @@ description = '[weld] vt.&n.焊接，熔接'
 keywords = ['ai words', 'weld']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɛld/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [process](/en/post/process/) [of](/en/post/of/) joining [or](/en/post/or/) fusing pieces [of](/en/post/of/) [metal](/en/post/metal/) [or](/en/post/or/) [other](/en/post/other/) materials [by](/en/post/by/) [heating](/en/post/heating/) [them](/en/post/them/) [and](/en/post/and/) applying [pressure](/en/post/pressure/), allowing [them](/en/post/them/) [to](/en/post/to/) adhere [together](/en/post/together/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) welding [process](/en/post/process/) creates [strong](/en/post/strong/), [durable](/en/post/durable/) bonds."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [join](/en/post/join/) [or](/en/post/or/) [fasten](/en/post/fasten/) using [the](/en/post/the/) [technique](/en/post/technique/) [of](/en/post/of/) welding. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) workers were welding [metal](/en/post/metal/) pipes [together](/en/post/together/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) involving welding. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) welding [expert](/en/post/expert/) inspected [the](/en/post/the/) [steel](/en/post/steel/) [structure](/en/post/structure/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [process](/post/process/) [of](/post/of/) joining [or](/post/or/) fusing pieces [of](/post/of/) [metal](/post/metal/) [or](/post/or/) [other](/post/other/) materials [by](/post/by/) [heating](/post/heating/) [them](/post/them/) [and](/post/and/) applying [pressure](/post/pressure/), allowing [them](/post/them/) [to](/post/to/) adhere [together](/post/together/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) welding [process](/post/process/) creates [strong](/post/strong/), [durable](/post/durable/) bonds."
+- **[Verb](/post/verb/)**: [To](/post/to/) [join](/post/join/) [or](/post/or/) [fasten](/post/fasten/) using [the](/post/the/) [technique](/post/technique/) [of](/post/of/) welding. [For](/post/for/) [example](/post/example/): "[The](/post/the/) workers were welding [metal](/post/metal/) pipes [together](/post/together/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) involving welding. [For](/post/for/) [example](/post/example/): "[The](/post/the/) welding [expert](/post/expert/) inspected [the](/post/the/) [steel](/post/steel/) [structure](/post/structure/)."
 
 ## Phrases
-- "Welding [joint](/en/post/joint/)" refers [to](/en/post/to/) [the](/en/post/the/) [point](/en/post/point/) [where](/en/post/where/) [two](/en/post/two/) materials [have](/en/post/have/) been joined [by](/en/post/by/) welding.
-- "Tungsten inert [gas](/en/post/gas/) welding" (TIG) is [a](/en/post/a/) [specific](/en/post/specific/) welding [method](/en/post/method/).
-- "[Resistance](/en/post/resistance/) welding" is [another](/en/post/another/) [type](/en/post/type/) [of](/en/post/of/) welding [technique](/en/post/technique/).
+- "Welding [joint](/post/joint/)" refers [to](/post/to/) [the](/post/the/) [point](/post/point/) [where](/post/where/) [two](/post/two/) materials [have](/post/have/) been joined [by](/post/by/) welding.
+- "Tungsten inert [gas](/post/gas/) welding" (TIG) is [a](/post/a/) [specific](/post/specific/) welding [method](/post/method/).
+- "[Resistance](/post/resistance/) welding" is [another](/post/another/) [type](/post/type/) [of](/post/of/) welding [technique](/post/technique/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [weld](/en/post/weld/) [on](/en/post/on/) [the](/en/post/the/) car's bumper was [strong](/en/post/strong/) [and](/en/post/and/) well-done."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) experienced welder skillfully created [a](/en/post/a/) seamless [joint](/en/post/joint/) [in](/en/post/in/) [the](/en/post/the/) [metal](/en/post/metal/) [sheet](/en/post/sheet/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) building's [frame](/en/post/frame/) was made entirely [from](/en/post/from/) welded [steel](/en/post/steel/) beams."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [weld](/post/weld/) [on](/post/on/) [the](/post/the/) car's bumper was [strong](/post/strong/) [and](/post/and/) well-done."
+- **[Verb](/post/verb/)**: "[The](/post/the/) experienced welder skillfully created [a](/post/a/) seamless [joint](/post/joint/) [in](/post/in/) [the](/post/the/) [metal](/post/metal/) [sheet](/post/sheet/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) building's [frame](/post/frame/) was made entirely [from](/post/from/) welded [steel](/post/steel/) beams."
 
 ## Synonyms
 - Joining
 - Fusing
 - Bonding
-- Soldering ([for](/en/post/for/) metals)
-- Clamping ([in](/en/post/in/) [some](/en/post/some/) contexts)
-- Metalwork [connection](/en/post/connection/)
+- Soldering ([for](/post/for/) metals)
+- Clamping ([in](/post/in/) [some](/post/some/) contexts)
+- Metalwork [connection](/post/connection/)

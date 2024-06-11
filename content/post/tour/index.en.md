@@ -7,38 +7,38 @@ description = '[tuə] n.&vi.旅行，游历'
 keywords = ['ai words', 'tour']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɔːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[tour](/en/post/tour/)** is [a](/en/post/a/) [journey](/en/post/journey/) [or](/en/post/or/) [visit](/en/post/visit/) taken [to](/en/post/to/) [inspect](/en/post/inspect/), [admire](/en/post/admire/), [or](/en/post/or/) [experience](/en/post/experience/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/), [series](/en/post/series/) [of](/en/post/of/) places, [or](/en/post/or/) attractions, [often](/en/post/often/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) guided [group](/en/post/group/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [circuit](/en/post/circuit/) [of](/en/post/of/) visits [or](/en/post/or/) events, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [concert](/en/post/concert/) [tour](/en/post/tour/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[tour](/post/tour/)** is [a](/post/a/) [journey](/post/journey/) [or](/post/or/) [visit](/post/visit/) taken [to](/post/to/) [inspect](/post/inspect/), [admire](/post/admire/), [or](/post/or/) [experience](/post/experience/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/), [series](/post/series/) [of](/post/of/) places, [or](/post/or/) attractions, [often](/post/often/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) guided [group](/post/group/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [circuit](/post/circuit/) [of](/post/of/) visits [or](/post/or/) events, [such](/post/such/) [as](/post/as/) [a](/post/a/) [concert](/post/concert/) [tour](/post/tour/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[tour](/en/post/tour/)** [means](/en/post/means/) [to](/en/post/to/) [travel](/en/post/travel/) [around](/en/post/around/) [a](/en/post/a/) [specific](/en/post/specific/) [area](/en/post/area/), [usually](/en/post/usually/) [on](/en/post/on/) [a](/en/post/a/) guided [trip](/en/post/trip/), [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) [sightseeing](/en/post/sightseeing/) [or](/en/post/or/) performing. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [inspect](/en/post/inspect/) [or](/en/post/or/) [review](/en/post/review/) [something](/en/post/something/) sequentially.
+### [Verb](/post/verb/)
+[To](/post/to/) **[tour](/post/tour/)** [means](/post/means/) [to](/post/to/) [travel](/post/travel/) [around](/post/around/) [a](/post/a/) [specific](/post/specific/) [area](/post/area/), [usually](/post/usually/) [on](/post/on/) [a](/post/a/) guided [trip](/post/trip/), [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) [sightseeing](/post/sightseeing/) [or](/post/or/) performing. [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) [inspect](/post/inspect/) [or](/post/or/) [review](/post/review/) [something](/post/something/) sequentially.
 
-### [Preposition](/en/post/preposition/)
-[In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) sports [or](/en/post/or/) entertainment, "[on](/en/post/on/) [tour](/en/post/tour/)" refers [to](/en/post/to/) [being](/en/post/being/) [away](/en/post/away/) [from](/en/post/from/) [home](/en/post/home/) [and](/en/post/and/) performing [or](/en/post/or/) traveling [for](/en/post/for/) competitions [or](/en/post/or/) shows.
+### [Preposition](/post/preposition/)
+[In](/post/in/) [the](/post/the/) context [of](/post/of/) sports [or](/post/or/) entertainment, "[on](/post/on/) [tour](/post/tour/)" refers [to](/post/to/) [being](/post/being/) [away](/post/away/) [from](/post/from/) [home](/post/home/) [and](/post/and/) performing [or](/post/or/) traveling [for](/post/for/) competitions [or](/post/or/) shows.
 
 ## Phrases
-- "[Go](/en/post/go/) [on](/en/post/on/) [a](/en/post/a/) [tour](/en/post/tour/)" - [To](/en/post/to/) embark [on](/en/post/on/) [a](/en/post/a/) planned [trip](/en/post/trip/) [to](/en/post/to/) [explore](/en/post/explore/) [a](/en/post/a/) [place](/en/post/place/).
-- "[City](/en/post/city/) [tour](/en/post/tour/)" - [A](/en/post/a/) guided [visit](/en/post/visit/) [of](/en/post/of/) [a](/en/post/a/) city's landmarks [and](/en/post/and/) attractions.
-- "[Concert](/en/post/concert/) [tour](/en/post/tour/)" - [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) performances [by](/en/post/by/) [a](/en/post/a/) [musical](/en/post/musical/) [artist](/en/post/artist/) [across](/en/post/across/) [different](/en/post/different/) locations.
-- "[Museum](/en/post/museum/) [tour](/en/post/tour/)" - [A](/en/post/a/) guided [visit](/en/post/visit/) [through](/en/post/through/) an [art](/en/post/art/) [or](/en/post/or/) [historical](/en/post/historical/) [museum](/en/post/museum/).
+- "[Go](/post/go/) [on](/post/on/) [a](/post/a/) [tour](/post/tour/)" - [To](/post/to/) embark [on](/post/on/) [a](/post/a/) planned [trip](/post/trip/) [to](/post/to/) [explore](/post/explore/) [a](/post/a/) [place](/post/place/).
+- "[City](/post/city/) [tour](/post/tour/)" - [A](/post/a/) guided [visit](/post/visit/) [of](/post/of/) [a](/post/a/) city's landmarks [and](/post/and/) attractions.
+- "[Concert](/post/concert/) [tour](/post/tour/)" - [A](/post/a/) [series](/post/series/) [of](/post/of/) performances [by](/post/by/) [a](/post/a/) [musical](/post/musical/) [artist](/post/artist/) [across](/post/across/) [different](/post/different/) locations.
+- "[Museum](/post/museum/) [tour](/post/tour/)" - [A](/post/a/) guided [visit](/post/visit/) [through](/post/through/) an [art](/post/art/) [or](/post/or/) [historical](/post/historical/) [museum](/post/museum/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) tourists were taking [a](/en/post/a/) guided [tour](/en/post/tour/) [of](/en/post/of/) [the](/en/post/the/) [ancient](/en/post/ancient/) ruins."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [band](/en/post/band/) is embarking [on](/en/post/on/) [a](/en/post/a/) [world](/en/post/world/) [tour](/en/post/tour/) [next](/en/post/next/) [month](/en/post/month/)."
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) artists are [on](/en/post/on/) [a](/en/post/a/) promotional [tour](/en/post/tour/) [to](/en/post/to/) [promote](/en/post/promote/) [their](/en/post/their/) [new](/en/post/new/) album."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) tourists were taking [a](/post/a/) guided [tour](/post/tour/) [of](/post/of/) [the](/post/the/) [ancient](/post/ancient/) ruins."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [band](/post/band/) is embarking [on](/post/on/) [a](/post/a/) [world](/post/world/) [tour](/post/tour/) [next](/post/next/) [month](/post/month/)."
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) artists are [on](/post/on/) [a](/post/a/) promotional [tour](/post/tour/) [to](/post/to/) [promote](/post/promote/) [their](/post/their/) [new](/post/new/) album."
 
 ## Synonyms
-- [Sightseeing](/en/post/sightseeing/)
+- [Sightseeing](/post/sightseeing/)
 - Travelogue
-- [Excursion](/en/post/excursion/)
-- [Inspection](/en/post/inspection/) [tour](/en/post/tour/)
+- [Excursion](/post/excursion/)
+- [Inspection](/post/inspection/) [tour](/post/tour/)
 - Touristy
 
 ## Antonyms
-- [Stay](/en/post/stay/) ([in](/en/post/in/) [one](/en/post/one/) [place](/en/post/place/))
-- [Retire](/en/post/retire/)
-- Hunker [down](/en/post/down/)
+- [Stay](/post/stay/) ([in](/post/in/) [one](/post/one/) [place](/post/place/))
+- [Retire](/post/retire/)
+- Hunker [down](/post/down/)

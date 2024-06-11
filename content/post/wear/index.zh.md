@@ -11,22 +11,22 @@ keywords = ['ai words', 'wear']
 /wer/
 
 ## 释义
-- **动词**: 穿着，佩戴。例如: "[She](/post/she/) wears [a](/post/a/) [red](/post/red/) [dress](/post/dress/) [to](/post/to/) [the](/post/the/) [party](/post/party/)."
-- **名词**: 穿着，服装，损耗。例如: "[The](/post/the/) [wear](/post/wear/) [on](/post/on/) [his](/post/his/) shoes showed [he](/post/he/) had walked [a](/post/a/) [long](/post/long/) [way](/post/way/)."
+- **动词**: 穿着，佩戴。例如: "[She](/zh/post/she/) wears [a](/zh/post/a/) [red](/zh/post/red/) [dress](/zh/post/dress/) [to](/zh/post/to/) [the](/zh/post/the/) [party](/zh/post/party/)."
+- **名词**: 穿着，服装，损耗。例如: "[The](/zh/post/the/) [wear](/zh/post/wear/) [on](/zh/post/on/) [his](/zh/post/his/) shoes showed [he](/zh/post/he/) had walked [a](/zh/post/a/) [long](/zh/post/long/) [way](/zh/post/way/)."
 
 ## 短语
-- "[wear](/post/wear/) [something](/post/something/) [well](/post/well/)" 表示某人穿某件衣服好看。
-- "[wear](/post/wear/) [out](/post/out/)" 意味着磨损或疲惫。
-- "[wear](/post/wear/) [something](/post/something/) proudly" 表示自豪地穿戴某物。
+- "[wear](/zh/post/wear/) [something](/zh/post/something/) [well](/zh/post/well/)" 表示某人穿某件衣服好看。
+- "[wear](/zh/post/wear/) [out](/zh/post/out/)" 意味着磨损或疲惫。
+- "[wear](/zh/post/wear/) [something](/zh/post/something/) proudly" 表示自豪地穿戴某物。
 
 ## 例句
-- 动词: "[He](/post/he/) [always](/post/always/) wears [a](/post/a/) [hat](/post/hat/) [when](/post/when/) [he](/post/he/) goes [outside](/post/outside/)."
-- 名词: "[The](/post/the/) [new](/post/new/) [collection](/post/collection/) features [modern](/post/modern/) [and](/post/and/) [comfortable](/post/comfortable/) [wear](/post/wear/)."
-- "[Her](/post/her/) [smile](/post/smile/) [never](/post/never/) wears [out](/post/out/), [even](/post/even/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/)."
+- 动词: "[He](/zh/post/he/) [always](/zh/post/always/) wears [a](/zh/post/a/) [hat](/zh/post/hat/) [when](/zh/post/when/) [he](/zh/post/he/) goes [outside](/zh/post/outside/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [collection](/zh/post/collection/) features [modern](/zh/post/modern/) [and](/zh/post/and/) [comfortable](/zh/post/comfortable/) [wear](/zh/post/wear/)."
+- "[Her](/zh/post/her/) [smile](/zh/post/smile/) [never](/zh/post/never/) wears [out](/zh/post/out/), [even](/zh/post/even/) [after](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [day](/zh/post/day/)."
 
 ## 同义词
 - don
-- [put](/post/put/) [on](/post/on/)
+- [put](/zh/post/put/) [on](/zh/post/on/)
 - attire
-- [clothe](/post/clothe/)
-- [dress](/post/dress/)
+- [clothe](/zh/post/clothe/)
+- [dress](/zh/post/dress/)

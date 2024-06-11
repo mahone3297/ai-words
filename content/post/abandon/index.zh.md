@@ -12,24 +12,24 @@ keywords = ['ai words', 'abandon']
 
 ## 释义
 - **动词**:
-1. 放弃；抛弃。例如: "[They](/post/they/) abandoned [their](/post/their/) plans [to](/post/to/) [travel](/post/travel/) [abroad](/post/abroad/) [due](/post/due/) [to](/post/to/) [the](/post/the/) pandemic."
-2. 遗弃；离弃。例如: "[The](/post/the/) ship's [crew](/post/crew/) was forced [to](/post/to/) [abandon](/post/abandon/) [the](/post/the/) sinking [vessel](/post/vessel/)."
-3. 放任；听任。例如: "[He](/post/he/) abandoned [himself](/post/himself/) [to](/post/to/) grief [after](/post/after/) [his](/post/his/) wife's [death](/post/death/)."
+1. 放弃；抛弃。例如: "[They](/zh/post/they/) abandoned [their](/zh/post/their/) plans [to](/zh/post/to/) [travel](/zh/post/travel/) [abroad](/zh/post/abroad/) [due](/zh/post/due/) [to](/zh/post/to/) [the](/zh/post/the/) pandemic."
+2. 遗弃；离弃。例如: "[The](/zh/post/the/) ship's [crew](/zh/post/crew/) was forced [to](/zh/post/to/) [abandon](/zh/post/abandon/) [the](/zh/post/the/) sinking [vessel](/zh/post/vessel/)."
+3. 放任；听任。例如: "[He](/zh/post/he/) abandoned [himself](/zh/post/himself/) [to](/zh/post/to/) grief [after](/zh/post/after/) [his](/zh/post/his/) wife's [death](/zh/post/death/)."
 
 - **名词**:
-被遗弃的状态或行为。例如: "[The](/post/the/) deserted [house](/post/house/) had an [air](/post/air/) [of](/post/of/) [neglect](/post/neglect/) [and](/post/and/) [abandon](/post/abandon/)."
+被遗弃的状态或行为。例如: "[The](/zh/post/the/) deserted [house](/zh/post/house/) had an [air](/zh/post/air/) [of](/zh/post/of/) [neglect](/zh/post/neglect/) [and](/zh/post/and/) [abandon](/zh/post/abandon/)."
 
 ## 短语
-- "[Abandon](/post/abandon/) [hope](/post/hope/), [all](/post/all/) ye [who](/post/who/) [enter](/post/enter/) [here](/post/here/)" 是地狱之门上的一句警示语，意为“放弃希望，凡进入者”。
-- "[Abandon](/post/abandon/) [ship](/post/ship/)" 是紧急情况下指示弃船的命令。
+- "[Abandon](/zh/post/abandon/) [hope](/zh/post/hope/), [all](/zh/post/all/) ye [who](/zh/post/who/) [enter](/zh/post/enter/) [here](/zh/post/here/)" 是地狱之门上的一句警示语，意为“放弃希望，凡进入者”。
+- "[Abandon](/zh/post/abandon/) [ship](/zh/post/ship/)" 是紧急情况下指示弃船的命令。
 
 ## 例句
-- 动词: "[Despite](/post/despite/) [his](/post/his/) [initial](/post/initial/) reluctance, [he](/post/he/) [eventually](/post/eventually/) abandoned [his](/post/his/) [old](/post/old/) [career](/post/career/) [to](/post/to/) [pursue](/post/pursue/) [art](/post/art/) full-time."
-- 名词: "[The](/post/the/) [orphan](/post/orphan/) felt [the](/post/the/) [full](/post/full/) [weight](/post/weight/) [of](/post/of/) [abandon](/post/abandon/) [when](/post/when/) [his](/post/his/) parents [left](/post/left/) [him](/post/him/) [at](/post/at/) [the](/post/the/) [shelter](/post/shelter/)."
+- 动词: "[Despite](/zh/post/despite/) [his](/zh/post/his/) [initial](/zh/post/initial/) reluctance, [he](/zh/post/he/) [eventually](/zh/post/eventually/) abandoned [his](/zh/post/his/) [old](/zh/post/old/) [career](/zh/post/career/) [to](/zh/post/to/) [pursue](/zh/post/pursue/) [art](/zh/post/art/) full-time."
+- 名词: "[The](/zh/post/the/) [orphan](/zh/post/orphan/) felt [the](/zh/post/the/) [full](/zh/post/full/) [weight](/zh/post/weight/) [of](/zh/post/of/) [abandon](/zh/post/abandon/) [when](/zh/post/when/) [his](/zh/post/his/) parents [left](/zh/post/left/) [him](/zh/post/him/) [at](/zh/post/at/) [the](/zh/post/the/) [shelter](/zh/post/shelter/)."
 
 ## 同义词
-- [Desert](/post/desert/)
+- [Desert](/zh/post/desert/)
 - Forsake
-- [Leave](/post/leave/) [behind](/post/behind/)
+- [Leave](/zh/post/leave/) [behind](/zh/post/behind/)
 - Renounce
-- [Quit](/post/quit/)
+- [Quit](/zh/post/quit/)

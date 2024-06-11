@@ -7,31 +7,31 @@ description = '[əˈsistənt] n.助手，助理；助教'
 keywords = ['ai words', 'assistant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈsɪstənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) helps [or](/en/post/or/) supports [another](/en/post/another/) [person](/en/post/person/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [professional](/en/post/professional/) [or](/en/post/or/) administrative [capacity](/en/post/capacity/).
-- An [assistant](/en/post/assistant/) is [someone](/en/post/someone/) [who](/en/post/who/) works alongside [a](/en/post/a/) [principal](/en/post/principal/) [or](/en/post/or/) manager, performing tasks [and](/en/post/and/) assisting [with](/en/post/with/) decision-making.
-- [In](/en/post/in/) [a](/en/post/a/) [personal](/en/post/personal/) context, [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) child's helper [or](/en/post/or/) [a](/en/post/a/) spouse [who](/en/post/who/) assists [with](/en/post/with/) [household](/en/post/household/) chores.
+### [Noun](/post/noun/)
+- [A](/post/a/) [person](/post/person/) [who](/post/who/) helps [or](/post/or/) supports [another](/post/another/) [person](/post/person/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [professional](/post/professional/) [or](/post/or/) administrative [capacity](/post/capacity/).
+- An [assistant](/post/assistant/) is [someone](/post/someone/) [who](/post/who/) works alongside [a](/post/a/) [principal](/post/principal/) [or](/post/or/) manager, performing tasks [and](/post/and/) assisting [with](/post/with/) decision-making.
+- [In](/post/in/) [a](/post/a/) [personal](/post/personal/) context, [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) child's helper [or](/post/or/) [a](/post/a/) spouse [who](/post/who/) assists [with](/post/with/) [household](/post/household/) chores.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [provide](/en/post/provide/) [help](/en/post/help/) [or](/en/post/or/) [support](/en/post/support/) [to](/en/post/to/) [someone](/en/post/someone/), [often](/en/post/often/) [in](/en/post/in/) [their](/en/post/their/) [work](/en/post/work/) [or](/en/post/or/) [daily](/en/post/daily/) activities.
-- [To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) an [assistant](/en/post/assistant/) [to](/en/post/to/) [someone](/en/post/someone/) [else](/en/post/else/), [particularly](/en/post/particularly/) [in](/en/post/in/) [a](/en/post/a/) [professional](/en/post/professional/) [setting](/en/post/setting/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [provide](/post/provide/) [help](/post/help/) [or](/post/or/) [support](/post/support/) [to](/post/to/) [someone](/post/someone/), [often](/post/often/) [in](/post/in/) [their](/post/their/) [work](/post/work/) [or](/post/or/) [daily](/post/daily/) activities.
+- [To](/post/to/) [act](/post/act/) [as](/post/as/) an [assistant](/post/assistant/) [to](/post/to/) [someone](/post/someone/) [else](/post/else/), [particularly](/post/particularly/) [in](/post/in/) [a](/post/a/) [professional](/post/professional/) [setting](/post/setting/).
 
-### [Adjective](/en/post/adjective/)
-- Describing [someone](/en/post/someone/) [who](/en/post/who/) is [helpful](/en/post/helpful/) [or](/en/post/or/) supportive, [or](/en/post/or/) [a](/en/post/a/) [role](/en/post/role/) [that](/en/post/that/) involves assistance.
+### [Adjective](/post/adjective/)
+- Describing [someone](/post/someone/) [who](/post/who/) is [helpful](/post/helpful/) [or](/post/or/) supportive, [or](/post/or/) [a](/post/a/) [role](/post/role/) [that](/post/that/) involves assistance.
 
 ## Phrases
-- "[Act](/en/post/act/) [as](/en/post/as/) an [assistant](/en/post/assistant/) [to](/en/post/to/) [the](/en/post/the/) manager"
-- "[The](/en/post/the/) [main](/en/post/main/) [office](/en/post/office/) [assistant](/en/post/assistant/) schedules appointments."
-- "[She](/en/post/she/) is [my](/en/post/my/) [personal](/en/post/personal/) [assistant](/en/post/assistant/), handling [all](/en/post/all/) [my](/en/post/my/) correspondence."
+- "[Act](/post/act/) [as](/post/as/) an [assistant](/post/assistant/) [to](/post/to/) [the](/post/the/) manager"
+- "[The](/post/the/) [main](/post/main/) [office](/post/office/) [assistant](/post/assistant/) schedules appointments."
+- "[She](/post/she/) is [my](/post/my/) [personal](/post/personal/) [assistant](/post/assistant/), handling [all](/post/all/) [my](/post/my/) correspondence."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[My](/en/post/my/) [assistant](/en/post/assistant/) organized [my](/en/post/my/) [schedule](/en/post/schedule/) [for](/en/post/for/) [the](/en/post/the/) [week](/en/post/week/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [assistant](/en/post/assistant/) helped [the](/en/post/the/) [professor](/en/post/professor/) [grade](/en/post/grade/) [the](/en/post/the/) exams."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [efficient](/en/post/efficient/) [assistant](/en/post/assistant/) streamlined [the](/en/post/the/) workflow."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[My](/post/my/) [assistant](/post/assistant/) organized [my](/post/my/) [schedule](/post/schedule/) [for](/post/for/) [the](/post/the/) [week](/post/week/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [assistant](/post/assistant/) helped [the](/post/the/) [professor](/post/professor/) [grade](/post/grade/) [the](/post/the/) exams."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [efficient](/post/efficient/) [assistant](/post/assistant/) streamlined [the](/post/the/) workflow."
 
 ## Synonyms
 - Assistantship
@@ -41,6 +41,6 @@ keywords = ['ai words', 'assistant']
 - Collaborator
 - Backup
 - Aide
-- [Partner](/en/post/partner/) [in](/en/post/in/) [work](/en/post/work/)
+- [Partner](/post/partner/) [in](/post/in/) [work](/post/work/)
 - Delegate
 - Understudy

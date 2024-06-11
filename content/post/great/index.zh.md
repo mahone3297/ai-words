@@ -11,21 +11,21 @@ keywords = ['ai words', 'great']
 /greɪt/
 
 ## 释义
-- **形容词**: 极好的，伟大的，重要的。例如: "[He](/post/he/) is [a](/post/a/) [great](/post/great/) [actor](/post/actor/)."
-- **副词**: 非常，极其。例如: "I'm [feeling](/post/feeling/) [great](/post/great/) [today](/post/today/)."
+- **形容词**: 极好的，伟大的，重要的。例如: "[He](/zh/post/he/) is [a](/zh/post/a/) [great](/zh/post/great/) [actor](/zh/post/actor/)."
+- **副词**: 非常，极其。例如: "I'm [feeling](/zh/post/feeling/) [great](/zh/post/great/) [today](/zh/post/today/)."
 
 ## 短语
-- "[Great](/post/great/) [job](/post/job/)" 意为做得好。
-- "[The](/post/the/) [great](/post/great/) [outdoors](/post/outdoors/)" 指户外大自然。
-- "[In](/post/in/) [great](/post/great/) [demand](/post/demand/)" 表示需求量很大。
+- "[Great](/zh/post/great/) [job](/zh/post/job/)" 意为做得好。
+- "[The](/zh/post/the/) [great](/zh/post/great/) [outdoors](/zh/post/outdoors/)" 指户外大自然。
+- "[In](/zh/post/in/) [great](/zh/post/great/) [demand](/zh/post/demand/)" 表示需求量很大。
 
 ## 例句
-- 形容词: "[She](/post/she/) has [a](/post/a/) [great](/post/great/) [talent](/post/talent/) [for](/post/for/) [painting](/post/painting/)."
-- 副词: "[He](/post/he/) played [the](/post/the/) [piano](/post/piano/) [great](/post/great/) [during](/post/during/) [the](/post/the/) [concert](/post/concert/)."
+- 形容词: "[She](/zh/post/she/) has [a](/zh/post/a/) [great](/zh/post/great/) [talent](/zh/post/talent/) [for](/zh/post/for/) [painting](/zh/post/painting/)."
+- 副词: "[He](/zh/post/he/) played [the](/zh/post/the/) [piano](/zh/post/piano/) [great](/zh/post/great/) [during](/zh/post/during/) [the](/zh/post/the/) [concert](/zh/post/concert/)."
 
 ## 同义词
-- [Excellent](/post/excellent/)
+- [Excellent](/zh/post/excellent/)
 - Fantastic
 - Superb
-- [Magnificent](/post/magnificent/)
-- [Outstanding](/post/outstanding/)
+- [Magnificent](/zh/post/magnificent/)
+- [Outstanding](/zh/post/outstanding/)

@@ -7,35 +7,35 @@ description = '[reidʒ] n.(一阵)狂怒，盛怒'
 keywords = ['ai words', 'rage']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈeɪdʒ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Rage](/en/post/rage/)**: An [intense](/en/post/intense/) [feeling](/en/post/feeling/) [of](/en/post/of/) [anger](/en/post/anger/), [often](/en/post/often/) accompanied [by](/en/post/by/) [strong](/en/post/strong/) emotions [or](/en/post/or/) [violent](/en/post/violent/) outbursts. [Example](/en/post/example/): "[He](/en/post/he/) was filled [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) uncontrollable [rage](/en/post/rage/)."
-2. **Fury**: [Intense](/en/post/intense/) [anger](/en/post/anger/) [or](/en/post/or/) wrath. [Example](/en/post/example/): "[The](/en/post/the/) [crowd](/en/post/crowd/) erupted [in](/en/post/in/) [a](/en/post/a/) fury [at](/en/post/at/) [the](/en/post/the/) [unfair](/en/post/unfair/) [decision](/en/post/decision/)."
-3. **[Passion](/en/post/passion/)**: [Intense](/en/post/intense/) [enthusiasm](/en/post/enthusiasm/) [or](/en/post/or/) [emotion](/en/post/emotion/). ([In](/en/post/in/) [this](/en/post/this/) context, [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) passionate [interest](/en/post/interest/) [or](/en/post/or/) [anger](/en/post/anger/).) [Example](/en/post/example/): "[Her](/en/post/her/) [passion](/en/post/passion/) [for](/en/post/for/) [social](/en/post/social/) [justice](/en/post/justice/) fueled [her](/en/post/her/) [fight](/en/post/fight/) [against](/en/post/against/) injustice."
+### [Noun](/post/noun/)
+1. **[Rage](/post/rage/)**: An [intense](/post/intense/) [feeling](/post/feeling/) [of](/post/of/) [anger](/post/anger/), [often](/post/often/) accompanied [by](/post/by/) [strong](/post/strong/) emotions [or](/post/or/) [violent](/post/violent/) outbursts. [Example](/post/example/): "[He](/post/he/) was filled [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) uncontrollable [rage](/post/rage/)."
+2. **Fury**: [Intense](/post/intense/) [anger](/post/anger/) [or](/post/or/) wrath. [Example](/post/example/): "[The](/post/the/) [crowd](/post/crowd/) erupted [in](/post/in/) [a](/post/a/) fury [at](/post/at/) [the](/post/the/) [unfair](/post/unfair/) [decision](/post/decision/)."
+3. **[Passion](/post/passion/)**: [Intense](/post/intense/) [enthusiasm](/post/enthusiasm/) [or](/post/or/) [emotion](/post/emotion/). ([In](/post/in/) [this](/post/this/) context, [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) passionate [interest](/post/interest/) [or](/post/or/) [anger](/post/anger/).) [Example](/post/example/): "[Her](/post/her/) [passion](/post/passion/) [for](/post/for/) [social](/post/social/) [justice](/post/justice/) fueled [her](/post/her/) [fight](/post/fight/) [against](/post/against/) injustice."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [show](/en/post/show/) [intense](/en/post/intense/) [anger](/en/post/anger/) [or](/en/post/or/) fury. [Example](/en/post/example/): "[She](/en/post/she/) raged [at](/en/post/at/) [the](/en/post/the/) injustice [she](/en/post/she/) had witnessed."
-2. [To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [intense](/en/post/intense/) [anger](/en/post/anger/) [or](/en/post/or/) agitation. [Example](/en/post/example/): "[The](/en/post/the/) [storm](/en/post/storm/) raged [on](/en/post/on/) [through](/en/post/through/) [the](/en/post/the/) [night](/en/post/night/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [show](/post/show/) [intense](/post/intense/) [anger](/post/anger/) [or](/post/or/) fury. [Example](/post/example/): "[She](/post/she/) raged [at](/post/at/) [the](/post/the/) injustice [she](/post/she/) had witnessed."
+2. [To](/post/to/) [be](/post/be/) [in](/post/in/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [intense](/post/intense/) [anger](/post/anger/) [or](/post/or/) agitation. [Example](/post/example/): "[The](/post/the/) [storm](/post/storm/) raged [on](/post/on/) [through](/post/through/) [the](/post/the/) [night](/post/night/)."
 
-### [Adjective](/en/post/adjective/)
-1. Characterized [by](/en/post/by/) [great](/en/post/great/) [anger](/en/post/anger/) [or](/en/post/or/) [violence](/en/post/violence/). [Example](/en/post/example/): "[A](/en/post/a/) rage-filled [argument](/en/post/argument/) erupted [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) parties."
-2. [Extreme](/en/post/extreme/) [or](/en/post/or/) [violent](/en/post/violent/). [Example](/en/post/example/): "[The](/en/post/the/) [rage](/en/post/rage/) [of](/en/post/of/) [the](/en/post/the/) [sea](/en/post/sea/) was terrifying."
+### [Adjective](/post/adjective/)
+1. Characterized [by](/post/by/) [great](/post/great/) [anger](/post/anger/) [or](/post/or/) [violence](/post/violence/). [Example](/post/example/): "[A](/post/a/) rage-filled [argument](/post/argument/) erupted [between](/post/between/) [the](/post/the/) [two](/post/two/) parties."
+2. [Extreme](/post/extreme/) [or](/post/or/) [violent](/post/violent/). [Example](/post/example/): "[The](/post/the/) [rage](/post/rage/) [of](/post/of/) [the](/post/the/) [sea](/post/sea/) was terrifying."
 
 ## Phrases
-- "[Lose](/en/post/lose/) one's [rage](/en/post/rage/)" [means](/en/post/means/) [to](/en/post/to/) [calm](/en/post/calm/) [down](/en/post/down/) [or](/en/post/or/) regain [control](/en/post/control/) [after](/en/post/after/) [being](/en/post/being/) [angry](/en/post/angry/).
-- "[In](/en/post/in/) [a](/en/post/a/) [fit](/en/post/fit/) [of](/en/post/of/) [rage](/en/post/rage/)" describes an impulsive outburst [of](/en/post/of/) [anger](/en/post/anger/).
-- "Letting [off](/en/post/off/) [steam](/en/post/steam/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) expressing [anger](/en/post/anger/) [or](/en/post/or/) frustration.
+- "[Lose](/post/lose/) one's [rage](/post/rage/)" [means](/post/means/) [to](/post/to/) [calm](/post/calm/) [down](/post/down/) [or](/post/or/) regain [control](/post/control/) [after](/post/after/) [being](/post/being/) [angry](/post/angry/).
+- "[In](/post/in/) [a](/post/a/) [fit](/post/fit/) [of](/post/of/) [rage](/post/rage/)" describes an impulsive outburst [of](/post/of/) [anger](/post/anger/).
+- "Letting [off](/post/off/) [steam](/post/steam/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) expressing [anger](/post/anger/) [or](/post/or/) frustration.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [storm](/en/post/storm/) raged [outside](/en/post/outside/), causing [widespread](/en/post/widespread/) [damage](/en/post/damage/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) weeks [of](/en/post/of/) [stress](/en/post/stress/), [he](/en/post/he/) [finally](/en/post/finally/) [let](/en/post/let/) [his](/en/post/his/) [rage](/en/post/rage/) subside."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [face](/en/post/face/) was flushed [with](/en/post/with/) [rage](/en/post/rage/) [as](/en/post/as/) [he](/en/post/he/) confronted [his](/en/post/his/) [opponent](/en/post/opponent/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [storm](/post/storm/) raged [outside](/post/outside/), causing [widespread](/post/widespread/) [damage](/post/damage/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) weeks [of](/post/of/) [stress](/post/stress/), [he](/post/he/) [finally](/post/finally/) [let](/post/let/) [his](/post/his/) [rage](/post/rage/) subside."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [face](/post/face/) was flushed [with](/post/with/) [rage](/post/rage/) [as](/post/as/) [he](/post/he/) confronted [his](/post/his/) [opponent](/post/opponent/)."
 
 ## Synonyms
-- [Anger](/en/post/anger/)
+- [Anger](/post/anger/)
 - Fury
 - Wrath
 - Indignation

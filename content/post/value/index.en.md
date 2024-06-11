@@ -7,40 +7,40 @@ description = '[ˈvæljuː] n.价值；价格 vt.评价'
 keywords = ['ai words', 'value']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈvæljuː/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [worth](/en/post/worth/), [importance](/en/post/importance/), [or](/en/post/or/) [significance](/en/post/significance/)**: [The](/en/post/the/) [value](/en/post/value/) [of](/en/post/of/) [a](/en/post/a/) [painting](/en/post/painting/) depends [on](/en/post/on/) [its](/en/post/its/) [historical](/en/post/historical/) context. [Example](/en/post/example/): "[The](/en/post/the/) [rare](/en/post/rare/) [coin](/en/post/coin/) has [a](/en/post/a/) [high](/en/post/high/) monetary [value](/en/post/value/)."
-2. **[The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) characteristics [that](/en/post/that/) [make](/en/post/make/) [something](/en/post/something/) [desirable](/en/post/desirable/) [or](/en/post/or/) [useful](/en/post/useful/)**: [The](/en/post/the/) [value](/en/post/value/) [of](/en/post/of/) [a](/en/post/a/) [skill](/en/post/skill/) lies [in](/en/post/in/) [its](/en/post/its/) [practical](/en/post/practical/) applications. [Example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) holds [great](/en/post/great/) [intellectual](/en/post/intellectual/) [value](/en/post/value/)."
-3. **An estimated [worth](/en/post/worth/) [or](/en/post/or/) [price](/en/post/price/)**: [The](/en/post/the/) house's [value](/en/post/value/) increased [after](/en/post/after/) [a](/en/post/a/) renovation. [Example](/en/post/example/): "[The](/en/post/the/) antique [vase](/en/post/vase/) was assessed [at](/en/post/at/) $10,000."
-4. **Morals [or](/en/post/or/) principles**: [The](/en/post/the/) [value](/en/post/value/) [system](/en/post/system/) [of](/en/post/of/) [a](/en/post/a/) [society](/en/post/society/). [Example](/en/post/example/): "[Our](/en/post/our/) [family](/en/post/family/) places [great](/en/post/great/) [value](/en/post/value/) [on](/en/post/on/) [honesty](/en/post/honesty/) [and](/en/post/and/) integrity."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [measure](/post/measure/) [of](/post/of/) [worth](/post/worth/), [importance](/post/importance/), [or](/post/or/) [significance](/post/significance/)**: [The](/post/the/) [value](/post/value/) [of](/post/of/) [a](/post/a/) [painting](/post/painting/) depends [on](/post/on/) [its](/post/its/) [historical](/post/historical/) context. [Example](/post/example/): "[The](/post/the/) [rare](/post/rare/) [coin](/post/coin/) has [a](/post/a/) [high](/post/high/) monetary [value](/post/value/)."
+2. **[The](/post/the/) [quality](/post/quality/) [or](/post/or/) characteristics [that](/post/that/) [make](/post/make/) [something](/post/something/) [desirable](/post/desirable/) [or](/post/or/) [useful](/post/useful/)**: [The](/post/the/) [value](/post/value/) [of](/post/of/) [a](/post/a/) [skill](/post/skill/) lies [in](/post/in/) [its](/post/its/) [practical](/post/practical/) applications. [Example](/post/example/): "[The](/post/the/) [book](/post/book/) holds [great](/post/great/) [intellectual](/post/intellectual/) [value](/post/value/)."
+3. **An estimated [worth](/post/worth/) [or](/post/or/) [price](/post/price/)**: [The](/post/the/) house's [value](/post/value/) increased [after](/post/after/) [a](/post/a/) renovation. [Example](/post/example/): "[The](/post/the/) antique [vase](/post/vase/) was assessed [at](/post/at/) $10,000."
+4. **Morals [or](/post/or/) principles**: [The](/post/the/) [value](/post/value/) [system](/post/system/) [of](/post/of/) [a](/post/a/) [society](/post/society/). [Example](/post/example/): "[Our](/post/our/) [family](/post/family/) places [great](/post/great/) [value](/post/value/) [on](/post/on/) [honesty](/post/honesty/) [and](/post/and/) integrity."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [assign](/en/post/assign/) [a](/en/post/a/) [price](/en/post/price/) [or](/en/post/or/) [worth](/en/post/worth/) [to](/en/post/to/)**: [The](/en/post/the/) [company](/en/post/company/) values [its](/en/post/its/) employees [highly](/en/post/highly/). [Example](/en/post/example/): "[The](/en/post/the/) startup valued [their](/en/post/their/) acquisition [at](/en/post/at/) $5 [million](/en/post/million/)."
-2. **[To](/en/post/to/) [consider](/en/post/consider/) [or](/en/post/or/) [regard](/en/post/regard/) [as](/en/post/as/) [important](/en/post/important/)**: [The](/en/post/the/) [course](/en/post/course/) provides [valuable](/en/post/valuable/) insights. [Example](/en/post/example/): "[She](/en/post/she/) values [her](/en/post/her/) [time](/en/post/time/) spent volunteering."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [assign](/post/assign/) [a](/post/a/) [price](/post/price/) [or](/post/or/) [worth](/post/worth/) [to](/post/to/)**: [The](/post/the/) [company](/post/company/) values [its](/post/its/) employees [highly](/post/highly/). [Example](/post/example/): "[The](/post/the/) startup valued [their](/post/their/) acquisition [at](/post/at/) $5 [million](/post/million/)."
+2. **[To](/post/to/) [consider](/post/consider/) [or](/post/or/) [regard](/post/regard/) [as](/post/as/) [important](/post/important/)**: [The](/post/the/) [course](/post/course/) provides [valuable](/post/valuable/) insights. [Example](/post/example/): "[She](/post/she/) values [her](/post/her/) [time](/post/time/) spent volunteering."
 
-### [Adjective](/en/post/adjective/)
-1. [Valuable](/en/post/valuable/) [or](/en/post/or/) [important](/en/post/important/): [A](/en/post/a/) [valuable](/en/post/valuable/) [lesson](/en/post/lesson/) [learned](/en/post/learned/). [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [map](/en/post/map/) holds sentimental [value](/en/post/value/)."
+### [Adjective](/post/adjective/)
+1. [Valuable](/post/valuable/) [or](/post/or/) [important](/post/important/): [A](/post/a/) [valuable](/post/valuable/) [lesson](/post/lesson/) [learned](/post/learned/). [Example](/post/example/): "[The](/post/the/) [old](/post/old/) [map](/post/map/) holds sentimental [value](/post/value/)."
 
 ## Phrases
-- "[Place](/en/post/place/) [value](/en/post/value/)" refers [to](/en/post/to/) [the](/en/post/the/) [position](/en/post/position/) [of](/en/post/of/) [a](/en/post/a/) digit [in](/en/post/in/) [a](/en/post/a/) [number](/en/post/number/) indicating [its](/en/post/its/) [value](/en/post/value/).
-- "[Of](/en/post/of/) [great](/en/post/great/) [value](/en/post/value/)" [means](/en/post/means/) [highly](/en/post/highly/) [significant](/en/post/significant/) [or](/en/post/or/) [important](/en/post/important/).
-- "[Estimate](/en/post/estimate/) [the](/en/post/the/) [value](/en/post/value/)" [means](/en/post/means/) [to](/en/post/to/) [determine](/en/post/determine/) [the](/en/post/the/) [worth](/en/post/worth/) [or](/en/post/or/) [price](/en/post/price/) [of](/en/post/of/) [something](/en/post/something/).
+- "[Place](/post/place/) [value](/post/value/)" refers [to](/post/to/) [the](/post/the/) [position](/post/position/) [of](/post/of/) [a](/post/a/) digit [in](/post/in/) [a](/post/a/) [number](/post/number/) indicating [its](/post/its/) [value](/post/value/).
+- "[Of](/post/of/) [great](/post/great/) [value](/post/value/)" [means](/post/means/) [highly](/post/highly/) [significant](/post/significant/) [or](/post/or/) [important](/post/important/).
+- "[Estimate](/post/estimate/) [the](/post/the/) [value](/post/value/)" [means](/post/means/) [to](/post/to/) [determine](/post/determine/) [the](/post/the/) [worth](/post/worth/) [or](/post/or/) [price](/post/price/) [of](/post/of/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [painting](/en/post/painting/) was sold [for](/en/post/for/) [a](/en/post/a/) [surprisingly](/en/post/surprisingly/) [low](/en/post/low/) [value](/en/post/value/) considering [its](/en/post/its/) [historical](/en/post/historical/) [significance](/en/post/significance/).
-- **[Verb](/en/post/verb/)**: [The](/en/post/the/) investor decided [to](/en/post/to/) [value](/en/post/value/) [the](/en/post/the/) startup based [on](/en/post/on/) [its](/en/post/its/) [potential](/en/post/potential/) revenue [growth](/en/post/growth/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) antique [clock](/en/post/clock/) held sentimental [value](/en/post/value/) [for](/en/post/for/) [the](/en/post/the/) [family](/en/post/family/), passed [down](/en/post/down/) [through](/en/post/through/) generations.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [painting](/post/painting/) was sold [for](/post/for/) [a](/post/a/) [surprisingly](/post/surprisingly/) [low](/post/low/) [value](/post/value/) considering [its](/post/its/) [historical](/post/historical/) [significance](/post/significance/).
+- **[Verb](/post/verb/)**: [The](/post/the/) investor decided [to](/post/to/) [value](/post/value/) [the](/post/the/) startup based [on](/post/on/) [its](/post/its/) [potential](/post/potential/) revenue [growth](/post/growth/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) antique [clock](/post/clock/) held sentimental [value](/post/value/) [for](/post/for/) [the](/post/the/) [family](/post/family/), passed [down](/post/down/) [through](/post/through/) generations.
 
 ## Synonyms
-- [Worth](/en/post/worth/)
-- [Importance](/en/post/importance/)
+- [Worth](/post/worth/)
+- [Importance](/post/importance/)
 - Relevance
-- [Significance](/en/post/significance/)
+- [Significance](/post/significance/)
 - Regards
 - Esteem
 - Valuation
-- [Price](/en/post/price/)
-- [Merit](/en/post/merit/)
+- [Price](/post/price/)
+- [Merit](/post/merit/)

@@ -11,21 +11,21 @@ keywords = ['ai words', 'driver']
 /drɪˈvɜːr/
 
 ## 释义
-- **名词 (n)**: 1. 驾驶员，司机。例如: "[The](/post/the/) [bus](/post/bus/) [driver](/post/driver/) arrived [early](/post/early/) [this](/post/this/) [morning](/post/morning/)."
-   2. (计算机)驱动程序。例如: "[You](/post/you/) [need](/post/need/) [to](/post/to/) [install](/post/install/) [the](/post/the/) printer [driver](/post/driver/) [for](/post/for/) [it](/post/it/) [to](/post/to/) [work](/post/work/) [properly](/post/properly/)."
+- **名词 (n)**: 1. 驾驶员，司机。例如: "[The](/zh/post/the/) [bus](/zh/post/bus/) [driver](/zh/post/driver/) arrived [early](/zh/post/early/) [this](/zh/post/this/) [morning](/zh/post/morning/)."
+   2. (计算机)驱动程序。例如: "[You](/zh/post/you/) [need](/zh/post/need/) [to](/zh/post/to/) [install](/zh/post/install/) [the](/zh/post/the/) printer [driver](/zh/post/driver/) [for](/zh/post/for/) [it](/zh/post/it/) [to](/zh/post/to/) [work](/zh/post/work/) [properly](/zh/post/properly/)."
 
-- **动词 (v)**: 驾驶，操纵（车辆、机器等）。例如: "He's driving [the](/post/the/) [car](/post/car/) [along](/post/along/) [the](/post/the/) winding [road](/post/road/)."
+- **动词 (v)**: 驾驶，操纵（车辆、机器等）。例如: "He's driving [the](/zh/post/the/) [car](/zh/post/car/) [along](/zh/post/along/) [the](/zh/post/the/) winding [road](/zh/post/road/)."
 
 ## 短语
-- "Driver's [license](/post/license/)" 意为驾驶执照。
-- "Software [driver](/post/driver/)" 指的是计算机硬件的驱动软件。
+- "Driver's [license](/zh/post/license/)" 意为驾驶执照。
+- "Software [driver](/zh/post/driver/)" 指的是计算机硬件的驱动软件。
 
 ## 例句
-- 名词: "[The](/post/the/) experienced [driver](/post/driver/) navigated [through](/post/through/) [the](/post/the/) [busy](/post/busy/) [city](/post/city/) streets [with](/post/with/) [ease](/post/ease/)."
-- 动词: "[She](/post/she/) started [learning](/post/learning/) [how](/post/how/) [to](/post/to/) [drive](/post/drive/) [last](/post/last/) [summer](/post/summer/)."
+- 名词: "[The](/zh/post/the/) experienced [driver](/zh/post/driver/) navigated [through](/zh/post/through/) [the](/zh/post/the/) [busy](/zh/post/busy/) [city](/zh/post/city/) streets [with](/zh/post/with/) [ease](/zh/post/ease/)."
+- 动词: "[She](/zh/post/she/) started [learning](/zh/post/learning/) [how](/zh/post/how/) [to](/zh/post/to/) [drive](/zh/post/drive/) [last](/zh/post/last/) [summer](/zh/post/summer/)."
 
 ## 同义词
-- [Operator](/post/operator/)
+- [Operator](/zh/post/operator/)
 - Chauffeur
-- [Pilot](/post/pilot/) ([for](/post/for/) [aircraft](/post/aircraft/))
-- [Captain](/post/captain/) ([for](/post/for/) ships)
+- [Pilot](/zh/post/pilot/) ([for](/zh/post/for/) [aircraft](/zh/post/aircraft/))
+- [Captain](/zh/post/captain/) ([for](/zh/post/for/) ships)

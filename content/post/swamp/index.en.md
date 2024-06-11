@@ -7,35 +7,35 @@ description = '[swɔmp] n.沼泽，沼泽地'
 keywords = ['ai words', 'swamp']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /swɑːmp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[swamp](/en/post/swamp/)** is [a](/en/post/a/) wetland characterized [by](/en/post/by/) saturated [soil](/en/post/soil/), slow-moving [or](/en/post/or/) standing [water](/en/post/water/), [and](/en/post/and/) [dense](/en/post/dense/) vegetation. [It](/en/post/it/) [often](/en/post/often/) occurs [in](/en/post/in/) low-lying areas [with](/en/post/with/) [poor](/en/post/poor/) drainage [or](/en/post/or/) [high](/en/post/high/) [water](/en/post/water/) tables.
+### [Noun](/post/noun/)
+[A](/post/a/) **[swamp](/post/swamp/)** is [a](/post/a/) wetland characterized [by](/post/by/) saturated [soil](/post/soil/), slow-moving [or](/post/or/) standing [water](/post/water/), [and](/post/and/) [dense](/post/dense/) vegetation. [It](/post/it/) [often](/post/often/) occurs [in](/post/in/) low-lying areas [with](/post/with/) [poor](/post/poor/) drainage [or](/post/or/) [high](/post/high/) [water](/post/water/) tables.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[swamp](/en/post/swamp/)** [can](/en/post/can/) [mean](/en/post/mean/):
-1. [To](/en/post/to/) overwhelm [or](/en/post/or/) [bury](/en/post/bury/) [with](/en/post/with/) [excessive](/en/post/excessive/) [work](/en/post/work/) [or](/en/post/or/) tasks: "[The](/en/post/the/) [project](/en/post/project/) swamped [her](/en/post/her/) [with](/en/post/with/) responsibilities."
-2. [To](/en/post/to/) [submerge](/en/post/submerge/) [or](/en/post/or/) [flood](/en/post/flood/): "[The](/en/post/the/) [heavy](/en/post/heavy/) [rain](/en/post/rain/) swamped [the](/en/post/the/) streets."
-3. (Informal) [To](/en/post/to/) dominate [or](/en/post/or/) overpower [someone](/en/post/someone/): "[His](/en/post/his/) ideas swamped [the](/en/post/the/) [discussion](/en/post/discussion/)."
+### [Verb](/post/verb/)
+[To](/post/to/) **[swamp](/post/swamp/)** [can](/post/can/) [mean](/post/mean/):
+1. [To](/post/to/) overwhelm [or](/post/or/) [bury](/post/bury/) [with](/post/with/) [excessive](/post/excessive/) [work](/post/work/) [or](/post/or/) tasks: "[The](/post/the/) [project](/post/project/) swamped [her](/post/her/) [with](/post/with/) responsibilities."
+2. [To](/post/to/) [submerge](/post/submerge/) [or](/post/or/) [flood](/post/flood/): "[The](/post/the/) [heavy](/post/heavy/) [rain](/post/rain/) swamped [the](/post/the/) streets."
+3. (Informal) [To](/post/to/) dominate [or](/post/or/) overpower [someone](/post/someone/): "[His](/post/his/) ideas swamped [the](/post/the/) [discussion](/post/discussion/)."
 
-### [Adjective](/en/post/adjective/)
-1. Swampy: Having [a](/en/post/a/) swamp-like [condition](/en/post/condition/); boggy: "[The](/en/post/the/) [ground](/en/post/ground/) was swampy [after](/en/post/after/) [the](/en/post/the/) [rain](/en/post/rain/)."
-2. Impoverished [or](/en/post/or/) impoverished: "[The](/en/post/the/) [region](/en/post/region/) was economically swamped [by](/en/post/by/) [poverty](/en/post/poverty/)."
+### [Adjective](/post/adjective/)
+1. Swampy: Having [a](/post/a/) swamp-like [condition](/post/condition/); boggy: "[The](/post/the/) [ground](/post/ground/) was swampy [after](/post/after/) [the](/post/the/) [rain](/post/rain/)."
+2. Impoverished [or](/post/or/) impoverished: "[The](/post/the/) [region](/post/region/) was economically swamped [by](/post/by/) [poverty](/post/poverty/)."
 
-### [Adverb](/en/post/adverb/)
-[Not](/en/post/not/) [applicable](/en/post/applicable/) [for](/en/post/for/) "[swamp](/en/post/swamp/)" [as](/en/post/as/) an [adverb](/en/post/adverb/).
+### [Adverb](/post/adverb/)
+[Not](/post/not/) [applicable](/post/applicable/) [for](/post/for/) "[swamp](/post/swamp/)" [as](/post/as/) an [adverb](/post/adverb/).
 
 ## Phrases
-- "[Be](/en/post/be/) [careful](/en/post/careful/) [not](/en/post/not/) [to](/en/post/to/) [step](/en/post/step/) [in](/en/post/in/) [the](/en/post/the/) [swamp](/en/post/swamp/)."
-- "[The](/en/post/the/) [area](/en/post/area/) was [once](/en/post/once/) [a](/en/post/a/) [vast](/en/post/vast/) [swamp](/en/post/swamp/) [but](/en/post/but/) has [since](/en/post/since/) been drained."
-- "[The](/en/post/the/) [team](/en/post/team/) worked tirelessly [to](/en/post/to/) [drain](/en/post/drain/) [the](/en/post/the/) [swamp](/en/post/swamp/) habitat."
+- "[Be](/post/be/) [careful](/post/careful/) [not](/post/not/) [to](/post/to/) [step](/post/step/) [in](/post/in/) [the](/post/the/) [swamp](/post/swamp/)."
+- "[The](/post/the/) [area](/post/area/) was [once](/post/once/) [a](/post/a/) [vast](/post/vast/) [swamp](/post/swamp/) [but](/post/but/) has [since](/post/since/) been drained."
+- "[The](/post/the/) [team](/post/team/) worked tirelessly [to](/post/to/) [drain](/post/drain/) [the](/post/the/) [swamp](/post/swamp/) habitat."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) explorer navigated [through](/en/post/through/) [the](/en/post/the/) [dense](/en/post/dense/) [swamp](/en/post/swamp/), searching [for](/en/post/for/) hidden artifacts."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [construction](/en/post/construction/) workers had [to](/en/post/to/) [drain](/en/post/drain/) [the](/en/post/the/) [swamp](/en/post/swamp/) [before](/en/post/before/) [they](/en/post/they/) [could](/en/post/could/) [start](/en/post/start/) [building](/en/post/building/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) sat [on](/en/post/on/) [a](/en/post/a/) [high](/en/post/high/) [spot](/en/post/spot/), spared [from](/en/post/from/) [the](/en/post/the/) [annual](/en/post/annual/) flooding [of](/en/post/of/) [the](/en/post/the/) [nearby](/en/post/nearby/) [swamp](/en/post/swamp/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) explorer navigated [through](/post/through/) [the](/post/the/) [dense](/post/dense/) [swamp](/post/swamp/), searching [for](/post/for/) hidden artifacts."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [construction](/post/construction/) workers had [to](/post/to/) [drain](/post/drain/) [the](/post/the/) [swamp](/post/swamp/) [before](/post/before/) [they](/post/they/) [could](/post/could/) [start](/post/start/) [building](/post/building/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) sat [on](/post/on/) [a](/post/a/) [high](/post/high/) [spot](/post/spot/), spared [from](/post/from/) [the](/post/the/) [annual](/post/annual/) flooding [of](/post/of/) [the](/post/the/) [nearby](/post/nearby/) [swamp](/post/swamp/)."
 
 ## Synonyms
 - Marsh
@@ -45,4 +45,4 @@ keywords = ['ai words', 'swamp']
 - Fen
 - Boggy
 - Waterlogged
-- Swampy [ground](/en/post/ground/)
+- Swampy [ground](/post/ground/)

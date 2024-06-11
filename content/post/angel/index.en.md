@@ -7,35 +7,35 @@ description = '[ˈeindʒəl] n.天使，神差，安琪儿'
 keywords = ['ai words', 'angel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈængəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [A](/en/post/a/) supernatural [being](/en/post/being/), [often](/en/post/often/) depicted [as](/en/post/as/) having wings, [usually](/en/post/usually/) sent [by](/en/post/by/) God [to](/en/post/to/) [assist](/en/post/assist/) [or](/en/post/or/) [protect](/en/post/protect/) humans: *An [angel](/en/post/angel/) appeared [to](/en/post/to/) Mary [in](/en/post/in/) [a](/en/post/a/) [dream](/en/post/dream/).*
-- **2.** [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [very](/en/post/very/) [kind](/en/post/kind/), [helpful](/en/post/helpful/), [or](/en/post/or/) morally [good](/en/post/good/): *[She](/en/post/she/) was an [angel](/en/post/angel/) [in](/en/post/in/) [disguise](/en/post/disguise/), [always](/en/post/always/) offering [a](/en/post/a/) helping [hand](/en/post/hand/).*
-- **3.** (informal) [A](/en/post/a/) [messenger](/en/post/messenger/) [or](/en/post/or/) envoy: *[The](/en/post/the/) [angel](/en/post/angel/) delivered [the](/en/post/the/) [important](/en/post/important/) [message](/en/post/message/) [from](/en/post/from/) [the](/en/post/the/) [boss](/en/post/boss/).*
+### [Noun](/post/noun/)
+- **1.** [A](/post/a/) supernatural [being](/post/being/), [often](/post/often/) depicted [as](/post/as/) having wings, [usually](/post/usually/) sent [by](/post/by/) God [to](/post/to/) [assist](/post/assist/) [or](/post/or/) [protect](/post/protect/) humans: *An [angel](/post/angel/) appeared [to](/post/to/) Mary [in](/post/in/) [a](/post/a/) [dream](/post/dream/).*
+- **2.** [A](/post/a/) [person](/post/person/) [who](/post/who/) is [very](/post/very/) [kind](/post/kind/), [helpful](/post/helpful/), [or](/post/or/) morally [good](/post/good/): *[She](/post/she/) was an [angel](/post/angel/) [in](/post/in/) [disguise](/post/disguise/), [always](/post/always/) offering [a](/post/a/) helping [hand](/post/hand/).*
+- **3.** (informal) [A](/post/a/) [messenger](/post/messenger/) [or](/post/or/) envoy: *[The](/post/the/) [angel](/post/angel/) delivered [the](/post/the/) [important](/post/important/) [message](/post/message/) [from](/post/from/) [the](/post/the/) [boss](/post/boss/).*
 
-### [Verb](/en/post/verb/)
-- **1.** [To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) an [angel](/en/post/angel/), [especially](/en/post/especially/) [by](/en/post/by/) providing [help](/en/post/help/) [or](/en/post/or/) [comfort](/en/post/comfort/): *[The](/en/post/the/) volunteers spent [their](/en/post/their/) weekends angeling [at](/en/post/at/) [the](/en/post/the/) [local](/en/post/local/) [shelter](/en/post/shelter/).*
-- **2.** (figurative) [To](/en/post/to/) [bring](/en/post/bring/) [good](/en/post/good/) [news](/en/post/news/) [or](/en/post/or/) assistance: *[Her](/en/post/her/) [unexpected](/en/post/unexpected/) [visit](/en/post/visit/) felt [like](/en/post/like/) an angelic intervention [in](/en/post/in/) [our](/en/post/our/) lives.*
+### [Verb](/post/verb/)
+- **1.** [To](/post/to/) [act](/post/act/) [as](/post/as/) an [angel](/post/angel/), [especially](/post/especially/) [by](/post/by/) providing [help](/post/help/) [or](/post/or/) [comfort](/post/comfort/): *[The](/post/the/) volunteers spent [their](/post/their/) weekends angeling [at](/post/at/) [the](/post/the/) [local](/post/local/) [shelter](/post/shelter/).*
+- **2.** (figurative) [To](/post/to/) [bring](/post/bring/) [good](/post/good/) [news](/post/news/) [or](/post/or/) assistance: *[Her](/post/her/) [unexpected](/post/unexpected/) [visit](/post/visit/) felt [like](/post/like/) an angelic intervention [in](/post/in/) [our](/post/our/) lives.*
 
 ## Phrases
-- "[Send](/en/post/send/) an [angel](/en/post/angel/) [your](/en/post/your/) [way](/en/post/way/)" - expressing [hope](/en/post/hope/) [for](/en/post/for/) [comfort](/en/post/comfort/) [or](/en/post/or/) [support](/en/post/support/).
-- "Guardian [angel](/en/post/angel/)" - [a](/en/post/a/) [protective](/en/post/protective/) deity [or](/en/post/or/) [spirit](/en/post/spirit/) believed [to](/en/post/to/) [watch](/en/post/watch/) [over](/en/post/over/) individuals.
-- "[Angel](/en/post/angel/) [of](/en/post/of/) [mercy](/en/post/mercy/)" - [a](/en/post/a/) [person](/en/post/person/) known [for](/en/post/for/) [their](/en/post/their/) [kindness](/en/post/kindness/) [and](/en/post/and/) compassion.
+- "[Send](/post/send/) an [angel](/post/angel/) [your](/post/your/) [way](/post/way/)" - expressing [hope](/post/hope/) [for](/post/for/) [comfort](/post/comfort/) [or](/post/or/) [support](/post/support/).
+- "Guardian [angel](/post/angel/)" - [a](/post/a/) [protective](/post/protective/) deity [or](/post/or/) [spirit](/post/spirit/) believed [to](/post/to/) [watch](/post/watch/) [over](/post/over/) individuals.
+- "[Angel](/post/angel/) [of](/post/of/) [mercy](/post/mercy/)" - [a](/post/a/) [person](/post/person/) known [for](/post/for/) [their](/post/their/) [kindness](/post/kindness/) [and](/post/and/) compassion.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [nurse](/en/post/nurse/) was an [angel](/en/post/angel/) [to](/en/post/to/) [the](/en/post/the/) [sick](/en/post/sick/) [child](/en/post/child/), soothing [their](/en/post/their/) fears."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [she](/en/post/she/) welcomed [the](/en/post/the/) angelic [presence](/en/post/presence/) [of](/en/post/of/) [her](/en/post/her/) partner's home-cooked [meal](/en/post/meal/)."
-- **Phrasal**: "[In](/en/post/in/) times [of](/en/post/of/) [crisis](/en/post/crisis/), [many](/en/post/many/) [people](/en/post/people/) [pray](/en/post/pray/) [for](/en/post/for/) an [angel](/en/post/angel/) [to](/en/post/to/) [guide](/en/post/guide/) [them](/en/post/them/) [through](/en/post/through/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [nurse](/post/nurse/) was an [angel](/post/angel/) [to](/post/to/) [the](/post/the/) [sick](/post/sick/) [child](/post/child/), soothing [their](/post/their/) fears."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [she](/post/she/) welcomed [the](/post/the/) angelic [presence](/post/presence/) [of](/post/of/) [her](/post/her/) partner's home-cooked [meal](/post/meal/)."
+- **Phrasal**: "[In](/post/in/) times [of](/post/of/) [crisis](/post/crisis/), [many](/post/many/) [people](/post/people/) [pray](/post/pray/) [for](/post/for/) an [angel](/post/angel/) [to](/post/to/) [guide](/post/guide/) [them](/post/them/) [through](/post/through/)."
 
 ## Synonyms
 - Seraph
 - Cherub
-- [Saint](/en/post/saint/)
+- [Saint](/post/saint/)
 - Guardian
-- [Messenger](/en/post/messenger/)
+- [Messenger](/post/messenger/)
 - Benefactor
 - Comforter
 - Sainthood

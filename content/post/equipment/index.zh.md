@@ -11,21 +11,21 @@ keywords = ['ai words', 'equipment']
 /equipˈment/
 
 ## 释义
-- **名词 (n)**: 物体、工具或设备的集合，通常用于特定的目的或任务。例如: "[The](/post/the/) [kitchen](/post/kitchen/) was fully equipped [with](/post/with/) [modern](/post/modern/) cooking [equipment](/post/equipment/)."
-- **动词 (v)**: 配备，提供必要的物品或装置。例如: "[The](/post/the/) [company](/post/company/) equipped [the](/post/the/) [new](/post/new/) [office](/post/office/) [with](/post/with/) high-speed internet."
+- **名词 (n)**: 物体、工具或设备的集合，通常用于特定的目的或任务。例如: "[The](/zh/post/the/) [kitchen](/zh/post/kitchen/) was fully equipped [with](/zh/post/with/) [modern](/zh/post/modern/) cooking [equipment](/zh/post/equipment/)."
+- **动词 (v)**: 配备，提供必要的物品或装置。例如: "[The](/zh/post/the/) [company](/zh/post/company/) equipped [the](/zh/post/the/) [new](/zh/post/new/) [office](/zh/post/office/) [with](/zh/post/with/) high-speed internet."
 
 ## 短语
-- "[Safety](/post/safety/) [equipment](/post/equipment/)" 指用于保护个人安全的设备，如头盔、防护眼镜等。
-- "Sports [equipment](/post/equipment/)" 包括进行各种运动所需的器械和装备。
-- "[Office](/post/office/) [equipment](/post/equipment/)" 涵盖了办公室工作中常用的设备，如打印机、电脑等。
+- "[Safety](/zh/post/safety/) [equipment](/zh/post/equipment/)" 指用于保护个人安全的设备，如头盔、防护眼镜等。
+- "Sports [equipment](/zh/post/equipment/)" 包括进行各种运动所需的器械和装备。
+- "[Office](/zh/post/office/) [equipment](/zh/post/equipment/)" 涵盖了办公室工作中常用的设备，如打印机、电脑等。
 
 ## 例句
-- 名词: "[The](/post/the/) gym has [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) [exercise](/post/exercise/) [equipment](/post/equipment/) [for](/post/for/) [all](/post/all/) fitness levels."
-- 动词: "[The](/post/the/) [school](/post/school/) [will](/post/will/) [equip](/post/equip/) [each](/post/each/) [classroom](/post/classroom/) [with](/post/with/) interactive whiteboards [for](/post/for/) [better](/post/better/) [learning](/post/learning/)."
+- 名词: "[The](/zh/post/the/) gym has [a](/zh/post/a/) [wide](/zh/post/wide/) [range](/zh/post/range/) [of](/zh/post/of/) [exercise](/zh/post/exercise/) [equipment](/zh/post/equipment/) [for](/zh/post/for/) [all](/zh/post/all/) fitness levels."
+- 动词: "[The](/zh/post/the/) [school](/zh/post/school/) [will](/zh/post/will/) [equip](/zh/post/equip/) [each](/zh/post/each/) [classroom](/zh/post/classroom/) [with](/zh/post/with/) interactive whiteboards [for](/zh/post/for/) [better](/zh/post/better/) [learning](/zh/post/learning/)."
 
 ## 同义词
 - Gear
-- [Apparatus](/post/apparatus/)
+- [Apparatus](/zh/post/apparatus/)
 - Tools
 - Furnishings
 - Utensils

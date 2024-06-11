@@ -7,37 +7,37 @@ description = '[ˈwʌri] vt.使烦恼 vi.发愁'
 keywords = ['ai words', 'worry']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wʌri/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[noun](/en/post/noun/)** (v. **[worry](/en/post/worry/)**): An [emotion](/en/post/emotion/) characterized [by](/en/post/by/) uneasiness, [anxiety](/en/post/anxiety/), [or](/en/post/or/) [concern](/en/post/concern/) [about](/en/post/about/) [a](/en/post/a/) [problem](/en/post/problem/) [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [constant](/en/post/constant/) worries [over](/en/post/over/) [her](/en/post/her/) [job](/en/post/job/) prospects were affecting [her](/en/post/her/) [mental](/en/post/mental/) [health](/en/post/health/)."
+### [Noun](/post/noun/)
+[A](/post/a/) **[noun](/post/noun/)** (v. **[worry](/post/worry/)**): An [emotion](/post/emotion/) characterized [by](/post/by/) uneasiness, [anxiety](/post/anxiety/), [or](/post/or/) [concern](/post/concern/) [about](/post/about/) [a](/post/a/) [problem](/post/problem/) [or](/post/or/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [constant](/post/constant/) worries [over](/post/over/) [her](/post/her/) [job](/post/job/) prospects were affecting [her](/post/her/) [mental](/post/mental/) [health](/post/health/)."
 
-### [Verb](/en/post/verb/)
-[A](/en/post/a/) **[verb](/en/post/verb/)** (v. **[worry](/en/post/worry/)**): [To](/en/post/to/) [be](/en/post/be/) concerned [or](/en/post/or/) [anxious](/en/post/anxious/) [about](/en/post/about/) [something](/en/post/something/), [often](/en/post/often/) [to](/en/post/to/) an [excessive](/en/post/excessive/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "I'm worried [about](/en/post/about/) [the](/en/post/the/) upcoming [exam](/en/post/exam/)."
-- **Gerund**: [To](/en/post/to/) [worry](/en/post/worry/) [oneself](/en/post/oneself/) (e.g., "[He](/en/post/he/) worries [himself](/en/post/himself/) [sick](/en/post/sick/) [over](/en/post/over/) [small](/en/post/small/) details.")
+### [Verb](/post/verb/)
+[A](/post/a/) **[verb](/post/verb/)** (v. **[worry](/post/worry/)**): [To](/post/to/) [be](/post/be/) concerned [or](/post/or/) [anxious](/post/anxious/) [about](/post/about/) [something](/post/something/), [often](/post/often/) [to](/post/to/) an [excessive](/post/excessive/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "I'm worried [about](/post/about/) [the](/post/the/) upcoming [exam](/post/exam/)."
+- **Gerund**: [To](/post/to/) [worry](/post/worry/) [oneself](/post/oneself/) (e.g., "[He](/post/he/) worries [himself](/post/himself/) [sick](/post/sick/) [over](/post/over/) [small](/post/small/) details.")
 
-### [Adjective](/en/post/adjective/)
-An **[adjective](/en/post/adjective/)** (adj. **worried**): Describing [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [anxious](/en/post/anxious/) [or](/en/post/or/) concerned. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) looked worried [when](/en/post/when/) [she](/en/post/she/) heard [the](/en/post/the/) [news](/en/post/news/)."
+### [Adjective](/post/adjective/)
+An **[adjective](/post/adjective/)** (adj. **worried**): Describing [a](/post/a/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [anxious](/post/anxious/) [or](/post/or/) concerned. [For](/post/for/) [example](/post/example/): "[She](/post/she/) looked worried [when](/post/when/) [she](/post/she/) heard [the](/post/the/) [news](/post/news/)."
 
-### [Adverb](/en/post/adverb/)
-An **[adverb](/en/post/adverb/)** (adv. **worriedly**): Describing [the](/en/post/the/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) [someone](/en/post/someone/) worries, typically [with](/en/post/with/) [anxiety](/en/post/anxiety/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) worriedly scanned [the](/en/post/the/) [report](/en/post/report/) [for](/en/post/for/) [any](/en/post/any/) errors."
+### [Adverb](/post/adverb/)
+An **[adverb](/post/adverb/)** (adv. **worriedly**): Describing [the](/post/the/) [manner](/post/manner/) [in](/post/in/) [which](/post/which/) [someone](/post/someone/) worries, typically [with](/post/with/) [anxiety](/post/anxiety/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) worriedly scanned [the](/post/the/) [report](/post/report/) [for](/post/for/) [any](/post/any/) errors."
 
 ## Phrases
-- "[Worry](/en/post/worry/) [about](/en/post/about/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [concern](/en/post/concern/) [or](/en/post/or/) [fear](/en/post/fear/) [regarding](/en/post/regarding/) [a](/en/post/a/) [matter](/en/post/matter/).
-- "[Ease](/en/post/ease/) someone's worries" is [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) alleviate [their](/en/post/their/) [anxiety](/en/post/anxiety/).
-- "Don't [worry](/en/post/worry/), [it](/en/post/it/) [will](/en/post/will/) [be](/en/post/be/) [fine](/en/post/fine/)" is [a](/en/post/a/) reassurance given [to](/en/post/to/) [calm](/en/post/calm/) someone's concerns.
+- "[Worry](/post/worry/) [about](/post/about/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [concern](/post/concern/) [or](/post/or/) [fear](/post/fear/) [regarding](/post/regarding/) [a](/post/a/) [matter](/post/matter/).
+- "[Ease](/post/ease/) someone's worries" is [a](/post/a/) [way](/post/way/) [to](/post/to/) alleviate [their](/post/their/) [anxiety](/post/anxiety/).
+- "Don't [worry](/post/worry/), [it](/post/it/) [will](/post/will/) [be](/post/be/) [fine](/post/fine/)" is [a](/post/a/) reassurance given [to](/post/to/) [calm](/post/calm/) someone's concerns.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) couldn't [shake](/en/post/shake/) [off](/en/post/off/) [the](/en/post/the/) worries [that](/en/post/that/) had been plaguing [her](/en/post/her/) [mind](/en/post/mind/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) parents [worry](/en/post/worry/) constantly [about](/en/post/about/) [their](/en/post/their/) child's [safety](/en/post/safety/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) worried [expression](/en/post/expression/) showed [how](/en/post/how/) [much](/en/post/much/) [he](/en/post/he/) was troubled [by](/en/post/by/) [the](/en/post/the/) [situation](/en/post/situation/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) worriedly [bit](/en/post/bit/) [his](/en/post/his/) [lip](/en/post/lip/) [as](/en/post/as/) [he](/en/post/he/) considered [the](/en/post/the/) [problem](/en/post/problem/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) couldn't [shake](/post/shake/) [off](/post/off/) [the](/post/the/) worries [that](/post/that/) had been plaguing [her](/post/her/) [mind](/post/mind/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) parents [worry](/post/worry/) constantly [about](/post/about/) [their](/post/their/) child's [safety](/post/safety/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) worried [expression](/post/expression/) showed [how](/post/how/) [much](/post/much/) [he](/post/he/) was troubled [by](/post/by/) [the](/post/the/) [situation](/post/situation/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) worriedly [bit](/post/bit/) [his](/post/his/) [lip](/post/lip/) [as](/post/as/) [he](/post/he/) considered [the](/post/the/) [problem](/post/problem/)."
 
 ## Synonyms
-- [Anxious](/en/post/anxious/)
+- [Anxious](/post/anxious/)
 - Concerned
-- [Nervous](/en/post/nervous/)
+- [Nervous](/post/nervous/)
 - Alarmed
-- [Tense](/en/post/tense/)
+- [Tense](/post/tense/)

@@ -11,22 +11,22 @@ keywords = ['ai words', 'fade']
 /feɪd/
 
 ## 释义
-- **动词**: 渐渐消失；褪色；减弱。例如: "[The](/post/the/) colors [on](/post/on/) [the](/post/the/) [painting](/post/painting/) began [to](/post/to/) [fade](/post/fade/) [over](/post/over/) [time](/post/time/)."
-- **名词**: （声音、光线等的）渐渐减弱；褪色。例如: "[The](/post/the/) [music](/post/music/) faded [into](/post/into/) [the](/post/the/) [distance](/post/distance/)."
-- **形容词**: 褪色的；暗淡的。例如: "[The](/post/the/) faded jeans had seen [better](/post/better/) days."
+- **动词**: 渐渐消失；褪色；减弱。例如: "[The](/zh/post/the/) colors [on](/zh/post/on/) [the](/zh/post/the/) [painting](/zh/post/painting/) began [to](/zh/post/to/) [fade](/zh/post/fade/) [over](/zh/post/over/) [time](/zh/post/time/)."
+- **名词**: （声音、光线等的）渐渐减弱；褪色。例如: "[The](/zh/post/the/) [music](/zh/post/music/) faded [into](/zh/post/into/) [the](/zh/post/the/) [distance](/zh/post/distance/)."
+- **形容词**: 褪色的；暗淡的。例如: "[The](/zh/post/the/) faded jeans had seen [better](/zh/post/better/) days."
 
 ## 短语
-- "[Fade](/post/fade/) [away](/post/away/)" 意为逐渐消失或减弱。例如: "[Their](/post/their/) memories [will](/post/will/) [fade](/post/fade/) [away](/post/away/) [with](/post/with/) [time](/post/time/)."
-- "[Fade](/post/fade/) [out](/post/out/)" 在音乐或电影中指渐弱直至消失。例如: "[The](/post/the/) [song](/post/song/) ended [with](/post/with/) [a](/post/a/) [long](/post/long/) [fade](/post/fade/) [out](/post/out/)."
+- "[Fade](/zh/post/fade/) [away](/zh/post/away/)" 意为逐渐消失或减弱。例如: "[Their](/zh/post/their/) memories [will](/zh/post/will/) [fade](/zh/post/fade/) [away](/zh/post/away/) [with](/zh/post/with/) [time](/zh/post/time/)."
+- "[Fade](/zh/post/fade/) [out](/zh/post/out/)" 在音乐或电影中指渐弱直至消失。例如: "[The](/zh/post/the/) [song](/zh/post/song/) ended [with](/zh/post/with/) [a](/zh/post/a/) [long](/zh/post/long/) [fade](/zh/post/fade/) [out](/zh/post/out/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [sunlight](/post/sunlight/) was [slowly](/post/slowly/) fading [as](/post/as/) [the](/post/the/) [sun](/post/sun/) [set](/post/set/) [behind](/post/behind/) [the](/post/the/) mountains."
-- 名词: "[The](/post/the/) movie's [final](/post/final/) [scene](/post/scene/) featured [a](/post/a/) [fade](/post/fade/) [from](/post/from/) [the](/post/the/) cityscape [to](/post/to/) [black](/post/black/)."
-- 形容词: "[The](/post/the/) faded [photograph](/post/photograph/) held [precious](/post/precious/) memories [from](/post/from/) [their](/post/their/) [childhood](/post/childhood/)."
+- 动词: "[The](/zh/post/the/) [sunlight](/zh/post/sunlight/) was [slowly](/zh/post/slowly/) fading [as](/zh/post/as/) [the](/zh/post/the/) [sun](/zh/post/sun/) [set](/zh/post/set/) [behind](/zh/post/behind/) [the](/zh/post/the/) mountains."
+- 名词: "[The](/zh/post/the/) movie's [final](/zh/post/final/) [scene](/zh/post/scene/) featured [a](/zh/post/a/) [fade](/zh/post/fade/) [from](/zh/post/from/) [the](/zh/post/the/) cityscape [to](/zh/post/to/) [black](/zh/post/black/)."
+- 形容词: "[The](/zh/post/the/) faded [photograph](/zh/post/photograph/) held [precious](/zh/post/precious/) memories [from](/zh/post/from/) [their](/zh/post/their/) [childhood](/zh/post/childhood/)."
 
 ## 同义词
 - Diminish
-- [Weaken](/post/weaken/)
+- [Weaken](/zh/post/weaken/)
 - Wane
-- [Disappear](/post/disappear/) [gradually](/post/gradually/)
-- Bleach ([for](/post/for/) [physical](/post/physical/) fading)
+- [Disappear](/zh/post/disappear/) [gradually](/zh/post/gradually/)
+- Bleach ([for](/zh/post/for/) [physical](/zh/post/physical/) fading)

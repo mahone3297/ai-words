@@ -8,36 +8,36 @@ keywords = ['ai words', 'pay']
 +++
 
 ## 读音
-/[pay](/post/pay/)/
+/[pay](/zh/post/pay/)/
 
 ## 释义
 - **动词**:
-  - 支付金钱；付款。例如: "I [need](/post/need/) [to](/post/to/) [pay](/post/pay/) [the](/post/the/) [rent](/post/rent/) [this](/post/this/) [week](/post/week/)."
-  - 给予报酬或报偿。例如: "[She](/post/she/) was [well](/post/well/) paid [for](/post/for/) [her](/post/her/) [work](/post/work/)."
-  - 承担代价或后果。例如: "[If](/post/if/) [you](/post/you/) don't [study](/post/study/), you'll [pay](/post/pay/) [the](/post/the/) [price](/post/price/) [in](/post/in/) exams."
+  - 支付金钱；付款。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [pay](/zh/post/pay/) [the](/zh/post/the/) [rent](/zh/post/rent/) [this](/zh/post/this/) [week](/zh/post/week/)."
+  - 给予报酬或报偿。例如: "[She](/zh/post/she/) was [well](/zh/post/well/) paid [for](/zh/post/for/) [her](/zh/post/her/) [work](/zh/post/work/)."
+  - 承担代价或后果。例如: "[If](/zh/post/if/) [you](/zh/post/you/) don't [study](/zh/post/study/), you'll [pay](/zh/post/pay/) [the](/zh/post/the/) [price](/zh/post/price/) [in](/zh/post/in/) exams."
 
 - **名词**:
-  - 工资，薪水。例如: "[He](/post/he/) earns [a](/post/a/) [good](/post/good/) [pay](/post/pay/) [as](/post/as/) [a](/post/a/) software [engineer](/post/engineer/)."
-  - 付款，支付的金额。例如: "[The](/post/the/) [total](/post/total/) [pay](/post/pay/) [for](/post/for/) [the](/post/the/) [service](/post/service/) was $50."
+  - 工资，薪水。例如: "[He](/zh/post/he/) earns [a](/zh/post/a/) [good](/zh/post/good/) [pay](/zh/post/pay/) [as](/zh/post/as/) [a](/zh/post/a/) software [engineer](/zh/post/engineer/)."
+  - 付款，支付的金额。例如: "[The](/zh/post/the/) [total](/zh/post/total/) [pay](/zh/post/pay/) [for](/zh/post/for/) [the](/zh/post/the/) [service](/zh/post/service/) was $50."
 
 ## 短语
-- "[Pay](/post/pay/) [attention](/post/attention/)" 意为集中注意力，留意。例如: "[Please](/post/please/) [pay](/post/pay/) [attention](/post/attention/) [when](/post/when/) [the](/post/the/) [teacher](/post/teacher/) is explaining [the](/post/the/) math [problem](/post/problem/)."
-- "[Pay](/post/pay/) [off](/post/off/)" 意为还清债务或取得成功。例如: "[After](/post/after/) years [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) [finally](/post/finally/) paid [off](/post/off/) [all](/post/all/) [his](/post/his/) loans."
-- "[Pay](/post/pay/) [someone](/post/someone/) [a](/post/a/) [visit](/post/visit/)" 意为拜访某人。例如: "I'm going [to](/post/to/) [pay](/post/pay/) [my](/post/my/) [friend](/post/friend/) [a](/post/a/) [visit](/post/visit/) [this](/post/this/) [weekend](/post/weekend/)."
+- "[Pay](/zh/post/pay/) [attention](/zh/post/attention/)" 意为集中注意力，留意。例如: "[Please](/zh/post/please/) [pay](/zh/post/pay/) [attention](/zh/post/attention/) [when](/zh/post/when/) [the](/zh/post/the/) [teacher](/zh/post/teacher/) is explaining [the](/zh/post/the/) math [problem](/zh/post/problem/)."
+- "[Pay](/zh/post/pay/) [off](/zh/post/off/)" 意为还清债务或取得成功。例如: "[After](/zh/post/after/) years [of](/zh/post/of/) [hard](/zh/post/hard/) [work](/zh/post/work/), [he](/zh/post/he/) [finally](/zh/post/finally/) paid [off](/zh/post/off/) [all](/zh/post/all/) [his](/zh/post/his/) loans."
+- "[Pay](/zh/post/pay/) [someone](/zh/post/someone/) [a](/zh/post/a/) [visit](/zh/post/visit/)" 意为拜访某人。例如: "I'm going [to](/zh/post/to/) [pay](/zh/post/pay/) [my](/zh/post/my/) [friend](/zh/post/friend/) [a](/zh/post/a/) [visit](/zh/post/visit/) [this](/zh/post/this/) [weekend](/zh/post/weekend/)."
 
 ## 例句
-- 动词: "I [just](/post/just/) paid [the](/post/the/) [electricity](/post/electricity/) [bill](/post/bill/) online."
-- 名词: "[His](/post/his/) [monthly](/post/monthly/) [pay](/post/pay/) allows [him](/post/him/) [to](/post/to/) [live](/post/live/) comfortably."
+- 动词: "I [just](/zh/post/just/) paid [the](/zh/post/the/) [electricity](/zh/post/electricity/) [bill](/zh/post/bill/) online."
+- 名词: "[His](/zh/post/his/) [monthly](/zh/post/monthly/) [pay](/zh/post/pay/) allows [him](/zh/post/him/) [to](/zh/post/to/) [live](/zh/post/live/) comfortably."
 
 ## 同义词
 - **动词**:
-  - [Give](/post/give/)
+  - [Give](/zh/post/give/)
   - Reimburse
   - Compensate
-  - [Settle](/post/settle/)
+  - [Settle](/zh/post/settle/)
 
 - **名词**:
   - Wages
-  - [Salary](/post/salary/)
+  - [Salary](/zh/post/salary/)
   - Earnings
   - Compensation

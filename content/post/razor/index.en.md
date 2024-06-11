@@ -7,39 +7,39 @@ description = '[ˈreizə] n.剃刀'
 keywords = ['ai words', 'razor']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəˈzɔr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[razor](/en/post/razor/)** is [a](/en/post/a/) sharp-edged [tool](/en/post/tool/) [or](/en/post/or/) [instrument](/en/post/instrument/), typically [with](/en/post/with/) [a](/en/post/a/) [blade](/en/post/blade/) attached [to](/en/post/to/) [a](/en/post/a/) [handle](/en/post/handle/), [used](/en/post/used/) [for](/en/post/for/) shaving, trimming [hair](/en/post/hair/), [or](/en/post/or/) cutting [other](/en/post/other/) materials [like](/en/post/like/) [beard](/en/post/beard/) [hair](/en/post/hair/) [or](/en/post/or/) [fabric](/en/post/fabric/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[razor](/post/razor/)** is [a](/post/a/) sharp-edged [tool](/post/tool/) [or](/post/or/) [instrument](/post/instrument/), typically [with](/post/with/) [a](/post/a/) [blade](/post/blade/) attached [to](/post/to/) [a](/post/a/) [handle](/post/handle/), [used](/post/used/) [for](/post/for/) shaving, trimming [hair](/post/hair/), [or](/post/or/) cutting [other](/post/other/) materials [like](/post/like/) [beard](/post/beard/) [hair](/post/hair/) [or](/post/or/) [fabric](/post/fabric/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[razor](/en/post/razor/)** [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [shave](/en/post/shave/) using [a](/en/post/a/) [razor](/en/post/razor/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) metaphorically [refer](/en/post/refer/) [to](/en/post/to/) cutting [something](/en/post/something/) [close](/en/post/close/) [or](/en/post/or/) making [a](/en/post/a/) [precise](/en/post/precise/), [efficient](/en/post/efficient/) [cut](/en/post/cut/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[razor](/post/razor/)** [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [shave](/post/shave/) using [a](/post/a/) [razor](/post/razor/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [also](/post/also/) metaphorically [refer](/post/refer/) [to](/post/to/) cutting [something](/post/something/) [close](/post/close/) [or](/post/or/) making [a](/post/a/) [precise](/post/precise/), [efficient](/post/efficient/) [cut](/post/cut/).
 
-### [Adjective](/en/post/adjective/)
-[A](/en/post/a/) **razor-sharp** [adjective](/en/post/adjective/) describes [something](/en/post/something/) [that](/en/post/that/) is [extremely](/en/post/extremely/) [sharp](/en/post/sharp/), [like](/en/post/like/) [a](/en/post/a/) razor's [edge](/en/post/edge/).
+### [Adjective](/post/adjective/)
+[A](/post/a/) **razor-sharp** [adjective](/post/adjective/) describes [something](/post/something/) [that](/post/that/) is [extremely](/post/extremely/) [sharp](/post/sharp/), [like](/post/like/) [a](/post/a/) razor's [edge](/post/edge/).
 
-### [Adverb](/en/post/adverb/)
-**Razors** [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [very](/en/post/very/) [close](/en/post/close/) [or](/en/post/or/) [precise](/en/post/precise/) [level](/en/post/level/), [as](/en/post/as/) [in](/en/post/in/) "[he](/en/post/he/) made [a](/en/post/a/) razor-thin [margin](/en/post/margin/)."
+### [Adverb](/post/adverb/)
+**Razors** [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [very](/post/very/) [close](/post/close/) [or](/post/or/) [precise](/post/precise/) [level](/post/level/), [as](/post/as/) [in](/post/in/) "[he](/post/he/) made [a](/post/a/) razor-thin [margin](/post/margin/)."
 
 ## Phrases
-- "[Shave](/en/post/shave/) [with](/en/post/with/) [a](/en/post/a/) [razor](/en/post/razor/)" is [the](/en/post/the/) [primary](/en/post/primary/) [action](/en/post/action/) associated [with](/en/post/with/) [the](/en/post/the/) [noun](/en/post/noun/).
-- "[A](/en/post/a/) [clean](/en/post/clean/) [shave](/en/post/shave/) [with](/en/post/with/) [a](/en/post/a/) [razor](/en/post/razor/)" implies [a](/en/post/a/) [smooth](/en/post/smooth/) [and](/en/post/and/) [close](/en/post/close/) [shave](/en/post/shave/).
-- "[He](/en/post/he/) had [a](/en/post/a/) razor-sharp intellect" highlights someone's exceptional [mental](/en/post/mental/) acuity.
+- "[Shave](/post/shave/) [with](/post/with/) [a](/post/a/) [razor](/post/razor/)" is [the](/post/the/) [primary](/post/primary/) [action](/post/action/) associated [with](/post/with/) [the](/post/the/) [noun](/post/noun/).
+- "[A](/post/a/) [clean](/post/clean/) [shave](/post/shave/) [with](/post/with/) [a](/post/a/) [razor](/post/razor/)" implies [a](/post/a/) [smooth](/post/smooth/) [and](/post/and/) [close](/post/close/) [shave](/post/shave/).
+- "[He](/post/he/) had [a](/post/a/) razor-sharp intellect" highlights someone's exceptional [mental](/post/mental/) acuity.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I bought [a](/en/post/a/) [new](/en/post/new/) [razor](/en/post/razor/) [to](/en/post/to/) [replace](/en/post/replace/) [my](/en/post/my/) [old](/en/post/old/) [one](/en/post/one/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [barber](/en/post/barber/) gave [him](/en/post/him/) [a](/en/post/a/) [close](/en/post/close/) [shave](/en/post/shave/) [with](/en/post/with/) [his](/en/post/his/) [straight](/en/post/straight/) [razor](/en/post/razor/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [argument](/en/post/argument/) was razor-sharp, leaving [no](/en/post/no/) [room](/en/post/room/) [for](/en/post/for/) [error](/en/post/error/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) made [a](/en/post/a/) razor-like [decision](/en/post/decision/), considering [every](/en/post/every/) [detail](/en/post/detail/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I bought [a](/post/a/) [new](/post/new/) [razor](/post/razor/) [to](/post/to/) [replace](/post/replace/) [my](/post/my/) [old](/post/old/) [one](/post/one/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [barber](/post/barber/) gave [him](/post/him/) [a](/post/a/) [close](/post/close/) [shave](/post/shave/) [with](/post/with/) [his](/post/his/) [straight](/post/straight/) [razor](/post/razor/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [argument](/post/argument/) was razor-sharp, leaving [no](/post/no/) [room](/post/room/) [for](/post/for/) [error](/post/error/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) made [a](/post/a/) razor-like [decision](/post/decision/), considering [every](/post/every/) [detail](/post/detail/)."
 
 ## Synonyms
-- [Blade](/en/post/blade/)
-- Shaving [tool](/en/post/tool/)
-- [Blade](/en/post/blade/) [razor](/en/post/razor/)
+- [Blade](/post/blade/)
+- Shaving [tool](/post/tool/)
+- [Blade](/post/blade/) [razor](/post/razor/)
 - Close-cropped
 - Sharp-edged
-- [Precise](/en/post/precise/)
-- [Accurate](/en/post/accurate/)
-- [Clever](/en/post/clever/) ([as](/en/post/as/) [in](/en/post/in/) razor-sharp [wit](/en/post/wit/))
+- [Precise](/post/precise/)
+- [Accurate](/post/accurate/)
+- [Clever](/post/clever/) ([as](/post/as/) [in](/post/in/) razor-sharp [wit](/post/wit/))

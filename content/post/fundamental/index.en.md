@@ -7,33 +7,33 @@ description = '[ˌfʌndəˈmentl] a.基础的，基本的'
 keywords = ['ai words', 'fundamental']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌfʌndəˈmentl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Serving [as](/en/post/as/), [or](/en/post/or/) [being](/en/post/being/) an [essential](/en/post/essential/) [part](/en/post/part/) [of](/en/post/of/), [a](/en/post/a/) [foundation](/en/post/foundation/) [or](/en/post/or/) [basis](/en/post/basis/); forming [or](/en/post/or/) relating [to](/en/post/to/) [the](/en/post/the/) [most](/en/post/most/) [basic](/en/post/basic/) [or](/en/post/or/) [important](/en/post/important/) aspects [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Fundamental](/en/post/fundamental/) principles [of](/en/post/of/) [democracy](/en/post/democracy/)."
-  - *[Philosophy](/en/post/philosophy/)*: Relating [to](/en/post/to/) [the](/en/post/the/) essence [or](/en/post/or/) intrinsic [nature](/en/post/nature/) [of](/en/post/of/) [something](/en/post/something/). "[A](/en/post/a/) [fundamental](/en/post/fundamental/) [understanding](/en/post/understanding/) [of](/en/post/of/) [human](/en/post/human/) [nature](/en/post/nature/)."
-  - *[Physics](/en/post/physics/)*: [Of](/en/post/of/) [or](/en/post/or/) pertaining [to](/en/post/to/) [the](/en/post/the/) lowest [frequency](/en/post/frequency/) [component](/en/post/component/) [of](/en/post/of/) [a](/en/post/a/) [wave](/en/post/wave/) [or](/en/post/or/) oscillation. "[The](/en/post/the/) [fundamental](/en/post/fundamental/) [frequency](/en/post/frequency/) [of](/en/post/of/) [a](/en/post/a/) [sound](/en/post/sound/) [wave](/en/post/wave/)."
+- **[Adjective](/post/adjective/)**: Serving [as](/post/as/), [or](/post/or/) [being](/post/being/) an [essential](/post/essential/) [part](/post/part/) [of](/post/of/), [a](/post/a/) [foundation](/post/foundation/) [or](/post/or/) [basis](/post/basis/); forming [or](/post/or/) relating [to](/post/to/) [the](/post/the/) [most](/post/most/) [basic](/post/basic/) [or](/post/or/) [important](/post/important/) aspects [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Fundamental](/post/fundamental/) principles [of](/post/of/) [democracy](/post/democracy/)."
+  - *[Philosophy](/post/philosophy/)*: Relating [to](/post/to/) [the](/post/the/) essence [or](/post/or/) intrinsic [nature](/post/nature/) [of](/post/of/) [something](/post/something/). "[A](/post/a/) [fundamental](/post/fundamental/) [understanding](/post/understanding/) [of](/post/of/) [human](/post/human/) [nature](/post/nature/)."
+  - *[Physics](/post/physics/)*: [Of](/post/of/) [or](/post/or/) pertaining [to](/post/to/) [the](/post/the/) lowest [frequency](/post/frequency/) [component](/post/component/) [of](/post/of/) [a](/post/a/) [wave](/post/wave/) [or](/post/or/) oscillation. "[The](/post/the/) [fundamental](/post/fundamental/) [frequency](/post/frequency/) [of](/post/of/) [a](/post/a/) [sound](/post/sound/) [wave](/post/wave/)."
 
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [basic](/en/post/basic/) [truth](/en/post/truth/), [law](/en/post/law/), [or](/en/post/or/) [principle](/en/post/principle/) [that](/en/post/that/) serves [as](/en/post/as/) [the](/en/post/the/) groundwork [for](/en/post/for/) [a](/en/post/a/) [system](/en/post/system/) [or](/en/post/or/) [belief](/en/post/belief/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) fundamentals [of](/en/post/of/) [mathematics](/en/post/mathematics/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [basic](/post/basic/) [truth](/post/truth/), [law](/post/law/), [or](/post/or/) [principle](/post/principle/) [that](/post/that/) serves [as](/post/as/) [the](/post/the/) groundwork [for](/post/for/) [a](/post/a/) [system](/post/system/) [or](/post/or/) [belief](/post/belief/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) fundamentals [of](/post/of/) [mathematics](/post/mathematics/)."
 
 ## Phrases
-- "[Fundamental](/en/post/fundamental/) rights": [Basic](/en/post/basic/) rights [and](/en/post/and/) freedoms [to](/en/post/to/) [which](/en/post/which/) [all](/en/post/all/) humans are entitled.
-- "[Get](/en/post/get/) [back](/en/post/back/) [to](/en/post/to/) fundamentals": [To](/en/post/to/) [return](/en/post/return/) [to](/en/post/to/) [the](/en/post/the/) [most](/en/post/most/) [basic](/en/post/basic/) [and](/en/post/and/) [essential](/en/post/essential/) elements [or](/en/post/or/) practices.
-- "Fundamentals [of](/en/post/of/) [the](/en/post/the/) [economy](/en/post/economy/)": [The](/en/post/the/) [basic](/en/post/basic/) [economic](/en/post/economic/) factors [that](/en/post/that/) underpin [growth](/en/post/growth/) [and](/en/post/and/) [stability](/en/post/stability/).
+- "[Fundamental](/post/fundamental/) rights": [Basic](/post/basic/) rights [and](/post/and/) freedoms [to](/post/to/) [which](/post/which/) [all](/post/all/) humans are entitled.
+- "[Get](/post/get/) [back](/post/back/) [to](/post/to/) fundamentals": [To](/post/to/) [return](/post/return/) [to](/post/to/) [the](/post/the/) [most](/post/most/) [basic](/post/basic/) [and](/post/and/) [essential](/post/essential/) elements [or](/post/or/) practices.
+- "Fundamentals [of](/post/of/) [the](/post/the/) [economy](/post/economy/)": [The](/post/the/) [basic](/post/basic/) [economic](/post/economic/) factors [that](/post/that/) underpin [growth](/post/growth/) [and](/post/and/) [stability](/post/stability/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Education](/en/post/education/) is [fundamental](/en/post/fundamental/) [to](/en/post/to/) [personal](/en/post/personal/) [development](/en/post/development/) [and](/en/post/and/) societal [progress](/en/post/progress/)."
-- **[Noun](/en/post/noun/)**: "[Understanding](/en/post/understanding/) [the](/en/post/the/) fundamentals [of](/en/post/of/) coding was crucial [before](/en/post/before/) tackling [complex](/en/post/complex/) algorithms."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Education](/post/education/) is [fundamental](/post/fundamental/) [to](/post/to/) [personal](/post/personal/) [development](/post/development/) [and](/post/and/) societal [progress](/post/progress/)."
+- **[Noun](/post/noun/)**: "[Understanding](/post/understanding/) [the](/post/the/) fundamentals [of](/post/of/) coding was crucial [before](/post/before/) tackling [complex](/post/complex/) algorithms."
 
 ## Synonyms
-- [Essential](/en/post/essential/)
-- [Basic](/en/post/basic/)
-- [Core](/en/post/core/)
-- [Key](/en/post/key/)
-- [Root](/en/post/root/)
-- [Elementary](/en/post/elementary/)
+- [Essential](/post/essential/)
+- [Basic](/post/basic/)
+- [Core](/post/core/)
+- [Key](/post/key/)
+- [Root](/post/root/)
+- [Elementary](/post/elementary/)
 - Underlying
-- [Principal](/en/post/principal/)
+- [Principal](/post/principal/)
 - Foundational
 - Bedrock

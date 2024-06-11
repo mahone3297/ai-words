@@ -7,31 +7,31 @@ description = '[æz] conj.当…的时候'
 keywords = ['ai words', 'as']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /aʊ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) resembling [a](/en/post/a/) [particular](/en/post/particular/) [thing](/en/post/thing/) [or](/en/post/or/) [person](/en/post/person/); pertaining [to](/en/post/to/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) vintage [car](/en/post/car/) was [as](/en/post/as/) [beautiful](/en/post/beautiful/) [as](/en/post/as/) [a](/en/post/a/) [work](/en/post/work/) [of](/en/post/of/) [art](/en/post/art/)."
-- **[Preposition](/en/post/preposition/)**: Expressing [relation](/en/post/relation/) [to](/en/post/to/) [another](/en/post/another/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) category. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [apple](/en/post/apple/) is [as](/en/post/as/) [red](/en/post/red/) [as](/en/post/as/) [the](/en/post/the/) [cherry](/en/post/cherry/)."
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [the](/en/post/the/) [same](/en/post/same/) [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/); [similarly](/en/post/similarly/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) works [as](/en/post/as/) [hard](/en/post/hard/) [as](/en/post/as/) [her](/en/post/her/) [brother](/en/post/brother/)."
-- **[Conjunction](/en/post/conjunction/)**: [Used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [comparative](/en/post/comparative/) clause, [often](/en/post/often/) [with](/en/post/with/) "[as](/en/post/as/)...[as](/en/post/as/)" [or](/en/post/or/) "[not](/en/post/not/) [as](/en/post/as/)...[as](/en/post/as/)." [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [book](/en/post/book/) is [as](/en/post/as/) [interesting](/en/post/interesting/) [as](/en/post/as/) [that](/en/post/that/) [one](/en/post/one/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [the](/en/post/the/) [manner](/en/post/manner/) described [or](/en/post/or/) specified. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sang [as](/en/post/as/) [softly](/en/post/softly/) [as](/en/post/as/) [a](/en/post/a/) [whisper](/en/post/whisper/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) resembling [a](/post/a/) [particular](/post/particular/) [thing](/post/thing/) [or](/post/or/) [person](/post/person/); pertaining [to](/post/to/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) vintage [car](/post/car/) was [as](/post/as/) [beautiful](/post/beautiful/) [as](/post/as/) [a](/post/a/) [work](/post/work/) [of](/post/of/) [art](/post/art/)."
+- **[Preposition](/post/preposition/)**: Expressing [relation](/post/relation/) [to](/post/to/) [another](/post/another/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [group](/post/group/) [or](/post/or/) category. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [apple](/post/apple/) is [as](/post/as/) [red](/post/red/) [as](/post/as/) [the](/post/the/) [cherry](/post/cherry/)."
+- **[Adverb](/post/adverb/)**: [To](/post/to/) [the](/post/the/) [same](/post/same/) [extent](/post/extent/) [or](/post/or/) [degree](/post/degree/); [similarly](/post/similarly/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) works [as](/post/as/) [hard](/post/hard/) [as](/post/as/) [her](/post/her/) [brother](/post/brother/)."
+- **[Conjunction](/post/conjunction/)**: [Used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [comparative](/post/comparative/) clause, [often](/post/often/) [with](/post/with/) "[as](/post/as/)...[as](/post/as/)" [or](/post/or/) "[not](/post/not/) [as](/post/as/)...[as](/post/as/)." [For](/post/for/) [example](/post/example/): "[This](/post/this/) [book](/post/book/) is [as](/post/as/) [interesting](/post/interesting/) [as](/post/as/) [that](/post/that/) [one](/post/one/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [the](/post/the/) [manner](/post/manner/) described [or](/post/or/) specified. [For](/post/for/) [example](/post/example/): "[She](/post/she/) sang [as](/post/as/) [softly](/post/softly/) [as](/post/as/) [a](/post/a/) [whisper](/post/whisper/)."
 
 ## Phrases
-- "[As](/en/post/as/) [you](/en/post/you/) [wish](/en/post/wish/)" indicates compliance [with](/en/post/with/) [a](/en/post/a/) [request](/en/post/request/) [or](/en/post/or/) [preference](/en/post/preference/).
-- "[Not](/en/post/not/) [as](/en/post/as/) [bad](/en/post/bad/) [as](/en/post/as/) expected" suggests [something](/en/post/something/) is [better](/en/post/better/) [than](/en/post/than/) initially [thought](/en/post/thought/).
-- "[As](/en/post/as/) [long](/en/post/long/) [as](/en/post/as/)" expresses [a](/en/post/a/) [condition](/en/post/condition/) [under](/en/post/under/) [which](/en/post/which/) [something](/en/post/something/) is [true](/en/post/true/). [For](/en/post/for/) [example](/en/post/example/): "[As](/en/post/as/) [long](/en/post/long/) [as](/en/post/as/) [it](/en/post/it/) doesn't [rain](/en/post/rain/), [we](/en/post/we/) [can](/en/post/can/) [have](/en/post/have/) [a](/en/post/a/) [picnic](/en/post/picnic/)."
+- "[As](/post/as/) [you](/post/you/) [wish](/post/wish/)" indicates compliance [with](/post/with/) [a](/post/a/) [request](/post/request/) [or](/post/or/) [preference](/post/preference/).
+- "[Not](/post/not/) [as](/post/as/) [bad](/post/bad/) [as](/post/as/) expected" suggests [something](/post/something/) is [better](/post/better/) [than](/post/than/) initially [thought](/post/thought/).
+- "[As](/post/as/) [long](/post/long/) [as](/post/as/)" expresses [a](/post/a/) [condition](/post/condition/) [under](/post/under/) [which](/post/which/) [something](/post/something/) is [true](/post/true/). [For](/post/for/) [example](/post/example/): "[As](/post/as/) [long](/post/long/) [as](/post/as/) [it](/post/it/) doesn't [rain](/post/rain/), [we](/post/we/) [can](/post/can/) [have](/post/have/) [a](/post/a/) [picnic](/post/picnic/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) was [as](/en/post/as/) cozy [as](/en/post/as/) [a](/en/post/a/) [small](/en/post/small/) [cottage](/en/post/cottage/)."
-- **[Preposition](/en/post/preposition/)**: "[Her](/en/post/her/) [hair](/en/post/hair/) [color](/en/post/color/) is [as](/en/post/as/) [dark](/en/post/dark/) [as](/en/post/as/) [jet](/en/post/jet/) [black](/en/post/black/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) dances [as](/en/post/as/) gracefully [as](/en/post/as/) [a](/en/post/a/) ballerina."
-- **[Conjunction](/en/post/conjunction/)**: "She's [not](/en/post/not/) [as](/en/post/as/) [strong](/en/post/strong/) [as](/en/post/as/) [she](/en/post/she/) [used](/en/post/used/) [to](/en/post/to/) [be](/en/post/be/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) explained [the](/en/post/the/) [problem](/en/post/problem/) [as](/en/post/as/) [clearly](/en/post/clearly/) [as](/en/post/as/) [possible](/en/post/possible/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) was [as](/post/as/) cozy [as](/post/as/) [a](/post/a/) [small](/post/small/) [cottage](/post/cottage/)."
+- **[Preposition](/post/preposition/)**: "[Her](/post/her/) [hair](/post/hair/) [color](/post/color/) is [as](/post/as/) [dark](/post/dark/) [as](/post/as/) [jet](/post/jet/) [black](/post/black/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) dances [as](/post/as/) gracefully [as](/post/as/) [a](/post/a/) ballerina."
+- **[Conjunction](/post/conjunction/)**: "She's [not](/post/not/) [as](/post/as/) [strong](/post/strong/) [as](/post/as/) [she](/post/she/) [used](/post/used/) [to](/post/to/) [be](/post/be/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) explained [the](/post/the/) [problem](/post/problem/) [as](/post/as/) [clearly](/post/clearly/) [as](/post/as/) [possible](/post/possible/)."
 
 ## Synonyms
-- [Likewise](/en/post/likewise/)
+- [Likewise](/post/likewise/)
 - Equally
 - Identically
 - Comparable
-- [Much](/en/post/much/) [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [way](/en/post/way/)
+- [Much](/post/much/) [in](/post/in/) [the](/post/the/) [same](/post/same/) [way](/post/way/)

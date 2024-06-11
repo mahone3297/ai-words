@@ -14,14 +14,14 @@ keywords = ['ai words', 'agriculture']
 - **名词**: 农业；农耕；耕作。指有关种植作物、饲养家畜和管理土地的活动或科学。
 
 ## 短语
-- "Agricultural [science](/post/science/)" 农业科学，指的是关于农业的理论和实践研究。
-- "Agricultural [industry](/post/industry/)" 农业产业，指与农业生产相关的经济活动。
+- "Agricultural [science](/zh/post/science/)" 农业科学，指的是关于农业的理论和实践研究。
+- "Agricultural [industry](/zh/post/industry/)" 农业产业，指与农业生产相关的经济活动。
 - "Agricultural products" 农产品，指由农业生产的物品，如粮食、水果、蔬菜等。
 
 ## 例句
-- "[The](/post/the/) [government](/post/government/) provides subsidies [to](/post/to/) [support](/post/support/) [the](/post/the/) agricultural sector."
-- "[She](/post/she/) studied agricultural [engineering](/post/engineering/) [in](/post/in/) [college](/post/college/)."
-- "[The](/post/the/) [farmer](/post/farmer/) [used](/post/used/) [new](/post/new/) techniques [to](/post/to/) [increase](/post/increase/) [his](/post/his/) [crop](/post/crop/) yields."
+- "[The](/zh/post/the/) [government](/zh/post/government/) provides subsidies [to](/zh/post/to/) [support](/zh/post/support/) [the](/zh/post/the/) agricultural sector."
+- "[She](/zh/post/she/) studied agricultural [engineering](/zh/post/engineering/) [in](/zh/post/in/) [college](/zh/post/college/)."
+- "[The](/zh/post/the/) [farmer](/zh/post/farmer/) [used](/zh/post/used/) [new](/zh/post/new/) techniques [to](/zh/post/to/) [increase](/zh/post/increase/) [his](/zh/post/his/) [crop](/zh/post/crop/) yields."
 
 ## 同义词
 - Farming

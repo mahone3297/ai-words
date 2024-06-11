@@ -7,45 +7,45 @@ description = '[diˈvaiz] vt.设计，发明'
 keywords = ['ai words', 'devise']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈvaɪz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) contraption designed [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/) [or](/en/post/or/) [function](/en/post/function/). [Can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [plan](/en/post/plan/) [or](/en/post/or/) [method](/en/post/method/) devised [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) [particular](/en/post/particular/) [goal](/en/post/goal/).
+### [Noun](/post/noun/)
+[A](/post/a/) [device](/post/device/) [or](/post/or/) contraption designed [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/) [or](/post/or/) [function](/post/function/). [Can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [plan](/post/plan/) [or](/post/or/) [method](/post/method/) devised [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) [particular](/post/particular/) [goal](/post/goal/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [create](/en/post/create/), [invent](/en/post/invent/), [or](/en/post/or/) [plan](/en/post/plan/) [something](/en/post/something/) [with](/en/post/with/) [care](/en/post/care/) [and](/en/post/and/) ingenuity.
-2. [To](/en/post/to/) [determine](/en/post/determine/) [or](/en/post/or/) [figure](/en/post/figure/) [out](/en/post/out/) [a](/en/post/a/) [solution](/en/post/solution/) [or](/en/post/or/) [strategy](/en/post/strategy/) [for](/en/post/for/) [a](/en/post/a/) [problem](/en/post/problem/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [create](/post/create/), [invent](/post/invent/), [or](/post/or/) [plan](/post/plan/) [something](/post/something/) [with](/post/with/) [care](/post/care/) [and](/post/and/) ingenuity.
+2. [To](/post/to/) [determine](/post/determine/) [or](/post/or/) [figure](/post/figure/) [out](/post/out/) [a](/post/a/) [solution](/post/solution/) [or](/post/or/) [strategy](/post/strategy/) [for](/post/for/) [a](/post/a/) [problem](/post/problem/).
 
 ## Phrases
-- "[Devise](/en/post/devise/) [a](/en/post/a/) [solution](/en/post/solution/)"
-- "[Come](/en/post/come/) [up](/en/post/up/) [with](/en/post/with/) [a](/en/post/a/) [new](/en/post/new/) [devise](/en/post/devise/)"
-- "[To](/en/post/to/) [devise](/en/post/devise/) [a](/en/post/a/) [plan](/en/post/plan/)"
+- "[Devise](/post/devise/) [a](/post/a/) [solution](/post/solution/)"
+- "[Come](/post/come/) [up](/post/up/) [with](/post/with/) [a](/post/a/) [new](/post/new/) [devise](/post/devise/)"
+- "[To](/post/to/) [devise](/post/devise/) [a](/post/a/) [plan](/post/plan/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [engineer](/en/post/engineer/) devised [a](/en/post/a/) sleek [and](/en/post/and/) [efficient](/en/post/efficient/) [new](/en/post/new/) [design](/en/post/design/) [for](/en/post/for/) [the](/en/post/the/) [car](/en/post/car/) [engine](/en/post/engine/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [several](/en/post/several/) failed attempts, [they](/en/post/they/) devised [a](/en/post/a/) [clever](/en/post/clever/) [method](/en/post/method/) [to](/en/post/to/) [fix](/en/post/fix/) [the](/en/post/the/) [leak](/en/post/leak/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) devised [a](/en/post/a/) [system](/en/post/system/) [to](/en/post/to/) [organize](/en/post/organize/) [her](/en/post/her/) workspace [more](/en/post/more/) efficiently."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [engineer](/post/engineer/) devised [a](/post/a/) sleek [and](/post/and/) [efficient](/post/efficient/) [new](/post/new/) [design](/post/design/) [for](/post/for/) [the](/post/the/) [car](/post/car/) [engine](/post/engine/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [several](/post/several/) failed attempts, [they](/post/they/) devised [a](/post/a/) [clever](/post/clever/) [method](/post/method/) [to](/post/to/) [fix](/post/fix/) [the](/post/the/) [leak](/post/leak/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) devised [a](/post/a/) [system](/post/system/) [to](/post/to/) [organize](/post/organize/) [her](/post/her/) workspace [more](/post/more/) efficiently."
 
 ## Synonyms
-- [Invent](/en/post/invent/)
+- [Invent](/post/invent/)
 - Concoct
-- [Create](/en/post/create/)
+- [Create](/post/create/)
 - Formulate
-- [Develop](/en/post/develop/)
-- [Plan](/en/post/plan/)
-- [Design](/en/post/design/)
+- [Develop](/post/develop/)
+- [Plan](/post/plan/)
+- [Design](/post/design/)
 
 ## Antonyms
-- [Destroy](/en/post/destroy/)
-- [Abandon](/en/post/abandon/)
-- [Discard](/en/post/discard/)
-- [Neglect](/en/post/neglect/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) planning [or](/en/post/or/) devising)
+- [Destroy](/post/destroy/)
+- [Abandon](/post/abandon/)
+- [Discard](/post/discard/)
+- [Neglect](/post/neglect/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) planning [or](/post/or/) devising)
 
 ## Related Words
 - Contraption
-- [Instrument](/en/post/instrument/)
-- [Strategy](/en/post/strategy/)
-- [Technique](/en/post/technique/)
+- [Instrument](/post/instrument/)
+- [Strategy](/post/strategy/)
+- [Technique](/post/technique/)
 - Methodology

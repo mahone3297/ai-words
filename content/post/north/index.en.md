@@ -7,34 +7,34 @@ description = '[nɔːθ] n.北，北方 a.北方的'
 keywords = ['ai words', 'north']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /nɔːθ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [One](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [four](/en/post/four/) [main](/en/post/main/) points [of](/en/post/of/) [the](/en/post/the/) [compass](/en/post/compass/), located [at](/en/post/at/) 0°, [which](/en/post/which/) lies [directly](/en/post/directly/) [opposite](/en/post/opposite/) [south](/en/post/south/) [and](/en/post/and/) is [the](/en/post/the/) [direction](/en/post/direction/) towards [the](/en/post/the/) [North](/en/post/north/) [Pole](/en/post/pole/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) faces [north](/en/post/north/)."
-- **[Adjective](/en/post/adjective/)**: Situated [in](/en/post/in/), moving towards, [or](/en/post/or/) facing [the](/en/post/the/) [direction](/en/post/direction/) [of](/en/post/of/) [north](/en/post/north/). [For](/en/post/for/) [example](/en/post/example/): "We're [heading](/en/post/heading/) [north](/en/post/north/) [on](/en/post/on/) [the](/en/post/the/) [highway](/en/post/highway/)."
+- **[Noun](/post/noun/)**: [One](/post/one/) [of](/post/of/) [the](/post/the/) [four](/post/four/) [main](/post/main/) points [of](/post/of/) [the](/post/the/) [compass](/post/compass/), located [at](/post/at/) 0°, [which](/post/which/) lies [directly](/post/directly/) [opposite](/post/opposite/) [south](/post/south/) [and](/post/and/) is [the](/post/the/) [direction](/post/direction/) towards [the](/post/the/) [North](/post/north/) [Pole](/post/pole/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [house](/post/house/) faces [north](/post/north/)."
+- **[Adjective](/post/adjective/)**: Situated [in](/post/in/), moving towards, [or](/post/or/) facing [the](/post/the/) [direction](/post/direction/) [of](/post/of/) [north](/post/north/). [For](/post/for/) [example](/post/example/): "We're [heading](/post/heading/) [north](/post/north/) [on](/post/on/) [the](/post/the/) [highway](/post/highway/)."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- "[The](/en/post/the/) [sun](/en/post/sun/) rises [in](/en/post/in/) [the](/en/post/the/) [east](/en/post/east/) [and](/en/post/and/) sets [in](/en/post/in/) [the](/en/post/the/) [west](/en/post/west/), [while](/en/post/while/) [the](/en/post/the/) [North](/en/post/north/) [Star](/en/post/star/) [remains](/en/post/remains/) fixed [in](/en/post/in/) [the](/en/post/the/) [northern](/en/post/northern/) [sky](/en/post/sky/)."
-- "[She](/en/post/she/) moved [to](/en/post/to/) [the](/en/post/the/) [northern](/en/post/northern/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [country](/en/post/country/) [where](/en/post/where/) winters are colder."
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- "[The](/post/the/) [sun](/post/sun/) rises [in](/post/in/) [the](/post/the/) [east](/post/east/) [and](/post/and/) sets [in](/post/in/) [the](/post/the/) [west](/post/west/), [while](/post/while/) [the](/post/the/) [North](/post/north/) [Star](/post/star/) [remains](/post/remains/) fixed [in](/post/in/) [the](/post/the/) [northern](/post/northern/) [sky](/post/sky/)."
+- "[She](/post/she/) moved [to](/post/to/) [the](/post/the/) [northern](/post/northern/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [country](/post/country/) [where](/post/where/) winters are colder."
 
-### [Adjective](/en/post/adjective/) [Usage](/en/post/usage/) Examples
-- "[The](/en/post/the/) [north](/en/post/north/) [wind](/en/post/wind/) brought [a](/en/post/a/) [chill](/en/post/chill/) [to](/en/post/to/) [the](/en/post/the/) [air](/en/post/air/)."
-- "[The](/en/post/the/) north-facing windows [receive](/en/post/receive/) [less](/en/post/less/) [sunlight](/en/post/sunlight/)."
+### [Adjective](/post/adjective/) [Usage](/post/usage/) Examples
+- "[The](/post/the/) [north](/post/north/) [wind](/post/wind/) brought [a](/post/a/) [chill](/post/chill/) [to](/post/to/) [the](/post/the/) [air](/post/air/)."
+- "[The](/post/the/) north-facing windows [receive](/post/receive/) [less](/post/less/) [sunlight](/post/sunlight/)."
 
 ## Phrases
-- "[Go](/en/post/go/) [north](/en/post/north/)" [means](/en/post/means/) [to](/en/post/to/) [travel](/en/post/travel/) [in](/en/post/in/) [the](/en/post/the/) [direction](/en/post/direction/) [of](/en/post/of/) [the](/en/post/the/) [North](/en/post/north/) [Pole](/en/post/pole/).
-- "[North](/en/post/north/) [of](/en/post/of/) [something](/en/post/something/)" refers [to](/en/post/to/) [a](/en/post/a/) [location](/en/post/location/) [that](/en/post/that/) is [further](/en/post/further/) [up](/en/post/up/) [along](/en/post/along/) [the](/en/post/the/) [same](/en/post/same/) meridian [than](/en/post/than/) [another](/en/post/another/) [place](/en/post/place/). [Example](/en/post/example/): "[Our](/en/post/our/) [new](/en/post/new/) [house](/en/post/house/) is [north](/en/post/north/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) center."
-- "[To](/en/post/to/) [the](/en/post/the/) [north](/en/post/north/) [of](/en/post/of/)" signifies [a](/en/post/a/) [direction](/en/post/direction/) [or](/en/post/or/) [location](/en/post/location/) [relative](/en/post/relative/) [to](/en/post/to/) [something](/en/post/something/) [else](/en/post/else/). [Example](/en/post/example/): "Canada is [to](/en/post/to/) [the](/en/post/the/) [north](/en/post/north/) [of](/en/post/of/) [the](/en/post/the/) United States."
+- "[Go](/post/go/) [north](/post/north/)" [means](/post/means/) [to](/post/to/) [travel](/post/travel/) [in](/post/in/) [the](/post/the/) [direction](/post/direction/) [of](/post/of/) [the](/post/the/) [North](/post/north/) [Pole](/post/pole/).
+- "[North](/post/north/) [of](/post/of/) [something](/post/something/)" refers [to](/post/to/) [a](/post/a/) [location](/post/location/) [that](/post/that/) is [further](/post/further/) [up](/post/up/) [along](/post/along/) [the](/post/the/) [same](/post/same/) meridian [than](/post/than/) [another](/post/another/) [place](/post/place/). [Example](/post/example/): "[Our](/post/our/) [new](/post/new/) [house](/post/house/) is [north](/post/north/) [of](/post/of/) [the](/post/the/) [city](/post/city/) center."
+- "[To](/post/to/) [the](/post/the/) [north](/post/north/) [of](/post/of/)" signifies [a](/post/a/) [direction](/post/direction/) [or](/post/or/) [location](/post/location/) [relative](/post/relative/) [to](/post/to/) [something](/post/something/) [else](/post/else/). [Example](/post/example/): "Canada is [to](/post/to/) [the](/post/the/) [north](/post/north/) [of](/post/of/) [the](/post/the/) United States."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[They](/en/post/they/) embarked [on](/en/post/on/) [a](/en/post/a/) [journey](/en/post/journey/) [to](/en/post/to/) [explore](/en/post/explore/) [the](/en/post/the/) uncharted territories [of](/en/post/of/) [the](/en/post/the/) [north](/en/post/north/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [north](/en/post/north/) [side](/en/post/side/) [of](/en/post/of/) [the](/en/post/the/) [mountain](/en/post/mountain/) receives [less](/en/post/less/) snowfall [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) sheltered [position](/en/post/position/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[They](/post/they/) embarked [on](/post/on/) [a](/post/a/) [journey](/post/journey/) [to](/post/to/) [explore](/post/explore/) [the](/post/the/) uncharted territories [of](/post/of/) [the](/post/the/) [north](/post/north/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [north](/post/north/) [side](/post/side/) [of](/post/of/) [the](/post/the/) [mountain](/post/mountain/) receives [less](/post/less/) snowfall [due](/post/due/) [to](/post/to/) [its](/post/its/) sheltered [position](/post/position/)."
 
 ## Synonyms
-- Northerly ([adjective](/en/post/adjective/))
-- [Northern](/en/post/northern/) ([adjective](/en/post/adjective/))
--北极 ([noun](/en/post/noun/), referring [to](/en/post/to/) Earth's [North](/en/post/north/) [Pole](/en/post/pole/)) 
--北边 ([noun](/en/post/noun/), informal Chinese [for](/en/post/for/) "[the](/en/post/the/) [north](/en/post/north/)") 
+- Northerly ([adjective](/post/adjective/))
+- [Northern](/post/northern/) ([adjective](/post/adjective/))
+-北极 ([noun](/post/noun/), referring [to](/post/to/) Earth's [North](/post/north/) [Pole](/post/pole/)) 
+-北边 ([noun](/post/noun/), informal Chinese [for](/post/for/) "[the](/post/the/) [north](/post/north/)") 
 
-[Note](/en/post/note/): Depending [on](/en/post/on/) context, "[north](/en/post/north/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [mean](/en/post/mean/) '[upward](/en/post/upward/)' [in](/en/post/in/) terms [of](/en/post/of/) [progress](/en/post/progress/), advancement, [or](/en/post/or/) [improvement](/en/post/improvement/). [However](/en/post/however/), [this](/en/post/this/) [usage](/en/post/usage/) is [not](/en/post/not/) typically defined [in](/en/post/in/) [a](/en/post/a/) [dictionary](/en/post/dictionary/) [entry](/en/post/entry/) [like](/en/post/like/) [a](/en/post/a/) [standard](/en/post/standard/) geographical [reference](/en/post/reference/).
+[Note](/post/note/): Depending [on](/post/on/) context, "[north](/post/north/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [mean](/post/mean/) '[upward](/post/upward/)' [in](/post/in/) terms [of](/post/of/) [progress](/post/progress/), advancement, [or](/post/or/) [improvement](/post/improvement/). [However](/post/however/), [this](/post/this/) [usage](/post/usage/) is [not](/post/not/) typically defined [in](/post/in/) [a](/post/a/) [dictionary](/post/dictionary/) [entry](/post/entry/) [like](/post/like/) [a](/post/a/) [standard](/post/standard/) geographical [reference](/post/reference/).

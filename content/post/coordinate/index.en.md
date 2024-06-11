@@ -7,42 +7,42 @@ description = '[kəuˈɔːdinit] vt.使协调，调节'
 keywords = ['ai words', 'coordinate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəʊˈɔːrɪneɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [coordinate](/en/post/coordinate/) is [a](/en/post/a/) [noun](/en/post/noun/) [that](/en/post/that/) refers [to](/en/post/to/):
-1. [A](/en/post/a/) [point](/en/post/point/) [in](/en/post/in/) [a](/en/post/a/) [plane](/en/post/plane/) [or](/en/post/or/) [space](/en/post/space/), specified [by](/en/post/by/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) numbers [or](/en/post/or/) coordinates (e.g., latitude [and](/en/post/and/) longitude).
-2. [A](/en/post/a/) [system](/en/post/system/) [of](/en/post/of/) values [or](/en/post/or/) measures [that](/en/post/that/) are [used](/en/post/used/) [to](/en/post/to/) [locate](/en/post/locate/) [or](/en/post/or/) [identify](/en/post/identify/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) context, [such](/en/post/such/) [as](/en/post/as/) geographical coordinates [or](/en/post/or/) [musical](/en/post/musical/) keys.
-3. [A](/en/post/a/) [variable](/en/post/variable/) [or](/en/post/or/) [factor](/en/post/factor/) [in](/en/post/in/) [a](/en/post/a/) [mathematical](/en/post/mathematical/) [equation](/en/post/equation/) [or](/en/post/or/) [formula](/en/post/formula/) [that](/en/post/that/) helps [define](/en/post/define/) [the](/en/post/the/) [relationship](/en/post/relationship/) [between](/en/post/between/) [different](/en/post/different/) quantities.
+### [Noun](/post/noun/)
+[A](/post/a/) [coordinate](/post/coordinate/) is [a](/post/a/) [noun](/post/noun/) [that](/post/that/) refers [to](/post/to/):
+1. [A](/post/a/) [point](/post/point/) [in](/post/in/) [a](/post/a/) [plane](/post/plane/) [or](/post/or/) [space](/post/space/), specified [by](/post/by/) [one](/post/one/) [or](/post/or/) [more](/post/more/) numbers [or](/post/or/) coordinates (e.g., latitude [and](/post/and/) longitude).
+2. [A](/post/a/) [system](/post/system/) [of](/post/of/) values [or](/post/or/) measures [that](/post/that/) are [used](/post/used/) [to](/post/to/) [locate](/post/locate/) [or](/post/or/) [identify](/post/identify/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) context, [such](/post/such/) [as](/post/as/) geographical coordinates [or](/post/or/) [musical](/post/musical/) keys.
+3. [A](/post/a/) [variable](/post/variable/) [or](/post/or/) [factor](/post/factor/) [in](/post/in/) [a](/post/a/) [mathematical](/post/mathematical/) [equation](/post/equation/) [or](/post/or/) [formula](/post/formula/) [that](/post/that/) helps [define](/post/define/) [the](/post/the/) [relationship](/post/relationship/) [between](/post/between/) [different](/post/different/) quantities.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [coordinate](/en/post/coordinate/) is [a](/en/post/a/) [verb](/en/post/verb/) [meaning](/en/post/meaning/):
-1. [To](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) [manage](/en/post/manage/) [the](/en/post/the/) activities, actions, [or](/en/post/or/) parts [of](/en/post/of/) [something](/en/post/something/) [so](/en/post/so/) [they](/en/post/they/) [work](/en/post/work/) [together](/en/post/together/) effectively [or](/en/post/or/) harmoniously.
-2. [To](/en/post/to/) synchronize [or](/en/post/or/) align (elements, schedules, [or](/en/post/or/) [people](/en/post/people/)) [in](/en/post/in/) [a](/en/post/a/) coordinated [manner](/en/post/manner/).
-3. [In](/en/post/in/) [mathematics](/en/post/mathematics/), [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) coordinates [of](/en/post/of/) [a](/en/post/a/) [point](/en/post/point/) [on](/en/post/on/) [a](/en/post/a/) [graph](/en/post/graph/) [that](/en/post/that/) [satisfy](/en/post/satisfy/) [a](/en/post/a/) given [condition](/en/post/condition/).
+### [Verb](/post/verb/)
+[To](/post/to/) [coordinate](/post/coordinate/) is [a](/post/a/) [verb](/post/verb/) [meaning](/post/meaning/):
+1. [To](/post/to/) [arrange](/post/arrange/) [or](/post/or/) [manage](/post/manage/) [the](/post/the/) activities, actions, [or](/post/or/) parts [of](/post/of/) [something](/post/something/) [so](/post/so/) [they](/post/they/) [work](/post/work/) [together](/post/together/) effectively [or](/post/or/) harmoniously.
+2. [To](/post/to/) synchronize [or](/post/or/) align (elements, schedules, [or](/post/or/) [people](/post/people/)) [in](/post/in/) [a](/post/a/) coordinated [manner](/post/manner/).
+3. [In](/post/in/) [mathematics](/post/mathematics/), [to](/post/to/) [find](/post/find/) [the](/post/the/) coordinates [of](/post/of/) [a](/post/a/) [point](/post/point/) [on](/post/on/) [a](/post/a/) [graph](/post/graph/) [that](/post/that/) [satisfy](/post/satisfy/) [a](/post/a/) given [condition](/post/condition/).
 
-### [Adjective](/en/post/adjective/)
-Coordinated refers [to](/en/post/to/):
-1. Having [a](/en/post/a/) well-organized [or](/en/post/or/) planned [appearance](/en/post/appearance/) [or](/en/post/or/) [action](/en/post/action/).
-2. Working [in](/en/post/in/) [harmony](/en/post/harmony/) [or](/en/post/or/) [agreement](/en/post/agreement/) [with](/en/post/with/) [each](/en/post/each/) [other](/en/post/other/).
-3. Designed [or](/en/post/or/) functioning [in](/en/post/in/) coordination [with](/en/post/with/) [other](/en/post/other/) elements.
+### [Adjective](/post/adjective/)
+Coordinated refers [to](/post/to/):
+1. Having [a](/post/a/) well-organized [or](/post/or/) planned [appearance](/post/appearance/) [or](/post/or/) [action](/post/action/).
+2. Working [in](/post/in/) [harmony](/post/harmony/) [or](/post/or/) [agreement](/post/agreement/) [with](/post/with/) [each](/post/each/) [other](/post/other/).
+3. Designed [or](/post/or/) functioning [in](/post/in/) coordination [with](/post/with/) [other](/post/other/) elements.
 
 ## Phrases
-- "[Coordinate](/en/post/coordinate/) activities" [means](/en/post/means/) [to](/en/post/to/) [plan](/en/post/plan/) [and](/en/post/and/) [execute](/en/post/execute/) tasks [in](/en/post/in/) unison.
-- "[Coordinate](/en/post/coordinate/) outfits" refers [to](/en/post/to/) selecting [clothing](/en/post/clothing/) items [that](/en/post/that/) complement [each](/en/post/each/) [other](/en/post/other/).
-- "[Coordinate](/en/post/coordinate/) efforts" implies working [together](/en/post/together/) towards [a](/en/post/a/) shared [goal](/en/post/goal/).
+- "[Coordinate](/post/coordinate/) activities" [means](/post/means/) [to](/post/to/) [plan](/post/plan/) [and](/post/and/) [execute](/post/execute/) tasks [in](/post/in/) unison.
+- "[Coordinate](/post/coordinate/) outfits" refers [to](/post/to/) selecting [clothing](/post/clothing/) items [that](/post/that/) complement [each](/post/each/) [other](/post/other/).
+- "[Coordinate](/post/coordinate/) efforts" implies working [together](/post/together/) towards [a](/post/a/) shared [goal](/post/goal/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) GPS [system](/en/post/system/) uses latitude [and](/en/post/and/) longitude coordinates [to](/en/post/to/) pinpoint locations."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [team](/en/post/team/) members coordinated [their](/en/post/their/) efforts [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [on](/en/post/on/) [time](/en/post/time/)."
-- **[Adjective](/en/post/adjective/)**: "[Their](/en/post/their/) well-coordinated [dance](/en/post/dance/) [performance](/en/post/performance/) impressed [the](/en/post/the/) [audience](/en/post/audience/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) GPS [system](/post/system/) uses latitude [and](/post/and/) longitude coordinates [to](/post/to/) pinpoint locations."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [team](/post/team/) members coordinated [their](/post/their/) efforts [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [on](/post/on/) [time](/post/time/)."
+- **[Adjective](/post/adjective/)**: "[Their](/post/their/) well-coordinated [dance](/post/dance/) [performance](/post/performance/) impressed [the](/post/the/) [audience](/post/audience/)."
 
 ## Synonyms
 - Synchronize
 - Align
-- [Coordinate](/en/post/coordinate/) [with](/en/post/with/)
+- [Coordinate](/post/coordinate/) [with](/post/with/)
 - Harmonize
-- [Match](/en/post/match/)
+- [Match](/post/match/)
 - Integrate

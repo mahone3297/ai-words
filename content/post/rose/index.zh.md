@@ -11,20 +11,20 @@ keywords = ['ai words', 'rose']
 /roʊz/
 
 ## 释义
-- **名词 (n)**: 一种花，通常为红色、粉色或白色的蔷薇花，常作为礼物或装饰用途。例如: "[She](/post/she/) received [a](/post/a/) [beautiful](/post/beautiful/) bouquet [of](/post/of/) roses [on](/post/on/) [her](/post/her/) [birthday](/post/birthday/)."
-- **名词 (n)**: 姓氏，Rose作为人的名字。例如: "[The](/post/the/) singer's [name](/post/name/) is [Rose](/post/rose/) Smith."
+- **名词 (n)**: 一种花，通常为红色、粉色或白色的蔷薇花，常作为礼物或装饰用途。例如: "[She](/zh/post/she/) received [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) bouquet [of](/zh/post/of/) roses [on](/zh/post/on/) [her](/zh/post/her/) [birthday](/zh/post/birthday/)."
+- **名词 (n)**: 姓氏，Rose作为人的名字。例如: "[The](/zh/post/the/) singer's [name](/zh/post/name/) is [Rose](/zh/post/rose/) Smith."
 
 ## 短语
-- "[A](/post/a/) [rose](/post/rose/) [among](/post/among/) thorns" 比喻在恶劣环境中的一位美丽或优秀的人。
-- "Roses are [red](/post/red/), violets are [blue](/post/blue/)" 是一首传统的爱情诗的开头，用来表达情感。
+- "[A](/zh/post/a/) [rose](/zh/post/rose/) [among](/zh/post/among/) thorns" 比喻在恶劣环境中的一位美丽或优秀的人。
+- "Roses are [red](/zh/post/red/), violets are [blue](/zh/post/blue/)" 是一首传统的爱情诗的开头，用来表达情感。
 
 ## 例句
-- 名词: "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) [the](/post/the/) [sweet](/post/sweet/) fragrance [of](/post/of/) roses."
-- 姓氏: "[Rose](/post/rose/) is [a](/post/a/) [popular](/post/popular/) [name](/post/name/) [for](/post/for/) girls."
+- 名词: "[The](/zh/post/the/) [garden](/zh/post/garden/) was filled [with](/zh/post/with/) [the](/zh/post/the/) [sweet](/zh/post/sweet/) fragrance [of](/zh/post/of/) roses."
+- 姓氏: "[Rose](/zh/post/rose/) is [a](/zh/post/a/) [popular](/zh/post/popular/) [name](/zh/post/name/) [for](/zh/post/for/) girls."
 
 ## 同义词
-- [Flower](/post/flower/)
-- [Blossom](/post/blossom/)
-- [Bloom](/post/bloom/)
+- [Flower](/zh/post/flower/)
+- [Blossom](/zh/post/blossom/)
+- [Bloom](/zh/post/bloom/)
 - Carnation
 - Lily

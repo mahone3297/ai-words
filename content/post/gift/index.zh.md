@@ -12,20 +12,20 @@ keywords = ['ai words', 'gift']
 
 ## 释义
 - **名词**:
-  - 礼物；赠品：例如: "[She](/post/she/) received [a](/post/a/) [beautiful](/post/beautiful/) [gift](/post/gift/) [for](/post/for/) [her](/post/her/) [birthday](/post/birthday/)."
-  - 天赋；才能：例如: "[He](/post/he/) has [a](/post/a/) [natural](/post/natural/) [gift](/post/gift/) [for](/post/for/) [music](/post/music/)."
+  - 礼物；赠品：例如: "[She](/zh/post/she/) received [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [gift](/zh/post/gift/) [for](/zh/post/for/) [her](/zh/post/her/) [birthday](/zh/post/birthday/)."
+  - 天赋；才能：例如: "[He](/zh/post/he/) has [a](/zh/post/a/) [natural](/zh/post/natural/) [gift](/zh/post/gift/) [for](/zh/post/for/) [music](/zh/post/music/)."
 
 ## 短语
-- "[A](/post/a/) [gift](/post/gift/) [of](/post/of/)..." 用来描述某项特定的礼物：例如: "[A](/post/a/) [gift](/post/gift/) [of](/post/of/) flowers [for](/post/for/) [the](/post/the/) [hostess](/post/hostess/)."
-- "[To](/post/to/) [have](/post/have/) [a](/post/a/) [gift](/post/gift/) [for](/post/for/) [something](/post/something/)" 意味着在某方面有天赋：例如: "[She](/post/she/) has [a](/post/a/) [gift](/post/gift/) [for](/post/for/) [public](/post/public/) speaking."
+- "[A](/zh/post/a/) [gift](/zh/post/gift/) [of](/zh/post/of/)..." 用来描述某项特定的礼物：例如: "[A](/zh/post/a/) [gift](/zh/post/gift/) [of](/zh/post/of/) flowers [for](/zh/post/for/) [the](/zh/post/the/) [hostess](/zh/post/hostess/)."
+- "[To](/zh/post/to/) [have](/zh/post/have/) [a](/zh/post/a/) [gift](/zh/post/gift/) [for](/zh/post/for/) [something](/zh/post/something/)" 意味着在某方面有天赋：例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [gift](/zh/post/gift/) [for](/zh/post/for/) [public](/zh/post/public/) speaking."
 
 ## 例句
-- 名词: "[He](/post/he/) wrapped [the](/post/the/) [gift](/post/gift/) beautifully [before](/post/before/) giving [it](/post/it/) [to](/post/to/) [his](/post/his/) [friend](/post/friend/)."
-- 名词（天赋）: "[She](/post/she/) possesses [a](/post/a/) [great](/post/great/) [gift](/post/gift/) [for](/post/for/) languages."
+- 名词: "[He](/zh/post/he/) wrapped [the](/zh/post/the/) [gift](/zh/post/gift/) beautifully [before](/zh/post/before/) giving [it](/zh/post/it/) [to](/zh/post/to/) [his](/zh/post/his/) [friend](/zh/post/friend/)."
+- 名词（天赋）: "[She](/zh/post/she/) possesses [a](/zh/post/a/) [great](/zh/post/great/) [gift](/zh/post/gift/) [for](/zh/post/for/) languages."
 
 ## 同义词
-- [Present](/post/present/)
+- [Present](/zh/post/present/)
 - Offering
 - Donation
-- [Talent](/post/talent/)
+- [Talent](/zh/post/talent/)
 - Endowment

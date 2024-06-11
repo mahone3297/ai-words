@@ -7,38 +7,38 @@ description = '[ˈteligræm] n.电报'
 keywords = ['ai words', 'telegram']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɛlɪˈɡræm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [brief](/en/post/brief/) [electronic](/en/post/electronic/) [message](/en/post/message/) sent [from](/en/post/from/) [one](/en/post/one/) [person](/en/post/person/) [to](/en/post/to/) [another](/en/post/another/), [especially](/en/post/especially/) [through](/en/post/through/) [a](/en/post/a/) [telegraph](/en/post/telegraph/) [service](/en/post/service/).
-   [Example](/en/post/example/): "[She](/en/post/she/) received an [urgent](/en/post/urgent/) [telegram](/en/post/telegram/) [from](/en/post/from/) [her](/en/post/her/) [friend](/en/post/friend/) [abroad](/en/post/abroad/)."
-2. [A](/en/post/a/) [telegraph](/en/post/telegraph/) [message](/en/post/message/), [especially](/en/post/especially/) [one](/en/post/one/) conveying [official](/en/post/official/) [or](/en/post/or/) [important](/en/post/important/) [news](/en/post/news/).
-   [Example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) issued [a](/en/post/a/) [statement](/en/post/statement/) [via](/en/post/via/) [telegram](/en/post/telegram/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [brief](/post/brief/) [electronic](/post/electronic/) [message](/post/message/) sent [from](/post/from/) [one](/post/one/) [person](/post/person/) [to](/post/to/) [another](/post/another/), [especially](/post/especially/) [through](/post/through/) [a](/post/a/) [telegraph](/post/telegraph/) [service](/post/service/).
+   [Example](/post/example/): "[She](/post/she/) received an [urgent](/post/urgent/) [telegram](/post/telegram/) [from](/post/from/) [her](/post/her/) [friend](/post/friend/) [abroad](/post/abroad/)."
+2. [A](/post/a/) [telegraph](/post/telegraph/) [message](/post/message/), [especially](/post/especially/) [one](/post/one/) conveying [official](/post/official/) [or](/post/or/) [important](/post/important/) [news](/post/news/).
+   [Example](/post/example/): "[The](/post/the/) [government](/post/government/) issued [a](/post/a/) [statement](/post/statement/) [via](/post/via/) [telegram](/post/telegram/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [send](/en/post/send/) [or](/en/post/or/) [transmit](/en/post/transmit/) [a](/en/post/a/) [telegram](/en/post/telegram/).
-   [Example](/en/post/example/): "[He](/en/post/he/) [quickly](/en/post/quickly/) telegrammed [his](/en/post/his/) [family](/en/post/family/) [about](/en/post/about/) [his](/en/post/his/) [arrival](/en/post/arrival/)."
-2. (informal) [To](/en/post/to/) [send](/en/post/send/) [a](/en/post/a/) [brief](/en/post/brief/) [message](/en/post/message/) [or](/en/post/or/) notification.
-   [Example](/en/post/example/): "I'll [telegram](/en/post/telegram/) [you](/en/post/you/) [when](/en/post/when/) I [arrive](/en/post/arrive/) [at](/en/post/at/) [the](/en/post/the/) [hotel](/en/post/hotel/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [send](/post/send/) [or](/post/or/) [transmit](/post/transmit/) [a](/post/a/) [telegram](/post/telegram/).
+   [Example](/post/example/): "[He](/post/he/) [quickly](/post/quickly/) telegrammed [his](/post/his/) [family](/post/family/) [about](/post/about/) [his](/post/his/) [arrival](/post/arrival/)."
+2. (informal) [To](/post/to/) [send](/post/send/) [a](/post/a/) [brief](/post/brief/) [message](/post/message/) [or](/post/or/) notification.
+   [Example](/post/example/): "I'll [telegram](/post/telegram/) [you](/post/you/) [when](/post/when/) I [arrive](/post/arrive/) [at](/post/at/) [the](/post/the/) [hotel](/post/hotel/)."
 
 ## Phrases
-- "[Send](/en/post/send/) [a](/en/post/a/) [telegram](/en/post/telegram/)" [or](/en/post/or/) "[issue](/en/post/issue/) [a](/en/post/a/) [telegram](/en/post/telegram/)"
-- "[Telegram](/en/post/telegram/) [service](/en/post/service/)"
-- "[International](/en/post/international/) [telegram](/en/post/telegram/)"
+- "[Send](/post/send/) [a](/post/a/) [telegram](/post/telegram/)" [or](/post/or/) "[issue](/post/issue/) [a](/post/a/) [telegram](/post/telegram/)"
+- "[Telegram](/post/telegram/) [service](/post/service/)"
+- "[International](/post/international/) [telegram](/post/telegram/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [museum](/en/post/museum/) displayed vintage telegrams [from](/en/post/from/) [the](/en/post/the/) [early](/en/post/early/) 20th [century](/en/post/century/)."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) [the](/en/post/the/) [past](/en/post/past/), [people](/en/post/people/) [would](/en/post/would/) [telegram](/en/post/telegram/) [their](/en/post/their/) loved ones [during](/en/post/during/) emergencies."
-- **Informal**: "[Just](/en/post/just/) [telegram](/en/post/telegram/) [me](/en/post/me/) [the](/en/post/the/) [time](/en/post/time/) [of](/en/post/of/) [the](/en/post/the/) [meeting](/en/post/meeting/); I'll [be](/en/post/be/) [there](/en/post/there/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [museum](/post/museum/) displayed vintage telegrams [from](/post/from/) [the](/post/the/) [early](/post/early/) 20th [century](/post/century/)."
+- **[Verb](/post/verb/)**: "[In](/post/in/) [the](/post/the/) [past](/post/past/), [people](/post/people/) [would](/post/would/) [telegram](/post/telegram/) [their](/post/their/) loved ones [during](/post/during/) emergencies."
+- **Informal**: "[Just](/post/just/) [telegram](/post/telegram/) [me](/post/me/) [the](/post/the/) [time](/post/time/) [of](/post/of/) [the](/post/the/) [meeting](/post/meeting/); I'll [be](/post/be/) [there](/post/there/)."
 
 ## Synonyms
 - Telex
-- [Message](/en/post/message/) (informal)
+- [Message](/post/message/) (informal)
 - Dispatch
-- [Cable](/en/post/cable/) ([historical](/en/post/historical/))
+- [Cable](/post/cable/) ([historical](/post/historical/))
 - Notification
 
 ## Etymology
-Derived [from](/en/post/from/) [the](/en/post/the/) Greek words "tele" ([far](/en/post/far/)) [and](/en/post/and/) "gramma" ([letter](/en/post/letter/)), [it](/en/post/it/) was originally [a](/en/post/a/) [method](/en/post/method/) [of](/en/post/of/) sending written messages [over](/en/post/over/) [long](/en/post/long/) distances using Morse [code](/en/post/code/).
+Derived [from](/post/from/) [the](/post/the/) Greek words "tele" ([far](/post/far/)) [and](/post/and/) "gramma" ([letter](/post/letter/)), [it](/post/it/) was originally [a](/post/a/) [method](/post/method/) [of](/post/of/) sending written messages [over](/post/over/) [long](/post/long/) distances using Morse [code](/post/code/).

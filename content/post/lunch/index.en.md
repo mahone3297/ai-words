@@ -7,35 +7,35 @@ description = '[lʌnt∫] n.午餐，(美)便餐'
 keywords = ['ai words', 'lunch']
 +++
 
-## [Word](/en/post/word/): [Lunch](/en/post/lunch/)
+## [Word](/post/word/): [Lunch](/post/lunch/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lʌntʃ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [meal](/en/post/meal/) typically eaten [around](/en/post/around/) [midday](/en/post/midday/), [between](/en/post/between/) [breakfast](/en/post/breakfast/) [and](/en/post/and/) [dinner](/en/post/dinner/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [food](/en/post/food/) consumed [during](/en/post/during/) [this](/en/post/this/) [meal](/en/post/meal/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) packed [a](/en/post/a/) [sandwich](/en/post/sandwich/) [for](/en/post/for/) [her](/en/post/her/) [lunch](/en/post/lunch/)."
-  - [Phrase](/en/post/phrase/): "[To](/en/post/to/) [have](/en/post/have/) [lunch](/en/post/lunch/) [with](/en/post/with/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [meet](/en/post/meet/) [and](/en/post/and/) [eat](/en/post/eat/) [together](/en/post/together/) [during](/en/post/during/) [the](/en/post/the/) [midday](/en/post/midday/) [meal](/en/post/meal/). [Example](/en/post/example/): "I'm having [lunch](/en/post/lunch/) [with](/en/post/with/) [my](/en/post/my/) colleagues [today](/en/post/today/)."
-  - [Idiom](/en/post/idiom/): "Brown-bagging [it](/en/post/it/)" refers [to](/en/post/to/) bringing one's [own](/en/post/own/) [lunch](/en/post/lunch/) [from](/en/post/from/) [home](/en/post/home/), [usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) [brown](/en/post/brown/) [paper](/en/post/paper/) [bag](/en/post/bag/).
+- **[Noun](/post/noun/)**: [A](/post/a/) [meal](/post/meal/) typically eaten [around](/post/around/) [midday](/post/midday/), [between](/post/between/) [breakfast](/post/breakfast/) [and](/post/and/) [dinner](/post/dinner/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [food](/post/food/) consumed [during](/post/during/) [this](/post/this/) [meal](/post/meal/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) packed [a](/post/a/) [sandwich](/post/sandwich/) [for](/post/for/) [her](/post/her/) [lunch](/post/lunch/)."
+  - [Phrase](/post/phrase/): "[To](/post/to/) [have](/post/have/) [lunch](/post/lunch/) [with](/post/with/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [meet](/post/meet/) [and](/post/and/) [eat](/post/eat/) [together](/post/together/) [during](/post/during/) [the](/post/the/) [midday](/post/midday/) [meal](/post/meal/). [Example](/post/example/): "I'm having [lunch](/post/lunch/) [with](/post/with/) [my](/post/my/) colleagues [today](/post/today/)."
+  - [Idiom](/post/idiom/): "Brown-bagging [it](/post/it/)" refers [to](/post/to/) bringing one's [own](/post/own/) [lunch](/post/lunch/) [from](/post/from/) [home](/post/home/), [usually](/post/usually/) [in](/post/in/) [a](/post/a/) [brown](/post/brown/) [paper](/post/paper/) [bag](/post/bag/).
 
-### [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "We're going [out](/en/post/out/) [for](/en/post/for/) [lunch](/en/post/lunch/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [his](/en/post/his/) promotion."
-  - [In](/en/post/in/) [a](/en/post/a/) [phrase](/en/post/phrase/): "Let's [do](/en/post/do/) [lunch](/en/post/lunch/) [next](/en/post/next/) [week](/en/post/week/); I'll [treat](/en/post/treat/) [you](/en/post/you/) [to](/en/post/to/) [your](/en/post/your/) favorite café."
-  - Idiomatic [use](/en/post/use/): "[To](/en/post/to/) [save](/en/post/save/) [money](/en/post/money/), [he](/en/post/he/) decided [to](/en/post/to/) brown-bag [it](/en/post/it/) [every](/en/post/every/) [day](/en/post/day/) [this](/en/post/this/) [week](/en/post/week/)."
+### [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "We're going [out](/post/out/) [for](/post/for/) [lunch](/post/lunch/) [to](/post/to/) [celebrate](/post/celebrate/) [his](/post/his/) promotion."
+  - [In](/post/in/) [a](/post/a/) [phrase](/post/phrase/): "Let's [do](/post/do/) [lunch](/post/lunch/) [next](/post/next/) [week](/post/week/); I'll [treat](/post/treat/) [you](/post/you/) [to](/post/to/) [your](/post/your/) favorite café."
+  - Idiomatic [use](/post/use/): "[To](/post/to/) [save](/post/save/) [money](/post/money/), [he](/post/he/) decided [to](/post/to/) brown-bag [it](/post/it/) [every](/post/every/) [day](/post/day/) [this](/post/this/) [week](/post/week/)."
 
 ## Synonyms
-- [Midday](/en/post/midday/) [meal](/en/post/meal/)
-- [Noon](/en/post/noon/) [meal](/en/post/meal/)
+- [Midday](/post/midday/) [meal](/post/meal/)
+- [Noon](/post/noon/) [meal](/post/meal/)
 - Luncheon
-- [Dinner](/en/post/dinner/) ([in](/en/post/in/) [some](/en/post/some/) regions/cultures)
-- Breaktime [meal](/en/post/meal/)
-- Snack (informal [or](/en/post/or/) [light](/en/post/light/) lunches)
+- [Dinner](/post/dinner/) ([in](/post/in/) [some](/post/some/) regions/cultures)
+- Breaktime [meal](/post/meal/)
+- Snack (informal [or](/post/or/) [light](/post/light/) lunches)
 
 ## Phrases
-- "[Lunch](/en/post/lunch/) [break](/en/post/break/)" refers [to](/en/post/to/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [during](/en/post/during/) [the](/en/post/the/) workday [when](/en/post/when/) [people](/en/post/people/) [take](/en/post/take/) [a](/en/post/a/) [break](/en/post/break/) [to](/en/post/to/) [eat](/en/post/eat/) [lunch](/en/post/lunch/).
-- "[Power](/en/post/power/) [lunch](/en/post/lunch/)" describes [a](/en/post/a/) [business](/en/post/business/) [meeting](/en/post/meeting/) [or](/en/post/or/) networking [event](/en/post/event/) [that](/en/post/that/) takes [place](/en/post/place/) [over](/en/post/over/) [lunch](/en/post/lunch/).
-- "Working [lunch](/en/post/lunch/)" is [a](/en/post/a/) [meeting](/en/post/meeting/) [or](/en/post/or/) [work](/en/post/work/) [session](/en/post/session/) [where](/en/post/where/) participants [eat](/en/post/eat/) [their](/en/post/their/) [lunch](/en/post/lunch/) [while](/en/post/while/) discussing [business](/en/post/business/) matters.
+- "[Lunch](/post/lunch/) [break](/post/break/)" refers [to](/post/to/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [during](/post/during/) [the](/post/the/) workday [when](/post/when/) [people](/post/people/) [take](/post/take/) [a](/post/a/) [break](/post/break/) [to](/post/to/) [eat](/post/eat/) [lunch](/post/lunch/).
+- "[Power](/post/power/) [lunch](/post/lunch/)" describes [a](/post/a/) [business](/post/business/) [meeting](/post/meeting/) [or](/post/or/) networking [event](/post/event/) [that](/post/that/) takes [place](/post/place/) [over](/post/over/) [lunch](/post/lunch/).
+- "Working [lunch](/post/lunch/)" is [a](/post/a/) [meeting](/post/meeting/) [or](/post/or/) [work](/post/work/) [session](/post/session/) [where](/post/where/) participants [eat](/post/eat/) [their](/post/their/) [lunch](/post/lunch/) [while](/post/while/) discussing [business](/post/business/) matters.
 
-## [Example](/en/post/example/) Sentences [with](/en/post/with/) Phrases
-- **[Lunch](/en/post/lunch/) [break](/en/post/break/)**: "[During](/en/post/during/) [my](/en/post/my/) [lunch](/en/post/lunch/) [break](/en/post/break/), I [like](/en/post/like/) [to](/en/post/to/) [read](/en/post/read/) [a](/en/post/a/) [book](/en/post/book/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Power](/en/post/power/) [lunch](/en/post/lunch/)**: "[The](/en/post/the/) executives held [a](/en/post/a/) [power](/en/post/power/) [lunch](/en/post/lunch/) [to](/en/post/to/) [discuss](/en/post/discuss/) [the](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/) plans."
-- **Working [lunch](/en/post/lunch/)**: "[We](/en/post/we/) had [a](/en/post/a/) working [lunch](/en/post/lunch/) [today](/en/post/today/) [to](/en/post/to/) [review](/en/post/review/) [the](/en/post/the/) [progress](/en/post/progress/) [of](/en/post/of/) [our](/en/post/our/) [team](/en/post/team/)."
+## [Example](/post/example/) Sentences [with](/post/with/) Phrases
+- **[Lunch](/post/lunch/) [break](/post/break/)**: "[During](/post/during/) [my](/post/my/) [lunch](/post/lunch/) [break](/post/break/), I [like](/post/like/) [to](/post/to/) [read](/post/read/) [a](/post/a/) [book](/post/book/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **[Power](/post/power/) [lunch](/post/lunch/)**: "[The](/post/the/) executives held [a](/post/a/) [power](/post/power/) [lunch](/post/lunch/) [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) [new](/post/new/) [project](/post/project/) plans."
+- **Working [lunch](/post/lunch/)**: "[We](/post/we/) had [a](/post/a/) working [lunch](/post/lunch/) [today](/post/today/) [to](/post/to/) [review](/post/review/) [the](/post/the/) [progress](/post/progress/) [of](/post/of/) [our](/post/our/) [team](/post/team/)."

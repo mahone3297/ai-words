@@ -7,33 +7,33 @@ description = '[hɔːl] n.门厅；过道；会堂'
 keywords = ['ai words', 'hall']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /hɔːl/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [large](/en/post/large/) [room](/en/post/room/) [or](/en/post/or/) [building](/en/post/building/) [for](/en/post/for/) [public](/en/post/public/) gatherings, [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) [formal](/en/post/formal/) events, meetings, [or](/en/post/or/) dining; [sometimes](/en/post/sometimes/) [found](/en/post/found/) [in](/en/post/in/) schools, colleges, [or](/en/post/or/) churches. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [grand](/en/post/grand/) ballroom was transformed [into](/en/post/into/) [a](/en/post/a/) [magnificent](/en/post/magnificent/) banquet [hall](/en/post/hall/) [for](/en/post/for/) [the](/en/post/the/) [royal](/en/post/royal/) [wedding](/en/post/wedding/)."
-- **[Noun](/en/post/noun/) (n)**: [In](/en/post/in/) [a](/en/post/a/) [university](/en/post/university/) [or](/en/post/or/) [college](/en/post/college/), [a](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [building](/en/post/building/) [where](/en/post/where/) students [eat](/en/post/eat/), socialize, [or](/en/post/or/) [have](/en/post/have/) meetings. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) freshmen gathered [in](/en/post/in/) [the](/en/post/the/) [main](/en/post/main/) [hall](/en/post/hall/) [for](/en/post/for/) [their](/en/post/their/) orientation [session](/en/post/session/)."
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [central](/en/post/central/) [area](/en/post/area/) [or](/en/post/or/) [corridor](/en/post/corridor/) [of](/en/post/of/) [a](/en/post/a/) [building](/en/post/building/), [especially](/en/post/especially/) [one](/en/post/one/) [with](/en/post/with/) rooms [leading](/en/post/leading/) [off](/en/post/off/) [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) manor [house](/en/post/house/) had [a](/en/post/a/) [long](/en/post/long/), oak-paneled hallway [that](/en/post/that/) echoed [with](/en/post/with/) [each](/en/post/each/) [footstep](/en/post/footstep/)."
-- **[Noun](/en/post/noun/) (n)**: [In](/en/post/in/) [a](/en/post/a/) [dormitory](/en/post/dormitory/), [a](/en/post/a/) [large](/en/post/large/) [room](/en/post/room/) shared [by](/en/post/by/) [several](/en/post/several/) [people](/en/post/people/) sleeping [in](/en/post/in/) [separate](/en/post/separate/) beds. [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) [dormitory](/en/post/dormitory/) [floor](/en/post/floor/) houses [two](/en/post/two/) [large](/en/post/large/) halls, accommodating [up](/en/post/up/) [to](/en/post/to/) 20 students [each](/en/post/each/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [large](/post/large/) [room](/post/room/) [or](/post/or/) [building](/post/building/) [for](/post/for/) [public](/post/public/) gatherings, [often](/post/often/) [used](/post/used/) [for](/post/for/) [formal](/post/formal/) events, meetings, [or](/post/or/) dining; [sometimes](/post/sometimes/) [found](/post/found/) [in](/post/in/) schools, colleges, [or](/post/or/) churches. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [grand](/post/grand/) ballroom was transformed [into](/post/into/) [a](/post/a/) [magnificent](/post/magnificent/) banquet [hall](/post/hall/) [for](/post/for/) [the](/post/the/) [royal](/post/royal/) [wedding](/post/wedding/)."
+- **[Noun](/post/noun/) (n)**: [In](/post/in/) [a](/post/a/) [university](/post/university/) [or](/post/or/) [college](/post/college/), [a](/post/a/) [building](/post/building/) [or](/post/or/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [building](/post/building/) [where](/post/where/) students [eat](/post/eat/), socialize, [or](/post/or/) [have](/post/have/) meetings. [For](/post/for/) [example](/post/example/): "[The](/post/the/) freshmen gathered [in](/post/in/) [the](/post/the/) [main](/post/main/) [hall](/post/hall/) [for](/post/for/) [their](/post/their/) orientation [session](/post/session/)."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [central](/post/central/) [area](/post/area/) [or](/post/or/) [corridor](/post/corridor/) [of](/post/of/) [a](/post/a/) [building](/post/building/), [especially](/post/especially/) [one](/post/one/) [with](/post/with/) rooms [leading](/post/leading/) [off](/post/off/) [it](/post/it/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [old](/post/old/) manor [house](/post/house/) had [a](/post/a/) [long](/post/long/), oak-paneled hallway [that](/post/that/) echoed [with](/post/with/) [each](/post/each/) [footstep](/post/footstep/)."
+- **[Noun](/post/noun/) (n)**: [In](/post/in/) [a](/post/a/) [dormitory](/post/dormitory/), [a](/post/a/) [large](/post/large/) [room](/post/room/) shared [by](/post/by/) [several](/post/several/) [people](/post/people/) sleeping [in](/post/in/) [separate](/post/separate/) beds. [For](/post/for/) [example](/post/example/): "[Each](/post/each/) [dormitory](/post/dormitory/) [floor](/post/floor/) houses [two](/post/two/) [large](/post/large/) halls, accommodating [up](/post/up/) [to](/post/to/) 20 students [each](/post/each/)."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [hall](/en/post/hall/) [of](/en/post/of/) [fame](/en/post/fame/)": Refers [to](/en/post/to/) [a](/en/post/a/) [place](/en/post/place/) [that](/en/post/that/) honors exceptional individuals [or](/en/post/or/) achievements.
-- "[Hall](/en/post/hall/) [pass](/en/post/pass/)": [A](/en/post/a/) [permission](/en/post/permission/) [slip](/en/post/slip/) allowing [a](/en/post/a/) [student](/en/post/student/) [to](/en/post/to/) [leave](/en/post/leave/) [class](/en/post/class/) [or](/en/post/or/) roam [the](/en/post/the/) halls [during](/en/post/during/) [school](/en/post/school/) hours.
-- "[To](/en/post/to/) [make](/en/post/make/) one's [presence](/en/post/presence/) felt [in](/en/post/in/) [the](/en/post/the/) [hall](/en/post/hall/) [of](/en/post/of/) [power](/en/post/power/)": [To](/en/post/to/) [become](/en/post/become/) [influential](/en/post/influential/) [in](/en/post/in/) [a](/en/post/a/) high-level decision-making [environment](/en/post/environment/).
+- "[In](/post/in/) [the](/post/the/) [hall](/post/hall/) [of](/post/of/) [fame](/post/fame/)": Refers [to](/post/to/) [a](/post/a/) [place](/post/place/) [that](/post/that/) honors exceptional individuals [or](/post/or/) achievements.
+- "[Hall](/post/hall/) [pass](/post/pass/)": [A](/post/a/) [permission](/post/permission/) [slip](/post/slip/) allowing [a](/post/a/) [student](/post/student/) [to](/post/to/) [leave](/post/leave/) [class](/post/class/) [or](/post/or/) roam [the](/post/the/) halls [during](/post/during/) [school](/post/school/) hours.
+- "[To](/post/to/) [make](/post/make/) one's [presence](/post/presence/) felt [in](/post/in/) [the](/post/the/) [hall](/post/hall/) [of](/post/of/) [power](/post/power/)": [To](/post/to/) [become](/post/become/) [influential](/post/influential/) [in](/post/in/) [a](/post/a/) high-level decision-making [environment](/post/environment/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [assembly](/en/post/assembly/) [hall](/en/post/hall/) resonated [with](/en/post/with/) applause [as](/en/post/as/) [the](/en/post/the/) [speaker](/en/post/speaker/) took [the](/en/post/the/) [stage](/en/post/stage/)."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [dinner](/en/post/dinner/), guests spilled [out](/en/post/out/) [from](/en/post/from/) [the](/en/post/the/) dining [hall](/en/post/hall/) [into](/en/post/into/) [the](/en/post/the/) gardens."
-- **[Noun](/en/post/noun/)**: "[During](/en/post/during/) [the](/en/post/the/) [fire](/en/post/fire/) [drill](/en/post/drill/), [all](/en/post/all/) students were required [to](/en/post/to/) evacuate [the](/en/post/the/) [dormitory](/en/post/dormitory/) halls [immediately](/en/post/immediately/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [assembly](/post/assembly/) [hall](/post/hall/) resonated [with](/post/with/) applause [as](/post/as/) [the](/post/the/) [speaker](/post/speaker/) took [the](/post/the/) [stage](/post/stage/)."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [dinner](/post/dinner/), guests spilled [out](/post/out/) [from](/post/from/) [the](/post/the/) dining [hall](/post/hall/) [into](/post/into/) [the](/post/the/) gardens."
+- **[Noun](/post/noun/)**: "[During](/post/during/) [the](/post/the/) [fire](/post/fire/) [drill](/post/drill/), [all](/post/all/) students were required [to](/post/to/) evacuate [the](/post/the/) [dormitory](/post/dormitory/) halls [immediately](/post/immediately/)."
 
 ## Synonyms
 - Auditorium
-- [Assembly](/en/post/assembly/) [room](/en/post/room/)
-- Banquet [room](/en/post/room/)
-- [Common](/en/post/common/) [room](/en/post/room/)
-- [Corridor](/en/post/corridor/)
+- [Assembly](/post/assembly/) [room](/post/room/)
+- Banquet [room](/post/room/)
+- [Common](/post/common/) [room](/post/room/)
+- [Corridor](/post/corridor/)
 - Foyer
 - Lobby
-- [Passage](/en/post/passage/)
-- [Room](/en/post/room/)
+- [Passage](/post/passage/)
+- [Room](/post/room/)
 - Vestibule

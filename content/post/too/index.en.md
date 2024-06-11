@@ -7,33 +7,33 @@ description = '[tuː] ad.也，还；太，过分'
 keywords = ['ai words', 'too']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[to](/en/post/to/)͞o/
+## [Pronunciation](/post/pronunciation/)
+/[to](/post/to/)͞o/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: 1. [In](/en/post/in/) [addition](/en/post/addition/); [also](/en/post/also/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) likes [ice](/en/post/ice/) [cream](/en/post/cream/) [too](/en/post/too/)." 2. Excessively; [to](/en/post/to/) an [excessive](/en/post/excessive/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was [too](/en/post/too/) [loud](/en/post/loud/) [at](/en/post/at/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **[Adjective](/en/post/adjective/)**: 1. [Beyond](/en/post/beyond/) [what](/en/post/what/) is [necessary](/en/post/necessary/) [or](/en/post/or/) [appropriate](/en/post/appropriate/); [excessive](/en/post/excessive/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [noise](/en/post/noise/) was [too](/en/post/too/) [much](/en/post/much/) [to](/en/post/to/) [bear](/en/post/bear/)." 2. [Beyond](/en/post/beyond/) [a](/en/post/a/) [certain](/en/post/certain/) [point](/en/post/point/); [to](/en/post/to/) [the](/en/post/the/) [limit](/en/post/limit/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [too](/en/post/too/) [tired](/en/post/tired/) [to](/en/post/to/) [continue](/en/post/continue/)."
+- **[Adverb](/post/adverb/)**: 1. [In](/post/in/) [addition](/post/addition/); [also](/post/also/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) likes [ice](/post/ice/) [cream](/post/cream/) [too](/post/too/)." 2. Excessively; [to](/post/to/) an [excessive](/post/excessive/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) was [too](/post/too/) [loud](/post/loud/) [at](/post/at/) [the](/post/the/) [meeting](/post/meeting/)."
+- **[Adjective](/post/adjective/)**: 1. [Beyond](/post/beyond/) [what](/post/what/) is [necessary](/post/necessary/) [or](/post/or/) [appropriate](/post/appropriate/); [excessive](/post/excessive/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [noise](/post/noise/) was [too](/post/too/) [much](/post/much/) [to](/post/to/) [bear](/post/bear/)." 2. [Beyond](/post/beyond/) [a](/post/a/) [certain](/post/certain/) [point](/post/point/); [to](/post/to/) [the](/post/the/) [limit](/post/limit/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [too](/post/too/) [tired](/post/tired/) [to](/post/to/) [continue](/post/continue/)."
 
 ## Phrases
-- "[Too](/en/post/too/) [much](/en/post/much/) [of](/en/post/of/) [something](/en/post/something/)" implies an [excess](/en/post/excess/) [or](/en/post/or/) overabundance.
-- "She's [not](/en/post/not/) coming, she's [already](/en/post/already/) [too](/en/post/too/) [busy](/en/post/busy/)." [means](/en/post/means/) [she](/en/post/she/) has [no](/en/post/no/) [spare](/en/post/spare/) [time](/en/post/time/).
-- "It's [too](/en/post/too/) [late](/en/post/late/) [to](/en/post/to/) [change](/en/post/change/) [now](/en/post/now/)" suggests it's [impossible](/en/post/impossible/) [or](/en/post/or/) impractical [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [change](/en/post/change/).
+- "[Too](/post/too/) [much](/post/much/) [of](/post/of/) [something](/post/something/)" implies an [excess](/post/excess/) [or](/post/or/) overabundance.
+- "She's [not](/post/not/) coming, she's [already](/post/already/) [too](/post/too/) [busy](/post/busy/)." [means](/post/means/) [she](/post/she/) has [no](/post/no/) [spare](/post/spare/) [time](/post/time/).
+- "It's [too](/post/too/) [late](/post/late/) [to](/post/to/) [change](/post/change/) [now](/post/now/)" suggests it's [impossible](/post/impossible/) [or](/post/or/) impractical [to](/post/to/) [make](/post/make/) [a](/post/a/) [change](/post/change/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I [love](/en/post/love/) [both](/en/post/both/) pizza [and](/en/post/and/) pasta, [but](/en/post/but/) [tonight](/en/post/tonight/), I'll [have](/en/post/have/) pizza, [too](/en/post/too/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [cake](/en/post/cake/) was [so](/en/post/so/) [sweet](/en/post/sweet/), [it](/en/post/it/) was [almost](/en/post/almost/) [too](/en/post/too/) [sweet](/en/post/sweet/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) worked [too](/en/post/too/) [hard](/en/post/hard/) [and](/en/post/and/) ended [up](/en/post/up/) getting [sick](/en/post/sick/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I [love](/post/love/) [both](/post/both/) pizza [and](/post/and/) pasta, [but](/post/but/) [tonight](/post/tonight/), I'll [have](/post/have/) pizza, [too](/post/too/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [cake](/post/cake/) was [so](/post/so/) [sweet](/post/sweet/), [it](/post/it/) was [almost](/post/almost/) [too](/post/too/) [sweet](/post/sweet/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) worked [too](/post/too/) [hard](/post/hard/) [and](/post/and/) ended [up](/post/up/) getting [sick](/post/sick/)."
 
-## Synonyms ([adverb](/en/post/adverb/))
-- [Also](/en/post/also/)
+## Synonyms ([adverb](/post/adverb/))
+- [Also](/post/also/)
 - Additionally
-- [Furthermore](/en/post/furthermore/)
-- [Moreover](/en/post/moreover/)
-- [Besides](/en/post/besides/)
+- [Furthermore](/post/furthermore/)
+- [Moreover](/post/moreover/)
+- [Besides](/post/besides/)
 
-## Synonyms ([adjective](/en/post/adjective/))
-- [Excessive](/en/post/excessive/)
+## Synonyms ([adjective](/post/adjective/))
+- [Excessive](/post/excessive/)
 - Overwhelming
 - Insufficiently
-- [Beyond](/en/post/beyond/)
-- [Past](/en/post/past/) [the](/en/post/the/) [point](/en/post/point/) [of](/en/post/of/)
+- [Beyond](/post/beyond/)
+- [Past](/post/past/) [the](/post/the/) [point](/post/point/) [of](/post/of/)

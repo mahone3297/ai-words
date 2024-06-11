@@ -7,40 +7,40 @@ description = '[ˈkɔŋkə] vt.征服，战胜；破除'
 keywords = ['ai words', 'conquer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈkɜːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Conquest](/en/post/conquest/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) gaining [control](/en/post/control/) [or](/en/post/or/) [victory](/en/post/victory/) [over](/en/post/over/) [a](/en/post/a/) [place](/en/post/place/), [people](/en/post/people/), [or](/en/post/or/) [enemy](/en/post/enemy/) [through](/en/post/through/) [military](/en/post/military/) [force](/en/post/force/) [or](/en/post/or/) [other](/en/post/other/) [means](/en/post/means/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) Spanish [conquest](/en/post/conquest/) [of](/en/post/of/) [the](/en/post/the/) Americas marked [a](/en/post/a/) [significant](/en/post/significant/) [historical](/en/post/historical/) [event](/en/post/event/)."
-- **[Victory](/en/post/victory/)**: [The](/en/post/the/) attainment [of](/en/post/of/) superiority [over](/en/post/over/) an [opponent](/en/post/opponent/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/) [or](/en/post/or/) [battle](/en/post/battle/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [he](/en/post/he/) [finally](/en/post/finally/) achieved [his](/en/post/his/) [academic](/en/post/academic/) [conquest](/en/post/conquest/)."
+### [Noun](/post/noun/)
+- **[Conquest](/post/conquest/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) gaining [control](/post/control/) [or](/post/or/) [victory](/post/victory/) [over](/post/over/) [a](/post/a/) [place](/post/place/), [people](/post/people/), [or](/post/or/) [enemy](/post/enemy/) [through](/post/through/) [military](/post/military/) [force](/post/force/) [or](/post/or/) [other](/post/other/) [means](/post/means/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) Spanish [conquest](/post/conquest/) [of](/post/of/) [the](/post/the/) Americas marked [a](/post/a/) [significant](/post/significant/) [historical](/post/historical/) [event](/post/event/)."
+- **[Victory](/post/victory/)**: [The](/post/the/) attainment [of](/post/of/) superiority [over](/post/over/) an [opponent](/post/opponent/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [competition](/post/competition/) [or](/post/or/) [battle](/post/battle/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) months [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) [finally](/post/finally/) achieved [his](/post/his/) [academic](/post/academic/) [conquest](/post/conquest/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [conquer](/en/post/conquer/)**: [To](/en/post/to/) [overcome](/en/post/overcome/) [or](/en/post/or/) [defeat](/en/post/defeat/) (an [opponent](/en/post/opponent/), [territory](/en/post/territory/), [or](/en/post/or/) [challenge](/en/post/challenge/)). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [ancient](/en/post/ancient/) Romans conquered [many](/en/post/many/) territories [throughout](/en/post/throughout/) [their](/en/post/their/) [empire](/en/post/empire/)."
-- **Subjugate**: [To](/en/post/to/) [bring](/en/post/bring/) [under](/en/post/under/) [complete](/en/post/complete/) [control](/en/post/control/) [or](/en/post/or/) domination. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) colonizers sought [to](/en/post/to/) [conquer](/en/post/conquer/) [and](/en/post/and/) subjugate [the](/en/post/the/) indigenous [population](/en/post/population/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [conquer](/post/conquer/)**: [To](/post/to/) [overcome](/post/overcome/) [or](/post/or/) [defeat](/post/defeat/) (an [opponent](/post/opponent/), [territory](/post/territory/), [or](/post/or/) [challenge](/post/challenge/)). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [ancient](/post/ancient/) Romans conquered [many](/post/many/) territories [throughout](/post/throughout/) [their](/post/their/) [empire](/post/empire/)."
+- **Subjugate**: [To](/post/to/) [bring](/post/bring/) [under](/post/under/) [complete](/post/complete/) [control](/post/control/) [or](/post/or/) domination. [For](/post/for/) [example](/post/example/): "[The](/post/the/) colonizers sought [to](/post/to/) [conquer](/post/conquer/) [and](/post/and/) subjugate [the](/post/the/) indigenous [population](/post/population/)."
 
-### [Adjective](/en/post/adjective/)
-- **Conquering**: Characterized [by](/en/post/by/) [successful](/en/post/successful/) [conquest](/en/post/conquest/); [victorious](/en/post/victorious/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) conquering [hero](/en/post/hero/) returned [home](/en/post/home/) [as](/en/post/as/) [a](/en/post/a/) [national](/en/post/national/) [hero](/en/post/hero/)."
-- **Dominant**: Having [power](/en/post/power/) [or](/en/post/or/) [influence](/en/post/influence/) [over](/en/post/over/) others. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) conquering [culture](/en/post/culture/) imposed [its](/en/post/its/) [language](/en/post/language/) [and](/en/post/and/) customs [on](/en/post/on/) [the](/en/post/the/) conquered [people](/en/post/people/)."
+### [Adjective](/post/adjective/)
+- **Conquering**: Characterized [by](/post/by/) [successful](/post/successful/) [conquest](/post/conquest/); [victorious](/post/victorious/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) conquering [hero](/post/hero/) returned [home](/post/home/) [as](/post/as/) [a](/post/a/) [national](/post/national/) [hero](/post/hero/)."
+- **Dominant**: Having [power](/post/power/) [or](/post/or/) [influence](/post/influence/) [over](/post/over/) others. [For](/post/for/) [example](/post/example/): "[The](/post/the/) conquering [culture](/post/culture/) imposed [its](/post/its/) [language](/post/language/) [and](/post/and/) customs [on](/post/on/) [the](/post/the/) conquered [people](/post/people/)."
 
 ## Phrases
-- "[Victorious](/en/post/victorious/) [conquest](/en/post/conquest/)"
-- "[Conquest](/en/post/conquest/) [of](/en/post/of/) [fear](/en/post/fear/)"
-- "[Conquer](/en/post/conquer/) [a](/en/post/a/) [disease](/en/post/disease/)"
-- "[She](/en/post/she/) conquered [her](/en/post/her/) [stage](/en/post/stage/) fright"
-- "[A](/en/post/a/) [new](/en/post/new/) [conquest](/en/post/conquest/)"
+- "[Victorious](/post/victorious/) [conquest](/post/conquest/)"
+- "[Conquest](/post/conquest/) [of](/post/of/) [fear](/post/fear/)"
+- "[Conquer](/post/conquer/) [a](/post/a/) [disease](/post/disease/)"
+- "[She](/post/she/) conquered [her](/post/her/) [stage](/post/stage/) fright"
+- "[A](/post/a/) [new](/post/new/) [conquest](/post/conquest/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) British [conquest](/en/post/conquest/) [of](/en/post/of/) India was [a](/en/post/a/) pivotal [moment](/en/post/moment/) [in](/en/post/in/) [history](/en/post/history/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) [struggle](/en/post/struggle/), [he](/en/post/he/) [finally](/en/post/finally/) conquered [his](/en/post/his/) addiction."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) conquering [army](/en/post/army/) marched [through](/en/post/through/) [the](/en/post/the/) conquered lands [with](/en/post/with/) [pride](/en/post/pride/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) British [conquest](/post/conquest/) [of](/post/of/) India was [a](/post/a/) pivotal [moment](/post/moment/) [in](/post/in/) [history](/post/history/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) years [of](/post/of/) [struggle](/post/struggle/), [he](/post/he/) [finally](/post/finally/) conquered [his](/post/his/) addiction."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) conquering [army](/post/army/) marched [through](/post/through/) [the](/post/the/) conquered lands [with](/post/with/) [pride](/post/pride/)."
 
 ## Synonyms
-- [Conquer](/en/post/conquer/)
-- [Overcome](/en/post/overcome/)
+- [Conquer](/post/conquer/)
+- [Overcome](/post/overcome/)
 - Dominate
 - vanquish
 - subdue
-- [triumph](/en/post/triumph/)
-- [prevail](/en/post/prevail/)
+- [triumph](/post/triumph/)
+- [prevail](/post/prevail/)
 - suppress

@@ -11,20 +11,20 @@ keywords = ['ai words', 'formula']
 /fəˈrəʊmə/
 
 ## 释义
-- **名词 (n)**: 一套固定的表达式或程序，通常用于解决特定问题或计算。例如: "[The](/post/the/) [chemical](/post/chemical/) [formula](/post/formula/) [for](/post/for/) [water](/post/water/) is H2O."
-- **名词**: 在数学、科学或工程中，一个表达式或方程式，展示变量之间的关系。例如: "E=mc² is Einstein's [famous](/post/famous/) energy-mass [formula](/post/formula/)."
+- **名词 (n)**: 一套固定的表达式或程序，通常用于解决特定问题或计算。例如: "[The](/zh/post/the/) [chemical](/zh/post/chemical/) [formula](/zh/post/formula/) [for](/zh/post/for/) [water](/zh/post/water/) is H2O."
+- **名词**: 在数学、科学或工程中，一个表达式或方程式，展示变量之间的关系。例如: "E=mc² is Einstein's [famous](/zh/post/famous/) energy-mass [formula](/zh/post/formula/)."
 
 ## 短语
-- "[Formula](/post/formula/) [one](/post/one/)" 或 "F1" 指的是一级方程式赛车运动。
-- "[Infant](/post/infant/) [formula](/post/formula/)" 是指婴儿奶粉或人工喂养的配方。
+- "[Formula](/zh/post/formula/) [one](/zh/post/one/)" 或 "F1" 指的是一级方程式赛车运动。
+- "[Infant](/zh/post/infant/) [formula](/zh/post/formula/)" 是指婴儿奶粉或人工喂养的配方。
 
 ## 例句
-- 名词: "[The](/post/the/) [economic](/post/economic/) [growth](/post/growth/) [formula](/post/formula/) includes factors [like](/post/like/) [investment](/post/investment/), [consumption](/post/consumption/), [and](/post/and/) exports."
-- 名词: "[The](/post/the/) [baby](/post/baby/) was fed [with](/post/with/) [a](/post/a/) [special](/post/special/) [formula](/post/formula/) designed [for](/post/for/) premature infants."
+- 名词: "[The](/zh/post/the/) [economic](/zh/post/economic/) [growth](/zh/post/growth/) [formula](/zh/post/formula/) includes factors [like](/zh/post/like/) [investment](/zh/post/investment/), [consumption](/zh/post/consumption/), [and](/zh/post/and/) exports."
+- 名词: "[The](/zh/post/the/) [baby](/zh/post/baby/) was fed [with](/zh/post/with/) [a](/zh/post/a/) [special](/zh/post/special/) [formula](/zh/post/formula/) designed [for](/zh/post/for/) premature infants."
 
 ## 同义词
-- [Equation](/post/equation/)
-- [Expression](/post/expression/)
+- [Equation](/zh/post/equation/)
+- [Expression](/zh/post/expression/)
 - Recipe
-- [Mixture](/post/mixture/)
-- [Procedure](/post/procedure/)
+- [Mixture](/zh/post/mixture/)
+- [Procedure](/zh/post/procedure/)

@@ -7,36 +7,36 @@ description = '[priˈveil] vi.胜，优胜；流行'
 keywords = ['ai words', 'prevail']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /preɪˈveɪl/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [become](/en/post/become/) dominant [or](/en/post/or/) [triumph](/en/post/triumph/) [over](/en/post/over/) [another](/en/post/another/) [force](/en/post/force/), [opinion](/en/post/opinion/), [or](/en/post/or/) [argument](/en/post/argument/); [to](/en/post/to/) [overcome](/en/post/overcome/) [or](/en/post/or/) dominate. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) prevailed [after](/en/post/after/) [much](/en/post/much/) [debate](/en/post/debate/)."
-- **[Adjective](/en/post/adjective/)**: (adj) Prevailing [or](/en/post/or/) dominant, [especially](/en/post/especially/) [in](/en/post/in/) terms [of](/en/post/of/) [influence](/en/post/influence/) [or](/en/post/or/) [acceptance](/en/post/acceptance/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) prevailing [wind](/en/post/wind/) [direction](/en/post/direction/) is [from](/en/post/from/) [the](/en/post/the/) [east](/en/post/east/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [become](/post/become/) dominant [or](/post/or/) [triumph](/post/triumph/) [over](/post/over/) [another](/post/another/) [force](/post/force/), [opinion](/post/opinion/), [or](/post/or/) [argument](/post/argument/); [to](/post/to/) [overcome](/post/overcome/) [or](/post/or/) dominate. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) prevailed [after](/post/after/) [much](/post/much/) [debate](/post/debate/)."
+- **[Adjective](/post/adjective/)**: (adj) Prevailing [or](/post/or/) dominant, [especially](/post/especially/) [in](/post/in/) terms [of](/post/of/) [influence](/post/influence/) [or](/post/or/) [acceptance](/post/acceptance/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) prevailing [wind](/post/wind/) [direction](/post/direction/) is [from](/post/from/) [the](/post/the/) [east](/post/east/)."
 
 ## Phrases
-- "[prevail](/en/post/prevail/) [upon](/en/post/upon/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [persuade](/en/post/persuade/) [or](/en/post/or/) [convince](/en/post/convince/) [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/).
-- "[prevail](/en/post/prevail/) [against](/en/post/against/)" signifies overcoming an [obstacle](/en/post/obstacle/) [or](/en/post/or/) opposition.
-- "prevailing [wisdom](/en/post/wisdom/)" refers [to](/en/post/to/) [what](/en/post/what/) is [generally](/en/post/generally/) accepted [as](/en/post/as/) [true](/en/post/true/) [or](/en/post/or/) [correct](/en/post/correct/).
+- "[prevail](/post/prevail/) [upon](/post/upon/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [persuade](/post/persuade/) [or](/post/or/) [convince](/post/convince/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/).
+- "[prevail](/post/prevail/) [against](/post/against/)" signifies overcoming an [obstacle](/post/obstacle/) [or](/post/or/) opposition.
+- "prevailing [wisdom](/post/wisdom/)" refers [to](/post/to/) [what](/post/what/) is [generally](/post/generally/) accepted [as](/post/as/) [true](/post/true/) [or](/post/or/) [correct](/post/correct/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [determination](/en/post/determination/) prevailed, [and](/en/post/and/) [he](/en/post/he/) [finally](/en/post/finally/) completed [the](/en/post/the/) marathon."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) prevailing [mood](/en/post/mood/) [at](/en/post/at/) [the](/en/post/the/) [meeting](/en/post/meeting/) was [one](/en/post/one/) [of](/en/post/of/) optimism."
-- **Phrasal [Verb](/en/post/verb/)**: "[Despite](/en/post/despite/) [initial](/en/post/initial/) [resistance](/en/post/resistance/), [the](/en/post/the/) [new](/en/post/new/) [technology](/en/post/technology/) [eventually](/en/post/eventually/) prevailed [against](/en/post/against/) [traditional](/en/post/traditional/) methods."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[His](/post/his/) [determination](/post/determination/) prevailed, [and](/post/and/) [he](/post/he/) [finally](/post/finally/) completed [the](/post/the/) marathon."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) prevailing [mood](/post/mood/) [at](/post/at/) [the](/post/the/) [meeting](/post/meeting/) was [one](/post/one/) [of](/post/of/) optimism."
+- **Phrasal [Verb](/post/verb/)**: "[Despite](/post/despite/) [initial](/post/initial/) [resistance](/post/resistance/), [the](/post/the/) [new](/post/new/) [technology](/post/technology/) [eventually](/post/eventually/) prevailed [against](/post/against/) [traditional](/post/traditional/) methods."
 
 ## Synonyms
-- [Prevail](/en/post/prevail/) [over](/en/post/over/)
-- [Overcome](/en/post/overcome/)
+- [Prevail](/post/prevail/) [over](/post/over/)
+- [Overcome](/post/overcome/)
 - Dominate
-- [Triumph](/en/post/triumph/)
-- [Conquer](/en/post/conquer/)
-- [Gain](/en/post/gain/) ascendancy
-- [Obtain](/en/post/obtain/) [victory](/en/post/victory/)
+- [Triumph](/post/triumph/)
+- [Conquer](/post/conquer/)
+- [Gain](/post/gain/) ascendancy
+- [Obtain](/post/obtain/) [victory](/post/victory/)
 
 ## Antonyms
-- [Yield](/en/post/yield/)
-- [Lose](/en/post/lose/)
+- [Yield](/post/yield/)
+- [Lose](/post/lose/)
 - Succumb
-- [Be](/en/post/be/) [overcome](/en/post/overcome/)
-- [Fall](/en/post/fall/) [short](/en/post/short/)
-- [Give](/en/post/give/) [in](/en/post/in/)
+- [Be](/post/be/) [overcome](/post/overcome/)
+- [Fall](/post/fall/) [short](/post/short/)
+- [Give](/post/give/) [in](/post/in/)

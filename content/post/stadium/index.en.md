@@ -7,26 +7,26 @@ description = '[ˈsteidiəm] n.露天大型运动场'
 keywords = ['ai words', 'stadium']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stəˈdeɪm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [large](/en/post/large/), enclosed [outdoor](/en/post/outdoor/) [structure](/en/post/structure/) [for](/en/post/for/) sports, concerts, [or](/en/post/or/) [other](/en/post/other/) [public](/en/post/public/) gatherings. 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [hold](/en/post/hold/) [or](/en/post/or/) [use](/en/post/use/) ([a](/en/post/a/) sports [event](/en/post/event/)) [in](/en/post/in/) [a](/en/post/a/) [stadium](/en/post/stadium/).
-2. [To](/en/post/to/) [assemble](/en/post/assemble/) [or](/en/post/or/) [gather](/en/post/gather/) [in](/en/post/in/) [a](/en/post/a/) [stadium](/en/post/stadium/).
-3. [To](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) venue [for](/en/post/for/) ([a](/en/post/a/) [particular](/en/post/particular/) [event](/en/post/event/)).
+### [Noun](/post/noun/)
+[A](/post/a/) [large](/post/large/), enclosed [outdoor](/post/outdoor/) [structure](/post/structure/) [for](/post/for/) sports, concerts, [or](/post/or/) [other](/post/other/) [public](/post/public/) gatherings. 
+### [Verb](/post/verb/)
+1. [To](/post/to/) [hold](/post/hold/) [or](/post/or/) [use](/post/use/) ([a](/post/a/) sports [event](/post/event/)) [in](/post/in/) [a](/post/a/) [stadium](/post/stadium/).
+2. [To](/post/to/) [assemble](/post/assemble/) [or](/post/or/) [gather](/post/gather/) [in](/post/in/) [a](/post/a/) [stadium](/post/stadium/).
+3. [To](/post/to/) [be](/post/be/) [the](/post/the/) venue [for](/post/for/) ([a](/post/a/) [particular](/post/particular/) [event](/post/event/)).
 
 ## Phrases
-- "[Host](/en/post/host/) [a](/en/post/a/) [game](/en/post/game/) [at](/en/post/at/) [the](/en/post/the/) [stadium](/en/post/stadium/)"
-- "[Fill](/en/post/fill/) [the](/en/post/the/) [stadium](/en/post/stadium/) [to](/en/post/to/) [capacity](/en/post/capacity/)"
-- "[The](/en/post/the/) [big](/en/post/big/) [match](/en/post/match/) [will](/en/post/will/) [be](/en/post/be/) held [at](/en/post/at/) [the](/en/post/the/) [new](/en/post/new/) [stadium](/en/post/stadium/)"
+- "[Host](/post/host/) [a](/post/a/) [game](/post/game/) [at](/post/at/) [the](/post/the/) [stadium](/post/stadium/)"
+- "[Fill](/post/fill/) [the](/post/the/) [stadium](/post/stadium/) [to](/post/to/) [capacity](/post/capacity/)"
+- "[The](/post/the/) [big](/post/big/) [match](/post/match/) [will](/post/will/) [be](/post/be/) held [at](/post/at/) [the](/post/the/) [new](/post/new/) [stadium](/post/stadium/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [football](/en/post/football/) [team](/en/post/team/) played [their](/en/post/their/) [final](/en/post/final/) [match](/en/post/match/) [at](/en/post/at/) [the](/en/post/the/) iconic Wembley [Stadium](/en/post/stadium/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [stadium](/en/post/stadium/) [construction](/en/post/construction/) [project](/en/post/project/) is expected [to](/en/post/to/) [be](/en/post/be/) completed [by](/en/post/by/) [next](/en/post/next/) [year](/en/post/year/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) fans filled [the](/en/post/the/) [stadium](/en/post/stadium/), eagerly awaiting [the](/en/post/the/) [concert](/en/post/concert/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [football](/post/football/) [team](/post/team/) played [their](/post/their/) [final](/post/final/) [match](/post/match/) [at](/post/at/) [the](/post/the/) iconic Wembley [Stadium](/post/stadium/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [stadium](/post/stadium/) [construction](/post/construction/) [project](/post/project/) is expected [to](/post/to/) [be](/post/be/) completed [by](/post/by/) [next](/post/next/) [year](/post/year/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) fans filled [the](/post/the/) [stadium](/post/stadium/), eagerly awaiting [the](/post/the/) [concert](/post/concert/)."
 
 ## Synonyms
 - Arena
@@ -34,17 +34,17 @@ keywords = ['ai words', 'stadium']
 - Grounds
 - Venue
 - Stadion
-- [Field](/en/post/field/)
+- [Field](/post/field/)
 
 ## Antonyms
-- [Open](/en/post/open/) [air](/en/post/air/)
-- [Outdoor](/en/post/outdoor/)
-- Venueless ([for](/en/post/for/) holding events)
+- [Open](/post/open/) [air](/post/air/)
+- [Outdoor](/post/outdoor/)
+- Venueless ([for](/post/for/) holding events)
 
 ## Related Words
-- Seating [capacity](/en/post/capacity/)
+- Seating [capacity](/post/capacity/)
 - Sideline
-- [End](/en/post/end/) [zone](/en/post/zone/)
+- [End](/post/end/) [zone](/post/zone/)
 - Grandstand
 - Concourse
 - scoreboard

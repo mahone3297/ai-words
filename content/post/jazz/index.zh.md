@@ -12,24 +12,24 @@ keywords = ['ai words', 'jazz']
 
 ## 释义
 - **名词**:
-   - 爵士乐，一种起源于19世纪末美国南部的音乐风格，以其即兴演奏和强烈的节奏感为特点。例如: "[She](/post/she/) loves listening [to](/post/to/) [jazz](/post/jazz/) [music](/post/music/) [on](/post/on/) weekends."
-   - 活力，兴奋，精神。例如: "[The](/post/the/) [atmosphere](/post/atmosphere/) [at](/post/at/) [the](/post/the/) [concert](/post/concert/) was filled [with](/post/with/) [jazz](/post/jazz/)."
+   - 爵士乐，一种起源于19世纪末美国南部的音乐风格，以其即兴演奏和强烈的节奏感为特点。例如: "[She](/zh/post/she/) loves listening [to](/zh/post/to/) [jazz](/zh/post/jazz/) [music](/zh/post/music/) [on](/zh/post/on/) weekends."
+   - 活力，兴奋，精神。例如: "[The](/zh/post/the/) [atmosphere](/zh/post/atmosphere/) [at](/zh/post/at/) [the](/zh/post/the/) [concert](/zh/post/concert/) was filled [with](/zh/post/with/) [jazz](/zh/post/jazz/)."
 
 - **动词**:
-   - 使具有爵士风格；加入爵士元素。例如: "[They](/post/they/) jazzed [up](/post/up/) [the](/post/the/) [old](/post/old/) [tune](/post/tune/) [with](/post/with/) [some](/post/some/) [new](/post/new/) improvisations."
-   - 即兴演奏爵士乐。例如: "[The](/post/the/) musicians started jazzing [when](/post/when/) [they](/post/they/) felt [the](/post/the/) crowd's [energy](/post/energy/)."
+   - 使具有爵士风格；加入爵士元素。例如: "[They](/zh/post/they/) jazzed [up](/zh/post/up/) [the](/zh/post/the/) [old](/zh/post/old/) [tune](/zh/post/tune/) [with](/zh/post/with/) [some](/zh/post/some/) [new](/zh/post/new/) improvisations."
+   - 即兴演奏爵士乐。例如: "[The](/zh/post/the/) musicians started jazzing [when](/zh/post/when/) [they](/zh/post/they/) felt [the](/zh/post/the/) crowd's [energy](/zh/post/energy/)."
 
 ## 短语
-- "[Jazz](/post/jazz/) [up](/post/up/)" 意味着增添趣味或活力，使其更具吸引力。
-- "[Jazz](/post/jazz/) [band](/post/band/)" 是指演奏爵士乐的乐队。
+- "[Jazz](/zh/post/jazz/) [up](/zh/post/up/)" 意味着增添趣味或活力，使其更具吸引力。
+- "[Jazz](/zh/post/jazz/) [band](/zh/post/band/)" 是指演奏爵士乐的乐队。
 
 ## 例句
-- 名词: "[The](/post/the/) [New](/post/new/) Orleans [Jazz](/post/jazz/) [Festival](/post/festival/) celebrates [the](/post/the/) [best](/post/best/) [of](/post/of/) [traditional](/post/traditional/) [and](/post/and/) [modern](/post/modern/) [jazz](/post/jazz/)."
-- 动词: "[They](/post/they/) decided [to](/post/to/) [jazz](/post/jazz/) [their](/post/their/) [performance](/post/performance/) [with](/post/with/) [some](/post/some/) [spontaneous](/post/spontaneous/) solos."
+- 名词: "[The](/zh/post/the/) [New](/zh/post/new/) Orleans [Jazz](/zh/post/jazz/) [Festival](/zh/post/festival/) celebrates [the](/zh/post/the/) [best](/zh/post/best/) [of](/zh/post/of/) [traditional](/zh/post/traditional/) [and](/zh/post/and/) [modern](/zh/post/modern/) [jazz](/zh/post/jazz/)."
+- 动词: "[They](/zh/post/they/) decided [to](/zh/post/to/) [jazz](/zh/post/jazz/) [their](/zh/post/their/) [performance](/zh/post/performance/) [with](/zh/post/with/) [some](/zh/post/some/) [spontaneous](/zh/post/spontaneous/) solos."
 
 ## 同义词
-- [Swing](/post/swing/)
+- [Swing](/zh/post/swing/)
 - Blues
-- Improvisational [music](/post/music/)
-- Syncopated [rhythm](/post/rhythm/)
+- Improvisational [music](/zh/post/music/)
+- Syncopated [rhythm](/zh/post/rhythm/)
 - Ragtime

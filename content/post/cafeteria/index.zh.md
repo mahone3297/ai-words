@@ -11,21 +11,21 @@ keywords = ['ai words', 'cafeteria']
 /ˈkæfɪtɛriə/
 
 ## 释义
-- **名词**: 一种提供自助服务的餐厅，通常在办公大楼、学校或医院内。例如: "[We](/post/we/) had [lunch](/post/lunch/) [in](/post/in/) [the](/post/the/) [cafeteria](/post/cafeteria/) [of](/post/of/) [the](/post/the/) [museum](/post/museum/)."
-- **名词**: 有时也指供应咖啡和轻食的小吃店或咖啡馆。例如: "There's [a](/post/a/) cozy [cafeteria](/post/cafeteria/) [on](/post/on/) [the](/post/the/) [corner](/post/corner/) [where](/post/where/) [you](/post/you/) [can](/post/can/) grab [a](/post/a/) [quick](/post/quick/) [bite](/post/bite/)."
+- **名词**: 一种提供自助服务的餐厅，通常在办公大楼、学校或医院内。例如: "[We](/zh/post/we/) had [lunch](/zh/post/lunch/) [in](/zh/post/in/) [the](/zh/post/the/) [cafeteria](/zh/post/cafeteria/) [of](/zh/post/of/) [the](/zh/post/the/) [museum](/zh/post/museum/)."
+- **名词**: 有时也指供应咖啡和轻食的小吃店或咖啡馆。例如: "There's [a](/zh/post/a/) cozy [cafeteria](/zh/post/cafeteria/) [on](/zh/post/on/) [the](/zh/post/the/) [corner](/zh/post/corner/) [where](/zh/post/where/) [you](/zh/post/you/) [can](/zh/post/can/) grab [a](/zh/post/a/) [quick](/zh/post/quick/) [bite](/zh/post/bite/)."
 
 ## 短语
-- "[School](/post/school/) [cafeteria](/post/cafeteria/)" 指学校的餐厅。
-- "[Company](/post/company/) [cafeteria](/post/cafeteria/)" 指企业或机构内部的员工餐厅。
+- "[School](/zh/post/school/) [cafeteria](/zh/post/cafeteria/)" 指学校的餐厅。
+- "[Company](/zh/post/company/) [cafeteria](/zh/post/cafeteria/)" 指企业或机构内部的员工餐厅。
 
 ## 例句
-- "[The](/post/the/) [cafeteria](/post/cafeteria/) offers [a](/post/a/) [variety](/post/variety/) [of](/post/of/) dishes [for](/post/for/) [different](/post/different/) dietary needs."
-- "[In](/post/in/) [the](/post/the/) [university](/post/university/) [cafeteria](/post/cafeteria/), [you](/post/you/) [can](/post/can/) [find](/post/find/) [food](/post/food/) [from](/post/from/) [around](/post/around/) [the](/post/the/) [world](/post/world/)."
-- "Let's [meet](/post/meet/) [at](/post/at/) [the](/post/the/) [cafeteria](/post/cafeteria/) [after](/post/after/) [class](/post/class/) [and](/post/and/) [discuss](/post/discuss/) [our](/post/our/) [project](/post/project/)."
+- "[The](/zh/post/the/) [cafeteria](/zh/post/cafeteria/) offers [a](/zh/post/a/) [variety](/zh/post/variety/) [of](/zh/post/of/) dishes [for](/zh/post/for/) [different](/zh/post/different/) dietary needs."
+- "[In](/zh/post/in/) [the](/zh/post/the/) [university](/zh/post/university/) [cafeteria](/zh/post/cafeteria/), [you](/zh/post/you/) [can](/zh/post/can/) [find](/zh/post/find/) [food](/zh/post/food/) [from](/zh/post/from/) [around](/zh/post/around/) [the](/zh/post/the/) [world](/zh/post/world/)."
+- "Let's [meet](/zh/post/meet/) [at](/zh/post/at/) [the](/zh/post/the/) [cafeteria](/zh/post/cafeteria/) [after](/zh/post/after/) [class](/zh/post/class/) [and](/zh/post/and/) [discuss](/zh/post/discuss/) [our](/zh/post/our/) [project](/zh/post/project/)."
 
 ## 同义词
-- [Canteen](/post/canteen/)
-- Dining [hall](/post/hall/)
-- [Coffee](/post/coffee/) [shop](/post/shop/)
+- [Canteen](/zh/post/canteen/)
+- Dining [hall](/zh/post/hall/)
+- [Coffee](/zh/post/coffee/) [shop](/zh/post/shop/)
 - Bistro
-- Snack [bar](/post/bar/)
+- Snack [bar](/zh/post/bar/)

@@ -7,49 +7,49 @@ description = '[prəˈdjuːs] vt.生产；产生；展现'
 keywords = ['ai words', 'produce']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈdjuːs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) bringing [something](/en/post/something/) [into](/en/post/into/) [existence](/en/post/existence/) [or](/en/post/or/) making [it](/en/post/it/) [available](/en/post/available/); [production](/en/post/production/).
-   - "[The](/en/post/the/) [farm](/en/post/farm/) produces [abundant](/en/post/abundant/) crops [every](/en/post/every/) [year](/en/post/year/)."
-2. [A](/en/post/a/) [result](/en/post/result/) [or](/en/post/or/) [outcome](/en/post/outcome/) [of](/en/post/of/) an [action](/en/post/action/) [or](/en/post/or/) [process](/en/post/process/).
-   - "[Her](/en/post/her/) [hard](/en/post/hard/) [work](/en/post/work/) produced [excellent](/en/post/excellent/) results."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) bringing [something](/post/something/) [into](/post/into/) [existence](/post/existence/) [or](/post/or/) making [it](/post/it/) [available](/post/available/); [production](/post/production/).
+   - "[The](/post/the/) [farm](/post/farm/) produces [abundant](/post/abundant/) crops [every](/post/every/) [year](/post/year/)."
+2. [A](/post/a/) [result](/post/result/) [or](/post/or/) [outcome](/post/outcome/) [of](/post/of/) an [action](/post/action/) [or](/post/or/) [process](/post/process/).
+   - "[Her](/post/her/) [hard](/post/hard/) [work](/post/work/) produced [excellent](/post/excellent/) results."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [be](/en/post/be/) created [or](/en/post/or/) generated, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [factory](/en/post/factory/) [or](/en/post/or/) agricultural [setting](/en/post/setting/).
-   - "[The](/en/post/the/) [factory](/en/post/factory/) produces thousands [of](/en/post/of/) cars [per](/en/post/per/) [month](/en/post/month/)."
-2. [To](/en/post/to/) [bring](/en/post/bring/) [forth](/en/post/forth/) [or](/en/post/or/) [generate](/en/post/generate/) (an [idea](/en/post/idea/), [emotion](/en/post/emotion/), [or](/en/post/or/) [effect](/en/post/effect/)).
-   - "[His](/en/post/his/) [speech](/en/post/speech/) produced [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [laughter](/en/post/laughter/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [be](/post/be/) created [or](/post/or/) generated, [often](/post/often/) [in](/post/in/) [a](/post/a/) [factory](/post/factory/) [or](/post/or/) agricultural [setting](/post/setting/).
+   - "[The](/post/the/) [factory](/post/factory/) produces thousands [of](/post/of/) cars [per](/post/per/) [month](/post/month/)."
+2. [To](/post/to/) [bring](/post/bring/) [forth](/post/forth/) [or](/post/or/) [generate](/post/generate/) (an [idea](/post/idea/), [emotion](/post/emotion/), [or](/post/or/) [effect](/post/effect/)).
+   - "[His](/post/his/) [speech](/post/speech/) produced [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [laughter](/post/laughter/)."
 
-### [Adjective](/en/post/adjective/)
-1. Resulting [from](/en/post/from/) [or](/en/post/or/) involving [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [production](/en/post/production/).
-   - "High-quality, environmentally [friendly](/en/post/friendly/) products are [in](/en/post/in/) [high](/en/post/high/) [demand](/en/post/demand/) [these](/en/post/these/) days."
-2. Causing [or](/en/post/or/) [capable](/en/post/capable/) [of](/en/post/of/) producing [a](/en/post/a/) [particular](/en/post/particular/) [effect](/en/post/effect/).
-   - "[A](/en/post/a/) potent [chemical](/en/post/chemical/) [that](/en/post/that/) produces hallucinations."
+### [Adjective](/post/adjective/)
+1. Resulting [from](/post/from/) [or](/post/or/) involving [the](/post/the/) [process](/post/process/) [of](/post/of/) [production](/post/production/).
+   - "High-quality, environmentally [friendly](/post/friendly/) products are [in](/post/in/) [high](/post/high/) [demand](/post/demand/) [these](/post/these/) days."
+2. Causing [or](/post/or/) [capable](/post/capable/) [of](/post/of/) producing [a](/post/a/) [particular](/post/particular/) [effect](/post/effect/).
+   - "[A](/post/a/) potent [chemical](/post/chemical/) [that](/post/that/) produces hallucinations."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) producing [manner](/en/post/manner/) [or](/en/post/or/) [to](/en/post/to/) [a](/en/post/a/) [significant](/en/post/significant/) [extent](/en/post/extent/).
-   - "[The](/en/post/the/) [new](/en/post/new/) [technology](/en/post/technology/) is expected [to](/en/post/to/) [produce](/en/post/produce/) [significant](/en/post/significant/) [energy](/en/post/energy/) savings."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) producing [manner](/post/manner/) [or](/post/or/) [to](/post/to/) [a](/post/a/) [significant](/post/significant/) [extent](/post/extent/).
+   - "[The](/post/the/) [new](/post/new/) [technology](/post/technology/) is expected [to](/post/to/) [produce](/post/produce/) [significant](/post/significant/) [energy](/post/energy/) savings."
 
 ## Phrases
-- "[Produce](/en/post/produce/) [evidence](/en/post/evidence/)" [means](/en/post/means/) [to](/en/post/to/) [present](/en/post/present/) [proof](/en/post/proof/) [or](/en/post/or/) supporting [material](/en/post/material/).
-- "[Produce](/en/post/produce/) [a](/en/post/a/) [show](/en/post/show/)" refers [to](/en/post/to/) organizing [or](/en/post/or/) staging [a](/en/post/a/) [performance](/en/post/performance/).
-- "[Produce](/en/post/produce/) results" implies achieving [a](/en/post/a/) desired [outcome](/en/post/outcome/).
+- "[Produce](/post/produce/) [evidence](/post/evidence/)" [means](/post/means/) [to](/post/to/) [present](/post/present/) [proof](/post/proof/) [or](/post/or/) supporting [material](/post/material/).
+- "[Produce](/post/produce/) [a](/post/a/) [show](/post/show/)" refers [to](/post/to/) organizing [or](/post/or/) staging [a](/post/a/) [performance](/post/performance/).
+- "[Produce](/post/produce/) results" implies achieving [a](/post/a/) desired [outcome](/post/outcome/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [local](/en/post/local/) bakery produces [delicious](/en/post/delicious/) [bread](/en/post/bread/) [daily](/en/post/daily/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) produced [a](/en/post/a/) [comprehensive](/en/post/comprehensive/) [report](/en/post/report/) [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [solar](/en/post/solar/) panels are designed [to](/en/post/to/) efficiently [produce](/en/post/produce/) [electricity](/en/post/electricity/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [experiment](/en/post/experiment/) consistently produced [impressive](/en/post/impressive/) results."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [local](/post/local/) bakery produces [delicious](/post/delicious/) [bread](/post/bread/) [daily](/post/daily/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) produced [a](/post/a/) [comprehensive](/post/comprehensive/) [report](/post/report/) [on](/post/on/) [the](/post/the/) [project](/post/project/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [solar](/post/solar/) panels are designed [to](/post/to/) efficiently [produce](/post/produce/) [electricity](/post/electricity/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [experiment](/post/experiment/) consistently produced [impressive](/post/impressive/) results."
 
 ## Synonyms
-- [Generate](/en/post/generate/)
-- [Create](/en/post/create/)
+- [Generate](/post/generate/)
+- [Create](/post/create/)
 - Fabricate
-- [Yield](/en/post/yield/)
-- [Generate](/en/post/generate/) [income](/en/post/income/)
-- [Cultivate](/en/post/cultivate/)
-- [Bring](/en/post/bring/) [forth](/en/post/forth/)
-- [Generate](/en/post/generate/) [output](/en/post/output/)
+- [Yield](/post/yield/)
+- [Generate](/post/generate/) [income](/post/income/)
+- [Cultivate](/post/cultivate/)
+- [Bring](/post/bring/) [forth](/post/forth/)
+- [Generate](/post/generate/) [output](/post/output/)

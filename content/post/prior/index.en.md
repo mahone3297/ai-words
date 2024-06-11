@@ -7,43 +7,43 @@ description = '[ˈpraiə] a.在先的；优先的'
 keywords = ['ai words', 'prior']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪˈɔːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **Antecedent** [or](/en/post/or/) **[previous](/en/post/previous/)**: Referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) happened [or](/en/post/or/) was known [before](/en/post/before/) [another](/en/post/another/) [event](/en/post/event/). [Example](/en/post/example/): "[His](/en/post/his/) [prior](/en/post/prior/) [experience](/en/post/experience/) made [him](/en/post/him/) [the](/en/post/the/) [ideal](/en/post/ideal/) [candidate](/en/post/candidate/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/)."
-2. **Priority**: [Something](/en/post/something/) [that](/en/post/that/) comes [first](/en/post/first/) [or](/en/post/or/) is considered [more](/en/post/more/) [important](/en/post/important/). [Example](/en/post/example/): "[The](/en/post/the/) [maintenance](/en/post/maintenance/) [of](/en/post/of/) [public](/en/post/public/) [health](/en/post/health/) [should](/en/post/should/) [be](/en/post/be/) [a](/en/post/a/) [top](/en/post/top/) priority."
-3. **[Priest](/en/post/priest/) [or](/en/post/or/) monk**: [A](/en/post/a/) [religious](/en/post/religious/) [leader](/en/post/leader/) [in](/en/post/in/) [certain](/en/post/certain/) Christian denominations. [Example](/en/post/example/): "[The](/en/post/the/) [prior](/en/post/prior/) was [responsible](/en/post/responsible/) [for](/en/post/for/) overseeing [the](/en/post/the/) monastery."
+### [Noun](/post/noun/)
+1. **Antecedent** [or](/post/or/) **[previous](/post/previous/)**: Referring [to](/post/to/) [something](/post/something/) [that](/post/that/) happened [or](/post/or/) was known [before](/post/before/) [another](/post/another/) [event](/post/event/). [Example](/post/example/): "[His](/post/his/) [prior](/post/prior/) [experience](/post/experience/) made [him](/post/him/) [the](/post/the/) [ideal](/post/ideal/) [candidate](/post/candidate/) [for](/post/for/) [the](/post/the/) [job](/post/job/)."
+2. **Priority**: [Something](/post/something/) [that](/post/that/) comes [first](/post/first/) [or](/post/or/) is considered [more](/post/more/) [important](/post/important/). [Example](/post/example/): "[The](/post/the/) [maintenance](/post/maintenance/) [of](/post/of/) [public](/post/public/) [health](/post/health/) [should](/post/should/) [be](/post/be/) [a](/post/a/) [top](/post/top/) priority."
+3. **[Priest](/post/priest/) [or](/post/or/) monk**: [A](/post/a/) [religious](/post/religious/) [leader](/post/leader/) [in](/post/in/) [certain](/post/certain/) Christian denominations. [Example](/post/example/): "[The](/post/the/) [prior](/post/prior/) was [responsible](/post/responsible/) [for](/post/for/) overseeing [the](/post/the/) monastery."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [happen](/en/post/happen/) [or](/en/post/or/) [be](/en/post/be/) done [before](/en/post/before/) [another](/en/post/another/) [event](/en/post/event/) [or](/en/post/or/) [action](/en/post/action/). [Example](/en/post/example/): "[The](/en/post/the/) negotiations took [place](/en/post/place/) [prior](/en/post/prior/) [to](/en/post/to/) [the](/en/post/the/) [official](/en/post/official/) signing [ceremony](/en/post/ceremony/)."
-2. [To](/en/post/to/) [rank](/en/post/rank/) [or](/en/post/or/) [classify](/en/post/classify/) [as](/en/post/as/) coming [before](/en/post/before/) [in](/en/post/in/) [importance](/en/post/importance/) [or](/en/post/or/) [sequence](/en/post/sequence/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) prioritized [their](/en/post/their/) tasks [for](/en/post/for/) [the](/en/post/the/) [day](/en/post/day/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [happen](/post/happen/) [or](/post/or/) [be](/post/be/) done [before](/post/before/) [another](/post/another/) [event](/post/event/) [or](/post/or/) [action](/post/action/). [Example](/post/example/): "[The](/post/the/) negotiations took [place](/post/place/) [prior](/post/prior/) [to](/post/to/) [the](/post/the/) [official](/post/official/) signing [ceremony](/post/ceremony/)."
+2. [To](/post/to/) [rank](/post/rank/) [or](/post/or/) [classify](/post/classify/) [as](/post/as/) coming [before](/post/before/) [in](/post/in/) [importance](/post/importance/) [or](/post/or/) [sequence](/post/sequence/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) prioritized [their](/post/their/) tasks [for](/post/for/) [the](/post/the/) [day](/post/day/)."
 
 ## Phrases
-- "[In](/en/post/in/) [prior](/en/post/prior/) years" indicates [a](/en/post/a/) [previous](/en/post/previous/) [time](/en/post/time/).
-- "[Give](/en/post/give/) priority [to](/en/post/to/)" [means](/en/post/means/) [to](/en/post/to/) [consider](/en/post/consider/) [something](/en/post/something/) [as](/en/post/as/) [more](/en/post/more/) [significant](/en/post/significant/) [or](/en/post/or/) [urgent](/en/post/urgent/).
-- "[Have](/en/post/have/) [a](/en/post/a/) [prior](/en/post/prior/) engagement" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) an [already](/en/post/already/) planned [appointment](/en/post/appointment/) [or](/en/post/or/) commitment.
+- "[In](/post/in/) [prior](/post/prior/) years" indicates [a](/post/a/) [previous](/post/previous/) [time](/post/time/).
+- "[Give](/post/give/) priority [to](/post/to/)" [means](/post/means/) [to](/post/to/) [consider](/post/consider/) [something](/post/something/) [as](/post/as/) [more](/post/more/) [significant](/post/significant/) [or](/post/or/) [urgent](/post/urgent/).
+- "[Have](/post/have/) [a](/post/a/) [prior](/post/prior/) engagement" [means](/post/means/) [to](/post/to/) [have](/post/have/) an [already](/post/already/) planned [appointment](/post/appointment/) [or](/post/or/) commitment.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) had [to](/en/post/to/) reschedule [her](/en/post/her/) [meeting](/en/post/meeting/) [due](/en/post/due/) [to](/en/post/to/) [a](/en/post/a/) [prior](/en/post/prior/) commitment."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) discussed [our](/en/post/our/) priorities [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/) [during](/en/post/during/) [the](/en/post/the/) planning [session](/en/post/session/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [prior](/en/post/prior/) [experience](/en/post/experience/) was invaluable [in](/en/post/in/) resolving [the](/en/post/the/) [issue](/en/post/issue/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) had [to](/post/to/) reschedule [her](/post/her/) [meeting](/post/meeting/) [due](/post/due/) [to](/post/to/) [a](/post/a/) [prior](/post/prior/) commitment."
+- **[Verb](/post/verb/)**: "[We](/post/we/) discussed [our](/post/our/) priorities [for](/post/for/) [the](/post/the/) [project](/post/project/) [during](/post/during/) [the](/post/the/) planning [session](/post/session/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [prior](/post/prior/) [experience](/post/experience/) was invaluable [in](/post/in/) resolving [the](/post/the/) [issue](/post/issue/)."
 
 ## Synonyms
 - Earlier
-- [Preceding](/en/post/preceding/)
+- [Preceding](/post/preceding/)
 - Antecedent
 - Prioritize
-- [Senior](/en/post/senior/)
-- Earlier [date](/en/post/date/)
-- Earlier [time](/en/post/time/)
-- [Former](/en/post/former/)
+- [Senior](/post/senior/)
+- Earlier [date](/post/date/)
+- Earlier [time](/post/time/)
+- [Former](/post/former/)
 
 ## Antonyms
-- [Later](/en/post/later/)
-- [Subsequent](/en/post/subsequent/)
-- [Following](/en/post/following/)
+- [Later](/post/later/)
+- [Subsequent](/post/subsequent/)
+- [Following](/post/following/)
 - Unrelated
 - Posterior
 - Unprioritized

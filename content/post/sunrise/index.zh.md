@@ -11,20 +11,20 @@ keywords = ['ai words', 'sunrise']
 /səˈraɪz/
 
 ## 释义
-- **名词**: 日出，早晨太阳升起的时候。例如: "[The](/post/the/) [beautiful](/post/beautiful/) [sunrise](/post/sunrise/) painted [the](/post/the/) [sky](/post/sky/) [with](/post/with/) hues [of](/post/of/) [gold](/post/gold/) [and](/post/and/) [orange](/post/orange/)."
-- **动词**: (太阳)升起。例如: "[The](/post/the/) [sun](/post/sun/) rises [early](/post/early/) [in](/post/in/) [the](/post/the/) [summer](/post/summer/)."
+- **名词**: 日出，早晨太阳升起的时候。例如: "[The](/zh/post/the/) [beautiful](/zh/post/beautiful/) [sunrise](/zh/post/sunrise/) painted [the](/zh/post/the/) [sky](/zh/post/sky/) [with](/zh/post/with/) hues [of](/zh/post/of/) [gold](/zh/post/gold/) [and](/zh/post/and/) [orange](/zh/post/orange/)."
+- **动词**: (太阳)升起。例如: "[The](/zh/post/the/) [sun](/zh/post/sun/) rises [early](/zh/post/early/) [in](/zh/post/in/) [the](/zh/post/the/) [summer](/zh/post/summer/)."
 
 ## 短语
-- "[sunrise](/post/sunrise/) [view](/post/view/)" 指的是观赏日出的景象。
-- "[sunrise](/post/sunrise/) meditation" 是在日出时进行的冥想活动。
+- "[sunrise](/zh/post/sunrise/) [view](/zh/post/view/)" 指的是观赏日出的景象。
+- "[sunrise](/zh/post/sunrise/) meditation" 是在日出时进行的冥想活动。
 
 ## 例句
-- 名词: "[We](/post/we/) woke [up](/post/up/) [early](/post/early/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) stunning [sunrise](/post/sunrise/) [over](/post/over/) [the](/post/the/) mountains."
-- 动词: "[The](/post/the/) [sun](/post/sun/) rises [at](/post/at/) 5:30 am [during](/post/during/) [the](/post/the/) [summer](/post/summer/) months."
+- 名词: "[We](/zh/post/we/) woke [up](/zh/post/up/) [early](/zh/post/early/) [to](/zh/post/to/) [catch](/zh/post/catch/) [the](/zh/post/the/) stunning [sunrise](/zh/post/sunrise/) [over](/zh/post/over/) [the](/zh/post/the/) mountains."
+- 动词: "[The](/zh/post/the/) [sun](/zh/post/sun/) rises [at](/zh/post/at/) 5:30 am [during](/zh/post/during/) [the](/zh/post/the/) [summer](/zh/post/summer/) months."
 
 ## 同义词
-- [dawn](/post/dawn/)
-- [break](/post/break/) [of](/post/of/) [day](/post/day/)
-- [first](/post/first/) [light](/post/light/)
+- [dawn](/zh/post/dawn/)
+- [break](/zh/post/break/) [of](/zh/post/of/) [day](/zh/post/day/)
+- [first](/zh/post/first/) [light](/zh/post/light/)
 - daybreak
 - aurora

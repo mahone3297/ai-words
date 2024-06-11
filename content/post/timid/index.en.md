@@ -7,34 +7,34 @@ description = '[ˈtimid] a.胆怯的；羞怯的'
 keywords = ['ai words', 'timid']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɪˈmɪd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [courage](/en/post/courage/) [or](/en/post/or/) [confidence](/en/post/confidence/), [easily](/en/post/easily/) frightened, [or](/en/post/or/) [shy](/en/post/shy/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [timid](/en/post/timid/) [child](/en/post/child/) was [afraid](/en/post/afraid/) [to](/en/post/to/) [speak](/en/post/speak/) [in](/en/post/in/) [front](/en/post/front/) [of](/en/post/of/) [the](/en/post/the/) [class](/en/post/class/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [act](/en/post/act/) timidly; [to](/en/post/to/) [be](/en/post/be/) hesitant [or](/en/post/or/) [fearful](/en/post/fearful/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) timidly raised [her](/en/post/her/) [hand](/en/post/hand/) [to](/en/post/to/) [ask](/en/post/ask/) [a](/en/post/a/) [question](/en/post/question/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [courage](/post/courage/) [or](/post/or/) [confidence](/post/confidence/), [easily](/post/easily/) frightened, [or](/post/or/) [shy](/post/shy/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [timid](/post/timid/) [child](/post/child/) was [afraid](/post/afraid/) [to](/post/to/) [speak](/post/speak/) [in](/post/in/) [front](/post/front/) [of](/post/of/) [the](/post/the/) [class](/post/class/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [act](/post/act/) timidly; [to](/post/to/) [be](/post/be/) hesitant [or](/post/or/) [fearful](/post/fearful/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) timidly raised [her](/post/her/) [hand](/post/hand/) [to](/post/to/) [ask](/post/ask/) [a](/post/a/) [question](/post/question/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [timid](/en/post/timid/) [about](/en/post/about/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) cautious [or](/en/post/or/) reserved [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/).
-- "Displaying timidity" shows [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [courage](/en/post/courage/) [or](/en/post/or/) self-assurance.
-- "Overcoming one's timidity" refers [to](/en/post/to/) gaining [confidence](/en/post/confidence/) [in](/en/post/in/) [a](/en/post/a/) challenging [task](/en/post/task/).
+- "[Be](/post/be/) [timid](/post/timid/) [about](/post/about/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) cautious [or](/post/or/) reserved [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/).
+- "Displaying timidity" shows [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [courage](/post/courage/) [or](/post/or/) self-assurance.
+- "Overcoming one's timidity" refers [to](/post/to/) gaining [confidence](/post/confidence/) [in](/post/in/) [a](/post/a/) challenging [task](/post/task/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [timid](/en/post/timid/) puppy cowered [under](/en/post/under/) [the](/en/post/the/) [bed](/en/post/bed/) [when](/en/post/when/) [it](/en/post/it/) heard [a](/en/post/a/) [loud](/en/post/loud/) [noise](/en/post/noise/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was [too](/en/post/too/) [timid](/en/post/timid/) [to](/en/post/to/) [share](/en/post/share/) [his](/en/post/his/) ideas [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[After](/en/post/after/) [many](/en/post/many/) [practice](/en/post/practice/) sessions, [she](/en/post/she/) managed [to](/en/post/to/) [overcome](/en/post/overcome/) [her](/en/post/her/) timidity [on](/en/post/on/) [stage](/en/post/stage/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [timid](/post/timid/) puppy cowered [under](/post/under/) [the](/post/the/) [bed](/post/bed/) [when](/post/when/) [it](/post/it/) heard [a](/post/a/) [loud](/post/loud/) [noise](/post/noise/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) was [too](/post/too/) [timid](/post/timid/) [to](/post/to/) [share](/post/share/) [his](/post/his/) ideas [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
+- **Phrasal [Verb](/post/verb/)**: "[After](/post/after/) [many](/post/many/) [practice](/post/practice/) sessions, [she](/post/she/) managed [to](/post/to/) [overcome](/post/overcome/) [her](/post/her/) timidity [on](/post/on/) [stage](/post/stage/)."
 
 ## Synonyms
-- [Shy](/en/post/shy/)
-- [Fearful](/en/post/fearful/)
+- [Shy](/post/shy/)
+- [Fearful](/post/fearful/)
 - Reticent
 - Hesitant
 - Timorous
-- Cowardly ([but](/en/post/but/) carries [a](/en/post/a/) stronger [negative](/en/post/negative/) connotation)
+- Cowardly ([but](/post/but/) carries [a](/post/a/) stronger [negative](/post/negative/) connotation)
 
 ## Antonyms
-- [Bold](/en/post/bold/)
-- [Confident](/en/post/confident/)
-- [Brave](/en/post/brave/)
+- [Bold](/post/bold/)
+- [Confident](/post/confident/)
+- [Brave](/post/brave/)
 - Assertive
 - Audacious

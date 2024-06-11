@@ -7,43 +7,43 @@ description = '[pig] n.猪，小猪，野猪'
 keywords = ['ai words', 'pig']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pɪɡ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) domesticated mammal (Sus scrofa) [of](/en/post/of/) [the](/en/post/the/) [pig](/en/post/pig/) [family](/en/post/family/), [often](/en/post/often/) raised [for](/en/post/for/) [its](/en/post/its/) [meat](/en/post/meat/), [which](/en/post/which/) has [a](/en/post/a/) [thick](/en/post/thick/), hairless [body](/en/post/body/), [a](/en/post/a/) snout, [and](/en/post/and/) [a](/en/post/a/) rooting [mouth](/en/post/mouth/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) was feeding [the](/en/post/the/) pigs [in](/en/post/in/) [the](/en/post/the/) [pen](/en/post/pen/)."
-   - Synonyms: hog, [sow](/en/post/sow/), boar ([male](/en/post/male/) [pig](/en/post/pig/)), piglet ([young](/en/post/young/) [pig](/en/post/pig/))
+### [Noun](/post/noun/)
+- [A](/post/a/) domesticated mammal (Sus scrofa) [of](/post/of/) [the](/post/the/) [pig](/post/pig/) [family](/post/family/), [often](/post/often/) raised [for](/post/for/) [its](/post/its/) [meat](/post/meat/), [which](/post/which/) has [a](/post/a/) [thick](/post/thick/), hairless [body](/post/body/), [a](/post/a/) snout, [and](/post/and/) [a](/post/a/) rooting [mouth](/post/mouth/).
+   - [Example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) was feeding [the](/post/the/) pigs [in](/post/in/) [the](/post/the/) [pen](/post/pen/)."
+   - Synonyms: hog, [sow](/post/sow/), boar ([male](/post/male/) [pig](/post/pig/)), piglet ([young](/post/young/) [pig](/post/pig/))
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [eat](/en/post/eat/) [or](/en/post/or/) [consume](/en/post/consume/) [food](/en/post/food/) [in](/en/post/in/) [large](/en/post/large/) quantities, [often](/en/post/often/) [in](/en/post/in/) an [excessive](/en/post/excessive/) [or](/en/post/or/) [greedy](/en/post/greedy/) [manner](/en/post/manner/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) pigged [out](/en/post/out/) [on](/en/post/on/) [the](/en/post/the/) buffet, trying [every](/en/post/every/) [dish](/en/post/dish/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [eat](/post/eat/) [or](/post/or/) [consume](/post/consume/) [food](/post/food/) [in](/post/in/) [large](/post/large/) quantities, [often](/post/often/) [in](/post/in/) an [excessive](/post/excessive/) [or](/post/or/) [greedy](/post/greedy/) [manner](/post/manner/).
+   - [Example](/post/example/): "[She](/post/she/) pigged [out](/post/out/) [on](/post/on/) [the](/post/the/) buffet, trying [every](/post/every/) [dish](/post/dish/)."
    - Synonym: overindulge
 
-### [Adjective](/en/post/adjective/)
-- Describing [someone](/en/post/someone/) [who](/en/post/who/) is [very](/en/post/very/) fat [or](/en/post/or/) overweight.
-   - [Example](/en/post/example/): "[The](/en/post/the/) piggy [child](/en/post/child/) begged [for](/en/post/for/) [another](/en/post/another/) [slice](/en/post/slice/) [of](/en/post/of/) [cake](/en/post/cake/)."
+### [Adjective](/post/adjective/)
+- Describing [someone](/post/someone/) [who](/post/who/) is [very](/post/very/) fat [or](/post/or/) overweight.
+   - [Example](/post/example/): "[The](/post/the/) piggy [child](/post/child/) begged [for](/post/for/) [another](/post/another/) [slice](/post/slice/) [of](/post/of/) [cake](/post/cake/)."
    - Synonym: chubby
 
-### [Adjective](/en/post/adjective/) (informal)
-- [Used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/) [with](/en/post/with/) [a](/en/post/a/) [strong](/en/post/strong/) [sense](/en/post/sense/) [of](/en/post/of/) [loyalty](/en/post/loyalty/) [or](/en/post/or/) [affection](/en/post/affection/), [especially](/en/post/especially/) towards [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [activity](/en/post/activity/).
-   - [Example](/en/post/example/): "He's [such](/en/post/such/) [a](/en/post/a/) piggy [fan](/en/post/fan/) [of](/en/post/of/) [football](/en/post/football/), [he](/en/post/he/) attends [every](/en/post/every/) [match](/en/post/match/)."
+### [Adjective](/post/adjective/) (informal)
+- [Used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [someone](/post/someone/) [with](/post/with/) [a](/post/a/) [strong](/post/strong/) [sense](/post/sense/) [of](/post/of/) [loyalty](/post/loyalty/) [or](/post/or/) [affection](/post/affection/), [especially](/post/especially/) towards [a](/post/a/) [person](/post/person/) [or](/post/or/) [activity](/post/activity/).
+   - [Example](/post/example/): "He's [such](/post/such/) [a](/post/a/) piggy [fan](/post/fan/) [of](/post/of/) [football](/post/football/), [he](/post/he/) attends [every](/post/every/) [match](/post/match/)."
    - Synonym: devoted
 
 ## Phrases
-- "[Pig](/en/post/pig/) [out](/en/post/out/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [for](/en/post/for/) indulging [in](/en/post/in/) [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [food](/en/post/food/).
-- "He's [a](/en/post/a/) [bit](/en/post/bit/) [of](/en/post/of/) [a](/en/post/a/) porker" is an informal [way](/en/post/way/) [of](/en/post/of/) describing [someone](/en/post/someone/) [who](/en/post/who/) is [quite](/en/post/quite/) [heavy](/en/post/heavy/).
-- "She's [a](/en/post/a/) [right](/en/post/right/) [little](/en/post/little/) piglet" is [a](/en/post/a/) [term](/en/post/term/) [of](/en/post/of/) endearment [for](/en/post/for/) [a](/en/post/a/) [small](/en/post/small/) [child](/en/post/child/).
+- "[Pig](/post/pig/) [out](/post/out/)" is [a](/post/a/) colloquial [expression](/post/expression/) [for](/post/for/) indulging [in](/post/in/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [food](/post/food/).
+- "He's [a](/post/a/) [bit](/post/bit/) [of](/post/of/) [a](/post/a/) porker" is an informal [way](/post/way/) [of](/post/of/) describing [someone](/post/someone/) [who](/post/who/) is [quite](/post/quite/) [heavy](/post/heavy/).
+- "She's [a](/post/a/) [right](/post/right/) [little](/post/little/) piglet" is [a](/post/a/) [term](/post/term/) [of](/post/of/) endearment [for](/post/for/) [a](/post/a/) [small](/post/small/) [child](/post/child/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) noticed [the](/en/post/the/) pigs rooting [through](/en/post/through/) [the](/en/post/the/) [mud](/en/post/mud/) [for](/en/post/for/) [food](/en/post/food/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [he](/en/post/he/) decided [to](/en/post/to/) [pig](/en/post/pig/) [out](/en/post/out/) [on](/en/post/on/) pizza."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) piggy cheeks were flushed [from](/en/post/from/) running."
-- **[Adjective](/en/post/adjective/) (informal)**: "He's [such](/en/post/such/) [a](/en/post/a/) piggy [when](/en/post/when/) [it](/en/post/it/) comes [to](/en/post/to/) [his](/en/post/his/) [music](/en/post/music/) [collection](/en/post/collection/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) noticed [the](/post/the/) pigs rooting [through](/post/through/) [the](/post/the/) [mud](/post/mud/) [for](/post/for/) [food](/post/food/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) decided [to](/post/to/) [pig](/post/pig/) [out](/post/out/) [on](/post/on/) pizza."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) piggy cheeks were flushed [from](/post/from/) running."
+- **[Adjective](/post/adjective/) (informal)**: "He's [such](/post/such/) [a](/post/a/) piggy [when](/post/when/) [it](/post/it/) comes [to](/post/to/) [his](/post/his/) [music](/post/music/) [collection](/post/collection/)."
 
 ## Synonyms
 - Glutton
-- Pigheaded (referring [to](/en/post/to/) stubbornness)
-- Porky (informal, specifically [for](/en/post/for/) [someone](/en/post/someone/) [who](/en/post/who/) is fat)
-- Boarish (pertaining [to](/en/post/to/) [behavior](/en/post/behavior/) [that](/en/post/that/) is [crude](/en/post/crude/) [or](/en/post/or/) offensive)
+- Pigheaded (referring [to](/post/to/) stubbornness)
+- Porky (informal, specifically [for](/post/for/) [someone](/post/someone/) [who](/post/who/) is fat)
+- Boarish (pertaining [to](/post/to/) [behavior](/post/behavior/) [that](/post/that/) is [crude](/post/crude/) [or](/post/or/) offensive)

@@ -7,36 +7,36 @@ description = '[ˌpesiˈmistik] a.悲观的；厌世的'
 keywords = ['ai words', 'pessimistic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pɛˈsɪmɪstɪk/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **[Pessimistic](/en/post/pessimistic/)** refers [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) tends [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [gloomy](/en/post/gloomy/) [or](/en/post/or/) [negative](/en/post/negative/) [outlook](/en/post/outlook/) [on](/en/post/on/) [life](/en/post/life/), expecting [the](/en/post/the/) worst-case scenario [to](/en/post/to/) [occur](/en/post/occur/). [It](/en/post/it/) describes [someone](/en/post/someone/) [who](/en/post/who/) believes [that](/en/post/that/) things are [unlikely](/en/post/unlikely/) [to](/en/post/to/) [turn](/en/post/turn/) [out](/en/post/out/) [well](/en/post/well/).
+### [Adjective](/post/adjective/)
+- **[Pessimistic](/post/pessimistic/)** refers [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) tends [to](/post/to/) [have](/post/have/) [a](/post/a/) [gloomy](/post/gloomy/) [or](/post/or/) [negative](/post/negative/) [outlook](/post/outlook/) [on](/post/on/) [life](/post/life/), expecting [the](/post/the/) worst-case scenario [to](/post/to/) [occur](/post/occur/). [It](/post/it/) describes [someone](/post/someone/) [who](/post/who/) believes [that](/post/that/) things are [unlikely](/post/unlikely/) [to](/post/to/) [turn](/post/turn/) [out](/post/out/) [well](/post/well/).
 
 ## Phrases
-- "[A](/en/post/a/) [pessimistic](/en/post/pessimistic/) [attitude](/en/post/attitude/)" denotes [a](/en/post/a/) consistently [pessimistic](/en/post/pessimistic/) [viewpoint](/en/post/viewpoint/).
-- "Displaying pessimism" shows [a](/en/post/a/) [tendency](/en/post/tendency/) [to](/en/post/to/) [focus](/en/post/focus/) [on](/en/post/on/) [the](/en/post/the/) [negative](/en/post/negative/) aspects.
-- "[Be](/en/post/be/) [pessimistic](/en/post/pessimistic/) [about](/en/post/about/)" expresses [doubt](/en/post/doubt/) [or](/en/post/or/) [concern](/en/post/concern/) [about](/en/post/about/) [a](/en/post/a/) [particular](/en/post/particular/) [outcome](/en/post/outcome/).
+- "[A](/post/a/) [pessimistic](/post/pessimistic/) [attitude](/post/attitude/)" denotes [a](/post/a/) consistently [pessimistic](/post/pessimistic/) [viewpoint](/post/viewpoint/).
+- "Displaying pessimism" shows [a](/post/a/) [tendency](/post/tendency/) [to](/post/to/) [focus](/post/focus/) [on](/post/on/) [the](/post/the/) [negative](/post/negative/) aspects.
+- "[Be](/post/be/) [pessimistic](/post/pessimistic/) [about](/post/about/)" expresses [doubt](/post/doubt/) [or](/post/or/) [concern](/post/concern/) [about](/post/about/) [a](/post/a/) [particular](/post/particular/) [outcome](/post/outcome/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: She's known [for](/en/post/for/) [her](/en/post/her/) [pessimistic](/en/post/pessimistic/) [view](/en/post/view/) [on](/en/post/on/) [the](/en/post/the/) project's chances [of](/en/post/of/) [success](/en/post/success/).
-- **[Adverb](/en/post/adverb/)**: [He](/en/post/he/) [always](/en/post/always/) approaches [life](/en/post/life/) [with](/en/post/with/) [a](/en/post/a/) [somewhat](/en/post/somewhat/) [pessimistic](/en/post/pessimistic/) demeanor.
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) coach's [pessimistic](/en/post/pessimistic/) assessment dampened [the](/en/post/the/) team's morale.
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: She's known [for](/post/for/) [her](/post/her/) [pessimistic](/post/pessimistic/) [view](/post/view/) [on](/post/on/) [the](/post/the/) project's chances [of](/post/of/) [success](/post/success/).
+- **[Adverb](/post/adverb/)**: [He](/post/he/) [always](/post/always/) approaches [life](/post/life/) [with](/post/with/) [a](/post/a/) [somewhat](/post/somewhat/) [pessimistic](/post/pessimistic/) demeanor.
+- **[Noun](/post/noun/)**: [The](/post/the/) coach's [pessimistic](/post/pessimistic/) assessment dampened [the](/post/the/) team's morale.
 
 ## Synonyms
 - Cynical
-- [Gloomy](/en/post/gloomy/)
-- [Hopeless](/en/post/hopeless/)
+- [Gloomy](/post/gloomy/)
+- [Hopeless](/post/hopeless/)
 - Pessimist
 - Doomsday
-- Realistic ([with](/en/post/with/) [a](/en/post/a/) [negative](/en/post/negative/) connotation)
-- [Negative](/en/post/negative/)
+- Realistic ([with](/post/with/) [a](/post/a/) [negative](/post/negative/) connotation)
+- [Negative](/post/negative/)
 
 ## Antonyms
-- [Optimistic](/en/post/optimistic/)
-- [Hopeful](/en/post/hopeful/)
-- [Confident](/en/post/confident/)
-- [Cheerful](/en/post/cheerful/)
+- [Optimistic](/post/optimistic/)
+- [Hopeful](/post/hopeful/)
+- [Confident](/post/confident/)
+- [Cheerful](/post/cheerful/)
 - Sanguine
 - Upbeat

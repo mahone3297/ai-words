@@ -7,26 +7,26 @@ description = '[ɑːˈtistik] a.艺术的；艺术家的'
 keywords = ['ai words', 'artistic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɑːrtɪstɪk/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [the](/en/post/the/) arts [or](/en/post/or/) requiring [artistic](/en/post/artistic/) [skill](/en/post/skill/) [or](/en/post/or/) [talent](/en/post/talent/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [artistic](/en/post/artistic/) [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [building](/en/post/building/) caught people's [attention](/en/post/attention/)."
-- **[Noun](/en/post/noun/)**: An [artist](/en/post/artist/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/) [or](/en/post/or/) [style](/en/post/style/). [For](/en/post/for/) [example](/en/post/example/): "She's an accomplished [artistic](/en/post/artistic/) [in](/en/post/in/) [the](/en/post/the/) [realm](/en/post/realm/) [of](/en/post/of/) [painting](/en/post/painting/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) an [artistic](/en/post/artistic/) [manner](/en/post/manner/); creatively [or](/en/post/or/) imaginatively. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) solved [the](/en/post/the/) [problem](/en/post/problem/) [in](/en/post/in/) an [artistic](/en/post/artistic/) [way](/en/post/way/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [the](/post/the/) arts [or](/post/or/) requiring [artistic](/post/artistic/) [skill](/post/skill/) [or](/post/or/) [talent](/post/talent/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [artistic](/post/artistic/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [building](/post/building/) caught people's [attention](/post/attention/)."
+- **[Noun](/post/noun/)**: An [artist](/post/artist/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/) [or](/post/or/) [style](/post/style/). [For](/post/for/) [example](/post/example/): "She's an accomplished [artistic](/post/artistic/) [in](/post/in/) [the](/post/the/) [realm](/post/realm/) [of](/post/of/) [painting](/post/painting/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) an [artistic](/post/artistic/) [manner](/post/manner/); creatively [or](/post/or/) imaginatively. [For](/post/for/) [example](/post/example/): "[He](/post/he/) solved [the](/post/the/) [problem](/post/problem/) [in](/post/in/) an [artistic](/post/artistic/) [way](/post/way/)."
 
 ## Phrases
-- "[Display](/en/post/display/) [artistic](/en/post/artistic/) flair" [means](/en/post/means/) [to](/en/post/to/) [exhibit](/en/post/exhibit/) creativity [or](/en/post/or/) [skill](/en/post/skill/) [in](/en/post/in/) an [artistic](/en/post/artistic/) [manner](/en/post/manner/).
-- "[Artistic](/en/post/artistic/) [expression](/en/post/expression/)" refers [to](/en/post/to/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [art](/en/post/art/) [to](/en/post/to/) [convey](/en/post/convey/) emotions [or](/en/post/or/) ideas.
-- "[Artistic](/en/post/artistic/) [license](/en/post/license/)" is [the](/en/post/the/) [freedom](/en/post/freedom/) [to](/en/post/to/) deviate [from](/en/post/from/) [reality](/en/post/reality/) [for](/en/post/for/) [creative](/en/post/creative/) purposes.
+- "[Display](/post/display/) [artistic](/post/artistic/) flair" [means](/post/means/) [to](/post/to/) [exhibit](/post/exhibit/) creativity [or](/post/or/) [skill](/post/skill/) [in](/post/in/) an [artistic](/post/artistic/) [manner](/post/manner/).
+- "[Artistic](/post/artistic/) [expression](/post/expression/)" refers [to](/post/to/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [art](/post/art/) [to](/post/to/) [convey](/post/convey/) emotions [or](/post/or/) ideas.
+- "[Artistic](/post/artistic/) [license](/post/license/)" is [the](/post/the/) [freedom](/post/freedom/) [to](/post/to/) deviate [from](/post/from/) [reality](/post/reality/) [for](/post/for/) [creative](/post/creative/) purposes.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [artistic](/en/post/artistic/) [performance](/en/post/performance/) was [a](/en/post/a/) mesmerizing [display](/en/post/display/) [of](/en/post/of/) [talent](/en/post/talent/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) studied [under](/en/post/under/) [several](/en/post/several/) [artistic](/en/post/artistic/) mentors [to](/en/post/to/) [refine](/en/post/refine/) [her](/en/post/her/) skills."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) chef takes an [artistic](/en/post/artistic/) [approach](/en/post/approach/) [to](/en/post/to/) plating [his](/en/post/his/) dishes."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [artistic](/post/artistic/) [performance](/post/performance/) was [a](/post/a/) mesmerizing [display](/post/display/) [of](/post/of/) [talent](/post/talent/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) studied [under](/post/under/) [several](/post/several/) [artistic](/post/artistic/) mentors [to](/post/to/) [refine](/post/refine/) [her](/post/her/) skills."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) chef takes an [artistic](/post/artistic/) [approach](/post/approach/) [to](/post/to/) plating [his](/post/his/) dishes."
 
 ## Synonyms
-- [Creative](/en/post/creative/)
+- [Creative](/post/creative/)
 - Talented
 - Innovative
 - Artful
@@ -37,6 +37,6 @@ keywords = ['ai words', 'artistic']
 - Unartistic
 - Mundane
 - Formulaic
-- [Practical](/en/post/practical/)
+- [Practical](/post/practical/)
 - Unimaginative
 - Skillless

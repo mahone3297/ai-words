@@ -7,28 +7,28 @@ description = '[ˈəuvəkəut] n.外衣，大衣'
 keywords = ['ai words', 'overcoat']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈoʊvərkəʊt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [long](/en/post/long/), [heavy](/en/post/heavy/) [coat](/en/post/coat/) worn [outdoors](/en/post/outdoors/) [during](/en/post/during/) [cold](/en/post/cold/) [weather](/en/post/weather/), typically designed [to](/en/post/to/) [be](/en/post/be/) worn [over](/en/post/over/) [other](/en/post/other/) [clothing](/en/post/clothing/) [for](/en/post/for/) added [warmth](/en/post/warmth/). 
+- **[Noun](/post/noun/)**: [A](/post/a/) [long](/post/long/), [heavy](/post/heavy/) [coat](/post/coat/) worn [outdoors](/post/outdoors/) [during](/post/during/) [cold](/post/cold/) [weather](/post/weather/), typically designed [to](/post/to/) [be](/post/be/) worn [over](/post/over/) [other](/post/other/) [clothing](/post/clothing/) [for](/post/for/) added [warmth](/post/warmth/). 
 
-### [Example](/en/post/example/) Sentences
-- _Noun_: "[As](/en/post/as/) [the](/en/post/the/) [winter](/en/post/winter/) months approached, [he](/en/post/he/) pulled [out](/en/post/out/) [his](/en/post/his/) [old](/en/post/old/) woolen [overcoat](/en/post/overcoat/) [from](/en/post/from/) [the](/en/post/the/) closet."
-- "[She](/en/post/she/) buttoned [up](/en/post/up/) [her](/en/post/her/) elegant [black](/en/post/black/) [overcoat](/en/post/overcoat/) [before](/en/post/before/) stepping [out](/en/post/out/) [into](/en/post/into/) [the](/en/post/the/) [snow](/en/post/snow/)."
+### [Example](/post/example/) Sentences
+- _Noun_: "[As](/post/as/) [the](/post/the/) [winter](/post/winter/) months approached, [he](/post/he/) pulled [out](/post/out/) [his](/post/his/) [old](/post/old/) woolen [overcoat](/post/overcoat/) [from](/post/from/) [the](/post/the/) closet."
+- "[She](/post/she/) buttoned [up](/post/up/) [her](/post/her/) elegant [black](/post/black/) [overcoat](/post/overcoat/) [before](/post/before/) stepping [out](/post/out/) [into](/post/into/) [the](/post/the/) [snow](/post/snow/)."
   
 ## Phrases
-- "[Put](/en/post/put/) [on](/en/post/on/) [your](/en/post/your/) [overcoat](/en/post/overcoat/)" implies dressing warmly [for](/en/post/for/) [outdoor](/en/post/outdoor/) activities [in](/en/post/in/) [cold](/en/post/cold/) conditions.
-- "An [overcoat](/en/post/overcoat/) [pocket](/en/post/pocket/)" [often](/en/post/often/) refers [to](/en/post/to/) [the](/en/post/the/) [outer](/en/post/outer/) pockets [of](/en/post/of/) [such](/en/post/such/) [a](/en/post/a/) garment [which](/en/post/which/) [can](/en/post/can/) [hold](/en/post/hold/) items [like](/en/post/like/) gloves [or](/en/post/or/) hats.
+- "[Put](/post/put/) [on](/post/on/) [your](/post/your/) [overcoat](/post/overcoat/)" implies dressing warmly [for](/post/for/) [outdoor](/post/outdoor/) activities [in](/post/in/) [cold](/post/cold/) conditions.
+- "An [overcoat](/post/overcoat/) [pocket](/post/pocket/)" [often](/post/often/) refers [to](/post/to/) [the](/post/the/) [outer](/post/outer/) pockets [of](/post/of/) [such](/post/such/) [a](/post/a/) garment [which](/post/which/) [can](/post/can/) [hold](/post/hold/) items [like](/post/like/) gloves [or](/post/or/) hats.
   
 ## Synonyms
 - Topcoat
 - Greatcoat
-- Trench [coat](/en/post/coat/) ([although](/en/post/although/) [this](/en/post/this/) has [a](/en/post/a/) [different](/en/post/different/) [style](/en/post/style/))
-- [Winter](/en/post/winter/) [coat](/en/post/coat/)
-- [Wrap](/en/post/wrap/)
+- Trench [coat](/post/coat/) ([although](/post/although/) [this](/post/this/) has [a](/post/a/) [different](/post/different/) [style](/post/style/))
+- [Winter](/post/winter/) [coat](/post/coat/)
+- [Wrap](/post/wrap/)
 - Outercoat
-- [Cloak](/en/post/cloak/)
+- [Cloak](/post/cloak/)
 
-## [Additional](/en/post/additional/) [Information](/en/post/information/)
-[The](/en/post/the/) [word](/en/post/word/) "[overcoat](/en/post/overcoat/)" is [not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), [preposition](/en/post/preposition/), [conjunction](/en/post/conjunction/), [pronoun](/en/post/pronoun/), numeral, [or](/en/post/or/) interjection. [Its](/en/post/its/) [primary](/en/post/primary/) [function](/en/post/function/) is [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) referring specifically [to](/en/post/to/) [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) outerwear. [The](/en/post/the/) [term](/en/post/term/) [may](/en/post/may/) [also](/en/post/also/) [appear](/en/post/appear/) [in](/en/post/in/) idiomatic expressions [such](/en/post/such/) [as](/en/post/as/) "[underneath](/en/post/underneath/) one's [overcoat](/en/post/overcoat/)," [which](/en/post/which/) metaphorically suggests [something](/en/post/something/) [that](/en/post/that/) is kept [private](/en/post/private/) [or](/en/post/or/) concealed.
+## [Additional](/post/additional/) [Information](/post/information/)
+[The](/post/the/) [word](/post/word/) "[overcoat](/post/overcoat/)" is [not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [adjective](/post/adjective/), [adverb](/post/adverb/), [preposition](/post/preposition/), [conjunction](/post/conjunction/), [pronoun](/post/pronoun/), numeral, [or](/post/or/) interjection. [Its](/post/its/) [primary](/post/primary/) [function](/post/function/) is [as](/post/as/) [a](/post/a/) [noun](/post/noun/) referring specifically [to](/post/to/) [a](/post/a/) [type](/post/type/) [of](/post/of/) outerwear. [The](/post/the/) [term](/post/term/) [may](/post/may/) [also](/post/also/) [appear](/post/appear/) [in](/post/in/) idiomatic expressions [such](/post/such/) [as](/post/as/) "[underneath](/post/underneath/) one's [overcoat](/post/overcoat/)," [which](/post/which/) metaphorically suggests [something](/post/something/) [that](/post/that/) is kept [private](/post/private/) [or](/post/or/) concealed.

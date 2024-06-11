@@ -7,39 +7,39 @@ description = '[stei] vi.停留；住 n.逗留'
 keywords = ['ai words', 'stay']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /steɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) spent [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/), [often](/en/post/often/) [for](/en/post/for/) [rest](/en/post/rest/) [or](/en/post/or/) recreation. *[Example](/en/post/example/): [They](/en/post/they/) decided [to](/en/post/to/) [stay](/en/post/stay/) [at](/en/post/at/) [the](/en/post/the/) [beach](/en/post/beach/) [for](/en/post/for/) [a](/en/post/a/) [week](/en/post/week/).*
-- [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) remaining [or](/en/post/or/) [being](/en/post/being/) [present](/en/post/present/) [in](/en/post/in/) [a](/en/post/a/) [location](/en/post/location/). *[Example](/en/post/example/): [She](/en/post/she/) stayed [up](/en/post/up/) [late](/en/post/late/) [to](/en/post/to/) [finish](/en/post/finish/) [her](/en/post/her/) [project](/en/post/project/).*
-- [A](/en/post/a/) reservation [or](/en/post/or/) booking. *[Example](/en/post/example/): [We](/en/post/we/) [have](/en/post/have/) [a](/en/post/a/) [room](/en/post/room/) reserved [for](/en/post/for/) [the](/en/post/the/) guests.*
+### [Noun](/post/noun/)
+- [A](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/) spent [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/), [often](/post/often/) [for](/post/for/) [rest](/post/rest/) [or](/post/or/) recreation. *[Example](/post/example/): [They](/post/they/) decided [to](/post/to/) [stay](/post/stay/) [at](/post/at/) [the](/post/the/) [beach](/post/beach/) [for](/post/for/) [a](/post/a/) [week](/post/week/).*
+- [The](/post/the/) [act](/post/act/) [of](/post/of/) remaining [or](/post/or/) [being](/post/being/) [present](/post/present/) [in](/post/in/) [a](/post/a/) [location](/post/location/). *[Example](/post/example/): [She](/post/she/) stayed [up](/post/up/) [late](/post/late/) [to](/post/to/) [finish](/post/finish/) [her](/post/her/) [project](/post/project/).*
+- [A](/post/a/) reservation [or](/post/or/) booking. *[Example](/post/example/): [We](/post/we/) [have](/post/have/) [a](/post/a/) [room](/post/room/) reserved [for](/post/for/) [the](/post/the/) guests.*
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [remain](/en/post/remain/) [in](/en/post/in/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [maintain](/en/post/maintain/) one's [position](/en/post/position/). *[Example](/en/post/example/): [He](/en/post/he/) stayed [calm](/en/post/calm/) [in](/en/post/in/) [the](/en/post/the/) [face](/en/post/face/) [of](/en/post/of/) [danger](/en/post/danger/).*
-- [To](/en/post/to/) [endure](/en/post/endure/) [or](/en/post/or/) [tolerate](/en/post/tolerate/) [something](/en/post/something/). *[Example](/en/post/example/): [She](/en/post/she/) stayed [strong](/en/post/strong/) [through](/en/post/through/) [her](/en/post/her/) [illness](/en/post/illness/).*
-- [To](/en/post/to/) [keep](/en/post/keep/) ([a](/en/post/a/) [feeling](/en/post/feeling/), [emotion](/en/post/emotion/), [or](/en/post/or/) [situation](/en/post/situation/)) [from](/en/post/from/) changing [or](/en/post/or/) disappearing. *[Example](/en/post/example/): [The](/en/post/the/) [memory](/en/post/memory/) stays [with](/en/post/with/) [me](/en/post/me/) [forever](/en/post/forever/).*
+### [Verb](/post/verb/)
+- [To](/post/to/) [remain](/post/remain/) [in](/post/in/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [maintain](/post/maintain/) one's [position](/post/position/). *[Example](/post/example/): [He](/post/he/) stayed [calm](/post/calm/) [in](/post/in/) [the](/post/the/) [face](/post/face/) [of](/post/of/) [danger](/post/danger/).*
+- [To](/post/to/) [endure](/post/endure/) [or](/post/or/) [tolerate](/post/tolerate/) [something](/post/something/). *[Example](/post/example/): [She](/post/she/) stayed [strong](/post/strong/) [through](/post/through/) [her](/post/her/) [illness](/post/illness/).*
+- [To](/post/to/) [keep](/post/keep/) ([a](/post/a/) [feeling](/post/feeling/), [emotion](/post/emotion/), [or](/post/or/) [situation](/post/situation/)) [from](/post/from/) changing [or](/post/or/) disappearing. *[Example](/post/example/): [The](/post/the/) [memory](/post/memory/) stays [with](/post/with/) [me](/post/me/) [forever](/post/forever/).*
 
-### [Adjective](/en/post/adjective/)
-- [Continual](/en/post/continual/) [or](/en/post/or/) persistent. *[Example](/en/post/example/): [The](/en/post/the/) [rainy](/en/post/rainy/) [weather](/en/post/weather/) stayed [for](/en/post/for/) days.*
-- Remaining [in](/en/post/in/) [place](/en/post/place/); stationary. *[Example](/en/post/example/): [The](/en/post/the/) [statue](/en/post/statue/) stood [still](/en/post/still/), staying [perfectly](/en/post/perfectly/) [upright](/en/post/upright/).*
+### [Adjective](/post/adjective/)
+- [Continual](/post/continual/) [or](/post/or/) persistent. *[Example](/post/example/): [The](/post/the/) [rainy](/post/rainy/) [weather](/post/weather/) stayed [for](/post/for/) days.*
+- Remaining [in](/post/in/) [place](/post/place/); stationary. *[Example](/post/example/): [The](/post/the/) [statue](/post/statue/) stood [still](/post/still/), staying [perfectly](/post/perfectly/) [upright](/post/upright/).*
 
 ## Phrases
-- "[Stay](/en/post/stay/) [put](/en/post/put/)" [means](/en/post/means/) [to](/en/post/to/) [remain](/en/post/remain/) [in](/en/post/in/) [one](/en/post/one/) [place](/en/post/place/).
-- "[Stay](/en/post/stay/) [on](/en/post/on/) [your](/en/post/your/) toes" implies [being](/en/post/being/) alert [and](/en/post/and/) [ready](/en/post/ready/).
-- "[Stay](/en/post/stay/) [in](/en/post/in/) [touch](/en/post/touch/)" is [a](/en/post/a/) [request](/en/post/request/) [to](/en/post/to/) [maintain](/en/post/maintain/) [communication](/en/post/communication/).
+- "[Stay](/post/stay/) [put](/post/put/)" [means](/post/means/) [to](/post/to/) [remain](/post/remain/) [in](/post/in/) [one](/post/one/) [place](/post/place/).
+- "[Stay](/post/stay/) [on](/post/on/) [your](/post/your/) toes" implies [being](/post/being/) alert [and](/post/and/) [ready](/post/ready/).
+- "[Stay](/post/stay/) [in](/post/in/) [touch](/post/touch/)" is [a](/post/a/) [request](/post/request/) [to](/post/to/) [maintain](/post/maintain/) [communication](/post/communication/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [journey](/en/post/journey/), [they](/en/post/they/) [finally](/en/post/finally/) reached [their](/en/post/their/) [hotel](/en/post/hotel/) [where](/en/post/where/) [they](/en/post/they/) planned [to](/en/post/to/) [stay](/en/post/stay/) [for](/en/post/for/) [a](/en/post/a/) [month](/en/post/month/).
-- **[Verb](/en/post/verb/)**: [Despite](/en/post/despite/) [the](/en/post/the/) challenges, [he](/en/post/he/) stayed focused [on](/en/post/on/) [his](/en/post/his/) [goal](/en/post/goal/) [until](/en/post/until/) [the](/en/post/the/) [end](/en/post/end/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) had [a](/en/post/a/) spooky [feeling](/en/post/feeling/), [as](/en/post/as/) [if](/en/post/if/) [it](/en/post/it/) was staying [with](/en/post/with/) [its](/en/post/its/) [past](/en/post/past/) inhabitants.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [After](/post/after/) [a](/post/a/) [long](/post/long/) [journey](/post/journey/), [they](/post/they/) [finally](/post/finally/) reached [their](/post/their/) [hotel](/post/hotel/) [where](/post/where/) [they](/post/they/) planned [to](/post/to/) [stay](/post/stay/) [for](/post/for/) [a](/post/a/) [month](/post/month/).
+- **[Verb](/post/verb/)**: [Despite](/post/despite/) [the](/post/the/) challenges, [he](/post/he/) stayed focused [on](/post/on/) [his](/post/his/) [goal](/post/goal/) [until](/post/until/) [the](/post/the/) [end](/post/end/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [old](/post/old/) [house](/post/house/) had [a](/post/a/) spooky [feeling](/post/feeling/), [as](/post/as/) [if](/post/if/) [it](/post/it/) was staying [with](/post/with/) [its](/post/its/) [past](/post/past/) inhabitants.
 
 ## Synonyms
-- [Remain](/en/post/remain/)
+- [Remain](/post/remain/)
 - linger
 - dwell
-- linger [on](/en/post/on/)
+- linger [on](/post/on/)
 - abide
-- [retain](/en/post/retain/)
-- [persist](/en/post/persist/)
+- [retain](/post/retain/)
+- [persist](/post/persist/)

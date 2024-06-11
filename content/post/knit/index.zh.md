@@ -12,23 +12,23 @@ keywords = ['ai words', 'knit']
 
 ## 释义
 - **动词**:
-1. 编织；针织。例如: "[She](/post/she/) is knitting [a](/post/a/) [scarf](/post/scarf/) [for](/post/for/) [her](/post/her/) [grandson](/post/grandson/)."
-2. （使）紧密联合，团结。例如: "[The](/post/the/) [community](/post/community/) was knitted [together](/post/together/) [by](/post/by/) [a](/post/a/) shared [sense](/post/sense/) [of](/post/of/) [purpose](/post/purpose/)."
+1. 编织；针织。例如: "[She](/zh/post/she/) is knitting [a](/zh/post/a/) [scarf](/zh/post/scarf/) [for](/zh/post/for/) [her](/zh/post/her/) [grandson](/zh/post/grandson/)."
+2. （使）紧密联合，团结。例如: "[The](/zh/post/the/) [community](/zh/post/community/) was knitted [together](/zh/post/together/) [by](/zh/post/by/) [a](/zh/post/a/) shared [sense](/zh/post/sense/) [of](/zh/post/of/) [purpose](/zh/post/purpose/)."
 
 - **名词**:
-编织物；针织品。例如: "[The](/post/the/) [sweater](/post/sweater/) is made [of](/post/of/) [a](/post/a/) [soft](/post/soft/) [wool](/post/wool/) [knit](/post/knit/)."
+编织物；针织品。例如: "[The](/zh/post/the/) [sweater](/zh/post/sweater/) is made [of](/zh/post/of/) [a](/zh/post/a/) [soft](/zh/post/soft/) [wool](/zh/post/wool/) [knit](/zh/post/knit/)."
 
 ## 短语
-- "[knit](/post/knit/) [together](/post/together/)" 意为将…编织在一起或紧密结合。例如: "[The](/post/the/) fibers were knitted [together](/post/together/) [to](/post/to/) [form](/post/form/) [a](/post/a/) [strong](/post/strong/) [fabric](/post/fabric/)."
-- "[to](/post/to/) [knit](/post/knit/) one's brows" 表示皱眉，集中注意力。例如: "[He](/post/he/) knitted [his](/post/his/) brows [in](/post/in/) [deep](/post/deep/) [concentration](/post/concentration/)."
+- "[knit](/zh/post/knit/) [together](/zh/post/together/)" 意为将…编织在一起或紧密结合。例如: "[The](/zh/post/the/) fibers were knitted [together](/zh/post/together/) [to](/zh/post/to/) [form](/zh/post/form/) [a](/zh/post/a/) [strong](/zh/post/strong/) [fabric](/zh/post/fabric/)."
+- "[to](/zh/post/to/) [knit](/zh/post/knit/) one's brows" 表示皱眉，集中注意力。例如: "[He](/zh/post/he/) knitted [his](/zh/post/his/) brows [in](/zh/post/in/) [deep](/zh/post/deep/) [concentration](/zh/post/concentration/)."
 
 ## 例句
-- 动词: "[She](/post/she/) enjoys knitting [in](/post/in/) [front](/post/front/) [of](/post/of/) [the](/post/the/) fireplace [on](/post/on/) [cold](/post/cold/) evenings."
-- 名词: "[The](/post/the/) [baby](/post/baby/) wore [a](/post/a/) hand-knit [hat](/post/hat/), keeping [its](/post/its/) [head](/post/head/) [warm](/post/warm/)."
+- 动词: "[She](/zh/post/she/) enjoys knitting [in](/zh/post/in/) [front](/zh/post/front/) [of](/zh/post/of/) [the](/zh/post/the/) fireplace [on](/zh/post/on/) [cold](/zh/post/cold/) evenings."
+- 名词: "[The](/zh/post/the/) [baby](/zh/post/baby/) wore [a](/zh/post/a/) hand-knit [hat](/zh/post/hat/), keeping [its](/zh/post/its/) [head](/zh/post/head/) [warm](/zh/post/warm/)."
 
 ## 同义词
 - crochet (钩针编织)
-- [sew](/post/sew/) (缝)
-- [weave](/post/weave/) (纺织)
-- [stitch](/post/stitch/) (缝制)
-- [join](/post/join/) (连接)
+- [sew](/zh/post/sew/) (缝)
+- [weave](/zh/post/weave/) (纺织)
+- [stitch](/zh/post/stitch/) (缝制)
+- [join](/zh/post/join/) (连接)

@@ -7,39 +7,39 @@ description = '[riˈzjuːm] vt.恢复；重新开始'
 keywords = ['ai words', 'resume']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈzjuːm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [summary](/en/post/summary/) [or](/en/post/or/) compilation [of](/en/post/of/) one's [work](/en/post/work/) [history](/en/post/history/), [education](/en/post/education/), skills, [and](/en/post/and/) qualifications, typically [provided](/en/post/provided/) [when](/en/post/when/) applying [for](/en/post/for/) [a](/en/post/a/) [job](/en/post/job/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) updated [her](/en/post/her/) [resume](/en/post/resume/) [with](/en/post/with/) [new](/en/post/new/) projects [and](/en/post/and/) achievements."
-2. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) resuming [or](/en/post/or/) restarting an [activity](/en/post/activity/) [after](/en/post/after/) [a](/en/post/a/) [break](/en/post/break/) [or](/en/post/or/) [pause](/en/post/pause/).
-   - [Example](/en/post/example/): "[After](/en/post/after/) [a](/en/post/a/) [short](/en/post/short/) [break](/en/post/break/), [they](/en/post/they/) resumed [their](/en/post/their/) [discussion](/en/post/discussion/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [summary](/post/summary/) [or](/post/or/) compilation [of](/post/of/) one's [work](/post/work/) [history](/post/history/), [education](/post/education/), skills, [and](/post/and/) qualifications, typically [provided](/post/provided/) [when](/post/when/) applying [for](/post/for/) [a](/post/a/) [job](/post/job/).
+   - [Example](/post/example/): "[She](/post/she/) updated [her](/post/her/) [resume](/post/resume/) [with](/post/with/) [new](/post/new/) projects [and](/post/and/) achievements."
+2. [The](/post/the/) [act](/post/act/) [of](/post/of/) resuming [or](/post/or/) restarting an [activity](/post/activity/) [after](/post/after/) [a](/post/a/) [break](/post/break/) [or](/post/or/) [pause](/post/pause/).
+   - [Example](/post/example/): "[After](/post/after/) [a](/post/a/) [short](/post/short/) [break](/post/break/), [they](/post/they/) resumed [their](/post/their/) [discussion](/post/discussion/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [present](/en/post/present/) [or](/en/post/or/) [begin](/en/post/begin/) [again](/en/post/again/) ([a](/en/post/a/) [job](/en/post/job/), [career](/en/post/career/), [or](/en/post/or/) [project](/en/post/project/)), [often](/en/post/often/) [after](/en/post/after/) [a](/en/post/a/) [pause](/en/post/pause/) [or](/en/post/or/) [interruption](/en/post/interruption/).
-   - [Example](/en/post/example/): "[He](/en/post/he/) decided [to](/en/post/to/) [resume](/en/post/resume/) [his](/en/post/his/) studies [after](/en/post/after/) [a](/en/post/a/) [gap](/en/post/gap/) [year](/en/post/year/)."
-2. [To](/en/post/to/) [continue](/en/post/continue/) [or](/en/post/or/) [take](/en/post/take/) [up](/en/post/up/) [where](/en/post/where/) [something](/en/post/something/) [left](/en/post/left/) [off](/en/post/off/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [meeting](/en/post/meeting/) was suspended, [but](/en/post/but/) we'll [resume](/en/post/resume/) [at](/en/post/at/) 3 PM."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [present](/post/present/) [or](/post/or/) [begin](/post/begin/) [again](/post/again/) ([a](/post/a/) [job](/post/job/), [career](/post/career/), [or](/post/or/) [project](/post/project/)), [often](/post/often/) [after](/post/after/) [a](/post/a/) [pause](/post/pause/) [or](/post/or/) [interruption](/post/interruption/).
+   - [Example](/post/example/): "[He](/post/he/) decided [to](/post/to/) [resume](/post/resume/) [his](/post/his/) studies [after](/post/after/) [a](/post/a/) [gap](/post/gap/) [year](/post/year/)."
+2. [To](/post/to/) [continue](/post/continue/) [or](/post/or/) [take](/post/take/) [up](/post/up/) [where](/post/where/) [something](/post/something/) [left](/post/left/) [off](/post/off/).
+   - [Example](/post/example/): "[The](/post/the/) [meeting](/post/meeting/) was suspended, [but](/post/but/) we'll [resume](/post/resume/) [at](/post/at/) 3 PM."
 
-### [Adjective](/en/post/adjective/)
-1. Characterizing [or](/en/post/or/) relating [to](/en/post/to/) [a](/en/post/a/) [summary](/en/post/summary/) [or](/en/post/or/) resumption.
-   - [Example](/en/post/example/): "[A](/en/post/a/) well-organized [resume](/en/post/resume/) [can](/en/post/can/) [make](/en/post/make/) [a](/en/post/a/) [big](/en/post/big/) [difference](/en/post/difference/) [in](/en/post/in/) [job](/en/post/job/) applications."
+### [Adjective](/post/adjective/)
+1. Characterizing [or](/post/or/) relating [to](/post/to/) [a](/post/a/) [summary](/post/summary/) [or](/post/or/) resumption.
+   - [Example](/post/example/): "[A](/post/a/) well-organized [resume](/post/resume/) [can](/post/can/) [make](/post/make/) [a](/post/a/) [big](/post/big/) [difference](/post/difference/) [in](/post/in/) [job](/post/job/) applications."
 
 ## Phrases
-- "Update [your](/en/post/your/) [resume](/en/post/resume/)" [means](/en/post/means/) [to](/en/post/to/) [revise](/en/post/revise/) [or](/en/post/or/) [add](/en/post/add/) [new](/en/post/new/) [information](/en/post/information/) [to](/en/post/to/) [your](/en/post/your/) [professional](/en/post/professional/) profile.
-- "[Send](/en/post/send/) [in](/en/post/in/) [your](/en/post/your/) [resume](/en/post/resume/)" is [a](/en/post/a/) [request](/en/post/request/) [to](/en/post/to/) [submit](/en/post/submit/) [a](/en/post/a/) [job](/en/post/job/) [application](/en/post/application/).
-- "[Resume](/en/post/resume/) [writing](/en/post/writing/)" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) crafting [a](/en/post/a/) [strong](/en/post/strong/) [resume](/en/post/resume/).
+- "Update [your](/post/your/) [resume](/post/resume/)" [means](/post/means/) [to](/post/to/) [revise](/post/revise/) [or](/post/or/) [add](/post/add/) [new](/post/new/) [information](/post/information/) [to](/post/to/) [your](/post/your/) [professional](/post/professional/) profile.
+- "[Send](/post/send/) [in](/post/in/) [your](/post/your/) [resume](/post/resume/)" is [a](/post/a/) [request](/post/request/) [to](/post/to/) [submit](/post/submit/) [a](/post/a/) [job](/post/job/) [application](/post/application/).
+- "[Resume](/post/resume/) [writing](/post/writing/)" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) crafting [a](/post/a/) [strong](/post/strong/) [resume](/post/resume/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) carefully polished [her](/en/post/her/) [resume](/en/post/resume/) [before](/en/post/before/) sending [it](/en/post/it/) [out](/en/post/out/) [to](/en/post/to/) [potential](/en/post/potential/) employers."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) overcoming [his](/en/post/his/) [illness](/en/post/illness/), [he](/en/post/he/) resolved [to](/en/post/to/) [resume](/en/post/resume/) [his](/en/post/his/) [normal](/en/post/normal/) [routine](/en/post/routine/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [impressive](/en/post/impressive/) [resume](/en/post/resume/) attracted [the](/en/post/the/) hiring manager's [attention](/en/post/attention/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) carefully polished [her](/post/her/) [resume](/post/resume/) [before](/post/before/) sending [it](/post/it/) [out](/post/out/) [to](/post/to/) [potential](/post/potential/) employers."
+- **[Verb](/post/verb/)**: "[After](/post/after/) overcoming [his](/post/his/) [illness](/post/illness/), [he](/post/he/) resolved [to](/post/to/) [resume](/post/resume/) [his](/post/his/) [normal](/post/normal/) [routine](/post/routine/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [impressive](/post/impressive/) [resume](/post/resume/) attracted [the](/post/the/) hiring manager's [attention](/post/attention/)."
 
 ## Synonyms
 - CV (Curriculum Vitae)
-- Résumé (French [spelling](/en/post/spelling/))
-- [Career](/en/post/career/) profile
-- [Professional](/en/post/professional/) [summary](/en/post/summary/)
-- [Job](/en/post/job/) [application](/en/post/application/) overview
+- Résumé (French [spelling](/post/spelling/))
+- [Career](/post/career/) profile
+- [Professional](/post/professional/) [summary](/post/summary/)
+- [Job](/post/job/) [application](/post/application/) overview

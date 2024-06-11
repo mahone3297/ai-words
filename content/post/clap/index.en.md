@@ -7,38 +7,38 @@ description = '[klæp] vi.拍手 vt.拍，轻拍'
 keywords = ['ai words', 'clap']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /klæp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [sound](/en/post/sound/) made [by](/en/post/by/) slapping [the](/en/post/the/) hands [together](/en/post/together/), [usually](/en/post/usually/) [in](/en/post/in/) celebration, appreciation, [or](/en/post/or/) [to](/en/post/to/) [signal](/en/post/signal/) [attention](/en/post/attention/).** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [audience](/en/post/audience/) clapped loudly [after](/en/post/after/) [the](/en/post/the/) [performance](/en/post/performance/)."
-- **An [act](/en/post/act/) [of](/en/post/of/) applauding; [praise](/en/post/praise/) [or](/en/post/or/) [approval](/en/post/approval/) given [by](/en/post/by/) clapping.** [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) received [a](/en/post/a/) standing ovation [from](/en/post/from/) [the](/en/post/the/) [crowd](/en/post/crowd/) [for](/en/post/for/) [her](/en/post/her/) [excellent](/en/post/excellent/) presentation."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [sound](/post/sound/) made [by](/post/by/) slapping [the](/post/the/) hands [together](/post/together/), [usually](/post/usually/) [in](/post/in/) celebration, appreciation, [or](/post/or/) [to](/post/to/) [signal](/post/signal/) [attention](/post/attention/).** [For](/post/for/) [example](/post/example/): "[The](/post/the/) [audience](/post/audience/) clapped loudly [after](/post/after/) [the](/post/the/) [performance](/post/performance/)."
+- **An [act](/post/act/) [of](/post/of/) applauding; [praise](/post/praise/) [or](/post/or/) [approval](/post/approval/) given [by](/post/by/) clapping.** [For](/post/for/) [example](/post/example/): "[She](/post/she/) received [a](/post/a/) standing ovation [from](/post/from/) [the](/post/the/) [crowd](/post/crowd/) [for](/post/for/) [her](/post/her/) [excellent](/post/excellent/) presentation."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [make](/en/post/make/) [the](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) clapping [with](/en/post/with/) one's hands, typically [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) [something](/en/post/something/) [impressive](/en/post/impressive/) [or](/en/post/or/) enjoyable.** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) children clapped excitedly [when](/en/post/when/) [the](/en/post/the/) magician performed [his](/en/post/his/) [trick](/en/post/trick/)."
-- **[To](/en/post/to/) [show](/en/post/show/) [approval](/en/post/approval/) [or](/en/post/or/) [support](/en/post/support/) [by](/en/post/by/) clapping.** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) clapped [the](/en/post/the/) [student](/en/post/student/) [on](/en/post/on/) [the](/en/post/the/) [back](/en/post/back/) [for](/en/post/for/) [their](/en/post/their/) [hard](/en/post/hard/) [work](/en/post/work/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [make](/post/make/) [the](/post/the/) [sound](/post/sound/) [of](/post/of/) clapping [with](/post/with/) one's hands, typically [in](/post/in/) [response](/post/response/) [to](/post/to/) [something](/post/something/) [impressive](/post/impressive/) [or](/post/or/) enjoyable.** [For](/post/for/) [example](/post/example/): "[The](/post/the/) children clapped excitedly [when](/post/when/) [the](/post/the/) magician performed [his](/post/his/) [trick](/post/trick/)."
+- **[To](/post/to/) [show](/post/show/) [approval](/post/approval/) [or](/post/or/) [support](/post/support/) [by](/post/by/) clapping.** [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) clapped [the](/post/the/) [student](/post/student/) [on](/post/on/) [the](/post/the/) [back](/post/back/) [for](/post/for/) [their](/post/their/) [hard](/post/hard/) [work](/post/work/)."
 
-### [Adjective](/en/post/adjective/)
-- **Characterized [by](/en/post/by/) [or](/en/post/or/) involving clapping; celebratory [or](/en/post/or/) [enthusiastic](/en/post/enthusiastic/).** [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) jubilant [clap](/en/post/clap/) [line](/en/post/line/) filled [the](/en/post/the/) auditorium."
+### [Adjective](/post/adjective/)
+- **Characterized [by](/post/by/) [or](/post/or/) involving clapping; celebratory [or](/post/or/) [enthusiastic](/post/enthusiastic/).** [For](/post/for/) [example](/post/example/): "[A](/post/a/) jubilant [clap](/post/clap/) [line](/post/line/) filled [the](/post/the/) auditorium."
 
-### [Adverb](/en/post/adverb/)
-- **[In](/en/post/in/) [a](/en/post/a/) clapping [manner](/en/post/manner/); expressing [approval](/en/post/approval/) [or](/en/post/or/) appreciation.** [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) applauded enthusiastically [during](/en/post/during/) [the](/en/post/the/) [concert](/en/post/concert/)."
+### [Adverb](/post/adverb/)
+- **[In](/post/in/) [a](/post/a/) clapping [manner](/post/manner/); expressing [approval](/post/approval/) [or](/post/or/) appreciation.** [For](/post/for/) [example](/post/example/): "[He](/post/he/) applauded enthusiastically [during](/post/during/) [the](/post/the/) [concert](/post/concert/)."
 
 ## Phrases
-- "Applaud [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) [them](/en/post/them/) clapping [as](/en/post/as/) [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [praise](/en/post/praise/).
-- "[Clap](/en/post/clap/) [along](/en/post/along/)" is [a](/en/post/a/) [request](/en/post/request/) [to](/en/post/to/) [join](/en/post/join/) [in](/en/post/in/) clapping [together](/en/post/together/).
-- "[Clap](/en/post/clap/) [off](/en/post/off/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [stop](/en/post/stop/) clapping abruptly.
+- "Applaud [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [give](/post/give/) [them](/post/them/) clapping [as](/post/as/) [a](/post/a/) [form](/post/form/) [of](/post/of/) [praise](/post/praise/).
+- "[Clap](/post/clap/) [along](/post/along/)" is [a](/post/a/) [request](/post/request/) [to](/post/to/) [join](/post/join/) [in](/post/in/) clapping [together](/post/together/).
+- "[Clap](/post/clap/) [off](/post/off/)" is [a](/post/a/) colloquial [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [stop](/post/stop/) clapping abruptly.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [audience](/en/post/audience/) clapped [their](/en/post/their/) hands [to](/en/post/to/) [show](/en/post/show/) [their](/en/post/their/) appreciation [for](/en/post/for/) [the](/en/post/the/) comedian."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [play](/en/post/play/), [the](/en/post/the/) actors took [a](/en/post/a/) [bow](/en/post/bow/), receiving thunderous applause [from](/en/post/from/) [the](/en/post/the/) [audience](/en/post/audience/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) children were engaged [in](/en/post/in/) [a](/en/post/a/) [lively](/en/post/lively/) [clap](/en/post/clap/) [game](/en/post/game/) [during](/en/post/during/) recess."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) clapped [her](/en/post/her/) hands [so](/en/post/so/) vigorously [that](/en/post/that/) [the](/en/post/the/) [roof](/en/post/roof/) [nearly](/en/post/nearly/) shook."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [audience](/post/audience/) clapped [their](/post/their/) hands [to](/post/to/) [show](/post/show/) [their](/post/their/) appreciation [for](/post/for/) [the](/post/the/) comedian."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [play](/post/play/), [the](/post/the/) actors took [a](/post/a/) [bow](/post/bow/), receiving thunderous applause [from](/post/from/) [the](/post/the/) [audience](/post/audience/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) children were engaged [in](/post/in/) [a](/post/a/) [lively](/post/lively/) [clap](/post/clap/) [game](/post/game/) [during](/post/during/) recess."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) clapped [her](/post/her/) hands [so](/post/so/) vigorously [that](/post/that/) [the](/post/the/) [roof](/post/roof/) [nearly](/post/nearly/) shook."
 
 ## Synonyms
 - Applaud
 - Clapback
-- [Cheer](/en/post/cheer/)
+- [Cheer](/post/cheer/)
 - Hail
-- [Salute](/en/post/salute/) (informal)
+- [Salute](/post/salute/) (informal)

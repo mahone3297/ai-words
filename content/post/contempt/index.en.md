@@ -7,47 +7,47 @@ description = '[kənˈtempt] n.轻蔑；藐视；受辱'
 keywords = ['ai words', 'contempt']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈtɛmpl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Contempt](/en/post/contempt/)**: [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) disrespect [or](/en/post/or/) disdain towards [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/); [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) admiration [or](/en/post/or/) [regard](/en/post/regard/).
-- **Derivation**: [From](/en/post/from/) Latin "contemptus", [meaning](/en/post/meaning/) [to](/en/post/to/) [despise](/en/post/despise/) [or](/en/post/or/) [scorn](/en/post/scorn/).
+### [Noun](/post/noun/)
+- **[Contempt](/post/contempt/)**: [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) disrespect [or](/post/or/) disdain towards [someone](/post/someone/) [or](/post/or/) [something](/post/something/); [a](/post/a/) [lack](/post/lack/) [of](/post/of/) admiration [or](/post/or/) [regard](/post/regard/).
+- **Derivation**: [From](/post/from/) Latin "contemptus", [meaning](/post/meaning/) [to](/post/to/) [despise](/post/despise/) [or](/post/or/) [scorn](/post/scorn/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [contempt](/en/post/contempt/)**: [To](/en/post/to/) [show](/en/post/show/) disrespect [or](/en/post/or/) disregard [for](/en/post/for/); [to](/en/post/to/) [hold](/en/post/hold/) [in](/en/post/in/) [low](/en/post/low/) [opinion](/en/post/opinion/) [of](/en/post/of/).
-- **[To](/en/post/to/) [treat](/en/post/treat/) [with](/en/post/with/) [contempt](/en/post/contempt/)**: [To](/en/post/to/) [treat](/en/post/treat/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [with](/en/post/with/) [scorn](/en/post/scorn/) [or](/en/post/or/) disrespect.
+### [Verb](/post/verb/)
+- **[To](/post/to/) [contempt](/post/contempt/)**: [To](/post/to/) [show](/post/show/) disrespect [or](/post/or/) disregard [for](/post/for/); [to](/post/to/) [hold](/post/hold/) [in](/post/in/) [low](/post/low/) [opinion](/post/opinion/) [of](/post/of/).
+- **[To](/post/to/) [treat](/post/treat/) [with](/post/with/) [contempt](/post/contempt/)**: [To](/post/to/) [treat](/post/treat/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [with](/post/with/) [scorn](/post/scorn/) [or](/post/or/) disrespect.
 
-### [Adjective](/en/post/adjective/)
-- **Contemptuous**: Showing [or](/en/post/or/) expressing [contempt](/en/post/contempt/); disdainful.
+### [Adjective](/post/adjective/)
+- **Contemptuous**: Showing [or](/post/or/) expressing [contempt](/post/contempt/); disdainful.
 
-### [Adverb](/en/post/adverb/)
-- **Contemptuously**: [In](/en/post/in/) [a](/en/post/a/) disrespectful [or](/en/post/or/) scornful [manner](/en/post/manner/).
+### [Adverb](/post/adverb/)
+- **Contemptuously**: [In](/post/in/) [a](/post/a/) disrespectful [or](/post/or/) scornful [manner](/post/manner/).
 
 ## Phrases
-- "[Express](/en/post/express/) [contempt](/en/post/contempt/) [for](/en/post/for/)": [To](/en/post/to/) openly [show](/en/post/show/) disapproval [or](/en/post/or/) disdain.
-- "[Feel](/en/post/feel/) [no](/en/post/no/) [contempt](/en/post/contempt/) [for](/en/post/for/)": [To](/en/post/to/) [have](/en/post/have/) [no](/en/post/no/) [negative](/en/post/negative/) feelings towards [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/).
-- "[In](/en/post/in/) [contempt](/en/post/contempt/) [of](/en/post/of/)": Disregarding [or](/en/post/or/) showing disrespect [for](/en/post/for/) [a](/en/post/a/) [rule](/en/post/rule/) [or](/en/post/or/) [authority](/en/post/authority/).
+- "[Express](/post/express/) [contempt](/post/contempt/) [for](/post/for/)": [To](/post/to/) openly [show](/post/show/) disapproval [or](/post/or/) disdain.
+- "[Feel](/post/feel/) [no](/post/no/) [contempt](/post/contempt/) [for](/post/for/)": [To](/post/to/) [have](/post/have/) [no](/post/no/) [negative](/post/negative/) feelings towards [someone](/post/someone/) [or](/post/or/) [something](/post/something/).
+- "[In](/post/in/) [contempt](/post/contempt/) [of](/post/of/)": Disregarding [or](/post/or/) showing disrespect [for](/post/for/) [a](/post/a/) [rule](/post/rule/) [or](/post/or/) [authority](/post/authority/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) arrogance showed [a](/en/post/a/) [deep](/en/post/deep/) [contempt](/en/post/contempt/) [for](/en/post/for/) [those](/en/post/those/) [beneath](/en/post/beneath/) [her](/en/post/her/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was held [in](/en/post/in/) [contempt](/en/post/contempt/) [by](/en/post/by/) [the](/en/post/the/) [court](/en/post/court/) [for](/en/post/for/) [his](/en/post/his/) dishonesty."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) contemptuous [laughter](/en/post/laughter/) echoed [through](/en/post/through/) [the](/en/post/the/) [room](/en/post/room/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) answered [their](/en/post/their/) questions contemptuously, dismissing [their](/en/post/their/) concerns."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) arrogance showed [a](/post/a/) [deep](/post/deep/) [contempt](/post/contempt/) [for](/post/for/) [those](/post/those/) [beneath](/post/beneath/) [her](/post/her/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) was held [in](/post/in/) [contempt](/post/contempt/) [by](/post/by/) [the](/post/the/) [court](/post/court/) [for](/post/for/) [his](/post/his/) dishonesty."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) contemptuous [laughter](/post/laughter/) echoed [through](/post/through/) [the](/post/the/) [room](/post/room/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) answered [their](/post/their/) questions contemptuously, dismissing [their](/post/their/) concerns."
 
 ## Synonyms
 - Disdain
-- [Scorn](/en/post/scorn/)
+- [Scorn](/post/scorn/)
 - Derision
 - Contemned
 - Disparagement
-- [Insult](/en/post/insult/)
+- [Insult](/post/insult/)
 - Repugnance
 
 ## Antonyms
-- [Respect](/en/post/respect/)
+- [Respect](/post/respect/)
 - Admiration
 - Appreciation
-- [Tolerance](/en/post/tolerance/)
-- [Acceptance](/en/post/acceptance/)
+- [Tolerance](/post/tolerance/)
+- [Acceptance](/post/acceptance/)

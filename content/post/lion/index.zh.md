@@ -12,20 +12,20 @@ keywords = ['ai words', 'lion']
 
 ## 释义
 - **名词**: 
-   - 一种大型猫科动物，雄性有明显的鬃毛，通常生活在非洲草原和丛林中，是力量和勇猛的象征。例如: "[The](/post/the/) [lion](/post/lion/) is [the](/post/the/) [king](/post/king/) [of](/post/of/) [the](/post/the/) [jungle](/post/jungle/)."
-   - 常用来比喻强有力或有威严的人。例如: "He's known [as](/post/as/) [the](/post/the/) [lion](/post/lion/) [of](/post/of/) [the](/post/the/) [Senate](/post/senate/)."
+   - 一种大型猫科动物，雄性有明显的鬃毛，通常生活在非洲草原和丛林中，是力量和勇猛的象征。例如: "[The](/zh/post/the/) [lion](/zh/post/lion/) is [the](/zh/post/the/) [king](/zh/post/king/) [of](/zh/post/of/) [the](/zh/post/the/) [jungle](/zh/post/jungle/)."
+   - 常用来比喻强有力或有威严的人。例如: "He's known [as](/zh/post/as/) [the](/zh/post/the/) [lion](/zh/post/lion/) [of](/zh/post/of/) [the](/zh/post/the/) [Senate](/zh/post/senate/)."
 
 ## 短语
-- "Lion's [share](/post/share/)" 意味着最大的一部分或份额。例如: "[They](/post/they/) got [the](/post/the/) lion's [share](/post/share/) [of](/post/of/) [the](/post/the/) profits."
-- "[Heart](/post/heart/) [of](/post/of/) [a](/post/a/) [lion](/post/lion/)" 形容一个人有极大的勇气或决心。例如: "[She](/post/she/) faced [her](/post/her/) fears [with](/post/with/) [the](/post/the/) [heart](/post/heart/) [of](/post/of/) [a](/post/a/) [lion](/post/lion/)."
+- "Lion's [share](/zh/post/share/)" 意味着最大的一部分或份额。例如: "[They](/zh/post/they/) got [the](/zh/post/the/) lion's [share](/zh/post/share/) [of](/zh/post/of/) [the](/zh/post/the/) profits."
+- "[Heart](/zh/post/heart/) [of](/zh/post/of/) [a](/zh/post/a/) [lion](/zh/post/lion/)" 形容一个人有极大的勇气或决心。例如: "[She](/zh/post/she/) faced [her](/zh/post/her/) fears [with](/zh/post/with/) [the](/zh/post/the/) [heart](/zh/post/heart/) [of](/zh/post/of/) [a](/zh/post/a/) [lion](/zh/post/lion/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [lion](/post/lion/) roared loudly [as](/post/as/) [it](/post/it/) spotted [its](/post/its/) prey [in](/post/in/) [the](/post/the/) [distance](/post/distance/)."
-- 比喻: "[The](/post/the/) CEO has [the](/post/the/) lion's [roar](/post/roar/) [when](/post/when/) making [important](/post/important/) decisions."
+- 名词: "[The](/zh/post/the/) [lion](/zh/post/lion/) roared loudly [as](/zh/post/as/) [it](/zh/post/it/) spotted [its](/zh/post/its/) prey [in](/zh/post/in/) [the](/zh/post/the/) [distance](/zh/post/distance/)."
+- 比喻: "[The](/zh/post/the/) CEO has [the](/zh/post/the/) lion's [roar](/zh/post/roar/) [when](/zh/post/when/) making [important](/zh/post/important/) decisions."
 
 ## 同义词
 - Panther
-- [Tiger](/post/tiger/)
+- [Tiger](/zh/post/tiger/)
 - Leopard
 - Jaguar
 - Wildcat

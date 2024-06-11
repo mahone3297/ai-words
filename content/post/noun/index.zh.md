@@ -11,22 +11,22 @@ keywords = ['ai words', 'noun']
 /həˈloʊ/
 
 ## 释义
-- **名词**: 表示问候或打招呼的用语。例如: "[He](/post/he/) gave [me](/post/me/) [a](/post/a/) [cheerful](/post/cheerful/) [hello](/post/hello/)."
-- **动词**: 说“你好”或问候。例如: "[She](/post/she/) helloed [everyone](/post/everyone/) [she](/post/she/) met [at](/post/at/) [the](/post/the/) [party](/post/party/)."
-- **感叹词**: 用于打招呼、引起注意或表示惊讶。例如: "[Hello](/post/hello/)! [How](/post/how/) are [you](/post/you/)?"，"[Hello](/post/hello/)! [What](/post/what/) are [you](/post/you/) doing [here](/post/here/)?"
+- **名词**: 表示问候或打招呼的用语。例如: "[He](/zh/post/he/) gave [me](/zh/post/me/) [a](/zh/post/a/) [cheerful](/zh/post/cheerful/) [hello](/zh/post/hello/)."
+- **动词**: 说“你好”或问候。例如: "[She](/zh/post/she/) helloed [everyone](/zh/post/everyone/) [she](/zh/post/she/) met [at](/zh/post/at/) [the](/zh/post/the/) [party](/zh/post/party/)."
+- **感叹词**: 用于打招呼、引起注意或表示惊讶。例如: "[Hello](/zh/post/hello/)! [How](/zh/post/how/) are [you](/zh/post/you/)?"，"[Hello](/zh/post/hello/)! [What](/zh/post/what/) are [you](/zh/post/you/) doing [here](/zh/post/here/)?"
 
 ## 短语
-- "[Say](/post/say/) [hello](/post/hello/) [to](/post/to/) [someone](/post/someone/)" 意思是向某人问好。
-- "[Hello](/post/hello/) [there](/post/there/)" 是一种比较随意的打招呼方式。
-- "[Hello](/post/hello/), [world](/post/world/)!" 是计算机编程中用于测试输出的常用短语。
+- "[Say](/zh/post/say/) [hello](/zh/post/hello/) [to](/zh/post/to/) [someone](/zh/post/someone/)" 意思是向某人问好。
+- "[Hello](/zh/post/hello/) [there](/zh/post/there/)" 是一种比较随意的打招呼方式。
+- "[Hello](/zh/post/hello/), [world](/zh/post/world/)!" 是计算机编程中用于测试输出的常用短语。
 
 ## 例句
-- 名词: "[He](/post/he/) gave [me](/post/me/) [a](/post/a/) [warm](/post/warm/) [hello](/post/hello/) [as](/post/as/) I walked [into](/post/into/) [the](/post/the/) [room](/post/room/)."
-- 动词: "[She](/post/she/) [always](/post/always/) makes [sure](/post/sure/) [to](/post/to/) [hello](/post/hello/) [everyone](/post/everyone/) [at](/post/at/) [the](/post/the/) [party](/post/party/)."
-- 感叹词: "[Hello](/post/hello/)! I didn't [see](/post/see/) [you](/post/you/) [there](/post/there/)."
+- 名词: "[He](/zh/post/he/) gave [me](/zh/post/me/) [a](/zh/post/a/) [warm](/zh/post/warm/) [hello](/zh/post/hello/) [as](/zh/post/as/) I walked [into](/zh/post/into/) [the](/zh/post/the/) [room](/zh/post/room/)."
+- 动词: "[She](/zh/post/she/) [always](/zh/post/always/) makes [sure](/zh/post/sure/) [to](/zh/post/to/) [hello](/zh/post/hello/) [everyone](/zh/post/everyone/) [at](/zh/post/at/) [the](/zh/post/the/) [party](/zh/post/party/)."
+- 感叹词: "[Hello](/zh/post/hello/)! I didn't [see](/zh/post/see/) [you](/zh/post/you/) [there](/zh/post/there/)."
 
 ## 同义词
-- [Hi](/post/hi/)
+- [Hi](/zh/post/hi/)
 - Hey
 - Greetings
 - Howdy

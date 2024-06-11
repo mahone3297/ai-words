@@ -7,40 +7,40 @@ description = '[ˈpɑːləmənt] n.议会，国会'
 keywords = ['ai words', 'parliament']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈpɑːrliəm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Parliament](/en/post/parliament/)**: 1. [A](/en/post/a/) legislative [assembly](/en/post/assembly/), [usually](/en/post/usually/) consisting [of](/en/post/of/) elected representatives, [that](/en/post/that/) makes laws [and](/en/post/and/) represents [the](/en/post/the/) [people](/en/post/people/) [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/) [or](/en/post/or/) [region](/en/post/region/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) British [Parliament](/en/post/parliament/) consists [of](/en/post/of/) [the](/en/post/the/) [House](/en/post/house/) [of](/en/post/of/) Commons [and](/en/post/and/) [the](/en/post/the/) [House](/en/post/house/) [of](/en/post/of/) Lords."
-- 2. (informal) [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) discussing [or](/en/post/or/) making decisions [together](/en/post/together/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) [setting](/en/post/setting/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [school](/en/post/school/) [parliament](/en/post/parliament/) discusses [student](/en/post/student/) issues."
+### [Noun](/post/noun/)
+- **[Parliament](/post/parliament/)**: 1. [A](/post/a/) legislative [assembly](/post/assembly/), [usually](/post/usually/) consisting [of](/post/of/) elected representatives, [that](/post/that/) makes laws [and](/post/and/) represents [the](/post/the/) [people](/post/people/) [of](/post/of/) [a](/post/a/) [country](/post/country/) [or](/post/or/) [region](/post/region/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) British [Parliament](/post/parliament/) consists [of](/post/of/) [the](/post/the/) [House](/post/house/) [of](/post/of/) Commons [and](/post/and/) [the](/post/the/) [House](/post/house/) [of](/post/of/) Lords."
+- 2. (informal) [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) discussing [or](/post/or/) making decisions [together](/post/together/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [formal](/post/formal/) [setting](/post/setting/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [school](/post/school/) [parliament](/post/parliament/) discusses [student](/post/student/) issues."
 
-### [Verb](/en/post/verb/)
-- **[Parliament](/en/post/parliament/)** ([used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [collective](/en/post/collective/) [noun](/en/post/noun/)): [To](/en/post/to/) convene [or](/en/post/or/) [conduct](/en/post/conduct/) meetings [of](/en/post/of/) [a](/en/post/a/) [parliament](/en/post/parliament/) [or](/en/post/or/) legislative [body](/en/post/body/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [parliament](/en/post/parliament/) is scheduled [to](/en/post/to/) [parliament](/en/post/parliament/) [tomorrow](/en/post/tomorrow/) [to](/en/post/to/) [vote](/en/post/vote/) [on](/en/post/on/) [the](/en/post/the/) [new](/en/post/new/) [bill](/en/post/bill/)."
-- ([as](/en/post/as/) [a](/en/post/a/) transitive [verb](/en/post/verb/)): [To](/en/post/to/) [represent](/en/post/represent/) [or](/en/post/or/) [debate](/en/post/debate/) issues [in](/en/post/in/) [a](/en/post/a/) parliamentary [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) senators parliamented [the](/en/post/the/) public's concerns [during](/en/post/during/) [the](/en/post/the/) hearing."
+### [Verb](/post/verb/)
+- **[Parliament](/post/parliament/)** ([used](/post/used/) [as](/post/as/) [a](/post/a/) [collective](/post/collective/) [noun](/post/noun/)): [To](/post/to/) convene [or](/post/or/) [conduct](/post/conduct/) meetings [of](/post/of/) [a](/post/a/) [parliament](/post/parliament/) [or](/post/or/) legislative [body](/post/body/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [parliament](/post/parliament/) is scheduled [to](/post/to/) [parliament](/post/parliament/) [tomorrow](/post/tomorrow/) [to](/post/to/) [vote](/post/vote/) [on](/post/on/) [the](/post/the/) [new](/post/new/) [bill](/post/bill/)."
+- ([as](/post/as/) [a](/post/a/) transitive [verb](/post/verb/)): [To](/post/to/) [represent](/post/represent/) [or](/post/or/) [debate](/post/debate/) issues [in](/post/in/) [a](/post/a/) parliamentary [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) senators parliamented [the](/post/the/) public's concerns [during](/post/during/) [the](/post/the/) hearing."
 
-### [Adjective](/en/post/adjective/)
-- **Parliamentary**: Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [parliament](/en/post/parliament/) [or](/en/post/or/) [its](/en/post/its/) proceedings. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) parliamentary [debate](/en/post/debate/) was [intense](/en/post/intense/) [and](/en/post/and/) well-argued."
+### [Adjective](/post/adjective/)
+- **Parliamentary**: Relating [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [parliament](/post/parliament/) [or](/post/or/) [its](/post/its/) proceedings. [For](/post/for/) [example](/post/example/): "[The](/post/the/) parliamentary [debate](/post/debate/) was [intense](/post/intense/) [and](/post/and/) well-argued."
 
-### [Adverb](/en/post/adverb/)
-- ([rarely](/en/post/rarely/) [used](/en/post/used/)) [In](/en/post/in/) [a](/en/post/a/) parliamentary [manner](/en/post/manner/); [following](/en/post/following/) parliamentary procedures. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [motion](/en/post/motion/) was [put](/en/post/put/) [to](/en/post/to/) [a](/en/post/a/) [vote](/en/post/vote/) [in](/en/post/in/) [a](/en/post/a/) parliamentary [fashion](/en/post/fashion/)."
+### [Adverb](/post/adverb/)
+- ([rarely](/post/rarely/) [used](/post/used/)) [In](/post/in/) [a](/post/a/) parliamentary [manner](/post/manner/); [following](/post/following/) parliamentary procedures. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [motion](/post/motion/) was [put](/post/put/) [to](/post/to/) [a](/post/a/) [vote](/post/vote/) [in](/post/in/) [a](/post/a/) parliamentary [fashion](/post/fashion/)."
 
 ## Phrases
-- "[Attend](/en/post/attend/) [the](/en/post/the/) [parliament](/en/post/parliament/)" [means](/en/post/means/) [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [the](/en/post/the/) meetings [of](/en/post/of/) [a](/en/post/a/) legislative [body](/en/post/body/).
-- "Parliamentary discussions" [involve](/en/post/involve/) debates [and](/en/post/and/) decision-making [within](/en/post/within/) [a](/en/post/a/) [parliament](/en/post/parliament/).
-- "Parliamentary [privilege](/en/post/privilege/)" refers [to](/en/post/to/) [certain](/en/post/certain/) rights [and](/en/post/and/) protections enjoyed [by](/en/post/by/) members [of](/en/post/of/) [a](/en/post/a/) [parliament](/en/post/parliament/).
+- "[Attend](/post/attend/) [the](/post/the/) [parliament](/post/parliament/)" [means](/post/means/) [to](/post/to/) [participate](/post/participate/) [in](/post/in/) [the](/post/the/) meetings [of](/post/of/) [a](/post/a/) legislative [body](/post/body/).
+- "Parliamentary discussions" [involve](/post/involve/) debates [and](/post/and/) decision-making [within](/post/within/) [a](/post/a/) [parliament](/post/parliament/).
+- "Parliamentary [privilege](/post/privilege/)" refers [to](/post/to/) [certain](/post/certain/) rights [and](/post/and/) protections enjoyed [by](/post/by/) members [of](/post/of/) [a](/post/a/) [parliament](/post/parliament/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) representatives [from](/en/post/from/) [different](/en/post/different/) [political](/en/post/political/) parties gathered [in](/en/post/in/) [parliament](/en/post/parliament/) [to](/en/post/to/) [draft](/en/post/draft/) [a](/en/post/a/) [new](/en/post/new/) budget."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [Prime](/en/post/prime/) [Minister](/en/post/minister/) [will](/en/post/will/) [parliament](/en/post/parliament/) [the](/en/post/the/) [nation](/en/post/nation/) [on](/en/post/on/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [the](/en/post/the/) [economy](/en/post/economy/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) parliamentary [report](/en/post/report/) highlighted [the](/en/post/the/) [need](/en/post/need/) [for](/en/post/for/) educational [reform](/en/post/reform/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) representatives [from](/post/from/) [different](/post/different/) [political](/post/political/) parties gathered [in](/post/in/) [parliament](/post/parliament/) [to](/post/to/) [draft](/post/draft/) [a](/post/a/) [new](/post/new/) budget."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [Prime](/post/prime/) [Minister](/post/minister/) [will](/post/will/) [parliament](/post/parliament/) [the](/post/the/) [nation](/post/nation/) [on](/post/on/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [the](/post/the/) [economy](/post/economy/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) parliamentary [report](/post/report/) highlighted [the](/post/the/) [need](/post/need/) [for](/post/for/) educational [reform](/post/reform/)."
 
 ## Synonyms
 - Legislature
-- [Assembly](/en/post/assembly/)
-- [Congress](/en/post/congress/)
+- [Assembly](/post/assembly/)
+- [Congress](/post/congress/)
 - Convocation
-- Law-making [body](/en/post/body/)
-- [Representative](/en/post/representative/) [body](/en/post/body/)
+- Law-making [body](/post/body/)
+- [Representative](/post/representative/) [body](/post/body/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) "[parliament](/en/post/parliament/)" [as](/en/post/as/) [a](/en/post/a/) [collective](/en/post/collective/) [noun](/en/post/noun/) is [not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/), [and](/en/post/and/) [the](/en/post/the/) transitive [verb](/en/post/verb/) [usage](/en/post/usage/) is [less](/en/post/less/) [frequent](/en/post/frequent/). [In](/en/post/in/) [most](/en/post/most/) cases, [the](/en/post/the/) [noun](/en/post/noun/) "[parliament](/en/post/parliament/)" is [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [institution](/en/post/institution/), [while](/en/post/while/) "[to](/en/post/to/) legislate" [or](/en/post/or/) "[to](/en/post/to/) [debate](/en/post/debate/)" [would](/en/post/would/) [be](/en/post/be/) [more](/en/post/more/) [appropriate](/en/post/appropriate/) [for](/en/post/for/) actions related [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/).
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) "[parliament](/post/parliament/)" [as](/post/as/) [a](/post/a/) [collective](/post/collective/) [noun](/post/noun/) is [not](/post/not/) [commonly](/post/commonly/) [used](/post/used/), [and](/post/and/) [the](/post/the/) transitive [verb](/post/verb/) [usage](/post/usage/) is [less](/post/less/) [frequent](/post/frequent/). [In](/post/in/) [most](/post/most/) cases, [the](/post/the/) [noun](/post/noun/) "[parliament](/post/parliament/)" is [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [institution](/post/institution/), [while](/post/while/) "[to](/post/to/) legislate" [or](/post/or/) "[to](/post/to/) [debate](/post/debate/)" [would](/post/would/) [be](/post/be/) [more](/post/more/) [appropriate](/post/appropriate/) [for](/post/for/) actions related [to](/post/to/) [the](/post/the/) [process](/post/process/).

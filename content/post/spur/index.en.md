@@ -7,46 +7,46 @@ description = '[spəː] n.刺激物 vt.刺激'
 keywords = ['ai words', 'spur']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈspɜːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [thin](/en/post/thin/), [sharp](/en/post/sharp/) [metal](/en/post/metal/) [object](/en/post/object/) attached [to](/en/post/to/) [a](/en/post/a/) horse's hoof, [used](/en/post/used/) [to](/en/post/to/) [encourage](/en/post/encourage/) [or](/en/post/or/) [control](/en/post/control/) [its](/en/post/its/) [movement](/en/post/movement/).
-   - [Definition](/en/post/definition/): An [instrument](/en/post/instrument/) [that](/en/post/that/) fits [on](/en/post/on/) [a](/en/post/a/) horse's hoof [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [sharp](/en/post/sharp/) [push](/en/post/push/), [used](/en/post/used/) [to](/en/post/to/) [urge](/en/post/urge/) [the](/en/post/the/) [animal](/en/post/animal/) [to](/en/post/to/) [move](/en/post/move/) faster.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [rider](/en/post/rider/) urged [on](/en/post/on/) [her](/en/post/her/) [horse](/en/post/horse/) [with](/en/post/with/) [a](/en/post/a/) well-placed [spur](/en/post/spur/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [thin](/post/thin/), [sharp](/post/sharp/) [metal](/post/metal/) [object](/post/object/) attached [to](/post/to/) [a](/post/a/) horse's hoof, [used](/post/used/) [to](/post/to/) [encourage](/post/encourage/) [or](/post/or/) [control](/post/control/) [its](/post/its/) [movement](/post/movement/).
+   - [Definition](/post/definition/): An [instrument](/post/instrument/) [that](/post/that/) fits [on](/post/on/) [a](/post/a/) horse's hoof [to](/post/to/) [give](/post/give/) [a](/post/a/) [sharp](/post/sharp/) [push](/post/push/), [used](/post/used/) [to](/post/to/) [urge](/post/urge/) [the](/post/the/) [animal](/post/animal/) [to](/post/to/) [move](/post/move/) faster.
+   - [Example](/post/example/): "[The](/post/the/) [rider](/post/rider/) urged [on](/post/on/) [her](/post/her/) [horse](/post/horse/) [with](/post/with/) [a](/post/a/) well-placed [spur](/post/spur/)."
 
-2. [A](/en/post/a/) motivator [or](/en/post/or/) incentive [that](/en/post/that/) stimulates [someone](/en/post/someone/) [to](/en/post/to/) [action](/en/post/action/) [or](/en/post/or/) [improvement](/en/post/improvement/).
-   - [Definition](/en/post/definition/): [Something](/en/post/something/) [that](/en/post/that/) prompts [or](/en/post/or/) incites [someone](/en/post/someone/) [to](/en/post/to/) greater [effort](/en/post/effort/) [or](/en/post/or/) [performance](/en/post/performance/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [challenge](/en/post/challenge/) [provided](/en/post/provided/) [a](/en/post/a/) [spur](/en/post/spur/) [to](/en/post/to/) [his](/en/post/his/) competitive [spirit](/en/post/spirit/)."
+2. [A](/post/a/) motivator [or](/post/or/) incentive [that](/post/that/) stimulates [someone](/post/someone/) [to](/post/to/) [action](/post/action/) [or](/post/or/) [improvement](/post/improvement/).
+   - [Definition](/post/definition/): [Something](/post/something/) [that](/post/that/) prompts [or](/post/or/) incites [someone](/post/someone/) [to](/post/to/) greater [effort](/post/effort/) [or](/post/or/) [performance](/post/performance/).
+   - [Example](/post/example/): "[The](/post/the/) [challenge](/post/challenge/) [provided](/post/provided/) [a](/post/a/) [spur](/post/spur/) [to](/post/to/) [his](/post/his/) competitive [spirit](/post/spirit/)."
 
-3. [A](/en/post/a/) [sudden](/en/post/sudden/) impulse [or](/en/post/or/) [burst](/en/post/burst/) [of](/en/post/of/) [energy](/en/post/energy/).
-   - [Definition](/en/post/definition/): [A](/en/post/a/) [sudden](/en/post/sudden/) [desire](/en/post/desire/) [or](/en/post/or/) motivation [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/).
-   - [Example](/en/post/example/): "[His](/en/post/his/) [unexpected](/en/post/unexpected/) [success](/en/post/success/) was [a](/en/post/a/) [spur](/en/post/spur/) [to](/en/post/to/) [her](/en/post/her/) [determination](/en/post/determination/)."
+3. [A](/post/a/) [sudden](/post/sudden/) impulse [or](/post/or/) [burst](/post/burst/) [of](/post/of/) [energy](/post/energy/).
+   - [Definition](/post/definition/): [A](/post/a/) [sudden](/post/sudden/) [desire](/post/desire/) [or](/post/or/) motivation [to](/post/to/) [do](/post/do/) [something](/post/something/).
+   - [Example](/post/example/): "[His](/post/his/) [unexpected](/post/unexpected/) [success](/post/success/) was [a](/post/a/) [spur](/post/spur/) [to](/post/to/) [her](/post/her/) [determination](/post/determination/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [apply](/en/post/apply/) [a](/en/post/a/) [spur](/en/post/spur/) [to](/en/post/to/) [a](/en/post/a/) [horse](/en/post/horse/), causing [it](/en/post/it/) [to](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [accelerate](/en/post/accelerate/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) cowboy skillfully spurred [his](/en/post/his/) [horse](/en/post/horse/) [into](/en/post/into/) [a](/en/post/a/) gallop."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [apply](/post/apply/) [a](/post/a/) [spur](/post/spur/) [to](/post/to/) [a](/post/a/) [horse](/post/horse/), causing [it](/post/it/) [to](/post/to/) [move](/post/move/) [or](/post/or/) [accelerate](/post/accelerate/).
+   - [Example](/post/example/): "[The](/post/the/) cowboy skillfully spurred [his](/post/his/) [horse](/post/horse/) [into](/post/into/) [a](/post/a/) gallop."
 
-2. [To](/en/post/to/) instill motivation [or](/en/post/or/) [drive](/en/post/drive/) [into](/en/post/into/) [someone](/en/post/someone/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) spurs [her](/en/post/her/) [team](/en/post/team/) [to](/en/post/to/) [work](/en/post/work/) harder [every](/en/post/every/) [day](/en/post/day/)."
+2. [To](/post/to/) instill motivation [or](/post/or/) [drive](/post/drive/) [into](/post/into/) [someone](/post/someone/).
+   - [Example](/post/example/): "[She](/post/she/) spurs [her](/post/her/) [team](/post/team/) [to](/post/to/) [work](/post/work/) harder [every](/post/every/) [day](/post/day/)."
 
 ## Phrases
-- "[Put](/en/post/put/) [a](/en/post/a/) [spur](/en/post/spur/) [to](/en/post/to/) one's heels" [means](/en/post/means/) [to](/en/post/to/) [urge](/en/post/urge/) [someone](/en/post/someone/) [to](/en/post/to/) [move](/en/post/move/) [quickly](/en/post/quickly/) [or](/en/post/or/) energetically.
-- "[A](/en/post/a/) [spur](/en/post/spur/) [of](/en/post/of/) [the](/en/post/the/) [moment](/en/post/moment/) [decision](/en/post/decision/)" refers [to](/en/post/to/) [a](/en/post/a/) [decision](/en/post/decision/) made [without](/en/post/without/) [prior](/en/post/prior/) planning.
-- "[To](/en/post/to/) [spur](/en/post/spur/) innovation" encourages creativity [and](/en/post/and/) [new](/en/post/new/) ideas.
+- "[Put](/post/put/) [a](/post/a/) [spur](/post/spur/) [to](/post/to/) one's heels" [means](/post/means/) [to](/post/to/) [urge](/post/urge/) [someone](/post/someone/) [to](/post/to/) [move](/post/move/) [quickly](/post/quickly/) [or](/post/or/) energetically.
+- "[A](/post/a/) [spur](/post/spur/) [of](/post/of/) [the](/post/the/) [moment](/post/moment/) [decision](/post/decision/)" refers [to](/post/to/) [a](/post/a/) [decision](/post/decision/) made [without](/post/without/) [prior](/post/prior/) planning.
+- "[To](/post/to/) [spur](/post/spur/) innovation" encourages creativity [and](/post/and/) [new](/post/new/) ideas.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) rider's spurs clicked [against](/en/post/against/) [the](/en/post/the/) [metal](/en/post/metal/) stirrups [as](/en/post/as/) [he](/en/post/he/) raced [across](/en/post/across/) [the](/en/post/the/) [field](/en/post/field/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) coach's [praise](/en/post/praise/) was [a](/en/post/a/) [spur](/en/post/spur/) [to](/en/post/to/) [the](/en/post/the/) athlete's [performance](/en/post/performance/) [in](/en/post/in/) [the](/en/post/the/) [race](/en/post/race/)."
-- **Impulsive [Action](/en/post/action/)**: "[Out](/en/post/out/) [of](/en/post/of/) [nowhere](/en/post/nowhere/), [a](/en/post/a/) [spur](/en/post/spur/) [of](/en/post/of/) inspiration led [her](/en/post/her/) [to](/en/post/to/) [start](/en/post/start/) [painting](/en/post/painting/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) rider's spurs clicked [against](/post/against/) [the](/post/the/) [metal](/post/metal/) stirrups [as](/post/as/) [he](/post/he/) raced [across](/post/across/) [the](/post/the/) [field](/post/field/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) coach's [praise](/post/praise/) was [a](/post/a/) [spur](/post/spur/) [to](/post/to/) [the](/post/the/) athlete's [performance](/post/performance/) [in](/post/in/) [the](/post/the/) [race](/post/race/)."
+- **Impulsive [Action](/post/action/)**: "[Out](/post/out/) [of](/post/of/) [nowhere](/post/nowhere/), [a](/post/a/) [spur](/post/spur/) [of](/post/of/) inspiration led [her](/post/her/) [to](/post/to/) [start](/post/start/) [painting](/post/painting/)."
 
 ## Synonyms
-- [Encourage](/en/post/encourage/)
-- [Motivate](/en/post/motivate/)
+- [Encourage](/post/encourage/)
+- [Motivate](/post/motivate/)
 - Propel
-- [Prompt](/en/post/prompt/)
-- [Stir](/en/post/stir/)
+- [Prompt](/post/prompt/)
+- [Stir](/post/stir/)
 - Nudge
-- [Urge](/en/post/urge/)
-- [Cheek](/en/post/cheek/) (informal, [as](/en/post/as/) [in](/en/post/in/) giving [a](/en/post/a/) playful nudge)
+- [Urge](/post/urge/)
+- [Cheek](/post/cheek/) (informal, [as](/post/as/) [in](/post/in/) giving [a](/post/a/) playful nudge)

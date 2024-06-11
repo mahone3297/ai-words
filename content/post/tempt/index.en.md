@@ -7,34 +7,34 @@ description = '[tempt] vt.引诱，诱惑；吸引'
 keywords = ['ai words', 'tempt']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɛmpt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Temptation](/en/post/temptation/)**: An [attractive](/en/post/attractive/) [but](/en/post/but/) potentially [harmful](/en/post/harmful/) [or](/en/post/or/) undesirable [thing](/en/post/thing/) [that](/en/post/that/) entices [or](/en/post/or/) urges [someone](/en/post/someone/) [to](/en/post/to/) [act](/en/post/act/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) forbidden [fruit](/en/post/fruit/) was [a](/en/post/a/) [temptation](/en/post/temptation/) [for](/en/post/for/) Adam [and](/en/post/and/) [Eve](/en/post/eve/)."
-- **Enticement**: [Something](/en/post/something/) [that](/en/post/that/) persuades [or](/en/post/or/) attracts [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) seductive [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [promise](/en/post/promise/) [of](/en/post/of/) [a](/en/post/a/) promotion was [a](/en/post/a/) [strong](/en/post/strong/) enticement [for](/en/post/for/) [him](/en/post/him/) [to](/en/post/to/) [stay](/en/post/stay/) [at](/en/post/at/) [the](/en/post/the/) [job](/en/post/job/)."
+### [Noun](/post/noun/)
+- **[Temptation](/post/temptation/)**: An [attractive](/post/attractive/) [but](/post/but/) potentially [harmful](/post/harmful/) [or](/post/or/) undesirable [thing](/post/thing/) [that](/post/that/) entices [or](/post/or/) urges [someone](/post/someone/) [to](/post/to/) [act](/post/act/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) forbidden [fruit](/post/fruit/) was [a](/post/a/) [temptation](/post/temptation/) [for](/post/for/) Adam [and](/post/and/) [Eve](/post/eve/)."
+- **Enticement**: [Something](/post/something/) [that](/post/that/) persuades [or](/post/or/) attracts [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/), [often](/post/often/) [in](/post/in/) [a](/post/a/) seductive [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [promise](/post/promise/) [of](/post/of/) [a](/post/a/) promotion was [a](/post/a/) [strong](/post/strong/) enticement [for](/post/for/) [him](/post/him/) [to](/post/to/) [stay](/post/stay/) [at](/post/at/) [the](/post/the/) [job](/post/job/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [tempt](/en/post/tempt/)**: [To](/en/post/to/) [attract](/en/post/attract/) [or](/en/post/or/) allure [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [danger](/en/post/danger/) [or](/en/post/or/) sinfulness involved. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) couldn't [resist](/en/post/resist/) [the](/en/post/the/) [temptation](/en/post/temptation/) [of](/en/post/of/) [a](/en/post/a/) [slice](/en/post/slice/) [of](/en/post/of/) [chocolate](/en/post/chocolate/) [cake](/en/post/cake/)."
-- **[To](/en/post/to/) entice**: [To](/en/post/to/) [persuade](/en/post/persuade/) [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [by](/en/post/by/) offering [something](/en/post/something/) [desirable](/en/post/desirable/) [or](/en/post/or/) appealing. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) chef enticed [the](/en/post/the/) customers [with](/en/post/with/) [the](/en/post/the/) aroma [of](/en/post/of/) freshly baked [bread](/en/post/bread/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [tempt](/post/tempt/)**: [To](/post/to/) [attract](/post/attract/) [or](/post/or/) allure [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [danger](/post/danger/) [or](/post/or/) sinfulness involved. [For](/post/for/) [example](/post/example/): "[She](/post/she/) couldn't [resist](/post/resist/) [the](/post/the/) [temptation](/post/temptation/) [of](/post/of/) [a](/post/a/) [slice](/post/slice/) [of](/post/of/) [chocolate](/post/chocolate/) [cake](/post/cake/)."
+- **[To](/post/to/) entice**: [To](/post/to/) [persuade](/post/persuade/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/) [by](/post/by/) offering [something](/post/something/) [desirable](/post/desirable/) [or](/post/or/) appealing. [For](/post/for/) [example](/post/example/): "[The](/post/the/) chef enticed [the](/post/the/) customers [with](/post/with/) [the](/post/the/) aroma [of](/post/of/) freshly baked [bread](/post/bread/)."
 
 ## Phrases
-- "[Be](/en/post/be/) tempted [by](/en/post/by/)" suggests [being](/en/post/being/) influenced [by](/en/post/by/) an [attraction](/en/post/attraction/).
-- "[Resist](/en/post/resist/) [the](/en/post/the/) [temptation](/en/post/temptation/)" [means](/en/post/means/) [to](/en/post/to/) [withstand](/en/post/withstand/) [the](/en/post/the/) [desire](/en/post/desire/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/).
-- "Lure [someone](/en/post/someone/) [with](/en/post/with/) [temptation](/en/post/temptation/)" implies using [something](/en/post/something/) [attractive](/en/post/attractive/) [to](/en/post/to/) [draw](/en/post/draw/) [someone](/en/post/someone/) [in](/en/post/in/).
+- "[Be](/post/be/) tempted [by](/post/by/)" suggests [being](/post/being/) influenced [by](/post/by/) an [attraction](/post/attraction/).
+- "[Resist](/post/resist/) [the](/post/the/) [temptation](/post/temptation/)" [means](/post/means/) [to](/post/to/) [withstand](/post/withstand/) [the](/post/the/) [desire](/post/desire/) [to](/post/to/) [do](/post/do/) [something](/post/something/).
+- "Lure [someone](/post/someone/) [with](/post/with/) [temptation](/post/temptation/)" implies using [something](/post/something/) [attractive](/post/attractive/) [to](/post/to/) [draw](/post/draw/) [someone](/post/someone/) [in](/post/in/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) siren's [voice](/en/post/voice/) was [a](/en/post/a/) [temptation](/en/post/temptation/) [he](/en/post/he/) couldn't [ignore](/en/post/ignore/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tried [to](/en/post/to/) [resist](/en/post/resist/) [the](/en/post/the/) [temptation](/en/post/temptation/) [to](/en/post/to/) [eat](/en/post/eat/) [all](/en/post/all/) [the](/en/post/the/) cookies [in](/en/post/in/) [one](/en/post/one/) sitting."
-- **Phrasal [Verb](/en/post/verb/)**: "[He](/en/post/he/) was tempted [to](/en/post/to/) [cheat](/en/post/cheat/) [on](/en/post/on/) [the](/en/post/the/) [exam](/en/post/exam/), [but](/en/post/but/) [his](/en/post/his/) [conscience](/en/post/conscience/) stopped [him](/en/post/him/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) siren's [voice](/post/voice/) was [a](/post/a/) [temptation](/post/temptation/) [he](/post/he/) couldn't [ignore](/post/ignore/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tried [to](/post/to/) [resist](/post/resist/) [the](/post/the/) [temptation](/post/temptation/) [to](/post/to/) [eat](/post/eat/) [all](/post/all/) [the](/post/the/) cookies [in](/post/in/) [one](/post/one/) sitting."
+- **Phrasal [Verb](/post/verb/)**: "[He](/post/he/) was tempted [to](/post/to/) [cheat](/post/cheat/) [on](/post/on/) [the](/post/the/) [exam](/post/exam/), [but](/post/but/) [his](/post/his/) [conscience](/post/conscience/) stopped [him](/post/him/)."
 
 ## Synonyms
-- [Tempt](/en/post/tempt/)
+- [Tempt](/post/tempt/)
 - Induce
 - Allure
 - Entrap
 - Incite
-- Dangle [before](/en/post/before/)
+- Dangle [before](/post/before/)
 - Lure
 - Beguile

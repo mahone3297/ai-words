@@ -12,29 +12,29 @@ keywords = ['ai words', 'shift']
 
 ## 释义
 - **名词 (n)**: 
-    - 变化，转换。例如: "[There](/post/there/) was [a](/post/a/) [noticeable](/post/noticeable/) [shift](/post/shift/) [in](/post/in/) [her](/post/her/) [attitude](/post/attitude/)."
-    - 轮班，换班。例如: "[She](/post/she/) works [the](/post/the/) [night](/post/night/) [shift](/post/shift/) [at](/post/at/) [the](/post/the/) [hospital](/post/hospital/)."
-    - 移动，位移。例如: "[The](/post/the/) rocks shifted [slightly](/post/slightly/) [during](/post/during/) [the](/post/the/) [earthquake](/post/earthquake/)."
-    - (衣服的)无袖连衣裙。例如: "[She](/post/she/) wore [a](/post/a/) [simple](/post/simple/) [shift](/post/shift/) [to](/post/to/) [the](/post/the/) [summer](/post/summer/) [party](/post/party/)."
+    - 变化，转换。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [noticeable](/zh/post/noticeable/) [shift](/zh/post/shift/) [in](/zh/post/in/) [her](/zh/post/her/) [attitude](/zh/post/attitude/)."
+    - 轮班，换班。例如: "[She](/zh/post/she/) works [the](/zh/post/the/) [night](/zh/post/night/) [shift](/zh/post/shift/) [at](/zh/post/at/) [the](/zh/post/the/) [hospital](/zh/post/hospital/)."
+    - 移动，位移。例如: "[The](/zh/post/the/) rocks shifted [slightly](/zh/post/slightly/) [during](/zh/post/during/) [the](/zh/post/the/) [earthquake](/zh/post/earthquake/)."
+    - (衣服的)无袖连衣裙。例如: "[She](/zh/post/she/) wore [a](/zh/post/a/) [simple](/zh/post/simple/) [shift](/zh/post/shift/) [to](/zh/post/to/) [the](/zh/post/the/) [summer](/zh/post/summer/) [party](/zh/post/party/)."
 
 - **动词 (v)**:
-    - 改变，变动。例如: "[The](/post/the/) [company](/post/company/) needs [to](/post/to/) [shift](/post/shift/) [its](/post/its/) [focus](/post/focus/) [to](/post/to/) online sales."
-    - 转动，移动位置。例如: "[Shift](/post/shift/) [your](/post/your/) [weight](/post/weight/) [to](/post/to/) [your](/post/your/) [left](/post/left/) [foot](/post/foot/)."
-    - 换挡，调档。例如: "[He](/post/he/) shifted gears [as](/post/as/) [he](/post/he/) accelerated [on](/post/on/) [the](/post/the/) [highway](/post/highway/)."
+    - 改变，变动。例如: "[The](/zh/post/the/) [company](/zh/post/company/) needs [to](/zh/post/to/) [shift](/zh/post/shift/) [its](/zh/post/its/) [focus](/zh/post/focus/) [to](/zh/post/to/) online sales."
+    - 转动，移动位置。例如: "[Shift](/zh/post/shift/) [your](/zh/post/your/) [weight](/zh/post/weight/) [to](/zh/post/to/) [your](/zh/post/your/) [left](/zh/post/left/) [foot](/zh/post/foot/)."
+    - 换挡，调档。例如: "[He](/zh/post/he/) shifted gears [as](/zh/post/as/) [he](/zh/post/he/) accelerated [on](/zh/post/on/) [the](/zh/post/the/) [highway](/zh/post/highway/)."
 
 ## 短语
-- "[Shift](/post/shift/) gears" 意味着改变策略或方向。
-- "[Shift](/post/shift/) [work](/post/work/)" 指轮班工作制度。
-- "[Shift](/post/shift/) [blame](/post/blame/)" 指把责任推给别人。
+- "[Shift](/zh/post/shift/) gears" 意味着改变策略或方向。
+- "[Shift](/zh/post/shift/) [work](/zh/post/work/)" 指轮班工作制度。
+- "[Shift](/zh/post/shift/) [blame](/zh/post/blame/)" 指把责任推给别人。
 
 ## 例句
-- 名词: "[The](/post/the/) [shift](/post/shift/) [in](/post/in/) [the](/post/the/) [weather](/post/weather/) caught [us](/post/us/) [by](/post/by/) [surprise](/post/surprise/)."
-- 动词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [shift](/post/shift/) [our](/post/our/) [attention](/post/attention/) [to](/post/to/) [the](/post/the/) upcoming [project](/post/project/)."
-- "[Shift](/post/shift/) gears [when](/post/when/) [the](/post/the/) [car](/post/car/) reaches 30 miles [per](/post/per/) [hour](/post/hour/)."
+- 名词: "[The](/zh/post/the/) [shift](/zh/post/shift/) [in](/zh/post/in/) [the](/zh/post/the/) [weather](/zh/post/weather/) caught [us](/zh/post/us/) [by](/zh/post/by/) [surprise](/zh/post/surprise/)."
+- 动词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [shift](/zh/post/shift/) [our](/zh/post/our/) [attention](/zh/post/attention/) [to](/zh/post/to/) [the](/zh/post/the/) upcoming [project](/zh/post/project/)."
+- "[Shift](/zh/post/shift/) gears [when](/zh/post/when/) [the](/zh/post/the/) [car](/zh/post/car/) reaches 30 miles [per](/zh/post/per/) [hour](/zh/post/hour/)."
 
 ## 同义词
-- [Change](/post/change/)
-- [Alter](/post/alter/)
-- [Vary](/post/vary/)
-- [Modify](/post/modify/)
-- [Move](/post/move/)
+- [Change](/zh/post/change/)
+- [Alter](/zh/post/alter/)
+- [Vary](/zh/post/vary/)
+- [Modify](/zh/post/modify/)
+- [Move](/zh/post/move/)

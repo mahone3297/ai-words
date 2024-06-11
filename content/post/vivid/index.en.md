@@ -7,37 +7,37 @@ description = '[ˈvivid] a.鲜艳的；生动的'
 keywords = ['ai words', 'vivid']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vɪˈvɪd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [strong](/en/post/strong/) [visual](/en/post/visual/) perception [or](/en/post/or/) [clear](/en/post/clear/), striking [appearance](/en/post/appearance/); [lively](/en/post/lively/) [and](/en/post/and/) [impressive](/en/post/impressive/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) colors [of](/en/post/of/) [the](/en/post/the/) [sunset](/en/post/sunset/) were incredibly [vivid](/en/post/vivid/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [vivid](/en/post/vivid/) [manner](/en/post/manner/); [with](/en/post/with/) [great](/en/post/great/) clarity [or](/en/post/or/) [intensity](/en/post/intensity/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) described [the](/en/post/the/) [scene](/en/post/scene/) vividly."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [strong](/post/strong/) [visual](/post/visual/) perception [or](/post/or/) [clear](/post/clear/), striking [appearance](/post/appearance/); [lively](/post/lively/) [and](/post/and/) [impressive](/post/impressive/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) colors [of](/post/of/) [the](/post/the/) [sunset](/post/sunset/) were incredibly [vivid](/post/vivid/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [vivid](/post/vivid/) [manner](/post/manner/); [with](/post/with/) [great](/post/great/) clarity [or](/post/or/) [intensity](/post/intensity/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) described [the](/post/the/) [scene](/post/scene/) vividly."
 
 ## Phrases
-- "[A](/en/post/a/) [vivid](/en/post/vivid/) [memory](/en/post/memory/)" refers [to](/en/post/to/) [a](/en/post/a/) [clear](/en/post/clear/) [and](/en/post/and/) memorable recollection.
-- "[Vivid](/en/post/vivid/) dreams" denote dreams [that](/en/post/that/) [feel](/en/post/feel/) [real](/en/post/real/) [and](/en/post/and/) [intense](/en/post/intense/).
-- "[Vivid](/en/post/vivid/) [imagination](/en/post/imagination/)" implies [a](/en/post/a/) [strong](/en/post/strong/) [ability](/en/post/ability/) [to](/en/post/to/) [create](/en/post/create/) [mental](/en/post/mental/) images.
+- "[A](/post/a/) [vivid](/post/vivid/) [memory](/post/memory/)" refers [to](/post/to/) [a](/post/a/) [clear](/post/clear/) [and](/post/and/) memorable recollection.
+- "[Vivid](/post/vivid/) dreams" denote dreams [that](/post/that/) [feel](/post/feel/) [real](/post/real/) [and](/post/and/) [intense](/post/intense/).
+- "[Vivid](/post/vivid/) [imagination](/post/imagination/)" implies [a](/post/a/) [strong](/post/strong/) [ability](/post/ability/) [to](/post/to/) [create](/post/create/) [mental](/post/mental/) images.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) artist's paintings featured [vivid](/en/post/vivid/) landscapes [that](/en/post/that/) captivated [the](/en/post/the/) [audience](/en/post/audience/)."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) [description](/en/post/description/) [of](/en/post/of/) [the](/en/post/the/) [event](/en/post/event/) was [so](/en/post/so/) [vivid](/en/post/vivid/) [that](/en/post/that/) [it](/en/post/it/) felt [like](/en/post/like/) [we](/en/post/we/) were [there](/en/post/there/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) artist's paintings featured [vivid](/post/vivid/) landscapes [that](/post/that/) captivated [the](/post/the/) [audience](/post/audience/)."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) [description](/post/description/) [of](/post/of/) [the](/post/the/) [event](/post/event/) was [so](/post/so/) [vivid](/post/vivid/) [that](/post/that/) [it](/post/it/) felt [like](/post/like/) [we](/post/we/) were [there](/post/there/)."
 
 ## Synonyms
-- [Lively](/en/post/lively/)
+- [Lively](/post/lively/)
 - Vivacious
-- [Clear](/en/post/clear/)
-- [Sharp](/en/post/sharp/)
-- [Intense](/en/post/intense/)
+- [Clear](/post/clear/)
+- [Sharp](/post/sharp/)
+- [Intense](/post/intense/)
 - Energetic
 - Striking
 - Colorful
-- [Alive](/en/post/alive/)
+- [Alive](/post/alive/)
 
 ## Antonyms
-- [Dull](/en/post/dull/)
-- [Faint](/en/post/faint/)
+- [Dull](/post/dull/)
+- [Faint](/post/faint/)
 - Indistinct
-- [Flat](/en/post/flat/)
-- [Vague](/en/post/vague/)
+- [Flat](/post/flat/)
+- [Vague](/post/vague/)
 - Lackluster

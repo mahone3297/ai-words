@@ -7,35 +7,35 @@ description = '[kaind] a.友好的；和蔼的'
 keywords = ['ai words', 'kind']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kwaɪnd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) category [of](/en/post/of/) [people](/en/post/people/) [or](/en/post/or/) things having [common](/en/post/common/) characteristics; [a](/en/post/a/) [sort](/en/post/sort/) [or](/en/post/or/) [type](/en/post/type/). [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) are [many](/en/post/many/) [different](/en/post/different/) kinds [of](/en/post/of/) dogs."
-  - [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) person's [nature](/en/post/nature/) [or](/en/post/or/) disposition: "[She](/en/post/she/) has [a](/en/post/a/) [kind](/en/post/kind/) [heart](/en/post/heart/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) benevolence, [sympathy](/en/post/sympathy/), [and](/en/post/and/) [consideration](/en/post/consideration/) [for](/en/post/for/) others; showing [kindness](/en/post/kindness/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was [always](/en/post/always/) [kind](/en/post/kind/) [to](/en/post/to/) [his](/en/post/his/) neighbors."
-  - Describing [something](/en/post/something/) [that](/en/post/that/) is [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [type](/en/post/type/) [or](/en/post/or/) [variety](/en/post/variety/): "[What](/en/post/what/) [kind](/en/post/kind/) [of](/en/post/of/) [music](/en/post/music/) [do](/en/post/do/) [you](/en/post/you/) [like](/en/post/like/)?"
+- **[Noun](/post/noun/)**: [A](/post/a/) category [of](/post/of/) [people](/post/people/) [or](/post/or/) things having [common](/post/common/) characteristics; [a](/post/a/) [sort](/post/sort/) [or](/post/or/) [type](/post/type/). [For](/post/for/) [example](/post/example/): "[There](/post/there/) are [many](/post/many/) [different](/post/different/) kinds [of](/post/of/) dogs."
+  - [Also](/post/also/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) person's [nature](/post/nature/) [or](/post/or/) disposition: "[She](/post/she/) has [a](/post/a/) [kind](/post/kind/) [heart](/post/heart/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) benevolence, [sympathy](/post/sympathy/), [and](/post/and/) [consideration](/post/consideration/) [for](/post/for/) others; showing [kindness](/post/kindness/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) was [always](/post/always/) [kind](/post/kind/) [to](/post/to/) [his](/post/his/) neighbors."
+  - Describing [something](/post/something/) [that](/post/that/) is [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [type](/post/type/) [or](/post/or/) [variety](/post/variety/): "[What](/post/what/) [kind](/post/kind/) [of](/post/of/) [music](/post/music/) [do](/post/do/) [you](/post/you/) [like](/post/like/)?"
   
 ## Phrases
-- "[Kind](/en/post/kind/) [of](/en/post/of/)": [This](/en/post/this/) [phrase](/en/post/phrase/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an informal [way](/en/post/way/) [to](/en/post/to/) [indicate](/en/post/indicate/) approximation [or](/en/post/or/) similarity. [For](/en/post/for/) [example](/en/post/example/): "It's [kind](/en/post/kind/) [of](/en/post/of/) [cold](/en/post/cold/) [today](/en/post/today/)."
-- "[A](/en/post/a/) [kind](/en/post/kind/) [gesture](/en/post/gesture/)": An [act](/en/post/act/) [of](/en/post/of/) generosity [or](/en/post/or/) thoughtfulness towards others.
-- "[Kind](/en/post/kind/) regards": [A](/en/post/a/) [polite](/en/post/polite/) closing [in](/en/post/in/) written [communication](/en/post/communication/), expressing friendliness [and](/en/post/and/) [respect](/en/post/respect/).
+- "[Kind](/post/kind/) [of](/post/of/)": [This](/post/this/) [phrase](/post/phrase/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an informal [way](/post/way/) [to](/post/to/) [indicate](/post/indicate/) approximation [or](/post/or/) similarity. [For](/post/for/) [example](/post/example/): "It's [kind](/post/kind/) [of](/post/of/) [cold](/post/cold/) [today](/post/today/)."
+- "[A](/post/a/) [kind](/post/kind/) [gesture](/post/gesture/)": An [act](/post/act/) [of](/post/of/) generosity [or](/post/or/) thoughtfulness towards others.
+- "[Kind](/post/kind/) regards": [A](/post/a/) [polite](/post/polite/) closing [in](/post/in/) written [communication](/post/communication/), expressing friendliness [and](/post/and/) [respect](/post/respect/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "She's [a](/en/post/a/) [kind](/en/post/kind/) [person](/en/post/person/) [who](/en/post/who/) [never](/en/post/never/) hesitates [to](/en/post/to/) [help](/en/post/help/) [those](/en/post/those/) [in](/en/post/in/) [need](/en/post/need/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) was [kind](/en/post/kind/) [enough](/en/post/enough/) [to](/en/post/to/) [explain](/en/post/explain/) [the](/en/post/the/) [concept](/en/post/concept/) [again](/en/post/again/) [when](/en/post/when/) [we](/en/post/we/) were struggling."
-- "[That](/en/post/that/) [dog](/en/post/dog/) [breed](/en/post/breed/) is [a](/en/post/a/) [kind](/en/post/kind/) known [for](/en/post/for/) [its](/en/post/its/) [intelligence](/en/post/intelligence/) [and](/en/post/and/) [loyalty](/en/post/loyalty/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "She's [a](/post/a/) [kind](/post/kind/) [person](/post/person/) [who](/post/who/) [never](/post/never/) hesitates [to](/post/to/) [help](/post/help/) [those](/post/those/) [in](/post/in/) [need](/post/need/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [teacher](/post/teacher/) was [kind](/post/kind/) [enough](/post/enough/) [to](/post/to/) [explain](/post/explain/) [the](/post/the/) [concept](/post/concept/) [again](/post/again/) [when](/post/when/) [we](/post/we/) were struggling."
+- "[That](/post/that/) [dog](/post/dog/) [breed](/post/breed/) is [a](/post/a/) [kind](/post/kind/) known [for](/post/for/) [its](/post/its/) [intelligence](/post/intelligence/) [and](/post/and/) [loyalty](/post/loyalty/)."
 
 ## Synonyms
-- [Sort](/en/post/sort/) ([noun](/en/post/noun/))
-- [Type](/en/post/type/) ([noun](/en/post/noun/))
-- [Variety](/en/post/variety/) ([noun](/en/post/noun/))
-- Compassionate ([adjective](/en/post/adjective/))
-- [Generous](/en/post/generous/) ([adjective](/en/post/adjective/))
-- [Friendly](/en/post/friendly/) ([adjective](/en/post/adjective/))
-- Benevolent ([adjective](/en/post/adjective/)) 
-- [Gentle](/en/post/gentle/) ([adjective](/en/post/adjective/)) 
-- [Considerate](/en/post/considerate/) ([adjective](/en/post/adjective/)) 
+- [Sort](/post/sort/) ([noun](/post/noun/))
+- [Type](/post/type/) ([noun](/post/noun/))
+- [Variety](/post/variety/) ([noun](/post/noun/))
+- Compassionate ([adjective](/post/adjective/))
+- [Generous](/post/generous/) ([adjective](/post/adjective/))
+- [Friendly](/post/friendly/) ([adjective](/post/adjective/))
+- Benevolent ([adjective](/post/adjective/)) 
+- [Gentle](/post/gentle/) ([adjective](/post/adjective/)) 
+- [Considerate](/post/considerate/) ([adjective](/post/adjective/)) 
 
-## [Note](/en/post/note/) [on](/en/post/on/) [Verb](/en/post/verb/) [Usage](/en/post/usage/)
-[While](/en/post/while/) '[kind](/en/post/kind/)' is [not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [modern](/en/post/modern/) English, [it](/en/post/it/) was [once](/en/post/once/) [used](/en/post/used/) [as](/en/post/as/) [such](/en/post/such/) [with](/en/post/with/) [the](/en/post/the/) [meaning](/en/post/meaning/) '[to](/en/post/to/) [make](/en/post/make/) [kind](/en/post/kind/)', [which](/en/post/which/) is [now](/en/post/now/) archaic. [In](/en/post/in/) [contemporary](/en/post/contemporary/) [language](/en/post/language/), [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) [being](/en/post/being/) [kind](/en/post/kind/) is [usually](/en/post/usually/) expressed [through](/en/post/through/) verbs [like](/en/post/like/) '[be](/en/post/be/) [kind](/en/post/kind/)' [or](/en/post/or/) '[show](/en/post/show/) [kindness](/en/post/kindness/)'.
+## [Note](/post/note/) [on](/post/on/) [Verb](/post/verb/) [Usage](/post/usage/)
+[While](/post/while/) '[kind](/post/kind/)' is [not](/post/not/) typically [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [modern](/post/modern/) English, [it](/post/it/) was [once](/post/once/) [used](/post/used/) [as](/post/as/) [such](/post/such/) [with](/post/with/) [the](/post/the/) [meaning](/post/meaning/) '[to](/post/to/) [make](/post/make/) [kind](/post/kind/)', [which](/post/which/) is [now](/post/now/) archaic. [In](/post/in/) [contemporary](/post/contemporary/) [language](/post/language/), [the](/post/the/) [action](/post/action/) [of](/post/of/) [being](/post/being/) [kind](/post/kind/) is [usually](/post/usually/) expressed [through](/post/through/) verbs [like](/post/like/) '[be](/post/be/) [kind](/post/kind/)' [or](/post/or/) '[show](/post/show/) [kindness](/post/kindness/)'.

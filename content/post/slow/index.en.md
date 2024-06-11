@@ -7,40 +7,40 @@ description = '[sləu] a.慢的；迟钝的'
 keywords = ['ai words', 'slow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səʊl/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **[Slow](/en/post/slow/)**: Characterized [by](/en/post/by/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [speed](/en/post/speed/) [or](/en/post/or/) agility; proceeding [at](/en/post/at/) [a](/en/post/a/) [gradual](/en/post/gradual/) [pace](/en/post/pace/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) snail moved [very](/en/post/very/) [slowly](/en/post/slowly/) [across](/en/post/across/) [the](/en/post/the/) [garden](/en/post/garden/)."
-- **Slower**: Comparatively [less](/en/post/less/) [fast](/en/post/fast/); [more](/en/post/more/) leisurely. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) older [car](/en/post/car/) had [a](/en/post/a/) slower [acceleration](/en/post/acceleration/) [than](/en/post/than/) [the](/en/post/the/) [new](/en/post/new/) [one](/en/post/one/)."
-- **[Slowly](/en/post/slowly/)**: [In](/en/post/in/) [a](/en/post/a/) [gradual](/en/post/gradual/) [or](/en/post/or/) unhurried [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) drank [her](/en/post/her/) [coffee](/en/post/coffee/) [slowly](/en/post/slowly/), enjoying [the](/en/post/the/) [warmth](/en/post/warmth/)."
+### [Adjective](/post/adjective/)
+- **[Slow](/post/slow/)**: Characterized [by](/post/by/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [speed](/post/speed/) [or](/post/or/) agility; proceeding [at](/post/at/) [a](/post/a/) [gradual](/post/gradual/) [pace](/post/pace/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) snail moved [very](/post/very/) [slowly](/post/slowly/) [across](/post/across/) [the](/post/the/) [garden](/post/garden/)."
+- **Slower**: Comparatively [less](/post/less/) [fast](/post/fast/); [more](/post/more/) leisurely. [For](/post/for/) [example](/post/example/): "[The](/post/the/) older [car](/post/car/) had [a](/post/a/) slower [acceleration](/post/acceleration/) [than](/post/than/) [the](/post/the/) [new](/post/new/) [one](/post/one/)."
+- **[Slowly](/post/slowly/)**: [In](/post/in/) [a](/post/a/) [gradual](/post/gradual/) [or](/post/or/) unhurried [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) drank [her](/post/her/) [coffee](/post/coffee/) [slowly](/post/slowly/), enjoying [the](/post/the/) [warmth](/post/warmth/)."
 
-### [Noun](/en/post/noun/)
-- **Slowdown**: [A](/en/post/a/) [decrease](/en/post/decrease/) [in](/en/post/in/) [speed](/en/post/speed/) [or](/en/post/or/) [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) experienced [a](/en/post/a/) [significant](/en/post/significant/) slowdown [during](/en/post/during/) [the](/en/post/the/) pandemic."
-- **[Slow](/en/post/slow/) [motion](/en/post/motion/)**: [The](/en/post/the/) [visual](/en/post/visual/) representation [of](/en/post/of/) actions occurring [at](/en/post/at/) [a](/en/post/a/) [much](/en/post/much/) slower [pace](/en/post/pace/) [than](/en/post/than/) [normal](/en/post/normal/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [the](/en/post/the/) [film](/en/post/film/), [the](/en/post/the/) [explosion](/en/post/explosion/) was shown [in](/en/post/in/) [slow](/en/post/slow/) [motion](/en/post/motion/)."
+### [Noun](/post/noun/)
+- **Slowdown**: [A](/post/a/) [decrease](/post/decrease/) [in](/post/in/) [speed](/post/speed/) [or](/post/or/) [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) experienced [a](/post/a/) [significant](/post/significant/) slowdown [during](/post/during/) [the](/post/the/) pandemic."
+- **[Slow](/post/slow/) [motion](/post/motion/)**: [The](/post/the/) [visual](/post/visual/) representation [of](/post/of/) actions occurring [at](/post/at/) [a](/post/a/) [much](/post/much/) slower [pace](/post/pace/) [than](/post/than/) [normal](/post/normal/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) [the](/post/the/) [film](/post/film/), [the](/post/the/) [explosion](/post/explosion/) was shown [in](/post/in/) [slow](/post/slow/) [motion](/post/motion/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [slow](/en/post/slow/) [down](/en/post/down/)**: [To](/en/post/to/) [reduce](/en/post/reduce/) one's [speed](/en/post/speed/) [or](/en/post/or/) [pace](/en/post/pace/). [For](/en/post/for/) [example](/en/post/example/): "Drivers are advised [to](/en/post/to/) [slow](/en/post/slow/) [down](/en/post/down/) [when](/en/post/when/) approaching [a](/en/post/a/) [school](/en/post/school/) [zone](/en/post/zone/)."
-- **[To](/en/post/to/) [slow](/en/post/slow/)**: [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [function](/en/post/function/) [at](/en/post/at/) [a](/en/post/a/) reduced [rate](/en/post/rate/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [mechanic](/en/post/mechanic/) slowed [the](/en/post/the/) [engine](/en/post/engine/) [to](/en/post/to/) [check](/en/post/check/) [for](/en/post/for/) [any](/en/post/any/) issues."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [slow](/post/slow/) [down](/post/down/)**: [To](/post/to/) [reduce](/post/reduce/) one's [speed](/post/speed/) [or](/post/or/) [pace](/post/pace/). [For](/post/for/) [example](/post/example/): "Drivers are advised [to](/post/to/) [slow](/post/slow/) [down](/post/down/) [when](/post/when/) approaching [a](/post/a/) [school](/post/school/) [zone](/post/zone/)."
+- **[To](/post/to/) [slow](/post/slow/)**: [To](/post/to/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [move](/post/move/) [or](/post/or/) [function](/post/function/) [at](/post/at/) [a](/post/a/) reduced [rate](/post/rate/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [mechanic](/post/mechanic/) slowed [the](/post/the/) [engine](/post/engine/) [to](/post/to/) [check](/post/check/) [for](/post/for/) [any](/post/any/) issues."
 
 ## Phrases
-- "[Slow](/en/post/slow/) [down](/en/post/down/) [a](/en/post/a/) [bit](/en/post/bit/)"
-- "[A](/en/post/a/) [slow](/en/post/slow/) [process](/en/post/process/)"
-- "[Slowly](/en/post/slowly/) [but](/en/post/but/) [surely](/en/post/surely/)"
-- "[She](/en/post/she/) drives [too](/en/post/too/) [slow](/en/post/slow/) [for](/en/post/for/) [my](/en/post/my/) [taste](/en/post/taste/)"
+- "[Slow](/post/slow/) [down](/post/down/) [a](/post/a/) [bit](/post/bit/)"
+- "[A](/post/a/) [slow](/post/slow/) [process](/post/process/)"
+- "[Slowly](/post/slowly/) [but](/post/but/) [surely](/post/surely/)"
+- "[She](/post/she/) drives [too](/post/too/) [slow](/post/slow/) [for](/post/for/) [my](/post/my/) [taste](/post/taste/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [train](/en/post/train/) was delayed [due](/en/post/due/) [to](/en/post/to/) [a](/en/post/a/) [slow](/en/post/slow/) [track](/en/post/track/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [project](/en/post/project/) is progressing [slowly](/en/post/slowly/) [after](/en/post/after/) [the](/en/post/the/) slowdown [in](/en/post/in/) funding."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) [slow](/en/post/slow/) [his](/en/post/his/) breathing [to](/en/post/to/) [calm](/en/post/calm/) [himself](/en/post/himself/) [down](/en/post/down/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) drove [the](/en/post/the/) [car](/en/post/car/) [slowly](/en/post/slowly/) [around](/en/post/around/) [the](/en/post/the/) [corner](/en/post/corner/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [train](/post/train/) was delayed [due](/post/due/) [to](/post/to/) [a](/post/a/) [slow](/post/slow/) [track](/post/track/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [project](/post/project/) is progressing [slowly](/post/slowly/) [after](/post/after/) [the](/post/the/) slowdown [in](/post/in/) funding."
+- **[Verb](/post/verb/)**: "[He](/post/he/) tried [to](/post/to/) [slow](/post/slow/) [his](/post/his/) breathing [to](/post/to/) [calm](/post/calm/) [himself](/post/himself/) [down](/post/down/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) drove [the](/post/the/) [car](/post/car/) [slowly](/post/slowly/) [around](/post/around/) [the](/post/the/) [corner](/post/corner/)."
 
 ## Synonyms
-- [Gradual](/en/post/gradual/)
+- [Gradual](/post/gradual/)
 - Leisurely
 - Unhurried
-- [Steady](/en/post/steady/)
+- [Steady](/post/steady/)
 - Deliberate
 - Tardy
 - Languid

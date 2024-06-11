@@ -7,40 +7,40 @@ description = '[slait] a.细长的；轻微的'
 keywords = ['ai words', 'slight']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /slaɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [slight](/en/post/slight/):** [A](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [or](/en/post/or/) [degree](/en/post/degree/); [a](/en/post/a/) [minor](/en/post/minor/) [thing](/en/post/thing/). [Example](/en/post/example/): "[The](/en/post/the/) [insult](/en/post/insult/) was [just](/en/post/just/) [a](/en/post/a/) [slight](/en/post/slight/) misunderstanding."
-- **[Slight](/en/post/slight/) [change](/en/post/change/):** [A](/en/post/a/) [small](/en/post/small/) alteration [or](/en/post/or/) modification. [Example](/en/post/example/): "[There](/en/post/there/) was [a](/en/post/a/) [slight](/en/post/slight/) modification [to](/en/post/to/) [the](/en/post/the/) [plan](/en/post/plan/)."
-- **[Slight](/en/post/slight/) [injury](/en/post/injury/):** [A](/en/post/a/) [minor](/en/post/minor/) [hurt](/en/post/hurt/) [or](/en/post/or/) [damage](/en/post/damage/). [Example](/en/post/example/): "[He](/en/post/he/) sustained [only](/en/post/only/) [a](/en/post/a/) [slight](/en/post/slight/) [burn](/en/post/burn/) [from](/en/post/from/) [the](/en/post/the/) [fire](/en/post/fire/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [slight](/post/slight/):** [A](/post/a/) [small](/post/small/) [amount](/post/amount/) [or](/post/or/) [degree](/post/degree/); [a](/post/a/) [minor](/post/minor/) [thing](/post/thing/). [Example](/post/example/): "[The](/post/the/) [insult](/post/insult/) was [just](/post/just/) [a](/post/a/) [slight](/post/slight/) misunderstanding."
+- **[Slight](/post/slight/) [change](/post/change/):** [A](/post/a/) [small](/post/small/) alteration [or](/post/or/) modification. [Example](/post/example/): "[There](/post/there/) was [a](/post/a/) [slight](/post/slight/) modification [to](/post/to/) [the](/post/the/) [plan](/post/plan/)."
+- **[Slight](/post/slight/) [injury](/post/injury/):** [A](/post/a/) [minor](/post/minor/) [hurt](/post/hurt/) [or](/post/or/) [damage](/post/damage/). [Example](/post/example/): "[He](/post/he/) sustained [only](/post/only/) [a](/post/a/) [slight](/post/slight/) [burn](/post/burn/) [from](/post/from/) [the](/post/the/) [fire](/post/fire/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [slight](/en/post/slight/):** [To](/en/post/to/) [treat](/en/post/treat/) [with](/en/post/with/) disrespect [or](/en/post/or/) [neglect](/en/post/neglect/); [to](/en/post/to/) disregard [slightly](/en/post/slightly/). [Example](/en/post/example/): "[She](/en/post/she/) felt slighted [when](/en/post/when/) [no](/en/post/no/) [one](/en/post/one/) acknowledged [her](/en/post/her/) contribution."
-- **[Slight](/en/post/slight/) [someone](/en/post/someone/):** [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) barely [noticeable](/en/post/noticeable/) [gesture](/en/post/gesture/) [or](/en/post/or/) [remark](/en/post/remark/) towards [someone](/en/post/someone/), [often](/en/post/often/) implying disrespect. [Example](/en/post/example/): "[He](/en/post/he/) slighted [his](/en/post/his/) [opponent](/en/post/opponent/) [during](/en/post/during/) [the](/en/post/the/) [debate](/en/post/debate/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [slight](/post/slight/):** [To](/post/to/) [treat](/post/treat/) [with](/post/with/) disrespect [or](/post/or/) [neglect](/post/neglect/); [to](/post/to/) disregard [slightly](/post/slightly/). [Example](/post/example/): "[She](/post/she/) felt slighted [when](/post/when/) [no](/post/no/) [one](/post/one/) acknowledged [her](/post/her/) contribution."
+- **[Slight](/post/slight/) [someone](/post/someone/):** [To](/post/to/) [make](/post/make/) [a](/post/a/) barely [noticeable](/post/noticeable/) [gesture](/post/gesture/) [or](/post/or/) [remark](/post/remark/) towards [someone](/post/someone/), [often](/post/often/) implying disrespect. [Example](/post/example/): "[He](/post/he/) slighted [his](/post/his/) [opponent](/post/opponent/) [during](/post/during/) [the](/post/the/) [debate](/post/debate/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Slight](/en/post/slight/):** [Not](/en/post/not/) [substantial](/en/post/substantial/) [or](/en/post/or/) [significant](/en/post/significant/); minimal. [Example](/en/post/example/): "[Her](/en/post/her/) [illness](/en/post/illness/) was [only](/en/post/only/) [a](/en/post/a/) [slight](/en/post/slight/) inconvenience."
-- **[Slightly](/en/post/slightly/):** [By](/en/post/by/) [a](/en/post/a/) [small](/en/post/small/) [degree](/en/post/degree/) [or](/en/post/or/) [amount](/en/post/amount/). [Example](/en/post/example/): "[The](/en/post/the/) [temperature](/en/post/temperature/) dropped [slightly](/en/post/slightly/) [over](/en/post/over/) [the](/en/post/the/) [night](/en/post/night/)."
+### [Adjective](/post/adjective/)
+- **[Slight](/post/slight/):** [Not](/post/not/) [substantial](/post/substantial/) [or](/post/or/) [significant](/post/significant/); minimal. [Example](/post/example/): "[Her](/post/her/) [illness](/post/illness/) was [only](/post/only/) [a](/post/a/) [slight](/post/slight/) inconvenience."
+- **[Slightly](/post/slightly/):** [By](/post/by/) [a](/post/a/) [small](/post/small/) [degree](/post/degree/) [or](/post/or/) [amount](/post/amount/). [Example](/post/example/): "[The](/post/the/) [temperature](/post/temperature/) dropped [slightly](/post/slightly/) [over](/post/over/) [the](/post/the/) [night](/post/night/)."
 
-### [Adverb](/en/post/adverb/)
-- **[Slightly](/en/post/slightly/):** [In](/en/post/in/) a轻微 [manner](/en/post/manner/); barely. [Example](/en/post/example/): "[He](/en/post/he/) nodded [slightly](/en/post/slightly/) [in](/en/post/in/) [agreement](/en/post/agreement/)."
+### [Adverb](/post/adverb/)
+- **[Slightly](/post/slightly/):** [In](/post/in/) a轻微 [manner](/post/manner/); barely. [Example](/post/example/): "[He](/post/he/) nodded [slightly](/post/slightly/) [in](/post/in/) [agreement](/post/agreement/)."
 
 ## Phrases
-- "[Slight](/en/post/slight/) [improvement](/en/post/improvement/)" [means](/en/post/means/) [a](/en/post/a/) [small](/en/post/small/) [but](/en/post/but/) [positive](/en/post/positive/) [change](/en/post/change/).
-- "Slighting someone's feelings" implies causing [a](/en/post/a/) [minor](/en/post/minor/) [hurt](/en/post/hurt/).
-- "[She](/en/post/she/) was [slightly](/en/post/slightly/) taken aback [by](/en/post/by/) [the](/en/post/the/) [news](/en/post/news/)."
+- "[Slight](/post/slight/) [improvement](/post/improvement/)" [means](/post/means/) [a](/post/a/) [small](/post/small/) [but](/post/but/) [positive](/post/positive/) [change](/post/change/).
+- "Slighting someone's feelings" implies causing [a](/post/a/) [minor](/post/minor/) [hurt](/post/hurt/).
+- "[She](/post/she/) was [slightly](/post/slightly/) taken aback [by](/post/by/) [the](/post/the/) [news](/post/news/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [guest](/en/post/guest/) [list](/en/post/list/) was [slightly](/en/post/slightly/) increased [for](/en/post/for/) [the](/en/post/the/) [event](/en/post/event/)."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) arrogance was [beginning](/en/post/beginning/) [to](/en/post/to/) [slight](/en/post/slight/) [his](/en/post/his/) chances [of](/en/post/of/) [success](/en/post/success/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [storm](/en/post/storm/) was [a](/en/post/a/) [slight](/en/post/slight/) inconvenience, [but](/en/post/but/) [we](/en/post/we/) managed [to](/en/post/to/) [get](/en/post/get/) [through](/en/post/through/) [it](/en/post/it/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) smiled [slightly](/en/post/slightly/) [when](/en/post/when/) [he](/en/post/he/) heard [the](/en/post/the/) [joke](/en/post/joke/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [guest](/post/guest/) [list](/post/list/) was [slightly](/post/slightly/) increased [for](/post/for/) [the](/post/the/) [event](/post/event/)."
+- **[Verb](/post/verb/)**: "[His](/post/his/) arrogance was [beginning](/post/beginning/) [to](/post/to/) [slight](/post/slight/) [his](/post/his/) chances [of](/post/of/) [success](/post/success/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [storm](/post/storm/) was [a](/post/a/) [slight](/post/slight/) inconvenience, [but](/post/but/) [we](/post/we/) managed [to](/post/to/) [get](/post/get/) [through](/post/through/) [it](/post/it/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) smiled [slightly](/post/slightly/) [when](/post/when/) [he](/post/he/) heard [the](/post/the/) [joke](/post/joke/)."
 
 ## Synonyms
 - Minimal
 - Trifling
 - Insignificant
 - Negligible
-- Barely [noticeable](/en/post/noticeable/)
+- Barely [noticeable](/post/noticeable/)

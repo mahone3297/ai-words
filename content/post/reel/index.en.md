@@ -7,40 +7,40 @@ description = '[riːl] n.卷轴，卷筒'
 keywords = ['ai words', 'reel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /riːl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Reel](/en/post/reel/) ([film](/en/post/film/))**: [A](/en/post/a/) spool [of](/en/post/of/) [film](/en/post/film/) [used](/en/post/used/) [in](/en/post/in/) cameras [and](/en/post/and/) projectors, [or](/en/post/or/) [a](/en/post/a/) [device](/en/post/device/) [for](/en/post/for/) winding [and](/en/post/and/) unwinding [film](/en/post/film/) [or](/en/post/or/) [tape](/en/post/tape/). [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) projector needed [a](/en/post/a/) [new](/en/post/new/) [film](/en/post/film/) [reel](/en/post/reel/)."
-2. **[Reel](/en/post/reel/) (fishing)**: [A](/en/post/a/) cylindrical [device](/en/post/device/) [with](/en/post/with/) [a](/en/post/a/) [line](/en/post/line/) [wound](/en/post/wound/) [around](/en/post/around/) [it](/en/post/it/), [used](/en/post/used/) [for](/en/post/for/) fishing. [Example](/en/post/example/): "[He](/en/post/he/) [cast](/en/post/cast/) [his](/en/post/his/) fishing [reel](/en/post/reel/) [into](/en/post/into/) [the](/en/post/the/) [lake](/en/post/lake/)."
-3. **[Reel](/en/post/reel/) ([machine](/en/post/machine/))**: [A](/en/post/a/) mechanism [that](/en/post/that/) winds [or](/en/post/or/) unwinds [material](/en/post/material/), [such](/en/post/such/) [as](/en/post/as/) [thread](/en/post/thread/) [or](/en/post/or/) [cable](/en/post/cable/). [Example](/en/post/example/): "[The](/en/post/the/) sewing [machine](/en/post/machine/) has [a](/en/post/a/) built-in bobbin [reel](/en/post/reel/)."
-4. **[Reel](/en/post/reel/) (entertainment)**: [A](/en/post/a/) compilation [of](/en/post/of/) scenes [from](/en/post/from/) [a](/en/post/a/) [movie](/en/post/movie/) [or](/en/post/or/) TV [show](/en/post/show/), [often](/en/post/often/) released [as](/en/post/as/) [a](/en/post/a/) [separate](/en/post/separate/) [product](/en/post/product/). [Example](/en/post/example/): "[The](/en/post/the/) [best](/en/post/best/) moments [from](/en/post/from/) [the](/en/post/the/) [film](/en/post/film/) were included [on](/en/post/on/) [the](/en/post/the/) bonus [reel](/en/post/reel/)."
+### [Noun](/post/noun/)
+1. **[Reel](/post/reel/) ([film](/post/film/))**: [A](/post/a/) spool [of](/post/of/) [film](/post/film/) [used](/post/used/) [in](/post/in/) cameras [and](/post/and/) projectors, [or](/post/or/) [a](/post/a/) [device](/post/device/) [for](/post/for/) winding [and](/post/and/) unwinding [film](/post/film/) [or](/post/or/) [tape](/post/tape/). [Example](/post/example/): "[The](/post/the/) [old](/post/old/) projector needed [a](/post/a/) [new](/post/new/) [film](/post/film/) [reel](/post/reel/)."
+2. **[Reel](/post/reel/) (fishing)**: [A](/post/a/) cylindrical [device](/post/device/) [with](/post/with/) [a](/post/a/) [line](/post/line/) [wound](/post/wound/) [around](/post/around/) [it](/post/it/), [used](/post/used/) [for](/post/for/) fishing. [Example](/post/example/): "[He](/post/he/) [cast](/post/cast/) [his](/post/his/) fishing [reel](/post/reel/) [into](/post/into/) [the](/post/the/) [lake](/post/lake/)."
+3. **[Reel](/post/reel/) ([machine](/post/machine/))**: [A](/post/a/) mechanism [that](/post/that/) winds [or](/post/or/) unwinds [material](/post/material/), [such](/post/such/) [as](/post/as/) [thread](/post/thread/) [or](/post/or/) [cable](/post/cable/). [Example](/post/example/): "[The](/post/the/) sewing [machine](/post/machine/) has [a](/post/a/) built-in bobbin [reel](/post/reel/)."
+4. **[Reel](/post/reel/) (entertainment)**: [A](/post/a/) compilation [of](/post/of/) scenes [from](/post/from/) [a](/post/a/) [movie](/post/movie/) [or](/post/or/) TV [show](/post/show/), [often](/post/often/) released [as](/post/as/) [a](/post/a/) [separate](/post/separate/) [product](/post/product/). [Example](/post/example/): "[The](/post/the/) [best](/post/best/) moments [from](/post/from/) [the](/post/the/) [film](/post/film/) were included [on](/post/on/) [the](/post/the/) bonus [reel](/post/reel/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [reel](/en/post/reel/) ([fish](/en/post/fish/))**: [To](/en/post/to/) [pull](/en/post/pull/) [in](/en/post/in/) [a](/en/post/a/) [fish](/en/post/fish/) using [a](/en/post/a/) [reel](/en/post/reel/). [Example](/en/post/example/): "[He](/en/post/he/) reeled [in](/en/post/in/) [a](/en/post/a/) [big](/en/post/big/) bass [after](/en/post/after/) hours [of](/en/post/of/) [patience](/en/post/patience/)."
-2. **[To](/en/post/to/) [reel](/en/post/reel/) (emotionally)**: [To](/en/post/to/) [be](/en/post/be/) overwhelmed [by](/en/post/by/) [strong](/en/post/strong/) emotions. [Example](/en/post/example/): "[After](/en/post/after/) hearing [the](/en/post/the/) [news](/en/post/news/), [she](/en/post/she/) couldn't [help](/en/post/help/) [but](/en/post/but/) [reel](/en/post/reel/) [in](/en/post/in/) [shock](/en/post/shock/)."
-3. **[To](/en/post/to/) [reel](/en/post/reel/) ([in](/en/post/in/))**: [To](/en/post/to/) [gather](/en/post/gather/) [or](/en/post/or/) [wind](/en/post/wind/) [up](/en/post/up/) [something](/en/post/something/), typically [something](/en/post/something/) [loose](/en/post/loose/). [Example](/en/post/example/): "[The](/en/post/the/) climber [slowly](/en/post/slowly/) reeled [in](/en/post/in/) [the](/en/post/the/) [rope](/en/post/rope/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [reel](/post/reel/) ([fish](/post/fish/))**: [To](/post/to/) [pull](/post/pull/) [in](/post/in/) [a](/post/a/) [fish](/post/fish/) using [a](/post/a/) [reel](/post/reel/). [Example](/post/example/): "[He](/post/he/) reeled [in](/post/in/) [a](/post/a/) [big](/post/big/) bass [after](/post/after/) hours [of](/post/of/) [patience](/post/patience/)."
+2. **[To](/post/to/) [reel](/post/reel/) (emotionally)**: [To](/post/to/) [be](/post/be/) overwhelmed [by](/post/by/) [strong](/post/strong/) emotions. [Example](/post/example/): "[After](/post/after/) hearing [the](/post/the/) [news](/post/news/), [she](/post/she/) couldn't [help](/post/help/) [but](/post/but/) [reel](/post/reel/) [in](/post/in/) [shock](/post/shock/)."
+3. **[To](/post/to/) [reel](/post/reel/) ([in](/post/in/))**: [To](/post/to/) [gather](/post/gather/) [or](/post/or/) [wind](/post/wind/) [up](/post/up/) [something](/post/something/), typically [something](/post/something/) [loose](/post/loose/). [Example](/post/example/): "[The](/post/the/) climber [slowly](/post/slowly/) reeled [in](/post/in/) [the](/post/the/) [rope](/post/rope/)."
 
-### [Adjective](/en/post/adjective/)
-1. **[Reel](/en/post/reel/)** ([adjective](/en/post/adjective/) [for](/en/post/for/) [motion](/en/post/motion/)): Moving [in](/en/post/in/) [a](/en/post/a/) [rapid](/en/post/rapid/), uncontrolled [manner](/en/post/manner/). [Example](/en/post/example/): "[The](/en/post/the/) dancers moved [in](/en/post/in/) [a](/en/post/a/) [fluid](/en/post/fluid/), mesmerizing [reel](/en/post/reel/)."
-2. **[Reel](/en/post/reel/)** ([adjective](/en/post/adjective/) [for](/en/post/for/) attractiveness): [Extremely](/en/post/extremely/) [impressive](/en/post/impressive/) [or](/en/post/or/) captivating. [Example](/en/post/example/): "[Her](/en/post/her/) [performance](/en/post/performance/) was [a](/en/post/a/) [real](/en/post/real/) [reel](/en/post/reel/) [of](/en/post/of/) [talent](/en/post/talent/)."
+### [Adjective](/post/adjective/)
+1. **[Reel](/post/reel/)** ([adjective](/post/adjective/) [for](/post/for/) [motion](/post/motion/)): Moving [in](/post/in/) [a](/post/a/) [rapid](/post/rapid/), uncontrolled [manner](/post/manner/). [Example](/post/example/): "[The](/post/the/) dancers moved [in](/post/in/) [a](/post/a/) [fluid](/post/fluid/), mesmerizing [reel](/post/reel/)."
+2. **[Reel](/post/reel/)** ([adjective](/post/adjective/) [for](/post/for/) attractiveness): [Extremely](/post/extremely/) [impressive](/post/impressive/) [or](/post/or/) captivating. [Example](/post/example/): "[Her](/post/her/) [performance](/post/performance/) was [a](/post/a/) [real](/post/real/) [reel](/post/reel/) [of](/post/of/) [talent](/post/talent/)."
 
 ## Phrases
-- "[Reel](/en/post/reel/) [off](/en/post/off/)" [means](/en/post/means/) [to](/en/post/to/) [speak](/en/post/speak/) [or](/en/post/or/) [list](/en/post/list/) [something](/en/post/something/) fluently.
-- "[On](/en/post/on/) [a](/en/post/a/) [reel](/en/post/reel/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) displayed [or](/en/post/or/) organized [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/), [like](/en/post/like/) [film](/en/post/film/) footage [or](/en/post/or/) memories.
-- "[A](/en/post/a/) [reel](/en/post/reel/) [of](/en/post/of/) [laughter](/en/post/laughter/)" describes [a](/en/post/a/) [continuous](/en/post/continuous/) [stream](/en/post/stream/) [of](/en/post/of/) [laughter](/en/post/laughter/).
+- "[Reel](/post/reel/) [off](/post/off/)" [means](/post/means/) [to](/post/to/) [speak](/post/speak/) [or](/post/or/) [list](/post/list/) [something](/post/something/) fluently.
+- "[On](/post/on/) [a](/post/a/) [reel](/post/reel/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) displayed [or](/post/or/) organized [in](/post/in/) [a](/post/a/) [series](/post/series/), [like](/post/like/) [film](/post/film/) footage [or](/post/or/) memories.
+- "[A](/post/a/) [reel](/post/reel/) [of](/post/of/) [laughter](/post/laughter/)" describes [a](/post/a/) [continuous](/post/continuous/) [stream](/post/stream/) [of](/post/of/) [laughter](/post/laughter/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) antique [camera](/en/post/camera/) had [a](/en/post/a/) [wooden](/en/post/wooden/) [reel](/en/post/reel/) holding 100 feet [of](/en/post/of/) black-and-white [film](/en/post/film/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) reeled [in](/en/post/in/) [the](/en/post/the/) [line](/en/post/line/) [and](/en/post/and/) caught [a](/en/post/a/) [rainbow](/en/post/rainbow/) trout."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [dance](/en/post/dance/) [performance](/en/post/performance/) was [a](/en/post/a/) [reel](/en/post/reel/) [of](/en/post/of/) breathtaking choreography."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) antique [camera](/post/camera/) had [a](/post/a/) [wooden](/post/wooden/) [reel](/post/reel/) holding 100 feet [of](/post/of/) black-and-white [film](/post/film/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) reeled [in](/post/in/) [the](/post/the/) [line](/post/line/) [and](/post/and/) caught [a](/post/a/) [rainbow](/post/rainbow/) trout."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [dance](/post/dance/) [performance](/post/performance/) was [a](/post/a/) [reel](/post/reel/) [of](/post/of/) breathtaking choreography."
 
 ## Synonyms
 - Spool
-- [Roll](/en/post/roll/)
+- [Roll](/post/roll/)
 - Line-up
 - Compilation
 - Showcase
-- [Series](/en/post/series/) ([for](/en/post/for/) entertainment)
-- Uncontrollable ([motion](/en/post/motion/))
+- [Series](/post/series/) ([for](/post/for/) entertainment)
+- Uncontrollable ([motion](/post/motion/))

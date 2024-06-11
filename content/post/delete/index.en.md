@@ -7,33 +7,33 @@ description = '[diˈliːt] vt.删除；擦掉'
 keywords = ['ai words', 'delete']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈliːt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (n) [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) removing, erasing, [or](/en/post/or/) canceling [data](/en/post/data/), [text](/en/post/text/), [or](/en/post/or/) files [from](/en/post/from/) [a](/en/post/a/) [digital](/en/post/digital/) [storage](/en/post/storage/) [system](/en/post/system/). (v) [To](/en/post/to/) [remove](/en/post/remove/) [or](/en/post/or/) [delete](/en/post/delete/) [something](/en/post/something/) [from](/en/post/from/) [a](/en/post/a/) database, [list](/en/post/list/), [or](/en/post/or/) [memory](/en/post/memory/).
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) deletion; [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) removing [something](/en/post/something/).
+- **[Verb](/post/verb/)**: (n) [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [action](/post/action/) [of](/post/of/) removing, erasing, [or](/post/or/) canceling [data](/post/data/), [text](/post/text/), [or](/post/or/) files [from](/post/from/) [a](/post/a/) [digital](/post/digital/) [storage](/post/storage/) [system](/post/system/). (v) [To](/post/to/) [remove](/post/remove/) [or](/post/or/) [delete](/post/delete/) [something](/post/something/) [from](/post/from/) [a](/post/a/) database, [list](/post/list/), [or](/post/or/) [memory](/post/memory/).
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) deletion; [the](/post/the/) [process](/post/process/) [of](/post/of/) removing [something](/post/something/).
 
 ## Phrases
-- "[Delete](/en/post/delete/) [a](/en/post/a/) [file](/en/post/file/)" [means](/en/post/means/) [to](/en/post/to/) [permanently](/en/post/permanently/) [remove](/en/post/remove/) [a](/en/post/a/) [digital](/en/post/digital/) [file](/en/post/file/).
-- "[Clear](/en/post/clear/) [the](/en/post/the/) cache" refers [to](/en/post/to/) deleting [temporary](/en/post/temporary/) internet files [to](/en/post/to/) [free](/en/post/free/) [up](/en/post/up/) [space](/en/post/space/).
-- "[Delete](/en/post/delete/) duplicates" is [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) removing [identical](/en/post/identical/) items [to](/en/post/to/) [prevent](/en/post/prevent/) redundancy.
+- "[Delete](/post/delete/) [a](/post/a/) [file](/post/file/)" [means](/post/means/) [to](/post/to/) [permanently](/post/permanently/) [remove](/post/remove/) [a](/post/a/) [digital](/post/digital/) [file](/post/file/).
+- "[Clear](/post/clear/) [the](/post/the/) cache" refers [to](/post/to/) deleting [temporary](/post/temporary/) internet files [to](/post/to/) [free](/post/free/) [up](/post/up/) [space](/post/space/).
+- "[Delete](/post/delete/) duplicates" is [the](/post/the/) [action](/post/action/) [of](/post/of/) removing [identical](/post/identical/) items [to](/post/to/) [prevent](/post/prevent/) redundancy.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[Before](/en/post/before/) submitting [the](/en/post/the/) [final](/en/post/final/) [draft](/en/post/draft/), I deleted [all](/en/post/all/) [the](/en/post/the/) [unnecessary](/en/post/unnecessary/) words [from](/en/post/from/) [the](/en/post/the/) [document](/en/post/document/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [user](/en/post/user/) accidentally deleted [several](/en/post/several/) [important](/en/post/important/) emails [from](/en/post/from/) [their](/en/post/their/) inbox."
-- "I [regularly](/en/post/regularly/) [perform](/en/post/perform/) [system](/en/post/system/) [maintenance](/en/post/maintenance/), [which](/en/post/which/) includes deleting [old](/en/post/old/) files [to](/en/post/to/) optimize [storage](/en/post/storage/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[Before](/post/before/) submitting [the](/post/the/) [final](/post/final/) [draft](/post/draft/), I deleted [all](/post/all/) [the](/post/the/) [unnecessary](/post/unnecessary/) words [from](/post/from/) [the](/post/the/) [document](/post/document/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [user](/post/user/) accidentally deleted [several](/post/several/) [important](/post/important/) emails [from](/post/from/) [their](/post/their/) inbox."
+- "I [regularly](/post/regularly/) [perform](/post/perform/) [system](/post/system/) [maintenance](/post/maintenance/), [which](/post/which/) includes deleting [old](/post/old/) files [to](/post/to/) optimize [storage](/post/storage/)."
 
 ## Synonyms
 - Erase
-- [Remove](/en/post/remove/)
+- [Remove](/post/remove/)
 - Expunge
 - Invalidate
 -擦除
 
 ## Antonyms
-- [Add](/en/post/add/)
-- [Save](/en/post/save/)
-- [Keep](/en/post/keep/)
-- [Preserve](/en/post/preserve/)
-- [Insert](/en/post/insert/)
+- [Add](/post/add/)
+- [Save](/post/save/)
+- [Keep](/post/keep/)
+- [Preserve](/post/preserve/)
+- [Insert](/post/insert/)

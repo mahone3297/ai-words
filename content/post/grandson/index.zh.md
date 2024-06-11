@@ -11,18 +11,18 @@ keywords = ['ai words', 'grandson']
 /ˈɡrɑːndˌsʌn/
 
 ## 释义
-- **名词**: 指一个人的儿子的儿子，即父亲的孙子，母亲的外孙。例如: "[My](/post/my/) [grandson](/post/grandson/) is visiting [us](/post/us/) [this](/post/this/) [weekend](/post/weekend/)."
+- **名词**: 指一个人的儿子的儿子，即父亲的孙子，母亲的外孙。例如: "[My](/zh/post/my/) [grandson](/zh/post/grandson/) is visiting [us](/zh/post/us/) [this](/zh/post/this/) [weekend](/zh/post/weekend/)."
 
 ## 短语
-- "[grandson](/post/grandson/) [of](/post/of/)" 表示“...的孙子”，如 "[He](/post/he/) is [the](/post/the/) [grandson](/post/grandson/) [of](/post/of/) [a](/post/a/) [famous](/post/famous/) [scientist](/post/scientist/)."
+- "[grandson](/zh/post/grandson/) [of](/zh/post/of/)" 表示“...的孙子”，如 "[He](/zh/post/he/) is [the](/zh/post/the/) [grandson](/zh/post/grandson/) [of](/zh/post/of/) [a](/zh/post/a/) [famous](/zh/post/famous/) [scientist](/zh/post/scientist/)."
 
 ## 例句
-- "[My](/post/my/) [grandson](/post/grandson/) is showing an [interest](/post/interest/) [in](/post/in/) [science](/post/science/) [just](/post/just/) [like](/post/like/) [his](/post/his/) [grandfather](/post/grandfather/) did."
-- "[She](/post/she/) loves spending [time](/post/time/) [with](/post/with/) [her](/post/her/) [grandson](/post/grandson/) [and](/post/and/) [teaching](/post/teaching/) [him](/post/him/) [new](/post/new/) things."
+- "[My](/zh/post/my/) [grandson](/zh/post/grandson/) is showing an [interest](/zh/post/interest/) [in](/zh/post/in/) [science](/zh/post/science/) [just](/zh/post/just/) [like](/zh/post/like/) [his](/zh/post/his/) [grandfather](/zh/post/grandfather/) did."
+- "[She](/zh/post/she/) loves spending [time](/zh/post/time/) [with](/zh/post/with/) [her](/zh/post/her/) [grandson](/zh/post/grandson/) [and](/zh/post/and/) [teaching](/zh/post/teaching/) [him](/zh/post/him/) [new](/zh/post/new/) things."
 
 ## 同义词
 - Grandchild
 - Descendant
 - Offspring
 - Progeny
-- [Kid](/post/kid/) (informal)
+- [Kid](/zh/post/kid/) (informal)

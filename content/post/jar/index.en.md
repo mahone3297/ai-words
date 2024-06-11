@@ -7,34 +7,34 @@ description = '[dʒɑː] n.罐子，坛子，广口瓶'
 keywords = ['ai words', 'jar']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dʒɑːr/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-1. [A](/en/post/a/) [large](/en/post/large/), wide-mouthed [container](/en/post/container/) typically made [of](/en/post/of/) [glass](/en/post/glass/) [or](/en/post/or/) pottery, [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [lid](/en/post/lid/), [used](/en/post/used/) [for](/en/post/for/) storing [food](/en/post/food/) [or](/en/post/or/) [other](/en/post/other/) items: _"[She](/en/post/she/) keeps [her](/en/post/her/) homemade [jam](/en/post/jam/) [in](/en/post/in/) [a](/en/post/a/) [big](/en/post/big/) [glass](/en/post/glass/) [jar](/en/post/jar/)."_
-2. [The](/en/post/the/) contents [of](/en/post/of/) [such](/en/post/such/) [a](/en/post/a/) [container](/en/post/container/): _"[A](/en/post/a/) [jar](/en/post/jar/) [of](/en/post/of/) pickles."_
-3. [A](/en/post/a/) [sudden](/en/post/sudden/) jolt [or](/en/post/or/) [shock](/en/post/shock/): _"[The](/en/post/the/) [car](/en/post/car/) [hit](/en/post/hit/) [a](/en/post/a/) pothole, causing [a](/en/post/a/) [jar](/en/post/jar/) [to](/en/post/to/) [my](/en/post/my/) spine."_
-4. [A](/en/post/a/) [container](/en/post/container/) [for](/en/post/for/) holding cosmetics [or](/en/post/or/) toiletries: _"[She](/en/post/she/) unscrewed [the](/en/post/the/) [lid](/en/post/lid/) [of](/en/post/of/) [her](/en/post/her/) [face](/en/post/face/) [cream](/en/post/cream/) [jar](/en/post/jar/)."_
-5. Slang: An [awkward](/en/post/awkward/) [or](/en/post/or/) [difficult](/en/post/difficult/) [situation](/en/post/situation/): _"[He](/en/post/he/) [found](/en/post/found/) [himself](/en/post/himself/) [in](/en/post/in/) [a](/en/post/a/) [bit](/en/post/bit/) [of](/en/post/of/) [a](/en/post/a/) [financial](/en/post/financial/) [jar](/en/post/jar/) [after](/en/post/after/) losing [his](/en/post/his/) [job](/en/post/job/)."_
+### [Noun](/post/noun/) (n)
+1. [A](/post/a/) [large](/post/large/), wide-mouthed [container](/post/container/) typically made [of](/post/of/) [glass](/post/glass/) [or](/post/or/) pottery, [often](/post/often/) [with](/post/with/) [a](/post/a/) [lid](/post/lid/), [used](/post/used/) [for](/post/for/) storing [food](/post/food/) [or](/post/or/) [other](/post/other/) items: _"[She](/post/she/) keeps [her](/post/her/) homemade [jam](/post/jam/) [in](/post/in/) [a](/post/a/) [big](/post/big/) [glass](/post/glass/) [jar](/post/jar/)."_
+2. [The](/post/the/) contents [of](/post/of/) [such](/post/such/) [a](/post/a/) [container](/post/container/): _"[A](/post/a/) [jar](/post/jar/) [of](/post/of/) pickles."_
+3. [A](/post/a/) [sudden](/post/sudden/) jolt [or](/post/or/) [shock](/post/shock/): _"[The](/post/the/) [car](/post/car/) [hit](/post/hit/) [a](/post/a/) pothole, causing [a](/post/a/) [jar](/post/jar/) [to](/post/to/) [my](/post/my/) spine."_
+4. [A](/post/a/) [container](/post/container/) [for](/post/for/) holding cosmetics [or](/post/or/) toiletries: _"[She](/post/she/) unscrewed [the](/post/the/) [lid](/post/lid/) [of](/post/of/) [her](/post/her/) [face](/post/face/) [cream](/post/cream/) [jar](/post/jar/)."_
+5. Slang: An [awkward](/post/awkward/) [or](/post/or/) [difficult](/post/difficult/) [situation](/post/situation/): _"[He](/post/he/) [found](/post/found/) [himself](/post/himself/) [in](/post/in/) [a](/post/a/) [bit](/post/bit/) [of](/post/of/) [a](/post/a/) [financial](/post/financial/) [jar](/post/jar/) [after](/post/after/) losing [his](/post/his/) [job](/post/job/)."_
 
-### [Verb](/en/post/verb/) (v)
-1. [To](/en/post/to/) [cause](/en/post/cause/) [to](/en/post/to/) [move](/en/post/move/) [suddenly](/en/post/suddenly/) [and](/en/post/and/) [roughly](/en/post/roughly/): _"[The](/en/post/the/) [door](/en/post/door/) slammed [shut](/en/post/shut/), jarring [the](/en/post/the/) pictures [on](/en/post/on/) [the](/en/post/the/) [wall](/en/post/wall/)."_
-2. [To](/en/post/to/) [disturb](/en/post/disturb/) [or](/en/post/or/) [upset](/en/post/upset/) emotionally: _"[The](/en/post/the/) [news](/en/post/news/) jarred [her](/en/post/her/) [peace](/en/post/peace/) [of](/en/post/of/) [mind](/en/post/mind/)."_
-3. [To](/en/post/to/) [store](/en/post/store/) [or](/en/post/or/) [preserve](/en/post/preserve/) [in](/en/post/in/) [a](/en/post/a/) [jar](/en/post/jar/): _"I'll [jar](/en/post/jar/) [these](/en/post/these/) tomatoes [for](/en/post/for/) [winter](/en/post/winter/) [use](/en/post/use/)."_
+### [Verb](/post/verb/) (v)
+1. [To](/post/to/) [cause](/post/cause/) [to](/post/to/) [move](/post/move/) [suddenly](/post/suddenly/) [and](/post/and/) [roughly](/post/roughly/): _"[The](/post/the/) [door](/post/door/) slammed [shut](/post/shut/), jarring [the](/post/the/) pictures [on](/post/on/) [the](/post/the/) [wall](/post/wall/)."_
+2. [To](/post/to/) [disturb](/post/disturb/) [or](/post/or/) [upset](/post/upset/) emotionally: _"[The](/post/the/) [news](/post/news/) jarred [her](/post/her/) [peace](/post/peace/) [of](/post/of/) [mind](/post/mind/)."_
+3. [To](/post/to/) [store](/post/store/) [or](/post/or/) [preserve](/post/preserve/) [in](/post/in/) [a](/post/a/) [jar](/post/jar/): _"I'll [jar](/post/jar/) [these](/post/these/) tomatoes [for](/post/for/) [winter](/post/winter/) [use](/post/use/)."_
 
 ## Phrases
-- "[A](/en/post/a/) [jar](/en/post/jar/) [of](/en/post/of/) [something](/en/post/something/)": Refers [to](/en/post/to/) storing an [item](/en/post/item/) [in](/en/post/in/) [a](/en/post/a/) [jar](/en/post/jar/), e.g., "[a](/en/post/a/) [jar](/en/post/jar/) [of](/en/post/of/) [honey](/en/post/honey/)."
-- "[Out](/en/post/out/) [of](/en/post/of/) [jar](/en/post/jar/)": [To](/en/post/to/) [be](/en/post/be/) [out](/en/post/out/) [of](/en/post/of/) [place](/en/post/place/) [or](/en/post/or/) [uncomfortable](/en/post/uncomfortable/); [not](/en/post/not/) functioning [smoothly](/en/post/smoothly/), e.g., "[His](/en/post/his/) [behavior](/en/post/behavior/) seems [a](/en/post/a/) [bit](/en/post/bit/) [out](/en/post/out/) [of](/en/post/of/) [jar](/en/post/jar/) [today](/en/post/today/)."
+- "[A](/post/a/) [jar](/post/jar/) [of](/post/of/) [something](/post/something/)": Refers [to](/post/to/) storing an [item](/post/item/) [in](/post/in/) [a](/post/a/) [jar](/post/jar/), e.g., "[a](/post/a/) [jar](/post/jar/) [of](/post/of/) [honey](/post/honey/)."
+- "[Out](/post/out/) [of](/post/of/) [jar](/post/jar/)": [To](/post/to/) [be](/post/be/) [out](/post/out/) [of](/post/of/) [place](/post/place/) [or](/post/or/) [uncomfortable](/post/uncomfortable/); [not](/post/not/) functioning [smoothly](/post/smoothly/), e.g., "[His](/post/his/) [behavior](/post/behavior/) seems [a](/post/a/) [bit](/post/bit/) [out](/post/out/) [of](/post/of/) [jar](/post/jar/) [today](/post/today/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I dropped [the](/en/post/the/) [jar](/en/post/jar/) [and](/en/post/and/) shattered [it](/en/post/it/) [on](/en/post/on/) [the](/en/post/the/) [kitchen](/en/post/kitchen/) [floor](/en/post/floor/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [loud](/en/post/loud/) [noise](/en/post/noise/) jarred [me](/en/post/me/) [awake](/en/post/awake/) [from](/en/post/from/) [my](/en/post/my/) [sleep](/en/post/sleep/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I dropped [the](/post/the/) [jar](/post/jar/) [and](/post/and/) shattered [it](/post/it/) [on](/post/on/) [the](/post/the/) [kitchen](/post/kitchen/) [floor](/post/floor/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [loud](/post/loud/) [noise](/post/noise/) jarred [me](/post/me/) [awake](/post/awake/) [from](/post/from/) [my](/post/my/) [sleep](/post/sleep/)."
 
 ## Synonyms
-- [Container](/en/post/container/)
-- [Pot](/en/post/pot/)
-- [Bottle](/en/post/bottle/)
+- [Container](/post/container/)
+- [Pot](/post/pot/)
+- [Bottle](/post/bottle/)
 - Canister
-- Jolt ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [meaning](/en/post/meaning/))
-- [Upset](/en/post/upset/) ([for](/en/post/for/) [the](/en/post/the/) [emotional](/en/post/emotional/) disturbance [meaning](/en/post/meaning/))
+- Jolt ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [meaning](/post/meaning/))
+- [Upset](/post/upset/) ([for](/post/for/) [the](/post/the/) [emotional](/post/emotional/) disturbance [meaning](/post/meaning/))

@@ -7,27 +7,27 @@ description = '[fraun] vi.皱眉，蹙额'
 keywords = ['ai words', 'frown']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fraʊn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) facial [expression](/en/post/expression/) [in](/en/post/in/) [which](/en/post/which/) [the](/en/post/the/) eyebrows are brought [together](/en/post/together/) [and](/en/post/and/) lowered, [and](/en/post/and/) [the](/en/post/the/) lips [often](/en/post/often/) turned [down](/en/post/down/), typically expressing disapproval, unhappiness, [or](/en/post/or/) [worry](/en/post/worry/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) teacher's [frown](/en/post/frown/) indicated [her](/en/post/her/) dissatisfaction [with](/en/post/with/) [their](/en/post/their/) [behavior](/en/post/behavior/)."
-- **[Verb](/en/post/verb/)**: (intransitive) [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) frowning [expression](/en/post/expression/) [with](/en/post/with/) one's [face](/en/post/face/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) frowned [when](/en/post/when/) [he](/en/post/he/) [read](/en/post/read/) [the](/en/post/the/) disappointing [news](/en/post/news/)."
-  - (transitive) [To](/en/post/to/) [express](/en/post/express/) disapproval [or](/en/post/or/) displeasure [by](/en/post/by/) frowning. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) frowned [at](/en/post/at/) [the](/en/post/the/) messy [room](/en/post/room/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) facial [expression](/post/expression/) [in](/post/in/) [which](/post/which/) [the](/post/the/) eyebrows are brought [together](/post/together/) [and](/post/and/) lowered, [and](/post/and/) [the](/post/the/) lips [often](/post/often/) turned [down](/post/down/), typically expressing disapproval, unhappiness, [or](/post/or/) [worry](/post/worry/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) teacher's [frown](/post/frown/) indicated [her](/post/her/) dissatisfaction [with](/post/with/) [their](/post/their/) [behavior](/post/behavior/)."
+- **[Verb](/post/verb/)**: (intransitive) [To](/post/to/) [make](/post/make/) [a](/post/a/) frowning [expression](/post/expression/) [with](/post/with/) one's [face](/post/face/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) frowned [when](/post/when/) [he](/post/he/) [read](/post/read/) [the](/post/the/) disappointing [news](/post/news/)."
+  - (transitive) [To](/post/to/) [express](/post/express/) disapproval [or](/post/or/) displeasure [by](/post/by/) frowning. [For](/post/for/) [example](/post/example/): "[She](/post/she/) frowned [at](/post/at/) [the](/post/the/) messy [room](/post/room/)."
 
 ## Phrases
-- "[Frown](/en/post/frown/) [upon](/en/post/upon/)": [To](/en/post/to/) [view](/en/post/view/) [something](/en/post/something/) [with](/en/post/with/) disapproval [or](/en/post/or/) disdain. [Example](/en/post/example/): "[The](/en/post/the/) [school](/en/post/school/) [principal](/en/post/principal/) frowned [upon](/en/post/upon/) cheating [during](/en/post/during/) exams."
-- "[A](/en/post/a/) furrowed [brow](/en/post/brow/)": [A](/en/post/a/) [phrase](/en/post/phrase/) describing [a](/en/post/a/) [deep](/en/post/deep/) [frown](/en/post/frown/) [that](/en/post/that/) creates wrinkles [on](/en/post/on/) [the](/en/post/the/) [forehead](/en/post/forehead/), [often](/en/post/often/) indicating [concentration](/en/post/concentration/), [concern](/en/post/concern/), [or](/en/post/or/) frustration.
+- "[Frown](/post/frown/) [upon](/post/upon/)": [To](/post/to/) [view](/post/view/) [something](/post/something/) [with](/post/with/) disapproval [or](/post/or/) disdain. [Example](/post/example/): "[The](/post/the/) [school](/post/school/) [principal](/post/principal/) frowned [upon](/post/upon/) cheating [during](/post/during/) exams."
+- "[A](/post/a/) furrowed [brow](/post/brow/)": [A](/post/a/) [phrase](/post/phrase/) describing [a](/post/a/) [deep](/post/deep/) [frown](/post/frown/) [that](/post/that/) creates wrinkles [on](/post/on/) [the](/post/the/) [forehead](/post/forehead/), [often](/post/often/) indicating [concentration](/post/concentration/), [concern](/post/concern/), [or](/post/or/) frustration.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [deep](/en/post/deep/) [frown](/en/post/frown/) suggested [he](/en/post/he/) was thoroughly perplexed [by](/en/post/by/) [the](/en/post/the/) [problem](/en/post/problem/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) frowned [as](/en/post/as/) [she](/en/post/she/) tried [to](/en/post/to/) [understand](/en/post/understand/) [the](/en/post/the/) [complex](/en/post/complex/) instructions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [deep](/post/deep/) [frown](/post/frown/) suggested [he](/post/he/) was thoroughly perplexed [by](/post/by/) [the](/post/the/) [problem](/post/problem/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) frowned [as](/post/as/) [she](/post/she/) tried [to](/post/to/) [understand](/post/understand/) [the](/post/the/) [complex](/post/complex/) instructions."
 
 ## Synonyms
 - Scowl
-- [Frown](/en/post/frown/) [expression](/en/post/expression/)
+- [Frown](/post/frown/) [expression](/post/expression/)
 - Glower
 - Grimace
-- [Look](/en/post/look/) [of](/en/post/of/) disapproval
-- [Worry](/en/post/worry/) lines
-- Furrow ([as](/en/post/as/) [in](/en/post/in/) "furrow one's [brow](/en/post/brow/)")
+- [Look](/post/look/) [of](/post/of/) disapproval
+- [Worry](/post/worry/) lines
+- Furrow ([as](/post/as/) [in](/post/in/) "furrow one's [brow](/post/brow/)")

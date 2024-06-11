@@ -8,24 +8,24 @@ keywords = ['ai words', 'user']
 +++
 
 ## 读音
-/[user](/post/user/)/
+/[user](/zh/post/user/)/
 
 ## 释义
-- **名词**: 指使用某种产品、服务或技术的人。例如: "[The](/post/the/) [new](/post/new/) software has received [positive](/post/positive/) [feedback](/post/feedback/) [from](/post/from/) [its](/post/its/) users."
-- **动词**: 使用或利用（某物）。例如: "[She](/post/she/) users [her](/post/her/) smartphone [for](/post/for/) [both](/post/both/) [work](/post/work/) [and](/post/and/) entertainment."
+- **名词**: 指使用某种产品、服务或技术的人。例如: "[The](/zh/post/the/) [new](/zh/post/new/) software has received [positive](/zh/post/positive/) [feedback](/zh/post/feedback/) [from](/zh/post/from/) [its](/zh/post/its/) users."
+- **动词**: 使用或利用（某物）。例如: "[She](/zh/post/she/) users [her](/zh/post/her/) smartphone [for](/zh/post/for/) [both](/zh/post/both/) [work](/zh/post/work/) [and](/zh/post/and/) entertainment."
 
 ## 短语
-- "[New](/post/new/) [user](/post/user/)" 指初次使用某个系统或应用的人。
-- "[Heavy](/post/heavy/) [user](/post/user/)" 指频繁或大量使用某物的人。
-- "[Regular](/post/regular/) [user](/post/user/)" 指经常使用某产品或服务的用户。
+- "[New](/zh/post/new/) [user](/zh/post/user/)" 指初次使用某个系统或应用的人。
+- "[Heavy](/zh/post/heavy/) [user](/zh/post/user/)" 指频繁或大量使用某物的人。
+- "[Regular](/zh/post/regular/) [user](/zh/post/user/)" 指经常使用某产品或服务的用户。
 
 ## 例句
-- 名词: "[The](/post/the/) app has millions [of](/post/of/) [daily](/post/daily/) [active](/post/active/) users worldwide."
-- 动词: "[He](/post/he/) [user](/post/user/) [the](/post/the/) library's online resources [to](/post/to/) [research](/post/research/) [his](/post/his/) [project](/post/project/)."
+- 名词: "[The](/zh/post/the/) app has millions [of](/zh/post/of/) [daily](/zh/post/daily/) [active](/zh/post/active/) users worldwide."
+- 动词: "[He](/zh/post/he/) [user](/zh/post/user/) [the](/zh/post/the/) library's online resources [to](/zh/post/to/) [research](/zh/post/research/) [his](/zh/post/his/) [project](/zh/post/project/)."
 
 ## 同义词
-- [Individual](/post/individual/)
-- [Person](/post/person/)
+- [Individual](/zh/post/individual/)
+- [Person](/zh/post/person/)
 - Consumer
-- [Customer](/post/customer/)
+- [Customer](/zh/post/customer/)
 - Participant

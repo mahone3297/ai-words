@@ -7,30 +7,30 @@ description = '[frent∫] a.法国的 n.法国人'
 keywords = ['ai words', 'French']
 +++
 
-## [Word](/en/post/word/): French
+## [Word](/post/word/): French
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /frentʃ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) France, [its](/en/post/its/) [people](/en/post/people/), [or](/en/post/or/) [their](/en/post/their/) [language](/en/post/language/). [For](/en/post/for/) [example](/en/post/example/): "She's [fluent](/en/post/fluent/) [in](/en/post/in/) French."
-  - [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) things [that](/en/post/that/) originate [from](/en/post/from/) [or](/en/post/or/) are [characteristic](/en/post/characteristic/) [of](/en/post/of/) France, [such](/en/post/such/) [as](/en/post/as/) "French cuisine" [or](/en/post/or/) "French [fashion](/en/post/fashion/)".
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) Romance [language](/en/post/language/) spoken [in](/en/post/in/) France [and](/en/post/and/) [in](/en/post/in/) [many](/en/post/many/) [other](/en/post/other/) countries, [especially](/en/post/especially/) [as](/en/post/as/) an [official](/en/post/official/) [or](/en/post/or/) [second](/en/post/second/) [language](/en/post/language/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) teaches French [at](/en/post/at/) [the](/en/post/the/) [high](/en/post/high/) [school](/en/post/school/)."
-- **[Noun](/en/post/noun/) ([plural](/en/post/plural/) [form](/en/post/form/))**: [People](/en/post/people/) [from](/en/post/from/) France collectively. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) French are known [for](/en/post/for/) [their](/en/post/their/) [love](/en/post/love/) [of](/en/post/of/) [wine](/en/post/wine/) [and](/en/post/and/) [cheese](/en/post/cheese/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) France, [its](/post/its/) [people](/post/people/), [or](/post/or/) [their](/post/their/) [language](/post/language/). [For](/post/for/) [example](/post/example/): "She's [fluent](/post/fluent/) [in](/post/in/) French."
+  - [Also](/post/also/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) things [that](/post/that/) originate [from](/post/from/) [or](/post/or/) are [characteristic](/post/characteristic/) [of](/post/of/) France, [such](/post/such/) [as](/post/as/) "French cuisine" [or](/post/or/) "French [fashion](/post/fashion/)".
+- **[Noun](/post/noun/)**: [The](/post/the/) Romance [language](/post/language/) spoken [in](/post/in/) France [and](/post/and/) [in](/post/in/) [many](/post/many/) [other](/post/other/) countries, [especially](/post/especially/) [as](/post/as/) an [official](/post/official/) [or](/post/or/) [second](/post/second/) [language](/post/language/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) teaches French [at](/post/at/) [the](/post/the/) [high](/post/high/) [school](/post/school/)."
+- **[Noun](/post/noun/) ([plural](/post/plural/) [form](/post/form/))**: [People](/post/people/) [from](/post/from/) France collectively. [For](/post/for/) [example](/post/example/): "[The](/post/the/) French are known [for](/post/for/) [their](/post/their/) [love](/post/love/) [of](/post/of/) [wine](/post/wine/) [and](/post/and/) [cheese](/post/cheese/)."
 
 ## Phrases
-- "Parlez-vous français?" translates [to](/en/post/to/) "[Do](/en/post/do/) [you](/en/post/you/) [speak](/en/post/speak/) French?" [and](/en/post/and/) is [a](/en/post/a/) [common](/en/post/common/) [phrase](/en/post/phrase/) [when](/en/post/when/) asking [if](/en/post/if/) [someone](/en/post/someone/) speaks [the](/en/post/the/) French [language](/en/post/language/).
-- "À la française" [means](/en/post/means/) "[in](/en/post/in/) [the](/en/post/the/) French [manner](/en/post/manner/)" [or](/en/post/or/) "[the](/en/post/the/) French [way](/en/post/way/)", [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) done according [to](/en/post/to/) French customs [or](/en/post/or/) styles.
-- "French [leave](/en/post/leave/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [depart](/en/post/depart/) [without](/en/post/without/) [permission](/en/post/permission/) [or](/en/post/or/) [notice](/en/post/notice/).
+- "Parlez-vous français?" translates [to](/post/to/) "[Do](/post/do/) [you](/post/you/) [speak](/post/speak/) French?" [and](/post/and/) is [a](/post/a/) [common](/post/common/) [phrase](/post/phrase/) [when](/post/when/) asking [if](/post/if/) [someone](/post/someone/) speaks [the](/post/the/) French [language](/post/language/).
+- "À la française" [means](/post/means/) "[in](/post/in/) [the](/post/the/) French [manner](/post/manner/)" [or](/post/or/) "[the](/post/the/) French [way](/post/way/)", [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) done according [to](/post/to/) French customs [or](/post/or/) styles.
+- "French [leave](/post/leave/)" is [a](/post/a/) colloquial [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [depart](/post/depart/) [without](/post/without/) [permission](/post/permission/) [or](/post/or/) [notice](/post/notice/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) adopted [a](/en/post/a/) French [accent](/en/post/accent/) [when](/en/post/when/) reciting Baudelaire's [poetry](/en/post/poetry/)."
-- **[Noun](/en/post/noun/)**: "[Learning](/en/post/learning/) French [grammar](/en/post/grammar/) was challenging [but](/en/post/but/) rewarding."
-- **[Noun](/en/post/noun/) ([collective](/en/post/collective/))**: "[The](/en/post/the/) French [Revolution](/en/post/revolution/) marked [a](/en/post/a/) [significant](/en/post/significant/) [period](/en/post/period/) [in](/en/post/in/) European [history](/en/post/history/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) adopted [a](/post/a/) French [accent](/post/accent/) [when](/post/when/) reciting Baudelaire's [poetry](/post/poetry/)."
+- **[Noun](/post/noun/)**: "[Learning](/post/learning/) French [grammar](/post/grammar/) was challenging [but](/post/but/) rewarding."
+- **[Noun](/post/noun/) ([collective](/post/collective/))**: "[The](/post/the/) French [Revolution](/post/revolution/) marked [a](/post/a/) [significant](/post/significant/) [period](/post/period/) [in](/post/in/) European [history](/post/history/)."
 
 ## Synonyms
-- Gallic ([adjective](/en/post/adjective/) referring [to](/en/post/to/) things related [to](/en/post/to/) France)
-- Francophone (pertaining [to](/en/post/to/) [the](/en/post/the/) French [language](/en/post/language/) [or](/en/post/or/) speakers)
-- French-speaking ([as](/en/post/as/) an [adjective](/en/post/adjective/) describing [people](/en/post/people/) [or](/en/post/or/) places [where](/en/post/where/) French is spoken)
+- Gallic ([adjective](/post/adjective/) referring [to](/post/to/) things related [to](/post/to/) France)
+- Francophone (pertaining [to](/post/to/) [the](/post/the/) French [language](/post/language/) [or](/post/or/) speakers)
+- French-speaking ([as](/post/as/) an [adjective](/post/adjective/) describing [people](/post/people/) [or](/post/or/) places [where](/post/where/) French is spoken)
 
-[Note](/en/post/note/): Depending [on](/en/post/on/) [the](/en/post/the/) context, [no](/en/post/no/) [direct](/en/post/direct/) synonyms [may](/en/post/may/) [exist](/en/post/exist/) [for](/en/post/for/) "French" [when](/en/post/when/) [it](/en/post/it/) refers specifically [to](/en/post/to/) [the](/en/post/the/) [nationality](/en/post/nationality/) [or](/en/post/or/) [language](/en/post/language/). [However](/en/post/however/), words [like](/en/post/like/) "Francophile" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [who](/en/post/who/) admires [or](/en/post/or/) has an affinity [for](/en/post/for/) French [culture](/en/post/culture/).
+[Note](/post/note/): Depending [on](/post/on/) [the](/post/the/) context, [no](/post/no/) [direct](/post/direct/) synonyms [may](/post/may/) [exist](/post/exist/) [for](/post/for/) "French" [when](/post/when/) [it](/post/it/) refers specifically [to](/post/to/) [the](/post/the/) [nationality](/post/nationality/) [or](/post/or/) [language](/post/language/). [However](/post/however/), words [like](/post/like/) "Francophile" [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [who](/post/who/) admires [or](/post/or/) has an affinity [for](/post/for/) French [culture](/post/culture/).

@@ -7,32 +7,32 @@ description = '[djuəˈrei∫ən] n.持续，持久'
 keywords = ['ai words', 'duration']
 +++
 
-## [Word](/en/post/word/): [Duration](/en/post/duration/)
+## [Word](/post/word/): [Duration](/post/duration/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌdʒʊrəˈneɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [time](/en/post/time/) [something](/en/post/something/) lasts; [the](/en/post/the/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [during](/en/post/during/) [which](/en/post/which/) [something](/en/post/something/) continues [or](/en/post/or/) exists. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [duration](/en/post/duration/) [of](/en/post/of/) [the](/en/post/the/) [movie](/en/post/movie/) was [two](/en/post/two/) hours." 
+- **[Noun](/post/noun/)**: [The](/post/the/) [amount](/post/amount/) [of](/post/of/) [time](/post/time/) [something](/post/something/) lasts; [the](/post/the/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [during](/post/during/) [which](/post/which/) [something](/post/something/) continues [or](/post/or/) exists. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [duration](/post/duration/) [of](/post/of/) [the](/post/the/) [movie](/post/movie/) was [two](/post/two/) hours." 
 
 ### Phrases
-- "[For](/en/post/for/) [the](/en/post/the/) [duration](/en/post/duration/) [of](/en/post/of/)": [Throughout](/en/post/throughout/) [the](/en/post/the/) [whole](/en/post/whole/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [that](/en/post/that/) [something](/en/post/something/) lasts. [Example](/en/post/example/): "[They](/en/post/they/) agreed [to](/en/post/to/) [stay](/en/post/stay/) [with](/en/post/with/) [us](/en/post/us/) [for](/en/post/for/) [the](/en/post/the/) [duration](/en/post/duration/) [of](/en/post/of/) [their](/en/post/their/) [vacation](/en/post/vacation/)."
-- "[Long](/en/post/long/) [duration](/en/post/duration/)": Referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) lasts an extended [period](/en/post/period/). [Example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) had [a](/en/post/a/) [long](/en/post/long/) [duration](/en/post/duration/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) complexity."
-- "[Duration](/en/post/duration/) [risk](/en/post/risk/)": [In](/en/post/in/) [finance](/en/post/finance/), [it](/en/post/it/) refers [to](/en/post/to/) [the](/en/post/the/) sensitivity [of](/en/post/of/) [a](/en/post/a/) [financial](/en/post/financial/) instrument's [price](/en/post/price/) [to](/en/post/to/) changes [in](/en/post/in/) [interest](/en/post/interest/) rates.
+- "[For](/post/for/) [the](/post/the/) [duration](/post/duration/) [of](/post/of/)": [Throughout](/post/throughout/) [the](/post/the/) [whole](/post/whole/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [that](/post/that/) [something](/post/something/) lasts. [Example](/post/example/): "[They](/post/they/) agreed [to](/post/to/) [stay](/post/stay/) [with](/post/with/) [us](/post/us/) [for](/post/for/) [the](/post/the/) [duration](/post/duration/) [of](/post/of/) [their](/post/their/) [vacation](/post/vacation/)."
+- "[Long](/post/long/) [duration](/post/duration/)": Referring [to](/post/to/) [something](/post/something/) [that](/post/that/) lasts an extended [period](/post/period/). [Example](/post/example/): "[The](/post/the/) [project](/post/project/) had [a](/post/a/) [long](/post/long/) [duration](/post/duration/) [due](/post/due/) [to](/post/to/) [its](/post/its/) complexity."
+- "[Duration](/post/duration/) [risk](/post/risk/)": [In](/post/in/) [finance](/post/finance/), [it](/post/it/) refers [to](/post/to/) [the](/post/the/) sensitivity [of](/post/of/) [a](/post/a/) [financial](/post/financial/) instrument's [price](/post/price/) [to](/post/to/) changes [in](/post/in/) [interest](/post/interest/) rates.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [contract](/en/post/contract/) has [a](/en/post/a/) fixed [duration](/en/post/duration/) [of](/en/post/of/) [five](/en/post/five/) years."
-- "[Her](/en/post/her/) [recovery](/en/post/recovery/) [process](/en/post/process/) took [a](/en/post/a/) [duration](/en/post/duration/) longer [than](/en/post/than/) anticipated."
-- "[His](/en/post/his/) [patience](/en/post/patience/) wore [thin](/en/post/thin/) [after](/en/post/after/) [a](/en/post/a/) [short](/en/post/short/) [duration](/en/post/duration/) [of](/en/post/of/) waiting."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [contract](/post/contract/) has [a](/post/a/) fixed [duration](/post/duration/) [of](/post/of/) [five](/post/five/) years."
+- "[Her](/post/her/) [recovery](/post/recovery/) [process](/post/process/) took [a](/post/a/) [duration](/post/duration/) longer [than](/post/than/) anticipated."
+- "[His](/post/his/) [patience](/post/patience/) wore [thin](/post/thin/) [after](/post/after/) [a](/post/a/) [short](/post/short/) [duration](/post/duration/) [of](/post/of/) waiting."
 
 ## Synonyms
-- [Length](/en/post/length/)
-- [Span](/en/post/span/)
-- [Time](/en/post/time/) [period](/en/post/period/)
-- [Duration](/en/post/duration/) [time](/en/post/time/)
+- [Length](/post/length/)
+- [Span](/post/span/)
+- [Time](/post/time/) [period](/post/period/)
+- [Duration](/post/duration/) [time](/post/time/)
 - Continuance
-- [Term](/en/post/term/)
-- [Stretch](/en/post/stretch/)
-- [Spell](/en/post/spell/)
-- [Course](/en/post/course/) ([as](/en/post/as/) [in](/en/post/in/) '[the](/en/post/the/) [course](/en/post/course/) [of](/en/post/of/) events')
-- Incumbency ([in](/en/post/in/) [specific](/en/post/specific/) contexts [like](/en/post/like/) [a](/en/post/a/) tenure [or](/en/post/or/) holding [a](/en/post/a/) [position](/en/post/position/))
+- [Term](/post/term/)
+- [Stretch](/post/stretch/)
+- [Spell](/post/spell/)
+- [Course](/post/course/) ([as](/post/as/) [in](/post/in/) '[the](/post/the/) [course](/post/course/) [of](/post/of/) events')
+- Incumbency ([in](/post/in/) [specific](/post/specific/) contexts [like](/post/like/) [a](/post/a/) tenure [or](/post/or/) holding [a](/post/a/) [position](/post/position/))

@@ -7,47 +7,47 @@ description = '[riːd] vt.读，看懂 vi.读'
 keywords = ['ai words', 'read']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /riːd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [book](/en/post/book/), [article](/en/post/article/), [or](/en/post/or/) [other](/en/post/other/) written [work](/en/post/work/)**: "I [just](/en/post/just/) finished [reading](/en/post/reading/) [a](/en/post/a/) thrilling [novel](/en/post/novel/)."
-- **[The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) interpreting written symbols**: "[Reading](/en/post/reading/) [comprehension](/en/post/comprehension/) is [essential](/en/post/essential/) [for](/en/post/for/) students."
-- **[Understanding](/en/post/understanding/) [from](/en/post/from/) [text](/en/post/text/)**: "[She](/en/post/she/) [read](/en/post/read/) [between](/en/post/between/) [the](/en/post/the/) lines [to](/en/post/to/) [understand](/en/post/understand/) [his](/en/post/his/) [true](/en/post/true/) feelings."
-- **[The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [read](/en/post/read/)**: "[He](/en/post/he/) has [excellent](/en/post/excellent/) [reading](/en/post/reading/) skills."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [book](/post/book/), [article](/post/article/), [or](/post/or/) [other](/post/other/) written [work](/post/work/)**: "I [just](/post/just/) finished [reading](/post/reading/) [a](/post/a/) thrilling [novel](/post/novel/)."
+- **[The](/post/the/) [act](/post/act/) [of](/post/of/) interpreting written symbols**: "[Reading](/post/reading/) [comprehension](/post/comprehension/) is [essential](/post/essential/) [for](/post/for/) students."
+- **[Understanding](/post/understanding/) [from](/post/from/) [text](/post/text/)**: "[She](/post/she/) [read](/post/read/) [between](/post/between/) [the](/post/the/) lines [to](/post/to/) [understand](/post/understand/) [his](/post/his/) [true](/post/true/) feelings."
+- **[The](/post/the/) [ability](/post/ability/) [to](/post/to/) [read](/post/read/)**: "[He](/post/he/) has [excellent](/post/excellent/) [reading](/post/reading/) skills."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [look](/en/post/look/) [at](/en/post/at/) [and](/en/post/and/) [interpret](/en/post/interpret/) written words**: "[She](/en/post/she/) reads newspapers [every](/en/post/every/) [morning](/en/post/morning/)."
-- **[To](/en/post/to/) [interpret](/en/post/interpret/) [or](/en/post/or/) comprehend [the](/en/post/the/) [meaning](/en/post/meaning/) [of](/en/post/of/) written [or](/en/post/or/) printed [material](/en/post/material/)**: "[He](/en/post/he/) [read](/en/post/read/) [the](/en/post/the/) instructions carefully."
-- **[To](/en/post/to/) [perceive](/en/post/perceive/) [or](/en/post/or/) [understand](/en/post/understand/) [something](/en/post/something/)**: "[He](/en/post/he/) [could](/en/post/could/) [read](/en/post/read/) [her](/en/post/her/) emotions [from](/en/post/from/) [her](/en/post/her/) [expression](/en/post/expression/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [look](/post/look/) [at](/post/at/) [and](/post/and/) [interpret](/post/interpret/) written words**: "[She](/post/she/) reads newspapers [every](/post/every/) [morning](/post/morning/)."
+- **[To](/post/to/) [interpret](/post/interpret/) [or](/post/or/) comprehend [the](/post/the/) [meaning](/post/meaning/) [of](/post/of/) written [or](/post/or/) printed [material](/post/material/)**: "[He](/post/he/) [read](/post/read/) [the](/post/the/) instructions carefully."
+- **[To](/post/to/) [perceive](/post/perceive/) [or](/post/or/) [understand](/post/understand/) [something](/post/something/)**: "[He](/post/he/) [could](/post/could/) [read](/post/read/) [her](/post/her/) emotions [from](/post/from/) [her](/post/her/) [expression](/post/expression/)."
 
-### [Adjective](/en/post/adjective/)
-- **Relating [to](/en/post/to/) written [language](/en/post/language/)**: "She's [a](/en/post/a/) [keen](/en/post/keen/) [reader](/en/post/reader/) [of](/en/post/of/) [poetry](/en/post/poetry/)."
-- **[Skilled](/en/post/skilled/) [at](/en/post/at/) [reading](/en/post/reading/)**: "He's an experienced [reader](/en/post/reader/) [of](/en/post/of/) [financial](/en/post/financial/) reports."
+### [Adjective](/post/adjective/)
+- **Relating [to](/post/to/) written [language](/post/language/)**: "She's [a](/post/a/) [keen](/post/keen/) [reader](/post/reader/) [of](/post/of/) [poetry](/post/poetry/)."
+- **[Skilled](/post/skilled/) [at](/post/at/) [reading](/post/reading/)**: "He's an experienced [reader](/post/reader/) [of](/post/of/) [financial](/post/financial/) reports."
 
-### [Adverb](/en/post/adverb/)
-- **[In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [of](/en/post/of/) [reading](/en/post/reading/)**: "[She](/en/post/she/) reads [slowly](/en/post/slowly/) [to](/en/post/to/) [ensure](/en/post/ensure/) [understanding](/en/post/understanding/)."
-- **[To](/en/post/to/) [the](/en/post/the/) [extent](/en/post/extent/) [of](/en/post/of/) [reading](/en/post/reading/)**: "[The](/en/post/the/) [book](/en/post/book/) was [so](/en/post/so/) captivating [that](/en/post/that/) [he](/en/post/he/) [read](/en/post/read/) [it](/en/post/it/) [twice](/en/post/twice/)."
+### [Adverb](/post/adverb/)
+- **[In](/post/in/) [a](/post/a/) [manner](/post/manner/) [of](/post/of/) [reading](/post/reading/)**: "[She](/post/she/) reads [slowly](/post/slowly/) [to](/post/to/) [ensure](/post/ensure/) [understanding](/post/understanding/)."
+- **[To](/post/to/) [the](/post/the/) [extent](/post/extent/) [of](/post/of/) [reading](/post/reading/)**: "[The](/post/the/) [book](/post/book/) was [so](/post/so/) captivating [that](/post/that/) [he](/post/he/) [read](/post/read/) [it](/post/it/) [twice](/post/twice/)."
 
 ## Phrases
-- "[Reading](/en/post/reading/) [aloud](/en/post/aloud/)" [means](/en/post/means/) [to](/en/post/to/) [read](/en/post/read/) [a](/en/post/a/) [text](/en/post/text/) [out](/en/post/out/) [loud](/en/post/loud/).
-- "[Reading](/en/post/reading/) [list](/en/post/list/)" is [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) books [or](/en/post/or/) articles recommended [for](/en/post/for/) [study](/en/post/study/) [or](/en/post/or/) [leisure](/en/post/leisure/).
-- "[Reading](/en/post/reading/) glasses" are worn [to](/en/post/to/) [improve](/en/post/improve/) close-up [vision](/en/post/vision/) [for](/en/post/for/) [those](/en/post/those/) [with](/en/post/with/) age-related [vision](/en/post/vision/) problems.
+- "[Reading](/post/reading/) [aloud](/post/aloud/)" [means](/post/means/) [to](/post/to/) [read](/post/read/) [a](/post/a/) [text](/post/text/) [out](/post/out/) [loud](/post/loud/).
+- "[Reading](/post/reading/) [list](/post/list/)" is [a](/post/a/) [collection](/post/collection/) [of](/post/of/) books [or](/post/or/) articles recommended [for](/post/for/) [study](/post/study/) [or](/post/or/) [leisure](/post/leisure/).
+- "[Reading](/post/reading/) glasses" are worn [to](/post/to/) [improve](/post/improve/) close-up [vision](/post/vision/) [for](/post/for/) [those](/post/those/) [with](/post/with/) age-related [vision](/post/vision/) problems.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) spent [the](/en/post/the/) [whole](/en/post/whole/) [day](/en/post/day/) curled [up](/en/post/up/) [with](/en/post/with/) [a](/en/post/a/) [good](/en/post/good/) [book](/en/post/book/), engrossed [in](/en/post/in/) [her](/en/post/her/) [reading](/en/post/reading/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [the](/en/post/the/) [book](/en/post/book/), [he](/en/post/he/) shared [his](/en/post/his/) thoughts [on](/en/post/on/) [the](/en/post/the/) [plot](/en/post/plot/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) is [a](/en/post/a/) voracious [reader](/en/post/reader/), consuming [several](/en/post/several/) books [per](/en/post/per/) [week](/en/post/week/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) [read](/en/post/read/) [the](/en/post/the/) [map](/en/post/map/) [several](/en/post/several/) times [before](/en/post/before/) starting [his](/en/post/his/) [journey](/en/post/journey/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) spent [the](/post/the/) [whole](/post/whole/) [day](/post/day/) curled [up](/post/up/) [with](/post/with/) [a](/post/a/) [good](/post/good/) [book](/post/book/), engrossed [in](/post/in/) [her](/post/her/) [reading](/post/reading/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) finishing [the](/post/the/) [book](/post/book/), [he](/post/he/) shared [his](/post/his/) thoughts [on](/post/on/) [the](/post/the/) [plot](/post/plot/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) is [a](/post/a/) voracious [reader](/post/reader/), consuming [several](/post/several/) books [per](/post/per/) [week](/post/week/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) [read](/post/read/) [the](/post/the/) [map](/post/map/) [several](/post/several/) times [before](/post/before/) starting [his](/post/his/) [journey](/post/journey/)."
 
 ## Synonyms
-- [Readily](/en/post/readily/) ([for](/en/post/for/) [easily](/en/post/easily/) comprehending)
+- [Readily](/post/readily/) ([for](/post/for/) [easily](/post/easily/) comprehending)
 - Peruse
-- [Interpret](/en/post/interpret/)
+- [Interpret](/post/interpret/)
 - Decipher
 - Comprehend
-- [Grasp](/en/post/grasp/)
-- [Appreciate](/en/post/appreciate/)
+- [Grasp](/post/grasp/)
+- [Appreciate](/post/appreciate/)
 - Parse
-- [Examine](/en/post/examine/)
+- [Examine](/post/examine/)

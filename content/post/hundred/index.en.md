@@ -7,26 +7,26 @@ description = '[ˈhʌndrid], num.百，百个 n.许多'
 keywords = ['ai words', 'hundred']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhʌndrəd/
 
 ## Definitions
-- **Numeral**: [A](/en/post/a/) cardinal [number](/en/post/number/) [that](/en/post/that/) denotes [the](/en/post/the/) [quantity](/en/post/quantity/) [of](/en/post/of/) [one](/en/post/one/) [hundred](/en/post/hundred/); [the](/en/post/the/) [figure](/en/post/figure/) 100. [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) were [a](/en/post/a/) [hundred](/en/post/hundred/) [people](/en/post/people/) [at](/en/post/at/) [the](/en/post/the/) [concert](/en/post/concert/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [collection](/en/post/collection/) [of](/en/post/of/) [one](/en/post/one/) [hundred](/en/post/hundred/) units, individuals, [or](/en/post/or/) things. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) employs hundreds [of](/en/post/of/) workers."
-- **[Adjective](/en/post/adjective/)**: Denoting [a](/en/post/a/) [quantity](/en/post/quantity/) [of](/en/post/of/) [a](/en/post/a/) [hundred](/en/post/hundred/) ([used](/en/post/used/) [in](/en/post/in/) [combination](/en/post/combination/) [with](/en/post/with/) [other](/en/post/other/) numerals). [For](/en/post/for/) [example](/en/post/example/): "[Two](/en/post/two/) [hundred](/en/post/hundred/) pages"; "[five](/en/post/five/) [hundred](/en/post/hundred/) miles."
+- **Numeral**: [A](/post/a/) cardinal [number](/post/number/) [that](/post/that/) denotes [the](/post/the/) [quantity](/post/quantity/) [of](/post/of/) [one](/post/one/) [hundred](/post/hundred/); [the](/post/the/) [figure](/post/figure/) 100. [For](/post/for/) [example](/post/example/): "[There](/post/there/) were [a](/post/a/) [hundred](/post/hundred/) [people](/post/people/) [at](/post/at/) [the](/post/the/) [concert](/post/concert/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [group](/post/group/) [or](/post/or/) [collection](/post/collection/) [of](/post/of/) [one](/post/one/) [hundred](/post/hundred/) units, individuals, [or](/post/or/) things. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) employs hundreds [of](/post/of/) workers."
+- **[Adjective](/post/adjective/)**: Denoting [a](/post/a/) [quantity](/post/quantity/) [of](/post/of/) [a](/post/a/) [hundred](/post/hundred/) ([used](/post/used/) [in](/post/in/) [combination](/post/combination/) [with](/post/with/) [other](/post/other/) numerals). [For](/post/for/) [example](/post/example/): "[Two](/post/two/) [hundred](/post/hundred/) pages"; "[five](/post/five/) [hundred](/post/hundred/) miles."
 
 ## Phrases
-- "[A](/en/post/a/) [hundred](/en/post/hundred/) times" - [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [a](/en/post/a/) [large](/en/post/large/) [number](/en/post/number/) [of](/en/post/of/) repetitions [or](/en/post/or/) occurrences. [For](/en/post/for/) [example](/en/post/example/): "I've told [you](/en/post/you/) [a](/en/post/a/) [hundred](/en/post/hundred/) times [not](/en/post/not/) [to](/en/post/to/) [do](/en/post/do/) [that](/en/post/that/)!"
-- "Hundred-percent" - indicating [the](/en/post/the/) [complete](/en/post/complete/) [or](/en/post/or/) [full](/en/post/full/) [amount](/en/post/amount/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [put](/en/post/put/) [in](/en/post/in/) [a](/en/post/a/) hundred-percent [effort](/en/post/effort/) [into](/en/post/into/) [his](/en/post/his/) [project](/en/post/project/)."
-- "[In](/en/post/in/) [the](/en/post/the/) hundreds" - referring [to](/en/post/to/) [a](/en/post/a/) [number](/en/post/number/) [that](/en/post/that/) is [several](/en/post/several/) [hundred](/en/post/hundred/) [but](/en/post/but/) [not](/en/post/not/) [exact](/en/post/exact/). [Example](/en/post/example/): "Attendance [at](/en/post/at/) [the](/en/post/the/) rally was [in](/en/post/in/) [the](/en/post/the/) hundreds."
+- "[A](/post/a/) [hundred](/post/hundred/) times" - [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [a](/post/a/) [large](/post/large/) [number](/post/number/) [of](/post/of/) repetitions [or](/post/or/) occurrences. [For](/post/for/) [example](/post/example/): "I've told [you](/post/you/) [a](/post/a/) [hundred](/post/hundred/) times [not](/post/not/) [to](/post/to/) [do](/post/do/) [that](/post/that/)!"
+- "Hundred-percent" - indicating [the](/post/the/) [complete](/post/complete/) [or](/post/or/) [full](/post/full/) [amount](/post/amount/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) [put](/post/put/) [in](/post/in/) [a](/post/a/) hundred-percent [effort](/post/effort/) [into](/post/into/) [his](/post/his/) [project](/post/project/)."
+- "[In](/post/in/) [the](/post/the/) hundreds" - referring [to](/post/to/) [a](/post/a/) [number](/post/number/) [that](/post/that/) is [several](/post/several/) [hundred](/post/hundred/) [but](/post/but/) [not](/post/not/) [exact](/post/exact/). [Example](/post/example/): "Attendance [at](/post/at/) [the](/post/the/) rally was [in](/post/in/) [the](/post/the/) hundreds."
 
-## [Example](/en/post/example/) Sentences
-- **Numeral**: "[She](/en/post/she/) scored [a](/en/post/a/) [perfect](/en/post/perfect/) [hundred](/en/post/hundred/) [on](/en/post/on/) [her](/en/post/her/) math [exam](/en/post/exam/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [school](/en/post/school/) organized [a](/en/post/a/) hundred-mile [charity](/en/post/charity/) [walk](/en/post/walk/)."
-- **[Adjective](/en/post/adjective/)**: "[We](/en/post/we/) received [several](/en/post/several/) [hundred](/en/post/hundred/) applications [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/) [opening](/en/post/opening/)."
+## [Example](/post/example/) Sentences
+- **Numeral**: "[She](/post/she/) scored [a](/post/a/) [perfect](/post/perfect/) [hundred](/post/hundred/) [on](/post/on/) [her](/post/her/) math [exam](/post/exam/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [school](/post/school/) organized [a](/post/a/) hundred-mile [charity](/post/charity/) [walk](/post/walk/)."
+- **[Adjective](/post/adjective/)**: "[We](/post/we/) received [several](/post/several/) [hundred](/post/hundred/) applications [for](/post/for/) [the](/post/the/) [job](/post/job/) [opening](/post/opening/)."
 
 ## Synonyms
 - Centum (archaic)
-- [One](/en/post/one/) [hundred](/en/post/hundred/)
-- [A](/en/post/a/) [hundred](/en/post/hundred/)
-- [Numerous](/en/post/numerous/) ([when](/en/post/when/) [used](/en/post/used/) [in](/en/post/in/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) '[a](/en/post/a/) [large](/en/post/large/) unspecified [number](/en/post/number/)')
+- [One](/post/one/) [hundred](/post/hundred/)
+- [A](/post/a/) [hundred](/post/hundred/)
+- [Numerous](/post/numerous/) ([when](/post/when/) [used](/post/used/) [in](/post/in/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) '[a](/post/a/) [large](/post/large/) unspecified [number](/post/number/)')

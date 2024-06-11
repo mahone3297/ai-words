@@ -7,44 +7,44 @@ description = '[ˈpailət] n.领航员；飞行员'
 keywords = ['ai words', 'pilot']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /piˈleɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) pilots [a](/en/post/a/) [vehicle](/en/post/vehicle/), [such](/en/post/such/) [as](/en/post/as/) an [aircraft](/en/post/aircraft/) [or](/en/post/or/) [spacecraft](/en/post/spacecraft/): *[The](/en/post/the/) [pilot](/en/post/pilot/) skillfully landed [the](/en/post/the/) [plane](/en/post/plane/) [on](/en/post/on/) [the](/en/post/the/) runway.*
-2. [A](/en/post/a/) [professional](/en/post/professional/) [in](/en/post/in/) [charge](/en/post/charge/) [of](/en/post/of/) navigating [or](/en/post/or/) operating [a](/en/post/a/) [vehicle](/en/post/vehicle/) [during](/en/post/during/) [transportation](/en/post/transportation/): *[The](/en/post/the/) [bus](/en/post/bus/) [pilot](/en/post/pilot/) guided [the](/en/post/the/) passengers [safely](/en/post/safely/) [through](/en/post/through/) [the](/en/post/the/) [city](/en/post/city/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [person](/post/person/) [who](/post/who/) pilots [a](/post/a/) [vehicle](/post/vehicle/), [such](/post/such/) [as](/post/as/) an [aircraft](/post/aircraft/) [or](/post/or/) [spacecraft](/post/spacecraft/): *[The](/post/the/) [pilot](/post/pilot/) skillfully landed [the](/post/the/) [plane](/post/plane/) [on](/post/on/) [the](/post/the/) runway.*
+2. [A](/post/a/) [professional](/post/professional/) [in](/post/in/) [charge](/post/charge/) [of](/post/of/) navigating [or](/post/or/) operating [a](/post/a/) [vehicle](/post/vehicle/) [during](/post/during/) [transportation](/post/transportation/): *[The](/post/the/) [bus](/post/bus/) [pilot](/post/pilot/) guided [the](/post/the/) passengers [safely](/post/safely/) [through](/post/through/) [the](/post/the/) [city](/post/city/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [operate](/en/post/operate/) [or](/en/post/or/) [control](/en/post/control/) [the](/en/post/the/) [navigation](/en/post/navigation/) [of](/en/post/of/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), [especially](/en/post/especially/) an [aircraft](/en/post/aircraft/): *[The](/en/post/the/) [pilot](/en/post/pilot/) navigated [the](/en/post/the/) [plane](/en/post/plane/) [through](/en/post/through/) [the](/en/post/the/) [stormy](/en/post/stormy/) [weather](/en/post/weather/).*
-2. [To](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) [the](/en/post/the/) [driver](/en/post/driver/) [or](/en/post/or/) [operator](/en/post/operator/) [of](/en/post/of/) [a](/en/post/a/) [vehicle](/en/post/vehicle/): *[She](/en/post/she/) asked [her](/en/post/her/) [son](/en/post/son/) [to](/en/post/to/) [pilot](/en/post/pilot/) [the](/en/post/the/) [car](/en/post/car/) [on](/en/post/on/) [the](/en/post/the/) [long](/en/post/long/) [trip](/en/post/trip/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [operate](/post/operate/) [or](/post/or/) [control](/post/control/) [the](/post/the/) [navigation](/post/navigation/) [of](/post/of/) [a](/post/a/) [vehicle](/post/vehicle/), [especially](/post/especially/) an [aircraft](/post/aircraft/): *[The](/post/the/) [pilot](/post/pilot/) navigated [the](/post/the/) [plane](/post/plane/) [through](/post/through/) [the](/post/the/) [stormy](/post/stormy/) [weather](/post/weather/).*
+2. [To](/post/to/) [serve](/post/serve/) [as](/post/as/) [the](/post/the/) [driver](/post/driver/) [or](/post/or/) [operator](/post/operator/) [of](/post/of/) [a](/post/a/) [vehicle](/post/vehicle/): *[She](/post/she/) asked [her](/post/her/) [son](/post/son/) [to](/post/to/) [pilot](/post/pilot/) [the](/post/the/) [car](/post/car/) [on](/post/on/) [the](/post/the/) [long](/post/long/) [trip](/post/trip/).*
 
-### [Adjective](/en/post/adjective/)
-1. Characterizing [or](/en/post/or/) relating [to](/en/post/to/) [a](/en/post/a/) [pilot](/en/post/pilot/): *[Pilot](/en/post/pilot/) lessons are [essential](/en/post/essential/) [for](/en/post/for/) aspiring aviators.*
-2. Acting [as](/en/post/as/) [a](/en/post/a/) [guide](/en/post/guide/) [or](/en/post/or/) [leader](/en/post/leader/): *[The](/en/post/the/) [pilot](/en/post/pilot/) [program](/en/post/program/) aimed [to](/en/post/to/) [set](/en/post/set/) [a](/en/post/a/) [positive](/en/post/positive/) [example](/en/post/example/) [for](/en/post/for/) [other](/en/post/other/) schools.*
+### [Adjective](/post/adjective/)
+1. Characterizing [or](/post/or/) relating [to](/post/to/) [a](/post/a/) [pilot](/post/pilot/): *[Pilot](/post/pilot/) lessons are [essential](/post/essential/) [for](/post/for/) aspiring aviators.*
+2. Acting [as](/post/as/) [a](/post/a/) [guide](/post/guide/) [or](/post/or/) [leader](/post/leader/): *[The](/post/the/) [pilot](/post/pilot/) [program](/post/program/) aimed [to](/post/to/) [set](/post/set/) [a](/post/a/) [positive](/post/positive/) [example](/post/example/) [for](/post/for/) [other](/post/other/) schools.*
 
 ## Phrases
-- "[Pilot](/en/post/pilot/) [a](/en/post/a/) [plane](/en/post/plane/)" [or](/en/post/or/) "[Pilot](/en/post/pilot/) [a](/en/post/a/) [ship](/en/post/ship/)"
-- "[Pilot](/en/post/pilot/) [program](/en/post/program/)"
-- "[Pilot](/en/post/pilot/) [error](/en/post/error/)"
-- "[Pilot](/en/post/pilot/) [light](/en/post/light/)"
-- "[First](/en/post/first/) [officer](/en/post/officer/)/[pilot](/en/post/pilot/)"
+- "[Pilot](/post/pilot/) [a](/post/a/) [plane](/post/plane/)" [or](/post/or/) "[Pilot](/post/pilot/) [a](/post/a/) [ship](/post/ship/)"
+- "[Pilot](/post/pilot/) [program](/post/program/)"
+- "[Pilot](/post/pilot/) [error](/post/error/)"
+- "[Pilot](/post/pilot/) [light](/post/light/)"
+- "[First](/post/first/) [officer](/post/officer/)/[pilot](/post/pilot/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) experienced [pilot](/en/post/pilot/) managed [to](/en/post/to/) [land](/en/post/land/) [the](/en/post/the/) [plane](/en/post/plane/) [despite](/en/post/despite/) [the](/en/post/the/) [fog](/en/post/fog/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) trainee [will](/en/post/will/) [shadow](/en/post/shadow/) [the](/en/post/the/) [pilot](/en/post/pilot/) [for](/en/post/for/) [a](/en/post/a/) [few](/en/post/few/) flights [before](/en/post/before/) taking [over](/en/post/over/) solo."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [pilot](/en/post/pilot/) [school](/en/post/school/) curriculum emphasizes hands-on [experience](/en/post/experience/) [and](/en/post/and/) [critical](/en/post/critical/) thinking skills."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) experienced [pilot](/post/pilot/) managed [to](/post/to/) [land](/post/land/) [the](/post/the/) [plane](/post/plane/) [despite](/post/despite/) [the](/post/the/) [fog](/post/fog/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) trainee [will](/post/will/) [shadow](/post/shadow/) [the](/post/the/) [pilot](/post/pilot/) [for](/post/for/) [a](/post/a/) [few](/post/few/) flights [before](/post/before/) taking [over](/post/over/) solo."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [pilot](/post/pilot/) [school](/post/school/) curriculum emphasizes hands-on [experience](/post/experience/) [and](/post/and/) [critical](/post/critical/) thinking skills."
 
 ## Synonyms
-- Airman ([military](/en/post/military/))
-- [Captain](/en/post/captain/) ([aircraft](/en/post/aircraft/))
+- Airman ([military](/post/military/))
+- [Captain](/post/captain/) ([aircraft](/post/aircraft/))
 - Co-pilot
 - Navigator
 - Controller
-- [Operator](/en/post/operator/)
+- [Operator](/post/operator/)
 
 ## Antonyms
-- [Passenger](/en/post/passenger/)
-- [Observer](/en/post/observer/)
+- [Passenger](/post/passenger/)
+- [Observer](/post/observer/)
 - Unskilled
-- [Landlord](/en/post/landlord/) ([in](/en/post/in/) [a](/en/post/a/) non-aviation context)
+- [Landlord](/post/landlord/) ([in](/post/in/) [a](/post/a/) non-aviation context)

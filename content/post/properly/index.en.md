@@ -7,23 +7,23 @@ description = '[ˈprɔpəli] ad.适当地；彻底地'
 keywords = ['ai words', 'properly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /proʊˈprɪpərli/
 
 ## Definitions
-### [Adverb](/en/post/adverb/)
-- **1.** [In](/en/post/in/) [a](/en/post/a/) [correct](/en/post/correct/) [or](/en/post/or/) [suitable](/en/post/suitable/) [manner](/en/post/manner/); appropriately. [Example](/en/post/example/): "[She](/en/post/she/) dressed [properly](/en/post/properly/) [for](/en/post/for/) [the](/en/post/the/) [formal](/en/post/formal/) [event](/en/post/event/)."
-- **2.** [With](/en/post/with/) [due](/en/post/due/) [regard](/en/post/regard/) [to](/en/post/to/) rules [or](/en/post/or/) requirements. [Example](/en/post/example/): "[He](/en/post/he/) completed [the](/en/post/the/) [task](/en/post/task/) [properly](/en/post/properly/) [after](/en/post/after/) [reading](/en/post/reading/) [the](/en/post/the/) instructions."
+### [Adverb](/post/adverb/)
+- **1.** [In](/post/in/) [a](/post/a/) [correct](/post/correct/) [or](/post/or/) [suitable](/post/suitable/) [manner](/post/manner/); appropriately. [Example](/post/example/): "[She](/post/she/) dressed [properly](/post/properly/) [for](/post/for/) [the](/post/the/) [formal](/post/formal/) [event](/post/event/)."
+- **2.** [With](/post/with/) [due](/post/due/) [regard](/post/regard/) [to](/post/to/) rules [or](/post/or/) requirements. [Example](/post/example/): "[He](/post/he/) completed [the](/post/the/) [task](/post/task/) [properly](/post/properly/) [after](/post/after/) [reading](/post/reading/) [the](/post/the/) instructions."
 
 ## Phrases
-- "[Properly](/en/post/properly/) functioning" [means](/en/post/means/) working correctly.
-- "[Properly](/en/post/properly/) trained" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) has received [adequate](/en/post/adequate/) [education](/en/post/education/) [or](/en/post/or/) [instruction](/en/post/instruction/).
-- "[To](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [properly](/en/post/properly/)" implies doing [it](/en/post/it/) [with](/en/post/with/) [care](/en/post/care/) [and](/en/post/and/) [accuracy](/en/post/accuracy/).
+- "[Properly](/post/properly/) functioning" [means](/post/means/) working correctly.
+- "[Properly](/post/properly/) trained" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) has received [adequate](/post/adequate/) [education](/post/education/) [or](/post/or/) [instruction](/post/instruction/).
+- "[To](/post/to/) [do](/post/do/) [something](/post/something/) [properly](/post/properly/)" implies doing [it](/post/it/) [with](/post/with/) [care](/post/care/) [and](/post/and/) [accuracy](/post/accuracy/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) [always](/en/post/always/) ties [his](/en/post/his/) shoes [properly](/en/post/properly/) [before](/en/post/before/) leaving [the](/en/post/the/) [house](/en/post/house/)."
-- "[The](/en/post/the/) children [should](/en/post/should/) [learn](/en/post/learn/) [to](/en/post/to/) [clean](/en/post/clean/) [their](/en/post/their/) rooms [properly](/en/post/properly/)."
-- "[The](/en/post/the/) [car](/en/post/car/) was fixed [properly](/en/post/properly/) [by](/en/post/by/) [the](/en/post/the/) [mechanic](/en/post/mechanic/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) [always](/post/always/) ties [his](/post/his/) shoes [properly](/post/properly/) [before](/post/before/) leaving [the](/post/the/) [house](/post/house/)."
+- "[The](/post/the/) children [should](/post/should/) [learn](/post/learn/) [to](/post/to/) [clean](/post/clean/) [their](/post/their/) rooms [properly](/post/properly/)."
+- "[The](/post/the/) [car](/post/car/) was fixed [properly](/post/properly/) [by](/post/by/) [the](/post/the/) [mechanic](/post/mechanic/)."
 
 ## Synonyms
 - Appropriately

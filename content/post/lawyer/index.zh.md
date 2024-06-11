@@ -11,21 +11,21 @@ keywords = ['ai words', 'lawyer']
 /lɔɪˈɜːr/
 
 ## 释义
-- **名词 (n)**: 律师，法律工作者。例如: "[She](/post/she/) is [a](/post/a/) [successful](/post/successful/) [lawyer](/post/lawyer/) [with](/post/with/) [a](/post/a/) prestigious [firm](/post/firm/)."
-- **动词 (v)**: 不常用作动词，但在某些语境下可表示从事律师工作或提供法律服务。例如: "[He](/post/he/) lawyers [for](/post/for/) clients [in](/post/in/) [criminal](/post/criminal/) cases."
+- **名词 (n)**: 律师，法律工作者。例如: "[She](/zh/post/she/) is [a](/zh/post/a/) [successful](/zh/post/successful/) [lawyer](/zh/post/lawyer/) [with](/zh/post/with/) [a](/zh/post/a/) prestigious [firm](/zh/post/firm/)."
+- **动词 (v)**: 不常用作动词，但在某些语境下可表示从事律师工作或提供法律服务。例如: "[He](/zh/post/he/) lawyers [for](/zh/post/for/) clients [in](/zh/post/in/) [criminal](/zh/post/criminal/) cases."
 
 ## 短语
-- "[Lawyer](/post/lawyer/) [up](/post/up/)" 意味着找律师寻求法律帮助。
-- "Corporate [lawyer](/post/lawyer/)" 指在公司工作的律师。
-- "Defense [lawyer](/post/lawyer/)" 是指为被告辩护的律师。
+- "[Lawyer](/zh/post/lawyer/) [up](/zh/post/up/)" 意味着找律师寻求法律帮助。
+- "Corporate [lawyer](/zh/post/lawyer/)" 指在公司工作的律师。
+- "Defense [lawyer](/zh/post/lawyer/)" 是指为被告辩护的律师。
 
 ## 例句
-- 名词: "[The](/post/the/) [lawyer](/post/lawyer/) presented [a](/post/a/) [strong](/post/strong/) [argument](/post/argument/) [in](/post/in/) [court](/post/court/)."
-- 动词: "[After](/post/after/) [the](/post/the/) [accident](/post/accident/), [he](/post/he/) [immediately](/post/immediately/) lawyered [up](/post/up/) [to](/post/to/) [protect](/post/protect/) [his](/post/his/) rights."
+- 名词: "[The](/zh/post/the/) [lawyer](/zh/post/lawyer/) presented [a](/zh/post/a/) [strong](/zh/post/strong/) [argument](/zh/post/argument/) [in](/zh/post/in/) [court](/zh/post/court/)."
+- 动词: "[After](/zh/post/after/) [the](/zh/post/the/) [accident](/zh/post/accident/), [he](/zh/post/he/) [immediately](/zh/post/immediately/) lawyered [up](/zh/post/up/) [to](/zh/post/to/) [protect](/zh/post/protect/) [his](/zh/post/his/) rights."
 
 ## 同义词
 - Attorney
 - Solicitor
 - Counsel
 - Barrister
-- [Legal](/post/legal/) [representative](/post/representative/)
+- [Legal](/zh/post/legal/) [representative](/zh/post/representative/)

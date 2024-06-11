@@ -11,23 +11,23 @@ keywords = ['ai words', 'shop']
 /ʃɒp/
 
 ## 释义
-- **名词 (n)**: 一个售卖商品的商店或店铺。例如: "I [need](/post/need/) [to](/post/to/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [grocery](/post/grocery/) [shop](/post/shop/) [for](/post/for/) [some](/post/some/) [milk](/post/milk/)."
-- **动词 (v)**: 购物；买东西。例如: "She's [shopping](/post/shopping/) [for](/post/for/) [a](/post/a/) [new](/post/new/) [dress](/post/dress/) [for](/post/for/) [the](/post/the/) [wedding](/post/wedding/)."
-- **动词 (v)**: 在商店工作或经营商店。例如: "[My](/post/my/) [uncle](/post/uncle/) shops [at](/post/at/) [the](/post/the/) [local](/post/local/) [market](/post/market/) [every](/post/every/) [morning](/post/morning/)."
+- **名词 (n)**: 一个售卖商品的商店或店铺。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [go](/zh/post/go/) [to](/zh/post/to/) [the](/zh/post/the/) [grocery](/zh/post/grocery/) [shop](/zh/post/shop/) [for](/zh/post/for/) [some](/zh/post/some/) [milk](/zh/post/milk/)."
+- **动词 (v)**: 购物；买东西。例如: "She's [shopping](/zh/post/shopping/) [for](/zh/post/for/) [a](/zh/post/a/) [new](/zh/post/new/) [dress](/zh/post/dress/) [for](/zh/post/for/) [the](/zh/post/the/) [wedding](/zh/post/wedding/)."
+- **动词 (v)**: 在商店工作或经营商店。例如: "[My](/zh/post/my/) [uncle](/zh/post/uncle/) shops [at](/zh/post/at/) [the](/zh/post/the/) [local](/zh/post/local/) [market](/zh/post/market/) [every](/zh/post/every/) [morning](/zh/post/morning/)."
 
 ## 短语
-- "[Window](/post/window/) [shopping](/post/shopping/)" 浏览商店，不打算购买。
-- "[Do](/post/do/) [some](/post/some/) [shopping](/post/shopping/)" 去购物。
-- "[Shop](/post/shop/) [till](/post/till/) [you](/post/you/) [drop](/post/drop/)" 一直购物直到累得不行。
+- "[Window](/zh/post/window/) [shopping](/zh/post/shopping/)" 浏览商店，不打算购买。
+- "[Do](/zh/post/do/) [some](/zh/post/some/) [shopping](/zh/post/shopping/)" 去购物。
+- "[Shop](/zh/post/shop/) [till](/zh/post/till/) [you](/zh/post/you/) [drop](/zh/post/drop/)" 一直购物直到累得不行。
 
 ## 例句
-- 名词: "There's [a](/post/a/) [new](/post/new/) bookshop [in](/post/in/) [town](/post/town/) [that](/post/that/) [just](/post/just/) opened [up](/post/up/)."
-- 动词: "I'm going [to](/post/to/) [shop](/post/shop/) online [for](/post/for/) [a](/post/a/) [birthday](/post/birthday/) [present](/post/present/) [for](/post/for/) [my](/post/my/) [friend](/post/friend/)."
-- 动词: "[She](/post/she/) shops [for](/post/for/) [fresh](/post/fresh/) [produce](/post/produce/) [at](/post/at/) [the](/post/the/) farmer's [market](/post/market/) [every](/post/every/) [weekend](/post/weekend/)."
+- 名词: "There's [a](/zh/post/a/) [new](/zh/post/new/) bookshop [in](/zh/post/in/) [town](/zh/post/town/) [that](/zh/post/that/) [just](/zh/post/just/) opened [up](/zh/post/up/)."
+- 动词: "I'm going [to](/zh/post/to/) [shop](/zh/post/shop/) online [for](/zh/post/for/) [a](/zh/post/a/) [birthday](/zh/post/birthday/) [present](/zh/post/present/) [for](/zh/post/for/) [my](/zh/post/my/) [friend](/zh/post/friend/)."
+- 动词: "[She](/zh/post/she/) shops [for](/zh/post/for/) [fresh](/zh/post/fresh/) [produce](/zh/post/produce/) [at](/zh/post/at/) [the](/zh/post/the/) farmer's [market](/zh/post/market/) [every](/zh/post/every/) [weekend](/zh/post/weekend/)."
 
 ## 同义词
-- [Store](/post/store/)
+- [Store](/zh/post/store/)
 - Retailer
-- [Market](/post/market/)
+- [Market](/zh/post/market/)
 - Emporium
-- [Outlet](/post/outlet/)
+- [Outlet](/zh/post/outlet/)

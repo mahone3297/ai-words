@@ -7,30 +7,30 @@ description = '[ˈt∫æptə] n.章，回，篇'
 keywords = ['ai words', 'chapter']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃæptə(r)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [section](/en/post/section/) [or](/en/post/or/) [division](/en/post/division/) [within](/en/post/within/) [a](/en/post/a/) [book](/en/post/book/), [especially](/en/post/especially/) [one](/en/post/one/) containing [a](/en/post/a/) [continuous](/en/post/continuous/) narrative [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) related topics. [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) [book](/en/post/book/) is divided [into](/en/post/into/) [several](/en/post/several/) chapters."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [include](/en/post/include/) [or](/en/post/or/) [come](/en/post/come/) [under](/en/post/under/) [a](/en/post/a/) [particular](/en/post/particular/) [chapter](/en/post/chapter/) [or](/en/post/or/) [topic](/en/post/topic/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [issue](/en/post/issue/) falls [under](/en/post/under/) [the](/en/post/the/) [chapter](/en/post/chapter/) [on](/en/post/on/) environmental policies."
-- **[Noun](/en/post/noun/) (pl. chapters)**: [The](/en/post/the/) [process](/en/post/process/) [or](/en/post/or/) stages [through](/en/post/through/) [which](/en/post/which/) [something](/en/post/something/) develops [or](/en/post/or/) is taught, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) systematic [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [course](/en/post/course/) consisted [of](/en/post/of/) [several](/en/post/several/) chapters [on](/en/post/on/) [history](/en/post/history/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [section](/post/section/) [or](/post/or/) [division](/post/division/) [within](/post/within/) [a](/post/a/) [book](/post/book/), [especially](/post/especially/) [one](/post/one/) containing [a](/post/a/) [continuous](/post/continuous/) narrative [or](/post/or/) [series](/post/series/) [of](/post/of/) related topics. [For](/post/for/) [example](/post/example/): "[Each](/post/each/) [book](/post/book/) is divided [into](/post/into/) [several](/post/several/) chapters."
+- **[Verb](/post/verb/)**: [To](/post/to/) [include](/post/include/) [or](/post/or/) [come](/post/come/) [under](/post/under/) [a](/post/a/) [particular](/post/particular/) [chapter](/post/chapter/) [or](/post/or/) [topic](/post/topic/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [issue](/post/issue/) falls [under](/post/under/) [the](/post/the/) [chapter](/post/chapter/) [on](/post/on/) environmental policies."
+- **[Noun](/post/noun/) (pl. chapters)**: [The](/post/the/) [process](/post/process/) [or](/post/or/) stages [through](/post/through/) [which](/post/which/) [something](/post/something/) develops [or](/post/or/) is taught, [often](/post/often/) [in](/post/in/) [a](/post/a/) systematic [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [course](/post/course/) consisted [of](/post/of/) [several](/post/several/) chapters [on](/post/on/) [history](/post/history/)."
 
 ## Phrases
-- "[Chapter](/en/post/chapter/) 1" refers [to](/en/post/to/) [the](/en/post/the/) [first](/en/post/first/) [section](/en/post/section/) [of](/en/post/of/) [a](/en/post/a/) [book](/en/post/book/) [or](/en/post/or/) [series](/en/post/series/).
-- "[Skim](/en/post/skim/) [through](/en/post/through/) [the](/en/post/the/) [chapter](/en/post/chapter/)" [means](/en/post/means/) [to](/en/post/to/) [quickly](/en/post/quickly/) [read](/en/post/read/) [or](/en/post/or/) [review](/en/post/review/) [a](/en/post/a/) [section](/en/post/section/).
-- "[Teach](/en/post/teach/) [a](/en/post/a/) [chapter](/en/post/chapter/)" [means](/en/post/means/) [to](/en/post/to/) [present](/en/post/present/) [a](/en/post/a/) [lesson](/en/post/lesson/) [or](/en/post/or/) [portion](/en/post/portion/) [of](/en/post/of/) [a](/en/post/a/) [subject](/en/post/subject/).
+- "[Chapter](/post/chapter/) 1" refers [to](/post/to/) [the](/post/the/) [first](/post/first/) [section](/post/section/) [of](/post/of/) [a](/post/a/) [book](/post/book/) [or](/post/or/) [series](/post/series/).
+- "[Skim](/post/skim/) [through](/post/through/) [the](/post/the/) [chapter](/post/chapter/)" [means](/post/means/) [to](/post/to/) [quickly](/post/quickly/) [read](/post/read/) [or](/post/or/) [review](/post/review/) [a](/post/a/) [section](/post/section/).
+- "[Teach](/post/teach/) [a](/post/a/) [chapter](/post/chapter/)" [means](/post/means/) [to](/post/to/) [present](/post/present/) [a](/post/a/) [lesson](/post/lesson/) [or](/post/or/) [portion](/post/portion/) [of](/post/of/) [a](/post/a/) [subject](/post/subject/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [novel](/en/post/novel/) has [ten](/en/post/ten/) chapters, [each](/en/post/each/) exploring [a](/en/post/a/) [different](/en/post/different/) character's [perspective](/en/post/perspective/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) was discussed [in](/en/post/in/) [chapter](/en/post/chapter/) [three](/en/post/three/) [of](/en/post/of/) [the](/en/post/the/) [proposal](/en/post/proposal/)."
-- **[Noun](/en/post/noun/) (pl.):** "[The](/en/post/the/) [student](/en/post/student/) completed [each](/en/post/each/) [chapter](/en/post/chapter/) [in](/en/post/in/) [the](/en/post/the/) workbook [before](/en/post/before/) moving [on](/en/post/on/) [to](/en/post/to/) [the](/en/post/the/) [next](/en/post/next/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [novel](/post/novel/) has [ten](/post/ten/) chapters, [each](/post/each/) exploring [a](/post/a/) [different](/post/different/) character's [perspective](/post/perspective/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) was discussed [in](/post/in/) [chapter](/post/chapter/) [three](/post/three/) [of](/post/of/) [the](/post/the/) [proposal](/post/proposal/)."
+- **[Noun](/post/noun/) (pl.):** "[The](/post/the/) [student](/post/student/) completed [each](/post/each/) [chapter](/post/chapter/) [in](/post/in/) [the](/post/the/) workbook [before](/post/before/) moving [on](/post/on/) [to](/post/to/) [the](/post/the/) [next](/post/next/)."
 
 ## Synonyms
-- [Section](/en/post/section/)
-- [Part](/en/post/part/)
+- [Section](/post/section/)
+- [Part](/post/part/)
 - Segment
-- [Division](/en/post/division/)
-- [Lesson](/en/post/lesson/)
-- [Topic](/en/post/topic/)
-- [Era](/en/post/era/) ([in](/en/post/in/) [a](/en/post/a/) [historical](/en/post/historical/) context)
-- [Phase](/en/post/phase/) ([in](/en/post/in/) [a](/en/post/a/) [development](/en/post/development/) [process](/en/post/process/))
+- [Division](/post/division/)
+- [Lesson](/post/lesson/)
+- [Topic](/post/topic/)
+- [Era](/post/era/) ([in](/post/in/) [a](/post/a/) [historical](/post/historical/) context)
+- [Phase](/post/phase/) ([in](/post/in/) [a](/post/a/) [development](/post/development/) [process](/post/process/))

@@ -12,21 +12,21 @@ keywords = ['ai words', 'yard']
 
 ## 释义
 - **名词**:
-  - 院子，庭院。例如: "[There](/post/there/) is [a](/post/a/) [small](/post/small/) [garden](/post/garden/) [in](/post/in/) [the](/post/the/) backyard [of](/post/of/) [our](/post/our/) [house](/post/house/)."
-  - 美制长度单位，等于3英尺或91.44厘米。例如: "[The](/post/the/) [football](/post/football/) [field](/post/field/) is 100 yards [long](/post/long/)."
+  - 院子，庭院。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [small](/zh/post/small/) [garden](/zh/post/garden/) [in](/zh/post/in/) [the](/zh/post/the/) backyard [of](/zh/post/of/) [our](/zh/post/our/) [house](/zh/post/house/)."
+  - 美制长度单位，等于3英尺或91.44厘米。例如: "[The](/zh/post/the/) [football](/zh/post/football/) [field](/zh/post/field/) is 100 yards [long](/zh/post/long/)."
 
 ## 短语
-- "[front](/post/front/) [yard](/post/yard/)" 前院
+- "[front](/zh/post/front/) [yard](/zh/post/yard/)" 前院
 - "backyard" 后院
-- "[a](/post/a/) yardstick" 一杆（测量工具）
+- "[a](/zh/post/a/) yardstick" 一杆（测量工具）
 
 ## 例句
-- 名词: "[The](/post/the/) kids were playing [soccer](/post/soccer/) [in](/post/in/) [the](/post/the/) [yard](/post/yard/)."
-- 数量单位: "[The](/post/the/) [fabric](/post/fabric/) measures [two](/post/two/) yards [in](/post/in/) [length](/post/length/)."
+- 名词: "[The](/zh/post/the/) kids were playing [soccer](/zh/post/soccer/) [in](/zh/post/in/) [the](/zh/post/the/) [yard](/zh/post/yard/)."
+- 数量单位: "[The](/zh/post/the/) [fabric](/zh/post/fabric/) measures [two](/zh/post/two/) yards [in](/zh/post/in/) [length](/zh/post/length/)."
 
 ## 同义词
-- [Garden](/post/garden/)
+- [Garden](/zh/post/garden/)
 - Courtyard
-- [Area](/post/area/)
-- [Lot](/post/lot/)
-- [Section](/post/section/) (在指土地或区域时)
+- [Area](/zh/post/area/)
+- [Lot](/zh/post/lot/)
+- [Section](/zh/post/section/) (在指土地或区域时)

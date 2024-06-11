@@ -7,38 +7,38 @@ description = '[ridʒ] n.脊；岭，山脉；垄'
 keywords = ['ai words', 'ridge']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪdʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [long](/en/post/long/), [narrow](/en/post/narrow/), elevated landform [with](/en/post/with/) [steep](/en/post/steep/) sides, typically running [parallel](/en/post/parallel/) [to](/en/post/to/) [a](/en/post/a/) [mountain](/en/post/mountain/) [range](/en/post/range/). [Example](/en/post/example/): "[The](/en/post/the/) alpine ridges offered stunning views."
-   2. [A](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) raised [edge](/en/post/edge/) [on](/en/post/on/) [a](/en/post/a/) [surface](/en/post/surface/), [often](/en/post/often/) indicating [a](/en/post/a/) [division](/en/post/division/) [or](/en/post/or/) [boundary](/en/post/boundary/). [Example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) has [a](/en/post/a/) [leather](/en/post/leather/) [ridge](/en/post/ridge/) [along](/en/post/along/) [the](/en/post/the/) spine."
-   3. [A](/en/post/a/) [prominent](/en/post/prominent/) [feature](/en/post/feature/) [on](/en/post/on/) [the](/en/post/the/) [face](/en/post/face/), [particularly](/en/post/particularly/) [the](/en/post/the/) [nose](/en/post/nose/) [or](/en/post/or/) cheekbones. [Example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) [strong](/en/post/strong/) facial [ridge](/en/post/ridge/) [that](/en/post/that/) added [character](/en/post/character/) [to](/en/post/to/) [her](/en/post/her/) [appearance](/en/post/appearance/)."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [long](/post/long/), [narrow](/post/narrow/), elevated landform [with](/post/with/) [steep](/post/steep/) sides, typically running [parallel](/post/parallel/) [to](/post/to/) [a](/post/a/) [mountain](/post/mountain/) [range](/post/range/). [Example](/post/example/): "[The](/post/the/) alpine ridges offered stunning views."
+   2. [A](/post/a/) [line](/post/line/) [or](/post/or/) raised [edge](/post/edge/) [on](/post/on/) [a](/post/a/) [surface](/post/surface/), [often](/post/often/) indicating [a](/post/a/) [division](/post/division/) [or](/post/or/) [boundary](/post/boundary/). [Example](/post/example/): "[The](/post/the/) [book](/post/book/) has [a](/post/a/) [leather](/post/leather/) [ridge](/post/ridge/) [along](/post/along/) [the](/post/the/) spine."
+   3. [A](/post/a/) [prominent](/post/prominent/) [feature](/post/feature/) [on](/post/on/) [the](/post/the/) [face](/post/face/), [particularly](/post/particularly/) [the](/post/the/) [nose](/post/nose/) [or](/post/or/) cheekbones. [Example](/post/example/): "[She](/post/she/) had [a](/post/a/) [strong](/post/strong/) facial [ridge](/post/ridge/) [that](/post/that/) added [character](/post/character/) [to](/post/to/) [her](/post/her/) [appearance](/post/appearance/)."
 
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [ridge](/en/post/ridge/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) ridges. [Example](/en/post/example/): "[The](/en/post/the/) [wind](/en/post/wind/) eroded [the](/en/post/the/) landscape, creating [new](/en/post/new/) ridges [over](/en/post/over/) [time](/en/post/time/)."
-   2. (figurative) [To](/en/post/to/) [distinguish](/en/post/distinguish/) [oneself](/en/post/oneself/) [or](/en/post/or/) [stand](/en/post/stand/) [out](/en/post/out/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [way](/en/post/way/). [Example](/en/post/example/): "[His](/en/post/his/) expertise formed [a](/en/post/a/) [mental](/en/post/mental/) [ridge](/en/post/ridge/) [in](/en/post/in/) [her](/en/post/her/) [mind](/en/post/mind/)."
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [form](/post/form/) [a](/post/a/) [ridge](/post/ridge/) [or](/post/or/) [series](/post/series/) [of](/post/of/) ridges. [Example](/post/example/): "[The](/post/the/) [wind](/post/wind/) eroded [the](/post/the/) landscape, creating [new](/post/new/) ridges [over](/post/over/) [time](/post/time/)."
+   2. (figurative) [To](/post/to/) [distinguish](/post/distinguish/) [oneself](/post/oneself/) [or](/post/or/) [stand](/post/stand/) [out](/post/out/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [way](/post/way/). [Example](/post/example/): "[His](/post/his/) expertise formed [a](/post/a/) [mental](/post/mental/) [ridge](/post/ridge/) [in](/post/in/) [her](/post/her/) [mind](/post/mind/)."
 
 ## Phrases
-- "[Ridge](/en/post/ridge/) [line](/en/post/line/)" refers [to](/en/post/to/) [the](/en/post/the/) contour [where](/en/post/where/) [two](/en/post/two/) adjacent ridges [meet](/en/post/meet/).
-- "[Run](/en/post/run/) [along](/en/post/along/) [a](/en/post/a/) [ridge](/en/post/ridge/)" [means](/en/post/means/) [to](/en/post/to/) [follow](/en/post/follow/) [the](/en/post/the/) [path](/en/post/path/) [of](/en/post/of/) [a](/en/post/a/) [ridge](/en/post/ridge/).
-- "[A](/en/post/a/) [ridge](/en/post/ridge/) [of](/en/post/of/) clouds" describes [a](/en/post/a/) [line](/en/post/line/) [of](/en/post/of/) clouds extending [across](/en/post/across/) [the](/en/post/the/) [sky](/en/post/sky/).
+- "[Ridge](/post/ridge/) [line](/post/line/)" refers [to](/post/to/) [the](/post/the/) contour [where](/post/where/) [two](/post/two/) adjacent ridges [meet](/post/meet/).
+- "[Run](/post/run/) [along](/post/along/) [a](/post/a/) [ridge](/post/ridge/)" [means](/post/means/) [to](/post/to/) [follow](/post/follow/) [the](/post/the/) [path](/post/path/) [of](/post/of/) [a](/post/a/) [ridge](/post/ridge/).
+- "[A](/post/a/) [ridge](/post/ridge/) [of](/post/of/) clouds" describes [a](/post/a/) [line](/post/line/) [of](/post/of/) clouds extending [across](/post/across/) [the](/post/the/) [sky](/post/sky/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) hiker followed [the](/en/post/the/) winding [path](/en/post/path/) [up](/en/post/up/) [the](/en/post/the/) [mountain](/en/post/mountain/) [ridge](/en/post/ridge/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [soil](/en/post/soil/) tends [to](/en/post/to/) [accumulate](/en/post/accumulate/) [along](/en/post/along/) [the](/en/post/the/) ridges, making [them](/en/post/them/) [fertile](/en/post/fertile/) spots."
-- **[Figure](/en/post/figure/) [of](/en/post/of/) [speech](/en/post/speech/)**: "[His](/en/post/his/) ideas stood [out](/en/post/out/) [like](/en/post/like/) [a](/en/post/a/) [mental](/en/post/mental/) [ridge](/en/post/ridge/) [in](/en/post/in/) [the](/en/post/the/) [debate](/en/post/debate/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) hiker followed [the](/post/the/) winding [path](/post/path/) [up](/post/up/) [the](/post/the/) [mountain](/post/mountain/) [ridge](/post/ridge/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [soil](/post/soil/) tends [to](/post/to/) [accumulate](/post/accumulate/) [along](/post/along/) [the](/post/the/) ridges, making [them](/post/them/) [fertile](/post/fertile/) spots."
+- **[Figure](/post/figure/) [of](/post/of/) [speech](/post/speech/)**: "[His](/post/his/) ideas stood [out](/post/out/) [like](/post/like/) [a](/post/a/) [mental](/post/mental/) [ridge](/post/ridge/) [in](/post/in/) [the](/post/the/) [debate](/post/debate/)."
 
 ## Synonyms
 - Crest
-- [Rise](/en/post/rise/)
+- [Rise](/post/rise/)
 - Spine
 - Escarpment
-- [Shoulder](/en/post/shoulder/)
+- [Shoulder](/post/shoulder/)
 - Profile
 
 ## Antonyms
-- [Valley](/en/post/valley/)
+- [Valley](/post/valley/)
 - Trench
 - Flatness
-- [Level](/en/post/level/) [ground](/en/post/ground/)
-- [Plain](/en/post/plain/)
+- [Level](/post/level/) [ground](/post/ground/)
+- [Plain](/post/plain/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'dying']
 /ˈdaɪɪŋ/
 
 ## 释义
-- **形容词**: 死亡的；垂死的；即将死亡的。例如: "[She](/post/she/) is [in](/post/in/) [the](/post/the/) [dying](/post/dying/) hours [of](/post/of/) [her](/post/her/) [life](/post/life/)."
-- **动词**: 死去；逐渐消失；衰落。例如: "[The](/post/the/) [old](/post/old/) [town](/post/town/) is [slowly](/post/slowly/) [dying](/post/dying/) [out](/post/out/)."
+- **形容词**: 死亡的；垂死的；即将死亡的。例如: "[She](/zh/post/she/) is [in](/zh/post/in/) [the](/zh/post/the/) [dying](/zh/post/dying/) hours [of](/zh/post/of/) [her](/zh/post/her/) [life](/zh/post/life/)."
+- **动词**: 死去；逐渐消失；衰落。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [town](/zh/post/town/) is [slowly](/zh/post/slowly/) [dying](/zh/post/dying/) [out](/zh/post/out/)."
 
 ## 短语
-- "[on](/post/on/) [his](/post/his/)/[her](/post/her/) deathbed" 指某人临终时。
-- "[dying](/post/dying/) [wish](/post/wish/)" 指某人的遗愿。
+- "[on](/zh/post/on/) [his](/zh/post/his/)/[her](/zh/post/her/) deathbed" 指某人临终时。
+- "[dying](/zh/post/dying/) [wish](/zh/post/wish/)" 指某人的遗愿。
 
 ## 例句
-- 形容词: "[The](/post/the/) [patient](/post/patient/) was [in](/post/in/) [a](/post/a/) [dying](/post/dying/) [condition](/post/condition/) [and](/post/and/) needed [immediate](/post/immediate/) [medical](/post/medical/) [attention](/post/attention/)."
-- 动词: "[The](/post/the/) [small](/post/small/) [village](/post/village/) is [gradually](/post/gradually/) [dying](/post/dying/) [due](/post/due/) [to](/post/to/) [lack](/post/lack/) [of](/post/of/) resources."
+- 形容词: "[The](/zh/post/the/) [patient](/zh/post/patient/) was [in](/zh/post/in/) [a](/zh/post/a/) [dying](/zh/post/dying/) [condition](/zh/post/condition/) [and](/zh/post/and/) needed [immediate](/zh/post/immediate/) [medical](/zh/post/medical/) [attention](/zh/post/attention/)."
+- 动词: "[The](/zh/post/the/) [small](/zh/post/small/) [village](/zh/post/village/) is [gradually](/zh/post/gradually/) [dying](/zh/post/dying/) [due](/zh/post/due/) [to](/zh/post/to/) [lack](/zh/post/lack/) [of](/zh/post/of/) resources."
 
 ## 同义词
 - expiring
-- passing [away](/post/away/)
+- passing [away](/zh/post/away/)
 - perishing
 - fading
 - declining

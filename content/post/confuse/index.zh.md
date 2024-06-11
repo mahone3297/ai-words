@@ -11,19 +11,19 @@ keywords = ['ai words', 'confuse']
 /ˈkən.fjuːz/
 
 ## 释义
-- **动词**: 使困惑；使混淆。例如: "[The](/post/the/) [complex](/post/complex/) instructions confused [me](/post/me/)."
-- **形容词**: 混乱的；令人困惑的。例如: "[She](/post/she/) was confused [about](/post/about/) [what](/post/what/) [to](/post/to/) [do](/post/do/) [next](/post/next/)."
+- **动词**: 使困惑；使混淆。例如: "[The](/zh/post/the/) [complex](/zh/post/complex/) instructions confused [me](/zh/post/me/)."
+- **形容词**: 混乱的；令人困惑的。例如: "[She](/zh/post/she/) was confused [about](/zh/post/about/) [what](/zh/post/what/) [to](/zh/post/to/) [do](/zh/post/do/) [next](/zh/post/next/)."
 
 ## 短语
-- "[to](/post/to/) [confuse](/post/confuse/) [A](/post/a/) [with](/post/with/) B" 意思是将A和B弄混。
-- "[in](/post/in/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [confusion](/post/confusion/)" 表示处于困惑的状态。
+- "[to](/zh/post/to/) [confuse](/zh/post/confuse/) [A](/zh/post/a/) [with](/zh/post/with/) B" 意思是将A和B弄混。
+- "[in](/zh/post/in/) [a](/zh/post/a/) [state](/zh/post/state/) [of](/zh/post/of/) [confusion](/zh/post/confusion/)" 表示处于困惑的状态。
 
 ## 例句
-- 动词: "[The](/post/the/) [technical](/post/technical/) jargon confused [the](/post/the/) non-experts [in](/post/in/) [the](/post/the/) [audience](/post/audience/)."
-- 形容词: "[He](/post/he/) looked confused [when](/post/when/) I asked [him](/post/him/) [the](/post/the/) [simple](/post/simple/) [question](/post/question/)."
+- 动词: "[The](/zh/post/the/) [technical](/zh/post/technical/) jargon confused [the](/zh/post/the/) non-experts [in](/zh/post/in/) [the](/zh/post/the/) [audience](/zh/post/audience/)."
+- 形容词: "[He](/zh/post/he/) looked confused [when](/zh/post/when/) I asked [him](/zh/post/him/) [the](/zh/post/the/) [simple](/zh/post/simple/) [question](/zh/post/question/)."
 
 ## 同义词
-- [Puzzle](/post/puzzle/)
+- [Puzzle](/zh/post/puzzle/)
 - Baffle
 - Perplex
 - Bewilder

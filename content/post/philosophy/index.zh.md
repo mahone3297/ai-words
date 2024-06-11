@@ -21,17 +21,17 @@ keywords = ['ai words', 'philosophy']
    2. 深奥的，抽象的，理论性的。
 
 ## 短语
-- "Philosophical [inquiry](/post/inquiry/)" 指哲学上的探讨或研究。
-- "Existential [philosophy](/post/philosophy/)" 指关注存在、自由、选择等主题的哲学。
-- "[Eastern](/post/eastern/) [philosophy](/post/philosophy/)" 指源自亚洲的思想体系，如佛教、印度教哲学等。
+- "Philosophical [inquiry](/zh/post/inquiry/)" 指哲学上的探讨或研究。
+- "Existential [philosophy](/zh/post/philosophy/)" 指关注存在、自由、选择等主题的哲学。
+- "[Eastern](/zh/post/eastern/) [philosophy](/zh/post/philosophy/)" 指源自亚洲的思想体系，如佛教、印度教哲学等。
 
 ## 例句
-- 名词: "[He](/post/he/) studied [philosophy](/post/philosophy/) [at](/post/at/) [university](/post/university/) [and](/post/and/) became an [expert](/post/expert/) [in](/post/in/) Greek [philosophy](/post/philosophy/)."
-- 形容词: "[The](/post/the/) book's philosophical themes made [it](/post/it/) [a](/post/a/) challenging [read](/post/read/)."
+- 名词: "[He](/zh/post/he/) studied [philosophy](/zh/post/philosophy/) [at](/zh/post/at/) [university](/zh/post/university/) [and](/zh/post/and/) became an [expert](/zh/post/expert/) [in](/zh/post/in/) Greek [philosophy](/zh/post/philosophy/)."
+- 形容词: "[The](/zh/post/the/) book's philosophical themes made [it](/zh/post/it/) [a](/zh/post/a/) challenging [read](/zh/post/read/)."
 
 ## 同义词
-- [Thought](/post/thought/)
-- [Belief](/post/belief/)
+- [Thought](/zh/post/thought/)
+- [Belief](/zh/post/belief/)
 - Doctrine
 - Ideology
 - Weltanschauung

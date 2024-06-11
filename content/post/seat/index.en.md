@@ -7,39 +7,39 @@ description = '[siːt] n.座；座部 vt.使坐下'
 keywords = ['ai words', 'seat']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /siːt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [place](/en/post/place/) [to](/en/post/to/) [sit](/en/post/sit/), [usually](/en/post/usually/) [with](/en/post/with/) [a](/en/post/a/) [back](/en/post/back/) [and](/en/post/and/) [often](/en/post/often/) having armrests, [found](/en/post/found/) [on](/en/post/on/) [furniture](/en/post/furniture/) [like](/en/post/like/) chairs [or](/en/post/or/) benches. [Example](/en/post/example/): "[He](/en/post/he/) sank [into](/en/post/into/) [his](/en/post/his/) favorite armchair, sinking [into](/en/post/into/) [the](/en/post/the/) [soft](/en/post/soft/) [seat](/en/post/seat/)."
-2. [The](/en/post/the/) [position](/en/post/position/) [or](/en/post/or/) [spot](/en/post/spot/) occupied [by](/en/post/by/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) landed [on](/en/post/on/) [the](/en/post/the/) [seat](/en/post/seat/) [between](/en/post/between/) [them](/en/post/them/)."
-3. (informal) [A](/en/post/a/) [seat](/en/post/seat/) [on](/en/post/on/) [a](/en/post/a/) [train](/en/post/train/), [bus](/en/post/bus/), [or](/en/post/or/) [airplane](/en/post/airplane/). [Example](/en/post/example/): "I managed [to](/en/post/to/) [secure](/en/post/secure/) [two](/en/post/two/) seats [for](/en/post/for/) [the](/en/post/the/) [concert](/en/post/concert/)."
-4. ([US](/en/post/us/)) [A](/en/post/a/) [position](/en/post/position/) [in](/en/post/in/) an [organization](/en/post/organization/) [or](/en/post/or/) [group](/en/post/group/), [often](/en/post/often/) elected. [Example](/en/post/example/): "[She](/en/post/she/) was appointed [to](/en/post/to/) [a](/en/post/a/) [seat](/en/post/seat/) [on](/en/post/on/) [the](/en/post/the/) [school](/en/post/school/) [board](/en/post/board/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [place](/post/place/) [to](/post/to/) [sit](/post/sit/), [usually](/post/usually/) [with](/post/with/) [a](/post/a/) [back](/post/back/) [and](/post/and/) [often](/post/often/) having armrests, [found](/post/found/) [on](/post/on/) [furniture](/post/furniture/) [like](/post/like/) chairs [or](/post/or/) benches. [Example](/post/example/): "[He](/post/he/) sank [into](/post/into/) [his](/post/his/) favorite armchair, sinking [into](/post/into/) [the](/post/the/) [soft](/post/soft/) [seat](/post/seat/)."
+2. [The](/post/the/) [position](/post/position/) [or](/post/or/) [spot](/post/spot/) occupied [by](/post/by/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [book](/post/book/) landed [on](/post/on/) [the](/post/the/) [seat](/post/seat/) [between](/post/between/) [them](/post/them/)."
+3. (informal) [A](/post/a/) [seat](/post/seat/) [on](/post/on/) [a](/post/a/) [train](/post/train/), [bus](/post/bus/), [or](/post/or/) [airplane](/post/airplane/). [Example](/post/example/): "I managed [to](/post/to/) [secure](/post/secure/) [two](/post/two/) seats [for](/post/for/) [the](/post/the/) [concert](/post/concert/)."
+4. ([US](/post/us/)) [A](/post/a/) [position](/post/position/) [in](/post/in/) an [organization](/post/organization/) [or](/post/or/) [group](/post/group/), [often](/post/often/) elected. [Example](/post/example/): "[She](/post/she/) was appointed [to](/post/to/) [a](/post/a/) [seat](/post/seat/) [on](/post/on/) [the](/post/the/) [school](/post/school/) [board](/post/board/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [occupy](/en/post/occupy/) [or](/en/post/or/) [take](/en/post/take/) [a](/en/post/a/) [seat](/en/post/seat/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [chair](/en/post/chair/) [or](/en/post/or/) [on](/en/post/on/) [a](/en/post/a/) [bench](/en/post/bench/). [Example](/en/post/example/): "[Please](/en/post/please/) [have](/en/post/have/) [a](/en/post/a/) [seat](/en/post/seat/), [everyone](/en/post/everyone/)."
-2. (transitive) [To](/en/post/to/) [assign](/en/post/assign/) [or](/en/post/or/) [give](/en/post/give/) [a](/en/post/a/) [seat](/en/post/seat/) [to](/en/post/to/) [someone](/en/post/someone/). [Example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) seated [the](/en/post/the/) [new](/en/post/new/) [student](/en/post/student/) [at](/en/post/at/) [the](/en/post/the/) [desk](/en/post/desk/)."
-3. (intransitive) [To](/en/post/to/) [assume](/en/post/assume/) [a](/en/post/a/) [position](/en/post/position/), [often](/en/post/often/) figuratively. [Example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) [break](/en/post/break/), [they](/en/post/they/) [all](/en/post/all/) sat [down](/en/post/down/) [to](/en/post/to/) [seat](/en/post/seat/) [their](/en/post/their/) thoughts."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [occupy](/post/occupy/) [or](/post/or/) [take](/post/take/) [a](/post/a/) [seat](/post/seat/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [chair](/post/chair/) [or](/post/or/) [on](/post/on/) [a](/post/a/) [bench](/post/bench/). [Example](/post/example/): "[Please](/post/please/) [have](/post/have/) [a](/post/a/) [seat](/post/seat/), [everyone](/post/everyone/)."
+2. (transitive) [To](/post/to/) [assign](/post/assign/) [or](/post/or/) [give](/post/give/) [a](/post/a/) [seat](/post/seat/) [to](/post/to/) [someone](/post/someone/). [Example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) seated [the](/post/the/) [new](/post/new/) [student](/post/student/) [at](/post/at/) [the](/post/the/) [desk](/post/desk/)."
+3. (intransitive) [To](/post/to/) [assume](/post/assume/) [a](/post/a/) [position](/post/position/), [often](/post/often/) figuratively. [Example](/post/example/): "[After](/post/after/) [the](/post/the/) [break](/post/break/), [they](/post/they/) [all](/post/all/) sat [down](/post/down/) [to](/post/to/) [seat](/post/seat/) [their](/post/their/) thoughts."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [seat](/en/post/seat/)" is an [invitation](/en/post/invitation/) [to](/en/post/to/) [sit](/en/post/sit/) [down](/en/post/down/).
-- "[Find](/en/post/find/) [a](/en/post/a/) [seat](/en/post/seat/)" is an [instruction](/en/post/instruction/) [to](/en/post/to/) [locate](/en/post/locate/) [a](/en/post/a/) [place](/en/post/place/) [to](/en/post/to/) [sit](/en/post/sit/).
-- "[Fill](/en/post/fill/) [a](/en/post/a/) [seat](/en/post/seat/)" [means](/en/post/means/) [to](/en/post/to/) [occupy](/en/post/occupy/) [a](/en/post/a/) [place](/en/post/place/) [that](/en/post/that/) is [available](/en/post/available/).
-- "[Reserve](/en/post/reserve/) [a](/en/post/a/) [seat](/en/post/seat/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) reserving [a](/en/post/a/) [spot](/en/post/spot/) [in](/en/post/in/) [advance](/en/post/advance/).
+- "[Take](/post/take/) [a](/post/a/) [seat](/post/seat/)" is an [invitation](/post/invitation/) [to](/post/to/) [sit](/post/sit/) [down](/post/down/).
+- "[Find](/post/find/) [a](/post/a/) [seat](/post/seat/)" is an [instruction](/post/instruction/) [to](/post/to/) [locate](/post/locate/) [a](/post/a/) [place](/post/place/) [to](/post/to/) [sit](/post/sit/).
+- "[Fill](/post/fill/) [a](/post/a/) [seat](/post/seat/)" [means](/post/means/) [to](/post/to/) [occupy](/post/occupy/) [a](/post/a/) [place](/post/place/) [that](/post/that/) is [available](/post/available/).
+- "[Reserve](/post/reserve/) [a](/post/a/) [seat](/post/seat/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) reserving [a](/post/a/) [spot](/post/spot/) [in](/post/in/) [advance](/post/advance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) placed [her](/en/post/her/) [bag](/en/post/bag/) [on](/en/post/on/) [the](/en/post/the/) [empty](/en/post/empty/) [seat](/en/post/seat/) [next](/en/post/next/) [to](/en/post/to/) [her](/en/post/her/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) guests were asked [to](/en/post/to/) [seat](/en/post/seat/) [themselves](/en/post/themselves/) [at](/en/post/at/) [the](/en/post/the/) [dinner](/en/post/dinner/) [table](/en/post/table/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) sat [down](/en/post/down/) [to](/en/post/to/) [seat](/en/post/seat/) [his](/en/post/his/) thoughts [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) placed [her](/post/her/) [bag](/post/bag/) [on](/post/on/) [the](/post/the/) [empty](/post/empty/) [seat](/post/seat/) [next](/post/next/) [to](/post/to/) [her](/post/her/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) guests were asked [to](/post/to/) [seat](/post/seat/) [themselves](/post/themselves/) [at](/post/at/) [the](/post/the/) [dinner](/post/dinner/) [table](/post/table/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) sat [down](/post/down/) [to](/post/to/) [seat](/post/seat/) [his](/post/his/) thoughts [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/)."
 
 ## Synonyms
-- [Chair](/en/post/chair/)
-- [Place](/en/post/place/)
-- [Position](/en/post/position/)
-- [Bench](/en/post/bench/)
+- [Chair](/post/chair/)
+- [Place](/post/place/)
+- [Position](/post/position/)
+- [Bench](/post/bench/)
 - Slot
--[Spot](/en/post/spot/)
+-[Spot](/post/spot/)
 - Slot
-- [Seat](/en/post/seat/) [assignment](/en/post/assignment/)
-- Sitting [place](/en/post/place/)
+- [Seat](/post/seat/) [assignment](/post/assignment/)
+- Sitting [place](/post/place/)

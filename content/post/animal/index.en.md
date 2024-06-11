@@ -7,54 +7,54 @@ description = '[ˈæniməl] n.动物，兽 a.动物的'
 keywords = ['ai words', 'animal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈænɪml/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [living](/en/post/living/) [organism](/en/post/organism/) [that](/en/post/that/) belongs [to](/en/post/to/) [the](/en/post/the/) [kingdom](/en/post/kingdom/) Animalia, characterized [by](/en/post/by/) [growth](/en/post/growth/), reproduction, [response](/en/post/response/) [to](/en/post/to/) stimuli, [and](/en/post/and/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [move](/en/post/move/) ([except](/en/post/except/) [for](/en/post/for/) plants [and](/en/post/and/) fungi).
-   - [Definition](/en/post/definition/): [A](/en/post/a/) [creature](/en/post/creature/) [with](/en/post/with/) [a](/en/post/a/) [not](/en/post/not/) plant-like [life](/en/post/life/), [often](/en/post/often/) having [a](/en/post/a/) backbone [and](/en/post/and/) [being](/en/post/being/) [capable](/en/post/capable/) [of](/en/post/of/) [movement](/en/post/movement/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [zoo](/en/post/zoo/) houses [various](/en/post/various/) animals [from](/en/post/from/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [living](/post/living/) [organism](/post/organism/) [that](/post/that/) belongs [to](/post/to/) [the](/post/the/) [kingdom](/post/kingdom/) Animalia, characterized [by](/post/by/) [growth](/post/growth/), reproduction, [response](/post/response/) [to](/post/to/) stimuli, [and](/post/and/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [move](/post/move/) ([except](/post/except/) [for](/post/for/) plants [and](/post/and/) fungi).
+   - [Definition](/post/definition/): [A](/post/a/) [creature](/post/creature/) [with](/post/with/) [a](/post/a/) [not](/post/not/) plant-like [life](/post/life/), [often](/post/often/) having [a](/post/a/) backbone [and](/post/and/) [being](/post/being/) [capable](/post/capable/) [of](/post/of/) [movement](/post/movement/).
+   - [Example](/post/example/): "[The](/post/the/) [zoo](/post/zoo/) houses [various](/post/various/) animals [from](/post/from/) [around](/post/around/) [the](/post/the/) [world](/post/world/)."
 
-2. [A](/en/post/a/) person's innate [nature](/en/post/nature/) [or](/en/post/or/) [character](/en/post/character/) traits, [often](/en/post/often/) implying [behavior](/en/post/behavior/) [or](/en/post/or/) instincts.
-   - [Definition](/en/post/definition/): [A](/en/post/a/) person's inherent qualities [or](/en/post/or/) disposition, [especially](/en/post/especially/) [in](/en/post/in/) regards [to](/en/post/to/) emotions [or](/en/post/or/) habits.
-   - [Example](/en/post/example/): "[Her](/en/post/her/) [kindness](/en/post/kindness/) is [a](/en/post/a/) defining [animal](/en/post/animal/) [of](/en/post/of/) [her](/en/post/her/) personality."
+2. [A](/post/a/) person's innate [nature](/post/nature/) [or](/post/or/) [character](/post/character/) traits, [often](/post/often/) implying [behavior](/post/behavior/) [or](/post/or/) instincts.
+   - [Definition](/post/definition/): [A](/post/a/) person's inherent qualities [or](/post/or/) disposition, [especially](/post/especially/) [in](/post/in/) regards [to](/post/to/) emotions [or](/post/or/) habits.
+   - [Example](/post/example/): "[Her](/post/her/) [kindness](/post/kindness/) is [a](/post/a/) defining [animal](/post/animal/) [of](/post/of/) [her](/post/her/) personality."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [behave](/en/post/behave/) [or](/en/post/or/) [act](/en/post/act/) [like](/en/post/like/) an [animal](/en/post/animal/), [particularly](/en/post/particularly/) [in](/en/post/in/) [a](/en/post/a/) [base](/en/post/base/) [or](/en/post/or/) uncontrolled [manner](/en/post/manner/).
-   - [Definition](/en/post/definition/): [To](/en/post/to/) [exhibit](/en/post/exhibit/) [wild](/en/post/wild/) [or](/en/post/or/) undisciplined [behavior](/en/post/behavior/).
-   - [Example](/en/post/example/): "[After](/en/post/after/) [too](/en/post/too/) [much](/en/post/much/) [alcohol](/en/post/alcohol/), [he](/en/post/he/) started acting [animal](/en/post/animal/) [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [behave](/post/behave/) [or](/post/or/) [act](/post/act/) [like](/post/like/) an [animal](/post/animal/), [particularly](/post/particularly/) [in](/post/in/) [a](/post/a/) [base](/post/base/) [or](/post/or/) uncontrolled [manner](/post/manner/).
+   - [Definition](/post/definition/): [To](/post/to/) [exhibit](/post/exhibit/) [wild](/post/wild/) [or](/post/or/) undisciplined [behavior](/post/behavior/).
+   - [Example](/post/example/): "[After](/post/after/) [too](/post/too/) [much](/post/much/) [alcohol](/post/alcohol/), [he](/post/he/) started acting [animal](/post/animal/) [at](/post/at/) [the](/post/the/) [party](/post/party/)."
 
-2. [To](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [or](/en/post/or/) [classify](/en/post/classify/) [something](/en/post/something/) [as](/en/post/as/) an [animal](/en/post/animal/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [scientific](/en/post/scientific/) context.
-   - [Definition](/en/post/definition/): [To](/en/post/to/) [label](/en/post/label/) [or](/en/post/or/) categorize [something](/en/post/something/) [as](/en/post/as/) belonging [to](/en/post/to/) [the](/en/post/the/) [animal](/en/post/animal/) [kingdom](/en/post/kingdom/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) biologist identified [the](/en/post/the/) species [as](/en/post/as/) an [animal](/en/post/animal/) [with](/en/post/with/) [unique](/en/post/unique/) adaptations."
+2. [To](/post/to/) [refer](/post/refer/) [to](/post/to/) [or](/post/or/) [classify](/post/classify/) [something](/post/something/) [as](/post/as/) an [animal](/post/animal/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [scientific](/post/scientific/) context.
+   - [Definition](/post/definition/): [To](/post/to/) [label](/post/label/) [or](/post/or/) categorize [something](/post/something/) [as](/post/as/) belonging [to](/post/to/) [the](/post/the/) [animal](/post/animal/) [kingdom](/post/kingdom/).
+   - [Example](/post/example/): "[The](/post/the/) biologist identified [the](/post/the/) species [as](/post/as/) an [animal](/post/animal/) [with](/post/with/) [unique](/post/unique/) adaptations."
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/), [or](/en/post/or/) pertaining [to](/en/post/to/), animals [or](/en/post/or/) [their](/en/post/their/) features.
-   - [Definition](/en/post/definition/): Relating [to](/en/post/to/) [or](/en/post/or/) [typical](/en/post/typical/) [of](/en/post/of/) creatures, [especially](/en/post/especially/) mammals.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [animal](/en/post/animal/) [kingdom](/en/post/kingdom/) displays incredible diversity."
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/), [or](/post/or/) pertaining [to](/post/to/), animals [or](/post/or/) [their](/post/their/) features.
+   - [Definition](/post/definition/): Relating [to](/post/to/) [or](/post/or/) [typical](/post/typical/) [of](/post/of/) creatures, [especially](/post/especially/) mammals.
+   - [Example](/post/example/): "[The](/post/the/) [animal](/post/animal/) [kingdom](/post/kingdom/) displays incredible diversity."
 
 ## Phrases
-- "[Animal](/en/post/animal/) [behavior](/en/post/behavior/)" describes [the](/en/post/the/) actions [and](/en/post/and/) instincts [of](/en/post/of/) animals.
-- "[To](/en/post/to/) [have](/en/post/have/) an [animal](/en/post/animal/) [instinct](/en/post/instinct/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [natural](/en/post/natural/), unlearned impulse.
-- "[A](/en/post/a/) [wild](/en/post/wild/) [animal](/en/post/animal/)" refers [to](/en/post/to/) [a](/en/post/a/) [creature](/en/post/creature/) [living](/en/post/living/) [in](/en/post/in/) [its](/en/post/its/) [natural](/en/post/natural/) habitat.
+- "[Animal](/post/animal/) [behavior](/post/behavior/)" describes [the](/post/the/) actions [and](/post/and/) instincts [of](/post/of/) animals.
+- "[To](/post/to/) [have](/post/have/) an [animal](/post/animal/) [instinct](/post/instinct/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [natural](/post/natural/), unlearned impulse.
+- "[A](/post/a/) [wild](/post/wild/) [animal](/post/animal/)" refers [to](/post/to/) [a](/post/a/) [creature](/post/creature/) [living](/post/living/) [in](/post/in/) [its](/post/its/) [natural](/post/natural/) habitat.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [baby](/en/post/baby/) [elephant](/en/post/elephant/) was fascinated [by](/en/post/by/) [the](/en/post/the/) [other](/en/post/other/) animals [in](/en/post/in/) [the](/en/post/the/) enclosure."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [scientist](/en/post/scientist/) observed [the](/en/post/the/) animal's [natural](/en/post/natural/) mating rituals."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) outfit blended seamlessly [with](/en/post/with/) [the](/en/post/the/) [animal](/en/post/animal/) [print](/en/post/print/) [background](/en/post/background/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [baby](/post/baby/) [elephant](/post/elephant/) was fascinated [by](/post/by/) [the](/post/the/) [other](/post/other/) animals [in](/post/in/) [the](/post/the/) enclosure."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [scientist](/post/scientist/) observed [the](/post/the/) animal's [natural](/post/natural/) mating rituals."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) outfit blended seamlessly [with](/post/with/) [the](/post/the/) [animal](/post/animal/) [print](/post/print/) [background](/post/background/)."
 
 ## Synonyms
-- [Beast](/en/post/beast/)
-- [Creature](/en/post/creature/)
+- [Beast](/post/beast/)
+- [Creature](/post/creature/)
 - Beastly
 - Instinctual
 - Furry
 - Four-legged
-- [Wild](/en/post/wild/)
+- [Wild](/post/wild/)
 
 ### Antonyms
 - Plant-like
 - Domesticated
-- [Reasonable](/en/post/reasonable/)
+- [Reasonable](/post/reasonable/)
 - Civilized

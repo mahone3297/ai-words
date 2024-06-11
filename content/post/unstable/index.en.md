@@ -7,22 +7,22 @@ description = '[ˈʌnˈsteibl] a.不稳固的；不稳定的'
 keywords = ['ai words', 'unstable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unˈstæbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) [tendency](/en/post/tendency/) [to](/en/post/to/) [change](/en/post/change/) [or](/en/post/or/) [become](/en/post/become/) [unstable](/en/post/unstable/); [not](/en/post/not/) [steady](/en/post/steady/) [or](/en/post/or/) [secure](/en/post/secure/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [structure](/en/post/structure/) is [unstable](/en/post/unstable/) [and](/en/post/and/) [could](/en/post/could/) [collapse](/en/post/collapse/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cause](/en/post/cause/) [to](/en/post/to/) [become](/en/post/become/) [unstable](/en/post/unstable/) [or](/en/post/or/) unsteady. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wind](/en/post/wind/) made [the](/en/post/the/) [boat](/en/post/boat/) [sway](/en/post/sway/) [and](/en/post/and/) [the](/en/post/the/) passengers felt [it](/en/post/it/) was [unstable](/en/post/unstable/)."
+- **[Adjective](/post/adjective/)**: Having [a](/post/a/) [tendency](/post/tendency/) [to](/post/to/) [change](/post/change/) [or](/post/or/) [become](/post/become/) [unstable](/post/unstable/); [not](/post/not/) [steady](/post/steady/) [or](/post/or/) [secure](/post/secure/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [structure](/post/structure/) is [unstable](/post/unstable/) [and](/post/and/) [could](/post/could/) [collapse](/post/collapse/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [cause](/post/cause/) [to](/post/to/) [become](/post/become/) [unstable](/post/unstable/) [or](/post/or/) unsteady. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wind](/post/wind/) made [the](/post/the/) [boat](/post/boat/) [sway](/post/sway/) [and](/post/and/) [the](/post/the/) passengers felt [it](/post/it/) was [unstable](/post/unstable/)."
 
 ## Phrases
-- "An [unstable](/en/post/unstable/) [situation](/en/post/situation/)" describes [a](/en/post/a/) [condition](/en/post/condition/) [that](/en/post/that/) is [uncertain](/en/post/uncertain/) [or](/en/post/or/) [liable](/en/post/liable/) [to](/en/post/to/) [change](/en/post/change/).
-- "An [unstable](/en/post/unstable/) [mind](/en/post/mind/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is emotionally volatile [or](/en/post/or/) mentally不稳定.
-- "Stabilize [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) [firm](/en/post/firm/), [secure](/en/post/secure/), [or](/en/post/or/) [stable](/en/post/stable/) [again](/en/post/again/).
+- "An [unstable](/post/unstable/) [situation](/post/situation/)" describes [a](/post/a/) [condition](/post/condition/) [that](/post/that/) is [uncertain](/post/uncertain/) [or](/post/or/) [liable](/post/liable/) [to](/post/to/) [change](/post/change/).
+- "An [unstable](/post/unstable/) [mind](/post/mind/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is emotionally volatile [or](/post/or/) mentally不稳定.
+- "Stabilize [something](/post/something/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [it](/post/it/) [firm](/post/firm/), [secure](/post/secure/), [or](/post/or/) [stable](/post/stable/) [again](/post/again/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [chemical](/en/post/chemical/) [reaction](/en/post/reaction/) produced an [unstable](/en/post/unstable/) [mixture](/en/post/mixture/) [that](/en/post/that/) needed [to](/en/post/to/) [be](/en/post/be/) handled [with](/en/post/with/) [care](/en/post/care/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) therapist worked [with](/en/post/with/) [her](/en/post/her/) [patient](/en/post/patient/) [to](/en/post/to/) [help](/en/post/help/) [them](/en/post/them/) regain [emotional](/en/post/emotional/) [stability](/en/post/stability/) [after](/en/post/after/) [a](/en/post/a/) traumatic [event](/en/post/event/)."
-- "[The](/en/post/the/) [airplane](/en/post/airplane/) landed [smoothly](/en/post/smoothly/) [despite](/en/post/despite/) [some](/en/post/some/) [initial](/en/post/initial/) turbulence, [which](/en/post/which/) had made [it](/en/post/it/) [feel](/en/post/feel/) [unstable](/en/post/unstable/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [chemical](/post/chemical/) [reaction](/post/reaction/) produced an [unstable](/post/unstable/) [mixture](/post/mixture/) [that](/post/that/) needed [to](/post/to/) [be](/post/be/) handled [with](/post/with/) [care](/post/care/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) therapist worked [with](/post/with/) [her](/post/her/) [patient](/post/patient/) [to](/post/to/) [help](/post/help/) [them](/post/them/) regain [emotional](/post/emotional/) [stability](/post/stability/) [after](/post/after/) [a](/post/a/) traumatic [event](/post/event/)."
+- "[The](/post/the/) [airplane](/post/airplane/) landed [smoothly](/post/smoothly/) [despite](/post/despite/) [some](/post/some/) [initial](/post/initial/) turbulence, [which](/post/which/) had made [it](/post/it/) [feel](/post/feel/) [unstable](/post/unstable/)."
 
 ## Synonyms
 - Unsteady
@@ -33,8 +33,8 @@ keywords = ['ai words', 'unstable']
 - Unpredictable
 
 ## Antonyms
-- [Stable](/en/post/stable/)
-- [Steady](/en/post/steady/)
-- [Reliable](/en/post/reliable/)
-- [Secure](/en/post/secure/)
-- [Constant](/en/post/constant/)
+- [Stable](/post/stable/)
+- [Steady](/post/steady/)
+- [Reliable](/post/reliable/)
+- [Secure](/post/secure/)
+- [Constant](/post/constant/)

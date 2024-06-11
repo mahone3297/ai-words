@@ -11,24 +11,24 @@ keywords = ['ai words', 'boss']
 /bɒs/
 
 ## 释义
-- **名词**: 老板，雇主，负责人。例如: "[My](/post/my/) [boss](/post/boss/) asked [me](/post/me/) [to](/post/to/) [work](/post/work/) [overtime](/post/overtime/)."
-- **名词**: 首领，头目，大佬（通常指有权力的人）。例如: "[The](/post/the/) mob [boss](/post/boss/) gave [the](/post/the/) [order](/post/order/) [to](/post/to/) [strike](/post/strike/)."
-- **名词**: （非正式）朋友，伙伴。例如: "Hey, [boss](/post/boss/), [do](/post/do/) [you](/post/you/) [want](/post/want/) [to](/post/to/) grab [a](/post/a/) [drink](/post/drink/) [after](/post/after/) [work](/post/work/)?"
-- **动词**: 控制，指挥，管理（某人）。例如: "[She](/post/she/) bosses [everyone](/post/everyone/) [around](/post/around/) [in](/post/in/) [the](/post/the/) [office](/post/office/)."
+- **名词**: 老板，雇主，负责人。例如: "[My](/zh/post/my/) [boss](/zh/post/boss/) asked [me](/zh/post/me/) [to](/zh/post/to/) [work](/zh/post/work/) [overtime](/zh/post/overtime/)."
+- **名词**: 首领，头目，大佬（通常指有权力的人）。例如: "[The](/zh/post/the/) mob [boss](/zh/post/boss/) gave [the](/zh/post/the/) [order](/zh/post/order/) [to](/zh/post/to/) [strike](/zh/post/strike/)."
+- **名词**: （非正式）朋友，伙伴。例如: "Hey, [boss](/zh/post/boss/), [do](/zh/post/do/) [you](/zh/post/you/) [want](/zh/post/want/) [to](/zh/post/to/) grab [a](/zh/post/a/) [drink](/zh/post/drink/) [after](/zh/post/after/) [work](/zh/post/work/)?"
+- **动词**: 控制，指挥，管理（某人）。例如: "[She](/zh/post/she/) bosses [everyone](/zh/post/everyone/) [around](/zh/post/around/) [in](/zh/post/in/) [the](/zh/post/the/) [office](/zh/post/office/)."
 
 ## 短语
-- "[The](/post/the/) [boss](/post/boss/) [of](/post/of/) [the](/post/the/) [company](/post/company/)" 指公司老板。
-- "[Be](/post/be/) [the](/post/the/) [boss](/post/boss/)" 意味着成为负责人或做决定的人。
-- "[Take](/post/take/) [charge](/post/charge/) [like](/post/like/) [a](/post/a/) [boss](/post/boss/)" 表示自信地掌控局面。
+- "[The](/zh/post/the/) [boss](/zh/post/boss/) [of](/zh/post/of/) [the](/zh/post/the/) [company](/zh/post/company/)" 指公司老板。
+- "[Be](/zh/post/be/) [the](/zh/post/the/) [boss](/zh/post/boss/)" 意味着成为负责人或做决定的人。
+- "[Take](/zh/post/take/) [charge](/zh/post/charge/) [like](/zh/post/like/) [a](/zh/post/a/) [boss](/zh/post/boss/)" 表示自信地掌控局面。
 
 ## 例句
-- 名词: "I [need](/post/need/) [to](/post/to/) [discuss](/post/discuss/) [this](/post/this/) [report](/post/report/) [with](/post/with/) [my](/post/my/) [boss](/post/boss/) [before](/post/before/) submitting [it](/post/it/)."
-- 动词: "[She](/post/she/) [always](/post/always/) bosses [her](/post/her/) younger siblings [around](/post/around/)."
-- 名词（非正式）: "Let's [go](/post/go/), [boss](/post/boss/), we're running [late](/post/late/)."
+- 名词: "I [need](/zh/post/need/) [to](/zh/post/to/) [discuss](/zh/post/discuss/) [this](/zh/post/this/) [report](/zh/post/report/) [with](/zh/post/with/) [my](/zh/post/my/) [boss](/zh/post/boss/) [before](/zh/post/before/) submitting [it](/zh/post/it/)."
+- 动词: "[She](/zh/post/she/) [always](/zh/post/always/) bosses [her](/zh/post/her/) younger siblings [around](/zh/post/around/)."
+- 名词（非正式）: "Let's [go](/zh/post/go/), [boss](/zh/post/boss/), we're running [late](/zh/post/late/)."
 
 ## 同义词
-- [Employer](/post/employer/)
+- [Employer](/zh/post/employer/)
 - Manager
-- [Chief](/post/chief/)
-- [Head](/post/head/)
-- [Director](/post/director/)
+- [Chief](/zh/post/chief/)
+- [Head](/zh/post/head/)
+- [Director](/zh/post/director/)

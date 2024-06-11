@@ -11,21 +11,21 @@ keywords = ['ai words', 'happy']
 /hæpɪ/
 
 ## 释义
-- **形容词**: 快乐的，幸福的。例如: "[She](/post/she/) was [so](/post/so/) [happy](/post/happy/) [to](/post/to/) [see](/post/see/) [her](/post/her/) friends [again](/post/again/)."
-- **副词**: 高兴地，愉快地。例如: "[He](/post/he/) played [the](/post/the/) [piano](/post/piano/) happily."
+- **形容词**: 快乐的，幸福的。例如: "[She](/zh/post/she/) was [so](/zh/post/so/) [happy](/zh/post/happy/) [to](/zh/post/to/) [see](/zh/post/see/) [her](/zh/post/her/) friends [again](/zh/post/again/)."
+- **副词**: 高兴地，愉快地。例如: "[He](/zh/post/he/) played [the](/zh/post/the/) [piano](/zh/post/piano/) happily."
 
 ## 短语
-- "[Happy](/post/happy/) [birthday](/post/birthday/)" 祝某人生日快乐。
-- "[Happy](/post/happy/) [hour](/post/hour/)" 酒吧或餐厅的特价时段。
+- "[Happy](/zh/post/happy/) [birthday](/zh/post/birthday/)" 祝某人生日快乐。
+- "[Happy](/zh/post/happy/) [hour](/zh/post/hour/)" 酒吧或餐厅的特价时段。
 - "Happy-go-lucky" 形容无忧无虑、随遇而安的人。
 
 ## 例句
-- 形容词: "[The](/post/the/) children were [all](/post/all/) [happy](/post/happy/) [and](/post/and/) excited [on](/post/on/) [their](/post/their/) [first](/post/first/) [day](/post/day/) [of](/post/of/) [school](/post/school/)."
-- 副词: "[She](/post/she/) sang [along](/post/along/) [to](/post/to/) [the](/post/the/) [music](/post/music/) happily."
+- 形容词: "[The](/zh/post/the/) children were [all](/zh/post/all/) [happy](/zh/post/happy/) [and](/zh/post/and/) excited [on](/zh/post/on/) [their](/zh/post/their/) [first](/zh/post/first/) [day](/zh/post/day/) [of](/zh/post/of/) [school](/zh/post/school/)."
+- 副词: "[She](/zh/post/she/) sang [along](/zh/post/along/) [to](/zh/post/to/) [the](/zh/post/the/) [music](/zh/post/music/) happily."
 
 ## 同义词
-- [Joyful](/post/joyful/)
+- [Joyful](/zh/post/joyful/)
 - Delighted
 - Pleased
-- [Content](/post/content/)
+- [Content](/zh/post/content/)
 - Ecstatic

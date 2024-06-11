@@ -7,37 +7,37 @@ description = '[riˈmeins] n.残余，余额；废墟'
 keywords = ['ai words', 'remains']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈmeɪnz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [part](/en/post/part/) [that](/en/post/that/) [remains](/en/post/remains/) [after](/en/post/after/) [something](/en/post/something/) [else](/en/post/else/) has been consumed, [used](/en/post/used/), [or](/en/post/or/) removed; leftovers.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [dinner](/en/post/dinner/) [table](/en/post/table/) was cleared, leaving [only](/en/post/only/) [a](/en/post/a/) [few](/en/post/few/) remnants [on](/en/post/on/) [the](/en/post/the/) [plate](/en/post/plate/)."
-2. [Something](/en/post/something/) [that](/en/post/that/) persists [or](/en/post/or/) continues [to](/en/post/to/) [be](/en/post/be/) [present](/en/post/present/), [often](/en/post/often/) [after](/en/post/after/) [a](/en/post/a/) [change](/en/post/change/) [or](/en/post/or/) [event](/en/post/event/).
-   - [Example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/), [the](/en/post/the/) [community](/en/post/community/) remained resilient [and](/en/post/and/) united."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [part](/post/part/) [that](/post/that/) [remains](/post/remains/) [after](/post/after/) [something](/post/something/) [else](/post/else/) has been consumed, [used](/post/used/), [or](/post/or/) removed; leftovers.
+   - [Example](/post/example/): "[The](/post/the/) [dinner](/post/dinner/) [table](/post/table/) was cleared, leaving [only](/post/only/) [a](/post/a/) [few](/post/few/) remnants [on](/post/on/) [the](/post/the/) [plate](/post/plate/)."
+2. [Something](/post/something/) [that](/post/that/) persists [or](/post/or/) continues [to](/post/to/) [be](/post/be/) [present](/post/present/), [often](/post/often/) [after](/post/after/) [a](/post/a/) [change](/post/change/) [or](/post/or/) [event](/post/event/).
+   - [Example](/post/example/): "[After](/post/after/) [the](/post/the/) [storm](/post/storm/), [the](/post/the/) [community](/post/community/) remained resilient [and](/post/and/) united."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [remain](/en/post/remain/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/); [persist](/en/post/persist/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) [still](/en/post/still/) [remains](/en/post/remains/) standing [after](/en/post/after/) [all](/en/post/all/) [these](/en/post/these/) years."
-2. [To](/en/post/to/) [continue](/en/post/continue/) [to](/en/post/to/) [exist](/en/post/exist/) [or](/en/post/or/) [be](/en/post/be/) [applicable](/en/post/applicable/).
-   - [Example](/en/post/example/): "[Her](/en/post/her/) [advice](/en/post/advice/) continues [to](/en/post/to/) [remain](/en/post/remain/) [relevant](/en/post/relevant/) [even](/en/post/even/) [today](/en/post/today/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [remain](/post/remain/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [state](/post/state/) [or](/post/or/) [condition](/post/condition/); [persist](/post/persist/).
+   - [Example](/post/example/): "[The](/post/the/) [old](/post/old/) [house](/post/house/) [still](/post/still/) [remains](/post/remains/) standing [after](/post/after/) [all](/post/all/) [these](/post/these/) years."
+2. [To](/post/to/) [continue](/post/continue/) [to](/post/to/) [exist](/post/exist/) [or](/post/or/) [be](/post/be/) [applicable](/post/applicable/).
+   - [Example](/post/example/): "[Her](/post/her/) [advice](/post/advice/) continues [to](/post/to/) [remain](/post/remain/) [relevant](/post/relevant/) [even](/post/even/) [today](/post/today/)."
 
-### [Adjective](/en/post/adjective/)
-1. [Not](/en/post/not/) changed [or](/en/post/or/) altered, [as](/en/post/as/) [in](/en/post/in/) [appearance](/en/post/appearance/) [or](/en/post/or/) [character](/en/post/character/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) ruins [of](/en/post/of/) [the](/en/post/the/) [castle](/en/post/castle/) [still](/en/post/still/) [bear](/en/post/bear/) [witness](/en/post/witness/) [to](/en/post/to/) [its](/en/post/its/) [original](/en/post/original/) [remains](/en/post/remains/)."
+### [Adjective](/post/adjective/)
+1. [Not](/post/not/) changed [or](/post/or/) altered, [as](/post/as/) [in](/post/in/) [appearance](/post/appearance/) [or](/post/or/) [character](/post/character/).
+   - [Example](/post/example/): "[The](/post/the/) ruins [of](/post/of/) [the](/post/the/) [castle](/post/castle/) [still](/post/still/) [bear](/post/bear/) [witness](/post/witness/) [to](/post/to/) [its](/post/its/) [original](/post/original/) [remains](/post/remains/)."
 2. Remaining; leftover.
-   - [Example](/en/post/example/): "[There](/en/post/there/) were [some](/en/post/some/) [bread](/en/post/bread/) crumbs [and](/en/post/and/) [fruit](/en/post/fruit/) [remains](/en/post/remains/) [in](/en/post/in/) [the](/en/post/the/) [fridge](/en/post/fridge/)."
+   - [Example](/post/example/): "[There](/post/there/) were [some](/post/some/) [bread](/post/bread/) crumbs [and](/post/and/) [fruit](/post/fruit/) [remains](/post/remains/) [in](/post/in/) [the](/post/the/) [fridge](/post/fridge/)."
 
 ## Phrases
-- "[Remains](/en/post/remains/) intact" [means](/en/post/means/) [something](/en/post/something/) is undamaged [or](/en/post/or/) unchanged.
-- "[Remains](/en/post/remains/) [of](/en/post/of/)" refers [to](/en/post/to/) the残余部分 or遗迹 [of](/en/post/of/) [something](/en/post/something/).
-- "[Remains](/en/post/remains/) [to](/en/post/to/) [be](/en/post/be/) seen" indicates [that](/en/post/that/) [the](/en/post/the/) [outcome](/en/post/outcome/) is [yet](/en/post/yet/) [uncertain](/en/post/uncertain/).
+- "[Remains](/post/remains/) intact" [means](/post/means/) [something](/post/something/) is undamaged [or](/post/or/) unchanged.
+- "[Remains](/post/remains/) [of](/post/of/)" refers [to](/post/to/) the残余部分 or遗迹 [of](/post/of/) [something](/post/something/).
+- "[Remains](/post/remains/) [to](/post/to/) [be](/post/be/) seen" indicates [that](/post/that/) [the](/post/the/) [outcome](/post/outcome/) is [yet](/post/yet/) [uncertain](/post/uncertain/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [remains](/en/post/remains/) [of](/en/post/of/) [the](/en/post/the/) [ancient](/en/post/ancient/) [civilization](/en/post/civilization/) were discovered [by](/en/post/by/) archaeologists."
-- **[Verb](/en/post/verb/)**: "[Despite](/en/post/despite/) [the](/en/post/the/) [fire](/en/post/fire/), [the](/en/post/the/) library's [main](/en/post/main/) [structural](/en/post/structural/) [remains](/en/post/remains/) were saved."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [remains](/en/post/remains/) [of](/en/post/of/) [her](/en/post/her/) [childhood](/en/post/childhood/) [home](/en/post/home/) held [many](/en/post/many/) nostalgic memories."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [remains](/post/remains/) [of](/post/of/) [the](/post/the/) [ancient](/post/ancient/) [civilization](/post/civilization/) were discovered [by](/post/by/) archaeologists."
+- **[Verb](/post/verb/)**: "[Despite](/post/despite/) [the](/post/the/) [fire](/post/fire/), [the](/post/the/) library's [main](/post/main/) [structural](/post/structural/) [remains](/post/remains/) were saved."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [remains](/post/remains/) [of](/post/of/) [her](/post/her/) [childhood](/post/childhood/) [home](/post/home/) held [many](/post/many/) nostalgic memories."
 
 ## Synonyms
 -残余
@@ -45,4 +45,4 @@ keywords = ['ai words', 'remains']
 -Leftover
 -Remnant
 -Remainsder
--Remnant ([noun](/en/post/noun/) specifically)
+-Remnant ([noun](/post/noun/) specifically)

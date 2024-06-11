@@ -8,24 +8,24 @@ keywords = ['ai words', 'help']
 +++
 
 ## 读音
-/[help](/post/help/)/
+/[help](/zh/post/help/)/
 
 ## 释义
-- **动词**: 帮助，援助。例如: "[Can](/post/can/) [you](/post/you/) [help](/post/help/) [me](/post/me/) [carry](/post/carry/) [these](/post/these/) boxes?"
-- **名词**: 援助，帮助。例如: "[She](/post/she/) offered [him](/post/him/) [some](/post/some/) [help](/post/help/) [with](/post/with/) [his](/post/his/) homework."
+- **动词**: 帮助，援助。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [help](/zh/post/help/) [me](/zh/post/me/) [carry](/zh/post/carry/) [these](/zh/post/these/) boxes?"
+- **名词**: 援助，帮助。例如: "[She](/zh/post/she/) offered [him](/zh/post/him/) [some](/zh/post/some/) [help](/zh/post/help/) [with](/zh/post/with/) [his](/zh/post/his/) homework."
 
 ## 短语
-- "[ask](/post/ask/) [for](/post/for/) [help](/post/help/)" 请求帮助。
-- "[help](/post/help/) [out](/post/out/)" 帮忙，协助。
-- "[be](/post/be/) [of](/post/of/) [help](/post/help/)" 有帮助的。
+- "[ask](/zh/post/ask/) [for](/zh/post/for/) [help](/zh/post/help/)" 请求帮助。
+- "[help](/zh/post/help/) [out](/zh/post/out/)" 帮忙，协助。
+- "[be](/zh/post/be/) [of](/zh/post/of/) [help](/zh/post/help/)" 有帮助的。
 
 ## 例句
-- 动词: "[Please](/post/please/) [help](/post/help/) [me](/post/me/) [set](/post/set/) [up](/post/up/) [the](/post/the/) [table](/post/table/) [for](/post/for/) [dinner](/post/dinner/)."
-- 名词: "[Her](/post/her/) [advice](/post/advice/) was [a](/post/a/) [great](/post/great/) [help](/post/help/) [in](/post/in/) solving [the](/post/the/) [problem](/post/problem/)."
+- 动词: "[Please](/zh/post/please/) [help](/zh/post/help/) [me](/zh/post/me/) [set](/zh/post/set/) [up](/zh/post/up/) [the](/zh/post/the/) [table](/zh/post/table/) [for](/zh/post/for/) [dinner](/zh/post/dinner/)."
+- 名词: "[Her](/zh/post/her/) [advice](/zh/post/advice/) was [a](/zh/post/a/) [great](/zh/post/great/) [help](/zh/post/help/) [in](/zh/post/in/) solving [the](/zh/post/the/) [problem](/zh/post/problem/)."
 
 ## 同义词
-- [assist](/post/assist/)
-- [support](/post/support/)
-- [aid](/post/aid/)
-- [relieve](/post/relieve/)
+- [assist](/zh/post/assist/)
+- [support](/zh/post/support/)
+- [aid](/zh/post/aid/)
+- [relieve](/zh/post/relieve/)
 - succor

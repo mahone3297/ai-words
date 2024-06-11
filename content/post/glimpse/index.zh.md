@@ -11,20 +11,20 @@ keywords = ['ai words', 'glimpse']
 /glimps/
 
 ## 释义
-- **名词**: 瞥见，短暂的视图，一瞥。例如: "I caught [a](/post/a/) [glimpse](/post/glimpse/) [of](/post/of/) [a](/post/a/) [deer](/post/deer/) [in](/post/in/) [the](/post/the/) woods."
-- **动词**: 迅速看一眼，瞥见。例如: "[She](/post/she/) glimpsed [at](/post/at/) [her](/post/her/) [watch](/post/watch/) [and](/post/and/) realized [she](/post/she/) was [late](/post/late/)."
+- **名词**: 瞥见，短暂的视图，一瞥。例如: "I caught [a](/zh/post/a/) [glimpse](/zh/post/glimpse/) [of](/zh/post/of/) [a](/zh/post/a/) [deer](/zh/post/deer/) [in](/zh/post/in/) [the](/zh/post/the/) woods."
+- **动词**: 迅速看一眼，瞥见。例如: "[She](/zh/post/she/) glimpsed [at](/zh/post/at/) [her](/zh/post/her/) [watch](/zh/post/watch/) [and](/zh/post/and/) realized [she](/zh/post/she/) was [late](/zh/post/late/)."
 
 ## 短语
-- "[catch](/post/catch/) [a](/post/a/) [glimpse](/post/glimpse/) [of](/post/of/)" 看到…的一瞬间。例如: "I [only](/post/only/) caught [a](/post/a/) [glimpse](/post/glimpse/) [of](/post/of/) [the](/post/the/) [suspect](/post/suspect/) [before](/post/before/) [he](/post/he/) disappeared."
-- "[take](/post/take/) [a](/post/a/) [glimpse](/post/glimpse/)" 简单查看，快速浏览。例如: "Let's [take](/post/take/) [a](/post/a/) [glimpse](/post/glimpse/) [at](/post/at/) [the](/post/the/) [new](/post/new/) [product](/post/product/) [design](/post/design/)."
+- "[catch](/zh/post/catch/) [a](/zh/post/a/) [glimpse](/zh/post/glimpse/) [of](/zh/post/of/)" 看到…的一瞬间。例如: "I [only](/zh/post/only/) caught [a](/zh/post/a/) [glimpse](/zh/post/glimpse/) [of](/zh/post/of/) [the](/zh/post/the/) [suspect](/zh/post/suspect/) [before](/zh/post/before/) [he](/zh/post/he/) disappeared."
+- "[take](/zh/post/take/) [a](/zh/post/a/) [glimpse](/zh/post/glimpse/)" 简单查看，快速浏览。例如: "Let's [take](/zh/post/take/) [a](/zh/post/a/) [glimpse](/zh/post/glimpse/) [at](/zh/post/at/) [the](/zh/post/the/) [new](/zh/post/new/) [product](/zh/post/product/) [design](/zh/post/design/)."
 
 ## 例句
-- 名词: "[From](/post/from/) [the](/post/the/) [window](/post/window/), I [could](/post/could/) [see](/post/see/) [a](/post/a/) [glimpse](/post/glimpse/) [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/)."
-- 动词: "[As](/post/as/) I passed [by](/post/by/), I glimpsed [a](/post/a/) [painting](/post/painting/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/)."
+- 名词: "[From](/zh/post/from/) [the](/zh/post/the/) [window](/zh/post/window/), I [could](/zh/post/could/) [see](/zh/post/see/) [a](/zh/post/a/) [glimpse](/zh/post/glimpse/) [of](/zh/post/of/) [the](/zh/post/the/) [ocean](/zh/post/ocean/)."
+- 动词: "[As](/zh/post/as/) I passed [by](/zh/post/by/), I glimpsed [a](/zh/post/a/) [painting](/zh/post/painting/) [on](/zh/post/on/) [the](/zh/post/the/) [wall](/zh/post/wall/)."
   
 ## 同义词
-- [glance](/post/glance/)
+- [glance](/zh/post/glance/)
 - peek
-- [sight](/post/sight/)
-- [quick](/post/quick/) [look](/post/look/)
-- [flash](/post/flash/)
+- [sight](/zh/post/sight/)
+- [quick](/zh/post/quick/) [look](/zh/post/look/)
+- [flash](/zh/post/flash/)

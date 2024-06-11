@@ -11,20 +11,20 @@ keywords = ['ai words', 'asleep']
 /əˈsliːp/
 
 ## 释义
-- **形容词**: 睡着的，处于睡眠状态的。例如: "[The](/post/the/) [baby](/post/baby/) fell [asleep](/post/asleep/) [while](/post/while/) listening [to](/post/to/) [the](/post/the/) lullaby."
-- **副词**: 睡着地，表示动作进行时的状态。例如: "[He](/post/he/) nodded [off](/post/off/) [asleep](/post/asleep/) [during](/post/during/) [the](/post/the/) [lecture](/post/lecture/)."
+- **形容词**: 睡着的，处于睡眠状态的。例如: "[The](/zh/post/the/) [baby](/zh/post/baby/) fell [asleep](/zh/post/asleep/) [while](/zh/post/while/) listening [to](/zh/post/to/) [the](/zh/post/the/) lullaby."
+- **副词**: 睡着地，表示动作进行时的状态。例如: "[He](/zh/post/he/) nodded [off](/zh/post/off/) [asleep](/zh/post/asleep/) [during](/zh/post/during/) [the](/zh/post/the/) [lecture](/zh/post/lecture/)."
 
 ## 短语
-- "[asleep](/post/asleep/) [at](/post/at/) [the](/post/the/) [wheel](/post/wheel/)" 意味着在应该警觉的时候打瞌睡，通常指驾驶时。
-- "[sound](/post/sound/) [asleep](/post/asleep/)" 形容睡得很沉。
+- "[asleep](/zh/post/asleep/) [at](/zh/post/at/) [the](/zh/post/the/) [wheel](/zh/post/wheel/)" 意味着在应该警觉的时候打瞌睡，通常指驾驶时。
+- "[sound](/zh/post/sound/) [asleep](/zh/post/asleep/)" 形容睡得很沉。
 
 ## 例句
-- 形容词: "Don't [make](/post/make/) [any](/post/any/) [noise](/post/noise/), [the](/post/the/) children are [asleep](/post/asleep/) [in](/post/in/) [the](/post/the/) [next](/post/next/) [room](/post/room/)."
-- 副词: "[She](/post/she/) was [so](/post/so/) [tired](/post/tired/) [that](/post/that/) [she](/post/she/) fell [asleep](/post/asleep/) [as](/post/as/) [soon](/post/soon/) [as](/post/as/) [her](/post/her/) [head](/post/head/) [hit](/post/hit/) [the](/post/the/) [pillow](/post/pillow/)."
+- 形容词: "Don't [make](/zh/post/make/) [any](/zh/post/any/) [noise](/zh/post/noise/), [the](/zh/post/the/) children are [asleep](/zh/post/asleep/) [in](/zh/post/in/) [the](/zh/post/the/) [next](/zh/post/next/) [room](/zh/post/room/)."
+- 副词: "[She](/zh/post/she/) was [so](/zh/post/so/) [tired](/zh/post/tired/) [that](/zh/post/that/) [she](/zh/post/she/) fell [asleep](/zh/post/asleep/) [as](/zh/post/as/) [soon](/zh/post/soon/) [as](/zh/post/as/) [her](/zh/post/her/) [head](/zh/post/head/) [hit](/zh/post/hit/) [the](/zh/post/the/) [pillow](/zh/post/pillow/)."
 
 ## 同义词
 - sleeping
 - dozing
 - slumbering
 - comatose
-- [unconscious](/post/unconscious/)
+- [unconscious](/zh/post/unconscious/)

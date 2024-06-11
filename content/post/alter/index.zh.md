@@ -12,20 +12,20 @@ keywords = ['ai words', 'alter']
 
 ## 释义
 - **动词**:
-  - 改变；更改。例如: " Altering [the](/post/the/) [design](/post/design/) [slightly](/post/slightly/) [could](/post/could/) [improve](/post/improve/) [its](/post/its/) functionality."
-  - 修改；修正。例如: "[She](/post/she/) altered [her](/post/her/) [dress](/post/dress/) [to](/post/to/) [fit](/post/fit/) [her](/post/her/) [better](/post/better/)."
+  - 改变；更改。例如: " Altering [the](/zh/post/the/) [design](/zh/post/design/) [slightly](/zh/post/slightly/) [could](/zh/post/could/) [improve](/zh/post/improve/) [its](/zh/post/its/) functionality."
+  - 修改；修正。例如: "[She](/zh/post/she/) altered [her](/zh/post/her/) [dress](/zh/post/dress/) [to](/zh/post/to/) [fit](/zh/post/fit/) [her](/zh/post/her/) [better](/zh/post/better/)."
 
 ## 短语
-- "[Alter](/post/alter/) ego" 指的是一个人的另一个自我或不同的身份。
-- "[Alter](/post/alter/) [the](/post/the/) [course](/post/course/)" 意味着改变方向或进程。
+- "[Alter](/zh/post/alter/) ego" 指的是一个人的另一个自我或不同的身份。
+- "[Alter](/zh/post/alter/) [the](/zh/post/the/) [course](/zh/post/course/)" 意味着改变方向或进程。
 
 ## 例句
-- 动词: "[The](/post/the/) architect suggested altering [the](/post/the/) plans [for](/post/for/) [the](/post/the/) [new](/post/new/) [building](/post/building/)."
-- 动词: "[He](/post/he/) had [to](/post/to/) [alter](/post/alter/) [his](/post/his/) diet [after](/post/after/) [being](/post/being/) diagnosed [with](/post/with/) diabetes."
+- 动词: "[The](/zh/post/the/) architect suggested altering [the](/zh/post/the/) plans [for](/zh/post/for/) [the](/zh/post/the/) [new](/zh/post/new/) [building](/zh/post/building/)."
+- 动词: "[He](/zh/post/he/) had [to](/zh/post/to/) [alter](/zh/post/alter/) [his](/zh/post/his/) diet [after](/zh/post/after/) [being](/zh/post/being/) diagnosed [with](/zh/post/with/) diabetes."
 
 ## 同义词
-- [Change](/post/change/)
-- [Modify](/post/modify/)
-- [Transform](/post/transform/)
-- [Revise](/post/revise/)
-- [Adjust](/post/adjust/)
+- [Change](/zh/post/change/)
+- [Modify](/zh/post/modify/)
+- [Transform](/zh/post/transform/)
+- [Revise](/zh/post/revise/)
+- [Adjust](/zh/post/adjust/)

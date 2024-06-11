@@ -7,42 +7,42 @@ description = '[klɔ(ː)θ] n.布；衣料；桌布'
 keywords = ['ai words', 'cloth']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kləθ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Cloth](/en/post/cloth/)**: [A](/en/post/a/) [flexible](/en/post/flexible/) [material](/en/post/material/) typically made [from](/en/post/from/) fibers, [such](/en/post/such/) [as](/en/post/as/) [cotton](/en/post/cotton/), [wool](/en/post/wool/), [or](/en/post/or/) [silk](/en/post/silk/), [used](/en/post/used/) [for](/en/post/for/) [clothing](/en/post/clothing/), [household](/en/post/household/) linens, [or](/en/post/or/) upholstery.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [shop](/en/post/shop/) sells [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) fabrics, including [silk](/en/post/silk/) [and](/en/post/and/) [cotton](/en/post/cotton/) [cloth](/en/post/cloth/)."
-2. **[Clothing](/en/post/clothing/)**: [The](/en/post/the/) garments worn [on](/en/post/on/) [the](/en/post/the/) [body](/en/post/body/), collectively.
-   - [Example](/en/post/example/): "[She](/en/post/she/) dressed [up](/en/post/up/) [in](/en/post/in/) [her](/en/post/her/) finest [cloth](/en/post/cloth/) [for](/en/post/for/) [the](/en/post/the/) [wedding](/en/post/wedding/)."
+### [Noun](/post/noun/)
+1. **[Cloth](/post/cloth/)**: [A](/post/a/) [flexible](/post/flexible/) [material](/post/material/) typically made [from](/post/from/) fibers, [such](/post/such/) [as](/post/as/) [cotton](/post/cotton/), [wool](/post/wool/), [or](/post/or/) [silk](/post/silk/), [used](/post/used/) [for](/post/for/) [clothing](/post/clothing/), [household](/post/household/) linens, [or](/post/or/) upholstery.
+   - [Example](/post/example/): "[The](/post/the/) [shop](/post/shop/) sells [a](/post/a/) [variety](/post/variety/) [of](/post/of/) fabrics, including [silk](/post/silk/) [and](/post/and/) [cotton](/post/cotton/) [cloth](/post/cloth/)."
+2. **[Clothing](/post/clothing/)**: [The](/post/the/) garments worn [on](/post/on/) [the](/post/the/) [body](/post/body/), collectively.
+   - [Example](/post/example/): "[She](/post/she/) dressed [up](/post/up/) [in](/post/in/) [her](/post/her/) finest [cloth](/post/cloth/) [for](/post/for/) [the](/post/the/) [wedding](/post/wedding/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [cover](/en/post/cover/) [or](/en/post/or/) [wrap](/en/post/wrap/) [something](/en/post/something/) [with](/en/post/with/) [cloth](/en/post/cloth/) [or](/en/post/or/) [fabric](/en/post/fabric/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) clothed [the](/en/post/the/) doll [in](/en/post/in/) [a](/en/post/a/) [pretty](/en/post/pretty/) [dress](/en/post/dress/)."
-2. [To](/en/post/to/) [provide](/en/post/provide/) [or](/en/post/or/) [furnish](/en/post/furnish/) [with](/en/post/with/) [clothing](/en/post/clothing/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [charity](/en/post/charity/) helps [to](/en/post/to/) [clothe](/en/post/clothe/) homeless children."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [cover](/post/cover/) [or](/post/or/) [wrap](/post/wrap/) [something](/post/something/) [with](/post/with/) [cloth](/post/cloth/) [or](/post/or/) [fabric](/post/fabric/).
+   - [Example](/post/example/): "[She](/post/she/) clothed [the](/post/the/) doll [in](/post/in/) [a](/post/a/) [pretty](/post/pretty/) [dress](/post/dress/)."
+2. [To](/post/to/) [provide](/post/provide/) [or](/post/or/) [furnish](/post/furnish/) [with](/post/with/) [clothing](/post/clothing/).
+   - [Example](/post/example/): "[The](/post/the/) [charity](/post/charity/) helps [to](/post/to/) [clothe](/post/clothe/) homeless children."
 
 ## Phrases
-- "[Wear](/en/post/wear/) [cloth](/en/post/cloth/)" [or](/en/post/or/) "[be](/en/post/be/) clothed [in](/en/post/in/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) dressed.
-- "[Cloth](/en/post/cloth/) [material](/en/post/material/)" refers [to](/en/post/to/) [the](/en/post/the/) [textile](/en/post/textile/) [itself](/en/post/itself/).
-- "[A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [cloth](/en/post/cloth/)" is [a](/en/post/a/) [single](/en/post/single/) folded [or](/en/post/or/) unfolded [piece](/en/post/piece/) [of](/en/post/of/) [fabric](/en/post/fabric/).
+- "[Wear](/post/wear/) [cloth](/post/cloth/)" [or](/post/or/) "[be](/post/be/) clothed [in](/post/in/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) dressed.
+- "[Cloth](/post/cloth/) [material](/post/material/)" refers [to](/post/to/) [the](/post/the/) [textile](/post/textile/) [itself](/post/itself/).
+- "[A](/post/a/) [piece](/post/piece/) [of](/post/of/) [cloth](/post/cloth/)" is [a](/post/a/) [single](/post/single/) folded [or](/post/or/) unfolded [piece](/post/piece/) [of](/post/of/) [fabric](/post/fabric/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) ironed [a](/en/post/a/) [clean](/en/post/clean/) [cloth](/en/post/cloth/) [to](/en/post/to/) [use](/en/post/use/) [for](/en/post/for/) cleaning [the](/en/post/the/) windows."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [tailor](/en/post/tailor/) [used](/en/post/used/) [the](/en/post/the/) finest [silk](/en/post/silk/) [cloth](/en/post/cloth/) [to](/en/post/to/) [make](/en/post/make/) [the](/en/post/the/) bride's [wedding](/en/post/wedding/) [gown](/en/post/gown/)."
-- **Transitive [verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [cloth](/en/post/cloth/) [the](/en/post/the/) [baby](/en/post/baby/) [with](/en/post/with/) [a](/en/post/a/) onesie [before](/en/post/before/) [we](/en/post/we/) [leave](/en/post/leave/) [the](/en/post/the/) [house](/en/post/house/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) ironed [a](/post/a/) [clean](/post/clean/) [cloth](/post/cloth/) [to](/post/to/) [use](/post/use/) [for](/post/for/) cleaning [the](/post/the/) windows."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [tailor](/post/tailor/) [used](/post/used/) [the](/post/the/) finest [silk](/post/silk/) [cloth](/post/cloth/) [to](/post/to/) [make](/post/make/) [the](/post/the/) bride's [wedding](/post/wedding/) [gown](/post/gown/)."
+- **Transitive [verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [cloth](/post/cloth/) [the](/post/the/) [baby](/post/baby/) [with](/post/with/) [a](/post/a/) onesie [before](/post/before/) [we](/post/we/) [leave](/post/leave/) [the](/post/the/) [house](/post/house/)."
 
 ## Synonyms
-- [Fabric](/en/post/fabric/)
-- [Material](/en/post/material/)
-- [Textile](/en/post/textile/)
-- [Linen](/en/post/linen/)
+- [Fabric](/post/fabric/)
+- [Material](/post/material/)
+- [Textile](/post/textile/)
+- [Linen](/post/linen/)
 - Covering
 - Apparel
 - Garment
-- [Dress](/en/post/dress/)
+- [Dress](/post/dress/)
 
 ## Antonyms
-- [Bare](/en/post/bare/) ([as](/en/post/as/) [in](/en/post/in/) "[bare](/en/post/bare/) [skin](/en/post/skin/)")
-- Uncovered ([as](/en/post/as/) [in](/en/post/in/) "uncovered [furniture](/en/post/furniture/)")
+- [Bare](/post/bare/) ([as](/post/as/) [in](/post/in/) "[bare](/post/bare/) [skin](/post/skin/)")
+- Uncovered ([as](/post/as/) [in](/post/in/) "uncovered [furniture](/post/furniture/)")

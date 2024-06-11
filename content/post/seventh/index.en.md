@@ -7,32 +7,32 @@ description = '[ˈsevənθ] num.第七；七分之一'
 keywords = ['ai words', 'seventh']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sevənth/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [number](/en/post/number/) [that](/en/post/that/) comes [after](/en/post/after/) [the](/en/post/the/) [sixth](/en/post/sixth/) [and](/en/post/and/) [before](/en/post/before/) [the](/en/post/the/) [eighth](/en/post/eighth/) [in](/en/post/in/) [the](/en/post/the/) counting [sequence](/en/post/sequence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [seventh](/en/post/seventh/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [week](/en/post/week/) is Saturday."
-- **Numeral**: Refers [to](/en/post/to/) [the](/en/post/the/) [position](/en/post/position/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [when](/en/post/when/) counting [by](/en/post/by/) ones, [equivalent](/en/post/equivalent/) [to](/en/post/to/) 7. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [seventh](/en/post/seventh/) [book](/en/post/book/) [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/)."
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [number](/post/number/) [that](/post/that/) comes [after](/post/after/) [the](/post/the/) [sixth](/post/sixth/) [and](/post/and/) [before](/post/before/) [the](/post/the/) [eighth](/post/eighth/) [in](/post/in/) [the](/post/the/) counting [sequence](/post/sequence/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [seventh](/post/seventh/) [day](/post/day/) [of](/post/of/) [the](/post/the/) [week](/post/week/) is Saturday."
+- **Numeral**: Refers [to](/post/to/) [the](/post/the/) [position](/post/position/) [in](/post/in/) [a](/post/a/) [series](/post/series/) [when](/post/when/) counting [by](/post/by/) ones, [equivalent](/post/equivalent/) [to](/post/to/) 7. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [seventh](/post/seventh/) [book](/post/book/) [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/)."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [seventh](/en/post/seventh/) [grade](/en/post/grade/)" indicates [a](/en/post/a/) [specific](/en/post/specific/) [level](/en/post/level/) [of](/en/post/of/) [education](/en/post/education/).
-- "[Seventh](/en/post/seventh/) [place](/en/post/place/)" signifies [the](/en/post/the/) ranking [after](/en/post/after/) [six](/en/post/six/) others [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/).
-- "[Seventh](/en/post/seventh/) chord" [in](/en/post/in/) [music](/en/post/music/) refers [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [type](/en/post/type/) [of](/en/post/of/) chord progression.
+- "[In](/post/in/) [the](/post/the/) [seventh](/post/seventh/) [grade](/post/grade/)" indicates [a](/post/a/) [specific](/post/specific/) [level](/post/level/) [of](/post/of/) [education](/post/education/).
+- "[Seventh](/post/seventh/) [place](/post/place/)" signifies [the](/post/the/) ranking [after](/post/after/) [six](/post/six/) others [in](/post/in/) [a](/post/a/) [competition](/post/competition/).
+- "[Seventh](/post/seventh/) chord" [in](/post/in/) [music](/post/music/) refers [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [type](/post/type/) [of](/post/of/) chord progression.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[After](/en/post/after/) [six](/en/post/six/) days [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [they](/en/post/they/) [finally](/en/post/finally/) reached [the](/en/post/the/) [seventh](/en/post/seventh/) [level](/en/post/level/) [of](/en/post/of/) [the](/en/post/the/) [project](/en/post/project/)."
-- **Numeral**: "[The](/en/post/the/) [library](/en/post/library/) has [a](/en/post/a/) [special](/en/post/special/) [collection](/en/post/collection/) [of](/en/post/of/) [rare](/en/post/rare/) books [on](/en/post/on/) [the](/en/post/the/) [seventh](/en/post/seventh/) [floor](/en/post/floor/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[After](/post/after/) [six](/post/six/) days [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [they](/post/they/) [finally](/post/finally/) reached [the](/post/the/) [seventh](/post/seventh/) [level](/post/level/) [of](/post/of/) [the](/post/the/) [project](/post/project/)."
+- **Numeral**: "[The](/post/the/) [library](/post/library/) has [a](/post/a/) [special](/post/special/) [collection](/post/collection/) [of](/post/of/) [rare](/post/rare/) books [on](/post/on/) [the](/post/the/) [seventh](/post/seventh/) [floor](/post/floor/)."
 
 ## Synonyms
-- [Sixth](/en/post/sixth/)
+- [Sixth](/post/sixth/)
 - Sixthly
-- Numeral [seven](/en/post/seven/)
-- [Sequence](/en/post/sequence/) [number](/en/post/number/) 7
-- Seventhly ([as](/en/post/as/) an [adverb](/en/post/adverb/))
+- Numeral [seven](/post/seven/)
+- [Sequence](/post/sequence/) [number](/post/number/) 7
+- Seventhly ([as](/post/as/) an [adverb](/post/adverb/))
 
 ## Antonyms
-- [First](/en/post/first/)
-- [Second](/en/post/second/)
-- [Third](/en/post/third/)
-- [Fourth](/en/post/fourth/)
-- [Eighth](/en/post/eighth/)
+- [First](/post/first/)
+- [Second](/post/second/)
+- [Third](/post/third/)
+- [Fourth](/post/fourth/)
+- [Eighth](/post/eighth/)

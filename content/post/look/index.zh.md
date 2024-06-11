@@ -11,23 +11,23 @@ keywords = ['ai words', 'look']
 /luːk/
 
 ## 释义
-- **动词**: 看，查看，注视。例如: "[He](/post/he/) looked [at](/post/at/) [the](/post/the/) [painting](/post/painting/) carefully."
-- **名词**: 眼神，表情。例如: "[She](/post/she/) gave [him](/post/him/) [a](/post/a/) [curious](/post/curious/) [look](/post/look/)."
-- **不及物动词**: 出现，显得。例如: "[The](/post/the/) [sun](/post/sun/) began [to](/post/to/) [look](/post/look/) [through](/post/through/) [the](/post/the/) clouds."
+- **动词**: 看，查看，注视。例如: "[He](/zh/post/he/) looked [at](/zh/post/at/) [the](/zh/post/the/) [painting](/zh/post/painting/) carefully."
+- **名词**: 眼神，表情。例如: "[She](/zh/post/she/) gave [him](/zh/post/him/) [a](/zh/post/a/) [curious](/zh/post/curious/) [look](/zh/post/look/)."
+- **不及物动词**: 出现，显得。例如: "[The](/zh/post/the/) [sun](/zh/post/sun/) began [to](/zh/post/to/) [look](/zh/post/look/) [through](/zh/post/through/) [the](/zh/post/the/) clouds."
 
 ## 短语
-- "[Take](/post/take/) [a](/post/a/) [look](/post/look/)" 意为看一看，检查一下。例如: "[Take](/post/take/) [a](/post/a/) [look](/post/look/) [at](/post/at/) [this](/post/this/) [document](/post/document/) [and](/post/and/) [tell](/post/tell/) [me](/post/me/) [what](/post/what/) [you](/post/you/) [think](/post/think/)."
-- "[Give](/post/give/) [someone](/post/someone/) [a](/post/a/) [look](/post/look/)" 指看向某人。例如: "[She](/post/she/) gave [him](/post/him/) [a](/post/a/) disapproving [look](/post/look/)."
-- "[Look](/post/look/) [out](/post/out/)" 用于警告或提醒注意。例如: "[Look](/post/look/) [out](/post/out/)! There's [a](/post/a/) [car](/post/car/) coming."
+- "[Take](/zh/post/take/) [a](/zh/post/a/) [look](/zh/post/look/)" 意为看一看，检查一下。例如: "[Take](/zh/post/take/) [a](/zh/post/a/) [look](/zh/post/look/) [at](/zh/post/at/) [this](/zh/post/this/) [document](/zh/post/document/) [and](/zh/post/and/) [tell](/zh/post/tell/) [me](/zh/post/me/) [what](/zh/post/what/) [you](/zh/post/you/) [think](/zh/post/think/)."
+- "[Give](/zh/post/give/) [someone](/zh/post/someone/) [a](/zh/post/a/) [look](/zh/post/look/)" 指看向某人。例如: "[She](/zh/post/she/) gave [him](/zh/post/him/) [a](/zh/post/a/) disapproving [look](/zh/post/look/)."
+- "[Look](/zh/post/look/) [out](/zh/post/out/)" 用于警告或提醒注意。例如: "[Look](/zh/post/look/) [out](/zh/post/out/)! There's [a](/zh/post/a/) [car](/zh/post/car/) coming."
 
 ## 例句
-- 动词: "[She](/post/she/) looked [up](/post/up/) [from](/post/from/) [her](/post/her/) [book](/post/book/) [when](/post/when/) I entered [the](/post/the/) [room](/post/room/)."
-- 名词: "[His](/post/his/) worried [look](/post/look/) made [me](/post/me/) concerned [about](/post/about/) [the](/post/the/) [situation](/post/situation/)."
-- 不及物动词: "[The](/post/the/) [sky](/post/sky/) looks [like](/post/like/) [it](/post/it/) [might](/post/might/) [rain](/post/rain/) [later](/post/later/)."
+- 动词: "[She](/zh/post/she/) looked [up](/zh/post/up/) [from](/zh/post/from/) [her](/zh/post/her/) [book](/zh/post/book/) [when](/zh/post/when/) I entered [the](/zh/post/the/) [room](/zh/post/room/)."
+- 名词: "[His](/zh/post/his/) worried [look](/zh/post/look/) made [me](/zh/post/me/) concerned [about](/zh/post/about/) [the](/zh/post/the/) [situation](/zh/post/situation/)."
+- 不及物动词: "[The](/zh/post/the/) [sky](/zh/post/sky/) looks [like](/zh/post/like/) [it](/zh/post/it/) [might](/zh/post/might/) [rain](/zh/post/rain/) [later](/zh/post/later/)."
 
 ## 同义词
-- [See](/post/see/)
-- [Glance](/post/glance/)
-- [Observe](/post/observe/)
-- [Watch](/post/watch/)
-- [Glimpse](/post/glimpse/)
+- [See](/zh/post/see/)
+- [Glance](/zh/post/glance/)
+- [Observe](/zh/post/observe/)
+- [Watch](/zh/post/watch/)
+- [Glimpse](/zh/post/glimpse/)

@@ -11,16 +11,16 @@ keywords = ['ai words', 'scissors']
 /ˈsɪzərz/
 
 ## 释义
-- **名词**: 一种有两片刀刃并可交叉移动以切割纸张、布料或其他材料的工具。例如: "I [need](/post/need/) [a](/post/a/) [pair](/post/pair/) [of](/post/of/) [scissors](/post/scissors/) [to](/post/to/) [cut](/post/cut/) [the](/post/the/) [paper](/post/paper/)."
-- **复数名词**: 特指剪刀这一类物品，不使用单数形式。例如: "[Scissors](/post/scissors/) are [essential](/post/essential/) [for](/post/for/) crafting."
+- **名词**: 一种有两片刀刃并可交叉移动以切割纸张、布料或其他材料的工具。例如: "I [need](/zh/post/need/) [a](/zh/post/a/) [pair](/zh/post/pair/) [of](/zh/post/of/) [scissors](/zh/post/scissors/) [to](/zh/post/to/) [cut](/zh/post/cut/) [the](/zh/post/the/) [paper](/zh/post/paper/)."
+- **复数名词**: 特指剪刀这一类物品，不使用单数形式。例如: "[Scissors](/zh/post/scissors/) are [essential](/zh/post/essential/) [for](/zh/post/for/) crafting."
 
 ## 短语
-- "[Craft](/post/craft/) [scissors](/post/scissors/)" 专门用于手工艺的剪刀，通常有更精细的切割能力。
-- "[Safety](/post/safety/) [scissors](/post/scissors/)" 儿童安全剪刀，刀刃较钝，防止意外伤害。
+- "[Craft](/zh/post/craft/) [scissors](/zh/post/scissors/)" 专门用于手工艺的剪刀，通常有更精细的切割能力。
+- "[Safety](/zh/post/safety/) [scissors](/zh/post/scissors/)" 儿童安全剪刀，刀刃较钝，防止意外伤害。
 
 ## 例句
-- "[Pass](/post/pass/) [me](/post/me/) [the](/post/the/) [scissors](/post/scissors/) [from](/post/from/) [the](/post/the/) [desk](/post/desk/), [please](/post/please/)."
-- "[She](/post/she/) [used](/post/used/) [sharp](/post/sharp/) [scissors](/post/scissors/) [to](/post/to/) [trim](/post/trim/) [the](/post/the/) edges [of](/post/of/) [the](/post/the/) [fabric](/post/fabric/)."
+- "[Pass](/zh/post/pass/) [me](/zh/post/me/) [the](/zh/post/the/) [scissors](/zh/post/scissors/) [from](/zh/post/from/) [the](/zh/post/the/) [desk](/zh/post/desk/), [please](/zh/post/please/)."
+- "[She](/zh/post/she/) [used](/zh/post/used/) [sharp](/zh/post/sharp/) [scissors](/zh/post/scissors/) [to](/zh/post/to/) [trim](/zh/post/trim/) [the](/zh/post/the/) edges [of](/zh/post/of/) [the](/zh/post/the/) [fabric](/zh/post/fabric/)."
 
 ## 同义词
 - Shears

@@ -7,30 +7,30 @@ description = '[ˈhəuplis] a.没有希望的，绝望的'
 keywords = ['ai words', 'hopeless']
 +++
 
-## [Word](/en/post/word/): [Hopeless](/en/post/hopeless/)
+## [Word](/post/word/): [Hopeless](/post/hopeless/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhoʊpləs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Without](/en/post/without/) [hope](/en/post/hope/); having [no](/en/post/no/) [expectation](/en/post/expectation/) [of](/en/post/of/) [success](/en/post/success/) [or](/en/post/or/) [improvement](/en/post/improvement/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [situation](/en/post/situation/) seems [hopeless](/en/post/hopeless/), [but](/en/post/but/) [we](/en/post/we/) mustn't [give](/en/post/give/) [up](/en/post/up/)."
+- **[Adjective](/post/adjective/)**: [Without](/post/without/) [hope](/post/hope/); having [no](/post/no/) [expectation](/post/expectation/) [of](/post/of/) [success](/post/success/) [or](/post/or/) [improvement](/post/improvement/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [situation](/post/situation/) seems [hopeless](/post/hopeless/), [but](/post/but/) [we](/post/we/) mustn't [give](/post/give/) [up](/post/up/)."
 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): [After](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/) destroyed [their](/en/post/their/) [home](/en/post/home/), [they](/en/post/they/) felt utterly [hopeless](/en/post/hopeless/) [about](/en/post/about/) rebuilding [it](/en/post/it/).
+  > [Example](/post/example/) [Sentence](/post/sentence/): [After](/post/after/) [the](/post/the/) [storm](/post/storm/) destroyed [their](/post/their/) [home](/post/home/), [they](/post/they/) felt utterly [hopeless](/post/hopeless/) [about](/post/about/) rebuilding [it](/post/it/).
 
-- **Adj (informal)**: [So](/en/post/so/) [bad](/en/post/bad/) [or](/en/post/or/) [difficult](/en/post/difficult/) [that](/en/post/that/) [nothing](/en/post/nothing/) [can](/en/post/can/) [be](/en/post/be/) done [to](/en/post/to/) [improve](/en/post/improve/) [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [performance](/en/post/performance/) was [hopeless](/en/post/hopeless/); [he](/en/post/he/) [clearly](/en/post/clearly/) hadn't practiced [enough](/en/post/enough/)."
+- **Adj (informal)**: [So](/post/so/) [bad](/post/bad/) [or](/post/or/) [difficult](/post/difficult/) [that](/post/that/) [nothing](/post/nothing/) [can](/post/can/) [be](/post/be/) done [to](/post/to/) [improve](/post/improve/) [it](/post/it/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [performance](/post/performance/) was [hopeless](/post/hopeless/); [he](/post/he/) [clearly](/post/clearly/) hadn't practiced [enough](/post/enough/)."
 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): [The](/en/post/the/) team's chances [of](/en/post/of/) winning were [hopeless](/en/post/hopeless/) [after](/en/post/after/) losing [their](/en/post/their/) [star](/en/post/star/) [player](/en/post/player/).
+  > [Example](/post/example/) [Sentence](/post/sentence/): [The](/post/the/) team's chances [of](/post/of/) winning were [hopeless](/post/hopeless/) [after](/post/after/) losing [their](/post/their/) [star](/post/star/) [player](/post/player/).
 
 ## Phrases
-- "Hopelessly lost": Describes [someone](/en/post/someone/) [who](/en/post/who/) is [so](/en/post/so/) disoriented [that](/en/post/that/) [they](/en/post/they/) cannot [find](/en/post/find/) [their](/en/post/their/) [way](/en/post/way/) [back](/en/post/back/).
-- "Hopelessly [in](/en/post/in/) [love](/en/post/love/)": Expresses [strong](/en/post/strong/) [affection](/en/post/affection/) towards [someone](/en/post/someone/) [with](/en/post/with/) [little](/en/post/little/) [chance](/en/post/chance/) [of](/en/post/of/) reciprocation [or](/en/post/or/) [a](/en/post/a/) [successful](/en/post/successful/) [outcome](/en/post/outcome/).
+- "Hopelessly lost": Describes [someone](/post/someone/) [who](/post/who/) is [so](/post/so/) disoriented [that](/post/that/) [they](/post/they/) cannot [find](/post/find/) [their](/post/their/) [way](/post/way/) [back](/post/back/).
+- "Hopelessly [in](/post/in/) [love](/post/love/)": Expresses [strong](/post/strong/) [affection](/post/affection/) towards [someone](/post/someone/) [with](/post/with/) [little](/post/little/) [chance](/post/chance/) [of](/post/of/) reciprocation [or](/post/or/) [a](/post/a/) [successful](/post/successful/) [outcome](/post/outcome/).
   
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) patient's [condition](/en/post/condition/) had [become](/en/post/become/) [hopeless](/en/post/hopeless/), [and](/en/post/and/) [the](/en/post/the/) doctors decided [to](/en/post/to/) [focus](/en/post/focus/) [on](/en/post/on/) palliative [care](/en/post/care/)."
-- **Informal [Adjective](/en/post/adjective/)**: "[Their](/en/post/their/) attempts [to](/en/post/to/) [fix](/en/post/fix/) [the](/en/post/the/) [old](/en/post/old/) [car](/en/post/car/) were [hopeless](/en/post/hopeless/); [it](/en/post/it/) was [beyond](/en/post/beyond/) [repair](/en/post/repair/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) patient's [condition](/post/condition/) had [become](/post/become/) [hopeless](/post/hopeless/), [and](/post/and/) [the](/post/the/) doctors decided [to](/post/to/) [focus](/post/focus/) [on](/post/on/) palliative [care](/post/care/)."
+- **Informal [Adjective](/post/adjective/)**: "[Their](/post/their/) attempts [to](/post/to/) [fix](/post/fix/) [the](/post/the/) [old](/post/old/) [car](/post/car/) were [hopeless](/post/hopeless/); [it](/post/it/) was [beyond](/post/beyond/) [repair](/post/repair/)."
 
 ## Synonyms
-- [Desperate](/en/post/desperate/)
+- [Desperate](/post/desperate/)
 - Futile
 - Bleak
 - Dire
@@ -38,4 +38,4 @@ keywords = ['ai words', 'hopeless']
 - Unsalvageable
 - Disheartening
 - Discouraging
-- [In](/en/post/in/) [despair](/en/post/despair/)
+- [In](/post/in/) [despair](/post/despair/)

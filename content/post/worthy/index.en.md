@@ -7,31 +7,31 @@ description = '[ˈwəːði] a.有价值的；值得的'
 keywords = ['ai words', 'worthy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwɜːði/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **[Worthy](/en/post/worthy/)** describes [something](/en/post/something/) [that](/en/post/that/) has [merit](/en/post/merit/), [value](/en/post/value/), [or](/en/post/or/) deserves [respect](/en/post/respect/) [or](/en/post/or/) [consideration](/en/post/consideration/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [people](/en/post/people/), achievements, [or](/en/post/or/) qualities.
+### [Adjective](/post/adjective/)
+- **[Worthy](/post/worthy/)** describes [something](/post/something/) [that](/post/that/) has [merit](/post/merit/), [value](/post/value/), [or](/post/or/) deserves [respect](/post/respect/) [or](/post/or/) [consideration](/post/consideration/). [It](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [people](/post/people/), achievements, [or](/post/or/) qualities.
 
-### [Noun](/en/post/noun/) ([rare](/en/post/rare/))
-- [In](/en/post/in/) [some](/en/post/some/) cases, "worthiness" is [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), referring [to](/en/post/to/) [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [worthy](/en/post/worthy/) [or](/en/post/or/) deserving.
+### [Noun](/post/noun/) ([rare](/post/rare/))
+- [In](/post/in/) [some](/post/some/) cases, "worthiness" is [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/), referring [to](/post/to/) [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [worthy](/post/worthy/) [or](/post/or/) deserving.
 
 ## Phrases
-- "[Be](/en/post/be/) [worthy](/en/post/worthy/) [of](/en/post/of/)" implies deserving [or](/en/post/or/) meriting [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [praise](/en/post/praise/) [or](/en/post/or/) [recognition](/en/post/recognition/).
-- "[A](/en/post/a/) [worthy](/en/post/worthy/) [opponent](/en/post/opponent/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is [strong](/en/post/strong/) [or](/en/post/or/) [skilled](/en/post/skilled/) [enough](/en/post/enough/) [to](/en/post/to/) [provide](/en/post/provide/) [a](/en/post/a/) [good](/en/post/good/) [challenge](/en/post/challenge/).
-- "[Worthy](/en/post/worthy/) [cause](/en/post/cause/)" denotes [a](/en/post/a/) [significant](/en/post/significant/) [or](/en/post/or/) justifiable [reason](/en/post/reason/) [for](/en/post/for/) [action](/en/post/action/).
+- "[Be](/post/be/) [worthy](/post/worthy/) [of](/post/of/)" implies deserving [or](/post/or/) meriting [something](/post/something/), [such](/post/such/) [as](/post/as/) [praise](/post/praise/) [or](/post/or/) [recognition](/post/recognition/).
+- "[A](/post/a/) [worthy](/post/worthy/) [opponent](/post/opponent/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is [strong](/post/strong/) [or](/post/or/) [skilled](/post/skilled/) [enough](/post/enough/) [to](/post/to/) [provide](/post/provide/) [a](/post/a/) [good](/post/good/) [challenge](/post/challenge/).
+- "[Worthy](/post/worthy/) [cause](/post/cause/)" denotes [a](/post/a/) [significant](/post/significant/) [or](/post/or/) justifiable [reason](/post/reason/) [for](/post/for/) [action](/post/action/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) book's themes were profound [and](/en/post/and/) [the](/en/post/the/) characters felt [truly](/en/post/truly/) [worthy](/en/post/worthy/) [of](/en/post/of/) [our](/en/post/our/) empathy."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) dedication [to](/en/post/to/) [the](/en/post/the/) [charity](/en/post/charity/) demonstrated [her](/en/post/her/) unwavering [sense](/en/post/sense/) [of](/en/post/of/) worthiness."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) was chosen [for](/en/post/for/) [the](/en/post/the/) promotion [because](/en/post/because/) [of](/en/post/of/) [his](/en/post/his/) proven [track](/en/post/track/) [record](/en/post/record/) [of](/en/post/of/) [being](/en/post/being/) [a](/en/post/a/) [worthy](/en/post/worthy/) [leader](/en/post/leader/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) book's themes were profound [and](/post/and/) [the](/post/the/) characters felt [truly](/post/truly/) [worthy](/post/worthy/) [of](/post/of/) [our](/post/our/) empathy."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) dedication [to](/post/to/) [the](/post/the/) [charity](/post/charity/) demonstrated [her](/post/her/) unwavering [sense](/post/sense/) [of](/post/of/) worthiness."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) was chosen [for](/post/for/) [the](/post/the/) promotion [because](/post/because/) [of](/post/of/) [his](/post/his/) proven [track](/post/track/) [record](/post/record/) [of](/post/of/) [being](/post/being/) [a](/post/a/) [worthy](/post/worthy/) [leader](/post/leader/)."
 
 ## Synonyms
 - Deserving
 - Respectable
 - Esteemed
-- [Valuable](/en/post/valuable/)
+- [Valuable](/post/valuable/)
 - Creditable
 - Meritorious
 
@@ -40,4 +40,4 @@ keywords = ['ai words', 'worthy']
 - Disreputable
 - Indeserving
 - Insignificant
-- Unworthy [of](/en/post/of/) [consideration](/en/post/consideration/)
+- Unworthy [of](/post/of/) [consideration](/post/consideration/)

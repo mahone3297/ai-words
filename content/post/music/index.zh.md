@@ -11,20 +11,20 @@ keywords = ['ai words', 'music']
 /mjuˈzɪk/
 
 ## 释义
-- **名词**: 艺术形式，通过声音组织成有美感和表达力的组合。例如: "[She](/post/she/) loves listening [to](/post/to/) [classical](/post/classical/) [music](/post/music/)."
-- **名词**: 音乐作品，歌曲或乐曲。例如: "[The](/post/the/) [new](/post/new/) album [by](/post/by/) [the](/post/the/) [band](/post/band/) has [some](/post/some/) [great](/post/great/) [music](/post/music/)."
+- **名词**: 艺术形式，通过声音组织成有美感和表达力的组合。例如: "[She](/zh/post/she/) loves listening [to](/zh/post/to/) [classical](/zh/post/classical/) [music](/zh/post/music/)."
+- **名词**: 音乐作品，歌曲或乐曲。例如: "[The](/zh/post/the/) [new](/zh/post/new/) album [by](/zh/post/by/) [the](/zh/post/the/) [band](/zh/post/band/) has [some](/zh/post/some/) [great](/zh/post/great/) [music](/zh/post/music/)."
 
 ## 短语
-- "背景音乐" refers [to](/post/to/) [music](/post/music/) played [in](/post/in/) [the](/post/the/) [background](/post/background/) [of](/post/of/) [a](/post/a/) [film](/post/film/), [show](/post/show/), [or](/post/or/) [event](/post/event/).
-- "流行音乐" [means](/post/means/) [music](/post/music/) [that](/post/that/) is [popular](/post/popular/) [among](/post/among/) [a](/post/a/) [wide](/post/wide/) [audience](/post/audience/).
+- "背景音乐" refers [to](/zh/post/to/) [music](/zh/post/music/) played [in](/zh/post/in/) [the](/zh/post/the/) [background](/zh/post/background/) [of](/zh/post/of/) [a](/zh/post/a/) [film](/zh/post/film/), [show](/zh/post/show/), [or](/zh/post/or/) [event](/zh/post/event/).
+- "流行音乐" [means](/zh/post/means/) [music](/zh/post/music/) [that](/zh/post/that/) is [popular](/zh/post/popular/) [among](/zh/post/among/) [a](/zh/post/a/) [wide](/zh/post/wide/) [audience](/zh/post/audience/).
 
 ## 例句
-- 名词: "[The](/post/the/) soothing [music](/post/music/) helped [him](/post/him/) [relax](/post/relax/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/)."
-- 名词: "[He](/post/he/) plays [music](/post/music/) [from](/post/from/) [various](/post/various/) genres, including [jazz](/post/jazz/) [and](/post/and/) [rock](/post/rock/)."
+- 名词: "[The](/zh/post/the/) soothing [music](/zh/post/music/) helped [him](/zh/post/him/) [relax](/zh/post/relax/) [after](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [day](/zh/post/day/)."
+- 名词: "[He](/zh/post/he/) plays [music](/zh/post/music/) [from](/zh/post/from/) [various](/zh/post/various/) genres, including [jazz](/zh/post/jazz/) [and](/zh/post/and/) [rock](/zh/post/rock/)."
 
 ## 同义词
 - Tunes
 - Melody
-- [Harmony](/post/harmony/)
+- [Harmony](/zh/post/harmony/)
 - Soundtrack
-- [Composition](/post/composition/)
+- [Composition](/zh/post/composition/)

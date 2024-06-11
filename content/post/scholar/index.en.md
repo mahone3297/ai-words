@@ -7,32 +7,32 @@ description = '[ˈskɔlə] n.学者(尤指文学方面)'
 keywords = ['ai words', 'scholar']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈskɑːlə(r)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[scholar](/en/post/scholar/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [widely](/en/post/widely/) [learned](/en/post/learned/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/) [of](/en/post/of/) [study](/en/post/study/), [and](/en/post/and/) is [often](/en/post/often/) engaged [in](/en/post/in/) [academic](/en/post/academic/) [research](/en/post/research/) [or](/en/post/or/) [teaching](/en/post/teaching/). [They](/en/post/they/) are known [for](/en/post/for/) [their](/en/post/their/) [deep](/en/post/deep/) [knowledge](/en/post/knowledge/) [and](/en/post/and/) [intellectual](/en/post/intellectual/) pursuits.
+### [Noun](/post/noun/)
+[A](/post/a/) **[scholar](/post/scholar/)** is [a](/post/a/) [person](/post/person/) [who](/post/who/) is [widely](/post/widely/) [learned](/post/learned/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/) [of](/post/of/) [study](/post/study/), [and](/post/and/) is [often](/post/often/) engaged [in](/post/in/) [academic](/post/academic/) [research](/post/research/) [or](/post/or/) [teaching](/post/teaching/). [They](/post/they/) are known [for](/post/for/) [their](/post/their/) [deep](/post/deep/) [knowledge](/post/knowledge/) [and](/post/and/) [intellectual](/post/intellectual/) pursuits.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[scholar](/en/post/scholar/)** [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [study](/en/post/study/) [with](/en/post/with/) [great](/en/post/great/) dedication [or](/en/post/or/) [to](/en/post/to/) [display](/en/post/display/) [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) [knowledge](/en/post/knowledge/) [in](/en/post/in/) [a](/en/post/a/) [subject](/en/post/subject/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) earning an [academic](/en/post/academic/) [degree](/en/post/degree/) [or](/en/post/or/) [title](/en/post/title/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[scholar](/post/scholar/)** [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [study](/post/study/) [with](/post/with/) [great](/post/great/) dedication [or](/post/or/) [to](/post/to/) [display](/post/display/) [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) [knowledge](/post/knowledge/) [in](/post/in/) [a](/post/a/) [subject](/post/subject/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) earning an [academic](/post/academic/) [degree](/post/degree/) [or](/post/or/) [title](/post/title/).
 
 ## Phrases
-- "[Academic](/en/post/academic/) [scholar](/en/post/scholar/)" refers [to](/en/post/to/) [a](/en/post/a/) [highly](/en/post/highly/) respected [expert](/en/post/expert/) [in](/en/post/in/) [their](/en/post/their/) [field](/en/post/field/).
-- "[Research](/en/post/research/) [scholar](/en/post/scholar/)" denotes [someone](/en/post/someone/) actively involved [in](/en/post/in/) scholarly [research](/en/post/research/).
-- "[A](/en/post/a/) [true](/en/post/true/) [scholar](/en/post/scholar/) [at](/en/post/at/) [heart](/en/post/heart/)" describes [someone](/en/post/someone/) [with](/en/post/with/) [a](/en/post/a/) [passion](/en/post/passion/) [for](/en/post/for/) [learning](/en/post/learning/).
+- "[Academic](/post/academic/) [scholar](/post/scholar/)" refers [to](/post/to/) [a](/post/a/) [highly](/post/highly/) respected [expert](/post/expert/) [in](/post/in/) [their](/post/their/) [field](/post/field/).
+- "[Research](/post/research/) [scholar](/post/scholar/)" denotes [someone](/post/someone/) actively involved [in](/post/in/) scholarly [research](/post/research/).
+- "[A](/post/a/) [true](/post/true/) [scholar](/post/scholar/) [at](/post/at/) [heart](/post/heart/)" describes [someone](/post/someone/) [with](/post/with/) [a](/post/a/) [passion](/post/passion/) [for](/post/for/) [learning](/post/learning/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [university](/en/post/university/) appointed [a](/en/post/a/) renowned [scholar](/en/post/scholar/) [to](/en/post/to/) [lead](/en/post/lead/) [the](/en/post/the/) [department](/en/post/department/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) [diligent](/en/post/diligent/) [scholarship](/en/post/scholarship/), [he](/en/post/he/) [finally](/en/post/finally/) earned [his](/en/post/his/) PhD."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [extensive](/en/post/extensive/) [scholarship](/en/post/scholarship/) [on](/en/post/on/) [ancient](/en/post/ancient/) [history](/en/post/history/) was [widely](/en/post/widely/) admired."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [university](/post/university/) appointed [a](/post/a/) renowned [scholar](/post/scholar/) [to](/post/to/) [lead](/post/lead/) [the](/post/the/) [department](/post/department/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) years [of](/post/of/) [diligent](/post/diligent/) [scholarship](/post/scholarship/), [he](/post/he/) [finally](/post/finally/) earned [his](/post/his/) PhD."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [extensive](/post/extensive/) [scholarship](/post/scholarship/) [on](/post/on/) [ancient](/post/ancient/) [history](/post/history/) was [widely](/post/widely/) admired."
 
 ## Synonyms
-- [Intellectual](/en/post/intellectual/)
-- [Expert](/en/post/expert/)
+- [Intellectual](/post/intellectual/)
+- [Expert](/post/expert/)
 - Scholarly
 - Erudite
 - Knowledgeable
 - Academician
-- [Fellow](/en/post/fellow/) ([in](/en/post/in/) [a](/en/post/a/) [learned](/en/post/learned/) [society](/en/post/society/))
-- [Professor](/en/post/professor/) ([especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [university](/en/post/university/) [setting](/en/post/setting/))
+- [Fellow](/post/fellow/) ([in](/post/in/) [a](/post/a/) [learned](/post/learned/) [society](/post/society/))
+- [Professor](/post/professor/) ([especially](/post/especially/) [in](/post/in/) [a](/post/a/) [university](/post/university/) [setting](/post/setting/))

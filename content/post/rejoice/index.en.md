@@ -7,36 +7,36 @@ description = '[riˈdʒɔis] vi.欣喜，高兴'
 keywords = ['ai words', 'rejoice']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈdʒɔɪs/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [express](/en/post/express/) [great](/en/post/great/) [happiness](/en/post/happiness/), [pleasure](/en/post/pleasure/), [or](/en/post/or/) [satisfaction](/en/post/satisfaction/). [Also](/en/post/also/) [used](/en/post/used/) transitively, [to](/en/post/to/) [cause](/en/post/cause/) [someone](/en/post/someone/) [else](/en/post/else/) [to](/en/post/to/) [feel](/en/post/feel/) [joy](/en/post/joy/). 
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) rejoicing; [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [great](/en/post/great/) [happiness](/en/post/happiness/) [or](/en/post/or/) [delight](/en/post/delight/).
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [express](/post/express/) [great](/post/great/) [happiness](/post/happiness/), [pleasure](/post/pleasure/), [or](/post/or/) [satisfaction](/post/satisfaction/). [Also](/post/also/) [used](/post/used/) transitively, [to](/post/to/) [cause](/post/cause/) [someone](/post/someone/) [else](/post/else/) [to](/post/to/) [feel](/post/feel/) [joy](/post/joy/). 
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) rejoicing; [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [great](/post/great/) [happiness](/post/happiness/) [or](/post/or/) [delight](/post/delight/).
 
 ## Phrases
-- "[Rejoice](/en/post/rejoice/) [at](/en/post/at/) [the](/en/post/the/) [news](/en/post/news/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) delighted [by](/en/post/by/) [a](/en/post/a/) [particular](/en/post/particular/) [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/).
-- "[Rejoice](/en/post/rejoice/) [with](/en/post/with/) others" expresses [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) sharing one's [happiness](/en/post/happiness/) [with](/en/post/with/) [those](/en/post/those/) [around](/en/post/around/) [them](/en/post/them/).
-- "[Rejoice](/en/post/rejoice/) [and](/en/post/and/) [be](/en/post/be/) [glad](/en/post/glad/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) encouraging celebration [and](/en/post/and/) [happiness](/en/post/happiness/).
+- "[Rejoice](/post/rejoice/) [at](/post/at/) [the](/post/the/) [news](/post/news/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) delighted [by](/post/by/) [a](/post/a/) [particular](/post/particular/) [piece](/post/piece/) [of](/post/of/) [information](/post/information/).
+- "[Rejoice](/post/rejoice/) [with](/post/with/) others" expresses [the](/post/the/) [act](/post/act/) [of](/post/of/) sharing one's [happiness](/post/happiness/) [with](/post/with/) [those](/post/those/) [around](/post/around/) [them](/post/them/).
+- "[Rejoice](/post/rejoice/) [and](/post/and/) [be](/post/be/) [glad](/post/glad/)" is [a](/post/a/) [phrase](/post/phrase/) encouraging celebration [and](/post/and/) [happiness](/post/happiness/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) children rejoiced [when](/en/post/when/) [they](/en/post/they/) [found](/en/post/found/) [out](/en/post/out/) [they](/en/post/they/) were going [on](/en/post/on/) [a](/en/post/a/) [vacation](/en/post/vacation/)."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) winning [the](/en/post/the/) championship, [the](/en/post/the/) team's fans rejoiced [in](/en/post/in/) [the](/en/post/the/) streets."
-- "[She](/en/post/she/) couldn't [contain](/en/post/contain/) [her](/en/post/her/) rejoicing [upon](/en/post/upon/) receiving [the](/en/post/the/) [good](/en/post/good/) [news](/en/post/news/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) children rejoiced [when](/post/when/) [they](/post/they/) [found](/post/found/) [out](/post/out/) [they](/post/they/) were going [on](/post/on/) [a](/post/a/) [vacation](/post/vacation/)."
+- **[Noun](/post/noun/)**: "[After](/post/after/) winning [the](/post/the/) championship, [the](/post/the/) team's fans rejoiced [in](/post/in/) [the](/post/the/) streets."
+- "[She](/post/she/) couldn't [contain](/post/contain/) [her](/post/her/) rejoicing [upon](/post/upon/) receiving [the](/post/the/) [good](/post/good/) [news](/post/news/)."
 
 ## Synonyms
-- [Delight](/en/post/delight/)
+- [Delight](/post/delight/)
 - Jubilation
 - Exhilaration
 - Ecstasy
-- [Thrill](/en/post/thrill/)
+- [Thrill](/post/thrill/)
 - Elation
 - Bliss
 
 ## Antonyms
-- [Sorrow](/en/post/sorrow/)
+- [Sorrow](/post/sorrow/)
 - Grief
-- [Despair](/en/post/despair/)
+- [Despair](/post/despair/)
 - Misery
-- [Sadness](/en/post/sadness/)
+- [Sadness](/post/sadness/)
 - Disappointment

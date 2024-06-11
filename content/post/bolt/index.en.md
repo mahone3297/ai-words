@@ -7,46 +7,46 @@ description = '[bəult] n.螺栓；插销 vt.闩门'
 keywords = ['ai words', 'bolt']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɔlt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) fastener**: [A](/en/post/a/) [device](/en/post/device/) [with](/en/post/with/) [a](/en/post/a/) threaded shaft [that](/en/post/that/) is inserted [into](/en/post/into/) [a](/en/post/a/) [hole](/en/post/hole/) [to](/en/post/to/) [secure](/en/post/secure/) an [object](/en/post/object/) [in](/en/post/in/) [place](/en/post/place/). [Example](/en/post/example/): "[The](/en/post/the/) [carpenter](/en/post/carpenter/) drove [a](/en/post/a/) [bolt](/en/post/bolt/) [through](/en/post/through/) [the](/en/post/the/) [wood](/en/post/wood/) [to](/en/post/to/) [fix](/en/post/fix/) [the](/en/post/the/) [cabinet](/en/post/cabinet/)."
-- **[A](/en/post/a/) [sudden](/en/post/sudden/) [movement](/en/post/movement/)**: [A](/en/post/a/) [quick](/en/post/quick/) [action](/en/post/action/) [or](/en/post/or/) [strike](/en/post/strike/), [often](/en/post/often/) [in](/en/post/in/) sports [or](/en/post/or/) emergencies. [Example](/en/post/example/): "[He](/en/post/he/) made [a](/en/post/a/) [lightning](/en/post/lightning/) [bolt](/en/post/bolt/) [move](/en/post/move/) [to](/en/post/to/) intercept [the](/en/post/the/) [ball](/en/post/ball/)."
-- **[A](/en/post/a/) [shock](/en/post/shock/) [or](/en/post/or/) jolt**: [A](/en/post/a/) [sudden](/en/post/sudden/) [strong](/en/post/strong/) [feeling](/en/post/feeling/) [or](/en/post/or/) [experience](/en/post/experience/). [Example](/en/post/example/): "[The](/en/post/the/) [news](/en/post/news/) was [like](/en/post/like/) [a](/en/post/a/) [bolt](/en/post/bolt/) [from](/en/post/from/) [the](/en/post/the/) [blue](/en/post/blue/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) fastener**: [A](/post/a/) [device](/post/device/) [with](/post/with/) [a](/post/a/) threaded shaft [that](/post/that/) is inserted [into](/post/into/) [a](/post/a/) [hole](/post/hole/) [to](/post/to/) [secure](/post/secure/) an [object](/post/object/) [in](/post/in/) [place](/post/place/). [Example](/post/example/): "[The](/post/the/) [carpenter](/post/carpenter/) drove [a](/post/a/) [bolt](/post/bolt/) [through](/post/through/) [the](/post/the/) [wood](/post/wood/) [to](/post/to/) [fix](/post/fix/) [the](/post/the/) [cabinet](/post/cabinet/)."
+- **[A](/post/a/) [sudden](/post/sudden/) [movement](/post/movement/)**: [A](/post/a/) [quick](/post/quick/) [action](/post/action/) [or](/post/or/) [strike](/post/strike/), [often](/post/often/) [in](/post/in/) sports [or](/post/or/) emergencies. [Example](/post/example/): "[He](/post/he/) made [a](/post/a/) [lightning](/post/lightning/) [bolt](/post/bolt/) [move](/post/move/) [to](/post/to/) intercept [the](/post/the/) [ball](/post/ball/)."
+- **[A](/post/a/) [shock](/post/shock/) [or](/post/or/) jolt**: [A](/post/a/) [sudden](/post/sudden/) [strong](/post/strong/) [feeling](/post/feeling/) [or](/post/or/) [experience](/post/experience/). [Example](/post/example/): "[The](/post/the/) [news](/post/news/) was [like](/post/like/) [a](/post/a/) [bolt](/post/bolt/) [from](/post/from/) [the](/post/the/) [blue](/post/blue/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [fasten](/en/post/fasten/) [with](/en/post/with/) [a](/en/post/a/) [bolt](/en/post/bolt/)**: [Secure](/en/post/secure/) [something](/en/post/something/) using [a](/en/post/a/) [bolt](/en/post/bolt/). [Example](/en/post/example/): "[He](/en/post/he/) bolted [the](/en/post/the/) [door](/en/post/door/) [shut](/en/post/shut/) [before](/en/post/before/) leaving."
-- **[To](/en/post/to/) [escape](/en/post/escape/) [suddenly](/en/post/suddenly/)**: [To](/en/post/to/) [leave](/en/post/leave/) [quickly](/en/post/quickly/) [and](/en/post/and/) unexpectedly. [Example](/en/post/example/): "[She](/en/post/she/) bolted [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [room](/en/post/room/) [when](/en/post/when/) [she](/en/post/she/) heard [a](/en/post/a/) [loud](/en/post/loud/) [noise](/en/post/noise/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [fasten](/post/fasten/) [with](/post/with/) [a](/post/a/) [bolt](/post/bolt/)**: [Secure](/post/secure/) [something](/post/something/) using [a](/post/a/) [bolt](/post/bolt/). [Example](/post/example/): "[He](/post/he/) bolted [the](/post/the/) [door](/post/door/) [shut](/post/shut/) [before](/post/before/) leaving."
+- **[To](/post/to/) [escape](/post/escape/) [suddenly](/post/suddenly/)**: [To](/post/to/) [leave](/post/leave/) [quickly](/post/quickly/) [and](/post/and/) unexpectedly. [Example](/post/example/): "[She](/post/she/) bolted [out](/post/out/) [of](/post/of/) [the](/post/the/) [room](/post/room/) [when](/post/when/) [she](/post/she/) heard [a](/post/a/) [loud](/post/loud/) [noise](/post/noise/)."
 
-### [Noun](/en/post/noun/) (Informal)
-- **An energetic [person](/en/post/person/) [or](/en/post/or/) [event](/en/post/event/)**: [A](/en/post/a/) [lively](/en/post/lively/) [individual](/en/post/individual/) [or](/en/post/or/) [a](/en/post/a/) [highly](/en/post/highly/) engaging [occurrence](/en/post/occurrence/). [Example](/en/post/example/): "She's [a](/en/post/a/) [real](/en/post/real/) [bolt](/en/post/bolt/) [of](/en/post/of/) [energy](/en/post/energy/) [at](/en/post/at/) parties."
+### [Noun](/post/noun/) (Informal)
+- **An energetic [person](/post/person/) [or](/post/or/) [event](/post/event/)**: [A](/post/a/) [lively](/post/lively/) [individual](/post/individual/) [or](/post/or/) [a](/post/a/) [highly](/post/highly/) engaging [occurrence](/post/occurrence/). [Example](/post/example/): "She's [a](/post/a/) [real](/post/real/) [bolt](/post/bolt/) [of](/post/of/) [energy](/post/energy/) [at](/post/at/) parties."
 
 ## Phrases
-- "[Bolt](/en/post/bolt/) [the](/en/post/the/) [door](/en/post/door/)" [means](/en/post/means/) [to](/en/post/to/) [secure](/en/post/secure/) [it](/en/post/it/) tightly.
-- "[Bolt](/en/post/bolt/) [upright](/en/post/upright/)" describes [a](/en/post/a/) [sudden](/en/post/sudden/), forceful sitting [up](/en/post/up/).
-- "[Run](/en/post/run/) [a](/en/post/a/) [bolt](/en/post/bolt/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [short](/en/post/short/), [intense](/en/post/intense/) [burst](/en/post/burst/) [of](/en/post/of/) [activity](/en/post/activity/).
+- "[Bolt](/post/bolt/) [the](/post/the/) [door](/post/door/)" [means](/post/means/) [to](/post/to/) [secure](/post/secure/) [it](/post/it/) tightly.
+- "[Bolt](/post/bolt/) [upright](/post/upright/)" describes [a](/post/a/) [sudden](/post/sudden/), forceful sitting [up](/post/up/).
+- "[Run](/post/run/) [a](/post/a/) [bolt](/post/bolt/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [short](/post/short/), [intense](/post/intense/) [burst](/post/burst/) [of](/post/of/) [activity](/post/activity/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) builder screwed [a](/en/post/a/) [bolt](/en/post/bolt/) [into](/en/post/into/) [the](/en/post/the/) [wall](/en/post/wall/) [to](/en/post/to/) [hold](/en/post/hold/) [the](/en/post/the/) [shelf](/en/post/shelf/) [in](/en/post/in/) [place](/en/post/place/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [his](/en/post/his/) [work](/en/post/work/), [he](/en/post/he/) bolted [the](/en/post/the/) toolbox closed."
-- **Informal [Noun](/en/post/noun/)**: "He's [the](/en/post/the/) [life](/en/post/life/) [of](/en/post/of/) [the](/en/post/the/) [party](/en/post/party/), [a](/en/post/a/) [real](/en/post/real/) [bolt](/en/post/bolt/) [of](/en/post/of/) [fun](/en/post/fun/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) builder screwed [a](/post/a/) [bolt](/post/bolt/) [into](/post/into/) [the](/post/the/) [wall](/post/wall/) [to](/post/to/) [hold](/post/hold/) [the](/post/the/) [shelf](/post/shelf/) [in](/post/in/) [place](/post/place/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) finishing [his](/post/his/) [work](/post/work/), [he](/post/he/) bolted [the](/post/the/) toolbox closed."
+- **Informal [Noun](/post/noun/)**: "He's [the](/post/the/) [life](/post/life/) [of](/post/of/) [the](/post/the/) [party](/post/party/), [a](/post/a/) [real](/post/real/) [bolt](/post/bolt/) [of](/post/of/) [fun](/post/fun/)."
 
 ## Synonyms
-- [Screw](/en/post/screw/)
-- [Nail](/en/post/nail/)
-- [Fasten](/en/post/fasten/)
+- [Screw](/post/screw/)
+- [Nail](/post/nail/)
+- [Fasten](/post/fasten/)
 - Clamp
 - Snap
 
-### [Adjective](/en/post/adjective/)
-- **[Quick](/en/post/quick/)**: Describing [something](/en/post/something/) done swiftly. [Example](/en/post/example/): "Bolt-action rifles are known [for](/en/post/for/) [their](/en/post/their/) [rapid](/en/post/rapid/) [fire](/en/post/fire/)."
-- **Energetic**: Expressing [strength](/en/post/strength/) [or](/en/post/or/) vigor. [Example](/en/post/example/): "[The](/en/post/the/) [bolt](/en/post/bolt/) [of](/en/post/of/) [lightning](/en/post/lightning/) illuminated [the](/en/post/the/) [sky](/en/post/sky/)."
+### [Adjective](/post/adjective/)
+- **[Quick](/post/quick/)**: Describing [something](/post/something/) done swiftly. [Example](/post/example/): "Bolt-action rifles are known [for](/post/for/) [their](/post/their/) [rapid](/post/rapid/) [fire](/post/fire/)."
+- **Energetic**: Expressing [strength](/post/strength/) [or](/post/or/) vigor. [Example](/post/example/): "[The](/post/the/) [bolt](/post/bolt/) [of](/post/of/) [lightning](/post/lightning/) illuminated [the](/post/the/) [sky](/post/sky/)."
 
-## Synonyms ([Adjective](/en/post/adjective/))
-- [Rapid](/en/post/rapid/)
-- [Swift](/en/post/swift/)
+## Synonyms ([Adjective](/post/adjective/))
+- [Rapid](/post/rapid/)
+- [Swift](/post/swift/)
 - Sprightly
-- [Vigorous](/en/post/vigorous/)
-- [Lively](/en/post/lively/)
+- [Vigorous](/post/vigorous/)
+- [Lively](/post/lively/)

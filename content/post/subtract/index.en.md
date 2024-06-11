@@ -7,32 +7,32 @@ description = '[səbˈtrækt] vt.减，减去，去掉'
 keywords = ['ai words', 'subtract']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /subˈstræk/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: n. & v. [To](/en/post/to/) [take](/en/post/take/) [away](/en/post/away/) [or](/en/post/or/) [remove](/en/post/remove/) ([a](/en/post/a/) [quantity](/en/post/quantity/) [or](/en/post/or/) [amount](/en/post/amount/)) [from](/en/post/from/) [a](/en/post/a/) [total](/en/post/total/), leaving [a](/en/post/a/) smaller [value](/en/post/value/). *[Example](/en/post/example/): [In](/en/post/in/) [mathematics](/en/post/mathematics/), [subtract](/en/post/subtract/) 5 [from](/en/post/from/) 10.*
-- **[Adjective](/en/post/adjective/)**: (informal) Decreased; reduced [in](/en/post/in/) [amount](/en/post/amount/) [or](/en/post/or/) [quality](/en/post/quality/). *[Example](/en/post/example/): [The](/en/post/the/) team's morale subtracted [after](/en/post/after/) [the](/en/post/the/) [loss](/en/post/loss/).*
+- **[Verb](/post/verb/)**: n. & v. [To](/post/to/) [take](/post/take/) [away](/post/away/) [or](/post/or/) [remove](/post/remove/) ([a](/post/a/) [quantity](/post/quantity/) [or](/post/or/) [amount](/post/amount/)) [from](/post/from/) [a](/post/a/) [total](/post/total/), leaving [a](/post/a/) smaller [value](/post/value/). *[Example](/post/example/): [In](/post/in/) [mathematics](/post/mathematics/), [subtract](/post/subtract/) 5 [from](/post/from/) 10.*
+- **[Adjective](/post/adjective/)**: (informal) Decreased; reduced [in](/post/in/) [amount](/post/amount/) [or](/post/or/) [quality](/post/quality/). *[Example](/post/example/): [The](/post/the/) team's morale subtracted [after](/post/after/) [the](/post/the/) [loss](/post/loss/).*
 
 ## Phrases
-- "Subtracting [one](/en/post/one/) [number](/en/post/number/) [from](/en/post/from/) [another](/en/post/another/)" describes [the](/en/post/the/) [mathematical](/en/post/mathematical/) [operation](/en/post/operation/).
-- "[Subtract](/en/post/subtract/) [the](/en/post/the/) [cost](/en/post/cost/) [of](/en/post/of/) taxes" implies adjusting [a](/en/post/a/) [total](/en/post/total/) [for](/en/post/for/) [tax](/en/post/tax/) payments.
-- "Subtracting [negative](/en/post/negative/) emotions" [can](/en/post/can/) [mean](/en/post/mean/) overcoming [or](/en/post/or/) dismissing [them](/en/post/them/).
+- "Subtracting [one](/post/one/) [number](/post/number/) [from](/post/from/) [another](/post/another/)" describes [the](/post/the/) [mathematical](/post/mathematical/) [operation](/post/operation/).
+- "[Subtract](/post/subtract/) [the](/post/the/) [cost](/post/cost/) [of](/post/of/) taxes" implies adjusting [a](/post/a/) [total](/post/total/) [for](/post/for/) [tax](/post/tax/) payments.
+- "Subtracting [negative](/post/negative/) emotions" [can](/post/can/) [mean](/post/mean/) overcoming [or](/post/or/) dismissing [them](/post/them/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) accountant subtracted [the](/en/post/the/) expenses [to](/en/post/to/) [determine](/en/post/determine/) [the](/en/post/the/) company's [profit](/en/post/profit/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [gloomy](/en/post/gloomy/) [weather](/en/post/weather/) subtracted [from](/en/post/from/) [our](/en/post/our/) enjoyment [of](/en/post/of/) [the](/en/post/the/) [beach](/en/post/beach/) [vacation](/en/post/vacation/)."
-- "[After](/en/post/after/) subtracting [his](/en/post/his/) savings, [he](/en/post/he/) had [only](/en/post/only/) $50 [left](/en/post/left/) [in](/en/post/in/) [the](/en/post/the/) [bank](/en/post/bank/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) accountant subtracted [the](/post/the/) expenses [to](/post/to/) [determine](/post/determine/) [the](/post/the/) company's [profit](/post/profit/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [gloomy](/post/gloomy/) [weather](/post/weather/) subtracted [from](/post/from/) [our](/post/our/) enjoyment [of](/post/of/) [the](/post/the/) [beach](/post/beach/) [vacation](/post/vacation/)."
+- "[After](/post/after/) subtracting [his](/post/his/) savings, [he](/post/he/) had [only](/post/only/) $50 [left](/post/left/) [in](/post/in/) [the](/post/the/) [bank](/post/bank/)."
 
 ## Synonyms
-- [Minus](/en/post/minus/)
+- [Minus](/post/minus/)
 - Deduct
-- [Subtract](/en/post/subtract/) [out](/en/post/out/)
-- [Lessen](/en/post/lessen/)
-- [Reduce](/en/post/reduce/)
+- [Subtract](/post/subtract/) [out](/post/out/)
+- [Lessen](/post/lessen/)
+- [Reduce](/post/reduce/)
 
 ## Antonyms
-- [Add](/en/post/add/)
-- [Increase](/en/post/increase/)
+- [Add](/post/add/)
+- [Increase](/post/increase/)
 - Enhance
 - Augment

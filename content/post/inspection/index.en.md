@@ -7,32 +7,32 @@ description = '[inˈspek∫ən] n.检查，审查；检阅'
 keywords = ['ai words', 'inspection']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈspekʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) inspecting [something](/en/post/something/) carefully, typically [for](/en/post/for/) evaluating [its](/en/post/its/) [quality](/en/post/quality/), [condition](/en/post/condition/), [or](/en/post/or/) conformity [with](/en/post/with/) regulations. [Example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) underwent [a](/en/post/a/) [thorough](/en/post/thorough/) [inspection](/en/post/inspection/) [before](/en/post/before/) [it](/en/post/it/) was [put](/en/post/put/) [on](/en/post/on/) [the](/en/post/the/) [market](/en/post/market/)."
-- **[Noun](/en/post/noun/)**: (n) An [official](/en/post/official/) visitation [or](/en/post/or/) [examination](/en/post/examination/), [often](/en/post/often/) [by](/en/post/by/) an [authority](/en/post/authority/) [figure](/en/post/figure/) [or](/en/post/or/) [professional](/en/post/professional/). [Example](/en/post/example/): "[The](/en/post/the/) [school](/en/post/school/) [inspection](/en/post/inspection/) [will](/en/post/will/) [assess](/en/post/assess/) [the](/en/post/the/) educational standards [and](/en/post/and/) facilities."
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [formal](/en/post/formal/) [or](/en/post/or/) periodic [review](/en/post/review/) [or](/en/post/or/) assessment, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [military](/en/post/military/) [inspection](/en/post/inspection/) [or](/en/post/or/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [inspection](/en/post/inspection/). [Example](/en/post/example/): "[The](/en/post/the/) [annual](/en/post/annual/) [safety](/en/post/safety/) [inspection](/en/post/inspection/) [of](/en/post/of/) [the](/en/post/the/) [factory](/en/post/factory/) revealed [several](/en/post/several/) issues [that](/en/post/that/) needed addressing."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) inspecting [something](/post/something/) carefully, typically [for](/post/for/) evaluating [its](/post/its/) [quality](/post/quality/), [condition](/post/condition/), [or](/post/or/) conformity [with](/post/with/) regulations. [Example](/post/example/): "[The](/post/the/) [house](/post/house/) underwent [a](/post/a/) [thorough](/post/thorough/) [inspection](/post/inspection/) [before](/post/before/) [it](/post/it/) was [put](/post/put/) [on](/post/on/) [the](/post/the/) [market](/post/market/)."
+- **[Noun](/post/noun/)**: (n) An [official](/post/official/) visitation [or](/post/or/) [examination](/post/examination/), [often](/post/often/) [by](/post/by/) an [authority](/post/authority/) [figure](/post/figure/) [or](/post/or/) [professional](/post/professional/). [Example](/post/example/): "[The](/post/the/) [school](/post/school/) [inspection](/post/inspection/) [will](/post/will/) [assess](/post/assess/) [the](/post/the/) educational standards [and](/post/and/) facilities."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [formal](/post/formal/) [or](/post/or/) periodic [review](/post/review/) [or](/post/or/) assessment, [such](/post/such/) [as](/post/as/) [a](/post/a/) [military](/post/military/) [inspection](/post/inspection/) [or](/post/or/) [a](/post/a/) [vehicle](/post/vehicle/) [inspection](/post/inspection/). [Example](/post/example/): "[The](/post/the/) [annual](/post/annual/) [safety](/post/safety/) [inspection](/post/inspection/) [of](/post/of/) [the](/post/the/) [factory](/post/factory/) revealed [several](/post/several/) issues [that](/post/that/) needed addressing."
 
 ## Phrases
-- "[Pass](/en/post/pass/) [inspection](/en/post/inspection/)": [to](/en/post/to/) [meet](/en/post/meet/) [the](/en/post/the/) required standards [after](/en/post/after/) [being](/en/post/being/) inspected. [Example](/en/post/example/): "[The](/en/post/the/) [restaurant](/en/post/restaurant/) failed [to](/en/post/to/) [pass](/en/post/pass/) [the](/en/post/the/) [health](/en/post/health/) [inspection](/en/post/inspection/) [due](/en/post/due/) [to](/en/post/to/) unsanitary conditions."
-- "[Under](/en/post/under/) [inspection](/en/post/inspection/)": currently [being](/en/post/being/) examined [or](/en/post/or/) evaluated. [Example](/en/post/example/): "[The](/en/post/the/) suspect's [home](/en/post/home/) is [under](/en/post/under/) [inspection](/en/post/inspection/) [by](/en/post/by/) [the](/en/post/the/) [police](/en/post/police/)."
-- "[Subject](/en/post/subject/) [to](/en/post/to/) [inspection](/en/post/inspection/)": [open](/en/post/open/) [to](/en/post/to/) [or](/en/post/or/) awaiting [careful](/en/post/careful/) [examination](/en/post/examination/) [or](/en/post/or/) scrutiny. [Example](/en/post/example/): "[All](/en/post/all/) bags are [subject](/en/post/subject/) [to](/en/post/to/) [inspection](/en/post/inspection/) [before](/en/post/before/) boarding [the](/en/post/the/) [plane](/en/post/plane/)."
+- "[Pass](/post/pass/) [inspection](/post/inspection/)": [to](/post/to/) [meet](/post/meet/) [the](/post/the/) required standards [after](/post/after/) [being](/post/being/) inspected. [Example](/post/example/): "[The](/post/the/) [restaurant](/post/restaurant/) failed [to](/post/to/) [pass](/post/pass/) [the](/post/the/) [health](/post/health/) [inspection](/post/inspection/) [due](/post/due/) [to](/post/to/) unsanitary conditions."
+- "[Under](/post/under/) [inspection](/post/inspection/)": currently [being](/post/being/) examined [or](/post/or/) evaluated. [Example](/post/example/): "[The](/post/the/) suspect's [home](/post/home/) is [under](/post/under/) [inspection](/post/inspection/) [by](/post/by/) [the](/post/the/) [police](/post/police/)."
+- "[Subject](/post/subject/) [to](/post/to/) [inspection](/post/inspection/)": [open](/post/open/) [to](/post/to/) [or](/post/or/) awaiting [careful](/post/careful/) [examination](/post/examination/) [or](/post/or/) scrutiny. [Example](/post/example/): "[All](/post/all/) bags are [subject](/post/subject/) [to](/post/to/) [inspection](/post/inspection/) [before](/post/before/) boarding [the](/post/the/) [plane](/post/plane/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[A](/en/post/a/) [building](/en/post/building/) inspector conducted [a](/en/post/a/) meticulous [inspection](/en/post/inspection/) [of](/en/post/of/) [the](/en/post/the/) [property](/en/post/property/) [for](/en/post/for/) [any](/en/post/any/) signs [of](/en/post/of/) [structural](/en/post/structural/) [damage](/en/post/damage/)."
-- "[The](/en/post/the/) [food](/en/post/food/) inspector arrived unannounced [for](/en/post/for/) [a](/en/post/a/) [routine](/en/post/routine/) [inspection](/en/post/inspection/) [of](/en/post/of/) [the](/en/post/the/) [kitchen](/en/post/kitchen/)."
-- "[After](/en/post/after/) [the](/en/post/the/) [fire](/en/post/fire/), [the](/en/post/the/) damaged [bridge](/en/post/bridge/) underwent [a](/en/post/a/) [comprehensive](/en/post/comprehensive/) [inspection](/en/post/inspection/) [to](/en/post/to/) [determine](/en/post/determine/) [if](/en/post/if/) [it](/en/post/it/) was [safe](/en/post/safe/) [to](/en/post/to/) [use](/en/post/use/) [again](/en/post/again/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[A](/post/a/) [building](/post/building/) inspector conducted [a](/post/a/) meticulous [inspection](/post/inspection/) [of](/post/of/) [the](/post/the/) [property](/post/property/) [for](/post/for/) [any](/post/any/) signs [of](/post/of/) [structural](/post/structural/) [damage](/post/damage/)."
+- "[The](/post/the/) [food](/post/food/) inspector arrived unannounced [for](/post/for/) [a](/post/a/) [routine](/post/routine/) [inspection](/post/inspection/) [of](/post/of/) [the](/post/the/) [kitchen](/post/kitchen/)."
+- "[After](/post/after/) [the](/post/the/) [fire](/post/fire/), [the](/post/the/) damaged [bridge](/post/bridge/) underwent [a](/post/a/) [comprehensive](/post/comprehensive/) [inspection](/post/inspection/) [to](/post/to/) [determine](/post/determine/) [if](/post/if/) [it](/post/it/) was [safe](/post/safe/) [to](/post/to/) [use](/post/use/) [again](/post/again/)."
 
 ## Synonyms
-- [Examination](/en/post/examination/)
+- [Examination](/post/examination/)
 - Assessment
-- [Review](/en/post/review/)
+- [Review](/post/review/)
 - Evaluation
-- [Check](/en/post/check/)
+- [Check](/post/check/)
 - Scrutiny
-- [Investigation](/en/post/investigation/)
+- [Investigation](/post/investigation/)
 - Probe
 - Audit
-- [Survey](/en/post/survey/)
+- [Survey](/post/survey/)

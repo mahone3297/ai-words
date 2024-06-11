@@ -7,37 +7,37 @@ description = '[kənˈsidərit] a.考虑周到的；体谅的'
 keywords = ['ai words', 'considerate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈsɪdərət/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Showing [or](/en/post/or/) characterized [by](/en/post/by/) thoughtfulness [and](/en/post/and/) [consideration](/en/post/consideration/) [for](/en/post/for/) others. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [considerate](/en/post/considerate/) [person](/en/post/person/) [would](/en/post/would/) [always](/en/post/always/) [hold](/en/post/hold/) [the](/en/post/the/) [door](/en/post/door/) [open](/en/post/open/) [for](/en/post/for/) others."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [considerate](/en/post/considerate/) [act](/en/post/act/) [or](/en/post/or/) [behavior](/en/post/behavior/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [considerate](/en/post/considerate/) [gesture](/en/post/gesture/) made [me](/en/post/me/) [feel](/en/post/feel/) appreciated."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [think](/en/post/think/) [about](/en/post/about/) [or](/en/post/or/) [be](/en/post/be/) mindful [of](/en/post/of/) someone's feelings [or](/en/post/or/) needs. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) considered [his](/en/post/his/) friend's wishes [before](/en/post/before/) making [a](/en/post/a/) [decision](/en/post/decision/)."
+- **[Adjective](/post/adjective/)**: Showing [or](/post/or/) characterized [by](/post/by/) thoughtfulness [and](/post/and/) [consideration](/post/consideration/) [for](/post/for/) others. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [considerate](/post/considerate/) [person](/post/person/) [would](/post/would/) [always](/post/always/) [hold](/post/hold/) [the](/post/the/) [door](/post/door/) [open](/post/open/) [for](/post/for/) others."
+- **[Noun](/post/noun/)**: [A](/post/a/) [considerate](/post/considerate/) [act](/post/act/) [or](/post/or/) [behavior](/post/behavior/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [considerate](/post/considerate/) [gesture](/post/gesture/) made [me](/post/me/) [feel](/post/feel/) appreciated."
+- **[Verb](/post/verb/)**: [To](/post/to/) [think](/post/think/) [about](/post/about/) [or](/post/or/) [be](/post/be/) mindful [of](/post/of/) someone's feelings [or](/post/or/) needs. [For](/post/for/) [example](/post/example/): "[He](/post/he/) considered [his](/post/his/) friend's wishes [before](/post/before/) making [a](/post/a/) [decision](/post/decision/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [considerate](/en/post/considerate/) [of](/en/post/of/) others" encourages empathy [and](/en/post/and/) [kindness](/en/post/kindness/).
-- "[A](/en/post/a/) [considerate](/en/post/considerate/) [gesture](/en/post/gesture/)" denotes an [act](/en/post/act/) [of](/en/post/of/) [kindness](/en/post/kindness/) [or](/en/post/or/) politeness.
-- "[Considerate](/en/post/considerate/) listening" implies [active](/en/post/active/) [attention](/en/post/attention/) [to](/en/post/to/) [what](/en/post/what/) [someone](/en/post/someone/) is saying.
+- "[Be](/post/be/) [considerate](/post/considerate/) [of](/post/of/) others" encourages empathy [and](/post/and/) [kindness](/post/kindness/).
+- "[A](/post/a/) [considerate](/post/considerate/) [gesture](/post/gesture/)" denotes an [act](/post/act/) [of](/post/of/) [kindness](/post/kindness/) [or](/post/or/) politeness.
+- "[Considerate](/post/considerate/) listening" implies [active](/post/active/) [attention](/post/attention/) [to](/post/to/) [what](/post/what/) [someone](/post/someone/) is saying.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [considerate](/en/post/considerate/) [driver](/en/post/driver/) waited [for](/en/post/for/) pedestrians [to](/en/post/to/) [cross](/en/post/cross/) [the](/en/post/the/) [street](/en/post/street/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) [left](/en/post/left/) [a](/en/post/a/) [considerate](/en/post/considerate/) [note](/en/post/note/) [to](/en/post/to/) [let](/en/post/let/) [her](/en/post/her/) roommate [know](/en/post/know/) she'd [be](/en/post/be/) [home](/en/post/home/) [late](/en/post/late/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) considered [his](/en/post/his/) colleague's workload [before](/en/post/before/) scheduling [a](/en/post/a/) [meeting](/en/post/meeting/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [considerate](/post/considerate/) [driver](/post/driver/) waited [for](/post/for/) pedestrians [to](/post/to/) [cross](/post/cross/) [the](/post/the/) [street](/post/street/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) [left](/post/left/) [a](/post/a/) [considerate](/post/considerate/) [note](/post/note/) [to](/post/to/) [let](/post/let/) [her](/post/her/) roommate [know](/post/know/) she'd [be](/post/be/) [home](/post/home/) [late](/post/late/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) considered [his](/post/his/) colleague's workload [before](/post/before/) scheduling [a](/post/a/) [meeting](/post/meeting/)."
 
 ## Synonyms
-- [Thoughtful](/en/post/thoughtful/)
-- [Kind](/en/post/kind/)
-- [Attentive](/en/post/attentive/)
-- [Gentle](/en/post/gentle/)
+- [Thoughtful](/post/thoughtful/)
+- [Kind](/post/kind/)
+- [Attentive](/post/attentive/)
+- [Gentle](/post/gentle/)
 - Compassionate
 - Caring
 - Tactful
 - Mindful
 
 ## Antonyms
-- [Rude](/en/post/rude/)
+- [Rude](/post/rude/)
 - Inconsiderate
-- [Selfish](/en/post/selfish/)
+- [Selfish](/post/selfish/)
 - Disregardful
 - Impolite

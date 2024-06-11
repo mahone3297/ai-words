@@ -7,28 +7,28 @@ description = '[fridʒ] n.电冰箱'
 keywords = ['ai words', 'fridge']
 +++
 
-## [Word](/en/post/word/): [Fridge](/en/post/fridge/)
+## [Word](/post/word/): [Fridge](/post/fridge/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /frɪdʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [short](/en/post/short/) [form](/en/post/form/) [of](/en/post/of/) [refrigerator](/en/post/refrigerator/), it's an [electrical](/en/post/electrical/) [appliance](/en/post/appliance/) that's [used](/en/post/used/) [for](/en/post/for/) keeping [food](/en/post/food/) [and](/en/post/and/) drinks [cool](/en/post/cool/) [or](/en/post/or/) frozen. 
+- **[Noun](/post/noun/)**: [A](/post/a/) [short](/post/short/) [form](/post/form/) [of](/post/of/) [refrigerator](/post/refrigerator/), it's an [electrical](/post/electrical/) [appliance](/post/appliance/) that's [used](/post/used/) [for](/post/for/) keeping [food](/post/food/) [and](/post/and/) drinks [cool](/post/cool/) [or](/post/or/) frozen. 
 
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "I [need](/en/post/need/) [to](/en/post/to/) [buy](/en/post/buy/) [a](/en/post/a/) [new](/en/post/new/) [fridge](/en/post/fridge/) [because](/en/post/because/) [our](/en/post/our/) [old](/en/post/old/) [one](/en/post/one/) stopped working."
+  - [Example](/post/example/) [Sentence](/post/sentence/): "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) [fridge](/post/fridge/) [because](/post/because/) [our](/post/our/) [old](/post/old/) [one](/post/one/) stopped working."
   
 ## Phrases
-- "[Stock](/en/post/stock/) [up](/en/post/up/) [the](/en/post/the/) [fridge](/en/post/fridge/)": [This](/en/post/this/) [means](/en/post/means/) [to](/en/post/to/) [fill](/en/post/fill/) [the](/en/post/the/) [refrigerator](/en/post/refrigerator/) [with](/en/post/with/) [food](/en/post/food/) [or](/en/post/or/) drinks.
-- "[The](/en/post/the/) [milk](/en/post/milk/) has gone [off](/en/post/off/); it's been [in](/en/post/in/) [the](/en/post/the/) [fridge](/en/post/fridge/) [too](/en/post/too/) [long](/en/post/long/)": [This](/en/post/this/) [phrase](/en/post/phrase/) indicates [that](/en/post/that/) [the](/en/post/the/) [milk](/en/post/milk/) has spoiled [due](/en/post/due/) [to](/en/post/to/) [being](/en/post/being/) stored [in](/en/post/in/) [the](/en/post/the/) [refrigerator](/en/post/refrigerator/) [for](/en/post/for/) an extended [period](/en/post/period/).
-- "[Clean](/en/post/clean/) [out](/en/post/out/) [the](/en/post/the/) [fridge](/en/post/fridge/)": [This](/en/post/this/) implies [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) removing [all](/en/post/all/) items [from](/en/post/from/) [the](/en/post/the/) [refrigerator](/en/post/refrigerator/) [and](/en/post/and/) cleaning [its](/en/post/its/) [interior](/en/post/interior/).
+- "[Stock](/post/stock/) [up](/post/up/) [the](/post/the/) [fridge](/post/fridge/)": [This](/post/this/) [means](/post/means/) [to](/post/to/) [fill](/post/fill/) [the](/post/the/) [refrigerator](/post/refrigerator/) [with](/post/with/) [food](/post/food/) [or](/post/or/) drinks.
+- "[The](/post/the/) [milk](/post/milk/) has gone [off](/post/off/); it's been [in](/post/in/) [the](/post/the/) [fridge](/post/fridge/) [too](/post/too/) [long](/post/long/)": [This](/post/this/) [phrase](/post/phrase/) indicates [that](/post/that/) [the](/post/the/) [milk](/post/milk/) has spoiled [due](/post/due/) [to](/post/to/) [being](/post/being/) stored [in](/post/in/) [the](/post/the/) [refrigerator](/post/refrigerator/) [for](/post/for/) an extended [period](/post/period/).
+- "[Clean](/post/clean/) [out](/post/out/) [the](/post/the/) [fridge](/post/fridge/)": [This](/post/this/) implies [the](/post/the/) [action](/post/action/) [of](/post/of/) removing [all](/post/all/) items [from](/post/from/) [the](/post/the/) [refrigerator](/post/refrigerator/) [and](/post/and/) cleaning [its](/post/its/) [interior](/post/interior/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) [found](/en/post/found/) [a](/en/post/a/) half-empty carton [of](/en/post/of/) [juice](/en/post/juice/) hiding [at](/en/post/at/) [the](/en/post/the/) [back](/en/post/back/) [of](/en/post/of/) [the](/en/post/the/) [fridge](/en/post/fridge/)."
-- "Don't [forget](/en/post/forget/) [to](/en/post/to/) [close](/en/post/close/) [the](/en/post/the/) [fridge](/en/post/fridge/) [door](/en/post/door/); [we](/en/post/we/) don't [want](/en/post/want/) [the](/en/post/the/) [cold](/en/post/cold/) [air](/en/post/air/) [to](/en/post/to/) [escape](/en/post/escape/)!"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) [found](/post/found/) [a](/post/a/) half-empty carton [of](/post/of/) [juice](/post/juice/) hiding [at](/post/at/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [the](/post/the/) [fridge](/post/fridge/)."
+- "Don't [forget](/post/forget/) [to](/post/to/) [close](/post/close/) [the](/post/the/) [fridge](/post/fridge/) [door](/post/door/); [we](/post/we/) don't [want](/post/want/) [the](/post/the/) [cold](/post/cold/) [air](/post/air/) [to](/post/to/) [escape](/post/escape/)!"
 
 ## Synonyms
-- [Refrigerator](/en/post/refrigerator/)
+- [Refrigerator](/post/refrigerator/)
 - Cooler
 - Chiller
-- Freezer ([if](/en/post/if/) referring [to](/en/post/to/) [a](/en/post/a/) [fridge](/en/post/fridge/) [with](/en/post/with/) freezing capabilities)
-- Icebox (informal [or](/en/post/or/) [historical](/en/post/historical/))
+- Freezer ([if](/post/if/) referring [to](/post/to/) [a](/post/a/) [fridge](/post/fridge/) [with](/post/with/) freezing capabilities)
+- Icebox (informal [or](/post/or/) [historical](/post/historical/))

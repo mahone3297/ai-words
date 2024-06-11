@@ -7,37 +7,37 @@ description = '[ˈɑːgjuː] vi.争论，争辩，辩论'
 keywords = ['ai words', 'argue']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɑːrɡjuː/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-  - **[Noun](/en/post/noun/)**: [A](/en/post/a/) [discussion](/en/post/discussion/) [or](/en/post/or/) [debate](/en/post/debate/), typically [one](/en/post/one/) [in](/en/post/in/) [which](/en/post/which/) [people](/en/post/people/) [put](/en/post/put/) [forward](/en/post/forward/) opposing points [of](/en/post/of/) [view](/en/post/view/) [with](/en/post/with/) [the](/en/post/the/) [aim](/en/post/aim/) [of](/en/post/of/) convincing others [of](/en/post/of/) [the](/en/post/the/) [truth](/en/post/truth/) [or](/en/post/or/) [value](/en/post/value/) [of](/en/post/of/) [their](/en/post/their/) [own](/en/post/own/) [opinion](/en/post/opinion/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) had [a](/en/post/a/) heated [argument](/en/post/argument/) [about](/en/post/about/) [the](/en/post/the/) [best](/en/post/best/) [way](/en/post/way/) [to](/en/post/to/) [solve](/en/post/solve/) [the](/en/post/the/) [problem](/en/post/problem/)."
-  - **Transitive [verb](/en/post/verb/)**: [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [conversation](/en/post/conversation/), typically attempting [to](/en/post/to/) [persuade](/en/post/persuade/) [someone](/en/post/someone/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [point](/en/post/point/) [of](/en/post/of/) [view](/en/post/view/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) argued [her](/en/post/her/) [case](/en/post/case/) passionately [in](/en/post/in/) [front](/en/post/front/) [of](/en/post/of/) [the](/en/post/the/) [committee](/en/post/committee/)."
-  - **Intransitive [verb](/en/post/verb/)**: [To](/en/post/to/) [express](/en/post/express/) [or](/en/post/or/) [maintain](/en/post/maintain/) an [opinion](/en/post/opinion/) vigorously, [often](/en/post/often/) disputing [another](/en/post/another/) person's [view](/en/post/view/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) argues [that](/en/post/that/) [climate](/en/post/climate/) [change](/en/post/change/) is [a](/en/post/a/) [major](/en/post/major/) [threat](/en/post/threat/)."
+- **[Verb](/post/verb/)**: 
+  - **[Noun](/post/noun/)**: [A](/post/a/) [discussion](/post/discussion/) [or](/post/or/) [debate](/post/debate/), typically [one](/post/one/) [in](/post/in/) [which](/post/which/) [people](/post/people/) [put](/post/put/) [forward](/post/forward/) opposing points [of](/post/of/) [view](/post/view/) [with](/post/with/) [the](/post/the/) [aim](/post/aim/) [of](/post/of/) convincing others [of](/post/of/) [the](/post/the/) [truth](/post/truth/) [or](/post/or/) [value](/post/value/) [of](/post/of/) [their](/post/their/) [own](/post/own/) [opinion](/post/opinion/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) had [a](/post/a/) heated [argument](/post/argument/) [about](/post/about/) [the](/post/the/) [best](/post/best/) [way](/post/way/) [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [problem](/post/problem/)."
+  - **Transitive [verb](/post/verb/)**: [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [conversation](/post/conversation/), typically attempting [to](/post/to/) [persuade](/post/persuade/) [someone](/post/someone/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [point](/post/point/) [of](/post/of/) [view](/post/view/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) argued [her](/post/her/) [case](/post/case/) passionately [in](/post/in/) [front](/post/front/) [of](/post/of/) [the](/post/the/) [committee](/post/committee/)."
+  - **Intransitive [verb](/post/verb/)**: [To](/post/to/) [express](/post/express/) [or](/post/or/) [maintain](/post/maintain/) an [opinion](/post/opinion/) vigorously, [often](/post/often/) disputing [another](/post/another/) person's [view](/post/view/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) argues [that](/post/that/) [climate](/post/climate/) [change](/post/change/) is [a](/post/a/) [major](/post/major/) [threat](/post/threat/)."
 
 ## Phrases
-- "[Argue](/en/post/argue/) [a](/en/post/a/) [point](/en/post/point/)" [means](/en/post/means/) [to](/en/post/to/) [present](/en/post/present/) an [argument](/en/post/argument/) [in](/en/post/in/) [support](/en/post/support/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [viewpoint](/en/post/viewpoint/).
-- "Argumentative" describes [someone](/en/post/someone/) [who](/en/post/who/) is [fond](/en/post/fond/) [of](/en/post/of/) debates [or](/en/post/or/) disputes.
-- "[Argue](/en/post/argue/) [for](/en/post/for/)/[against](/en/post/against/)" expresses [support](/en/post/support/) [or](/en/post/or/) opposition [to](/en/post/to/) an [idea](/en/post/idea/) [or](/en/post/or/) [proposal](/en/post/proposal/).
+- "[Argue](/post/argue/) [a](/post/a/) [point](/post/point/)" [means](/post/means/) [to](/post/to/) [present](/post/present/) an [argument](/post/argument/) [in](/post/in/) [support](/post/support/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [viewpoint](/post/viewpoint/).
+- "Argumentative" describes [someone](/post/someone/) [who](/post/who/) is [fond](/post/fond/) [of](/post/of/) debates [or](/post/or/) disputes.
+- "[Argue](/post/argue/) [for](/post/for/)/[against](/post/against/)" expresses [support](/post/support/) [or](/post/or/) opposition [to](/post/to/) an [idea](/post/idea/) [or](/post/or/) [proposal](/post/proposal/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [professor](/en/post/professor/) asked [his](/en/post/his/) students [to](/en/post/to/) [present](/en/post/present/) arguments [for](/en/post/for/) [and](/en/post/and/) [against](/en/post/against/) [the](/en/post/the/) [theory](/en/post/theory/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) hours [of](/en/post/of/) arguing, [they](/en/post/they/) [finally](/en/post/finally/) reached [a](/en/post/a/) [compromise](/en/post/compromise/)."
-- **Intransitive [verb](/en/post/verb/)**: "[He](/en/post/he/) doesn't [argue](/en/post/argue/) [with](/en/post/with/) facts; [he](/en/post/he/) [only](/en/post/only/) disputes interpretations."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [professor](/post/professor/) asked [his](/post/his/) students [to](/post/to/) [present](/post/present/) arguments [for](/post/for/) [and](/post/and/) [against](/post/against/) [the](/post/the/) [theory](/post/theory/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) hours [of](/post/of/) arguing, [they](/post/they/) [finally](/post/finally/) reached [a](/post/a/) [compromise](/post/compromise/)."
+- **Intransitive [verb](/post/verb/)**: "[He](/post/he/) doesn't [argue](/post/argue/) [with](/post/with/) facts; [he](/post/he/) [only](/post/only/) disputes interpretations."
 
 ## Synonyms
 - Contend
-- [Dispute](/en/post/dispute/)
+- [Dispute](/post/dispute/)
 - Contemplate
-- [Debate](/en/post/debate/)
-- [Contest](/en/post/contest/)
-- [Oppose](/en/post/oppose/)
-- [Challenge](/en/post/challenge/)
+- [Debate](/post/debate/)
+- [Contest](/post/contest/)
+- [Oppose](/post/oppose/)
+- [Challenge](/post/challenge/)
 
 ## Antonyms
-- [Agree](/en/post/agree/)
+- [Agree](/post/agree/)
 - Concede
-- [Surrender](/en/post/surrender/)
-- [Accept](/en/post/accept/)
-- [Yield](/en/post/yield/)
+- [Surrender](/post/surrender/)
+- [Accept](/post/accept/)
+- [Yield](/post/yield/)

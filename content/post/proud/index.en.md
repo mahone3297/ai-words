@@ -7,37 +7,37 @@ description = '[praud] a.骄傲的；自豪的'
 keywords = ['ai words', 'proud']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəʊd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [satisfaction](/en/post/satisfaction/), [happiness](/en/post/happiness/), [or](/en/post/or/) [respect](/en/post/respect/) [for](/en/post/for/) one's abilities, achievements, [or](/en/post/or/) [the](/en/post/the/) qualities [of](/en/post/of/) others. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) felt [very](/en/post/very/) [proud](/en/post/proud/) [of](/en/post/of/) [her](/en/post/her/) daughter's accomplishments."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [take](/en/post/take/) [pride](/en/post/pride/) [in](/en/post/in/); [to](/en/post/to/) [feel](/en/post/feel/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) honor [or](/en/post/or/) [satisfaction](/en/post/satisfaction/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was [proud](/en/post/proud/) [to](/en/post/to/) [have](/en/post/have/) completed [the](/en/post/the/) marathon."
-- **[Noun](/en/post/noun/)**: (informal) [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [being](/en/post/being/) pleased [with](/en/post/with/) [or](/en/post/or/) showing [respect](/en/post/respect/) [for](/en/post/for/) [oneself](/en/post/oneself/) [or](/en/post/or/) others. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [crowd](/en/post/crowd/) was filled [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [national](/en/post/national/) [pride](/en/post/pride/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [satisfaction](/post/satisfaction/), [happiness](/post/happiness/), [or](/post/or/) [respect](/post/respect/) [for](/post/for/) one's abilities, achievements, [or](/post/or/) [the](/post/the/) qualities [of](/post/of/) others. [For](/post/for/) [example](/post/example/): "[She](/post/she/) felt [very](/post/very/) [proud](/post/proud/) [of](/post/of/) [her](/post/her/) daughter's accomplishments."
+- **[Verb](/post/verb/)**: [To](/post/to/) [take](/post/take/) [pride](/post/pride/) [in](/post/in/); [to](/post/to/) [feel](/post/feel/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) honor [or](/post/or/) [satisfaction](/post/satisfaction/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) was [proud](/post/proud/) [to](/post/to/) [have](/post/have/) completed [the](/post/the/) marathon."
+- **[Noun](/post/noun/)**: (informal) [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [being](/post/being/) pleased [with](/post/with/) [or](/post/or/) showing [respect](/post/respect/) [for](/post/for/) [oneself](/post/oneself/) [or](/post/or/) others. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [crowd](/post/crowd/) was filled [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [national](/post/national/) [pride](/post/pride/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [proud](/en/post/proud/) [of](/en/post/of/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) admiration [for](/en/post/for/) [their](/en/post/their/) actions [or](/en/post/or/) qualities.
-- "[Take](/en/post/take/) [pride](/en/post/pride/) [in](/en/post/in/) [something](/en/post/something/)" signifies acknowledging [and](/en/post/and/) valuing an accomplishment [or](/en/post/or/) [quality](/en/post/quality/).
-- "Prideful [attitude](/en/post/attitude/)" describes [a](/en/post/a/) self-assured [and](/en/post/and/) [confident](/en/post/confident/) demeanor.
+- "[Be](/post/be/) [proud](/post/proud/) [of](/post/of/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) admiration [for](/post/for/) [their](/post/their/) actions [or](/post/or/) qualities.
+- "[Take](/post/take/) [pride](/post/pride/) [in](/post/in/) [something](/post/something/)" signifies acknowledging [and](/post/and/) valuing an accomplishment [or](/post/or/) [quality](/post/quality/).
+- "Prideful [attitude](/post/attitude/)" describes [a](/post/a/) self-assured [and](/post/and/) [confident](/post/confident/) demeanor.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) wore [a](/en/post/a/) [proud](/en/post/proud/) [smile](/en/post/smile/) [when](/en/post/when/) [she](/en/post/she/) accepted [the](/en/post/the/) [award](/en/post/award/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was [proud](/en/post/proud/) [to](/en/post/to/) [serve](/en/post/serve/) [his](/en/post/his/) [country](/en/post/country/) [in](/en/post/in/) [the](/en/post/the/) [military](/en/post/military/)."
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) [community](/en/post/community/) takes [great](/en/post/great/) [pride](/en/post/pride/) [in](/en/post/in/) [their](/en/post/their/) [local](/en/post/local/) [park](/en/post/park/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) wore [a](/post/a/) [proud](/post/proud/) [smile](/post/smile/) [when](/post/when/) [she](/post/she/) accepted [the](/post/the/) [award](/post/award/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) was [proud](/post/proud/) [to](/post/to/) [serve](/post/serve/) [his](/post/his/) [country](/post/country/) [in](/post/in/) [the](/post/the/) [military](/post/military/)."
+- **[Noun](/post/noun/)**: "[Their](/post/their/) [community](/post/community/) takes [great](/post/great/) [pride](/post/pride/) [in](/post/in/) [their](/post/their/) [local](/post/local/) [park](/post/park/)."
 
 ## Synonyms
 - Proudness
 - Self-esteem
 - Esteem
 - Admiration
-- [Respect](/en/post/respect/)
-- [Glory](/en/post/glory/)
+- [Respect](/post/respect/)
+- [Glory](/post/glory/)
 - Honor
 
 ## Antonyms
 - Humility
-- [Shame](/en/post/shame/)
-- [Ashamed](/en/post/ashamed/)
+- [Shame](/post/shame/)
+- [Ashamed](/post/ashamed/)
 - Disgrace
 - Humiliated
 - Disappointed

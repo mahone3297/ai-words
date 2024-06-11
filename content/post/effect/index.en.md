@@ -7,39 +7,39 @@ description = '[iˈfekt] n.结果；效果，效力'
 keywords = ['ai words', 'effect']
 +++
 
-## [Word](/en/post/word/): [Effect](/en/post/effect/)
+## [Word](/post/word/): [Effect](/post/effect/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈfekt/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-- **[A](/en/post/a/) [result](/en/post/result/) [or](/en/post/or/) [outcome](/en/post/outcome/) produced [by](/en/post/by/) [a](/en/post/a/) [cause](/en/post/cause/) [or](/en/post/or/) [action](/en/post/action/)**: [The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) had [a](/en/post/a/) [positive](/en/post/positive/) [effect](/en/post/effect/) [on](/en/post/on/) [employee](/en/post/employee/) morale. [Example](/en/post/example/): "[The](/en/post/the/) [medicine](/en/post/medicine/) had an [immediate](/en/post/immediate/) [effect](/en/post/effect/) [on](/en/post/on/) [the](/en/post/the/) patient's [condition](/en/post/condition/)."
-- **[A](/en/post/a/) [change](/en/post/change/) brought [about](/en/post/about/) [by](/en/post/by/) an [event](/en/post/event/) [or](/en/post/or/) [action](/en/post/action/)**: "[The](/en/post/the/) [war](/en/post/war/) had [a](/en/post/a/) profound [effect](/en/post/effect/) [on](/en/post/on/) global [politics](/en/post/politics/)."
-- **An [impression](/en/post/impression/) created [or](/en/post/or/) intended [to](/en/post/to/) [be](/en/post/be/) created; [impact](/en/post/impact/)**: "[Her](/en/post/her/) stylish outfit made [quite](/en/post/quite/) an [effect](/en/post/effect/)."
-- **[In](/en/post/in/) [the](/en/post/the/) arts, [a](/en/post/a/) [sound](/en/post/sound/) [or](/en/post/or/) [visual](/en/post/visual/) [phenomenon](/en/post/phenomenon/) intentionally produced [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) desired [impression](/en/post/impression/)**: "[The](/en/post/the/) [special](/en/post/special/) effects [in](/en/post/in/) [the](/en/post/the/) [movie](/en/post/movie/) were [impressive](/en/post/impressive/)."
-- **[A](/en/post/a/) [personal](/en/post/personal/) belonging [or](/en/post/or/) [item](/en/post/item/) [of](/en/post/of/) [clothing](/en/post/clothing/)**: "[She](/en/post/she/) packed [all](/en/post/all/) [her](/en/post/her/) effects [before](/en/post/before/) moving [out](/en/post/out/)."
+### [Noun](/post/noun/) (n)
+- **[A](/post/a/) [result](/post/result/) [or](/post/or/) [outcome](/post/outcome/) produced [by](/post/by/) [a](/post/a/) [cause](/post/cause/) [or](/post/or/) [action](/post/action/)**: [The](/post/the/) [new](/post/new/) [policy](/post/policy/) had [a](/post/a/) [positive](/post/positive/) [effect](/post/effect/) [on](/post/on/) [employee](/post/employee/) morale. [Example](/post/example/): "[The](/post/the/) [medicine](/post/medicine/) had an [immediate](/post/immediate/) [effect](/post/effect/) [on](/post/on/) [the](/post/the/) patient's [condition](/post/condition/)."
+- **[A](/post/a/) [change](/post/change/) brought [about](/post/about/) [by](/post/by/) an [event](/post/event/) [or](/post/or/) [action](/post/action/)**: "[The](/post/the/) [war](/post/war/) had [a](/post/a/) profound [effect](/post/effect/) [on](/post/on/) global [politics](/post/politics/)."
+- **An [impression](/post/impression/) created [or](/post/or/) intended [to](/post/to/) [be](/post/be/) created; [impact](/post/impact/)**: "[Her](/post/her/) stylish outfit made [quite](/post/quite/) an [effect](/post/effect/)."
+- **[In](/post/in/) [the](/post/the/) arts, [a](/post/a/) [sound](/post/sound/) [or](/post/or/) [visual](/post/visual/) [phenomenon](/post/phenomenon/) intentionally produced [to](/post/to/) [create](/post/create/) [a](/post/a/) desired [impression](/post/impression/)**: "[The](/post/the/) [special](/post/special/) effects [in](/post/in/) [the](/post/the/) [movie](/post/movie/) were [impressive](/post/impressive/)."
+- **[A](/post/a/) [personal](/post/personal/) belonging [or](/post/or/) [item](/post/item/) [of](/post/of/) [clothing](/post/clothing/)**: "[She](/post/she/) packed [all](/post/all/) [her](/post/her/) effects [before](/post/before/) moving [out](/post/out/)."
 
-### [Verb](/en/post/verb/) (v)
-- **[To](/en/post/to/) [bring](/en/post/bring/) [about](/en/post/about/); [cause](/en/post/cause/)**: "[The](/en/post/the/) [new](/en/post/new/) [law](/en/post/law/) [will](/en/post/will/) [effect](/en/post/effect/) [significant](/en/post/significant/) changes [in](/en/post/in/) [how](/en/post/how/) businesses [operate](/en/post/operate/)." [Example](/en/post/example/): "[His](/en/post/his/) actions effected [a](/en/post/a/) [major](/en/post/major/) [shift](/en/post/shift/) [in](/en/post/in/) [company](/en/post/company/) [policy](/en/post/policy/)."
-- **[To](/en/post/to/) [produce](/en/post/produce/) [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/)**: "[The](/en/post/the/) [drug](/en/post/drug/) effects [a](/en/post/a/) calming [influence](/en/post/influence/) [on](/en/post/on/) patients."
+### [Verb](/post/verb/) (v)
+- **[To](/post/to/) [bring](/post/bring/) [about](/post/about/); [cause](/post/cause/)**: "[The](/post/the/) [new](/post/new/) [law](/post/law/) [will](/post/will/) [effect](/post/effect/) [significant](/post/significant/) changes [in](/post/in/) [how](/post/how/) businesses [operate](/post/operate/)." [Example](/post/example/): "[His](/post/his/) actions effected [a](/post/a/) [major](/post/major/) [shift](/post/shift/) [in](/post/in/) [company](/post/company/) [policy](/post/policy/)."
+- **[To](/post/to/) [produce](/post/produce/) [as](/post/as/) [a](/post/a/) [result](/post/result/)**: "[The](/post/the/) [drug](/post/drug/) effects [a](/post/a/) calming [influence](/post/influence/) [on](/post/on/) patients."
 
 ## Phrases
-- "[Cause](/en/post/cause/) [and](/en/post/and/) [effect](/en/post/effect/)": [This](/en/post/this/) refers [to](/en/post/to/) [the](/en/post/the/) [relationship](/en/post/relationship/) [between](/en/post/between/) an [action](/en/post/action/) [and](/en/post/and/) [its](/en/post/its/) [consequence](/en/post/consequence/).
-- "[In](/en/post/in/) [effect](/en/post/effect/)": [Meaning](/en/post/meaning/) [something](/en/post/something/) [that](/en/post/that/) is functioning [or](/en/post/or/) having an [impact](/en/post/impact/) [as](/en/post/as/) [if](/en/post/if/) [it](/en/post/it/) were [actually](/en/post/actually/) [in](/en/post/in/) [place](/en/post/place/), [even](/en/post/even/) [if](/en/post/if/) [not](/en/post/not/) formally established. [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) rules are [not](/en/post/not/) [yet](/en/post/yet/) [official](/en/post/official/), [but](/en/post/but/) [they](/en/post/they/) are [already](/en/post/already/) [in](/en/post/in/) [effect](/en/post/effect/)."
-- "[Take](/en/post/take/) [effect](/en/post/effect/)": [To](/en/post/to/) [begin](/en/post/begin/) operating [or](/en/post/or/) [to](/en/post/to/) [start](/en/post/start/) having an [impact](/en/post/impact/). [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [tax](/en/post/tax/) [law](/en/post/law/) [will](/en/post/will/) [take](/en/post/take/) [effect](/en/post/effect/) [next](/en/post/next/) [month](/en/post/month/)."
+- "[Cause](/post/cause/) [and](/post/and/) [effect](/post/effect/)": [This](/post/this/) refers [to](/post/to/) [the](/post/the/) [relationship](/post/relationship/) [between](/post/between/) an [action](/post/action/) [and](/post/and/) [its](/post/its/) [consequence](/post/consequence/).
+- "[In](/post/in/) [effect](/post/effect/)": [Meaning](/post/meaning/) [something](/post/something/) [that](/post/that/) is functioning [or](/post/or/) having an [impact](/post/impact/) [as](/post/as/) [if](/post/if/) [it](/post/it/) were [actually](/post/actually/) [in](/post/in/) [place](/post/place/), [even](/post/even/) [if](/post/if/) [not](/post/not/) formally established. [Example](/post/example/): "[The](/post/the/) [new](/post/new/) rules are [not](/post/not/) [yet](/post/yet/) [official](/post/official/), [but](/post/but/) [they](/post/they/) are [already](/post/already/) [in](/post/in/) [effect](/post/effect/)."
+- "[Take](/post/take/) [effect](/post/effect/)": [To](/post/to/) [begin](/post/begin/) operating [or](/post/or/) [to](/post/to/) [start](/post/start/) having an [impact](/post/impact/). [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [tax](/post/tax/) [law](/post/law/) [will](/post/will/) [take](/post/take/) [effect](/post/effect/) [next](/post/next/) [month](/post/month/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [effect](/en/post/effect/) [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) [teaching](/en/post/teaching/) [method](/en/post/method/) was [noticeable](/en/post/noticeable/) [in](/en/post/in/) [the](/en/post/the/) students' improved grades."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) manager promised [to](/en/post/to/) [effect](/en/post/effect/) [a](/en/post/a/) [resolution](/en/post/resolution/) [to](/en/post/to/) [the](/en/post/the/) [conflict](/en/post/conflict/) [within](/en/post/within/) [the](/en/post/the/) [team](/en/post/team/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [effect](/post/effect/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [teaching](/post/teaching/) [method](/post/method/) was [noticeable](/post/noticeable/) [in](/post/in/) [the](/post/the/) students' improved grades."
+- **[Verb](/post/verb/)**: "[The](/post/the/) manager promised [to](/post/to/) [effect](/post/effect/) [a](/post/a/) [resolution](/post/resolution/) [to](/post/to/) [the](/post/the/) [conflict](/post/conflict/) [within](/post/within/) [the](/post/the/) [team](/post/team/)."
 
 ## Synonyms
-- [Outcome](/en/post/outcome/)
-- [Result](/en/post/result/)
-- [Consequence](/en/post/consequence/)
-- [Impact](/en/post/impact/)
-- [Influence](/en/post/influence/)
-- [Bring](/en/post/bring/) [about](/en/post/about/)
-- [Cause](/en/post/cause/)
-- [Produce](/en/post/produce/)
-- Implement ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
+- [Outcome](/post/outcome/)
+- [Result](/post/result/)
+- [Consequence](/post/consequence/)
+- [Impact](/post/impact/)
+- [Influence](/post/influence/)
+- [Bring](/post/bring/) [about](/post/about/)
+- [Cause](/post/cause/)
+- [Produce](/post/produce/)
+- Implement ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))

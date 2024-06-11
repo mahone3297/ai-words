@@ -7,31 +7,31 @@ description = '[əkˈseptəns] n.接受，验收；承认'
 keywords = ['ai words', 'acceptance']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əkˈsɛptəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) receiving [something](/en/post/something/) offered, agreeing [to](/en/post/to/) [it](/en/post/it/), [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) accepted. [It](/en/post/it/) [also](/en/post/also/) refers [to](/en/post/to/) [the](/en/post/the/) willingness [to](/en/post/to/) [tolerate](/en/post/tolerate/) [or](/en/post/or/) [recognize](/en/post/recognize/) [something](/en/post/something/) [as](/en/post/as/) [valid](/en/post/valid/) [or](/en/post/or/) [correct](/en/post/correct/).
-  - **[Approval](/en/post/approval/) [or](/en/post/or/) [agreement](/en/post/agreement/)**: Giving assent [or](/en/post/or/) [consent](/en/post/consent/) [to](/en/post/to/) an [idea](/en/post/idea/), [proposal](/en/post/proposal/), [or](/en/post/or/) [condition](/en/post/condition/).
-  - **[Tolerance](/en/post/tolerance/) [or](/en/post/or/) [recognition](/en/post/recognition/)**: [The](/en/post/the/) [extent](/en/post/extent/) [to](/en/post/to/) [which](/en/post/which/) [something](/en/post/something/) is recognized [as](/en/post/as/) [true](/en/post/true/), [valid](/en/post/valid/), [or](/en/post/or/) [suitable](/en/post/suitable/) [by](/en/post/by/) [society](/en/post/society/) [or](/en/post/or/) an [individual](/en/post/individual/).
-  - **[Receipt](/en/post/receipt/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) taking [or](/en/post/or/) receiving [something](/en/post/something/) handed [over](/en/post/over/) [or](/en/post/or/) presented.
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) receiving [something](/post/something/) offered, agreeing [to](/post/to/) [it](/post/it/), [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) accepted. [It](/post/it/) [also](/post/also/) refers [to](/post/to/) [the](/post/the/) willingness [to](/post/to/) [tolerate](/post/tolerate/) [or](/post/or/) [recognize](/post/recognize/) [something](/post/something/) [as](/post/as/) [valid](/post/valid/) [or](/post/or/) [correct](/post/correct/).
+  - **[Approval](/post/approval/) [or](/post/or/) [agreement](/post/agreement/)**: Giving assent [or](/post/or/) [consent](/post/consent/) [to](/post/to/) an [idea](/post/idea/), [proposal](/post/proposal/), [or](/post/or/) [condition](/post/condition/).
+  - **[Tolerance](/post/tolerance/) [or](/post/or/) [recognition](/post/recognition/)**: [The](/post/the/) [extent](/post/extent/) [to](/post/to/) [which](/post/which/) [something](/post/something/) is recognized [as](/post/as/) [true](/post/true/), [valid](/post/valid/), [or](/post/or/) [suitable](/post/suitable/) [by](/post/by/) [society](/post/society/) [or](/post/or/) an [individual](/post/individual/).
+  - **[Receipt](/post/receipt/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) taking [or](/post/or/) receiving [something](/post/something/) handed [over](/post/over/) [or](/post/or/) presented.
 
 ## Phrases
-- "[Come](/en/post/come/) [to](/en/post/to/) terms [with](/en/post/with/) [acceptance](/en/post/acceptance/)": [To](/en/post/to/) [reach](/en/post/reach/) [a](/en/post/a/) [point](/en/post/point/) [where](/en/post/where/) [one](/en/post/one/) acknowledges [and](/en/post/and/) emotionally adapts [to](/en/post/to/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/) [or](/en/post/or/) [truth](/en/post/truth/).
-- "[Acceptance](/en/post/acceptance/) [of](/en/post/of/) [responsibility](/en/post/responsibility/)": Acknowledging one's [role](/en/post/role/) [or](/en/post/or/) [fault](/en/post/fault/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [matter](/en/post/matter/).
-- "[Letter](/en/post/letter/) [of](/en/post/of/) [acceptance](/en/post/acceptance/)": An [official](/en/post/official/) [communication](/en/post/communication/) indicating [that](/en/post/that/) an [application](/en/post/application/) [or](/en/post/or/) [offer](/en/post/offer/) has been approved.
+- "[Come](/post/come/) [to](/post/to/) terms [with](/post/with/) [acceptance](/post/acceptance/)": [To](/post/to/) [reach](/post/reach/) [a](/post/a/) [point](/post/point/) [where](/post/where/) [one](/post/one/) acknowledges [and](/post/and/) emotionally adapts [to](/post/to/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/) [or](/post/or/) [truth](/post/truth/).
+- "[Acceptance](/post/acceptance/) [of](/post/of/) [responsibility](/post/responsibility/)": Acknowledging one's [role](/post/role/) [or](/post/or/) [fault](/post/fault/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [matter](/post/matter/).
+- "[Letter](/post/letter/) [of](/post/of/) [acceptance](/post/acceptance/)": An [official](/post/official/) [communication](/post/communication/) indicating [that](/post/that/) an [application](/post/application/) [or](/post/or/) [offer](/post/offer/) has been approved.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [much](/en/post/much/) contemplation, [she](/en/post/she/) [found](/en/post/found/) [peace](/en/post/peace/) [in](/en/post/in/) [the](/en/post/the/) [acceptance](/en/post/acceptance/) [of](/en/post/of/) [her](/en/post/her/) limitations."
-- "[The](/en/post/the/) [job](/en/post/job/) [offer](/en/post/offer/) came [with](/en/post/with/) [a](/en/post/a/) [warm](/en/post/warm/) [letter](/en/post/letter/) [of](/en/post/of/) [acceptance](/en/post/acceptance/), outlining [the](/en/post/the/) terms [and](/en/post/and/) conditions."
-- "[His](/en/post/his/) ideas gained [widespread](/en/post/widespread/) [acceptance](/en/post/acceptance/) [within](/en/post/within/) [the](/en/post/the/) [scientific](/en/post/scientific/) [community](/en/post/community/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [much](/post/much/) contemplation, [she](/post/she/) [found](/post/found/) [peace](/post/peace/) [in](/post/in/) [the](/post/the/) [acceptance](/post/acceptance/) [of](/post/of/) [her](/post/her/) limitations."
+- "[The](/post/the/) [job](/post/job/) [offer](/post/offer/) came [with](/post/with/) [a](/post/a/) [warm](/post/warm/) [letter](/post/letter/) [of](/post/of/) [acceptance](/post/acceptance/), outlining [the](/post/the/) terms [and](/post/and/) conditions."
+- "[His](/post/his/) ideas gained [widespread](/post/widespread/) [acceptance](/post/acceptance/) [within](/post/within/) [the](/post/the/) [scientific](/post/scientific/) [community](/post/community/)."
 
 ## Synonyms
-- [Approval](/en/post/approval/)
-- [Agreement](/en/post/agreement/)
-- [Consent](/en/post/consent/)
+- [Approval](/post/approval/)
+- [Agreement](/post/agreement/)
+- [Consent](/post/consent/)
 - Endorsement
-- [Reception](/en/post/reception/)
-- [Recognition](/en/post/recognition/)
-- [Tolerance](/en/post/tolerance/)
+- [Reception](/post/reception/)
+- [Recognition](/post/recognition/)
+- [Tolerance](/post/tolerance/)
 - Welcoming

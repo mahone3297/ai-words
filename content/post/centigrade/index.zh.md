@@ -11,17 +11,17 @@ keywords = ['ai words', 'centigrade']
 /ˈsɛntɪɡreɪd/
 
 ## 释义
-- **名词**: 摄氏度，一种温度计量单位，其中水的冰点为0度，沸点为100度。例如: "[The](/post/the/) [temperature](/post/temperature/) is 25 degrees [centigrade](/post/centigrade/) [today](/post/today/)."
+- **名词**: 摄氏度，一种温度计量单位，其中水的冰点为0度，沸点为100度。例如: "[The](/zh/post/the/) [temperature](/zh/post/temperature/) is 25 degrees [centigrade](/zh/post/centigrade/) [today](/zh/post/today/)."
 
 ## 短语
-- "[Centigrade](/post/centigrade/) [scale](/post/scale/)" 指的是摄氏温度刻度。
-- "[To](/post/to/) [convert](/post/convert/) [from](/post/from/) Fahrenheit [to](/post/to/) [centigrade](/post/centigrade/)" 意味着将华氏温度转换为摄氏温度。
+- "[Centigrade](/zh/post/centigrade/) [scale](/zh/post/scale/)" 指的是摄氏温度刻度。
+- "[To](/zh/post/to/) [convert](/zh/post/convert/) [from](/zh/post/from/) Fahrenheit [to](/zh/post/to/) [centigrade](/zh/post/centigrade/)" 意味着将华氏温度转换为摄氏温度。
 
 ## 例句
-- "[The](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/) predicts [a](/post/a/) [high](/post/high/) [of](/post/of/) 30 [centigrade](/post/centigrade/) [tomorrow](/post/tomorrow/)."
-- "[In](/post/in/) [centigrade](/post/centigrade/) [scale](/post/scale/), [water](/post/water/) boils [at](/post/at/) 100 degrees."
+- "[The](/zh/post/the/) [weather](/zh/post/weather/) [forecast](/zh/post/forecast/) predicts [a](/zh/post/a/) [high](/zh/post/high/) [of](/zh/post/of/) 30 [centigrade](/zh/post/centigrade/) [tomorrow](/zh/post/tomorrow/)."
+- "[In](/zh/post/in/) [centigrade](/zh/post/centigrade/) [scale](/zh/post/scale/), [water](/zh/post/water/) boils [at](/zh/post/at/) 100 degrees."
 
 ## 同义词
 - Celsius
-- [Degree](/post/degree/) Celsius
-- Centesimal [degree](/post/degree/)
+- [Degree](/zh/post/degree/) Celsius
+- Centesimal [degree](/zh/post/degree/)

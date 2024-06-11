@@ -7,43 +7,43 @@ description = '[pɑːθ] n.路，小道；道路'
 keywords = ['ai words', 'path']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[path](/en/post/path/)/
+## [Pronunciation](/post/pronunciation/)
+/[path](/post/path/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [path](/en/post/path/) is [a](/en/post/a/) **[noun](/en/post/noun/)** referring [to](/en/post/to/) [a](/en/post/a/) [route](/en/post/route/) [or](/en/post/or/) [a](/en/post/a/) [way](/en/post/way/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is marked [or](/en/post/or/) [suitable](/en/post/suitable/) [for](/en/post/for/) walking [or](/en/post/or/) [travel](/en/post/travel/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) symbolize [a](/en/post/a/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/) [or](/en/post/or/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) steps [leading](/en/post/leading/) [to](/en/post/to/) [a](/en/post/a/) [goal](/en/post/goal/).
+### [Noun](/post/noun/)
+[A](/post/a/) [path](/post/path/) is [a](/post/a/) **[noun](/post/noun/)** referring [to](/post/to/) [a](/post/a/) [route](/post/route/) [or](/post/or/) [a](/post/a/) [way](/post/way/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is marked [or](/post/or/) [suitable](/post/suitable/) [for](/post/for/) walking [or](/post/or/) [travel](/post/travel/). [It](/post/it/) [can](/post/can/) [also](/post/also/) symbolize [a](/post/a/) [course](/post/course/) [of](/post/of/) [action](/post/action/) [or](/post/or/) [a](/post/a/) [series](/post/series/) [of](/post/of/) steps [leading](/post/leading/) [to](/post/to/) [a](/post/a/) [goal](/post/goal/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[path](/en/post/path/)** ([as](/en/post/as/) [in](/en/post/in/) "[path](/en/post/path/) [through](/en/post/through/)") [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [follow](/en/post/follow/) [a](/en/post/a/) [specific](/en/post/specific/) [route](/en/post/route/) [or](/en/post/or/) [create](/en/post/create/) [a](/en/post/a/) [trail](/en/post/trail/) [for](/en/post/for/) others [to](/en/post/to/) [walk](/en/post/walk/) [on](/en/post/on/), [either](/en/post/either/) physically [or](/en/post/or/) metaphorically.
+### [Verb](/post/verb/)
+[To](/post/to/) **[path](/post/path/)** ([as](/post/as/) [in](/post/in/) "[path](/post/path/) [through](/post/through/)") [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [follow](/post/follow/) [a](/post/a/) [specific](/post/specific/) [route](/post/route/) [or](/post/or/) [create](/post/create/) [a](/post/a/) [trail](/post/trail/) [for](/post/for/) others [to](/post/to/) [walk](/post/walk/) [on](/post/on/), [either](/post/either/) physically [or](/post/or/) metaphorically.
 
-### [Adjective](/en/post/adjective/)
-An [adjective](/en/post/adjective/), "pathetic," describes [something](/en/post/something/) [that](/en/post/that/) is [weak](/en/post/weak/), [sad](/en/post/sad/), [or](/en/post/or/) deserving [of](/en/post/of/) [pity](/en/post/pity/).
+### [Adjective](/post/adjective/)
+An [adjective](/post/adjective/), "pathetic," describes [something](/post/something/) [that](/post/that/) is [weak](/post/weak/), [sad](/post/sad/), [or](/post/or/) deserving [of](/post/of/) [pity](/post/pity/).
 
-### [Adjective](/en/post/adjective/) (archaic)
-[In](/en/post/in/) [some](/en/post/some/) older contexts, "pathless" [can](/en/post/can/) [mean](/en/post/mean/) lacking [a](/en/post/a/) defined [path](/en/post/path/) [or](/en/post/or/) [track](/en/post/track/).
+### [Adjective](/post/adjective/) (archaic)
+[In](/post/in/) [some](/post/some/) older contexts, "pathless" [can](/post/can/) [mean](/post/mean/) lacking [a](/post/a/) defined [path](/post/path/) [or](/post/or/) [track](/post/track/).
 
 ## Phrases
-- "[Take](/en/post/take/) [the](/en/post/the/) scenic [path](/en/post/path/)" suggests choosing [a](/en/post/a/) picturesque [route](/en/post/route/).
-- "[Path](/en/post/path/) [of](/en/post/of/) [least](/en/post/least/) [resistance](/en/post/resistance/)" refers [to](/en/post/to/) [the](/en/post/the/) easiest [or](/en/post/or/) [most](/en/post/most/) effortless [way](/en/post/way/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/).
-- "[Follow](/en/post/follow/) [your](/en/post/your/) heart's [path](/en/post/path/)" implies pursuing [a](/en/post/a/) [personal](/en/post/personal/) [passion](/en/post/passion/) [or](/en/post/or/) calling.
+- "[Take](/post/take/) [the](/post/the/) scenic [path](/post/path/)" suggests choosing [a](/post/a/) picturesque [route](/post/route/).
+- "[Path](/post/path/) [of](/post/of/) [least](/post/least/) [resistance](/post/resistance/)" refers [to](/post/to/) [the](/post/the/) easiest [or](/post/or/) [most](/post/most/) effortless [way](/post/way/) [to](/post/to/) [do](/post/do/) [something](/post/something/).
+- "[Follow](/post/follow/) [your](/post/your/) heart's [path](/post/path/)" implies pursuing [a](/post/a/) [personal](/post/personal/) [passion](/post/passion/) [or](/post/or/) calling.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) hikers [found](/en/post/found/) [a](/en/post/a/) well-worn [path](/en/post/path/) [leading](/en/post/leading/) [up](/en/post/up/) [the](/en/post/the/) [mountain](/en/post/mountain/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) carefully paths [the](/en/post/the/) [garden](/en/post/garden/) [to](/en/post/to/) [improve](/en/post/improve/) accessibility."
-- **[Adjective](/en/post/adjective/) (pathetic)**: "[Her](/en/post/her/) [situation](/en/post/situation/) was [truly](/en/post/truly/) pathetic, [with](/en/post/with/) [no](/en/post/no/) [family](/en/post/family/) [to](/en/post/to/) [turn](/en/post/turn/) [to](/en/post/to/)."
-- **[Adjective](/en/post/adjective/) (archaic)**: "[The](/en/post/the/) pathless [forest](/en/post/forest/) was challenging [to](/en/post/to/) navigate."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) hikers [found](/post/found/) [a](/post/a/) well-worn [path](/post/path/) [leading](/post/leading/) [up](/post/up/) [the](/post/the/) [mountain](/post/mountain/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [gardener](/post/gardener/) carefully paths [the](/post/the/) [garden](/post/garden/) [to](/post/to/) [improve](/post/improve/) accessibility."
+- **[Adjective](/post/adjective/) (pathetic)**: "[Her](/post/her/) [situation](/post/situation/) was [truly](/post/truly/) pathetic, [with](/post/with/) [no](/post/no/) [family](/post/family/) [to](/post/to/) [turn](/post/turn/) [to](/post/to/)."
+- **[Adjective](/post/adjective/) (archaic)**: "[The](/post/the/) pathless [forest](/post/forest/) was challenging [to](/post/to/) navigate."
 
 ## Synonyms
-- [Trail](/en/post/trail/)
-- [Route](/en/post/route/)
-- [Route](/en/post/route/)
-- [Course](/en/post/course/)
-- [Route](/en/post/route/)
-- [Way](/en/post/way/)
-- [Track](/en/post/track/)
+- [Trail](/post/trail/)
+- [Route](/post/route/)
+- [Route](/post/route/)
+- [Course](/post/course/)
+- [Route](/post/route/)
+- [Way](/post/way/)
+- [Track](/post/track/)
 - Pathway
-- [Route](/en/post/route/)
-- [Course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/)
+- [Route](/post/route/)
+- [Course](/post/course/) [of](/post/of/) [action](/post/action/)
 - Steps
 - Progression

@@ -7,35 +7,35 @@ description = '[iˈfektiv] a.有效的；有影响的'
 keywords = ['ai words', 'effective']
 +++
 
-## [Word](/en/post/word/): [Effective](/en/post/effective/)
+## [Word](/post/word/): [Effective](/post/effective/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈfektɪv/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [the](/en/post/the/) intended [or](/en/post/or/) expected [outcome](/en/post/outcome/); producing [a](/en/post/a/) [strong](/en/post/strong/) [impression](/en/post/impression/) [or](/en/post/or/) [result](/en/post/result/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [in](/en/post/in/) [operation](/en/post/operation/) [or](/en/post/or/) has [force](/en/post/force/) [at](/en/post/at/) [the](/en/post/the/) [present](/en/post/present/) [time](/en/post/time/). 
+- **[Adjective](/post/adjective/)**: Having [the](/post/the/) intended [or](/post/or/) expected [outcome](/post/outcome/); producing [a](/post/a/) [strong](/post/strong/) [impression](/post/impression/) [or](/post/or/) [result](/post/result/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [that](/post/that/) is [in](/post/in/) [operation](/post/operation/) [or](/post/or/) has [force](/post/force/) [at](/post/at/) [the](/post/the/) [present](/post/present/) [time](/post/time/). 
 
-  - **[Example](/en/post/example/) [Sentence](/en/post/sentence/)**: _The [new](/en/post/new/) marketing [strategy](/en/post/strategy/) proved [to](/en/post/to/) [be](/en/post/be/) [highly](/en/post/highly/) [effective](/en/post/effective/)._
+  - **[Example](/post/example/) [Sentence](/post/sentence/)**: _The [new](/post/new/) marketing [strategy](/post/strategy/) proved [to](/post/to/) [be](/post/be/) [highly](/post/highly/) [effective](/post/effective/)._
   
-- **[Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: [The](/en/post/the/) [power](/en/post/power/) [to](/en/post/to/) [produce](/en/post/produce/) [a](/en/post/a/) desired [effect](/en/post/effect/); effectiveness. E.g., _The [drug](/en/post/drug/) lost [its](/en/post/its/) effectiveness [over](/en/post/over/) [time](/en/post/time/)._
+- **[Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))**: [The](/post/the/) [power](/post/power/) [to](/post/to/) [produce](/post/produce/) [a](/post/a/) desired [effect](/post/effect/); effectiveness. E.g., _The [drug](/post/drug/) lost [its](/post/its/) effectiveness [over](/post/over/) [time](/post/time/)._
 
 ## Phrases
-- "[Effective](/en/post/effective/) [immediately](/en/post/immediately/)": [This](/en/post/this/) [means](/en/post/means/) [that](/en/post/that/) [something](/en/post/something/) starts [to](/en/post/to/) [apply](/en/post/apply/) [or](/en/post/or/) [function](/en/post/function/) [from](/en/post/from/) [the](/en/post/the/) [moment](/en/post/moment/) [it](/en/post/it/) is announced.
-  - [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [company](/en/post/company/) [policy](/en/post/policy/) comes [into](/en/post/into/) [effect](/en/post/effect/) [immediately](/en/post/immediately/)."
-- "[To](/en/post/to/) [be](/en/post/be/) [effective](/en/post/effective/) [in](/en/post/in/)": [This](/en/post/this/) [phrase](/en/post/phrase/) indicates [the](/en/post/the/) [area](/en/post/area/) [or](/en/post/or/) context [in](/en/post/in/) [which](/en/post/which/) [something](/en/post/something/) is [successful](/en/post/successful/) [or](/en/post/or/) impactful.
-  - [Example](/en/post/example/): "[The](/en/post/the/) teacher's methods were [particularly](/en/post/particularly/) [effective](/en/post/effective/) [in](/en/post/in/) engaging [reluctant](/en/post/reluctant/) learners."
+- "[Effective](/post/effective/) [immediately](/post/immediately/)": [This](/post/this/) [means](/post/means/) [that](/post/that/) [something](/post/something/) starts [to](/post/to/) [apply](/post/apply/) [or](/post/or/) [function](/post/function/) [from](/post/from/) [the](/post/the/) [moment](/post/moment/) [it](/post/it/) is announced.
+  - [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [company](/post/company/) [policy](/post/policy/) comes [into](/post/into/) [effect](/post/effect/) [immediately](/post/immediately/)."
+- "[To](/post/to/) [be](/post/be/) [effective](/post/effective/) [in](/post/in/)": [This](/post/this/) [phrase](/post/phrase/) indicates [the](/post/the/) [area](/post/area/) [or](/post/or/) context [in](/post/in/) [which](/post/which/) [something](/post/something/) is [successful](/post/successful/) [or](/post/or/) impactful.
+  - [Example](/post/example/): "[The](/post/the/) teacher's methods were [particularly](/post/particularly/) [effective](/post/effective/) [in](/post/in/) engaging [reluctant](/post/reluctant/) learners."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: _The [team](/en/post/team/) [leader](/en/post/leader/) implemented an [effective](/en/post/effective/) [communication](/en/post/communication/) [system](/en/post/system/) [to](/en/post/to/) [ensure](/en/post/ensure/) [everyone](/en/post/everyone/) was [on](/en/post/on/) [the](/en/post/the/) [same](/en/post/same/) [page](/en/post/page/)._
-- **[Noun](/en/post/noun/) ([rare](/en/post/rare/) [usage](/en/post/usage/))**: _The vaccine's effectiveness [against](/en/post/against/) [the](/en/post/the/) virus has been proven [by](/en/post/by/) [numerous](/en/post/numerous/) studies._
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: _The [team](/post/team/) [leader](/post/leader/) implemented an [effective](/post/effective/) [communication](/post/communication/) [system](/post/system/) [to](/post/to/) [ensure](/post/ensure/) [everyone](/post/everyone/) was [on](/post/on/) [the](/post/the/) [same](/post/same/) [page](/post/page/)._
+- **[Noun](/post/noun/) ([rare](/post/rare/) [usage](/post/usage/))**: _The vaccine's effectiveness [against](/post/against/) [the](/post/the/) virus has been proven [by](/post/by/) [numerous](/post/numerous/) studies._
 
 ## Synonyms
-- [Efficient](/en/post/efficient/)
+- [Efficient](/post/efficient/)
 - Potent
-- [Powerful](/en/post/powerful/)
-- [Influential](/en/post/influential/)
+- [Powerful](/post/powerful/)
+- [Influential](/post/influential/)
 - Impactful
-- [Successful](/en/post/successful/)
+- [Successful](/post/successful/)
 - Resultant
 - Workable
 - Functional

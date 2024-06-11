@@ -7,30 +7,30 @@ description = '[ˈspærəu] n.麻雀'
 keywords = ['ai words', 'sparrow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /spəˈrɑː(r)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/), typically [brown](/en/post/brown/) passerine [bird](/en/post/bird/) [with](/en/post/with/) [a](/en/post/a/) [long](/en/post/long/) [tail](/en/post/tail/) [and](/en/post/and/) [a](/en/post/a/) pointed beak, [found](/en/post/found/) [in](/en/post/in/) [open](/en/post/open/) fields [and](/en/post/and/) [around](/en/post/around/) [human](/en/post/human/) habitation, [often](/en/post/often/) associated [with](/en/post/with/) [springtime](/en/post/springtime/) [and](/en/post/and/) chirping songs. [Scientific](/en/post/scientific/) [name](/en/post/name/): Passer domesticus ([house](/en/post/house/) [sparrow](/en/post/sparrow/)).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [catch](/en/post/catch/) [or](/en/post/or/) [observe](/en/post/observe/) [a](/en/post/a/) [sparrow](/en/post/sparrow/), [often](/en/post/often/) implying [a](/en/post/a/) [casual](/en/post/casual/) sighting [or](/en/post/or/) [activity](/en/post/activity/). "I spied [a](/en/post/a/) [sparrow](/en/post/sparrow/) perched [on](/en/post/on/) [a](/en/post/a/) [branch](/en/post/branch/)."
-- **[Adjective](/en/post/adjective/)**: Characterizing [or](/en/post/or/) [similar](/en/post/similar/) [to](/en/post/to/) [a](/en/post/a/) [sparrow](/en/post/sparrow/), [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) [small](/en/post/small/) [size](/en/post/size/) [or](/en/post/or/) agility. "[The](/en/post/the/) sparrow-like [bird](/en/post/bird/) nested [in](/en/post/in/) [the](/en/post/the/) eaves."
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/), typically [brown](/post/brown/) passerine [bird](/post/bird/) [with](/post/with/) [a](/post/a/) [long](/post/long/) [tail](/post/tail/) [and](/post/and/) [a](/post/a/) pointed beak, [found](/post/found/) [in](/post/in/) [open](/post/open/) fields [and](/post/and/) [around](/post/around/) [human](/post/human/) habitation, [often](/post/often/) associated [with](/post/with/) [springtime](/post/springtime/) [and](/post/and/) chirping songs. [Scientific](/post/scientific/) [name](/post/name/): Passer domesticus ([house](/post/house/) [sparrow](/post/sparrow/)).
+- **[Verb](/post/verb/)**: [To](/post/to/) [catch](/post/catch/) [or](/post/or/) [observe](/post/observe/) [a](/post/a/) [sparrow](/post/sparrow/), [often](/post/often/) implying [a](/post/a/) [casual](/post/casual/) sighting [or](/post/or/) [activity](/post/activity/). "I spied [a](/post/a/) [sparrow](/post/sparrow/) perched [on](/post/on/) [a](/post/a/) [branch](/post/branch/)."
+- **[Adjective](/post/adjective/)**: Characterizing [or](/post/or/) [similar](/post/similar/) [to](/post/to/) [a](/post/a/) [sparrow](/post/sparrow/), [such](/post/such/) [as](/post/as/) [the](/post/the/) [small](/post/small/) [size](/post/size/) [or](/post/or/) agility. "[The](/post/the/) sparrow-like [bird](/post/bird/) nested [in](/post/in/) [the](/post/the/) eaves."
 
 ## Phrases
-- "Sparrows chirp [all](/en/post/all/) [day](/en/post/day/) [long](/en/post/long/)."
-- "[A](/en/post/a/) sparrow's [nest](/en/post/nest/) is [often](/en/post/often/) made [of](/en/post/of/) twigs [and](/en/post/and/) [grass](/en/post/grass/)."
-- "[The](/en/post/the/) [sparrow](/en/post/sparrow/) [population](/en/post/population/) has increased [in](/en/post/in/) [recent](/en/post/recent/) years."
+- "Sparrows chirp [all](/post/all/) [day](/post/day/) [long](/post/long/)."
+- "[A](/post/a/) sparrow's [nest](/post/nest/) is [often](/post/often/) made [of](/post/of/) twigs [and](/post/and/) [grass](/post/grass/)."
+- "[The](/post/the/) [sparrow](/post/sparrow/) [population](/post/population/) has increased [in](/post/in/) [recent](/post/recent/) years."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) sparrow's [quick](/en/post/quick/) movements made [it](/en/post/it/) [difficult](/en/post/difficult/) [to](/en/post/to/) [catch](/en/post/catch/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) followed [the](/en/post/the/) sparrow's trajectory [as](/en/post/as/) [it](/en/post/it/) flew [across](/en/post/across/) [the](/en/post/the/) [garden](/en/post/garden/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sparrow-like [bird](/en/post/bird/) had [a](/en/post/a/) distinctive [brown](/en/post/brown/) [and](/en/post/and/) [white](/en/post/white/) [pattern](/en/post/pattern/) [on](/en/post/on/) [its](/en/post/its/) feathers."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) sparrow's [quick](/post/quick/) movements made [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [catch](/post/catch/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) followed [the](/post/the/) sparrow's trajectory [as](/post/as/) [it](/post/it/) flew [across](/post/across/) [the](/post/the/) [garden](/post/garden/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sparrow-like [bird](/post/bird/) had [a](/post/a/) distinctive [brown](/post/brown/) [and](/post/and/) [white](/post/white/) [pattern](/post/pattern/) [on](/post/on/) [its](/post/its/) feathers."
 
 ## Synonyms
 - Finch
-- Sparrowhawk ([as](/en/post/as/) [a](/en/post/a/) [bird](/en/post/bird/) [of](/en/post/of/) prey)
-- Songbird (referring [to](/en/post/to/) [the](/en/post/the/) singing [ability](/en/post/ability/))
-- Wren ([a](/en/post/a/) smaller, [similar](/en/post/similar/) [bird](/en/post/bird/))
+- Sparrowhawk ([as](/post/as/) [a](/post/a/) [bird](/post/bird/) [of](/post/of/) prey)
+- Songbird (referring [to](/post/to/) [the](/post/the/) singing [ability](/post/ability/))
+- Wren ([a](/post/a/) smaller, [similar](/post/similar/) [bird](/post/bird/))
 
 ## Antonyms
-- [Large](/en/post/large/) [bird](/en/post/bird/) ([opposite](/en/post/opposite/) [of](/en/post/of/) [the](/en/post/the/) [small](/en/post/small/) [size](/en/post/size/))
-- Predatory ([opposite](/en/post/opposite/) [of](/en/post/of/) [the](/en/post/the/) harmless [nature](/en/post/nature/))
+- [Large](/post/large/) [bird](/post/bird/) ([opposite](/post/opposite/) [of](/post/of/) [the](/post/the/) [small](/post/small/) [size](/post/size/))
+- Predatory ([opposite](/post/opposite/) [of](/post/of/) [the](/post/the/) harmless [nature](/post/nature/))

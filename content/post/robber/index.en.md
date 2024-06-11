@@ -7,35 +7,35 @@ description = '[ˈrɔbə] n.强盗，盗贼'
 keywords = ['ai words', 'robber']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈbɜːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[robber](/en/post/robber/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) forcibly takes [property](/en/post/property/) [or](/en/post/or/) [money](/en/post/money/) [from](/en/post/from/) [another](/en/post/another/) [person](/en/post/person/), [often](/en/post/often/) using [violence](/en/post/violence/) [or](/en/post/or/) intimidation. [In](/en/post/in/) [legal](/en/post/legal/) terms, [it](/en/post/it/) refers [to](/en/post/to/) an [individual](/en/post/individual/) committing [the](/en/post/the/) [crime](/en/post/crime/) [of](/en/post/of/) [robbery](/en/post/robbery/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[robber](/post/robber/)** is [a](/post/a/) [person](/post/person/) [who](/post/who/) forcibly takes [property](/post/property/) [or](/post/or/) [money](/post/money/) [from](/post/from/) [another](/post/another/) [person](/post/person/), [often](/post/often/) using [violence](/post/violence/) [or](/post/or/) intimidation. [In](/post/in/) [legal](/post/legal/) terms, [it](/post/it/) refers [to](/post/to/) an [individual](/post/individual/) committing [the](/post/the/) [crime](/post/crime/) [of](/post/of/) [robbery](/post/robbery/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[rob](/en/post/rob/)** is [to](/en/post/to/) [take](/en/post/take/) [something](/en/post/something/) [by](/en/post/by/) [force](/en/post/force/) [or](/en/post/or/) theft [from](/en/post/from/) [someone](/en/post/someone/) [else](/en/post/else/), typically [with](/en/post/with/) [violence](/en/post/violence/) [or](/en/post/or/) [threat](/en/post/threat/) [of](/en/post/of/) [violence](/en/post/violence/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[rob](/post/rob/)** is [to](/post/to/) [take](/post/take/) [something](/post/something/) [by](/post/by/) [force](/post/force/) [or](/post/or/) theft [from](/post/from/) [someone](/post/someone/) [else](/post/else/), typically [with](/post/with/) [violence](/post/violence/) [or](/post/or/) [threat](/post/threat/) [of](/post/of/) [violence](/post/violence/).
 
 ## Phrases
-- "[Rob](/en/post/rob/) [a](/en/post/a/) [bank](/en/post/bank/)" [or](/en/post/or/) "[Robbery](/en/post/robbery/) took [place](/en/post/place/)" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) committing [a](/en/post/a/) [robbery](/en/post/robbery/).
-- "Caught [the](/en/post/the/) [robber](/en/post/robber/) red-handed" describes [finding](/en/post/finding/) [someone](/en/post/someone/) [in](/en/post/in/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) committing [a](/en/post/a/) [robbery](/en/post/robbery/).
-- "[Be](/en/post/be/) robbed [of](/en/post/of/) [your](/en/post/your/) [peace](/en/post/peace/)" implies having one's tranquility stolen.
+- "[Rob](/post/rob/) [a](/post/a/) [bank](/post/bank/)" [or](/post/or/) "[Robbery](/post/robbery/) took [place](/post/place/)" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) committing [a](/post/a/) [robbery](/post/robbery/).
+- "Caught [the](/post/the/) [robber](/post/robber/) red-handed" describes [finding](/post/finding/) [someone](/post/someone/) [in](/post/in/) [the](/post/the/) [act](/post/act/) [of](/post/of/) committing [a](/post/a/) [robbery](/post/robbery/).
+- "[Be](/post/be/) robbed [of](/post/of/) [your](/post/your/) [peace](/post/peace/)" implies having one's tranquility stolen.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [police](/en/post/police/) were investigating [the](/en/post/the/) [recent](/en/post/recent/) [string](/en/post/string/) [of](/en/post/of/) robberies [in](/en/post/in/) [the](/en/post/the/) neighborhood."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [thief](/en/post/thief/) was sentenced [to](/en/post/to/) [ten](/en/post/ten/) years [in](/en/post/in/) [prison](/en/post/prison/) [for](/en/post/for/) robbing an elderly [couple](/en/post/couple/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[He](/en/post/he/) was robbed [of](/en/post/of/) [his](/en/post/his/) [wallet](/en/post/wallet/) [while](/en/post/while/) jogging [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [police](/post/police/) were investigating [the](/post/the/) [recent](/post/recent/) [string](/post/string/) [of](/post/of/) robberies [in](/post/in/) [the](/post/the/) neighborhood."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [thief](/post/thief/) was sentenced [to](/post/to/) [ten](/post/ten/) years [in](/post/in/) [prison](/post/prison/) [for](/post/for/) robbing an elderly [couple](/post/couple/)."
+- **Phrasal [Verb](/post/verb/)**: "[He](/post/he/) was robbed [of](/post/of/) [his](/post/his/) [wallet](/post/wallet/) [while](/post/while/) jogging [in](/post/in/) [the](/post/the/) [park](/post/park/)."
 
 ## Synonyms
 - Burglar
-- [Robber](/en/post/robber/) baron ([historical](/en/post/historical/) [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [powerful](/en/post/powerful/) industrialist)
+- [Robber](/post/robber/) baron ([historical](/post/historical/) [term](/post/term/) [for](/post/for/) [a](/post/a/) [powerful](/post/powerful/) industrialist)
 - Plunderer
 - Extortionist
 - Hijacker
 
 ## Antonyms
-- [Victim](/en/post/victim/)
-- [Owner](/en/post/owner/)
-- Depositor ([in](/en/post/in/) [a](/en/post/a/) [financial](/en/post/financial/) context)
+- [Victim](/post/victim/)
+- [Owner](/post/owner/)
+- Depositor ([in](/post/in/) [a](/post/a/) [financial](/post/financial/) context)
 - Guardian

@@ -7,34 +7,34 @@ description = '[ˈnəuhweə] ad.任何地方都不'
 keywords = ['ai words', 'nowhere']
 +++
 
-## [Word](/en/post/word/): [Nowhere](/en/post/nowhere/)
+## [Word](/post/word/): [Nowhere](/post/nowhere/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnəʊˌweə(r)/
 
 ## Definitions
-**[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [no](/en/post/no/) [place](/en/post/place/); [not](/en/post/not/) [anywhere](/en/post/anywhere/). [It](/en/post/it/) indicates [the](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/) [a](/en/post/a/) [specific](/en/post/specific/) [location](/en/post/location/).
+**[Adverb](/post/adverb/)**: [In](/post/in/) [no](/post/no/) [place](/post/place/); [not](/post/not/) [anywhere](/post/anywhere/). [It](/post/it/) indicates [the](/post/the/) [absence](/post/absence/) [of](/post/of/) [a](/post/a/) [specific](/post/specific/) [location](/post/location/).
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): 
-- _I've looked [everywhere](/en/post/everywhere/) [but](/en/post/but/) [found](/en/post/found/) [the](/en/post/the/) keys [nowhere](/en/post/nowhere/)._
-- _We're getting [nowhere](/en/post/nowhere/) [with](/en/post/with/) [this](/en/post/this/) [discussion](/en/post/discussion/)._
+[Example](/post/example/) [sentence](/post/sentence/): 
+- _I've looked [everywhere](/post/everywhere/) [but](/post/but/) [found](/post/found/) [the](/post/the/) keys [nowhere](/post/nowhere/)._
+- _We're getting [nowhere](/post/nowhere/) [with](/post/with/) [this](/post/this/) [discussion](/post/discussion/)._
 
 ## Phrases
-- **[Nowhere](/en/post/nowhere/) [in](/en/post/in/) [sight](/en/post/sight/)**: [Not](/en/post/not/) [visible](/en/post/visible/) [anywhere](/en/post/anywhere/). [Example](/en/post/example/): "[The](/en/post/the/) [bus](/en/post/bus/) was [nowhere](/en/post/nowhere/) [in](/en/post/in/) [sight](/en/post/sight/) [when](/en/post/when/) [we](/en/post/we/) arrived [at](/en/post/at/) [the](/en/post/the/) [stop](/en/post/stop/)."
-- **[Go](/en/post/go/) [nowhere](/en/post/nowhere/)**: [Fail](/en/post/fail/) [to](/en/post/to/) [progress](/en/post/progress/) [or](/en/post/or/) [develop](/en/post/develop/); [be](/en/post/be/) fruitless [or](/en/post/or/) unproductive. [Example](/en/post/example/): "[Their](/en/post/their/) negotiations [seem](/en/post/seem/) [to](/en/post/to/) [be](/en/post/be/) going [nowhere](/en/post/nowhere/)."
-- **[Come](/en/post/come/) [from](/en/post/from/) [nowhere](/en/post/nowhere/)**: [Appear](/en/post/appear/) [suddenly](/en/post/suddenly/) [or](/en/post/or/) unexpectedly. [Example](/en/post/example/): "[Her](/en/post/her/) [talent](/en/post/talent/) [for](/en/post/for/) [music](/en/post/music/) seemed [to](/en/post/to/) [come](/en/post/come/) [from](/en/post/from/) [nowhere](/en/post/nowhere/)."
-- **[Nowhere](/en/post/nowhere/) [near](/en/post/near/)**: [Not](/en/post/not/) [even](/en/post/even/) [close](/en/post/close/) [to](/en/post/to/) [or](/en/post/or/) [far](/en/post/far/) [away](/en/post/away/) [from](/en/post/from/) [something](/en/post/something/). [Example](/en/post/example/): "We're [nowhere](/en/post/nowhere/) [near](/en/post/near/) finished [with](/en/post/with/) [the](/en/post/the/) [project](/en/post/project/) [yet](/en/post/yet/)."
+- **[Nowhere](/post/nowhere/) [in](/post/in/) [sight](/post/sight/)**: [Not](/post/not/) [visible](/post/visible/) [anywhere](/post/anywhere/). [Example](/post/example/): "[The](/post/the/) [bus](/post/bus/) was [nowhere](/post/nowhere/) [in](/post/in/) [sight](/post/sight/) [when](/post/when/) [we](/post/we/) arrived [at](/post/at/) [the](/post/the/) [stop](/post/stop/)."
+- **[Go](/post/go/) [nowhere](/post/nowhere/)**: [Fail](/post/fail/) [to](/post/to/) [progress](/post/progress/) [or](/post/or/) [develop](/post/develop/); [be](/post/be/) fruitless [or](/post/or/) unproductive. [Example](/post/example/): "[Their](/post/their/) negotiations [seem](/post/seem/) [to](/post/to/) [be](/post/be/) going [nowhere](/post/nowhere/)."
+- **[Come](/post/come/) [from](/post/from/) [nowhere](/post/nowhere/)**: [Appear](/post/appear/) [suddenly](/post/suddenly/) [or](/post/or/) unexpectedly. [Example](/post/example/): "[Her](/post/her/) [talent](/post/talent/) [for](/post/for/) [music](/post/music/) seemed [to](/post/to/) [come](/post/come/) [from](/post/from/) [nowhere](/post/nowhere/)."
+- **[Nowhere](/post/nowhere/) [near](/post/near/)**: [Not](/post/not/) [even](/post/even/) [close](/post/close/) [to](/post/to/) [or](/post/or/) [far](/post/far/) [away](/post/away/) [from](/post/from/) [something](/post/something/). [Example](/post/example/): "We're [nowhere](/post/nowhere/) [near](/post/near/) finished [with](/post/with/) [the](/post/the/) [project](/post/project/) [yet](/post/yet/)."
 
-## [Example](/en/post/example/) Sentences
-- _The [answer](/en/post/answer/) was [nowhere](/en/post/nowhere/) [to](/en/post/to/) [be](/en/post/be/) [found](/en/post/found/)._
-- _She vanished [into](/en/post/into/) [thin](/en/post/thin/) [air](/en/post/air/); [one](/en/post/one/) [moment](/en/post/moment/) [she](/en/post/she/) was [here](/en/post/here/), [the](/en/post/the/) [next](/en/post/next/), [she](/en/post/she/) was [nowhere](/en/post/nowhere/)._
-- _Our team's [performance](/en/post/performance/) [this](/en/post/this/) [season](/en/post/season/) has improved dramatically; we're [nowhere](/en/post/nowhere/) [near](/en/post/near/) [where](/en/post/where/) [we](/en/post/we/) were [last](/en/post/last/) [year](/en/post/year/)._
+## [Example](/post/example/) Sentences
+- _The [answer](/post/answer/) was [nowhere](/post/nowhere/) [to](/post/to/) [be](/post/be/) [found](/post/found/)._
+- _She vanished [into](/post/into/) [thin](/post/thin/) [air](/post/air/); [one](/post/one/) [moment](/post/moment/) [she](/post/she/) was [here](/post/here/), [the](/post/the/) [next](/post/next/), [she](/post/she/) was [nowhere](/post/nowhere/)._
+- _Our team's [performance](/post/performance/) [this](/post/this/) [season](/post/season/) has improved dramatically; we're [nowhere](/post/nowhere/) [near](/post/near/) [where](/post/where/) [we](/post/we/) were [last](/post/last/) [year](/post/year/)._
 
 ## Synonyms
-- [Not](/en/post/not/) [anywhere](/en/post/anywhere/)
-- [No](/en/post/no/) [place](/en/post/place/)
-- [Anywhere](/en/post/anywhere/)
+- [Not](/post/not/) [anywhere](/post/anywhere/)
+- [No](/post/no/) [place](/post/place/)
+- [Anywhere](/post/anywhere/)
 - Nowhither
 - Nought
 - Nowheres
-- Nonexistent ([in](/en/post/in/) terms [of](/en/post/of/) [location](/en/post/location/))
+- Nonexistent ([in](/post/in/) terms [of](/post/of/) [location](/post/location/))

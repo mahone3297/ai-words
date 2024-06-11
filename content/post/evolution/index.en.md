@@ -7,30 +7,30 @@ description = '[evəˈluː∫ən] n.进化，演化；发展'
 keywords = ['ai words', 'evolution']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌiːvəˈluːʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [process](/en/post/process/) [by](/en/post/by/) [which](/en/post/which/) [different](/en/post/different/) species [of](/en/post/of/) [living](/en/post/living/) organisms [develop](/en/post/develop/) [over](/en/post/over/) [time](/en/post/time/) [from](/en/post/from/) earlier forms, [often](/en/post/often/) [through](/en/post/through/) genetic changes [and](/en/post/and/) [natural](/en/post/natural/) [selection](/en/post/selection/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [theory](/en/post/theory/) [of](/en/post/of/) [evolution](/en/post/evolution/) explains [how](/en/post/how/) species [adapt](/en/post/adapt/) [to](/en/post/to/) [their](/en/post/their/) environments [over](/en/post/over/) generations."
-  - [In](/en/post/in/) [a](/en/post/a/) broader [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [any](/en/post/any/) [gradual](/en/post/gradual/) [process](/en/post/process/) [of](/en/post/of/) [growth](/en/post/growth/) [or](/en/post/or/) [development](/en/post/development/): "[The](/en/post/the/) [evolution](/en/post/evolution/) [of](/en/post/of/) [technology](/en/post/technology/) has revolutionized [communication](/en/post/communication/)."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [process](/post/process/) [by](/post/by/) [which](/post/which/) [different](/post/different/) species [of](/post/of/) [living](/post/living/) organisms [develop](/post/develop/) [over](/post/over/) [time](/post/time/) [from](/post/from/) earlier forms, [often](/post/often/) [through](/post/through/) genetic changes [and](/post/and/) [natural](/post/natural/) [selection](/post/selection/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [theory](/post/theory/) [of](/post/of/) [evolution](/post/evolution/) explains [how](/post/how/) species [adapt](/post/adapt/) [to](/post/to/) [their](/post/their/) environments [over](/post/over/) generations."
+  - [In](/post/in/) [a](/post/a/) broader [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [any](/post/any/) [gradual](/post/gradual/) [process](/post/process/) [of](/post/of/) [growth](/post/growth/) [or](/post/or/) [development](/post/development/): "[The](/post/the/) [evolution](/post/evolution/) [of](/post/of/) [technology](/post/technology/) has revolutionized [communication](/post/communication/)."
   
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [undergo](/en/post/undergo/) [development](/en/post/development/) [or](/en/post/or/) [change](/en/post/change/) [through](/en/post/through/) [a](/en/post/a/) [process](/en/post/process/) akin [to](/en/post/to/) biological [evolution](/en/post/evolution/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [company](/en/post/company/) evolved [from](/en/post/from/) [a](/en/post/a/) [small](/en/post/small/) startup [to](/en/post/to/) [a](/en/post/a/) multinational [corporation](/en/post/corporation/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [undergo](/post/undergo/) [development](/post/development/) [or](/post/or/) [change](/post/change/) [through](/post/through/) [a](/post/a/) [process](/post/process/) akin [to](/post/to/) biological [evolution](/post/evolution/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [company](/post/company/) evolved [from](/post/from/) [a](/post/a/) [small](/post/small/) startup [to](/post/to/) [a](/post/a/) multinational [corporation](/post/corporation/)."
 
 ## Phrases
-- "[Theory](/en/post/theory/) [of](/en/post/of/) [evolution](/en/post/evolution/)": [A](/en/post/a/) [scientific](/en/post/scientific/) [explanation](/en/post/explanation/) [that](/en/post/that/) describes [how](/en/post/how/) populations [change](/en/post/change/) [over](/en/post/over/) generations [through](/en/post/through/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [natural](/en/post/natural/) [selection](/en/post/selection/).
-- "[Evolve](/en/post/evolve/) [over](/en/post/over/) [time](/en/post/time/)": [To](/en/post/to/) [change](/en/post/change/) [gradually](/en/post/gradually/) [and](/en/post/and/) [develop](/en/post/develop/) [new](/en/post/new/) characteristics [or](/en/post/or/) features.
-- "[Social](/en/post/social/) [evolution](/en/post/evolution/)": Refers [to](/en/post/to/) [the](/en/post/the/) [development](/en/post/development/) [and](/en/post/and/) [change](/en/post/change/) [of](/en/post/of/) [social](/en/post/social/) structures [and](/en/post/and/) behaviors [within](/en/post/within/) societies.
+- "[Theory](/post/theory/) [of](/post/of/) [evolution](/post/evolution/)": [A](/post/a/) [scientific](/post/scientific/) [explanation](/post/explanation/) [that](/post/that/) describes [how](/post/how/) populations [change](/post/change/) [over](/post/over/) generations [through](/post/through/) [the](/post/the/) [process](/post/process/) [of](/post/of/) [natural](/post/natural/) [selection](/post/selection/).
+- "[Evolve](/post/evolve/) [over](/post/over/) [time](/post/time/)": [To](/post/to/) [change](/post/change/) [gradually](/post/gradually/) [and](/post/and/) [develop](/post/develop/) [new](/post/new/) characteristics [or](/post/or/) features.
+- "[Social](/post/social/) [evolution](/post/evolution/)": Refers [to](/post/to/) [the](/post/the/) [development](/post/development/) [and](/post/and/) [change](/post/change/) [of](/post/of/) [social](/post/social/) structures [and](/post/and/) behaviors [within](/post/within/) societies.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Darwin's [book](/en/post/book/) '[On](/en/post/on/) [the](/en/post/the/) [Origin](/en/post/origin/) [of](/en/post/of/) Species' presented compelling [evidence](/en/post/evidence/) [for](/en/post/for/) [the](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) biological [evolution](/en/post/evolution/)."
-- **[Verb](/en/post/verb/)**: "[Over](/en/post/over/) centuries, [the](/en/post/the/) [language](/en/post/language/) has evolved [to](/en/post/to/) [include](/en/post/include/) [many](/en/post/many/) loanwords [from](/en/post/from/) [other](/en/post/other/) cultures."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Darwin's [book](/post/book/) '[On](/post/on/) [the](/post/the/) [Origin](/post/origin/) [of](/post/of/) Species' presented compelling [evidence](/post/evidence/) [for](/post/for/) [the](/post/the/) [concept](/post/concept/) [of](/post/of/) biological [evolution](/post/evolution/)."
+- **[Verb](/post/verb/)**: "[Over](/post/over/) centuries, [the](/post/the/) [language](/post/language/) has evolved [to](/post/to/) [include](/post/include/) [many](/post/many/) loanwords [from](/post/from/) [other](/post/other/) cultures."
 
 ## Synonyms
-- [Development](/en/post/development/)
+- [Development](/post/development/)
 - Progression
-- [Transformation](/en/post/transformation/)
-- [Growth](/en/post/growth/)
+- [Transformation](/post/transformation/)
+- [Growth](/post/growth/)
 - Adaptation
-- [Natural](/en/post/natural/) [selection](/en/post/selection/)
+- [Natural](/post/natural/) [selection](/post/selection/)
 - Changeover
 - Metamorphosis

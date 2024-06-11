@@ -7,34 +7,34 @@ description = '[igˈzɑːmpl] n.例子，实例；模范'
 keywords = ['ai words', 'example']
 +++
 
-## [Word](/en/post/word/): [Example](/en/post/example/)
+## [Word](/post/word/): [Example](/post/example/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪɡˈzæmpl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [thing](/en/post/thing/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [its](/en/post/its/) [kind](/en/post/kind/) [or](/en/post/or/) illustrating [a](/en/post/a/) [general](/en/post/general/) [rule](/en/post/rule/); [a](/en/post/a/) [typical](/en/post/typical/) [instance](/en/post/instance/) [or](/en/post/or/) [case](/en/post/case/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [painting](/en/post/painting/) is an [excellent](/en/post/excellent/) [example](/en/post/example/) [of](/en/post/of/) Impressionism."
-  - [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) serves [as](/en/post/as/) [a](/en/post/a/) [model](/en/post/model/) [or](/en/post/or/) [pattern](/en/post/pattern/) [for](/en/post/for/) others [to](/en/post/to/) [follow](/en/post/follow/): "[The](/en/post/the/) [teacher](/en/post/teacher/) [set](/en/post/set/) [a](/en/post/a/) [good](/en/post/good/) [example](/en/post/example/) [by](/en/post/by/) arriving [early](/en/post/early/) [to](/en/post/to/) [class](/en/post/class/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) [a](/en/post/a/) [typical](/en/post/typical/) [instance](/en/post/instance/) [or](/en/post/or/) [illustration](/en/post/illustration/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [success](/en/post/success/) [story](/en/post/story/) [can](/en/post/can/) [example](/en/post/example/) [how](/en/post/how/) [hard](/en/post/hard/) [work](/en/post/work/) leads [to](/en/post/to/) [great](/en/post/great/) achievements."
+- **[Noun](/post/noun/)**: [A](/post/a/) [thing](/post/thing/) [characteristic](/post/characteristic/) [of](/post/of/) [its](/post/its/) [kind](/post/kind/) [or](/post/or/) illustrating [a](/post/a/) [general](/post/general/) [rule](/post/rule/); [a](/post/a/) [typical](/post/typical/) [instance](/post/instance/) [or](/post/or/) [case](/post/case/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [painting](/post/painting/) is an [excellent](/post/excellent/) [example](/post/example/) [of](/post/of/) Impressionism."
+  - [Also](/post/also/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [that](/post/that/) serves [as](/post/as/) [a](/post/a/) [model](/post/model/) [or](/post/or/) [pattern](/post/pattern/) [for](/post/for/) others [to](/post/to/) [follow](/post/follow/): "[The](/post/the/) [teacher](/post/teacher/) [set](/post/set/) [a](/post/a/) [good](/post/good/) [example](/post/example/) [by](/post/by/) arriving [early](/post/early/) [to](/post/to/) [class](/post/class/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [serve](/post/serve/) [as](/post/as/) [a](/post/a/) [typical](/post/typical/) [instance](/post/instance/) [or](/post/or/) [illustration](/post/illustration/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [success](/post/success/) [story](/post/story/) [can](/post/can/) [example](/post/example/) [how](/post/how/) [hard](/post/hard/) [work](/post/work/) leads [to](/post/to/) [great](/post/great/) achievements."
 
 ## Phrases
-- "[For](/en/post/for/) [example](/en/post/example/)" is [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [specific](/en/post/specific/) [instance](/en/post/instance/) [that](/en/post/that/) illustrates [or](/en/post/or/) clarifies [a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [idea](/en/post/idea/).
-- "[By](/en/post/by/) [way](/en/post/way/) [of](/en/post/of/) [example](/en/post/example/)" is [another](/en/post/another/) [way](/en/post/way/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [specific](/en/post/specific/) [instance](/en/post/instance/) meant [to](/en/post/to/) [illustrate](/en/post/illustrate/) [a](/en/post/a/) broader [point](/en/post/point/).
-- "[Take](/en/post/take/) [someone](/en/post/someone/)/[something](/en/post/something/) [as](/en/post/as/) an [example](/en/post/example/)" [means](/en/post/means/) [to](/en/post/to/) [use](/en/post/use/) [them](/en/post/them/) [to](/en/post/to/) [demonstrate](/en/post/demonstrate/) [or](/en/post/or/) [explain](/en/post/explain/) [something](/en/post/something/).
+- "[For](/post/for/) [example](/post/example/)" is [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [specific](/post/specific/) [instance](/post/instance/) [that](/post/that/) illustrates [or](/post/or/) clarifies [a](/post/a/) [statement](/post/statement/) [or](/post/or/) [idea](/post/idea/).
+- "[By](/post/by/) [way](/post/way/) [of](/post/of/) [example](/post/example/)" is [another](/post/another/) [way](/post/way/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [specific](/post/specific/) [instance](/post/instance/) meant [to](/post/to/) [illustrate](/post/illustrate/) [a](/post/a/) broader [point](/post/point/).
+- "[Take](/post/take/) [someone](/post/someone/)/[something](/post/something/) [as](/post/as/) an [example](/post/example/)" [means](/post/means/) [to](/post/to/) [use](/post/use/) [them](/post/them/) [to](/post/to/) [demonstrate](/post/demonstrate/) [or](/post/or/) [explain](/post/explain/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [behavior](/en/post/behavior/) is [not](/en/post/not/) an [example](/en/post/example/) [we](/en/post/we/) [should](/en/post/should/) [follow](/en/post/follow/)."
-- **[Verb](/en/post/verb/)**: "[Her](/en/post/her/) dedication examples [the](/en/post/the/) commitment required [to](/en/post/to/) excel [in](/en/post/in/) [this](/en/post/this/) [field](/en/post/field/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [behavior](/post/behavior/) is [not](/post/not/) an [example](/post/example/) [we](/post/we/) [should](/post/should/) [follow](/post/follow/)."
+- **[Verb](/post/verb/)**: "[Her](/post/her/) dedication examples [the](/post/the/) commitment required [to](/post/to/) excel [in](/post/in/) [this](/post/this/) [field](/post/field/)."
 
 ## Synonyms
-- [Instance](/en/post/instance/)
-- [Illustration](/en/post/illustration/)
-- [Sample](/en/post/sample/)
-- [Model](/en/post/model/)
-- [Case](/en/post/case/) [study](/en/post/study/)
+- [Instance](/post/instance/)
+- [Illustration](/post/illustration/)
+- [Sample](/post/sample/)
+- [Model](/post/model/)
+- [Case](/post/case/) [study](/post/study/)
 - Prototype
 - Exemplar
 - Demonstration
 - Representation
 
-**[Note](/en/post/note/)**: [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) [of](/en/post/of/) '[example](/en/post/example/)' is [less](/en/post/less/) [common](/en/post/common/) [in](/en/post/in/) [everyday](/en/post/everyday/) [usage](/en/post/usage/) compared [to](/en/post/to/) [its](/en/post/its/) [noun](/en/post/noun/) [form](/en/post/form/). [Instead](/en/post/instead/), verbs [like](/en/post/like/) '[illustrate](/en/post/illustrate/)', '[demonstrate](/en/post/demonstrate/)', [or](/en/post/or/) 'exemplify' are [often](/en/post/often/) [used](/en/post/used/) [when](/en/post/when/) referring [to](/en/post/to/) actions serving [as](/en/post/as/) examples.
+**[Note](/post/note/)**: [The](/post/the/) [verb](/post/verb/) [form](/post/form/) [of](/post/of/) '[example](/post/example/)' is [less](/post/less/) [common](/post/common/) [in](/post/in/) [everyday](/post/everyday/) [usage](/post/usage/) compared [to](/post/to/) [its](/post/its/) [noun](/post/noun/) [form](/post/form/). [Instead](/post/instead/), verbs [like](/post/like/) '[illustrate](/post/illustrate/)', '[demonstrate](/post/demonstrate/)', [or](/post/or/) 'exemplify' are [often](/post/often/) [used](/post/used/) [when](/post/when/) referring [to](/post/to/) actions serving [as](/post/as/) examples.

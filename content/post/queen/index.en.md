@@ -7,41 +7,41 @@ description = '[kwiːn] n.王后；女王'
 keywords = ['ai words', 'queen']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkwiːn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [female](/en/post/female/) [ruler](/en/post/ruler/) [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/), [especially](/en/post/especially/) [a](/en/post/a/) monarch: *[The](/en/post/the/) British monarchy has had [several](/en/post/several/) queens.*
-2. [A](/en/post/a/) [person](/en/post/person/) considered [to](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [best](/en/post/best/) [or](/en/post/or/) [most](/en/post/most/) [important](/en/post/important/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/): *[She](/en/post/she/) is [the](/en/post/the/) [chess](/en/post/chess/) [queen](/en/post/queen/) [and](/en/post/and/) [never](/en/post/never/) loses [a](/en/post/a/) [game](/en/post/game/).*
-3. (informal) [A](/en/post/a/) [highly](/en/post/highly/) [skilled](/en/post/skilled/) [or](/en/post/or/) dominant [person](/en/post/person/) [in](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [community](/en/post/community/): *He's [the](/en/post/the/) [queen](/en/post/queen/) [of](/en/post/of/) [the](/en/post/the/) coding [world](/en/post/world/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [female](/post/female/) [ruler](/post/ruler/) [of](/post/of/) [a](/post/a/) [country](/post/country/), [especially](/post/especially/) [a](/post/a/) monarch: *[The](/post/the/) British monarchy has had [several](/post/several/) queens.*
+2. [A](/post/a/) [person](/post/person/) considered [to](/post/to/) [be](/post/be/) [the](/post/the/) [best](/post/best/) [or](/post/or/) [most](/post/most/) [important](/post/important/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/): *[She](/post/she/) is [the](/post/the/) [chess](/post/chess/) [queen](/post/queen/) [and](/post/and/) [never](/post/never/) loses [a](/post/a/) [game](/post/game/).*
+3. (informal) [A](/post/a/) [highly](/post/highly/) [skilled](/post/skilled/) [or](/post/or/) dominant [person](/post/person/) [in](/post/in/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [community](/post/community/): *He's [the](/post/the/) [queen](/post/queen/) [of](/post/of/) [the](/post/the/) coding [world](/post/world/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [appoint](/en/post/appoint/) [or](/en/post/or/) [make](/en/post/make/) [someone](/en/post/someone/) [a](/en/post/a/) [queen](/en/post/queen/): *[She](/en/post/she/) was crowned [queen](/en/post/queen/) [of](/en/post/of/) [the](/en/post/the/) [ball](/en/post/ball/).*
-2. [To](/en/post/to/) [rule](/en/post/rule/) [or](/en/post/or/) [reign](/en/post/reign/) [over](/en/post/over/): *[The](/en/post/the/) [queen](/en/post/queen/) [of](/en/post/of/) [the](/en/post/the/) bees oversees [the](/en/post/the/) hive.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [appoint](/post/appoint/) [or](/post/or/) [make](/post/make/) [someone](/post/someone/) [a](/post/a/) [queen](/post/queen/): *[She](/post/she/) was crowned [queen](/post/queen/) [of](/post/of/) [the](/post/the/) [ball](/post/ball/).*
+2. [To](/post/to/) [rule](/post/rule/) [or](/post/or/) [reign](/post/reign/) [over](/post/over/): *[The](/post/the/) [queen](/post/queen/) [of](/post/of/) [the](/post/the/) bees oversees [the](/post/the/) hive.*
 
 ## Phrases
-- "[Pay](/en/post/pay/) homage [to](/en/post/to/) [the](/en/post/the/) [queen](/en/post/queen/)" ([to](/en/post/to/) [show](/en/post/show/) [respect](/en/post/respect/))
-- "[Queen](/en/post/queen/) [of](/en/post/of/) [all](/en/post/all/) trades" (形容某人多才多艺)
-- "[A](/en/post/a/) [queen](/en/post/queen/) [bee](/en/post/bee/)" ([a](/en/post/a/) dominant [female](/en/post/female/) [insect](/en/post/insect/))
+- "[Pay](/post/pay/) homage [to](/post/to/) [the](/post/the/) [queen](/post/queen/)" ([to](/post/to/) [show](/post/show/) [respect](/post/respect/))
+- "[Queen](/post/queen/) [of](/post/of/) [all](/post/all/) trades" (形容某人多才多艺)
+- "[A](/post/a/) [queen](/post/queen/) [bee](/post/bee/)" ([a](/post/a/) dominant [female](/post/female/) [insect](/post/insect/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [queen](/en/post/queen/) [of](/en/post/of/) England is known [for](/en/post/for/) [her](/en/post/her/) charitable [work](/en/post/work/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) [queen](/en/post/queen/) ascended [the](/en/post/the/) [throne](/en/post/throne/) [after](/en/post/after/) [the](/en/post/the/) [previous](/en/post/previous/) monarch's [death](/en/post/death/)."
-- **Phrasal**: "[She](/en/post/she/) is [the](/en/post/the/) [queen](/en/post/queen/) [of](/en/post/of/) [both](/en/post/both/) sports [and](/en/post/and/) academia."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [queen](/post/queen/) [of](/post/of/) England is known [for](/post/for/) [her](/post/her/) charitable [work](/post/work/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) [queen](/post/queen/) ascended [the](/post/the/) [throne](/post/throne/) [after](/post/after/) [the](/post/the/) [previous](/post/previous/) monarch's [death](/post/death/)."
+- **Phrasal**: "[She](/post/she/) is [the](/post/the/) [queen](/post/queen/) [of](/post/of/) [both](/post/both/) sports [and](/post/and/) academia."
 
 ## Synonyms
 - Monarch
-- [Ruler](/en/post/ruler/)
+- [Ruler](/post/ruler/)
 - Sovereign
 - Empress
 - Regent
 - Highness
 - Majesty
-- [Queen](/en/post/queen/) regnant
+- [Queen](/post/queen/) regnant
 
 ## Antonyms
-- [Subject](/en/post/subject/)
+- [Subject](/post/subject/)
 - Commoner
-- [Prince](/en/post/prince/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) royalty)
-- Consort ([the](/en/post/the/) [husband](/en/post/husband/) [of](/en/post/of/) [a](/en/post/a/) [queen](/en/post/queen/))
+- [Prince](/post/prince/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) royalty)
+- Consort ([the](/post/the/) [husband](/post/husband/) [of](/post/of/) [a](/post/a/) [queen](/post/queen/))

@@ -7,30 +7,30 @@ description = '[əˈpruːv] vt.赞成，称许；批准'
 keywords = ['ai words', 'approve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /apprəv/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (1) [To](/en/post/to/) [give](/en/post/give/) [formal](/en/post/formal/) [consent](/en/post/consent/) [or](/en/post/or/) [approval](/en/post/approval/); [to](/en/post/to/) [consider](/en/post/consider/) [as](/en/post/as/) [satisfactory](/en/post/satisfactory/) [or](/en/post/or/) [acceptable](/en/post/acceptable/). (2) [To](/en/post/to/) [show](/en/post/show/) [agreement](/en/post/agreement/) [or](/en/post/or/) [support](/en/post/support/) [for](/en/post/for/) [a](/en/post/a/) [plan](/en/post/plan/), [idea](/en/post/idea/), [or](/en/post/or/) [action](/en/post/action/). (3) [To](/en/post/to/) [pass](/en/post/pass/) judgment [on](/en/post/on/) [the](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [worth](/en/post/worth/) [of](/en/post/of/) [something](/en/post/something/).
+- **[Verb](/post/verb/)**: (1) [To](/post/to/) [give](/post/give/) [formal](/post/formal/) [consent](/post/consent/) [or](/post/or/) [approval](/post/approval/); [to](/post/to/) [consider](/post/consider/) [as](/post/as/) [satisfactory](/post/satisfactory/) [or](/post/or/) [acceptable](/post/acceptable/). (2) [To](/post/to/) [show](/post/show/) [agreement](/post/agreement/) [or](/post/or/) [support](/post/support/) [for](/post/for/) [a](/post/a/) [plan](/post/plan/), [idea](/post/idea/), [or](/post/or/) [action](/post/action/). (3) [To](/post/to/) [pass](/post/pass/) judgment [on](/post/on/) [the](/post/the/) [quality](/post/quality/) [or](/post/or/) [worth](/post/worth/) [of](/post/of/) [something](/post/something/).
 
 ## Phrases
-- "[Approve](/en/post/approve/) [a](/en/post/a/) [proposal](/en/post/proposal/)" [means](/en/post/means/) [to](/en/post/to/) officially [accept](/en/post/accept/) [or](/en/post/or/) sanction [a](/en/post/a/) [suggestion](/en/post/suggestion/) [or](/en/post/or/) [plan](/en/post/plan/).
-- "I [need](/en/post/need/) [your](/en/post/your/) [approval](/en/post/approval/) [for](/en/post/for/) [this](/en/post/this/)" signifies seeking [permission](/en/post/permission/) [or](/en/post/or/) [consent](/en/post/consent/).
-- "[She](/en/post/she/) approved [of](/en/post/of/) [their](/en/post/their/) [decision](/en/post/decision/)" indicates [agreement](/en/post/agreement/) [or](/en/post/or/) endorsement.
+- "[Approve](/post/approve/) [a](/post/a/) [proposal](/post/proposal/)" [means](/post/means/) [to](/post/to/) officially [accept](/post/accept/) [or](/post/or/) sanction [a](/post/a/) [suggestion](/post/suggestion/) [or](/post/or/) [plan](/post/plan/).
+- "I [need](/post/need/) [your](/post/your/) [approval](/post/approval/) [for](/post/for/) [this](/post/this/)" signifies seeking [permission](/post/permission/) [or](/post/or/) [consent](/post/consent/).
+- "[She](/post/she/) approved [of](/post/of/) [their](/post/their/) [decision](/post/decision/)" indicates [agreement](/post/agreement/) [or](/post/or/) endorsement.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [board](/en/post/board/) approved [the](/en/post/the/) [new](/en/post/new/) budget [proposal](/en/post/proposal/)."
-- "[Please](/en/post/please/) [approve](/en/post/approve/) [my](/en/post/my/) [vacation](/en/post/vacation/) [request](/en/post/request/)."
-- "[The](/en/post/the/) [project](/en/post/project/) was approved [with](/en/post/with/) [minor](/en/post/minor/) modifications."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [board](/post/board/) approved [the](/post/the/) [new](/post/new/) budget [proposal](/post/proposal/)."
+- "[Please](/post/please/) [approve](/post/approve/) [my](/post/my/) [vacation](/post/vacation/) [request](/post/request/)."
+- "[The](/post/the/) [project](/post/project/) was approved [with](/post/with/) [minor](/post/minor/) modifications."
 
 ## Synonyms
-- [Approve](/en/post/approve/) (informal): Endorse, sanction, ratify, authorize, [agree](/en/post/agree/), concur, [okay](/en/post/okay/), sanction
-- Disapprove: [Reject](/en/post/reject/), [object](/en/post/object/), [oppose](/en/post/oppose/), veto, [deny](/en/post/deny/), disallow
-- Validate: [Confirm](/en/post/confirm/), authenticate, endorse, [recognize](/en/post/recognize/)
+- [Approve](/post/approve/) (informal): Endorse, sanction, ratify, authorize, [agree](/post/agree/), concur, [okay](/post/okay/), sanction
+- Disapprove: [Reject](/post/reject/), [object](/post/object/), [oppose](/post/oppose/), veto, [deny](/post/deny/), disallow
+- Validate: [Confirm](/post/confirm/), authenticate, endorse, [recognize](/post/recognize/)
 
 ## Antonyms
-- Disapprove, [reject](/en/post/reject/), [deny](/en/post/deny/), [oppose](/en/post/oppose/)
+- Disapprove, [reject](/post/reject/), [deny](/post/deny/), [oppose](/post/oppose/)
 
-## [Usage](/en/post/usage/) Notes
-- [The](/en/post/the/) [verb](/en/post/verb/) "[approve](/en/post/approve/)" [can](/en/post/can/) [be](/en/post/be/) followed [by](/en/post/by/) [a](/en/post/a/) [suggestion](/en/post/suggestion/), [a](/en/post/a/) [person](/en/post/person/), [or](/en/post/or/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [work](/en/post/work/), depending [on](/en/post/on/) [the](/en/post/the/) context.
-- [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) transitively, taking [a](/en/post/a/) [direct](/en/post/direct/) [object](/en/post/object/), [or](/en/post/or/) intransitively, [without](/en/post/without/) an [object](/en/post/object/) [when](/en/post/when/) expressing [general](/en/post/general/) [agreement](/en/post/agreement/) [or](/en/post/or/) [consent](/en/post/consent/).
+## [Usage](/post/usage/) Notes
+- [The](/post/the/) [verb](/post/verb/) "[approve](/post/approve/)" [can](/post/can/) [be](/post/be/) followed [by](/post/by/) [a](/post/a/) [suggestion](/post/suggestion/), [a](/post/a/) [person](/post/person/), [or](/post/or/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [work](/post/work/), depending [on](/post/on/) [the](/post/the/) context.
+- [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) transitively, taking [a](/post/a/) [direct](/post/direct/) [object](/post/object/), [or](/post/or/) intransitively, [without](/post/without/) an [object](/post/object/) [when](/post/when/) expressing [general](/post/general/) [agreement](/post/agreement/) [or](/post/or/) [consent](/post/consent/).

@@ -7,33 +7,33 @@ description = '[dens] a.密集的；浓厚的'
 keywords = ['ai words', 'dense']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɛns/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Having [a](/en/post/a/) [large](/en/post/large/) [number](/en/post/number/) [or](/en/post/or/) [concentration](/en/post/concentration/) [of](/en/post/of/) particles, [people](/en/post/people/), [or](/en/post/or/) things [per](/en/post/per/) [unit](/en/post/unit/) [volume](/en/post/volume/), making [something](/en/post/something/) [appear](/en/post/appear/) [solid](/en/post/solid/) [or](/en/post/or/) [thick](/en/post/thick/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [forest](/en/post/forest/) was [dense](/en/post/dense/) [with](/en/post/with/) [tall](/en/post/tall/) trees."
-- 2. (Math) Characterized [by](/en/post/by/) [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/) [of](/en/post/of/) complexity [or](/en/post/or/) [density](/en/post/density/) [in](/en/post/in/) [data](/en/post/data/) [or](/en/post/or/) [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [dense](/en/post/dense/) dataset requires [sophisticated](/en/post/sophisticated/) [analysis](/en/post/analysis/)."
-- 3. ([Physics](/en/post/physics/)) Referring [to](/en/post/to/) [a](/en/post/a/) [material](/en/post/material/) [with](/en/post/with/) [a](/en/post/a/) [low](/en/post/low/) permeability [to](/en/post/to/) [light](/en/post/light/) [or](/en/post/or/) [other](/en/post/other/) electromagnetic waves. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [dense](/en/post/dense/) [fog](/en/post/fog/) blocked [the](/en/post/the/) [view](/en/post/view/)."
+- **[Adjective](/post/adjective/)**: 1. Having [a](/post/a/) [large](/post/large/) [number](/post/number/) [or](/post/or/) [concentration](/post/concentration/) [of](/post/of/) particles, [people](/post/people/), [or](/post/or/) things [per](/post/per/) [unit](/post/unit/) [volume](/post/volume/), making [something](/post/something/) [appear](/post/appear/) [solid](/post/solid/) [or](/post/or/) [thick](/post/thick/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [forest](/post/forest/) was [dense](/post/dense/) [with](/post/with/) [tall](/post/tall/) trees."
+- 2. (Math) Characterized [by](/post/by/) [a](/post/a/) [high](/post/high/) [degree](/post/degree/) [of](/post/of/) complexity [or](/post/or/) [density](/post/density/) [in](/post/in/) [data](/post/data/) [or](/post/or/) [information](/post/information/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [dense](/post/dense/) dataset requires [sophisticated](/post/sophisticated/) [analysis](/post/analysis/)."
+- 3. ([Physics](/post/physics/)) Referring [to](/post/to/) [a](/post/a/) [material](/post/material/) [with](/post/with/) [a](/post/a/) [low](/post/low/) permeability [to](/post/to/) [light](/post/light/) [or](/post/or/) [other](/post/other/) electromagnetic waves. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [dense](/post/dense/) [fog](/post/fog/) blocked [the](/post/the/) [view](/post/view/)."
 
-## [Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))
-- [A](/en/post/a/) [quality](/en/post/quality/) [or](/en/post/or/) [condition](/en/post/condition/) [that](/en/post/that/) is [dense](/en/post/dense/), [especially](/en/post/especially/) [when](/en/post/when/) describing [something](/en/post/something/) intangible. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) book's [subject](/en/post/subject/) [matter](/en/post/matter/) is [very](/en/post/very/) [dense](/en/post/dense/)."
+## [Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))
+- [A](/post/a/) [quality](/post/quality/) [or](/post/or/) [condition](/post/condition/) [that](/post/that/) is [dense](/post/dense/), [especially](/post/especially/) [when](/post/when/) describing [something](/post/something/) intangible. [For](/post/for/) [example](/post/example/): "[The](/post/the/) book's [subject](/post/subject/) [matter](/post/matter/) is [very](/post/very/) [dense](/post/dense/)."
 
-## [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) [dense](/en/post/dense/) [manner](/en/post/manner/); [closely](/en/post/closely/) [or](/en/post/or/) thickly. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [crowd](/en/post/crowd/) was densely packed [for](/en/post/for/) [the](/en/post/the/) [concert](/en/post/concert/)."
+## [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) [dense](/post/dense/) [manner](/post/manner/); [closely](/post/closely/) [or](/post/or/) thickly. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [crowd](/post/crowd/) was densely packed [for](/post/for/) [the](/post/the/) [concert](/post/concert/)."
 
 ## Phrases
-- "[Dense](/en/post/dense/) foliage" describes [thick](/en/post/thick/) vegetation.
-- "[A](/en/post/a/) [dense](/en/post/dense/) [network](/en/post/network/)" refers [to](/en/post/to/) [a](/en/post/a/) tightly connected [system](/en/post/system/).
-- "[Dense](/en/post/dense/) packing" [means](/en/post/means/) [efficient](/en/post/efficient/) [use](/en/post/use/) [of](/en/post/of/) [space](/en/post/space/).
+- "[Dense](/post/dense/) foliage" describes [thick](/post/thick/) vegetation.
+- "[A](/post/a/) [dense](/post/dense/) [network](/post/network/)" refers [to](/post/to/) [a](/post/a/) tightly connected [system](/post/system/).
+- "[Dense](/post/dense/) packing" [means](/post/means/) [efficient](/post/efficient/) [use](/post/use/) [of](/post/of/) [space](/post/space/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [jungle](/en/post/jungle/) was [so](/en/post/so/) [dense](/en/post/dense/) [that](/en/post/that/) [it](/en/post/it/) was [hard](/en/post/hard/) [to](/en/post/to/) navigate."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [professor](/en/post/professor/) explained [the](/en/post/the/) [dense](/en/post/dense/) [theory](/en/post/theory/) [with](/en/post/with/) [patience](/en/post/patience/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) carefully studied [the](/en/post/the/) [dense](/en/post/dense/) [data](/en/post/data/) [to](/en/post/to/) extract [valuable](/en/post/valuable/) insights."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [jungle](/post/jungle/) was [so](/post/so/) [dense](/post/dense/) [that](/post/that/) [it](/post/it/) was [hard](/post/hard/) [to](/post/to/) navigate."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [professor](/post/professor/) explained [the](/post/the/) [dense](/post/dense/) [theory](/post/theory/) [with](/post/with/) [patience](/post/patience/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) carefully studied [the](/post/the/) [dense](/post/dense/) [data](/post/data/) [to](/post/to/) extract [valuable](/post/valuable/) insights."
 
 ## Synonyms
-- [Thick](/en/post/thick/)
+- [Thick](/post/thick/)
 - Concentrated
-- [Intimate](/en/post/intimate/)
+- [Intimate](/post/intimate/)
 - Congested
 - Compact

@@ -7,31 +7,31 @@ description = '[it] pron.这，那，它'
 keywords = ['ai words', 'it']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪt/
 
 ## Definitions
-- **[Pronoun](/en/post/pronoun/)**: [Used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [thing](/en/post/thing/) [previously](/en/post/previously/) mentioned, known, [or](/en/post/or/) understood, [or](/en/post/or/) [to](/en/post/to/) [a](/en/post/a/) [thing](/en/post/thing/) represented [by](/en/post/by/) [a](/en/post/a/) [single](/en/post/single/) [letter](/en/post/letter/) ([such](/en/post/such/) [as](/en/post/as/) '[it](/en/post/it/)' [in](/en/post/in/) 'It's raining.'), [a](/en/post/a/) [personal](/en/post/personal/) [pronoun](/en/post/pronoun/) [with](/en/post/with/) [no](/en/post/no/) gender [or](/en/post/or/) [number](/en/post/number/) [distinction](/en/post/distinction/).
-  - [Example](/en/post/example/): "I [love](/en/post/love/) [this](/en/post/this/) [car](/en/post/car/); it's [really](/en/post/really/) [fast](/en/post/fast/)." 
-- **Expletive [Pronoun](/en/post/pronoun/)**: [Used](/en/post/used/) [without](/en/post/without/) [meaning](/en/post/meaning/) [as](/en/post/as/) [a](/en/post/a/) [grammatical](/en/post/grammatical/) [subject](/en/post/subject/), [usually](/en/post/usually/) [in](/en/post/in/) impersonal expressions, [such](/en/post/such/) [as](/en/post/as/) "It's [hot](/en/post/hot/) [today](/en/post/today/)."
-  - [Example](/en/post/example/): "[It](/en/post/it/) seems [that](/en/post/that/) [he](/en/post/he/) has [already](/en/post/already/) [left](/en/post/left/)."
-- **Demonstrative [Pronoun](/en/post/pronoun/)**: [Can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [time](/en/post/time/) ("It's [ten](/en/post/ten/) o'clock"), [weather](/en/post/weather/) conditions ("It's snowing"), [or](/en/post/or/) [distance](/en/post/distance/) ("It's [far](/en/post/far/) [from](/en/post/from/) [here](/en/post/here/)").
-  - [Example](/en/post/example/): "It's [about](/en/post/about/) an hour's [drive](/en/post/drive/) [to](/en/post/to/) [the](/en/post/the/) [airport](/en/post/airport/)."
+- **[Pronoun](/post/pronoun/)**: [Used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [thing](/post/thing/) [previously](/post/previously/) mentioned, known, [or](/post/or/) understood, [or](/post/or/) [to](/post/to/) [a](/post/a/) [thing](/post/thing/) represented [by](/post/by/) [a](/post/a/) [single](/post/single/) [letter](/post/letter/) ([such](/post/such/) [as](/post/as/) '[it](/post/it/)' [in](/post/in/) 'It's raining.'), [a](/post/a/) [personal](/post/personal/) [pronoun](/post/pronoun/) [with](/post/with/) [no](/post/no/) gender [or](/post/or/) [number](/post/number/) [distinction](/post/distinction/).
+  - [Example](/post/example/): "I [love](/post/love/) [this](/post/this/) [car](/post/car/); it's [really](/post/really/) [fast](/post/fast/)." 
+- **Expletive [Pronoun](/post/pronoun/)**: [Used](/post/used/) [without](/post/without/) [meaning](/post/meaning/) [as](/post/as/) [a](/post/a/) [grammatical](/post/grammatical/) [subject](/post/subject/), [usually](/post/usually/) [in](/post/in/) impersonal expressions, [such](/post/such/) [as](/post/as/) "It's [hot](/post/hot/) [today](/post/today/)."
+  - [Example](/post/example/): "[It](/post/it/) seems [that](/post/that/) [he](/post/he/) has [already](/post/already/) [left](/post/left/)."
+- **Demonstrative [Pronoun](/post/pronoun/)**: [Can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [time](/post/time/) ("It's [ten](/post/ten/) o'clock"), [weather](/post/weather/) conditions ("It's snowing"), [or](/post/or/) [distance](/post/distance/) ("It's [far](/post/far/) [from](/post/from/) [here](/post/here/)").
+  - [Example](/post/example/): "It's [about](/post/about/) an hour's [drive](/post/drive/) [to](/post/to/) [the](/post/the/) [airport](/post/airport/)."
   
 ## Phrases
-- "It's [up](/en/post/up/) [to](/en/post/to/) [you](/en/post/you/)" implies [that](/en/post/that/) [the](/en/post/the/) [decision](/en/post/decision/) [or](/en/post/or/) [responsibility](/en/post/responsibility/) lies [with](/en/post/with/) [the](/en/post/the/) [person](/en/post/person/) [being](/en/post/being/) addressed.
-- "It's [not](/en/post/not/) [what](/en/post/what/) [it](/en/post/it/) seems" suggests [that](/en/post/that/) [something](/en/post/something/) appears [different](/en/post/different/) [than](/en/post/than/) [its](/en/post/its/) [true](/en/post/true/) [nature](/en/post/nature/) [or](/en/post/or/) [reality](/en/post/reality/).
-- "[It](/en/post/it/) takes [two](/en/post/two/) [to](/en/post/to/) tango" is [a](/en/post/a/) proverbial [expression](/en/post/expression/) [meaning](/en/post/meaning/) [that](/en/post/that/) [both](/en/post/both/) parties are involved [or](/en/post/or/) [necessary](/en/post/necessary/) [for](/en/post/for/) [a](/en/post/a/) [situation](/en/post/situation/) [to](/en/post/to/) [occur](/en/post/occur/).
+- "It's [up](/post/up/) [to](/post/to/) [you](/post/you/)" implies [that](/post/that/) [the](/post/the/) [decision](/post/decision/) [or](/post/or/) [responsibility](/post/responsibility/) lies [with](/post/with/) [the](/post/the/) [person](/post/person/) [being](/post/being/) addressed.
+- "It's [not](/post/not/) [what](/post/what/) [it](/post/it/) seems" suggests [that](/post/that/) [something](/post/something/) appears [different](/post/different/) [than](/post/than/) [its](/post/its/) [true](/post/true/) [nature](/post/nature/) [or](/post/or/) [reality](/post/reality/).
+- "[It](/post/it/) takes [two](/post/two/) [to](/post/to/) tango" is [a](/post/a/) proverbial [expression](/post/expression/) [meaning](/post/meaning/) [that](/post/that/) [both](/post/both/) parties are involved [or](/post/or/) [necessary](/post/necessary/) [for](/post/for/) [a](/post/a/) [situation](/post/situation/) [to](/post/to/) [occur](/post/occur/).
 
-## [Example](/en/post/example/) Sentences
-- **[Pronoun](/en/post/pronoun/) referring [to](/en/post/to/) [a](/en/post/a/) [previously](/en/post/previously/) mentioned [object](/en/post/object/)**: "[The](/en/post/the/) [book](/en/post/book/) was [heavy](/en/post/heavy/); I couldn't [lift](/en/post/lift/) [it](/en/post/it/)."
-- **Expletive [pronoun](/en/post/pronoun/)**: "It's [important](/en/post/important/) [to](/en/post/to/) [be](/en/post/be/) [on](/en/post/on/) [time](/en/post/time/) [for](/en/post/for/) appointments."
-- **Demonstrative [pronoun](/en/post/pronoun/) [for](/en/post/for/) [time](/en/post/time/)**: "It's [half](/en/post/half/) [past](/en/post/past/) [midnight](/en/post/midnight/)."
+## [Example](/post/example/) Sentences
+- **[Pronoun](/post/pronoun/) referring [to](/post/to/) [a](/post/a/) [previously](/post/previously/) mentioned [object](/post/object/)**: "[The](/post/the/) [book](/post/book/) was [heavy](/post/heavy/); I couldn't [lift](/post/lift/) [it](/post/it/)."
+- **Expletive [pronoun](/post/pronoun/)**: "It's [important](/post/important/) [to](/post/to/) [be](/post/be/) [on](/post/on/) [time](/post/time/) [for](/post/for/) appointments."
+- **Demonstrative [pronoun](/post/pronoun/) [for](/post/for/) [time](/post/time/)**: "It's [half](/post/half/) [past](/post/past/) [midnight](/post/midnight/)."
 
 ## Synonyms
-- [This](/en/post/this/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- [That](/en/post/that/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- [The](/en/post/the/) [thing](/en/post/thing/) (informal)
-- [The](/en/post/the/) [matter](/en/post/matter/) ([formal](/en/post/formal/))
+- [This](/post/this/) ([in](/post/in/) [certain](/post/certain/) contexts)
+- [That](/post/that/) ([in](/post/in/) [certain](/post/certain/) contexts)
+- [The](/post/the/) [thing](/post/thing/) (informal)
+- [The](/post/the/) [matter](/post/matter/) ([formal](/post/formal/))
 
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) "[it](/en/post/it/)" doesn't [have](/en/post/have/) [specific](/en/post/specific/) synonyms [because](/en/post/because/) [its](/en/post/its/) [role](/en/post/role/) [and](/en/post/and/) [meaning](/en/post/meaning/) [can](/en/post/can/) [vary](/en/post/vary/) significantly depending [on](/en/post/on/) context. [However](/en/post/however/), [other](/en/post/other/) pronouns [like](/en/post/like/) "[this](/en/post/this/)" [or](/en/post/or/) "[that](/en/post/that/)" [might](/en/post/might/) [sometimes](/en/post/sometimes/) [substitute](/en/post/substitute/) [for](/en/post/for/) "[it](/en/post/it/)" [in](/en/post/in/) [specific](/en/post/specific/) situations, [but](/en/post/but/) [they](/en/post/they/) [do](/en/post/do/) [not](/en/post/not/) fully [capture](/en/post/capture/) [the](/en/post/the/) [breadth](/en/post/breadth/) [of](/en/post/of/) "[it](/en/post/it/)"'s [usage](/en/post/usage/).
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) "[it](/post/it/)" doesn't [have](/post/have/) [specific](/post/specific/) synonyms [because](/post/because/) [its](/post/its/) [role](/post/role/) [and](/post/and/) [meaning](/post/meaning/) [can](/post/can/) [vary](/post/vary/) significantly depending [on](/post/on/) context. [However](/post/however/), [other](/post/other/) pronouns [like](/post/like/) "[this](/post/this/)" [or](/post/or/) "[that](/post/that/)" [might](/post/might/) [sometimes](/post/sometimes/) [substitute](/post/substitute/) [for](/post/for/) "[it](/post/it/)" [in](/post/in/) [specific](/post/specific/) situations, [but](/post/but/) [they](/post/they/) [do](/post/do/) [not](/post/not/) fully [capture](/post/capture/) [the](/post/the/) [breadth](/post/breadth/) [of](/post/of/) "[it](/post/it/)"'s [usage](/post/usage/).

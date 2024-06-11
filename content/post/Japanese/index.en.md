@@ -7,32 +7,32 @@ description = '[dʒæpəˈniːz] a.日本的 n.日本人'
 keywords = ['ai words', 'Japanese']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dʒəˈpænɪʃ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Of](/en/post/of/) [or](/en/post/or/) relating [to](/en/post/to/) Japan, [its](/en/post/its/) [people](/en/post/people/), [language](/en/post/language/), [or](/en/post/or/) [culture](/en/post/culture/). [For](/en/post/for/) [example](/en/post/example/): "She's [learning](/en/post/learning/) Japanese cuisine."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [language](/en/post/language/) spoken [by](/en/post/by/) [the](/en/post/the/) [people](/en/post/people/) [of](/en/post/of/) Japan. [For](/en/post/for/) [example](/en/post/example/): "I'm studying Japanese [this](/en/post/this/) [semester](/en/post/semester/)."
+- **[Adjective](/post/adjective/)**: [Of](/post/of/) [or](/post/or/) relating [to](/post/to/) Japan, [its](/post/its/) [people](/post/people/), [language](/post/language/), [or](/post/or/) [culture](/post/culture/). [For](/post/for/) [example](/post/example/): "She's [learning](/post/learning/) Japanese cuisine."
+- **[Noun](/post/noun/)**: [The](/post/the/) [language](/post/language/) spoken [by](/post/by/) [the](/post/the/) [people](/post/people/) [of](/post/of/) Japan. [For](/post/for/) [example](/post/example/): "I'm studying Japanese [this](/post/this/) [semester](/post/semester/)."
 
-### [Adjective](/en/post/adjective/) (Definitions & Examples)
-- **[Definition](/en/post/definition/)**: Describing [something](/en/post/something/) [that](/en/post/that/) originates [from](/en/post/from/) [or](/en/post/or/) is [characteristic](/en/post/characteristic/) [of](/en/post/of/) Japan. 
-  - _Example Sentence_: "[The](/en/post/the/) [restaurant](/en/post/restaurant/) serves authentic Japanese sushi."
-- **[Definition](/en/post/definition/)**: Referring [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [a](/en/post/a/) [native](/en/post/native/) [or](/en/post/or/) [inhabitant](/en/post/inhabitant/) [of](/en/post/of/) Japan.
-  - _Example Sentence_: "She's [a](/en/post/a/) Japanese [national](/en/post/national/) [with](/en/post/with/) [a](/en/post/a/) [deep](/en/post/deep/) [understanding](/en/post/understanding/) [of](/en/post/of/) [her](/en/post/her/) country's [history](/en/post/history/)."
+### [Adjective](/post/adjective/) (Definitions & Examples)
+- **[Definition](/post/definition/)**: Describing [something](/post/something/) [that](/post/that/) originates [from](/post/from/) [or](/post/or/) is [characteristic](/post/characteristic/) [of](/post/of/) Japan. 
+  - _Example Sentence_: "[The](/post/the/) [restaurant](/post/restaurant/) serves authentic Japanese sushi."
+- **[Definition](/post/definition/)**: Referring [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) is [a](/post/a/) [native](/post/native/) [or](/post/or/) [inhabitant](/post/inhabitant/) [of](/post/of/) Japan.
+  - _Example Sentence_: "She's [a](/post/a/) Japanese [national](/post/national/) [with](/post/with/) [a](/post/a/) [deep](/post/deep/) [understanding](/post/understanding/) [of](/post/of/) [her](/post/her/) country's [history](/post/history/)."
 
-### [Noun](/en/post/noun/) (Definitions & Examples)
-- **[Definition](/en/post/definition/)**: [As](/en/post/as/) [a](/en/post/a/) [proper](/en/post/proper/) [noun](/en/post/noun/), [it](/en/post/it/) denotes [the](/en/post/the/) [language](/en/post/language/) [itself](/en/post/itself/).
-  - _Example Sentence_: "Japanese [grammar](/en/post/grammar/) is [quite](/en/post/quite/) [different](/en/post/different/) [from](/en/post/from/) English."
+### [Noun](/post/noun/) (Definitions & Examples)
+- **[Definition](/post/definition/)**: [As](/post/as/) [a](/post/a/) [proper](/post/proper/) [noun](/post/noun/), [it](/post/it/) denotes [the](/post/the/) [language](/post/language/) [itself](/post/itself/).
+  - _Example Sentence_: "Japanese [grammar](/post/grammar/) is [quite](/post/quite/) [different](/post/different/) [from](/post/from/) English."
 - **Phrases**: 
-  - "[Learn](/en/post/learn/) Japanese" implies [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) acquiring [knowledge](/en/post/knowledge/) [of](/en/post/of/) [the](/en/post/the/) Japanese [language](/en/post/language/).
-  - "[Speak](/en/post/speak/) Japanese fluently" indicates [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) proficiency [in](/en/post/in/) [the](/en/post/the/) [language](/en/post/language/).
+  - "[Learn](/post/learn/) Japanese" implies [the](/post/the/) [process](/post/process/) [of](/post/of/) acquiring [knowledge](/post/knowledge/) [of](/post/of/) [the](/post/the/) Japanese [language](/post/language/).
+  - "[Speak](/post/speak/) Japanese fluently" indicates [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) proficiency [in](/post/in/) [the](/post/the/) [language](/post/language/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [company](/en/post/company/) imports high-quality Japanese [electronics](/en/post/electronics/)."
-- **[Noun](/en/post/noun/)**: "He's [fluent](/en/post/fluent/) [in](/en/post/in/) [three](/en/post/three/) languages, including Japanese."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [company](/post/company/) imports high-quality Japanese [electronics](/post/electronics/)."
+- **[Noun](/post/noun/)**: "He's [fluent](/post/fluent/) [in](/post/in/) [three](/post/three/) languages, including Japanese."
 
 ## Synonyms
-- Nipponese ([for](/en/post/for/) [adjective](/en/post/adjective/) referring [to](/en/post/to/) [people](/en/post/people/) [or](/en/post/or/) things [from](/en/post/from/) Japan)
-- Japonic ([for](/en/post/for/) [the](/en/post/the/) [language](/en/post/language/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) linguistic contexts) 
+- Nipponese ([for](/post/for/) [adjective](/post/adjective/) referring [to](/post/to/) [people](/post/people/) [or](/post/or/) things [from](/post/from/) Japan)
+- Japonic ([for](/post/for/) [the](/post/the/) [language](/post/language/), [often](/post/often/) [used](/post/used/) [in](/post/in/) linguistic contexts) 
 
-[Note](/en/post/note/): [There](/en/post/there/) are [no](/en/post/no/) [exact](/en/post/exact/) synonyms [for](/en/post/for/) 'Japanese' [when](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) [nationality](/en/post/nationality/) [or](/en/post/or/) [language](/en/post/language/); [however](/en/post/however/), terms [like](/en/post/like/) 'Japan-born', 'Japan-based', [or](/en/post/or/) 'Japanese-speaking' [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) contextually [to](/en/post/to/) [convey](/en/post/convey/) [similar](/en/post/similar/) meanings.
+[Note](/post/note/): [There](/post/there/) are [no](/post/no/) [exact](/post/exact/) synonyms [for](/post/for/) 'Japanese' [when](/post/when/) referring [to](/post/to/) [the](/post/the/) [nationality](/post/nationality/) [or](/post/or/) [language](/post/language/); [however](/post/however/), terms [like](/post/like/) 'Japan-born', 'Japan-based', [or](/post/or/) 'Japanese-speaking' [can](/post/can/) [be](/post/be/) [used](/post/used/) contextually [to](/post/to/) [convey](/post/convey/) [similar](/post/similar/) meanings.

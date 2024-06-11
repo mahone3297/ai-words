@@ -7,37 +7,37 @@ description = '[ˈtɔrənt] n.奔流，激流，洪流'
 keywords = ['ai words', 'torrent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɔːrənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[torrent](/en/post/torrent/)** is [a](/en/post/a/) [large](/en/post/large/), [powerful](/en/post/powerful/) [stream](/en/post/stream/) [or](/en/post/or/) [flow](/en/post/flow/) [of](/en/post/of/) [water](/en/post/water/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) moves [rapidly](/en/post/rapidly/), [often](/en/post/often/) [over](/en/post/over/) [a](/en/post/a/) [wide](/en/post/wide/) [area](/en/post/area/), [during](/en/post/during/) [heavy](/en/post/heavy/) [rain](/en/post/rain/) [or](/en/post/or/) snowmelt. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [rapid](/en/post/rapid/), [continuous](/en/post/continuous/) [flow](/en/post/flow/) [of](/en/post/of/) [data](/en/post/data/) [or](/en/post/or/) [information](/en/post/information/), [such](/en/post/such/) [as](/en/post/as/) [from](/en/post/from/) [the](/en/post/the/) internet [or](/en/post/or/) [a](/en/post/a/) [file](/en/post/file/) download.
+### [Noun](/post/noun/)
+[A](/post/a/) **[torrent](/post/torrent/)** is [a](/post/a/) [large](/post/large/), [powerful](/post/powerful/) [stream](/post/stream/) [or](/post/or/) [flow](/post/flow/) [of](/post/of/) [water](/post/water/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) moves [rapidly](/post/rapidly/), [often](/post/often/) [over](/post/over/) [a](/post/a/) [wide](/post/wide/) [area](/post/area/), [during](/post/during/) [heavy](/post/heavy/) [rain](/post/rain/) [or](/post/or/) snowmelt. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [rapid](/post/rapid/), [continuous](/post/continuous/) [flow](/post/flow/) [of](/post/of/) [data](/post/data/) [or](/post/or/) [information](/post/information/), [such](/post/such/) [as](/post/as/) [from](/post/from/) [the](/post/the/) internet [or](/post/or/) [a](/post/a/) [file](/post/file/) download.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[torrent](/en/post/torrent/)** [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [flow](/en/post/flow/) powerfully, surge, [or](/en/post/or/) overwhelm [with](/en/post/with/) [a](/en/post/a/) [strong](/en/post/strong/) [current](/en/post/current/), [as](/en/post/as/) [in](/en/post/in/) [water](/en/post/water/) [or](/en/post/or/) [data](/en/post/data/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) downloading [a](/en/post/a/) [large](/en/post/large/) [file](/en/post/file/) [from](/en/post/from/) [a](/en/post/a/) [torrent](/en/post/torrent/) [network](/en/post/network/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[torrent](/post/torrent/)** [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [flow](/post/flow/) powerfully, surge, [or](/post/or/) overwhelm [with](/post/with/) [a](/post/a/) [strong](/post/strong/) [current](/post/current/), [as](/post/as/) [in](/post/in/) [water](/post/water/) [or](/post/or/) [data](/post/data/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) downloading [a](/post/a/) [large](/post/large/) [file](/post/file/) [from](/post/from/) [a](/post/a/) [torrent](/post/torrent/) [network](/post/network/).
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [technology](/en/post/technology/), [a](/en/post/a/) **torrential** [adjective](/en/post/adjective/) describes [something](/en/post/something/) [that](/en/post/that/) is [extremely](/en/post/extremely/) [fast](/en/post/fast/), [intense](/en/post/intense/), [or](/en/post/or/) overwhelming, [like](/en/post/like/) [a](/en/post/a/) torrential [rain](/en/post/rain/).
+### [Adjective](/post/adjective/)
+[In](/post/in/) [the](/post/the/) context [of](/post/of/) [technology](/post/technology/), [a](/post/a/) **torrential** [adjective](/post/adjective/) describes [something](/post/something/) [that](/post/that/) is [extremely](/post/extremely/) [fast](/post/fast/), [intense](/post/intense/), [or](/post/or/) overwhelming, [like](/post/like/) [a](/post/a/) torrential [rain](/post/rain/).
 
-### [Adverb](/en/post/adverb/)
-[A](/en/post/a/) **torrentially** [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) happens [with](/en/post/with/) [great](/en/post/great/) [force](/en/post/force/) [or](/en/post/or/) [intensity](/en/post/intensity/), [like](/en/post/like/) [rain](/en/post/rain/) falling [heavily](/en/post/heavily/).
+### [Adverb](/post/adverb/)
+[A](/post/a/) **torrentially** [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) happens [with](/post/with/) [great](/post/great/) [force](/post/force/) [or](/post/or/) [intensity](/post/intensity/), [like](/post/like/) [rain](/post/rain/) falling [heavily](/post/heavily/).
 
 ## Phrases
-- "[A](/en/post/a/) torrential downpour" describes [heavy](/en/post/heavy/) [rain](/en/post/rain/).
-- "Torrential downloading" refers [to](/en/post/to/) [rapid](/en/post/rapid/) [data](/en/post/data/) [transfer](/en/post/transfer/).
-- "[A](/en/post/a/) [torrent](/en/post/torrent/) [of](/en/post/of/) questions" signifies [a](/en/post/a/) [continuous](/en/post/continuous/) [stream](/en/post/stream/) [of](/en/post/of/) inquiries.
+- "[A](/post/a/) torrential downpour" describes [heavy](/post/heavy/) [rain](/post/rain/).
+- "Torrential downloading" refers [to](/post/to/) [rapid](/post/rapid/) [data](/post/data/) [transfer](/post/transfer/).
+- "[A](/post/a/) [torrent](/post/torrent/) [of](/post/of/) questions" signifies [a](/post/a/) [continuous](/post/continuous/) [stream](/post/stream/) [of](/post/of/) inquiries.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [river](/en/post/river/) was [in](/en/post/in/) [full](/en/post/full/) [torrent](/en/post/torrent/) [after](/en/post/after/) [the](/en/post/the/) [heavy](/en/post/heavy/) rainfall."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) watched [the](/en/post/the/) [movie](/en/post/movie/) [torrent](/en/post/torrent/) [on](/en/post/on/) [her](/en/post/her/) laptop."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) internet [connection](/en/post/connection/) was [so](/en/post/so/) [slow](/en/post/slow/), [it](/en/post/it/) felt [like](/en/post/like/) [a](/en/post/a/) torrential [drip](/en/post/drip/) compared [to](/en/post/to/) [what](/en/post/what/) I'm [used](/en/post/used/) [to](/en/post/to/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [music](/en/post/music/) played torrentially [loud](/en/post/loud/) [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [river](/post/river/) was [in](/post/in/) [full](/post/full/) [torrent](/post/torrent/) [after](/post/after/) [the](/post/the/) [heavy](/post/heavy/) rainfall."
+- **[Verb](/post/verb/)**: "[She](/post/she/) watched [the](/post/the/) [movie](/post/movie/) [torrent](/post/torrent/) [on](/post/on/) [her](/post/her/) laptop."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) internet [connection](/post/connection/) was [so](/post/so/) [slow](/post/slow/), [it](/post/it/) felt [like](/post/like/) [a](/post/a/) torrential [drip](/post/drip/) compared [to](/post/to/) [what](/post/what/) I'm [used](/post/used/) [to](/post/to/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [music](/post/music/) played torrentially [loud](/post/loud/) [at](/post/at/) [the](/post/the/) [party](/post/party/)."
 
 ## Synonyms
-- [Flood](/en/post/flood/)
+- [Flood](/post/flood/)
 - Cascade
 - Deluge
 - Floodwave
-- Avalanche ([in](/en/post/in/) [the](/en/post/the/) [data](/en/post/data/) [sense](/en/post/sense/))
-- Frenzy ([in](/en/post/in/) [the](/en/post/the/) [flow](/en/post/flow/) [sense](/en/post/sense/))
+- Avalanche ([in](/post/in/) [the](/post/the/) [data](/post/data/) [sense](/post/sense/))
+- Frenzy ([in](/post/in/) [the](/post/the/) [flow](/post/flow/) [sense](/post/sense/))

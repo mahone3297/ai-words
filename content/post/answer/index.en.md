@@ -7,31 +7,31 @@ description = '[ˈɑːnsə] vt.回答；响应；适应'
 keywords = ['ai words', 'answer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈænsər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [reply](/en/post/reply/) [to](/en/post/to/) [a](/en/post/a/) [question](/en/post/question/) [or](/en/post/or/) [request](/en/post/request/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) gave [him](/en/post/him/) [a](/en/post/a/) concise [answer](/en/post/answer/) [to](/en/post/to/) [his](/en/post/his/) query."
-   - 2. [The](/en/post/the/) [solution](/en/post/solution/) [to](/en/post/to/) [a](/en/post/a/) [problem](/en/post/problem/) [or](/en/post/or/) [puzzle](/en/post/puzzle/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [answer](/en/post/answer/) [to](/en/post/to/) [this](/en/post/this/) math [problem](/en/post/problem/) was 42."
-   - 3. [A](/en/post/a/) [response](/en/post/response/) [to](/en/post/to/) [a](/en/post/a/) [challenge](/en/post/challenge/) [or](/en/post/or/) [question](/en/post/question/) [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was declared [the](/en/post/the/) [winner](/en/post/winner/) [after](/en/post/after/) giving [the](/en/post/the/) [correct](/en/post/correct/) [answer](/en/post/answer/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [provide](/en/post/provide/) [a](/en/post/a/) [response](/en/post/response/) [or](/en/post/or/) [reply](/en/post/reply/) [to](/en/post/to/) [a](/en/post/a/) [question](/en/post/question/) [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [answer](/en/post/answer/) [my](/en/post/my/) [question](/en/post/question/) [when](/en/post/when/) [you](/en/post/you/) [have](/en/post/have/) [time](/en/post/time/)."
-   - 2. (figurative) [To](/en/post/to/) acknowledge [or](/en/post/or/) [address](/en/post/address/) [a](/en/post/a/) [need](/en/post/need/) [or](/en/post/or/) [issue](/en/post/issue/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) government's [policy](/en/post/policy/) aims [to](/en/post/to/) [answer](/en/post/answer/) [the](/en/post/the/) concerns [of](/en/post/of/) [its](/en/post/its/) citizens."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [reply](/post/reply/) [to](/post/to/) [a](/post/a/) [question](/post/question/) [or](/post/or/) [request](/post/request/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) gave [him](/post/him/) [a](/post/a/) concise [answer](/post/answer/) [to](/post/to/) [his](/post/his/) query."
+   - 2. [The](/post/the/) [solution](/post/solution/) [to](/post/to/) [a](/post/a/) [problem](/post/problem/) [or](/post/or/) [puzzle](/post/puzzle/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [answer](/post/answer/) [to](/post/to/) [this](/post/this/) math [problem](/post/problem/) was 42."
+   - 3. [A](/post/a/) [response](/post/response/) [to](/post/to/) [a](/post/a/) [challenge](/post/challenge/) [or](/post/or/) [question](/post/question/) [in](/post/in/) [a](/post/a/) [competition](/post/competition/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) was declared [the](/post/the/) [winner](/post/winner/) [after](/post/after/) giving [the](/post/the/) [correct](/post/correct/) [answer](/post/answer/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [provide](/post/provide/) [a](/post/a/) [response](/post/response/) [or](/post/or/) [reply](/post/reply/) [to](/post/to/) [a](/post/a/) [question](/post/question/) [or](/post/or/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [answer](/post/answer/) [my](/post/my/) [question](/post/question/) [when](/post/when/) [you](/post/you/) [have](/post/have/) [time](/post/time/)."
+   - 2. (figurative) [To](/post/to/) acknowledge [or](/post/or/) [address](/post/address/) [a](/post/a/) [need](/post/need/) [or](/post/or/) [issue](/post/issue/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) government's [policy](/post/policy/) aims [to](/post/to/) [answer](/post/answer/) [the](/post/the/) concerns [of](/post/of/) [its](/post/its/) citizens."
 
 ## Phrases
-- "What's [your](/en/post/your/) [answer](/en/post/answer/)?" is [a](/en/post/a/) [question](/en/post/question/) seeking [a](/en/post/a/) [response](/en/post/response/).
-- "I don't [have](/en/post/have/) an [answer](/en/post/answer/) [right](/en/post/right/) [now](/en/post/now/)" implies uncertainty [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [information](/en/post/information/).
-- "[Answer](/en/post/answer/) [key](/en/post/key/)" refers [to](/en/post/to/) [a](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) [correct](/en/post/correct/) answers [to](/en/post/to/) [a](/en/post/a/) [test](/en/post/test/) [or](/en/post/or/) [quiz](/en/post/quiz/).
+- "What's [your](/post/your/) [answer](/post/answer/)?" is [a](/post/a/) [question](/post/question/) seeking [a](/post/a/) [response](/post/response/).
+- "I don't [have](/post/have/) an [answer](/post/answer/) [right](/post/right/) [now](/post/now/)" implies uncertainty [or](/post/or/) [lack](/post/lack/) [of](/post/of/) [information](/post/information/).
+- "[Answer](/post/answer/) [key](/post/key/)" refers [to](/post/to/) [a](/post/a/) [set](/post/set/) [of](/post/of/) [correct](/post/correct/) answers [to](/post/to/) [a](/post/a/) [test](/post/test/) [or](/post/or/) [quiz](/post/quiz/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [for](/en/post/for/) volunteers [to](/en/post/to/) [give](/en/post/give/) [their](/en/post/their/) answers [first](/en/post/first/)."
-- **[Verb](/en/post/verb/)**: "[Can](/en/post/can/) [you](/en/post/you/) [answer](/en/post/answer/) [this](/en/post/this/) [question](/en/post/question/) [without](/en/post/without/) looking [at](/en/post/at/) [your](/en/post/your/) notes?"
-- **Interjection**: "[Sorry](/en/post/sorry/), I didn't [hear](/en/post/hear/) [your](/en/post/your/) [question](/en/post/question/). [Can](/en/post/can/) [you](/en/post/you/) [please](/en/post/please/) [repeat](/en/post/repeat/) [the](/en/post/the/) [answer](/en/post/answer/)?"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [teacher](/post/teacher/) asked [for](/post/for/) volunteers [to](/post/to/) [give](/post/give/) [their](/post/their/) answers [first](/post/first/)."
+- **[Verb](/post/verb/)**: "[Can](/post/can/) [you](/post/you/) [answer](/post/answer/) [this](/post/this/) [question](/post/question/) [without](/post/without/) looking [at](/post/at/) [your](/post/your/) notes?"
+- **Interjection**: "[Sorry](/post/sorry/), I didn't [hear](/post/hear/) [your](/post/your/) [question](/post/question/). [Can](/post/can/) [you](/post/you/) [please](/post/please/) [repeat](/post/repeat/) [the](/post/the/) [answer](/post/answer/)?"
 
 ## Synonyms
-- [Response](/en/post/response/)
+- [Response](/post/response/)
 - Answering
-- [Reply](/en/post/reply/)
-- [Resolution](/en/post/resolution/)
-- [Solution](/en/post/solution/)
-- [Explanation](/en/post/explanation/)
-- [Feedback](/en/post/feedback/)
+- [Reply](/post/reply/)
+- [Resolution](/post/resolution/)
+- [Solution](/post/solution/)
+- [Explanation](/post/explanation/)
+- [Feedback](/post/feedback/)

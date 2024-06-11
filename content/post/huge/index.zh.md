@@ -11,20 +11,20 @@ keywords = ['ai words', 'huge']
 /hjuːdʒ/
 
 ## 释义
-- **形容词**: 极大的，巨大的，庞大的。例如: "[The](/post/the/) [company](/post/company/) announced [a](/post/a/) [huge](/post/huge/) [profit](/post/profit/) [increase](/post/increase/)."
-- **名词**: 大量，巨量。例如: "[There](/post/there/) was [a](/post/a/) [huge](/post/huge/) turnout [for](/post/for/) [the](/post/the/) [event](/post/event/)."
+- **形容词**: 极大的，巨大的，庞大的。例如: "[The](/zh/post/the/) [company](/zh/post/company/) announced [a](/zh/post/a/) [huge](/zh/post/huge/) [profit](/zh/post/profit/) [increase](/zh/post/increase/)."
+- **名词**: 大量，巨量。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [huge](/zh/post/huge/) turnout [for](/zh/post/for/) [the](/zh/post/the/) [event](/zh/post/event/)."
 
 ## 短语
-- "[huge](/post/huge/) [success](/post/success/)" 意为巨大的成功。
-- "[a](/post/a/) [huge](/post/huge/) [amount](/post/amount/)/[number](/post/number/) [of](/post/of/)" 表示大量的数量。
+- "[huge](/zh/post/huge/) [success](/zh/post/success/)" 意为巨大的成功。
+- "[a](/zh/post/a/) [huge](/zh/post/huge/) [amount](/zh/post/amount/)/[number](/zh/post/number/) [of](/zh/post/of/)" 表示大量的数量。
 
 ## 例句
-- 形容词: "[The](/post/the/) [elephant](/post/elephant/) is [a](/post/a/) [huge](/post/huge/) [animal](/post/animal/), towering [over](/post/over/) [all](/post/all/) [other](/post/other/) creatures [in](/post/in/) [the](/post/the/) savannah."
-- 名词: "[The](/post/the/) [project](/post/project/) required [a](/post/a/) [huge](/post/huge/) [investment](/post/investment/) [of](/post/of/) [time](/post/time/) [and](/post/and/) resources."
+- 形容词: "[The](/zh/post/the/) [elephant](/zh/post/elephant/) is [a](/zh/post/a/) [huge](/zh/post/huge/) [animal](/zh/post/animal/), towering [over](/zh/post/over/) [all](/zh/post/all/) [other](/zh/post/other/) creatures [in](/zh/post/in/) [the](/zh/post/the/) savannah."
+- 名词: "[The](/zh/post/the/) [project](/zh/post/project/) required [a](/zh/post/a/) [huge](/zh/post/huge/) [investment](/zh/post/investment/) [of](/zh/post/of/) [time](/zh/post/time/) [and](/zh/post/and/) resources."
 
 ## 同义词
-- [Enormous](/post/enormous/)
+- [Enormous](/zh/post/enormous/)
 - Gigantic
 - Massive
-- [Immense](/post/immense/)
+- [Immense](/zh/post/immense/)
 - Colossal

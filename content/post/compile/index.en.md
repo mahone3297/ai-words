@@ -7,36 +7,36 @@ description = '[kəmˈpail] vt.编辑，编制，搜集'
 keywords = ['ai words', 'compile']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈpaɪl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [compile](/en/post/compile/) is [a](/en/post/a/) [process](/en/post/process/) [in](/en/post/in/) [computer](/en/post/computer/) programming [where](/en/post/where/) [source](/en/post/source/) [code](/en/post/code/) is transformed [into](/en/post/into/) machine-readable [code](/en/post/code/) [or](/en/post/or/) an executable [program](/en/post/program/).
+### [Noun](/post/noun/)
+[A](/post/a/) [compile](/post/compile/) is [a](/post/a/) [process](/post/process/) [in](/post/in/) [computer](/post/computer/) programming [where](/post/where/) [source](/post/source/) [code](/post/code/) is transformed [into](/post/into/) machine-readable [code](/post/code/) [or](/post/or/) an executable [program](/post/program/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [compile](/en/post/compile/) (v) refers [to](/en/post/to/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) translating [source](/en/post/source/) [code](/en/post/code/) written [in](/en/post/in/) [a](/en/post/a/) high-level programming [language](/en/post/language/) [into](/en/post/into/) an executable [form](/en/post/form/) [by](/en/post/by/) applying rules [and](/en/post/and/) transformations specified [by](/en/post/by/) [a](/en/post/a/) compiler [or](/en/post/or/) [interpreter](/en/post/interpreter/).
+### [Verb](/post/verb/)
+[To](/post/to/) [compile](/post/compile/) (v) refers [to](/post/to/) [the](/post/the/) [action](/post/action/) [of](/post/of/) translating [source](/post/source/) [code](/post/code/) written [in](/post/in/) [a](/post/a/) high-level programming [language](/post/language/) [into](/post/into/) an executable [form](/post/form/) [by](/post/by/) applying rules [and](/post/and/) transformations specified [by](/post/by/) [a](/post/a/) compiler [or](/post/or/) [interpreter](/post/interpreter/).
 
 ## Phrases
-- "[Compile](/en/post/compile/) [a](/en/post/a/) [program](/en/post/program/)" [means](/en/post/means/) [to](/en/post/to/) [convert](/en/post/convert/) [the](/en/post/the/) [source](/en/post/source/) [code](/en/post/code/) [into](/en/post/into/) [a](/en/post/a/) [form](/en/post/form/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) executed [on](/en/post/on/) [a](/en/post/a/) [computer](/en/post/computer/).
-- "Compiling errors" are mistakes [found](/en/post/found/) [during](/en/post/during/) [the](/en/post/the/) compilation [process](/en/post/process/).
-- "Cross-compiling" refers [to](/en/post/to/) [building](/en/post/building/) [a](/en/post/a/) [program](/en/post/program/) [for](/en/post/for/) [one](/en/post/one/) [platform](/en/post/platform/) [on](/en/post/on/) [a](/en/post/a/) [different](/en/post/different/) [platform](/en/post/platform/).
+- "[Compile](/post/compile/) [a](/post/a/) [program](/post/program/)" [means](/post/means/) [to](/post/to/) [convert](/post/convert/) [the](/post/the/) [source](/post/source/) [code](/post/code/) [into](/post/into/) [a](/post/a/) [form](/post/form/) [that](/post/that/) [can](/post/can/) [be](/post/be/) executed [on](/post/on/) [a](/post/a/) [computer](/post/computer/).
+- "Compiling errors" are mistakes [found](/post/found/) [during](/post/during/) [the](/post/the/) compilation [process](/post/process/).
+- "Cross-compiling" refers [to](/post/to/) [building](/post/building/) [a](/post/a/) [program](/post/program/) [for](/post/for/) [one](/post/one/) [platform](/post/platform/) [on](/post/on/) [a](/post/a/) [different](/post/different/) [platform](/post/platform/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) developer spent hours compiling [the](/en/post/the/) [complex](/en/post/complex/) software [project](/en/post/project/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [writing](/en/post/writing/) [the](/en/post/the/) [code](/en/post/code/), [he](/en/post/he/) needed [to](/en/post/to/) [compile](/en/post/compile/) [it](/en/post/it/) [before](/en/post/before/) running [it](/en/post/it/) [on](/en/post/on/) [the](/en/post/the/) server."
-- **[Action](/en/post/action/)**: "[The](/en/post/the/) programmer [successfully](/en/post/successfully/) compiled [the](/en/post/the/) [code](/en/post/code/) [with](/en/post/with/) minimal warnings."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) developer spent hours compiling [the](/post/the/) [complex](/post/complex/) software [project](/post/project/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [writing](/post/writing/) [the](/post/the/) [code](/post/code/), [he](/post/he/) needed [to](/post/to/) [compile](/post/compile/) [it](/post/it/) [before](/post/before/) running [it](/post/it/) [on](/post/on/) [the](/post/the/) server."
+- **[Action](/post/action/)**: "[The](/post/the/) programmer [successfully](/post/successfully/) compiled [the](/post/the/) [code](/post/code/) [with](/post/with/) minimal warnings."
 
 ## Synonyms
-- [Compile](/en/post/compile/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
-- [Build](/en/post/build/)
-- [Assemble](/en/post/assemble/)
-- [Translate](/en/post/translate/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) programming)
-- [Generate](/en/post/generate/) (executable [code](/en/post/code/))
-- [Process](/en/post/process/) ([source](/en/post/source/) [code](/en/post/code/))
+- [Compile](/post/compile/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))
+- [Build](/post/build/)
+- [Assemble](/post/assemble/)
+- [Translate](/post/translate/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) programming)
+- [Generate](/post/generate/) (executable [code](/post/code/))
+- [Process](/post/process/) ([source](/post/source/) [code](/post/code/))
 
 ## Related Terms
-- Compilation ([the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [turning](/en/post/turning/) [source](/en/post/source/) [code](/en/post/code/) [into](/en/post/into/) an executable)
-- Compiler ([a](/en/post/a/) [tool](/en/post/tool/) [that](/en/post/that/) performs [the](/en/post/the/) compilation [process](/en/post/process/))
-- Linker ([a](/en/post/a/) [separate](/en/post/separate/) [program](/en/post/program/) [that](/en/post/that/) combines compiled [code](/en/post/code/) [with](/en/post/with/) libraries)
-- [Source](/en/post/source/) [code](/en/post/code/) ([the](/en/post/the/) [original](/en/post/original/), human-readable [code](/en/post/code/) [before](/en/post/before/) compilation)
+- Compilation ([the](/post/the/) [act](/post/act/) [of](/post/of/) [turning](/post/turning/) [source](/post/source/) [code](/post/code/) [into](/post/into/) an executable)
+- Compiler ([a](/post/a/) [tool](/post/tool/) [that](/post/that/) performs [the](/post/the/) compilation [process](/post/process/))
+- Linker ([a](/post/a/) [separate](/post/separate/) [program](/post/program/) [that](/post/that/) combines compiled [code](/post/code/) [with](/post/with/) libraries)
+- [Source](/post/source/) [code](/post/code/) ([the](/post/the/) [original](/post/original/), human-readable [code](/post/code/) [before](/post/before/) compilation)

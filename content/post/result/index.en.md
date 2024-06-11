@@ -7,38 +7,38 @@ description = '[riˈzʌlt] n.成果 vi.发生，结果'
 keywords = ['ai words', 'result']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈzʌlt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [outcome](/en/post/outcome/) [or](/en/post/or/) [consequence](/en/post/consequence/) [of](/en/post/of/) an [action](/en/post/action/), [process](/en/post/process/), [or](/en/post/or/) [event](/en/post/event/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [experiment](/en/post/experiment/) produced [unexpected](/en/post/unexpected/) results."
-2. [A](/en/post/a/) [specific](/en/post/specific/) [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/) [or](/en/post/or/) [data](/en/post/data/) derived [from](/en/post/from/) [a](/en/post/a/) [calculation](/en/post/calculation/) [or](/en/post/or/) [investigation](/en/post/investigation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [result](/en/post/result/) [of](/en/post/of/) [the](/en/post/the/) [election](/en/post/election/) was announced [last](/en/post/last/) [night](/en/post/night/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [outcome](/post/outcome/) [or](/post/or/) [consequence](/post/consequence/) [of](/post/of/) an [action](/post/action/), [process](/post/process/), [or](/post/or/) [event](/post/event/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [experiment](/post/experiment/) produced [unexpected](/post/unexpected/) results."
+2. [A](/post/a/) [specific](/post/specific/) [piece](/post/piece/) [of](/post/of/) [information](/post/information/) [or](/post/or/) [data](/post/data/) derived [from](/post/from/) [a](/post/a/) [calculation](/post/calculation/) [or](/post/or/) [investigation](/post/investigation/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [result](/post/result/) [of](/post/of/) [the](/post/the/) [election](/post/election/) was announced [last](/post/last/) [night](/post/night/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [produce](/en/post/produce/) [or](/en/post/or/) [achieve](/en/post/achieve/) [as](/en/post/as/) [a](/en/post/a/) [consequence](/en/post/consequence/). [For](/en/post/for/) [example](/en/post/example/): "Working [hard](/en/post/hard/) [will](/en/post/will/) [result](/en/post/result/) [in](/en/post/in/) [success](/en/post/success/)."
-2. [To](/en/post/to/) [come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [conclusion](/en/post/conclusion/) [or](/en/post/or/) [decision](/en/post/decision/) [after](/en/post/after/) considering [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) discussed [the](/en/post/the/) [issue](/en/post/issue/) [and](/en/post/and/) [eventually](/en/post/eventually/) resulted [in](/en/post/in/) [a](/en/post/a/) [plan](/en/post/plan/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [produce](/post/produce/) [or](/post/or/) [achieve](/post/achieve/) [as](/post/as/) [a](/post/a/) [consequence](/post/consequence/). [For](/post/for/) [example](/post/example/): "Working [hard](/post/hard/) [will](/post/will/) [result](/post/result/) [in](/post/in/) [success](/post/success/)."
+2. [To](/post/to/) [come](/post/come/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [conclusion](/post/conclusion/) [or](/post/or/) [decision](/post/decision/) [after](/post/after/) considering [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [team](/post/team/) discussed [the](/post/the/) [issue](/post/issue/) [and](/post/and/) [eventually](/post/eventually/) resulted [in](/post/in/) [a](/post/a/) [plan](/post/plan/)."
 
 ## Phrases
-- "[As](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/)" indicates [the](/en/post/the/) [outcome](/en/post/outcome/) [of](/en/post/of/) an [action](/en/post/action/).
-- "[No](/en/post/no/) [matter](/en/post/matter/) [the](/en/post/the/) [result](/en/post/result/)" suggests [acceptance](/en/post/acceptance/) [of](/en/post/of/) [any](/en/post/any/) [possible](/en/post/possible/) [outcome](/en/post/outcome/).
-- "[Bring](/en/post/bring/) [about](/en/post/about/) [a](/en/post/a/) [result](/en/post/result/)" implies causing [a](/en/post/a/) desired [outcome](/en/post/outcome/).
+- "[As](/post/as/) [a](/post/a/) [result](/post/result/)" indicates [the](/post/the/) [outcome](/post/outcome/) [of](/post/of/) an [action](/post/action/).
+- "[No](/post/no/) [matter](/post/matter/) [the](/post/the/) [result](/post/result/)" suggests [acceptance](/post/acceptance/) [of](/post/of/) [any](/post/any/) [possible](/post/possible/) [outcome](/post/outcome/).
+- "[Bring](/post/bring/) [about](/post/about/) [a](/post/a/) [result](/post/result/)" implies causing [a](/post/a/) desired [outcome](/post/outcome/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) experiment's results were groundbreaking [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/) [of](/en/post/of/) [science](/en/post/science/)."
-- **[Verb](/en/post/verb/)**: "[Her](/en/post/her/) [diligent](/en/post/diligent/) [study](/en/post/study/) resulted [in](/en/post/in/) [top](/en/post/top/) grades [on](/en/post/on/) [the](/en/post/the/) exams."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [careful](/en/post/careful/) [analysis](/en/post/analysis/), [they](/en/post/they/) were [able](/en/post/able/) [to](/en/post/to/) [result](/en/post/result/) [in](/en/post/in/) [a](/en/post/a/) [peaceful](/en/post/peaceful/) [resolution](/en/post/resolution/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) experiment's results were groundbreaking [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [science](/post/science/)."
+- **[Verb](/post/verb/)**: "[Her](/post/her/) [diligent](/post/diligent/) [study](/post/study/) resulted [in](/post/in/) [top](/post/top/) grades [on](/post/on/) [the](/post/the/) exams."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [careful](/post/careful/) [analysis](/post/analysis/), [they](/post/they/) were [able](/post/able/) [to](/post/to/) [result](/post/result/) [in](/post/in/) [a](/post/a/) [peaceful](/post/peaceful/) [resolution](/post/resolution/)."
 
 ## Synonyms
-- [Outcome](/en/post/outcome/)
-- [Consequence](/en/post/consequence/)
-- [Effect](/en/post/effect/)
-- [Implication](/en/post/implication/)
+- [Outcome](/post/outcome/)
+- [Consequence](/post/consequence/)
+- [Effect](/post/effect/)
+- [Implication](/post/implication/)
 - Findings
-- [Conclusion](/en/post/conclusion/)
+- [Conclusion](/post/conclusion/)
 
 ## Antonyms
-- [Cause](/en/post/cause/)
+- [Cause](/post/cause/)
 - Prevention
-- [Failure](/en/post/failure/)
-- [Lack](/en/post/lack/) [of](/en/post/of/) [result](/en/post/result/) ([opposite](/en/post/opposite/) [of](/en/post/of/) [successful](/en/post/successful/) [outcome](/en/post/outcome/))
+- [Failure](/post/failure/)
+- [Lack](/post/lack/) [of](/post/of/) [result](/post/result/) ([opposite](/post/opposite/) [of](/post/of/) [successful](/post/successful/) [outcome](/post/outcome/))

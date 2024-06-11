@@ -7,31 +7,31 @@ description = '[ˈmaikrəskəup] n.显微镜'
 keywords = ['ai words', 'microscope']
 +++
 
-## [Word](/en/post/word/): [Microscope](/en/post/microscope/)
+## [Word](/post/word/): [Microscope](/post/microscope/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /maɪˈkrəskoʊp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [optical](/en/post/optical/) [instrument](/en/post/instrument/) [with](/en/post/with/) [a](/en/post/a/) [lens](/en/post/lens/) [or](/en/post/or/) [combination](/en/post/combination/) [of](/en/post/of/) lenses [that](/en/post/that/) produces [a](/en/post/a/) magnified [image](/en/post/image/) [of](/en/post/of/) [small](/en/post/small/) objects, allowing [them](/en/post/them/) [to](/en/post/to/) [be](/en/post/be/) studied [in](/en/post/in/) [detail](/en/post/detail/). 
+- **[Noun](/post/noun/)**: An [optical](/post/optical/) [instrument](/post/instrument/) [with](/post/with/) [a](/post/a/) [lens](/post/lens/) [or](/post/or/) [combination](/post/combination/) [of](/post/of/) lenses [that](/post/that/) produces [a](/post/a/) magnified [image](/post/image/) [of](/post/of/) [small](/post/small/) objects, allowing [them](/post/them/) [to](/post/to/) [be](/post/be/) studied [in](/post/in/) [detail](/post/detail/). 
 
-### [Noun](/en/post/noun/) [usage](/en/post/usage/) examples:
-- "[The](/en/post/the/) biologist peered [through](/en/post/through/) [the](/en/post/the/) [microscope](/en/post/microscope/) [to](/en/post/to/) [examine](/en/post/examine/) [the](/en/post/the/) [cell](/en/post/cell/) [structure](/en/post/structure/)."
-- "[The](/en/post/the/) forensic [scientist](/en/post/scientist/) [used](/en/post/used/) [a](/en/post/a/) high-powered [microscope](/en/post/microscope/) [to](/en/post/to/) analyze [the](/en/post/the/) [minute](/en/post/minute/) fibers [found](/en/post/found/) [at](/en/post/at/) [the](/en/post/the/) [crime](/en/post/crime/) [scene](/en/post/scene/)."
-- "[The](/en/post/the/) school's [science](/en/post/science/) [lab](/en/post/lab/) was equipped [with](/en/post/with/) [several](/en/post/several/) microscopes [for](/en/post/for/) students [to](/en/post/to/) [study](/en/post/study/) specimens."
+### [Noun](/post/noun/) [usage](/post/usage/) examples:
+- "[The](/post/the/) biologist peered [through](/post/through/) [the](/post/the/) [microscope](/post/microscope/) [to](/post/to/) [examine](/post/examine/) [the](/post/the/) [cell](/post/cell/) [structure](/post/structure/)."
+- "[The](/post/the/) forensic [scientist](/post/scientist/) [used](/post/used/) [a](/post/a/) high-powered [microscope](/post/microscope/) [to](/post/to/) analyze [the](/post/the/) [minute](/post/minute/) fibers [found](/post/found/) [at](/post/at/) [the](/post/the/) [crime](/post/crime/) [scene](/post/scene/)."
+- "[The](/post/the/) school's [science](/post/science/) [lab](/post/lab/) was equipped [with](/post/with/) [several](/post/several/) microscopes [for](/post/for/) students [to](/post/to/) [study](/post/study/) specimens."
 
 ## Phrases
-- "[Under](/en/post/under/) [the](/en/post/the/) [microscope](/en/post/microscope/)" - [meaning](/en/post/meaning/) [subject](/en/post/subject/) [to](/en/post/to/) [intense](/en/post/intense/) scrutiny [or](/en/post/or/) [examination](/en/post/examination/); e.g., "[Their](/en/post/their/) [business](/en/post/business/) practices [have](/en/post/have/) been [under](/en/post/under/) [the](/en/post/the/) [microscope](/en/post/microscope/) [lately](/en/post/lately/) [due](/en/post/due/) [to](/en/post/to/) [some](/en/post/some/) questionable dealings."
-- "[A](/en/post/a/) closer [look](/en/post/look/) [under](/en/post/under/) [the](/en/post/the/) [microscope](/en/post/microscope/)" - referring [to](/en/post/to/) [a](/en/post/a/) detailed [examination](/en/post/examination/) [or](/en/post/or/) [analysis](/en/post/analysis/).
+- "[Under](/post/under/) [the](/post/the/) [microscope](/post/microscope/)" - [meaning](/post/meaning/) [subject](/post/subject/) [to](/post/to/) [intense](/post/intense/) scrutiny [or](/post/or/) [examination](/post/examination/); e.g., "[Their](/post/their/) [business](/post/business/) practices [have](/post/have/) been [under](/post/under/) [the](/post/the/) [microscope](/post/microscope/) [lately](/post/lately/) [due](/post/due/) [to](/post/to/) [some](/post/some/) questionable dealings."
+- "[A](/post/a/) closer [look](/post/look/) [under](/post/under/) [the](/post/the/) [microscope](/post/microscope/)" - referring [to](/post/to/) [a](/post/a/) detailed [examination](/post/examination/) [or](/post/or/) [analysis](/post/analysis/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Through](/en/post/through/) [the](/en/post/the/) [lens](/en/post/lens/) [of](/en/post/of/) [the](/en/post/the/) [microscope](/en/post/microscope/), [the](/en/post/the/) intricate details [of](/en/post/of/) [the](/en/post/the/) butterfly's wings became vividly [clear](/en/post/clear/)."
-- "[With](/en/post/with/) advancements [in](/en/post/in/) [technology](/en/post/technology/), [electron](/en/post/electron/) microscopes [can](/en/post/can/) [now](/en/post/now/) [reveal](/en/post/reveal/) structures [at](/en/post/at/) [the](/en/post/the/) [atomic](/en/post/atomic/) [level](/en/post/level/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Through](/post/through/) [the](/post/the/) [lens](/post/lens/) [of](/post/of/) [the](/post/the/) [microscope](/post/microscope/), [the](/post/the/) intricate details [of](/post/of/) [the](/post/the/) butterfly's wings became vividly [clear](/post/clear/)."
+- "[With](/post/with/) advancements [in](/post/in/) [technology](/post/technology/), [electron](/post/electron/) microscopes [can](/post/can/) [now](/post/now/) [reveal](/post/reveal/) structures [at](/post/at/) [the](/post/the/) [atomic](/post/atomic/) [level](/post/level/)."
 
 ## Synonyms
 - Magnifier
-- Microscopic [device](/en/post/device/)
-- [Compound](/en/post/compound/) [microscope](/en/post/microscope/)
-- [Optical](/en/post/optical/) [microscope](/en/post/microscope/)
-- [Electron](/en/post/electron/) [microscope](/en/post/microscope/) ([for](/en/post/for/) [advanced](/en/post/advanced/) versions)
-- Stereo [microscope](/en/post/microscope/) ([for](/en/post/for/) low-power, three-dimensional viewing)
+- Microscopic [device](/post/device/)
+- [Compound](/post/compound/) [microscope](/post/microscope/)
+- [Optical](/post/optical/) [microscope](/post/microscope/)
+- [Electron](/post/electron/) [microscope](/post/microscope/) ([for](/post/for/) [advanced](/post/advanced/) versions)
+- Stereo [microscope](/post/microscope/) ([for](/post/for/) low-power, three-dimensional viewing)

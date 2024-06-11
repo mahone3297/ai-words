@@ -8,25 +8,25 @@ keywords = ['ai words', 'end']
 +++
 
 ## 读音
-/[end](/post/end/)/
+/[end](/zh/post/end/)/
 
 ## 释义
-- **名词**: 结束，终结。例如: "[The](/post/the/) movie's [end](/post/end/) was [quite](/post/quite/) [unexpected](/post/unexpected/)."
-- **动词**: 结束，终止。例如: "[The](/post/the/) [meeting](/post/meeting/) ended abruptly [when](/post/when/) [the](/post/the/) [boss](/post/boss/) [left](/post/left/)."
-- **副词**: 在末尾，终于。例如: "[He](/post/he/) finished [the](/post/the/) [race](/post/race/) [in](/post/in/) [the](/post/the/) [end](/post/end/)."
+- **名词**: 结束，终结。例如: "[The](/zh/post/the/) movie's [end](/zh/post/end/) was [quite](/zh/post/quite/) [unexpected](/zh/post/unexpected/)."
+- **动词**: 结束，终止。例如: "[The](/zh/post/the/) [meeting](/zh/post/meeting/) ended abruptly [when](/zh/post/when/) [the](/zh/post/the/) [boss](/zh/post/boss/) [left](/zh/post/left/)."
+- **副词**: 在末尾，终于。例如: "[He](/zh/post/he/) finished [the](/zh/post/the/) [race](/zh/post/race/) [in](/zh/post/in/) [the](/zh/post/the/) [end](/zh/post/end/)."
 
 ## 短语
-- "[at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/)" 表示在...的末尾。例如: "[There](/post/there/) was [a](/post/a/) [surprise](/post/surprise/) [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [book](/post/book/)."
-- "[in](/post/in/) [the](/post/the/) [end](/post/end/)" 意味着最终，结果。例如: "[In](/post/in/) [the](/post/the/) [end](/post/end/), [they](/post/they/) made [the](/post/the/) [right](/post/right/) [decision](/post/decision/)."
+- "[at](/zh/post/at/) [the](/zh/post/the/) [end](/zh/post/end/) [of](/zh/post/of/)" 表示在...的末尾。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [surprise](/zh/post/surprise/) [at](/zh/post/at/) [the](/zh/post/the/) [end](/zh/post/end/) [of](/zh/post/of/) [the](/zh/post/the/) [book](/zh/post/book/)."
+- "[in](/zh/post/in/) [the](/zh/post/the/) [end](/zh/post/end/)" 意味着最终，结果。例如: "[In](/zh/post/in/) [the](/zh/post/the/) [end](/zh/post/end/), [they](/zh/post/they/) made [the](/zh/post/the/) [right](/zh/post/right/) [decision](/zh/post/decision/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [concert](/post/concert/) came [to](/post/to/) an [end](/post/end/) [and](/post/and/) [the](/post/the/) [audience](/post/audience/) applauded."
-- 动词: "[The](/post/the/) [teacher](/post/teacher/) ended [the](/post/the/) [class](/post/class/) [with](/post/with/) [a](/post/a/) [few](/post/few/) [final](/post/final/) words."
-- 副词: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [journey](/post/journey/), [we](/post/we/) arrived [at](/post/at/) [our](/post/our/) [destination](/post/destination/) [in](/post/in/) [the](/post/the/) [end](/post/end/)."
+- 名词: "[The](/zh/post/the/) [concert](/zh/post/concert/) came [to](/zh/post/to/) an [end](/zh/post/end/) [and](/zh/post/and/) [the](/zh/post/the/) [audience](/zh/post/audience/) applauded."
+- 动词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) ended [the](/zh/post/the/) [class](/zh/post/class/) [with](/zh/post/with/) [a](/zh/post/a/) [few](/zh/post/few/) [final](/zh/post/final/) words."
+- 副词: "[After](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [journey](/zh/post/journey/), [we](/zh/post/we/) arrived [at](/zh/post/at/) [our](/zh/post/our/) [destination](/zh/post/destination/) [in](/zh/post/in/) [the](/zh/post/the/) [end](/zh/post/end/)."
 
 ## 同义词
-- [Conclusion](/post/conclusion/)
+- [Conclusion](/zh/post/conclusion/)
 - Termination
 - Finale
-- [Close](/post/close/)
+- [Close](/zh/post/close/)
 - cessation

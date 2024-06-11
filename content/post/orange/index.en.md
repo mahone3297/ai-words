@@ -7,31 +7,31 @@ description = '[ˈɔrindʒ] n.橙(树)；柑(树)'
 keywords = ['ai words', 'orange']
 +++
 
-## [Word](/en/post/word/): [Orange](/en/post/orange/)
+## [Word](/post/word/): [Orange](/post/orange/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːrɪndʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [round](/en/post/round/) citrus [fruit](/en/post/fruit/) [with](/en/post/with/) [a](/en/post/a/) [bright](/en/post/bright/) [orange](/en/post/orange/) [skin](/en/post/skin/) [and](/en/post/and/) [sweet](/en/post/sweet/), juicy segments. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [color](/en/post/color/) [that](/en/post/that/) resembles [the](/en/post/the/) hue [of](/en/post/of/) [this](/en/post/this/) [fruit](/en/post/fruit/). [Example](/en/post/example/): "[She](/en/post/she/) peeled an [orange](/en/post/orange/) [for](/en/post/for/) [breakfast](/en/post/breakfast/)." / "[The](/en/post/the/) walls were painted [a](/en/post/a/) vibrant [orange](/en/post/orange/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) having [the](/en/post/the/) [color](/en/post/color/) [of](/en/post/of/) an [orange](/en/post/orange/). [Example](/en/post/example/): "[She](/en/post/she/) wore an [orange](/en/post/orange/) [dress](/en/post/dress/) [to](/en/post/to/) [match](/en/post/match/) [her](/en/post/her/) shoes."
+- **[Noun](/post/noun/)**: [A](/post/a/) [round](/post/round/) citrus [fruit](/post/fruit/) [with](/post/with/) [a](/post/a/) [bright](/post/bright/) [orange](/post/orange/) [skin](/post/skin/) [and](/post/and/) [sweet](/post/sweet/), juicy segments. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [color](/post/color/) [that](/post/that/) resembles [the](/post/the/) hue [of](/post/of/) [this](/post/this/) [fruit](/post/fruit/). [Example](/post/example/): "[She](/post/she/) peeled an [orange](/post/orange/) [for](/post/for/) [breakfast](/post/breakfast/)." / "[The](/post/the/) walls were painted [a](/post/a/) vibrant [orange](/post/orange/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) having [the](/post/the/) [color](/post/color/) [of](/post/of/) an [orange](/post/orange/). [Example](/post/example/): "[She](/post/she/) wore an [orange](/post/orange/) [dress](/post/dress/) [to](/post/to/) [match](/post/match/) [her](/post/her/) shoes."
 
-### [Noun](/en/post/noun/) [usage](/en/post/usage/) examples
-- "[He](/en/post/he/) sliced [open](/en/post/open/) an [orange](/en/post/orange/) [to](/en/post/to/) [share](/en/post/share/) [its](/en/post/its/) refreshing [scent](/en/post/scent/)."
-- "[The](/en/post/the/) [sunset](/en/post/sunset/) filled [the](/en/post/the/) [sky](/en/post/sky/) [with](/en/post/with/) shades [of](/en/post/of/) [red](/en/post/red/) [and](/en/post/and/) [orange](/en/post/orange/)."
+### [Noun](/post/noun/) [usage](/post/usage/) examples
+- "[He](/post/he/) sliced [open](/post/open/) an [orange](/post/orange/) [to](/post/to/) [share](/post/share/) [its](/post/its/) refreshing [scent](/post/scent/)."
+- "[The](/post/the/) [sunset](/post/sunset/) filled [the](/post/the/) [sky](/post/sky/) [with](/post/with/) shades [of](/post/of/) [red](/post/red/) [and](/post/and/) [orange](/post/orange/)."
 
-### [Adjective](/en/post/adjective/) [usage](/en/post/usage/) examples
-- "[The](/en/post/the/) [autumn](/en/post/autumn/) leaves turned [a](/en/post/a/) [brilliant](/en/post/brilliant/) [shade](/en/post/shade/) [of](/en/post/of/) [orange](/en/post/orange/)."
-- "[Her](/en/post/her/) [scarf](/en/post/scarf/) was [a](/en/post/a/) [bold](/en/post/bold/) [orange](/en/post/orange/) [that](/en/post/that/) added [a](/en/post/a/) [pop](/en/post/pop/) [of](/en/post/of/) [color](/en/post/color/) [to](/en/post/to/) [her](/en/post/her/) outfit."
+### [Adjective](/post/adjective/) [usage](/post/usage/) examples
+- "[The](/post/the/) [autumn](/post/autumn/) leaves turned [a](/post/a/) [brilliant](/post/brilliant/) [shade](/post/shade/) [of](/post/of/) [orange](/post/orange/)."
+- "[Her](/post/her/) [scarf](/post/scarf/) was [a](/post/a/) [bold](/post/bold/) [orange](/post/orange/) [that](/post/that/) added [a](/post/a/) [pop](/post/pop/) [of](/post/of/) [color](/post/color/) [to](/post/to/) [her](/post/her/) outfit."
 
 ## Phrases
-- "[Orange](/en/post/orange/) [juice](/en/post/juice/)" - [a](/en/post/a/) beverage made [from](/en/post/from/) squeezed oranges.
-- "[A](/en/post/a/) [basket](/en/post/basket/) [of](/en/post/of/) oranges" - indicating [multiple](/en/post/multiple/) oranges.
-- "[To](/en/post/to/) [have](/en/post/have/) [orange](/en/post/orange/) fingers" - typically referring [to](/en/post/to/) [the](/en/post/the/) staining [effect](/en/post/effect/) [after](/en/post/after/) peeling [or](/en/post/or/) handling [many](/en/post/many/) oranges.
+- "[Orange](/post/orange/) [juice](/post/juice/)" - [a](/post/a/) beverage made [from](/post/from/) squeezed oranges.
+- "[A](/post/a/) [basket](/post/basket/) [of](/post/of/) oranges" - indicating [multiple](/post/multiple/) oranges.
+- "[To](/post/to/) [have](/post/have/) [orange](/post/orange/) fingers" - typically referring [to](/post/to/) [the](/post/the/) staining [effect](/post/effect/) [after](/post/after/) peeling [or](/post/or/) handling [many](/post/many/) oranges.
 
 ## Synonyms
-- Tangerine ([for](/en/post/for/) [the](/en/post/the/) [fruit](/en/post/fruit/))
-- Amber, vermilion, burnt [orange](/en/post/orange/) ([for](/en/post/for/) [the](/en/post/the/) [color](/en/post/color/)) 
-- Clementine, mandarin ([for](/en/post/for/) [other](/en/post/other/) types [of](/en/post/of/) [orange](/en/post/orange/) fruits)
+- Tangerine ([for](/post/for/) [the](/post/the/) [fruit](/post/fruit/))
+- Amber, vermilion, burnt [orange](/post/orange/) ([for](/post/for/) [the](/post/the/) [color](/post/color/)) 
+- Clementine, mandarin ([for](/post/for/) [other](/post/other/) types [of](/post/of/) [orange](/post/orange/) fruits)
 
-[Note](/en/post/note/): [As](/en/post/as/) an English [color](/en/post/color/) [name](/en/post/name/), "[orange](/en/post/orange/)" does [not](/en/post/not/) [have](/en/post/have/) [verb](/en/post/verb/) [or](/en/post/or/) interjection uses [like](/en/post/like/) [the](/en/post/the/) [example](/en/post/example/) [provided](/en/post/provided/) [for](/en/post/for/) "[hello](/en/post/hello/)".
+[Note](/post/note/): [As](/post/as/) an English [color](/post/color/) [name](/post/name/), "[orange](/post/orange/)" does [not](/post/not/) [have](/post/have/) [verb](/post/verb/) [or](/post/or/) interjection uses [like](/post/like/) [the](/post/the/) [example](/post/example/) [provided](/post/provided/) [for](/post/for/) "[hello](/post/hello/)".

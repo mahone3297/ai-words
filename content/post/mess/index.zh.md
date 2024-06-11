@@ -12,25 +12,25 @@ keywords = ['ai words', 'mess']
 
 ## 释义
 - **名词**:
-  - 一团糟；混乱： "[The](/post/the/) [room](/post/room/) was [in](/post/in/) [a](/post/a/) [terrible](/post/terrible/) [mess](/post/mess/) [after](/post/after/) [the](/post/the/) [party](/post/party/)."
-  - 混乱的状态；紊乱： "[His](/post/his/) paperwork was [always](/post/always/) [in](/post/in/) [a](/post/a/) [mess](/post/mess/)."
-  - 食物，尤指随便准备的餐食： "I'll [just](/post/just/) [whip](/post/whip/) [up](/post/up/) [a](/post/a/) [quick](/post/quick/) [mess](/post/mess/) [for](/post/for/) [dinner](/post/dinner/)."
+  - 一团糟；混乱： "[The](/zh/post/the/) [room](/zh/post/room/) was [in](/zh/post/in/) [a](/zh/post/a/) [terrible](/zh/post/terrible/) [mess](/zh/post/mess/) [after](/zh/post/after/) [the](/zh/post/the/) [party](/zh/post/party/)."
+  - 混乱的状态；紊乱： "[His](/zh/post/his/) paperwork was [always](/zh/post/always/) [in](/zh/post/in/) [a](/zh/post/a/) [mess](/zh/post/mess/)."
+  - 食物，尤指随便准备的餐食： "I'll [just](/zh/post/just/) [whip](/zh/post/whip/) [up](/zh/post/up/) [a](/zh/post/a/) [quick](/zh/post/quick/) [mess](/zh/post/mess/) [for](/zh/post/for/) [dinner](/zh/post/dinner/)."
 
 - **动词**:
-  - 弄乱；搞得一团糟： "Don't [mess](/post/mess/) [up](/post/up/) [my](/post/my/) organized files."
-  - 搞砸；破坏： "[He](/post/he/) [really](/post/really/) messed [up](/post/up/) [his](/post/his/) chances [by](/post/by/) [being](/post/being/) [late](/post/late/)."
+  - 弄乱；搞得一团糟： "Don't [mess](/zh/post/mess/) [up](/zh/post/up/) [my](/zh/post/my/) organized files."
+  - 搞砸；破坏： "[He](/zh/post/he/) [really](/zh/post/really/) messed [up](/zh/post/up/) [his](/zh/post/his/) chances [by](/zh/post/by/) [being](/zh/post/being/) [late](/zh/post/late/)."
 
 ## 短语
-- "[make](/post/make/) [a](/post/a/) [mess](/post/mess/)" 意为制造混乱或弄脏。
-- "[clean](/post/clean/) [up](/post/up/) [the](/post/the/) [mess](/post/mess/)" 意为清理混乱或收拾残局。
+- "[make](/zh/post/make/) [a](/zh/post/a/) [mess](/zh/post/mess/)" 意为制造混乱或弄脏。
+- "[clean](/zh/post/clean/) [up](/zh/post/up/) [the](/zh/post/the/) [mess](/zh/post/mess/)" 意为清理混乱或收拾残局。
 
 ## 例句
-- 名词: "[It](/post/it/) took [them](/post/them/) hours [to](/post/to/) [clean](/post/clean/) [up](/post/up/) [the](/post/the/) [mess](/post/mess/) [after](/post/after/) [the](/post/the/) kids' playtime."
-- 动词: "[Stop](/post/stop/) messing [around](/post/around/) [and](/post/and/) [get](/post/get/) [to](/post/to/) [work](/post/work/)!"
+- 名词: "[It](/zh/post/it/) took [them](/zh/post/them/) hours [to](/zh/post/to/) [clean](/zh/post/clean/) [up](/zh/post/up/) [the](/zh/post/the/) [mess](/zh/post/mess/) [after](/zh/post/after/) [the](/zh/post/the/) kids' playtime."
+- 动词: "[Stop](/zh/post/stop/) messing [around](/zh/post/around/) [and](/zh/post/and/) [get](/zh/post/get/) [to](/zh/post/to/) [work](/zh/post/work/)!"
   
 ## 同义词
-- [Disorder](/post/disorder/)
+- [Disorder](/zh/post/disorder/)
 - Chaos
-- [Confusion](/post/confusion/)
+- [Confusion](/zh/post/confusion/)
 - Disarray
 - Shambles

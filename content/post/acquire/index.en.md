@@ -7,30 +7,30 @@ description = '[əˈkwaiə] vt.取得；获得；学到'
 keywords = ['ai words', 'acquire']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /acˈkwɪr/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [obtain](/en/post/obtain/) [or](/en/post/or/) [gain](/en/post/gain/) [possession](/en/post/possession/) [of](/en/post/of/) [something](/en/post/something/), [usually](/en/post/usually/) [through](/en/post/through/) [effort](/en/post/effort/) [or](/en/post/or/) [purchase](/en/post/purchase/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) acquired [a](/en/post/a/) [new](/en/post/new/) [skill](/en/post/skill/) [through](/en/post/through/) [practice](/en/post/practice/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) acquiring; acquisition. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's acquisitions [have](/en/post/have/) expanded [their](/en/post/their/) [market](/en/post/market/) [share](/en/post/share/)."
-- **[Adjective](/en/post/adjective/)**: Characterizing [something](/en/post/something/) [that](/en/post/that/) has been obtained [or](/en/post/or/) gained. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) acquired [knowledge](/en/post/knowledge/) was crucial [for](/en/post/for/) [her](/en/post/her/) [success](/en/post/success/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [obtain](/post/obtain/) [or](/post/or/) [gain](/post/gain/) [possession](/post/possession/) [of](/post/of/) [something](/post/something/), [usually](/post/usually/) [through](/post/through/) [effort](/post/effort/) [or](/post/or/) [purchase](/post/purchase/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) acquired [a](/post/a/) [new](/post/new/) [skill](/post/skill/) [through](/post/through/) [practice](/post/practice/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) acquiring; acquisition. [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's acquisitions [have](/post/have/) expanded [their](/post/their/) [market](/post/market/) [share](/post/share/)."
+- **[Adjective](/post/adjective/)**: Characterizing [something](/post/something/) [that](/post/that/) has been obtained [or](/post/or/) gained. [For](/post/for/) [example](/post/example/): "[The](/post/the/) acquired [knowledge](/post/knowledge/) was crucial [for](/post/for/) [her](/post/her/) [success](/post/success/)."
 
 ## Phrases
-- "[Acquire](/en/post/acquire/) [a](/en/post/a/) [skill](/en/post/skill/)" [means](/en/post/means/) [to](/en/post/to/) [learn](/en/post/learn/) [or](/en/post/or/) [develop](/en/post/develop/) [a](/en/post/a/) [particular](/en/post/particular/) [ability](/en/post/ability/).
-- "[Acquire](/en/post/acquire/) [property](/en/post/property/)" refers [to](/en/post/to/) buying [or](/en/post/or/) gaining [ownership](/en/post/ownership/) [of](/en/post/of/) [real](/en/post/real/) estate.
-- "Acquired [taste](/en/post/taste/)" describes [something](/en/post/something/) initially unappealing [that](/en/post/that/) becomes enjoyable [after](/en/post/after/) repeated [exposure](/en/post/exposure/).
+- "[Acquire](/post/acquire/) [a](/post/a/) [skill](/post/skill/)" [means](/post/means/) [to](/post/to/) [learn](/post/learn/) [or](/post/or/) [develop](/post/develop/) [a](/post/a/) [particular](/post/particular/) [ability](/post/ability/).
+- "[Acquire](/post/acquire/) [property](/post/property/)" refers [to](/post/to/) buying [or](/post/or/) gaining [ownership](/post/ownership/) [of](/post/of/) [real](/post/real/) estate.
+- "Acquired [taste](/post/taste/)" describes [something](/post/something/) initially unappealing [that](/post/that/) becomes enjoyable [after](/post/after/) repeated [exposure](/post/exposure/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [study](/en/post/study/), [he](/en/post/he/) acquired [a](/en/post/a/) [deep](/en/post/deep/) [understanding](/en/post/understanding/) [of](/en/post/of/) [the](/en/post/the/) [subject](/en/post/subject/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [business](/en/post/business/) acquired [several](/en/post/several/) smaller companies [to](/en/post/to/) bolster [its](/en/post/its/) operations."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) acquired expertise [in](/en/post/in/) marketing proved invaluable [to](/en/post/to/) [the](/en/post/the/) [team](/en/post/team/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) [study](/post/study/), [he](/post/he/) acquired [a](/post/a/) [deep](/post/deep/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [subject](/post/subject/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [business](/post/business/) acquired [several](/post/several/) smaller companies [to](/post/to/) bolster [its](/post/its/) operations."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) acquired expertise [in](/post/in/) marketing proved invaluable [to](/post/to/) [the](/post/the/) [team](/post/team/)."
 
 ## Synonyms
-- [Obtain](/en/post/obtain/)
-- [Gain](/en/post/gain/)
-- [Earn](/en/post/earn/)
-- [Achieve](/en/post/achieve/)
+- [Obtain](/post/obtain/)
+- [Gain](/post/gain/)
+- [Earn](/post/earn/)
+- [Achieve](/post/achieve/)
 - Acquirement
-- [Possess](/en/post/possess/)
+- [Possess](/post/possess/)
 - Obtainable
--Derived ([to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) has [become](/en/post/become/) [so](/en/post/so/) [from](/en/post/from/) [experience](/en/post/experience/))
+-Derived ([to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) has [become](/post/become/) [so](/post/so/) [from](/post/from/) [experience](/post/experience/))

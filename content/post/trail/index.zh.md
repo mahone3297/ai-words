@@ -11,26 +11,26 @@ keywords = ['ai words', 'trail']
 /treɪl/
 
 ## 释义
-- **名词**: 1. 路径，小径；如："[The](/post/the/) hikers followed [a](/post/a/) [narrow](/post/narrow/) [trail](/post/trail/) [through](/post/through/) [the](/post/the/) [forest](/post/forest/)."
-   2. 痕迹，踪迹；如："[The](/post/the/) detective [found](/post/found/) [a](/post/a/) [trail](/post/trail/) [of](/post/of/) [blood](/post/blood/) [leading](/post/leading/) [to](/post/to/) [the](/post/the/) suspect's hideout."
-   3. 尾随，追踪；如："[The](/post/the/) [spy](/post/spy/) was trailing [the](/post/the/) ambassador [closely](/post/closely/)."
-   4. （比赛、活动等的）路线，赛程；如："[The](/post/the/) marathon [trail](/post/trail/) covered 26 miles."
+- **名词**: 1. 路径，小径；如："[The](/zh/post/the/) hikers followed [a](/zh/post/a/) [narrow](/zh/post/narrow/) [trail](/zh/post/trail/) [through](/zh/post/through/) [the](/zh/post/the/) [forest](/zh/post/forest/)."
+   2. 痕迹，踪迹；如："[The](/zh/post/the/) detective [found](/zh/post/found/) [a](/zh/post/a/) [trail](/zh/post/trail/) [of](/zh/post/of/) [blood](/zh/post/blood/) [leading](/zh/post/leading/) [to](/zh/post/to/) [the](/zh/post/the/) suspect's hideout."
+   3. 尾随，追踪；如："[The](/zh/post/the/) [spy](/zh/post/spy/) was trailing [the](/zh/post/the/) ambassador [closely](/zh/post/closely/)."
+   4. （比赛、活动等的）路线，赛程；如："[The](/zh/post/the/) marathon [trail](/zh/post/trail/) covered 26 miles."
 
-- **动词**: 跟踪，尾随；如："[The](/post/the/) [dog](/post/dog/) was trained [to](/post/to/) [trail](/post/trail/) [missing](/post/missing/) persons."
-   - 追随，模仿；如："[Her](/post/her/) [style](/post/style/) has been trailed [by](/post/by/) [many](/post/many/) [young](/post/young/) singers."
+- **动词**: 跟踪，尾随；如："[The](/zh/post/the/) [dog](/zh/post/dog/) was trained [to](/zh/post/to/) [trail](/zh/post/trail/) [missing](/zh/post/missing/) persons."
+   - 追随，模仿；如："[Her](/zh/post/her/) [style](/zh/post/style/) has been trailed [by](/zh/post/by/) [many](/zh/post/many/) [young](/zh/post/young/) singers."
 
 ## 短语
-- "[on](/post/on/) someone's [trail](/post/trail/)" 意为在追踪某人；如："[The](/post/the/) [police](/post/police/) are [on](/post/on/) [the](/post/the/) thief's [trail](/post/trail/)."
-- "[trail](/post/trail/) [off](/post/off/)" 指逐渐减弱或结束；如："[His](/post/his/) [story](/post/story/) trailed [off](/post/off/) [into](/post/into/) [silence](/post/silence/)."
+- "[on](/zh/post/on/) someone's [trail](/zh/post/trail/)" 意为在追踪某人；如："[The](/zh/post/the/) [police](/zh/post/police/) are [on](/zh/post/on/) [the](/zh/post/the/) thief's [trail](/zh/post/trail/)."
+- "[trail](/zh/post/trail/) [off](/zh/post/off/)" 指逐渐减弱或结束；如："[His](/zh/post/his/) [story](/zh/post/story/) trailed [off](/zh/post/off/) [into](/zh/post/into/) [silence](/zh/post/silence/)."
 
 ## 例句
-- 名词: "[They](/post/they/) discovered an [old](/post/old/) [trail](/post/trail/) [that](/post/that/) led [to](/post/to/) [a](/post/a/) hidden [waterfall](/post/waterfall/)."
-- 动词: "[The](/post/the/) tracker managed [to](/post/to/) [trail](/post/trail/) [the](/post/the/) [deer](/post/deer/) [for](/post/for/) [several](/post/several/) hours."
-- "[The](/post/the/) speaker's [voice](/post/voice/) trailed [off](/post/off/) [as](/post/as/) [he](/post/he/) realized [he](/post/he/) had lost [the](/post/the/) audience's [attention](/post/attention/)."
+- 名词: "[They](/zh/post/they/) discovered an [old](/zh/post/old/) [trail](/zh/post/trail/) [that](/zh/post/that/) led [to](/zh/post/to/) [a](/zh/post/a/) hidden [waterfall](/zh/post/waterfall/)."
+- 动词: "[The](/zh/post/the/) tracker managed [to](/zh/post/to/) [trail](/zh/post/trail/) [the](/zh/post/the/) [deer](/zh/post/deer/) [for](/zh/post/for/) [several](/zh/post/several/) hours."
+- "[The](/zh/post/the/) speaker's [voice](/zh/post/voice/) trailed [off](/zh/post/off/) [as](/zh/post/as/) [he](/zh/post/he/) realized [he](/zh/post/he/) had lost [the](/zh/post/the/) audience's [attention](/zh/post/attention/)."
 
 ## 同义词
-- [Track](/post/track/)
-- [Path](/post/path/)
+- [Track](/zh/post/track/)
+- [Path](/zh/post/path/)
 - Footprint
-- [Trace](/post/trace/)
-- [Follow](/post/follow/)
+- [Trace](/zh/post/trace/)
+- [Follow](/zh/post/follow/)

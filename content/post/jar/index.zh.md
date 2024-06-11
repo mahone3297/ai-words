@@ -11,20 +11,20 @@ keywords = ['ai words', 'jar']
 /jɑːr/
 
 ## 释义
-- **名词**: 一种有盖子的宽口玻璃或陶瓷容器，通常用来装食物或液体，如果酱、腌菜或饮料。例如: "[She](/post/she/) kept [her](/post/her/) homemade [jam](/post/jam/) [in](/post/in/) [a](/post/a/) [large](/post/large/) [glass](/post/glass/) [jar](/post/jar/)."
-- **动词**: 不常用，偶尔用于表示把东西放入罐头瓶中保存。例如: "[The](/post/the/) [farmer](/post/farmer/) jarred [the](/post/the/) tomatoes [for](/post/for/) [the](/post/the/) [winter](/post/winter/)."
+- **名词**: 一种有盖子的宽口玻璃或陶瓷容器，通常用来装食物或液体，如果酱、腌菜或饮料。例如: "[She](/zh/post/she/) kept [her](/zh/post/her/) homemade [jam](/zh/post/jam/) [in](/zh/post/in/) [a](/zh/post/a/) [large](/zh/post/large/) [glass](/zh/post/glass/) [jar](/zh/post/jar/)."
+- **动词**: 不常用，偶尔用于表示把东西放入罐头瓶中保存。例如: "[The](/zh/post/the/) [farmer](/zh/post/farmer/) jarred [the](/zh/post/the/) tomatoes [for](/zh/post/for/) [the](/zh/post/the/) [winter](/zh/post/winter/)."
 
 ## 短语
-- "[a](/post/a/) [jar](/post/jar/) [of](/post/of/) [jam](/post/jam/)" 指一罐果酱。
-- "[to](/post/to/) [open](/post/open/) [a](/post/a/) [jar](/post/jar/)" 指打开罐头瓶的盖子。
+- "[a](/zh/post/a/) [jar](/zh/post/jar/) [of](/zh/post/of/) [jam](/zh/post/jam/)" 指一罐果酱。
+- "[to](/zh/post/to/) [open](/zh/post/open/) [a](/zh/post/a/) [jar](/zh/post/jar/)" 指打开罐头瓶的盖子。
 
 ## 例句
-- 名词: "[There](/post/there/) was [a](/post/a/) [small](/post/small/) [jar](/post/jar/) [of](/post/of/) [honey](/post/honey/) [on](/post/on/) [the](/post/the/) [kitchen](/post/kitchen/) [counter](/post/counter/)."
-- 动词: "[She](/post/she/) carefully jarred [the](/post/the/) pickles, making [sure](/post/sure/) [they](/post/they/) were fully submerged [in](/post/in/) [vinegar](/post/vinegar/)."
+- 名词: "[There](/zh/post/there/) was [a](/zh/post/a/) [small](/zh/post/small/) [jar](/zh/post/jar/) [of](/zh/post/of/) [honey](/zh/post/honey/) [on](/zh/post/on/) [the](/zh/post/the/) [kitchen](/zh/post/kitchen/) [counter](/zh/post/counter/)."
+- 动词: "[She](/zh/post/she/) carefully jarred [the](/zh/post/the/) pickles, making [sure](/zh/post/sure/) [they](/zh/post/they/) were fully submerged [in](/zh/post/in/) [vinegar](/zh/post/vinegar/)."
 
 ## 同义词
-- [bottle](/post/bottle/)
-- [container](/post/container/)
-- [pot](/post/pot/)
+- [bottle](/zh/post/bottle/)
+- [container](/zh/post/container/)
+- [pot](/zh/post/pot/)
 - canister
 - receptacle

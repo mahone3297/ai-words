@@ -11,17 +11,17 @@ keywords = ['ai words', 'delicious']
 /dɪˈlɪʃəs/
 
 ## 释义
-- **形容词**: 美味的；可口的。例如: "[This](/post/this/) [cake](/post/cake/) is [absolutely](/post/absolutely/) [delicious](/post/delicious/)."
-- **名词**: (非正式)令人愉快的事物。例如: "[She](/post/she/) had [a](/post/a/) [delicious](/post/delicious/) [moment](/post/moment/) [when](/post/when/) [she](/post/she/) won [the](/post/the/) [prize](/post/prize/)."
+- **形容词**: 美味的；可口的。例如: "[This](/zh/post/this/) [cake](/zh/post/cake/) is [absolutely](/zh/post/absolutely/) [delicious](/zh/post/delicious/)."
+- **名词**: (非正式)令人愉快的事物。例如: "[She](/zh/post/she/) had [a](/zh/post/a/) [delicious](/zh/post/delicious/) [moment](/zh/post/moment/) [when](/zh/post/when/) [she](/zh/post/she/) won [the](/zh/post/the/) [prize](/zh/post/prize/)."
 
 ## 短语
-- "[delicious](/post/delicious/) [food](/post/food/)" 美味的食物
-- "[a](/post/a/) [delicious](/post/delicious/) aroma" 香气扑鼻
-- "[find](/post/find/) [something](/post/something/) deliciously amusing" 找到某种极其有趣的事情
+- "[delicious](/zh/post/delicious/) [food](/zh/post/food/)" 美味的食物
+- "[a](/zh/post/a/) [delicious](/zh/post/delicious/) aroma" 香气扑鼻
+- "[find](/zh/post/find/) [something](/zh/post/something/) deliciously amusing" 找到某种极其有趣的事情
 
 ## 例句
-- 形容词: "[The](/post/the/) homemade cookies were [so](/post/so/) [delicious](/post/delicious/) [that](/post/that/) I couldn't [stop](/post/stop/) eating [them](/post/them/)."
-- 名词: "[She](/post/she/) had [a](/post/a/) [delicious](/post/delicious/) [piece](/post/piece/) [of](/post/of/) [chocolate](/post/chocolate/) [cake](/post/cake/) [for](/post/for/) dessert."
+- 形容词: "[The](/zh/post/the/) homemade cookies were [so](/zh/post/so/) [delicious](/zh/post/delicious/) [that](/zh/post/that/) I couldn't [stop](/zh/post/stop/) eating [them](/zh/post/them/)."
+- 名词: "[She](/zh/post/she/) had [a](/zh/post/a/) [delicious](/zh/post/delicious/) [piece](/zh/post/piece/) [of](/zh/post/of/) [chocolate](/zh/post/chocolate/) [cake](/zh/post/cake/) [for](/zh/post/for/) dessert."
 
 ## 同义词
 - Tasty

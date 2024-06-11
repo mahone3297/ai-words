@@ -11,19 +11,19 @@ keywords = ['ai words', 'Italian']
 /ɪtəˈliən/
 
 ## 释义
-- **形容词**: 意大利的；意大利人的；意大利语的。例如: "[She](/post/she/) loves Italian cuisine."
-- **名词**: 意大利人；意大利语。例如: "[He](/post/he/) is an Italian [living](/post/living/) [in](/post/in/) [New](/post/new/) York."
-- **名词 (文化、艺术)**: 意大利风格的艺术、文化和设计。例如: "[The](/post/the/) [painting](/post/painting/) is [in](/post/in/) [the](/post/the/) Italian Renaissance [style](/post/style/)."
+- **形容词**: 意大利的；意大利人的；意大利语的。例如: "[She](/zh/post/she/) loves Italian cuisine."
+- **名词**: 意大利人；意大利语。例如: "[He](/zh/post/he/) is an Italian [living](/zh/post/living/) [in](/zh/post/in/) [New](/zh/post/new/) York."
+- **名词 (文化、艺术)**: 意大利风格的艺术、文化和设计。例如: "[The](/zh/post/the/) [painting](/zh/post/painting/) is [in](/zh/post/in/) [the](/zh/post/the/) Italian Renaissance [style](/zh/post/style/)."
 
 ## 短语
-- "Italian [restaurant](/post/restaurant/)" 意大利餐厅
-- "Italian [leather](/post/leather/)" 意大利皮革，以其高质量闻名
-- "Italian [opera](/post/opera/)" 意大利歌剧，世界著名的歌剧形式
+- "Italian [restaurant](/zh/post/restaurant/)" 意大利餐厅
+- "Italian [leather](/zh/post/leather/)" 意大利皮革，以其高质量闻名
+- "Italian [opera](/zh/post/opera/)" 意大利歌剧，世界著名的歌剧形式
 
 ## 例句
-- 形容词: "[We](/post/we/) had [a](/post/a/) [delicious](/post/delicious/) Italian [meal](/post/meal/) [at](/post/at/) [the](/post/the/) [new](/post/new/) [restaurant](/post/restaurant/) downtown."
-- 名词: "[He](/post/he/) speaks [fluent](/post/fluent/) Italian [and](/post/and/) [often](/post/often/) travels [to](/post/to/) Italy [for](/post/for/) [work](/post/work/)."
-- 文化、艺术: "[The](/post/the/) Sistine Chapel is [a](/post/a/) [masterpiece](/post/masterpiece/) [of](/post/of/) Italian [art](/post/art/)."
+- 形容词: "[We](/zh/post/we/) had [a](/zh/post/a/) [delicious](/zh/post/delicious/) Italian [meal](/zh/post/meal/) [at](/zh/post/at/) [the](/zh/post/the/) [new](/zh/post/new/) [restaurant](/zh/post/restaurant/) downtown."
+- 名词: "[He](/zh/post/he/) speaks [fluent](/zh/post/fluent/) Italian [and](/zh/post/and/) [often](/zh/post/often/) travels [to](/zh/post/to/) Italy [for](/zh/post/for/) [work](/zh/post/work/)."
+- 文化、艺术: "[The](/zh/post/the/) Sistine Chapel is [a](/zh/post/a/) [masterpiece](/zh/post/masterpiece/) [of](/zh/post/of/) Italian [art](/zh/post/art/)."
 
 ## 同义词
 - Italianic

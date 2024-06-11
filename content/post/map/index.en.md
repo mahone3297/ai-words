@@ -7,34 +7,34 @@ description = '[mæp] n.地图；图；天体图'
 keywords = ['ai words', 'map']
 +++
 
-## [Word](/en/post/word/): [Map](/en/post/map/)
+## [Word](/post/word/): [Map](/post/map/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /mæp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) graphical representation [of](/en/post/of/) geographical features, [usually](/en/post/usually/) drawn [on](/en/post/on/) [a](/en/post/a/) [flat](/en/post/flat/) [surface](/en/post/surface/) [such](/en/post/such/) [as](/en/post/as/) [paper](/en/post/paper/) [or](/en/post/or/) displayed digitally, showing locations, [physical](/en/post/physical/) features, roads, directions, [and](/en/post/and/) [other](/en/post/other/) spatial [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) unfolded [the](/en/post/the/) [map](/en/post/map/) [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [best](/en/post/best/) [route](/en/post/route/) [to](/en/post/to/) [the](/en/post/the/) [national](/en/post/national/) [park](/en/post/park/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [map](/en/post/map/) [of](/en/post/of/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [area](/en/post/area/), [or](/en/post/or/) [to](/en/post/to/) [chart](/en/post/chart/) [or](/en/post/or/) [plan](/en/post/plan/) [out](/en/post/out/) [a](/en/post/a/) [course](/en/post/course/) [or](/en/post/or/) [journey](/en/post/journey/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) explorer mapped [the](/en/post/the/) uncharted [territory](/en/post/territory/)."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [visual](/en/post/visual/) representation [or](/en/post/or/) [guide](/en/post/guide/) [that](/en/post/that/) organizes [and](/en/post/and/) illustrates [complex](/en/post/complex/) [information](/en/post/information/), relationships, [or](/en/post/or/) plans. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) genealogist created [a](/en/post/a/) [family](/en/post/family/) [tree](/en/post/tree/) [map](/en/post/map/) [to](/en/post/to/) [trace](/en/post/trace/) [their](/en/post/their/) ancestors."
+- **[Noun](/post/noun/)**: [A](/post/a/) graphical representation [of](/post/of/) geographical features, [usually](/post/usually/) drawn [on](/post/on/) [a](/post/a/) [flat](/post/flat/) [surface](/post/surface/) [such](/post/such/) [as](/post/as/) [paper](/post/paper/) [or](/post/or/) displayed digitally, showing locations, [physical](/post/physical/) features, roads, directions, [and](/post/and/) [other](/post/other/) spatial [information](/post/information/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) unfolded [the](/post/the/) [map](/post/map/) [to](/post/to/) [find](/post/find/) [the](/post/the/) [best](/post/best/) [route](/post/route/) [to](/post/to/) [the](/post/the/) [national](/post/national/) [park](/post/park/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [create](/post/create/) [a](/post/a/) [map](/post/map/) [of](/post/of/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [area](/post/area/), [or](/post/or/) [to](/post/to/) [chart](/post/chart/) [or](/post/or/) [plan](/post/plan/) [out](/post/out/) [a](/post/a/) [course](/post/course/) [or](/post/or/) [journey](/post/journey/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) explorer mapped [the](/post/the/) uncharted [territory](/post/territory/)."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [visual](/post/visual/) representation [or](/post/or/) [guide](/post/guide/) [that](/post/that/) organizes [and](/post/and/) illustrates [complex](/post/complex/) [information](/post/information/), relationships, [or](/post/or/) plans. [For](/post/for/) [example](/post/example/): "[The](/post/the/) genealogist created [a](/post/a/) [family](/post/family/) [tree](/post/tree/) [map](/post/map/) [to](/post/to/) [trace](/post/trace/) [their](/post/their/) ancestors."
 
 ## Phrases
-- "[Put](/en/post/put/) [it](/en/post/it/) [on](/en/post/on/) [the](/en/post/the/) [map](/en/post/map/)": [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [or](/en/post/or/) [somewhere](/en/post/somewhere/) [famous](/en/post/famous/) [or](/en/post/or/) [well-known](/en/post/well-known/).
-- "[Get](/en/post/get/) lost [in](/en/post/in/) [a](/en/post/a/) [map](/en/post/map/)": [To](/en/post/to/) [become](/en/post/become/) absorbed [or](/en/post/or/) confused [while](/en/post/while/) studying [or](/en/post/or/) navigating [through](/en/post/through/) [a](/en/post/a/) [map](/en/post/map/).
-- "[A](/en/post/a/) [road](/en/post/road/) [map](/en/post/map/)": [A](/en/post/a/) figurative [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [plan](/en/post/plan/) [or](/en/post/or/) [strategy](/en/post/strategy/) [that](/en/post/that/) outlines steps towards [a](/en/post/a/) [goal](/en/post/goal/).
+- "[Put](/post/put/) [it](/post/it/) [on](/post/on/) [the](/post/the/) [map](/post/map/)": [To](/post/to/) [make](/post/make/) [something](/post/something/) [or](/post/or/) [somewhere](/post/somewhere/) [famous](/post/famous/) [or](/post/or/) [well-known](/post/well-known/).
+- "[Get](/post/get/) lost [in](/post/in/) [a](/post/a/) [map](/post/map/)": [To](/post/to/) [become](/post/become/) absorbed [or](/post/or/) confused [while](/post/while/) studying [or](/post/or/) navigating [through](/post/through/) [a](/post/a/) [map](/post/map/).
+- "[A](/post/a/) [road](/post/road/) [map](/post/map/)": [A](/post/a/) figurative [term](/post/term/) [for](/post/for/) [a](/post/a/) [plan](/post/plan/) [or](/post/or/) [strategy](/post/strategy/) [that](/post/that/) outlines steps towards [a](/post/a/) [goal](/post/goal/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Using [the](/en/post/the/) GPS [system](/en/post/system/), [we](/en/post/we/) followed [the](/en/post/the/) [map](/en/post/map/) [to](/en/post/to/) navigate [through](/en/post/through/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) cartographer spent years mapping [the](/en/post/the/) [entire](/en/post/entire/) country's terrain."
-- **[Noun](/en/post/noun/) (figurative)**: "[The](/en/post/the/) strategic roadmap helped [the](/en/post/the/) [company](/en/post/company/) [outline](/en/post/outline/) [its](/en/post/its/) goals [for](/en/post/for/) [the](/en/post/the/) [next](/en/post/next/) [five](/en/post/five/) years."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Using [the](/post/the/) GPS [system](/post/system/), [we](/post/we/) followed [the](/post/the/) [map](/post/map/) [to](/post/to/) navigate [through](/post/through/) [the](/post/the/) [city](/post/city/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) cartographer spent years mapping [the](/post/the/) [entire](/post/entire/) country's terrain."
+- **[Noun](/post/noun/) (figurative)**: "[The](/post/the/) strategic roadmap helped [the](/post/the/) [company](/post/company/) [outline](/post/outline/) [its](/post/its/) goals [for](/post/for/) [the](/post/the/) [next](/post/next/) [five](/post/five/) years."
 
 ## Synonyms
-- [Chart](/en/post/chart/)
-- [Diagram](/en/post/diagram/)
-- [Plan](/en/post/plan/)
-- [Drawing](/en/post/drawing/)
-- [Layout](/en/post/layout/)
+- [Chart](/post/chart/)
+- [Diagram](/post/diagram/)
+- [Plan](/post/plan/)
+- [Drawing](/post/drawing/)
+- [Layout](/post/layout/)
 - Blueprint
 - Atlas
-- [Geography](/en/post/geography/)
-- [Navigation](/en/post/navigation/)
-- [Guide](/en/post/guide/)
+- [Geography](/post/geography/)
+- [Navigation](/post/navigation/)
+- [Guide](/post/guide/)

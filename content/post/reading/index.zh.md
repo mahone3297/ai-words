@@ -12,23 +12,23 @@ keywords = ['ai words', 'reading']
 
 ## 释义
 - **名词**:
-  - 阅读；读物。例如: "I spent [the](/post/the/) [afternoon](/post/afternoon/) [in](/post/in/) [the](/post/the/) [library](/post/library/), enjoying [some](/post/some/) [peaceful](/post/peaceful/) [reading](/post/reading/)."
-  - 读数；显示值。例如: "[The](/post/the/) [thermometer](/post/thermometer/) showed [a](/post/a/) [reading](/post/reading/) [of](/post/of/) 37°C."
-  - （尤指戏剧、电影的）剧本朗读会。例如: "[There](/post/there/) [will](/post/will/) [be](/post/be/) [a](/post/a/) [reading](/post/reading/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [play](/post/play/) [next](/post/next/) [week](/post/week/)."
+  - 阅读；读物。例如: "I spent [the](/zh/post/the/) [afternoon](/zh/post/afternoon/) [in](/zh/post/in/) [the](/zh/post/the/) [library](/zh/post/library/), enjoying [some](/zh/post/some/) [peaceful](/zh/post/peaceful/) [reading](/zh/post/reading/)."
+  - 读数；显示值。例如: "[The](/zh/post/the/) [thermometer](/zh/post/thermometer/) showed [a](/zh/post/a/) [reading](/zh/post/reading/) [of](/zh/post/of/) 37°C."
+  - （尤指戏剧、电影的）剧本朗读会。例如: "[There](/zh/post/there/) [will](/zh/post/will/) [be](/zh/post/be/) [a](/zh/post/a/) [reading](/zh/post/reading/) [of](/zh/post/of/) [the](/zh/post/the/) [new](/zh/post/new/) [play](/zh/post/play/) [next](/zh/post/next/) [week](/zh/post/week/)."
 
 - **动词**:
-  - 阅读（文字、书籍等）。例如: "[She](/post/she/) loves [to](/post/to/) [read](/post/read/) books [on](/post/on/) [history](/post/history/)."
-  - （指人）识字。例如: "[Can](/post/can/) [you](/post/you/) [read](/post/read/) [this](/post/this/) [sign](/post/sign/)?"
+  - 阅读（文字、书籍等）。例如: "[She](/zh/post/she/) loves [to](/zh/post/to/) [read](/zh/post/read/) books [on](/zh/post/on/) [history](/zh/post/history/)."
+  - （指人）识字。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [read](/zh/post/read/) [this](/zh/post/this/) [sign](/zh/post/sign/)?"
 
 ## 短语
-- "[Reading](/post/reading/) [comprehension](/post/comprehension/)" 表示阅读理解能力。
-- "[Speed](/post/speed/) [reading](/post/reading/)" 是快速阅读的意思。
-- "[Reading](/post/reading/) [aloud](/post/aloud/)" 指大声朗读。
+- "[Reading](/zh/post/reading/) [comprehension](/zh/post/comprehension/)" 表示阅读理解能力。
+- "[Speed](/zh/post/speed/) [reading](/zh/post/reading/)" 是快速阅读的意思。
+- "[Reading](/zh/post/reading/) [aloud](/zh/post/aloud/)" 指大声朗读。
 
 ## 例句
-- 名词: "[The](/post/the/) [teacher](/post/teacher/) assigned [us](/post/us/) [a](/post/a/) challenging [reading](/post/reading/) [from](/post/from/) Shakespeare's plays."
-- 动词: "[She](/post/she/) reads [the](/post/the/) [newspaper](/post/newspaper/) [every](/post/every/) [morning](/post/morning/) [over](/post/over/) [breakfast](/post/breakfast/)."
-- 读数: "[Check](/post/check/) [the](/post/the/) [oil](/post/oil/) [level](/post/level/) [and](/post/and/) [make](/post/make/) [a](/post/a/) [note](/post/note/) [of](/post/of/) [the](/post/the/) [reading](/post/reading/)."
+- 名词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) assigned [us](/zh/post/us/) [a](/zh/post/a/) challenging [reading](/zh/post/reading/) [from](/zh/post/from/) Shakespeare's plays."
+- 动词: "[She](/zh/post/she/) reads [the](/zh/post/the/) [newspaper](/zh/post/newspaper/) [every](/zh/post/every/) [morning](/zh/post/morning/) [over](/zh/post/over/) [breakfast](/zh/post/breakfast/)."
+- 读数: "[Check](/zh/post/check/) [the](/zh/post/the/) [oil](/zh/post/oil/) [level](/zh/post/level/) [and](/zh/post/and/) [make](/zh/post/make/) [a](/zh/post/a/) [note](/zh/post/note/) [of](/zh/post/of/) [the](/zh/post/the/) [reading](/zh/post/reading/)."
 
 ## 同义词
 - Perusing

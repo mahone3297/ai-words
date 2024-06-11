@@ -11,20 +11,20 @@ keywords = ['ai words', 'widespread']
 /wɪdˈspred/
 
 ## 释义
-- **形容词**: 广泛分布的，普遍存在的。例如: "[The](/post/the/) [disease](/post/disease/) has [become](/post/become/) [widespread](/post/widespread/) [across](/post/across/) [the](/post/the/) [country](/post/country/)."
-- **动词**: （使）广泛传播，（使）普遍存在。例如: "[The](/post/the/) [idea](/post/idea/) was [quickly](/post/quickly/) [widespread](/post/widespread/) [among](/post/among/) [the](/post/the/) [youth](/post/youth/)."
+- **形容词**: 广泛分布的，普遍存在的。例如: "[The](/zh/post/the/) [disease](/zh/post/disease/) has [become](/zh/post/become/) [widespread](/zh/post/widespread/) [across](/zh/post/across/) [the](/zh/post/the/) [country](/zh/post/country/)."
+- **动词**: （使）广泛传播，（使）普遍存在。例如: "[The](/zh/post/the/) [idea](/zh/post/idea/) was [quickly](/zh/post/quickly/) [widespread](/zh/post/widespread/) [among](/zh/post/among/) [the](/zh/post/the/) [youth](/zh/post/youth/)."
 
 ## 短语
-- "[widespread](/post/widespread/) [acceptance](/post/acceptance/)" 意为广泛的接受度。
-- "[widespread](/post/widespread/) [practice](/post/practice/)" 指普遍的做法或习惯。
+- "[widespread](/zh/post/widespread/) [acceptance](/zh/post/acceptance/)" 意为广泛的接受度。
+- "[widespread](/zh/post/widespread/) [practice](/zh/post/practice/)" 指普遍的做法或习惯。
 
 ## 例句
-- 形容词: "[Air](/post/air/) [pollution](/post/pollution/) is [a](/post/a/) [widespread](/post/widespread/) [problem](/post/problem/) [in](/post/in/) [many](/post/many/) [major](/post/major/) cities."
-- 动词: "[Her](/post/her/) [kindness](/post/kindness/) [widespread](/post/widespread/) [joy](/post/joy/) [wherever](/post/wherever/) [she](/post/she/) went."
+- 形容词: "[Air](/zh/post/air/) [pollution](/zh/post/pollution/) is [a](/zh/post/a/) [widespread](/zh/post/widespread/) [problem](/zh/post/problem/) [in](/zh/post/in/) [many](/zh/post/many/) [major](/zh/post/major/) cities."
+- 动词: "[Her](/zh/post/her/) [kindness](/zh/post/kindness/) [widespread](/zh/post/widespread/) [joy](/zh/post/joy/) [wherever](/zh/post/wherever/) [she](/zh/post/she/) went."
 
 ## 同义词
-- [Universal](/post/universal/)
-- [General](/post/general/)
-- [Common](/post/common/)
+- [Universal](/zh/post/universal/)
+- [General](/zh/post/general/)
+- [Common](/zh/post/common/)
 - Pervasive
-- [Extensive](/post/extensive/)
+- [Extensive](/zh/post/extensive/)

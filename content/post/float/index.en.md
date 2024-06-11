@@ -7,37 +7,37 @@ description = '[fləut] vi.漂浮 vt.使漂浮'
 keywords = ['ai words', 'float']
 +++
 
-## [Word](/en/post/word/): [Float](/en/post/float/)
+## [Word](/post/word/): [Float](/post/float/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fləʊt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - An [object](/en/post/object/) designed [to](/en/post/to/) [be](/en/post/be/) buoyant [and](/en/post/and/) [stay](/en/post/stay/) [on](/en/post/on/) [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [a](/en/post/a/) [liquid](/en/post/liquid/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) decoration, [display](/en/post/display/), [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [means](/en/post/means/) [of](/en/post/of/) [transport](/en/post/transport/) [on](/en/post/on/) [water](/en/post/water/). [Example](/en/post/example/): "[The](/en/post/the/) [parade](/en/post/parade/) featured colorful floats decorated [with](/en/post/with/) flowers."
-  - [In](/en/post/in/) [finance](/en/post/finance/), [a](/en/post/a/) [temporary](/en/post/temporary/) [transfer](/en/post/transfer/) [of](/en/post/of/) [money](/en/post/money/) [from](/en/post/from/) [one](/en/post/one/) [bank](/en/post/bank/) [account](/en/post/account/) [to](/en/post/to/) [another](/en/post/another/) [to](/en/post/to/) [cover](/en/post/cover/) [potential](/en/post/potential/) overdrafts [or](/en/post/or/) [meet](/en/post/meet/) short-term needs. [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) arranged [a](/en/post/a/) [cash](/en/post/cash/) [float](/en/post/float/) [to](/en/post/to/) [manage](/en/post/manage/) [its](/en/post/its/) [daily](/en/post/daily/) transactions."
+- **[Noun](/post/noun/)**: 
+  - An [object](/post/object/) designed [to](/post/to/) [be](/post/be/) buoyant [and](/post/and/) [stay](/post/stay/) [on](/post/on/) [the](/post/the/) [surface](/post/surface/) [of](/post/of/) [a](/post/a/) [liquid](/post/liquid/), [often](/post/often/) [used](/post/used/) [for](/post/for/) decoration, [display](/post/display/), [or](/post/or/) [as](/post/as/) [a](/post/a/) [means](/post/means/) [of](/post/of/) [transport](/post/transport/) [on](/post/on/) [water](/post/water/). [Example](/post/example/): "[The](/post/the/) [parade](/post/parade/) featured colorful floats decorated [with](/post/with/) flowers."
+  - [In](/post/in/) [finance](/post/finance/), [a](/post/a/) [temporary](/post/temporary/) [transfer](/post/transfer/) [of](/post/of/) [money](/post/money/) [from](/post/from/) [one](/post/one/) [bank](/post/bank/) [account](/post/account/) [to](/post/to/) [another](/post/another/) [to](/post/to/) [cover](/post/cover/) [potential](/post/potential/) overdrafts [or](/post/or/) [meet](/post/meet/) short-term needs. [Example](/post/example/): "[The](/post/the/) [company](/post/company/) arranged [a](/post/a/) [cash](/post/cash/) [float](/post/float/) [to](/post/to/) [manage](/post/manage/) [its](/post/its/) [daily](/post/daily/) transactions."
 
-- **[Verb](/en/post/verb/)**:
-  - (intransitive) [To](/en/post/to/) [rest](/en/post/rest/) [or](/en/post/or/) [move](/en/post/move/) [along](/en/post/along/) [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [a](/en/post/a/) [liquid](/en/post/liquid/) [without](/en/post/without/) sinking. [Example](/en/post/example/): "[A](/en/post/a/) [duck](/en/post/duck/) [can](/en/post/can/) [float](/en/post/float/) [on](/en/post/on/) [water](/en/post/water/)."
-  - (transitive) [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [rest](/en/post/rest/) [or](/en/post/or/) [move](/en/post/move/) [on](/en/post/on/) [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [a](/en/post/a/) [liquid](/en/post/liquid/). [Example](/en/post/example/): "[He](/en/post/he/) floated [the](/en/post/the/) [toy](/en/post/toy/) [boat](/en/post/boat/) [on](/en/post/on/) [the](/en/post/the/) [pond](/en/post/pond/)."
-  - (figurative) [To](/en/post/to/) [remain](/en/post/remain/) suspended [or](/en/post/or/) hover. [Example](/en/post/example/): "Thoughts floated [through](/en/post/through/) [her](/en/post/her/) [mind](/en/post/mind/) [as](/en/post/as/) [she](/en/post/she/) drifted [off](/en/post/off/) [to](/en/post/to/) [sleep](/en/post/sleep/)."
-  - ([finance](/en/post/finance/)) [To](/en/post/to/) [issue](/en/post/issue/) [new](/en/post/new/) securities [for](/en/post/for/) [public](/en/post/public/) subscription [or](/en/post/or/) [trade](/en/post/trade/), typically stocks [or](/en/post/or/) bonds. [Example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) plans [to](/en/post/to/) [float](/en/post/float/) shares [in](/en/post/in/) [the](/en/post/the/) [national](/en/post/national/) [airline](/en/post/airline/)."
+- **[Verb](/post/verb/)**:
+  - (intransitive) [To](/post/to/) [rest](/post/rest/) [or](/post/or/) [move](/post/move/) [along](/post/along/) [the](/post/the/) [surface](/post/surface/) [of](/post/of/) [a](/post/a/) [liquid](/post/liquid/) [without](/post/without/) sinking. [Example](/post/example/): "[A](/post/a/) [duck](/post/duck/) [can](/post/can/) [float](/post/float/) [on](/post/on/) [water](/post/water/)."
+  - (transitive) [To](/post/to/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [rest](/post/rest/) [or](/post/or/) [move](/post/move/) [on](/post/on/) [the](/post/the/) [surface](/post/surface/) [of](/post/of/) [a](/post/a/) [liquid](/post/liquid/). [Example](/post/example/): "[He](/post/he/) floated [the](/post/the/) [toy](/post/toy/) [boat](/post/boat/) [on](/post/on/) [the](/post/the/) [pond](/post/pond/)."
+  - (figurative) [To](/post/to/) [remain](/post/remain/) suspended [or](/post/or/) hover. [Example](/post/example/): "Thoughts floated [through](/post/through/) [her](/post/her/) [mind](/post/mind/) [as](/post/as/) [she](/post/she/) drifted [off](/post/off/) [to](/post/to/) [sleep](/post/sleep/)."
+  - ([finance](/post/finance/)) [To](/post/to/) [issue](/post/issue/) [new](/post/new/) securities [for](/post/for/) [public](/post/public/) subscription [or](/post/or/) [trade](/post/trade/), typically stocks [or](/post/or/) bonds. [Example](/post/example/): "[The](/post/the/) [government](/post/government/) plans [to](/post/to/) [float](/post/float/) shares [in](/post/in/) [the](/post/the/) [national](/post/national/) [airline](/post/airline/)."
 
-- **[Adjective](/en/post/adjective/)**: 
-  - Describing [something](/en/post/something/) [that](/en/post/that/) [can](/en/post/can/) [stay](/en/post/stay/) [on](/en/post/on/) [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [a](/en/post/a/) [liquid](/en/post/liquid/) [without](/en/post/without/) sinking. [Example](/en/post/example/): "[These](/en/post/these/) buoys are made [of](/en/post/of/) [float](/en/post/float/) [material](/en/post/material/)."
-  - (informal) [Not](/en/post/not/) fixed; [subject](/en/post/subject/) [to](/en/post/to/) [change](/en/post/change/) [or](/en/post/or/) fluctuation. [Example](/en/post/example/): "Prices [may](/en/post/may/) [float](/en/post/float/) depending [on](/en/post/on/) [market](/en/post/market/) conditions."
+- **[Adjective](/post/adjective/)**: 
+  - Describing [something](/post/something/) [that](/post/that/) [can](/post/can/) [stay](/post/stay/) [on](/post/on/) [the](/post/the/) [surface](/post/surface/) [of](/post/of/) [a](/post/a/) [liquid](/post/liquid/) [without](/post/without/) sinking. [Example](/post/example/): "[These](/post/these/) buoys are made [of](/post/of/) [float](/post/float/) [material](/post/material/)."
+  - (informal) [Not](/post/not/) fixed; [subject](/post/subject/) [to](/post/to/) [change](/post/change/) [or](/post/or/) fluctuation. [Example](/post/example/): "Prices [may](/post/may/) [float](/post/float/) depending [on](/post/on/) [market](/post/market/) conditions."
 
 ## Phrases
-- "[Float](/en/post/float/) [like](/en/post/like/) [a](/en/post/a/) [butterfly](/en/post/butterfly/)" - metaphorically referring [to](/en/post/to/) moving [lightly](/en/post/lightly/), gracefully, [or](/en/post/or/) effortlessly.
-- "[Let](/en/post/let/) [it](/en/post/it/) [float](/en/post/float/)" - suggesting [not](/en/post/not/) [to](/en/post/to/) [interfere](/en/post/interfere/) [or](/en/post/or/) [act](/en/post/act/) [immediately](/en/post/immediately/), allowing [a](/en/post/a/) [situation](/en/post/situation/) [to](/en/post/to/) unfold [naturally](/en/post/naturally/).
-- "[To](/en/post/to/) [have](/en/post/have/) afloat" - [to](/en/post/to/) [have](/en/post/have/) [something](/en/post/something/) functioning [or](/en/post/or/) maintained [successfully](/en/post/successfully/), [especially](/en/post/especially/) finances [or](/en/post/or/) [a](/en/post/a/) [business](/en/post/business/) [venture](/en/post/venture/).
+- "[Float](/post/float/) [like](/post/like/) [a](/post/a/) [butterfly](/post/butterfly/)" - metaphorically referring [to](/post/to/) moving [lightly](/post/lightly/), gracefully, [or](/post/or/) effortlessly.
+- "[Let](/post/let/) [it](/post/it/) [float](/post/float/)" - suggesting [not](/post/not/) [to](/post/to/) [interfere](/post/interfere/) [or](/post/or/) [act](/post/act/) [immediately](/post/immediately/), allowing [a](/post/a/) [situation](/post/situation/) [to](/post/to/) unfold [naturally](/post/naturally/).
+- "[To](/post/to/) [have](/post/have/) afloat" - [to](/post/to/) [have](/post/have/) [something](/post/something/) functioning [or](/post/or/) maintained [successfully](/post/successfully/), [especially](/post/especially/) finances [or](/post/or/) [a](/post/a/) [business](/post/business/) [venture](/post/venture/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [festival](/en/post/festival/) included [a](/en/post/a/) [procession](/en/post/procession/) [of](/en/post/of/) creatively designed floats."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) watched [as](/en/post/as/) [the](/en/post/the/) leaves [gently](/en/post/gently/) floated [down](/en/post/down/) [the](/en/post/the/) [stream](/en/post/stream/)."
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [type](/en/post/type/) [of](/en/post/of/) [wood](/en/post/wood/) is [so](/en/post/so/) [light](/en/post/light/) [that](/en/post/that/) [even](/en/post/even/) [large](/en/post/large/) pieces [will](/en/post/will/) [float](/en/post/float/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [festival](/post/festival/) included [a](/post/a/) [procession](/post/procession/) [of](/post/of/) creatively designed floats."
+- **[Verb](/post/verb/)**: "[She](/post/she/) watched [as](/post/as/) [the](/post/the/) leaves [gently](/post/gently/) floated [down](/post/down/) [the](/post/the/) [stream](/post/stream/)."
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [type](/post/type/) [of](/post/of/) [wood](/post/wood/) is [so](/post/so/) [light](/post/light/) [that](/post/that/) [even](/post/even/) [large](/post/large/) pieces [will](/post/will/) [float](/post/float/)."
 
 ## Synonyms
-- [Noun](/en/post/noun/): Raft, buoy, pontoon
-- [Verb](/en/post/verb/): [Drift](/en/post/drift/), hover, soar, [glide](/en/post/glide/), [ride](/en/post/ride/)
-- [Adjective](/en/post/adjective/): Buoyant, unanchored, [variable](/en/post/variable/), undetermined
+- [Noun](/post/noun/): Raft, buoy, pontoon
+- [Verb](/post/verb/): [Drift](/post/drift/), hover, soar, [glide](/post/glide/), [ride](/post/ride/)
+- [Adjective](/post/adjective/): Buoyant, unanchored, [variable](/post/variable/), undetermined

@@ -7,48 +7,48 @@ description = '[ˈkʌrənt] a.当前的；通用的'
 keywords = ['ai words', 'current']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɜːrənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [flow](/en/post/flow/) [or](/en/post/or/) [movement](/en/post/movement/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [liquid](/en/post/liquid/) [or](/en/post/or/) [gas](/en/post/gas/): "[The](/en/post/the/) river's [current](/en/post/current/) was [strong](/en/post/strong/)."
-2. [Current](/en/post/current/) affairs [or](/en/post/or/) events: "[We](/en/post/we/) discussed [the](/en/post/the/) latest [political](/en/post/political/) currents."
-3. [Present](/en/post/present/) [time](/en/post/time/); ongoing events: "I'm [living](/en/post/living/) [in](/en/post/in/) [the](/en/post/the/) [current](/en/post/current/) [moment](/en/post/moment/)."
-4. [Electricity](/en/post/electricity/) [or](/en/post/or/) [electrical](/en/post/electrical/) [power](/en/post/power/): "[The](/en/post/the/) [electricity](/en/post/electricity/) [supply](/en/post/supply/) is [out](/en/post/out/); [we](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [find](/en/post/find/) [a](/en/post/a/) [generator](/en/post/generator/)."
-5. [A](/en/post/a/) prevalent [trend](/en/post/trend/) [or](/en/post/or/) [style](/en/post/style/): "[Fashion](/en/post/fashion/) trends [often](/en/post/often/) [follow](/en/post/follow/) [the](/en/post/the/) [current](/en/post/current/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [flow](/post/flow/) [or](/post/or/) [movement](/post/movement/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [liquid](/post/liquid/) [or](/post/or/) [gas](/post/gas/): "[The](/post/the/) river's [current](/post/current/) was [strong](/post/strong/)."
+2. [Current](/post/current/) affairs [or](/post/or/) events: "[We](/post/we/) discussed [the](/post/the/) latest [political](/post/political/) currents."
+3. [Present](/post/present/) [time](/post/time/); ongoing events: "I'm [living](/post/living/) [in](/post/in/) [the](/post/the/) [current](/post/current/) [moment](/post/moment/)."
+4. [Electricity](/post/electricity/) [or](/post/or/) [electrical](/post/electrical/) [power](/post/power/): "[The](/post/the/) [electricity](/post/electricity/) [supply](/post/supply/) is [out](/post/out/); [we](/post/we/) [need](/post/need/) [to](/post/to/) [find](/post/find/) [a](/post/a/) [generator](/post/generator/)."
+5. [A](/post/a/) prevalent [trend](/post/trend/) [or](/post/or/) [style](/post/style/): "[Fashion](/post/fashion/) trends [often](/post/often/) [follow](/post/follow/) [the](/post/the/) [current](/post/current/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [flow](/en/post/flow/) [or](/en/post/or/) [move](/en/post/move/) [smoothly](/en/post/smoothly/): "[The](/en/post/the/) [river](/en/post/river/) currents are [essential](/en/post/essential/) [for](/en/post/for/) [navigation](/en/post/navigation/)."
-2. [To](/en/post/to/) [be](/en/post/be/) [current](/en/post/current/) [or](/en/post/or/) [valid](/en/post/valid/): "[His](/en/post/his/) [passport](/en/post/passport/) is [still](/en/post/still/) [valid](/en/post/valid/), [so](/en/post/so/) [his](/en/post/his/) visa is [current](/en/post/current/)."
-3. [To](/en/post/to/) [be](/en/post/be/) [current](/en/post/current/) [in](/en/post/in/) one's [mind](/en/post/mind/): "She's [up-to-date](/en/post/up-to-date/) [on](/en/post/on/) [the](/en/post/the/) latest [news](/en/post/news/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [flow](/post/flow/) [or](/post/or/) [move](/post/move/) [smoothly](/post/smoothly/): "[The](/post/the/) [river](/post/river/) currents are [essential](/post/essential/) [for](/post/for/) [navigation](/post/navigation/)."
+2. [To](/post/to/) [be](/post/be/) [current](/post/current/) [or](/post/or/) [valid](/post/valid/): "[His](/post/his/) [passport](/post/passport/) is [still](/post/still/) [valid](/post/valid/), [so](/post/so/) [his](/post/his/) visa is [current](/post/current/)."
+3. [To](/post/to/) [be](/post/be/) [current](/post/current/) [in](/post/in/) one's [mind](/post/mind/): "She's [up-to-date](/post/up-to-date/) [on](/post/on/) [the](/post/the/) latest [news](/post/news/)."
 
-### [Adjective](/en/post/adjective/)
-1. [Present](/en/post/present/) [or](/en/post/or/) [current](/en/post/current/): "[The](/en/post/the/) [current](/en/post/current/) [weather](/en/post/weather/) [forecast](/en/post/forecast/) predicts [rain](/en/post/rain/)."
-2. Existing [now](/en/post/now/); [not](/en/post/not/) outdated: "[The](/en/post/the/) [technology](/en/post/technology/) is [still](/en/post/still/) [current](/en/post/current/)."
-3. Pertaining [to](/en/post/to/) [the](/en/post/the/) [present](/en/post/present/) [time](/en/post/time/): "[Current](/en/post/current/) [research](/en/post/research/) findings."
+### [Adjective](/post/adjective/)
+1. [Present](/post/present/) [or](/post/or/) [current](/post/current/): "[The](/post/the/) [current](/post/current/) [weather](/post/weather/) [forecast](/post/forecast/) predicts [rain](/post/rain/)."
+2. Existing [now](/post/now/); [not](/post/not/) outdated: "[The](/post/the/) [technology](/post/technology/) is [still](/post/still/) [current](/post/current/)."
+3. Pertaining [to](/post/to/) [the](/post/the/) [present](/post/present/) [time](/post/time/): "[Current](/post/current/) [research](/post/research/) findings."
 
-### [Adverb](/en/post/adverb/)
-1. [At](/en/post/at/) [the](/en/post/the/) [present](/en/post/present/) [time](/en/post/time/); currently: "He's working [on](/en/post/on/) [a](/en/post/a/) [project](/en/post/project/) [current](/en/post/current/) [as](/en/post/as/) [of](/en/post/of/) [last](/en/post/last/) [week](/en/post/week/)."
+### [Adverb](/post/adverb/)
+1. [At](/post/at/) [the](/post/the/) [present](/post/present/) [time](/post/time/); currently: "He's working [on](/post/on/) [a](/post/a/) [project](/post/project/) [current](/post/current/) [as](/post/as/) [of](/post/of/) [last](/post/last/) [week](/post/week/)."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [up](/en/post/up/) [with](/en/post/with/) [the](/en/post/the/) [current](/en/post/current/)" [means](/en/post/means/) [to](/en/post/to/) [stay](/en/post/stay/) informed [about](/en/post/about/) [recent](/en/post/recent/) developments.
-- "[Go](/en/post/go/) [with](/en/post/with/) [the](/en/post/the/) [current](/en/post/current/)" implies [following](/en/post/following/) [a](/en/post/a/) [natural](/en/post/natural/) progression [or](/en/post/or/) [trend](/en/post/trend/).
-- "[Current](/en/post/current/) events" refers [to](/en/post/to/) [recent](/en/post/recent/) happenings [in](/en/post/in/) [the](/en/post/the/) [news](/en/post/news/).
+- "[Keep](/post/keep/) [up](/post/up/) [with](/post/with/) [the](/post/the/) [current](/post/current/)" [means](/post/means/) [to](/post/to/) [stay](/post/stay/) informed [about](/post/about/) [recent](/post/recent/) developments.
+- "[Go](/post/go/) [with](/post/with/) [the](/post/the/) [current](/post/current/)" implies [following](/post/following/) [a](/post/a/) [natural](/post/natural/) progression [or](/post/or/) [trend](/post/trend/).
+- "[Current](/post/current/) events" refers [to](/post/to/) [recent](/post/recent/) happenings [in](/post/in/) [the](/post/the/) [news](/post/news/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) diver had [to](/en/post/to/) navigate [the](/en/post/the/) [strong](/en/post/strong/) [current](/en/post/current/) [in](/en/post/in/) [the](/en/post/the/) [river](/en/post/river/)."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [renew](/en/post/renew/) [my](/en/post/my/) subscription [to](/en/post/to/) [stay](/en/post/stay/) [current](/en/post/current/) [with](/en/post/with/) [the](/en/post/the/) [magazine](/en/post/magazine/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [current](/en/post/current/) [market](/en/post/market/) conditions are challenging [for](/en/post/for/) businesses."
-- **[Adverb](/en/post/adverb/)**: "She's [very](/en/post/very/) [current](/en/post/current/) [on](/en/post/on/) [the](/en/post/the/) latest [industry](/en/post/industry/) advancements."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) diver had [to](/post/to/) navigate [the](/post/the/) [strong](/post/strong/) [current](/post/current/) [in](/post/in/) [the](/post/the/) [river](/post/river/)."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [renew](/post/renew/) [my](/post/my/) subscription [to](/post/to/) [stay](/post/stay/) [current](/post/current/) [with](/post/with/) [the](/post/the/) [magazine](/post/magazine/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [current](/post/current/) [market](/post/market/) conditions are challenging [for](/post/for/) businesses."
+- **[Adverb](/post/adverb/)**: "She's [very](/post/very/) [current](/post/current/) [on](/post/on/) [the](/post/the/) latest [industry](/post/industry/) advancements."
 
 ## Synonyms
 - Flowing
-- [Present](/en/post/present/)
-- [Active](/en/post/active/)
-- [Modern](/en/post/modern/)
-- [Contemporary](/en/post/contemporary/)
-- [Up-to-date](/en/post/up-to-date/)
-- [Current](/en/post/current/) affairs
+- [Present](/post/present/)
+- [Active](/post/active/)
+- [Modern](/post/modern/)
+- [Contemporary](/post/contemporary/)
+- [Up-to-date](/post/up-to-date/)
+- [Current](/post/current/) affairs
 - Present-day
 - Tidal

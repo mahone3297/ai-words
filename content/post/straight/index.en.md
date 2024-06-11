@@ -7,30 +7,30 @@ description = '[streit] a.直的；正直的 ad.直'
 keywords = ['ai words', 'straight']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /streɪt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Directly](/en/post/directly/) [in](/en/post/in/) [a](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) [direction](/en/post/direction/); [not](/en/post/not/) bent [or](/en/post/or/) curved. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [arrow](/en/post/arrow/) [shot](/en/post/shot/) [straight](/en/post/straight/) [through](/en/post/through/) [the](/en/post/the/) [target](/en/post/target/)."
-   - **[Noun](/en/post/noun/)**: [A](/en/post/a/) [straight](/en/post/straight/) [line](/en/post/line/) [or](/en/post/or/) [path](/en/post/path/). [For](/en/post/for/) [example](/en/post/example/): "[Drive](/en/post/drive/) [straight](/en/post/straight/) [on](/en/post/on/) [until](/en/post/until/) [you](/en/post/you/) [reach](/en/post/reach/) [the](/en/post/the/) [next](/en/post/next/) intersection."
-   - **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [straight](/en/post/straight/) [manner](/en/post/manner/); [without](/en/post/without/) deviation. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) walked [straight](/en/post/straight/) [home](/en/post/home/)."
+- **[Adjective](/post/adjective/)**: 1. [Directly](/post/directly/) [in](/post/in/) [a](/post/a/) [line](/post/line/) [or](/post/or/) [direction](/post/direction/); [not](/post/not/) bent [or](/post/or/) curved. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [arrow](/post/arrow/) [shot](/post/shot/) [straight](/post/straight/) [through](/post/through/) [the](/post/the/) [target](/post/target/)."
+   - **[Noun](/post/noun/)**: [A](/post/a/) [straight](/post/straight/) [line](/post/line/) [or](/post/or/) [path](/post/path/). [For](/post/for/) [example](/post/example/): "[Drive](/post/drive/) [straight](/post/straight/) [on](/post/on/) [until](/post/until/) [you](/post/you/) [reach](/post/reach/) [the](/post/the/) [next](/post/next/) intersection."
+   - **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [straight](/post/straight/) [manner](/post/manner/); [without](/post/without/) deviation. [For](/post/for/) [example](/post/example/): "[She](/post/she/) walked [straight](/post/straight/) [home](/post/home/)."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [it](/en/post/it/) [straight](/en/post/straight/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [honest](/en/post/honest/) [or](/en/post/or/) [accurate](/en/post/accurate/).
-- "[Straight](/en/post/straight/) [talk](/en/post/talk/)" refers [to](/en/post/to/) straightforward [and](/en/post/and/) [honest](/en/post/honest/) [communication](/en/post/communication/).
-- "[She](/en/post/she/) drove [straight](/en/post/straight/) [into](/en/post/into/) [my](/en/post/my/) [life](/en/post/life/)" is [a](/en/post/a/) [figure](/en/post/figure/) [of](/en/post/of/) [speech](/en/post/speech/) [for](/en/post/for/) unexpectedly [meeting](/en/post/meeting/) [someone](/en/post/someone/).
+- "[Keep](/post/keep/) [it](/post/it/) [straight](/post/straight/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) [honest](/post/honest/) [or](/post/or/) [accurate](/post/accurate/).
+- "[Straight](/post/straight/) [talk](/post/talk/)" refers [to](/post/to/) straightforward [and](/post/and/) [honest](/post/honest/) [communication](/post/communication/).
+- "[She](/post/she/) drove [straight](/post/straight/) [into](/post/into/) [my](/post/my/) [life](/post/life/)" is [a](/post/a/) [figure](/post/figure/) [of](/post/of/) [speech](/post/speech/) [for](/post/for/) unexpectedly [meeting](/post/meeting/) [someone](/post/someone/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [ruler](/en/post/ruler/) is [straight](/en/post/straight/) [and](/en/post/and/) [precise](/en/post/precise/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [fence](/en/post/fence/) runs [straight](/en/post/straight/) [across](/en/post/across/) [the](/en/post/the/) [yard](/en/post/yard/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) told [me](/en/post/me/) [the](/en/post/the/) [story](/en/post/story/) [straight](/en/post/straight/), [without](/en/post/without/) [any](/en/post/any/) embellishments."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [ruler](/post/ruler/) is [straight](/post/straight/) [and](/post/and/) [precise](/post/precise/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [fence](/post/fence/) runs [straight](/post/straight/) [across](/post/across/) [the](/post/the/) [yard](/post/yard/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) told [me](/post/me/) [the](/post/the/) [story](/post/story/) [straight](/post/straight/), [without](/post/without/) [any](/post/any/) embellishments."
 
 ## Synonyms
-- [Direct](/en/post/direct/)
+- [Direct](/post/direct/)
 - Unbent
 - Uncompromising
-- [Level](/en/post/level/)
-- [True](/en/post/true/)
+- [Level](/post/level/)
+- [True](/post/true/)
 - True-to-the-core
 
 ## Antonyms
@@ -38,7 +38,7 @@ keywords = ['ai words', 'straight']
 - Bending
 - Wavy
 -蜿蜒曲折
-- [Indirect](/en/post/indirect/)
+- [Indirect](/post/indirect/)
 
-## [Usage](/en/post/usage/)
-* [Straight](/en/post/straight/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) idiomatic expressions [like](/en/post/like/) "[come](/en/post/come/) [straight](/en/post/straight/) [out](/en/post/out/)" ([to](/en/post/to/) [tell](/en/post/tell/) [the](/en/post/the/) [truth](/en/post/truth/)), "[be](/en/post/be/) [straight](/en/post/straight/) [with](/en/post/with/) [someone](/en/post/someone/)" ([to](/en/post/to/) [be](/en/post/be/) [honest](/en/post/honest/)), [or](/en/post/or/) "[get](/en/post/get/) [your](/en/post/your/) [act](/en/post/act/) [together](/en/post/together/)" ([to](/en/post/to/) [organize](/en/post/organize/) [yourself](/en/post/yourself/)).
+## [Usage](/post/usage/)
+* [Straight](/post/straight/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [in](/post/in/) idiomatic expressions [like](/post/like/) "[come](/post/come/) [straight](/post/straight/) [out](/post/out/)" ([to](/post/to/) [tell](/post/tell/) [the](/post/the/) [truth](/post/truth/)), "[be](/post/be/) [straight](/post/straight/) [with](/post/with/) [someone](/post/someone/)" ([to](/post/to/) [be](/post/be/) [honest](/post/honest/)), [or](/post/or/) "[get](/post/get/) [your](/post/your/) [act](/post/act/) [together](/post/together/)" ([to](/post/to/) [organize](/post/organize/) [yourself](/post/yourself/)).

@@ -7,36 +7,36 @@ description = '[æ∫] n.灰，灰末；骨灰'
 keywords = ['ai words', 'ash']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /æʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [Ash](/en/post/ash/): [The](/en/post/the/) [light](/en/post/light/), powdery [remains](/en/post/remains/) [of](/en/post/of/) burned [wood](/en/post/wood/), plants, [or](/en/post/or/) [other](/en/post/other/) [organic](/en/post/organic/) [matter](/en/post/matter/). [In](/en/post/in/) British English, [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) volcanic soot [or](/en/post/or/) ashes [from](/en/post/from/) [a](/en/post/a/) [fire](/en/post/fire/). [Example](/en/post/example/): "[The](/en/post/the/) fireplace was filled [with](/en/post/with/) [a](/en/post/a/) [layer](/en/post/layer/) [of](/en/post/of/) [ash](/en/post/ash/) [from](/en/post/from/) [the](/en/post/the/) [previous](/en/post/previous/) night's [fire](/en/post/fire/)."
-- (Geology) [A](/en/post/a/) sedimentary [rock](/en/post/rock/) formed [from](/en/post/from/) [the](/en/post/the/) accumulation [of](/en/post/of/) [mineral](/en/post/mineral/) [and](/en/post/and/) [organic](/en/post/organic/) particles [in](/en/post/in/) [water](/en/post/water/). [Example](/en/post/example/): "[The](/en/post/the/) landscape is covered [in](/en/post/in/) layers [of](/en/post/of/) volcanic [ash](/en/post/ash/)."
-- ([Plural](/en/post/plural/)) [Short](/en/post/short/) [form](/en/post/form/) [of](/en/post/of/) ashes, [the](/en/post/the/) [remains](/en/post/remains/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) has been burned [completely](/en/post/completely/). [Example](/en/post/example/): "[He](/en/post/he/) scattered [the](/en/post/the/) ashes [of](/en/post/of/) [his](/en/post/his/) [father](/en/post/father/) [across](/en/post/across/) [the](/en/post/the/) [lake](/en/post/lake/)."
+### [Noun](/post/noun/)
+- [Ash](/post/ash/): [The](/post/the/) [light](/post/light/), powdery [remains](/post/remains/) [of](/post/of/) burned [wood](/post/wood/), plants, [or](/post/or/) [other](/post/other/) [organic](/post/organic/) [matter](/post/matter/). [In](/post/in/) British English, [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) volcanic soot [or](/post/or/) ashes [from](/post/from/) [a](/post/a/) [fire](/post/fire/). [Example](/post/example/): "[The](/post/the/) fireplace was filled [with](/post/with/) [a](/post/a/) [layer](/post/layer/) [of](/post/of/) [ash](/post/ash/) [from](/post/from/) [the](/post/the/) [previous](/post/previous/) night's [fire](/post/fire/)."
+- (Geology) [A](/post/a/) sedimentary [rock](/post/rock/) formed [from](/post/from/) [the](/post/the/) accumulation [of](/post/of/) [mineral](/post/mineral/) [and](/post/and/) [organic](/post/organic/) particles [in](/post/in/) [water](/post/water/). [Example](/post/example/): "[The](/post/the/) landscape is covered [in](/post/in/) layers [of](/post/of/) volcanic [ash](/post/ash/)."
+- ([Plural](/post/plural/)) [Short](/post/short/) [form](/post/form/) [of](/post/of/) ashes, [the](/post/the/) [remains](/post/remains/) [of](/post/of/) [something](/post/something/) [that](/post/that/) has been burned [completely](/post/completely/). [Example](/post/example/): "[He](/post/he/) scattered [the](/post/the/) ashes [of](/post/of/) [his](/post/his/) [father](/post/father/) [across](/post/across/) [the](/post/the/) [lake](/post/lake/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [ash](/en/post/ash/) ([a](/en/post/a/) [cigarette](/en/post/cigarette/)): [To](/en/post/to/) extinguish [by](/en/post/by/) burning [the](/en/post/the/) [end](/en/post/end/). [Example](/en/post/example/): "[He](/en/post/he/) [gently](/en/post/gently/) ashed [his](/en/post/his/) [cigarette](/en/post/cigarette/) [into](/en/post/into/) [the](/en/post/the/) ashtray."
-- (Informal) [To](/en/post/to/) [scatter](/en/post/scatter/) [or](/en/post/or/) [distribute](/en/post/distribute/) ashes, [especially](/en/post/especially/) [after](/en/post/after/) cremation. [Example](/en/post/example/): "We'll [be](/en/post/be/) having [a](/en/post/a/) [memorial](/en/post/memorial/) [service](/en/post/service/) [where](/en/post/where/) we'll [ash](/en/post/ash/) [our](/en/post/our/) loved one's [remains](/en/post/remains/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [ash](/post/ash/) ([a](/post/a/) [cigarette](/post/cigarette/)): [To](/post/to/) extinguish [by](/post/by/) burning [the](/post/the/) [end](/post/end/). [Example](/post/example/): "[He](/post/he/) [gently](/post/gently/) ashed [his](/post/his/) [cigarette](/post/cigarette/) [into](/post/into/) [the](/post/the/) ashtray."
+- (Informal) [To](/post/to/) [scatter](/post/scatter/) [or](/post/or/) [distribute](/post/distribute/) ashes, [especially](/post/especially/) [after](/post/after/) cremation. [Example](/post/example/): "We'll [be](/post/be/) having [a](/post/a/) [memorial](/post/memorial/) [service](/post/service/) [where](/post/where/) we'll [ash](/post/ash/) [our](/post/our/) loved one's [remains](/post/remains/)."
 
-### [Adjective](/en/post/adjective/)
-- Ashy: Having [a](/en/post/a/) [pale](/en/post/pale/), grayish [color](/en/post/color/), resembling ashes. [Example](/en/post/example/): "[Her](/en/post/her/) [skin](/en/post/skin/) had an ashy [tone](/en/post/tone/) [from](/en/post/from/) [the](/en/post/the/) [lack](/en/post/lack/) [of](/en/post/of/) [sun](/en/post/sun/)."
-- Ashen: [Similar](/en/post/similar/) [to](/en/post/to/) ashes [in](/en/post/in/) [appearance](/en/post/appearance/) [or](/en/post/or/) [color](/en/post/color/), [often](/en/post/often/) implying [sorrow](/en/post/sorrow/) [or](/en/post/or/) grief. [Example](/en/post/example/): "[The](/en/post/the/) ashen sky预示着即将到来的暴风雨."
+### [Adjective](/post/adjective/)
+- Ashy: Having [a](/post/a/) [pale](/post/pale/), grayish [color](/post/color/), resembling ashes. [Example](/post/example/): "[Her](/post/her/) [skin](/post/skin/) had an ashy [tone](/post/tone/) [from](/post/from/) [the](/post/the/) [lack](/post/lack/) [of](/post/of/) [sun](/post/sun/)."
+- Ashen: [Similar](/post/similar/) [to](/post/to/) ashes [in](/post/in/) [appearance](/post/appearance/) [or](/post/or/) [color](/post/color/), [often](/post/often/) implying [sorrow](/post/sorrow/) [or](/post/or/) grief. [Example](/post/example/): "[The](/post/the/) ashen sky预示着即将到来的暴风雨."
 
 ## Phrases
-- "[Ash](/en/post/ash/) [from](/en/post/from/) [the](/en/post/the/) [volcano](/en/post/volcano/)" describes [the](/en/post/the/) aftermath [of](/en/post/of/) [a](/en/post/a/) volcanic eruption.
-- "[Clean](/en/post/clean/) [up](/en/post/up/) [the](/en/post/the/) [ash](/en/post/ash/)" refers [to](/en/post/to/) clearing [away](/en/post/away/) debris [left](/en/post/left/) [by](/en/post/by/) [a](/en/post/a/) [fire](/en/post/fire/).
-- "Ashes [to](/en/post/to/) ashes" is [a](/en/post/a/) metaphor [for](/en/post/for/) [death](/en/post/death/), implying [everything](/en/post/everything/) [will](/en/post/will/) [return](/en/post/return/) [to](/en/post/to/) [dust](/en/post/dust/).
+- "[Ash](/post/ash/) [from](/post/from/) [the](/post/the/) [volcano](/post/volcano/)" describes [the](/post/the/) aftermath [of](/post/of/) [a](/post/a/) volcanic eruption.
+- "[Clean](/post/clean/) [up](/post/up/) [the](/post/the/) [ash](/post/ash/)" refers [to](/post/to/) clearing [away](/post/away/) debris [left](/post/left/) [by](/post/by/) [a](/post/a/) [fire](/post/fire/).
+- "Ashes [to](/post/to/) ashes" is [a](/post/a/) metaphor [for](/post/for/) [death](/post/death/), implying [everything](/post/everything/) [will](/post/will/) [return](/post/return/) [to](/post/to/) [dust](/post/dust/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [fire](/en/post/fire/), [the](/en/post/the/) [room](/en/post/room/) was filled [with](/en/post/with/) [a](/en/post/a/) [thick](/en/post/thick/) [layer](/en/post/layer/) [of](/en/post/of/) [ash](/en/post/ash/) [on](/en/post/on/) [the](/en/post/the/) [floor](/en/post/floor/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) carefully ashed [the](/en/post/the/) [cigarette](/en/post/cigarette/) [before](/en/post/before/) throwing [it](/en/post/it/) [away](/en/post/away/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) ashen-faced [woman](/en/post/woman/) looked worried [about](/en/post/about/) [the](/en/post/the/) approaching deadline."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [fire](/post/fire/), [the](/post/the/) [room](/post/room/) was filled [with](/post/with/) [a](/post/a/) [thick](/post/thick/) [layer](/post/layer/) [of](/post/of/) [ash](/post/ash/) [on](/post/on/) [the](/post/the/) [floor](/post/floor/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) carefully ashed [the](/post/the/) [cigarette](/post/cigarette/) [before](/post/before/) throwing [it](/post/it/) [away](/post/away/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) ashen-faced [woman](/post/woman/) looked worried [about](/post/about/) [the](/post/the/) approaching deadline."
 
 ## Synonyms
-- Charcoal ([for](/en/post/for/) [the](/en/post/the/) burnt [material](/en/post/material/))
-- Dross ([in](/en/post/in/) [metal](/en/post/metal/) refining)
-- Soot ([from](/en/post/from/) fires)
-- [Remains](/en/post/remains/) ([in](/en/post/in/) [a](/en/post/a/) [general](/en/post/general/) [sense](/en/post/sense/))
-- Residue ([after](/en/post/after/) burning)
+- Charcoal ([for](/post/for/) [the](/post/the/) burnt [material](/post/material/))
+- Dross ([in](/post/in/) [metal](/post/metal/) refining)
+- Soot ([from](/post/from/) fires)
+- [Remains](/post/remains/) ([in](/post/in/) [a](/post/a/) [general](/post/general/) [sense](/post/sense/))
+- Residue ([after](/post/after/) burning)

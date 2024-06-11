@@ -11,19 +11,19 @@ keywords = ['ai words', 'captive']
 /ˈkæptɪv/
 
 ## 释义
-- **名词**: 被俘虏的人；被囚禁者。例如: "[The](/post/the/) [captive](/post/captive/) was held hostage [by](/post/by/) [the](/post/the/) terrorists."
-- **形容词**: 被捕获的；被囚禁的。例如: "[The](/post/the/) [captive](/post/captive/) [animal](/post/animal/) was [well](/post/well/) cared [for](/post/for/) [in](/post/in/) [the](/post/the/) [zoo](/post/zoo/)."
+- **名词**: 被俘虏的人；被囚禁者。例如: "[The](/zh/post/the/) [captive](/zh/post/captive/) was held hostage [by](/zh/post/by/) [the](/zh/post/the/) terrorists."
+- **形容词**: 被捕获的；被囚禁的。例如: "[The](/zh/post/the/) [captive](/zh/post/captive/) [animal](/zh/post/animal/) was [well](/zh/post/well/) cared [for](/zh/post/for/) [in](/zh/post/in/) [the](/zh/post/the/) [zoo](/zh/post/zoo/)."
 
 ## 短语
-- "[Captive](/post/captive/) [audience](/post/audience/)" 意为被迫听从的人群，如听众或观众。
-- "[Captive](/post/captive/) [insurance](/post/insurance/)" 指由其母公司设立的保险公司，专门为其提供保险服务。
+- "[Captive](/zh/post/captive/) [audience](/zh/post/audience/)" 意为被迫听从的人群，如听众或观众。
+- "[Captive](/zh/post/captive/) [insurance](/zh/post/insurance/)" 指由其母公司设立的保险公司，专门为其提供保险服务。
 
 ## 例句
-- 名词: "[The](/post/the/) soldier's [main](/post/main/) [concern](/post/concern/) was [the](/post/the/) [safety](/post/safety/) [of](/post/of/) [the](/post/the/) [captive](/post/captive/) children."
-- 形容词: "[The](/post/the/) [captive](/post/captive/) [elephant](/post/elephant/) had been trained [to](/post/to/) [perform](/post/perform/) tricks [for](/post/for/) visitors."
+- 名词: "[The](/zh/post/the/) soldier's [main](/zh/post/main/) [concern](/zh/post/concern/) was [the](/zh/post/the/) [safety](/zh/post/safety/) [of](/zh/post/of/) [the](/zh/post/the/) [captive](/zh/post/captive/) children."
+- 形容词: "[The](/zh/post/the/) [captive](/zh/post/captive/) [elephant](/zh/post/elephant/) had been trained [to](/zh/post/to/) [perform](/zh/post/perform/) tricks [for](/zh/post/for/) visitors."
 
 ## 同义词
-- [Prisoner](/post/prisoner/)
+- [Prisoner](/zh/post/prisoner/)
 - Captured
 - Detained
 - Imprisoned

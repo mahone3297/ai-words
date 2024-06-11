@@ -7,28 +7,28 @@ description = 'a.微细的；详细的'
 keywords = ['ai words', 'minute']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɪnɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)** (n): 
-  - [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [time](/en/post/time/) [equal](/en/post/equal/) [to](/en/post/to/) [one](/en/post/one/) sixtieth [of](/en/post/of/) an [hour](/en/post/hour/) [or](/en/post/or/) 60 seconds. [Example](/en/post/example/): "[The](/en/post/the/) [meeting](/en/post/meeting/) lasted [for](/en/post/for/) [half](/en/post/half/) an [hour](/en/post/hour/), [give](/en/post/give/) [or](/en/post/or/) [take](/en/post/take/) [a](/en/post/a/) [few](/en/post/few/) minutes."
-  - [A](/en/post/a/) written [or](/en/post/or/) printed [record](/en/post/record/) [of](/en/post/of/) [a](/en/post/a/) [meeting](/en/post/meeting/) [or](/en/post/or/) proceeding, typically [one](/en/post/one/) made [at](/en/post/at/) [a](/en/post/a/) [formal](/en/post/formal/) [assembly](/en/post/assembly/). [Example](/en/post/example/): "[The](/en/post/the/) [secretary](/en/post/secretary/) [read](/en/post/read/) [out](/en/post/out/) [the](/en/post/the/) minutes [from](/en/post/from/) [the](/en/post/the/) [previous](/en/post/previous/) [meeting](/en/post/meeting/)."
-  - [A](/en/post/a/) [very](/en/post/very/) [short](/en/post/short/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/); an [instant](/en/post/instant/). [Example](/en/post/example/): "I'll [be](/en/post/be/) [back](/en/post/back/) [in](/en/post/in/) [a](/en/post/a/) [minute](/en/post/minute/)."
-  - ([in](/en/post/in/) sports) [A](/en/post/a/) [point](/en/post/point/) scored [in](/en/post/in/) [certain](/en/post/certain/) games, [such](/en/post/such/) [as](/en/post/as/) [football](/en/post/football/) [or](/en/post/or/) [basketball](/en/post/basketball/). [Example](/en/post/example/): "[They](/en/post/they/) scored [two](/en/post/two/) goals [in](/en/post/in/) [the](/en/post/the/) [final](/en/post/final/) [minute](/en/post/minute/) [of](/en/post/of/) [the](/en/post/the/) [game](/en/post/game/)."
+- **[Noun](/post/noun/)** (n): 
+  - [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [time](/post/time/) [equal](/post/equal/) [to](/post/to/) [one](/post/one/) sixtieth [of](/post/of/) an [hour](/post/hour/) [or](/post/or/) 60 seconds. [Example](/post/example/): "[The](/post/the/) [meeting](/post/meeting/) lasted [for](/post/for/) [half](/post/half/) an [hour](/post/hour/), [give](/post/give/) [or](/post/or/) [take](/post/take/) [a](/post/a/) [few](/post/few/) minutes."
+  - [A](/post/a/) written [or](/post/or/) printed [record](/post/record/) [of](/post/of/) [a](/post/a/) [meeting](/post/meeting/) [or](/post/or/) proceeding, typically [one](/post/one/) made [at](/post/at/) [a](/post/a/) [formal](/post/formal/) [assembly](/post/assembly/). [Example](/post/example/): "[The](/post/the/) [secretary](/post/secretary/) [read](/post/read/) [out](/post/out/) [the](/post/the/) minutes [from](/post/from/) [the](/post/the/) [previous](/post/previous/) [meeting](/post/meeting/)."
+  - [A](/post/a/) [very](/post/very/) [short](/post/short/) [period](/post/period/) [of](/post/of/) [time](/post/time/); an [instant](/post/instant/). [Example](/post/example/): "I'll [be](/post/be/) [back](/post/back/) [in](/post/in/) [a](/post/a/) [minute](/post/minute/)."
+  - ([in](/post/in/) sports) [A](/post/a/) [point](/post/point/) scored [in](/post/in/) [certain](/post/certain/) games, [such](/post/such/) [as](/post/as/) [football](/post/football/) [or](/post/or/) [basketball](/post/basketball/). [Example](/post/example/): "[They](/post/they/) scored [two](/post/two/) goals [in](/post/in/) [the](/post/the/) [final](/post/final/) [minute](/post/minute/) [of](/post/of/) [the](/post/the/) [game](/post/game/)."
 
-- **[Adjective](/en/post/adjective/)** (adj): [Extremely](/en/post/extremely/) [small](/en/post/small/); [tiny](/en/post/tiny/); minuscule. [Example](/en/post/example/): "[Minute](/en/post/minute/) details [can](/en/post/can/) [often](/en/post/often/) [make](/en/post/make/) [a](/en/post/a/) [significant](/en/post/significant/) [difference](/en/post/difference/)."
+- **[Adjective](/post/adjective/)** (adj): [Extremely](/post/extremely/) [small](/post/small/); [tiny](/post/tiny/); minuscule. [Example](/post/example/): "[Minute](/post/minute/) details [can](/post/can/) [often](/post/often/) [make](/post/make/) [a](/post/a/) [significant](/post/significant/) [difference](/post/difference/)."
 
 ## Phrases
-- "[To](/en/post/to/) [take](/en/post/take/) minutes" [means](/en/post/means/) [to](/en/post/to/) [write](/en/post/write/) [down](/en/post/down/) [or](/en/post/or/) [record](/en/post/record/) [the](/en/post/the/) proceedings [of](/en/post/of/) [a](/en/post/a/) [meeting](/en/post/meeting/).
-- "[In](/en/post/in/) [a](/en/post/a/) [minute](/en/post/minute/)" implies [something](/en/post/something/) [will](/en/post/will/) [happen](/en/post/happen/) [soon](/en/post/soon/) [or](/en/post/or/) [very](/en/post/very/) [quickly](/en/post/quickly/).
-- "[Every](/en/post/every/) [minute](/en/post/minute/) counts" suggests [that](/en/post/that/) [time](/en/post/time/) is [precious](/en/post/precious/) [and](/en/post/and/) [should](/en/post/should/) [not](/en/post/not/) [be](/en/post/be/) wasted.
+- "[To](/post/to/) [take](/post/take/) minutes" [means](/post/means/) [to](/post/to/) [write](/post/write/) [down](/post/down/) [or](/post/or/) [record](/post/record/) [the](/post/the/) proceedings [of](/post/of/) [a](/post/a/) [meeting](/post/meeting/).
+- "[In](/post/in/) [a](/post/a/) [minute](/post/minute/)" implies [something](/post/something/) [will](/post/will/) [happen](/post/happen/) [soon](/post/soon/) [or](/post/or/) [very](/post/very/) [quickly](/post/quickly/).
+- "[Every](/post/every/) [minute](/post/minute/) counts" suggests [that](/post/that/) [time](/post/time/) is [precious](/post/precious/) [and](/post/and/) [should](/post/should/) [not](/post/not/) [be](/post/be/) wasted.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([time](/en/post/time/))**: "[Please](/en/post/please/) [wait](/en/post/wait/) [for](/en/post/for/) [just](/en/post/just/) [a](/en/post/a/) [minute](/en/post/minute/) [while](/en/post/while/) I [check](/en/post/check/) [my](/en/post/my/) [schedule](/en/post/schedule/)."
-- **[Noun](/en/post/noun/) ([record](/en/post/record/))**: "[She](/en/post/she/) was tasked [with](/en/post/with/) taking [the](/en/post/the/) minutes [during](/en/post/during/) [the](/en/post/the/) [board](/en/post/board/) [meeting](/en/post/meeting/)."
-- **[Adjective](/en/post/adjective/)**: "[Under](/en/post/under/) [the](/en/post/the/) [microscope](/en/post/microscope/), [we](/en/post/we/) [could](/en/post/could/) [see](/en/post/see/) [minute](/en/post/minute/) organisms swimming [in](/en/post/in/) [the](/en/post/the/) [water](/en/post/water/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([time](/post/time/))**: "[Please](/post/please/) [wait](/post/wait/) [for](/post/for/) [just](/post/just/) [a](/post/a/) [minute](/post/minute/) [while](/post/while/) I [check](/post/check/) [my](/post/my/) [schedule](/post/schedule/)."
+- **[Noun](/post/noun/) ([record](/post/record/))**: "[She](/post/she/) was tasked [with](/post/with/) taking [the](/post/the/) minutes [during](/post/during/) [the](/post/the/) [board](/post/board/) [meeting](/post/meeting/)."
+- **[Adjective](/post/adjective/)**: "[Under](/post/under/) [the](/post/the/) [microscope](/post/microscope/), [we](/post/we/) [could](/post/could/) [see](/post/see/) [minute](/post/minute/) organisms swimming [in](/post/in/) [the](/post/the/) [water](/post/water/)."
 
 ## Synonyms
-- ([noun](/en/post/noun/) - [time](/en/post/time/) [unit](/en/post/unit/)) [Second](/en/post/second/), [instant](/en/post/instant/), [moment](/en/post/moment/)
-- ([adjective](/en/post/adjective/) - [extremely](/en/post/extremely/) [small](/en/post/small/)) [Tiny](/en/post/tiny/), minuscule, infinitesimal, microscopic
+- ([noun](/post/noun/) - [time](/post/time/) [unit](/post/unit/)) [Second](/post/second/), [instant](/post/instant/), [moment](/post/moment/)
+- ([adjective](/post/adjective/) - [extremely](/post/extremely/) [small](/post/small/)) [Tiny](/post/tiny/), minuscule, infinitesimal, microscopic

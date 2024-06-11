@@ -7,27 +7,27 @@ description = '[ˈhʌŋgə] n.饿，饥饿；渴望'
 keywords = ['ai words', 'hunger']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhʌŋɡər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) discomfort [or](/en/post/or/) [weakness](/en/post/weakness/) caused [by](/en/post/by/) [lack](/en/post/lack/) [of](/en/post/of/) [food](/en/post/food/), [often](/en/post/often/) accompanied [by](/en/post/by/) [the](/en/post/the/) [desire](/en/post/desire/) [to](/en/post/to/) [eat](/en/post/eat/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) felt [intense](/en/post/intense/) [hunger](/en/post/hunger/) [after](/en/post/after/) [not](/en/post/not/) eating [all](/en/post/all/) [day](/en/post/day/)."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [or](/en/post/or/) craving [for](/en/post/for/) [something](/en/post/something/), [often](/en/post/often/) [used](/en/post/used/) metaphorically. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [hunger](/en/post/hunger/) [for](/en/post/for/) [knowledge](/en/post/knowledge/) drove [her](/en/post/her/) [to](/en/post/to/) [read](/en/post/read/) extensively."
+- **[Noun](/post/noun/)**: [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) discomfort [or](/post/or/) [weakness](/post/weakness/) caused [by](/post/by/) [lack](/post/lack/) [of](/post/of/) [food](/post/food/), [often](/post/often/) accompanied [by](/post/by/) [the](/post/the/) [desire](/post/desire/) [to](/post/to/) [eat](/post/eat/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) felt [intense](/post/intense/) [hunger](/post/hunger/) [after](/post/after/) [not](/post/not/) eating [all](/post/all/) [day](/post/day/)."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [or](/post/or/) craving [for](/post/for/) [something](/post/something/), [often](/post/often/) [used](/post/used/) metaphorically. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [hunger](/post/hunger/) [for](/post/for/) [knowledge](/post/knowledge/) drove [her](/post/her/) [to](/post/to/) [read](/post/read/) extensively."
 
 ## Phrases
-- "[Hunger](/en/post/hunger/) pangs" [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [painful](/en/post/painful/) sensations [in](/en/post/in/) [the](/en/post/the/) [stomach](/en/post/stomach/) caused [by](/en/post/by/) [hunger](/en/post/hunger/).
-- "[Satisfy](/en/post/satisfy/) one's [hunger](/en/post/hunger/)" [means](/en/post/means/) [to](/en/post/to/) [eat](/en/post/eat/) [enough](/en/post/enough/) [food](/en/post/food/) [to](/en/post/to/) [relieve](/en/post/relieve/) [the](/en/post/the/) [feeling](/en/post/feeling/) [of](/en/post/of/) [hunger](/en/post/hunger/).
-- "[The](/en/post/the/) [Hunger](/en/post/hunger/) Games" is [a](/en/post/a/) [popular](/en/post/popular/) [book](/en/post/book/) [and](/en/post/and/) [film](/en/post/film/) [series](/en/post/series/) [where](/en/post/where/) participants [must](/en/post/must/) [fight](/en/post/fight/) [to](/en/post/to/) [the](/en/post/the/) [death](/en/post/death/) [in](/en/post/in/) [a](/en/post/a/) dystopian [competition](/en/post/competition/).
+- "[Hunger](/post/hunger/) pangs" [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [painful](/post/painful/) sensations [in](/post/in/) [the](/post/the/) [stomach](/post/stomach/) caused [by](/post/by/) [hunger](/post/hunger/).
+- "[Satisfy](/post/satisfy/) one's [hunger](/post/hunger/)" [means](/post/means/) [to](/post/to/) [eat](/post/eat/) [enough](/post/enough/) [food](/post/food/) [to](/post/to/) [relieve](/post/relieve/) [the](/post/the/) [feeling](/post/feeling/) [of](/post/of/) [hunger](/post/hunger/).
+- "[The](/post/the/) [Hunger](/post/hunger/) Games" is [a](/post/a/) [popular](/post/popular/) [book](/post/book/) [and](/post/and/) [film](/post/film/) [series](/post/series/) [where](/post/where/) participants [must](/post/must/) [fight](/post/fight/) [to](/post/to/) [the](/post/the/) [death](/post/death/) [in](/post/in/) [a](/post/a/) dystopian [competition](/post/competition/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (literal)**: "[She](/en/post/she/) couldn't [concentrate](/en/post/concentrate/) [on](/en/post/on/) [her](/en/post/her/) [work](/en/post/work/) [because](/en/post/because/) [of](/en/post/of/) [her](/en/post/her/) gnawing [hunger](/en/post/hunger/)."
-- **[Noun](/en/post/noun/) (figurative)**: "[His](/en/post/his/) insatiable [hunger](/en/post/hunger/) [for](/en/post/for/) [success](/en/post/success/) led [him](/en/post/him/) [to](/en/post/to/) [take](/en/post/take/) [on](/en/post/on/) [new](/en/post/new/) challenges constantly."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (literal)**: "[She](/post/she/) couldn't [concentrate](/post/concentrate/) [on](/post/on/) [her](/post/her/) [work](/post/work/) [because](/post/because/) [of](/post/of/) [her](/post/her/) gnawing [hunger](/post/hunger/)."
+- **[Noun](/post/noun/) (figurative)**: "[His](/post/his/) insatiable [hunger](/post/hunger/) [for](/post/for/) [success](/post/success/) led [him](/post/him/) [to](/post/to/) [take](/post/take/) [on](/post/on/) [new](/post/new/) challenges constantly."
 
 ## Synonyms
-- [Appetite](/en/post/appetite/)
-- [Thirst](/en/post/thirst/) ([for](/en/post/for/) [something](/en/post/something/))
+- [Appetite](/post/appetite/)
+- [Thirst](/post/thirst/) ([for](/post/for/) [something](/post/something/))
 - Craving
 - Yearning
-- [Famine](/en/post/famine/) ([in](/en/post/in/) [a](/en/post/a/) [more](/en/post/more/) [severe](/en/post/severe/) context) 
-- Starvation ([when](/en/post/when/) prolonged [and](/en/post/and/) life-threatening)
-- Longing ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/))
+- [Famine](/post/famine/) ([in](/post/in/) [a](/post/a/) [more](/post/more/) [severe](/post/severe/) context) 
+- Starvation ([when](/post/when/) prolonged [and](/post/and/) life-threatening)
+- Longing ([in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/))

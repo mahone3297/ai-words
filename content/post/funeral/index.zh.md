@@ -11,21 +11,21 @@ keywords = ['ai words', 'funeral']
 /fərˈnʌl/
 
 ## 释义
-- **名词**: 丧礼，葬礼。指为悼念死者而举行的仪式或聚会。例如: "[A](/post/a/) [large](/post/large/) [crowd](/post/crowd/) attended [the](/post/the/) [funeral](/post/funeral/)."
-- **动词**: 组织或举行葬礼。例如: "[The](/post/the/) [family](/post/family/) is funeraling [their](/post/their/) loved [one](/post/one/) [tomorrow](/post/tomorrow/)."
+- **名词**: 丧礼，葬礼。指为悼念死者而举行的仪式或聚会。例如: "[A](/zh/post/a/) [large](/zh/post/large/) [crowd](/zh/post/crowd/) attended [the](/zh/post/the/) [funeral](/zh/post/funeral/)."
+- **动词**: 组织或举行葬礼。例如: "[The](/zh/post/the/) [family](/zh/post/family/) is funeraling [their](/zh/post/their/) loved [one](/zh/post/one/) [tomorrow](/zh/post/tomorrow/)."
 
 ## 短语
-- "[Funeral](/post/funeral/) [service](/post/service/)" 指葬礼仪式。
-- "[Funeral](/post/funeral/) [procession](/post/procession/)" 是送葬队伍，从教堂到墓地的行列。
-- "[Funeral](/post/funeral/) arrangements" 指安排葬礼的各项事宜。
+- "[Funeral](/zh/post/funeral/) [service](/zh/post/service/)" 指葬礼仪式。
+- "[Funeral](/zh/post/funeral/) [procession](/zh/post/procession/)" 是送葬队伍，从教堂到墓地的行列。
+- "[Funeral](/zh/post/funeral/) arrangements" 指安排葬礼的各项事宜。
 
 ## 例句
-- 名词: "[The](/post/the/) [funeral](/post/funeral/) [will](/post/will/) [be](/post/be/) held [on](/post/on/) Saturday [at](/post/at/) [the](/post/the/) [local](/post/local/) [church](/post/church/)."
-- 动词: "[They](/post/they/) are funeraling [their](/post/their/) [father](/post/father/) [with](/post/with/) [full](/post/full/) [military](/post/military/) honors."
+- 名词: "[The](/zh/post/the/) [funeral](/zh/post/funeral/) [will](/zh/post/will/) [be](/zh/post/be/) held [on](/zh/post/on/) Saturday [at](/zh/post/at/) [the](/zh/post/the/) [local](/zh/post/local/) [church](/zh/post/church/)."
+- 动词: "[They](/zh/post/they/) are funeraling [their](/zh/post/their/) [father](/zh/post/father/) [with](/zh/post/with/) [full](/zh/post/full/) [military](/zh/post/military/) honors."
 
 ## 同义词
-- [Memorial](/post/memorial/) [service](/post/service/)
+- [Memorial](/zh/post/memorial/) [service](/zh/post/service/)
 - Commemoration
-- [Wake](/post/wake/)
-- Burial [ceremony](/post/ceremony/)
-- [Departure](/post/departure/) [ceremony](/post/ceremony/)
+- [Wake](/zh/post/wake/)
+- Burial [ceremony](/zh/post/ceremony/)
+- [Departure](/zh/post/departure/) [ceremony](/zh/post/ceremony/)

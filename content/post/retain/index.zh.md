@@ -12,25 +12,25 @@ keywords = ['ai words', 'retain']
 
 ## 释义
 - **动词**:
-1. 保持；保留。例如: "[They](/post/they/) retained [their](/post/their/) [original](/post/original/) [culture](/post/culture/) [over](/post/over/) [the](/post/the/) years."
-2. 记住；回忆。例如: "[She](/post/she/) [could](/post/could/) [retain](/post/retain/) [information](/post/information/) [easily](/post/easily/)."
-3. 雇佣；聘请。例如: "[The](/post/the/) [company](/post/company/) retained [a](/post/a/) [lawyer](/post/lawyer/) [for](/post/for/) [legal](/post/legal/) [advice](/post/advice/)."
-4. 保持不变；维持。例如: "[The](/post/the/) [building](/post/building/) has retained [its](/post/its/) historic charm."
+1. 保持；保留。例如: "[They](/zh/post/they/) retained [their](/zh/post/their/) [original](/zh/post/original/) [culture](/zh/post/culture/) [over](/zh/post/over/) [the](/zh/post/the/) years."
+2. 记住；回忆。例如: "[She](/zh/post/she/) [could](/zh/post/could/) [retain](/zh/post/retain/) [information](/zh/post/information/) [easily](/zh/post/easily/)."
+3. 雇佣；聘请。例如: "[The](/zh/post/the/) [company](/zh/post/company/) retained [a](/zh/post/a/) [lawyer](/zh/post/lawyer/) [for](/zh/post/for/) [legal](/zh/post/legal/) [advice](/zh/post/advice/)."
+4. 保持不变；维持。例如: "[The](/zh/post/the/) [building](/zh/post/building/) has retained [its](/zh/post/its/) historic charm."
 
 ## 短语
-- "[Retain](/post/retain/) one's composure" 保持镇静。
-- "[Retain](/post/retain/) [a](/post/a/) [lawyer](/post/lawyer/)" 雇佣律师。
-- "[Retain](/post/retain/) [water](/post/water/)" 保水，如在减肥时体内储存水分。
+- "[Retain](/zh/post/retain/) one's composure" 保持镇静。
+- "[Retain](/zh/post/retain/) [a](/zh/post/a/) [lawyer](/zh/post/lawyer/)" 雇佣律师。
+- "[Retain](/zh/post/retain/) [water](/zh/post/water/)" 保水，如在减肥时体内储存水分。
 
 ## 例句
-- 保持："[Despite](/post/despite/) [the](/post/the/) challenges, [they](/post/they/) managed [to](/post/to/) [retain](/post/retain/) [their](/post/their/) [market](/post/market/) [share](/post/share/)."
-- 记忆："[After](/post/after/) [reading](/post/reading/) [the](/post/the/) [text](/post/text/) [once](/post/once/), [he](/post/he/) was [able](/post/able/) [to](/post/to/) [retain](/post/retain/) [most](/post/most/) [of](/post/of/) [the](/post/the/) [key](/post/key/) points."
-- 雇佣："[They](/post/they/) decided [to](/post/to/) [retain](/post/retain/) an experienced consultant [for](/post/for/) [the](/post/the/) [project](/post/project/)."
-- 保持不变："[The](/post/the/) [old](/post/old/) [house](/post/house/) has retained [its](/post/its/) [original](/post/original/) [wooden](/post/wooden/) floors."
+- 保持："[Despite](/zh/post/despite/) [the](/zh/post/the/) challenges, [they](/zh/post/they/) managed [to](/zh/post/to/) [retain](/zh/post/retain/) [their](/zh/post/their/) [market](/zh/post/market/) [share](/zh/post/share/)."
+- 记忆："[After](/zh/post/after/) [reading](/zh/post/reading/) [the](/zh/post/the/) [text](/zh/post/text/) [once](/zh/post/once/), [he](/zh/post/he/) was [able](/zh/post/able/) [to](/zh/post/to/) [retain](/zh/post/retain/) [most](/zh/post/most/) [of](/zh/post/of/) [the](/zh/post/the/) [key](/zh/post/key/) points."
+- 雇佣："[They](/zh/post/they/) decided [to](/zh/post/to/) [retain](/zh/post/retain/) an experienced consultant [for](/zh/post/for/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- 保持不变："[The](/zh/post/the/) [old](/zh/post/old/) [house](/zh/post/house/) has retained [its](/zh/post/its/) [original](/zh/post/original/) [wooden](/zh/post/wooden/) floors."
 
 ## 同义词
-- [Keep](/post/keep/)
-- [Maintain](/post/maintain/)
-- [Hold](/post/hold/) [on](/post/on/) [to](/post/to/)
-- [Preserve](/post/preserve/)
-- [Sustain](/post/sustain/)
+- [Keep](/zh/post/keep/)
+- [Maintain](/zh/post/maintain/)
+- [Hold](/zh/post/hold/) [on](/zh/post/on/) [to](/zh/post/to/)
+- [Preserve](/zh/post/preserve/)
+- [Sustain](/zh/post/sustain/)

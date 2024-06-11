@@ -7,43 +7,43 @@ description = '[əˈkaunt] n.记述；解释；帐目'
 keywords = ['ai words', 'account']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈkɑːnt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [record](/en/post/record/) [or](/en/post/or/) [statement](/en/post/statement/) [of](/en/post/of/) transactions, [often](/en/post/often/) [financial](/en/post/financial/): *I [need](/en/post/need/) [to](/en/post/to/) reconcile [my](/en/post/my/) [bank](/en/post/bank/) [account](/en/post/account/).*
-2. [A](/en/post/a/) [description](/en/post/description/) [or](/en/post/or/) representation [of](/en/post/of/) [something](/en/post/something/): *[The](/en/post/the/) [painting](/en/post/painting/) was [a](/en/post/a/) [vivid](/en/post/vivid/) [account](/en/post/account/) [of](/en/post/of/) [the](/en/post/the/) [scene](/en/post/scene/).*
-3. [A](/en/post/a/) person's [story](/en/post/story/) [or](/en/post/or/) [explanation](/en/post/explanation/) [of](/en/post/of/) events: *[He](/en/post/he/) told [me](/en/post/me/) [his](/en/post/his/) [side](/en/post/side/) [of](/en/post/of/) [the](/en/post/the/) [account](/en/post/account/).*
-4. [[mass](/en/post/mass/) [noun](/en/post/noun/)] [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [or](/en/post/or/) receiving an [explanation](/en/post/explanation/) [or](/en/post/or/) [information](/en/post/information/): *[Provide](/en/post/provide/) an [account](/en/post/account/) [of](/en/post/of/) [what](/en/post/what/) happened.*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [record](/post/record/) [or](/post/or/) [statement](/post/statement/) [of](/post/of/) transactions, [often](/post/often/) [financial](/post/financial/): *I [need](/post/need/) [to](/post/to/) reconcile [my](/post/my/) [bank](/post/bank/) [account](/post/account/).*
+2. [A](/post/a/) [description](/post/description/) [or](/post/or/) representation [of](/post/of/) [something](/post/something/): *[The](/post/the/) [painting](/post/painting/) was [a](/post/a/) [vivid](/post/vivid/) [account](/post/account/) [of](/post/of/) [the](/post/the/) [scene](/post/scene/).*
+3. [A](/post/a/) person's [story](/post/story/) [or](/post/or/) [explanation](/post/explanation/) [of](/post/of/) events: *[He](/post/he/) told [me](/post/me/) [his](/post/his/) [side](/post/side/) [of](/post/of/) [the](/post/the/) [account](/post/account/).*
+4. [[mass](/post/mass/) [noun](/post/noun/)] [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [or](/post/or/) receiving an [explanation](/post/explanation/) [or](/post/or/) [information](/post/information/): *[Provide](/post/provide/) an [account](/post/account/) [of](/post/of/) [what](/post/what/) happened.*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) detailed [report](/en/post/report/) [or](/en/post/or/) [explanation](/en/post/explanation/): *[She](/en/post/she/) [will](/en/post/will/) [account](/en/post/account/) [for](/en/post/for/) [her](/en/post/her/) [absence](/en/post/absence/).*
-2. [To](/en/post/to/) [be](/en/post/be/) [responsible](/en/post/responsible/) [for](/en/post/for/) (sth.): *[The](/en/post/the/) [company](/en/post/company/) is accountable [for](/en/post/for/) [the](/en/post/the/) [loss](/en/post/loss/).*
-3. [To](/en/post/to/) [estimate](/en/post/estimate/) [or](/en/post/or/) [calculate](/en/post/calculate/) [the](/en/post/the/) [cost](/en/post/cost/), [quantity](/en/post/quantity/), [or](/en/post/or/) [value](/en/post/value/) [of](/en/post/of/): *Let's [account](/en/post/account/) [for](/en/post/for/) [the](/en/post/the/) [time](/en/post/time/) [and](/en/post/and/) materials needed.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [give](/post/give/) [a](/post/a/) detailed [report](/post/report/) [or](/post/or/) [explanation](/post/explanation/): *[She](/post/she/) [will](/post/will/) [account](/post/account/) [for](/post/for/) [her](/post/her/) [absence](/post/absence/).*
+2. [To](/post/to/) [be](/post/be/) [responsible](/post/responsible/) [for](/post/for/) (sth.): *[The](/post/the/) [company](/post/company/) is accountable [for](/post/for/) [the](/post/the/) [loss](/post/loss/).*
+3. [To](/post/to/) [estimate](/post/estimate/) [or](/post/or/) [calculate](/post/calculate/) [the](/post/the/) [cost](/post/cost/), [quantity](/post/quantity/), [or](/post/or/) [value](/post/value/) [of](/post/of/): *Let's [account](/post/account/) [for](/post/for/) [the](/post/the/) [time](/post/time/) [and](/post/and/) materials needed.*
 
-### [Adjective](/en/post/adjective/)
-1. [Relevant](/en/post/relevant/) [or](/en/post/or/) pertinent: *[This](/en/post/this/) [detail](/en/post/detail/) is [not](/en/post/not/) germane [to](/en/post/to/) [the](/en/post/the/) [main](/en/post/main/) [account](/en/post/account/).*
-2. Connected [or](/en/post/or/) belonging: *[This](/en/post/this/) [theory](/en/post/theory/) doesn't [seem](/en/post/seem/) [to](/en/post/to/) [fit](/en/post/fit/) [the](/en/post/the/) [overall](/en/post/overall/) [account](/en/post/account/).*
+### [Adjective](/post/adjective/)
+1. [Relevant](/post/relevant/) [or](/post/or/) pertinent: *[This](/post/this/) [detail](/post/detail/) is [not](/post/not/) germane [to](/post/to/) [the](/post/the/) [main](/post/main/) [account](/post/account/).*
+2. Connected [or](/post/or/) belonging: *[This](/post/this/) [theory](/post/theory/) doesn't [seem](/post/seem/) [to](/post/to/) [fit](/post/fit/) [the](/post/the/) [overall](/post/overall/) [account](/post/account/).*
 
 ## Phrases
-- "[Keep](/en/post/keep/) an [account](/en/post/account/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [record](/en/post/record/) [of](/en/post/of/) transactions.
-- "[Provide](/en/post/provide/) an [account](/en/post/account/)" is [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) detailed [explanation](/en/post/explanation/) [or](/en/post/or/) [report](/en/post/report/).
-- "[Be](/en/post/be/) [consistent](/en/post/consistent/) [with](/en/post/with/) [your](/en/post/your/) [account](/en/post/account/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [logical](/en/post/logical/) [or](/en/post/or/) coherent [story](/en/post/story/).
+- "[Keep](/post/keep/) an [account](/post/account/)" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [record](/post/record/) [of](/post/of/) transactions.
+- "[Provide](/post/provide/) an [account](/post/account/)" is [to](/post/to/) [give](/post/give/) [a](/post/a/) detailed [explanation](/post/explanation/) [or](/post/or/) [report](/post/report/).
+- "[Be](/post/be/) [consistent](/post/consistent/) [with](/post/with/) [your](/post/your/) [account](/post/account/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [logical](/post/logical/) [or](/post/or/) coherent [story](/post/story/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[He](/en/post/he/) [provided](/en/post/provided/) [a](/en/post/a/) detailed [account](/en/post/account/) [of](/en/post/of/) [his](/en/post/his/) travels.*
-- **[Verb](/en/post/verb/)**: *[She](/en/post/she/) [will](/en/post/will/) [account](/en/post/account/) [for](/en/post/for/) [her](/en/post/her/) [late](/en/post/late/) [arrival](/en/post/arrival/) [at](/en/post/at/) [the](/en/post/the/) [meeting](/en/post/meeting/).*
-- **[Adjective](/en/post/adjective/)**: *[The](/en/post/the/) [story](/en/post/story/) doesn't [match](/en/post/match/) [the](/en/post/the/) [official](/en/post/official/) [account](/en/post/account/) [of](/en/post/of/) events.*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[He](/post/he/) [provided](/post/provided/) [a](/post/a/) detailed [account](/post/account/) [of](/post/of/) [his](/post/his/) travels.*
+- **[Verb](/post/verb/)**: *[She](/post/she/) [will](/post/will/) [account](/post/account/) [for](/post/for/) [her](/post/her/) [late](/post/late/) [arrival](/post/arrival/) [at](/post/at/) [the](/post/the/) [meeting](/post/meeting/).*
+- **[Adjective](/post/adjective/)**: *[The](/post/the/) [story](/post/story/) doesn't [match](/post/match/) [the](/post/the/) [official](/post/official/) [account](/post/account/) [of](/post/of/) events.*
 
 ## Synonyms
-- [Explanation](/en/post/explanation/)
+- [Explanation](/post/explanation/)
 - Narrative
-- [Description](/en/post/description/)
-- [Record](/en/post/record/)
-- [Statement](/en/post/statement/)
+- [Description](/post/description/)
+- [Record](/post/record/)
+- [Statement](/post/statement/)
 - Representation
-- [Explanation](/en/post/explanation/)
+- [Explanation](/post/explanation/)
 - reckoning
 - enumeration
 - justification

@@ -7,39 +7,39 @@ description = '[ˈlimitid] a.有限的'
 keywords = ['ai words', 'limited']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɪmɪtɪd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Confined [within](/en/post/within/) limits; [not](/en/post/not/) exceeding [a](/en/post/a/) [certain](/en/post/certain/) [amount](/en/post/amount/) [or](/en/post/or/) [degree](/en/post/degree/); restricted. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) has [a](/en/post/a/) [limited](/en/post/limited/) budget [for](/en/post/for/) marketing [this](/en/post/this/) [year](/en/post/year/)."
+- **[Adjective](/post/adjective/)**: Confined [within](/post/within/) limits; [not](/post/not/) exceeding [a](/post/a/) [certain](/post/certain/) [amount](/post/amount/) [or](/post/or/) [degree](/post/degree/); restricted. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) has [a](/post/a/) [limited](/post/limited/) budget [for](/post/for/) marketing [this](/post/this/) [year](/post/year/)."
   
-  - **[Verb](/en/post/verb/) ([Past](/en/post/past/) Participle)**: [To](/en/post/to/) [restrict](/en/post/restrict/) [or](/en/post/or/) [confine](/en/post/confine/) [within](/en/post/within/) bounds; [to](/en/post/to/) [set](/en/post/set/) [a](/en/post/a/) [maximum](/en/post/maximum/) [or](/en/post/or/) [minimum](/en/post/minimum/) [limit](/en/post/limit/) [on](/en/post/on/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Our](/en/post/our/) [use](/en/post/use/) [of](/en/post/of/) [natural](/en/post/natural/) resources has been [severely](/en/post/severely/) [limited](/en/post/limited/) [by](/en/post/by/) [new](/en/post/new/) environmental regulations."
+  - **[Verb](/post/verb/) ([Past](/post/past/) Participle)**: [To](/post/to/) [restrict](/post/restrict/) [or](/post/or/) [confine](/post/confine/) [within](/post/within/) bounds; [to](/post/to/) [set](/post/set/) [a](/post/a/) [maximum](/post/maximum/) [or](/post/or/) [minimum](/post/minimum/) [limit](/post/limit/) [on](/post/on/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Our](/post/our/) [use](/post/use/) [of](/post/of/) [natural](/post/natural/) resources has been [severely](/post/severely/) [limited](/post/limited/) [by](/post/by/) [new](/post/new/) environmental regulations."
 
 ### Phrases
-- "[Limited](/en/post/limited/) [edition](/en/post/edition/)": [A](/en/post/a/) [product](/en/post/product/) [that](/en/post/that/) is produced [in](/en/post/in/) [a](/en/post/a/) restricted [quantity](/en/post/quantity/) [and](/en/post/and/) [often](/en/post/often/) considered exclusive [or](/en/post/or/) collectible.
-- "[Limited](/en/post/limited/) liability": [A](/en/post/a/) [legal](/en/post/legal/) [status](/en/post/status/) [where](/en/post/where/) [a](/en/post/a/) person's [financial](/en/post/financial/) [responsibility](/en/post/responsibility/) [for](/en/post/for/) [a](/en/post/a/) [loss](/en/post/loss/) [or](/en/post/or/) [debt](/en/post/debt/) is restricted [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [sum](/en/post/sum/), typically [the](/en/post/the/) [amount](/en/post/amount/) [they](/en/post/they/) invested [in](/en/post/in/) [a](/en/post/a/) [company](/en/post/company/).
-- "Time-limited [offer](/en/post/offer/)": An [offer](/en/post/offer/) [or](/en/post/or/) [deal](/en/post/deal/) [that](/en/post/that/) is [only](/en/post/only/) [available](/en/post/available/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [period](/en/post/period/).
+- "[Limited](/post/limited/) [edition](/post/edition/)": [A](/post/a/) [product](/post/product/) [that](/post/that/) is produced [in](/post/in/) [a](/post/a/) restricted [quantity](/post/quantity/) [and](/post/and/) [often](/post/often/) considered exclusive [or](/post/or/) collectible.
+- "[Limited](/post/limited/) liability": [A](/post/a/) [legal](/post/legal/) [status](/post/status/) [where](/post/where/) [a](/post/a/) person's [financial](/post/financial/) [responsibility](/post/responsibility/) [for](/post/for/) [a](/post/a/) [loss](/post/loss/) [or](/post/or/) [debt](/post/debt/) is restricted [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [sum](/post/sum/), typically [the](/post/the/) [amount](/post/amount/) [they](/post/they/) invested [in](/post/in/) [a](/post/a/) [company](/post/company/).
+- "Time-limited [offer](/post/offer/)": An [offer](/post/offer/) [or](/post/or/) [deal](/post/deal/) [that](/post/that/) is [only](/post/only/) [available](/post/available/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [period](/post/period/).
 
-### [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Due](/en/post/due/) [to](/en/post/to/) [her](/en/post/her/) [injury](/en/post/injury/), [her](/en/post/her/) [ability](/en/post/ability/) [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) sports activities was [limited](/en/post/limited/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [government](/en/post/government/) has [limited](/en/post/limited/) [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) cars allowed [on](/en/post/on/) [the](/en/post/the/) [road](/en/post/road/) [during](/en/post/during/) [peak](/en/post/peak/) hours [to](/en/post/to/) [reduce](/en/post/reduce/) [traffic](/en/post/traffic/) congestion."
+### [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Due](/post/due/) [to](/post/to/) [her](/post/her/) [injury](/post/injury/), [her](/post/her/) [ability](/post/ability/) [to](/post/to/) [participate](/post/participate/) [in](/post/in/) sports activities was [limited](/post/limited/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [government](/post/government/) has [limited](/post/limited/) [the](/post/the/) [number](/post/number/) [of](/post/of/) cars allowed [on](/post/on/) [the](/post/the/) [road](/post/road/) [during](/post/during/) [peak](/post/peak/) hours [to](/post/to/) [reduce](/post/reduce/) [traffic](/post/traffic/) congestion."
 
 ## Synonyms
 - Constrained
 - Restricted
-- [Bound](/en/post/bound/)
+- [Bound](/post/bound/)
 - Confined
 - Curtailed
 - Circumscribed
 - Bounded
-- Restricted [to](/en/post/to/)
+- Restricted [to](/post/to/)
 - Allocated
-- [Set](/en/post/set/) ([a](/en/post/a/) [limit](/en/post/limit/)) [on](/en/post/on/)
+- [Set](/post/set/) ([a](/post/a/) [limit](/post/limit/)) [on](/post/on/)
 
 Antonyms:
 - Unlimited
 - Unrestricted
 - Boundless
-- [Endless](/en/post/endless/)
-- [Infinite](/en/post/infinite/)
+- [Endless](/post/endless/)
+- [Infinite](/post/infinite/)
 - Unconstrained

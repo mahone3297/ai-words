@@ -7,34 +7,34 @@ description = '[ˈheziteit] vi.犹豫，踌躇；含糊'
 keywords = ['ai words', 'hesitate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhes·ɪ·teɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [pause](/en/post/pause/) [or](/en/post/or/) [delay](/en/post/delay/) [before](/en/post/before/) doing [something](/en/post/something/), typically [because](/en/post/because/) [of](/en/post/of/) uncertainty, [fear](/en/post/fear/), [or](/en/post/or/) reluctance. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) hesitated [before](/en/post/before/) jumping [off](/en/post/off/) [the](/en/post/the/) diving [board](/en/post/board/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [pause](/post/pause/) [or](/post/or/) [delay](/post/delay/) [before](/post/before/) doing [something](/post/something/), typically [because](/post/because/) [of](/post/of/) uncertainty, [fear](/post/fear/), [or](/post/or/) reluctance. [For](/post/for/) [example](/post/example/): "[He](/post/he/) hesitated [before](/post/before/) jumping [off](/post/off/) [the](/post/the/) diving [board](/post/board/)."
 
-  > - _I [hesitate](/en/post/hesitate/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [decision](/en/post/decision/) [without](/en/post/without/) [more](/en/post/more/) [information](/en/post/information/)._
-  > - _She hesitated momentarily [before](/en/post/before/) answering [the](/en/post/the/) [difficult](/en/post/difficult/) [question](/en/post/question/)._
+  > - _I [hesitate](/post/hesitate/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [decision](/post/decision/) [without](/post/without/) [more](/post/more/) [information](/post/information/)._
+  > - _She hesitated momentarily [before](/post/before/) answering [the](/post/the/) [difficult](/post/difficult/) [question](/post/question/)._
 
 ## Phrases
-- "[Hesitate](/en/post/hesitate/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/)": [This](/en/post/this/) [phrase](/en/post/phrase/) implies [that](/en/post/that/) [someone](/en/post/someone/) is [reluctant](/en/post/reluctant/) [or](/en/post/or/) unsure [about](/en/post/about/) taking an [action](/en/post/action/). [Example](/en/post/example/): "[He](/en/post/he/) hesitates [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) commitment [until](/en/post/until/) [he](/en/post/he/) knows [all](/en/post/all/) [the](/en/post/the/) details."
+- "[Hesitate](/post/hesitate/) [to](/post/to/) [do](/post/do/) [something](/post/something/)": [This](/post/this/) [phrase](/post/phrase/) implies [that](/post/that/) [someone](/post/someone/) is [reluctant](/post/reluctant/) [or](/post/or/) unsure [about](/post/about/) taking an [action](/post/action/). [Example](/post/example/): "[He](/post/he/) hesitates [to](/post/to/) [make](/post/make/) [a](/post/a/) commitment [until](/post/until/) [he](/post/he/) knows [all](/post/all/) [the](/post/the/) details."
   
-- "[Without](/en/post/without/) hesitation": [This](/en/post/this/) [phrase](/en/post/phrase/) describes acting [quickly](/en/post/quickly/) [and](/en/post/and/) decisively, [with](/en/post/with/) [no](/en/post/no/) [delay](/en/post/delay/) [or](/en/post/or/) [doubt](/en/post/doubt/). [Example](/en/post/example/): "[She](/en/post/she/) stepped [forward](/en/post/forward/) [to](/en/post/to/) [help](/en/post/help/) [without](/en/post/without/) hesitation."
+- "[Without](/post/without/) hesitation": [This](/post/this/) [phrase](/post/phrase/) describes acting [quickly](/post/quickly/) [and](/post/and/) decisively, [with](/post/with/) [no](/post/no/) [delay](/post/delay/) [or](/post/or/) [doubt](/post/doubt/). [Example](/post/example/): "[She](/post/she/) stepped [forward](/post/forward/) [to](/post/to/) [help](/post/help/) [without](/post/without/) hesitation."
 
-## [Example](/en/post/example/) Sentences
-- _When asked [if](/en/post/if/) [he](/en/post/he/) [would](/en/post/would/) [accept](/en/post/accept/) [the](/en/post/the/) [job](/en/post/job/) [offer](/en/post/offer/), [he](/en/post/he/) hesitated, considering [the](/en/post/the/) [heavy](/en/post/heavy/) workload._
-- _The [actor](/en/post/actor/) hesitated [before](/en/post/before/) delivering [his](/en/post/his/) lines, struggling [to](/en/post/to/) [remember](/en/post/remember/) [them](/en/post/them/)._
+## [Example](/post/example/) Sentences
+- _When asked [if](/post/if/) [he](/post/he/) [would](/post/would/) [accept](/post/accept/) [the](/post/the/) [job](/post/job/) [offer](/post/offer/), [he](/post/he/) hesitated, considering [the](/post/the/) [heavy](/post/heavy/) workload._
+- _The [actor](/post/actor/) hesitated [before](/post/before/) delivering [his](/post/his/) lines, struggling [to](/post/to/) [remember](/post/remember/) [them](/post/them/)._
   
 ## Synonyms
-- [Pause](/en/post/pause/)
+- [Pause](/post/pause/)
 - Waver
 - Falter
 - Vacillate
-- [Be](/en/post/be/) indecisive
+- [Be](/post/be/) indecisive
 - Dither
 - Stall
 - Demur
-- [Halt](/en/post/halt/)
-- [Delay](/en/post/delay/)
+- [Halt](/post/halt/)
+- [Delay](/post/delay/)
 
-[Note](/en/post/note/): '[Hesitate](/en/post/hesitate/)' doesn't [have](/en/post/have/) [noun](/en/post/noun/) [or](/en/post/or/) [other](/en/post/other/) part-of-speech forms [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [this](/en/post/this/) [sense](/en/post/sense/); it's [primarily](/en/post/primarily/) [a](/en/post/a/) [verb](/en/post/verb/).
+[Note](/post/note/): '[Hesitate](/post/hesitate/)' doesn't [have](/post/have/) [noun](/post/noun/) [or](/post/or/) [other](/post/other/) part-of-speech forms [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [this](/post/this/) [sense](/post/sense/); it's [primarily](/post/primarily/) [a](/post/a/) [verb](/post/verb/).

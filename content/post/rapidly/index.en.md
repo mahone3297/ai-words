@@ -7,35 +7,35 @@ description = '[ˈræpidli] ad.迅速地'
 keywords = ['ai words', 'rapidly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəˈpæsidli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Describing [the](/en/post/the/) [speed](/en/post/speed/) [or](/en/post/or/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) [something](/en/post/something/) happens, typically [with](/en/post/with/) [regard](/en/post/regard/) [to](/en/post/to/) [being](/en/post/being/) [fast](/en/post/fast/) [or](/en/post/or/) [quickly](/en/post/quickly/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [car](/en/post/car/) drove [rapidly](/en/post/rapidly/) [down](/en/post/down/) [the](/en/post/the/) [highway](/en/post/highway/)."
-- **[Adjective](/en/post/adjective/)**: ([of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [action](/en/post/action/)) occurring [or](/en/post/or/) developing [quickly](/en/post/quickly/) [or](/en/post/or/) [at](/en/post/at/) [high](/en/post/high/) [speed](/en/post/speed/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) infection [rapidly](/en/post/rapidly/) [spread](/en/post/spread/) [through](/en/post/through/) [the](/en/post/the/) [community](/en/post/community/)."
+- **[Adverb](/post/adverb/)**: Describing [the](/post/the/) [speed](/post/speed/) [or](/post/or/) [manner](/post/manner/) [in](/post/in/) [which](/post/which/) [something](/post/something/) happens, typically [with](/post/with/) [regard](/post/regard/) [to](/post/to/) [being](/post/being/) [fast](/post/fast/) [or](/post/or/) [quickly](/post/quickly/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [car](/post/car/) drove [rapidly](/post/rapidly/) [down](/post/down/) [the](/post/the/) [highway](/post/highway/)."
+- **[Adjective](/post/adjective/)**: ([of](/post/of/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [action](/post/action/)) occurring [or](/post/or/) developing [quickly](/post/quickly/) [or](/post/or/) [at](/post/at/) [high](/post/high/) [speed](/post/speed/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) infection [rapidly](/post/rapidly/) [spread](/post/spread/) [through](/post/through/) [the](/post/the/) [community](/post/community/)."
 
 ## Phrases
-- "[Rapidly](/en/post/rapidly/) changing times" refers [to](/en/post/to/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [significant](/en/post/significant/) [and](/en/post/and/) [swift](/en/post/swift/) [change](/en/post/change/).
-- "[Rapid](/en/post/rapid/) cooling" describes [a](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [something](/en/post/something/) cools [down](/en/post/down/) [quickly](/en/post/quickly/).
-- "[He](/en/post/he/) recovered [rapidly](/en/post/rapidly/) [from](/en/post/from/) [his](/en/post/his/) [surgery](/en/post/surgery/)."
+- "[Rapidly](/post/rapidly/) changing times" refers [to](/post/to/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [significant](/post/significant/) [and](/post/and/) [swift](/post/swift/) [change](/post/change/).
+- "[Rapid](/post/rapid/) cooling" describes [a](/post/a/) [situation](/post/situation/) [where](/post/where/) [something](/post/something/) cools [down](/post/down/) [quickly](/post/quickly/).
+- "[He](/post/he/) recovered [rapidly](/post/rapidly/) [from](/post/from/) [his](/post/his/) [surgery](/post/surgery/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [train](/en/post/train/) was [rapidly](/en/post/rapidly/) approaching [the](/en/post/the/) [station](/en/post/station/)."
-- **[Adjective](/en/post/adjective/)**: "[Technology](/en/post/technology/) has [rapidly](/en/post/rapidly/) [advanced](/en/post/advanced/) [in](/en/post/in/) [recent](/en/post/recent/) years."
-- "[She](/en/post/she/) [rapidly](/en/post/rapidly/) scanned [the](/en/post/the/) [text](/en/post/text/) [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [important](/en/post/important/) [information](/en/post/information/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [train](/post/train/) was [rapidly](/post/rapidly/) approaching [the](/post/the/) [station](/post/station/)."
+- **[Adjective](/post/adjective/)**: "[Technology](/post/technology/) has [rapidly](/post/rapidly/) [advanced](/post/advanced/) [in](/post/in/) [recent](/post/recent/) years."
+- "[She](/post/she/) [rapidly](/post/rapidly/) scanned [the](/post/the/) [text](/post/text/) [to](/post/to/) [find](/post/find/) [the](/post/the/) [important](/post/important/) [information](/post/information/)."
 
 ## Synonyms
 - Swiftly
 - Speedily
 - Hastily
-- [Quickly](/en/post/quickly/)
-- [Fast](/en/post/fast/)
+- [Quickly](/post/quickly/)
+- [Fast](/post/fast/)
 - Promptly
 - Efficiently
 
 ## Antonyms
-- [Slowly](/en/post/slowly/)
-- [Gradually](/en/post/gradually/)
+- [Slowly](/post/slowly/)
+- [Gradually](/post/gradually/)
 - Leisurely
 - Deliberately
-- Carefully ([in](/en/post/in/) terms [of](/en/post/of/) [speed](/en/post/speed/), [not](/en/post/not/) [necessarily](/en/post/necessarily/) caution)
+- Carefully ([in](/post/in/) terms [of](/post/of/) [speed](/post/speed/), [not](/post/not/) [necessarily](/post/necessarily/) caution)

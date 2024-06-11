@@ -7,40 +7,40 @@ description = '[ʌnˈbeərəbl] a.难堪的，忍受不了的'
 keywords = ['ai words', 'unbearable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unˈbærəbl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Unbearable](/en/post/unbearable/)** is an [adjective](/en/post/adjective/) [that](/en/post/that/) describes [something](/en/post/something/) [that](/en/post/that/) is [extremely](/en/post/extremely/) [difficult](/en/post/difficult/) [to](/en/post/to/) [bear](/en/post/bear/), [tolerate](/en/post/tolerate/), [or](/en/post/or/) [endure](/en/post/endure/). [It](/en/post/it/) implies [a](/en/post/a/) [level](/en/post/level/) [of](/en/post/of/) [intensity](/en/post/intensity/) [that](/en/post/that/) is [almost](/en/post/almost/) intolerable.
+### [Noun](/post/noun/)
+**[Unbearable](/post/unbearable/)** is an [adjective](/post/adjective/) [that](/post/that/) describes [something](/post/something/) [that](/post/that/) is [extremely](/post/extremely/) [difficult](/post/difficult/) [to](/post/to/) [bear](/post/bear/), [tolerate](/post/tolerate/), [or](/post/or/) [endure](/post/endure/). [It](/post/it/) implies [a](/post/a/) [level](/post/level/) [of](/post/of/) [intensity](/post/intensity/) [that](/post/that/) is [almost](/post/almost/) intolerable.
 
-### [Verb](/en/post/verb/)
-[The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/), "[to](/en/post/to/) [make](/en/post/make/)/[unbearable](/en/post/unbearable/)," refers [to](/en/post/to/) causing [extreme](/en/post/extreme/) discomfort [or](/en/post/or/) suffering.
+### [Verb](/post/verb/)
+[The](/post/the/) [verb](/post/verb/) [form](/post/form/), "[to](/post/to/) [make](/post/make/)/[unbearable](/post/unbearable/)," refers [to](/post/to/) causing [extreme](/post/extreme/) discomfort [or](/post/or/) suffering.
 
-### [Adjective](/en/post/adjective/)
-1. **[Extreme](/en/post/extreme/) discomfort**: [The](/en/post/the/) [noise](/en/post/noise/) was [unbearable](/en/post/unbearable/), causing [everyone](/en/post/everyone/) [to](/en/post/to/) [cover](/en/post/cover/) [their](/en/post/their/) ears.
-2. **Intolerable [condition](/en/post/condition/)**: [Living](/en/post/living/) [in](/en/post/in/) [such](/en/post/such/) [poverty](/en/post/poverty/) was an [unbearable](/en/post/unbearable/) [situation](/en/post/situation/) [for](/en/post/for/) [many](/en/post/many/) families.
+### [Adjective](/post/adjective/)
+1. **[Extreme](/post/extreme/) discomfort**: [The](/post/the/) [noise](/post/noise/) was [unbearable](/post/unbearable/), causing [everyone](/post/everyone/) [to](/post/to/) [cover](/post/cover/) [their](/post/their/) ears.
+2. **Intolerable [condition](/post/condition/)**: [Living](/post/living/) [in](/post/in/) [such](/post/such/) [poverty](/post/poverty/) was an [unbearable](/post/unbearable/) [situation](/post/situation/) [for](/post/for/) [many](/post/many/) families.
 
 ## Phrases
-- "Bearable/[unbearable](/en/post/unbearable/) circumstances"
-- "Enduring/[unbearable](/en/post/unbearable/) [pain](/en/post/pain/)"
-- "An [unbearable](/en/post/unbearable/) workload"
+- "Bearable/[unbearable](/post/unbearable/) circumstances"
+- "Enduring/[unbearable](/post/unbearable/) [pain](/post/pain/)"
+- "An [unbearable](/post/unbearable/) workload"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [heat](/en/post/heat/) was [unbearable](/en/post/unbearable/) [on](/en/post/on/) [that](/en/post/that/) [hot](/en/post/hot/) [summer](/en/post/summer/) [day](/en/post/day/).
-- **[Verb](/en/post/verb/)**: [His](/en/post/his/) [constant](/en/post/constant/) complaining made [the](/en/post/the/) [atmosphere](/en/post/atmosphere/) [unbearable](/en/post/unbearable/).
-- **[Adjective](/en/post/adjective/)**: [She](/en/post/she/) couldn't [stand](/en/post/stand/) [the](/en/post/the/) [unbearable](/en/post/unbearable/) [silence](/en/post/silence/) [in](/en/post/in/) [the](/en/post/the/) [room](/en/post/room/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [heat](/post/heat/) was [unbearable](/post/unbearable/) [on](/post/on/) [that](/post/that/) [hot](/post/hot/) [summer](/post/summer/) [day](/post/day/).
+- **[Verb](/post/verb/)**: [His](/post/his/) [constant](/post/constant/) complaining made [the](/post/the/) [atmosphere](/post/atmosphere/) [unbearable](/post/unbearable/).
+- **[Adjective](/post/adjective/)**: [She](/post/she/) couldn't [stand](/post/stand/) [the](/post/the/) [unbearable](/post/unbearable/) [silence](/post/silence/) [in](/post/in/) [the](/post/the/) [room](/post/room/).
 
 ## Synonyms
 - Unendurable
 - Untolerable
 - Insupportable
 - Excruciating
-- Intolerably [bad](/en/post/bad/)
+- Intolerably [bad](/post/bad/)
 
 ## Antonyms
 - Bearable
 - Tolerable
 - Manageable
-- [Comfortable](/en/post/comfortable/)
-- [Easy](/en/post/easy/) [to](/en/post/to/) [bear](/en/post/bear/)
+- [Comfortable](/post/comfortable/)
+- [Easy](/post/easy/) [to](/post/to/) [bear](/post/bear/)

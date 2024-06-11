@@ -7,38 +7,38 @@ description = '[wæks] n.蜡，蜂蜡'
 keywords = ['ai words', 'wax']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wæks/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Wax](/en/post/wax/)**: 1. [A](/en/post/a/) [substance](/en/post/substance/) [that](/en/post/that/) is [usually](/en/post/usually/) [solid](/en/post/solid/) [at](/en/post/at/) [room](/en/post/room/) [temperature](/en/post/temperature/) [and](/en/post/and/) [can](/en/post/can/) [be](/en/post/be/) softened [by](/en/post/by/) [heat](/en/post/heat/), [used](/en/post/used/) [for](/en/post/for/) coating, polishing, [or](/en/post/or/) preserving. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) sculpture was encased [in](/en/post/in/) [wax](/en/post/wax/) [for](/en/post/for/) [protection](/en/post/protection/)."
-- 2. (pl.) Pastel colors [or](/en/post/or/) shades. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) walls were painted [in](/en/post/in/) [soft](/en/post/soft/) [wax](/en/post/wax/) tones."
-- 3. Waxing: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) applying [wax](/en/post/wax/) [for](/en/post/for/) [hair](/en/post/hair/) [removal](/en/post/removal/) [or](/en/post/or/) [beauty](/en/post/beauty/) purposes. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) got [a](/en/post/a/) bikini [wax](/en/post/wax/) [before](/en/post/before/) [her](/en/post/her/) [vacation](/en/post/vacation/)."
+### [Noun](/post/noun/)
+- **[Wax](/post/wax/)**: 1. [A](/post/a/) [substance](/post/substance/) [that](/post/that/) is [usually](/post/usually/) [solid](/post/solid/) [at](/post/at/) [room](/post/room/) [temperature](/post/temperature/) [and](/post/and/) [can](/post/can/) [be](/post/be/) softened [by](/post/by/) [heat](/post/heat/), [used](/post/used/) [for](/post/for/) coating, polishing, [or](/post/or/) preserving. [For](/post/for/) [example](/post/example/): "[The](/post/the/) sculpture was encased [in](/post/in/) [wax](/post/wax/) [for](/post/for/) [protection](/post/protection/)."
+- 2. (pl.) Pastel colors [or](/post/or/) shades. [For](/post/for/) [example](/post/example/): "[The](/post/the/) walls were painted [in](/post/in/) [soft](/post/soft/) [wax](/post/wax/) tones."
+- 3. Waxing: [The](/post/the/) [act](/post/act/) [of](/post/of/) applying [wax](/post/wax/) [for](/post/for/) [hair](/post/hair/) [removal](/post/removal/) [or](/post/or/) [beauty](/post/beauty/) purposes. [For](/post/for/) [example](/post/example/): "[She](/post/she/) got [a](/post/a/) bikini [wax](/post/wax/) [before](/post/before/) [her](/post/her/) [vacation](/post/vacation/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [apply](/en/post/apply/) [wax](/en/post/wax/) [to](/en/post/to/) [a](/en/post/a/) [surface](/en/post/surface/), [such](/en/post/such/) [as](/en/post/as/) [for](/en/post/for/) polishing [or](/en/post/or/) preserving. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) carefully waxed [the](/en/post/the/) [car](/en/post/car/) [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) [shine](/en/post/shine/)."
-- [To](/en/post/to/) [undergo](/en/post/undergo/) [a](/en/post/a/) waxing [treatment](/en/post/treatment/), [as](/en/post/as/) [in](/en/post/in/) [hair](/en/post/hair/) [removal](/en/post/removal/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) scheduled [a](/en/post/a/) waxing [appointment](/en/post/appointment/) [at](/en/post/at/) [the](/en/post/the/) salon."
+### [Verb](/post/verb/)
+- [To](/post/to/) [apply](/post/apply/) [wax](/post/wax/) [to](/post/to/) [a](/post/a/) [surface](/post/surface/), [such](/post/such/) [as](/post/as/) [for](/post/for/) polishing [or](/post/or/) preserving. [For](/post/for/) [example](/post/example/): "[He](/post/he/) carefully waxed [the](/post/the/) [car](/post/car/) [to](/post/to/) [make](/post/make/) [it](/post/it/) [shine](/post/shine/)."
+- [To](/post/to/) [undergo](/post/undergo/) [a](/post/a/) waxing [treatment](/post/treatment/), [as](/post/as/) [in](/post/in/) [hair](/post/hair/) [removal](/post/removal/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) scheduled [a](/post/a/) waxing [appointment](/post/appointment/) [at](/post/at/) [the](/post/the/) salon."
 
-### [Adjective](/en/post/adjective/)
-- [Smooth](/en/post/smooth/) [and](/en/post/and/) shiny, [like](/en/post/like/) [wax](/en/post/wax/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) waxed [floor](/en/post/floor/) gleamed [under](/en/post/under/) [the](/en/post/the/) [light](/en/post/light/)."
-- Having [a](/en/post/a/) waxy texture [or](/en/post/or/) [appearance](/en/post/appearance/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [candle](/en/post/candle/) had [a](/en/post/a/) waxy residue [after](/en/post/after/) burning."
+### [Adjective](/post/adjective/)
+- [Smooth](/post/smooth/) [and](/post/and/) shiny, [like](/post/like/) [wax](/post/wax/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) waxed [floor](/post/floor/) gleamed [under](/post/under/) [the](/post/the/) [light](/post/light/)."
+- Having [a](/post/a/) waxy texture [or](/post/or/) [appearance](/post/appearance/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [candle](/post/candle/) had [a](/post/a/) waxy residue [after](/post/after/) burning."
 
 ## Phrases
-- "[Wax](/en/post/wax/) [on](/en/post/on/), [wax](/en/post/wax/) [off](/en/post/off/)" (martial arts, [idiom](/en/post/idiom/))
-- "[Wax](/en/post/wax/) nostalgic" ([to](/en/post/to/) [feel](/en/post/feel/) sentimental [about](/en/post/about/) [the](/en/post/the/) [past](/en/post/past/))
-- "[Wax](/en/post/wax/) lyrical" ([to](/en/post/to/) [speak](/en/post/speak/) [or](/en/post/or/) [write](/en/post/write/) [with](/en/post/with/) eloquence)
+- "[Wax](/post/wax/) [on](/post/on/), [wax](/post/wax/) [off](/post/off/)" (martial arts, [idiom](/post/idiom/))
+- "[Wax](/post/wax/) nostalgic" ([to](/post/to/) [feel](/post/feel/) sentimental [about](/post/about/) [the](/post/the/) [past](/post/past/))
+- "[Wax](/post/wax/) lyrical" ([to](/post/to/) [speak](/post/speak/) [or](/post/or/) [write](/post/write/) [with](/post/with/) eloquence)
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) antique [furniture](/en/post/furniture/) was polished [with](/en/post/with/) [a](/en/post/a/) [thin](/en/post/thin/) [layer](/en/post/layer/) [of](/en/post/of/) beeswax."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully waxed [her](/en/post/her/) legs [before](/en/post/before/) going [on](/en/post/on/) [stage](/en/post/stage/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [wax](/en/post/wax/) [museum](/en/post/museum/) exhibits had lifelike [wax](/en/post/wax/) figures."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) antique [furniture](/post/furniture/) was polished [with](/post/with/) [a](/post/a/) [thin](/post/thin/) [layer](/post/layer/) [of](/post/of/) beeswax."
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully waxed [her](/post/her/) legs [before](/post/before/) going [on](/post/on/) [stage](/post/stage/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [wax](/post/wax/) [museum](/post/museum/) exhibits had lifelike [wax](/post/wax/) figures."
 
 ## Synonyms
 - Waxen
 - Tallowy
 - Varnished
-- [Smooth](/en/post/smooth/)
+- [Smooth](/post/smooth/)
 - Glossy
 - Resinous
-- Hygienic ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) waxing)
+- Hygienic ([in](/post/in/) [the](/post/the/) context [of](/post/of/) waxing)

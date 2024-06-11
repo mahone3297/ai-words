@@ -11,20 +11,20 @@ keywords = ['ai words', 'restless']
 /restləs/
 
 ## 释义
-- **形容词**: 无法安静，不安分的；不宁的。例如: "[The](/post/the/) [child](/post/child/) was [restless](/post/restless/) [and](/post/and/) couldn't [fall](/post/fall/) [asleep](/post/asleep/)."
-- **副词**: 不停地，不安地。例如: "[She](/post/she/) worked [restless](/post/restless/) [through](/post/through/) [the](/post/the/) [night](/post/night/)."
+- **形容词**: 无法安静，不安分的；不宁的。例如: "[The](/zh/post/the/) [child](/zh/post/child/) was [restless](/zh/post/restless/) [and](/zh/post/and/) couldn't [fall](/zh/post/fall/) [asleep](/zh/post/asleep/)."
+- **副词**: 不停地，不安地。例如: "[She](/zh/post/she/) worked [restless](/zh/post/restless/) [through](/zh/post/through/) [the](/zh/post/the/) [night](/zh/post/night/)."
 
 ## 短语
-- "[Restless](/post/restless/) nights" 意指因焦虑、疼痛或其他原因导致的睡眠不足的夜晚。
+- "[Restless](/zh/post/restless/) nights" 意指因焦虑、疼痛或其他原因导致的睡眠不足的夜晚。
 - "Restlessly searching" 描述持续不断地寻找或探索的状态。
 
 ## 例句
-- 形容词: "[His](/post/his/) legs were [restless](/post/restless/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [long](/post/long/) [flight](/post/flight/)."
-- 副词: "[She](/post/she/) paced restlessly [around](/post/around/) [the](/post/the/) [room](/post/room/), waiting [for](/post/for/) [news](/post/news/)."
+- 形容词: "[His](/zh/post/his/) legs were [restless](/zh/post/restless/) [due](/zh/post/due/) [to](/zh/post/to/) [the](/zh/post/the/) [long](/zh/post/long/) [flight](/zh/post/flight/)."
+- 副词: "[She](/zh/post/she/) paced restlessly [around](/zh/post/around/) [the](/zh/post/the/) [room](/zh/post/room/), waiting [for](/zh/post/for/) [news](/zh/post/news/)."
 
 ## 同义词
-- [Uneasy](/post/uneasy/)
+- [Uneasy](/zh/post/uneasy/)
 - Agitated
-- [Impatient](/post/impatient/)
-- [Nervous](/post/nervous/)
+- [Impatient](/zh/post/impatient/)
+- [Nervous](/zh/post/nervous/)
 - Jittery

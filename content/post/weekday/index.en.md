@@ -7,32 +7,32 @@ description = '[ˈwiːkdei] n.周日，工作日'
 keywords = ['ai words', 'weekday']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwɜːkˌdeɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[weekday](/en/post/weekday/)** refers [to](/en/post/to/) [any](/en/post/any/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [week](/en/post/week/) [that](/en/post/that/) is [not](/en/post/not/) [a](/en/post/a/) Saturday [or](/en/post/or/) Sunday, typically considered [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) working [or](/en/post/or/) [school](/en/post/school/) [week](/en/post/week/). [It](/en/post/it/) is [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [contrast](/en/post/contrast/) [to](/en/post/to/) weekends.
+### [Noun](/post/noun/)
+[A](/post/a/) **[weekday](/post/weekday/)** refers [to](/post/to/) [any](/post/any/) [day](/post/day/) [of](/post/of/) [the](/post/the/) [week](/post/week/) [that](/post/that/) is [not](/post/not/) [a](/post/a/) Saturday [or](/post/or/) Sunday, typically considered [part](/post/part/) [of](/post/of/) [the](/post/the/) working [or](/post/or/) [school](/post/school/) [week](/post/week/). [It](/post/it/) is [often](/post/often/) [used](/post/used/) [in](/post/in/) [contrast](/post/contrast/) [to](/post/to/) weekends.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[work](/en/post/work/) [on](/en/post/on/) weekdays** [means](/en/post/means/) [to](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) job-related activities [or](/en/post/or/) [attend](/en/post/attend/) classes [during](/en/post/during/) [normal](/en/post/normal/) [business](/en/post/business/) [or](/en/post/or/) [school](/en/post/school/) days.
+### [Verb](/post/verb/)
+[To](/post/to/) **[work](/post/work/) [on](/post/on/) weekdays** [means](/post/means/) [to](/post/to/) [engage](/post/engage/) [in](/post/in/) job-related activities [or](/post/or/) [attend](/post/attend/) classes [during](/post/during/) [normal](/post/normal/) [business](/post/business/) [or](/post/or/) [school](/post/school/) days.
 
 ## Phrases
-- "[Weekday](/en/post/weekday/) [routine](/en/post/routine/)" refers [to](/en/post/to/) [the](/en/post/the/) [daily](/en/post/daily/) [schedule](/en/post/schedule/) [on](/en/post/on/) non-holiday weekdays.
-- "[Enjoy](/en/post/enjoy/) [your](/en/post/your/) weekdays" is [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [encourage](/en/post/encourage/) [someone](/en/post/someone/) [to](/en/post/to/) [make](/en/post/make/) [the](/en/post/the/) [most](/en/post/most/) [of](/en/post/of/) [their](/en/post/their/) [work](/en/post/work/) [or](/en/post/or/) [study](/en/post/study/) [time](/en/post/time/).
-- "[Meet](/en/post/meet/) [up](/en/post/up/) [on](/en/post/on/) [a](/en/post/a/) [weekday](/en/post/weekday/)" suggests scheduling an [appointment](/en/post/appointment/) [during](/en/post/during/) [regular](/en/post/regular/) [work](/en/post/work/) hours.
+- "[Weekday](/post/weekday/) [routine](/post/routine/)" refers [to](/post/to/) [the](/post/the/) [daily](/post/daily/) [schedule](/post/schedule/) [on](/post/on/) non-holiday weekdays.
+- "[Enjoy](/post/enjoy/) [your](/post/your/) weekdays" is [a](/post/a/) [way](/post/way/) [to](/post/to/) [encourage](/post/encourage/) [someone](/post/someone/) [to](/post/to/) [make](/post/make/) [the](/post/the/) [most](/post/most/) [of](/post/of/) [their](/post/their/) [work](/post/work/) [or](/post/or/) [study](/post/study/) [time](/post/time/).
+- "[Meet](/post/meet/) [up](/post/up/) [on](/post/on/) [a](/post/a/) [weekday](/post/weekday/)" suggests scheduling an [appointment](/post/appointment/) [during](/post/during/) [regular](/post/regular/) [work](/post/work/) hours.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [usually](/en/post/usually/) [go](/en/post/go/) [for](/en/post/for/) [a](/en/post/a/) [run](/en/post/run/) [on](/en/post/on/) weekdays [to](/en/post/to/) [stay](/en/post/stay/) [active](/en/post/active/)."
-- **[Verb](/en/post/verb/)**: "[My](/en/post/my/) weekdays are packed [with](/en/post/with/) meetings [and](/en/post/and/) deadlines."
-- **[Sentence](/en/post/sentence/)**: "[We](/en/post/we/) decided [to](/en/post/to/) [catch](/en/post/catch/) [up](/en/post/up/) [over](/en/post/over/) [lunch](/en/post/lunch/) [on](/en/post/on/) [a](/en/post/a/) [weekday](/en/post/weekday/) [when](/en/post/when/) [we](/en/post/we/) [both](/en/post/both/) had [a](/en/post/a/) [break](/en/post/break/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [usually](/post/usually/) [go](/post/go/) [for](/post/for/) [a](/post/a/) [run](/post/run/) [on](/post/on/) weekdays [to](/post/to/) [stay](/post/stay/) [active](/post/active/)."
+- **[Verb](/post/verb/)**: "[My](/post/my/) weekdays are packed [with](/post/with/) meetings [and](/post/and/) deadlines."
+- **[Sentence](/post/sentence/)**: "[We](/post/we/) decided [to](/post/to/) [catch](/post/catch/) [up](/post/up/) [over](/post/over/) [lunch](/post/lunch/) [on](/post/on/) [a](/post/a/) [weekday](/post/weekday/) [when](/post/when/) [we](/post/we/) [both](/post/both/) had [a](/post/a/) [break](/post/break/)."
 
 ## Synonyms
-- Mon-Fri (Monday [through](/en/post/through/) Friday)
+- Mon-Fri (Monday [through](/post/through/) Friday)
 - Workdays
-- [Business](/en/post/business/) days
-- [Regular](/en/post/regular/) days
-- [School](/en/post/school/) days
+- [Business](/post/business/) days
+- [Regular](/post/regular/) days
+- [School](/post/school/) days
 
 ## Antonyms
-- Weekends (Saturday [and](/en/post/and/) Sunday)
+- Weekends (Saturday [and](/post/and/) Sunday)

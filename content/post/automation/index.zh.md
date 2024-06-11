@@ -11,17 +11,17 @@ keywords = ['ai words', 'automation']
 /ˌɔːtəˈmeɪʃn/
 
 ## 释义
-- **名词**: 自动化；自动操作；机械化的过程。例如: "[The](/post/the/) [factory](/post/factory/) has implemented [automation](/post/automation/) [to](/post/to/) [increase](/post/increase/) [efficiency](/post/efficiency/)."
-- **动词**: 使自动化；将…机械化。例如: "[The](/post/the/) [company](/post/company/) is working [on](/post/on/) automating [its](/post/its/) [production](/post/production/) [line](/post/line/)."
+- **名词**: 自动化；自动操作；机械化的过程。例如: "[The](/zh/post/the/) [factory](/zh/post/factory/) has implemented [automation](/zh/post/automation/) [to](/zh/post/to/) [increase](/zh/post/increase/) [efficiency](/zh/post/efficiency/)."
+- **动词**: 使自动化；将…机械化。例如: "[The](/zh/post/the/) [company](/zh/post/company/) is working [on](/zh/post/on/) automating [its](/zh/post/its/) [production](/zh/post/production/) [line](/zh/post/line/)."
 
 ## 短语
-- "[Industrial](/post/industrial/) [automation](/post/automation/)" 指工业领域的自动化技术。
-- "[Process](/post/process/) [automation](/post/automation/)" 涉及工作流程或系统的自动化。
-- "[Automation](/post/automation/) [technology](/post/technology/)" 指实现自动化的技术。
+- "[Industrial](/zh/post/industrial/) [automation](/zh/post/automation/)" 指工业领域的自动化技术。
+- "[Process](/zh/post/process/) [automation](/zh/post/automation/)" 涉及工作流程或系统的自动化。
+- "[Automation](/zh/post/automation/) [technology](/zh/post/technology/)" 指实现自动化的技术。
 
 ## 例句
-- 名词: "[The](/post/the/) [use](/post/use/) [of](/post/of/) robotics is [a](/post/a/) [key](/post/key/) [aspect](/post/aspect/) [of](/post/of/) [modern](/post/modern/) [automation](/post/automation/) [in](/post/in/) manufacturing."
-- 动词: "[They](/post/they/) [plan](/post/plan/) [to](/post/to/) automate [most](/post/most/) [of](/post/of/) [their](/post/their/) [customer](/post/customer/) [service](/post/service/) [through](/post/through/) chatbots."
+- 名词: "[The](/zh/post/the/) [use](/zh/post/use/) [of](/zh/post/of/) robotics is [a](/zh/post/a/) [key](/zh/post/key/) [aspect](/zh/post/aspect/) [of](/zh/post/of/) [modern](/zh/post/modern/) [automation](/zh/post/automation/) [in](/zh/post/in/) manufacturing."
+- 动词: "[They](/zh/post/they/) [plan](/zh/post/plan/) [to](/zh/post/to/) automate [most](/zh/post/most/) [of](/zh/post/of/) [their](/zh/post/their/) [customer](/zh/post/customer/) [service](/zh/post/service/) [through](/zh/post/through/) chatbots."
 
 ## 同义词
 - Mechanization

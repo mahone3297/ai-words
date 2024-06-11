@@ -7,22 +7,22 @@ description = '[ˈt∫æriti] n.施舍；慈善事业'
 keywords = ['ai words', 'charity']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃærəti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [help](/en/post/help/) [or](/en/post/or/) [support](/en/post/support/), [especially](/en/post/especially/) [to](/en/post/to/) [those](/en/post/those/) [in](/en/post/in/) [need](/en/post/need/), voluntarily [and](/en/post/and/) [without](/en/post/without/) [payment](/en/post/payment/). 2. An [organization](/en/post/organization/) [that](/en/post/that/) raises [money](/en/post/money/) [to](/en/post/to/) [help](/en/post/help/) others. 3. Generosity [and](/en/post/and/) [kindness](/en/post/kindness/) shown towards others. 4. (U.S.) [A](/en/post/a/) tax-deductible contribution [to](/en/post/to/) [such](/en/post/such/) an [organization](/en/post/organization/). 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [give](/en/post/give/) [or](/en/post/or/) donate [money](/en/post/money/), [goods](/en/post/goods/), [or](/en/post/or/) services [for](/en/post/for/) charitable purposes.
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [help](/post/help/) [or](/post/or/) [support](/post/support/), [especially](/post/especially/) [to](/post/to/) [those](/post/those/) [in](/post/in/) [need](/post/need/), voluntarily [and](/post/and/) [without](/post/without/) [payment](/post/payment/). 2. An [organization](/post/organization/) [that](/post/that/) raises [money](/post/money/) [to](/post/to/) [help](/post/help/) others. 3. Generosity [and](/post/and/) [kindness](/post/kindness/) shown towards others. 4. (U.S.) [A](/post/a/) tax-deductible contribution [to](/post/to/) [such](/post/such/) an [organization](/post/organization/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [give](/post/give/) [or](/post/or/) donate [money](/post/money/), [goods](/post/goods/), [or](/post/or/) services [for](/post/for/) charitable purposes.
 
 ## Phrases
-- "[Charity](/en/post/charity/) [work](/en/post/work/)" refers [to](/en/post/to/) [voluntary](/en/post/voluntary/) activities done [for](/en/post/for/) [the](/en/post/the/) [benefit](/en/post/benefit/) [of](/en/post/of/) others.
-- "Donating [to](/en/post/to/) [charity](/en/post/charity/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) contributing [to](/en/post/to/) [a](/en/post/a/) charitable [cause](/en/post/cause/).
-- "[Show](/en/post/show/) [charity](/en/post/charity/) [to](/en/post/to/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [kind](/en/post/kind/) [and](/en/post/and/) [understanding](/en/post/understanding/) towards [them](/en/post/them/).
+- "[Charity](/post/charity/) [work](/post/work/)" refers [to](/post/to/) [voluntary](/post/voluntary/) activities done [for](/post/for/) [the](/post/the/) [benefit](/post/benefit/) [of](/post/of/) others.
+- "Donating [to](/post/to/) [charity](/post/charity/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) contributing [to](/post/to/) [a](/post/a/) charitable [cause](/post/cause/).
+- "[Show](/post/show/) [charity](/post/charity/) [to](/post/to/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) [kind](/post/kind/) [and](/post/and/) [understanding](/post/understanding/) towards [them](/post/them/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) dedicated [her](/en/post/her/) [life](/en/post/life/) [to](/en/post/to/) [charity](/en/post/charity/) [work](/en/post/work/), helping [those](/en/post/those/) [in](/en/post/in/) [poverty](/en/post/poverty/)."
-- **[Verb](/en/post/verb/)**: "[Many](/en/post/many/) [people](/en/post/people/) [choose](/en/post/choose/) [to](/en/post/to/) [give](/en/post/give/) [charity](/en/post/charity/) [during](/en/post/during/) [the](/en/post/the/) [holiday](/en/post/holiday/) [season](/en/post/season/)."
-- "[The](/en/post/the/) [community](/en/post/community/) came [together](/en/post/together/) [to](/en/post/to/) [raise](/en/post/raise/) funds [for](/en/post/for/) [local](/en/post/local/) [charity](/en/post/charity/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) dedicated [her](/post/her/) [life](/post/life/) [to](/post/to/) [charity](/post/charity/) [work](/post/work/), helping [those](/post/those/) [in](/post/in/) [poverty](/post/poverty/)."
+- **[Verb](/post/verb/)**: "[Many](/post/many/) [people](/post/people/) [choose](/post/choose/) [to](/post/to/) [give](/post/give/) [charity](/post/charity/) [during](/post/during/) [the](/post/the/) [holiday](/post/holiday/) [season](/post/season/)."
+- "[The](/post/the/) [community](/post/community/) came [together](/post/together/) [to](/post/to/) [raise](/post/raise/) funds [for](/post/for/) [local](/post/local/) [charity](/post/charity/)."
 
 ## Synonyms
 - Almsgiving

@@ -7,31 +7,31 @@ description = '[imˈplɔimənt] n.工业；雇/使用'
 keywords = ['ai words', 'employment']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪmˈplɔɪmənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) having [a](/en/post/a/) [job](/en/post/job/) [or](/en/post/or/) [being](/en/post/being/) employed [by](/en/post/by/) an [organization](/en/post/organization/) [or](/en/post/or/) [individual](/en/post/individual/); [work](/en/post/work/) [that](/en/post/that/) [one](/en/post/one/) does [regularly](/en/post/regularly/) [for](/en/post/for/) [pay](/en/post/pay/) [or](/en/post/or/) [profit](/en/post/profit/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) months [of](/en/post/of/) searching, [she](/en/post/she/) [finally](/en/post/finally/) [found](/en/post/found/) [employment](/en/post/employment/) [as](/en/post/as/) [a](/en/post/a/) software [engineer](/en/post/engineer/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [someone](/en/post/someone/) [a](/en/post/a/) [job](/en/post/job/) [or](/en/post/or/) hiring [them](/en/post/them/) [for](/en/post/for/) [work](/en/post/work/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) company's [expansion](/en/post/expansion/) led [to](/en/post/to/) increased [employment](/en/post/employment/) opportunities [in](/en/post/in/) [the](/en/post/the/) [region](/en/post/region/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [total](/en/post/total/) [number](/en/post/number/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) are employed [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/) [or](/en/post/or/) sector. [Example](/en/post/example/): "Unemployment rates dropped [as](/en/post/as/) [employment](/en/post/employment/) figures [rose](/en/post/rose/) [across](/en/post/across/) [the](/en/post/the/) [country](/en/post/country/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [of](/post/of/) having [a](/post/a/) [job](/post/job/) [or](/post/or/) [being](/post/being/) employed [by](/post/by/) an [organization](/post/organization/) [or](/post/or/) [individual](/post/individual/); [work](/post/work/) [that](/post/that/) [one](/post/one/) does [regularly](/post/regularly/) [for](/post/for/) [pay](/post/pay/) [or](/post/or/) [profit](/post/profit/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) months [of](/post/of/) searching, [she](/post/she/) [finally](/post/finally/) [found](/post/found/) [employment](/post/employment/) [as](/post/as/) [a](/post/a/) software [engineer](/post/engineer/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [someone](/post/someone/) [a](/post/a/) [job](/post/job/) [or](/post/or/) hiring [them](/post/them/) [for](/post/for/) [work](/post/work/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) company's [expansion](/post/expansion/) led [to](/post/to/) increased [employment](/post/employment/) opportunities [in](/post/in/) [the](/post/the/) [region](/post/region/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [total](/post/total/) [number](/post/number/) [of](/post/of/) [people](/post/people/) [who](/post/who/) are employed [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/) [or](/post/or/) sector. [Example](/post/example/): "Unemployment rates dropped [as](/post/as/) [employment](/post/employment/) figures [rose](/post/rose/) [across](/post/across/) [the](/post/the/) [country](/post/country/)."
 
 ## Phrases
-- "[Job](/en/post/job/) [employment](/en/post/employment/)" refers [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [position](/en/post/position/) held [within](/en/post/within/) [a](/en/post/a/) [company](/en/post/company/) [or](/en/post/or/) [field](/en/post/field/).
-- "Full-time [employment](/en/post/employment/)" [means](/en/post/means/) working [standard](/en/post/standard/) hours typically considered [a](/en/post/a/) [complete](/en/post/complete/) [professional](/en/post/professional/) commitment.
-- "[Employment](/en/post/employment/) [contract](/en/post/contract/)" is [a](/en/post/a/) [legal](/en/post/legal/) [agreement](/en/post/agreement/) [between](/en/post/between/) an [employer](/en/post/employer/) [and](/en/post/and/) [employee](/en/post/employee/) defining terms [and](/en/post/and/) conditions [of](/en/post/of/) [work](/en/post/work/).
+- "[Job](/post/job/) [employment](/post/employment/)" refers [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [position](/post/position/) held [within](/post/within/) [a](/post/a/) [company](/post/company/) [or](/post/or/) [field](/post/field/).
+- "Full-time [employment](/post/employment/)" [means](/post/means/) working [standard](/post/standard/) hours typically considered [a](/post/a/) [complete](/post/complete/) [professional](/post/professional/) commitment.
+- "[Employment](/post/employment/) [contract](/post/contract/)" is [a](/post/a/) [legal](/post/legal/) [agreement](/post/agreement/) [between](/post/between/) an [employer](/post/employer/) [and](/post/and/) [employee](/post/employee/) defining terms [and](/post/and/) conditions [of](/post/of/) [work](/post/work/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([job](/en/post/job/) [status](/en/post/status/))**: "[Upon](/en/post/upon/) graduation, [he](/en/post/he/) sought [stable](/en/post/stable/) [and](/en/post/and/) fulfilling [employment](/en/post/employment/) [in](/en/post/in/) [his](/en/post/his/) [field](/en/post/field/)."
-- **[Noun](/en/post/noun/) ([act](/en/post/act/) [of](/en/post/of/) hiring)**: "[The](/en/post/the/) [firm](/en/post/firm/) announced [its](/en/post/its/) [intention](/en/post/intention/) [to](/en/post/to/) [increase](/en/post/increase/) [employment](/en/post/employment/), planning [to](/en/post/to/) [hire](/en/post/hire/) [over](/en/post/over/) 50 [new](/en/post/new/) [staff](/en/post/staff/) members."
-- **[Noun](/en/post/noun/) ([number](/en/post/number/) [of](/en/post/of/) [people](/en/post/people/) employed)**: "[The](/en/post/the/) [government](/en/post/government/) aims [to](/en/post/to/) boost [employment](/en/post/employment/) [in](/en/post/in/) [rural](/en/post/rural/) areas [to](/en/post/to/) [stimulate](/en/post/stimulate/) [economic](/en/post/economic/) [growth](/en/post/growth/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([job](/post/job/) [status](/post/status/))**: "[Upon](/post/upon/) graduation, [he](/post/he/) sought [stable](/post/stable/) [and](/post/and/) fulfilling [employment](/post/employment/) [in](/post/in/) [his](/post/his/) [field](/post/field/)."
+- **[Noun](/post/noun/) ([act](/post/act/) [of](/post/of/) hiring)**: "[The](/post/the/) [firm](/post/firm/) announced [its](/post/its/) [intention](/post/intention/) [to](/post/to/) [increase](/post/increase/) [employment](/post/employment/), planning [to](/post/to/) [hire](/post/hire/) [over](/post/over/) 50 [new](/post/new/) [staff](/post/staff/) members."
+- **[Noun](/post/noun/) ([number](/post/number/) [of](/post/of/) [people](/post/people/) employed)**: "[The](/post/the/) [government](/post/government/) aims [to](/post/to/) boost [employment](/post/employment/) [in](/post/in/) [rural](/post/rural/) areas [to](/post/to/) [stimulate](/post/stimulate/) [economic](/post/economic/) [growth](/post/growth/)."
 
 ## Synonyms
-- [Work](/en/post/work/)
-- [Job](/en/post/job/)
-- [Occupation](/en/post/occupation/)
-- [Employment](/en/post/employment/) [opportunity](/en/post/opportunity/)
+- [Work](/post/work/)
+- [Job](/post/job/)
+- [Occupation](/post/occupation/)
+- [Employment](/post/employment/) [opportunity](/post/opportunity/)
 - Hiring
 - Engagement
 - Tenure
 - Staffing
-- Utilization ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) using resources [or](/en/post/or/) [personnel](/en/post/personnel/) effectively)
+- Utilization ([in](/post/in/) [the](/post/the/) context [of](/post/of/) using resources [or](/post/or/) [personnel](/post/personnel/) effectively)

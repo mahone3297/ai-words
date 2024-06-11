@@ -7,33 +7,33 @@ description = '[kəmˈpjuːtə] n.计算机，电脑'
 keywords = ['ai words', 'computer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈpjuːtər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) general-purpose [electronic](/en/post/electronic/) [device](/en/post/device/) [that](/en/post/that/) performs [data](/en/post/data/) processing [and](/en/post/and/) [storage](/en/post/storage/) tasks, typically using [a](/en/post/a/) microprocessor [as](/en/post/as/) [its](/en/post/its/) [core](/en/post/core/) [component](/en/post/component/). [It](/en/post/it/) [can](/en/post/can/) [perform](/en/post/perform/) [various](/en/post/various/) functions, [such](/en/post/such/) [as](/en/post/as/) running software, connecting [to](/en/post/to/) networks, [and](/en/post/and/) manipulating [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [computer](/en/post/computer/) is an [essential](/en/post/essential/) [tool](/en/post/tool/) [for](/en/post/for/) [modern](/en/post/modern/) [work](/en/post/work/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [use](/en/post/use/) [or](/en/post/or/) [operate](/en/post/operate/) [a](/en/post/a/) [computer](/en/post/computer/), typically [to](/en/post/to/) [access](/en/post/access/) [information](/en/post/information/) [or](/en/post/or/) [perform](/en/post/perform/) tasks. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spends [her](/en/post/her/) [day](/en/post/day/) computerizing [financial](/en/post/financial/) records."
-- **[Pronoun](/en/post/pronoun/)**: Referring [to](/en/post/to/) [a](/en/post/a/) [computer](/en/post/computer/) [when](/en/post/when/) [its](/en/post/its/) [specific](/en/post/specific/) [name](/en/post/name/) is [not](/en/post/not/) needed. [For](/en/post/for/) [example](/en/post/example/): "[Everyone](/en/post/everyone/) [should](/en/post/should/) [save](/en/post/save/) [their](/en/post/their/) [work](/en/post/work/) [before](/en/post/before/) [computer](/en/post/computer/) crashes."
+- **[Noun](/post/noun/)**: [A](/post/a/) general-purpose [electronic](/post/electronic/) [device](/post/device/) [that](/post/that/) performs [data](/post/data/) processing [and](/post/and/) [storage](/post/storage/) tasks, typically using [a](/post/a/) microprocessor [as](/post/as/) [its](/post/its/) [core](/post/core/) [component](/post/component/). [It](/post/it/) [can](/post/can/) [perform](/post/perform/) [various](/post/various/) functions, [such](/post/such/) [as](/post/as/) running software, connecting [to](/post/to/) networks, [and](/post/and/) manipulating [information](/post/information/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [computer](/post/computer/) is an [essential](/post/essential/) [tool](/post/tool/) [for](/post/for/) [modern](/post/modern/) [work](/post/work/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [use](/post/use/) [or](/post/or/) [operate](/post/operate/) [a](/post/a/) [computer](/post/computer/), typically [to](/post/to/) [access](/post/access/) [information](/post/information/) [or](/post/or/) [perform](/post/perform/) tasks. [For](/post/for/) [example](/post/example/): "[She](/post/she/) spends [her](/post/her/) [day](/post/day/) computerizing [financial](/post/financial/) records."
+- **[Pronoun](/post/pronoun/)**: Referring [to](/post/to/) [a](/post/a/) [computer](/post/computer/) [when](/post/when/) [its](/post/its/) [specific](/post/specific/) [name](/post/name/) is [not](/post/not/) needed. [For](/post/for/) [example](/post/example/): "[Everyone](/post/everyone/) [should](/post/should/) [save](/post/save/) [their](/post/their/) [work](/post/work/) [before](/post/before/) [computer](/post/computer/) crashes."
 
 ## Phrases
-- "[Computer](/en/post/computer/) literacy" refers [to](/en/post/to/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [use](/en/post/use/) computers effectively.
-- "[Computer](/en/post/computer/) [science](/en/post/science/)" is [the](/en/post/the/) [academic](/en/post/academic/) [discipline](/en/post/discipline/) studying computers [and](/en/post/and/) computation.
-- "[Computer](/en/post/computer/) virus" is [a](/en/post/a/) malicious software designed [to](/en/post/to/) [spread](/en/post/spread/) [and](/en/post/and/) [cause](/en/post/cause/) [harm](/en/post/harm/) [to](/en/post/to/) [a](/en/post/a/) [computer](/en/post/computer/) [system](/en/post/system/).
+- "[Computer](/post/computer/) literacy" refers [to](/post/to/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [use](/post/use/) computers effectively.
+- "[Computer](/post/computer/) [science](/post/science/)" is [the](/post/the/) [academic](/post/academic/) [discipline](/post/discipline/) studying computers [and](/post/and/) computation.
+- "[Computer](/post/computer/) virus" is [a](/post/a/) malicious software designed [to](/post/to/) [spread](/post/spread/) [and](/post/and/) [cause](/post/cause/) [harm](/post/harm/) [to](/post/to/) [a](/post/a/) [computer](/post/computer/) [system](/post/system/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) sat [down](/en/post/down/) [at](/en/post/at/) [her](/en/post/her/) desktop [computer](/en/post/computer/) [to](/en/post/to/) [start](/en/post/start/) working [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Verb](/en/post/verb/)**: "He's proficient [in](/en/post/in/) [computer](/en/post/computer/) programming languages [like](/en/post/like/) Python [and](/en/post/and/) Java."
-- **[Pronoun](/en/post/pronoun/)**: "[It](/en/post/it/) took [me](/en/post/me/) [a](/en/post/a/) [while](/en/post/while/) [to](/en/post/to/) [figure](/en/post/figure/) [out](/en/post/out/) [how](/en/post/how/) [to](/en/post/to/) computerize [this](/en/post/this/) [old](/en/post/old/) database."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) sat [down](/post/down/) [at](/post/at/) [her](/post/her/) desktop [computer](/post/computer/) [to](/post/to/) [start](/post/start/) working [on](/post/on/) [the](/post/the/) [project](/post/project/)."
+- **[Verb](/post/verb/)**: "He's proficient [in](/post/in/) [computer](/post/computer/) programming languages [like](/post/like/) Python [and](/post/and/) Java."
+- **[Pronoun](/post/pronoun/)**: "[It](/post/it/) took [me](/post/me/) [a](/post/a/) [while](/post/while/) [to](/post/to/) [figure](/post/figure/) [out](/post/out/) [how](/post/how/) [to](/post/to/) computerize [this](/post/this/) [old](/post/old/) database."
 
 ## Synonyms
 - Desktop
 - Laptop
-- [Machine](/en/post/machine/)
-- [Digital](/en/post/digital/) [device](/en/post/device/)
-- Computing [platform](/en/post/platform/)
-- [Electronic](/en/post/electronic/) [data](/en/post/data/) processor
+- [Machine](/post/machine/)
+- [Digital](/post/digital/) [device](/post/device/)
+- Computing [platform](/post/platform/)
+- [Electronic](/post/electronic/) [data](/post/data/) processor
 
 ## Antonyms
-- Analog (referring [to](/en/post/to/) non-electronic devices)
+- Analog (referring [to](/post/to/) non-electronic devices)
 - Non-digital
-- Pre-computer [era](/en/post/era/) [technology](/en/post/technology/)
+- Pre-computer [era](/post/era/) [technology](/post/technology/)

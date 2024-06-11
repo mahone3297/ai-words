@@ -7,33 +7,33 @@ description = '[frai] vt.油煎，油炸，油炒'
 keywords = ['ai words', 'fry']
 +++
 
-## [Word](/en/post/word/): [Fry](/en/post/fry/)
+## [Word](/post/word/): [Fry](/post/fry/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fraɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: ([plural](/en/post/plural/) fries) [Thin](/en/post/thin/) strips [of](/en/post/of/) [food](/en/post/food/), typically potatoes, [that](/en/post/that/) [have](/en/post/have/) been deep-fried [until](/en/post/until/) crispy. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [portion](/en/post/portion/) [of](/en/post/of/) chips [or](/en/post/or/) fries [on](/en/post/on/) [the](/en/post/the/) [side](/en/post/side/)."
-  - [Also](/en/post/also/), [young](/en/post/young/) [fish](/en/post/fish/), [especially](/en/post/especially/) [when](/en/post/when/) [they](/en/post/they/) are [newly](/en/post/newly/) hatched. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lake](/en/post/lake/) was [full](/en/post/full/) [of](/en/post/of/) trout [fry](/en/post/fry/)."
+- **[Noun](/post/noun/)**: ([plural](/post/plural/) fries) [Thin](/post/thin/) strips [of](/post/of/) [food](/post/food/), typically potatoes, [that](/post/that/) [have](/post/have/) been deep-fried [until](/post/until/) crispy. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [portion](/post/portion/) [of](/post/of/) chips [or](/post/or/) fries [on](/post/on/) [the](/post/the/) [side](/post/side/)."
+  - [Also](/post/also/), [young](/post/young/) [fish](/post/fish/), [especially](/post/especially/) [when](/post/when/) [they](/post/they/) are [newly](/post/newly/) hatched. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lake](/post/lake/) was [full](/post/full/) [of](/post/of/) trout [fry](/post/fry/)."
   
-- **[Verb](/en/post/verb/)**: 
-  - **(transitive)** [To](/en/post/to/) [cook](/en/post/cook/) [food](/en/post/food/) [by](/en/post/by/) immersing [it](/en/post/it/) [in](/en/post/in/) [hot](/en/post/hot/) [oil](/en/post/oil/) [or](/en/post/or/) fat. [For](/en/post/for/) [example](/en/post/example/): "I'm going [to](/en/post/to/) [fry](/en/post/fry/) [some](/en/post/some/) [chicken](/en/post/chicken/) [for](/en/post/for/) [dinner](/en/post/dinner/)."
-  - **(intransitive)** [To](/en/post/to/) [be](/en/post/be/) cooked [by](/en/post/by/) frying. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) bacon [will](/en/post/will/) [fry](/en/post/fry/) nicely [in](/en/post/in/) [this](/en/post/this/) [pan](/en/post/pan/)."
-  - **(informal)** [To](/en/post/to/) [damage](/en/post/damage/) [or](/en/post/or/) [ruin](/en/post/ruin/) [something](/en/post/something/) [due](/en/post/due/) [to](/en/post/to/) [heat](/en/post/heat/) [or](/en/post/or/) [intense](/en/post/intense/) [energy](/en/post/energy/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [electrical](/en/post/electrical/) [equipment](/en/post/equipment/) got fried [during](/en/post/during/) [the](/en/post/the/) [lightning](/en/post/lightning/) [storm](/en/post/storm/)."
+- **[Verb](/post/verb/)**: 
+  - **(transitive)** [To](/post/to/) [cook](/post/cook/) [food](/post/food/) [by](/post/by/) immersing [it](/post/it/) [in](/post/in/) [hot](/post/hot/) [oil](/post/oil/) [or](/post/or/) fat. [For](/post/for/) [example](/post/example/): "I'm going [to](/post/to/) [fry](/post/fry/) [some](/post/some/) [chicken](/post/chicken/) [for](/post/for/) [dinner](/post/dinner/)."
+  - **(intransitive)** [To](/post/to/) [be](/post/be/) cooked [by](/post/by/) frying. [For](/post/for/) [example](/post/example/): "[The](/post/the/) bacon [will](/post/will/) [fry](/post/fry/) nicely [in](/post/in/) [this](/post/this/) [pan](/post/pan/)."
+  - **(informal)** [To](/post/to/) [damage](/post/damage/) [or](/post/or/) [ruin](/post/ruin/) [something](/post/something/) [due](/post/due/) [to](/post/to/) [heat](/post/heat/) [or](/post/or/) [intense](/post/intense/) [energy](/post/energy/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [electrical](/post/electrical/) [equipment](/post/equipment/) got fried [during](/post/during/) [the](/post/the/) [lightning](/post/lightning/) [storm](/post/storm/)."
   
-- **[Adjective](/en/post/adjective/)**: ([usually](/en/post/usually/) [in](/en/post/in/) [compound](/en/post/compound/) forms [like](/en/post/like/) 'sun-fried') Describing [something](/en/post/something/) [that](/en/post/that/) has been dried [or](/en/post/or/) cooked [by](/en/post/by/) [exposure](/en/post/exposure/) [to](/en/post/to/) [heat](/en/post/heat/), [often](/en/post/often/) [sunlight](/en/post/sunlight/). [For](/en/post/for/) [example](/en/post/example/): "Sun-fried tomatoes [have](/en/post/have/) an [intense](/en/post/intense/) flavor."
+- **[Adjective](/post/adjective/)**: ([usually](/post/usually/) [in](/post/in/) [compound](/post/compound/) forms [like](/post/like/) 'sun-fried') Describing [something](/post/something/) [that](/post/that/) has been dried [or](/post/or/) cooked [by](/post/by/) [exposure](/post/exposure/) [to](/post/to/) [heat](/post/heat/), [often](/post/often/) [sunlight](/post/sunlight/). [For](/post/for/) [example](/post/example/): "Sun-fried tomatoes [have](/post/have/) an [intense](/post/intense/) flavor."
 
 ## Phrases
-- "[Fry](/en/post/fry/) [up](/en/post/up/)" refers [to](/en/post/to/) cooking [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) foods, [usually](/en/post/usually/) [breakfast](/en/post/breakfast/) items [such](/en/post/such/) [as](/en/post/as/) bacon, eggs, [and](/en/post/and/) sausages, [in](/en/post/in/) [a](/en/post/a/) frying [pan](/en/post/pan/).
-- "Fryer" is [a](/en/post/a/) [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [bird](/en/post/bird/), [particularly](/en/post/particularly/) [a](/en/post/a/) [chicken](/en/post/chicken/), [suitable](/en/post/suitable/) [for](/en/post/for/) frying.
-- "[Easy](/en/post/easy/) [to](/en/post/to/) [fry](/en/post/fry/)" describes [something](/en/post/something/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) cooked [quickly](/en/post/quickly/) [and](/en/post/and/) [easily](/en/post/easily/) using [the](/en/post/the/) frying [method](/en/post/method/).
+- "[Fry](/post/fry/) [up](/post/up/)" refers [to](/post/to/) cooking [a](/post/a/) [variety](/post/variety/) [of](/post/of/) foods, [usually](/post/usually/) [breakfast](/post/breakfast/) items [such](/post/such/) [as](/post/as/) bacon, eggs, [and](/post/and/) sausages, [in](/post/in/) [a](/post/a/) frying [pan](/post/pan/).
+- "Fryer" is [a](/post/a/) [term](/post/term/) [for](/post/for/) [a](/post/a/) [bird](/post/bird/), [particularly](/post/particularly/) [a](/post/a/) [chicken](/post/chicken/), [suitable](/post/suitable/) [for](/post/for/) frying.
+- "[Easy](/post/easy/) [to](/post/to/) [fry](/post/fry/)" describes [something](/post/something/) [that](/post/that/) [can](/post/can/) [be](/post/be/) cooked [quickly](/post/quickly/) [and](/post/and/) [easily](/post/easily/) using [the](/post/the/) frying [method](/post/method/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) ordered [a](/en/post/a/) burger [with](/en/post/with/) [extra](/en/post/extra/) fries [on](/en/post/on/) [the](/en/post/the/) [side](/en/post/side/)."
-- **[Verb](/en/post/verb/)**: "She's frying onions [to](/en/post/to/) [add](/en/post/add/) [to](/en/post/to/) [the](/en/post/the/) stew."
-- **[Adjective](/en/post/adjective/)**: "[These](/en/post/these/) sun-fried tomatoes [make](/en/post/make/) [a](/en/post/a/) [great](/en/post/great/) [addition](/en/post/addition/) [to](/en/post/to/) salads."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) ordered [a](/post/a/) burger [with](/post/with/) [extra](/post/extra/) fries [on](/post/on/) [the](/post/the/) [side](/post/side/)."
+- **[Verb](/post/verb/)**: "She's frying onions [to](/post/to/) [add](/post/add/) [to](/post/to/) [the](/post/the/) stew."
+- **[Adjective](/post/adjective/)**: "[These](/post/these/) sun-fried tomatoes [make](/post/make/) [a](/post/a/) [great](/post/great/) [addition](/post/addition/) [to](/post/to/) salads."
 
 ## Synonyms
-- **[For](/en/post/for/) [the](/en/post/the/) [Noun](/en/post/noun/) "fries"**: Chips (UK), hash browns ([for](/en/post/for/) shredded [potato](/en/post/potato/) fritters)
-- **[For](/en/post/for/) [the](/en/post/the/) [Verb](/en/post/verb/) "[to](/en/post/to/) [fry](/en/post/fry/)"**: Sauté, [roast](/en/post/roast/), grill, [bake](/en/post/bake/), broil
-- **[For](/en/post/for/) [the](/en/post/the/) [Adjective](/en/post/adjective/) "fried"**: Cooked [by](/en/post/by/) frying, deep-fried, sun-dried, oven-baked (depending [on](/en/post/on/) context)
+- **[For](/post/for/) [the](/post/the/) [Noun](/post/noun/) "fries"**: Chips (UK), hash browns ([for](/post/for/) shredded [potato](/post/potato/) fritters)
+- **[For](/post/for/) [the](/post/the/) [Verb](/post/verb/) "[to](/post/to/) [fry](/post/fry/)"**: Sauté, [roast](/post/roast/), grill, [bake](/post/bake/), broil
+- **[For](/post/for/) [the](/post/the/) [Adjective](/post/adjective/) "fried"**: Cooked [by](/post/by/) frying, deep-fried, sun-dried, oven-baked (depending [on](/post/on/) context)

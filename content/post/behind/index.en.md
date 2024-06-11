@@ -7,30 +7,30 @@ description = '[biˈhaind] prep.在…后面'
 keywords = ['ai words', 'behind']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈhaɪnd/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Located, situated, [or](/en/post/or/) occurring [after](/en/post/after/) [or](/en/post/or/) [behind](/en/post/behind/) [something](/en/post/something/) [else](/en/post/else/) [in](/en/post/in/) [space](/en/post/space/) [or](/en/post/or/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) bookshelf is [behind](/en/post/behind/) [the](/en/post/the/) sofa."
-- **[Preposition](/en/post/preposition/)**: Expressing [position](/en/post/position/) [or](/en/post/or/) [direction](/en/post/direction/) [relative](/en/post/relative/) [to](/en/post/to/) [another](/en/post/another/) [element](/en/post/element/) [in](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [package](/en/post/package/) is [behind](/en/post/behind/) [the](/en/post/the/) [door](/en/post/door/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) comes [after](/en/post/after/) [or](/en/post/or/) is placed [after](/en/post/after/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was followed [by](/en/post/by/) [her](/en/post/her/) [brother](/en/post/brother/) [in](/en/post/in/) [the](/en/post/the/) [race](/en/post/race/)."
-- **[Pronoun](/en/post/pronoun/)**: [Used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [previously](/en/post/previously/) mentioned [or](/en/post/or/) [easily](/en/post/easily/) identified. [For](/en/post/for/) [example](/en/post/example/): "Who's hiding [behind](/en/post/behind/) [the](/en/post/the/) curtains?"
+- **[Adverb](/post/adverb/)**: Located, situated, [or](/post/or/) occurring [after](/post/after/) [or](/post/or/) [behind](/post/behind/) [something](/post/something/) [else](/post/else/) [in](/post/in/) [space](/post/space/) [or](/post/or/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) bookshelf is [behind](/post/behind/) [the](/post/the/) sofa."
+- **[Preposition](/post/preposition/)**: Expressing [position](/post/position/) [or](/post/or/) [direction](/post/direction/) [relative](/post/relative/) [to](/post/to/) [another](/post/another/) [element](/post/element/) [in](/post/in/) [a](/post/a/) [sentence](/post/sentence/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [package](/post/package/) is [behind](/post/behind/) [the](/post/the/) [door](/post/door/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) comes [after](/post/after/) [or](/post/or/) is placed [after](/post/after/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was followed [by](/post/by/) [her](/post/her/) [brother](/post/brother/) [in](/post/in/) [the](/post/the/) [race](/post/race/)."
+- **[Pronoun](/post/pronoun/)**: [Used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [previously](/post/previously/) mentioned [or](/post/or/) [easily](/post/easily/) identified. [For](/post/for/) [example](/post/example/): "Who's hiding [behind](/post/behind/) [the](/post/the/) curtains?"
 
 ## Phrases
-- "[Behind](/en/post/behind/) [the](/en/post/the/) scenes" refers [to](/en/post/to/) [what](/en/post/what/) happens offstage [or](/en/post/or/) unseen.
-- "[Behind](/en/post/behind/) closed doors" [means](/en/post/means/) [in](/en/post/in/) [private](/en/post/private/) [or](/en/post/or/) confidential settings.
-- "[Behind](/en/post/behind/) [the](/en/post/the/) [wheel](/en/post/wheel/)" signifies [being](/en/post/being/) [in](/en/post/in/) [control](/en/post/control/) [of](/en/post/of/) [a](/en/post/a/) [vehicle](/en/post/vehicle/).
+- "[Behind](/post/behind/) [the](/post/the/) scenes" refers [to](/post/to/) [what](/post/what/) happens offstage [or](/post/or/) unseen.
+- "[Behind](/post/behind/) closed doors" [means](/post/means/) [in](/post/in/) [private](/post/private/) [or](/post/or/) confidential settings.
+- "[Behind](/post/behind/) [the](/post/the/) [wheel](/post/wheel/)" signifies [being](/post/being/) [in](/post/in/) [control](/post/control/) [of](/post/of/) [a](/post/a/) [vehicle](/post/vehicle/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) children played hide-and-seek, [with](/en/post/with/) [the](/en/post/the/) seeker standing [behind](/en/post/behind/) [the](/en/post/the/) [tree](/en/post/tree/)."
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) [map](/en/post/map/) shows [the](/en/post/the/) [location](/en/post/location/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/) [behind](/en/post/behind/) [the](/en/post/the/) [hill](/en/post/hill/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was [the](/en/post/the/) [last](/en/post/last/) [one](/en/post/one/) [to](/en/post/to/) [arrive](/en/post/arrive/), coming [in](/en/post/in/) [from](/en/post/from/) [behind](/en/post/behind/) [the](/en/post/the/) [line](/en/post/line/)."
-- **[Pronoun](/en/post/pronoun/)**: "I couldn't [see](/en/post/see/) [who](/en/post/who/) was hiding [behind](/en/post/behind/) [those](/en/post/those/) bushes."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) children played hide-and-seek, [with](/post/with/) [the](/post/the/) seeker standing [behind](/post/behind/) [the](/post/the/) [tree](/post/tree/)."
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) [map](/post/map/) shows [the](/post/the/) [location](/post/location/) [of](/post/of/) [the](/post/the/) [house](/post/house/) [behind](/post/behind/) [the](/post/the/) [hill](/post/hill/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) was [the](/post/the/) [last](/post/last/) [one](/post/one/) [to](/post/to/) [arrive](/post/arrive/), coming [in](/post/in/) [from](/post/from/) [behind](/post/behind/) [the](/post/the/) [line](/post/line/)."
+- **[Pronoun](/post/pronoun/)**: "I couldn't [see](/post/see/) [who](/post/who/) was hiding [behind](/post/behind/) [those](/post/those/) bushes."
 
 ## Synonyms
-- [Rear](/en/post/rear/)
-- [Back](/en/post/back/)
-- [Following](/en/post/following/)
-- [Afterward](/en/post/afterward/)
+- [Rear](/post/rear/)
+- [Back](/post/back/)
+- [Following](/post/following/)
+- [Afterward](/post/afterward/)
 - Posterior
-- [Tail](/en/post/tail/) [end](/en/post/end/)
+- [Tail](/post/tail/) [end](/post/end/)

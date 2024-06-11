@@ -7,29 +7,29 @@ description = '[biˈtwiːn] prep.在…中间'
 keywords = ['ai words', 'between']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈtwiːn/
 
 ## Definitions
-- **[Preposition](/en/post/preposition/)**: [A](/en/post/a/) [word](/en/post/word/) [that](/en/post/that/) shows [the](/en/post/the/) [relationship](/en/post/relationship/) [between](/en/post/between/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [pronoun](/en/post/pronoun/) [and](/en/post/and/) [other](/en/post/other/) words [in](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/), expressing [the](/en/post/the/) [position](/en/post/position/), [direction](/en/post/direction/), [or](/en/post/or/) [connection](/en/post/connection/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) is [between](/en/post/between/) [the](/en/post/the/) sofa [and](/en/post/and/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) situated [or](/en/post/or/) placed [within](/en/post/within/) [a](/en/post/a/) specified [range](/en/post/range/) [or](/en/post/or/) [interval](/en/post/interval/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) numbers 10 [and](/en/post/and/) 20 are [between](/en/post/between/) 5 [and](/en/post/and/) 30."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [time](/en/post/time/) [or](/en/post/or/) [sequence](/en/post/sequence/), [it](/en/post/it/) indicates [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [stage](/en/post/stage/) [in](/en/post/in/) [relation](/en/post/relation/) [to](/en/post/to/) others. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [will](/en/post/will/) [speak](/en/post/speak/) [second](/en/post/second/), [between](/en/post/between/) [the](/en/post/the/) [first](/en/post/first/) [and](/en/post/and/) [third](/en/post/third/) speakers."
+- **[Preposition](/post/preposition/)**: [A](/post/a/) [word](/post/word/) [that](/post/that/) shows [the](/post/the/) [relationship](/post/relationship/) [between](/post/between/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [pronoun](/post/pronoun/) [and](/post/and/) [other](/post/other/) words [in](/post/in/) [a](/post/a/) [sentence](/post/sentence/), expressing [the](/post/the/) [position](/post/position/), [direction](/post/direction/), [or](/post/or/) [connection](/post/connection/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) is [between](/post/between/) [the](/post/the/) sofa [and](/post/and/) [the](/post/the/) [table](/post/table/)."
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) situated [or](/post/or/) placed [within](/post/within/) [a](/post/a/) specified [range](/post/range/) [or](/post/or/) [interval](/post/interval/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) numbers 10 [and](/post/and/) 20 are [between](/post/between/) 5 [and](/post/and/) 30."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [the](/post/the/) context [of](/post/of/) [time](/post/time/) [or](/post/or/) [sequence](/post/sequence/), [it](/post/it/) indicates [a](/post/a/) [position](/post/position/) [or](/post/or/) [stage](/post/stage/) [in](/post/in/) [relation](/post/relation/) [to](/post/to/) others. [For](/post/for/) [example](/post/example/): "[She](/post/she/) [will](/post/will/) [speak](/post/speak/) [second](/post/second/), [between](/post/between/) [the](/post/the/) [first](/post/first/) [and](/post/and/) [third](/post/third/) speakers."
 
 ## Phrases
-- "[Between](/en/post/between/) [two](/en/post/two/) choices" signifies [a](/en/post/a/) [middle](/en/post/middle/) [option](/en/post/option/).
-- "[Between](/en/post/between/) [a](/en/post/a/) [rock](/en/post/rock/) [and](/en/post/and/) [a](/en/post/a/) [hard](/en/post/hard/) [place](/en/post/place/)" describes [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/).
-- "[Between](/en/post/between/) [now](/en/post/now/) [and](/en/post/and/) [then](/en/post/then/)" refers [to](/en/post/to/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/).
+- "[Between](/post/between/) [two](/post/two/) choices" signifies [a](/post/a/) [middle](/post/middle/) [option](/post/option/).
+- "[Between](/post/between/) [a](/post/a/) [rock](/post/rock/) [and](/post/and/) [a](/post/a/) [hard](/post/hard/) [place](/post/place/)" describes [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/).
+- "[Between](/post/between/) [now](/post/now/) [and](/post/and/) [then](/post/then/)" refers [to](/post/to/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/).
 
-## [Example](/en/post/example/) Sentences
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) [book](/en/post/book/) is [always](/en/post/always/) placed [between](/en/post/between/) [the](/en/post/the/) bookends."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) classes are scheduled [between](/en/post/between/) 9am [and](/en/post/and/) 4pm."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) [birthday](/en/post/birthday/) is [somewhere](/en/post/somewhere/) [between](/en/post/between/) [April](/en/post/april/) [and](/en/post/and/) June."
+## [Example](/post/example/) Sentences
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) [book](/post/book/) is [always](/post/always/) placed [between](/post/between/) [the](/post/the/) bookends."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) classes are scheduled [between](/post/between/) 9am [and](/post/and/) 4pm."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) [birthday](/post/birthday/) is [somewhere](/post/somewhere/) [between](/post/between/) [April](/post/april/) [and](/post/and/) June."
 
 ## Synonyms
 - Amidst
-- [In](/en/post/in/) [the](/en/post/the/) [midst](/en/post/midst/) [of](/en/post/of/)
-- [Among](/en/post/among/)
+- [In](/post/in/) [the](/post/the/) [midst](/post/midst/) [of](/post/of/)
+- [Among](/post/among/)
 - Intersecting
 - Contiguous
 
-## [Note](/en/post/note/): [The](/en/post/the/) [usage](/en/post/usage/) [of](/en/post/of/) "[between](/en/post/between/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) is [less](/en/post/less/) [common](/en/post/common/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [some](/en/post/some/) regional dialects [or](/en/post/or/) informal contexts, [similar](/en/post/similar/) [to](/en/post/to/) [the](/en/post/the/) examples [provided](/en/post/provided/) [for](/en/post/for/) "[hello](/en/post/hello/)." [However](/en/post/however/), [the](/en/post/the/) [primary](/en/post/primary/) [definition](/en/post/definition/) [and](/en/post/and/) [most](/en/post/most/) [common](/en/post/common/) [usage](/en/post/usage/) [of](/en/post/of/) "[between](/en/post/between/)" is [as](/en/post/as/) [a](/en/post/a/) [preposition](/en/post/preposition/).
+## [Note](/post/note/): [The](/post/the/) [usage](/post/usage/) [of](/post/of/) "[between](/post/between/)" [as](/post/as/) [a](/post/a/) [verb](/post/verb/) is [less](/post/less/) [common](/post/common/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [some](/post/some/) regional dialects [or](/post/or/) informal contexts, [similar](/post/similar/) [to](/post/to/) [the](/post/the/) examples [provided](/post/provided/) [for](/post/for/) "[hello](/post/hello/)." [However](/post/however/), [the](/post/the/) [primary](/post/primary/) [definition](/post/definition/) [and](/post/and/) [most](/post/most/) [common](/post/common/) [usage](/post/usage/) [of](/post/of/) "[between](/post/between/)" is [as](/post/as/) [a](/post/a/) [preposition](/post/preposition/).

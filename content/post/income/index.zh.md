@@ -11,21 +11,21 @@ keywords = ['ai words', 'income']
 /ˈɪnkʌm/
 
 ## 释义
-- **名词**: 收入；收益。指个人或组织从各种来源获得的金钱或财产。例如: "[His](/post/his/) [main](/post/main/) [source](/post/source/) [of](/post/of/) [income](/post/income/) is [his](/post/his/) [salary](/post/salary/) [from](/post/from/) [teaching](/post/teaching/)."
-- **动词**: 获得收入；赚取。例如: "[She](/post/she/) started [a](/post/a/) [small](/post/small/) [business](/post/business/) [to](/post/to/) [income](/post/income/) [from](/post/from/) [her](/post/her/) [hobby](/post/hobby/)."
+- **名词**: 收入；收益。指个人或组织从各种来源获得的金钱或财产。例如: "[His](/zh/post/his/) [main](/zh/post/main/) [source](/zh/post/source/) [of](/zh/post/of/) [income](/zh/post/income/) is [his](/zh/post/his/) [salary](/zh/post/salary/) [from](/zh/post/from/) [teaching](/zh/post/teaching/)."
+- **动词**: 获得收入；赚取。例如: "[She](/zh/post/she/) started [a](/zh/post/a/) [small](/zh/post/small/) [business](/zh/post/business/) [to](/zh/post/to/) [income](/zh/post/income/) [from](/zh/post/from/) [her](/zh/post/her/) [hobby](/zh/post/hobby/)."
 
 ## 短语
-- "[Annual](/post/annual/) [income](/post/income/)" 指一年的总收入。
-- "Taxable [income](/post/income/)" 是指需要缴税的收入部分。
-- "[Passive](/post/passive/) [income](/post/income/)" 指无需直接劳动就能持续获得的收入，如租金或投资收益。
+- "[Annual](/zh/post/annual/) [income](/zh/post/income/)" 指一年的总收入。
+- "Taxable [income](/zh/post/income/)" 是指需要缴税的收入部分。
+- "[Passive](/zh/post/passive/) [income](/zh/post/income/)" 指无需直接劳动就能持续获得的收入，如租金或投资收益。
 
 ## 例句
-- 名词: "[Her](/post/her/) [monthly](/post/monthly/) [income](/post/income/) allows [her](/post/her/) [to](/post/to/) [live](/post/live/) comfortably."
-- 动词: "Investing [in](/post/in/) stocks helps [them](/post/them/) [to](/post/to/) [income](/post/income/) [more](/post/more/)."
+- 名词: "[Her](/zh/post/her/) [monthly](/zh/post/monthly/) [income](/zh/post/income/) allows [her](/zh/post/her/) [to](/zh/post/to/) [live](/zh/post/live/) comfortably."
+- 动词: "Investing [in](/zh/post/in/) stocks helps [them](/zh/post/them/) [to](/zh/post/to/) [income](/zh/post/income/) [more](/zh/post/more/)."
 
 ## 同义词
 - Earnings
 - Revenue
-- [Pay](/post/pay/)
+- [Pay](/zh/post/pay/)
 - Compensation
-- [Gain](/post/gain/)
+- [Gain](/zh/post/gain/)

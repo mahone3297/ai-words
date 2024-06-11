@@ -7,46 +7,46 @@ description = '[dʌst] n.尘土，灰尘'
 keywords = ['ai words', 'dust']
 +++
 
-## [Word](/en/post/word/): [Dust](/en/post/dust/)
+## [Word](/post/word/): [Dust](/post/dust/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dʌst/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-1. [Minute](/en/post/minute/) particles [of](/en/post/of/) [matter](/en/post/matter/), typically consisting [of](/en/post/of/) [dead](/en/post/dead/) [skin](/en/post/skin/) cells, [cloth](/en/post/cloth/) fibers, [soil](/en/post/soil/), [and](/en/post/and/) [other](/en/post/other/) [tiny](/en/post/tiny/) debris, [that](/en/post/that/) [settle](/en/post/settle/) [on](/en/post/on/) surfaces [or](/en/post/or/) [float](/en/post/float/) [in](/en/post/in/) [the](/en/post/the/) [air](/en/post/air/) [indoors](/en/post/indoors/) [or](/en/post/or/) [outdoors](/en/post/outdoors/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [maid](/en/post/maid/) [used](/en/post/used/) [a](/en/post/a/) [feather](/en/post/feather/) duster [to](/en/post/to/) [remove](/en/post/remove/) [the](/en/post/the/) [dust](/en/post/dust/) [from](/en/post/from/) [the](/en/post/the/) [furniture](/en/post/furniture/)."
-2. [Fine](/en/post/fine/), [dry](/en/post/dry/) [earth](/en/post/earth/) [or](/en/post/or/) [sand](/en/post/sand/) particles.
-   - [Example](/en/post/example/): "[A](/en/post/a/) [cloud](/en/post/cloud/) [of](/en/post/of/) [dust](/en/post/dust/) [rose](/en/post/rose/) [behind](/en/post/behind/) [the](/en/post/the/) [car](/en/post/car/) driving [on](/en/post/on/) [the](/en/post/the/) [dirt](/en/post/dirt/) [road](/en/post/road/)."
-3. [The](/en/post/the/) [remains](/en/post/remains/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) has been destroyed [or](/en/post/or/) [broken](/en/post/broken/) [down](/en/post/down/); debris [or](/en/post/or/) ruins.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) was reduced [to](/en/post/to/) [nothing](/en/post/nothing/) [but](/en/post/but/) [a](/en/post/a/) [pile](/en/post/pile/) [of](/en/post/of/) rubble [and](/en/post/and/) [dust](/en/post/dust/)."
+### [Noun](/post/noun/) (n)
+1. [Minute](/post/minute/) particles [of](/post/of/) [matter](/post/matter/), typically consisting [of](/post/of/) [dead](/post/dead/) [skin](/post/skin/) cells, [cloth](/post/cloth/) fibers, [soil](/post/soil/), [and](/post/and/) [other](/post/other/) [tiny](/post/tiny/) debris, [that](/post/that/) [settle](/post/settle/) [on](/post/on/) surfaces [or](/post/or/) [float](/post/float/) [in](/post/in/) [the](/post/the/) [air](/post/air/) [indoors](/post/indoors/) [or](/post/or/) [outdoors](/post/outdoors/).
+   - [Example](/post/example/): "[The](/post/the/) [maid](/post/maid/) [used](/post/used/) [a](/post/a/) [feather](/post/feather/) duster [to](/post/to/) [remove](/post/remove/) [the](/post/the/) [dust](/post/dust/) [from](/post/from/) [the](/post/the/) [furniture](/post/furniture/)."
+2. [Fine](/post/fine/), [dry](/post/dry/) [earth](/post/earth/) [or](/post/or/) [sand](/post/sand/) particles.
+   - [Example](/post/example/): "[A](/post/a/) [cloud](/post/cloud/) [of](/post/of/) [dust](/post/dust/) [rose](/post/rose/) [behind](/post/behind/) [the](/post/the/) [car](/post/car/) driving [on](/post/on/) [the](/post/the/) [dirt](/post/dirt/) [road](/post/road/)."
+3. [The](/post/the/) [remains](/post/remains/) [of](/post/of/) [something](/post/something/) [that](/post/that/) has been destroyed [or](/post/or/) [broken](/post/broken/) [down](/post/down/); debris [or](/post/or/) ruins.
+   - [Example](/post/example/): "[The](/post/the/) [old](/post/old/) [house](/post/house/) was reduced [to](/post/to/) [nothing](/post/nothing/) [but](/post/but/) [a](/post/a/) [pile](/post/pile/) [of](/post/of/) rubble [and](/post/and/) [dust](/post/dust/)."
 
-### [Verb](/en/post/verb/) (v)
-1. [To](/en/post/to/) [clean](/en/post/clean/) [or](/en/post/or/) [remove](/en/post/remove/) [dust](/en/post/dust/) [from](/en/post/from/) [a](/en/post/a/) [surface](/en/post/surface/) [or](/en/post/or/) [object](/en/post/object/).
-   - [Example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [dust](/en/post/dust/) [the](/en/post/the/) bookshelves [before](/en/post/before/) [my](/en/post/my/) guests [arrive](/en/post/arrive/)."
-2. [To](/en/post/to/) [sprinkle](/en/post/sprinkle/) [with](/en/post/with/) [or](/en/post/or/) [as](/en/post/as/) [if](/en/post/if/) [with](/en/post/with/) [dust](/en/post/dust/); [cover](/en/post/cover/) [lightly](/en/post/lightly/) [with](/en/post/with/) [fine](/en/post/fine/) particles.
-   - [Example](/en/post/example/): "[She](/en/post/she/) dusted [the](/en/post/the/) [cake](/en/post/cake/) [with](/en/post/with/) powdered [sugar](/en/post/sugar/)."
-3. (intransitive) [To](/en/post/to/) [move](/en/post/move/) [quickly](/en/post/quickly/) [so](/en/post/so/) [that](/en/post/that/) [dust](/en/post/dust/) is raised; [rush](/en/post/rush/) [away](/en/post/away/) [rapidly](/en/post/rapidly/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [horse](/en/post/horse/) galloped [off](/en/post/off/) [into](/en/post/into/) [the](/en/post/the/) [distance](/en/post/distance/), dusting [the](/en/post/the/) [ground](/en/post/ground/) [behind](/en/post/behind/) [it](/en/post/it/)."
+### [Verb](/post/verb/) (v)
+1. [To](/post/to/) [clean](/post/clean/) [or](/post/or/) [remove](/post/remove/) [dust](/post/dust/) [from](/post/from/) [a](/post/a/) [surface](/post/surface/) [or](/post/or/) [object](/post/object/).
+   - [Example](/post/example/): "I [need](/post/need/) [to](/post/to/) [dust](/post/dust/) [the](/post/the/) bookshelves [before](/post/before/) [my](/post/my/) guests [arrive](/post/arrive/)."
+2. [To](/post/to/) [sprinkle](/post/sprinkle/) [with](/post/with/) [or](/post/or/) [as](/post/as/) [if](/post/if/) [with](/post/with/) [dust](/post/dust/); [cover](/post/cover/) [lightly](/post/lightly/) [with](/post/with/) [fine](/post/fine/) particles.
+   - [Example](/post/example/): "[She](/post/she/) dusted [the](/post/the/) [cake](/post/cake/) [with](/post/with/) powdered [sugar](/post/sugar/)."
+3. (intransitive) [To](/post/to/) [move](/post/move/) [quickly](/post/quickly/) [so](/post/so/) [that](/post/that/) [dust](/post/dust/) is raised; [rush](/post/rush/) [away](/post/away/) [rapidly](/post/rapidly/).
+   - [Example](/post/example/): "[The](/post/the/) [horse](/post/horse/) galloped [off](/post/off/) [into](/post/into/) [the](/post/the/) [distance](/post/distance/), dusting [the](/post/the/) [ground](/post/ground/) [behind](/post/behind/) [it](/post/it/)."
 
-### [Adjective](/en/post/adjective/) (adj)
-- Consisting [of](/en/post/of/) [or](/en/post/or/) covered [with](/en/post/with/) [dust](/en/post/dust/); dusty.
-  - [Example](/en/post/example/): "[After](/en/post/after/) walking [through](/en/post/through/) [the](/en/post/the/) abandoned attic, [her](/en/post/her/) shoes were covered [in](/en/post/in/) [a](/en/post/a/) [layer](/en/post/layer/) [of](/en/post/of/) [dust](/en/post/dust/)."
+### [Adjective](/post/adjective/) (adj)
+- Consisting [of](/post/of/) [or](/post/or/) covered [with](/post/with/) [dust](/post/dust/); dusty.
+  - [Example](/post/example/): "[After](/post/after/) walking [through](/post/through/) [the](/post/the/) abandoned attic, [her](/post/her/) shoes were covered [in](/post/in/) [a](/post/a/) [layer](/post/layer/) [of](/post/of/) [dust](/post/dust/)."
 
 ## Phrases
-- "[Settle](/en/post/settle/) [the](/en/post/the/) [dust](/en/post/dust/)": [to](/en/post/to/) [calm](/en/post/calm/) [down](/en/post/down/) [after](/en/post/after/) [a](/en/post/a/) disturbance [or](/en/post/or/) [conflict](/en/post/conflict/).
-- "[Dust](/en/post/dust/) bunny": [a](/en/post/a/) [small](/en/post/small/) cluster [of](/en/post/of/) [dust](/en/post/dust/) [and](/en/post/and/) lint [that](/en/post/that/) forms [under](/en/post/under/) [furniture](/en/post/furniture/) [or](/en/post/or/) [in](/en/post/in/) corners.
-- "[Rise](/en/post/rise/) [from](/en/post/from/) [the](/en/post/the/) [dust](/en/post/dust/)": [to](/en/post/to/) [recover](/en/post/recover/) [or](/en/post/or/) [emerge](/en/post/emerge/) [successfully](/en/post/successfully/) [after](/en/post/after/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) obscurity [or](/en/post/or/) adversity.
+- "[Settle](/post/settle/) [the](/post/the/) [dust](/post/dust/)": [to](/post/to/) [calm](/post/calm/) [down](/post/down/) [after](/post/after/) [a](/post/a/) disturbance [or](/post/or/) [conflict](/post/conflict/).
+- "[Dust](/post/dust/) bunny": [a](/post/a/) [small](/post/small/) cluster [of](/post/of/) [dust](/post/dust/) [and](/post/and/) lint [that](/post/that/) forms [under](/post/under/) [furniture](/post/furniture/) [or](/post/or/) [in](/post/in/) corners.
+- "[Rise](/post/rise/) [from](/post/from/) [the](/post/the/) [dust](/post/dust/)": [to](/post/to/) [recover](/post/recover/) [or](/post/or/) [emerge](/post/emerge/) [successfully](/post/successfully/) [after](/post/after/) [a](/post/a/) [period](/post/period/) [of](/post/of/) obscurity [or](/post/or/) adversity.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sunlight](/en/post/sunlight/) illuminated [the](/en/post/the/) dancing motes [of](/en/post/of/) [dust](/en/post/dust/) [in](/en/post/in/) [the](/en/post/the/) [air](/en/post/air/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [regularly](/en/post/regularly/) dusts [the](/en/post/the/) antique figurines [to](/en/post/to/) [maintain](/en/post/maintain/) [their](/en/post/their/) [shine](/en/post/shine/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/), dust-covered books held [many](/en/post/many/) untold stories."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sunlight](/post/sunlight/) illuminated [the](/post/the/) dancing motes [of](/post/of/) [dust](/post/dust/) [in](/post/in/) [the](/post/the/) [air](/post/air/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) [regularly](/post/regularly/) dusts [the](/post/the/) antique figurines [to](/post/to/) [maintain](/post/maintain/) [their](/post/their/) [shine](/post/shine/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/), dust-covered books held [many](/post/many/) untold stories."
 
 ## Synonyms
-- [Powder](/en/post/powder/)
+- [Powder](/post/powder/)
 - Grime
 - Filth
 - Debris
-- [Dirt](/en/post/dirt/)
-- Soiling ([for](/en/post/for/) [verb](/en/post/verb/) [use](/en/post/use/))
+- [Dirt](/post/dirt/)
+- Soiling ([for](/post/for/) [verb](/post/verb/) [use](/post/use/))

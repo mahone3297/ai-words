@@ -7,40 +7,40 @@ description = '[hɑːt] n.心，内心；勇气'
 keywords = ['ai words', 'heart']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /haːrt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [organ](/en/post/organ/) [in](/en/post/in/) [the](/en/post/the/) [body](/en/post/body/) [that](/en/post/that/) pumps [blood](/en/post/blood/) [through](/en/post/through/) [the](/en/post/the/) circulatory [system](/en/post/system/), typically regarded [as](/en/post/as/) [the](/en/post/the/) center [of](/en/post/of/) [a](/en/post/a/) person's thoughts [and](/en/post/and/) emotions. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [surgeon](/en/post/surgeon/) performed [a](/en/post/a/) bypass [on](/en/post/on/) [his](/en/post/his/) blocked [heart](/en/post/heart/)." 
-  - Metaphorical [use](/en/post/use/): "[She](/en/post/she/) poured [her](/en/post/her/) [heart](/en/post/heart/) [out](/en/post/out/) [to](/en/post/to/) [him](/en/post/him/) [about](/en/post/about/) [her](/en/post/her/) fears."
+- **[Noun](/post/noun/)**: [The](/post/the/) [organ](/post/organ/) [in](/post/in/) [the](/post/the/) [body](/post/body/) [that](/post/that/) pumps [blood](/post/blood/) [through](/post/through/) [the](/post/the/) circulatory [system](/post/system/), typically regarded [as](/post/as/) [the](/post/the/) center [of](/post/of/) [a](/post/a/) person's thoughts [and](/post/and/) emotions. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [surgeon](/post/surgeon/) performed [a](/post/a/) bypass [on](/post/on/) [his](/post/his/) blocked [heart](/post/heart/)." 
+  - Metaphorical [use](/post/use/): "[She](/post/she/) poured [her](/post/her/) [heart](/post/heart/) [out](/post/out/) [to](/post/to/) [him](/post/him/) [about](/post/about/) [her](/post/her/) fears."
   
-- **[Verb](/en/post/verb/) (transitive)**: [To](/en/post/to/) [love](/en/post/love/) [or](/en/post/or/) cherish deeply; [to](/en/post/to/) [have](/en/post/have/) [great](/en/post/great/) [affection](/en/post/affection/) [for](/en/post/for/). [For](/en/post/for/) [example](/en/post/example/): "I [really](/en/post/really/) [heart](/en/post/heart/) [this](/en/post/this/) [city](/en/post/city/); [it](/en/post/it/) feels [like](/en/post/like/) [home](/en/post/home/)."
+- **[Verb](/post/verb/) (transitive)**: [To](/post/to/) [love](/post/love/) [or](/post/or/) cherish deeply; [to](/post/to/) [have](/post/have/) [great](/post/great/) [affection](/post/affection/) [for](/post/for/). [For](/post/for/) [example](/post/example/): "I [really](/post/really/) [heart](/post/heart/) [this](/post/this/) [city](/post/city/); [it](/post/it/) feels [like](/post/like/) [home](/post/home/)."
   
-- **[Noun](/en/post/noun/) (figurative)**: [The](/en/post/the/) [emotional](/en/post/emotional/) [or](/en/post/or/) [moral](/en/post/moral/) [core](/en/post/core/) [of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/); [their](/en/post/their/) innermost [being](/en/post/being/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [story](/en/post/story/) touched [my](/en/post/my/) [heart](/en/post/heart/)."
+- **[Noun](/post/noun/) (figurative)**: [The](/post/the/) [emotional](/post/emotional/) [or](/post/or/) [moral](/post/moral/) [core](/post/core/) [of](/post/of/) [a](/post/a/) [person](/post/person/); [their](/post/their/) innermost [being](/post/being/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [story](/post/story/) touched [my](/post/my/) [heart](/post/heart/)."
 
 ## Phrases
-- "[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [change](/en/post/change/) [of](/en/post/of/) [heart](/en/post/heart/)" [means](/en/post/means/) [to](/en/post/to/) [suddenly](/en/post/suddenly/) [decide](/en/post/decide/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [different](/en/post/different/) [from](/en/post/from/) [what](/en/post/what/) was originally intended [or](/en/post/or/) planned.
-- "[To](/en/post/to/) [break](/en/post/break/) someone's [heart](/en/post/heart/)" [means](/en/post/means/) [to](/en/post/to/) [cause](/en/post/cause/) [deep](/en/post/deep/) [emotional](/en/post/emotional/) [pain](/en/post/pain/) [or](/en/post/or/) disappointment.
-- "[Heart](/en/post/heart/) [and](/en/post/and/) [soul](/en/post/soul/)" refers [to](/en/post/to/) [complete](/en/post/complete/) involvement, commitment, [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/).
-- "Heartfelt" describes [something](/en/post/something/) [that](/en/post/that/) comes [from](/en/post/from/) [genuine](/en/post/genuine/) [emotion](/en/post/emotion/) [or](/en/post/or/) sincerity.
-- "[To](/en/post/to/) [take](/en/post/take/) [heart](/en/post/heart/)" [means](/en/post/means/) [to](/en/post/to/) regain [courage](/en/post/courage/) [or](/en/post/or/) [confidence](/en/post/confidence/).
+- "[To](/post/to/) [have](/post/have/) [a](/post/a/) [change](/post/change/) [of](/post/of/) [heart](/post/heart/)" [means](/post/means/) [to](/post/to/) [suddenly](/post/suddenly/) [decide](/post/decide/) [to](/post/to/) [do](/post/do/) [something](/post/something/) [different](/post/different/) [from](/post/from/) [what](/post/what/) was originally intended [or](/post/or/) planned.
+- "[To](/post/to/) [break](/post/break/) someone's [heart](/post/heart/)" [means](/post/means/) [to](/post/to/) [cause](/post/cause/) [deep](/post/deep/) [emotional](/post/emotional/) [pain](/post/pain/) [or](/post/or/) disappointment.
+- "[Heart](/post/heart/) [and](/post/and/) [soul](/post/soul/)" refers [to](/post/to/) [complete](/post/complete/) involvement, commitment, [or](/post/or/) [enthusiasm](/post/enthusiasm/).
+- "Heartfelt" describes [something](/post/something/) [that](/post/that/) comes [from](/post/from/) [genuine](/post/genuine/) [emotion](/post/emotion/) [or](/post/or/) sincerity.
+- "[To](/post/to/) [take](/post/take/) [heart](/post/heart/)" [means](/post/means/) [to](/post/to/) regain [courage](/post/courage/) [or](/post/or/) [confidence](/post/confidence/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([physical](/en/post/physical/) [organ](/en/post/organ/))**: "[Regular](/en/post/regular/) [exercise](/en/post/exercise/) strengthens [your](/en/post/your/) [heart](/en/post/heart/) [muscle](/en/post/muscle/)."
-- **[Verb](/en/post/verb/) ([to](/en/post/to/) [love](/en/post/love/))**: "[She](/en/post/she/) hearts [her](/en/post/her/) [family](/en/post/family/) [above](/en/post/above/) [all](/en/post/all/) [else](/en/post/else/)."
-- **[Noun](/en/post/noun/) (figurative)**: "[The](/en/post/the/) [experience](/en/post/experience/) [left](/en/post/left/) [a](/en/post/a/) lasting [mark](/en/post/mark/) [on](/en/post/on/) [his](/en/post/his/) [heart](/en/post/heart/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([physical](/post/physical/) [organ](/post/organ/))**: "[Regular](/post/regular/) [exercise](/post/exercise/) strengthens [your](/post/your/) [heart](/post/heart/) [muscle](/post/muscle/)."
+- **[Verb](/post/verb/) ([to](/post/to/) [love](/post/love/))**: "[She](/post/she/) hearts [her](/post/her/) [family](/post/family/) [above](/post/above/) [all](/post/all/) [else](/post/else/)."
+- **[Noun](/post/noun/) (figurative)**: "[The](/post/the/) [experience](/post/experience/) [left](/post/left/) [a](/post/a/) lasting [mark](/post/mark/) [on](/post/on/) [his](/post/his/) [heart](/post/heart/)."
 
 ## Synonyms
-- [Love](/en/post/love/)
-- [Affection](/en/post/affection/)
+- [Love](/post/love/)
+- [Affection](/post/affection/)
 - Adoration
 - Devotion
-- [Emotion](/en/post/emotion/)
+- [Emotion](/post/emotion/)
 - Feelings
-- [Core](/en/post/core/)
+- [Core](/post/core/)
 - Essence
-- [Spirit](/en/post/spirit/)
+- [Spirit](/post/spirit/)
 
-[In](/en/post/in/) idiomatic expressions:
-- [In](/en/post/in/) [place](/en/post/place/) [of](/en/post/of/) '[heart](/en/post/heart/)', [one](/en/post/one/) [might](/en/post/might/) [also](/en/post/also/) [use](/en/post/use/) 'heartstrings' [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [deep](/en/post/deep/) [emotional](/en/post/emotional/) ties [or](/en/post/or/) susceptibilities.
-- [As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), 'cherish', 'adore', [or](/en/post/or/) '[treasure](/en/post/treasure/)' [can](/en/post/can/) [be](/en/post/be/) synonyms [when](/en/post/when/) [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [deep](/en/post/deep/) [affection](/en/post/affection/) [or](/en/post/or/) fondness.
+[In](/post/in/) idiomatic expressions:
+- [In](/post/in/) [place](/post/place/) [of](/post/of/) '[heart](/post/heart/)', [one](/post/one/) [might](/post/might/) [also](/post/also/) [use](/post/use/) 'heartstrings' [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [deep](/post/deep/) [emotional](/post/emotional/) ties [or](/post/or/) susceptibilities.
+- [As](/post/as/) [a](/post/a/) [verb](/post/verb/), 'cherish', 'adore', [or](/post/or/) '[treasure](/post/treasure/)' [can](/post/can/) [be](/post/be/) synonyms [when](/post/when/) [used](/post/used/) [to](/post/to/) [express](/post/express/) [deep](/post/deep/) [affection](/post/affection/) [or](/post/or/) fondness.

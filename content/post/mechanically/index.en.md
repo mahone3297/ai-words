@@ -7,31 +7,31 @@ description = '[miˈkænikəli] ad.机械地'
 keywords = ['ai words', 'mechanically']
 +++
 
-## [Word](/en/post/word/): [Mechanically](/en/post/mechanically/)
+## [Word](/post/word/): [Mechanically](/post/mechanically/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌmɛkəˈnɪkli/
 
 ## Definitions
-**[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) related [to](/en/post/to/) machines [or](/en/post/or/) [their](/en/post/their/) [operation](/en/post/operation/); [by](/en/post/by/) [mechanical](/en/post/mechanical/) [means](/en/post/means/); [without](/en/post/without/) spontaneity [or](/en/post/or/) [emotion](/en/post/emotion/).
+**[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) related [to](/post/to/) machines [or](/post/or/) [their](/post/their/) [operation](/post/operation/); [by](/post/by/) [mechanical](/post/mechanical/) [means](/post/means/); [without](/post/without/) spontaneity [or](/post/or/) [emotion](/post/emotion/).
 
-- **[Mechanical](/en/post/mechanical/) [Operation](/en/post/operation/)**: Describing [how](/en/post/how/) [something](/en/post/something/) functions [or](/en/post/or/) is done [with](/en/post/with/) [a](/en/post/a/) [machine](/en/post/machine/) [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) resembles [the](/en/post/the/) working [of](/en/post/of/) [a](/en/post/a/) [machine](/en/post/machine/). [Example](/en/post/example/): "[The](/en/post/the/) [robot](/en/post/robot/) [arm](/en/post/arm/) moved [mechanically](/en/post/mechanically/)."
+- **[Mechanical](/post/mechanical/) [Operation](/post/operation/)**: Describing [how](/post/how/) [something](/post/something/) functions [or](/post/or/) is done [with](/post/with/) [a](/post/a/) [machine](/post/machine/) [or](/post/or/) [in](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) resembles [the](/post/the/) working [of](/post/of/) [a](/post/a/) [machine](/post/machine/). [Example](/post/example/): "[The](/post/the/) [robot](/post/robot/) [arm](/post/arm/) moved [mechanically](/post/mechanically/)."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- "[The](/en/post/the/) car's [engine](/en/post/engine/) runs [smoothly](/en/post/smoothly/) [and](/en/post/and/) [mechanically](/en/post/mechanically/)."
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- "[The](/post/the/) car's [engine](/post/engine/) runs [smoothly](/post/smoothly/) [and](/post/and/) [mechanically](/post/mechanically/)."
 
-**[Manner](/en/post/manner/) [of](/en/post/of/) Acting**: Indicating [that](/en/post/that/) an [action](/en/post/action/) is performed automatically, habitually, [or](/en/post/or/) [without](/en/post/without/) [conscious](/en/post/conscious/) [thought](/en/post/thought/) [or](/en/post/or/) [feeling](/en/post/feeling/). [Example](/en/post/example/): "[He](/en/post/he/) answered [the](/en/post/the/) questions [mechanically](/en/post/mechanically/), [without](/en/post/without/) [really](/en/post/really/) thinking [about](/en/post/about/) [them](/en/post/them/)."
+**[Manner](/post/manner/) [of](/post/of/) Acting**: Indicating [that](/post/that/) an [action](/post/action/) is performed automatically, habitually, [or](/post/or/) [without](/post/without/) [conscious](/post/conscious/) [thought](/post/thought/) [or](/post/or/) [feeling](/post/feeling/). [Example](/post/example/): "[He](/post/he/) answered [the](/post/the/) questions [mechanically](/post/mechanically/), [without](/post/without/) [really](/post/really/) thinking [about](/post/about/) [them](/post/them/)."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- "[He](/en/post/he/) greeted [her](/en/post/her/) [mechanically](/en/post/mechanically/), [his](/en/post/his/) [mind](/en/post/mind/) [elsewhere](/en/post/elsewhere/)."
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- "[He](/post/he/) greeted [her](/post/her/) [mechanically](/post/mechanically/), [his](/post/his/) [mind](/post/mind/) [elsewhere](/post/elsewhere/)."
 
 ## Phrases
-- "[Work](/en/post/work/)/[mechanically](/en/post/mechanically/) [operate](/en/post/operate/)": [To](/en/post/to/) [function](/en/post/function/) [or](/en/post/or/) [perform](/en/post/perform/) tasks [as](/en/post/as/) [a](/en/post/a/) [machine](/en/post/machine/) does. [Example](/en/post/example/): "[This](/en/post/this/) [new](/en/post/new/) [device](/en/post/device/) is designed [to](/en/post/to/) [mechanically](/en/post/mechanically/) [operate](/en/post/operate/) 24/7 [without](/en/post/without/) [any](/en/post/any/) [human](/en/post/human/) intervention."
-- "[Act](/en/post/act/)/[mechanically](/en/post/mechanically/) [respond](/en/post/respond/)": [To](/en/post/to/) [react](/en/post/react/) [or](/en/post/or/) [behave](/en/post/behave/) [in](/en/post/in/) [a](/en/post/a/) [habitual](/en/post/habitual/) [or](/en/post/or/) unemotional [way](/en/post/way/). [Example](/en/post/example/): "[After](/en/post/after/) years [of](/en/post/of/) [routine](/en/post/routine/), [he](/en/post/he/) [mechanically](/en/post/mechanically/) responded [to](/en/post/to/) [the](/en/post/the/) [morning](/en/post/morning/) [alarm](/en/post/alarm/)."
+- "[Work](/post/work/)/[mechanically](/post/mechanically/) [operate](/post/operate/)": [To](/post/to/) [function](/post/function/) [or](/post/or/) [perform](/post/perform/) tasks [as](/post/as/) [a](/post/a/) [machine](/post/machine/) does. [Example](/post/example/): "[This](/post/this/) [new](/post/new/) [device](/post/device/) is designed [to](/post/to/) [mechanically](/post/mechanically/) [operate](/post/operate/) 24/7 [without](/post/without/) [any](/post/any/) [human](/post/human/) intervention."
+- "[Act](/post/act/)/[mechanically](/post/mechanically/) [respond](/post/respond/)": [To](/post/to/) [react](/post/react/) [or](/post/or/) [behave](/post/behave/) [in](/post/in/) [a](/post/a/) [habitual](/post/habitual/) [or](/post/or/) unemotional [way](/post/way/). [Example](/post/example/): "[After](/post/after/) years [of](/post/of/) [routine](/post/routine/), [he](/post/he/) [mechanically](/post/mechanically/) responded [to](/post/to/) [the](/post/the/) [morning](/post/morning/) [alarm](/post/alarm/)."
 
-## [Example](/en/post/example/) Sentences
-- [Adverb](/en/post/adverb/) ([Mechanical](/en/post/mechanical/) [Operation](/en/post/operation/)): "[The](/en/post/the/) [door](/en/post/door/) unlocked [with](/en/post/with/) [a](/en/post/a/) [mechanical](/en/post/mechanical/) whirr [as](/en/post/as/) [he](/en/post/he/) inserted [the](/en/post/the/) [key](/en/post/key/)."
-- [Adverb](/en/post/adverb/) ([Manner](/en/post/manner/) [of](/en/post/of/) Acting): "[He](/en/post/he/) went [through](/en/post/through/) [the](/en/post/the/) motions [of](/en/post/of/) cleaning [up](/en/post/up/) [mechanically](/en/post/mechanically/), [his](/en/post/his/) [heart](/en/post/heart/) [heavy](/en/post/heavy/) [with](/en/post/with/) [sorrow](/en/post/sorrow/)."
+## [Example](/post/example/) Sentences
+- [Adverb](/post/adverb/) ([Mechanical](/post/mechanical/) [Operation](/post/operation/)): "[The](/post/the/) [door](/post/door/) unlocked [with](/post/with/) [a](/post/a/) [mechanical](/post/mechanical/) whirr [as](/post/as/) [he](/post/he/) inserted [the](/post/the/) [key](/post/key/)."
+- [Adverb](/post/adverb/) ([Manner](/post/manner/) [of](/post/of/) Acting): "[He](/post/he/) went [through](/post/through/) [the](/post/the/) motions [of](/post/of/) cleaning [up](/post/up/) [mechanically](/post/mechanically/), [his](/post/his/) [heart](/post/heart/) [heavy](/post/heavy/) [with](/post/with/) [sorrow](/post/sorrow/)."
 
 ## Synonyms
 - Automatically

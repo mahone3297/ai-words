@@ -12,30 +12,30 @@ keywords = ['ai words', 'break']
 
 ## 释义
 - **动词**:
-1. 分开，断裂：使物体分成两部分或更多部分。例如: "[The](/post/the/) [branch](/post/branch/) broke [off](/post/off/) [in](/post/in/) [the](/post/the/) [wind](/post/wind/)."
-2. 中断，停止：终止一个连续的过程或活动。例如: "Let's [break](/post/break/) [for](/post/for/) [lunch](/post/lunch/)."
-3. 打破，违反：不遵守规则、协议或法律。例如: "[He](/post/he/) broke [the](/post/the/) [speed](/post/speed/) [limit](/post/limit/)."
-4. 解决，破解：成功地解决难题或问题。例如: "[We](/post/we/) [finally](/post/finally/) broke [the](/post/the/) [code](/post/code/)."
-5. 停止说话，换话题：在谈话中暂停或改变主题。例如: "I [think](/post/think/) it's [time](/post/time/) [to](/post/to/) [break](/post/break/) [and](/post/and/) [talk](/post/talk/) [about](/post/about/) [something](/post/something/) [else](/post/else/)."
+1. 分开，断裂：使物体分成两部分或更多部分。例如: "[The](/zh/post/the/) [branch](/zh/post/branch/) broke [off](/zh/post/off/) [in](/zh/post/in/) [the](/zh/post/the/) [wind](/zh/post/wind/)."
+2. 中断，停止：终止一个连续的过程或活动。例如: "Let's [break](/zh/post/break/) [for](/zh/post/for/) [lunch](/zh/post/lunch/)."
+3. 打破，违反：不遵守规则、协议或法律。例如: "[He](/zh/post/he/) broke [the](/zh/post/the/) [speed](/zh/post/speed/) [limit](/zh/post/limit/)."
+4. 解决，破解：成功地解决难题或问题。例如: "[We](/zh/post/we/) [finally](/zh/post/finally/) broke [the](/zh/post/the/) [code](/zh/post/code/)."
+5. 停止说话，换话题：在谈话中暂停或改变主题。例如: "I [think](/zh/post/think/) it's [time](/zh/post/time/) [to](/zh/post/to/) [break](/zh/post/break/) [and](/zh/post/and/) [talk](/zh/post/talk/) [about](/zh/post/about/) [something](/zh/post/something/) [else](/zh/post/else/)."
 
 - **名词**:
-1. 休息：短暂的放松或休息时间。例如: "[We](/post/we/) [need](/post/need/) [a](/post/a/) [short](/post/short/) [break](/post/break/) [from](/post/from/) [work](/post/work/)."
-2. 暴力破坏：通过暴力手段造成的损坏。例如: "[There](/post/there/) was [a](/post/a/) break-in [at](/post/at/) [the](/post/the/) [store](/post/store/) [last](/post/last/) [night](/post/night/)."
-3. 裂缝，破损处：物体上的裂缝或损坏的地方。例如: "There's [a](/post/a/) [small](/post/small/) [break](/post/break/) [in](/post/in/) [the](/post/the/) [vase](/post/vase/)."
+1. 休息：短暂的放松或休息时间。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [a](/zh/post/a/) [short](/zh/post/short/) [break](/zh/post/break/) [from](/zh/post/from/) [work](/zh/post/work/)."
+2. 暴力破坏：通过暴力手段造成的损坏。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) break-in [at](/zh/post/at/) [the](/zh/post/the/) [store](/zh/post/store/) [last](/zh/post/last/) [night](/zh/post/night/)."
+3. 裂缝，破损处：物体上的裂缝或损坏的地方。例如: "There's [a](/zh/post/a/) [small](/zh/post/small/) [break](/zh/post/break/) [in](/zh/post/in/) [the](/zh/post/the/) [vase](/zh/post/vase/)."
 
 ## 短语
-- "[break](/post/break/) [down](/post/down/)" 分解，崩溃：例如: "[The](/post/the/) [car](/post/car/) [suddenly](/post/suddenly/) broke [down](/post/down/) [on](/post/on/) [the](/post/the/) [highway](/post/highway/)."
-- "[break](/post/break/) [through](/post/through/)" 突破，取得进展：例如: "[They](/post/they/) [finally](/post/finally/) broke [through](/post/through/) [with](/post/with/) [a](/post/a/) [new](/post/new/) [medical](/post/medical/) [treatment](/post/treatment/)."
-- "[break](/post/break/) [out](/post/out/)" 爆发，突然发生：例如: "[A](/post/a/) [fire](/post/fire/) broke [out](/post/out/) [in](/post/in/) [the](/post/the/) [building](/post/building/)."
+- "[break](/zh/post/break/) [down](/zh/post/down/)" 分解，崩溃：例如: "[The](/zh/post/the/) [car](/zh/post/car/) [suddenly](/zh/post/suddenly/) broke [down](/zh/post/down/) [on](/zh/post/on/) [the](/zh/post/the/) [highway](/zh/post/highway/)."
+- "[break](/zh/post/break/) [through](/zh/post/through/)" 突破，取得进展：例如: "[They](/zh/post/they/) [finally](/zh/post/finally/) broke [through](/zh/post/through/) [with](/zh/post/with/) [a](/zh/post/a/) [new](/zh/post/new/) [medical](/zh/post/medical/) [treatment](/zh/post/treatment/)."
+- "[break](/zh/post/break/) [out](/zh/post/out/)" 爆发，突然发生：例如: "[A](/zh/post/a/) [fire](/zh/post/fire/) broke [out](/zh/post/out/) [in](/zh/post/in/) [the](/zh/post/the/) [building](/zh/post/building/)."
 
 ## 例句
-- 动词: "[He](/post/he/) carefully broke [the](/post/the/) eggshell [to](/post/to/) [make](/post/make/) an omelette."
-- 名词: "We're taking [a](/post/a/) [coffee](/post/coffee/) [break](/post/break/) [before](/post/before/) continuing [the](/post/the/) [meeting](/post/meeting/)."
-- 动词: "[The](/post/the/) [prisoner](/post/prisoner/) managed [to](/post/to/) [break](/post/break/) [free](/post/free/) [from](/post/from/) [his](/post/his/) handcuffs."
+- 动词: "[He](/zh/post/he/) carefully broke [the](/zh/post/the/) eggshell [to](/zh/post/to/) [make](/zh/post/make/) an omelette."
+- 名词: "We're taking [a](/zh/post/a/) [coffee](/zh/post/coffee/) [break](/zh/post/break/) [before](/zh/post/before/) continuing [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
+- 动词: "[The](/zh/post/the/) [prisoner](/zh/post/prisoner/) managed [to](/zh/post/to/) [break](/zh/post/break/) [free](/zh/post/free/) [from](/zh/post/from/) [his](/zh/post/his/) handcuffs."
 
 ## 同义词
-- [Split](/post/split/)
-- [Separate](/post/separate/)
+- [Split](/zh/post/split/)
+- [Separate](/zh/post/separate/)
 - Terminate
 - Disrupt
 - Violate

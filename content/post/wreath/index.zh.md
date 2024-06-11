@@ -11,20 +11,20 @@ keywords = ['ai words', 'wreath']
 /wriːθ/
 
 ## 释义
-- **名词**: 一圈花环、花冠或类似的装饰品，通常用于纪念、庆祝或装饰。例如: "[She](/post/she/) wore [a](/post/a/) [wreath](/post/wreath/) [of](/post/of/) flowers [in](/post/in/) [her](/post/her/) [hair](/post/hair/)."
-- **名词**: 形成环状的东西，如一团混乱或纠结。例如: "[The](/post/the/) wires formed [a](/post/a/) tangled [wreath](/post/wreath/) [behind](/post/behind/) [the](/post/the/) [desk](/post/desk/)."
+- **名词**: 一圈花环、花冠或类似的装饰品，通常用于纪念、庆祝或装饰。例如: "[She](/zh/post/she/) wore [a](/zh/post/a/) [wreath](/zh/post/wreath/) [of](/zh/post/of/) flowers [in](/zh/post/in/) [her](/zh/post/her/) [hair](/zh/post/hair/)."
+- **名词**: 形成环状的东西，如一团混乱或纠结。例如: "[The](/zh/post/the/) wires formed [a](/zh/post/a/) tangled [wreath](/zh/post/wreath/) [behind](/zh/post/behind/) [the](/zh/post/the/) [desk](/zh/post/desk/)."
 
 ## 短语
-- "[Wreath](/post/wreath/) [of](/post/of/) flowers" 指由花朵编织成的花环。
-- "Christmas [wreath](/post/wreath/)" 是一种用常绿植物、彩灯和装饰品做成的节日装饰品。
+- "[Wreath](/zh/post/wreath/) [of](/zh/post/of/) flowers" 指由花朵编织成的花环。
+- "Christmas [wreath](/zh/post/wreath/)" 是一种用常绿植物、彩灯和装饰品做成的节日装饰品。
 
 ## 例句
-- 名词: "[The](/post/the/) athletes were awarded [gold](/post/gold/) wreaths [for](/post/for/) [their](/post/their/) victories."
-- 名词: "[The](/post/the/) [front](/post/front/) [door](/post/door/) was adorned [with](/post/with/) [a](/post/a/) [beautiful](/post/beautiful/) Christmas [wreath](/post/wreath/)."
+- 名词: "[The](/zh/post/the/) athletes were awarded [gold](/zh/post/gold/) wreaths [for](/zh/post/for/) [their](/zh/post/their/) victories."
+- 名词: "[The](/zh/post/the/) [front](/zh/post/front/) [door](/zh/post/door/) was adorned [with](/zh/post/with/) [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) Christmas [wreath](/zh/post/wreath/)."
 
 ## 同义词
 - Garland
-- [Crown](/post/crown/)
-- [Circle](/post/circle/)
-- [Band](/post/band/)
+- [Crown](/zh/post/crown/)
+- [Circle](/zh/post/circle/)
+- [Band](/zh/post/band/)
 - Halo

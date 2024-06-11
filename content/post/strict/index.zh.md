@@ -11,20 +11,20 @@ keywords = ['ai words', 'strict']
 /strɪkt/
 
 ## 释义
-- **形容词**: 严格的，严谨的，不宽容的。例如: "[The](/post/the/) [teacher](/post/teacher/) has [a](/post/a/) [strict](/post/strict/) [policy](/post/policy/) [on](/post/on/) [late](/post/late/) assignments."
-- **副词**: 严格地，严密地。例如: "[She](/post/she/) follows [the](/post/the/) instructions [strictly](/post/strictly/)."
+- **形容词**: 严格的，严谨的，不宽容的。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) has [a](/zh/post/a/) [strict](/zh/post/strict/) [policy](/zh/post/policy/) [on](/zh/post/on/) [late](/zh/post/late/) assignments."
+- **副词**: 严格地，严密地。例如: "[She](/zh/post/she/) follows [the](/zh/post/the/) instructions [strictly](/zh/post/strictly/)."
 
 ## 短语
-- "[Be](/post/be/) [strict](/post/strict/) [with](/post/with/) sb." 意味着对某人要求严格。
-- "[Strict](/post/strict/) adherence [to](/post/to/) rules" 表示严格遵守规则。
+- "[Be](/zh/post/be/) [strict](/zh/post/strict/) [with](/zh/post/with/) sb." 意味着对某人要求严格。
+- "[Strict](/zh/post/strict/) adherence [to](/zh/post/to/) rules" 表示严格遵守规则。
 
 ## 例句
-- 形容词: "[The](/post/the/) [company](/post/company/) has [a](/post/a/) [strict](/post/strict/) [dress](/post/dress/) [code](/post/code/) [for](/post/for/) [its](/post/its/) employees."
-- 副词: "[The](/post/the/) [coach](/post/coach/) trains [his](/post/his/) athletes [strictly](/post/strictly/) [to](/post/to/) [ensure](/post/ensure/) [peak](/post/peak/) [performance](/post/performance/)."
+- 形容词: "[The](/zh/post/the/) [company](/zh/post/company/) has [a](/zh/post/a/) [strict](/zh/post/strict/) [dress](/zh/post/dress/) [code](/zh/post/code/) [for](/zh/post/for/) [its](/zh/post/its/) employees."
+- 副词: "[The](/zh/post/the/) [coach](/zh/post/coach/) trains [his](/zh/post/his/) athletes [strictly](/zh/post/strictly/) [to](/zh/post/to/) [ensure](/zh/post/ensure/) [peak](/zh/post/peak/) [performance](/zh/post/performance/)."
 
 ## 同义词
-- [Severe](/post/severe/)
+- [Severe](/zh/post/severe/)
 - Rigorous
 - Tight-laced
 - Uncompromising
-- [Stern](/post/stern/)
+- [Stern](/zh/post/stern/)

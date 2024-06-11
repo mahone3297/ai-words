@@ -7,26 +7,26 @@ description = '[ˈhɑːdli] ad.几乎不，简直不'
 keywords = ['ai words', 'hardly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhɑːrdli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: ([degree](/en/post/degree/)) [To](/en/post/to/) [a](/en/post/a/) [very](/en/post/very/) [small](/en/post/small/) [extent](/en/post/extent/); [almost](/en/post/almost/) [not](/en/post/not/) [at](/en/post/at/) [all](/en/post/all/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [could](/en/post/could/) [hardly](/en/post/hardly/) [hear](/en/post/hear/) [him](/en/post/him/) [over](/en/post/over/) [the](/en/post/the/) [noise](/en/post/noise/)."
-  - **(modal)** [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is [difficult](/en/post/difficult/) [to](/en/post/to/) [do](/en/post/do/) [or](/en/post/or/) happens [only](/en/post/only/) [with](/en/post/with/) [great](/en/post/great/) [difficulty](/en/post/difficulty/). [For](/en/post/for/) [example](/en/post/example/): "I [could](/en/post/could/) [hardly](/en/post/hardly/) [believe](/en/post/believe/) [my](/en/post/my/) eyes [when](/en/post/when/) I [saw](/en/post/saw/) [the](/en/post/the/) [news](/en/post/news/)."
+- **[Adverb](/post/adverb/)**: ([degree](/post/degree/)) [To](/post/to/) [a](/post/a/) [very](/post/very/) [small](/post/small/) [extent](/post/extent/); [almost](/post/almost/) [not](/post/not/) [at](/post/at/) [all](/post/all/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [could](/post/could/) [hardly](/post/hardly/) [hear](/post/hear/) [him](/post/him/) [over](/post/over/) [the](/post/the/) [noise](/post/noise/)."
+  - **(modal)** [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is [difficult](/post/difficult/) [to](/post/to/) [do](/post/do/) [or](/post/or/) happens [only](/post/only/) [with](/post/with/) [great](/post/great/) [difficulty](/post/difficulty/). [For](/post/for/) [example](/post/example/): "I [could](/post/could/) [hardly](/post/hardly/) [believe](/post/believe/) [my](/post/my/) eyes [when](/post/when/) I [saw](/post/saw/) [the](/post/the/) [news](/post/news/)."
 
 ## Phrases
-- "[Hardly](/en/post/hardly/) [ever](/en/post/ever/)": [This](/en/post/this/) [means](/en/post/means/) [almost](/en/post/almost/) [never](/en/post/never/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [hardly](/en/post/hardly/) [ever](/en/post/ever/) goes [out](/en/post/out/) [on](/en/post/on/) weekends."
-- "[Hardly](/en/post/hardly/) had...[when](/en/post/when/)": [This](/en/post/this/) [construction](/en/post/construction/) is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [two](/en/post/two/) actions happening [in](/en/post/in/) [quick](/en/post/quick/) [succession](/en/post/succession/), [often](/en/post/often/) emphasizing [the](/en/post/the/) immediacy [of](/en/post/of/) [the](/en/post/the/) [second](/en/post/second/) [action](/en/post/action/) [after](/en/post/after/) [the](/en/post/the/) [first](/en/post/first/) [one](/en/post/one/). [Example](/en/post/example/): "[Hardly](/en/post/hardly/) had I sat [down](/en/post/down/) [when](/en/post/when/) [the](/en/post/the/) [phone](/en/post/phone/) rang."
+- "[Hardly](/post/hardly/) [ever](/post/ever/)": [This](/post/this/) [means](/post/means/) [almost](/post/almost/) [never](/post/never/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [hardly](/post/hardly/) [ever](/post/ever/) goes [out](/post/out/) [on](/post/on/) weekends."
+- "[Hardly](/post/hardly/) had...[when](/post/when/)": [This](/post/this/) [construction](/post/construction/) is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [two](/post/two/) actions happening [in](/post/in/) [quick](/post/quick/) [succession](/post/succession/), [often](/post/often/) emphasizing [the](/post/the/) immediacy [of](/post/of/) [the](/post/the/) [second](/post/second/) [action](/post/action/) [after](/post/after/) [the](/post/the/) [first](/post/first/) [one](/post/one/). [Example](/post/example/): "[Hardly](/post/hardly/) had I sat [down](/post/down/) [when](/post/when/) [the](/post/the/) [phone](/post/phone/) rang."
   
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/) ([degree](/en/post/degree/))**: "[The](/en/post/the/) [storm](/en/post/storm/) was [so](/en/post/so/) [loud](/en/post/loud/) [that](/en/post/that/) [we](/en/post/we/) [could](/en/post/could/) [hardly](/en/post/hardly/) [sleep](/en/post/sleep/) [last](/en/post/last/) [night](/en/post/night/)."
-- **Modal**: "[He](/en/post/he/) had studied [for](/en/post/for/) weeks, [but](/en/post/but/) [he](/en/post/he/) [still](/en/post/still/) [found](/en/post/found/) [the](/en/post/the/) [exam](/en/post/exam/) questions [hard](/en/post/hard/) [to](/en/post/to/) [answer](/en/post/answer/); [he](/en/post/he/) [could](/en/post/could/) [hardly](/en/post/hardly/) [understand](/en/post/understand/) [some](/en/post/some/) [of](/en/post/of/) [them](/en/post/them/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/) ([degree](/post/degree/))**: "[The](/post/the/) [storm](/post/storm/) was [so](/post/so/) [loud](/post/loud/) [that](/post/that/) [we](/post/we/) [could](/post/could/) [hardly](/post/hardly/) [sleep](/post/sleep/) [last](/post/last/) [night](/post/night/)."
+- **Modal**: "[He](/post/he/) had studied [for](/post/for/) weeks, [but](/post/but/) [he](/post/he/) [still](/post/still/) [found](/post/found/) [the](/post/the/) [exam](/post/exam/) questions [hard](/post/hard/) [to](/post/to/) [answer](/post/answer/); [he](/post/he/) [could](/post/could/) [hardly](/post/hardly/) [understand](/post/understand/) [some](/post/some/) [of](/post/of/) [them](/post/them/)."
 
 ## Synonyms
 - Barely
-- [Scarcely](/en/post/scarcely/)
-- [Virtually](/en/post/virtually/) [not](/en/post/not/)
-- [Almost](/en/post/almost/) [not](/en/post/not/)
-- [Just](/en/post/just/) [about](/en/post/about/) [not](/en/post/not/)
-- [Not](/en/post/not/) [quite](/en/post/quite/)
-- [In](/en/post/in/) [no](/en/post/no/) [way](/en/post/way/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) '[not](/en/post/not/) [easily](/en/post/easily/)')
+- [Scarcely](/post/scarcely/)
+- [Virtually](/post/virtually/) [not](/post/not/)
+- [Almost](/post/almost/) [not](/post/not/)
+- [Just](/post/just/) [about](/post/about/) [not](/post/not/)
+- [Not](/post/not/) [quite](/post/quite/)
+- [In](/post/in/) [no](/post/no/) [way](/post/way/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) '[not](/post/not/) [easily](/post/easily/)')

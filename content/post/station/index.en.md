@@ -7,42 +7,42 @@ description = '[ˈstei∫ən] n.站，台，所，局'
 keywords = ['ai words', 'station']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stəˈʃn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) vehicles [stop](/en/post/stop/) [for](/en/post/for/) passengers [to](/en/post/to/) embark [or](/en/post/or/) disembark, [often](/en/post/often/) [with](/en/post/with/) facilities [for](/en/post/for/) [transportation](/en/post/transportation/) services: *[The](/en/post/the/) [train](/en/post/train/) [station](/en/post/station/) was bustling [with](/en/post/with/) travelers.*
-2. An [establishment](/en/post/establishment/) providing [communication](/en/post/communication/) [or](/en/post/or/) [broadcast](/en/post/broadcast/) services: *[Radio](/en/post/radio/) [and](/en/post/and/) [television](/en/post/television/) stations.*
-3. [A](/en/post/a/) fixed [location](/en/post/location/) [where](/en/post/where/) [equipment](/en/post/equipment/) [or](/en/post/or/) machinery is installed: *[A](/en/post/a/) [power](/en/post/power/) [station](/en/post/station/), [a](/en/post/a/) [police](/en/post/police/) [station](/en/post/station/).*
-4. (Computing) [A](/en/post/a/) software [component](/en/post/component/) [that](/en/post/that/) manages [a](/en/post/a/) [particular](/en/post/particular/) [function](/en/post/function/), [like](/en/post/like/) [a](/en/post/a/) web server [or](/en/post/or/) printer [driver](/en/post/driver/).
-5. ([Mathematics](/en/post/mathematics/)) [A](/en/post/a/) [point](/en/post/point/) [on](/en/post/on/) [a](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) [curve](/en/post/curve/), [or](/en/post/or/) [a](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) [such](/en/post/such/) points.
+### [Noun](/post/noun/)
+1. [A](/post/a/) [place](/post/place/) [where](/post/where/) vehicles [stop](/post/stop/) [for](/post/for/) passengers [to](/post/to/) embark [or](/post/or/) disembark, [often](/post/often/) [with](/post/with/) facilities [for](/post/for/) [transportation](/post/transportation/) services: *[The](/post/the/) [train](/post/train/) [station](/post/station/) was bustling [with](/post/with/) travelers.*
+2. An [establishment](/post/establishment/) providing [communication](/post/communication/) [or](/post/or/) [broadcast](/post/broadcast/) services: *[Radio](/post/radio/) [and](/post/and/) [television](/post/television/) stations.*
+3. [A](/post/a/) fixed [location](/post/location/) [where](/post/where/) [equipment](/post/equipment/) [or](/post/or/) machinery is installed: *[A](/post/a/) [power](/post/power/) [station](/post/station/), [a](/post/a/) [police](/post/police/) [station](/post/station/).*
+4. (Computing) [A](/post/a/) software [component](/post/component/) [that](/post/that/) manages [a](/post/a/) [particular](/post/particular/) [function](/post/function/), [like](/post/like/) [a](/post/a/) web server [or](/post/or/) printer [driver](/post/driver/).
+5. ([Mathematics](/post/mathematics/)) [A](/post/a/) [point](/post/point/) [on](/post/on/) [a](/post/a/) [line](/post/line/) [or](/post/or/) [curve](/post/curve/), [or](/post/or/) [a](/post/a/) [set](/post/set/) [of](/post/of/) [such](/post/such/) points.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [set](/en/post/set/) [up](/en/post/up/) [or](/en/post/or/) [establish](/en/post/establish/) [a](/en/post/a/) [station](/en/post/station/): *[They](/en/post/they/) stationed [a](/en/post/a/) [guard](/en/post/guard/) [at](/en/post/at/) [the](/en/post/the/) [entrance](/en/post/entrance/).*
-2. [To](/en/post/to/) [place](/en/post/place/) [or](/en/post/or/) [put](/en/post/put/) [something](/en/post/something/) [in](/en/post/in/) [position](/en/post/position/): *[She](/en/post/she/) stationed [the](/en/post/the/) chairs [in](/en/post/in/) [a](/en/post/a/) [row](/en/post/row/).*
-3. (Nautical) [To](/en/post/to/) [anchor](/en/post/anchor/) [a](/en/post/a/) [ship](/en/post/ship/) [or](/en/post/or/) [aircraft](/en/post/aircraft/): *[The](/en/post/the/) [ship](/en/post/ship/) was stationed [off](/en/post/off/) [the](/en/post/the/) [coast](/en/post/coast/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [set](/post/set/) [up](/post/up/) [or](/post/or/) [establish](/post/establish/) [a](/post/a/) [station](/post/station/): *[They](/post/they/) stationed [a](/post/a/) [guard](/post/guard/) [at](/post/at/) [the](/post/the/) [entrance](/post/entrance/).*
+2. [To](/post/to/) [place](/post/place/) [or](/post/or/) [put](/post/put/) [something](/post/something/) [in](/post/in/) [position](/post/position/): *[She](/post/she/) stationed [the](/post/the/) chairs [in](/post/in/) [a](/post/a/) [row](/post/row/).*
+3. (Nautical) [To](/post/to/) [anchor](/post/anchor/) [a](/post/a/) [ship](/post/ship/) [or](/post/or/) [aircraft](/post/aircraft/): *[The](/post/the/) [ship](/post/ship/) was stationed [off](/post/off/) [the](/post/the/) [coast](/post/coast/).*
 
 ## Phrases
-- "[At](/en/post/at/) [the](/en/post/the/) [station](/en/post/station/)" refers [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [location](/en/post/location/), [like](/en/post/like/) [a](/en/post/a/) [train](/en/post/train/) [or](/en/post/or/) [bus](/en/post/bus/) [stop](/en/post/stop/).
-- "[Take](/en/post/take/) [the](/en/post/the/) [station](/en/post/station/)" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [use](/en/post/use/) [public](/en/post/public/) [transportation](/en/post/transportation/) [or](/en/post/or/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [stop](/en/post/stop/).
-- "Switching stations" is [a](/en/post/a/) metaphor [for](/en/post/for/) changing jobs [or](/en/post/or/) roles.
+- "[At](/post/at/) [the](/post/the/) [station](/post/station/)" refers [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [location](/post/location/), [like](/post/like/) [a](/post/a/) [train](/post/train/) [or](/post/or/) [bus](/post/bus/) [stop](/post/stop/).
+- "[Take](/post/take/) [the](/post/the/) [station](/post/station/)" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [use](/post/use/) [public](/post/public/) [transportation](/post/transportation/) [or](/post/or/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [stop](/post/stop/).
+- "Switching stations" is [a](/post/a/) metaphor [for](/post/for/) changing jobs [or](/post/or/) roles.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I arrived [at](/en/post/at/) [the](/en/post/the/) [station](/en/post/station/) [early](/en/post/early/) [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [morning](/en/post/morning/) [train](/en/post/train/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) volunteers were stationed [at](/en/post/at/) [each](/en/post/each/) [exit](/en/post/exit/) [to](/en/post/to/) [help](/en/post/help/) customers."
-- **Transitive [Verb](/en/post/verb/)**: "[The](/en/post/the/) [satellite](/en/post/satellite/) was stationed [above](/en/post/above/) [the](/en/post/the/) equator [to](/en/post/to/) [provide](/en/post/provide/) global coverage."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I arrived [at](/post/at/) [the](/post/the/) [station](/post/station/) [early](/post/early/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [morning](/post/morning/) [train](/post/train/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) volunteers were stationed [at](/post/at/) [each](/post/each/) [exit](/post/exit/) [to](/post/to/) [help](/post/help/) customers."
+- **Transitive [Verb](/post/verb/)**: "[The](/post/the/) [satellite](/post/satellite/) was stationed [above](/post/above/) [the](/post/the/) equator [to](/post/to/) [provide](/post/provide/) global coverage."
 
 ## Synonyms
 - Depot
-- [Terminal](/en/post/terminal/)
-- [Stop](/en/post/stop/)
+- [Terminal](/post/terminal/)
+- [Stop](/post/stop/)
 - Hub
 - Outpost
-- [Post](/en/post/post/)
-- [Facility](/en/post/facility/)
+- [Post](/post/post/)
+- [Facility](/post/facility/)
 
 ## Antonyms
-- [Move](/en/post/move/)
-- [Travel](/en/post/travel/)
-- [Departure](/en/post/departure/)
+- [Move](/post/move/)
+- [Travel](/post/travel/)
+- [Departure](/post/departure/)

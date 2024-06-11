@@ -7,42 +7,42 @@ description = '[ˈbrɔːdkɑːst] n.广播，播音'
 keywords = ['ai words', 'broadcast']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bˈrɒdkɑːst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Broadcast](/en/post/broadcast/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) transmitting [or](/en/post/or/) sending [out](/en/post/out/) [radio](/en/post/radio/), [television](/en/post/television/), [or](/en/post/or/) [other](/en/post/other/) [electronic](/en/post/electronic/) signals [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [audience](/en/post/audience/) simultaneously.
-   - [Definition](/en/post/definition/): [The](/en/post/the/) [program](/en/post/program/) [or](/en/post/or/) [content](/en/post/content/) [that](/en/post/that/) is transmitted [over](/en/post/over/) [the](/en/post/the/) airwaves [or](/en/post/or/) [through](/en/post/through/) [digital](/en/post/digital/) platforms.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [news](/en/post/news/) [will](/en/post/will/) [be](/en/post/be/) [broadcast](/en/post/broadcast/) [on](/en/post/on/) [all](/en/post/all/) [major](/en/post/major/) channels [tonight](/en/post/tonight/)."
+### [Noun](/post/noun/)
+1. **[Broadcast](/post/broadcast/)** ([noun](/post/noun/)): [The](/post/the/) [act](/post/act/) [of](/post/of/) transmitting [or](/post/or/) sending [out](/post/out/) [radio](/post/radio/), [television](/post/television/), [or](/post/or/) [other](/post/other/) [electronic](/post/electronic/) signals [to](/post/to/) [a](/post/a/) [large](/post/large/) [audience](/post/audience/) simultaneously.
+   - [Definition](/post/definition/): [The](/post/the/) [program](/post/program/) [or](/post/or/) [content](/post/content/) [that](/post/that/) is transmitted [over](/post/over/) [the](/post/the/) airwaves [or](/post/or/) [through](/post/through/) [digital](/post/digital/) platforms.
+   - [Example](/post/example/): "[The](/post/the/) [news](/post/news/) [will](/post/will/) [be](/post/be/) [broadcast](/post/broadcast/) [on](/post/on/) [all](/post/all/) [major](/post/major/) channels [tonight](/post/tonight/)."
 
-2. **Broadcasting** ([noun](/en/post/noun/)): [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) producing [and](/en/post/and/) transmitting [content](/en/post/content/) [for](/en/post/for/) [public](/en/post/public/) [reception](/en/post/reception/), [often](/en/post/often/) [via](/en/post/via/) [radio](/en/post/radio/), [television](/en/post/television/), [or](/en/post/or/) [the](/en/post/the/) internet.
-   - [Definition](/en/post/definition/): [The](/en/post/the/) [method](/en/post/method/) [by](/en/post/by/) [which](/en/post/which/) audio [or](/en/post/or/) [video](/en/post/video/) [content](/en/post/content/) is sent [out](/en/post/out/) [to](/en/post/to/) [a](/en/post/a/) [wide](/en/post/wide/) [audience](/en/post/audience/).
-   - [Example](/en/post/example/): "[Radio](/en/post/radio/) broadcasting has been [a](/en/post/a/) staple [of](/en/post/of/) entertainment [for](/en/post/for/) decades."
+2. **Broadcasting** ([noun](/post/noun/)): [The](/post/the/) [process](/post/process/) [of](/post/of/) producing [and](/post/and/) transmitting [content](/post/content/) [for](/post/for/) [public](/post/public/) [reception](/post/reception/), [often](/post/often/) [via](/post/via/) [radio](/post/radio/), [television](/post/television/), [or](/post/or/) [the](/post/the/) internet.
+   - [Definition](/post/definition/): [The](/post/the/) [method](/post/method/) [by](/post/by/) [which](/post/which/) audio [or](/post/or/) [video](/post/video/) [content](/post/content/) is sent [out](/post/out/) [to](/post/to/) [a](/post/a/) [wide](/post/wide/) [audience](/post/audience/).
+   - [Example](/post/example/): "[Radio](/post/radio/) broadcasting has been [a](/post/a/) staple [of](/post/of/) entertainment [for](/post/for/) decades."
 
-### [Verb](/en/post/verb/)
-1. **[Broadcast](/en/post/broadcast/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [transmit](/en/post/transmit/) [or](/en/post/or/) [send](/en/post/send/) [out](/en/post/out/) ([a](/en/post/a/) [program](/en/post/program/), [signal](/en/post/signal/), [or](/en/post/or/) [information](/en/post/information/)) [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [audience](/en/post/audience/), [often](/en/post/often/) electronically.
-   - [Definition](/en/post/definition/): [To](/en/post/to/) [air](/en/post/air/) [a](/en/post/a/) [show](/en/post/show/), [announce](/en/post/announce/), [or](/en/post/or/) [make](/en/post/make/) [something](/en/post/something/) [available](/en/post/available/) [to](/en/post/to/) [many](/en/post/many/) listeners [or](/en/post/or/) viewers.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [station](/en/post/station/) [will](/en/post/will/) [broadcast](/en/post/broadcast/) [a](/en/post/a/) [live](/en/post/live/) [concert](/en/post/concert/) [next](/en/post/next/) [week](/en/post/week/)."
+### [Verb](/post/verb/)
+1. **[Broadcast](/post/broadcast/)** ([verb](/post/verb/)): [To](/post/to/) [transmit](/post/transmit/) [or](/post/or/) [send](/post/send/) [out](/post/out/) ([a](/post/a/) [program](/post/program/), [signal](/post/signal/), [or](/post/or/) [information](/post/information/)) [to](/post/to/) [a](/post/a/) [large](/post/large/) [audience](/post/audience/), [often](/post/often/) electronically.
+   - [Definition](/post/definition/): [To](/post/to/) [air](/post/air/) [a](/post/a/) [show](/post/show/), [announce](/post/announce/), [or](/post/or/) [make](/post/make/) [something](/post/something/) [available](/post/available/) [to](/post/to/) [many](/post/many/) listeners [or](/post/or/) viewers.
+   - [Example](/post/example/): "[The](/post/the/) [station](/post/station/) [will](/post/will/) [broadcast](/post/broadcast/) [a](/post/a/) [live](/post/live/) [concert](/post/concert/) [next](/post/next/) [week](/post/week/)."
 
-2. **[To](/en/post/to/) [broadcast](/en/post/broadcast/) [oneself](/en/post/oneself/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [share](/en/post/share/) one's thoughts, opinions, [or](/en/post/or/) activities publicly, [often](/en/post/often/) [through](/en/post/through/) [social](/en/post/social/) media [or](/en/post/or/) online platforms.
-   - [Definition](/en/post/definition/): [To](/en/post/to/) [put](/en/post/put/) [out](/en/post/out/) [content](/en/post/content/) [or](/en/post/or/) messages [for](/en/post/for/) others [to](/en/post/to/) [see](/en/post/see/) [or](/en/post/or/) [hear](/en/post/hear/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) [regularly](/en/post/regularly/) broadcasts [her](/en/post/her/) fitness [journey](/en/post/journey/) [on](/en/post/on/) Instagram."
+2. **[To](/post/to/) [broadcast](/post/broadcast/) [oneself](/post/oneself/)** ([verb](/post/verb/)): [To](/post/to/) [share](/post/share/) one's thoughts, opinions, [or](/post/or/) activities publicly, [often](/post/often/) [through](/post/through/) [social](/post/social/) media [or](/post/or/) online platforms.
+   - [Definition](/post/definition/): [To](/post/to/) [put](/post/put/) [out](/post/out/) [content](/post/content/) [or](/post/or/) messages [for](/post/for/) others [to](/post/to/) [see](/post/see/) [or](/post/or/) [hear](/post/hear/).
+   - [Example](/post/example/): "[She](/post/she/) [regularly](/post/regularly/) broadcasts [her](/post/her/) fitness [journey](/post/journey/) [on](/post/on/) Instagram."
 
 ## Phrases
-- "[Broadcast](/en/post/broadcast/) [news](/en/post/news/)" refers [to](/en/post/to/) televised [or](/en/post/or/) [radio](/en/post/radio/) [news](/en/post/news/) reports.
-- "[Live](/en/post/live/) [broadcast](/en/post/broadcast/)" [means](/en/post/means/) [a](/en/post/a/) [transmission](/en/post/transmission/) happening [in](/en/post/in/) real-time.
-- "Scheduled [broadcast](/en/post/broadcast/)" is [a](/en/post/a/) planned [program](/en/post/program/) airing [at](/en/post/at/) [a](/en/post/a/) [specific](/en/post/specific/) [time](/en/post/time/).
+- "[Broadcast](/post/broadcast/) [news](/post/news/)" refers [to](/post/to/) televised [or](/post/or/) [radio](/post/radio/) [news](/post/news/) reports.
+- "[Live](/post/live/) [broadcast](/post/broadcast/)" [means](/post/means/) [a](/post/a/) [transmission](/post/transmission/) happening [in](/post/in/) real-time.
+- "Scheduled [broadcast](/post/broadcast/)" is [a](/post/a/) planned [program](/post/program/) airing [at](/post/at/) [a](/post/a/) [specific](/post/specific/) [time](/post/time/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [annual](/en/post/annual/) marathon was [broadcast](/en/post/broadcast/) [live](/en/post/live/) [across](/en/post/across/) [the](/en/post/the/) [country](/en/post/country/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [radio](/en/post/radio/) [station](/en/post/station/) decided [to](/en/post/to/) [broadcast](/en/post/broadcast/) [a](/en/post/a/) [new](/en/post/new/) podcast [series](/en/post/series/)."
-- **[To](/en/post/to/) [broadcast](/en/post/broadcast/)**: "[He](/en/post/he/) [will](/en/post/will/) [broadcast](/en/post/broadcast/) [his](/en/post/his/) thoughts [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/) [on](/en/post/on/) [the](/en/post/the/) [local](/en/post/local/) [radio](/en/post/radio/) [show](/en/post/show/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [annual](/post/annual/) marathon was [broadcast](/post/broadcast/) [live](/post/live/) [across](/post/across/) [the](/post/the/) [country](/post/country/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [radio](/post/radio/) [station](/post/station/) decided [to](/post/to/) [broadcast](/post/broadcast/) [a](/post/a/) [new](/post/new/) podcast [series](/post/series/)."
+- **[To](/post/to/) [broadcast](/post/broadcast/)**: "[He](/post/he/) [will](/post/will/) [broadcast](/post/broadcast/) [his](/post/his/) thoughts [on](/post/on/) [climate](/post/climate/) [change](/post/change/) [on](/post/on/) [the](/post/the/) [local](/post/local/) [radio](/post/radio/) [show](/post/show/)."
 
 ## Synonyms
-- [Air](/en/post/air/) ([broadcast](/en/post/broadcast/))
-- [Transmit](/en/post/transmit/)
-- [Broadcast](/en/post/broadcast/) [out](/en/post/out/)
-- [Stream](/en/post/stream/)
-- Airwave [transmission](/en/post/transmission/)
-- [Public](/en/post/public/) dissemination
+- [Air](/post/air/) ([broadcast](/post/broadcast/))
+- [Transmit](/post/transmit/)
+- [Broadcast](/post/broadcast/) [out](/post/out/)
+- [Stream](/post/stream/)
+- Airwave [transmission](/post/transmission/)
+- [Public](/post/public/) dissemination

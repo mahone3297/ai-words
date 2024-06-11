@@ -7,40 +7,40 @@ description = '[ləud] vt.装；装满 n.负载'
 keywords = ['ai words', 'load']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /loʊd/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-- [The](/en/post/the/) [quantity](/en/post/quantity/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) carried, held, [or](/en/post/or/) contained [by](/en/post/by/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), [container](/en/post/container/), [or](/en/post/or/) [space](/en/post/space/): _"[The](/en/post/the/) truck's carrying [capacity](/en/post/capacity/) was exceeded [by](/en/post/by/) [its](/en/post/its/) [heavy](/en/post/heavy/) [load](/en/post/load/)."_
-- [Work](/en/post/work/) [or](/en/post/or/) tasks assigned [to](/en/post/to/) [someone](/en/post/someone/); [a](/en/post/a/) [burden](/en/post/burden/) [or](/en/post/or/) [responsibility](/en/post/responsibility/): _"[She](/en/post/she/) took [on](/en/post/on/) an [extra](/en/post/extra/) [load](/en/post/load/) [of](/en/post/of/) [work](/en/post/work/) [this](/en/post/this/) [week](/en/post/week/)."_
-- [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [electric](/en/post/electric/) [power](/en/post/power/) [or](/en/post/or/) [current](/en/post/current/) [that](/en/post/that/) [a](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [system](/en/post/system/) [can](/en/post/can/) [handle](/en/post/handle/): _"[The](/en/post/the/) [generator](/en/post/generator/) couldn't [cope](/en/post/cope/) [with](/en/post/with/) [the](/en/post/the/) increased [load](/en/post/load/) [on](/en/post/on/) [the](/en/post/the/) grid."_
-- [A](/en/post/a/) firearm projectile [or](/en/post/or/) [the](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) ammunition [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) loaded [into](/en/post/into/) [a](/en/post/a/) [gun](/en/post/gun/) [at](/en/post/at/) [one](/en/post/one/) [time](/en/post/time/): _"[He](/en/post/he/) reloaded [his](/en/post/his/) shotgun [with](/en/post/with/) [another](/en/post/another/) [shell](/en/post/shell/)."_
-- [Data](/en/post/data/) [or](/en/post/or/) software programs [being](/en/post/being/) processed [or](/en/post/or/) transmitted [by](/en/post/by/) [a](/en/post/a/) [computer](/en/post/computer/): _"[The](/en/post/the/) server had [trouble](/en/post/trouble/) handling [the](/en/post/the/) [sudden](/en/post/sudden/) [increase](/en/post/increase/) [in](/en/post/in/) [network](/en/post/network/) [traffic](/en/post/traffic/) [load](/en/post/load/)."_
+### [Noun](/post/noun/) (n)
+- [The](/post/the/) [quantity](/post/quantity/) [that](/post/that/) [can](/post/can/) [be](/post/be/) carried, held, [or](/post/or/) contained [by](/post/by/) [a](/post/a/) [vehicle](/post/vehicle/), [container](/post/container/), [or](/post/or/) [space](/post/space/): _"[The](/post/the/) truck's carrying [capacity](/post/capacity/) was exceeded [by](/post/by/) [its](/post/its/) [heavy](/post/heavy/) [load](/post/load/)."_
+- [Work](/post/work/) [or](/post/or/) tasks assigned [to](/post/to/) [someone](/post/someone/); [a](/post/a/) [burden](/post/burden/) [or](/post/or/) [responsibility](/post/responsibility/): _"[She](/post/she/) took [on](/post/on/) an [extra](/post/extra/) [load](/post/load/) [of](/post/of/) [work](/post/work/) [this](/post/this/) [week](/post/week/)."_
+- [The](/post/the/) [amount](/post/amount/) [of](/post/of/) [electric](/post/electric/) [power](/post/power/) [or](/post/or/) [current](/post/current/) [that](/post/that/) [a](/post/a/) [device](/post/device/) [or](/post/or/) [system](/post/system/) [can](/post/can/) [handle](/post/handle/): _"[The](/post/the/) [generator](/post/generator/) couldn't [cope](/post/cope/) [with](/post/with/) [the](/post/the/) increased [load](/post/load/) [on](/post/on/) [the](/post/the/) grid."_
+- [A](/post/a/) firearm projectile [or](/post/or/) [the](/post/the/) [amount](/post/amount/) [of](/post/of/) ammunition [that](/post/that/) [can](/post/can/) [be](/post/be/) loaded [into](/post/into/) [a](/post/a/) [gun](/post/gun/) [at](/post/at/) [one](/post/one/) [time](/post/time/): _"[He](/post/he/) reloaded [his](/post/his/) shotgun [with](/post/with/) [another](/post/another/) [shell](/post/shell/)."_
+- [Data](/post/data/) [or](/post/or/) software programs [being](/post/being/) processed [or](/post/or/) transmitted [by](/post/by/) [a](/post/a/) [computer](/post/computer/): _"[The](/post/the/) server had [trouble](/post/trouble/) handling [the](/post/the/) [sudden](/post/sudden/) [increase](/post/increase/) [in](/post/in/) [network](/post/network/) [traffic](/post/traffic/) [load](/post/load/)."_
 
-### [Verb](/en/post/verb/) (v)
-- [To](/en/post/to/) [place](/en/post/place/) [something](/en/post/something/) [onto](/en/post/onto/) [or](/en/post/or/) [into](/en/post/into/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), [container](/en/post/container/), [or](/en/post/or/) [space](/en/post/space/) [for](/en/post/for/) [transportation](/en/post/transportation/) [or](/en/post/or/) [storage](/en/post/storage/): _"[We](/en/post/we/) loaded [the](/en/post/the/) boxes [into](/en/post/into/) [the](/en/post/the/) [van](/en/post/van/)."_
-- [To](/en/post/to/) [put](/en/post/put/) [or](/en/post/or/) [install](/en/post/install/) software [or](/en/post/or/) [data](/en/post/data/) [onto](/en/post/onto/) [a](/en/post/a/) [computer](/en/post/computer/) [or](/en/post/or/) [device](/en/post/device/): _"I [need](/en/post/need/) [to](/en/post/to/) [load](/en/post/load/) [the](/en/post/the/) [new](/en/post/new/) app [onto](/en/post/onto/) [my](/en/post/my/) [phone](/en/post/phone/)."_
-- [To](/en/post/to/) [supply](/en/post/supply/) [or](/en/post/or/) [charge](/en/post/charge/) [a](/en/post/a/) [weapon](/en/post/weapon/) [with](/en/post/with/) ammunition: _"[He](/en/post/he/) loaded [the](/en/post/the/) [rifle](/en/post/rifle/) carefully [before](/en/post/before/) aiming [at](/en/post/at/) [the](/en/post/the/) [target](/en/post/target/)."_
-- [To](/en/post/to/) [impose](/en/post/impose/) [a](/en/post/a/) [burden](/en/post/burden/) [or](/en/post/or/) [responsibility](/en/post/responsibility/) [on](/en/post/on/) [someone](/en/post/someone/): _"[The](/en/post/the/) [boss](/en/post/boss/) loaded [him](/en/post/him/) [with](/en/post/with/) [extra](/en/post/extra/) tasks."_
-- [To](/en/post/to/) [fill](/en/post/fill/) [something](/en/post/something/) [with](/en/post/with/) [power](/en/post/power/) [or](/en/post/or/) [energy](/en/post/energy/): _"[The](/en/post/the/) dynamo loaded [the](/en/post/the/) [battery](/en/post/battery/) [with](/en/post/with/) [electricity](/en/post/electricity/)."_
+### [Verb](/post/verb/) (v)
+- [To](/post/to/) [place](/post/place/) [something](/post/something/) [onto](/post/onto/) [or](/post/or/) [into](/post/into/) [a](/post/a/) [vehicle](/post/vehicle/), [container](/post/container/), [or](/post/or/) [space](/post/space/) [for](/post/for/) [transportation](/post/transportation/) [or](/post/or/) [storage](/post/storage/): _"[We](/post/we/) loaded [the](/post/the/) boxes [into](/post/into/) [the](/post/the/) [van](/post/van/)."_
+- [To](/post/to/) [put](/post/put/) [or](/post/or/) [install](/post/install/) software [or](/post/or/) [data](/post/data/) [onto](/post/onto/) [a](/post/a/) [computer](/post/computer/) [or](/post/or/) [device](/post/device/): _"I [need](/post/need/) [to](/post/to/) [load](/post/load/) [the](/post/the/) [new](/post/new/) app [onto](/post/onto/) [my](/post/my/) [phone](/post/phone/)."_
+- [To](/post/to/) [supply](/post/supply/) [or](/post/or/) [charge](/post/charge/) [a](/post/a/) [weapon](/post/weapon/) [with](/post/with/) ammunition: _"[He](/post/he/) loaded [the](/post/the/) [rifle](/post/rifle/) carefully [before](/post/before/) aiming [at](/post/at/) [the](/post/the/) [target](/post/target/)."_
+- [To](/post/to/) [impose](/post/impose/) [a](/post/a/) [burden](/post/burden/) [or](/post/or/) [responsibility](/post/responsibility/) [on](/post/on/) [someone](/post/someone/): _"[The](/post/the/) [boss](/post/boss/) loaded [him](/post/him/) [with](/post/with/) [extra](/post/extra/) tasks."_
+- [To](/post/to/) [fill](/post/fill/) [something](/post/something/) [with](/post/with/) [power](/post/power/) [or](/post/or/) [energy](/post/energy/): _"[The](/post/the/) dynamo loaded [the](/post/the/) [battery](/post/battery/) [with](/post/with/) [electricity](/post/electricity/)."_
 
 ### Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [load](/en/post/load/) [off](/en/post/off/)": [To](/en/post/to/) [rest](/en/post/rest/) [or](/en/post/or/) [relax](/en/post/relax/), [often](/en/post/often/) [by](/en/post/by/) sitting [down](/en/post/down/) [after](/en/post/after/) standing [or](/en/post/or/) working [for](/en/post/for/) [a](/en/post/a/) [long](/en/post/long/) [period](/en/post/period/).
-- "[Bear](/en/post/bear/) [the](/en/post/the/) [load](/en/post/load/)": [To](/en/post/to/) [endure](/en/post/endure/) [or](/en/post/or/) [manage](/en/post/manage/) [a](/en/post/a/) [heavy](/en/post/heavy/) workload [or](/en/post/or/) [responsibility](/en/post/responsibility/).
-- "[Under](/en/post/under/) [load](/en/post/load/)": [When](/en/post/when/) [a](/en/post/a/) [system](/en/post/system/), [machine](/en/post/machine/), [or](/en/post/or/) [person](/en/post/person/) is operating [at](/en/post/at/) [or](/en/post/or/) [near](/en/post/near/) [full](/en/post/full/) [capacity](/en/post/capacity/) [or](/en/post/or/) [under](/en/post/under/) [stress](/en/post/stress/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) demands placed [upon](/en/post/upon/) [it](/en/post/it/).
+- "[Take](/post/take/) [a](/post/a/) [load](/post/load/) [off](/post/off/)": [To](/post/to/) [rest](/post/rest/) [or](/post/or/) [relax](/post/relax/), [often](/post/often/) [by](/post/by/) sitting [down](/post/down/) [after](/post/after/) standing [or](/post/or/) working [for](/post/for/) [a](/post/a/) [long](/post/long/) [period](/post/period/).
+- "[Bear](/post/bear/) [the](/post/the/) [load](/post/load/)": [To](/post/to/) [endure](/post/endure/) [or](/post/or/) [manage](/post/manage/) [a](/post/a/) [heavy](/post/heavy/) workload [or](/post/or/) [responsibility](/post/responsibility/).
+- "[Under](/post/under/) [load](/post/load/)": [When](/post/when/) [a](/post/a/) [system](/post/system/), [machine](/post/machine/), [or](/post/or/) [person](/post/person/) is operating [at](/post/at/) [or](/post/or/) [near](/post/near/) [full](/post/full/) [capacity](/post/capacity/) [or](/post/or/) [under](/post/under/) [stress](/post/stress/) [due](/post/due/) [to](/post/to/) [the](/post/the/) demands placed [upon](/post/upon/) [it](/post/it/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [plane](/en/post/plane/) [could](/en/post/could/) [not](/en/post/not/) [take](/en/post/take/) [off](/en/post/off/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [excessive](/en/post/excessive/) [baggage](/en/post/baggage/) [load](/en/post/load/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) loaded [the](/en/post/the/) dishwasher [with](/en/post/with/) [dirty](/en/post/dirty/) dishes."
-- **[Verb](/en/post/verb/) ([as](/en/post/as/) [burden](/en/post/burden/))**: "[His](/en/post/his/) shoulders [bore](/en/post/bore/) [the](/en/post/the/) [load](/en/post/load/) [of](/en/post/of/) supporting [his](/en/post/his/) [family](/en/post/family/) financially."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [plane](/post/plane/) [could](/post/could/) [not](/post/not/) [take](/post/take/) [off](/post/off/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [excessive](/post/excessive/) [baggage](/post/baggage/) [load](/post/load/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) loaded [the](/post/the/) dishwasher [with](/post/with/) [dirty](/post/dirty/) dishes."
+- **[Verb](/post/verb/) ([as](/post/as/) [burden](/post/burden/))**: "[His](/post/his/) shoulders [bore](/post/bore/) [the](/post/the/) [load](/post/load/) [of](/post/of/) supporting [his](/post/his/) [family](/post/family/) financially."
 
 ## Synonyms
-- [Cargo](/en/post/cargo/)
-- [Burden](/en/post/burden/)
-- [Weight](/en/post/weight/)
-- [Charge](/en/post/charge/)
+- [Cargo](/post/cargo/)
+- [Burden](/post/burden/)
+- [Weight](/post/weight/)
+- [Charge](/post/charge/)
 - Payload
-- [Responsibility](/en/post/responsibility/) ([when](/en/post/when/) referring [to](/en/post/to/) tasks [or](/en/post/or/) burdens)
-- [Install](/en/post/install/) ([when](/en/post/when/) referring [to](/en/post/to/) software)
-- [Arm](/en/post/arm/) ([when](/en/post/when/) referring [to](/en/post/to/) weapons)
+- [Responsibility](/post/responsibility/) ([when](/post/when/) referring [to](/post/to/) tasks [or](/post/or/) burdens)
+- [Install](/post/install/) ([when](/post/when/) referring [to](/post/to/) software)
+- [Arm](/post/arm/) ([when](/post/when/) referring [to](/post/to/) weapons)

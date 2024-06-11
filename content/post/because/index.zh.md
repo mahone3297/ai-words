@@ -11,19 +11,19 @@ keywords = ['ai words', 'because']
 /bɪˈkəz/
 
 ## 释义
-- **连词**: 表示原因或理由。例如: "I'm [late](/post/late/) [because](/post/because/) [of](/post/of/) [the](/post/the/) [traffic](/post/traffic/)."
+- **连词**: 表示原因或理由。例如: "I'm [late](/zh/post/late/) [because](/zh/post/because/) [of](/zh/post/of/) [the](/zh/post/the/) [traffic](/zh/post/traffic/)."
 
 ## 短语
-- "[for](/post/for/) [the](/post/the/) [simple](/post/simple/) [reason](/post/reason/) [because](/post/because/)" 意为仅仅因为某个原因。
-- "[not](/post/not/) [because](/post/because/) [of](/post/of/), [but](/post/but/) [despite](/post/despite/)" 表示不是因为...，而是尽管...
+- "[for](/zh/post/for/) [the](/zh/post/the/) [simple](/zh/post/simple/) [reason](/zh/post/reason/) [because](/zh/post/because/)" 意为仅仅因为某个原因。
+- "[not](/zh/post/not/) [because](/zh/post/because/) [of](/zh/post/of/), [but](/zh/post/but/) [despite](/zh/post/despite/)" 表示不是因为...，而是尽管...
 
 ## 例句
-- "I couldn't [attend](/post/attend/) [the](/post/the/) [meeting](/post/meeting/) [because](/post/because/) I was [ill](/post/ill/)."
-- "[She](/post/she/) succeeded [not](/post/not/) [because](/post/because/) [of](/post/of/) [her](/post/her/) [wealth](/post/wealth/), [but](/post/but/) [because](/post/because/) [of](/post/of/) [her](/post/her/) [hard](/post/hard/) [work](/post/work/)."
+- "I couldn't [attend](/zh/post/attend/) [the](/zh/post/the/) [meeting](/zh/post/meeting/) [because](/zh/post/because/) I was [ill](/zh/post/ill/)."
+- "[She](/zh/post/she/) succeeded [not](/zh/post/not/) [because](/zh/post/because/) [of](/zh/post/of/) [her](/zh/post/her/) [wealth](/zh/post/wealth/), [but](/zh/post/but/) [because](/zh/post/because/) [of](/zh/post/of/) [her](/zh/post/her/) [hard](/zh/post/hard/) [work](/zh/post/work/)."
 
 ## 同义词
-- [since](/post/since/)
-- [as](/post/as/)
-- [for](/post/for/)
-- owing [to](/post/to/)
-- [due](/post/due/) [to](/post/to/)
+- [since](/zh/post/since/)
+- [as](/zh/post/as/)
+- [for](/zh/post/for/)
+- owing [to](/zh/post/to/)
+- [due](/zh/post/due/) [to](/zh/post/to/)

@@ -7,47 +7,47 @@ description = '[ˈʌpə] a.上面的；地位较高的'
 keywords = ['ai words', 'upper']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʌpər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [The](/en/post/the/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) is higher [in](/en/post/in/) [position](/en/post/position/) [or](/en/post/or/) [rank](/en/post/rank/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [upper](/en/post/upper/) [class](/en/post/class/) has [more](/en/post/more/) privileges [than](/en/post/than/) [the](/en/post/the/) [lower](/en/post/lower/) [class](/en/post/class/)."
-- **2.** [The](/en/post/the/) topmost [or](/en/post/or/) [superior](/en/post/superior/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [body](/en/post/body/) [or](/en/post/or/) [object](/en/post/object/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [upper](/en/post/upper/) [arm](/en/post/arm/) is [above](/en/post/above/) [the](/en/post/the/) [elbow](/en/post/elbow/)."
-- **3.** (informal) [A](/en/post/a/) higher-ranking [member](/en/post/member/) [or](/en/post/or/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "He's [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [upper](/en/post/upper/) [management](/en/post/management/) [team](/en/post/team/)."
-- **4.** (UK) [Upper](/en/post/upper/) [case](/en/post/case/) letters; uppercase. [For](/en/post/for/) [example](/en/post/example/): "[Type](/en/post/type/) [all](/en/post/all/) [proper](/en/post/proper/) nouns [in](/en/post/in/) [upper](/en/post/upper/) [case](/en/post/case/)."
+### [Noun](/post/noun/)
+- **1.** [The](/post/the/) [part](/post/part/) [of](/post/of/) [something](/post/something/) [that](/post/that/) is higher [in](/post/in/) [position](/post/position/) [or](/post/or/) [rank](/post/rank/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [upper](/post/upper/) [class](/post/class/) has [more](/post/more/) privileges [than](/post/than/) [the](/post/the/) [lower](/post/lower/) [class](/post/class/)."
+- **2.** [The](/post/the/) topmost [or](/post/or/) [superior](/post/superior/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [body](/post/body/) [or](/post/or/) [object](/post/object/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [upper](/post/upper/) [arm](/post/arm/) is [above](/post/above/) [the](/post/the/) [elbow](/post/elbow/)."
+- **3.** (informal) [A](/post/a/) higher-ranking [member](/post/member/) [or](/post/or/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "He's [one](/post/one/) [of](/post/of/) [the](/post/the/) [upper](/post/upper/) [management](/post/management/) [team](/post/team/)."
+- **4.** (UK) [Upper](/post/upper/) [case](/post/case/) letters; uppercase. [For](/post/for/) [example](/post/example/): "[Type](/post/type/) [all](/post/all/) [proper](/post/proper/) nouns [in](/post/in/) [upper](/post/upper/) [case](/post/case/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) elevate [or](/en/post/or/) [raise](/en/post/raise/) [to](/en/post/to/) [a](/en/post/a/) higher [position](/en/post/position/) [or](/en/post/or/) [level](/en/post/level/).** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) wants [to](/en/post/to/) [upper](/en/post/upper/) [its](/en/post/its/) [market](/en/post/market/) [share](/en/post/share/)."
-- **[To](/en/post/to/) [place](/en/post/place/) [or](/en/post/or/) [position](/en/post/position/) [at](/en/post/at/) [or](/en/post/or/) [near](/en/post/near/) [the](/en/post/the/) [top](/en/post/top/).** [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) uppered [her](/en/post/her/) [voice](/en/post/voice/) [to](/en/post/to/) [be](/en/post/be/) heard [over](/en/post/over/) [the](/en/post/the/) [noise](/en/post/noise/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) elevate [or](/post/or/) [raise](/post/raise/) [to](/post/to/) [a](/post/a/) higher [position](/post/position/) [or](/post/or/) [level](/post/level/).** [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) wants [to](/post/to/) [upper](/post/upper/) [its](/post/its/) [market](/post/market/) [share](/post/share/)."
+- **[To](/post/to/) [place](/post/place/) [or](/post/or/) [position](/post/position/) [at](/post/at/) [or](/post/or/) [near](/post/near/) [the](/post/the/) [top](/post/top/).** [For](/post/for/) [example](/post/example/): "[She](/post/she/) uppered [her](/post/her/) [voice](/post/voice/) [to](/post/to/) [be](/post/be/) heard [over](/post/over/) [the](/post/the/) [noise](/post/noise/)."
 
-### [Adjective](/en/post/adjective/)
-- **1.** Higher [in](/en/post/in/) [position](/en/post/position/) [or](/en/post/or/) [rank](/en/post/rank/). [For](/en/post/for/) [example](/en/post/example/): "An upper-level [position](/en/post/position/) [in](/en/post/in/) [the](/en/post/the/) [company](/en/post/company/)."
-- **2.** [Superior](/en/post/superior/) [in](/en/post/in/) [quality](/en/post/quality/) [or](/en/post/or/) [standard](/en/post/standard/). [For](/en/post/for/) [example](/en/post/example/): "An upper-class [apartment](/en/post/apartment/)."
-- **3.** Uppermost [or](/en/post/or/) highest. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [upper](/en/post/upper/) branches [of](/en/post/of/) [the](/en/post/the/) [tree](/en/post/tree/)."
-- **4.** Derived [from](/en/post/from/) [or](/en/post/or/) associated [with](/en/post/with/) [the](/en/post/the/) [upper](/en/post/upper/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [body](/en/post/body/). [For](/en/post/for/) [example](/en/post/example/): "[Upper](/en/post/upper/) [limb](/en/post/limb/) [strength](/en/post/strength/)."
+### [Adjective](/post/adjective/)
+- **1.** Higher [in](/post/in/) [position](/post/position/) [or](/post/or/) [rank](/post/rank/). [For](/post/for/) [example](/post/example/): "An upper-level [position](/post/position/) [in](/post/in/) [the](/post/the/) [company](/post/company/)."
+- **2.** [Superior](/post/superior/) [in](/post/in/) [quality](/post/quality/) [or](/post/or/) [standard](/post/standard/). [For](/post/for/) [example](/post/example/): "An upper-class [apartment](/post/apartment/)."
+- **3.** Uppermost [or](/post/or/) highest. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [upper](/post/upper/) branches [of](/post/of/) [the](/post/the/) [tree](/post/tree/)."
+- **4.** Derived [from](/post/from/) [or](/post/or/) associated [with](/post/with/) [the](/post/the/) [upper](/post/upper/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [body](/post/body/). [For](/post/for/) [example](/post/example/): "[Upper](/post/upper/) [limb](/post/limb/) [strength](/post/strength/)."
 
-### [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) [superior](/en/post/superior/) [manner](/en/post/manner/) [or](/en/post/or/) [to](/en/post/to/) [a](/en/post/a/) greater [extent](/en/post/extent/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) performed [better](/en/post/better/) [in](/en/post/in/) [the](/en/post/the/) [upper](/en/post/upper/) echelons [of](/en/post/of/) [the](/en/post/the/) [competition](/en/post/competition/)."
+### [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) [superior](/post/superior/) [manner](/post/manner/) [or](/post/or/) [to](/post/to/) [a](/post/a/) greater [extent](/post/extent/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) performed [better](/post/better/) [in](/post/in/) [the](/post/the/) [upper](/post/upper/) echelons [of](/post/of/) [the](/post/the/) [competition](/post/competition/)."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [upper](/en/post/upper/) echelons" refers [to](/en/post/to/) high-ranking positions [or](/en/post/or/) levels.
-- "[Upper](/en/post/upper/) [management](/en/post/management/)" denotes [those](/en/post/those/) [in](/en/post/in/) [charge](/en/post/charge/) [of](/en/post/of/) [a](/en/post/a/) [company](/en/post/company/) [or](/en/post/or/) [organization](/en/post/organization/).
-- "[Upper](/en/post/upper/) [limit](/en/post/limit/)" indicates [the](/en/post/the/) [maximum](/en/post/maximum/) [or](/en/post/or/) highest [value](/en/post/value/).
+- "[In](/post/in/) [the](/post/the/) [upper](/post/upper/) echelons" refers [to](/post/to/) high-ranking positions [or](/post/or/) levels.
+- "[Upper](/post/upper/) [management](/post/management/)" denotes [those](/post/those/) [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [a](/post/a/) [company](/post/company/) [or](/post/or/) [organization](/post/organization/).
+- "[Upper](/post/upper/) [limit](/post/limit/)" indicates [the](/post/the/) [maximum](/post/maximum/) [or](/post/or/) highest [value](/post/value/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [upper](/en/post/upper/) [deck](/en/post/deck/) [of](/en/post/of/) [the](/en/post/the/) [ship](/en/post/ship/) was [open](/en/post/open/) [to](/en/post/to/) visitors."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) uppered [their](/en/post/their/) prices [to](/en/post/to/) [compete](/en/post/compete/) [with](/en/post/with/) [the](/en/post/the/) [market](/en/post/market/) [leader](/en/post/leader/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [upper](/en/post/upper/) [class](/en/post/class/) receives [a](/en/post/a/) [better](/en/post/better/) [education](/en/post/education/) [than](/en/post/than/) [the](/en/post/the/) [lower](/en/post/lower/) [class](/en/post/class/)."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) singing skills are [truly](/en/post/truly/) upper-notch."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [upper](/post/upper/) [deck](/post/deck/) [of](/post/of/) [the](/post/the/) [ship](/post/ship/) was [open](/post/open/) [to](/post/to/) visitors."
+- **[Verb](/post/verb/)**: "[They](/post/they/) uppered [their](/post/their/) prices [to](/post/to/) [compete](/post/compete/) [with](/post/with/) [the](/post/the/) [market](/post/market/) [leader](/post/leader/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [upper](/post/upper/) [class](/post/class/) receives [a](/post/a/) [better](/post/better/) [education](/post/education/) [than](/post/than/) [the](/post/the/) [lower](/post/lower/) [class](/post/class/)."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) singing skills are [truly](/post/truly/) upper-notch."
 
 ## Synonyms
-- [Top](/en/post/top/)
+- [Top](/post/top/)
 - Higher
-- [Superior](/en/post/superior/)
+- [Superior](/post/superior/)
 - Elite
 -高端的
 - 高级的
 - 领先的
 
-*[Note](/en/post/note/): [The](/en/post/the/) [last](/en/post/last/) [two](/en/post/two/) entries are [in](/en/post/in/) Chinese, representing synonyms [for](/en/post/for/) [the](/en/post/the/) [word](/en/post/word/) "[upper](/en/post/upper/)" [when](/en/post/when/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [of](/en/post/of/) [high](/en/post/high/) [quality](/en/post/quality/) [or](/en/post/or/) [status](/en/post/status/).*
+*[Note](/post/note/): [The](/post/the/) [last](/post/last/) [two](/post/two/) entries are [in](/post/in/) Chinese, representing synonyms [for](/post/for/) [the](/post/the/) [word](/post/word/) "[upper](/post/upper/)" [when](/post/when/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [of](/post/of/) [high](/post/high/) [quality](/post/quality/) [or](/post/or/) [status](/post/status/).*

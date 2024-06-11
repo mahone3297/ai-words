@@ -7,30 +7,30 @@ description = '[ˈhevn] n.天堂；天，天空'
 keywords = ['ai words', 'heaven']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhevən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: ([often](/en/post/often/) capitalized) [The](/en/post/the/) [dwelling](/en/post/dwelling/) [place](/en/post/place/) [of](/en/post/of/) God, angels, [and](/en/post/and/) [the](/en/post/the/) souls [of](/en/post/of/) righteous [people](/en/post/people/) [after](/en/post/after/) [death](/en/post/death/); [the](/en/post/the/) [spiritual](/en/post/spiritual/) [realm](/en/post/realm/) [above](/en/post/above/) [the](/en/post/the/) [physical](/en/post/physical/) [world](/en/post/world/). [Example](/en/post/example/): "[They](/en/post/they/) believed [their](/en/post/their/) loved [one](/en/post/one/) had ascended [to](/en/post/to/) [heaven](/en/post/heaven/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [supreme](/en/post/supreme/) [happiness](/en/post/happiness/), bliss, [or](/en/post/or/) perfection; [often](/en/post/often/) [used](/en/post/used/) metaphorically. [Example](/en/post/example/): "[The](/en/post/the/) [beauty](/en/post/beauty/) [of](/en/post/of/) [that](/en/post/that/) [sunset](/en/post/sunset/) was [a](/en/post/a/) [little](/en/post/little/) [slice](/en/post/slice/) [of](/en/post/of/) [heaven](/en/post/heaven/)."
-- **[Noun](/en/post/noun/)**: (informal) [Something](/en/post/something/) [that](/en/post/that/) is [extremely](/en/post/extremely/) [good](/en/post/good/) [or](/en/post/or/) [desirable](/en/post/desirable/). [Example](/en/post/example/): "[This](/en/post/this/) [chocolate](/en/post/chocolate/) [cake](/en/post/cake/) is [heaven](/en/post/heaven/) [on](/en/post/on/) [a](/en/post/a/) [plate](/en/post/plate/)."
+- **[Noun](/post/noun/)**: ([often](/post/often/) capitalized) [The](/post/the/) [dwelling](/post/dwelling/) [place](/post/place/) [of](/post/of/) God, angels, [and](/post/and/) [the](/post/the/) souls [of](/post/of/) righteous [people](/post/people/) [after](/post/after/) [death](/post/death/); [the](/post/the/) [spiritual](/post/spiritual/) [realm](/post/realm/) [above](/post/above/) [the](/post/the/) [physical](/post/physical/) [world](/post/world/). [Example](/post/example/): "[They](/post/they/) believed [their](/post/their/) loved [one](/post/one/) had ascended [to](/post/to/) [heaven](/post/heaven/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [place](/post/place/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [supreme](/post/supreme/) [happiness](/post/happiness/), bliss, [or](/post/or/) perfection; [often](/post/often/) [used](/post/used/) metaphorically. [Example](/post/example/): "[The](/post/the/) [beauty](/post/beauty/) [of](/post/of/) [that](/post/that/) [sunset](/post/sunset/) was [a](/post/a/) [little](/post/little/) [slice](/post/slice/) [of](/post/of/) [heaven](/post/heaven/)."
+- **[Noun](/post/noun/)**: (informal) [Something](/post/something/) [that](/post/that/) is [extremely](/post/extremely/) [good](/post/good/) [or](/post/or/) [desirable](/post/desirable/). [Example](/post/example/): "[This](/post/this/) [chocolate](/post/chocolate/) [cake](/post/cake/) is [heaven](/post/heaven/) [on](/post/on/) [a](/post/a/) [plate](/post/plate/)."
 
 ## Phrases
-- "[Go](/en/post/go/) [to](/en/post/to/) [heaven](/en/post/heaven/)": [To](/en/post/to/) [pass](/en/post/pass/) [away](/en/post/away/) [and](/en/post/and/) [enter](/en/post/enter/) [the](/en/post/the/) afterlife [in](/en/post/in/) [a](/en/post/a/) [positive](/en/post/positive/) [sense](/en/post/sense/), implying [that](/en/post/that/) one's [soul](/en/post/soul/) [will](/en/post/will/) [be](/en/post/be/) rewarded [in](/en/post/in/) [the](/en/post/the/) heavenly [realm](/en/post/realm/).
-- "[Seventh](/en/post/seventh/) [heaven](/en/post/heaven/)": [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [intense](/en/post/intense/) [joy](/en/post/joy/) [or](/en/post/or/) bliss, [often](/en/post/often/) referring [to](/en/post/to/) [extreme](/en/post/extreme/) [happiness](/en/post/happiness/) [or](/en/post/or/) contentment.
-- "[Heaven](/en/post/heaven/) [forbid](/en/post/forbid/)": An [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [that](/en/post/that/) [one](/en/post/one/) hopes [something](/en/post/something/) undesirable does [not](/en/post/not/) [happen](/en/post/happen/). [Example](/en/post/example/): "[Heaven](/en/post/heaven/) [forbid](/en/post/forbid/) [we](/en/post/we/) [should](/en/post/should/) [be](/en/post/be/) [late](/en/post/late/) [for](/en/post/for/) [the](/en/post/the/) [wedding](/en/post/wedding/)."
+- "[Go](/post/go/) [to](/post/to/) [heaven](/post/heaven/)": [To](/post/to/) [pass](/post/pass/) [away](/post/away/) [and](/post/and/) [enter](/post/enter/) [the](/post/the/) afterlife [in](/post/in/) [a](/post/a/) [positive](/post/positive/) [sense](/post/sense/), implying [that](/post/that/) one's [soul](/post/soul/) [will](/post/will/) [be](/post/be/) rewarded [in](/post/in/) [the](/post/the/) heavenly [realm](/post/realm/).
+- "[Seventh](/post/seventh/) [heaven](/post/heaven/)": [A](/post/a/) [state](/post/state/) [of](/post/of/) [intense](/post/intense/) [joy](/post/joy/) [or](/post/or/) bliss, [often](/post/often/) referring [to](/post/to/) [extreme](/post/extreme/) [happiness](/post/happiness/) [or](/post/or/) contentment.
+- "[Heaven](/post/heaven/) [forbid](/post/forbid/)": An [expression](/post/expression/) [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [that](/post/that/) [one](/post/one/) hopes [something](/post/something/) undesirable does [not](/post/not/) [happen](/post/happen/). [Example](/post/example/): "[Heaven](/post/heaven/) [forbid](/post/forbid/) [we](/post/we/) [should](/post/should/) [be](/post/be/) [late](/post/late/) [for](/post/for/) [the](/post/the/) [wedding](/post/wedding/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([spiritual](/en/post/spiritual/) [realm](/en/post/realm/))**: "[In](/en/post/in/) [many](/en/post/many/) religions, it's believed [that](/en/post/that/) [those](/en/post/those/) [who](/en/post/who/) [live](/en/post/live/) virtuous lives [will](/en/post/will/) [go](/en/post/go/) [to](/en/post/to/) [heaven](/en/post/heaven/) [when](/en/post/when/) [they](/en/post/they/) [die](/en/post/die/)."
-- **[Noun](/en/post/noun/) (metaphorical)**: "[For](/en/post/for/) [him](/en/post/him/), spending [time](/en/post/time/) [with](/en/post/with/) [his](/en/post/his/) grandchildren was [like](/en/post/like/) [being](/en/post/being/) [in](/en/post/in/) [seventh](/en/post/seventh/) [heaven](/en/post/heaven/)."
-- **[Noun](/en/post/noun/) (informal)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [a](/en/post/a/) [hot](/en/post/hot/) [bath](/en/post/bath/) [and](/en/post/and/) [a](/en/post/a/) [glass](/en/post/glass/) [of](/en/post/of/) [wine](/en/post/wine/) were sheer [heaven](/en/post/heaven/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([spiritual](/post/spiritual/) [realm](/post/realm/))**: "[In](/post/in/) [many](/post/many/) religions, it's believed [that](/post/that/) [those](/post/those/) [who](/post/who/) [live](/post/live/) virtuous lives [will](/post/will/) [go](/post/go/) [to](/post/to/) [heaven](/post/heaven/) [when](/post/when/) [they](/post/they/) [die](/post/die/)."
+- **[Noun](/post/noun/) (metaphorical)**: "[For](/post/for/) [him](/post/him/), spending [time](/post/time/) [with](/post/with/) [his](/post/his/) grandchildren was [like](/post/like/) [being](/post/being/) [in](/post/in/) [seventh](/post/seventh/) [heaven](/post/heaven/)."
+- **[Noun](/post/noun/) (informal)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [a](/post/a/) [hot](/post/hot/) [bath](/post/bath/) [and](/post/and/) [a](/post/a/) [glass](/post/glass/) [of](/post/of/) [wine](/post/wine/) were sheer [heaven](/post/heaven/)."
 
 ## Synonyms
-- [Paradise](/en/post/paradise/)
+- [Paradise](/post/paradise/)
 - Elysium
 - Bliss
 - Utopia
 - Nirvana
-- Celestial [kingdom](/en/post/kingdom/)
-- [The](/en/post/the/) skies
-- [The](/en/post/the/) heavens
+- Celestial [kingdom](/post/kingdom/)
+- [The](/post/the/) skies
+- [The](/post/the/) heavens

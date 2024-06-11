@@ -7,30 +7,30 @@ description = '[iˈnʌf] a.足够的 ad.足够地'
 keywords = ['ai words', 'enough']
 +++
 
-## [Word](/en/post/word/): [Enough](/en/post/enough/)
+## [Word](/post/word/): [Enough](/post/enough/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈnʌf/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Sufficient](/en/post/sufficient/); [adequate](/en/post/adequate/) [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [or](/en/post/or/) needs; [as](/en/post/as/) [much](/en/post/much/) [or](/en/post/or/) [many](/en/post/many/) [as](/en/post/as/) required. [For](/en/post/for/) [example](/en/post/example/): "There's [enough](/en/post/enough/) [food](/en/post/food/) [for](/en/post/for/) [everyone](/en/post/everyone/)."
-  - "[We](/en/post/we/) [have](/en/post/have/) [enough](/en/post/enough/) [time](/en/post/time/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [the](/en/post/the/) [necessary](/en/post/necessary/) [degree](/en/post/degree/); [sufficiently](/en/post/sufficiently/). [Often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [negative](/en/post/negative/) sentences [or](/en/post/or/) questions [to](/en/post/to/) [express](/en/post/express/) [lack](/en/post/lack/) [or](/en/post/or/) insufficiency. [For](/en/post/for/) [example](/en/post/example/): "She's [not](/en/post/not/) [old](/en/post/old/) [enough](/en/post/enough/) [to](/en/post/to/) [drive](/en/post/drive/)."
-  - "[Have](/en/post/have/) [you](/en/post/you/) eaten [enough](/en/post/enough/)?"
+- **[Adjective](/post/adjective/)**: [Sufficient](/post/sufficient/); [adequate](/post/adequate/) [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [or](/post/or/) needs; [as](/post/as/) [much](/post/much/) [or](/post/or/) [many](/post/many/) [as](/post/as/) required. [For](/post/for/) [example](/post/example/): "There's [enough](/post/enough/) [food](/post/food/) [for](/post/for/) [everyone](/post/everyone/)."
+  - "[We](/post/we/) [have](/post/have/) [enough](/post/enough/) [time](/post/time/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/)."
+- **[Adverb](/post/adverb/)**: [To](/post/to/) [the](/post/the/) [necessary](/post/necessary/) [degree](/post/degree/); [sufficiently](/post/sufficiently/). [Often](/post/often/) [used](/post/used/) [in](/post/in/) [negative](/post/negative/) sentences [or](/post/or/) questions [to](/post/to/) [express](/post/express/) [lack](/post/lack/) [or](/post/or/) insufficiency. [For](/post/for/) [example](/post/example/): "She's [not](/post/not/) [old](/post/old/) [enough](/post/enough/) [to](/post/to/) [drive](/post/drive/)."
+  - "[Have](/post/have/) [you](/post/you/) eaten [enough](/post/enough/)?"
 
 ## Phrases
-- "[Enough](/en/post/enough/) is [enough](/en/post/enough/)" expresses [the](/en/post/the/) [feeling](/en/post/feeling/) [that](/en/post/that/) [a](/en/post/a/) [situation](/en/post/situation/) has reached [its](/en/post/its/) [limit](/en/post/limit/) [or](/en/post/or/) cannot [continue](/en/post/continue/) [any](/en/post/any/) longer.
-- "[To](/en/post/to/) [be](/en/post/be/) [more](/en/post/more/) [than](/en/post/than/) [enough](/en/post/enough/)" [means](/en/post/means/) [something](/en/post/something/) exceeds [what](/en/post/what/) is required [or](/en/post/or/) expected.
-- "[Enough](/en/post/enough/) said" implies [that](/en/post/that/) [the](/en/post/the/) [speaker](/en/post/speaker/) believes [they](/en/post/they/) [have](/en/post/have/) made [their](/en/post/their/) [point](/en/post/point/) [clearly](/en/post/clearly/) [and](/en/post/and/) [no](/en/post/no/) [further](/en/post/further/) [discussion](/en/post/discussion/) is needed.
+- "[Enough](/post/enough/) is [enough](/post/enough/)" expresses [the](/post/the/) [feeling](/post/feeling/) [that](/post/that/) [a](/post/a/) [situation](/post/situation/) has reached [its](/post/its/) [limit](/post/limit/) [or](/post/or/) cannot [continue](/post/continue/) [any](/post/any/) longer.
+- "[To](/post/to/) [be](/post/be/) [more](/post/more/) [than](/post/than/) [enough](/post/enough/)" [means](/post/means/) [something](/post/something/) exceeds [what](/post/what/) is required [or](/post/or/) expected.
+- "[Enough](/post/enough/) said" implies [that](/post/that/) [the](/post/the/) [speaker](/post/speaker/) believes [they](/post/they/) [have](/post/have/) made [their](/post/their/) [point](/post/point/) [clearly](/post/clearly/) [and](/post/and/) [no](/post/no/) [further](/post/further/) [discussion](/post/discussion/) is needed.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) raincoat wasn't [enough](/en/post/enough/) [to](/en/post/to/) [keep](/en/post/keep/) [him](/en/post/him/) [dry](/en/post/dry/) [in](/en/post/in/) [the](/en/post/the/) [heavy](/en/post/heavy/) downpour."
-- **[Adverb](/en/post/adverb/)**: "I've studied [hard](/en/post/hard/) [enough](/en/post/enough/) [to](/en/post/to/) [pass](/en/post/pass/) [the](/en/post/the/) [exam](/en/post/exam/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) raincoat wasn't [enough](/post/enough/) [to](/post/to/) [keep](/post/keep/) [him](/post/him/) [dry](/post/dry/) [in](/post/in/) [the](/post/the/) [heavy](/post/heavy/) downpour."
+- **[Adverb](/post/adverb/)**: "I've studied [hard](/post/hard/) [enough](/post/enough/) [to](/post/to/) [pass](/post/pass/) [the](/post/the/) [exam](/post/exam/)."
 
 ## Synonyms
-- [Adequate](/en/post/adequate/)
-- [Sufficient](/en/post/sufficient/)
+- [Adequate](/post/adequate/)
+- [Sufficient](/post/sufficient/)
 - Ample
-- [Plenty](/en/post/plenty/) (informal)
-- Enoughness ([noun](/en/post/noun/) [form](/en/post/form/)) – sufficiency, adequacy
-- [Too](/en/post/too/) [much](/en/post/much/) ([when](/en/post/when/) [used](/en/post/used/) [to](/en/post/to/) [mean](/en/post/mean/) exceeding [what](/en/post/what/) is needed)
+- [Plenty](/post/plenty/) (informal)
+- Enoughness ([noun](/post/noun/) [form](/post/form/)) – sufficiency, adequacy
+- [Too](/post/too/) [much](/post/much/) ([when](/post/when/) [used](/post/used/) [to](/post/to/) [mean](/post/mean/) exceeding [what](/post/what/) is needed)

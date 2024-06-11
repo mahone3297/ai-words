@@ -12,26 +12,26 @@ keywords = ['ai words', 'side']
 
 ## 释义
 - **名词**:
-  - 一边，一侧：例如 "[The](/post/the/) [house](/post/house/) has [a](/post/a/) [garden](/post/garden/) [on](/post/on/) [one](/post/one/) [side](/post/side/) [and](/post/and/) [a](/post/a/) [garage](/post/garage/) [on](/post/on/) [the](/post/the/) [other](/post/other/)."
-  - 面，方面：例如 "[We](/post/we/) [need](/post/need/) [to](/post/to/) [consider](/post/consider/) [all](/post/all/) sides [of](/post/of/) [the](/post/the/) [problem](/post/problem/)."
-  - 支持者，立场：例如 "He's [on](/post/on/) [the](/post/the/) [side](/post/side/) [of](/post/of/) [the](/post/the/) [government](/post/government/) [in](/post/in/) [this](/post/this/) [debate](/post/debate/)."
-  - 边缘，沿线：例如 "There's [a](/post/a/) [path](/post/path/) running [along](/post/along/) [the](/post/the/) [river](/post/river/) [side](/post/side/)."
+  - 一边，一侧：例如 "[The](/zh/post/the/) [house](/zh/post/house/) has [a](/zh/post/a/) [garden](/zh/post/garden/) [on](/zh/post/on/) [one](/zh/post/one/) [side](/zh/post/side/) [and](/zh/post/and/) [a](/zh/post/a/) [garage](/zh/post/garage/) [on](/zh/post/on/) [the](/zh/post/the/) [other](/zh/post/other/)."
+  - 面，方面：例如 "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [consider](/zh/post/consider/) [all](/zh/post/all/) sides [of](/zh/post/of/) [the](/zh/post/the/) [problem](/zh/post/problem/)."
+  - 支持者，立场：例如 "He's [on](/zh/post/on/) [the](/zh/post/the/) [side](/zh/post/side/) [of](/zh/post/of/) [the](/zh/post/the/) [government](/zh/post/government/) [in](/zh/post/in/) [this](/zh/post/this/) [debate](/zh/post/debate/)."
+  - 边缘，沿线：例如 "There's [a](/zh/post/a/) [path](/zh/post/path/) running [along](/zh/post/along/) [the](/zh/post/the/) [river](/zh/post/river/) [side](/zh/post/side/)."
 
 - **动词**:
-  - 站在（某人）一边：例如 "[She](/post/she/) [always](/post/always/) sides [with](/post/with/) [her](/post/her/) younger [brother](/post/brother/) [in](/post/in/) arguments."
+  - 站在（某人）一边：例如 "[She](/zh/post/she/) [always](/zh/post/always/) sides [with](/zh/post/with/) [her](/zh/post/her/) younger [brother](/zh/post/brother/) [in](/zh/post/in/) arguments."
 
 ## 短语
-- "[On](/post/on/) [both](/post/both/) sides" 意为在两边，例如 "[Traffic](/post/traffic/) was [heavy](/post/heavy/) [on](/post/on/) [both](/post/both/) sides [of](/post/of/) [the](/post/the/) [road](/post/road/)."
-- "[Take](/post/take/) sides" 意为支持一方，例如 "[In](/post/in/) [the](/post/the/) [argument](/post/argument/), [everyone](/post/everyone/) was asked [to](/post/to/) [take](/post/take/) sides."
-- "[Stand](/post/stand/) [by](/post/by/) one's [side](/post/side/)" 意为支持某人，例如 "[A](/post/a/) [true](/post/true/) [friend](/post/friend/) [will](/post/will/) [stand](/post/stand/) [by](/post/by/) [your](/post/your/) [side](/post/side/) [through](/post/through/) [thick](/post/thick/) [and](/post/and/) [thin](/post/thin/)."
+- "[On](/zh/post/on/) [both](/zh/post/both/) sides" 意为在两边，例如 "[Traffic](/zh/post/traffic/) was [heavy](/zh/post/heavy/) [on](/zh/post/on/) [both](/zh/post/both/) sides [of](/zh/post/of/) [the](/zh/post/the/) [road](/zh/post/road/)."
+- "[Take](/zh/post/take/) sides" 意为支持一方，例如 "[In](/zh/post/in/) [the](/zh/post/the/) [argument](/zh/post/argument/), [everyone](/zh/post/everyone/) was asked [to](/zh/post/to/) [take](/zh/post/take/) sides."
+- "[Stand](/zh/post/stand/) [by](/zh/post/by/) one's [side](/zh/post/side/)" 意为支持某人，例如 "[A](/zh/post/a/) [true](/zh/post/true/) [friend](/zh/post/friend/) [will](/zh/post/will/) [stand](/zh/post/stand/) [by](/zh/post/by/) [your](/zh/post/your/) [side](/zh/post/side/) [through](/zh/post/through/) [thick](/zh/post/thick/) [and](/zh/post/and/) [thin](/zh/post/thin/)."
 
 ## 例句
-- 名词: "[He](/post/he/) sat [down](/post/down/) [at](/post/at/) [the](/post/the/) [table](/post/table/), facing [the](/post/the/) [window](/post/window/) [on](/post/on/) [his](/post/his/) [right](/post/right/) [side](/post/side/)."
-- 动词: "[In](/post/in/) [the](/post/the/) [debate](/post/debate/), [most](/post/most/) [people](/post/people/) tended [to](/post/to/) [side](/post/side/) [with](/post/with/) [the](/post/the/) environmentalists."
+- 名词: "[He](/zh/post/he/) sat [down](/zh/post/down/) [at](/zh/post/at/) [the](/zh/post/the/) [table](/zh/post/table/), facing [the](/zh/post/the/) [window](/zh/post/window/) [on](/zh/post/on/) [his](/zh/post/his/) [right](/zh/post/right/) [side](/zh/post/side/)."
+- 动词: "[In](/zh/post/in/) [the](/zh/post/the/) [debate](/zh/post/debate/), [most](/zh/post/most/) [people](/zh/post/people/) tended [to](/zh/post/to/) [side](/zh/post/side/) [with](/zh/post/with/) [the](/zh/post/the/) environmentalists."
 
 ## 同义词
-- [Edge](/post/edge/)
-- [Face](/post/face/)
-- [Aspect](/post/aspect/)
-- [Position](/post/position/)
-- [Viewpoint](/post/viewpoint/)
+- [Edge](/zh/post/edge/)
+- [Face](/zh/post/face/)
+- [Aspect](/zh/post/aspect/)
+- [Position](/zh/post/position/)
+- [Viewpoint](/zh/post/viewpoint/)

@@ -7,32 +7,32 @@ description = '[ˈiːvl] n.邪恶；祸害 a.坏的'
 keywords = ['ai words', 'evil']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈiːvl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [or](/en/post/or/) showing [a](/en/post/a/) [desire](/en/post/desire/) [to](/en/post/to/) [do](/en/post/do/) [harm](/en/post/harm/) [to](/en/post/to/) others; morally [bad](/en/post/bad/) [or](/en/post/or/) [wrong](/en/post/wrong/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [evil](/en/post/evil/) sorcerer [cast](/en/post/cast/) [a](/en/post/a/) [dark](/en/post/dark/) [spell](/en/post/spell/) [on](/en/post/on/) [the](/en/post/the/) [village](/en/post/village/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) morally [wrong](/en/post/wrong/) [or](/en/post/or/) [wicked](/en/post/wicked/); wickedness. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) actions were motivated [by](/en/post/by/) [pure](/en/post/pure/) [evil](/en/post/evil/)."
-- **[Noun](/en/post/noun/) (archaic)**: Misfortune; [harm](/en/post/harm/); [something](/en/post/something/) [that](/en/post/that/) causes suffering [or](/en/post/or/) [hardship](/en/post/hardship/). [Example](/en/post/example/): "[Evil](/en/post/evil/) befell [the](/en/post/the/) [kingdom](/en/post/kingdom/) [when](/en/post/when/) [the](/en/post/the/) [curse](/en/post/curse/) was unleashed."
+- **[Adjective](/post/adjective/)**: Having [or](/post/or/) showing [a](/post/a/) [desire](/post/desire/) [to](/post/to/) [do](/post/do/) [harm](/post/harm/) [to](/post/to/) others; morally [bad](/post/bad/) [or](/post/or/) [wrong](/post/wrong/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [evil](/post/evil/) sorcerer [cast](/post/cast/) [a](/post/a/) [dark](/post/dark/) [spell](/post/spell/) [on](/post/on/) [the](/post/the/) [village](/post/village/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) morally [wrong](/post/wrong/) [or](/post/or/) [wicked](/post/wicked/); wickedness. [For](/post/for/) [example](/post/example/): "[His](/post/his/) actions were motivated [by](/post/by/) [pure](/post/pure/) [evil](/post/evil/)."
+- **[Noun](/post/noun/) (archaic)**: Misfortune; [harm](/post/harm/); [something](/post/something/) [that](/post/that/) causes suffering [or](/post/or/) [hardship](/post/hardship/). [Example](/post/example/): "[Evil](/post/evil/) befell [the](/post/the/) [kingdom](/post/kingdom/) [when](/post/when/) [the](/post/the/) [curse](/post/curse/) was unleashed."
 
 ## Phrases
-- "[Do](/en/post/do/) [no](/en/post/no/) [evil](/en/post/evil/)": [A](/en/post/a/) [moral](/en/post/moral/) [principle](/en/post/principle/) suggesting [one](/en/post/one/) [should](/en/post/should/) refrain [from](/en/post/from/) engaging [in](/en/post/in/) [harmful](/en/post/harmful/) acts.
-- "[The](/en/post/the/) lesser [of](/en/post/of/) [two](/en/post/two/) evils": Referring [to](/en/post/to/) choosing [between](/en/post/between/) [two](/en/post/two/) undesirable options, selecting [the](/en/post/the/) [one](/en/post/one/) considered [less](/en/post/less/) [harmful](/en/post/harmful/).
-- "[Fight](/en/post/fight/) [against](/en/post/against/) [evil](/en/post/evil/)": [Engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [struggle](/en/post/struggle/) [or](/en/post/or/) [campaign](/en/post/campaign/) [against](/en/post/against/) morally reprehensible acts [or](/en/post/or/) forces.
+- "[Do](/post/do/) [no](/post/no/) [evil](/post/evil/)": [A](/post/a/) [moral](/post/moral/) [principle](/post/principle/) suggesting [one](/post/one/) [should](/post/should/) refrain [from](/post/from/) engaging [in](/post/in/) [harmful](/post/harmful/) acts.
+- "[The](/post/the/) lesser [of](/post/of/) [two](/post/two/) evils": Referring [to](/post/to/) choosing [between](/post/between/) [two](/post/two/) undesirable options, selecting [the](/post/the/) [one](/post/one/) considered [less](/post/less/) [harmful](/post/harmful/).
+- "[Fight](/post/fight/) [against](/post/against/) [evil](/post/evil/)": [Engage](/post/engage/) [in](/post/in/) [a](/post/a/) [struggle](/post/struggle/) [or](/post/or/) [campaign](/post/campaign/) [against](/post/against/) morally reprehensible acts [or](/post/or/) forces.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [evil](/en/post/evil/) intentions were betrayed [by](/en/post/by/) [his](/en/post/his/) sinister [smile](/en/post/smile/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) couldn't comprehend [the](/en/post/the/) sheer [depth](/en/post/depth/) [of](/en/post/of/) [evil](/en/post/evil/) [that](/en/post/that/) resided [within](/en/post/within/) [him](/en/post/him/)."
-- **[Noun](/en/post/noun/) (archaic)**: "[They](/en/post/they/) believed [the](/en/post/the/) [drought](/en/post/drought/) was an [evil](/en/post/evil/) sent [by](/en/post/by/) [the](/en/post/the/) gods."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [evil](/post/evil/) intentions were betrayed [by](/post/by/) [his](/post/his/) sinister [smile](/post/smile/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) couldn't comprehend [the](/post/the/) sheer [depth](/post/depth/) [of](/post/of/) [evil](/post/evil/) [that](/post/that/) resided [within](/post/within/) [him](/post/him/)."
+- **[Noun](/post/noun/) (archaic)**: "[They](/post/they/) believed [the](/post/the/) [drought](/post/drought/) was an [evil](/post/evil/) sent [by](/post/by/) [the](/post/the/) gods."
 
 ## Synonyms
-- [Wicked](/en/post/wicked/)
+- [Wicked](/post/wicked/)
 - Malicious
 - Sinister
 - Nefarious
 - Villainous
-- [Unjust](/en/post/unjust/)
+- [Unjust](/post/unjust/)
 - Immoral
 - Wrongdoing
 - Misfortune
-- [Harm](/en/post/harm/)
+- [Harm](/post/harm/)

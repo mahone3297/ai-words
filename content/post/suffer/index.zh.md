@@ -12,22 +12,22 @@ keywords = ['ai words', 'suffer']
 
 ## 释义
 - **动词**:
-  1. 经受（痛苦、苦难或困难）：例如: "[She](/post/she/) had [to](/post/to/) [suffer](/post/suffer/) [through](/post/through/) [a](/post/a/) [long](/post/long/) [illness](/post/illness/)."
-  2. 遭受（损失、失败或惩罚）：例如: "[The](/post/the/) [company](/post/company/) suffered [huge](/post/huge/) [financial](/post/financial/) losses [last](/post/last/) [year](/post/year/)."
-  3. 忍受（不愉快的事物或人）：例如: "I can't [stand](/post/stand/) [this](/post/this/) [noise](/post/noise/); I [have](/post/have/) [to](/post/to/) [suffer](/post/suffer/) [it](/post/it/) [every](/post/every/) [day](/post/day/)."
+  1. 经受（痛苦、苦难或困难）：例如: "[She](/zh/post/she/) had [to](/zh/post/to/) [suffer](/zh/post/suffer/) [through](/zh/post/through/) [a](/zh/post/a/) [long](/zh/post/long/) [illness](/zh/post/illness/)."
+  2. 遭受（损失、失败或惩罚）：例如: "[The](/zh/post/the/) [company](/zh/post/company/) suffered [huge](/zh/post/huge/) [financial](/zh/post/financial/) losses [last](/zh/post/last/) [year](/zh/post/year/)."
+  3. 忍受（不愉快的事物或人）：例如: "I can't [stand](/zh/post/stand/) [this](/zh/post/this/) [noise](/zh/post/noise/); I [have](/zh/post/have/) [to](/zh/post/to/) [suffer](/zh/post/suffer/) [it](/zh/post/it/) [every](/zh/post/every/) [day](/zh/post/day/)."
 
 ## 短语
-- "[Suffer](/post/suffer/) [from](/post/from/)" 意为遭受…之苦，患病：例如: "[Many](/post/many/) [people](/post/people/) [suffer](/post/suffer/) [from](/post/from/) allergies [during](/post/during/) [spring](/post/spring/)."
-- "[Suffer](/post/suffer/) [the](/post/the/) consequences" 意味承受后果：例如: "[If](/post/if/) [you](/post/you/) don't [study](/post/study/), you'll [suffer](/post/suffer/) [the](/post/the/) consequences [in](/post/in/) [the](/post/the/) [exam](/post/exam/)."
+- "[Suffer](/zh/post/suffer/) [from](/zh/post/from/)" 意为遭受…之苦，患病：例如: "[Many](/zh/post/many/) [people](/zh/post/people/) [suffer](/zh/post/suffer/) [from](/zh/post/from/) allergies [during](/zh/post/during/) [spring](/zh/post/spring/)."
+- "[Suffer](/zh/post/suffer/) [the](/zh/post/the/) consequences" 意味承受后果：例如: "[If](/zh/post/if/) [you](/zh/post/you/) don't [study](/zh/post/study/), you'll [suffer](/zh/post/suffer/) [the](/zh/post/the/) consequences [in](/zh/post/in/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
 
 ## 例句
-- 动词: "[He](/post/he/) was forced [to](/post/to/) [suffer](/post/suffer/) [the](/post/the/) embarrassment [of](/post/of/) [public](/post/public/) [criticism](/post/criticism/)."
-- "[She](/post/she/) is suffering [from](/post/from/) [severe](/post/severe/) headaches [recently](/post/recently/)."
-- "[Those](/post/those/) [who](/post/who/) [break](/post/break/) [the](/post/the/) [law](/post/law/) [must](/post/must/) [suffer](/post/suffer/) [the](/post/the/) consequences."
+- 动词: "[He](/zh/post/he/) was forced [to](/zh/post/to/) [suffer](/zh/post/suffer/) [the](/zh/post/the/) embarrassment [of](/zh/post/of/) [public](/zh/post/public/) [criticism](/zh/post/criticism/)."
+- "[She](/zh/post/she/) is suffering [from](/zh/post/from/) [severe](/zh/post/severe/) headaches [recently](/zh/post/recently/)."
+- "[Those](/zh/post/those/) [who](/zh/post/who/) [break](/zh/post/break/) [the](/zh/post/the/) [law](/zh/post/law/) [must](/zh/post/must/) [suffer](/zh/post/suffer/) [the](/zh/post/the/) consequences."
 
 ## 同义词
-- [Endure](/post/endure/)
-- [Bear](/post/bear/)
-- [Tolerate](/post/tolerate/)
-- [Put](/post/put/) [up](/post/up/) [with](/post/with/)
-- [Experience](/post/experience/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [hardship](/post/hardship/) [or](/post/or/) [pain](/post/pain/))
+- [Endure](/zh/post/endure/)
+- [Bear](/zh/post/bear/)
+- [Tolerate](/zh/post/tolerate/)
+- [Put](/zh/post/put/) [up](/zh/post/up/) [with](/zh/post/with/)
+- [Experience](/zh/post/experience/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [hardship](/zh/post/hardship/) [or](/zh/post/or/) [pain](/zh/post/pain/))

@@ -7,33 +7,33 @@ description = '[ˈliːvə] n.杆，杠杆；控制杆'
 keywords = ['ai words', 'lever']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlevər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [bar](/en/post/bar/) [or](/en/post/or/) [rigid](/en/post/rigid/) [piece](/en/post/piece/) [that](/en/post/that/) pivots [on](/en/post/on/) [a](/en/post/a/) fulcrum, typically [used](/en/post/used/) [to](/en/post/to/) [move](/en/post/move/) an [object](/en/post/object/) [by](/en/post/by/) applying [force](/en/post/force/) [at](/en/post/at/) [one](/en/post/one/) [end](/en/post/end/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) pulled [the](/en/post/the/) [lever](/en/post/lever/) [to](/en/post/to/) [start](/en/post/start/) [the](/en/post/the/) [machine](/en/post/machine/)."
-  - **Metaphorical [usage](/en/post/usage/)**: [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [means](/en/post/means/) [of](/en/post/of/) [control](/en/post/control/) [or](/en/post/or/) [influence](/en/post/influence/), [such](/en/post/such/) [as](/en/post/as/) "[The](/en/post/the/) [power](/en/post/power/) [to](/en/post/to/) [raise](/en/post/raise/) taxes is [a](/en/post/a/) [political](/en/post/political/) [lever](/en/post/lever/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [bar](/post/bar/) [or](/post/or/) [rigid](/post/rigid/) [piece](/post/piece/) [that](/post/that/) pivots [on](/post/on/) [a](/post/a/) fulcrum, typically [used](/post/used/) [to](/post/to/) [move](/post/move/) an [object](/post/object/) [by](/post/by/) applying [force](/post/force/) [at](/post/at/) [one](/post/one/) [end](/post/end/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) pulled [the](/post/the/) [lever](/post/lever/) [to](/post/to/) [start](/post/start/) [the](/post/the/) [machine](/post/machine/)."
+  - **Metaphorical [usage](/post/usage/)**: [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [means](/post/means/) [of](/post/of/) [control](/post/control/) [or](/post/or/) [influence](/post/influence/), [such](/post/such/) [as](/post/as/) "[The](/post/the/) [power](/post/power/) [to](/post/to/) [raise](/post/raise/) taxes is [a](/post/a/) [political](/post/political/) [lever](/post/lever/)."
 
-[Example](/en/post/example/) sentences:
-- **[Noun](/en/post/noun/) ([physical](/en/post/physical/) [object](/en/post/object/))**: "[The](/en/post/the/) [operator](/en/post/operator/) had [to](/en/post/to/) manually [operate](/en/post/operate/) [the](/en/post/the/) levers [to](/en/post/to/) [control](/en/post/control/) [the](/en/post/the/) [steam](/en/post/steam/) [engine](/en/post/engine/)."
-- **[Noun](/en/post/noun/) (metaphorical)**: "[Education](/en/post/education/) is [often](/en/post/often/) seen [as](/en/post/as/) [a](/en/post/a/) [lever](/en/post/lever/) [to](/en/post/to/) [lift](/en/post/lift/) [people](/en/post/people/) [out](/en/post/out/) [of](/en/post/of/) [poverty](/en/post/poverty/)."
+[Example](/post/example/) sentences:
+- **[Noun](/post/noun/) ([physical](/post/physical/) [object](/post/object/))**: "[The](/post/the/) [operator](/post/operator/) had [to](/post/to/) manually [operate](/post/operate/) [the](/post/the/) levers [to](/post/to/) [control](/post/control/) [the](/post/the/) [steam](/post/steam/) [engine](/post/engine/)."
+- **[Noun](/post/noun/) (metaphorical)**: "[Education](/post/education/) is [often](/post/often/) seen [as](/post/as/) [a](/post/a/) [lever](/post/lever/) [to](/post/to/) [lift](/post/lift/) [people](/post/people/) [out](/post/out/) [of](/post/of/) [poverty](/post/poverty/)."
 
 ## Phrases
-- "[Pull](/en/post/pull/) [the](/en/post/the/) [lever](/en/post/lever/)" – [to](/en/post/to/) activate [or](/en/post/or/) initiate [something](/en/post/something/) [by](/en/post/by/) using [a](/en/post/a/) [lever](/en/post/lever/).
-- "Leverage" – using [something](/en/post/something/) [to](/en/post/to/) [its](/en/post/its/) [maximum](/en/post/maximum/) [advantage](/en/post/advantage/) [or](/en/post/or/) [to](/en/post/to/) [exert](/en/post/exert/) [influence](/en/post/influence/); e.g., "[They](/en/post/they/) leveraged [their](/en/post/their/) expertise [to](/en/post/to/) [secure](/en/post/secure/) funding."
+- "[Pull](/post/pull/) [the](/post/the/) [lever](/post/lever/)" – [to](/post/to/) activate [or](/post/or/) initiate [something](/post/something/) [by](/post/by/) using [a](/post/a/) [lever](/post/lever/).
+- "Leverage" – using [something](/post/something/) [to](/post/to/) [its](/post/its/) [maximum](/post/maximum/) [advantage](/post/advantage/) [or](/post/or/) [to](/post/to/) [exert](/post/exert/) [influence](/post/influence/); e.g., "[They](/post/they/) leveraged [their](/post/their/) expertise [to](/post/to/) [secure](/post/secure/) funding."
 
 ## Synonyms
-- [Handle](/en/post/handle/)
-- [Control](/en/post/control/)
-- [Switch](/en/post/switch/)
+- [Handle](/post/handle/)
+- [Control](/post/control/)
+- [Switch](/post/switch/)
 - Tackle
 - Mechanism
-- [Tool](/en/post/tool/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) controlling [or](/en/post/or/) influencing)
+- [Tool](/post/tool/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) controlling [or](/post/or/) influencing)
   
 ## Derived terms & idioms
-- "[Level](/en/post/level/) [the](/en/post/the/) playing [field](/en/post/field/)" – [to](/en/post/to/) [make](/en/post/make/) conditions [equal](/en/post/equal/) [between](/en/post/between/) competitors [or](/en/post/or/) participants, metaphorically referring [to](/en/post/to/) adjusting [a](/en/post/a/) [physical](/en/post/physical/) [lever](/en/post/lever/) [to](/en/post/to/) [balance](/en/post/balance/) [a](/en/post/a/) [surface](/en/post/surface/).
-- "Leverage" – [both](/en/post/both/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [meaning](/en/post/meaning/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) borrowed funds [to](/en/post/to/) [increase](/en/post/increase/) [the](/en/post/the/) [return](/en/post/return/) [on](/en/post/on/) an [investment](/en/post/investment/), [and](/en/post/and/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [meaning](/en/post/meaning/) [to](/en/post/to/) [utilize](/en/post/utilize/) [something](/en/post/something/) [to](/en/post/to/) [its](/en/post/its/) greatest [effect](/en/post/effect/) [or](/en/post/or/) [gain](/en/post/gain/) an [advantage](/en/post/advantage/). 
+- "[Level](/post/level/) [the](/post/the/) playing [field](/post/field/)" – [to](/post/to/) [make](/post/make/) conditions [equal](/post/equal/) [between](/post/between/) competitors [or](/post/or/) participants, metaphorically referring [to](/post/to/) adjusting [a](/post/a/) [physical](/post/physical/) [lever](/post/lever/) [to](/post/to/) [balance](/post/balance/) [a](/post/a/) [surface](/post/surface/).
+- "Leverage" – [both](/post/both/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [meaning](/post/meaning/) [the](/post/the/) [use](/post/use/) [of](/post/of/) borrowed funds [to](/post/to/) [increase](/post/increase/) [the](/post/the/) [return](/post/return/) [on](/post/on/) an [investment](/post/investment/), [and](/post/and/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [meaning](/post/meaning/) [to](/post/to/) [utilize](/post/utilize/) [something](/post/something/) [to](/post/to/) [its](/post/its/) greatest [effect](/post/effect/) [or](/post/or/) [gain](/post/gain/) an [advantage](/post/advantage/). 
 
-## [Example](/en/post/example/) Sentences
-- **[Physical](/en/post/physical/) [lever](/en/post/lever/)**: "[She](/en/post/she/) pushed [down](/en/post/down/) [hard](/en/post/hard/) [on](/en/post/on/) [the](/en/post/the/) [lever](/en/post/lever/) [to](/en/post/to/) [open](/en/post/open/) [the](/en/post/the/) [heavy](/en/post/heavy/) [door](/en/post/door/)."
-- **Metaphorical [usage](/en/post/usage/)**: "[His](/en/post/his/) [experience](/en/post/experience/) working [in](/en/post/in/) [finance](/en/post/finance/) gave [him](/en/post/him/) [considerable](/en/post/considerable/) leverage [when](/en/post/when/) negotiating deals."
+## [Example](/post/example/) Sentences
+- **[Physical](/post/physical/) [lever](/post/lever/)**: "[She](/post/she/) pushed [down](/post/down/) [hard](/post/hard/) [on](/post/on/) [the](/post/the/) [lever](/post/lever/) [to](/post/to/) [open](/post/open/) [the](/post/the/) [heavy](/post/heavy/) [door](/post/door/)."
+- **Metaphorical [usage](/post/usage/)**: "[His](/post/his/) [experience](/post/experience/) working [in](/post/in/) [finance](/post/finance/) gave [him](/post/him/) [considerable](/post/considerable/) leverage [when](/post/when/) negotiating deals."

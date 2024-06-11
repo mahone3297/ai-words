@@ -7,35 +7,35 @@ description = '[ˈlikwid] n.液体 a.液体的'
 keywords = ['ai words', 'liquid']
 +++
 
-## [Word](/en/post/word/): [Liquid](/en/post/liquid/)
+## [Word](/post/word/): [Liquid](/post/liquid/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɪkwɪd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [substance](/en/post/substance/) [that](/en/post/that/) has [a](/en/post/a/) consistency resembling [that](/en/post/that/) [of](/en/post/of/) [water](/en/post/water/), flows [freely](/en/post/freely/), [and](/en/post/and/) takes [the](/en/post/the/) [shape](/en/post/shape/) [of](/en/post/of/) [its](/en/post/its/) [container](/en/post/container/). [It](/en/post/it/) has [a](/en/post/a/) fixed [volume](/en/post/volume/) [but](/en/post/but/) [no](/en/post/no/) fixed [shape](/en/post/shape/). [For](/en/post/for/) [example](/en/post/example/): "[Water](/en/post/water/) is [a](/en/post/a/) [transparent](/en/post/transparent/) [liquid](/en/post/liquid/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/), having [the](/en/post/the/) [nature](/en/post/nature/) [of](/en/post/of/), [or](/en/post/or/) [being](/en/post/being/) [a](/en/post/a/) [liquid](/en/post/liquid/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [liquid](/en/post/liquid/) contents [of](/en/post/of/) [the](/en/post/the/) flask were carefully measured."
+- **[Noun](/post/noun/)**: [A](/post/a/) [substance](/post/substance/) [that](/post/that/) has [a](/post/a/) consistency resembling [that](/post/that/) [of](/post/of/) [water](/post/water/), flows [freely](/post/freely/), [and](/post/and/) takes [the](/post/the/) [shape](/post/shape/) [of](/post/of/) [its](/post/its/) [container](/post/container/). [It](/post/it/) has [a](/post/a/) fixed [volume](/post/volume/) [but](/post/but/) [no](/post/no/) fixed [shape](/post/shape/). [For](/post/for/) [example](/post/example/): "[Water](/post/water/) is [a](/post/a/) [transparent](/post/transparent/) [liquid](/post/liquid/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/), having [the](/post/the/) [nature](/post/nature/) [of](/post/of/), [or](/post/or/) [being](/post/being/) [a](/post/a/) [liquid](/post/liquid/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [liquid](/post/liquid/) contents [of](/post/of/) [the](/post/the/) flask were carefully measured."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- "[The](/en/post/the/) bartender poured [a](/en/post/a/) [clear](/en/post/clear/) [liquid](/en/post/liquid/) [into](/en/post/into/) [the](/en/post/the/) [glass](/en/post/glass/)."
-- "Chemists analyzed [the](/en/post/the/) [chemical](/en/post/chemical/) [composition](/en/post/composition/) [of](/en/post/of/) [various](/en/post/various/) liquids."
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- "[The](/post/the/) bartender poured [a](/post/a/) [clear](/post/clear/) [liquid](/post/liquid/) [into](/post/into/) [the](/post/the/) [glass](/post/glass/)."
+- "Chemists analyzed [the](/post/the/) [chemical](/post/chemical/) [composition](/post/composition/) [of](/post/of/) [various](/post/various/) liquids."
 
-### [Adjective](/en/post/adjective/) [Usage](/en/post/usage/) Examples
-- "[Liquid](/en/post/liquid/) assets [such](/en/post/such/) [as](/en/post/as/) [cash](/en/post/cash/) [can](/en/post/can/) [be](/en/post/be/) [easily](/en/post/easily/) converted [into](/en/post/into/) [other](/en/post/other/) forms."
-- "[In](/en/post/in/) [space](/en/post/space/), astronauts [consume](/en/post/consume/) [their](/en/post/their/) [food](/en/post/food/) [in](/en/post/in/) [a](/en/post/a/) [liquid](/en/post/liquid/) [form](/en/post/form/)."
+### [Adjective](/post/adjective/) [Usage](/post/usage/) Examples
+- "[Liquid](/post/liquid/) assets [such](/post/such/) [as](/post/as/) [cash](/post/cash/) [can](/post/can/) [be](/post/be/) [easily](/post/easily/) converted [into](/post/into/) [other](/post/other/) forms."
+- "[In](/post/in/) [space](/post/space/), astronauts [consume](/post/consume/) [their](/post/their/) [food](/post/food/) [in](/post/in/) [a](/post/a/) [liquid](/post/liquid/) [form](/post/form/)."
 
 ## Phrases
-- "[Liquid](/en/post/liquid/) [gold](/en/post/gold/)" refers [to](/en/post/to/) [something](/en/post/something/) [valuable](/en/post/valuable/) [like](/en/post/like/) [honey](/en/post/honey/) [or](/en/post/or/) [oil](/en/post/oil/).
-- "[In](/en/post/in/) [liquid](/en/post/liquid/) [form](/en/post/form/)" describes [something](/en/post/something/) [that](/en/post/that/) is [not](/en/post/not/) [solid](/en/post/solid/) [but](/en/post/but/) [rather](/en/post/rather/) exists [as](/en/post/as/) [a](/en/post/a/) [fluid](/en/post/fluid/).
-- "[Liquid](/en/post/liquid/) [courage](/en/post/courage/)" is [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) [alcohol](/en/post/alcohol/) consumed [to](/en/post/to/) [overcome](/en/post/overcome/) shyness [or](/en/post/or/) nervousness.
+- "[Liquid](/post/liquid/) [gold](/post/gold/)" refers [to](/post/to/) [something](/post/something/) [valuable](/post/valuable/) [like](/post/like/) [honey](/post/honey/) [or](/post/or/) [oil](/post/oil/).
+- "[In](/post/in/) [liquid](/post/liquid/) [form](/post/form/)" describes [something](/post/something/) [that](/post/that/) is [not](/post/not/) [solid](/post/solid/) [but](/post/but/) [rather](/post/rather/) exists [as](/post/as/) [a](/post/a/) [fluid](/post/fluid/).
+- "[Liquid](/post/liquid/) [courage](/post/courage/)" is [a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) [alcohol](/post/alcohol/) consumed [to](/post/to/) [overcome](/post/overcome/) shyness [or](/post/or/) nervousness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [cook](/en/post/cook/) added [a](/en/post/a/) [few](/en/post/few/) drops [of](/en/post/of/) [the](/en/post/the/) spicy [liquid](/en/post/liquid/) [to](/en/post/to/) [the](/en/post/the/) [soup](/en/post/soup/) [to](/en/post/to/) enhance [its](/en/post/its/) flavor."
-- **[Adjective](/en/post/adjective/)**: "[Due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [intense](/en/post/intense/) [heat](/en/post/heat/), [the](/en/post/the/) [metal](/en/post/metal/) melted [into](/en/post/into/) [a](/en/post/a/) [liquid](/en/post/liquid/) [state](/en/post/state/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [cook](/post/cook/) added [a](/post/a/) [few](/post/few/) drops [of](/post/of/) [the](/post/the/) spicy [liquid](/post/liquid/) [to](/post/to/) [the](/post/the/) [soup](/post/soup/) [to](/post/to/) enhance [its](/post/its/) flavor."
+- **[Adjective](/post/adjective/)**: "[Due](/post/due/) [to](/post/to/) [the](/post/the/) [intense](/post/intense/) [heat](/post/heat/), [the](/post/the/) [metal](/post/metal/) melted [into](/post/into/) [a](/post/a/) [liquid](/post/liquid/) [state](/post/state/)."
 
 ## Synonyms
-- [Fluid](/en/post/fluid/)
-- [Juice](/en/post/juice/)
-- [Solution](/en/post/solution/) ([in](/en/post/in/) [a](/en/post/a/) [scientific](/en/post/scientific/) context)
-- Liquefied [matter](/en/post/matter/)
-- Flowing [substance](/en/post/substance/)
+- [Fluid](/post/fluid/)
+- [Juice](/post/juice/)
+- [Solution](/post/solution/) ([in](/post/in/) [a](/post/a/) [scientific](/post/scientific/) context)
+- Liquefied [matter](/post/matter/)
+- Flowing [substance](/post/substance/)

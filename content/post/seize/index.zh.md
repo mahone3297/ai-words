@@ -11,20 +11,20 @@ keywords = ['ai words', 'seize']
 /seɪz/
 
 ## 释义
-- **动词**: 抓住；夺取；逮捕。例如: "[The](/post/the/) [police](/post/police/) seized [the](/post/the/) [suspect](/post/suspect/)."
-- **名词**: 抓住的机会或行动。例如: "[Seize](/post/seize/) [the](/post/the/) [day](/post/day/) [and](/post/and/) [live](/post/live/) [life](/post/life/) [to](/post/to/) [the](/post/the/) fullest."
+- **动词**: 抓住；夺取；逮捕。例如: "[The](/zh/post/the/) [police](/zh/post/police/) seized [the](/zh/post/the/) [suspect](/zh/post/suspect/)."
+- **名词**: 抓住的机会或行动。例如: "[Seize](/zh/post/seize/) [the](/zh/post/the/) [day](/zh/post/day/) [and](/zh/post/and/) [live](/zh/post/live/) [life](/zh/post/life/) [to](/zh/post/to/) [the](/zh/post/the/) fullest."
 
 ## 短语
-- "[seize](/post/seize/) [control](/post/control/)" 意味着取得控制权。
-- "[seize](/post/seize/) [the](/post/the/) [opportunity](/post/opportunity/)" 表示抓住机会。
+- "[seize](/zh/post/seize/) [control](/zh/post/control/)" 意味着取得控制权。
+- "[seize](/zh/post/seize/) [the](/zh/post/the/) [opportunity](/zh/post/opportunity/)" 表示抓住机会。
 
 ## 例句
-- 动词: "[The](/post/the/) soldiers were ordered [to](/post/to/) [seize](/post/seize/) [the](/post/the/) enemy's [headquarters](/post/headquarters/)."
-- 名词: "[This](/post/this/) is [your](/post/your/) [chance](/post/chance/), [seize](/post/seize/) [it](/post/it/)!"
+- 动词: "[The](/zh/post/the/) soldiers were ordered [to](/zh/post/to/) [seize](/zh/post/seize/) [the](/zh/post/the/) enemy's [headquarters](/zh/post/headquarters/)."
+- 名词: "[This](/zh/post/this/) is [your](/zh/post/your/) [chance](/zh/post/chance/), [seize](/zh/post/seize/) [it](/zh/post/it/)!"
 
 ## 同义词
 - grab
 - snatch
-- [take](/post/take/) [hold](/post/hold/) [of](/post/of/)
+- [take](/zh/post/take/) [hold](/zh/post/hold/) [of](/zh/post/of/)
 - apprehend
-- [capture](/post/capture/)
+- [capture](/zh/post/capture/)

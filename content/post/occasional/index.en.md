@@ -7,34 +7,34 @@ description = '[əˈkeiʒənəl] a.偶然的；临时的'
 keywords = ['ai words', 'occasional']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈkeɪʒənəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Occurring [from](/en/post/from/) [time](/en/post/time/) [to](/en/post/to/) [time](/en/post/time/); [not](/en/post/not/) [constant](/en/post/constant/) [or](/en/post/or/) [regular](/en/post/regular/) [but](/en/post/but/) happening [now](/en/post/now/) [and](/en/post/and/) [then](/en/post/then/). 
+- **[Adjective](/post/adjective/)**: Occurring [from](/post/from/) [time](/post/time/) [to](/post/to/) [time](/post/time/); [not](/post/not/) [constant](/post/constant/) [or](/post/or/) [regular](/post/regular/) [but](/post/but/) happening [now](/post/now/) [and](/post/and/) [then](/post/then/). 
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _We [have](/en/post/have/) [occasional](/en/post/occasional/) meetings [to](/en/post/to/) [discuss](/en/post/discuss/) [project](/en/post/project/) updates._
-- **[Adjective](/en/post/adjective/)**: Intended [for](/en/post/for/) [use](/en/post/use/) [on](/en/post/on/) [special](/en/post/special/) [or](/en/post/or/) infrequent occasions [rather](/en/post/rather/) [than](/en/post/than/) [regularly](/en/post/regularly/).
+[Example](/post/example/) [sentence](/post/sentence/): _We [have](/post/have/) [occasional](/post/occasional/) meetings [to](/post/to/) [discuss](/post/discuss/) [project](/post/project/) updates._
+- **[Adjective](/post/adjective/)**: Intended [for](/post/for/) [use](/post/use/) [on](/post/on/) [special](/post/special/) [or](/post/or/) infrequent occasions [rather](/post/rather/) [than](/post/than/) [regularly](/post/regularly/).
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _She brought [out](/en/post/out/) [her](/en/post/her/) [occasional](/en/post/occasional/) [table](/en/post/table/) [when](/en/post/when/) guests came [over](/en/post/over/)._
+[Example](/post/example/) [sentence](/post/sentence/): _She brought [out](/post/out/) [her](/post/her/) [occasional](/post/occasional/) [table](/post/table/) [when](/post/when/) guests came [over](/post/over/)._
 
 ## Phrases
-- "[On](/en/post/on/) [occasion](/en/post/occasion/)": [Sometimes](/en/post/sometimes/), [but](/en/post/but/) [not](/en/post/not/) [regularly](/en/post/regularly/).
-  [Example](/en/post/example/): _I [visit](/en/post/visit/) [my](/en/post/my/) hometown [on](/en/post/on/) [occasion](/en/post/occasion/)._
-- "[Occasional](/en/post/occasional/) [visitor](/en/post/visitor/)/[guest](/en/post/guest/)": [Someone](/en/post/someone/) [who](/en/post/who/) visits [or](/en/post/or/) attends [somewhere](/en/post/somewhere/) [but](/en/post/but/) [not](/en/post/not/) [frequently](/en/post/frequently/).
-  [Example](/en/post/example/): _He's [just](/en/post/just/) an [occasional](/en/post/occasional/) [visitor](/en/post/visitor/) [to](/en/post/to/) [our](/en/post/our/) [club](/en/post/club/)._
+- "[On](/post/on/) [occasion](/post/occasion/)": [Sometimes](/post/sometimes/), [but](/post/but/) [not](/post/not/) [regularly](/post/regularly/).
+  [Example](/post/example/): _I [visit](/post/visit/) [my](/post/my/) hometown [on](/post/on/) [occasion](/post/occasion/)._
+- "[Occasional](/post/occasional/) [visitor](/post/visitor/)/[guest](/post/guest/)": [Someone](/post/someone/) [who](/post/who/) visits [or](/post/or/) attends [somewhere](/post/somewhere/) [but](/post/but/) [not](/post/not/) [frequently](/post/frequently/).
+  [Example](/post/example/): _He's [just](/post/just/) an [occasional](/post/occasional/) [visitor](/post/visitor/) [to](/post/to/) [our](/post/our/) [club](/post/club/)._
   
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) ([irregular](/en/post/irregular/) [occurrence](/en/post/occurrence/))**: "[Despite](/en/post/despite/) [being](/en/post/being/) [busy](/en/post/busy/), [he](/en/post/he/) manages [to](/en/post/to/) [make](/en/post/make/) [occasional](/en/post/occasional/) trips [to](/en/post/to/) [the](/en/post/the/) gym."
-- **[Adjective](/en/post/adjective/) ([for](/en/post/for/) [special](/en/post/special/) occasions)**: "[The](/en/post/the/) [occasional](/en/post/occasional/) [chair](/en/post/chair/) [in](/en/post/in/) [the](/en/post/the/) [living](/en/post/living/) [room](/en/post/room/) was reserved [for](/en/post/for/) [special](/en/post/special/) guests."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) ([irregular](/post/irregular/) [occurrence](/post/occurrence/))**: "[Despite](/post/despite/) [being](/post/being/) [busy](/post/busy/), [he](/post/he/) manages [to](/post/to/) [make](/post/make/) [occasional](/post/occasional/) trips [to](/post/to/) [the](/post/the/) gym."
+- **[Adjective](/post/adjective/) ([for](/post/for/) [special](/post/special/) occasions)**: "[The](/post/the/) [occasional](/post/occasional/) [chair](/post/chair/) [in](/post/in/) [the](/post/the/) [living](/post/living/) [room](/post/room/) was reserved [for](/post/for/) [special](/post/special/) guests."
 
 ## Synonyms
 - Infrequent
 - Periodic
 - Sporadic
 - Erratic
-- Occasionaly ([adverb](/en/post/adverb/) [form](/en/post/form/))
-- [From](/en/post/from/) [time](/en/post/time/) [to](/en/post/to/) [time](/en/post/time/)
-- [Once](/en/post/once/) [in](/en/post/in/) [a](/en/post/a/) [while](/en/post/while/)
-- [Now](/en/post/now/) [and](/en/post/and/) [then](/en/post/then/)
-- [Every](/en/post/every/) [so](/en/post/so/) [often](/en/post/often/)
+- Occasionaly ([adverb](/post/adverb/) [form](/post/form/))
+- [From](/post/from/) [time](/post/time/) [to](/post/to/) [time](/post/time/)
+- [Once](/post/once/) [in](/post/in/) [a](/post/a/) [while](/post/while/)
+- [Now](/post/now/) [and](/post/and/) [then](/post/then/)
+- [Every](/post/every/) [so](/post/so/) [often](/post/often/)

@@ -7,34 +7,34 @@ description = '[ˌreləˈtiviti] n.相关性；相对性'
 keywords = ['ai words', 'relativity']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈlaɪ.əti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [relationship](/en/post/relationship/) [between](/en/post/between/) [physical](/en/post/physical/) quantities [that](/en/post/that/) are compared [relative](/en/post/relative/) [to](/en/post/to/) [a](/en/post/a/) [standard](/en/post/standard/) [system](/en/post/system/) [of](/en/post/of/) units; 2. [The](/en/post/the/) [theory](/en/post/theory/) [that](/en/post/that/) [space](/en/post/space/), [time](/en/post/time/), [and](/en/post/and/) [physical](/en/post/physical/) laws are [relative](/en/post/relative/) [to](/en/post/to/) [the](/en/post/the/) observer's [frame](/en/post/frame/) [of](/en/post/of/) [reference](/en/post/reference/); 3. [The](/en/post/the/) [degree](/en/post/degree/) [to](/en/post/to/) [which](/en/post/which/) [something](/en/post/something/) is related [or](/en/post/or/) [relevant](/en/post/relevant/). ([Physics](/en/post/physics/)) 4. [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [relative](/en/post/relative/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [relationship](/post/relationship/) [between](/post/between/) [physical](/post/physical/) quantities [that](/post/that/) are compared [relative](/post/relative/) [to](/post/to/) [a](/post/a/) [standard](/post/standard/) [system](/post/system/) [of](/post/of/) units; 2. [The](/post/the/) [theory](/post/theory/) [that](/post/that/) [space](/post/space/), [time](/post/time/), [and](/post/and/) [physical](/post/physical/) laws are [relative](/post/relative/) [to](/post/to/) [the](/post/the/) observer's [frame](/post/frame/) [of](/post/of/) [reference](/post/reference/); 3. [The](/post/the/) [degree](/post/degree/) [to](/post/to/) [which](/post/which/) [something](/post/something/) is related [or](/post/or/) [relevant](/post/relevant/). ([Physics](/post/physics/)) 4. [The](/post/the/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [relative](/post/relative/).
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [relate](/en/post/relate/) [or](/en/post/or/) [compare](/en/post/compare/) [with](/en/post/with/) [respect](/en/post/respect/) [to](/en/post/to/) [some](/en/post/some/) [standard](/en/post/standard/) [or](/en/post/or/) [condition](/en/post/condition/); [to](/en/post/to/) [view](/en/post/view/) [or](/en/post/or/) [consider](/en/post/consider/) [in](/en/post/in/) terms [of](/en/post/of/) [relativity](/en/post/relativity/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [relate](/post/relate/) [or](/post/or/) [compare](/post/compare/) [with](/post/with/) [respect](/post/respect/) [to](/post/to/) [some](/post/some/) [standard](/post/standard/) [or](/post/or/) [condition](/post/condition/); [to](/post/to/) [view](/post/view/) [or](/post/or/) [consider](/post/consider/) [in](/post/in/) terms [of](/post/of/) [relativity](/post/relativity/).
 
 ## Phrases
-- "[Special](/en/post/special/) [relativity](/en/post/relativity/)" refers [to](/en/post/to/) Einstein's [theory](/en/post/theory/).
-- "[General](/en/post/general/) [relativity](/en/post/relativity/)" describes [gravity](/en/post/gravity/) [as](/en/post/as/) [a](/en/post/a/) curvature [of](/en/post/of/) spacetime.
-- "[Relative](/en/post/relative/) [motion](/en/post/motion/)" describes [how](/en/post/how/) objects [move](/en/post/move/) [with](/en/post/with/) [respect](/en/post/respect/) [to](/en/post/to/) [each](/en/post/each/) [other](/en/post/other/).
+- "[Special](/post/special/) [relativity](/post/relativity/)" refers [to](/post/to/) Einstein's [theory](/post/theory/).
+- "[General](/post/general/) [relativity](/post/relativity/)" describes [gravity](/post/gravity/) [as](/post/as/) [a](/post/a/) curvature [of](/post/of/) spacetime.
+- "[Relative](/post/relative/) [motion](/post/motion/)" describes [how](/post/how/) objects [move](/post/move/) [with](/post/with/) [respect](/post/respect/) [to](/post/to/) [each](/post/each/) [other](/post/other/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) [relativity](/en/post/relativity/) has revolutionized [our](/en/post/our/) [understanding](/en/post/understanding/) [of](/en/post/of/) [the](/en/post/the/) [universe](/en/post/universe/)."
-- **[Verb](/en/post/verb/)**: "[To](/en/post/to/) [understand](/en/post/understand/) [relativity](/en/post/relativity/), [one](/en/post/one/) [must](/en/post/must/) [grasp](/en/post/grasp/) [its](/en/post/its/) [basic](/en/post/basic/) principles."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) ideas were considered [highly](/en/post/highly/) [relative](/en/post/relative/) [to](/en/post/to/) [the](/en/post/the/) prevailing [scientific](/en/post/scientific/) consensus."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [concept](/post/concept/) [of](/post/of/) [relativity](/post/relativity/) has revolutionized [our](/post/our/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [universe](/post/universe/)."
+- **[Verb](/post/verb/)**: "[To](/post/to/) [understand](/post/understand/) [relativity](/post/relativity/), [one](/post/one/) [must](/post/must/) [grasp](/post/grasp/) [its](/post/its/) [basic](/post/basic/) principles."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) ideas were considered [highly](/post/highly/) [relative](/post/relative/) [to](/post/to/) [the](/post/the/) prevailing [scientific](/post/scientific/) consensus."
 
 ## Synonyms
-- [Comparative](/en/post/comparative/)
-- [Relative](/en/post/relative/) [position](/en/post/position/)
-- [Comparative](/en/post/comparative/) [aspect](/en/post/aspect/)
+- [Comparative](/post/comparative/)
+- [Relative](/post/relative/) [position](/post/position/)
+- [Comparative](/post/comparative/) [aspect](/post/aspect/)
 - Relational
-- [Comparative](/en/post/comparative/) [framework](/en/post/framework/)
+- [Comparative](/post/comparative/) [framework](/post/framework/)
 
 ## Antonyms
-- [Absolute](/en/post/absolute/)
+- [Absolute](/post/absolute/)
 - Fixed
 - Unchanging
-- [Objective](/en/post/objective/)
-- [Universal](/en/post/universal/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [physics](/en/post/physics/))
+- [Objective](/post/objective/)
+- [Universal](/post/universal/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [physics](/post/physics/))

@@ -11,22 +11,22 @@ keywords = ['ai words', 'outer']
 /ˈaʊtər/
 
 ## 释义
-- **形容词**: 外部的，外面的，外部的。例如: "[The](/post/the/) [outer](/post/outer/) [layer](/post/layer/) [of](/post/of/) [the](/post/the/) [jacket](/post/jacket/) is [waterproof](/post/waterproof/)."
-- **名词**: 外部，外表。例如: "[The](/post/the/) [outer](/post/outer/) [space](/post/space/) refers [to](/post/to/) [the](/post/the/) [universe](/post/universe/) [beyond](/post/beyond/) Earth's [atmosphere](/post/atmosphere/)."
-- **副词**: 在外面，向外。例如: "[He](/post/he/) stepped [out](/post/out/) [onto](/post/onto/) [the](/post/the/) [outer](/post/outer/) [porch](/post/porch/)."
+- **形容词**: 外部的，外面的，外部的。例如: "[The](/zh/post/the/) [outer](/zh/post/outer/) [layer](/zh/post/layer/) [of](/zh/post/of/) [the](/zh/post/the/) [jacket](/zh/post/jacket/) is [waterproof](/zh/post/waterproof/)."
+- **名词**: 外部，外表。例如: "[The](/zh/post/the/) [outer](/zh/post/outer/) [space](/zh/post/space/) refers [to](/zh/post/to/) [the](/zh/post/the/) [universe](/zh/post/universe/) [beyond](/zh/post/beyond/) Earth's [atmosphere](/zh/post/atmosphere/)."
+- **副词**: 在外面，向外。例如: "[He](/zh/post/he/) stepped [out](/zh/post/out/) [onto](/zh/post/onto/) [the](/zh/post/the/) [outer](/zh/post/outer/) [porch](/zh/post/porch/)."
 
 ## 短语
-- "[outer](/post/outer/) [edge](/post/edge/)" 指的是物体的边缘或外围。
-- "[outer](/post/outer/) [space](/post/space/)" 是指地球大气层以外的宇宙空间。
+- "[outer](/zh/post/outer/) [edge](/zh/post/edge/)" 指的是物体的边缘或外围。
+- "[outer](/zh/post/outer/) [space](/zh/post/space/)" 是指地球大气层以外的宇宙空间。
 
 ## 例句
-- 形容词: "[The](/post/the/) [outer](/post/outer/) [wall](/post/wall/) [of](/post/of/) [the](/post/the/) [castle](/post/castle/) is fortified [with](/post/with/) battlements."
-- 名词: "Exploring [the](/post/the/) [outer](/post/outer/) reaches [of](/post/of/) [the](/post/the/) galaxy is [a](/post/a/) lifelong [dream](/post/dream/) [for](/post/for/) [many](/post/many/) astronomers."
-- 副词: "[She](/post/she/) walked [to](/post/to/) [the](/post/the/) [outer](/post/outer/) limits [of](/post/of/) [the](/post/the/) [garden](/post/garden/), enjoying [the](/post/the/) [peaceful](/post/peaceful/) [surroundings](/post/surroundings/).
+- 形容词: "[The](/zh/post/the/) [outer](/zh/post/outer/) [wall](/zh/post/wall/) [of](/zh/post/of/) [the](/zh/post/the/) [castle](/zh/post/castle/) is fortified [with](/zh/post/with/) battlements."
+- 名词: "Exploring [the](/zh/post/the/) [outer](/zh/post/outer/) reaches [of](/zh/post/of/) [the](/zh/post/the/) galaxy is [a](/zh/post/a/) lifelong [dream](/zh/post/dream/) [for](/zh/post/for/) [many](/zh/post/many/) astronomers."
+- 副词: "[She](/zh/post/she/) walked [to](/zh/post/to/) [the](/zh/post/the/) [outer](/zh/post/outer/) limits [of](/zh/post/of/) [the](/zh/post/the/) [garden](/zh/post/garden/), enjoying [the](/zh/post/the/) [peaceful](/zh/post/peaceful/) [surroundings](/zh/post/surroundings/).
 
 ## 同义词
-- [External](/post/external/)
-- [Exterior](/post/exterior/)
-- [Outside](/post/outside/)
-- [Beyond](/post/beyond/)
+- [External](/zh/post/external/)
+- [Exterior](/zh/post/exterior/)
+- [Outside](/zh/post/outside/)
+- [Beyond](/zh/post/beyond/)
 - Periphery

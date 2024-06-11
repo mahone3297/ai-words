@@ -7,34 +7,34 @@ description = '[veiˈkei∫ən] n.假期，休假'
 keywords = ['ai words', 'vacation']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vəˈkeɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [when](/en/post/when/) [people](/en/post/people/) [take](/en/post/take/) [a](/en/post/a/) [break](/en/post/break/) [from](/en/post/from/) [work](/en/post/work/) [or](/en/post/or/) [regular](/en/post/regular/) [routine](/en/post/routine/) [to](/en/post/to/) [relax](/en/post/relax/), [travel](/en/post/travel/), [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) [leisure](/en/post/leisure/) activities. ["[A](/en/post/a/) [vacation](/en/post/vacation/) [to](/en/post/to/) [the](/en/post/the/) [beach](/en/post/beach/) is [on](/en/post/on/) [our](/en/post/our/) agenda [this](/en/post/this/) [summer](/en/post/summer/)."]
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [vacation](/en/post/vacation/) [or](/en/post/or/) [go](/en/post/go/) [on](/en/post/on/) [holiday](/en/post/holiday/). ["They're planning [to](/en/post/to/) [vacation](/en/post/vacation/) [in](/en/post/in/) Europe [next](/en/post/next/) [year](/en/post/year/)."]
-- **[Adjective](/en/post/adjective/)**: Characterizing [a](/en/post/a/) [break](/en/post/break/) [or](/en/post/or/) [time](/en/post/time/) [off](/en/post/off/), typically [for](/en/post/for/) [leisure](/en/post/leisure/). ["[The](/en/post/the/) [company](/en/post/company/) offers [generous](/en/post/generous/) [vacation](/en/post/vacation/) [time](/en/post/time/) [to](/en/post/to/) [its](/en/post/its/) employees."]
+- **[Noun](/post/noun/)**: [A](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [when](/post/when/) [people](/post/people/) [take](/post/take/) [a](/post/a/) [break](/post/break/) [from](/post/from/) [work](/post/work/) [or](/post/or/) [regular](/post/regular/) [routine](/post/routine/) [to](/post/to/) [relax](/post/relax/), [travel](/post/travel/), [or](/post/or/) [engage](/post/engage/) [in](/post/in/) [leisure](/post/leisure/) activities. ["[A](/post/a/) [vacation](/post/vacation/) [to](/post/to/) [the](/post/the/) [beach](/post/beach/) is [on](/post/on/) [our](/post/our/) agenda [this](/post/this/) [summer](/post/summer/)."]
+- **[Verb](/post/verb/)**: [To](/post/to/) [take](/post/take/) [a](/post/a/) [vacation](/post/vacation/) [or](/post/or/) [go](/post/go/) [on](/post/on/) [holiday](/post/holiday/). ["They're planning [to](/post/to/) [vacation](/post/vacation/) [in](/post/in/) Europe [next](/post/next/) [year](/post/year/)."]
+- **[Adjective](/post/adjective/)**: Characterizing [a](/post/a/) [break](/post/break/) [or](/post/or/) [time](/post/time/) [off](/post/off/), typically [for](/post/for/) [leisure](/post/leisure/). ["[The](/post/the/) [company](/post/company/) offers [generous](/post/generous/) [vacation](/post/vacation/) [time](/post/time/) [to](/post/to/) [its](/post/its/) employees."]
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [vacation](/en/post/vacation/)" [or](/en/post/or/) "[go](/en/post/go/) [on](/en/post/on/) [vacation](/en/post/vacation/)"
-- "[Use](/en/post/use/) [up](/en/post/up/) [your](/en/post/your/) [vacation](/en/post/vacation/) days"
-- "[Go](/en/post/go/) [on](/en/post/on/) [a](/en/post/a/) [winter](/en/post/winter/)/[vacation](/en/post/vacation/) [retreat](/en/post/retreat/)"
+- "[Take](/post/take/) [a](/post/a/) [vacation](/post/vacation/)" [or](/post/or/) "[go](/post/go/) [on](/post/on/) [vacation](/post/vacation/)"
+- "[Use](/post/use/) [up](/post/up/) [your](/post/your/) [vacation](/post/vacation/) days"
+- "[Go](/post/go/) [on](/post/on/) [a](/post/a/) [winter](/post/winter/)/[vacation](/post/vacation/) [retreat](/post/retreat/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) working [hard](/en/post/hard/) [all](/en/post/all/) [year](/en/post/year/), [they](/en/post/they/) were looking [forward](/en/post/forward/) [to](/en/post/to/) [their](/en/post/their/) much-needed [vacation](/en/post/vacation/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) decided [to](/en/post/to/) [vacation](/en/post/vacation/) [at](/en/post/at/) [a](/en/post/a/) [remote](/en/post/remote/) [cabin](/en/post/cabin/) [in](/en/post/in/) [the](/en/post/the/) mountains."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [job](/en/post/job/) allows [for](/en/post/for/) [flexible](/en/post/flexible/) working hours, [which](/en/post/which/) [she](/en/post/she/) appreciates, [especially](/en/post/especially/) [during](/en/post/during/) [her](/en/post/her/) family's [annual](/en/post/annual/) [vacation](/en/post/vacation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) working [hard](/post/hard/) [all](/post/all/) [year](/post/year/), [they](/post/they/) were looking [forward](/post/forward/) [to](/post/to/) [their](/post/their/) much-needed [vacation](/post/vacation/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) decided [to](/post/to/) [vacation](/post/vacation/) [at](/post/at/) [a](/post/a/) [remote](/post/remote/) [cabin](/post/cabin/) [in](/post/in/) [the](/post/the/) mountains."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [job](/post/job/) allows [for](/post/for/) [flexible](/post/flexible/) working hours, [which](/post/which/) [she](/post/she/) appreciates, [especially](/post/especially/) [during](/post/during/) [her](/post/her/) family's [annual](/post/annual/) [vacation](/post/vacation/)."
 
 ## Synonyms
-- [Holiday](/en/post/holiday/)
-- [Break](/en/post/break/)
+- [Holiday](/post/holiday/)
+- [Break](/post/break/)
 - Getaway
-- [Leisure](/en/post/leisure/) [time](/en/post/time/)
-- [Time](/en/post/time/) [off](/en/post/off/)
+- [Leisure](/post/leisure/) [time](/post/time/)
+- [Time](/post/time/) [off](/post/off/)
 
 ## Antonyms
-- [Work](/en/post/work/)
-- [Duty](/en/post/duty/)
-- [Routine](/en/post/routine/)
+- [Work](/post/work/)
+- [Duty](/post/duty/)
+- [Routine](/post/routine/)
 - Obligation
 - Commitment

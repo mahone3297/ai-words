@@ -7,47 +7,47 @@ description = '[ˈpɔːtrit] n.消像，画像'
 keywords = ['ai words', 'portrait']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈpɔːrt/
-(pronounced [as](/en/post/as/) proh-port)
+(pronounced [as](/post/as/) proh-port)
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[portrait](/en/post/portrait/)** is:
-1. [A](/en/post/a/) [painting](/en/post/painting/), [drawing](/en/post/drawing/), [or](/en/post/or/) [photograph](/en/post/photograph/) [that](/en/post/that/) represents [a](/en/post/a/) [person](/en/post/person/), [usually](/en/post/usually/) focusing [on](/en/post/on/) [their](/en/post/their/) [face](/en/post/face/).
-2. [A](/en/post/a/) likeness [or](/en/post/or/) depiction [of](/en/post/of/) someone's [character](/en/post/character/) [or](/en/post/or/) personality.
-3. [A](/en/post/a/) [formal](/en/post/formal/) [or](/en/post/or/) [artistic](/en/post/artistic/) representation [of](/en/post/of/) [a](/en/post/a/) [subject](/en/post/subject/), [often](/en/post/often/) capturing [their](/en/post/their/) essence [or](/en/post/or/) [style](/en/post/style/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[portrait](/post/portrait/)** is:
+1. [A](/post/a/) [painting](/post/painting/), [drawing](/post/drawing/), [or](/post/or/) [photograph](/post/photograph/) [that](/post/that/) represents [a](/post/a/) [person](/post/person/), [usually](/post/usually/) focusing [on](/post/on/) [their](/post/their/) [face](/post/face/).
+2. [A](/post/a/) likeness [or](/post/or/) depiction [of](/post/of/) someone's [character](/post/character/) [or](/post/or/) personality.
+3. [A](/post/a/) [formal](/post/formal/) [or](/post/or/) [artistic](/post/artistic/) representation [of](/post/of/) [a](/post/a/) [subject](/post/subject/), [often](/post/often/) capturing [their](/post/their/) essence [or](/post/or/) [style](/post/style/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **portray** is:
-1. [To](/en/post/to/) depict [or](/en/post/or/) [represent](/en/post/represent/) ([a](/en/post/a/) [person](/en/post/person/), [character](/en/post/character/), [or](/en/post/or/) [situation](/en/post/situation/)) [in](/en/post/in/) [art](/en/post/art/), [literature](/en/post/literature/), [or](/en/post/or/) [film](/en/post/film/).
-2. [To](/en/post/to/) [present](/en/post/present/) [or](/en/post/or/) [illustrate](/en/post/illustrate/) (an [idea](/en/post/idea/) [or](/en/post/or/) [quality](/en/post/quality/)) [through](/en/post/through/) actions [or](/en/post/or/) [description](/en/post/description/).
+### [Verb](/post/verb/)
+[To](/post/to/) **portray** is:
+1. [To](/post/to/) depict [or](/post/or/) [represent](/post/represent/) ([a](/post/a/) [person](/post/person/), [character](/post/character/), [or](/post/or/) [situation](/post/situation/)) [in](/post/in/) [art](/post/art/), [literature](/post/literature/), [or](/post/or/) [film](/post/film/).
+2. [To](/post/to/) [present](/post/present/) [or](/post/or/) [illustrate](/post/illustrate/) (an [idea](/post/idea/) [or](/post/or/) [quality](/post/quality/)) [through](/post/through/) actions [or](/post/or/) [description](/post/description/).
 
-### [Adjective](/en/post/adjective/)
-- **Portrait-style** describes [something](/en/post/something/) having [the](/en/post/the/) [appearance](/en/post/appearance/) [or](/en/post/or/) characteristics [of](/en/post/of/) [a](/en/post/a/) [portrait](/en/post/portrait/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [photograph](/en/post/photograph/) taken [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) pose.
-- **Portraiture** refers [to](/en/post/to/) [the](/en/post/the/) [art](/en/post/art/) [of](/en/post/of/) creating portraits.
+### [Adjective](/post/adjective/)
+- **Portrait-style** describes [something](/post/something/) having [the](/post/the/) [appearance](/post/appearance/) [or](/post/or/) characteristics [of](/post/of/) [a](/post/a/) [portrait](/post/portrait/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [photograph](/post/photograph/) taken [in](/post/in/) [a](/post/a/) [formal](/post/formal/) pose.
+- **Portraiture** refers [to](/post/to/) [the](/post/the/) [art](/post/art/) [of](/post/of/) creating portraits.
 
 ## Phrases
-- "[Paint](/en/post/paint/) [a](/en/post/a/) [portrait](/en/post/portrait/)" [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [visual](/en/post/visual/) representation [of](/en/post/of/) [someone](/en/post/someone/).
-- "[A](/en/post/a/) [family](/en/post/family/) [portrait](/en/post/portrait/)" is [a](/en/post/a/) [group](/en/post/group/) photo showcasing [family](/en/post/family/) members.
-- "Portraying [a](/en/post/a/) [role](/en/post/role/)" [means](/en/post/means/) acting [out](/en/post/out/) [a](/en/post/a/) [character](/en/post/character/) [or](/en/post/or/) [position](/en/post/position/).
+- "[Paint](/post/paint/) [a](/post/a/) [portrait](/post/portrait/)" [means](/post/means/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [visual](/post/visual/) representation [of](/post/of/) [someone](/post/someone/).
+- "[A](/post/a/) [family](/post/family/) [portrait](/post/portrait/)" is [a](/post/a/) [group](/post/group/) photo showcasing [family](/post/family/) members.
+- "Portraying [a](/post/a/) [role](/post/role/)" [means](/post/means/) acting [out](/post/out/) [a](/post/a/) [character](/post/character/) [or](/post/or/) [position](/post/position/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) spent months working [on](/en/post/on/) [the](/en/post/the/) [portrait](/en/post/portrait/), striving [for](/en/post/for/) [a](/en/post/a/) realistic representation [of](/en/post/of/) [his](/en/post/his/) [subject](/en/post/subject/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [author](/en/post/author/) portrayed [the](/en/post/the/) [main](/en/post/main/) [character](/en/post/character/) [as](/en/post/as/) [a](/en/post/a/) [complex](/en/post/complex/) [and](/en/post/and/) evolving [figure](/en/post/figure/) [throughout](/en/post/throughout/) [the](/en/post/the/) [novel](/en/post/novel/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) portrait-style photography captured [her](/en/post/her/) subjects [with](/en/post/with/) [a](/en/post/a/) [unique](/en/post/unique/) [and](/en/post/and/) [intimate](/en/post/intimate/) [touch](/en/post/touch/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) spent months working [on](/post/on/) [the](/post/the/) [portrait](/post/portrait/), striving [for](/post/for/) [a](/post/a/) realistic representation [of](/post/of/) [his](/post/his/) [subject](/post/subject/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [author](/post/author/) portrayed [the](/post/the/) [main](/post/main/) [character](/post/character/) [as](/post/as/) [a](/post/a/) [complex](/post/complex/) [and](/post/and/) evolving [figure](/post/figure/) [throughout](/post/throughout/) [the](/post/the/) [novel](/post/novel/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) portrait-style photography captured [her](/post/her/) subjects [with](/post/with/) [a](/post/a/) [unique](/post/unique/) [and](/post/and/) [intimate](/post/intimate/) [touch](/post/touch/)."
 
 ## Synonyms
 - Representation
 - Depiction
-- [Sketch](/en/post/sketch/)
+- [Sketch](/post/sketch/)
 - Caricature
 - Likeness
 - Profile
-- [Image](/en/post/image/)
+- [Image](/post/image/)
 
 ## Antonyms
-- [Abstract](/en/post/abstract/)
+- [Abstract](/post/abstract/)
 - Generic
 - Idealized
 - Unrecognizable

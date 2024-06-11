@@ -7,36 +7,36 @@ description = '[luːs] a.松的；宽松的'
 keywords = ['ai words', 'loose']
 +++
 
-## [Word](/en/post/word/): [Loose](/en/post/loose/)
+## [Word](/post/word/): [Loose](/post/loose/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /luːs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) [tight](/en/post/tight/), firmly fixed [in](/en/post/in/) [place](/en/post/place/), [or](/en/post/or/) securely fastened; detached [or](/en/post/or/) [free](/en/post/free/) [from](/en/post/from/) [something](/en/post/something/) [else](/en/post/else/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [knot](/en/post/knot/) [in](/en/post/in/) [the](/en/post/the/) [rope](/en/post/rope/) was [loose](/en/post/loose/)."
-  - [Also](/en/post/also/), [not](/en/post/not/) compact [or](/en/post/or/) [dense](/en/post/dense/); having spaces [or](/en/post/or/) gaps [between](/en/post/between/) parts: "[The](/en/post/the/) [soil](/en/post/soil/) [here](/en/post/here/) is [loose](/en/post/loose/) [and](/en/post/and/) [easy](/en/post/easy/) [to](/en/post/to/) [dig](/en/post/dig/)."
-  - [In](/en/post/in/) terms [of](/en/post/of/) morals [or](/en/post/or/) [behavior](/en/post/behavior/), [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [not](/en/post/not/) [strict](/en/post/strict/), restrained, [or](/en/post/or/) disciplined: "[She](/en/post/she/) has [loose](/en/post/loose/) [living](/en/post/living/) habits."
-  - [When](/en/post/when/) referring [to](/en/post/to/) animals, [it](/en/post/it/) [could](/en/post/could/) [mean](/en/post/mean/) [not](/en/post/not/) confined [or](/en/post/or/) [not](/en/post/not/) [under](/en/post/under/) [control](/en/post/control/): "[The](/en/post/the/) [dog](/en/post/dog/) got [loose](/en/post/loose/) [from](/en/post/from/) [its](/en/post/its/) leash."
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) [tight](/post/tight/), firmly fixed [in](/post/in/) [place](/post/place/), [or](/post/or/) securely fastened; detached [or](/post/or/) [free](/post/free/) [from](/post/from/) [something](/post/something/) [else](/post/else/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [knot](/post/knot/) [in](/post/in/) [the](/post/the/) [rope](/post/rope/) was [loose](/post/loose/)."
+  - [Also](/post/also/), [not](/post/not/) compact [or](/post/or/) [dense](/post/dense/); having spaces [or](/post/or/) gaps [between](/post/between/) parts: "[The](/post/the/) [soil](/post/soil/) [here](/post/here/) is [loose](/post/loose/) [and](/post/and/) [easy](/post/easy/) [to](/post/to/) [dig](/post/dig/)."
+  - [In](/post/in/) terms [of](/post/of/) morals [or](/post/or/) [behavior](/post/behavior/), [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [not](/post/not/) [strict](/post/strict/), restrained, [or](/post/or/) disciplined: "[She](/post/she/) has [loose](/post/loose/) [living](/post/living/) habits."
+  - [When](/post/when/) referring [to](/post/to/) animals, [it](/post/it/) [could](/post/could/) [mean](/post/mean/) [not](/post/not/) confined [or](/post/or/) [not](/post/not/) [under](/post/under/) [control](/post/control/): "[The](/post/the/) [dog](/post/dog/) got [loose](/post/loose/) [from](/post/from/) [its](/post/its/) leash."
 
-- **[Verb](/en/post/verb/)**: ([loose](/en/post/loose/), looses, loosened, loosening)
-  - [To](/en/post/to/) [release](/en/post/release/), [set](/en/post/set/) [free](/en/post/free/), [or](/en/post/or/) untie [something](/en/post/something/) [that](/en/post/that/) is [bound](/en/post/bound/), fastened, [or](/en/post/or/) attached. [Example](/en/post/example/): "[He](/en/post/he/) loosened [the](/en/post/the/) [knot](/en/post/knot/) [on](/en/post/on/) [the](/en/post/the/) [package](/en/post/package/)."
-  - [To](/en/post/to/) [make](/en/post/make/) [less](/en/post/less/) [tight](/en/post/tight/) [or](/en/post/or/) constricted; [relax](/en/post/relax/). [Example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [loosen](/en/post/loosen/) [her](/en/post/her/) [tie](/en/post/tie/) [after](/en/post/after/) [work](/en/post/work/)."
+- **[Verb](/post/verb/)**: ([loose](/post/loose/), looses, loosened, loosening)
+  - [To](/post/to/) [release](/post/release/), [set](/post/set/) [free](/post/free/), [or](/post/or/) untie [something](/post/something/) [that](/post/that/) is [bound](/post/bound/), fastened, [or](/post/or/) attached. [Example](/post/example/): "[He](/post/he/) loosened [the](/post/the/) [knot](/post/knot/) [on](/post/on/) [the](/post/the/) [package](/post/package/)."
+  - [To](/post/to/) [make](/post/make/) [less](/post/less/) [tight](/post/tight/) [or](/post/or/) constricted; [relax](/post/relax/). [Example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [loosen](/post/loosen/) [her](/post/her/) [tie](/post/tie/) [after](/post/after/) [work](/post/work/)."
 
 ## Phrases
-- "[Let](/en/post/let/) [loose](/en/post/loose/)" [means](/en/post/means/) [to](/en/post/to/) [allow](/en/post/allow/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [to](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [act](/en/post/act/) [freely](/en/post/freely/), [or](/en/post/or/) [to](/en/post/to/) [behave](/en/post/behave/) [in](/en/post/in/) an unrestrained [manner](/en/post/manner/).
-- "[Loose](/en/post/loose/) ends" refers [to](/en/post/to/) unresolved issues [or](/en/post/or/) tasks [left](/en/post/left/) incomplete.
-- "[Loose](/en/post/loose/) lips [sink](/en/post/sink/) ships" is [a](/en/post/a/) proverbial warning [about](/en/post/about/) [the](/en/post/the/) dangers [of](/en/post/of/) [careless](/en/post/careless/) [talk](/en/post/talk/).
+- "[Let](/post/let/) [loose](/post/loose/)" [means](/post/means/) [to](/post/to/) [allow](/post/allow/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [to](/post/to/) [move](/post/move/) [or](/post/or/) [act](/post/act/) [freely](/post/freely/), [or](/post/or/) [to](/post/to/) [behave](/post/behave/) [in](/post/in/) an unrestrained [manner](/post/manner/).
+- "[Loose](/post/loose/) ends" refers [to](/post/to/) unresolved issues [or](/post/or/) tasks [left](/post/left/) incomplete.
+- "[Loose](/post/loose/) lips [sink](/post/sink/) ships" is [a](/post/a/) proverbial warning [about](/post/about/) [the](/post/the/) dangers [of](/post/of/) [careless](/post/careless/) [talk](/post/talk/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Make](/en/post/make/) [sure](/en/post/sure/) [the](/en/post/the/) bolts are [tight](/en/post/tight/); [we](/en/post/we/) don't [want](/en/post/want/) [anything](/en/post/anything/) coming [loose](/en/post/loose/) [during](/en/post/during/) [the](/en/post/the/) [flight](/en/post/flight/)."
-- **[Verb](/en/post/verb/)**: "[Before](/en/post/before/) attempting [to](/en/post/to/) [remove](/en/post/remove/) [the](/en/post/the/) [lid](/en/post/lid/), [he](/en/post/he/) had [to](/en/post/to/) [loosen](/en/post/loosen/) [the](/en/post/the/) screws [first](/en/post/first/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Make](/post/make/) [sure](/post/sure/) [the](/post/the/) bolts are [tight](/post/tight/); [we](/post/we/) don't [want](/post/want/) [anything](/post/anything/) coming [loose](/post/loose/) [during](/post/during/) [the](/post/the/) [flight](/post/flight/)."
+- **[Verb](/post/verb/)**: "[Before](/post/before/) attempting [to](/post/to/) [remove](/post/remove/) [the](/post/the/) [lid](/post/lid/), [he](/post/he/) had [to](/post/to/) [loosen](/post/loosen/) [the](/post/the/) screws [first](/post/first/)."
 
 ## Synonyms
-- [Free](/en/post/free/)
+- [Free](/post/free/)
 - Unfastened
 - Untied
 - Unsecured
 - Slack
 - Unrestrained
 - Unconfined
-- Relaxed ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
+- Relaxed ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))

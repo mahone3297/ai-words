@@ -7,33 +7,33 @@ description = '[ˈreidiəuˈæktiv] a.放射性的'
 keywords = ['ai words', 'radioactive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəʊˈæktɪv/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [the](/en/post/the/) emission [of](/en/post/of/) [radiation](/en/post/radiation/), [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) [nuclear](/en/post/nuclear/) [decay](/en/post/decay/) [or](/en/post/or/) [certain](/en/post/certain/) types [of](/en/post/of/) [atomic](/en/post/atomic/) reactions. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sample](/en/post/sample/) was [highly](/en/post/highly/) [radioactive](/en/post/radioactive/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [process](/en/post/process/) [or](/en/post/or/) [property](/en/post/property/) [of](/en/post/of/) emitting [radiation](/en/post/radiation/), [often](/en/post/often/) [harmful](/en/post/harmful/) [to](/en/post/to/) [living](/en/post/living/) organisms. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [radioactive](/en/post/radioactive/) [waste](/en/post/waste/) needed [careful](/en/post/careful/) [disposal](/en/post/disposal/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [become](/en/post/become/) contaminated [or](/en/post/or/) exposed [to](/en/post/to/) [radioactive](/en/post/radioactive/) substances. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) workers were [regularly](/en/post/regularly/) monitored [for](/en/post/for/) [radioactivity](/en/post/radioactivity/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [the](/post/the/) emission [of](/post/of/) [radiation](/post/radiation/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) [nuclear](/post/nuclear/) [decay](/post/decay/) [or](/post/or/) [certain](/post/certain/) types [of](/post/of/) [atomic](/post/atomic/) reactions. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sample](/post/sample/) was [highly](/post/highly/) [radioactive](/post/radioactive/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [process](/post/process/) [or](/post/or/) [property](/post/property/) [of](/post/of/) emitting [radiation](/post/radiation/), [often](/post/often/) [harmful](/post/harmful/) [to](/post/to/) [living](/post/living/) organisms. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [radioactive](/post/radioactive/) [waste](/post/waste/) needed [careful](/post/careful/) [disposal](/post/disposal/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [become](/post/become/) contaminated [or](/post/or/) exposed [to](/post/to/) [radioactive](/post/radioactive/) substances. [For](/post/for/) [example](/post/example/): "[The](/post/the/) workers were [regularly](/post/regularly/) monitored [for](/post/for/) [radioactivity](/post/radioactivity/)."
 
 ## Phrases
-- "[Radioactive](/en/post/radioactive/) [decay](/en/post/decay/)" describes [the](/en/post/the/) breakdown [of](/en/post/of/) [atomic](/en/post/atomic/) nuclei.
-- "[Radioactive](/en/post/radioactive/) shielding" is [used](/en/post/used/) [to](/en/post/to/) [protect](/en/post/protect/) [against](/en/post/against/) [radiation](/en/post/radiation/) [exposure](/en/post/exposure/).
-- "[Highly](/en/post/highly/) [radioactive](/en/post/radioactive/)" refers [to](/en/post/to/) [a](/en/post/a/) [substance](/en/post/substance/) [with](/en/post/with/) [a](/en/post/a/) [strong](/en/post/strong/) [radiation](/en/post/radiation/) emission [rate](/en/post/rate/).
+- "[Radioactive](/post/radioactive/) [decay](/post/decay/)" describes [the](/post/the/) breakdown [of](/post/of/) [atomic](/post/atomic/) nuclei.
+- "[Radioactive](/post/radioactive/) shielding" is [used](/post/used/) [to](/post/to/) [protect](/post/protect/) [against](/post/against/) [radiation](/post/radiation/) [exposure](/post/exposure/).
+- "[Highly](/post/highly/) [radioactive](/post/radioactive/)" refers [to](/post/to/) [a](/post/a/) [substance](/post/substance/) [with](/post/with/) [a](/post/a/) [strong](/post/strong/) [radiation](/post/radiation/) emission [rate](/post/rate/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [area](/en/post/area/) [around](/en/post/around/) [the](/en/post/the/) [nuclear](/en/post/nuclear/) reactor was marked [as](/en/post/as/) [highly](/en/post/highly/) [radioactive](/en/post/radioactive/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) scientists studied [the](/en/post/the/) long-term effects [of](/en/post/of/) [radioactive](/en/post/radioactive/) fallout."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) miners had [to](/en/post/to/) [take](/en/post/take/) precautions [after](/en/post/after/) [being](/en/post/being/) exposed [to](/en/post/to/) [radioactivity](/en/post/radioactivity/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [area](/post/area/) [around](/post/around/) [the](/post/the/) [nuclear](/post/nuclear/) reactor was marked [as](/post/as/) [highly](/post/highly/) [radioactive](/post/radioactive/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) scientists studied [the](/post/the/) long-term effects [of](/post/of/) [radioactive](/post/radioactive/) fallout."
+- **[Verb](/post/verb/)**: "[The](/post/the/) miners had [to](/post/to/) [take](/post/take/) precautions [after](/post/after/) [being](/post/being/) exposed [to](/post/to/) [radioactivity](/post/radioactivity/)."
 
 ## Synonyms
-- [Radioactive](/en/post/radioactive/) [material](/en/post/material/)
-- [Radioactive](/en/post/radioactive/) [waste](/en/post/waste/)
-- Ionizing [radiation](/en/post/radiation/)
+- [Radioactive](/post/radioactive/) [material](/post/material/)
+- [Radioactive](/post/radioactive/) [waste](/post/waste/)
+- Ionizing [radiation](/post/radiation/)
 - Radioisotopes
-- [Radioactivity](/en/post/radioactivity/)
+- [Radioactivity](/post/radioactivity/)
 
 ## Antonyms
-- [Stable](/en/post/stable/)
+- [Stable](/post/stable/)
 - Non-radioactive
-- [Safe](/en/post/safe/)
+- [Safe](/post/safe/)
 - Inert

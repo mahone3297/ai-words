@@ -7,38 +7,38 @@ description = 'n.声音 vi.响，发声'
 keywords = ['ai words', 'sound']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsaʊnd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) sensation [of](/en/post/of/) hearing, [particularly](/en/post/particularly/) [as](/en/post/as/) produced [by](/en/post/by/) [a](/en/post/a/) vibrating [object](/en/post/object/), [like](/en/post/like/) [a](/en/post/a/) [musical](/en/post/musical/) [instrument](/en/post/instrument/) [or](/en/post/or/) [a](/en/post/a/) spoken [word](/en/post/word/). [Example](/en/post/example/): "[The](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) [the](/en/post/the/) [ocean](/en/post/ocean/) waves was soothing."
-2. [A](/en/post/a/) [particular](/en/post/particular/) auditory [quality](/en/post/quality/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [voice](/en/post/voice/), [instrument](/en/post/instrument/), [or](/en/post/or/) [noise](/en/post/noise/). [Example](/en/post/example/): "[Each](/en/post/each/) [bird](/en/post/bird/) has [its](/en/post/its/) [unique](/en/post/unique/) [sound](/en/post/sound/)."
-3. [A](/en/post/a/) [noise](/en/post/noise/) [or](/en/post/or/) [tone](/en/post/tone/), [often](/en/post/often/) associated [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) [event](/en/post/event/) [or](/en/post/or/) [object](/en/post/object/). [Example](/en/post/example/): "[The](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) breaking [glass](/en/post/glass/) echoed [through](/en/post/through/) [the](/en/post/the/) [room](/en/post/room/)."
-4. [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [music](/en/post/music/) [or](/en/post/or/) [a](/en/post/a/) [musical](/en/post/musical/) [composition](/en/post/composition/). [Example](/en/post/example/): "[She](/en/post/she/) played [a](/en/post/a/) [beautiful](/en/post/beautiful/) [sound](/en/post/sound/) [on](/en/post/on/) [her](/en/post/her/) [violin](/en/post/violin/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) sensation [of](/post/of/) hearing, [particularly](/post/particularly/) [as](/post/as/) produced [by](/post/by/) [a](/post/a/) vibrating [object](/post/object/), [like](/post/like/) [a](/post/a/) [musical](/post/musical/) [instrument](/post/instrument/) [or](/post/or/) [a](/post/a/) spoken [word](/post/word/). [Example](/post/example/): "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/) waves was soothing."
+2. [A](/post/a/) [particular](/post/particular/) auditory [quality](/post/quality/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [voice](/post/voice/), [instrument](/post/instrument/), [or](/post/or/) [noise](/post/noise/). [Example](/post/example/): "[Each](/post/each/) [bird](/post/bird/) has [its](/post/its/) [unique](/post/unique/) [sound](/post/sound/)."
+3. [A](/post/a/) [noise](/post/noise/) [or](/post/or/) [tone](/post/tone/), [often](/post/often/) associated [with](/post/with/) [a](/post/a/) [specific](/post/specific/) [event](/post/event/) [or](/post/or/) [object](/post/object/). [Example](/post/example/): "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) breaking [glass](/post/glass/) echoed [through](/post/through/) [the](/post/the/) [room](/post/room/)."
+4. [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [music](/post/music/) [or](/post/or/) [a](/post/a/) [musical](/post/musical/) [composition](/post/composition/). [Example](/post/example/): "[She](/post/she/) played [a](/post/a/) [beautiful](/post/beautiful/) [sound](/post/sound/) [on](/post/on/) [her](/post/her/) [violin](/post/violin/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [produce](/en/post/produce/) [or](/en/post/or/) [emit](/en/post/emit/) [sound](/en/post/sound/), [especially](/en/post/especially/) intentionally. [Example](/en/post/example/): "[The](/en/post/the/) [musician](/en/post/musician/) sounded [the](/en/post/the/) [trumpet](/en/post/trumpet/)."
-2. [To](/en/post/to/) [perceive](/en/post/perceive/) [or](/en/post/or/) [become](/en/post/become/) [aware](/en/post/aware/) [of](/en/post/of/) [a](/en/post/a/) [sound](/en/post/sound/). [Example](/en/post/example/): "I [could](/en/post/could/) [hear](/en/post/hear/) [the](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) footsteps approaching."
-3. [To](/en/post/to/) [cause](/en/post/cause/) [or](/en/post/or/) [contribute](/en/post/contribute/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [effect](/en/post/effect/) [or](/en/post/or/) [atmosphere](/en/post/atmosphere/) [with](/en/post/with/) one's [voice](/en/post/voice/) [or](/en/post/or/) sounds. [Example](/en/post/example/): "[Her](/en/post/her/) soothing [voice](/en/post/voice/) sounded [like](/en/post/like/) lullabies."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [produce](/post/produce/) [or](/post/or/) [emit](/post/emit/) [sound](/post/sound/), [especially](/post/especially/) intentionally. [Example](/post/example/): "[The](/post/the/) [musician](/post/musician/) sounded [the](/post/the/) [trumpet](/post/trumpet/)."
+2. [To](/post/to/) [perceive](/post/perceive/) [or](/post/or/) [become](/post/become/) [aware](/post/aware/) [of](/post/of/) [a](/post/a/) [sound](/post/sound/). [Example](/post/example/): "I [could](/post/could/) [hear](/post/hear/) [the](/post/the/) [sound](/post/sound/) [of](/post/of/) footsteps approaching."
+3. [To](/post/to/) [cause](/post/cause/) [or](/post/or/) [contribute](/post/contribute/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [effect](/post/effect/) [or](/post/or/) [atmosphere](/post/atmosphere/) [with](/post/with/) one's [voice](/post/voice/) [or](/post/or/) sounds. [Example](/post/example/): "[Her](/post/her/) soothing [voice](/post/voice/) sounded [like](/post/like/) lullabies."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [sound](/en/post/sound/)" [means](/en/post/means/) [to](/en/post/to/) [produce](/en/post/produce/) [any](/en/post/any/) audible [noise](/en/post/noise/).
-- "[Silent](/en/post/silent/) [as](/en/post/as/) [a](/en/post/a/) [sound](/en/post/sound/)" is [a](/en/post/a/) paradoxical [expression](/en/post/expression/) [that](/en/post/that/) implies [something](/en/post/something/) is [completely](/en/post/completely/) [quiet](/en/post/quiet/).
-- "Soundproofing" refers [to](/en/post/to/) [the](/en/post/the/) [reduction](/en/post/reduction/) [of](/en/post/of/) [sound](/en/post/sound/) [transmission](/en/post/transmission/).
+- "[Make](/post/make/) [a](/post/a/) [sound](/post/sound/)" [means](/post/means/) [to](/post/to/) [produce](/post/produce/) [any](/post/any/) audible [noise](/post/noise/).
+- "[Silent](/post/silent/) [as](/post/as/) [a](/post/a/) [sound](/post/sound/)" is [a](/post/a/) paradoxical [expression](/post/expression/) [that](/post/that/) implies [something](/post/something/) is [completely](/post/completely/) [quiet](/post/quiet/).
+- "Soundproofing" refers [to](/post/to/) [the](/post/the/) [reduction](/post/reduction/) [of](/post/of/) [sound](/post/sound/) [transmission](/post/transmission/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [baby](/en/post/baby/) cooed [a](/en/post/a/) [soft](/en/post/soft/) [sound](/en/post/sound/) [in](/en/post/in/) [her](/en/post/her/) [sleep](/en/post/sleep/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) sounded [the](/en/post/the/) [alarm](/en/post/alarm/) [when](/en/post/when/) [she](/en/post/she/) [saw](/en/post/saw/) [a](/en/post/a/) [stranger](/en/post/stranger/) [outside](/en/post/outside/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [concert](/en/post/concert/) [hall](/en/post/hall/) was filled [with](/en/post/with/) [the](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) applause."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [baby](/post/baby/) cooed [a](/post/a/) [soft](/post/soft/) [sound](/post/sound/) [in](/post/in/) [her](/post/her/) [sleep](/post/sleep/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) sounded [the](/post/the/) [alarm](/post/alarm/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [a](/post/a/) [stranger](/post/stranger/) [outside](/post/outside/)."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) [concert](/post/concert/) [hall](/post/hall/) was filled [with](/post/with/) [the](/post/the/) [sound](/post/sound/) [of](/post/of/) applause."
 
 ## Synonyms
-- [Noise](/en/post/noise/)
-- [Tone](/en/post/tone/)
+- [Noise](/post/noise/)
+- [Tone](/post/tone/)
 - Acoustic
 - Audio
-- [Note](/en/post/note/)
+- [Note](/post/note/)
 - Utterance
 - Vocalization
 - Clang
-- [Ring](/en/post/ring/) ([as](/en/post/as/) [in](/en/post/in/) [bell](/en/post/bell/))
+- [Ring](/post/ring/) ([as](/post/as/) [in](/post/in/) [bell](/post/bell/))

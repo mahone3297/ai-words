@@ -7,32 +7,32 @@ description = '[ˈnailən] n.尼龙，耐纶'
 keywords = ['ai words', 'nylon']
 +++
 
-## [Word](/en/post/word/): [Nylon](/en/post/nylon/)
+## [Word](/post/word/): [Nylon](/post/nylon/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnaɪlən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [synthetic](/en/post/synthetic/) polymer [material](/en/post/material/) made [from](/en/post/from/) [a](/en/post/a/) [combination](/en/post/combination/) [of](/en/post/of/) diacids [and](/en/post/and/) diamines, known [for](/en/post/for/) [its](/en/post/its/) [strength](/en/post/strength/), durability, [and](/en/post/and/) [resistance](/en/post/resistance/) [to](/en/post/to/) [wear](/en/post/wear/) [and](/en/post/and/) [tear](/en/post/tear/). It's [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [clothing](/en/post/clothing/), [rope](/en/post/rope/), carpets, [and](/en/post/and/) [various](/en/post/various/) [industrial](/en/post/industrial/) applications. [Example](/en/post/example/): "[The](/en/post/the/) backpack straps were made [of](/en/post/of/) [strong](/en/post/strong/) [nylon](/en/post/nylon/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [synthetic](/post/synthetic/) polymer [material](/post/material/) made [from](/post/from/) [a](/post/a/) [combination](/post/combination/) [of](/post/of/) diacids [and](/post/and/) diamines, known [for](/post/for/) [its](/post/its/) [strength](/post/strength/), durability, [and](/post/and/) [resistance](/post/resistance/) [to](/post/to/) [wear](/post/wear/) [and](/post/and/) [tear](/post/tear/). It's [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [clothing](/post/clothing/), [rope](/post/rope/), carpets, [and](/post/and/) [various](/post/various/) [industrial](/post/industrial/) applications. [Example](/post/example/): "[The](/post/the/) backpack straps were made [of](/post/of/) [strong](/post/strong/) [nylon](/post/nylon/)."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) bought [a](/en/post/a/) [new](/en/post/new/) [pair](/en/post/pair/) [of](/en/post/of/) [nylon](/en/post/nylon/) stockings [that](/en/post/that/) wouldn't [run](/en/post/run/) [easily](/en/post/easily/)."
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- **[Noun](/post/noun/)**: "[She](/post/she/) bought [a](/post/a/) [new](/post/new/) [pair](/post/pair/) [of](/post/of/) [nylon](/post/nylon/) stockings [that](/post/that/) wouldn't [run](/post/run/) [easily](/post/easily/)."
 
 ## Phrases
-- "[Nylon](/en/post/nylon/) [fabric](/en/post/fabric/)": Refers [to](/en/post/to/) textiles made using [nylon](/en/post/nylon/) fibers.
-- "[Nylon](/en/post/nylon/) [thread](/en/post/thread/)": [A](/en/post/a/) [strong](/en/post/strong/), [synthetic](/en/post/synthetic/) [thread](/en/post/thread/) [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) stitching [or](/en/post/or/) sewing.
-- "[Nylon](/en/post/nylon/) [blend](/en/post/blend/)": [A](/en/post/a/) [fabric](/en/post/fabric/) [that](/en/post/that/) combines [nylon](/en/post/nylon/) [with](/en/post/with/) [other](/en/post/other/) materials [like](/en/post/like/) [cotton](/en/post/cotton/) [or](/en/post/or/) polyester.
+- "[Nylon](/post/nylon/) [fabric](/post/fabric/)": Refers [to](/post/to/) textiles made using [nylon](/post/nylon/) fibers.
+- "[Nylon](/post/nylon/) [thread](/post/thread/)": [A](/post/a/) [strong](/post/strong/), [synthetic](/post/synthetic/) [thread](/post/thread/) [often](/post/often/) [used](/post/used/) [for](/post/for/) stitching [or](/post/or/) sewing.
+- "[Nylon](/post/nylon/) [blend](/post/blend/)": [A](/post/a/) [fabric](/post/fabric/) [that](/post/that/) combines [nylon](/post/nylon/) [with](/post/with/) [other](/post/other/) materials [like](/post/like/) [cotton](/post/cotton/) [or](/post/or/) polyester.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) parachute was made [of](/en/post/of/) lightweight [yet](/en/post/yet/) sturdy [nylon](/en/post/nylon/) [material](/en/post/material/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) parachute was made [of](/post/of/) lightweight [yet](/post/yet/) sturdy [nylon](/post/nylon/) [material](/post/material/)."
 
 ## Synonyms
 - Polyamide
-- [Synthetic](/en/post/synthetic/) fiber
-- [Artificial](/en/post/artificial/) [silk](/en/post/silk/) (archaic)
+- [Synthetic](/post/synthetic/) fiber
+- [Artificial](/post/artificial/) [silk](/post/silk/) (archaic)
 
-## [Note](/en/post/note/) [on](/en/post/on/) [Usage](/en/post/usage/)
-[While](/en/post/while/) '[nylon](/en/post/nylon/)' does [not](/en/post/not/) [have](/en/post/have/) [direct](/en/post/direct/) [verb](/en/post/verb/) [or](/en/post/or/) [adjective](/en/post/adjective/) forms typically listed [in](/en/post/in/) [a](/en/post/a/) [dictionary](/en/post/dictionary/), [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) attributively [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) objects made [of](/en/post/of/) [nylon](/en/post/nylon/). [For](/en/post/for/) [instance](/en/post/instance/):
-- [Adjective](/en/post/adjective/) [usage](/en/post/usage/): "[She](/en/post/she/) wore [a](/en/post/a/) [nylon](/en/post/nylon/) raincoat [to](/en/post/to/) [protect](/en/post/protect/) [herself](/en/post/herself/) [from](/en/post/from/) [the](/en/post/the/) [rain](/en/post/rain/)." 
+## [Note](/post/note/) [on](/post/on/) [Usage](/post/usage/)
+[While](/post/while/) '[nylon](/post/nylon/)' does [not](/post/not/) [have](/post/have/) [direct](/post/direct/) [verb](/post/verb/) [or](/post/or/) [adjective](/post/adjective/) forms typically listed [in](/post/in/) [a](/post/a/) [dictionary](/post/dictionary/), [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) attributively [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) objects made [of](/post/of/) [nylon](/post/nylon/). [For](/post/for/) [instance](/post/instance/):
+- [Adjective](/post/adjective/) [usage](/post/usage/): "[She](/post/she/) wore [a](/post/a/) [nylon](/post/nylon/) raincoat [to](/post/to/) [protect](/post/protect/) [herself](/post/herself/) [from](/post/from/) [the](/post/the/) [rain](/post/rain/)." 
 
-[It](/en/post/it/) doesn't [fit](/en/post/fit/) [into](/en/post/into/) [the](/en/post/the/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) [like](/en/post/like/) [verb](/en/post/verb/), [adverb](/en/post/adverb/), [preposition](/en/post/preposition/), [conjunction](/en/post/conjunction/), [pronoun](/en/post/pronoun/), numeral, [or](/en/post/or/) interjection, [nor](/en/post/nor/) does [it](/en/post/it/) [have](/en/post/have/) [common](/en/post/common/) idiomatic phrases [or](/en/post/or/) interjections associated [with](/en/post/with/) [its](/en/post/its/) [usage](/en/post/usage/).
+[It](/post/it/) doesn't [fit](/post/fit/) [into](/post/into/) [the](/post/the/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) [like](/post/like/) [verb](/post/verb/), [adverb](/post/adverb/), [preposition](/post/preposition/), [conjunction](/post/conjunction/), [pronoun](/post/pronoun/), numeral, [or](/post/or/) interjection, [nor](/post/nor/) does [it](/post/it/) [have](/post/have/) [common](/post/common/) idiomatic phrases [or](/post/or/) interjections associated [with](/post/with/) [its](/post/its/) [usage](/post/usage/).

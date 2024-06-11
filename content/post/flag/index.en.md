@@ -7,37 +7,37 @@ description = '[flæg] n.旗，旗帜；旗舰旗'
 keywords = ['ai words', 'flag']
 +++
 
-## [Word](/en/post/word/): [Flag](/en/post/flag/)
-## [Pronunciation](/en/post/pronunciation/)
+## [Word](/post/word/): [Flag](/post/flag/)
+## [Pronunciation](/post/pronunciation/)
 /flæɡ/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [cloth](/en/post/cloth/), [often](/en/post/often/) rectangular, typically [with](/en/post/with/) distinctive colors [and](/en/post/and/) patterns, [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [symbol](/en/post/symbol/), signaling [device](/en/post/device/), [or](/en/post/or/) decoration, [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) represents [a](/en/post/a/) [country](/en/post/country/) [or](/en/post/or/) [organization](/en/post/organization/). [Example](/en/post/example/): "[The](/en/post/the/) [national](/en/post/national/) [flag](/en/post/flag/) [of](/en/post/of/) [the](/en/post/the/) United States features stars [and](/en/post/and/) stripes."
-  - [Also](/en/post/also/), [a](/en/post/a/) [symbol](/en/post/symbol/) [or](/en/post/or/) indicator [in](/en/post/in/) computing: "[A](/en/post/a/) [red](/en/post/red/) [flag](/en/post/flag/) indicating an [error](/en/post/error/)."
-  - [A](/en/post/a/) masthead [on](/en/post/on/) [a](/en/post/a/) [ship](/en/post/ship/) [or](/en/post/or/) [a](/en/post/a/) vehicle's registration [plate](/en/post/plate/): "[The](/en/post/the/) [ship](/en/post/ship/) sailed [under](/en/post/under/) [the](/en/post/the/) British [flag](/en/post/flag/)."
-  - [In](/en/post/in/) sports, [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) marker [or](/en/post/or/) [a](/en/post/a/) [signal](/en/post/signal/) [flag](/en/post/flag/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [certain](/en/post/certain/) situations [during](/en/post/during/) [play](/en/post/play/): "[The](/en/post/the/) referee raised [the](/en/post/the/) [yellow](/en/post/yellow/) [flag](/en/post/flag/) [for](/en/post/for/) [a](/en/post/a/) foul."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [cloth](/post/cloth/), [often](/post/often/) rectangular, typically [with](/post/with/) distinctive colors [and](/post/and/) patterns, [used](/post/used/) [as](/post/as/) [a](/post/a/) [symbol](/post/symbol/), signaling [device](/post/device/), [or](/post/or/) decoration, [especially](/post/especially/) [one](/post/one/) [that](/post/that/) represents [a](/post/a/) [country](/post/country/) [or](/post/or/) [organization](/post/organization/). [Example](/post/example/): "[The](/post/the/) [national](/post/national/) [flag](/post/flag/) [of](/post/of/) [the](/post/the/) United States features stars [and](/post/and/) stripes."
+  - [Also](/post/also/), [a](/post/a/) [symbol](/post/symbol/) [or](/post/or/) indicator [in](/post/in/) computing: "[A](/post/a/) [red](/post/red/) [flag](/post/flag/) indicating an [error](/post/error/)."
+  - [A](/post/a/) masthead [on](/post/on/) [a](/post/a/) [ship](/post/ship/) [or](/post/or/) [a](/post/a/) vehicle's registration [plate](/post/plate/): "[The](/post/the/) [ship](/post/ship/) sailed [under](/post/under/) [the](/post/the/) British [flag](/post/flag/)."
+  - [In](/post/in/) sports, [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) marker [or](/post/or/) [a](/post/a/) [signal](/post/signal/) [flag](/post/flag/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [certain](/post/certain/) situations [during](/post/during/) [play](/post/play/): "[The](/post/the/) referee raised [the](/post/the/) [yellow](/post/yellow/) [flag](/post/flag/) [for](/post/for/) [a](/post/a/) foul."
 
-- **[Verb](/en/post/verb/) (v)**: 
-  - [To](/en/post/to/) [signal](/en/post/signal/) [or](/en/post/or/) [indicate](/en/post/indicate/) [something](/en/post/something/) using [a](/en/post/a/) [flag](/en/post/flag/): "[The](/en/post/the/) [driver](/en/post/driver/) flagged [down](/en/post/down/) [the](/en/post/the/) passing [taxi](/en/post/taxi/)."
-  - [To](/en/post/to/) [mark](/en/post/mark/) [or](/en/post/or/) [identify](/en/post/identify/) [something](/en/post/something/) [as](/en/post/as/) [important](/en/post/important/) [or](/en/post/or/) problematic: "[The](/en/post/the/) [system](/en/post/system/) flagged [this](/en/post/this/) email [as](/en/post/as/) spam."
-  - [To](/en/post/to/) [show](/en/post/show/) [approval](/en/post/approval/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/): "[The](/en/post/the/) [crowd](/en/post/crowd/) was flagging [their](/en/post/their/) [support](/en/post/support/) [by](/en/post/by/) waving flags."
-  - [To](/en/post/to/) [become](/en/post/become/) weaker [or](/en/post/or/) decline: "[His](/en/post/his/) [energy](/en/post/energy/) flagged [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [of](/en/post/of/) [work](/en/post/work/)."
+- **[Verb](/post/verb/) (v)**: 
+  - [To](/post/to/) [signal](/post/signal/) [or](/post/or/) [indicate](/post/indicate/) [something](/post/something/) using [a](/post/a/) [flag](/post/flag/): "[The](/post/the/) [driver](/post/driver/) flagged [down](/post/down/) [the](/post/the/) passing [taxi](/post/taxi/)."
+  - [To](/post/to/) [mark](/post/mark/) [or](/post/or/) [identify](/post/identify/) [something](/post/something/) [as](/post/as/) [important](/post/important/) [or](/post/or/) problematic: "[The](/post/the/) [system](/post/system/) flagged [this](/post/this/) email [as](/post/as/) spam."
+  - [To](/post/to/) [show](/post/show/) [approval](/post/approval/) [or](/post/or/) [enthusiasm](/post/enthusiasm/): "[The](/post/the/) [crowd](/post/crowd/) was flagging [their](/post/their/) [support](/post/support/) [by](/post/by/) waving flags."
+  - [To](/post/to/) [become](/post/become/) weaker [or](/post/or/) decline: "[His](/post/his/) [energy](/post/energy/) flagged [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [of](/post/of/) [work](/post/work/)."
 
 ## Phrases
-- "[Fly](/en/post/fly/) [the](/en/post/the/) [flag](/en/post/flag/)": [To](/en/post/to/) [display](/en/post/display/) [a](/en/post/a/) [flag](/en/post/flag/) [as](/en/post/as/) [a](/en/post/a/) [sign](/en/post/sign/) [of](/en/post/of/) [pride](/en/post/pride/), patriotism, [or](/en/post/or/) allegiance.
-- "[Flag](/en/post/flag/) [down](/en/post/down/)": [To](/en/post/to/) [signal](/en/post/signal/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [to](/en/post/to/) [stop](/en/post/stop/), [usually](/en/post/usually/) [by](/en/post/by/) waving [a](/en/post/a/) [hand](/en/post/hand/) [or](/en/post/or/) [object](/en/post/object/) [like](/en/post/like/) [a](/en/post/a/) [flag](/en/post/flag/).
-- "[Red](/en/post/red/) [flag](/en/post/flag/)": [A](/en/post/a/) warning [signal](/en/post/signal/) [or](/en/post/or/) [indication](/en/post/indication/) [of](/en/post/of/) [potential](/en/post/potential/) [danger](/en/post/danger/) [or](/en/post/or/) [a](/en/post/a/) [problem](/en/post/problem/).
-- "[Flag](/en/post/flag/) [up](/en/post/up/)": [To](/en/post/to/) [draw](/en/post/draw/) [attention](/en/post/attention/) [to](/en/post/to/) [something](/en/post/something/) [or](/en/post/or/) [bring](/en/post/bring/) [it](/en/post/it/) [to](/en/post/to/) someone's [notice](/en/post/notice/).
+- "[Fly](/post/fly/) [the](/post/the/) [flag](/post/flag/)": [To](/post/to/) [display](/post/display/) [a](/post/a/) [flag](/post/flag/) [as](/post/as/) [a](/post/a/) [sign](/post/sign/) [of](/post/of/) [pride](/post/pride/), patriotism, [or](/post/or/) allegiance.
+- "[Flag](/post/flag/) [down](/post/down/)": [To](/post/to/) [signal](/post/signal/) [a](/post/a/) [vehicle](/post/vehicle/) [to](/post/to/) [stop](/post/stop/), [usually](/post/usually/) [by](/post/by/) waving [a](/post/a/) [hand](/post/hand/) [or](/post/or/) [object](/post/object/) [like](/post/like/) [a](/post/a/) [flag](/post/flag/).
+- "[Red](/post/red/) [flag](/post/flag/)": [A](/post/a/) warning [signal](/post/signal/) [or](/post/or/) [indication](/post/indication/) [of](/post/of/) [potential](/post/potential/) [danger](/post/danger/) [or](/post/or/) [a](/post/a/) [problem](/post/problem/).
+- "[Flag](/post/flag/) [up](/post/up/)": [To](/post/to/) [draw](/post/draw/) [attention](/post/attention/) [to](/post/to/) [something](/post/something/) [or](/post/or/) [bring](/post/bring/) [it](/post/it/) [to](/post/to/) someone's [notice](/post/notice/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[They](/en/post/they/) hoisted [the](/en/post/the/) [American](/en/post/american/) [flag](/en/post/flag/) [on](/en/post/on/) [Independence](/en/post/independence/) [Day](/en/post/day/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) detective flagged [the](/en/post/the/) suspicious transaction [in](/en/post/in/) [the](/en/post/the/) [report](/en/post/report/)."
-- **Idiomatic [usage](/en/post/usage/)**: "[After](/en/post/after/) running [several](/en/post/several/) miles, [his](/en/post/his/) stamina flagged."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[They](/post/they/) hoisted [the](/post/the/) [American](/post/american/) [flag](/post/flag/) [on](/post/on/) [Independence](/post/independence/) [Day](/post/day/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) detective flagged [the](/post/the/) suspicious transaction [in](/post/in/) [the](/post/the/) [report](/post/report/)."
+- **Idiomatic [usage](/post/usage/)**: "[After](/post/after/) running [several](/post/several/) miles, [his](/post/his/) stamina flagged."
 
 ## Synonyms
-- [Banner](/en/post/banner/)
-- [Standard](/en/post/standard/)
-- Ensign ([for](/en/post/for/) [a](/en/post/a/) country's [flag](/en/post/flag/))
-- [Signal](/en/post/signal/) ([for](/en/post/for/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) flagging [something](/en/post/something/))
-- [Mark](/en/post/mark/) ([as](/en/post/as/) [in](/en/post/in/) marking [something](/en/post/something/) [as](/en/post/as/) [important](/en/post/important/))  
-- Wane ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) declining [strength](/en/post/strength/) [or](/en/post/or/) [energy](/en/post/energy/))
+- [Banner](/post/banner/)
+- [Standard](/post/standard/)
+- Ensign ([for](/post/for/) [a](/post/a/) country's [flag](/post/flag/))
+- [Signal](/post/signal/) ([for](/post/for/) [the](/post/the/) [action](/post/action/) [of](/post/of/) flagging [something](/post/something/))
+- [Mark](/post/mark/) ([as](/post/as/) [in](/post/in/) marking [something](/post/something/) [as](/post/as/) [important](/post/important/))  
+- Wane ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) declining [strength](/post/strength/) [or](/post/or/) [energy](/post/energy/))

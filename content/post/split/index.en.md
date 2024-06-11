@@ -7,37 +7,37 @@ description = '[split] vt.劈开 vi.被劈开'
 keywords = ['ai words', 'split']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /splɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Split](/en/post/split/) ([noun](/en/post/noun/))**: [A](/en/post/a/) [division](/en/post/division/) [or](/en/post/or/) [separation](/en/post/separation/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [along](/en/post/along/) [a](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) [into](/en/post/into/) parts. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [argument](/en/post/argument/) led [to](/en/post/to/) [a](/en/post/a/) [deep](/en/post/deep/) [split](/en/post/split/) [within](/en/post/within/) [the](/en/post/the/) [company](/en/post/company/)."
-- **[Split](/en/post/split/) [decision](/en/post/decision/)**: [A](/en/post/a/) disagreement [that](/en/post/that/) results [in](/en/post/in/) [a](/en/post/a/) divided [choice](/en/post/choice/) [or](/en/post/or/) [opinion](/en/post/opinion/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [jury](/en/post/jury/) reached [a](/en/post/a/) [split](/en/post/split/) [decision](/en/post/decision/) [on](/en/post/on/) [the](/en/post/the/) defendant's guilt."
+### [Noun](/post/noun/)
+- **[Split](/post/split/) ([noun](/post/noun/))**: [A](/post/a/) [division](/post/division/) [or](/post/or/) [separation](/post/separation/) [of](/post/of/) [something](/post/something/), [often](/post/often/) [along](/post/along/) [a](/post/a/) [line](/post/line/) [or](/post/or/) [into](/post/into/) parts. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [argument](/post/argument/) led [to](/post/to/) [a](/post/a/) [deep](/post/deep/) [split](/post/split/) [within](/post/within/) [the](/post/the/) [company](/post/company/)."
+- **[Split](/post/split/) [decision](/post/decision/)**: [A](/post/a/) disagreement [that](/post/that/) results [in](/post/in/) [a](/post/a/) divided [choice](/post/choice/) [or](/post/or/) [opinion](/post/opinion/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [jury](/post/jury/) reached [a](/post/a/) [split](/post/split/) [decision](/post/decision/) [on](/post/on/) [the](/post/the/) defendant's guilt."
 
-### [Verb](/en/post/verb/)
-- **[Split](/en/post/split/) ([verb](/en/post/verb/))**:
-  - **[To](/en/post/to/) [split](/en/post/split/) [something](/en/post/something/)**: [To](/en/post/to/) [divide](/en/post/divide/) [it](/en/post/it/) [into](/en/post/into/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) parts, physically [or](/en/post/or/) metaphorically. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [split](/en/post/split/) [the](/en/post/the/) [log](/en/post/log/) [with](/en/post/with/) an [ax](/en/post/ax/)."
-  - **[To](/en/post/to/) [split](/en/post/split/) [apart](/en/post/apart/)**: [To](/en/post/to/) [separate](/en/post/separate/) [or](/en/post/or/) [come](/en/post/come/) [apart](/en/post/apart/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) friends [eventually](/en/post/eventually/) [split](/en/post/split/) [apart](/en/post/apart/) [after](/en/post/after/) [a](/en/post/a/) falling [out](/en/post/out/)."
-- **[To](/en/post/to/) [split](/en/post/split/) hairs**: [To](/en/post/to/) nitpick [over](/en/post/over/) [minor](/en/post/minor/) details [or](/en/post/or/) distinctions. [For](/en/post/for/) [example](/en/post/example/): "Don't [split](/en/post/split/) hairs [over](/en/post/over/) [the](/en/post/the/) [exact](/en/post/exact/) [meaning](/en/post/meaning/) [of](/en/post/of/) [the](/en/post/the/) [word](/en/post/word/)."
+### [Verb](/post/verb/)
+- **[Split](/post/split/) ([verb](/post/verb/))**:
+  - **[To](/post/to/) [split](/post/split/) [something](/post/something/)**: [To](/post/to/) [divide](/post/divide/) [it](/post/it/) [into](/post/into/) [two](/post/two/) [or](/post/or/) [more](/post/more/) parts, physically [or](/post/or/) metaphorically. [For](/post/for/) [example](/post/example/): "[He](/post/he/) [split](/post/split/) [the](/post/the/) [log](/post/log/) [with](/post/with/) an [ax](/post/ax/)."
+  - **[To](/post/to/) [split](/post/split/) [apart](/post/apart/)**: [To](/post/to/) [separate](/post/separate/) [or](/post/or/) [come](/post/come/) [apart](/post/apart/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) friends [eventually](/post/eventually/) [split](/post/split/) [apart](/post/apart/) [after](/post/after/) [a](/post/a/) falling [out](/post/out/)."
+- **[To](/post/to/) [split](/post/split/) hairs**: [To](/post/to/) nitpick [over](/post/over/) [minor](/post/minor/) details [or](/post/or/) distinctions. [For](/post/for/) [example](/post/example/): "Don't [split](/post/split/) hairs [over](/post/over/) [the](/post/the/) [exact](/post/exact/) [meaning](/post/meaning/) [of](/post/of/) [the](/post/the/) [word](/post/word/)."
 
-### [Adjective](/en/post/adjective/)
-- **Split-screen**: Having [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) images [or](/en/post/or/) scenes displayed simultaneously, [often](/en/post/often/) horizontally. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [movie](/en/post/movie/) featured [a](/en/post/a/) split-screen showing [the](/en/post/the/) [main](/en/post/main/) character's thoughts."
+### [Adjective](/post/adjective/)
+- **Split-screen**: Having [two](/post/two/) [or](/post/or/) [more](/post/more/) images [or](/post/or/) scenes displayed simultaneously, [often](/post/often/) horizontally. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [movie](/post/movie/) featured [a](/post/a/) split-screen showing [the](/post/the/) [main](/post/main/) character's thoughts."
 
 ## Phrases
-- "[Split](/en/post/split/) [the](/en/post/the/) [bill](/en/post/bill/)": [Share](/en/post/share/) [the](/en/post/the/) [cost](/en/post/cost/) [of](/en/post/of/) [a](/en/post/a/) [meal](/en/post/meal/) equally [among](/en/post/among/) diners.
-- "Split-second [decision](/en/post/decision/)": [A](/en/post/a/) [decision](/en/post/decision/) made [very](/en/post/very/) [quickly](/en/post/quickly/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [fraction](/en/post/fraction/) [of](/en/post/of/) [a](/en/post/a/) [second](/en/post/second/).
-- "[A](/en/post/a/) [split](/en/post/split/) personality": [A](/en/post/a/) [psychological](/en/post/psychological/) [term](/en/post/term/) [for](/en/post/for/) having [two](/en/post/two/) [distinct](/en/post/distinct/) personalities [within](/en/post/within/) an [individual](/en/post/individual/).
+- "[Split](/post/split/) [the](/post/the/) [bill](/post/bill/)": [Share](/post/share/) [the](/post/the/) [cost](/post/cost/) [of](/post/of/) [a](/post/a/) [meal](/post/meal/) equally [among](/post/among/) diners.
+- "Split-second [decision](/post/decision/)": [A](/post/a/) [decision](/post/decision/) made [very](/post/very/) [quickly](/post/quickly/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [fraction](/post/fraction/) [of](/post/of/) [a](/post/a/) [second](/post/second/).
+- "[A](/post/a/) [split](/post/split/) personality": [A](/post/a/) [psychological](/post/psychological/) [term](/post/term/) [for](/post/for/) having [two](/post/two/) [distinct](/post/distinct/) personalities [within](/post/within/) an [individual](/post/individual/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) team's [internal](/en/post/internal/) [conflict](/en/post/conflict/) resulted [in](/en/post/in/) [a](/en/post/a/) [major](/en/post/major/) [split](/en/post/split/) [between](/en/post/between/) [the](/en/post/the/) [coach](/en/post/coach/) [and](/en/post/and/) [the](/en/post/the/) players."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) marathon, [he](/en/post/he/) felt [a](/en/post/a/) [sharp](/en/post/sharp/) [pain](/en/post/pain/) [in](/en/post/in/) [his](/en/post/his/) [leg](/en/post/leg/), indicating [a](/en/post/a/) [potential](/en/post/potential/) [muscle](/en/post/muscle/) [split](/en/post/split/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) TV [set](/en/post/set/) has [a](/en/post/a/) stunning split-screen [feature](/en/post/feature/) [for](/en/post/for/) watching [multiple](/en/post/multiple/) channels [at](/en/post/at/) [once](/en/post/once/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) team's [internal](/post/internal/) [conflict](/post/conflict/) resulted [in](/post/in/) [a](/post/a/) [major](/post/major/) [split](/post/split/) [between](/post/between/) [the](/post/the/) [coach](/post/coach/) [and](/post/and/) [the](/post/the/) players."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) marathon, [he](/post/he/) felt [a](/post/a/) [sharp](/post/sharp/) [pain](/post/pain/) [in](/post/in/) [his](/post/his/) [leg](/post/leg/), indicating [a](/post/a/) [potential](/post/potential/) [muscle](/post/muscle/) [split](/post/split/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) TV [set](/post/set/) has [a](/post/a/) stunning split-screen [feature](/post/feature/) [for](/post/for/) watching [multiple](/post/multiple/) channels [at](/post/at/) [once](/post/once/)."
 
 ## Synonyms
-- [Divide](/en/post/divide/)
+- [Divide](/post/divide/)
 - Partition
-- [Fragment](/en/post/fragment/)
+- [Fragment](/post/fragment/)
 - Dissect
 - Sever
 - Hinge

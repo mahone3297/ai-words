@@ -7,26 +7,26 @@ description = '[ˈjəːli] a.每年的 ad.一年一度'
 keywords = ['ai words', 'yearly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjɪəli/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Occurring, happening, [or](/en/post/or/) performed [once](/en/post/once/) [every](/en/post/every/) [year](/en/post/year/); [annual](/en/post/annual/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) holds [a](/en/post/a/) [yearly](/en/post/yearly/) [retreat](/en/post/retreat/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [yearly](/en/post/yearly/) [manner](/en/post/manner/); annually. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) saves [money](/en/post/money/) [yearly](/en/post/yearly/) [for](/en/post/for/) [her](/en/post/her/) [vacation](/en/post/vacation/)."
+- **[Adjective](/post/adjective/)**: Occurring, happening, [or](/post/or/) performed [once](/post/once/) [every](/post/every/) [year](/post/year/); [annual](/post/annual/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) holds [a](/post/a/) [yearly](/post/yearly/) [retreat](/post/retreat/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [yearly](/post/yearly/) [manner](/post/manner/); annually. [For](/post/for/) [example](/post/example/): "[She](/post/she/) saves [money](/post/money/) [yearly](/post/yearly/) [for](/post/for/) [her](/post/her/) [vacation](/post/vacation/)."
 
 ## Phrases
-- "[Yearly](/en/post/yearly/) [income](/en/post/income/)" refers [to](/en/post/to/) [the](/en/post/the/) earnings received [once](/en/post/once/) [a](/en/post/a/) [year](/en/post/year/).
-- "[Yearly](/en/post/yearly/) subscription" is [a](/en/post/a/) recurring [payment](/en/post/payment/) [for](/en/post/for/) [a](/en/post/a/) [service](/en/post/service/) [or](/en/post/or/) [product](/en/post/product/) [on](/en/post/on/) an [annual](/en/post/annual/) [basis](/en/post/basis/).
-- "[Yearly](/en/post/yearly/) [report](/en/post/report/)" is [a](/en/post/a/) [summary](/en/post/summary/) [of](/en/post/of/) activities [or](/en/post/or/) financials [for](/en/post/for/) [a](/en/post/a/) 12-month [period](/en/post/period/).
+- "[Yearly](/post/yearly/) [income](/post/income/)" refers [to](/post/to/) [the](/post/the/) earnings received [once](/post/once/) [a](/post/a/) [year](/post/year/).
+- "[Yearly](/post/yearly/) subscription" is [a](/post/a/) recurring [payment](/post/payment/) [for](/post/for/) [a](/post/a/) [service](/post/service/) [or](/post/or/) [product](/post/product/) [on](/post/on/) an [annual](/post/annual/) [basis](/post/basis/).
+- "[Yearly](/post/yearly/) [report](/post/report/)" is [a](/post/a/) [summary](/post/summary/) [of](/post/of/) activities [or](/post/or/) financials [for](/post/for/) [a](/post/a/) 12-month [period](/post/period/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [company](/en/post/company/) publishes [a](/en/post/a/) [yearly](/en/post/yearly/) [financial](/en/post/financial/) [report](/en/post/report/)."
-- **[Adverb](/en/post/adverb/)**: "[We](/en/post/we/) [review](/en/post/review/) [our](/en/post/our/) goals [yearly](/en/post/yearly/) [to](/en/post/to/) [set](/en/post/set/) [new](/en/post/new/) targets."
-- "[She](/en/post/she/) takes [a](/en/post/a/) [yearly](/en/post/yearly/) [vacation](/en/post/vacation/) [to](/en/post/to/) [explore](/en/post/explore/) [new](/en/post/new/) places."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [company](/post/company/) publishes [a](/post/a/) [yearly](/post/yearly/) [financial](/post/financial/) [report](/post/report/)."
+- **[Adverb](/post/adverb/)**: "[We](/post/we/) [review](/post/review/) [our](/post/our/) goals [yearly](/post/yearly/) [to](/post/to/) [set](/post/set/) [new](/post/new/) targets."
+- "[She](/post/she/) takes [a](/post/a/) [yearly](/post/yearly/) [vacation](/post/vacation/) [to](/post/to/) [explore](/post/explore/) [new](/post/new/) places."
 
 ## Synonyms
-- [Annual](/en/post/annual/)
+- [Annual](/post/annual/)
 - Seasonal
-- [Regularly](/en/post/regularly/) [annual](/en/post/annual/)
+- [Regularly](/post/regularly/) [annual](/post/annual/)
 - Once-a-year
-- Year-round (referring [to](/en/post/to/) [a](/en/post/a/) recurring [event](/en/post/event/) [throughout](/en/post/throughout/) [the](/en/post/the/) [year](/en/post/year/))
+- Year-round (referring [to](/post/to/) [a](/post/a/) recurring [event](/post/event/) [throughout](/post/throughout/) [the](/post/the/) [year](/post/year/))

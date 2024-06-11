@@ -7,29 +7,29 @@ description = '[ziːl] n.热心，热情，热忱'
 keywords = ['ai words', 'zeal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ziːl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: **[Zeal](/en/post/zeal/)** ([noun](/en/post/noun/)) refers [to](/en/post/to/) [intense](/en/post/intense/) [enthusiasm](/en/post/enthusiasm/), [passion](/en/post/passion/), [or](/en/post/or/) devotion towards [a](/en/post/a/) [cause](/en/post/cause/), [belief](/en/post/belief/), [or](/en/post/or/) [activity](/en/post/activity/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [describe](/en/post/describe/) [a](/en/post/a/) fervent [loyalty](/en/post/loyalty/) [or](/en/post/or/) dedication.
-- **[Adjective](/en/post/adjective/)**: **[Zealous](/en/post/zealous/)** ([adjective](/en/post/adjective/)) is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [who](/en/post/who/) is [extremely](/en/post/extremely/) [enthusiastic](/en/post/enthusiastic/), [zealous](/en/post/zealous/), [or](/en/post/or/) fervently committed [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [cause](/en/post/cause/) [or](/en/post/or/) [belief](/en/post/belief/).
+- **[Noun](/post/noun/)**: **[Zeal](/post/zeal/)** ([noun](/post/noun/)) refers [to](/post/to/) [intense](/post/intense/) [enthusiasm](/post/enthusiasm/), [passion](/post/passion/), [or](/post/or/) devotion towards [a](/post/a/) [cause](/post/cause/), [belief](/post/belief/), [or](/post/or/) [activity](/post/activity/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [describe](/post/describe/) [a](/post/a/) fervent [loyalty](/post/loyalty/) [or](/post/or/) dedication.
+- **[Adjective](/post/adjective/)**: **[Zealous](/post/zealous/)** ([adjective](/post/adjective/)) is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [who](/post/who/) is [extremely](/post/extremely/) [enthusiastic](/post/enthusiastic/), [zealous](/post/zealous/), [or](/post/or/) fervently committed [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [cause](/post/cause/) [or](/post/or/) [belief](/post/belief/).
 
 ## Phrases
-- "Displaying [zeal](/en/post/zeal/) [for](/en/post/for/) [a](/en/post/a/) [project](/en/post/project/)" [means](/en/post/means/) showing [great](/en/post/great/) [enthusiasm](/en/post/enthusiasm/) [and](/en/post/and/) [effort](/en/post/effort/).
-- "[A](/en/post/a/) [zealous](/en/post/zealous/) advocate" is [someone](/en/post/someone/) [who](/en/post/who/) is [strongly](/en/post/strongly/) supportive [and](/en/post/and/) passionate [about](/en/post/about/) [a](/en/post/a/) [cause](/en/post/cause/).
-- "[With](/en/post/with/) unbridled [zeal](/en/post/zeal/)" expresses [complete](/en/post/complete/) [and](/en/post/and/) unchecked [enthusiasm](/en/post/enthusiasm/).
+- "Displaying [zeal](/post/zeal/) [for](/post/for/) [a](/post/a/) [project](/post/project/)" [means](/post/means/) showing [great](/post/great/) [enthusiasm](/post/enthusiasm/) [and](/post/and/) [effort](/post/effort/).
+- "[A](/post/a/) [zealous](/post/zealous/) advocate" is [someone](/post/someone/) [who](/post/who/) is [strongly](/post/strongly/) supportive [and](/post/and/) passionate [about](/post/about/) [a](/post/a/) [cause](/post/cause/).
+- "[With](/post/with/) unbridled [zeal](/post/zeal/)" expresses [complete](/post/complete/) [and](/post/and/) unchecked [enthusiasm](/post/enthusiasm/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) brought [a](/en/post/a/) [zealous](/en/post/zealous/) [energy](/en/post/energy/) [to](/en/post/to/) [her](/en/post/her/) [work](/en/post/work/), inspiring others [to](/en/post/to/) [follow](/en/post/follow/) [her](/en/post/her/) [lead](/en/post/lead/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [zealous](/en/post/zealous/) [teacher](/en/post/teacher/) motivated [her](/en/post/her/) students [with](/en/post/with/) [their](/en/post/their/) unwavering commitment [to](/en/post/to/) [learning](/en/post/learning/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) pursued [his](/en/post/his/) hobbies [with](/en/post/with/) unyielding [zeal](/en/post/zeal/), spending countless hours perfecting [his](/en/post/his/) [craft](/en/post/craft/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) brought [a](/post/a/) [zealous](/post/zealous/) [energy](/post/energy/) [to](/post/to/) [her](/post/her/) [work](/post/work/), inspiring others [to](/post/to/) [follow](/post/follow/) [her](/post/her/) [lead](/post/lead/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [zealous](/post/zealous/) [teacher](/post/teacher/) motivated [her](/post/her/) students [with](/post/with/) [their](/post/their/) unwavering commitment [to](/post/to/) [learning](/post/learning/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) pursued [his](/post/his/) hobbies [with](/post/with/) unyielding [zeal](/post/zeal/), spending countless hours perfecting [his](/post/his/) [craft](/post/craft/)."
 
 ## Synonyms
 - Vigor
-- [Enthusiasm](/en/post/enthusiasm/)
-- [Passion](/en/post/passion/)
+- [Enthusiasm](/post/enthusiasm/)
+- [Passion](/post/passion/)
 - Dedication
-- [Vigorous](/en/post/vigorous/) commitment
+- [Vigorous](/post/vigorous/) commitment
 - Fervor
 - Energetic devotion
 

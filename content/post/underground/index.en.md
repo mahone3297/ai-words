@@ -7,28 +7,28 @@ description = '[ˈʌndəgraund] a.地下的；秘密的'
 keywords = ['ai words', 'underground']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʌndəɡraʊnd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-   - [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [city](/en/post/city/) [or](/en/post/or/) [town](/en/post/town/) [below](/en/post/below/) [the](/en/post/the/) [ground](/en/post/ground/) [level](/en/post/level/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) [transportation](/en/post/transportation/) (e.g., subway, metro) [or](/en/post/or/) [storage](/en/post/storage/).
-   - [A](/en/post/a/) [secret](/en/post/secret/) [or](/en/post/or/) hidden [society](/en/post/society/) [or](/en/post/or/) [activity](/en/post/activity/).
-   - [A](/en/post/a/) figurative [sense](/en/post/sense/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) is kept hidden [or](/en/post/or/) [out](/en/post/out/) [of](/en/post/of/) [public](/en/post/public/) [view](/en/post/view/).
-   - [Music](/en/post/music/) [or](/en/post/or/) [art](/en/post/art/) produced [by](/en/post/by/) artists [who](/en/post/who/) are [not](/en/post/not/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) mainstream [music](/en/post/music/) [industry](/en/post/industry/).
+- **[Noun](/post/noun/)**: 
+   - [A](/post/a/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [city](/post/city/) [or](/post/or/) [town](/post/town/) [below](/post/below/) [the](/post/the/) [ground](/post/ground/) [level](/post/level/), [often](/post/often/) [used](/post/used/) [for](/post/for/) [transportation](/post/transportation/) (e.g., subway, metro) [or](/post/or/) [storage](/post/storage/).
+   - [A](/post/a/) [secret](/post/secret/) [or](/post/or/) hidden [society](/post/society/) [or](/post/or/) [activity](/post/activity/).
+   - [A](/post/a/) figurative [sense](/post/sense/) [of](/post/of/) [something](/post/something/) [that](/post/that/) is kept hidden [or](/post/or/) [out](/post/out/) [of](/post/of/) [public](/post/public/) [view](/post/view/).
+   - [Music](/post/music/) [or](/post/or/) [art](/post/art/) produced [by](/post/by/) artists [who](/post/who/) are [not](/post/not/) [part](/post/part/) [of](/post/of/) [the](/post/the/) mainstream [music](/post/music/) [industry](/post/industry/).
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [or](/en/post/or/) [operate](/en/post/operate/) [beneath](/en/post/beneath/) [the](/en/post/the/) [surface](/en/post/surface/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) hidden [or](/en/post/or/) secretive [manner](/en/post/manner/).
-- **[Adjective](/en/post/adjective/)**: Concealed, clandestine, [or](/en/post/or/) [below](/en/post/below/) [the](/en/post/the/) [surface](/en/post/surface/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) [or](/post/or/) [operate](/post/operate/) [beneath](/post/beneath/) [the](/post/the/) [surface](/post/surface/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) hidden [or](/post/or/) secretive [manner](/post/manner/).
+- **[Adjective](/post/adjective/)**: Concealed, clandestine, [or](/post/or/) [below](/post/below/) [the](/post/the/) [surface](/post/surface/).
 
 ## Phrases
-- "[Go](/en/post/go/) [underground](/en/post/underground/)" refers [to](/en/post/to/) going [into](/en/post/into/) hiding [or](/en/post/or/) becoming secretive.
-- "[Underground](/en/post/underground/) [network](/en/post/network/)" denotes [a](/en/post/a/) hidden [communication](/en/post/communication/) [system](/en/post/system/) [or](/en/post/or/) [organization](/en/post/organization/).
-- "[Underground](/en/post/underground/) [music](/en/post/music/) [scene](/en/post/scene/)" describes [the](/en/post/the/) lesser-known [or](/en/post/or/) [alternative](/en/post/alternative/) [music](/en/post/music/) [community](/en/post/community/).
+- "[Go](/post/go/) [underground](/post/underground/)" refers [to](/post/to/) going [into](/post/into/) hiding [or](/post/or/) becoming secretive.
+- "[Underground](/post/underground/) [network](/post/network/)" denotes [a](/post/a/) hidden [communication](/post/communication/) [system](/post/system/) [or](/post/or/) [organization](/post/organization/).
+- "[Underground](/post/underground/) [music](/post/music/) [scene](/post/scene/)" describes [the](/post/the/) lesser-known [or](/post/or/) [alternative](/post/alternative/) [music](/post/music/) [community](/post/community/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [underground](/en/post/underground/) [train](/en/post/train/) [system](/en/post/system/) is [a](/en/post/a/) [convenient](/en/post/convenient/) [way](/en/post/way/) [to](/en/post/to/) [travel](/en/post/travel/) [through](/en/post/through/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [go](/en/post/go/) [underground](/en/post/underground/) [after](/en/post/after/) [being](/en/post/being/) pursued [by](/en/post/by/) [the](/en/post/the/) authorities."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [secret](/en/post/secret/) [meeting](/en/post/meeting/) was held [in](/en/post/in/) an [underground](/en/post/underground/) [location](/en/post/location/) [to](/en/post/to/) [avoid](/en/post/avoid/) [detection](/en/post/detection/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [underground](/post/underground/) [train](/post/train/) [system](/post/system/) is [a](/post/a/) [convenient](/post/convenient/) [way](/post/way/) [to](/post/to/) [travel](/post/travel/) [through](/post/through/) [the](/post/the/) [city](/post/city/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) decided [to](/post/to/) [go](/post/go/) [underground](/post/underground/) [after](/post/after/) [being](/post/being/) pursued [by](/post/by/) [the](/post/the/) authorities."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [secret](/post/secret/) [meeting](/post/meeting/) was held [in](/post/in/) an [underground](/post/underground/) [location](/post/location/) [to](/post/to/) [avoid](/post/avoid/) [detection](/post/detection/)."
 
 ## Synonyms
 - Subterranean
@@ -40,6 +40,6 @@ keywords = ['ai words', 'underground']
 
 ## Antonyms
 - Surface-level
-- [Public](/en/post/public/)
-- [Open](/en/post/open/)
-- [Transparent](/en/post/transparent/)
+- [Public](/post/public/)
+- [Open](/post/open/)
+- [Transparent](/post/transparent/)

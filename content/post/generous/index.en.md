@@ -7,36 +7,36 @@ description = '[ˈdʒenərəs] a.慷慨的；宽厚的'
 keywords = ['ai words', 'generous']
 +++
 
-## [Word](/en/post/word/): [Generous](/en/post/generous/)
+## [Word](/post/word/): [Generous](/post/generous/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒenərəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Showing [a](/en/post/a/) readiness [to](/en/post/to/) [give](/en/post/give/) [more](/en/post/more/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [money](/en/post/money/) [or](/en/post/or/) [time](/en/post/time/), [than](/en/post/than/) is [strictly](/en/post/strictly/) [necessary](/en/post/necessary/) [or](/en/post/or/) expected; [being](/en/post/being/) [kind](/en/post/kind/) [and](/en/post/and/) [liberal](/en/post/liberal/) [in](/en/post/in/) giving. 
+- **[Adjective](/post/adjective/)**: Showing [a](/post/a/) readiness [to](/post/to/) [give](/post/give/) [more](/post/more/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [money](/post/money/) [or](/post/or/) [time](/post/time/), [than](/post/than/) is [strictly](/post/strictly/) [necessary](/post/necessary/) [or](/post/or/) expected; [being](/post/being/) [kind](/post/kind/) [and](/post/and/) [liberal](/post/liberal/) [in](/post/in/) giving. 
 
-  - *[Example](/en/post/example/) [Sentence](/en/post/sentence/)*: She's known [for](/en/post/for/) [her](/en/post/her/) [generous](/en/post/generous/) donations [to](/en/post/to/) [various](/en/post/various/) charities.
+  - *[Example](/post/example/) [Sentence](/post/sentence/)*: She's known [for](/post/for/) [her](/post/her/) [generous](/post/generous/) donations [to](/post/to/) [various](/post/various/) charities.
   
-- **[Character](/en/post/character/) Trait**: Describing [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [a](/en/post/a/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) magnanimous, unselfish, [and](/en/post/and/) large-hearted, [often](/en/post/often/) displayed [through](/en/post/through/) [their](/en/post/their/) actions towards others.
+- **[Character](/post/character/) Trait**: Describing [a](/post/a/) [person](/post/person/) [who](/post/who/) has [a](/post/a/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) magnanimous, unselfish, [and](/post/and/) large-hearted, [often](/post/often/) displayed [through](/post/through/) [their](/post/their/) actions towards others.
 
-  - *[Example](/en/post/example/) [Sentence](/en/post/sentence/)*: [He](/en/post/he/) was [so](/en/post/so/) [generous](/en/post/generous/) [with](/en/post/with/) [his](/en/post/his/) [praise](/en/post/praise/) [when](/en/post/when/) [we](/en/post/we/) completed [the](/en/post/the/) [project](/en/post/project/) [successfully](/en/post/successfully/).
+  - *[Example](/post/example/) [Sentence](/post/sentence/)*: [He](/post/he/) was [so](/post/so/) [generous](/post/generous/) [with](/post/with/) [his](/post/his/) [praise](/post/praise/) [when](/post/when/) [we](/post/we/) completed [the](/post/the/) [project](/post/project/) [successfully](/post/successfully/).
 
 ## Phrases
-- **[Generous](/en/post/generous/) donation/[gift](/en/post/gift/)**: [A](/en/post/a/) [significant](/en/post/significant/) contribution [or](/en/post/or/) [present](/en/post/present/) [that](/en/post/that/) exceeds expectations.
-  - *[Example](/en/post/example/)*: [The](/en/post/the/) [organization](/en/post/organization/) received [a](/en/post/a/) [generous](/en/post/generous/) donation [from](/en/post/from/) [a](/en/post/a/) [local](/en/post/local/) [business](/en/post/business/).
+- **[Generous](/post/generous/) donation/[gift](/post/gift/)**: [A](/post/a/) [significant](/post/significant/) contribution [or](/post/or/) [present](/post/present/) [that](/post/that/) exceeds expectations.
+  - *[Example](/post/example/)*: [The](/post/the/) [organization](/post/organization/) received [a](/post/a/) [generous](/post/generous/) donation [from](/post/from/) [a](/post/a/) [local](/post/local/) [business](/post/business/).
   
-- **[To](/en/post/to/) [be](/en/post/be/) [generous](/en/post/generous/) [with](/en/post/with/) [something](/en/post/something/)**: [To](/en/post/to/) [give](/en/post/give/) [or](/en/post/or/) [offer](/en/post/offer/) [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [something](/en/post/something/) [freely](/en/post/freely/).
-  - *[Example](/en/post/example/)*: [They](/en/post/they/) were [very](/en/post/very/) [generous](/en/post/generous/) [with](/en/post/with/) [their](/en/post/their/) hospitality [during](/en/post/during/) [our](/en/post/our/) [stay](/en/post/stay/).
+- **[To](/post/to/) [be](/post/be/) [generous](/post/generous/) [with](/post/with/) [something](/post/something/)**: [To](/post/to/) [give](/post/give/) [or](/post/or/) [offer](/post/offer/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [something](/post/something/) [freely](/post/freely/).
+  - *[Example](/post/example/)*: [They](/post/they/) were [very](/post/very/) [generous](/post/generous/) [with](/post/with/) [their](/post/their/) hospitality [during](/post/during/) [our](/post/our/) [stay](/post/stay/).
 
-- **Generosity [of](/en/post/of/) [spirit](/en/post/spirit/)**: [The](/en/post/the/) disposition [to](/en/post/to/) [give](/en/post/give/) [freely](/en/post/freely/) [without](/en/post/without/) expecting [anything](/en/post/anything/) [in](/en/post/in/) [return](/en/post/return/), [often](/en/post/often/) referring [to](/en/post/to/) an [inner](/en/post/inner/) [kindness](/en/post/kindness/) [and](/en/post/and/) benevolence.
-  - *[Example](/en/post/example/)*: [Her](/en/post/her/) generosity [of](/en/post/of/) [spirit](/en/post/spirit/) made [her](/en/post/her/) [beloved](/en/post/beloved/) [by](/en/post/by/) [everyone](/en/post/everyone/) [in](/en/post/in/) [the](/en/post/the/) [community](/en/post/community/).
+- **Generosity [of](/post/of/) [spirit](/post/spirit/)**: [The](/post/the/) disposition [to](/post/to/) [give](/post/give/) [freely](/post/freely/) [without](/post/without/) expecting [anything](/post/anything/) [in](/post/in/) [return](/post/return/), [often](/post/often/) referring [to](/post/to/) an [inner](/post/inner/) [kindness](/post/kindness/) [and](/post/and/) benevolence.
+  - *[Example](/post/example/)*: [Her](/post/her/) generosity [of](/post/of/) [spirit](/post/spirit/) made [her](/post/her/) [beloved](/post/beloved/) [by](/post/by/) [everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) [community](/post/community/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) [Usage](/en/post/usage/)**: [The](/en/post/the/) [company](/en/post/company/) offers [its](/en/post/its/) employees [a](/en/post/a/) [generous](/en/post/generous/) benefits [package](/en/post/package/), [which](/en/post/which/) includes [health](/en/post/health/) [insurance](/en/post/insurance/) [and](/en/post/and/) ample [vacation](/en/post/vacation/) [time](/en/post/time/).
-- **[Character](/en/post/character/) Trait [Usage](/en/post/usage/)**: [Despite](/en/post/despite/) [his](/en/post/his/) [modest](/en/post/modest/) [income](/en/post/income/), [he](/en/post/he/) lived [a](/en/post/a/) [simple](/en/post/simple/) [life](/en/post/life/) [and](/en/post/and/) was [always](/en/post/always/) [generous](/en/post/generous/) [to](/en/post/to/) [those](/en/post/those/) [in](/en/post/in/) [need](/en/post/need/).
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) [Usage](/post/usage/)**: [The](/post/the/) [company](/post/company/) offers [its](/post/its/) employees [a](/post/a/) [generous](/post/generous/) benefits [package](/post/package/), [which](/post/which/) includes [health](/post/health/) [insurance](/post/insurance/) [and](/post/and/) ample [vacation](/post/vacation/) [time](/post/time/).
+- **[Character](/post/character/) Trait [Usage](/post/usage/)**: [Despite](/post/despite/) [his](/post/his/) [modest](/post/modest/) [income](/post/income/), [he](/post/he/) lived [a](/post/a/) [simple](/post/simple/) [life](/post/life/) [and](/post/and/) was [always](/post/always/) [generous](/post/generous/) [to](/post/to/) [those](/post/those/) [in](/post/in/) [need](/post/need/).
 
 ## Synonyms
-- [Liberal](/en/post/liberal/)
+- [Liberal](/post/liberal/)
 - Charitable
 - Benevolent
 - Magnanimous

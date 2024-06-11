@@ -11,22 +11,22 @@ keywords = ['ai words', 'white']
 /waɪt/
 
 ## 释义
-- **形容词**: 颜色为纯白或没有色彩的。例如: "[The](/post/the/) [snow](/post/snow/) is [pure](/post/pure/) [white](/post/white/)."
-- **名词**: 白色（颜色）。例如: "[She](/post/she/) wore [a](/post/a/) [white](/post/white/) [dress](/post/dress/) [to](/post/to/) [the](/post/the/) [wedding](/post/wedding/)."
-- **副词**: 完全地，彻底地。例如: "[He](/post/he/) knows [the](/post/the/) [subject](/post/subject/) [white](/post/white/)."
+- **形容词**: 颜色为纯白或没有色彩的。例如: "[The](/zh/post/the/) [snow](/zh/post/snow/) is [pure](/zh/post/pure/) [white](/zh/post/white/)."
+- **名词**: 白色（颜色）。例如: "[She](/zh/post/she/) wore [a](/zh/post/a/) [white](/zh/post/white/) [dress](/zh/post/dress/) [to](/zh/post/to/) [the](/zh/post/the/) [wedding](/zh/post/wedding/)."
+- **副词**: 完全地，彻底地。例如: "[He](/zh/post/he/) knows [the](/zh/post/the/) [subject](/zh/post/subject/) [white](/zh/post/white/)."
 
 ## 短语
-- "[in](/post/in/) [the](/post/the/) [white](/post/white/)" 表示未完成或未经修饰的状态。
-- "white-collar [worker](/post/worker/)" 指从事办公室或专业工作的人员。
+- "[in](/zh/post/in/) [the](/zh/post/the/) [white](/zh/post/white/)" 表示未完成或未经修饰的状态。
+- "white-collar [worker](/zh/post/worker/)" 指从事办公室或专业工作的人员。
 
 ## 例句
-- 形容词: "[The](/post/the/) bride looked [beautiful](/post/beautiful/) [in](/post/in/) [her](/post/her/) [white](/post/white/) [wedding](/post/wedding/) [gown](/post/gown/)."
-- 名词: "[The](/post/the/) [painter](/post/painter/) [used](/post/used/) [white](/post/white/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [contrast](/post/contrast/) [with](/post/with/) [the](/post/the/) [dark](/post/dark/) colors."
-- 副词: "[He](/post/he/) knows [the](/post/the/) [subject](/post/subject/) [so](/post/so/) [well](/post/well/) [that](/post/that/) [he](/post/he/) [can](/post/can/) [teach](/post/teach/) [it](/post/it/) [white](/post/white/)."
+- 形容词: "[The](/zh/post/the/) bride looked [beautiful](/zh/post/beautiful/) [in](/zh/post/in/) [her](/zh/post/her/) [white](/zh/post/white/) [wedding](/zh/post/wedding/) [gown](/zh/post/gown/)."
+- 名词: "[The](/zh/post/the/) [painter](/zh/post/painter/) [used](/zh/post/used/) [white](/zh/post/white/) [to](/zh/post/to/) [create](/zh/post/create/) [a](/zh/post/a/) [contrast](/zh/post/contrast/) [with](/zh/post/with/) [the](/zh/post/the/) [dark](/zh/post/dark/) colors."
+- 副词: "[He](/zh/post/he/) knows [the](/zh/post/the/) [subject](/zh/post/subject/) [so](/zh/post/so/) [well](/zh/post/well/) [that](/zh/post/that/) [he](/zh/post/he/) [can](/zh/post/can/) [teach](/zh/post/teach/) [it](/zh/post/it/) [white](/zh/post/white/)."
 
 ## 同义词
 - bleach
 - albino
 - lily-white
 - milk-white
-- [snowy](/post/snowy/)
+- [snowy](/zh/post/snowy/)

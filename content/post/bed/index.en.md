@@ -7,41 +7,41 @@ description = '[bed] n.床，床位；圃；河床'
 keywords = ['ai words', 'bed']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɛd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **A寝具**: [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [furniture](/en/post/furniture/) [for](/en/post/for/) sleeping [on](/en/post/on/), typically consisting [of](/en/post/of/) [a](/en/post/a/) mattress placed [on](/en/post/on/) [a](/en/post/a/) [frame](/en/post/frame/) [or](/en/post/or/) [platform](/en/post/platform/). [Example](/en/post/example/): "She整理了床铺 [before](/en/post/before/) going [to](/en/post/to/) [sleep](/en/post/sleep/)."
-2. **[A](/en/post/a/) [place](/en/post/place/) [to](/en/post/to/) [rest](/en/post/rest/)**: [A](/en/post/a/) [room](/en/post/room/) [or](/en/post/or/) [area](/en/post/area/) [where](/en/post/where/) [people](/en/post/people/) [sleep](/en/post/sleep/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [bed](/en/post/bed/) [in](/en/post/in/) [it](/en/post/it/). [Example](/en/post/example/): "[The](/en/post/the/) children fell [asleep](/en/post/asleep/) [in](/en/post/in/) [their](/en/post/their/) cozy bedroom."
-3. **[A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/)**: [A](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [horizontal](/en/post/horizontal/), [especially](/en/post/especially/) [when](/en/post/when/) resting. [Example](/en/post/example/): "[He](/en/post/he/) [lay](/en/post/lay/) [down](/en/post/down/) [on](/en/post/on/) [the](/en/post/the/) [soft](/en/post/soft/) [bed](/en/post/bed/) [and](/en/post/and/) drifted [off](/en/post/off/) [to](/en/post/to/) [sleep](/en/post/sleep/)."
-4. **[A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/)**: [A](/en/post/a/) night's [sleep](/en/post/sleep/) [or](/en/post/or/) [a](/en/post/a/) [nap](/en/post/nap/). [Example](/en/post/example/): "[He](/en/post/he/) took [a](/en/post/a/) [quick](/en/post/quick/) [bed](/en/post/bed/) [for](/en/post/for/) an [hour](/en/post/hour/)."
+### [Noun](/post/noun/)
+1. **A寝具**: [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [furniture](/post/furniture/) [for](/post/for/) sleeping [on](/post/on/), typically consisting [of](/post/of/) [a](/post/a/) mattress placed [on](/post/on/) [a](/post/a/) [frame](/post/frame/) [or](/post/or/) [platform](/post/platform/). [Example](/post/example/): "She整理了床铺 [before](/post/before/) going [to](/post/to/) [sleep](/post/sleep/)."
+2. **[A](/post/a/) [place](/post/place/) [to](/post/to/) [rest](/post/rest/)**: [A](/post/a/) [room](/post/room/) [or](/post/or/) [area](/post/area/) [where](/post/where/) [people](/post/people/) [sleep](/post/sleep/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [bed](/post/bed/) [in](/post/in/) [it](/post/it/). [Example](/post/example/): "[The](/post/the/) children fell [asleep](/post/asleep/) [in](/post/in/) [their](/post/their/) cozy bedroom."
+3. **[A](/post/a/) [state](/post/state/) [of](/post/of/) [being](/post/being/)**: [A](/post/a/) [position](/post/position/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [horizontal](/post/horizontal/), [especially](/post/especially/) [when](/post/when/) resting. [Example](/post/example/): "[He](/post/he/) [lay](/post/lay/) [down](/post/down/) [on](/post/on/) [the](/post/the/) [soft](/post/soft/) [bed](/post/bed/) [and](/post/and/) drifted [off](/post/off/) [to](/post/to/) [sleep](/post/sleep/)."
+4. **[A](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/)**: [A](/post/a/) night's [sleep](/post/sleep/) [or](/post/or/) [a](/post/a/) [nap](/post/nap/). [Example](/post/example/): "[He](/post/he/) took [a](/post/a/) [quick](/post/quick/) [bed](/post/bed/) [for](/post/for/) an [hour](/post/hour/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [sleep](/en/post/sleep/)**: [To](/en/post/to/) [lie](/en/post/lie/) [down](/en/post/down/) [in](/en/post/in/) [a](/en/post/a/) [bed](/en/post/bed/) [or](/en/post/or/) [other](/en/post/other/) sleeping [place](/en/post/place/), typically [for](/en/post/for/) [rest](/en/post/rest/) [or](/en/post/or/) recuperation. [Example](/en/post/example/): "[She](/en/post/she/) went [to](/en/post/to/) [bed](/en/post/bed/) [early](/en/post/early/) [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/)."
-2. **[To](/en/post/to/) [occupy](/en/post/occupy/)**: [To](/en/post/to/) [use](/en/post/use/) [or](/en/post/or/) [utilize](/en/post/utilize/) ([a](/en/post/a/) [bed](/en/post/bed/)) [for](/en/post/for/) sleeping. [Example](/en/post/example/): "[All](/en/post/all/) [the](/en/post/the/) [hotel](/en/post/hotel/) rooms were booked, [so](/en/post/so/) [we](/en/post/we/) had [to](/en/post/to/) [share](/en/post/share/) [a](/en/post/a/) [bed](/en/post/bed/)."
-3. **[To](/en/post/to/) [place](/en/post/place/) [or](/en/post/or/) [put](/en/post/put/) [to](/en/post/to/) [bed](/en/post/bed/)**: [To](/en/post/to/) [settle](/en/post/settle/) [a](/en/post/a/) [child](/en/post/child/) [or](/en/post/or/) [animal](/en/post/animal/) [to](/en/post/to/) [sleep](/en/post/sleep/). [Example](/en/post/example/): "[He](/en/post/he/) [gently](/en/post/gently/) [put](/en/post/put/) [his](/en/post/his/) [baby](/en/post/baby/) [to](/en/post/to/) [bed](/en/post/bed/) [and](/en/post/and/) kissed [her](/en/post/her/) goodnight."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [sleep](/post/sleep/)**: [To](/post/to/) [lie](/post/lie/) [down](/post/down/) [in](/post/in/) [a](/post/a/) [bed](/post/bed/) [or](/post/or/) [other](/post/other/) sleeping [place](/post/place/), typically [for](/post/for/) [rest](/post/rest/) [or](/post/or/) recuperation. [Example](/post/example/): "[She](/post/she/) went [to](/post/to/) [bed](/post/bed/) [early](/post/early/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/)."
+2. **[To](/post/to/) [occupy](/post/occupy/)**: [To](/post/to/) [use](/post/use/) [or](/post/or/) [utilize](/post/utilize/) ([a](/post/a/) [bed](/post/bed/)) [for](/post/for/) sleeping. [Example](/post/example/): "[All](/post/all/) [the](/post/the/) [hotel](/post/hotel/) rooms were booked, [so](/post/so/) [we](/post/we/) had [to](/post/to/) [share](/post/share/) [a](/post/a/) [bed](/post/bed/)."
+3. **[To](/post/to/) [place](/post/place/) [or](/post/or/) [put](/post/put/) [to](/post/to/) [bed](/post/bed/)**: [To](/post/to/) [settle](/post/settle/) [a](/post/a/) [child](/post/child/) [or](/post/or/) [animal](/post/animal/) [to](/post/to/) [sleep](/post/sleep/). [Example](/post/example/): "[He](/post/he/) [gently](/post/gently/) [put](/post/put/) [his](/post/his/) [baby](/post/baby/) [to](/post/to/) [bed](/post/bed/) [and](/post/and/) kissed [her](/post/her/) goodnight."
 
-### [Preposition](/en/post/preposition/)
-1. [In](/en/post/in/) [or](/en/post/or/) [on](/en/post/on/) [a](/en/post/a/) [bed](/en/post/bed/). [Example](/en/post/example/): "[She](/en/post/she/) was lying [in](/en/post/in/) [bed](/en/post/bed/), [reading](/en/post/reading/) [a](/en/post/a/) [book](/en/post/book/)."
+### [Preposition](/post/preposition/)
+1. [In](/post/in/) [or](/post/or/) [on](/post/on/) [a](/post/a/) [bed](/post/bed/). [Example](/post/example/): "[She](/post/she/) was lying [in](/post/in/) [bed](/post/bed/), [reading](/post/reading/) [a](/post/a/) [book](/post/book/)."
 
 ## Phrases
-- "[Go](/en/post/go/) [to](/en/post/to/) [bed](/en/post/bed/) [early](/en/post/early/)" advises [someone](/en/post/someone/) [to](/en/post/to/) [retire](/en/post/retire/) [for](/en/post/for/) [the](/en/post/the/) [night](/en/post/night/) [at](/en/post/at/) an [early](/en/post/early/) [hour](/en/post/hour/).
-- "[Make](/en/post/make/) [the](/en/post/the/) [bed](/en/post/bed/)" refers [to](/en/post/to/) tidying [up](/en/post/up/) [the](/en/post/the/) sheets [and](/en/post/and/) blankets [on](/en/post/on/) [a](/en/post/a/) [bed](/en/post/bed/).
-- "[Share](/en/post/share/) [a](/en/post/a/) [bed](/en/post/bed/)" indicates [that](/en/post/that/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) [people](/en/post/people/) are sleeping [together](/en/post/together/) [in](/en/post/in/) [one](/en/post/one/) [bed](/en/post/bed/).
+- "[Go](/post/go/) [to](/post/to/) [bed](/post/bed/) [early](/post/early/)" advises [someone](/post/someone/) [to](/post/to/) [retire](/post/retire/) [for](/post/for/) [the](/post/the/) [night](/post/night/) [at](/post/at/) an [early](/post/early/) [hour](/post/hour/).
+- "[Make](/post/make/) [the](/post/the/) [bed](/post/bed/)" refers [to](/post/to/) tidying [up](/post/up/) [the](/post/the/) sheets [and](/post/and/) blankets [on](/post/on/) [a](/post/a/) [bed](/post/bed/).
+- "[Share](/post/share/) [a](/post/a/) [bed](/post/bed/)" indicates [that](/post/that/) [two](/post/two/) [or](/post/or/) [more](/post/more/) [people](/post/people/) are sleeping [together](/post/together/) [in](/post/in/) [one](/post/one/) [bed](/post/bed/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) woke [up](/en/post/up/) [with](/en/post/with/) [a](/en/post/a/) kink [in](/en/post/in/) [her](/en/post/her/) [neck](/en/post/neck/) [from](/en/post/from/) sleeping [on](/en/post/on/) [a](/en/post/a/) [hard](/en/post/hard/) [bed](/en/post/bed/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [dinner](/en/post/dinner/), [he](/en/post/he/) retired [to](/en/post/to/) [his](/en/post/his/) bedroom [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [bed](/en/post/bed/)."
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) [sun](/en/post/sun/) had [already](/en/post/already/) [set](/en/post/set/), [and](/en/post/and/) [he](/en/post/he/) was getting [ready](/en/post/ready/) [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [bed](/en/post/bed/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) woke [up](/post/up/) [with](/post/with/) [a](/post/a/) kink [in](/post/in/) [her](/post/her/) [neck](/post/neck/) [from](/post/from/) sleeping [on](/post/on/) [a](/post/a/) [hard](/post/hard/) [bed](/post/bed/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [dinner](/post/dinner/), [he](/post/he/) retired [to](/post/to/) [his](/post/his/) bedroom [to](/post/to/) [go](/post/go/) [to](/post/to/) [bed](/post/bed/)."
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) [sun](/post/sun/) had [already](/post/already/) [set](/post/set/), [and](/post/and/) [he](/post/he/) was getting [ready](/post/ready/) [to](/post/to/) [go](/post/go/) [to](/post/to/) [bed](/post/bed/)."
 
 ## Synonyms
-- [Sleep](/en/post/sleep/)
-- [Rest](/en/post/rest/)
-- [Nap](/en/post/nap/)
-- [Lie](/en/post/lie/) [down](/en/post/down/)
+- [Sleep](/post/sleep/)
+- [Rest](/post/rest/)
+- [Nap](/post/nap/)
+- [Lie](/post/lie/) [down](/post/down/)
 - Recline
-- [Retire](/en/post/retire/)
-- Hunker [down](/en/post/down/)
-- [Hit](/en/post/hit/) [the](/en/post/the/) [hay](/en/post/hay/)
-- [Go](/en/post/go/) [to](/en/post/to/) [sleep](/en/post/sleep/) ([verb](/en/post/verb/))
+- [Retire](/post/retire/)
+- Hunker [down](/post/down/)
+- [Hit](/post/hit/) [the](/post/the/) [hay](/post/hay/)
+- [Go](/post/go/) [to](/post/to/) [sleep](/post/sleep/) ([verb](/post/verb/))

@@ -11,20 +11,20 @@ keywords = ['ai words', 'attain']
 /əˈteɪn/
 
 ## 释义
-- **动词**: 达到；实现；获得。例如: "[He](/post/he/) attained [his](/post/his/) [goal](/post/goal/) [through](/post/through/) [hard](/post/hard/) [work](/post/work/)."
-- **动词**: 获得（某种地位、水平或资格）。例如: "[She](/post/she/) attained [the](/post/the/) [rank](/post/rank/) [of](/post/of/) [captain](/post/captain/) [in](/post/in/) [the](/post/the/) [army](/post/army/)."
+- **动词**: 达到；实现；获得。例如: "[He](/zh/post/he/) attained [his](/zh/post/his/) [goal](/zh/post/goal/) [through](/zh/post/through/) [hard](/zh/post/hard/) [work](/zh/post/work/)."
+- **动词**: 获得（某种地位、水平或资格）。例如: "[She](/zh/post/she/) attained [the](/zh/post/the/) [rank](/zh/post/rank/) [of](/zh/post/of/) [captain](/zh/post/captain/) [in](/zh/post/in/) [the](/zh/post/the/) [army](/zh/post/army/)."
 
 ## 短语
-- "[Attain](/post/attain/) [success](/post/success/)" 意味着成功地达到目标。
-- "[Attain](/post/attain/) proficiency [in](/post/in/) [something](/post/something/)" 指在某方面变得熟练或精通。
+- "[Attain](/zh/post/attain/) [success](/zh/post/success/)" 意味着成功地达到目标。
+- "[Attain](/zh/post/attain/) proficiency [in](/zh/post/in/) [something](/zh/post/something/)" 指在某方面变得熟练或精通。
 
 ## 例句
-- "[With](/post/with/) dedication, [he](/post/he/) attained [the](/post/the/) [top](/post/top/) [score](/post/score/) [on](/post/on/) [the](/post/the/) [exam](/post/exam/)."
-- "[She](/post/she/) worked tirelessly [to](/post/to/) [attain](/post/attain/) [her](/post/her/) [dream](/post/dream/) [job](/post/job/)."
+- "[With](/zh/post/with/) dedication, [he](/zh/post/he/) attained [the](/zh/post/the/) [top](/zh/post/top/) [score](/zh/post/score/) [on](/zh/post/on/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
+- "[She](/zh/post/she/) worked tirelessly [to](/zh/post/to/) [attain](/zh/post/attain/) [her](/zh/post/her/) [dream](/zh/post/dream/) [job](/zh/post/job/)."
 
 ## 同义词
-- [Achieve](/post/achieve/)
-- [Reach](/post/reach/)
-- [Gain](/post/gain/)
-- [Obtain](/post/obtain/)
-- [Secure](/post/secure/)
+- [Achieve](/zh/post/achieve/)
+- [Reach](/zh/post/reach/)
+- [Gain](/zh/post/gain/)
+- [Obtain](/zh/post/obtain/)
+- [Secure](/zh/post/secure/)

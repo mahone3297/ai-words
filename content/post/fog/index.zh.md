@@ -11,20 +11,20 @@ keywords = ['ai words', 'fog']
 /fəɡ/
 
 ## 释义
-- **名词**: 雾；薄雾。例如: "[The](/post/the/) [city](/post/city/) was shrouded [in](/post/in/) [a](/post/a/) [thick](/post/thick/) [fog](/post/fog/) [this](/post/this/) [morning](/post/morning/)."
-- **动词**: 使模糊；使蒙上一层雾。例如: "[The](/post/the/) fogged-up windows made [it](/post/it/) [hard](/post/hard/) [to](/post/to/) [see](/post/see/) [outside](/post/outside/)."
+- **名词**: 雾；薄雾。例如: "[The](/zh/post/the/) [city](/zh/post/city/) was shrouded [in](/zh/post/in/) [a](/zh/post/a/) [thick](/zh/post/thick/) [fog](/zh/post/fog/) [this](/zh/post/this/) [morning](/zh/post/morning/)."
+- **动词**: 使模糊；使蒙上一层雾。例如: "[The](/zh/post/the/) fogged-up windows made [it](/zh/post/it/) [hard](/zh/post/hard/) [to](/zh/post/to/) [see](/zh/post/see/) [outside](/zh/post/outside/)."
 
 ## 短语
-- "[in](/post/in/) [the](/post/the/) [fog](/post/fog/)" 在雾中
-- "foggy [memory](/post/memory/)" 记忆模糊
+- "[in](/zh/post/in/) [the](/zh/post/the/) [fog](/zh/post/fog/)" 在雾中
+- "foggy [memory](/zh/post/memory/)" 记忆模糊
 
 ## 例句
-- 名词: "[The](/post/the/) [early](/post/early/) [morning](/post/morning/) [fog](/post/fog/) [slowly](/post/slowly/) lifted, revealing [the](/post/the/) [beautiful](/post/beautiful/) landscape."
-- 动词: "[The](/post/the/) [cold](/post/cold/) [air](/post/air/) fogged [up](/post/up/) [my](/post/my/) glasses."
+- 名词: "[The](/zh/post/the/) [early](/zh/post/early/) [morning](/zh/post/morning/) [fog](/zh/post/fog/) [slowly](/zh/post/slowly/) lifted, revealing [the](/zh/post/the/) [beautiful](/zh/post/beautiful/) landscape."
+- 动词: "[The](/zh/post/the/) [cold](/zh/post/cold/) [air](/zh/post/air/) fogged [up](/zh/post/up/) [my](/zh/post/my/) glasses."
 
 ## 同义词
-- [Mist](/post/mist/)
+- [Mist](/zh/post/mist/)
 - Haze
-- [Dew](/post/dew/)
+- [Dew](/zh/post/dew/)
 - Murk
 - Obscurity

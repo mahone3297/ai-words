@@ -7,36 +7,36 @@ description = '[ˈsʌməri] n.摘要，概要，一览'
 keywords = ['ai words', 'summary']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsʌməri/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) concise restatement [or](/en/post/or/) [summary](/en/post/summary/) [of](/en/post/of/) [main](/en/post/main/) points [or](/en/post/or/) ideas [from](/en/post/from/) [a](/en/post/a/) [text](/en/post/text/), [speech](/en/post/speech/), [or](/en/post/or/) [discussion](/en/post/discussion/)**: *[After](/en/post/after/) [reading](/en/post/reading/) [the](/en/post/the/) [novel](/en/post/novel/), [she](/en/post/she/) wrote [a](/en/post/a/) [brief](/en/post/brief/) [summary](/en/post/summary/) [of](/en/post/of/) [the](/en/post/the/) [plot](/en/post/plot/).*
-2. **[A](/en/post/a/) [brief](/en/post/brief/) overview [or](/en/post/or/) synopsis**: *[The](/en/post/the/) film's [summary](/en/post/summary/) [on](/en/post/on/) [the](/en/post/the/) [back](/en/post/back/) [cover](/en/post/cover/) gave [a](/en/post/a/) [good](/en/post/good/) [idea](/en/post/idea/) [of](/en/post/of/) [what](/en/post/what/) [to](/en/post/to/) [expect](/en/post/expect/).**
-3. **[A](/en/post/a/) person's [summary](/en/post/summary/) [understanding](/en/post/understanding/) [or](/en/post/or/) assessment**: *[His](/en/post/his/) [summary](/en/post/summary/) [of](/en/post/of/) [the](/en/post/the/) [situation](/en/post/situation/) was spot-on.*
+### [Noun](/post/noun/)
+1. **[A](/post/a/) concise restatement [or](/post/or/) [summary](/post/summary/) [of](/post/of/) [main](/post/main/) points [or](/post/or/) ideas [from](/post/from/) [a](/post/a/) [text](/post/text/), [speech](/post/speech/), [or](/post/or/) [discussion](/post/discussion/)**: *[After](/post/after/) [reading](/post/reading/) [the](/post/the/) [novel](/post/novel/), [she](/post/she/) wrote [a](/post/a/) [brief](/post/brief/) [summary](/post/summary/) [of](/post/of/) [the](/post/the/) [plot](/post/plot/).*
+2. **[A](/post/a/) [brief](/post/brief/) overview [or](/post/or/) synopsis**: *[The](/post/the/) film's [summary](/post/summary/) [on](/post/on/) [the](/post/the/) [back](/post/back/) [cover](/post/cover/) gave [a](/post/a/) [good](/post/good/) [idea](/post/idea/) [of](/post/of/) [what](/post/what/) [to](/post/to/) [expect](/post/expect/).**
+3. **[A](/post/a/) person's [summary](/post/summary/) [understanding](/post/understanding/) [or](/post/or/) assessment**: *[His](/post/his/) [summary](/post/summary/) [of](/post/of/) [the](/post/the/) [situation](/post/situation/) was spot-on.*
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [condense](/en/post/condense/) [or](/en/post/or/) [present](/en/post/present/) ([information](/en/post/information/)) [in](/en/post/in/) [a](/en/post/a/) [summary](/en/post/summary/) [form](/en/post/form/)**: *[She](/en/post/she/) summarized [the](/en/post/the/) [key](/en/post/key/) findings [of](/en/post/of/) [the](/en/post/the/) [research](/en/post/research/) [report](/en/post/report/).*
-2. **[To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [brief](/en/post/brief/) [account](/en/post/account/) [or](/en/post/or/) overview**: *[He](/en/post/he/) summarized [his](/en/post/his/) [experience](/en/post/experience/) [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/).*
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [condense](/post/condense/) [or](/post/or/) [present](/post/present/) ([information](/post/information/)) [in](/post/in/) [a](/post/a/) [summary](/post/summary/) [form](/post/form/)**: *[She](/post/she/) summarized [the](/post/the/) [key](/post/key/) findings [of](/post/of/) [the](/post/the/) [research](/post/research/) [report](/post/report/).*
+2. **[To](/post/to/) [give](/post/give/) [a](/post/a/) [brief](/post/brief/) [account](/post/account/) [or](/post/or/) overview**: *[He](/post/he/) summarized [his](/post/his/) [experience](/post/experience/) [at](/post/at/) [the](/post/the/) [conference](/post/conference/).*
 
-### [Adjective](/en/post/adjective/)
-1. [Brief](/en/post/brief/) [and](/en/post/and/) concise: *[A](/en/post/a/) [summary](/en/post/summary/) presentation avoided [unnecessary](/en/post/unnecessary/) details.**
+### [Adjective](/post/adjective/)
+1. [Brief](/post/brief/) [and](/post/and/) concise: *[A](/post/a/) [summary](/post/summary/) presentation avoided [unnecessary](/post/unnecessary/) details.**
 
 ## Phrases
-- "[Provide](/en/post/provide/) [a](/en/post/a/) [summary](/en/post/summary/)" asks [for](/en/post/for/) [a](/en/post/a/) concise overview.
-- "[In](/en/post/in/) [summary](/en/post/summary/)" signals [the](/en/post/the/) [conclusion](/en/post/conclusion/) [or](/en/post/or/) [main](/en/post/main/) points [of](/en/post/of/) [a](/en/post/a/) [speech](/en/post/speech/) [or](/en/post/or/) [explanation](/en/post/explanation/).
-- "[Summary](/en/post/summary/) notes" are shortened versions [of](/en/post/of/) written [material](/en/post/material/).
+- "[Provide](/post/provide/) [a](/post/a/) [summary](/post/summary/)" asks [for](/post/for/) [a](/post/a/) concise overview.
+- "[In](/post/in/) [summary](/post/summary/)" signals [the](/post/the/) [conclusion](/post/conclusion/) [or](/post/or/) [main](/post/main/) points [of](/post/of/) [a](/post/a/) [speech](/post/speech/) [or](/post/or/) [explanation](/post/explanation/).
+- "[Summary](/post/summary/) notes" are shortened versions [of](/post/of/) written [material](/post/material/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [meeting](/en/post/meeting/), [they](/en/post/they/) shared [their](/en/post/their/) thoughts [in](/en/post/in/) [a](/en/post/a/) [summary](/en/post/summary/) email.*
-- **[Verb](/en/post/verb/)**: *[The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) students [to](/en/post/to/) [summarize](/en/post/summarize/) [their](/en/post/their/) [group](/en/post/group/) discussions.*
-- **[Adjective](/en/post/adjective/)**: *[The](/en/post/the/) [summary](/en/post/summary/) [version](/en/post/version/) [of](/en/post/of/) [the](/en/post/the/) [book](/en/post/book/) was [easy](/en/post/easy/) [to](/en/post/to/) [read](/en/post/read/) [for](/en/post/for/) [busy](/en/post/busy/) readers.**
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[After](/post/after/) [the](/post/the/) [long](/post/long/) [meeting](/post/meeting/), [they](/post/they/) shared [their](/post/their/) thoughts [in](/post/in/) [a](/post/a/) [summary](/post/summary/) email.*
+- **[Verb](/post/verb/)**: *[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [summarize](/post/summarize/) [their](/post/their/) [group](/post/group/) discussions.*
+- **[Adjective](/post/adjective/)**: *[The](/post/the/) [summary](/post/summary/) [version](/post/version/) [of](/post/of/) [the](/post/the/) [book](/post/book/) was [easy](/post/easy/) [to](/post/to/) [read](/post/read/) [for](/post/for/) [busy](/post/busy/) readers.**
 
 ## Synonyms
 - Recap
-- [Outline](/en/post/outline/)
-- Condensed [version](/en/post/version/)
+- [Outline](/post/outline/)
+- Condensed [version](/post/version/)
 - Recapitulation
 - Excerpt
 -gist
@@ -44,7 +44,7 @@ keywords = ['ai words', 'summary']
 
 ## Antonyms
 - Detailed
-- [Comprehensive](/en/post/comprehensive/)
+- [Comprehensive](/post/comprehensive/)
 - Lengthy
 - Exhaustive
-- [Full](/en/post/full/) [account](/en/post/account/)
+- [Full](/post/full/) [account](/post/account/)

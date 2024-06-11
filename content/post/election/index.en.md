@@ -7,33 +7,33 @@ description = '[iˈlek∫(ə)n] n.选举，选择权；当选'
 keywords = ['ai words', 'election']
 +++
 
-## [Word](/en/post/word/): [Election](/en/post/election/)
+## [Word](/post/word/): [Election](/post/election/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈlekʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [formal](/en/post/formal/) [process](/en/post/process/) [of](/en/post/of/) choosing [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [for](/en/post/for/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [office](/en/post/office/), typically [by](/en/post/by/) voting. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) presidential [election](/en/post/election/) is scheduled [for](/en/post/for/) [next](/en/post/next/) [year](/en/post/year/)."
-- **[Noun](/en/post/noun/) ([in](/en/post/in/) [a](/en/post/a/) broader [sense](/en/post/sense/))**: [The](/en/post/the/) [choice](/en/post/choice/) [or](/en/post/or/) [selection](/en/post/selection/) made [by](/en/post/by/) [this](/en/post/this/) [process](/en/post/process/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) party's [election](/en/post/election/) [to](/en/post/to/) [the](/en/post/the/) [leadership](/en/post/leadership/) [role](/en/post/role/) was [widely](/en/post/widely/) celebrated."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [choose](/en/post/choose/) [or](/en/post/or/) [select](/en/post/select/) [someone](/en/post/someone/) [for](/en/post/for/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [office](/en/post/office/) [through](/en/post/through/) [a](/en/post/a/) [formal](/en/post/formal/) [vote](/en/post/vote/) [or](/en/post/or/) ballot. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [committee](/en/post/committee/) elected [her](/en/post/her/) [as](/en/post/as/) [its](/en/post/its/) [new](/en/post/new/) chairperson."
+- **[Noun](/post/noun/)**: [A](/post/a/) [formal](/post/formal/) [process](/post/process/) [of](/post/of/) choosing [a](/post/a/) [person](/post/person/) [or](/post/or/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [for](/post/for/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [office](/post/office/), typically [by](/post/by/) voting. [For](/post/for/) [example](/post/example/): "[The](/post/the/) presidential [election](/post/election/) is scheduled [for](/post/for/) [next](/post/next/) [year](/post/year/)."
+- **[Noun](/post/noun/) ([in](/post/in/) [a](/post/a/) broader [sense](/post/sense/))**: [The](/post/the/) [choice](/post/choice/) [or](/post/or/) [selection](/post/selection/) made [by](/post/by/) [this](/post/this/) [process](/post/process/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) party's [election](/post/election/) [to](/post/to/) [the](/post/the/) [leadership](/post/leadership/) [role](/post/role/) was [widely](/post/widely/) celebrated."
+- **[Verb](/post/verb/)**: [To](/post/to/) [choose](/post/choose/) [or](/post/or/) [select](/post/select/) [someone](/post/someone/) [for](/post/for/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [office](/post/office/) [through](/post/through/) [a](/post/a/) [formal](/post/formal/) [vote](/post/vote/) [or](/post/or/) ballot. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [committee](/post/committee/) elected [her](/post/her/) [as](/post/as/) [its](/post/its/) [new](/post/new/) chairperson."
 
 ## Phrases
-- "[General](/en/post/general/) [election](/en/post/election/)": [A](/en/post/a/) country-wide [election](/en/post/election/) [to](/en/post/to/) [choose](/en/post/choose/) representatives [for](/en/post/for/) [national](/en/post/national/) [government](/en/post/government/).
-- "[Vote](/en/post/vote/) [in](/en/post/in/) an [election](/en/post/election/)": [To](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) casting [a](/en/post/a/) [vote](/en/post/vote/) [during](/en/post/during/) an [election](/en/post/election/) [process](/en/post/process/).
-- "[Election](/en/post/election/) [campaign](/en/post/campaign/)": [The](/en/post/the/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [leading](/en/post/leading/) [up](/en/post/up/) [to](/en/post/to/) an [election](/en/post/election/) [when](/en/post/when/) candidates [promote](/en/post/promote/) [their](/en/post/their/) platforms [and](/en/post/and/) vie [for](/en/post/for/) votes.
-- "[Run](/en/post/run/) [for](/en/post/for/) [election](/en/post/election/)": [To](/en/post/to/) [stand](/en/post/stand/) [as](/en/post/as/) [a](/en/post/a/) [candidate](/en/post/candidate/) [in](/en/post/in/) an [election](/en/post/election/).
+- "[General](/post/general/) [election](/post/election/)": [A](/post/a/) country-wide [election](/post/election/) [to](/post/to/) [choose](/post/choose/) representatives [for](/post/for/) [national](/post/national/) [government](/post/government/).
+- "[Vote](/post/vote/) [in](/post/in/) an [election](/post/election/)": [To](/post/to/) [participate](/post/participate/) [in](/post/in/) [the](/post/the/) [act](/post/act/) [of](/post/of/) casting [a](/post/a/) [vote](/post/vote/) [during](/post/during/) an [election](/post/election/) [process](/post/process/).
+- "[Election](/post/election/) [campaign](/post/campaign/)": [The](/post/the/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [leading](/post/leading/) [up](/post/up/) [to](/post/to/) an [election](/post/election/) [when](/post/when/) candidates [promote](/post/promote/) [their](/post/their/) platforms [and](/post/and/) vie [for](/post/for/) votes.
+- "[Run](/post/run/) [for](/post/for/) [election](/post/election/)": [To](/post/to/) [stand](/post/stand/) [as](/post/as/) [a](/post/a/) [candidate](/post/candidate/) [in](/post/in/) an [election](/post/election/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) [the](/en/post/the/) upcoming [local](/en/post/local/) elections, citizens [will](/en/post/will/) [vote](/en/post/vote/) [for](/en/post/for/) [their](/en/post/their/) preferred [city](/en/post/city/) [council](/en/post/council/) members."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) campaigning, [he](/en/post/he/) was [finally](/en/post/finally/) elected [to](/en/post/to/) [serve](/en/post/serve/) [his](/en/post/his/) [first](/en/post/first/) [term](/en/post/term/) [in](/en/post/in/) [Congress](/en/post/congress/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[In](/post/in/) [the](/post/the/) upcoming [local](/post/local/) elections, citizens [will](/post/will/) [vote](/post/vote/) [for](/post/for/) [their](/post/their/) preferred [city](/post/city/) [council](/post/council/) members."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) campaigning, [he](/post/he/) was [finally](/post/finally/) elected [to](/post/to/) [serve](/post/serve/) [his](/post/his/) [first](/post/first/) [term](/post/term/) [in](/post/in/) [Congress](/post/congress/)."
 
 ## Synonyms
 - Voting
 - Ballot
 - Poll
-- [Choice](/en/post/choice/)
-- [Selection](/en/post/selection/)
+- [Choice](/post/choice/)
+- [Selection](/post/selection/)
 - Nomination
-- [Vote](/en/post/vote/)
+- [Vote](/post/vote/)
 - Choosing
-- Decision-making ([in](/en/post/in/) [a](/en/post/a/) [political](/en/post/political/) context)
+- Decision-making ([in](/post/in/) [a](/post/a/) [political](/post/political/) context)

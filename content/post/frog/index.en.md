@@ -7,29 +7,29 @@ description = '[frɔg] n.蛙'
 keywords = ['ai words', 'frog']
 +++
 
-## [Word](/en/post/word/): [Frog](/en/post/frog/)
+## [Word](/post/word/): [Frog](/post/frog/)
 
-## [Pronunciation](/en/post/pronunciation/)
-/frɑːɡ/ (UK), /frɔɡ/ ([US](/en/post/us/))
+## [Pronunciation](/post/pronunciation/)
+/frɑːɡ/ (UK), /frɔɡ/ ([US](/post/us/))
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/), tailless amphibian [with](/en/post/with/) [smooth](/en/post/smooth/), [moist](/en/post/moist/) [skin](/en/post/skin/), typically [living](/en/post/living/) [near](/en/post/near/) [water](/en/post/water/) [and](/en/post/and/) breeding [in](/en/post/in/) [it](/en/post/it/). Frogs [usually](/en/post/usually/) [have](/en/post/have/) [long](/en/post/long/) hind legs adapted [for](/en/post/for/) jumping. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [frog](/en/post/frog/) hopped [across](/en/post/across/) [the](/en/post/the/) [pond](/en/post/pond/)."
-  - _As [a](/en/post/a/) metaphor_: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) moves abruptly [or](/en/post/or/) [suddenly](/en/post/suddenly/), [often](/en/post/often/) unexpectedly. E.g., "[The](/en/post/the/) politician's [sudden](/en/post/sudden/) [change](/en/post/change/) [of](/en/post/of/) stance made [him](/en/post/him/) [seem](/en/post/seem/) [like](/en/post/like/) [a](/en/post/a/) [slippery](/en/post/slippery/) [frog](/en/post/frog/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/), tailless amphibian [with](/post/with/) [smooth](/post/smooth/), [moist](/post/moist/) [skin](/post/skin/), typically [living](/post/living/) [near](/post/near/) [water](/post/water/) [and](/post/and/) breeding [in](/post/in/) [it](/post/it/). Frogs [usually](/post/usually/) [have](/post/have/) [long](/post/long/) hind legs adapted [for](/post/for/) jumping. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [frog](/post/frog/) hopped [across](/post/across/) [the](/post/the/) [pond](/post/pond/)."
+  - _As [a](/post/a/) metaphor_: [A](/post/a/) [person](/post/person/) [who](/post/who/) moves abruptly [or](/post/or/) [suddenly](/post/suddenly/), [often](/post/often/) unexpectedly. E.g., "[The](/post/the/) politician's [sudden](/post/sudden/) [change](/post/change/) [of](/post/of/) stance made [him](/post/him/) [seem](/post/seem/) [like](/post/like/) [a](/post/a/) [slippery](/post/slippery/) [frog](/post/frog/)."
   
-- **[Verb](/en/post/verb/)**: (informal) [To](/en/post/to/) [catch](/en/post/catch/) [or](/en/post/or/) [kill](/en/post/kill/) frogs, typically [for](/en/post/for/) [food](/en/post/food/) [or](/en/post/or/) [sport](/en/post/sport/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [some](/en/post/some/) regions, children [enjoy](/en/post/enjoy/) frogging [by](/en/post/by/) [the](/en/post/the/) [river](/en/post/river/) [during](/en/post/during/) [summer](/en/post/summer/)."
+- **[Verb](/post/verb/)**: (informal) [To](/post/to/) [catch](/post/catch/) [or](/post/or/) [kill](/post/kill/) frogs, typically [for](/post/for/) [food](/post/food/) [or](/post/or/) [sport](/post/sport/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) [some](/post/some/) regions, children [enjoy](/post/enjoy/) frogging [by](/post/by/) [the](/post/the/) [river](/post/river/) [during](/post/during/) [summer](/post/summer/)."
 
 ## Phrases
-- "[A](/en/post/a/) bullfrog [in](/en/post/in/) [a](/en/post/a/) [china](/en/post/china/) [shop](/en/post/shop/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is [clumsy](/en/post/clumsy/) [or](/en/post/or/) disruptive [in](/en/post/in/) [a](/en/post/a/) [delicate](/en/post/delicate/) [situation](/en/post/situation/).
-- "[Jump](/en/post/jump/) [like](/en/post/like/) [a](/en/post/a/) [frog](/en/post/frog/)" is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) making [a](/en/post/a/) [big](/en/post/big/) [leap](/en/post/leap/) [or](/en/post/or/) moving [suddenly](/en/post/suddenly/).
-- "[The](/en/post/the/) [frog](/en/post/frog/) [in](/en/post/in/) [the](/en/post/the/) [well](/en/post/well/)" is [a](/en/post/a/) metaphorical [idiom](/en/post/idiom/) [meaning](/en/post/meaning/) [someone](/en/post/someone/) [with](/en/post/with/) [limited](/en/post/limited/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) [experience](/en/post/experience/) [due](/en/post/due/) [to](/en/post/to/) [their](/en/post/their/) [narrow](/en/post/narrow/) [perspective](/en/post/perspective/).
+- "[A](/post/a/) bullfrog [in](/post/in/) [a](/post/a/) [china](/post/china/) [shop](/post/shop/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is [clumsy](/post/clumsy/) [or](/post/or/) disruptive [in](/post/in/) [a](/post/a/) [delicate](/post/delicate/) [situation](/post/situation/).
+- "[Jump](/post/jump/) [like](/post/like/) [a](/post/a/) [frog](/post/frog/)" is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) making [a](/post/a/) [big](/post/big/) [leap](/post/leap/) [or](/post/or/) moving [suddenly](/post/suddenly/).
+- "[The](/post/the/) [frog](/post/frog/) [in](/post/in/) [the](/post/the/) [well](/post/well/)" is [a](/post/a/) metaphorical [idiom](/post/idiom/) [meaning](/post/meaning/) [someone](/post/someone/) [with](/post/with/) [limited](/post/limited/) [knowledge](/post/knowledge/) [or](/post/or/) [experience](/post/experience/) [due](/post/due/) [to](/post/to/) [their](/post/their/) [narrow](/post/narrow/) [perspective](/post/perspective/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) biologist was studying [the](/en/post/the/) lifecycle [of](/en/post/of/) [the](/en/post/the/) [common](/en/post/common/) [frog](/en/post/frog/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) went [out](/en/post/out/) frogging [at](/en/post/at/) [night](/en/post/night/) using nets [and](/en/post/and/) flashlights."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) biologist was studying [the](/post/the/) lifecycle [of](/post/of/) [the](/post/the/) [common](/post/common/) [frog](/post/frog/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) went [out](/post/out/) frogging [at](/post/at/) [night](/post/night/) using nets [and](/post/and/) flashlights."
 
 ## Synonyms
-- Toad ([closely](/en/post/closely/) related species)
+- Toad ([closely](/post/closely/) related species)
 - Amphibian
-- Leap-frog (referring [to](/en/post/to/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) jumping [like](/en/post/like/) [a](/en/post/a/) [frog](/en/post/frog/))
-- [Pond](/en/post/pond/) dweller
-- Batrachian ([formal](/en/post/formal/) [term](/en/post/term/) [for](/en/post/for/) [any](/en/post/any/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) [order](/en/post/order/) Anura, [which](/en/post/which/) includes frogs [and](/en/post/and/) toads)
+- Leap-frog (referring [to](/post/to/) [the](/post/the/) [action](/post/action/) [of](/post/of/) jumping [like](/post/like/) [a](/post/a/) [frog](/post/frog/))
+- [Pond](/post/pond/) dweller
+- Batrachian ([formal](/post/formal/) [term](/post/term/) [for](/post/for/) [any](/post/any/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [order](/post/order/) Anura, [which](/post/which/) includes frogs [and](/post/and/) toads)

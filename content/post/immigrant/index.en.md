@@ -7,36 +7,36 @@ description = '[ˈimigrənt] n.移民 a.移民的'
 keywords = ['ai words', 'immigrant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪmɪɡrənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) comes [to](/en/post/to/) [live](/en/post/live/) [permanently](/en/post/permanently/) [in](/en/post/in/) [a](/en/post/a/) [foreign](/en/post/foreign/) [country](/en/post/country/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [immigrant](/en/post/immigrant/) [community](/en/post/community/) has made [significant](/en/post/significant/) contributions [to](/en/post/to/) [the](/en/post/the/) city's [culture](/en/post/culture/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [come](/en/post/come/) [to](/en/post/to/) [live](/en/post/live/) [permanently](/en/post/permanently/) [in](/en/post/in/) [a](/en/post/a/) [foreign](/en/post/foreign/) [country](/en/post/country/). [For](/en/post/for/) [example](/en/post/example/): "[Immigrant](/en/post/immigrant/) rights groups [have](/en/post/have/) been advocating [for](/en/post/for/) [better](/en/post/better/) [legal](/en/post/legal/) [protection](/en/post/protection/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) comes [to](/post/to/) [live](/post/live/) [permanently](/post/permanently/) [in](/post/in/) [a](/post/a/) [foreign](/post/foreign/) [country](/post/country/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [immigrant](/post/immigrant/) [community](/post/community/) has made [significant](/post/significant/) contributions [to](/post/to/) [the](/post/the/) city's [culture](/post/culture/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) has [come](/post/come/) [to](/post/to/) [live](/post/live/) [permanently](/post/permanently/) [in](/post/in/) [a](/post/a/) [foreign](/post/foreign/) [country](/post/country/). [For](/post/for/) [example](/post/example/): "[Immigrant](/post/immigrant/) rights groups [have](/post/have/) been advocating [for](/post/for/) [better](/post/better/) [legal](/post/legal/) [protection](/post/protection/)."
 
-### [Noun](/en/post/noun/) (Definitions [and](/en/post/and/) Examples)
-- [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) leaves [their](/en/post/their/) [native](/en/post/native/) [country](/en/post/country/) [to](/en/post/to/) [settle](/en/post/settle/) [in](/en/post/in/) [another](/en/post/another/) [one](/en/post/one/): "[Many](/en/post/many/) immigrants arrived [in](/en/post/in/) [the](/en/post/the/) [US](/en/post/us/) seeking [new](/en/post/new/) opportunities."
-  - [Example](/en/post/example/) [sentence](/en/post/sentence/): "[She](/en/post/she/) was an [immigrant](/en/post/immigrant/) [from](/en/post/from/) Italy [who](/en/post/who/) opened [a](/en/post/a/) [successful](/en/post/successful/) [restaurant](/en/post/restaurant/) [in](/en/post/in/) [her](/en/post/her/) [new](/en/post/new/) hometown."
+### [Noun](/post/noun/) (Definitions [and](/post/and/) Examples)
+- [A](/post/a/) [person](/post/person/) [who](/post/who/) leaves [their](/post/their/) [native](/post/native/) [country](/post/country/) [to](/post/to/) [settle](/post/settle/) [in](/post/in/) [another](/post/another/) [one](/post/one/): "[Many](/post/many/) immigrants arrived [in](/post/in/) [the](/post/the/) [US](/post/us/) seeking [new](/post/new/) opportunities."
+  - [Example](/post/example/) [sentence](/post/sentence/): "[She](/post/she/) was an [immigrant](/post/immigrant/) [from](/post/from/) Italy [who](/post/who/) opened [a](/post/a/) [successful](/post/successful/) [restaurant](/post/restaurant/) [in](/post/in/) [her](/post/her/) [new](/post/new/) hometown."
 
-### [Adjective](/en/post/adjective/) (Definitions [and](/en/post/and/) Examples)
-- Describing [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [that](/en/post/that/) originates [from](/en/post/from/) [or](/en/post/or/) relates [to](/en/post/to/) immigration: "[The](/en/post/the/) [immigrant](/en/post/immigrant/) [experience](/en/post/experience/) [can](/en/post/can/) [be](/en/post/be/) challenging [but](/en/post/but/) [also](/en/post/also/) enriching."
-  - [Example](/en/post/example/) [sentence](/en/post/sentence/): "[The](/en/post/the/) [museum](/en/post/museum/) hosted an [exhibit](/en/post/exhibit/) showcasing [the](/en/post/the/) [diverse](/en/post/diverse/) stories [of](/en/post/of/) [immigrant](/en/post/immigrant/) families."
+### [Adjective](/post/adjective/) (Definitions [and](/post/and/) Examples)
+- Describing [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [that](/post/that/) originates [from](/post/from/) [or](/post/or/) relates [to](/post/to/) immigration: "[The](/post/the/) [immigrant](/post/immigrant/) [experience](/post/experience/) [can](/post/can/) [be](/post/be/) challenging [but](/post/but/) [also](/post/also/) enriching."
+  - [Example](/post/example/) [sentence](/post/sentence/): "[The](/post/the/) [museum](/post/museum/) hosted an [exhibit](/post/exhibit/) showcasing [the](/post/the/) [diverse](/post/diverse/) stories [of](/post/of/) [immigrant](/post/immigrant/) families."
 
 ## Phrases
-- "[Immigrant](/en/post/immigrant/) [population](/en/post/population/)": [The](/en/post/the/) [total](/en/post/total/) [number](/en/post/number/) [of](/en/post/of/) immigrants [living](/en/post/living/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/).
-- "First-generation [immigrant](/en/post/immigrant/)": [A](/en/post/a/) [person](/en/post/person/) [born](/en/post/born/) [in](/en/post/in/) [a](/en/post/a/) [foreign](/en/post/foreign/) [country](/en/post/country/) [who](/en/post/who/) has immigrated [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [country](/en/post/country/).
-- "[Illegal](/en/post/illegal/) [immigrant](/en/post/immigrant/)": [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) enters [or](/en/post/or/) resides [in](/en/post/in/) [a](/en/post/a/) [country](/en/post/country/) [without](/en/post/without/) [official](/en/post/official/) authorization, [often](/en/post/often/) considered offensive; preferred terms [include](/en/post/include/) "undocumented [immigrant](/en/post/immigrant/)" [or](/en/post/or/) "[irregular](/en/post/irregular/) migrant."
+- "[Immigrant](/post/immigrant/) [population](/post/population/)": [The](/post/the/) [total](/post/total/) [number](/post/number/) [of](/post/of/) immigrants [living](/post/living/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/).
+- "First-generation [immigrant](/post/immigrant/)": [A](/post/a/) [person](/post/person/) [born](/post/born/) [in](/post/in/) [a](/post/a/) [foreign](/post/foreign/) [country](/post/country/) [who](/post/who/) has immigrated [to](/post/to/) [a](/post/a/) [new](/post/new/) [country](/post/country/).
+- "[Illegal](/post/illegal/) [immigrant](/post/immigrant/)": [A](/post/a/) [person](/post/person/) [who](/post/who/) enters [or](/post/or/) resides [in](/post/in/) [a](/post/a/) [country](/post/country/) [without](/post/without/) [official](/post/official/) authorization, [often](/post/often/) considered offensive; preferred terms [include](/post/include/) "undocumented [immigrant](/post/immigrant/)" [or](/post/or/) "[irregular](/post/irregular/) migrant."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [government](/en/post/government/) implemented policies [to](/en/post/to/) [support](/en/post/support/) [and](/en/post/and/) integrate [new](/en/post/new/) immigrants [into](/en/post/into/) [society](/en/post/society/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [immigrant](/en/post/immigrant/) [community](/en/post/community/) organized [a](/en/post/a/) [festival](/en/post/festival/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [their](/en/post/their/) cultural heritage."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [government](/post/government/) implemented policies [to](/post/to/) [support](/post/support/) [and](/post/and/) integrate [new](/post/new/) immigrants [into](/post/into/) [society](/post/society/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [immigrant](/post/immigrant/) [community](/post/community/) organized [a](/post/a/) [festival](/post/festival/) [to](/post/to/) [celebrate](/post/celebrate/) [their](/post/their/) cultural heritage."
 
 ## Synonyms
 - Migrant
 - Emigrant
 - Newcomer
 - Settler
-- [Foreigner](/en/post/foreigner/)
+- [Foreigner](/post/foreigner/)
 - Transplant (informal) 
 - Non-native
-- Expat ([short](/en/post/short/) [for](/en/post/for/) expatriate, [usually](/en/post/usually/) referring [to](/en/post/to/) [those](/en/post/those/) [who](/en/post/who/) [move](/en/post/move/) voluntarily [and](/en/post/and/) [often](/en/post/often/) temporarily [for](/en/post/for/) [work](/en/post/work/))
+- Expat ([short](/post/short/) [for](/post/for/) expatriate, [usually](/post/usually/) referring [to](/post/to/) [those](/post/those/) [who](/post/who/) [move](/post/move/) voluntarily [and](/post/and/) [often](/post/often/) temporarily [for](/post/for/) [work](/post/work/))

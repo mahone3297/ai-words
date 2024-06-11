@@ -12,22 +12,22 @@ keywords = ['ai words', 'introduce']
 
 ## 释义
 - **动词**: 
-    1. 引见；介绍。例如: "I [would](/post/would/) [like](/post/like/) [to](/post/to/) [introduce](/post/introduce/) [my](/post/my/) [friend](/post/friend/), John, [to](/post/to/) [you](/post/you/) [all](/post/all/)."
-    2. 引入；引进。例如: "[The](/post/the/) [new](/post/new/) [technology](/post/technology/) was introduced [to](/post/to/) [the](/post/the/) [market](/post/market/) [last](/post/last/) [year](/post/year/)."
-    3. 使初次了解；使开始接触。例如: "[The](/post/the/) [teacher](/post/teacher/) introduces [the](/post/the/) students [to](/post/to/) [basic](/post/basic/) algebra concepts."
+    1. 引见；介绍。例如: "I [would](/zh/post/would/) [like](/zh/post/like/) [to](/zh/post/to/) [introduce](/zh/post/introduce/) [my](/zh/post/my/) [friend](/zh/post/friend/), John, [to](/zh/post/to/) [you](/zh/post/you/) [all](/zh/post/all/)."
+    2. 引入；引进。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [technology](/zh/post/technology/) was introduced [to](/zh/post/to/) [the](/zh/post/the/) [market](/zh/post/market/) [last](/zh/post/last/) [year](/zh/post/year/)."
+    3. 使初次了解；使开始接触。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) introduces [the](/zh/post/the/) students [to](/zh/post/to/) [basic](/zh/post/basic/) algebra concepts."
 
 ## 短语
-- "[introduce](/post/introduce/) [oneself](/post/oneself/)" 自我介绍。例如: "[When](/post/when/) [you](/post/you/) [meet](/post/meet/) [someone](/post/someone/) [new](/post/new/), it's [polite](/post/polite/) [to](/post/to/) [introduce](/post/introduce/) [yourself](/post/yourself/)."
-- "[introduce](/post/introduce/) [a](/post/a/) [topic](/post/topic/)" 提出话题。例如: "[The](/post/the/) presenter began [her](/post/her/) [speech](/post/speech/) [by](/post/by/) introducing [the](/post/the/) [main](/post/main/) [topic](/post/topic/) [of](/post/of/) [the](/post/the/) [conference](/post/conference/)."
+- "[introduce](/zh/post/introduce/) [oneself](/zh/post/oneself/)" 自我介绍。例如: "[When](/zh/post/when/) [you](/zh/post/you/) [meet](/zh/post/meet/) [someone](/zh/post/someone/) [new](/zh/post/new/), it's [polite](/zh/post/polite/) [to](/zh/post/to/) [introduce](/zh/post/introduce/) [yourself](/zh/post/yourself/)."
+- "[introduce](/zh/post/introduce/) [a](/zh/post/a/) [topic](/zh/post/topic/)" 提出话题。例如: "[The](/zh/post/the/) presenter began [her](/zh/post/her/) [speech](/zh/post/speech/) [by](/zh/post/by/) introducing [the](/zh/post/the/) [main](/zh/post/main/) [topic](/zh/post/topic/) [of](/zh/post/of/) [the](/zh/post/the/) [conference](/zh/post/conference/)."
 
 ## 例句
-- "[He](/post/he/) introduced [his](/post/his/) girlfriend [to](/post/to/) [his](/post/his/) parents [at](/post/at/) [the](/post/the/) [family](/post/family/) [dinner](/post/dinner/)."
-- "[The](/post/the/) [company](/post/company/) is introducing [a](/post/a/) [new](/post/new/) [product](/post/product/) [line](/post/line/) [to](/post/to/) [expand](/post/expand/) [its](/post/its/) offerings."
-- "[The](/post/the/) [teacher](/post/teacher/) introduced [the](/post/the/) students [to](/post/to/) [the](/post/the/) [history](/post/history/) [of](/post/of/) [ancient](/post/ancient/) Greece."
+- "[He](/zh/post/he/) introduced [his](/zh/post/his/) girlfriend [to](/zh/post/to/) [his](/zh/post/his/) parents [at](/zh/post/at/) [the](/zh/post/the/) [family](/zh/post/family/) [dinner](/zh/post/dinner/)."
+- "[The](/zh/post/the/) [company](/zh/post/company/) is introducing [a](/zh/post/a/) [new](/zh/post/new/) [product](/zh/post/product/) [line](/zh/post/line/) [to](/zh/post/to/) [expand](/zh/post/expand/) [its](/zh/post/its/) offerings."
+- "[The](/zh/post/the/) [teacher](/zh/post/teacher/) introduced [the](/zh/post/the/) students [to](/zh/post/to/) [the](/zh/post/the/) [history](/zh/post/history/) [of](/zh/post/of/) [ancient](/zh/post/ancient/) Greece."
 
 ## 同义词
-- [present](/post/present/)
+- [present](/zh/post/present/)
 - acquaint
 - familiarize
-- [bring](/post/bring/) [in](/post/in/)
-- [launch](/post/launch/)
+- [bring](/zh/post/bring/) [in](/zh/post/in/)
+- [launch](/zh/post/launch/)

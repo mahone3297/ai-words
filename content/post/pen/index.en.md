@@ -7,39 +7,39 @@ description = '[pen] n.钢笔，自来水笔'
 keywords = ['ai words', 'pen']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[pen](/en/post/pen/)/
+## [Pronunciation](/post/pronunciation/)
+/[pen](/post/pen/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [device](/en/post/device/) [with](/en/post/with/) [a](/en/post/a/) [writing](/en/post/writing/) [point](/en/post/point/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) moved [across](/en/post/across/) [a](/en/post/a/) [surface](/en/post/surface/) [to](/en/post/to/) [produce](/en/post/produce/) written marks, typically [ink](/en/post/ink/) [or](/en/post/or/) [other](/en/post/other/) pigments.**
-- **An implement [for](/en/post/for/) [writing](/en/post/writing/) [or](/en/post/or/) [drawing](/en/post/drawing/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [metal](/en/post/metal/) [or](/en/post/or/) [plastic](/en/post/plastic/) casing [and](/en/post/and/) [ink](/en/post/ink/) cartridge.**
-- **[A](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [role](/en/post/role/) [in](/en/post/in/) [a](/en/post/a/) [team](/en/post/team/) [or](/en/post/or/) [organization](/en/post/organization/), [often](/en/post/often/) represented [by](/en/post/by/) [a](/en/post/a/) designated [letter](/en/post/letter/) [or](/en/post/or/) [number](/en/post/number/) (e.g., "[first](/en/post/first/) baseman").**
+### [Noun](/post/noun/)
+- **[A](/post/a/) [device](/post/device/) [with](/post/with/) [a](/post/a/) [writing](/post/writing/) [point](/post/point/) [that](/post/that/) [can](/post/can/) [be](/post/be/) moved [across](/post/across/) [a](/post/a/) [surface](/post/surface/) [to](/post/to/) [produce](/post/produce/) written marks, typically [ink](/post/ink/) [or](/post/or/) [other](/post/other/) pigments.**
+- **An implement [for](/post/for/) [writing](/post/writing/) [or](/post/or/) [drawing](/post/drawing/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [metal](/post/metal/) [or](/post/or/) [plastic](/post/plastic/) casing [and](/post/and/) [ink](/post/ink/) cartridge.**
+- **[A](/post/a/) [position](/post/position/) [or](/post/or/) [role](/post/role/) [in](/post/in/) [a](/post/a/) [team](/post/team/) [or](/post/or/) [organization](/post/organization/), [often](/post/often/) represented [by](/post/by/) [a](/post/a/) designated [letter](/post/letter/) [or](/post/or/) [number](/post/number/) (e.g., "[first](/post/first/) baseman").**
 
-## [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [write](/en/post/write/) using [a](/en/post/a/) [pen](/en/post/pen/).**
-- **[To](/en/post/to/) [fill](/en/post/fill/) [in](/en/post/in/) [or](/en/post/or/) [sign](/en/post/sign/) [a](/en/post/a/) [document](/en/post/document/) [with](/en/post/with/) [a](/en/post/a/) [pen](/en/post/pen/).**
-- **[To](/en/post/to/) [assign](/en/post/assign/) [or](/en/post/or/) [indicate](/en/post/indicate/) [a](/en/post/a/) [role](/en/post/role/) [or](/en/post/or/) [position](/en/post/position/) [with](/en/post/with/) [a](/en/post/a/) [pen](/en/post/pen/) ([as](/en/post/as/) [in](/en/post/in/) marking [a](/en/post/a/) [score](/en/post/score/) [sheet](/en/post/sheet/)).**
+## [Verb](/post/verb/)
+- **[To](/post/to/) [write](/post/write/) using [a](/post/a/) [pen](/post/pen/).**
+- **[To](/post/to/) [fill](/post/fill/) [in](/post/in/) [or](/post/or/) [sign](/post/sign/) [a](/post/a/) [document](/post/document/) [with](/post/with/) [a](/post/a/) [pen](/post/pen/).**
+- **[To](/post/to/) [assign](/post/assign/) [or](/post/or/) [indicate](/post/indicate/) [a](/post/a/) [role](/post/role/) [or](/post/or/) [position](/post/position/) [with](/post/with/) [a](/post/a/) [pen](/post/pen/) ([as](/post/as/) [in](/post/in/) marking [a](/post/a/) [score](/post/score/) [sheet](/post/sheet/)).**
 
-## [Adjective](/en/post/adjective/)
-- **Relating [to](/en/post/to/) [or](/en/post/or/) made [of](/en/post/of/) [a](/en/post/a/) [pen](/en/post/pen/) [or](/en/post/or/) [writing](/en/post/writing/) [instrument](/en/post/instrument/).**
-- **[Used](/en/post/used/) [for](/en/post/for/) [writing](/en/post/writing/) [by](/en/post/by/) [hand](/en/post/hand/) [rather](/en/post/rather/) [than](/en/post/than/) typing.**
+## [Adjective](/post/adjective/)
+- **Relating [to](/post/to/) [or](/post/or/) made [of](/post/of/) [a](/post/a/) [pen](/post/pen/) [or](/post/or/) [writing](/post/writing/) [instrument](/post/instrument/).**
+- **[Used](/post/used/) [for](/post/for/) [writing](/post/writing/) [by](/post/by/) [hand](/post/hand/) [rather](/post/rather/) [than](/post/than/) typing.**
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [pen](/en/post/pen/) [and](/en/post/and/) [paper](/en/post/paper/)" [means](/en/post/means/) [to](/en/post/to/) [get](/en/post/get/) [a](/en/post/a/) [writing](/en/post/writing/) [instrument](/en/post/instrument/) [and](/en/post/and/) [something](/en/post/something/) [to](/en/post/to/) [write](/en/post/write/) [on](/en/post/on/).
-- "[A](/en/post/a/) [pen](/en/post/pen/) [and](/en/post/and/) [ink](/en/post/ink/) [drawing](/en/post/drawing/)" refers [to](/en/post/to/) [a](/en/post/a/) [work](/en/post/work/) [of](/en/post/of/) [art](/en/post/art/) created [with](/en/post/with/) [these](/en/post/these/) materials.
-- "[Pen](/en/post/pen/) [and](/en/post/and/) [signature](/en/post/signature/)" is [used](/en/post/used/) [when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) handwritten [signature](/en/post/signature/) [on](/en/post/on/) [a](/en/post/a/) [document](/en/post/document/).
+- "[Take](/post/take/) [a](/post/a/) [pen](/post/pen/) [and](/post/and/) [paper](/post/paper/)" [means](/post/means/) [to](/post/to/) [get](/post/get/) [a](/post/a/) [writing](/post/writing/) [instrument](/post/instrument/) [and](/post/and/) [something](/post/something/) [to](/post/to/) [write](/post/write/) [on](/post/on/).
+- "[A](/post/a/) [pen](/post/pen/) [and](/post/and/) [ink](/post/ink/) [drawing](/post/drawing/)" refers [to](/post/to/) [a](/post/a/) [work](/post/work/) [of](/post/of/) [art](/post/art/) created [with](/post/with/) [these](/post/these/) materials.
+- "[Pen](/post/pen/) [and](/post/and/) [signature](/post/signature/)" is [used](/post/used/) [when](/post/when/) referring [to](/post/to/) [a](/post/a/) handwritten [signature](/post/signature/) [on](/post/on/) [a](/post/a/) [document](/post/document/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [need](/en/post/need/) [a](/en/post/a/) [new](/en/post/new/) [pen](/en/post/pen/) [for](/en/post/for/) [my](/en/post/my/) notes."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully signed [her](/en/post/her/) [name](/en/post/name/) [with](/en/post/with/) [a](/en/post/a/) [blue](/en/post/blue/) [pen](/en/post/pen/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) calligraphy [artist](/en/post/artist/) works [exclusively](/en/post/exclusively/) [with](/en/post/with/) [a](/en/post/a/) quill [pen](/en/post/pen/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [need](/post/need/) [a](/post/a/) [new](/post/new/) [pen](/post/pen/) [for](/post/for/) [my](/post/my/) notes."
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully signed [her](/post/her/) [name](/post/name/) [with](/post/with/) [a](/post/a/) [blue](/post/blue/) [pen](/post/pen/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) calligraphy [artist](/post/artist/) works [exclusively](/post/exclusively/) [with](/post/with/) [a](/post/a/) quill [pen](/post/pen/)."
 
 ## Synonyms
-- [Pencil](/en/post/pencil/)
+- [Pencil](/post/pencil/)
 - Penmanship
-- [Writing](/en/post/writing/) [instrument](/en/post/instrument/)
+- [Writing](/post/writing/) [instrument](/post/instrument/)
 - Marker
-- Quill ([for](/en/post/for/) [traditional](/en/post/traditional/) [writing](/en/post/writing/) pens)
+- Quill ([for](/post/for/) [traditional](/post/traditional/) [writing](/post/writing/) pens)
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) "penning" is [occasionally](/en/post/occasionally/) [used](/en/post/used/), [although](/en/post/although/) [less](/en/post/less/) [common](/en/post/common/) [than](/en/post/than/) "[writing](/en/post/writing/)" [or](/en/post/or/) "signing."
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) "penning" is [occasionally](/post/occasionally/) [used](/post/used/), [although](/post/although/) [less](/post/less/) [common](/post/common/) [than](/post/than/) "[writing](/post/writing/)" [or](/post/or/) "signing."

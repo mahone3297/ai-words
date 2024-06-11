@@ -7,33 +7,33 @@ description = '[ˈsiːpɔːt] n.海港，港市'
 keywords = ['ai words', 'seaport']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /seɪˈpɔːrt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [seaport](/en/post/seaport/) is [a](/en/post/a/):
-- **[noun](/en/post/noun/)**: [A](/en/post/a/) [port](/en/post/port/) [or](/en/post/or/) harbor located [on](/en/post/on/) [a](/en/post/a/) [coast](/en/post/coast/) [where](/en/post/where/) ships [can](/en/post/can/) [anchor](/en/post/anchor/) [and](/en/post/and/) [unload](/en/post/unload/) [cargo](/en/post/cargo/), typically [with](/en/post/with/) facilities [for](/en/post/for/) loading [and](/en/post/and/) unloading [goods](/en/post/goods/), [as](/en/post/as/) [well](/en/post/well/) [as](/en/post/as/) [passenger](/en/post/passenger/) terminals [and](/en/post/and/) [commercial](/en/post/commercial/) activities. [Example](/en/post/example/): "[The](/en/post/the/) city's [main](/en/post/main/) [seaport](/en/post/seaport/) handles [a](/en/post/a/) [large](/en/post/large/) [volume](/en/post/volume/) [of](/en/post/of/) [international](/en/post/international/) [trade](/en/post/trade/)."
+### [Noun](/post/noun/)
+[A](/post/a/) [seaport](/post/seaport/) is [a](/post/a/):
+- **[noun](/post/noun/)**: [A](/post/a/) [port](/post/port/) [or](/post/or/) harbor located [on](/post/on/) [a](/post/a/) [coast](/post/coast/) [where](/post/where/) ships [can](/post/can/) [anchor](/post/anchor/) [and](/post/and/) [unload](/post/unload/) [cargo](/post/cargo/), typically [with](/post/with/) facilities [for](/post/for/) loading [and](/post/and/) unloading [goods](/post/goods/), [as](/post/as/) [well](/post/well/) [as](/post/as/) [passenger](/post/passenger/) terminals [and](/post/and/) [commercial](/post/commercial/) activities. [Example](/post/example/): "[The](/post/the/) city's [main](/post/main/) [seaport](/post/seaport/) handles [a](/post/a/) [large](/post/large/) [volume](/post/volume/) [of](/post/of/) [international](/post/international/) [trade](/post/trade/)."
 
-### [Verb](/en/post/verb/)
-- [Not](/en/post/not/) [a](/en/post/a/) [common](/en/post/common/) [verb](/en/post/verb/), [but](/en/post/but/) [one](/en/post/one/) [could](/en/post/could/) [use](/en/post/use/) [it](/en/post/it/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [arrival](/en/post/arrival/) [or](/en/post/or/) [departure](/en/post/departure/) [of](/en/post/of/) [a](/en/post/a/) [ship](/en/post/ship/) [at](/en/post/at/) [a](/en/post/a/) [port](/en/post/port/). [Example](/en/post/example/) (informal): "[The](/en/post/the/) [ship](/en/post/ship/) docked [at](/en/post/at/) [the](/en/post/the/) [seaport](/en/post/seaport/), marking [its](/en/post/its/) [successful](/en/post/successful/) [voyage](/en/post/voyage/)."
+### [Verb](/post/verb/)
+- [Not](/post/not/) [a](/post/a/) [common](/post/common/) [verb](/post/verb/), [but](/post/but/) [one](/post/one/) [could](/post/could/) [use](/post/use/) [it](/post/it/) metaphorically [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [arrival](/post/arrival/) [or](/post/or/) [departure](/post/departure/) [of](/post/of/) [a](/post/a/) [ship](/post/ship/) [at](/post/at/) [a](/post/a/) [port](/post/port/). [Example](/post/example/) (informal): "[The](/post/the/) [ship](/post/ship/) docked [at](/post/at/) [the](/post/the/) [seaport](/post/seaport/), marking [its](/post/its/) [successful](/post/successful/) [voyage](/post/voyage/)."
 
 ## Phrases
-- "[Unload](/en/post/unload/) [at](/en/post/at/) [the](/en/post/the/) [seaport](/en/post/seaport/)" [means](/en/post/means/) [to](/en/post/to/) offload [goods](/en/post/goods/) [from](/en/post/from/) [a](/en/post/a/) [ship](/en/post/ship/) [onto](/en/post/onto/) trucks [or](/en/post/or/) [storage](/en/post/storage/) facilities.
-- "[Cargo](/en/post/cargo/) ships calling [at](/en/post/at/) [the](/en/post/the/) [seaport](/en/post/seaport/)" refers [to](/en/post/to/) vessels stopping [to](/en/post/to/) [load](/en/post/load/) [or](/en/post/or/) [unload](/en/post/unload/) merchandise.
-- "[International](/en/post/international/) [seaport](/en/post/seaport/) hub" describes [a](/en/post/a/) [major](/en/post/major/) [port](/en/post/port/) [that](/en/post/that/) serves [as](/en/post/as/) [a](/en/post/a/) [central](/en/post/central/) [point](/en/post/point/) [for](/en/post/for/) global shipping.
+- "[Unload](/post/unload/) [at](/post/at/) [the](/post/the/) [seaport](/post/seaport/)" [means](/post/means/) [to](/post/to/) offload [goods](/post/goods/) [from](/post/from/) [a](/post/a/) [ship](/post/ship/) [onto](/post/onto/) trucks [or](/post/or/) [storage](/post/storage/) facilities.
+- "[Cargo](/post/cargo/) ships calling [at](/post/at/) [the](/post/the/) [seaport](/post/seaport/)" refers [to](/post/to/) vessels stopping [to](/post/to/) [load](/post/load/) [or](/post/or/) [unload](/post/unload/) merchandise.
+- "[International](/post/international/) [seaport](/post/seaport/) hub" describes [a](/post/a/) [major](/post/major/) [port](/post/port/) [that](/post/that/) serves [as](/post/as/) [a](/post/a/) [central](/post/central/) [point](/post/point/) [for](/post/for/) global shipping.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [container](/en/post/container/) [ship](/en/post/ship/) docked [at](/en/post/at/) [the](/en/post/the/) bustling [seaport](/en/post/seaport/) [of](/en/post/of/) Rotterdam."
-- **Metaphorical [Verb](/en/post/verb/)**: "[The](/en/post/the/) cruise liner's passengers disembarked [at](/en/post/at/) [the](/en/post/the/) [seaport](/en/post/seaport/) [after](/en/post/after/) [a](/en/post/a/) weeklong [vacation](/en/post/vacation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [container](/post/container/) [ship](/post/ship/) docked [at](/post/at/) [the](/post/the/) bustling [seaport](/post/seaport/) [of](/post/of/) Rotterdam."
+- **Metaphorical [Verb](/post/verb/)**: "[The](/post/the/) cruise liner's passengers disembarked [at](/post/at/) [the](/post/the/) [seaport](/post/seaport/) [after](/post/after/) [a](/post/a/) weeklong [vacation](/post/vacation/)."
 
 ## Synonyms
-- [Port](/en/post/port/)
+- [Port](/post/port/)
 - Harbor
 - Seaway
 - Marina
 - Quay
 - Pier
-- [Commercial](/en/post/commercial/) [dock](/en/post/dock/)
+- [Commercial](/post/commercial/) [dock](/post/dock/)
 
-[Note](/en/post/note/): [While](/en/post/while/) "[seaport](/en/post/seaport/)" is [primarily](/en/post/primarily/) [a](/en/post/a/) [noun](/en/post/noun/), [the](/en/post/the/) [concept](/en/post/concept/) [can](/en/post/can/) [be](/en/post/be/) referred [to](/en/post/to/) metaphorically [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [certain](/en/post/certain/) contexts, [but](/en/post/but/) it's [not](/en/post/not/) [a](/en/post/a/) [commonly](/en/post/commonly/) [used](/en/post/used/) [verb](/en/post/verb/) [form](/en/post/form/).
+[Note](/post/note/): [While](/post/while/) "[seaport](/post/seaport/)" is [primarily](/post/primarily/) [a](/post/a/) [noun](/post/noun/), [the](/post/the/) [concept](/post/concept/) [can](/post/can/) [be](/post/be/) referred [to](/post/to/) metaphorically [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [certain](/post/certain/) contexts, [but](/post/but/) it's [not](/post/not/) [a](/post/a/) [commonly](/post/commonly/) [used](/post/used/) [verb](/post/verb/) [form](/post/form/).

@@ -14,17 +14,17 @@ keywords = ['ai words', 'rapidly']
 - **副词**: 快速地，迅速地。描述动作或变化的速度很快。
 
 ## 短语
-- "[to](/post/to/) [do](/post/do/) [something](/post/something/) [rapidly](/post/rapidly/)" 表示快速地做某事。
-- "growing [rapidly](/post/rapidly/)" 指迅速增长。
+- "[to](/zh/post/to/) [do](/zh/post/do/) [something](/zh/post/something/) [rapidly](/zh/post/rapidly/)" 表示快速地做某事。
+- "growing [rapidly](/zh/post/rapidly/)" 指迅速增长。
 
 ## 例句
-- "[The](/post/the/) [train](/post/train/) moved [rapidly](/post/rapidly/) [through](/post/through/) [the](/post/the/) [countryside](/post/countryside/)."
-- "[Her](/post/her/) [heart](/post/heart/) was beating [rapidly](/post/rapidly/) [after](/post/after/) [the](/post/the/) [intense](/post/intense/) workout."
-- "[The](/post/the/) [technology](/post/technology/) is advancing [rapidly](/post/rapidly/)."
+- "[The](/zh/post/the/) [train](/zh/post/train/) moved [rapidly](/zh/post/rapidly/) [through](/zh/post/through/) [the](/zh/post/the/) [countryside](/zh/post/countryside/)."
+- "[Her](/zh/post/her/) [heart](/zh/post/heart/) was beating [rapidly](/zh/post/rapidly/) [after](/zh/post/after/) [the](/zh/post/the/) [intense](/zh/post/intense/) workout."
+- "[The](/zh/post/the/) [technology](/zh/post/technology/) is advancing [rapidly](/zh/post/rapidly/)."
 
 ## 同义词
-- [Quickly](/post/quickly/)
+- [Quickly](/zh/post/quickly/)
 - Swiftly
 - Promptly
 - Speedily
-- [Instantly](/post/instantly/)
+- [Instantly](/zh/post/instantly/)

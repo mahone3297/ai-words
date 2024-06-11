@@ -7,35 +7,35 @@ description = '[gaid] n.导游者 vt.给…导游'
 keywords = ['ai words', 'guide']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡaɪd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) leads [or](/en/post/or/) directs [another](/en/post/another/) [in](/en/post/in/) [action](/en/post/action/) [or](/en/post/or/) [thought](/en/post/thought/); [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) shows [the](/en/post/the/) [way](/en/post/way/), [especially](/en/post/especially/) [one](/en/post/one/) hired [to](/en/post/to/) [show](/en/post/show/) tourists [around](/en/post/around/) places [of](/en/post/of/) [interest](/en/post/interest/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [tour](/en/post/tour/) [guide](/en/post/guide/) led [us](/en/post/us/) [through](/en/post/through/) [the](/en/post/the/) [ancient](/en/post/ancient/) ruins."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [lead](/en/post/lead/) [or](/en/post/or/) [direct](/en/post/direct/) [in](/en/post/in/) [a](/en/post/a/) [course](/en/post/course/) [or](/en/post/or/) [along](/en/post/along/) [a](/en/post/a/) [path](/en/post/path/); [to](/en/post/to/) [show](/en/post/show/) [the](/en/post/the/) [way](/en/post/way/) [to](/en/post/to/) [go](/en/post/go/) [or](/en/post/or/) [give](/en/post/give/) directions [to](/en/post/to/). [Also](/en/post/also/), [to](/en/post/to/) [assist](/en/post/assist/), [advise](/en/post/advise/), [or](/en/post/or/) [influence](/en/post/influence/) ([someone](/en/post/someone/)) [in](/en/post/in/) decision-making [or](/en/post/or/) [conduct](/en/post/conduct/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) guided [the](/en/post/the/) visitors [around](/en/post/around/) [the](/en/post/the/) [museum](/en/post/museum/) exhibits." "[The](/en/post/the/) [teacher](/en/post/teacher/) guided [her](/en/post/her/) students [through](/en/post/through/) [the](/en/post/the/) [complex](/en/post/complex/) [project](/en/post/project/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) leads [or](/post/or/) directs [another](/post/another/) [in](/post/in/) [action](/post/action/) [or](/post/or/) [thought](/post/thought/); [a](/post/a/) [person](/post/person/) [who](/post/who/) shows [the](/post/the/) [way](/post/way/), [especially](/post/especially/) [one](/post/one/) hired [to](/post/to/) [show](/post/show/) tourists [around](/post/around/) places [of](/post/of/) [interest](/post/interest/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [tour](/post/tour/) [guide](/post/guide/) led [us](/post/us/) [through](/post/through/) [the](/post/the/) [ancient](/post/ancient/) ruins."
+- **[Verb](/post/verb/)**: [To](/post/to/) [lead](/post/lead/) [or](/post/or/) [direct](/post/direct/) [in](/post/in/) [a](/post/a/) [course](/post/course/) [or](/post/or/) [along](/post/along/) [a](/post/a/) [path](/post/path/); [to](/post/to/) [show](/post/show/) [the](/post/the/) [way](/post/way/) [to](/post/to/) [go](/post/go/) [or](/post/or/) [give](/post/give/) directions [to](/post/to/). [Also](/post/also/), [to](/post/to/) [assist](/post/assist/), [advise](/post/advise/), [or](/post/or/) [influence](/post/influence/) ([someone](/post/someone/)) [in](/post/in/) decision-making [or](/post/or/) [conduct](/post/conduct/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) guided [the](/post/the/) visitors [around](/post/around/) [the](/post/the/) [museum](/post/museum/) exhibits." "[The](/post/the/) [teacher](/post/teacher/) guided [her](/post/her/) students [through](/post/through/) [the](/post/the/) [complex](/post/complex/) [project](/post/project/)."
 
-### [Noun](/en/post/noun/) [Phrase](/en/post/phrase/) Examples
-- "[A](/en/post/a/) guidebook [for](/en/post/for/) travelers"
-- "[The](/en/post/the/) [mountain](/en/post/mountain/) guides were experienced climbers."
-- "[A](/en/post/a/) [spiritual](/en/post/spiritual/) [guide](/en/post/guide/) [to](/en/post/to/) enlightenment"
+### [Noun](/post/noun/) [Phrase](/post/phrase/) Examples
+- "[A](/post/a/) guidebook [for](/post/for/) travelers"
+- "[The](/post/the/) [mountain](/post/mountain/) guides were experienced climbers."
+- "[A](/post/a/) [spiritual](/post/spiritual/) [guide](/post/guide/) [to](/post/to/) enlightenment"
 
-### [Verb](/en/post/verb/) [Phrase](/en/post/phrase/) Examples
-- "I'll [guide](/en/post/guide/) [you](/en/post/you/) [through](/en/post/through/) [the](/en/post/the/) city's [historical](/en/post/historical/) sites."
-- "[The](/en/post/the/) app guides users [through](/en/post/through/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) steps [to](/en/post/to/) [set](/en/post/set/) [up](/en/post/up/) [their](/en/post/their/) [account](/en/post/account/)."
-- "[Her](/en/post/her/) [moral](/en/post/moral/) [compass](/en/post/compass/) guides [her](/en/post/her/) actions."
+### [Verb](/post/verb/) [Phrase](/post/phrase/) Examples
+- "I'll [guide](/post/guide/) [you](/post/you/) [through](/post/through/) [the](/post/the/) city's [historical](/post/historical/) sites."
+- "[The](/post/the/) app guides users [through](/post/through/) [a](/post/a/) [series](/post/series/) [of](/post/of/) steps [to](/post/to/) [set](/post/set/) [up](/post/up/) [their](/post/their/) [account](/post/account/)."
+- "[Her](/post/her/) [moral](/post/moral/) [compass](/post/compass/) guides [her](/post/her/) actions."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) safari [guide](/en/post/guide/) was knowledgeable [about](/en/post/about/) [the](/en/post/the/) wildlife [we](/en/post/we/) encountered."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) guided [the](/en/post/the/) [team](/en/post/team/) expertly towards achieving [their](/en/post/their/) goals."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) safari [guide](/post/guide/) was knowledgeable [about](/post/about/) [the](/post/the/) wildlife [we](/post/we/) encountered."
+- **[Verb](/post/verb/)**: "[She](/post/she/) guided [the](/post/the/) [team](/post/team/) expertly towards achieving [their](/post/their/) goals."
 
 ## Synonyms
-- [Leader](/en/post/leader/)
-- [Director](/en/post/director/)
+- [Leader](/post/leader/)
+- [Director](/post/director/)
 - Mentor
 - Instructor
 - Adviser
 - Navigator
 - Escort
-- [Coach](/en/post/coach/)
+- [Coach](/post/coach/)
 - Counselor
-- [Tutor](/en/post/tutor/)
+- [Tutor](/post/tutor/)

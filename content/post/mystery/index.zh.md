@@ -11,20 +11,20 @@ keywords = ['ai words', 'mystery']
 /mɪˈstəri/
 
 ## 释义
-- **名词**: 不可解的秘密，谜团。例如: "[The](/post/the/) disappearance [remains](/post/remains/) [a](/post/a/) [mystery](/post/mystery/) [to](/post/to/) [this](/post/this/) [day](/post/day/)."
-- **名词**: （尤指文学、电影中的）神秘故事，悬疑情节。例如: "[She](/post/she/) loves [reading](/post/reading/) [mystery](/post/mystery/) novels."
+- **名词**: 不可解的秘密，谜团。例如: "[The](/zh/post/the/) disappearance [remains](/zh/post/remains/) [a](/zh/post/a/) [mystery](/zh/post/mystery/) [to](/zh/post/to/) [this](/zh/post/this/) [day](/zh/post/day/)."
+- **名词**: （尤指文学、电影中的）神秘故事，悬疑情节。例如: "[She](/zh/post/she/) loves [reading](/zh/post/reading/) [mystery](/zh/post/mystery/) novels."
 
 ## 短语
-- "[solve](/post/solve/) [the](/post/the/) [mystery](/post/mystery/)" 解开谜团。
-- "[a](/post/a/) [mystery](/post/mystery/) [novel](/post/novel/)" 神秘小说。
+- "[solve](/zh/post/solve/) [the](/zh/post/the/) [mystery](/zh/post/mystery/)" 解开谜团。
+- "[a](/zh/post/a/) [mystery](/zh/post/mystery/) [novel](/zh/post/novel/)" 神秘小说。
 
 ## 例句
-- 名词: "There's [still](/post/still/) [a](/post/a/) [great](/post/great/) [mystery](/post/mystery/) surrounding [the](/post/the/) [ancient](/post/ancient/) [civilization](/post/civilization/)."
-- 名词: "[The](/post/the/) [movie](/post/movie/) is [a](/post/a/) gripping [mystery](/post/mystery/) [with](/post/with/) [unexpected](/post/unexpected/) twists."
+- 名词: "There's [still](/zh/post/still/) [a](/zh/post/a/) [great](/zh/post/great/) [mystery](/zh/post/mystery/) surrounding [the](/zh/post/the/) [ancient](/zh/post/ancient/) [civilization](/zh/post/civilization/)."
+- 名词: "[The](/zh/post/the/) [movie](/zh/post/movie/) is [a](/zh/post/a/) gripping [mystery](/zh/post/mystery/) [with](/zh/post/with/) [unexpected](/zh/post/unexpected/) twists."
 
 ## 同义词
 - Enigma
-- [Riddle](/post/riddle/)
-- [Puzzle](/post/puzzle/)
+- [Riddle](/zh/post/riddle/)
+- [Puzzle](/zh/post/puzzle/)
 - Conundrum
-- [Secret](/post/secret/)
+- [Secret](/zh/post/secret/)

@@ -7,25 +7,25 @@ description = '[ˈgæsiəs] a.气体的，气态的'
 keywords = ['ai words', 'gaseous']
 +++
 
-## [Word](/en/post/word/): [Gaseous](/en/post/gaseous/)
+## [Word](/post/word/): [Gaseous](/post/gaseous/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡeɪs.i.əs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) having [the](/en/post/the/) [form](/en/post/form/) [of](/en/post/of/) [gas](/en/post/gas/); existing [as](/en/post/as/) [or](/en/post/or/) [being](/en/post/being/) transformed [into](/en/post/into/) [gas](/en/post/gas/). 
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) having [the](/post/the/) [form](/post/form/) [of](/post/of/) [gas](/post/gas/); existing [as](/post/as/) [or](/post/or/) [being](/post/being/) transformed [into](/post/into/) [gas](/post/gas/). 
 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): [The](/en/post/the/) [gaseous](/en/post/gaseous/) [state](/en/post/state/) [of](/en/post/of/) [water](/en/post/water/) [can](/en/post/can/) [be](/en/post/be/) observed [when](/en/post/when/) [it](/en/post/it/) turns [into](/en/post/into/) [steam](/en/post/steam/).
+  > [Example](/post/example/) [Sentence](/post/sentence/): [The](/post/the/) [gaseous](/post/gaseous/) [state](/post/state/) [of](/post/of/) [water](/post/water/) [can](/post/can/) [be](/post/be/) observed [when](/post/when/) [it](/post/it/) turns [into](/post/into/) [steam](/post/steam/).
   
-  > [Another](/en/post/another/) [Example](/en/post/example/): [The](/en/post/the/) [release](/en/post/release/) [of](/en/post/of/) [gaseous](/en/post/gaseous/) pollutants [into](/en/post/into/) [the](/en/post/the/) [atmosphere](/en/post/atmosphere/) has [a](/en/post/a/) detrimental [impact](/en/post/impact/) [on](/en/post/on/) [air](/en/post/air/) [quality](/en/post/quality/).
+  > [Another](/post/another/) [Example](/post/example/): [The](/post/the/) [release](/post/release/) [of](/post/of/) [gaseous](/post/gaseous/) pollutants [into](/post/into/) [the](/post/the/) [atmosphere](/post/atmosphere/) has [a](/post/a/) detrimental [impact](/post/impact/) [on](/post/on/) [air](/post/air/) [quality](/post/quality/).
 
 ## Phrases
-- "[Gaseous](/en/post/gaseous/) [mixture](/en/post/mixture/)": Refers [to](/en/post/to/) [a](/en/post/a/) [combination](/en/post/combination/) [of](/en/post/of/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) gases [that](/en/post/that/) are mixed [together](/en/post/together/), e.g., [the](/en/post/the/) Earth's [atmosphere](/en/post/atmosphere/) is [a](/en/post/a/) [gaseous](/en/post/gaseous/) [mixture](/en/post/mixture/) containing [nitrogen](/en/post/nitrogen/), oxygen, [and](/en/post/and/) [other](/en/post/other/) gases.
-- "[Gaseous](/en/post/gaseous/) [substance](/en/post/substance/)": Refers [to](/en/post/to/) [any](/en/post/any/) [material](/en/post/material/) [that](/en/post/that/) exists [in](/en/post/in/) [a](/en/post/a/) [gaseous](/en/post/gaseous/) [state](/en/post/state/) [under](/en/post/under/) [certain](/en/post/certain/) conditions, [such](/en/post/such/) [as](/en/post/as/) [carbon](/en/post/carbon/) dioxide [or](/en/post/or/) methane.
+- "[Gaseous](/post/gaseous/) [mixture](/post/mixture/)": Refers [to](/post/to/) [a](/post/a/) [combination](/post/combination/) [of](/post/of/) [two](/post/two/) [or](/post/or/) [more](/post/more/) gases [that](/post/that/) are mixed [together](/post/together/), e.g., [the](/post/the/) Earth's [atmosphere](/post/atmosphere/) is [a](/post/a/) [gaseous](/post/gaseous/) [mixture](/post/mixture/) containing [nitrogen](/post/nitrogen/), oxygen, [and](/post/and/) [other](/post/other/) gases.
+- "[Gaseous](/post/gaseous/) [substance](/post/substance/)": Refers [to](/post/to/) [any](/post/any/) [material](/post/material/) [that](/post/that/) exists [in](/post/in/) [a](/post/a/) [gaseous](/post/gaseous/) [state](/post/state/) [under](/post/under/) [certain](/post/certain/) conditions, [such](/post/such/) [as](/post/as/) [carbon](/post/carbon/) dioxide [or](/post/or/) methane.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) burning [of](/en/post/of/) fossil fuels releases [large](/en/post/large/) amounts [of](/en/post/of/) [gaseous](/en/post/gaseous/) [carbon](/en/post/carbon/) dioxide."
-- "[In](/en/post/in/) [space](/en/post/space/), [where](/en/post/where/) [there](/en/post/there/) is [no](/en/post/no/) [atmospheric](/en/post/atmospheric/) [pressure](/en/post/pressure/), liquids [can](/en/post/can/) [boil](/en/post/boil/) [and](/en/post/and/) [turn](/en/post/turn/) [gaseous](/en/post/gaseous/) [instantly](/en/post/instantly/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) burning [of](/post/of/) fossil fuels releases [large](/post/large/) amounts [of](/post/of/) [gaseous](/post/gaseous/) [carbon](/post/carbon/) dioxide."
+- "[In](/post/in/) [space](/post/space/), [where](/post/where/) [there](/post/there/) is [no](/post/no/) [atmospheric](/post/atmospheric/) [pressure](/post/pressure/), liquids [can](/post/can/) [boil](/post/boil/) [and](/post/and/) [turn](/post/turn/) [gaseous](/post/gaseous/) [instantly](/post/instantly/)."
 
 ## Synonyms
 - Vaporous
@@ -35,4 +35,4 @@ keywords = ['ai words', 'gaseous']
 - Evaporated
 - Aerosolized
 - Rarefied
-- Airborne ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- Airborne ([in](/post/in/) [some](/post/some/) contexts)

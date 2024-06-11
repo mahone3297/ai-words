@@ -7,34 +7,34 @@ description = '[ˈkɑːgəu] n.船货，货物'
 keywords = ['ai words', 'cargo']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈrɑːɡoʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Cargo](/en/post/cargo/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [goods](/en/post/goods/), typically transported [by](/en/post/by/) [ship](/en/post/ship/), [plane](/en/post/plane/), [or](/en/post/or/) [truck](/en/post/truck/), [that](/en/post/that/) are [not](/en/post/not/) passengers [or](/en/post/or/) [living](/en/post/living/) beings. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [ship](/en/post/ship/) was loaded [with](/en/post/with/) [a](/en/post/a/) [diverse](/en/post/diverse/) [cargo](/en/post/cargo/) [of](/en/post/of/) perishable [goods](/en/post/goods/)."
-- **Payload**: [In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [transportation](/en/post/transportation/), [this](/en/post/this/) [term](/en/post/term/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [load](/en/post/load/) carried [by](/en/post/by/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [or](/en/post/or/) [aircraft](/en/post/aircraft/), excluding passengers [and](/en/post/and/) [crew](/en/post/crew/).
+### [Noun](/post/noun/)
+- **[Cargo](/post/cargo/)**: [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [goods](/post/goods/), typically transported [by](/post/by/) [ship](/post/ship/), [plane](/post/plane/), [or](/post/or/) [truck](/post/truck/), [that](/post/that/) are [not](/post/not/) passengers [or](/post/or/) [living](/post/living/) beings. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [ship](/post/ship/) was loaded [with](/post/with/) [a](/post/a/) [diverse](/post/diverse/) [cargo](/post/cargo/) [of](/post/of/) perishable [goods](/post/goods/)."
+- **Payload**: [In](/post/in/) [the](/post/the/) context [of](/post/of/) [transportation](/post/transportation/), [this](/post/this/) [term](/post/term/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [load](/post/load/) carried [by](/post/by/) [a](/post/a/) [vehicle](/post/vehicle/) [or](/post/or/) [aircraft](/post/aircraft/), excluding passengers [and](/post/and/) [crew](/post/crew/).
 
-### [Verb](/en/post/verb/)
-- **[Cargo](/en/post/cargo/)**: [Occasionally](/en/post/occasionally/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) loading [or](/en/post/or/) unloading [cargo](/en/post/cargo/), [or](/en/post/or/) [the](/en/post/the/) [goods](/en/post/goods/) [being](/en/post/being/) transported. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) workers were [busy](/en/post/busy/) cargoing [the](/en/post/the/) containers [onto](/en/post/onto/) [the](/en/post/the/) [ship](/en/post/ship/)."
-- **Haul**: [Another](/en/post/another/) [verb](/en/post/verb/) [meaning](/en/post/meaning/) [to](/en/post/to/) [transport](/en/post/transport/) [goods](/en/post/goods/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [more](/en/post/more/) [general](/en/post/general/) [sense](/en/post/sense/) [than](/en/post/than/) '[cargo](/en/post/cargo/).'
+### [Verb](/post/verb/)
+- **[Cargo](/post/cargo/)**: [Occasionally](/post/occasionally/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [act](/post/act/) [of](/post/of/) loading [or](/post/or/) unloading [cargo](/post/cargo/), [or](/post/or/) [the](/post/the/) [goods](/post/goods/) [being](/post/being/) transported. [For](/post/for/) [example](/post/example/): "[The](/post/the/) workers were [busy](/post/busy/) cargoing [the](/post/the/) containers [onto](/post/onto/) [the](/post/the/) [ship](/post/ship/)."
+- **Haul**: [Another](/post/another/) [verb](/post/verb/) [meaning](/post/meaning/) [to](/post/to/) [transport](/post/transport/) [goods](/post/goods/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [more](/post/more/) [general](/post/general/) [sense](/post/sense/) [than](/post/than/) '[cargo](/post/cargo/).'
 
-### [Adjective](/en/post/adjective/)
-- **[Cargo](/en/post/cargo/)**: [Less](/en/post/less/) [commonly](/en/post/commonly/), [this](/en/post/this/) [term](/en/post/term/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) has been transported [or](/en/post/or/) carried, [like](/en/post/like/) "[cargo](/en/post/cargo/) pants" [or](/en/post/or/) "[cargo](/en/post/cargo/) shorts." 
+### [Adjective](/post/adjective/)
+- **[Cargo](/post/cargo/)**: [Less](/post/less/) [commonly](/post/commonly/), [this](/post/this/) [term](/post/term/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) has been transported [or](/post/or/) carried, [like](/post/like/) "[cargo](/post/cargo/) pants" [or](/post/or/) "[cargo](/post/cargo/) shorts." 
 
 ## Phrases
-- "[Carry](/en/post/carry/) [cargo](/en/post/cargo/)" [means](/en/post/means/) [to](/en/post/to/) [transport](/en/post/transport/) [goods](/en/post/goods/) [or](/en/post/or/) items.
-- "[Unload](/en/post/unload/) [cargo](/en/post/cargo/)" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) removing [goods](/en/post/goods/) [from](/en/post/from/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [or](/en/post/or/) [vessel](/en/post/vessel/).
-- "[Cargo](/en/post/cargo/) [hold](/en/post/hold/)" designates [the](/en/post/the/) [area](/en/post/area/) [on](/en/post/on/) [a](/en/post/a/) [ship](/en/post/ship/) [or](/en/post/or/) [aircraft](/en/post/aircraft/) [where](/en/post/where/) [cargo](/en/post/cargo/) is stored.
+- "[Carry](/post/carry/) [cargo](/post/cargo/)" [means](/post/means/) [to](/post/to/) [transport](/post/transport/) [goods](/post/goods/) [or](/post/or/) items.
+- "[Unload](/post/unload/) [cargo](/post/cargo/)" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) removing [goods](/post/goods/) [from](/post/from/) [a](/post/a/) [vehicle](/post/vehicle/) [or](/post/or/) [vessel](/post/vessel/).
+- "[Cargo](/post/cargo/) [hold](/post/hold/)" designates [the](/post/the/) [area](/post/area/) [on](/post/on/) [a](/post/a/) [ship](/post/ship/) [or](/post/or/) [aircraft](/post/aircraft/) [where](/post/where/) [cargo](/post/cargo/) is stored.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) airplane's [cargo](/en/post/cargo/) was carefully secured [before](/en/post/before/) takeoff."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [truck](/en/post/truck/) [driver](/en/post/driver/) had [to](/en/post/to/) [cargo](/en/post/cargo/) [the](/en/post/the/) [heavy](/en/post/heavy/) machinery [to](/en/post/to/) [the](/en/post/the/) [construction](/en/post/construction/) [site](/en/post/site/)."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) wore [cargo](/en/post/cargo/) shorts [on](/en/post/on/) [his](/en/post/his/) [tropical](/en/post/tropical/) [vacation](/en/post/vacation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) airplane's [cargo](/post/cargo/) was carefully secured [before](/post/before/) takeoff."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [truck](/post/truck/) [driver](/post/driver/) had [to](/post/to/) [cargo](/post/cargo/) [the](/post/the/) [heavy](/post/heavy/) machinery [to](/post/to/) [the](/post/the/) [construction](/post/construction/) [site](/post/site/)."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) wore [cargo](/post/cargo/) shorts [on](/post/on/) [his](/post/his/) [tropical](/post/tropical/) [vacation](/post/vacation/)."
 
 ## Synonyms
-- [Freight](/en/post/freight/)
-- [Goods](/en/post/goods/)
+- [Freight](/post/freight/)
+- [Goods](/post/goods/)
 - Lading
 - Valuables
-- [Burden](/en/post/burden/) ([less](/en/post/less/) [formal](/en/post/formal/))
+- [Burden](/post/burden/) ([less](/post/less/) [formal](/post/formal/))

@@ -7,27 +7,27 @@ description = '[ˈkænədə] n.加拿大'
 keywords = ['ai words', 'Canada']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈnædə/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: **[1]** [The](/en/post/the/) [second](/en/post/second/) largest [country](/en/post/country/) [in](/en/post/in/) [the](/en/post/the/) [world](/en/post/world/), located [in](/en/post/in/) [North](/en/post/north/) [America](/en/post/america/), bordered [by](/en/post/by/) [the](/en/post/the/) United States [to](/en/post/to/) [the](/en/post/the/) [south](/en/post/south/) [and](/en/post/and/) [the](/en/post/the/) Arctic [Ocean](/en/post/ocean/), [Atlantic](/en/post/atlantic/) [Ocean](/en/post/ocean/), [and](/en/post/and/) [Pacific](/en/post/pacific/) [Ocean](/en/post/ocean/) [to](/en/post/to/) [the](/en/post/the/) [north](/en/post/north/), [east](/en/post/east/), [and](/en/post/and/) [west](/en/post/west/). **[2]** [The](/en/post/the/) [official](/en/post/official/) [name](/en/post/name/) [of](/en/post/of/) [the](/en/post/the/) [country](/en/post/country/), referring [to](/en/post/to/) [both](/en/post/both/) [the](/en/post/the/) [federal](/en/post/federal/) [state](/en/post/state/) [and](/en/post/and/) [its](/en/post/its/) [capital](/en/post/capital/), Ottawa.
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) relating [to](/en/post/to/) Canada. [Example](/en/post/example/): "[A](/en/post/a/) maple [leaf](/en/post/leaf/) is [a](/en/post/a/) [symbol](/en/post/symbol/) [of](/en/post/of/) Canadian [pride](/en/post/pride/)."
+- **[Noun](/post/noun/)**: **[1]** [The](/post/the/) [second](/post/second/) largest [country](/post/country/) [in](/post/in/) [the](/post/the/) [world](/post/world/), located [in](/post/in/) [North](/post/north/) [America](/post/america/), bordered [by](/post/by/) [the](/post/the/) United States [to](/post/to/) [the](/post/the/) [south](/post/south/) [and](/post/and/) [the](/post/the/) Arctic [Ocean](/post/ocean/), [Atlantic](/post/atlantic/) [Ocean](/post/ocean/), [and](/post/and/) [Pacific](/post/pacific/) [Ocean](/post/ocean/) [to](/post/to/) [the](/post/the/) [north](/post/north/), [east](/post/east/), [and](/post/and/) [west](/post/west/). **[2]** [The](/post/the/) [official](/post/official/) [name](/post/name/) [of](/post/of/) [the](/post/the/) [country](/post/country/), referring [to](/post/to/) [both](/post/both/) [the](/post/the/) [federal](/post/federal/) [state](/post/state/) [and](/post/and/) [its](/post/its/) [capital](/post/capital/), Ottawa.
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) relating [to](/post/to/) Canada. [Example](/post/example/): "[A](/post/a/) maple [leaf](/post/leaf/) is [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) Canadian [pride](/post/pride/)."
 
 ## Phrases
-- "[Call](/en/post/call/)/e-mail [someone](/en/post/someone/) [from](/en/post/from/) Canada" refers [to](/en/post/to/) contacting [someone](/en/post/someone/) [from](/en/post/from/) [the](/en/post/the/) [country](/en/post/country/).
-- "Canadian cuisine" encompasses [various](/en/post/various/) dishes [popular](/en/post/popular/) [in](/en/post/in/) [the](/en/post/the/) [nation](/en/post/nation/).
-- "[The](/en/post/the/) [Great](/en/post/great/) [White](/en/post/white/) [North](/en/post/north/)" is [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) Canada, emphasizing [its](/en/post/its/) vastness [and](/en/post/and/) [northern](/en/post/northern/) [climate](/en/post/climate/).
+- "[Call](/post/call/)/e-mail [someone](/post/someone/) [from](/post/from/) Canada" refers [to](/post/to/) contacting [someone](/post/someone/) [from](/post/from/) [the](/post/the/) [country](/post/country/).
+- "Canadian cuisine" encompasses [various](/post/various/) dishes [popular](/post/popular/) [in](/post/in/) [the](/post/the/) [nation](/post/nation/).
+- "[The](/post/the/) [Great](/post/great/) [White](/post/white/) [North](/post/north/)" is [a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) Canada, emphasizing [its](/post/its/) vastness [and](/post/and/) [northern](/post/northern/) [climate](/post/climate/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "We're planning [a](/en/post/a/) [road](/en/post/road/) [trip](/en/post/trip/) [across](/en/post/across/) Canada [this](/en/post/this/) [summer](/en/post/summer/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) maple syrup [in](/en/post/in/) Canadian breakfasts is known worldwide."
-- **[Adjective](/en/post/adjective/)**: "She's [a](/en/post/a/) [proud](/en/post/proud/) Canadian, having grown [up](/en/post/up/) surrounded [by](/en/post/by/) stunning landscapes."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "We're planning [a](/post/a/) [road](/post/road/) [trip](/post/trip/) [across](/post/across/) Canada [this](/post/this/) [summer](/post/summer/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) maple syrup [in](/post/in/) Canadian breakfasts is known worldwide."
+- **[Adjective](/post/adjective/)**: "She's [a](/post/a/) [proud](/post/proud/) Canadian, having grown [up](/post/up/) surrounded [by](/post/by/) stunning landscapes."
 
 ## Synonyms
-- [[Noun](/en/post/noun/)] - Commonwealth, Canada-US, Maple [Land](/en/post/land/)
-- [[Adjective](/en/post/adjective/)] - Canadian, [from](/en/post/from/) Canada
+- [[Noun](/post/noun/)] - Commonwealth, Canada-US, Maple [Land](/post/land/)
+- [[Adjective](/post/adjective/)] - Canadian, [from](/post/from/) Canada
 
-## [Note](/en/post/note/):
-1. [The](/en/post/the/) [first](/en/post/first/) [definition](/en/post/definition/) is [the](/en/post/the/) [most](/en/post/most/) [common](/en/post/common/) [usage](/en/post/usage/) [when](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) [country](/en/post/country/).
-2. [The](/en/post/the/) [second](/en/post/second/) [definition](/en/post/definition/) is [specific](/en/post/specific/) [to](/en/post/to/) [the](/en/post/the/) [adjective](/en/post/adjective/) [form](/en/post/form/), [which](/en/post/which/) is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) associated [with](/en/post/with/) Canada.
+## [Note](/post/note/):
+1. [The](/post/the/) [first](/post/first/) [definition](/post/definition/) is [the](/post/the/) [most](/post/most/) [common](/post/common/) [usage](/post/usage/) [when](/post/when/) referring [to](/post/to/) [the](/post/the/) [country](/post/country/).
+2. [The](/post/the/) [second](/post/second/) [definition](/post/definition/) is [specific](/post/specific/) [to](/post/to/) [the](/post/the/) [adjective](/post/adjective/) [form](/post/form/), [which](/post/which/) is [often](/post/often/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) associated [with](/post/with/) Canada.

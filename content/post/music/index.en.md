@@ -7,34 +7,34 @@ description = '[ˈmjuːzik] n.音乐，乐曲，乐谱'
 keywords = ['ai words', 'music']
 +++
 
-## [Word](/en/post/word/): [Music](/en/post/music/)
+## [Word](/post/word/): [Music](/post/music/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmjuːzɪk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [art](/en/post/art/) [form](/en/post/form/) [whose](/en/post/whose/) [medium](/en/post/medium/) is [sound](/en/post/sound/) organized [in](/en/post/in/) [time](/en/post/time/), [usually](/en/post/usually/) [with](/en/post/with/) [a](/en/post/a/) [combination](/en/post/combination/) [of](/en/post/of/) melody, [harmony](/en/post/harmony/), [and](/en/post/and/) [rhythm](/en/post/rhythm/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) produced [by](/en/post/by/) voices [or](/en/post/or/) [musical](/en/post/musical/) instruments, [or](/en/post/or/) [both](/en/post/both/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [passion](/en/post/passion/) [for](/en/post/for/) [classical](/en/post/classical/) [music](/en/post/music/)."
-  - "[The](/en/post/the/) [music](/en/post/music/) filled [the](/en/post/the/) [air](/en/post/air/) [during](/en/post/during/) [the](/en/post/the/) [festival](/en/post/festival/)."
-- **[Noun](/en/post/noun/) ([collective](/en/post/collective/))**: [A](/en/post/a/) [wide](/en/post/wide/) [range](/en/post/range/) [of](/en/post/of/) styles [or](/en/post/or/) compositions [that](/en/post/that/) [make](/en/post/make/) [up](/en/post/up/) [this](/en/post/this/) [art](/en/post/art/) [form](/en/post/form/). [Example](/en/post/example/): "He's [a](/en/post/a/) [fan](/en/post/fan/) [of](/en/post/of/) [all](/en/post/all/) kinds [of](/en/post/of/) [music](/en/post/music/), [from](/en/post/from/) [jazz](/en/post/jazz/) [to](/en/post/to/) [rock](/en/post/rock/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [provide](/en/post/provide/) [music](/en/post/music/) [for](/en/post/for/) [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [ceremony](/en/post/ceremony/), [film](/en/post/film/), [or](/en/post/or/) [dance](/en/post/dance/). [Example](/en/post/example/): "[They](/en/post/they/) hired [a](/en/post/a/) [string](/en/post/string/) quartet [to](/en/post/to/) [music](/en/post/music/) [the](/en/post/the/) [wedding](/en/post/wedding/) [reception](/en/post/reception/)."
+- **[Noun](/post/noun/)**: An [art](/post/art/) [form](/post/form/) [whose](/post/whose/) [medium](/post/medium/) is [sound](/post/sound/) organized [in](/post/in/) [time](/post/time/), [usually](/post/usually/) [with](/post/with/) [a](/post/a/) [combination](/post/combination/) [of](/post/of/) melody, [harmony](/post/harmony/), [and](/post/and/) [rhythm](/post/rhythm/). [It](/post/it/) [can](/post/can/) [be](/post/be/) produced [by](/post/by/) voices [or](/post/or/) [musical](/post/musical/) instruments, [or](/post/or/) [both](/post/both/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [passion](/post/passion/) [for](/post/for/) [classical](/post/classical/) [music](/post/music/)."
+  - "[The](/post/the/) [music](/post/music/) filled [the](/post/the/) [air](/post/air/) [during](/post/during/) [the](/post/the/) [festival](/post/festival/)."
+- **[Noun](/post/noun/) ([collective](/post/collective/))**: [A](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) styles [or](/post/or/) compositions [that](/post/that/) [make](/post/make/) [up](/post/up/) [this](/post/this/) [art](/post/art/) [form](/post/form/). [Example](/post/example/): "He's [a](/post/a/) [fan](/post/fan/) [of](/post/of/) [all](/post/all/) kinds [of](/post/of/) [music](/post/music/), [from](/post/from/) [jazz](/post/jazz/) [to](/post/to/) [rock](/post/rock/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [provide](/post/provide/) [music](/post/music/) [for](/post/for/) [something](/post/something/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [ceremony](/post/ceremony/), [film](/post/film/), [or](/post/or/) [dance](/post/dance/). [Example](/post/example/): "[They](/post/they/) hired [a](/post/a/) [string](/post/string/) quartet [to](/post/to/) [music](/post/music/) [the](/post/the/) [wedding](/post/wedding/) [reception](/post/reception/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [music](/en/post/music/)": [To](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [perform](/en/post/perform/) [music](/en/post/music/).
-- "[Music](/en/post/music/) [to](/en/post/to/) [my](/en/post/my/) ears": [Something](/en/post/something/) pleasing [or](/en/post/or/) gratifying [to](/en/post/to/) [hear](/en/post/hear/).
-- "[Face](/en/post/face/) [the](/en/post/the/) [music](/en/post/music/)": [To](/en/post/to/) [accept](/en/post/accept/) [the](/en/post/the/) consequences [of](/en/post/of/) one's actions.
-- "[Behind](/en/post/behind/) [the](/en/post/the/) [music](/en/post/music/)": [A](/en/post/a/) [reference](/en/post/reference/) [to](/en/post/to/) revealing [information](/en/post/information/) [about](/en/post/about/) [a](/en/post/a/) [musician](/en/post/musician/) [or](/en/post/or/) band's [life](/en/post/life/) [story](/en/post/story/), [often](/en/post/often/) focusing [on](/en/post/on/) [their](/en/post/their/) struggles [and](/en/post/and/) challenges.
+- "[Make](/post/make/) [music](/post/music/)": [To](/post/to/) [create](/post/create/) [or](/post/or/) [perform](/post/perform/) [music](/post/music/).
+- "[Music](/post/music/) [to](/post/to/) [my](/post/my/) ears": [Something](/post/something/) pleasing [or](/post/or/) gratifying [to](/post/to/) [hear](/post/hear/).
+- "[Face](/post/face/) [the](/post/the/) [music](/post/music/)": [To](/post/to/) [accept](/post/accept/) [the](/post/the/) consequences [of](/post/of/) one's actions.
+- "[Behind](/post/behind/) [the](/post/the/) [music](/post/music/)": [A](/post/a/) [reference](/post/reference/) [to](/post/to/) revealing [information](/post/information/) [about](/post/about/) [a](/post/a/) [musician](/post/musician/) [or](/post/or/) band's [life](/post/life/) [story](/post/story/), [often](/post/often/) focusing [on](/post/on/) [their](/post/their/) struggles [and](/post/and/) challenges.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Playing [music](/en/post/music/) was [her](/en/post/her/) favorite [way](/en/post/way/) [to](/en/post/to/) unwind [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) composer [will](/en/post/will/) [music](/en/post/music/) [the](/en/post/the/) ballet [production](/en/post/production/) [with](/en/post/with/) [a](/en/post/a/) [new](/en/post/new/) [score](/en/post/score/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Playing [music](/post/music/) was [her](/post/her/) favorite [way](/post/way/) [to](/post/to/) unwind [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) composer [will](/post/will/) [music](/post/music/) [the](/post/the/) ballet [production](/post/production/) [with](/post/with/) [a](/post/a/) [new](/post/new/) [score](/post/score/)."
 
 ## Synonyms
 - Melody
-- [Harmony](/en/post/harmony/)
-- [Rhythm](/en/post/rhythm/)
-- [Composition](/en/post/composition/)
-- [Tune](/en/post/tune/)
+- [Harmony](/post/harmony/)
+- [Rhythm](/post/rhythm/)
+- [Composition](/post/composition/)
+- [Tune](/post/tune/)
 - Soundtrack
-- [Score](/en/post/score/)
-- [Song](/en/post/song/)
-- [Piece](/en/post/piece/)
+- [Score](/post/score/)
+- [Song](/post/song/)
+- [Piece](/post/piece/)

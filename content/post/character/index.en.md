@@ -7,36 +7,36 @@ description = '[ˈkæriktə] n.性格；特性；角色'
 keywords = ['ai words', 'character']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkærəktər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - 1. [A](/en/post/a/) distinguishing [quality](/en/post/quality/) [or](/en/post/or/) trait [of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/), [place](/en/post/place/), [thing](/en/post/thing/), [or](/en/post/or/) [concept](/en/post/concept/), [often](/en/post/often/) represented [by](/en/post/by/) [a](/en/post/a/) [letter](/en/post/letter/) [or](/en/post/or/) [symbol](/en/post/symbol/): "[Her](/en/post/her/) [strong](/en/post/strong/) personality was [a](/en/post/a/) defining [character](/en/post/character/) trait."
-  - 2. [A](/en/post/a/) written [or](/en/post/or/) printed [symbol](/en/post/symbol/) representing [a](/en/post/a/) spoken [sound](/en/post/sound/) [or](/en/post/or/) [idea](/en/post/idea/), [especially](/en/post/especially/) [in](/en/post/in/) languages using an [alphabet](/en/post/alphabet/): "[The](/en/post/the/) [character](/en/post/character/) '[A](/en/post/a/)' represents [the](/en/post/the/) [sound](/en/post/sound/) 'ah'."
-  - 3. [In](/en/post/in/) typography [or](/en/post/or/) [design](/en/post/design/), [a](/en/post/a/) [specific](/en/post/specific/) [style](/en/post/style/) [or](/en/post/or/) typeface: "[The](/en/post/the/) font [used](/en/post/used/) [in](/en/post/in/) [this](/en/post/this/) [document](/en/post/document/) has [a](/en/post/a/) [unique](/en/post/unique/) [character](/en/post/character/)."
-- **[Verb](/en/post/verb/)**: 
-  - [To](/en/post/to/) portray [or](/en/post/or/) [represent](/en/post/represent/) ([a](/en/post/a/) [person](/en/post/person/), [role](/en/post/role/), [or](/en/post/or/) trait) [in](/en/post/in/) [a](/en/post/a/) [work](/en/post/work/) [of](/en/post/of/) [art](/en/post/art/), [literature](/en/post/literature/), [or](/en/post/or/) media: "[The](/en/post/the/) [actor](/en/post/actor/) skillfully characterized [the](/en/post/the/) detective [in](/en/post/in/) [the](/en/post/the/) [play](/en/post/play/)."
-  - [To](/en/post/to/) [display](/en/post/display/) [or](/en/post/or/) [exhibit](/en/post/exhibit/) [a](/en/post/a/) [particular](/en/post/particular/) [quality](/en/post/quality/) [or](/en/post/or/) [behavior](/en/post/behavior/): "[His](/en/post/his/) actions betrayed [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [character](/en/post/character/)."
+- **[Noun](/post/noun/)**: 
+  - 1. [A](/post/a/) distinguishing [quality](/post/quality/) [or](/post/or/) trait [of](/post/of/) [a](/post/a/) [person](/post/person/), [place](/post/place/), [thing](/post/thing/), [or](/post/or/) [concept](/post/concept/), [often](/post/often/) represented [by](/post/by/) [a](/post/a/) [letter](/post/letter/) [or](/post/or/) [symbol](/post/symbol/): "[Her](/post/her/) [strong](/post/strong/) personality was [a](/post/a/) defining [character](/post/character/) trait."
+  - 2. [A](/post/a/) written [or](/post/or/) printed [symbol](/post/symbol/) representing [a](/post/a/) spoken [sound](/post/sound/) [or](/post/or/) [idea](/post/idea/), [especially](/post/especially/) [in](/post/in/) languages using an [alphabet](/post/alphabet/): "[The](/post/the/) [character](/post/character/) '[A](/post/a/)' represents [the](/post/the/) [sound](/post/sound/) 'ah'."
+  - 3. [In](/post/in/) typography [or](/post/or/) [design](/post/design/), [a](/post/a/) [specific](/post/specific/) [style](/post/style/) [or](/post/or/) typeface: "[The](/post/the/) font [used](/post/used/) [in](/post/in/) [this](/post/this/) [document](/post/document/) has [a](/post/a/) [unique](/post/unique/) [character](/post/character/)."
+- **[Verb](/post/verb/)**: 
+  - [To](/post/to/) portray [or](/post/or/) [represent](/post/represent/) ([a](/post/a/) [person](/post/person/), [role](/post/role/), [or](/post/or/) trait) [in](/post/in/) [a](/post/a/) [work](/post/work/) [of](/post/of/) [art](/post/art/), [literature](/post/literature/), [or](/post/or/) media: "[The](/post/the/) [actor](/post/actor/) skillfully characterized [the](/post/the/) detective [in](/post/in/) [the](/post/the/) [play](/post/play/)."
+  - [To](/post/to/) [display](/post/display/) [or](/post/or/) [exhibit](/post/exhibit/) [a](/post/a/) [particular](/post/particular/) [quality](/post/quality/) [or](/post/or/) [behavior](/post/behavior/): "[His](/post/his/) actions betrayed [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [character](/post/character/)."
 
 ## Phrases
-- "[Develop](/en/post/develop/) [a](/en/post/a/) [character](/en/post/character/)" refers [to](/en/post/to/) creating [a](/en/post/a/) well-rounded personality [for](/en/post/for/) [a](/en/post/a/) fictional [figure](/en/post/figure/).
-- "[Character](/en/post/character/) arc" describes [the](/en/post/the/) [change](/en/post/change/) [or](/en/post/or/) progression [a](/en/post/a/) [character](/en/post/character/) undergoes [throughout](/en/post/throughout/) [a](/en/post/a/) [story](/en/post/story/).
-- "[A](/en/post/a/) [character](/en/post/character/) [study](/en/post/study/)" is an [examination](/en/post/examination/) [of](/en/post/of/) [a](/en/post/a/) character's thoughts, motivations, [and](/en/post/and/) [development](/en/post/development/).
+- "[Develop](/post/develop/) [a](/post/a/) [character](/post/character/)" refers [to](/post/to/) creating [a](/post/a/) well-rounded personality [for](/post/for/) [a](/post/a/) fictional [figure](/post/figure/).
+- "[Character](/post/character/) arc" describes [the](/post/the/) [change](/post/change/) [or](/post/or/) progression [a](/post/a/) [character](/post/character/) undergoes [throughout](/post/throughout/) [a](/post/a/) [story](/post/story/).
+- "[A](/post/a/) [character](/post/character/) [study](/post/study/)" is an [examination](/post/examination/) [of](/post/of/) [a](/post/a/) character's thoughts, motivations, [and](/post/and/) [development](/post/development/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [main](/en/post/main/) [character](/en/post/character/) [in](/en/post/in/) [the](/en/post/the/) [novel](/en/post/novel/) is [a](/en/post/a/) [complex](/en/post/complex/) [blend](/en/post/blend/) [of](/en/post/of/) bravery [and](/en/post/and/) vulnerability."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [artist](/en/post/artist/) carefully characterized [the](/en/post/the/) villain [with](/en/post/with/) [a](/en/post/a/) menacing [smile](/en/post/smile/)."
-- **Interchangeable**: "[Her](/en/post/her/) [character](/en/post/character/) was [a](/en/post/a/) beacon [of](/en/post/of/) [hope](/en/post/hope/) [in](/en/post/in/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [main](/post/main/) [character](/post/character/) [in](/post/in/) [the](/post/the/) [novel](/post/novel/) is [a](/post/a/) [complex](/post/complex/) [blend](/post/blend/) [of](/post/of/) bravery [and](/post/and/) vulnerability."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [artist](/post/artist/) carefully characterized [the](/post/the/) villain [with](/post/with/) [a](/post/a/) menacing [smile](/post/smile/)."
+- **Interchangeable**: "[Her](/post/her/) [character](/post/character/) was [a](/post/a/) beacon [of](/post/of/) [hope](/post/hope/) [in](/post/in/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/)."
 
 ## Synonyms
 - Persona
 - Trait
-- [Quality](/en/post/quality/)
-- [Attribute](/en/post/attribute/)
-- [Type](/en/post/type/)
-- [Role](/en/post/role/)
+- [Quality](/post/quality/)
+- [Attribute](/post/attribute/)
+- [Type](/post/type/)
+- [Role](/post/role/)
 - Identity
 - Representation
-- [Appearance](/en/post/appearance/)
+- [Appearance](/post/appearance/)
 - Individuality

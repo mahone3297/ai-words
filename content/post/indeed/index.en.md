@@ -7,30 +7,30 @@ description = '[inˈdiːd] ad.真正地；确实'
 keywords = ['ai words', 'indeed']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈdiːd/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: ([used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [the](/en/post/the/) [truth](/en/post/truth/) [of](/en/post/of/) [a](/en/post/a/) [statement](/en/post/statement/)) [certainly](/en/post/certainly/), [really](/en/post/really/), [or](/en/post/or/) [truly](/en/post/truly/). [For](/en/post/for/) [example](/en/post/example/): "[It](/en/post/it/) was [indeed](/en/post/indeed/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) [day](/en/post/day/)."
-- **[Adjective](/en/post/adjective/)**: ([used](/en/post/used/) [for](/en/post/for/) [emphasis](/en/post/emphasis/)) [actually](/en/post/actually/); [in](/en/post/in/) [fact](/en/post/fact/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is [indeed](/en/post/indeed/) an [expert](/en/post/expert/) [in](/en/post/in/) [her](/en/post/her/) [field](/en/post/field/)."
+- **[Adverb](/post/adverb/)**: ([used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [the](/post/the/) [truth](/post/truth/) [of](/post/of/) [a](/post/a/) [statement](/post/statement/)) [certainly](/post/certainly/), [really](/post/really/), [or](/post/or/) [truly](/post/truly/). [For](/post/for/) [example](/post/example/): "[It](/post/it/) was [indeed](/post/indeed/) [a](/post/a/) [beautiful](/post/beautiful/) [day](/post/day/)."
+- **[Adjective](/post/adjective/)**: ([used](/post/used/) [for](/post/for/) [emphasis](/post/emphasis/)) [actually](/post/actually/); [in](/post/in/) [fact](/post/fact/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) is [indeed](/post/indeed/) an [expert](/post/expert/) [in](/post/in/) [her](/post/her/) [field](/post/field/)."
 
 ## Phrases
-- "[In](/en/post/in/) [fact](/en/post/fact/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) synonym [for](/en/post/for/) "[indeed](/en/post/indeed/)" [when](/en/post/when/) emphasizing something's [truth](/en/post/truth/) [or](/en/post/or/) actuality. [Example](/en/post/example/): "[Indeed](/en/post/indeed/), [he](/en/post/he/) did [finish](/en/post/finish/) [his](/en/post/his/) [work](/en/post/work/) [on](/en/post/on/) [time](/en/post/time/); [in](/en/post/in/) [fact](/en/post/fact/), [he](/en/post/he/) finished [it](/en/post/it/) [early](/en/post/early/)."
-- "[Indeed](/en/post/indeed/) [so](/en/post/so/)" is [used](/en/post/used/) [to](/en/post/to/) [confirm](/en/post/confirm/) [agreement](/en/post/agreement/) [or](/en/post/or/) [to](/en/post/to/) acknowledge [the](/en/post/the/) [truth](/en/post/truth/) [of](/en/post/of/) [a](/en/post/a/) [statement](/en/post/statement/). [Example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) was challenging. [Indeed](/en/post/indeed/) [so](/en/post/so/), [but](/en/post/but/) [we](/en/post/we/) managed [to](/en/post/to/) [complete](/en/post/complete/) [it](/en/post/it/) [successfully](/en/post/successfully/)."
-- "[To](/en/post/to/) [be](/en/post/be/) [indeed](/en/post/indeed/) [fortunate](/en/post/fortunate/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) genuinely [lucky](/en/post/lucky/) [or](/en/post/or/) privileged. [Example](/en/post/example/): "[They](/en/post/they/) were [indeed](/en/post/indeed/) [fortunate](/en/post/fortunate/) [to](/en/post/to/) [have](/en/post/have/) [such](/en/post/such/) supportive parents."
+- "[In](/post/in/) [fact](/post/fact/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) synonym [for](/post/for/) "[indeed](/post/indeed/)" [when](/post/when/) emphasizing something's [truth](/post/truth/) [or](/post/or/) actuality. [Example](/post/example/): "[Indeed](/post/indeed/), [he](/post/he/) did [finish](/post/finish/) [his](/post/his/) [work](/post/work/) [on](/post/on/) [time](/post/time/); [in](/post/in/) [fact](/post/fact/), [he](/post/he/) finished [it](/post/it/) [early](/post/early/)."
+- "[Indeed](/post/indeed/) [so](/post/so/)" is [used](/post/used/) [to](/post/to/) [confirm](/post/confirm/) [agreement](/post/agreement/) [or](/post/or/) [to](/post/to/) acknowledge [the](/post/the/) [truth](/post/truth/) [of](/post/of/) [a](/post/a/) [statement](/post/statement/). [Example](/post/example/): "[The](/post/the/) [project](/post/project/) was challenging. [Indeed](/post/indeed/) [so](/post/so/), [but](/post/but/) [we](/post/we/) managed [to](/post/to/) [complete](/post/complete/) [it](/post/it/) [successfully](/post/successfully/)."
+- "[To](/post/to/) [be](/post/be/) [indeed](/post/indeed/) [fortunate](/post/fortunate/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) genuinely [lucky](/post/lucky/) [or](/post/or/) privileged. [Example](/post/example/): "[They](/post/they/) were [indeed](/post/indeed/) [fortunate](/post/fortunate/) [to](/post/to/) [have](/post/have/) [such](/post/such/) supportive parents."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I am [very](/en/post/very/) [happy](/en/post/happy/), [indeed](/en/post/indeed/), [to](/en/post/to/) [be](/en/post/be/) [here](/en/post/here/) [today](/en/post/today/)."
-- "[He](/en/post/he/) did [not](/en/post/not/) [merely](/en/post/merely/) [attend](/en/post/attend/) [the](/en/post/the/) [event](/en/post/event/); [he](/en/post/he/) spoke [at](/en/post/at/) [it](/en/post/it/), [indeed](/en/post/indeed/)."
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [indeed](/en/post/indeed/) is [the](/en/post/the/) [house](/en/post/house/) [where](/en/post/where/) I grew [up](/en/post/up/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I am [very](/post/very/) [happy](/post/happy/), [indeed](/post/indeed/), [to](/post/to/) [be](/post/be/) [here](/post/here/) [today](/post/today/)."
+- "[He](/post/he/) did [not](/post/not/) [merely](/post/merely/) [attend](/post/attend/) [the](/post/the/) [event](/post/event/); [he](/post/he/) spoke [at](/post/at/) [it](/post/it/), [indeed](/post/indeed/)."
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [indeed](/post/indeed/) is [the](/post/the/) [house](/post/house/) [where](/post/where/) I grew [up](/post/up/)."
 
 ## Synonyms
-- [Certainly](/en/post/certainly/)
-- [In](/en/post/in/) [fact](/en/post/fact/)
-- [Actually](/en/post/actually/)
-- [Truly](/en/post/truly/)
+- [Certainly](/post/certainly/)
+- [In](/post/in/) [fact](/post/fact/)
+- [Actually](/post/actually/)
+- [Truly](/post/truly/)
 - Verily
-- [Undoubtedly](/en/post/undoubtedly/)
-- [Without](/en/post/without/) [doubt](/en/post/doubt/)
+- [Undoubtedly](/post/undoubtedly/)
+- [Without](/post/without/) [doubt](/post/doubt/)
 - Affirmatively
-- [Absolutely](/en/post/absolutely/)
+- [Absolutely](/post/absolutely/)

@@ -7,32 +7,32 @@ description = '[ˈnjuːli] ad.新近，最近'
 keywords = ['ai words', 'newly']
 +++
 
-## [Word](/en/post/word/): [Newly](/en/post/newly/)
+## [Word](/post/word/): [Newly](/post/newly/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnjuːli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Recently](/en/post/recently/); [just](/en/post/just/) [now](/en/post/now/); [very](/en/post/very/) [recently](/en/post/recently/). [It](/en/post/it/) describes an [action](/en/post/action/) [that](/en/post/that/) has taken [place](/en/post/place/) [not](/en/post/not/) [long](/en/post/long/) [ago](/en/post/ago/) [or](/en/post/or/) [something](/en/post/something/) [that](/en/post/that/) has been acquired [or](/en/post/or/) [come](/en/post/come/) [into](/en/post/into/) [existence](/en/post/existence/) [not](/en/post/not/) [long](/en/post/long/) [before](/en/post/before/) [the](/en/post/the/) [present](/en/post/present/) [time](/en/post/time/).
+- **[Adverb](/post/adverb/)**: [Recently](/post/recently/); [just](/post/just/) [now](/post/now/); [very](/post/very/) [recently](/post/recently/). [It](/post/it/) describes an [action](/post/action/) [that](/post/that/) has taken [place](/post/place/) [not](/post/not/) [long](/post/long/) [ago](/post/ago/) [or](/post/or/) [something](/post/something/) [that](/post/that/) has been acquired [or](/post/or/) [come](/post/come/) [into](/post/into/) [existence](/post/existence/) [not](/post/not/) [long](/post/long/) [before](/post/before/) [the](/post/the/) [present](/post/present/) [time](/post/time/).
 
-### [Example](/en/post/example/) Sentences
-- _Adverb_: "[They](/en/post/they/) [have](/en/post/have/) [newly](/en/post/newly/) moved [into](/en/post/into/) [the](/en/post/the/) neighborhood."
-- "She's wearing [a](/en/post/a/) [newly](/en/post/newly/) bought [dress](/en/post/dress/) [for](/en/post/for/) [the](/en/post/the/) [event](/en/post/event/)."
-- "[The](/en/post/the/) [company](/en/post/company/) is [under](/en/post/under/) [newly](/en/post/newly/) appointed [management](/en/post/management/)."
+### [Example](/post/example/) Sentences
+- _Adverb_: "[They](/post/they/) [have](/post/have/) [newly](/post/newly/) moved [into](/post/into/) [the](/post/the/) neighborhood."
+- "She's wearing [a](/post/a/) [newly](/post/newly/) bought [dress](/post/dress/) [for](/post/for/) [the](/post/the/) [event](/post/event/)."
+- "[The](/post/the/) [company](/post/company/) is [under](/post/under/) [newly](/post/newly/) appointed [management](/post/management/)."
 
 ## Phrases
-- "[Newly](/en/post/newly/) [married](/en/post/married/)": Describes [a](/en/post/a/) [couple](/en/post/couple/) [who](/en/post/who/) [have](/en/post/have/) [recently](/en/post/recently/) [married](/en/post/married/).
-- "[Newly](/en/post/newly/) arrived": Refers [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [that](/en/post/that/) has [just](/en/post/just/) reached [a](/en/post/a/) [destination](/en/post/destination/).
-- "[Newly](/en/post/newly/) released": Indicates [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [book](/en/post/book/), [movie](/en/post/movie/), [or](/en/post/or/) [product](/en/post/product/), [that](/en/post/that/) has [just](/en/post/just/) been made [available](/en/post/available/) [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/).
+- "[Newly](/post/newly/) [married](/post/married/)": Describes [a](/post/a/) [couple](/post/couple/) [who](/post/who/) [have](/post/have/) [recently](/post/recently/) [married](/post/married/).
+- "[Newly](/post/newly/) arrived": Refers [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [that](/post/that/) has [just](/post/just/) reached [a](/post/a/) [destination](/post/destination/).
+- "[Newly](/post/newly/) released": Indicates [something](/post/something/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [book](/post/book/), [movie](/post/movie/), [or](/post/or/) [product](/post/product/), [that](/post/that/) has [just](/post/just/) been made [available](/post/available/) [to](/post/to/) [the](/post/the/) [public](/post/public/).
 
 ## Synonyms
-- [Recently](/en/post/recently/)
-- [Just](/en/post/just/) [now](/en/post/now/)
+- [Recently](/post/recently/)
+- [Just](/post/just/) [now](/post/now/)
 - Freshly
-- [Lately](/en/post/lately/)
-- [Recently](/en/post/recently/) arrived
-- [Brand](/en/post/brand/) [new](/en/post/new/)
-- [Recently](/en/post/recently/) created
-- [Recently](/en/post/recently/) established
-- [Recently](/en/post/recently/) formed
-- [Not](/en/post/not/) [long](/en/post/long/) [ago](/en/post/ago/)
+- [Lately](/post/lately/)
+- [Recently](/post/recently/) arrived
+- [Brand](/post/brand/) [new](/post/new/)
+- [Recently](/post/recently/) created
+- [Recently](/post/recently/) established
+- [Recently](/post/recently/) formed
+- [Not](/post/not/) [long](/post/long/) [ago](/post/ago/)

@@ -7,32 +7,32 @@ description = '[ˈfiŋgə] n.手指；指状物'
 keywords = ['ai words', 'finger']
 +++
 
-## [Word](/en/post/word/): [Finger](/en/post/finger/)
+## [Word](/post/word/): [Finger](/post/finger/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɪŋɡər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [One](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [five](/en/post/five/) digits [on](/en/post/on/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) [human](/en/post/human/) [hand](/en/post/hand/), typically [with](/en/post/with/) [a](/en/post/a/) [broad](/en/post/broad/) [tip](/en/post/tip/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) moved independently [of](/en/post/of/) [the](/en/post/the/) others [to](/en/post/to/) [grasp](/en/post/grasp/) [and](/en/post/and/) manipulate objects. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) pointed [her](/en/post/her/) [index](/en/post/index/) [finger](/en/post/finger/) towards [the](/en/post/the/) [door](/en/post/door/)."
-  - *Slang*: [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/), [roughly](/en/post/roughly/) [equal](/en/post/equal/) [to](/en/post/to/) [the](/en/post/the/) [breadth](/en/post/breadth/) [of](/en/post/of/) [a](/en/post/a/) [finger](/en/post/finger/); [often](/en/post/often/) [used](/en/post/used/) informally [to](/en/post/to/) [estimate](/en/post/estimate/) [small](/en/post/small/) distances [or](/en/post/or/) sizes. [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [gap](/en/post/gap/) was [about](/en/post/about/) [two](/en/post/two/) fingers [wide](/en/post/wide/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [touch](/en/post/touch/), [point](/en/post/point/) [at](/en/post/at/), [or](/en/post/or/) [identify](/en/post/identify/) [something](/en/post/something/) using one's [finger](/en/post/finger/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) fingered [the](/en/post/the/) pages [of](/en/post/of/) [the](/en/post/the/) [book](/en/post/book/) carefully."
-  - *Informal*: [To](/en/post/to/) [accuse](/en/post/accuse/) [or](/en/post/or/) [identify](/en/post/identify/) [someone](/en/post/someone/) ([usually](/en/post/usually/) [as](/en/post/as/) [a](/en/post/a/) culprit). [Example](/en/post/example/): "[The](/en/post/the/) [police](/en/post/police/) [have](/en/post/have/) fingered [him](/en/post/him/) [as](/en/post/as/) [the](/en/post/the/) [prime](/en/post/prime/) [suspect](/en/post/suspect/)."
-  - [In](/en/post/in/) [music](/en/post/music/), [to](/en/post/to/) [play](/en/post/play/) ([a](/en/post/a/) stringed [instrument](/en/post/instrument/)) [by](/en/post/by/) pressing [down](/en/post/down/) [on](/en/post/on/) [the](/en/post/the/) strings [with](/en/post/with/) [the](/en/post/the/) fingertips [rather](/en/post/rather/) [than](/en/post/than/) using [a](/en/post/a/) plectrum [or](/en/post/or/) [bow](/en/post/bow/). [Example](/en/post/example/): "[She](/en/post/she/) fingered [the](/en/post/the/) chords expertly [on](/en/post/on/) [her](/en/post/her/) guitar."
+- **[Noun](/post/noun/)**: [One](/post/one/) [of](/post/of/) [the](/post/the/) [five](/post/five/) digits [on](/post/on/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [a](/post/a/) [human](/post/human/) [hand](/post/hand/), typically [with](/post/with/) [a](/post/a/) [broad](/post/broad/) [tip](/post/tip/) [that](/post/that/) [can](/post/can/) [be](/post/be/) moved independently [of](/post/of/) [the](/post/the/) others [to](/post/to/) [grasp](/post/grasp/) [and](/post/and/) manipulate objects. [For](/post/for/) [example](/post/example/): "[She](/post/she/) pointed [her](/post/her/) [index](/post/index/) [finger](/post/finger/) towards [the](/post/the/) [door](/post/door/)."
+  - *Slang*: [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/), [roughly](/post/roughly/) [equal](/post/equal/) [to](/post/to/) [the](/post/the/) [breadth](/post/breadth/) [of](/post/of/) [a](/post/a/) [finger](/post/finger/); [often](/post/often/) [used](/post/used/) informally [to](/post/to/) [estimate](/post/estimate/) [small](/post/small/) distances [or](/post/or/) sizes. [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [gap](/post/gap/) was [about](/post/about/) [two](/post/two/) fingers [wide](/post/wide/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [touch](/post/touch/), [point](/post/point/) [at](/post/at/), [or](/post/or/) [identify](/post/identify/) [something](/post/something/) using one's [finger](/post/finger/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) fingered [the](/post/the/) pages [of](/post/of/) [the](/post/the/) [book](/post/book/) carefully."
+  - *Informal*: [To](/post/to/) [accuse](/post/accuse/) [or](/post/or/) [identify](/post/identify/) [someone](/post/someone/) ([usually](/post/usually/) [as](/post/as/) [a](/post/a/) culprit). [Example](/post/example/): "[The](/post/the/) [police](/post/police/) [have](/post/have/) fingered [him](/post/him/) [as](/post/as/) [the](/post/the/) [prime](/post/prime/) [suspect](/post/suspect/)."
+  - [In](/post/in/) [music](/post/music/), [to](/post/to/) [play](/post/play/) ([a](/post/a/) stringed [instrument](/post/instrument/)) [by](/post/by/) pressing [down](/post/down/) [on](/post/on/) [the](/post/the/) strings [with](/post/with/) [the](/post/the/) fingertips [rather](/post/rather/) [than](/post/than/) using [a](/post/a/) plectrum [or](/post/or/) [bow](/post/bow/). [Example](/post/example/): "[She](/post/she/) fingered [the](/post/the/) chords expertly [on](/post/on/) [her](/post/her/) guitar."
 
 ## Phrases
-- "[Give](/en/post/give/) [someone](/en/post/someone/) [the](/en/post/the/) [finger](/en/post/finger/)": An offensive [gesture](/en/post/gesture/) [where](/en/post/where/) [the](/en/post/the/) [middle](/en/post/middle/) [finger](/en/post/finger/) is extended [upright](/en/post/upright/), [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [anger](/en/post/anger/), [contempt](/en/post/contempt/), [or](/en/post/or/) disrespect.
-- "[Point](/en/post/point/) [the](/en/post/the/) [finger](/en/post/finger/) [at](/en/post/at/) [someone](/en/post/someone/)/[something](/en/post/something/)": [To](/en/post/to/) [blame](/en/post/blame/) [or](/en/post/or/) [indicate](/en/post/indicate/) [responsibility](/en/post/responsibility/) lies [with](/en/post/with/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/).
-- "[Keep](/en/post/keep/) [your](/en/post/your/) fingers crossed": [To](/en/post/to/) [hope](/en/post/hope/) [for](/en/post/for/) [good](/en/post/good/) [luck](/en/post/luck/) [or](/en/post/or/) [a](/en/post/a/) [positive](/en/post/positive/) [outcome](/en/post/outcome/).
+- "[Give](/post/give/) [someone](/post/someone/) [the](/post/the/) [finger](/post/finger/)": An offensive [gesture](/post/gesture/) [where](/post/where/) [the](/post/the/) [middle](/post/middle/) [finger](/post/finger/) is extended [upright](/post/upright/), [often](/post/often/) [used](/post/used/) [to](/post/to/) [express](/post/express/) [anger](/post/anger/), [contempt](/post/contempt/), [or](/post/or/) disrespect.
+- "[Point](/post/point/) [the](/post/the/) [finger](/post/finger/) [at](/post/at/) [someone](/post/someone/)/[something](/post/something/)": [To](/post/to/) [blame](/post/blame/) [or](/post/or/) [indicate](/post/indicate/) [responsibility](/post/responsibility/) lies [with](/post/with/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/).
+- "[Keep](/post/keep/) [your](/post/your/) fingers crossed": [To](/post/to/) [hope](/post/hope/) [for](/post/for/) [good](/post/good/) [luck](/post/luck/) [or](/post/or/) [a](/post/a/) [positive](/post/positive/) [outcome](/post/outcome/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) [put](/en/post/put/) [the](/en/post/the/) [ring](/en/post/ring/) [on](/en/post/on/) [her](/en/post/her/) [finger](/en/post/finger/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) fingered [the](/en/post/the/) [map](/en/post/map/) [to](/en/post/to/) [show](/en/post/show/) [the](/en/post/the/) [location](/en/post/location/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/)."
-- *Informal [Verb](/en/post/verb/)*: "Witnesses fingered [him](/en/post/him/) [as](/en/post/as/) [the](/en/post/the/) [person](/en/post/person/) [who](/en/post/who/) stole [the](/en/post/the/) [painting](/en/post/painting/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) [put](/post/put/) [the](/post/the/) [ring](/post/ring/) [on](/post/on/) [her](/post/her/) [finger](/post/finger/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) fingered [the](/post/the/) [map](/post/map/) [to](/post/to/) [show](/post/show/) [the](/post/the/) [location](/post/location/) [of](/post/of/) [the](/post/the/) [city](/post/city/)."
+- *Informal [Verb](/post/verb/)*: "Witnesses fingered [him](/post/him/) [as](/post/as/) [the](/post/the/) [person](/post/person/) [who](/post/who/) stole [the](/post/the/) [painting](/post/painting/)."
 
 ## Synonyms
 - Digit
-- [Hand](/en/post/hand/) digit
-- [Toe](/en/post/toe/) ([for](/en/post/for/) [the](/en/post/the/) [foot](/en/post/foot/))
-- [Point](/en/post/point/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
-- [Accuse](/en/post/accuse/) ([in](/en/post/in/) informal context)
-- [Identify](/en/post/identify/) ([in](/en/post/in/) informal context)
+- [Hand](/post/hand/) digit
+- [Toe](/post/toe/) ([for](/post/for/) [the](/post/the/) [foot](/post/foot/))
+- [Point](/post/point/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))
+- [Accuse](/post/accuse/) ([in](/post/in/) informal context)
+- [Identify](/post/identify/) ([in](/post/in/) informal context)

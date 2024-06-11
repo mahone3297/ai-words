@@ -7,32 +7,32 @@ description = '[ˈiːgə] a.渴望的，热切的'
 keywords = ['ai words', 'eager']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈiɡər/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [or](/en/post/or/) showing [keen](/en/post/keen/) [interest](/en/post/interest/), [enthusiasm](/en/post/enthusiasm/), [or](/en/post/or/) impatience; [very](/en/post/very/) desirous. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [eager](/en/post/eager/) [to](/en/post/to/) [learn](/en/post/learn/) [how](/en/post/how/) [to](/en/post/to/) [play](/en/post/play/) [the](/en/post/the/) [piano](/en/post/piano/)."
+- **[Adjective](/post/adjective/)**: Having [or](/post/or/) showing [keen](/post/keen/) [interest](/post/interest/), [enthusiasm](/post/enthusiasm/), [or](/post/or/) impatience; [very](/post/very/) desirous. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [eager](/post/eager/) [to](/post/to/) [learn](/post/learn/) [how](/post/how/) [to](/post/to/) [play](/post/play/) [the](/post/the/) [piano](/post/piano/)."
   
-  - **Adj (informal)**: [Quick](/en/post/quick/) [to](/en/post/to/) [act](/en/post/act/) [or](/en/post/or/) [respond](/en/post/respond/) [because](/en/post/because/) [of](/en/post/of/) eagerness. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) puppy was [eager](/en/post/eager/) [to](/en/post/to/) [please](/en/post/please/), wagging [its](/en/post/its/) [tail](/en/post/tail/) excitedly [at](/en/post/at/) [every](/en/post/every/) [command](/en/post/command/)."
+  - **Adj (informal)**: [Quick](/post/quick/) [to](/post/to/) [act](/post/act/) [or](/post/or/) [respond](/post/respond/) [because](/post/because/) [of](/post/of/) eagerness. [For](/post/for/) [example](/post/example/): "[The](/post/the/) puppy was [eager](/post/eager/) [to](/post/to/) [please](/post/please/), wagging [its](/post/its/) [tail](/post/tail/) excitedly [at](/post/at/) [every](/post/every/) [command](/post/command/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [eager](/en/post/eager/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/)": [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [or](/en/post/or/) willingness [to](/en/post/to/) [undertake](/en/post/undertake/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/). [Example](/en/post/example/): "He's [eager](/en/post/eager/) [to](/en/post/to/) [start](/en/post/start/) [his](/en/post/his/) [new](/en/post/new/) [job](/en/post/job/)."
-- "[Eager](/en/post/eager/) anticipation": [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) excitedly looking [forward](/en/post/forward/) [to](/en/post/to/) [something](/en/post/something/). [Example](/en/post/example/): "[There](/en/post/there/) was [eager](/en/post/eager/) anticipation [among](/en/post/among/) fans [for](/en/post/for/) [the](/en/post/the/) [release](/en/post/release/) [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) [book](/en/post/book/)."
-- "[With](/en/post/with/) [eager](/en/post/eager/) eyes": Describing [someone](/en/post/someone/) [who](/en/post/who/) is watching [or](/en/post/or/) waiting [with](/en/post/with/) [great](/en/post/great/) [interest](/en/post/interest/) [or](/en/post/or/) excitement. [Example](/en/post/example/): "[They](/en/post/they/) watched [the](/en/post/the/) [stage](/en/post/stage/) [with](/en/post/with/) [eager](/en/post/eager/) eyes, waiting [for](/en/post/for/) [their](/en/post/their/) favorite [band](/en/post/band/) [to](/en/post/to/) [appear](/en/post/appear/)."
+- "[Be](/post/be/) [eager](/post/eager/) [to](/post/to/) [do](/post/do/) [something](/post/something/)": [To](/post/to/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [or](/post/or/) willingness [to](/post/to/) [undertake](/post/undertake/) [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/). [Example](/post/example/): "He's [eager](/post/eager/) [to](/post/to/) [start](/post/start/) [his](/post/his/) [new](/post/new/) [job](/post/job/)."
+- "[Eager](/post/eager/) anticipation": [A](/post/a/) [state](/post/state/) [of](/post/of/) excitedly looking [forward](/post/forward/) [to](/post/to/) [something](/post/something/). [Example](/post/example/): "[There](/post/there/) was [eager](/post/eager/) anticipation [among](/post/among/) fans [for](/post/for/) [the](/post/the/) [release](/post/release/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [book](/post/book/)."
+- "[With](/post/with/) [eager](/post/eager/) eyes": Describing [someone](/post/someone/) [who](/post/who/) is watching [or](/post/or/) waiting [with](/post/with/) [great](/post/great/) [interest](/post/interest/) [or](/post/or/) excitement. [Example](/post/example/): "[They](/post/they/) watched [the](/post/the/) [stage](/post/stage/) [with](/post/with/) [eager](/post/eager/) eyes, waiting [for](/post/for/) [their](/post/their/) favorite [band](/post/band/) [to](/post/to/) [appear](/post/appear/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: 
-  - "[The](/en/post/the/) students were [eager](/en/post/eager/) [to](/en/post/to/) [begin](/en/post/begin/) [their](/en/post/their/) [experiment](/en/post/experiment/)."
-  - "[She](/en/post/she/) approached [her](/en/post/her/) [first](/en/post/first/) [day](/en/post/day/) [of](/en/post/of/) [college](/en/post/college/) [with](/en/post/with/) [eager](/en/post/eager/) [enthusiasm](/en/post/enthusiasm/)."
-  - "[The](/en/post/the/) children eagerly awaited [the](/en/post/the/) [arrival](/en/post/arrival/) [of](/en/post/of/) Santa Claus [on](/en/post/on/) Christmas [Eve](/en/post/eve/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: 
+  - "[The](/post/the/) students were [eager](/post/eager/) [to](/post/to/) [begin](/post/begin/) [their](/post/their/) [experiment](/post/experiment/)."
+  - "[She](/post/she/) approached [her](/post/her/) [first](/post/first/) [day](/post/day/) [of](/post/of/) [college](/post/college/) [with](/post/with/) [eager](/post/eager/) [enthusiasm](/post/enthusiasm/)."
+  - "[The](/post/the/) children eagerly awaited [the](/post/the/) [arrival](/post/arrival/) [of](/post/of/) Santa Claus [on](/post/on/) Christmas [Eve](/post/eve/)."
 
 ## Synonyms
-- [Keen](/en/post/keen/)
-- [Enthusiastic](/en/post/enthusiastic/)
-- [Anxious](/en/post/anxious/)
+- [Keen](/post/keen/)
+- [Enthusiastic](/post/enthusiastic/)
+- [Anxious](/post/anxious/)
 - Eagerly anticipating
-- [Hungry](/en/post/hungry/) ([for](/en/post/for/), [as](/en/post/as/) [in](/en/post/in/) "[hungry](/en/post/hungry/) [for](/en/post/for/) [knowledge](/en/post/knowledge/)")
-- [Zealous](/en/post/zealous/)
+- [Hungry](/post/hungry/) ([for](/post/for/), [as](/post/as/) [in](/post/in/) "[hungry](/post/hungry/) [for](/post/for/) [knowledge](/post/knowledge/)")
+- [Zealous](/post/zealous/)
 - Excited
 - Thrilled
-- [Impatient](/en/post/impatient/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) having [a](/en/post/a/) [positive](/en/post/positive/) anticipation)
+- [Impatient](/post/impatient/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) having [a](/post/a/) [positive](/post/positive/) anticipation)

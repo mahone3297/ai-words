@@ -11,21 +11,21 @@ keywords = ['ai words', 'moderate']
 /ˈmɑːdərət/
 
 ## 释义
-- **形容词**: 温和的，适度的。例如: "[The](/post/the/) [weather](/post/weather/) is [moderate](/post/moderate/) [today](/post/today/), [neither](/post/neither/) [too](/post/too/) [hot](/post/hot/) [nor](/post/nor/) [too](/post/too/) [cold](/post/cold/)."
-- **动词**: 控制，缓和。例如: "[He](/post/he/) moderated [his](/post/his/) [tone](/post/tone/) [when](/post/when/) [he](/post/he/) realized [he](/post/he/) was raising [his](/post/his/) [voice](/post/voice/)."
-- **名词**: （政治）中庸派，温和派。例如: "[The](/post/the/) [moderate](/post/moderate/) [candidate](/post/candidate/) gained [the](/post/the/) [most](/post/most/) votes [in](/post/in/) [the](/post/the/) [election](/post/election/)."
+- **形容词**: 温和的，适度的。例如: "[The](/zh/post/the/) [weather](/zh/post/weather/) is [moderate](/zh/post/moderate/) [today](/zh/post/today/), [neither](/zh/post/neither/) [too](/zh/post/too/) [hot](/zh/post/hot/) [nor](/zh/post/nor/) [too](/zh/post/too/) [cold](/zh/post/cold/)."
+- **动词**: 控制，缓和。例如: "[He](/zh/post/he/) moderated [his](/zh/post/his/) [tone](/zh/post/tone/) [when](/zh/post/when/) [he](/zh/post/he/) realized [he](/zh/post/he/) was raising [his](/zh/post/his/) [voice](/zh/post/voice/)."
+- **名词**: （政治）中庸派，温和派。例如: "[The](/zh/post/the/) [moderate](/zh/post/moderate/) [candidate](/zh/post/candidate/) gained [the](/zh/post/the/) [most](/zh/post/most/) votes [in](/zh/post/in/) [the](/zh/post/the/) [election](/zh/post/election/)."
 
 ## 短语
-- "[to](/post/to/) [keep](/post/keep/) [something](/post/something/) [moderate](/post/moderate/)" 保持适度，不走极端。
-- "[moderate](/post/moderate/) opinions" 中间立场的观点。
+- "[to](/zh/post/to/) [keep](/zh/post/keep/) [something](/zh/post/something/) [moderate](/zh/post/moderate/)" 保持适度，不走极端。
+- "[moderate](/zh/post/moderate/) opinions" 中间立场的观点。
 
 ## 例句
-- 形容词: "[Her](/post/her/) lifestyle is [very](/post/very/) [moderate](/post/moderate/), [with](/post/with/) [a](/post/a/) balanced diet [and](/post/and/) [regular](/post/regular/) [exercise](/post/exercise/)."
-- 动词: "[The](/post/the/) moderator's [role](/post/role/) is [to](/post/to/) [moderate](/post/moderate/) [the](/post/the/) [discussion](/post/discussion/) [and](/post/and/) [ensure](/post/ensure/) [all](/post/all/) participants [have](/post/have/) [a](/post/a/) [chance](/post/chance/) [to](/post/to/) [speak](/post/speak/)."
-- 名词: "[In](/post/in/) [the](/post/the/) [debate](/post/debate/), [the](/post/the/) moderates proposed [a](/post/a/) [compromise](/post/compromise/) [between](/post/between/) [the](/post/the/) [two](/post/two/) opposing sides."
+- 形容词: "[Her](/zh/post/her/) lifestyle is [very](/zh/post/very/) [moderate](/zh/post/moderate/), [with](/zh/post/with/) [a](/zh/post/a/) balanced diet [and](/zh/post/and/) [regular](/zh/post/regular/) [exercise](/zh/post/exercise/)."
+- 动词: "[The](/zh/post/the/) moderator's [role](/zh/post/role/) is [to](/zh/post/to/) [moderate](/zh/post/moderate/) [the](/zh/post/the/) [discussion](/zh/post/discussion/) [and](/zh/post/and/) [ensure](/zh/post/ensure/) [all](/zh/post/all/) participants [have](/zh/post/have/) [a](/zh/post/a/) [chance](/zh/post/chance/) [to](/zh/post/to/) [speak](/zh/post/speak/)."
+- 名词: "[In](/zh/post/in/) [the](/zh/post/the/) [debate](/zh/post/debate/), [the](/zh/post/the/) moderates proposed [a](/zh/post/a/) [compromise](/zh/post/compromise/) [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) opposing sides."
 
 ## 同义词
-- [Reasonable](/post/reasonable/)
+- [Reasonable](/zh/post/reasonable/)
 - Temperate
 - Balanced
 - Moderate-minded

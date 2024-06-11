@@ -11,21 +11,21 @@ keywords = ['ai words', 'cloth']
 /kləʊθ/
 
 ## 释义
-- **名词**: 纺织品；布料；衣服。例如: "[She](/post/she/) bought [some](/post/some/) [beautiful](/post/beautiful/) [silk](/post/silk/) [cloth](/post/cloth/) [for](/post/for/) [her](/post/her/) [new](/post/new/) [dress](/post/dress/)."
-- **名词**: 块状物；片状物。例如: "[He](/post/he/) [used](/post/used/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [cloth](/post/cloth/) [to](/post/to/) [clean](/post/clean/) [the](/post/the/) [table](/post/table/)."
+- **名词**: 纺织品；布料；衣服。例如: "[She](/zh/post/she/) bought [some](/zh/post/some/) [beautiful](/zh/post/beautiful/) [silk](/zh/post/silk/) [cloth](/zh/post/cloth/) [for](/zh/post/for/) [her](/zh/post/her/) [new](/zh/post/new/) [dress](/zh/post/dress/)."
+- **名词**: 块状物；片状物。例如: "[He](/zh/post/he/) [used](/zh/post/used/) [a](/zh/post/a/) [piece](/zh/post/piece/) [of](/zh/post/of/) [cloth](/zh/post/cloth/) [to](/zh/post/to/) [clean](/zh/post/clean/) [the](/zh/post/the/) [table](/zh/post/table/)."
 
 ## 短语
-- "[cloth](/post/cloth/) napkin" 餐巾
-- "[cloth](/post/cloth/) diapers" 布尿布
-- "woven [cloth](/post/cloth/)" 织物
+- "[cloth](/zh/post/cloth/) napkin" 餐巾
+- "[cloth](/zh/post/cloth/) diapers" 布尿布
+- "woven [cloth](/zh/post/cloth/)" 织物
 
 ## 例句
-- 名词: "[The](/post/the/) [tailor](/post/tailor/) measured [the](/post/the/) [cloth](/post/cloth/) carefully [before](/post/before/) cutting [it](/post/it/) [for](/post/for/) [the](/post/the/) [suit](/post/suit/)."
-- 名词: "[She](/post/she/) wiped [her](/post/her/) hands [on](/post/on/) [a](/post/a/) [damp](/post/damp/) [cloth](/post/cloth/)."
+- 名词: "[The](/zh/post/the/) [tailor](/zh/post/tailor/) measured [the](/zh/post/the/) [cloth](/zh/post/cloth/) carefully [before](/zh/post/before/) cutting [it](/zh/post/it/) [for](/zh/post/for/) [the](/zh/post/the/) [suit](/zh/post/suit/)."
+- 名词: "[She](/zh/post/she/) wiped [her](/zh/post/her/) hands [on](/zh/post/on/) [a](/zh/post/a/) [damp](/zh/post/damp/) [cloth](/zh/post/cloth/)."
 
 ## 同义词
-- [fabric](/post/fabric/)
-- [textile](/post/textile/)
-- [material](/post/material/)
+- [fabric](/zh/post/fabric/)
+- [textile](/zh/post/textile/)
+- [material](/zh/post/material/)
 - garment
 - apparel

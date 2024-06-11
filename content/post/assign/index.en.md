@@ -7,35 +7,35 @@ description = '[əˈsain] vt.指派；分配；指定'
 keywords = ['ai words', 'assign']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈsaɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Assignment](/en/post/assignment/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [or](/en/post/or/) assigning [work](/en/post/work/) [or](/en/post/or/) tasks [to](/en/post/to/) [someone](/en/post/someone/), [usually](/en/post/usually/) [for](/en/post/for/) completion. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) assigned [a](/en/post/a/) [project](/en/post/project/) [for](/en/post/for/) [next](/en/post/next/) [week](/en/post/week/)."
-- **Allocation**: [The](/en/post/the/) [distribution](/en/post/distribution/) [of](/en/post/of/) [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) resources [or](/en/post/or/) responsibilities. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) allocated [extra](/en/post/extra/) funds [for](/en/post/for/) marketing."
+### [Noun](/post/noun/)
+- **[Assignment](/post/assignment/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [or](/post/or/) assigning [work](/post/work/) [or](/post/or/) tasks [to](/post/to/) [someone](/post/someone/), [usually](/post/usually/) [for](/post/for/) completion. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) assigned [a](/post/a/) [project](/post/project/) [for](/post/for/) [next](/post/next/) [week](/post/week/)."
+- **Allocation**: [The](/post/the/) [distribution](/post/distribution/) [of](/post/of/) [something](/post/something/), [such](/post/such/) [as](/post/as/) resources [or](/post/or/) responsibilities. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) allocated [extra](/post/extra/) funds [for](/post/for/) marketing."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [assign](/en/post/assign/)**: [To](/en/post/to/) [give](/en/post/give/) [or](/en/post/or/) delegate [a](/en/post/a/) [task](/en/post/task/), [responsibility](/en/post/responsibility/), [or](/en/post/or/) [role](/en/post/role/) [to](/en/post/to/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) manager assigned John [to](/en/post/to/) [lead](/en/post/lead/) [the](/en/post/the/) [team](/en/post/team/)."
-- **[To](/en/post/to/) allocate**: [To](/en/post/to/) [set](/en/post/set/) [aside](/en/post/aside/) [or](/en/post/or/) [distribute](/en/post/distribute/) (resources, [time](/en/post/time/), [or](/en/post/or/) [money](/en/post/money/)) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) allocated an [hour](/en/post/hour/) [each](/en/post/each/) [day](/en/post/day/) [for](/en/post/for/) studying."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [assign](/post/assign/)**: [To](/post/to/) [give](/post/give/) [or](/post/or/) delegate [a](/post/a/) [task](/post/task/), [responsibility](/post/responsibility/), [or](/post/or/) [role](/post/role/) [to](/post/to/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) manager assigned John [to](/post/to/) [lead](/post/lead/) [the](/post/the/) [team](/post/team/)."
+- **[To](/post/to/) allocate**: [To](/post/to/) [set](/post/set/) [aside](/post/aside/) [or](/post/or/) [distribute](/post/distribute/) (resources, [time](/post/time/), [or](/post/or/) [money](/post/money/)) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) allocated an [hour](/post/hour/) [each](/post/each/) [day](/post/day/) [for](/post/for/) studying."
 
 ## Phrases
-- "[Assign](/en/post/assign/) [a](/en/post/a/) [task](/en/post/task/)" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [job](/en/post/job/) [or](/en/post/or/) [duty](/en/post/duty/) [to](/en/post/to/) [someone](/en/post/someone/).
-- "Assignments [can](/en/post/can/) [be](/en/post/be/) challenging" highlights [the](/en/post/the/) [difficulty](/en/post/difficulty/) [of](/en/post/of/) given tasks.
-- "Allocate budget" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [setting](/en/post/setting/) [aside](/en/post/aside/) [financial](/en/post/financial/) resources.
+- "[Assign](/post/assign/) [a](/post/a/) [task](/post/task/)" [means](/post/means/) [to](/post/to/) [give](/post/give/) [a](/post/a/) [job](/post/job/) [or](/post/or/) [duty](/post/duty/) [to](/post/to/) [someone](/post/someone/).
+- "Assignments [can](/post/can/) [be](/post/be/) challenging" highlights [the](/post/the/) [difficulty](/post/difficulty/) [of](/post/of/) given tasks.
+- "Allocate budget" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) [setting](/post/setting/) [aside](/post/aside/) [financial](/post/financial/) resources.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) assigned [each](/en/post/each/) [student](/en/post/student/) [a](/en/post/a/) [partner](/en/post/partner/) [for](/en/post/for/) [the](/en/post/the/) [group](/en/post/group/) [project](/en/post/project/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [professor](/en/post/professor/) assigned [a](/en/post/a/) [new](/en/post/new/) [assignment](/en/post/assignment/) [after](/en/post/after/) [the](/en/post/the/) midterm [exam](/en/post/exam/)."
-- **Interjection**: [Not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) an interjection, [but](/en/post/but/) "assigned" [can](/en/post/can/) [be](/en/post/be/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [sentence](/en/post/sentence/) [like](/en/post/like/) "[She](/en/post/she/) was assigned [a](/en/post/a/) [desk](/en/post/desk/) [near](/en/post/near/) [the](/en/post/the/) [window](/en/post/window/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [teacher](/post/teacher/) assigned [each](/post/each/) [student](/post/student/) [a](/post/a/) [partner](/post/partner/) [for](/post/for/) [the](/post/the/) [group](/post/group/) [project](/post/project/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [professor](/post/professor/) assigned [a](/post/a/) [new](/post/new/) [assignment](/post/assignment/) [after](/post/after/) [the](/post/the/) midterm [exam](/post/exam/)."
+- **Interjection**: [Not](/post/not/) typically [used](/post/used/) [as](/post/as/) an interjection, [but](/post/but/) "assigned" [can](/post/can/) [be](/post/be/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [sentence](/post/sentence/) [like](/post/like/) "[She](/post/she/) was assigned [a](/post/a/) [desk](/post/desk/) [near](/post/near/) [the](/post/the/) [window](/post/window/)."
 
 ## Synonyms
 - Delegate
-- [Assign](/en/post/assign/) duties
-- [Task](/en/post/task/)
-- [Duty](/en/post/duty/)
-- [Responsibility](/en/post/responsibility/)
-- [Commit](/en/post/commit/)
+- [Assign](/post/assign/) duties
+- [Task](/post/task/)
+- [Duty](/post/duty/)
+- [Responsibility](/post/responsibility/)
+- [Commit](/post/commit/)
 - apportion
-- [distribute](/en/post/distribute/)
+- [distribute](/post/distribute/)
 - allot

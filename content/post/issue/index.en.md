@@ -7,37 +7,37 @@ description = '[ˈisjuː] n.问题；发行 vt.发行'
 keywords = ['ai words', 'issue']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪʃuː/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: 1. An [important](/en/post/important/) [topic](/en/post/topic/) [or](/en/post/or/) [problem](/en/post/problem/) [for](/en/post/for/) [discussion](/en/post/discussion/), [debate](/en/post/debate/), [or](/en/post/or/) [resolution](/en/post/resolution/); [a](/en/post/a/) [point](/en/post/point/) [or](/en/post/or/) [matter](/en/post/matter/) [of](/en/post/of/) [dispute](/en/post/dispute/). _Example_: "[The](/en/post/the/) [main](/en/post/main/) [issue](/en/post/issue/) [at](/en/post/at/) [hand](/en/post/hand/) is [how](/en/post/how/) [to](/en/post/to/) [reduce](/en/post/reduce/) [pollution](/en/post/pollution/)."
-   2. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) publishing, distributing, [or](/en/post/or/) releasing [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [publication](/en/post/publication/) [like](/en/post/like/) [a](/en/post/a/) [magazine](/en/post/magazine/) [or](/en/post/or/) [newspaper](/en/post/newspaper/). _Example_: "[The](/en/post/the/) latest [issue](/en/post/issue/) [of](/en/post/of/) [the](/en/post/the/) [journal](/en/post/journal/) arrived [yesterday](/en/post/yesterday/)."
-   3. [A](/en/post/a/) [quantity](/en/post/quantity/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) is produced [or](/en/post/or/) supplied [at](/en/post/at/) [one](/en/post/one/) [time](/en/post/time/). _Example_: "[A](/en/post/a/) [new](/en/post/new/) [issue](/en/post/issue/) [of](/en/post/of/) stamps was released [to](/en/post/to/) commemorate [the](/en/post/the/) [event](/en/post/event/)."
-   4. [A](/en/post/a/) [problem](/en/post/problem/) [or](/en/post/or/) [difficulty](/en/post/difficulty/); [a](/en/post/a/) [situation](/en/post/situation/) [that](/en/post/that/) causes [concern](/en/post/concern/) [or](/en/post/or/) [trouble](/en/post/trouble/). _Example_: "[There](/en/post/there/) [have](/en/post/have/) been [some](/en/post/some/) [technical](/en/post/technical/) issues [with](/en/post/with/) [the](/en/post/the/) website."
-   5. [In](/en/post/in/) [law](/en/post/law/) [or](/en/post/or/) [family](/en/post/family/) relationships, offspring, children, [or](/en/post/or/) descendants. _Example_: "[She](/en/post/she/) is [the](/en/post/the/) [only](/en/post/only/) surviving [issue](/en/post/issue/) [of](/en/post/of/) [her](/en/post/her/) parents."
+- **[Noun](/post/noun/) (n)**: 1. An [important](/post/important/) [topic](/post/topic/) [or](/post/or/) [problem](/post/problem/) [for](/post/for/) [discussion](/post/discussion/), [debate](/post/debate/), [or](/post/or/) [resolution](/post/resolution/); [a](/post/a/) [point](/post/point/) [or](/post/or/) [matter](/post/matter/) [of](/post/of/) [dispute](/post/dispute/). _Example_: "[The](/post/the/) [main](/post/main/) [issue](/post/issue/) [at](/post/at/) [hand](/post/hand/) is [how](/post/how/) [to](/post/to/) [reduce](/post/reduce/) [pollution](/post/pollution/)."
+   2. [The](/post/the/) [act](/post/act/) [of](/post/of/) publishing, distributing, [or](/post/or/) releasing [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [publication](/post/publication/) [like](/post/like/) [a](/post/a/) [magazine](/post/magazine/) [or](/post/or/) [newspaper](/post/newspaper/). _Example_: "[The](/post/the/) latest [issue](/post/issue/) [of](/post/of/) [the](/post/the/) [journal](/post/journal/) arrived [yesterday](/post/yesterday/)."
+   3. [A](/post/a/) [quantity](/post/quantity/) [of](/post/of/) [something](/post/something/) [that](/post/that/) is produced [or](/post/or/) supplied [at](/post/at/) [one](/post/one/) [time](/post/time/). _Example_: "[A](/post/a/) [new](/post/new/) [issue](/post/issue/) [of](/post/of/) stamps was released [to](/post/to/) commemorate [the](/post/the/) [event](/post/event/)."
+   4. [A](/post/a/) [problem](/post/problem/) [or](/post/or/) [difficulty](/post/difficulty/); [a](/post/a/) [situation](/post/situation/) [that](/post/that/) causes [concern](/post/concern/) [or](/post/or/) [trouble](/post/trouble/). _Example_: "[There](/post/there/) [have](/post/have/) been [some](/post/some/) [technical](/post/technical/) issues [with](/post/with/) [the](/post/the/) website."
+   5. [In](/post/in/) [law](/post/law/) [or](/post/or/) [family](/post/family/) relationships, offspring, children, [or](/post/or/) descendants. _Example_: "[She](/post/she/) is [the](/post/the/) [only](/post/only/) surviving [issue](/post/issue/) [of](/post/of/) [her](/post/her/) parents."
    
-- **[Verb](/en/post/verb/) (v)**: 1. [To](/en/post/to/) [produce](/en/post/produce/) [or](/en/post/or/) [distribute](/en/post/distribute/) [something](/en/post/something/) officially, [especially](/en/post/especially/) printed [material](/en/post/material/) [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [book](/en/post/book/) [or](/en/post/or/) [a](/en/post/a/) [magazine](/en/post/magazine/). _Example_: "[They](/en/post/they/) [will](/en/post/will/) [issue](/en/post/issue/) [a](/en/post/a/) [statement](/en/post/statement/) [later](/en/post/later/) [today](/en/post/today/)."
-   2. [To](/en/post/to/) [arise](/en/post/arise/) [from](/en/post/from/) [a](/en/post/a/) [source](/en/post/source/); originate [or](/en/post/or/) emanate [from](/en/post/from/) [something](/en/post/something/). _Example_: "[New](/en/post/new/) challenges issued [from](/en/post/from/) [the](/en/post/the/) changing [economic](/en/post/economic/) [climate](/en/post/climate/)."
-   3. [To](/en/post/to/) [send](/en/post/send/) [out](/en/post/out/); [to](/en/post/to/) [give](/en/post/give/) [out](/en/post/out/) [or](/en/post/or/) [supply](/en/post/supply/) [something](/en/post/something/), [often](/en/post/often/) authoritatively. _Example_: "[The](/en/post/the/) [government](/en/post/government/) decided [to](/en/post/to/) [issue](/en/post/issue/) [new](/en/post/new/) passports [to](/en/post/to/) [all](/en/post/all/) citizens."
+- **[Verb](/post/verb/) (v)**: 1. [To](/post/to/) [produce](/post/produce/) [or](/post/or/) [distribute](/post/distribute/) [something](/post/something/) officially, [especially](/post/especially/) printed [material](/post/material/) [such](/post/such/) [as](/post/as/) [a](/post/a/) [book](/post/book/) [or](/post/or/) [a](/post/a/) [magazine](/post/magazine/). _Example_: "[They](/post/they/) [will](/post/will/) [issue](/post/issue/) [a](/post/a/) [statement](/post/statement/) [later](/post/later/) [today](/post/today/)."
+   2. [To](/post/to/) [arise](/post/arise/) [from](/post/from/) [a](/post/a/) [source](/post/source/); originate [or](/post/or/) emanate [from](/post/from/) [something](/post/something/). _Example_: "[New](/post/new/) challenges issued [from](/post/from/) [the](/post/the/) changing [economic](/post/economic/) [climate](/post/climate/)."
+   3. [To](/post/to/) [send](/post/send/) [out](/post/out/); [to](/post/to/) [give](/post/give/) [out](/post/out/) [or](/post/or/) [supply](/post/supply/) [something](/post/something/), [often](/post/often/) authoritatively. _Example_: "[The](/post/the/) [government](/post/government/) decided [to](/post/to/) [issue](/post/issue/) [new](/post/new/) passports [to](/post/to/) [all](/post/all/) citizens."
 
 ## Phrases
-- "[At](/en/post/at/) [issue](/en/post/issue/)": Matters [being](/en/post/being/) debated [or](/en/post/or/) discussed.
-- "[Issue](/en/post/issue/) an [apology](/en/post/apology/)": [To](/en/post/to/) formally [apologize](/en/post/apologize/) [or](/en/post/or/) [make](/en/post/make/) amends.
-- "[To](/en/post/to/) [take](/en/post/take/) [issue](/en/post/issue/) [with](/en/post/with/)": [To](/en/post/to/) [disagree](/en/post/disagree/) [with](/en/post/with/) [or](/en/post/or/) [challenge](/en/post/challenge/) [something](/en/post/something/).
+- "[At](/post/at/) [issue](/post/issue/)": Matters [being](/post/being/) debated [or](/post/or/) discussed.
+- "[Issue](/post/issue/) an [apology](/post/apology/)": [To](/post/to/) formally [apologize](/post/apologize/) [or](/post/or/) [make](/post/make/) amends.
+- "[To](/post/to/) [take](/post/take/) [issue](/post/issue/) [with](/post/with/)": [To](/post/to/) [disagree](/post/disagree/) [with](/post/with/) [or](/post/or/) [challenge](/post/challenge/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's [financial](/en/post/financial/) issues stemmed [from](/en/post/from/) mismanagement."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [university](/en/post/university/) issues identification cards [to](/en/post/to/) [all](/en/post/all/) [its](/en/post/its/) students."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) company's [financial](/post/financial/) issues stemmed [from](/post/from/) mismanagement."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [university](/post/university/) issues identification cards [to](/post/to/) [all](/post/all/) [its](/post/its/) students."
 
 ## Synonyms
-- [Concern](/en/post/concern/) ([noun](/en/post/noun/))
-- [Problem](/en/post/problem/)
-- [Matter](/en/post/matter/)
-- [Dispute](/en/post/dispute/)
+- [Concern](/post/concern/) ([noun](/post/noun/))
+- [Problem](/post/problem/)
+- [Matter](/post/matter/)
+- [Dispute](/post/dispute/)
 - Controversy
-- [Release](/en/post/release/) ([verb](/en/post/verb/))
-- [Distribute](/en/post/distribute/)
-- [Publish](/en/post/publish/)
-- [Emit](/en/post/emit/)
-- Procreate ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) offspring)
+- [Release](/post/release/) ([verb](/post/verb/))
+- [Distribute](/post/distribute/)
+- [Publish](/post/publish/)
+- [Emit](/post/emit/)
+- Procreate ([in](/post/in/) [the](/post/the/) context [of](/post/of/) offspring)

@@ -7,36 +7,36 @@ description = '[ˈneibəhud] n.邻居关系；邻近'
 keywords = ['ai words', 'neighbourhood']
 +++
 
-# [Neighbourhood](/en/post/neighbourhood/)
+# [Neighbourhood](/post/neighbourhood/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈneɪbərˌhʊd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [district](/en/post/district/) [or](/en/post/or/) [community](/en/post/community/) [within](/en/post/within/) [a](/en/post/a/) [town](/en/post/town/) [or](/en/post/or/) [city](/en/post/city/), typically [one](/en/post/one/) [with](/en/post/with/) definable boundaries [and](/en/post/and/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [local](/en/post/local/) identity. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [immediate](/en/post/immediate/) [area](/en/post/area/) surrounding [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [location](/en/post/location/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [live](/en/post/live/) [in](/en/post/in/) [a](/en/post/a/) [quiet](/en/post/quiet/) residential [neighbourhood](/en/post/neighbourhood/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [district](/post/district/) [or](/post/or/) [community](/post/community/) [within](/post/within/) [a](/post/a/) [town](/post/town/) [or](/post/or/) [city](/post/city/), typically [one](/post/one/) [with](/post/with/) definable boundaries [and](/post/and/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [local](/post/local/) identity. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [immediate](/post/immediate/) [area](/post/area/) surrounding [a](/post/a/) [place](/post/place/) [or](/post/or/) [location](/post/location/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [live](/post/live/) [in](/post/in/) [a](/post/a/) [quiet](/post/quiet/) residential [neighbourhood](/post/neighbourhood/)."
 
-  - _As [a](/en/post/a/) [collective](/en/post/collective/) noun_: [The](/en/post/the/) [people](/en/post/people/) [living](/en/post/living/) [near](/en/post/near/) [each](/en/post/each/) [other](/en/post/other/); neighbours. [Example](/en/post/example/): "[The](/en/post/the/) [whole](/en/post/whole/) [neighbourhood](/en/post/neighbourhood/) came [together](/en/post/together/) [for](/en/post/for/) [the](/en/post/the/) [annual](/en/post/annual/) [block](/en/post/block/) [party](/en/post/party/)."
+  - _As [a](/post/a/) [collective](/post/collective/) noun_: [The](/post/the/) [people](/post/people/) [living](/post/living/) [near](/post/near/) [each](/post/each/) [other](/post/other/); neighbours. [Example](/post/example/): "[The](/post/the/) [whole](/post/whole/) [neighbourhood](/post/neighbourhood/) came [together](/post/together/) [for](/post/for/) [the](/post/the/) [annual](/post/annual/) [block](/post/block/) [party](/post/party/)."
 
 ## Phrases
-- **[In](/en/post/in/) [the](/en/post/the/) [neighbourhood](/en/post/neighbourhood/) [of](/en/post/of/)**: [Approximately](/en/post/approximately/) [or](/en/post/or/) [around](/en/post/around/) ([a](/en/post/a/) [number](/en/post/number/) [or](/en/post/or/) [amount](/en/post/amount/)). [Example](/en/post/example/): "[The](/en/post/the/) [cost](/en/post/cost/) was [in](/en/post/in/) [the](/en/post/the/) [neighbourhood](/en/post/neighbourhood/) [of](/en/post/of/) $10,000."
-- **[Neighbourhood](/en/post/neighbourhood/) [watch](/en/post/watch/)**: [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [local](/en/post/local/) residents [who](/en/post/who/) [organize](/en/post/organize/) [to](/en/post/to/) [monitor](/en/post/monitor/) [and](/en/post/and/) deter [criminal](/en/post/criminal/) [activity](/en/post/activity/) [in](/en/post/in/) [their](/en/post/their/) [community](/en/post/community/). [Example](/en/post/example/): "[They](/en/post/they/) started [a](/en/post/a/) [neighbourhood](/en/post/neighbourhood/) [watch](/en/post/watch/) [after](/en/post/after/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) break-ins."
-- **Good-neighbour [policy](/en/post/policy/)**: [A](/en/post/a/) diplomatic [approach](/en/post/approach/) [that](/en/post/that/) seeks [friendly](/en/post/friendly/) [and](/en/post/and/) cooperative relations [with](/en/post/with/) neighbouring countries. 
+- **[In](/post/in/) [the](/post/the/) [neighbourhood](/post/neighbourhood/) [of](/post/of/)**: [Approximately](/post/approximately/) [or](/post/or/) [around](/post/around/) ([a](/post/a/) [number](/post/number/) [or](/post/or/) [amount](/post/amount/)). [Example](/post/example/): "[The](/post/the/) [cost](/post/cost/) was [in](/post/in/) [the](/post/the/) [neighbourhood](/post/neighbourhood/) [of](/post/of/) $10,000."
+- **[Neighbourhood](/post/neighbourhood/) [watch](/post/watch/)**: [A](/post/a/) [group](/post/group/) [of](/post/of/) [local](/post/local/) residents [who](/post/who/) [organize](/post/organize/) [to](/post/to/) [monitor](/post/monitor/) [and](/post/and/) deter [criminal](/post/criminal/) [activity](/post/activity/) [in](/post/in/) [their](/post/their/) [community](/post/community/). [Example](/post/example/): "[They](/post/they/) started [a](/post/a/) [neighbourhood](/post/neighbourhood/) [watch](/post/watch/) [after](/post/after/) [a](/post/a/) [series](/post/series/) [of](/post/of/) break-ins."
+- **Good-neighbour [policy](/post/policy/)**: [A](/post/a/) diplomatic [approach](/post/approach/) [that](/post/that/) seeks [friendly](/post/friendly/) [and](/post/and/) cooperative relations [with](/post/with/) neighbouring countries. 
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [playground](/en/post/playground/) [will](/en/post/will/) [be](/en/post/be/) [a](/en/post/a/) [great](/en/post/great/) [addition](/en/post/addition/) [to](/en/post/to/) [our](/en/post/our/) [neighbourhood](/en/post/neighbourhood/)."
-- "Let's canvass [the](/en/post/the/) [entire](/en/post/entire/) [neighbourhood](/en/post/neighbourhood/) [to](/en/post/to/) [distribute](/en/post/distribute/) flyers [about](/en/post/about/) [the](/en/post/the/) [charity](/en/post/charity/) [event](/en/post/event/)."
-- "[She](/en/post/she/) grew [up](/en/post/up/) [in](/en/post/in/) [a](/en/post/a/) close-knit [neighbourhood](/en/post/neighbourhood/) [where](/en/post/where/) [everyone](/en/post/everyone/) knew [each](/en/post/each/) [other](/en/post/other/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [playground](/post/playground/) [will](/post/will/) [be](/post/be/) [a](/post/a/) [great](/post/great/) [addition](/post/addition/) [to](/post/to/) [our](/post/our/) [neighbourhood](/post/neighbourhood/)."
+- "Let's canvass [the](/post/the/) [entire](/post/entire/) [neighbourhood](/post/neighbourhood/) [to](/post/to/) [distribute](/post/distribute/) flyers [about](/post/about/) [the](/post/the/) [charity](/post/charity/) [event](/post/event/)."
+- "[She](/post/she/) grew [up](/post/up/) [in](/post/in/) [a](/post/a/) close-knit [neighbourhood](/post/neighbourhood/) [where](/post/where/) [everyone](/post/everyone/) knew [each](/post/each/) [other](/post/other/)."
 
 ## Synonyms
-- [District](/en/post/district/)
-- [Community](/en/post/community/)
+- [District](/post/district/)
+- [Community](/post/community/)
 - Vicinity
-- [Area](/en/post/area/)
+- [Area](/post/area/)
 - Locale
-- [Quarter](/en/post/quarter/)
+- [Quarter](/post/quarter/)
 - Locality
-- [Region](/en/post/region/)
+- [Region](/post/region/)
 - Environs
 - Adjacent areas
-- [Surroundings](/en/post/surroundings/)
-- [Zone](/en/post/zone/)
+- [Surroundings](/post/surroundings/)
+- [Zone](/post/zone/)

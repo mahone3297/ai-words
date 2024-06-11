@@ -7,32 +7,32 @@ description = '[disˈt∫ɑːdʒ] vt.释放；排出 n.释放'
 keywords = ['ai words', 'discharge']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈʃɑːrdʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-    1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) letting [go](/en/post/go/) [of](/en/post/of/) [a](/en/post/a/) [responsibility](/en/post/responsibility/), [duty](/en/post/duty/), [or](/en/post/or/) obligation, [often](/en/post/often/) [from](/en/post/from/) [a](/en/post/a/) [job](/en/post/job/) [or](/en/post/or/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) finishing [his](/en/post/his/) [shift](/en/post/shift/), [he](/en/post/he/) received [his](/en/post/his/) [discharge](/en/post/discharge/) papers."
-    2. [The](/en/post/the/) [release](/en/post/release/) [of](/en/post/of/) [a](/en/post/a/) stored [energy](/en/post/energy/) [or](/en/post/or/) [substance](/en/post/substance/), [such](/en/post/such/) [as](/en/post/as/) [electricity](/en/post/electricity/) [or](/en/post/or/) bodily fluids. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lightning](/en/post/lightning/) discharged [a](/en/post/a/) [powerful](/en/post/powerful/) [bolt](/en/post/bolt/)."
-    3. [A](/en/post/a/) termination [of](/en/post/of/) [employment](/en/post/employment/) [or](/en/post/or/) [service](/en/post/service/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [sudden](/en/post/sudden/) [discharge](/en/post/discharge/) [from](/en/post/from/) [the](/en/post/the/) [company](/en/post/company/) came [as](/en/post/as/) [a](/en/post/a/) [shock](/en/post/shock/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [free](/en/post/free/) [someone](/en/post/someone/) [from](/en/post/from/) [a](/en/post/a/) commitment [or](/en/post/or/) [duty](/en/post/duty/), [usually](/en/post/usually/) [from](/en/post/from/) [a](/en/post/a/) [job](/en/post/job/) [or](/en/post/or/) [military](/en/post/military/) [service](/en/post/service/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [soldier](/en/post/soldier/) was discharged [after](/en/post/after/) serving [his](/en/post/his/) [term](/en/post/term/)."
-- **[Adjective](/en/post/adjective/)**: Characterizing [the](/en/post/the/) [release](/en/post/release/) [of](/en/post/of/) [a](/en/post/a/) [fluid](/en/post/fluid/) [or](/en/post/or/) [energy](/en/post/energy/), [especially](/en/post/especially/) [electricity](/en/post/electricity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) discharging capacitor produced [a](/en/post/a/) [spark](/en/post/spark/)."
+- **[Noun](/post/noun/)**: 
+    1. [The](/post/the/) [act](/post/act/) [of](/post/of/) letting [go](/post/go/) [of](/post/of/) [a](/post/a/) [responsibility](/post/responsibility/), [duty](/post/duty/), [or](/post/or/) obligation, [often](/post/often/) [from](/post/from/) [a](/post/a/) [job](/post/job/) [or](/post/or/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) finishing [his](/post/his/) [shift](/post/shift/), [he](/post/he/) received [his](/post/his/) [discharge](/post/discharge/) papers."
+    2. [The](/post/the/) [release](/post/release/) [of](/post/of/) [a](/post/a/) stored [energy](/post/energy/) [or](/post/or/) [substance](/post/substance/), [such](/post/such/) [as](/post/as/) [electricity](/post/electricity/) [or](/post/or/) bodily fluids. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lightning](/post/lightning/) discharged [a](/post/a/) [powerful](/post/powerful/) [bolt](/post/bolt/)."
+    3. [A](/post/a/) termination [of](/post/of/) [employment](/post/employment/) [or](/post/or/) [service](/post/service/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [sudden](/post/sudden/) [discharge](/post/discharge/) [from](/post/from/) [the](/post/the/) [company](/post/company/) came [as](/post/as/) [a](/post/a/) [shock](/post/shock/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [free](/post/free/) [someone](/post/someone/) [from](/post/from/) [a](/post/a/) commitment [or](/post/or/) [duty](/post/duty/), [usually](/post/usually/) [from](/post/from/) [a](/post/a/) [job](/post/job/) [or](/post/or/) [military](/post/military/) [service](/post/service/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [soldier](/post/soldier/) was discharged [after](/post/after/) serving [his](/post/his/) [term](/post/term/)."
+- **[Adjective](/post/adjective/)**: Characterizing [the](/post/the/) [release](/post/release/) [of](/post/of/) [a](/post/a/) [fluid](/post/fluid/) [or](/post/or/) [energy](/post/energy/), [especially](/post/especially/) [electricity](/post/electricity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) discharging capacitor produced [a](/post/a/) [spark](/post/spark/)."
 
 ## Phrases
-- "[Discharge](/en/post/discharge/) [responsibility](/en/post/responsibility/)" [means](/en/post/means/) [to](/en/post/to/) fulfill one's duties [or](/en/post/or/) obligations.
-- "[Discharge](/en/post/discharge/) [weapon](/en/post/weapon/)" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) firing [a](/en/post/a/) [gun](/en/post/gun/) [or](/en/post/or/) [similar](/en/post/similar/) [device](/en/post/device/).
-- "[Discharge](/en/post/discharge/) [energy](/en/post/energy/)" signifies [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) releasing stored [energy](/en/post/energy/).
+- "[Discharge](/post/discharge/) [responsibility](/post/responsibility/)" [means](/post/means/) [to](/post/to/) fulfill one's duties [or](/post/or/) obligations.
+- "[Discharge](/post/discharge/) [weapon](/post/weapon/)" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) firing [a](/post/a/) [gun](/post/gun/) [or](/post/or/) [similar](/post/similar/) [device](/post/device/).
+- "[Discharge](/post/discharge/) [energy](/post/energy/)" signifies [the](/post/the/) [process](/post/process/) [of](/post/of/) releasing stored [energy](/post/energy/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [patient](/en/post/patient/) was discharged [from](/en/post/from/) [the](/en/post/the/) [hospital](/en/post/hospital/) [after](/en/post/after/) [a](/en/post/a/) [week](/en/post/week/) [of](/en/post/of/) [treatment](/en/post/treatment/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [employee](/en/post/employee/) was discharged [for](/en/post/for/) misconduct, [and](/en/post/and/) [he](/en/post/he/) had [no](/en/post/no/) [choice](/en/post/choice/) [but](/en/post/but/) [to](/en/post/to/) [leave](/en/post/leave/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [faulty](/en/post/faulty/) wiring caused [a](/en/post/a/) [dangerous](/en/post/dangerous/) [electrical](/en/post/electrical/) [discharge](/en/post/discharge/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [patient](/post/patient/) was discharged [from](/post/from/) [the](/post/the/) [hospital](/post/hospital/) [after](/post/after/) [a](/post/a/) [week](/post/week/) [of](/post/of/) [treatment](/post/treatment/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [employee](/post/employee/) was discharged [for](/post/for/) misconduct, [and](/post/and/) [he](/post/he/) had [no](/post/no/) [choice](/post/choice/) [but](/post/but/) [to](/post/to/) [leave](/post/leave/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [faulty](/post/faulty/) wiring caused [a](/post/a/) [dangerous](/post/dangerous/) [electrical](/post/electrical/) [discharge](/post/discharge/)."
 
 ## Synonyms
-- [Release](/en/post/release/)
+- [Release](/post/release/)
 - Relinquish
 - Terminate
-- [Exit](/en/post/exit/)
+- [Exit](/post/exit/)
 - Sever
 - Expel
-- [Clear](/en/post/clear/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) clearing [a](/en/post/a/) [charge](/en/post/charge/))
+- [Clear](/post/clear/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) clearing [a](/post/a/) [charge](/post/charge/))

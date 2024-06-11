@@ -7,40 +7,40 @@ description = '[ˈθretn] vt.&vi.威胁，恐吓'
 keywords = ['ai words', 'threaten']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/threɪn/ ([US](/en/post/us/)) /θred/ (UK)
+## [Pronunciation](/post/pronunciation/)
+/threɪn/ ([US](/post/us/)) /θred/ (UK)
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: n. & v. 1. [To](/en/post/to/) [give](/en/post/give/) [or](/en/post/or/) [express](/en/post/express/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) causing [harm](/en/post/harm/), [damage](/en/post/damage/), [or](/en/post/or/) [loss](/en/post/loss/) [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [threat](/en/post/threat/) [of](/en/post/of/) [force](/en/post/force/) [or](/en/post/or/) intimidation. 2. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) warning [or](/en/post/or/) intimiation [of](/en/post/of/) an adverse [action](/en/post/action/) [or](/en/post/or/) [consequence](/en/post/consequence/). 3. [To](/en/post/to/) imperil [or](/en/post/or/) [put](/en/post/put/) [in](/en/post/in/) [danger](/en/post/danger/).
+- **[Verb](/post/verb/)**: n. & v. 1. [To](/post/to/) [give](/post/give/) [or](/post/or/) [express](/post/express/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) causing [harm](/post/harm/), [damage](/post/damage/), [or](/post/or/) [loss](/post/loss/) [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [threat](/post/threat/) [of](/post/of/) [force](/post/force/) [or](/post/or/) intimidation. 2. [To](/post/to/) [make](/post/make/) [a](/post/a/) warning [or](/post/or/) intimiation [of](/post/of/) an adverse [action](/post/action/) [or](/post/or/) [consequence](/post/consequence/). 3. [To](/post/to/) imperil [or](/post/or/) [put](/post/put/) [in](/post/in/) [danger](/post/danger/).
 
 ## Phrases
-- "[Threaten](/en/post/threaten/) [someone](/en/post/someone/) [with](/en/post/with/) [something](/en/post/something/)" implies [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [a](/en/post/a/) [specific](/en/post/specific/) [threat](/en/post/threat/).
-- "[Under](/en/post/under/) [threat](/en/post/threat/)" describes [a](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) is [at](/en/post/at/) [risk](/en/post/risk/).
-- "[Threaten](/en/post/threaten/) [to](/en/post/to/) [do](/en/post/do/)" denotes [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [promising](/en/post/promising/) [to](/en/post/to/) [take](/en/post/take/) [harmful](/en/post/harmful/) [action](/en/post/action/) [if](/en/post/if/) [certain](/en/post/certain/) conditions are [not](/en/post/not/) met.
+- "[Threaten](/post/threaten/) [someone](/post/someone/) [with](/post/with/) [something](/post/something/)" implies [the](/post/the/) [use](/post/use/) [of](/post/of/) [a](/post/a/) [specific](/post/specific/) [threat](/post/threat/).
+- "[Under](/post/under/) [threat](/post/threat/)" describes [a](/post/a/) [situation](/post/situation/) [where](/post/where/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) is [at](/post/at/) [risk](/post/risk/).
+- "[Threaten](/post/threaten/) [to](/post/to/) [do](/post/do/)" denotes [the](/post/the/) [act](/post/act/) [of](/post/of/) [promising](/post/promising/) [to](/post/to/) [take](/post/take/) [harmful](/post/harmful/) [action](/post/action/) [if](/post/if/) [certain](/post/certain/) conditions are [not](/post/not/) met.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [boss](/en/post/boss/) threatened [to](/en/post/to/) [fire](/en/post/fire/) [anyone](/en/post/anyone/) [who](/en/post/who/) didn't [meet](/en/post/meet/) [their](/en/post/their/) sales targets."
-- **Imperative**: "Don't [threaten](/en/post/threaten/) [the](/en/post/the/) children, [it](/en/post/it/) [will](/en/post/will/) [only](/en/post/only/) [upset](/en/post/upset/) [them](/en/post/them/)."
-- "[The](/en/post/the/) [country](/en/post/country/) is [under](/en/post/under/) [threat](/en/post/threat/) [from](/en/post/from/) terrorism."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [boss](/post/boss/) threatened [to](/post/to/) [fire](/post/fire/) [anyone](/post/anyone/) [who](/post/who/) didn't [meet](/post/meet/) [their](/post/their/) sales targets."
+- **Imperative**: "Don't [threaten](/post/threaten/) [the](/post/the/) children, [it](/post/it/) [will](/post/will/) [only](/post/only/) [upset](/post/upset/) [them](/post/them/)."
+- "[The](/post/the/) [country](/post/country/) is [under](/post/under/) [threat](/post/threat/) [from](/post/from/) terrorism."
 
 ## Synonyms
 - Menace
 - Intimidate
-- [Alarm](/en/post/alarm/)
-- [Frighten](/en/post/frighten/)
+- [Alarm](/post/alarm/)
+- [Frighten](/post/frighten/)
 - Harass
 - Predicament
-- [Risk](/en/post/risk/)
+- [Risk](/post/risk/)
 
 ## Antonyms
-- [Protect](/en/post/protect/)
+- [Protect](/post/protect/)
 - Safeguard
-- [Comfort](/en/post/comfort/)
-- [Assure](/en/post/assure/)
-- [Encourage](/en/post/encourage/)
-- [Calm](/en/post/calm/)
+- [Comfort](/post/comfort/)
+- [Assure](/post/assure/)
+- [Encourage](/post/encourage/)
+- [Calm](/post/calm/)
 
 ## Idioms
-- [Threaten](/en/post/threaten/) [rain](/en/post/rain/) (informal) - [to](/en/post/to/) [suggest](/en/post/suggest/) [that](/en/post/that/) [something](/en/post/something/) [bad](/en/post/bad/) [might](/en/post/might/) [happen](/en/post/happen/), [even](/en/post/even/) [if](/en/post/if/) it's [unlikely](/en/post/unlikely/).
-- [Threaten](/en/post/threaten/) [to](/en/post/to/) [break](/en/post/break/) [loose](/en/post/loose/) (figurative) - [to](/en/post/to/) [behave](/en/post/behave/) [in](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) suggests an [escape](/en/post/escape/) [or](/en/post/or/) [loss](/en/post/loss/) [of](/en/post/of/) [control](/en/post/control/).
-- [Threaten](/en/post/threaten/) [to](/en/post/to/) sue ([legal](/en/post/legal/)) - [to](/en/post/to/) [imply](/en/post/imply/) [that](/en/post/that/) [one](/en/post/one/) [will](/en/post/will/) [take](/en/post/take/) [legal](/en/post/legal/) [action](/en/post/action/) [if](/en/post/if/) [a](/en/post/a/) [certain](/en/post/certain/) [outcome](/en/post/outcome/) is [not](/en/post/not/) achieved.
+- [Threaten](/post/threaten/) [rain](/post/rain/) (informal) - [to](/post/to/) [suggest](/post/suggest/) [that](/post/that/) [something](/post/something/) [bad](/post/bad/) [might](/post/might/) [happen](/post/happen/), [even](/post/even/) [if](/post/if/) it's [unlikely](/post/unlikely/).
+- [Threaten](/post/threaten/) [to](/post/to/) [break](/post/break/) [loose](/post/loose/) (figurative) - [to](/post/to/) [behave](/post/behave/) [in](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) suggests an [escape](/post/escape/) [or](/post/or/) [loss](/post/loss/) [of](/post/of/) [control](/post/control/).
+- [Threaten](/post/threaten/) [to](/post/to/) sue ([legal](/post/legal/)) - [to](/post/to/) [imply](/post/imply/) [that](/post/that/) [one](/post/one/) [will](/post/will/) [take](/post/take/) [legal](/post/legal/) [action](/post/action/) [if](/post/if/) [a](/post/a/) [certain](/post/certain/) [outcome](/post/outcome/) is [not](/post/not/) achieved.

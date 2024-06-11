@@ -7,33 +7,33 @@ description = '[driŋk] vt.饮 vi.喝 n.饮料'
 keywords = ['ai words', 'drink']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /driŋk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) beverage, [especially](/en/post/especially/) an alcoholic [one](/en/post/one/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) ordered [a](/en/post/a/) [cold](/en/post/cold/) [drink](/en/post/drink/) [at](/en/post/at/) [the](/en/post/the/) [bar](/en/post/bar/)."
-- **[Verb](/en/post/verb/)**: 
-  - [To](/en/post/to/) [consume](/en/post/consume/) [a](/en/post/a/) [liquid](/en/post/liquid/) [through](/en/post/through/) [the](/en/post/the/) [mouth](/en/post/mouth/), typically swallowing [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) drinks [water](/en/post/water/) [every](/en/post/every/) [morning](/en/post/morning/) [to](/en/post/to/) [stay](/en/post/stay/) hydrated."
-  - [To](/en/post/to/) ingest [alcohol](/en/post/alcohol/) [or](/en/post/or/) [other](/en/post/other/) intoxicating substances habitually [or](/en/post/or/) socially. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) doesn't [drink](/en/post/drink/) [much](/en/post/much/) [these](/en/post/these/) days."
-  - (transitive) [To](/en/post/to/) [give](/en/post/give/) [or](/en/post/or/) administer [a](/en/post/a/) [liquid](/en/post/liquid/) [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [else](/en/post/else/) [to](/en/post/to/) [drink](/en/post/drink/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [mother](/en/post/mother/) drank [milk](/en/post/milk/) [to](/en/post/to/) [her](/en/post/her/) [baby](/en/post/baby/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) beverage, [especially](/post/especially/) an alcoholic [one](/post/one/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) ordered [a](/post/a/) [cold](/post/cold/) [drink](/post/drink/) [at](/post/at/) [the](/post/the/) [bar](/post/bar/)."
+- **[Verb](/post/verb/)**: 
+  - [To](/post/to/) [consume](/post/consume/) [a](/post/a/) [liquid](/post/liquid/) [through](/post/through/) [the](/post/the/) [mouth](/post/mouth/), typically swallowing [it](/post/it/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) drinks [water](/post/water/) [every](/post/every/) [morning](/post/morning/) [to](/post/to/) [stay](/post/stay/) hydrated."
+  - [To](/post/to/) ingest [alcohol](/post/alcohol/) [or](/post/or/) [other](/post/other/) intoxicating substances habitually [or](/post/or/) socially. [For](/post/for/) [example](/post/example/): "[He](/post/he/) doesn't [drink](/post/drink/) [much](/post/much/) [these](/post/these/) days."
+  - (transitive) [To](/post/to/) [give](/post/give/) [or](/post/or/) administer [a](/post/a/) [liquid](/post/liquid/) [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [else](/post/else/) [to](/post/to/) [drink](/post/drink/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [mother](/post/mother/) drank [milk](/post/milk/) [to](/post/to/) [her](/post/her/) [baby](/post/baby/)."
   
 ## Phrases
-- "[Drink](/en/post/drink/) [up](/en/post/up/)" is an informal [command](/en/post/command/) [to](/en/post/to/) [finish](/en/post/finish/) drinking [something](/en/post/something/) [quickly](/en/post/quickly/) [or](/en/post/or/) [to](/en/post/to/) [encourage](/en/post/encourage/) others [to](/en/post/to/) [do](/en/post/do/) [so](/en/post/so/).
-- "Bottoms [up](/en/post/up/)" is [a](/en/post/a/) [toast](/en/post/toast/) [that](/en/post/that/) encourages [people](/en/post/people/) [to](/en/post/to/) [finish](/en/post/finish/) [their](/en/post/their/) drinks simultaneously.
-- "[A](/en/post/a/) [drink](/en/post/drink/) [with](/en/post/with/) [someone](/en/post/someone/)" implies having [a](/en/post/a/) [social](/en/post/social/) [meeting](/en/post/meeting/) [over](/en/post/over/) beverages.
-- "[Drink](/en/post/drink/) responsibly" is [a](/en/post/a/) [common](/en/post/common/) warning encouraging [moderate](/en/post/moderate/) [and](/en/post/and/) [safe](/en/post/safe/) [consumption](/en/post/consumption/) [of](/en/post/of/) [alcohol](/en/post/alcohol/).
+- "[Drink](/post/drink/) [up](/post/up/)" is an informal [command](/post/command/) [to](/post/to/) [finish](/post/finish/) drinking [something](/post/something/) [quickly](/post/quickly/) [or](/post/or/) [to](/post/to/) [encourage](/post/encourage/) others [to](/post/to/) [do](/post/do/) [so](/post/so/).
+- "Bottoms [up](/post/up/)" is [a](/post/a/) [toast](/post/toast/) [that](/post/that/) encourages [people](/post/people/) [to](/post/to/) [finish](/post/finish/) [their](/post/their/) drinks simultaneously.
+- "[A](/post/a/) [drink](/post/drink/) [with](/post/with/) [someone](/post/someone/)" implies having [a](/post/a/) [social](/post/social/) [meeting](/post/meeting/) [over](/post/over/) beverages.
+- "[Drink](/post/drink/) responsibly" is [a](/post/a/) [common](/post/common/) warning encouraging [moderate](/post/moderate/) [and](/post/and/) [safe](/post/safe/) [consumption](/post/consumption/) [of](/post/of/) [alcohol](/post/alcohol/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) quenched [his](/en/post/his/) [thirst](/en/post/thirst/) [with](/en/post/with/) [a](/en/post/a/) refreshing [fruit](/en/post/fruit/) [drink](/en/post/drink/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) workout, [he](/en/post/he/) drinks [plenty](/en/post/plenty/) [of](/en/post/of/) [water](/en/post/water/) [to](/en/post/to/) replenish fluids."
-- "[During](/en/post/during/) [the](/en/post/the/) celebration, [they](/en/post/they/) [all](/en/post/all/) drank [to](/en/post/to/) [their](/en/post/their/) friendship's longevity."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) quenched [his](/post/his/) [thirst](/post/thirst/) [with](/post/with/) [a](/post/a/) refreshing [fruit](/post/fruit/) [drink](/post/drink/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) workout, [he](/post/he/) drinks [plenty](/post/plenty/) [of](/post/of/) [water](/post/water/) [to](/post/to/) replenish fluids."
+- "[During](/post/during/) [the](/post/the/) celebration, [they](/post/they/) [all](/post/all/) drank [to](/post/to/) [their](/post/their/) friendship's longevity."
 
 ## Synonyms
 - Beverage
 - Libation
-- [Swallow](/en/post/swallow/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) consuming liquids)
-- [Consume](/en/post/consume/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) ingesting beverages)
+- [Swallow](/post/swallow/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) consuming liquids)
+- [Consume](/post/consume/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) ingesting beverages)
 - Imbibe
-- Guzzle (informal, [often](/en/post/often/) implying [rapid](/en/post/rapid/) [or](/en/post/or/) [excessive](/en/post/excessive/) [consumption](/en/post/consumption/))
-- [Toast](/en/post/toast/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [meaning](/en/post/meaning/) [to](/en/post/to/) [raise](/en/post/raise/) [a](/en/post/a/) [glass](/en/post/glass/) [in](/en/post/in/) honor [or](/en/post/or/) celebration [while](/en/post/while/) drinking)
-- Quaff ([to](/en/post/to/) [drink](/en/post/drink/) heartily [or](/en/post/or/) deeply, [often](/en/post/often/) [used](/en/post/used/) poetically)
+- Guzzle (informal, [often](/post/often/) implying [rapid](/post/rapid/) [or](/post/or/) [excessive](/post/excessive/) [consumption](/post/consumption/))
+- [Toast](/post/toast/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/), [meaning](/post/meaning/) [to](/post/to/) [raise](/post/raise/) [a](/post/a/) [glass](/post/glass/) [in](/post/in/) honor [or](/post/or/) celebration [while](/post/while/) drinking)
+- Quaff ([to](/post/to/) [drink](/post/drink/) heartily [or](/post/or/) deeply, [often](/post/often/) [used](/post/used/) poetically)

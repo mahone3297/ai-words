@@ -7,34 +7,34 @@ description = '[səˈplai] vt.&n.供给，供应'
 keywords = ['ai words', 'supply']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈplaɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) providing [or](/en/post/or/) making [available](/en/post/available/) [goods](/en/post/goods/) [or](/en/post/or/) services: *[The](/en/post/the/) [factory](/en/post/factory/) aims [to](/en/post/to/) [increase](/en/post/increase/) [its](/en/post/its/) [supply](/en/post/supply/) [of](/en/post/of/) [raw](/en/post/raw/) materials.*
-2. [Enough](/en/post/enough/) [of](/en/post/of/) [something](/en/post/something/) [to](/en/post/to/) [meet](/en/post/meet/) [demand](/en/post/demand/): *There's [a](/en/post/a/) [steady](/en/post/steady/) [supply](/en/post/supply/) [of](/en/post/of/) [fresh](/en/post/fresh/) [produce](/en/post/produce/) [at](/en/post/at/) [the](/en/post/the/) [market](/en/post/market/).*
-3. [The](/en/post/the/) [stock](/en/post/stock/) [or](/en/post/or/) inventory [of](/en/post/of/) [something](/en/post/something/): *[The](/en/post/the/) warehouse had [a](/en/post/a/) [healthy](/en/post/healthy/) [supply](/en/post/supply/) [of](/en/post/of/) [electronics](/en/post/electronics/).*
-4. [The](/en/post/the/) [flow](/en/post/flow/) [or](/en/post/or/) [quantity](/en/post/quantity/) [of](/en/post/of/) [a](/en/post/a/) [substance](/en/post/substance/), [such](/en/post/such/) [as](/en/post/as/) [water](/en/post/water/) [or](/en/post/or/) [blood](/en/post/blood/): *[The](/en/post/the/) river's [supply](/en/post/supply/) was dwindling [during](/en/post/during/) [the](/en/post/the/) [drought](/en/post/drought/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) providing [or](/post/or/) making [available](/post/available/) [goods](/post/goods/) [or](/post/or/) services: *[The](/post/the/) [factory](/post/factory/) aims [to](/post/to/) [increase](/post/increase/) [its](/post/its/) [supply](/post/supply/) [of](/post/of/) [raw](/post/raw/) materials.*
+2. [Enough](/post/enough/) [of](/post/of/) [something](/post/something/) [to](/post/to/) [meet](/post/meet/) [demand](/post/demand/): *There's [a](/post/a/) [steady](/post/steady/) [supply](/post/supply/) [of](/post/of/) [fresh](/post/fresh/) [produce](/post/produce/) [at](/post/at/) [the](/post/the/) [market](/post/market/).*
+3. [The](/post/the/) [stock](/post/stock/) [or](/post/or/) inventory [of](/post/of/) [something](/post/something/): *[The](/post/the/) warehouse had [a](/post/a/) [healthy](/post/healthy/) [supply](/post/supply/) [of](/post/of/) [electronics](/post/electronics/).*
+4. [The](/post/the/) [flow](/post/flow/) [or](/post/or/) [quantity](/post/quantity/) [of](/post/of/) [a](/post/a/) [substance](/post/substance/), [such](/post/such/) [as](/post/as/) [water](/post/water/) [or](/post/or/) [blood](/post/blood/): *[The](/post/the/) river's [supply](/post/supply/) was dwindling [during](/post/during/) [the](/post/the/) [drought](/post/drought/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [furnish](/en/post/furnish/) [or](/en/post/or/) [provide](/en/post/provide/) ([something](/en/post/something/)) [as](/en/post/as/) needed: *[The](/en/post/the/) [government](/en/post/government/) is working [on](/en/post/on/) increasing [the](/en/post/the/) [supply](/en/post/supply/) [of](/en/post/of/) affordable housing.*
-2. [To](/en/post/to/) [meet](/en/post/meet/) [the](/en/post/the/) needs [or](/en/post/or/) requirements [of](/en/post/of/): *[The](/en/post/the/) [new](/en/post/new/) [system](/en/post/system/) [should](/en/post/should/) [better](/en/post/better/) [supply](/en/post/supply/) [the](/en/post/the/) demands [of](/en/post/of/) [the](/en/post/the/) users.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [furnish](/post/furnish/) [or](/post/or/) [provide](/post/provide/) ([something](/post/something/)) [as](/post/as/) needed: *[The](/post/the/) [government](/post/government/) is working [on](/post/on/) increasing [the](/post/the/) [supply](/post/supply/) [of](/post/of/) affordable housing.*
+2. [To](/post/to/) [meet](/post/meet/) [the](/post/the/) needs [or](/post/or/) requirements [of](/post/of/): *[The](/post/the/) [new](/post/new/) [system](/post/system/) [should](/post/should/) [better](/post/better/) [supply](/post/supply/) [the](/post/the/) demands [of](/post/of/) [the](/post/the/) users.*
 
 ## Phrases
-- "[Maintain](/en/post/maintain/) [a](/en/post/a/) [steady](/en/post/steady/) [supply](/en/post/supply/)" [means](/en/post/means/) [to](/en/post/to/) [ensure](/en/post/ensure/) [a](/en/post/a/) [constant](/en/post/constant/) availability.
-- "[Shortage](/en/post/shortage/) [of](/en/post/of/) [supply](/en/post/supply/)" refers [to](/en/post/to/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) is needed.
-- "[Supply](/en/post/supply/) [chain](/en/post/chain/)" is [the](/en/post/the/) [network](/en/post/network/) [of](/en/post/of/) companies involved [in](/en/post/in/) [the](/en/post/the/) [production](/en/post/production/) [and](/en/post/and/) [delivery](/en/post/delivery/) [of](/en/post/of/) [goods](/en/post/goods/).
+- "[Maintain](/post/maintain/) [a](/post/a/) [steady](/post/steady/) [supply](/post/supply/)" [means](/post/means/) [to](/post/to/) [ensure](/post/ensure/) [a](/post/a/) [constant](/post/constant/) availability.
+- "[Shortage](/post/shortage/) [of](/post/of/) [supply](/post/supply/)" refers [to](/post/to/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [something](/post/something/) [that](/post/that/) is needed.
+- "[Supply](/post/supply/) [chain](/post/chain/)" is [the](/post/the/) [network](/post/network/) [of](/post/of/) companies involved [in](/post/in/) [the](/post/the/) [production](/post/production/) [and](/post/and/) [delivery](/post/delivery/) [of](/post/of/) [goods](/post/goods/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's [supply](/en/post/supply/) [chain](/en/post/chain/) was disrupted [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) pandemic."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [local](/en/post/local/) farmers [have](/en/post/have/) been [able](/en/post/able/) [to](/en/post/to/) [supply](/en/post/supply/) [the](/en/post/the/) [community](/en/post/community/) [with](/en/post/with/) [fresh](/en/post/fresh/) vegetables [all](/en/post/all/) [summer](/en/post/summer/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [hospital](/en/post/hospital/) relies [on](/en/post/on/) [a](/en/post/a/) [reliable](/en/post/reliable/) [supply](/en/post/supply/) [of](/en/post/of/) [medical](/en/post/medical/) [equipment](/en/post/equipment/) [to](/en/post/to/) [treat](/en/post/treat/) patients."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) company's [supply](/post/supply/) [chain](/post/chain/) was disrupted [due](/post/due/) [to](/post/to/) [the](/post/the/) pandemic."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [local](/post/local/) farmers [have](/post/have/) been [able](/post/able/) [to](/post/to/) [supply](/post/supply/) [the](/post/the/) [community](/post/community/) [with](/post/with/) [fresh](/post/fresh/) vegetables [all](/post/all/) [summer](/post/summer/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [hospital](/post/hospital/) relies [on](/post/on/) [a](/post/a/) [reliable](/post/reliable/) [supply](/post/supply/) [of](/post/of/) [medical](/post/medical/) [equipment](/post/equipment/) [to](/post/to/) [treat](/post/treat/) patients."
 
 ## Synonyms
-- [Stock](/en/post/stock/)
+- [Stock](/post/stock/)
 - Inventory
 - Availability
-- [Provision](/en/post/provision/)
+- [Provision](/post/provision/)
 - Supplementation
-- [Distribution](/en/post/distribution/)
+- [Distribution](/post/distribution/)

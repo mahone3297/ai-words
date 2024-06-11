@@ -7,29 +7,29 @@ description = '[hedʒ] n.篱笆，树篱；障碍物'
 keywords = ['ai words', 'hedge']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhedʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [row](/en/post/row/) [of](/en/post/of/) [closely](/en/post/closely/) planted shrubs [or](/en/post/or/) trees forming [a](/en/post/a/) [boundary](/en/post/boundary/) [or](/en/post/or/) [barrier](/en/post/barrier/). [Example](/en/post/example/): "[They](/en/post/they/) planted [a](/en/post/a/) [hedge](/en/post/hedge/) [around](/en/post/around/) [their](/en/post/their/) [garden](/en/post/garden/) [to](/en/post/to/) [provide](/en/post/provide/) privacy."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [invest](/en/post/invest/) [in](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) reduces [risk](/en/post/risk/), [often](/en/post/often/) [by](/en/post/by/) balancing investments [against](/en/post/against/) [potential](/en/post/potential/) losses. [Example](/en/post/example/): "[The](/en/post/the/) investor decided [to](/en/post/to/) [hedge](/en/post/hedge/) [his](/en/post/his/) portfolio [with](/en/post/with/) [some](/en/post/some/) [safe](/en/post/safe/) bonds."
-- **[Noun](/en/post/noun/) (n)**: [In](/en/post/in/) [finance](/en/post/finance/), [a](/en/post/a/) [financial](/en/post/financial/) [instrument](/en/post/instrument/) [used](/en/post/used/) [to](/en/post/to/) offset [potential](/en/post/potential/) losses [from](/en/post/from/) [price](/en/post/price/) fluctuations. [Example](/en/post/example/): "Buying [a](/en/post/a/) [put](/en/post/put/) [option](/en/post/option/) is [one](/en/post/one/) [way](/en/post/way/) [to](/en/post/to/) [hedge](/en/post/hedge/) [against](/en/post/against/) [a](/en/post/a/) [fall](/en/post/fall/) [in](/en/post/in/) [stock](/en/post/stock/) prices."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [avoid](/en/post/avoid/) commitment [or](/en/post/or/) making [a](/en/post/a/) [definite](/en/post/definite/) [statement](/en/post/statement/), [especially](/en/post/especially/) [about](/en/post/about/) [something](/en/post/something/) [in](/en/post/in/) [the](/en/post/the/) [future](/en/post/future/). [Example](/en/post/example/): "Politicians [often](/en/post/often/) [hedge](/en/post/hedge/) [their](/en/post/their/) statements [on](/en/post/on/) controversial issues."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [row](/post/row/) [of](/post/of/) [closely](/post/closely/) planted shrubs [or](/post/or/) trees forming [a](/post/a/) [boundary](/post/boundary/) [or](/post/or/) [barrier](/post/barrier/). [Example](/post/example/): "[They](/post/they/) planted [a](/post/a/) [hedge](/post/hedge/) [around](/post/around/) [their](/post/their/) [garden](/post/garden/) [to](/post/to/) [provide](/post/provide/) privacy."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [invest](/post/invest/) [in](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) reduces [risk](/post/risk/), [often](/post/often/) [by](/post/by/) balancing investments [against](/post/against/) [potential](/post/potential/) losses. [Example](/post/example/): "[The](/post/the/) investor decided [to](/post/to/) [hedge](/post/hedge/) [his](/post/his/) portfolio [with](/post/with/) [some](/post/some/) [safe](/post/safe/) bonds."
+- **[Noun](/post/noun/) (n)**: [In](/post/in/) [finance](/post/finance/), [a](/post/a/) [financial](/post/financial/) [instrument](/post/instrument/) [used](/post/used/) [to](/post/to/) offset [potential](/post/potential/) losses [from](/post/from/) [price](/post/price/) fluctuations. [Example](/post/example/): "Buying [a](/post/a/) [put](/post/put/) [option](/post/option/) is [one](/post/one/) [way](/post/way/) [to](/post/to/) [hedge](/post/hedge/) [against](/post/against/) [a](/post/a/) [fall](/post/fall/) [in](/post/in/) [stock](/post/stock/) prices."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [avoid](/post/avoid/) commitment [or](/post/or/) making [a](/post/a/) [definite](/post/definite/) [statement](/post/statement/), [especially](/post/especially/) [about](/post/about/) [something](/post/something/) [in](/post/in/) [the](/post/the/) [future](/post/future/). [Example](/post/example/): "Politicians [often](/post/often/) [hedge](/post/hedge/) [their](/post/their/) statements [on](/post/on/) controversial issues."
 
 ## Phrases
-- "[Hedge](/en/post/hedge/) [your](/en/post/your/) bets": [To](/en/post/to/) [act](/en/post/act/) cautiously [to](/en/post/to/) [protect](/en/post/protect/) [oneself](/en/post/oneself/) [against](/en/post/against/) [loss](/en/post/loss/) [or](/en/post/or/) [failure](/en/post/failure/), [often](/en/post/often/) [by](/en/post/by/) having [multiple](/en/post/multiple/) options [or](/en/post/or/) strategies.
-- "[Hedge](/en/post/hedge/) [fund](/en/post/fund/)": An [investment](/en/post/investment/) [fund](/en/post/fund/) [that](/en/post/that/) uses [various](/en/post/various/) strategies, including hedging techniques, [to](/en/post/to/) [generate](/en/post/generate/) [high](/en/post/high/) returns [while](/en/post/while/) minimizing [risk](/en/post/risk/).
-- "[Hedge](/en/post/hedge/) maze": [A](/en/post/a/) [large](/en/post/large/) labyrinth made [of](/en/post/of/) hedges, [often](/en/post/often/) designed [for](/en/post/for/) entertainment [or](/en/post/or/) recreation.
+- "[Hedge](/post/hedge/) [your](/post/your/) bets": [To](/post/to/) [act](/post/act/) cautiously [to](/post/to/) [protect](/post/protect/) [oneself](/post/oneself/) [against](/post/against/) [loss](/post/loss/) [or](/post/or/) [failure](/post/failure/), [often](/post/often/) [by](/post/by/) having [multiple](/post/multiple/) options [or](/post/or/) strategies.
+- "[Hedge](/post/hedge/) [fund](/post/fund/)": An [investment](/post/investment/) [fund](/post/fund/) [that](/post/that/) uses [various](/post/various/) strategies, including hedging techniques, [to](/post/to/) [generate](/post/generate/) [high](/post/high/) returns [while](/post/while/) minimizing [risk](/post/risk/).
+- "[Hedge](/post/hedge/) maze": [A](/post/a/) [large](/post/large/) labyrinth made [of](/post/of/) hedges, [often](/post/often/) designed [for](/post/for/) entertainment [or](/post/or/) recreation.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (n)**: "[The](/en/post/the/) [old](/en/post/old/) manor [house](/en/post/house/) was surrounded [by](/en/post/by/) [a](/en/post/a/) neatly trimmed yew [hedge](/en/post/hedge/)."
-- **[Verb](/en/post/verb/) (v, [finance](/en/post/finance/))**: "[To](/en/post/to/) [guard](/en/post/guard/) [against](/en/post/against/) inflation, [they](/en/post/they/) decided [to](/en/post/to/) [hedge](/en/post/hedge/) [their](/en/post/their/) investments [by](/en/post/by/) buying [gold](/en/post/gold/)."
-- **[Verb](/en/post/verb/) (v, uncertainty)**: "[She](/en/post/she/) wouldn't [commit](/en/post/commit/) [to](/en/post/to/) attending [the](/en/post/the/) [event](/en/post/event/) [next](/en/post/next/) [week](/en/post/week/), choosing [instead](/en/post/instead/) [to](/en/post/to/) [hedge](/en/post/hedge/) [her](/en/post/her/) [response](/en/post/response/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (n)**: "[The](/post/the/) [old](/post/old/) manor [house](/post/house/) was surrounded [by](/post/by/) [a](/post/a/) neatly trimmed yew [hedge](/post/hedge/)."
+- **[Verb](/post/verb/) (v, [finance](/post/finance/))**: "[To](/post/to/) [guard](/post/guard/) [against](/post/against/) inflation, [they](/post/they/) decided [to](/post/to/) [hedge](/post/hedge/) [their](/post/their/) investments [by](/post/by/) buying [gold](/post/gold/)."
+- **[Verb](/post/verb/) (v, uncertainty)**: "[She](/post/she/) wouldn't [commit](/post/commit/) [to](/post/to/) attending [the](/post/the/) [event](/post/event/) [next](/post/next/) [week](/post/week/), choosing [instead](/post/instead/) [to](/post/to/) [hedge](/post/hedge/) [her](/post/her/) [response](/post/response/)."
 
 ## Synonyms
-- [Barrier](/en/post/barrier/) ([noun](/en/post/noun/))
-- [Protect](/en/post/protect/) ([verb](/en/post/verb/))
-- Buffer ([verb](/en/post/verb/))
-- Safeguard ([verb](/en/post/verb/))
-- [Screen](/en/post/screen/) ([noun](/en/post/noun/), [when](/en/post/when/) referring [to](/en/post/to/) plants)
-- Diversify ([finance](/en/post/finance/) [verb](/en/post/verb/))
+- [Barrier](/post/barrier/) ([noun](/post/noun/))
+- [Protect](/post/protect/) ([verb](/post/verb/))
+- Buffer ([verb](/post/verb/))
+- Safeguard ([verb](/post/verb/))
+- [Screen](/post/screen/) ([noun](/post/noun/), [when](/post/when/) referring [to](/post/to/) plants)
+- Diversify ([finance](/post/finance/) [verb](/post/verb/))

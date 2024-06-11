@@ -7,39 +7,39 @@ description = '[ˈθʌrə] a.彻底的；详尽的'
 keywords = ['ai words', 'thorough']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈθɜːrəʊ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Thoroughly done; [complete](/en/post/complete/); meticulous. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) investigator conducted [a](/en/post/a/) [thorough](/en/post/thorough/) [search](/en/post/search/) [of](/en/post/of/) [the](/en/post/the/) [crime](/en/post/crime/) [scene](/en/post/scene/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [perform](/en/post/perform/) [or](/en/post/or/) [examine](/en/post/examine/) [something](/en/post/something/) [in](/en/post/in/) [every](/en/post/every/) [detail](/en/post/detail/), [completely](/en/post/completely/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) thoroughly cleaned [the](/en/post/the/) [kitchen](/en/post/kitchen/) [before](/en/post/before/) starting [a](/en/post/a/) [new](/en/post/new/) [project](/en/post/project/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [thorough](/en/post/thorough/) [manner](/en/post/manner/); [completely](/en/post/completely/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) studied [the](/en/post/the/) [subject](/en/post/subject/) thoroughly."
+- **[Adjective](/post/adjective/)**: Thoroughly done; [complete](/post/complete/); meticulous. [For](/post/for/) [example](/post/example/): "[The](/post/the/) investigator conducted [a](/post/a/) [thorough](/post/thorough/) [search](/post/search/) [of](/post/of/) [the](/post/the/) [crime](/post/crime/) [scene](/post/scene/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [perform](/post/perform/) [or](/post/or/) [examine](/post/examine/) [something](/post/something/) [in](/post/in/) [every](/post/every/) [detail](/post/detail/), [completely](/post/completely/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) thoroughly cleaned [the](/post/the/) [kitchen](/post/kitchen/) [before](/post/before/) starting [a](/post/a/) [new](/post/new/) [project](/post/project/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [thorough](/post/thorough/) [manner](/post/manner/); [completely](/post/completely/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) studied [the](/post/the/) [subject](/post/subject/) thoroughly."
 
 ## Phrases
-- "[Thorough](/en/post/thorough/) [examination](/en/post/examination/)" implies [a](/en/post/a/) [careful](/en/post/careful/) [and](/en/post/and/) detailed [inspection](/en/post/inspection/).
-- "[A](/en/post/a/) through-and-through [professional](/en/post/professional/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is consistently [diligent](/en/post/diligent/) [and](/en/post/and/) [competent](/en/post/competent/).
-- "Thoroughly enjoyed" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) experienced [something](/en/post/something/) [with](/en/post/with/) [complete](/en/post/complete/) [satisfaction](/en/post/satisfaction/).
+- "[Thorough](/post/thorough/) [examination](/post/examination/)" implies [a](/post/a/) [careful](/post/careful/) [and](/post/and/) detailed [inspection](/post/inspection/).
+- "[A](/post/a/) through-and-through [professional](/post/professional/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is consistently [diligent](/post/diligent/) [and](/post/and/) [competent](/post/competent/).
+- "Thoroughly enjoyed" [means](/post/means/) [to](/post/to/) [have](/post/have/) experienced [something](/post/something/) [with](/post/with/) [complete](/post/complete/) [satisfaction](/post/satisfaction/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) chef made [a](/en/post/a/) [thorough](/en/post/thorough/) marinade [for](/en/post/for/) [the](/en/post/the/) steak."
-- **[Verb](/en/post/verb/)**: "[Before](/en/post/before/) leaving, [he](/en/post/he/) thoroughly reviewed [all](/en/post/all/) [his](/en/post/his/) notes."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) listened [to](/en/post/to/) [the](/en/post/the/) instructions thoroughly [to](/en/post/to/) [ensure](/en/post/ensure/) [she](/en/post/she/) understood [them](/en/post/them/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) chef made [a](/post/a/) [thorough](/post/thorough/) marinade [for](/post/for/) [the](/post/the/) steak."
+- **[Verb](/post/verb/)**: "[Before](/post/before/) leaving, [he](/post/he/) thoroughly reviewed [all](/post/all/) [his](/post/his/) notes."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) listened [to](/post/to/) [the](/post/the/) instructions thoroughly [to](/post/to/) [ensure](/post/ensure/) [she](/post/she/) understood [them](/post/them/)."
 
 ## Synonyms
-- [Comprehensive](/en/post/comprehensive/)
+- [Comprehensive](/post/comprehensive/)
 - Rigorous
 - Thoroughgoing
-- [Complete](/en/post/complete/)
+- [Complete](/post/complete/)
 - Exhaustive
 -meticulous
-- [Extensive](/en/post/extensive/)
-- [Rigid](/en/post/rigid/)
+- [Extensive](/post/extensive/)
+- [Rigid](/post/rigid/)
 - Punctilious
 
 ## Antonyms
 - Incomplete
 - Haphazard
-- [Careless](/en/post/careless/)
-- [Superficial](/en/post/superficial/)
-- [Brief](/en/post/brief/)
+- [Careless](/post/careless/)
+- [Superficial](/post/superficial/)
+- [Brief](/post/brief/)
 - Lackadaisical

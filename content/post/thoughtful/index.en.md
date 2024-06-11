@@ -7,37 +7,37 @@ description = '[ˈθɔːtful] a.沉思的；体贴的'
 keywords = ['ai words', 'thoughtful']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /thəʊˈful/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **[Thoughtful](/en/post/thoughtful/)**: Displaying [or](/en/post/or/) characterized [by](/en/post/by/) [careful](/en/post/careful/) thoughtfulness; [considerate](/en/post/considerate/) [and](/en/post/and/) [attentive](/en/post/attentive/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [thoughtful](/en/post/thoughtful/) [gift](/en/post/gift/) shows [that](/en/post/that/) [you](/en/post/you/) [really](/en/post/really/) [understand](/en/post/understand/) [their](/en/post/their/) needs."
-- **Thought-provoking**: Causing [one](/en/post/one/) [to](/en/post/to/) [think](/en/post/think/) deeply [or](/en/post/or/) carefully [about](/en/post/about/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) book's themes were [both](/en/post/both/) [thoughtful](/en/post/thoughtful/) [and](/en/post/and/) thought-provoking."
+### [Adjective](/post/adjective/)
+- **[Thoughtful](/post/thoughtful/)**: Displaying [or](/post/or/) characterized [by](/post/by/) [careful](/post/careful/) thoughtfulness; [considerate](/post/considerate/) [and](/post/and/) [attentive](/post/attentive/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [thoughtful](/post/thoughtful/) [gift](/post/gift/) shows [that](/post/that/) [you](/post/you/) [really](/post/really/) [understand](/post/understand/) [their](/post/their/) needs."
+- **Thought-provoking**: Causing [one](/post/one/) [to](/post/to/) [think](/post/think/) deeply [or](/post/or/) carefully [about](/post/about/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) book's themes were [both](/post/both/) [thoughtful](/post/thoughtful/) [and](/post/and/) thought-provoking."
 
 ## Phrases
-- "[Be](/en/post/be/) [thoughtful](/en/post/thoughtful/) [of](/en/post/of/) others" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [considerate](/en/post/considerate/) [and](/en/post/and/) empathetic towards others.
-- "[A](/en/post/a/) [thoughtful](/en/post/thoughtful/) [gesture](/en/post/gesture/)" refers [to](/en/post/to/) [a](/en/post/a/) [kind](/en/post/kind/) [action](/en/post/action/) [that](/en/post/that/) demonstrates [care](/en/post/care/).
-- "[Thoughtful](/en/post/thoughtful/) [silence](/en/post/silence/)" implies reflective quietness.
+- "[Be](/post/be/) [thoughtful](/post/thoughtful/) [of](/post/of/) others" [means](/post/means/) [to](/post/to/) [be](/post/be/) [considerate](/post/considerate/) [and](/post/and/) empathetic towards others.
+- "[A](/post/a/) [thoughtful](/post/thoughtful/) [gesture](/post/gesture/)" refers [to](/post/to/) [a](/post/a/) [kind](/post/kind/) [action](/post/action/) [that](/post/that/) demonstrates [care](/post/care/).
+- "[Thoughtful](/post/thoughtful/) [silence](/post/silence/)" implies reflective quietness.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) was [a](/en/post/a/) [thoughtful](/en/post/thoughtful/) [friend](/en/post/friend/) [who](/en/post/who/) [always](/en/post/always/) remembered [important](/en/post/important/) dates."
-- **[Adjective](/en/post/adjective/) ([as](/en/post/as/) [a](/en/post/a/) complement)**: "[His](/en/post/his/) [writing](/en/post/writing/) was filled [with](/en/post/with/) [thoughtful](/en/post/thoughtful/) insights [on](/en/post/on/) [life](/en/post/life/)."
-- **[Noun](/en/post/noun/) ([as](/en/post/as/) [a](/en/post/a/) [subject](/en/post/subject/))**: "[Her](/en/post/her/) [thoughtful](/en/post/thoughtful/) [letter](/en/post/letter/) conveyed [her](/en/post/her/) heartfelt appreciation."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) was [a](/post/a/) [thoughtful](/post/thoughtful/) [friend](/post/friend/) [who](/post/who/) [always](/post/always/) remembered [important](/post/important/) dates."
+- **[Adjective](/post/adjective/) ([as](/post/as/) [a](/post/a/) complement)**: "[His](/post/his/) [writing](/post/writing/) was filled [with](/post/with/) [thoughtful](/post/thoughtful/) insights [on](/post/on/) [life](/post/life/)."
+- **[Noun](/post/noun/) ([as](/post/as/) [a](/post/a/) [subject](/post/subject/))**: "[Her](/post/her/) [thoughtful](/post/thoughtful/) [letter](/post/letter/) conveyed [her](/post/her/) heartfelt appreciation."
 
 ## Synonyms
-- [Considerate](/en/post/considerate/)
+- [Considerate](/post/considerate/)
 - Compassionate
 - Mindful
 - Caring
 - Reflective
-- [Attentive](/en/post/attentive/)
-- [Sympathetic](/en/post/sympathetic/)
+- [Attentive](/post/attentive/)
+- [Sympathetic](/post/sympathetic/)
 
 ## Antonyms
 - Thoughtless
 - Disconsiderate
-- [Indifferent](/en/post/indifferent/)
+- [Indifferent](/post/indifferent/)
 - Impulsive
-- [Careless](/en/post/careless/)
+- [Careless](/post/careless/)
 - Absent-minded

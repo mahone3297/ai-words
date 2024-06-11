@@ -7,36 +7,36 @@ description = '[diˈviʒən] n.分，分配；除法'
 keywords = ['ai words', 'division']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈvɪʒn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Division](/en/post/division/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) separating [something](/en/post/something/) [into](/en/post/into/) parts [or](/en/post/or/) groups; [a](/en/post/a/) [part](/en/post/part/) [or](/en/post/or/) [portion](/en/post/portion/) [that](/en/post/that/) results [from](/en/post/from/) [such](/en/post/such/) [separation](/en/post/separation/). [Example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) was divided [into](/en/post/into/) [three](/en/post/three/) chapters."
-2. **[Department](/en/post/department/)** ([noun](/en/post/noun/)): [In](/en/post/in/) an [organization](/en/post/organization/), [a](/en/post/a/) [unit](/en/post/unit/) [responsible](/en/post/responsible/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [function](/en/post/function/) [or](/en/post/or/) [area](/en/post/area/) [of](/en/post/of/) [work](/en/post/work/). [Example](/en/post/example/): "[The](/en/post/the/) HR [department](/en/post/department/) handles [employee](/en/post/employee/) relations."
-3. **[Division](/en/post/division/) [of](/en/post/of/) labor** ([noun](/en/post/noun/)): Specialization [of](/en/post/of/) tasks [among](/en/post/among/) individuals [or](/en/post/or/) groups [in](/en/post/in/) [a](/en/post/a/) [society](/en/post/society/) [or](/en/post/or/) [industry](/en/post/industry/). [Example](/en/post/example/): "[In](/en/post/in/) [a](/en/post/a/) [factory](/en/post/factory/), there's [a](/en/post/a/) [clear](/en/post/clear/) [division](/en/post/division/) [of](/en/post/of/) labor [between](/en/post/between/) [assembly](/en/post/assembly/) [line](/en/post/line/) workers [and](/en/post/and/) supervisors."
-4. **[Mathematical](/en/post/mathematical/) [division](/en/post/division/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) distributing [a](/en/post/a/) [quantity](/en/post/quantity/) [among](/en/post/among/) [equal](/en/post/equal/) parts. [Example](/en/post/example/): "[Divide](/en/post/divide/) 24 [by](/en/post/by/) 6 [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) quotient."
+### [Noun](/post/noun/)
+1. **[Division](/post/division/)** ([noun](/post/noun/)): [The](/post/the/) [act](/post/act/) [of](/post/of/) separating [something](/post/something/) [into](/post/into/) parts [or](/post/or/) groups; [a](/post/a/) [part](/post/part/) [or](/post/or/) [portion](/post/portion/) [that](/post/that/) results [from](/post/from/) [such](/post/such/) [separation](/post/separation/). [Example](/post/example/): "[The](/post/the/) [book](/post/book/) was divided [into](/post/into/) [three](/post/three/) chapters."
+2. **[Department](/post/department/)** ([noun](/post/noun/)): [In](/post/in/) an [organization](/post/organization/), [a](/post/a/) [unit](/post/unit/) [responsible](/post/responsible/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [function](/post/function/) [or](/post/or/) [area](/post/area/) [of](/post/of/) [work](/post/work/). [Example](/post/example/): "[The](/post/the/) HR [department](/post/department/) handles [employee](/post/employee/) relations."
+3. **[Division](/post/division/) [of](/post/of/) labor** ([noun](/post/noun/)): Specialization [of](/post/of/) tasks [among](/post/among/) individuals [or](/post/or/) groups [in](/post/in/) [a](/post/a/) [society](/post/society/) [or](/post/or/) [industry](/post/industry/). [Example](/post/example/): "[In](/post/in/) [a](/post/a/) [factory](/post/factory/), there's [a](/post/a/) [clear](/post/clear/) [division](/post/division/) [of](/post/of/) labor [between](/post/between/) [assembly](/post/assembly/) [line](/post/line/) workers [and](/post/and/) supervisors."
+4. **[Mathematical](/post/mathematical/) [division](/post/division/)** ([noun](/post/noun/)): [The](/post/the/) [process](/post/process/) [of](/post/of/) distributing [a](/post/a/) [quantity](/post/quantity/) [among](/post/among/) [equal](/post/equal/) parts. [Example](/post/example/): "[Divide](/post/divide/) 24 [by](/post/by/) 6 [to](/post/to/) [find](/post/find/) [the](/post/the/) quotient."
 
-### [Verb](/en/post/verb/)
-1. **[Divide](/en/post/divide/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [separate](/en/post/separate/) [or](/en/post/or/) partition [something](/en/post/something/) [into](/en/post/into/) parts; [carry](/en/post/carry/) [out](/en/post/out/) [the](/en/post/the/) [mathematical](/en/post/mathematical/) [operation](/en/post/operation/) [of](/en/post/of/) distributing. [Example](/en/post/example/): "[They](/en/post/they/) divided [the](/en/post/the/) [land](/en/post/land/) [fairly](/en/post/fairly/) [among](/en/post/among/) [the](/en/post/the/) heirs."
-2. **[Divide](/en/post/divide/) [up](/en/post/up/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [distribute](/en/post/distribute/) [or](/en/post/or/) allocate items evenly. [Example](/en/post/example/): "Let's [divide](/en/post/divide/) [up](/en/post/up/) [the](/en/post/the/) [cake](/en/post/cake/) [into](/en/post/into/) [equal](/en/post/equal/) slices."
-3. **[Divide](/en/post/divide/) [attention](/en/post/attention/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [focus](/en/post/focus/) [on](/en/post/on/) [multiple](/en/post/multiple/) things simultaneously, [often](/en/post/often/) resulting [in](/en/post/in/) distraction. [Example](/en/post/example/): "It's [hard](/en/post/hard/) [to](/en/post/to/) [divide](/en/post/divide/) [her](/en/post/her/) [attention](/en/post/attention/) [between](/en/post/between/) [work](/en/post/work/) [and](/en/post/and/) [family](/en/post/family/)."
+### [Verb](/post/verb/)
+1. **[Divide](/post/divide/)** ([verb](/post/verb/)): [To](/post/to/) [separate](/post/separate/) [or](/post/or/) partition [something](/post/something/) [into](/post/into/) parts; [carry](/post/carry/) [out](/post/out/) [the](/post/the/) [mathematical](/post/mathematical/) [operation](/post/operation/) [of](/post/of/) distributing. [Example](/post/example/): "[They](/post/they/) divided [the](/post/the/) [land](/post/land/) [fairly](/post/fairly/) [among](/post/among/) [the](/post/the/) heirs."
+2. **[Divide](/post/divide/) [up](/post/up/)** ([verb](/post/verb/)): [To](/post/to/) [distribute](/post/distribute/) [or](/post/or/) allocate items evenly. [Example](/post/example/): "Let's [divide](/post/divide/) [up](/post/up/) [the](/post/the/) [cake](/post/cake/) [into](/post/into/) [equal](/post/equal/) slices."
+3. **[Divide](/post/divide/) [attention](/post/attention/)** ([verb](/post/verb/)): [To](/post/to/) [focus](/post/focus/) [on](/post/on/) [multiple](/post/multiple/) things simultaneously, [often](/post/often/) resulting [in](/post/in/) distraction. [Example](/post/example/): "It's [hard](/post/hard/) [to](/post/to/) [divide](/post/divide/) [her](/post/her/) [attention](/post/attention/) [between](/post/between/) [work](/post/work/) [and](/post/and/) [family](/post/family/)."
 
 ## Phrases
-- "[Divide](/en/post/divide/) [and](/en/post/and/) [conquer](/en/post/conquer/)" is [a](/en/post/a/) [strategy](/en/post/strategy/) [to](/en/post/to/) [weaken](/en/post/weaken/) an [opponent](/en/post/opponent/) [by](/en/post/by/) creating divisions [within](/en/post/within/) [them](/en/post/them/).
-- "[Equal](/en/post/equal/) [division](/en/post/division/)" indicates [a](/en/post/a/) [fair](/en/post/fair/) [share](/en/post/share/) [for](/en/post/for/) [all](/en/post/all/).
-- "[Divide](/en/post/divide/) responsibilities" [means](/en/post/means/) [to](/en/post/to/) allocate duties [among](/en/post/among/) [team](/en/post/team/) members.
+- "[Divide](/post/divide/) [and](/post/and/) [conquer](/post/conquer/)" is [a](/post/a/) [strategy](/post/strategy/) [to](/post/to/) [weaken](/post/weaken/) an [opponent](/post/opponent/) [by](/post/by/) creating divisions [within](/post/within/) [them](/post/them/).
+- "[Equal](/post/equal/) [division](/post/division/)" indicates [a](/post/a/) [fair](/post/fair/) [share](/post/share/) [for](/post/for/) [all](/post/all/).
+- "[Divide](/post/divide/) responsibilities" [means](/post/means/) [to](/post/to/) allocate duties [among](/post/among/) [team](/post/team/) members.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) students were divided [into](/en/post/into/) [four](/en/post/four/) groups [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) divided [the](/en/post/the/) [class](/en/post/class/) [into](/en/post/into/) pairs [for](/en/post/for/) [group](/en/post/group/) [work](/en/post/work/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) company's assets were divided [during](/en/post/during/) [the](/en/post/the/) [divorce](/en/post/divorce/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) students were divided [into](/post/into/) [four](/post/four/) groups [for](/post/for/) [the](/post/the/) [project](/post/project/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) divided [the](/post/the/) [class](/post/class/) [into](/post/into/) pairs [for](/post/for/) [group](/post/group/) [work](/post/work/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) company's assets were divided [during](/post/during/) [the](/post/the/) [divorce](/post/divorce/)."
 
 ## Synonyms
 - Partition
-- [Split](/en/post/split/)
-- [Separate](/en/post/separate/)
+- [Split](/post/split/)
+- [Separate](/post/separate/)
 - Allocate
-- [Distribute](/en/post/distribute/)
-- [Fragment](/en/post/fragment/)
+- [Distribute](/post/distribute/)
+- [Fragment](/post/fragment/)
 - Categorize

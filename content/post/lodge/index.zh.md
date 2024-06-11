@@ -12,30 +12,30 @@ keywords = ['ai words', 'lodge']
 
 ## 释义
 - **名词**:
-  - 旅馆；寄宿处：[A](/post/a/) [place](/post/place/) [where](/post/where/) travelers [can](/post/can/) [stay](/post/stay/), [especially](/post/especially/) [for](/post/for/) [a](/post/a/) [night](/post/night/) [or](/post/or/) [a](/post/a/) [short](/post/short/) [time](/post/time/).
-  - 小屋；木屋：[A](/post/a/) [small](/post/small/), [often](/post/often/) rustic [house](/post/house/) [or](/post/or/) [cabin](/post/cabin/).
-  - 投宿；寄宿：[The](/post/the/) [act](/post/act/) [of](/post/of/) staying [in](/post/in/) [such](/post/such/) [a](/post/a/) [place](/post/place/).
+  - 旅馆；寄宿处：[A](/zh/post/a/) [place](/zh/post/place/) [where](/zh/post/where/) travelers [can](/zh/post/can/) [stay](/zh/post/stay/), [especially](/zh/post/especially/) [for](/zh/post/for/) [a](/zh/post/a/) [night](/zh/post/night/) [or](/zh/post/or/) [a](/zh/post/a/) [short](/zh/post/short/) [time](/zh/post/time/).
+  - 小屋；木屋：[A](/zh/post/a/) [small](/zh/post/small/), [often](/zh/post/often/) rustic [house](/zh/post/house/) [or](/zh/post/or/) [cabin](/zh/post/cabin/).
+  - 投宿；寄宿：[The](/zh/post/the/) [act](/zh/post/act/) [of](/zh/post/of/) staying [in](/zh/post/in/) [such](/zh/post/such/) [a](/zh/post/a/) [place](/zh/post/place/).
 
 - **动词**:
-  - 寄宿；投宿：[To](/post/to/) [stay](/post/stay/) temporarily [at](/post/at/) an [inn](/post/inn/) [or](/post/or/) [other](/post/other/) lodging.
-  - 提交（申请、投诉等）：[To](/post/to/) [submit](/post/submit/) (an [application](/post/application/), [complaint](/post/complaint/), etc.) officially.
+  - 寄宿；投宿：[To](/zh/post/to/) [stay](/zh/post/stay/) temporarily [at](/zh/post/at/) an [inn](/zh/post/inn/) [or](/zh/post/or/) [other](/zh/post/other/) lodging.
+  - 提交（申请、投诉等）：[To](/zh/post/to/) [submit](/zh/post/submit/) (an [application](/zh/post/application/), [complaint](/zh/post/complaint/), etc.) officially.
 
 - **名词（英式法律用语）**:
-  - 法庭申诉：[In](/post/in/) British [law](/post/law/), [a](/post/a/) [formal](/post/formal/) [complaint](/post/complaint/) made [to](/post/to/) [a](/post/a/) [court](/post/court/).
+  - 法庭申诉：[In](/zh/post/in/) British [law](/zh/post/law/), [a](/zh/post/a/) [formal](/zh/post/formal/) [complaint](/zh/post/complaint/) made [to](/zh/post/to/) [a](/zh/post/a/) [court](/zh/post/court/).
 
 ## 短语
-- "[Lodge](/post/lodge/) [a](/post/a/) [complaint](/post/complaint/)" 表示提出投诉。
-- "[Lodge](/post/lodge/) [with](/post/with/) [someone](/post/someone/)" 意味着在某人家中寄宿。
-- "[Lodge](/post/lodge/) [a](/post/a/) [protest](/post/protest/)" 意为提出抗议。
+- "[Lodge](/zh/post/lodge/) [a](/zh/post/a/) [complaint](/zh/post/complaint/)" 表示提出投诉。
+- "[Lodge](/zh/post/lodge/) [with](/zh/post/with/) [someone](/zh/post/someone/)" 意味着在某人家中寄宿。
+- "[Lodge](/zh/post/lodge/) [a](/zh/post/a/) [protest](/zh/post/protest/)" 意为提出抗议。
 
 ## 例句
-- 名词: "[They](/post/they/) decided [to](/post/to/) [lodge](/post/lodge/) [at](/post/at/) [a](/post/a/) cozy [mountain](/post/mountain/) [lodge](/post/lodge/) [for](/post/for/) [their](/post/their/) [vacation](/post/vacation/)."
-- 动词: "I [need](/post/need/) [to](/post/to/) [lodge](/post/lodge/) [my](/post/my/) [tax](/post/tax/) [return](/post/return/) [by](/post/by/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [month](/post/month/)."
-- 法律用语: "[The](/post/the/) defendant has lodged an [appeal](/post/appeal/) [against](/post/against/) [the](/post/the/) verdict."
+- 名词: "[They](/zh/post/they/) decided [to](/zh/post/to/) [lodge](/zh/post/lodge/) [at](/zh/post/at/) [a](/zh/post/a/) cozy [mountain](/zh/post/mountain/) [lodge](/zh/post/lodge/) [for](/zh/post/for/) [their](/zh/post/their/) [vacation](/zh/post/vacation/)."
+- 动词: "I [need](/zh/post/need/) [to](/zh/post/to/) [lodge](/zh/post/lodge/) [my](/zh/post/my/) [tax](/zh/post/tax/) [return](/zh/post/return/) [by](/zh/post/by/) [the](/zh/post/the/) [end](/zh/post/end/) [of](/zh/post/of/) [the](/zh/post/the/) [month](/zh/post/month/)."
+- 法律用语: "[The](/zh/post/the/) defendant has lodged an [appeal](/zh/post/appeal/) [against](/zh/post/against/) [the](/zh/post/the/) verdict."
 
 ## 同义词
-- [Stay](/post/stay/)
-- [Rent](/post/rent/)
-- [Board](/post/board/)
-- [Accommodate](/post/accommodate/)
+- [Stay](/zh/post/stay/)
+- [Rent](/zh/post/rent/)
+- [Board](/zh/post/board/)
+- [Accommodate](/zh/post/accommodate/)
 - Reside

@@ -7,36 +7,36 @@ description = '[ˈelifənt] n.象'
 keywords = ['ai words', 'elephant']
 +++
 
-## [Word](/en/post/word/): [Elephant](/en/post/elephant/)
+## [Word](/post/word/): [Elephant](/post/elephant/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɛlɪfənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/), [powerful](/en/post/powerful/) [animal](/en/post/animal/) [with](/en/post/with/) [a](/en/post/a/) [long](/en/post/long/) [trunk](/en/post/trunk/), [big](/en/post/big/) ears, [and](/en/post/and/) tusks, [native](/en/post/native/) [to](/en/post/to/) [Africa](/en/post/africa/) [and](/en/post/and/) [Asia](/en/post/asia/). Elephants are [the](/en/post/the/) largest [land](/en/post/land/) animals [alive](/en/post/alive/) [today](/en/post/today/) [and](/en/post/and/) are known [for](/en/post/for/) [their](/en/post/their/) [intelligence](/en/post/intelligence/) [and](/en/post/and/) [social](/en/post/social/) [behavior](/en/post/behavior/). [They](/en/post/they/) are members [of](/en/post/of/) [the](/en/post/the/) [family](/en/post/family/) Elephantidae [and](/en/post/and/) [have](/en/post/have/) [two](/en/post/two/) [living](/en/post/living/) species, [the](/en/post/the/) [African](/en/post/african/) [elephant](/en/post/elephant/) (Loxodonta africana) [and](/en/post/and/) [the](/en/post/the/) [Asian](/en/post/asian/) [elephant](/en/post/elephant/) (Elephas maximus).
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/), [powerful](/post/powerful/) [animal](/post/animal/) [with](/post/with/) [a](/post/a/) [long](/post/long/) [trunk](/post/trunk/), [big](/post/big/) ears, [and](/post/and/) tusks, [native](/post/native/) [to](/post/to/) [Africa](/post/africa/) [and](/post/and/) [Asia](/post/asia/). Elephants are [the](/post/the/) largest [land](/post/land/) animals [alive](/post/alive/) [today](/post/today/) [and](/post/and/) are known [for](/post/for/) [their](/post/their/) [intelligence](/post/intelligence/) [and](/post/and/) [social](/post/social/) [behavior](/post/behavior/). [They](/post/they/) are members [of](/post/of/) [the](/post/the/) [family](/post/family/) Elephantidae [and](/post/and/) [have](/post/have/) [two](/post/two/) [living](/post/living/) species, [the](/post/the/) [African](/post/african/) [elephant](/post/elephant/) (Loxodonta africana) [and](/post/and/) [the](/post/the/) [Asian](/post/asian/) [elephant](/post/elephant/) (Elephas maximus).
 
-[Example](/en/post/example/) Sentences:
-- _The [elephant](/en/post/elephant/) majestically crossed [the](/en/post/the/) savannah._
-- _In [some](/en/post/some/) parts [of](/en/post/of/) [Southeast](/en/post/southeast/) [Asia](/en/post/asia/), elephants are trained [to](/en/post/to/) [work](/en/post/work/) [in](/en/post/in/) [the](/en/post/the/) [timber](/en/post/timber/) [industry](/en/post/industry/)._
+[Example](/post/example/) Sentences:
+- _The [elephant](/post/elephant/) majestically crossed [the](/post/the/) savannah._
+- _In [some](/post/some/) parts [of](/post/of/) [Southeast](/post/southeast/) [Asia](/post/asia/), elephants are trained [to](/post/to/) [work](/post/work/) [in](/post/in/) [the](/post/the/) [timber](/post/timber/) [industry](/post/industry/)._
 
 ## Phrases
-- _White elephant_ - [A](/en/post/a/) [possession](/en/post/possession/) [that](/en/post/that/) is [expensive](/en/post/expensive/) [to](/en/post/to/) [maintain](/en/post/maintain/) [but](/en/post/but/) has [little](/en/post/little/) [practical](/en/post/practical/) [use](/en/post/use/); [also](/en/post/also/), [a](/en/post/a/) burdensome [or](/en/post/or/) unwanted [gift](/en/post/gift/).
-  > "[The](/en/post/the/) [old](/en/post/old/) [car](/en/post/car/) became [a](/en/post/a/) [white](/en/post/white/) [elephant](/en/post/elephant/) [after](/en/post/after/) [it](/en/post/it/) constantly needed repairs."
+- _White elephant_ - [A](/post/a/) [possession](/post/possession/) [that](/post/that/) is [expensive](/post/expensive/) [to](/post/to/) [maintain](/post/maintain/) [but](/post/but/) has [little](/post/little/) [practical](/post/practical/) [use](/post/use/); [also](/post/also/), [a](/post/a/) burdensome [or](/post/or/) unwanted [gift](/post/gift/).
+  > "[The](/post/the/) [old](/post/old/) [car](/post/car/) became [a](/post/a/) [white](/post/white/) [elephant](/post/elephant/) [after](/post/after/) [it](/post/it/) constantly needed repairs."
   
-- _Elephant [in](/en/post/in/) [the](/en/post/the/) room_ - [A](/en/post/a/) [problem](/en/post/problem/) [or](/en/post/or/) controversial [issue](/en/post/issue/) [that](/en/post/that/) [people](/en/post/people/) [avoid](/en/post/avoid/) discussing, [even](/en/post/even/) [though](/en/post/though/) [it](/en/post/it/) is [obvious](/en/post/obvious/) [to](/en/post/to/) [all](/en/post/all/).
-  > "[We](/en/post/we/) can't [ignore](/en/post/ignore/) [the](/en/post/the/) [elephant](/en/post/elephant/) [in](/en/post/in/) [the](/en/post/the/) [room](/en/post/room/) [any](/en/post/any/) longer; [we](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [talk](/en/post/talk/) [about](/en/post/about/) [our](/en/post/our/) [financial](/en/post/financial/) [situation](/en/post/situation/)."
+- _Elephant [in](/post/in/) [the](/post/the/) room_ - [A](/post/a/) [problem](/post/problem/) [or](/post/or/) controversial [issue](/post/issue/) [that](/post/that/) [people](/post/people/) [avoid](/post/avoid/) discussing, [even](/post/even/) [though](/post/though/) [it](/post/it/) is [obvious](/post/obvious/) [to](/post/to/) [all](/post/all/).
+  > "[We](/post/we/) can't [ignore](/post/ignore/) [the](/post/the/) [elephant](/post/elephant/) [in](/post/in/) [the](/post/the/) [room](/post/room/) [any](/post/any/) longer; [we](/post/we/) [need](/post/need/) [to](/post/to/) [talk](/post/talk/) [about](/post/about/) [our](/post/our/) [financial](/post/financial/) [situation](/post/situation/)."
 
 ## Synonyms
 - Pachyderm
 - Jumbo (informal)
-- Tusker (referring [to](/en/post/to/) [male](/en/post/male/) elephants [with](/en/post/with/) [large](/en/post/large/) tusks)
-- Mammoth (referring [to](/en/post/to/) extinct relatives)
+- Tusker (referring [to](/post/to/) [male](/post/male/) elephants [with](/post/with/) [large](/post/large/) tusks)
+- Mammoth (referring [to](/post/to/) extinct relatives)
 
-## Derived Forms [and](/en/post/and/) Phrasal Verbs
-- _To elephantine_ - [Adjective](/en/post/adjective/) describing [something](/en/post/something/) [that](/en/post/that/) is [large](/en/post/large/), [clumsy](/en/post/clumsy/), [or](/en/post/or/) ponderous [like](/en/post/like/) an [elephant](/en/post/elephant/).
-  > "[The](/en/post/the/) [old](/en/post/old/) [furniture](/en/post/furniture/) was elephantine [in](/en/post/in/) [size](/en/post/size/), making [it](/en/post/it/) [difficult](/en/post/difficult/) [to](/en/post/to/) [move](/en/post/move/) [around](/en/post/around/) [the](/en/post/the/) [room](/en/post/room/)."
+## Derived Forms [and](/post/and/) Phrasal Verbs
+- _To elephantine_ - [Adjective](/post/adjective/) describing [something](/post/something/) [that](/post/that/) is [large](/post/large/), [clumsy](/post/clumsy/), [or](/post/or/) ponderous [like](/post/like/) an [elephant](/post/elephant/).
+  > "[The](/post/the/) [old](/post/old/) [furniture](/post/furniture/) was elephantine [in](/post/in/) [size](/post/size/), making [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [move](/post/move/) [around](/post/around/) [the](/post/the/) [room](/post/room/)."
   
-- _To [remember](/en/post/remember/) [like](/en/post/like/) an elephant_ - Idiomatic [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [very](/en/post/very/) [good](/en/post/good/) [memory](/en/post/memory/).
-  > "[Despite](/en/post/despite/) [her](/en/post/her/) [age](/en/post/age/), [she](/en/post/she/) remembers details [like](/en/post/like/) an [elephant](/en/post/elephant/)." 
+- _To [remember](/post/remember/) [like](/post/like/) an elephant_ - Idiomatic [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [very](/post/very/) [good](/post/good/) [memory](/post/memory/).
+  > "[Despite](/post/despite/) [her](/post/her/) [age](/post/age/), [she](/post/she/) remembers details [like](/post/like/) an [elephant](/post/elephant/)." 
 
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) "[elephant](/en/post/elephant/)" does [not](/en/post/not/) typically [function](/en/post/function/) [as](/en/post/as/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) [such](/en/post/such/) [as](/en/post/as/) verbs, adjectives, adverbs, etc., [except](/en/post/except/) [when](/en/post/when/) [used](/en/post/used/) [in](/en/post/in/) idioms [or](/en/post/or/) [creative](/en/post/creative/) expressions.
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) "[elephant](/post/elephant/)" does [not](/post/not/) typically [function](/post/function/) [as](/post/as/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) [such](/post/such/) [as](/post/as/) verbs, adjectives, adverbs, etc., [except](/post/except/) [when](/post/when/) [used](/post/used/) [in](/post/in/) idioms [or](/post/or/) [creative](/post/creative/) expressions.

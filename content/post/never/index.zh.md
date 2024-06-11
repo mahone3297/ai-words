@@ -11,21 +11,21 @@ keywords = ['ai words', 'never']
 /ˈnevər/
 
 ## 释义
-- **副词**: 表示从不，从未，决不。例如: "I [have](/post/have/) [never](/post/never/) been [to](/post/to/) [Australia](/post/australia/)." 
-- **连词**: 连接两个句子，表示如果…决不…，相当于“[if](/post/if/)…[not](/post/not/)”。例如: "I'll [never](/post/never/) [leave](/post/leave/) [you](/post/you/) [unless](/post/unless/) [you](/post/you/) [ask](/post/ask/) [me](/post/me/) [to](/post/to/)."
+- **副词**: 表示从不，从未，决不。例如: "I [have](/zh/post/have/) [never](/zh/post/never/) been [to](/zh/post/to/) [Australia](/zh/post/australia/)." 
+- **连词**: 连接两个句子，表示如果…决不…，相当于“[if](/zh/post/if/)…[not](/zh/post/not/)”。例如: "I'll [never](/zh/post/never/) [leave](/zh/post/leave/) [you](/zh/post/you/) [unless](/zh/post/unless/) [you](/zh/post/you/) [ask](/zh/post/ask/) [me](/zh/post/me/) [to](/zh/post/to/)."
 
 ## 短语
-- "[Not](/post/not/) [ever](/post/ever/)" 用来强调从未发生过的情况。
-- "[Never](/post/never/) [mind](/post/mind/)" 用于告诉别人不必在意或忘记某个问题。
-- "[Never](/post/never/) [say](/post/say/) [never](/post/never/)" 意味着事情总有可能性，不要轻易断言不可能。
+- "[Not](/zh/post/not/) [ever](/zh/post/ever/)" 用来强调从未发生过的情况。
+- "[Never](/zh/post/never/) [mind](/zh/post/mind/)" 用于告诉别人不必在意或忘记某个问题。
+- "[Never](/zh/post/never/) [say](/zh/post/say/) [never](/zh/post/never/)" 意味着事情总有可能性，不要轻易断言不可能。
 
 ## 例句
-- 副词: "[She](/post/she/) has [never](/post/never/) missed [a](/post/a/) [day](/post/day/) [of](/post/of/) [work](/post/work/) [in](/post/in/) [her](/post/her/) [entire](/post/entire/) [career](/post/career/)."
-- 连词: "I [will](/post/will/) [never](/post/never/) [leave](/post/leave/) [you](/post/you/), [not](/post/not/) [even](/post/even/) [in](/post/in/) [the](/post/the/) toughest times."
+- 副词: "[She](/zh/post/she/) has [never](/zh/post/never/) missed [a](/zh/post/a/) [day](/zh/post/day/) [of](/zh/post/of/) [work](/zh/post/work/) [in](/zh/post/in/) [her](/zh/post/her/) [entire](/zh/post/entire/) [career](/zh/post/career/)."
+- 连词: "I [will](/zh/post/will/) [never](/zh/post/never/) [leave](/zh/post/leave/) [you](/zh/post/you/), [not](/zh/post/not/) [even](/zh/post/even/) [in](/zh/post/in/) [the](/zh/post/the/) toughest times."
 
 ## 同义词
-- [Not](/post/not/) [ever](/post/ever/)
-- [At](/post/at/) [no](/post/no/) [time](/post/time/)
-- [In](/post/in/) [no](/post/no/) [way](/post/way/)
-- [On](/post/on/) [no](/post/no/) [occasion](/post/occasion/)
-- [Under](/post/under/) [no](/post/no/) circumstances
+- [Not](/zh/post/not/) [ever](/zh/post/ever/)
+- [At](/zh/post/at/) [no](/zh/post/no/) [time](/zh/post/time/)
+- [In](/zh/post/in/) [no](/zh/post/no/) [way](/zh/post/way/)
+- [On](/zh/post/on/) [no](/zh/post/no/) [occasion](/zh/post/occasion/)
+- [Under](/zh/post/under/) [no](/zh/post/no/) circumstances

@@ -11,25 +11,25 @@ keywords = ['ai words', 'subject']
 /ˈsʌbdʒɪkt/
 
 ## 释义
-- **名词 (n)**: 1. 主题，话题。例如: "[The](/post/the/) [subject](/post/subject/) [of](/post/of/) [the](/post/the/) [meeting](/post/meeting/) was [climate](/post/climate/) [change](/post/change/)."
-       2. 学科，科目。例如: "[Her](/post/her/) favorite [subject](/post/subject/) [in](/post/in/) [school](/post/school/) is [history](/post/history/)."
-       3. 主体，主语。例如: "[In](/post/in/) [the](/post/the/) [sentence](/post/sentence/) '[She](/post/she/) is singing', '[she](/post/she/)' is [the](/post/the/) [subject](/post/subject/)."
-       4. 受试者，实验对象。例如: "[The](/post/the/) [study](/post/study/) involved 50 [human](/post/human/) subjects."
+- **名词 (n)**: 1. 主题，话题。例如: "[The](/zh/post/the/) [subject](/zh/post/subject/) [of](/zh/post/of/) [the](/zh/post/the/) [meeting](/zh/post/meeting/) was [climate](/zh/post/climate/) [change](/zh/post/change/)."
+       2. 学科，科目。例如: "[Her](/zh/post/her/) favorite [subject](/zh/post/subject/) [in](/zh/post/in/) [school](/zh/post/school/) is [history](/zh/post/history/)."
+       3. 主体，主语。例如: "[In](/zh/post/in/) [the](/zh/post/the/) [sentence](/zh/post/sentence/) '[She](/zh/post/she/) is singing', '[she](/zh/post/she/)' is [the](/zh/post/the/) [subject](/zh/post/subject/)."
+       4. 受试者，实验对象。例如: "[The](/zh/post/the/) [study](/zh/post/study/) involved 50 [human](/zh/post/human/) subjects."
 
-- **形容词 (adj)**: 1. 主要的，首要的。例如: "[The](/post/the/) [subject](/post/subject/) [matter](/post/matter/) [of](/post/of/) [the](/post/the/) [book](/post/book/) is [quite](/post/quite/) [complex](/post/complex/)."
-       2. 受支配的，从属的。例如: "[She](/post/she/) felt [like](/post/like/) [a](/post/a/) [subject](/post/subject/) [in](/post/in/) [her](/post/her/) [own](/post/own/) [life](/post/life/)."
+- **形容词 (adj)**: 1. 主要的，首要的。例如: "[The](/zh/post/the/) [subject](/zh/post/subject/) [matter](/zh/post/matter/) [of](/zh/post/of/) [the](/zh/post/the/) [book](/zh/post/book/) is [quite](/zh/post/quite/) [complex](/zh/post/complex/)."
+       2. 受支配的，从属的。例如: "[She](/zh/post/she/) felt [like](/zh/post/like/) [a](/zh/post/a/) [subject](/zh/post/subject/) [in](/zh/post/in/) [her](/zh/post/her/) [own](/zh/post/own/) [life](/zh/post/life/)."
 
 ## 短语
-- "[Change](/post/change/) [the](/post/the/) [subject](/post/subject/)" 意思是转移话题。
-- "[Under](/post/under/) [the](/post/the/) [subject](/post/subject/) [of](/post/of/)..." 意为在某个主题下讨论。
+- "[Change](/zh/post/change/) [the](/zh/post/the/) [subject](/zh/post/subject/)" 意思是转移话题。
+- "[Under](/zh/post/under/) [the](/zh/post/the/) [subject](/zh/post/subject/) [of](/zh/post/of/)..." 意为在某个主题下讨论。
 
 ## 例句
-- 名词: "[Our](/post/our/) [next](/post/next/) [art](/post/art/) [exhibition](/post/exhibition/) [will](/post/will/) [feature](/post/feature/) works [on](/post/on/) [the](/post/the/) [subject](/post/subject/) [of](/post/of/) [nature](/post/nature/)."
-- 形容词: "He's [a](/post/a/) [subject](/post/subject/) [expert](/post/expert/) [in](/post/in/) quantum [physics](/post/physics/)."
+- 名词: "[Our](/zh/post/our/) [next](/zh/post/next/) [art](/zh/post/art/) [exhibition](/zh/post/exhibition/) [will](/zh/post/will/) [feature](/zh/post/feature/) works [on](/zh/post/on/) [the](/zh/post/the/) [subject](/zh/post/subject/) [of](/zh/post/of/) [nature](/zh/post/nature/)."
+- 形容词: "He's [a](/zh/post/a/) [subject](/zh/post/subject/) [expert](/zh/post/expert/) [in](/zh/post/in/) quantum [physics](/zh/post/physics/)."
 
 ## 同义词
-- [Topic](/post/topic/)
+- [Topic](/zh/post/topic/)
 - Theme
-- [Issue](/post/issue/)
-- [Matter](/post/matter/)
+- [Issue](/zh/post/issue/)
+- [Matter](/zh/post/matter/)
 - Domain

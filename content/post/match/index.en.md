@@ -7,47 +7,47 @@ description = 'n.(一根)火柴'
 keywords = ['ai words', 'match']
 +++
 
-## [Word](/en/post/word/): [Match](/en/post/match/)
+## [Word](/post/word/): [Match](/post/match/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /mætʃ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**
-  - [A](/en/post/a/) [contest](/en/post/contest/) [in](/en/post/in/) [which](/en/post/which/) [people](/en/post/people/) [or](/en/post/or/) teams [compete](/en/post/compete/) [against](/en/post/against/) [each](/en/post/each/) [other](/en/post/other/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [sport](/en/post/sport/) [or](/en/post/or/) [game](/en/post/game/): "[The](/en/post/the/) [football](/en/post/football/) [match](/en/post/match/) [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) [rival](/en/post/rival/) schools was [intense](/en/post/intense/)."
-  - [A](/en/post/a/) pairing [or](/en/post/or/) confrontation [of](/en/post/of/) [equal](/en/post/equal/) entities: "[Their](/en/post/their/) personalities were [a](/en/post/a/) [perfect](/en/post/perfect/) [match](/en/post/match/)."
-  - [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) corresponds [with](/en/post/with/) [or](/en/post/or/) is [suitable](/en/post/suitable/) [for](/en/post/for/) [another](/en/post/another/): "She's [found](/en/post/found/) [her](/en/post/her/) [perfect](/en/post/perfect/) [match](/en/post/match/) [in](/en/post/in/) [her](/en/post/her/) [new](/en/post/new/) [partner](/en/post/partner/)."
-  - [A](/en/post/a/) light-producing [device](/en/post/device/) [used](/en/post/used/) [for](/en/post/for/) igniting [fuel](/en/post/fuel/), typically made [of](/en/post/of/) [wood](/en/post/wood/) [or](/en/post/or/) cardboard: "[He](/en/post/he/) struck [a](/en/post/a/) [match](/en/post/match/) [to](/en/post/to/) [light](/en/post/light/) [the](/en/post/the/) [candle](/en/post/candle/)."
-  - [In](/en/post/in/) computing, [a](/en/post/a/) [sequence](/en/post/sequence/) [of](/en/post/of/) characters [that](/en/post/that/) [exactly](/en/post/exactly/) corresponds [to](/en/post/to/) [a](/en/post/a/) specified [pattern](/en/post/pattern/): "[The](/en/post/the/) [search](/en/post/search/) algorithm [found](/en/post/found/) [several](/en/post/several/) matches [in](/en/post/in/) [the](/en/post/the/) database."
+- **[Noun](/post/noun/)**
+  - [A](/post/a/) [contest](/post/contest/) [in](/post/in/) [which](/post/which/) [people](/post/people/) [or](/post/or/) teams [compete](/post/compete/) [against](/post/against/) [each](/post/each/) [other](/post/other/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [sport](/post/sport/) [or](/post/or/) [game](/post/game/): "[The](/post/the/) [football](/post/football/) [match](/post/match/) [between](/post/between/) [the](/post/the/) [two](/post/two/) [rival](/post/rival/) schools was [intense](/post/intense/)."
+  - [A](/post/a/) pairing [or](/post/or/) confrontation [of](/post/of/) [equal](/post/equal/) entities: "[Their](/post/their/) personalities were [a](/post/a/) [perfect](/post/perfect/) [match](/post/match/)."
+  - [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) corresponds [with](/post/with/) [or](/post/or/) is [suitable](/post/suitable/) [for](/post/for/) [another](/post/another/): "She's [found](/post/found/) [her](/post/her/) [perfect](/post/perfect/) [match](/post/match/) [in](/post/in/) [her](/post/her/) [new](/post/new/) [partner](/post/partner/)."
+  - [A](/post/a/) light-producing [device](/post/device/) [used](/post/used/) [for](/post/for/) igniting [fuel](/post/fuel/), typically made [of](/post/of/) [wood](/post/wood/) [or](/post/or/) cardboard: "[He](/post/he/) struck [a](/post/a/) [match](/post/match/) [to](/post/to/) [light](/post/light/) [the](/post/the/) [candle](/post/candle/)."
+  - [In](/post/in/) computing, [a](/post/a/) [sequence](/post/sequence/) [of](/post/of/) characters [that](/post/that/) [exactly](/post/exactly/) corresponds [to](/post/to/) [a](/post/a/) specified [pattern](/post/pattern/): "[The](/post/the/) [search](/post/search/) algorithm [found](/post/found/) [several](/post/several/) matches [in](/post/in/) [the](/post/the/) database."
 
-- **[Verb](/en/post/verb/)**
-  - [To](/en/post/to/) [be](/en/post/be/) [equal](/en/post/equal/) [to](/en/post/to/) [or](/en/post/or/) [correspond](/en/post/correspond/) [with](/en/post/with/) [something](/en/post/something/) [else](/en/post/else/): "[Her](/en/post/her/) skills [perfectly](/en/post/perfectly/) [match](/en/post/match/) [those](/en/post/those/) required [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/)."
-  - [To](/en/post/to/) [bring](/en/post/bring/) [together](/en/post/together/) [or](/en/post/or/) [pair](/en/post/pair/) things [that](/en/post/that/) are [well](/en/post/well/) suited: "[The](/en/post/the/) [agency](/en/post/agency/) matches employers [with](/en/post/with/) [potential](/en/post/potential/) employees."
-  - [To](/en/post/to/) [compete](/en/post/compete/) [against](/en/post/against/) ([someone](/en/post/someone/)) [in](/en/post/in/) [a](/en/post/a/) [contest](/en/post/contest/): "[They](/en/post/they/) [will](/en/post/will/) [match](/en/post/match/) [their](/en/post/their/) [best](/en/post/best/) players [against](/en/post/against/) [ours](/en/post/ours/)."
-  - [To](/en/post/to/) ignite ([a](/en/post/a/) [fire](/en/post/fire/) [or](/en/post/or/) [fuel](/en/post/fuel/)) [by](/en/post/by/) bringing [a](/en/post/a/) [flame](/en/post/flame/), [spark](/en/post/spark/), [or](/en/post/or/) [heat](/en/post/heat/) [source](/en/post/source/) [close](/en/post/close/) [to](/en/post/to/) [it](/en/post/it/): "[He](/en/post/he/) matched [the](/en/post/the/) logs [and](/en/post/and/) [soon](/en/post/soon/) had [a](/en/post/a/) blazing [fire](/en/post/fire/)."
-  - [In](/en/post/in/) dating [or](/en/post/or/) relationships, [to](/en/post/to/) [identify](/en/post/identify/) [or](/en/post/or/) [arrange](/en/post/arrange/) [a](/en/post/a/) compatible [romantic](/en/post/romantic/) partnership: "[The](/en/post/the/) app matches users based [on](/en/post/on/) shared interests."
+- **[Verb](/post/verb/)**
+  - [To](/post/to/) [be](/post/be/) [equal](/post/equal/) [to](/post/to/) [or](/post/or/) [correspond](/post/correspond/) [with](/post/with/) [something](/post/something/) [else](/post/else/): "[Her](/post/her/) skills [perfectly](/post/perfectly/) [match](/post/match/) [those](/post/those/) required [for](/post/for/) [the](/post/the/) [job](/post/job/)."
+  - [To](/post/to/) [bring](/post/bring/) [together](/post/together/) [or](/post/or/) [pair](/post/pair/) things [that](/post/that/) are [well](/post/well/) suited: "[The](/post/the/) [agency](/post/agency/) matches employers [with](/post/with/) [potential](/post/potential/) employees."
+  - [To](/post/to/) [compete](/post/compete/) [against](/post/against/) ([someone](/post/someone/)) [in](/post/in/) [a](/post/a/) [contest](/post/contest/): "[They](/post/they/) [will](/post/will/) [match](/post/match/) [their](/post/their/) [best](/post/best/) players [against](/post/against/) [ours](/post/ours/)."
+  - [To](/post/to/) ignite ([a](/post/a/) [fire](/post/fire/) [or](/post/or/) [fuel](/post/fuel/)) [by](/post/by/) bringing [a](/post/a/) [flame](/post/flame/), [spark](/post/spark/), [or](/post/or/) [heat](/post/heat/) [source](/post/source/) [close](/post/close/) [to](/post/to/) [it](/post/it/): "[He](/post/he/) matched [the](/post/the/) logs [and](/post/and/) [soon](/post/soon/) had [a](/post/a/) blazing [fire](/post/fire/)."
+  - [In](/post/in/) dating [or](/post/or/) relationships, [to](/post/to/) [identify](/post/identify/) [or](/post/or/) [arrange](/post/arrange/) [a](/post/a/) compatible [romantic](/post/romantic/) partnership: "[The](/post/the/) app matches users based [on](/post/on/) shared interests."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [match](/en/post/match/)" implies creating [a](/en/post/a/) [successful](/en/post/successful/) pairing [or](/en/post/or/) [finding](/en/post/finding/) [a](/en/post/a/) [suitable](/en/post/suitable/) counterpart.
-- "[Love](/en/post/love/) [match](/en/post/match/)" refers [to](/en/post/to/) [a](/en/post/a/) [romantic](/en/post/romantic/) [relationship](/en/post/relationship/) [where](/en/post/where/) [both](/en/post/both/) partners are ideally suited [for](/en/post/for/) [each](/en/post/each/) [other](/en/post/other/).
-- "[Match](/en/post/match/) [point](/en/post/point/)" is [a](/en/post/a/) [situation](/en/post/situation/) [in](/en/post/in/) [a](/en/post/a/) [game](/en/post/game/) [where](/en/post/where/) [one](/en/post/one/) [player](/en/post/player/) [or](/en/post/or/) [team](/en/post/team/) needs [just](/en/post/just/) [one](/en/post/one/) [more](/en/post/more/) [point](/en/post/point/) [to](/en/post/to/) [win](/en/post/win/) [the](/en/post/the/) [match](/en/post/match/).
-- "Matchmaker" is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) arranges marriages [or](/en/post/or/) [romantic](/en/post/romantic/) partnerships.
+- "[Make](/post/make/) [a](/post/a/) [match](/post/match/)" implies creating [a](/post/a/) [successful](/post/successful/) pairing [or](/post/or/) [finding](/post/finding/) [a](/post/a/) [suitable](/post/suitable/) counterpart.
+- "[Love](/post/love/) [match](/post/match/)" refers [to](/post/to/) [a](/post/a/) [romantic](/post/romantic/) [relationship](/post/relationship/) [where](/post/where/) [both](/post/both/) partners are ideally suited [for](/post/for/) [each](/post/each/) [other](/post/other/).
+- "[Match](/post/match/) [point](/post/point/)" is [a](/post/a/) [situation](/post/situation/) [in](/post/in/) [a](/post/a/) [game](/post/game/) [where](/post/where/) [one](/post/one/) [player](/post/player/) [or](/post/or/) [team](/post/team/) needs [just](/post/just/) [one](/post/one/) [more](/post/more/) [point](/post/point/) [to](/post/to/) [win](/post/win/) [the](/post/the/) [match](/post/match/).
+- "Matchmaker" is [a](/post/a/) [person](/post/person/) [who](/post/who/) arranges marriages [or](/post/or/) [romantic](/post/romantic/) partnerships.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [tennis](/en/post/tennis/) [match](/en/post/match/) lasted [for](/en/post/for/) [three](/en/post/three/) hours."
-- **[Verb](/en/post/verb/)**: "I'm trying [to](/en/post/to/) [match](/en/post/match/) [this](/en/post/this/) [color](/en/post/color/) [scheme](/en/post/scheme/) [with](/en/post/with/) [my](/en/post/my/) [furniture](/en/post/furniture/)."
-- "[Their](/en/post/their/) skills matched [so](/en/post/so/) [well](/en/post/well/) [that](/en/post/that/) [they](/en/post/they/) became an unbeatable [team](/en/post/team/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [tennis](/post/tennis/) [match](/post/match/) lasted [for](/post/for/) [three](/post/three/) hours."
+- **[Verb](/post/verb/)**: "I'm trying [to](/post/to/) [match](/post/match/) [this](/post/this/) [color](/post/color/) [scheme](/post/scheme/) [with](/post/with/) [my](/post/my/) [furniture](/post/furniture/)."
+- "[Their](/post/their/) skills matched [so](/post/so/) [well](/post/well/) [that](/post/that/) [they](/post/they/) became an unbeatable [team](/post/team/)."
 
 ## Synonyms
-- [Contest](/en/post/contest/)
-- [Game](/en/post/game/)
-- [Competition](/en/post/competition/)
-- [Pair](/en/post/pair/)
-- [Correspond](/en/post/correspond/)
+- [Contest](/post/contest/)
+- [Game](/post/game/)
+- [Competition](/post/competition/)
+- [Pair](/post/pair/)
+- [Correspond](/post/correspond/)
 - Complement
 - Ignite
-- [Light](/en/post/light/)
-- [Couple](/en/post/couple/)
+- [Light](/post/light/)
+- [Couple](/post/couple/)
 - Harmonize
 - Align
-- [Suit](/en/post/suit/)
+- [Suit](/post/suit/)

@@ -7,33 +7,33 @@ description = '[ˈjeləu] a.黄(色)的 n.黄(色)'
 keywords = ['ai words', 'yellow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjeləʊ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Of](/en/post/of/) [a](/en/post/a/) [color](/en/post/color/) having [a](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) [red](/en/post/red/) [and](/en/post/and/) [green](/en/post/green/), resembling [fresh](/en/post/fresh/) [grass](/en/post/grass/) [or](/en/post/or/) [sunlight](/en/post/sunlight/). (RGB values: 255, 255, 0)
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [color](/en/post/color/), typically associated [with](/en/post/with/) [sunshine](/en/post/sunshine/) [or](/en/post/or/) [ripe](/en/post/ripe/) bananas. (Synonyms: [golden](/en/post/golden/), [lemon](/en/post/lemon/), buttery)
+- **[Adjective](/post/adjective/)**: [Of](/post/of/) [a](/post/a/) [color](/post/color/) having [a](/post/a/) [mixture](/post/mixture/) [of](/post/of/) [red](/post/red/) [and](/post/and/) [green](/post/green/), resembling [fresh](/post/fresh/) [grass](/post/grass/) [or](/post/or/) [sunlight](/post/sunlight/). (RGB values: 255, 255, 0)
+- **[Noun](/post/noun/)**: [A](/post/a/) [color](/post/color/), typically associated [with](/post/with/) [sunshine](/post/sunshine/) [or](/post/or/) [ripe](/post/ripe/) bananas. (Synonyms: [golden](/post/golden/), [lemon](/post/lemon/), buttery)
 
 ## Phrases
-- "[A](/en/post/a/) [yellow](/en/post/yellow/) [dress](/en/post/dress/)" describes [a](/en/post/a/) garment [of](/en/post/of/) [that](/en/post/that/) [color](/en/post/color/).
-- "[The](/en/post/the/) [sky](/en/post/sky/) was [a](/en/post/a/) [beautiful](/en/post/beautiful/) [yellow](/en/post/yellow/) [during](/en/post/during/) [sunrise](/en/post/sunrise/)."
-- "[Yellow](/en/post/yellow/) caution signs [warn](/en/post/warn/) [of](/en/post/of/) [danger](/en/post/danger/)."
+- "[A](/post/a/) [yellow](/post/yellow/) [dress](/post/dress/)" describes [a](/post/a/) garment [of](/post/of/) [that](/post/that/) [color](/post/color/).
+- "[The](/post/the/) [sky](/post/sky/) was [a](/post/a/) [beautiful](/post/beautiful/) [yellow](/post/yellow/) [during](/post/during/) [sunrise](/post/sunrise/)."
+- "[Yellow](/post/yellow/) caution signs [warn](/post/warn/) [of](/post/of/) [danger](/post/danger/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sun](/en/post/sun/) [cast](/en/post/cast/) [a](/en/post/a/) [warm](/en/post/warm/) [yellow](/en/post/yellow/) [light](/en/post/light/) [through](/en/post/through/) [the](/en/post/the/) [window](/en/post/window/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [school](/en/post/school/) [bus](/en/post/bus/) has [a](/en/post/a/) [bright](/en/post/bright/) [yellow](/en/post/yellow/) [exterior](/en/post/exterior/)."
-- "[The](/en/post/the/) [autumn](/en/post/autumn/) leaves turned [a](/en/post/a/) vibrant [yellow](/en/post/yellow/) [before](/en/post/before/) falling."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sun](/post/sun/) [cast](/post/cast/) [a](/post/a/) [warm](/post/warm/) [yellow](/post/yellow/) [light](/post/light/) [through](/post/through/) [the](/post/the/) [window](/post/window/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [school](/post/school/) [bus](/post/bus/) has [a](/post/a/) [bright](/post/bright/) [yellow](/post/yellow/) [exterior](/post/exterior/)."
+- "[The](/post/the/) [autumn](/post/autumn/) leaves turned [a](/post/a/) vibrant [yellow](/post/yellow/) [before](/post/before/) falling."
 
 ## Synonyms
-- [Golden](/en/post/golden/)
+- [Golden](/post/golden/)
 - Amber
 - Lemon-yellow
 - Mustard
 - Sunshiny
 
 ## Antonyms
-- [Blue](/en/post/blue/)
-- [Black](/en/post/black/)
-- [White](/en/post/white/)
-- [Purple](/en/post/purple/)
-- [Green](/en/post/green/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [primary](/en/post/primary/) [color](/en/post/color/))
+- [Blue](/post/blue/)
+- [Black](/post/black/)
+- [White](/post/white/)
+- [Purple](/post/purple/)
+- [Green](/post/green/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [primary](/post/primary/) [color](/post/color/))

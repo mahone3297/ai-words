@@ -7,40 +7,40 @@ description = '[təːm] n.期；学期；条件；词'
 keywords = ['ai words', 'term']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɜːrm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [phrase](/en/post/phrase/) [that](/en/post/that/) refers [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/), [topic](/en/post/topic/), [or](/en/post/or/) [concept](/en/post/concept/). *[Example](/en/post/example/): [The](/en/post/the/) '[term](/en/post/term/)' [in](/en/post/in/) '[mathematics](/en/post/mathematics/) [term](/en/post/term/)' refers [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [mathematical](/en/post/mathematical/) [concept](/en/post/concept/).*
-2. [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [during](/en/post/during/) [which](/en/post/which/) [something](/en/post/something/) is [in](/en/post/in/) [effect](/en/post/effect/) [or](/en/post/or/) studied, [often](/en/post/often/) [in](/en/post/in/) an educational context. *[Example](/en/post/example/): Students are evaluated [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [each](/en/post/each/) [semester](/en/post/semester/) [on](/en/post/on/) [their](/en/post/their/) [academic](/en/post/academic/) [term](/en/post/term/).*
-3. [A](/en/post/a/) [condition](/en/post/condition/) [or](/en/post/or/) [phase](/en/post/phase/) [of](/en/post/of/) [a](/en/post/a/) [disease](/en/post/disease/) [or](/en/post/or/) [medical](/en/post/medical/) [condition](/en/post/condition/). *[Example](/en/post/example/): [She](/en/post/she/) was prescribed antibiotics [for](/en/post/for/) [a](/en/post/a/) [short](/en/post/short/) [term](/en/post/term/) [to](/en/post/to/) [treat](/en/post/treat/) [her](/en/post/her/) infection.*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [word](/post/word/) [or](/post/or/) [phrase](/post/phrase/) [that](/post/that/) refers [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/), [topic](/post/topic/), [or](/post/or/) [concept](/post/concept/). *[Example](/post/example/): [The](/post/the/) '[term](/post/term/)' [in](/post/in/) '[mathematics](/post/mathematics/) [term](/post/term/)' refers [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [mathematical](/post/mathematical/) [concept](/post/concept/).*
+2. [A](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [during](/post/during/) [which](/post/which/) [something](/post/something/) is [in](/post/in/) [effect](/post/effect/) [or](/post/or/) studied, [often](/post/often/) [in](/post/in/) an educational context. *[Example](/post/example/): Students are evaluated [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [each](/post/each/) [semester](/post/semester/) [on](/post/on/) [their](/post/their/) [academic](/post/academic/) [term](/post/term/).*
+3. [A](/post/a/) [condition](/post/condition/) [or](/post/or/) [phase](/post/phase/) [of](/post/of/) [a](/post/a/) [disease](/post/disease/) [or](/post/or/) [medical](/post/medical/) [condition](/post/condition/). *[Example](/post/example/): [She](/post/she/) was prescribed antibiotics [for](/post/for/) [a](/post/a/) [short](/post/short/) [term](/post/term/) [to](/post/to/) [treat](/post/treat/) [her](/post/her/) infection.*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [give](/en/post/give/) [or](/en/post/or/) [use](/en/post/use/) [a](/en/post/a/) [specific](/en/post/specific/) [name](/en/post/name/) [or](/en/post/or/) [label](/en/post/label/) [for](/en/post/for/) [something](/en/post/something/). *[Example](/en/post/example/): [They](/en/post/they/) defined [the](/en/post/the/) [term](/en/post/term/) 'ecology' [in](/en/post/in/) [their](/en/post/their/) [science](/en/post/science/) [lesson](/en/post/lesson/).*
-2. [To](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [or](/en/post/or/) [describe](/en/post/describe/) [a](/en/post/a/) [particular](/en/post/particular/) [period](/en/post/period/) [or](/en/post/or/) [stage](/en/post/stage/). *[Example](/en/post/example/): [The](/en/post/the/) [company](/en/post/company/) is working [on](/en/post/on/) [a](/en/post/a/) long-term [plan](/en/post/plan/) [for](/en/post/for/) [growth](/en/post/growth/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [give](/post/give/) [or](/post/or/) [use](/post/use/) [a](/post/a/) [specific](/post/specific/) [name](/post/name/) [or](/post/or/) [label](/post/label/) [for](/post/for/) [something](/post/something/). *[Example](/post/example/): [They](/post/they/) defined [the](/post/the/) [term](/post/term/) 'ecology' [in](/post/in/) [their](/post/their/) [science](/post/science/) [lesson](/post/lesson/).*
+2. [To](/post/to/) [refer](/post/refer/) [to](/post/to/) [or](/post/or/) [describe](/post/describe/) [a](/post/a/) [particular](/post/particular/) [period](/post/period/) [or](/post/or/) [stage](/post/stage/). *[Example](/post/example/): [The](/post/the/) [company](/post/company/) is working [on](/post/on/) [a](/post/a/) long-term [plan](/post/plan/) [for](/post/for/) [growth](/post/growth/).*
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [period](/en/post/period/) [or](/en/post/or/) [phase](/en/post/phase/). *[Example](/en/post/example/): [The](/en/post/the/) [term](/en/post/term/) [climate](/en/post/climate/) [change](/en/post/change/) describes [the](/en/post/the/) long-term [shift](/en/post/shift/) [in](/en/post/in/) [weather](/en/post/weather/) patterns.*
-2. Fixed [or](/en/post/or/) established. *[Example](/en/post/example/): [The](/en/post/the/) [term](/en/post/term/) [deposit](/en/post/deposit/) is required [to](/en/post/to/) [secure](/en/post/secure/) [the](/en/post/the/) [apartment](/en/post/apartment/).*
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [period](/post/period/) [or](/post/or/) [phase](/post/phase/). *[Example](/post/example/): [The](/post/the/) [term](/post/term/) [climate](/post/climate/) [change](/post/change/) describes [the](/post/the/) long-term [shift](/post/shift/) [in](/post/in/) [weather](/post/weather/) patterns.*
+2. Fixed [or](/post/or/) established. *[Example](/post/example/): [The](/post/the/) [term](/post/term/) [deposit](/post/deposit/) is required [to](/post/to/) [secure](/post/secure/) [the](/post/the/) [apartment](/post/apartment/).*
 
 ## Phrases
-- "[Use](/en/post/use/) [a](/en/post/a/) [term](/en/post/term/) [for](/en/post/for/) [something](/en/post/something/)" implies giving [it](/en/post/it/) [a](/en/post/a/) [specific](/en/post/specific/) [name](/en/post/name/) [or](/en/post/or/) [classification](/en/post/classification/).
-- "[Term](/en/post/term/) [paper](/en/post/paper/)" is [a](/en/post/a/) [common](/en/post/common/) [academic](/en/post/academic/) [assignment](/en/post/assignment/).
-- "Long-term goals" are objectives [that](/en/post/that/) [extend](/en/post/extend/) [over](/en/post/over/) [a](/en/post/a/) [significant](/en/post/significant/) [period](/en/post/period/).
+- "[Use](/post/use/) [a](/post/a/) [term](/post/term/) [for](/post/for/) [something](/post/something/)" implies giving [it](/post/it/) [a](/post/a/) [specific](/post/specific/) [name](/post/name/) [or](/post/or/) [classification](/post/classification/).
+- "[Term](/post/term/) [paper](/post/paper/)" is [a](/post/a/) [common](/post/common/) [academic](/post/academic/) [assignment](/post/assignment/).
+- "Long-term goals" are objectives [that](/post/that/) [extend](/post/extend/) [over](/post/over/) [a](/post/a/) [significant](/post/significant/) [period](/post/period/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [term](/en/post/term/) 'sustainability' has gained [importance](/en/post/importance/) [in](/en/post/in/) [recent](/en/post/recent/) years."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) coined [a](/en/post/a/) [new](/en/post/new/) [term](/en/post/term/) [for](/en/post/for/) [the](/en/post/the/) [phenomenon](/en/post/phenomenon/) [he](/en/post/he/) observed."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [term](/en/post/term/) [as](/en/post/as/) [president](/en/post/president/) lasted [two](/en/post/two/) years."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [term](/post/term/) 'sustainability' has gained [importance](/post/importance/) [in](/post/in/) [recent](/post/recent/) years."
+- **[Verb](/post/verb/)**: "[He](/post/he/) coined [a](/post/a/) [new](/post/new/) [term](/post/term/) [for](/post/for/) [the](/post/the/) [phenomenon](/post/phenomenon/) [he](/post/he/) observed."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [term](/post/term/) [as](/post/as/) [president](/post/president/) lasted [two](/post/two/) years."
 
 ## Synonyms
-- [Name](/en/post/name/)
-- [Label](/en/post/label/)
-- [Phrase](/en/post/phrase/)
-- [Expression](/en/post/expression/)
-- [Era](/en/post/era/)
-- [Period](/en/post/period/)
-- [Duration](/en/post/duration/)
-- [Condition](/en/post/condition/)
-- [Stage](/en/post/stage/)
+- [Name](/post/name/)
+- [Label](/post/label/)
+- [Phrase](/post/phrase/)
+- [Expression](/post/expression/)
+- [Era](/post/era/)
+- [Period](/post/period/)
+- [Duration](/post/duration/)
+- [Condition](/post/condition/)
+- [Stage](/post/stage/)

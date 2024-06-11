@@ -7,26 +7,26 @@ description = '[lest] conj.惟恐，以免'
 keywords = ['ai words', 'lest']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lɛst/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)/[Conjunction](/en/post/conjunction/)**: Expressing [fear](/en/post/fear/) [that](/en/post/that/) [something](/en/post/something/) undesirable [might](/en/post/might/) [happen](/en/post/happen/); [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) preventing [something](/en/post/something/) undesirable. [It](/en/post/it/) introduces [a](/en/post/a/) clause expressing [a](/en/post/a/) [consequence](/en/post/consequence/) [to](/en/post/to/) [be](/en/post/be/) avoided. 
+- **[Adverb](/post/adverb/)/[Conjunction](/post/conjunction/)**: Expressing [fear](/post/fear/) [that](/post/that/) [something](/post/something/) undesirable [might](/post/might/) [happen](/post/happen/); [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) preventing [something](/post/something/) undesirable. [It](/post/it/) introduces [a](/post/a/) clause expressing [a](/post/a/) [consequence](/post/consequence/) [to](/post/to/) [be](/post/be/) avoided. 
 
-[Example](/en/post/example/) [definition](/en/post/definition/) [usage](/en/post/usage/):
-- **[Adverb](/en/post/adverb/)**: [He](/en/post/he/) worked diligently [on](/en/post/on/) [his](/en/post/his/) [project](/en/post/project/) [lest](/en/post/lest/) [he](/en/post/he/) [fail](/en/post/fail/) [the](/en/post/the/) [class](/en/post/class/).
-- **[Conjunction](/en/post/conjunction/)**: [She](/en/post/she/) double-checked [her](/en/post/her/) notes [lest](/en/post/lest/) [she](/en/post/she/) [miss](/en/post/miss/) [any](/en/post/any/) [important](/en/post/important/) details [during](/en/post/during/) [the](/en/post/the/) presentation.
+[Example](/post/example/) [definition](/post/definition/) [usage](/post/usage/):
+- **[Adverb](/post/adverb/)**: [He](/post/he/) worked diligently [on](/post/on/) [his](/post/his/) [project](/post/project/) [lest](/post/lest/) [he](/post/he/) [fail](/post/fail/) [the](/post/the/) [class](/post/class/).
+- **[Conjunction](/post/conjunction/)**: [She](/post/she/) double-checked [her](/post/her/) notes [lest](/post/lest/) [she](/post/she/) [miss](/post/miss/) [any](/post/any/) [important](/post/important/) details [during](/post/during/) [the](/post/the/) presentation.
 
 ## Phrases
-- "[Lest](/en/post/lest/) [we](/en/post/we/) [forget](/en/post/forget/)": [A](/en/post/a/) [phrase](/en/post/phrase/) [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) remembrance events, urging [people](/en/post/people/) [not](/en/post/not/) [to](/en/post/to/) [forget](/en/post/forget/) [significant](/en/post/significant/) events [or](/en/post/or/) sacrifices made [by](/en/post/by/) others.
+- "[Lest](/post/lest/) [we](/post/we/) [forget](/post/forget/)": [A](/post/a/) [phrase](/post/phrase/) [often](/post/often/) [used](/post/used/) [in](/post/in/) remembrance events, urging [people](/post/people/) [not](/post/not/) [to](/post/to/) [forget](/post/forget/) [significant](/post/significant/) events [or](/post/or/) sacrifices made [by](/post/by/) others.
   
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: [The](/en/post/the/) students revised thoroughly [lest](/en/post/lest/) [they](/en/post/they/) [should](/en/post/should/) [fail](/en/post/fail/) [the](/en/post/the/) [exam](/en/post/exam/).
-- **[Conjunction](/en/post/conjunction/)**: [Bring](/en/post/bring/) [a](/en/post/a/) [map](/en/post/map/) [with](/en/post/with/) [you](/en/post/you/) [lest](/en/post/lest/) [you](/en/post/you/) [get](/en/post/get/) lost [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/).
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: [The](/post/the/) students revised thoroughly [lest](/post/lest/) [they](/post/they/) [should](/post/should/) [fail](/post/fail/) [the](/post/the/) [exam](/post/exam/).
+- **[Conjunction](/post/conjunction/)**: [Bring](/post/bring/) [a](/post/a/) [map](/post/map/) [with](/post/with/) [you](/post/you/) [lest](/post/lest/) [you](/post/you/) [get](/post/get/) lost [in](/post/in/) [the](/post/the/) [city](/post/city/).
 
 ## Synonyms
-- [In](/en/post/in/) [case](/en/post/case/) ([that](/en/post/that/))
-- [For](/en/post/for/) [fear](/en/post/fear/) ([that](/en/post/that/))
-- [So](/en/post/so/) [as](/en/post/as/) [not](/en/post/not/) ([to](/en/post/to/))
-- [To](/en/post/to/) [avoid](/en/post/avoid/) ([the](/en/post/the/) [possibility](/en/post/possibility/) [of](/en/post/of/))
-- [To](/en/post/to/) [prevent](/en/post/prevent/) ([from](/en/post/from/))
+- [In](/post/in/) [case](/post/case/) ([that](/post/that/))
+- [For](/post/for/) [fear](/post/fear/) ([that](/post/that/))
+- [So](/post/so/) [as](/post/as/) [not](/post/not/) ([to](/post/to/))
+- [To](/post/to/) [avoid](/post/avoid/) ([the](/post/the/) [possibility](/post/possibility/) [of](/post/of/))
+- [To](/post/to/) [prevent](/post/prevent/) ([from](/post/from/))

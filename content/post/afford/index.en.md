@@ -7,45 +7,45 @@ description = '[əˈfɔːd] vt.担负得起…；提供'
 keywords = ['ai words', 'afford']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈfɔːrd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [financial](/en/post/financial/) [means](/en/post/means/) [to](/en/post/to/) [buy](/en/post/buy/) [or](/en/post/or/) [support](/en/post/support/) [something](/en/post/something/): *I can't [afford](/en/post/afford/) [that](/en/post/that/) [expensive](/en/post/expensive/) [car](/en/post/car/).*
-2. [Capacity](/en/post/capacity/) [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) [undertake](/en/post/undertake/) [or](/en/post/or/) [provide](/en/post/provide/) (sth.): *[She](/en/post/she/) has [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [afford](/en/post/afford/) [a](/en/post/a/) [vacation](/en/post/vacation/) [this](/en/post/this/) [year](/en/post/year/).*
-3. [Possession](/en/post/possession/) [or](/en/post/or/) [access](/en/post/access/) [to](/en/post/to/) [sufficient](/en/post/sufficient/) resources: *[They](/en/post/they/) can't [afford](/en/post/afford/) healthcare [due](/en/post/due/) [to](/en/post/to/) [their](/en/post/their/) [low](/en/post/low/) [income](/en/post/income/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [financial](/post/financial/) [means](/post/means/) [to](/post/to/) [buy](/post/buy/) [or](/post/or/) [support](/post/support/) [something](/post/something/): *I can't [afford](/post/afford/) [that](/post/that/) [expensive](/post/expensive/) [car](/post/car/).*
+2. [Capacity](/post/capacity/) [or](/post/or/) [ability](/post/ability/) [to](/post/to/) [undertake](/post/undertake/) [or](/post/or/) [provide](/post/provide/) (sth.): *[She](/post/she/) has [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [afford](/post/afford/) [a](/post/a/) [vacation](/post/vacation/) [this](/post/this/) [year](/post/year/).*
+3. [Possession](/post/possession/) [or](/post/or/) [access](/post/access/) [to](/post/to/) [sufficient](/post/sufficient/) resources: *[They](/post/they/) can't [afford](/post/afford/) healthcare [due](/post/due/) [to](/post/to/) [their](/post/their/) [low](/post/low/) [income](/post/income/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [have](/en/post/have/) [enough](/en/post/enough/) [money](/en/post/money/) [or](/en/post/or/) resources [to](/en/post/to/) [buy](/en/post/buy/), [pay](/en/post/pay/) [for](/en/post/for/), [or](/en/post/or/) [manage](/en/post/manage/) (sth.): *[We](/en/post/we/) can't [afford](/en/post/afford/) [the](/en/post/the/) [rent](/en/post/rent/) [increase](/en/post/increase/).*
-2. [To](/en/post/to/) [be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/) [provide](/en/post/provide/) [or](/en/post/or/) [do](/en/post/do/) [something](/en/post/something/) [without](/en/post/without/) [strain](/en/post/strain/): *[She](/en/post/she/) afforded [herself](/en/post/herself/) [a](/en/post/a/) [day](/en/post/day/) [off](/en/post/off/) [after](/en/post/after/) weeks [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [have](/post/have/) [enough](/post/enough/) [money](/post/money/) [or](/post/or/) resources [to](/post/to/) [buy](/post/buy/), [pay](/post/pay/) [for](/post/for/), [or](/post/or/) [manage](/post/manage/) (sth.): *[We](/post/we/) can't [afford](/post/afford/) [the](/post/the/) [rent](/post/rent/) [increase](/post/increase/).*
+2. [To](/post/to/) [be](/post/be/) [able](/post/able/) [to](/post/to/) [provide](/post/provide/) [or](/post/or/) [do](/post/do/) [something](/post/something/) [without](/post/without/) [strain](/post/strain/): *[She](/post/she/) afforded [herself](/post/herself/) [a](/post/a/) [day](/post/day/) [off](/post/off/) [after](/post/after/) weeks [of](/post/of/) [hard](/post/hard/) [work](/post/work/).*
 
-### [Adjective](/en/post/adjective/)
-1. [Capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) purchased [or](/en/post/or/) [provided](/en/post/provided/) [for](/en/post/for/): *An affordable [apartment](/en/post/apartment/).*
+### [Adjective](/post/adjective/)
+1. [Capable](/post/capable/) [of](/post/of/) [being](/post/being/) purchased [or](/post/or/) [provided](/post/provided/) [for](/post/for/): *An affordable [apartment](/post/apartment/).*
 
 ## Phrases
-- "Can't [afford](/en/post/afford/) [it](/en/post/it/)" expresses inability [to](/en/post/to/) [purchase](/en/post/purchase/) [or](/en/post/or/) [pay](/en/post/pay/) [for](/en/post/for/) [something](/en/post/something/).
-- "[Afford](/en/post/afford/) [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [risk](/en/post/risk/)" [means](/en/post/means/) having [enough](/en/post/enough/) resources [to](/en/post/to/) [bear](/en/post/bear/) [the](/en/post/the/) consequences [of](/en/post/of/) [a](/en/post/a/) risky [decision](/en/post/decision/).
-- "[Be](/en/post/be/) [unable](/en/post/unable/) [to](/en/post/to/) [afford](/en/post/afford/)" highlights [lack](/en/post/lack/) [of](/en/post/of/) [financial](/en/post/financial/) capability.
+- "Can't [afford](/post/afford/) [it](/post/it/)" expresses inability [to](/post/to/) [purchase](/post/purchase/) [or](/post/or/) [pay](/post/pay/) [for](/post/for/) [something](/post/something/).
+- "[Afford](/post/afford/) [to](/post/to/) [take](/post/take/) [a](/post/a/) [risk](/post/risk/)" [means](/post/means/) having [enough](/post/enough/) resources [to](/post/to/) [bear](/post/bear/) [the](/post/the/) consequences [of](/post/of/) [a](/post/a/) risky [decision](/post/decision/).
+- "[Be](/post/be/) [unable](/post/unable/) [to](/post/to/) [afford](/post/afford/)" highlights [lack](/post/lack/) [of](/post/of/) [financial](/post/financial/) capability.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I'm struggling [to](/en/post/to/) [afford](/en/post/afford/) [my](/en/post/my/) [student](/en/post/student/) loans."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [could](/en/post/could/) barely [afford](/en/post/afford/) [to](/en/post/to/) [eat](/en/post/eat/) [out](/en/post/out/) [once](/en/post/once/) [a](/en/post/a/) [month](/en/post/month/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [apartment](/en/post/apartment/) was [within](/en/post/within/) [his](/en/post/his/) affordable [price](/en/post/price/) [range](/en/post/range/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I'm struggling [to](/post/to/) [afford](/post/afford/) [my](/post/my/) [student](/post/student/) loans."
+- **[Verb](/post/verb/)**: "[She](/post/she/) [could](/post/could/) barely [afford](/post/afford/) [to](/post/to/) [eat](/post/eat/) [out](/post/out/) [once](/post/once/) [a](/post/a/) [month](/post/month/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [apartment](/post/apartment/) was [within](/post/within/) [his](/post/his/) affordable [price](/post/price/) [range](/post/range/)."
 
 ## Synonyms
-- [Manage](/en/post/manage/)
-- [Accommodate](/en/post/accommodate/)
-- [Provide](/en/post/provide/) [for](/en/post/for/)
-- [Support](/en/post/support/)
-- [Bear](/en/post/bear/)
-- [Purchase](/en/post/purchase/)
-- [Finance](/en/post/finance/)
-- [Secure](/en/post/secure/)
+- [Manage](/post/manage/)
+- [Accommodate](/post/accommodate/)
+- [Provide](/post/provide/) [for](/post/for/)
+- [Support](/post/support/)
+- [Bear](/post/bear/)
+- [Purchase](/post/purchase/)
+- [Finance](/post/finance/)
+- [Secure](/post/secure/)
 
 ## Antonyms
 - Indebted
 - Impoverished
 -拮据
-- [Insufficient](/en/post/insufficient/)
+- [Insufficient](/post/insufficient/)
 - Unaffordable

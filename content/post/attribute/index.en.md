@@ -7,34 +7,34 @@ description = '[əˈtribju(ː)t] vt.把…归因于 n.属性'
 keywords = ['ai words', 'attribute']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈtrɪbjuːt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [characteristic](/en/post/characteristic/) [or](/en/post/or/) [quality](/en/post/quality/) belonging [to](/en/post/to/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/); [a](/en/post/a/) [feature](/en/post/feature/) [or](/en/post/or/) [attribute](/en/post/attribute/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) creativity is [one](/en/post/one/) [of](/en/post/of/) [her](/en/post/her/) [many](/en/post/many/) attributes."
-2. [A](/en/post/a/) trait [or](/en/post/or/) [personal](/en/post/personal/) [possession](/en/post/possession/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) attributed [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/), [such](/en/post/such/) [as](/en/post/as/) [intelligence](/en/post/intelligence/) [or](/en/post/or/) [kindness](/en/post/kindness/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [ability](/en/post/ability/) [to](/en/post/to/) [solve](/en/post/solve/) problems is an admirable [attribute](/en/post/attribute/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [characteristic](/post/characteristic/) [or](/post/or/) [quality](/post/quality/) belonging [to](/post/to/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/); [a](/post/a/) [feature](/post/feature/) [or](/post/or/) [attribute](/post/attribute/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) creativity is [one](/post/one/) [of](/post/of/) [her](/post/her/) [many](/post/many/) attributes."
+2. [A](/post/a/) trait [or](/post/or/) [personal](/post/personal/) [possession](/post/possession/) [that](/post/that/) [can](/post/can/) [be](/post/be/) attributed [to](/post/to/) [a](/post/a/) [person](/post/person/), [such](/post/such/) [as](/post/as/) [intelligence](/post/intelligence/) [or](/post/or/) [kindness](/post/kindness/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [ability](/post/ability/) [to](/post/to/) [solve](/post/solve/) problems is an admirable [attribute](/post/attribute/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) ascribe [or](/en/post/or/) [attribute](/en/post/attribute/) [a](/en/post/a/) [quality](/en/post/quality/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [to](/en/post/to/) ([a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/)). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [attribute](/en/post/attribute/) [this](/en/post/this/) [success](/en/post/success/) [to](/en/post/to/) [hard](/en/post/hard/) [work](/en/post/work/) [and](/en/post/and/) dedication."
-2. [To](/en/post/to/) [relate](/en/post/relate/) [or](/en/post/or/) [connect](/en/post/connect/) (an [event](/en/post/event/) [or](/en/post/or/) [outcome](/en/post/outcome/)) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [factor](/en/post/factor/) [or](/en/post/or/) [person](/en/post/person/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's [growth](/en/post/growth/) [can](/en/post/can/) [be](/en/post/be/) attributed [to](/en/post/to/) innovative marketing strategies."
+### [Verb](/post/verb/)
+1. [To](/post/to/) ascribe [or](/post/or/) [attribute](/post/attribute/) [a](/post/a/) [quality](/post/quality/) [or](/post/or/) [characteristic](/post/characteristic/) [to](/post/to/) ([a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/)). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [attribute](/post/attribute/) [this](/post/this/) [success](/post/success/) [to](/post/to/) [hard](/post/hard/) [work](/post/work/) [and](/post/and/) dedication."
+2. [To](/post/to/) [relate](/post/relate/) [or](/post/or/) [connect](/post/connect/) (an [event](/post/event/) [or](/post/or/) [outcome](/post/outcome/)) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [factor](/post/factor/) [or](/post/or/) [person](/post/person/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's [growth](/post/growth/) [can](/post/can/) [be](/post/be/) attributed [to](/post/to/) innovative marketing strategies."
 
 ## Phrases
-- "[Attribute](/en/post/attribute/) [blame](/en/post/blame/) [to](/en/post/to/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [hold](/en/post/hold/) [someone](/en/post/someone/) [responsible](/en/post/responsible/) [for](/en/post/for/) an [error](/en/post/error/) [or](/en/post/or/) misfortune.
-- "[Attribute](/en/post/attribute/) [importance](/en/post/importance/) [to](/en/post/to/) [something](/en/post/something/)" implies giving [significance](/en/post/significance/) [or](/en/post/or/) [value](/en/post/value/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [aspect](/en/post/aspect/).
-- "[Attribute](/en/post/attribute/) [a](/en/post/a/) [skill](/en/post/skill/) [to](/en/post/to/) [someone](/en/post/someone/)" refers [to](/en/post/to/) recognizing [or](/en/post/or/) acknowledging [their](/en/post/their/) expertise [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/).
+- "[Attribute](/post/attribute/) [blame](/post/blame/) [to](/post/to/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [hold](/post/hold/) [someone](/post/someone/) [responsible](/post/responsible/) [for](/post/for/) an [error](/post/error/) [or](/post/or/) misfortune.
+- "[Attribute](/post/attribute/) [importance](/post/importance/) [to](/post/to/) [something](/post/something/)" implies giving [significance](/post/significance/) [or](/post/or/) [value](/post/value/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [aspect](/post/aspect/).
+- "[Attribute](/post/attribute/) [a](/post/a/) [skill](/post/skill/) [to](/post/to/) [someone](/post/someone/)" refers [to](/post/to/) recognizing [or](/post/or/) acknowledging [their](/post/their/) expertise [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [patience](/en/post/patience/) [and](/en/post/and/) resilience are [valuable](/en/post/valuable/) attributes [in](/en/post/in/) managing [stress](/en/post/stress/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [team](/en/post/team/) attributed [their](/en/post/their/) [victory](/en/post/victory/) [to](/en/post/to/) [the](/en/post/the/) captain's [leadership](/en/post/leadership/)."
-- **Phrasal [Verb](/en/post/verb/)**: "Don't [attribute](/en/post/attribute/) [your](/en/post/your/) [failure](/en/post/failure/) [to](/en/post/to/) [bad](/en/post/bad/) [luck](/en/post/luck/); [it](/en/post/it/) was [mostly](/en/post/mostly/) [due](/en/post/due/) [to](/en/post/to/) [lack](/en/post/lack/) [of](/en/post/of/) [preparation](/en/post/preparation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [patience](/post/patience/) [and](/post/and/) resilience are [valuable](/post/valuable/) attributes [in](/post/in/) managing [stress](/post/stress/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [team](/post/team/) attributed [their](/post/their/) [victory](/post/victory/) [to](/post/to/) [the](/post/the/) captain's [leadership](/post/leadership/)."
+- **Phrasal [Verb](/post/verb/)**: "Don't [attribute](/post/attribute/) [your](/post/your/) [failure](/post/failure/) [to](/post/to/) [bad](/post/bad/) [luck](/post/luck/); [it](/post/it/) was [mostly](/post/mostly/) [due](/post/due/) [to](/post/to/) [lack](/post/lack/) [of](/post/of/) [preparation](/post/preparation/)."
 
 ## Synonyms
-- [Quality](/en/post/quality/)
-- [Feature](/en/post/feature/)
+- [Quality](/post/quality/)
+- [Feature](/post/feature/)
 - Trait
-- [Property](/en/post/property/)
-- [Merit](/en/post/merit/)
-- [Virtue](/en/post/virtue/)
-- [Characteristic](/en/post/characteristic/)
-- [Attribute](/en/post/attribute/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [can](/en/post/can/) [be](/en/post/be/) replaced [with](/en/post/with/) "[owe](/en/post/owe/)" [or](/en/post/or/) "[credit](/en/post/credit/)")
+- [Property](/post/property/)
+- [Merit](/post/merit/)
+- [Virtue](/post/virtue/)
+- [Characteristic](/post/characteristic/)
+- [Attribute](/post/attribute/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/) [can](/post/can/) [be](/post/be/) replaced [with](/post/with/) "[owe](/post/owe/)" [or](/post/or/) "[credit](/post/credit/)")

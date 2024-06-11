@@ -7,43 +7,43 @@ description = '[speis] n.空间；场地；空白'
 keywords = ['ai words', 'space']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /speɪs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - [A](/en/post/a/) [blank](/en/post/blank/) [or](/en/post/or/) unoccupied [area](/en/post/area/) [between](/en/post/between/) words [or](/en/post/or/) items: "[There](/en/post/there/) is [plenty](/en/post/plenty/) [of](/en/post/of/) [space](/en/post/space/) [on](/en/post/on/) [the](/en/post/the/) [page](/en/post/page/)."
-  - [The](/en/post/the/) [physical](/en/post/physical/) [region](/en/post/region/) [or](/en/post/or/) [extent](/en/post/extent/) occupied [by](/en/post/by/) [something](/en/post/something/): "[The](/en/post/the/) [spacecraft](/en/post/spacecraft/) requires [a](/en/post/a/) [large](/en/post/large/) [living](/en/post/living/) [space](/en/post/space/)."
-  - [A](/en/post/a/) [gap](/en/post/gap/) [or](/en/post/or/) [interval](/en/post/interval/) [in](/en/post/in/) [time](/en/post/time/) [or](/en/post/or/) [sequence](/en/post/sequence/): "[There](/en/post/there/) was [a](/en/post/a/) [long](/en/post/long/) [space](/en/post/space/) [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) events."
-  - [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [room](/en/post/room/) [available](/en/post/available/): "[We](/en/post/we/) [need](/en/post/need/) [more](/en/post/more/) [space](/en/post/space/) [to](/en/post/to/) [store](/en/post/store/) [the](/en/post/the/) [furniture](/en/post/furniture/)."
-  - [A](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/) [or](/en/post/or/) [dimension](/en/post/dimension/): "[The](/en/post/the/) [solar](/en/post/solar/) [system](/en/post/system/) has [vast](/en/post/vast/) cosmic [space](/en/post/space/)."
+- **[Noun](/post/noun/)**: 
+  - [A](/post/a/) [blank](/post/blank/) [or](/post/or/) unoccupied [area](/post/area/) [between](/post/between/) words [or](/post/or/) items: "[There](/post/there/) is [plenty](/post/plenty/) [of](/post/of/) [space](/post/space/) [on](/post/on/) [the](/post/the/) [page](/post/page/)."
+  - [The](/post/the/) [physical](/post/physical/) [region](/post/region/) [or](/post/or/) [extent](/post/extent/) occupied [by](/post/by/) [something](/post/something/): "[The](/post/the/) [spacecraft](/post/spacecraft/) requires [a](/post/a/) [large](/post/large/) [living](/post/living/) [space](/post/space/)."
+  - [A](/post/a/) [gap](/post/gap/) [or](/post/or/) [interval](/post/interval/) [in](/post/in/) [time](/post/time/) [or](/post/or/) [sequence](/post/sequence/): "[There](/post/there/) was [a](/post/a/) [long](/post/long/) [space](/post/space/) [between](/post/between/) [the](/post/the/) [two](/post/two/) events."
+  - [The](/post/the/) [amount](/post/amount/) [of](/post/of/) [room](/post/room/) [available](/post/available/): "[We](/post/we/) [need](/post/need/) [more](/post/more/) [space](/post/space/) [to](/post/to/) [store](/post/store/) [the](/post/the/) [furniture](/post/furniture/)."
+  - [A](/post/a/) [particular](/post/particular/) [area](/post/area/) [or](/post/or/) [dimension](/post/dimension/): "[The](/post/the/) [solar](/post/solar/) [system](/post/system/) has [vast](/post/vast/) cosmic [space](/post/space/)."
 
-- **[Verb](/en/post/verb/)** (intransitive): [To](/en/post/to/) [occupy](/en/post/occupy/) [a](/en/post/a/) [certain](/en/post/certain/) [amount](/en/post/amount/) [of](/en/post/of/) [space](/en/post/space/): "[The](/en/post/the/) [box](/en/post/box/) filled [up](/en/post/up/) [quickly](/en/post/quickly/) [with](/en/post/with/) books."
-- **[Verb](/en/post/verb/)** (transitive): [To](/en/post/to/) [leave](/en/post/leave/) [room](/en/post/room/) [for](/en/post/for/) [or](/en/post/or/) [make](/en/post/make/) [room](/en/post/room/) [for](/en/post/for/) [something](/en/post/something/): "[She](/en/post/she/) spaced [the](/en/post/the/) chairs evenly [around](/en/post/around/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Preposition](/en/post/preposition/)**: [To](/en/post/to/) [be](/en/post/be/) [apart](/en/post/apart/) [from](/en/post/from/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [in](/en/post/in/) terms [of](/en/post/of/) [time](/en/post/time/) [or](/en/post/or/) [location](/en/post/location/): "[They](/en/post/they/) [live](/en/post/live/) [several](/en/post/several/) miles [space](/en/post/space/) [from](/en/post/from/) [each](/en/post/each/) [other](/en/post/other/)."
+- **[Verb](/post/verb/)** (intransitive): [To](/post/to/) [occupy](/post/occupy/) [a](/post/a/) [certain](/post/certain/) [amount](/post/amount/) [of](/post/of/) [space](/post/space/): "[The](/post/the/) [box](/post/box/) filled [up](/post/up/) [quickly](/post/quickly/) [with](/post/with/) books."
+- **[Verb](/post/verb/)** (transitive): [To](/post/to/) [leave](/post/leave/) [room](/post/room/) [for](/post/for/) [or](/post/or/) [make](/post/make/) [room](/post/room/) [for](/post/for/) [something](/post/something/): "[She](/post/she/) spaced [the](/post/the/) chairs evenly [around](/post/around/) [the](/post/the/) [table](/post/table/)."
+- **[Preposition](/post/preposition/)**: [To](/post/to/) [be](/post/be/) [apart](/post/apart/) [from](/post/from/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [in](/post/in/) terms [of](/post/of/) [time](/post/time/) [or](/post/or/) [location](/post/location/): "[They](/post/they/) [live](/post/live/) [several](/post/several/) miles [space](/post/space/) [from](/post/from/) [each](/post/each/) [other](/post/other/)."
 
 ## Phrases
-- "[Space](/en/post/space/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) [arrange](/en/post/arrange/) things [at](/en/post/at/) [regular](/en/post/regular/) intervals [or](/en/post/or/) [to](/en/post/to/) [leave](/en/post/leave/) [enough](/en/post/enough/) [room](/en/post/room/) [between](/en/post/between/) [them](/en/post/them/).
-- "[Personal](/en/post/personal/) [space](/en/post/space/)" refers [to](/en/post/to/) [the](/en/post/the/) [private](/en/post/private/) [area](/en/post/area/) [around](/en/post/around/) [a](/en/post/a/) [person](/en/post/person/) [they](/en/post/they/) [consider](/en/post/consider/) inviolate.
-- "[In](/en/post/in/) [space](/en/post/space/)" indicates [outer](/en/post/outer/) [space](/en/post/space/) [or](/en/post/or/) [beyond](/en/post/beyond/) Earth's [atmosphere](/en/post/atmosphere/).
+- "[Space](/post/space/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) [arrange](/post/arrange/) things [at](/post/at/) [regular](/post/regular/) intervals [or](/post/or/) [to](/post/to/) [leave](/post/leave/) [enough](/post/enough/) [room](/post/room/) [between](/post/between/) [them](/post/them/).
+- "[Personal](/post/personal/) [space](/post/space/)" refers [to](/post/to/) [the](/post/the/) [private](/post/private/) [area](/post/area/) [around](/post/around/) [a](/post/a/) [person](/post/person/) [they](/post/they/) [consider](/post/consider/) inviolate.
+- "[In](/post/in/) [space](/post/space/)" indicates [outer](/post/outer/) [space](/post/space/) [or](/post/or/) [beyond](/post/beyond/) Earth's [atmosphere](/post/atmosphere/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) decorated [the](/en/post/the/) [room](/en/post/room/) [with](/en/post/with/) plants [to](/en/post/to/) [fill](/en/post/fill/) [the](/en/post/the/) [empty](/en/post/empty/) [space](/en/post/space/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) spaced [the](/en/post/the/) flowers [to](/en/post/to/) [allow](/en/post/allow/) [for](/en/post/for/) [proper](/en/post/proper/) [growth](/en/post/growth/)."
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) [astronaut](/en/post/astronaut/) maintained [a](/en/post/a/) [safe](/en/post/safe/) [distance](/en/post/distance/) [in](/en/post/in/) [space](/en/post/space/) [from](/en/post/from/) [the](/en/post/the/) approaching [satellite](/en/post/satellite/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) decorated [the](/post/the/) [room](/post/room/) [with](/post/with/) plants [to](/post/to/) [fill](/post/fill/) [the](/post/the/) [empty](/post/empty/) [space](/post/space/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [gardener](/post/gardener/) spaced [the](/post/the/) flowers [to](/post/to/) [allow](/post/allow/) [for](/post/for/) [proper](/post/proper/) [growth](/post/growth/)."
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) [astronaut](/post/astronaut/) maintained [a](/post/a/) [safe](/post/safe/) [distance](/post/distance/) [in](/post/in/) [space](/post/space/) [from](/post/from/) [the](/post/the/) approaching [satellite](/post/satellite/)."
 
 ## Synonyms
 - Void
-- [Gap](/en/post/gap/)
-- [Area](/en/post/area/)
-- [Room](/en/post/room/)
-- [Distance](/en/post/distance/)
-- [Interval](/en/post/interval/)
-- [Zone](/en/post/zone/)
+- [Gap](/post/gap/)
+- [Area](/post/area/)
+- [Room](/post/room/)
+- [Distance](/post/distance/)
+- [Interval](/post/interval/)
+- [Zone](/post/zone/)
 
 ## Antonyms
 - Crowded
 - Jammed
 - Occupied
-- [Dense](/en/post/dense/)
+- [Dense](/post/dense/)
 - Constricted

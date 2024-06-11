@@ -11,19 +11,19 @@ keywords = ['ai words', 'robber']
 /ˈrɑːbər/
 
 ## 释义
-- **名词** (n): 抢劫者，盗贼。指的是非法夺取他人财物的人。例如: "[The](/post/the/) [robber](/post/robber/) was caught [by](/post/by/) [the](/post/the/) [police](/post/police/) [after](/post/after/) [a](/post/a/) [chase](/post/chase/)."
-- **动词** (v): 抢劫，盗窃。指非法夺取他人的财物行为。例如: "[He](/post/he/) robbed [the](/post/the/) [bank](/post/bank/) [at](/post/at/) gunpoint."
+- **名词** (n): 抢劫者，盗贼。指的是非法夺取他人财物的人。例如: "[The](/zh/post/the/) [robber](/zh/post/robber/) was caught [by](/zh/post/by/) [the](/zh/post/the/) [police](/zh/post/police/) [after](/zh/post/after/) [a](/zh/post/a/) [chase](/zh/post/chase/)."
+- **动词** (v): 抢劫，盗窃。指非法夺取他人的财物行为。例如: "[He](/zh/post/he/) robbed [the](/zh/post/the/) [bank](/zh/post/bank/) [at](/zh/post/at/) gunpoint."
 
 ## 短语
-- "[Robber](/post/robber/) baron" 指的是通过不正当手段聚敛财富的工业巨头。
-- "[Robbery](/post/robbery/)" 是抢劫行为的名词形式。
+- "[Robber](/zh/post/robber/) baron" 指的是通过不正当手段聚敛财富的工业巨头。
+- "[Robbery](/zh/post/robbery/)" 是抢劫行为的名词形式。
 
 ## 例句
-- 名词: "[The](/post/the/) [witness](/post/witness/) described [the](/post/the/) [robber](/post/robber/) [as](/post/as/) [a](/post/a/) [tall](/post/tall/) [man](/post/man/) wearing [a](/post/a/) [black](/post/black/) [mask](/post/mask/)."
-- 动词: "[The](/post/the/) [thief](/post/thief/) robbed the珠宝店 [in](/post/in/) [broad](/post/broad/) [daylight](/post/daylight/)."
+- 名词: "[The](/zh/post/the/) [witness](/zh/post/witness/) described [the](/zh/post/the/) [robber](/zh/post/robber/) [as](/zh/post/as/) [a](/zh/post/a/) [tall](/zh/post/tall/) [man](/zh/post/man/) wearing [a](/zh/post/a/) [black](/zh/post/black/) [mask](/zh/post/mask/)."
+- 动词: "[The](/zh/post/the/) [thief](/zh/post/thief/) robbed the珠宝店 [in](/zh/post/in/) [broad](/zh/post/broad/) [daylight](/zh/post/daylight/)."
 
 ## 同义词
-- [Thief](/post/thief/)
+- [Thief](/zh/post/thief/)
 - Bandit
 - Burglar
 - Pillager

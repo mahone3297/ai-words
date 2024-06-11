@@ -12,26 +12,26 @@ keywords = ['ai words', 'reach']
 
 ## 释义
 - **动词**:
-  1. 到达；抵达。例如: "[He](/post/he/) [finally](/post/finally/) reached [his](/post/his/) [destination](/post/destination/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [journey](/post/journey/)."
-  2. 能够触及；够到。例如: "I can't [reach](/post/reach/) [the](/post/the/) [book](/post/book/) [on](/post/on/) [the](/post/the/) [top](/post/top/) [shelf](/post/shelf/)."
-  3. 达到（某个水平或标准）。例如: "[The](/post/the/) company's profits [have](/post/have/) reached an all-time [high](/post/high/)."
-  4. 影响；触动。例如: "[His](/post/his/) words [really](/post/really/) reached [her](/post/her/) [heart](/post/heart/)."
+  1. 到达；抵达。例如: "[He](/zh/post/he/) [finally](/zh/post/finally/) reached [his](/zh/post/his/) [destination](/zh/post/destination/) [after](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [journey](/zh/post/journey/)."
+  2. 能够触及；够到。例如: "I can't [reach](/zh/post/reach/) [the](/zh/post/the/) [book](/zh/post/book/) [on](/zh/post/on/) [the](/zh/post/the/) [top](/zh/post/top/) [shelf](/zh/post/shelf/)."
+  3. 达到（某个水平或标准）。例如: "[The](/zh/post/the/) company's profits [have](/zh/post/have/) reached an all-time [high](/zh/post/high/)."
+  4. 影响；触动。例如: "[His](/zh/post/his/) words [really](/zh/post/really/) reached [her](/zh/post/her/) [heart](/zh/post/heart/)."
 
 - **名词**:
-  1. 范围；影响力。例如: "[The](/post/the/) [radio](/post/radio/) [station](/post/station/) has [a](/post/a/) [wide](/post/wide/) [reach](/post/reach/) [across](/post/across/) [the](/post/the/) [country](/post/country/)."
-  2. 可及的距离。例如: "[Her](/post/her/) arm's [reach](/post/reach/) is [not](/post/not/) [long](/post/long/) [enough](/post/enough/) [to](/post/to/) grab [the](/post/the/) [toy](/post/toy/)."
+  1. 范围；影响力。例如: "[The](/zh/post/the/) [radio](/zh/post/radio/) [station](/zh/post/station/) has [a](/zh/post/a/) [wide](/zh/post/wide/) [reach](/zh/post/reach/) [across](/zh/post/across/) [the](/zh/post/the/) [country](/zh/post/country/)."
+  2. 可及的距离。例如: "[Her](/zh/post/her/) arm's [reach](/zh/post/reach/) is [not](/zh/post/not/) [long](/zh/post/long/) [enough](/zh/post/enough/) [to](/zh/post/to/) grab [the](/zh/post/the/) [toy](/zh/post/toy/)."
 
 ## 短语
-- "[Within](/post/within/) [reach](/post/reach/)" 意为触手可及。
-- "[Out](/post/out/) [of](/post/of/) [reach](/post/reach/)" 意为无法触及或够不到。
+- "[Within](/zh/post/within/) [reach](/zh/post/reach/)" 意为触手可及。
+- "[Out](/zh/post/out/) [of](/zh/post/of/) [reach](/zh/post/reach/)" 意为无法触及或够不到。
 
 ## 例句
-- 动词: "[She](/post/she/) reached [for](/post/for/) [the](/post/the/) [phone](/post/phone/) [when](/post/when/) [it](/post/it/) rang."
-- 名词: "[His](/post/his/) [new](/post/new/) [invention](/post/invention/) has [a](/post/a/) [huge](/post/huge/) [commercial](/post/commercial/) [reach](/post/reach/)."
+- 动词: "[She](/zh/post/she/) reached [for](/zh/post/for/) [the](/zh/post/the/) [phone](/zh/post/phone/) [when](/zh/post/when/) [it](/zh/post/it/) rang."
+- 名词: "[His](/zh/post/his/) [new](/zh/post/new/) [invention](/zh/post/invention/) has [a](/zh/post/a/) [huge](/zh/post/huge/) [commercial](/zh/post/commercial/) [reach](/zh/post/reach/)."
 
 ## 同义词
-- [attain](/post/attain/)
-- [get](/post/get/) [to](/post/to/)
-- [arrive](/post/arrive/) [at](/post/at/)
-- [make](/post/make/) [it](/post/it/) [to](/post/to/)
-- [touch](/post/touch/)
+- [attain](/zh/post/attain/)
+- [get](/zh/post/get/) [to](/zh/post/to/)
+- [arrive](/zh/post/arrive/) [at](/zh/post/at/)
+- [make](/zh/post/make/) [it](/zh/post/it/) [to](/zh/post/to/)
+- [touch](/zh/post/touch/)

@@ -11,19 +11,19 @@ keywords = ['ai words', 'thoughtful']
 /ˈθɔːtfəl/
 
 ## 释义
-- **形容词**: 表示深思熟虑的，体贴入微的，考虑周到的。例如: "[She](/post/she/) was [thoughtful](/post/thoughtful/) [enough](/post/enough/) [to](/post/to/) [bring](/post/bring/) [me](/post/me/) [a](/post/a/) [cup](/post/cup/) [of](/post/of/) [tea](/post/tea/) [when](/post/when/) I was [feeling](/post/feeling/) [ill](/post/ill/)."
-- **名词**: 有时作名词使用，指深思的人或行为。例如: "[His](/post/his/) [thoughtful](/post/thoughtful/) [nature](/post/nature/) made [him](/post/him/) [a](/post/a/) [great](/post/great/) [problem](/post/problem/) solver."
+- **形容词**: 表示深思熟虑的，体贴入微的，考虑周到的。例如: "[She](/zh/post/she/) was [thoughtful](/zh/post/thoughtful/) [enough](/zh/post/enough/) [to](/zh/post/to/) [bring](/zh/post/bring/) [me](/zh/post/me/) [a](/zh/post/a/) [cup](/zh/post/cup/) [of](/zh/post/of/) [tea](/zh/post/tea/) [when](/zh/post/when/) I was [feeling](/zh/post/feeling/) [ill](/zh/post/ill/)."
+- **名词**: 有时作名词使用，指深思的人或行为。例如: "[His](/zh/post/his/) [thoughtful](/zh/post/thoughtful/) [nature](/zh/post/nature/) made [him](/zh/post/him/) [a](/zh/post/a/) [great](/zh/post/great/) [problem](/zh/post/problem/) solver."
 
 ## 短语
-- "[be](/post/be/) [thoughtful](/post/thoughtful/) [of](/post/of/) sb." 意为关心某人，为某人着想。
-- "[a](/post/a/) [thoughtful](/post/thoughtful/) [gesture](/post/gesture/)" 指的是体贴的举动。
+- "[be](/zh/post/be/) [thoughtful](/zh/post/thoughtful/) [of](/zh/post/of/) sb." 意为关心某人，为某人着想。
+- "[a](/zh/post/a/) [thoughtful](/zh/post/thoughtful/) [gesture](/zh/post/gesture/)" 指的是体贴的举动。
 
 ## 例句
-- 形容词: "Tom is [always](/post/always/) [so](/post/so/) [thoughtful](/post/thoughtful/); [he](/post/he/) remembered [my](/post/my/) [birthday](/post/birthday/) [and](/post/and/) sent [me](/post/me/) [a](/post/a/) [card](/post/card/)."
-- 名词: "[Her](/post/her/) [thoughtful](/post/thoughtful/) [approach](/post/approach/) [to](/post/to/) [the](/post/the/) [project](/post/project/) impressed [the](/post/the/) [whole](/post/whole/) [team](/post/team/)."
+- 形容词: "Tom is [always](/zh/post/always/) [so](/zh/post/so/) [thoughtful](/zh/post/thoughtful/); [he](/zh/post/he/) remembered [my](/zh/post/my/) [birthday](/zh/post/birthday/) [and](/zh/post/and/) sent [me](/zh/post/me/) [a](/zh/post/a/) [card](/zh/post/card/)."
+- 名词: "[Her](/zh/post/her/) [thoughtful](/zh/post/thoughtful/) [approach](/zh/post/approach/) [to](/zh/post/to/) [the](/zh/post/the/) [project](/zh/post/project/) impressed [the](/zh/post/the/) [whole](/zh/post/whole/) [team](/zh/post/team/)."
 
 ## 同义词
-- [Considerate](/post/considerate/)
+- [Considerate](/zh/post/considerate/)
 - Caring
 - Thoughtfulful
 - Mindful

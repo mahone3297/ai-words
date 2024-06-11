@@ -11,20 +11,20 @@ keywords = ['ai words', 'friction']
 /ˈfrɪkʃən/
 
 ## 释义
-- **名词**: 相互接触的物体间因相对运动或试图相对运动而产生的阻力或能量损失。例如: "[Friction](/post/friction/) causes [heat](/post/heat/) [due](/post/due/) [to](/post/to/) [the](/post/the/) rubbing [of](/post/of/) surfaces [together](/post/together/)."
-- **动词**: 形容由于冲突或不和谐而产生的紧张状态。例如: "[Their](/post/their/) [different](/post/different/) opinions created [friction](/post/friction/) [in](/post/in/) [the](/post/the/) [team](/post/team/)."
+- **名词**: 相互接触的物体间因相对运动或试图相对运动而产生的阻力或能量损失。例如: "[Friction](/zh/post/friction/) causes [heat](/zh/post/heat/) [due](/zh/post/due/) [to](/zh/post/to/) [the](/zh/post/the/) rubbing [of](/zh/post/of/) surfaces [together](/zh/post/together/)."
+- **动词**: 形容由于冲突或不和谐而产生的紧张状态。例如: "[Their](/zh/post/their/) [different](/zh/post/different/) opinions created [friction](/zh/post/friction/) [in](/zh/post/in/) [the](/zh/post/the/) [team](/zh/post/team/)."
 
 ## 短语
-- "[Reduce](/post/reduce/) [friction](/post/friction/)" 意味着减少阻力或使过程更顺畅。
-- "Frictional [force](/post/force/)" 是指由摩擦引起的力。
+- "[Reduce](/zh/post/reduce/) [friction](/zh/post/friction/)" 意味着减少阻力或使过程更顺畅。
+- "Frictional [force](/zh/post/force/)" 是指由摩擦引起的力。
 
 ## 例句
-- 名词: "[The](/post/the/) lubricant was [used](/post/used/) [to](/post/to/) [decrease](/post/decrease/) [the](/post/the/) [friction](/post/friction/) [between](/post/between/) [the](/post/the/) [machine](/post/machine/) parts."
-- 动词: "[The](/post/the/) manager tried [to](/post/to/) friction-proof [the](/post/the/) workflow [by](/post/by/) simplifying procedures.
+- 名词: "[The](/zh/post/the/) lubricant was [used](/zh/post/used/) [to](/zh/post/to/) [decrease](/zh/post/decrease/) [the](/zh/post/the/) [friction](/zh/post/friction/) [between](/zh/post/between/) [the](/zh/post/the/) [machine](/zh/post/machine/) parts."
+- 动词: "[The](/zh/post/the/) manager tried [to](/zh/post/to/) friction-proof [the](/zh/post/the/) workflow [by](/zh/post/by/) simplifying procedures.
 
 ## 同义词
-- [Resistance](/post/resistance/)
+- [Resistance](/zh/post/resistance/)
 - Tension
-- [Dispute](/post/dispute/)
-- [Conflict](/post/conflict/)
+- [Dispute](/zh/post/dispute/)
+- [Conflict](/zh/post/conflict/)
 - rubbing

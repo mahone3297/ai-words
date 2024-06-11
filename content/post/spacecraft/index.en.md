@@ -7,40 +7,40 @@ description = '[ˈspeiskrɑːft] n.航天器，宇宙飞船'
 keywords = ['ai words', 'spacecraft']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈspæسkaft/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [spacecraft](/en/post/spacecraft/) is [a](/en/post/a/) [vehicle](/en/post/vehicle/) designed [to](/en/post/to/) [travel](/en/post/travel/) [through](/en/post/through/) [outer](/en/post/outer/) [space](/en/post/space/), typically [used](/en/post/used/) [for](/en/post/for/) exploration, [research](/en/post/research/), [or](/en/post/or/) [transportation](/en/post/transportation/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [either](/en/post/either/) manned [or](/en/post/or/) unmanned [and](/en/post/and/) [may](/en/post/may/) [include](/en/post/include/) rockets, shuttles, satellites, [or](/en/post/or/) [other](/en/post/other/) specialized vehicles.
+### [Noun](/post/noun/)
+[A](/post/a/) [spacecraft](/post/spacecraft/) is [a](/post/a/) [vehicle](/post/vehicle/) designed [to](/post/to/) [travel](/post/travel/) [through](/post/through/) [outer](/post/outer/) [space](/post/space/), typically [used](/post/used/) [for](/post/for/) exploration, [research](/post/research/), [or](/post/or/) [transportation](/post/transportation/). [It](/post/it/) [can](/post/can/) [be](/post/be/) [either](/post/either/) manned [or](/post/or/) unmanned [and](/post/and/) [may](/post/may/) [include](/post/include/) rockets, shuttles, satellites, [or](/post/or/) [other](/post/other/) specialized vehicles.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [launch](/en/post/launch/) [or](/en/post/or/) [operate](/en/post/operate/) [a](/en/post/a/) [spacecraft](/en/post/spacecraft/), [usually](/en/post/usually/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) sending [it](/en/post/it/) [on](/en/post/on/) [a](/en/post/a/) [mission](/en/post/mission/) [or](/en/post/or/) [trip](/en/post/trip/) [through](/en/post/through/) [space](/en/post/space/).
+### [Verb](/post/verb/)
+[To](/post/to/) [launch](/post/launch/) [or](/post/or/) [operate](/post/operate/) [a](/post/a/) [spacecraft](/post/spacecraft/), [usually](/post/usually/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) sending [it](/post/it/) [on](/post/on/) [a](/post/a/) [mission](/post/mission/) [or](/post/or/) [trip](/post/trip/) [through](/post/through/) [space](/post/space/).
 
-### [Adjective](/en/post/adjective/)
-Referring [to](/en/post/to/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [or](/en/post/or/) [technology](/en/post/technology/) related [to](/en/post/to/) [space](/en/post/space/) [travel](/en/post/travel/).
+### [Adjective](/post/adjective/)
+Referring [to](/post/to/) [a](/post/a/) [vehicle](/post/vehicle/) [or](/post/or/) [technology](/post/technology/) related [to](/post/to/) [space](/post/space/) [travel](/post/travel/).
 
 ## Phrases
-- "Sending [a](/en/post/a/) [spacecraft](/en/post/spacecraft/) [into](/en/post/into/) [orbit](/en/post/orbit/)"
-- "[The](/en/post/the/) spacecraft's maiden [voyage](/en/post/voyage/)"
-- "[The](/en/post/the/) [International](/en/post/international/) [Space](/en/post/space/) [Station](/en/post/station/) is [a](/en/post/a/) collaborative [spacecraft](/en/post/spacecraft/)"
+- "Sending [a](/post/a/) [spacecraft](/post/spacecraft/) [into](/post/into/) [orbit](/post/orbit/)"
+- "[The](/post/the/) spacecraft's maiden [voyage](/post/voyage/)"
+- "[The](/post/the/) [International](/post/international/) [Space](/post/space/) [Station](/post/station/) is [a](/post/a/) collaborative [spacecraft](/post/spacecraft/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [spacecraft](/en/post/spacecraft/) [successfully](/en/post/successfully/) landed [on](/en/post/on/) Mars [after](/en/post/after/) months [of](/en/post/of/) [travel](/en/post/travel/)."
-- **[Verb](/en/post/verb/)**: "NASA [will](/en/post/will/) [soon](/en/post/soon/) [launch](/en/post/launch/) [a](/en/post/a/) [new](/en/post/new/) [spacecraft](/en/post/spacecraft/) [to](/en/post/to/) [study](/en/post/study/) [the](/en/post/the/) [sun](/en/post/sun/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [advanced](/en/post/advanced/) [spacecraft](/en/post/spacecraft/) was equipped [with](/en/post/with/) cutting-edge [technology](/en/post/technology/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [spacecraft](/post/spacecraft/) [successfully](/post/successfully/) landed [on](/post/on/) Mars [after](/post/after/) months [of](/post/of/) [travel](/post/travel/)."
+- **[Verb](/post/verb/)**: "NASA [will](/post/will/) [soon](/post/soon/) [launch](/post/launch/) [a](/post/a/) [new](/post/new/) [spacecraft](/post/spacecraft/) [to](/post/to/) [study](/post/study/) [the](/post/the/) [sun](/post/sun/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [advanced](/post/advanced/) [spacecraft](/post/spacecraft/) was equipped [with](/post/with/) cutting-edge [technology](/post/technology/)."
 
 ## Synonyms
-- [Space](/en/post/space/) [vehicle](/en/post/vehicle/)
-- [Rocket](/en/post/rocket/) [ship](/en/post/ship/)
-- [Satellite](/en/post/satellite/)
+- [Space](/post/space/) [vehicle](/post/vehicle/)
+- [Rocket](/post/rocket/) [ship](/post/ship/)
+- [Satellite](/post/satellite/)
 - Orbiter
-- Cosmic [craft](/en/post/craft/)
+- Cosmic [craft](/post/craft/)
 - Spaceprobe
 - Deep-space probe
-- [Vehicle](/en/post/vehicle/) [of](/en/post/of/) exploration
+- [Vehicle](/post/vehicle/) [of](/post/of/) exploration
 
 ## Antonyms
-- Terrestrial (related [to](/en/post/to/) [Earth](/en/post/earth/))
-- Suborbital ([limited](/en/post/limited/) [to](/en/post/to/) [below](/en/post/below/) Earth's [orbit](/en/post/orbit/))
-- Non-astronautical ([not](/en/post/not/) involving [space](/en/post/space/) [travel](/en/post/travel/))
+- Terrestrial (related [to](/post/to/) [Earth](/post/earth/))
+- Suborbital ([limited](/post/limited/) [to](/post/to/) [below](/post/below/) Earth's [orbit](/post/orbit/))
+- Non-astronautical ([not](/post/not/) involving [space](/post/space/) [travel](/post/travel/))

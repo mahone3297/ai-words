@@ -11,21 +11,21 @@ keywords = ['ai words', 'abnormal']
 /əbˈnɔːrml/
 
 ## 释义
-- **形容词**: 不正常的，异常的，反常的。例如: "[The](/post/the/) [abnormal](/post/abnormal/) [weather](/post/weather/) patterns caused flooding [in](/post/in/) [the](/post/the/) [region](/post/region/)."
-- **名词**: 异常现象或行为。例如: "Doctors [study](/post/study/) [the](/post/the/) patient's [abnormal](/post/abnormal/) [brain](/post/brain/) scans."
+- **形容词**: 不正常的，异常的，反常的。例如: "[The](/zh/post/the/) [abnormal](/zh/post/abnormal/) [weather](/zh/post/weather/) patterns caused flooding [in](/zh/post/in/) [the](/zh/post/the/) [region](/zh/post/region/)."
+- **名词**: 异常现象或行为。例如: "Doctors [study](/zh/post/study/) [the](/zh/post/the/) patient's [abnormal](/zh/post/abnormal/) [brain](/zh/post/brain/) scans."
 
 ## 短语
-- "[abnormal](/post/abnormal/) [behavior](/post/behavior/)" 不正常的行为
-- "[abnormal](/post/abnormal/) results" 异常的结果
+- "[abnormal](/zh/post/abnormal/) [behavior](/zh/post/behavior/)" 不正常的行为
+- "[abnormal](/zh/post/abnormal/) results" 异常的结果
 - "abnormality" 异常状态或特征
 
 ## 例句
-- 形容词: "[The](/post/the/) plant's [growth](/post/growth/) was [abnormal](/post/abnormal/) [due](/post/due/) [to](/post/to/) [lack](/post/lack/) [of](/post/of/) [sunlight](/post/sunlight/)."
-- 名词: "[The](/post/the/) [doctor](/post/doctor/) [found](/post/found/) [some](/post/some/) [abnormal](/post/abnormal/) cells [during](/post/during/) [the](/post/the/) [routine](/post/routine/) checkup."
+- 形容词: "[The](/zh/post/the/) plant's [growth](/zh/post/growth/) was [abnormal](/zh/post/abnormal/) [due](/zh/post/due/) [to](/zh/post/to/) [lack](/zh/post/lack/) [of](/zh/post/of/) [sunlight](/zh/post/sunlight/)."
+- 名词: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) [found](/zh/post/found/) [some](/zh/post/some/) [abnormal](/zh/post/abnormal/) cells [during](/zh/post/during/) [the](/zh/post/the/) [routine](/zh/post/routine/) checkup."
 
 ## 同义词
-- [Unusual](/post/unusual/)
-- [Peculiar](/post/peculiar/)
+- [Unusual](/zh/post/unusual/)
+- [Peculiar](/zh/post/peculiar/)
 - Uncommon
-- [Odd](/post/odd/)
+- [Odd](/zh/post/odd/)
 - Distorted

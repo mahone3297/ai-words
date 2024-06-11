@@ -7,29 +7,29 @@ description = '[ˈsəːneim] n.姓'
 keywords = ['ai words', 'surname']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈnaɪm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [word](/en/post/word/) [that](/en/post/that/) follows [a](/en/post/a/) person's given [name](/en/post/name/) [and](/en/post/and/) identifies [their](/en/post/their/) [family](/en/post/family/) [or](/en/post/or/) lineage. [For](/en/post/for/) [example](/en/post/example/): "Smith is [her](/en/post/her/) [surname](/en/post/surname/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [a](/en/post/a/) person's [last](/en/post/last/) [name](/en/post/name/) [or](/en/post/or/) [family](/en/post/family/) [name](/en/post/name/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [surname](/en/post/surname/) Johnson has [a](/en/post/a/) [long](/en/post/long/) [history](/en/post/history/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [word](/post/word/) [that](/post/that/) follows [a](/post/a/) person's given [name](/post/name/) [and](/post/and/) identifies [their](/post/their/) [family](/post/family/) [or](/post/or/) lineage. [For](/post/for/) [example](/post/example/): "Smith is [her](/post/her/) [surname](/post/surname/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [a](/post/a/) person's [last](/post/last/) [name](/post/name/) [or](/post/or/) [family](/post/family/) [name](/post/name/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [surname](/post/surname/) Johnson has [a](/post/a/) [long](/post/long/) [history](/post/history/)."
 
 ## Phrases
-- "[Family](/en/post/family/) [surname](/en/post/surname/)" denotes [the](/en/post/the/) [last](/en/post/last/) [name](/en/post/name/) passed [down](/en/post/down/) [through](/en/post/through/) generations.
-- "[To](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [surname](/en/post/surname/)" [means](/en/post/means/) [to](/en/post/to/) [adopt](/en/post/adopt/) [a](/en/post/a/) [last](/en/post/last/) [name](/en/post/name/) [after](/en/post/after/) [marriage](/en/post/marriage/) [or](/en/post/or/) [birth](/en/post/birth/).
-- "[Her](/en/post/her/) maiden [surname](/en/post/surname/)" refers [to](/en/post/to/) [her](/en/post/her/) [name](/en/post/name/) [before](/en/post/before/) [marriage](/en/post/marriage/).
+- "[Family](/post/family/) [surname](/post/surname/)" denotes [the](/post/the/) [last](/post/last/) [name](/post/name/) passed [down](/post/down/) [through](/post/through/) generations.
+- "[To](/post/to/) [take](/post/take/) [a](/post/a/) [surname](/post/surname/)" [means](/post/means/) [to](/post/to/) [adopt](/post/adopt/) [a](/post/a/) [last](/post/last/) [name](/post/name/) [after](/post/after/) [marriage](/post/marriage/) [or](/post/or/) [birth](/post/birth/).
+- "[Her](/post/her/) maiden [surname](/post/surname/)" refers [to](/post/to/) [her](/post/her/) [name](/post/name/) [before](/post/before/) [marriage](/post/marriage/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) introduced [herself](/en/post/herself/) [as](/en/post/as/) Emily Thompson, [with](/en/post/with/) [the](/en/post/the/) [surname](/en/post/surname/) Thompson [being](/en/post/being/) [her](/en/post/her/) father's."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) Smiths are [a](/en/post/a/) [prominent](/en/post/prominent/) [family](/en/post/family/) [with](/en/post/with/) [a](/en/post/a/) distinguished [surname](/en/post/surname/)."
-- "[After](/en/post/after/) changing [her](/en/post/her/) [surname](/en/post/surname/), [she](/en/post/she/) updated [all](/en/post/all/) [her](/en/post/her/) documents."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) introduced [herself](/post/herself/) [as](/post/as/) Emily Thompson, [with](/post/with/) [the](/post/the/) [surname](/post/surname/) Thompson [being](/post/being/) [her](/post/her/) father's."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) Smiths are [a](/post/a/) [prominent](/post/prominent/) [family](/post/family/) [with](/post/with/) [a](/post/a/) distinguished [surname](/post/surname/)."
+- "[After](/post/after/) changing [her](/post/her/) [surname](/post/surname/), [she](/post/she/) updated [all](/post/all/) [her](/post/her/) documents."
 
 ## Synonyms
-- [Last](/en/post/last/) [name](/en/post/name/)
-- [Family](/en/post/family/) [name](/en/post/name/)
-- [Surname](/en/post/surname/) [name](/en/post/name/)
-- Given [name](/en/post/name/) ([in](/en/post/in/) [contrast](/en/post/contrast/))
-- Clan [name](/en/post/name/) (informal)
+- [Last](/post/last/) [name](/post/name/)
+- [Family](/post/family/) [name](/post/name/)
+- [Surname](/post/surname/) [name](/post/name/)
+- Given [name](/post/name/) ([in](/post/in/) [contrast](/post/contrast/))
+- Clan [name](/post/name/) (informal)
 
 ## Etymology
-[The](/en/post/the/) [word](/en/post/word/) "[surname](/en/post/surname/)" comes [from](/en/post/from/) [the](/en/post/the/) [Old](/en/post/old/) French "surnom," [which](/en/post/which/) originally referred [to](/en/post/to/) an [additional](/en/post/additional/) [name](/en/post/name/) added [to](/en/post/to/) one's given [name](/en/post/name/) [for](/en/post/for/) identification purposes. [It](/en/post/it/) evolved [from](/en/post/from/) [the](/en/post/the/) Latin "[super](/en/post/super/) nomen," [meaning](/en/post/meaning/) "[above](/en/post/above/) [the](/en/post/the/) [name](/en/post/name/)," signifying [a](/en/post/a/) distinguishing [name](/en/post/name/) placed [after](/en/post/after/) [the](/en/post/the/) [first](/en/post/first/) [name](/en/post/name/).
+[The](/post/the/) [word](/post/word/) "[surname](/post/surname/)" comes [from](/post/from/) [the](/post/the/) [Old](/post/old/) French "surnom," [which](/post/which/) originally referred [to](/post/to/) an [additional](/post/additional/) [name](/post/name/) added [to](/post/to/) one's given [name](/post/name/) [for](/post/for/) identification purposes. [It](/post/it/) evolved [from](/post/from/) [the](/post/the/) Latin "[super](/post/super/) nomen," [meaning](/post/meaning/) "[above](/post/above/) [the](/post/the/) [name](/post/name/)," signifying [a](/post/a/) distinguishing [name](/post/name/) placed [after](/post/after/) [the](/post/the/) [first](/post/first/) [name](/post/name/).

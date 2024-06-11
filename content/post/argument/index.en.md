@@ -7,45 +7,45 @@ description = '[ˈɑːgjumənt] n.争论，辩论；理由'
 keywords = ['ai words', 'argument']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɑːrgjuːmənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [A](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) proposition offered [in](/en/post/in/) [support](/en/post/support/) [of](/en/post/of/) [or](/en/post/or/) opposition [to](/en/post/to/) [something](/en/post/something/), typically [one](/en/post/one/) [that](/en/post/that/) is [put](/en/post/put/) [forward](/en/post/forward/) [in](/en/post/in/) an [argument](/en/post/argument/) [or](/en/post/or/) [discussion](/en/post/discussion/): "[The](/en/post/the/) [main](/en/post/main/) [argument](/en/post/argument/) [in](/en/post/in/) favor [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) was [its](/en/post/its/) [potential](/en/post/potential/) [economic](/en/post/economic/) benefits."
-- **2.** [A](/en/post/a/) disagreement [or](/en/post/or/) altercation [between](/en/post/between/) [people](/en/post/people/), [often](/en/post/often/) [over](/en/post/over/) [a](/en/post/a/) [point](/en/post/point/) [of](/en/post/of/) [view](/en/post/view/) [or](/en/post/or/) [issue](/en/post/issue/): "[There](/en/post/there/) was [a](/en/post/a/) heated [argument](/en/post/argument/) [between](/en/post/between/) [the](/en/post/the/) siblings [about](/en/post/about/) [who](/en/post/who/) [should](/en/post/should/) [get](/en/post/get/) [the](/en/post/the/) [last](/en/post/last/) cookie."
+### [Noun](/post/noun/)
+- **1.** [A](/post/a/) [statement](/post/statement/) [or](/post/or/) proposition offered [in](/post/in/) [support](/post/support/) [of](/post/of/) [or](/post/or/) opposition [to](/post/to/) [something](/post/something/), typically [one](/post/one/) [that](/post/that/) is [put](/post/put/) [forward](/post/forward/) [in](/post/in/) an [argument](/post/argument/) [or](/post/or/) [discussion](/post/discussion/): "[The](/post/the/) [main](/post/main/) [argument](/post/argument/) [in](/post/in/) favor [of](/post/of/) [the](/post/the/) [new](/post/new/) [policy](/post/policy/) was [its](/post/its/) [potential](/post/potential/) [economic](/post/economic/) benefits."
+- **2.** [A](/post/a/) disagreement [or](/post/or/) altercation [between](/post/between/) [people](/post/people/), [often](/post/often/) [over](/post/over/) [a](/post/a/) [point](/post/point/) [of](/post/of/) [view](/post/view/) [or](/post/or/) [issue](/post/issue/): "[There](/post/there/) was [a](/post/a/) heated [argument](/post/argument/) [between](/post/between/) [the](/post/the/) siblings [about](/post/about/) [who](/post/who/) [should](/post/should/) [get](/post/get/) [the](/post/the/) [last](/post/last/) cookie."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [argue](/en/post/argue/)** ([with](/en/post/with/)/[to](/en/post/to/)): "[They](/en/post/they/) were arguing [about](/en/post/about/) [the](/en/post/the/) [best](/en/post/best/) [way](/en/post/way/) [to](/en/post/to/) [solve](/en/post/solve/) [the](/en/post/the/) [problem](/en/post/problem/)."
-- **[To](/en/post/to/) [present](/en/post/present/) an [argument](/en/post/argument/)** ([for](/en/post/for/)/[against](/en/post/against/)): "[She](/en/post/she/) presented [a](/en/post/a/) [strong](/en/post/strong/) [argument](/en/post/argument/) [for](/en/post/for/) increasing funding [for](/en/post/for/) [education](/en/post/education/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [argue](/post/argue/)** ([with](/post/with/)/[to](/post/to/)): "[They](/post/they/) were arguing [about](/post/about/) [the](/post/the/) [best](/post/best/) [way](/post/way/) [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [problem](/post/problem/)."
+- **[To](/post/to/) [present](/post/present/) an [argument](/post/argument/)** ([for](/post/for/)/[against](/post/against/)): "[She](/post/she/) presented [a](/post/a/) [strong](/post/strong/) [argument](/post/argument/) [for](/post/for/) increasing funding [for](/post/for/) [education](/post/education/)."
 
-### [Adjective](/en/post/adjective/)
-- **Argumentative** ([of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/)): "He's known [for](/en/post/for/) [his](/en/post/his/) argumentative [nature](/en/post/nature/)."
-- **Contentious** (related [to](/en/post/to/) an [argument](/en/post/argument/)): "[The](/en/post/the/) [debate](/en/post/debate/) [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/) has been contentious."
+### [Adjective](/post/adjective/)
+- **Argumentative** ([of](/post/of/) [a](/post/a/) [person](/post/person/)): "He's known [for](/post/for/) [his](/post/his/) argumentative [nature](/post/nature/)."
+- **Contentious** (related [to](/post/to/) an [argument](/post/argument/)): "[The](/post/the/) [debate](/post/debate/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/) has been contentious."
 
 ## Phrases
-- "[Argue](/en/post/argue/) [for](/en/post/for/)/[against](/en/post/against/)": Expressing [your](/en/post/your/) [viewpoint](/en/post/viewpoint/) [on](/en/post/on/) [a](/en/post/a/) [topic](/en/post/topic/).
-- "Argumentative [discussion](/en/post/discussion/)": [A](/en/post/a/) [debate](/en/post/debate/) [or](/en/post/or/) disagreement.
-- "[No](/en/post/no/) [argument](/en/post/argument/) [there](/en/post/there/)": Agreeing [with](/en/post/with/) [a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [position](/en/post/position/).
+- "[Argue](/post/argue/) [for](/post/for/)/[against](/post/against/)": Expressing [your](/post/your/) [viewpoint](/post/viewpoint/) [on](/post/on/) [a](/post/a/) [topic](/post/topic/).
+- "Argumentative [discussion](/post/discussion/)": [A](/post/a/) [debate](/post/debate/) [or](/post/or/) disagreement.
+- "[No](/post/no/) [argument](/post/argument/) [there](/post/there/)": Agreeing [with](/post/with/) [a](/post/a/) [statement](/post/statement/) [or](/post/or/) [position](/post/position/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [professor](/en/post/professor/) asked [the](/en/post/the/) students [to](/en/post/to/) [provide](/en/post/provide/) arguments [for](/en/post/for/) [their](/en/post/their/) chosen thesis."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) hours [of](/en/post/of/) heated [argument](/en/post/argument/), [they](/en/post/they/) [finally](/en/post/finally/) reached [a](/en/post/a/) [compromise](/en/post/compromise/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) argumentative [response](/en/post/response/) led [to](/en/post/to/) [a](/en/post/a/) [tense](/en/post/tense/) [conversation](/en/post/conversation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [professor](/post/professor/) asked [the](/post/the/) students [to](/post/to/) [provide](/post/provide/) arguments [for](/post/for/) [their](/post/their/) chosen thesis."
+- **[Verb](/post/verb/)**: "[After](/post/after/) hours [of](/post/of/) heated [argument](/post/argument/), [they](/post/they/) [finally](/post/finally/) reached [a](/post/a/) [compromise](/post/compromise/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) argumentative [response](/post/response/) led [to](/post/to/) [a](/post/a/) [tense](/post/tense/) [conversation](/post/conversation/)."
 
 ## Synonyms
-- [Claim](/en/post/claim/)
+- [Claim](/post/claim/)
 - Assertion
-- [Proposal](/en/post/proposal/)
+- [Proposal](/post/proposal/)
 - Contention
-- [Dispute](/en/post/dispute/)
-- [Debate](/en/post/debate/)
+- [Dispute](/post/dispute/)
+- [Debate](/post/debate/)
 - contention
 - controversary
 
 ## Antonyms
-- [Agreement](/en/post/agreement/)
-- [Acceptance](/en/post/acceptance/)
-- [Harmony](/en/post/harmony/)
+- [Agreement](/post/agreement/)
+- [Acceptance](/post/acceptance/)
+- [Harmony](/post/harmony/)
 - Conviction
-- [Certainty](/en/post/certainty/)
+- [Certainty](/post/certainty/)

@@ -7,42 +7,42 @@ description = '[sel] n.细胞；小房间'
 keywords = ['ai words', 'cell']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /cɛl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [cell](/en/post/cell/)** ([noun](/en/post/noun/), [plural](/en/post/plural/) cells) refers [to](/en/post/to/):
-   - [In](/en/post/in/) [biology](/en/post/biology/): [A](/en/post/a/) [small](/en/post/small/), structurally organized [unit](/en/post/unit/) [of](/en/post/of/) [living](/en/post/living/) [matter](/en/post/matter/), typically [found](/en/post/found/) [in](/en/post/in/) plants, animals, [and](/en/post/and/) microorganisms, performing [various](/en/post/various/) functions [such](/en/post/such/) [as](/en/post/as/) metabolism [and](/en/post/and/) reproduction.
-   - [In](/en/post/in/) [a](/en/post/a/) [scientific](/en/post/scientific/) context: [A](/en/post/a/) [single](/en/post/single/) [unit](/en/post/unit/) [in](/en/post/in/) [a](/en/post/a/) [tissue](/en/post/tissue/) [or](/en/post/or/) [organism](/en/post/organism/), [often](/en/post/often/) specialized [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [function](/en/post/function/).
-   - [In](/en/post/in/) [a](/en/post/a/) [prison](/en/post/prison/): [A](/en/post/a/) [small](/en/post/small/), enclosed [living](/en/post/living/) [space](/en/post/space/) [for](/en/post/for/) an inmate.
-   - [In](/en/post/in/) [a](/en/post/a/) [communication](/en/post/communication/) [network](/en/post/network/): [A](/en/post/a/) [fundamental](/en/post/fundamental/) [unit](/en/post/unit/) [of](/en/post/of/) [data](/en/post/data/) [storage](/en/post/storage/) [or](/en/post/or/) processing, [especially](/en/post/especially/) [in](/en/post/in/) computers.
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [cell](/post/cell/)** ([noun](/post/noun/), [plural](/post/plural/) cells) refers [to](/post/to/):
+   - [In](/post/in/) [biology](/post/biology/): [A](/post/a/) [small](/post/small/), structurally organized [unit](/post/unit/) [of](/post/of/) [living](/post/living/) [matter](/post/matter/), typically [found](/post/found/) [in](/post/in/) plants, animals, [and](/post/and/) microorganisms, performing [various](/post/various/) functions [such](/post/such/) [as](/post/as/) metabolism [and](/post/and/) reproduction.
+   - [In](/post/in/) [a](/post/a/) [scientific](/post/scientific/) context: [A](/post/a/) [single](/post/single/) [unit](/post/unit/) [in](/post/in/) [a](/post/a/) [tissue](/post/tissue/) [or](/post/or/) [organism](/post/organism/), [often](/post/often/) specialized [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [function](/post/function/).
+   - [In](/post/in/) [a](/post/a/) [prison](/post/prison/): [A](/post/a/) [small](/post/small/), enclosed [living](/post/living/) [space](/post/space/) [for](/post/for/) an inmate.
+   - [In](/post/in/) [a](/post/a/) [communication](/post/communication/) [network](/post/network/): [A](/post/a/) [fundamental](/post/fundamental/) [unit](/post/unit/) [of](/post/of/) [data](/post/data/) [storage](/post/storage/) [or](/post/or/) processing, [especially](/post/especially/) [in](/post/in/) computers.
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [cell](/en/post/cell/)** ([verb](/en/post/verb/)) [means](/en/post/means/) [to](/en/post/to/):
-   - [House](/en/post/house/) [or](/en/post/or/) [confine](/en/post/confine/) [someone](/en/post/someone/) [in](/en/post/in/) [a](/en/post/a/) [cell](/en/post/cell/) [or](/en/post/or/) [prison](/en/post/prison/) [cell](/en/post/cell/).
-   - [Store](/en/post/store/) [data](/en/post/data/) [in](/en/post/in/) [a](/en/post/a/) structured format, [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) database.
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [cell](/post/cell/)** ([verb](/post/verb/)) [means](/post/means/) [to](/post/to/):
+   - [House](/post/house/) [or](/post/or/) [confine](/post/confine/) [someone](/post/someone/) [in](/post/in/) [a](/post/a/) [cell](/post/cell/) [or](/post/or/) [prison](/post/prison/) [cell](/post/cell/).
+   - [Store](/post/store/) [data](/post/data/) [in](/post/in/) [a](/post/a/) structured format, [as](/post/as/) [in](/post/in/) [a](/post/a/) database.
 
 ## Phrases
-- "[Cell](/en/post/cell/) [division](/en/post/division/)" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [a](/en/post/a/) [cell](/en/post/cell/) replicating [its](/en/post/its/) genetic [material](/en/post/material/).
-- "[Plant](/en/post/plant/) cells" [and](/en/post/and/) "[animal](/en/post/animal/) cells" are [common](/en/post/common/) biological distinctions.
-- "Cellular [structure](/en/post/structure/)" describes [the](/en/post/the/) [organization](/en/post/organization/) [of](/en/post/of/) cells [in](/en/post/in/) tissues.
+- "[Cell](/post/cell/) [division](/post/division/)" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) [a](/post/a/) [cell](/post/cell/) replicating [its](/post/its/) genetic [material](/post/material/).
+- "[Plant](/post/plant/) cells" [and](/post/and/) "[animal](/post/animal/) cells" are [common](/post/common/) biological distinctions.
+- "Cellular [structure](/post/structure/)" describes [the](/post/the/) [organization](/post/organization/) [of](/post/of/) cells [in](/post/in/) tissues.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) biologist observed [the](/en/post/the/) [complex](/en/post/complex/) cellular processes occurring [within](/en/post/within/) [the](/en/post/the/) plant's [leaf](/en/post/leaf/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) prisoners were [being](/en/post/being/) housed [in](/en/post/in/) [separate](/en/post/separate/) cells [for](/en/post/for/) [their](/en/post/their/) [own](/en/post/own/) [safety](/en/post/safety/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) computer's [hard](/en/post/hard/) [drive](/en/post/drive/) is divided [into](/en/post/into/) [numerous](/en/post/numerous/) [small](/en/post/small/) cells [to](/en/post/to/) maximize [storage](/en/post/storage/) [efficiency](/en/post/efficiency/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) biologist observed [the](/post/the/) [complex](/post/complex/) cellular processes occurring [within](/post/within/) [the](/post/the/) plant's [leaf](/post/leaf/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) prisoners were [being](/post/being/) housed [in](/post/in/) [separate](/post/separate/) cells [for](/post/for/) [their](/post/their/) [own](/post/own/) [safety](/post/safety/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) computer's [hard](/post/hard/) [drive](/post/drive/) is divided [into](/post/into/) [numerous](/post/numerous/) [small](/post/small/) cells [to](/post/to/) maximize [storage](/post/storage/) [efficiency](/post/efficiency/)."
 
 ## Synonyms
-- **[Noun](/en/post/noun/)**: 
-   - [Unit](/en/post/unit/)
-   -[Organism](/en/post/organism/)
-   -[Tissue](/en/post/tissue/) [element](/en/post/element/)
+- **[Noun](/post/noun/)**: 
+   - [Unit](/post/unit/)
+   -[Organism](/post/organism/)
+   -[Tissue](/post/tissue/) [element](/post/element/)
    -Individuality
    -Membrane-bound compartment
    
-- **[Verb](/en/post/verb/)**: 
-   -[Contain](/en/post/contain/)
+- **[Verb](/post/verb/)**: 
+   -[Contain](/post/contain/)
    -Housing
-   -[Store](/en/post/store/) ([data](/en/post/data/))
-   -[Isolate](/en/post/isolate/) ([people](/en/post/people/))
+   -[Store](/post/store/) ([data](/post/data/))
+   -[Isolate](/post/isolate/) ([people](/post/people/))

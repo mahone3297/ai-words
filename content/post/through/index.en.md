@@ -7,37 +7,37 @@ description = '[θruː] prep.穿过 ad.从头到尾'
 keywords = ['ai words', 'through']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /θruː/
 
 ## Definitions
-### [Preposition](/en/post/preposition/)
-- **[Through](/en/post/through/)**: [A](/en/post/a/) [preposition](/en/post/preposition/) indicating [movement](/en/post/movement/) [across](/en/post/across/) [or](/en/post/or/) [from](/en/post/from/) [one](/en/post/one/) [side](/en/post/side/) [to](/en/post/to/) [the](/en/post/the/) [other](/en/post/other/) [side](/en/post/side/) [of](/en/post/of/) [something](/en/post/something/), [or](/en/post/or/) completion [of](/en/post/of/) an [action](/en/post/action/) [via](/en/post/via/) [a](/en/post/a/) [particular](/en/post/particular/) [medium](/en/post/medium/) [or](/en/post/or/) [means](/en/post/means/). 
+### [Preposition](/post/preposition/)
+- **[Through](/post/through/)**: [A](/post/a/) [preposition](/post/preposition/) indicating [movement](/post/movement/) [across](/post/across/) [or](/post/or/) [from](/post/from/) [one](/post/one/) [side](/post/side/) [to](/post/to/) [the](/post/the/) [other](/post/other/) [side](/post/side/) [of](/post/of/) [something](/post/something/), [or](/post/or/) completion [of](/post/of/) an [action](/post/action/) [via](/post/via/) [a](/post/a/) [particular](/post/particular/) [medium](/post/medium/) [or](/post/or/) [means](/post/means/). 
 
-### [Verb](/en/post/verb/)
-- (informal) **[To](/en/post/to/) [go](/en/post/go/) [through](/en/post/through/)**: [To](/en/post/to/) [experience](/en/post/experience/), [complete](/en/post/complete/), [or](/en/post/or/) [pass](/en/post/pass/) [through](/en/post/through/) [a](/en/post/a/) [process](/en/post/process/), [situation](/en/post/situation/), [or](/en/post/or/) [space](/en/post/space/). 
+### [Verb](/post/verb/)
+- (informal) **[To](/post/to/) [go](/post/go/) [through](/post/through/)**: [To](/post/to/) [experience](/post/experience/), [complete](/post/complete/), [or](/post/or/) [pass](/post/pass/) [through](/post/through/) [a](/post/a/) [process](/post/process/), [situation](/post/situation/), [or](/post/or/) [space](/post/space/). 
 
-### [Adverb](/en/post/adverb/)
-- **[Throughout](/en/post/throughout/)**: [Throughout](/en/post/throughout/) [the](/en/post/the/) [entire](/en/post/entire/) [duration](/en/post/duration/) [or](/en/post/or/) [extent](/en/post/extent/) [of](/en/post/of/) [something](/en/post/something/).
+### [Adverb](/post/adverb/)
+- **[Throughout](/post/throughout/)**: [Throughout](/post/throughout/) [the](/post/the/) [entire](/post/entire/) [duration](/post/duration/) [or](/post/or/) [extent](/post/extent/) [of](/post/of/) [something](/post/something/).
 
-### [Adjective](/en/post/adjective/)
-- **[Through](/en/post/through/)**: Intact [or](/en/post/or/) reaching [all](/en/post/all/) [the](/en/post/the/) [way](/en/post/way/) [through](/en/post/through/); [not](/en/post/not/) [just](/en/post/just/) [on](/en/post/on/) [the](/en/post/the/) [surface](/en/post/surface/). [For](/en/post/for/) [example](/en/post/example/), "[a](/en/post/a/) [tunnel](/en/post/tunnel/) [that](/en/post/that/) runs [through](/en/post/through/) [the](/en/post/the/) [mountain](/en/post/mountain/)."
+### [Adjective](/post/adjective/)
+- **[Through](/post/through/)**: Intact [or](/post/or/) reaching [all](/post/all/) [the](/post/the/) [way](/post/way/) [through](/post/through/); [not](/post/not/) [just](/post/just/) [on](/post/on/) [the](/post/the/) [surface](/post/surface/). [For](/post/for/) [example](/post/example/), "[a](/post/a/) [tunnel](/post/tunnel/) [that](/post/that/) runs [through](/post/through/) [the](/post/the/) [mountain](/post/mountain/)."
 
 ## Phrases
-- "[Go](/en/post/go/) [through](/en/post/through/) [the](/en/post/the/) [gate](/en/post/gate/)" [means](/en/post/means/) [to](/en/post/to/) [pass](/en/post/pass/) [through](/en/post/through/) [a](/en/post/a/) gateway [or](/en/post/or/) [barrier](/en/post/barrier/).
-- "[She](/en/post/she/) [saw](/en/post/saw/) [it](/en/post/it/) [happen](/en/post/happen/) [through](/en/post/through/) [the](/en/post/the/) [window](/en/post/window/)."
-- "[The](/en/post/the/) [project](/en/post/project/) was completed [through](/en/post/through/) teamwork."
-- "[Throughout](/en/post/throughout/) [history](/en/post/history/), humans [have](/en/post/have/) explored [the](/en/post/the/) [world](/en/post/world/)."
+- "[Go](/post/go/) [through](/post/through/) [the](/post/the/) [gate](/post/gate/)" [means](/post/means/) [to](/post/to/) [pass](/post/pass/) [through](/post/through/) [a](/post/a/) gateway [or](/post/or/) [barrier](/post/barrier/).
+- "[She](/post/she/) [saw](/post/saw/) [it](/post/it/) [happen](/post/happen/) [through](/post/through/) [the](/post/the/) [window](/post/window/)."
+- "[The](/post/the/) [project](/post/project/) was completed [through](/post/through/) teamwork."
+- "[Throughout](/post/throughout/) [history](/post/history/), humans [have](/post/have/) explored [the](/post/the/) [world](/post/world/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Preposition](/en/post/preposition/)**: "I drove [through](/en/post/through/) [the](/en/post/the/) [city](/en/post/city/) [on](/en/post/on/) [my](/en/post/my/) [way](/en/post/way/) [home](/en/post/home/)."
-- **[Verb](/en/post/verb/)**: "I went [through](/en/post/through/) [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) challenges [during](/en/post/during/) [my](/en/post/my/) internship."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) book's insights [apply](/en/post/apply/) [throughout](/en/post/throughout/) [the](/en/post/the/) [industry](/en/post/industry/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [wire](/en/post/wire/) runs [through](/en/post/through/) [the](/en/post/the/) [hollow](/en/post/hollow/) [core](/en/post/core/) [of](/en/post/of/) [the](/en/post/the/) [pipe](/en/post/pipe/)."
+## [Example](/post/example/) Sentences
+- **[Preposition](/post/preposition/)**: "I drove [through](/post/through/) [the](/post/the/) [city](/post/city/) [on](/post/on/) [my](/post/my/) [way](/post/way/) [home](/post/home/)."
+- **[Verb](/post/verb/)**: "I went [through](/post/through/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) challenges [during](/post/during/) [my](/post/my/) internship."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) book's insights [apply](/post/apply/) [throughout](/post/throughout/) [the](/post/the/) [industry](/post/industry/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [wire](/post/wire/) runs [through](/post/through/) [the](/post/the/) [hollow](/post/hollow/) [core](/post/core/) [of](/post/of/) [the](/post/the/) [pipe](/post/pipe/)."
 
 ## Synonyms
-- [Across](/en/post/across/)
-- [Throughout](/en/post/throughout/)
-- [Across](/en/post/across/) [the](/en/post/the/) [span](/en/post/span/) [of](/en/post/of/)
+- [Across](/post/across/)
+- [Throughout](/post/throughout/)
+- [Across](/post/across/) [the](/post/the/) [span](/post/span/) [of](/post/of/)
 - Permeating
-- [From](/en/post/from/) [one](/en/post/one/) [end](/en/post/end/) [to](/en/post/to/) [the](/en/post/the/) [other](/en/post/other/)
+- [From](/post/from/) [one](/post/one/) [end](/post/end/) [to](/post/to/) [the](/post/the/) [other](/post/other/)

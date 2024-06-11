@@ -11,21 +11,21 @@ keywords = ['ai words', 'cheque']
 /ˈtʃɛk/
 
 ## 释义
-- **名词 (n)**: 一种金融工具，通常由银行账户的持有人签发，指示银行支付特定金额给收款人。也称为支票。例如: "[She](/post/she/) paid [her](/post/her/) [rent](/post/rent/) [with](/post/with/) [a](/post/a/) [personal](/post/personal/) [cheque](/post/cheque/)."
-- **动词 (v)**: 开具或签署支票。例如: "[Before](/post/before/) leaving, [he](/post/he/) chequed [for](/post/for/) [the](/post/the/) [hotel](/post/hotel/) [bill](/post/bill/)."
+- **名词 (n)**: 一种金融工具，通常由银行账户的持有人签发，指示银行支付特定金额给收款人。也称为支票。例如: "[She](/zh/post/she/) paid [her](/zh/post/her/) [rent](/zh/post/rent/) [with](/zh/post/with/) [a](/zh/post/a/) [personal](/zh/post/personal/) [cheque](/zh/post/cheque/)."
+- **动词 (v)**: 开具或签署支票。例如: "[Before](/zh/post/before/) leaving, [he](/zh/post/he/) chequed [for](/zh/post/for/) [the](/zh/post/the/) [hotel](/zh/post/hotel/) [bill](/zh/post/bill/)."
 
 ## 短语
-- "[Write](/post/write/) [a](/post/a/) [cheque](/post/cheque/)" 意味着填写并签署支票以支付款项。
-- "[Cash](/post/cash/) [a](/post/a/) [cheque](/post/cheque/)" 是将支票兑换为现金的过程。
+- "[Write](/zh/post/write/) [a](/zh/post/a/) [cheque](/zh/post/cheque/)" 意味着填写并签署支票以支付款项。
+- "[Cash](/zh/post/cash/) [a](/zh/post/a/) [cheque](/zh/post/cheque/)" 是将支票兑换为现金的过程。
 - "Chequebook" 是装有空白支票的小册子。
 
 ## 例句
-- 名词: "[The](/post/the/) [company](/post/company/) issued [a](/post/a/) [salary](/post/salary/) [cheque](/post/cheque/) [to](/post/to/) [each](/post/each/) [employee](/post/employee/) [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [month](/post/month/)."
-- 动词: "[He](/post/he/) chequed [a](/post/a/) [sum](/post/sum/) [of](/post/of/) [money](/post/money/) [from](/post/from/) [his](/post/his/) [account](/post/account/) [to](/post/to/) [pay](/post/pay/) [for](/post/for/) [the](/post/the/) [car](/post/car/)."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) issued [a](/zh/post/a/) [salary](/zh/post/salary/) [cheque](/zh/post/cheque/) [to](/zh/post/to/) [each](/zh/post/each/) [employee](/zh/post/employee/) [at](/zh/post/at/) [the](/zh/post/the/) [end](/zh/post/end/) [of](/zh/post/of/) [the](/zh/post/the/) [month](/zh/post/month/)."
+- 动词: "[He](/zh/post/he/) chequed [a](/zh/post/a/) [sum](/zh/post/sum/) [of](/zh/post/of/) [money](/zh/post/money/) [from](/zh/post/from/) [his](/zh/post/his/) [account](/zh/post/account/) [to](/zh/post/to/) [pay](/zh/post/pay/) [for](/zh/post/for/) [the](/zh/post/the/) [car](/zh/post/car/)."
 
 ## 同义词
-- [Draft](/post/draft/)
-- [Bill](/post/bill/) [of](/post/of/) [exchange](/post/exchange/)
-- [Payment](/post/payment/) [instrument](/post/instrument/)
-- [Bank](/post/bank/) [check](/post/check/)
+- [Draft](/zh/post/draft/)
+- [Bill](/zh/post/bill/) [of](/zh/post/of/) [exchange](/zh/post/exchange/)
+- [Payment](/zh/post/payment/) [instrument](/zh/post/instrument/)
+- [Bank](/zh/post/bank/) [check](/zh/post/check/)
 - Paycheck (在美国，paycheck可指工资支票)

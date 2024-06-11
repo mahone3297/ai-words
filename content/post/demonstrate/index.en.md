@@ -7,43 +7,43 @@ description = '[ˈdemənstreit] vt.说明;论证;表露'
 keywords = ['ai words', 'demonstrate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈmɒnstrət/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [show](/en/post/show/) [or](/en/post/or/) [exhibit](/en/post/exhibit/) [something](/en/post/something/) [clearly](/en/post/clearly/), typically [to](/en/post/to/) [prove](/en/post/prove/) [its](/en/post/its/) [quality](/en/post/quality/) [or](/en/post/or/) [to](/en/post/to/) [illustrate](/en/post/illustrate/) [a](/en/post/a/) [point](/en/post/point/). [Also](/en/post/also/), [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [performance](/en/post/performance/) [or](/en/post/or/) presentation. 
-- **[Noun](/en/post/noun/)**: An [act](/en/post/act/) [of](/en/post/of/) demonstrating; [a](/en/post/a/) [public](/en/post/public/) showing [or](/en/post/or/) [exhibition](/en/post/exhibition/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [show](/post/show/) [or](/post/or/) [exhibit](/post/exhibit/) [something](/post/something/) [clearly](/post/clearly/), typically [to](/post/to/) [prove](/post/prove/) [its](/post/its/) [quality](/post/quality/) [or](/post/or/) [to](/post/to/) [illustrate](/post/illustrate/) [a](/post/a/) [point](/post/point/). [Also](/post/also/), [to](/post/to/) [give](/post/give/) [a](/post/a/) [performance](/post/performance/) [or](/post/or/) presentation. 
+- **[Noun](/post/noun/)**: An [act](/post/act/) [of](/post/of/) demonstrating; [a](/post/a/) [public](/post/public/) showing [or](/post/or/) [exhibition](/post/exhibition/).
 
 ## Phrases
-- "[Demonstrate](/en/post/demonstrate/) [a](/en/post/a/) [skill](/en/post/skill/)" [means](/en/post/means/) [to](/en/post/to/) [show](/en/post/show/) [how](/en/post/how/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) effectively.
-- "[Demonstrate](/en/post/demonstrate/) [the](/en/post/the/) [concept](/en/post/concept/)" is [used](/en/post/used/) [to](/en/post/to/) [explain](/en/post/explain/) an [idea](/en/post/idea/) [by](/en/post/by/) providing examples.
-- "Demonstration [day](/en/post/day/)" is [a](/en/post/a/) [day](/en/post/day/) [when](/en/post/when/) [something](/en/post/something/) is shown [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/) [or](/en/post/or/) students.
+- "[Demonstrate](/post/demonstrate/) [a](/post/a/) [skill](/post/skill/)" [means](/post/means/) [to](/post/to/) [show](/post/show/) [how](/post/how/) [to](/post/to/) [do](/post/do/) [something](/post/something/) effectively.
+- "[Demonstrate](/post/demonstrate/) [the](/post/the/) [concept](/post/concept/)" is [used](/post/used/) [to](/post/to/) [explain](/post/explain/) an [idea](/post/idea/) [by](/post/by/) providing examples.
+- "Demonstration [day](/post/day/)" is [a](/post/a/) [day](/post/day/) [when](/post/when/) [something](/post/something/) is shown [to](/post/to/) [the](/post/the/) [public](/post/public/) [or](/post/or/) students.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) demonstrated [the](/en/post/the/) [chemical](/en/post/chemical/) [reaction](/en/post/reaction/) [step](/en/post/step/) [by](/en/post/by/) [step](/en/post/step/)."
-- **[Noun](/en/post/noun/)**: "Students were asked [to](/en/post/to/) [watch](/en/post/watch/) [the](/en/post/the/) [physics](/en/post/physics/) demonstration [in](/en/post/in/) [class](/en/post/class/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[She](/en/post/she/) was [unable](/en/post/unable/) [to](/en/post/to/) [demonstrate](/en/post/demonstrate/) [her](/en/post/her/) [understanding](/en/post/understanding/) [of](/en/post/of/) [the](/en/post/the/) [topic](/en/post/topic/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) demonstrated [the](/post/the/) [chemical](/post/chemical/) [reaction](/post/reaction/) [step](/post/step/) [by](/post/by/) [step](/post/step/)."
+- **[Noun](/post/noun/)**: "Students were asked [to](/post/to/) [watch](/post/watch/) [the](/post/the/) [physics](/post/physics/) demonstration [in](/post/in/) [class](/post/class/)."
+- **Phrasal [Verb](/post/verb/)**: "[She](/post/she/) was [unable](/post/unable/) [to](/post/to/) [demonstrate](/post/demonstrate/) [her](/post/her/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [topic](/post/topic/)."
 
 ## Synonyms
-- [Illustrate](/en/post/illustrate/)
-- [Exhibit](/en/post/exhibit/)
-- [Show](/en/post/show/)
-- [Display](/en/post/display/)
-- [Explain](/en/post/explain/)
-- [Present](/en/post/present/)
-- [Demonstrate](/en/post/demonstrate/) ([also](/en/post/also/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/): demonstration)
+- [Illustrate](/post/illustrate/)
+- [Exhibit](/post/exhibit/)
+- [Show](/post/show/)
+- [Display](/post/display/)
+- [Explain](/post/explain/)
+- [Present](/post/present/)
+- [Demonstrate](/post/demonstrate/) ([also](/post/also/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/): demonstration)
 
 ## Antonyms
-- [Conceal](/en/post/conceal/)
-- [Hide](/en/post/hide/)
+- [Conceal](/post/conceal/)
+- [Hide](/post/hide/)
 - Obfuscate
 - Misrepresent
 
-## [Usage](/en/post/usage/)
-### [Noun](/en/post/noun/)
-- [The](/en/post/the/) [professor](/en/post/professor/) organized [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) demonstrations [for](/en/post/for/) [the](/en/post/the/) students.
-- [The](/en/post/the/) [new](/en/post/new/) [technology](/en/post/technology/) was showcased [in](/en/post/in/) [a](/en/post/a/) demonstration [at](/en/post/at/) [the](/en/post/the/) [trade](/en/post/trade/) [fair](/en/post/fair/).
+## [Usage](/post/usage/)
+### [Noun](/post/noun/)
+- [The](/post/the/) [professor](/post/professor/) organized [a](/post/a/) [series](/post/series/) [of](/post/of/) demonstrations [for](/post/for/) [the](/post/the/) students.
+- [The](/post/the/) [new](/post/new/) [technology](/post/technology/) was showcased [in](/post/in/) [a](/post/a/) demonstration [at](/post/at/) [the](/post/the/) [trade](/post/trade/) [fair](/post/fair/).
 
-### [Verb](/en/post/verb/)
-- [She](/en/post/she/) [will](/en/post/will/) [demonstrate](/en/post/demonstrate/) [how](/en/post/how/) [to](/en/post/to/) [bake](/en/post/bake/) [a](/en/post/a/) [cake](/en/post/cake/) [during](/en/post/during/) [the](/en/post/the/) cooking [class](/en/post/class/).
-- [He](/en/post/he/) demonstrated [his](/en/post/his/) proficiency [in](/en/post/in/) playing [the](/en/post/the/) [piano](/en/post/piano/) [by](/en/post/by/) performing [a](/en/post/a/) [piece](/en/post/piece/) [from](/en/post/from/) [memory](/en/post/memory/).
+### [Verb](/post/verb/)
+- [She](/post/she/) [will](/post/will/) [demonstrate](/post/demonstrate/) [how](/post/how/) [to](/post/to/) [bake](/post/bake/) [a](/post/a/) [cake](/post/cake/) [during](/post/during/) [the](/post/the/) cooking [class](/post/class/).
+- [He](/post/he/) demonstrated [his](/post/his/) proficiency [in](/post/in/) playing [the](/post/the/) [piano](/post/piano/) [by](/post/by/) performing [a](/post/a/) [piece](/post/piece/) [from](/post/from/) [memory](/post/memory/).

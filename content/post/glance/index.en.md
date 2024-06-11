@@ -7,33 +7,33 @@ description = '[glɑːns] vi.看一下 n.一瞥'
 keywords = ['ai words', 'glance']
 +++
 
-## [Word](/en/post/word/): [Glance](/en/post/glance/)
+## [Word](/post/word/): [Glance](/post/glance/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡlæns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [quick](/en/post/quick/), [brief](/en/post/brief/) [look](/en/post/look/) [or](/en/post/or/) [a](/en/post/a/) [swift](/en/post/swift/) [sideways](/en/post/sideways/) [look](/en/post/look/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [shot](/en/post/shot/) [him](/en/post/him/) [a](/en/post/a/) sidelong [glance](/en/post/glance/)."
-  - _Example sentence_: "[He](/en/post/he/) caught [her](/en/post/her/) [glance](/en/post/glance/) [across](/en/post/across/) [the](/en/post/the/) crowded [room](/en/post/room/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [quick](/post/quick/), [brief](/post/brief/) [look](/post/look/) [or](/post/or/) [a](/post/a/) [swift](/post/swift/) [sideways](/post/sideways/) [look](/post/look/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [shot](/post/shot/) [him](/post/him/) [a](/post/a/) sidelong [glance](/post/glance/)."
+  - _Example sentence_: "[He](/post/he/) caught [her](/post/her/) [glance](/post/glance/) [across](/post/across/) [the](/post/the/) crowded [room](/post/room/)."
   
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [quickly](/en/post/quickly/) [look](/en/post/look/) [at](/en/post/at/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/), [often](/en/post/often/) [without](/en/post/without/) focusing intently. [For](/en/post/for/) [instance](/en/post/instance/): "[She](/en/post/she/) glanced [at](/en/post/at/) [her](/en/post/her/) [watch](/en/post/watch/) [to](/en/post/to/) [check](/en/post/check/) [the](/en/post/the/) [time](/en/post/time/)."
-  - _Example sentence_: "[Before](/en/post/before/) leaving, [he](/en/post/he/) glanced [over](/en/post/over/) [his](/en/post/his/) notes [one](/en/post/one/) [last](/en/post/last/) [time](/en/post/time/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [quickly](/post/quickly/) [look](/post/look/) [at](/post/at/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/), [often](/post/often/) [without](/post/without/) focusing intently. [For](/post/for/) [instance](/post/instance/): "[She](/post/she/) glanced [at](/post/at/) [her](/post/her/) [watch](/post/watch/) [to](/post/to/) [check](/post/check/) [the](/post/the/) [time](/post/time/)."
+  - _Example sentence_: "[Before](/post/before/) leaving, [he](/post/he/) glanced [over](/post/over/) [his](/post/his/) notes [one](/post/one/) [last](/post/last/) [time](/post/time/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [glance](/en/post/glance/)": [To](/en/post/to/) [quickly](/en/post/quickly/) [look](/en/post/look/) [at](/en/post/at/) [something](/en/post/something/). [Example](/en/post/example/): "[Could](/en/post/could/) [you](/en/post/you/) [take](/en/post/take/) [a](/en/post/a/) [glance](/en/post/glance/) [at](/en/post/at/) [this](/en/post/this/) [report](/en/post/report/) [and](/en/post/and/) [tell](/en/post/tell/) [me](/en/post/me/) [if](/en/post/if/) it's [okay](/en/post/okay/)?"
-- "[Glance](/en/post/glance/) [through](/en/post/through/)": [To](/en/post/to/) [rapidly](/en/post/rapidly/) [read](/en/post/read/) [or](/en/post/or/) [scan](/en/post/scan/) [something](/en/post/something/) [without](/en/post/without/) going [into](/en/post/into/) [detail](/en/post/detail/). [Example](/en/post/example/): "I [only](/en/post/only/) had [time](/en/post/time/) [to](/en/post/to/) [glance](/en/post/glance/) [through](/en/post/through/) [the](/en/post/the/) [newspaper](/en/post/newspaper/) headlines."
-- "[Cast](/en/post/cast/) [a](/en/post/a/) [glance](/en/post/glance/)": [To](/en/post/to/) [direct](/en/post/direct/) one's eyes briefly towards [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [Example](/en/post/example/): "[She](/en/post/she/) [cast](/en/post/cast/) [a](/en/post/a/) [glance](/en/post/glance/) towards [the](/en/post/the/) [door](/en/post/door/) [when](/en/post/when/) [she](/en/post/she/) heard [the](/en/post/the/) [knock](/en/post/knock/)."
+- "[Take](/post/take/) [a](/post/a/) [glance](/post/glance/)": [To](/post/to/) [quickly](/post/quickly/) [look](/post/look/) [at](/post/at/) [something](/post/something/). [Example](/post/example/): "[Could](/post/could/) [you](/post/you/) [take](/post/take/) [a](/post/a/) [glance](/post/glance/) [at](/post/at/) [this](/post/this/) [report](/post/report/) [and](/post/and/) [tell](/post/tell/) [me](/post/me/) [if](/post/if/) it's [okay](/post/okay/)?"
+- "[Glance](/post/glance/) [through](/post/through/)": [To](/post/to/) [rapidly](/post/rapidly/) [read](/post/read/) [or](/post/or/) [scan](/post/scan/) [something](/post/something/) [without](/post/without/) going [into](/post/into/) [detail](/post/detail/). [Example](/post/example/): "I [only](/post/only/) had [time](/post/time/) [to](/post/to/) [glance](/post/glance/) [through](/post/through/) [the](/post/the/) [newspaper](/post/newspaper/) headlines."
+- "[Cast](/post/cast/) [a](/post/a/) [glance](/post/glance/)": [To](/post/to/) [direct](/post/direct/) one's eyes briefly towards [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [Example](/post/example/): "[She](/post/she/) [cast](/post/cast/) [a](/post/a/) [glance](/post/glance/) towards [the](/post/the/) [door](/post/door/) [when](/post/when/) [she](/post/she/) heard [the](/post/the/) [knock](/post/knock/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[A](/en/post/a/) fleeting [glance](/en/post/glance/) was [all](/en/post/all/) [it](/en/post/it/) took [for](/en/post/for/) [him](/en/post/him/) [to](/en/post/to/) [recognize](/en/post/recognize/) [her](/en/post/her/)."
-- **[Verb](/en/post/verb/)**: "[As](/en/post/as/) [he](/en/post/he/) walked [past](/en/post/past/) [the](/en/post/the/) [shop](/en/post/shop/) [window](/en/post/window/), [he](/en/post/he/) couldn't [help](/en/post/help/) [but](/en/post/but/) [glance](/en/post/glance/) [at](/en/post/at/) [the](/en/post/the/) [new](/en/post/new/) arrivals."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[A](/post/a/) fleeting [glance](/post/glance/) was [all](/post/all/) [it](/post/it/) took [for](/post/for/) [him](/post/him/) [to](/post/to/) [recognize](/post/recognize/) [her](/post/her/)."
+- **[Verb](/post/verb/)**: "[As](/post/as/) [he](/post/he/) walked [past](/post/past/) [the](/post/the/) [shop](/post/shop/) [window](/post/window/), [he](/post/he/) couldn't [help](/post/help/) [but](/post/but/) [glance](/post/glance/) [at](/post/at/) [the](/post/the/) [new](/post/new/) arrivals."
 
 ## Synonyms
-- [Look](/en/post/look/)
-- [Glimpse](/en/post/glimpse/)
-- [Peep](/en/post/peep/)
-- [Scan](/en/post/scan/)
-- Peruse ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [reading](/en/post/reading/) [quickly](/en/post/quickly/))
-- [Swift](/en/post/swift/) [look](/en/post/look/)
-- [Brief](/en/post/brief/) [look](/en/post/look/)
-- Sidelong [look](/en/post/look/)
+- [Look](/post/look/)
+- [Glimpse](/post/glimpse/)
+- [Peep](/post/peep/)
+- [Scan](/post/scan/)
+- Peruse ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [reading](/post/reading/) [quickly](/post/quickly/))
+- [Swift](/post/swift/) [look](/post/look/)
+- [Brief](/post/brief/) [look](/post/look/)
+- Sidelong [look](/post/look/)

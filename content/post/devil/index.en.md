@@ -7,40 +7,40 @@ description = '[ˈdevl] n.魔鬼，恶魔'
 keywords = ['ai words', 'devil']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈvɛl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Devil](/en/post/devil/)** ([plural](/en/post/plural/): devils): [A](/en/post/a/) personification [of](/en/post/of/) [evil](/en/post/evil/), [often](/en/post/often/) associated [with](/en/post/with/) mischief, [temptation](/en/post/temptation/), [or](/en/post/or/) Satanic forces [in](/en/post/in/) [various](/en/post/various/) [religious](/en/post/religious/) [and](/en/post/and/) mythological traditions. [Example](/en/post/example/): "[The](/en/post/the/) [devil](/en/post/devil/) is [often](/en/post/often/) depicted [as](/en/post/as/) [a](/en/post/a/) tempter [in](/en/post/in/) Christian folklore."
-2. **Hellion** (informal): [A](/en/post/a/) mischievous or捣蛋的人. [Example](/en/post/example/): "[My](/en/post/my/) [little](/en/post/little/) [brother](/en/post/brother/) is [such](/en/post/such/) [a](/en/post/a/) [devil](/en/post/devil/) [when](/en/post/when/) [it](/en/post/it/) comes [to](/en/post/to/) pranks."
+### [Noun](/post/noun/)
+1. **[Devil](/post/devil/)** ([plural](/post/plural/): devils): [A](/post/a/) personification [of](/post/of/) [evil](/post/evil/), [often](/post/often/) associated [with](/post/with/) mischief, [temptation](/post/temptation/), [or](/post/or/) Satanic forces [in](/post/in/) [various](/post/various/) [religious](/post/religious/) [and](/post/and/) mythological traditions. [Example](/post/example/): "[The](/post/the/) [devil](/post/devil/) is [often](/post/often/) depicted [as](/post/as/) [a](/post/a/) tempter [in](/post/in/) Christian folklore."
+2. **Hellion** (informal): [A](/post/a/) mischievous or捣蛋的人. [Example](/post/example/): "[My](/post/my/) [little](/post/little/) [brother](/post/brother/) is [such](/post/such/) [a](/post/a/) [devil](/post/devil/) [when](/post/when/) [it](/post/it/) comes [to](/post/to/) pranks."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [act](/en/post/act/) [in](/en/post/in/) [a](/en/post/a/) devilish [or](/en/post/or/) malicious [manner](/en/post/manner/). [Example](/en/post/example/): "[The](/en/post/the/) children were devilishly playing tricks [on](/en/post/on/) [each](/en/post/each/) [other](/en/post/other/)."
-2. [To](/en/post/to/) [attribute](/en/post/attribute/) [a](/en/post/a/) [certain](/en/post/certain/) [quality](/en/post/quality/) [or](/en/post/or/) [behavior](/en/post/behavior/) [to](/en/post/to/) [the](/en/post/the/) [devil](/en/post/devil/). [Example](/en/post/example/): "[She](/en/post/she/) accused [him](/en/post/him/) [of](/en/post/of/) [being](/en/post/being/) [the](/en/post/the/) [devil](/en/post/devil/) [in](/en/post/in/) [disguise](/en/post/disguise/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [act](/post/act/) [in](/post/in/) [a](/post/a/) devilish [or](/post/or/) malicious [manner](/post/manner/). [Example](/post/example/): "[The](/post/the/) children were devilishly playing tricks [on](/post/on/) [each](/post/each/) [other](/post/other/)."
+2. [To](/post/to/) [attribute](/post/attribute/) [a](/post/a/) [certain](/post/certain/) [quality](/post/quality/) [or](/post/or/) [behavior](/post/behavior/) [to](/post/to/) [the](/post/the/) [devil](/post/devil/). [Example](/post/example/): "[She](/post/she/) accused [him](/post/him/) [of](/post/of/) [being](/post/being/) [the](/post/the/) [devil](/post/devil/) [in](/post/in/) [disguise](/post/disguise/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [the](/en/post/the/) [devil](/en/post/devil/)" (informal) [to](/en/post/to/) [cause](/en/post/cause/) [trouble](/en/post/trouble/) [or](/en/post/or/) [be](/en/post/be/) mischievous.
-- "[Deal](/en/post/deal/) [with](/en/post/with/) [the](/en/post/the/) [devil](/en/post/devil/)" (idiomatic) [to](/en/post/to/) confront [a](/en/post/a/) [difficult](/en/post/difficult/) [or](/en/post/or/) challenging [situation](/en/post/situation/).
-- "[Play](/en/post/play/) devil's advocate" (idiomatic) [to](/en/post/to/) [argue](/en/post/argue/) [against](/en/post/against/) one's [own](/en/post/own/) [position](/en/post/position/), [just](/en/post/just/) [for](/en/post/for/) [the](/en/post/the/) [sake](/en/post/sake/) [of](/en/post/of/) [debate](/en/post/debate/).
+- "[Be](/post/be/) [the](/post/the/) [devil](/post/devil/)" (informal) [to](/post/to/) [cause](/post/cause/) [trouble](/post/trouble/) [or](/post/or/) [be](/post/be/) mischievous.
+- "[Deal](/post/deal/) [with](/post/with/) [the](/post/the/) [devil](/post/devil/)" (idiomatic) [to](/post/to/) confront [a](/post/a/) [difficult](/post/difficult/) [or](/post/or/) challenging [situation](/post/situation/).
+- "[Play](/post/play/) devil's advocate" (idiomatic) [to](/post/to/) [argue](/post/argue/) [against](/post/against/) one's [own](/post/own/) [position](/post/position/), [just](/post/just/) [for](/post/for/) [the](/post/the/) [sake](/post/sake/) [of](/post/of/) [debate](/post/debate/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) folklore, [the](/en/post/the/) [devil](/en/post/devil/) is known [for](/en/post/for/) tempting humans [with](/en/post/with/) forbidden [fruit](/en/post/fruit/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) played devil's advocate [during](/en/post/during/) [the](/en/post/the/) theological [discussion](/en/post/discussion/)."
-- **Phrasal**: "[She](/en/post/she/) had [to](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [the](/en/post/the/) [devil](/en/post/devil/) [when](/en/post/when/) negotiating [the](/en/post/the/) [contract](/en/post/contract/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[In](/post/in/) folklore, [the](/post/the/) [devil](/post/devil/) is known [for](/post/for/) tempting humans [with](/post/with/) forbidden [fruit](/post/fruit/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) played devil's advocate [during](/post/during/) [the](/post/the/) theological [discussion](/post/discussion/)."
+- **Phrasal**: "[She](/post/she/) had [to](/post/to/) [deal](/post/deal/) [with](/post/with/) [the](/post/the/) [devil](/post/devil/) [when](/post/when/) negotiating [the](/post/the/) [contract](/post/contract/)."
 
 ## Synonyms
 - Fiend
 - Demon
-- [Wicked](/en/post/wicked/)
+- [Wicked](/post/wicked/)
 - Rascal
 - Scoundrel
 - Rogue
 - Imp
 
 ## Antonyms
-- [Saint](/en/post/saint/)
-- [Angel](/en/post/angel/)
-- [Innocent](/en/post/innocent/)
-- [Good](/en/post/good/)
+- [Saint](/post/saint/)
+- [Angel](/post/angel/)
+- [Innocent](/post/innocent/)
+- [Good](/post/good/)
 - Righteous

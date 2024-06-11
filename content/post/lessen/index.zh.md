@@ -11,20 +11,20 @@ keywords = ['ai words', 'lessen']
 /ˈlɛsən/
 
 ## 释义
-- **动词**: 减少，减轻。例如: "Taking [regular](/post/regular/) breaks [can](/post/can/) [lessen](/post/lessen/) work-related [stress](/post/stress/)."
-- **名词**: (尤指正式的)课程，一节课。例如: "[The](/post/the/) [teacher](/post/teacher/) prepared [for](/post/for/) [her](/post/her/) English [lesson](/post/lesson/)."
+- **动词**: 减少，减轻。例如: "Taking [regular](/zh/post/regular/) breaks [can](/zh/post/can/) [lessen](/zh/post/lessen/) work-related [stress](/zh/post/stress/)."
+- **名词**: (尤指正式的)课程，一节课。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) prepared [for](/zh/post/for/) [her](/zh/post/her/) English [lesson](/zh/post/lesson/)."
 
 ## 短语
-- "[Lessen](/post/lessen/) [the](/post/the/) [burden](/post/burden/)" 减轻负担
-- "[To](/post/to/) [lessen](/post/lessen/) one's workload" 减轻工作量
+- "[Lessen](/zh/post/lessen/) [the](/zh/post/the/) [burden](/zh/post/burden/)" 减轻负担
+- "[To](/zh/post/to/) [lessen](/zh/post/lessen/) one's workload" 减轻工作量
 
 ## 例句
-- 动词: "[A](/post/a/) [good](/post/good/) night's [sleep](/post/sleep/) [will](/post/will/) [greatly](/post/greatly/) [lessen](/post/lessen/) [your](/post/your/) [fatigue](/post/fatigue/)."
-- 名词: "[The](/post/the/) students were given [a](/post/a/) [new](/post/new/) [lesson](/post/lesson/) [on](/post/on/) [grammar](/post/grammar/)."
+- 动词: "[A](/zh/post/a/) [good](/zh/post/good/) night's [sleep](/zh/post/sleep/) [will](/zh/post/will/) [greatly](/zh/post/greatly/) [lessen](/zh/post/lessen/) [your](/zh/post/your/) [fatigue](/zh/post/fatigue/)."
+- 名词: "[The](/zh/post/the/) students were given [a](/zh/post/a/) [new](/zh/post/new/) [lesson](/zh/post/lesson/) [on](/zh/post/on/) [grammar](/zh/post/grammar/)."
 
 ## 同义词
-- [Reduce](/post/reduce/)
+- [Reduce](/zh/post/reduce/)
 - Diminish
 - Minimize
 - Alleviate
-- [Decrease](/post/decrease/)
+- [Decrease](/zh/post/decrease/)

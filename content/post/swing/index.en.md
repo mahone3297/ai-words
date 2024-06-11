@@ -7,40 +7,40 @@ description = '[swiŋ] vi.摇摆；回转 n.摇摆'
 keywords = ['ai words', 'swing']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /swɪŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [movement](/en/post/movement/) [or](/en/post/or/) [action](/en/post/action/)**: [A](/en/post/a/) pendulum [movement](/en/post/movement/), typically [from](/en/post/from/) [side](/en/post/side/) [to](/en/post/to/) [side](/en/post/side/), [as](/en/post/as/) [on](/en/post/on/) [a](/en/post/a/) [playground](/en/post/playground/) [swing](/en/post/swing/) [or](/en/post/or/) [a](/en/post/a/) [golf](/en/post/golf/) [club](/en/post/club/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) was having [fun](/en/post/fun/) [on](/en/post/on/) [the](/en/post/the/) [tire](/en/post/tire/) [swing](/en/post/swing/)."
-- **[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [change](/en/post/change/) [or](/en/post/or/) alternation**: [A](/en/post/a/) [shift](/en/post/shift/) [in](/en/post/in/) [mood](/en/post/mood/), [opinion](/en/post/opinion/), [or](/en/post/or/) circumstances. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) [forecast](/en/post/forecast/) predicts [a](/en/post/a/) [swing](/en/post/swing/) [in](/en/post/in/) temperatures [this](/en/post/this/) [week](/en/post/week/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [movement](/post/movement/) [or](/post/or/) [action](/post/action/)**: [A](/post/a/) pendulum [movement](/post/movement/), typically [from](/post/from/) [side](/post/side/) [to](/post/to/) [side](/post/side/), [as](/post/as/) [on](/post/on/) [a](/post/a/) [playground](/post/playground/) [swing](/post/swing/) [or](/post/or/) [a](/post/a/) [golf](/post/golf/) [club](/post/club/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [child](/post/child/) was having [fun](/post/fun/) [on](/post/on/) [the](/post/the/) [tire](/post/tire/) [swing](/post/swing/)."
+- **[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [change](/post/change/) [or](/post/or/) alternation**: [A](/post/a/) [shift](/post/shift/) [in](/post/in/) [mood](/post/mood/), [opinion](/post/opinion/), [or](/post/or/) circumstances. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/) predicts [a](/post/a/) [swing](/post/swing/) [in](/post/in/) temperatures [this](/post/this/) [week](/post/week/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [move](/en/post/move/) [with](/en/post/with/) [a](/en/post/a/) swinging [motion](/en/post/motion/)**: [To](/en/post/to/) propel [oneself](/en/post/oneself/) [by](/en/post/by/) pushing [off](/en/post/off/) [with](/en/post/with/) [one](/en/post/one/) [foot](/en/post/foot/) [while](/en/post/while/) hanging [from](/en/post/from/) [a](/en/post/a/) [bar](/en/post/bar/) [or](/en/post/or/) [rope](/en/post/rope/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) swung [high](/en/post/high/) [above](/en/post/above/) [the](/en/post/the/) [ground](/en/post/ground/) [on](/en/post/on/) [the](/en/post/the/) [jungle](/en/post/jungle/) gym."
-- **[To](/en/post/to/) [vary](/en/post/vary/) [or](/en/post/or/) alternate [between](/en/post/between/) [two](/en/post/two/) extremes**: [To](/en/post/to/) [change](/en/post/change/) [direction](/en/post/direction/) [or](/en/post/or/) [opinion](/en/post/opinion/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) moods swung [from](/en/post/from/) [happy](/en/post/happy/) [to](/en/post/to/) [sad](/en/post/sad/) [in](/en/post/in/) [a](/en/post/a/) [matter](/en/post/matter/) [of](/en/post/of/) minutes."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [move](/post/move/) [with](/post/with/) [a](/post/a/) swinging [motion](/post/motion/)**: [To](/post/to/) propel [oneself](/post/oneself/) [by](/post/by/) pushing [off](/post/off/) [with](/post/with/) [one](/post/one/) [foot](/post/foot/) [while](/post/while/) hanging [from](/post/from/) [a](/post/a/) [bar](/post/bar/) [or](/post/or/) [rope](/post/rope/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) swung [high](/post/high/) [above](/post/above/) [the](/post/the/) [ground](/post/ground/) [on](/post/on/) [the](/post/the/) [jungle](/post/jungle/) gym."
+- **[To](/post/to/) [vary](/post/vary/) [or](/post/or/) alternate [between](/post/between/) [two](/post/two/) extremes**: [To](/post/to/) [change](/post/change/) [direction](/post/direction/) [or](/post/or/) [opinion](/post/opinion/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) moods swung [from](/post/from/) [happy](/post/happy/) [to](/post/to/) [sad](/post/sad/) [in](/post/in/) [a](/post/a/) [matter](/post/matter/) [of](/post/of/) minutes."
 
-### [Adjective](/en/post/adjective/)
-- **[Adjective](/en/post/adjective/) describing [a](/en/post/a/) rhythmic [or](/en/post/or/) [regular](/en/post/regular/) [movement](/en/post/movement/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [smooth](/en/post/smooth/), back-and-forth [motion](/en/post/motion/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) pendulum's [graceful](/en/post/graceful/) [swing](/en/post/swing/)."
-- **[Adjective](/en/post/adjective/) describing [a](/en/post/a/) [wide](/en/post/wide/) [range](/en/post/range/) [or](/en/post/or/) [variation](/en/post/variation/)**: [Extensive](/en/post/extensive/) [or](/en/post/or/) [considerable](/en/post/considerable/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [stock](/en/post/stock/) [market](/en/post/market/) experienced [a](/en/post/a/) [wild](/en/post/wild/) [swing](/en/post/swing/) [in](/en/post/in/) [value](/en/post/value/)."
+### [Adjective](/post/adjective/)
+- **[Adjective](/post/adjective/) describing [a](/post/a/) rhythmic [or](/post/or/) [regular](/post/regular/) [movement](/post/movement/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [smooth](/post/smooth/), back-and-forth [motion](/post/motion/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) pendulum's [graceful](/post/graceful/) [swing](/post/swing/)."
+- **[Adjective](/post/adjective/) describing [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [or](/post/or/) [variation](/post/variation/)**: [Extensive](/post/extensive/) [or](/post/or/) [considerable](/post/considerable/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [stock](/post/stock/) [market](/post/market/) experienced [a](/post/a/) [wild](/post/wild/) [swing](/post/swing/) [in](/post/in/) [value](/post/value/)."
 
-### [Adverb](/en/post/adverb/)
-- **An [adverb](/en/post/adverb/) indicating [a](/en/post/a/) swinging [or](/en/post/or/) pendulous [movement](/en/post/movement/)**: [In](/en/post/in/) [a](/en/post/a/) swinging [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) swung [his](/en/post/his/) arms [widely](/en/post/widely/) [as](/en/post/as/) [he](/en/post/he/) walked."
+### [Adverb](/post/adverb/)
+- **An [adverb](/post/adverb/) indicating [a](/post/a/) swinging [or](/post/or/) pendulous [movement](/post/movement/)**: [In](/post/in/) [a](/post/a/) swinging [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) swung [his](/post/his/) arms [widely](/post/widely/) [as](/post/as/) [he](/post/he/) walked."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [swing](/en/post/swing/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) an [attempt](/en/post/attempt/) [or](/en/post/or/) [try](/en/post/try/) [something](/en/post/something/).
-- "[Swing](/en/post/swing/) [by](/en/post/by/)" is an informal [way](/en/post/way/) [to](/en/post/to/) [say](/en/post/say/) [to](/en/post/to/) [stop](/en/post/stop/) [by](/en/post/by/) briefly.
-- "[Hang](/en/post/hang/) [on](/en/post/on/) [to](/en/post/to/) [the](/en/post/the/) [swing](/en/post/swing/)" implies holding [onto](/en/post/onto/) [something](/en/post/something/) securely [while](/en/post/while/) swinging.
+- "[Take](/post/take/) [a](/post/a/) [swing](/post/swing/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) an [attempt](/post/attempt/) [or](/post/or/) [try](/post/try/) [something](/post/something/).
+- "[Swing](/post/swing/) [by](/post/by/)" is an informal [way](/post/way/) [to](/post/to/) [say](/post/say/) [to](/post/to/) [stop](/post/stop/) [by](/post/by/) briefly.
+- "[Hang](/post/hang/) [on](/post/on/) [to](/post/to/) [the](/post/the/) [swing](/post/swing/)" implies holding [onto](/post/onto/) [something](/post/something/) securely [while](/post/while/) swinging.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [man](/en/post/man/) sat [on](/en/post/on/) [the](/en/post/the/) [porch](/en/post/porch/), watching [the](/en/post/the/) children's swings [sway](/en/post/sway/) [gently](/en/post/gently/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [his](/en/post/his/) homework, [he](/en/post/he/) took [a](/en/post/a/) [swing](/en/post/swing/) [at](/en/post/at/) [the](/en/post/the/) baseball [game](/en/post/game/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [mood](/en/post/mood/) swings were unpredictable, making [it](/en/post/it/) [hard](/en/post/hard/) [to](/en/post/to/) [plan](/en/post/plan/) [our](/en/post/our/) [day](/en/post/day/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [man](/post/man/) sat [on](/post/on/) [the](/post/the/) [porch](/post/porch/), watching [the](/post/the/) children's swings [sway](/post/sway/) [gently](/post/gently/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) finishing [his](/post/his/) homework, [he](/post/he/) took [a](/post/a/) [swing](/post/swing/) [at](/post/at/) [the](/post/the/) baseball [game](/post/game/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [mood](/post/mood/) swings were unpredictable, making [it](/post/it/) [hard](/post/hard/) [to](/post/to/) [plan](/post/plan/) [our](/post/our/) [day](/post/day/)."
 
 ## Synonyms
 - Pivot
 - Oscillate
-- [Rock](/en/post/rock/)
-- [Shift](/en/post/shift/)
-- [Change](/en/post/change/) ([in](/en/post/in/) context)
+- [Rock](/post/rock/)
+- [Shift](/post/shift/)
+- [Change](/post/change/) ([in](/post/in/) context)
 - Maneuver
-- [Beat](/en/post/beat/) ([in](/en/post/in/) context)
+- [Beat](/post/beat/) ([in](/post/in/) context)

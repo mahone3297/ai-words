@@ -7,32 +7,32 @@ description = '[ˌdʒenəˈrei∫ən] n.一代(人)；产生'
 keywords = ['ai words', 'generation']
 +++
 
-## [Word](/en/post/word/): [Generation](/en/post/generation/)
+## [Word](/post/word/): [Generation](/post/generation/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌdʒenəˈreɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) producing [or](/en/post/or/) creating [something](/en/post/something/); [the](/en/post/the/) creation [of](/en/post/of/) offspring [or](/en/post/or/) [new](/en/post/new/) individuals [of](/en/post/of/) [a](/en/post/a/) species. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [next](/en/post/next/) [generation](/en/post/generation/) [of](/en/post/of/) smartphones [will](/en/post/will/) [be](/en/post/be/) [even](/en/post/even/) [more](/en/post/more/) [advanced](/en/post/advanced/)."
-  - [Also](/en/post/also/) refers [to](/en/post/to/) [all](/en/post/all/) [the](/en/post/the/) [people](/en/post/people/) [born](/en/post/born/) [and](/en/post/and/) [living](/en/post/living/) [during](/en/post/during/) [a](/en/post/a/) [particular](/en/post/particular/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) regarded collectively. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [baby](/en/post/baby/) boomers [belong](/en/post/belong/) [to](/en/post/to/) [a](/en/post/a/) [different](/en/post/different/) [generation](/en/post/generation/) [than](/en/post/than/) millennials."
-  - [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [within](/en/post/within/) [a](/en/post/a/) [family](/en/post/family/) [who](/en/post/who/) are [about](/en/post/about/) [the](/en/post/the/) [same](/en/post/same/) [age](/en/post/age/), [especially](/en/post/especially/) children [of](/en/post/of/) [the](/en/post/the/) [same](/en/post/same/) parents. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) had [three](/en/post/three/) generations [living](/en/post/living/) [under](/en/post/under/) [one](/en/post/one/) [roof](/en/post/roof/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) producing [or](/post/or/) creating [something](/post/something/); [the](/post/the/) creation [of](/post/of/) offspring [or](/post/or/) [new](/post/new/) individuals [of](/post/of/) [a](/post/a/) species. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [next](/post/next/) [generation](/post/generation/) [of](/post/of/) smartphones [will](/post/will/) [be](/post/be/) [even](/post/even/) [more](/post/more/) [advanced](/post/advanced/)."
+  - [Also](/post/also/) refers [to](/post/to/) [all](/post/all/) [the](/post/the/) [people](/post/people/) [born](/post/born/) [and](/post/and/) [living](/post/living/) [during](/post/during/) [a](/post/a/) [particular](/post/particular/) [period](/post/period/) [of](/post/of/) [time](/post/time/) regarded collectively. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [baby](/post/baby/) boomers [belong](/post/belong/) [to](/post/to/) [a](/post/a/) [different](/post/different/) [generation](/post/generation/) [than](/post/than/) millennials."
+  - [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [within](/post/within/) [a](/post/a/) [family](/post/family/) [who](/post/who/) are [about](/post/about/) [the](/post/the/) [same](/post/same/) [age](/post/age/), [especially](/post/especially/) children [of](/post/of/) [the](/post/the/) [same](/post/same/) parents. [For](/post/for/) [example](/post/example/): "[They](/post/they/) had [three](/post/three/) generations [living](/post/living/) [under](/post/under/) [one](/post/one/) [roof](/post/roof/)."
 
-- **[Verb](/en/post/verb/)**: ([usually](/en/post/usually/) [with](/en/post/with/) '[generate](/en/post/generate/)') [To](/en/post/to/) [produce](/en/post/produce/), [create](/en/post/create/), [cause](/en/post/cause/) [to](/en/post/to/) [come](/en/post/come/) [into](/en/post/into/) [existence](/en/post/existence/), [or](/en/post/or/) [bring](/en/post/bring/) [about](/en/post/about/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [power](/en/post/power/) [plant](/en/post/plant/) generates [enough](/en/post/enough/) [electricity](/en/post/electricity/) [to](/en/post/to/) [serve](/en/post/serve/) [a](/en/post/a/) [whole](/en/post/whole/) [city](/en/post/city/)."
+- **[Verb](/post/verb/)**: ([usually](/post/usually/) [with](/post/with/) '[generate](/post/generate/)') [To](/post/to/) [produce](/post/produce/), [create](/post/create/), [cause](/post/cause/) [to](/post/to/) [come](/post/come/) [into](/post/into/) [existence](/post/existence/), [or](/post/or/) [bring](/post/bring/) [about](/post/about/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [power](/post/power/) [plant](/post/plant/) generates [enough](/post/enough/) [electricity](/post/electricity/) [to](/post/to/) [serve](/post/serve/) [a](/post/a/) [whole](/post/whole/) [city](/post/city/)."
 
 ## Phrases
-- "[Next](/en/post/next/) [generation](/en/post/generation/)": Refers [to](/en/post/to/) [the](/en/post/the/) latest [or](/en/post/or/) upcoming [development](/en/post/development/), [model](/en/post/model/), [or](/en/post/or/) [version](/en/post/version/) [of](/en/post/of/) [something](/en/post/something/).
-- "[Generation](/en/post/generation/) [gap](/en/post/gap/)": [A](/en/post/a/) [difference](/en/post/difference/) [of](/en/post/of/) opinions [or](/en/post/or/) lifestyles [between](/en/post/between/) [one](/en/post/one/) [generation](/en/post/generation/) [and](/en/post/and/) [another](/en/post/another/), typically [between](/en/post/between/) [young](/en/post/young/) [people](/en/post/people/) [and](/en/post/and/) [their](/en/post/their/) elders.
-- "Generational [wealth](/en/post/wealth/)": [Wealth](/en/post/wealth/) passed [down](/en/post/down/) [from](/en/post/from/) [one](/en/post/one/) [generation](/en/post/generation/) [to](/en/post/to/) [the](/en/post/the/) [next](/en/post/next/) [within](/en/post/within/) [a](/en/post/a/) [family](/en/post/family/).
+- "[Next](/post/next/) [generation](/post/generation/)": Refers [to](/post/to/) [the](/post/the/) latest [or](/post/or/) upcoming [development](/post/development/), [model](/post/model/), [or](/post/or/) [version](/post/version/) [of](/post/of/) [something](/post/something/).
+- "[Generation](/post/generation/) [gap](/post/gap/)": [A](/post/a/) [difference](/post/difference/) [of](/post/of/) opinions [or](/post/or/) lifestyles [between](/post/between/) [one](/post/one/) [generation](/post/generation/) [and](/post/and/) [another](/post/another/), typically [between](/post/between/) [young](/post/young/) [people](/post/people/) [and](/post/and/) [their](/post/their/) elders.
+- "Generational [wealth](/post/wealth/)": [Wealth](/post/wealth/) passed [down](/post/down/) [from](/post/from/) [one](/post/one/) [generation](/post/generation/) [to](/post/to/) [the](/post/the/) [next](/post/next/) [within](/post/within/) [a](/post/a/) [family](/post/family/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [current](/en/post/current/) [generation](/en/post/generation/) has grown [up](/en/post/up/) [with](/en/post/with/) [technology](/en/post/technology/) integrated [into](/en/post/into/) [their](/en/post/their/) [daily](/en/post/daily/) lives."
-- **[Verb](/en/post/verb/)**: "Renewable [energy](/en/post/energy/) sources [generate](/en/post/generate/) [power](/en/post/power/) [without](/en/post/without/) harming [the](/en/post/the/) [environment](/en/post/environment/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [current](/post/current/) [generation](/post/generation/) has grown [up](/post/up/) [with](/post/with/) [technology](/post/technology/) integrated [into](/post/into/) [their](/post/their/) [daily](/post/daily/) lives."
+- **[Verb](/post/verb/)**: "Renewable [energy](/post/energy/) sources [generate](/post/generate/) [power](/post/power/) [without](/post/without/) harming [the](/post/the/) [environment](/post/environment/)."
 
 ## Synonyms
-- [Production](/en/post/production/)
+- [Production](/post/production/)
 - Creation
 - Procreation
 - Offspring
-- [Birth](/en/post/birth/)
-- Innovation ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
-- [Produce](/en/post/produce/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
+- [Birth](/post/birth/)
+- Innovation ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/))
+- [Produce](/post/produce/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))

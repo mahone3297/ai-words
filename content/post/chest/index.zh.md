@@ -11,20 +11,20 @@ keywords = ['ai words', 'chest']
 /ʧɛst/
 
 ## 释义
-- **名词**: 胸部；胸膛。例如: "[He](/post/he/) [put](/post/put/) [his](/post/his/) hands [on](/post/on/) [his](/post/his/) [chest](/post/chest/)."
-- **名词**: 箱子；柜子；储物箱。例如: "[She](/post/she/) kept [her](/post/her/) treasures [in](/post/in/) an [old](/post/old/) [wooden](/post/wooden/) [chest](/post/chest/)."
+- **名词**: 胸部；胸膛。例如: "[He](/zh/post/he/) [put](/zh/post/put/) [his](/zh/post/his/) hands [on](/zh/post/on/) [his](/zh/post/his/) [chest](/zh/post/chest/)."
+- **名词**: 箱子；柜子；储物箱。例如: "[She](/zh/post/she/) kept [her](/zh/post/her/) treasures [in](/zh/post/in/) an [old](/zh/post/old/) [wooden](/zh/post/wooden/) [chest](/zh/post/chest/)."
 
 ## 短语
-- "[open](/post/open/) one's [chest](/post/chest/)" 意为敞开心扉，坦诚相告。
-- "[breast](/post/breast/) [cancer](/post/cancer/) screening [of](/post/of/) [the](/post/the/) [chest](/post/chest/)" 指胸部的乳腺癌筛查。
+- "[open](/zh/post/open/) one's [chest](/zh/post/chest/)" 意为敞开心扉，坦诚相告。
+- "[breast](/zh/post/breast/) [cancer](/zh/post/cancer/) screening [of](/zh/post/of/) [the](/zh/post/the/) [chest](/zh/post/chest/)" 指胸部的乳腺癌筛查。
 
 ## 例句
-- 名词: "[After](/post/after/) [the](/post/the/) workout, [he](/post/he/) felt [his](/post/his/) [heart](/post/heart/) pounding [in](/post/in/) [his](/post/his/) [chest](/post/chest/)."
-- 名词: "[The](/post/the/) pirate's [treasure](/post/treasure/) was hidden [inside](/post/inside/) [a](/post/a/) [large](/post/large/) [wooden](/post/wooden/) [chest](/post/chest/)."
+- 名词: "[After](/zh/post/after/) [the](/zh/post/the/) workout, [he](/zh/post/he/) felt [his](/zh/post/his/) [heart](/zh/post/heart/) pounding [in](/zh/post/in/) [his](/zh/post/his/) [chest](/zh/post/chest/)."
+- 名词: "[The](/zh/post/the/) pirate's [treasure](/zh/post/treasure/) was hidden [inside](/zh/post/inside/) [a](/zh/post/a/) [large](/zh/post/large/) [wooden](/zh/post/wooden/) [chest](/zh/post/chest/)."
 
 ## 同义词
-- [Breast](/post/breast/)
-- Pectoral [region](/post/region/)
-- [Box](/post/box/)
-- [Trunk](/post/trunk/)
+- [Breast](/zh/post/breast/)
+- Pectoral [region](/zh/post/region/)
+- [Box](/zh/post/box/)
+- [Trunk](/zh/post/trunk/)
 - Coffer

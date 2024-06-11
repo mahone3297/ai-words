@@ -7,39 +7,39 @@ description = '[ˈse∫ən] n.会议，一段时间'
 keywords = ['ai words', 'session']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[session](/en/post/session/)/
+## [Pronunciation](/post/pronunciation/)
+/[session](/post/session/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[session](/en/post/session/)** [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/):
-1. An appointed [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [during](/en/post/during/) [which](/en/post/which/) [a](/en/post/a/) [meeting](/en/post/meeting/), [activity](/en/post/activity/), [or](/en/post/or/) [event](/en/post/event/) takes [place](/en/post/place/): *[The](/en/post/the/) [business](/en/post/business/) [meeting](/en/post/meeting/) [will](/en/post/will/) [begin](/en/post/begin/) [at](/en/post/at/) 2 PM [and](/en/post/and/) [last](/en/post/last/) [for](/en/post/for/) [two](/en/post/two/) hours.*
-2. [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [musical](/en/post/musical/) performances: *[The](/en/post/the/) [concert](/en/post/concert/) had [three](/en/post/three/) [separate](/en/post/separate/) sessions featuring [different](/en/post/different/) artists.*
-3. [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [continuous](/en/post/continuous/) [use](/en/post/use/) [or](/en/post/or/) engagement [with](/en/post/with/) [a](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [service](/en/post/service/): *I [have](/en/post/have/) [a](/en/post/a/) [long](/en/post/long/) gaming [session](/en/post/session/) planned [tonight](/en/post/tonight/).*
+### [Noun](/post/noun/)
+[A](/post/a/) **[session](/post/session/)** [can](/post/can/) [refer](/post/refer/) [to](/post/to/):
+1. An appointed [period](/post/period/) [of](/post/of/) [time](/post/time/) [during](/post/during/) [which](/post/which/) [a](/post/a/) [meeting](/post/meeting/), [activity](/post/activity/), [or](/post/or/) [event](/post/event/) takes [place](/post/place/): *[The](/post/the/) [business](/post/business/) [meeting](/post/meeting/) [will](/post/will/) [begin](/post/begin/) [at](/post/at/) 2 PM [and](/post/and/) [last](/post/last/) [for](/post/for/) [two](/post/two/) hours.*
+2. [A](/post/a/) [series](/post/series/) [of](/post/of/) [musical](/post/musical/) performances: *[The](/post/the/) [concert](/post/concert/) had [three](/post/three/) [separate](/post/separate/) sessions featuring [different](/post/different/) artists.*
+3. [A](/post/a/) [period](/post/period/) [of](/post/of/) [continuous](/post/continuous/) [use](/post/use/) [or](/post/or/) engagement [with](/post/with/) [a](/post/a/) [device](/post/device/) [or](/post/or/) [service](/post/service/): *I [have](/post/have/) [a](/post/a/) [long](/post/long/) gaming [session](/post/session/) planned [tonight](/post/tonight/).*
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[session](/en/post/session/)** (informal) [means](/en/post/means/) [to](/en/post/to/) [attend](/en/post/attend/) [or](/en/post/or/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [session](/en/post/session/), [often](/en/post/often/) [for](/en/post/for/) [a](/en/post/a/) prolonged [period](/en/post/period/): *[They](/en/post/they/) decided [to](/en/post/to/) [session](/en/post/session/) [all](/en/post/all/) [day](/en/post/day/) [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/).*
-4. (Computing) [To](/en/post/to/) [establish](/en/post/establish/) [a](/en/post/a/) [connection](/en/post/connection/) [or](/en/post/or/) [interaction](/en/post/interaction/): *[He](/en/post/he/) logged [in](/en/post/in/) [for](/en/post/for/) [a](/en/post/a/) [video](/en/post/video/) [session](/en/post/session/) [with](/en/post/with/) [his](/en/post/his/) colleagues.*
+### [Verb](/post/verb/)
+[To](/post/to/) **[session](/post/session/)** (informal) [means](/post/means/) [to](/post/to/) [attend](/post/attend/) [or](/post/or/) [participate](/post/participate/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [session](/post/session/), [often](/post/often/) [for](/post/for/) [a](/post/a/) prolonged [period](/post/period/): *[They](/post/they/) decided [to](/post/to/) [session](/post/session/) [all](/post/all/) [day](/post/day/) [at](/post/at/) [the](/post/the/) [conference](/post/conference/).*
+4. (Computing) [To](/post/to/) [establish](/post/establish/) [a](/post/a/) [connection](/post/connection/) [or](/post/or/) [interaction](/post/interaction/): *[He](/post/he/) logged [in](/post/in/) [for](/post/for/) [a](/post/a/) [video](/post/video/) [session](/post/session/) [with](/post/with/) [his](/post/his/) colleagues.*
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) British English, "[session](/en/post/session/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [style](/en/post/style/) [of](/en/post/of/) [music](/en/post/music/), [particularly](/en/post/particularly/) [rock](/en/post/rock/) [or](/en/post/or/) [folk](/en/post/folk/): *[A](/en/post/a/) [traditional](/en/post/traditional/) Irish pub [session](/en/post/session/).*
+### [Adjective](/post/adjective/)
+[In](/post/in/) British English, "[session](/post/session/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [style](/post/style/) [of](/post/of/) [music](/post/music/), [particularly](/post/particularly/) [rock](/post/rock/) [or](/post/or/) [folk](/post/folk/): *[A](/post/a/) [traditional](/post/traditional/) Irish pub [session](/post/session/).*
 
 ## Phrases
-- "[Join](/en/post/join/) [a](/en/post/a/) [session](/en/post/session/)" [means](/en/post/means/) [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [event](/en/post/event/) [or](/en/post/or/) [activity](/en/post/activity/).
-- "[Breakfast](/en/post/breakfast/) [session](/en/post/session/)" is [a](/en/post/a/) [morning](/en/post/morning/) [meeting](/en/post/meeting/) [or](/en/post/or/) gathering.
-- "[Remote](/en/post/remote/) [work](/en/post/work/) [session](/en/post/session/)" refers [to](/en/post/to/) [a](/en/post/a/) virtual [meeting](/en/post/meeting/) [or](/en/post/or/) collaboration.
+- "[Join](/post/join/) [a](/post/a/) [session](/post/session/)" [means](/post/means/) [to](/post/to/) [participate](/post/participate/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [event](/post/event/) [or](/post/or/) [activity](/post/activity/).
+- "[Breakfast](/post/breakfast/) [session](/post/session/)" is [a](/post/a/) [morning](/post/morning/) [meeting](/post/meeting/) [or](/post/or/) gathering.
+- "[Remote](/post/remote/) [work](/post/work/) [session](/post/session/)" refers [to](/post/to/) [a](/post/a/) virtual [meeting](/post/meeting/) [or](/post/or/) collaboration.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [team](/en/post/team/) had [a](/en/post/a/) [productive](/en/post/productive/) brainstorming [session](/en/post/session/) [this](/en/post/this/) [morning](/en/post/morning/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) scheduled [a](/en/post/a/) lengthy online therapy [session](/en/post/session/) [for](/en/post/for/) [next](/en/post/next/) [week](/en/post/week/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) pub's [live](/en/post/live/) [session](/en/post/session/) [on](/en/post/on/) Saturday evenings is [always](/en/post/always/) [popular](/en/post/popular/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [team](/post/team/) had [a](/post/a/) [productive](/post/productive/) brainstorming [session](/post/session/) [this](/post/this/) [morning](/post/morning/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) scheduled [a](/post/a/) lengthy online therapy [session](/post/session/) [for](/post/for/) [next](/post/next/) [week](/post/week/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) pub's [live](/post/live/) [session](/post/session/) [on](/post/on/) Saturday evenings is [always](/post/always/) [popular](/post/popular/)."
 
 ## Synonyms
 - Gathering
-- [Appointment](/en/post/appointment/)
+- [Appointment](/post/appointment/)
 - Sitting
-- Gathering [together](/en/post/together/)
+- Gathering [together](/post/together/)
 - Engagement
-- Gathering [period](/en/post/period/)
+- Gathering [period](/post/period/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [usage](/en/post/usage/) [for](/en/post/for/) "[session](/en/post/session/)" is [less](/en/post/less/) [common](/en/post/common/) [and](/en/post/and/) informal, [primarily](/en/post/primarily/) referring [to](/en/post/to/) attending [or](/en/post/or/) participating [in](/en/post/in/) [a](/en/post/a/) [session](/en/post/session/). [In](/en/post/in/) [formal](/en/post/formal/) contexts, it's [more](/en/post/more/) [likely](/en/post/likely/) [to](/en/post/to/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/).
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [usage](/post/usage/) [for](/post/for/) "[session](/post/session/)" is [less](/post/less/) [common](/post/common/) [and](/post/and/) informal, [primarily](/post/primarily/) referring [to](/post/to/) attending [or](/post/or/) participating [in](/post/in/) [a](/post/a/) [session](/post/session/). [In](/post/in/) [formal](/post/formal/) contexts, it's [more](/post/more/) [likely](/post/likely/) [to](/post/to/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/).

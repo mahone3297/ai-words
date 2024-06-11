@@ -11,22 +11,22 @@ keywords = ['ai words', 'feeling']
 /ˈfiːlɪŋ/
 
 ## 释义
-- **名词**: 情感，感觉，情绪。例如: "[She](/post/she/) expressed [her](/post/her/) feelings [about](/post/about/) [the](/post/the/) [situation](/post/situation/)."
-- **动词**: 经历，感受到。例如: "I'm [feeling](/post/feeling/) [much](/post/much/) [better](/post/better/) [after](/post/after/) [a](/post/a/) [good](/post/good/) night's [sleep](/post/sleep/)."
+- **名词**: 情感，感觉，情绪。例如: "[She](/zh/post/she/) expressed [her](/zh/post/her/) feelings [about](/zh/post/about/) [the](/zh/post/the/) [situation](/zh/post/situation/)."
+- **动词**: 经历，感受到。例如: "I'm [feeling](/zh/post/feeling/) [much](/zh/post/much/) [better](/zh/post/better/) [after](/zh/post/after/) [a](/zh/post/a/) [good](/zh/post/good/) night's [sleep](/zh/post/sleep/)."
 
 ## 短语
-- "[express](/post/express/) one's feelings" 表达自己的情感。
-- "[in](/post/in/) [a](/post/a/) [good](/post/good/)/[bad](/post/bad/) [feeling](/post/feeling/)" 处于愉快/不快的情绪中。
-- "[get](/post/get/) [a](/post/a/) [feeling](/post/feeling/) [about](/post/about/) [something](/post/something/)" 对某事有预感或直觉。
+- "[express](/zh/post/express/) one's feelings" 表达自己的情感。
+- "[in](/zh/post/in/) [a](/zh/post/a/) [good](/zh/post/good/)/[bad](/zh/post/bad/) [feeling](/zh/post/feeling/)" 处于愉快/不快的情绪中。
+- "[get](/zh/post/get/) [a](/zh/post/a/) [feeling](/zh/post/feeling/) [about](/zh/post/about/) [something](/zh/post/something/)" 对某事有预感或直觉。
 
 ## 例句
-- 名词: "[He](/post/he/) kept [his](/post/his/) [true](/post/true/) feelings hidden [from](/post/from/) [everyone](/post/everyone/)."
-- 动词: "I [can](/post/can/) [feel](/post/feel/) [the](/post/the/) tension [in](/post/in/) [the](/post/the/) [room](/post/room/)."
-- 感叹词: "[Feeling](/post/feeling/) [tired](/post/tired/)? Let's [take](/post/take/) [a](/post/a/) [break](/post/break/)."
+- 名词: "[He](/zh/post/he/) kept [his](/zh/post/his/) [true](/zh/post/true/) feelings hidden [from](/zh/post/from/) [everyone](/zh/post/everyone/)."
+- 动词: "I [can](/zh/post/can/) [feel](/zh/post/feel/) [the](/zh/post/the/) tension [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/)."
+- 感叹词: "[Feeling](/zh/post/feeling/) [tired](/zh/post/tired/)? Let's [take](/zh/post/take/) [a](/zh/post/a/) [break](/zh/post/break/)."
 
 ## 同义词
-- [emotion](/post/emotion/)
+- [emotion](/zh/post/emotion/)
 - sentiment
-- [mood](/post/mood/)
+- [mood](/zh/post/mood/)
 - disposition
-- [attitude](/post/attitude/)
+- [attitude](/zh/post/attitude/)

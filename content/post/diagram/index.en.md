@@ -7,29 +7,29 @@ description = '[ˈdaiəgræm] n.图解，图表，简图'
 keywords = ['ai words', 'diagram']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈæɡræm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [visual](/en/post/visual/) representation [or](/en/post/or/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) symbols, shapes, [or](/en/post/or/) concepts [to](/en/post/to/) [show](/en/post/show/) relationships [or](/en/post/or/) [illustrate](/en/post/illustrate/) ideas. [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) flowchart, [a](/en/post/a/) [map](/en/post/map/), [or](/en/post/or/) [a](/en/post/a/) schematic. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) drew [a](/en/post/a/) [diagram](/en/post/diagram/) [on](/en/post/on/) [the](/en/post/the/) [board](/en/post/board/) [to](/en/post/to/) [explain](/en/post/explain/) [the](/en/post/the/) [process](/en/post/process/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [represent](/en/post/represent/) visually, typically [by](/en/post/by/) arranging elements [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [way](/en/post/way/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) diagrammed [the](/en/post/the/) [family](/en/post/family/) [tree](/en/post/tree/) [to](/en/post/to/) [show](/en/post/show/) [their](/en/post/their/) genealogy."
-- **[Noun](/en/post/noun/) (countable)**: [A](/en/post/a/) [single](/en/post/single/) [element](/en/post/element/) [or](/en/post/or/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) diagrams, [often](/en/post/often/) numbered [or](/en/post/or/) labeled. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lesson](/en/post/lesson/) included [several](/en/post/several/) diagrams, [each](/en/post/each/) showing [a](/en/post/a/) [different](/en/post/different/) [step](/en/post/step/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [visual](/post/visual/) representation [or](/post/or/) [arrangement](/post/arrangement/) [of](/post/of/) symbols, shapes, [or](/post/or/) concepts [to](/post/to/) [show](/post/show/) relationships [or](/post/or/) [illustrate](/post/illustrate/) ideas. [It](/post/it/) [can](/post/can/) [be](/post/be/) [a](/post/a/) flowchart, [a](/post/a/) [map](/post/map/), [or](/post/or/) [a](/post/a/) schematic. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) drew [a](/post/a/) [diagram](/post/diagram/) [on](/post/on/) [the](/post/the/) [board](/post/board/) [to](/post/to/) [explain](/post/explain/) [the](/post/the/) [process](/post/process/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [create](/post/create/) [or](/post/or/) [represent](/post/represent/) visually, typically [by](/post/by/) arranging elements [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [way](/post/way/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) diagrammed [the](/post/the/) [family](/post/family/) [tree](/post/tree/) [to](/post/to/) [show](/post/show/) [their](/post/their/) genealogy."
+- **[Noun](/post/noun/) (countable)**: [A](/post/a/) [single](/post/single/) [element](/post/element/) [or](/post/or/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [series](/post/series/) [of](/post/of/) diagrams, [often](/post/often/) numbered [or](/post/or/) labeled. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lesson](/post/lesson/) included [several](/post/several/) diagrams, [each](/post/each/) showing [a](/post/a/) [different](/post/different/) [step](/post/step/)."
 
 ## Phrases
-- "[Create](/en/post/create/) [a](/en/post/a/) [diagram](/en/post/diagram/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [visual](/en/post/visual/) representation [of](/en/post/of/) [something](/en/post/something/).
-- "[Use](/en/post/use/) [a](/en/post/a/) [diagram](/en/post/diagram/) [to](/en/post/to/) [explain](/en/post/explain/)" is [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [clarify](/en/post/clarify/) [a](/en/post/a/) [concept](/en/post/concept/) [with](/en/post/with/) visuals.
-- "[A](/en/post/a/) flowchart [diagram](/en/post/diagram/)" shows [a](/en/post/a/) [sequence](/en/post/sequence/) [of](/en/post/of/) actions [or](/en/post/or/) processes.
+- "[Create](/post/create/) [a](/post/a/) [diagram](/post/diagram/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [visual](/post/visual/) representation [of](/post/of/) [something](/post/something/).
+- "[Use](/post/use/) [a](/post/a/) [diagram](/post/diagram/) [to](/post/to/) [explain](/post/explain/)" is [a](/post/a/) [way](/post/way/) [to](/post/to/) [clarify](/post/clarify/) [a](/post/a/) [concept](/post/concept/) [with](/post/with/) visuals.
+- "[A](/post/a/) flowchart [diagram](/post/diagram/)" shows [a](/post/a/) [sequence](/post/sequence/) [of](/post/of/) actions [or](/post/or/) processes.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) students were given [a](/en/post/a/) worksheet [with](/en/post/with/) [a](/en/post/a/) [diagram](/en/post/diagram/) [of](/en/post/of/) [the](/en/post/the/) [solar](/en/post/solar/) [system](/en/post/system/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) architect diagrammed [the](/en/post/the/) [building](/en/post/building/) [layout](/en/post/layout/) [before](/en/post/before/) [construction](/en/post/construction/) began."
-- **[Noun](/en/post/noun/) (countable)**: "[The](/en/post/the/) [book](/en/post/book/) contains [numerous](/en/post/numerous/) diagrams, helping readers [understand](/en/post/understand/) [complex](/en/post/complex/) concepts."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) students were given [a](/post/a/) worksheet [with](/post/with/) [a](/post/a/) [diagram](/post/diagram/) [of](/post/of/) [the](/post/the/) [solar](/post/solar/) [system](/post/system/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) architect diagrammed [the](/post/the/) [building](/post/building/) [layout](/post/layout/) [before](/post/before/) [construction](/post/construction/) began."
+- **[Noun](/post/noun/) (countable)**: "[The](/post/the/) [book](/post/book/) contains [numerous](/post/numerous/) diagrams, helping readers [understand](/post/understand/) [complex](/post/complex/) concepts."
 
 ## Synonyms
-- [Chart](/en/post/chart/)
-- [Illustration](/en/post/illustration/)
+- [Chart](/post/chart/)
+- [Illustration](/post/illustration/)
 - Representation
-- [Layout](/en/post/layout/)
-- [Graph](/en/post/graph/)
-- [Scheme](/en/post/scheme/)
+- [Layout](/post/layout/)
+- [Graph](/post/graph/)
+- [Scheme](/post/scheme/)
 - Blueprint

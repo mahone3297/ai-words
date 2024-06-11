@@ -7,43 +7,43 @@ description = '[deit] n.日期 vt.注…日期'
 keywords = ['ai words', 'date']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dət/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-    1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) arranging [a](/en/post/a/) [meeting](/en/post/meeting/) [or](/en/post/or/) engagement, [especially](/en/post/especially/) [a](/en/post/a/) [romantic](/en/post/romantic/) [one](/en/post/one/). "[We](/en/post/we/) are going [on](/en/post/on/) [a](/en/post/a/) [date](/en/post/date/) [tonight](/en/post/tonight/)."
-    2. [A](/en/post/a/) [specific](/en/post/specific/) [day](/en/post/day/) [or](/en/post/or/) [time](/en/post/time/) agreed [upon](/en/post/upon/) [for](/en/post/for/) [such](/en/post/such/) an engagement. "What's [our](/en/post/our/) [date](/en/post/date/) [for](/en/post/for/) [next](/en/post/next/) [week](/en/post/week/)?"
-    3. [A](/en/post/a/) [calendar](/en/post/calendar/) [date](/en/post/date/), [usually](/en/post/usually/) expressed [in](/en/post/in/) numerical [form](/en/post/form/) (e.g., 12/25). "Today's [date](/en/post/date/) is December 25th."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [plan](/en/post/plan/) [or](/en/post/or/) [set](/en/post/set/) [a](/en/post/a/) [meeting](/en/post/meeting/) [or](/en/post/or/) [appointment](/en/post/appointment/), [often](/en/post/often/) romantically. "I'm going [to](/en/post/to/) [ask](/en/post/ask/) [her](/en/post/her/) [out](/en/post/out/) [on](/en/post/on/) [a](/en/post/a/) [date](/en/post/date/)."
-- **[Noun](/en/post/noun/) ([as](/en/post/as/) [a](/en/post/a/) countable [noun](/en/post/noun/))**: An individual's assigned [day](/en/post/day/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/) [or](/en/post/or/) [event](/en/post/event/), [as](/en/post/as/) [in](/en/post/in/) [school](/en/post/school/) [or](/en/post/or/) [work](/en/post/work/). "[Each](/en/post/each/) [student](/en/post/student/) has [a](/en/post/a/) [different](/en/post/different/) homework [date](/en/post/date/)."
+- **[Noun](/post/noun/)**: 
+    1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) arranging [a](/post/a/) [meeting](/post/meeting/) [or](/post/or/) engagement, [especially](/post/especially/) [a](/post/a/) [romantic](/post/romantic/) [one](/post/one/). "[We](/post/we/) are going [on](/post/on/) [a](/post/a/) [date](/post/date/) [tonight](/post/tonight/)."
+    2. [A](/post/a/) [specific](/post/specific/) [day](/post/day/) [or](/post/or/) [time](/post/time/) agreed [upon](/post/upon/) [for](/post/for/) [such](/post/such/) an engagement. "What's [our](/post/our/) [date](/post/date/) [for](/post/for/) [next](/post/next/) [week](/post/week/)?"
+    3. [A](/post/a/) [calendar](/post/calendar/) [date](/post/date/), [usually](/post/usually/) expressed [in](/post/in/) numerical [form](/post/form/) (e.g., 12/25). "Today's [date](/post/date/) is December 25th."
+- **[Verb](/post/verb/)**: [To](/post/to/) [plan](/post/plan/) [or](/post/or/) [set](/post/set/) [a](/post/a/) [meeting](/post/meeting/) [or](/post/or/) [appointment](/post/appointment/), [often](/post/often/) romantically. "I'm going [to](/post/to/) [ask](/post/ask/) [her](/post/her/) [out](/post/out/) [on](/post/on/) [a](/post/a/) [date](/post/date/)."
+- **[Noun](/post/noun/) ([as](/post/as/) [a](/post/a/) countable [noun](/post/noun/))**: An individual's assigned [day](/post/day/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/) [or](/post/or/) [event](/post/event/), [as](/post/as/) [in](/post/in/) [school](/post/school/) [or](/post/or/) [work](/post/work/). "[Each](/post/each/) [student](/post/student/) has [a](/post/a/) [different](/post/different/) homework [date](/post/date/)."
 
 ## Phrases
-- "Going [on](/en/post/on/) [a](/en/post/a/) [first](/en/post/first/) [date](/en/post/date/)" refers [to](/en/post/to/) starting [a](/en/post/a/) [romantic](/en/post/romantic/) [relationship](/en/post/relationship/).
-- "[Set](/en/post/set/) [a](/en/post/a/) [date](/en/post/date/)" [means](/en/post/means/) [to](/en/post/to/) [decide](/en/post/decide/) [on](/en/post/on/) [a](/en/post/a/) [specific](/en/post/specific/) [time](/en/post/time/) [for](/en/post/for/) an [event](/en/post/event/).
-- "[Date](/en/post/date/) [night](/en/post/night/)" is [a](/en/post/a/) dedicated [evening](/en/post/evening/) [for](/en/post/for/) couples [to](/en/post/to/) [spend](/en/post/spend/) [together](/en/post/together/).
+- "Going [on](/post/on/) [a](/post/a/) [first](/post/first/) [date](/post/date/)" refers [to](/post/to/) starting [a](/post/a/) [romantic](/post/romantic/) [relationship](/post/relationship/).
+- "[Set](/post/set/) [a](/post/a/) [date](/post/date/)" [means](/post/means/) [to](/post/to/) [decide](/post/decide/) [on](/post/on/) [a](/post/a/) [specific](/post/specific/) [time](/post/time/) [for](/post/for/) an [event](/post/event/).
+- "[Date](/post/date/) [night](/post/night/)" is [a](/post/a/) dedicated [evening](/post/evening/) [for](/post/for/) couples [to](/post/to/) [spend](/post/spend/) [together](/post/together/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Our](/en/post/our/) [first](/en/post/first/) [date](/en/post/date/) was [at](/en/post/at/) [a](/en/post/a/) cozy [little](/en/post/little/) [restaurant](/en/post/restaurant/) downtown."
-- **[Verb](/en/post/verb/)**: "I've been looking [forward](/en/post/forward/) [to](/en/post/to/) [our](/en/post/our/) [date](/en/post/date/) [this](/en/post/this/) [weekend](/en/post/weekend/)."
-- **[Noun](/en/post/noun/) (countable)**: "Students [must](/en/post/must/) [submit](/en/post/submit/) [their](/en/post/their/) assignments [by](/en/post/by/) [the](/en/post/the/) [due](/en/post/due/) [date](/en/post/date/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Our](/post/our/) [first](/post/first/) [date](/post/date/) was [at](/post/at/) [a](/post/a/) cozy [little](/post/little/) [restaurant](/post/restaurant/) downtown."
+- **[Verb](/post/verb/)**: "I've been looking [forward](/post/forward/) [to](/post/to/) [our](/post/our/) [date](/post/date/) [this](/post/this/) [weekend](/post/weekend/)."
+- **[Noun](/post/noun/) (countable)**: "Students [must](/post/must/) [submit](/post/submit/) [their](/post/their/) assignments [by](/post/by/) [the](/post/the/) [due](/post/due/) [date](/post/date/)."
 
 ## Synonyms
-- [Appointment](/en/post/appointment/)
+- [Appointment](/post/appointment/)
 - Engagement
-- [Social](/en/post/social/) gathering
-- [Romantic](/en/post/romantic/) rendezvous
-- [Meeting](/en/post/meeting/) (informal)
+- [Social](/post/social/) gathering
+- [Romantic](/post/romantic/) rendezvous
+- [Meeting](/post/meeting/) (informal)
 
 ## Antonyms
 - Breakup
-- [Separation](/en/post/separation/)
+- [Separation](/post/separation/)
 - No-show
 - Cancellation
 
 ## Related Words
 - Dateline
-- [Calendar](/en/post/calendar/)
-- Valentine's [Day](/en/post/day/)
+- [Calendar](/post/calendar/)
+- Valentine's [Day](/post/day/)
 - Anniversary
-- RSVP (Répondez s'il vous plaît) - French [for](/en/post/for/) "[please](/en/post/please/) [respond](/en/post/respond/)" ([used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [need](/en/post/need/) [for](/en/post/for/) [a](/en/post/a/) [reply](/en/post/reply/) [to](/en/post/to/) an [invitation](/en/post/invitation/))
+- RSVP (Répondez s'il vous plaît) - French [for](/post/for/) "[please](/post/please/) [respond](/post/respond/)" ([used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [need](/post/need/) [for](/post/for/) [a](/post/a/) [reply](/post/reply/) [to](/post/to/) an [invitation](/post/invitation/))

@@ -11,23 +11,23 @@ keywords = ['ai words', 'thing']
 /θɪŋ/
 
 ## 释义
-- **名词 (n)**: 事物，东西；任何具体或抽象的事物。例如: "I [need](/post/need/) [to](/post/to/) [get](/post/get/) [a](/post/a/) [few](/post/few/) things [from](/post/from/) [the](/post/the/) [store](/post/store/)."
-- **名词 (n)**: 事件，情况。例如: "[The](/post/the/) [thing](/post/thing/) is, [we](/post/we/) [have](/post/have/) [to](/post/to/) [talk](/post/talk/) [about](/post/about/) [this](/post/this/) [issue](/post/issue/)."
-- **动词 (v)**: 做，处理（常与about搭配）。例如: "Let's [not](/post/not/) [thing](/post/thing/) [about](/post/about/) [it](/post/it/) [too](/post/too/) [much](/post/much/) [and](/post/and/) [just](/post/just/) [enjoy](/post/enjoy/) [the](/post/the/) [moment](/post/moment/)."
+- **名词 (n)**: 事物，东西；任何具体或抽象的事物。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [get](/zh/post/get/) [a](/zh/post/a/) [few](/zh/post/few/) things [from](/zh/post/from/) [the](/zh/post/the/) [store](/zh/post/store/)."
+- **名词 (n)**: 事件，情况。例如: "[The](/zh/post/the/) [thing](/zh/post/thing/) is, [we](/zh/post/we/) [have](/zh/post/have/) [to](/zh/post/to/) [talk](/zh/post/talk/) [about](/zh/post/about/) [this](/zh/post/this/) [issue](/zh/post/issue/)."
+- **动词 (v)**: 做，处理（常与about搭配）。例如: "Let's [not](/zh/post/not/) [thing](/zh/post/thing/) [about](/zh/post/about/) [it](/zh/post/it/) [too](/zh/post/too/) [much](/zh/post/much/) [and](/zh/post/and/) [just](/zh/post/just/) [enjoy](/zh/post/enjoy/) [the](/zh/post/the/) [moment](/zh/post/moment/)."
 
 ## 短语
-- "[Think](/post/think/) [of](/post/of/) [something](/post/something/)" 想出一个主意或想法。
-- "[The](/post/the/) [thing](/post/thing/) [about](/post/about/)..." 用于引出关于某事的特点或问题。
-- "That's [one](/post/one/) [strange](/post/strange/) [thing](/post/thing/)" 指某事很奇特或不同寻常。
+- "[Think](/zh/post/think/) [of](/zh/post/of/) [something](/zh/post/something/)" 想出一个主意或想法。
+- "[The](/zh/post/the/) [thing](/zh/post/thing/) [about](/zh/post/about/)..." 用于引出关于某事的特点或问题。
+- "That's [one](/zh/post/one/) [strange](/zh/post/strange/) [thing](/zh/post/thing/)" 指某事很奇特或不同寻常。
 
 ## 例句
-- 名词: "[There](/post/there/) are [so](/post/so/) [many](/post/many/) things [in](/post/in/) [this](/post/this/) [world](/post/world/) [that](/post/that/) [we](/post/we/) haven't discovered [yet](/post/yet/)."
-- 动词: "I've been [thing](/post/thing/) [about](/post/about/) starting [a](/post/a/) [new](/post/new/) [hobby](/post/hobby/) [lately](/post/lately/)."
-- 感叹词: "[Thing](/post/thing/) is, I forgot [my](/post/my/) keys [inside](/post/inside/) [the](/post/the/) [house](/post/house/)."
+- 名词: "[There](/zh/post/there/) are [so](/zh/post/so/) [many](/zh/post/many/) things [in](/zh/post/in/) [this](/zh/post/this/) [world](/zh/post/world/) [that](/zh/post/that/) [we](/zh/post/we/) haven't discovered [yet](/zh/post/yet/)."
+- 动词: "I've been [thing](/zh/post/thing/) [about](/zh/post/about/) starting [a](/zh/post/a/) [new](/zh/post/new/) [hobby](/zh/post/hobby/) [lately](/zh/post/lately/)."
+- 感叹词: "[Thing](/zh/post/thing/) is, I forgot [my](/zh/post/my/) keys [inside](/zh/post/inside/) [the](/zh/post/the/) [house](/zh/post/house/)."
 
 ## 同义词
-- [Item](/post/item/)
-- [Object](/post/object/)
-- [Matter](/post/matter/)
-- [Stuff](/post/stuff/)
-- [Article](/post/article/)
+- [Item](/zh/post/item/)
+- [Object](/zh/post/object/)
+- [Matter](/zh/post/matter/)
+- [Stuff](/zh/post/stuff/)
+- [Article](/zh/post/article/)

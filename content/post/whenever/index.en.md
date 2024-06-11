@@ -7,30 +7,30 @@ description = '[(h)wenˈevə] conj.无论何时，每当'
 keywords = ['ai words', 'whenever']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwenˈevə(r)/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Indicating [a](/en/post/a/) [particular](/en/post/particular/) [time](/en/post/time/) [or](/en/post/or/) [condition](/en/post/condition/) [at](/en/post/at/) [which](/en/post/which/) [something](/en/post/something/) occurs [or](/en/post/or/) is done. [For](/en/post/for/) [example](/en/post/example/): "I'll [call](/en/post/call/) [you](/en/post/you/) [whenever](/en/post/whenever/) you're [free](/en/post/free/)."
-- **Prepositional [phrase](/en/post/phrase/)**: [A](/en/post/a/) [combination](/en/post/combination/) [of](/en/post/of/) [a](/en/post/a/) [preposition](/en/post/preposition/) [and](/en/post/and/) [its](/en/post/its/) [object](/en/post/object/), functioning [as](/en/post/as/) an [adverb](/en/post/adverb/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) arrived [whenever](/en/post/whenever/) [the](/en/post/the/) [sun](/en/post/sun/) [set](/en/post/set/)."
+- **[Adverb](/post/adverb/)**: Indicating [a](/post/a/) [particular](/post/particular/) [time](/post/time/) [or](/post/or/) [condition](/post/condition/) [at](/post/at/) [which](/post/which/) [something](/post/something/) occurs [or](/post/or/) is done. [For](/post/for/) [example](/post/example/): "I'll [call](/post/call/) [you](/post/you/) [whenever](/post/whenever/) you're [free](/post/free/)."
+- **Prepositional [phrase](/post/phrase/)**: [A](/post/a/) [combination](/post/combination/) [of](/post/of/) [a](/post/a/) [preposition](/post/preposition/) [and](/post/and/) [its](/post/its/) [object](/post/object/), functioning [as](/post/as/) an [adverb](/post/adverb/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) arrived [whenever](/post/whenever/) [the](/post/the/) [sun](/post/sun/) [set](/post/set/)."
 
 ## Phrases
-- "[whenever](/en/post/whenever/) [possible](/en/post/possible/)" suggests [a](/en/post/a/) [preference](/en/post/preference/) [for](/en/post/for/) [a](/en/post/a/) [certain](/en/post/certain/) [time](/en/post/time/) [or](/en/post/or/) [situation](/en/post/situation/).
-- "[whenever](/en/post/whenever/) [necessary](/en/post/necessary/)" implies doing [something](/en/post/something/) [when](/en/post/when/) it's required [or](/en/post/or/) [appropriate](/en/post/appropriate/).
-- "[whenever](/en/post/whenever/) [one](/en/post/one/) pleases" indicates [that](/en/post/that/) [someone](/en/post/someone/) [can](/en/post/can/) [do](/en/post/do/) [something](/en/post/something/) [at](/en/post/at/) [their](/en/post/their/) [own](/en/post/own/) [convenience](/en/post/convenience/).
+- "[whenever](/post/whenever/) [possible](/post/possible/)" suggests [a](/post/a/) [preference](/post/preference/) [for](/post/for/) [a](/post/a/) [certain](/post/certain/) [time](/post/time/) [or](/post/or/) [situation](/post/situation/).
+- "[whenever](/post/whenever/) [necessary](/post/necessary/)" implies doing [something](/post/something/) [when](/post/when/) it's required [or](/post/or/) [appropriate](/post/appropriate/).
+- "[whenever](/post/whenever/) [one](/post/one/) pleases" indicates [that](/post/that/) [someone](/post/someone/) [can](/post/can/) [do](/post/do/) [something](/post/something/) [at](/post/at/) [their](/post/their/) [own](/post/own/) [convenience](/post/convenience/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I'll [let](/en/post/let/) [you](/en/post/you/) [know](/en/post/know/) [whenever](/en/post/whenever/) there's an update [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/)."
-- **Prepositional [phrase](/en/post/phrase/)**: "[She](/en/post/she/) [would](/en/post/would/) [often](/en/post/often/) [read](/en/post/read/) books [whenever](/en/post/whenever/) [the](/en/post/the/) [weather](/en/post/weather/) was [fine](/en/post/fine/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I'll [let](/post/let/) [you](/post/you/) [know](/post/know/) [whenever](/post/whenever/) there's an update [on](/post/on/) [the](/post/the/) [project](/post/project/)."
+- **Prepositional [phrase](/post/phrase/)**: "[She](/post/she/) [would](/post/would/) [often](/post/often/) [read](/post/read/) books [whenever](/post/whenever/) [the](/post/the/) [weather](/post/weather/) was [fine](/post/fine/)."
 
 ## Synonyms
-- [At](/en/post/at/) [any](/en/post/any/) [time](/en/post/time/)
-- [Whenever](/en/post/whenever/) [it](/en/post/it/) suits
-- [As](/en/post/as/) [the](/en/post/the/) [occasion](/en/post/occasion/) arises
-- [At](/en/post/at/) [liberty](/en/post/liberty/)
-- [On](/en/post/on/) [demand](/en/post/demand/)
+- [At](/post/at/) [any](/post/any/) [time](/post/time/)
+- [Whenever](/post/whenever/) [it](/post/it/) suits
+- [As](/post/as/) [the](/post/the/) [occasion](/post/occasion/) arises
+- [At](/post/at/) [liberty](/post/liberty/)
+- [On](/post/on/) [demand](/post/demand/)
 
 ## Antonyms
-- [Never](/en/post/never/)
+- [Never](/post/never/)
 - Specifically
-- [Only](/en/post/only/) [at](/en/post/at/) [certain](/en/post/certain/) times ([opposite](/en/post/opposite/) [of](/en/post/of/) [always](/en/post/always/))
+- [Only](/post/only/) [at](/post/at/) [certain](/post/certain/) times ([opposite](/post/opposite/) [of](/post/of/) [always](/post/always/))

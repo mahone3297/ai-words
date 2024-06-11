@@ -7,39 +7,39 @@ description = '[ˈsiəriəsli] ad.严肃地，认真地'
 keywords = ['ai words', 'seriously']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈriəsli/
 
 ## Definitions
-### [Adverb](/en/post/adverb/)
-- **1** : [in](/en/post/in/) [a](/en/post/a/) [serious](/en/post/serious/) [manner](/en/post/manner/); [especially](/en/post/especially/) : [with](/en/post/with/) [gravity](/en/post/gravity/) [or](/en/post/or/) [concern](/en/post/concern/) : gravely
-  - [He](/en/post/he/) spoke [seriously](/en/post/seriously/) [about](/en/post/about/) [the](/en/post/the/) upcoming [election](/en/post/election/).
-- **2** : [to](/en/post/to/) [a](/en/post/a/) [significant](/en/post/significant/) [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/) : notably
-  - [This](/en/post/this/) [matter](/en/post/matter/) deserves [to](/en/post/to/) [be](/en/post/be/) taken [seriously](/en/post/seriously/).
+### [Adverb](/post/adverb/)
+- **1** : [in](/post/in/) [a](/post/a/) [serious](/post/serious/) [manner](/post/manner/); [especially](/post/especially/) : [with](/post/with/) [gravity](/post/gravity/) [or](/post/or/) [concern](/post/concern/) : gravely
+  - [He](/post/he/) spoke [seriously](/post/seriously/) [about](/post/about/) [the](/post/the/) upcoming [election](/post/election/).
+- **2** : [to](/post/to/) [a](/post/a/) [significant](/post/significant/) [extent](/post/extent/) [or](/post/or/) [degree](/post/degree/) : notably
+  - [This](/post/this/) [matter](/post/matter/) deserves [to](/post/to/) [be](/post/be/) taken [seriously](/post/seriously/).
 
 ## Phrases
-- "[Take](/en/post/take/) [something](/en/post/something/) [seriously](/en/post/seriously/)" implies giving [it](/en/post/it/) [importance](/en/post/importance/) [or](/en/post/or/) considering [it](/en/post/it/) carefully.
-- "[Be](/en/post/be/) [serious](/en/post/serious/)" is [used](/en/post/used/) [to](/en/post/to/) [request](/en/post/request/) [someone](/en/post/someone/) [to](/en/post/to/) [be](/en/post/be/) [more](/en/post/more/) [attentive](/en/post/attentive/) [or](/en/post/or/) [not](/en/post/not/) [joke](/en/post/joke/) [around](/en/post/around/).
-- "[Not](/en/post/not/) [to](/en/post/to/) [be](/en/post/be/) taken [seriously](/en/post/seriously/)" [means](/en/post/means/) [something](/en/post/something/) is meant [to](/en/post/to/) [be](/en/post/be/) [humorous](/en/post/humorous/) [or](/en/post/or/) [not](/en/post/not/) [to](/en/post/to/) [be](/en/post/be/) considered literally.
+- "[Take](/post/take/) [something](/post/something/) [seriously](/post/seriously/)" implies giving [it](/post/it/) [importance](/post/importance/) [or](/post/or/) considering [it](/post/it/) carefully.
+- "[Be](/post/be/) [serious](/post/serious/)" is [used](/post/used/) [to](/post/to/) [request](/post/request/) [someone](/post/someone/) [to](/post/to/) [be](/post/be/) [more](/post/more/) [attentive](/post/attentive/) [or](/post/or/) [not](/post/not/) [joke](/post/joke/) [around](/post/around/).
+- "[Not](/post/not/) [to](/post/to/) [be](/post/be/) taken [seriously](/post/seriously/)" [means](/post/means/) [something](/post/something/) is meant [to](/post/to/) [be](/post/be/) [humorous](/post/humorous/) [or](/post/or/) [not](/post/not/) [to](/post/to/) [be](/post/be/) considered literally.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: [She](/en/post/she/) listened [to](/en/post/to/) [his](/en/post/his/) concerns [seriously](/en/post/seriously/), offering [her](/en/post/her/) [advice](/en/post/advice/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [situation](/en/post/situation/) required [that](/en/post/that/) [they](/en/post/they/) [be](/en/post/be/) treated [with](/en/post/with/) seriousness.
-- **[Adverb](/en/post/adverb/)**: [After](/en/post/after/) [the](/en/post/the/) [accident](/en/post/accident/), [people](/en/post/people/) began [to](/en/post/to/) [take](/en/post/take/) [drunk](/en/post/drunk/) driving [seriously](/en/post/seriously/).
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: [She](/post/she/) listened [to](/post/to/) [his](/post/his/) concerns [seriously](/post/seriously/), offering [her](/post/her/) [advice](/post/advice/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [situation](/post/situation/) required [that](/post/that/) [they](/post/they/) [be](/post/be/) treated [with](/post/with/) seriousness.
+- **[Adverb](/post/adverb/)**: [After](/post/after/) [the](/post/the/) [accident](/post/accident/), [people](/post/people/) began [to](/post/to/) [take](/post/take/) [drunk](/post/drunk/) driving [seriously](/post/seriously/).
 
 ## Synonyms
-- [Seriously](/en/post/seriously/)
+- [Seriously](/post/seriously/)
 - gravely
 - earnestly
 - sincerely
-- [with](/en/post/with/) [due](/en/post/due/) [respect](/en/post/respect/)
-- [in](/en/post/in/) [all](/en/post/all/) seriousness
-- [in](/en/post/in/) [earnest](/en/post/earnest/)
+- [with](/post/with/) [due](/post/due/) [respect](/post/respect/)
+- [in](/post/in/) [all](/post/all/) seriousness
+- [in](/post/in/) [earnest](/post/earnest/)
 - critically
 - attentively
 
 ## Antonyms
-- [Lightly](/en/post/lightly/)
+- [Lightly](/post/lightly/)
 - jokingly
 - frivolously
 - unseriously

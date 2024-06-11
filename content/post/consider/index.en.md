@@ -7,40 +7,40 @@ description = '[kənˈsidə] vt.认为；考虑；关心'
 keywords = ['ai words', 'consider']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈsɪdər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Consideration](/en/post/consideration/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [thought](/en/post/thought/) [or](/en/post/or/) [attention](/en/post/attention/) [to](/en/post/to/) [something](/en/post/something/), [often](/en/post/often/) [in](/en/post/in/) terms [of](/en/post/of/) evaluating [its](/en/post/its/) [value](/en/post/value/) [or](/en/post/or/) [potential](/en/post/potential/) [impact](/en/post/impact/). [Example](/en/post/example/): "[The](/en/post/the/) company's [decision](/en/post/decision/) was based [on](/en/post/on/) [careful](/en/post/careful/) [consideration](/en/post/consideration/) [of](/en/post/of/) [the](/en/post/the/) [market](/en/post/market/) trends."
-- **[Considerate](/en/post/considerate/)**: Showing [care](/en/post/care/) [and](/en/post/and/) thoughtfulness [for](/en/post/for/) others. [Example](/en/post/example/): "[He](/en/post/he/) was [very](/en/post/very/) [considerate](/en/post/considerate/) [of](/en/post/of/) [her](/en/post/her/) feelings [when](/en/post/when/) planning [the](/en/post/the/) [surprise](/en/post/surprise/) [party](/en/post/party/)."
-- **[Consider](/en/post/consider/)**: [To](/en/post/to/) [take](/en/post/take/) [into](/en/post/into/) [account](/en/post/account/) [or](/en/post/or/) [think](/en/post/think/) [about](/en/post/about/) [something](/en/post/something/). [Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [consider](/en/post/consider/) [all](/en/post/all/) [possible](/en/post/possible/) options [before](/en/post/before/) making [a](/en/post/a/) [final](/en/post/final/) [decision](/en/post/decision/)."
+### [Noun](/post/noun/)
+- **[Consideration](/post/consideration/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [thought](/post/thought/) [or](/post/or/) [attention](/post/attention/) [to](/post/to/) [something](/post/something/), [often](/post/often/) [in](/post/in/) terms [of](/post/of/) evaluating [its](/post/its/) [value](/post/value/) [or](/post/or/) [potential](/post/potential/) [impact](/post/impact/). [Example](/post/example/): "[The](/post/the/) company's [decision](/post/decision/) was based [on](/post/on/) [careful](/post/careful/) [consideration](/post/consideration/) [of](/post/of/) [the](/post/the/) [market](/post/market/) trends."
+- **[Considerate](/post/considerate/)**: Showing [care](/post/care/) [and](/post/and/) thoughtfulness [for](/post/for/) others. [Example](/post/example/): "[He](/post/he/) was [very](/post/very/) [considerate](/post/considerate/) [of](/post/of/) [her](/post/her/) feelings [when](/post/when/) planning [the](/post/the/) [surprise](/post/surprise/) [party](/post/party/)."
+- **[Consider](/post/consider/)**: [To](/post/to/) [take](/post/take/) [into](/post/into/) [account](/post/account/) [or](/post/or/) [think](/post/think/) [about](/post/about/) [something](/post/something/). [Example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [consider](/post/consider/) [all](/post/all/) [possible](/post/possible/) options [before](/post/before/) making [a](/post/a/) [final](/post/final/) [decision](/post/decision/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [consider](/en/post/consider/)**: [To](/en/post/to/) [think](/en/post/think/) [about](/en/post/about/), [examine](/en/post/examine/), [or](/en/post/or/) [evaluate](/en/post/evaluate/) [something](/en/post/something/). [Example](/en/post/example/): "[She](/en/post/she/) considered [his](/en/post/his/) [proposal](/en/post/proposal/) [for](/en/post/for/) [several](/en/post/several/) days [before](/en/post/before/) making [a](/en/post/a/) [decision](/en/post/decision/)."
-- **[To](/en/post/to/) [give](/en/post/give/) [consideration](/en/post/consideration/)**: [To](/en/post/to/) [pay](/en/post/pay/) [attention](/en/post/attention/) [or](/en/post/or/) [devote](/en/post/devote/) [thought](/en/post/thought/) [to](/en/post/to/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [judge](/en/post/judge/) gave [careful](/en/post/careful/) [consideration](/en/post/consideration/) [to](/en/post/to/) [the](/en/post/the/) defendant's plea [of](/en/post/of/) mitigating circumstances."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [consider](/post/consider/)**: [To](/post/to/) [think](/post/think/) [about](/post/about/), [examine](/post/examine/), [or](/post/or/) [evaluate](/post/evaluate/) [something](/post/something/). [Example](/post/example/): "[She](/post/she/) considered [his](/post/his/) [proposal](/post/proposal/) [for](/post/for/) [several](/post/several/) days [before](/post/before/) making [a](/post/a/) [decision](/post/decision/)."
+- **[To](/post/to/) [give](/post/give/) [consideration](/post/consideration/)**: [To](/post/to/) [pay](/post/pay/) [attention](/post/attention/) [or](/post/or/) [devote](/post/devote/) [thought](/post/thought/) [to](/post/to/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [judge](/post/judge/) gave [careful](/post/careful/) [consideration](/post/consideration/) [to](/post/to/) [the](/post/the/) defendant's plea [of](/post/of/) mitigating circumstances."
 
-### [Adjective](/en/post/adjective/)
-- **[Considerable](/en/post/considerable/)**: [Large](/en/post/large/) [in](/en/post/in/) [amount](/en/post/amount/) [or](/en/post/or/) [importance](/en/post/importance/). [Example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) required [considerable](/en/post/considerable/) [effort](/en/post/effort/) [and](/en/post/and/) resources."
-- **[Considerate](/en/post/considerate/)**: Showing [kindness](/en/post/kindness/) [and](/en/post/and/) thoughtfulness. [Example](/en/post/example/): "[A](/en/post/a/) [considerate](/en/post/considerate/) [host](/en/post/host/) ensures [their](/en/post/their/) guests are [comfortable](/en/post/comfortable/)."
+### [Adjective](/post/adjective/)
+- **[Considerable](/post/considerable/)**: [Large](/post/large/) [in](/post/in/) [amount](/post/amount/) [or](/post/or/) [importance](/post/importance/). [Example](/post/example/): "[The](/post/the/) [project](/post/project/) required [considerable](/post/considerable/) [effort](/post/effort/) [and](/post/and/) resources."
+- **[Considerate](/post/considerate/)**: Showing [kindness](/post/kindness/) [and](/post/and/) thoughtfulness. [Example](/post/example/): "[A](/post/a/) [considerate](/post/considerate/) [host](/post/host/) ensures [their](/post/their/) guests are [comfortable](/post/comfortable/)."
 
 ## Phrases
-- "[Give](/en/post/give/) [someone](/en/post/someone/) [consideration](/en/post/consideration/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [their](/en/post/their/) needs [or](/en/post/or/) opinions [into](/en/post/into/) [account](/en/post/account/).
-- "[Considerate](/en/post/considerate/) [behavior](/en/post/behavior/)" refers [to](/en/post/to/) acts [that](/en/post/that/) [show](/en/post/show/) politeness [and](/en/post/and/) empathy.
-- "[Without](/en/post/without/) [further](/en/post/further/) [consideration](/en/post/consideration/)" implies [no](/en/post/no/) [additional](/en/post/additional/) [thought](/en/post/thought/) [or](/en/post/or/) deliberation.
+- "[Give](/post/give/) [someone](/post/someone/) [consideration](/post/consideration/)" [means](/post/means/) [to](/post/to/) [take](/post/take/) [their](/post/their/) needs [or](/post/or/) opinions [into](/post/into/) [account](/post/account/).
+- "[Considerate](/post/considerate/) [behavior](/post/behavior/)" refers [to](/post/to/) acts [that](/post/that/) [show](/post/show/) politeness [and](/post/and/) empathy.
+- "[Without](/post/without/) [further](/post/further/) [consideration](/post/consideration/)" implies [no](/post/no/) [additional](/post/additional/) [thought](/post/thought/) [or](/post/or/) deliberation.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [decision](/en/post/decision/) was based [on](/en/post/on/) [deep](/en/post/deep/) [consideration](/en/post/consideration/) [of](/en/post/of/) [her](/en/post/her/) family's needs."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [discussion](/en/post/discussion/), [they](/en/post/they/) decided [to](/en/post/to/) [consider](/en/post/consider/) [the](/en/post/the/) [proposal](/en/post/proposal/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [generous](/en/post/generous/) [gift](/en/post/gift/) was [a](/en/post/a/) [considerable](/en/post/considerable/) contribution [to](/en/post/to/) [the](/en/post/the/) [charity](/en/post/charity/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [decision](/post/decision/) was based [on](/post/on/) [deep](/post/deep/) [consideration](/post/consideration/) [of](/post/of/) [her](/post/her/) family's needs."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [discussion](/post/discussion/), [they](/post/they/) decided [to](/post/to/) [consider](/post/consider/) [the](/post/the/) [proposal](/post/proposal/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [generous](/post/generous/) [gift](/post/gift/) was [a](/post/a/) [considerable](/post/considerable/) contribution [to](/post/to/) [the](/post/the/) [charity](/post/charity/)."
 
 ## Synonyms
-- [Reflect](/en/post/reflect/) [upon](/en/post/upon/)
-- [Think](/en/post/think/) [over](/en/post/over/)
-- [Evaluate](/en/post/evaluate/)
-- [Examine](/en/post/examine/)
-- [Mind](/en/post/mind/)
-- [Bear](/en/post/bear/) [in](/en/post/in/) [mind](/en/post/mind/)
-- [Be](/en/post/be/) mindful [of](/en/post/of/)
-- [Take](/en/post/take/) [into](/en/post/into/) [account](/en/post/account/)
-- [Be](/en/post/be/) [thoughtful](/en/post/thoughtful/)
+- [Reflect](/post/reflect/) [upon](/post/upon/)
+- [Think](/post/think/) [over](/post/over/)
+- [Evaluate](/post/evaluate/)
+- [Examine](/post/examine/)
+- [Mind](/post/mind/)
+- [Bear](/post/bear/) [in](/post/in/) [mind](/post/mind/)
+- [Be](/post/be/) mindful [of](/post/of/)
+- [Take](/post/take/) [into](/post/into/) [account](/post/account/)
+- [Be](/post/be/) [thoughtful](/post/thoughtful/)

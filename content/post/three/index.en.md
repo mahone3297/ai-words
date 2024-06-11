@@ -7,23 +7,23 @@ description = '[θriː] num.三，三个'
 keywords = ['ai words', 'three']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /thriː/
 
 ## Definitions
-- **Numeral**: [A](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [symbol](/en/post/symbol/) representing [the](/en/post/the/) [number](/en/post/number/) [three](/en/post/three/). [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) are [three](/en/post/three/) apples [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Adjective](/en/post/adjective/)**: Indicating [a](/en/post/a/) [quantity](/en/post/quantity/) [or](/en/post/or/) [position](/en/post/position/) [as](/en/post/as/) [the](/en/post/the/) [third](/en/post/third/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [third](/en/post/third/) [book](/en/post/book/) [from](/en/post/from/) [the](/en/post/the/) [left](/en/post/left/) is [mine](/en/post/mine/)."
-- **Determiner**: Referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/), identified [item](/en/post/item/) [or](/en/post/or/) [group](/en/post/group/) [as](/en/post/as/) [the](/en/post/the/) [one](/en/post/one/) [out](/en/post/out/) [of](/en/post/of/) [several](/en/post/several/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) is [the](/en/post/the/) three-bedroom [apartment](/en/post/apartment/) we're looking [for](/en/post/for/)."
+- **Numeral**: [A](/post/a/) [word](/post/word/) [or](/post/or/) [symbol](/post/symbol/) representing [the](/post/the/) [number](/post/number/) [three](/post/three/). [For](/post/for/) [example](/post/example/): "[There](/post/there/) are [three](/post/three/) apples [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+- **[Adjective](/post/adjective/)**: Indicating [a](/post/a/) [quantity](/post/quantity/) [or](/post/or/) [position](/post/position/) [as](/post/as/) [the](/post/the/) [third](/post/third/) [in](/post/in/) [a](/post/a/) [series](/post/series/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [third](/post/third/) [book](/post/book/) [from](/post/from/) [the](/post/the/) [left](/post/left/) is [mine](/post/mine/)."
+- **Determiner**: Referring [to](/post/to/) [a](/post/a/) [specific](/post/specific/), identified [item](/post/item/) [or](/post/or/) [group](/post/group/) [as](/post/as/) [the](/post/the/) [one](/post/one/) [out](/post/out/) [of](/post/of/) [several](/post/several/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) is [the](/post/the/) three-bedroom [apartment](/post/apartment/) we're looking [for](/post/for/)."
 
 ## Phrases
-- "[In](/en/post/in/) [three](/en/post/three/) steps" [means](/en/post/means/) [after](/en/post/after/) [three](/en/post/three/) actions [or](/en/post/or/) movements.
-- "[A](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) [three](/en/post/three/)" refers [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) consisting [of](/en/post/of/) [three](/en/post/three/) items.
-- "[The](/en/post/the/) [three](/en/post/three/) [of](/en/post/of/) [us](/en/post/us/)" signifies [a](/en/post/a/) [collective](/en/post/collective/) involving [three](/en/post/three/) individuals.
+- "[In](/post/in/) [three](/post/three/) steps" [means](/post/means/) [after](/post/after/) [three](/post/three/) actions [or](/post/or/) movements.
+- "[A](/post/a/) [set](/post/set/) [of](/post/of/) [three](/post/three/)" refers [to](/post/to/) [a](/post/a/) [group](/post/group/) consisting [of](/post/of/) [three](/post/three/) items.
+- "[The](/post/the/) [three](/post/three/) [of](/post/of/) [us](/post/us/)" signifies [a](/post/a/) [collective](/post/collective/) involving [three](/post/three/) individuals.
 
-## [Example](/en/post/example/) Sentences
-- **Numeral**: "I [need](/en/post/need/) [to](/en/post/to/) [buy](/en/post/buy/) [three](/en/post/three/) loaves [of](/en/post/of/) [bread](/en/post/bread/) [for](/en/post/for/) [the](/en/post/the/) [week](/en/post/week/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [third](/en/post/third/) [child](/en/post/child/) [in](/en/post/in/) [line](/en/post/line/) received [their](/en/post/their/) [prize](/en/post/prize/)."
-- **Determiner**: "[Please](/en/post/please/) [hand](/en/post/hand/) [me](/en/post/me/) [the](/en/post/the/) [three](/en/post/three/) books you've finished [reading](/en/post/reading/)."
+## [Example](/post/example/) Sentences
+- **Numeral**: "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [three](/post/three/) loaves [of](/post/of/) [bread](/post/bread/) [for](/post/for/) [the](/post/the/) [week](/post/week/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [third](/post/third/) [child](/post/child/) [in](/post/in/) [line](/post/line/) received [their](/post/their/) [prize](/post/prize/)."
+- **Determiner**: "[Please](/post/please/) [hand](/post/hand/) [me](/post/me/) [the](/post/the/) [three](/post/three/) books you've finished [reading](/post/reading/)."
 
 ## Synonyms
 - Threefold
@@ -33,6 +33,6 @@ keywords = ['ai words', 'three']
 - Triple
 
 ## Antonyms
-- [One](/en/post/one/)
-- [Two](/en/post/two/)
-- [Multiple](/en/post/multiple/) ([when](/en/post/when/) referring [to](/en/post/to/) [more](/en/post/more/) [than](/en/post/than/) [three](/en/post/three/))
+- [One](/post/one/)
+- [Two](/post/two/)
+- [Multiple](/post/multiple/) ([when](/post/when/) referring [to](/post/to/) [more](/post/more/) [than](/post/than/) [three](/post/three/))

@@ -11,20 +11,20 @@ keywords = ['ai words', 'manual']
 /manˈyʊəl/
 
 ## 释义
-- **名词**: 手册，指南，操作手册。例如: "[You](/post/you/) [can](/post/can/) [find](/post/find/) [the](/post/the/) instructions [in](/post/in/) [the](/post/the/) [user](/post/user/) [manual](/post/manual/)."
-- **形容词**: 手动的，人工的，非自动的。例如: "[This](/post/this/) is [a](/post/a/) [manual](/post/manual/) [transmission](/post/transmission/) [car](/post/car/)."
+- **名词**: 手册，指南，操作手册。例如: "[You](/zh/post/you/) [can](/zh/post/can/) [find](/zh/post/find/) [the](/zh/post/the/) instructions [in](/zh/post/in/) [the](/zh/post/the/) [user](/zh/post/user/) [manual](/zh/post/manual/)."
+- **形容词**: 手动的，人工的，非自动的。例如: "[This](/zh/post/this/) is [a](/zh/post/a/) [manual](/zh/post/manual/) [transmission](/zh/post/transmission/) [car](/zh/post/car/)."
 
 ## 短语
-- "[User](/post/user/) [manual](/post/manual/)" 指用户指南或使用手册。
-- "[Manual](/post/manual/) labor" 指体力劳动或手工工作。
+- "[User](/zh/post/user/) [manual](/zh/post/manual/)" 指用户指南或使用手册。
+- "[Manual](/zh/post/manual/) labor" 指体力劳动或手工工作。
 
 ## 例句
-- 名词: "[The](/post/the/) TV's [manual](/post/manual/) explains [how](/post/how/) [to](/post/to/) [connect](/post/connect/) [it](/post/it/) [to](/post/to/) [the](/post/the/) internet."
-- 形容词: "[In](/post/in/) [case](/post/case/) [of](/post/of/) [power](/post/power/) outage, [the](/post/the/) [lift](/post/lift/) operates manually."
+- 名词: "[The](/zh/post/the/) TV's [manual](/zh/post/manual/) explains [how](/zh/post/how/) [to](/zh/post/to/) [connect](/zh/post/connect/) [it](/zh/post/it/) [to](/zh/post/to/) [the](/zh/post/the/) internet."
+- 形容词: "[In](/zh/post/in/) [case](/zh/post/case/) [of](/zh/post/of/) [power](/zh/post/power/) outage, [the](/zh/post/the/) [lift](/zh/post/lift/) operates manually."
 
 ## 同义词
-- [Guide](/post/guide/)
+- [Guide](/zh/post/guide/)
 - Handbook
-- [Manual](/post/manual/) [book](/post/book/)
-- [Instruction](/post/instruction/) [manual](/post/manual/)
-- Operator's [manual](/post/manual/)
+- [Manual](/zh/post/manual/) [book](/zh/post/book/)
+- [Instruction](/zh/post/instruction/) [manual](/zh/post/manual/)
+- Operator's [manual](/zh/post/manual/)

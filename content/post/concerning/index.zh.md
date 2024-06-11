@@ -11,20 +11,20 @@ keywords = ['ai words', 'concerning']
 /kənˈsɜːrnɪŋ/
 
 ## 释义
-- **介词**: 关于，就...而言，涉及。例如: "I [have](/post/have/) [some](/post/some/) questions [concerning](/post/concerning/) [your](/post/your/) [proposal](/post/proposal/)."
-- **动词**: 使担忧，牵涉到。例如: "[The](/post/the/) [news](/post/news/) [concerning](/post/concerning/) [the](/post/the/) [project](/post/project/) worried [everyone](/post/everyone/)."
+- **介词**: 关于，就...而言，涉及。例如: "I [have](/zh/post/have/) [some](/zh/post/some/) questions [concerning](/zh/post/concerning/) [your](/zh/post/your/) [proposal](/zh/post/proposal/)."
+- **动词**: 使担忧，牵涉到。例如: "[The](/zh/post/the/) [news](/zh/post/news/) [concerning](/zh/post/concerning/) [the](/zh/post/the/) [project](/zh/post/project/) worried [everyone](/zh/post/everyone/)."
 
 ## 短语
-- "[Concerning](/post/concerning/) [the](/post/the/) [matter](/post/matter/)" 意为关于此事。
-- "[Not](/post/not/) [concerning](/post/concerning/) [you](/post/you/)" 表示不关你的事。
+- "[Concerning](/zh/post/concerning/) [the](/zh/post/the/) [matter](/zh/post/matter/)" 意为关于此事。
+- "[Not](/zh/post/not/) [concerning](/zh/post/concerning/) [you](/zh/post/you/)" 表示不关你的事。
 
 ## 例句
-- 介词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) budget [concerning](/post/concerning/) [the](/post/the/) upcoming [event](/post/event/)."
-- 动词: "[The](/post/the/) [letter](/post/letter/) concerns [your](/post/your/) [account](/post/account/) [balance](/post/balance/)."
+- 介词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [discuss](/zh/post/discuss/) [the](/zh/post/the/) budget [concerning](/zh/post/concerning/) [the](/zh/post/the/) upcoming [event](/zh/post/event/)."
+- 动词: "[The](/zh/post/the/) [letter](/zh/post/letter/) concerns [your](/zh/post/your/) [account](/zh/post/account/) [balance](/zh/post/balance/)."
 
 ## 同义词
-- [About](/post/about/)
-- [Regarding](/post/regarding/)
-- [With](/post/with/) [respect](/post/respect/) [to](/post/to/)
-- [In](/post/in/) [relation](/post/relation/) [to](/post/to/)
-- Pertaining [to](/post/to/)
+- [About](/zh/post/about/)
+- [Regarding](/zh/post/regarding/)
+- [With](/zh/post/with/) [respect](/zh/post/respect/) [to](/zh/post/to/)
+- [In](/zh/post/in/) [relation](/zh/post/relation/) [to](/zh/post/to/)
+- Pertaining [to](/zh/post/to/)

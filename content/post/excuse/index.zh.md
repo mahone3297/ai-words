@@ -11,22 +11,22 @@ keywords = ['ai words', 'excuse']
 /ɪkˈskjuz/
 
 ## 释义
-- **名词**: 借口，理由。例如: "I don't [want](/post/want/) [to](/post/to/) [hear](/post/hear/) [any](/post/any/) [more](/post/more/) excuses [for](/post/for/) [being](/post/being/) [late](/post/late/)."
-- **动词**: 原谅，宽恕。例如: "[Please](/post/please/) [excuse](/post/excuse/) [my](/post/my/) [interruption](/post/interruption/)."
-- **及物动词**: 为…辩解，为…找借口。例如: "[He](/post/he/) excused [himself](/post/himself/) [for](/post/for/) [his](/post/his/) [behavior](/post/behavior/)."
+- **名词**: 借口，理由。例如: "I don't [want](/zh/post/want/) [to](/zh/post/to/) [hear](/zh/post/hear/) [any](/zh/post/any/) [more](/zh/post/more/) excuses [for](/zh/post/for/) [being](/zh/post/being/) [late](/zh/post/late/)."
+- **动词**: 原谅，宽恕。例如: "[Please](/zh/post/please/) [excuse](/zh/post/excuse/) [my](/zh/post/my/) [interruption](/zh/post/interruption/)."
+- **及物动词**: 为…辩解，为…找借口。例如: "[He](/zh/post/he/) excused [himself](/zh/post/himself/) [for](/zh/post/for/) [his](/zh/post/his/) [behavior](/zh/post/behavior/)."
 
 ## 短语
-- "[Excuse](/post/excuse/) [me](/post/me/)" 用于打断别人或请求原谅。
-- "[Make](/post/make/) an [excuse](/post/excuse/)" 指找一个理由或借口。
+- "[Excuse](/zh/post/excuse/) [me](/zh/post/me/)" 用于打断别人或请求原谅。
+- "[Make](/zh/post/make/) an [excuse](/zh/post/excuse/)" 指找一个理由或借口。
 
 ## 例句
-- 名词: "Don't [give](/post/give/) [me](/post/me/) [that](/post/that/) [old](/post/old/) [excuse](/post/excuse/) [about](/post/about/) [traffic](/post/traffic/)."
-- 动词: "[The](/post/the/) [teacher](/post/teacher/) excused [her](/post/her/) [from](/post/from/) [the](/post/the/) [assignment](/post/assignment/) [due](/post/due/) [to](/post/to/) [illness](/post/illness/)."
-- 及物动词: "[He](/post/he/) excused [himself](/post/himself/), saying [he](/post/he/) had an [urgent](/post/urgent/) [call](/post/call/) [to](/post/to/) [take](/post/take/)."
+- 名词: "Don't [give](/zh/post/give/) [me](/zh/post/me/) [that](/zh/post/that/) [old](/zh/post/old/) [excuse](/zh/post/excuse/) [about](/zh/post/about/) [traffic](/zh/post/traffic/)."
+- 动词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) excused [her](/zh/post/her/) [from](/zh/post/from/) [the](/zh/post/the/) [assignment](/zh/post/assignment/) [due](/zh/post/due/) [to](/zh/post/to/) [illness](/zh/post/illness/)."
+- 及物动词: "[He](/zh/post/he/) excused [himself](/zh/post/himself/), saying [he](/zh/post/he/) had an [urgent](/zh/post/urgent/) [call](/zh/post/call/) [to](/zh/post/to/) [take](/zh/post/take/)."
 
 ## 同义词
-- [Apology](/post/apology/)
-- [Reason](/post/reason/)
+- [Apology](/zh/post/apology/)
+- [Reason](/zh/post/reason/)
 - Justification
 - Exemption
 - Forgiveness

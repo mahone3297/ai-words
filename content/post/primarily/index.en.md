@@ -7,37 +7,37 @@ description = '[ˈpraimərili] ad.首先；主要地'
 keywords = ['ai words', 'primarily']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪˈmaɪərəli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Mainly](/en/post/mainly/) [or](/en/post/or/) essentially; [primarily](/en/post/primarily/). [It](/en/post/it/) modifies [a](/en/post/a/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [or](/en/post/or/) [other](/en/post/other/) [adverb](/en/post/adverb/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [main](/en/post/main/) [focus](/en/post/focus/) [or](/en/post/or/) [importance](/en/post/importance/) [of](/en/post/of/) an [action](/en/post/action/).
+- **[Adverb](/post/adverb/)**: [Mainly](/post/mainly/) [or](/post/or/) essentially; [primarily](/post/primarily/). [It](/post/it/) modifies [a](/post/a/) [verb](/post/verb/), [adjective](/post/adjective/), [or](/post/or/) [other](/post/other/) [adverb](/post/adverb/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [main](/post/main/) [focus](/post/focus/) [or](/post/or/) [importance](/post/importance/) [of](/post/of/) an [action](/post/action/).
 
 ## Phrases
-- "[Primarily](/en/post/primarily/) [responsible](/en/post/responsible/)" indicates [that](/en/post/that/) [something](/en/post/something/) is [the](/en/post/the/) [main](/en/post/main/) [cause](/en/post/cause/) [or](/en/post/or/) [factor](/en/post/factor/).
-- "[Primarily](/en/post/primarily/) based [on](/en/post/on/)" suggests [that](/en/post/that/) [something](/en/post/something/) is很大程度ly determined [by](/en/post/by/) [a](/en/post/a/) [particular](/en/post/particular/) [factor](/en/post/factor/).
-- "[Primarily](/en/post/primarily/) [due](/en/post/due/) [to](/en/post/to/)" explains [a](/en/post/a/) [result](/en/post/result/) [as](/en/post/as/) [being](/en/post/being/) [mostly](/en/post/mostly/) caused [by](/en/post/by/) [a](/en/post/a/) [specific](/en/post/specific/) [reason](/en/post/reason/).
+- "[Primarily](/post/primarily/) [responsible](/post/responsible/)" indicates [that](/post/that/) [something](/post/something/) is [the](/post/the/) [main](/post/main/) [cause](/post/cause/) [or](/post/or/) [factor](/post/factor/).
+- "[Primarily](/post/primarily/) based [on](/post/on/)" suggests [that](/post/that/) [something](/post/something/) is很大程度ly determined [by](/post/by/) [a](/post/a/) [particular](/post/particular/) [factor](/post/factor/).
+- "[Primarily](/post/primarily/) [due](/post/due/) [to](/post/to/)" explains [a](/post/a/) [result](/post/result/) [as](/post/as/) [being](/post/being/) [mostly](/post/mostly/) caused [by](/post/by/) [a](/post/a/) [specific](/post/specific/) [reason](/post/reason/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [study](/en/post/study/) [abroad](/en/post/abroad/) [primarily](/en/post/primarily/) [because](/en/post/because/) [of](/en/post/of/) [her](/en/post/her/) [desire](/en/post/desire/) [for](/en/post/for/) cultural [experience](/en/post/experience/)."
-- "[The](/en/post/the/) company's [success](/en/post/success/) was [primarily](/en/post/primarily/) attributed [to](/en/post/to/) [its](/en/post/its/) innovative marketing [strategy](/en/post/strategy/)."
-- "[His](/en/post/his/) [job](/en/post/job/) duties [primarily](/en/post/primarily/) [involve](/en/post/involve/) managing [the](/en/post/the/) day-to-day operations."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) decided [to](/post/to/) [study](/post/study/) [abroad](/post/abroad/) [primarily](/post/primarily/) [because](/post/because/) [of](/post/of/) [her](/post/her/) [desire](/post/desire/) [for](/post/for/) cultural [experience](/post/experience/)."
+- "[The](/post/the/) company's [success](/post/success/) was [primarily](/post/primarily/) attributed [to](/post/to/) [its](/post/its/) innovative marketing [strategy](/post/strategy/)."
+- "[His](/post/his/) [job](/post/job/) duties [primarily](/post/primarily/) [involve](/post/involve/) managing [the](/post/the/) day-to-day operations."
 
 ## Synonyms
-- [Mainly](/en/post/mainly/)
+- [Mainly](/post/mainly/)
 - Chiefly
 - Essentially
-- [Primarily](/en/post/primarily/)
+- [Primarily](/post/primarily/)
 - Predominantly
-- [Key](/en/post/key/)
-- [Major](/en/post/major/)
+- [Key](/post/key/)
+- [Major](/post/major/)
 
 ## Antonyms
 - Secondarily
 - Incidentally
 - Marginally
 - Minimally
-- Accidentally ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- Accidentally ([in](/post/in/) [some](/post/some/) contexts)
 
-## [Usage](/en/post/usage/)
-- "[Primarily](/en/post/primarily/)" is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [the](/en/post/the/) [primary](/en/post/primary/) [role](/en/post/role/) [or](/en/post/or/) [importance](/en/post/importance/) [of](/en/post/of/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) decision-making [process](/en/post/process/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [clarify](/en/post/clarify/) [the](/en/post/the/) [main](/en/post/main/) [focus](/en/post/focus/) [or](/en/post/or/) [intention](/en/post/intention/) [of](/en/post/of/) an [action](/en/post/action/) [or](/en/post/or/) [statement](/en/post/statement/).
+## [Usage](/post/usage/)
+- "[Primarily](/post/primarily/)" is [often](/post/often/) [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [the](/post/the/) [primary](/post/primary/) [role](/post/role/) [or](/post/or/) [importance](/post/importance/) [of](/post/of/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) decision-making [process](/post/process/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [clarify](/post/clarify/) [the](/post/the/) [main](/post/main/) [focus](/post/focus/) [or](/post/or/) [intention](/post/intention/) [of](/post/of/) an [action](/post/action/) [or](/post/or/) [statement](/post/statement/).

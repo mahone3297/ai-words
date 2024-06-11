@@ -7,30 +7,30 @@ description = '[ˈfeləu] n.人，家伙；伙伴'
 keywords = ['ai words', 'fellow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfeləʊ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) 1. [A](/en/post/a/) [man](/en/post/man/) [or](/en/post/or/) [boy](/en/post/boy/); [a](/en/post/a/) [male](/en/post/male/) [person](/en/post/person/). e.g., "[The](/en/post/the/) [young](/en/post/young/) [fellow](/en/post/fellow/) was helping [his](/en/post/his/) [mother](/en/post/mother/) [with](/en/post/with/) groceries." 2. [A](/en/post/a/) [person](/en/post/person/) [of](/en/post/of/) [the](/en/post/the/) [same](/en/post/same/) [kind](/en/post/kind/) [or](/en/post/or/) [group](/en/post/group/); [a](/en/post/a/) [comrade](/en/post/comrade/) [or](/en/post/or/) [associate](/en/post/associate/). e.g., "[They](/en/post/they/) were [all](/en/post/all/) [good](/en/post/good/) fellows [and](/en/post/and/) got [along](/en/post/along/) [well](/en/post/well/)." 3. ([formal](/en/post/formal/) [or](/en/post/or/) old-fashioned) [A](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [learned](/en/post/learned/) [society](/en/post/society/) [or](/en/post/or/) [profession](/en/post/profession/). e.g., "He's [a](/en/post/a/) [fellow](/en/post/fellow/) [of](/en/post/of/) [the](/en/post/the/) [Royal](/en/post/royal/) [Society](/en/post/society/)."
-- **[Adjective](/en/post/adjective/)**: (adj) 1. [Of](/en/post/of/) [the](/en/post/the/) [same](/en/post/same/) [kind](/en/post/kind/) [or](/en/post/or/) [group](/en/post/group/); belonging [together](/en/post/together/). e.g., "We're [fellow](/en/post/fellow/) students [at](/en/post/at/) [the](/en/post/the/) [same](/en/post/same/) [university](/en/post/university/)." 2. [Used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) camaraderie [or](/en/post/or/) shared [experience](/en/post/experience/). e.g., "[Fellow](/en/post/fellow/) travelers [on](/en/post/on/) [this](/en/post/this/) [journey](/en/post/journey/) [through](/en/post/through/) [life](/en/post/life/)."
+- **[Noun](/post/noun/)**: (n) 1. [A](/post/a/) [man](/post/man/) [or](/post/or/) [boy](/post/boy/); [a](/post/a/) [male](/post/male/) [person](/post/person/). e.g., "[The](/post/the/) [young](/post/young/) [fellow](/post/fellow/) was helping [his](/post/his/) [mother](/post/mother/) [with](/post/with/) groceries." 2. [A](/post/a/) [person](/post/person/) [of](/post/of/) [the](/post/the/) [same](/post/same/) [kind](/post/kind/) [or](/post/or/) [group](/post/group/); [a](/post/a/) [comrade](/post/comrade/) [or](/post/or/) [associate](/post/associate/). e.g., "[They](/post/they/) were [all](/post/all/) [good](/post/good/) fellows [and](/post/and/) got [along](/post/along/) [well](/post/well/)." 3. ([formal](/post/formal/) [or](/post/or/) old-fashioned) [A](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [learned](/post/learned/) [society](/post/society/) [or](/post/or/) [profession](/post/profession/). e.g., "He's [a](/post/a/) [fellow](/post/fellow/) [of](/post/of/) [the](/post/the/) [Royal](/post/royal/) [Society](/post/society/)."
+- **[Adjective](/post/adjective/)**: (adj) 1. [Of](/post/of/) [the](/post/the/) [same](/post/same/) [kind](/post/kind/) [or](/post/or/) [group](/post/group/); belonging [together](/post/together/). e.g., "We're [fellow](/post/fellow/) students [at](/post/at/) [the](/post/the/) [same](/post/same/) [university](/post/university/)." 2. [Used](/post/used/) [to](/post/to/) [express](/post/express/) camaraderie [or](/post/or/) shared [experience](/post/experience/). e.g., "[Fellow](/post/fellow/) travelers [on](/post/on/) [this](/post/this/) [journey](/post/journey/) [through](/post/through/) [life](/post/life/)."
 
 ## Phrases
-- "[Fellow](/en/post/fellow/) traveler": [Someone](/en/post/someone/) [who](/en/post/who/) shares [similar](/en/post/similar/) views [or](/en/post/or/) is [on](/en/post/on/) [the](/en/post/the/) [same](/en/post/same/) [journey](/en/post/journey/) [or](/en/post/or/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/).
-- "Fellows [of](/en/post/of/) [a](/en/post/a/) [college](/en/post/college/)": Members [of](/en/post/of/) [a](/en/post/a/) collegiate [institution](/en/post/institution/) [who](/en/post/who/) [hold](/en/post/hold/) [a](/en/post/a/) [specific](/en/post/specific/) [status](/en/post/status/) [or](/en/post/or/) [rank](/en/post/rank/).
-- "[One](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) lads/fellows": [A](/en/post/a/) [friendly](/en/post/friendly/) [way](/en/post/way/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [man](/en/post/man/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/).
+- "[Fellow](/post/fellow/) traveler": [Someone](/post/someone/) [who](/post/who/) shares [similar](/post/similar/) views [or](/post/or/) is [on](/post/on/) [the](/post/the/) [same](/post/same/) [journey](/post/journey/) [or](/post/or/) [course](/post/course/) [of](/post/of/) [action](/post/action/).
+- "Fellows [of](/post/of/) [a](/post/a/) [college](/post/college/)": Members [of](/post/of/) [a](/post/a/) collegiate [institution](/post/institution/) [who](/post/who/) [hold](/post/hold/) [a](/post/a/) [specific](/post/specific/) [status](/post/status/) [or](/post/or/) [rank](/post/rank/).
+- "[One](/post/one/) [of](/post/of/) [the](/post/the/) lads/fellows": [A](/post/a/) [friendly](/post/friendly/) [way](/post/way/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [man](/post/man/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [group](/post/group/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) was elected [as](/en/post/as/) [a](/en/post/a/) [fellow](/en/post/fellow/) [of](/en/post/of/) [the](/en/post/the/) prestigious [academy](/en/post/academy/)."
-- **[Adjective](/en/post/adjective/)**: "We're [all](/en/post/all/) [fellow](/en/post/fellow/) humans trying [to](/en/post/to/) [make](/en/post/make/) [sense](/en/post/sense/) [of](/en/post/of/) [this](/en/post/this/) [world](/en/post/world/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) was elected [as](/post/as/) [a](/post/a/) [fellow](/post/fellow/) [of](/post/of/) [the](/post/the/) prestigious [academy](/post/academy/)."
+- **[Adjective](/post/adjective/)**: "We're [all](/post/all/) [fellow](/post/fellow/) humans trying [to](/post/to/) [make](/post/make/) [sense](/post/sense/) [of](/post/of/) [this](/post/this/) [world](/post/world/)."
 
 ## Synonyms
-- [Companion](/en/post/companion/)
+- [Companion](/post/companion/)
 - Buddy
 - Pal
-- [Mate](/en/post/mate/)
-- [Associate](/en/post/associate/)
-- [Comrade](/en/post/comrade/)
-- [Colleague](/en/post/colleague/)
+- [Mate](/post/mate/)
+- [Associate](/post/associate/)
+- [Comrade](/post/comrade/)
+- [Colleague](/post/colleague/)
 - Cohort
-- [Acquaintance](/en/post/acquaintance/)
-- [Member](/en/post/member/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [society](/en/post/society/) [or](/en/post/or/) [organization](/en/post/organization/))
+- [Acquaintance](/post/acquaintance/)
+- [Member](/post/member/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [society](/post/society/) [or](/post/or/) [organization](/post/organization/))

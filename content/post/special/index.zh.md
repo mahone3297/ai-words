@@ -11,22 +11,22 @@ keywords = ['ai words', 'special']
 /ˈspeʃəl/
 
 ## 释义
-- **形容词**: 特别的，不寻常的，有专门用途的。例如: "[She](/post/she/) received [a](/post/a/) [special](/post/special/) [gift](/post/gift/) [for](/post/for/) [her](/post/her/) [birthday](/post/birthday/)."
-- **名词**: 专门的活动，节目或服务。例如: "[The](/post/the/) [restaurant](/post/restaurant/) offers [a](/post/a/) [special](/post/special/) [dinner](/post/dinner/) [menu](/post/menu/) [tonight](/post/tonight/)."
-- **副词**: 特别地，专门地。例如: "[He](/post/he/) was treated [specially](/post/specially/) [due](/post/due/) [to](/post/to/) [his](/post/his/) VIP [status](/post/status/)."
+- **形容词**: 特别的，不寻常的，有专门用途的。例如: "[She](/zh/post/she/) received [a](/zh/post/a/) [special](/zh/post/special/) [gift](/zh/post/gift/) [for](/zh/post/for/) [her](/zh/post/her/) [birthday](/zh/post/birthday/)."
+- **名词**: 专门的活动，节目或服务。例如: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) offers [a](/zh/post/a/) [special](/zh/post/special/) [dinner](/zh/post/dinner/) [menu](/zh/post/menu/) [tonight](/zh/post/tonight/)."
+- **副词**: 特别地，专门地。例如: "[He](/zh/post/he/) was treated [specially](/zh/post/specially/) [due](/zh/post/due/) [to](/zh/post/to/) [his](/zh/post/his/) VIP [status](/zh/post/status/)."
 
 ## 短语
-- "[Special](/post/special/) [offer](/post/offer/)" 指特别优惠或促销。
-- "[Special](/post/special/) [guest](/post/guest/)" 指特邀嘉宾或特殊访客。
-- "[Special](/post/special/) [delivery](/post/delivery/)" 指快递或速递服务。
+- "[Special](/zh/post/special/) [offer](/zh/post/offer/)" 指特别优惠或促销。
+- "[Special](/zh/post/special/) [guest](/zh/post/guest/)" 指特邀嘉宾或特殊访客。
+- "[Special](/zh/post/special/) [delivery](/zh/post/delivery/)" 指快递或速递服务。
 
 ## 例句
-- 形容词: "[This](/post/this/) [dress](/post/dress/) is made [of](/post/of/) [a](/post/a/) [special](/post/special/) [fabric](/post/fabric/) [that](/post/that/) doesn't wrinkle [easily](/post/easily/)."
-- 名词: "There's [a](/post/a/) [special](/post/special/) [on](/post/on/) roses [at](/post/at/) [the](/post/the/) florist's [today](/post/today/)."
-- 副词: "[The](/post/the/) chef prepared [the](/post/the/) [dish](/post/dish/) [specially](/post/specially/) [for](/post/for/) [our](/post/our/) anniversary."
+- 形容词: "[This](/zh/post/this/) [dress](/zh/post/dress/) is made [of](/zh/post/of/) [a](/zh/post/a/) [special](/zh/post/special/) [fabric](/zh/post/fabric/) [that](/zh/post/that/) doesn't wrinkle [easily](/zh/post/easily/)."
+- 名词: "There's [a](/zh/post/a/) [special](/zh/post/special/) [on](/zh/post/on/) roses [at](/zh/post/at/) [the](/zh/post/the/) florist's [today](/zh/post/today/)."
+- 副词: "[The](/zh/post/the/) chef prepared [the](/zh/post/the/) [dish](/zh/post/dish/) [specially](/zh/post/specially/) [for](/zh/post/for/) [our](/zh/post/our/) anniversary."
 
 ## 同义词
-- [Unique](/post/unique/)
+- [Unique](/zh/post/unique/)
 - Distinctive
 - Exceptional
 - Uncommon

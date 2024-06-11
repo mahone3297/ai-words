@@ -7,36 +7,36 @@ description = '[pəˈsiːv] vt.察觉，发觉；理解'
 keywords = ['ai words', 'perceive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪˈsi:v/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-    - **Transitive [verb](/en/post/verb/)**: [To](/en/post/to/) [become](/en/post/become/) [aware](/en/post/aware/) [of](/en/post/of/) [through](/en/post/through/) [the](/en/post/the/) senses, [especially](/en/post/especially/) [by](/en/post/by/) [sight](/en/post/sight/) [or](/en/post/or/) hearing. [For](/en/post/for/) [example](/en/post/example/): "I perceived [a](/en/post/a/) [faint](/en/post/faint/) [light](/en/post/light/) [in](/en/post/in/) [the](/en/post/the/) [distance](/en/post/distance/)."
-    - **Intransitive [verb](/en/post/verb/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) realization [or](/en/post/or/) [understanding](/en/post/understanding/) [about](/en/post/about/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) perceived [the](/en/post/the/) [truth](/en/post/truth/) [behind](/en/post/behind/) [his](/en/post/his/) words."
+- **[Verb](/post/verb/)**: 
+    - **Transitive [verb](/post/verb/)**: [To](/post/to/) [become](/post/become/) [aware](/post/aware/) [of](/post/of/) [through](/post/through/) [the](/post/the/) senses, [especially](/post/especially/) [by](/post/by/) [sight](/post/sight/) [or](/post/or/) hearing. [For](/post/for/) [example](/post/example/): "I perceived [a](/post/a/) [faint](/post/faint/) [light](/post/light/) [in](/post/in/) [the](/post/the/) [distance](/post/distance/)."
+    - **Intransitive [verb](/post/verb/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) realization [or](/post/or/) [understanding](/post/understanding/) [about](/post/about/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) perceived [the](/post/the/) [truth](/post/truth/) [behind](/post/behind/) [his](/post/his/) words."
 
 ## Phrases
-- "[Perceive](/en/post/perceive/) [a](/en/post/a/) [difference](/en/post/difference/)" [means](/en/post/means/) [to](/en/post/to/) [notice](/en/post/notice/) [a](/en/post/a/) [change](/en/post/change/) [or](/en/post/or/) [distinction](/en/post/distinction/).
-- "Perceived [value](/en/post/value/)" refers [to](/en/post/to/) [how](/en/post/how/) [something](/en/post/something/) is understood [to](/en/post/to/) [be](/en/post/be/) [valuable](/en/post/valuable/).
-- "Perceptual bias" is [a](/en/post/a/) [tendency](/en/post/tendency/) [to](/en/post/to/) [interpret](/en/post/interpret/) [information](/en/post/information/) [in](/en/post/in/) [a](/en/post/a/) [certain](/en/post/certain/) [way](/en/post/way/) influenced [by](/en/post/by/) one's beliefs [or](/en/post/or/) experiences.
+- "[Perceive](/post/perceive/) [a](/post/a/) [difference](/post/difference/)" [means](/post/means/) [to](/post/to/) [notice](/post/notice/) [a](/post/a/) [change](/post/change/) [or](/post/or/) [distinction](/post/distinction/).
+- "Perceived [value](/post/value/)" refers [to](/post/to/) [how](/post/how/) [something](/post/something/) is understood [to](/post/to/) [be](/post/be/) [valuable](/post/valuable/).
+- "Perceptual bias" is [a](/post/a/) [tendency](/post/tendency/) [to](/post/to/) [interpret](/post/interpret/) [information](/post/information/) [in](/post/in/) [a](/post/a/) [certain](/post/certain/) [way](/post/way/) influenced [by](/post/by/) one's beliefs [or](/post/or/) experiences.
 
-## [Example](/en/post/example/) Sentences
-- **Transitive**: "[After](/en/post/after/) focusing, [he](/en/post/he/) perceived [the](/en/post/the/) intricate details [on](/en/post/on/) [the](/en/post/the/) [painting](/en/post/painting/)."
-- **Intransitive**: "[Her](/en/post/her/) intuition allowed [her](/en/post/her/) [to](/en/post/to/) [perceive](/en/post/perceive/) [the](/en/post/the/) [danger](/en/post/danger/) [before](/en/post/before/) [it](/en/post/it/) was [obvious](/en/post/obvious/)."
-- "[The](/en/post/the/) [new](/en/post/new/) [employee](/en/post/employee/) was surprised [by](/en/post/by/) [how](/en/post/how/) [quickly](/en/post/quickly/) [they](/en/post/they/) perceived [the](/en/post/the/) [company](/en/post/company/) [culture](/en/post/culture/)."
+## [Example](/post/example/) Sentences
+- **Transitive**: "[After](/post/after/) focusing, [he](/post/he/) perceived [the](/post/the/) intricate details [on](/post/on/) [the](/post/the/) [painting](/post/painting/)."
+- **Intransitive**: "[Her](/post/her/) intuition allowed [her](/post/her/) [to](/post/to/) [perceive](/post/perceive/) [the](/post/the/) [danger](/post/danger/) [before](/post/before/) [it](/post/it/) was [obvious](/post/obvious/)."
+- "[The](/post/the/) [new](/post/new/) [employee](/post/employee/) was surprised [by](/post/by/) [how](/post/how/) [quickly](/post/quickly/) [they](/post/they/) perceived [the](/post/the/) [company](/post/company/) [culture](/post/culture/)."
 
 ## Synonyms
-- [Recognize](/en/post/recognize/)
-- [Sense](/en/post/sense/)
-- [Detect](/en/post/detect/)
-- [Notice](/en/post/notice/)
-- [Understand](/en/post/understand/)
-- [Realize](/en/post/realize/)
-- [Perceive](/en/post/perceive/)
+- [Recognize](/post/recognize/)
+- [Sense](/post/sense/)
+- [Detect](/post/detect/)
+- [Notice](/post/notice/)
+- [Understand](/post/understand/)
+- [Realize](/post/realize/)
+- [Perceive](/post/perceive/)
 
 ## Antonyms
 - Misinterpret
-- [Miss](/en/post/miss/)
-- [Overlook](/en/post/overlook/)
-- [Ignore](/en/post/ignore/)
-- [Fail](/en/post/fail/) [to](/en/post/to/) [recognize](/en/post/recognize/)
+- [Miss](/post/miss/)
+- [Overlook](/post/overlook/)
+- [Ignore](/post/ignore/)
+- [Fail](/post/fail/) [to](/post/to/) [recognize](/post/recognize/)

@@ -7,27 +7,27 @@ description = '[əkˈseptəbl] a.可接受/合意的'
 keywords = ['ai words', 'acceptable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əkˈseptəbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Able](/en/post/able/) [to](/en/post/to/) [be](/en/post/be/) agreed [upon](/en/post/upon/) [or](/en/post/or/) tolerated; [satisfactory](/en/post/satisfactory/) [or](/en/post/or/) allowed. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [proposal](/en/post/proposal/) was [acceptable](/en/post/acceptable/) [to](/en/post/to/) [all](/en/post/all/) parties involved."
+- **[Adjective](/post/adjective/)**: [Able](/post/able/) [to](/post/to/) [be](/post/be/) agreed [upon](/post/upon/) [or](/post/or/) tolerated; [satisfactory](/post/satisfactory/) [or](/post/or/) allowed. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [proposal](/post/proposal/) was [acceptable](/post/acceptable/) [to](/post/to/) [all](/post/all/) parties involved."
 
 ## Phrases
-- "[Acceptable](/en/post/acceptable/) [use](/en/post/use/) [policy](/en/post/policy/)" refers [to](/en/post/to/) rules [set](/en/post/set/) [by](/en/post/by/) [a](/en/post/a/) [network](/en/post/network/), website, [or](/en/post/or/) [service](/en/post/service/) provider defining [how](/en/post/how/) [their](/en/post/their/) services [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/).
-- "[Within](/en/post/within/) [acceptable](/en/post/acceptable/) limits" denotes [that](/en/post/that/) [something](/en/post/something/) falls [within](/en/post/within/) predetermined parameters [or](/en/post/or/) standards.
-- "An [acceptable](/en/post/acceptable/) [level](/en/post/level/) [of](/en/post/of/) [risk](/en/post/risk/)" implies [a](/en/post/a/) [degree](/en/post/degree/) [of](/en/post/of/) [risk](/en/post/risk/) [that](/en/post/that/) is considered manageable [or](/en/post/or/) [reasonable](/en/post/reasonable/).
+- "[Acceptable](/post/acceptable/) [use](/post/use/) [policy](/post/policy/)" refers [to](/post/to/) rules [set](/post/set/) [by](/post/by/) [a](/post/a/) [network](/post/network/), website, [or](/post/or/) [service](/post/service/) provider defining [how](/post/how/) [their](/post/their/) services [can](/post/can/) [be](/post/be/) [used](/post/used/).
+- "[Within](/post/within/) [acceptable](/post/acceptable/) limits" denotes [that](/post/that/) [something](/post/something/) falls [within](/post/within/) predetermined parameters [or](/post/or/) standards.
+- "An [acceptable](/post/acceptable/) [level](/post/level/) [of](/post/of/) [risk](/post/risk/)" implies [a](/post/a/) [degree](/post/degree/) [of](/post/of/) [risk](/post/risk/) [that](/post/that/) is considered manageable [or](/post/or/) [reasonable](/post/reasonable/).
 
-## [Example](/en/post/example/) Sentences
-- [The](/en/post/the/) [noise](/en/post/noise/) [level](/en/post/level/) [in](/en/post/in/) [the](/en/post/the/) [library](/en/post/library/) was kept [at](/en/post/at/) an [acceptable](/en/post/acceptable/) [minimum](/en/post/minimum/) [to](/en/post/to/) [ensure](/en/post/ensure/) [a](/en/post/a/) [peaceful](/en/post/peaceful/) [study](/en/post/study/) [environment](/en/post/environment/).
-- [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [the](/en/post/the/) [product](/en/post/product/) did [not](/en/post/not/) [meet](/en/post/meet/) [our](/en/post/our/) standards; [it](/en/post/it/) was [not](/en/post/not/) [acceptable](/en/post/acceptable/).
-- [After](/en/post/after/) negotiations, [they](/en/post/they/) [finally](/en/post/finally/) reached an [acceptable](/en/post/acceptable/) [compromise](/en/post/compromise/).
+## [Example](/post/example/) Sentences
+- [The](/post/the/) [noise](/post/noise/) [level](/post/level/) [in](/post/in/) [the](/post/the/) [library](/post/library/) was kept [at](/post/at/) an [acceptable](/post/acceptable/) [minimum](/post/minimum/) [to](/post/to/) [ensure](/post/ensure/) [a](/post/a/) [peaceful](/post/peaceful/) [study](/post/study/) [environment](/post/environment/).
+- [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [the](/post/the/) [product](/post/product/) did [not](/post/not/) [meet](/post/meet/) [our](/post/our/) standards; [it](/post/it/) was [not](/post/not/) [acceptable](/post/acceptable/).
+- [After](/post/after/) negotiations, [they](/post/they/) [finally](/post/finally/) reached an [acceptable](/post/acceptable/) [compromise](/post/compromise/).
 
 ## Synonyms
-- [Adequate](/en/post/adequate/)
-- [Satisfactory](/en/post/satisfactory/)
+- [Adequate](/post/adequate/)
+- [Satisfactory](/post/satisfactory/)
 - Tolerable
 - Passable
-- [Reasonable](/en/post/reasonable/)
-- [Fair](/en/post/fair/)
-- [Decent](/en/post/decent/)
+- [Reasonable](/post/reasonable/)
+- [Fair](/post/fair/)
+- [Decent](/post/decent/)

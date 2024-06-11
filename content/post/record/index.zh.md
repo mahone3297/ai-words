@@ -12,27 +12,27 @@ keywords = ['ai words', 'record']
 
 ## 释义
 - **名词**:
-   - 记录；记载：[A](/post/a/) written [or](/post/or/) [electronic](/post/electronic/) [account](/post/account/) [of](/post/of/) events, facts, [or](/post/or/) [information](/post/information/).
-   - 录音：[A](/post/a/) [sound](/post/sound/) [or](/post/or/) [video](/post/video/) recording, [especially](/post/especially/) [on](/post/on/) [a](/post/a/) [disk](/post/disk/) [or](/post/or/) [tape](/post/tape/).
-   - 成绩；最高纪录：[A](/post/a/) person's [or](/post/or/) group's [best](/post/best/) [performance](/post/performance/) [or](/post/or/) [achievement](/post/achievement/).
+   - 记录；记载：[A](/zh/post/a/) written [or](/zh/post/or/) [electronic](/zh/post/electronic/) [account](/zh/post/account/) [of](/zh/post/of/) events, facts, [or](/zh/post/or/) [information](/zh/post/information/).
+   - 录音：[A](/zh/post/a/) [sound](/zh/post/sound/) [or](/zh/post/or/) [video](/zh/post/video/) recording, [especially](/zh/post/especially/) [on](/zh/post/on/) [a](/zh/post/a/) [disk](/zh/post/disk/) [or](/zh/post/or/) [tape](/zh/post/tape/).
+   - 成绩；最高纪录：[A](/zh/post/a/) person's [or](/zh/post/or/) group's [best](/zh/post/best/) [performance](/zh/post/performance/) [or](/zh/post/or/) [achievement](/zh/post/achievement/).
 
 - **动词**:
-   - 记录；记载：[To](/post/to/) [make](/post/make/) [a](/post/a/) written, [electronic](/post/electronic/), [or](/post/or/) audiovisual [record](/post/record/) [of](/post/of/) [something](/post/something/).
-   - 录制：[To](/post/to/) [capture](/post/capture/) [sound](/post/sound/) [or](/post/or/) [video](/post/video/) [for](/post/for/) [future](/post/future/) playback.
+   - 记录；记载：[To](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) written, [electronic](/zh/post/electronic/), [or](/zh/post/or/) audiovisual [record](/zh/post/record/) [of](/zh/post/of/) [something](/zh/post/something/).
+   - 录制：[To](/zh/post/to/) [capture](/zh/post/capture/) [sound](/zh/post/sound/) [or](/zh/post/or/) [video](/zh/post/video/) [for](/zh/post/for/) [future](/zh/post/future/) playback.
 
 ## 短语
-- "[Keep](/post/keep/) records" 保持记录。
-- "[Record](/post/record/) [a](/post/a/) [song](/post/song/)" 录制一首歌。
-- "[Break](/post/break/) [a](/post/a/) [record](/post/record/)" 打破纪录。
+- "[Keep](/zh/post/keep/) records" 保持记录。
+- "[Record](/zh/post/record/) [a](/zh/post/a/) [song](/zh/post/song/)" 录制一首歌。
+- "[Break](/zh/post/break/) [a](/zh/post/a/) [record](/zh/post/record/)" 打破纪录。
 
 ## 例句
-- 名词: "[The](/post/the/) [company](/post/company/) keeps detailed records [of](/post/of/) [all](/post/all/) transactions."
-- 动词: "[She](/post/she/) recorded [her](/post/her/) memories [in](/post/in/) [a](/post/a/) [personal](/post/personal/) [journal](/post/journal/)."
-- 形容词: "[The](/post/the/) [athlete](/post/athlete/) [set](/post/set/) [a](/post/a/) [new](/post/new/) [world](/post/world/) [record](/post/record/) [in](/post/in/) [the](/post/the/) 100-meter [dash](/post/dash/)."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) keeps detailed records [of](/zh/post/of/) [all](/zh/post/all/) transactions."
+- 动词: "[She](/zh/post/she/) recorded [her](/zh/post/her/) memories [in](/zh/post/in/) [a](/zh/post/a/) [personal](/zh/post/personal/) [journal](/zh/post/journal/)."
+- 形容词: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) [set](/zh/post/set/) [a](/zh/post/a/) [new](/zh/post/new/) [world](/zh/post/world/) [record](/zh/post/record/) [in](/zh/post/in/) [the](/zh/post/the/) 100-meter [dash](/zh/post/dash/)."
 
 ## 同义词
-- [Log](/post/log/)
-- [Register](/post/register/)
+- [Log](/zh/post/log/)
+- [Register](/zh/post/register/)
 - Documentation
-- [Account](/post/account/)
-- [Track](/post/track/)
+- [Account](/zh/post/account/)
+- [Track](/zh/post/track/)

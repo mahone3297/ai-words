@@ -7,30 +7,30 @@ description = '[ˈɔːfuli] ad.令人畏惧的；很'
 keywords = ['ai words', 'awfully']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈwʌlfli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Characterizing [adverb](/en/post/adverb/) [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [the](/en/post/the/) [degree](/en/post/degree/) [of](/en/post/of/) [something](/en/post/something/), typically negatively [or](/en/post/or/) [with](/en/post/with/) sarcasm. [It](/en/post/it/) [can](/en/post/can/) [modify](/en/post/modify/) verbs, adjectives, [or](/en/post/or/) [other](/en/post/other/) adverbs. [For](/en/post/for/) [example](/en/post/example/):
-   - "[She](/en/post/she/) was [awfully](/en/post/awfully/) [tired](/en/post/tired/) [after](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [journey](/en/post/journey/)."
-   - "[He](/en/post/he/) did [it](/en/post/it/) [awfully](/en/post/awfully/) poorly."
+- **[Adverb](/post/adverb/)**: Characterizing [adverb](/post/adverb/) [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [the](/post/the/) [degree](/post/degree/) [of](/post/of/) [something](/post/something/), typically negatively [or](/post/or/) [with](/post/with/) sarcasm. [It](/post/it/) [can](/post/can/) [modify](/post/modify/) verbs, adjectives, [or](/post/or/) [other](/post/other/) adverbs. [For](/post/for/) [example](/post/example/):
+   - "[She](/post/she/) was [awfully](/post/awfully/) [tired](/post/tired/) [after](/post/after/) [the](/post/the/) [long](/post/long/) [journey](/post/journey/)."
+   - "[He](/post/he/) did [it](/post/it/) [awfully](/post/awfully/) poorly."
 
 ## Phrases
-- "[Awfully](/en/post/awfully/) [sorry](/en/post/sorry/)" expresses [deep](/en/post/deep/) [regret](/en/post/regret/) [or](/en/post/or/) [apology](/en/post/apology/).
-- "[Awfully](/en/post/awfully/) [cold](/en/post/cold/)" describes an [extremely](/en/post/extremely/) [cold](/en/post/cold/) [temperature](/en/post/temperature/).
-- "[She](/en/post/she/) was [awfully](/en/post/awfully/) [quiet](/en/post/quiet/)" indicates [unusual](/en/post/unusual/) [silence](/en/post/silence/).
+- "[Awfully](/post/awfully/) [sorry](/post/sorry/)" expresses [deep](/post/deep/) [regret](/post/regret/) [or](/post/or/) [apology](/post/apology/).
+- "[Awfully](/post/awfully/) [cold](/post/cold/)" describes an [extremely](/post/extremely/) [cold](/post/cold/) [temperature](/post/temperature/).
+- "[She](/post/she/) was [awfully](/post/awfully/) [quiet](/post/quiet/)" indicates [unusual](/post/unusual/) [silence](/post/silence/).
 
-## [Example](/en/post/example/) Sentences
-- "[The](/en/post/the/) [food](/en/post/food/) tasted [awfully](/en/post/awfully/) bland, [missing](/en/post/missing/) [any](/en/post/any/) [real](/en/post/real/) flavor."
-- "[He](/en/post/he/) was [awfully](/en/post/awfully/) embarrassed [after](/en/post/after/) tripping [in](/en/post/in/) [front](/en/post/front/) [of](/en/post/of/) [everyone](/en/post/everyone/)."
-- "[She](/en/post/she/) was [awfully](/en/post/awfully/) [grateful](/en/post/grateful/) [for](/en/post/for/) [your](/en/post/your/) [help](/en/post/help/)."
+## [Example](/post/example/) Sentences
+- "[The](/post/the/) [food](/post/food/) tasted [awfully](/post/awfully/) bland, [missing](/post/missing/) [any](/post/any/) [real](/post/real/) flavor."
+- "[He](/post/he/) was [awfully](/post/awfully/) embarrassed [after](/post/after/) tripping [in](/post/in/) [front](/post/front/) [of](/post/of/) [everyone](/post/everyone/)."
+- "[She](/post/she/) was [awfully](/post/awfully/) [grateful](/post/grateful/) [for](/post/for/) [your](/post/your/) [help](/post/help/)."
 
 ## Synonyms
 - Terribly
-- [Exceedingly](/en/post/exceedingly/)
+- [Exceedingly](/post/exceedingly/)
 - Dreadfully
-- [Rather](/en/post/rather/)
-- [Very](/en/post/very/) ([in](/en/post/in/) [a](/en/post/a/) [negative](/en/post/negative/) context)
+- [Rather](/post/rather/)
+- [Very](/post/very/) ([in](/post/in/) [a](/post/a/) [negative](/post/negative/) context)
 
 ## Antonyms
 - Nicely
@@ -38,4 +38,4 @@ keywords = ['ai words', 'awfully']
 - Excellently
 - Pleasantly
 
-[Note](/en/post/note/): [While](/en/post/while/) "[awfully](/en/post/awfully/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/), it's [not](/en/post/not/) [often](/en/post/often/) seen [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [verb](/en/post/verb/) [in](/en/post/in/) [standard](/en/post/standard/) English. [Its](/en/post/its/) [primary](/en/post/primary/) [function](/en/post/function/) is [as](/en/post/as/) an [adverb](/en/post/adverb/).
+[Note](/post/note/): [While](/post/while/) "[awfully](/post/awfully/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/), it's [not](/post/not/) [often](/post/often/) seen [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [verb](/post/verb/) [in](/post/in/) [standard](/post/standard/) English. [Its](/post/its/) [primary](/post/primary/) [function](/post/function/) is [as](/post/as/) an [adverb](/post/adverb/).

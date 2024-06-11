@@ -7,22 +7,22 @@ description = '[ˈʌpsaidˈdaun] a.颠倒的，乱七八糟的'
 keywords = ['ai words', 'upside-down']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌʌpˈsaɪd-daʊn/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [In](/en/post/in/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) orientation [with](/en/post/with/) [the](/en/post/the/) [upper](/en/post/upper/) [part](/en/post/part/) [or](/en/post/or/) [surface](/en/post/surface/) facing [downward](/en/post/downward/) [or](/en/post/or/) upside compared [to](/en/post/to/) [its](/en/post/its/) [usual](/en/post/usual/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [table](/en/post/table/) was flipped [upside-down](/en/post/upside-down/)."
-- **[Adverb](/en/post/adverb/)**: Describing [a](/en/post/a/) [movement](/en/post/movement/) [or](/en/post/or/) [action](/en/post/action/) [that](/en/post/that/) places [something](/en/post/something/) [in](/en/post/in/) an [upside-down](/en/post/upside-down/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spun [the](/en/post/the/) [bottle](/en/post/bottle/) [upside-down](/en/post/upside-down/) [to](/en/post/to/) [choose](/en/post/choose/) [a](/en/post/a/) [partner](/en/post/partner/)."
+- **[Adjective](/post/adjective/)**: [In](/post/in/) [a](/post/a/) [position](/post/position/) [or](/post/or/) orientation [with](/post/with/) [the](/post/the/) [upper](/post/upper/) [part](/post/part/) [or](/post/or/) [surface](/post/surface/) facing [downward](/post/downward/) [or](/post/or/) upside compared [to](/post/to/) [its](/post/its/) [usual](/post/usual/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [table](/post/table/) was flipped [upside-down](/post/upside-down/)."
+- **[Adverb](/post/adverb/)**: Describing [a](/post/a/) [movement](/post/movement/) [or](/post/or/) [action](/post/action/) [that](/post/that/) places [something](/post/something/) [in](/post/in/) an [upside-down](/post/upside-down/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) spun [the](/post/the/) [bottle](/post/bottle/) [upside-down](/post/upside-down/) [to](/post/to/) [choose](/post/choose/) [a](/post/a/) [partner](/post/partner/)."
 
 ## Phrases
-- "Flip [something](/en/post/something/) [upside-down](/en/post/upside-down/)" [means](/en/post/means/) [to](/en/post/to/) [turn](/en/post/turn/) [it](/en/post/it/) [over](/en/post/over/) [so](/en/post/so/) [that](/en/post/that/) [the](/en/post/the/) [top](/en/post/top/) becomes [the](/en/post/the/) [bottom](/en/post/bottom/).
-- "[Start](/en/post/start/) [from](/en/post/from/) [scratch](/en/post/scratch/) [or](/en/post/or/) upside [down](/en/post/down/)" implies [a](/en/post/a/) [complete](/en/post/complete/) overhaul [or](/en/post/or/) [beginning](/en/post/beginning/) anew.
-- "[Think](/en/post/think/) [outside](/en/post/outside/) [the](/en/post/the/) [box](/en/post/box/) [or](/en/post/or/) [upside-down](/en/post/upside-down/)" suggests unconventional [or](/en/post/or/) [creative](/en/post/creative/) thinking.
+- "Flip [something](/post/something/) [upside-down](/post/upside-down/)" [means](/post/means/) [to](/post/to/) [turn](/post/turn/) [it](/post/it/) [over](/post/over/) [so](/post/so/) [that](/post/that/) [the](/post/the/) [top](/post/top/) becomes [the](/post/the/) [bottom](/post/bottom/).
+- "[Start](/post/start/) [from](/post/from/) [scratch](/post/scratch/) [or](/post/or/) upside [down](/post/down/)" implies [a](/post/a/) [complete](/post/complete/) overhaul [or](/post/or/) [beginning](/post/beginning/) anew.
+- "[Think](/post/think/) [outside](/post/outside/) [the](/post/the/) [box](/post/box/) [or](/post/or/) [upside-down](/post/upside-down/)" suggests unconventional [or](/post/or/) [creative](/post/creative/) thinking.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [room](/en/post/room/) was rearranged [with](/en/post/with/) [the](/en/post/the/) [furniture](/en/post/furniture/) [upside-down](/en/post/upside-down/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [new](/en/post/new/) [layout](/en/post/layout/)."
-- **[Adverb](/en/post/adverb/)**: "[To](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) [the](/en/post/the/) [race](/en/post/race/), [she](/en/post/she/) practiced running [upside-down](/en/post/upside-down/) [on](/en/post/on/) [the](/en/post/the/) treadmill."
-- "[She](/en/post/she/) told [her](/en/post/her/) [son](/en/post/son/) [to](/en/post/to/) [imagine](/en/post/imagine/) [the](/en/post/the/) [world](/en/post/world/) [upside-down](/en/post/upside-down/) [to](/en/post/to/) [understand](/en/post/understand/) [gravity](/en/post/gravity/) [better](/en/post/better/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [room](/post/room/) was rearranged [with](/post/with/) [the](/post/the/) [furniture](/post/furniture/) [upside-down](/post/upside-down/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [new](/post/new/) [layout](/post/layout/)."
+- **[Adverb](/post/adverb/)**: "[To](/post/to/) [prepare](/post/prepare/) [for](/post/for/) [the](/post/the/) [race](/post/race/), [she](/post/she/) practiced running [upside-down](/post/upside-down/) [on](/post/on/) [the](/post/the/) treadmill."
+- "[She](/post/she/) told [her](/post/her/) [son](/post/son/) [to](/post/to/) [imagine](/post/imagine/) [the](/post/the/) [world](/post/world/) [upside-down](/post/upside-down/) [to](/post/to/) [understand](/post/understand/) [gravity](/post/gravity/) [better](/post/better/)."
 
 ## Synonyms
 - Reversed
@@ -33,6 +33,6 @@ keywords = ['ai words', 'upside-down']
 
 ## Antonyms
 - Right-side-up
-- [Normal](/en/post/normal/)
-- [Straight](/en/post/straight/)
-- [Level](/en/post/level/)
+- [Normal](/post/normal/)
+- [Straight](/post/straight/)
+- [Level](/post/level/)

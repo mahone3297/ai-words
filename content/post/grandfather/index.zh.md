@@ -11,16 +11,16 @@ keywords = ['ai words', 'grandfather']
 /ˈɡrændfɑːðər/
 
 ## 释义
-- **名词**: 父亲的父亲，祖父。例如: "[My](/post/my/) [grandfather](/post/grandfather/) taught [me](/post/me/) [how](/post/how/) [to](/post/to/) [fish](/post/fish/) [when](/post/when/) I was [young](/post/young/)."
-- **形容词**: 与祖父有关的；老式的；传统的。例如: "[The](/post/the/) [grandfather](/post/grandfather/) [clock](/post/clock/) [in](/post/in/) [the](/post/the/) [hall](/post/hall/) has been [in](/post/in/) [our](/post/our/) [family](/post/family/) [for](/post/for/) generations."
+- **名词**: 父亲的父亲，祖父。例如: "[My](/zh/post/my/) [grandfather](/zh/post/grandfather/) taught [me](/zh/post/me/) [how](/zh/post/how/) [to](/zh/post/to/) [fish](/zh/post/fish/) [when](/zh/post/when/) I was [young](/zh/post/young/)."
+- **形容词**: 与祖父有关的；老式的；传统的。例如: "[The](/zh/post/the/) [grandfather](/zh/post/grandfather/) [clock](/zh/post/clock/) [in](/zh/post/in/) [the](/zh/post/the/) [hall](/zh/post/hall/) has been [in](/zh/post/in/) [our](/zh/post/our/) [family](/zh/post/family/) [for](/zh/post/for/) generations."
 
 ## 短语
-- "[grandfather](/post/grandfather/) clause" 在法律或政策中指允许某些现有情况不受新规定影响的条款。
-- "[like](/post/like/) [father](/post/father/), [like](/post/like/) [son](/post/son/); [like](/post/like/) [grandfather](/post/grandfather/), [like](/post/like/) [grandson](/post/grandson/)" 指家庭成员间的相似性格或行为特征。
+- "[grandfather](/zh/post/grandfather/) clause" 在法律或政策中指允许某些现有情况不受新规定影响的条款。
+- "[like](/zh/post/like/) [father](/zh/post/father/), [like](/zh/post/like/) [son](/zh/post/son/); [like](/zh/post/like/) [grandfather](/zh/post/grandfather/), [like](/zh/post/like/) [grandson](/zh/post/grandson/)" 指家庭成员间的相似性格或行为特征。
 
 ## 例句
-- 名词: "[My](/post/my/) grandfather's stories [about](/post/about/) [his](/post/his/) [youth](/post/youth/) [always](/post/always/) fascinated [me](/post/me/)."
-- 形容词: "[The](/post/the/) [old](/post/old/) [car](/post/car/) had [a](/post/a/) grandfathered [license](/post/license/) [plate](/post/plate/), [which](/post/which/) allowed [it](/post/it/) [to](/post/to/) [be](/post/be/) exempt [from](/post/from/) [new](/post/new/) emissions regulations."
+- 名词: "[My](/zh/post/my/) grandfather's stories [about](/zh/post/about/) [his](/zh/post/his/) [youth](/zh/post/youth/) [always](/zh/post/always/) fascinated [me](/zh/post/me/)."
+- 形容词: "[The](/zh/post/the/) [old](/zh/post/old/) [car](/zh/post/car/) had [a](/zh/post/a/) grandfathered [license](/zh/post/license/) [plate](/zh/post/plate/), [which](/zh/post/which/) allowed [it](/zh/post/it/) [to](/zh/post/to/) [be](/zh/post/be/) exempt [from](/zh/post/from/) [new](/zh/post/new/) emissions regulations."
 
 ## 同义词
 - Granddad

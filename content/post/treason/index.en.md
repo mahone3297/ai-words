@@ -7,25 +7,25 @@ description = '[ˈtriːzn] n.谋反，通敌，叛国罪'
 keywords = ['ai words', 'treason']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /treɪˈzən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Treason](/en/post/treason/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) betraying one's [own](/en/post/own/) [country](/en/post/country/), [government](/en/post/government/), [or](/en/post/or/) [loyalty](/en/post/loyalty/) [by](/en/post/by/) attempting [to](/en/post/to/) [assist](/en/post/assist/) [its](/en/post/its/) enemies [or](/en/post/or/) [by](/en/post/by/) committing acts [that](/en/post/that/) undermine [its](/en/post/its/) [security](/en/post/security/). 
+### [Noun](/post/noun/)
+**[Treason](/post/treason/)** ([noun](/post/noun/)): [The](/post/the/) [act](/post/act/) [of](/post/of/) betraying one's [own](/post/own/) [country](/post/country/), [government](/post/government/), [or](/post/or/) [loyalty](/post/loyalty/) [by](/post/by/) attempting [to](/post/to/) [assist](/post/assist/) [its](/post/its/) enemies [or](/post/or/) [by](/post/by/) committing acts [that](/post/that/) undermine [its](/post/its/) [security](/post/security/). 
 
-### [Verb](/en/post/verb/)
-**[To](/en/post/to/) [treason](/en/post/treason/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [betray](/en/post/betray/) one's allegiance [or](/en/post/or/) [commit](/en/post/commit/) treachery, typically [against](/en/post/against/) one's [country](/en/post/country/).
+### [Verb](/post/verb/)
+**[To](/post/to/) [treason](/post/treason/)** ([verb](/post/verb/)): [To](/post/to/) [betray](/post/betray/) one's allegiance [or](/post/or/) [commit](/post/commit/) treachery, typically [against](/post/against/) one's [country](/post/country/).
 
 ## Phrases
-- "Betraying one's [country](/en/post/country/) [through](/en/post/through/) [treason](/en/post/treason/)."
-- "[Being](/en/post/being/) accused [of](/en/post/of/) [high](/en/post/high/) [treason](/en/post/treason/)."
-- "Pledging allegiance [to](/en/post/to/) an [enemy](/en/post/enemy/) [in](/en/post/in/) treasonous acts."
+- "Betraying one's [country](/post/country/) [through](/post/through/) [treason](/post/treason/)."
+- "[Being](/post/being/) accused [of](/post/of/) [high](/post/high/) [treason](/post/treason/)."
+- "Pledging allegiance [to](/post/to/) an [enemy](/post/enemy/) [in](/post/in/) treasonous acts."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) was [found](/en/post/found/) [guilty](/en/post/guilty/) [of](/en/post/of/) [treason](/en/post/treason/) [for](/en/post/for/) passing classified [information](/en/post/information/) [to](/en/post/to/) [the](/en/post/the/) [enemy](/en/post/enemy/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) risked [treason](/en/post/treason/) [by](/en/post/by/) communicating [with](/en/post/with/) [foreign](/en/post/foreign/) spies."
-- **[Sentence](/en/post/sentence/)**: "[The](/en/post/the/) spy's actions were considered [a](/en/post/a/) [high](/en/post/high/) [crime](/en/post/crime/) [of](/en/post/of/) [treason](/en/post/treason/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) was [found](/post/found/) [guilty](/post/guilty/) [of](/post/of/) [treason](/post/treason/) [for](/post/for/) passing classified [information](/post/information/) [to](/post/to/) [the](/post/the/) [enemy](/post/enemy/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) risked [treason](/post/treason/) [by](/post/by/) communicating [with](/post/with/) [foreign](/post/foreign/) spies."
+- **[Sentence](/post/sentence/)**: "[The](/post/the/) spy's actions were considered [a](/post/a/) [high](/post/high/) [crime](/post/crime/) [of](/post/of/) [treason](/post/treason/)."
 
 ## Synonyms
 - Betrayal
@@ -36,7 +36,7 @@ keywords = ['ai words', 'treason']
 - 背叛
 
 ## Antonyms
-- [Loyalty](/en/post/loyalty/)
+- [Loyalty](/post/loyalty/)
 - Allegiance
 - Patriotism
 - Faithfulness

@@ -11,20 +11,20 @@ keywords = ['ai words', 'wholly']
 /ˈhəʊlɪ/
 
 ## 释义
-- **副词**: 完全地，全部地，整个地。例如: "[He](/post/he/) accepted [the](/post/the/) [proposal](/post/proposal/) [wholly](/post/wholly/)."
-- **形容词**: 完整的，全部的。例如: "[The](/post/the/) [company](/post/company/) is [wholly](/post/wholly/) owned [by](/post/by/) [one](/post/one/) [person](/post/person/)."
+- **副词**: 完全地，全部地，整个地。例如: "[He](/zh/post/he/) accepted [the](/zh/post/the/) [proposal](/zh/post/proposal/) [wholly](/zh/post/wholly/)."
+- **形容词**: 完整的，全部的。例如: "[The](/zh/post/the/) [company](/zh/post/company/) is [wholly](/zh/post/wholly/) owned [by](/zh/post/by/) [one](/zh/post/one/) [person](/zh/post/person/)."
 
 ## 短语
-- "[Wholly](/post/wholly/) devoted" 意为完全投入的，一心一意的。
-- "[Wholly](/post/wholly/) [new](/post/new/)" 表示全新的，前所未有的。
+- "[Wholly](/zh/post/wholly/) devoted" 意为完全投入的，一心一意的。
+- "[Wholly](/zh/post/wholly/) [new](/zh/post/new/)" 表示全新的，前所未有的。
 
 ## 例句
-- 副词: "[She](/post/she/) was [wholly](/post/wholly/) convinced [by](/post/by/) [his](/post/his/) [argument](/post/argument/)."
-- 形容词: "[This](/post/this/) is [a](/post/a/) [wholly](/post/wholly/) [different](/post/different/) [situation](/post/situation/) [than](/post/than/) [we](/post/we/) expected."
+- 副词: "[She](/zh/post/she/) was [wholly](/zh/post/wholly/) convinced [by](/zh/post/by/) [his](/zh/post/his/) [argument](/zh/post/argument/)."
+- 形容词: "[This](/zh/post/this/) is [a](/zh/post/a/) [wholly](/zh/post/wholly/) [different](/zh/post/different/) [situation](/zh/post/situation/) [than](/zh/post/than/) [we](/zh/post/we/) expected."
 
 ## 同义词
 - Entirely
-- [Completely](/post/completely/)
-- [Absolutely](/post/absolutely/)
+- [Completely](/zh/post/completely/)
+- [Absolutely](/zh/post/absolutely/)
 - Utterly
-- [In](/post/in/) [full](/post/full/) [measure](/post/measure/)
+- [In](/zh/post/in/) [full](/zh/post/full/) [measure](/zh/post/measure/)

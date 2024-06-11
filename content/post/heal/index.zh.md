@@ -11,22 +11,22 @@ keywords = ['ai words', 'heal']
 /hiːl/
 
 ## 释义
-- **动词**: 治疗；治愈。例如: "[The](/post/the/) [medicine](/post/medicine/) helped [to](/post/to/) [heal](/post/heal/) [her](/post/her/) wounds."
-- **动词**: （使）恢复；修复。例如: "[Time](/post/time/) heals [all](/post/all/) wounds."
-- **名词**: 治愈；康复。例如: "[His](/post/his/) [broken](/post/broken/) [leg](/post/leg/) is [in](/post/in/) [the](/post/the/) [process](/post/process/) [of](/post/of/) [heal](/post/heal/)."
+- **动词**: 治疗；治愈。例如: "[The](/zh/post/the/) [medicine](/zh/post/medicine/) helped [to](/zh/post/to/) [heal](/zh/post/heal/) [her](/zh/post/her/) wounds."
+- **动词**: （使）恢复；修复。例如: "[Time](/zh/post/time/) heals [all](/zh/post/all/) wounds."
+- **名词**: 治愈；康复。例如: "[His](/zh/post/his/) [broken](/zh/post/broken/) [leg](/zh/post/leg/) is [in](/zh/post/in/) [the](/zh/post/the/) [process](/zh/post/process/) [of](/zh/post/of/) [heal](/zh/post/heal/)."
 
 ## 短语
-- "[to](/post/to/) [heal](/post/heal/) [from](/post/from/) [something](/post/something/)" 意为从某事中恢复过来。
+- "[to](/zh/post/to/) [heal](/zh/post/heal/) [from](/zh/post/from/) [something](/zh/post/something/)" 意为从某事中恢复过来。
 - "healing powers" 指具有治疗能力的事物或方法。
 
 ## 例句
-- 动词: "[The](/post/the/) herbal [remedy](/post/remedy/) was known [to](/post/to/) [heal](/post/heal/) [various](/post/various/) [skin](/post/skin/) conditions."
-- 动词: "[With](/post/with/) [rest](/post/rest/) [and](/post/and/) [good](/post/good/) nutrition, [he](/post/he/) hoped [to](/post/to/) [heal](/post/heal/) [quickly](/post/quickly/)."
-- 名词: "[The](/post/the/) [patient](/post/patient/) was making [steady](/post/steady/) [progress](/post/progress/) towards [heal](/post/heal/)."
+- 动词: "[The](/zh/post/the/) herbal [remedy](/zh/post/remedy/) was known [to](/zh/post/to/) [heal](/zh/post/heal/) [various](/zh/post/various/) [skin](/zh/post/skin/) conditions."
+- 动词: "[With](/zh/post/with/) [rest](/zh/post/rest/) [and](/zh/post/and/) [good](/zh/post/good/) nutrition, [he](/zh/post/he/) hoped [to](/zh/post/to/) [heal](/zh/post/heal/) [quickly](/zh/post/quickly/)."
+- 名词: "[The](/zh/post/the/) [patient](/zh/post/patient/) was making [steady](/zh/post/steady/) [progress](/zh/post/progress/) towards [heal](/zh/post/heal/)."
 
 ## 同义词
-- [cure](/post/cure/)
-- [mend](/post/mend/)
-- [recover](/post/recover/)
-- [restore](/post/restore/)
+- [cure](/zh/post/cure/)
+- [mend](/zh/post/mend/)
+- [recover](/zh/post/recover/)
+- [restore](/zh/post/restore/)
 - alleviate

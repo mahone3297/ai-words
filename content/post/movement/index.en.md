@@ -7,35 +7,35 @@ description = '[ˈmuːvmənt] n.动作,活动;移动'
 keywords = ['ai words', 'movement']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmuːvmənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) actions [or](/en/post/or/) activities intended [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) [particular](/en/post/particular/) [goal](/en/post/goal/) [or](/en/post/or/) [bring](/en/post/bring/) [about](/en/post/about/) [a](/en/post/a/) [specific](/en/post/specific/) [change](/en/post/change/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [civil](/en/post/civil/) rights [movement](/en/post/movement/) aimed [to](/en/post/to/) [end](/en/post/end/) [racial](/en/post/racial/) discrimination."
-  - [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) moving [or](/en/post/or/) changing [position](/en/post/position/); [motion](/en/post/motion/). [Example](/en/post/example/): "[The](/en/post/the/) [gentle](/en/post/gentle/) [movement](/en/post/movement/) [of](/en/post/of/) [the](/en/post/the/) pendulum was mesmerizing."
-  - [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) working [together](/en/post/together/) [to](/en/post/to/) [advance](/en/post/advance/) [a](/en/post/a/) shared [political](/en/post/political/), [social](/en/post/social/), [or](/en/post/or/) [artistic](/en/post/artistic/) [cause](/en/post/cause/). [Example](/en/post/example/): "[The](/en/post/the/) feminist [movement](/en/post/movement/) sought [equal](/en/post/equal/) rights [for](/en/post/for/) women."
-  - [In](/en/post/in/) [art](/en/post/art/), [music](/en/post/music/), [or](/en/post/or/) [literature](/en/post/literature/), [a](/en/post/a/) [characteristic](/en/post/characteristic/) [style](/en/post/style/) [or](/en/post/or/) [trend](/en/post/trend/). [Example](/en/post/example/): "[Abstract](/en/post/abstract/) expressionism was [a](/en/post/a/) [major](/en/post/major/) [movement](/en/post/movement/) [in](/en/post/in/) [American](/en/post/american/) [art](/en/post/art/) [during](/en/post/during/) [the](/en/post/the/) post-war [era](/en/post/era/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [series](/post/series/) [of](/post/of/) actions [or](/post/or/) activities intended [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) [particular](/post/particular/) [goal](/post/goal/) [or](/post/or/) [bring](/post/bring/) [about](/post/about/) [a](/post/a/) [specific](/post/specific/) [change](/post/change/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [civil](/post/civil/) rights [movement](/post/movement/) aimed [to](/post/to/) [end](/post/end/) [racial](/post/racial/) discrimination."
+  - [The](/post/the/) [act](/post/act/) [of](/post/of/) moving [or](/post/or/) changing [position](/post/position/); [motion](/post/motion/). [Example](/post/example/): "[The](/post/the/) [gentle](/post/gentle/) [movement](/post/movement/) [of](/post/of/) [the](/post/the/) pendulum was mesmerizing."
+  - [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) working [together](/post/together/) [to](/post/to/) [advance](/post/advance/) [a](/post/a/) shared [political](/post/political/), [social](/post/social/), [or](/post/or/) [artistic](/post/artistic/) [cause](/post/cause/). [Example](/post/example/): "[The](/post/the/) feminist [movement](/post/movement/) sought [equal](/post/equal/) rights [for](/post/for/) women."
+  - [In](/post/in/) [art](/post/art/), [music](/post/music/), [or](/post/or/) [literature](/post/literature/), [a](/post/a/) [characteristic](/post/characteristic/) [style](/post/style/) [or](/post/or/) [trend](/post/trend/). [Example](/post/example/): "[Abstract](/post/abstract/) expressionism was [a](/post/a/) [major](/post/major/) [movement](/post/movement/) [in](/post/in/) [American](/post/american/) [art](/post/art/) [during](/post/during/) [the](/post/the/) post-war [era](/post/era/)."
 
 ## Phrases
-- "[A](/en/post/a/) [mass](/en/post/mass/) [movement](/en/post/movement/)" refers [to](/en/post/to/) [a](/en/post/a/) [widespread](/en/post/widespread/) [and](/en/post/and/) organized [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) advocating [for](/en/post/for/) [change](/en/post/change/).
-- "[Social](/en/post/social/) movements" denote [collective](/en/post/collective/) actions [around](/en/post/around/) [a](/en/post/a/) shared [interest](/en/post/interest/) [or](/en/post/or/) [concern](/en/post/concern/) [in](/en/post/in/) [society](/en/post/society/).
-- "[Movement](/en/post/movement/) therapy" refers [to](/en/post/to/) [treatment](/en/post/treatment/) methods [that](/en/post/that/) [use](/en/post/use/) [physical](/en/post/physical/) [movement](/en/post/movement/) [to](/en/post/to/) [promote](/en/post/promote/) healing [and](/en/post/and/) well-being.
+- "[A](/post/a/) [mass](/post/mass/) [movement](/post/movement/)" refers [to](/post/to/) [a](/post/a/) [widespread](/post/widespread/) [and](/post/and/) organized [group](/post/group/) [of](/post/of/) [people](/post/people/) advocating [for](/post/for/) [change](/post/change/).
+- "[Social](/post/social/) movements" denote [collective](/post/collective/) actions [around](/post/around/) [a](/post/a/) shared [interest](/post/interest/) [or](/post/or/) [concern](/post/concern/) [in](/post/in/) [society](/post/society/).
+- "[Movement](/post/movement/) therapy" refers [to](/post/to/) [treatment](/post/treatment/) methods [that](/post/that/) [use](/post/use/) [physical](/post/physical/) [movement](/post/movement/) [to](/post/to/) [promote](/post/promote/) healing [and](/post/and/) well-being.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([change](/en/post/change/))**: "[There](/en/post/there/) has been [a](/en/post/a/) [significant](/en/post/significant/) [movement](/en/post/movement/) towards renewable [energy](/en/post/energy/) sources [in](/en/post/in/) [recent](/en/post/recent/) years."
-- **[Noun](/en/post/noun/) ([group](/en/post/group/))**: "[Her](/en/post/her/) involvement [with](/en/post/with/) [the](/en/post/the/) environmental [movement](/en/post/movement/) led [her](/en/post/her/) [to](/en/post/to/) [organize](/en/post/organize/) [several](/en/post/several/) [local](/en/post/local/) clean-up campaigns."
-- **[Noun](/en/post/noun/) ([artistic](/en/post/artistic/) [trend](/en/post/trend/))**: "Impressionism marked [a](/en/post/a/) [revolutionary](/en/post/revolutionary/) [movement](/en/post/movement/) [in](/en/post/in/) [painting](/en/post/painting/), emphasizing [light](/en/post/light/) [and](/en/post/and/) [color](/en/post/color/) [over](/en/post/over/) realistic [detail](/en/post/detail/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([change](/post/change/))**: "[There](/post/there/) has been [a](/post/a/) [significant](/post/significant/) [movement](/post/movement/) towards renewable [energy](/post/energy/) sources [in](/post/in/) [recent](/post/recent/) years."
+- **[Noun](/post/noun/) ([group](/post/group/))**: "[Her](/post/her/) involvement [with](/post/with/) [the](/post/the/) environmental [movement](/post/movement/) led [her](/post/her/) [to](/post/to/) [organize](/post/organize/) [several](/post/several/) [local](/post/local/) clean-up campaigns."
+- **[Noun](/post/noun/) ([artistic](/post/artistic/) [trend](/post/trend/))**: "Impressionism marked [a](/post/a/) [revolutionary](/post/revolutionary/) [movement](/post/movement/) [in](/post/in/) [painting](/post/painting/), emphasizing [light](/post/light/) [and](/post/and/) [color](/post/color/) [over](/post/over/) realistic [detail](/post/detail/)."
 
 ## Synonyms
-- [Motion](/en/post/motion/)
-- [Shift](/en/post/shift/)
-- [Change](/en/post/change/)
+- [Motion](/post/motion/)
+- [Shift](/post/shift/)
+- [Change](/post/change/)
 - Progression
-- [Action](/en/post/action/)
-- [Campaign](/en/post/campaign/)
+- [Action](/post/action/)
+- [Campaign](/post/campaign/)
 - Crusade
-- [Drive](/en/post/drive/)
-- [Struggle](/en/post/struggle/)
-- [Movement](/en/post/movement/) toward ([a](/en/post/a/) [goal](/en/post/goal/))
+- [Drive](/post/drive/)
+- [Struggle](/post/struggle/)
+- [Movement](/post/movement/) toward ([a](/post/a/) [goal](/post/goal/))
 - Flux
-- [Advance](/en/post/advance/)
+- [Advance](/post/advance/)

@@ -7,22 +7,22 @@ description = '[riˈdikjuləs] a.荒谬的，可笑的'
 keywords = ['ai words', 'ridiculous']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /riˈdʌkʃəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) an [extreme](/en/post/extreme/) [degree](/en/post/degree/) [of](/en/post/of/) foolishness [or](/en/post/or/) absurdity; laughable [or](/en/post/or/) absurdly unreasonable. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [idea](/en/post/idea/) was [so](/en/post/so/) [ridiculous](/en/post/ridiculous/) [that](/en/post/that/) [no](/en/post/no/) [one](/en/post/one/) took [it](/en/post/it/) [seriously](/en/post/seriously/)."
-- **[Noun](/en/post/noun/)**: [Something](/en/post/something/) [that](/en/post/that/) is [ridiculous](/en/post/ridiculous/) [or](/en/post/or/) absurd. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) costume was [a](/en/post/a/) [ridiculous](/en/post/ridiculous/) [choice](/en/post/choice/) [for](/en/post/for/) [the](/en/post/the/) [party](/en/post/party/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) an [extreme](/post/extreme/) [degree](/post/degree/) [of](/post/of/) foolishness [or](/post/or/) absurdity; laughable [or](/post/or/) absurdly unreasonable. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [idea](/post/idea/) was [so](/post/so/) [ridiculous](/post/ridiculous/) [that](/post/that/) [no](/post/no/) [one](/post/one/) took [it](/post/it/) [seriously](/post/seriously/)."
+- **[Noun](/post/noun/)**: [Something](/post/something/) [that](/post/that/) is [ridiculous](/post/ridiculous/) [or](/post/or/) absurd. [For](/post/for/) [example](/post/example/): "[The](/post/the/) costume was [a](/post/a/) [ridiculous](/post/ridiculous/) [choice](/post/choice/) [for](/post/for/) [the](/post/the/) [party](/post/party/)."
 
 ## Phrases
-- "[A](/en/post/a/) [ridiculous](/en/post/ridiculous/) [claim](/en/post/claim/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is absurd [or](/en/post/or/) unbelievable.
-- "[To](/en/post/to/) [think](/en/post/think/) that's [ridiculous](/en/post/ridiculous/)" [means](/en/post/means/) [to](/en/post/to/) [consider](/en/post/consider/) [something](/en/post/something/) [as](/en/post/as/) absurd [or](/en/post/or/) [silly](/en/post/silly/).
-- "[She](/en/post/she/) acted [with](/en/post/with/) [such](/en/post/such/) [ridiculous](/en/post/ridiculous/) arrogance."
+- "[A](/post/a/) [ridiculous](/post/ridiculous/) [claim](/post/claim/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is absurd [or](/post/or/) unbelievable.
+- "[To](/post/to/) [think](/post/think/) that's [ridiculous](/post/ridiculous/)" [means](/post/means/) [to](/post/to/) [consider](/post/consider/) [something](/post/something/) [as](/post/as/) absurd [or](/post/or/) [silly](/post/silly/).
+- "[She](/post/she/) acted [with](/post/with/) [such](/post/such/) [ridiculous](/post/ridiculous/) arrogance."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [argument](/en/post/argument/) was [so](/en/post/so/) [ridiculous](/en/post/ridiculous/), [it](/en/post/it/) didn't [stand](/en/post/stand/) [a](/en/post/a/) [chance](/en/post/chance/) [of](/en/post/of/) [being](/en/post/being/) taken [seriously](/en/post/seriously/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) prank [they](/en/post/they/) pulled was [a](/en/post/a/) [ridiculous](/en/post/ridiculous/) [attempt](/en/post/attempt/) [to](/en/post/to/) [impress](/en/post/impress/) [their](/en/post/their/) friends."
-- "[The](/en/post/the/) children couldn't [stop](/en/post/stop/) laughing [at](/en/post/at/) [the](/en/post/the/) teacher's [ridiculous](/en/post/ridiculous/) [dance](/en/post/dance/) moves."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [argument](/post/argument/) was [so](/post/so/) [ridiculous](/post/ridiculous/), [it](/post/it/) didn't [stand](/post/stand/) [a](/post/a/) [chance](/post/chance/) [of](/post/of/) [being](/post/being/) taken [seriously](/post/seriously/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) prank [they](/post/they/) pulled was [a](/post/a/) [ridiculous](/post/ridiculous/) [attempt](/post/attempt/) [to](/post/to/) [impress](/post/impress/) [their](/post/their/) friends."
+- "[The](/post/the/) children couldn't [stop](/post/stop/) laughing [at](/post/at/) [the](/post/the/) teacher's [ridiculous](/post/ridiculous/) [dance](/post/dance/) moves."
 
 ## Synonyms
 - Absurd
@@ -32,8 +32,8 @@ keywords = ['ai words', 'ridiculous']
 - Outlandish
 
 ## Antonyms
-- [Logical](/en/post/logical/)
-- [Reasonable](/en/post/reasonable/)
+- [Logical](/post/logical/)
+- [Reasonable](/post/reasonable/)
 - Sane
-- [Sensible](/en/post/sensible/)
-- [Practical](/en/post/practical/)
+- [Sensible](/post/sensible/)
+- [Practical](/post/practical/)

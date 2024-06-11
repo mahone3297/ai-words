@@ -11,20 +11,20 @@ keywords = ['ai words', 'cubic']
 /ˈkjuːbɪk/
 
 ## 释义
-- **形容词**: 三次方的，立方体的，具有立方性质的。例如: "[The](/post/the/) [cubic](/post/cubic/) [shape](/post/shape/) has [six](/post/six/) [equal](/post/equal/) [square](/post/square/) faces."
-- **名词**: 立方体，一个六个面都是正方形的三维形状。例如: "[The](/post/the/) [child](/post/child/) was playing [with](/post/with/) [a](/post/a/) [wooden](/post/wooden/) [cubic](/post/cubic/) [block](/post/block/)."
+- **形容词**: 三次方的，立方体的，具有立方性质的。例如: "[The](/zh/post/the/) [cubic](/zh/post/cubic/) [shape](/zh/post/shape/) has [six](/zh/post/six/) [equal](/zh/post/equal/) [square](/zh/post/square/) faces."
+- **名词**: 立方体，一个六个面都是正方形的三维形状。例如: "[The](/zh/post/the/) [child](/zh/post/child/) was playing [with](/zh/post/with/) [a](/zh/post/a/) [wooden](/zh/post/wooden/) [cubic](/zh/post/cubic/) [block](/zh/post/block/)."
 
 ## 短语
-- "[Cubic](/post/cubic/) [meter](/post/meter/)" 或 "[cubic](/post/cubic/) [foot](/post/foot/)" 是体积单位，分别表示立方米和立方英尺。
-- "[Cubic](/post/cubic/) [capacity](/post/capacity/)" 指的是物体的容积或体积。
+- "[Cubic](/zh/post/cubic/) [meter](/zh/post/meter/)" 或 "[cubic](/zh/post/cubic/) [foot](/zh/post/foot/)" 是体积单位，分别表示立方米和立方英尺。
+- "[Cubic](/zh/post/cubic/) [capacity](/zh/post/capacity/)" 指的是物体的容积或体积。
 
 ## 例句
-- 形容词: "[The](/post/the/) [box](/post/box/) has [a](/post/a/) [cubic](/post/cubic/) [volume](/post/volume/) [of](/post/of/) 10 [cubic](/post/cubic/) meters."
-- 名词: "[The](/post/the/) building's [foundation](/post/foundation/) is made [of](/post/of/) [large](/post/large/) [cubic](/post/cubic/) stones."
+- 形容词: "[The](/zh/post/the/) [box](/zh/post/box/) has [a](/zh/post/a/) [cubic](/zh/post/cubic/) [volume](/zh/post/volume/) [of](/zh/post/of/) 10 [cubic](/zh/post/cubic/) meters."
+- 名词: "[The](/zh/post/the/) building's [foundation](/zh/post/foundation/) is made [of](/zh/post/of/) [large](/zh/post/large/) [cubic](/zh/post/cubic/) stones."
 
 ## 同义词
 - Cubical
 - Block-shaped
-- Rectangular [solid](/post/solid/)
+- Rectangular [solid](/zh/post/solid/)
 - Square-based prism
-- Three-dimensional [square](/post/square/)
+- Three-dimensional [square](/zh/post/square/)

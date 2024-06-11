@@ -11,20 +11,20 @@ keywords = ['ai words', 'scream']
 /skriːm/
 
 ## 释义
-- **动词**: 大声尖叫或喊叫。例如: "[The](/post/the/) [child](/post/child/) screamed [in](/post/in/) [pain](/post/pain/) [when](/post/when/) [he](/post/he/) fell [off](/post/off/) [his](/post/his/) [bike](/post/bike/)."
-- **名词**: 尖叫声或喊叫声。例如: "[The](/post/the/) [movie](/post/movie/) was [so](/post/so/) scary [that](/post/that/) [it](/post/it/) made [everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) theater [let](/post/let/) [out](/post/out/) [a](/post/a/) [collective](/post/collective/) [scream](/post/scream/)."
+- **动词**: 大声尖叫或喊叫。例如: "[The](/zh/post/the/) [child](/zh/post/child/) screamed [in](/zh/post/in/) [pain](/zh/post/pain/) [when](/zh/post/when/) [he](/zh/post/he/) fell [off](/zh/post/off/) [his](/zh/post/his/) [bike](/zh/post/bike/)."
+- **名词**: 尖叫声或喊叫声。例如: "[The](/zh/post/the/) [movie](/zh/post/movie/) was [so](/zh/post/so/) scary [that](/zh/post/that/) [it](/zh/post/it/) made [everyone](/zh/post/everyone/) [in](/zh/post/in/) [the](/zh/post/the/) theater [let](/zh/post/let/) [out](/zh/post/out/) [a](/zh/post/a/) [collective](/zh/post/collective/) [scream](/zh/post/scream/)."
 
 ## 短语
-- "[Scream](/post/scream/) [for](/post/for/) [help](/post/help/)" 意为大声呼救。
-- "[A](/post/a/) blood-curdling [scream](/post/scream/)" 形容令人极度恐惧的尖叫声。
+- "[Scream](/zh/post/scream/) [for](/zh/post/for/) [help](/zh/post/help/)" 意为大声呼救。
+- "[A](/zh/post/a/) blood-curdling [scream](/zh/post/scream/)" 形容令人极度恐惧的尖叫声。
 
 ## 例句
-- 动词: "[The](/post/the/) [baby](/post/baby/) started [to](/post/to/) [scream](/post/scream/) [when](/post/when/) [it](/post/it/) was [time](/post/time/) [for](/post/for/) [a](/post/a/) diaper [change](/post/change/)."
-- 名词: "[The](/post/the/) [sudden](/post/sudden/) [loud](/post/loud/) [scream](/post/scream/) startled [everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) [library](/post/library/)."
+- 动词: "[The](/zh/post/the/) [baby](/zh/post/baby/) started [to](/zh/post/to/) [scream](/zh/post/scream/) [when](/zh/post/when/) [it](/zh/post/it/) was [time](/zh/post/time/) [for](/zh/post/for/) [a](/zh/post/a/) diaper [change](/zh/post/change/)."
+- 名词: "[The](/zh/post/the/) [sudden](/zh/post/sudden/) [loud](/zh/post/loud/) [scream](/zh/post/scream/) startled [everyone](/zh/post/everyone/) [in](/zh/post/in/) [the](/zh/post/the/) [library](/zh/post/library/)."
 
 ## 同义词
-- [Shout](/post/shout/)
-- [Yell](/post/yell/)
-- [Cry](/post/cry/) [out](/post/out/)
+- [Shout](/zh/post/shout/)
+- [Yell](/zh/post/yell/)
+- [Cry](/zh/post/cry/) [out](/zh/post/out/)
 - Squeal
 - Hollar

@@ -12,21 +12,21 @@ keywords = ['ai words', 'discover']
 
 ## 释义
 - **动词**:
-  - 找到或发现原本未知的事物或地方。例如: "[He](/post/he/) discovered [a](/post/a/) [new](/post/new/) species [of](/post/of/) [plant](/post/plant/) [in](/post/in/) [the](/post/the/) Amazon rainforest."
-  - 第一次意识到或认识到。例如: "I discovered [my](/post/my/) [passion](/post/passion/) [for](/post/for/) [painting](/post/painting/) [when](/post/when/) I was [ten](/post/ten/) years [old](/post/old/)."
+  - 找到或发现原本未知的事物或地方。例如: "[He](/zh/post/he/) discovered [a](/zh/post/a/) [new](/zh/post/new/) species [of](/zh/post/of/) [plant](/zh/post/plant/) [in](/zh/post/in/) [the](/zh/post/the/) Amazon rainforest."
+  - 第一次意识到或认识到。例如: "I discovered [my](/zh/post/my/) [passion](/zh/post/passion/) [for](/zh/post/for/) [painting](/zh/post/painting/) [when](/zh/post/when/) I was [ten](/zh/post/ten/) years [old](/zh/post/old/)."
 
 ## 短语
-- "[Discover](/post/discover/) [by](/post/by/) [chance](/post/chance/)" 偶然发现。
-- "[Discover](/post/discover/) [the](/post/the/) [truth](/post/truth/)" 发现真相。
+- "[Discover](/zh/post/discover/) [by](/zh/post/by/) [chance](/zh/post/chance/)" 偶然发现。
+- "[Discover](/zh/post/discover/) [the](/zh/post/the/) [truth](/zh/post/truth/)" 发现真相。
 
 ## 例句
-- "Christopher Columbus discovered [America](/post/america/) [in](/post/in/) 1492."
-- "[She](/post/she/) discovered [her](/post/her/) [talent](/post/talent/) [for](/post/for/) singing [after](/post/after/) joining [the](/post/the/) [school](/post/school/) choir."
-- "[Through](/post/through/) years [of](/post/of/) [research](/post/research/), scientists [have](/post/have/) discovered [many](/post/many/) cures [for](/post/for/) [previously](/post/previously/) incurable diseases."
+- "Christopher Columbus discovered [America](/zh/post/america/) [in](/zh/post/in/) 1492."
+- "[She](/zh/post/she/) discovered [her](/zh/post/her/) [talent](/zh/post/talent/) [for](/zh/post/for/) singing [after](/zh/post/after/) joining [the](/zh/post/the/) [school](/zh/post/school/) choir."
+- "[Through](/zh/post/through/) years [of](/zh/post/of/) [research](/zh/post/research/), scientists [have](/zh/post/have/) discovered [many](/zh/post/many/) cures [for](/zh/post/for/) [previously](/zh/post/previously/) incurable diseases."
 
 ## 同义词
-- [Find](/post/find/)
-- [Uncover](/post/uncover/)
-- [Identify](/post/identify/)
-- [Realize](/post/realize/)
+- [Find](/zh/post/find/)
+- [Uncover](/zh/post/uncover/)
+- [Identify](/zh/post/identify/)
+- [Realize](/zh/post/realize/)
 - Unveil

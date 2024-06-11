@@ -7,34 +7,34 @@ description = '[ˈempti] a.空的；空洞的'
 keywords = ['ai words', 'empty']
 +++
 
-## [Word](/en/post/word/): [Empty](/en/post/empty/)
+## [Word](/post/word/): [Empty](/post/empty/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɛmpti/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Containing [nothing](/en/post/nothing/); [not](/en/post/not/) filled [or](/en/post/or/) occupied; void [of](/en/post/of/) contents [or](/en/post/or/) [people](/en/post/people/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [room](/en/post/room/) was [completely](/en/post/completely/) [empty](/en/post/empty/)."
-  - *[Further](/en/post/further/) meanings*: Having [no](/en/post/no/) [value](/en/post/value/), [substance](/en/post/substance/), [meaning](/en/post/meaning/), [or](/en/post/or/) [significance](/en/post/significance/); depleted [of](/en/post/of/) [energy](/en/post/energy/), [emotion](/en/post/emotion/), [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/); ([of](/en/post/of/) [a](/en/post/a/) [gesture](/en/post/gesture/) [or](/en/post/or/) [expression](/en/post/expression/)) indicating [absence](/en/post/absence/) [of](/en/post/of/) [genuine](/en/post/genuine/) [feeling](/en/post/feeling/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [empty](/en/post/empty/) [or](/en/post/or/) void [of](/en/post/of/) contents, [people](/en/post/people/), [or](/en/post/or/) things. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) emptied [the](/en/post/the/) [box](/en/post/box/) [of](/en/post/of/) [its](/en/post/its/) contents."
-  - *[Further](/en/post/further/) meanings*: [To](/en/post/to/) [discharge](/en/post/discharge/) [all](/en/post/all/) contents [from](/en/post/from/) [within](/en/post/within/); [to](/en/post/to/) vacate [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [position](/en/post/position/); [to](/en/post/to/) [exhaust](/en/post/exhaust/) one's emotions [or](/en/post/or/) [energy](/en/post/energy/).
+- **[Adjective](/post/adjective/)**: Containing [nothing](/post/nothing/); [not](/post/not/) filled [or](/post/or/) occupied; void [of](/post/of/) contents [or](/post/or/) [people](/post/people/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [room](/post/room/) was [completely](/post/completely/) [empty](/post/empty/)."
+  - *[Further](/post/further/) meanings*: Having [no](/post/no/) [value](/post/value/), [substance](/post/substance/), [meaning](/post/meaning/), [or](/post/or/) [significance](/post/significance/); depleted [of](/post/of/) [energy](/post/energy/), [emotion](/post/emotion/), [or](/post/or/) [enthusiasm](/post/enthusiasm/); ([of](/post/of/) [a](/post/a/) [gesture](/post/gesture/) [or](/post/or/) [expression](/post/expression/)) indicating [absence](/post/absence/) [of](/post/of/) [genuine](/post/genuine/) [feeling](/post/feeling/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [empty](/post/empty/) [or](/post/or/) void [of](/post/of/) contents, [people](/post/people/), [or](/post/or/) things. [For](/post/for/) [example](/post/example/): "[She](/post/she/) emptied [the](/post/the/) [box](/post/box/) [of](/post/of/) [its](/post/its/) contents."
+  - *[Further](/post/further/) meanings*: [To](/post/to/) [discharge](/post/discharge/) [all](/post/all/) contents [from](/post/from/) [within](/post/within/); [to](/post/to/) vacate [a](/post/a/) [place](/post/place/) [or](/post/or/) [position](/post/position/); [to](/post/to/) [exhaust](/post/exhaust/) one's emotions [or](/post/or/) [energy](/post/energy/).
 
 ## Phrases
-- "Empty-handed": [Without](/en/post/without/) [anything](/en/post/anything/) [in](/en/post/in/) one's hands [or](/en/post/or/) [without](/en/post/without/) having achieved [a](/en/post/a/) [goal](/en/post/goal/).
-- "[Empty](/en/post/empty/) [nest](/en/post/nest/)": [A](/en/post/a/) [home](/en/post/home/) [that](/en/post/that/) was [previously](/en/post/previously/) occupied [by](/en/post/by/) children [who](/en/post/who/) [have](/en/post/have/) [now](/en/post/now/) grown [up](/en/post/up/) [and](/en/post/and/) moved [out](/en/post/out/).
-- "[Empty](/en/post/empty/) [vessel](/en/post/vessel/)": [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) lacks [intellectual](/en/post/intellectual/) [or](/en/post/or/) [emotional](/en/post/emotional/) [content](/en/post/content/).
-- "[Empty](/en/post/empty/) words": Insincere [or](/en/post/or/) meaningless promises [or](/en/post/or/) statements.
+- "Empty-handed": [Without](/post/without/) [anything](/post/anything/) [in](/post/in/) one's hands [or](/post/or/) [without](/post/without/) having achieved [a](/post/a/) [goal](/post/goal/).
+- "[Empty](/post/empty/) [nest](/post/nest/)": [A](/post/a/) [home](/post/home/) [that](/post/that/) was [previously](/post/previously/) occupied [by](/post/by/) children [who](/post/who/) [have](/post/have/) [now](/post/now/) grown [up](/post/up/) [and](/post/and/) moved [out](/post/out/).
+- "[Empty](/post/empty/) [vessel](/post/vessel/)": [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) lacks [intellectual](/post/intellectual/) [or](/post/or/) [emotional](/post/emotional/) [content](/post/content/).
+- "[Empty](/post/empty/) words": Insincere [or](/post/or/) meaningless promises [or](/post/or/) statements.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [jar](/en/post/jar/) was [empty](/en/post/empty/) [after](/en/post/after/) [we](/en/post/we/) [used](/en/post/used/) [all](/en/post/all/) [the](/en/post/the/) [jam](/en/post/jam/)."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [empty](/en/post/empty/) [the](/en/post/the/) trash [before](/en/post/before/) [it](/en/post/it/) overflows."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [jar](/post/jar/) was [empty](/post/empty/) [after](/post/after/) [we](/post/we/) [used](/post/used/) [all](/post/all/) [the](/post/the/) [jam](/post/jam/)."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [empty](/post/empty/) [the](/post/the/) trash [before](/post/before/) [it](/post/it/) overflows."
 
 ## Synonyms
-- [Vacant](/en/post/vacant/) (adj.)
+- [Vacant](/post/vacant/) (adj.)
 - Unoccupied (adj.)
-- [Hollow](/en/post/hollow/) (adj.)
-- [Bare](/en/post/bare/) (adj.)
-- [Clear](/en/post/clear/) (v.)
-- [Drain](/en/post/drain/) (v.)
+- [Hollow](/post/hollow/) (adj.)
+- [Bare](/post/bare/) (adj.)
+- [Clear](/post/clear/) (v.)
+- [Drain](/post/drain/) (v.)
 - Void (v.)
 - Deplete (v.)
-- [Exhaust](/en/post/exhaust/) (v.)
+- [Exhaust](/post/exhaust/) (v.)

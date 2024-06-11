@@ -12,25 +12,25 @@ keywords = ['ai words', 'pink']
 
 ## 释义
 - **形容词**: 
-    - 1. 粉色的：指一种浅红或淡紫红色调。例如: "[The](/post/the/) baby's [room](/post/room/) was decorated [in](/post/in/) [various](/post/various/) shades [of](/post/of/) [pink](/post/pink/)."
-    - 2. 女性的；少女的：常用来形容与女性或少女相关的事物。例如: "[The](/post/the/) marketing [campaign](/post/campaign/) targeted [a](/post/a/) [pink](/post/pink/), feminine [audience](/post/audience/)."
+    - 1. 粉色的：指一种浅红或淡紫红色调。例如: "[The](/zh/post/the/) baby's [room](/zh/post/room/) was decorated [in](/zh/post/in/) [various](/zh/post/various/) shades [of](/zh/post/of/) [pink](/zh/post/pink/)."
+    - 2. 女性的；少女的：常用来形容与女性或少女相关的事物。例如: "[The](/zh/post/the/) marketing [campaign](/zh/post/campaign/) targeted [a](/zh/post/a/) [pink](/zh/post/pink/), feminine [audience](/zh/post/audience/)."
 - **名词**:
-    - 粉色：作为颜色的名称。例如: "[She](/post/she/) loves wearing dresses [in](/post/in/) [different](/post/different/) pinks."
+    - 粉色：作为颜色的名称。例如: "[She](/zh/post/she/) loves wearing dresses [in](/zh/post/in/) [different](/zh/post/different/) pinks."
 - **名词**:
-    - （拳击）粉红角：在拳击比赛中，代表非主队或非冠军选手的一方。例如: "[The](/post/the/) boxer [in](/post/in/) [the](/post/the/) [pink](/post/pink/) [corner](/post/corner/) was [the](/post/the/) underdog."
+    - （拳击）粉红角：在拳击比赛中，代表非主队或非冠军选手的一方。例如: "[The](/zh/post/the/) boxer [in](/zh/post/in/) [the](/zh/post/the/) [pink](/zh/post/pink/) [corner](/zh/post/corner/) was [the](/zh/post/the/) underdog."
 
 ## 短语
-- "[in](/post/in/) [the](/post/the/) [pink](/post/pink/)" 表示身体健康或情况良好。例如: "[After](/post/after/) [a](/post/a/) [good](/post/good/) [rest](/post/rest/), [he](/post/he/) felt [completely](/post/completely/) [in](/post/in/) [the](/post/the/) [pink](/post/pink/)."
-- "[pink](/post/pink/) [slip](/post/slip/)" 在美国俚语中，指解雇通知。例如: "Receiving [a](/post/a/) [pink](/post/pink/) [slip](/post/slip/) is [never](/post/never/) [a](/post/a/) [pleasant](/post/pleasant/) [experience](/post/experience/)."
+- "[in](/zh/post/in/) [the](/zh/post/the/) [pink](/zh/post/pink/)" 表示身体健康或情况良好。例如: "[After](/zh/post/after/) [a](/zh/post/a/) [good](/zh/post/good/) [rest](/zh/post/rest/), [he](/zh/post/he/) felt [completely](/zh/post/completely/) [in](/zh/post/in/) [the](/zh/post/the/) [pink](/zh/post/pink/)."
+- "[pink](/zh/post/pink/) [slip](/zh/post/slip/)" 在美国俚语中，指解雇通知。例如: "Receiving [a](/zh/post/a/) [pink](/zh/post/pink/) [slip](/zh/post/slip/) is [never](/zh/post/never/) [a](/zh/post/a/) [pleasant](/zh/post/pleasant/) [experience](/zh/post/experience/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) [cherry](/post/cherry/) blossoms were [in](/post/in/) [full](/post/full/) [bloom](/post/bloom/), [painting](/post/painting/) [the](/post/the/) [park](/post/park/) [a](/post/a/) [beautiful](/post/beautiful/) [pink](/post/pink/)."
-- 名词: "[She](/post/she/) picked [up](/post/up/) [a](/post/a/) [pink](/post/pink/) lipstick [from](/post/from/) [the](/post/the/) [counter](/post/counter/)."
-- 短语: "[Despite](/post/despite/) [the](/post/the/) [economic](/post/economic/) downturn, [his](/post/his/) [company](/post/company/) is [still](/post/still/) [in](/post/in/) [the](/post/the/) [pink](/post/pink/)."
+- 形容词: "[The](/zh/post/the/) [cherry](/zh/post/cherry/) blossoms were [in](/zh/post/in/) [full](/zh/post/full/) [bloom](/zh/post/bloom/), [painting](/zh/post/painting/) [the](/zh/post/the/) [park](/zh/post/park/) [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [pink](/zh/post/pink/)."
+- 名词: "[She](/zh/post/she/) picked [up](/zh/post/up/) [a](/zh/post/a/) [pink](/zh/post/pink/) lipstick [from](/zh/post/from/) [the](/zh/post/the/) [counter](/zh/post/counter/)."
+- 短语: "[Despite](/zh/post/despite/) [the](/zh/post/the/) [economic](/zh/post/economic/) downturn, [his](/zh/post/his/) [company](/zh/post/company/) is [still](/zh/post/still/) [in](/zh/post/in/) [the](/zh/post/the/) [pink](/zh/post/pink/)."
 
 ## 同义词
 - Rosy
-- [Pale](/post/pale/) [red](/post/red/)
+- [Pale](/zh/post/pale/) [red](/zh/post/red/)
 - Fuchsia
 - Salmon
 - Blush

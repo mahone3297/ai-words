@@ -7,41 +7,41 @@ description = '[bridʒ] n.桥，桥梁；桥牌'
 keywords = ['ai words', 'bridge']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /braɪdʒ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [structure](/en/post/structure/) built [to](/en/post/to/) [span](/en/post/span/) [a](/en/post/a/) [physical](/en/post/physical/) [obstacle](/en/post/obstacle/) [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [river](/en/post/river/), [valley](/en/post/valley/), [or](/en/post/or/) [road](/en/post/road/).** [Example](/en/post/example/): "[The](/en/post/the/) [bridge](/en/post/bridge/) [over](/en/post/over/) [the](/en/post/the/) Thames is [a](/en/post/a/) [popular](/en/post/popular/) [tourist](/en/post/tourist/) [attraction](/en/post/attraction/)."
-2. **An [intermediate](/en/post/intermediate/) [unit](/en/post/unit/) [or](/en/post/or/) [point](/en/post/point/) [that](/en/post/that/) connects [or](/en/post/or/) facilitates [communication](/en/post/communication/) [or](/en/post/or/) [understanding](/en/post/understanding/) [between](/en/post/between/) [two](/en/post/two/) things [or](/en/post/or/) parties.** [Example](/en/post/example/): "[The](/en/post/the/) [language](/en/post/language/) [barrier](/en/post/barrier/) was [a](/en/post/a/) [bridge](/en/post/bridge/) [between](/en/post/between/) cultures."
-3. **[A](/en/post/a/) strategic [position](/en/post/position/) [or](/en/post/or/) [advantage](/en/post/advantage/) [in](/en/post/in/) [a](/en/post/a/) [game](/en/post/game/) [or](/en/post/or/) [competition](/en/post/competition/).** [Example](/en/post/example/): "[He](/en/post/he/) held [a](/en/post/a/) [bridge](/en/post/bridge/) [hand](/en/post/hand/) [in](/en/post/in/) [the](/en/post/the/) poker [game](/en/post/game/)."
-4. **(Computing) [A](/en/post/a/) [connection](/en/post/connection/) [or](/en/post/or/) [link](/en/post/link/) [between](/en/post/between/) [different](/en/post/different/) parts [of](/en/post/of/) [a](/en/post/a/) [computer](/en/post/computer/) [network](/en/post/network/).** [Example](/en/post/example/): "[The](/en/post/the/) internet [bridge](/en/post/bridge/) allowed [the](/en/post/the/) devices [to](/en/post/to/) [communicate](/en/post/communicate/) seamlessly."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [structure](/post/structure/) built [to](/post/to/) [span](/post/span/) [a](/post/a/) [physical](/post/physical/) [obstacle](/post/obstacle/) [such](/post/such/) [as](/post/as/) [a](/post/a/) [river](/post/river/), [valley](/post/valley/), [or](/post/or/) [road](/post/road/).** [Example](/post/example/): "[The](/post/the/) [bridge](/post/bridge/) [over](/post/over/) [the](/post/the/) Thames is [a](/post/a/) [popular](/post/popular/) [tourist](/post/tourist/) [attraction](/post/attraction/)."
+2. **An [intermediate](/post/intermediate/) [unit](/post/unit/) [or](/post/or/) [point](/post/point/) [that](/post/that/) connects [or](/post/or/) facilitates [communication](/post/communication/) [or](/post/or/) [understanding](/post/understanding/) [between](/post/between/) [two](/post/two/) things [or](/post/or/) parties.** [Example](/post/example/): "[The](/post/the/) [language](/post/language/) [barrier](/post/barrier/) was [a](/post/a/) [bridge](/post/bridge/) [between](/post/between/) cultures."
+3. **[A](/post/a/) strategic [position](/post/position/) [or](/post/or/) [advantage](/post/advantage/) [in](/post/in/) [a](/post/a/) [game](/post/game/) [or](/post/or/) [competition](/post/competition/).** [Example](/post/example/): "[He](/post/he/) held [a](/post/a/) [bridge](/post/bridge/) [hand](/post/hand/) [in](/post/in/) [the](/post/the/) poker [game](/post/game/)."
+4. **(Computing) [A](/post/a/) [connection](/post/connection/) [or](/post/or/) [link](/post/link/) [between](/post/between/) [different](/post/different/) parts [of](/post/of/) [a](/post/a/) [computer](/post/computer/) [network](/post/network/).** [Example](/post/example/): "[The](/post/the/) internet [bridge](/post/bridge/) allowed [the](/post/the/) devices [to](/post/to/) [communicate](/post/communicate/) seamlessly."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) [a](/en/post/a/) [connection](/en/post/connection/) [or](/en/post/or/) [link](/en/post/link/) [between](/en/post/between/) [two](/en/post/two/) things [or](/en/post/or/) [people](/en/post/people/).** [Example](/en/post/example/): "[The](/en/post/the/) software bridges [the](/en/post/the/) [gap](/en/post/gap/) [between](/en/post/between/) [different](/en/post/different/) operating systems."
-2. **[To](/en/post/to/) facilitate [communication](/en/post/communication/) [or](/en/post/or/) [understanding](/en/post/understanding/) [between](/en/post/between/) parties.** [Example](/en/post/example/): "[The](/en/post/the/) [meeting](/en/post/meeting/) aimed [to](/en/post/to/) [bridge](/en/post/bridge/) [the](/en/post/the/) [gap](/en/post/gap/) [in](/en/post/in/) negotiations."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [serve](/post/serve/) [as](/post/as/) [a](/post/a/) [connection](/post/connection/) [or](/post/or/) [link](/post/link/) [between](/post/between/) [two](/post/two/) things [or](/post/or/) [people](/post/people/).** [Example](/post/example/): "[The](/post/the/) software bridges [the](/post/the/) [gap](/post/gap/) [between](/post/between/) [different](/post/different/) operating systems."
+2. **[To](/post/to/) facilitate [communication](/post/communication/) [or](/post/or/) [understanding](/post/understanding/) [between](/post/between/) parties.** [Example](/post/example/): "[The](/post/the/) [meeting](/post/meeting/) aimed [to](/post/to/) [bridge](/post/bridge/) [the](/post/the/) [gap](/post/gap/) [in](/post/in/) negotiations."
 
-### [Adjective](/en/post/adjective/)
-1. **Characterizing [something](/en/post/something/) [that](/en/post/that/) connects [or](/en/post/or/) unites.** [Example](/en/post/example/): "[A](/en/post/a/) [bridge](/en/post/bridge/) [of](/en/post/of/) [friendship](/en/post/friendship/) exists [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) families."
-2. **Requiring negotiation [or](/en/post/or/) mediation [to](/en/post/to/) [resolve](/en/post/resolve/) [a](/en/post/a/) [conflict](/en/post/conflict/).** [Example](/en/post/example/): "[Their](/en/post/their/) [relationship](/en/post/relationship/) is [on](/en/post/on/) [a](/en/post/a/) [bridge](/en/post/bridge/), [with](/en/post/with/) [both](/en/post/both/) sides needing [to](/en/post/to/) [make](/en/post/make/) concessions."
+### [Adjective](/post/adjective/)
+1. **Characterizing [something](/post/something/) [that](/post/that/) connects [or](/post/or/) unites.** [Example](/post/example/): "[A](/post/a/) [bridge](/post/bridge/) [of](/post/of/) [friendship](/post/friendship/) exists [between](/post/between/) [the](/post/the/) [two](/post/two/) families."
+2. **Requiring negotiation [or](/post/or/) mediation [to](/post/to/) [resolve](/post/resolve/) [a](/post/a/) [conflict](/post/conflict/).** [Example](/post/example/): "[Their](/post/their/) [relationship](/post/relationship/) is [on](/post/on/) [a](/post/a/) [bridge](/post/bridge/), [with](/post/with/) [both](/post/both/) sides needing [to](/post/to/) [make](/post/make/) concessions."
 
 ## Phrases
-- "[Build](/en/post/build/) [a](/en/post/a/) [bridge](/en/post/bridge/)" metaphorically [means](/en/post/means/) [to](/en/post/to/) [find](/en/post/find/) [a](/en/post/a/) [solution](/en/post/solution/) [or](/en/post/or/) [connect](/en/post/connect/) ideas.
-- "[Bridge](/en/post/bridge/) [the](/en/post/the/) [gap](/en/post/gap/)" [means](/en/post/means/) [to](/en/post/to/) [close](/en/post/close/) [the](/en/post/the/) [difference](/en/post/difference/) [or](/en/post/or/) disparity [between](/en/post/between/) [two](/en/post/two/) things.
-- "[Come](/en/post/come/) [over](/en/post/over/) [the](/en/post/the/) [bridge](/en/post/bridge/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [journey](/en/post/journey/) [or](/en/post/or/) [approach](/en/post/approach/) [to](/en/post/to/) [a](/en/post/a/) [destination](/en/post/destination/).
+- "[Build](/post/build/) [a](/post/a/) [bridge](/post/bridge/)" metaphorically [means](/post/means/) [to](/post/to/) [find](/post/find/) [a](/post/a/) [solution](/post/solution/) [or](/post/or/) [connect](/post/connect/) ideas.
+- "[Bridge](/post/bridge/) [the](/post/the/) [gap](/post/gap/)" [means](/post/means/) [to](/post/to/) [close](/post/close/) [the](/post/the/) [difference](/post/difference/) [or](/post/or/) disparity [between](/post/between/) [two](/post/two/) things.
+- "[Come](/post/come/) [over](/post/over/) [the](/post/the/) [bridge](/post/bridge/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [journey](/post/journey/) [or](/post/or/) [approach](/post/approach/) [to](/post/to/) [a](/post/a/) [destination](/post/destination/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [stone](/en/post/stone/) [bridge](/en/post/bridge/) dates [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) 19th [century](/en/post/century/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [project](/en/post/project/) aims [to](/en/post/to/) [bridge](/en/post/bridge/) [the](/en/post/the/) [gap](/en/post/gap/) [between](/en/post/between/) [science](/en/post/science/) [and](/en/post/and/) [public](/en/post/public/) [policy](/en/post/policy/)."
-- **[Adjective](/en/post/adjective/)**: "[Their](/en/post/their/) partnership forms [a](/en/post/a/) [strong](/en/post/strong/) [bridge](/en/post/bridge/) [between](/en/post/between/) [their](/en/post/their/) contrasting styles."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [stone](/post/stone/) [bridge](/post/bridge/) dates [back](/post/back/) [to](/post/to/) [the](/post/the/) 19th [century](/post/century/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [project](/post/project/) aims [to](/post/to/) [bridge](/post/bridge/) [the](/post/the/) [gap](/post/gap/) [between](/post/between/) [science](/post/science/) [and](/post/and/) [public](/post/public/) [policy](/post/policy/)."
+- **[Adjective](/post/adjective/)**: "[Their](/post/their/) partnership forms [a](/post/a/) [strong](/post/strong/) [bridge](/post/bridge/) [between](/post/between/) [their](/post/their/) contrasting styles."
 
 ## Synonyms
-- [Link](/en/post/link/)
+- [Link](/post/link/)
 - Connector
 - Overpass
 - Crossing
 - Mediator
-- [Intermediate](/en/post/intermediate/)
+- [Intermediate](/post/intermediate/)
 - Spanning
 - Ties
-- [Union](/en/post/union/)
+- [Union](/post/union/)

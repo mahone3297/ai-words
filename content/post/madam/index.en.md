@@ -7,27 +7,27 @@ description = '[ˈmædəm] n.夫人，女士，太太'
 keywords = ['ai words', 'madam']
 +++
 
-## [Word](/en/post/word/): [Madam](/en/post/madam/)
+## [Word](/post/word/): [Madam](/post/madam/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmædəm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [polite](/en/post/polite/) [form](/en/post/form/) [of](/en/post/of/) [address](/en/post/address/) [for](/en/post/for/) [a](/en/post/a/) [woman](/en/post/woman/), [especially](/en/post/especially/) an older [or](/en/post/or/) respected [one](/en/post/one/). [For](/en/post/for/) [example](/en/post/example/): "[Madam](/en/post/madam/) [President](/en/post/president/), [may](/en/post/may/) I [present](/en/post/present/) [the](/en/post/the/) [committee](/en/post/committee/) members."
-- **[Noun](/en/post/noun/) (informal)**: [The](/en/post/the/) [owner](/en/post/owner/) [or](/en/post/or/) manager [of](/en/post/of/) [a](/en/post/a/) brothel. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [madam](/en/post/madam/) ran [a](/en/post/a/) discreet [establishment](/en/post/establishment/) [on](/en/post/on/) [the](/en/post/the/) outskirts [of](/en/post/of/) [town](/en/post/town/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [polite](/post/polite/) [form](/post/form/) [of](/post/of/) [address](/post/address/) [for](/post/for/) [a](/post/a/) [woman](/post/woman/), [especially](/post/especially/) an older [or](/post/or/) respected [one](/post/one/). [For](/post/for/) [example](/post/example/): "[Madam](/post/madam/) [President](/post/president/), [may](/post/may/) I [present](/post/present/) [the](/post/the/) [committee](/post/committee/) members."
+- **[Noun](/post/noun/) (informal)**: [The](/post/the/) [owner](/post/owner/) [or](/post/or/) manager [of](/post/of/) [a](/post/a/) brothel. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [madam](/post/madam/) ran [a](/post/a/) discreet [establishment](/post/establishment/) [on](/post/on/) [the](/post/the/) outskirts [of](/post/of/) [town](/post/town/)."
 
 ### Phrases
-- "[Excuse](/en/post/excuse/) [me](/en/post/me/), [madam](/en/post/madam/)" is [a](/en/post/a/) [polite](/en/post/polite/) [way](/en/post/way/) [to](/en/post/to/) [get](/en/post/get/) someone's [attention](/en/post/attention/) [or](/en/post/or/) [seek](/en/post/seek/) forgiveness.
-- "[Yes](/en/post/yes/), [madam](/en/post/madam/)" [or](/en/post/or/) "[No](/en/post/no/), [madam](/en/post/madam/)" are [often](/en/post/often/) [used](/en/post/used/) [by](/en/post/by/) [people](/en/post/people/) [in](/en/post/in/) [service](/en/post/service/) positions [when](/en/post/when/) addressing [a](/en/post/a/) [woman](/en/post/woman/) respectfully.
-- "[At](/en/post/at/) [her](/en/post/her/) majesty's [pleasure](/en/post/pleasure/), [madam](/en/post/madam/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) [or](/en/post/or/) [humorous](/en/post/humorous/) context [to](/en/post/to/) [imply](/en/post/imply/) deference [to](/en/post/to/) [a](/en/post/a/) woman's [authority](/en/post/authority/).
+- "[Excuse](/post/excuse/) [me](/post/me/), [madam](/post/madam/)" is [a](/post/a/) [polite](/post/polite/) [way](/post/way/) [to](/post/to/) [get](/post/get/) someone's [attention](/post/attention/) [or](/post/or/) [seek](/post/seek/) forgiveness.
+- "[Yes](/post/yes/), [madam](/post/madam/)" [or](/post/or/) "[No](/post/no/), [madam](/post/madam/)" are [often](/post/often/) [used](/post/used/) [by](/post/by/) [people](/post/people/) [in](/post/in/) [service](/post/service/) positions [when](/post/when/) addressing [a](/post/a/) [woman](/post/woman/) respectfully.
+- "[At](/post/at/) [her](/post/her/) majesty's [pleasure](/post/pleasure/), [madam](/post/madam/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [a](/post/a/) [formal](/post/formal/) [or](/post/or/) [humorous](/post/humorous/) context [to](/post/to/) [imply](/post/imply/) deference [to](/post/to/) [a](/post/a/) woman's [authority](/post/authority/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([polite](/en/post/polite/) [address](/en/post/address/))**: "[Madam](/en/post/madam/), [your](/en/post/your/) [order](/en/post/order/) [will](/en/post/will/) [be](/en/post/be/) [ready](/en/post/ready/) [shortly](/en/post/shortly/)."
-- **[Noun](/en/post/noun/) (informal [meaning](/en/post/meaning/))**: "[The](/en/post/the/) [madam](/en/post/madam/) ensured [that](/en/post/that/) [all](/en/post/all/) [her](/en/post/her/) clients' needs were attended [to](/en/post/to/) [with](/en/post/with/) discretion."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([polite](/post/polite/) [address](/post/address/))**: "[Madam](/post/madam/), [your](/post/your/) [order](/post/order/) [will](/post/will/) [be](/post/be/) [ready](/post/ready/) [shortly](/post/shortly/)."
+- **[Noun](/post/noun/) (informal [meaning](/post/meaning/))**: "[The](/post/the/) [madam](/post/madam/) ensured [that](/post/that/) [all](/post/all/) [her](/post/her/) clients' needs were attended [to](/post/to/) [with](/post/with/) discretion."
 
 ## Synonyms
 - Ma'am
 - Madame
-- [Lady](/en/post/lady/)
-- Mrs. ([used](/en/post/used/) [in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- [Mistress](/en/post/mistress/) (archaic [or](/en/post/or/) [historical](/en/post/historical/))
+- [Lady](/post/lady/)
+- Mrs. ([used](/post/used/) [in](/post/in/) [certain](/post/certain/) contexts)
+- [Mistress](/post/mistress/) (archaic [or](/post/or/) [historical](/post/historical/))

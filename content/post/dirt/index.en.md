@@ -7,28 +7,28 @@ description = '[dəːt] n.尘，土；污物，污垢'
 keywords = ['ai words', 'dirt']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɜrt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [Soil](/en/post/soil/) [or](/en/post/or/) [earth](/en/post/earth/) [that](/en/post/that/) is [not](/en/post/not/) [clean](/en/post/clean/) [or](/en/post/or/) has [become](/en/post/become/) contaminated [with](/en/post/with/) impurities. "[The](/en/post/the/) [garden](/en/post/garden/) was covered [in](/en/post/in/) [a](/en/post/a/) [thick](/en/post/thick/) [layer](/en/post/layer/) [of](/en/post/of/) [dirt](/en/post/dirt/)." 2. An unclean [or](/en/post/or/) [unpleasant](/en/post/unpleasant/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/). "[His](/en/post/his/) [behavior](/en/post/behavior/) was filled [with](/en/post/with/) dirtiness." 3. (slang) [Information](/en/post/information/), secrets, [or](/en/post/or/) lies. "[She](/en/post/she/) dug [up](/en/post/up/) [some](/en/post/some/) [dirt](/en/post/dirt/) [on](/en/post/on/) [his](/en/post/his/) [past](/en/post/past/)."
+- **[Noun](/post/noun/)**: 1. [Soil](/post/soil/) [or](/post/or/) [earth](/post/earth/) [that](/post/that/) is [not](/post/not/) [clean](/post/clean/) [or](/post/or/) has [become](/post/become/) contaminated [with](/post/with/) impurities. "[The](/post/the/) [garden](/post/garden/) was covered [in](/post/in/) [a](/post/a/) [thick](/post/thick/) [layer](/post/layer/) [of](/post/of/) [dirt](/post/dirt/)." 2. An unclean [or](/post/or/) [unpleasant](/post/unpleasant/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/). "[His](/post/his/) [behavior](/post/behavior/) was filled [with](/post/with/) dirtiness." 3. (slang) [Information](/post/information/), secrets, [or](/post/or/) lies. "[She](/post/she/) dug [up](/post/up/) [some](/post/some/) [dirt](/post/dirt/) [on](/post/on/) [his](/post/his/) [past](/post/past/)."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [soil](/en/post/soil/) [or](/en/post/or/) contaminate [with](/en/post/with/) [dirt](/en/post/dirt/); [to](/en/post/to/) [make](/en/post/make/) [dirty](/en/post/dirty/). "[The](/en/post/the/) children were playing [in](/en/post/in/) [the](/en/post/the/) [dirt](/en/post/dirt/) [outside](/en/post/outside/)."
-- **[Adjective](/en/post/adjective/)**: Containing [or](/en/post/or/) characterized [by](/en/post/by/) [dirt](/en/post/dirt/); filthy. "[The](/en/post/the/) windows were covered [in](/en/post/in/) [a](/en/post/a/) [layer](/en/post/layer/) [of](/en/post/of/) [dirty](/en/post/dirty/) [dirt](/en/post/dirt/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [soil](/post/soil/) [or](/post/or/) contaminate [with](/post/with/) [dirt](/post/dirt/); [to](/post/to/) [make](/post/make/) [dirty](/post/dirty/). "[The](/post/the/) children were playing [in](/post/in/) [the](/post/the/) [dirt](/post/dirt/) [outside](/post/outside/)."
+- **[Adjective](/post/adjective/)**: Containing [or](/post/or/) characterized [by](/post/by/) [dirt](/post/dirt/); filthy. "[The](/post/the/) windows were covered [in](/post/in/) [a](/post/a/) [layer](/post/layer/) [of](/post/of/) [dirty](/post/dirty/) [dirt](/post/dirt/)."
 
 ## Phrases
-- "[Get](/en/post/get/) [rid](/en/post/rid/) [of](/en/post/of/) [the](/en/post/the/) [dirt](/en/post/dirt/)" [means](/en/post/means/) [to](/en/post/to/) [clean](/en/post/clean/) [or](/en/post/or/) [remove](/en/post/remove/) [dirt](/en/post/dirt/).
-- "[Dirt](/en/post/dirt/) [under](/en/post/under/) one's nails" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) indicating [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) cleanliness.
-- "[A](/en/post/a/) [dirty](/en/post/dirty/) [secret](/en/post/secret/)" refers [to](/en/post/to/) [something](/en/post/something/) shameful [or](/en/post/or/) illicit.
+- "[Get](/post/get/) [rid](/post/rid/) [of](/post/of/) [the](/post/the/) [dirt](/post/dirt/)" [means](/post/means/) [to](/post/to/) [clean](/post/clean/) [or](/post/or/) [remove](/post/remove/) [dirt](/post/dirt/).
+- "[Dirt](/post/dirt/) [under](/post/under/) one's nails" is [a](/post/a/) colloquial [expression](/post/expression/) indicating [a](/post/a/) [lack](/post/lack/) [of](/post/of/) cleanliness.
+- "[A](/post/a/) [dirty](/post/dirty/) [secret](/post/secret/)" refers [to](/post/to/) [something](/post/something/) shameful [or](/post/or/) illicit.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) spent [the](/en/post/the/) [day](/en/post/day/) digging [up](/en/post/up/) [dirt](/en/post/dirt/) [to](/en/post/to/) [plant](/en/post/plant/) [new](/en/post/new/) crops."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [he](/en/post/he/) needed [to](/en/post/to/) [get](/en/post/get/) [down](/en/post/down/) [to](/en/post/to/) [some](/en/post/some/) [serious](/en/post/serious/) dirt-busting [in](/en/post/in/) [the](/en/post/the/) [garage](/en/post/garage/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [bathroom](/en/post/bathroom/) [floor](/en/post/floor/) was [so](/en/post/so/) [dirty](/en/post/dirty/) [that](/en/post/that/) [no](/en/post/no/) [one](/en/post/one/) wanted [to](/en/post/to/) [step](/en/post/step/) [on](/en/post/on/) [it](/en/post/it/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) spent [the](/post/the/) [day](/post/day/) digging [up](/post/up/) [dirt](/post/dirt/) [to](/post/to/) [plant](/post/plant/) [new](/post/new/) crops."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [he](/post/he/) needed [to](/post/to/) [get](/post/get/) [down](/post/down/) [to](/post/to/) [some](/post/some/) [serious](/post/serious/) dirt-busting [in](/post/in/) [the](/post/the/) [garage](/post/garage/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [bathroom](/post/bathroom/) [floor](/post/floor/) was [so](/post/so/) [dirty](/post/dirty/) [that](/post/that/) [no](/post/no/) [one](/post/one/) wanted [to](/post/to/) [step](/post/step/) [on](/post/on/) [it](/post/it/)."
 
 ## Synonyms
-- [Soil](/en/post/soil/)
-- [Mud](/en/post/mud/)
+- [Soil](/post/soil/)
+- [Mud](/post/mud/)
 - Grime
 - Filth
 - Crud

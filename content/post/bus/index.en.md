@@ -7,33 +7,33 @@ description = '[bʌs] n.公共汽车'
 keywords = ['ai words', 'bus']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[bus](/en/post/bus/)/
+## [Pronunciation](/post/pronunciation/)
+/[bus](/post/bus/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/) [motor](/en/post/motor/) [vehicle](/en/post/vehicle/) designed [for](/en/post/for/) carrying passengers [by](/en/post/by/) [road](/en/post/road/), [often](/en/post/often/) [with](/en/post/with/) [multiple](/en/post/multiple/) compartments [or](/en/post/or/) levels [for](/en/post/for/) seating. [Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[bus](/en/post/bus/))
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [transport](/en/post/transport/) ([people](/en/post/people/)) using [a](/en/post/a/) [bus](/en/post/bus/). [Cambridge](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[bus](/en/post/bus/))
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [public](/en/post/public/) [transportation](/en/post/transportation/) [that](/en/post/that/) operates [on](/en/post/on/) fixed routes [or](/en/post/or/) schedules. [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[bus](/en/post/bus/))
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/) [motor](/post/motor/) [vehicle](/post/vehicle/) designed [for](/post/for/) carrying passengers [by](/post/by/) [road](/post/road/), [often](/post/often/) [with](/post/with/) [multiple](/post/multiple/) compartments [or](/post/or/) levels [for](/post/for/) seating. [Oxford](https://en.oxforddictionaries.com/[definition](/post/definition/)/[bus](/post/bus/))
+- **[Verb](/post/verb/)**: [To](/post/to/) [transport](/post/transport/) ([people](/post/people/)) using [a](/post/a/) [bus](/post/bus/). [Cambridge](https://[dictionary](/post/dictionary/).cambridge.org/[dictionary](/post/dictionary/)/english/[bus](/post/bus/))
+- **[Noun](/post/noun/)**: [A](/post/a/) [type](/post/type/) [of](/post/of/) [public](/post/public/) [transportation](/post/transportation/) [that](/post/that/) operates [on](/post/on/) fixed routes [or](/post/or/) schedules. [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[bus](/post/bus/))
 
 ## Phrases
-- "[Take](/en/post/take/) [the](/en/post/the/) [bus](/en/post/bus/) [to](/en/post/to/) [work](/en/post/work/)" [means](/en/post/means/) [to](/en/post/to/) commute [by](/en/post/by/) [bus](/en/post/bus/).
-- "[Bus](/en/post/bus/) [stop](/en/post/stop/)" is [where](/en/post/where/) [people](/en/post/people/) [wait](/en/post/wait/) [for](/en/post/for/) [a](/en/post/a/) [bus](/en/post/bus/) [to](/en/post/to/) [arrive](/en/post/arrive/).
-- "[Bus](/en/post/bus/) [route](/en/post/route/)" refers [to](/en/post/to/) [the](/en/post/the/) [specific](/en/post/specific/) [path](/en/post/path/) [a](/en/post/a/) [bus](/en/post/bus/) travels [along](/en/post/along/).
+- "[Take](/post/take/) [the](/post/the/) [bus](/post/bus/) [to](/post/to/) [work](/post/work/)" [means](/post/means/) [to](/post/to/) commute [by](/post/by/) [bus](/post/bus/).
+- "[Bus](/post/bus/) [stop](/post/stop/)" is [where](/post/where/) [people](/post/people/) [wait](/post/wait/) [for](/post/for/) [a](/post/a/) [bus](/post/bus/) [to](/post/to/) [arrive](/post/arrive/).
+- "[Bus](/post/bus/) [route](/post/route/)" refers [to](/post/to/) [the](/post/the/) [specific](/post/specific/) [path](/post/path/) [a](/post/a/) [bus](/post/bus/) travels [along](/post/along/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) city's [bus](/en/post/bus/) [system](/en/post/system/) provides [convenient](/en/post/convenient/) [transportation](/en/post/transportation/) [throughout](/en/post/throughout/) [the](/en/post/the/) [town](/en/post/town/)."
-- **[Verb](/en/post/verb/)**: "I [usually](/en/post/usually/) [bus](/en/post/bus/) [to](/en/post/to/) [school](/en/post/school/), [but](/en/post/but/) [today](/en/post/today/) I decided [to](/en/post/to/) [walk](/en/post/walk/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) arrived [late](/en/post/late/) [because](/en/post/because/) [her](/en/post/her/) [bus](/en/post/bus/) was delayed."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) city's [bus](/post/bus/) [system](/post/system/) provides [convenient](/post/convenient/) [transportation](/post/transportation/) [throughout](/post/throughout/) [the](/post/the/) [town](/post/town/)."
+- **[Verb](/post/verb/)**: "I [usually](/post/usually/) [bus](/post/bus/) [to](/post/to/) [school](/post/school/), [but](/post/but/) [today](/post/today/) I decided [to](/post/to/) [walk](/post/walk/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) arrived [late](/post/late/) [because](/post/because/) [her](/post/her/) [bus](/post/bus/) was delayed."
 
 ## Synonyms
-- [Coach](/en/post/coach/)
-- [Vehicle](/en/post/vehicle/)
+- [Coach](/post/coach/)
+- [Vehicle](/post/vehicle/)
 - Routemaster
 - Transit
-- [Coach](/en/post/coach/) [bus](/en/post/bus/)
+- [Coach](/post/coach/) [bus](/post/bus/)
 - Double-decker
 
 ## Antonyms
-- [Car](/en/post/car/) ([private](/en/post/private/) [transportation](/en/post/transportation/))
-- [Taxi](/en/post/taxi/) ( hailed [or](/en/post/or/) [private](/en/post/private/) [transportation](/en/post/transportation/))
-- [Bicycle](/en/post/bicycle/) ([personal](/en/post/personal/) [transportation](/en/post/transportation/))
+- [Car](/post/car/) ([private](/post/private/) [transportation](/post/transportation/))
+- [Taxi](/post/taxi/) ( hailed [or](/post/or/) [private](/post/private/) [transportation](/post/transportation/))
+- [Bicycle](/post/bicycle/) ([personal](/post/personal/) [transportation](/post/transportation/))

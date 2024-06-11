@@ -7,30 +7,30 @@ description = '[inˈtaitl] vt.给…权利(或资格)'
 keywords = ['ai words', 'entitle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈtaɪtl/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [give](/en/post/give/) [someone](/en/post/someone/) [the](/en/post/the/) [right](/en/post/right/) [or](/en/post/or/) [claim](/en/post/claim/) [to](/en/post/to/) [something](/en/post/something/); [to](/en/post/to/) confer [a](/en/post/a/) [title](/en/post/title/) [upon](/en/post/upon/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) inheritance entitled [him](/en/post/him/) [to](/en/post/to/) [a](/en/post/a/) [substantial](/en/post/substantial/) [fortune](/en/post/fortune/)."
-  - **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [name](/en/post/name/) [to](/en/post/to/) [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [book](/en/post/book/), [film](/en/post/film/), [or](/en/post/or/) [piece](/en/post/piece/) [of](/en/post/of/) [music](/en/post/music/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [author](/en/post/author/) entitled [her](/en/post/her/) latest [novel](/en/post/novel/) 'Echoes [of](/en/post/of/) [the](/en/post/the/) [Past](/en/post/past/)'."
-  - **[Verb](/en/post/verb/)**: (intransitive) [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [right](/en/post/right/) [to](/en/post/to/) [something](/en/post/something/) [because](/en/post/because/) [of](/en/post/of/) one's [position](/en/post/position/), qualifications, [or](/en/post/or/) accomplishments. [For](/en/post/for/) [example](/en/post/example/): "[By](/en/post/by/) [virtue](/en/post/virtue/) [of](/en/post/of/) [his](/en/post/his/) [degree](/en/post/degree/), [he](/en/post/he/) is entitled [to](/en/post/to/) [practice](/en/post/practice/) [law](/en/post/law/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [give](/post/give/) [someone](/post/someone/) [the](/post/the/) [right](/post/right/) [or](/post/or/) [claim](/post/claim/) [to](/post/to/) [something](/post/something/); [to](/post/to/) confer [a](/post/a/) [title](/post/title/) [upon](/post/upon/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) inheritance entitled [him](/post/him/) [to](/post/to/) [a](/post/a/) [substantial](/post/substantial/) [fortune](/post/fortune/)."
+  - **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [give](/post/give/) [a](/post/a/) [name](/post/name/) [to](/post/to/) [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [book](/post/book/), [film](/post/film/), [or](/post/or/) [piece](/post/piece/) [of](/post/of/) [music](/post/music/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [author](/post/author/) entitled [her](/post/her/) latest [novel](/post/novel/) 'Echoes [of](/post/of/) [the](/post/the/) [Past](/post/past/)'."
+  - **[Verb](/post/verb/)**: (intransitive) [To](/post/to/) [have](/post/have/) [a](/post/a/) [right](/post/right/) [to](/post/to/) [something](/post/something/) [because](/post/because/) [of](/post/of/) one's [position](/post/position/), qualifications, [or](/post/or/) accomplishments. [For](/post/for/) [example](/post/example/): "[By](/post/by/) [virtue](/post/virtue/) [of](/post/of/) [his](/post/his/) [degree](/post/degree/), [he](/post/he/) is entitled [to](/post/to/) [practice](/post/practice/) [law](/post/law/)."
 
 ## Phrases
-- "[To](/en/post/to/) [be](/en/post/be/) entitled [to](/en/post/to/) [something](/en/post/something/)" [means](/en/post/means/) [that](/en/post/that/) [one](/en/post/one/) has [a](/en/post/a/) [legal](/en/post/legal/) [or](/en/post/or/) [moral](/en/post/moral/) [right](/en/post/right/) [to](/en/post/to/) [receive](/en/post/receive/) [or](/en/post/or/) [do](/en/post/do/) [something](/en/post/something/).
-- "[Entitle](/en/post/entitle/) [someone](/en/post/someone/) [to](/en/post/to/) [something](/en/post/something/)" indicates granting [someone](/en/post/someone/) [a](/en/post/a/) [right](/en/post/right/) [or](/en/post/or/) [privilege](/en/post/privilege/).
+- "[To](/post/to/) [be](/post/be/) entitled [to](/post/to/) [something](/post/something/)" [means](/post/means/) [that](/post/that/) [one](/post/one/) has [a](/post/a/) [legal](/post/legal/) [or](/post/or/) [moral](/post/moral/) [right](/post/right/) [to](/post/to/) [receive](/post/receive/) [or](/post/or/) [do](/post/do/) [something](/post/something/).
+- "[Entitle](/post/entitle/) [someone](/post/someone/) [to](/post/to/) [something](/post/something/)" indicates granting [someone](/post/someone/) [a](/post/a/) [right](/post/right/) [or](/post/or/) [privilege](/post/privilege/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (granting rights)**: "Winning [the](/en/post/the/) [competition](/en/post/competition/) entitled [the](/en/post/the/) [team](/en/post/team/) [to](/en/post/to/) [represent](/en/post/represent/) [their](/en/post/their/) [country](/en/post/country/) [at](/en/post/at/) [the](/en/post/the/) [international](/en/post/international/) [level](/en/post/level/)."
-- **[Verb](/en/post/verb/) (naming [a](/en/post/a/) [work](/en/post/work/))**: "[The](/en/post/the/) [artist](/en/post/artist/) entitled [her](/en/post/her/) [painting](/en/post/painting/) '[The](/en/post/the/) [Sunrise](/en/post/sunrise/) Symphony' [to](/en/post/to/) [reflect](/en/post/reflect/) [its](/en/post/its/) theme."
-- **Intransitive [use](/en/post/use/)**: "[As](/en/post/as/) citizens, [we](/en/post/we/) are [all](/en/post/all/) entitled [to](/en/post/to/) [certain](/en/post/certain/) [basic](/en/post/basic/) [human](/en/post/human/) rights."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (granting rights)**: "Winning [the](/post/the/) [competition](/post/competition/) entitled [the](/post/the/) [team](/post/team/) [to](/post/to/) [represent](/post/represent/) [their](/post/their/) [country](/post/country/) [at](/post/at/) [the](/post/the/) [international](/post/international/) [level](/post/level/)."
+- **[Verb](/post/verb/) (naming [a](/post/a/) [work](/post/work/))**: "[The](/post/the/) [artist](/post/artist/) entitled [her](/post/her/) [painting](/post/painting/) '[The](/post/the/) [Sunrise](/post/sunrise/) Symphony' [to](/post/to/) [reflect](/post/reflect/) [its](/post/its/) theme."
+- **Intransitive [use](/post/use/)**: "[As](/post/as/) citizens, [we](/post/we/) are [all](/post/all/) entitled [to](/post/to/) [certain](/post/certain/) [basic](/post/basic/) [human](/post/human/) rights."
 
 ## Synonyms
-- [Grant](/en/post/grant/)
+- [Grant](/post/grant/)
 - Confer
 - Endow
 - Allocate
-- [Assign](/en/post/assign/)
+- [Assign](/post/assign/)
 - Bestow
 - Authorize
-- [Qualify](/en/post/qualify/)
-- Entrench ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) establishing [a](/en/post/a/) [legal](/en/post/legal/) [right](/en/post/right/))
+- [Qualify](/post/qualify/)
+- Entrench ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) establishing [a](/post/a/) [legal](/post/legal/) [right](/post/right/))

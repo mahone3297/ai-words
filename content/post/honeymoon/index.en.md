@@ -7,26 +7,26 @@ description = '[ˈhʌnimuːn] n.蜜月'
 keywords = ['ai words', 'honeymoon']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/ˈhʌnɪmo͞[on](/en/post/on/)/
+## [Pronunciation](/post/pronunciation/)
+/ˈhʌnɪmo͞[on](/post/on/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [holiday](/en/post/holiday/) [or](/en/post/or/) [vacation](/en/post/vacation/) taken [by](/en/post/by/) [a](/en/post/a/) [newly](/en/post/newly/) [married](/en/post/married/) [couple](/en/post/couple/) [immediately](/en/post/immediately/) [after](/en/post/after/) [their](/en/post/their/) [wedding](/en/post/wedding/), typically [to](/en/post/to/) [a](/en/post/a/) [romantic](/en/post/romantic/) [or](/en/post/or/) exotic [destination](/en/post/destination/). [This](/en/post/this/) [period](/en/post/period/) is [often](/en/post/often/) associated [with](/en/post/with/) [a](/en/post/a/) [happy](/en/post/happy/) [and](/en/post/and/) carefree [beginning](/en/post/beginning/) [of](/en/post/of/) [their](/en/post/their/) [marriage](/en/post/marriage/).
+- **[Noun](/post/noun/)**: [A](/post/a/) [holiday](/post/holiday/) [or](/post/or/) [vacation](/post/vacation/) taken [by](/post/by/) [a](/post/a/) [newly](/post/newly/) [married](/post/married/) [couple](/post/couple/) [immediately](/post/immediately/) [after](/post/after/) [their](/post/their/) [wedding](/post/wedding/), typically [to](/post/to/) [a](/post/a/) [romantic](/post/romantic/) [or](/post/or/) exotic [destination](/post/destination/). [This](/post/this/) [period](/post/period/) is [often](/post/often/) associated [with](/post/with/) [a](/post/a/) [happy](/post/happy/) [and](/post/and/) carefree [beginning](/post/beginning/) [of](/post/of/) [their](/post/their/) [marriage](/post/marriage/).
 
-[Example](/en/post/example/) Sentences:
-- "[They](/en/post/they/) spent [their](/en/post/their/) [honeymoon](/en/post/honeymoon/) [in](/en/post/in/) [the](/en/post/the/) Maldives, soaking [up](/en/post/up/) [the](/en/post/the/) [sun](/en/post/sun/) [and](/en/post/and/) enjoying [each](/en/post/each/) other's [company](/en/post/company/)."
-- "[After](/en/post/after/) [the](/en/post/the/) [wedding](/en/post/wedding/), [the](/en/post/the/) newlyweds embarked [on](/en/post/on/) [a](/en/post/a/) two-week [honeymoon](/en/post/honeymoon/) [across](/en/post/across/) Europe."
+[Example](/post/example/) Sentences:
+- "[They](/post/they/) spent [their](/post/their/) [honeymoon](/post/honeymoon/) [in](/post/in/) [the](/post/the/) Maldives, soaking [up](/post/up/) [the](/post/the/) [sun](/post/sun/) [and](/post/and/) enjoying [each](/post/each/) other's [company](/post/company/)."
+- "[After](/post/after/) [the](/post/the/) [wedding](/post/wedding/), [the](/post/the/) newlyweds embarked [on](/post/on/) [a](/post/a/) two-week [honeymoon](/post/honeymoon/) [across](/post/across/) Europe."
 
 Phrases:
-- "[To](/en/post/to/) [go](/en/post/go/) [on](/en/post/on/) [honeymoon](/en/post/honeymoon/)" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) taking [this](/en/post/this/) [special](/en/post/special/) [vacation](/en/post/vacation/) [after](/en/post/after/) getting [married](/en/post/married/).
-- "[Honeymoon](/en/post/honeymoon/) [phase](/en/post/phase/)" is [a](/en/post/a/) metaphorical [use](/en/post/use/) [that](/en/post/that/) describes [the](/en/post/the/) [initial](/en/post/initial/) [period](/en/post/period/) [of](/en/post/of/) [any](/en/post/any/) [relationship](/en/post/relationship/) [where](/en/post/where/) [everything](/en/post/everything/) seems [perfect](/en/post/perfect/) [and](/en/post/and/) [without](/en/post/without/) [conflict](/en/post/conflict/).
+- "[To](/post/to/) [go](/post/go/) [on](/post/on/) [honeymoon](/post/honeymoon/)" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) taking [this](/post/this/) [special](/post/special/) [vacation](/post/vacation/) [after](/post/after/) getting [married](/post/married/).
+- "[Honeymoon](/post/honeymoon/) [phase](/post/phase/)" is [a](/post/a/) metaphorical [use](/post/use/) [that](/post/that/) describes [the](/post/the/) [initial](/post/initial/) [period](/post/period/) [of](/post/of/) [any](/post/any/) [relationship](/post/relationship/) [where](/post/where/) [everything](/post/everything/) seems [perfect](/post/perfect/) [and](/post/and/) [without](/post/without/) [conflict](/post/conflict/).
 
 ## Synonyms
-- [Honeymoon](/en/post/honeymoon/) [trip](/en/post/trip/)
-- Bridal [tour](/en/post/tour/)
+- [Honeymoon](/post/honeymoon/) [trip](/post/trip/)
+- Bridal [tour](/post/tour/)
 - Post-wedding getaway
-- Newlywed [vacation](/en/post/vacation/)
-- [Romantic](/en/post/romantic/) [escape](/en/post/escape/)
+- Newlywed [vacation](/post/vacation/)
+- [Romantic](/post/romantic/) [escape](/post/escape/)
 
 ## Etymology
-[The](/en/post/the/) [word](/en/post/word/) "[honeymoon](/en/post/honeymoon/)" has an [interesting](/en/post/interesting/) etymology. [The](/en/post/the/) "[honey](/en/post/honey/)" [part](/en/post/part/) [likely](/en/post/likely/) comes [from](/en/post/from/) [the](/en/post/the/) [tradition](/en/post/tradition/) [of](/en/post/of/) drinking honey-based [wine](/en/post/wine/) [during](/en/post/during/) [the](/en/post/the/) [first](/en/post/first/) [moon](/en/post/moon/) ([month](/en/post/month/)) [of](/en/post/of/) [marriage](/en/post/marriage/), symbolizing sweetness [and](/en/post/and/) fertility. [The](/en/post/the/) "[moon](/en/post/moon/)" [part](/en/post/part/) [may](/en/post/may/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) lunar [month](/en/post/month/), suggesting [the](/en/post/the/) [duration](/en/post/duration/) [of](/en/post/of/) [the](/en/post/the/) celebration [or](/en/post/or/) [the](/en/post/the/) [time](/en/post/time/) [it](/en/post/it/) takes [for](/en/post/for/) [a](/en/post/a/) [new](/en/post/new/) [moon](/en/post/moon/) [to](/en/post/to/) [wax](/en/post/wax/) [and](/en/post/and/) wane, representing [the](/en/post/the/) cyclical [nature](/en/post/nature/) [of](/en/post/of/) [life](/en/post/life/) [and](/en/post/and/) [love](/en/post/love/). [Over](/en/post/over/) [time](/en/post/time/), [the](/en/post/the/) [term](/en/post/term/) evolved [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [first](/en/post/first/) [holiday](/en/post/holiday/) [a](/en/post/a/) [couple](/en/post/couple/) takes [together](/en/post/together/) [after](/en/post/after/) [marriage](/en/post/marriage/).
+[The](/post/the/) [word](/post/word/) "[honeymoon](/post/honeymoon/)" has an [interesting](/post/interesting/) etymology. [The](/post/the/) "[honey](/post/honey/)" [part](/post/part/) [likely](/post/likely/) comes [from](/post/from/) [the](/post/the/) [tradition](/post/tradition/) [of](/post/of/) drinking honey-based [wine](/post/wine/) [during](/post/during/) [the](/post/the/) [first](/post/first/) [moon](/post/moon/) ([month](/post/month/)) [of](/post/of/) [marriage](/post/marriage/), symbolizing sweetness [and](/post/and/) fertility. [The](/post/the/) "[moon](/post/moon/)" [part](/post/part/) [may](/post/may/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) lunar [month](/post/month/), suggesting [the](/post/the/) [duration](/post/duration/) [of](/post/of/) [the](/post/the/) celebration [or](/post/or/) [the](/post/the/) [time](/post/time/) [it](/post/it/) takes [for](/post/for/) [a](/post/a/) [new](/post/new/) [moon](/post/moon/) [to](/post/to/) [wax](/post/wax/) [and](/post/and/) wane, representing [the](/post/the/) cyclical [nature](/post/nature/) [of](/post/of/) [life](/post/life/) [and](/post/and/) [love](/post/love/). [Over](/post/over/) [time](/post/time/), [the](/post/the/) [term](/post/term/) evolved [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [first](/post/first/) [holiday](/post/holiday/) [a](/post/a/) [couple](/post/couple/) takes [together](/post/together/) [after](/post/after/) [marriage](/post/marriage/).

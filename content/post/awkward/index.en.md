@@ -7,33 +7,33 @@ description = '[ˈɔːkwəd] a.笨拙的；尴尬的'
 keywords = ['ai words', 'awkward']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːkwərd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Marking [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [ease](/en/post/ease/), [grace](/en/post/grace/), [or](/en/post/or/) appropriateness [in](/en/post/in/) [social](/en/post/social/) situations; [clumsy](/en/post/clumsy/) [or](/en/post/or/) [uncomfortable](/en/post/uncomfortable/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) felt [a](/en/post/a/) [bit](/en/post/bit/) [awkward](/en/post/awkward/) [during](/en/post/during/) [the](/en/post/the/) [dance](/en/post/dance/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [awkward](/en/post/awkward/) [or](/en/post/or/) feels [uncomfortable](/en/post/uncomfortable/) [in](/en/post/in/) [social](/en/post/social/) situations. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) newcomer was [quite](/en/post/quite/) an [awkward](/en/post/awkward/) [person](/en/post/person/) [to](/en/post/to/) [be](/en/post/be/) [around](/en/post/around/)."
+- **[Adjective](/post/adjective/)**: Marking [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [ease](/post/ease/), [grace](/post/grace/), [or](/post/or/) appropriateness [in](/post/in/) [social](/post/social/) situations; [clumsy](/post/clumsy/) [or](/post/or/) [uncomfortable](/post/uncomfortable/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) felt [a](/post/a/) [bit](/post/bit/) [awkward](/post/awkward/) [during](/post/during/) [the](/post/the/) [dance](/post/dance/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [awkward](/post/awkward/) [or](/post/or/) feels [uncomfortable](/post/uncomfortable/) [in](/post/in/) [social](/post/social/) situations. [For](/post/for/) [example](/post/example/): "[The](/post/the/) newcomer was [quite](/post/quite/) an [awkward](/post/awkward/) [person](/post/person/) [to](/post/to/) [be](/post/be/) [around](/post/around/)."
 
 ## Phrases
-- "[Feel](/en/post/feel/) [awkward](/en/post/awkward/) [around](/en/post/around/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [feel](/en/post/feel/) [uncomfortable](/en/post/uncomfortable/) [or](/en/post/or/) self-conscious [in](/en/post/in/) [their](/en/post/their/) [presence](/en/post/presence/).
-- "An [awkward](/en/post/awkward/) [silence](/en/post/silence/)" refers [to](/en/post/to/) [a](/en/post/a/) [pause](/en/post/pause/) [in](/en/post/in/) [conversation](/en/post/conversation/) [that](/en/post/that/) feels strained [or](/en/post/or/) [uneasy](/en/post/uneasy/).
-- "Trying [not](/en/post/not/) [to](/en/post/to/) [look](/en/post/look/)/[act](/en/post/act/) [awkward](/en/post/awkward/)" [means](/en/post/means/) making an [effort](/en/post/effort/) [to](/en/post/to/) [appear](/en/post/appear/) relaxed [or](/en/post/or/) [confident](/en/post/confident/).
+- "[Feel](/post/feel/) [awkward](/post/awkward/) [around](/post/around/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [feel](/post/feel/) [uncomfortable](/post/uncomfortable/) [or](/post/or/) self-conscious [in](/post/in/) [their](/post/their/) [presence](/post/presence/).
+- "An [awkward](/post/awkward/) [silence](/post/silence/)" refers [to](/post/to/) [a](/post/a/) [pause](/post/pause/) [in](/post/in/) [conversation](/post/conversation/) [that](/post/that/) feels strained [or](/post/or/) [uneasy](/post/uneasy/).
+- "Trying [not](/post/not/) [to](/post/to/) [look](/post/look/)/[act](/post/act/) [awkward](/post/awkward/)" [means](/post/means/) making an [effort](/post/effort/) [to](/post/to/) [appear](/post/appear/) relaxed [or](/post/or/) [confident](/post/confident/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) dancing was [a](/en/post/a/) [bit](/en/post/bit/) [awkward](/en/post/awkward/), [but](/en/post/but/) [she](/en/post/she/) tried [her](/en/post/her/) [best](/en/post/best/)."
-- **[Noun](/en/post/noun/)**: "[At](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/), [he](/en/post/he/) was [the](/en/post/the/) [most](/en/post/most/) [awkward](/en/post/awkward/) [person](/en/post/person/) trying [to](/en/post/to/) [blend](/en/post/blend/) [in](/en/post/in/)."
-- **[Verb](/en/post/verb/)**: "I [could](/en/post/could/) [tell](/en/post/tell/) [she](/en/post/she/) was [feeling](/en/post/feeling/) [awkward](/en/post/awkward/) [after](/en/post/after/) [her](/en/post/her/) [performance](/en/post/performance/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) dancing was [a](/post/a/) [bit](/post/bit/) [awkward](/post/awkward/), [but](/post/but/) [she](/post/she/) tried [her](/post/her/) [best](/post/best/)."
+- **[Noun](/post/noun/)**: "[At](/post/at/) [the](/post/the/) [party](/post/party/), [he](/post/he/) was [the](/post/the/) [most](/post/most/) [awkward](/post/awkward/) [person](/post/person/) trying [to](/post/to/) [blend](/post/blend/) [in](/post/in/)."
+- **[Verb](/post/verb/)**: "I [could](/post/could/) [tell](/post/tell/) [she](/post/she/) was [feeling](/post/feeling/) [awkward](/post/awkward/) [after](/post/after/) [her](/post/her/) [performance](/post/performance/)."
 
 ## Synonyms
-- [Uncomfortable](/en/post/uncomfortable/)
+- [Uncomfortable](/post/uncomfortable/)
 - Self-conscious
-- [Clumsy](/en/post/clumsy/)
+- [Clumsy](/post/clumsy/)
 - Ungainly
 - Inept
 
 ## Antonyms
-- [Confident](/en/post/confident/)
-- [Graceful](/en/post/graceful/)
-- [Smooth](/en/post/smooth/)
+- [Confident](/post/confident/)
+- [Graceful](/post/graceful/)
+- [Smooth](/post/smooth/)
 - Easy-going
 - Polished

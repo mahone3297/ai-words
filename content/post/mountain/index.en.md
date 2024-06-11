@@ -7,30 +7,30 @@ description = '[ˈmauntin] n.山，山岳；山脉'
 keywords = ['ai words', 'mountain']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmaʊntn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/) [natural](/en/post/natural/) elevation [of](/en/post/of/) [the](/en/post/the/) earth's [surface](/en/post/surface/) rising abruptly [from](/en/post/from/) [the](/en/post/the/) surrounding [level](/en/post/level/); [usually](/en/post/usually/) higher [and](/en/post/and/) steeper [than](/en/post/than/) [a](/en/post/a/) [hill](/en/post/hill/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) climbers reached [the](/en/post/the/) summit [of](/en/post/of/) [the](/en/post/the/) snow-capped [mountain](/en/post/mountain/)."
-- **[Noun](/en/post/noun/) (figurative)**: [Something](/en/post/something/) [that](/en/post/that/) is [difficult](/en/post/difficult/) [to](/en/post/to/) [overcome](/en/post/overcome/) [or](/en/post/or/) surmount, [like](/en/post/like/) an [obstacle](/en/post/obstacle/) [or](/en/post/or/) [challenge](/en/post/challenge/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) biggest [challenge](/en/post/challenge/) was [the](/en/post/the/) [mountain](/en/post/mountain/) [of](/en/post/of/) [debt](/en/post/debt/) [she](/en/post/she/) had accumulated."
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/) [natural](/post/natural/) elevation [of](/post/of/) [the](/post/the/) earth's [surface](/post/surface/) rising abruptly [from](/post/from/) [the](/post/the/) surrounding [level](/post/level/); [usually](/post/usually/) higher [and](/post/and/) steeper [than](/post/than/) [a](/post/a/) [hill](/post/hill/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) climbers reached [the](/post/the/) summit [of](/post/of/) [the](/post/the/) snow-capped [mountain](/post/mountain/)."
+- **[Noun](/post/noun/) (figurative)**: [Something](/post/something/) [that](/post/that/) is [difficult](/post/difficult/) [to](/post/to/) [overcome](/post/overcome/) [or](/post/or/) surmount, [like](/post/like/) an [obstacle](/post/obstacle/) [or](/post/or/) [challenge](/post/challenge/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) biggest [challenge](/post/challenge/) was [the](/post/the/) [mountain](/post/mountain/) [of](/post/of/) [debt](/post/debt/) [she](/post/she/) had accumulated."
 
 ## Phrases
-- "[Move](/en/post/move/) mountains" - [to](/en/post/to/) [achieve](/en/post/achieve/) [something](/en/post/something/) [great](/en/post/great/) [or](/en/post/or/) [difficult](/en/post/difficult/), [often](/en/post/often/) requiring [considerable](/en/post/considerable/) [effort](/en/post/effort/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) managed [to](/en/post/to/) [move](/en/post/move/) mountains [by](/en/post/by/) completing [her](/en/post/her/) [degree](/en/post/degree/) [while](/en/post/while/) working full-time."
-- "[On](/en/post/on/) [top](/en/post/top/) [of](/en/post/of/) [the](/en/post/the/) [world](/en/post/world/)/[mountain](/en/post/mountain/)" - [feeling](/en/post/feeling/) elated, [successful](/en/post/successful/), [or](/en/post/or/) triumphant. [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) winning [the](/en/post/the/) [gold](/en/post/gold/) [medal](/en/post/medal/), [he](/en/post/he/) felt [like](/en/post/like/) [he](/en/post/he/) was [on](/en/post/on/) [top](/en/post/top/) [of](/en/post/of/) [the](/en/post/the/) [world](/en/post/world/)."
-- "Mountains [out](/en/post/out/) [of](/en/post/of/) molehills" - [to](/en/post/to/) [exaggerate](/en/post/exaggerate/) [the](/en/post/the/) [importance](/en/post/importance/) [or](/en/post/or/) severity [of](/en/post/of/) [a](/en/post/a/) [problem](/en/post/problem/). [For](/en/post/for/) [example](/en/post/example/): "Don't [make](/en/post/make/) mountains [out](/en/post/out/) [of](/en/post/of/) molehills; it's [just](/en/post/just/) [a](/en/post/a/) [small](/en/post/small/) [mistake](/en/post/mistake/)."
+- "[Move](/post/move/) mountains" - [to](/post/to/) [achieve](/post/achieve/) [something](/post/something/) [great](/post/great/) [or](/post/or/) [difficult](/post/difficult/), [often](/post/often/) requiring [considerable](/post/considerable/) [effort](/post/effort/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) managed [to](/post/to/) [move](/post/move/) mountains [by](/post/by/) completing [her](/post/her/) [degree](/post/degree/) [while](/post/while/) working full-time."
+- "[On](/post/on/) [top](/post/top/) [of](/post/of/) [the](/post/the/) [world](/post/world/)/[mountain](/post/mountain/)" - [feeling](/post/feeling/) elated, [successful](/post/successful/), [or](/post/or/) triumphant. [For](/post/for/) [example](/post/example/): "[After](/post/after/) winning [the](/post/the/) [gold](/post/gold/) [medal](/post/medal/), [he](/post/he/) felt [like](/post/like/) [he](/post/he/) was [on](/post/on/) [top](/post/top/) [of](/post/of/) [the](/post/the/) [world](/post/world/)."
+- "Mountains [out](/post/out/) [of](/post/of/) molehills" - [to](/post/to/) [exaggerate](/post/exaggerate/) [the](/post/the/) [importance](/post/importance/) [or](/post/or/) severity [of](/post/of/) [a](/post/a/) [problem](/post/problem/). [For](/post/for/) [example](/post/example/): "Don't [make](/post/make/) mountains [out](/post/out/) [of](/post/of/) molehills; it's [just](/post/just/) [a](/post/a/) [small](/post/small/) [mistake](/post/mistake/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (literal)**: "[The](/en/post/the/) [cabin](/en/post/cabin/) nestled [in](/en/post/in/) [the](/en/post/the/) [shadow](/en/post/shadow/) [of](/en/post/of/) [the](/en/post/the/) towering [mountain](/en/post/mountain/) [provided](/en/post/provided/) [a](/en/post/a/) stunning [view](/en/post/view/)."
-- **[Noun](/en/post/noun/) (figurative)**: "[His](/en/post/his/) [alcohol](/en/post/alcohol/) addiction was [a](/en/post/a/) [mountain](/en/post/mountain/) [he](/en/post/he/) needed [to](/en/post/to/) [conquer](/en/post/conquer/) [to](/en/post/to/) regain [his](/en/post/his/) [health](/en/post/health/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (literal)**: "[The](/post/the/) [cabin](/post/cabin/) nestled [in](/post/in/) [the](/post/the/) [shadow](/post/shadow/) [of](/post/of/) [the](/post/the/) towering [mountain](/post/mountain/) [provided](/post/provided/) [a](/post/a/) stunning [view](/post/view/)."
+- **[Noun](/post/noun/) (figurative)**: "[His](/post/his/) [alcohol](/post/alcohol/) addiction was [a](/post/a/) [mountain](/post/mountain/) [he](/post/he/) needed [to](/post/to/) [conquer](/post/conquer/) [to](/post/to/) regain [his](/post/his/) [health](/post/health/)."
    
 ## Synonyms
-- [Peak](/en/post/peak/)
+- [Peak](/post/peak/)
 - Summit
-- [Ridge](/en/post/ridge/)
-- [Range](/en/post/range/)
-- [Cliff](/en/post/cliff/)
-- [Slope](/en/post/slope/)
-- [Hill](/en/post/hill/)
-- Alps ([for](/en/post/for/) [a](/en/post/a/) [range](/en/post/range/) [of](/en/post/of/) mountains)
-- Rockies ([for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [range](/en/post/range/) [of](/en/post/of/) mountains)
-- Mountainous [region](/en/post/region/)
+- [Ridge](/post/ridge/)
+- [Range](/post/range/)
+- [Cliff](/post/cliff/)
+- [Slope](/post/slope/)
+- [Hill](/post/hill/)
+- Alps ([for](/post/for/) [a](/post/a/) [range](/post/range/) [of](/post/of/) mountains)
+- Rockies ([for](/post/for/) [a](/post/a/) [specific](/post/specific/) [range](/post/range/) [of](/post/of/) mountains)
+- Mountainous [region](/post/region/)

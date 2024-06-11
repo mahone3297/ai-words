@@ -11,20 +11,20 @@ keywords = ['ai words', 'youth']
 /juːθ/
 
 ## 释义
-- **名词 (n)**: 青春，年轻时期。例如: "[In](/post/in/) [their](/post/their/) [youth](/post/youth/), [they](/post/they/) were [full](/post/full/) [of](/post/of/) [energy](/post/energy/) [and](/post/and/) dreams."
-- **名词 (n)**: 年轻人，青年人。例如: "[The](/post/the/) [youth](/post/youth/) [of](/post/of/) [today](/post/today/) are [more](/post/more/) tech-savvy [than](/post/than/) [previous](/post/previous/) generations."
+- **名词 (n)**: 青春，年轻时期。例如: "[In](/zh/post/in/) [their](/zh/post/their/) [youth](/zh/post/youth/), [they](/zh/post/they/) were [full](/zh/post/full/) [of](/zh/post/of/) [energy](/zh/post/energy/) [and](/zh/post/and/) dreams."
+- **名词 (n)**: 年轻人，青年人。例如: "[The](/zh/post/the/) [youth](/zh/post/youth/) [of](/zh/post/of/) [today](/zh/post/today/) are [more](/zh/post/more/) tech-savvy [than](/zh/post/than/) [previous](/zh/post/previous/) generations."
 
 ## 短语
-- "[Youth](/post/youth/) [movement](/post/movement/)" 指的是年轻人参与的社会或政治运动。
-- "[Youthful](/post/youthful/) [enthusiasm](/post/enthusiasm/)" 意为年轻人特有的热情和活力。
+- "[Youth](/zh/post/youth/) [movement](/zh/post/movement/)" 指的是年轻人参与的社会或政治运动。
+- "[Youthful](/zh/post/youthful/) [enthusiasm](/zh/post/enthusiasm/)" 意为年轻人特有的热情和活力。
 
 ## 例句
-- 名词: "[The](/post/the/) memories [of](/post/of/) [my](/post/my/) [youth](/post/youth/) are filled [with](/post/with/) adventures [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/)."
-- 名词: "[Many](/post/many/) [youth](/post/youth/) organizations [aim](/post/aim/) [to](/post/to/) empower [and](/post/and/) [educate](/post/educate/) [young](/post/young/) [people](/post/people/)."
+- 名词: "[The](/zh/post/the/) memories [of](/zh/post/of/) [my](/zh/post/my/) [youth](/zh/post/youth/) are filled [with](/zh/post/with/) adventures [in](/zh/post/in/) [the](/zh/post/the/) [countryside](/zh/post/countryside/)."
+- 名词: "[Many](/zh/post/many/) [youth](/zh/post/youth/) organizations [aim](/zh/post/aim/) [to](/zh/post/to/) empower [and](/zh/post/and/) [educate](/zh/post/educate/) [young](/zh/post/young/) [people](/zh/post/people/)."
 
 ## 同义词
 - Adolescence
 - Teenage years
-- [Early](/post/early/) [life](/post/life/)
+- [Early](/zh/post/early/) [life](/zh/post/life/)
 - Formative years
-- [Springtime](/post/springtime/) [of](/post/of/) [life](/post/life/)
+- [Springtime](/zh/post/springtime/) [of](/zh/post/of/) [life](/zh/post/life/)

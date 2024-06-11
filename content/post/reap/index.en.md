@@ -7,34 +7,34 @@ description = '[riːp] vt.&vi.收割，收获'
 keywords = ['ai words', 'reap']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈep/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [gather](/en/post/gather/) ([harvest](/en/post/harvest/)) crops, [especially](/en/post/especially/) [after](/en/post/after/) [they](/en/post/they/) [have](/en/post/have/) ripened; [to](/en/post/to/) [gather](/en/post/gather/) [the](/en/post/the/) fruits [or](/en/post/or/) rewards [of](/en/post/of/) one's labor, [effort](/en/post/effort/), [or](/en/post/or/) actions. (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) harvesting [or](/en/post/or/) [the](/en/post/the/) gathered [produce](/en/post/produce/).
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [gather](/post/gather/) ([harvest](/post/harvest/)) crops, [especially](/post/especially/) [after](/post/after/) [they](/post/they/) [have](/post/have/) ripened; [to](/post/to/) [gather](/post/gather/) [the](/post/the/) fruits [or](/post/or/) rewards [of](/post/of/) one's labor, [effort](/post/effort/), [or](/post/or/) actions. (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) harvesting [or](/post/or/) [the](/post/the/) gathered [produce](/post/produce/).
 
 ## Phrases
-- "[Reap](/en/post/reap/) [the](/en/post/the/) benefits" [means](/en/post/means/) [to](/en/post/to/) [enjoy](/en/post/enjoy/) [the](/en/post/the/) advantages [or](/en/post/or/) rewards [of](/en/post/of/) [something](/en/post/something/).
-- "Reaping [season](/en/post/season/)" refers [to](/en/post/to/) [the](/en/post/the/) [time](/en/post/time/) [when](/en/post/when/) crops are harvested.
-- "[Reap](/en/post/reap/) [what](/en/post/what/) [you](/en/post/you/) [sow](/en/post/sow/)" is [a](/en/post/a/) proverb suggesting [that](/en/post/that/) [the](/en/post/the/) consequences [of](/en/post/of/) one's actions [will](/en/post/will/) [come](/en/post/come/) [back](/en/post/back/) [to](/en/post/to/) [them](/en/post/them/).
+- "[Reap](/post/reap/) [the](/post/the/) benefits" [means](/post/means/) [to](/post/to/) [enjoy](/post/enjoy/) [the](/post/the/) advantages [or](/post/or/) rewards [of](/post/of/) [something](/post/something/).
+- "Reaping [season](/post/season/)" refers [to](/post/to/) [the](/post/the/) [time](/post/time/) [when](/post/when/) crops are harvested.
+- "[Reap](/post/reap/) [what](/post/what/) [you](/post/you/) [sow](/post/sow/)" is [a](/post/a/) proverb suggesting [that](/post/that/) [the](/post/the/) consequences [of](/post/of/) one's actions [will](/post/will/) [come](/post/come/) [back](/post/back/) [to](/post/to/) [them](/post/them/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) spent [all](/en/post/all/) [day](/en/post/day/) reaping [the](/en/post/the/) [wheat](/en/post/wheat/) [field](/en/post/field/)."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [he](/en/post/he/) enjoyed [the](/en/post/the/) bountiful [harvest](/en/post/harvest/) [he](/en/post/he/) had reaped."
-- "[His](/en/post/his/) dedication [at](/en/post/at/) [work](/en/post/work/) [eventually](/en/post/eventually/) led [to](/en/post/to/) [a](/en/post/a/) [successful](/en/post/successful/) reaping [of](/en/post/of/) promotions."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [farmer](/post/farmer/) spent [all](/post/all/) [day](/post/day/) reaping [the](/post/the/) [wheat](/post/wheat/) [field](/post/field/)."
+- **[Noun](/post/noun/)**: "[After](/post/after/) months [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) enjoyed [the](/post/the/) bountiful [harvest](/post/harvest/) [he](/post/he/) had reaped."
+- "[His](/post/his/) dedication [at](/post/at/) [work](/post/work/) [eventually](/post/eventually/) led [to](/post/to/) [a](/post/a/) [successful](/post/successful/) reaping [of](/post/of/) promotions."
 
 ## Synonyms
-- [Gather](/en/post/gather/)
-- [Harvest](/en/post/harvest/)
-- [Collect](/en/post/collect/)
-- [Obtain](/en/post/obtain/)
-- [Earn](/en/post/earn/)
-- [Seize](/en/post/seize/)
-- [Realize](/en/post/realize/)
+- [Gather](/post/gather/)
+- [Harvest](/post/harvest/)
+- [Collect](/post/collect/)
+- [Obtain](/post/obtain/)
+- [Earn](/post/earn/)
+- [Seize](/post/seize/)
+- [Realize](/post/realize/)
 
 ## Antonyms
-- [Sow](/en/post/sow/) (implies planting [or](/en/post/or/) causing [something](/en/post/something/) [to](/en/post/to/) [grow](/en/post/grow/))
-- [Scatter](/en/post/scatter/)
-- [Waste](/en/post/waste/)
-- [Miss](/en/post/miss/)
-- [Lose](/en/post/lose/)
+- [Sow](/post/sow/) (implies planting [or](/post/or/) causing [something](/post/something/) [to](/post/to/) [grow](/post/grow/))
+- [Scatter](/post/scatter/)
+- [Waste](/post/waste/)
+- [Miss](/post/miss/)
+- [Lose](/post/lose/)

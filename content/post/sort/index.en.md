@@ -7,39 +7,39 @@ description = '[sɔːt] n.种类；类别 vt.整理'
 keywords = ['ai words', 'sort']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɔːrt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [type](/en/post/type/) [or](/en/post/or/) category**: [A](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [classify](/en/post/classify/) [or](/en/post/or/) [arrange](/en/post/arrange/) items based [on](/en/post/on/) shared characteristics. [For](/en/post/for/) [example](/en/post/example/): "[Sort](/en/post/sort/) [the](/en/post/the/) books [by](/en/post/by/) [author](/en/post/author/)."
-- **[The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) arranging**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) putting things [in](/en/post/in/) [order](/en/post/order/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sorted [the](/en/post/the/) [mail](/en/post/mail/) [into](/en/post/into/) [different](/en/post/different/) piles."
-- **Sorting [out](/en/post/out/)**: Resolving [or](/en/post/or/) determining [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [sort](/en/post/sort/) [out](/en/post/out/) [the](/en/post/the/) logistics [for](/en/post/for/) [the](/en/post/the/) [event](/en/post/event/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [type](/post/type/) [or](/post/or/) category**: [A](/post/a/) [way](/post/way/) [to](/post/to/) [classify](/post/classify/) [or](/post/or/) [arrange](/post/arrange/) items based [on](/post/on/) shared characteristics. [For](/post/for/) [example](/post/example/): "[Sort](/post/sort/) [the](/post/the/) books [by](/post/by/) [author](/post/author/)."
+- **[The](/post/the/) [act](/post/act/) [of](/post/of/) arranging**: [The](/post/the/) [process](/post/process/) [of](/post/of/) putting things [in](/post/in/) [order](/post/order/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) sorted [the](/post/the/) [mail](/post/mail/) [into](/post/into/) [different](/post/different/) piles."
+- **Sorting [out](/post/out/)**: Resolving [or](/post/or/) determining [something](/post/something/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [sort](/post/sort/) [out](/post/out/) [the](/post/the/) logistics [for](/post/for/) [the](/post/the/) [event](/post/event/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [arrange](/en/post/arrange/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [order](/en/post/order/)**: [Place](/en/post/place/) items [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [sequence](/en/post/sequence/) [or](/en/post/or/) [classification](/en/post/classification/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [sort](/en/post/sort/) [the](/en/post/the/) [laundry](/en/post/laundry/) according [to](/en/post/to/) [color](/en/post/color/)."
-- **[To](/en/post/to/) [determine](/en/post/determine/) [the](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [character](/en/post/character/) [of](/en/post/of/)**: [Judge](/en/post/judge/) [or](/en/post/or/) [evaluate](/en/post/evaluate/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) sorted [through](/en/post/through/) [the](/en/post/the/) applicants based [on](/en/post/on/) [their](/en/post/their/) qualifications."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [arrange](/post/arrange/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [order](/post/order/)**: [Place](/post/place/) items [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [sequence](/post/sequence/) [or](/post/or/) [classification](/post/classification/). [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [sort](/post/sort/) [the](/post/the/) [laundry](/post/laundry/) according [to](/post/to/) [color](/post/color/)."
+- **[To](/post/to/) [determine](/post/determine/) [the](/post/the/) [quality](/post/quality/) [or](/post/or/) [character](/post/character/) [of](/post/of/)**: [Judge](/post/judge/) [or](/post/or/) [evaluate](/post/evaluate/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) sorted [through](/post/through/) [the](/post/the/) applicants based [on](/post/on/) [their](/post/their/) qualifications."
 
-### [Adjective](/en/post/adjective/)
-- **Ordered [or](/en/post/or/) organized**: Having [a](/en/post/a/) [clear](/en/post/clear/) [structure](/en/post/structure/) [or](/en/post/or/) [arrangement](/en/post/arrangement/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was beautifully sorted [with](/en/post/with/) rows [of](/en/post/of/) flowers."
+### [Adjective](/post/adjective/)
+- **Ordered [or](/post/or/) organized**: Having [a](/post/a/) [clear](/post/clear/) [structure](/post/structure/) [or](/post/or/) [arrangement](/post/arrangement/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was beautifully sorted [with](/post/with/) rows [of](/post/of/) flowers."
 
 ## Phrases
-- "[Sort](/en/post/sort/) [through](/en/post/through/)" [means](/en/post/means/) [to](/en/post/to/) [examine](/en/post/examine/) [or](/en/post/or/) [go](/en/post/go/) [through](/en/post/through/) items [one](/en/post/one/) [by](/en/post/by/) [one](/en/post/one/).
-- "[Sort](/en/post/sort/) [of](/en/post/of/)" is an informal [way](/en/post/way/) [to](/en/post/to/) [indicate](/en/post/indicate/) [approximate](/en/post/approximate/) [agreement](/en/post/agreement/) [or](/en/post/or/) uncertainty. [For](/en/post/for/) [example](/en/post/example/): "It's [sort](/en/post/sort/) [of](/en/post/of/) [like](/en/post/like/) [that](/en/post/that/)."
-- "[Get](/en/post/get/) sorted" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [get](/en/post/get/) organized [or](/en/post/or/) settled.
+- "[Sort](/post/sort/) [through](/post/through/)" [means](/post/means/) [to](/post/to/) [examine](/post/examine/) [or](/post/or/) [go](/post/go/) [through](/post/through/) items [one](/post/one/) [by](/post/by/) [one](/post/one/).
+- "[Sort](/post/sort/) [of](/post/of/)" is an informal [way](/post/way/) [to](/post/to/) [indicate](/post/indicate/) [approximate](/post/approximate/) [agreement](/post/agreement/) [or](/post/or/) uncertainty. [For](/post/for/) [example](/post/example/): "It's [sort](/post/sort/) [of](/post/of/) [like](/post/like/) [that](/post/that/)."
+- "[Get](/post/get/) sorted" is [a](/post/a/) colloquial [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [get](/post/get/) organized [or](/post/or/) settled.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) students [to](/en/post/to/) [sort](/en/post/sort/) [the](/en/post/the/) marbles [by](/en/post/by/) [size](/en/post/size/)."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [sort](/en/post/sort/) [the](/en/post/the/) files [on](/en/post/on/) [my](/en/post/my/) [computer](/en/post/computer/) [before](/en/post/before/) I [can](/en/post/can/) [start](/en/post/start/) working."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [room](/en/post/room/) was sorted [and](/en/post/and/) [tidy](/en/post/tidy/), [with](/en/post/with/) [everything](/en/post/everything/) [in](/en/post/in/) [its](/en/post/its/) [place](/en/post/place/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [sort](/post/sort/) [the](/post/the/) marbles [by](/post/by/) [size](/post/size/)."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [sort](/post/sort/) [the](/post/the/) files [on](/post/on/) [my](/post/my/) [computer](/post/computer/) [before](/post/before/) I [can](/post/can/) [start](/post/start/) working."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [room](/post/room/) was sorted [and](/post/and/) [tidy](/post/tidy/), [with](/post/with/) [everything](/post/everything/) [in](/post/in/) [its](/post/its/) [place](/post/place/)."
 
 ## Synonyms
-- [Classify](/en/post/classify/)
+- [Classify](/post/classify/)
 - Categorize
-- [Arrange](/en/post/arrange/)
-- [Order](/en/post/order/)
+- [Arrange](/post/arrange/)
+- [Order](/post/order/)
 - Prioritize
-- [Group](/en/post/group/)
-- [Regulate](/en/post/regulate/)
-- [Tidy](/en/post/tidy/)
-- [Organize](/en/post/organize/)
+- [Group](/post/group/)
+- [Regulate](/post/regulate/)
+- [Tidy](/post/tidy/)
+- [Organize](/post/organize/)

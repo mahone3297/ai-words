@@ -11,20 +11,20 @@ keywords = ['ai words', 'sometime']
 /sʌmˈtaɪm/
 
 ## 释义
-- **副词**: 某个不确定的时间；某个时候。例如: "I'll [visit](/post/visit/) [you](/post/you/) [sometime](/post/sometime/) [next](/post/next/) [week](/post/week/)."
-- **形容词**: 以前的，从前的。例如: "[They](/post/they/) talked [about](/post/about/) [their](/post/their/) [sometime](/post/sometime/) friends [who](/post/who/) had moved [away](/post/away/)."
+- **副词**: 某个不确定的时间；某个时候。例如: "I'll [visit](/zh/post/visit/) [you](/zh/post/you/) [sometime](/zh/post/sometime/) [next](/zh/post/next/) [week](/zh/post/week/)."
+- **形容词**: 以前的，从前的。例如: "[They](/zh/post/they/) talked [about](/zh/post/about/) [their](/zh/post/their/) [sometime](/zh/post/sometime/) friends [who](/zh/post/who/) had moved [away](/zh/post/away/)."
 
 ## 短语
-- "[sometime](/post/sometime/) [in](/post/in/) [the](/post/the/) [future](/post/future/)" 表示未来的某个时间点。
-- "[sometime](/post/sometime/) [ago](/post/ago/)" 指的是过去的一段时间。
+- "[sometime](/zh/post/sometime/) [in](/zh/post/in/) [the](/zh/post/the/) [future](/zh/post/future/)" 表示未来的某个时间点。
+- "[sometime](/zh/post/sometime/) [ago](/zh/post/ago/)" 指的是过去的一段时间。
 
 ## 例句
-- 副词: "[We](/post/we/) [should](/post/should/) [catch](/post/catch/) [up](/post/up/) [sometime](/post/sometime/), [maybe](/post/maybe/) [over](/post/over/) [lunch](/post/lunch/)."
-- 形容词: "[That](/post/that/) was [our](/post/our/) [sometime](/post/sometime/) neighbor, [who](/post/who/) [we](/post/we/) haven't seen [for](/post/for/) years."
+- 副词: "[We](/zh/post/we/) [should](/zh/post/should/) [catch](/zh/post/catch/) [up](/zh/post/up/) [sometime](/zh/post/sometime/), [maybe](/zh/post/maybe/) [over](/zh/post/over/) [lunch](/zh/post/lunch/)."
+- 形容词: "[That](/zh/post/that/) was [our](/zh/post/our/) [sometime](/zh/post/sometime/) neighbor, [who](/zh/post/who/) [we](/zh/post/we/) haven't seen [for](/zh/post/for/) years."
 
 ## 同义词
-- [eventually](/post/eventually/)
-- [at](/post/at/) [some](/post/some/) [point](/post/point/)
-- [once](/post/once/) [upon](/post/upon/) [a](/post/a/) [time](/post/time/)
+- [eventually](/zh/post/eventually/)
+- [at](/zh/post/at/) [some](/zh/post/some/) [point](/zh/post/point/)
+- [once](/zh/post/once/) [upon](/zh/post/upon/) [a](/zh/post/a/) [time](/zh/post/time/)
 - formerly
-- [on](/post/on/) [occasion](/post/occasion/)
+- [on](/zh/post/on/) [occasion](/zh/post/occasion/)

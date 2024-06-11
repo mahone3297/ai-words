@@ -7,44 +7,44 @@ description = '[treid] n.贸易；职业 vi.交易'
 keywords = ['ai words', 'trade']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /trəɪd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) buying [and](/en/post/and/) selling [of](/en/post/of/) [goods](/en/post/goods/) [or](/en/post/or/) services [between](/en/post/between/) individuals, businesses, [or](/en/post/or/) countries, [often](/en/post/often/) involving [exchange](/en/post/exchange/) [of](/en/post/of/) [money](/en/post/money/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) global [trade](/en/post/trade/) [market](/en/post/market/) has seen [significant](/en/post/significant/) fluctuations [in](/en/post/in/) [recent](/en/post/recent/) years."
-2. An [activity](/en/post/activity/) [or](/en/post/or/) [profession](/en/post/profession/) involving [the](/en/post/the/) buying [and](/en/post/and/) selling [of](/en/post/of/) [goods](/en/post/goods/) [or](/en/post/or/) services.
-   - [Example](/en/post/example/): "[He](/en/post/he/) made [his](/en/post/his/) [living](/en/post/living/) [as](/en/post/as/) [a](/en/post/a/) trader [in](/en/post/in/) [the](/en/post/the/) [stock](/en/post/stock/) [market](/en/post/market/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) buying [and](/post/and/) selling [of](/post/of/) [goods](/post/goods/) [or](/post/or/) services [between](/post/between/) individuals, businesses, [or](/post/or/) countries, [often](/post/often/) involving [exchange](/post/exchange/) [of](/post/of/) [money](/post/money/).
+   - [Example](/post/example/): "[The](/post/the/) global [trade](/post/trade/) [market](/post/market/) has seen [significant](/post/significant/) fluctuations [in](/post/in/) [recent](/post/recent/) years."
+2. An [activity](/post/activity/) [or](/post/or/) [profession](/post/profession/) involving [the](/post/the/) buying [and](/post/and/) selling [of](/post/of/) [goods](/post/goods/) [or](/post/or/) services.
+   - [Example](/post/example/): "[He](/post/he/) made [his](/post/his/) [living](/post/living/) [as](/post/as/) [a](/post/a/) trader [in](/post/in/) [the](/post/the/) [stock](/post/stock/) [market](/post/market/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) buying [and](/en/post/and/) selling [goods](/en/post/goods/) [or](/en/post/or/) services.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) trades products [with](/en/post/with/) [several](/en/post/several/) [international](/en/post/international/) partners."
-2. [To](/en/post/to/) [exchange](/en/post/exchange/) [one](/en/post/one/) [thing](/en/post/thing/) [for](/en/post/for/) [another](/en/post/another/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [commercial](/en/post/commercial/) transaction.
-   - [Example](/en/post/example/): "[She](/en/post/she/) traded [her](/en/post/her/) [old](/en/post/old/) [car](/en/post/car/) [for](/en/post/for/) [a](/en/post/a/) newer [model](/en/post/model/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [the](/post/the/) [act](/post/act/) [of](/post/of/) buying [and](/post/and/) selling [goods](/post/goods/) [or](/post/or/) services.
+   - [Example](/post/example/): "[The](/post/the/) [company](/post/company/) trades products [with](/post/with/) [several](/post/several/) [international](/post/international/) partners."
+2. [To](/post/to/) [exchange](/post/exchange/) [one](/post/one/) [thing](/post/thing/) [for](/post/for/) [another](/post/another/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [commercial](/post/commercial/) transaction.
+   - [Example](/post/example/): "[She](/post/she/) traded [her](/post/her/) [old](/post/old/) [car](/post/car/) [for](/post/for/) [a](/post/a/) newer [model](/post/model/)."
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [commerce](/en/post/commerce/) [or](/en/post/or/) commerce-related activities.
-   - [Example](/en/post/example/): "[The](/en/post/the/) city's [economy](/en/post/economy/) is [heavily](/en/post/heavily/) trade-dependent."
-2. [Concerning](/en/post/concerning/) [the](/en/post/the/) [transfer](/en/post/transfer/) [of](/en/post/of/) [goods](/en/post/goods/) [or](/en/post/or/) services [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [trade](/en/post/trade/) routes were [vital](/en/post/vital/) [for](/en/post/for/) [ancient](/en/post/ancient/) civilizations."
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) [commerce](/post/commerce/) [or](/post/or/) commerce-related activities.
+   - [Example](/post/example/): "[The](/post/the/) city's [economy](/post/economy/) is [heavily](/post/heavily/) trade-dependent."
+2. [Concerning](/post/concerning/) [the](/post/the/) [transfer](/post/transfer/) [of](/post/of/) [goods](/post/goods/) [or](/post/or/) services [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/).
+   - [Example](/post/example/): "[The](/post/the/) [trade](/post/trade/) routes were [vital](/post/vital/) [for](/post/for/) [ancient](/post/ancient/) civilizations."
 
 ## Phrases
-- "[Enter](/en/post/enter/) [into](/en/post/into/) [a](/en/post/a/) [trade](/en/post/trade/) [agreement](/en/post/agreement/)" [means](/en/post/means/) [to](/en/post/to/) negotiate [and](/en/post/and/) formalize [a](/en/post/a/) [deal](/en/post/deal/) [between](/en/post/between/) parties.
-- "[Trade](/en/post/trade/) deficit" refers [to](/en/post/to/) [when](/en/post/when/) [a](/en/post/a/) [country](/en/post/country/) imports [more](/en/post/more/) [than](/en/post/than/) [it](/en/post/it/) exports.
-- "[Trade](/en/post/trade/) [union](/en/post/union/)" is [a](/en/post/a/) [group](/en/post/group/) [that](/en/post/that/) represents workers [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [industry](/en/post/industry/) [for](/en/post/for/) [better](/en/post/better/) wages [and](/en/post/and/) working conditions.
+- "[Enter](/post/enter/) [into](/post/into/) [a](/post/a/) [trade](/post/trade/) [agreement](/post/agreement/)" [means](/post/means/) [to](/post/to/) negotiate [and](/post/and/) formalize [a](/post/a/) [deal](/post/deal/) [between](/post/between/) parties.
+- "[Trade](/post/trade/) deficit" refers [to](/post/to/) [when](/post/when/) [a](/post/a/) [country](/post/country/) imports [more](/post/more/) [than](/post/than/) [it](/post/it/) exports.
+- "[Trade](/post/trade/) [union](/post/union/)" is [a](/post/a/) [group](/post/group/) [that](/post/that/) represents workers [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [industry](/post/industry/) [for](/post/for/) [better](/post/better/) wages [and](/post/and/) working conditions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [trade](/en/post/trade/) [fair](/en/post/fair/) attracted buyers [and](/en/post/and/) sellers [from](/en/post/from/) [all](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [world](/en/post/world/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) [recently](/en/post/recently/) entered [into](/en/post/into/) [a](/en/post/a/) [trade](/en/post/trade/) [deal](/en/post/deal/) [with](/en/post/with/) [a](/en/post/a/) European [partner](/en/post/partner/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [trade](/en/post/trade/) [route](/en/post/route/) was well-established [between](/en/post/between/) [Asia](/en/post/asia/) [and](/en/post/and/) Europe [during](/en/post/during/) [the](/en/post/the/) [Silk](/en/post/silk/) [Road](/en/post/road/) [era](/en/post/era/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [trade](/post/trade/) [fair](/post/fair/) attracted buyers [and](/post/and/) sellers [from](/post/from/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [world](/post/world/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [company](/post/company/) [recently](/post/recently/) entered [into](/post/into/) [a](/post/a/) [trade](/post/trade/) [deal](/post/deal/) [with](/post/with/) [a](/post/a/) European [partner](/post/partner/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [trade](/post/trade/) [route](/post/route/) was well-established [between](/post/between/) [Asia](/post/asia/) [and](/post/and/) Europe [during](/post/during/) [the](/post/the/) [Silk](/post/silk/) [Road](/post/road/) [era](/post/era/)."
 
 ## Synonyms
-- [Exchange](/en/post/exchange/)
-- [Commerce](/en/post/commerce/)
+- [Exchange](/post/exchange/)
+- [Commerce](/post/commerce/)
 - Negotiation
-- [Deal](/en/post/deal/) making
-- Buying [and](/en/post/and/) selling
-- Exchanging [goods](/en/post/goods/)
+- [Deal](/post/deal/) making
+- Buying [and](/post/and/) selling
+- Exchanging [goods](/post/goods/)
 - Barter
-- [Commercial](/en/post/commercial/) transactions
+- [Commercial](/post/commercial/) transactions

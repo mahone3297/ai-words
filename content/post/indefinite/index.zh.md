@@ -11,20 +11,20 @@ keywords = ['ai words', 'indefinite']
 /ɪnˈdɪfɪnət/
 
 ## 释义
-- **形容词**: 不确定的，未限定的，无边界的。例如: "[The](/post/the/) [future](/post/future/) is [indefinite](/post/indefinite/) [and](/post/and/) [full](/post/full/) [of](/post/of/) possibilities."
-- **名词**: 不定冠词，通常指一个不确定或无特定数量的人或物。例如: "[There](/post/there/) are [some](/post/some/) [indefinite](/post/indefinite/) articles [in](/post/in/) English, [such](/post/such/) [as](/post/as/) '[a](/post/a/)' [and](/post/and/) 'an'."
+- **形容词**: 不确定的，未限定的，无边界的。例如: "[The](/zh/post/the/) [future](/zh/post/future/) is [indefinite](/zh/post/indefinite/) [and](/zh/post/and/) [full](/zh/post/full/) [of](/zh/post/of/) possibilities."
+- **名词**: 不定冠词，通常指一个不确定或无特定数量的人或物。例如: "[There](/zh/post/there/) are [some](/zh/post/some/) [indefinite](/zh/post/indefinite/) articles [in](/zh/post/in/) English, [such](/zh/post/such/) [as](/zh/post/as/) '[a](/zh/post/a/)' [and](/zh/post/and/) 'an'."
 
 ## 短语
-- "[indefinite](/post/indefinite/) [quantity](/post/quantity/)" 表示不确定的数量。
-- "[indefinite](/post/indefinite/) [period](/post/period/)" 表示不确定的时间段。
+- "[indefinite](/zh/post/indefinite/) [quantity](/zh/post/quantity/)" 表示不确定的数量。
+- "[indefinite](/zh/post/indefinite/) [period](/zh/post/period/)" 表示不确定的时间段。
 
 ## 例句
-- 形容词: "[The](/post/the/) [contract](/post/contract/) has an [indefinite](/post/indefinite/) [duration](/post/duration/), [which](/post/which/) [means](/post/means/) [it](/post/it/) [can](/post/can/) [continue](/post/continue/) [without](/post/without/) [a](/post/a/) fixed [end](/post/end/) [date](/post/date/)."
-- 名词: "[The](/post/the/) [indefinite](/post/indefinite/) [article](/post/article/) '[a](/post/a/)' is [used](/post/used/) [before](/post/before/) countable nouns [when](/post/when/) [their](/post/their/) [quantity](/post/quantity/) is unspecified."
+- 形容词: "[The](/zh/post/the/) [contract](/zh/post/contract/) has an [indefinite](/zh/post/indefinite/) [duration](/zh/post/duration/), [which](/zh/post/which/) [means](/zh/post/means/) [it](/zh/post/it/) [can](/zh/post/can/) [continue](/zh/post/continue/) [without](/zh/post/without/) [a](/zh/post/a/) fixed [end](/zh/post/end/) [date](/zh/post/date/)."
+- 名词: "[The](/zh/post/the/) [indefinite](/zh/post/indefinite/) [article](/zh/post/article/) '[a](/zh/post/a/)' is [used](/zh/post/used/) [before](/zh/post/before/) countable nouns [when](/zh/post/when/) [their](/zh/post/their/) [quantity](/zh/post/quantity/) is unspecified."
 
 ## 同义词
-- [Uncertain](/post/uncertain/)
-- [Vague](/post/vague/)
+- [Uncertain](/zh/post/uncertain/)
+- [Vague](/zh/post/vague/)
 - Ambiguous
 - Indistinct
 - Unlimited

@@ -12,22 +12,22 @@ keywords = ['ai words', 'lesson']
 
 ## 释义
 - **名词 n**:
-  1. 课程，一堂课：[A](/post/a/) planned [period](/post/period/) [of](/post/of/) [teaching](/post/teaching/) [or](/post/or/) [learning](/post/learning/), typically [in](/post/in/) [a](/post/a/) [school](/post/school/) [or](/post/or/) [college](/post/college/).
-    - 例句: "[We](/post/we/) [have](/post/have/) [a](/post/a/) math [lesson](/post/lesson/) [every](/post/every/) [morning](/post/morning/)."
-  2. 教训，经验：[Something](/post/something/) [that](/post/that/) is [learned](/post/learned/) [from](/post/from/) an [experience](/post/experience/) [or](/post/or/) [event](/post/event/).
-    - 例句: "[That](/post/that/) [mistake](/post/mistake/) was [a](/post/a/) [valuable](/post/valuable/) [lesson](/post/lesson/) [for](/post/for/) [all](/post/all/) [of](/post/of/) [us](/post/us/)."
+  1. 课程，一堂课：[A](/zh/post/a/) planned [period](/zh/post/period/) [of](/zh/post/of/) [teaching](/zh/post/teaching/) [or](/zh/post/or/) [learning](/zh/post/learning/), typically [in](/zh/post/in/) [a](/zh/post/a/) [school](/zh/post/school/) [or](/zh/post/or/) [college](/zh/post/college/).
+    - 例句: "[We](/zh/post/we/) [have](/zh/post/have/) [a](/zh/post/a/) math [lesson](/zh/post/lesson/) [every](/zh/post/every/) [morning](/zh/post/morning/)."
+  2. 教训，经验：[Something](/zh/post/something/) [that](/zh/post/that/) is [learned](/zh/post/learned/) [from](/zh/post/from/) an [experience](/zh/post/experience/) [or](/zh/post/or/) [event](/zh/post/event/).
+    - 例句: "[That](/zh/post/that/) [mistake](/zh/post/mistake/) was [a](/zh/post/a/) [valuable](/zh/post/valuable/) [lesson](/zh/post/lesson/) [for](/zh/post/for/) [all](/zh/post/all/) [of](/zh/post/of/) [us](/zh/post/us/)."
 
 ## 短语
-- "[Learn](/post/learn/) [a](/post/a/) [lesson](/post/lesson/)" 意味着从经历或错误中吸取教训。
-- "[Teach](/post/teach/) [someone](/post/someone/) [a](/post/a/) [lesson](/post/lesson/)" 是指给某人一个教训，让他们明白错误所在。
+- "[Learn](/zh/post/learn/) [a](/zh/post/a/) [lesson](/zh/post/lesson/)" 意味着从经历或错误中吸取教训。
+- "[Teach](/zh/post/teach/) [someone](/zh/post/someone/) [a](/zh/post/a/) [lesson](/zh/post/lesson/)" 是指给某人一个教训，让他们明白错误所在。
 
 ## 例句
-- 名词: "[The](/post/the/) [teacher](/post/teacher/) prepared [a](/post/a/) [new](/post/new/) [lesson](/post/lesson/) [on](/post/on/) [grammar](/post/grammar/) [for](/post/for/) [her](/post/her/) students."
-- 教训: "[After](/post/after/) losing [the](/post/the/) [game](/post/game/), [they](/post/they/) [learned](/post/learned/) [the](/post/the/) [importance](/post/importance/) [of](/post/of/) teamwork."
+- 名词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) prepared [a](/zh/post/a/) [new](/zh/post/new/) [lesson](/zh/post/lesson/) [on](/zh/post/on/) [grammar](/zh/post/grammar/) [for](/zh/post/for/) [her](/zh/post/her/) students."
+- 教训: "[After](/zh/post/after/) losing [the](/zh/post/the/) [game](/zh/post/game/), [they](/zh/post/they/) [learned](/zh/post/learned/) [the](/zh/post/the/) [importance](/zh/post/importance/) [of](/zh/post/of/) teamwork."
 
 ## 同义词
-- [Class](/post/class/)
+- [Class](/zh/post/class/)
 - Tutorial
-- [Session](/post/session/)
-- [Course](/post/course/)
-- [Teaching](/post/teaching/)
+- [Session](/zh/post/session/)
+- [Course](/zh/post/course/)
+- [Teaching](/zh/post/teaching/)

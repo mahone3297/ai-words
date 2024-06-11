@@ -11,23 +11,23 @@ keywords = ['ai words', 'clean']
 /klɪːn/
 
 ## 释义
-- **形容词**: 干净的，整洁的。例如: "[The](/post/the/) [room](/post/room/) was [clean](/post/clean/) [and](/post/and/) [tidy](/post/tidy/)."
-- **动词**: 清洁，打扫。例如: "I [need](/post/need/) [to](/post/to/) [clean](/post/clean/) [my](/post/my/) [car](/post/car/) [before](/post/before/) [the](/post/the/) [weekend](/post/weekend/)."
-- **名词**: 清洁工作。例如: "[She](/post/she/) does [the](/post/the/) [clean](/post/clean/) [every](/post/every/) [morning](/post/morning/)."
+- **形容词**: 干净的，整洁的。例如: "[The](/zh/post/the/) [room](/zh/post/room/) was [clean](/zh/post/clean/) [and](/zh/post/and/) [tidy](/zh/post/tidy/)."
+- **动词**: 清洁，打扫。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [clean](/zh/post/clean/) [my](/zh/post/my/) [car](/zh/post/car/) [before](/zh/post/before/) [the](/zh/post/the/) [weekend](/zh/post/weekend/)."
+- **名词**: 清洁工作。例如: "[She](/zh/post/she/) does [the](/zh/post/the/) [clean](/zh/post/clean/) [every](/zh/post/every/) [morning](/zh/post/morning/)."
 
 ## 短语
-- "[clean](/post/clean/) [up](/post/up/)" 打扫，清理。例如: "Let's [clean](/post/clean/) [up](/post/up/) [the](/post/the/) [kitchen](/post/kitchen/) [after](/post/after/) [dinner](/post/dinner/)."
-- "[clean](/post/clean/) slate" 重新开始，清白的状态。例如: "Starting [a](/post/a/) [new](/post/new/) [job](/post/job/) is [like](/post/like/) having [a](/post/a/) [clean](/post/clean/) slate."
-- "[clean](/post/clean/) [energy](/post/energy/)" 清洁能源，无污染的能源。例如: "Investing [in](/post/in/) [clean](/post/clean/) [energy](/post/energy/) is [essential](/post/essential/) [for](/post/for/) [the](/post/the/) [environment](/post/environment/)."
+- "[clean](/zh/post/clean/) [up](/zh/post/up/)" 打扫，清理。例如: "Let's [clean](/zh/post/clean/) [up](/zh/post/up/) [the](/zh/post/the/) [kitchen](/zh/post/kitchen/) [after](/zh/post/after/) [dinner](/zh/post/dinner/)."
+- "[clean](/zh/post/clean/) slate" 重新开始，清白的状态。例如: "Starting [a](/zh/post/a/) [new](/zh/post/new/) [job](/zh/post/job/) is [like](/zh/post/like/) having [a](/zh/post/a/) [clean](/zh/post/clean/) slate."
+- "[clean](/zh/post/clean/) [energy](/zh/post/energy/)" 清洁能源，无污染的能源。例如: "Investing [in](/zh/post/in/) [clean](/zh/post/clean/) [energy](/zh/post/energy/) is [essential](/zh/post/essential/) [for](/zh/post/for/) [the](/zh/post/the/) [environment](/zh/post/environment/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) [newly](/post/newly/) painted walls looked [clean](/post/clean/) [and](/post/and/) [fresh](/post/fresh/)."
-- 动词: "[He](/post/he/) spent [the](/post/the/) [afternoon](/post/afternoon/) cleaning [the](/post/the/) windows."
-- 名词: "Doing [a](/post/a/) [good](/post/good/) [clean](/post/clean/) is [important](/post/important/) [to](/post/to/) [maintain](/post/maintain/) hygiene."
+- 形容词: "[The](/zh/post/the/) [newly](/zh/post/newly/) painted walls looked [clean](/zh/post/clean/) [and](/zh/post/and/) [fresh](/zh/post/fresh/)."
+- 动词: "[He](/zh/post/he/) spent [the](/zh/post/the/) [afternoon](/zh/post/afternoon/) cleaning [the](/zh/post/the/) windows."
+- 名词: "Doing [a](/zh/post/a/) [good](/zh/post/good/) [clean](/zh/post/clean/) is [important](/zh/post/important/) [to](/zh/post/to/) [maintain](/zh/post/maintain/) hygiene."
 
 ## 同义词
-- [Tidy](/post/tidy/)
-- [Neat](/post/neat/)
+- [Tidy](/zh/post/tidy/)
+- [Neat](/zh/post/neat/)
 - Spotless
 - Sanitize
-- [Fresh](/post/fresh/)
+- [Fresh](/zh/post/fresh/)

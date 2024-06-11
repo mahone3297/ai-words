@@ -7,41 +7,41 @@ description = '[jɑːd] n.码'
 keywords = ['ai words', 'yard']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjɑːrd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [length](/en/post/length/) [in](/en/post/in/) [the](/en/post/the/) imperial [system](/en/post/system/), [equal](/en/post/equal/) [to](/en/post/to/) 3 feet [or](/en/post/or/) [approximately](/en/post/approximately/) 0.914 meters. [Example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was [about](/en/post/about/) 20 yards [long](/en/post/long/)."
-2. An [area](/en/post/area/) enclosed [by](/en/post/by/) [a](/en/post/a/) [fence](/en/post/fence/) [or](/en/post/or/) [wall](/en/post/wall/), [often](/en/post/often/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [private](/en/post/private/) [outdoor](/en/post/outdoor/) [space](/en/post/space/) [in](/en/post/in/) [a](/en/post/a/) residential [area](/en/post/area/). [Example](/en/post/example/): "[She](/en/post/she/) spent [her](/en/post/her/) weekends working [on](/en/post/on/) [her](/en/post/her/) backyard."
-3. ([American](/en/post/american/)) [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) livestock, [especially](/en/post/especially/) horses, are kept. [Example](/en/post/example/): "[The](/en/post/the/) [horse](/en/post/horse/) [stable](/en/post/stable/) was located [in](/en/post/in/) [the](/en/post/the/) [back](/en/post/back/) [of](/en/post/of/) [the](/en/post/the/) [yard](/en/post/yard/)."
-4. (Informal) [A](/en/post/a/) [basketball](/en/post/basketball/) [court](/en/post/court/). [Example](/en/post/example/): "[The](/en/post/the/) kids were playing [basketball](/en/post/basketball/) [in](/en/post/in/) [the](/en/post/the/) schoolyard."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [length](/post/length/) [in](/post/in/) [the](/post/the/) imperial [system](/post/system/), [equal](/post/equal/) [to](/post/to/) 3 feet [or](/post/or/) [approximately](/post/approximately/) 0.914 meters. [Example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was [about](/post/about/) 20 yards [long](/post/long/)."
+2. An [area](/post/area/) enclosed [by](/post/by/) [a](/post/a/) [fence](/post/fence/) [or](/post/or/) [wall](/post/wall/), [often](/post/often/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [private](/post/private/) [outdoor](/post/outdoor/) [space](/post/space/) [in](/post/in/) [a](/post/a/) residential [area](/post/area/). [Example](/post/example/): "[She](/post/she/) spent [her](/post/her/) weekends working [on](/post/on/) [her](/post/her/) backyard."
+3. ([American](/post/american/)) [A](/post/a/) [place](/post/place/) [where](/post/where/) livestock, [especially](/post/especially/) horses, are kept. [Example](/post/example/): "[The](/post/the/) [horse](/post/horse/) [stable](/post/stable/) was located [in](/post/in/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [the](/post/the/) [yard](/post/yard/)."
+4. (Informal) [A](/post/a/) [basketball](/post/basketball/) [court](/post/court/). [Example](/post/example/): "[The](/post/the/) kids were playing [basketball](/post/basketball/) [in](/post/in/) [the](/post/the/) schoolyard."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [measure](/en/post/measure/) [or](/en/post/or/) [indicate](/en/post/indicate/) [the](/en/post/the/) [size](/en/post/size/) [of](/en/post/of/) an [area](/en/post/area/) [in](/en/post/in/) yards. [Example](/en/post/example/): "[The](/en/post/the/) contractor measured [the](/en/post/the/) [yard](/en/post/yard/) [to](/en/post/to/) [determine](/en/post/determine/) [the](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [grass](/en/post/grass/) [seed](/en/post/seed/) needed."
+### [Verb](/post/verb/)
+[To](/post/to/) [measure](/post/measure/) [or](/post/or/) [indicate](/post/indicate/) [the](/post/the/) [size](/post/size/) [of](/post/of/) an [area](/post/area/) [in](/post/in/) yards. [Example](/post/example/): "[The](/post/the/) contractor measured [the](/post/the/) [yard](/post/yard/) [to](/post/to/) [determine](/post/determine/) [the](/post/the/) [amount](/post/amount/) [of](/post/of/) [grass](/post/grass/) [seed](/post/seed/) needed."
 
-### [Adjective](/en/post/adjective/)
-1. Designating [a](/en/post/a/) [measurement](/en/post/measurement/) [or](/en/post/or/) [distance](/en/post/distance/) [of](/en/post/of/) [one](/en/post/one/) [yard](/en/post/yard/). [Example](/en/post/example/): "[A](/en/post/a/) [standard](/en/post/standard/) [soccer](/en/post/soccer/) [field](/en/post/field/) is 100 yards [long](/en/post/long/)."
-2. (Informal) [Familiar](/en/post/familiar/) [or](/en/post/or/) [local](/en/post/local/). [Example](/en/post/example/): "[The](/en/post/the/) neighborhood [yard](/en/post/yard/) [sale](/en/post/sale/) was [a](/en/post/a/) [great](/en/post/great/) [way](/en/post/way/) [to](/en/post/to/) [meet](/en/post/meet/) [the](/en/post/the/) locals."
+### [Adjective](/post/adjective/)
+1. Designating [a](/post/a/) [measurement](/post/measurement/) [or](/post/or/) [distance](/post/distance/) [of](/post/of/) [one](/post/one/) [yard](/post/yard/). [Example](/post/example/): "[A](/post/a/) [standard](/post/standard/) [soccer](/post/soccer/) [field](/post/field/) is 100 yards [long](/post/long/)."
+2. (Informal) [Familiar](/post/familiar/) [or](/post/or/) [local](/post/local/). [Example](/post/example/): "[The](/post/the/) neighborhood [yard](/post/yard/) [sale](/post/sale/) was [a](/post/a/) [great](/post/great/) [way](/post/way/) [to](/post/to/) [meet](/post/meet/) [the](/post/the/) locals."
 
 ## Phrases
-- "[Measure](/en/post/measure/) [the](/en/post/the/) [length](/en/post/length/) [in](/en/post/in/) yards"
-- "[Take](/en/post/take/) [a](/en/post/a/) stroll [around](/en/post/around/) [the](/en/post/the/) [yard](/en/post/yard/)"
-- "[Plant](/en/post/plant/) flowers [in](/en/post/in/) [the](/en/post/the/) [front](/en/post/front/) [yard](/en/post/yard/)"
-- "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) had [a](/en/post/a/) spacious backyard"
+- "[Measure](/post/measure/) [the](/post/the/) [length](/post/length/) [in](/post/in/) yards"
+- "[Take](/post/take/) [a](/post/a/) stroll [around](/post/around/) [the](/post/the/) [yard](/post/yard/)"
+- "[Plant](/post/plant/) flowers [in](/post/in/) [the](/post/the/) [front](/post/front/) [yard](/post/yard/)"
+- "[The](/post/the/) [old](/post/old/) [house](/post/house/) had [a](/post/a/) spacious backyard"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [dog](/en/post/dog/) ran [across](/en/post/across/) [the](/en/post/the/) [entire](/en/post/entire/) [length](/en/post/length/) [of](/en/post/of/) [the](/en/post/the/) backyard."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) yard-sweep [before](/en/post/before/) [the](/en/post/the/) [party](/en/post/party/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [house](/en/post/house/) has [a](/en/post/a/) [large](/en/post/large/), well-maintained [front](/en/post/front/) [yard](/en/post/yard/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [dog](/post/dog/) ran [across](/post/across/) [the](/post/the/) [entire](/post/entire/) [length](/post/length/) [of](/post/of/) [the](/post/the/) backyard."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) yard-sweep [before](/post/before/) [the](/post/the/) [party](/post/party/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [house](/post/house/) has [a](/post/a/) [large](/post/large/), well-maintained [front](/post/front/) [yard](/post/yard/)."
 
 ## Synonyms
 - Yardage
-- [Plot](/en/post/plot/)
-- [Lawn](/en/post/lawn/)
+- [Plot](/post/plot/)
+- [Lawn](/post/lawn/)
 - Enclosure
 - Grounds
 
 ---
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) "[yard](/en/post/yard/)" [as](/en/post/as/) [in](/en/post/in/) "[to](/en/post/to/) [yard](/en/post/yard/) [something](/en/post/something/)" is [less](/en/post/less/) [common](/en/post/common/) [and](/en/post/and/) [may](/en/post/may/) [not](/en/post/not/) [be](/en/post/be/) recognized universally. [In](/en/post/in/) [most](/en/post/most/) cases, [it](/en/post/it/) [would](/en/post/would/) [be](/en/post/be/) [more](/en/post/more/) [appropriate](/en/post/appropriate/) [to](/en/post/to/) [use](/en/post/use/) "[measure](/en/post/measure/)" [or](/en/post/or/) "[clear](/en/post/clear/)" [in](/en/post/in/) [that](/en/post/that/) context.
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) "[yard](/post/yard/)" [as](/post/as/) [in](/post/in/) "[to](/post/to/) [yard](/post/yard/) [something](/post/something/)" is [less](/post/less/) [common](/post/common/) [and](/post/and/) [may](/post/may/) [not](/post/not/) [be](/post/be/) recognized universally. [In](/post/in/) [most](/post/most/) cases, [it](/post/it/) [would](/post/would/) [be](/post/be/) [more](/post/more/) [appropriate](/post/appropriate/) [to](/post/to/) [use](/post/use/) "[measure](/post/measure/)" [or](/post/or/) "[clear](/post/clear/)" [in](/post/in/) [that](/post/that/) context.

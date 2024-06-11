@@ -12,21 +12,21 @@ keywords = ['ai words', 'instruction']
 
 ## 释义
 - **名词**: 
-    - 教导，指导：[A](/post/a/) [set](/post/set/) [of](/post/of/) directions [or](/post/or/) orders [for](/post/for/) [how](/post/how/) [to](/post/to/) [do](/post/do/) [something](/post/something/). 例如: "[Follow](/post/follow/) [the](/post/the/) instructions [on](/post/on/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [the](/post/the/) [package](/post/package/)."
-    - 课程，教程：[A](/post/a/) [lesson](/post/lesson/) [or](/post/or/) [course](/post/course/) [of](/post/of/) [study](/post/study/). 例如: "[The](/post/the/) students are attending [a](/post/a/) [series](/post/series/) [of](/post/of/) instructions [on](/post/on/) [art](/post/art/) [history](/post/history/)."
-    - 命令，指令：[A](/post/a/) [command](/post/command/) given [by](/post/by/) [a](/post/a/) [computer](/post/computer/) [program](/post/program/) [to](/post/to/) [perform](/post/perform/) [a](/post/a/) [specific](/post/specific/) [task](/post/task/). 例如: "[The](/post/the/) software sends instructions [to](/post/to/) [the](/post/the/) printer [to](/post/to/) [print](/post/print/) [the](/post/the/) [document](/post/document/)."
+    - 教导，指导：[A](/zh/post/a/) [set](/zh/post/set/) [of](/zh/post/of/) directions [or](/zh/post/or/) orders [for](/zh/post/for/) [how](/zh/post/how/) [to](/zh/post/to/) [do](/zh/post/do/) [something](/zh/post/something/). 例如: "[Follow](/zh/post/follow/) [the](/zh/post/the/) instructions [on](/zh/post/on/) [the](/zh/post/the/) [back](/zh/post/back/) [of](/zh/post/of/) [the](/zh/post/the/) [package](/zh/post/package/)."
+    - 课程，教程：[A](/zh/post/a/) [lesson](/zh/post/lesson/) [or](/zh/post/or/) [course](/zh/post/course/) [of](/zh/post/of/) [study](/zh/post/study/). 例如: "[The](/zh/post/the/) students are attending [a](/zh/post/a/) [series](/zh/post/series/) [of](/zh/post/of/) instructions [on](/zh/post/on/) [art](/zh/post/art/) [history](/zh/post/history/)."
+    - 命令，指令：[A](/zh/post/a/) [command](/zh/post/command/) given [by](/zh/post/by/) [a](/zh/post/a/) [computer](/zh/post/computer/) [program](/zh/post/program/) [to](/zh/post/to/) [perform](/zh/post/perform/) [a](/zh/post/a/) [specific](/zh/post/specific/) [task](/zh/post/task/). 例如: "[The](/zh/post/the/) software sends instructions [to](/zh/post/to/) [the](/zh/post/the/) printer [to](/zh/post/to/) [print](/zh/post/print/) [the](/zh/post/the/) [document](/zh/post/document/)."
 
 ## 短语
-- "Instructions [manual](/post/manual/)" 指的是操作手册或使用指南。
-- "[Carry](/post/carry/) [out](/post/out/) [the](/post/the/) instructions" 意味着按照指示行事。
+- "Instructions [manual](/zh/post/manual/)" 指的是操作手册或使用指南。
+- "[Carry](/zh/post/carry/) [out](/zh/post/out/) [the](/zh/post/the/) instructions" 意味着按照指示行事。
 
 ## 例句
-- 名词: "[Before](/post/before/) using [the](/post/the/) [new](/post/new/) [appliance](/post/appliance/), [read](/post/read/) [the](/post/the/) instructions carefully."
-- 动词（作动词时通常与"[give](/post/give/)"或"[follow](/post/follow/)"搭配）: "[The](/post/the/) [teacher](/post/teacher/) gave [clear](/post/clear/) instructions [on](/post/on/) [how](/post/how/) [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [experiment](/post/experiment/)." 
+- 名词: "[Before](/zh/post/before/) using [the](/zh/post/the/) [new](/zh/post/new/) [appliance](/zh/post/appliance/), [read](/zh/post/read/) [the](/zh/post/the/) instructions carefully."
+- 动词（作动词时通常与"[give](/zh/post/give/)"或"[follow](/zh/post/follow/)"搭配）: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) gave [clear](/zh/post/clear/) instructions [on](/zh/post/on/) [how](/zh/post/how/) [to](/zh/post/to/) [complete](/zh/post/complete/) [the](/zh/post/the/) [experiment](/zh/post/experiment/)." 
 
 ## 同义词
 - Directions
 - Guidelines
-- [Guidance](/post/guidance/)
+- [Guidance](/zh/post/guidance/)
 - Instructions
-- Directions [for](/post/for/) [use](/post/use/)
+- Directions [for](/zh/post/for/) [use](/zh/post/use/)

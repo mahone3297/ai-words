@@ -7,37 +7,37 @@ description = '[biː] aux.v.&vi.是，在，做'
 keywords = ['ai words', 'be']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[be](/en/post/be/)/
+## [Pronunciation](/post/pronunciation/)
+/[be](/post/be/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Meaning](/en/post/meaning/)**: [The](/en/post/the/) [third](/en/post/third/) [person](/en/post/person/) [singular](/en/post/singular/) [present](/en/post/present/) indicative [form](/en/post/form/) [of](/en/post/of/) [the](/en/post/the/) [verb](/en/post/verb/) '[to](/en/post/to/) [be](/en/post/be/)', referring [to](/en/post/to/) [existence](/en/post/existence/), [state](/en/post/state/), [or](/en/post/or/) beingness. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) is [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
-- **Synonyms**: [Existence](/en/post/existence/), [presence](/en/post/presence/), [state](/en/post/state/)
+### [Noun](/post/noun/)
+- **[Meaning](/post/meaning/)**: [The](/post/the/) [third](/post/third/) [person](/post/person/) [singular](/post/singular/) [present](/post/present/) indicative [form](/post/form/) [of](/post/of/) [the](/post/the/) [verb](/post/verb/) '[to](/post/to/) [be](/post/be/)', referring [to](/post/to/) [existence](/post/existence/), [state](/post/state/), [or](/post/or/) beingness. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) is [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+- **Synonyms**: [Existence](/post/existence/), [presence](/post/presence/), [state](/post/state/)
 
-### [Verb](/en/post/verb/)
-- **[Meaning](/en/post/meaning/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [particular](/en/post/particular/) [quality](/en/post/quality/), [status](/en/post/status/), [or](/en/post/or/) [condition](/en/post/condition/); [to](/en/post/to/) [exist](/en/post/exist/) [or](/en/post/or/) [happen](/en/post/happen/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) is [beautiful](/en/post/beautiful/) [today](/en/post/today/)."
-- **Synonyms**: [Be](/en/post/be/), [exist](/en/post/exist/), [occur](/en/post/occur/), [happen](/en/post/happen/)
+### [Verb](/post/verb/)
+- **[Meaning](/post/meaning/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [particular](/post/particular/) [quality](/post/quality/), [status](/post/status/), [or](/post/or/) [condition](/post/condition/); [to](/post/to/) [exist](/post/exist/) [or](/post/or/) [happen](/post/happen/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) is [beautiful](/post/beautiful/) [today](/post/today/)."
+- **Synonyms**: [Be](/post/be/), [exist](/post/exist/), [occur](/post/occur/), [happen](/post/happen/)
 
-### [Adjective](/en/post/adjective/)
-- **[Meaning](/en/post/meaning/)**: Expressing [a](/en/post/a/) [characteristic](/en/post/characteristic/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is [a](/en/post/a/) talented [musician](/en/post/musician/)."
-- **Synonyms**: Existing, [present](/en/post/present/), [actual](/en/post/actual/), [true](/en/post/true/)
+### [Adjective](/post/adjective/)
+- **[Meaning](/post/meaning/)**: Expressing [a](/post/a/) [characteristic](/post/characteristic/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) is [a](/post/a/) talented [musician](/post/musician/)."
+- **Synonyms**: Existing, [present](/post/present/), [actual](/post/actual/), [true](/post/true/)
 
-### [Adverb](/en/post/adverb/)
-- **[Meaning](/en/post/meaning/)**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) indicating identity [or](/en/post/or/) essence. [For](/en/post/for/) [example](/en/post/example/): "[To](/en/post/to/) [be](/en/post/be/) [honest](/en/post/honest/), I'm [not](/en/post/not/) [sure](/en/post/sure/)."
+### [Adverb](/post/adverb/)
+- **[Meaning](/post/meaning/)**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) indicating identity [or](/post/or/) essence. [For](/post/for/) [example](/post/example/): "[To](/post/to/) [be](/post/be/) [honest](/post/honest/), I'm [not](/post/not/) [sure](/post/sure/)."
 
 ## Phrases
-- "[To](/en/post/to/) [be](/en/post/be/) [honest](/en/post/honest/)" [means](/en/post/means/) [to](/en/post/to/) [tell](/en/post/tell/) [the](/en/post/the/) [truth](/en/post/truth/).
-- "[It](/en/post/it/) is/was" is [a](/en/post/a/) shortened [form](/en/post/form/) [of](/en/post/of/) "[it](/en/post/it/) is [the](/en/post/the/) [case](/en/post/case/) [that](/en/post/that/)" [or](/en/post/or/) "[it](/en/post/it/) was [the](/en/post/the/) [case](/en/post/case/) [that](/en/post/that/)".
-- "[Being](/en/post/being/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) experiencing [something](/en/post/something/), [like](/en/post/like/) "[being](/en/post/being/) [in](/en/post/in/) [love](/en/post/love/)" [or](/en/post/or/) "[being](/en/post/being/) [tired](/en/post/tired/)".
+- "[To](/post/to/) [be](/post/be/) [honest](/post/honest/)" [means](/post/means/) [to](/post/to/) [tell](/post/tell/) [the](/post/the/) [truth](/post/truth/).
+- "[It](/post/it/) is/was" is [a](/post/a/) shortened [form](/post/form/) [of](/post/of/) "[it](/post/it/) is [the](/post/the/) [case](/post/case/) [that](/post/that/)" [or](/post/or/) "[it](/post/it/) was [the](/post/the/) [case](/post/case/) [that](/post/that/)".
+- "[Being](/post/being/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) experiencing [something](/post/something/), [like](/post/like/) "[being](/post/being/) [in](/post/in/) [love](/post/love/)" [or](/post/or/) "[being](/post/being/) [tired](/post/tired/)".
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Existence](/en/post/existence/) is [a](/en/post/a/) [fundamental](/en/post/fundamental/) [aspect](/en/post/aspect/) [of](/en/post/of/) [life](/en/post/life/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [house](/en/post/house/) is [old](/en/post/old/) [but](/en/post/but/) well-maintained."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) is [a](/en/post/a/) hardworking [student](/en/post/student/)."
-- **[Adverb](/en/post/adverb/)**: "[To](/en/post/to/) [be](/en/post/be/) [fair](/en/post/fair/), [he](/en/post/he/) had [a](/en/post/a/) [valid](/en/post/valid/) [point](/en/post/point/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Existence](/post/existence/) is [a](/post/a/) [fundamental](/post/fundamental/) [aspect](/post/aspect/) [of](/post/of/) [life](/post/life/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [house](/post/house/) is [old](/post/old/) [but](/post/but/) well-maintained."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) is [a](/post/a/) hardworking [student](/post/student/)."
+- **[Adverb](/post/adverb/)**: "[To](/post/to/) [be](/post/be/) [fair](/post/fair/), [he](/post/he/) had [a](/post/a/) [valid](/post/valid/) [point](/post/point/)."
 
-## Synonyms ([for](/en/post/for/) [Verb](/en/post/verb/))
+## Synonyms ([for](/post/for/) [Verb](/post/verb/))
 - Is
 - Am
 - Are
@@ -50,13 +50,13 @@ keywords = ['ai words', 'be']
 - Sounds
 - Becomes
 
-## Synonyms ([for](/en/post/for/) [Adjective](/en/post/adjective/))
-- [Present](/en/post/present/)
-- [Alive](/en/post/alive/)
-- [Active](/en/post/active/)
+## Synonyms ([for](/post/for/) [Adjective](/post/adjective/))
+- [Present](/post/present/)
+- [Alive](/post/alive/)
+- [Active](/post/active/)
 - Occupied
 - Engaged
 - Occupied
 - Enrolled
-- [Current](/en/post/current/)
-- [Resident](/en/post/resident/)
+- [Current](/post/current/)
+- [Resident](/post/resident/)

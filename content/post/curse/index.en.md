@@ -7,37 +7,37 @@ description = '[kəːs] n.诅咒，咒骂；天谴'
 keywords = ['ai words', 'curse']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɜːrs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. An [expression](/en/post/expression/) [of](/en/post/of/) [anger](/en/post/anger/), frustration, [or](/en/post/or/) [a](/en/post/a/) [wish](/en/post/wish/) [for](/en/post/for/) [harm](/en/post/harm/) [to](/en/post/to/) [come](/en/post/come/) [upon](/en/post/upon/) [someone](/en/post/someone/). *[Example](/en/post/example/): [She](/en/post/she/) cursed [at](/en/post/at/) [the](/en/post/the/) [driver](/en/post/driver/) [for](/en/post/for/) cutting [her](/en/post/her/) [off](/en/post/off/).*
-   2. An incantation [or](/en/post/or/) charm, [often](/en/post/often/) [with](/en/post/with/) magical [or](/en/post/or/) superstitious [power](/en/post/power/). *[Example](/en/post/example/): [The](/en/post/the/) [ancient](/en/post/ancient/) ritual involved cursing [the](/en/post/the/) [land](/en/post/land/) [for](/en/post/for/) fertility.*
-   3. [A](/en/post/a/) profanity [or](/en/post/or/) vulgar [expression](/en/post/expression/). *[Example](/en/post/example/): [He](/en/post/he/) [used](/en/post/used/) [a](/en/post/a/) [few](/en/post/few/) [choice](/en/post/choice/) curses [when](/en/post/when/) [he](/en/post/he/) missed [the](/en/post/the/) [shot](/en/post/shot/).*
+- **[Noun](/post/noun/)**: 1. An [expression](/post/expression/) [of](/post/of/) [anger](/post/anger/), frustration, [or](/post/or/) [a](/post/a/) [wish](/post/wish/) [for](/post/for/) [harm](/post/harm/) [to](/post/to/) [come](/post/come/) [upon](/post/upon/) [someone](/post/someone/). *[Example](/post/example/): [She](/post/she/) cursed [at](/post/at/) [the](/post/the/) [driver](/post/driver/) [for](/post/for/) cutting [her](/post/her/) [off](/post/off/).*
+   2. An incantation [or](/post/or/) charm, [often](/post/often/) [with](/post/with/) magical [or](/post/or/) superstitious [power](/post/power/). *[Example](/post/example/): [The](/post/the/) [ancient](/post/ancient/) ritual involved cursing [the](/post/the/) [land](/post/land/) [for](/post/for/) fertility.*
+   3. [A](/post/a/) profanity [or](/post/or/) vulgar [expression](/post/expression/). *[Example](/post/example/): [He](/post/he/) [used](/post/used/) [a](/post/a/) [few](/post/few/) [choice](/post/choice/) curses [when](/post/when/) [he](/post/he/) missed [the](/post/the/) [shot](/post/shot/).*
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [speak](/en/post/speak/) [or](/en/post/or/) [utter](/en/post/utter/) an imprecation [or](/en/post/or/) [curse](/en/post/curse/). *[Example](/en/post/example/): [He](/en/post/he/) cursed [under](/en/post/under/) [his](/en/post/his/) [breath](/en/post/breath/) [when](/en/post/when/) [he](/en/post/he/) dropped [his](/en/post/his/) keys.*
-   3. [To](/en/post/to/) [blame](/en/post/blame/) [or](/en/post/or/) [condemn](/en/post/condemn/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [severely](/en/post/severely/). *[Example](/en/post/example/): [The](/en/post/the/) [team](/en/post/team/) cursed [their](/en/post/their/) [luck](/en/post/luck/) [after](/en/post/after/) losing [the](/en/post/the/) [match](/en/post/match/).*
+- **[Verb](/post/verb/)**: [To](/post/to/) [speak](/post/speak/) [or](/post/or/) [utter](/post/utter/) an imprecation [or](/post/or/) [curse](/post/curse/). *[Example](/post/example/): [He](/post/he/) cursed [under](/post/under/) [his](/post/his/) [breath](/post/breath/) [when](/post/when/) [he](/post/he/) dropped [his](/post/his/) keys.*
+   3. [To](/post/to/) [blame](/post/blame/) [or](/post/or/) [condemn](/post/condemn/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [severely](/post/severely/). *[Example](/post/example/): [The](/post/the/) [team](/post/team/) cursed [their](/post/their/) [luck](/post/luck/) [after](/post/after/) losing [the](/post/the/) [match](/post/match/).*
 
 ## Phrases
-- "Cursing [someone](/en/post/someone/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) angrily骂人).
-- "Blessing [or](/en/post/or/) cursing" refers [to](/en/post/to/) [the](/en/post/the/) [idea](/en/post/idea/) [of](/en/post/of/) wishing [good](/en/post/good/) [or](/en/post/or/) [ill](/en/post/ill/) [fortune](/en/post/fortune/).
-- "[May](/en/post/may/) [the](/en/post/the/) [best](/en/post/best/) [man](/en/post/man/)/[woman](/en/post/woman/) [win](/en/post/win/), [but](/en/post/but/) [may](/en/post/may/) [the](/en/post/the/) [Curse](/en/post/curse/) [of](/en/post/of/) [the](/en/post/the/) ... [be](/en/post/be/) [upon](/en/post/upon/) [them](/en/post/them/)" ([a](/en/post/a/) [humorous](/en/post/humorous/) [or](/en/post/or/) ironic [way](/en/post/way/) [to](/en/post/to/) [wish](/en/post/wish/) [bad](/en/post/bad/) [luck](/en/post/luck/)).
+- "Cursing [someone](/post/someone/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) angrily骂人).
+- "Blessing [or](/post/or/) cursing" refers [to](/post/to/) [the](/post/the/) [idea](/post/idea/) [of](/post/of/) wishing [good](/post/good/) [or](/post/or/) [ill](/post/ill/) [fortune](/post/fortune/).
+- "[May](/post/may/) [the](/post/the/) [best](/post/best/) [man](/post/man/)/[woman](/post/woman/) [win](/post/win/), [but](/post/but/) [may](/post/may/) [the](/post/the/) [Curse](/post/curse/) [of](/post/of/) [the](/post/the/) ... [be](/post/be/) [upon](/post/upon/) [them](/post/them/)" ([a](/post/a/) [humorous](/post/humorous/) [or](/post/or/) ironic [way](/post/way/) [to](/post/to/) [wish](/post/wish/) [bad](/post/bad/) [luck](/post/luck/)).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [storm](/en/post/storm/) was [so](/en/post/so/) [violent](/en/post/violent/) [that](/en/post/that/) [it](/en/post/it/) seemed [like](/en/post/like/) [a](/en/post/a/) [curse](/en/post/curse/) [from](/en/post/from/) [the](/en/post/the/) heavens."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) cursed [the](/en/post/the/) [traffic](/en/post/traffic/) [jam](/en/post/jam/) [as](/en/post/as/) [he](/en/post/he/) tried [to](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) [airport](/en/post/airport/) [on](/en/post/on/) [time](/en/post/time/)."
-- **Interjection**: "[Oh](/en/post/oh/) [no](/en/post/no/)! [Curse](/en/post/curse/) [my](/en/post/my/) clumsiness; I broke [the](/en/post/the/) [vase](/en/post/vase/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [storm](/post/storm/) was [so](/post/so/) [violent](/post/violent/) [that](/post/that/) [it](/post/it/) seemed [like](/post/like/) [a](/post/a/) [curse](/post/curse/) [from](/post/from/) [the](/post/the/) heavens."
+- **[Verb](/post/verb/)**: "[He](/post/he/) cursed [the](/post/the/) [traffic](/post/traffic/) [jam](/post/jam/) [as](/post/as/) [he](/post/he/) tried [to](/post/to/) [reach](/post/reach/) [the](/post/the/) [airport](/post/airport/) [on](/post/on/) [time](/post/time/)."
+- **Interjection**: "[Oh](/post/oh/) [no](/post/no/)! [Curse](/post/curse/) [my](/post/my/) clumsiness; I broke [the](/post/the/) [vase](/post/vase/)."
 
 ## Synonyms
-- [Swear](/en/post/swear/)
+- [Swear](/post/swear/)
 - Expletive
 - Invective
 - Damn
-- [Proclaim](/en/post/proclaim/)
+- [Proclaim](/post/proclaim/)
 
 ## Antonyms
-- [Bless](/en/post/bless/)
-- [Pray](/en/post/pray/)
-- [Admire](/en/post/admire/)
-- [Praise](/en/post/praise/)
-- Conjure ([positive](/en/post/positive/) [meaning](/en/post/meaning/))
+- [Bless](/post/bless/)
+- [Pray](/post/pray/)
+- [Admire](/post/admire/)
+- [Praise](/post/praise/)
+- Conjure ([positive](/post/positive/) [meaning](/post/meaning/))

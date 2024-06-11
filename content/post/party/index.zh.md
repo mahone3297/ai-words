@@ -11,24 +11,24 @@ keywords = ['ai words', 'party']
 /ˈpɑːrti/
 
 ## 释义
-- **名词 (n)**: 聚会，社交活动。例如: "We're having [a](/post/a/) [party](/post/party/) [this](/post/this/) [weekend](/post/weekend/)."
-- **名词**: 政党，政治团体。例如: "[The](/post/the/) [two](/post/two/) [main](/post/main/) parties [in](/post/in/) [the](/post/the/) [country](/post/country/) are [the](/post/the/) Democrats [and](/post/and/) Republicans."
-- **动词 (v)**: 参加聚会。例如: "[They](/post/they/) decided [to](/post/to/) [party](/post/party/) [all](/post/all/) [night](/post/night/)."
-- **名词**: 一方，参与者。例如: "[In](/post/in/) [a](/post/a/) [contract](/post/contract/), [there](/post/there/) are [usually](/post/usually/) [two](/post/two/) parties involved."
+- **名词 (n)**: 聚会，社交活动。例如: "We're having [a](/zh/post/a/) [party](/zh/post/party/) [this](/zh/post/this/) [weekend](/zh/post/weekend/)."
+- **名词**: 政党，政治团体。例如: "[The](/zh/post/the/) [two](/zh/post/two/) [main](/zh/post/main/) parties [in](/zh/post/in/) [the](/zh/post/the/) [country](/zh/post/country/) are [the](/zh/post/the/) Democrats [and](/zh/post/and/) Republicans."
+- **动词 (v)**: 参加聚会。例如: "[They](/zh/post/they/) decided [to](/zh/post/to/) [party](/zh/post/party/) [all](/zh/post/all/) [night](/zh/post/night/)."
+- **名词**: 一方，参与者。例如: "[In](/zh/post/in/) [a](/zh/post/a/) [contract](/zh/post/contract/), [there](/zh/post/there/) are [usually](/zh/post/usually/) [two](/zh/post/two/) parties involved."
 
 ## 短语
-- "[Party](/post/party/) [animal](/post/animal/)" 指喜欢参加聚会，经常狂欢的人。
-- "[Host](/post/host/) [a](/post/a/) [party](/post/party/)" 主办或举办一个聚会。
+- "[Party](/zh/post/party/) [animal](/zh/post/animal/)" 指喜欢参加聚会，经常狂欢的人。
+- "[Host](/zh/post/host/) [a](/zh/post/a/) [party](/zh/post/party/)" 主办或举办一个聚会。
 - "After-party" 派对之后的聚会或续摊。
 
 ## 例句
-- 名词: "[Everyone](/post/everyone/) was excited [about](/post/about/) [the](/post/the/) costume [party](/post/party/)."
-- 动词: "[They](/post/they/) partied [until](/post/until/) [the](/post/the/) [early](/post/early/) hours [of](/post/of/) [the](/post/the/) [morning](/post/morning/)."
-- 名词: "[The](/post/the/) [two](/post/two/) [political](/post/political/) parties [have](/post/have/) [different](/post/different/) views [on](/post/on/) taxation."
+- 名词: "[Everyone](/zh/post/everyone/) was excited [about](/zh/post/about/) [the](/zh/post/the/) costume [party](/zh/post/party/)."
+- 动词: "[They](/zh/post/they/) partied [until](/zh/post/until/) [the](/zh/post/the/) [early](/zh/post/early/) hours [of](/zh/post/of/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+- 名词: "[The](/zh/post/the/) [two](/zh/post/two/) [political](/zh/post/political/) parties [have](/zh/post/have/) [different](/zh/post/different/) views [on](/zh/post/on/) taxation."
 
 ## 同义词
 - Gathering
 - Celebration
 - Festivity
-- [Social](/post/social/) [event](/post/event/)
-- [Function](/post/function/)
+- [Social](/zh/post/social/) [event](/zh/post/event/)
+- [Function](/zh/post/function/)

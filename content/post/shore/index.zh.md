@@ -11,20 +11,20 @@ keywords = ['ai words', 'shore']
 /ʃɔːr/
 
 ## 释义
-- **名词**: 海岸，湖岸，河岸；陆地与水相接的地方。例如: "[They](/post/they/) walked [along](/post/along/) [the](/post/the/) [beautiful](/post/beautiful/) [sandy](/post/sandy/) [shore](/post/shore/) [of](/post/of/) [the](/post/the/) [lake](/post/lake/)."
-- **动词**: 岸上停靠（船只）。例如: "[The](/post/the/) [ship](/post/ship/) [will](/post/will/) [shore](/post/shore/) [at](/post/at/) [midnight](/post/midnight/)."
+- **名词**: 海岸，湖岸，河岸；陆地与水相接的地方。例如: "[They](/zh/post/they/) walked [along](/zh/post/along/) [the](/zh/post/the/) [beautiful](/zh/post/beautiful/) [sandy](/zh/post/sandy/) [shore](/zh/post/shore/) [of](/zh/post/of/) [the](/zh/post/the/) [lake](/zh/post/lake/)."
+- **动词**: 岸上停靠（船只）。例如: "[The](/zh/post/the/) [ship](/zh/post/ship/) [will](/zh/post/will/) [shore](/zh/post/shore/) [at](/zh/post/at/) [midnight](/zh/post/midnight/)."
 
 ## 短语
-- "[on](/post/on/) [the](/post/the/) [shore](/post/shore/)" 指位于海岸或河边。例如: "[The](/post/the/) seagulls were flying [over](/post/over/) [the](/post/the/) [shore](/post/shore/)."
-- "[shore](/post/shore/) [up](/post/up/)" 意为支撑，加固。例如: "[They](/post/they/) had [to](/post/to/) [shore](/post/shore/) [up](/post/up/) [the](/post/the/) damaged [wall](/post/wall/) [to](/post/to/) [prevent](/post/prevent/) [it](/post/it/) [from](/post/from/) collapsing."
+- "[on](/zh/post/on/) [the](/zh/post/the/) [shore](/zh/post/shore/)" 指位于海岸或河边。例如: "[The](/zh/post/the/) seagulls were flying [over](/zh/post/over/) [the](/zh/post/the/) [shore](/zh/post/shore/)."
+- "[shore](/zh/post/shore/) [up](/zh/post/up/)" 意为支撑，加固。例如: "[They](/zh/post/they/) had [to](/zh/post/to/) [shore](/zh/post/shore/) [up](/zh/post/up/) [the](/zh/post/the/) damaged [wall](/zh/post/wall/) [to](/zh/post/to/) [prevent](/zh/post/prevent/) [it](/zh/post/it/) [from](/zh/post/from/) collapsing."
 
 ## 例句
-- 名词: "[The](/post/the/) children were [building](/post/building/) sandcastles [on](/post/on/) [the](/post/the/) [shore](/post/shore/)."
-- 动词: "[The](/post/the/) [boat](/post/boat/) [slowly](/post/slowly/) shored, allowing passengers [to](/post/to/) disembark."
+- 名词: "[The](/zh/post/the/) children were [building](/zh/post/building/) sandcastles [on](/zh/post/on/) [the](/zh/post/the/) [shore](/zh/post/shore/)."
+- 动词: "[The](/zh/post/the/) [boat](/zh/post/boat/) [slowly](/zh/post/slowly/) shored, allowing passengers [to](/zh/post/to/) disembark."
 
 ## 同义词
-- [coast](/post/coast/)
-- [bank](/post/bank/)
+- [coast](/zh/post/coast/)
+- [bank](/zh/post/bank/)
 - waterfront
 - coastline
 - littoral

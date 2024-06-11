@@ -7,28 +7,28 @@ description = '[ˌɔpəˈrei∫ənl] a.操作上的；可使用的'
 keywords = ['ai words', 'operational']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɑːpərˈteɪʃənəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: ([of](/en/post/of/) [a](/en/post/a/) [system](/en/post/system/), [machine](/en/post/machine/), [or](/en/post/or/) [process](/en/post/process/)) functioning [or](/en/post/or/) [able](/en/post/able/) [to](/en/post/to/) [function](/en/post/function/); working correctly [or](/en/post/or/) [ready](/en/post/ready/) [for](/en/post/for/) [use](/en/post/use/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) software update made [the](/en/post/the/) [application](/en/post/application/) fully [operational](/en/post/operational/)."
-- **[Noun](/en/post/noun/)**: ([in](/en/post/in/) [military](/en/post/military/) contexts) [a](/en/post/a/) [period](/en/post/period/) [during](/en/post/during/) [which](/en/post/which/) [a](/en/post/a/) [unit](/en/post/unit/) [or](/en/post/or/) [force](/en/post/force/) is actively engaged [in](/en/post/in/) combat [or](/en/post/or/) [otherwise](/en/post/otherwise/) fulfilling [its](/en/post/its/) [primary](/en/post/primary/) [purpose](/en/post/purpose/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [aircraft](/en/post/aircraft/) [carrier](/en/post/carrier/) entered [operational](/en/post/operational/) [service](/en/post/service/) [in](/en/post/in/) 2023."
+- **[Adjective](/post/adjective/)**: ([of](/post/of/) [a](/post/a/) [system](/post/system/), [machine](/post/machine/), [or](/post/or/) [process](/post/process/)) functioning [or](/post/or/) [able](/post/able/) [to](/post/to/) [function](/post/function/); working correctly [or](/post/or/) [ready](/post/ready/) [for](/post/for/) [use](/post/use/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) software update made [the](/post/the/) [application](/post/application/) fully [operational](/post/operational/)."
+- **[Noun](/post/noun/)**: ([in](/post/in/) [military](/post/military/) contexts) [a](/post/a/) [period](/post/period/) [during](/post/during/) [which](/post/which/) [a](/post/a/) [unit](/post/unit/) [or](/post/or/) [force](/post/force/) is actively engaged [in](/post/in/) combat [or](/post/or/) [otherwise](/post/otherwise/) fulfilling [its](/post/its/) [primary](/post/primary/) [purpose](/post/purpose/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [aircraft](/post/aircraft/) [carrier](/post/carrier/) entered [operational](/post/operational/) [service](/post/service/) [in](/post/in/) 2023."
 
 ## Phrases
-- "[Operational](/en/post/operational/) hours" [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) times [when](/en/post/when/) [a](/en/post/a/) [business](/en/post/business/), [facility](/en/post/facility/), [or](/en/post/or/) [service](/en/post/service/) is [open](/en/post/open/) [and](/en/post/and/) functioning.
-- "[Go](/en/post/go/) [operational](/en/post/operational/)" [means](/en/post/means/) [to](/en/post/to/) [begin](/en/post/begin/) functioning [or](/en/post/or/) [become](/en/post/become/) [active](/en/post/active/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) systems [or](/en/post/or/) projects [that](/en/post/that/) [have](/en/post/have/) [just](/en/post/just/) been launched.
-- "[Operational](/en/post/operational/) readiness" indicates [that](/en/post/that/) [something](/en/post/something/), typically [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [equipment](/en/post/equipment/) [or](/en/post/or/) [a](/en/post/a/) [team](/en/post/team/), is prepared [and](/en/post/and/) [capable](/en/post/capable/) [of](/en/post/of/) performing [its](/en/post/its/) intended [function](/en/post/function/) [immediately](/en/post/immediately/).
+- "[Operational](/post/operational/) hours" [refer](/post/refer/) [to](/post/to/) [the](/post/the/) times [when](/post/when/) [a](/post/a/) [business](/post/business/), [facility](/post/facility/), [or](/post/or/) [service](/post/service/) is [open](/post/open/) [and](/post/and/) functioning.
+- "[Go](/post/go/) [operational](/post/operational/)" [means](/post/means/) [to](/post/to/) [begin](/post/begin/) functioning [or](/post/or/) [become](/post/become/) [active](/post/active/), [often](/post/often/) [used](/post/used/) [for](/post/for/) systems [or](/post/or/) projects [that](/post/that/) [have](/post/have/) [just](/post/just/) been launched.
+- "[Operational](/post/operational/) readiness" indicates [that](/post/that/) [something](/post/something/), typically [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [equipment](/post/equipment/) [or](/post/or/) [a](/post/a/) [team](/post/team/), is prepared [and](/post/and/) [capable](/post/capable/) [of](/post/of/) performing [its](/post/its/) intended [function](/post/function/) [immediately](/post/immediately/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[After](/en/post/after/) [extensive](/en/post/extensive/) testing, [the](/en/post/the/) [satellite](/en/post/satellite/) was deemed [operational](/en/post/operational/) [and](/en/post/and/) [ready](/en/post/ready/) [to](/en/post/to/) [be](/en/post/be/) launched [into](/en/post/into/) [orbit](/en/post/orbit/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [special](/en/post/special/) operations [team](/en/post/team/) completed [their](/en/post/their/) [final](/en/post/final/) [training](/en/post/training/) [exercise](/en/post/exercise/) [before](/en/post/before/) going [operational](/en/post/operational/) [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[After](/post/after/) [extensive](/post/extensive/) testing, [the](/post/the/) [satellite](/post/satellite/) was deemed [operational](/post/operational/) [and](/post/and/) [ready](/post/ready/) [to](/post/to/) [be](/post/be/) launched [into](/post/into/) [orbit](/post/orbit/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [special](/post/special/) operations [team](/post/team/) completed [their](/post/their/) [final](/post/final/) [training](/post/training/) [exercise](/post/exercise/) [before](/post/before/) going [operational](/post/operational/) [in](/post/in/) [the](/post/the/) [field](/post/field/)."
 
 ## Synonyms
 - Functional (adj.)
 - Working (adj.)
-- [Active](/en/post/active/) (adj.)
-- [Practical](/en/post/practical/) (adj.)
-- [Effective](/en/post/effective/) (adj.)
-- [In](/en/post/in/) [action](/en/post/action/) ([noun](/en/post/noun/), informal)
-- [Up](/en/post/up/) [and](/en/post/and/) running ([noun](/en/post/noun/), idiomatic)
-- [Live](/en/post/live/) ([noun](/en/post/noun/), [in](/en/post/in/) [technical](/en/post/technical/) contexts)
+- [Active](/post/active/) (adj.)
+- [Practical](/post/practical/) (adj.)
+- [Effective](/post/effective/) (adj.)
+- [In](/post/in/) [action](/post/action/) ([noun](/post/noun/), informal)
+- [Up](/post/up/) [and](/post/and/) running ([noun](/post/noun/), idiomatic)
+- [Live](/post/live/) ([noun](/post/noun/), [in](/post/in/) [technical](/post/technical/) contexts)

@@ -7,36 +7,36 @@ description = '[əˈnʌðə] a.再一个的；别的'
 keywords = ['ai words', 'another']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈnʌðər/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Additional](/en/post/additional/) [or](/en/post/or/) supplementary; [more](/en/post/more/) [than](/en/post/than/) [one](/en/post/one/) [but](/en/post/but/) [not](/en/post/not/) [the](/en/post/the/) [first](/en/post/first/) [or](/en/post/or/) [last](/en/post/last/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) asked [for](/en/post/for/) [another](/en/post/another/) [cup](/en/post/cup/) [of](/en/post/of/) [coffee](/en/post/coffee/)."
-   - **Numeral**: 2. Referring [to](/en/post/to/) [a](/en/post/a/) [different](/en/post/different/) [one](/en/post/one/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) [group](/en/post/group/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) is [the](/en/post/the/) [first](/en/post/first/) [book](/en/post/book/), [and](/en/post/and/) I'll [read](/en/post/read/) [another](/en/post/another/) [one](/en/post/one/) [next](/en/post/next/)."
-   - **Determiner**: [Used](/en/post/used/) [before](/en/post/before/) [a](/en/post/a/) [singular](/en/post/singular/) countable [noun](/en/post/noun/) [to](/en/post/to/) [indicate](/en/post/indicate/) an [additional](/en/post/additional/) [item](/en/post/item/) [or](/en/post/or/) [person](/en/post/person/). [For](/en/post/for/) [example](/en/post/example/): "I [need](/en/post/need/) [one](/en/post/one/) [more](/en/post/more/) [apple](/en/post/apple/), [and](/en/post/and/) I [have](/en/post/have/) [another](/en/post/another/) [one](/en/post/one/) [in](/en/post/in/) [the](/en/post/the/) [fridge](/en/post/fridge/)."
+- **[Adjective](/post/adjective/)**: 1. [Additional](/post/additional/) [or](/post/or/) supplementary; [more](/post/more/) [than](/post/than/) [one](/post/one/) [but](/post/but/) [not](/post/not/) [the](/post/the/) [first](/post/first/) [or](/post/or/) [last](/post/last/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) asked [for](/post/for/) [another](/post/another/) [cup](/post/cup/) [of](/post/of/) [coffee](/post/coffee/)."
+   - **Numeral**: 2. Referring [to](/post/to/) [a](/post/a/) [different](/post/different/) [one](/post/one/) [in](/post/in/) [a](/post/a/) [series](/post/series/) [or](/post/or/) [group](/post/group/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) is [the](/post/the/) [first](/post/first/) [book](/post/book/), [and](/post/and/) I'll [read](/post/read/) [another](/post/another/) [one](/post/one/) [next](/post/next/)."
+   - **Determiner**: [Used](/post/used/) [before](/post/before/) [a](/post/a/) [singular](/post/singular/) countable [noun](/post/noun/) [to](/post/to/) [indicate](/post/indicate/) an [additional](/post/additional/) [item](/post/item/) [or](/post/or/) [person](/post/person/). [For](/post/for/) [example](/post/example/): "I [need](/post/need/) [one](/post/one/) [more](/post/more/) [apple](/post/apple/), [and](/post/and/) I [have](/post/have/) [another](/post/another/) [one](/post/one/) [in](/post/in/) [the](/post/the/) [fridge](/post/fridge/)."
 
 ## Phrases
-- "[Another](/en/post/another/) [day](/en/post/day/)" refers [to](/en/post/to/) [a](/en/post/a/) [subsequent](/en/post/subsequent/) [day](/en/post/day/).
-- "[Another](/en/post/another/) [chance](/en/post/chance/)" [means](/en/post/means/) [a](/en/post/a/) [second](/en/post/second/) [opportunity](/en/post/opportunity/).
-- "[Another](/en/post/another/) [time](/en/post/time/)" suggests [a](/en/post/a/) [future](/en/post/future/) [appointment](/en/post/appointment/) [or](/en/post/or/) [meeting](/en/post/meeting/).
+- "[Another](/post/another/) [day](/post/day/)" refers [to](/post/to/) [a](/post/a/) [subsequent](/post/subsequent/) [day](/post/day/).
+- "[Another](/post/another/) [chance](/post/chance/)" [means](/post/means/) [a](/post/a/) [second](/post/second/) [opportunity](/post/opportunity/).
+- "[Another](/post/another/) [time](/post/time/)" suggests [a](/post/a/) [future](/post/future/) [appointment](/post/appointment/) [or](/post/or/) [meeting](/post/meeting/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "I ordered [another](/en/post/another/) [slice](/en/post/slice/) [of](/en/post/of/) pizza [after](/en/post/after/) I finished [the](/en/post/the/) [first](/en/post/first/) [one](/en/post/one/)."
-- **Numeral**: "[There](/en/post/there/) are [five](/en/post/five/) books [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/), [and](/en/post/and/) I [want](/en/post/want/) [to](/en/post/to/) [read](/en/post/read/) [another](/en/post/another/) [ten](/en/post/ten/)."
-- **Determiner**: "[Can](/en/post/can/) [you](/en/post/you/) [pass](/en/post/pass/) [me](/en/post/me/) [another](/en/post/another/) [pencil](/en/post/pencil/), [please](/en/post/please/)?"
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "I ordered [another](/post/another/) [slice](/post/slice/) [of](/post/of/) pizza [after](/post/after/) I finished [the](/post/the/) [first](/post/first/) [one](/post/one/)."
+- **Numeral**: "[There](/post/there/) are [five](/post/five/) books [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/), [and](/post/and/) I [want](/post/want/) [to](/post/to/) [read](/post/read/) [another](/post/another/) [ten](/post/ten/)."
+- **Determiner**: "[Can](/post/can/) [you](/post/you/) [pass](/post/pass/) [me](/post/me/) [another](/post/another/) [pencil](/post/pencil/), [please](/post/please/)?"
 
 ## Synonyms
-- [Additional](/en/post/additional/)
-- [Further](/en/post/further/)
-- [More](/en/post/more/)
+- [Additional](/post/additional/)
+- [Further](/post/further/)
+- [More](/post/more/)
 - Supplementary
-- [Second](/en/post/second/)
-- [Additional](/en/post/additional/) ([as](/en/post/as/) [in](/en/post/in/) "[another](/en/post/another/) [time](/en/post/time/)")
-- [One](/en/post/one/) [more](/en/post/more/)
+- [Second](/post/second/)
+- [Additional](/post/additional/) ([as](/post/as/) [in](/post/in/) "[another](/post/another/) [time](/post/time/)")
+- [One](/post/one/) [more](/post/more/)
 
 ## Antonyms
-- [First](/en/post/first/)
-- [Only](/en/post/only/)
-- [Unique](/en/post/unique/)
-- [Sole](/en/post/sole/)
-- [Final](/en/post/final/)
+- [First](/post/first/)
+- [Only](/post/only/)
+- [Unique](/post/unique/)
+- [Sole](/post/sole/)
+- [Final](/post/final/)

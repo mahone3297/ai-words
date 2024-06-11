@@ -8,32 +8,32 @@ keywords = ['ai words', 'get']
 +++
 
 ## 读音
-/[get](/post/get/)/
+/[get](/zh/post/get/)/
 
 ## 释义
 - **动词**:
-  - 获得，得到。例如: "I [finally](/post/finally/) got [a](/post/a/) [job](/post/job/) [after](/post/after/) months [of](/post/of/) searching."
-  - 获取（信息、知识等）。例如: "[Can](/post/can/) [you](/post/you/) [get](/post/get/) [me](/post/me/) [some](/post/some/) [information](/post/information/) [on](/post/on/) [that](/post/that/) [topic](/post/topic/)?"
-  - 买。例如: "I [need](/post/need/) [to](/post/to/) [get](/post/get/) [some](/post/some/) groceries [from](/post/from/) [the](/post/the/) [store](/post/store/)."
-  - 到达，抵达。例如: "[We](/post/we/) got [to](/post/to/) [the](/post/the/) [airport](/post/airport/) [just](/post/just/) [in](/post/in/) [time](/post/time/) [for](/post/for/) [our](/post/our/) [flight](/post/flight/)."
-  - 理解，明白。例如: "I don't [get](/post/get/) [what](/post/what/) you're trying [to](/post/to/) [say](/post/say/)."
+  - 获得，得到。例如: "I [finally](/zh/post/finally/) got [a](/zh/post/a/) [job](/zh/post/job/) [after](/zh/post/after/) months [of](/zh/post/of/) searching."
+  - 获取（信息、知识等）。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [get](/zh/post/get/) [me](/zh/post/me/) [some](/zh/post/some/) [information](/zh/post/information/) [on](/zh/post/on/) [that](/zh/post/that/) [topic](/zh/post/topic/)?"
+  - 买。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [get](/zh/post/get/) [some](/zh/post/some/) groceries [from](/zh/post/from/) [the](/zh/post/the/) [store](/zh/post/store/)."
+  - 到达，抵达。例如: "[We](/zh/post/we/) got [to](/zh/post/to/) [the](/zh/post/the/) [airport](/zh/post/airport/) [just](/zh/post/just/) [in](/zh/post/in/) [time](/zh/post/time/) [for](/zh/post/for/) [our](/zh/post/our/) [flight](/zh/post/flight/)."
+  - 理解，明白。例如: "I don't [get](/zh/post/get/) [what](/zh/post/what/) you're trying [to](/zh/post/to/) [say](/zh/post/say/)."
 
 - **名词**:
-  - 获取的东西。例如: "[What](/post/what/) did [you](/post/you/) [get](/post/get/) [for](/post/for/) [your](/post/your/) [birthday](/post/birthday/)?"
-  - （交通）车辆。例如: "I'm taking [the](/post/the/) [bus](/post/bus/), [but](/post/but/) [you](/post/you/) [can](/post/can/) [get](/post/get/) [a](/post/a/) [taxi](/post/taxi/)."
+  - 获取的东西。例如: "[What](/zh/post/what/) did [you](/zh/post/you/) [get](/zh/post/get/) [for](/zh/post/for/) [your](/zh/post/your/) [birthday](/zh/post/birthday/)?"
+  - （交通）车辆。例如: "I'm taking [the](/zh/post/the/) [bus](/zh/post/bus/), [but](/zh/post/but/) [you](/zh/post/you/) [can](/zh/post/can/) [get](/zh/post/get/) [a](/zh/post/a/) [taxi](/zh/post/taxi/)."
 
 ## 短语
-- "[get](/post/get/) [away](/post/away/)" 逃脱，离开。例如: "[The](/post/the/) [thief](/post/thief/) managed [to](/post/to/) [get](/post/get/) [away](/post/away/) [from](/post/from/) [the](/post/the/) [police](/post/police/)."
-- "[get](/post/get/) [along](/post/along/)/[along](/post/along/) [well](/post/well/) [with](/post/with/)" 与...相处融洽。例如: "[She](/post/she/) gets [along](/post/along/) [well](/post/well/) [with](/post/with/) [her](/post/her/) colleagues."
-- "[get](/post/get/) [used](/post/used/) [to](/post/to/)" 习惯于。例如: "[It](/post/it/) took [me](/post/me/) [a](/post/a/) [while](/post/while/) [to](/post/to/) [get](/post/get/) [used](/post/used/) [to](/post/to/) [living](/post/living/) [in](/post/in/) [a](/post/a/) [big](/post/big/) [city](/post/city/)."
+- "[get](/zh/post/get/) [away](/zh/post/away/)" 逃脱，离开。例如: "[The](/zh/post/the/) [thief](/zh/post/thief/) managed [to](/zh/post/to/) [get](/zh/post/get/) [away](/zh/post/away/) [from](/zh/post/from/) [the](/zh/post/the/) [police](/zh/post/police/)."
+- "[get](/zh/post/get/) [along](/zh/post/along/)/[along](/zh/post/along/) [well](/zh/post/well/) [with](/zh/post/with/)" 与...相处融洽。例如: "[She](/zh/post/she/) gets [along](/zh/post/along/) [well](/zh/post/well/) [with](/zh/post/with/) [her](/zh/post/her/) colleagues."
+- "[get](/zh/post/get/) [used](/zh/post/used/) [to](/zh/post/to/)" 习惯于。例如: "[It](/zh/post/it/) took [me](/zh/post/me/) [a](/zh/post/a/) [while](/zh/post/while/) [to](/zh/post/to/) [get](/zh/post/get/) [used](/zh/post/used/) [to](/zh/post/to/) [living](/zh/post/living/) [in](/zh/post/in/) [a](/zh/post/a/) [big](/zh/post/big/) [city](/zh/post/city/)."
 
 ## 例句
-- 动词: "[He](/post/he/) got [a](/post/a/) [new](/post/new/) [car](/post/car/) [for](/post/for/) [his](/post/his/) [birthday](/post/birthday/)."
-- 名词: "[What](/post/what/) did [you](/post/you/) [get](/post/get/) [when](/post/when/) [you](/post/you/) opened [the](/post/the/) [box](/post/box/)?"
+- 动词: "[He](/zh/post/he/) got [a](/zh/post/a/) [new](/zh/post/new/) [car](/zh/post/car/) [for](/zh/post/for/) [his](/zh/post/his/) [birthday](/zh/post/birthday/)."
+- 名词: "[What](/zh/post/what/) did [you](/zh/post/you/) [get](/zh/post/get/) [when](/zh/post/when/) [you](/zh/post/you/) opened [the](/zh/post/the/) [box](/zh/post/box/)?"
 
 ## 同义词
-- [obtain](/post/obtain/)
-- [acquire](/post/acquire/)
-- [attain](/post/attain/)
-- [secure](/post/secure/)
-- [reach](/post/reach/)
+- [obtain](/zh/post/obtain/)
+- [acquire](/zh/post/acquire/)
+- [attain](/zh/post/attain/)
+- [secure](/zh/post/secure/)
+- [reach](/zh/post/reach/)

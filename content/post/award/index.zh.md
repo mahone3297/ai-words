@@ -11,21 +11,21 @@ keywords = ['ai words', 'award']
 /əˈwɔːrd/
 
 ## 释义
-- **名词**: 奖励，奖品；给予的报酬或荣誉。例如: "[She](/post/she/) received an [award](/post/award/) [for](/post/for/) [her](/post/her/) [outstanding](/post/outstanding/) [performance](/post/performance/)."
-- **动词**: 授予，给予奖项或奖励。例如: "[The](/post/the/) [committee](/post/committee/) awarded [him](/post/him/) [the](/post/the/) [prize](/post/prize/) [for](/post/for/) [his](/post/his/) innovative [research](/post/research/)."
+- **名词**: 奖励，奖品；给予的报酬或荣誉。例如: "[She](/zh/post/she/) received an [award](/zh/post/award/) [for](/zh/post/for/) [her](/zh/post/her/) [outstanding](/zh/post/outstanding/) [performance](/zh/post/performance/)."
+- **动词**: 授予，给予奖项或奖励。例如: "[The](/zh/post/the/) [committee](/zh/post/committee/) awarded [him](/zh/post/him/) [the](/zh/post/the/) [prize](/zh/post/prize/) [for](/zh/post/for/) [his](/zh/post/his/) innovative [research](/zh/post/research/)."
 
 ## 短语
-- "[Win](/post/win/) an [award](/post/award/)" 意为赢得奖项。
-- "[Best](/post/best/) [award](/post/award/)" 通常指的是最佳奖项。
-- "[Award](/post/award/) [ceremony](/post/ceremony/)" 是颁奖典礼的意思。
+- "[Win](/zh/post/win/) an [award](/zh/post/award/)" 意为赢得奖项。
+- "[Best](/zh/post/best/) [award](/zh/post/award/)" 通常指的是最佳奖项。
+- "[Award](/zh/post/award/) [ceremony](/zh/post/ceremony/)" 是颁奖典礼的意思。
 
 ## 例句
-- 名词: "[The](/post/the/) [athlete](/post/athlete/) proudly displayed [his](/post/his/) [gold](/post/gold/) [medal](/post/medal/), an [award](/post/award/) [for](/post/for/) [his](/post/his/) dedication [to](/post/to/) sports."
-- 动词: "[The](/post/the/) judges awarded [the](/post/the/) championship [title](/post/title/) [to](/post/to/) [the](/post/the/) [most](/post/most/) [consistent](/post/consistent/) performer."
+- 名词: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) proudly displayed [his](/zh/post/his/) [gold](/zh/post/gold/) [medal](/zh/post/medal/), an [award](/zh/post/award/) [for](/zh/post/for/) [his](/zh/post/his/) dedication [to](/zh/post/to/) sports."
+- 动词: "[The](/zh/post/the/) judges awarded [the](/zh/post/the/) championship [title](/zh/post/title/) [to](/zh/post/to/) [the](/zh/post/the/) [most](/zh/post/most/) [consistent](/zh/post/consistent/) performer."
   
 ## 同义词
-- [Prize](/post/prize/)
+- [Prize](/zh/post/prize/)
 - Honor
-- [Distinction](/post/distinction/)
-- [Reward](/post/reward/)
-- [Recognition](/post/recognition/)
+- [Distinction](/zh/post/distinction/)
+- [Reward](/zh/post/reward/)
+- [Recognition](/zh/post/recognition/)

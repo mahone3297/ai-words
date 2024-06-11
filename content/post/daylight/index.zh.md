@@ -11,20 +11,20 @@ keywords = ['ai words', 'daylight']
 /ˈdeɪlaɪt/
 
 ## 释义
-- **名词**: 白天的自然光，日光。例如: "[The](/post/the/) [room](/post/room/) was [bright](/post/bright/) [with](/post/with/) [daylight](/post/daylight/)."
-- **形容词**: 在日间发生的，利用日光的。例如: "[daylight](/post/daylight/) [saving](/post/saving/) [time](/post/time/)" (夏令时)
+- **名词**: 白天的自然光，日光。例如: "[The](/zh/post/the/) [room](/zh/post/room/) was [bright](/zh/post/bright/) [with](/zh/post/with/) [daylight](/zh/post/daylight/)."
+- **形容词**: 在日间发生的，利用日光的。例如: "[daylight](/zh/post/daylight/) [saving](/zh/post/saving/) [time](/zh/post/time/)" (夏令时)
 
 ## 短语
-- "[in](/post/in/) [broad](/post/broad/) [daylight](/post/daylight/)" 在大白天，公开地
-- "[daylight](/post/daylight/) hours" 白天的时间
+- "[in](/zh/post/in/) [broad](/zh/post/broad/) [daylight](/zh/post/daylight/)" 在大白天，公开地
+- "[daylight](/zh/post/daylight/) hours" 白天的时间
 
 ## 例句
-- 名词: "[The](/post/the/) [sun](/post/sun/) was [just](/post/just/) rising, [and](/post/and/) [the](/post/the/) [first](/post/first/) rays [of](/post/of/) [daylight](/post/daylight/) illuminated [the](/post/the/) landscape."
-- 形容词: "[The](/post/the/) [race](/post/race/) [will](/post/will/) [start](/post/start/) [at](/post/at/) [dawn](/post/dawn/) [and](/post/and/) [finish](/post/finish/) [before](/post/before/) [daylight](/post/daylight/) hours [end](/post/end/)."
+- 名词: "[The](/zh/post/the/) [sun](/zh/post/sun/) was [just](/zh/post/just/) rising, [and](/zh/post/and/) [the](/zh/post/the/) [first](/zh/post/first/) rays [of](/zh/post/of/) [daylight](/zh/post/daylight/) illuminated [the](/zh/post/the/) landscape."
+- 形容词: "[The](/zh/post/the/) [race](/zh/post/race/) [will](/zh/post/will/) [start](/zh/post/start/) [at](/zh/post/at/) [dawn](/zh/post/dawn/) [and](/zh/post/and/) [finish](/zh/post/finish/) [before](/zh/post/before/) [daylight](/zh/post/daylight/) hours [end](/zh/post/end/)."
 
 ## 同义词
-- [sunshine](/post/sunshine/)
-- [sunlight](/post/sunlight/)
-- [natural](/post/natural/) [light](/post/light/)
+- [sunshine](/zh/post/sunshine/)
+- [sunlight](/zh/post/sunlight/)
+- [natural](/zh/post/natural/) [light](/zh/post/light/)
 - daytime
-- [morning](/post/morning/) [light](/post/light/)
+- [morning](/zh/post/morning/) [light](/zh/post/light/)

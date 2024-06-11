@@ -16,18 +16,18 @@ keywords = ['ai words', 'engineering']
     - 工程学科：如土木工程、机械工程、电气工程等专业领域。
 
 ## 短语
-- "[Engineering](/post/engineering/) solutions" 指通过工程方法解决特定问题。
-- "[Engineering](/post/engineering/) [design](/post/design/)" 涉及创造新的产品或系统的规划阶段。
+- "[Engineering](/zh/post/engineering/) solutions" 指通过工程方法解决特定问题。
+- "[Engineering](/zh/post/engineering/) [design](/zh/post/design/)" 涉及创造新的产品或系统的规划阶段。
 - "Engineered products" 是经过精心设计和制造的产品。
 
 ## 例句
-- "She's studying [civil](/post/civil/) [engineering](/post/engineering/) [at](/post/at/) [university](/post/university/)."
-- "[The](/post/the/) [company](/post/company/) specializes [in](/post/in/) software [engineering](/post/engineering/) [for](/post/for/) automotive industries."
-- "[The](/post/the/) [new](/post/new/) [bridge](/post/bridge/) is an [impressive](/post/impressive/) feat [of](/post/of/) [engineering](/post/engineering/)."
+- "She's studying [civil](/zh/post/civil/) [engineering](/zh/post/engineering/) [at](/zh/post/at/) [university](/zh/post/university/)."
+- "[The](/zh/post/the/) [company](/zh/post/company/) specializes [in](/zh/post/in/) software [engineering](/zh/post/engineering/) [for](/zh/post/for/) automotive industries."
+- "[The](/zh/post/the/) [new](/zh/post/new/) [bridge](/zh/post/bridge/) is an [impressive](/zh/post/impressive/) feat [of](/zh/post/of/) [engineering](/zh/post/engineering/)."
 
 ## 同义词
-- [Technology](/post/technology/)
-- [Technical](/post/technical/) [discipline](/post/discipline/)
-- [Construction](/post/construction/)
-- [Invention](/post/invention/)
-- [Architecture](/post/architecture/) (在某些上下文中，尤其是指建筑物的设计)
+- [Technology](/zh/post/technology/)
+- [Technical](/zh/post/technical/) [discipline](/zh/post/discipline/)
+- [Construction](/zh/post/construction/)
+- [Invention](/zh/post/invention/)
+- [Architecture](/zh/post/architecture/) (在某些上下文中，尤其是指建筑物的设计)

@@ -12,17 +12,17 @@ keywords = ['ai words', 'paw']
 
 ## 释义
 - **名词**:
-  - 动物的脚掌，尤指猫或狗的爪子。例如: "[The](/post/the/) puppy playfully nuzzled [my](/post/my/) [hand](/post/hand/) [with](/post/with/) [its](/post/its/) [soft](/post/soft/) [paw](/post/paw/)."
-  - 采矿或挖掘时的挖掘工具，通常为金属制成。例如: "[The](/post/the/) [miner](/post/miner/) [used](/post/used/) [his](/post/his/) [paw](/post/paw/) [to](/post/to/) [dig](/post/dig/) [through](/post/through/) [the](/post/the/) rocky [soil](/post/soil/)."
+  - 动物的脚掌，尤指猫或狗的爪子。例如: "[The](/zh/post/the/) puppy playfully nuzzled [my](/zh/post/my/) [hand](/zh/post/hand/) [with](/zh/post/with/) [its](/zh/post/its/) [soft](/zh/post/soft/) [paw](/zh/post/paw/)."
+  - 采矿或挖掘时的挖掘工具，通常为金属制成。例如: "[The](/zh/post/the/) [miner](/zh/post/miner/) [used](/zh/post/used/) [his](/zh/post/his/) [paw](/zh/post/paw/) [to](/zh/post/to/) [dig](/zh/post/dig/) [through](/zh/post/through/) [the](/zh/post/the/) rocky [soil](/zh/post/soil/)."
 
 ## 短语
-- "[paw](/post/paw/) [at](/post/at/)" 表示用爪子抓或摸索。例如: "[The](/post/the/) kitten pawed [at](/post/at/) [the](/post/the/) [string](/post/string/), trying [to](/post/to/) [catch](/post/catch/) [it](/post/it/)."
+- "[paw](/zh/post/paw/) [at](/zh/post/at/)" 表示用爪子抓或摸索。例如: "[The](/zh/post/the/) kitten pawed [at](/zh/post/at/) [the](/zh/post/the/) [string](/zh/post/string/), trying [to](/zh/post/to/) [catch](/zh/post/catch/) [it](/zh/post/it/)."
 
 ## 例句
-- 名词: "[The](/post/the/) cat's [paw](/post/paw/) [left](/post/left/) [a](/post/a/) [gentle](/post/gentle/) [scratch](/post/scratch/) [on](/post/on/) [my](/post/my/) [arm](/post/arm/)."
-- 动词: "[The](/post/the/) [dog](/post/dog/) pawed [the](/post/the/) [ground](/post/ground/) nervously [before](/post/before/) running [off](/post/off/)."
+- 名词: "[The](/zh/post/the/) cat's [paw](/zh/post/paw/) [left](/zh/post/left/) [a](/zh/post/a/) [gentle](/zh/post/gentle/) [scratch](/zh/post/scratch/) [on](/zh/post/on/) [my](/zh/post/my/) [arm](/zh/post/arm/)."
+- 动词: "[The](/zh/post/the/) [dog](/zh/post/dog/) pawed [the](/zh/post/the/) [ground](/zh/post/ground/) nervously [before](/zh/post/before/) running [off](/zh/post/off/)."
 
 ## 同义词
-- [claw](/post/claw/) (名词)
-- [foot](/post/foot/) (名词，但更通用，不特指爪子部分)
-- digging [tool](/post/tool/) (名词，特指采矿或挖掘工具)
+- [claw](/zh/post/claw/) (名词)
+- [foot](/zh/post/foot/) (名词，但更通用，不特指爪子部分)
+- digging [tool](/zh/post/tool/) (名词，特指采矿或挖掘工具)

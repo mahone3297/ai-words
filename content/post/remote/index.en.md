@@ -7,45 +7,45 @@ description = '[riˈməut] a.相隔很远的；冷淡的'
 keywords = ['ai words', 'remote']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈməʊt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [remote](/en/post/remote/) [control](/en/post/control/) [or](/en/post/or/) [device](/en/post/device/) [that](/en/post/that/) operates [something](/en/post/something/) [from](/en/post/from/) [a](/en/post/a/) [distance](/en/post/distance/), [often](/en/post/often/) [via](/en/post/via/) [radio](/en/post/radio/) waves [or](/en/post/or/) an internet [connection](/en/post/connection/).
-- [A](/en/post/a/) [distant](/en/post/distant/) [or](/en/post/or/) isolated [location](/en/post/location/) [or](/en/post/or/) [area](/en/post/area/).
-- [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) lives [or](/en/post/or/) works [far](/en/post/far/) [away](/en/post/away/) [from](/en/post/from/) others.
-- (Computing) [A](/en/post/a/) software [application](/en/post/application/) [or](/en/post/or/) [program](/en/post/program/) [that](/en/post/that/) allows users [to](/en/post/to/) [access](/en/post/access/) [and](/en/post/and/) interact [with](/en/post/with/) [a](/en/post/a/) [computer](/en/post/computer/) [system](/en/post/system/) remotely.
+### [Noun](/post/noun/)
+- [A](/post/a/) [remote](/post/remote/) [control](/post/control/) [or](/post/or/) [device](/post/device/) [that](/post/that/) operates [something](/post/something/) [from](/post/from/) [a](/post/a/) [distance](/post/distance/), [often](/post/often/) [via](/post/via/) [radio](/post/radio/) waves [or](/post/or/) an internet [connection](/post/connection/).
+- [A](/post/a/) [distant](/post/distant/) [or](/post/or/) isolated [location](/post/location/) [or](/post/or/) [area](/post/area/).
+- [A](/post/a/) [person](/post/person/) [who](/post/who/) lives [or](/post/or/) works [far](/post/far/) [away](/post/away/) [from](/post/from/) others.
+- (Computing) [A](/post/a/) software [application](/post/application/) [or](/post/or/) [program](/post/program/) [that](/post/that/) allows users [to](/post/to/) [access](/post/access/) [and](/post/and/) interact [with](/post/with/) [a](/post/a/) [computer](/post/computer/) [system](/post/system/) remotely.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [operate](/en/post/operate/) [or](/en/post/or/) [control](/en/post/control/) [something](/en/post/something/) [from](/en/post/from/) [a](/en/post/a/) [distance](/en/post/distance/) using [a](/en/post/a/) [remote](/en/post/remote/) [control](/en/post/control/).
-- [To](/en/post/to/) [be](/en/post/be/) situated [or](/en/post/or/) located [at](/en/post/at/) [a](/en/post/a/) [great](/en/post/great/) [distance](/en/post/distance/).
-- [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [remote](/en/post/remote/) [communication](/en/post/communication/) [or](/en/post/or/) [interaction](/en/post/interaction/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [operate](/post/operate/) [or](/post/or/) [control](/post/control/) [something](/post/something/) [from](/post/from/) [a](/post/a/) [distance](/post/distance/) using [a](/post/a/) [remote](/post/remote/) [control](/post/control/).
+- [To](/post/to/) [be](/post/be/) situated [or](/post/or/) located [at](/post/at/) [a](/post/a/) [great](/post/great/) [distance](/post/distance/).
+- [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [remote](/post/remote/) [communication](/post/communication/) [or](/post/or/) [interaction](/post/interaction/).
 
 ## Phrases
-- "[Control](/en/post/control/) [something](/en/post/something/) remotely"
-- "[Be](/en/post/be/) [in](/en/post/in/) [remote](/en/post/remote/) areas"
-- "[Work](/en/post/work/) remotely"
-- "[Keep](/en/post/keep/) [in](/en/post/in/) [touch](/en/post/touch/) remotely"
+- "[Control](/post/control/) [something](/post/something/) remotely"
+- "[Be](/post/be/) [in](/post/in/) [remote](/post/remote/) areas"
+- "[Work](/post/work/) remotely"
+- "[Keep](/post/keep/) [in](/post/in/) [touch](/post/touch/) remotely"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [love](/en/post/love/) [being](/en/post/being/) [able](/en/post/able/) [to](/en/post/to/) [control](/en/post/control/) [my](/en/post/my/) TV [with](/en/post/with/) [my](/en/post/my/) smartphone app, it's [so](/en/post/so/) [convenient](/en/post/convenient/)."
-- **[Verb](/en/post/verb/)**: "[Due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) pandemic, [many](/en/post/many/) employees [have](/en/post/have/) been forced [to](/en/post/to/) [work](/en/post/work/) remotely."
-- "[The](/en/post/the/) archaeologist studied [ancient](/en/post/ancient/) artifacts [found](/en/post/found/) [in](/en/post/in/) [remote](/en/post/remote/) regions [of](/en/post/of/) [the](/en/post/the/) Amazon [jungle](/en/post/jungle/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [love](/post/love/) [being](/post/being/) [able](/post/able/) [to](/post/to/) [control](/post/control/) [my](/post/my/) TV [with](/post/with/) [my](/post/my/) smartphone app, it's [so](/post/so/) [convenient](/post/convenient/)."
+- **[Verb](/post/verb/)**: "[Due](/post/due/) [to](/post/to/) [the](/post/the/) pandemic, [many](/post/many/) employees [have](/post/have/) been forced [to](/post/to/) [work](/post/work/) remotely."
+- "[The](/post/the/) archaeologist studied [ancient](/post/ancient/) artifacts [found](/post/found/) [in](/post/in/) [remote](/post/remote/) regions [of](/post/of/) [the](/post/the/) Amazon [jungle](/post/jungle/)."
 
 ## Synonyms
-- [Distant](/en/post/distant/)
+- [Distant](/post/distant/)
 - Far-flung
 - Isolated
 - Offsite
-- [Out](/en/post/out/) [of](/en/post/of/) [reach](/en/post/reach/)
-- [At](/en/post/at/) [a](/en/post/a/) [distance](/en/post/distance/)
+- [Out](/post/out/) [of](/post/of/) [reach](/post/reach/)
+- [At](/post/at/) [a](/post/a/) [distance](/post/distance/)
 - Long-distance
 
 ## Antonyms
-- [Nearby](/en/post/nearby/)
-- [Local](/en/post/local/)
+- [Nearby](/post/nearby/)
+- [Local](/post/local/)
 - Accessible
-- [Close](/en/post/close/)
+- [Close](/post/close/)
 - In-person
-- [Present](/en/post/present/)
+- [Present](/post/present/)

@@ -7,44 +7,44 @@ description = '[tæks] n.税，税款；负担'
 keywords = ['ai words', 'tax']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tæks/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) compulsory [financial](/en/post/financial/) [charge](/en/post/charge/) paid [by](/en/post/by/) individuals [or](/en/post/or/) businesses [to](/en/post/to/) [the](/en/post/the/) [government](/en/post/government/) [for](/en/post/for/) [the](/en/post/the/) [provision](/en/post/provision/) [of](/en/post/of/) [public](/en/post/public/) services [or](/en/post/or/) [goods](/en/post/goods/), [such](/en/post/such/) [as](/en/post/as/) [education](/en/post/education/), healthcare, [or](/en/post/or/) infrastructure.
-   - "[The](/en/post/the/) [government](/en/post/government/) collects taxes [on](/en/post/on/) [income](/en/post/income/), [property](/en/post/property/), [and](/en/post/and/) sales."
-   - "[Tax](/en/post/tax/) revenues [help](/en/post/help/) [fund](/en/post/fund/) [social](/en/post/social/) programs."
+### [Noun](/post/noun/)
+1. [A](/post/a/) compulsory [financial](/post/financial/) [charge](/post/charge/) paid [by](/post/by/) individuals [or](/post/or/) businesses [to](/post/to/) [the](/post/the/) [government](/post/government/) [for](/post/for/) [the](/post/the/) [provision](/post/provision/) [of](/post/of/) [public](/post/public/) services [or](/post/or/) [goods](/post/goods/), [such](/post/such/) [as](/post/as/) [education](/post/education/), healthcare, [or](/post/or/) infrastructure.
+   - "[The](/post/the/) [government](/post/government/) collects taxes [on](/post/on/) [income](/post/income/), [property](/post/property/), [and](/post/and/) sales."
+   - "[Tax](/post/tax/) revenues [help](/post/help/) [fund](/post/fund/) [social](/post/social/) programs."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [impose](/en/post/impose/) [or](/en/post/or/) levy [a](/en/post/a/) [tax](/en/post/tax/) [on](/en/post/on/) ([a](/en/post/a/) [person](/en/post/person/), [company](/en/post/company/), [or](/en/post/or/) transaction).
-   - "[The](/en/post/the/) [government](/en/post/government/) decided [to](/en/post/to/) [raise](/en/post/raise/) taxes [on](/en/post/on/) imported [goods](/en/post/goods/)."
-   - "[The](/en/post/the/) [corporation](/en/post/corporation/) is required [to](/en/post/to/) [file](/en/post/file/) [a](/en/post/a/) [tax](/en/post/tax/) [return](/en/post/return/) [by](/en/post/by/) [the](/en/post/the/) deadline."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [impose](/post/impose/) [or](/post/or/) levy [a](/post/a/) [tax](/post/tax/) [on](/post/on/) ([a](/post/a/) [person](/post/person/), [company](/post/company/), [or](/post/or/) transaction).
+   - "[The](/post/the/) [government](/post/government/) decided [to](/post/to/) [raise](/post/raise/) taxes [on](/post/on/) imported [goods](/post/goods/)."
+   - "[The](/post/the/) [corporation](/post/corporation/) is required [to](/post/to/) [file](/post/file/) [a](/post/a/) [tax](/post/tax/) [return](/post/return/) [by](/post/by/) [the](/post/the/) deadline."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [a](/en/post/a/) [financial](/en/post/financial/) [charge](/en/post/charge/) [or](/en/post/or/) levy.
-   - "[A](/en/post/a/) tax-exempt [organization](/en/post/organization/) doesn't [pay](/en/post/pay/) taxes [on](/en/post/on/) [its](/en/post/its/) [income](/en/post/income/)."
-   - "[The](/en/post/the/) tax-free [zone](/en/post/zone/) attracts shoppers [with](/en/post/with/) [lower](/en/post/lower/) prices."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [a](/post/a/) [financial](/post/financial/) [charge](/post/charge/) [or](/post/or/) levy.
+   - "[A](/post/a/) tax-exempt [organization](/post/organization/) doesn't [pay](/post/pay/) taxes [on](/post/on/) [its](/post/its/) [income](/post/income/)."
+   - "[The](/post/the/) tax-free [zone](/post/zone/) attracts shoppers [with](/post/with/) [lower](/post/lower/) prices."
 
 ## Phrases
-- "[File](/en/post/file/) [a](/en/post/a/) [tax](/en/post/tax/) [return](/en/post/return/)" [means](/en/post/means/) [to](/en/post/to/) [submit](/en/post/submit/) [the](/en/post/the/) [necessary](/en/post/necessary/) paperwork [to](/en/post/to/) [report](/en/post/report/) [income](/en/post/income/) [and](/en/post/and/) [pay](/en/post/pay/) taxes owed.
-- "[Tax](/en/post/tax/) deductions" are reductions [in](/en/post/in/) taxable [income](/en/post/income/).
-- "[Tax](/en/post/tax/) [season](/en/post/season/)" refers [to](/en/post/to/) [the](/en/post/the/) [time](/en/post/time/) [when](/en/post/when/) [people](/en/post/people/) typically [prepare](/en/post/prepare/) [and](/en/post/and/) [submit](/en/post/submit/) [their](/en/post/their/) [tax](/en/post/tax/) returns.
+- "[File](/post/file/) [a](/post/a/) [tax](/post/tax/) [return](/post/return/)" [means](/post/means/) [to](/post/to/) [submit](/post/submit/) [the](/post/the/) [necessary](/post/necessary/) paperwork [to](/post/to/) [report](/post/report/) [income](/post/income/) [and](/post/and/) [pay](/post/pay/) taxes owed.
+- "[Tax](/post/tax/) deductions" are reductions [in](/post/in/) taxable [income](/post/income/).
+- "[Tax](/post/tax/) [season](/post/season/)" refers [to](/post/to/) [the](/post/the/) [time](/post/time/) [when](/post/when/) [people](/post/people/) typically [prepare](/post/prepare/) [and](/post/and/) [submit](/post/submit/) [their](/post/their/) [tax](/post/tax/) returns.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) citizens [must](/en/post/must/) [pay](/en/post/pay/) [their](/en/post/their/) [income](/en/post/income/) [tax](/en/post/tax/) [every](/en/post/every/) [year](/en/post/year/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) accountant helped [the](/en/post/the/) client minimize [their](/en/post/their/) [tax](/en/post/tax/) liability."
-- **[Adjective](/en/post/adjective/)**: "[Many](/en/post/many/) [small](/en/post/small/) businesses [operate](/en/post/operate/) [in](/en/post/in/) [a](/en/post/a/) tax-efficient [manner](/en/post/manner/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) citizens [must](/post/must/) [pay](/post/pay/) [their](/post/their/) [income](/post/income/) [tax](/post/tax/) [every](/post/every/) [year](/post/year/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) accountant helped [the](/post/the/) client minimize [their](/post/their/) [tax](/post/tax/) liability."
+- **[Adjective](/post/adjective/)**: "[Many](/post/many/) [small](/post/small/) businesses [operate](/post/operate/) [in](/post/in/) [a](/post/a/) tax-efficient [manner](/post/manner/)."
 
 ## Synonyms
-- [Duty](/en/post/duty/)
+- [Duty](/post/duty/)
 - Levy
-- [Charge](/en/post/charge/)
+- [Charge](/post/charge/)
 - Assessment
-- [Fee](/en/post/fee/)
+- [Fee](/post/fee/)
 - impost
 
 ## Antonyms
 - Tax-free
 - Exempt
-- [Free](/en/post/free/) [of](/en/post/of/) [charge](/en/post/charge/)
+- [Free](/post/free/) [of](/post/of/) [charge](/post/charge/)

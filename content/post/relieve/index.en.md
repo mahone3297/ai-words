@@ -7,38 +7,38 @@ description = '[riˈliːv] vt.减轻，解除；救济'
 keywords = ['ai words', 'relieve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈliːv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Relief](/en/post/relief/)**: [The](/en/post/the/) [feeling](/en/post/feeling/) [of](/en/post/of/) [ease](/en/post/ease/) [or](/en/post/or/) [comfort](/en/post/comfort/) [after](/en/post/after/) experiencing [stress](/en/post/stress/), [pain](/en/post/pain/), [or](/en/post/or/) [difficulty](/en/post/difficulty/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) medication brought [immediate](/en/post/immediate/) [relief](/en/post/relief/) [to](/en/post/to/) [his](/en/post/his/) [headache](/en/post/headache/)."
-- **Reliever**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) provides [relief](/en/post/relief/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [temporary](/en/post/temporary/) [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [first](/en/post/first/) [aid](/en/post/aid/) kit contained [various](/en/post/various/) relievers [for](/en/post/for/) [common](/en/post/common/) injuries."
+### [Noun](/post/noun/)
+- **[Relief](/post/relief/)**: [The](/post/the/) [feeling](/post/feeling/) [of](/post/of/) [ease](/post/ease/) [or](/post/or/) [comfort](/post/comfort/) [after](/post/after/) experiencing [stress](/post/stress/), [pain](/post/pain/), [or](/post/or/) [difficulty](/post/difficulty/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) medication brought [immediate](/post/immediate/) [relief](/post/relief/) [to](/post/to/) [his](/post/his/) [headache](/post/headache/)."
+- **Reliever**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) provides [relief](/post/relief/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [temporary](/post/temporary/) [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [first](/post/first/) [aid](/post/aid/) kit contained [various](/post/various/) relievers [for](/post/for/) [common](/post/common/) injuries."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [relieve](/en/post/relieve/)**: 1) [To](/en/post/to/) [make](/en/post/make/) [less](/en/post/less/) [severe](/en/post/severe/) [or](/en/post/or/) [intense](/en/post/intense/); alleviate. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [rain](/en/post/rain/) relieved [the](/en/post/the/) [drought](/en/post/drought/) conditions."
-   - 2) [To](/en/post/to/) [take](/en/post/take/) [over](/en/post/over/) [a](/en/post/a/) [duty](/en/post/duty/) [or](/en/post/or/) [responsibility](/en/post/responsibility/) [from](/en/post/from/) [someone](/en/post/someone/) [else](/en/post/else/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) relieved [her](/en/post/her/) [colleague](/en/post/colleague/) [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [their](/en/post/their/) [shift](/en/post/shift/)."
-   - 3) [To](/en/post/to/) [grant](/en/post/grant/) ([a](/en/post/a/) [prisoner](/en/post/prisoner/)) [temporary](/en/post/temporary/) [release](/en/post/release/) [from](/en/post/from/) custody. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [judge](/en/post/judge/) decided [to](/en/post/to/) [grant](/en/post/grant/) bail, relieving [him](/en/post/him/) [of](/en/post/of/) [jail](/en/post/jail/) [time](/en/post/time/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [relieve](/post/relieve/)**: 1) [To](/post/to/) [make](/post/make/) [less](/post/less/) [severe](/post/severe/) [or](/post/or/) [intense](/post/intense/); alleviate. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [rain](/post/rain/) relieved [the](/post/the/) [drought](/post/drought/) conditions."
+   - 2) [To](/post/to/) [take](/post/take/) [over](/post/over/) [a](/post/a/) [duty](/post/duty/) [or](/post/or/) [responsibility](/post/responsibility/) [from](/post/from/) [someone](/post/someone/) [else](/post/else/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) relieved [her](/post/her/) [colleague](/post/colleague/) [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [their](/post/their/) [shift](/post/shift/)."
+   - 3) [To](/post/to/) [grant](/post/grant/) ([a](/post/a/) [prisoner](/post/prisoner/)) [temporary](/post/temporary/) [release](/post/release/) [from](/post/from/) custody. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [judge](/post/judge/) decided [to](/post/to/) [grant](/post/grant/) bail, relieving [him](/post/him/) [of](/post/of/) [jail](/post/jail/) [time](/post/time/)."
 
-### [Adjective](/en/post/adjective/)
-- **Relieving**: Providing [relief](/en/post/relief/) [or](/en/post/or/) [comfort](/en/post/comfort/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [cool](/en/post/cool/) [breeze](/en/post/breeze/) was [very](/en/post/very/) relieving [after](/en/post/after/) [a](/en/post/a/) [hot](/en/post/hot/) [day](/en/post/day/)."
+### [Adjective](/post/adjective/)
+- **Relieving**: Providing [relief](/post/relief/) [or](/post/or/) [comfort](/post/comfort/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [cool](/post/cool/) [breeze](/post/breeze/) was [very](/post/very/) relieving [after](/post/after/) [a](/post/a/) [hot](/post/hot/) [day](/post/day/)."
 
 ## Phrases
-- "[Find](/en/post/find/) [relief](/en/post/relief/) [from](/en/post/from/)" implies seeking [or](/en/post/or/) achieving [a](/en/post/a/) [reduction](/en/post/reduction/) [in](/en/post/in/) discomfort.
-- "[Provide](/en/post/provide/) [relief](/en/post/relief/) [to](/en/post/to/)" [means](/en/post/means/) [to](/en/post/to/) alleviate someone's suffering [or](/en/post/or/) [distress](/en/post/distress/).
-- "[Temporary](/en/post/temporary/) [relief](/en/post/relief/)" signifies [a](/en/post/a/) short-term [improvement](/en/post/improvement/).
+- "[Find](/post/find/) [relief](/post/relief/) [from](/post/from/)" implies seeking [or](/post/or/) achieving [a](/post/a/) [reduction](/post/reduction/) [in](/post/in/) discomfort.
+- "[Provide](/post/provide/) [relief](/post/relief/) [to](/post/to/)" [means](/post/means/) [to](/post/to/) alleviate someone's suffering [or](/post/or/) [distress](/post/distress/).
+- "[Temporary](/post/temporary/) [relief](/post/relief/)" signifies [a](/post/a/) short-term [improvement](/post/improvement/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) painkillers [provided](/en/post/provided/) much-needed [relief](/en/post/relief/) [after](/en/post/after/) [the](/en/post/the/) [surgery](/en/post/surgery/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [nurse](/en/post/nurse/) relieved [the](/en/post/the/) patient's [anxiety](/en/post/anxiety/) [by](/en/post/by/) explaining [the](/en/post/the/) [procedure](/en/post/procedure/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [news](/en/post/news/) [of](/en/post/of/) [the](/en/post/the/) promotion was [a](/en/post/a/) [huge](/en/post/huge/) [relief](/en/post/relief/) [to](/en/post/to/) [him](/en/post/him/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) painkillers [provided](/post/provided/) much-needed [relief](/post/relief/) [after](/post/after/) [the](/post/the/) [surgery](/post/surgery/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [nurse](/post/nurse/) relieved [the](/post/the/) patient's [anxiety](/post/anxiety/) [by](/post/by/) explaining [the](/post/the/) [procedure](/post/procedure/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [news](/post/news/) [of](/post/of/) [the](/post/the/) promotion was [a](/post/a/) [huge](/post/huge/) [relief](/post/relief/) [to](/post/to/) [him](/post/him/)."
 
 ## Synonyms
 - Alleviate
-- [Ease](/en/post/ease/)
-- [Comfort](/en/post/comfort/)
-- [Lessen](/en/post/lessen/)
-- [Ease](/en/post/ease/) [the](/en/post/the/) [burden](/en/post/burden/)
+- [Ease](/post/ease/)
+- [Comfort](/post/comfort/)
+- [Lessen](/post/lessen/)
+- [Ease](/post/ease/) [the](/post/the/) [burden](/post/burden/)
 - Allay
-- [Ease](/en/post/ease/) [pain](/en/post/pain/)
-- [Reduce](/en/post/reduce/) [strain](/en/post/strain/)
+- [Ease](/post/ease/) [pain](/post/pain/)
+- [Reduce](/post/reduce/) [strain](/post/strain/)

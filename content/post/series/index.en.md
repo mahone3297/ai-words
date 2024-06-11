@@ -7,39 +7,39 @@ description = '[ˈsiəriːz] n.连续，系列；丛书'
 keywords = ['ai words', 'series']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsɪəriːz/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - [A](/en/post/a/) [sequence](/en/post/sequence/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) things arranged [in](/en/post/in/) [order](/en/post/order/): "[A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) lectures [on](/en/post/on/) [history](/en/post/history/)."
-  - [A](/en/post/a/) [set](/en/post/set/) [or](/en/post/or/) [group](/en/post/group/) [of](/en/post/of/) [similar](/en/post/similar/) items: "[The](/en/post/the/) TV [series](/en/post/series/) finale was [highly](/en/post/highly/) anticipated."
-  - [A](/en/post/a/) [continuous](/en/post/continuous/) [stretch](/en/post/stretch/) [of](/en/post/of/) [time](/en/post/time/) [or](/en/post/or/) events: "[The](/en/post/the/) [Great](/en/post/great/) Depression was [a](/en/post/a/) [long](/en/post/long/) [economic](/en/post/economic/) [series](/en/post/series/)."
-- **[Verb](/en/post/verb/)**: 
-  - [To](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) [present](/en/post/present/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/): "[We](/en/post/we/) [will](/en/post/will/) [series](/en/post/series/) [the](/en/post/the/) books alphabetically."
-  - [To](/en/post/to/) [exhibit](/en/post/exhibit/) [or](/en/post/or/) [display](/en/post/display/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/): "[This](/en/post/this/) [museum](/en/post/museum/) has [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) paintings [in](/en/post/in/) chronological [series](/en/post/series/)."
-  - (informal) [To](/en/post/to/) [watch](/en/post/watch/) [or](/en/post/or/) [follow](/en/post/follow/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) episodes [or](/en/post/or/) parts: "I've been series-watching '[Stranger](/en/post/stranger/) Things'."
+- **[Noun](/post/noun/)**: 
+  - [A](/post/a/) [sequence](/post/sequence/) [or](/post/or/) [series](/post/series/) [of](/post/of/) things arranged [in](/post/in/) [order](/post/order/): "[A](/post/a/) [series](/post/series/) [of](/post/of/) lectures [on](/post/on/) [history](/post/history/)."
+  - [A](/post/a/) [set](/post/set/) [or](/post/or/) [group](/post/group/) [of](/post/of/) [similar](/post/similar/) items: "[The](/post/the/) TV [series](/post/series/) finale was [highly](/post/highly/) anticipated."
+  - [A](/post/a/) [continuous](/post/continuous/) [stretch](/post/stretch/) [of](/post/of/) [time](/post/time/) [or](/post/or/) events: "[The](/post/the/) [Great](/post/great/) Depression was [a](/post/a/) [long](/post/long/) [economic](/post/economic/) [series](/post/series/)."
+- **[Verb](/post/verb/)**: 
+  - [To](/post/to/) [arrange](/post/arrange/) [or](/post/or/) [present](/post/present/) [in](/post/in/) [a](/post/a/) [series](/post/series/): "[We](/post/we/) [will](/post/will/) [series](/post/series/) [the](/post/the/) books alphabetically."
+  - [To](/post/to/) [exhibit](/post/exhibit/) [or](/post/or/) [display](/post/display/) [in](/post/in/) [a](/post/a/) [series](/post/series/): "[This](/post/this/) [museum](/post/museum/) has [a](/post/a/) [collection](/post/collection/) [of](/post/of/) paintings [in](/post/in/) chronological [series](/post/series/)."
+  - (informal) [To](/post/to/) [watch](/post/watch/) [or](/post/or/) [follow](/post/follow/) [a](/post/a/) [series](/post/series/) [of](/post/of/) episodes [or](/post/or/) parts: "I've been series-watching '[Stranger](/post/stranger/) Things'."
 
 ## Phrases
-- "[A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [unfortunate](/en/post/unfortunate/) events" (idiomatic [expression](/en/post/expression/))
-- "[A](/en/post/a/) [limited](/en/post/limited/) [series](/en/post/series/)" ([a](/en/post/a/) [television](/en/post/television/) [show](/en/post/show/) [or](/en/post/or/) [book](/en/post/book/) [with](/en/post/with/) [a](/en/post/a/) predetermined [number](/en/post/number/) [of](/en/post/of/) episodes [or](/en/post/or/) installments)
-- "[Series](/en/post/series/) [production](/en/post/production/)" (manufacturing [a](/en/post/a/) [product](/en/post/product/) [in](/en/post/in/) batches [or](/en/post/or/) sets)
+- "[A](/post/a/) [series](/post/series/) [of](/post/of/) [unfortunate](/post/unfortunate/) events" (idiomatic [expression](/post/expression/))
+- "[A](/post/a/) [limited](/post/limited/) [series](/post/series/)" ([a](/post/a/) [television](/post/television/) [show](/post/show/) [or](/post/or/) [book](/post/book/) [with](/post/with/) [a](/post/a/) predetermined [number](/post/number/) [of](/post/of/) episodes [or](/post/or/) installments)
+- "[Series](/post/series/) [production](/post/production/)" (manufacturing [a](/post/a/) [product](/post/product/) [in](/post/in/) batches [or](/post/or/) sets)
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [book](/en/post/book/) [series](/en/post/series/) has sold millions [of](/en/post/of/) copies worldwide."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) chef decided [to](/en/post/to/) [series](/en/post/series/) [the](/en/post/the/) vegetables [in](/en/post/in/) [different](/en/post/different/) sauces [for](/en/post/for/) [variety](/en/post/variety/)."
-- **Informal**: "I [just](/en/post/just/) started [a](/en/post/a/) [new](/en/post/new/) [series](/en/post/series/) [on](/en/post/on/) Netflix called 'Mindhunter.'"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [book](/post/book/) [series](/post/series/) has sold millions [of](/post/of/) copies worldwide."
+- **[Verb](/post/verb/)**: "[The](/post/the/) chef decided [to](/post/to/) [series](/post/series/) [the](/post/the/) vegetables [in](/post/in/) [different](/post/different/) sauces [for](/post/for/) [variety](/post/variety/)."
+- **Informal**: "I [just](/post/just/) started [a](/post/a/) [new](/post/new/) [series](/post/series/) [on](/post/on/) Netflix called 'Mindhunter.'"
 
 ## Synonyms
-- [Sequence](/en/post/sequence/)
-- [Series](/en/post/series/) [of](/en/post/of/) events
-- [Run](/en/post/run/)
+- [Sequence](/post/sequence/)
+- [Series](/post/series/) [of](/post/of/) events
+- [Run](/post/run/)
 - Strand
 - Arc
-- [Sequence](/en/post/sequence/) [of](/en/post/of/) episodes
-- [Sequence](/en/post/sequence/) [of](/en/post/of/) installments
+- [Sequence](/post/sequence/) [of](/post/of/) episodes
+- [Sequence](/post/sequence/) [of](/post/of/) installments
 
 ## Antonyms
 - Disarray
 - Randomness
-- [Individual](/en/post/individual/) items (unrelated [to](/en/post/to/) [a](/en/post/a/) [series](/en/post/series/))
+- [Individual](/post/individual/) items (unrelated [to](/post/to/) [a](/post/a/) [series](/post/series/))

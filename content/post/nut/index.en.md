@@ -7,38 +7,38 @@ description = '[nʌt] n.坚果，干果；螺母'
 keywords = ['ai words', 'nut']
 +++
 
-## [Word](/en/post/word/): [Nut](/en/post/nut/)
+## [Word](/post/word/): [Nut](/post/nut/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /nuːt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/), hard-shelled [seed](/en/post/seed/) [that](/en/post/that/) typically contains [a](/en/post/a/) kernel [or](/en/post/or/) edible [meat](/en/post/meat/) [inside](/en/post/inside/). E.g., "[She](/en/post/she/) cracked [open](/en/post/open/) [a](/en/post/a/) walnut [and](/en/post/and/) ate [the](/en/post/the/) [nut](/en/post/nut/)."
-  - _Also_, slang [for](/en/post/for/) [a](/en/post/a/) person's [head](/en/post/head/): "[He](/en/post/he/) [hit](/en/post/hit/) [him](/en/post/him/) [on](/en/post/on/) [the](/en/post/the/) [nut](/en/post/nut/) [with](/en/post/with/) [a](/en/post/a/) baseball [bat](/en/post/bat/)."
-  - _Metaphorical use_ [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [crazy](/en/post/crazy/) [or](/en/post/or/) eccentric: "[My](/en/post/my/) [uncle](/en/post/uncle/) is [a](/en/post/a/) [bit](/en/post/bit/) [of](/en/post/of/) [a](/en/post/a/) [nut](/en/post/nut/) [when](/en/post/when/) [it](/en/post/it/) comes [to](/en/post/to/) collecting antique clocks."
-  - [In](/en/post/in/) machinery, [a](/en/post/a/) [nut](/en/post/nut/) is [a](/en/post/a/) fastener [with](/en/post/with/) [a](/en/post/a/) threaded [hole](/en/post/hole/) [that](/en/post/that/) mates [with](/en/post/with/) [a](/en/post/a/) [bolt](/en/post/bolt/) [or](/en/post/or/) [screw](/en/post/screw/). E.g., "Tighten [the](/en/post/the/) [nut](/en/post/nut/) [to](/en/post/to/) [secure](/en/post/secure/) [the](/en/post/the/) bolts."
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/), hard-shelled [seed](/post/seed/) [that](/post/that/) typically contains [a](/post/a/) kernel [or](/post/or/) edible [meat](/post/meat/) [inside](/post/inside/). E.g., "[She](/post/she/) cracked [open](/post/open/) [a](/post/a/) walnut [and](/post/and/) ate [the](/post/the/) [nut](/post/nut/)."
+  - _Also_, slang [for](/post/for/) [a](/post/a/) person's [head](/post/head/): "[He](/post/he/) [hit](/post/hit/) [him](/post/him/) [on](/post/on/) [the](/post/the/) [nut](/post/nut/) [with](/post/with/) [a](/post/a/) baseball [bat](/post/bat/)."
+  - _Metaphorical use_ [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) is [crazy](/post/crazy/) [or](/post/or/) eccentric: "[My](/post/my/) [uncle](/post/uncle/) is [a](/post/a/) [bit](/post/bit/) [of](/post/of/) [a](/post/a/) [nut](/post/nut/) [when](/post/when/) [it](/post/it/) comes [to](/post/to/) collecting antique clocks."
+  - [In](/post/in/) machinery, [a](/post/a/) [nut](/post/nut/) is [a](/post/a/) fastener [with](/post/with/) [a](/post/a/) threaded [hole](/post/hole/) [that](/post/that/) mates [with](/post/with/) [a](/post/a/) [bolt](/post/bolt/) [or](/post/or/) [screw](/post/screw/). E.g., "Tighten [the](/post/the/) [nut](/post/nut/) [to](/post/to/) [secure](/post/secure/) [the](/post/the/) bolts."
   
-- **[Verb](/en/post/verb/)**: (informal) [To](/en/post/to/) [go](/en/post/go/) nuts [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) [very](/en/post/very/) excited [or](/en/post/or/) [enthusiastic](/en/post/enthusiastic/). E.g., "[The](/en/post/the/) kids [will](/en/post/will/) [nut](/en/post/nut/) [when](/en/post/when/) [they](/en/post/they/) [see](/en/post/see/) [the](/en/post/the/) presents [under](/en/post/under/) [the](/en/post/the/) [tree](/en/post/tree/)."
-  - Alternatively, [to](/en/post/to/) '[nut](/en/post/nut/) [something](/en/post/something/)' [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [hit](/en/post/hit/) [with](/en/post/with/) [the](/en/post/the/) [head](/en/post/head/), [usually](/en/post/usually/) [in](/en/post/in/) sports contexts. E.g., "[He](/en/post/he/) managed [to](/en/post/to/) [nut](/en/post/nut/) [the](/en/post/the/) [ball](/en/post/ball/) [into](/en/post/into/) [the](/en/post/the/) [top](/en/post/top/) [corner](/en/post/corner/) [of](/en/post/of/) [the](/en/post/the/) [goal](/en/post/goal/)."
+- **[Verb](/post/verb/)**: (informal) [To](/post/to/) [go](/post/go/) nuts [means](/post/means/) [to](/post/to/) [become](/post/become/) [very](/post/very/) excited [or](/post/or/) [enthusiastic](/post/enthusiastic/). E.g., "[The](/post/the/) kids [will](/post/will/) [nut](/post/nut/) [when](/post/when/) [they](/post/they/) [see](/post/see/) [the](/post/the/) presents [under](/post/under/) [the](/post/the/) [tree](/post/tree/)."
+  - Alternatively, [to](/post/to/) '[nut](/post/nut/) [something](/post/something/)' [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [hit](/post/hit/) [with](/post/with/) [the](/post/the/) [head](/post/head/), [usually](/post/usually/) [in](/post/in/) sports contexts. E.g., "[He](/post/he/) managed [to](/post/to/) [nut](/post/nut/) [the](/post/the/) [ball](/post/ball/) [into](/post/into/) [the](/post/the/) [top](/post/top/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [goal](/post/goal/)."
 
 ## Phrases
-- "[Go](/en/post/go/) nuts": [to](/en/post/to/) [become](/en/post/become/) [extremely](/en/post/extremely/) excited [or](/en/post/or/) [start](/en/post/start/) behaving wildly.
-- "[Hard](/en/post/hard/) [nut](/en/post/nut/) [to](/en/post/to/) [crack](/en/post/crack/)": referring [to](/en/post/to/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [difficult](/en/post/difficult/) [to](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [deal](/en/post/deal/) [with](/en/post/with/).
-- "[Nut](/en/post/nut/) [out](/en/post/out/)": (informal) [to](/en/post/to/) [think](/en/post/think/) [through](/en/post/through/) [or](/en/post/or/) [solve](/en/post/solve/) [a](/en/post/a/) [problem](/en/post/problem/).
+- "[Go](/post/go/) nuts": [to](/post/to/) [become](/post/become/) [extremely](/post/extremely/) excited [or](/post/or/) [start](/post/start/) behaving wildly.
+- "[Hard](/post/hard/) [nut](/post/nut/) [to](/post/to/) [crack](/post/crack/)": referring [to](/post/to/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [difficult](/post/difficult/) [to](/post/to/) [understand](/post/understand/) [or](/post/or/) [deal](/post/deal/) [with](/post/with/).
+- "[Nut](/post/nut/) [out](/post/out/)": (informal) [to](/post/to/) [think](/post/think/) [through](/post/through/) [or](/post/or/) [solve](/post/solve/) [a](/post/a/) [problem](/post/problem/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([seed](/en/post/seed/))**: "Squirrels hoard acorns [and](/en/post/and/) [other](/en/post/other/) nuts [for](/en/post/for/) [winter](/en/post/winter/)."
-- **[Noun](/en/post/noun/) ([head](/en/post/head/))**: "[She](/en/post/she/) accidentally bumped [her](/en/post/her/) [nut](/en/post/nut/) [on](/en/post/on/) [the](/en/post/the/) [cupboard](/en/post/cupboard/) [door](/en/post/door/)."
-- **[Noun](/en/post/noun/) ([person](/en/post/person/))**: "[Despite](/en/post/despite/) [his](/en/post/his/) quirky habits, he's [a](/en/post/a/) [genius](/en/post/genius/); [a](/en/post/a/) [real](/en/post/real/) [nut](/en/post/nut/) [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/) [of](/en/post/of/) robotics."
-- **[Verb](/en/post/verb/)**: "[When](/en/post/when/) [the](/en/post/the/) [band](/en/post/band/) started playing [their](/en/post/their/) [hit](/en/post/hit/) [song](/en/post/song/), [the](/en/post/the/) [crowd](/en/post/crowd/) [just](/en/post/just/) went nuts."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([seed](/post/seed/))**: "Squirrels hoard acorns [and](/post/and/) [other](/post/other/) nuts [for](/post/for/) [winter](/post/winter/)."
+- **[Noun](/post/noun/) ([head](/post/head/))**: "[She](/post/she/) accidentally bumped [her](/post/her/) [nut](/post/nut/) [on](/post/on/) [the](/post/the/) [cupboard](/post/cupboard/) [door](/post/door/)."
+- **[Noun](/post/noun/) ([person](/post/person/))**: "[Despite](/post/despite/) [his](/post/his/) quirky habits, he's [a](/post/a/) [genius](/post/genius/); [a](/post/a/) [real](/post/real/) [nut](/post/nut/) [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) robotics."
+- **[Verb](/post/verb/)**: "[When](/post/when/) [the](/post/the/) [band](/post/band/) started playing [their](/post/their/) [hit](/post/hit/) [song](/post/song/), [the](/post/the/) [crowd](/post/crowd/) [just](/post/just/) went nuts."
   
 ## Synonyms
-- [Seed](/en/post/seed/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [plant](/en/post/plant/) [seed](/en/post/seed/))
-- Kernel ([the](/en/post/the/) edible [part](/en/post/part/) [within](/en/post/within/) [a](/en/post/a/) [nut](/en/post/nut/))
-- [Bolt](/en/post/bolt/) ([in](/en/post/in/) [the](/en/post/the/) [mechanical](/en/post/mechanical/) [sense](/en/post/sense/))
-- [Crazy](/en/post/crazy/) (slang [for](/en/post/for/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) behaves [unusually](/en/post/unusually/))
-- [Enthusiastic](/en/post/enthusiastic/) ([when](/en/post/when/) using [the](/en/post/the/) [phrase](/en/post/phrase/) '[go](/en/post/go/) nuts')
-- [Mad](/en/post/mad/) ([as](/en/post/as/) [in](/en/post/in/) '[a](/en/post/a/) [mad](/en/post/mad/) [person](/en/post/person/)', informal [equivalent](/en/post/equivalent/) [to](/en/post/to/) '[nut](/en/post/nut/)' [in](/en/post/in/) slang) 
-- Noddle (colloquial [for](/en/post/for/) [head](/en/post/head/)) 
+- [Seed](/post/seed/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [plant](/post/plant/) [seed](/post/seed/))
+- Kernel ([the](/post/the/) edible [part](/post/part/) [within](/post/within/) [a](/post/a/) [nut](/post/nut/))
+- [Bolt](/post/bolt/) ([in](/post/in/) [the](/post/the/) [mechanical](/post/mechanical/) [sense](/post/sense/))
+- [Crazy](/post/crazy/) (slang [for](/post/for/) [a](/post/a/) [person](/post/person/) [who](/post/who/) behaves [unusually](/post/unusually/))
+- [Enthusiastic](/post/enthusiastic/) ([when](/post/when/) using [the](/post/the/) [phrase](/post/phrase/) '[go](/post/go/) nuts')
+- [Mad](/post/mad/) ([as](/post/as/) [in](/post/in/) '[a](/post/a/) [mad](/post/mad/) [person](/post/person/)', informal [equivalent](/post/equivalent/) [to](/post/to/) '[nut](/post/nut/)' [in](/post/in/) slang) 
+- Noddle (colloquial [for](/post/for/) [head](/post/head/)) 
 
-[Note](/en/post/note/): [The](/en/post/the/) [various](/en/post/various/) meanings [of](/en/post/of/) "[nut](/en/post/nut/)" [have](/en/post/have/) [different](/en/post/different/) synonyms depending [on](/en/post/on/) [their](/en/post/their/) [specific](/en/post/specific/) context.
+[Note](/post/note/): [The](/post/the/) [various](/post/various/) meanings [of](/post/of/) "[nut](/post/nut/)" [have](/post/have/) [different](/post/different/) synonyms depending [on](/post/on/) [their](/post/their/) [specific](/post/specific/) context.

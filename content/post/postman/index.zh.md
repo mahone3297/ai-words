@@ -11,19 +11,19 @@ keywords = ['ai words', 'postman']
 /ˈpəʊstmæn/
 
 ## 释义
-- **名词 (n)**: 送信或包裹的人，邮差。例如: "[The](/post/the/) [postman](/post/postman/) delivers [mail](/post/mail/) [every](/post/every/) [morning](/post/morning/)."
-- **名词 (n)**: 在某些上下文中，也可以指邮局工作人员。例如: "[She](/post/she/) works [as](/post/as/) [a](/post/a/) [postman](/post/postman/) [at](/post/at/) [the](/post/the/) [local](/post/local/) [post](/post/post/) [office](/post/office/)."
+- **名词 (n)**: 送信或包裹的人，邮差。例如: "[The](/zh/post/the/) [postman](/zh/post/postman/) delivers [mail](/zh/post/mail/) [every](/zh/post/every/) [morning](/zh/post/morning/)."
+- **名词 (n)**: 在某些上下文中，也可以指邮局工作人员。例如: "[She](/zh/post/she/) works [as](/zh/post/as/) [a](/zh/post/a/) [postman](/zh/post/postman/) [at](/zh/post/at/) [the](/zh/post/the/) [local](/zh/post/local/) [post](/zh/post/post/) [office](/zh/post/office/)."
 
 ## 短语
-- "[Meet](/post/meet/) [the](/post/the/) [postman](/post/postman/)" 意味着遇到负责递送邮件的人。
-- "[A](/post/a/) postman's rounds" 指邮差的投递路线。
+- "[Meet](/zh/post/meet/) [the](/zh/post/the/) [postman](/zh/post/postman/)" 意味着遇到负责递送邮件的人。
+- "[A](/zh/post/a/) postman's rounds" 指邮差的投递路线。
 
 ## 例句
-- "[The](/post/the/) [postman](/post/postman/) arrived [with](/post/with/) [a](/post/a/) [stack](/post/stack/) [of](/post/of/) letters [and](/post/and/) packages."
-- "[In](/post/in/) [the](/post/the/) [village](/post/village/), [everyone](/post/everyone/) knows [the](/post/the/) [friendly](/post/friendly/) [postman](/post/postman/) [by](/post/by/) [name](/post/name/)."
+- "[The](/zh/post/the/) [postman](/zh/post/postman/) arrived [with](/zh/post/with/) [a](/zh/post/a/) [stack](/zh/post/stack/) [of](/zh/post/of/) letters [and](/zh/post/and/) packages."
+- "[In](/zh/post/in/) [the](/zh/post/the/) [village](/zh/post/village/), [everyone](/zh/post/everyone/) knows [the](/zh/post/the/) [friendly](/zh/post/friendly/) [postman](/zh/post/postman/) [by](/zh/post/by/) [name](/zh/post/name/)."
 
 ## 同义词
 - Mailman
-- [Letter](/post/letter/) [carrier](/post/carrier/)
-- Postal [worker](/post/worker/)
-- [Delivery](/post/delivery/) [person](/post/person/)
+- [Letter](/zh/post/letter/) [carrier](/zh/post/carrier/)
+- Postal [worker](/zh/post/worker/)
+- [Delivery](/zh/post/delivery/) [person](/zh/post/person/)

@@ -7,32 +7,32 @@ description = '[rei] n.光线，射线，辐射线'
 keywords = ['ai words', 'ray']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /r eɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [beam](/en/post/beam/) [of](/en/post/of/) [light](/en/post/light/), typically originating [from](/en/post/from/) [a](/en/post/a/) [source](/en/post/source/) [and](/en/post/and/) spreading [out](/en/post/out/) [in](/en/post/in/) [straight](/en/post/straight/) lines. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) sun's rays illuminated [the](/en/post/the/) [room](/en/post/room/)."
-- **[Noun](/en/post/noun/)**: (informal) [A](/en/post/a/) person's [line](/en/post/line/) [of](/en/post/of/) [sight](/en/post/sight/) [or](/en/post/or/) [direction](/en/post/direction/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) adjusted [his](/en/post/his/) glasses [to](/en/post/to/) [focus](/en/post/focus/) [on](/en/post/on/) [the](/en/post/the/) [sunset](/en/post/sunset/) rays."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) metaphorical [or](/en/post/or/) figurative [beam](/en/post/beam/) [of](/en/post/of/) [something](/en/post/something/), [like](/en/post/like/) [influence](/en/post/influence/) [or](/en/post/or/) [energy](/en/post/energy/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [kind](/en/post/kind/) words were [a](/en/post/a/) [ray](/en/post/ray/) [of](/en/post/of/) [hope](/en/post/hope/) [in](/en/post/in/) [his](/en/post/his/) [life](/en/post/life/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [emit](/en/post/emit/) [or](/en/post/or/) [send](/en/post/send/) [out](/en/post/out/) rays, [especially](/en/post/especially/) [light](/en/post/light/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) lighthouse sends [out](/en/post/out/) [a](/en/post/a/) [bright](/en/post/bright/) [ray](/en/post/ray/) [of](/en/post/of/) [light](/en/post/light/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) having [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [a](/en/post/a/) [ray](/en/post/ray/); [narrow](/en/post/narrow/) [and](/en/post/and/) focused. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) spotlight [cast](/en/post/cast/) [a](/en/post/a/) [sharp](/en/post/sharp/), ray-like [beam](/en/post/beam/) [on](/en/post/on/) [the](/en/post/the/) [stage](/en/post/stage/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [beam](/post/beam/) [of](/post/of/) [light](/post/light/), typically originating [from](/post/from/) [a](/post/a/) [source](/post/source/) [and](/post/and/) spreading [out](/post/out/) [in](/post/in/) [straight](/post/straight/) lines. [For](/post/for/) [example](/post/example/): "[The](/post/the/) sun's rays illuminated [the](/post/the/) [room](/post/room/)."
+- **[Noun](/post/noun/)**: (informal) [A](/post/a/) person's [line](/post/line/) [of](/post/of/) [sight](/post/sight/) [or](/post/or/) [direction](/post/direction/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) adjusted [his](/post/his/) glasses [to](/post/to/) [focus](/post/focus/) [on](/post/on/) [the](/post/the/) [sunset](/post/sunset/) rays."
+- **[Noun](/post/noun/)**: [A](/post/a/) metaphorical [or](/post/or/) figurative [beam](/post/beam/) [of](/post/of/) [something](/post/something/), [like](/post/like/) [influence](/post/influence/) [or](/post/or/) [energy](/post/energy/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [kind](/post/kind/) words were [a](/post/a/) [ray](/post/ray/) [of](/post/of/) [hope](/post/hope/) [in](/post/in/) [his](/post/his/) [life](/post/life/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [emit](/post/emit/) [or](/post/or/) [send](/post/send/) [out](/post/out/) rays, [especially](/post/especially/) [light](/post/light/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) lighthouse sends [out](/post/out/) [a](/post/a/) [bright](/post/bright/) [ray](/post/ray/) [of](/post/of/) [light](/post/light/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) having [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [a](/post/a/) [ray](/post/ray/); [narrow](/post/narrow/) [and](/post/and/) focused. [For](/post/for/) [example](/post/example/): "[The](/post/the/) spotlight [cast](/post/cast/) [a](/post/a/) [sharp](/post/sharp/), ray-like [beam](/post/beam/) [on](/post/on/) [the](/post/the/) [stage](/post/stage/)."
 
 ## Phrases
-- "[A](/en/post/a/) [light](/en/post/light/) [ray](/en/post/ray/)" refers [to](/en/post/to/) [a](/en/post/a/) [single](/en/post/single/) [beam](/en/post/beam/) [of](/en/post/of/) [light](/en/post/light/).
-- "[In](/en/post/in/) [the](/en/post/the/) sun's rays" describes [warm](/en/post/warm/), [direct](/en/post/direct/) [sunlight](/en/post/sunlight/).
-- "[Ray](/en/post/ray/) [of](/en/post/of/) [sunshine](/en/post/sunshine/)" symbolizes [happiness](/en/post/happiness/) [or](/en/post/or/) optimism.
-- "[Through](/en/post/through/) [the](/en/post/the/) rays [of](/en/post/of/) [a](/en/post/a/) [lens](/en/post/lens/)" indicates [the](/en/post/the/) [way](/en/post/way/) [light](/en/post/light/) passes [through](/en/post/through/) [a](/en/post/a/) [transparent](/en/post/transparent/) [object](/en/post/object/).
+- "[A](/post/a/) [light](/post/light/) [ray](/post/ray/)" refers [to](/post/to/) [a](/post/a/) [single](/post/single/) [beam](/post/beam/) [of](/post/of/) [light](/post/light/).
+- "[In](/post/in/) [the](/post/the/) sun's rays" describes [warm](/post/warm/), [direct](/post/direct/) [sunlight](/post/sunlight/).
+- "[Ray](/post/ray/) [of](/post/of/) [sunshine](/post/sunshine/)" symbolizes [happiness](/post/happiness/) [or](/post/or/) optimism.
+- "[Through](/post/through/) [the](/post/the/) rays [of](/post/of/) [a](/post/a/) [lens](/post/lens/)" indicates [the](/post/the/) [way](/post/way/) [light](/post/light/) passes [through](/post/through/) [a](/post/a/) [transparent](/post/transparent/) [object](/post/object/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) sun's rays warmed [the](/en/post/the/) [sand](/en/post/sand/) [on](/en/post/on/) [the](/en/post/the/) [beach](/en/post/beach/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) flashlight sent [out](/en/post/out/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) rays [across](/en/post/across/) [the](/en/post/the/) [dark](/en/post/dark/) [room](/en/post/room/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) eyes shone [with](/en/post/with/) [a](/en/post/a/) determined [ray](/en/post/ray/) [of](/en/post/of/) [determination](/en/post/determination/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) sun's rays warmed [the](/post/the/) [sand](/post/sand/) [on](/post/on/) [the](/post/the/) [beach](/post/beach/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) flashlight sent [out](/post/out/) [a](/post/a/) [series](/post/series/) [of](/post/of/) rays [across](/post/across/) [the](/post/the/) [dark](/post/dark/) [room](/post/room/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) eyes shone [with](/post/with/) [a](/post/a/) determined [ray](/post/ray/) [of](/post/of/) [determination](/post/determination/)."
 
 ## Synonyms
-- [Beam](/en/post/beam/)
-- [Light](/en/post/light/) [beam](/en/post/beam/)
+- [Beam](/post/beam/)
+- [Light](/post/light/) [beam](/post/beam/)
 - Luminosity
 - Glint
-- Spotlight (referring [to](/en/post/to/) [a](/en/post/a/) concentrated [light](/en/post/light/) [source](/en/post/source/))
-- Radiance ([as](/en/post/as/) [a](/en/post/a/) [quality](/en/post/quality/) [of](/en/post/of/) [light](/en/post/light/))
-- [Solar](/en/post/solar/) [beam](/en/post/beam/) (specifically referring [to](/en/post/to/) [sunlight](/en/post/sunlight/))
+- Spotlight (referring [to](/post/to/) [a](/post/a/) concentrated [light](/post/light/) [source](/post/source/))
+- Radiance ([as](/post/as/) [a](/post/a/) [quality](/post/quality/) [of](/post/of/) [light](/post/light/))
+- [Solar](/post/solar/) [beam](/post/beam/) (specifically referring [to](/post/to/) [sunlight](/post/sunlight/))

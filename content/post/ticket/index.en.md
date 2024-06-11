@@ -7,42 +7,42 @@ description = '[ˈtikit] n.票，券；纲领；传票'
 keywords = ['ai words', 'ticket']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɪkɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [small](/en/post/small/) [piece](/en/post/piece/) [of](/en/post/of/) [paper](/en/post/paper/), [usually](/en/post/usually/) [with](/en/post/with/) printed [information](/en/post/information/), [that](/en/post/that/) serves [as](/en/post/as/) [evidence](/en/post/evidence/) [of](/en/post/of/) [payment](/en/post/payment/) [for](/en/post/for/) [a](/en/post/a/) [service](/en/post/service/), [admission](/en/post/admission/), [or](/en/post/or/) [transportation](/en/post/transportation/).
-   - [Example](/en/post/example/): "I bought [a](/en/post/a/) [ticket](/en/post/ticket/) [to](/en/post/to/) [the](/en/post/the/) [concert](/en/post/concert/) [last](/en/post/last/) [week](/en/post/week/)."
-   - Synonyms: [pass](/en/post/pass/), [ticket](/en/post/ticket/) stub, voucher
+### [Noun](/post/noun/)
+1. [A](/post/a/) [small](/post/small/) [piece](/post/piece/) [of](/post/of/) [paper](/post/paper/), [usually](/post/usually/) [with](/post/with/) printed [information](/post/information/), [that](/post/that/) serves [as](/post/as/) [evidence](/post/evidence/) [of](/post/of/) [payment](/post/payment/) [for](/post/for/) [a](/post/a/) [service](/post/service/), [admission](/post/admission/), [or](/post/or/) [transportation](/post/transportation/).
+   - [Example](/post/example/): "I bought [a](/post/a/) [ticket](/post/ticket/) [to](/post/to/) [the](/post/the/) [concert](/post/concert/) [last](/post/last/) [week](/post/week/)."
+   - Synonyms: [pass](/post/pass/), [ticket](/post/ticket/) stub, voucher
 
-2. [A](/en/post/a/) reservation [or](/en/post/or/) [seat](/en/post/seat/) allocation [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [event](/en/post/event/) [or](/en/post/or/) [performance](/en/post/performance/).
-   - [Example](/en/post/example/): "I [have](/en/post/have/) [a](/en/post/a/) front-row [ticket](/en/post/ticket/) [for](/en/post/for/) [the](/en/post/the/) [play](/en/post/play/)."
+2. [A](/post/a/) reservation [or](/post/or/) [seat](/post/seat/) allocation [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [event](/post/event/) [or](/post/or/) [performance](/post/performance/).
+   - [Example](/post/example/): "I [have](/post/have/) [a](/post/a/) front-row [ticket](/post/ticket/) [for](/post/for/) [the](/post/the/) [play](/post/play/)."
 
-3. [Informal] [A](/en/post/a/) [pass](/en/post/pass/) [or](/en/post/or/) [permission](/en/post/permission/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) got [a](/en/post/a/) backstage [pass](/en/post/pass/), [which](/en/post/which/) was [like](/en/post/like/) [a](/en/post/a/) [golden](/en/post/golden/) [ticket](/en/post/ticket/)."
+3. [Informal] [A](/post/a/) [pass](/post/pass/) [or](/post/or/) [permission](/post/permission/) [to](/post/to/) [do](/post/do/) [something](/post/something/).
+   - [Example](/post/example/): "[She](/post/she/) got [a](/post/a/) backstage [pass](/post/pass/), [which](/post/which/) was [like](/post/like/) [a](/post/a/) [golden](/post/golden/) [ticket](/post/ticket/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [purchase](/en/post/purchase/) [or](/en/post/or/) [secure](/en/post/secure/) [a](/en/post/a/) [ticket](/en/post/ticket/) [for](/en/post/for/) an [event](/en/post/event/) [or](/en/post/or/) [service](/en/post/service/).
-   - [Example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [ticket](/en/post/ticket/) [for](/en/post/for/) [the](/en/post/the/) [flight](/en/post/flight/) [before](/en/post/before/) it's [too](/en/post/too/) [late](/en/post/late/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [purchase](/post/purchase/) [or](/post/or/) [secure](/post/secure/) [a](/post/a/) [ticket](/post/ticket/) [for](/post/for/) an [event](/post/event/) [or](/post/or/) [service](/post/service/).
+   - [Example](/post/example/): "I [need](/post/need/) [to](/post/to/) [ticket](/post/ticket/) [for](/post/for/) [the](/post/the/) [flight](/post/flight/) [before](/post/before/) it's [too](/post/too/) [late](/post/late/)."
 
-2. (informal) [To](/en/post/to/) [provide](/en/post/provide/) [or](/en/post/or/) [give](/en/post/give/) [access](/en/post/access/) [or](/en/post/or/) [permission](/en/post/permission/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [boss](/en/post/boss/) ticketed [me](/en/post/me/) [for](/en/post/for/) taking [a](/en/post/a/) [short](/en/post/short/) [break](/en/post/break/) [during](/en/post/during/) [work](/en/post/work/)."
+2. (informal) [To](/post/to/) [provide](/post/provide/) [or](/post/or/) [give](/post/give/) [access](/post/access/) [or](/post/or/) [permission](/post/permission/).
+   - [Example](/post/example/): "[The](/post/the/) [boss](/post/boss/) ticketed [me](/post/me/) [for](/post/for/) taking [a](/post/a/) [short](/post/short/) [break](/post/break/) [during](/post/during/) [work](/post/work/)."
 
 ## Phrases
-- "[Get](/en/post/get/) [a](/en/post/a/) [ticket](/en/post/ticket/)" [means](/en/post/means/) [to](/en/post/to/) [buy](/en/post/buy/) [a](/en/post/a/) [ticket](/en/post/ticket/) [or](/en/post/or/) [secure](/en/post/secure/) [one](/en/post/one/).
-- "[A](/en/post/a/) [ticket](/en/post/ticket/) [to](/en/post/to/) [ride](/en/post/ride/)" is [a](/en/post/a/) metaphorical [expression](/en/post/expression/) [for](/en/post/for/) [permission](/en/post/permission/) [or](/en/post/or/) [access](/en/post/access/) [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [something](/en/post/something/).
-- "Ticketed [event](/en/post/event/)" refers [to](/en/post/to/) an organized [activity](/en/post/activity/) [where](/en/post/where/) tickets are required.
+- "[Get](/post/get/) [a](/post/a/) [ticket](/post/ticket/)" [means](/post/means/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [ticket](/post/ticket/) [or](/post/or/) [secure](/post/secure/) [one](/post/one/).
+- "[A](/post/a/) [ticket](/post/ticket/) [to](/post/to/) [ride](/post/ride/)" is [a](/post/a/) metaphorical [expression](/post/expression/) [for](/post/for/) [permission](/post/permission/) [or](/post/or/) [access](/post/access/) [to](/post/to/) [participate](/post/participate/) [in](/post/in/) [something](/post/something/).
+- "Ticketed [event](/post/event/)" refers [to](/post/to/) an organized [activity](/post/activity/) [where](/post/where/) tickets are required.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I kept [the](/en/post/the/) [ticket](/en/post/ticket/) [as](/en/post/as/) [a](/en/post/a/) souvenir [from](/en/post/from/) [my](/en/post/my/) [trip](/en/post/trip/) [to](/en/post/to/) Europe."
-- **[Verb](/en/post/verb/)**: "I'll [need](/en/post/need/) [to](/en/post/to/) [ticket](/en/post/ticket/) online [for](/en/post/for/) [the](/en/post/the/) [opera](/en/post/opera/), [as](/en/post/as/) [the](/en/post/the/) [box](/en/post/box/) [office](/en/post/office/) is closed."
-- **Informal**: "Getting [a](/en/post/a/) [golden](/en/post/golden/) [ticket](/en/post/ticket/) [to](/en/post/to/) [the](/en/post/the/) after-party meant [being](/en/post/being/) invited [by](/en/post/by/) [the](/en/post/the/) [host](/en/post/host/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I kept [the](/post/the/) [ticket](/post/ticket/) [as](/post/as/) [a](/post/a/) souvenir [from](/post/from/) [my](/post/my/) [trip](/post/trip/) [to](/post/to/) Europe."
+- **[Verb](/post/verb/)**: "I'll [need](/post/need/) [to](/post/to/) [ticket](/post/ticket/) online [for](/post/for/) [the](/post/the/) [opera](/post/opera/), [as](/post/as/) [the](/post/the/) [box](/post/box/) [office](/post/office/) is closed."
+- **Informal**: "Getting [a](/post/a/) [golden](/post/golden/) [ticket](/post/ticket/) [to](/post/to/) [the](/post/the/) after-party meant [being](/post/being/) invited [by](/post/by/) [the](/post/the/) [host](/post/host/)."
 
 ## Synonyms
-- [Admission](/en/post/admission/) [pass](/en/post/pass/)
-- [Pass](/en/post/pass/)
+- [Admission](/post/admission/) [pass](/post/pass/)
+- [Pass](/post/pass/)
 - Reservation
-- [Ticket](/en/post/ticket/) [of](/en/post/of/) [entry](/en/post/entry/)
+- [Ticket](/post/ticket/) [of](/post/of/) [entry](/post/entry/)
 - Passcode
-- Wristband ([in](/en/post/in/) [some](/en/post/some/) cases)
+- Wristband ([in](/post/in/) [some](/post/some/) cases)

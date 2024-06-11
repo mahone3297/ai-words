@@ -14,16 +14,16 @@ keywords = ['ai words', 'flexible']
 - **形容词**: 可弯曲的；柔韧的；灵活的。指物体容易弯曲或者形容人的思维、行为能适应变化。
 
     例如:
-    - 物理性质: "[This](/post/this/) yoga [mat](/post/mat/) is [very](/post/very/) [flexible](/post/flexible/), allowing [for](/post/for/) [easy](/post/easy/) [movement](/post/movement/) [during](/post/during/) exercises."
-    - 人或政策: "[The](/post/the/) company's [policy](/post/policy/) is [quite](/post/quite/) [flexible](/post/flexible/), accommodating employees' [personal](/post/personal/) needs."
+    - 物理性质: "[This](/zh/post/this/) yoga [mat](/zh/post/mat/) is [very](/zh/post/very/) [flexible](/zh/post/flexible/), allowing [for](/zh/post/for/) [easy](/zh/post/easy/) [movement](/zh/post/movement/) [during](/zh/post/during/) exercises."
+    - 人或政策: "[The](/zh/post/the/) company's [policy](/zh/post/policy/) is [quite](/zh/post/quite/) [flexible](/zh/post/flexible/), accommodating employees' [personal](/zh/post/personal/) needs."
 
 ## 短语
-- "[be](/post/be/) [flexible](/post/flexible/) [about](/post/about/)/[with](/post/with/) [something](/post/something/)" 意思是对某事持灵活态度或愿意改变。
-- "[flexible](/post/flexible/) [schedule](/post/schedule/)" 指可以调整的工作或学习时间表。
+- "[be](/zh/post/be/) [flexible](/zh/post/flexible/) [about](/zh/post/about/)/[with](/zh/post/with/) [something](/zh/post/something/)" 意思是对某事持灵活态度或愿意改变。
+- "[flexible](/zh/post/flexible/) [schedule](/zh/post/schedule/)" 指可以调整的工作或学习时间表。
 
 ## 例句
-- 形容词: "[The](/post/the/) [new](/post/new/) [material](/post/material/) is [so](/post/so/) [flexible](/post/flexible/) [that](/post/that/) [it](/post/it/) [can](/post/can/) [be](/post/be/) bent [without](/post/without/) breaking."
-- 短语: "She's [flexible](/post/flexible/) [with](/post/with/) [her](/post/her/) working hours, [which](/post/which/) allows [her](/post/her/) [to](/post/to/) [balance](/post/balance/) [work](/post/work/) [and](/post/and/) [family](/post/family/) [life](/post/life/)."
+- 形容词: "[The](/zh/post/the/) [new](/zh/post/new/) [material](/zh/post/material/) is [so](/zh/post/so/) [flexible](/zh/post/flexible/) [that](/zh/post/that/) [it](/zh/post/it/) [can](/zh/post/can/) [be](/zh/post/be/) bent [without](/zh/post/without/) breaking."
+- 短语: "She's [flexible](/zh/post/flexible/) [with](/zh/post/with/) [her](/zh/post/her/) working hours, [which](/zh/post/which/) allows [her](/zh/post/her/) [to](/zh/post/to/) [balance](/zh/post/balance/) [work](/zh/post/work/) [and](/zh/post/and/) [family](/zh/post/family/) [life](/zh/post/life/)."
 
 ## 同义词
 - Adaptable

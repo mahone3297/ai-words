@@ -7,43 +7,43 @@ description = '[risˈtrikt] vt 限制，限定，约束'
 keywords = ['ai words', 'restrict']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈstrɪkt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) [form](/en/post/form/) [of](/en/post/of/) [the](/en/post/the/) [verb](/en/post/verb/), referring [to](/en/post/to/):
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) limiting [or](/en/post/or/) controlling [something](/en/post/something/) [to](/en/post/to/) [a](/en/post/a/) [certain](/en/post/certain/) [extent](/en/post/extent/) [or](/en/post/or/) [within](/en/post/within/) [specific](/en/post/specific/) boundaries. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) imposed [strict](/en/post/strict/) restrictions [on](/en/post/on/) [public](/en/post/public/) gatherings."
-2. [A](/en/post/a/) [limitation](/en/post/limitation/) [or](/en/post/or/) [condition](/en/post/condition/) placed [on](/en/post/on/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) imposed [a](/en/post/a/) [restriction](/en/post/restriction/) [on](/en/post/on/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [plastic](/en/post/plastic/) bags."
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) [form](/post/form/) [of](/post/of/) [the](/post/the/) [verb](/post/verb/), referring [to](/post/to/):
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) limiting [or](/post/or/) controlling [something](/post/something/) [to](/post/to/) [a](/post/a/) [certain](/post/certain/) [extent](/post/extent/) [or](/post/or/) [within](/post/within/) [specific](/post/specific/) boundaries. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [government](/post/government/) imposed [strict](/post/strict/) restrictions [on](/post/on/) [public](/post/public/) gatherings."
+2. [A](/post/a/) [limitation](/post/limitation/) [or](/post/or/) [condition](/post/condition/) placed [on](/post/on/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) imposed [a](/post/a/) [restriction](/post/restriction/) [on](/post/on/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [plastic](/post/plastic/) bags."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [limit](/en/post/limit/) [or](/en/post/or/) [confine](/en/post/confine/) [something](/en/post/something/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [scope](/en/post/scope/) [or](/en/post/or/) [level](/en/post/level/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) restricted [access](/en/post/access/) [to](/en/post/to/) [certain](/en/post/certain/) areas."
-2. [To](/en/post/to/) [control](/en/post/control/) [or](/en/post/or/) [prevent](/en/post/prevent/) [something](/en/post/something/) [from](/en/post/from/) happening [or](/en/post/or/) [being](/en/post/being/) done. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) restricted [their](/en/post/their/) spending [to](/en/post/to/) [save](/en/post/save/) [for](/en/post/for/) [a](/en/post/a/) [vacation](/en/post/vacation/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [limit](/post/limit/) [or](/post/or/) [confine](/post/confine/) [something](/post/something/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [scope](/post/scope/) [or](/post/or/) [level](/post/level/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) restricted [access](/post/access/) [to](/post/to/) [certain](/post/certain/) areas."
+2. [To](/post/to/) [control](/post/control/) [or](/post/or/) [prevent](/post/prevent/) [something](/post/something/) [from](/post/from/) happening [or](/post/or/) [being](/post/being/) done. [For](/post/for/) [example](/post/example/): "[They](/post/they/) restricted [their](/post/their/) spending [to](/post/to/) [save](/post/save/) [for](/post/for/) [a](/post/a/) [vacation](/post/vacation/)."
 
-### [Adjective](/en/post/adjective/)
-Describing [something](/en/post/something/) [that](/en/post/that/) is [limited](/en/post/limited/) [in](/en/post/in/) [quantity](/en/post/quantity/), [scope](/en/post/scope/), [or](/en/post/or/) [freedom](/en/post/freedom/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) restricted parking [area](/en/post/area/) is reserved [for](/en/post/for/) [staff](/en/post/staff/) [only](/en/post/only/)."
+### [Adjective](/post/adjective/)
+Describing [something](/post/something/) [that](/post/that/) is [limited](/post/limited/) [in](/post/in/) [quantity](/post/quantity/), [scope](/post/scope/), [or](/post/or/) [freedom](/post/freedom/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) restricted parking [area](/post/area/) is reserved [for](/post/for/) [staff](/post/staff/) [only](/post/only/)."
 
-### [Adverb](/en/post/adverb/)
-[Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [how](/en/post/how/) [something](/en/post/something/) is restricted, e.g., "[The](/en/post/the/) [flight](/en/post/flight/) was restricted [to](/en/post/to/) non-stop [travel](/en/post/travel/)."
+### [Adverb](/post/adverb/)
+[Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [how](/post/how/) [something](/post/something/) is restricted, e.g., "[The](/post/the/) [flight](/post/flight/) was restricted [to](/post/to/) non-stop [travel](/post/travel/)."
 
 ## Phrases
-- "[Restrict](/en/post/restrict/) [access](/en/post/access/)" [means](/en/post/means/) [to](/en/post/to/) [limit](/en/post/limit/) [who](/en/post/who/) [can](/en/post/can/) [enter](/en/post/enter/) [or](/en/post/or/) [use](/en/post/use/) [a](/en/post/a/) [space](/en/post/space/) [or](/en/post/or/) [resource](/en/post/resource/).
-- "[Under](/en/post/under/) restricted conditions" refers [to](/en/post/to/) limitations imposed [on](/en/post/on/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [situation](/en/post/situation/).
-- "[Freedom](/en/post/freedom/) is restricted [in](/en/post/in/) [this](/en/post/this/) [area](/en/post/area/)" communicates [that](/en/post/that/) [there](/en/post/there/) are limits [to](/en/post/to/) [what](/en/post/what/) [can](/en/post/can/) [be](/en/post/be/) done.
+- "[Restrict](/post/restrict/) [access](/post/access/)" [means](/post/means/) [to](/post/to/) [limit](/post/limit/) [who](/post/who/) [can](/post/can/) [enter](/post/enter/) [or](/post/or/) [use](/post/use/) [a](/post/a/) [space](/post/space/) [or](/post/or/) [resource](/post/resource/).
+- "[Under](/post/under/) restricted conditions" refers [to](/post/to/) limitations imposed [on](/post/on/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [situation](/post/situation/).
+- "[Freedom](/post/freedom/) is restricted [in](/post/in/) [this](/post/this/) [area](/post/area/)" communicates [that](/post/that/) [there](/post/there/) are limits [to](/post/to/) [what](/post/what/) [can](/post/can/) [be](/post/be/) done.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [government](/en/post/government/) imposed [strict](/en/post/strict/) restrictions [on](/en/post/on/) [the](/en/post/the/) [sale](/en/post/sale/) [of](/en/post/of/) firearms."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) restricted [the](/en/post/the/) students' [use](/en/post/use/) [of](/en/post/of/) [mobile](/en/post/mobile/) phones [during](/en/post/during/) [class](/en/post/class/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) restricted diet helped [her](/en/post/her/) [manage](/en/post/manage/) [her](/en/post/her/) [health](/en/post/health/) [condition](/en/post/condition/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) had [to](/en/post/to/) [drive](/en/post/drive/) [under](/en/post/under/) restricted [speed](/en/post/speed/) [due](/en/post/due/) [to](/en/post/to/) roadworks."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [government](/post/government/) imposed [strict](/post/strict/) restrictions [on](/post/on/) [the](/post/the/) [sale](/post/sale/) [of](/post/of/) firearms."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) restricted [the](/post/the/) students' [use](/post/use/) [of](/post/of/) [mobile](/post/mobile/) phones [during](/post/during/) [class](/post/class/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) restricted diet helped [her](/post/her/) [manage](/post/manage/) [her](/post/her/) [health](/post/health/) [condition](/post/condition/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) had [to](/post/to/) [drive](/post/drive/) [under](/post/under/) restricted [speed](/post/speed/) [due](/post/due/) [to](/post/to/) roadworks."
 
 ## Synonyms
-- [Limit](/en/post/limit/)
-- [Control](/en/post/control/)
+- [Limit](/post/limit/)
+- [Control](/post/control/)
 - Constrain
 - Curb
-- [Limitation](/en/post/limitation/)
-- [Barrier](/en/post/barrier/)
+- [Limitation](/post/limitation/)
+- [Barrier](/post/barrier/)
 - Obstruct
 - Curtail
-- [Narrow](/en/post/narrow/) ([in](/en/post/in/) [scope](/en/post/scope/))
+- [Narrow](/post/narrow/) ([in](/post/in/) [scope](/post/scope/))

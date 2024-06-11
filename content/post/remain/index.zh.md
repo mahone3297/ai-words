@@ -12,24 +12,24 @@ keywords = ['ai words', 'remain']
 
 ## 释义
 - **动词**:
-1. 保持不变；继续存在。例如: "[The](/post/the/) [old](/post/old/) [building](/post/building/) [still](/post/still/) [remains](/post/remains/) standing [after](/post/after/) [the](/post/the/) [storm](/post/storm/)."  
-2. 停留；逗留。例如: "[They](/post/they/) [will](/post/will/) [remain](/post/remain/) [in](/post/in/) [the](/post/the/) [city](/post/city/) [for](/post/for/) [another](/post/another/) [week](/post/week/)."
-3. 余下；剩下。例如: "[There](/post/there/) is [some](/post/some/) [rice](/post/rice/) remaining [in](/post/in/) [the](/post/the/) [pot](/post/pot/)."
-4. 保持未解决或未处理的状态。例如: "[The](/post/the/) [problem](/post/problem/) [remains](/post/remains/) unsolved."
+1. 保持不变；继续存在。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [building](/zh/post/building/) [still](/zh/post/still/) [remains](/zh/post/remains/) standing [after](/zh/post/after/) [the](/zh/post/the/) [storm](/zh/post/storm/)."  
+2. 停留；逗留。例如: "[They](/zh/post/they/) [will](/zh/post/will/) [remain](/zh/post/remain/) [in](/zh/post/in/) [the](/zh/post/the/) [city](/zh/post/city/) [for](/zh/post/for/) [another](/zh/post/another/) [week](/zh/post/week/)."
+3. 余下；剩下。例如: "[There](/zh/post/there/) is [some](/zh/post/some/) [rice](/zh/post/rice/) remaining [in](/zh/post/in/) [the](/zh/post/the/) [pot](/zh/post/pot/)."
+4. 保持未解决或未处理的状态。例如: "[The](/zh/post/the/) [problem](/zh/post/problem/) [remains](/zh/post/remains/) unsolved."
 
 ## 短语
-- "[Remain](/post/remain/) [calm](/post/calm/)" 保持冷静。
-- "[Remain](/post/remain/) [silent](/post/silent/)" 保持沉默。
-- "[Remain](/post/remain/) [to](/post/to/) [be](/post/be/) seen" 结果还有待观察。
+- "[Remain](/zh/post/remain/) [calm](/zh/post/calm/)" 保持冷静。
+- "[Remain](/zh/post/remain/) [silent](/zh/post/silent/)" 保持沉默。
+- "[Remain](/zh/post/remain/) [to](/zh/post/to/) [be](/zh/post/be/) seen" 结果还有待观察。
 
 ## 例句
-- [The](/post/the/) [ancient](/post/ancient/) [castle](/post/castle/) [remains](/post/remains/) [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [popular](/post/popular/) [tourist](/post/tourist/) attractions.
-- [After](/post/after/) [the](/post/the/) guests [left](/post/left/), [only](/post/only/) [a](/post/a/) [few](/post/few/) friends remained [to](/post/to/) [help](/post/help/) [with](/post/with/) [the](/post/the/) cleanup.
-- [She](/post/she/) asked [us](/post/us/) [all](/post/all/) [to](/post/to/) [remain](/post/remain/) seated [until](/post/until/) [the](/post/the/) [performance](/post/performance/) began.
+- [The](/zh/post/the/) [ancient](/zh/post/ancient/) [castle](/zh/post/castle/) [remains](/zh/post/remains/) [one](/zh/post/one/) [of](/zh/post/of/) [the](/zh/post/the/) [most](/zh/post/most/) [popular](/zh/post/popular/) [tourist](/zh/post/tourist/) attractions.
+- [After](/zh/post/after/) [the](/zh/post/the/) guests [left](/zh/post/left/), [only](/zh/post/only/) [a](/zh/post/a/) [few](/zh/post/few/) friends remained [to](/zh/post/to/) [help](/zh/post/help/) [with](/zh/post/with/) [the](/zh/post/the/) cleanup.
+- [She](/zh/post/she/) asked [us](/zh/post/us/) [all](/zh/post/all/) [to](/zh/post/to/) [remain](/zh/post/remain/) seated [until](/zh/post/until/) [the](/zh/post/the/) [performance](/zh/post/performance/) began.
 
 ## 同义词
-- [Stay](/post/stay/)
-- [Continue](/post/continue/)
-- [Persist](/post/persist/)
-- [Last](/post/last/)
+- [Stay](/zh/post/stay/)
+- [Continue](/zh/post/continue/)
+- [Persist](/zh/post/persist/)
+- [Last](/zh/post/last/)
 - Abide

@@ -7,38 +7,38 @@ description = '[brik] n.砖，砖块；砖状物'
 keywords = ['ai words', 'brick']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /brɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[brick](/en/post/brick/)** is [a](/en/post/a/) rectangular [solid](/en/post/solid/) [building](/en/post/building/) [material](/en/post/material/) made [of](/en/post/of/) [clay](/en/post/clay/), [usually](/en/post/usually/) fired [at](/en/post/at/) [high](/en/post/high/) temperatures, [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) [construction](/en/post/construction/) [of](/en/post/of/) walls, buildings, [and](/en/post/and/) [other](/en/post/other/) structures. [It](/en/post/it/) is [often](/en/post/often/) associated [with](/en/post/with/) [traditional](/en/post/traditional/) masonry [and](/en/post/and/) [can](/en/post/can/) [be](/en/post/be/) [either](/en/post/either/) clay-fired ([red](/en/post/red/) [brick](/en/post/brick/)) [or](/en/post/or/) burnt [concrete](/en/post/concrete/) ([gray](/en/post/gray/) [or](/en/post/or/) [yellow](/en/post/yellow/) [brick](/en/post/brick/)).
+### [Noun](/post/noun/)
+[A](/post/a/) **[brick](/post/brick/)** is [a](/post/a/) rectangular [solid](/post/solid/) [building](/post/building/) [material](/post/material/) made [of](/post/of/) [clay](/post/clay/), [usually](/post/usually/) fired [at](/post/at/) [high](/post/high/) temperatures, [used](/post/used/) [in](/post/in/) [the](/post/the/) [construction](/post/construction/) [of](/post/of/) walls, buildings, [and](/post/and/) [other](/post/other/) structures. [It](/post/it/) is [often](/post/often/) associated [with](/post/with/) [traditional](/post/traditional/) masonry [and](/post/and/) [can](/post/can/) [be](/post/be/) [either](/post/either/) clay-fired ([red](/post/red/) [brick](/post/brick/)) [or](/post/or/) burnt [concrete](/post/concrete/) ([gray](/post/gray/) [or](/post/or/) [yellow](/post/yellow/) [brick](/post/brick/)).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[brick](/en/post/brick/)** [something](/en/post/something/) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [build](/en/post/build/) [or](/en/post/or/) [construct](/en/post/construct/) using bricks, [or](/en/post/or/) [to](/en/post/to/) [cover](/en/post/cover/) [or](/en/post/or/) [line](/en/post/line/) [with](/en/post/with/) bricks, [especially](/en/post/especially/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [repair](/en/post/repair/) [or](/en/post/or/) renovation.
+### [Verb](/post/verb/)
+[To](/post/to/) **[brick](/post/brick/)** [something](/post/something/) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [build](/post/build/) [or](/post/or/) [construct](/post/construct/) using bricks, [or](/post/or/) [to](/post/to/) [cover](/post/cover/) [or](/post/or/) [line](/post/line/) [with](/post/with/) bricks, [especially](/post/especially/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [repair](/post/repair/) [or](/post/or/) renovation.
 
-### [Adjective](/en/post/adjective/)
-- **Brick-like** describes [something](/en/post/something/) having [a](/en/post/a/) [similar](/en/post/similar/) [appearance](/en/post/appearance/) [or](/en/post/or/) texture [to](/en/post/to/) [a](/en/post/a/) [brick](/en/post/brick/).
-- **Brick-red** refers [to](/en/post/to/) [a](/en/post/a/) [shade](/en/post/shade/) [of](/en/post/of/) [red](/en/post/red/) resembling [that](/en/post/that/) [of](/en/post/of/) [a](/en/post/a/) [brick](/en/post/brick/).
+### [Adjective](/post/adjective/)
+- **Brick-like** describes [something](/post/something/) having [a](/post/a/) [similar](/post/similar/) [appearance](/post/appearance/) [or](/post/or/) texture [to](/post/to/) [a](/post/a/) [brick](/post/brick/).
+- **Brick-red** refers [to](/post/to/) [a](/post/a/) [shade](/post/shade/) [of](/post/of/) [red](/post/red/) resembling [that](/post/that/) [of](/post/of/) [a](/post/a/) [brick](/post/brick/).
 
 ## Phrases
-- "[Brick](/en/post/brick/) [by](/en/post/by/) [brick](/en/post/brick/)" implies constructing [something](/en/post/something/) [step](/en/post/step/) [by](/en/post/by/) [step](/en/post/step/) [or](/en/post/or/) [piece](/en/post/piece/) [by](/en/post/by/) [piece](/en/post/piece/).
-- "Brickwork" [or](/en/post/or/) "bricklayer's [work](/en/post/work/)" refers [to](/en/post/to/) [the](/en/post/the/) [art](/en/post/art/) [or](/en/post/or/) labor [of](/en/post/of/) laying bricks.
-- "[Brick](/en/post/brick/) [chimney](/en/post/chimney/)" [or](/en/post/or/) "[brick](/en/post/brick/) fireplace" are [common](/en/post/common/) features [in](/en/post/in/) houses.
+- "[Brick](/post/brick/) [by](/post/by/) [brick](/post/brick/)" implies constructing [something](/post/something/) [step](/post/step/) [by](/post/by/) [step](/post/step/) [or](/post/or/) [piece](/post/piece/) [by](/post/by/) [piece](/post/piece/).
+- "Brickwork" [or](/post/or/) "bricklayer's [work](/post/work/)" refers [to](/post/to/) [the](/post/the/) [art](/post/art/) [or](/post/or/) labor [of](/post/of/) laying bricks.
+- "[Brick](/post/brick/) [chimney](/post/chimney/)" [or](/post/or/) "[brick](/post/brick/) fireplace" are [common](/post/common/) features [in](/post/in/) houses.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) was built entirely [of](/en/post/of/) [red](/en/post/red/) [brick](/en/post/brick/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [brick](/en/post/brick/) [up](/en/post/up/) [the](/en/post/the/) [old](/en/post/old/) fireplace [to](/en/post/to/) [create](/en/post/create/) [more](/en/post/more/) [storage](/en/post/storage/) [space](/en/post/space/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [garden](/en/post/garden/) [path](/en/post/path/) was lined [with](/en/post/with/) neatly arranged brick-like paving stones."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [house](/post/house/) was built entirely [of](/post/of/) [red](/post/red/) [brick](/post/brick/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) decided [to](/post/to/) [brick](/post/brick/) [up](/post/up/) [the](/post/the/) [old](/post/old/) fireplace [to](/post/to/) [create](/post/create/) [more](/post/more/) [storage](/post/storage/) [space](/post/space/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [garden](/post/garden/) [path](/post/path/) was lined [with](/post/with/) neatly arranged brick-like paving stones."
 
 ## Synonyms
-- Mortar [block](/en/post/block/)
+- Mortar [block](/post/block/)
 - Cobblestone
 - Tile
 - Stonework
-- Walling [stone](/en/post/stone/)
+- Walling [stone](/post/stone/)
 
 ## Antonyms
-- [Wood](/en/post/wood/) ([in](/en/post/in/) [construction](/en/post/construction/))
-- [Concrete](/en/post/concrete/) ([as](/en/post/as/) [a](/en/post/a/) [substitute](/en/post/substitute/))
-- [Plaster](/en/post/plaster/) (covering [material](/en/post/material/))
+- [Wood](/post/wood/) ([in](/post/in/) [construction](/post/construction/))
+- [Concrete](/post/concrete/) ([as](/post/as/) [a](/post/a/) [substitute](/post/substitute/))
+- [Plaster](/post/plaster/) (covering [material](/post/material/))

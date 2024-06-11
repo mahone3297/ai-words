@@ -12,19 +12,19 @@ keywords = ['ai words', 'luxury']
 
 ## 释义
 - **名词 n**:
-  - 豪华，奢华：享受的最高水平，通常与昂贵和非必需品相关联。例如: "[The](/post/the/) [hotel](/post/hotel/) offered [every](/post/every/) [luxury](/post/luxury/) [one](/post/one/) [could](/post/could/) [imagine](/post/imagine/)."
-  - 奢侈品：非必需但令人愉快的物品或享受。例如: "[A](/post/a/) [luxury](/post/luxury/) [car](/post/car/) is [one](/post/one/) [that](/post/that/) provides [comfort](/post/comfort/) [and](/post/and/) high-end features [beyond](/post/beyond/) [basic](/post/basic/) [transportation](/post/transportation/) needs."
+  - 豪华，奢华：享受的最高水平，通常与昂贵和非必需品相关联。例如: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) offered [every](/zh/post/every/) [luxury](/zh/post/luxury/) [one](/zh/post/one/) [could](/zh/post/could/) [imagine](/zh/post/imagine/)."
+  - 奢侈品：非必需但令人愉快的物品或享受。例如: "[A](/zh/post/a/) [luxury](/zh/post/luxury/) [car](/zh/post/car/) is [one](/zh/post/one/) [that](/zh/post/that/) provides [comfort](/zh/post/comfort/) [and](/zh/post/and/) high-end features [beyond](/zh/post/beyond/) [basic](/zh/post/basic/) [transportation](/zh/post/transportation/) needs."
   
 - **形容词 adj**:
-  - 豪华的，奢华的：具有高级品质或舒适度的。例如: "[They](/post/they/) stayed [in](/post/in/) [a](/post/a/) [luxury](/post/luxury/) suite overlooking [the](/post/the/) [ocean](/post/ocean/)."
+  - 豪华的，奢华的：具有高级品质或舒适度的。例如: "[They](/zh/post/they/) stayed [in](/zh/post/in/) [a](/zh/post/a/) [luxury](/zh/post/luxury/) suite overlooking [the](/zh/post/the/) [ocean](/zh/post/ocean/)."
 
 ## 短语
-- "[Luxury](/post/luxury/) [goods](/post/goods/)" 指的是那些非必需但人们渴望拥有的高档商品。
+- "[Luxury](/zh/post/luxury/) [goods](/zh/post/goods/)" 指的是那些非必需但人们渴望拥有的高档商品。
 - "Luxurious lifestyle" 指过着充满享受和高级品味的生活方式。
 
 ## 例句
-- 名词: "[The](/post/the/) cruise [ship](/post/ship/) was known [for](/post/for/) [its](/post/its/) luxurious amenities."
-- 形容词: "[She](/post/she/) treated [herself](/post/herself/) [to](/post/to/) [a](/post/a/) luxurious spa [day](/post/day/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [week](/post/week/) [of](/post/of/) [work](/post/work/)."
+- 名词: "[The](/zh/post/the/) cruise [ship](/zh/post/ship/) was known [for](/zh/post/for/) [its](/zh/post/its/) luxurious amenities."
+- 形容词: "[She](/zh/post/she/) treated [herself](/zh/post/herself/) [to](/zh/post/to/) [a](/zh/post/a/) luxurious spa [day](/zh/post/day/) [after](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [week](/zh/post/week/) [of](/zh/post/of/) [work](/zh/post/work/)."
 
 ## 同义词
 - Extravagance

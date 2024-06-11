@@ -12,20 +12,20 @@ keywords = ['ai words', 'English']
 
 ## 释义
 - **名词**:
-   - 英语：一种主要在英国、美国、加拿大、澳大利亚、新西兰和许多其他国家使用的语言。例如: "[She](/post/she/) speaks [fluent](/post/fluent/) English."
-   - 英国人；英格兰人：指来自英格兰的人或具有英格兰血统的人。例如: "[The](/post/the/) English are known [for](/post/for/) [their](/post/their/) [love](/post/love/) [of](/post/of/) [tea](/post/tea/)."
+   - 英语：一种主要在英国、美国、加拿大、澳大利亚、新西兰和许多其他国家使用的语言。例如: "[She](/zh/post/she/) speaks [fluent](/zh/post/fluent/) English."
+   - 英国人；英格兰人：指来自英格兰的人或具有英格兰血统的人。例如: "[The](/zh/post/the/) English are known [for](/zh/post/for/) [their](/zh/post/their/) [love](/zh/post/love/) [of](/zh/post/of/) [tea](/zh/post/tea/)."
 
 - **形容词**:
-   - 英国的；英语的：与英国或英语有关的。例如: "[The](/post/the/) English [literature](/post/literature/) is [rich](/post/rich/) [in](/post/in/) classic novels."
-   - 用英语写的；英语的：指用英语表达的事物。例如: "[This](/post/this/) [book](/post/book/) is written [in](/post/in/) English."
+   - 英国的；英语的：与英国或英语有关的。例如: "[The](/zh/post/the/) English [literature](/zh/post/literature/) is [rich](/zh/post/rich/) [in](/zh/post/in/) classic novels."
+   - 用英语写的；英语的：指用英语表达的事物。例如: "[This](/zh/post/this/) [book](/zh/post/book/) is written [in](/zh/post/in/) English."
 
 ## 短语
-- "[Speak](/post/speak/) English" 意味着用英语交谈。
-- "English [language](/post/language/)" 特指英语这门语言。
+- "[Speak](/zh/post/speak/) English" 意味着用英语交谈。
+- "English [language](/zh/post/language/)" 特指英语这门语言。
 
 ## 例句
-- 名词: "Chinese [and](/post/and/) English are [two](/post/two/) [very](/post/very/) [different](/post/different/) languages."
-- 形容词: "[She](/post/she/) loves [reading](/post/reading/) English [poetry](/post/poetry/) [from](/post/from/) [the](/post/the/) [Romantic](/post/romantic/) [era](/post/era/)."
+- 名词: "Chinese [and](/zh/post/and/) English are [two](/zh/post/two/) [very](/zh/post/very/) [different](/zh/post/different/) languages."
+- 形容词: "[She](/zh/post/she/) loves [reading](/zh/post/reading/) English [poetry](/zh/post/poetry/) [from](/zh/post/from/) [the](/zh/post/the/) [Romantic](/zh/post/romantic/) [era](/zh/post/era/)."
 
 ## 同义词
 - British (形容词时)

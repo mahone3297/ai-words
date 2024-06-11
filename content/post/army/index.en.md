@@ -7,42 +7,42 @@ description = '[ˈɑːmi] n.军队；陆军'
 keywords = ['ai words', 'army']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɑːrmɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Military](/en/post/military/) [force](/en/post/force/) organized [for](/en/post/for/) combat, typically consisting [of](/en/post/of/) [ground](/en/post/ground/) troops**: [The](/en/post/the/) soldiers [in](/en/post/in/) [the](/en/post/the/) [army](/en/post/army/) were preparing [for](/en/post/for/) [the](/en/post/the/) upcoming deployment.
-2. [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) working [together](/en/post/together/) [for](/en/post/for/) [a](/en/post/a/) [common](/en/post/common/) [purpose](/en/post/purpose/), [often](/en/post/often/) [under](/en/post/under/) [a](/en/post/a/) hierarchical [structure](/en/post/structure/): [The](/en/post/the/) volunteer [fire](/en/post/fire/) [department](/en/post/department/) is [like](/en/post/like/) [a](/en/post/a/) [small](/en/post/small/) [army](/en/post/army/).
+### [Noun](/post/noun/)
+1. **[Military](/post/military/) [force](/post/force/) organized [for](/post/for/) combat, typically consisting [of](/post/of/) [ground](/post/ground/) troops**: [The](/post/the/) soldiers [in](/post/in/) [the](/post/the/) [army](/post/army/) were preparing [for](/post/for/) [the](/post/the/) upcoming deployment.
+2. [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) working [together](/post/together/) [for](/post/for/) [a](/post/a/) [common](/post/common/) [purpose](/post/purpose/), [often](/post/often/) [under](/post/under/) [a](/post/a/) hierarchical [structure](/post/structure/): [The](/post/the/) volunteer [fire](/post/fire/) [department](/post/department/) is [like](/post/like/) [a](/post/a/) [small](/post/small/) [army](/post/army/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [assemble](/en/post/assemble/) [or](/en/post/or/) [form](/en/post/form/) [a](/en/post/a/) [military](/en/post/military/) [unit](/en/post/unit/): [They](/en/post/they/) are currently armying [up](/en/post/up/) [new](/en/post/new/) recruits.
-2. [To](/en/post/to/) [bring](/en/post/bring/) [together](/en/post/together/) [or](/en/post/or/) [coordinate](/en/post/coordinate/) resources [in](/en/post/in/) [large](/en/post/large/) numbers: [The](/en/post/the/) [company](/en/post/company/) is armying [its](/en/post/its/) marketing efforts [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [product](/en/post/product/) [launch](/en/post/launch/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [assemble](/post/assemble/) [or](/post/or/) [form](/post/form/) [a](/post/a/) [military](/post/military/) [unit](/post/unit/): [They](/post/they/) are currently armying [up](/post/up/) [new](/post/new/) recruits.
+2. [To](/post/to/) [bring](/post/bring/) [together](/post/together/) [or](/post/or/) [coordinate](/post/coordinate/) resources [in](/post/in/) [large](/post/large/) numbers: [The](/post/the/) [company](/post/company/) is armying [its](/post/its/) marketing efforts [for](/post/for/) [the](/post/the/) [new](/post/new/) [product](/post/product/) [launch](/post/launch/).
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [or](/en/post/or/) constituting [a](/en/post/a/) [military](/en/post/military/) [organization](/en/post/organization/): An [army](/en/post/army/) [base](/en/post/base/) is [a](/en/post/a/) [large](/en/post/large/), [secure](/en/post/secure/) [facility](/en/post/facility/).
-2. Characterized [by](/en/post/by/) [strength](/en/post/strength/) [or](/en/post/or/) numerosity: An [army](/en/post/army/) [of](/en/post/of/) supporters turned [out](/en/post/out/) [for](/en/post/for/) [the](/en/post/the/) rally.
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [or](/post/or/) constituting [a](/post/a/) [military](/post/military/) [organization](/post/organization/): An [army](/post/army/) [base](/post/base/) is [a](/post/a/) [large](/post/large/), [secure](/post/secure/) [facility](/post/facility/).
+2. Characterized [by](/post/by/) [strength](/post/strength/) [or](/post/or/) numerosity: An [army](/post/army/) [of](/post/of/) supporters turned [out](/post/out/) [for](/post/for/) [the](/post/the/) rally.
 
 ## Phrases
-- "[Join](/en/post/join/) [the](/en/post/the/) [army](/en/post/army/)" [means](/en/post/means/) [to](/en/post/to/) enlist [in](/en/post/in/) [the](/en/post/the/) [military](/en/post/military/).
-- "[Train](/en/post/train/) an [army](/en/post/army/)" involves organizing [and](/en/post/and/) equipping [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [for](/en/post/for/) [battle](/en/post/battle/) [or](/en/post/or/) [a](/en/post/a/) [specific](/en/post/specific/) [task](/en/post/task/).
-- "[The](/en/post/the/) [Red](/en/post/red/) [Army](/en/post/army/)" is [a](/en/post/a/) [historical](/en/post/historical/) [reference](/en/post/reference/) [to](/en/post/to/) [the](/en/post/the/) Soviet [military](/en/post/military/) forces.
+- "[Join](/post/join/) [the](/post/the/) [army](/post/army/)" [means](/post/means/) [to](/post/to/) enlist [in](/post/in/) [the](/post/the/) [military](/post/military/).
+- "[Train](/post/train/) an [army](/post/army/)" involves organizing [and](/post/and/) equipping [a](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [for](/post/for/) [battle](/post/battle/) [or](/post/or/) [a](/post/a/) [specific](/post/specific/) [task](/post/task/).
+- "[The](/post/the/) [Red](/post/red/) [Army](/post/army/)" is [a](/post/a/) [historical](/post/historical/) [reference](/post/reference/) [to](/post/to/) [the](/post/the/) Soviet [military](/post/military/) forces.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [army](/en/post/army/) marched [through](/en/post/through/) [the](/en/post/the/) [city](/en/post/city/) [with](/en/post/with/) [precision](/en/post/precision/) [and](/en/post/and/) [ceremony](/en/post/ceremony/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [basic](/en/post/basic/) [training](/en/post/training/), [he](/en/post/he/) was [finally](/en/post/finally/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [army](/en/post/army/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) army's [success](/en/post/success/) [in](/en/post/in/) [the](/en/post/the/) [battle](/en/post/battle/) was [a](/en/post/a/) testament [to](/en/post/to/) [their](/en/post/their/) [discipline](/en/post/discipline/) [and](/en/post/and/) [strategy](/en/post/strategy/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [army](/post/army/) marched [through](/post/through/) [the](/post/the/) [city](/post/city/) [with](/post/with/) [precision](/post/precision/) [and](/post/and/) [ceremony](/post/ceremony/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [basic](/post/basic/) [training](/post/training/), [he](/post/he/) was [finally](/post/finally/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [army](/post/army/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) army's [success](/post/success/) [in](/post/in/) [the](/post/the/) [battle](/post/battle/) was [a](/post/a/) testament [to](/post/to/) [their](/post/their/) [discipline](/post/discipline/) [and](/post/and/) [strategy](/post/strategy/)."
 
 ## Synonyms
-- [Military](/en/post/military/)
+- [Military](/post/military/)
 - Troops
 - Forces
 - Legion
 - Battalion
 - Squad
-- [Unit](/en/post/unit/)
-- [Host](/en/post/host/)
+- [Unit](/post/unit/)
+- [Host](/post/host/)
 - Convoy
 - Gathering
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) "[army](/en/post/army/)" [as](/en/post/as/) [in](/en/post/in/) assembling [a](/en/post/a/) [group](/en/post/group/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/) is [not](/en/post/not/) [a](/en/post/a/) [standard](/en/post/standard/) English [usage](/en/post/usage/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) understood [in](/en/post/in/) [certain](/en/post/certain/) contexts. [The](/en/post/the/) [primary](/en/post/primary/) [meaning](/en/post/meaning/) [of](/en/post/of/) "[army](/en/post/army/)" [remains](/en/post/remains/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [military](/en/post/military/) [force](/en/post/force/).
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) "[army](/post/army/)" [as](/post/as/) [in](/post/in/) assembling [a](/post/a/) [group](/post/group/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/) is [not](/post/not/) [a](/post/a/) [standard](/post/standard/) English [usage](/post/usage/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) understood [in](/post/in/) [certain](/post/certain/) contexts. [The](/post/the/) [primary](/post/primary/) [meaning](/post/meaning/) [of](/post/of/) "[army](/post/army/)" [remains](/post/remains/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [military](/post/military/) [force](/post/force/).

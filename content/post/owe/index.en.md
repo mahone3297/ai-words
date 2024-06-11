@@ -7,35 +7,35 @@ description = '[əu] vt.欠；应把…归功于'
 keywords = ['ai words', 'owe']
 +++
 
-## [Word](/en/post/word/): [Owe](/en/post/owe/)
+## [Word](/post/word/): [Owe](/post/owe/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əʊ/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [moral](/en/post/moral/) [or](/en/post/or/) [legal](/en/post/legal/) obligation [to](/en/post/to/) [give](/en/post/give/), repay, [or](/en/post/or/) [do](/en/post/do/) [something](/en/post/something/) [for](/en/post/for/) [someone](/en/post/someone/) [else](/en/post/else/), typically [because](/en/post/because/) [of](/en/post/of/) receiving [something](/en/post/something/) [from](/en/post/from/) [them](/en/post/them/) [or](/en/post/or/) having been helped [by](/en/post/by/) [them](/en/post/them/). [For](/en/post/for/) [example](/en/post/example/): "I [owe](/en/post/owe/) [you](/en/post/you/) [a](/en/post/a/) [debt](/en/post/debt/) [of](/en/post/of/) [gratitude](/en/post/gratitude/) [for](/en/post/for/) [your](/en/post/your/) [help](/en/post/help/)."
-  - **Infinitive [form](/en/post/form/)**: [to](/en/post/to/) [owe](/en/post/owe/)
-  - **[Past](/en/post/past/) [tense](/en/post/tense/)**: owed
-  - **[Present](/en/post/present/) participle**: owing
-  - **[Past](/en/post/past/) participle**: owed
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [moral](/post/moral/) [or](/post/or/) [legal](/post/legal/) obligation [to](/post/to/) [give](/post/give/), repay, [or](/post/or/) [do](/post/do/) [something](/post/something/) [for](/post/for/) [someone](/post/someone/) [else](/post/else/), typically [because](/post/because/) [of](/post/of/) receiving [something](/post/something/) [from](/post/from/) [them](/post/them/) [or](/post/or/) having been helped [by](/post/by/) [them](/post/them/). [For](/post/for/) [example](/post/example/): "I [owe](/post/owe/) [you](/post/you/) [a](/post/a/) [debt](/post/debt/) [of](/post/of/) [gratitude](/post/gratitude/) [for](/post/for/) [your](/post/your/) [help](/post/help/)."
+  - **Infinitive [form](/post/form/)**: [to](/post/to/) [owe](/post/owe/)
+  - **[Past](/post/past/) [tense](/post/tense/)**: owed
+  - **[Present](/post/present/) participle**: owing
+  - **[Past](/post/past/) participle**: owed
 
 ### Phrases
-- **[Owe](/en/post/owe/) [someone](/en/post/someone/) [money](/en/post/money/)**: [To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [debt](/en/post/debt/) [to](/en/post/to/) [someone](/en/post/someone/) financially.
-- **[Owe](/en/post/owe/) [someone](/en/post/someone/) an [explanation](/en/post/explanation/)/[apology](/en/post/apology/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [responsibility](/en/post/responsibility/) [to](/en/post/to/) [provide](/en/post/provide/) an [explanation](/en/post/explanation/) [or](/en/post/or/) [apology](/en/post/apology/) [to](/en/post/to/) [someone](/en/post/someone/).
-- **[Owe](/en/post/owe/) [it](/en/post/it/) [to](/en/post/to/) [oneself](/en/post/oneself/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [duty](/en/post/duty/) [or](/en/post/or/) [responsibility](/en/post/responsibility/) towards [oneself](/en/post/oneself/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [beneficial](/en/post/beneficial/) [or](/en/post/or/) [right](/en/post/right/).
-- **[Pay](/en/post/pay/) [what](/en/post/what/) [one](/en/post/one/) owes**: [To](/en/post/to/) fulfill [financial](/en/post/financial/) [or](/en/post/or/) [other](/en/post/other/) obligations.
+- **[Owe](/post/owe/) [someone](/post/someone/) [money](/post/money/)**: [To](/post/to/) [be](/post/be/) [in](/post/in/) [debt](/post/debt/) [to](/post/to/) [someone](/post/someone/) financially.
+- **[Owe](/post/owe/) [someone](/post/someone/) an [explanation](/post/explanation/)/[apology](/post/apology/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [responsibility](/post/responsibility/) [to](/post/to/) [provide](/post/provide/) an [explanation](/post/explanation/) [or](/post/or/) [apology](/post/apology/) [to](/post/to/) [someone](/post/someone/).
+- **[Owe](/post/owe/) [it](/post/it/) [to](/post/to/) [oneself](/post/oneself/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [duty](/post/duty/) [or](/post/or/) [responsibility](/post/responsibility/) towards [oneself](/post/oneself/) [to](/post/to/) [do](/post/do/) [something](/post/something/) [beneficial](/post/beneficial/) [or](/post/or/) [right](/post/right/).
+- **[Pay](/post/pay/) [what](/post/what/) [one](/post/one/) owes**: [To](/post/to/) fulfill [financial](/post/financial/) [or](/post/or/) [other](/post/other/) obligations.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [owe](/en/post/owe/) [you](/en/post/you/) $50 [for](/en/post/for/) [that](/en/post/that/) [concert](/en/post/concert/) [ticket](/en/post/ticket/)."
-- "[She](/en/post/she/) [still](/en/post/still/) owes [her](/en/post/her/) [friend](/en/post/friend/) [a](/en/post/a/) [favour](/en/post/favour/) [after](/en/post/after/) borrowing [her](/en/post/her/) [car](/en/post/car/) [last](/en/post/last/) [week](/en/post/week/)."
-- "[He](/en/post/he/) felt [he](/en/post/he/) owed [his](/en/post/his/) [success](/en/post/success/) [to](/en/post/to/) [his](/en/post/his/) parents' unwavering [support](/en/post/support/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [owe](/post/owe/) [you](/post/you/) $50 [for](/post/for/) [that](/post/that/) [concert](/post/concert/) [ticket](/post/ticket/)."
+- "[She](/post/she/) [still](/post/still/) owes [her](/post/her/) [friend](/post/friend/) [a](/post/a/) [favour](/post/favour/) [after](/post/after/) borrowing [her](/post/her/) [car](/post/car/) [last](/post/last/) [week](/post/week/)."
+- "[He](/post/he/) felt [he](/post/he/) owed [his](/post/his/) [success](/post/success/) [to](/post/to/) [his](/post/his/) parents' unwavering [support](/post/support/)."
 
 ## Synonyms
-- [Be](/en/post/be/) indebted [to](/en/post/to/)
-- [Have](/en/post/have/) [a](/en/post/a/) [debt](/en/post/debt/) [to](/en/post/to/)
-- Are [under](/en/post/under/) an obligation [to](/en/post/to/)
-- [Must](/en/post/must/) [pay](/en/post/pay/) [back](/en/post/back/)
-- Are [liable](/en/post/liable/) [for](/en/post/for/)
-- Are [responsible](/en/post/responsible/) [for](/en/post/for/)
-- [Need](/en/post/need/) [to](/en/post/to/) repay [or](/en/post/or/) [return](/en/post/return/)
-- [Due](/en/post/due/) ([money](/en/post/money/)) [to](/en/post/to/)
+- [Be](/post/be/) indebted [to](/post/to/)
+- [Have](/post/have/) [a](/post/a/) [debt](/post/debt/) [to](/post/to/)
+- Are [under](/post/under/) an obligation [to](/post/to/)
+- [Must](/post/must/) [pay](/post/pay/) [back](/post/back/)
+- Are [liable](/post/liable/) [for](/post/for/)
+- Are [responsible](/post/responsible/) [for](/post/for/)
+- [Need](/post/need/) [to](/post/to/) repay [or](/post/or/) [return](/post/return/)
+- [Due](/post/due/) ([money](/post/money/)) [to](/post/to/)

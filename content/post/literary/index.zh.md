@@ -11,20 +11,20 @@ keywords = ['ai words', 'literary']
 /lɪˈrɛrɪ/
 
 ## 释义
-- **形容词**: 与文学有关的，具有文学价值的，书面的。例如: "[She](/post/she/) has [a](/post/a/) [deep](/post/deep/) [interest](/post/interest/) [in](/post/in/) [literary](/post/literary/) works."
-- **名词**: 文学，文学作品，文学创作。例如: "[The](/post/the/) [study](/post/study/) [of](/post/of/) [literature](/post/literature/) encompasses [poetry](/post/poetry/), novels, [and](/post/and/) plays."
+- **形容词**: 与文学有关的，具有文学价值的，书面的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [deep](/zh/post/deep/) [interest](/zh/post/interest/) [in](/zh/post/in/) [literary](/zh/post/literary/) works."
+- **名词**: 文学，文学作品，文学创作。例如: "[The](/zh/post/the/) [study](/zh/post/study/) [of](/zh/post/of/) [literature](/zh/post/literature/) encompasses [poetry](/zh/post/poetry/), novels, [and](/zh/post/and/) plays."
 
 ## 短语
-- "[Literary](/post/literary/) [criticism](/post/criticism/)" 指的是对文学作品的分析和评价。
-- "[Literary](/post/literary/) [festival](/post/festival/)" 是指庆祝和探讨文学的活动或节日。
+- "[Literary](/zh/post/literary/) [criticism](/zh/post/criticism/)" 指的是对文学作品的分析和评价。
+- "[Literary](/zh/post/literary/) [festival](/zh/post/festival/)" 是指庆祝和探讨文学的活动或节日。
 
 ## 例句
-- 形容词: "[The](/post/the/) [book](/post/book/) is considered [a](/post/a/) [masterpiece](/post/masterpiece/) [of](/post/of/) [literary](/post/literary/) [fiction](/post/fiction/)."
-- 名词: "[The](/post/the/) [author](/post/author/) won [a](/post/a/) prestigious [award](/post/award/) [for](/post/for/) [her](/post/her/) [literary](/post/literary/) achievements."
+- 形容词: "[The](/zh/post/the/) [book](/zh/post/book/) is considered [a](/zh/post/a/) [masterpiece](/zh/post/masterpiece/) [of](/zh/post/of/) [literary](/zh/post/literary/) [fiction](/zh/post/fiction/)."
+- 名词: "[The](/zh/post/the/) [author](/zh/post/author/) won [a](/zh/post/a/) prestigious [award](/zh/post/award/) [for](/zh/post/for/) [her](/zh/post/her/) [literary](/zh/post/literary/) achievements."
 
 ## 同义词
-- [Literary](/post/literary/) [can](/post/can/) [also](/post/also/) [be](/post/be/) replaced [by](/post/by/):
-- [Artistic](/post/artistic/)
+- [Literary](/zh/post/literary/) [can](/zh/post/can/) [also](/zh/post/also/) [be](/zh/post/be/) replaced [by](/zh/post/by/):
+- [Artistic](/zh/post/artistic/)
 - Erudite
 - Scholarly
 - Bookish

@@ -11,20 +11,20 @@ keywords = ['ai words', 'thirsty']
 /ˈθɜːrsti/
 
 ## 释义
-- **形容词**: 渴望的，口渴的。表示生理上的需要或强烈的欲望。例如: "I'm [so](/post/so/) [thirsty](/post/thirsty/), I [need](/post/need/) [a](/post/a/) [drink](/post/drink/)."
-- **副词**: 极度地，渴望地。表达程度强烈的愿望。例如: "[She](/post/she/) was [thirsty](/post/thirsty/) [for](/post/for/) [knowledge](/post/knowledge/)."
+- **形容词**: 渴望的，口渴的。表示生理上的需要或强烈的欲望。例如: "I'm [so](/zh/post/so/) [thirsty](/zh/post/thirsty/), I [need](/zh/post/need/) [a](/zh/post/a/) [drink](/zh/post/drink/)."
+- **副词**: 极度地，渴望地。表达程度强烈的愿望。例如: "[She](/zh/post/she/) was [thirsty](/zh/post/thirsty/) [for](/zh/post/for/) [knowledge](/zh/post/knowledge/)."
 
 ## 短语
-- "[Thirsty](/post/thirsty/) [for](/post/for/) [something](/post/something/)" 表示对某事物有强烈的需求或欲望。
+- "[Thirsty](/zh/post/thirsty/) [for](/zh/post/for/) [something](/zh/post/something/)" 表示对某事物有强烈的需求或欲望。
 - "Thirst-quenching" 形容能解渴的事物。
 
 ## 例句
-- 形容词: "[After](/post/after/) running [for](/post/for/) miles, [he](/post/he/) was [feeling](/post/feeling/) [extremely](/post/extremely/) [thirsty](/post/thirsty/)."
-- 副词: "[She](/post/she/) was [thirsty](/post/thirsty/) [to](/post/to/) [learn](/post/learn/) [more](/post/more/) [about](/post/about/) [the](/post/the/) [subject](/post/subject/).
+- 形容词: "[After](/zh/post/after/) running [for](/zh/post/for/) miles, [he](/zh/post/he/) was [feeling](/zh/post/feeling/) [extremely](/zh/post/extremely/) [thirsty](/zh/post/thirsty/)."
+- 副词: "[She](/zh/post/she/) was [thirsty](/zh/post/thirsty/) [to](/zh/post/to/) [learn](/zh/post/learn/) [more](/zh/post/more/) [about](/zh/post/about/) [the](/zh/post/the/) [subject](/zh/post/subject/).
 
 ## 同义词
 - Arid
 - Dehydrated
 - Longing
-- [Eager](/post/eager/)
-- [Hunger](/post/hunger/) ([in](/post/in/) [a](/post/a/) metaphorical [sense](/post/sense/))
+- [Eager](/zh/post/eager/)
+- [Hunger](/zh/post/hunger/) ([in](/zh/post/in/) [a](/zh/post/a/) metaphorical [sense](/zh/post/sense/))

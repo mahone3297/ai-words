@@ -12,21 +12,21 @@ keywords = ['ai words', 'employ']
 
 ## 释义
 - **动词**:
-1. 雇佣，使用（某人）在工作中。例如: "[The](/post/the/) [company](/post/company/) employs [over](/post/over/) 100 [people](/post/people/)."
-2. 利用，运用（某种方法、技能）。例如: "[She](/post/she/) employs [her](/post/her/) creativity [in](/post/in/) [her](/post/her/) [daily](/post/daily/) [work](/post/work/)."
+1. 雇佣，使用（某人）在工作中。例如: "[The](/zh/post/the/) [company](/zh/post/company/) employs [over](/zh/post/over/) 100 [people](/zh/post/people/)."
+2. 利用，运用（某种方法、技能）。例如: "[She](/zh/post/she/) employs [her](/zh/post/her/) creativity [in](/zh/post/in/) [her](/zh/post/her/) [daily](/zh/post/daily/) [work](/zh/post/work/)."
 
 ## 短语
-- "[Employ](/post/employ/) [someone](/post/someone/) [in](/post/in/) [a](/post/a/) [position](/post/position/)" 意为在某个职位上雇佣某人。
-- "[Employ](/post/employ/) one's [time](/post/time/)" 指利用时间做某事。
-- "[Employ](/post/employ/) [new](/post/new/) [technology](/post/technology/)" 意为采用新技术。
+- "[Employ](/zh/post/employ/) [someone](/zh/post/someone/) [in](/zh/post/in/) [a](/zh/post/a/) [position](/zh/post/position/)" 意为在某个职位上雇佣某人。
+- "[Employ](/zh/post/employ/) one's [time](/zh/post/time/)" 指利用时间做某事。
+- "[Employ](/zh/post/employ/) [new](/zh/post/new/) [technology](/zh/post/technology/)" 意为采用新技术。
 
 ## 例句
-- 动词 (雇佣): "[He](/post/he/) was employed [as](/post/as/) [a](/post/a/) marketing manager [last](/post/last/) [month](/post/month/)."
-- 动词 (利用): "[She](/post/she/) employs [her](/post/her/) [excellent](/post/excellent/) [communication](/post/communication/) skills [to](/post/to/) [resolve](/post/resolve/) conflicts."
+- 动词 (雇佣): "[He](/zh/post/he/) was employed [as](/zh/post/as/) [a](/zh/post/a/) marketing manager [last](/zh/post/last/) [month](/zh/post/month/)."
+- 动词 (利用): "[She](/zh/post/she/) employs [her](/zh/post/her/) [excellent](/zh/post/excellent/) [communication](/zh/post/communication/) skills [to](/zh/post/to/) [resolve](/zh/post/resolve/) conflicts."
 
 ## 同义词
-- [Hire](/post/hire/)
-- [Engage](/post/engage/)
-- [Utilize](/post/utilize/)
-- [Use](/post/use/)
-- [Work](/post/work/) [with](/post/with/)
+- [Hire](/zh/post/hire/)
+- [Engage](/zh/post/engage/)
+- [Utilize](/zh/post/utilize/)
+- [Use](/zh/post/use/)
+- [Work](/zh/post/work/) [with](/zh/post/with/)

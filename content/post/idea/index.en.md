@@ -7,33 +7,33 @@ description = '[aiˈdiə] n.想法；思想；意见'
 keywords = ['ai words', 'idea']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /aɪˈdiə/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [thought](/en/post/thought/), [suggestion](/en/post/suggestion/), [or](/en/post/or/) [plan](/en/post/plan/) [that](/en/post/that/) is formed [in](/en/post/in/) [the](/en/post/the/) [mind](/en/post/mind/); [a](/en/post/a/) [concept](/en/post/concept/) [or](/en/post/or/) notion. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) had an innovative [idea](/en/post/idea/) [for](/en/post/for/) [a](/en/post/a/) [new](/en/post/new/) app."
-  - _Also_, [something](/en/post/something/) [that](/en/post/that/) [may](/en/post/may/) [be](/en/post/be/) [or](/en/post/or/) is imagined; [a](/en/post/a/) conception [or](/en/post/or/) [image](/en/post/image/) [in](/en/post/in/) [the](/en/post/the/) [mind](/en/post/mind/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [idea](/en/post/idea/) [of](/en/post/of/) [a](/en/post/a/) [perfect](/en/post/perfect/) [society](/en/post/society/) is [often](/en/post/often/) debated [among](/en/post/among/) philosophers."
-- **[Verb](/en/post/verb/) ([usually](/en/post/usually/) [in](/en/post/in/) [passive](/en/post/passive/) [form](/en/post/form/))**: [To](/en/post/to/) [think](/en/post/think/) [or](/en/post/or/) [believe](/en/post/believe/) [something](/en/post/something/) [to](/en/post/to/) [be](/en/post/be/) [true](/en/post/true/); [to](/en/post/to/) [consider](/en/post/consider/) [or](/en/post/or/) [suppose](/en/post/suppose/). [For](/en/post/for/) [example](/en/post/example/): "[Idea](/en/post/idea/) has [it](/en/post/it/) [that](/en/post/that/) he's going [to](/en/post/to/) [resign](/en/post/resign/) [from](/en/post/from/) [his](/en/post/his/) [position](/en/post/position/) [soon](/en/post/soon/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [thought](/post/thought/), [suggestion](/post/suggestion/), [or](/post/or/) [plan](/post/plan/) [that](/post/that/) is formed [in](/post/in/) [the](/post/the/) [mind](/post/mind/); [a](/post/a/) [concept](/post/concept/) [or](/post/or/) notion. [For](/post/for/) [example](/post/example/): "[She](/post/she/) had an innovative [idea](/post/idea/) [for](/post/for/) [a](/post/a/) [new](/post/new/) app."
+  - _Also_, [something](/post/something/) [that](/post/that/) [may](/post/may/) [be](/post/be/) [or](/post/or/) is imagined; [a](/post/a/) conception [or](/post/or/) [image](/post/image/) [in](/post/in/) [the](/post/the/) [mind](/post/mind/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [idea](/post/idea/) [of](/post/of/) [a](/post/a/) [perfect](/post/perfect/) [society](/post/society/) is [often](/post/often/) debated [among](/post/among/) philosophers."
+- **[Verb](/post/verb/) ([usually](/post/usually/) [in](/post/in/) [passive](/post/passive/) [form](/post/form/))**: [To](/post/to/) [think](/post/think/) [or](/post/or/) [believe](/post/believe/) [something](/post/something/) [to](/post/to/) [be](/post/be/) [true](/post/true/); [to](/post/to/) [consider](/post/consider/) [or](/post/or/) [suppose](/post/suppose/). [For](/post/for/) [example](/post/example/): "[Idea](/post/idea/) has [it](/post/it/) [that](/post/that/) he's going [to](/post/to/) [resign](/post/resign/) [from](/post/from/) [his](/post/his/) [position](/post/position/) [soon](/post/soon/)."
   
 ## Phrases
-- "[Get](/en/post/get/) an [idea](/en/post/idea/)": [To](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [thought](/en/post/thought/) [or](/en/post/or/) [understanding](/en/post/understanding/) [about](/en/post/about/) [something](/en/post/something/). [Example](/en/post/example/): "[After](/en/post/after/) [reading](/en/post/reading/) [the](/en/post/the/) [book](/en/post/book/), I got an [idea](/en/post/idea/) [of](/en/post/of/) [how](/en/post/how/) [complex](/en/post/complex/) [the](/en/post/the/) [issue](/en/post/issue/) [really](/en/post/really/) was."
-- "[Have](/en/post/have/) an [idea](/en/post/idea/)": [To](/en/post/to/) [possess](/en/post/possess/) [a](/en/post/a/) [thought](/en/post/thought/) [or](/en/post/or/) [suggestion](/en/post/suggestion/). [Example](/en/post/example/): "[She](/en/post/she/) had an [idea](/en/post/idea/) [for](/en/post/for/) improving [the](/en/post/the/) company's marketing [strategy](/en/post/strategy/)."
-- "[On](/en/post/on/) [the](/en/post/the/) [idea](/en/post/idea/) [of](/en/post/of/)": [In](/en/post/in/) [consideration](/en/post/consideration/) [of](/en/post/of/) [or](/en/post/or/) [with](/en/post/with/) [reference](/en/post/reference/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [thought](/en/post/thought/) [or](/en/post/or/) [suggestion](/en/post/suggestion/). [Example](/en/post/example/): "They're working [on](/en/post/on/) [the](/en/post/the/) [idea](/en/post/idea/) [of](/en/post/of/) launching [a](/en/post/a/) [new](/en/post/new/) [product](/en/post/product/) [line](/en/post/line/)."
+- "[Get](/post/get/) an [idea](/post/idea/)": [To](/post/to/) [form](/post/form/) [a](/post/a/) [thought](/post/thought/) [or](/post/or/) [understanding](/post/understanding/) [about](/post/about/) [something](/post/something/). [Example](/post/example/): "[After](/post/after/) [reading](/post/reading/) [the](/post/the/) [book](/post/book/), I got an [idea](/post/idea/) [of](/post/of/) [how](/post/how/) [complex](/post/complex/) [the](/post/the/) [issue](/post/issue/) [really](/post/really/) was."
+- "[Have](/post/have/) an [idea](/post/idea/)": [To](/post/to/) [possess](/post/possess/) [a](/post/a/) [thought](/post/thought/) [or](/post/or/) [suggestion](/post/suggestion/). [Example](/post/example/): "[She](/post/she/) had an [idea](/post/idea/) [for](/post/for/) improving [the](/post/the/) company's marketing [strategy](/post/strategy/)."
+- "[On](/post/on/) [the](/post/the/) [idea](/post/idea/) [of](/post/of/)": [In](/post/in/) [consideration](/post/consideration/) [of](/post/of/) [or](/post/or/) [with](/post/with/) [reference](/post/reference/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [thought](/post/thought/) [or](/post/or/) [suggestion](/post/suggestion/). [Example](/post/example/): "They're working [on](/post/on/) [the](/post/the/) [idea](/post/idea/) [of](/post/of/) launching [a](/post/a/) [new](/post/new/) [product](/post/product/) [line](/post/line/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [idea](/en/post/idea/) revolutionized [the](/en/post/the/) [industry](/en/post/industry/) [and](/en/post/and/) led [to](/en/post/to/) groundbreaking innovations."
-- _As [a](/en/post/a/) [passive](/en/post/passive/) verb_: "[It](/en/post/it/) is [generally](/en/post/generally/) [thought](/en/post/thought/) [that](/en/post/that/) [climate](/en/post/climate/) [change](/en/post/change/) is caused [by](/en/post/by/) [human](/en/post/human/) [activity](/en/post/activity/); [this](/en/post/this/) [idea](/en/post/idea/) is supported [by](/en/post/by/) [scientific](/en/post/scientific/) [research](/en/post/research/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [idea](/post/idea/) revolutionized [the](/post/the/) [industry](/post/industry/) [and](/post/and/) led [to](/post/to/) groundbreaking innovations."
+- _As [a](/post/a/) [passive](/post/passive/) verb_: "[It](/post/it/) is [generally](/post/generally/) [thought](/post/thought/) [that](/post/that/) [climate](/post/climate/) [change](/post/change/) is caused [by](/post/by/) [human](/post/human/) [activity](/post/activity/); [this](/post/this/) [idea](/post/idea/) is supported [by](/post/by/) [scientific](/post/scientific/) [research](/post/research/)."
 
 ## Synonyms
-- [Concept](/en/post/concept/)
-- [Thought](/en/post/thought/)
+- [Concept](/post/concept/)
+- [Thought](/post/thought/)
 - Notion
-- [Suggestion](/en/post/suggestion/)
-- [Invention](/en/post/invention/)
+- [Suggestion](/post/suggestion/)
+- [Invention](/post/invention/)
 - Inspiration
-- [Vision](/en/post/vision/)
-- [Plan](/en/post/plan/)
-- [Proposal](/en/post/proposal/)
+- [Vision](/post/vision/)
+- [Plan](/post/plan/)
+- [Proposal](/post/proposal/)
 - Conception
 
-[Note](/en/post/note/): [Idea](/en/post/idea/) is [not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [the](/en/post/the/) [active](/en/post/active/) [voice](/en/post/voice/), [but](/en/post/but/) [rather](/en/post/rather/) appears [in](/en/post/in/) [passive](/en/post/passive/) constructions [as](/en/post/as/) shown [above](/en/post/above/).
+[Note](/post/note/): [Idea](/post/idea/) is [not](/post/not/) typically [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [the](/post/the/) [active](/post/active/) [voice](/post/voice/), [but](/post/but/) [rather](/post/rather/) appears [in](/post/in/) [passive](/post/passive/) constructions [as](/post/as/) shown [above](/post/above/).

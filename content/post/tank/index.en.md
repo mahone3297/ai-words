@@ -7,39 +7,39 @@ description = '[tæŋk] n.坦克；大容器，槽'
 keywords = ['ai words', 'tank']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tæŋk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [large](/en/post/large/), armored fighting [vehicle](/en/post/vehicle/) [with](/en/post/with/) [a](/en/post/a/) [crew](/en/post/crew/) [that](/en/post/that/) carries [a](/en/post/a/) [main](/en/post/main/) [gun](/en/post/gun/) [and](/en/post/and/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [for](/en/post/for/) [ground](/en/post/ground/) combat, reconnaissance, [or](/en/post/or/) [support](/en/post/support/) roles.** [Example](/en/post/example/): "[The](/en/post/the/) [tank](/en/post/tank/) was [a](/en/post/a/) crucial [part](/en/post/part/) [of](/en/post/of/) [World](/en/post/world/) [War](/en/post/war/) II warfare."
-2. **[A](/en/post/a/) [large](/en/post/large/) [container](/en/post/container/), typically [metal](/en/post/metal/), [used](/en/post/used/) [to](/en/post/to/) [hold](/en/post/hold/) [liquid](/en/post/liquid/) [or](/en/post/or/) compressed [gas](/en/post/gas/).** [Example](/en/post/example/): "[The](/en/post/the/) [water](/en/post/water/) [tank](/en/post/tank/) holds [several](/en/post/several/) [thousand](/en/post/thousand/) gallons [of](/en/post/of/) [water](/en/post/water/)."
-3. **An enclosed, [often](/en/post/often/) armored [structure](/en/post/structure/) [within](/en/post/within/) [a](/en/post/a/) [building](/en/post/building/), providing [storage](/en/post/storage/) [or](/en/post/or/) [protection](/en/post/protection/) [for](/en/post/for/) [equipment](/en/post/equipment/), supplies, [or](/en/post/or/) [people](/en/post/people/).** [Example](/en/post/example/): "[The](/en/post/the/) basement was converted [into](/en/post/into/) [a](/en/post/a/) [living](/en/post/living/) [area](/en/post/area/) [with](/en/post/with/) [a](/en/post/a/) [small](/en/post/small/) kitchenette [and](/en/post/and/) [a](/en/post/a/) [storage](/en/post/storage/) [tank](/en/post/tank/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [large](/post/large/), armored fighting [vehicle](/post/vehicle/) [with](/post/with/) [a](/post/a/) [crew](/post/crew/) [that](/post/that/) carries [a](/post/a/) [main](/post/main/) [gun](/post/gun/) [and](/post/and/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [for](/post/for/) [ground](/post/ground/) combat, reconnaissance, [or](/post/or/) [support](/post/support/) roles.** [Example](/post/example/): "[The](/post/the/) [tank](/post/tank/) was [a](/post/a/) crucial [part](/post/part/) [of](/post/of/) [World](/post/world/) [War](/post/war/) II warfare."
+2. **[A](/post/a/) [large](/post/large/) [container](/post/container/), typically [metal](/post/metal/), [used](/post/used/) [to](/post/to/) [hold](/post/hold/) [liquid](/post/liquid/) [or](/post/or/) compressed [gas](/post/gas/).** [Example](/post/example/): "[The](/post/the/) [water](/post/water/) [tank](/post/tank/) holds [several](/post/several/) [thousand](/post/thousand/) gallons [of](/post/of/) [water](/post/water/)."
+3. **An enclosed, [often](/post/often/) armored [structure](/post/structure/) [within](/post/within/) [a](/post/a/) [building](/post/building/), providing [storage](/post/storage/) [or](/post/or/) [protection](/post/protection/) [for](/post/for/) [equipment](/post/equipment/), supplies, [or](/post/or/) [people](/post/people/).** [Example](/post/example/): "[The](/post/the/) basement was converted [into](/post/into/) [a](/post/a/) [living](/post/living/) [area](/post/area/) [with](/post/with/) [a](/post/a/) [small](/post/small/) kitchenette [and](/post/and/) [a](/post/a/) [storage](/post/storage/) [tank](/post/tank/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [carry](/en/post/carry/) [or](/en/post/or/) [move](/en/post/move/) [something](/en/post/something/) using [a](/en/post/a/) [tank](/en/post/tank/) [or](/en/post/or/) armored [vehicle](/en/post/vehicle/).** [Example](/en/post/example/): "[The](/en/post/the/) soldiers tanked [the](/en/post/the/) [enemy](/en/post/enemy/) [position](/en/post/position/)."
-2. **[To](/en/post/to/) [store](/en/post/store/) [a](/en/post/a/) [liquid](/en/post/liquid/) [or](/en/post/or/) [gas](/en/post/gas/) [in](/en/post/in/) [a](/en/post/a/) [tank](/en/post/tank/).** [Example](/en/post/example/): "[The](/en/post/the/) tanker [ship](/en/post/ship/) is filling [up](/en/post/up/) [with](/en/post/with/) [crude](/en/post/crude/) [oil](/en/post/oil/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [carry](/post/carry/) [or](/post/or/) [move](/post/move/) [something](/post/something/) using [a](/post/a/) [tank](/post/tank/) [or](/post/or/) armored [vehicle](/post/vehicle/).** [Example](/post/example/): "[The](/post/the/) soldiers tanked [the](/post/the/) [enemy](/post/enemy/) [position](/post/position/)."
+2. **[To](/post/to/) [store](/post/store/) [a](/post/a/) [liquid](/post/liquid/) [or](/post/or/) [gas](/post/gas/) [in](/post/in/) [a](/post/a/) [tank](/post/tank/).** [Example](/post/example/): "[The](/post/the/) tanker [ship](/post/ship/) is filling [up](/post/up/) [with](/post/with/) [crude](/post/crude/) [oil](/post/oil/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Characterized [by](/en/post/by/) [strength](/en/post/strength/), durability, [or](/en/post/or/) resilience, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/).** [Example](/en/post/example/): "[His](/en/post/his/) tank-like personality made [him](/en/post/him/) [hard](/en/post/hard/) [to](/en/post/to/) [crack](/en/post/crack/)."
-2. **Relating [to](/en/post/to/) [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [military](/en/post/military/) [vehicle](/en/post/vehicle/) [or](/en/post/or/) [technology](/en/post/technology/).** [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [tank](/en/post/tank/) [model](/en/post/model/) has [advanced](/en/post/advanced/) armor systems."
+### [Adjective](/post/adjective/)
+1. **Characterized [by](/post/by/) [strength](/post/strength/), durability, [or](/post/or/) resilience, [often](/post/often/) [in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/).** [Example](/post/example/): "[His](/post/his/) tank-like personality made [him](/post/him/) [hard](/post/hard/) [to](/post/to/) [crack](/post/crack/)."
+2. **Relating [to](/post/to/) [a](/post/a/) [type](/post/type/) [of](/post/of/) [military](/post/military/) [vehicle](/post/vehicle/) [or](/post/or/) [technology](/post/technology/).** [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [tank](/post/tank/) [model](/post/model/) has [advanced](/post/advanced/) armor systems."
 
 ## Phrases
-- "[Drive](/en/post/drive/) [a](/en/post/a/) [tank](/en/post/tank/)" [or](/en/post/or/) "[operate](/en/post/operate/) [a](/en/post/a/) [tank](/en/post/tank/)" (referring [to](/en/post/to/) [a](/en/post/a/) [vehicle](/en/post/vehicle/))
-- "[Fill](/en/post/fill/) [up](/en/post/up/) [the](/en/post/the/) [tank](/en/post/tank/)" (referring [to](/en/post/to/) [a](/en/post/a/) vehicle's [fuel](/en/post/fuel/))
-- "[A](/en/post/a/) [tank](/en/post/tank/) [of](/en/post/of/) [gas](/en/post/gas/)" ([a](/en/post/a/) [full](/en/post/full/) [fuel](/en/post/fuel/) [tank](/en/post/tank/))
-- "[A](/en/post/a/) [tank](/en/post/tank/) [top](/en/post/top/)" ([a](/en/post/a/) loose-fitting [shirt](/en/post/shirt/) [without](/en/post/without/) sleeves)
+- "[Drive](/post/drive/) [a](/post/a/) [tank](/post/tank/)" [or](/post/or/) "[operate](/post/operate/) [a](/post/a/) [tank](/post/tank/)" (referring [to](/post/to/) [a](/post/a/) [vehicle](/post/vehicle/))
+- "[Fill](/post/fill/) [up](/post/up/) [the](/post/the/) [tank](/post/tank/)" (referring [to](/post/to/) [a](/post/a/) vehicle's [fuel](/post/fuel/))
+- "[A](/post/a/) [tank](/post/tank/) [of](/post/of/) [gas](/post/gas/)" ([a](/post/a/) [full](/post/full/) [fuel](/post/fuel/) [tank](/post/tank/))
+- "[A](/post/a/) [tank](/post/tank/) [top](/post/top/)" ([a](/post/a/) loose-fitting [shirt](/post/shirt/) [without](/post/without/) sleeves)
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [tank](/en/post/tank/) rolled [across](/en/post/across/) [the](/en/post/the/) battlefield, firing [its](/en/post/its/) [cannon](/en/post/cannon/) [at](/en/post/at/) [the](/en/post/the/) [enemy](/en/post/enemy/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) plumber arrived [to](/en/post/to/) [fix](/en/post/fix/) [the](/en/post/the/) [leak](/en/post/leak/) [in](/en/post/in/) [our](/en/post/our/) [water](/en/post/water/) [tank](/en/post/tank/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) tank's reinforced walls [provided](/en/post/provided/) [excellent](/en/post/excellent/) [protection](/en/post/protection/) [from](/en/post/from/) [enemy](/en/post/enemy/) [fire](/en/post/fire/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [tank](/post/tank/) rolled [across](/post/across/) [the](/post/the/) battlefield, firing [its](/post/its/) [cannon](/post/cannon/) [at](/post/at/) [the](/post/the/) [enemy](/post/enemy/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) plumber arrived [to](/post/to/) [fix](/post/fix/) [the](/post/the/) [leak](/post/leak/) [in](/post/in/) [our](/post/our/) [water](/post/water/) [tank](/post/tank/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) tank's reinforced walls [provided](/post/provided/) [excellent](/post/excellent/) [protection](/post/protection/) [from](/post/from/) [enemy](/post/enemy/) [fire](/post/fire/)."
 
 ## Synonyms
-- Armored [vehicle](/en/post/vehicle/)
-- Fighting [vehicle](/en/post/vehicle/)
-- [Container](/en/post/container/)
+- Armored [vehicle](/post/vehicle/)
+- Fighting [vehicle](/post/vehicle/)
+- [Container](/post/container/)
 - Resilient
-- [Strong](/en/post/strong/)
+- [Strong](/post/strong/)
 - Military-grade
-- [Fuel](/en/post/fuel/) [storage](/en/post/storage/) [unit](/en/post/unit/)
+- [Fuel](/post/fuel/) [storage](/post/storage/) [unit](/post/unit/)

@@ -7,44 +7,44 @@ description = '[riˈzain] vt.放弃 vi.辞职'
 keywords = ['ai words', 'resign']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈzaɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [resignation](/en/post/resignation/), [especially](/en/post/especially/) [from](/en/post/from/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [post](/en/post/post/).
-- [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [up](/en/post/up/) [or](/en/post/or/) stepping [down](/en/post/down/) [from](/en/post/from/) [a](/en/post/a/) [job](/en/post/job/) [or](/en/post/or/) [office](/en/post/office/).
-- [The](/en/post/the/) written [notice](/en/post/notice/) [of](/en/post/of/) [such](/en/post/such/) [a](/en/post/a/) [decision](/en/post/decision/).
+### [Noun](/post/noun/)
+- [A](/post/a/) [resignation](/post/resignation/), [especially](/post/especially/) [from](/post/from/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [post](/post/post/).
+- [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [up](/post/up/) [or](/post/or/) stepping [down](/post/down/) [from](/post/from/) [a](/post/a/) [job](/post/job/) [or](/post/or/) [office](/post/office/).
+- [The](/post/the/) written [notice](/post/notice/) [of](/post/of/) [such](/post/such/) [a](/post/a/) [decision](/post/decision/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [give](/en/post/give/) [up](/en/post/up/) one's [job](/en/post/job/) [or](/en/post/or/) [position](/en/post/position/) voluntarily.
-- [To](/en/post/to/) [resign](/en/post/resign/) [oneself](/en/post/oneself/) [to](/en/post/to/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [outcome](/en/post/outcome/).
-- [To](/en/post/to/) [cease](/en/post/cease/) actively participating [or](/en/post/or/) supporting [something](/en/post/something/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [give](/post/give/) [up](/post/up/) one's [job](/post/job/) [or](/post/or/) [position](/post/position/) voluntarily.
+- [To](/post/to/) [resign](/post/resign/) [oneself](/post/oneself/) [to](/post/to/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [outcome](/post/outcome/).
+- [To](/post/to/) [cease](/post/cease/) actively participating [or](/post/or/) supporting [something](/post/something/).
 
 ## Phrases
-- "[Resign](/en/post/resign/) [from](/en/post/from/) [a](/en/post/a/) [position](/en/post/position/)" [means](/en/post/means/) [to](/en/post/to/) officially [leave](/en/post/leave/) [a](/en/post/a/) [job](/en/post/job/).
-- "[Resignation](/en/post/resignation/) [letter](/en/post/letter/)" is [a](/en/post/a/) [formal](/en/post/formal/) [document](/en/post/document/) announcing one's [intention](/en/post/intention/) [to](/en/post/to/) [leave](/en/post/leave/) [a](/en/post/a/) [job](/en/post/job/).
-- "[Resign](/en/post/resign/) [oneself](/en/post/oneself/) [to](/en/post/to/)" implies accepting [a](/en/post/a/) [situation](/en/post/situation/) [with](/en/post/with/) disappointment [or](/en/post/or/) [acceptance](/en/post/acceptance/).
+- "[Resign](/post/resign/) [from](/post/from/) [a](/post/a/) [position](/post/position/)" [means](/post/means/) [to](/post/to/) officially [leave](/post/leave/) [a](/post/a/) [job](/post/job/).
+- "[Resignation](/post/resignation/) [letter](/post/letter/)" is [a](/post/a/) [formal](/post/formal/) [document](/post/document/) announcing one's [intention](/post/intention/) [to](/post/to/) [leave](/post/leave/) [a](/post/a/) [job](/post/job/).
+- "[Resign](/post/resign/) [oneself](/post/oneself/) [to](/post/to/)" implies accepting [a](/post/a/) [situation](/post/situation/) [with](/post/with/) disappointment [or](/post/or/) [acceptance](/post/acceptance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) months [of](/en/post/of/) [internal](/en/post/internal/) [conflict](/en/post/conflict/), [the](/en/post/the/) CEO submitted [his](/en/post/his/) [resignation](/en/post/resignation/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [resign](/en/post/resign/) [from](/en/post/from/) [her](/en/post/her/) stressful [job](/en/post/job/) [to](/en/post/to/) [pursue](/en/post/pursue/) [a](/en/post/a/) [more](/en/post/more/) fulfilling [career](/en/post/career/)."
-- **[To](/en/post/to/) [resign](/en/post/resign/) [oneself](/en/post/oneself/) [to](/en/post/to/)**: "[He](/en/post/he/) resigned [himself](/en/post/himself/) [to](/en/post/to/) [the](/en/post/the/) [fact](/en/post/fact/) [that](/en/post/that/) [he](/en/post/he/) [would](/en/post/would/) [have](/en/post/have/) [to](/en/post/to/) [work](/en/post/work/) [overtime](/en/post/overtime/) [this](/en/post/this/) [weekend](/en/post/weekend/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) months [of](/post/of/) [internal](/post/internal/) [conflict](/post/conflict/), [the](/post/the/) CEO submitted [his](/post/his/) [resignation](/post/resignation/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [resign](/post/resign/) [from](/post/from/) [her](/post/her/) stressful [job](/post/job/) [to](/post/to/) [pursue](/post/pursue/) [a](/post/a/) [more](/post/more/) fulfilling [career](/post/career/)."
+- **[To](/post/to/) [resign](/post/resign/) [oneself](/post/oneself/) [to](/post/to/)**: "[He](/post/he/) resigned [himself](/post/himself/) [to](/post/to/) [the](/post/the/) [fact](/post/fact/) [that](/post/that/) [he](/post/he/) [would](/post/would/) [have](/post/have/) [to](/post/to/) [work](/post/work/) [overtime](/post/overtime/) [this](/post/this/) [weekend](/post/weekend/)."
 
 ## Synonyms
-- [Quit](/en/post/quit/)
-- [Resignation](/en/post/resignation/)
-- [Surrender](/en/post/surrender/)
+- [Quit](/post/quit/)
+- [Resignation](/post/resignation/)
+- [Surrender](/post/surrender/)
 - Relinquish
-- [Step](/en/post/step/) [down](/en/post/down/)
+- [Step](/post/step/) [down](/post/down/)
 
 ## Antonyms
-- [Continue](/en/post/continue/)
-- [Stay](/en/post/stay/)
-- [Persist](/en/post/persist/)
-- [Maintain](/en/post/maintain/)
+- [Continue](/post/continue/)
+- [Stay](/post/stay/)
+- [Persist](/post/persist/)
+- [Maintain](/post/maintain/)
 
-## [Usage](/en/post/usage/)
-- *[Noun](/en/post/noun/)*: [The](/en/post/the/) [board](/en/post/board/) accepted [the](/en/post/the/) director's [resignation](/en/post/resignation/) [with](/en/post/with/) [regret](/en/post/regret/).
-- *[Verb](/en/post/verb/)*: [After](/en/post/after/) [much](/en/post/much/) contemplation, [he](/en/post/he/) [finally](/en/post/finally/) resigned [himself](/en/post/himself/) [to](/en/post/to/) [his](/en/post/his/) [fate](/en/post/fate/).
-- *[Adjective](/en/post/adjective/)*: [She](/en/post/she/) felt [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [relief](/en/post/relief/) [after](/en/post/after/) making [the](/en/post/the/) [difficult](/en/post/difficult/) [decision](/en/post/decision/) [to](/en/post/to/) [resign](/en/post/resign/).
+## [Usage](/post/usage/)
+- *[Noun](/post/noun/)*: [The](/post/the/) [board](/post/board/) accepted [the](/post/the/) director's [resignation](/post/resignation/) [with](/post/with/) [regret](/post/regret/).
+- *[Verb](/post/verb/)*: [After](/post/after/) [much](/post/much/) contemplation, [he](/post/he/) [finally](/post/finally/) resigned [himself](/post/himself/) [to](/post/to/) [his](/post/his/) [fate](/post/fate/).
+- *[Adjective](/post/adjective/)*: [She](/post/she/) felt [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [relief](/post/relief/) [after](/post/after/) making [the](/post/the/) [difficult](/post/difficult/) [decision](/post/decision/) [to](/post/to/) [resign](/post/resign/).

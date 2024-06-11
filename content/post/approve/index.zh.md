@@ -12,24 +12,24 @@ keywords = ['ai words', 'approve']
 
 ## 释义
 - **动词**:
-1. 批准，赞成。例如: "[The](/post/the/) [boss](/post/boss/) approved [the](/post/the/) [new](/post/new/) [project](/post/project/) [plan](/post/plan/)."
-2. 同意，认可。例如: "I [need](/post/need/) [your](/post/your/) [approval](/post/approval/) [before](/post/before/) I [can](/post/can/) [make](/post/make/) [any](/post/any/) changes."
-3. 确认，证实。例如: "[The](/post/the/) [document](/post/document/) has been approved [and](/post/and/) signed [by](/post/by/) [all](/post/all/) parties."
+1. 批准，赞成。例如: "[The](/zh/post/the/) [boss](/zh/post/boss/) approved [the](/zh/post/the/) [new](/zh/post/new/) [project](/zh/post/project/) [plan](/zh/post/plan/)."
+2. 同意，认可。例如: "I [need](/zh/post/need/) [your](/zh/post/your/) [approval](/zh/post/approval/) [before](/zh/post/before/) I [can](/zh/post/can/) [make](/zh/post/make/) [any](/zh/post/any/) changes."
+3. 确认，证实。例如: "[The](/zh/post/the/) [document](/zh/post/document/) has been approved [and](/zh/post/and/) signed [by](/zh/post/by/) [all](/zh/post/all/) parties."
 
 - **名词**:
-批准，同意。例如: "We're waiting [for](/post/for/) [the](/post/the/) [official](/post/official/) [approval](/post/approval/) [from](/post/from/) [the](/post/the/) [government](/post/government/)."
+批准，同意。例如: "We're waiting [for](/zh/post/for/) [the](/zh/post/the/) [official](/zh/post/official/) [approval](/zh/post/approval/) [from](/zh/post/from/) [the](/zh/post/the/) [government](/zh/post/government/)."
 
 ## 短语
-- "[to](/post/to/) [give](/post/give/) one's [approval](/post/approval/)" 意为给予同意或批准。
-- "[await](/post/await/) [approval](/post/approval/)" 表示等待批准或认可。
+- "[to](/zh/post/to/) [give](/zh/post/give/) one's [approval](/zh/post/approval/)" 意为给予同意或批准。
+- "[await](/zh/post/await/) [approval](/zh/post/approval/)" 表示等待批准或认可。
 
 ## 例句
-- 动词: "[The](/post/the/) manager approved [the](/post/the/) [expense](/post/expense/) [report](/post/report/) [without](/post/without/) [any](/post/any/) issues."
-- 名词: "[Their](/post/their/) [proposal](/post/proposal/) received [widespread](/post/widespread/) [approval](/post/approval/) [from](/post/from/) [the](/post/the/) [public](/post/public/)."
+- 动词: "[The](/zh/post/the/) manager approved [the](/zh/post/the/) [expense](/zh/post/expense/) [report](/zh/post/report/) [without](/zh/post/without/) [any](/zh/post/any/) issues."
+- 名词: "[Their](/zh/post/their/) [proposal](/zh/post/proposal/) received [widespread](/zh/post/widespread/) [approval](/zh/post/approval/) [from](/zh/post/from/) [the](/zh/post/the/) [public](/zh/post/public/)."
 
 ## 同义词
-- [consent](/post/consent/)
+- [consent](/zh/post/consent/)
 - endorse
 - sanction
 - ratify
-- [confirm](/post/confirm/)
+- [confirm](/zh/post/confirm/)

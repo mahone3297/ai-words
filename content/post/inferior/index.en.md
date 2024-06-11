@@ -7,24 +7,24 @@ description = '[inˈfiəriə] a.下等的；劣等的'
 keywords = ['ai words', 'inferior']
 +++
 
-## [Word](/en/post/word/): [Inferior](/en/post/inferior/)
+## [Word](/post/word/): [Inferior](/post/inferior/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈfɪəriər/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/) (adj)**: [Lower](/en/post/lower/) [in](/en/post/in/) [rank](/en/post/rank/), [quality](/en/post/quality/), [or](/en/post/or/) [status](/en/post/status/); [less](/en/post/less/) [advanced](/en/post/advanced/), developed, [or](/en/post/or/) [capable](/en/post/capable/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [inferior](/en/post/inferior/) [product](/en/post/product/) couldn't [compete](/en/post/compete/) [with](/en/post/with/) [its](/en/post/its/) [superior](/en/post/superior/) rivals."
-  - "[The](/en/post/the/) [economy](/en/post/economy/) [class](/en/post/class/) seats [on](/en/post/on/) [this](/en/post/this/) [airline](/en/post/airline/) are [inferior](/en/post/inferior/) [to](/en/post/to/) [those](/en/post/those/) [in](/en/post/in/) [business](/en/post/business/) [class](/en/post/class/)."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is [lower](/en/post/lower/) [in](/en/post/in/) [rank](/en/post/rank/), [quality](/en/post/quality/), [or](/en/post/or/) [status](/en/post/status/) [than](/en/post/than/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's [new](/en/post/new/) [model](/en/post/model/) is considered an [inferior](/en/post/inferior/) [to](/en/post/to/) [its](/en/post/its/) predecessor."
-  - "[In](/en/post/in/) [the](/en/post/the/) hierarchy, [he](/en/post/he/) viewed [his](/en/post/his/) subordinates [as](/en/post/as/) inferiors."
+- **[Adjective](/post/adjective/) (adj)**: [Lower](/post/lower/) [in](/post/in/) [rank](/post/rank/), [quality](/post/quality/), [or](/post/or/) [status](/post/status/); [less](/post/less/) [advanced](/post/advanced/), developed, [or](/post/or/) [capable](/post/capable/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [inferior](/post/inferior/) [product](/post/product/) couldn't [compete](/post/compete/) [with](/post/with/) [its](/post/its/) [superior](/post/superior/) rivals."
+  - "[The](/post/the/) [economy](/post/economy/) [class](/post/class/) seats [on](/post/on/) [this](/post/this/) [airline](/post/airline/) are [inferior](/post/inferior/) [to](/post/to/) [those](/post/those/) [in](/post/in/) [business](/post/business/) [class](/post/class/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is [lower](/post/lower/) [in](/post/in/) [rank](/post/rank/), [quality](/post/quality/), [or](/post/or/) [status](/post/status/) [than](/post/than/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's [new](/post/new/) [model](/post/model/) is considered an [inferior](/post/inferior/) [to](/post/to/) [its](/post/its/) predecessor."
+  - "[In](/post/in/) [the](/post/the/) hierarchy, [he](/post/he/) viewed [his](/post/his/) subordinates [as](/post/as/) inferiors."
 
 ## Phrases
-- "[Be](/en/post/be/) [inferior](/en/post/inferior/) [to](/en/post/to/)": [To](/en/post/to/) [be](/en/post/be/) [of](/en/post/of/) lesser [quality](/en/post/quality/) [or](/en/post/or/) [importance](/en/post/importance/) compared [to](/en/post/to/) [something](/en/post/something/) [else](/en/post/else/). [Example](/en/post/example/): "[Their](/en/post/their/) [technology](/en/post/technology/) is vastly [inferior](/en/post/inferior/) [to](/en/post/to/) [ours](/en/post/ours/)."
-- "[Feel](/en/post/feel/) [inferior](/en/post/inferior/)": [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) inadequacy [or](/en/post/or/) [low](/en/post/low/) self-worth [due](/en/post/due/) [to](/en/post/to/) perceived shortcomings. [Example](/en/post/example/): "[She](/en/post/she/) [often](/en/post/often/) felt [inferior](/en/post/inferior/) [to](/en/post/to/) [her](/en/post/her/) colleagues [because](/en/post/because/) [of](/en/post/of/) [her](/en/post/her/) [lack](/en/post/lack/) [of](/en/post/of/) [experience](/en/post/experience/)."
+- "[Be](/post/be/) [inferior](/post/inferior/) [to](/post/to/)": [To](/post/to/) [be](/post/be/) [of](/post/of/) lesser [quality](/post/quality/) [or](/post/or/) [importance](/post/importance/) compared [to](/post/to/) [something](/post/something/) [else](/post/else/). [Example](/post/example/): "[Their](/post/their/) [technology](/post/technology/) is vastly [inferior](/post/inferior/) [to](/post/to/) [ours](/post/ours/)."
+- "[Feel](/post/feel/) [inferior](/post/inferior/)": [To](/post/to/) [have](/post/have/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) inadequacy [or](/post/or/) [low](/post/low/) self-worth [due](/post/due/) [to](/post/to/) perceived shortcomings. [Example](/post/example/): "[She](/post/she/) [often](/post/often/) felt [inferior](/post/inferior/) [to](/post/to/) [her](/post/her/) colleagues [because](/post/because/) [of](/post/of/) [her](/post/her/) [lack](/post/lack/) [of](/post/of/) [experience](/post/experience/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) counterfeit [goods](/en/post/goods/) were [clearly](/en/post/clearly/) [inferior](/en/post/inferior/) [in](/en/post/in/) craftsmanship."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [management](/en/post/management/) was accused [of](/en/post/of/) treating [their](/en/post/their/) inferiors disrespectfully."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) counterfeit [goods](/post/goods/) were [clearly](/post/clearly/) [inferior](/post/inferior/) [in](/post/in/) craftsmanship."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [management](/post/management/) was accused [of](/post/of/) treating [their](/post/their/) inferiors disrespectfully."
 
 ## Synonyms
 - Substandard
@@ -32,9 +32,9 @@ keywords = ['ai words', 'inferior']
 - Second-rate
 - Poor-quality
 - Unworthy
-- [Junior](/en/post/junior/)
-- [Less](/en/post/less/) [advanced](/en/post/advanced/)
+- [Junior](/post/junior/)
+- [Less](/post/less/) [advanced](/post/advanced/)
 - Underdeveloped
 - Low-grade
-- [Below](/en/post/below/) par
-- [Secondary](/en/post/secondary/)
+- [Below](/post/below/) par
+- [Secondary](/post/secondary/)

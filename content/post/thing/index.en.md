@@ -7,35 +7,35 @@ description = '[θiŋ] n.物；用品；事；情况'
 keywords = ['ai words', 'thing']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /θɪŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - 1. [A](/en/post/a/) [general](/en/post/general/) [or](/en/post/or/) unspecified [object](/en/post/object/), entity, [or](/en/post/or/) [matter](/en/post/matter/); an [item](/en/post/item/) [or](/en/post/or/) [piece](/en/post/piece/) [of](/en/post/of/) [equipment](/en/post/equipment/). "[A](/en/post/a/) [thing](/en/post/thing/) [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
-  - 2. [A](/en/post/a/) [quality](/en/post/quality/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [that](/en/post/that/) defines [something](/en/post/something/). "[The](/en/post/the/) [beauty](/en/post/beauty/) [of](/en/post/of/) [the](/en/post/the/) [painting](/en/post/painting/) lies [in](/en/post/in/) [its](/en/post/its/) subtle details."
-  - 3. An [action](/en/post/action/) [or](/en/post/or/) [event](/en/post/event/). "[The](/en/post/the/) [wedding](/en/post/wedding/) was [a](/en/post/a/) memorable [thing](/en/post/thing/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [consider](/en/post/consider/), [regard](/en/post/regard/), [or](/en/post/or/) [perceive](/en/post/perceive/) [something](/en/post/something/). "She's thinking [about](/en/post/about/) buying [a](/en/post/a/) [new](/en/post/new/) [thing](/en/post/thing/) [for](/en/post/for/) [her](/en/post/her/) [kitchen](/en/post/kitchen/)."
-- **Interjection**: [Not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) an interjection [in](/en/post/in/) English, [but](/en/post/but/) [occasionally](/en/post/occasionally/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) informal [speech](/en/post/speech/) [or](/en/post/or/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [something](/en/post/something/). "[Oh](/en/post/oh/), [what](/en/post/what/) [a](/en/post/a/) [thing](/en/post/thing/)!"
+- **[Noun](/post/noun/)**: 
+  - 1. [A](/post/a/) [general](/post/general/) [or](/post/or/) unspecified [object](/post/object/), entity, [or](/post/or/) [matter](/post/matter/); an [item](/post/item/) [or](/post/or/) [piece](/post/piece/) [of](/post/of/) [equipment](/post/equipment/). "[A](/post/a/) [thing](/post/thing/) [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+  - 2. [A](/post/a/) [quality](/post/quality/) [or](/post/or/) [characteristic](/post/characteristic/) [that](/post/that/) defines [something](/post/something/). "[The](/post/the/) [beauty](/post/beauty/) [of](/post/of/) [the](/post/the/) [painting](/post/painting/) lies [in](/post/in/) [its](/post/its/) subtle details."
+  - 3. An [action](/post/action/) [or](/post/or/) [event](/post/event/). "[The](/post/the/) [wedding](/post/wedding/) was [a](/post/a/) memorable [thing](/post/thing/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [consider](/post/consider/), [regard](/post/regard/), [or](/post/or/) [perceive](/post/perceive/) [something](/post/something/). "She's thinking [about](/post/about/) buying [a](/post/a/) [new](/post/new/) [thing](/post/thing/) [for](/post/for/) [her](/post/her/) [kitchen](/post/kitchen/)."
+- **Interjection**: [Not](/post/not/) typically [used](/post/used/) [as](/post/as/) an interjection [in](/post/in/) English, [but](/post/but/) [occasionally](/post/occasionally/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [in](/post/in/) informal [speech](/post/speech/) [or](/post/or/) [to](/post/to/) [emphasize](/post/emphasize/) [something](/post/something/). "[Oh](/post/oh/), [what](/post/what/) [a](/post/a/) [thing](/post/thing/)!"
 
 ## Phrases
-- "What's [this](/en/post/this/) [thing](/en/post/thing/)?" is [a](/en/post/a/) [question](/en/post/question/) asking [for](/en/post/for/) identification [or](/en/post/or/) [explanation](/en/post/explanation/) [of](/en/post/of/) an [unknown](/en/post/unknown/) [object](/en/post/object/).
-- "That's [one](/en/post/one/) [thing](/en/post/thing/)" is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [single](/en/post/single/) [point](/en/post/point/) [or](/en/post/or/) [aspect](/en/post/aspect/) [in](/en/post/in/) [a](/en/post/a/) [discussion](/en/post/discussion/).
-- "[Nothing](/en/post/nothing/) is [a](/en/post/a/) [thing](/en/post/thing/)" [can](/en/post/can/) [mean](/en/post/mean/) [that](/en/post/that/) [something](/en/post/something/) is insignificant [or](/en/post/or/) unimportant.
+- "What's [this](/post/this/) [thing](/post/thing/)?" is [a](/post/a/) [question](/post/question/) asking [for](/post/for/) identification [or](/post/or/) [explanation](/post/explanation/) [of](/post/of/) an [unknown](/post/unknown/) [object](/post/object/).
+- "That's [one](/post/one/) [thing](/post/thing/)" is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [single](/post/single/) [point](/post/point/) [or](/post/or/) [aspect](/post/aspect/) [in](/post/in/) [a](/post/a/) [discussion](/post/discussion/).
+- "[Nothing](/post/nothing/) is [a](/post/a/) [thing](/post/thing/)" [can](/post/can/) [mean](/post/mean/) [that](/post/that/) [something](/post/something/) is insignificant [or](/post/or/) unimportant.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [found](/en/post/found/) an [old](/en/post/old/) [thing](/en/post/thing/) [in](/en/post/in/) [the](/en/post/the/) attic [that](/en/post/that/) I hadn't seen [in](/en/post/in/) years."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) didn't [like](/en/post/like/) [the](/en/post/the/) [way](/en/post/way/) [he](/en/post/he/) was looking [at](/en/post/at/) [her](/en/post/her/); [it](/en/post/it/) felt [like](/en/post/like/) [he](/en/post/he/) was sizing [her](/en/post/her/) [up](/en/post/up/) [as](/en/post/as/) [a](/en/post/a/) [thing](/en/post/thing/)."
-- **Interjection**: ([Rare](/en/post/rare/)) "[What](/en/post/what/) [a](/en/post/a/) [thing](/en/post/thing/)! [We](/en/post/we/) won [the](/en/post/the/) [game](/en/post/game/)!"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [found](/post/found/) an [old](/post/old/) [thing](/post/thing/) [in](/post/in/) [the](/post/the/) attic [that](/post/that/) I hadn't seen [in](/post/in/) years."
+- **[Verb](/post/verb/)**: "[She](/post/she/) didn't [like](/post/like/) [the](/post/the/) [way](/post/way/) [he](/post/he/) was looking [at](/post/at/) [her](/post/her/); [it](/post/it/) felt [like](/post/like/) [he](/post/he/) was sizing [her](/post/her/) [up](/post/up/) [as](/post/as/) [a](/post/a/) [thing](/post/thing/)."
+- **Interjection**: ([Rare](/post/rare/)) "[What](/post/what/) [a](/post/a/) [thing](/post/thing/)! [We](/post/we/) won [the](/post/the/) [game](/post/game/)!"
 
 ## Synonyms
-- [Item](/en/post/item/)
+- [Item](/post/item/)
 - Artifact
 - Artifact
-- [Object](/en/post/object/)
-- [Matter](/en/post/matter/)
-- [Feature](/en/post/feature/)
-- [Element](/en/post/element/)
-- [Act](/en/post/act/)
-- [Incident](/en/post/incident/)
-- [Event](/en/post/event/)
+- [Object](/post/object/)
+- [Matter](/post/matter/)
+- [Feature](/post/feature/)
+- [Element](/post/element/)
+- [Act](/post/act/)
+- [Incident](/post/incident/)
+- [Event](/post/event/)

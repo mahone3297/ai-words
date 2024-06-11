@@ -7,33 +7,33 @@ description = '[ˌəbzəːˈvei∫ən] n.注意；观察(力)'
 keywords = ['ai words', 'observation']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɑːbzərˈveɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [action](/en/post/action/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) observing [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) carefully [or](/en/post/or/) systematically. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [scientist](/en/post/scientist/) made meticulous observations [of](/en/post/of/) [the](/en/post/the/) plants' [growth](/en/post/growth/) patterns."
-  - [Also](/en/post/also/) [used](/en/post/used/) [for](/en/post/for/) [the](/en/post/the/) [result](/en/post/result/) [of](/en/post/of/) [such](/en/post/such/) an [action](/en/post/action/): "[Her](/en/post/her/) years [of](/en/post/of/) [patient](/en/post/patient/) [observation](/en/post/observation/) led [to](/en/post/to/) groundbreaking discoveries."
-- **[Noun](/en/post/noun/) ([legal](/en/post/legal/))**: [A](/en/post/a/) [formal](/en/post/formal/) watching, monitoring, [or](/en/post/or/) checking [of](/en/post/of/) [a](/en/post/a/) [situation](/en/post/situation/), [especially](/en/post/especially/) [by](/en/post/by/) [law](/en/post/law/) enforcement [or](/en/post/or/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [legal](/en/post/legal/) [process](/en/post/process/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [police](/en/post/police/) made [routine](/en/post/routine/) observations [on](/en/post/on/) [the](/en/post/the/) suspect's movements."
+- **[Noun](/post/noun/)**: [The](/post/the/) [action](/post/action/) [or](/post/or/) [process](/post/process/) [of](/post/of/) observing [something](/post/something/) [or](/post/or/) [someone](/post/someone/) carefully [or](/post/or/) systematically. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [scientist](/post/scientist/) made meticulous observations [of](/post/of/) [the](/post/the/) plants' [growth](/post/growth/) patterns."
+  - [Also](/post/also/) [used](/post/used/) [for](/post/for/) [the](/post/the/) [result](/post/result/) [of](/post/of/) [such](/post/such/) an [action](/post/action/): "[Her](/post/her/) years [of](/post/of/) [patient](/post/patient/) [observation](/post/observation/) led [to](/post/to/) groundbreaking discoveries."
+- **[Noun](/post/noun/) ([legal](/post/legal/))**: [A](/post/a/) [formal](/post/formal/) watching, monitoring, [or](/post/or/) checking [of](/post/of/) [a](/post/a/) [situation](/post/situation/), [especially](/post/especially/) [by](/post/by/) [law](/post/law/) enforcement [or](/post/or/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [legal](/post/legal/) [process](/post/process/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [police](/post/police/) made [routine](/post/routine/) observations [on](/post/on/) [the](/post/the/) suspect's movements."
   
 ## Phrases
-- "[Make](/en/post/make/) an [observation](/en/post/observation/)": [To](/en/post/to/) [notice](/en/post/notice/) [or](/en/post/or/) [comment](/en/post/comment/) [on](/en/post/on/) [something](/en/post/something/).
-- "[Observation](/en/post/observation/) [deck](/en/post/deck/)": [A](/en/post/a/) [platform](/en/post/platform/) built [for](/en/post/for/) [people](/en/post/people/) [to](/en/post/to/) [observe](/en/post/observe/) [from](/en/post/from/), [often](/en/post/often/) [found](/en/post/found/) [at](/en/post/at/) [high](/en/post/high/) points [like](/en/post/like/) skyscrapers [or](/en/post/or/) stadiums.
-- "[Observation](/en/post/observation/) [period](/en/post/period/)": [A](/en/post/a/) [set](/en/post/set/) [time](/en/post/time/) [during](/en/post/during/) [which](/en/post/which/) [something](/en/post/something/) is continuously monitored [or](/en/post/or/) studied.
+- "[Make](/post/make/) an [observation](/post/observation/)": [To](/post/to/) [notice](/post/notice/) [or](/post/or/) [comment](/post/comment/) [on](/post/on/) [something](/post/something/).
+- "[Observation](/post/observation/) [deck](/post/deck/)": [A](/post/a/) [platform](/post/platform/) built [for](/post/for/) [people](/post/people/) [to](/post/to/) [observe](/post/observe/) [from](/post/from/), [often](/post/often/) [found](/post/found/) [at](/post/at/) [high](/post/high/) points [like](/post/like/) skyscrapers [or](/post/or/) stadiums.
+- "[Observation](/post/observation/) [period](/post/period/)": [A](/post/a/) [set](/post/set/) [time](/post/time/) [during](/post/during/) [which](/post/which/) [something](/post/something/) is continuously monitored [or](/post/or/) studied.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Through](/en/post/through/) [careful](/en/post/careful/) [observation](/en/post/observation/), [the](/en/post/the/) astronomer was [able](/en/post/able/) [to](/en/post/to/) [identify](/en/post/identify/) [a](/en/post/a/) [new](/en/post/new/) comet."
-- **[Noun](/en/post/noun/) ([legal](/en/post/legal/))**: "[During](/en/post/during/) [the](/en/post/the/) surveillance [operation](/en/post/operation/), officers made [several](/en/post/several/) [key](/en/post/key/) observations [that](/en/post/that/) were [later](/en/post/later/) presented [in](/en/post/in/) [court](/en/post/court/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Through](/post/through/) [careful](/post/careful/) [observation](/post/observation/), [the](/post/the/) astronomer was [able](/post/able/) [to](/post/to/) [identify](/post/identify/) [a](/post/a/) [new](/post/new/) comet."
+- **[Noun](/post/noun/) ([legal](/post/legal/))**: "[During](/post/during/) [the](/post/the/) surveillance [operation](/post/operation/), officers made [several](/post/several/) [key](/post/key/) observations [that](/post/that/) were [later](/post/later/) presented [in](/post/in/) [court](/post/court/)."
 
 ## Synonyms
-- [Notice](/en/post/notice/)
+- [Notice](/post/notice/)
 - Watching
-- [Observation](/en/post/observation/)
+- [Observation](/post/observation/)
 - Monitoring
-- [Inspection](/en/post/inspection/)
+- [Inspection](/post/inspection/)
 - Perception
 - Surveillance
 - Oversight
 - Scrutiny
 - Watchfulness
-- [Attention](/en/post/attention/)
+- [Attention](/post/attention/)
 - Vigilance

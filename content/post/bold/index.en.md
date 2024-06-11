@@ -7,35 +7,35 @@ description = '[bəuld] a.大胆的；冒失的'
 keywords = ['ai words', 'bold']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbəʊld/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Adjective](/en/post/adjective/)**: [Confident](/en/post/confident/), [brave](/en/post/brave/), [or](/en/post/or/) assertive [in](/en/post/in/) [manner](/en/post/manner/) [or](/en/post/or/) [appearance](/en/post/appearance/); [not](/en/post/not/) [afraid](/en/post/afraid/) [to](/en/post/to/) [take](/en/post/take/) risks [or](/en/post/or/) [express](/en/post/express/) one's opinions. [Example](/en/post/example/): "[She](/en/post/she/) wore [a](/en/post/a/) [bold](/en/post/bold/) [red](/en/post/red/) [dress](/en/post/dress/) [to](/en/post/to/) [the](/en/post/the/) [event](/en/post/event/)."
-- **[Adverb](/en/post/adverb/)**: [With](/en/post/with/) [confidence](/en/post/confidence/) [or](/en/post/or/) [courage](/en/post/courage/); fearlessly. [Example](/en/post/example/): "[He](/en/post/he/) spoke [his](/en/post/his/) [mind](/en/post/mind/) boldly [during](/en/post/during/) [the](/en/post/the/) [debate](/en/post/debate/)."
+### [Noun](/post/noun/)
+- **[Adjective](/post/adjective/)**: [Confident](/post/confident/), [brave](/post/brave/), [or](/post/or/) assertive [in](/post/in/) [manner](/post/manner/) [or](/post/or/) [appearance](/post/appearance/); [not](/post/not/) [afraid](/post/afraid/) [to](/post/to/) [take](/post/take/) risks [or](/post/or/) [express](/post/express/) one's opinions. [Example](/post/example/): "[She](/post/she/) wore [a](/post/a/) [bold](/post/bold/) [red](/post/red/) [dress](/post/dress/) [to](/post/to/) [the](/post/the/) [event](/post/event/)."
+- **[Adverb](/post/adverb/)**: [With](/post/with/) [confidence](/post/confidence/) [or](/post/or/) [courage](/post/courage/); fearlessly. [Example](/post/example/): "[He](/post/he/) spoke [his](/post/his/) [mind](/post/mind/) boldly [during](/post/during/) [the](/post/the/) [debate](/post/debate/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [display](/en/post/display/) [or](/en/post/or/) [show](/en/post/show/) [courage](/en/post/courage/), [confidence](/en/post/confidence/), [or](/en/post/or/) [determination](/en/post/determination/); [to](/en/post/to/) [act](/en/post/act/) [with](/en/post/with/) audacity [or](/en/post/or/) assertiveness. [Example](/en/post/example/): "[She](/en/post/she/) was [bold](/en/post/bold/) [enough](/en/post/enough/) [to](/en/post/to/) [start](/en/post/start/) [her](/en/post/her/) [own](/en/post/own/) [business](/en/post/business/)."
-- [To](/en/post/to/) [emphasize](/en/post/emphasize/) [or](/en/post/or/) [make](/en/post/make/) [something](/en/post/something/) [stand](/en/post/stand/) [out](/en/post/out/), [often](/en/post/often/) [by](/en/post/by/) using [strong](/en/post/strong/) colors [or](/en/post/or/) designs. [Example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) chose [to](/en/post/to/) [paint](/en/post/paint/) [the](/en/post/the/) mural [in](/en/post/in/) [bold](/en/post/bold/), vibrant hues."
+### [Verb](/post/verb/)
+- [To](/post/to/) [display](/post/display/) [or](/post/or/) [show](/post/show/) [courage](/post/courage/), [confidence](/post/confidence/), [or](/post/or/) [determination](/post/determination/); [to](/post/to/) [act](/post/act/) [with](/post/with/) audacity [or](/post/or/) assertiveness. [Example](/post/example/): "[She](/post/she/) was [bold](/post/bold/) [enough](/post/enough/) [to](/post/to/) [start](/post/start/) [her](/post/her/) [own](/post/own/) [business](/post/business/)."
+- [To](/post/to/) [emphasize](/post/emphasize/) [or](/post/or/) [make](/post/make/) [something](/post/something/) [stand](/post/stand/) [out](/post/out/), [often](/post/often/) [by](/post/by/) using [strong](/post/strong/) colors [or](/post/or/) designs. [Example](/post/example/): "[The](/post/the/) [artist](/post/artist/) chose [to](/post/to/) [paint](/post/paint/) [the](/post/the/) mural [in](/post/in/) [bold](/post/bold/), vibrant hues."
 
 ## Phrases
-- "[Be](/en/post/be/) [bold](/en/post/bold/)" encourages taking initiative [or](/en/post/or/) [being](/en/post/being/) courageous.
-- "[A](/en/post/a/) [bold](/en/post/bold/) [move](/en/post/move/)" signifies [a](/en/post/a/) [daring](/en/post/daring/) [or](/en/post/or/) unconventional [action](/en/post/action/).
-- "Boldly [go](/en/post/go/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) derived [from](/en/post/from/) [Star](/en/post/star/) Trek, [meaning](/en/post/meaning/) [to](/en/post/to/) [venture](/en/post/venture/) [forth](/en/post/forth/) courageously.
+- "[Be](/post/be/) [bold](/post/bold/)" encourages taking initiative [or](/post/or/) [being](/post/being/) courageous.
+- "[A](/post/a/) [bold](/post/bold/) [move](/post/move/)" signifies [a](/post/a/) [daring](/post/daring/) [or](/post/or/) unconventional [action](/post/action/).
+- "Boldly [go](/post/go/)" is [a](/post/a/) [phrase](/post/phrase/) derived [from](/post/from/) [Star](/post/star/) Trek, [meaning](/post/meaning/) [to](/post/to/) [venture](/post/venture/) [forth](/post/forth/) courageously.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [bold](/en/post/bold/) [leadership](/en/post/leadership/) inspired [the](/en/post/the/) [team](/en/post/team/) [to](/en/post/to/) [achieve](/en/post/achieve/) [their](/en/post/their/) goals."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [be](/en/post/be/) [bold](/en/post/bold/) [and](/en/post/and/) [ask](/en/post/ask/) [for](/en/post/for/) [a](/en/post/a/) promotion."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) spoke boldly [about](/en/post/about/) [her](/en/post/her/) ideas [in](/en/post/in/) [front](/en/post/front/) [of](/en/post/of/) [the](/en/post/the/) [board](/en/post/board/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [bold](/post/bold/) [leadership](/post/leadership/) inspired [the](/post/the/) [team](/post/team/) [to](/post/to/) [achieve](/post/achieve/) [their](/post/their/) goals."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [be](/post/be/) [bold](/post/bold/) [and](/post/and/) [ask](/post/ask/) [for](/post/for/) [a](/post/a/) promotion."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) spoke boldly [about](/post/about/) [her](/post/her/) ideas [in](/post/in/) [front](/post/front/) [of](/post/of/) [the](/post/the/) [board](/post/board/)."
 
 ## Synonyms
 - Courageous
-- [Brave](/en/post/brave/)
-- [Confident](/en/post/confident/)
+- [Brave](/post/brave/)
+- [Confident](/post/confident/)
 - Strong-willed
 - Fearless
 - Arrogant (贬义)
 - Audacious
-- [Daring](/en/post/daring/)
+- [Daring](/post/daring/)
 - Outspoken

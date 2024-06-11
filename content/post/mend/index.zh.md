@@ -8,24 +8,24 @@ keywords = ['ai words', 'mend']
 +++
 
 ## 读音
-/[mend](/post/mend/)/
+/[mend](/zh/post/mend/)/
 
 ## 释义
 - **动词**:
-1. 修复；修补：指修复破损或不完整的事物。例如: "[He](/post/he/) mended [his](/post/his/) [broken](/post/broken/) [watch](/post/watch/) [with](/post/with/) [great](/post/great/) [care](/post/care/)."
-2. 改进；改正：指改善或纠正错误或问题。例如: "She's working [on](/post/on/) mending [her](/post/her/) [relationship](/post/relationship/) [with](/post/with/) [her](/post/her/) [sister](/post/sister/)."
+1. 修复；修补：指修复破损或不完整的事物。例如: "[He](/zh/post/he/) mended [his](/zh/post/his/) [broken](/zh/post/broken/) [watch](/zh/post/watch/) [with](/zh/post/with/) [great](/zh/post/great/) [care](/zh/post/care/)."
+2. 改进；改正：指改善或纠正错误或问题。例如: "She's working [on](/zh/post/on/) mending [her](/zh/post/her/) [relationship](/zh/post/relationship/) [with](/zh/post/with/) [her](/zh/post/her/) [sister](/zh/post/sister/)."
 
 ## 短语
-- "[to](/post/to/) [mend](/post/mend/) one's ways" 意味着改正行为或习惯。
-- "[mend](/post/mend/) fences" 指修复与他人的关系。
+- "[to](/zh/post/to/) [mend](/zh/post/mend/) one's ways" 意味着改正行为或习惯。
+- "[mend](/zh/post/mend/) fences" 指修复与他人的关系。
 
 ## 例句
-- 动词（修复）: "[The](/post/the/) [tailor](/post/tailor/) skillfully mended [the](/post/the/) torn [dress](/post/dress/)."
-- 动词（改进）: "[After](/post/after/) [a](/post/a/) heart-to-heart [talk](/post/talk/), [they](/post/they/) started [to](/post/to/) [mend](/post/mend/) [their](/post/their/) [friendship](/post/friendship/)."
+- 动词（修复）: "[The](/zh/post/the/) [tailor](/zh/post/tailor/) skillfully mended [the](/zh/post/the/) torn [dress](/zh/post/dress/)."
+- 动词（改进）: "[After](/zh/post/after/) [a](/zh/post/a/) heart-to-heart [talk](/zh/post/talk/), [they](/zh/post/they/) started [to](/zh/post/to/) [mend](/zh/post/mend/) [their](/zh/post/their/) [friendship](/zh/post/friendship/)."
 
 ## 同义词
-- [repair](/post/repair/)
-- [fix](/post/fix/)
-- [restore](/post/restore/)
-- [patch](/post/patch/) [up](/post/up/)
-- [correct](/post/correct/)
+- [repair](/zh/post/repair/)
+- [fix](/zh/post/fix/)
+- [restore](/zh/post/restore/)
+- [patch](/zh/post/patch/) [up](/zh/post/up/)
+- [correct](/zh/post/correct/)

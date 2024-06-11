@@ -12,25 +12,25 @@ keywords = ['ai words', 'shock']
 
 ## 释义
 - **名词**: 
-    - 突然的震惊或惊吓；剧烈的震动。例如: "[The](/post/the/) [news](/post/news/) [of](/post/of/) [his](/post/his/) [death](/post/death/) was [a](/post/a/) [shock](/post/shock/) [to](/post/to/) [everyone](/post/everyone/)."
-    - （身体上的）休克，昏厥。例如: "[She](/post/she/) went [into](/post/into/) [shock](/post/shock/) [after](/post/after/) [the](/post/the/) [accident](/post/accident/)."
-    - 电击。例如: "Don't [touch](/post/touch/) [that](/post/that/) [wire](/post/wire/), [it](/post/it/) carries [a](/post/a/) [dangerous](/post/dangerous/) [shock](/post/shock/)."
+    - 突然的震惊或惊吓；剧烈的震动。例如: "[The](/zh/post/the/) [news](/zh/post/news/) [of](/zh/post/of/) [his](/zh/post/his/) [death](/zh/post/death/) was [a](/zh/post/a/) [shock](/zh/post/shock/) [to](/zh/post/to/) [everyone](/zh/post/everyone/)."
+    - （身体上的）休克，昏厥。例如: "[She](/zh/post/she/) went [into](/zh/post/into/) [shock](/zh/post/shock/) [after](/zh/post/after/) [the](/zh/post/the/) [accident](/zh/post/accident/)."
+    - 电击。例如: "Don't [touch](/zh/post/touch/) [that](/zh/post/that/) [wire](/zh/post/wire/), [it](/zh/post/it/) carries [a](/zh/post/a/) [dangerous](/zh/post/dangerous/) [shock](/zh/post/shock/)."
 
 - **动词**:
-    - 使震惊或惊讶。例如: "[The](/post/the/) [news](/post/news/) shocked [us](/post/us/) [all](/post/all/)."
-    - 给…以电击。例如: "[The](/post/the/) defibrillator was [used](/post/used/) [to](/post/to/) [shock](/post/shock/) [his](/post/his/) [heart](/post/heart/) [back](/post/back/) [into](/post/into/) [rhythm](/post/rhythm/)."
+    - 使震惊或惊讶。例如: "[The](/zh/post/the/) [news](/zh/post/news/) shocked [us](/zh/post/us/) [all](/zh/post/all/)."
+    - 给…以电击。例如: "[The](/zh/post/the/) defibrillator was [used](/zh/post/used/) [to](/zh/post/to/) [shock](/zh/post/shock/) [his](/zh/post/his/) [heart](/zh/post/heart/) [back](/zh/post/back/) [into](/zh/post/into/) [rhythm](/zh/post/rhythm/)."
 
 ## 短语
-- "[electric](/post/electric/) [shock](/post/shock/)" 意为电击。
-- "[shock](/post/shock/) absorber" 在汽车或机械中指的是减震器。
+- "[electric](/zh/post/electric/) [shock](/zh/post/shock/)" 意为电击。
+- "[shock](/zh/post/shock/) absorber" 在汽车或机械中指的是减震器。
 
 ## 例句
-- 名词: "[The](/post/the/) [sudden](/post/sudden/) [noise](/post/noise/) gave [me](/post/me/) [a](/post/a/) [terrible](/post/terrible/) [shock](/post/shock/)."
-- 动词: "[The](/post/the/) revelation [about](/post/about/) [her](/post/her/) [past](/post/past/) shocked [everyone](/post/everyone/) [present](/post/present/)."
+- 名词: "[The](/zh/post/the/) [sudden](/zh/post/sudden/) [noise](/zh/post/noise/) gave [me](/zh/post/me/) [a](/zh/post/a/) [terrible](/zh/post/terrible/) [shock](/zh/post/shock/)."
+- 动词: "[The](/zh/post/the/) revelation [about](/zh/post/about/) [her](/zh/post/her/) [past](/zh/post/past/) shocked [everyone](/zh/post/everyone/) [present](/zh/post/present/)."
 
 ## 同义词
-- [Surprise](/post/surprise/)
-- [Startle](/post/startle/)
-- [Astonish](/post/astonish/)
+- [Surprise](/zh/post/surprise/)
+- [Startle](/zh/post/startle/)
+- [Astonish](/zh/post/astonish/)
 - Stun
 - Jolt

@@ -7,32 +7,32 @@ description = '[ˈpærəgrɑːf] n.(文章的)段，节'
 keywords = ['ai words', 'paragraph']
 +++
 
-## [Word](/en/post/word/): [Paragraph](/en/post/paragraph/)
+## [Word](/post/word/): [Paragraph](/post/paragraph/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈpærəɡræf/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [section](/en/post/section/) [of](/en/post/of/) [text](/en/post/text/) consisting [of](/en/post/of/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) sentences [that](/en/post/that/) [develop](/en/post/develop/) [a](/en/post/a/) [particular](/en/post/particular/) theme [or](/en/post/or/) [idea](/en/post/idea/), [usually](/en/post/usually/) separated [from](/en/post/from/) [other](/en/post/other/) [such](/en/post/such/) sections [by](/en/post/by/) [a](/en/post/a/) [blank](/en/post/blank/) [line](/en/post/line/) [or](/en/post/or/) indentation. [It](/en/post/it/) forms [a](/en/post/a/) [unit](/en/post/unit/) [within](/en/post/within/) [a](/en/post/a/) written [composition](/en/post/composition/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [first](/en/post/first/) [paragraph](/en/post/paragraph/) [of](/en/post/of/) [the](/en/post/the/) [essay](/en/post/essay/) outlined [the](/en/post/the/) [main](/en/post/main/) [argument](/en/post/argument/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [section](/post/section/) [of](/post/of/) [text](/post/text/) consisting [of](/post/of/) [one](/post/one/) [or](/post/or/) [more](/post/more/) sentences [that](/post/that/) [develop](/post/develop/) [a](/post/a/) [particular](/post/particular/) theme [or](/post/or/) [idea](/post/idea/), [usually](/post/usually/) separated [from](/post/from/) [other](/post/other/) [such](/post/such/) sections [by](/post/by/) [a](/post/a/) [blank](/post/blank/) [line](/post/line/) [or](/post/or/) indentation. [It](/post/it/) forms [a](/post/a/) [unit](/post/unit/) [within](/post/within/) [a](/post/a/) written [composition](/post/composition/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [first](/post/first/) [paragraph](/post/paragraph/) [of](/post/of/) [the](/post/the/) [essay](/post/essay/) outlined [the](/post/the/) [main](/post/main/) [argument](/post/argument/)."
 
-  > [Example](/en/post/example/) [sentence](/en/post/sentence/): [In](/en/post/in/) [her](/en/post/her/) [letter](/en/post/letter/), Jane wrote [a](/en/post/a/) heartfelt [paragraph](/en/post/paragraph/) expressing [her](/en/post/her/) [gratitude](/en/post/gratitude/).
+  > [Example](/post/example/) [sentence](/post/sentence/): [In](/post/in/) [her](/post/her/) [letter](/post/letter/), Jane wrote [a](/post/a/) heartfelt [paragraph](/post/paragraph/) expressing [her](/post/her/) [gratitude](/post/gratitude/).
 
-- **[Verb](/en/post/verb/) (non-standard [usage](/en/post/usage/))**: [To](/en/post/to/) [write](/en/post/write/) [or](/en/post/or/) [arrange](/en/post/arrange/) [something](/en/post/something/) [in](/en/post/in/) paragraphs. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [author](/en/post/author/) paragraphed [the](/en/post/the/) [story](/en/post/story/) effectively [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) [easy](/en/post/easy/) [to](/en/post/to/) [read](/en/post/read/)."
+- **[Verb](/post/verb/) (non-standard [usage](/post/usage/))**: [To](/post/to/) [write](/post/write/) [or](/post/or/) [arrange](/post/arrange/) [something](/post/something/) [in](/post/in/) paragraphs. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [author](/post/author/) paragraphed [the](/post/the/) [story](/post/story/) effectively [to](/post/to/) [make](/post/make/) [it](/post/it/) [easy](/post/easy/) [to](/post/to/) [read](/post/read/)."
 
-  > [Example](/en/post/example/) [sentence](/en/post/sentence/): [After](/en/post/after/) editing, [he](/en/post/he/) decided [to](/en/post/to/) [paragraph](/en/post/paragraph/) [his](/en/post/his/) thoughts [more](/en/post/more/) [clearly](/en/post/clearly/) [to](/en/post/to/) [improve](/en/post/improve/) readability.
+  > [Example](/post/example/) [sentence](/post/sentence/): [After](/post/after/) editing, [he](/post/he/) decided [to](/post/to/) [paragraph](/post/paragraph/) [his](/post/his/) thoughts [more](/post/more/) [clearly](/post/clearly/) [to](/post/to/) [improve](/post/improve/) readability.
 
 ## Phrases
-- "[Paragraph](/en/post/paragraph/) [break](/en/post/break/)": [A](/en/post/a/) [space](/en/post/space/) [between](/en/post/between/) paragraphs, [often](/en/post/often/) indicated [by](/en/post/by/) [a](/en/post/a/) [line](/en/post/line/) skip [or](/en/post/or/) indentation, [which](/en/post/which/) signals [a](/en/post/a/) [shift](/en/post/shift/) [in](/en/post/in/) [topic](/en/post/topic/) [or](/en/post/or/) [thought](/en/post/thought/).
-- "Introductory [paragraph](/en/post/paragraph/)": [The](/en/post/the/) [opening](/en/post/opening/) [paragraph](/en/post/paragraph/) [of](/en/post/of/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [writing](/en/post/writing/), typically introducing [the](/en/post/the/) [main](/en/post/main/) [topic](/en/post/topic/) [or](/en/post/or/) thesis [statement](/en/post/statement/).
-- "Supporting paragraphs": [The](/en/post/the/) paragraphs [in](/en/post/in/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [writing](/en/post/writing/) [that](/en/post/that/) [provide](/en/post/provide/) [evidence](/en/post/evidence/), [explanation](/en/post/explanation/), [or](/en/post/or/) examples [to](/en/post/to/) [back](/en/post/back/) [up](/en/post/up/) [the](/en/post/the/) [central](/en/post/central/) [idea](/en/post/idea/) introduced [in](/en/post/in/) [the](/en/post/the/) introductory [paragraph](/en/post/paragraph/).
+- "[Paragraph](/post/paragraph/) [break](/post/break/)": [A](/post/a/) [space](/post/space/) [between](/post/between/) paragraphs, [often](/post/often/) indicated [by](/post/by/) [a](/post/a/) [line](/post/line/) skip [or](/post/or/) indentation, [which](/post/which/) signals [a](/post/a/) [shift](/post/shift/) [in](/post/in/) [topic](/post/topic/) [or](/post/or/) [thought](/post/thought/).
+- "Introductory [paragraph](/post/paragraph/)": [The](/post/the/) [opening](/post/opening/) [paragraph](/post/paragraph/) [of](/post/of/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [writing](/post/writing/), typically introducing [the](/post/the/) [main](/post/main/) [topic](/post/topic/) [or](/post/or/) thesis [statement](/post/statement/).
+- "Supporting paragraphs": [The](/post/the/) paragraphs [in](/post/in/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [writing](/post/writing/) [that](/post/that/) [provide](/post/provide/) [evidence](/post/evidence/), [explanation](/post/explanation/), [or](/post/or/) examples [to](/post/to/) [back](/post/back/) [up](/post/up/) [the](/post/the/) [central](/post/central/) [idea](/post/idea/) introduced [in](/post/in/) [the](/post/the/) introductory [paragraph](/post/paragraph/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Each](/en/post/each/) [paragraph](/en/post/paragraph/) [in](/en/post/in/) [the](/en/post/the/) [contract](/en/post/contract/) contained [specific](/en/post/specific/) details [about](/en/post/about/) [the](/en/post/the/) [agreement](/en/post/agreement/) terms."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [writer](/en/post/writer/) needed [to](/en/post/to/) [paragraph](/en/post/paragraph/) [his](/en/post/his/) lengthy email [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) easier [on](/en/post/on/) [the](/en/post/the/) reader's eyes."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Each](/post/each/) [paragraph](/post/paragraph/) [in](/post/in/) [the](/post/the/) [contract](/post/contract/) contained [specific](/post/specific/) details [about](/post/about/) [the](/post/the/) [agreement](/post/agreement/) terms."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [writer](/post/writer/) needed [to](/post/to/) [paragraph](/post/paragraph/) [his](/post/his/) lengthy email [to](/post/to/) [make](/post/make/) [it](/post/it/) easier [on](/post/on/) [the](/post/the/) reader's eyes."
 
 ## Synonyms
-- [Section](/en/post/section/)
-- [Passage](/en/post/passage/)
+- [Section](/post/section/)
+- [Passage](/post/passage/)
 - Segment
-- [Division](/en/post/division/) ([of](/en/post/of/) [text](/en/post/text/))
-- Clause ([in](/en/post/in/) [a](/en/post/a/) [literary](/en/post/literary/) context)
+- [Division](/post/division/) ([of](/post/of/) [text](/post/text/))
+- Clause ([in](/post/in/) [a](/post/a/) [literary](/post/literary/) context)

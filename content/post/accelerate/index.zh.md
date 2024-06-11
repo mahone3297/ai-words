@@ -11,21 +11,21 @@ keywords = ['ai words', 'accelerate']
 /əkˈseləreɪt/
 
 ## 释义
-- **动词**: 加快；增速。例如: "[The](/post/the/) [new](/post/new/) [technology](/post/technology/) accelerates [production](/post/production/) processes."
-- **名词**: 加速；增速的过程或状态。例如: "[The](/post/the/) [car](/post/car/) gained [speed](/post/speed/) [rapidly](/post/rapidly/), showing [its](/post/its/) [high](/post/high/) [acceleration](/post/acceleration/)."
+- **动词**: 加快；增速。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [technology](/zh/post/technology/) accelerates [production](/zh/post/production/) processes."
+- **名词**: 加速；增速的过程或状态。例如: "[The](/zh/post/the/) [car](/zh/post/car/) gained [speed](/zh/post/speed/) [rapidly](/zh/post/rapidly/), showing [its](/zh/post/its/) [high](/zh/post/high/) [acceleration](/zh/post/acceleration/)."
 
 ## 短语
-- "[accelerate](/post/accelerate/) [the](/post/the/) [process](/post/process/)" 加速进程
-- "[accelerate](/post/accelerate/) [growth](/post/growth/)" 促进增长
-- "[to](/post/to/) [accelerate](/post/accelerate/) one's efforts" 加大努力
+- "[accelerate](/zh/post/accelerate/) [the](/zh/post/the/) [process](/zh/post/process/)" 加速进程
+- "[accelerate](/zh/post/accelerate/) [growth](/zh/post/growth/)" 促进增长
+- "[to](/zh/post/to/) [accelerate](/zh/post/accelerate/) one's efforts" 加大努力
 
 ## 例句
-- 动词: "[The](/post/the/) [medicine](/post/medicine/) helped [to](/post/to/) [accelerate](/post/accelerate/) [his](/post/his/) [recovery](/post/recovery/) [from](/post/from/) [the](/post/the/) [illness](/post/illness/)."
-- 名词: "[The](/post/the/) company's revenue has shown [strong](/post/strong/) [acceleration](/post/acceleration/) [in](/post/in/) [recent](/post/recent/) quarters."
+- 动词: "[The](/zh/post/the/) [medicine](/zh/post/medicine/) helped [to](/zh/post/to/) [accelerate](/zh/post/accelerate/) [his](/zh/post/his/) [recovery](/zh/post/recovery/) [from](/zh/post/from/) [the](/zh/post/the/) [illness](/zh/post/illness/)."
+- 名词: "[The](/zh/post/the/) company's revenue has shown [strong](/zh/post/strong/) [acceleration](/zh/post/acceleration/) [in](/zh/post/in/) [recent](/zh/post/recent/) quarters."
 
 ## 同义词
-- [Speed](/post/speed/) [up](/post/up/)
-- [Hasten](/post/hasten/)
-- [Quicken](/post/quicken/)
+- [Speed](/zh/post/speed/) [up](/zh/post/up/)
+- [Hasten](/zh/post/hasten/)
+- [Quicken](/zh/post/quicken/)
 - Boost
 - Intensify

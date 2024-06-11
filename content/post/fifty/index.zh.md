@@ -11,18 +11,18 @@ keywords = ['ai words', 'fifty']
 /fɪfˈti/
 
 ## 释义
-- **数词**: 五十，表示数量。例如: "I [have](/post/have/) [fifty](/post/fifty/) apples [in](/post/in/) [my](/post/my/) [basket](/post/basket/)."
+- **数词**: 五十，表示数量。例如: "I [have](/zh/post/have/) [fifty](/zh/post/fifty/) apples [in](/zh/post/in/) [my](/zh/post/my/) [basket](/zh/post/basket/)."
 
 ## 短语
-- "Fifty-fifty" 表示均等的，平分的。例如: "[The](/post/the/) chances [of](/post/of/) winning are fifty-fifty."
-- "[In](/post/in/) [fifty](/post/fifty/) years" 用来表示未来五十年的时间。例如: "We'll [be](/post/be/) celebrating [our](/post/our/) 100th anniversary [in](/post/in/) [fifty](/post/fifty/) years."
+- "Fifty-fifty" 表示均等的，平分的。例如: "[The](/zh/post/the/) chances [of](/zh/post/of/) winning are fifty-fifty."
+- "[In](/zh/post/in/) [fifty](/zh/post/fifty/) years" 用来表示未来五十年的时间。例如: "We'll [be](/zh/post/be/) celebrating [our](/zh/post/our/) 100th anniversary [in](/zh/post/in/) [fifty](/zh/post/fifty/) years."
 
 ## 例句
-- "[She](/post/she/) is [fifty](/post/fifty/) years [old](/post/old/) [and](/post/and/) [still](/post/still/) looks [young](/post/young/)."
-- "[The](/post/the/) [company](/post/company/) has grown significantly [since](/post/since/) [its](/post/its/) [establishment](/post/establishment/) [fifty](/post/fifty/) years [ago](/post/ago/)."
+- "[She](/zh/post/she/) is [fifty](/zh/post/fifty/) years [old](/zh/post/old/) [and](/zh/post/and/) [still](/zh/post/still/) looks [young](/zh/post/young/)."
+- "[The](/zh/post/the/) [company](/zh/post/company/) has grown significantly [since](/zh/post/since/) [its](/zh/post/its/) [establishment](/zh/post/establishment/) [fifty](/zh/post/fifty/) years [ago](/zh/post/ago/)."
 
 ## 同义词
-- [Fifty](/post/fifty/) [can](/post/can/) [be](/post/be/) represented [by](/post/by/) [other](/post/other/) words [like](/post/like/):
-  - [Five](/post/five/) decades
-  - [Half](/post/half/) [a](/post/a/) [century](/post/century/)
+- [Fifty](/zh/post/fifty/) [can](/zh/post/can/) [be](/zh/post/be/) represented [by](/zh/post/by/) [other](/zh/post/other/) words [like](/zh/post/like/):
+  - [Five](/zh/post/five/) decades
+  - [Half](/zh/post/half/) [a](/zh/post/a/) [century](/zh/post/century/)
   - Five-score (archaic)

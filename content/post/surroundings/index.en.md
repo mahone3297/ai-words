@@ -7,33 +7,33 @@ description = '[səˈraundiŋz] n.周围的事物,环境'
 keywords = ['ai words', 'surroundings']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈraʊndɪŋz/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) things [that](/en/post/that/) [surround](/en/post/surround/) [or](/en/post/or/) are situated [near](/en/post/near/) [a](/en/post/a/) [particular](/en/post/particular/) [person](/en/post/person/), [place](/en/post/place/), [or](/en/post/or/) [object](/en/post/object/), [often](/en/post/often/) referring [to](/en/post/to/) [the](/en/post/the/) [environment](/en/post/environment/) [or](/en/post/or/) conditions. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) was surrounded [by](/en/post/by/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) [garden](/en/post/garden/)."
-- **[Adjective](/en/post/adjective/)**: Characterizing [the](/en/post/the/) surrounding [area](/en/post/area/) [or](/en/post/or/) [atmosphere](/en/post/atmosphere/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [peaceful](/en/post/peaceful/) [surroundings](/en/post/surroundings/) helped [him](/en/post/him/) [relax](/en/post/relax/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) things [that](/post/that/) [surround](/post/surround/) [or](/post/or/) are situated [near](/post/near/) [a](/post/a/) [particular](/post/particular/) [person](/post/person/), [place](/post/place/), [or](/post/or/) [object](/post/object/), [often](/post/often/) referring [to](/post/to/) [the](/post/the/) [environment](/post/environment/) [or](/post/or/) conditions. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [house](/post/house/) was surrounded [by](/post/by/) [a](/post/a/) [beautiful](/post/beautiful/) [garden](/post/garden/)."
+- **[Adjective](/post/adjective/)**: Characterizing [the](/post/the/) surrounding [area](/post/area/) [or](/post/or/) [atmosphere](/post/atmosphere/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [peaceful](/post/peaceful/) [surroundings](/post/surroundings/) helped [him](/post/him/) [relax](/post/relax/)."
 
 ## Phrases
-- "Surrounding areas" refers [to](/en/post/to/) [the](/en/post/the/) regions [immediately](/en/post/immediately/) adjacent [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [location](/en/post/location/).
-- "[Create](/en/post/create/) [a](/en/post/a/) [comfortable](/en/post/comfortable/) surrounding" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) an [environment](/en/post/environment/) [that](/en/post/that/) feels welcoming [or](/en/post/or/) soothing.
-- "[In](/en/post/in/) [the](/en/post/the/) surrounding [countryside](/en/post/countryside/)" denotes [the](/en/post/the/) [nearby](/en/post/nearby/) [rural](/en/post/rural/) landscape.
+- "Surrounding areas" refers [to](/post/to/) [the](/post/the/) regions [immediately](/post/immediately/) adjacent [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [location](/post/location/).
+- "[Create](/post/create/) [a](/post/a/) [comfortable](/post/comfortable/) surrounding" [means](/post/means/) [to](/post/to/) [make](/post/make/) an [environment](/post/environment/) [that](/post/that/) feels welcoming [or](/post/or/) soothing.
+- "[In](/post/in/) [the](/post/the/) surrounding [countryside](/post/countryside/)" denotes [the](/post/the/) [nearby](/post/nearby/) [rural](/post/rural/) landscape.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children played amidst [the](/en/post/the/) surrounding trees [and](/en/post/and/) flowers."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) hotel's luxurious [surroundings](/en/post/surroundings/) offered [a](/en/post/a/) tranquil [escape](/en/post/escape/) [from](/en/post/from/) [the](/en/post/the/) [city](/en/post/city/)."
-- "[She](/en/post/she/) loved [the](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [her](/en/post/her/) [apartment](/en/post/apartment/), [with](/en/post/with/) [the](/en/post/the/) mountains forming [a](/en/post/a/) stunning surrounding."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children played amidst [the](/post/the/) surrounding trees [and](/post/and/) flowers."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) hotel's luxurious [surroundings](/post/surroundings/) offered [a](/post/a/) tranquil [escape](/post/escape/) [from](/post/from/) [the](/post/the/) [city](/post/city/)."
+- "[She](/post/she/) loved [the](/post/the/) [view](/post/view/) [from](/post/from/) [her](/post/her/) [apartment](/post/apartment/), [with](/post/with/) [the](/post/the/) mountains forming [a](/post/a/) stunning surrounding."
 
 ## Synonyms
-- [Surroundings](/en/post/surroundings/)
+- [Surroundings](/post/surroundings/)
 - Environs
 - Vicinity
 - Neighborhood
 - Context
 
 ## Antonyms
-- [Interior](/en/post/interior/)
+- [Interior](/post/interior/)
 - Center
-- [Core](/en/post/core/)
-- [Central](/en/post/central/)
+- [Core](/post/core/)
+- [Central](/post/central/)
 - Innermost

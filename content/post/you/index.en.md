@@ -7,41 +7,41 @@ description = '[juː] pron.你，你们'
 keywords = ['ai words', 'you']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [person](/en/post/person/)**: Refers [to](/en/post/to/) [the](/en/post/the/) [pronoun](/en/post/pronoun/) "[you](/en/post/you/)" [used](/en/post/used/) [to](/en/post/to/) [address](/en/post/address/) [or](/en/post/or/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/), [often](/en/post/often/) informally. [For](/en/post/for/) [example](/en/post/example/): "You're [the](/en/post/the/) [only](/en/post/only/) [one](/en/post/one/) [who](/en/post/who/) [can](/en/post/can/) [solve](/en/post/solve/) [this](/en/post/this/) [problem](/en/post/problem/)."
-- **[A](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [self](/en/post/self/)**: [In](/en/post/in/) [some](/en/post/some/) contexts, "[you](/en/post/you/)" [can](/en/post/can/) [represent](/en/post/represent/) an individual's identity [or](/en/post/or/) [consciousness](/en/post/consciousness/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) explores [the](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) '[you](/en/post/you/)' [as](/en/post/as/) [a](/en/post/a/) [universal](/en/post/universal/) [experience](/en/post/experience/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [person](/post/person/)**: Refers [to](/post/to/) [the](/post/the/) [pronoun](/post/pronoun/) "[you](/post/you/)" [used](/post/used/) [to](/post/to/) [address](/post/address/) [or](/post/or/) [refer](/post/refer/) [to](/post/to/) [someone](/post/someone/), [often](/post/often/) informally. [For](/post/for/) [example](/post/example/): "You're [the](/post/the/) [only](/post/only/) [one](/post/one/) [who](/post/who/) [can](/post/can/) [solve](/post/solve/) [this](/post/this/) [problem](/post/problem/)."
+- **[A](/post/a/) [sense](/post/sense/) [of](/post/of/) [self](/post/self/)**: [In](/post/in/) [some](/post/some/) contexts, "[you](/post/you/)" [can](/post/can/) [represent](/post/represent/) an individual's identity [or](/post/or/) [consciousness](/post/consciousness/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) explores [the](/post/the/) [concept](/post/concept/) [of](/post/of/) '[you](/post/you/)' [as](/post/as/) [a](/post/a/) [universal](/post/universal/) [experience](/post/experience/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [address](/en/post/address/)**: [To](/en/post/to/) [call](/en/post/call/) [or](/en/post/or/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/) [by](/en/post/by/) [name](/en/post/name/) [or](/en/post/or/) [with](/en/post/with/) [a](/en/post/a/) [pronoun](/en/post/pronoun/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [call](/en/post/call/) [me](/en/post/me/) [by](/en/post/by/) [my](/en/post/my/) [name](/en/post/name/); don't [just](/en/post/just/) [say](/en/post/say/) '[you](/en/post/you/).'"
-- **[To](/en/post/to/) [involve](/en/post/involve/)**: [To](/en/post/to/) [include](/en/post/include/) [someone](/en/post/someone/) [in](/en/post/in/) an [action](/en/post/action/) [or](/en/post/or/) [decision](/en/post/decision/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [you](/en/post/you/) [to](/en/post/to/) [help](/en/post/help/) [with](/en/post/with/) [the](/en/post/the/) [project](/en/post/project/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [address](/post/address/)**: [To](/post/to/) [call](/post/call/) [or](/post/or/) [refer](/post/refer/) [to](/post/to/) [someone](/post/someone/) [by](/post/by/) [name](/post/name/) [or](/post/or/) [with](/post/with/) [a](/post/a/) [pronoun](/post/pronoun/). [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [call](/post/call/) [me](/post/me/) [by](/post/by/) [my](/post/my/) [name](/post/name/); don't [just](/post/just/) [say](/post/say/) '[you](/post/you/).'"
+- **[To](/post/to/) [involve](/post/involve/)**: [To](/post/to/) [include](/post/include/) [someone](/post/someone/) [in](/post/in/) an [action](/post/action/) [or](/post/or/) [decision](/post/decision/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [need](/post/need/) [you](/post/you/) [to](/post/to/) [help](/post/help/) [with](/post/with/) [the](/post/the/) [project](/post/project/)."
 
-### [Pronoun](/en/post/pronoun/)
-- [Used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [oneself](/en/post/oneself/) [or](/en/post/or/) others, indicating [the](/en/post/the/) [second](/en/post/second/) [person](/en/post/person/). [For](/en/post/for/) [example](/en/post/example/): "[Ask](/en/post/ask/) [yourself](/en/post/yourself/) [why](/en/post/why/) you're doing [this](/en/post/this/)."
-- [Can](/en/post/can/) [be](/en/post/be/) reflexive (e.g., "[You](/en/post/you/) [should](/en/post/should/) [wash](/en/post/wash/) [your](/en/post/your/) hands.") [or](/en/post/or/) accusative (e.g., "[You](/en/post/you/) forgot [your](/en/post/your/) keys.")
+### [Pronoun](/post/pronoun/)
+- [Used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [oneself](/post/oneself/) [or](/post/or/) others, indicating [the](/post/the/) [second](/post/second/) [person](/post/person/). [For](/post/for/) [example](/post/example/): "[Ask](/post/ask/) [yourself](/post/yourself/) [why](/post/why/) you're doing [this](/post/this/)."
+- [Can](/post/can/) [be](/post/be/) reflexive (e.g., "[You](/post/you/) [should](/post/should/) [wash](/post/wash/) [your](/post/your/) hands.") [or](/post/or/) accusative (e.g., "[You](/post/you/) forgot [your](/post/your/) keys.")
 
 ### Interjection
-- Expressing politeness [or](/en/post/or/) acknowledgement. [For](/en/post/for/) [example](/en/post/example/): "You're [right](/en/post/right/), I was mistaken."
-- Requesting [attention](/en/post/attention/) [or](/en/post/or/) [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[You](/en/post/you/) [there](/en/post/there/)? [Can](/en/post/can/) [you](/en/post/you/) [hear](/en/post/hear/) [me](/en/post/me/)?"
+- Expressing politeness [or](/post/or/) acknowledgement. [For](/post/for/) [example](/post/example/): "You're [right](/post/right/), I was mistaken."
+- Requesting [attention](/post/attention/) [or](/post/or/) [information](/post/information/). [For](/post/for/) [example](/post/example/): "[You](/post/you/) [there](/post/there/)? [Can](/post/can/) [you](/post/you/) [hear](/post/hear/) [me](/post/me/)?"
 
 ## Phrases
-- "You're [welcome](/en/post/welcome/)" is [a](/en/post/a/) [response](/en/post/response/) [to](/en/post/to/) [gratitude](/en/post/gratitude/).
-- "It's [all](/en/post/all/) [about](/en/post/about/) [you](/en/post/you/)" implies [something](/en/post/something/) is centered [around](/en/post/around/) someone's needs [or](/en/post/or/) preferences.
-- "It's [your](/en/post/your/) [turn](/en/post/turn/)" indicates it's someone's [opportunity](/en/post/opportunity/) [to](/en/post/to/) [act](/en/post/act/) [or](/en/post/or/) [speak](/en/post/speak/).
+- "You're [welcome](/post/welcome/)" is [a](/post/a/) [response](/post/response/) [to](/post/to/) [gratitude](/post/gratitude/).
+- "It's [all](/post/all/) [about](/post/about/) [you](/post/you/)" implies [something](/post/something/) is centered [around](/post/around/) someone's needs [or](/post/or/) preferences.
+- "It's [your](/post/your/) [turn](/post/turn/)" indicates it's someone's [opportunity](/post/opportunity/) [to](/post/to/) [act](/post/act/) [or](/post/or/) [speak](/post/speak/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) [the](/en/post/the/) self-help [book](/en/post/book/), [the](/en/post/the/) [author](/en/post/author/) encourages readers [to](/en/post/to/) [embrace](/en/post/embrace/) [their](/en/post/their/) [inner](/en/post/inner/) [you](/en/post/you/)."
-- **[Verb](/en/post/verb/)**: "[Listen](/en/post/listen/) carefully, I [have](/en/post/have/) [something](/en/post/something/) [important](/en/post/important/) [to](/en/post/to/) [tell](/en/post/tell/) [you](/en/post/you/)."
-- **[Pronoun](/en/post/pronoun/)**: "I asked [you](/en/post/you/) [to](/en/post/to/) [clean](/en/post/clean/) [up](/en/post/up/), [but](/en/post/but/) [you](/en/post/you/) didn't."
-- **Interjection**: "You've [really](/en/post/really/) outdone [yourself](/en/post/yourself/) [this](/en/post/this/) [time](/en/post/time/)!"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[In](/post/in/) [the](/post/the/) self-help [book](/post/book/), [the](/post/the/) [author](/post/author/) encourages readers [to](/post/to/) [embrace](/post/embrace/) [their](/post/their/) [inner](/post/inner/) [you](/post/you/)."
+- **[Verb](/post/verb/)**: "[Listen](/post/listen/) carefully, I [have](/post/have/) [something](/post/something/) [important](/post/important/) [to](/post/to/) [tell](/post/tell/) [you](/post/you/)."
+- **[Pronoun](/post/pronoun/)**: "I asked [you](/post/you/) [to](/post/to/) [clean](/post/clean/) [up](/post/up/), [but](/post/but/) [you](/post/you/) didn't."
+- **Interjection**: "You've [really](/post/really/) outdone [yourself](/post/yourself/) [this](/post/this/) [time](/post/time/)!"
 
 ## Synonyms
 - Thou
-- You're (contraction [of](/en/post/of/) "[you](/en/post/you/) are")
-- [Yours](/en/post/yours/)
-- Y'all (informal, [mainly](/en/post/mainly/) [Southern](/en/post/southern/) U.S.)
-- [All](/en/post/all/) [of](/en/post/of/) [you](/en/post/you/) (inclusive)
-- [Each](/en/post/each/) [other](/en/post/other/) (referring [to](/en/post/to/) [two](/en/post/two/) [people](/en/post/people/))
+- You're (contraction [of](/post/of/) "[you](/post/you/) are")
+- [Yours](/post/yours/)
+- Y'all (informal, [mainly](/post/mainly/) [Southern](/post/southern/) U.S.)
+- [All](/post/all/) [of](/post/of/) [you](/post/you/) (inclusive)
+- [Each](/post/each/) [other](/post/other/) (referring [to](/post/to/) [two](/post/two/) [people](/post/people/))

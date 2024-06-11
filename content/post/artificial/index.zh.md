@@ -11,19 +11,19 @@ keywords = ['ai words', 'artificial']
 /ˌɑːrtɪˈfɪʃəl/
 
 ## 释义
-- **形容词**: 人造的，人工的；非自然的；假的。例如: "[This](/post/this/) [flower](/post/flower/) is [artificial](/post/artificial/), made [of](/post/of/) [plastic](/post/plastic/)."
-- **名词**: 人工智能（[Artificial](/post/artificial/) [Intelligence](/post/intelligence/)，AI）的缩写。
+- **形容词**: 人造的，人工的；非自然的；假的。例如: "[This](/zh/post/this/) [flower](/zh/post/flower/) is [artificial](/zh/post/artificial/), made [of](/zh/post/of/) [plastic](/zh/post/plastic/)."
+- **名词**: 人工智能（[Artificial](/zh/post/artificial/) [Intelligence](/zh/post/intelligence/)，AI）的缩写。
 
 ## 短语
-- "[artificial](/post/artificial/) [intelligence](/post/intelligence/)" 人工智能，指由人类创造的智能系统或机器。
-- "[artificial](/post/artificial/) [satellite](/post/satellite/)" 人造卫星，人类制造并送入太空的卫星。
+- "[artificial](/zh/post/artificial/) [intelligence](/zh/post/intelligence/)" 人工智能，指由人类创造的智能系统或机器。
+- "[artificial](/zh/post/artificial/) [satellite](/zh/post/satellite/)" 人造卫星，人类制造并送入太空的卫星。
 
 ## 例句
-- 形容词: "[The](/post/the/) [lake](/post/lake/) is [so](/post/so/) [blue](/post/blue/) [because](/post/because/) it's [artificial](/post/artificial/), filled [with](/post/with/) [dye](/post/dye/)."
-- 名词: "She's studying [artificial](/post/artificial/) [intelligence](/post/intelligence/) [for](/post/for/) [her](/post/her/) master's [degree](/post/degree/)."
+- 形容词: "[The](/zh/post/the/) [lake](/zh/post/lake/) is [so](/zh/post/so/) [blue](/zh/post/blue/) [because](/zh/post/because/) it's [artificial](/zh/post/artificial/), filled [with](/zh/post/with/) [dye](/zh/post/dye/)."
+- 名词: "She's studying [artificial](/zh/post/artificial/) [intelligence](/zh/post/intelligence/) [for](/zh/post/for/) [her](/zh/post/her/) master's [degree](/zh/post/degree/)."
 
 ## 同义词
-- [Synthetic](/post/synthetic/)
+- [Synthetic](/zh/post/synthetic/)
 - Man-made
 - Fake
 - Manufactured

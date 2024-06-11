@@ -7,51 +7,51 @@ description = '[ˈdifikəlt] a.困难的；难对付的'
 keywords = ['ai words', 'difficult']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈfɪkəlt/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **Describing [a](/en/post/a/) [quality](/en/post/quality/)**: Characterized [by](/en/post/by/) [difficulty](/en/post/difficulty/) [or](/en/post/or/) [resistance](/en/post/resistance/) [to](/en/post/to/) [being](/en/post/being/) accomplished [or](/en/post/or/) understood; requiring [much](/en/post/much/) [effort](/en/post/effort/) [or](/en/post/or/) [skill](/en/post/skill/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) math [problem](/en/post/problem/) was [quite](/en/post/quite/) [difficult](/en/post/difficult/) [for](/en/post/for/) [her](/en/post/her/) [to](/en/post/to/) [solve](/en/post/solve/)."
-- **[Difficult](/en/post/difficult/) [situation](/en/post/situation/)**: [A](/en/post/a/) challenging [or](/en/post/or/) [troublesome](/en/post/troublesome/) scenario. [For](/en/post/for/) [example](/en/post/example/): "Dealing [with](/en/post/with/) [a](/en/post/a/) [difficult](/en/post/difficult/) [boss](/en/post/boss/) [can](/en/post/can/) [be](/en/post/be/) [very](/en/post/very/) stressful."
+### [Adjective](/post/adjective/)
+- **Describing [a](/post/a/) [quality](/post/quality/)**: Characterized [by](/post/by/) [difficulty](/post/difficulty/) [or](/post/or/) [resistance](/post/resistance/) [to](/post/to/) [being](/post/being/) accomplished [or](/post/or/) understood; requiring [much](/post/much/) [effort](/post/effort/) [or](/post/or/) [skill](/post/skill/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) math [problem](/post/problem/) was [quite](/post/quite/) [difficult](/post/difficult/) [for](/post/for/) [her](/post/her/) [to](/post/to/) [solve](/post/solve/)."
+- **[Difficult](/post/difficult/) [situation](/post/situation/)**: [A](/post/a/) challenging [or](/post/or/) [troublesome](/post/troublesome/) scenario. [For](/post/for/) [example](/post/example/): "Dealing [with](/post/with/) [a](/post/a/) [difficult](/post/difficult/) [boss](/post/boss/) [can](/post/can/) [be](/post/be/) [very](/post/very/) stressful."
 
-## [Noun](/en/post/noun/) ([rarely](/en/post/rarely/))
-- [A](/en/post/a/) [troublesome](/en/post/troublesome/) [or](/en/post/or/) hard-to-solve [matter](/en/post/matter/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) faced [numerous](/en/post/numerous/) [difficult](/en/post/difficult/) situations [during](/en/post/during/) [his](/en/post/his/) expedition."
+## [Noun](/post/noun/) ([rarely](/post/rarely/))
+- [A](/post/a/) [troublesome](/post/troublesome/) [or](/post/or/) hard-to-solve [matter](/post/matter/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) faced [numerous](/post/numerous/) [difficult](/post/difficult/) situations [during](/post/during/) [his](/post/his/) expedition."
 
-## [Verb](/en/post/verb/) ([rarely](/en/post/rarely/))
-- [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [difficult](/en/post/difficult/); [to](/en/post/to/) [complicate](/en/post/complicate/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) made [the](/en/post/the/) [lesson](/en/post/lesson/) [more](/en/post/more/) [difficult](/en/post/difficult/) [to](/en/post/to/) [increase](/en/post/increase/) [understanding](/en/post/understanding/)."
+## [Verb](/post/verb/) ([rarely](/post/rarely/))
+- [To](/post/to/) [make](/post/make/) [something](/post/something/) [difficult](/post/difficult/); [to](/post/to/) [complicate](/post/complicate/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) made [the](/post/the/) [lesson](/post/lesson/) [more](/post/more/) [difficult](/post/difficult/) [to](/post/to/) [increase](/post/increase/) [understanding](/post/understanding/)."
 
-## [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) [difficult](/en/post/difficult/) [manner](/en/post/manner/); [with](/en/post/with/) [much](/en/post/much/) [trouble](/en/post/trouble/) [or](/en/post/or/) [effort](/en/post/effort/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke [softly](/en/post/softly/) [and](/en/post/and/) carefully, trying [not](/en/post/not/) [to](/en/post/to/) [make](/en/post/make/) [the](/en/post/the/) [task](/en/post/task/) [difficult](/en/post/difficult/) [for](/en/post/for/) [him](/en/post/him/)."
+## [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) [difficult](/post/difficult/) [manner](/post/manner/); [with](/post/with/) [much](/post/much/) [trouble](/post/trouble/) [or](/post/or/) [effort](/post/effort/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) spoke [softly](/post/softly/) [and](/post/and/) carefully, trying [not](/post/not/) [to](/post/to/) [make](/post/make/) [the](/post/the/) [task](/post/task/) [difficult](/post/difficult/) [for](/post/for/) [him](/post/him/)."
 
 ## Phrases
-- "Struggling [with](/en/post/with/) [a](/en/post/a/) [difficult](/en/post/difficult/) [decision](/en/post/decision/)"
-- "Overcoming [a](/en/post/a/) [difficult](/en/post/difficult/) [challenge](/en/post/challenge/)"
-- "[A](/en/post/a/) [difficult](/en/post/difficult/) [task](/en/post/task/) [ahead](/en/post/ahead/)"
+- "Struggling [with](/post/with/) [a](/post/a/) [difficult](/post/difficult/) [decision](/post/decision/)"
+- "Overcoming [a](/post/a/) [difficult](/post/difficult/) [challenge](/post/challenge/)"
+- "[A](/post/a/) [difficult](/post/difficult/) [task](/post/task/) [ahead](/post/ahead/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [climb](/en/post/climb/) [up](/en/post/up/) [the](/en/post/the/) [mountain](/en/post/mountain/) was physically [difficult](/en/post/difficult/)."
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) had [to](/en/post/to/) [overcome](/en/post/overcome/) [many](/en/post/many/) [difficult](/en/post/difficult/) obstacles [on](/en/post/on/) [his](/en/post/his/) [journey](/en/post/journey/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) tried [to](/en/post/to/) [simplify](/en/post/simplify/) [the](/en/post/the/) [concept](/en/post/concept/) [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) [less](/en/post/less/) [difficult](/en/post/difficult/) [for](/en/post/for/) [the](/en/post/the/) students."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) handled [the](/en/post/the/) [situation](/en/post/situation/) [as](/en/post/as/) [easily](/en/post/easily/) [as](/en/post/as/) [possible](/en/post/possible/), trying [to](/en/post/to/) [avoid](/en/post/avoid/) making [it](/en/post/it/) [difficult](/en/post/difficult/) [for](/en/post/for/) others."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [climb](/post/climb/) [up](/post/up/) [the](/post/the/) [mountain](/post/mountain/) was physically [difficult](/post/difficult/)."
+- **[Noun](/post/noun/)**: "[He](/post/he/) had [to](/post/to/) [overcome](/post/overcome/) [many](/post/many/) [difficult](/post/difficult/) obstacles [on](/post/on/) [his](/post/his/) [journey](/post/journey/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) tried [to](/post/to/) [simplify](/post/simplify/) [the](/post/the/) [concept](/post/concept/) [to](/post/to/) [make](/post/make/) [it](/post/it/) [less](/post/less/) [difficult](/post/difficult/) [for](/post/for/) [the](/post/the/) students."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) handled [the](/post/the/) [situation](/post/situation/) [as](/post/as/) [easily](/post/easily/) [as](/post/as/) [possible](/post/possible/), trying [to](/post/to/) [avoid](/post/avoid/) making [it](/post/it/) [difficult](/post/difficult/) [for](/post/for/) others."
 
 ## Synonyms
 - Challenging
-- [Complicated](/en/post/complicated/)
+- [Complicated](/post/complicated/)
 - Arduous
-- [Tough](/en/post/tough/)
+- [Tough](/post/tough/)
 - Difficult-to-manage
-- [Complex](/en/post/complex/)
+- [Complex](/post/complex/)
 - Uncompromising
 - Elusive
-- [Hard](/en/post/hard/)
+- [Hard](/post/hard/)
 
 ## Antonyms
-- [Easy](/en/post/easy/)
-- [Simple](/en/post/simple/)
+- [Easy](/post/easy/)
+- [Simple](/post/simple/)
 - Effortless
 - Seamless
 - Manageable
-- [Clear](/en/post/clear/)
+- [Clear](/post/clear/)
 - Straightforward
 - Problem-free

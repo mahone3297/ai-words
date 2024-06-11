@@ -7,28 +7,28 @@ description = '[ˈnainti] num.九十，九十个'
 keywords = ['ai words', 'ninety']
 +++
 
-## [Word](/en/post/word/): [Ninety](/en/post/ninety/)
+## [Word](/post/word/): [Ninety](/post/ninety/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnaɪnti/
 
 ## Definitions
-- **Numeral**: [The](/en/post/the/) [number](/en/post/number/) [that](/en/post/that/) is [equal](/en/post/equal/) [to](/en/post/to/) 9 × 10; [the](/en/post/the/) ordinal [form](/en/post/form/) [being](/en/post/being/) 'ninetieth'. [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) were [ninety](/en/post/ninety/) students [in](/en/post/in/) [the](/en/post/the/) [class](/en/post/class/)."
+- **Numeral**: [The](/post/the/) [number](/post/number/) [that](/post/that/) is [equal](/post/equal/) [to](/post/to/) 9 × 10; [the](/post/the/) ordinal [form](/post/form/) [being](/post/being/) 'ninetieth'. [For](/post/for/) [example](/post/example/): "[There](/post/there/) were [ninety](/post/ninety/) students [in](/post/in/) [the](/post/the/) [class](/post/class/)."
   
-  - **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [the](/en/post/the/) [number](/en/post/number/) [ninety](/en/post/ninety/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) celebrated [her](/en/post/her/) ninetieth [birthday](/en/post/birthday/) [last](/en/post/last/) [year](/en/post/year/)."
+  - **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [the](/post/the/) [number](/post/number/) [ninety](/post/ninety/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) celebrated [her](/post/her/) ninetieth [birthday](/post/birthday/) [last](/post/last/) [year](/post/year/)."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) nineties" refers [to](/en/post/to/) temperatures, years (e.g., [the](/en/post/the/) 1990s), [or](/en/post/or/) ages ([from](/en/post/from/) 90 [to](/en/post/to/) 99).
-- "Ninety-nine [percent](/en/post/percent/)" is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [almost](/en/post/almost/) [complete](/en/post/complete/) [certainty](/en/post/certainty/) [or](/en/post/or/) inclusiveness.
-- "Ninety-day [period](/en/post/period/)" denotes [a](/en/post/a/) [duration](/en/post/duration/) [of](/en/post/of/) [three](/en/post/three/) months.
+- "[In](/post/in/) [the](/post/the/) nineties" refers [to](/post/to/) temperatures, years (e.g., [the](/post/the/) 1990s), [or](/post/or/) ages ([from](/post/from/) 90 [to](/post/to/) 99).
+- "Ninety-nine [percent](/post/percent/)" is [often](/post/often/) [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [almost](/post/almost/) [complete](/post/complete/) [certainty](/post/certainty/) [or](/post/or/) inclusiveness.
+- "Ninety-day [period](/post/period/)" denotes [a](/post/a/) [duration](/post/duration/) [of](/post/of/) [three](/post/three/) months.
 
-## [Example](/en/post/example/) Sentences
-- **Numeral**: "[The](/en/post/the/) [school](/en/post/school/) [library](/en/post/library/) has [over](/en/post/over/) [nine](/en/post/nine/) [hundred](/en/post/hundred/) books [on](/en/post/on/) [its](/en/post/its/) shelves."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) completed [the](/en/post/the/) ninety-mile marathon [in](/en/post/in/) [record](/en/post/record/) [time](/en/post/time/)."
+## [Example](/post/example/) Sentences
+- **Numeral**: "[The](/post/the/) [school](/post/school/) [library](/post/library/) has [over](/post/over/) [nine](/post/nine/) [hundred](/post/hundred/) books [on](/post/on/) [its](/post/its/) shelves."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) completed [the](/post/the/) ninety-mile marathon [in](/post/in/) [record](/post/record/) [time](/post/time/)."
 
 ## Synonyms
 - 90
-- Ninety-nine ([the](/en/post/the/) [next](/en/post/next/) consecutive [number](/en/post/number/))
-- XC ([in](/en/post/in/) Roman numerals) 
+- Ninety-nine ([the](/post/the/) [next](/post/next/) consecutive [number](/post/number/))
+- XC ([in](/post/in/) Roman numerals) 
 
-[Note](/en/post/note/): [Unlike](/en/post/unlike/) [some](/en/post/some/) words [that](/en/post/that/) [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) [multiple](/en/post/multiple/) parts [of](/en/post/of/) [speech](/en/post/speech/), "[ninety](/en/post/ninety/)" [primarily](/en/post/primarily/) serves [as](/en/post/as/) [a](/en/post/a/) numeral [and](/en/post/and/) an [adjective](/en/post/adjective/) related [to](/en/post/to/) [the](/en/post/the/) [number](/en/post/number/) 90. [It](/en/post/it/) doesn't typically [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [verb](/en/post/verb/), [adverb](/en/post/adverb/), etc., [without](/en/post/without/) modifying [another](/en/post/another/) [noun](/en/post/noun/) (e.g., "[ninety](/en/post/ninety/) years" [where](/en/post/where/) "years" is [the](/en/post/the/) [noun](/en/post/noun/)).
+[Note](/post/note/): [Unlike](/post/unlike/) [some](/post/some/) words [that](/post/that/) [can](/post/can/) [function](/post/function/) [as](/post/as/) [multiple](/post/multiple/) parts [of](/post/of/) [speech](/post/speech/), "[ninety](/post/ninety/)" [primarily](/post/primarily/) serves [as](/post/as/) [a](/post/a/) numeral [and](/post/and/) an [adjective](/post/adjective/) related [to](/post/to/) [the](/post/the/) [number](/post/number/) 90. [It](/post/it/) doesn't typically [function](/post/function/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [verb](/post/verb/), [adverb](/post/adverb/), etc., [without](/post/without/) modifying [another](/post/another/) [noun](/post/noun/) (e.g., "[ninety](/post/ninety/) years" [where](/post/where/) "years" is [the](/post/the/) [noun](/post/noun/)).

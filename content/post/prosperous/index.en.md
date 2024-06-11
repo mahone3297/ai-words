@@ -7,35 +7,35 @@ description = '[ˈprɔspərəs] a.繁荣的，昌盛的'
 keywords = ['ai words', 'prosperous']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /proʊˈsperəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [success](/en/post/success/), [wealth](/en/post/wealth/), [or](/en/post/or/) [material](/en/post/material/) [comfort](/en/post/comfort/); thriving. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [prosperous](/en/post/prosperous/) businessman owned [several](/en/post/several/) companies."
-- **[Noun](/en/post/noun/)**: [Prosperity](/en/post/prosperity/), [wealth](/en/post/wealth/), [or](/en/post/or/) [good](/en/post/good/) [fortune](/en/post/fortune/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [town](/en/post/town/) enjoyed [a](/en/post/a/) [long](/en/post/long/) [period](/en/post/period/) [of](/en/post/of/) [economic](/en/post/economic/) [prosperity](/en/post/prosperity/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [success](/post/success/), [wealth](/post/wealth/), [or](/post/or/) [material](/post/material/) [comfort](/post/comfort/); thriving. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [prosperous](/post/prosperous/) businessman owned [several](/post/several/) companies."
+- **[Noun](/post/noun/)**: [Prosperity](/post/prosperity/), [wealth](/post/wealth/), [or](/post/or/) [good](/post/good/) [fortune](/post/fortune/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [town](/post/town/) enjoyed [a](/post/a/) [long](/post/long/) [period](/post/period/) [of](/post/of/) [economic](/post/economic/) [prosperity](/post/prosperity/)."
 
 ## Phrases
-- "Enjoying [prosperous](/en/post/prosperous/) times" signifies experiencing [growth](/en/post/growth/) [and](/en/post/and/) [success](/en/post/success/).
-- "[A](/en/post/a/) [prosperous](/en/post/prosperous/) [economy](/en/post/economy/)" indicates [a](/en/post/a/) [strong](/en/post/strong/) [and](/en/post/and/) [healthy](/en/post/healthy/) [financial](/en/post/financial/) [state](/en/post/state/).
-- "[Prosperity](/en/post/prosperity/) is [key](/en/post/key/) [to](/en/post/to/) [happiness](/en/post/happiness/)" suggests [that](/en/post/that/) [wealth](/en/post/wealth/) [and](/en/post/and/) [success](/en/post/success/) [contribute](/en/post/contribute/) [to](/en/post/to/) well-being.
+- "Enjoying [prosperous](/post/prosperous/) times" signifies experiencing [growth](/post/growth/) [and](/post/and/) [success](/post/success/).
+- "[A](/post/a/) [prosperous](/post/prosperous/) [economy](/post/economy/)" indicates [a](/post/a/) [strong](/post/strong/) [and](/post/and/) [healthy](/post/healthy/) [financial](/post/financial/) [state](/post/state/).
+- "[Prosperity](/post/prosperity/) is [key](/post/key/) [to](/post/to/) [happiness](/post/happiness/)" suggests [that](/post/that/) [wealth](/post/wealth/) [and](/post/and/) [success](/post/success/) [contribute](/post/contribute/) [to](/post/to/) well-being.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [prosperous](/en/post/prosperous/) [couple](/en/post/couple/) lived [in](/en/post/in/) [a](/en/post/a/) lavish mansion."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) country's [prosperity](/en/post/prosperity/) was [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) [sound](/en/post/sound/) [economic](/en/post/economic/) policies."
-- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[Their](/en/post/their/) [hard](/en/post/hard/) [work](/en/post/work/) led [to](/en/post/to/) [the](/en/post/the/) [prosperity](/en/post/prosperity/) [of](/en/post/of/) [their](/en/post/their/) [small](/en/post/small/) [business](/en/post/business/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [prosperous](/post/prosperous/) [couple](/post/couple/) lived [in](/post/in/) [a](/post/a/) lavish mansion."
+- **[Noun](/post/noun/)**: "[The](/post/the/) country's [prosperity](/post/prosperity/) was [a](/post/a/) [result](/post/result/) [of](/post/of/) [sound](/post/sound/) [economic](/post/economic/) policies."
+- **[As](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "[Their](/post/their/) [hard](/post/hard/) [work](/post/work/) led [to](/post/to/) [the](/post/the/) [prosperity](/post/prosperity/) [of](/post/of/) [their](/post/their/) [small](/post/small/) [business](/post/business/)."
 
 ## Synonyms
 - Thriving
 - Flourishing
-- [Wealthy](/en/post/wealthy/)
+- [Wealthy](/post/wealthy/)
 - Affluent
-- [Prosperous](/en/post/prosperous/)
+- [Prosperous](/post/prosperous/)
 - Booming
-- [Successful](/en/post/successful/)
+- [Successful](/post/successful/)
 
 ## Antonyms
-- [Poor](/en/post/poor/)
+- [Poor](/post/poor/)
 - Struggling
 - Depressed
 - Failing
-- [Unfortunate](/en/post/unfortunate/)
+- [Unfortunate](/post/unfortunate/)

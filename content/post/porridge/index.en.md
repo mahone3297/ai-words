@@ -7,32 +7,32 @@ description = '[ˈpɔridʒ] n.粥，麦片粥'
 keywords = ['ai words', 'porridge']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈrɪdʒ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[Porridge](/en/post/porridge/) is [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [thick](/en/post/thick/), [usually](/en/post/usually/) [hot](/en/post/hot/) cereal made [from](/en/post/from/) grains [like](/en/post/like/) oats, barley, [or](/en/post/or/) [rice](/en/post/rice/), [often](/en/post/often/) cooked [with](/en/post/with/) [water](/en/post/water/) [or](/en/post/or/) [milk](/en/post/milk/) [and](/en/post/and/) seasoned [with](/en/post/with/) sweeteners [or](/en/post/or/) spices. [It](/en/post/it/) is [a](/en/post/a/) [traditional](/en/post/traditional/) [breakfast](/en/post/breakfast/) [food](/en/post/food/) [in](/en/post/in/) [many](/en/post/many/) cultures.
+### [Noun](/post/noun/)
+[Porridge](/post/porridge/) is [a](/post/a/) [type](/post/type/) [of](/post/of/) [thick](/post/thick/), [usually](/post/usually/) [hot](/post/hot/) cereal made [from](/post/from/) grains [like](/post/like/) oats, barley, [or](/post/or/) [rice](/post/rice/), [often](/post/often/) cooked [with](/post/with/) [water](/post/water/) [or](/post/or/) [milk](/post/milk/) [and](/post/and/) seasoned [with](/post/with/) sweeteners [or](/post/or/) spices. [It](/post/it/) is [a](/post/a/) [traditional](/post/traditional/) [breakfast](/post/breakfast/) [food](/post/food/) [in](/post/in/) [many](/post/many/) cultures.
 
-### [Verb](/en/post/verb/) (informal)
-[To](/en/post/to/) [eat](/en/post/eat/) [porridge](/en/post/porridge/), [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) staple [or](/en/post/or/) [comfort](/en/post/comfort/) [food](/en/post/food/).
+### [Verb](/post/verb/) (informal)
+[To](/post/to/) [eat](/post/eat/) [porridge](/post/porridge/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) staple [or](/post/or/) [comfort](/post/comfort/) [food](/post/food/).
 
 ## Phrases
-- "[Have](/en/post/have/) [a](/en/post/a/) [bowl](/en/post/bowl/) [of](/en/post/of/) [porridge](/en/post/porridge/)" [to](/en/post/to/) [consume](/en/post/consume/) [the](/en/post/the/) [dish](/en/post/dish/).
-- "[Eat](/en/post/eat/) [some](/en/post/some/) [porridge](/en/post/porridge/) [for](/en/post/for/) [breakfast](/en/post/breakfast/)" [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) eating [it](/en/post/it/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/).
-- "Porridge-like consistency" [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [thick](/en/post/thick/), creamy texture.
+- "[Have](/post/have/) [a](/post/a/) [bowl](/post/bowl/) [of](/post/of/) [porridge](/post/porridge/)" [to](/post/to/) [consume](/post/consume/) [the](/post/the/) [dish](/post/dish/).
+- "[Eat](/post/eat/) [some](/post/some/) [porridge](/post/porridge/) [for](/post/for/) [breakfast](/post/breakfast/)" [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [act](/post/act/) [of](/post/of/) eating [it](/post/it/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/).
+- "Porridge-like consistency" [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [thick](/post/thick/), creamy texture.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) likes [to](/en/post/to/) [start](/en/post/start/) [her](/en/post/her/) [day](/en/post/day/) [with](/en/post/with/) [a](/en/post/a/) steaming [bowl](/en/post/bowl/) [of](/en/post/of/) [porridge](/en/post/porridge/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [night](/en/post/night/), [he](/en/post/he/) decided [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) hearty [bowl](/en/post/bowl/) [of](/en/post/of/) [porridge](/en/post/porridge/) [to](/en/post/to/) [warm](/en/post/warm/) [him](/en/post/him/) [up](/en/post/up/)."
-- **Informal**: "He's been known [to](/en/post/to/) devour [a](/en/post/a/) [big](/en/post/big/) [bowl](/en/post/bowl/) [of](/en/post/of/) [porridge](/en/post/porridge/) [on](/en/post/on/) [cold](/en/post/cold/) [winter](/en/post/winter/) mornings."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) likes [to](/post/to/) [start](/post/start/) [her](/post/her/) [day](/post/day/) [with](/post/with/) [a](/post/a/) steaming [bowl](/post/bowl/) [of](/post/of/) [porridge](/post/porridge/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [night](/post/night/), [he](/post/he/) decided [to](/post/to/) [have](/post/have/) [a](/post/a/) hearty [bowl](/post/bowl/) [of](/post/of/) [porridge](/post/porridge/) [to](/post/to/) [warm](/post/warm/) [him](/post/him/) [up](/post/up/)."
+- **Informal**: "He's been known [to](/post/to/) devour [a](/post/a/) [big](/post/big/) [bowl](/post/bowl/) [of](/post/of/) [porridge](/post/porridge/) [on](/post/on/) [cold](/post/cold/) [winter](/post/winter/) mornings."
 
 ## Synonyms
 - Oatmeal
 - Gruel
-- [Hot](/en/post/hot/) cereal
-- [Bowl](/en/post/bowl/) [of](/en/post/of/) mush
-- [Bowl](/en/post/bowl/) [of](/en/post/of/) oats
+- [Hot](/post/hot/) cereal
+- [Bowl](/post/bowl/) [of](/post/of/) mush
+- [Bowl](/post/bowl/) [of](/post/of/) oats
 
 ## Notes
-[Porridge](/en/post/porridge/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [a](/en/post/a/) metaphor [for](/en/post/for/) bland [or](/en/post/or/) uninteresting [content](/en/post/content/), [as](/en/post/as/) [in](/en/post/in/) "[His](/en/post/his/) [lecture](/en/post/lecture/) was [as](/en/post/as/) [dull](/en/post/dull/) [as](/en/post/as/) [porridge](/en/post/porridge/)."
+[Porridge](/post/porridge/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [a](/post/a/) metaphor [for](/post/for/) bland [or](/post/or/) uninteresting [content](/post/content/), [as](/post/as/) [in](/post/in/) "[His](/post/his/) [lecture](/post/lecture/) was [as](/post/as/) [dull](/post/dull/) [as](/post/as/) [porridge](/post/porridge/)."

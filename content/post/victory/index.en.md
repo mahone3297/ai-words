@@ -7,38 +7,38 @@ description = '[ˈviktəri] n.胜利，战胜'
 keywords = ['ai words', 'victory']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vɪˈkʌri/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) winning, [triumph](/en/post/triumph/), [or](/en/post/or/) achieving [success](/en/post/success/) [over](/en/post/over/) an [opponent](/en/post/opponent/) [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) team's [victory](/en/post/victory/) [in](/en/post/in/) [the](/en/post/the/) championship was celebrated [by](/en/post/by/) fans [everywhere](/en/post/everywhere/)."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [win](/en/post/win/) [or](/en/post/or/) [defeat](/en/post/defeat/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/); [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) [successful](/en/post/successful/) [outcome](/en/post/outcome/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) felt [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [victory](/en/post/victory/) [after](/en/post/after/) overcoming [the](/en/post/the/) [difficult](/en/post/difficult/) [task](/en/post/task/)."
-- **[Adjective](/en/post/adjective/)**: (adj) Connoting [triumph](/en/post/triumph/), [success](/en/post/success/), [or](/en/post/or/) dominance. [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) [victory](/en/post/victory/) marked [a](/en/post/a/) [new](/en/post/new/) [era](/en/post/era/) [in](/en/post/in/) [their](/en/post/their/) [sport](/en/post/sport/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) winning, [triumph](/post/triumph/), [or](/post/or/) achieving [success](/post/success/) [over](/post/over/) an [opponent](/post/opponent/) [or](/post/or/) [in](/post/in/) [a](/post/a/) [competition](/post/competition/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) team's [victory](/post/victory/) [in](/post/in/) [the](/post/the/) championship was celebrated [by](/post/by/) fans [everywhere](/post/everywhere/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [win](/post/win/) [or](/post/or/) [defeat](/post/defeat/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/); [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) [successful](/post/successful/) [outcome](/post/outcome/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) felt [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [victory](/post/victory/) [after](/post/after/) overcoming [the](/post/the/) [difficult](/post/difficult/) [task](/post/task/)."
+- **[Adjective](/post/adjective/)**: (adj) Connoting [triumph](/post/triumph/), [success](/post/success/), [or](/post/or/) dominance. [For](/post/for/) [example](/post/example/): "[Their](/post/their/) [victory](/post/victory/) marked [a](/post/a/) [new](/post/new/) [era](/post/era/) [in](/post/in/) [their](/post/their/) [sport](/post/sport/)."
 
 ## Phrases
-- "[Victory](/en/post/victory/) is [sweet](/en/post/sweet/)" implies [that](/en/post/that/) [success](/en/post/success/) [after](/en/post/after/) [hard](/en/post/hard/) [work](/en/post/work/) is [particularly](/en/post/particularly/) enjoyable.
-- "[Victory](/en/post/victory/) [dance](/en/post/dance/)" refers [to](/en/post/to/) [a](/en/post/a/) celebratory [movement](/en/post/movement/) [after](/en/post/after/) winning.
-- "[Victory](/en/post/victory/) [lap](/en/post/lap/)" is [a](/en/post/a/) [victory](/en/post/victory/) [run](/en/post/run/) [around](/en/post/around/) [a](/en/post/a/) [track](/en/post/track/), typically [after](/en/post/after/) [a](/en/post/a/) [race](/en/post/race/).
+- "[Victory](/post/victory/) is [sweet](/post/sweet/)" implies [that](/post/that/) [success](/post/success/) [after](/post/after/) [hard](/post/hard/) [work](/post/work/) is [particularly](/post/particularly/) enjoyable.
+- "[Victory](/post/victory/) [dance](/post/dance/)" refers [to](/post/to/) [a](/post/a/) celebratory [movement](/post/movement/) [after](/post/after/) winning.
+- "[Victory](/post/victory/) [lap](/post/lap/)" is [a](/post/a/) [victory](/post/victory/) [run](/post/run/) [around](/post/around/) [a](/post/a/) [track](/post/track/), typically [after](/post/after/) [a](/post/a/) [race](/post/race/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) [victory](/en/post/victory/) [in](/en/post/in/) [the](/en/post/the/) marathon was [a](/en/post/a/) testament [to](/en/post/to/) months [of](/en/post/of/) [training](/en/post/training/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [battle](/en/post/battle/), [they](/en/post/they/) [finally](/en/post/finally/) achieved [victory](/en/post/victory/) [over](/en/post/over/) [the](/en/post/the/) [enemy](/en/post/enemy/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [victorious](/en/post/victorious/) [team](/en/post/team/) wore [their](/en/post/their/) championship medals [with](/en/post/with/) [pride](/en/post/pride/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Their](/post/their/) [victory](/post/victory/) [in](/post/in/) [the](/post/the/) marathon was [a](/post/a/) testament [to](/post/to/) months [of](/post/of/) [training](/post/training/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [battle](/post/battle/), [they](/post/they/) [finally](/post/finally/) achieved [victory](/post/victory/) [over](/post/over/) [the](/post/the/) [enemy](/post/enemy/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [victorious](/post/victorious/) [team](/post/team/) wore [their](/post/their/) championship medals [with](/post/with/) [pride](/post/pride/)."
 
 ## Synonyms
-- [Triumph](/en/post/triumph/)
-- [Victory](/en/post/victory/) laurel
-- [Success](/en/post/success/)
-- [Win](/en/post/win/)
-- [Conquest](/en/post/conquest/)
-- [Victory](/en/post/victory/) [banner](/en/post/banner/)
+- [Triumph](/post/triumph/)
+- [Victory](/post/victory/) laurel
+- [Success](/post/success/)
+- [Win](/post/win/)
+- [Conquest](/post/conquest/)
+- [Victory](/post/victory/) [banner](/post/banner/)
 - Triumphantly
 - Victoriously
 
 ## Antonyms
-- [Defeat](/en/post/defeat/)
-- [Loss](/en/post/loss/)
-- [Failure](/en/post/failure/)
+- [Defeat](/post/defeat/)
+- [Loss](/post/loss/)
+- [Failure](/post/failure/)
 - Setback
 - Misfortune
 - Defeatism

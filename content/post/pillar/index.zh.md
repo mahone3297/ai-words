@@ -12,23 +12,23 @@ keywords = ['ai words', 'pillar']
 
 ## 释义
 - **名词 n**:
-1. 建筑中的柱子，支撑结构的主要垂直构件。例如: "[The](/post/the/) [ancient](/post/ancient/) [temple](/post/temple/) [still](/post/still/) stands thanks [to](/post/to/) [its](/post/its/) [strong](/post/strong/) pillars."
-2. 支撑物，支柱，常比喻重要的支持者或基础。例如: "[She](/post/she/) is [the](/post/the/) [pillar](/post/pillar/) [of](/post/of/) [strength](/post/strength/) [for](/post/for/) [her](/post/her/) [family](/post/family/)."
+1. 建筑中的柱子，支撑结构的主要垂直构件。例如: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) [temple](/zh/post/temple/) [still](/zh/post/still/) stands thanks [to](/zh/post/to/) [its](/zh/post/its/) [strong](/zh/post/strong/) pillars."
+2. 支撑物，支柱，常比喻重要的支持者或基础。例如: "[She](/zh/post/she/) is [the](/zh/post/the/) [pillar](/zh/post/pillar/) [of](/zh/post/of/) [strength](/zh/post/strength/) [for](/zh/post/for/) [her](/zh/post/her/) [family](/zh/post/family/)."
 
 - **形容词 adj**:
-1. 柱状的，像柱子的。例如: "[The](/post/the/) pillar-shaped rocks [in](/post/in/) [the](/post/the/) [desert](/post/desert/) are [a](/post/a/) [natural](/post/natural/) [wonder](/post/wonder/)."
+1. 柱状的，像柱子的。例如: "[The](/zh/post/the/) pillar-shaped rocks [in](/zh/post/in/) [the](/zh/post/the/) [desert](/zh/post/desert/) are [a](/zh/post/a/) [natural](/zh/post/natural/) [wonder](/zh/post/wonder/)."
 
 ## 短语
-- "[Pillar](/post/pillar/) [of](/post/of/) [society](/post/society/)" 指社会的重要成员或基石。
-- "Pillared [porch](/post/porch/)" 是指有柱子的门廊。
+- "[Pillar](/zh/post/pillar/) [of](/zh/post/of/) [society](/zh/post/society/)" 指社会的重要成员或基石。
+- "Pillared [porch](/zh/post/porch/)" 是指有柱子的门廊。
 
 ## 例句
-- 名词: "[The](/post/the/) [grand](/post/grand/) [cathedral](/post/cathedral/) has [magnificent](/post/magnificent/) [marble](/post/marble/) pillars [that](/post/that/) [reach](/post/reach/) towards [the](/post/the/) [ceiling](/post/ceiling/)."
-- 形容词: "[The](/post/the/) [tree](/post/tree/) had grown [into](/post/into/) [a](/post/a/) [pillar](/post/pillar/), providing [shade](/post/shade/) [for](/post/for/) [the](/post/the/) [garden](/post/garden/)."
+- 名词: "[The](/zh/post/the/) [grand](/zh/post/grand/) [cathedral](/zh/post/cathedral/) has [magnificent](/zh/post/magnificent/) [marble](/zh/post/marble/) pillars [that](/zh/post/that/) [reach](/zh/post/reach/) towards [the](/zh/post/the/) [ceiling](/zh/post/ceiling/)."
+- 形容词: "[The](/zh/post/the/) [tree](/zh/post/tree/) had grown [into](/zh/post/into/) [a](/zh/post/a/) [pillar](/zh/post/pillar/), providing [shade](/zh/post/shade/) [for](/zh/post/for/) [the](/zh/post/the/) [garden](/zh/post/garden/)."
 
 ## 同义词
-- [Column](/post/column/)
-- [Support](/post/support/)
-- [Beam](/post/beam/)
+- [Column](/zh/post/column/)
+- [Support](/zh/post/support/)
+- [Beam](/zh/post/beam/)
 - Pedestal
 - Supporter

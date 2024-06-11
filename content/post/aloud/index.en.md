@@ -7,25 +7,25 @@ description = '[əˈlaud] ad.出声地，大声地'
 keywords = ['ai words', 'aloud']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈlaʊd/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Referring [to](/en/post/to/) [the](/en/post/the/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) [something](/en/post/something/) is said [or](/en/post/or/) done [out](/en/post/out/) [loud](/en/post/loud/), [not](/en/post/not/) [in](/en/post/in/) [silence](/en/post/silence/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [read](/en/post/read/) [the](/en/post/the/) [story](/en/post/story/) [aloud](/en/post/aloud/) [to](/en/post/to/) [her](/en/post/her/) children."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [speak](/en/post/speak/) [or](/en/post/or/) [pronounce](/en/post/pronounce/) ([a](/en/post/a/) [text](/en/post/text/), [passage](/en/post/passage/), [or](/en/post/or/) [song](/en/post/song/)) [aloud](/en/post/aloud/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [read](/en/post/read/) [the](/en/post/the/) instructions [aloud](/en/post/aloud/) [so](/en/post/so/) [everyone](/en/post/everyone/) [can](/en/post/can/) [hear](/en/post/hear/)."
+- **[Adverb](/post/adverb/)**: Referring [to](/post/to/) [the](/post/the/) [manner](/post/manner/) [in](/post/in/) [which](/post/which/) [something](/post/something/) is said [or](/post/or/) done [out](/post/out/) [loud](/post/loud/), [not](/post/not/) [in](/post/in/) [silence](/post/silence/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [read](/post/read/) [the](/post/the/) [story](/post/story/) [aloud](/post/aloud/) [to](/post/to/) [her](/post/her/) children."
+- **[Verb](/post/verb/)**: [To](/post/to/) [speak](/post/speak/) [or](/post/or/) [pronounce](/post/pronounce/) ([a](/post/a/) [text](/post/text/), [passage](/post/passage/), [or](/post/or/) [song](/post/song/)) [aloud](/post/aloud/). [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [read](/post/read/) [the](/post/the/) instructions [aloud](/post/aloud/) [so](/post/so/) [everyone](/post/everyone/) [can](/post/can/) [hear](/post/hear/)."
 
 ## Phrases
-- "[Read](/en/post/read/) [aloud](/en/post/aloud/)" [means](/en/post/means/) [to](/en/post/to/) [pronounce](/en/post/pronounce/) [text](/en/post/text/) [or](/en/post/or/) [a](/en/post/a/) [book](/en/post/book/) [out](/en/post/out/) [loud](/en/post/loud/).
-- "Whispering [aside](/en/post/aside/) [from](/en/post/from/) [aloud](/en/post/aloud/)" refers [to](/en/post/to/) speaking [softly](/en/post/softly/) [or](/en/post/or/) confidentially.
-- "[Speak](/en/post/speak/) [aloud](/en/post/aloud/)" is [a](/en/post/a/) [request](/en/post/request/) [to](/en/post/to/) [increase](/en/post/increase/) [volume](/en/post/volume/) [or](/en/post/or/) [clarify](/en/post/clarify/) [communication](/en/post/communication/).
+- "[Read](/post/read/) [aloud](/post/aloud/)" [means](/post/means/) [to](/post/to/) [pronounce](/post/pronounce/) [text](/post/text/) [or](/post/or/) [a](/post/a/) [book](/post/book/) [out](/post/out/) [loud](/post/loud/).
+- "Whispering [aside](/post/aside/) [from](/post/from/) [aloud](/post/aloud/)" refers [to](/post/to/) speaking [softly](/post/softly/) [or](/post/or/) confidentially.
+- "[Speak](/post/speak/) [aloud](/post/aloud/)" is [a](/post/a/) [request](/post/request/) [to](/post/to/) [increase](/post/increase/) [volume](/post/volume/) [or](/post/or/) [clarify](/post/clarify/) [communication](/post/communication/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) sang [the](/en/post/the/) lullaby [aloud](/en/post/aloud/) [to](/en/post/to/) soothe [her](/en/post/her/) [baby](/en/post/baby/)."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) [class](/en/post/class/), [they](/en/post/they/) asked [him](/en/post/him/) [to](/en/post/to/) [repeat](/en/post/repeat/) [the](/en/post/the/) [question](/en/post/question/) [aloud](/en/post/aloud/)."
-- "[He](/en/post/he/) answered [softly](/en/post/softly/), [almost](/en/post/almost/) [to](/en/post/to/) [himself](/en/post/himself/), [rather](/en/post/rather/) [than](/en/post/than/) [aloud](/en/post/aloud/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) sang [the](/post/the/) lullaby [aloud](/post/aloud/) [to](/post/to/) soothe [her](/post/her/) [baby](/post/baby/)."
+- **[Verb](/post/verb/)**: "[In](/post/in/) [class](/post/class/), [they](/post/they/) asked [him](/post/him/) [to](/post/to/) [repeat](/post/repeat/) [the](/post/the/) [question](/post/question/) [aloud](/post/aloud/)."
+- "[He](/post/he/) answered [softly](/post/softly/), [almost](/post/almost/) [to](/post/to/) [himself](/post/himself/), [rather](/post/rather/) [than](/post/than/) [aloud](/post/aloud/)."
 
 ## Synonyms
-- [Out](/en/post/out/) [loud](/en/post/loud/)
+- [Out](/post/out/) [loud](/post/loud/)
 - Audibly
 - Loudly
 - Verbal
@@ -34,5 +34,5 @@ keywords = ['ai words', 'aloud']
 ## Antonyms
 - Silently
 - Whispered
-- [Softly](/en/post/softly/)
+- [Softly](/post/softly/)
 - Quietly

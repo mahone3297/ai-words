@@ -11,20 +11,20 @@ keywords = ['ai words', 'sleepy']
 /sˈliːpi/
 
 ## 释义
-- **形容词**: 昏昏欲睡的，困倦的。例如: "I [feel](/post/feel/) [so](/post/so/) [sleepy](/post/sleepy/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/)."
-- **动词**: 使困倦，使想睡觉。例如: "[The](/post/the/) [soft](/post/soft/) [music](/post/music/) made [me](/post/me/) [sleepy](/post/sleepy/)."
+- **形容词**: 昏昏欲睡的，困倦的。例如: "I [feel](/zh/post/feel/) [so](/zh/post/so/) [sleepy](/zh/post/sleepy/) [after](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [day](/zh/post/day/) [at](/zh/post/at/) [work](/zh/post/work/)."
+- **动词**: 使困倦，使想睡觉。例如: "[The](/zh/post/the/) [soft](/zh/post/soft/) [music](/zh/post/music/) made [me](/zh/post/me/) [sleepy](/zh/post/sleepy/)."
 
 ## 短语
-- "[feeling](/post/feeling/) [sleepy](/post/sleepy/)" 意为感到困倦。
-- "[to](/post/to/) [fall](/post/fall/) [asleep](/post/asleep/) [sleepy](/post/sleepy/)" 表示在困倦的状态下入睡。
+- "[feeling](/zh/post/feeling/) [sleepy](/zh/post/sleepy/)" 意为感到困倦。
+- "[to](/zh/post/to/) [fall](/zh/post/fall/) [asleep](/zh/post/asleep/) [sleepy](/zh/post/sleepy/)" 表示在困倦的状态下入睡。
 
 ## 例句
-- 形容词: "It's [late](/post/late/), [and](/post/and/) I'm getting [really](/post/really/) [sleepy](/post/sleepy/)."
-- 动词: "[The](/post/the/) [baby](/post/baby/) was [sleepy](/post/sleepy/), [so](/post/so/) [we](/post/we/) [put](/post/put/) [him](/post/him/) [to](/post/to/) [bed](/post/bed/) [early](/post/early/)."
+- 形容词: "It's [late](/zh/post/late/), [and](/zh/post/and/) I'm getting [really](/zh/post/really/) [sleepy](/zh/post/sleepy/)."
+- 动词: "[The](/zh/post/the/) [baby](/zh/post/baby/) was [sleepy](/zh/post/sleepy/), [so](/zh/post/so/) [we](/zh/post/we/) [put](/zh/post/put/) [him](/zh/post/him/) [to](/zh/post/to/) [bed](/zh/post/bed/) [early](/zh/post/early/)."
 
 ## 同义词
-- [Tired](/post/tired/)
+- [Tired](/zh/post/tired/)
 - Drowsy
 - Sleep-consumed
 - Dozy
-- [Weary](/post/weary/)
+- [Weary](/zh/post/weary/)

@@ -7,38 +7,38 @@ description = '[siˈlekt] vt.&vi.选择，挑选'
 keywords = ['ai words', 'select']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪˈlekt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) choosing [or](/en/post/or/) picking [something](/en/post/something/) [out](/en/post/out/) [from](/en/post/from/) [a](/en/post/a/) [group](/en/post/group/), typically based [on](/en/post/on/) [preference](/en/post/preference/) [or](/en/post/or/) criteria. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) selector chose [the](/en/post/the/) [best](/en/post/best/) [candidate](/en/post/candidate/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/)."
-   2. [A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) mechanism [that](/en/post/that/) allows [you](/en/post/you/) [to](/en/post/to/) [choose](/en/post/choose/) [between](/en/post/between/) options, [often](/en/post/often/) [found](/en/post/found/) [in](/en/post/in/) [electronic](/en/post/electronic/) devices. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [remote](/en/post/remote/) has [a](/en/post/a/) [selection](/en/post/selection/) [of](/en/post/of/) channels."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [choose](/en/post/choose/) [or](/en/post/or/) [pick](/en/post/pick/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [from](/en/post/from/) [a](/en/post/a/) [group](/en/post/group/), [often](/en/post/often/) deliberately. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) selected [a](/en/post/a/) [new](/en/post/new/) [computer](/en/post/computer/) [model](/en/post/model/) [for](/en/post/for/) [her](/en/post/her/) [office](/en/post/office/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [choice](/en/post/choice/) [or](/en/post/or/) discrimination, [especially](/en/post/especially/) [in](/en/post/in/) [taste](/en/post/taste/) [or](/en/post/or/) [preference](/en/post/preference/). [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) [menu](/en/post/menu/) offers [a](/en/post/a/) [wide](/en/post/wide/) [selection](/en/post/selection/) [of](/en/post/of/) dishes."
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) choosing [or](/post/or/) picking [something](/post/something/) [out](/post/out/) [from](/post/from/) [a](/post/a/) [group](/post/group/), typically based [on](/post/on/) [preference](/post/preference/) [or](/post/or/) criteria. [For](/post/for/) [example](/post/example/): "[The](/post/the/) selector chose [the](/post/the/) [best](/post/best/) [candidate](/post/candidate/) [for](/post/for/) [the](/post/the/) [job](/post/job/)."
+   2. [A](/post/a/) [device](/post/device/) [or](/post/or/) mechanism [that](/post/that/) allows [you](/post/you/) [to](/post/to/) [choose](/post/choose/) [between](/post/between/) options, [often](/post/often/) [found](/post/found/) [in](/post/in/) [electronic](/post/electronic/) devices. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [remote](/post/remote/) has [a](/post/a/) [selection](/post/selection/) [of](/post/of/) channels."
+- **[Verb](/post/verb/)**: [To](/post/to/) [choose](/post/choose/) [or](/post/or/) [pick](/post/pick/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [from](/post/from/) [a](/post/a/) [group](/post/group/), [often](/post/often/) deliberately. [For](/post/for/) [example](/post/example/): "[She](/post/she/) selected [a](/post/a/) [new](/post/new/) [computer](/post/computer/) [model](/post/model/) [for](/post/for/) [her](/post/her/) [office](/post/office/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [choice](/post/choice/) [or](/post/or/) discrimination, [especially](/post/especially/) [in](/post/in/) [taste](/post/taste/) [or](/post/or/) [preference](/post/preference/). [For](/post/for/) [example](/post/example/): "[Their](/post/their/) [menu](/post/menu/) offers [a](/post/a/) [wide](/post/wide/) [selection](/post/selection/) [of](/post/of/) dishes."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [selection](/en/post/selection/)" [means](/en/post/means/) [to](/en/post/to/) [choose](/en/post/choose/) [something](/en/post/something/) [from](/en/post/from/) [available](/en/post/available/) options.
-- "Preferential [selection](/en/post/selection/)" refers [to](/en/post/to/) choosing based [on](/en/post/on/) [a](/en/post/a/) [preference](/en/post/preference/).
-- "Random [selection](/en/post/selection/)" involves choosing items [without](/en/post/without/) bias.
+- "[Make](/post/make/) [a](/post/a/) [selection](/post/selection/)" [means](/post/means/) [to](/post/to/) [choose](/post/choose/) [something](/post/something/) [from](/post/from/) [available](/post/available/) options.
+- "Preferential [selection](/post/selection/)" refers [to](/post/to/) choosing based [on](/post/on/) [a](/post/a/) [preference](/post/preference/).
+- "Random [selection](/post/selection/)" involves choosing items [without](/post/without/) bias.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) programmer [used](/en/post/used/) [a](/en/post/a/) software [tool](/en/post/tool/) [for](/en/post/for/) [automatic](/en/post/automatic/) [selection](/en/post/selection/) [of](/en/post/of/) bugs."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [customer](/en/post/customer/) selected [five](/en/post/five/) books [for](/en/post/for/) [their](/en/post/their/) [reading](/en/post/reading/) [list](/en/post/list/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [restaurant](/en/post/restaurant/) has [a](/en/post/a/) [diverse](/en/post/diverse/) [selection](/en/post/selection/) [of](/en/post/of/) vegetarian options."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) programmer [used](/post/used/) [a](/post/a/) software [tool](/post/tool/) [for](/post/for/) [automatic](/post/automatic/) [selection](/post/selection/) [of](/post/of/) bugs."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [customer](/post/customer/) selected [five](/post/five/) books [for](/post/for/) [their](/post/their/) [reading](/post/reading/) [list](/post/list/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [restaurant](/post/restaurant/) has [a](/post/a/) [diverse](/post/diverse/) [selection](/post/selection/) [of](/post/of/) vegetarian options."
 
 ## Synonyms
-- [Choose](/en/post/choose/)
-- [Pick](/en/post/pick/)
-- Opt [for](/en/post/for/)
+- [Choose](/post/choose/)
+- [Pick](/post/pick/)
+- Opt [for](/post/for/)
 - Favor
 - Selectively
 - Discriminate
-- [Choose](/en/post/choose/) [from](/en/post/from/)
-- [Narrow](/en/post/narrow/) [down](/en/post/down/)
+- [Choose](/post/choose/) [from](/post/from/)
+- [Narrow](/post/narrow/) [down](/post/down/)
 
 ## Antonyms
-- [Reject](/en/post/reject/)
-- [Ignore](/en/post/ignore/)
+- [Reject](/post/reject/)
+- [Ignore](/post/ignore/)
 - Randomize
-- [Exclude](/en/post/exclude/)
+- [Exclude](/post/exclude/)
 - Indiscriminately

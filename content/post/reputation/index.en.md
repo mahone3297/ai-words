@@ -7,26 +7,26 @@ description = '[ˌrepju(ː)ˈtei∫ən] n.名誉/声；好名声'
 keywords = ['ai words', 'reputation']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈpjuːtəʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [general](/en/post/general/) perception [or](/en/post/or/) estimation [of](/en/post/of/) someone's [character](/en/post/character/), abilities, [or](/en/post/or/) qualities, [often](/en/post/often/) based [on](/en/post/on/) [public](/en/post/public/) [opinion](/en/post/opinion/) [or](/en/post/or/) [previous](/en/post/previous/) actions. **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) [good](/en/post/good/) [or](/en/post/or/) favorable [reputation](/en/post/reputation/). **[Verb](/en/post/verb/)**: [To](/en/post/to/) [acquire](/en/post/acquire/) [or](/en/post/or/) [maintain](/en/post/maintain/) [a](/en/post/a/) [good](/en/post/good/) standing [or](/en/post/or/) [image](/en/post/image/) [in](/en/post/in/) [the](/en/post/the/) [opinion](/en/post/opinion/) [of](/en/post/of/) others.
+- **[Noun](/post/noun/)**: [A](/post/a/) [general](/post/general/) perception [or](/post/or/) estimation [of](/post/of/) someone's [character](/post/character/), abilities, [or](/post/or/) qualities, [often](/post/often/) based [on](/post/on/) [public](/post/public/) [opinion](/post/opinion/) [or](/post/or/) [previous](/post/previous/) actions. **[Adjective](/post/adjective/)**: Having [a](/post/a/) [good](/post/good/) [or](/post/or/) favorable [reputation](/post/reputation/). **[Verb](/post/verb/)**: [To](/post/to/) [acquire](/post/acquire/) [or](/post/or/) [maintain](/post/maintain/) [a](/post/a/) [good](/post/good/) standing [or](/post/or/) [image](/post/image/) [in](/post/in/) [the](/post/the/) [opinion](/post/opinion/) [of](/post/of/) others.
 
 ## Phrases
-- "[Reputation](/en/post/reputation/) [management](/en/post/management/)" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) shaping [and](/en/post/and/) maintaining [a](/en/post/a/) [positive](/en/post/positive/) online [image](/en/post/image/).
-- "[Reputation](/en/post/reputation/) precedes [you](/en/post/you/)" [means](/en/post/means/) [that](/en/post/that/) [your](/en/post/your/) [past](/en/post/past/) actions [or](/en/post/or/) [behavior](/en/post/behavior/) are known [before](/en/post/before/) [you](/en/post/you/) [even](/en/post/even/) [meet](/en/post/meet/) [someone](/en/post/someone/).
-- "[Reputation](/en/post/reputation/) is [everything](/en/post/everything/)" highlights [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) one's standing [in](/en/post/in/) [a](/en/post/a/) [community](/en/post/community/) [or](/en/post/or/) [profession](/en/post/profession/).
+- "[Reputation](/post/reputation/) [management](/post/management/)" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) shaping [and](/post/and/) maintaining [a](/post/a/) [positive](/post/positive/) online [image](/post/image/).
+- "[Reputation](/post/reputation/) precedes [you](/post/you/)" [means](/post/means/) [that](/post/that/) [your](/post/your/) [past](/post/past/) actions [or](/post/or/) [behavior](/post/behavior/) are known [before](/post/before/) [you](/post/you/) [even](/post/even/) [meet](/post/meet/) [someone](/post/someone/).
+- "[Reputation](/post/reputation/) is [everything](/post/everything/)" highlights [the](/post/the/) [importance](/post/importance/) [of](/post/of/) one's standing [in](/post/in/) [a](/post/a/) [community](/post/community/) [or](/post/or/) [profession](/post/profession/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) worked [hard](/en/post/hard/) [to](/en/post/to/) [restore](/en/post/restore/) [her](/en/post/her/) [reputation](/en/post/reputation/) [after](/en/post/after/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) mistakes."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) company's [reputation](/en/post/reputation/) suffered [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [recent](/en/post/recent/) scandal."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) has an impeccable [reputation](/en/post/reputation/) [in](/en/post/in/) [the](/en/post/the/) [business](/en/post/business/) [world](/en/post/world/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) worked [hard](/post/hard/) [to](/post/to/) [restore](/post/restore/) [her](/post/her/) [reputation](/post/reputation/) [after](/post/after/) [a](/post/a/) [series](/post/series/) [of](/post/of/) mistakes."
+- **[Verb](/post/verb/)**: "[The](/post/the/) company's [reputation](/post/reputation/) suffered [due](/post/due/) [to](/post/to/) [the](/post/the/) [recent](/post/recent/) scandal."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) has an impeccable [reputation](/post/reputation/) [in](/post/in/) [the](/post/the/) [business](/post/business/) [world](/post/world/)."
 
 ## Synonyms
-- [Reputation](/en/post/reputation/): [Recognition](/en/post/recognition/), [fame](/en/post/fame/), credibility, standing, repute, esteem, goodwill
-- [Maintain](/en/post/maintain/): [Protect](/en/post/protect/), [preserve](/en/post/preserve/), uphold, bolster, enhance
-- [Shape](/en/post/shape/): [Form](/en/post/form/), [cultivate](/en/post/cultivate/), [build](/en/post/build/), [establish](/en/post/establish/), [refine](/en/post/refine/)
+- [Reputation](/post/reputation/): [Recognition](/post/recognition/), [fame](/post/fame/), credibility, standing, repute, esteem, goodwill
+- [Maintain](/post/maintain/): [Protect](/post/protect/), [preserve](/post/preserve/), uphold, bolster, enhance
+- [Shape](/post/shape/): [Form](/post/form/), [cultivate](/post/cultivate/), [build](/post/build/), [establish](/post/establish/), [refine](/post/refine/)
 
 ## Antonyms
-- Damaged/reputational downfall: [Ruin](/en/post/ruin/), tarnish, disgrace, blemish, disgrace, defamation
+- Damaged/reputational downfall: [Ruin](/post/ruin/), tarnish, disgrace, blemish, disgrace, defamation

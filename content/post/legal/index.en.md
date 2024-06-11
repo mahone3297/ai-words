@@ -7,29 +7,29 @@ description = '[ˈliːgəl] a.法律的；合法的'
 keywords = ['ai words', 'legal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈliːɡəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Pertaining [to](/en/post/to/) [law](/en/post/law/) [or](/en/post/or/) [the](/en/post/the/) [administration](/en/post/administration/) [of](/en/post/of/) [justice](/en/post/justice/); authorized [by](/en/post/by/) [law](/en/post/law/); according [to](/en/post/to/) [the](/en/post/the/) [law](/en/post/law/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [legal](/en/post/legal/) drinking [age](/en/post/age/) [in](/en/post/in/) [this](/en/post/this/) [country](/en/post/country/) is 21."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) qualified [to](/en/post/to/) [practice](/en/post/practice/) [law](/en/post/law/); [a](/en/post/a/) [lawyer](/en/post/lawyer/). [For](/en/post/for/) [instance](/en/post/instance/): "[She](/en/post/she/) hired [a](/en/post/a/) [top](/en/post/top/) [legal](/en/post/legal/) [expert](/en/post/expert/) [to](/en/post/to/) [represent](/en/post/represent/) [her](/en/post/her/) [case](/en/post/case/)."
+- **[Adjective](/post/adjective/)**: Pertaining [to](/post/to/) [law](/post/law/) [or](/post/or/) [the](/post/the/) [administration](/post/administration/) [of](/post/of/) [justice](/post/justice/); authorized [by](/post/by/) [law](/post/law/); according [to](/post/to/) [the](/post/the/) [law](/post/law/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [legal](/post/legal/) drinking [age](/post/age/) [in](/post/in/) [this](/post/this/) [country](/post/country/) is 21."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) qualified [to](/post/to/) [practice](/post/practice/) [law](/post/law/); [a](/post/a/) [lawyer](/post/lawyer/). [For](/post/for/) [instance](/post/instance/): "[She](/post/she/) hired [a](/post/a/) [top](/post/top/) [legal](/post/legal/) [expert](/post/expert/) [to](/post/to/) [represent](/post/represent/) [her](/post/her/) [case](/post/case/)."
 
 ### Phrases
-- "[Legal](/en/post/legal/) [advice](/en/post/advice/)" refers [to](/en/post/to/) [guidance](/en/post/guidance/) [provided](/en/post/provided/) [by](/en/post/by/) [a](/en/post/a/) qualified [lawyer](/en/post/lawyer/) [about](/en/post/about/) [legal](/en/post/legal/) rights [and](/en/post/and/) responsibilities.
-- "[Legal](/en/post/legal/) [action](/en/post/action/)" denotes taking [legal](/en/post/legal/) steps, [such](/en/post/such/) [as](/en/post/as/) filing [a](/en/post/a/) lawsuit, [to](/en/post/to/) [resolve](/en/post/resolve/) [a](/en/post/a/) [dispute](/en/post/dispute/).
-- "[Legal](/en/post/legal/) [document](/en/post/document/)" is [any](/en/post/any/) written [instrument](/en/post/instrument/) [that](/en/post/that/) has [legal](/en/post/legal/) [significance](/en/post/significance/), [like](/en/post/like/) contracts, deeds, [or](/en/post/or/) wills.
-- "[Within](/en/post/within/) [the](/en/post/the/) [legal](/en/post/legal/) [framework](/en/post/framework/)" [means](/en/post/means/) operating [within](/en/post/within/) [the](/en/post/the/) bounds [of](/en/post/of/) [the](/en/post/the/) [law](/en/post/law/).
+- "[Legal](/post/legal/) [advice](/post/advice/)" refers [to](/post/to/) [guidance](/post/guidance/) [provided](/post/provided/) [by](/post/by/) [a](/post/a/) qualified [lawyer](/post/lawyer/) [about](/post/about/) [legal](/post/legal/) rights [and](/post/and/) responsibilities.
+- "[Legal](/post/legal/) [action](/post/action/)" denotes taking [legal](/post/legal/) steps, [such](/post/such/) [as](/post/as/) filing [a](/post/a/) lawsuit, [to](/post/to/) [resolve](/post/resolve/) [a](/post/a/) [dispute](/post/dispute/).
+- "[Legal](/post/legal/) [document](/post/document/)" is [any](/post/any/) written [instrument](/post/instrument/) [that](/post/that/) has [legal](/post/legal/) [significance](/post/significance/), [like](/post/like/) contracts, deeds, [or](/post/or/) wills.
+- "[Within](/post/within/) [the](/post/the/) [legal](/post/legal/) [framework](/post/framework/)" [means](/post/means/) operating [within](/post/within/) [the](/post/the/) bounds [of](/post/of/) [the](/post/the/) [law](/post/law/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [contract](/en/post/contract/) is legally binding [on](/en/post/on/) [both](/en/post/both/) parties."
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [consult](/en/post/consult/) [with](/en/post/with/) [his](/en/post/his/) [legal](/en/post/legal/) [team](/en/post/team/) [before](/en/post/before/) making [a](/en/post/a/) [decision](/en/post/decision/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [contract](/post/contract/) is legally binding [on](/post/on/) [both](/post/both/) parties."
+- **[Noun](/post/noun/)**: "[He](/post/he/) decided [to](/post/to/) [consult](/post/consult/) [with](/post/with/) [his](/post/his/) [legal](/post/legal/) [team](/post/team/) [before](/post/before/) making [a](/post/a/) [decision](/post/decision/)."
 
 ## Synonyms
 - Lawful
 - Statutory
 - Authorized
 - Permissible
-- [Valid](/en/post/valid/) ([for](/en/post/for/) [the](/en/post/the/) [adjective](/en/post/adjective/) [sense](/en/post/sense/))
-- [Lawyer](/en/post/lawyer/)
+- [Valid](/post/valid/) ([for](/post/for/) [the](/post/the/) [adjective](/post/adjective/) [sense](/post/sense/))
+- [Lawyer](/post/lawyer/)
 - Attorney
-- Barrister ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [sense](/en/post/sense/))
+- Barrister ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [sense](/post/sense/))

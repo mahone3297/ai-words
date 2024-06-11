@@ -7,32 +7,32 @@ description = '[riˈfridʒəreitə] n.冰箱，冷藏库'
 keywords = ['ai words', 'refrigerator']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /refəˈrɪdʒər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/) [appliance](/en/post/appliance/) designed [to](/en/post/to/) [store](/en/post/store/) [food](/en/post/food/) [and](/en/post/and/) [other](/en/post/other/) perishable items [at](/en/post/at/) a低温, typically [below](/en/post/below/) freezing, [to](/en/post/to/) [preserve](/en/post/preserve/) [their](/en/post/their/) freshness. [Example](/en/post/example/): "[The](/en/post/the/) [refrigerator](/en/post/refrigerator/) is filled [with](/en/post/with/) fruits [and](/en/post/and/) vegetables."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [keep](/en/post/keep/) ([food](/en/post/food/)) [in](/en/post/in/) [a](/en/post/a/) [refrigerator](/en/post/refrigerator/) [for](/en/post/for/) preservation. [Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) refrigerate [the](/en/post/the/) leftover [cake](/en/post/cake/)."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [refrigerator](/en/post/refrigerator/), [such](/en/post/such/) [as](/en/post/as/) [cold](/en/post/cold/) [or](/en/post/or/) preserving. [Example](/en/post/example/): "[The](/en/post/the/) refrigerator's [cool](/en/post/cool/) [interior](/en/post/interior/) maintains [a](/en/post/a/) [constant](/en/post/constant/) [temperature](/en/post/temperature/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/) [appliance](/post/appliance/) designed [to](/post/to/) [store](/post/store/) [food](/post/food/) [and](/post/and/) [other](/post/other/) perishable items [at](/post/at/) a低温, typically [below](/post/below/) freezing, [to](/post/to/) [preserve](/post/preserve/) [their](/post/their/) freshness. [Example](/post/example/): "[The](/post/the/) [refrigerator](/post/refrigerator/) is filled [with](/post/with/) fruits [and](/post/and/) vegetables."
+- **[Verb](/post/verb/)**: [To](/post/to/) [keep](/post/keep/) ([food](/post/food/)) [in](/post/in/) [a](/post/a/) [refrigerator](/post/refrigerator/) [for](/post/for/) preservation. [Example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) refrigerate [the](/post/the/) leftover [cake](/post/cake/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [refrigerator](/post/refrigerator/), [such](/post/such/) [as](/post/as/) [cold](/post/cold/) [or](/post/or/) preserving. [Example](/post/example/): "[The](/post/the/) refrigerator's [cool](/post/cool/) [interior](/post/interior/) maintains [a](/post/a/) [constant](/post/constant/) [temperature](/post/temperature/)."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [something](/en/post/something/) [in](/en/post/in/) [the](/en/post/the/) [refrigerator](/en/post/refrigerator/)" [means](/en/post/means/) [to](/en/post/to/) [store](/en/post/store/) [it](/en/post/it/) [at](/en/post/at/) [a](/en/post/a/) [low](/en/post/low/) [temperature](/en/post/temperature/).
-- "[Refrigerator](/en/post/refrigerator/) [door](/en/post/door/) [magnet](/en/post/magnet/)" [often](/en/post/often/) refers [to](/en/post/to/) [a](/en/post/a/) decorative [item](/en/post/item/) placed [on](/en/post/on/) [the](/en/post/the/) [fridge](/en/post/fridge/).
-- "Energy-efficient [refrigerator](/en/post/refrigerator/)" is [a](/en/post/a/) [model](/en/post/model/) [that](/en/post/that/) uses [less](/en/post/less/) [power](/en/post/power/).
+- "[Keep](/post/keep/) [something](/post/something/) [in](/post/in/) [the](/post/the/) [refrigerator](/post/refrigerator/)" [means](/post/means/) [to](/post/to/) [store](/post/store/) [it](/post/it/) [at](/post/at/) [a](/post/a/) [low](/post/low/) [temperature](/post/temperature/).
+- "[Refrigerator](/post/refrigerator/) [door](/post/door/) [magnet](/post/magnet/)" [often](/post/often/) refers [to](/post/to/) [a](/post/a/) decorative [item](/post/item/) placed [on](/post/on/) [the](/post/the/) [fridge](/post/fridge/).
+- "Energy-efficient [refrigerator](/post/refrigerator/)" is [a](/post/a/) [model](/post/model/) [that](/post/that/) uses [less](/post/less/) [power](/post/power/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) opened [the](/en/post/the/) [refrigerator](/en/post/refrigerator/) [to](/en/post/to/) [check](/en/post/check/) [if](/en/post/if/) [there](/en/post/there/) was [any](/en/post/any/) [milk](/en/post/milk/) [left](/en/post/left/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) cooking, [he](/en/post/he/) [put](/en/post/put/) [the](/en/post/the/) lasagna [in](/en/post/in/) [the](/en/post/the/) [refrigerator](/en/post/refrigerator/) [to](/en/post/to/) [chill](/en/post/chill/) [before](/en/post/before/) serving."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [refrigerator](/en/post/refrigerator/) hummed quietly, maintaining [its](/en/post/its/) refrigerated [space](/en/post/space/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) opened [the](/post/the/) [refrigerator](/post/refrigerator/) [to](/post/to/) [check](/post/check/) [if](/post/if/) [there](/post/there/) was [any](/post/any/) [milk](/post/milk/) [left](/post/left/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) cooking, [he](/post/he/) [put](/post/put/) [the](/post/the/) lasagna [in](/post/in/) [the](/post/the/) [refrigerator](/post/refrigerator/) [to](/post/to/) [chill](/post/chill/) [before](/post/before/) serving."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [refrigerator](/post/refrigerator/) hummed quietly, maintaining [its](/post/its/) refrigerated [space](/post/space/)."
 
 ## Synonyms
-- [Fridge](/en/post/fridge/)
+- [Fridge](/post/fridge/)
 - Cooler
 - Chiller
-- [Refrigerator](/en/post/refrigerator/) [unit](/en/post/unit/)
-- [Cold](/en/post/cold/) [box](/en/post/box/)
+- [Refrigerator](/post/refrigerator/) [unit](/post/unit/)
+- [Cold](/post/cold/) [box](/post/box/)
 
 ## Antonyms
-- [Warm](/en/post/warm/)
-- [Room](/en/post/room/) [temperature](/en/post/temperature/)
+- [Warm](/post/warm/)
+- [Room](/post/room/) [temperature](/post/temperature/)
 - Unrefrigerated

@@ -7,32 +7,32 @@ description = '[ɔːgˈziljəri] a.辅助的；附属的'
 keywords = ['ai words', 'auxiliary']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːksɪləri/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-An **[auxiliary](/en/post/auxiliary/)** is [a](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [grammatical](/en/post/grammatical/) [form](/en/post/form/) [that](/en/post/that/) helps [to](/en/post/to/) [form](/en/post/form/) [verb](/en/post/verb/) tenses, [indicate](/en/post/indicate/) [aspect](/en/post/aspect/), [mood](/en/post/mood/), [or](/en/post/or/) [voice](/en/post/voice/), [or](/en/post/or/) [provide](/en/post/provide/) [emphasis](/en/post/emphasis/) [in](/en/post/in/) [certain](/en/post/certain/) languages. [It](/en/post/it/) is [often](/en/post/often/) [a](/en/post/a/) [verb](/en/post/verb/) [but](/en/post/but/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) an [adjective](/en/post/adjective/) [or](/en/post/or/) [adverb](/en/post/adverb/).
+### [Noun](/post/noun/)
+An **[auxiliary](/post/auxiliary/)** is [a](/post/a/) [word](/post/word/) [or](/post/or/) [grammatical](/post/grammatical/) [form](/post/form/) [that](/post/that/) helps [to](/post/to/) [form](/post/form/) [verb](/post/verb/) tenses, [indicate](/post/indicate/) [aspect](/post/aspect/), [mood](/post/mood/), [or](/post/or/) [voice](/post/voice/), [or](/post/or/) [provide](/post/provide/) [emphasis](/post/emphasis/) [in](/post/in/) [certain](/post/certain/) languages. [It](/post/it/) is [often](/post/often/) [a](/post/a/) [verb](/post/verb/) [but](/post/but/) [can](/post/can/) [also](/post/also/) [be](/post/be/) an [adjective](/post/adjective/) [or](/post/or/) [adverb](/post/adverb/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **auxilliate** [or](/en/post/or/) **[aid](/en/post/aid/)** [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [action](/en/post/action/) [or](/en/post/or/) [function](/en/post/function/), typically [by](/en/post/by/) providing [support](/en/post/support/) [or](/en/post/or/) [additional](/en/post/additional/) resources. [In](/en/post/in/) [some](/en/post/some/) languages, [it](/en/post/it/) refers [to](/en/post/to/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) an [auxiliary](/en/post/auxiliary/) [verb](/en/post/verb/) [to](/en/post/to/) [create](/en/post/create/) [complex](/en/post/complex/) tenses.
+### [Verb](/post/verb/)
+[To](/post/to/) **auxilliate** [or](/post/or/) **[aid](/post/aid/)** [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [action](/post/action/) [or](/post/or/) [function](/post/function/), typically [by](/post/by/) providing [support](/post/support/) [or](/post/or/) [additional](/post/additional/) resources. [In](/post/in/) [some](/post/some/) languages, [it](/post/it/) refers [to](/post/to/) [the](/post/the/) [use](/post/use/) [of](/post/of/) an [auxiliary](/post/auxiliary/) [verb](/post/verb/) [to](/post/to/) [create](/post/create/) [complex](/post/complex/) tenses.
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) [certain](/en/post/certain/) contexts, an [adjective](/en/post/adjective/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) is supplementary [or](/en/post/or/) supportive.
+### [Adjective](/post/adjective/)
+[In](/post/in/) [certain](/post/certain/) contexts, an [adjective](/post/adjective/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) is supplementary [or](/post/or/) supportive.
 
-### [Adverb](/en/post/adverb/)
-An **auxiliaryly** describes [how](/en/post/how/) [something](/en/post/something/) is done, [usually](/en/post/usually/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) supporting [or](/en/post/or/) assisting.
+### [Adverb](/post/adverb/)
+An **auxiliaryly** describes [how](/post/how/) [something](/post/something/) is done, [usually](/post/usually/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) supporting [or](/post/or/) assisting.
 
 ## Phrases
-- "[Serve](/en/post/serve/) [as](/en/post/as/) an [auxiliary](/en/post/auxiliary/)" [means](/en/post/means/) [to](/en/post/to/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) helper [or](/en/post/or/) [support](/en/post/support/).
-- "[Use](/en/post/use/) an [auxiliary](/en/post/auxiliary/) [verb](/en/post/verb/)" is [a](/en/post/a/) [grammatical](/en/post/grammatical/) [term](/en/post/term/) [for](/en/post/for/) incorporating verbs [like](/en/post/like/) '[do](/en/post/do/),' '[be](/en/post/be/),' [or](/en/post/or/) '[have](/en/post/have/)' [to](/en/post/to/) [form](/en/post/form/) [various](/en/post/various/) tenses.
-- "[She](/en/post/she/) works [as](/en/post/as/) an [auxiliary](/en/post/auxiliary/) [teacher](/en/post/teacher/)" indicates [a](/en/post/a/) part-time [or](/en/post/or/) supportive [role](/en/post/role/) [in](/en/post/in/) [education](/en/post/education/).
+- "[Serve](/post/serve/) [as](/post/as/) an [auxiliary](/post/auxiliary/)" [means](/post/means/) [to](/post/to/) [function](/post/function/) [as](/post/as/) [a](/post/a/) helper [or](/post/or/) [support](/post/support/).
+- "[Use](/post/use/) an [auxiliary](/post/auxiliary/) [verb](/post/verb/)" is [a](/post/a/) [grammatical](/post/grammatical/) [term](/post/term/) [for](/post/for/) incorporating verbs [like](/post/like/) '[do](/post/do/),' '[be](/post/be/),' [or](/post/or/) '[have](/post/have/)' [to](/post/to/) [form](/post/form/) [various](/post/various/) tenses.
+- "[She](/post/she/) works [as](/post/as/) an [auxiliary](/post/auxiliary/) [teacher](/post/teacher/)" indicates [a](/post/a/) part-time [or](/post/or/) supportive [role](/post/role/) [in](/post/in/) [education](/post/education/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [auxiliary](/en/post/auxiliary/) verbs '[do](/en/post/do/)' [and](/en/post/and/) '[have](/en/post/have/)' are [essential](/en/post/essential/) [in](/en/post/in/) English [grammar](/en/post/grammar/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) engine's [auxiliary](/en/post/auxiliary/) cooling [system](/en/post/system/) keeps [the](/en/post/the/) [engine](/en/post/engine/) running [smoothly](/en/post/smoothly/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [auxiliary](/en/post/auxiliary/) [power](/en/post/power/) [unit](/en/post/unit/) ensures [a](/en/post/a/) [continuous](/en/post/continuous/) [supply](/en/post/supply/) [of](/en/post/of/) [electricity](/en/post/electricity/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) completed [the](/en/post/the/) [task](/en/post/task/) auxiliaryly, helping [his](/en/post/his/) [team](/en/post/team/) [whenever](/en/post/whenever/) needed."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [auxiliary](/post/auxiliary/) verbs '[do](/post/do/)' [and](/post/and/) '[have](/post/have/)' are [essential](/post/essential/) [in](/post/in/) English [grammar](/post/grammar/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) engine's [auxiliary](/post/auxiliary/) cooling [system](/post/system/) keeps [the](/post/the/) [engine](/post/engine/) running [smoothly](/post/smoothly/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [auxiliary](/post/auxiliary/) [power](/post/power/) [unit](/post/unit/) ensures [a](/post/a/) [continuous](/post/continuous/) [supply](/post/supply/) [of](/post/of/) [electricity](/post/electricity/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) completed [the](/post/the/) [task](/post/task/) auxiliaryly, helping [his](/post/his/) [team](/post/team/) [whenever](/post/whenever/) needed."
 
 ## Synonyms
 - Supporting
@@ -40,6 +40,6 @@ An **auxiliaryly** describes [how](/en/post/how/) [something](/en/post/something
 - Facilitating
 - Enhancing
 - Assisting
-- [Aid](/en/post/aid/)
+- [Aid](/post/aid/)
 - Backup
-- Supplementary [verb](/en/post/verb/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [grammar](/en/post/grammar/))
+- Supplementary [verb](/post/verb/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [grammar](/post/grammar/))

@@ -12,26 +12,26 @@ keywords = ['ai words', 'draft']
 
 ## 释义
 - **名词**:
-  - 初稿；草稿：如 "[He](/post/he/) submitted [his](/post/his/) [first](/post/first/) [draft](/post/draft/) [of](/post/of/) [the](/post/the/) [essay](/post/essay/)."
-  - 征兵；征召：如 "[The](/post/the/) [country](/post/country/) implemented [a](/post/a/) [draft](/post/draft/) [to](/post/to/) [increase](/post/increase/) [its](/post/its/) [military](/post/military/) forces."
-  - 设计图；蓝图：如 "[The](/post/the/) architect presented [the](/post/the/) building's [draft](/post/draft/) [to](/post/to/) [the](/post/the/) client."
+  - 初稿；草稿：如 "[He](/zh/post/he/) submitted [his](/zh/post/his/) [first](/zh/post/first/) [draft](/zh/post/draft/) [of](/zh/post/of/) [the](/zh/post/the/) [essay](/zh/post/essay/)."
+  - 征兵；征召：如 "[The](/zh/post/the/) [country](/zh/post/country/) implemented [a](/zh/post/a/) [draft](/zh/post/draft/) [to](/zh/post/to/) [increase](/zh/post/increase/) [its](/zh/post/its/) [military](/zh/post/military/) forces."
+  - 设计图；蓝图：如 "[The](/zh/post/the/) architect presented [the](/zh/post/the/) building's [draft](/zh/post/draft/) [to](/zh/post/to/) [the](/zh/post/the/) client."
 
 - **动词**:
-  - 草拟；起草：如 "[She](/post/she/) was tasked [with](/post/with/) drafting [the](/post/the/) [new](/post/new/) [company](/post/company/) [policy](/post/policy/)."
-  - 选中（运动员）：如 "[He](/post/he/) was drafted [by](/post/by/) [the](/post/the/) Chicago Bulls [in](/post/in/) [the](/post/the/) [first](/post/first/) [round](/post/round/) [of](/post/of/) [the](/post/the/) NBA [draft](/post/draft/)."
+  - 草拟；起草：如 "[She](/zh/post/she/) was tasked [with](/zh/post/with/) drafting [the](/zh/post/the/) [new](/zh/post/new/) [company](/zh/post/company/) [policy](/zh/post/policy/)."
+  - 选中（运动员）：如 "[He](/zh/post/he/) was drafted [by](/zh/post/by/) [the](/zh/post/the/) Chicago Bulls [in](/zh/post/in/) [the](/zh/post/the/) [first](/zh/post/first/) [round](/zh/post/round/) [of](/zh/post/of/) [the](/zh/post/the/) NBA [draft](/zh/post/draft/)."
 
 ## 短语
-- "[draft](/post/draft/) [a](/post/a/) [letter](/post/letter/)" 意思是写一封信的初稿。
-- "[draft](/post/draft/) [pick](/post/pick/)" 在体育中指的是在选秀中选择的运动员。
+- "[draft](/zh/post/draft/) [a](/zh/post/a/) [letter](/zh/post/letter/)" 意思是写一封信的初稿。
+- "[draft](/zh/post/draft/) [pick](/zh/post/pick/)" 在体育中指的是在选秀中选择的运动员。
 
 ## 例句
-- 名词: "[The](/post/the/) [editor](/post/editor/) went [over](/post/over/) [the](/post/the/) [draft](/post/draft/) [for](/post/for/) [any](/post/any/) errors [before](/post/before/) submitting [it](/post/it/)."
-- 动词: "[The](/post/the/) team's [coach](/post/coach/) was [busy](/post/busy/) drafting strategies [for](/post/for/) [the](/post/the/) upcoming [game](/post/game/)."
-- 连词: "[After](/post/after/) finishing [his](/post/his/) [draft](/post/draft/), [he](/post/he/) sent [it](/post/it/) [to](/post/to/) [his](/post/his/) colleagues [for](/post/for/) [review](/post/review/)."
+- 名词: "[The](/zh/post/the/) [editor](/zh/post/editor/) went [over](/zh/post/over/) [the](/zh/post/the/) [draft](/zh/post/draft/) [for](/zh/post/for/) [any](/zh/post/any/) errors [before](/zh/post/before/) submitting [it](/zh/post/it/)."
+- 动词: "[The](/zh/post/the/) team's [coach](/zh/post/coach/) was [busy](/zh/post/busy/) drafting strategies [for](/zh/post/for/) [the](/zh/post/the/) upcoming [game](/zh/post/game/)."
+- 连词: "[After](/zh/post/after/) finishing [his](/zh/post/his/) [draft](/zh/post/draft/), [he](/zh/post/he/) sent [it](/zh/post/it/) [to](/zh/post/to/) [his](/zh/post/his/) colleagues [for](/zh/post/for/) [review](/zh/post/review/)."
 
 ## 同义词
-- [Sketch](/post/sketch/)
-- [Outline](/post/outline/)
-- [Plan](/post/plan/)
-- [Proposal](/post/proposal/)
+- [Sketch](/zh/post/sketch/)
+- [Outline](/zh/post/outline/)
+- [Plan](/zh/post/plan/)
+- [Proposal](/zh/post/proposal/)
 - Blueprint

@@ -7,31 +7,31 @@ description = '[riˈkɔːl] vt.回想；叫回；收回'
 keywords = ['ai words', 'recall']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈkɔːl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Recall](/en/post/recall/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) remembering [something](/en/post/something/) [previously](/en/post/previously/) [learned](/en/post/learned/) [or](/en/post/or/) experienced, [especially](/en/post/especially/) [after](/en/post/after/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [professor](/en/post/professor/) asked [for](/en/post/for/) [a](/en/post/a/) [student](/en/post/student/) [to](/en/post/to/) [recall](/en/post/recall/) [the](/en/post/the/) [formula](/en/post/formula/) [from](/en/post/from/) [the](/en/post/the/) [previous](/en/post/previous/) [lecture](/en/post/lecture/)."
-- **[Product](/en/post/product/) [recall](/en/post/recall/)**: An [action](/en/post/action/) taken [by](/en/post/by/) [a](/en/post/a/) [company](/en/post/company/) [to](/en/post/to/) [remove](/en/post/remove/) [a](/en/post/a/) [product](/en/post/product/) [from](/en/post/from/) [sale](/en/post/sale/) [due](/en/post/due/) [to](/en/post/to/) [safety](/en/post/safety/) concerns [or](/en/post/or/) defects. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [car](/en/post/car/) [manufacturer](/en/post/manufacturer/) issued [a](/en/post/a/) [recall](/en/post/recall/) [on](/en/post/on/) [all](/en/post/all/) affected models [due](/en/post/due/) [to](/en/post/to/) [a](/en/post/a/) [potential](/en/post/potential/) braking [issue](/en/post/issue/)."
+### [Noun](/post/noun/)
+- **[Recall](/post/recall/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) remembering [something](/post/something/) [previously](/post/previously/) [learned](/post/learned/) [or](/post/or/) experienced, [especially](/post/especially/) [after](/post/after/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [professor](/post/professor/) asked [for](/post/for/) [a](/post/a/) [student](/post/student/) [to](/post/to/) [recall](/post/recall/) [the](/post/the/) [formula](/post/formula/) [from](/post/from/) [the](/post/the/) [previous](/post/previous/) [lecture](/post/lecture/)."
+- **[Product](/post/product/) [recall](/post/recall/)**: An [action](/post/action/) taken [by](/post/by/) [a](/post/a/) [company](/post/company/) [to](/post/to/) [remove](/post/remove/) [a](/post/a/) [product](/post/product/) [from](/post/from/) [sale](/post/sale/) [due](/post/due/) [to](/post/to/) [safety](/post/safety/) concerns [or](/post/or/) defects. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [car](/post/car/) [manufacturer](/post/manufacturer/) issued [a](/post/a/) [recall](/post/recall/) [on](/post/on/) [all](/post/all/) affected models [due](/post/due/) [to](/post/to/) [a](/post/a/) [potential](/post/potential/) braking [issue](/post/issue/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [recall](/en/post/recall/)**: [To](/en/post/to/) [remember](/en/post/remember/) [or](/en/post/or/) [bring](/en/post/bring/) [back](/en/post/back/) [to](/en/post/to/) [mind](/en/post/mind/) [something](/en/post/something/) [that](/en/post/that/) was [previously](/en/post/previously/) known [or](/en/post/or/) experienced. [For](/en/post/for/) [example](/en/post/example/): "I tried [to](/en/post/to/) [recall](/en/post/recall/) [the](/en/post/the/) [name](/en/post/name/) [of](/en/post/of/) [the](/en/post/the/) [author](/en/post/author/), [but](/en/post/but/) [it](/en/post/it/) escaped [my](/en/post/my/) [memory](/en/post/memory/)."
-- **Automotive [recall](/en/post/recall/)**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) returning [a](/en/post/a/) [vehicle](/en/post/vehicle/) [to](/en/post/to/) [a](/en/post/a/) dealer [for](/en/post/for/) repairs [or](/en/post/or/) upgrades, [as](/en/post/as/) [per](/en/post/per/) [a](/en/post/a/) manufacturer's directive. [For](/en/post/for/) [example](/en/post/example/): "Drivers were notified [to](/en/post/to/) [recall](/en/post/recall/) [their](/en/post/their/) cars [for](/en/post/for/) [a](/en/post/a/) software update."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [recall](/post/recall/)**: [To](/post/to/) [remember](/post/remember/) [or](/post/or/) [bring](/post/bring/) [back](/post/back/) [to](/post/to/) [mind](/post/mind/) [something](/post/something/) [that](/post/that/) was [previously](/post/previously/) known [or](/post/or/) experienced. [For](/post/for/) [example](/post/example/): "I tried [to](/post/to/) [recall](/post/recall/) [the](/post/the/) [name](/post/name/) [of](/post/of/) [the](/post/the/) [author](/post/author/), [but](/post/but/) [it](/post/it/) escaped [my](/post/my/) [memory](/post/memory/)."
+- **Automotive [recall](/post/recall/)**: [The](/post/the/) [process](/post/process/) [of](/post/of/) returning [a](/post/a/) [vehicle](/post/vehicle/) [to](/post/to/) [a](/post/a/) dealer [for](/post/for/) repairs [or](/post/or/) upgrades, [as](/post/as/) [per](/post/per/) [a](/post/a/) manufacturer's directive. [For](/post/for/) [example](/post/example/): "Drivers were notified [to](/post/to/) [recall](/post/recall/) [their](/post/their/) cars [for](/post/for/) [a](/post/a/) software update."
 
 ## Phrases
-- "[Recall](/en/post/recall/) [information](/en/post/information/)" [means](/en/post/means/) [to](/en/post/to/) retrieve [knowledge](/en/post/knowledge/) [from](/en/post/from/) one's [memory](/en/post/memory/).
-- "[Recall](/en/post/recall/) [vote](/en/post/vote/)" refers [to](/en/post/to/) [a](/en/post/a/) [public](/en/post/public/) [vote](/en/post/vote/) [to](/en/post/to/) reconsider [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [election](/en/post/election/) [result](/en/post/result/).
-- "[Memory](/en/post/memory/) [recall](/en/post/recall/) exercises" are activities designed [to](/en/post/to/) [improve](/en/post/improve/) [memory](/en/post/memory/).
+- "[Recall](/post/recall/) [information](/post/information/)" [means](/post/means/) [to](/post/to/) retrieve [knowledge](/post/knowledge/) [from](/post/from/) one's [memory](/post/memory/).
+- "[Recall](/post/recall/) [vote](/post/vote/)" refers [to](/post/to/) [a](/post/a/) [public](/post/public/) [vote](/post/vote/) [to](/post/to/) reconsider [a](/post/a/) [decision](/post/decision/) [or](/post/or/) [election](/post/election/) [result](/post/result/).
+- "[Memory](/post/memory/) [recall](/post/recall/) exercises" are activities designed [to](/post/to/) [improve](/post/improve/) [memory](/post/memory/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) had [a](/en/post/a/) [difficult](/en/post/difficult/) [time](/en/post/time/) recalling [the](/en/post/the/) details [of](/en/post/of/) [her](/en/post/her/) [dream](/en/post/dream/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) historian recalled vividly [the](/en/post/the/) events [of](/en/post/of/) [World](/en/post/world/) [War](/en/post/war/) II."
-- **Automotive [recall](/en/post/recall/)**: "Customers were asked [to](/en/post/to/) [recall](/en/post/recall/) [their](/en/post/their/) [faulty](/en/post/faulty/) batteries [for](/en/post/for/) [a](/en/post/a/) [free](/en/post/free/) replacement."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) had [a](/post/a/) [difficult](/post/difficult/) [time](/post/time/) recalling [the](/post/the/) details [of](/post/of/) [her](/post/her/) [dream](/post/dream/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) historian recalled vividly [the](/post/the/) events [of](/post/of/) [World](/post/world/) [War](/post/war/) II."
+- **Automotive [recall](/post/recall/)**: "Customers were asked [to](/post/to/) [recall](/post/recall/) [their](/post/their/) [faulty](/post/faulty/) batteries [for](/post/for/) [a](/post/a/) [free](/post/free/) replacement."
 
 ## Synonyms
-- [Remember](/en/post/remember/)
+- [Remember](/post/remember/)
 - Retrieve
-- [Call](/en/post/call/) [to](/en/post/to/) [mind](/en/post/mind/)
-- [Recollect](/en/post/recollect/)
-- Recollective [memory](/en/post/memory/)
+- [Call](/post/call/) [to](/post/to/) [mind](/post/mind/)
+- [Recollect](/post/recollect/)
+- Recollective [memory](/post/memory/)

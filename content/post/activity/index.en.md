@@ -7,41 +7,41 @@ description = '[ækˈtiviti] n.活动；活力；行动'
 keywords = ['ai words', 'activity']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ækˈtɪvəti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Activity](/en/post/activity/)**: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [fact](/en/post/fact/) [of](/en/post/of/) [being](/en/post/being/) [active](/en/post/active/); engagement [in](/en/post/in/) [some](/en/post/some/) [physical](/en/post/physical/) [or](/en/post/or/) [mental](/en/post/mental/) [task](/en/post/task/) [or](/en/post/or/) [process](/en/post/process/). [Example](/en/post/example/): "[She](/en/post/she/) enjoys [various](/en/post/various/) [outdoor](/en/post/outdoor/) activities [on](/en/post/on/) weekends."
-2. **[Event](/en/post/event/)**: [A](/en/post/a/) [particular](/en/post/particular/) happening [or](/en/post/or/) [occurrence](/en/post/occurrence/), [often](/en/post/often/) involving [people](/en/post/people/) engaged [in](/en/post/in/) [some](/en/post/some/) [action](/en/post/action/). [Example](/en/post/example/): "[The](/en/post/the/) [charity](/en/post/charity/) [event](/en/post/event/) raised funds [for](/en/post/for/) [local](/en/post/local/) schools."
-3. **[Program](/en/post/program/)**: [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) actions [or](/en/post/or/) tasks performed [by](/en/post/by/) [a](/en/post/a/) [person](/en/post/person/), [organization](/en/post/organization/), [or](/en/post/or/) [system](/en/post/system/). [Example](/en/post/example/): "[The](/en/post/the/) school's after-school [activity](/en/post/activity/) [program](/en/post/program/) includes sports [and](/en/post/and/) arts clubs."
+### [Noun](/post/noun/)
+1. **[Activity](/post/activity/)**: [The](/post/the/) [state](/post/state/) [or](/post/or/) [fact](/post/fact/) [of](/post/of/) [being](/post/being/) [active](/post/active/); engagement [in](/post/in/) [some](/post/some/) [physical](/post/physical/) [or](/post/or/) [mental](/post/mental/) [task](/post/task/) [or](/post/or/) [process](/post/process/). [Example](/post/example/): "[She](/post/she/) enjoys [various](/post/various/) [outdoor](/post/outdoor/) activities [on](/post/on/) weekends."
+2. **[Event](/post/event/)**: [A](/post/a/) [particular](/post/particular/) happening [or](/post/or/) [occurrence](/post/occurrence/), [often](/post/often/) involving [people](/post/people/) engaged [in](/post/in/) [some](/post/some/) [action](/post/action/). [Example](/post/example/): "[The](/post/the/) [charity](/post/charity/) [event](/post/event/) raised funds [for](/post/for/) [local](/post/local/) schools."
+3. **[Program](/post/program/)**: [A](/post/a/) [series](/post/series/) [of](/post/of/) actions [or](/post/or/) tasks performed [by](/post/by/) [a](/post/a/) [person](/post/person/), [organization](/post/organization/), [or](/post/or/) [system](/post/system/). [Example](/post/example/): "[The](/post/the/) school's after-school [activity](/post/activity/) [program](/post/program/) includes sports [and](/post/and/) arts clubs."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/)**: [Participate](/en/post/participate/) [or](/en/post/or/) [be](/en/post/be/) involved [in](/en/post/in/) an [activity](/en/post/activity/) [or](/en/post/or/) [task](/en/post/task/). [Example](/en/post/example/): "Students actively [engage](/en/post/engage/) [in](/en/post/in/) discussions [during](/en/post/during/) [class](/en/post/class/)."
-2. **[To](/en/post/to/) [organize](/en/post/organize/)**: [Plan](/en/post/plan/) [and](/en/post/and/) [coordinate](/en/post/coordinate/) events [or](/en/post/or/) activities. [Example](/en/post/example/): "They're planning an [activity](/en/post/activity/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [their](/en/post/their/) anniversary."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [engage](/post/engage/) [in](/post/in/)**: [Participate](/post/participate/) [or](/post/or/) [be](/post/be/) involved [in](/post/in/) an [activity](/post/activity/) [or](/post/or/) [task](/post/task/). [Example](/post/example/): "Students actively [engage](/post/engage/) [in](/post/in/) discussions [during](/post/during/) [class](/post/class/)."
+2. **[To](/post/to/) [organize](/post/organize/)**: [Plan](/post/plan/) [and](/post/and/) [coordinate](/post/coordinate/) events [or](/post/or/) activities. [Example](/post/example/): "They're planning an [activity](/post/activity/) [to](/post/to/) [celebrate](/post/celebrate/) [their](/post/their/) anniversary."
 
-### [Adjective](/en/post/adjective/)
-1. **[Active](/en/post/active/)**: Engaged [in](/en/post/in/) [work](/en/post/work/) [or](/en/post/or/) [movement](/en/post/movement/); [dynamic](/en/post/dynamic/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) encourages an [active](/en/post/active/) lifestyle [among](/en/post/among/) [its](/en/post/its/) employees."
-2. **[Dynamic](/en/post/dynamic/)**: Characterized [by](/en/post/by/) [constant](/en/post/constant/) [change](/en/post/change/), [energy](/en/post/energy/), [or](/en/post/or/) [progress](/en/post/progress/). [Example](/en/post/example/): "[The](/en/post/the/) [classroom](/en/post/classroom/) [atmosphere](/en/post/atmosphere/) was [highly](/en/post/highly/) [dynamic](/en/post/dynamic/)."
+### [Adjective](/post/adjective/)
+1. **[Active](/post/active/)**: Engaged [in](/post/in/) [work](/post/work/) [or](/post/or/) [movement](/post/movement/); [dynamic](/post/dynamic/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) encourages an [active](/post/active/) lifestyle [among](/post/among/) [its](/post/its/) employees."
+2. **[Dynamic](/post/dynamic/)**: Characterized [by](/post/by/) [constant](/post/constant/) [change](/post/change/), [energy](/post/energy/), [or](/post/or/) [progress](/post/progress/). [Example](/post/example/): "[The](/post/the/) [classroom](/post/classroom/) [atmosphere](/post/atmosphere/) was [highly](/post/highly/) [dynamic](/post/dynamic/)."
 
 ## Phrases
-- "[Participate](/en/post/participate/) [in](/en/post/in/) an [activity](/en/post/activity/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [event](/en/post/event/).
-- "[Lead](/en/post/lead/) an [active](/en/post/active/) lifestyle" implies engaging [in](/en/post/in/) [regular](/en/post/regular/) [physical](/en/post/physical/) [and](/en/post/and/) [mental](/en/post/mental/) pursuits.
-- "[Activity](/en/post/activity/) [break](/en/post/break/)" refers [to](/en/post/to/) [a](/en/post/a/) [short](/en/post/short/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [where](/en/post/where/) [one](/en/post/one/) takes [a](/en/post/a/) [break](/en/post/break/) [from](/en/post/from/) [work](/en/post/work/) [to](/en/post/to/) [do](/en/post/do/) an [activity](/en/post/activity/).
+- "[Participate](/post/participate/) [in](/post/in/) an [activity](/post/activity/)" [means](/post/means/) [to](/post/to/) [take](/post/take/) [part](/post/part/) [in](/post/in/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [event](/post/event/).
+- "[Lead](/post/lead/) an [active](/post/active/) lifestyle" implies engaging [in](/post/in/) [regular](/post/regular/) [physical](/post/physical/) [and](/post/and/) [mental](/post/mental/) pursuits.
+- "[Activity](/post/activity/) [break](/post/break/)" refers [to](/post/to/) [a](/post/a/) [short](/post/short/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [where](/post/where/) [one](/post/one/) takes [a](/post/a/) [break](/post/break/) [from](/post/from/) [work](/post/work/) [to](/post/to/) [do](/post/do/) an [activity](/post/activity/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were involved [in](/en/post/in/) [various](/en/post/various/) [outdoor](/en/post/outdoor/) activities [at](/en/post/at/) [the](/en/post/the/) [camp](/en/post/camp/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [team](/en/post/team/) [leader](/en/post/leader/) organized [several](/en/post/several/) activities [to](/en/post/to/) boost [team](/en/post/team/) morale."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [active](/en/post/active/) [role](/en/post/role/) [in](/en/post/in/) [the](/en/post/the/) [community](/en/post/community/) earned [her](/en/post/her/) [respect](/en/post/respect/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were involved [in](/post/in/) [various](/post/various/) [outdoor](/post/outdoor/) activities [at](/post/at/) [the](/post/the/) [camp](/post/camp/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [team](/post/team/) [leader](/post/leader/) organized [several](/post/several/) activities [to](/post/to/) boost [team](/post/team/) morale."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [active](/post/active/) [role](/post/role/) [in](/post/in/) [the](/post/the/) [community](/post/community/) earned [her](/post/her/) [respect](/post/respect/)."
 
 ## Synonyms
 - Engagement
 - Participation
 - Involvement
-- [Action](/en/post/action/)
-- [Motion](/en/post/motion/)
-- [Exercise](/en/post/exercise/)
+- [Action](/post/action/)
+- [Motion](/post/motion/)
+- [Exercise](/post/exercise/)
 - Recreation
-- [Pastime](/en/post/pastime/)
-- [Pursuit](/en/post/pursuit/)
+- [Pastime](/post/pastime/)
+- [Pursuit](/post/pursuit/)
 - Initiative

@@ -7,25 +7,25 @@ description = '[ɔː(r)] n.矿，矿石，矿砂'
 keywords = ['ai words', 'ore']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɔːr/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [naturally](/en/post/naturally/) occurring [solid](/en/post/solid/) [material](/en/post/material/) [from](/en/post/from/) [which](/en/post/which/) [a](/en/post/a/) [metal](/en/post/metal/) [or](/en/post/or/) [valuable](/en/post/valuable/) [mineral](/en/post/mineral/) [can](/en/post/can/) [be](/en/post/be/) extracted profitably, typically [by](/en/post/by/) smelting. _Example_: "[The](/en/post/the/) [mine](/en/post/mine/) was [rich](/en/post/rich/) [in](/en/post/in/) [copper](/en/post/copper/) [ore](/en/post/ore/)."
-- **[Noun](/en/post/noun/) ([rare](/en/post/rare/))**: [The](/en/post/the/) [raw](/en/post/raw/) [material](/en/post/material/) [from](/en/post/from/) [which](/en/post/which/) [a](/en/post/a/) [particular](/en/post/particular/) [product](/en/post/product/) is made; [a](/en/post/a/) [source](/en/post/source/) [or](/en/post/or/) [basis](/en/post/basis/). _Example_: "[Petroleum](/en/post/petroleum/) is [the](/en/post/the/) [ore](/en/post/ore/) [of](/en/post/of/) [many](/en/post/many/) [chemical](/en/post/chemical/) products."
+- **[Noun](/post/noun/)**: [A](/post/a/) [naturally](/post/naturally/) occurring [solid](/post/solid/) [material](/post/material/) [from](/post/from/) [which](/post/which/) [a](/post/a/) [metal](/post/metal/) [or](/post/or/) [valuable](/post/valuable/) [mineral](/post/mineral/) [can](/post/can/) [be](/post/be/) extracted profitably, typically [by](/post/by/) smelting. _Example_: "[The](/post/the/) [mine](/post/mine/) was [rich](/post/rich/) [in](/post/in/) [copper](/post/copper/) [ore](/post/ore/)."
+- **[Noun](/post/noun/) ([rare](/post/rare/))**: [The](/post/the/) [raw](/post/raw/) [material](/post/material/) [from](/post/from/) [which](/post/which/) [a](/post/a/) [particular](/post/particular/) [product](/post/product/) is made; [a](/post/a/) [source](/post/source/) [or](/post/or/) [basis](/post/basis/). _Example_: "[Petroleum](/post/petroleum/) is [the](/post/the/) [ore](/post/ore/) [of](/post/of/) [many](/post/many/) [chemical](/post/chemical/) products."
 
 ## Phrases
-- "Vein [of](/en/post/of/) [ore](/en/post/ore/)" refers [to](/en/post/to/) [a](/en/post/a/) [deposit](/en/post/deposit/) [of](/en/post/of/) [ore](/en/post/ore/) [in](/en/post/in/) [the](/en/post/the/) earth's [crust](/en/post/crust/).
-- "Extract [ore](/en/post/ore/)" describes [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) mining [and](/en/post/and/) removing [the](/en/post/the/) [ore](/en/post/ore/) [from](/en/post/from/) [the](/en/post/the/) [ground](/en/post/ground/) [for](/en/post/for/) processing.
-- "[Ore](/en/post/ore/) deposits" are areas [where](/en/post/where/) minerals [have](/en/post/have/) accumulated [and](/en/post/and/) [can](/en/post/can/) [be](/en/post/be/) economically extracted.
+- "Vein [of](/post/of/) [ore](/post/ore/)" refers [to](/post/to/) [a](/post/a/) [deposit](/post/deposit/) [of](/post/of/) [ore](/post/ore/) [in](/post/in/) [the](/post/the/) earth's [crust](/post/crust/).
+- "Extract [ore](/post/ore/)" describes [the](/post/the/) [process](/post/process/) [of](/post/of/) mining [and](/post/and/) removing [the](/post/the/) [ore](/post/ore/) [from](/post/from/) [the](/post/the/) [ground](/post/ground/) [for](/post/for/) processing.
+- "[Ore](/post/ore/) deposits" are areas [where](/post/where/) minerals [have](/post/have/) accumulated [and](/post/and/) [can](/post/can/) [be](/post/be/) economically extracted.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Miners were excavating [large](/en/post/large/) quantities [of](/en/post/of/) [gold](/en/post/gold/) [ore](/en/post/ore/) [from](/en/post/from/) [the](/en/post/the/) [recently](/en/post/recently/) discovered [mine](/en/post/mine/)."
-- _Rare usage_ : "[Coal](/en/post/coal/) is [the](/en/post/the/) [ore](/en/post/ore/) [that](/en/post/that/) supplies [energy](/en/post/energy/) [for](/en/post/for/) [most](/en/post/most/) [power](/en/post/power/) plants [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Miners were excavating [large](/post/large/) quantities [of](/post/of/) [gold](/post/gold/) [ore](/post/ore/) [from](/post/from/) [the](/post/the/) [recently](/post/recently/) discovered [mine](/post/mine/)."
+- _Rare usage_ : "[Coal](/post/coal/) is [the](/post/the/) [ore](/post/ore/) [that](/post/that/) supplies [energy](/post/energy/) [for](/post/for/) [most](/post/most/) [power](/post/power/) plants [around](/post/around/) [the](/post/the/) [world](/post/world/)."
 
 ## Synonyms
-- [Mineral](/en/post/mineral/) [deposit](/en/post/deposit/)
-- [Rock](/en/post/rock/) containing metals
-- [Ore](/en/post/ore/) [body](/en/post/body/)
-- [Raw](/en/post/raw/) [material](/en/post/material/)
-- Commodity ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) mining)
+- [Mineral](/post/mineral/) [deposit](/post/deposit/)
+- [Rock](/post/rock/) containing metals
+- [Ore](/post/ore/) [body](/post/body/)
+- [Raw](/post/raw/) [material](/post/material/)
+- Commodity ([in](/post/in/) [the](/post/the/) context [of](/post/of/) mining)

@@ -7,34 +7,34 @@ description = '[leis] n.鞋带，系带；花边'
 keywords = ['ai words', 'lace']
 +++
 
-## [Word](/en/post/word/): [Lace](/en/post/lace/)
+## [Word](/post/word/): [Lace](/post/lace/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /leɪs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [delicate](/en/post/delicate/) [fabric](/en/post/fabric/) made [by](/en/post/by/) looping, twisting, [or](/en/post/or/) knitting [thread](/en/post/thread/) [in](/en/post/in/) an [open](/en/post/open/) [pattern](/en/post/pattern/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) trimming [or](/en/post/or/) fastening garments. [Example](/en/post/example/): "[She](/en/post/she/) tied [the](/en/post/the/) laces [on](/en/post/on/) [her](/en/post/her/) running shoes."
-- **[Verb](/en/post/verb/)**: 
-  - [To](/en/post/to/) [fasten](/en/post/fasten/), [secure](/en/post/secure/), [or](/en/post/or/) tighten [with](/en/post/with/) [a](/en/post/a/) [lace](/en/post/lace/), [especially](/en/post/especially/) referring [to](/en/post/to/) shoes. [Example](/en/post/example/): "[He](/en/post/he/) laced [up](/en/post/up/) [his](/en/post/his/) boots [before](/en/post/before/) [heading](/en/post/heading/) [out](/en/post/out/)."
-  - [To](/en/post/to/) [weave](/en/post/weave/), intertwine, [or](/en/post/or/) [decorate](/en/post/decorate/) [something](/en/post/something/) intricately [with](/en/post/with/) [a](/en/post/a/) [lace](/en/post/lace/) [or](/en/post/or/) [similar](/en/post/similar/) [material](/en/post/material/). [Example](/en/post/example/): "[The](/en/post/the/) tablecloth was beautifully laced [with](/en/post/with/) [golden](/en/post/golden/) embroidery."
-  - [To](/en/post/to/) [add](/en/post/add/) [a](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [of](/en/post/of/) [a](/en/post/a/) [substance](/en/post/substance/), [usually](/en/post/usually/) [to](/en/post/to/) enhance flavor [or](/en/post/or/) [strength](/en/post/strength/) (e.g., [alcohol](/en/post/alcohol/)). [Example](/en/post/example/): "[He](/en/post/he/) laced [his](/en/post/his/) [coffee](/en/post/coffee/) [with](/en/post/with/) [a](/en/post/a/) [dash](/en/post/dash/) [of](/en/post/of/) whiskey."
-  - [In](/en/post/in/) sports, [to](/en/post/to/) [hit](/en/post/hit/) [something](/en/post/something/) [with](/en/post/with/) [great](/en/post/great/) [force](/en/post/force/) [or](/en/post/or/) [speed](/en/post/speed/). [Example](/en/post/example/): "[He](/en/post/he/) laced [the](/en/post/the/) [ball](/en/post/ball/) [across](/en/post/across/) [the](/en/post/the/) [field](/en/post/field/) [for](/en/post/for/) [a](/en/post/a/) [home](/en/post/home/) [run](/en/post/run/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [delicate](/post/delicate/) [fabric](/post/fabric/) made [by](/post/by/) looping, twisting, [or](/post/or/) knitting [thread](/post/thread/) [in](/post/in/) an [open](/post/open/) [pattern](/post/pattern/), [often](/post/often/) [used](/post/used/) [for](/post/for/) trimming [or](/post/or/) fastening garments. [Example](/post/example/): "[She](/post/she/) tied [the](/post/the/) laces [on](/post/on/) [her](/post/her/) running shoes."
+- **[Verb](/post/verb/)**: 
+  - [To](/post/to/) [fasten](/post/fasten/), [secure](/post/secure/), [or](/post/or/) tighten [with](/post/with/) [a](/post/a/) [lace](/post/lace/), [especially](/post/especially/) referring [to](/post/to/) shoes. [Example](/post/example/): "[He](/post/he/) laced [up](/post/up/) [his](/post/his/) boots [before](/post/before/) [heading](/post/heading/) [out](/post/out/)."
+  - [To](/post/to/) [weave](/post/weave/), intertwine, [or](/post/or/) [decorate](/post/decorate/) [something](/post/something/) intricately [with](/post/with/) [a](/post/a/) [lace](/post/lace/) [or](/post/or/) [similar](/post/similar/) [material](/post/material/). [Example](/post/example/): "[The](/post/the/) tablecloth was beautifully laced [with](/post/with/) [golden](/post/golden/) embroidery."
+  - [To](/post/to/) [add](/post/add/) [a](/post/a/) [small](/post/small/) [amount](/post/amount/) [of](/post/of/) [a](/post/a/) [substance](/post/substance/), [usually](/post/usually/) [to](/post/to/) enhance flavor [or](/post/or/) [strength](/post/strength/) (e.g., [alcohol](/post/alcohol/)). [Example](/post/example/): "[He](/post/he/) laced [his](/post/his/) [coffee](/post/coffee/) [with](/post/with/) [a](/post/a/) [dash](/post/dash/) [of](/post/of/) whiskey."
+  - [In](/post/in/) sports, [to](/post/to/) [hit](/post/hit/) [something](/post/something/) [with](/post/with/) [great](/post/great/) [force](/post/force/) [or](/post/or/) [speed](/post/speed/). [Example](/post/example/): "[He](/post/he/) laced [the](/post/the/) [ball](/post/ball/) [across](/post/across/) [the](/post/the/) [field](/post/field/) [for](/post/for/) [a](/post/a/) [home](/post/home/) [run](/post/run/)."
 
 ## Phrases
-- "[Lace](/en/post/lace/) [up](/en/post/up/) [your](/en/post/your/) shoes": [To](/en/post/to/) [fasten](/en/post/fasten/) one's shoes using laces.
-- "[Lace](/en/post/lace/) [into](/en/post/into/) [[someone](/en/post/someone/)/[something](/en/post/something/)]": [To](/en/post/to/) [attack](/en/post/attack/) [or](/en/post/or/) [criticize](/en/post/criticize/) harshly. [Example](/en/post/example/): "[She](/en/post/she/) [really](/en/post/really/) laced [into](/en/post/into/) [him](/en/post/him/) [for](/en/post/for/) [being](/en/post/being/) [late](/en/post/late/) [again](/en/post/again/)."
-- "Laced [with](/en/post/with/) [[substance](/en/post/substance/)]": Containing [or](/en/post/or/) mixed [with](/en/post/with/) [something](/en/post/something/) [else](/en/post/else/), [often](/en/post/often/) [in](/en/post/in/) [small](/en/post/small/) amounts. [Example](/en/post/example/): "[Her](/en/post/her/) [drink](/en/post/drink/) was laced [with](/en/post/with/) [a](/en/post/a/) [hint](/en/post/hint/) [of](/en/post/of/) [lemon](/en/post/lemon/)."
+- "[Lace](/post/lace/) [up](/post/up/) [your](/post/your/) shoes": [To](/post/to/) [fasten](/post/fasten/) one's shoes using laces.
+- "[Lace](/post/lace/) [into](/post/into/) [[someone](/post/someone/)/[something](/post/something/)]": [To](/post/to/) [attack](/post/attack/) [or](/post/or/) [criticize](/post/criticize/) harshly. [Example](/post/example/): "[She](/post/she/) [really](/post/really/) laced [into](/post/into/) [him](/post/him/) [for](/post/for/) [being](/post/being/) [late](/post/late/) [again](/post/again/)."
+- "Laced [with](/post/with/) [[substance](/post/substance/)]": Containing [or](/post/or/) mixed [with](/post/with/) [something](/post/something/) [else](/post/else/), [often](/post/often/) [in](/post/in/) [small](/post/small/) amounts. [Example](/post/example/): "[Her](/post/her/) [drink](/post/drink/) was laced [with](/post/with/) [a](/post/a/) [hint](/post/hint/) [of](/post/of/) [lemon](/post/lemon/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [wedding](/en/post/wedding/) [dress](/en/post/dress/) featured intricate [lace](/en/post/lace/) detailing [along](/en/post/along/) [the](/en/post/the/) bodice."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) carefully laced [the](/en/post/the/) corset [around](/en/post/around/) [her](/en/post/her/) [waist](/en/post/waist/)."
-- **[Verb](/en/post/verb/) (altered [meaning](/en/post/meaning/))**: "[The](/en/post/the/) batter laced [the](/en/post/the/) [ball](/en/post/ball/) [into](/en/post/into/) [the](/en/post/the/) [gap](/en/post/gap/) [for](/en/post/for/) [a](/en/post/a/) [double](/en/post/double/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [wedding](/post/wedding/) [dress](/post/dress/) featured intricate [lace](/post/lace/) detailing [along](/post/along/) [the](/post/the/) bodice."
+- **[Verb](/post/verb/)**: "[He](/post/he/) carefully laced [the](/post/the/) corset [around](/post/around/) [her](/post/her/) [waist](/post/waist/)."
+- **[Verb](/post/verb/) (altered [meaning](/post/meaning/))**: "[The](/post/the/) batter laced [the](/post/the/) [ball](/post/ball/) [into](/post/into/) [the](/post/the/) [gap](/post/gap/) [for](/post/for/) [a](/post/a/) [double](/post/double/)."
 
 ## Synonyms
-- [Thread](/en/post/thread/)
-- [Trim](/en/post/trim/)
-- [Fasten](/en/post/fasten/)
-- [Secure](/en/post/secure/)
-- Embroider ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [to](/en/post/to/) [decorate](/en/post/decorate/))
-- [Add](/en/post/add/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) adding substances [like](/en/post/like/) [alcohol](/en/post/alcohol/))
-- Braid ([for](/en/post/for/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) weaving threads intricately)
+- [Thread](/post/thread/)
+- [Trim](/post/trim/)
+- [Fasten](/post/fasten/)
+- [Secure](/post/secure/)
+- Embroider ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [to](/post/to/) [decorate](/post/decorate/))
+- [Add](/post/add/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) adding substances [like](/post/like/) [alcohol](/post/alcohol/))
+- Braid ([for](/post/for/) [the](/post/the/) [action](/post/action/) [of](/post/of/) weaving threads intricately)

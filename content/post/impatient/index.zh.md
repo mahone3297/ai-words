@@ -11,20 +11,20 @@ keywords = ['ai words', 'impatient']
 /ɪmˈpeɪʃnt/
 
 ## 释义
-- **形容词**: 缺乏耐心的；急躁的。例如: "[He](/post/he/) became [impatient](/post/impatient/) waiting [for](/post/for/) [the](/post/the/) [bus](/post/bus/)."
-- **副词**: 不耐烦地。例如: "[She](/post/she/) answered [him](/post/him/) impatiently."
+- **形容词**: 缺乏耐心的；急躁的。例如: "[He](/zh/post/he/) became [impatient](/zh/post/impatient/) waiting [for](/zh/post/for/) [the](/zh/post/the/) [bus](/zh/post/bus/)."
+- **副词**: 不耐烦地。例如: "[She](/zh/post/she/) answered [him](/zh/post/him/) impatiently."
 
 ## 短语
-- "[get](/post/get/) [impatient](/post/impatient/)" 表示变得不耐烦。
-- "[be](/post/be/) [impatient](/post/impatient/) [with](/post/with/) sb." 意味着对某人失去耐心。
+- "[get](/zh/post/get/) [impatient](/zh/post/impatient/)" 表示变得不耐烦。
+- "[be](/zh/post/be/) [impatient](/zh/post/impatient/) [with](/zh/post/with/) sb." 意味着对某人失去耐心。
 
 ## 例句
-- 形容词: "[She](/post/she/) was [so](/post/so/) [impatient](/post/impatient/) [that](/post/that/) [she](/post/she/) couldn't [wait](/post/wait/) [any](/post/any/) longer."
-- 副词: "[He](/post/he/) listened impatiently [to](/post/to/) [her](/post/her/) [long](/post/long/) [story](/post/story/)."
+- 形容词: "[She](/zh/post/she/) was [so](/zh/post/so/) [impatient](/zh/post/impatient/) [that](/zh/post/that/) [she](/zh/post/she/) couldn't [wait](/zh/post/wait/) [any](/zh/post/any/) longer."
+- 副词: "[He](/zh/post/he/) listened impatiently [to](/zh/post/to/) [her](/zh/post/her/) [long](/zh/post/long/) [story](/zh/post/story/)."
 
 ## 同义词
 - Impetuous
-- [Restless](/post/restless/)
-- [Hasty](/post/hasty/)
+- [Restless](/zh/post/restless/)
+- [Hasty](/zh/post/hasty/)
 - Fidgety
-- [Nervous](/post/nervous/)
+- [Nervous](/zh/post/nervous/)

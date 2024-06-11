@@ -7,30 +7,30 @@ description = '[bait] vt.咬，叮，螫；剌穿'
 keywords = ['ai words', 'bite']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /baɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [mouth](/en/post/mouth/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) closed [around](/en/post/around/) [something](/en/post/something/), [used](/en/post/used/) [for](/en/post/for/) biting [or](/en/post/or/) taking [small](/en/post/small/) pieces [of](/en/post/of/) [food](/en/post/food/). [Example](/en/post/example/): "[The](/en/post/the/) [dog](/en/post/dog/) took [a](/en/post/a/) [healthy](/en/post/healthy/) [bite](/en/post/bite/) [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [apple](/en/post/apple/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [quick](/en/post/quick/), [sharp](/en/post/sharp/) nip [or](/en/post/or/) [strike](/en/post/strike/) [with](/en/post/with/) [the](/en/post/the/) teeth, [often](/en/post/often/) causing [pain](/en/post/pain/) [or](/en/post/or/) [damage](/en/post/damage/). [Example](/en/post/example/): "[She](/en/post/she/) [bit](/en/post/bit/) [into](/en/post/into/) [her](/en/post/her/) [sandwich](/en/post/sandwich/) hungrily."
-- **[Verb](/en/post/verb/) (figurative)**: [To](/en/post/to/) [grasp](/en/post/grasp/) [or](/en/post/or/) [hold](/en/post/hold/) [on](/en/post/on/) [to](/en/post/to/) [something](/en/post/something/) firmly [or](/en/post/or/) [with](/en/post/with/) [determination](/en/post/determination/). [Example](/en/post/example/): "[He](/en/post/he/) [bit](/en/post/bit/) [onto](/en/post/onto/) [the](/en/post/the/) [opportunity](/en/post/opportunity/) [with](/en/post/with/) [all](/en/post/all/) [his](/en/post/his/) [might](/en/post/might/)."
-- **[Verb](/en/post/verb/) (idiomatic)**: [To](/en/post/to/) [respond](/en/post/respond/) [to](/en/post/to/) [a](/en/post/a/) [challenge](/en/post/challenge/) [or](/en/post/or/) [criticism](/en/post/criticism/). [Example](/en/post/example/): "Don't [bite](/en/post/bite/) [back](/en/post/back/); [just](/en/post/just/) calmly [explain](/en/post/explain/) [your](/en/post/your/) [point](/en/post/point/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [mouth](/post/mouth/) [that](/post/that/) [can](/post/can/) [be](/post/be/) closed [around](/post/around/) [something](/post/something/), [used](/post/used/) [for](/post/for/) biting [or](/post/or/) taking [small](/post/small/) pieces [of](/post/of/) [food](/post/food/). [Example](/post/example/): "[The](/post/the/) [dog](/post/dog/) took [a](/post/a/) [healthy](/post/healthy/) [bite](/post/bite/) [out](/post/out/) [of](/post/of/) [the](/post/the/) [apple](/post/apple/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [take](/post/take/) [a](/post/a/) [quick](/post/quick/), [sharp](/post/sharp/) nip [or](/post/or/) [strike](/post/strike/) [with](/post/with/) [the](/post/the/) teeth, [often](/post/often/) causing [pain](/post/pain/) [or](/post/or/) [damage](/post/damage/). [Example](/post/example/): "[She](/post/she/) [bit](/post/bit/) [into](/post/into/) [her](/post/her/) [sandwich](/post/sandwich/) hungrily."
+- **[Verb](/post/verb/) (figurative)**: [To](/post/to/) [grasp](/post/grasp/) [or](/post/or/) [hold](/post/hold/) [on](/post/on/) [to](/post/to/) [something](/post/something/) firmly [or](/post/or/) [with](/post/with/) [determination](/post/determination/). [Example](/post/example/): "[He](/post/he/) [bit](/post/bit/) [onto](/post/onto/) [the](/post/the/) [opportunity](/post/opportunity/) [with](/post/with/) [all](/post/all/) [his](/post/his/) [might](/post/might/)."
+- **[Verb](/post/verb/) (idiomatic)**: [To](/post/to/) [respond](/post/respond/) [to](/post/to/) [a](/post/a/) [challenge](/post/challenge/) [or](/post/or/) [criticism](/post/criticism/). [Example](/post/example/): "Don't [bite](/post/bite/) [back](/post/back/); [just](/post/just/) calmly [explain](/post/explain/) [your](/post/your/) [point](/post/point/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [bite](/en/post/bite/) [out](/en/post/out/) [of](/en/post/of/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [small](/en/post/small/) [but](/en/post/but/) [significant](/en/post/significant/) [impact](/en/post/impact/) [or](/en/post/or/) [consume](/en/post/consume/) [a](/en/post/a/) [portion](/en/post/portion/) [of](/en/post/of/) [something](/en/post/something/).
-- "[Bite](/en/post/bite/) [your](/en/post/your/) [tongue](/en/post/tongue/)" is [a](/en/post/a/) warning [to](/en/post/to/) refrain [from](/en/post/from/) saying [something](/en/post/something/) impolite [or](/en/post/or/) unwise.
-- "[Bite](/en/post/bite/) [the](/en/post/the/) [bullet](/en/post/bullet/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [to](/en/post/to/) [endure](/en/post/endure/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/) [with](/en/post/with/) [courage](/en/post/courage/).
+- "[Take](/post/take/) [a](/post/a/) [bite](/post/bite/) [out](/post/out/) [of](/post/of/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [small](/post/small/) [but](/post/but/) [significant](/post/significant/) [impact](/post/impact/) [or](/post/or/) [consume](/post/consume/) [a](/post/a/) [portion](/post/portion/) [of](/post/of/) [something](/post/something/).
+- "[Bite](/post/bite/) [your](/post/your/) [tongue](/post/tongue/)" is [a](/post/a/) warning [to](/post/to/) refrain [from](/post/from/) saying [something](/post/something/) impolite [or](/post/or/) unwise.
+- "[Bite](/post/bite/) [the](/post/the/) [bullet](/post/bullet/)" is [a](/post/a/) colloquial [expression](/post/expression/) [to](/post/to/) [endure](/post/endure/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/) [with](/post/with/) [courage](/post/courage/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) chef sliced [the](/en/post/the/) steak [into](/en/post/into/) [small](/en/post/small/), bite-sized portions."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) winced [as](/en/post/as/) [the](/en/post/the/) dentist's [drill](/en/post/drill/) [bit](/en/post/bit/) [into](/en/post/into/) [her](/en/post/her/) [tooth](/en/post/tooth/)."
-- **[Verb](/en/post/verb/) (figurative)**: "[He](/en/post/he/) [bit](/en/post/bit/) [into](/en/post/into/) [the](/en/post/the/) [project](/en/post/project/), determined [to](/en/post/to/) [finish](/en/post/finish/) [it](/en/post/it/) [on](/en/post/on/) [time](/en/post/time/)."
-- **[Verb](/en/post/verb/) (idiomatic)**: "[When](/en/post/when/) [he](/en/post/he/) was criticized, [he](/en/post/he/) decided [not](/en/post/not/) [to](/en/post/to/) [bite](/en/post/bite/) [back](/en/post/back/) [but](/en/post/but/) [instead](/en/post/instead/) offered constructive [feedback](/en/post/feedback/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) chef sliced [the](/post/the/) steak [into](/post/into/) [small](/post/small/), bite-sized portions."
+- **[Verb](/post/verb/)**: "[She](/post/she/) winced [as](/post/as/) [the](/post/the/) dentist's [drill](/post/drill/) [bit](/post/bit/) [into](/post/into/) [her](/post/her/) [tooth](/post/tooth/)."
+- **[Verb](/post/verb/) (figurative)**: "[He](/post/he/) [bit](/post/bit/) [into](/post/into/) [the](/post/the/) [project](/post/project/), determined [to](/post/to/) [finish](/post/finish/) [it](/post/it/) [on](/post/on/) [time](/post/time/)."
+- **[Verb](/post/verb/) (idiomatic)**: "[When](/post/when/) [he](/post/he/) was criticized, [he](/post/he/) decided [not](/post/not/) [to](/post/to/) [bite](/post/bite/) [back](/post/back/) [but](/post/but/) [instead](/post/instead/) offered constructive [feedback](/post/feedback/)."
 
 ## Synonyms
 - Chomp
 - Nip
 - Snatch
 - Clutch
-- [Sink](/en/post/sink/) one's teeth [into](/en/post/into/)
-- [Bite](/en/post/bite/) [off](/en/post/off/) [more](/en/post/more/) [than](/en/post/than/) [one](/en/post/one/) [can](/en/post/can/) [chew](/en/post/chew/) (idiomatic)
+- [Sink](/post/sink/) one's teeth [into](/post/into/)
+- [Bite](/post/bite/) [off](/post/off/) [more](/post/more/) [than](/post/than/) [one](/post/one/) [can](/post/can/) [chew](/post/chew/) (idiomatic)

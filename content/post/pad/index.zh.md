@@ -12,25 +12,25 @@ keywords = ['ai words', 'pad']
 
 ## 释义
 - **名词**:
-  - 便携式电脑或平板电脑。例如: "I'm typing [this](/post/this/) [on](/post/on/) [my](/post/my/) [new](/post/new/) [tablet](/post/tablet/) [pad](/post/pad/)."
-  - 写字板，画板，尤指有衬垫的。例如: "[The](/post/the/) kids [used](/post/used/) [a](/post/a/) [drawing](/post/drawing/) [pad](/post/pad/) [to](/post/to/) [create](/post/create/) [their](/post/their/) artwork."
-  - 鞋垫，垫子。例如: "[She](/post/she/) [put](/post/put/) [a](/post/a/) [new](/post/new/) [pad](/post/pad/) [in](/post/in/) [her](/post/her/) running shoes [for](/post/for/) [more](/post/more/) [comfort](/post/comfort/)."
+  - 便携式电脑或平板电脑。例如: "I'm typing [this](/zh/post/this/) [on](/zh/post/on/) [my](/zh/post/my/) [new](/zh/post/new/) [tablet](/zh/post/tablet/) [pad](/zh/post/pad/)."
+  - 写字板，画板，尤指有衬垫的。例如: "[The](/zh/post/the/) kids [used](/zh/post/used/) [a](/zh/post/a/) [drawing](/zh/post/drawing/) [pad](/zh/post/pad/) [to](/zh/post/to/) [create](/zh/post/create/) [their](/zh/post/their/) artwork."
+  - 鞋垫，垫子。例如: "[She](/zh/post/she/) [put](/zh/post/put/) [a](/zh/post/a/) [new](/zh/post/new/) [pad](/zh/post/pad/) [in](/zh/post/in/) [her](/zh/post/her/) running shoes [for](/zh/post/for/) [more](/zh/post/more/) [comfort](/zh/post/comfort/)."
 
 - **动词**:
-  - 融入额外的内容以增加量或填充。例如: "[The](/post/the/) [writer](/post/writer/) padded [the](/post/the/) [story](/post/story/) [with](/post/with/) [unnecessary](/post/unnecessary/) details."
-  - 在鞋里添加衬垫。例如: "[He](/post/he/) padded [his](/post/his/) shoes [to](/post/to/) [protect](/post/protect/) [his](/post/his/) injured [foot](/post/foot/)."
+  - 融入额外的内容以增加量或填充。例如: "[The](/zh/post/the/) [writer](/zh/post/writer/) padded [the](/zh/post/the/) [story](/zh/post/story/) [with](/zh/post/with/) [unnecessary](/zh/post/unnecessary/) details."
+  - 在鞋里添加衬垫。例如: "[He](/zh/post/he/) padded [his](/zh/post/his/) shoes [to](/zh/post/to/) [protect](/zh/post/protect/) [his](/zh/post/his/) injured [foot](/zh/post/foot/)."
 
 ## 短语
 - "padding" 指在文本、衣物或其他物品中增加的填充物。
-- "[pad](/post/pad/) [out](/post/out/)" 意味着扩展或加厚，通常用于文字或内容。
+- "[pad](/zh/post/pad/) [out](/zh/post/out/)" 意味着扩展或加厚，通常用于文字或内容。
 
 ## 例句
-- 名词: "I [use](/post/use/) [a](/post/a/) [digital](/post/digital/) [pad](/post/pad/) [to](/post/to/) [take](/post/take/) notes [during](/post/during/) meetings."
-- 动词: "[The](/post/the/) [athlete](/post/athlete/) padded [his](/post/his/) [knee](/post/knee/) [to](/post/to/) [prevent](/post/prevent/) [further](/post/further/) [injury](/post/injury/)."
+- 名词: "I [use](/zh/post/use/) [a](/zh/post/a/) [digital](/zh/post/digital/) [pad](/zh/post/pad/) [to](/zh/post/to/) [take](/zh/post/take/) notes [during](/zh/post/during/) meetings."
+- 动词: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) padded [his](/zh/post/his/) [knee](/zh/post/knee/) [to](/zh/post/to/) [prevent](/zh/post/prevent/) [further](/zh/post/further/) [injury](/zh/post/injury/)."
 
 ## 同义词
-- [Notebook](/post/notebook/)
-- [Tablet](/post/tablet/)
+- [Notebook](/zh/post/notebook/)
+- [Tablet](/zh/post/tablet/)
 - Sketchbook
-- [Cushion](/post/cushion/)
-- [Sponge](/post/sponge/)
+- [Cushion](/zh/post/cushion/)
+- [Sponge](/zh/post/sponge/)

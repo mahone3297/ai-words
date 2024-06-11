@@ -7,31 +7,31 @@ description = '[ˈsɔsidʒ] n.香肠，腊肠'
 keywords = ['ai words', 'sausage']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɔːs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[sausage](/en/post/sausage/)** is [a](/en/post/a/) cylindrical [food](/en/post/food/) [product](/en/post/product/) made [from](/en/post/from/) [ground](/en/post/ground/) [meat](/en/post/meat/) ([usually](/en/post/usually/) [pork](/en/post/pork/), [beef](/en/post/beef/), [or](/en/post/or/) [a](/en/post/a/) [mixture](/en/post/mixture/)), [often](/en/post/often/) combined [with](/en/post/with/) spices, herbs, [and](/en/post/and/) fillings, [then](/en/post/then/) enclosed [in](/en/post/in/) [a](/en/post/a/) casing [and](/en/post/and/) cooked. [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) served [as](/en/post/as/) [a](/en/post/a/) standalone [dish](/en/post/dish/) [or](/en/post/or/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [meal](/en/post/meal/), [such](/en/post/such/) [as](/en/post/as/) [in](/en/post/in/) sandwiches [or](/en/post/or/) [on](/en/post/on/) [a](/en/post/a/) platter.
+### [Noun](/post/noun/)
+[A](/post/a/) **[sausage](/post/sausage/)** is [a](/post/a/) cylindrical [food](/post/food/) [product](/post/product/) made [from](/post/from/) [ground](/post/ground/) [meat](/post/meat/) ([usually](/post/usually/) [pork](/post/pork/), [beef](/post/beef/), [or](/post/or/) [a](/post/a/) [mixture](/post/mixture/)), [often](/post/often/) combined [with](/post/with/) spices, herbs, [and](/post/and/) fillings, [then](/post/then/) enclosed [in](/post/in/) [a](/post/a/) casing [and](/post/and/) cooked. [It](/post/it/) [can](/post/can/) [be](/post/be/) served [as](/post/as/) [a](/post/a/) standalone [dish](/post/dish/) [or](/post/or/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [meal](/post/meal/), [such](/post/such/) [as](/post/as/) [in](/post/in/) sandwiches [or](/post/or/) [on](/post/on/) [a](/post/a/) platter.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[make](/en/post/make/) sausages** is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) preparing [and](/en/post/and/) shaping [the](/en/post/the/) [mixture](/en/post/mixture/) [into](/en/post/into/) [the](/en/post/the/) desired [form](/en/post/form/), [while](/en/post/while/) **grilling, frying, [or](/en/post/or/) baking** [a](/en/post/a/) [sausage](/en/post/sausage/) refers [to](/en/post/to/) [the](/en/post/the/) cooking [method](/en/post/method/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[make](/post/make/) sausages** is [the](/post/the/) [process](/post/process/) [of](/post/of/) preparing [and](/post/and/) shaping [the](/post/the/) [mixture](/post/mixture/) [into](/post/into/) [the](/post/the/) desired [form](/post/form/), [while](/post/while/) **grilling, frying, [or](/post/or/) baking** [a](/post/a/) [sausage](/post/sausage/) refers [to](/post/to/) [the](/post/the/) cooking [method](/post/method/).
 
-### [Adjective](/en/post/adjective/)
-[The](/en/post/the/) [term](/en/post/term/) **sausagey** [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) having [a](/en/post/a/) [strong](/en/post/strong/) [or](/en/post/or/) [distinct](/en/post/distinct/) [sausage](/en/post/sausage/) flavor [or](/en/post/or/) texture.
+### [Adjective](/post/adjective/)
+[The](/post/the/) [term](/post/term/) **sausagey** [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) having [a](/post/a/) [strong](/post/strong/) [or](/post/or/) [distinct](/post/distinct/) [sausage](/post/sausage/) flavor [or](/post/or/) texture.
 
 ## Phrases
-- "[Sausage](/en/post/sausage/) [roll](/en/post/roll/)" is [a](/en/post/a/) [popular](/en/post/popular/) [dish](/en/post/dish/) consisting [of](/en/post/of/) [a](/en/post/a/) sausage-shaped pastry.
-- "Bratwurst" [or](/en/post/or/) "[hot](/en/post/hot/) [dog](/en/post/dog/)" are [specific](/en/post/specific/) types [of](/en/post/of/) sausages.
-- "[Sausage](/en/post/sausage/) fest" is [a](/en/post/a/) [humorous](/en/post/humorous/) [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) gathering [where](/en/post/where/) [many](/en/post/many/) men are [present](/en/post/present/), [often](/en/post/often/) [used](/en/post/used/) lightheartedly.
+- "[Sausage](/post/sausage/) [roll](/post/roll/)" is [a](/post/a/) [popular](/post/popular/) [dish](/post/dish/) consisting [of](/post/of/) [a](/post/a/) sausage-shaped pastry.
+- "Bratwurst" [or](/post/or/) "[hot](/post/hot/) [dog](/post/dog/)" are [specific](/post/specific/) types [of](/post/of/) sausages.
+- "[Sausage](/post/sausage/) fest" is [a](/post/a/) [humorous](/post/humorous/) [term](/post/term/) [for](/post/for/) [a](/post/a/) gathering [where](/post/where/) [many](/post/many/) men are [present](/post/present/), [often](/post/often/) [used](/post/used/) lightheartedly.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I bought [some](/en/post/some/) [fresh](/en/post/fresh/) sausages [from](/en/post/from/) [the](/en/post/the/) [butcher](/en/post/butcher/) [shop](/en/post/shop/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [make](/en/post/make/) [his](/en/post/his/) [own](/en/post/own/) sausages using [family](/en/post/family/) recipes."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [air](/en/post/air/) smelled [delicious](/en/post/delicious/) [with](/en/post/with/) [the](/en/post/the/) aroma [of](/en/post/of/) sizzling [sausage](/en/post/sausage/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I bought [some](/post/some/) [fresh](/post/fresh/) sausages [from](/post/from/) [the](/post/the/) [butcher](/post/butcher/) [shop](/post/shop/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [make](/post/make/) [his](/post/his/) [own](/post/own/) sausages using [family](/post/family/) recipes."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [air](/post/air/) smelled [delicious](/post/delicious/) [with](/post/with/) [the](/post/the/) aroma [of](/post/of/) sizzling [sausage](/post/sausage/)."
 
 ## Synonyms
-- [Sausage](/en/post/sausage/) links
+- [Sausage](/post/sausage/) links
 - Franks
 - Wiener
 - Banger
@@ -39,6 +39,6 @@ keywords = ['ai words', 'sausage']
 - Andouille
 
 ## Related Words
-- Casings ([for](/en/post/for/) making sausages)
-- [Sausage](/en/post/sausage/) [meat](/en/post/meat/)
-- Brat (informal [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [sausage](/en/post/sausage/))
+- Casings ([for](/post/for/) making sausages)
+- [Sausage](/post/sausage/) [meat](/post/meat/)
+- Brat (informal [term](/post/term/) [for](/post/for/) [a](/post/a/) [sausage](/post/sausage/))

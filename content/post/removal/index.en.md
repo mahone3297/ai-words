@@ -7,41 +7,41 @@ description = '[riˈmuːvəl] n.移动；迁移；除掉'
 keywords = ['ai words', 'removal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /reməˈluːʃən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Removal](/en/post/removal/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) taking [something](/en/post/something/) [away](/en/post/away/) [or](/en/post/or/) [off](/en/post/off/); [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) removing an [object](/en/post/object/) [or](/en/post/or/) [person](/en/post/person/) [from](/en/post/from/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [or](/en/post/or/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [removal](/en/post/removal/) [of](/en/post/of/) [old](/en/post/old/) [furniture](/en/post/furniture/) made [room](/en/post/room/) [for](/en/post/for/) [new](/en/post/new/) decorations."
-- **Erasure**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) wiping [out](/en/post/out/) [or](/en/post/or/) deleting written [or](/en/post/or/) printed [text](/en/post/text/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sensitive](/en/post/sensitive/) [information](/en/post/information/) was removed [from](/en/post/from/) [the](/en/post/the/) [document](/en/post/document/) [for](/en/post/for/) [security](/en/post/security/) reasons."
-- **Deletion**: [The](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) taking [out](/en/post/out/) [or](/en/post/or/) eliminating [data](/en/post/data/) [or](/en/post/or/) [content](/en/post/content/). [For](/en/post/for/) [example](/en/post/example/): "[Unnecessary](/en/post/unnecessary/) files were removed [to](/en/post/to/) [free](/en/post/free/) [up](/en/post/up/) [storage](/en/post/storage/) [space](/en/post/space/)."
+### [Noun](/post/noun/)
+- **[Removal](/post/removal/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) taking [something](/post/something/) [away](/post/away/) [or](/post/or/) [off](/post/off/); [the](/post/the/) [process](/post/process/) [of](/post/of/) removing an [object](/post/object/) [or](/post/or/) [person](/post/person/) [from](/post/from/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/) [or](/post/or/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [removal](/post/removal/) [of](/post/of/) [old](/post/old/) [furniture](/post/furniture/) made [room](/post/room/) [for](/post/for/) [new](/post/new/) decorations."
+- **Erasure**: [The](/post/the/) [act](/post/act/) [of](/post/of/) wiping [out](/post/out/) [or](/post/or/) deleting written [or](/post/or/) printed [text](/post/text/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sensitive](/post/sensitive/) [information](/post/information/) was removed [from](/post/from/) [the](/post/the/) [document](/post/document/) [for](/post/for/) [security](/post/security/) reasons."
+- **Deletion**: [The](/post/the/) [action](/post/action/) [of](/post/of/) taking [out](/post/out/) [or](/post/or/) eliminating [data](/post/data/) [or](/post/or/) [content](/post/content/). [For](/post/for/) [example](/post/example/): "[Unnecessary](/post/unnecessary/) files were removed [to](/post/to/) [free](/post/free/) [up](/post/up/) [storage](/post/storage/) [space](/post/space/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [remove](/en/post/remove/)**: [To](/en/post/to/) [take](/en/post/take/) [away](/en/post/away/), detach, or撤除; [to](/en/post/to/) [clear](/en/post/clear/) [out](/en/post/out/). [For](/en/post/for/) [example](/en/post/example/): "[Remove](/en/post/remove/) [the](/en/post/the/) [old](/en/post/old/) wallpaper [before](/en/post/before/) [painting](/en/post/painting/) [the](/en/post/the/) walls."
-- **Displacement**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) moving [something](/en/post/something/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/) [without](/en/post/without/) [its](/en/post/its/) [destruction](/en/post/destruction/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [furniture](/en/post/furniture/) was removed [to](/en/post/to/) [make](/en/post/make/) [room](/en/post/room/) [for](/en/post/for/) [a](/en/post/a/) [new](/en/post/new/) [carpet](/en/post/carpet/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [remove](/post/remove/)**: [To](/post/to/) [take](/post/take/) [away](/post/away/), detach, or撤除; [to](/post/to/) [clear](/post/clear/) [out](/post/out/). [For](/post/for/) [example](/post/example/): "[Remove](/post/remove/) [the](/post/the/) [old](/post/old/) wallpaper [before](/post/before/) [painting](/post/painting/) [the](/post/the/) walls."
+- **Displacement**: [The](/post/the/) [act](/post/act/) [of](/post/of/) moving [something](/post/something/) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/) [without](/post/without/) [its](/post/its/) [destruction](/post/destruction/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [furniture](/post/furniture/) was removed [to](/post/to/) [make](/post/make/) [room](/post/room/) [for](/post/for/) [a](/post/a/) [new](/post/new/) [carpet](/post/carpet/)."
 
-### [Adjective](/en/post/adjective/)
-- **Removable**: [Capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) taken [away](/en/post/away/) [or](/en/post/or/) detached [easily](/en/post/easily/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [shelf](/en/post/shelf/) is removable, making [it](/en/post/it/) [easy](/en/post/easy/) [to](/en/post/to/) [clean](/en/post/clean/) [behind](/en/post/behind/)."
+### [Adjective](/post/adjective/)
+- **Removable**: [Capable](/post/capable/) [of](/post/of/) [being](/post/being/) taken [away](/post/away/) [or](/post/or/) detached [easily](/post/easily/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [shelf](/post/shelf/) is removable, making [it](/post/it/) [easy](/post/easy/) [to](/post/to/) [clean](/post/clean/) [behind](/post/behind/)."
 
-### [Adverb](/en/post/adverb/)
-- **Remotely**: [In](/en/post/in/) [a](/en/post/a/) [distant](/en/post/distant/) [or](/en/post/or/) [not](/en/post/not/) [direct](/en/post/direct/) [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [event](/en/post/event/) [will](/en/post/will/) [be](/en/post/be/) [broadcast](/en/post/broadcast/) remotely [to](/en/post/to/) [reach](/en/post/reach/) [a](/en/post/a/) wider [audience](/en/post/audience/)."
+### [Adverb](/post/adverb/)
+- **Remotely**: [In](/post/in/) [a](/post/a/) [distant](/post/distant/) [or](/post/or/) [not](/post/not/) [direct](/post/direct/) [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [event](/post/event/) [will](/post/will/) [be](/post/be/) [broadcast](/post/broadcast/) remotely [to](/post/to/) [reach](/post/reach/) [a](/post/a/) wider [audience](/post/audience/)."
 
 ## Phrases
-- "[Remove](/en/post/remove/) [a](/en/post/a/) [stain](/en/post/stain/)" [means](/en/post/means/) [to](/en/post/to/) [get](/en/post/get/) [rid](/en/post/rid/) [of](/en/post/of/) [a](/en/post/a/) [mark](/en/post/mark/) [or](/en/post/or/) discoloration.
-- "[Removal](/en/post/removal/) [notice](/en/post/notice/)" is [a](/en/post/a/) [formal](/en/post/formal/) [document](/en/post/document/) informing [someone](/en/post/someone/) [they](/en/post/they/) [need](/en/post/need/) [to](/en/post/to/) vacate [a](/en/post/a/) [property](/en/post/property/) [or](/en/post/or/) [position](/en/post/position/).
-- "[Remote](/en/post/remote/) [removal](/en/post/removal/)" refers [to](/en/post/to/) [a](/en/post/a/) [process](/en/post/process/) done [from](/en/post/from/) [a](/en/post/a/) [distance](/en/post/distance/), [like](/en/post/like/) [remote](/en/post/remote/) [work](/en/post/work/) [or](/en/post/or/) [remote](/en/post/remote/) [surgery](/en/post/surgery/).
+- "[Remove](/post/remove/) [a](/post/a/) [stain](/post/stain/)" [means](/post/means/) [to](/post/to/) [get](/post/get/) [rid](/post/rid/) [of](/post/of/) [a](/post/a/) [mark](/post/mark/) [or](/post/or/) discoloration.
+- "[Removal](/post/removal/) [notice](/post/notice/)" is [a](/post/a/) [formal](/post/formal/) [document](/post/document/) informing [someone](/post/someone/) [they](/post/they/) [need](/post/need/) [to](/post/to/) vacate [a](/post/a/) [property](/post/property/) [or](/post/or/) [position](/post/position/).
+- "[Remote](/post/remote/) [removal](/post/removal/)" refers [to](/post/to/) [a](/post/a/) [process](/post/process/) done [from](/post/from/) [a](/post/a/) [distance](/post/distance/), [like](/post/like/) [remote](/post/remote/) [work](/post/work/) [or](/post/or/) [remote](/post/remote/) [surgery](/post/surgery/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [removal](/en/post/removal/) [team](/en/post/team/) carefully dismantled [the](/en/post/the/) [old](/en/post/old/) [statue](/en/post/statue/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) removed [the](/en/post/the/) [dirt](/en/post/dirt/) [from](/en/post/from/) [her](/en/post/her/) shoes [before](/en/post/before/) entering [the](/en/post/the/) [house](/en/post/house/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) removable [carpet](/en/post/carpet/) tiles made [the](/en/post/the/) renovation [project](/en/post/project/) easier."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [removal](/post/removal/) [team](/post/team/) carefully dismantled [the](/post/the/) [old](/post/old/) [statue](/post/statue/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) removed [the](/post/the/) [dirt](/post/dirt/) [from](/post/from/) [her](/post/her/) shoes [before](/post/before/) entering [the](/post/the/) [house](/post/house/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) removable [carpet](/post/carpet/) tiles made [the](/post/the/) renovation [project](/post/project/) easier."
 
 ## Synonyms
 - Eradication
 - Extraction
 - Detachment
-- [Disposal](/en/post/disposal/)
+- [Disposal](/post/disposal/)
 - Purging
 - Exclusion
-- Extraction ([for](/en/post/for/) objects)
-- [Elimination](/en/post/elimination/) ([for](/en/post/for/) [data](/en/post/data/))
+- Extraction ([for](/post/for/) objects)
+- [Elimination](/post/elimination/) ([for](/post/for/) [data](/post/data/))

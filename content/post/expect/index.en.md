@@ -7,41 +7,41 @@ description = '[iksˈpekt] vt.预料，预期；等待'
 keywords = ['ai words', 'expect']
 +++
 
-# [expect](/en/post/expect/)
+# [expect](/post/expect/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈspɛkt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [anticipate](/en/post/anticipate/) [or](/en/post/or/) [look](/en/post/look/) [forward](/en/post/forward/) [to](/en/post/to/) [something](/en/post/something/) happening [or](/en/post/or/) [someone](/en/post/someone/) doing [something](/en/post/something/); [to](/en/post/to/) [consider](/en/post/consider/) [it](/en/post/it/) [likely](/en/post/likely/) [or](/en/post/or/) [certain](/en/post/certain/) based [on](/en/post/on/) [prior](/en/post/prior/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) [experience](/en/post/experience/). 
-    - [Example](/en/post/example/): "I [expect](/en/post/expect/) [the](/en/post/the/) [package](/en/post/package/) [to](/en/post/to/) [arrive](/en/post/arrive/) [tomorrow](/en/post/tomorrow/)."
-    - "[She](/en/post/she/) expects [her](/en/post/her/) children [to](/en/post/to/) [do](/en/post/do/) [their](/en/post/their/) homework [before](/en/post/before/) playing [video](/en/post/video/) games."
+- **[Verb](/post/verb/)**: [To](/post/to/) [anticipate](/post/anticipate/) [or](/post/or/) [look](/post/look/) [forward](/post/forward/) [to](/post/to/) [something](/post/something/) happening [or](/post/or/) [someone](/post/someone/) doing [something](/post/something/); [to](/post/to/) [consider](/post/consider/) [it](/post/it/) [likely](/post/likely/) [or](/post/or/) [certain](/post/certain/) based [on](/post/on/) [prior](/post/prior/) [knowledge](/post/knowledge/) [or](/post/or/) [experience](/post/experience/). 
+    - [Example](/post/example/): "I [expect](/post/expect/) [the](/post/the/) [package](/post/package/) [to](/post/to/) [arrive](/post/arrive/) [tomorrow](/post/tomorrow/)."
+    - "[She](/post/she/) expects [her](/post/her/) children [to](/post/to/) [do](/post/do/) [their](/post/their/) homework [before](/post/before/) playing [video](/post/video/) games."
     
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [particular](/en/post/particular/) [belief](/en/post/belief/) [about](/en/post/about/) [what](/en/post/what/) [will](/en/post/will/) [happen](/en/post/happen/) [in](/en/post/in/) [the](/en/post/the/) [future](/en/post/future/) [or](/en/post/or/) [what](/en/post/what/) [should](/en/post/should/) [be](/en/post/be/) [the](/en/post/the/) [case](/en/post/case/).
-    - [Example](/en/post/example/): "[We](/en/post/we/) [expect](/en/post/expect/) [him](/en/post/him/) [to](/en/post/to/) [succeed](/en/post/succeed/) [in](/en/post/in/) [his](/en/post/his/) [new](/en/post/new/) [job](/en/post/job/)."
-    - "[They](/en/post/they/) expected [the](/en/post/the/) [weather](/en/post/weather/) [to](/en/post/to/) [improve](/en/post/improve/) [by](/en/post/by/) [the](/en/post/the/) [weekend](/en/post/weekend/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [particular](/post/particular/) [belief](/post/belief/) [about](/post/about/) [what](/post/what/) [will](/post/will/) [happen](/post/happen/) [in](/post/in/) [the](/post/the/) [future](/post/future/) [or](/post/or/) [what](/post/what/) [should](/post/should/) [be](/post/be/) [the](/post/the/) [case](/post/case/).
+    - [Example](/post/example/): "[We](/post/we/) [expect](/post/expect/) [him](/post/him/) [to](/post/to/) [succeed](/post/succeed/) [in](/post/in/) [his](/post/his/) [new](/post/new/) [job](/post/job/)."
+    - "[They](/post/they/) expected [the](/post/the/) [weather](/post/weather/) [to](/post/to/) [improve](/post/improve/) [by](/post/by/) [the](/post/the/) [weekend](/post/weekend/)."
 
-- **[Verb](/en/post/verb/)**: ([formal](/en/post/formal/)) [To](/en/post/to/) [require](/en/post/require/) [or](/en/post/or/) [demand](/en/post/demand/) [something](/en/post/something/) [as](/en/post/as/) [reasonable](/en/post/reasonable/) [or](/en/post/or/) [necessary](/en/post/necessary/).
-    - [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) expects [its](/en/post/its/) employees [to](/en/post/to/) adhere [strictly](/en/post/strictly/) [to](/en/post/to/) [the](/en/post/the/) [dress](/en/post/dress/) [code](/en/post/code/)."
+- **[Verb](/post/verb/)**: ([formal](/post/formal/)) [To](/post/to/) [require](/post/require/) [or](/post/or/) [demand](/post/demand/) [something](/post/something/) [as](/post/as/) [reasonable](/post/reasonable/) [or](/post/or/) [necessary](/post/necessary/).
+    - [Example](/post/example/): "[The](/post/the/) [company](/post/company/) expects [its](/post/its/) employees [to](/post/to/) adhere [strictly](/post/strictly/) [to](/post/to/) [the](/post/the/) [dress](/post/dress/) [code](/post/code/)."
 
 ## Phrases
-- "[Expect](/en/post/expect/) [the](/en/post/the/) [unexpected](/en/post/unexpected/)": [This](/en/post/this/) [phrase](/en/post/phrase/) suggests [being](/en/post/being/) prepared [for](/en/post/for/) surprises [or](/en/post/or/) unforeseen events.
-- "[To](/en/post/to/) [live](/en/post/live/) [up](/en/post/up/) [to](/en/post/to/) expectations": [To](/en/post/to/) [meet](/en/post/meet/) [or](/en/post/or/) fulfill [the](/en/post/the/) requirements, standards, [or](/en/post/or/) predictions [that](/en/post/that/) others [have](/en/post/have/) [set](/en/post/set/) [for](/en/post/for/) one's [performance](/en/post/performance/) [or](/en/post/or/) [behavior](/en/post/behavior/).
-- "[Expectation](/en/post/expectation/) [management](/en/post/management/)": [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [setting](/en/post/setting/) [and](/en/post/and/) aligning realistic expectations [with](/en/post/with/) outcomes, [particularly](/en/post/particularly/) [in](/en/post/in/) [professional](/en/post/professional/) [or](/en/post/or/) organizational contexts.
+- "[Expect](/post/expect/) [the](/post/the/) [unexpected](/post/unexpected/)": [This](/post/this/) [phrase](/post/phrase/) suggests [being](/post/being/) prepared [for](/post/for/) surprises [or](/post/or/) unforeseen events.
+- "[To](/post/to/) [live](/post/live/) [up](/post/up/) [to](/post/to/) expectations": [To](/post/to/) [meet](/post/meet/) [or](/post/or/) fulfill [the](/post/the/) requirements, standards, [or](/post/or/) predictions [that](/post/that/) others [have](/post/have/) [set](/post/set/) [for](/post/for/) one's [performance](/post/performance/) [or](/post/or/) [behavior](/post/behavior/).
+- "[Expectation](/post/expectation/) [management](/post/management/)": [The](/post/the/) [process](/post/process/) [of](/post/of/) [setting](/post/setting/) [and](/post/and/) aligning realistic expectations [with](/post/with/) outcomes, [particularly](/post/particularly/) [in](/post/in/) [professional](/post/professional/) [or](/post/or/) organizational contexts.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (anticipation)**: "I'm expecting [a](/en/post/a/) [call](/en/post/call/) [from](/en/post/from/) [the](/en/post/the/) [doctor](/en/post/doctor/) [soon](/en/post/soon/)."
-- **[Verb](/en/post/verb/) ([belief](/en/post/belief/))**: "[We](/en/post/we/) [expect](/en/post/expect/) [the](/en/post/the/) [project](/en/post/project/) [to](/en/post/to/) [finish](/en/post/finish/) [ahead](/en/post/ahead/) [of](/en/post/of/) [schedule](/en/post/schedule/)."
-- **[Verb](/en/post/verb/) ([requirement](/en/post/requirement/))**: "[As](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [your](/en/post/your/) [role](/en/post/role/), you're expected [to](/en/post/to/) [attend](/en/post/attend/) [all](/en/post/all/) [team](/en/post/team/) meetings."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (anticipation)**: "I'm expecting [a](/post/a/) [call](/post/call/) [from](/post/from/) [the](/post/the/) [doctor](/post/doctor/) [soon](/post/soon/)."
+- **[Verb](/post/verb/) ([belief](/post/belief/))**: "[We](/post/we/) [expect](/post/expect/) [the](/post/the/) [project](/post/project/) [to](/post/to/) [finish](/post/finish/) [ahead](/post/ahead/) [of](/post/of/) [schedule](/post/schedule/)."
+- **[Verb](/post/verb/) ([requirement](/post/requirement/))**: "[As](/post/as/) [part](/post/part/) [of](/post/of/) [your](/post/your/) [role](/post/role/), you're expected [to](/post/to/) [attend](/post/attend/) [all](/post/all/) [team](/post/team/) meetings."
 
 ## Synonyms
-- [Anticipate](/en/post/anticipate/)
-- [Forecast](/en/post/forecast/)
-- [Predict](/en/post/predict/)
+- [Anticipate](/post/anticipate/)
+- [Forecast](/post/forecast/)
+- [Predict](/post/predict/)
 - Presume
-- [Suppose](/en/post/suppose/)
-- [Assume](/en/post/assume/)
-- [Count](/en/post/count/) [on](/en/post/on/)
-- [Look](/en/post/look/) [for](/en/post/for/)
-- [Await](/en/post/await/)
-- [Hope](/en/post/hope/) [for](/en/post/for/)
+- [Suppose](/post/suppose/)
+- [Assume](/post/assume/)
+- [Count](/post/count/) [on](/post/on/)
+- [Look](/post/look/) [for](/post/for/)
+- [Await](/post/await/)
+- [Hope](/post/hope/) [for](/post/for/)

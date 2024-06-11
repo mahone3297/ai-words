@@ -7,35 +7,35 @@ description = '[təˈwɔːd] prep.向；对于；接近'
 keywords = ['ai words', 'toward(s)']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /təˈwɔrdz/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Directed [or](/en/post/or/) moving [in](/en/post/in/) [the](/en/post/the/) [direction](/en/post/direction/) [of](/en/post/of/); towards. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) walked toward [the](/en/post/the/) [store](/en/post/store/)."
-- **[Preposition](/en/post/preposition/)**: Expressing [motion](/en/post/motion/) [or](/en/post/or/) [direction](/en/post/direction/) towards [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) headed toward [the](/en/post/the/) [sunset](/en/post/sunset/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [aim](/en/post/aim/) [in](/en/post/in/) [the](/en/post/the/) [direction](/en/post/direction/) [of](/en/post/of/); [proceed](/en/post/proceed/) towards. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) turned toward [the](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) [music](/en/post/music/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) [in](/en/post/in/) [the](/en/post/the/) [direction](/en/post/direction/) [of](/en/post/of/); approaching. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wind](/en/post/wind/) was blowing toward [the](/en/post/the/) [shore](/en/post/shore/)."
+- **[Adverb](/post/adverb/)**: Directed [or](/post/or/) moving [in](/post/in/) [the](/post/the/) [direction](/post/direction/) [of](/post/of/); towards. [For](/post/for/) [example](/post/example/): "[She](/post/she/) walked toward [the](/post/the/) [store](/post/store/)."
+- **[Preposition](/post/preposition/)**: Expressing [motion](/post/motion/) [or](/post/or/) [direction](/post/direction/) towards [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) headed toward [the](/post/the/) [sunset](/post/sunset/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [move](/post/move/) [or](/post/or/) [aim](/post/aim/) [in](/post/in/) [the](/post/the/) [direction](/post/direction/) [of](/post/of/); [proceed](/post/proceed/) towards. [For](/post/for/) [example](/post/example/): "[He](/post/he/) turned toward [the](/post/the/) [sound](/post/sound/) [of](/post/of/) [music](/post/music/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) [in](/post/in/) [the](/post/the/) [direction](/post/direction/) [of](/post/of/); approaching. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wind](/post/wind/) was blowing toward [the](/post/the/) [shore](/post/shore/)."
 
 ## Phrases
-- "[Move](/en/post/move/) toward [a](/en/post/a/) [goal](/en/post/goal/)" implies progression [or](/en/post/or/) [progress](/en/post/progress/) towards [a](/en/post/a/) [target](/en/post/target/).
-- "[Face](/en/post/face/) toward [the](/en/post/the/) [sun](/en/post/sun/)" suggests positioning [oneself](/en/post/oneself/) [to](/en/post/to/) [receive](/en/post/receive/) [its](/en/post/its/) [warmth](/en/post/warmth/).
-- "[His](/en/post/his/) thoughts drifted toward [the](/en/post/the/) [future](/en/post/future/)" indicates [a](/en/post/a/) [mental](/en/post/mental/) [focus](/en/post/focus/) [on](/en/post/on/) what's coming.
+- "[Move](/post/move/) toward [a](/post/a/) [goal](/post/goal/)" implies progression [or](/post/or/) [progress](/post/progress/) towards [a](/post/a/) [target](/post/target/).
+- "[Face](/post/face/) toward [the](/post/the/) [sun](/post/sun/)" suggests positioning [oneself](/post/oneself/) [to](/post/to/) [receive](/post/receive/) [its](/post/its/) [warmth](/post/warmth/).
+- "[His](/post/his/) thoughts drifted toward [the](/post/the/) [future](/post/future/)" indicates [a](/post/a/) [mental](/post/mental/) [focus](/post/focus/) [on](/post/on/) what's coming.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [storm](/en/post/storm/) clouds were gathering darkly, threatening [to](/en/post/to/) [rain](/en/post/rain/) [down](/en/post/down/) [from](/en/post/from/) [the](/en/post/the/) [sky](/en/post/sky/)."
-- **[Preposition](/en/post/preposition/)**: "[She](/en/post/she/) sat [down](/en/post/down/) [on](/en/post/on/) [the](/en/post/the/) [bench](/en/post/bench/), looking toward [the](/en/post/the/) mountains [in](/en/post/in/) [the](/en/post/the/) [distance](/en/post/distance/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [walk](/en/post/walk/) toward [the](/en/post/the/) [library](/en/post/library/) [to](/en/post/to/) [return](/en/post/return/) [a](/en/post/a/) [book](/en/post/book/)."
-- **[Adjective](/en/post/adjective/)**: "[As](/en/post/as/) [the](/en/post/the/) [day](/en/post/day/) wore [on](/en/post/on/), [her](/en/post/her/) [mood](/en/post/mood/) grew [increasingly](/en/post/increasingly/) [optimistic](/en/post/optimistic/) toward [the](/en/post/the/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [storm](/post/storm/) clouds were gathering darkly, threatening [to](/post/to/) [rain](/post/rain/) [down](/post/down/) [from](/post/from/) [the](/post/the/) [sky](/post/sky/)."
+- **[Preposition](/post/preposition/)**: "[She](/post/she/) sat [down](/post/down/) [on](/post/on/) [the](/post/the/) [bench](/post/bench/), looking toward [the](/post/the/) mountains [in](/post/in/) [the](/post/the/) [distance](/post/distance/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [walk](/post/walk/) toward [the](/post/the/) [library](/post/library/) [to](/post/to/) [return](/post/return/) [a](/post/a/) [book](/post/book/)."
+- **[Adjective](/post/adjective/)**: "[As](/post/as/) [the](/post/the/) [day](/post/day/) wore [on](/post/on/), [her](/post/her/) [mood](/post/mood/) grew [increasingly](/post/increasingly/) [optimistic](/post/optimistic/) toward [the](/post/the/) [project](/post/project/)."
 
 ## Synonyms
 - Towards
-- [In](/en/post/in/) [the](/en/post/the/) [direction](/en/post/direction/) [of](/en/post/of/)
+- [In](/post/in/) [the](/post/the/) [direction](/post/direction/) [of](/post/of/)
 - Oriented towards
 - Advancing towards
-- Moving [forward](/en/post/forward/) [to](/en/post/to/)
+- Moving [forward](/post/forward/) [to](/post/to/)
 
 ## Antonyms
-- [Away](/en/post/away/) [from](/en/post/from/)
-- [Opposite](/en/post/opposite/)
+- [Away](/post/away/) [from](/post/from/)
+- [Opposite](/post/opposite/)
 - Backwards
 - Receding

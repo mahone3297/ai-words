@@ -7,31 +7,31 @@ description = '[aiˈdiəl] a.理想的；观念的'
 keywords = ['ai words', 'ideal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ʌɪˈdiːəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [perfect](/en/post/perfect/) [standard](/en/post/standard/) [or](/en/post/or/) [model](/en/post/model/); [something](/en/post/something/) [that](/en/post/that/) represents [the](/en/post/the/) [most](/en/post/most/) [suitable](/en/post/suitable/) [or](/en/post/or/) [desirable](/en/post/desirable/) [state](/en/post/state/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has an [ideal](/en/post/ideal/) [image](/en/post/image/) [of](/en/post/of/) [what](/en/post/what/) [her](/en/post/her/) [wedding](/en/post/wedding/) [should](/en/post/should/) [be](/en/post/be/) [like](/en/post/like/)."
-- **[Adjective](/en/post/adjective/)**: Conforming [to](/en/post/to/) an [ultimate](/en/post/ultimate/) [standard](/en/post/standard/) [of](/en/post/of/) excellence, perfection, [or](/en/post/or/) suitability; [most](/en/post/most/) [suitable](/en/post/suitable/) [or](/en/post/or/) [desirable](/en/post/desirable/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [house](/en/post/house/) [would](/en/post/would/) [be](/en/post/be/) [ideal](/en/post/ideal/) [for](/en/post/for/) [a](/en/post/a/) [large](/en/post/large/) [family](/en/post/family/)."
-- **[Noun](/en/post/noun/) ([Philosophy](/en/post/philosophy/))**: [A](/en/post/a/) [principle](/en/post/principle/) [or](/en/post/or/) [value](/en/post/value/) [that](/en/post/that/) [one](/en/post/one/) actively pursues [as](/en/post/as/) [a](/en/post/a/) [goal](/en/post/goal/); [a](/en/post/a/) [perfect](/en/post/perfect/) archetype [or](/en/post/or/) [standard](/en/post/standard/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [philosopher](/en/post/philosopher/) held [justice](/en/post/justice/) [as](/en/post/as/) [his](/en/post/his/) highest [ideal](/en/post/ideal/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [perfect](/post/perfect/) [standard](/post/standard/) [or](/post/or/) [model](/post/model/); [something](/post/something/) [that](/post/that/) represents [the](/post/the/) [most](/post/most/) [suitable](/post/suitable/) [or](/post/or/) [desirable](/post/desirable/) [state](/post/state/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has an [ideal](/post/ideal/) [image](/post/image/) [of](/post/of/) [what](/post/what/) [her](/post/her/) [wedding](/post/wedding/) [should](/post/should/) [be](/post/be/) [like](/post/like/)."
+- **[Adjective](/post/adjective/)**: Conforming [to](/post/to/) an [ultimate](/post/ultimate/) [standard](/post/standard/) [of](/post/of/) excellence, perfection, [or](/post/or/) suitability; [most](/post/most/) [suitable](/post/suitable/) [or](/post/or/) [desirable](/post/desirable/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [house](/post/house/) [would](/post/would/) [be](/post/be/) [ideal](/post/ideal/) [for](/post/for/) [a](/post/a/) [large](/post/large/) [family](/post/family/)."
+- **[Noun](/post/noun/) ([Philosophy](/post/philosophy/))**: [A](/post/a/) [principle](/post/principle/) [or](/post/or/) [value](/post/value/) [that](/post/that/) [one](/post/one/) actively pursues [as](/post/as/) [a](/post/a/) [goal](/post/goal/); [a](/post/a/) [perfect](/post/perfect/) archetype [or](/post/or/) [standard](/post/standard/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [philosopher](/post/philosopher/) held [justice](/post/justice/) [as](/post/as/) [his](/post/his/) highest [ideal](/post/ideal/)."
 
 ## Phrases
-- "[Ideal](/en/post/ideal/) [candidate](/en/post/candidate/)": Refers [to](/en/post/to/) [the](/en/post/the/) [person](/en/post/person/) [who](/en/post/who/) [best](/en/post/best/) fits [all](/en/post/all/) [the](/en/post/the/) requirements [for](/en/post/for/) [a](/en/post/a/) [job](/en/post/job/) [or](/en/post/or/) [position](/en/post/position/).
-- "[Ideal](/en/post/ideal/) [world](/en/post/world/)": [A](/en/post/a/) hypothetical [situation](/en/post/situation/) [where](/en/post/where/) [everything](/en/post/everything/) functions [perfectly](/en/post/perfectly/) [or](/en/post/or/) according [to](/en/post/to/) [a](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) idealized principles.
-- "[A](/en/post/a/) [far](/en/post/far/) [cry](/en/post/cry/) [from](/en/post/from/) [ideal](/en/post/ideal/)": An [expression](/en/post/expression/) [meaning](/en/post/meaning/) [that](/en/post/that/) [something](/en/post/something/) is [very](/en/post/very/) [different](/en/post/different/) [and](/en/post/and/) [much](/en/post/much/) [less](/en/post/less/) [satisfactory](/en/post/satisfactory/) [than](/en/post/than/) [what](/en/post/what/) [would](/en/post/would/) [be](/en/post/be/) considered [ideal](/en/post/ideal/).
+- "[Ideal](/post/ideal/) [candidate](/post/candidate/)": Refers [to](/post/to/) [the](/post/the/) [person](/post/person/) [who](/post/who/) [best](/post/best/) fits [all](/post/all/) [the](/post/the/) requirements [for](/post/for/) [a](/post/a/) [job](/post/job/) [or](/post/or/) [position](/post/position/).
+- "[Ideal](/post/ideal/) [world](/post/world/)": [A](/post/a/) hypothetical [situation](/post/situation/) [where](/post/where/) [everything](/post/everything/) functions [perfectly](/post/perfectly/) [or](/post/or/) according [to](/post/to/) [a](/post/a/) [set](/post/set/) [of](/post/of/) idealized principles.
+- "[A](/post/a/) [far](/post/far/) [cry](/post/cry/) [from](/post/from/) [ideal](/post/ideal/)": An [expression](/post/expression/) [meaning](/post/meaning/) [that](/post/that/) [something](/post/something/) is [very](/post/very/) [different](/post/different/) [and](/post/and/) [much](/post/much/) [less](/post/less/) [satisfactory](/post/satisfactory/) [than](/post/than/) [what](/post/what/) [would](/post/would/) [be](/post/be/) considered [ideal](/post/ideal/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) [a](/en/post/a/) paperless [office](/en/post/office/) [remains](/en/post/remains/) an [ideal](/en/post/ideal/) [rather](/en/post/rather/) [than](/en/post/than/) [a](/en/post/a/) [reality](/en/post/reality/) [in](/en/post/in/) [many](/en/post/many/) companies."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [weather](/en/post/weather/) was [ideal](/en/post/ideal/) [for](/en/post/for/) [a](/en/post/a/) [picnic](/en/post/picnic/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **Philosophical [use](/en/post/use/)**: "[In](/en/post/in/) Plato's [Republic](/en/post/republic/), [he](/en/post/he/) presents [the](/en/post/the/) [idea](/en/post/idea/) [of](/en/post/of/) an [ideal](/en/post/ideal/) [society](/en/post/society/) ruled [by](/en/post/by/) philosopher-kings."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [concept](/post/concept/) [of](/post/of/) [a](/post/a/) paperless [office](/post/office/) [remains](/post/remains/) an [ideal](/post/ideal/) [rather](/post/rather/) [than](/post/than/) [a](/post/a/) [reality](/post/reality/) [in](/post/in/) [many](/post/many/) companies."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [weather](/post/weather/) was [ideal](/post/ideal/) [for](/post/for/) [a](/post/a/) [picnic](/post/picnic/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **Philosophical [use](/post/use/)**: "[In](/post/in/) Plato's [Republic](/post/republic/), [he](/post/he/) presents [the](/post/the/) [idea](/post/idea/) [of](/post/of/) an [ideal](/post/ideal/) [society](/post/society/) ruled [by](/post/by/) philosopher-kings."
 
 ## Synonyms
-- [Perfect](/en/post/perfect/)
+- [Perfect](/post/perfect/)
 - Optimal
-- [Ultimate](/en/post/ultimate/)
-- [Model](/en/post/model/)
+- [Ultimate](/post/ultimate/)
+- [Model](/post/model/)
 - Paradigm
-- Utopian ([in](/en/post/in/) [the](/en/post/the/) philosophical [sense](/en/post/sense/))
+- Utopian ([in](/post/in/) [the](/post/the/) philosophical [sense](/post/sense/))
 - Idealized
 - Aspirational
-- [Dream](/en/post/dream/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- [Dream](/post/dream/) ([in](/post/in/) [certain](/post/certain/) contexts)

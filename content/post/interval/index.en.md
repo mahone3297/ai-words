@@ -7,34 +7,34 @@ description = '[ˈintəvəl] n.间隔；休息；间距'
 keywords = ['ai words', 'interval']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪntəvəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [between](/en/post/between/) [two](/en/post/two/) events [or](/en/post/or/) points, [especially](/en/post/especially/) [one](/en/post/one/) [during](/en/post/during/) [which](/en/post/which/) [a](/en/post/a/) [particular](/en/post/particular/) [action](/en/post/action/) [or](/en/post/or/) [process](/en/post/process/) occurs. [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) was [a](/en/post/a/) ten-minute [interval](/en/post/interval/) [between](/en/post/between/) [each](/en/post/each/) speaker's presentation."
-  - *[Music](/en/post/music/)*: [A](/en/post/a/) [pause](/en/post/pause/) [or](/en/post/or/) [break](/en/post/break/) [between](/en/post/between/) notes, measures, [or](/en/post/or/) phrases [in](/en/post/in/) [music](/en/post/music/).
-  - *[Mathematics](/en/post/mathematics/)*: [The](/en/post/the/) [difference](/en/post/difference/) [between](/en/post/between/) [two](/en/post/two/) values [or](/en/post/or/) numbers; [also](/en/post/also/) referred [to](/en/post/to/) [as](/en/post/as/) [a](/en/post/a/) [distance](/en/post/distance/) [on](/en/post/on/) [a](/en/post/a/) [number](/en/post/number/) [line](/en/post/line/).
-  - *Theater*: [A](/en/post/a/) [brief](/en/post/brief/) [pause](/en/post/pause/) [during](/en/post/during/) [a](/en/post/a/) [performance](/en/post/performance/), [usually](/en/post/usually/) [for](/en/post/for/) [the](/en/post/the/) [audience](/en/post/audience/) [to](/en/post/to/) [rest](/en/post/rest/) [or](/en/post/or/) [for](/en/post/for/) [set](/en/post/set/) changes.
+- **[Noun](/post/noun/)**: [A](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [between](/post/between/) [two](/post/two/) events [or](/post/or/) points, [especially](/post/especially/) [one](/post/one/) [during](/post/during/) [which](/post/which/) [a](/post/a/) [particular](/post/particular/) [action](/post/action/) [or](/post/or/) [process](/post/process/) occurs. [For](/post/for/) [example](/post/example/): "[There](/post/there/) was [a](/post/a/) ten-minute [interval](/post/interval/) [between](/post/between/) [each](/post/each/) speaker's presentation."
+  - *[Music](/post/music/)*: [A](/post/a/) [pause](/post/pause/) [or](/post/or/) [break](/post/break/) [between](/post/between/) notes, measures, [or](/post/or/) phrases [in](/post/in/) [music](/post/music/).
+  - *[Mathematics](/post/mathematics/)*: [The](/post/the/) [difference](/post/difference/) [between](/post/between/) [two](/post/two/) values [or](/post/or/) numbers; [also](/post/also/) referred [to](/post/to/) [as](/post/as/) [a](/post/a/) [distance](/post/distance/) [on](/post/on/) [a](/post/a/) [number](/post/number/) [line](/post/line/).
+  - *Theater*: [A](/post/a/) [brief](/post/brief/) [pause](/post/pause/) [during](/post/during/) [a](/post/a/) [performance](/post/performance/), [usually](/post/usually/) [for](/post/for/) [the](/post/the/) [audience](/post/audience/) [to](/post/to/) [rest](/post/rest/) [or](/post/or/) [for](/post/for/) [set](/post/set/) changes.
 
-[Example](/en/post/example/) sentences:
-- **[Noun](/en/post/noun/) ([general](/en/post/general/))**: "[There](/en/post/there/) [will](/en/post/will/) [be](/en/post/be/) [a](/en/post/a/) [short](/en/post/short/) [interval](/en/post/interval/) [before](/en/post/before/) [the](/en/post/the/) [next](/en/post/next/) [session](/en/post/session/) begins."
-- **[Noun](/en/post/noun/) ([music](/en/post/music/))**: "[The](/en/post/the/) pianist [left](/en/post/left/) [a](/en/post/a/) [significant](/en/post/significant/) [interval](/en/post/interval/) [between](/en/post/between/) [the](/en/post/the/) chords [to](/en/post/to/) [create](/en/post/create/) tension."
-- **[Noun](/en/post/noun/) ([mathematics](/en/post/mathematics/))**: "[The](/en/post/the/) [interval](/en/post/interval/) [between](/en/post/between/) 0 [and](/en/post/and/) 10 includes [all](/en/post/all/) [the](/en/post/the/) [whole](/en/post/whole/) numbers [from](/en/post/from/) 1 [through](/en/post/through/) 9."
-- **[Noun](/en/post/noun/) (theater)**: "[During](/en/post/during/) [the](/en/post/the/) [interval](/en/post/interval/), patrons [can](/en/post/can/) [visit](/en/post/visit/) [the](/en/post/the/) [bar](/en/post/bar/) [for](/en/post/for/) refreshments."
+[Example](/post/example/) sentences:
+- **[Noun](/post/noun/) ([general](/post/general/))**: "[There](/post/there/) [will](/post/will/) [be](/post/be/) [a](/post/a/) [short](/post/short/) [interval](/post/interval/) [before](/post/before/) [the](/post/the/) [next](/post/next/) [session](/post/session/) begins."
+- **[Noun](/post/noun/) ([music](/post/music/))**: "[The](/post/the/) pianist [left](/post/left/) [a](/post/a/) [significant](/post/significant/) [interval](/post/interval/) [between](/post/between/) [the](/post/the/) chords [to](/post/to/) [create](/post/create/) tension."
+- **[Noun](/post/noun/) ([mathematics](/post/mathematics/))**: "[The](/post/the/) [interval](/post/interval/) [between](/post/between/) 0 [and](/post/and/) 10 includes [all](/post/all/) [the](/post/the/) [whole](/post/whole/) numbers [from](/post/from/) 1 [through](/post/through/) 9."
+- **[Noun](/post/noun/) (theater)**: "[During](/post/during/) [the](/post/the/) [interval](/post/interval/), patrons [can](/post/can/) [visit](/post/visit/) [the](/post/the/) [bar](/post/bar/) [for](/post/for/) refreshments."
 
 ## Phrases
-- "[At](/en/post/at/) [regular](/en/post/regular/) intervals": Happening [or](/en/post/or/) appearing [at](/en/post/at/) [equal](/en/post/equal/) spaces [of](/en/post/of/) [time](/en/post/time/).
-- "[Interval](/en/post/interval/) [training](/en/post/training/)": [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [exercise](/en/post/exercise/) [that](/en/post/that/) involves alternating periods [of](/en/post/of/) high-intensity [effort](/en/post/effort/) [with](/en/post/with/) periods [of](/en/post/of/) [recovery](/en/post/recovery/).
-- "[Time](/en/post/time/) [interval](/en/post/interval/)": [A](/en/post/a/) [specific](/en/post/specific/) [length](/en/post/length/) [of](/en/post/of/) [time](/en/post/time/) [between](/en/post/between/) [two](/en/post/two/) events [or](/en/post/or/) moments.
+- "[At](/post/at/) [regular](/post/regular/) intervals": Happening [or](/post/or/) appearing [at](/post/at/) [equal](/post/equal/) spaces [of](/post/of/) [time](/post/time/).
+- "[Interval](/post/interval/) [training](/post/training/)": [A](/post/a/) [type](/post/type/) [of](/post/of/) [exercise](/post/exercise/) [that](/post/that/) involves alternating periods [of](/post/of/) high-intensity [effort](/post/effort/) [with](/post/with/) periods [of](/post/of/) [recovery](/post/recovery/).
+- "[Time](/post/time/) [interval](/post/interval/)": [A](/post/a/) [specific](/post/specific/) [length](/post/length/) [of](/post/of/) [time](/post/time/) [between](/post/between/) [two](/post/two/) events [or](/post/or/) moments.
 
 ## Synonyms
-- [Gap](/en/post/gap/)
-- [Pause](/en/post/pause/)
-- [Break](/en/post/break/)
-- [Period](/en/post/period/)
+- [Gap](/post/gap/)
+- [Pause](/post/pause/)
+- [Break](/post/break/)
+- [Period](/post/period/)
 - Intermission
-- [Space](/en/post/space/)
-- [Duration](/en/post/duration/)
-- [Span](/en/post/span/)
+- [Space](/post/space/)
+- [Duration](/post/duration/)
+- [Span](/post/span/)
 - Lapse
 - Breather (informal)

@@ -12,20 +12,20 @@ keywords = ['ai words', 'ripen']
 
 ## 释义
 - **动词**:
-  - 使成熟；使熟：例如 "[The](/post/the/) [sun](/post/sun/) helps [to](/post/to/) [ripen](/post/ripen/) [the](/post/the/) tomatoes."
-  - 成熟；熟透：例如 "[The](/post/the/) [fruit](/post/fruit/) is [just](/post/just/) [beginning](/post/beginning/) [to](/post/to/) [ripen](/post/ripen/)."
+  - 使成熟；使熟：例如 "[The](/zh/post/the/) [sun](/zh/post/sun/) helps [to](/zh/post/to/) [ripen](/zh/post/ripen/) [the](/zh/post/the/) tomatoes."
+  - 成熟；熟透：例如 "[The](/zh/post/the/) [fruit](/zh/post/fruit/) is [just](/zh/post/just/) [beginning](/zh/post/beginning/) [to](/zh/post/to/) [ripen](/zh/post/ripen/)."
 
 ## 短语
-- "[ripen](/post/ripen/) [up](/post/up/)" 意味着变得成熟或准备好使用：例如 "[The](/post/the/) apples [will](/post/will/) [ripen](/post/ripen/) [up](/post/up/) [in](/post/in/) [a](/post/a/) [few](/post/few/) days."
-- "[ripe](/post/ripe/) [for](/post/for/) [something](/post/something/)" 表示适合或准备好做某事：例如 "[The](/post/the/) [market](/post/market/) is [ripe](/post/ripe/) [for](/post/for/) [new](/post/new/) innovations."
+- "[ripen](/zh/post/ripen/) [up](/zh/post/up/)" 意味着变得成熟或准备好使用：例如 "[The](/zh/post/the/) apples [will](/zh/post/will/) [ripen](/zh/post/ripen/) [up](/zh/post/up/) [in](/zh/post/in/) [a](/zh/post/a/) [few](/zh/post/few/) days."
+- "[ripe](/zh/post/ripe/) [for](/zh/post/for/) [something](/zh/post/something/)" 表示适合或准备好做某事：例如 "[The](/zh/post/the/) [market](/zh/post/market/) is [ripe](/zh/post/ripe/) [for](/zh/post/for/) [new](/zh/post/new/) innovations."
 
 ## 例句
-- 动词: "[The](/post/the/) grapes [on](/post/on/) [the](/post/the/) [vine](/post/vine/) are [slowly](/post/slowly/) ripening [with](/post/with/) [the](/post/the/) [warm](/post/warm/) [weather](/post/weather/)."
-- 成熟： "[When](/post/when/) [the](/post/the/) bananas are fully ripened, [they](/post/they/) [become](/post/become/) [very](/post/very/) [sweet](/post/sweet/)."
+- 动词: "[The](/zh/post/the/) grapes [on](/zh/post/on/) [the](/zh/post/the/) [vine](/zh/post/vine/) are [slowly](/zh/post/slowly/) ripening [with](/zh/post/with/) [the](/zh/post/the/) [warm](/zh/post/warm/) [weather](/zh/post/weather/)."
+- 成熟： "[When](/zh/post/when/) [the](/zh/post/the/) bananas are fully ripened, [they](/zh/post/they/) [become](/zh/post/become/) [very](/zh/post/very/) [sweet](/zh/post/sweet/)."
 
 ## 同义词
-- [mature](/post/mature/)
-- [develop](/post/develop/)
-- [grow](/post/grow/)
-- [come](/post/come/) [to](/post/to/) maturity
-- [attain](/post/attain/) [full](/post/full/) [growth](/post/growth/)
+- [mature](/zh/post/mature/)
+- [develop](/zh/post/develop/)
+- [grow](/zh/post/grow/)
+- [come](/zh/post/come/) [to](/zh/post/to/) maturity
+- [attain](/zh/post/attain/) [full](/zh/post/full/) [growth](/zh/post/growth/)

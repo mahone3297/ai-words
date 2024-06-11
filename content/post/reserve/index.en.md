@@ -7,47 +7,47 @@ description = '[riˈzəːv] vt.储备，保留；预定'
 keywords = ['ai words', 'reserve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈzɜrv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1** ([noun](/en/post/noun/)): [A](/en/post/a/) [portion](/en/post/portion/) [set](/en/post/set/) [aside](/en/post/aside/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/) [or](/en/post/or/) [future](/en/post/future/) [use](/en/post/use/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [store](/en/post/store/) [or](/en/post/or/) repository. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [hotel](/en/post/hotel/) has [a](/en/post/a/) swimming [pool](/en/post/pool/) [for](/en/post/for/) guests' exclusive [reserve](/en/post/reserve/)."
-- **2** ([noun](/en/post/noun/)): [A](/en/post/a/) [right](/en/post/right/) [or](/en/post/or/) [privilege](/en/post/privilege/) [to](/en/post/to/) [occupy](/en/post/occupy/) [or](/en/post/or/) [use](/en/post/use/) [something](/en/post/something/), [usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [order](/en/post/order/) [or](/en/post/or/) [before](/en/post/before/) others. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) reservation [for](/en/post/for/) [two](/en/post/two/) [at](/en/post/at/) [the](/en/post/the/) [restaurant](/en/post/restaurant/) [tonight](/en/post/tonight/)."
-- **3** ([noun](/en/post/noun/)): An [act](/en/post/act/) [of](/en/post/of/) reserving [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) reserved. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [quiet](/en/post/quiet/) [nature](/en/post/nature/) made [him](/en/post/him/) [seem](/en/post/seem/) reserved [at](/en/post/at/) [first](/en/post/first/)."
+### [Noun](/post/noun/)
+- **1** ([noun](/post/noun/)): [A](/post/a/) [portion](/post/portion/) [set](/post/set/) [aside](/post/aside/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/) [or](/post/or/) [future](/post/future/) [use](/post/use/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [store](/post/store/) [or](/post/or/) repository. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [hotel](/post/hotel/) has [a](/post/a/) swimming [pool](/post/pool/) [for](/post/for/) guests' exclusive [reserve](/post/reserve/)."
+- **2** ([noun](/post/noun/)): [A](/post/a/) [right](/post/right/) [or](/post/or/) [privilege](/post/privilege/) [to](/post/to/) [occupy](/post/occupy/) [or](/post/or/) [use](/post/use/) [something](/post/something/), [usually](/post/usually/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [order](/post/order/) [or](/post/or/) [before](/post/before/) others. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) reservation [for](/post/for/) [two](/post/two/) [at](/post/at/) [the](/post/the/) [restaurant](/post/restaurant/) [tonight](/post/tonight/)."
+- **3** ([noun](/post/noun/)): An [act](/post/act/) [of](/post/of/) reserving [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) reserved. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [quiet](/post/quiet/) [nature](/post/nature/) made [him](/post/him/) [seem](/post/seem/) reserved [at](/post/at/) [first](/post/first/)."
 
-### [Verb](/en/post/verb/)
-- **1** ([verb](/en/post/verb/)): [To](/en/post/to/) [keep](/en/post/keep/) [or](/en/post/or/) [save](/en/post/save/) [something](/en/post/something/) [for](/en/post/for/) [a](/en/post/a/) [future](/en/post/future/) [time](/en/post/time/) [or](/en/post/or/) [need](/en/post/need/). [For](/en/post/for/) [example](/en/post/example/): "I'll [reserve](/en/post/reserve/) [a](/en/post/a/) [table](/en/post/table/) [for](/en/post/for/) 8 o'clock [tonight](/en/post/tonight/)."
-- **2** ([verb](/en/post/verb/)): [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) booking [or](/en/post/or/) reservation [in](/en/post/in/) [advance](/en/post/advance/). [For](/en/post/for/) [example](/en/post/example/): "[You](/en/post/you/) [should](/en/post/should/) [reserve](/en/post/reserve/) [a](/en/post/a/) [seat](/en/post/seat/) [on](/en/post/on/) [the](/en/post/the/) [train](/en/post/train/) [as](/en/post/as/) [soon](/en/post/soon/) [as](/en/post/as/) [possible](/en/post/possible/)."
+### [Verb](/post/verb/)
+- **1** ([verb](/post/verb/)): [To](/post/to/) [keep](/post/keep/) [or](/post/or/) [save](/post/save/) [something](/post/something/) [for](/post/for/) [a](/post/a/) [future](/post/future/) [time](/post/time/) [or](/post/or/) [need](/post/need/). [For](/post/for/) [example](/post/example/): "I'll [reserve](/post/reserve/) [a](/post/a/) [table](/post/table/) [for](/post/for/) 8 o'clock [tonight](/post/tonight/)."
+- **2** ([verb](/post/verb/)): [To](/post/to/) [make](/post/make/) [a](/post/a/) booking [or](/post/or/) reservation [in](/post/in/) [advance](/post/advance/). [For](/post/for/) [example](/post/example/): "[You](/post/you/) [should](/post/should/) [reserve](/post/reserve/) [a](/post/a/) [seat](/post/seat/) [on](/post/on/) [the](/post/the/) [train](/post/train/) [as](/post/as/) [soon](/post/soon/) [as](/post/as/) [possible](/post/possible/)."
 
-### [Adjective](/en/post/adjective/)
-- **1** ([adjective](/en/post/adjective/)): [Set](/en/post/set/) [apart](/en/post/apart/) [or](/en/post/or/) intended [for](/en/post/for/) [a](/en/post/a/) [special](/en/post/special/) [purpose](/en/post/purpose/) [or](/en/post/or/) [person](/en/post/person/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) reserved seating [area](/en/post/area/) [at](/en/post/at/) [the](/en/post/the/) theater."
-- **2** ([adjective](/en/post/adjective/)): Having [a](/en/post/a/) [tendency](/en/post/tendency/) [to](/en/post/to/) [be](/en/post/be/) [shy](/en/post/shy/), cautious, [or](/en/post/or/) uncommunicative. [For](/en/post/for/) [example](/en/post/example/): "He's [a](/en/post/a/) reserved [individual](/en/post/individual/) [who](/en/post/who/) prefers solitude."
+### [Adjective](/post/adjective/)
+- **1** ([adjective](/post/adjective/)): [Set](/post/set/) [apart](/post/apart/) [or](/post/or/) intended [for](/post/for/) [a](/post/a/) [special](/post/special/) [purpose](/post/purpose/) [or](/post/or/) [person](/post/person/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) reserved seating [area](/post/area/) [at](/post/at/) [the](/post/the/) theater."
+- **2** ([adjective](/post/adjective/)): Having [a](/post/a/) [tendency](/post/tendency/) [to](/post/to/) [be](/post/be/) [shy](/post/shy/), cautious, [or](/post/or/) uncommunicative. [For](/post/for/) [example](/post/example/): "He's [a](/post/a/) reserved [individual](/post/individual/) [who](/post/who/) prefers solitude."
 
-### [Adverb](/en/post/adverb/)
-- ([adverb](/en/post/adverb/)): [In](/en/post/in/) [a](/en/post/a/) reserved [manner](/en/post/manner/); cautiously [or](/en/post/or/) delicately. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke reservedly [about](/en/post/about/) [her](/en/post/her/) feelings."
+### [Adverb](/post/adverb/)
+- ([adverb](/post/adverb/)): [In](/post/in/) [a](/post/a/) reserved [manner](/post/manner/); cautiously [or](/post/or/) delicately. [For](/post/for/) [example](/post/example/): "[She](/post/she/) spoke reservedly [about](/post/about/) [her](/post/her/) feelings."
 
 ## Phrases
-- "[Reserve](/en/post/reserve/) [a](/en/post/a/) [spot](/en/post/spot/)" [means](/en/post/means/) [to](/en/post/to/) [book](/en/post/book/) [or](/en/post/or/) [save](/en/post/save/) [a](/en/post/a/) [place](/en/post/place/) [for](/en/post/for/) [a](/en/post/a/) [future](/en/post/future/) [event](/en/post/event/).
-- "[Make](/en/post/make/) [a](/en/post/a/) reservation" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) securing [a](/en/post/a/) [spot](/en/post/spot/) [in](/en/post/in/) [advance](/en/post/advance/).
-- "[She](/en/post/she/) has [a](/en/post/a/) [deep](/en/post/deep/) [reserve](/en/post/reserve/) [of](/en/post/of/) [knowledge](/en/post/knowledge/)" implies [a](/en/post/a/) [significant](/en/post/significant/) [amount](/en/post/amount/) [of](/en/post/of/) stored [information](/en/post/information/).
+- "[Reserve](/post/reserve/) [a](/post/a/) [spot](/post/spot/)" [means](/post/means/) [to](/post/to/) [book](/post/book/) [or](/post/or/) [save](/post/save/) [a](/post/a/) [place](/post/place/) [for](/post/for/) [a](/post/a/) [future](/post/future/) [event](/post/event/).
+- "[Make](/post/make/) [a](/post/a/) reservation" is [the](/post/the/) [act](/post/act/) [of](/post/of/) securing [a](/post/a/) [spot](/post/spot/) [in](/post/in/) [advance](/post/advance/).
+- "[She](/post/she/) has [a](/post/a/) [deep](/post/deep/) [reserve](/post/reserve/) [of](/post/of/) [knowledge](/post/knowledge/)" implies [a](/post/a/) [significant](/post/significant/) [amount](/post/amount/) [of](/post/of/) stored [information](/post/information/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [museum](/en/post/museum/) reserves [a](/en/post/a/) [special](/en/post/special/) [area](/en/post/area/) [for](/en/post/for/) educational programs."
-- **[Verb](/en/post/verb/)**: "I reserved [a](/en/post/a/) [room](/en/post/room/) [at](/en/post/at/) [the](/en/post/the/) [hotel](/en/post/hotel/) [for](/en/post/for/) [our](/en/post/our/) upcoming [vacation](/en/post/vacation/)."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) sat [in](/en/post/in/) [a](/en/post/a/) reserved [corner](/en/post/corner/) [of](/en/post/of/) [the](/en/post/the/) café, [reading](/en/post/reading/) [his](/en/post/his/) [book](/en/post/book/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) handled [the](/en/post/the/) [delicate](/en/post/delicate/) [situation](/en/post/situation/) [with](/en/post/with/) reserved [grace](/en/post/grace/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [museum](/post/museum/) reserves [a](/post/a/) [special](/post/special/) [area](/post/area/) [for](/post/for/) educational programs."
+- **[Verb](/post/verb/)**: "I reserved [a](/post/a/) [room](/post/room/) [at](/post/at/) [the](/post/the/) [hotel](/post/hotel/) [for](/post/for/) [our](/post/our/) upcoming [vacation](/post/vacation/)."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) sat [in](/post/in/) [a](/post/a/) reserved [corner](/post/corner/) [of](/post/of/) [the](/post/the/) café, [reading](/post/reading/) [his](/post/his/) [book](/post/book/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) handled [the](/post/the/) [delicate](/post/delicate/) [situation](/post/situation/) [with](/post/with/) reserved [grace](/post/grace/)."
 
 ## Synonyms
 - Allocation
-- Allocation ([noun](/en/post/noun/))
+- Allocation ([noun](/post/noun/))
 - Holding
 - Booking
 - Retention
-- [Saving](/en/post/saving/)
+- [Saving](/post/saving/)
 - Securing
 - Set-aside
 - Unavailable
-- [Intimate](/en/post/intimate/)
+- [Intimate](/post/intimate/)
 - Introverted
 - Demure

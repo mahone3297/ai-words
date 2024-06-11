@@ -7,35 +7,35 @@ description = '[steə(r)] vi.盯，凝视'
 keywords = ['ai words', 'stare']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stɛr/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: v (stared, stared, staring)
-  - **Transitive**: [To](/en/post/to/) [look](/en/post/look/) fixedly [at](/en/post/at/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [with](/en/post/with/) [intense](/en/post/intense/) [interest](/en/post/interest/) [or](/en/post/or/) [without](/en/post/without/) moving one's eyes [away](/en/post/away/). [Example](/en/post/example/): "[She](/en/post/she/) stared [at](/en/post/at/) [the](/en/post/the/) [painting](/en/post/painting/) [in](/en/post/in/) awe."
-  - **Intransitive**: [To](/en/post/to/) [look](/en/post/look/) intently [or](/en/post/or/) fixedly, [often](/en/post/often/) [for](/en/post/for/) an extended [period](/en/post/period/). [Example](/en/post/example/): "[He](/en/post/he/) was staring [out](/en/post/out/) [the](/en/post/the/) [window](/en/post/window/), lost [in](/en/post/in/) [thought](/en/post/thought/)."
-- **[Noun](/en/post/noun/)**: An [act](/en/post/act/) [or](/en/post/or/) [instance](/en/post/instance/) [of](/en/post/of/) staring, [especially](/en/post/especially/) [when](/en/post/when/) prolonged [or](/en/post/or/) considered [rude](/en/post/rude/). [Example](/en/post/example/): "[Her](/en/post/her/) [stare](/en/post/stare/) was unsettling."
+- **[Verb](/post/verb/)**: v (stared, stared, staring)
+  - **Transitive**: [To](/post/to/) [look](/post/look/) fixedly [at](/post/at/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [with](/post/with/) [intense](/post/intense/) [interest](/post/interest/) [or](/post/or/) [without](/post/without/) moving one's eyes [away](/post/away/). [Example](/post/example/): "[She](/post/she/) stared [at](/post/at/) [the](/post/the/) [painting](/post/painting/) [in](/post/in/) awe."
+  - **Intransitive**: [To](/post/to/) [look](/post/look/) intently [or](/post/or/) fixedly, [often](/post/often/) [for](/post/for/) an extended [period](/post/period/). [Example](/post/example/): "[He](/post/he/) was staring [out](/post/out/) [the](/post/the/) [window](/post/window/), lost [in](/post/in/) [thought](/post/thought/)."
+- **[Noun](/post/noun/)**: An [act](/post/act/) [or](/post/or/) [instance](/post/instance/) [of](/post/of/) staring, [especially](/post/especially/) [when](/post/when/) prolonged [or](/post/or/) considered [rude](/post/rude/). [Example](/post/example/): "[Her](/post/her/) [stare](/post/stare/) was unsettling."
 
 ## Phrases
-- "[Stare](/en/post/stare/) [at](/en/post/at/) [something](/en/post/something/)" implies focusing [your](/en/post/your/) [gaze](/en/post/gaze/) [on](/en/post/on/) an [object](/en/post/object/).
-- "[Stare](/en/post/stare/) blankly" describes an [expression](/en/post/expression/) [of](/en/post/of/) [confusion](/en/post/confusion/) [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [comprehension](/en/post/comprehension/).
-- "[Stare](/en/post/stare/) [into](/en/post/into/) [the](/en/post/the/) [distance](/en/post/distance/)" suggests [deep](/en/post/deep/) contemplation [or](/en/post/or/) daydreaming.
+- "[Stare](/post/stare/) [at](/post/at/) [something](/post/something/)" implies focusing [your](/post/your/) [gaze](/post/gaze/) [on](/post/on/) an [object](/post/object/).
+- "[Stare](/post/stare/) blankly" describes an [expression](/post/expression/) [of](/post/of/) [confusion](/post/confusion/) [or](/post/or/) [lack](/post/lack/) [of](/post/of/) [comprehension](/post/comprehension/).
+- "[Stare](/post/stare/) [into](/post/into/) [the](/post/the/) [distance](/post/distance/)" suggests [deep](/post/deep/) contemplation [or](/post/or/) daydreaming.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) couldn't [tear](/en/post/tear/) [his](/en/post/his/) eyes [away](/en/post/away/) [from](/en/post/from/) [the](/en/post/the/) [beautiful](/en/post/beautiful/) [sunset](/en/post/sunset/), staring [in](/en/post/in/) [wonder](/en/post/wonder/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) stranger's [stare](/en/post/stare/) made [her](/en/post/her/) [feel](/en/post/feel/) [uncomfortable](/en/post/uncomfortable/)."
-- **Intransitive**: "[She](/en/post/she/) sat [there](/en/post/there/), staring [off](/en/post/off/) [into](/en/post/into/) [space](/en/post/space/), lost [in](/en/post/in/) [her](/en/post/her/) thoughts."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[He](/post/he/) couldn't [tear](/post/tear/) [his](/post/his/) eyes [away](/post/away/) [from](/post/from/) [the](/post/the/) [beautiful](/post/beautiful/) [sunset](/post/sunset/), staring [in](/post/in/) [wonder](/post/wonder/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) stranger's [stare](/post/stare/) made [her](/post/her/) [feel](/post/feel/) [uncomfortable](/post/uncomfortable/)."
+- **Intransitive**: "[She](/post/she/) sat [there](/post/there/), staring [off](/post/off/) [into](/post/into/) [space](/post/space/), lost [in](/post/in/) [her](/post/her/) thoughts."
 
 ## Synonyms
-- [Gaze](/en/post/gaze/)
-- [Fix](/en/post/fix/) one's eyes
-- [Look](/en/post/look/)
-- [Stare](/en/post/stare/) vacantly
+- [Gaze](/post/gaze/)
+- [Fix](/post/fix/) one's eyes
+- [Look](/post/look/)
+- [Stare](/post/stare/) vacantly
 - Peer
 
 ## Antonyms
-- [Avoid](/en/post/avoid/) [eye](/en/post/eye/) [contact](/en/post/contact/)
-- [Glance](/en/post/glance/)
-- [Quick](/en/post/quick/) [look](/en/post/look/)
+- [Avoid](/post/avoid/) [eye](/post/eye/) [contact](/post/contact/)
+- [Glance](/post/glance/)
+- [Quick](/post/quick/) [look](/post/look/)
 - Blink
-- [Ignore](/en/post/ignore/)
+- [Ignore](/post/ignore/)

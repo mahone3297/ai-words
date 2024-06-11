@@ -7,36 +7,36 @@ description = '[kəmˈpel] vt.强迫，迫使屈服'
 keywords = ['ai words', 'compel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈpɛl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **compulsion** is an irresistible [urge](/en/post/urge/) [or](/en/post/or/) [strong](/en/post/strong/) [feeling](/en/post/feeling/) [that](/en/post/that/) compels [one](/en/post/one/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) urgency [or](/en/post/or/) [force](/en/post/force/).
+### [Noun](/post/noun/)
+[A](/post/a/) **compulsion** is an irresistible [urge](/post/urge/) [or](/post/or/) [strong](/post/strong/) [feeling](/post/feeling/) [that](/post/that/) compels [one](/post/one/) [to](/post/to/) [do](/post/do/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) urgency [or](/post/or/) [force](/post/force/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [compel](/en/post/compel/)** [means](/en/post/means/) [to](/en/post/to/) [force](/en/post/force/) [or](/en/post/or/) [persuade](/en/post/persuade/) [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [through](/en/post/through/) [authority](/en/post/authority/), [necessity](/en/post/necessity/), [or](/en/post/or/) [strong](/en/post/strong/) [emotional](/en/post/emotional/) [influence](/en/post/influence/).
-- **[Compel](/en/post/compel/) [action](/en/post/action/)** refers [to](/en/post/to/) making [someone](/en/post/someone/) [take](/en/post/take/) [action](/en/post/action/) [by](/en/post/by/) compelling [them](/en/post/them/).
-- **Compelling [someone](/en/post/someone/)** is [when](/en/post/when/) [you](/en/post/you/) [strongly](/en/post/strongly/) [influence](/en/post/influence/) [them](/en/post/them/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [often](/en/post/often/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [strength](/en/post/strength/) [of](/en/post/of/) [your](/en/post/your/) [argument](/en/post/argument/) [or](/en/post/or/) [situation](/en/post/situation/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [compel](/post/compel/)** [means](/post/means/) [to](/post/to/) [force](/post/force/) [or](/post/or/) [persuade](/post/persuade/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/) [through](/post/through/) [authority](/post/authority/), [necessity](/post/necessity/), [or](/post/or/) [strong](/post/strong/) [emotional](/post/emotional/) [influence](/post/influence/).
+- **[Compel](/post/compel/) [action](/post/action/)** refers [to](/post/to/) making [someone](/post/someone/) [take](/post/take/) [action](/post/action/) [by](/post/by/) compelling [them](/post/them/).
+- **Compelling [someone](/post/someone/)** is [when](/post/when/) [you](/post/you/) [strongly](/post/strongly/) [influence](/post/influence/) [them](/post/them/) [to](/post/to/) [do](/post/do/) [something](/post/something/), [often](/post/often/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [strength](/post/strength/) [of](/post/of/) [your](/post/your/) [argument](/post/argument/) [or](/post/or/) [situation](/post/situation/).
 
 ## Phrases
-- "[Be](/en/post/be/) compelled [to](/en/post/to/) [do](/en/post/do/)" expresses [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [being](/en/post/being/) driven [or](/en/post/or/) forced [to](/en/post/to/) [perform](/en/post/perform/) an [action](/en/post/action/).
-- "Compelled [by](/en/post/by/) circumstances" implies [that](/en/post/that/) [external](/en/post/external/) factors are forcing [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [action](/en/post/action/).
-- "[Under](/en/post/under/) compulsion" refers [to](/en/post/to/) acting [under](/en/post/under/) [pressure](/en/post/pressure/) [or](/en/post/or/) obligation.
+- "[Be](/post/be/) compelled [to](/post/to/) [do](/post/do/)" expresses [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [being](/post/being/) driven [or](/post/or/) forced [to](/post/to/) [perform](/post/perform/) an [action](/post/action/).
+- "Compelled [by](/post/by/) circumstances" implies [that](/post/that/) [external](/post/external/) factors are forcing [a](/post/a/) [decision](/post/decision/) [or](/post/or/) [action](/post/action/).
+- "[Under](/post/under/) compulsion" refers [to](/post/to/) acting [under](/post/under/) [pressure](/post/pressure/) [or](/post/or/) obligation.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) therapist helped [her](/en/post/her/) [overcome](/en/post/overcome/) [her](/en/post/her/) compulsive [need](/en/post/need/) [to](/en/post/to/) [check](/en/post/check/) [her](/en/post/her/) [phone](/en/post/phone/) constantly."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [judge](/en/post/judge/) compelled [the](/en/post/the/) defendant [to](/en/post/to/) [appear](/en/post/appear/) [in](/en/post/in/) [court](/en/post/court/)."
-- **[Verb](/en/post/verb/) (transitive)**: "[His](/en/post/his/) compelling [argument](/en/post/argument/) convinced [everyone](/en/post/everyone/) [to](/en/post/to/) [support](/en/post/support/) [his](/en/post/his/) [proposal](/en/post/proposal/)."
-- **[Verb](/en/post/verb/) (intransitive)**: "[She](/en/post/she/) felt compelled [to](/en/post/to/) [speak](/en/post/speak/) [up](/en/post/up/) [for](/en/post/for/) [what](/en/post/what/) was [right](/en/post/right/), [despite](/en/post/despite/) [the](/en/post/the/) risks."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) therapist helped [her](/post/her/) [overcome](/post/overcome/) [her](/post/her/) compulsive [need](/post/need/) [to](/post/to/) [check](/post/check/) [her](/post/her/) [phone](/post/phone/) constantly."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [judge](/post/judge/) compelled [the](/post/the/) defendant [to](/post/to/) [appear](/post/appear/) [in](/post/in/) [court](/post/court/)."
+- **[Verb](/post/verb/) (transitive)**: "[His](/post/his/) compelling [argument](/post/argument/) convinced [everyone](/post/everyone/) [to](/post/to/) [support](/post/support/) [his](/post/his/) [proposal](/post/proposal/)."
+- **[Verb](/post/verb/) (intransitive)**: "[She](/post/she/) felt compelled [to](/post/to/) [speak](/post/speak/) [up](/post/up/) [for](/post/for/) [what](/post/what/) was [right](/post/right/), [despite](/post/despite/) [the](/post/the/) risks."
 
 ## Synonyms
-- [Oblige](/en/post/oblige/)
+- [Oblige](/post/oblige/)
 - Mandate
-- [Urge](/en/post/urge/)
-- [Drive](/en/post/drive/)
-- [Influence](/en/post/influence/)
+- [Urge](/post/urge/)
+- [Drive](/post/drive/)
+- [Influence](/post/influence/)
 - Coerce
 - Impel
-- [Enforce](/en/post/enforce/)
-- Mandate ([less](/en/post/less/) [common](/en/post/common/) [for](/en/post/for/) compulsion)
+- [Enforce](/post/enforce/)
+- Mandate ([less](/post/less/) [common](/post/common/) [for](/post/for/) compulsion)

@@ -12,25 +12,25 @@ keywords = ['ai words', 'drug']
 
 ## 释义
 - **名词 n**:
-  - 药物：[A](/post/a/) [chemical](/post/chemical/) [substance](/post/substance/) [used](/post/used/) [in](/post/in/) [the](/post/the/) [treatment](/post/treatment/), [cure](/post/cure/), prevention, [or](/post/or/) diagnosis [of](/post/of/) [disease](/post/disease/). 例如: "[The](/post/the/) [patient](/post/patient/) was prescribed [a](/post/a/) [new](/post/new/) [drug](/post/drug/) [for](/post/for/) [her](/post/her/) [condition](/post/condition/)."
-  - 毒品：An [illegal](/post/illegal/) [substance](/post/substance/) [that](/post/that/) causes addiction [and](/post/and/) [harmful](/post/harmful/) effects [on](/post/on/) [the](/post/the/) [body](/post/body/). 例如: "[Illegal](/post/illegal/) [drug](/post/drug/) [use](/post/use/) is [a](/post/a/) [major](/post/major/) [social](/post/social/) [problem](/post/problem/)."
+  - 药物：[A](/zh/post/a/) [chemical](/zh/post/chemical/) [substance](/zh/post/substance/) [used](/zh/post/used/) [in](/zh/post/in/) [the](/zh/post/the/) [treatment](/zh/post/treatment/), [cure](/zh/post/cure/), prevention, [or](/zh/post/or/) diagnosis [of](/zh/post/of/) [disease](/zh/post/disease/). 例如: "[The](/zh/post/the/) [patient](/zh/post/patient/) was prescribed [a](/zh/post/a/) [new](/zh/post/new/) [drug](/zh/post/drug/) [for](/zh/post/for/) [her](/zh/post/her/) [condition](/zh/post/condition/)."
+  - 毒品：An [illegal](/zh/post/illegal/) [substance](/zh/post/substance/) [that](/zh/post/that/) causes addiction [and](/zh/post/and/) [harmful](/zh/post/harmful/) effects [on](/zh/post/on/) [the](/zh/post/the/) [body](/zh/post/body/). 例如: "[Illegal](/zh/post/illegal/) [drug](/zh/post/drug/) [use](/zh/post/use/) is [a](/zh/post/a/) [major](/zh/post/major/) [social](/zh/post/social/) [problem](/zh/post/problem/)."
 
 - **动词 v**:
-  - 用药：[To](/post/to/) administer [a](/post/a/) [drug](/post/drug/) [to](/post/to/) [someone](/post/someone/), [especially](/post/especially/) secretly [or](/post/or/) forcibly. 例如: "[The](/post/the/) [suspect](/post/suspect/) was drugged [before](/post/before/) [being](/post/being/) questioned [by](/post/by/) [the](/post/the/) [police](/post/police/)."
+  - 用药：[To](/zh/post/to/) administer [a](/zh/post/a/) [drug](/zh/post/drug/) [to](/zh/post/to/) [someone](/zh/post/someone/), [especially](/zh/post/especially/) secretly [or](/zh/post/or/) forcibly. 例如: "[The](/zh/post/the/) [suspect](/zh/post/suspect/) was drugged [before](/zh/post/before/) [being](/zh/post/being/) questioned [by](/zh/post/by/) [the](/zh/post/the/) [police](/zh/post/police/)."
 
 ## 短语
 - "Drugstore" 通常指的是药店或便利店。
-- "[Drug](/post/drug/) addict" 指的是药物成瘾者。
-- "[Illegal](/post/illegal/) [drug](/post/drug/) [trade](/post/trade/)" 指的是非法毒品交易。
+- "[Drug](/zh/post/drug/) addict" 指的是药物成瘾者。
+- "[Illegal](/zh/post/illegal/) [drug](/zh/post/drug/) [trade](/zh/post/trade/)" 指的是非法毒品交易。
 
 ## 例句
-- 名词: "[The](/post/the/) [doctor](/post/doctor/) recommended [a](/post/a/) [daily](/post/daily/) dosage [of](/post/of/) [this](/post/this/) [drug](/post/drug/) [to](/post/to/) [manage](/post/manage/) [my](/post/my/) [pain](/post/pain/)."
-- 动词: "[The](/post/the/) [athlete](/post/athlete/) tested [positive](/post/positive/) [after](/post/after/) [being](/post/being/) drugged [without](/post/without/) [their](/post/their/) [knowledge](/post/knowledge/)."
+- 名词: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) recommended [a](/zh/post/a/) [daily](/zh/post/daily/) dosage [of](/zh/post/of/) [this](/zh/post/this/) [drug](/zh/post/drug/) [to](/zh/post/to/) [manage](/zh/post/manage/) [my](/zh/post/my/) [pain](/zh/post/pain/)."
+- 动词: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) tested [positive](/zh/post/positive/) [after](/zh/post/after/) [being](/zh/post/being/) drugged [without](/zh/post/without/) [their](/zh/post/their/) [knowledge](/zh/post/knowledge/)."
 
 ## 同义词
-- [Medicine](/post/medicine/)
+- [Medicine](/zh/post/medicine/)
 - Pharmaceutical
 - Narcotic
-- [Substance](/post/substance/)
-- [Pill](/post/pill/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) medications)
-- [Poison](/post/poison/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [harmful](/post/harmful/) [or](/post/or/) [illegal](/post/illegal/) drugs)
+- [Substance](/zh/post/substance/)
+- [Pill](/zh/post/pill/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) medications)
+- [Poison](/zh/post/poison/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [harmful](/zh/post/harmful/) [or](/zh/post/or/) [illegal](/zh/post/illegal/) drugs)

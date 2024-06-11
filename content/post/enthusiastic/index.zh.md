@@ -14,17 +14,17 @@ keywords = ['ai words', 'enthusiastic']
 - **形容词**: 充满热情的，热心的，热衷的。表示对某事有强烈的兴趣或热情。
 
 ## 短语
-- "[be](/post/be/) [enthusiastic](/post/enthusiastic/) [about](/post/about/) [something](/post/something/)" 对某事充满热情。
-- "an [enthusiastic](/post/enthusiastic/) supporter" 热心的支持者。
+- "[be](/zh/post/be/) [enthusiastic](/zh/post/enthusiastic/) [about](/zh/post/about/) [something](/zh/post/something/)" 对某事充满热情。
+- "an [enthusiastic](/zh/post/enthusiastic/) supporter" 热心的支持者。
 
 ## 例句
-- "[She](/post/she/) is [enthusiastic](/post/enthusiastic/) [about](/post/about/) [learning](/post/learning/) [new](/post/new/) languages."
-- "[The](/post/the/) [audience](/post/audience/) gave an [enthusiastic](/post/enthusiastic/) applause [after](/post/after/) [the](/post/the/) [performance](/post/performance/)."
-- "[He](/post/he/) was [so](/post/so/) [enthusiastic](/post/enthusiastic/) [about](/post/about/) [the](/post/the/) [project](/post/project/) [that](/post/that/) [he](/post/he/) worked [on](/post/on/) [it](/post/it/) [day](/post/day/) [and](/post/and/) [night](/post/night/)."
+- "[She](/zh/post/she/) is [enthusiastic](/zh/post/enthusiastic/) [about](/zh/post/about/) [learning](/zh/post/learning/) [new](/zh/post/new/) languages."
+- "[The](/zh/post/the/) [audience](/zh/post/audience/) gave an [enthusiastic](/zh/post/enthusiastic/) applause [after](/zh/post/after/) [the](/zh/post/the/) [performance](/zh/post/performance/)."
+- "[He](/zh/post/he/) was [so](/zh/post/so/) [enthusiastic](/zh/post/enthusiastic/) [about](/zh/post/about/) [the](/zh/post/the/) [project](/zh/post/project/) [that](/zh/post/that/) [he](/zh/post/he/) worked [on](/zh/post/on/) [it](/zh/post/it/) [day](/zh/post/day/) [and](/zh/post/and/) [night](/zh/post/night/)."
 
 ## 同义词
 - passionate
-- [keen](/post/keen/)
-- [eager](/post/eager/)
+- [keen](/zh/post/keen/)
+- [eager](/zh/post/eager/)
 - excited
 - devoted

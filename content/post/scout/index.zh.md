@@ -8,28 +8,28 @@ keywords = ['ai words', 'scout']
 +++
 
 ## 读音
-/[scout](/post/scout/)/
+/[scout](/zh/post/scout/)/
 
 ## 释义
 - **名词**:
-  - 侦察兵，童子军：[A](/post/a/) [person](/post/person/), [especially](/post/especially/) [a](/post/a/) [child](/post/child/) or少年, trained [in](/post/in/) military-style activities [and](/post/and/) skills [for](/post/for/) [use](/post/use/) [in](/post/in/) emergencies [or](/post/or/) [for](/post/for/) educational purposes.
-  - 观察员，探子：[A](/post/a/) [person](/post/person/) [who](/post/who/) searches [for](/post/for/) [information](/post/information/) [or](/post/or/) [potential](/post/potential/) [talent](/post/talent/), typically [in](/post/in/) [a](/post/a/) discreet [or](/post/or/) informal [manner](/post/manner/).
+  - 侦察兵，童子军：[A](/zh/post/a/) [person](/zh/post/person/), [especially](/zh/post/especially/) [a](/zh/post/a/) [child](/zh/post/child/) or少年, trained [in](/zh/post/in/) military-style activities [and](/zh/post/and/) skills [for](/zh/post/for/) [use](/zh/post/use/) [in](/zh/post/in/) emergencies [or](/zh/post/or/) [for](/zh/post/for/) educational purposes.
+  - 观察员，探子：[A](/zh/post/a/) [person](/zh/post/person/) [who](/zh/post/who/) searches [for](/zh/post/for/) [information](/zh/post/information/) [or](/zh/post/or/) [potential](/zh/post/potential/) [talent](/zh/post/talent/), typically [in](/zh/post/in/) [a](/zh/post/a/) discreet [or](/zh/post/or/) informal [manner](/zh/post/manner/).
 
 - **动词**:
-  - 侦查，侦探：[To](/post/to/) [search](/post/search/) an [area](/post/area/) [or](/post/or/) [gather](/post/gather/) [information](/post/information/) [about](/post/about/) [it](/post/it/), [often](/post/often/) secretly [or](/post/or/) carefully.
-  - 挑选（运动员、演员等）：[To](/post/to/) [search](/post/search/) [for](/post/for/) [and](/post/and/) [select](/post/select/) talented individuals, [such](/post/such/) [as](/post/as/) athletes [or](/post/or/) actors, [for](/post/for/) [a](/post/a/) [team](/post/team/) [or](/post/or/) [a](/post/a/) [performance](/post/performance/).
+  - 侦查，侦探：[To](/zh/post/to/) [search](/zh/post/search/) an [area](/zh/post/area/) [or](/zh/post/or/) [gather](/zh/post/gather/) [information](/zh/post/information/) [about](/zh/post/about/) [it](/zh/post/it/), [often](/zh/post/often/) secretly [or](/zh/post/or/) carefully.
+  - 挑选（运动员、演员等）：[To](/zh/post/to/) [search](/zh/post/search/) [for](/zh/post/for/) [and](/zh/post/and/) [select](/zh/post/select/) talented individuals, [such](/zh/post/such/) [as](/zh/post/as/) athletes [or](/zh/post/or/) actors, [for](/zh/post/for/) [a](/zh/post/a/) [team](/zh/post/team/) [or](/zh/post/or/) [a](/zh/post/a/) [performance](/zh/post/performance/).
 
 ## 短语
-- "[Scout](/post/scout/) [around](/post/around/)" 意为四处搜寻或侦察。
-- "[Scout](/post/scout/) [team](/post/team/)" 在体育中指的是模拟对手的预备队。
+- "[Scout](/zh/post/scout/) [around](/zh/post/around/)" 意为四处搜寻或侦察。
+- "[Scout](/zh/post/scout/) [team](/zh/post/team/)" 在体育中指的是模拟对手的预备队。
 
 ## 例句
-- 名词: "[The](/post/the/) [boy](/post/boy/) [scout](/post/scout/) helped [set](/post/set/) [up](/post/up/) [the](/post/the/) campsite."
-- 动词: "[The](/post/the/) [talent](/post/talent/) [scout](/post/scout/) discovered [the](/post/the/) [singer](/post/singer/) [at](/post/at/) [a](/post/a/) [local](/post/local/) gig."
+- 名词: "[The](/zh/post/the/) [boy](/zh/post/boy/) [scout](/zh/post/scout/) helped [set](/zh/post/set/) [up](/zh/post/up/) [the](/zh/post/the/) campsite."
+- 动词: "[The](/zh/post/the/) [talent](/zh/post/talent/) [scout](/zh/post/scout/) discovered [the](/zh/post/the/) [singer](/zh/post/singer/) [at](/zh/post/at/) [a](/zh/post/a/) [local](/zh/post/local/) gig."
 
 ## 同义词
 - Reconnoitre
-- [Investigate](/post/investigate/)
-- [Search](/post/search/)
+- [Investigate](/zh/post/investigate/)
+- [Search](/zh/post/search/)
 - Probe
-- [Scout](/post/scout/) [out](/post/out/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))
+- [Scout](/zh/post/scout/) [out](/zh/post/out/) ([as](/zh/post/as/) [a](/zh/post/a/) [verb](/zh/post/verb/))

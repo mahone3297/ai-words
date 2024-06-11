@@ -11,21 +11,21 @@ keywords = ['ai words', 'chief']
 /ˈtʃiːf/
 
 ## 释义
-- **名词 (n)**: 首领，领袖；主要负责人；最高级别的职位。例如: "[The](/post/the/) [chief](/post/chief/) [of](/post/of/) [police](/post/police/) is [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [the](/post/the/) [department](/post/department/)." 
-- **形容词 (adj)**: 主要的，首要的；首席的；最高的。例如: "[He](/post/he/) plays [the](/post/the/) [chief](/post/chief/) [role](/post/role/) [in](/post/in/) [the](/post/the/) [play](/post/play/)."
+- **名词 (n)**: 首领，领袖；主要负责人；最高级别的职位。例如: "[The](/zh/post/the/) [chief](/zh/post/chief/) [of](/zh/post/of/) [police](/zh/post/police/) is [in](/zh/post/in/) [charge](/zh/post/charge/) [of](/zh/post/of/) [the](/zh/post/the/) [department](/zh/post/department/)." 
+- **形容词 (adj)**: 主要的，首要的；首席的；最高的。例如: "[He](/zh/post/he/) plays [the](/zh/post/the/) [chief](/zh/post/chief/) [role](/zh/post/role/) [in](/zh/post/in/) [the](/zh/post/the/) [play](/zh/post/play/)."
 
 ## 短语
-- "[chief](/post/chief/) [executive](/post/executive/) [officer](/post/officer/) (CEO)" 首席执行官
-- "[chief](/post/chief/) [financial](/post/financial/) [officer](/post/officer/) (CFO)" 首席财务官
-- "[chief](/post/chief/) [cook](/post/cook/) [and](/post/and/) [bottle](/post/bottle/) washer" 俚语，指负责所有家务的人
+- "[chief](/zh/post/chief/) [executive](/zh/post/executive/) [officer](/zh/post/officer/) (CEO)" 首席执行官
+- "[chief](/zh/post/chief/) [financial](/zh/post/financial/) [officer](/zh/post/officer/) (CFO)" 首席财务官
+- "[chief](/zh/post/chief/) [cook](/zh/post/cook/) [and](/zh/post/and/) [bottle](/zh/post/bottle/) washer" 俚语，指负责所有家务的人
 
 ## 例句
-- 名词: "[The](/post/the/) company's [chief](/post/chief/) [executive](/post/executive/) [will](/post/will/) [give](/post/give/) [a](/post/a/) [speech](/post/speech/) [at](/post/at/) [the](/post/the/) [conference](/post/conference/)."
-- 形容词: "[She](/post/she/) is [the](/post/the/) [chief](/post/chief/) architect [behind](/post/behind/) [the](/post/the/) [project](/post/project/)."
+- 名词: "[The](/zh/post/the/) company's [chief](/zh/post/chief/) [executive](/zh/post/executive/) [will](/zh/post/will/) [give](/zh/post/give/) [a](/zh/post/a/) [speech](/zh/post/speech/) [at](/zh/post/at/) [the](/zh/post/the/) [conference](/zh/post/conference/)."
+- 形容词: "[She](/zh/post/she/) is [the](/zh/post/the/) [chief](/zh/post/chief/) architect [behind](/zh/post/behind/) [the](/zh/post/the/) [project](/zh/post/project/)."
 
 ## 同义词
-- [Head](/post/head/)
-- [Leader](/post/leader/)
-- [Director](/post/director/)
-- [Boss](/post/boss/)
-- [Principal](/post/principal/)
+- [Head](/zh/post/head/)
+- [Leader](/zh/post/leader/)
+- [Director](/zh/post/director/)
+- [Boss](/zh/post/boss/)
+- [Principal](/zh/post/principal/)

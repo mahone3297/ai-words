@@ -12,24 +12,24 @@ keywords = ['ai words', 'transmit']
 
 ## 释义
 - **动词**:
-1. 传输；传递：例如 "[The](/post/the/) [radio](/post/radio/) [station](/post/station/) transmits [its](/post/its/) [signal](/post/signal/) [over](/post/over/) [long](/post/long/) distances."
-2. 发送；播送：例如 "[The](/post/the/) TV [channel](/post/channel/) transmits [news](/post/news/) bulletins [every](/post/every/) [hour](/post/hour/)."
-3. 传播（疾病）：例如 "[It](/post/it/) is [possible](/post/possible/) [to](/post/to/) [transmit](/post/transmit/) an infection [through](/post/through/) contaminated [food](/post/food/)."
-4. 遗传（特征）：例如 "[Some](/post/some/) traits [can](/post/can/) [be](/post/be/) transmitted [from](/post/from/) parents [to](/post/to/) offspring."
+1. 传输；传递：例如 "[The](/zh/post/the/) [radio](/zh/post/radio/) [station](/zh/post/station/) transmits [its](/zh/post/its/) [signal](/zh/post/signal/) [over](/zh/post/over/) [long](/zh/post/long/) distances."
+2. 发送；播送：例如 "[The](/zh/post/the/) TV [channel](/zh/post/channel/) transmits [news](/zh/post/news/) bulletins [every](/zh/post/every/) [hour](/zh/post/hour/)."
+3. 传播（疾病）：例如 "[It](/zh/post/it/) is [possible](/zh/post/possible/) [to](/zh/post/to/) [transmit](/zh/post/transmit/) an infection [through](/zh/post/through/) contaminated [food](/zh/post/food/)."
+4. 遗传（特征）：例如 "[Some](/zh/post/some/) traits [can](/zh/post/can/) [be](/zh/post/be/) transmitted [from](/zh/post/from/) parents [to](/zh/post/to/) offspring."
 
 ## 短语
-- "[transmit](/post/transmit/) [data](/post/data/)" 意为发送数据。
-- "[transmit](/post/transmit/) [information](/post/information/)" 表示传递信息。
-- "[transmit](/post/transmit/) [a](/post/a/) virus" 指传播病毒。
+- "[transmit](/zh/post/transmit/) [data](/zh/post/data/)" 意为发送数据。
+- "[transmit](/zh/post/transmit/) [information](/zh/post/information/)" 表示传递信息。
+- "[transmit](/zh/post/transmit/) [a](/zh/post/a/) virus" 指传播病毒。
 
 ## 例句
 - 动词: 
-  - "[The](/post/the/) [satellite](/post/satellite/) transmits [live](/post/live/) footage [of](/post/of/) [the](/post/the/) [event](/post/event/) [to](/post/to/) viewers worldwide."
-  - "Doctors are concerned [about](/post/about/) [how](/post/how/) [quickly](/post/quickly/) [this](/post/this/) virus [can](/post/can/) [transmit](/post/transmit/) [between](/post/between/) [people](/post/people/)."
+  - "[The](/zh/post/the/) [satellite](/zh/post/satellite/) transmits [live](/zh/post/live/) footage [of](/zh/post/of/) [the](/zh/post/the/) [event](/zh/post/event/) [to](/zh/post/to/) viewers worldwide."
+  - "Doctors are concerned [about](/zh/post/about/) [how](/zh/post/how/) [quickly](/zh/post/quickly/) [this](/zh/post/this/) virus [can](/zh/post/can/) [transmit](/zh/post/transmit/) [between](/zh/post/between/) [people](/zh/post/people/)."
 
 ## 同义词
-- [convey](/post/convey/)
-- [pass](/post/pass/) [on](/post/on/)
-- [communicate](/post/communicate/)
+- [convey](/zh/post/convey/)
+- [pass](/zh/post/pass/) [on](/zh/post/on/)
+- [communicate](/zh/post/communicate/)
 - dispatch
-- [broadcast](/post/broadcast/)
+- [broadcast](/zh/post/broadcast/)

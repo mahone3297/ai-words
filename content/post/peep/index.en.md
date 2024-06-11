@@ -7,33 +7,33 @@ description = '[piːp] vi.(从缝隙中)偷看'
 keywords = ['ai words', 'peep']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /piːp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [quick](/en/post/quick/), furtive [glance](/en/post/glance/) [or](/en/post/or/) [look](/en/post/look/); [a](/en/post/a/) [peep](/en/post/peep/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) took [a](/en/post/a/) [quick](/en/post/quick/) [peep](/en/post/peep/) [through](/en/post/through/) [the](/en/post/the/) keyhole."
-   - **[Verb](/en/post/verb/)**: 2. [To](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [brief](/en/post/brief/) [look](/en/post/look/), [especially](/en/post/especially/) secretly [or](/en/post/or/) shyly. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) children were peeping [at](/en/post/at/) [the](/en/post/the/) [birthday](/en/post/birthday/) presents [under](/en/post/under/) [the](/en/post/the/) [tree](/en/post/tree/)."
-   - **[Verb](/en/post/verb/)**: 3. (informal) [To](/en/post/to/) [listen](/en/post/listen/) secretly [or](/en/post/or/) eavesdrop. [For](/en/post/for/) [example](/en/post/example/): "I heard [her](/en/post/her/) peeping [through](/en/post/through/) [the](/en/post/the/) [door](/en/post/door/)."
-   - **[Verb](/en/post/verb/)**: 4. (British, informal) [To](/en/post/to/) [start](/en/post/start/) [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) an [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "Let's [peep](/en/post/peep/) [at](/en/post/at/) [some](/en/post/some/) [old](/en/post/old/) photos."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [quick](/post/quick/), furtive [glance](/post/glance/) [or](/post/or/) [look](/post/look/); [a](/post/a/) [peep](/post/peep/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) took [a](/post/a/) [quick](/post/quick/) [peep](/post/peep/) [through](/post/through/) [the](/post/the/) keyhole."
+   - **[Verb](/post/verb/)**: 2. [To](/post/to/) [take](/post/take/) [a](/post/a/) [brief](/post/brief/) [look](/post/look/), [especially](/post/especially/) secretly [or](/post/or/) shyly. [For](/post/for/) [example](/post/example/): "[The](/post/the/) children were peeping [at](/post/at/) [the](/post/the/) [birthday](/post/birthday/) presents [under](/post/under/) [the](/post/the/) [tree](/post/tree/)."
+   - **[Verb](/post/verb/)**: 3. (informal) [To](/post/to/) [listen](/post/listen/) secretly [or](/post/or/) eavesdrop. [For](/post/for/) [example](/post/example/): "I heard [her](/post/her/) peeping [through](/post/through/) [the](/post/the/) [door](/post/door/)."
+   - **[Verb](/post/verb/)**: 4. (British, informal) [To](/post/to/) [start](/post/start/) [or](/post/or/) [engage](/post/engage/) [in](/post/in/) an [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "Let's [peep](/post/peep/) [at](/post/at/) [some](/post/some/) [old](/post/old/) photos."
 
 ## Phrases
-- "[Peep](/en/post/peep/) [through](/en/post/through/) [the](/en/post/the/) [window](/en/post/window/)" [means](/en/post/means/) [to](/en/post/to/) [look](/en/post/look/) secretly [through](/en/post/through/) [a](/en/post/a/) [small](/en/post/small/) [opening](/en/post/opening/).
-- "[Peep](/en/post/peep/) [show](/en/post/show/)" refers [to](/en/post/to/) [a](/en/post/a/) [display](/en/post/display/) [or](/en/post/or/) [exhibition](/en/post/exhibition/) [of](/en/post/of/) [private](/en/post/private/) images [or](/en/post/or/) scenes.
-- "Peeping Tom" is [a](/en/post/a/) slang [term](/en/post/term/) [for](/en/post/for/) [someone](/en/post/someone/) [who](/en/post/who/) looks [at](/en/post/at/) others inappropriately [or](/en/post/or/) invades [their](/en/post/their/) privacy.
+- "[Peep](/post/peep/) [through](/post/through/) [the](/post/the/) [window](/post/window/)" [means](/post/means/) [to](/post/to/) [look](/post/look/) secretly [through](/post/through/) [a](/post/a/) [small](/post/small/) [opening](/post/opening/).
+- "[Peep](/post/peep/) [show](/post/show/)" refers [to](/post/to/) [a](/post/a/) [display](/post/display/) [or](/post/or/) [exhibition](/post/exhibition/) [of](/post/of/) [private](/post/private/) images [or](/post/or/) scenes.
+- "Peeping Tom" is [a](/post/a/) slang [term](/post/term/) [for](/post/for/) [someone](/post/someone/) [who](/post/who/) looks [at](/post/at/) others inappropriately [or](/post/or/) invades [their](/post/their/) privacy.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) couldn't [resist](/en/post/resist/) taking [a](/en/post/a/) [peep](/en/post/peep/) [at](/en/post/at/) [her](/en/post/her/) neighbor's [new](/en/post/new/) [car](/en/post/car/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) children were peeping [at](/en/post/at/) [the](/en/post/the/) birds [in](/en/post/in/) [the](/en/post/the/) [garden](/en/post/garden/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) caught [the](/en/post/the/) [boy](/en/post/boy/) peeping [at](/en/post/at/) [his](/en/post/his/) homework."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) couldn't [resist](/post/resist/) taking [a](/post/a/) [peep](/post/peep/) [at](/post/at/) [her](/post/her/) neighbor's [new](/post/new/) [car](/post/car/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) children were peeping [at](/post/at/) [the](/post/the/) birds [in](/post/in/) [the](/post/the/) [garden](/post/garden/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) caught [the](/post/the/) [boy](/post/boy/) peeping [at](/post/at/) [his](/post/his/) homework."
 
 ## Synonyms
-- [Glimpse](/en/post/glimpse/)
+- [Glimpse](/post/glimpse/)
 - Snoop
 - Sniff
 - Peer
-- [Glance](/en/post/glance/)
+- [Glance](/post/glance/)
 
 ## Antonyms
-- [Stare](/en/post/stare/)
-- [Observe](/en/post/observe/) openly
-- Peek ([another](/en/post/another/) [verb](/en/post/verb/) [form](/en/post/form/) [with](/en/post/with/) [similar](/en/post/similar/) [meaning](/en/post/meaning/))
+- [Stare](/post/stare/)
+- [Observe](/post/observe/) openly
+- Peek ([another](/post/another/) [verb](/post/verb/) [form](/post/form/) [with](/post/with/) [similar](/post/similar/) [meaning](/post/meaning/))

@@ -7,35 +7,35 @@ description = '[ˈendiŋ] n.结尾，结局；死亡'
 keywords = ['ai words', 'ending']
 +++
 
-## [Word](/en/post/word/): [Ending](/en/post/ending/)
+## [Word](/post/word/): [Ending](/post/ending/)
 
-### [Pronunciation](/en/post/pronunciation/)
+### [Pronunciation](/post/pronunciation/)
 /ˈendɪŋ/
 
 ### Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [final](/en/post/final/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [story](/en/post/story/), [a](/en/post/a/) [movie](/en/post/movie/), [or](/en/post/or/) [a](/en/post/a/) written [text](/en/post/text/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [conclusion](/en/post/conclusion/) [or](/en/post/or/) termination [of](/en/post/of/) an [event](/en/post/event/), [process](/en/post/process/), [or](/en/post/or/) [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [ending](/en/post/ending/) [of](/en/post/of/) [the](/en/post/the/) [book](/en/post/book/) was [quite](/en/post/quite/) [unexpected](/en/post/unexpected/)."
-  - _In Grammar_: [The](/en/post/the/) inflectional [form](/en/post/form/) [that](/en/post/that/) [a](/en/post/a/) [word](/en/post/word/) takes [to](/en/post/to/) [indicate](/en/post/indicate/) [its](/en/post/its/) [grammatical](/en/post/grammatical/) [function](/en/post/function/) [within](/en/post/within/) [a](/en/post/a/) [sentence](/en/post/sentence/), [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) -ing [form](/en/post/form/) [of](/en/post/of/) [a](/en/post/a/) [verb](/en/post/verb/).
-  - _In Phonology_: [The](/en/post/the/) [sound](/en/post/sound/) [or](/en/post/or/) sounds added [to](/en/post/to/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) [word](/en/post/word/) [to](/en/post/to/) [mark](/en/post/mark/) [it](/en/post/it/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [grammatical](/en/post/grammatical/) [purpose](/en/post/purpose/).
+- **[Noun](/post/noun/)**: [The](/post/the/) [final](/post/final/) [part](/post/part/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [story](/post/story/), [a](/post/a/) [movie](/post/movie/), [or](/post/or/) [a](/post/a/) written [text](/post/text/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [conclusion](/post/conclusion/) [or](/post/or/) termination [of](/post/of/) an [event](/post/event/), [process](/post/process/), [or](/post/or/) [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [ending](/post/ending/) [of](/post/of/) [the](/post/the/) [book](/post/book/) was [quite](/post/quite/) [unexpected](/post/unexpected/)."
+  - _In Grammar_: [The](/post/the/) inflectional [form](/post/form/) [that](/post/that/) [a](/post/a/) [word](/post/word/) takes [to](/post/to/) [indicate](/post/indicate/) [its](/post/its/) [grammatical](/post/grammatical/) [function](/post/function/) [within](/post/within/) [a](/post/a/) [sentence](/post/sentence/), [such](/post/such/) [as](/post/as/) [the](/post/the/) -ing [form](/post/form/) [of](/post/of/) [a](/post/a/) [verb](/post/verb/).
+  - _In Phonology_: [The](/post/the/) [sound](/post/sound/) [or](/post/or/) sounds added [to](/post/to/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [a](/post/a/) [word](/post/word/) [to](/post/to/) [mark](/post/mark/) [it](/post/it/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [grammatical](/post/grammatical/) [purpose](/post/purpose/).
 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/) ([noun](/en/post/noun/)): "[The](/en/post/the/) [film](/en/post/film/) had [a](/en/post/a/) satisfying [and](/en/post/and/) [emotional](/en/post/emotional/) [ending](/en/post/ending/)."
+  > [Example](/post/example/) [Sentence](/post/sentence/) ([noun](/post/noun/)): "[The](/post/the/) [film](/post/film/) had [a](/post/a/) satisfying [and](/post/and/) [emotional](/post/emotional/) [ending](/post/ending/)."
   > 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/) ([grammar](/en/post/grammar/)): "Swimming is [the](/en/post/the/) [present](/en/post/present/) participle [ending](/en/post/ending/) [of](/en/post/of/) [the](/en/post/the/) [verb](/en/post/verb/) '[swim](/en/post/swim/)'."
+  > [Example](/post/example/) [Sentence](/post/sentence/) ([grammar](/post/grammar/)): "Swimming is [the](/post/the/) [present](/post/present/) participle [ending](/post/ending/) [of](/post/of/) [the](/post/the/) [verb](/post/verb/) '[swim](/post/swim/)'."
   
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [bring](/en/post/bring/) [to](/en/post/to/) an [end](/en/post/end/); [to](/en/post/to/) [conclude](/en/post/conclude/) [or](/en/post/or/) [finish](/en/post/finish/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [director](/en/post/director/) managed [to](/en/post/to/) [ending](/en/post/ending/) [the](/en/post/the/) [meeting](/en/post/meeting/) [on](/en/post/on/) [time](/en/post/time/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [bring](/post/bring/) [to](/post/to/) an [end](/post/end/); [to](/post/to/) [conclude](/post/conclude/) [or](/post/or/) [finish](/post/finish/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [director](/post/director/) managed [to](/post/to/) [ending](/post/ending/) [the](/post/the/) [meeting](/post/meeting/) [on](/post/on/) [time](/post/time/)."
 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): "It's [time](/en/post/time/) [we](/en/post/we/) ended [this](/en/post/this/) [discussion](/en/post/discussion/) [and](/en/post/and/) reached [a](/en/post/a/) [decision](/en/post/decision/)."
+  > [Example](/post/example/) [Sentence](/post/sentence/): "It's [time](/post/time/) [we](/post/we/) ended [this](/post/this/) [discussion](/post/discussion/) [and](/post/and/) reached [a](/post/a/) [decision](/post/decision/)."
 
 ### Phrases
-- "[Happy](/en/post/happy/) [ending](/en/post/ending/)": An unexpectedly [positive](/en/post/positive/) [outcome](/en/post/outcome/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) storytelling contexts [but](/en/post/but/) [also](/en/post/also/) [in](/en/post/in/) informal references [to](/en/post/to/) massages [or](/en/post/or/) [other](/en/post/other/) services.
-- "[Sad](/en/post/sad/) [ending](/en/post/ending/)": [A](/en/post/a/) disappointing [or](/en/post/or/) tragic [conclusion](/en/post/conclusion/).
-- "[In](/en/post/in/) [the](/en/post/the/) [ending](/en/post/ending/) stages": [Being](/en/post/being/) [in](/en/post/in/) [the](/en/post/the/) [final](/en/post/final/) [phase](/en/post/phase/) [or](/en/post/or/) nearing [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [something](/en/post/something/).
+- "[Happy](/post/happy/) [ending](/post/ending/)": An unexpectedly [positive](/post/positive/) [outcome](/post/outcome/), [often](/post/often/) [used](/post/used/) [in](/post/in/) storytelling contexts [but](/post/but/) [also](/post/also/) [in](/post/in/) informal references [to](/post/to/) massages [or](/post/or/) [other](/post/other/) services.
+- "[Sad](/post/sad/) [ending](/post/ending/)": [A](/post/a/) disappointing [or](/post/or/) tragic [conclusion](/post/conclusion/).
+- "[In](/post/in/) [the](/post/the/) [ending](/post/ending/) stages": [Being](/post/being/) [in](/post/in/) [the](/post/the/) [final](/post/final/) [phase](/post/phase/) [or](/post/or/) nearing [the](/post/the/) [end](/post/end/) [of](/post/of/) [something](/post/something/).
 
 ### Synonyms
-- [Conclusion](/en/post/conclusion/)
+- [Conclusion](/post/conclusion/)
 - Termination
 - Finale
-- [Close](/en/post/close/)
-- [Finish](/en/post/finish/)
-- [Resolution](/en/post/resolution/)
-- Coda ([in](/en/post/in/) [literary](/en/post/literary/) [or](/en/post/or/) [musical](/en/post/musical/) contexts)
-- Concluding ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
+- [Close](/post/close/)
+- [Finish](/post/finish/)
+- [Resolution](/post/resolution/)
+- Coda ([in](/post/in/) [literary](/post/literary/) [or](/post/or/) [musical](/post/musical/) contexts)
+- Concluding ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))

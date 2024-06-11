@@ -11,24 +11,24 @@ keywords = ['ai words', 'plain']
 /pleɪn/
 
 ## 释义
-- **形容词**: 简单的，不复杂的。例如: "[She](/post/she/) prefers [a](/post/a/) [plain](/post/plain/) [white](/post/white/) [shirt](/post/shirt/) [over](/post/over/) [a](/post/a/) patterned [one](/post/one/)."
-- **形容词**: 平坦的，无起伏的。例如: "[The](/post/the/) [land](/post/land/) was [so](/post/so/) [plain](/post/plain/) [that](/post/that/) [you](/post/you/) [could](/post/could/) [see](/post/see/) [for](/post/for/) miles."
-- **形容词**: 清楚的，明白的。例如: "[The](/post/the/) instructions were [plain](/post/plain/) [and](/post/and/) [easy](/post/easy/) [to](/post/to/) [follow](/post/follow/)."
-- **名词**: 平原，广阔的平坦地区。例如: "[The](/post/the/) prairie is [a](/post/a/) [vast](/post/vast/) [plain](/post/plain/) [in](/post/in/) [North](/post/north/) [America](/post/america/)."
-- **副词**: 直接地，坦率地。例如: "[He](/post/he/) spoke [to](/post/to/) [her](/post/her/) [plain](/post/plain/), [without](/post/without/) [any](/post/any/) sugarcoating."
+- **形容词**: 简单的，不复杂的。例如: "[She](/zh/post/she/) prefers [a](/zh/post/a/) [plain](/zh/post/plain/) [white](/zh/post/white/) [shirt](/zh/post/shirt/) [over](/zh/post/over/) [a](/zh/post/a/) patterned [one](/zh/post/one/)."
+- **形容词**: 平坦的，无起伏的。例如: "[The](/zh/post/the/) [land](/zh/post/land/) was [so](/zh/post/so/) [plain](/zh/post/plain/) [that](/zh/post/that/) [you](/zh/post/you/) [could](/zh/post/could/) [see](/zh/post/see/) [for](/zh/post/for/) miles."
+- **形容词**: 清楚的，明白的。例如: "[The](/zh/post/the/) instructions were [plain](/zh/post/plain/) [and](/zh/post/and/) [easy](/zh/post/easy/) [to](/zh/post/to/) [follow](/zh/post/follow/)."
+- **名词**: 平原，广阔的平坦地区。例如: "[The](/zh/post/the/) prairie is [a](/zh/post/a/) [vast](/zh/post/vast/) [plain](/zh/post/plain/) [in](/zh/post/in/) [North](/zh/post/north/) [America](/zh/post/america/)."
+- **副词**: 直接地，坦率地。例如: "[He](/zh/post/he/) spoke [to](/zh/post/to/) [her](/zh/post/her/) [plain](/zh/post/plain/), [without](/zh/post/without/) [any](/zh/post/any/) sugarcoating."
 
 ## 短语
-- "[plain](/post/plain/) [and](/post/and/) [simple](/post/simple/)" 意为简单明了，不复杂。
-- "[in](/post/in/) [plain](/post/plain/) [sight](/post/sight/)" 意为在显眼的地方，容易看到。
+- "[plain](/zh/post/plain/) [and](/zh/post/and/) [simple](/zh/post/simple/)" 意为简单明了，不复杂。
+- "[in](/zh/post/in/) [plain](/zh/post/plain/) [sight](/zh/post/sight/)" 意为在显眼的地方，容易看到。
 
 ## 例句
-- 形容词: "[The](/post/the/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [room](/post/room/) was [very](/post/very/) [plain](/post/plain/), [with](/post/with/) [no](/post/no/) [fancy](/post/fancy/) decorations."
-- 形容词: "[The](/post/the/) [road](/post/road/) [ahead](/post/ahead/) was [plain](/post/plain/), allowing [us](/post/us/) [to](/post/to/) [drive](/post/drive/) [quickly](/post/quickly/)."
-- 副词: "[She](/post/she/) spoke [to](/post/to/) [him](/post/him/) [plain](/post/plain/), telling [him](/post/him/) [exactly](/post/exactly/) [what](/post/what/) [she](/post/she/) [thought](/post/thought/)."
+- 形容词: "[The](/zh/post/the/) [design](/zh/post/design/) [of](/zh/post/of/) [the](/zh/post/the/) [room](/zh/post/room/) was [very](/zh/post/very/) [plain](/zh/post/plain/), [with](/zh/post/with/) [no](/zh/post/no/) [fancy](/zh/post/fancy/) decorations."
+- 形容词: "[The](/zh/post/the/) [road](/zh/post/road/) [ahead](/zh/post/ahead/) was [plain](/zh/post/plain/), allowing [us](/zh/post/us/) [to](/zh/post/to/) [drive](/zh/post/drive/) [quickly](/zh/post/quickly/)."
+- 副词: "[She](/zh/post/she/) spoke [to](/zh/post/to/) [him](/zh/post/him/) [plain](/zh/post/plain/), telling [him](/zh/post/him/) [exactly](/zh/post/exactly/) [what](/zh/post/what/) [she](/zh/post/she/) [thought](/zh/post/thought/)."
 
 ## 同义词
-- [Simple](/post/simple/)
+- [Simple](/zh/post/simple/)
 - Unadorned
-- [Bare](/post/bare/)
-- [Basic](/post/basic/)
+- [Bare](/zh/post/bare/)
+- [Basic](/zh/post/basic/)
 - Straightforward

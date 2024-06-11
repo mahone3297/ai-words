@@ -7,44 +7,44 @@ description = '[lei] vt.置放；铺设；设置'
 keywords = ['ai words', 'lay']
 +++
 
-## [Word](/en/post/word/): [Lay](/en/post/lay/)
+## [Word](/post/word/): [Lay](/post/lay/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /leɪ/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (transitive)**: [To](/en/post/to/) [place](/en/post/place/) [something](/en/post/something/) [down](/en/post/down/) [in](/en/post/in/) [a](/en/post/a/) [horizontal](/en/post/horizontal/) [position](/en/post/position/) [or](/en/post/or/) [to](/en/post/to/) [put](/en/post/put/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [location](/en/post/location/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) laid [the](/en/post/the/) [book](/en/post/book/) [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
-  - **[Past](/en/post/past/) [tense](/en/post/tense/)**: laid /lād/
-  - **[Past](/en/post/past/) participle**: laid
-  - **[Usage](/en/post/usage/)**: "[He](/en/post/he/) laid [his](/en/post/his/) [coat](/en/post/coat/) [over](/en/post/over/) [the](/en/post/the/) [back](/en/post/back/) [of](/en/post/of/) [the](/en/post/the/) [chair](/en/post/chair/)."
+- **[Verb](/post/verb/) (transitive)**: [To](/post/to/) [place](/post/place/) [something](/post/something/) [down](/post/down/) [in](/post/in/) [a](/post/a/) [horizontal](/post/horizontal/) [position](/post/position/) [or](/post/or/) [to](/post/to/) [put](/post/put/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [location](/post/location/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) laid [the](/post/the/) [book](/post/book/) [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+  - **[Past](/post/past/) [tense](/post/tense/)**: laid /lād/
+  - **[Past](/post/past/) participle**: laid
+  - **[Usage](/post/usage/)**: "[He](/post/he/) laid [his](/post/his/) [coat](/post/coat/) [over](/post/over/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [the](/post/the/) [chair](/post/chair/)."
 
-- **[Verb](/en/post/verb/) (intransitive)**: [To](/en/post/to/) recline, [rest](/en/post/rest/), [or](/en/post/or/) [be](/en/post/be/) situated. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [dog](/en/post/dog/) likes [to](/en/post/to/) [lay](/en/post/lay/) [in](/en/post/in/) [the](/en/post/the/) [sun](/en/post/sun/)."
-  - **[Past](/en/post/past/) [tense](/en/post/tense/)**: [lay](/en/post/lay/) /leɪ/
-  - **[Past](/en/post/past/) participle**: lain
-  - **[Usage](/en/post/usage/)**: "[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) hike, [they](/en/post/they/) [lay](/en/post/lay/) exhausted [on](/en/post/on/) [the](/en/post/the/) [grass](/en/post/grass/)."
+- **[Verb](/post/verb/) (intransitive)**: [To](/post/to/) recline, [rest](/post/rest/), [or](/post/or/) [be](/post/be/) situated. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [dog](/post/dog/) likes [to](/post/to/) [lay](/post/lay/) [in](/post/in/) [the](/post/the/) [sun](/post/sun/)."
+  - **[Past](/post/past/) [tense](/post/tense/)**: [lay](/post/lay/) /leɪ/
+  - **[Past](/post/past/) participle**: lain
+  - **[Usage](/post/usage/)**: "[After](/post/after/) [the](/post/the/) [long](/post/long/) hike, [they](/post/they/) [lay](/post/lay/) exhausted [on](/post/on/) [the](/post/the/) [grass](/post/grass/)."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [set](/en/post/set/) [up](/en/post/up/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) implications [of](/en/post/of/) planning [or](/en/post/or/) [design](/en/post/design/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) laid [the](/en/post/the/) groundwork [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/)."
-  - **[Usage](/en/post/usage/)**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [lay](/en/post/lay/) [out](/en/post/out/) [the](/en/post/the/) [picnic](/en/post/picnic/) [blanket](/en/post/blanket/) [before](/en/post/before/) [the](/en/post/the/) guests [arrive](/en/post/arrive/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [establish](/post/establish/) [or](/post/or/) [set](/post/set/) [up](/post/up/) [something](/post/something/), [often](/post/often/) [with](/post/with/) implications [of](/post/of/) planning [or](/post/or/) [design](/post/design/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) laid [the](/post/the/) groundwork [for](/post/for/) [the](/post/the/) [new](/post/new/) [project](/post/project/)."
+  - **[Usage](/post/usage/)**: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [lay](/post/lay/) [out](/post/out/) [the](/post/the/) [picnic](/post/picnic/) [blanket](/post/blanket/) [before](/post/before/) [the](/post/the/) guests [arrive](/post/arrive/)."
 
-- **[Verb](/en/post/verb/)**: [In](/en/post/in/) [some](/en/post/some/) dialects, [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) '[to](/en/post/to/) [lie](/en/post/lie/)' ([to](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [or](/en/post/or/) [maintain](/en/post/maintain/) [a](/en/post/a/) prostrate [position](/en/post/position/)). [This](/en/post/this/) [usage](/en/post/usage/) is nonstandard [but](/en/post/but/) [common](/en/post/common/) [in](/en/post/in/) informal [speech](/en/post/speech/). [Example](/en/post/example/): "I'm gonna [lay](/en/post/lay/) [down](/en/post/down/) [for](/en/post/for/) [a](/en/post/a/) [while](/en/post/while/)."
+- **[Verb](/post/verb/)**: [In](/post/in/) [some](/post/some/) dialects, [it](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) '[to](/post/to/) [lie](/post/lie/)' ([to](/post/to/) [be](/post/be/) [in](/post/in/) [or](/post/or/) [maintain](/post/maintain/) [a](/post/a/) prostrate [position](/post/position/)). [This](/post/this/) [usage](/post/usage/) is nonstandard [but](/post/but/) [common](/post/common/) [in](/post/in/) informal [speech](/post/speech/). [Example](/post/example/): "I'm gonna [lay](/post/lay/) [down](/post/down/) [for](/post/for/) [a](/post/a/) [while](/post/while/)."
 
 ## Phrases
-- "[Lay](/en/post/lay/) [down](/en/post/down/) [the](/en/post/the/) [law](/en/post/law/)": [To](/en/post/to/) [establish](/en/post/establish/) rules [or](/en/post/or/) assert [authority](/en/post/authority/) firmly.
-- "[Lay](/en/post/lay/) [low](/en/post/low/)": [To](/en/post/to/) [stay](/en/post/stay/) hidden [or](/en/post/or/) inconspicuous.
-- "[Lay](/en/post/lay/) one's cards [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)": [To](/en/post/to/) [reveal](/en/post/reveal/) [all](/en/post/all/) [information](/en/post/information/) openly [and](/en/post/and/) honestly.
+- "[Lay](/post/lay/) [down](/post/down/) [the](/post/the/) [law](/post/law/)": [To](/post/to/) [establish](/post/establish/) rules [or](/post/or/) assert [authority](/post/authority/) firmly.
+- "[Lay](/post/lay/) [low](/post/low/)": [To](/post/to/) [stay](/post/stay/) hidden [or](/post/or/) inconspicuous.
+- "[Lay](/post/lay/) one's cards [on](/post/on/) [the](/post/the/) [table](/post/table/)": [To](/post/to/) [reveal](/post/reveal/) [all](/post/all/) [information](/post/information/) openly [and](/post/and/) honestly.
 
-## [Example](/en/post/example/) Sentences
-- **Placement**: "[He](/en/post/he/) carefully laid [the](/en/post/the/) fragile [vase](/en/post/vase/) [on](/en/post/on/) [the](/en/post/the/) antique dresser."
-- **Recline**: "[She](/en/post/she/) decided [to](/en/post/to/) [lay](/en/post/lay/) [in](/en/post/in/) [bed](/en/post/bed/) [for](/en/post/for/) [a](/en/post/a/) [little](/en/post/little/) longer [before](/en/post/before/) getting [up](/en/post/up/)."
-- **[Establishment](/en/post/establishment/)**: "[The](/en/post/the/) architects [have](/en/post/have/) laid plans [for](/en/post/for/) [a](/en/post/a/) [new](/en/post/new/) skyscraper downtown."
-- **Nonstandard [use](/en/post/use/) [for](/en/post/for/) '[lie](/en/post/lie/)'**: "[After](/en/post/after/) [the](/en/post/the/) strenuous workout, [he](/en/post/he/) was going [to](/en/post/to/) [lay](/en/post/lay/) [down](/en/post/down/) [and](/en/post/and/) [rest](/en/post/rest/)."
+## [Example](/post/example/) Sentences
+- **Placement**: "[He](/post/he/) carefully laid [the](/post/the/) fragile [vase](/post/vase/) [on](/post/on/) [the](/post/the/) antique dresser."
+- **Recline**: "[She](/post/she/) decided [to](/post/to/) [lay](/post/lay/) [in](/post/in/) [bed](/post/bed/) [for](/post/for/) [a](/post/a/) [little](/post/little/) longer [before](/post/before/) getting [up](/post/up/)."
+- **[Establishment](/post/establishment/)**: "[The](/post/the/) architects [have](/post/have/) laid plans [for](/post/for/) [a](/post/a/) [new](/post/new/) skyscraper downtown."
+- **Nonstandard [use](/post/use/) [for](/post/for/) '[lie](/post/lie/)'**: "[After](/post/after/) [the](/post/the/) strenuous workout, [he](/post/he/) was going [to](/post/to/) [lay](/post/lay/) [down](/post/down/) [and](/post/and/) [rest](/post/rest/)."
 
 ## Synonyms
-- [Place](/en/post/place/)
-- [Position](/en/post/position/)
-- [Set](/en/post/set/) ([down](/en/post/down/))
-- [Rest](/en/post/rest/)
+- [Place](/post/place/)
+- [Position](/post/position/)
+- [Set](/post/set/) ([down](/post/down/))
+- [Rest](/post/rest/)
 - Recline
-- [Lie](/en/post/lie/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) placing [oneself](/en/post/oneself/) horizontally)
+- [Lie](/post/lie/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) placing [oneself](/post/oneself/) horizontally)
   
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) '[lay](/en/post/lay/)' [and](/en/post/and/) '[lie](/en/post/lie/)' [can](/en/post/can/) [be](/en/post/be/) confusing [due](/en/post/due/) [to](/en/post/to/) [their](/en/post/their/) [similar](/en/post/similar/) meanings [and](/en/post/and/) [irregular](/en/post/irregular/) conjugations. [The](/en/post/the/) [distinction](/en/post/distinction/) [between](/en/post/between/) [them](/en/post/them/) is [that](/en/post/that/) '[lay](/en/post/lay/)' requires [a](/en/post/a/) [direct](/en/post/direct/) [object](/en/post/object/) ([what](/en/post/what/) is [being](/en/post/being/) placed), whereas '[lie](/en/post/lie/)' does [not](/en/post/not/).
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) '[lay](/post/lay/)' [and](/post/and/) '[lie](/post/lie/)' [can](/post/can/) [be](/post/be/) confusing [due](/post/due/) [to](/post/to/) [their](/post/their/) [similar](/post/similar/) meanings [and](/post/and/) [irregular](/post/irregular/) conjugations. [The](/post/the/) [distinction](/post/distinction/) [between](/post/between/) [them](/post/them/) is [that](/post/that/) '[lay](/post/lay/)' requires [a](/post/a/) [direct](/post/direct/) [object](/post/object/) ([what](/post/what/) is [being](/post/being/) placed), whereas '[lie](/post/lie/)' does [not](/post/not/).

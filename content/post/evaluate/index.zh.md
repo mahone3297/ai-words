@@ -12,22 +12,22 @@ keywords = ['ai words', 'evaluate']
 
 ## 释义
 - **动词**:
-1. 评估；估价：对（某事物）的价值或重要性进行判断。例如: "[The](/post/the/) [teacher](/post/teacher/) asked [us](/post/us/) [to](/post/to/) [evaluate](/post/evaluate/) [our](/post/our/) classmates' presentations."
-2. 评价；审查：详细检查并给出意见。例如: "[The](/post/the/) [company](/post/company/) [will](/post/will/) [evaluate](/post/evaluate/) [the](/post/the/) [new](/post/new/) [product](/post/product/) [before](/post/before/) launching [it](/post/it/) [on](/post/on/) [the](/post/the/) [market](/post/market/)."
-3. 计算；求值：在数学或计算中确定数值。例如: "[The](/post/the/) [student](/post/student/) had [to](/post/to/) [evaluate](/post/evaluate/) [the](/post/the/) [expression](/post/expression/) 2x + 3 [when](/post/when/) x is 5."
+1. 评估；估价：对（某事物）的价值或重要性进行判断。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) asked [us](/zh/post/us/) [to](/zh/post/to/) [evaluate](/zh/post/evaluate/) [our](/zh/post/our/) classmates' presentations."
+2. 评价；审查：详细检查并给出意见。例如: "[The](/zh/post/the/) [company](/zh/post/company/) [will](/zh/post/will/) [evaluate](/zh/post/evaluate/) [the](/zh/post/the/) [new](/zh/post/new/) [product](/zh/post/product/) [before](/zh/post/before/) launching [it](/zh/post/it/) [on](/zh/post/on/) [the](/zh/post/the/) [market](/zh/post/market/)."
+3. 计算；求值：在数学或计算中确定数值。例如: "[The](/zh/post/the/) [student](/zh/post/student/) had [to](/zh/post/to/) [evaluate](/zh/post/evaluate/) [the](/zh/post/the/) [expression](/zh/post/expression/) 2x + 3 [when](/zh/post/when/) x is 5."
 
 ## 短语
-- "[evaluate](/post/evaluate/) [performance](/post/performance/)" 评估表现或成绩。
-- "[evaluate](/post/evaluate/) [the](/post/the/) [impact](/post/impact/) [of](/post/of/) [something](/post/something/)" 评估某事的影响或后果。
+- "[evaluate](/zh/post/evaluate/) [performance](/zh/post/performance/)" 评估表现或成绩。
+- "[evaluate](/zh/post/evaluate/) [the](/zh/post/the/) [impact](/zh/post/impact/) [of](/zh/post/of/) [something](/zh/post/something/)" 评估某事的影响或后果。
 
 ## 例句
-- "[We](/post/we/) [need](/post/need/) [to](/post/to/) [evaluate](/post/evaluate/) [the](/post/the/) effectiveness [of](/post/of/) [the](/post/the/) [new](/post/new/) marketing [strategy](/post/strategy/)."
-- "[The](/post/the/) [doctor](/post/doctor/) [will](/post/will/) [evaluate](/post/evaluate/) [your](/post/your/) [progress](/post/progress/) [after](/post/after/) [a](/post/a/) [month](/post/month/) [of](/post/of/) [treatment](/post/treatment/)."
-- "[In](/post/in/) math [class](/post/class/), [we](/post/we/) [learned](/post/learned/) [how](/post/how/) [to](/post/to/) [evaluate](/post/evaluate/) [complex](/post/complex/) equations."
+- "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [evaluate](/zh/post/evaluate/) [the](/zh/post/the/) effectiveness [of](/zh/post/of/) [the](/zh/post/the/) [new](/zh/post/new/) marketing [strategy](/zh/post/strategy/)."
+- "[The](/zh/post/the/) [doctor](/zh/post/doctor/) [will](/zh/post/will/) [evaluate](/zh/post/evaluate/) [your](/zh/post/your/) [progress](/zh/post/progress/) [after](/zh/post/after/) [a](/zh/post/a/) [month](/zh/post/month/) [of](/zh/post/of/) [treatment](/zh/post/treatment/)."
+- "[In](/zh/post/in/) math [class](/zh/post/class/), [we](/zh/post/we/) [learned](/zh/post/learned/) [how](/zh/post/how/) [to](/zh/post/to/) [evaluate](/zh/post/evaluate/) [complex](/zh/post/complex/) equations."
 
 ## 同义词
-- [assess](/post/assess/)
+- [assess](/zh/post/assess/)
 - appraise
-- [judge](/post/judge/)
-- [estimate](/post/estimate/)
-- [value](/post/value/)
+- [judge](/zh/post/judge/)
+- [estimate](/zh/post/estimate/)
+- [value](/zh/post/value/)

@@ -7,34 +7,34 @@ description = '[mɔː(r)] a.更多的 ad.更'
 keywords = ['ai words', 'more']
 +++
 
-## [Word](/en/post/word/): [More](/en/post/more/)
+## [Word](/post/word/): [More](/post/more/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /mɔːr/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: ([comparative](/en/post/comparative/) [form](/en/post/form/) [of](/en/post/of/) '[much](/en/post/much/)' [or](/en/post/or/) '[many](/en/post/many/)') Indicating [a](/en/post/a/) greater [quantity](/en/post/quantity/), [extent](/en/post/extent/), [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "I [need](/en/post/need/) [more](/en/post/more/) [time](/en/post/time/) [to](/en/post/to/) [finish](/en/post/finish/) [this](/en/post/this/) [project](/en/post/project/)."
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [a](/en/post/a/) greater [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/); [further](/en/post/further/), [additional](/en/post/additional/), [or](/en/post/or/) [again](/en/post/again/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) wanted [to](/en/post/to/) [know](/en/post/know/) [more](/en/post/more/) [about](/en/post/about/) [the](/en/post/the/) [topic](/en/post/topic/)."
-- **Determiner**: [Used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) greater [amount](/en/post/amount/) [or](/en/post/or/) [number](/en/post/number/) [than](/en/post/than/) [previously](/en/post/previously/) mentioned. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) asked [for](/en/post/for/) [more](/en/post/more/) [tea](/en/post/tea/) [after](/en/post/after/) finishing [her](/en/post/her/) [first](/en/post/first/) [cup](/en/post/cup/)."
+- **[Adjective](/post/adjective/)**: ([comparative](/post/comparative/) [form](/post/form/) [of](/post/of/) '[much](/post/much/)' [or](/post/or/) '[many](/post/many/)') Indicating [a](/post/a/) greater [quantity](/post/quantity/), [extent](/post/extent/), [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "I [need](/post/need/) [more](/post/more/) [time](/post/time/) [to](/post/to/) [finish](/post/finish/) [this](/post/this/) [project](/post/project/)."
+- **[Adverb](/post/adverb/)**: [To](/post/to/) [a](/post/a/) greater [extent](/post/extent/) [or](/post/or/) [degree](/post/degree/); [further](/post/further/), [additional](/post/additional/), [or](/post/or/) [again](/post/again/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) wanted [to](/post/to/) [know](/post/know/) [more](/post/more/) [about](/post/about/) [the](/post/the/) [topic](/post/topic/)."
+- **Determiner**: [Used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) greater [amount](/post/amount/) [or](/post/or/) [number](/post/number/) [than](/post/than/) [previously](/post/previously/) mentioned. [For](/post/for/) [example](/post/example/): "[She](/post/she/) asked [for](/post/for/) [more](/post/more/) [tea](/post/tea/) [after](/post/after/) finishing [her](/post/her/) [first](/post/first/) [cup](/post/cup/)."
   
 ## Phrases
-- "[More](/en/post/more/) [than](/en/post/than/)": Expressing [that](/en/post/that/) [one](/en/post/one/) [quantity](/en/post/quantity/) is greater [than](/en/post/than/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "I [have](/en/post/have/) [more](/en/post/more/) [than](/en/post/than/) [enough](/en/post/enough/) [money](/en/post/money/) [to](/en/post/to/) [buy](/en/post/buy/) [this](/en/post/this/)."
-- "[No](/en/post/no/) [more](/en/post/more/)": Referring [to](/en/post/to/) [the](/en/post/the/) [end](/en/post/end/) [or](/en/post/or/) [absence](/en/post/absence/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) [will](/en/post/will/) [be](/en/post/be/) [no](/en/post/no/) [more](/en/post/more/) delays."
-- "[More](/en/post/more/) [often](/en/post/often/) [than](/en/post/than/) [not](/en/post/not/)": [Usually](/en/post/usually/); [mostly](/en/post/mostly/). [For](/en/post/for/) [example](/en/post/example/): "[More](/en/post/more/) [often](/en/post/often/) [than](/en/post/than/) [not](/en/post/not/), [he](/en/post/he/) arrives [early](/en/post/early/) [to](/en/post/to/) meetings."
+- "[More](/post/more/) [than](/post/than/)": Expressing [that](/post/that/) [one](/post/one/) [quantity](/post/quantity/) is greater [than](/post/than/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "I [have](/post/have/) [more](/post/more/) [than](/post/than/) [enough](/post/enough/) [money](/post/money/) [to](/post/to/) [buy](/post/buy/) [this](/post/this/)."
+- "[No](/post/no/) [more](/post/more/)": Referring [to](/post/to/) [the](/post/the/) [end](/post/end/) [or](/post/or/) [absence](/post/absence/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[There](/post/there/) [will](/post/will/) [be](/post/be/) [no](/post/no/) [more](/post/more/) delays."
+- "[More](/post/more/) [often](/post/often/) [than](/post/than/) [not](/post/not/)": [Usually](/post/usually/); [mostly](/post/mostly/). [For](/post/for/) [example](/post/example/): "[More](/post/more/) [often](/post/often/) [than](/post/than/) [not](/post/not/), [he](/post/he/) arrives [early](/post/early/) [to](/post/to/) meetings."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[If](/en/post/if/) [you](/en/post/you/) [need](/en/post/need/) [more](/en/post/more/) [information](/en/post/information/), [please](/en/post/please/) [consult](/en/post/consult/) [the](/en/post/the/) [reference](/en/post/reference/) [section](/en/post/section/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) worked harder [and](/en/post/and/) [more](/en/post/more/) diligently [than](/en/post/than/) [ever](/en/post/ever/) [before](/en/post/before/)."
-- **Determiner**: "[Would](/en/post/would/) [you](/en/post/you/) [like](/en/post/like/) [some](/en/post/some/) [more](/en/post/more/) [cake](/en/post/cake/)? There's [plenty](/en/post/plenty/) [left](/en/post/left/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[If](/post/if/) [you](/post/you/) [need](/post/need/) [more](/post/more/) [information](/post/information/), [please](/post/please/) [consult](/post/consult/) [the](/post/the/) [reference](/post/reference/) [section](/post/section/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) worked harder [and](/post/and/) [more](/post/more/) diligently [than](/post/than/) [ever](/post/ever/) [before](/post/before/)."
+- **Determiner**: "[Would](/post/would/) [you](/post/you/) [like](/post/like/) [some](/post/some/) [more](/post/more/) [cake](/post/cake/)? There's [plenty](/post/plenty/) [left](/post/left/)."
 
 ## Synonyms
-- [Additional](/en/post/additional/)
-- [Further](/en/post/further/)
+- [Additional](/post/additional/)
+- [Further](/post/further/)
 - Greater
-- [Extra](/en/post/extra/)
+- [Extra](/post/extra/)
 - Increased
 - Enhanced
-- [Advanced](/en/post/advanced/)
+- [Advanced](/post/advanced/)
 - Supplementary
 - Added
-- [Plus](/en/post/plus/) (informal)
+- [Plus](/post/plus/) (informal)

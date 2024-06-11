@@ -7,32 +7,32 @@ description = '[ˈʌnˈlaik] a.不同的 prep.不象…'
 keywords = ['ai words', 'unlike']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unˈlaɪk/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Contrasting [in](/en/post/in/) [nature](/en/post/nature/) [or](/en/post/or/) [quality](/en/post/quality/); differing [from](/en/post/from/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) houses were [unlike](/en/post/unlike/) [any](/en/post/any/) others [in](/en/post/in/) [the](/en/post/the/) neighborhood."
-- **[Preposition](/en/post/preposition/)**: Expressing [contrast](/en/post/contrast/) [or](/en/post/or/) [difference](/en/post/difference/); [in](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [different](/en/post/different/) [from](/en/post/from/). [For](/en/post/for/) [example](/en/post/example/): "[Unlike](/en/post/unlike/) [her](/en/post/her/) [sister](/en/post/sister/), [she](/en/post/she/) doesn't [like](/en/post/like/) [coffee](/en/post/coffee/)."
+- **[Adjective](/post/adjective/)**: Contrasting [in](/post/in/) [nature](/post/nature/) [or](/post/or/) [quality](/post/quality/); differing [from](/post/from/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) houses were [unlike](/post/unlike/) [any](/post/any/) others [in](/post/in/) [the](/post/the/) neighborhood."
+- **[Preposition](/post/preposition/)**: Expressing [contrast](/post/contrast/) [or](/post/or/) [difference](/post/difference/); [in](/post/in/) [a](/post/a/) [manner](/post/manner/) [different](/post/different/) [from](/post/from/). [For](/post/for/) [example](/post/example/): "[Unlike](/post/unlike/) [her](/post/her/) [sister](/post/sister/), [she](/post/she/) doesn't [like](/post/like/) [coffee](/post/coffee/)."
 
 ## Phrases
-- "[Unlike](/en/post/unlike/) [many](/en/post/many/) others" suggests [a](/en/post/a/) [contrast](/en/post/contrast/) [with](/en/post/with/) [a](/en/post/a/) [general](/en/post/general/) [group](/en/post/group/).
-- "[Unlike](/en/post/unlike/) [what](/en/post/what/) [you](/en/post/you/) [might](/en/post/might/) [expect](/en/post/expect/)" implies [a](/en/post/a/) deviation [from](/en/post/from/) [a](/en/post/a/) [typical](/en/post/typical/) assumption.
-- "[Unlike](/en/post/unlike/) [before](/en/post/before/)" denotes [a](/en/post/a/) [change](/en/post/change/) [from](/en/post/from/) [a](/en/post/a/) [previous](/en/post/previous/) [state](/en/post/state/) [or](/en/post/or/) [situation](/en/post/situation/).
+- "[Unlike](/post/unlike/) [many](/post/many/) others" suggests [a](/post/a/) [contrast](/post/contrast/) [with](/post/with/) [a](/post/a/) [general](/post/general/) [group](/post/group/).
+- "[Unlike](/post/unlike/) [what](/post/what/) [you](/post/you/) [might](/post/might/) [expect](/post/expect/)" implies [a](/post/a/) deviation [from](/post/from/) [a](/post/a/) [typical](/post/typical/) assumption.
+- "[Unlike](/post/unlike/) [before](/post/before/)" denotes [a](/post/a/) [change](/post/change/) [from](/post/from/) [a](/post/a/) [previous](/post/previous/) [state](/post/state/) [or](/post/or/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [handwriting](/en/post/handwriting/) was [unlike](/en/post/unlike/) [anything](/en/post/anything/) I had [ever](/en/post/ever/) seen, [with](/en/post/with/) intricate loops [and](/en/post/and/) flourishes."
-- **[Preposition](/en/post/preposition/)**: "[Unlike](/en/post/unlike/) [his](/en/post/his/) [strict](/en/post/strict/) upbringing, [he](/en/post/he/) prefers [a](/en/post/a/) [more](/en/post/more/) relaxed lifestyle."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [handwriting](/post/handwriting/) was [unlike](/post/unlike/) [anything](/post/anything/) I had [ever](/post/ever/) seen, [with](/post/with/) intricate loops [and](/post/and/) flourishes."
+- **[Preposition](/post/preposition/)**: "[Unlike](/post/unlike/) [his](/post/his/) [strict](/post/strict/) upbringing, [he](/post/he/) prefers [a](/post/a/) [more](/post/more/) relaxed lifestyle."
 
 ## Synonyms
-- [Different](/en/post/different/) [from](/en/post/from/)
-- Dissimilar [to](/en/post/to/)
-- Varied [from](/en/post/from/)
-- [Not](/en/post/not/) [alike](/en/post/alike/)
+- [Different](/post/different/) [from](/post/from/)
+- Dissimilar [to](/post/to/)
+- Varied [from](/post/from/)
+- [Not](/post/not/) [alike](/post/alike/)
 - Divergent
 
 ## Antonyms
-- [Like](/en/post/like/)
-- [Identical](/en/post/identical/)
-- [Similar](/en/post/similar/)
+- [Like](/post/like/)
+- [Identical](/post/identical/)
+- [Similar](/post/similar/)
 - Conformable
-- [Uniform](/en/post/uniform/)
+- [Uniform](/post/uniform/)

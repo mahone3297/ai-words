@@ -11,20 +11,20 @@ keywords = ['ai words', 'cave']
 /kæv/
 
 ## 释义
-- **名词**: 一个洞穴，地穴或山洞。例如: "[The](/post/the/) bats [live](/post/live/) [in](/post/in/) [a](/post/a/) [dark](/post/dark/) [cave](/post/cave/) [deep](/post/deep/) [in](/post/in/) [the](/post/the/) mountains."
-- **动词**: 隐藏，退入洞穴。例如: "[When](/post/when/) [danger](/post/danger/) approached, [the](/post/the/) [bear](/post/bear/) caved [into](/post/into/) [its](/post/its/) hiding [place](/post/place/)."
+- **名词**: 一个洞穴，地穴或山洞。例如: "[The](/zh/post/the/) bats [live](/zh/post/live/) [in](/zh/post/in/) [a](/zh/post/a/) [dark](/zh/post/dark/) [cave](/zh/post/cave/) [deep](/zh/post/deep/) [in](/zh/post/in/) [the](/zh/post/the/) mountains."
+- **动词**: 隐藏，退入洞穴。例如: "[When](/zh/post/when/) [danger](/zh/post/danger/) approached, [the](/zh/post/the/) [bear](/zh/post/bear/) caved [into](/zh/post/into/) [its](/zh/post/its/) hiding [place](/zh/post/place/)."
 
 ## 短语
-- "[Cave](/post/cave/) [in](/post/in/)" 意味着崩溃、屈服或倒塌。例如: "[The](/post/the/) [old](/post/old/) [building](/post/building/) [finally](/post/finally/) caved [in](/post/in/) [under](/post/under/) [the](/post/the/) [pressure](/post/pressure/) [of](/post/of/) [heavy](/post/heavy/) [snow](/post/snow/)."
-- "[Cave](/post/cave/) [system](/post/system/)" 指一系列相互连接的洞穴。例如: "Explorers discovered [a](/post/a/) [vast](/post/vast/) [cave](/post/cave/) [system](/post/system/) hidden [beneath](/post/beneath/) [the](/post/the/) [forest](/post/forest/) [floor](/post/floor/)."
+- "[Cave](/zh/post/cave/) [in](/zh/post/in/)" 意味着崩溃、屈服或倒塌。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [building](/zh/post/building/) [finally](/zh/post/finally/) caved [in](/zh/post/in/) [under](/zh/post/under/) [the](/zh/post/the/) [pressure](/zh/post/pressure/) [of](/zh/post/of/) [heavy](/zh/post/heavy/) [snow](/zh/post/snow/)."
+- "[Cave](/zh/post/cave/) [system](/zh/post/system/)" 指一系列相互连接的洞穴。例如: "Explorers discovered [a](/zh/post/a/) [vast](/zh/post/vast/) [cave](/zh/post/cave/) [system](/zh/post/system/) hidden [beneath](/zh/post/beneath/) [the](/zh/post/the/) [forest](/zh/post/forest/) [floor](/zh/post/floor/)."
 
 ## 例句
-- 名词: "[The](/post/the/) spelunkers were excited [to](/post/to/) [discover](/post/discover/) [a](/post/a/) [new](/post/new/) [cave](/post/cave/) filled [with](/post/with/) [ancient](/post/ancient/) [rock](/post/rock/) formations."
-- 动词: "Fearing [for](/post/for/) [their](/post/their/) lives, [they](/post/they/) [quickly](/post/quickly/) caved [into](/post/into/) [the](/post/the/) [safety](/post/safety/) [of](/post/of/) [the](/post/the/) [underground](/post/underground/) [shelter](/post/shelter/)."
+- 名词: "[The](/zh/post/the/) spelunkers were excited [to](/zh/post/to/) [discover](/zh/post/discover/) [a](/zh/post/a/) [new](/zh/post/new/) [cave](/zh/post/cave/) filled [with](/zh/post/with/) [ancient](/zh/post/ancient/) [rock](/zh/post/rock/) formations."
+- 动词: "Fearing [for](/zh/post/for/) [their](/zh/post/their/) lives, [they](/zh/post/they/) [quickly](/zh/post/quickly/) caved [into](/zh/post/into/) [the](/zh/post/the/) [safety](/zh/post/safety/) [of](/zh/post/of/) [the](/zh/post/the/) [underground](/zh/post/underground/) [shelter](/zh/post/shelter/)."
 
 ## 同义词
 - Grotto
 - Den
 - Cavern
-- [Hole](/post/hole/)
+- [Hole](/zh/post/hole/)
 - Burrow

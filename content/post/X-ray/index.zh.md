@@ -11,18 +11,18 @@ keywords = ['ai words', 'X-ray']
 /ˈreɪ/
 
 ## 释义
-- **名词**: X射线，X光，一种电磁辐射，频率高，能量大，通常用于医学成像和材料检测。例如: "[The](/post/the/) [doctor](/post/doctor/) ordered an X-ray [of](/post/of/) [my](/post/my/) [broken](/post/broken/) [arm](/post/arm/)."
-- **形容词**: 与X射线有关的，如X射线技术或设备。例如: "[The](/post/the/) X-ray [machine](/post/machine/) [at](/post/at/) [the](/post/the/) [airport](/post/airport/) detects hidden objects [in](/post/in/) [luggage](/post/luggage/)."
+- **名词**: X射线，X光，一种电磁辐射，频率高，能量大，通常用于医学成像和材料检测。例如: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) ordered an X-ray [of](/zh/post/of/) [my](/zh/post/my/) [broken](/zh/post/broken/) [arm](/zh/post/arm/)."
+- **形容词**: 与X射线有关的，如X射线技术或设备。例如: "[The](/zh/post/the/) X-ray [machine](/zh/post/machine/) [at](/zh/post/at/) [the](/zh/post/the/) [airport](/zh/post/airport/) detects hidden objects [in](/zh/post/in/) [luggage](/zh/post/luggage/)."
 
 ## 短语
 - "X-ray imaging" 指使用X射线进行成像的过程。
 - "X-ray spectroscopy" 是一种利用X射线分析物质成分的科学方法。
 
 ## 例句
-- 名词: "[The](/post/the/) dentist took an X-ray [to](/post/to/) [check](/post/check/) [for](/post/for/) cavities."
-- 形容词: "[She](/post/she/) wore an X-ray [vest](/post/vest/) [to](/post/to/) [protect](/post/protect/) [herself](/post/herself/) [from](/post/from/) [radiation](/post/radiation/)."
+- 名词: "[The](/zh/post/the/) dentist took an X-ray [to](/zh/post/to/) [check](/zh/post/check/) [for](/zh/post/for/) cavities."
+- 形容词: "[She](/zh/post/she/) wore an X-ray [vest](/zh/post/vest/) [to](/zh/post/to/) [protect](/zh/post/protect/) [herself](/zh/post/herself/) [from](/zh/post/from/) [radiation](/zh/post/radiation/)."
 
 ## 同义词
 - Radiography
-- Röntgen rays (named [after](/post/after/) Wilhelm Röntgen, [who](/post/who/) discovered [them](/post/them/))
-- [Medical](/post/medical/) imaging ([in](/post/in/) [the](/post/the/) context [of](/post/of/) diagnostic procedures)
+- Röntgen rays (named [after](/zh/post/after/) Wilhelm Röntgen, [who](/zh/post/who/) discovered [them](/zh/post/them/))
+- [Medical](/zh/post/medical/) imaging ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) diagnostic procedures)

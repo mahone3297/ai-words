@@ -7,33 +7,33 @@ description = '[ˈfeəli] ad.相当；公平地'
 keywords = ['ai words', 'fairly']
 +++
 
-## [Word](/en/post/word/): [Fairly](/en/post/fairly/)
+## [Word](/post/word/): [Fairly](/post/fairly/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfeərli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [just](/en/post/just/) [or](/en/post/or/) [reasonable](/en/post/reasonable/) [manner](/en/post/manner/); moderately [or](/en/post/or/) reasonably. [It](/en/post/it/) [can](/en/post/can/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is done [to](/en/post/to/) [a](/en/post/a/) [satisfactory](/en/post/satisfactory/) [degree](/en/post/degree/) [but](/en/post/but/) [not](/en/post/not/) [completely](/en/post/completely/) [or](/en/post/or/) [extremely](/en/post/extremely/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [work](/en/post/work/) was [fairly](/en/post/fairly/) completed [on](/en/post/on/) [time](/en/post/time/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [just](/post/just/) [or](/post/or/) [reasonable](/post/reasonable/) [manner](/post/manner/); moderately [or](/post/or/) reasonably. [It](/post/it/) [can](/post/can/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is done [to](/post/to/) [a](/post/a/) [satisfactory](/post/satisfactory/) [degree](/post/degree/) [but](/post/but/) [not](/post/not/) [completely](/post/completely/) [or](/post/or/) [extremely](/post/extremely/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [work](/post/work/) was [fairly](/post/fairly/) completed [on](/post/on/) [time](/post/time/)."
   
-  > "[She](/en/post/she/) played [the](/en/post/the/) [piano](/en/post/piano/) [fairly](/en/post/fairly/) [well](/en/post/well/) considering [she](/en/post/she/) had [only](/en/post/only/) been [learning](/en/post/learning/) [for](/en/post/for/) [a](/en/post/a/) [year](/en/post/year/)."
-- **[Adverb](/en/post/adverb/) (modifying adjectives [and](/en/post/and/) adverbs)**: [To](/en/post/to/) [a](/en/post/a/) [moderate](/en/post/moderate/) [extent](/en/post/extent/); [quite](/en/post/quite/). [It](/en/post/it/) implies [that](/en/post/that/) [something](/en/post/something/) possesses [a](/en/post/a/) [quality](/en/post/quality/) [to](/en/post/to/) [some](/en/post/some/) [degree](/en/post/degree/) [but](/en/post/but/) [not](/en/post/not/) [to](/en/post/to/) [the](/en/post/the/) highest [degree](/en/post/degree/). [For](/en/post/for/) [instance](/en/post/instance/):
-  > "[The](/en/post/the/) [weather](/en/post/weather/) was [fairly](/en/post/fairly/) [warm](/en/post/warm/) [today](/en/post/today/)."
+  > "[She](/post/she/) played [the](/post/the/) [piano](/post/piano/) [fairly](/post/fairly/) [well](/post/well/) considering [she](/post/she/) had [only](/post/only/) been [learning](/post/learning/) [for](/post/for/) [a](/post/a/) [year](/post/year/)."
+- **[Adverb](/post/adverb/) (modifying adjectives [and](/post/and/) adverbs)**: [To](/post/to/) [a](/post/a/) [moderate](/post/moderate/) [extent](/post/extent/); [quite](/post/quite/). [It](/post/it/) implies [that](/post/that/) [something](/post/something/) possesses [a](/post/a/) [quality](/post/quality/) [to](/post/to/) [some](/post/some/) [degree](/post/degree/) [but](/post/but/) [not](/post/not/) [to](/post/to/) [the](/post/the/) highest [degree](/post/degree/). [For](/post/for/) [instance](/post/instance/):
+  > "[The](/post/the/) [weather](/post/weather/) was [fairly](/post/fairly/) [warm](/post/warm/) [today](/post/today/)."
   
 ## Phrases
-- "[Fairly](/en/post/fairly/) [enough](/en/post/enough/)": [Sufficiently](/en/post/sufficiently/) [or](/en/post/or/) adequately [under](/en/post/under/) [the](/en/post/the/) circumstances.
-- "[Fairly](/en/post/fairly/) [often](/en/post/often/)": [With](/en/post/with/) [some](/en/post/some/) regularity, [though](/en/post/though/) [not](/en/post/not/) [too](/en/post/too/) [frequently](/en/post/frequently/).
-- "[To](/en/post/to/) [be](/en/post/be/) [fairly](/en/post/fairly/) [certain](/en/post/certain/)": [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [considerable](/en/post/considerable/) [level](/en/post/level/) [of](/en/post/of/) [confidence](/en/post/confidence/), [but](/en/post/but/) [not](/en/post/not/) [complete](/en/post/complete/) [certainty](/en/post/certainty/).
+- "[Fairly](/post/fairly/) [enough](/post/enough/)": [Sufficiently](/post/sufficiently/) [or](/post/or/) adequately [under](/post/under/) [the](/post/the/) circumstances.
+- "[Fairly](/post/fairly/) [often](/post/often/)": [With](/post/with/) [some](/post/some/) regularity, [though](/post/though/) [not](/post/not/) [too](/post/too/) [frequently](/post/frequently/).
+- "[To](/post/to/) [be](/post/be/) [fairly](/post/fairly/) [certain](/post/certain/)": [To](/post/to/) [have](/post/have/) [a](/post/a/) [considerable](/post/considerable/) [level](/post/level/) [of](/post/of/) [confidence](/post/confidence/), [but](/post/but/) [not](/post/not/) [complete](/post/complete/) [certainty](/post/certainty/).
 
-## [Example](/en/post/example/) Sentences
-- **[As](/en/post/as/) an [adverb](/en/post/adverb/) modifying verbs**: "[They](/en/post/they/) were [fairly](/en/post/fairly/) [confident](/en/post/confident/) [they](/en/post/they/) [would](/en/post/would/) [win](/en/post/win/) [the](/en/post/the/) [game](/en/post/game/)."
-- **[As](/en/post/as/) an [adverb](/en/post/adverb/) modifying adjectives**: "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) has been [fairly](/en/post/fairly/) [successful](/en/post/successful/) [in](/en/post/in/) reducing [pollution](/en/post/pollution/)."
-- **[In](/en/post/in/) [a](/en/post/a/) [comparative](/en/post/comparative/) [sense](/en/post/sense/)**: "[This](/en/post/this/) [route](/en/post/route/) is [fairly](/en/post/fairly/) shorter [than](/en/post/than/) [the](/en/post/the/) [other](/en/post/other/) [one](/en/post/one/)."
+## [Example](/post/example/) Sentences
+- **[As](/post/as/) an [adverb](/post/adverb/) modifying verbs**: "[They](/post/they/) were [fairly](/post/fairly/) [confident](/post/confident/) [they](/post/they/) [would](/post/would/) [win](/post/win/) [the](/post/the/) [game](/post/game/)."
+- **[As](/post/as/) an [adverb](/post/adverb/) modifying adjectives**: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) has been [fairly](/post/fairly/) [successful](/post/successful/) [in](/post/in/) reducing [pollution](/post/pollution/)."
+- **[In](/post/in/) [a](/post/a/) [comparative](/post/comparative/) [sense](/post/sense/)**: "[This](/post/this/) [route](/post/route/) is [fairly](/post/fairly/) shorter [than](/post/than/) [the](/post/the/) [other](/post/other/) [one](/post/one/)."
 
 ## Synonyms
 - Moderately
 - Reasonably
-- [Somewhat](/en/post/somewhat/)
+- [Somewhat](/post/somewhat/)
 - Decently
-- [Enough](/en/post/enough/)
-- [Sufficiently](/en/post/sufficiently/)
-- [Quite](/en/post/quite/)
+- [Enough](/post/enough/)
+- [Sufficiently](/post/sufficiently/)
+- [Quite](/post/quite/)

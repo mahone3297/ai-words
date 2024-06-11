@@ -11,20 +11,20 @@ keywords = ['ai words', 'odour']
 /ˈəʊdər/
 
 ## 释义
-- **名词**: 气味，香味，臭味。例如: "[The](/post/the/) [room](/post/room/) had [a](/post/a/) [pleasant](/post/pleasant/) [odour](/post/odour/) [of](/post/of/) lavender."
-- **形容词**: 有气味的，散发气味的。例如: "[The](/post/the/) odourless cleaner was [perfect](/post/perfect/) [for](/post/for/) [use](/post/use/) [in](/post/in/) [the](/post/the/) [kitchen](/post/kitchen/)."
+- **名词**: 气味，香味，臭味。例如: "[The](/zh/post/the/) [room](/zh/post/room/) had [a](/zh/post/a/) [pleasant](/zh/post/pleasant/) [odour](/zh/post/odour/) [of](/zh/post/of/) lavender."
+- **形容词**: 有气味的，散发气味的。例如: "[The](/zh/post/the/) odourless cleaner was [perfect](/zh/post/perfect/) [for](/zh/post/for/) [use](/zh/post/use/) [in](/zh/post/in/) [the](/zh/post/the/) [kitchen](/zh/post/kitchen/)."
 
 ## 短语
-- "an [unpleasant](/post/unpleasant/) [odour](/post/odour/)" 不愉快的气味
-- "[a](/post/a/) [familiar](/post/familiar/) [odour](/post/odour/)" 熟悉的气味
+- "an [unpleasant](/zh/post/unpleasant/) [odour](/zh/post/odour/)" 不愉快的气味
+- "[a](/zh/post/a/) [familiar](/zh/post/familiar/) [odour](/zh/post/odour/)" 熟悉的气味
 
 ## 例句
-- 名词: "[The](/post/the/) [kitchen](/post/kitchen/) had [a](/post/a/) [strong](/post/strong/) [odour](/post/odour/) [of](/post/of/) cooking onions."
-- 形容词: "[The](/post/the/) detergent is odourless, [so](/post/so/) [it](/post/it/) won't [leave](/post/leave/) [any](/post/any/) residue [scent](/post/scent/)."
+- 名词: "[The](/zh/post/the/) [kitchen](/zh/post/kitchen/) had [a](/zh/post/a/) [strong](/zh/post/strong/) [odour](/zh/post/odour/) [of](/zh/post/of/) cooking onions."
+- 形容词: "[The](/zh/post/the/) detergent is odourless, [so](/zh/post/so/) [it](/zh/post/it/) won't [leave](/zh/post/leave/) [any](/zh/post/any/) residue [scent](/zh/post/scent/)."
 
 ## 同义词
 - fragrance
-- [scent](/post/scent/)
+- [scent](/zh/post/scent/)
 - aroma
-- [smell](/post/smell/)
+- [smell](/zh/post/smell/)
 - stench

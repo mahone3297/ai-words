@@ -11,20 +11,20 @@ keywords = ['ai words', 'equivalent']
 /ɪˈkwɪvələnt/
 
 ## 释义
-- **形容词**: 相等的，等价的，相当的。例如: "[The](/post/the/) [metric](/post/metric/) [system](/post/system/) uses grams [as](/post/as/) an [equivalent](/post/equivalent/) [of](/post/of/) ounces [in](/post/in/) [the](/post/the/) imperial [system](/post/system/)."
-- **名词**: 等价物，对应物。例如: "[Water](/post/water/) [and](/post/and/) [hydrogen](/post/hydrogen/) oxide are [equivalent](/post/equivalent/) names [for](/post/for/) [the](/post/the/) [same](/post/same/) [substance](/post/substance/)."
+- **形容词**: 相等的，等价的，相当的。例如: "[The](/zh/post/the/) [metric](/zh/post/metric/) [system](/zh/post/system/) uses grams [as](/zh/post/as/) an [equivalent](/zh/post/equivalent/) [of](/zh/post/of/) ounces [in](/zh/post/in/) [the](/zh/post/the/) imperial [system](/zh/post/system/)."
+- **名词**: 等价物，对应物。例如: "[Water](/zh/post/water/) [and](/zh/post/and/) [hydrogen](/zh/post/hydrogen/) oxide are [equivalent](/zh/post/equivalent/) names [for](/zh/post/for/) [the](/zh/post/the/) [same](/zh/post/same/) [substance](/zh/post/substance/)."
 
 ## 短语
-- "[be](/post/be/) [equivalent](/post/equivalent/) [to](/post/to/)" 表示等同于，相当于。例如: "Eating an [apple](/post/apple/) is [equivalent](/post/equivalent/) [to](/post/to/) getting [a](/post/a/) serving [of](/post/of/) [fruit](/post/fruit/)."
-- "[have](/post/have/) [no](/post/no/) [equivalent](/post/equivalent/)" 意味着没有与之相等或相当的事物。例如: "[Her](/post/her/) [talent](/post/talent/) has [no](/post/no/) [equivalent](/post/equivalent/) [in](/post/in/) [the](/post/the/) [industry](/post/industry/)."
+- "[be](/zh/post/be/) [equivalent](/zh/post/equivalent/) [to](/zh/post/to/)" 表示等同于，相当于。例如: "Eating an [apple](/zh/post/apple/) is [equivalent](/zh/post/equivalent/) [to](/zh/post/to/) getting [a](/zh/post/a/) serving [of](/zh/post/of/) [fruit](/zh/post/fruit/)."
+- "[have](/zh/post/have/) [no](/zh/post/no/) [equivalent](/zh/post/equivalent/)" 意味着没有与之相等或相当的事物。例如: "[Her](/zh/post/her/) [talent](/zh/post/talent/) has [no](/zh/post/no/) [equivalent](/zh/post/equivalent/) [in](/zh/post/in/) [the](/zh/post/the/) [industry](/zh/post/industry/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) software's features are [equivalent](/post/equivalent/) [to](/post/to/) [those](/post/those/) [of](/post/of/) [its](/post/its/) competitors."
-- 名词: "[This](/post/this/) currency converter shows [the](/post/the/) [equivalent](/post/equivalent/) [value](/post/value/) [in](/post/in/) dollars."
+- 形容词: "[The](/zh/post/the/) software's features are [equivalent](/zh/post/equivalent/) [to](/zh/post/to/) [those](/zh/post/those/) [of](/zh/post/of/) [its](/zh/post/its/) competitors."
+- 名词: "[This](/zh/post/this/) currency converter shows [the](/zh/post/the/) [equivalent](/zh/post/equivalent/) [value](/zh/post/value/) [in](/zh/post/in/) dollars."
 
 ## 同义词
 - Comparable
-- [Similar](/post/similar/)
-- [Identical](/post/identical/)
-- [Corresponding](/post/corresponding/)
-- [Equal](/post/equal/)
+- [Similar](/zh/post/similar/)
+- [Identical](/zh/post/identical/)
+- [Corresponding](/zh/post/corresponding/)
+- [Equal](/zh/post/equal/)

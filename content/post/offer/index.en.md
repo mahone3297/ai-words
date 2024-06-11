@@ -7,43 +7,43 @@ description = '[ˈɔfə] vt.提供；提出 n.提供'
 keywords = ['ai words', 'offer']
 +++
 
-## [Word](/en/post/word/): [Offer](/en/post/offer/)
+## [Word](/post/word/): [Offer](/post/offer/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːfər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [proposal](/en/post/proposal/) [or](/en/post/or/) [suggestion](/en/post/suggestion/) made [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) [being](/en/post/being/) accepted, [often](/en/post/often/) involving [a](/en/post/a/) [price](/en/post/price/) [or](/en/post/or/) conditions. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) made [a](/en/post/a/) [generous](/en/post/generous/) [job](/en/post/job/) [offer](/en/post/offer/) [to](/en/post/to/) [the](/en/post/the/) [candidate](/en/post/candidate/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [present](/en/post/present/) [something](/en/post/something/) ([such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [product](/en/post/product/), [service](/en/post/service/), [or](/en/post/or/) proposition) [for](/en/post/for/) [acceptance](/en/post/acceptance/) [or](/en/post/or/) rejection; [to](/en/post/to/) [propose](/en/post/propose/) [or](/en/post/or/) [suggest](/en/post/suggest/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) offered [to](/en/post/to/) [help](/en/post/help/) [with](/en/post/with/) [the](/en/post/the/) [move](/en/post/move/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [proposal](/post/proposal/) [or](/post/or/) [suggestion](/post/suggestion/) made [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) [being](/post/being/) accepted, [often](/post/often/) involving [a](/post/a/) [price](/post/price/) [or](/post/or/) conditions. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) made [a](/post/a/) [generous](/post/generous/) [job](/post/job/) [offer](/post/offer/) [to](/post/to/) [the](/post/the/) [candidate](/post/candidate/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [present](/post/present/) [something](/post/something/) ([such](/post/such/) [as](/post/as/) [a](/post/a/) [product](/post/product/), [service](/post/service/), [or](/post/or/) proposition) [for](/post/for/) [acceptance](/post/acceptance/) [or](/post/or/) rejection; [to](/post/to/) [propose](/post/propose/) [or](/post/or/) [suggest](/post/suggest/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) offered [to](/post/to/) [help](/post/help/) [with](/post/with/) [the](/post/the/) [move](/post/move/)."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- "I received an [offer](/en/post/offer/) [on](/en/post/on/) [my](/en/post/my/) [house](/en/post/house/) [that](/en/post/that/) was [too](/en/post/too/) [good](/en/post/good/) [to](/en/post/to/) [refuse](/en/post/refuse/)."
-- "[She](/en/post/she/) couldn't [turn](/en/post/turn/) [down](/en/post/down/) [the](/en/post/the/) [job](/en/post/job/) [offer](/en/post/offer/) [from](/en/post/from/) [her](/en/post/her/) [dream](/en/post/dream/) [company](/en/post/company/)."
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- "I received an [offer](/post/offer/) [on](/post/on/) [my](/post/my/) [house](/post/house/) [that](/post/that/) was [too](/post/too/) [good](/post/good/) [to](/post/to/) [refuse](/post/refuse/)."
+- "[She](/post/she/) couldn't [turn](/post/turn/) [down](/post/down/) [the](/post/the/) [job](/post/job/) [offer](/post/offer/) [from](/post/from/) [her](/post/her/) [dream](/post/dream/) [company](/post/company/)."
 
-### [Verb](/en/post/verb/) [Usage](/en/post/usage/) Examples
-- "[He](/en/post/he/) offered [his](/en/post/his/) assistance [when](/en/post/when/) [he](/en/post/he/) [saw](/en/post/saw/) [us](/en/post/us/) struggling [with](/en/post/with/) [the](/en/post/the/) [heavy](/en/post/heavy/) boxes."
-- "[The](/en/post/the/) [seller](/en/post/seller/) is offering [a](/en/post/a/) discount [if](/en/post/if/) [we](/en/post/we/) [buy](/en/post/buy/) [multiple](/en/post/multiple/) items."
+### [Verb](/post/verb/) [Usage](/post/usage/) Examples
+- "[He](/post/he/) offered [his](/post/his/) assistance [when](/post/when/) [he](/post/he/) [saw](/post/saw/) [us](/post/us/) struggling [with](/post/with/) [the](/post/the/) [heavy](/post/heavy/) boxes."
+- "[The](/post/the/) [seller](/post/seller/) is offering [a](/post/a/) discount [if](/post/if/) [we](/post/we/) [buy](/post/buy/) [multiple](/post/multiple/) items."
 
 ## Phrases
-- "[Make](/en/post/make/) an [offer](/en/post/offer/)" - [To](/en/post/to/) [propose](/en/post/propose/) [a](/en/post/a/) [deal](/en/post/deal/) [or](/en/post/or/) [suggest](/en/post/suggest/) [a](/en/post/a/) [price](/en/post/price/).
-- "Counteroffer" - [A](/en/post/a/) [response](/en/post/response/) [to](/en/post/to/) an [initial](/en/post/initial/) [offer](/en/post/offer/), typically suggesting [different](/en/post/different/) terms.
-- "[Offer](/en/post/offer/) condolences" - [To](/en/post/to/) [express](/en/post/express/) [sympathy](/en/post/sympathy/), [especially](/en/post/especially/) [after](/en/post/after/) someone's [death](/en/post/death/).
-- "An [offer](/en/post/offer/) [you](/en/post/you/) can't [refuse](/en/post/refuse/)" - An [idiom](/en/post/idiom/) referring [to](/en/post/to/) an [extremely](/en/post/extremely/) [attractive](/en/post/attractive/) [or](/en/post/or/) compelling [proposal](/en/post/proposal/).
+- "[Make](/post/make/) an [offer](/post/offer/)" - [To](/post/to/) [propose](/post/propose/) [a](/post/a/) [deal](/post/deal/) [or](/post/or/) [suggest](/post/suggest/) [a](/post/a/) [price](/post/price/).
+- "Counteroffer" - [A](/post/a/) [response](/post/response/) [to](/post/to/) an [initial](/post/initial/) [offer](/post/offer/), typically suggesting [different](/post/different/) terms.
+- "[Offer](/post/offer/) condolences" - [To](/post/to/) [express](/post/express/) [sympathy](/post/sympathy/), [especially](/post/especially/) [after](/post/after/) someone's [death](/post/death/).
+- "An [offer](/post/offer/) [you](/post/you/) can't [refuse](/post/refuse/)" - An [idiom](/post/idiom/) referring [to](/post/to/) an [extremely](/post/extremely/) [attractive](/post/attractive/) [or](/post/or/) compelling [proposal](/post/proposal/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [real](/en/post/real/) estate [agent](/en/post/agent/) presented [several](/en/post/several/) offers [for](/en/post/for/) [the](/en/post/the/) [property](/en/post/property/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) [will](/en/post/will/) [offer](/en/post/offer/) [our](/en/post/our/) [support](/en/post/support/) [in](/en/post/in/) [any](/en/post/any/) [way](/en/post/way/) [we](/en/post/we/) [can](/en/post/can/) [during](/en/post/during/) [this](/en/post/this/) [difficult](/en/post/difficult/) [time](/en/post/time/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [real](/post/real/) estate [agent](/post/agent/) presented [several](/post/several/) offers [for](/post/for/) [the](/post/the/) [property](/post/property/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) [will](/post/will/) [offer](/post/offer/) [our](/post/our/) [support](/post/support/) [in](/post/in/) [any](/post/any/) [way](/post/way/) [we](/post/we/) [can](/post/can/) [during](/post/during/) [this](/post/this/) [difficult](/post/difficult/) [time](/post/time/)."
 
 ## Synonyms
-- [Proposal](/en/post/proposal/)
+- [Proposal](/post/proposal/)
 - Bid
 - Proposition
-- [Tender](/en/post/tender/)
+- [Tender](/post/tender/)
 - Donation
-- [Gift](/en/post/gift/)
-- [Present](/en/post/present/)
-- [Suggestion](/en/post/suggestion/)
+- [Gift](/post/gift/)
+- [Present](/post/present/)
+- [Suggestion](/post/suggestion/)
 - Submission
 - Concession
-- Allotment ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- [Provision](/en/post/provision/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- Allotment ([in](/post/in/) [certain](/post/certain/) contexts)
+- [Provision](/post/provision/) ([in](/post/in/) [certain](/post/certain/) contexts)

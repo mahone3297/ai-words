@@ -7,37 +7,37 @@ description = '[siː] vt.看见；遇见；看出'
 keywords = ['ai words', 'see']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /siː/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [perceive](/en/post/perceive/) [with](/en/post/with/) [the](/en/post/the/) eyes [or](/en/post/or/) [have](/en/post/have/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) awareness [of](/en/post/of/) [something](/en/post/something/). (n. [sense](/en/post/sense/): [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) seeing)
-- **[Noun](/en/post/noun/)**: [Vision](/en/post/vision/); [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [perceive](/en/post/perceive/) things visually. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [excellent](/en/post/excellent/) [sight](/en/post/sight/)."
-- **[Adjective](/en/post/adjective/)**: Manifesting [or](/en/post/or/) expressing perception [or](/en/post/or/) [understanding](/en/post/understanding/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [clear](/en/post/clear/) [vision](/en/post/vision/) [of](/en/post/of/) [the](/en/post/the/) [future](/en/post/future/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) seen; visibly. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [saw](/en/post/saw/) [the](/en/post/the/) [sunset](/en/post/sunset/) [from](/en/post/from/) [the](/en/post/the/) balcony."
+- **[Verb](/post/verb/)**: [To](/post/to/) [perceive](/post/perceive/) [with](/post/with/) [the](/post/the/) eyes [or](/post/or/) [have](/post/have/) [knowledge](/post/knowledge/) [or](/post/or/) awareness [of](/post/of/) [something](/post/something/). (n. [sense](/post/sense/): [the](/post/the/) [act](/post/act/) [of](/post/of/) seeing)
+- **[Noun](/post/noun/)**: [Vision](/post/vision/); [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [perceive](/post/perceive/) things visually. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [excellent](/post/excellent/) [sight](/post/sight/)."
+- **[Adjective](/post/adjective/)**: Manifesting [or](/post/or/) expressing perception [or](/post/or/) [understanding](/post/understanding/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [clear](/post/clear/) [vision](/post/vision/) [of](/post/of/) [the](/post/the/) [future](/post/future/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) [can](/post/can/) [be](/post/be/) seen; visibly. [For](/post/for/) [example](/post/example/): "[He](/post/he/) [saw](/post/saw/) [the](/post/the/) [sunset](/post/sunset/) [from](/post/from/) [the](/post/the/) balcony."
 
 ## Phrases
-- "[See](/en/post/see/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [notice](/en/post/notice/) [or](/en/post/or/) [become](/en/post/become/) [aware](/en/post/aware/) [of](/en/post/of/) an [object](/en/post/object/) [or](/en/post/or/) [situation](/en/post/situation/).
-- "I can't [see](/en/post/see/) [that](/en/post/that/)" indicates [lack](/en/post/lack/) [of](/en/post/of/) visibility [or](/en/post/or/) [understanding](/en/post/understanding/).
-- "[To](/en/post/to/) [catch](/en/post/catch/) [a](/en/post/a/) [glimpse](/en/post/glimpse/) [of](/en/post/of/)" refers [to](/en/post/to/) [a](/en/post/a/) [brief](/en/post/brief/) [but](/en/post/but/) [noticeable](/en/post/noticeable/) sighting.
+- "[See](/post/see/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [notice](/post/notice/) [or](/post/or/) [become](/post/become/) [aware](/post/aware/) [of](/post/of/) an [object](/post/object/) [or](/post/or/) [situation](/post/situation/).
+- "I can't [see](/post/see/) [that](/post/that/)" indicates [lack](/post/lack/) [of](/post/of/) visibility [or](/post/or/) [understanding](/post/understanding/).
+- "[To](/post/to/) [catch](/post/catch/) [a](/post/a/) [glimpse](/post/glimpse/) [of](/post/of/)" refers [to](/post/to/) [a](/post/a/) [brief](/post/brief/) [but](/post/but/) [noticeable](/post/noticeable/) sighting.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [saw](/en/post/saw/) [a](/en/post/a/) shooting [star](/en/post/star/) streak [across](/en/post/across/) [the](/en/post/the/) [sky](/en/post/sky/) [last](/en/post/last/) [night](/en/post/night/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [eyesight](/en/post/eyesight/) is failing [with](/en/post/with/) [age](/en/post/age/)."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) had [a](/en/post/a/) deep-seated [sense](/en/post/sense/) [of](/en/post/of/) injustice [he](/en/post/he/) [could](/en/post/could/) [no](/en/post/no/) longer [see](/en/post/see/) ignored."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) children were playing [outside](/en/post/outside/), [visible](/en/post/visible/) [through](/en/post/through/) [the](/en/post/the/) [open](/en/post/open/) [window](/en/post/window/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [saw](/post/saw/) [a](/post/a/) shooting [star](/post/star/) streak [across](/post/across/) [the](/post/the/) [sky](/post/sky/) [last](/post/last/) [night](/post/night/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [eyesight](/post/eyesight/) is failing [with](/post/with/) [age](/post/age/)."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) had [a](/post/a/) deep-seated [sense](/post/sense/) [of](/post/of/) injustice [he](/post/he/) [could](/post/could/) [no](/post/no/) longer [see](/post/see/) ignored."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) children were playing [outside](/post/outside/), [visible](/post/visible/) [through](/post/through/) [the](/post/the/) [open](/post/open/) [window](/post/window/)."
 
 ## Synonyms
-- [Notice](/en/post/notice/)
-- [Perceive](/en/post/perceive/)
-- [Observe](/en/post/observe/)
-- [Detect](/en/post/detect/)
-- [Recognize](/en/post/recognize/)
-- [Become](/en/post/become/) [aware](/en/post/aware/) [of](/en/post/of/)
--[Spot](/en/post/spot/)
+- [Notice](/post/notice/)
+- [Perceive](/post/perceive/)
+- [Observe](/post/observe/)
+- [Detect](/post/detect/)
+- [Recognize](/post/recognize/)
+- [Become](/post/become/) [aware](/post/aware/) [of](/post/of/)
+-[Spot](/post/spot/)
 
 ## Antonyms
-- [Blind](/en/post/blind/) ([lack](/en/post/lack/) [of](/en/post/of/) [sight](/en/post/sight/))
-- [Miss](/en/post/miss/)
-- [Fail](/en/post/fail/) [to](/en/post/to/) [see](/en/post/see/)
-- [Ignore](/en/post/ignore/)
+- [Blind](/post/blind/) ([lack](/post/lack/) [of](/post/of/) [sight](/post/sight/))
+- [Miss](/post/miss/)
+- [Fail](/post/fail/) [to](/post/to/) [see](/post/see/)
+- [Ignore](/post/ignore/)

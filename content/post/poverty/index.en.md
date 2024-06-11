@@ -7,31 +7,31 @@ description = '[ˈpɔvəti] n.贫穷，贫困'
 keywords = ['ai words', 'poverty']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈvɔːrti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Poverty](/en/post/poverty/)**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) lacking [sufficient](/en/post/sufficient/) resources [or](/en/post/or/) [income](/en/post/income/) [to](/en/post/to/) [meet](/en/post/meet/) [basic](/en/post/basic/) needs, [often](/en/post/often/) resulting [in](/en/post/in/) [hardship](/en/post/hardship/) [and](/en/post/and/) deprivation.
-- **[Social](/en/post/social/) [Poverty](/en/post/poverty/)**: [The](/en/post/the/) [lack](/en/post/lack/) [of](/en/post/of/) [access](/en/post/access/) [to](/en/post/to/) [social](/en/post/social/) services, [education](/en/post/education/), [or](/en/post/or/) opportunities [that](/en/post/that/) facilitate [upward](/en/post/upward/) mobility.
-- **[Economic](/en/post/economic/) [Poverty](/en/post/poverty/)**: [A](/en/post/a/) [condition](/en/post/condition/) [where](/en/post/where/) an [individual](/en/post/individual/) [or](/en/post/or/) household's [income](/en/post/income/) falls [below](/en/post/below/) [a](/en/post/a/) [certain](/en/post/certain/) threshold, making [it](/en/post/it/) [difficult](/en/post/difficult/) [to](/en/post/to/) [afford](/en/post/afford/) necessities.
+### [Noun](/post/noun/)
+- **[Poverty](/post/poverty/)**: [The](/post/the/) [state](/post/state/) [of](/post/of/) lacking [sufficient](/post/sufficient/) resources [or](/post/or/) [income](/post/income/) [to](/post/to/) [meet](/post/meet/) [basic](/post/basic/) needs, [often](/post/often/) resulting [in](/post/in/) [hardship](/post/hardship/) [and](/post/and/) deprivation.
+- **[Social](/post/social/) [Poverty](/post/poverty/)**: [The](/post/the/) [lack](/post/lack/) [of](/post/of/) [access](/post/access/) [to](/post/to/) [social](/post/social/) services, [education](/post/education/), [or](/post/or/) opportunities [that](/post/that/) facilitate [upward](/post/upward/) mobility.
+- **[Economic](/post/economic/) [Poverty](/post/poverty/)**: [A](/post/a/) [condition](/post/condition/) [where](/post/where/) an [individual](/post/individual/) [or](/post/or/) household's [income](/post/income/) falls [below](/post/below/) [a](/post/a/) [certain](/post/certain/) threshold, making [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [afford](/post/afford/) necessities.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [be](/en/post/be/) impoverished: [To](/en/post/to/) [experience](/en/post/experience/) [or](/en/post/or/) [suffer](/en/post/suffer/) [from](/en/post/from/) [poverty](/en/post/poverty/).
-- [To](/en/post/to/) alleviate [poverty](/en/post/poverty/): [To](/en/post/to/) [work](/en/post/work/) towards reducing [or](/en/post/or/) eliminating [poverty](/en/post/poverty/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [be](/post/be/) impoverished: [To](/post/to/) [experience](/post/experience/) [or](/post/or/) [suffer](/post/suffer/) [from](/post/from/) [poverty](/post/poverty/).
+- [To](/post/to/) alleviate [poverty](/post/poverty/): [To](/post/to/) [work](/post/work/) towards reducing [or](/post/or/) eliminating [poverty](/post/poverty/).
 
-### [Adjective](/en/post/adjective/)
-- [Poor](/en/post/poor/): Having [very](/en/post/very/) [little](/en/post/little/) [money](/en/post/money/) [or](/en/post/or/) resources; lacking [comfort](/en/post/comfort/) [or](/en/post/or/) [basic](/en/post/basic/) necessities.
+### [Adjective](/post/adjective/)
+- [Poor](/post/poor/): Having [very](/post/very/) [little](/post/little/) [money](/post/money/) [or](/post/or/) resources; lacking [comfort](/post/comfort/) [or](/post/or/) [basic](/post/basic/) necessities.
 
 ## Phrases
-- "[Struggle](/en/post/struggle/) [with](/en/post/with/) [poverty](/en/post/poverty/)" describes [the](/en/post/the/) hardships faced [by](/en/post/by/) individuals [or](/en/post/or/) families [in](/en/post/in/) [poverty](/en/post/poverty/).
-- "[Living](/en/post/living/) [in](/en/post/in/) [poverty](/en/post/poverty/)" refers [to](/en/post/to/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) chronically [poor](/en/post/poor/).
-- "Eradicating [poverty](/en/post/poverty/)" is [the](/en/post/the/) [goal](/en/post/goal/) [of](/en/post/of/) [many](/en/post/many/) [development](/en/post/development/) programs [and](/en/post/and/) initiatives.
+- "[Struggle](/post/struggle/) [with](/post/with/) [poverty](/post/poverty/)" describes [the](/post/the/) hardships faced [by](/post/by/) individuals [or](/post/or/) families [in](/post/in/) [poverty](/post/poverty/).
+- "[Living](/post/living/) [in](/post/in/) [poverty](/post/poverty/)" refers [to](/post/to/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) chronically [poor](/post/poor/).
+- "Eradicating [poverty](/post/poverty/)" is [the](/post/the/) [goal](/post/goal/) [of](/post/of/) [many](/post/many/) [development](/post/development/) programs [and](/post/and/) initiatives.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [government](/en/post/government/) launched [a](/en/post/a/) [campaign](/en/post/campaign/) [to](/en/post/to/) combat [rural](/en/post/rural/) [poverty](/en/post/poverty/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [charity](/en/post/charity/) aims [to](/en/post/to/) alleviate [poverty](/en/post/poverty/) [by](/en/post/by/) providing [food](/en/post/food/) [and](/en/post/and/) [shelter](/en/post/shelter/) [to](/en/post/to/) [those](/en/post/those/) [in](/en/post/in/) [need](/en/post/need/)."
-- **[Adjective](/en/post/adjective/)**: "[Their](/en/post/their/) [small](/en/post/small/) [apartment](/en/post/apartment/) was [bare](/en/post/bare/), [a](/en/post/a/) [reflection](/en/post/reflection/) [of](/en/post/of/) [their](/en/post/their/) impoverished lifestyle."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [government](/post/government/) launched [a](/post/a/) [campaign](/post/campaign/) [to](/post/to/) combat [rural](/post/rural/) [poverty](/post/poverty/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [charity](/post/charity/) aims [to](/post/to/) alleviate [poverty](/post/poverty/) [by](/post/by/) providing [food](/post/food/) [and](/post/and/) [shelter](/post/shelter/) [to](/post/to/) [those](/post/those/) [in](/post/in/) [need](/post/need/)."
+- **[Adjective](/post/adjective/)**: "[Their](/post/their/) [small](/post/small/) [apartment](/post/apartment/) was [bare](/post/bare/), [a](/post/a/) [reflection](/post/reflection/) [of](/post/of/) [their](/post/their/) impoverished lifestyle."
 
 ## Synonyms
 - Poverty-stricken
@@ -43,7 +43,7 @@ keywords = ['ai words', 'poverty']
 
 ## Antonyms
 - Affluent
-- [Wealthy](/en/post/wealthy/)
-- [Prosperous](/en/post/prosperous/)
-- [Comfortable](/en/post/comfortable/)
+- [Wealthy](/post/wealthy/)
+- [Prosperous](/post/prosperous/)
+- [Comfortable](/post/comfortable/)
 - Well-off

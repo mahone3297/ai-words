@@ -7,28 +7,28 @@ description = '[drəˈmætik] a.引人注目的，戏剧的'
 keywords = ['ai words', 'dramatic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /drəˈmætɪk/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [intense](/en/post/intense/) [emotion](/en/post/emotion/), excitement, [or](/en/post/or/) [effect](/en/post/effect/); strikingly [impressive](/en/post/impressive/) [or](/en/post/or/) [noticeable](/en/post/noticeable/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [dramatic](/en/post/dramatic/) finale [left](/en/post/left/) [the](/en/post/the/) [audience](/en/post/audience/) gasping."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [dramatic](/en/post/dramatic/) [performance](/en/post/performance/) [or](/en/post/or/) [production](/en/post/production/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [play](/en/post/play/) [or](/en/post/or/) [movie](/en/post/movie/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) attended [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [dramatic](/en/post/dramatic/) theater productions."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [dramatic](/en/post/dramatic/) [manner](/en/post/manner/); impressively [or](/en/post/or/) theatrically. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [dramatic](/en/post/dramatic/) [entrance](/en/post/entrance/) captured everyone's [attention](/en/post/attention/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [intense](/post/intense/) [emotion](/post/emotion/), excitement, [or](/post/or/) [effect](/post/effect/); strikingly [impressive](/post/impressive/) [or](/post/or/) [noticeable](/post/noticeable/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [dramatic](/post/dramatic/) finale [left](/post/left/) [the](/post/the/) [audience](/post/audience/) gasping."
+- **[Noun](/post/noun/)**: [A](/post/a/) [dramatic](/post/dramatic/) [performance](/post/performance/) [or](/post/or/) [production](/post/production/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [play](/post/play/) [or](/post/or/) [movie](/post/movie/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) attended [a](/post/a/) [series](/post/series/) [of](/post/of/) [dramatic](/post/dramatic/) theater productions."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [dramatic](/post/dramatic/) [manner](/post/manner/); impressively [or](/post/or/) theatrically. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [dramatic](/post/dramatic/) [entrance](/post/entrance/) captured everyone's [attention](/post/attention/)."
 
 ## Phrases
-- "[Dramatic](/en/post/dramatic/) [change](/en/post/change/)" refers [to](/en/post/to/) [a](/en/post/a/) [significant](/en/post/significant/) alteration.
-- "[Dramatic](/en/post/dramatic/) irony" occurs [when](/en/post/when/) [the](/en/post/the/) [audience](/en/post/audience/) knows [something](/en/post/something/) [a](/en/post/a/) [character](/en/post/character/) doesn't.
-- "Dramatically [different](/en/post/different/)" [means](/en/post/means/) showing [a](/en/post/a/) marked [contrast](/en/post/contrast/) [or](/en/post/or/) [variation](/en/post/variation/).
+- "[Dramatic](/post/dramatic/) [change](/post/change/)" refers [to](/post/to/) [a](/post/a/) [significant](/post/significant/) alteration.
+- "[Dramatic](/post/dramatic/) irony" occurs [when](/post/when/) [the](/post/the/) [audience](/post/audience/) knows [something](/post/something/) [a](/post/a/) [character](/post/character/) doesn't.
+- "Dramatically [different](/post/different/)" [means](/post/means/) showing [a](/post/a/) marked [contrast](/post/contrast/) [or](/post/or/) [variation](/post/variation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) storm's [lightning](/en/post/lightning/) was [a](/en/post/a/) [dramatic](/en/post/dramatic/) [display](/en/post/display/) [of](/en/post/of/) nature's [power](/en/post/power/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was moved [to](/en/post/to/) tears [by](/en/post/by/) [the](/en/post/the/) [dramatic](/en/post/dramatic/) [performance](/en/post/performance/) [of](/en/post/of/) [her](/en/post/her/) favorite [actor](/en/post/actor/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) dramatically raised [his](/en/post/his/) [voice](/en/post/voice/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [his](/en/post/his/) [point](/en/post/point/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) storm's [lightning](/post/lightning/) was [a](/post/a/) [dramatic](/post/dramatic/) [display](/post/display/) [of](/post/of/) nature's [power](/post/power/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) was moved [to](/post/to/) tears [by](/post/by/) [the](/post/the/) [dramatic](/post/dramatic/) [performance](/post/performance/) [of](/post/of/) [her](/post/her/) favorite [actor](/post/actor/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) dramatically raised [his](/post/his/) [voice](/post/voice/) [to](/post/to/) [emphasize](/post/emphasize/) [his](/post/his/) [point](/post/point/)."
 
 ## Synonyms
 - Dramatical
 - Histrionic
-- [Impressive](/en/post/impressive/)
+- [Impressive](/post/impressive/)
 - Showy
 - Grandiose
 - Pompous
@@ -39,6 +39,6 @@ keywords = ['ai words', 'dramatic']
 - Mundane
 - Subtle
 - Unassuming
-- [Calm](/en/post/calm/)
-- [Quiet](/en/post/quiet/)
+- [Calm](/post/calm/)
+- [Quiet](/post/quiet/)
 - Boring

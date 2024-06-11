@@ -7,41 +7,41 @@ description = '[kæmˈpein] n.战役；运动'
 keywords = ['ai words', 'campaign']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kæmˈpeɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) coordinated activities, [often](/en/post/often/) [political](/en/post/political/) [or](/en/post/or/) advertising, designed [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) [specific](/en/post/specific/) [goal](/en/post/goal/) [or](/en/post/or/) [objective](/en/post/objective/), [such](/en/post/such/) [as](/en/post/as/) winning an [election](/en/post/election/) [or](/en/post/or/) promoting [a](/en/post/a/) [product](/en/post/product/). [Example](/en/post/example/): "[The](/en/post/the/) [charity](/en/post/charity/) launched [a](/en/post/a/) fundraising [campaign](/en/post/campaign/) [for](/en/post/for/) [the](/en/post/the/) underprivileged children."
-2. [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [during](/en/post/during/) [which](/en/post/which/) [a](/en/post/a/) [particular](/en/post/particular/) [action](/en/post/action/) [or](/en/post/or/) [effort](/en/post/effort/) is undertaken. [Example](/en/post/example/): "[The](/en/post/the/) company's marketing [campaign](/en/post/campaign/) ran [from](/en/post/from/) January [to](/en/post/to/) June."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [series](/post/series/) [of](/post/of/) coordinated activities, [often](/post/often/) [political](/post/political/) [or](/post/or/) advertising, designed [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) [specific](/post/specific/) [goal](/post/goal/) [or](/post/or/) [objective](/post/objective/), [such](/post/such/) [as](/post/as/) winning an [election](/post/election/) [or](/post/or/) promoting [a](/post/a/) [product](/post/product/). [Example](/post/example/): "[The](/post/the/) [charity](/post/charity/) launched [a](/post/a/) fundraising [campaign](/post/campaign/) [for](/post/for/) [the](/post/the/) underprivileged children."
+2. [A](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [during](/post/during/) [which](/post/which/) [a](/post/a/) [particular](/post/particular/) [action](/post/action/) [or](/post/or/) [effort](/post/effort/) is undertaken. [Example](/post/example/): "[The](/post/the/) company's marketing [campaign](/post/campaign/) ran [from](/post/from/) January [to](/post/to/) June."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) initiate [or](/en/post/or/) [carry](/en/post/carry/) [out](/en/post/out/) [a](/en/post/a/) [campaign](/en/post/campaign/), typically [with](/en/post/with/) [a](/en/post/a/) defined [purpose](/en/post/purpose/). [Example](/en/post/example/): "[They](/en/post/they/) launched [a](/en/post/a/) [social](/en/post/social/) media [campaign](/en/post/campaign/) [to](/en/post/to/) [raise](/en/post/raise/) awareness [about](/en/post/about/) [climate](/en/post/climate/) [change](/en/post/change/)."
-2. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) concerted [effort](/en/post/effort/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) actions [to](/en/post/to/) [promote](/en/post/promote/) [or](/en/post/or/) [achieve](/en/post/achieve/) [something](/en/post/something/). [Example](/en/post/example/): "Students campaigned [for](/en/post/for/) [better](/en/post/better/) [school](/en/post/school/) resources."
+### [Verb](/post/verb/)
+1. [To](/post/to/) initiate [or](/post/or/) [carry](/post/carry/) [out](/post/out/) [a](/post/a/) [campaign](/post/campaign/), typically [with](/post/with/) [a](/post/a/) defined [purpose](/post/purpose/). [Example](/post/example/): "[They](/post/they/) launched [a](/post/a/) [social](/post/social/) media [campaign](/post/campaign/) [to](/post/to/) [raise](/post/raise/) awareness [about](/post/about/) [climate](/post/climate/) [change](/post/change/)."
+2. [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) concerted [effort](/post/effort/) [or](/post/or/) [series](/post/series/) [of](/post/of/) actions [to](/post/to/) [promote](/post/promote/) [or](/post/or/) [achieve](/post/achieve/) [something](/post/something/). [Example](/post/example/): "Students campaigned [for](/post/for/) [better](/post/better/) [school](/post/school/) resources."
 
-### [Adjective](/en/post/adjective/)
-[Used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) an organized [effort](/en/post/effort/) [or](/en/post/or/) [strategy](/en/post/strategy/). [Example](/en/post/example/): "[A](/en/post/a/) well-planned [election](/en/post/election/) [campaign](/en/post/campaign/)."
+### [Adjective](/post/adjective/)
+[Used](/post/used/) [to](/post/to/) [describe](/post/describe/) an organized [effort](/post/effort/) [or](/post/or/) [strategy](/post/strategy/). [Example](/post/example/): "[A](/post/a/) well-planned [election](/post/election/) [campaign](/post/campaign/)."
 
-### [Adverb](/en/post/adverb/)
-Referring [to](/en/post/to/) [the](/en/post/the/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) [a](/en/post/a/) [campaign](/en/post/campaign/) is conducted. [Example](/en/post/example/): "[She](/en/post/she/) ran [her](/en/post/her/) [campaign](/en/post/campaign/) [with](/en/post/with/) [determination](/en/post/determination/)."
+### [Adverb](/post/adverb/)
+Referring [to](/post/to/) [the](/post/the/) [manner](/post/manner/) [in](/post/in/) [which](/post/which/) [a](/post/a/) [campaign](/post/campaign/) is conducted. [Example](/post/example/): "[She](/post/she/) ran [her](/post/her/) [campaign](/post/campaign/) [with](/post/with/) [determination](/post/determination/)."
 
 ## Phrases
-- "[Run](/en/post/run/) [a](/en/post/a/) [campaign](/en/post/campaign/)" [means](/en/post/means/) [to](/en/post/to/) [organize](/en/post/organize/) [and](/en/post/and/) [execute](/en/post/execute/) [a](/en/post/a/) [project](/en/post/project/) [or](/en/post/or/) initiative.
-- "[Join](/en/post/join/) [the](/en/post/the/) [campaign](/en/post/campaign/)" implies participation [in](/en/post/in/) [a](/en/post/a/) [cause](/en/post/cause/) [or](/en/post/or/) [movement](/en/post/movement/).
-- "[Campaign](/en/post/campaign/) [slogan](/en/post/slogan/)" refers [to](/en/post/to/) [a](/en/post/a/) concise [message](/en/post/message/) [used](/en/post/used/) [to](/en/post/to/) [promote](/en/post/promote/) [a](/en/post/a/) [candidate](/en/post/candidate/) [or](/en/post/or/) [idea](/en/post/idea/).
-- "Fundraising [campaign](/en/post/campaign/)" is [a](/en/post/a/) [drive](/en/post/drive/) [to](/en/post/to/) [collect](/en/post/collect/) [money](/en/post/money/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/).
+- "[Run](/post/run/) [a](/post/a/) [campaign](/post/campaign/)" [means](/post/means/) [to](/post/to/) [organize](/post/organize/) [and](/post/and/) [execute](/post/execute/) [a](/post/a/) [project](/post/project/) [or](/post/or/) initiative.
+- "[Join](/post/join/) [the](/post/the/) [campaign](/post/campaign/)" implies participation [in](/post/in/) [a](/post/a/) [cause](/post/cause/) [or](/post/or/) [movement](/post/movement/).
+- "[Campaign](/post/campaign/) [slogan](/post/slogan/)" refers [to](/post/to/) [a](/post/a/) concise [message](/post/message/) [used](/post/used/) [to](/post/to/) [promote](/post/promote/) [a](/post/a/) [candidate](/post/candidate/) [or](/post/or/) [idea](/post/idea/).
+- "Fundraising [campaign](/post/campaign/)" is [a](/post/a/) [drive](/post/drive/) [to](/post/to/) [collect](/post/collect/) [money](/post/money/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) candidates were [neck](/en/post/neck/) [and](/en/post/and/) [neck](/en/post/neck/) [in](/en/post/in/) [the](/en/post/the/) [election](/en/post/election/) [campaign](/en/post/campaign/)."
-- **[Verb](/en/post/verb/)**: "We're launching [a](/en/post/a/) [new](/en/post/new/) environmental [campaign](/en/post/campaign/) [to](/en/post/to/) [reduce](/en/post/reduce/) [plastic](/en/post/plastic/) [waste](/en/post/waste/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) marketing [campaign](/en/post/campaign/) was innovative [and](/en/post/and/) [effective](/en/post/effective/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) ran [his](/en/post/his/) [campaign](/en/post/campaign/) tirelessly, visiting [every](/en/post/every/) [community](/en/post/community/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) candidates were [neck](/post/neck/) [and](/post/and/) [neck](/post/neck/) [in](/post/in/) [the](/post/the/) [election](/post/election/) [campaign](/post/campaign/)."
+- **[Verb](/post/verb/)**: "We're launching [a](/post/a/) [new](/post/new/) environmental [campaign](/post/campaign/) [to](/post/to/) [reduce](/post/reduce/) [plastic](/post/plastic/) [waste](/post/waste/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) marketing [campaign](/post/campaign/) was innovative [and](/post/and/) [effective](/post/effective/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) ran [his](/post/his/) [campaign](/post/campaign/) tirelessly, visiting [every](/post/every/) [community](/post/community/)."
 
 ## Synonyms
-- [Drive](/en/post/drive/)
-- [Push](/en/post/push/)
+- [Drive](/post/drive/)
+- [Push](/post/push/)
 - Initiative
 - Crusade
 - Blitz
 - Offensive
-- [Movement](/en/post/movement/)
+- [Movement](/post/movement/)

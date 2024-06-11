@@ -7,42 +7,42 @@ description = '[ˈnesəseri] a.必要的；必然的'
 keywords = ['ai words', 'necessary']
 +++
 
-## [Word](/en/post/word/): [Necessary](/en/post/necessary/)
+## [Word](/post/word/): [Necessary](/post/necessary/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnesəsəri/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Absolutely](/en/post/absolutely/) [essential](/en/post/essential/); required [by](/en/post/by/) [the](/en/post/the/) circumstances [or](/en/post/or/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) laptop is [necessary](/en/post/necessary/) [for](/en/post/for/) [remote](/en/post/remote/) [work](/en/post/work/)."
+- **[Adjective](/post/adjective/)**: [Absolutely](/post/absolutely/) [essential](/post/essential/); required [by](/post/by/) [the](/post/the/) circumstances [or](/post/or/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) laptop is [necessary](/post/necessary/) [for](/post/for/) [remote](/post/remote/) [work](/post/work/)."
   
-  > "It's [necessary](/en/post/necessary/) [to](/en/post/to/) [wear](/en/post/wear/) [protective](/en/post/protective/) gear [when](/en/post/when/) handling hazardous materials."
-- **[Noun](/en/post/noun/) ([formal](/en/post/formal/) [or](/en/post/or/) [legal](/en/post/legal/) [use](/en/post/use/))**: [Something](/en/post/something/) [that](/en/post/that/) is required [or](/en/post/or/) [indispensable](/en/post/indispensable/). [For](/en/post/for/) [example](/en/post/example/): "[Food](/en/post/food/), [shelter](/en/post/shelter/), [and](/en/post/and/) [clothing](/en/post/clothing/) are necessaries [of](/en/post/of/) [life](/en/post/life/)."
+  > "It's [necessary](/post/necessary/) [to](/post/to/) [wear](/post/wear/) [protective](/post/protective/) gear [when](/post/when/) handling hazardous materials."
+- **[Noun](/post/noun/) ([formal](/post/formal/) [or](/post/or/) [legal](/post/legal/) [use](/post/use/))**: [Something](/post/something/) [that](/post/that/) is required [or](/post/or/) [indispensable](/post/indispensable/). [For](/post/for/) [example](/post/example/): "[Food](/post/food/), [shelter](/post/shelter/), [and](/post/and/) [clothing](/post/clothing/) are necessaries [of](/post/of/) [life](/post/life/)."
 
-  > "[The](/en/post/the/) necessaries [of](/en/post/of/) [daily](/en/post/daily/) [living](/en/post/living/) [include](/en/post/include/) items [such](/en/post/such/) [as](/en/post/as/) groceries [and](/en/post/and/) [household](/en/post/household/) supplies."
+  > "[The](/post/the/) necessaries [of](/post/of/) [daily](/post/daily/) [living](/post/living/) [include](/post/include/) items [such](/post/such/) [as](/post/as/) groceries [and](/post/and/) [household](/post/household/) supplies."
 
 ## Phrases
-- "[A](/en/post/a/) [necessary](/en/post/necessary/) [evil](/en/post/evil/)": An [action](/en/post/action/) [or](/en/post/or/) [thing](/en/post/thing/) regarded [as](/en/post/as/) undesirable [but](/en/post/but/) considered [essential](/en/post/essential/) [under](/en/post/under/) [the](/en/post/the/) circumstances.
-- "[To](/en/post/to/) [make](/en/post/make/) [necessary](/en/post/necessary/) adjustments": [To](/en/post/to/) [make](/en/post/make/) changes [that](/en/post/that/) are [absolutely](/en/post/absolutely/) required [for](/en/post/for/) [something](/en/post/something/) [to](/en/post/to/) [function](/en/post/function/) correctly [or](/en/post/or/) effectively.
-- "[It](/en/post/it/) is [not](/en/post/not/) [necessary](/en/post/necessary/) [to](/en/post/to/)...": [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is [not](/en/post/not/) needed [or](/en/post/or/) compulsory.
+- "[A](/post/a/) [necessary](/post/necessary/) [evil](/post/evil/)": An [action](/post/action/) [or](/post/or/) [thing](/post/thing/) regarded [as](/post/as/) undesirable [but](/post/but/) considered [essential](/post/essential/) [under](/post/under/) [the](/post/the/) circumstances.
+- "[To](/post/to/) [make](/post/make/) [necessary](/post/necessary/) adjustments": [To](/post/to/) [make](/post/make/) changes [that](/post/that/) are [absolutely](/post/absolutely/) required [for](/post/for/) [something](/post/something/) [to](/post/to/) [function](/post/function/) correctly [or](/post/or/) effectively.
+- "[It](/post/it/) is [not](/post/not/) [necessary](/post/necessary/) [to](/post/to/)...": [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is [not](/post/not/) needed [or](/post/or/) compulsory.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[A](/en/post/a/) [good](/en/post/good/) [education](/en/post/education/) is [necessary](/en/post/necessary/) [for](/en/post/for/) [personal](/en/post/personal/) [and](/en/post/and/) [professional](/en/post/professional/) [growth](/en/post/growth/)."
-- **[Noun](/en/post/noun/)**: "[Provision](/en/post/provision/) [of](/en/post/of/) necessaries [for](/en/post/for/) children is [the](/en/post/the/) [responsibility](/en/post/responsibility/) [of](/en/post/of/) parents."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[A](/post/a/) [good](/post/good/) [education](/post/education/) is [necessary](/post/necessary/) [for](/post/for/) [personal](/post/personal/) [and](/post/and/) [professional](/post/professional/) [growth](/post/growth/)."
+- **[Noun](/post/noun/)**: "[Provision](/post/provision/) [of](/post/of/) necessaries [for](/post/for/) children is [the](/post/the/) [responsibility](/post/responsibility/) [of](/post/of/) parents."
 
 ## Synonyms
-- [Essential](/en/post/essential/)
+- [Essential](/post/essential/)
 - Required
 - Imperative
-- [Indispensable](/en/post/indispensable/)
+- [Indispensable](/post/indispensable/)
 - Compulsory
 - Obligatory
-- [Vital](/en/post/vital/)
+- [Vital](/post/vital/)
 - Needed
 - Mandated
 
 ## Antonyms
-- [Unnecessary](/en/post/unnecessary/)
-- [Optional](/en/post/optional/)
+- [Unnecessary](/post/unnecessary/)
+- [Optional](/post/optional/)
 - Nonessential
 - Extraneous
 - Superfluous

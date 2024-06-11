@@ -7,37 +7,37 @@ description = '[ˈautlain] n.轮廓；略图；大纲'
 keywords = ['ai words', 'outline']
 +++
 
-# [Outline](/en/post/outline/)
+# [Outline](/post/outline/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaʊt.laɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-- [A](/en/post/a/) [general](/en/post/general/) [plan](/en/post/plan/) [or](/en/post/or/) [sketch](/en/post/sketch/) showing [the](/en/post/the/) [main](/en/post/main/) features [or](/en/post/or/) [structure](/en/post/structure/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [organize](/en/post/organize/) ideas [or](/en/post/or/) [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) presented an [outline](/en/post/outline/) [of](/en/post/of/) [her](/en/post/her/) [research](/en/post/research/) [project](/en/post/project/)."
-- [The](/en/post/the/) contour [or](/en/post/or/) [shape](/en/post/shape/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [when](/en/post/when/) [visible](/en/post/visible/) [against](/en/post/against/) [a](/en/post/a/) lighter [background](/en/post/background/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [outline](/en/post/outline/) [of](/en/post/of/) [the](/en/post/the/) mountains was [clearly](/en/post/clearly/) [visible](/en/post/visible/) [on](/en/post/on/) [the](/en/post/the/) [horizon](/en/post/horizon/)."
+### [Noun](/post/noun/) (n)
+- [A](/post/a/) [general](/post/general/) [plan](/post/plan/) [or](/post/or/) [sketch](/post/sketch/) showing [the](/post/the/) [main](/post/main/) features [or](/post/or/) [structure](/post/structure/) [of](/post/of/) [something](/post/something/), [often](/post/often/) [used](/post/used/) [to](/post/to/) [organize](/post/organize/) ideas [or](/post/or/) [information](/post/information/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) presented an [outline](/post/outline/) [of](/post/of/) [her](/post/her/) [research](/post/research/) [project](/post/project/)."
+- [The](/post/the/) contour [or](/post/or/) [shape](/post/shape/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [when](/post/when/) [visible](/post/visible/) [against](/post/against/) [a](/post/a/) lighter [background](/post/background/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [outline](/post/outline/) [of](/post/of/) [the](/post/the/) mountains was [clearly](/post/clearly/) [visible](/post/visible/) [on](/post/on/) [the](/post/the/) [horizon](/post/horizon/)."
 
-### [Verb](/en/post/verb/) (v)
-- [To](/en/post/to/) [draw](/en/post/draw/) [or](/en/post/or/) [describe](/en/post/describe/) [the](/en/post/the/) [outer](/en/post/outer/) [edge](/en/post/edge/) [or](/en/post/or/) boundaries [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) outlined [the](/en/post/the/) shapes [with](/en/post/with/) [a](/en/post/a/) [pencil](/en/post/pencil/) [before](/en/post/before/) filling [them](/en/post/them/) [in](/en/post/in/) [with](/en/post/with/) [color](/en/post/color/)."
-- [To](/en/post/to/) [summarize](/en/post/summarize/) [or](/en/post/or/) [present](/en/post/present/) [the](/en/post/the/) [main](/en/post/main/) points [or](/en/post/or/) [structure](/en/post/structure/) [of](/en/post/of/) [something](/en/post/something/) [in](/en/post/in/) [brief](/en/post/brief/) [form](/en/post/form/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [professor](/en/post/professor/) outlined [the](/en/post/the/) [key](/en/post/key/) concepts covered [in](/en/post/in/) [the](/en/post/the/) [course](/en/post/course/)."
+### [Verb](/post/verb/) (v)
+- [To](/post/to/) [draw](/post/draw/) [or](/post/or/) [describe](/post/describe/) [the](/post/the/) [outer](/post/outer/) [edge](/post/edge/) [or](/post/or/) boundaries [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) outlined [the](/post/the/) shapes [with](/post/with/) [a](/post/a/) [pencil](/post/pencil/) [before](/post/before/) filling [them](/post/them/) [in](/post/in/) [with](/post/with/) [color](/post/color/)."
+- [To](/post/to/) [summarize](/post/summarize/) [or](/post/or/) [present](/post/present/) [the](/post/the/) [main](/post/main/) points [or](/post/or/) [structure](/post/structure/) [of](/post/of/) [something](/post/something/) [in](/post/in/) [brief](/post/brief/) [form](/post/form/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [professor](/post/professor/) outlined [the](/post/the/) [key](/post/key/) concepts covered [in](/post/in/) [the](/post/the/) [course](/post/course/)."
 
 ## Phrases
-- "[Outline](/en/post/outline/) [a](/en/post/a/) [plan](/en/post/plan/)/[document](/en/post/document/)" - [to](/en/post/to/) [sketch](/en/post/sketch/) [out](/en/post/out/) [the](/en/post/the/) [main](/en/post/main/) details [or](/en/post/or/) [structure](/en/post/structure/) beforehand.
-- "[In](/en/post/in/) [outline](/en/post/outline/)" - broadly [or](/en/post/or/) [generally](/en/post/generally/) speaking; giving [only](/en/post/only/) [the](/en/post/the/) [main](/en/post/main/) features.
-- "[To](/en/post/to/) [follow](/en/post/follow/) [the](/en/post/the/) [outline](/en/post/outline/)" - [to](/en/post/to/) adhere [to](/en/post/to/) [the](/en/post/the/) planned [structure](/en/post/structure/) [or](/en/post/or/) [framework](/en/post/framework/).
+- "[Outline](/post/outline/) [a](/post/a/) [plan](/post/plan/)/[document](/post/document/)" - [to](/post/to/) [sketch](/post/sketch/) [out](/post/out/) [the](/post/the/) [main](/post/main/) details [or](/post/or/) [structure](/post/structure/) beforehand.
+- "[In](/post/in/) [outline](/post/outline/)" - broadly [or](/post/or/) [generally](/post/generally/) speaking; giving [only](/post/only/) [the](/post/the/) [main](/post/main/) features.
+- "[To](/post/to/) [follow](/post/follow/) [the](/post/the/) [outline](/post/outline/)" - [to](/post/to/) adhere [to](/post/to/) [the](/post/the/) planned [structure](/post/structure/) [or](/post/or/) [framework](/post/framework/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [book](/en/post/book/) provides an [outline](/en/post/outline/) [of](/en/post/of/) [the](/en/post/the/) [history](/en/post/history/) [of](/en/post/of/) [art](/en/post/art/) [from](/en/post/from/) medieval times [to](/en/post/to/) [modern](/en/post/modern/) [day](/en/post/day/)."
-- **[Verb](/en/post/verb/)**: "[Before](/en/post/before/) starting [the](/en/post/the/) [painting](/en/post/painting/), [she](/en/post/she/) carefully outlined [each](/en/post/each/) [element](/en/post/element/) [with](/en/post/with/) [a](/en/post/a/) [fine](/en/post/fine/) [brush](/en/post/brush/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [book](/post/book/) provides an [outline](/post/outline/) [of](/post/of/) [the](/post/the/) [history](/post/history/) [of](/post/of/) [art](/post/art/) [from](/post/from/) medieval times [to](/post/to/) [modern](/post/modern/) [day](/post/day/)."
+- **[Verb](/post/verb/)**: "[Before](/post/before/) starting [the](/post/the/) [painting](/post/painting/), [she](/post/she/) carefully outlined [each](/post/each/) [element](/post/element/) [with](/post/with/) [a](/post/a/) [fine](/post/fine/) [brush](/post/brush/)."
 
 ## Synonyms
-- [Sketch](/en/post/sketch/)
-- [Summary](/en/post/summary/)
+- [Sketch](/post/sketch/)
+- [Summary](/post/summary/)
 - Synopsis
-- [Framework](/en/post/framework/)
+- [Framework](/post/framework/)
 - Blueprint
 - Contour
-- [Draft](/en/post/draft/)
-- [Scheme](/en/post/scheme/)
-- [Plan](/en/post/plan/)
-- [Diagram](/en/post/diagram/)
+- [Draft](/post/draft/)
+- [Scheme](/post/scheme/)
+- [Plan](/post/plan/)
+- [Diagram](/post/diagram/)

@@ -7,51 +7,51 @@ description = '[breik] vt.打破；损坏；破坏'
 keywords = ['ai words', 'break']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /breɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [break](/en/post/break/)** (n): 
-   1. [A](/en/post/a/) [pause](/en/post/pause/) [or](/en/post/or/) [interruption](/en/post/interruption/) [in](/en/post/in/) [activity](/en/post/activity/) [or](/en/post/or/) [work](/en/post/work/). [Example](/en/post/example/): "It's [time](/en/post/time/) [for](/en/post/for/) [a](/en/post/a/) [short](/en/post/short/) [break](/en/post/break/) [from](/en/post/from/) studying."
-   2. [A](/en/post/a/) [gap](/en/post/gap/) [or](/en/post/or/) [interval](/en/post/interval/) [between](/en/post/between/) things [or](/en/post/or/) events. [Example](/en/post/example/): "There's [a](/en/post/a/) five-minute [break](/en/post/break/) [between](/en/post/between/) acts."
-   3. [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [rest](/en/post/rest/) [or](/en/post/or/) relaxation. [Example](/en/post/example/): "[She](/en/post/she/) took [a](/en/post/a/) [long](/en/post/long/) [break](/en/post/break/) [after](/en/post/after/) working [all](/en/post/all/) [day](/en/post/day/)."
-   4. [A](/en/post/a/) [physical](/en/post/physical/) [crack](/en/post/crack/) [or](/en/post/or/) flaw [in](/en/post/in/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [vase](/en/post/vase/) has [a](/en/post/a/) [small](/en/post/small/) [break](/en/post/break/) [on](/en/post/on/) [the](/en/post/the/) rim."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [break](/post/break/)** (n): 
+   1. [A](/post/a/) [pause](/post/pause/) [or](/post/or/) [interruption](/post/interruption/) [in](/post/in/) [activity](/post/activity/) [or](/post/or/) [work](/post/work/). [Example](/post/example/): "It's [time](/post/time/) [for](/post/for/) [a](/post/a/) [short](/post/short/) [break](/post/break/) [from](/post/from/) studying."
+   2. [A](/post/a/) [gap](/post/gap/) [or](/post/or/) [interval](/post/interval/) [between](/post/between/) things [or](/post/or/) events. [Example](/post/example/): "There's [a](/post/a/) five-minute [break](/post/break/) [between](/post/between/) acts."
+   3. [A](/post/a/) [period](/post/period/) [of](/post/of/) [rest](/post/rest/) [or](/post/or/) relaxation. [Example](/post/example/): "[She](/post/she/) took [a](/post/a/) [long](/post/long/) [break](/post/break/) [after](/post/after/) working [all](/post/all/) [day](/post/day/)."
+   4. [A](/post/a/) [physical](/post/physical/) [crack](/post/crack/) [or](/post/or/) flaw [in](/post/in/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [vase](/post/vase/) has [a](/post/a/) [small](/post/small/) [break](/post/break/) [on](/post/on/) [the](/post/the/) rim."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [break](/en/post/break/)** (v):
-   1. [Cause](/en/post/cause/) [to](/en/post/to/) [become](/en/post/become/) separated [or](/en/post/or/) fractured. [Example](/en/post/example/): "[He](/en/post/he/) broke [the](/en/post/the/) [glass](/en/post/glass/) [when](/en/post/when/) [he](/en/post/he/) dropped [it](/en/post/it/)."
-   2. [Cease](/en/post/cease/) [or](/en/post/or/) [interrupt](/en/post/interrupt/) [the](/en/post/the/) continuity [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [news](/en/post/news/) [anchor](/en/post/anchor/) broke [into](/en/post/into/) [the](/en/post/the/) [commercial](/en/post/commercial/)."
-   3. Violate [or](/en/post/or/) disrupt [a](/en/post/a/) [rule](/en/post/rule/) [or](/en/post/or/) [agreement](/en/post/agreement/). [Example](/en/post/example/): "[He](/en/post/he/) broke [the](/en/post/the/) [promise](/en/post/promise/) [he](/en/post/he/) made."
-   4. [Achieve](/en/post/achieve/) [a](/en/post/a/) [high](/en/post/high/) [score](/en/post/score/) [or](/en/post/or/) [level](/en/post/level/) [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/). [Example](/en/post/example/): "[She](/en/post/she/) broke [the](/en/post/the/) [world](/en/post/world/) [record](/en/post/record/) [in](/en/post/in/) [the](/en/post/the/) marathon."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [break](/post/break/)** (v):
+   1. [Cause](/post/cause/) [to](/post/to/) [become](/post/become/) separated [or](/post/or/) fractured. [Example](/post/example/): "[He](/post/he/) broke [the](/post/the/) [glass](/post/glass/) [when](/post/when/) [he](/post/he/) dropped [it](/post/it/)."
+   2. [Cease](/post/cease/) [or](/post/or/) [interrupt](/post/interrupt/) [the](/post/the/) continuity [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [news](/post/news/) [anchor](/post/anchor/) broke [into](/post/into/) [the](/post/the/) [commercial](/post/commercial/)."
+   3. Violate [or](/post/or/) disrupt [a](/post/a/) [rule](/post/rule/) [or](/post/or/) [agreement](/post/agreement/). [Example](/post/example/): "[He](/post/he/) broke [the](/post/the/) [promise](/post/promise/) [he](/post/he/) made."
+   4. [Achieve](/post/achieve/) [a](/post/a/) [high](/post/high/) [score](/post/score/) [or](/post/or/) [level](/post/level/) [in](/post/in/) [a](/post/a/) [competition](/post/competition/). [Example](/post/example/): "[She](/post/she/) broke [the](/post/the/) [world](/post/world/) [record](/post/record/) [in](/post/in/) [the](/post/the/) marathon."
 
-### [Adjective](/en/post/adjective/)
-- **[Broken](/en/post/broken/)** (adj): Damaged [or](/en/post/or/) [not](/en/post/not/) intact; impaired. [Example](/en/post/example/): "[A](/en/post/a/) [broken](/en/post/broken/) [bone](/en/post/bone/) needs [immediate](/en/post/immediate/) [medical](/en/post/medical/) [attention](/en/post/attention/)."
-- **Breakable** (adj): [Subject](/en/post/subject/) [to](/en/post/to/) breaking [or](/en/post/or/) [easily](/en/post/easily/) damaged. [Example](/en/post/example/): "[These](/en/post/these/) glasses are breakable, [handle](/en/post/handle/) [with](/en/post/with/) [care](/en/post/care/)."
+### [Adjective](/post/adjective/)
+- **[Broken](/post/broken/)** (adj): Damaged [or](/post/or/) [not](/post/not/) intact; impaired. [Example](/post/example/): "[A](/post/a/) [broken](/post/broken/) [bone](/post/bone/) needs [immediate](/post/immediate/) [medical](/post/medical/) [attention](/post/attention/)."
+- **Breakable** (adj): [Subject](/post/subject/) [to](/post/to/) breaking [or](/post/or/) [easily](/post/easily/) damaged. [Example](/post/example/): "[These](/post/these/) glasses are breakable, [handle](/post/handle/) [with](/post/with/) [care](/post/care/)."
 
-### [Adverb](/en/post/adverb/)
-- **Breakingly** (adv): [In](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) causes [a](/en/post/a/) [break](/en/post/break/) [or](/en/post/or/) [interruption](/en/post/interruption/). [Example](/en/post/example/): "[The](/en/post/the/) [news](/en/post/news/) was delivered breakingly [to](/en/post/to/) [the](/en/post/the/) [audience](/en/post/audience/)."
+### [Adverb](/post/adverb/)
+- **Breakingly** (adv): [In](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) causes [a](/post/a/) [break](/post/break/) [or](/post/or/) [interruption](/post/interruption/). [Example](/post/example/): "[The](/post/the/) [news](/post/news/) was delivered breakingly [to](/post/to/) [the](/post/the/) [audience](/post/audience/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [break](/en/post/break/)" [means](/en/post/means/) [to](/en/post/to/) [pause](/en/post/pause/) [for](/en/post/for/) [rest](/en/post/rest/) [or](/en/post/or/) relaxation.
-- "[Break](/en/post/break/) [a](/en/post/a/) [leg](/en/post/leg/)" is [a](/en/post/a/) theatrical [term](/en/post/term/) [meaning](/en/post/meaning/) [good](/en/post/good/) [luck](/en/post/luck/) (informal).
-- "[Break](/en/post/break/) [the](/en/post/the/) [ice](/en/post/ice/)" helps [to](/en/post/to/) [start](/en/post/start/) [a](/en/post/a/) [conversation](/en/post/conversation/) [or](/en/post/or/) [make](/en/post/make/) [people](/en/post/people/) [feel](/en/post/feel/) [more](/en/post/more/) [comfortable](/en/post/comfortable/).
+- "[Take](/post/take/) [a](/post/a/) [break](/post/break/)" [means](/post/means/) [to](/post/to/) [pause](/post/pause/) [for](/post/for/) [rest](/post/rest/) [or](/post/or/) relaxation.
+- "[Break](/post/break/) [a](/post/a/) [leg](/post/leg/)" is [a](/post/a/) theatrical [term](/post/term/) [meaning](/post/meaning/) [good](/post/good/) [luck](/post/luck/) (informal).
+- "[Break](/post/break/) [the](/post/the/) [ice](/post/ice/)" helps [to](/post/to/) [start](/post/start/) [a](/post/a/) [conversation](/post/conversation/) [or](/post/or/) [make](/post/make/) [people](/post/people/) [feel](/post/feel/) [more](/post/more/) [comfortable](/post/comfortable/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) working [all](/en/post/all/) [day](/en/post/day/), I [need](/en/post/need/) [a](/en/post/a/) [good](/en/post/good/) night's [sleep](/en/post/sleep/) [to](/en/post/to/) [recover](/en/post/recover/) [from](/en/post/from/) [the](/en/post/the/) [long](/en/post/long/) [break](/en/post/break/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) [break](/en/post/break/) [the](/en/post/the/) tension [by](/en/post/by/) telling [a](/en/post/a/) [joke](/en/post/joke/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [vase](/en/post/vase/) had [a](/en/post/a/) [delicate](/en/post/delicate/), breakable [handle](/en/post/handle/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) sang breakingly beautifully, capturing everyone's [attention](/en/post/attention/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) working [all](/post/all/) [day](/post/day/), I [need](/post/need/) [a](/post/a/) [good](/post/good/) night's [sleep](/post/sleep/) [to](/post/to/) [recover](/post/recover/) [from](/post/from/) [the](/post/the/) [long](/post/long/) [break](/post/break/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) tried [to](/post/to/) [break](/post/break/) [the](/post/the/) tension [by](/post/by/) telling [a](/post/a/) [joke](/post/joke/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) [vase](/post/vase/) had [a](/post/a/) [delicate](/post/delicate/), breakable [handle](/post/handle/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) sang breakingly beautifully, capturing everyone's [attention](/post/attention/)."
 
 ## Synonyms
-- [Pause](/en/post/pause/)
-- [Interruption](/en/post/interruption/)
-- [Rest](/en/post/rest/)
-- [Crack](/en/post/crack/)
+- [Pause](/post/pause/)
+- [Interruption](/post/interruption/)
+- [Rest](/post/rest/)
+- [Crack](/post/crack/)
 - Snap
 - Violation
 - Shatter
 -rupture
-- [Split](/en/post/split/)
-- [Seize](/en/post/seize/)
+- [Split](/post/split/)
+- [Seize](/post/seize/)
 - Topple

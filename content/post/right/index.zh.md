@@ -11,27 +11,27 @@ keywords = ['ai words', 'right']
 /raɪt/
 
 ## 释义
-- **形容词**: 正确的，准确的。例如: "[The](/post/the/) [answer](/post/answer/) is [right](/post/right/) [in](/post/in/) [front](/post/front/) [of](/post/of/) [you](/post/you/)."
-- **副词**: 恰恰，正好。例如: "I [live](/post/live/) [right](/post/right/) [around](/post/around/) [the](/post/the/) [corner](/post/corner/)."
-- **名词**: 权利，权益。例如: "[Everyone](/post/everyone/) has [the](/post/the/) [right](/post/right/) [to](/post/to/) [free](/post/free/) [speech](/post/speech/)."
-- **动词**: 使正确，修正。例如: "[Can](/post/can/) [you](/post/you/) [right](/post/right/) [the](/post/the/) [ship](/post/ship/) [before](/post/before/) [it](/post/it/) capsizes?"
-- **介词**: 在右边。例如: "[Sit](/post/sit/) [down](/post/down/) [on](/post/on/) [the](/post/the/) [chair](/post/chair/) [to](/post/to/) [my](/post/my/) [right](/post/right/)."
+- **形容词**: 正确的，准确的。例如: "[The](/zh/post/the/) [answer](/zh/post/answer/) is [right](/zh/post/right/) [in](/zh/post/in/) [front](/zh/post/front/) [of](/zh/post/of/) [you](/zh/post/you/)."
+- **副词**: 恰恰，正好。例如: "I [live](/zh/post/live/) [right](/zh/post/right/) [around](/zh/post/around/) [the](/zh/post/the/) [corner](/zh/post/corner/)."
+- **名词**: 权利，权益。例如: "[Everyone](/zh/post/everyone/) has [the](/zh/post/the/) [right](/zh/post/right/) [to](/zh/post/to/) [free](/zh/post/free/) [speech](/zh/post/speech/)."
+- **动词**: 使正确，修正。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [right](/zh/post/right/) [the](/zh/post/the/) [ship](/zh/post/ship/) [before](/zh/post/before/) [it](/zh/post/it/) capsizes?"
+- **介词**: 在右边。例如: "[Sit](/zh/post/sit/) [down](/zh/post/down/) [on](/zh/post/on/) [the](/zh/post/the/) [chair](/zh/post/chair/) [to](/zh/post/to/) [my](/zh/post/my/) [right](/zh/post/right/)."
 
 ## 短语
-- "[Do](/post/do/) [it](/post/it/) [right](/post/right/)" 做对，做好。
-- "[In](/post/in/) [the](/post/the/) [right](/post/right/)" 指处于正确的一方或有理的一方。
-- "[All](/post/all/) rights reserved" 版权所有。
+- "[Do](/zh/post/do/) [it](/zh/post/it/) [right](/zh/post/right/)" 做对，做好。
+- "[In](/zh/post/in/) [the](/zh/post/the/) [right](/zh/post/right/)" 指处于正确的一方或有理的一方。
+- "[All](/zh/post/all/) rights reserved" 版权所有。
 
 ## 例句
-- 形容词: "[Your](/post/your/) [solution](/post/solution/) is [completely](/post/completely/) [right](/post/right/)."
-- 副词: "I [need](/post/need/) [you](/post/you/) [here](/post/here/) [right](/post/right/) [now](/post/now/)."
-- 名词: "[He](/post/he/) fought [for](/post/for/) workers' rights."
-- 动词: "[The](/post/the/) [teacher](/post/teacher/) righted [the](/post/the/) tilted [desk](/post/desk/)."
-- 介词: "[The](/post/the/) [store](/post/store/) is located [on](/post/on/) [the](/post/the/) [right](/post/right/) [side](/post/side/) [of](/post/of/) [the](/post/the/) [street](/post/street/)."
+- 形容词: "[Your](/zh/post/your/) [solution](/zh/post/solution/) is [completely](/zh/post/completely/) [right](/zh/post/right/)."
+- 副词: "I [need](/zh/post/need/) [you](/zh/post/you/) [here](/zh/post/here/) [right](/zh/post/right/) [now](/zh/post/now/)."
+- 名词: "[He](/zh/post/he/) fought [for](/zh/post/for/) workers' rights."
+- 动词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) righted [the](/zh/post/the/) tilted [desk](/zh/post/desk/)."
+- 介词: "[The](/zh/post/the/) [store](/zh/post/store/) is located [on](/zh/post/on/) [the](/zh/post/the/) [right](/zh/post/right/) [side](/zh/post/side/) [of](/zh/post/of/) [the](/zh/post/the/) [street](/zh/post/street/)."
 
 ## 同义词
-- [Correct](/post/correct/)
-- [Accurate](/post/accurate/)
-- [Proper](/post/proper/)
-- [Just](/post/just/)
-- [Exact](/post/exact/)
+- [Correct](/zh/post/correct/)
+- [Accurate](/zh/post/accurate/)
+- [Proper](/zh/post/proper/)
+- [Just](/zh/post/just/)
+- [Exact](/zh/post/exact/)

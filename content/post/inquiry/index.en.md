@@ -7,33 +7,33 @@ description = '[inˈkwaiəri] n.询问，打听；调查'
 keywords = ['ai words', 'inquiry']
 +++
 
-## [Word](/en/post/word/): [Inquiry](/en/post/inquiry/)
+## [Word](/post/word/): [Inquiry](/post/inquiry/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈkwaɪri/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) seeking [for](/en/post/for/) [information](/en/post/information/) [or](/en/post/or/) [knowledge](/en/post/knowledge/) [through](/en/post/through/) asking questions; an [act](/en/post/act/) [of](/en/post/of/) questioning [or](/en/post/or/) [investigation](/en/post/investigation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [police](/en/post/police/) conducted [a](/en/post/a/) [thorough](/en/post/thorough/) [inquiry](/en/post/inquiry/) [into](/en/post/into/) [the](/en/post/the/) [matter](/en/post/matter/)."
-  - [Also](/en/post/also/), [a](/en/post/a/) [formal](/en/post/formal/) [investigation](/en/post/investigation/) [or](/en/post/or/) [examination](/en/post/examination/), [often](/en/post/often/) [by](/en/post/by/) [a](/en/post/a/) [court](/en/post/court/) [or](/en/post/or/) [official](/en/post/official/) [body](/en/post/body/). [For](/en/post/for/) [instance](/en/post/instance/): "[A](/en/post/a/) [public](/en/post/public/) [inquiry](/en/post/inquiry/) was [set](/en/post/set/) [up](/en/post/up/) [to](/en/post/to/) [look](/en/post/look/) [into](/en/post/into/) [the](/en/post/the/) causes [of](/en/post/of/) [the](/en/post/the/) [disaster](/en/post/disaster/)."
-- **[Verb](/en/post/verb/)**: ([inquire](/en/post/inquire/)) [To](/en/post/to/) [ask](/en/post/ask/) questions [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [gain](/en/post/gain/) [information](/en/post/information/) [or](/en/post/or/) [knowledge](/en/post/knowledge/). [Example](/en/post/example/): "[She](/en/post/she/) inquired [about](/en/post/about/) [the](/en/post/the/) availability [of](/en/post/of/) tickets."
+- **[Noun](/post/noun/)**: [A](/post/a/) seeking [for](/post/for/) [information](/post/information/) [or](/post/or/) [knowledge](/post/knowledge/) [through](/post/through/) asking questions; an [act](/post/act/) [of](/post/of/) questioning [or](/post/or/) [investigation](/post/investigation/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [police](/post/police/) conducted [a](/post/a/) [thorough](/post/thorough/) [inquiry](/post/inquiry/) [into](/post/into/) [the](/post/the/) [matter](/post/matter/)."
+  - [Also](/post/also/), [a](/post/a/) [formal](/post/formal/) [investigation](/post/investigation/) [or](/post/or/) [examination](/post/examination/), [often](/post/often/) [by](/post/by/) [a](/post/a/) [court](/post/court/) [or](/post/or/) [official](/post/official/) [body](/post/body/). [For](/post/for/) [instance](/post/instance/): "[A](/post/a/) [public](/post/public/) [inquiry](/post/inquiry/) was [set](/post/set/) [up](/post/up/) [to](/post/to/) [look](/post/look/) [into](/post/into/) [the](/post/the/) causes [of](/post/of/) [the](/post/the/) [disaster](/post/disaster/)."
+- **[Verb](/post/verb/)**: ([inquire](/post/inquire/)) [To](/post/to/) [ask](/post/ask/) questions [in](/post/in/) [order](/post/order/) [to](/post/to/) [gain](/post/gain/) [information](/post/information/) [or](/post/or/) [knowledge](/post/knowledge/). [Example](/post/example/): "[She](/post/she/) inquired [about](/post/about/) [the](/post/the/) availability [of](/post/of/) tickets."
 
 ## Phrases
-- "[Make](/en/post/make/) an [inquiry](/en/post/inquiry/)" [means](/en/post/means/) [to](/en/post/to/) [ask](/en/post/ask/) [a](/en/post/a/) [question](/en/post/question/) [or](/en/post/or/) [request](/en/post/request/) [information](/en/post/information/) formally.
-- "[Inquiry](/en/post/inquiry/) [process](/en/post/process/)" refers [to](/en/post/to/) [the](/en/post/the/) steps taken [to](/en/post/to/) [investigate](/en/post/investigate/) [or](/en/post/or/) [research](/en/post/research/) [something](/en/post/something/) thoroughly.
-- "[Customer](/en/post/customer/) [inquiry](/en/post/inquiry/)" is [a](/en/post/a/) [question](/en/post/question/) [or](/en/post/or/) [request](/en/post/request/) [for](/en/post/for/) [information](/en/post/information/) [from](/en/post/from/) [a](/en/post/a/) [customer](/en/post/customer/), [usually](/en/post/usually/) related [to](/en/post/to/) products [or](/en/post/or/) services.
+- "[Make](/post/make/) an [inquiry](/post/inquiry/)" [means](/post/means/) [to](/post/to/) [ask](/post/ask/) [a](/post/a/) [question](/post/question/) [or](/post/or/) [request](/post/request/) [information](/post/information/) formally.
+- "[Inquiry](/post/inquiry/) [process](/post/process/)" refers [to](/post/to/) [the](/post/the/) steps taken [to](/post/to/) [investigate](/post/investigate/) [or](/post/or/) [research](/post/research/) [something](/post/something/) thoroughly.
+- "[Customer](/post/customer/) [inquiry](/post/inquiry/)" is [a](/post/a/) [question](/post/question/) [or](/post/or/) [request](/post/request/) [for](/post/for/) [information](/post/information/) [from](/post/from/) [a](/post/a/) [customer](/post/customer/), [usually](/post/usually/) related [to](/post/to/) products [or](/post/or/) services.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) received [several](/en/post/several/) inquiries [regarding](/en/post/regarding/) [the](/en/post/the/) [new](/en/post/new/) [product](/en/post/product/) [launch](/en/post/launch/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [journalist](/en/post/journalist/) inquired deeply [into](/en/post/into/) [the](/en/post/the/) company's [financial](/en/post/financial/) practices."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) received [several](/post/several/) inquiries [regarding](/post/regarding/) [the](/post/the/) [new](/post/new/) [product](/post/product/) [launch](/post/launch/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [journalist](/post/journalist/) inquired deeply [into](/post/into/) [the](/post/the/) company's [financial](/post/financial/) practices."
 
 ## Synonyms
 - Questioning
-- [Investigation](/en/post/investigation/)
+- [Investigation](/post/investigation/)
 - Query
-- [Examination](/en/post/examination/)
+- [Examination](/post/examination/)
 - Probe
-- [Research](/en/post/research/)
-- Seeking [information](/en/post/information/)
-- [Request](/en/post/request/) [for](/en/post/for/) [information](/en/post/information/)
+- [Research](/post/research/)
+- Seeking [information](/post/information/)
+- [Request](/post/request/) [for](/post/for/) [information](/post/information/)
 - Exploration
 - Scrutiny

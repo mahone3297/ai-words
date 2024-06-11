@@ -7,35 +7,35 @@ description = '[niːt] a.整洁的；熟练的'
 keywords = ['ai words', 'neat']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /niːt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) [Neat](/en/post/neat/) [can](/en/post/can/) [mean](/en/post/mean/) [tidy](/en/post/tidy/), well-ordered, [or](/en/post/or/) [clean](/en/post/clean/); [free](/en/post/free/) [from](/en/post/from/) clutter [or](/en/post/or/) untidiness. [Example](/en/post/example/): "[She](/en/post/she/) keeps [her](/en/post/her/) [desk](/en/post/desk/) [neat](/en/post/neat/) [and](/en/post/and/) organized."
-- **[Adjective](/en/post/adjective/)**: (adj) [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [skillful](/en/post/skillful/), [precise](/en/post/precise/), [or](/en/post/or/) [well](/en/post/well/) done. [Example](/en/post/example/): "[The](/en/post/the/) surgeon's [neat](/en/post/neat/) stitching helped [the](/en/post/the/) [wound](/en/post/wound/) [heal](/en/post/heal/) [quickly](/en/post/quickly/)."
-- **[Adjective](/en/post/adjective/)**: (adj) [In](/en/post/in/) terms [of](/en/post/of/) [appearance](/en/post/appearance/), [it](/en/post/it/) [can](/en/post/can/) [describe](/en/post/describe/) [someone](/en/post/someone/) [who](/en/post/who/) is smartly dressed [or](/en/post/or/) stylish [without](/en/post/without/) [being](/en/post/being/) overly [elaborate](/en/post/elaborate/). [Example](/en/post/example/): "[He](/en/post/he/) looked [very](/en/post/very/) [neat](/en/post/neat/) [in](/en/post/in/) [his](/en/post/his/) [new](/en/post/new/) [suit](/en/post/suit/)."
-- **[Adjective](/en/post/adjective/)**: (adj) [In](/en/post/in/) colloquial [usage](/en/post/usage/), '[neat](/en/post/neat/)' [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [excellent](/en/post/excellent/) [or](/en/post/or/) [cool](/en/post/cool/). [Example](/en/post/example/): "[That](/en/post/that/) [trick](/en/post/trick/) was [really](/en/post/really/) [neat](/en/post/neat/)!"
+- **[Adjective](/post/adjective/)**: (adj) [Neat](/post/neat/) [can](/post/can/) [mean](/post/mean/) [tidy](/post/tidy/), well-ordered, [or](/post/or/) [clean](/post/clean/); [free](/post/free/) [from](/post/from/) clutter [or](/post/or/) untidiness. [Example](/post/example/): "[She](/post/she/) keeps [her](/post/her/) [desk](/post/desk/) [neat](/post/neat/) [and](/post/and/) organized."
+- **[Adjective](/post/adjective/)**: (adj) [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [that](/post/that/) is [skillful](/post/skillful/), [precise](/post/precise/), [or](/post/or/) [well](/post/well/) done. [Example](/post/example/): "[The](/post/the/) surgeon's [neat](/post/neat/) stitching helped [the](/post/the/) [wound](/post/wound/) [heal](/post/heal/) [quickly](/post/quickly/)."
+- **[Adjective](/post/adjective/)**: (adj) [In](/post/in/) terms [of](/post/of/) [appearance](/post/appearance/), [it](/post/it/) [can](/post/can/) [describe](/post/describe/) [someone](/post/someone/) [who](/post/who/) is smartly dressed [or](/post/or/) stylish [without](/post/without/) [being](/post/being/) overly [elaborate](/post/elaborate/). [Example](/post/example/): "[He](/post/he/) looked [very](/post/very/) [neat](/post/neat/) [in](/post/in/) [his](/post/his/) [new](/post/new/) [suit](/post/suit/)."
+- **[Adjective](/post/adjective/)**: (adj) [In](/post/in/) colloquial [usage](/post/usage/), '[neat](/post/neat/)' [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [excellent](/post/excellent/) [or](/post/or/) [cool](/post/cool/). [Example](/post/example/): "[That](/post/that/) [trick](/post/trick/) was [really](/post/really/) [neat](/post/neat/)!"
 
 ## Phrases
-- "[As](/en/post/as/) [neat](/en/post/neat/) [as](/en/post/as/) [a](/en/post/a/) [pin](/en/post/pin/)" - [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) is [extremely](/en/post/extremely/) [tidy](/en/post/tidy/) [or](/en/post/or/) well-arranged.
-- "[Neat](/en/post/neat/) [and](/en/post/and/) [tidy](/en/post/tidy/)" - An [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [the](/en/post/the/) cleanliness [or](/en/post/or/) orderliness [of](/en/post/of/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [thing](/en/post/thing/).
-- "[Drink](/en/post/drink/) [it](/en/post/it/) [neat](/en/post/neat/)" - [In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) alcoholic beverages, [this](/en/post/this/) [means](/en/post/means/) [to](/en/post/to/) [consume](/en/post/consume/) [it](/en/post/it/) undiluted [or](/en/post/or/) [without](/en/post/without/) [ice](/en/post/ice/) [or](/en/post/or/) mixers.
+- "[As](/post/as/) [neat](/post/neat/) [as](/post/as/) [a](/post/a/) [pin](/post/pin/)" - [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) is [extremely](/post/extremely/) [tidy](/post/tidy/) [or](/post/or/) well-arranged.
+- "[Neat](/post/neat/) [and](/post/and/) [tidy](/post/tidy/)" - An [expression](/post/expression/) [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [the](/post/the/) cleanliness [or](/post/or/) orderliness [of](/post/of/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [thing](/post/thing/).
+- "[Drink](/post/drink/) [it](/post/it/) [neat](/post/neat/)" - [In](/post/in/) [the](/post/the/) context [of](/post/of/) alcoholic beverages, [this](/post/this/) [means](/post/means/) [to](/post/to/) [consume](/post/consume/) [it](/post/it/) undiluted [or](/post/or/) [without](/post/without/) [ice](/post/ice/) [or](/post/or/) mixers.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) ([tidy](/en/post/tidy/))**: "[She](/en/post/she/) spent hours cleaning [up](/en/post/up/) [the](/en/post/the/) [house](/en/post/house/) [until](/en/post/until/) [it](/en/post/it/) was [neat](/en/post/neat/) [and](/en/post/and/) spotless."
-- **[Adjective](/en/post/adjective/) ([skillful](/en/post/skillful/))**: "[The](/en/post/the/) artist's [neat](/en/post/neat/) brushwork made [the](/en/post/the/) [portrait](/en/post/portrait/) [come](/en/post/come/) [alive](/en/post/alive/)."
-- **[Adjective](/en/post/adjective/) (smartly dressed)**: "[Even](/en/post/even/) [on](/en/post/on/) [casual](/en/post/casual/) Fridays, [he](/en/post/he/) [always](/en/post/always/) dresses neatly [for](/en/post/for/) [work](/en/post/work/)."
-- **[Adjective](/en/post/adjective/) ([excellent](/en/post/excellent/))**: "[The](/en/post/the/) [new](/en/post/new/) [phone](/en/post/phone/) [feature](/en/post/feature/) is [neat](/en/post/neat/) [because](/en/post/because/) [it](/en/post/it/) allows hands-free [operation](/en/post/operation/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) ([tidy](/post/tidy/))**: "[She](/post/she/) spent hours cleaning [up](/post/up/) [the](/post/the/) [house](/post/house/) [until](/post/until/) [it](/post/it/) was [neat](/post/neat/) [and](/post/and/) spotless."
+- **[Adjective](/post/adjective/) ([skillful](/post/skillful/))**: "[The](/post/the/) artist's [neat](/post/neat/) brushwork made [the](/post/the/) [portrait](/post/portrait/) [come](/post/come/) [alive](/post/alive/)."
+- **[Adjective](/post/adjective/) (smartly dressed)**: "[Even](/post/even/) [on](/post/on/) [casual](/post/casual/) Fridays, [he](/post/he/) [always](/post/always/) dresses neatly [for](/post/for/) [work](/post/work/)."
+- **[Adjective](/post/adjective/) ([excellent](/post/excellent/))**: "[The](/post/the/) [new](/post/new/) [phone](/post/phone/) [feature](/post/feature/) is [neat](/post/neat/) [because](/post/because/) [it](/post/it/) allows hands-free [operation](/post/operation/)."
 
 ## Synonyms
-- [Tidy](/en/post/tidy/)
-- [Clean](/en/post/clean/)
+- [Tidy](/post/tidy/)
+- [Clean](/post/clean/)
 - Organized
-- [Trim](/en/post/trim/)
+- [Trim](/post/trim/)
 - Crisp
 - Immaculate
-- [Skillful](/en/post/skillful/)
-- [Precise](/en/post/precise/)
+- [Skillful](/post/skillful/)
+- [Precise](/post/precise/)
 - Stylish
-- [Cool](/en/post/cool/)
-- [Excellent](/en/post/excellent/)
+- [Cool](/post/cool/)
+- [Excellent](/post/excellent/)

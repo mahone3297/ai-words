@@ -7,36 +7,36 @@ description = '[səˈpraiziŋ] a.惊人/出人意外的'
 keywords = ['ai words', 'surprising']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈraɪzɪŋ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) causing [unexpected](/en/post/unexpected/) [or](/en/post/or/) [remarkable](/en/post/remarkable/) [surprise](/en/post/surprise/); astonishing. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [ending](/en/post/ending/) [of](/en/post/of/) [the](/en/post/the/) [movie](/en/post/movie/) was [surprisingly](/en/post/surprisingly/) thrilling."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cause](/en/post/cause/) [surprise](/en/post/surprise/) [or](/en/post/or/) astonishment [in](/en/post/in/) ([someone](/en/post/someone/)). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [performance](/en/post/performance/) surprised [everyone](/en/post/everyone/) [at](/en/post/at/) [the](/en/post/the/) [concert](/en/post/concert/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [surprising](/en/post/surprising/) [manner](/en/post/manner/); unexpectedly. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) finished [the](/en/post/the/) marathon [surprisingly](/en/post/surprisingly/) [fast](/en/post/fast/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) causing [unexpected](/post/unexpected/) [or](/post/or/) [remarkable](/post/remarkable/) [surprise](/post/surprise/); astonishing. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [ending](/post/ending/) [of](/post/of/) [the](/post/the/) [movie](/post/movie/) was [surprisingly](/post/surprisingly/) thrilling."
+- **[Verb](/post/verb/)**: [To](/post/to/) [cause](/post/cause/) [surprise](/post/surprise/) [or](/post/or/) astonishment [in](/post/in/) ([someone](/post/someone/)). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [performance](/post/performance/) surprised [everyone](/post/everyone/) [at](/post/at/) [the](/post/the/) [concert](/post/concert/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [surprising](/post/surprising/) [manner](/post/manner/); unexpectedly. [For](/post/for/) [example](/post/example/): "[She](/post/she/) finished [the](/post/the/) marathon [surprisingly](/post/surprisingly/) [fast](/post/fast/)."
 
 ## Phrases
-- "[A](/en/post/a/) [surprising](/en/post/surprising/) [discovery](/en/post/discovery/)" refers [to](/en/post/to/) [something](/en/post/something/) unforeseen [and](/en/post/and/) [remarkable](/en/post/remarkable/).
-- "[Surprisingly](/en/post/surprisingly/) [enough](/en/post/enough/)" is [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) an [unexpected](/en/post/unexpected/) [fact](/en/post/fact/).
-- "[Not](/en/post/not/) [surprisingly](/en/post/surprisingly/)" implies [that](/en/post/that/) [something](/en/post/something/) was expected [after](/en/post/after/) [all](/en/post/all/).
+- "[A](/post/a/) [surprising](/post/surprising/) [discovery](/post/discovery/)" refers [to](/post/to/) [something](/post/something/) unforeseen [and](/post/and/) [remarkable](/post/remarkable/).
+- "[Surprisingly](/post/surprisingly/) [enough](/post/enough/)" is [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) an [unexpected](/post/unexpected/) [fact](/post/fact/).
+- "[Not](/post/not/) [surprisingly](/post/surprisingly/)" implies [that](/post/that/) [something](/post/something/) was expected [after](/post/after/) [all](/post/all/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [news](/en/post/news/) [of](/en/post/of/) [their](/en/post/their/) [sudden](/en/post/sudden/) engagement was [surprising](/en/post/surprising/) [to](/en/post/to/) [everyone](/en/post/everyone/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) surprised [her](/en/post/her/) friends [with](/en/post/with/) [a](/en/post/a/) [perfect](/en/post/perfect/) [score](/en/post/score/) [on](/en/post/on/) [the](/en/post/the/) [exam](/en/post/exam/)."
-- **[Adverb](/en/post/adverb/)**: "[Despite](/en/post/despite/) [the](/en/post/the/) [difficult](/en/post/difficult/) conditions, [they](/en/post/they/) completed [the](/en/post/the/) [project](/en/post/project/) [not](/en/post/not/) [surprisingly](/en/post/surprisingly/) [well](/en/post/well/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [news](/post/news/) [of](/post/of/) [their](/post/their/) [sudden](/post/sudden/) engagement was [surprising](/post/surprising/) [to](/post/to/) [everyone](/post/everyone/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) surprised [her](/post/her/) friends [with](/post/with/) [a](/post/a/) [perfect](/post/perfect/) [score](/post/score/) [on](/post/on/) [the](/post/the/) [exam](/post/exam/)."
+- **[Adverb](/post/adverb/)**: "[Despite](/post/despite/) [the](/post/the/) [difficult](/post/difficult/) conditions, [they](/post/they/) completed [the](/post/the/) [project](/post/project/) [not](/post/not/) [surprisingly](/post/surprisingly/) [well](/post/well/)."
 
 ## Synonyms
 - Astonishing
 - Unanticipated
-- [Unexpected](/en/post/unexpected/)
+- [Unexpected](/post/unexpected/)
 - Shocking
 - Startling
-- [Remarkable](/en/post/remarkable/)
+- [Remarkable](/post/remarkable/)
 - Staggering
 
 ## Antonyms
 - Expected
 - Predictable
-- [Familiar](/en/post/familiar/)
-- [Routine](/en/post/routine/)
+- [Familiar](/post/familiar/)
+- [Routine](/post/routine/)
 - Mundane

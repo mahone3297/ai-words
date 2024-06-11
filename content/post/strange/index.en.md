@@ -7,45 +7,45 @@ description = '[streindʒ] a.陌生的；奇怪的'
 keywords = ['ai words', 'strange']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /streɪndʒ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Strange](/en/post/strange/)** [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [unusual](/en/post/unusual/), unfamiliar, [or](/en/post/or/) [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [ordinary](/en/post/ordinary/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [peculiar](/en/post/peculiar/) [or](/en/post/or/) has [odd](/en/post/odd/) [behavior](/en/post/behavior/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [museum](/en/post/museum/) had [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) [strange](/en/post/strange/) artifacts [from](/en/post/from/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
-   - [Example](/en/post/example/): "[She](/en/post/she/) was [feeling](/en/post/feeling/) [strange](/en/post/strange/) [after](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [journey](/en/post/journey/)."
+### [Noun](/post/noun/)
+1. **[Strange](/post/strange/)** [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [unusual](/post/unusual/), unfamiliar, [or](/post/or/) [out](/post/out/) [of](/post/of/) [the](/post/the/) [ordinary](/post/ordinary/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [describe](/post/describe/) [a](/post/a/) [person](/post/person/) [who](/post/who/) is [peculiar](/post/peculiar/) [or](/post/or/) has [odd](/post/odd/) [behavior](/post/behavior/).
+   - [Example](/post/example/): "[The](/post/the/) [museum](/post/museum/) had [a](/post/a/) [collection](/post/collection/) [of](/post/of/) [strange](/post/strange/) artifacts [from](/post/from/) [around](/post/around/) [the](/post/the/) [world](/post/world/)."
+   - [Example](/post/example/): "[She](/post/she/) was [feeling](/post/feeling/) [strange](/post/strange/) [after](/post/after/) [the](/post/the/) [long](/post/long/) [journey](/post/journey/)."
 
-2. **[Stranger](/en/post/stranger/)** is [a](/en/post/a/) [noun](/en/post/noun/) [that](/en/post/that/) [means](/en/post/means/) an unfamiliar [person](/en/post/person/), [someone](/en/post/someone/) [not](/en/post/not/) known [or](/en/post/or/) expected [to](/en/post/to/) [be](/en/post/be/) [there](/en/post/there/).
-   - [Example](/en/post/example/): "[A](/en/post/a/) [stranger](/en/post/stranger/) knocked [on](/en/post/on/) [our](/en/post/our/) [door](/en/post/door/) [late](/en/post/late/) [at](/en/post/at/) [night](/en/post/night/)."
-   - [Example](/en/post/example/): "[The](/en/post/the/) [foreign](/en/post/foreign/) [stranger](/en/post/stranger/) seemed lost [in](/en/post/in/) [the](/en/post/the/) bustling [city](/en/post/city/)."
+2. **[Stranger](/post/stranger/)** is [a](/post/a/) [noun](/post/noun/) [that](/post/that/) [means](/post/means/) an unfamiliar [person](/post/person/), [someone](/post/someone/) [not](/post/not/) known [or](/post/or/) expected [to](/post/to/) [be](/post/be/) [there](/post/there/).
+   - [Example](/post/example/): "[A](/post/a/) [stranger](/post/stranger/) knocked [on](/post/on/) [our](/post/our/) [door](/post/door/) [late](/post/late/) [at](/post/at/) [night](/post/night/)."
+   - [Example](/post/example/): "[The](/post/the/) [foreign](/post/foreign/) [stranger](/post/stranger/) seemed lost [in](/post/in/) [the](/post/the/) bustling [city](/post/city/)."
 
-### [Adjective](/en/post/adjective/)
-3. [As](/en/post/as/) an [adjective](/en/post/adjective/), [it](/en/post/it/) describes qualities [or](/en/post/or/) characteristics [that](/en/post/that/) are [unusual](/en/post/unusual/), uncommon, [or](/en/post/or/) unfamiliar.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [strange](/en/post/strange/) [sound](/en/post/sound/) echoed [through](/en/post/through/) [the](/en/post/the/) [empty](/en/post/empty/) [hall](/en/post/hall/)."
-   - [Example](/en/post/example/): "[Her](/en/post/her/) [explanation](/en/post/explanation/) was [strange](/en/post/strange/) [indeed](/en/post/indeed/)."
+### [Adjective](/post/adjective/)
+3. [As](/post/as/) an [adjective](/post/adjective/), [it](/post/it/) describes qualities [or](/post/or/) characteristics [that](/post/that/) are [unusual](/post/unusual/), uncommon, [or](/post/or/) unfamiliar.
+   - [Example](/post/example/): "[The](/post/the/) [strange](/post/strange/) [sound](/post/sound/) echoed [through](/post/through/) [the](/post/the/) [empty](/post/empty/) [hall](/post/hall/)."
+   - [Example](/post/example/): "[Her](/post/her/) [explanation](/post/explanation/) was [strange](/post/strange/) [indeed](/post/indeed/)."
 
-### [Adverb](/en/post/adverb/)
-4. [Occasionally](/en/post/occasionally/), "strangely" [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) an [adverb](/en/post/adverb/), [meaning](/en/post/meaning/) [in](/en/post/in/) an [unusual](/en/post/unusual/) [or](/en/post/or/) [unexpected](/en/post/unexpected/) [way](/en/post/way/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) solved [the](/en/post/the/) [problem](/en/post/problem/) strangely, using an unconventional [method](/en/post/method/)."
-   - [Example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) changed strangely [from](/en/post/from/) [day](/en/post/day/) [to](/en/post/to/) [day](/en/post/day/)."
+### [Adverb](/post/adverb/)
+4. [Occasionally](/post/occasionally/), "strangely" [can](/post/can/) [function](/post/function/) [as](/post/as/) an [adverb](/post/adverb/), [meaning](/post/meaning/) [in](/post/in/) an [unusual](/post/unusual/) [or](/post/or/) [unexpected](/post/unexpected/) [way](/post/way/).
+   - [Example](/post/example/): "[She](/post/she/) solved [the](/post/the/) [problem](/post/problem/) strangely, using an unconventional [method](/post/method/)."
+   - [Example](/post/example/): "[The](/post/the/) [weather](/post/weather/) changed strangely [from](/post/from/) [day](/post/day/) [to](/post/to/) [day](/post/day/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [strange](/en/post/strange/) [to](/en/post/to/) [someone](/en/post/someone/)" implies [that](/en/post/that/) [someone](/en/post/someone/) is unfamiliar [or](/en/post/or/) [distant](/en/post/distant/) [to](/en/post/to/) [another](/en/post/another/).
-- "That's [strange](/en/post/strange/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [to](/en/post/to/) [indicate](/en/post/indicate/) [surprise](/en/post/surprise/) [or](/en/post/or/) [confusion](/en/post/confusion/) [about](/en/post/about/) [a](/en/post/a/) [situation](/en/post/situation/).
-- "[Feel](/en/post/feel/) [like](/en/post/like/) [a](/en/post/a/) [stranger](/en/post/stranger/) [in](/en/post/in/) [your](/en/post/your/) [own](/en/post/own/) [home](/en/post/home/)" [can](/en/post/can/) [mean](/en/post/mean/) [feeling](/en/post/feeling/) [out](/en/post/out/) [of](/en/post/of/) [place](/en/post/place/) [or](/en/post/or/) alienated.
+- "[Be](/post/be/) [strange](/post/strange/) [to](/post/to/) [someone](/post/someone/)" implies [that](/post/that/) [someone](/post/someone/) is unfamiliar [or](/post/or/) [distant](/post/distant/) [to](/post/to/) [another](/post/another/).
+- "That's [strange](/post/strange/)" is [a](/post/a/) colloquial [expression](/post/expression/) [to](/post/to/) [indicate](/post/indicate/) [surprise](/post/surprise/) [or](/post/or/) [confusion](/post/confusion/) [about](/post/about/) [a](/post/a/) [situation](/post/situation/).
+- "[Feel](/post/feel/) [like](/post/like/) [a](/post/a/) [stranger](/post/stranger/) [in](/post/in/) [your](/post/your/) [own](/post/own/) [home](/post/home/)" [can](/post/can/) [mean](/post/mean/) [feeling](/post/feeling/) [out](/post/out/) [of](/post/of/) [place](/post/place/) [or](/post/or/) alienated.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [story](/en/post/story/) had [a](/en/post/a/) [strange](/en/post/strange/) [twist](/en/post/twist/) [that](/en/post/that/) [nobody](/en/post/nobody/) [saw](/en/post/saw/) coming."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [behavior](/en/post/behavior/) was strangely [quiet](/en/post/quiet/) [after](/en/post/after/) [the](/en/post/the/) [argument](/en/post/argument/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) acted strangely [after](/en/post/after/) receiving [the](/en/post/the/) [news](/en/post/news/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [story](/post/story/) had [a](/post/a/) [strange](/post/strange/) [twist](/post/twist/) [that](/post/that/) [nobody](/post/nobody/) [saw](/post/saw/) coming."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [behavior](/post/behavior/) was strangely [quiet](/post/quiet/) [after](/post/after/) [the](/post/the/) [argument](/post/argument/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) acted strangely [after](/post/after/) receiving [the](/post/the/) [news](/post/news/)."
 
 ## Synonyms
-- [Unusual](/en/post/unusual/)
-- [Odd](/en/post/odd/)
+- [Unusual](/post/unusual/)
+- [Odd](/post/odd/)
 - Unfamiliar
 - Bizarre
-- [Peculiar](/en/post/peculiar/)
+- [Peculiar](/post/peculiar/)
 - Uncommon
-- [Strange](/en/post/strange/) [behavior](/en/post/behavior/)
-- [Foreign](/en/post/foreign/) ([to](/en/post/to/) [someone](/en/post/someone/))
+- [Strange](/post/strange/) [behavior](/post/behavior/)
+- [Foreign](/post/foreign/) ([to](/post/to/) [someone](/post/someone/))

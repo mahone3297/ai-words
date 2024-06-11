@@ -7,39 +7,39 @@ description = '[sɔk] n.短袜'
 keywords = ['ai words', 'sock']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsɒk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [sock](/en/post/sock/)**: [A](/en/post/a/) close-fitting [foot](/en/post/foot/) covering, typically made [of](/en/post/of/) [a](/en/post/a/) [fabric](/en/post/fabric/) [such](/en/post/such/) [as](/en/post/as/) [wool](/en/post/wool/), [cotton](/en/post/cotton/), [or](/en/post/or/) [synthetic](/en/post/synthetic/) materials, worn [to](/en/post/to/) [provide](/en/post/provide/) [warmth](/en/post/warmth/), [comfort](/en/post/comfort/), [or](/en/post/or/) [protection](/en/post/protection/) [for](/en/post/for/) [the](/en/post/the/) feet.
-   - [Example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [buy](/en/post/buy/) [a](/en/post/a/) [new](/en/post/new/) [pair](/en/post/pair/) [of](/en/post/of/) socks [for](/en/post/for/) [work](/en/post/work/)."
-2. **Socks [as](/en/post/as/) [a](/en/post/a/) [plural](/en/post/plural/)**: [A](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) socks, [often](/en/post/often/) [used](/en/post/used/) collectively.
-   - [Example](/en/post/example/): "[She](/en/post/she/) washed [a](/en/post/a/) [load](/en/post/load/) [of](/en/post/of/) socks [in](/en/post/in/) [the](/en/post/the/) washing [machine](/en/post/machine/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [sock](/post/sock/)**: [A](/post/a/) close-fitting [foot](/post/foot/) covering, typically made [of](/post/of/) [a](/post/a/) [fabric](/post/fabric/) [such](/post/such/) [as](/post/as/) [wool](/post/wool/), [cotton](/post/cotton/), [or](/post/or/) [synthetic](/post/synthetic/) materials, worn [to](/post/to/) [provide](/post/provide/) [warmth](/post/warmth/), [comfort](/post/comfort/), [or](/post/or/) [protection](/post/protection/) [for](/post/for/) [the](/post/the/) feet.
+   - [Example](/post/example/): "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) [pair](/post/pair/) [of](/post/of/) socks [for](/post/for/) [work](/post/work/)."
+2. **Socks [as](/post/as/) [a](/post/a/) [plural](/post/plural/)**: [A](/post/a/) [collection](/post/collection/) [of](/post/of/) socks, [often](/post/often/) [used](/post/used/) collectively.
+   - [Example](/post/example/): "[She](/post/she/) washed [a](/post/a/) [load](/post/load/) [of](/post/of/) socks [in](/post/in/) [the](/post/the/) washing [machine](/post/machine/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [sock](/en/post/sock/)**: (informal) [To](/en/post/to/) [hit](/en/post/hit/) [someone](/en/post/someone/) [with](/en/post/with/) [a](/en/post/a/) [sock](/en/post/sock/) [or](/en/post/or/) [to](/en/post/to/) [strike](/en/post/strike/) [them](/en/post/them/) forcefully.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) accidentally socked [their](/en/post/their/) [brother](/en/post/brother/) [on](/en/post/on/) [the](/en/post/the/) [arm](/en/post/arm/)."
-- **Socks [someone](/en/post/someone/)**: (informal, [humorous](/en/post/humorous/)) [To](/en/post/to/) [give](/en/post/give/) [someone](/en/post/someone/) [a](/en/post/a/) playful [punch](/en/post/punch/) [or](/en/post/or/) [hard](/en/post/hard/) [pat](/en/post/pat/).
-   - [Example](/en/post/example/): "[He](/en/post/he/) socked [his](/en/post/his/) [friend](/en/post/friend/) [on](/en/post/on/) [the](/en/post/the/) [shoulder](/en/post/shoulder/) [to](/en/post/to/) [get](/en/post/get/) [their](/en/post/their/) [attention](/en/post/attention/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [sock](/post/sock/)**: (informal) [To](/post/to/) [hit](/post/hit/) [someone](/post/someone/) [with](/post/with/) [a](/post/a/) [sock](/post/sock/) [or](/post/or/) [to](/post/to/) [strike](/post/strike/) [them](/post/them/) forcefully.
+   - [Example](/post/example/): "[The](/post/the/) [child](/post/child/) accidentally socked [their](/post/their/) [brother](/post/brother/) [on](/post/on/) [the](/post/the/) [arm](/post/arm/)."
+- **Socks [someone](/post/someone/)**: (informal, [humorous](/post/humorous/)) [To](/post/to/) [give](/post/give/) [someone](/post/someone/) [a](/post/a/) playful [punch](/post/punch/) [or](/post/or/) [hard](/post/hard/) [pat](/post/pat/).
+   - [Example](/post/example/): "[He](/post/he/) socked [his](/post/his/) [friend](/post/friend/) [on](/post/on/) [the](/post/the/) [shoulder](/post/shoulder/) [to](/post/to/) [get](/post/get/) [their](/post/their/) [attention](/post/attention/)."
 
 ## Phrases
-- "[Put](/en/post/put/) [on](/en/post/on/) [a](/en/post/a/) [pair](/en/post/pair/) [of](/en/post/of/) socks" [means](/en/post/means/) [to](/en/post/to/) [wear](/en/post/wear/) socks.
-- "Matched socks" are pairs [of](/en/post/of/) socks [that](/en/post/that/) [have](/en/post/have/) [the](/en/post/the/) [same](/en/post/same/) [design](/en/post/design/) [or](/en/post/or/) [color](/en/post/color/).
-- "[Roll](/en/post/roll/) [up](/en/post/up/) [your](/en/post/your/) socks" is an [expression](/en/post/expression/) [for](/en/post/for/) getting [ready](/en/post/ready/) [to](/en/post/to/) [do](/en/post/do/) [some](/en/post/some/) [physical](/en/post/physical/) [activity](/en/post/activity/) [by](/en/post/by/) rolling [up](/en/post/up/) [the](/en/post/the/) cuffs [of](/en/post/of/) [your](/en/post/your/) pants [to](/en/post/to/) [reveal](/en/post/reveal/) [your](/en/post/your/) socks.
+- "[Put](/post/put/) [on](/post/on/) [a](/post/a/) [pair](/post/pair/) [of](/post/of/) socks" [means](/post/means/) [to](/post/to/) [wear](/post/wear/) socks.
+- "Matched socks" are pairs [of](/post/of/) socks [that](/post/that/) [have](/post/have/) [the](/post/the/) [same](/post/same/) [design](/post/design/) [or](/post/or/) [color](/post/color/).
+- "[Roll](/post/roll/) [up](/post/up/) [your](/post/your/) socks" is an [expression](/post/expression/) [for](/post/for/) getting [ready](/post/ready/) [to](/post/to/) [do](/post/do/) [some](/post/some/) [physical](/post/physical/) [activity](/post/activity/) [by](/post/by/) rolling [up](/post/up/) [the](/post/the/) cuffs [of](/post/of/) [your](/post/your/) pants [to](/post/to/) [reveal](/post/reveal/) [your](/post/your/) socks.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) sorted [her](/en/post/her/) socks [by](/en/post/by/) [color](/en/post/color/) [before](/en/post/before/) putting [them](/en/post/them/) [in](/en/post/in/) [the](/en/post/the/) [drawer](/en/post/drawer/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) took [off](/en/post/off/) [his](/en/post/his/) [wet](/en/post/wet/) socks [and](/en/post/and/) dried [them](/en/post/them/) [by](/en/post/by/) [the](/en/post/the/) radiator."
-- **Informal [Verb](/en/post/verb/)**: "[When](/en/post/when/) [he](/en/post/he/) heard [the](/en/post/the/) [noise](/en/post/noise/), [he](/en/post/he/) [quickly](/en/post/quickly/) socked [the](/en/post/the/) [door](/en/post/door/) closed."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) sorted [her](/post/her/) socks [by](/post/by/) [color](/post/color/) [before](/post/before/) putting [them](/post/them/) [in](/post/in/) [the](/post/the/) [drawer](/post/drawer/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) took [off](/post/off/) [his](/post/his/) [wet](/post/wet/) socks [and](/post/and/) dried [them](/post/them/) [by](/post/by/) [the](/post/the/) radiator."
+- **Informal [Verb](/post/verb/)**: "[When](/post/when/) [he](/post/he/) heard [the](/post/the/) [noise](/post/noise/), [he](/post/he/) [quickly](/post/quickly/) socked [the](/post/the/) [door](/post/door/) closed."
 
 ## Synonyms
 - Hosiery
-- [Stocking](/en/post/stocking/) (British)
-- Footwear ([more](/en/post/more/) [general](/en/post/general/) [term](/en/post/term/))
-- Tights ([for](/en/post/for/) women's [leg](/en/post/leg/) [wear](/en/post/wear/))
+- [Stocking](/post/stocking/) (British)
+- Footwear ([more](/post/more/) [general](/post/general/) [term](/post/term/))
+- Tights ([for](/post/for/) women's [leg](/post/leg/) [wear](/post/wear/))
 
 ## Antonyms
-- Shoes ([more](/en/post/more/) [general](/en/post/general/) [term](/en/post/term/) [for](/en/post/for/) footwear)
+- Shoes ([more](/post/more/) [general](/post/general/) [term](/post/term/) [for](/post/for/) footwear)
 - Barefoot
-- Unsocked ([when](/en/post/when/) [not](/en/post/not/) wearing socks)
+- Unsocked ([when](/post/when/) [not](/post/not/) wearing socks)

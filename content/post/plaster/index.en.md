@@ -7,32 +7,32 @@ description = '[ˈplɑːstə] n.灰泥；硬膏；熟石膏'
 keywords = ['ai words', 'plaster']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈplɑːstər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [material](/en/post/material/)**: [A](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) [sand](/en/post/sand/), [water](/en/post/water/), [and](/en/post/and/) [sometimes](/en/post/sometimes/) [lime](/en/post/lime/) [or](/en/post/or/) [other](/en/post/other/) binding agents, [used](/en/post/used/) [for](/en/post/for/) covering [or](/en/post/or/) repairing walls, ceilings, [or](/en/post/or/) objects, [often](/en/post/often/) [after](/en/post/after/) [being](/en/post/being/) [set](/en/post/set/) [in](/en/post/in/) [a](/en/post/a/) [wet](/en/post/wet/) [state](/en/post/state/) [and](/en/post/and/) allowed [to](/en/post/to/) [harden](/en/post/harden/).
-- **Artwork**: [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [art](/en/post/art/) created [by](/en/post/by/) coating [a](/en/post/a/) [surface](/en/post/surface/) [with](/en/post/with/) [plaster](/en/post/plaster/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) decorative [or](/en/post/or/) sculptural [form](/en/post/form/).
-- **[Medicine](/en/post/medicine/)**: [A](/en/post/a/) [temporary](/en/post/temporary/) covering [for](/en/post/for/) [a](/en/post/a/) [broken](/en/post/broken/) [or](/en/post/or/) injured [bone](/en/post/bone/), typically made [of](/en/post/of/) [a](/en/post/a/) hardening [paste](/en/post/paste/).
+### [Noun](/post/noun/)
+- **[A](/post/a/) [type](/post/type/) [of](/post/of/) [material](/post/material/)**: [A](/post/a/) [mixture](/post/mixture/) [of](/post/of/) [sand](/post/sand/), [water](/post/water/), [and](/post/and/) [sometimes](/post/sometimes/) [lime](/post/lime/) [or](/post/or/) [other](/post/other/) binding agents, [used](/post/used/) [for](/post/for/) covering [or](/post/or/) repairing walls, ceilings, [or](/post/or/) objects, [often](/post/often/) [after](/post/after/) [being](/post/being/) [set](/post/set/) [in](/post/in/) [a](/post/a/) [wet](/post/wet/) [state](/post/state/) [and](/post/and/) allowed [to](/post/to/) [harden](/post/harden/).
+- **Artwork**: [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [art](/post/art/) created [by](/post/by/) coating [a](/post/a/) [surface](/post/surface/) [with](/post/with/) [plaster](/post/plaster/), [often](/post/often/) [in](/post/in/) [a](/post/a/) decorative [or](/post/or/) sculptural [form](/post/form/).
+- **[Medicine](/post/medicine/)**: [A](/post/a/) [temporary](/post/temporary/) covering [for](/post/for/) [a](/post/a/) [broken](/post/broken/) [or](/post/or/) injured [bone](/post/bone/), typically made [of](/post/of/) [a](/post/a/) hardening [paste](/post/paste/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [apply](/en/post/apply/) [plaster](/en/post/plaster/)**: [The](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) covering [a](/en/post/a/) [surface](/en/post/surface/) [with](/en/post/with/) [a](/en/post/a/) [layer](/en/post/layer/) [of](/en/post/of/) [plaster](/en/post/plaster/).
-- **[To](/en/post/to/) [use](/en/post/use/) [plaster](/en/post/plaster/) [as](/en/post/as/) [a](/en/post/a/) bandage**: [To](/en/post/to/) temporarily [bind](/en/post/bind/) [or](/en/post/or/) [secure](/en/post/secure/) [a](/en/post/a/) [wound](/en/post/wound/) [with](/en/post/with/) [plaster](/en/post/plaster/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [apply](/post/apply/) [plaster](/post/plaster/)**: [The](/post/the/) [action](/post/action/) [of](/post/of/) covering [a](/post/a/) [surface](/post/surface/) [with](/post/with/) [a](/post/a/) [layer](/post/layer/) [of](/post/of/) [plaster](/post/plaster/).
+- **[To](/post/to/) [use](/post/use/) [plaster](/post/plaster/) [as](/post/as/) [a](/post/a/) bandage**: [To](/post/to/) temporarily [bind](/post/bind/) [or](/post/or/) [secure](/post/secure/) [a](/post/a/) [wound](/post/wound/) [with](/post/with/) [plaster](/post/plaster/).
 
 ## Phrases
-- "[Apply](/en/post/apply/) [plaster](/en/post/plaster/) [to](/en/post/to/) [a](/en/post/a/) [wall](/en/post/wall/)" [means](/en/post/means/) [to](/en/post/to/) [coat](/en/post/coat/) [a](/en/post/a/) [wall](/en/post/wall/) [with](/en/post/with/) [a](/en/post/a/) [layer](/en/post/layer/) [of](/en/post/of/) [plaster](/en/post/plaster/).
-- "[Plaster](/en/post/plaster/) [cast](/en/post/cast/)": [A](/en/post/a/) mold made [by](/en/post/by/) [setting](/en/post/setting/) [plaster](/en/post/plaster/) [on](/en/post/on/) [a](/en/post/a/) [body](/en/post/body/) [part](/en/post/part/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) replica [for](/en/post/for/) healing [or](/en/post/or/) [artistic](/en/post/artistic/) purposes.
-- "Plastering [work](/en/post/work/)": Refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) applying [and](/en/post/and/) finishing [plaster](/en/post/plaster/).
+- "[Apply](/post/apply/) [plaster](/post/plaster/) [to](/post/to/) [a](/post/a/) [wall](/post/wall/)" [means](/post/means/) [to](/post/to/) [coat](/post/coat/) [a](/post/a/) [wall](/post/wall/) [with](/post/with/) [a](/post/a/) [layer](/post/layer/) [of](/post/of/) [plaster](/post/plaster/).
+- "[Plaster](/post/plaster/) [cast](/post/cast/)": [A](/post/a/) mold made [by](/post/by/) [setting](/post/setting/) [plaster](/post/plaster/) [on](/post/on/) [a](/post/a/) [body](/post/body/) [part](/post/part/) [to](/post/to/) [create](/post/create/) [a](/post/a/) replica [for](/post/for/) healing [or](/post/or/) [artistic](/post/artistic/) purposes.
+- "Plastering [work](/post/work/)": Refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) applying [and](/post/and/) finishing [plaster](/post/plaster/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) carefully sculpted [her](/en/post/her/) [design](/en/post/design/) [in](/en/post/in/) [wet](/en/post/wet/) [plaster](/en/post/plaster/) [before](/en/post/before/) [it](/en/post/it/) hardened."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) builder had [to](/en/post/to/) [wait](/en/post/wait/) [for](/en/post/for/) [the](/en/post/the/) [plaster](/en/post/plaster/) [to](/en/post/to/) [dry](/en/post/dry/) [before](/en/post/before/) [painting](/en/post/painting/) [the](/en/post/the/) walls."
-- **Intransitive [verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [accident](/en/post/accident/), [the](/en/post/the/) [doctor](/en/post/doctor/) [put](/en/post/put/) [a](/en/post/a/) [plaster](/en/post/plaster/) [cast](/en/post/cast/) [on](/en/post/on/) [his](/en/post/his/) [arm](/en/post/arm/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) carefully sculpted [her](/post/her/) [design](/post/design/) [in](/post/in/) [wet](/post/wet/) [plaster](/post/plaster/) [before](/post/before/) [it](/post/it/) hardened."
+- **[Verb](/post/verb/)**: "[The](/post/the/) builder had [to](/post/to/) [wait](/post/wait/) [for](/post/for/) [the](/post/the/) [plaster](/post/plaster/) [to](/post/to/) [dry](/post/dry/) [before](/post/before/) [painting](/post/painting/) [the](/post/the/) walls."
+- **Intransitive [verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [accident](/post/accident/), [the](/post/the/) [doctor](/post/doctor/) [put](/post/put/) [a](/post/a/) [plaster](/post/plaster/) [cast](/post/cast/) [on](/post/on/) [his](/post/his/) [arm](/post/arm/)."
 
 ## Synonyms
 - Plasterboard
-- Gypsum [board](/en/post/board/)
+- Gypsum [board](/post/board/)
 - Drywall
 - Stucco
-- Bandage ([in](/en/post/in/) [a](/en/post/a/) [medical](/en/post/medical/) context)
+- Bandage ([in](/post/in/) [a](/post/a/) [medical](/post/medical/) context)

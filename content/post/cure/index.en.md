@@ -7,30 +7,30 @@ description = '[kjuə] vt.医治；消除 n.治愈'
 keywords = ['ai words', 'cure']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /cjʊə(r)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) healing [or](/en/post/or/) making [well](/en/post/well/); [treatment](/en/post/treatment/) [that](/en/post/that/) restores [health](/en/post/health/) [or](/en/post/or/) cures [a](/en/post/a/) [disease](/en/post/disease/). 2. [A](/en/post/a/) [remedy](/en/post/remedy/) [or](/en/post/or/) [solution](/en/post/solution/) [to](/en/post/to/) [a](/en/post/a/) [problem](/en/post/problem/) [or](/en/post/or/) [issue](/en/post/issue/). 3. [A](/en/post/a/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/) [that](/en/post/that/) is [free](/en/post/free/) [from](/en/post/from/) [illness](/en/post/illness/) [or](/en/post/or/) [disease](/en/post/disease/). 4. [A](/en/post/a/) [belief](/en/post/belief/) [or](/en/post/or/) [hope](/en/post/hope/) [that](/en/post/that/) [something](/en/post/something/) [will](/en/post/will/) [be](/en/post/be/) resolved [or](/en/post/or/) improved. 
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [heal](/en/post/heal/) [or](/en/post/or/) [make](/en/post/make/) [someone](/en/post/someone/) [well](/en/post/well/) [after](/en/post/after/) an [illness](/en/post/illness/) [or](/en/post/or/) [injury](/en/post/injury/). 2. [To](/en/post/to/) alleviate [or](/en/post/or/) [remove](/en/post/remove/) [a](/en/post/a/) [problem](/en/post/problem/), [difficulty](/en/post/difficulty/), [or](/en/post/or/) [condition](/en/post/condition/). 3. [To](/en/post/to/) administer [a](/en/post/a/) [cure](/en/post/cure/) [or](/en/post/or/) [treatment](/en/post/treatment/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) healing [or](/post/or/) making [well](/post/well/); [treatment](/post/treatment/) [that](/post/that/) restores [health](/post/health/) [or](/post/or/) cures [a](/post/a/) [disease](/post/disease/). 2. [A](/post/a/) [remedy](/post/remedy/) [or](/post/or/) [solution](/post/solution/) [to](/post/to/) [a](/post/a/) [problem](/post/problem/) [or](/post/or/) [issue](/post/issue/). 3. [A](/post/a/) [state](/post/state/) [or](/post/or/) [condition](/post/condition/) [that](/post/that/) is [free](/post/free/) [from](/post/from/) [illness](/post/illness/) [or](/post/or/) [disease](/post/disease/). 4. [A](/post/a/) [belief](/post/belief/) [or](/post/or/) [hope](/post/hope/) [that](/post/that/) [something](/post/something/) [will](/post/will/) [be](/post/be/) resolved [or](/post/or/) improved. 
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [heal](/post/heal/) [or](/post/or/) [make](/post/make/) [someone](/post/someone/) [well](/post/well/) [after](/post/after/) an [illness](/post/illness/) [or](/post/or/) [injury](/post/injury/). 2. [To](/post/to/) alleviate [or](/post/or/) [remove](/post/remove/) [a](/post/a/) [problem](/post/problem/), [difficulty](/post/difficulty/), [or](/post/or/) [condition](/post/condition/). 3. [To](/post/to/) administer [a](/post/a/) [cure](/post/cure/) [or](/post/or/) [treatment](/post/treatment/).
 
 ## Phrases
-- "[Cure](/en/post/cure/) [for](/en/post/for/) [[disease](/en/post/disease/)]" refers [to](/en/post/to/) [a](/en/post/a/) [medical](/en/post/medical/) [treatment](/en/post/treatment/) [that](/en/post/that/) eliminates [the](/en/post/the/) [disease](/en/post/disease/).
-- "Curing [a](/en/post/a/) [habit](/en/post/habit/)" [means](/en/post/means/) overcoming [or](/en/post/or/) eliminating [a](/en/post/a/) persistent [behavior](/en/post/behavior/) [or](/en/post/or/) addiction.
-- "[A](/en/post/a/) cure-all" is [something](/en/post/something/) [that](/en/post/that/) is believed [to](/en/post/to/) [solve](/en/post/solve/) [all](/en/post/all/) problems.
+- "[Cure](/post/cure/) [for](/post/for/) [[disease](/post/disease/)]" refers [to](/post/to/) [a](/post/a/) [medical](/post/medical/) [treatment](/post/treatment/) [that](/post/that/) eliminates [the](/post/the/) [disease](/post/disease/).
+- "Curing [a](/post/a/) [habit](/post/habit/)" [means](/post/means/) overcoming [or](/post/or/) eliminating [a](/post/a/) persistent [behavior](/post/behavior/) [or](/post/or/) addiction.
+- "[A](/post/a/) cure-all" is [something](/post/something/) [that](/post/that/) is believed [to](/post/to/) [solve](/post/solve/) [all](/post/all/) problems.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [medicine](/en/post/medicine/) promised [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [cure](/en/post/cure/) [for](/en/post/for/) [cancer](/en/post/cancer/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [patient](/en/post/patient/) underwent [surgery](/en/post/surgery/) [to](/en/post/to/) [cure](/en/post/cure/) [their](/en/post/their/) appendicitis."
-- "[The](/en/post/the/) [scientist](/en/post/scientist/) is working [on](/en/post/on/) [a](/en/post/a/) [cure](/en/post/cure/) [for](/en/post/for/) malaria."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [medicine](/post/medicine/) promised [to](/post/to/) [be](/post/be/) [a](/post/a/) [cure](/post/cure/) [for](/post/for/) [cancer](/post/cancer/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [patient](/post/patient/) underwent [surgery](/post/surgery/) [to](/post/to/) [cure](/post/cure/) [their](/post/their/) appendicitis."
+- "[The](/post/the/) [scientist](/post/scientist/) is working [on](/post/on/) [a](/post/a/) [cure](/post/cure/) [for](/post/for/) malaria."
 
 ## Synonyms
-- [Treatment](/en/post/treatment/)
-- [Remedy](/en/post/remedy/)
+- [Treatment](/post/treatment/)
+- [Remedy](/post/remedy/)
 - Healing
-- [Solution](/en/post/solution/)
+- [Solution](/post/solution/)
 - Eradication
 - Therapy
 - Alleviation
-- [Fix](/en/post/fix/)
+- [Fix](/post/fix/)
 - Redemption

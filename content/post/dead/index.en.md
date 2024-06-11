@@ -7,29 +7,29 @@ description = '[ded] a.死的，无生命的'
 keywords = ['ai words', 'dead']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɛd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Not](/en/post/not/) [alive](/en/post/alive/); deceased. 2. Unresponsive [or](/en/post/or/) lifeless; motionless. 3. [Complete](/en/post/complete/) [or](/en/post/or/) [absolute](/en/post/absolute/); [without](/en/post/without/) [any](/en/post/any/) [possibility](/en/post/possibility/) [of](/en/post/of/) [further](/en/post/further/) [change](/en/post/change/) [or](/en/post/or/) [development](/en/post/development/). 4. (informal) Intoxicated [or](/en/post/or/) [heavily](/en/post/heavily/) [drunk](/en/post/drunk/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cause](/en/post/cause/) [the](/en/post/the/) [death](/en/post/death/) [of](/en/post/of/); [put](/en/post/put/) [to](/en/post/to/) [death](/en/post/death/). 5. [To](/en/post/to/) [make](/en/post/make/) incapable [of](/en/post/of/) functioning [or](/en/post/or/) reacting; [render](/en/post/render/) inactive [or](/en/post/or/) ineffective.
-- **[Noun](/en/post/noun/)**: [Death](/en/post/death/); [the](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) [being](/en/post/being/) [dead](/en/post/dead/).
+- **[Adjective](/post/adjective/)**: 1. [Not](/post/not/) [alive](/post/alive/); deceased. 2. Unresponsive [or](/post/or/) lifeless; motionless. 3. [Complete](/post/complete/) [or](/post/or/) [absolute](/post/absolute/); [without](/post/without/) [any](/post/any/) [possibility](/post/possibility/) [of](/post/of/) [further](/post/further/) [change](/post/change/) [or](/post/or/) [development](/post/development/). 4. (informal) Intoxicated [or](/post/or/) [heavily](/post/heavily/) [drunk](/post/drunk/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [cause](/post/cause/) [the](/post/the/) [death](/post/death/) [of](/post/of/); [put](/post/put/) [to](/post/to/) [death](/post/death/). 5. [To](/post/to/) [make](/post/make/) incapable [of](/post/of/) functioning [or](/post/or/) reacting; [render](/post/render/) inactive [or](/post/or/) ineffective.
+- **[Noun](/post/noun/)**: [Death](/post/death/); [the](/post/the/) [state](/post/state/) [or](/post/or/) [process](/post/process/) [of](/post/of/) [being](/post/being/) [dead](/post/dead/).
 
 ## Phrases
-- "[Dead](/en/post/dead/) [silence](/en/post/silence/)" refers [to](/en/post/to/) [complete](/en/post/complete/) quietness.
-- "[Dead](/en/post/dead/) [end](/en/post/end/)" denotes [a](/en/post/a/) [street](/en/post/street/) [or](/en/post/or/) [situation](/en/post/situation/) [with](/en/post/with/) [no](/en/post/no/) [further](/en/post/further/) possibilities.
-- "[Dead](/en/post/dead/) [on](/en/post/on/)" [means](/en/post/means/) [exactly](/en/post/exactly/) [right](/en/post/right/) [or](/en/post/or/) [accurate](/en/post/accurate/).
+- "[Dead](/post/dead/) [silence](/post/silence/)" refers [to](/post/to/) [complete](/post/complete/) quietness.
+- "[Dead](/post/dead/) [end](/post/end/)" denotes [a](/post/a/) [street](/post/street/) [or](/post/or/) [situation](/post/situation/) [with](/post/with/) [no](/post/no/) [further](/post/further/) possibilities.
+- "[Dead](/post/dead/) [on](/post/on/)" [means](/post/means/) [exactly](/post/exactly/) [right](/post/right/) [or](/post/or/) [accurate](/post/accurate/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) flowers wilted [and](/en/post/and/) [soon](/en/post/soon/) became [dead](/en/post/dead/) [after](/en/post/after/) [a](/en/post/a/) [week](/en/post/week/) [without](/en/post/without/) [water](/en/post/water/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) hunter skillfully killed [the](/en/post/the/) [deer](/en/post/deer/) [with](/en/post/with/) [one](/en/post/one/) [shot](/en/post/shot/)."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [accident](/en/post/accident/), [the](/en/post/the/) [road](/en/post/road/) was closed [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [dead](/en/post/dead/) [body](/en/post/body/) lying [on](/en/post/on/) [the](/en/post/the/) [highway](/en/post/highway/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) flowers wilted [and](/post/and/) [soon](/post/soon/) became [dead](/post/dead/) [after](/post/after/) [a](/post/a/) [week](/post/week/) [without](/post/without/) [water](/post/water/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) hunter skillfully killed [the](/post/the/) [deer](/post/deer/) [with](/post/with/) [one](/post/one/) [shot](/post/shot/)."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [accident](/post/accident/), [the](/post/the/) [road](/post/road/) was closed [due](/post/due/) [to](/post/to/) [the](/post/the/) [dead](/post/dead/) [body](/post/body/) lying [on](/post/on/) [the](/post/the/) [highway](/post/highway/)."
 
 ## Synonyms
 - Deceased
 - Expired
-- Passed [away](/en/post/away/)
+- Passed [away](/post/away/)
 - Perished
-- [No](/en/post/no/) longer [living](/en/post/living/)
+- [No](/post/no/) longer [living](/post/living/)
 - Departed
 -ceased

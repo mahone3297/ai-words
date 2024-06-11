@@ -12,22 +12,22 @@ keywords = ['ai words', 'select']
 
 ## 释义
 - **动词**:
-  - 选择，挑选。例如: "[Please](/post/please/) [select](/post/select/) [your](/post/your/) favorite [color](/post/color/) [from](/post/from/) [the](/post/the/) options [provided](/post/provided/)."
-  - 指定，选定。例如: "[The](/post/the/) manager selected [him](/post/him/) [for](/post/for/) [the](/post/the/) [project](/post/project/) [because](/post/because/) [of](/post/of/) [his](/post/his/) expertise."
-  - (计算机)在屏幕上选取或激活。例如: "Click [on](/post/on/) [the](/post/the/) [file](/post/file/) [and](/post/and/) [select](/post/select/) '[Open](/post/open/)' [to](/post/to/) [view](/post/view/) [its](/post/its/) contents."
+  - 选择，挑选。例如: "[Please](/zh/post/please/) [select](/zh/post/select/) [your](/zh/post/your/) favorite [color](/zh/post/color/) [from](/zh/post/from/) [the](/zh/post/the/) options [provided](/zh/post/provided/)."
+  - 指定，选定。例如: "[The](/zh/post/the/) manager selected [him](/zh/post/him/) [for](/zh/post/for/) [the](/zh/post/the/) [project](/zh/post/project/) [because](/zh/post/because/) [of](/zh/post/of/) [his](/zh/post/his/) expertise."
+  - (计算机)在屏幕上选取或激活。例如: "Click [on](/zh/post/on/) [the](/zh/post/the/) [file](/zh/post/file/) [and](/zh/post/and/) [select](/zh/post/select/) '[Open](/zh/post/open/)' [to](/zh/post/to/) [view](/zh/post/view/) [its](/zh/post/its/) contents."
 
 ## 短语
-- "[select](/post/select/) [from](/post/from/)" 从...中选择。例如: "I [need](/post/need/) [to](/post/to/) [select](/post/select/) [a](/post/a/) [book](/post/book/) [from](/post/from/) [the](/post/the/) library's [extensive](/post/extensive/) [collection](/post/collection/)."
-- "selected [group](/post/group/)" 精选群体。例如: "[She](/post/she/) was [part](/post/part/) [of](/post/of/) [a](/post/a/) [highly](/post/highly/) selected [group](/post/group/) [of](/post/of/) scientists working [on](/post/on/) [the](/post/the/) [project](/post/project/)."
+- "[select](/zh/post/select/) [from](/zh/post/from/)" 从...中选择。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [select](/zh/post/select/) [a](/zh/post/a/) [book](/zh/post/book/) [from](/zh/post/from/) [the](/zh/post/the/) library's [extensive](/zh/post/extensive/) [collection](/zh/post/collection/)."
+- "selected [group](/zh/post/group/)" 精选群体。例如: "[She](/zh/post/she/) was [part](/zh/post/part/) [of](/zh/post/of/) [a](/zh/post/a/) [highly](/zh/post/highly/) selected [group](/zh/post/group/) [of](/zh/post/of/) scientists working [on](/zh/post/on/) [the](/zh/post/the/) [project](/zh/post/project/)."
 
 ## 例句
-- "[She](/post/she/) carefully selected [each](/post/each/) ingredient [for](/post/for/) [her](/post/her/) homemade recipe."
-- "[The](/post/the/) [customer](/post/customer/) selected [the](/post/the/) [red](/post/red/) [car](/post/car/) [as](/post/as/) [his](/post/his/) preferred [option](/post/option/)."
-- "[In](/post/in/) [the](/post/the/) software, [you](/post/you/) [can](/post/can/) [select](/post/select/) [the](/post/the/) [text](/post/text/) [and](/post/and/) [copy](/post/copy/) [it](/post/it/) [to](/post/to/) [the](/post/the/) clipboard."
+- "[She](/zh/post/she/) carefully selected [each](/zh/post/each/) ingredient [for](/zh/post/for/) [her](/zh/post/her/) homemade recipe."
+- "[The](/zh/post/the/) [customer](/zh/post/customer/) selected [the](/zh/post/the/) [red](/zh/post/red/) [car](/zh/post/car/) [as](/zh/post/as/) [his](/zh/post/his/) preferred [option](/zh/post/option/)."
+- "[In](/zh/post/in/) [the](/zh/post/the/) software, [you](/zh/post/you/) [can](/zh/post/can/) [select](/zh/post/select/) [the](/zh/post/the/) [text](/zh/post/text/) [and](/zh/post/and/) [copy](/zh/post/copy/) [it](/zh/post/it/) [to](/zh/post/to/) [the](/zh/post/the/) clipboard."
 
 ## 同义词
-- [choose](/post/choose/)
-- [pick](/post/pick/)
+- [choose](/zh/post/choose/)
+- [pick](/zh/post/pick/)
 - opt
-- [decide](/post/decide/) [on](/post/on/)
-- [single](/post/single/) [out](/post/out/)
+- [decide](/zh/post/decide/) [on](/zh/post/on/)
+- [single](/zh/post/single/) [out](/zh/post/out/)

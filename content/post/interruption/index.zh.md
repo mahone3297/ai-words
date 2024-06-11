@@ -11,20 +11,20 @@ keywords = ['ai words', 'interruption']
 /intərˈrʌpʃən/
 
 ## 释义
-- **名词**: 中断；打扰；干扰。例如: "[There](/post/there/) was an [interruption](/post/interruption/) [in](/post/in/) [the](/post/the/) [power](/post/power/) [supply](/post/supply/)."
-- **动词**: 打断；中断。例如: "[He](/post/he/) [interruption](/post/interruption/) [my](/post/my/) [speech](/post/speech/) [with](/post/with/) [his](/post/his/) questions."
+- **名词**: 中断；打扰；干扰。例如: "[There](/zh/post/there/) was an [interruption](/zh/post/interruption/) [in](/zh/post/in/) [the](/zh/post/the/) [power](/zh/post/power/) [supply](/zh/post/supply/)."
+- **动词**: 打断；中断。例如: "[He](/zh/post/he/) [interruption](/zh/post/interruption/) [my](/zh/post/my/) [speech](/zh/post/speech/) [with](/zh/post/with/) [his](/zh/post/his/) questions."
 
 ## 短语
-- "[interruption](/post/interruption/) [of](/post/of/) [service](/post/service/)" 指服务中断。
-- "[interrupt](/post/interrupt/) one's [work](/post/work/)" 意味着打断某人的工作。
+- "[interruption](/zh/post/interruption/) [of](/zh/post/of/) [service](/zh/post/service/)" 指服务中断。
+- "[interrupt](/zh/post/interrupt/) one's [work](/zh/post/work/)" 意味着打断某人的工作。
 
 ## 例句
-- 名词: "[The](/post/the/) [constant](/post/constant/) interruptions made [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [focus](/post/focus/) [on](/post/on/) [the](/post/the/) [task](/post/task/)."
-- 动词: "[Sorry](/post/sorry/), I didn't [mean](/post/mean/) [to](/post/to/) [interruption](/post/interruption/) [your](/post/your/) [conversation](/post/conversation/)."
+- 名词: "[The](/zh/post/the/) [constant](/zh/post/constant/) interruptions made [it](/zh/post/it/) [difficult](/zh/post/difficult/) [to](/zh/post/to/) [focus](/zh/post/focus/) [on](/zh/post/on/) [the](/zh/post/the/) [task](/zh/post/task/)."
+- 动词: "[Sorry](/zh/post/sorry/), I didn't [mean](/zh/post/mean/) [to](/zh/post/to/) [interruption](/zh/post/interruption/) [your](/zh/post/your/) [conversation](/zh/post/conversation/)."
 
 ## 同义词
-- [Break](/post/break/)
+- [Break](/zh/post/break/)
 - Disturbance
 - Disruption
-- [Halt](/post/halt/)
-- [Interference](/post/interference/)
+- [Halt](/zh/post/halt/)
+- [Interference](/zh/post/interference/)

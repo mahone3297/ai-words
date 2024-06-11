@@ -7,30 +7,30 @@ description = '[ˈpɑːti] n.党，党派；聚会'
 keywords = ['ai words', 'party']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈrɑːti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [social](/en/post/social/) gathering [or](/en/post/or/) [event](/en/post/event/), [often](/en/post/often/) [for](/en/post/for/) celebration [or](/en/post/or/) entertainment. [Example](/en/post/example/): "We're having [a](/en/post/a/) housewarming [party](/en/post/party/) [this](/en/post/this/) [weekend](/en/post/weekend/)."
-   - 2. [A](/en/post/a/) person's [political](/en/post/political/) [or](/en/post/or/) ideological [group](/en/post/group/). [Example](/en/post/example/): "He's [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) environmental [party](/en/post/party/)."
-   - 3. [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) software [or](/en/post/or/) [a](/en/post/a/) [program](/en/post/program/) [that](/en/post/that/) performs [specific](/en/post/specific/) tasks. [Example](/en/post/example/): "[The](/en/post/the/) app has [a](/en/post/a/) bug [in](/en/post/in/) [the](/en/post/the/) update [party](/en/post/party/)."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [social](/post/social/) gathering [or](/post/or/) [event](/post/event/), [often](/post/often/) [for](/post/for/) celebration [or](/post/or/) entertainment. [Example](/post/example/): "We're having [a](/post/a/) housewarming [party](/post/party/) [this](/post/this/) [weekend](/post/weekend/)."
+   - 2. [A](/post/a/) person's [political](/post/political/) [or](/post/or/) ideological [group](/post/group/). [Example](/post/example/): "He's [a](/post/a/) [member](/post/member/) [of](/post/of/) [the](/post/the/) environmental [party](/post/party/)."
+   - 3. [A](/post/a/) [piece](/post/piece/) [of](/post/of/) software [or](/post/or/) [a](/post/a/) [program](/post/program/) [that](/post/that/) performs [specific](/post/specific/) tasks. [Example](/post/example/): "[The](/post/the/) app has [a](/post/a/) bug [in](/post/in/) [the](/post/the/) update [party](/post/party/)."
 
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [celebrate](/en/post/celebrate/) [or](/en/post/or/) [hold](/en/post/hold/) [a](/en/post/a/) [party](/en/post/party/). [Example](/en/post/example/): "We're going [to](/en/post/to/) [party](/en/post/party/) [all](/en/post/all/) [night](/en/post/night/) [long](/en/post/long/)."
-   - 2. (Informal) [To](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) gathering [or](/en/post/or/) [have](/en/post/have/) [fun](/en/post/fun/). [Example](/en/post/example/): "She's [not](/en/post/not/) coming [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/) [because](/en/post/because/) she's [feeling](/en/post/feeling/) [under](/en/post/under/) [the](/en/post/the/) [weather](/en/post/weather/)."
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [celebrate](/post/celebrate/) [or](/post/or/) [hold](/post/hold/) [a](/post/a/) [party](/post/party/). [Example](/post/example/): "We're going [to](/post/to/) [party](/post/party/) [all](/post/all/) [night](/post/night/) [long](/post/long/)."
+   - 2. (Informal) [To](/post/to/) [participate](/post/participate/) [in](/post/in/) [a](/post/a/) gathering [or](/post/or/) [have](/post/have/) [fun](/post/fun/). [Example](/post/example/): "She's [not](/post/not/) coming [to](/post/to/) [the](/post/the/) [party](/post/party/) [because](/post/because/) she's [feeling](/post/feeling/) [under](/post/under/) [the](/post/the/) [weather](/post/weather/)."
 
 ## Phrases
-- "[Throw](/en/post/throw/) [a](/en/post/a/) [party](/en/post/party/)" [means](/en/post/means/) [to](/en/post/to/) [organize](/en/post/organize/) [a](/en/post/a/) gathering.
-- "[Party](/en/post/party/) [on](/en/post/on/)" is an [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) [encourage](/en/post/encourage/) continuing [to](/en/post/to/) [enjoy](/en/post/enjoy/) [oneself](/en/post/oneself/).
-- "[Party](/en/post/party/) crasher" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) uninvited attends [a](/en/post/a/) [party](/en/post/party/).
+- "[Throw](/post/throw/) [a](/post/a/) [party](/post/party/)" [means](/post/means/) [to](/post/to/) [organize](/post/organize/) [a](/post/a/) gathering.
+- "[Party](/post/party/) [on](/post/on/)" is an [expression](/post/expression/) [used](/post/used/) [to](/post/to/) [encourage](/post/encourage/) continuing [to](/post/to/) [enjoy](/post/enjoy/) [oneself](/post/oneself/).
+- "[Party](/post/party/) crasher" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) uninvited attends [a](/post/a/) [party](/post/party/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[They](/en/post/they/) decorated [the](/en/post/the/) [living](/en/post/living/) [room](/en/post/room/) [for](/en/post/for/) [the](/en/post/the/) [birthday](/en/post/birthday/) [party](/en/post/party/)."
-- **[Verb](/en/post/verb/)**: "Let's [party](/en/post/party/) [like](/en/post/like/) it's 1999!"
-- **Informal [Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [party](/en/post/party/) [hard](/en/post/hard/) [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [week](/en/post/week/) [of](/en/post/of/) [work](/en/post/work/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[They](/post/they/) decorated [the](/post/the/) [living](/post/living/) [room](/post/room/) [for](/post/for/) [the](/post/the/) [birthday](/post/birthday/) [party](/post/party/)."
+- **[Verb](/post/verb/)**: "Let's [party](/post/party/) [like](/post/like/) it's 1999!"
+- **Informal [Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [party](/post/party/) [hard](/post/hard/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [week](/post/week/) [of](/post/of/) [work](/post/work/)."
 
 ## Synonyms
 - Gathering
-- [Social](/en/post/social/) [event](/en/post/event/)
+- [Social](/post/social/) [event](/post/event/)
 - Bash
 - Celebration
 - Festivity

@@ -7,36 +7,36 @@ description = '[ˈlɔdʒikəl] a.逻辑的；符合逻辑的'
 keywords = ['ai words', 'logical']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɒdʒɪkəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) based [on](/en/post/on/) [logic](/en/post/logic/); having [a](/en/post/a/) [clear](/en/post/clear/), [sound](/en/post/sound/), [and](/en/post/and/) [rational](/en/post/rational/) reasoning. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [logical](/en/post/logical/) [argument](/en/post/argument/) requires premises [that](/en/post/that/) [lead](/en/post/lead/) inevitably [to](/en/post/to/) [a](/en/post/a/) [valid](/en/post/valid/) [conclusion](/en/post/conclusion/)."
-  - _Example Sentence_: "[Her](/en/post/her/) [decision](/en/post/decision/) [to](/en/post/to/) [study](/en/post/study/) [computer](/en/post/computer/) [science](/en/post/science/) was [a](/en/post/a/) [logical](/en/post/logical/) [choice](/en/post/choice/) given [her](/en/post/her/) [interest](/en/post/interest/) [in](/en/post/in/) math [and](/en/post/and/) problem-solving."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) based [on](/post/on/) [logic](/post/logic/); having [a](/post/a/) [clear](/post/clear/), [sound](/post/sound/), [and](/post/and/) [rational](/post/rational/) reasoning. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [logical](/post/logical/) [argument](/post/argument/) requires premises [that](/post/that/) [lead](/post/lead/) inevitably [to](/post/to/) [a](/post/a/) [valid](/post/valid/) [conclusion](/post/conclusion/)."
+  - _Example Sentence_: "[Her](/post/her/) [decision](/post/decision/) [to](/post/to/) [study](/post/study/) [computer](/post/computer/) [science](/post/science/) was [a](/post/a/) [logical](/post/logical/) [choice](/post/choice/) given [her](/post/her/) [interest](/post/interest/) [in](/post/in/) math [and](/post/and/) problem-solving."
 
-- **[Noun](/en/post/noun/)**: ([plural](/en/post/plural/): logicians) [A](/en/post/a/) [person](/en/post/person/) [skilled](/en/post/skilled/) [in](/en/post/in/) [or](/en/post/or/) studying [logic](/en/post/logic/). [For](/en/post/for/) [instance](/en/post/instance/): "[As](/en/post/as/) [a](/en/post/a/) [professional](/en/post/professional/) logician, [he](/en/post/he/) specializes [in](/en/post/in/) identifying fallacies [in](/en/post/in/) arguments."
+- **[Noun](/post/noun/)**: ([plural](/post/plural/): logicians) [A](/post/a/) [person](/post/person/) [skilled](/post/skilled/) [in](/post/in/) [or](/post/or/) studying [logic](/post/logic/). [For](/post/for/) [instance](/post/instance/): "[As](/post/as/) [a](/post/a/) [professional](/post/professional/) logician, [he](/post/he/) specializes [in](/post/in/) identifying fallacies [in](/post/in/) arguments."
 
 ## Phrases
-- "[Logical](/en/post/logical/) [consequence](/en/post/consequence/)": [The](/en/post/the/) [relationship](/en/post/relationship/) [between](/en/post/between/) statements [where](/en/post/where/) [if](/en/post/if/) [one](/en/post/one/) [statement](/en/post/statement/) logically entails [another](/en/post/another/), [then](/en/post/then/) [the](/en/post/the/) [second](/en/post/second/) [must](/en/post/must/) [be](/en/post/be/) [true](/en/post/true/) [whenever](/en/post/whenever/) [the](/en/post/the/) [first](/en/post/first/) is.
-- "[Logical](/en/post/logical/) thinking": [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [reason](/en/post/reason/), analyze facts, [and](/en/post/and/) [draw](/en/post/draw/) conclusions based [on](/en/post/on/) [evidence](/en/post/evidence/) [and](/en/post/and/) [sound](/en/post/sound/) judgment.
-- "[Logical](/en/post/logical/) fallacy": An [error](/en/post/error/) [in](/en/post/in/) reasoning [that](/en/post/that/) [can](/en/post/can/) [make](/en/post/make/) an [argument](/en/post/argument/) invalid, [even](/en/post/even/) [if](/en/post/if/) [it](/en/post/it/) seems convincing.
+- "[Logical](/post/logical/) [consequence](/post/consequence/)": [The](/post/the/) [relationship](/post/relationship/) [between](/post/between/) statements [where](/post/where/) [if](/post/if/) [one](/post/one/) [statement](/post/statement/) logically entails [another](/post/another/), [then](/post/then/) [the](/post/the/) [second](/post/second/) [must](/post/must/) [be](/post/be/) [true](/post/true/) [whenever](/post/whenever/) [the](/post/the/) [first](/post/first/) is.
+- "[Logical](/post/logical/) thinking": [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [reason](/post/reason/), analyze facts, [and](/post/and/) [draw](/post/draw/) conclusions based [on](/post/on/) [evidence](/post/evidence/) [and](/post/and/) [sound](/post/sound/) judgment.
+- "[Logical](/post/logical/) fallacy": An [error](/post/error/) [in](/post/in/) reasoning [that](/post/that/) [can](/post/can/) [make](/post/make/) an [argument](/post/argument/) invalid, [even](/post/even/) [if](/post/if/) [it](/post/it/) seems convincing.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "It's [not](/en/post/not/) [logical](/en/post/logical/) [to](/en/post/to/) [assume](/en/post/assume/) [that](/en/post/that/) [just](/en/post/just/) [because](/en/post/because/) it's raining [today](/en/post/today/), [it](/en/post/it/) [will](/en/post/will/) [rain](/en/post/rain/) [tomorrow](/en/post/tomorrow/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) logician presented [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [complex](/en/post/complex/) syllogisms [to](/en/post/to/) [illustrate](/en/post/illustrate/) [his](/en/post/his/) [point](/en/post/point/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "It's [not](/post/not/) [logical](/post/logical/) [to](/post/to/) [assume](/post/assume/) [that](/post/that/) [just](/post/just/) [because](/post/because/) it's raining [today](/post/today/), [it](/post/it/) [will](/post/will/) [rain](/post/rain/) [tomorrow](/post/tomorrow/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) logician presented [a](/post/a/) [series](/post/series/) [of](/post/of/) [complex](/post/complex/) syllogisms [to](/post/to/) [illustrate](/post/illustrate/) [his](/post/his/) [point](/post/point/)."
 
 ## Synonyms
-- [Reasonable](/en/post/reasonable/)
-- [Rational](/en/post/rational/)
-- [Sound](/en/post/sound/)
-- [Valid](/en/post/valid/)
+- [Reasonable](/post/reasonable/)
+- [Rational](/post/rational/)
+- [Sound](/post/sound/)
+- [Valid](/post/valid/)
 - Coherent
 - Analytical
 - Methodical
 
-Antonyms [might](/en/post/might/) [include](/en/post/include/):
+Antonyms [might](/post/might/) [include](/post/include/):
 - Illogical
 - Irrational
 - Unreasonable
 - Incoherent
-- [Arbitrary](/en/post/arbitrary/)
+- [Arbitrary](/post/arbitrary/)

@@ -11,21 +11,21 @@ keywords = ['ai words', 'principle']
 /prɪˈplɪns/
 
 ## 释义
-- **名词**: 原则；原理；基本信念。例如: "[He](/post/he/) acted according [to](/post/to/) [his](/post/his/) principles."
-- **名词**: 法则；准则；道德规范。例如: "[The](/post/the/) [company](/post/company/) operates [on](/post/on/) [a](/post/a/) [set](/post/set/) [of](/post/of/) [core](/post/core/) principles."
+- **名词**: 原则；原理；基本信念。例如: "[He](/zh/post/he/) acted according [to](/zh/post/to/) [his](/zh/post/his/) principles."
+- **名词**: 法则；准则；道德规范。例如: "[The](/zh/post/the/) [company](/zh/post/company/) operates [on](/zh/post/on/) [a](/zh/post/a/) [set](/zh/post/set/) [of](/zh/post/of/) [core](/zh/post/core/) principles."
 
 ## 短语
-- "[Basic](/post/basic/) principles" 基本原则
-- "道德原则 [moral](/post/moral/) principles"
-- "经济原则 [economic](/post/economic/) principles"
+- "[Basic](/zh/post/basic/) principles" 基本原则
+- "道德原则 [moral](/zh/post/moral/) principles"
+- "经济原则 [economic](/zh/post/economic/) principles"
 
 ## 例句
-- 名词: "[Her](/post/her/) principles [guide](/post/guide/) [her](/post/her/) actions [in](/post/in/) [life](/post/life/)."
-- 名词: "[The](/post/the/) [school](/post/school/) teaches [its](/post/its/) students [to](/post/to/) [respect](/post/respect/) [the](/post/the/) principles [of](/post/of/) fairness [and](/post/and/) [honesty](/post/honesty/)."
+- 名词: "[Her](/zh/post/her/) principles [guide](/zh/post/guide/) [her](/zh/post/her/) actions [in](/zh/post/in/) [life](/zh/post/life/)."
+- 名词: "[The](/zh/post/the/) [school](/zh/post/school/) teaches [its](/zh/post/its/) students [to](/zh/post/to/) [respect](/zh/post/respect/) [the](/zh/post/the/) principles [of](/zh/post/of/) fairness [and](/zh/post/and/) [honesty](/zh/post/honesty/)."
 
 ## 同义词
-- [Concept](/post/concept/)
-- [Theory](/post/theory/)
+- [Concept](/zh/post/concept/)
+- [Theory](/zh/post/theory/)
 - Guideline
-- [Rule](/post/rule/)
-- [Belief](/post/belief/)
+- [Rule](/zh/post/rule/)
+- [Belief](/zh/post/belief/)

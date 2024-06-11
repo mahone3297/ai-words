@@ -7,42 +7,42 @@ description = '[riˈnjuː] vt.使更新 vi.更新'
 keywords = ['ai words', 'renew']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈnjuː/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) restoring [or](/en/post/or/) regenerating [something](/en/post/something/) [to](/en/post/to/) [its](/en/post/its/) [original](/en/post/original/) [state](/en/post/state/) [or](/en/post/or/) freshness; [a](/en/post/a/) renewal [or](/en/post/or/) revival.
-   - [Example](/en/post/example/): "[The](/en/post/the/) lease [on](/en/post/on/) [the](/en/post/the/) [apartment](/en/post/apartment/) [will](/en/post/will/) [need](/en/post/need/) [to](/en/post/to/) [be](/en/post/be/) renewed."
-2. [A](/en/post/a/) [certificate](/en/post/certificate/) [or](/en/post/or/) [document](/en/post/document/) [that](/en/post/that/) allows [the](/en/post/the/) holder [to](/en/post/to/) [continue](/en/post/continue/) using [or](/en/post/or/) possessing [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) specified conditions.
-   - [Example](/en/post/example/): "[He](/en/post/he/) received [a](/en/post/a/) [library](/en/post/library/) [card](/en/post/card/) renewal."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) restoring [or](/post/or/) regenerating [something](/post/something/) [to](/post/to/) [its](/post/its/) [original](/post/original/) [state](/post/state/) [or](/post/or/) freshness; [a](/post/a/) renewal [or](/post/or/) revival.
+   - [Example](/post/example/): "[The](/post/the/) lease [on](/post/on/) [the](/post/the/) [apartment](/post/apartment/) [will](/post/will/) [need](/post/need/) [to](/post/to/) [be](/post/be/) renewed."
+2. [A](/post/a/) [certificate](/post/certificate/) [or](/post/or/) [document](/post/document/) [that](/post/that/) allows [the](/post/the/) holder [to](/post/to/) [continue](/post/continue/) using [or](/post/or/) possessing [something](/post/something/), [often](/post/often/) [with](/post/with/) specified conditions.
+   - [Example](/post/example/): "[He](/post/he/) received [a](/post/a/) [library](/post/library/) [card](/post/card/) renewal."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [restore](/en/post/restore/) [or](/en/post/or/) [refresh](/en/post/refresh/) ([a](/en/post/a/) [license](/en/post/license/), [contract](/en/post/contract/), [or](/en/post/or/) [legal](/en/post/legal/) [status](/en/post/status/)) [for](/en/post/for/) [another](/en/post/another/) [period](/en/post/period/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) renewed [her](/en/post/her/) [passport](/en/post/passport/) [before](/en/post/before/) leaving [for](/en/post/for/) [her](/en/post/her/) [trip](/en/post/trip/)."
-2. [To](/en/post/to/) [give](/en/post/give/) [new](/en/post/new/) [life](/en/post/life/), vigor, [or](/en/post/or/) [strength](/en/post/strength/) [to](/en/post/to/) ([a](/en/post/a/) [person](/en/post/person/), [idea](/en/post/idea/), [or](/en/post/or/) [relationship](/en/post/relationship/)).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) has been renewed [with](/en/post/with/) [fresh](/en/post/fresh/) ideas."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [restore](/post/restore/) [or](/post/or/) [refresh](/post/refresh/) ([a](/post/a/) [license](/post/license/), [contract](/post/contract/), [or](/post/or/) [legal](/post/legal/) [status](/post/status/)) [for](/post/for/) [another](/post/another/) [period](/post/period/).
+   - [Example](/post/example/): "[She](/post/she/) renewed [her](/post/her/) [passport](/post/passport/) [before](/post/before/) leaving [for](/post/for/) [her](/post/her/) [trip](/post/trip/)."
+2. [To](/post/to/) [give](/post/give/) [new](/post/new/) [life](/post/life/), vigor, [or](/post/or/) [strength](/post/strength/) [to](/post/to/) ([a](/post/a/) [person](/post/person/), [idea](/post/idea/), [or](/post/or/) [relationship](/post/relationship/)).
+   - [Example](/post/example/): "[The](/post/the/) [project](/post/project/) has been renewed [with](/post/with/) [fresh](/post/fresh/) ideas."
 
-### [Adjective](/en/post/adjective/)
-1. Characterizing [or](/en/post/or/) relating [to](/en/post/to/) [a](/en/post/a/) renewal [or](/en/post/or/) restoration.
-   - [Example](/en/post/example/): "[The](/en/post/the/) company's renewed [focus](/en/post/focus/) [on](/en/post/on/) sustainability."
+### [Adjective](/post/adjective/)
+1. Characterizing [or](/post/or/) relating [to](/post/to/) [a](/post/a/) renewal [or](/post/or/) restoration.
+   - [Example](/post/example/): "[The](/post/the/) company's renewed [focus](/post/focus/) [on](/post/on/) sustainability."
 
 ## Phrases
-- "[Renew](/en/post/renew/) one's vows" [to](/en/post/to/) [repeat](/en/post/repeat/) [a](/en/post/a/) [marriage](/en/post/marriage/) [ceremony](/en/post/ceremony/) [or](/en/post/or/) commitment.
-- "[Renew](/en/post/renew/) [interest](/en/post/interest/)" [to](/en/post/to/) [show](/en/post/show/) [a](/en/post/a/) renewed [interest](/en/post/interest/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/).
-- "Renewable [energy](/en/post/energy/)" refers [to](/en/post/to/) sources [of](/en/post/of/) [energy](/en/post/energy/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) replenished [naturally](/en/post/naturally/).
+- "[Renew](/post/renew/) one's vows" [to](/post/to/) [repeat](/post/repeat/) [a](/post/a/) [marriage](/post/marriage/) [ceremony](/post/ceremony/) [or](/post/or/) commitment.
+- "[Renew](/post/renew/) [interest](/post/interest/)" [to](/post/to/) [show](/post/show/) [a](/post/a/) renewed [interest](/post/interest/) [or](/post/or/) [enthusiasm](/post/enthusiasm/).
+- "Renewable [energy](/post/energy/)" refers [to](/post/to/) sources [of](/post/of/) [energy](/post/energy/) [that](/post/that/) [can](/post/can/) [be](/post/be/) replenished [naturally](/post/naturally/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/), [the](/en/post/the/) [community](/en/post/community/) began [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) renewing [their](/en/post/their/) homes."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) renewed [his](/en/post/his/) membership [in](/en/post/in/) [the](/en/post/the/) gym [to](/en/post/to/) [stay](/en/post/stay/) [fit](/en/post/fit/)."
-- **[Adjective](/en/post/adjective/)**: "[Their](/en/post/their/) renewed efforts led [to](/en/post/to/) improved [performance](/en/post/performance/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [storm](/post/storm/), [the](/post/the/) [community](/post/community/) began [the](/post/the/) [process](/post/process/) [of](/post/of/) renewing [their](/post/their/) homes."
+- **[Verb](/post/verb/)**: "[He](/post/he/) renewed [his](/post/his/) membership [in](/post/in/) [the](/post/the/) gym [to](/post/to/) [stay](/post/stay/) [fit](/post/fit/)."
+- **[Adjective](/post/adjective/)**: "[Their](/post/their/) renewed efforts led [to](/post/to/) improved [performance](/post/performance/)."
 
 ## Synonyms
 - Revive
 - Reissue
-- [Extend](/en/post/extend/)
+- [Extend](/post/extend/)
 - Reinstate
 - Regenerate
-- [Refresh](/en/post/refresh/)
+- [Refresh](/post/refresh/)
 - Rejuvenate
 - Restart

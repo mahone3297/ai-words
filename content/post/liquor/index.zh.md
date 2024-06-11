@@ -11,20 +11,20 @@ keywords = ['ai words', 'liquor']
 /ˈlɪkər/
 
 ## 释义
-- **名词**: 酒精饮料，尤指烈性酒。例如: "[He](/post/he/) enjoys [a](/post/a/) [glass](/post/glass/) [of](/post/of/) whiskey, [his](/post/his/) favorite [liquor](/post/liquor/)."
-- **动词**: 提供或出售酒精饮料。例如: "[The](/post/the/) bartender was [busy](/post/busy/) liquoring [up](/post/up/) [the](/post/the/) patrons."
+- **名词**: 酒精饮料，尤指烈性酒。例如: "[He](/zh/post/he/) enjoys [a](/zh/post/a/) [glass](/zh/post/glass/) [of](/zh/post/of/) whiskey, [his](/zh/post/his/) favorite [liquor](/zh/post/liquor/)."
+- **动词**: 提供或出售酒精饮料。例如: "[The](/zh/post/the/) bartender was [busy](/zh/post/busy/) liquoring [up](/zh/post/up/) [the](/zh/post/the/) patrons."
 
 ## 短语
-- "[Hard](/post/hard/) [liquor](/post/liquor/)" 指高浓度的烈性酒，如威士忌或伏特加。
+- "[Hard](/zh/post/hard/) [liquor](/zh/post/liquor/)" 指高浓度的烈性酒，如威士忌或伏特加。
 - "After-dinner liqueur" 是指餐后甜酒，通常用来助消化。
 
 ## 例句
-- 名词: "[She](/post/she/) keeps [a](/post/a/) well-stocked [bar](/post/bar/) [with](/post/with/) [various](/post/various/) types [of](/post/of/) [liquor](/post/liquor/) [for](/post/for/) [her](/post/her/) guests."
-- 动词: "[The](/post/the/) [restaurant](/post/restaurant/) is licensed [to](/post/to/) [liquor](/post/liquor/) [and](/post/and/) serves [a](/post/a/) [variety](/post/variety/) [of](/post/of/) cocktails."
+- 名词: "[She](/zh/post/she/) keeps [a](/zh/post/a/) well-stocked [bar](/zh/post/bar/) [with](/zh/post/with/) [various](/zh/post/various/) types [of](/zh/post/of/) [liquor](/zh/post/liquor/) [for](/zh/post/for/) [her](/zh/post/her/) guests."
+- 动词: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) is licensed [to](/zh/post/to/) [liquor](/zh/post/liquor/) [and](/zh/post/and/) serves [a](/zh/post/a/) [variety](/zh/post/variety/) [of](/zh/post/of/) cocktails."
 
 ## 同义词
-- [Alcohol](/post/alcohol/)
+- [Alcohol](/zh/post/alcohol/)
 - spirits
 - beverage
-- [drink](/post/drink/)
+- [drink](/zh/post/drink/)
 - intoxicant

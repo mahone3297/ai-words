@@ -12,24 +12,24 @@ keywords = ['ai words', 'package']
 
 ## 释义
 - **名词 n**:
-  - 包裹，包装：[A](/post/a/) [container](/post/container/), typically [a](/post/a/) [box](/post/box/) [or](/post/or/) wrapper, [used](/post/used/) [for](/post/for/) sending [or](/post/or/) storing [goods](/post/goods/).
-  - 软件包，程序包：[A](/post/a/) [collection](/post/collection/) [of](/post/of/) software components grouped [together](/post/together/) [for](/post/for/) [distribution](/post/distribution/) [or](/post/or/) [installation](/post/installation/).
+  - 包裹，包装：[A](/zh/post/a/) [container](/zh/post/container/), typically [a](/zh/post/a/) [box](/zh/post/box/) [or](/zh/post/or/) wrapper, [used](/zh/post/used/) [for](/zh/post/for/) sending [or](/zh/post/or/) storing [goods](/zh/post/goods/).
+  - 软件包，程序包：[A](/zh/post/a/) [collection](/zh/post/collection/) [of](/zh/post/of/) software components grouped [together](/zh/post/together/) [for](/zh/post/for/) [distribution](/zh/post/distribution/) [or](/zh/post/or/) [installation](/zh/post/installation/).
 
 - **动词 v**:
-  - 打包，封装：[To](/post/to/) [put](/post/put/) things [into](/post/into/) [a](/post/a/) [package](/post/package/), [especially](/post/especially/) [for](/post/for/) [transport](/post/transport/) [or](/post/or/) [sale](/post/sale/).
-  - 制作软件包：[To](/post/to/) [create](/post/create/) [a](/post/a/) software [package](/post/package/) [for](/post/for/) [distribution](/post/distribution/).
+  - 打包，封装：[To](/zh/post/to/) [put](/zh/post/put/) things [into](/zh/post/into/) [a](/zh/post/a/) [package](/zh/post/package/), [especially](/zh/post/especially/) [for](/zh/post/for/) [transport](/zh/post/transport/) [or](/zh/post/or/) [sale](/zh/post/sale/).
+  - 制作软件包：[To](/zh/post/to/) [create](/zh/post/create/) [a](/zh/post/a/) software [package](/zh/post/package/) [for](/zh/post/for/) [distribution](/zh/post/distribution/).
 
 ## 短语
-- "[package](/post/package/) [deal](/post/deal/)"：一套交易，一揽子计划，通常包括多个相关项目。
-- "[package](/post/package/) [tour](/post/tour/)"：打包旅行，由旅行社安排的包括交通、住宿和观光在内的全套旅游服务。
+- "[package](/zh/post/package/) [deal](/zh/post/deal/)"：一套交易，一揽子计划，通常包括多个相关项目。
+- "[package](/zh/post/package/) [tour](/zh/post/tour/)"：打包旅行，由旅行社安排的包括交通、住宿和观光在内的全套旅游服务。
 
 ## 例句
-- 名词: "I ordered [a](/post/a/) [new](/post/new/) [phone](/post/phone/) online [and](/post/and/) [it](/post/it/) arrived [in](/post/in/) [a](/post/a/) [small](/post/small/) [package](/post/package/)."
-- 动词: "[The](/post/the/) software developer needs [to](/post/to/) [package](/post/package/) [the](/post/the/) [application](/post/application/) [before](/post/before/) releasing [it](/post/it/)."
+- 名词: "I ordered [a](/zh/post/a/) [new](/zh/post/new/) [phone](/zh/post/phone/) online [and](/zh/post/and/) [it](/zh/post/it/) arrived [in](/zh/post/in/) [a](/zh/post/a/) [small](/zh/post/small/) [package](/zh/post/package/)."
+- 动词: "[The](/zh/post/the/) software developer needs [to](/zh/post/to/) [package](/zh/post/package/) [the](/zh/post/the/) [application](/zh/post/application/) [before](/zh/post/before/) releasing [it](/zh/post/it/)."
 
 ## 同义词
-- [Bundle](/post/bundle/)
-- [Container](/post/container/)
+- [Bundle](/zh/post/bundle/)
+- [Container](/zh/post/container/)
 - Kit
 - Compilation
-- [Collection](/post/collection/)
+- [Collection](/zh/post/collection/)

@@ -7,22 +7,22 @@ description = '[ˈwenzdei] n.星期三'
 keywords = ['ai words', 'Wednesday']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wenzdeɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [week](/en/post/week/), occurring [between](/en/post/between/) Tuesday [and](/en/post/and/) Thursday, [usually](/en/post/usually/) denoted [by](/en/post/by/) [the](/en/post/the/) abbreviation Wed. [For](/en/post/for/) [example](/en/post/example/): "Wednesday is [my](/en/post/my/) favorite [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [week](/en/post/week/)."
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [this](/en/post/this/) [specific](/en/post/specific/) [day](/en/post/day/). [For](/en/post/for/) [example](/en/post/example/): "It's Wednesday, [so](/en/post/so/) classes [start](/en/post/start/) [tomorrow](/en/post/tomorrow/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [day](/post/day/) [of](/post/of/) [the](/post/the/) [week](/post/week/), occurring [between](/post/between/) Tuesday [and](/post/and/) Thursday, [usually](/post/usually/) denoted [by](/post/by/) [the](/post/the/) abbreviation Wed. [For](/post/for/) [example](/post/example/): "Wednesday is [my](/post/my/) favorite [day](/post/day/) [of](/post/of/) [the](/post/the/) [week](/post/week/)."
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [this](/post/this/) [specific](/post/specific/) [day](/post/day/). [For](/post/for/) [example](/post/example/): "It's Wednesday, [so](/post/so/) classes [start](/post/start/) [tomorrow](/post/tomorrow/)."
 
 ## Phrases
-- "It's Wednesday" is [a](/en/post/a/) [common](/en/post/common/) [expression](/en/post/expression/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [current](/en/post/current/) [day](/en/post/day/).
-- "Wednesday blues" is [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) [the](/en/post/the/) [feeling](/en/post/feeling/) [of](/en/post/of/) mid-week [fatigue](/en/post/fatigue/) [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) motivation.
-- "It's hump [day](/en/post/day/)" (informal) is [a](/en/post/a/) [humorous](/en/post/humorous/) [reference](/en/post/reference/) [to](/en/post/to/) [the](/en/post/the/) [middle](/en/post/middle/) [of](/en/post/of/) [the](/en/post/the/) workweek, typically Wednesday.
+- "It's Wednesday" is [a](/post/a/) [common](/post/common/) [expression](/post/expression/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [current](/post/current/) [day](/post/day/).
+- "Wednesday blues" is [a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) [the](/post/the/) [feeling](/post/feeling/) [of](/post/of/) mid-week [fatigue](/post/fatigue/) [or](/post/or/) [lack](/post/lack/) [of](/post/of/) motivation.
+- "It's hump [day](/post/day/)" (informal) is [a](/post/a/) [humorous](/post/humorous/) [reference](/post/reference/) [to](/post/to/) [the](/post/the/) [middle](/post/middle/) [of](/post/of/) [the](/post/the/) workweek, typically Wednesday.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) [have](/en/post/have/) [a](/en/post/a/) [meeting](/en/post/meeting/) scheduled [for](/en/post/for/) Wednesday [at](/en/post/at/) 2 PM."
-- **[Adjective](/en/post/adjective/)**: "[On](/en/post/on/) Wednesdays, I [usually](/en/post/usually/) [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) gym [after](/en/post/after/) [work](/en/post/work/)."
-- **Phrases**: "It's hump [day](/en/post/day/), let's grab [lunch](/en/post/lunch/) [together](/en/post/together/) [to](/en/post/to/) [break](/en/post/break/) [the](/en/post/the/) [routine](/en/post/routine/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) [have](/post/have/) [a](/post/a/) [meeting](/post/meeting/) scheduled [for](/post/for/) Wednesday [at](/post/at/) 2 PM."
+- **[Adjective](/post/adjective/)**: "[On](/post/on/) Wednesdays, I [usually](/post/usually/) [go](/post/go/) [to](/post/to/) [the](/post/the/) gym [after](/post/after/) [work](/post/work/)."
+- **Phrases**: "It's hump [day](/post/day/), let's grab [lunch](/post/lunch/) [together](/post/together/) [to](/post/to/) [break](/post/break/) [the](/post/the/) [routine](/post/routine/)."
 
 ## Synonyms
-- [None](/en/post/none/) [directly](/en/post/directly/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) implied [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) referring [to](/en/post/to/) [the](/en/post/the/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [week](/en/post/week/). [Some](/en/post/some/) expressions [like](/en/post/like/) "mid-week" [or](/en/post/or/) "[middle](/en/post/middle/) [day](/en/post/day/)" [could](/en/post/could/) [be](/en/post/be/) [used](/en/post/used/) informally.
+- [None](/post/none/) [directly](/post/directly/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) implied [in](/post/in/) [the](/post/the/) context [of](/post/of/) referring [to](/post/to/) [the](/post/the/) [day](/post/day/) [of](/post/of/) [the](/post/the/) [week](/post/week/). [Some](/post/some/) expressions [like](/post/like/) "mid-week" [or](/post/or/) "[middle](/post/middle/) [day](/post/day/)" [could](/post/could/) [be](/post/be/) [used](/post/used/) informally.

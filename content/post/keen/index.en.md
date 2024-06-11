@@ -7,26 +7,26 @@ description = '[kiːn] a.热心的；激烈的'
 keywords = ['ai words', 'keen']
 +++
 
-## [Word](/en/post/word/): [Keen](/en/post/keen/)
+## [Word](/post/word/): [Keen](/post/keen/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kiːn/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) Having [or](/en/post/or/) showing [a](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [or](/en/post/or/) [interest](/en/post/interest/); [enthusiastic](/en/post/enthusiastic/) [or](/en/post/or/) [eager](/en/post/eager/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [keen](/en/post/keen/) [interest](/en/post/interest/) [in](/en/post/in/) astronomy."
-  - [Also](/en/post/also/), having [a](/en/post/a/) sharpness [or](/en/post/or/) acuteness, [especially](/en/post/especially/) [in](/en/post/in/) perception [or](/en/post/or/) intellect. [For](/en/post/for/) [instance](/en/post/instance/): "[A](/en/post/a/) [keen](/en/post/keen/) [observer](/en/post/observer/) [can](/en/post/can/) [spot](/en/post/spot/) [the](/en/post/the/) differences [easily](/en/post/easily/)."
+- **[Adjective](/post/adjective/)**: (adj) Having [or](/post/or/) showing [a](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [or](/post/or/) [interest](/post/interest/); [enthusiastic](/post/enthusiastic/) [or](/post/or/) [eager](/post/eager/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [keen](/post/keen/) [interest](/post/interest/) [in](/post/in/) astronomy."
+  - [Also](/post/also/), having [a](/post/a/) sharpness [or](/post/or/) acuteness, [especially](/post/especially/) [in](/post/in/) perception [or](/post/or/) intellect. [For](/post/for/) [instance](/post/instance/): "[A](/post/a/) [keen](/post/keen/) [observer](/post/observer/) [can](/post/can/) [spot](/post/spot/) [the](/post/the/) differences [easily](/post/easily/)."
   
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/); eagerness. [Example](/en/post/example/): "There's [a](/en/post/a/) [keen](/en/post/keen/) [sense](/en/post/sense/) [of](/en/post/of/) [competition](/en/post/competition/) [among](/en/post/among/) [the](/en/post/the/) [team](/en/post/team/) members."
-  - [In](/en/post/in/) [some](/en/post/some/) dialects, [it](/en/post/it/) [also](/en/post/also/) refers [to](/en/post/to/) [a](/en/post/a/) lamentation [or](/en/post/or/) [funeral](/en/post/funeral/) [song](/en/post/song/), [although](/en/post/although/) [this](/en/post/this/) [usage](/en/post/usage/) is [less](/en/post/less/) [common](/en/post/common/).
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [or](/post/or/) [enthusiasm](/post/enthusiasm/); eagerness. [Example](/post/example/): "There's [a](/post/a/) [keen](/post/keen/) [sense](/post/sense/) [of](/post/of/) [competition](/post/competition/) [among](/post/among/) [the](/post/the/) [team](/post/team/) members."
+  - [In](/post/in/) [some](/post/some/) dialects, [it](/post/it/) [also](/post/also/) refers [to](/post/to/) [a](/post/a/) lamentation [or](/post/or/) [funeral](/post/funeral/) [song](/post/song/), [although](/post/although/) [this](/post/this/) [usage](/post/usage/) is [less](/post/less/) [common](/post/common/).
 
-### [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) has [a](/en/post/a/) [keen](/en/post/keen/) [eye](/en/post/eye/) [for](/en/post/for/) [detail](/en/post/detail/) [and](/en/post/and/) [often](/en/post/often/) spots errors others [miss](/en/post/miss/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [keen](/en/post/keen/) [for](/en/post/for/) [adventure](/en/post/adventure/) led [her](/en/post/her/) [to](/en/post/to/) [travel](/en/post/travel/) [the](/en/post/the/) [world](/en/post/world/) [alone](/en/post/alone/)."
+### [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) has [a](/post/a/) [keen](/post/keen/) [eye](/post/eye/) [for](/post/for/) [detail](/post/detail/) [and](/post/and/) [often](/post/often/) spots errors others [miss](/post/miss/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [keen](/post/keen/) [for](/post/for/) [adventure](/post/adventure/) led [her](/post/her/) [to](/post/to/) [travel](/post/travel/) [the](/post/the/) [world](/post/world/) [alone](/post/alone/)."
 
 ## Phrases
-- "[Keen](/en/post/keen/) [on](/en/post/on/) [something](/en/post/something/)": [To](/en/post/to/) [be](/en/post/be/) [very](/en/post/very/) interested [or](/en/post/or/) [enthusiastic](/en/post/enthusiastic/) [about](/en/post/about/) [something](/en/post/something/). [Example](/en/post/example/): "She's [always](/en/post/always/) been [keen](/en/post/keen/) [on](/en/post/on/) trying [new](/en/post/new/) sports."
-- "[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [keen](/en/post/keen/) [sense](/en/post/sense/) [of](/en/post/of/) [something](/en/post/something/)": [To](/en/post/to/) [possess](/en/post/possess/) [a](/en/post/a/) heightened awareness [or](/en/post/or/) sensitivity towards [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) detective had [a](/en/post/a/) [keen](/en/post/keen/) [sense](/en/post/sense/) [of](/en/post/of/) [justice](/en/post/justice/)."
+- "[Keen](/post/keen/) [on](/post/on/) [something](/post/something/)": [To](/post/to/) [be](/post/be/) [very](/post/very/) interested [or](/post/or/) [enthusiastic](/post/enthusiastic/) [about](/post/about/) [something](/post/something/). [Example](/post/example/): "She's [always](/post/always/) been [keen](/post/keen/) [on](/post/on/) trying [new](/post/new/) sports."
+- "[To](/post/to/) [have](/post/have/) [a](/post/a/) [keen](/post/keen/) [sense](/post/sense/) [of](/post/of/) [something](/post/something/)": [To](/post/to/) [possess](/post/possess/) [a](/post/a/) heightened awareness [or](/post/or/) sensitivity towards [something](/post/something/). [Example](/post/example/): "[The](/post/the/) detective had [a](/post/a/) [keen](/post/keen/) [sense](/post/sense/) [of](/post/of/) [justice](/post/justice/)."
 
 ## Synonyms
-- [Adjective](/en/post/adjective/): [Enthusiastic](/en/post/enthusiastic/), avid, passionate, ardent, [zealous](/en/post/zealous/), fervent
-- [Noun](/en/post/noun/): [Interest](/en/post/interest/), [passion](/en/post/passion/), [enthusiasm](/en/post/enthusiasm/), [appetite](/en/post/appetite/), yearning
+- [Adjective](/post/adjective/): [Enthusiastic](/post/enthusiastic/), avid, passionate, ardent, [zealous](/post/zealous/), fervent
+- [Noun](/post/noun/): [Interest](/post/interest/), [passion](/post/passion/), [enthusiasm](/post/enthusiasm/), [appetite](/post/appetite/), yearning

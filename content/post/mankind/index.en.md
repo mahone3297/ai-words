@@ -7,30 +7,30 @@ description = '[mænˈkaind] n.人类'
 keywords = ['ai words', 'mankind']
 +++
 
-## [Word](/en/post/word/): [Mankind](/en/post/mankind/)
+## [Word](/post/word/): [Mankind](/post/mankind/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmæn.kɪnd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [human](/en/post/human/) [race](/en/post/race/) regarded collectively; [all](/en/post/all/) [human](/en/post/human/) beings regarded [as](/en/post/as/) [a](/en/post/a/) [group](/en/post/group/) sharing [common](/en/post/common/) characteristics [and](/en/post/and/) interests. [It](/en/post/it/) typically refers [to](/en/post/to/) humankind [without](/en/post/without/) gender differentiation.
+- **[Noun](/post/noun/)**: [The](/post/the/) [human](/post/human/) [race](/post/race/) regarded collectively; [all](/post/all/) [human](/post/human/) beings regarded [as](/post/as/) [a](/post/a/) [group](/post/group/) sharing [common](/post/common/) characteristics [and](/post/and/) interests. [It](/post/it/) typically refers [to](/post/to/) humankind [without](/post/without/) gender differentiation.
 
-[Example](/en/post/example/) Sentences:
-- _Mankind has achieved incredible advancements [in](/en/post/in/) [science](/en/post/science/) [and](/en/post/and/) [technology](/en/post/technology/)._
-- _The [future](/en/post/future/) [of](/en/post/of/) [mankind](/en/post/mankind/) depends [on](/en/post/on/) [our](/en/post/our/) [ability](/en/post/ability/) [to](/en/post/to/) [protect](/en/post/protect/) [the](/en/post/the/) [environment](/en/post/environment/)._
-- _Mankind's [curiosity](/en/post/curiosity/) [about](/en/post/about/) [space](/en/post/space/) exploration led [to](/en/post/to/) [numerous](/en/post/numerous/) missions [to](/en/post/to/) [the](/en/post/the/) [moon](/en/post/moon/)._
+[Example](/post/example/) Sentences:
+- _Mankind has achieved incredible advancements [in](/post/in/) [science](/post/science/) [and](/post/and/) [technology](/post/technology/)._
+- _The [future](/post/future/) [of](/post/of/) [mankind](/post/mankind/) depends [on](/post/on/) [our](/post/our/) [ability](/post/ability/) [to](/post/to/) [protect](/post/protect/) [the](/post/the/) [environment](/post/environment/)._
+- _Mankind's [curiosity](/post/curiosity/) [about](/post/about/) [space](/post/space/) exploration led [to](/post/to/) [numerous](/post/numerous/) missions [to](/post/to/) [the](/post/the/) [moon](/post/moon/)._
 
 ## Phrases
-- "[The](/en/post/the/) betterment [of](/en/post/of/) [mankind](/en/post/mankind/)": Refers [to](/en/post/to/) improving [the](/en/post/the/) conditions, [quality](/en/post/quality/) [of](/en/post/of/) [life](/en/post/life/), [or](/en/post/or/) [moral](/en/post/moral/) [state](/en/post/state/) [of](/en/post/of/) [all](/en/post/all/) [people](/en/post/people/).
-- "[The](/en/post/the/) [history](/en/post/history/) [of](/en/post/of/) [mankind](/en/post/mankind/)": Refers [to](/en/post/to/) [the](/en/post/the/) [collective](/en/post/collective/) [story](/en/post/story/) [or](/en/post/or/) [record](/en/post/record/) [of](/en/post/of/) [human](/en/post/human/) [existence](/en/post/existence/) [from](/en/post/from/) [its](/en/post/its/) earliest beginnings [to](/en/post/to/) [the](/en/post/the/) [present](/en/post/present/) [day](/en/post/day/).
+- "[The](/post/the/) betterment [of](/post/of/) [mankind](/post/mankind/)": Refers [to](/post/to/) improving [the](/post/the/) conditions, [quality](/post/quality/) [of](/post/of/) [life](/post/life/), [or](/post/or/) [moral](/post/moral/) [state](/post/state/) [of](/post/of/) [all](/post/all/) [people](/post/people/).
+- "[The](/post/the/) [history](/post/history/) [of](/post/of/) [mankind](/post/mankind/)": Refers [to](/post/to/) [the](/post/the/) [collective](/post/collective/) [story](/post/story/) [or](/post/or/) [record](/post/record/) [of](/post/of/) [human](/post/human/) [existence](/post/existence/) [from](/post/from/) [its](/post/its/) earliest beginnings [to](/post/to/) [the](/post/the/) [present](/post/present/) [day](/post/day/).
   
 ## Synonyms
 - Humanity
 - Humankind
-- [People](/en/post/people/)
-- [Human](/en/post/human/) [race](/en/post/race/)
-- [World](/en/post/world/)
-- [Society](/en/post/society/)
-- [Civilization](/en/post/civilization/)
-- Men [and](/en/post/and/) women ([used](/en/post/used/) [when](/en/post/when/) referring [to](/en/post/to/) [both](/en/post/both/) genders)
-- Homo sapiens ([in](/en/post/in/) [a](/en/post/a/) biological context)
+- [People](/post/people/)
+- [Human](/post/human/) [race](/post/race/)
+- [World](/post/world/)
+- [Society](/post/society/)
+- [Civilization](/post/civilization/)
+- Men [and](/post/and/) women ([used](/post/used/) [when](/post/when/) referring [to](/post/to/) [both](/post/both/) genders)
+- Homo sapiens ([in](/post/in/) [a](/post/a/) biological context)

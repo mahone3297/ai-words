@@ -11,20 +11,20 @@ keywords = ['ai words', 'vivid']
 /ˈvɪvɪd/
 
 ## 释义
-- **形容词**: 生动的，栩栩如生的，鲜明的。例如: "[The](/post/the/) [painting](/post/painting/) was [so](/post/so/) [vivid](/post/vivid/) [that](/post/that/) [it](/post/it/) felt [like](/post/like/) I [could](/post/could/) [step](/post/step/) [into](/post/into/) [it](/post/it/)."
-- **副词**: 生动地，鲜明地。例如: "[She](/post/she/) described [the](/post/the/) [scene](/post/scene/) [so](/post/so/) vividly [that](/post/that/) [we](/post/we/) [all](/post/all/) felt [we](/post/we/) were [there](/post/there/)."
+- **形容词**: 生动的，栩栩如生的，鲜明的。例如: "[The](/zh/post/the/) [painting](/zh/post/painting/) was [so](/zh/post/so/) [vivid](/zh/post/vivid/) [that](/zh/post/that/) [it](/zh/post/it/) felt [like](/zh/post/like/) I [could](/zh/post/could/) [step](/zh/post/step/) [into](/zh/post/into/) [it](/zh/post/it/)."
+- **副词**: 生动地，鲜明地。例如: "[She](/zh/post/she/) described [the](/zh/post/the/) [scene](/zh/post/scene/) [so](/zh/post/so/) vividly [that](/zh/post/that/) [we](/zh/post/we/) [all](/zh/post/all/) felt [we](/zh/post/we/) were [there](/zh/post/there/)."
 
 ## 短语
-- "[vivid](/post/vivid/) [imagination](/post/imagination/)" 意为丰富的想象力。
-- "[vivid](/post/vivid/) colors" 表示鲜艳的色彩。
+- "[vivid](/zh/post/vivid/) [imagination](/zh/post/imagination/)" 意为丰富的想象力。
+- "[vivid](/zh/post/vivid/) colors" 表示鲜艳的色彩。
 
 ## 例句
-- 形容词: "[The](/post/the/) [sunset](/post/sunset/) was [a](/post/a/) [vivid](/post/vivid/) [display](/post/display/) [of](/post/of/) [red](/post/red/) [and](/post/and/) [orange](/post/orange/) hues."
-- 副词: "[He](/post/he/) recalled [the](/post/the/) [event](/post/event/) [so](/post/so/) vividly [that](/post/that/) [every](/post/every/) [detail](/post/detail/) was etched [in](/post/in/) [his](/post/his/) [memory](/post/memory/)."
+- 形容词: "[The](/zh/post/the/) [sunset](/zh/post/sunset/) was [a](/zh/post/a/) [vivid](/zh/post/vivid/) [display](/zh/post/display/) [of](/zh/post/of/) [red](/zh/post/red/) [and](/zh/post/and/) [orange](/zh/post/orange/) hues."
+- 副词: "[He](/zh/post/he/) recalled [the](/zh/post/the/) [event](/zh/post/event/) [so](/zh/post/so/) vividly [that](/zh/post/that/) [every](/zh/post/every/) [detail](/zh/post/detail/) was etched [in](/zh/post/in/) [his](/zh/post/his/) [memory](/zh/post/memory/)."
 
 ## 同义词
-- [Bright](/post/bright/)
+- [Bright](/zh/post/bright/)
 - Colorful
 - Graphic
-- [Lively](/post/lively/)
+- [Lively](/zh/post/lively/)
 - Realistic

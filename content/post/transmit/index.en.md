@@ -7,33 +7,33 @@ description = '[trænzˈmit] vt.传送，传达；发射'
 keywords = ['ai words', 'transmit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtrænsmɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: ([transmit](/en/post/transmit/)) 
-  - **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) conveying [information](/en/post/information/), [energy](/en/post/energy/), [or](/en/post/or/) signals [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [or](/en/post/or/) [medium](/en/post/medium/) [to](/en/post/to/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[Radio](/en/post/radio/) stations [transmit](/en/post/transmit/) [music](/en/post/music/) [to](/en/post/to/) listeners."
-  - **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [transmission](/en/post/transmission/); transmitting. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wireless](/en/post/wireless/) [signal](/en/post/signal/) has [a](/en/post/a/) high-transmit [power](/en/post/power/)."
+- **[Verb](/post/verb/)**: ([transmit](/post/transmit/)) 
+  - **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) conveying [information](/post/information/), [energy](/post/energy/), [or](/post/or/) signals [from](/post/from/) [one](/post/one/) [place](/post/place/) [or](/post/or/) [medium](/post/medium/) [to](/post/to/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "[Radio](/post/radio/) stations [transmit](/post/transmit/) [music](/post/music/) [to](/post/to/) listeners."
+  - **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [transmission](/post/transmission/); transmitting. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wireless](/post/wireless/) [signal](/post/signal/) has [a](/post/a/) high-transmit [power](/post/power/)."
 
 ## Phrases
-- "[Transmit](/en/post/transmit/) [a](/en/post/a/) [message](/en/post/message/)" [means](/en/post/means/) [to](/en/post/to/) [send](/en/post/send/) [a](/en/post/a/) [communication](/en/post/communication/).
-- "[Transmit](/en/post/transmit/) [data](/en/post/data/)" refers [to](/en/post/to/) sending [digital](/en/post/digital/) [information](/en/post/information/).
-- "[Transmit](/en/post/transmit/) [electricity](/en/post/electricity/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) transmitting [electrical](/en/post/electrical/) [energy](/en/post/energy/).
+- "[Transmit](/post/transmit/) [a](/post/a/) [message](/post/message/)" [means](/post/means/) [to](/post/to/) [send](/post/send/) [a](/post/a/) [communication](/post/communication/).
+- "[Transmit](/post/transmit/) [data](/post/data/)" refers [to](/post/to/) sending [digital](/post/digital/) [information](/post/information/).
+- "[Transmit](/post/transmit/) [electricity](/post/electricity/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) transmitting [electrical](/post/electrical/) [energy](/post/energy/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [satellite](/en/post/satellite/) transmits [live](/en/post/live/) [television](/en/post/television/) signals [to](/en/post/to/) homes [across](/en/post/across/) [the](/en/post/the/) [country](/en/post/country/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [radio](/en/post/radio/) [tower](/en/post/tower/) transmits [a](/en/post/a/) [strong](/en/post/strong/) [signal](/en/post/signal/) [throughout](/en/post/throughout/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) router has [a](/en/post/a/) high-transmit [speed](/en/post/speed/), allowing [for](/en/post/for/) faster internet [connection](/en/post/connection/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [satellite](/post/satellite/) transmits [live](/post/live/) [television](/post/television/) signals [to](/post/to/) homes [across](/post/across/) [the](/post/the/) [country](/post/country/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [radio](/post/radio/) [tower](/post/tower/) transmits [a](/post/a/) [strong](/post/strong/) [signal](/post/signal/) [throughout](/post/throughout/) [the](/post/the/) [city](/post/city/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) router has [a](/post/a/) high-transmit [speed](/post/speed/), allowing [for](/post/for/) faster internet [connection](/post/connection/)."
 
 ## Synonyms
-- [Transmit](/en/post/transmit/) ([no](/en/post/no/) synonyms, [as](/en/post/as/) [it](/en/post/it/) is [a](/en/post/a/) [technical](/en/post/technical/) [term](/en/post/term/))
-- [Broadcast](/en/post/broadcast/)
-- [Send](/en/post/send/)
-- [Convey](/en/post/convey/)
-- [Pass](/en/post/pass/) ([information](/en/post/information/))
-- [Transmit](/en/post/transmit/) ([noun](/en/post/noun/)) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) replaced [with](/en/post/with/) "[signal](/en/post/signal/)" [or](/en/post/or/) "[broadcast](/en/post/broadcast/)"
+- [Transmit](/post/transmit/) ([no](/post/no/) synonyms, [as](/post/as/) [it](/post/it/) is [a](/post/a/) [technical](/post/technical/) [term](/post/term/))
+- [Broadcast](/post/broadcast/)
+- [Send](/post/send/)
+- [Convey](/post/convey/)
+- [Pass](/post/pass/) ([information](/post/information/))
+- [Transmit](/post/transmit/) ([noun](/post/noun/)) [can](/post/can/) [also](/post/also/) [be](/post/be/) replaced [with](/post/with/) "[signal](/post/signal/)" [or](/post/or/) "[broadcast](/post/broadcast/)"
 
 ## Antonyms
-- [Receive](/en/post/receive/)
-- [Block](/en/post/block/)
-- [Interrupt](/en/post/interrupt/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) preventing [transmission](/en/post/transmission/))
+- [Receive](/post/receive/)
+- [Block](/post/block/)
+- [Interrupt](/post/interrupt/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) preventing [transmission](/post/transmission/))

@@ -7,35 +7,35 @@ description = '[ˌjuərəˈpi(ː)ən] a.欧洲的 n.欧洲人'
 keywords = ['ai words', 'European']
 +++
 
-## [Word](/en/post/word/): European
+## [Word](/post/word/): European
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /jʊˈrəʊpɪən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [a](/en/post/a/) [native](/en/post/native/) [or](/en/post/or/) [inhabitant](/en/post/inhabitant/) [of](/en/post/of/) Europe, [or](/en/post/or/) [of](/en/post/of/) European descent. [For](/en/post/for/) [example](/en/post/example/): "[Many](/en/post/many/) Europeans [travel](/en/post/travel/) [to](/en/post/to/) [different](/en/post/different/) countries [within](/en/post/within/) [the](/en/post/the/) [continent](/en/post/continent/) [without](/en/post/without/) needing [a](/en/post/a/) visa."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) Europe [or](/en/post/or/) [its](/en/post/its/) [people](/en/post/people/), [culture](/en/post/culture/), [or](/en/post/or/) languages. [For](/en/post/for/) [example](/en/post/example/): "European cuisine varies [greatly](/en/post/greatly/) [from](/en/post/from/) [country](/en/post/country/) [to](/en/post/to/) [country](/en/post/country/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [a](/post/a/) [native](/post/native/) [or](/post/or/) [inhabitant](/post/inhabitant/) [of](/post/of/) Europe, [or](/post/or/) [of](/post/of/) European descent. [For](/post/for/) [example](/post/example/): "[Many](/post/many/) Europeans [travel](/post/travel/) [to](/post/to/) [different](/post/different/) countries [within](/post/within/) [the](/post/the/) [continent](/post/continent/) [without](/post/without/) needing [a](/post/a/) visa."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) Europe [or](/post/or/) [its](/post/its/) [people](/post/people/), [culture](/post/culture/), [or](/post/or/) languages. [For](/post/for/) [example](/post/example/): "European cuisine varies [greatly](/post/greatly/) [from](/post/from/) [country](/post/country/) [to](/post/to/) [country](/post/country/)."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- "[The](/en/post/the/) European [Union](/en/post/union/) consists [of](/en/post/of/) 27 [member](/en/post/member/) states working [together](/en/post/together/) [on](/en/post/on/) [economic](/en/post/economic/) [and](/en/post/and/) [political](/en/post/political/) matters."
-- "[She](/en/post/she/) has [a](/en/post/a/) [diverse](/en/post/diverse/) [group](/en/post/group/) [of](/en/post/of/) friends, including [several](/en/post/several/) Europeans [from](/en/post/from/) [various](/en/post/various/) countries."
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- "[The](/post/the/) European [Union](/post/union/) consists [of](/post/of/) 27 [member](/post/member/) states working [together](/post/together/) [on](/post/on/) [economic](/post/economic/) [and](/post/and/) [political](/post/political/) matters."
+- "[She](/post/she/) has [a](/post/a/) [diverse](/post/diverse/) [group](/post/group/) [of](/post/of/) friends, including [several](/post/several/) Europeans [from](/post/from/) [various](/post/various/) countries."
 
-### [Adjective](/en/post/adjective/) [Usage](/en/post/usage/) Examples
-- "European [art](/en/post/art/) [history](/en/post/history/) is [rich](/en/post/rich/) [with](/en/post/with/) masterpieces [by](/en/post/by/) renowned painters [like](/en/post/like/) Rembrandt [and](/en/post/and/) da Vinci."
-- "[The](/en/post/the/) European [Parliament](/en/post/parliament/) is [responsible](/en/post/responsible/) [for](/en/post/for/) making laws [that](/en/post/that/) [impact](/en/post/impact/) [all](/en/post/all/) EU citizens."
+### [Adjective](/post/adjective/) [Usage](/post/usage/) Examples
+- "European [art](/post/art/) [history](/post/history/) is [rich](/post/rich/) [with](/post/with/) masterpieces [by](/post/by/) renowned painters [like](/post/like/) Rembrandt [and](/post/and/) da Vinci."
+- "[The](/post/the/) European [Parliament](/post/parliament/) is [responsible](/post/responsible/) [for](/post/for/) making laws [that](/post/that/) [impact](/post/impact/) [all](/post/all/) EU citizens."
 
 ## Phrases
-- "European [Union](/en/post/union/)" - An [economic](/en/post/economic/) [and](/en/post/and/) [political](/en/post/political/) [union](/en/post/union/) consisting [of](/en/post/of/) 27 European countries.
-- "European heritage" - [The](/en/post/the/) traditions, cultural legacies, [and](/en/post/and/) [historical](/en/post/historical/) artefacts [of](/en/post/of/) European nations.
-- "European languages" - Refers [to](/en/post/to/) [the](/en/post/the/) [many](/en/post/many/) languages spoken [across](/en/post/across/) Europe, [such](/en/post/such/) [as](/en/post/as/) English, French, German, Italian, [and](/en/post/and/) Spanish.
+- "European [Union](/post/union/)" - An [economic](/post/economic/) [and](/post/and/) [political](/post/political/) [union](/post/union/) consisting [of](/post/of/) 27 European countries.
+- "European heritage" - [The](/post/the/) traditions, cultural legacies, [and](/post/and/) [historical](/post/historical/) artefacts [of](/post/of/) European nations.
+- "European languages" - Refers [to](/post/to/) [the](/post/the/) [many](/post/many/) languages spoken [across](/post/across/) Europe, [such](/post/such/) [as](/post/as/) English, French, German, Italian, [and](/post/and/) Spanish.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) grandparents were Europeans [who](/en/post/who/) migrated [to](/en/post/to/) [the](/en/post/the/) United States [during](/en/post/during/) [World](/en/post/world/) [War](/en/post/war/) II."
-- **[Adjective](/en/post/adjective/)**: "European [architecture](/en/post/architecture/) [can](/en/post/can/) [be](/en/post/be/) seen [in](/en/post/in/) [the](/en/post/the/) Gothic cathedrals [and](/en/post/and/) Baroque palaces [throughout](/en/post/throughout/) [the](/en/post/the/) [continent](/en/post/continent/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) grandparents were Europeans [who](/post/who/) migrated [to](/post/to/) [the](/post/the/) United States [during](/post/during/) [World](/post/world/) [War](/post/war/) II."
+- **[Adjective](/post/adjective/)**: "European [architecture](/post/architecture/) [can](/post/can/) [be](/post/be/) seen [in](/post/in/) [the](/post/the/) Gothic cathedrals [and](/post/and/) Baroque palaces [throughout](/post/throughout/) [the](/post/the/) [continent](/post/continent/)."
 
 ## Synonyms
-- Continental ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) referring [to](/en/post/to/) Europe)
-- Europan ([less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/) [alternative](/en/post/alternative/) [form](/en/post/form/))
-- Europian (archaic [or](/en/post/or/) non-standard [spelling](/en/post/spelling/))
+- Continental ([when](/post/when/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) referring [to](/post/to/) Europe)
+- Europan ([less](/post/less/) [commonly](/post/commonly/) [used](/post/used/) [alternative](/post/alternative/) [form](/post/form/))
+- Europian (archaic [or](/post/or/) non-standard [spelling](/post/spelling/))
 
-[Note](/en/post/note/): [As](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), "European" does [not](/en/post/not/) [have](/en/post/have/) [direct](/en/post/direct/) synonyms [that](/en/post/that/) [convey](/en/post/convey/) [the](/en/post/the/) [exact](/en/post/exact/) [same](/en/post/same/) [meaning](/en/post/meaning/); [however](/en/post/however/), [when](/en/post/when/) referring [to](/en/post/to/) [people](/en/post/people/) [from](/en/post/from/) [specific](/en/post/specific/) regions [or](/en/post/or/) countries [within](/en/post/within/) Europe, [one](/en/post/one/) [might](/en/post/might/) [use](/en/post/use/) nationalities (e.g., Italian, German, Spanish). [As](/en/post/as/) an [adjective](/en/post/adjective/), "continental" [can](/en/post/can/) [sometimes](/en/post/sometimes/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [a](/en/post/a/) broader [sense](/en/post/sense/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) things related [to](/en/post/to/) [mainland](/en/post/mainland/) Europe, [but](/en/post/but/) [it](/en/post/it/) doesn't [exclusively](/en/post/exclusively/) [mean](/en/post/mean/) 'European'.
+[Note](/post/note/): [As](/post/as/) [a](/post/a/) [noun](/post/noun/), "European" does [not](/post/not/) [have](/post/have/) [direct](/post/direct/) synonyms [that](/post/that/) [convey](/post/convey/) [the](/post/the/) [exact](/post/exact/) [same](/post/same/) [meaning](/post/meaning/); [however](/post/however/), [when](/post/when/) referring [to](/post/to/) [people](/post/people/) [from](/post/from/) [specific](/post/specific/) regions [or](/post/or/) countries [within](/post/within/) Europe, [one](/post/one/) [might](/post/might/) [use](/post/use/) nationalities (e.g., Italian, German, Spanish). [As](/post/as/) an [adjective](/post/adjective/), "continental" [can](/post/can/) [sometimes](/post/sometimes/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [a](/post/a/) broader [sense](/post/sense/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) things related [to](/post/to/) [mainland](/post/mainland/) Europe, [but](/post/but/) [it](/post/it/) doesn't [exclusively](/post/exclusively/) [mean](/post/mean/) 'European'.

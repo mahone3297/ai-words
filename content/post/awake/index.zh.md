@@ -11,22 +11,22 @@ keywords = ['ai words', 'awake']
 /əˈweɪk/
 
 ## 释义
-- **形容词**: 清醒的，未睡的。例如: "I was [awake](/post/awake/) [all](/post/all/) [night](/post/night/) thinking [about](/post/about/) [the](/post/the/) [problem](/post/problem/)."
-- **动词**: 使醒来，唤醒。例如: "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) [the](/post/the/) [alarm](/post/alarm/) [clock](/post/clock/) woke [me](/post/me/) [up](/post/up/)."
-- **副词**: 清醒地，警觉地。例如: "[He](/post/he/) listened [awake](/post/awake/) [for](/post/for/) [any](/post/any/) signs [of](/post/of/) [danger](/post/danger/)."
+- **形容词**: 清醒的，未睡的。例如: "I was [awake](/zh/post/awake/) [all](/zh/post/all/) [night](/zh/post/night/) thinking [about](/zh/post/about/) [the](/zh/post/the/) [problem](/zh/post/problem/)."
+- **动词**: 使醒来，唤醒。例如: "[The](/zh/post/the/) [sound](/zh/post/sound/) [of](/zh/post/of/) [the](/zh/post/the/) [alarm](/zh/post/alarm/) [clock](/zh/post/clock/) woke [me](/zh/post/me/) [up](/zh/post/up/)."
+- **副词**: 清醒地，警觉地。例如: "[He](/zh/post/he/) listened [awake](/zh/post/awake/) [for](/zh/post/for/) [any](/zh/post/any/) signs [of](/zh/post/of/) [danger](/zh/post/danger/)."
 
 ## 短语
-- "[Wake](/post/wake/) [somebody](/post/somebody/) [up](/post/up/)" 意味着叫醒某人。
-- "[Awake](/post/awake/) [and](/post/and/) alert" 表示清醒且警觉的状态。
+- "[Wake](/zh/post/wake/) [somebody](/zh/post/somebody/) [up](/zh/post/up/)" 意味着叫醒某人。
+- "[Awake](/zh/post/awake/) [and](/zh/post/and/) alert" 表示清醒且警觉的状态。
 
 ## 例句
-- 形容词: "[She](/post/she/) was [still](/post/still/) [awake](/post/awake/) [when](/post/when/) [he](/post/he/) came [back](/post/back/) [from](/post/from/) [work](/post/work/)."
-- 动词: "Don't [wake](/post/wake/) [the](/post/the/) [baby](/post/baby/); [they](/post/they/) [just](/post/just/) fell [asleep](/post/asleep/)."
-- 副词: "[The](/post/the/) [security](/post/security/) [guard](/post/guard/) sat [awake](/post/awake/) [in](/post/in/) [his](/post/his/) [booth](/post/booth/), watching [the](/post/the/) monitors [closely](/post/closely/)."
+- 形容词: "[She](/zh/post/she/) was [still](/zh/post/still/) [awake](/zh/post/awake/) [when](/zh/post/when/) [he](/zh/post/he/) came [back](/zh/post/back/) [from](/zh/post/from/) [work](/zh/post/work/)."
+- 动词: "Don't [wake](/zh/post/wake/) [the](/zh/post/the/) [baby](/zh/post/baby/); [they](/zh/post/they/) [just](/zh/post/just/) fell [asleep](/zh/post/asleep/)."
+- 副词: "[The](/zh/post/the/) [security](/zh/post/security/) [guard](/zh/post/guard/) sat [awake](/zh/post/awake/) [in](/zh/post/in/) [his](/zh/post/his/) [booth](/zh/post/booth/), watching [the](/zh/post/the/) monitors [closely](/zh/post/closely/)."
 
 ## 同义词
 - Alert
-- [Conscious](/post/conscious/)
-- [Wide](/post/wide/) [awake](/post/awake/)
+- [Conscious](/zh/post/conscious/)
+- [Wide](/zh/post/wide/) [awake](/zh/post/awake/)
 -惺忪 (adj., 中国用法，表示刚睡醒的样子)
 - 醒来 (v., 中国用法)

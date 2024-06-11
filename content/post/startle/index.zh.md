@@ -11,20 +11,20 @@ keywords = ['ai words', 'startle']
 /startl/
 
 ## 释义
-- **动词**: 使惊吓；突然吓到。例如: "[The](/post/the/) [sudden](/post/sudden/) [noise](/post/noise/) startled [the](/post/the/) [horse](/post/horse/)."
-- **名词**: 惊吓；受惊。例如: "[The](/post/the/) [child](/post/child/) gave [a](/post/a/) [startle](/post/startle/) [when](/post/when/) [the](/post/the/) [door](/post/door/) slammed [shut](/post/shut/)."
+- **动词**: 使惊吓；突然吓到。例如: "[The](/zh/post/the/) [sudden](/zh/post/sudden/) [noise](/zh/post/noise/) startled [the](/zh/post/the/) [horse](/zh/post/horse/)."
+- **名词**: 惊吓；受惊。例如: "[The](/zh/post/the/) [child](/zh/post/child/) gave [a](/zh/post/a/) [startle](/zh/post/startle/) [when](/zh/post/when/) [the](/zh/post/the/) [door](/zh/post/door/) slammed [shut](/zh/post/shut/)."
 
 ## 短语
-- "[to](/post/to/) [give](/post/give/) [someone](/post/someone/) [a](/post/a/) [startle](/post/startle/)" 意味着让某人吃一惊。
-- "startled [look](/post/look/)" 指的是因惊吓而露出的表情。
+- "[to](/zh/post/to/) [give](/zh/post/give/) [someone](/zh/post/someone/) [a](/zh/post/a/) [startle](/zh/post/startle/)" 意味着让某人吃一惊。
+- "startled [look](/zh/post/look/)" 指的是因惊吓而露出的表情。
 
 ## 例句
-- 动词: "[The](/post/the/) [loud](/post/loud/) [noise](/post/noise/) startled [the](/post/the/) [baby](/post/baby/), making [it](/post/it/) [cry](/post/cry/)."
-- 名词: "[She](/post/she/) wore [a](/post/a/) [startle](/post/startle/) [on](/post/on/) [her](/post/her/) [face](/post/face/) [after](/post/after/) hearing [the](/post/the/) [unexpected](/post/unexpected/) [news](/post/news/)."
+- 动词: "[The](/zh/post/the/) [loud](/zh/post/loud/) [noise](/zh/post/noise/) startled [the](/zh/post/the/) [baby](/zh/post/baby/), making [it](/zh/post/it/) [cry](/zh/post/cry/)."
+- 名词: "[She](/zh/post/she/) wore [a](/zh/post/a/) [startle](/zh/post/startle/) [on](/zh/post/on/) [her](/zh/post/her/) [face](/zh/post/face/) [after](/zh/post/after/) hearing [the](/zh/post/the/) [unexpected](/zh/post/unexpected/) [news](/zh/post/news/)."
 
 ## 同义词
-- [shock](/post/shock/)
-- [frighten](/post/frighten/)
-- [alarm](/post/alarm/)
-- [surprise](/post/surprise/)
+- [shock](/zh/post/shock/)
+- [frighten](/zh/post/frighten/)
+- [alarm](/zh/post/alarm/)
+- [surprise](/zh/post/surprise/)
 - jolt

@@ -12,20 +12,20 @@ keywords = ['ai words', 'finding']
 
 ## 释义
 - **名词**: 
-    - 结果，发现：[The](/post/the/) [result](/post/result/) [or](/post/or/) [discovery](/post/discovery/) [of](/post/of/) an [investigation](/post/investigation/) [or](/post/or/) [search](/post/search/). 例如: "The考古学家的最新finding揭示了古代文明的秘密。"
-    - 观察结果，结论：[A](/post/a/) [conclusion](/post/conclusion/) reached [after](/post/after/) [observation](/post/observation/) [or](/post/or/) [study](/post/study/). 例如: "[Their](/post/their/) [finding](/post/finding/) suggested [that](/post/that/) [the](/post/the/) [treatment](/post/treatment/) was [effective](/post/effective/)."
+    - 结果，发现：[The](/zh/post/the/) [result](/zh/post/result/) [or](/zh/post/or/) [discovery](/zh/post/discovery/) [of](/zh/post/of/) an [investigation](/zh/post/investigation/) [or](/zh/post/or/) [search](/zh/post/search/). 例如: "The考古学家的最新finding揭示了古代文明的秘密。"
+    - 观察结果，结论：[A](/zh/post/a/) [conclusion](/zh/post/conclusion/) reached [after](/zh/post/after/) [observation](/zh/post/observation/) [or](/zh/post/or/) [study](/zh/post/study/). 例如: "[Their](/zh/post/their/) [finding](/zh/post/finding/) suggested [that](/zh/post/that/) [the](/zh/post/the/) [treatment](/zh/post/treatment/) was [effective](/zh/post/effective/)."
 
 ## 短语
-- "[major](/post/major/) [finding](/post/finding/)" 主要发现
-- "empirical [finding](/post/finding/)" 实证发现
+- "[major](/zh/post/major/) [finding](/zh/post/finding/)" 主要发现
+- "empirical [finding](/zh/post/finding/)" 实证发现
 
 ## 例句
-- "[The](/post/the/) [scientific](/post/scientific/) [paper](/post/paper/) presented [several](/post/several/) groundbreaking findings [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) genetics."
-- "[After](/post/after/) analyzing [the](/post/the/) [data](/post/data/), [they](/post/they/) made an [important](/post/important/) [finding](/post/finding/) [about](/post/about/) consumer [behavior](/post/behavior/)."
+- "[The](/zh/post/the/) [scientific](/zh/post/scientific/) [paper](/zh/post/paper/) presented [several](/zh/post/several/) groundbreaking findings [in](/zh/post/in/) [the](/zh/post/the/) [field](/zh/post/field/) [of](/zh/post/of/) genetics."
+- "[After](/zh/post/after/) analyzing [the](/zh/post/the/) [data](/zh/post/data/), [they](/zh/post/they/) made an [important](/zh/post/important/) [finding](/zh/post/finding/) [about](/zh/post/about/) consumer [behavior](/zh/post/behavior/)."
 
 ## 同义词
-- [discovery](/post/discovery/)
-- [result](/post/result/)
-- [outcome](/post/outcome/)
+- [discovery](/zh/post/discovery/)
+- [result](/zh/post/result/)
+- [outcome](/zh/post/outcome/)
 - revelation
-- [conclusion](/post/conclusion/)
+- [conclusion](/zh/post/conclusion/)

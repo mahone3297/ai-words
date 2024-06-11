@@ -7,36 +7,36 @@ description = '[ˈkeipəbl] a.有能力的，有才能的'
 keywords = ['ai words', 'capable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈpæbl/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **[Meaning](/en/post/meaning/)**: Having [the](/en/post/the/) [ability](/en/post/ability/), [skill](/en/post/skill/), [or](/en/post/or/) [power](/en/post/power/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/); [competent](/en/post/competent/) [or](/en/post/or/) proficient. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [robot](/en/post/robot/) is [capable](/en/post/capable/) [of](/en/post/of/) performing [complex](/en/post/complex/) tasks."
+### [Adjective](/post/adjective/)
+- **[Meaning](/post/meaning/)**: Having [the](/post/the/) [ability](/post/ability/), [skill](/post/skill/), [or](/post/or/) [power](/post/power/) [to](/post/to/) [do](/post/do/) [something](/post/something/); [competent](/post/competent/) [or](/post/or/) proficient. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [robot](/post/robot/) is [capable](/post/capable/) [of](/post/of/) performing [complex](/post/complex/) tasks."
 - **Antonyms**: Incapable, Incompetent, Unskilled
 
-### [Verb](/en/post/verb/)
-- **[Meaning](/en/post/meaning/)**: [Be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/) [do](/en/post/do/) [or](/en/post/or/) [accomplish](/en/post/accomplish/) [something](/en/post/something/); [have](/en/post/have/) [the](/en/post/the/) [capacity](/en/post/capacity/) [or](/en/post/or/) [potential](/en/post/potential/) [to](/en/post/to/) [perform](/en/post/perform/) an [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is [capable](/en/post/capable/) [of](/en/post/of/) [learning](/en/post/learning/) [a](/en/post/a/) [new](/en/post/new/) [language](/en/post/language/) [quickly](/en/post/quickly/)."
-- **Antonyms**: [Unable](/en/post/unable/), Incapable, Incapitated
+### [Verb](/post/verb/)
+- **[Meaning](/post/meaning/)**: [Be](/post/be/) [able](/post/able/) [to](/post/to/) [do](/post/do/) [or](/post/or/) [accomplish](/post/accomplish/) [something](/post/something/); [have](/post/have/) [the](/post/the/) [capacity](/post/capacity/) [or](/post/or/) [potential](/post/potential/) [to](/post/to/) [perform](/post/perform/) an [action](/post/action/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) is [capable](/post/capable/) [of](/post/of/) [learning](/post/learning/) [a](/post/a/) [new](/post/new/) [language](/post/language/) [quickly](/post/quickly/)."
+- **Antonyms**: [Unable](/post/unable/), Incapable, Incapitated
 
 ## Phrases
-- "[Be](/en/post/be/) [capable](/en/post/capable/) [of](/en/post/of/)" expresses [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) is [capable](/en/post/capable/) [of](/en/post/of/) solving [complex](/en/post/complex/) math problems."
-- "[Capable](/en/post/capable/) [person](/en/post/person/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) has [the](/en/post/the/) [necessary](/en/post/necessary/) skills [or](/en/post/or/) abilities. [For](/en/post/for/) [example](/en/post/example/): "She's [a](/en/post/a/) [highly](/en/post/highly/) [capable](/en/post/capable/) manager."
-- "[Not](/en/post/not/) [capable](/en/post/capable/) [of](/en/post/of/)" negates [the](/en/post/the/) [ability](/en/post/ability/), [like](/en/post/like/) "[He](/en/post/he/) isn't [capable](/en/post/capable/) [of](/en/post/of/) lifting [that](/en/post/that/) [heavy](/en/post/heavy/) [weight](/en/post/weight/)."
+- "[Be](/post/be/) [capable](/post/capable/) [of](/post/of/)" expresses [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [do](/post/do/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) is [capable](/post/capable/) [of](/post/of/) solving [complex](/post/complex/) math problems."
+- "[Capable](/post/capable/) [person](/post/person/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) has [the](/post/the/) [necessary](/post/necessary/) skills [or](/post/or/) abilities. [For](/post/for/) [example](/post/example/): "She's [a](/post/a/) [highly](/post/highly/) [capable](/post/capable/) manager."
+- "[Not](/post/not/) [capable](/post/capable/) [of](/post/of/)" negates [the](/post/the/) [ability](/post/ability/), [like](/post/like/) "[He](/post/he/) isn't [capable](/post/capable/) [of](/post/of/) lifting [that](/post/that/) [heavy](/post/heavy/) [weight](/post/weight/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) is [a](/en/post/a/) [highly](/en/post/highly/) [capable](/en/post/capable/) [musician](/en/post/musician/), [able](/en/post/able/) [to](/en/post/to/) [play](/en/post/play/) [multiple](/en/post/multiple/) instruments."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [training](/en/post/training/), [he](/en/post/he/) became [capable](/en/post/capable/) [of](/en/post/of/) running [a](/en/post/a/) marathon."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) demonstrated [her](/en/post/her/) [capable](/en/post/capable/) [management](/en/post/management/) [by](/en/post/by/) handling [the](/en/post/the/) [crisis](/en/post/crisis/) efficiently."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) is [a](/post/a/) [highly](/post/highly/) [capable](/post/capable/) [musician](/post/musician/), [able](/post/able/) [to](/post/to/) [play](/post/play/) [multiple](/post/multiple/) instruments."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) [training](/post/training/), [he](/post/he/) became [capable](/post/capable/) [of](/post/of/) running [a](/post/a/) marathon."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) demonstrated [her](/post/her/) [capable](/post/capable/) [management](/post/management/) [by](/post/by/) handling [the](/post/the/) [crisis](/post/crisis/) efficiently."
 
 ## Synonyms
-- [Able](/en/post/able/)
-- [Competent](/en/post/competent/)
+- [Able](/post/able/)
+- [Competent](/post/competent/)
 - Proficient
-- [Skilled](/en/post/skilled/)
+- [Skilled](/post/skilled/)
 - Capable-bodied
 - Potent
-- [Effective](/en/post/effective/)
+- [Effective](/post/effective/)
 
 ## Antonyms
 - Incapable

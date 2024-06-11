@@ -7,32 +7,32 @@ description = '[ˈ(h)weðə] conj.是否'
 keywords = ['ai words', 'whether']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwaɪðər/
 
 ## Definitions
-### [Adverb](/en/post/adverb/)
-- Refers [to](/en/post/to/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) "[if](/en/post/if/)" [or](/en/post/or/) "[whether](/en/post/whether/)" [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [choice](/en/post/choice/) [or](/en/post/or/) uncertainty, typically followed [by](/en/post/by/) "[or](/en/post/or/)". [For](/en/post/for/) [example](/en/post/example/): "I don't [know](/en/post/know/) [whether](/en/post/whether/) [to](/en/post/to/) [go](/en/post/go/) [or](/en/post/or/) [stay](/en/post/stay/)."
-- Expresses [doubt](/en/post/doubt/) [or](/en/post/or/) indecision, [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) questions [or](/en/post/or/) clauses [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) replaced [with](/en/post/with/) "[if](/en/post/if/)". [For](/en/post/for/) [example](/en/post/example/): "[Whether](/en/post/whether/) [it](/en/post/it/) rains [or](/en/post/or/) [not](/en/post/not/), we'll [have](/en/post/have/) [a](/en/post/a/) [picnic](/en/post/picnic/)."
+### [Adverb](/post/adverb/)
+- Refers [to](/post/to/) [the](/post/the/) [use](/post/use/) [of](/post/of/) "[if](/post/if/)" [or](/post/or/) "[whether](/post/whether/)" [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [choice](/post/choice/) [or](/post/or/) uncertainty, typically followed [by](/post/by/) "[or](/post/or/)". [For](/post/for/) [example](/post/example/): "I don't [know](/post/know/) [whether](/post/whether/) [to](/post/to/) [go](/post/go/) [or](/post/or/) [stay](/post/stay/)."
+- Expresses [doubt](/post/doubt/) [or](/post/or/) indecision, [often](/post/often/) [used](/post/used/) [in](/post/in/) questions [or](/post/or/) clauses [that](/post/that/) [can](/post/can/) [be](/post/be/) replaced [with](/post/with/) "[if](/post/if/)". [For](/post/for/) [example](/post/example/): "[Whether](/post/whether/) [it](/post/it/) rains [or](/post/or/) [not](/post/not/), we'll [have](/post/have/) [a](/post/a/) [picnic](/post/picnic/)."
 
 ## Phrases
-- "[It](/en/post/it/) doesn't [matter](/en/post/matter/) [whether](/en/post/whether/)" suggests indifference [to](/en/post/to/) [the](/en/post/the/) [outcome](/en/post/outcome/).
-- "[Whether](/en/post/whether/) [you](/en/post/you/) [come](/en/post/come/) [or](/en/post/or/) [not](/en/post/not/)" implies [that](/en/post/that/) participation is [optional](/en/post/optional/).
-- "I [wonder](/en/post/wonder/) [whether](/en/post/whether/)" expresses [curiosity](/en/post/curiosity/) [or](/en/post/or/) speculation.
+- "[It](/post/it/) doesn't [matter](/post/matter/) [whether](/post/whether/)" suggests indifference [to](/post/to/) [the](/post/the/) [outcome](/post/outcome/).
+- "[Whether](/post/whether/) [you](/post/you/) [come](/post/come/) [or](/post/or/) [not](/post/not/)" implies [that](/post/that/) participation is [optional](/post/optional/).
+- "I [wonder](/post/wonder/) [whether](/post/whether/)" expresses [curiosity](/post/curiosity/) [or](/post/or/) speculation.
 
-## [Example](/en/post/example/) Sentences
-- "I can't [decide](/en/post/decide/) [whether](/en/post/whether/) [to](/en/post/to/) [wear](/en/post/wear/) [my](/en/post/my/) [new](/en/post/new/) [dress](/en/post/dress/) [or](/en/post/or/) jeans [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/)."
-- "[Whether](/en/post/whether/) [he](/en/post/he/) comes [or](/en/post/or/) [not](/en/post/not/), [the](/en/post/the/) [meeting](/en/post/meeting/) [will](/en/post/will/) [proceed](/en/post/proceed/)."
-- "[She](/en/post/she/) asked [whether](/en/post/whether/) [they](/en/post/they/) [would](/en/post/would/) [be](/en/post/be/) arriving [early](/en/post/early/) [or](/en/post/or/) [on](/en/post/on/) [time](/en/post/time/)."
+## [Example](/post/example/) Sentences
+- "I can't [decide](/post/decide/) [whether](/post/whether/) [to](/post/to/) [wear](/post/wear/) [my](/post/my/) [new](/post/new/) [dress](/post/dress/) [or](/post/or/) jeans [to](/post/to/) [the](/post/the/) [party](/post/party/)."
+- "[Whether](/post/whether/) [he](/post/he/) comes [or](/post/or/) [not](/post/not/), [the](/post/the/) [meeting](/post/meeting/) [will](/post/will/) [proceed](/post/proceed/)."
+- "[She](/post/she/) asked [whether](/post/whether/) [they](/post/they/) [would](/post/would/) [be](/post/be/) arriving [early](/post/early/) [or](/post/or/) [on](/post/on/) [time](/post/time/)."
 
 ## Synonyms
-- [If](/en/post/if/)
-- [As](/en/post/as/) [to](/en/post/to/)
-- [Concerning](/en/post/concerning/)
-- [With](/en/post/with/) [regard](/en/post/regard/) [to](/en/post/to/)
-- [Whether](/en/post/whether/) [or](/en/post/or/) [not](/en/post/not/)
+- [If](/post/if/)
+- [As](/post/as/) [to](/post/to/)
+- [Concerning](/post/concerning/)
+- [With](/post/with/) [regard](/post/regard/) [to](/post/to/)
+- [Whether](/post/whether/) [or](/post/or/) [not](/post/not/)
 
 ## Antonyms
-- [Certain](/en/post/certain/) ([when](/en/post/when/) expressing [doubt](/en/post/doubt/))
-- [Sure](/en/post/sure/)
-- [Absolutely](/en/post/absolutely/) ([in](/en/post/in/) decision-making)
+- [Certain](/post/certain/) ([when](/post/when/) expressing [doubt](/post/doubt/))
+- [Sure](/post/sure/)
+- [Absolutely](/post/absolutely/) ([in](/post/in/) decision-making)

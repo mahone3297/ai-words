@@ -11,22 +11,22 @@ keywords = ['ai words', 'ease']
 /eɪs/
 
 ## 释义
-- **名词**: 轻松，安逸，舒适。例如: "[He](/post/he/) was [finally](/post/finally/) [able](/post/able/) [to](/post/to/) [find](/post/find/) [some](/post/some/) [ease](/post/ease/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [of](/post/of/) [work](/post/work/)."
-- **动词**: 使轻松，缓和。例如: "[The](/post/the/) [medicine](/post/medicine/) eased [her](/post/her/) [pain](/post/pain/)."
-- **形容词**: 容易的，不费力的。例如: "[The](/post/the/) [task](/post/task/) was [so](/post/so/) [easy](/post/easy/) [that](/post/that/) [anyone](/post/anyone/) [could](/post/could/) [do](/post/do/) [it](/post/it/)."
+- **名词**: 轻松，安逸，舒适。例如: "[He](/zh/post/he/) was [finally](/zh/post/finally/) [able](/zh/post/able/) [to](/zh/post/to/) [find](/zh/post/find/) [some](/zh/post/some/) [ease](/zh/post/ease/) [after](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [day](/zh/post/day/) [of](/zh/post/of/) [work](/zh/post/work/)."
+- **动词**: 使轻松，缓和。例如: "[The](/zh/post/the/) [medicine](/zh/post/medicine/) eased [her](/zh/post/her/) [pain](/zh/post/pain/)."
+- **形容词**: 容易的，不费力的。例如: "[The](/zh/post/the/) [task](/zh/post/task/) was [so](/zh/post/so/) [easy](/zh/post/easy/) [that](/zh/post/that/) [anyone](/zh/post/anyone/) [could](/zh/post/could/) [do](/zh/post/do/) [it](/zh/post/it/)."
 
 ## 短语
-- "[at](/post/at/) [ease](/post/ease/)" 意为放松，自在。例如: "[Please](/post/please/) [make](/post/make/) [yourself](/post/yourself/) [at](/post/at/) [ease](/post/ease/)."
-- "[ease](/post/ease/) [of](/post/of/) [use](/post/use/)" 指的是使用简便性。例如: "[The](/post/the/) [new](/post/new/) software has [excellent](/post/excellent/) [ease](/post/ease/) [of](/post/of/) [use](/post/use/)."
+- "[at](/zh/post/at/) [ease](/zh/post/ease/)" 意为放松，自在。例如: "[Please](/zh/post/please/) [make](/zh/post/make/) [yourself](/zh/post/yourself/) [at](/zh/post/at/) [ease](/zh/post/ease/)."
+- "[ease](/zh/post/ease/) [of](/zh/post/of/) [use](/zh/post/use/)" 指的是使用简便性。例如: "[The](/zh/post/the/) [new](/zh/post/new/) software has [excellent](/zh/post/excellent/) [ease](/zh/post/ease/) [of](/zh/post/of/) [use](/zh/post/use/)."
 
 ## 例句
-- 名词: "[She](/post/she/) enjoyed [the](/post/the/) [simple](/post/simple/) pleasures [and](/post/and/) [ease](/post/ease/) [of](/post/of/) [country](/post/country/) [life](/post/life/)."
-- 动词: "[The](/post/the/) massage therapist worked [to](/post/to/) [ease](/post/ease/) [his](/post/his/) client's [tense](/post/tense/) muscles."
-- 形容词: "[The](/post/the/) [new](/post/new/) [chair](/post/chair/) provides [great](/post/great/) [ease](/post/ease/) [for](/post/for/) [long](/post/long/) working hours."
+- 名词: "[She](/zh/post/she/) enjoyed [the](/zh/post/the/) [simple](/zh/post/simple/) pleasures [and](/zh/post/and/) [ease](/zh/post/ease/) [of](/zh/post/of/) [country](/zh/post/country/) [life](/zh/post/life/)."
+- 动词: "[The](/zh/post/the/) massage therapist worked [to](/zh/post/to/) [ease](/zh/post/ease/) [his](/zh/post/his/) client's [tense](/zh/post/tense/) muscles."
+- 形容词: "[The](/zh/post/the/) [new](/zh/post/new/) [chair](/zh/post/chair/) provides [great](/zh/post/great/) [ease](/zh/post/ease/) [for](/zh/post/for/) [long](/zh/post/long/) working hours."
 
 ## 同义词
-- [Comfort](/post/comfort/)
+- [Comfort](/zh/post/comfort/)
 - Relaxation
-- [Relief](/post/relief/)
-- [Convenience](/post/convenience/)
-- [Simplicity](/post/simplicity/)
+- [Relief](/zh/post/relief/)
+- [Convenience](/zh/post/convenience/)
+- [Simplicity](/zh/post/simplicity/)

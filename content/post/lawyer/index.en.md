@@ -7,25 +7,25 @@ description = '[ˈlɔːjə] n.律师；法学家'
 keywords = ['ai words', 'lawyer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɔɪər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is trained [and](/en/post/and/) licensed [to](/en/post/to/) [practice](/en/post/practice/) [law](/en/post/law/), [advise](/en/post/advise/) clients [on](/en/post/on/) [legal](/en/post/legal/) matters, [and](/en/post/and/) [represent](/en/post/represent/) [them](/en/post/them/) [in](/en/post/in/) [court](/en/post/court/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) hired [a](/en/post/a/) [lawyer](/en/post/lawyer/) [to](/en/post/to/) [handle](/en/post/handle/) [her](/en/post/her/) [divorce](/en/post/divorce/) proceedings."
-- **[Noun](/en/post/noun/) (Informal)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) argues [or](/en/post/or/) debates tenaciously. [Example](/en/post/example/): "[In](/en/post/in/) [any](/en/post/any/) [discussion](/en/post/discussion/), he's [the](/en/post/the/) [lawyer](/en/post/lawyer/) [for](/en/post/for/) [the](/en/post/the/) opposing [side](/en/post/side/), [always](/en/post/always/) [ready](/en/post/ready/) [with](/en/post/with/) counterarguments."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is trained [and](/post/and/) licensed [to](/post/to/) [practice](/post/practice/) [law](/post/law/), [advise](/post/advise/) clients [on](/post/on/) [legal](/post/legal/) matters, [and](/post/and/) [represent](/post/represent/) [them](/post/them/) [in](/post/in/) [court](/post/court/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) hired [a](/post/a/) [lawyer](/post/lawyer/) [to](/post/to/) [handle](/post/handle/) [her](/post/her/) [divorce](/post/divorce/) proceedings."
+- **[Noun](/post/noun/) (Informal)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) argues [or](/post/or/) debates tenaciously. [Example](/post/example/): "[In](/post/in/) [any](/post/any/) [discussion](/post/discussion/), he's [the](/post/the/) [lawyer](/post/lawyer/) [for](/post/for/) [the](/post/the/) opposing [side](/post/side/), [always](/post/always/) [ready](/post/ready/) [with](/post/with/) counterarguments."
 
 ## Phrases
-- "[Lawyer](/en/post/lawyer/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) [hire](/en/post/hire/) [or](/en/post/or/) [consult](/en/post/consult/) [with](/en/post/with/) [a](/en/post/a/) [lawyer](/en/post/lawyer/), [especially](/en/post/especially/) [when](/en/post/when/) facing [legal](/en/post/legal/) [trouble](/en/post/trouble/). [Example](/en/post/example/): "[When](/en/post/when/) [the](/en/post/the/) [investigation](/en/post/investigation/) started, [he](/en/post/he/) [quickly](/en/post/quickly/) lawyered [up](/en/post/up/)."
-- "[To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) someone's [lawyer](/en/post/lawyer/)" implies representing [someone](/en/post/someone/) legally [or](/en/post/or/) advocating [for](/en/post/for/) [them](/en/post/them/). [Example](/en/post/example/): "[Throughout](/en/post/throughout/) [the](/en/post/the/) [case](/en/post/case/), [she](/en/post/she/) acted [as](/en/post/as/) [his](/en/post/his/) [lawyer](/en/post/lawyer/), fighting tirelessly [for](/en/post/for/) [his](/en/post/his/) rights."
+- "[Lawyer](/post/lawyer/) [up](/post/up/)" [means](/post/means/) [to](/post/to/) [hire](/post/hire/) [or](/post/or/) [consult](/post/consult/) [with](/post/with/) [a](/post/a/) [lawyer](/post/lawyer/), [especially](/post/especially/) [when](/post/when/) facing [legal](/post/legal/) [trouble](/post/trouble/). [Example](/post/example/): "[When](/post/when/) [the](/post/the/) [investigation](/post/investigation/) started, [he](/post/he/) [quickly](/post/quickly/) lawyered [up](/post/up/)."
+- "[To](/post/to/) [act](/post/act/) [as](/post/as/) someone's [lawyer](/post/lawyer/)" implies representing [someone](/post/someone/) legally [or](/post/or/) advocating [for](/post/for/) [them](/post/them/). [Example](/post/example/): "[Throughout](/post/throughout/) [the](/post/the/) [case](/post/case/), [she](/post/she/) acted [as](/post/as/) [his](/post/his/) [lawyer](/post/lawyer/), fighting tirelessly [for](/post/for/) [his](/post/his/) rights."
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) defendant was advised [by](/en/post/by/) [his](/en/post/his/) [lawyer](/en/post/lawyer/) [to](/en/post/to/) [accept](/en/post/accept/) [the](/en/post/the/) plea [bargain](/en/post/bargain/)."
-- **[Noun](/en/post/noun/) (Informal)**: "[She](/en/post/she/) [can](/en/post/can/) [be](/en/post/be/) [quite](/en/post/quite/) convincing; she's [like](/en/post/like/) [a](/en/post/a/) [lawyer](/en/post/lawyer/) [in](/en/post/in/) defending [her](/en/post/her/) opinions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) defendant was advised [by](/post/by/) [his](/post/his/) [lawyer](/post/lawyer/) [to](/post/to/) [accept](/post/accept/) [the](/post/the/) plea [bargain](/post/bargain/)."
+- **[Noun](/post/noun/) (Informal)**: "[She](/post/she/) [can](/post/can/) [be](/post/be/) [quite](/post/quite/) convincing; she's [like](/post/like/) [a](/post/a/) [lawyer](/post/lawyer/) [in](/post/in/) defending [her](/post/her/) opinions."
 
 ## Synonyms
 - Attorney
 - Solicitor
 - Barrister
-- [Legal](/en/post/legal/) counsel
+- [Legal](/post/legal/) counsel
 - Advocate
-- Counselor ([American](/en/post/american/) English) / Counsellor (British English)
+- Counselor ([American](/post/american/) English) / Counsellor (British English)

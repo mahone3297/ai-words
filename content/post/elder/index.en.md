@@ -7,29 +7,29 @@ description = '[ˈeldə(r)] a.年龄较大的 n.长者'
 keywords = ['ai words', 'elder']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeldər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: ([elder](/en/post/elder/)) [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is older [than](/en/post/than/) [another](/en/post/another/), [especially](/en/post/especially/) [within](/en/post/within/) [a](/en/post/a/) [family](/en/post/family/) context. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) respected [her](/en/post/her/) elders [and](/en/post/and/) listened [to](/en/post/to/) [their](/en/post/their/) [advice](/en/post/advice/)."
-- **[Noun](/en/post/noun/)**: ([the](/en/post/the/) [elder](/en/post/elder/)) [A](/en/post/a/) [title](/en/post/title/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) an older sibling, typically [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) [setting](/en/post/setting/) [or](/en/post/or/) [when](/en/post/when/) distinguishing [between](/en/post/between/) [two](/en/post/two/) [people](/en/post/people/) [with](/en/post/with/) [the](/en/post/the/) [same](/en/post/same/) [name](/en/post/name/). [Example](/en/post/example/): "John Smith, [the](/en/post/the/) [elder](/en/post/elder/), was [born](/en/post/born/) [before](/en/post/before/) [his](/en/post/his/) [brother](/en/post/brother/) John."
-- **[Adjective](/en/post/adjective/)**: ([elder](/en/post/elder/)) Older; having greater [age](/en/post/age/). [Example](/en/post/example/): "Tom is [my](/en/post/my/) [elder](/en/post/elder/) [brother](/en/post/brother/), [so](/en/post/so/) [he](/en/post/he/) [often](/en/post/often/) takes [care](/en/post/care/) [of](/en/post/of/) [me](/en/post/me/)."
-- **[Adjective](/en/post/adjective/)**: ([elder](/en/post/elder/)) Referring [to](/en/post/to/) [a](/en/post/a/) [more](/en/post/more/) [senior](/en/post/senior/) [member](/en/post/member/) [or](/en/post/or/) [stage](/en/post/stage/) [in](/en/post/in/) [a](/en/post/a/) [society](/en/post/society/), [organization](/en/post/organization/), [or](/en/post/or/) [group](/en/post/group/). [Example](/en/post/example/): "[He](/en/post/he/) was made an [elder](/en/post/elder/) [in](/en/post/in/) [the](/en/post/the/) [church](/en/post/church/) [after](/en/post/after/) [many](/en/post/many/) years [of](/en/post/of/) [service](/en/post/service/)."
+- **[Noun](/post/noun/)**: ([elder](/post/elder/)) [A](/post/a/) [person](/post/person/) [who](/post/who/) is older [than](/post/than/) [another](/post/another/), [especially](/post/especially/) [within](/post/within/) [a](/post/a/) [family](/post/family/) context. [For](/post/for/) [example](/post/example/): "[She](/post/she/) respected [her](/post/her/) elders [and](/post/and/) listened [to](/post/to/) [their](/post/their/) [advice](/post/advice/)."
+- **[Noun](/post/noun/)**: ([the](/post/the/) [elder](/post/elder/)) [A](/post/a/) [title](/post/title/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) an older sibling, typically [in](/post/in/) [a](/post/a/) [formal](/post/formal/) [setting](/post/setting/) [or](/post/or/) [when](/post/when/) distinguishing [between](/post/between/) [two](/post/two/) [people](/post/people/) [with](/post/with/) [the](/post/the/) [same](/post/same/) [name](/post/name/). [Example](/post/example/): "John Smith, [the](/post/the/) [elder](/post/elder/), was [born](/post/born/) [before](/post/before/) [his](/post/his/) [brother](/post/brother/) John."
+- **[Adjective](/post/adjective/)**: ([elder](/post/elder/)) Older; having greater [age](/post/age/). [Example](/post/example/): "Tom is [my](/post/my/) [elder](/post/elder/) [brother](/post/brother/), [so](/post/so/) [he](/post/he/) [often](/post/often/) takes [care](/post/care/) [of](/post/of/) [me](/post/me/)."
+- **[Adjective](/post/adjective/)**: ([elder](/post/elder/)) Referring [to](/post/to/) [a](/post/a/) [more](/post/more/) [senior](/post/senior/) [member](/post/member/) [or](/post/or/) [stage](/post/stage/) [in](/post/in/) [a](/post/a/) [society](/post/society/), [organization](/post/organization/), [or](/post/or/) [group](/post/group/). [Example](/post/example/): "[He](/post/he/) was made an [elder](/post/elder/) [in](/post/in/) [the](/post/the/) [church](/post/church/) [after](/post/after/) [many](/post/many/) years [of](/post/of/) [service](/post/service/)."
 
 ## Phrases
-- "[Elder](/en/post/elder/) [statesman](/en/post/statesman/)": An experienced [and](/en/post/and/) respected older [politician](/en/post/politician/) [or](/en/post/or/) [public](/en/post/public/) [figure](/en/post/figure/).
-- "Elders [of](/en/post/of/) [the](/en/post/the/) [tribe](/en/post/tribe/)": [The](/en/post/the/) older members [of](/en/post/of/) [a](/en/post/a/) [community](/en/post/community/) [who](/en/post/who/) [hold](/en/post/hold/) positions [of](/en/post/of/) [authority](/en/post/authority/) [or](/en/post/or/) [wisdom](/en/post/wisdom/).
-- "[Elder](/en/post/elder/) [abuse](/en/post/abuse/)": [The](/en/post/the/) mistreatment [or](/en/post/or/) [neglect](/en/post/neglect/) [of](/en/post/of/) older adults.
+- "[Elder](/post/elder/) [statesman](/post/statesman/)": An experienced [and](/post/and/) respected older [politician](/post/politician/) [or](/post/or/) [public](/post/public/) [figure](/post/figure/).
+- "Elders [of](/post/of/) [the](/post/the/) [tribe](/post/tribe/)": [The](/post/the/) older members [of](/post/of/) [a](/post/a/) [community](/post/community/) [who](/post/who/) [hold](/post/hold/) positions [of](/post/of/) [authority](/post/authority/) [or](/post/or/) [wisdom](/post/wisdom/).
+- "[Elder](/post/elder/) [abuse](/post/abuse/)": [The](/post/the/) mistreatment [or](/post/or/) [neglect](/post/neglect/) [of](/post/of/) older adults.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [village](/en/post/village/) elders gathered [around](/en/post/around/) [the](/en/post/the/) [fire](/en/post/fire/) [to](/en/post/to/) [discuss](/en/post/discuss/) [important](/en/post/important/) matters."
-- **[Adjective](/en/post/adjective/)**: "[In](/en/post/in/) [many](/en/post/many/) cultures, it's customary [for](/en/post/for/) [the](/en/post/the/) [elder](/en/post/elder/) sibling [to](/en/post/to/) [take](/en/post/take/) [on](/en/post/on/) [extra](/en/post/extra/) responsibilities."
-- **[Adjective](/en/post/adjective/)**: "[As](/en/post/as/) an [elder](/en/post/elder/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) [team](/en/post/team/), Jane mentors younger employees."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [village](/post/village/) elders gathered [around](/post/around/) [the](/post/the/) [fire](/post/fire/) [to](/post/to/) [discuss](/post/discuss/) [important](/post/important/) matters."
+- **[Adjective](/post/adjective/)**: "[In](/post/in/) [many](/post/many/) cultures, it's customary [for](/post/for/) [the](/post/the/) [elder](/post/elder/) sibling [to](/post/to/) [take](/post/take/) [on](/post/on/) [extra](/post/extra/) responsibilities."
+- **[Adjective](/post/adjective/)**: "[As](/post/as/) an [elder](/post/elder/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [team](/post/team/), Jane mentors younger employees."
 
 ## Synonyms
 - Older
-- [Senior](/en/post/senior/)
-- [More](/en/post/more/) aged
-- Antecedent ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) an [ancestor](/en/post/ancestor/))
-- Forebear ([in](/en/post/in/) [the](/en/post/the/) familial context)
-- Older sibling ([when](/en/post/when/) referring [to](/en/post/to/) [family](/en/post/family/) relationships)
+- [Senior](/post/senior/)
+- [More](/post/more/) aged
+- Antecedent ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) an [ancestor](/post/ancestor/))
+- Forebear ([in](/post/in/) [the](/post/the/) familial context)
+- Older sibling ([when](/post/when/) referring [to](/post/to/) [family](/post/family/) relationships)

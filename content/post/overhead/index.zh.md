@@ -12,24 +12,24 @@ keywords = ['ai words', 'overhead']
 
 ## 释义
 - **名词**:
-  - 费用：指企业运营、管理或生产过程中产生的间接成本。例如: "[The](/post/the/) [company](/post/company/) needs [to](/post/to/) [reduce](/post/reduce/) [its](/post/its/) [overhead](/post/overhead/) expenses."
-  - 天花板：物理空间中的上方或顶部。例如: "[The](/post/the/) [light](/post/light/) fixture is attached [to](/post/to/) [the](/post/the/) [overhead](/post/overhead/)."
+  - 费用：指企业运营、管理或生产过程中产生的间接成本。例如: "[The](/zh/post/the/) [company](/zh/post/company/) needs [to](/zh/post/to/) [reduce](/zh/post/reduce/) [its](/zh/post/its/) [overhead](/zh/post/overhead/) expenses."
+  - 天花板：物理空间中的上方或顶部。例如: "[The](/zh/post/the/) [light](/zh/post/light/) fixture is attached [to](/zh/post/to/) [the](/zh/post/the/) [overhead](/zh/post/overhead/)."
 
 - **形容词**:
-  - 在头顶上的：指位于头部正上方的。例如: "[The](/post/the/) [airplane](/post/airplane/) flew [overhead](/post/overhead/)."
-  - 额外的或附加的：指超出基本需求的。例如: "[The](/post/the/) [overhead](/post/overhead/) costs included [insurance](/post/insurance/) [and](/post/and/) utilities."
+  - 在头顶上的：指位于头部正上方的。例如: "[The](/zh/post/the/) [airplane](/zh/post/airplane/) flew [overhead](/zh/post/overhead/)."
+  - 额外的或附加的：指超出基本需求的。例如: "[The](/zh/post/the/) [overhead](/zh/post/overhead/) costs included [insurance](/zh/post/insurance/) [and](/zh/post/and/) utilities."
 
 ## 短语
-- "[Overhead](/post/overhead/) costs" 指企业的非直接生产成本。
-- "[Under](/post/under/) [the](/post/the/) [overhead](/post/overhead/) lights" 指在头顶的灯光下。
+- "[Overhead](/zh/post/overhead/) costs" 指企业的非直接生产成本。
+- "[Under](/zh/post/under/) [the](/zh/post/the/) [overhead](/zh/post/overhead/) lights" 指在头顶的灯光下。
 
 ## 例句
-- 名词: "[The](/post/the/) company's [overhead](/post/overhead/) includes [rent](/post/rent/), salaries, [and](/post/and/) utilities."
-- 形容词: "[The](/post/the/) kids played [catch](/post/catch/) [in](/post/in/) [the](/post/the/) [park](/post/park/), watching [the](/post/the/) planes [fly](/post/fly/) [overhead](/post/overhead/)."
+- 名词: "[The](/zh/post/the/) company's [overhead](/zh/post/overhead/) includes [rent](/zh/post/rent/), salaries, [and](/zh/post/and/) utilities."
+- 形容词: "[The](/zh/post/the/) kids played [catch](/zh/post/catch/) [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/), watching [the](/zh/post/the/) planes [fly](/zh/post/fly/) [overhead](/zh/post/overhead/)."
 
 ## 同义词
 - Expenditure
-- [Indirect](/post/indirect/) [cost](/post/cost/)
+- [Indirect](/zh/post/indirect/) [cost](/zh/post/cost/)
 - Imposition
-- [Burden](/post/burden/)
-- [Additional](/post/additional/) [cost](/post/cost/)
+- [Burden](/zh/post/burden/)
+- [Additional](/zh/post/additional/) [cost](/zh/post/cost/)

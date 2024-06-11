@@ -7,35 +7,35 @@ description = '[ˈvæni∫] vi.突然不见，消失'
 keywords = ['ai words', 'vanish']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vəˈnæʃ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: **Transitive [verb](/en/post/verb/)** - [To](/en/post/to/) [disappear](/en/post/disappear/) [without](/en/post/without/) leaving [any](/en/post/any/) [trace](/en/post/trace/) [or](/en/post/or/) [evidence](/en/post/evidence/), [often](/en/post/often/) [suddenly](/en/post/suddenly/) [or](/en/post/or/) mysteriously. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [thief](/en/post/thief/) vanished [into](/en/post/into/) [thin](/en/post/thin/) [air](/en/post/air/)."
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) existing [or](/en/post/or/) seen; [completely](/en/post/completely/) gone. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [fog](/en/post/fog/) vanished [after](/en/post/after/) [the](/en/post/the/) [sun](/en/post/sun/) [rose](/en/post/rose/)."
-- **[Noun](/en/post/noun/)**: Disappearance; vanishing [act](/en/post/act/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [sudden](/en/post/sudden/) [vanish](/en/post/vanish/) [left](/en/post/left/) [everyone](/en/post/everyone/) puzzled."
+- **[Verb](/post/verb/)**: **Transitive [verb](/post/verb/)** - [To](/post/to/) [disappear](/post/disappear/) [without](/post/without/) leaving [any](/post/any/) [trace](/post/trace/) [or](/post/or/) [evidence](/post/evidence/), [often](/post/often/) [suddenly](/post/suddenly/) [or](/post/or/) mysteriously. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [thief](/post/thief/) vanished [into](/post/into/) [thin](/post/thin/) [air](/post/air/)."
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) existing [or](/post/or/) seen; [completely](/post/completely/) gone. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [fog](/post/fog/) vanished [after](/post/after/) [the](/post/the/) [sun](/post/sun/) [rose](/post/rose/)."
+- **[Noun](/post/noun/)**: Disappearance; vanishing [act](/post/act/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [sudden](/post/sudden/) [vanish](/post/vanish/) [left](/post/left/) [everyone](/post/everyone/) puzzled."
 
 ## Phrases
-- "[Vanish](/en/post/vanish/) [without](/en/post/without/) [a](/en/post/a/) [trace](/en/post/trace/)" [means](/en/post/means/) [to](/en/post/to/) [disappear](/en/post/disappear/) [completely](/en/post/completely/) [and](/en/post/and/) [without](/en/post/without/) [any](/en/post/any/) [indication](/en/post/indication/) [of](/en/post/of/) [where](/en/post/where/) [one](/en/post/one/) has gone.
-- "[Disappear](/en/post/disappear/) [from](/en/post/from/) [sight](/en/post/sight/)" describes [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) becoming [invisible](/en/post/invisible/).
-- "Vanished [into](/en/post/into/) [thin](/en/post/thin/) [air](/en/post/air/)" is [a](/en/post/a/) metaphor [for](/en/post/for/) disappearance [that](/en/post/that/) suggests [it](/en/post/it/) was [sudden](/en/post/sudden/) [and](/en/post/and/) unexplained.
+- "[Vanish](/post/vanish/) [without](/post/without/) [a](/post/a/) [trace](/post/trace/)" [means](/post/means/) [to](/post/to/) [disappear](/post/disappear/) [completely](/post/completely/) [and](/post/and/) [without](/post/without/) [any](/post/any/) [indication](/post/indication/) [of](/post/of/) [where](/post/where/) [one](/post/one/) has gone.
+- "[Disappear](/post/disappear/) [from](/post/from/) [sight](/post/sight/)" describes [someone](/post/someone/) [or](/post/or/) [something](/post/something/) becoming [invisible](/post/invisible/).
+- "Vanished [into](/post/into/) [thin](/post/thin/) [air](/post/air/)" is [a](/post/a/) metaphor [for](/post/for/) disappearance [that](/post/that/) suggests [it](/post/it/) was [sudden](/post/sudden/) [and](/post/and/) unexplained.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) magician made [the](/en/post/the/) [rabbit](/en/post/rabbit/) [vanish](/en/post/vanish/) [with](/en/post/with/) [a](/en/post/a/) [wave](/en/post/wave/) [of](/en/post/of/) [his](/en/post/his/) wand."
-- **[Adjective](/en/post/adjective/)**: "[After](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/), [the](/en/post/the/) [rainbow](/en/post/rainbow/) appeared [where](/en/post/where/) [the](/en/post/the/) clouds had vanished."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [investigation](/en/post/investigation/) [into](/en/post/into/) [the](/en/post/the/) [missing](/en/post/missing/) [child](/en/post/child/) is focusing [on](/en/post/on/) [the](/en/post/the/) [possibility](/en/post/possibility/) [of](/en/post/of/) [a](/en/post/a/) [vanish](/en/post/vanish/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) magician made [the](/post/the/) [rabbit](/post/rabbit/) [vanish](/post/vanish/) [with](/post/with/) [a](/post/a/) [wave](/post/wave/) [of](/post/of/) [his](/post/his/) wand."
+- **[Adjective](/post/adjective/)**: "[After](/post/after/) [the](/post/the/) [storm](/post/storm/), [the](/post/the/) [rainbow](/post/rainbow/) appeared [where](/post/where/) [the](/post/the/) clouds had vanished."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [investigation](/post/investigation/) [into](/post/into/) [the](/post/the/) [missing](/post/missing/) [child](/post/child/) is focusing [on](/post/on/) [the](/post/the/) [possibility](/post/possibility/) [of](/post/of/) [a](/post/a/) [vanish](/post/vanish/)."
 
 ## Synonyms
-- [Fade](/en/post/fade/) [away](/en/post/away/)
-- [Vanish](/en/post/vanish/) [completely](/en/post/completely/)
-- [Evaporate](/en/post/evaporate/)
-- [Disappear](/en/post/disappear/)
-- [Vanish](/en/post/vanish/) [into](/en/post/into/) thinness
-- [Fade](/en/post/fade/) [out](/en/post/out/)
+- [Fade](/post/fade/) [away](/post/away/)
+- [Vanish](/post/vanish/) [completely](/post/completely/)
+- [Evaporate](/post/evaporate/)
+- [Disappear](/post/disappear/)
+- [Vanish](/post/vanish/) [into](/post/into/) thinness
+- [Fade](/post/fade/) [out](/post/out/)
 
 ## Antonyms
-- [Appear](/en/post/appear/)
-- [Remain](/en/post/remain/)
-- [Persist](/en/post/persist/)
-- [Exist](/en/post/exist/)
-- [Survive](/en/post/survive/)
+- [Appear](/post/appear/)
+- [Remain](/post/remain/)
+- [Persist](/post/persist/)
+- [Exist](/post/exist/)
+- [Survive](/post/survive/)

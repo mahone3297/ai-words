@@ -11,20 +11,20 @@ keywords = ['ai words', 'elbow']
 /elˈbɑːʊ/
 
 ## 释义
-- **名词**: 肘部；肘关节。例如: "[He](/post/he/) rested [his](/post/his/) [chin](/post/chin/) [on](/post/on/) [his](/post/his/) [elbow](/post/elbow/) [while](/post/while/) [reading](/post/reading/)."
-- **动词**: 用肘轻推或挤（常用于比喻）。例如: "[She](/post/she/) elbowed [her](/post/her/) [way](/post/way/) [through](/post/through/) [the](/post/the/) crowded hallway."
+- **名词**: 肘部；肘关节。例如: "[He](/zh/post/he/) rested [his](/zh/post/his/) [chin](/zh/post/chin/) [on](/zh/post/on/) [his](/zh/post/his/) [elbow](/zh/post/elbow/) [while](/zh/post/while/) [reading](/zh/post/reading/)."
+- **动词**: 用肘轻推或挤（常用于比喻）。例如: "[She](/zh/post/she/) elbowed [her](/zh/post/her/) [way](/zh/post/way/) [through](/zh/post/through/) [the](/zh/post/the/) crowded hallway."
 
 ## 短语
-- "[elbow](/post/elbow/) [room](/post/room/)" 表示空间或自由活动的余地。例如: "[The](/post/the/) [small](/post/small/) [apartment](/post/apartment/) doesn't [have](/post/have/) [much](/post/much/) [elbow](/post/elbow/) [room](/post/room/)."
-- "[hit](/post/hit/) [below](/post/below/) [the](/post/the/) [elbow](/post/elbow/)" 指采取卑鄙手段或打击对方痛处。例如: "[Their](/post/their/) [criticism](/post/criticism/) [hit](/post/hit/) [us](/post/us/) [below](/post/below/) [the](/post/the/) [elbow](/post/elbow/)."
+- "[elbow](/zh/post/elbow/) [room](/zh/post/room/)" 表示空间或自由活动的余地。例如: "[The](/zh/post/the/) [small](/zh/post/small/) [apartment](/zh/post/apartment/) doesn't [have](/zh/post/have/) [much](/zh/post/much/) [elbow](/zh/post/elbow/) [room](/zh/post/room/)."
+- "[hit](/zh/post/hit/) [below](/zh/post/below/) [the](/zh/post/the/) [elbow](/zh/post/elbow/)" 指采取卑鄙手段或打击对方痛处。例如: "[Their](/zh/post/their/) [criticism](/zh/post/criticism/) [hit](/zh/post/hit/) [us](/zh/post/us/) [below](/zh/post/below/) [the](/zh/post/the/) [elbow](/zh/post/elbow/)."
 
 ## 例句
-- 名词: "[He](/post/he/) bent [his](/post/his/) [arm](/post/arm/) [and](/post/and/) flexed [his](/post/his/) [elbow](/post/elbow/) [to](/post/to/) [show](/post/show/) [off](/post/off/) [his](/post/his/) muscles."
-- 动词: "[In](/post/in/) [the](/post/the/) [busy](/post/busy/) [market](/post/market/), [you](/post/you/) [have](/post/have/) [to](/post/to/) [elbow](/post/elbow/) [your](/post/your/) [way](/post/way/) [through](/post/through/) [the](/post/the/) [crowd](/post/crowd/)."
+- 名词: "[He](/zh/post/he/) bent [his](/zh/post/his/) [arm](/zh/post/arm/) [and](/zh/post/and/) flexed [his](/zh/post/his/) [elbow](/zh/post/elbow/) [to](/zh/post/to/) [show](/zh/post/show/) [off](/zh/post/off/) [his](/zh/post/his/) muscles."
+- 动词: "[In](/zh/post/in/) [the](/zh/post/the/) [busy](/zh/post/busy/) [market](/zh/post/market/), [you](/zh/post/you/) [have](/zh/post/have/) [to](/zh/post/to/) [elbow](/zh/post/elbow/) [your](/zh/post/your/) [way](/zh/post/way/) [through](/zh/post/through/) [the](/zh/post/the/) [crowd](/zh/post/crowd/)."
 
 ## 同义词
-- [Bend](/post/bend/)
-- [Joint](/post/joint/)
-- [Wrist](/post/wrist/)
-- [Shoulder](/post/shoulder/)
+- [Bend](/zh/post/bend/)
+- [Joint](/zh/post/joint/)
+- [Wrist](/zh/post/wrist/)
+- [Shoulder](/zh/post/shoulder/)
 - Hinge

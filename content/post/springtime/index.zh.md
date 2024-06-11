@@ -11,20 +11,20 @@ keywords = ['ai words', 'springtime']
 /sprɪŋtaɪm/
 
 ## 释义
-- **名词**: 春季，指一年中的早春时节，万物复苏的时期。例如: "[Springtime](/post/springtime/) is [the](/post/the/) [season](/post/season/) [of](/post/of/) [new](/post/new/) beginnings [and](/post/and/) blooming flowers."
-- **形容词**: 春天的，与春天有关的。例如: "[The](/post/the/) [springtime](/post/springtime/) [air](/post/air/) was filled [with](/post/with/) [the](/post/the/) [sweet](/post/sweet/) fragrance [of](/post/of/) blooming lilacs."
+- **名词**: 春季，指一年中的早春时节，万物复苏的时期。例如: "[Springtime](/zh/post/springtime/) is [the](/zh/post/the/) [season](/zh/post/season/) [of](/zh/post/of/) [new](/zh/post/new/) beginnings [and](/zh/post/and/) blooming flowers."
+- **形容词**: 春天的，与春天有关的。例如: "[The](/zh/post/the/) [springtime](/zh/post/springtime/) [air](/zh/post/air/) was filled [with](/zh/post/with/) [the](/zh/post/the/) [sweet](/zh/post/sweet/) fragrance [of](/zh/post/of/) blooming lilacs."
 
 ## 短语
-- "[In](/post/in/) [the](/post/the/) [springtime](/post/springtime/)" 指在春季期间。
-- "[Springtime](/post/springtime/) [weather](/post/weather/)" 指春天的气候。
+- "[In](/zh/post/in/) [the](/zh/post/the/) [springtime](/zh/post/springtime/)" 指在春季期间。
+- "[Springtime](/zh/post/springtime/) [weather](/zh/post/weather/)" 指春天的气候。
 
 ## 例句
-- 名词: "[We](/post/we/) [love](/post/love/) going [for](/post/for/) walks [in](/post/in/) [the](/post/the/) [park](/post/park/) [during](/post/during/) [springtime](/post/springtime/) [to](/post/to/) [enjoy](/post/enjoy/) [the](/post/the/) [beautiful](/post/beautiful/) [scenery](/post/scenery/)."
-- 形容词: "[Her](/post/her/) [springtime](/post/springtime/) [dress](/post/dress/) was adorned [with](/post/with/) [delicate](/post/delicate/) floral patterns."
+- 名词: "[We](/zh/post/we/) [love](/zh/post/love/) going [for](/zh/post/for/) walks [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/) [during](/zh/post/during/) [springtime](/zh/post/springtime/) [to](/zh/post/to/) [enjoy](/zh/post/enjoy/) [the](/zh/post/the/) [beautiful](/zh/post/beautiful/) [scenery](/zh/post/scenery/)."
+- 形容词: "[Her](/zh/post/her/) [springtime](/zh/post/springtime/) [dress](/zh/post/dress/) was adorned [with](/zh/post/with/) [delicate](/zh/post/delicate/) floral patterns."
 
 ## 同义词
-- [Spring](/post/spring/)
+- [Spring](/zh/post/spring/)
 - Vernal
-- [Early](/post/early/) [spring](/post/spring/)
-- [Blossom](/post/blossom/) [time](/post/time/)
-- [Season](/post/season/) [of](/post/of/) renewal
+- [Early](/zh/post/early/) [spring](/zh/post/spring/)
+- [Blossom](/zh/post/blossom/) [time](/zh/post/time/)
+- [Season](/zh/post/season/) [of](/zh/post/of/) renewal

@@ -11,20 +11,20 @@ keywords = ['ai words', 'everyone']
 /ˈɛvriwʌn/
 
 ## 释义
-- **代词**: 每个人，人人，所有人。例如: "[Everyone](/post/everyone/) [should](/post/should/) [bring](/post/bring/) [their](/post/their/) [own](/post/own/) [lunch](/post/lunch/)." 
-- **名词**: (常与one连用) 某个人，任何人。例如: "Is [there](/post/there/) [anyone](/post/anyone/) [in](/post/in/) [the](/post/the/) [room](/post/room/)? [No](/post/no/), [everyone](/post/everyone/) has [left](/post/left/)."
+- **代词**: 每个人，人人，所有人。例如: "[Everyone](/zh/post/everyone/) [should](/zh/post/should/) [bring](/zh/post/bring/) [their](/zh/post/their/) [own](/zh/post/own/) [lunch](/zh/post/lunch/)." 
+- **名词**: (常与one连用) 某个人，任何人。例如: "Is [there](/zh/post/there/) [anyone](/zh/post/anyone/) [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/)? [No](/zh/post/no/), [everyone](/zh/post/everyone/) has [left](/zh/post/left/)."
 
 ## 短语
-- "[Everyone](/post/everyone/) [and](/post/and/) [their](/post/their/) [mother](/post/mother/)" 表示“几乎所有人，每个人和他们的家人”。
-- "Everyone's [equal](/post/equal/)" 意为“人人平等”。
+- "[Everyone](/zh/post/everyone/) [and](/zh/post/and/) [their](/zh/post/their/) [mother](/zh/post/mother/)" 表示“几乎所有人，每个人和他们的家人”。
+- "Everyone's [equal](/zh/post/equal/)" 意为“人人平等”。
 
 ## 例句
-- 代词: "[Everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) [class](/post/class/) [must](/post/must/) [complete](/post/complete/) [the](/post/the/) [assignment](/post/assignment/)."
-- 名词: "[If](/post/if/) [you](/post/you/) [have](/post/have/) [a](/post/a/) [question](/post/question/), [ask](/post/ask/) [everyone](/post/everyone/) [one](/post/one/) [by](/post/by/) [one](/post/one/)."
+- 代词: "[Everyone](/zh/post/everyone/) [in](/zh/post/in/) [the](/zh/post/the/) [class](/zh/post/class/) [must](/zh/post/must/) [complete](/zh/post/complete/) [the](/zh/post/the/) [assignment](/zh/post/assignment/)."
+- 名词: "[If](/zh/post/if/) [you](/zh/post/you/) [have](/zh/post/have/) [a](/zh/post/a/) [question](/zh/post/question/), [ask](/zh/post/ask/) [everyone](/zh/post/everyone/) [one](/zh/post/one/) [by](/zh/post/by/) [one](/zh/post/one/)."
 
 ## 同义词
-- [Everybody](/post/everybody/)
-- [All](/post/all/)
-- [Each](/post/each/) [one](/post/one/)
-- [Each](/post/each/) [and](/post/and/) [every](/post/every/) [person](/post/person/)
-- [The](/post/the/) [whole](/post/whole/) [world](/post/world/)
+- [Everybody](/zh/post/everybody/)
+- [All](/zh/post/all/)
+- [Each](/zh/post/each/) [one](/zh/post/one/)
+- [Each](/zh/post/each/) [and](/zh/post/and/) [every](/zh/post/every/) [person](/zh/post/person/)
+- [The](/zh/post/the/) [whole](/zh/post/whole/) [world](/zh/post/world/)

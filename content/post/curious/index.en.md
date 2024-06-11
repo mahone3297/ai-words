@@ -7,34 +7,34 @@ description = '[ˈkjuəriəs] a.好奇的；稀奇古怪的'
 keywords = ['ai words', 'curious']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kərˈɪəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Interested [in](/en/post/in/) [or](/en/post/or/) showing [curiosity](/en/post/curiosity/) [about](/en/post/about/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) had [a](/en/post/a/) [curious](/en/post/curious/) [look](/en/post/look/) [on](/en/post/on/) [their](/en/post/their/) [face](/en/post/face/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [show](/en/post/show/) [curiosity](/en/post/curiosity/); [be](/en/post/be/) interested [in](/en/post/in/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [curious](/en/post/curious/) [about](/en/post/about/) [the](/en/post/the/) [old](/en/post/old/) book's contents."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [feeling](/en/post/feeling/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [curious](/en/post/curious/); an [instance](/en/post/instance/) [of](/en/post/of/) [curiosity](/en/post/curiosity/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [curiosity](/en/post/curiosity/) got [the](/en/post/the/) [better](/en/post/better/) [of](/en/post/of/) [him](/en/post/him/), [and](/en/post/and/) [he](/en/post/he/) dug deeper [into](/en/post/into/) [the](/en/post/the/) [mystery](/en/post/mystery/)."
+- **[Adjective](/post/adjective/)**: Interested [in](/post/in/) [or](/post/or/) showing [curiosity](/post/curiosity/) [about](/post/about/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [child](/post/child/) had [a](/post/a/) [curious](/post/curious/) [look](/post/look/) [on](/post/on/) [their](/post/their/) [face](/post/face/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [show](/post/show/) [curiosity](/post/curiosity/); [be](/post/be/) interested [in](/post/in/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [curious](/post/curious/) [about](/post/about/) [the](/post/the/) [old](/post/old/) book's contents."
+- **[Noun](/post/noun/)**: [A](/post/a/) [feeling](/post/feeling/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [curious](/post/curious/); an [instance](/post/instance/) [of](/post/of/) [curiosity](/post/curiosity/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [curiosity](/post/curiosity/) got [the](/post/the/) [better](/post/better/) [of](/post/of/) [him](/post/him/), [and](/post/and/) [he](/post/he/) dug deeper [into](/post/into/) [the](/post/the/) [mystery](/post/mystery/)."
 
 ## Phrases
-- "[Curiosity](/en/post/curiosity/) killed [the](/en/post/the/) [cat](/en/post/cat/)" is [a](/en/post/a/) proverb [meaning](/en/post/meaning/) [excessive](/en/post/excessive/) [curiosity](/en/post/curiosity/) [can](/en/post/can/) [lead](/en/post/lead/) [to](/en/post/to/) [trouble](/en/post/trouble/).
-- "[A](/en/post/a/) [curious](/en/post/curious/) [mind](/en/post/mind/) is [a](/en/post/a/) [valuable](/en/post/valuable/) asset" highlights [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) [a](/en/post/a/) questioning [nature](/en/post/nature/).
-- "[She](/en/post/she/) couldn't [resist](/en/post/resist/) [her](/en/post/her/) [curiosity](/en/post/curiosity/)" implies [she](/en/post/she/) couldn't [help](/en/post/help/) [but](/en/post/but/) [investigate](/en/post/investigate/).
+- "[Curiosity](/post/curiosity/) killed [the](/post/the/) [cat](/post/cat/)" is [a](/post/a/) proverb [meaning](/post/meaning/) [excessive](/post/excessive/) [curiosity](/post/curiosity/) [can](/post/can/) [lead](/post/lead/) [to](/post/to/) [trouble](/post/trouble/).
+- "[A](/post/a/) [curious](/post/curious/) [mind](/post/mind/) is [a](/post/a/) [valuable](/post/valuable/) asset" highlights [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [a](/post/a/) questioning [nature](/post/nature/).
+- "[She](/post/she/) couldn't [resist](/post/resist/) [her](/post/her/) [curiosity](/post/curiosity/)" implies [she](/post/she/) couldn't [help](/post/help/) [but](/post/but/) [investigate](/post/investigate/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [curious](/en/post/curious/) [gaze](/en/post/gaze/) lingered [on](/en/post/on/) [the](/en/post/the/) [painting](/en/post/painting/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) children were [curious](/en/post/curious/) [about](/en/post/about/) [the](/en/post/the/) [new](/en/post/new/) [teacher](/en/post/teacher/)."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [curiosity](/en/post/curiosity/) led [him](/en/post/him/) [to](/en/post/to/) [explore](/en/post/explore/) [every](/en/post/every/) [corner](/en/post/corner/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [curious](/post/curious/) [gaze](/post/gaze/) lingered [on](/post/on/) [the](/post/the/) [painting](/post/painting/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) children were [curious](/post/curious/) [about](/post/about/) [the](/post/the/) [new](/post/new/) [teacher](/post/teacher/)."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [curiosity](/post/curiosity/) led [him](/post/him/) [to](/post/to/) [explore](/post/explore/) [every](/post/every/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
 
 ## Synonyms
 - Inquisitive
 - Curious-minded
 - Enquiring
 - Curiousness
-- [Inquiry](/en/post/inquiry/)
+- [Inquiry](/post/inquiry/)
 
 ## Antonyms
 - Uninterested
-- [Indifferent](/en/post/indifferent/)
+- [Indifferent](/post/indifferent/)
 - Uncurious
 - Disinterested
 - Uninquisitive

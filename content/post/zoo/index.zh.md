@@ -11,20 +11,20 @@ keywords = ['ai words', 'zoo']
 /zoʊ/
 
 ## 释义
-- **名词** (n): 一个公共场所，通常圈养着各种动物供人们参观。例如: "[We](/post/we/) took [the](/post/the/) kids [to](/post/to/) [the](/post/the/) [zoo](/post/zoo/) [on](/post/on/) Saturday."
-- **形容词** (adj): 指混乱、嘈杂或无法控制的情况，像动物园一样。例如: "[The](/post/the/) [office](/post/office/) was [a](/post/a/) [zoo](/post/zoo/) [with](/post/with/) [everyone](/post/everyone/) rushing [to](/post/to/) [meet](/post/meet/) [the](/post/the/) deadline."
+- **名词** (n): 一个公共场所，通常圈养着各种动物供人们参观。例如: "[We](/zh/post/we/) took [the](/zh/post/the/) kids [to](/zh/post/to/) [the](/zh/post/the/) [zoo](/zh/post/zoo/) [on](/zh/post/on/) Saturday."
+- **形容词** (adj): 指混乱、嘈杂或无法控制的情况，像动物园一样。例如: "[The](/zh/post/the/) [office](/zh/post/office/) was [a](/zh/post/a/) [zoo](/zh/post/zoo/) [with](/zh/post/with/) [everyone](/zh/post/everyone/) rushing [to](/zh/post/to/) [meet](/zh/post/meet/) [the](/zh/post/the/) deadline."
 
 ## 短语
-- "Madhouse [zoo](/post/zoo/)" 指极其混乱的地方。
-- "[Animal](/post/animal/) [kingdom](/post/kingdom/) [in](/post/in/) [the](/post/the/) [zoo](/post/zoo/)" 指动物园里的各种动物种类。
+- "Madhouse [zoo](/zh/post/zoo/)" 指极其混乱的地方。
+- "[Animal](/zh/post/animal/) [kingdom](/zh/post/kingdom/) [in](/zh/post/in/) [the](/zh/post/the/) [zoo](/zh/post/zoo/)" 指动物园里的各种动物种类。
 
 ## 例句
-- 名词: "[The](/post/the/) lions were [my](/post/my/) favorite [exhibit](/post/exhibit/) [at](/post/at/) [the](/post/the/) [zoo](/post/zoo/)."
-- 形容词: "[The](/post/the/) [party](/post/party/) got [so](/post/so/) [wild](/post/wild/); [it](/post/it/) turned [into](/post/into/) [a](/post/a/) [zoo](/post/zoo/)."
+- 名词: "[The](/zh/post/the/) lions were [my](/zh/post/my/) favorite [exhibit](/zh/post/exhibit/) [at](/zh/post/at/) [the](/zh/post/the/) [zoo](/zh/post/zoo/)."
+- 形容词: "[The](/zh/post/the/) [party](/zh/post/party/) got [so](/zh/post/so/) [wild](/zh/post/wild/); [it](/zh/post/it/) turned [into](/zh/post/into/) [a](/zh/post/a/) [zoo](/zh/post/zoo/)."
 
 ## 同义词
-- Wildlife [park](/post/park/)
+- Wildlife [park](/zh/post/park/)
 - Menagerie
 - Sanctuary
 - Conservatory
-- [Animal](/post/animal/) [reserve](/post/reserve/)
+- [Animal](/zh/post/animal/) [reserve](/zh/post/reserve/)

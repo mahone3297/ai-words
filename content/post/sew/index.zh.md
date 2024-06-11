@@ -11,19 +11,19 @@ keywords = ['ai words', 'sew']
 /soʊ/
 
 ## 释义
-- **动词**: 用针线缝合（衣物等）。例如: "[She](/post/she/) spent [the](/post/the/) [afternoon](/post/afternoon/) sewing [a](/post/a/) [button](/post/button/) [on](/post/on/) [her](/post/her/) [shirt](/post/shirt/)."
-- **名词**: 缝纫的行为或工作。例如: "[He](/post/he/) [learned](/post/learned/) [to](/post/to/) [sew](/post/sew/) [from](/post/from/) [his](/post/his/) [grandmother](/post/grandmother/)."
+- **动词**: 用针线缝合（衣物等）。例如: "[She](/zh/post/she/) spent [the](/zh/post/the/) [afternoon](/zh/post/afternoon/) sewing [a](/zh/post/a/) [button](/zh/post/button/) [on](/zh/post/on/) [her](/zh/post/her/) [shirt](/zh/post/shirt/)."
+- **名词**: 缝纫的行为或工作。例如: "[He](/zh/post/he/) [learned](/zh/post/learned/) [to](/zh/post/to/) [sew](/zh/post/sew/) [from](/zh/post/from/) [his](/zh/post/his/) [grandmother](/zh/post/grandmother/)."
 
 ## 短语
-- "[Sew](/post/sew/) [up](/post/up/)" 意味着修补或完成。例如: "I [need](/post/need/) [to](/post/to/) [sew](/post/sew/) [up](/post/up/) [this](/post/this/) [hole](/post/hole/) [in](/post/in/) [my](/post/my/) jeans [before](/post/before/) [it](/post/it/) gets [any](/post/any/) bigger."
-- "[Sew](/post/sew/) [together](/post/together/)" 指将两部分用线连接。例如: "[She](/post/she/) carefully sewed [the](/post/the/) pieces [of](/post/of/) [fabric](/post/fabric/) [together](/post/together/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [quilt](/post/quilt/)."
+- "[Sew](/zh/post/sew/) [up](/zh/post/up/)" 意味着修补或完成。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [sew](/zh/post/sew/) [up](/zh/post/up/) [this](/zh/post/this/) [hole](/zh/post/hole/) [in](/zh/post/in/) [my](/zh/post/my/) jeans [before](/zh/post/before/) [it](/zh/post/it/) gets [any](/zh/post/any/) bigger."
+- "[Sew](/zh/post/sew/) [together](/zh/post/together/)" 指将两部分用线连接。例如: "[She](/zh/post/she/) carefully sewed [the](/zh/post/the/) pieces [of](/zh/post/of/) [fabric](/zh/post/fabric/) [together](/zh/post/together/) [to](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) [quilt](/zh/post/quilt/)."
 
 ## 例句
-- 动词: "[My](/post/my/) [mother](/post/mother/) taught [me](/post/me/) [how](/post/how/) [to](/post/to/) [sew](/post/sew/) [when](/post/when/) I was [young](/post/young/)."
-- 名词: "Sewing is [a](/post/a/) [skill](/post/skill/) [that](/post/that/) has been passed [down](/post/down/) [through](/post/through/) generations [in](/post/in/) [our](/post/our/) [family](/post/family/)."
+- 动词: "[My](/zh/post/my/) [mother](/zh/post/mother/) taught [me](/zh/post/me/) [how](/zh/post/how/) [to](/zh/post/to/) [sew](/zh/post/sew/) [when](/zh/post/when/) I was [young](/zh/post/young/)."
+- 名词: "Sewing is [a](/zh/post/a/) [skill](/zh/post/skill/) [that](/zh/post/that/) has been passed [down](/zh/post/down/) [through](/zh/post/through/) generations [in](/zh/post/in/) [our](/zh/post/our/) [family](/zh/post/family/)."
 
 ## 同义词
-- [Stitch](/post/stitch/)
+- [Stitch](/zh/post/stitch/)
 - Needlework
 - Sewing
 - Mending

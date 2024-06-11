@@ -7,23 +7,23 @@ description = '[teim] a.驯服的；顺从的'
 keywords = ['ai words', 'tame']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɛm/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Calm](/en/post/calm/), docile, [or](/en/post/or/) [easily](/en/post/easily/) controlled. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [once](/en/post/once/) [wild](/en/post/wild/) [horse](/en/post/horse/) has been tamed."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [train](/en/post/train/) [or](/en/post/or/) [bring](/en/post/bring/) (an [animal](/en/post/animal/)) [to](/en/post/to/) [be](/en/post/be/) obedient [or](/en/post/or/) manageable. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) zookeepers tamed [the](/en/post/the/) lions."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) domesticated [or](/en/post/or/) trained, [often](/en/post/often/) applied [to](/en/post/to/) animals. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [tiger](/en/post/tiger/) was raised [in](/en/post/in/) captivity, [so](/en/post/so/) it's [quite](/en/post/quite/) [tame](/en/post/tame/)."
+- **[Adjective](/post/adjective/)**: [Calm](/post/calm/), docile, [or](/post/or/) [easily](/post/easily/) controlled. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [once](/post/once/) [wild](/post/wild/) [horse](/post/horse/) has been tamed."
+- **[Verb](/post/verb/)**: [To](/post/to/) [train](/post/train/) [or](/post/or/) [bring](/post/bring/) (an [animal](/post/animal/)) [to](/post/to/) [be](/post/be/) obedient [or](/post/or/) manageable. [For](/post/for/) [example](/post/example/): "[The](/post/the/) zookeepers tamed [the](/post/the/) lions."
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) domesticated [or](/post/or/) trained, [often](/post/often/) applied [to](/post/to/) animals. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [tiger](/post/tiger/) was raised [in](/post/in/) captivity, [so](/post/so/) it's [quite](/post/quite/) [tame](/post/tame/)."
 
 ## Phrases
-- "[Tame](/en/post/tame/) [a](/en/post/a/) [beast](/en/post/beast/)" refers [to](/en/post/to/) [training](/en/post/training/) an untamed [animal](/en/post/animal/).
-- "[Tame](/en/post/tame/) [nature](/en/post/nature/)" is [a](/en/post/a/) metaphor [for](/en/post/for/) overcoming [or](/en/post/or/) controlling [the](/en/post/the/) forces [of](/en/post/of/) [the](/en/post/the/) [environment](/en/post/environment/).
-- "[Tame](/en/post/tame/) [behavior](/en/post/behavior/)" describes subdued [or](/en/post/or/) controlled actions.
+- "[Tame](/post/tame/) [a](/post/a/) [beast](/post/beast/)" refers [to](/post/to/) [training](/post/training/) an untamed [animal](/post/animal/).
+- "[Tame](/post/tame/) [nature](/post/nature/)" is [a](/post/a/) metaphor [for](/post/for/) overcoming [or](/post/or/) controlling [the](/post/the/) forces [of](/post/of/) [the](/post/the/) [environment](/post/environment/).
+- "[Tame](/post/tame/) [behavior](/post/behavior/)" describes subdued [or](/post/or/) controlled actions.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) children were amazed [by](/en/post/by/) [the](/en/post/the/) [tame](/en/post/tame/) [deer](/en/post/deer/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) spent months taming [her](/en/post/her/) [new](/en/post/new/) puppy."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) years [of](/en/post/of/) [living](/en/post/living/) [in](/en/post/in/) [the](/en/post/the/) [jungle](/en/post/jungle/), [the](/en/post/the/) jaguar had [become](/en/post/become/) [quite](/en/post/quite/) [tame](/en/post/tame/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) children were amazed [by](/post/by/) [the](/post/the/) [tame](/post/tame/) [deer](/post/deer/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) spent months taming [her](/post/her/) [new](/post/new/) puppy."
+- **[Noun](/post/noun/)**: "[After](/post/after/) years [of](/post/of/) [living](/post/living/) [in](/post/in/) [the](/post/the/) [jungle](/post/jungle/), [the](/post/the/) jaguar had [become](/post/become/) [quite](/post/quite/) [tame](/post/tame/)."
 
 ## Synonyms
 - Domesticated
@@ -34,7 +34,7 @@ keywords = ['ai words', 'tame']
 - Subdued
 
 ## Antonyms
-- [Wild](/en/post/wild/)
+- [Wild](/post/wild/)
 - Untamed
 - Unrestrained
 - Uncontrollable

@@ -11,20 +11,20 @@ keywords = ['ai words', 'likely']
 /ˈlaɪkli/
 
 ## 释义
-- **形容词**: 可能的，大概的，似有可能的。例如: "It's [likely](/post/likely/) [that](/post/that/) [it](/post/it/) [will](/post/will/) [rain](/post/rain/) [tomorrow](/post/tomorrow/)."
-- **副词**: 很可能，大概。例如: "[She](/post/she/) is [likely](/post/likely/) [to](/post/to/) [accept](/post/accept/) [the](/post/the/) [offer](/post/offer/)."
+- **形容词**: 可能的，大概的，似有可能的。例如: "It's [likely](/zh/post/likely/) [that](/zh/post/that/) [it](/zh/post/it/) [will](/zh/post/will/) [rain](/zh/post/rain/) [tomorrow](/zh/post/tomorrow/)."
+- **副词**: 很可能，大概。例如: "[She](/zh/post/she/) is [likely](/zh/post/likely/) [to](/zh/post/to/) [accept](/zh/post/accept/) [the](/zh/post/the/) [offer](/zh/post/offer/)."
 
 ## 短语
-- "[likely](/post/likely/) [candidate](/post/candidate/)" 意为很可能的人选。
-- "[be](/post/be/) [likely](/post/likely/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" 意为很可能做某事。
+- "[likely](/zh/post/likely/) [candidate](/zh/post/candidate/)" 意为很可能的人选。
+- "[be](/zh/post/be/) [likely](/zh/post/likely/) [to](/zh/post/to/) [do](/zh/post/do/) [something](/zh/post/something/)" 意为很可能做某事。
 
 ## 例句
-- 形容词: "Based [on](/post/on/) [the](/post/the/) [forecast](/post/forecast/), it's [likely](/post/likely/) we'll [need](/post/need/) an [umbrella](/post/umbrella/) [tomorrow](/post/tomorrow/)."
-- 副词: "Given [her](/post/her/) skills, [she](/post/she/) is [likely](/post/likely/) [to](/post/to/) [succeed](/post/succeed/) [in](/post/in/) [the](/post/the/) [new](/post/new/) [job](/post/job/)."
+- 形容词: "Based [on](/zh/post/on/) [the](/zh/post/the/) [forecast](/zh/post/forecast/), it's [likely](/zh/post/likely/) we'll [need](/zh/post/need/) an [umbrella](/zh/post/umbrella/) [tomorrow](/zh/post/tomorrow/)."
+- 副词: "Given [her](/zh/post/her/) skills, [she](/zh/post/she/) is [likely](/zh/post/likely/) [to](/zh/post/to/) [succeed](/zh/post/succeed/) [in](/zh/post/in/) [the](/zh/post/the/) [new](/zh/post/new/) [job](/zh/post/job/)."
 
 ## 同义词
-- [probable](/post/probable/)
-- [possible](/post/possible/)
-- [feasible](/post/feasible/)
+- [probable](/zh/post/probable/)
+- [possible](/zh/post/possible/)
+- [feasible](/zh/post/feasible/)
 - plausible
 - apt

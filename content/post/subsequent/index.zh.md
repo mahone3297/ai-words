@@ -11,20 +11,20 @@ keywords = ['ai words', 'subsequent']
 /subˈsɛkwənt/
 
 ## 释义
-- **形容词**: 发生在后，随后的，接着的。例如: "[The](/post/the/) [subsequent](/post/subsequent/) events were [unexpected](/post/unexpected/)."
-- **名词**: 后续的事物，结果。例如: "[The](/post/the/) [subsequent](/post/subsequent/) [report](/post/report/) detailed [the](/post/the/) aftermath [of](/post/of/) [the](/post/the/) [accident](/post/accident/)."
+- **形容词**: 发生在后，随后的，接着的。例如: "[The](/zh/post/the/) [subsequent](/zh/post/subsequent/) events were [unexpected](/zh/post/unexpected/)."
+- **名词**: 后续的事物，结果。例如: "[The](/zh/post/the/) [subsequent](/zh/post/subsequent/) [report](/zh/post/report/) detailed [the](/zh/post/the/) aftermath [of](/zh/post/of/) [the](/zh/post/the/) [accident](/zh/post/accident/)."
 
 ## 短语
-- "[subsequent](/post/subsequent/) [to](/post/to/)" 表示“在…之后发生，紧接着”。例如: "[Subsequent](/post/subsequent/) [to](/post/to/) [the](/post/the/) [meeting](/post/meeting/), [we](/post/we/) received [a](/post/a/) [formal](/post/formal/) [proposal](/post/proposal/)."
-- "[subsequent](/post/subsequent/) developments" 指的是后来的发展或进展。例如: "[There](/post/there/) [have](/post/have/) been [several](/post/several/) [significant](/post/significant/) [subsequent](/post/subsequent/) developments [in](/post/in/) [the](/post/the/) [field](/post/field/)."
+- "[subsequent](/zh/post/subsequent/) [to](/zh/post/to/)" 表示“在…之后发生，紧接着”。例如: "[Subsequent](/zh/post/subsequent/) [to](/zh/post/to/) [the](/zh/post/the/) [meeting](/zh/post/meeting/), [we](/zh/post/we/) received [a](/zh/post/a/) [formal](/zh/post/formal/) [proposal](/zh/post/proposal/)."
+- "[subsequent](/zh/post/subsequent/) developments" 指的是后来的发展或进展。例如: "[There](/zh/post/there/) [have](/zh/post/have/) been [several](/zh/post/several/) [significant](/zh/post/significant/) [subsequent](/zh/post/subsequent/) developments [in](/zh/post/in/) [the](/zh/post/the/) [field](/zh/post/field/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) [subsequent](/post/subsequent/) [meeting](/post/meeting/) was [more](/post/more/) [productive](/post/productive/) [than](/post/than/) [the](/post/the/) [previous](/post/previous/) [one](/post/one/)."
-- 名词: "[The](/post/the/) [subsequent](/post/subsequent/) [report](/post/report/) [on](/post/on/) [the](/post/the/) [investigation](/post/investigation/) [provided](/post/provided/) [new](/post/new/) insights."
+- 形容词: "[The](/zh/post/the/) [subsequent](/zh/post/subsequent/) [meeting](/zh/post/meeting/) was [more](/zh/post/more/) [productive](/zh/post/productive/) [than](/zh/post/than/) [the](/zh/post/the/) [previous](/zh/post/previous/) [one](/zh/post/one/)."
+- 名词: "[The](/zh/post/the/) [subsequent](/zh/post/subsequent/) [report](/zh/post/report/) [on](/zh/post/on/) [the](/zh/post/the/) [investigation](/zh/post/investigation/) [provided](/zh/post/provided/) [new](/zh/post/new/) insights."
 
 ## 同义词
-- [Following](/post/following/)
-- [Later](/post/later/)
-- [Afterward](/post/afterward/)
+- [Following](/zh/post/following/)
+- [Later](/zh/post/later/)
+- [Afterward](/zh/post/afterward/)
 - Subsequently
 - Thereafter

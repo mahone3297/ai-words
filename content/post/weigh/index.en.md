@@ -7,41 +7,41 @@ description = '[wei] vt.称…的重量；掂量'
 keywords = ['ai words', 'weigh']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɛɪ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: n. (v) [To](/en/post/to/) [determine](/en/post/determine/) [the](/en/post/the/) [mass](/en/post/mass/) [or](/en/post/or/) [weight](/en/post/weight/) [of](/en/post/of/) [something](/en/post/something/) [by](/en/post/by/) using [a](/en/post/a/) [scale](/en/post/scale/) [or](/en/post/or/) [balance](/en/post/balance/). (v) [To](/en/post/to/) [have](/en/post/have/) [importance](/en/post/importance/) [or](/en/post/or/) [significance](/en/post/significance/); [to](/en/post/to/) [carry](/en/post/carry/) [meaning](/en/post/meaning/) [or](/en/post/or/) [influence](/en/post/influence/). (v) [To](/en/post/to/) [consider](/en/post/consider/) [or](/en/post/or/) [assess](/en/post/assess/) [the](/en/post/the/) [value](/en/post/value/) [or](/en/post/or/) [impact](/en/post/impact/) [of](/en/post/of/) [something](/en/post/something/).
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) weighing [something](/en/post/something/), [or](/en/post/or/) [the](/en/post/the/) [result](/en/post/result/) [of](/en/post/of/) [that](/en/post/that/) [measurement](/en/post/measurement/).
+- **[Verb](/post/verb/)**: n. (v) [To](/post/to/) [determine](/post/determine/) [the](/post/the/) [mass](/post/mass/) [or](/post/or/) [weight](/post/weight/) [of](/post/of/) [something](/post/something/) [by](/post/by/) using [a](/post/a/) [scale](/post/scale/) [or](/post/or/) [balance](/post/balance/). (v) [To](/post/to/) [have](/post/have/) [importance](/post/importance/) [or](/post/or/) [significance](/post/significance/); [to](/post/to/) [carry](/post/carry/) [meaning](/post/meaning/) [or](/post/or/) [influence](/post/influence/). (v) [To](/post/to/) [consider](/post/consider/) [or](/post/or/) [assess](/post/assess/) [the](/post/the/) [value](/post/value/) [or](/post/or/) [impact](/post/impact/) [of](/post/of/) [something](/post/something/).
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) weighing [something](/post/something/), [or](/post/or/) [the](/post/the/) [result](/post/result/) [of](/post/of/) [that](/post/that/) [measurement](/post/measurement/).
 
 ## Phrases
-- "[Weigh](/en/post/weigh/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [measure](/en/post/measure/) [its](/en/post/its/) [mass](/en/post/mass/) [or](/en/post/or/) heaviness.
-- "[The](/en/post/the/) [weight](/en/post/weight/) [of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/)" refers [to](/en/post/to/) [their](/en/post/their/) [body](/en/post/body/) [mass](/en/post/mass/).
-- "[A](/en/post/a/) [matter](/en/post/matter/) [of](/en/post/of/) [great](/en/post/great/)/[little](/en/post/little/) [weight](/en/post/weight/)" signifies [something](/en/post/something/) [important](/en/post/important/)/unimportant.
+- "[Weigh](/post/weigh/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [measure](/post/measure/) [its](/post/its/) [mass](/post/mass/) [or](/post/or/) heaviness.
+- "[The](/post/the/) [weight](/post/weight/) [of](/post/of/) [a](/post/a/) [person](/post/person/)" refers [to](/post/to/) [their](/post/their/) [body](/post/body/) [mass](/post/mass/).
+- "[A](/post/a/) [matter](/post/matter/) [of](/post/of/) [great](/post/great/)/[little](/post/little/) [weight](/post/weight/)" signifies [something](/post/something/) [important](/post/important/)/unimportant.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [weigh](/en/post/weigh/) [the](/en/post/the/) ingredients [before](/en/post/before/) mixing [them](/en/post/them/)."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) words carried [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [weight](/en/post/weight/) [in](/en/post/in/) [the](/en/post/the/) decision-making [process](/en/post/process/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[She](/en/post/she/) felt [the](/en/post/the/) [weight](/en/post/weight/) [of](/en/post/of/) [responsibility](/en/post/responsibility/) [on](/en/post/on/) [her](/en/post/her/) shoulders."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [weigh](/post/weigh/) [the](/post/the/) ingredients [before](/post/before/) mixing [them](/post/them/)."
+- **[Noun](/post/noun/)**: "[His](/post/his/) words carried [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [weight](/post/weight/) [in](/post/in/) [the](/post/the/) decision-making [process](/post/process/)."
+- **Phrasal [Verb](/post/verb/)**: "[She](/post/she/) felt [the](/post/the/) [weight](/post/weight/) [of](/post/of/) [responsibility](/post/responsibility/) [on](/post/on/) [her](/post/her/) shoulders."
 
 ## Synonyms
-- [Measure](/en/post/measure/)
-- [Estimate](/en/post/estimate/)
-- [Gauge](/en/post/gauge/)
-- [Assess](/en/post/assess/)
-- [Judge](/en/post/judge/)
-- [Importance](/en/post/importance/)
-- [Significance](/en/post/significance/)
+- [Measure](/post/measure/)
+- [Estimate](/post/estimate/)
+- [Gauge](/post/gauge/)
+- [Assess](/post/assess/)
+- [Judge](/post/judge/)
+- [Importance](/post/importance/)
+- [Significance](/post/significance/)
 
 ## Antonyms
-- [Neglect](/en/post/neglect/)
-- [Overlook](/en/post/overlook/)
+- [Neglect](/post/neglect/)
+- [Overlook](/post/overlook/)
 - Underscore
 - Disregard
 - Insignificant
-- [Lighten](/en/post/lighten/) ([in](/en/post/in/) terms [of](/en/post/of/) [weight](/en/post/weight/))
+- [Lighten](/post/lighten/) ([in](/post/in/) terms [of](/post/of/) [weight](/post/weight/))
 
-## [Usage](/en/post/usage/)
-- **[Weight](/en/post/weight/)** [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [both](/en/post/both/) [a](/en/post/a/) [verb](/en/post/verb/) [and](/en/post/and/) [a](/en/post/a/) [noun](/en/post/noun/), making [it](/en/post/it/) versatile [in](/en/post/in/) [construction](/en/post/construction/).
-- [As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), it's [often](/en/post/often/) followed [by](/en/post/by/) [a](/en/post/a/) [direct](/en/post/direct/) [object](/en/post/object/) (e.g., "[weigh](/en/post/weigh/) [the](/en/post/the/) [package](/en/post/package/)") [or](/en/post/or/) an [indirect](/en/post/indirect/) [object](/en/post/object/) (e.g., "[he](/en/post/he/) weighed [himself](/en/post/himself/)").
-- [As](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) followed [by](/en/post/by/) "[down](/en/post/down/)" (e.g., "[the](/en/post/the/) [weight](/en/post/weight/) [of](/en/post/of/) [the](/en/post/the/) [world](/en/post/world/) [on](/en/post/on/) [your](/en/post/your/) shoulders") [or](/en/post/or/) "[up](/en/post/up/)" (e.g., "[increase](/en/post/increase/) [in](/en/post/in/) [weight](/en/post/weight/)").
+## [Usage](/post/usage/)
+- **[Weight](/post/weight/)** [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [both](/post/both/) [a](/post/a/) [verb](/post/verb/) [and](/post/and/) [a](/post/a/) [noun](/post/noun/), making [it](/post/it/) versatile [in](/post/in/) [construction](/post/construction/).
+- [As](/post/as/) [a](/post/a/) [verb](/post/verb/), it's [often](/post/often/) followed [by](/post/by/) [a](/post/a/) [direct](/post/direct/) [object](/post/object/) (e.g., "[weigh](/post/weigh/) [the](/post/the/) [package](/post/package/)") [or](/post/or/) an [indirect](/post/indirect/) [object](/post/object/) (e.g., "[he](/post/he/) weighed [himself](/post/himself/)").
+- [As](/post/as/) [a](/post/a/) [noun](/post/noun/), [it](/post/it/) [can](/post/can/) [be](/post/be/) followed [by](/post/by/) "[down](/post/down/)" (e.g., "[the](/post/the/) [weight](/post/weight/) [of](/post/of/) [the](/post/the/) [world](/post/world/) [on](/post/on/) [your](/post/your/) shoulders") [or](/post/or/) "[up](/post/up/)" (e.g., "[increase](/post/increase/) [in](/post/in/) [weight](/post/weight/)").

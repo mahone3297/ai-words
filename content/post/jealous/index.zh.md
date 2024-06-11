@@ -11,16 +11,16 @@ keywords = ['ai words', 'jealous']
 /ˈdʒe.ləs/
 
 ## 释义
-- **形容词**: 表示嫉妒或猜疑的。例如: "[She](/post/she/) felt [jealous](/post/jealous/) [of](/post/of/) [her](/post/her/) friend's [new](/post/new/) [job](/post/job/)."
-- **动词**: 感到嫉妒或羡慕。例如: "[He](/post/he/) couldn't [help](/post/help/) [but](/post/but/) [feel](/post/feel/) [jealous](/post/jealous/) [when](/post/when/) [he](/post/he/) [saw](/post/saw/) [them](/post/them/) [together](/post/together/)."
+- **形容词**: 表示嫉妒或猜疑的。例如: "[She](/zh/post/she/) felt [jealous](/zh/post/jealous/) [of](/zh/post/of/) [her](/zh/post/her/) friend's [new](/zh/post/new/) [job](/zh/post/job/)."
+- **动词**: 感到嫉妒或羡慕。例如: "[He](/zh/post/he/) couldn't [help](/zh/post/help/) [but](/zh/post/but/) [feel](/zh/post/feel/) [jealous](/zh/post/jealous/) [when](/zh/post/when/) [he](/zh/post/he/) [saw](/zh/post/saw/) [them](/zh/post/them/) [together](/zh/post/together/)."
 
 ## 短语
-- "jealousy" 是 "[jealous](/post/jealous/)" 的名词形式，表示嫉妒的情感或行为。
-- "[jealous](/post/jealous/) [lover](/post/lover/)" 指的是一个容易产生嫉妒情感的情侣。
+- "jealousy" 是 "[jealous](/zh/post/jealous/)" 的名词形式，表示嫉妒的情感或行为。
+- "[jealous](/zh/post/jealous/) [lover](/zh/post/lover/)" 指的是一个容易产生嫉妒情感的情侣。
 
 ## 例句
-- 形容词: "[His](/post/his/) [constant](/post/constant/) [praise](/post/praise/) [for](/post/for/) [her](/post/her/) made [his](/post/his/) coworkers [feel](/post/feel/) [jealous](/post/jealous/)."
-- 动词: "[She](/post/she/) couldn't [help](/post/help/) [but](/post/but/) [jealous](/post/jealous/) [of](/post/of/) [her](/post/her/) sister's [success](/post/success/)."
+- 形容词: "[His](/zh/post/his/) [constant](/zh/post/constant/) [praise](/zh/post/praise/) [for](/zh/post/for/) [her](/zh/post/her/) made [his](/zh/post/his/) coworkers [feel](/zh/post/feel/) [jealous](/zh/post/jealous/)."
+- 动词: "[She](/zh/post/she/) couldn't [help](/zh/post/help/) [but](/zh/post/but/) [jealous](/zh/post/jealous/) [of](/zh/post/of/) [her](/zh/post/her/) sister's [success](/zh/post/success/)."
 
 ## 同义词
 - Envious

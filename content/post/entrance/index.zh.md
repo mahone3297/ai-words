@@ -12,24 +12,24 @@ keywords = ['ai words', 'entrance']
 
 ## 释义
 - **名词**: 
-    - 入口；大门。例如: "[The](/post/the/) [entrance](/post/entrance/) [to](/post/to/) [the](/post/the/) [museum](/post/museum/) is [through](/post/through/) [those](/post/those/) [large](/post/large/) [iron](/post/iron/) gates."
-    - 进入；进入权。例如: "[She](/post/she/) won [a](/post/a/) [free](/post/free/) [entrance](/post/entrance/) [to](/post/to/) [the](/post/the/) [concert](/post/concert/)."
-    - 首次露面；初次登场。例如: "[Her](/post/her/) [entrance](/post/entrance/) [on](/post/on/) [stage](/post/stage/) was greeted [with](/post/with/) applause."
+    - 入口；大门。例如: "[The](/zh/post/the/) [entrance](/zh/post/entrance/) [to](/zh/post/to/) [the](/zh/post/the/) [museum](/zh/post/museum/) is [through](/zh/post/through/) [those](/zh/post/those/) [large](/zh/post/large/) [iron](/zh/post/iron/) gates."
+    - 进入；进入权。例如: "[She](/zh/post/she/) won [a](/zh/post/a/) [free](/zh/post/free/) [entrance](/zh/post/entrance/) [to](/zh/post/to/) [the](/zh/post/the/) [concert](/zh/post/concert/)."
+    - 首次露面；初次登场。例如: "[Her](/zh/post/her/) [entrance](/zh/post/entrance/) [on](/zh/post/on/) [stage](/zh/post/stage/) was greeted [with](/zh/post/with/) applause."
 
 - **动词**: 
-    引入；使进入。例如: "[The](/post/the/) [teacher](/post/teacher/) [gently](/post/gently/) enetered [the](/post/the/) students [into](/post/into/) [the](/post/the/) [discussion](/post/discussion/)."
+    引入；使进入。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) [gently](/zh/post/gently/) enetered [the](/zh/post/the/) students [into](/zh/post/into/) [the](/zh/post/the/) [discussion](/zh/post/discussion/)."
 
 ## 短语
-- "[Entrance](/post/entrance/) [fee](/post/fee/)" 意为入场费或门票。
-- "[Make](/post/make/) an [entrance](/post/entrance/)" 指引人注目的出现。
+- "[Entrance](/zh/post/entrance/) [fee](/zh/post/fee/)" 意为入场费或门票。
+- "[Make](/zh/post/make/) an [entrance](/zh/post/entrance/)" 指引人注目的出现。
 
 ## 例句
-- 名词: "[Please](/post/please/) [wait](/post/wait/) [at](/post/at/) [the](/post/the/) [main](/post/main/) [entrance](/post/entrance/) [until](/post/until/) [your](/post/your/) [guide](/post/guide/) arrives."
-- 动词: "[The](/post/the/) magician's [assistant](/post/assistant/) elegantly entrances [the](/post/the/) [audience](/post/audience/) [with](/post/with/) [her](/post/her/) tricks."
+- 名词: "[Please](/zh/post/please/) [wait](/zh/post/wait/) [at](/zh/post/at/) [the](/zh/post/the/) [main](/zh/post/main/) [entrance](/zh/post/entrance/) [until](/zh/post/until/) [your](/zh/post/your/) [guide](/zh/post/guide/) arrives."
+- 动词: "[The](/zh/post/the/) magician's [assistant](/zh/post/assistant/) elegantly entrances [the](/zh/post/the/) [audience](/zh/post/audience/) [with](/zh/post/with/) [her](/zh/post/her/) tricks."
 
 ## 同义词
-- [Entry](/post/entry/)
-- [Access](/post/access/)
+- [Entry](/zh/post/entry/)
+- [Access](/zh/post/access/)
 - Gateway
-- [Admission](/post/admission/)
-- [Opening](/post/opening/)
+- [Admission](/zh/post/admission/)
+- [Opening](/zh/post/opening/)

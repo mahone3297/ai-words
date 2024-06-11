@@ -7,36 +7,36 @@ description = '[splæ∫] vt.&n.溅，泼，飞溅'
 keywords = ['ai words', 'splash']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /splæʃ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [action](/en/post/action/) [or](/en/post/or/) [sound](/en/post/sound/) made [when](/en/post/when/) [something](/en/post/something/) hits [a](/en/post/a/) [surface](/en/post/surface/) [with](/en/post/with/) [force](/en/post/force/), causing [water](/en/post/water/), [liquid](/en/post/liquid/), [or](/en/post/or/) [other](/en/post/other/) substances [to](/en/post/to/) [be](/en/post/be/) sent [out](/en/post/out/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [rain](/en/post/rain/) created [a](/en/post/a/) [big](/en/post/big/) [splash](/en/post/splash/) [when](/en/post/when/) [it](/en/post/it/) [hit](/en/post/hit/) [the](/en/post/the/) puddle."
-   2. [A](/en/post/a/) [sudden](/en/post/sudden/) [or](/en/post/or/) conspicuous [display](/en/post/display/) [or](/en/post/or/) manifestation, [often](/en/post/often/) [of](/en/post/of/) [energy](/en/post/energy/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [entrance](/en/post/entrance/) was [a](/en/post/a/) [splash](/en/post/splash/) [of](/en/post/of/) [color](/en/post/color/) [in](/en/post/in/) [the](/en/post/the/) [otherwise](/en/post/otherwise/) [dull](/en/post/dull/) [event](/en/post/event/)."
-   3. [A](/en/post/a/) [social](/en/post/social/) media sensation [or](/en/post/or/) viral [moment](/en/post/moment/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) app had [a](/en/post/a/) [huge](/en/post/huge/) [splash](/en/post/splash/) [in](/en/post/in/) [the](/en/post/the/) tech [world](/en/post/world/)."
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [action](/post/action/) [or](/post/or/) [sound](/post/sound/) made [when](/post/when/) [something](/post/something/) hits [a](/post/a/) [surface](/post/surface/) [with](/post/with/) [force](/post/force/), causing [water](/post/water/), [liquid](/post/liquid/), [or](/post/or/) [other](/post/other/) substances [to](/post/to/) [be](/post/be/) sent [out](/post/out/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [rain](/post/rain/) created [a](/post/a/) [big](/post/big/) [splash](/post/splash/) [when](/post/when/) [it](/post/it/) [hit](/post/hit/) [the](/post/the/) puddle."
+   2. [A](/post/a/) [sudden](/post/sudden/) [or](/post/or/) conspicuous [display](/post/display/) [or](/post/or/) manifestation, [often](/post/often/) [of](/post/of/) [energy](/post/energy/) [or](/post/or/) [enthusiasm](/post/enthusiasm/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [entrance](/post/entrance/) was [a](/post/a/) [splash](/post/splash/) [of](/post/of/) [color](/post/color/) [in](/post/in/) [the](/post/the/) [otherwise](/post/otherwise/) [dull](/post/dull/) [event](/post/event/)."
+   3. [A](/post/a/) [social](/post/social/) media sensation [or](/post/or/) viral [moment](/post/moment/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) app had [a](/post/a/) [huge](/post/huge/) [splash](/post/splash/) [in](/post/in/) [the](/post/the/) tech [world](/post/world/)."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) splashing [motion](/en/post/motion/) [or](/en/post/or/) [noise](/en/post/noise/) [by](/en/post/by/) hitting [or](/en/post/or/) entering [a](/en/post/a/) [liquid](/en/post/liquid/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) jumped [into](/en/post/into/) [the](/en/post/the/) [pool](/en/post/pool/), creating [a](/en/post/a/) [big](/en/post/big/) [splash](/en/post/splash/)."
-   2. [To](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [sudden](/en/post/sudden/) [impact](/en/post/impact/) [or](/en/post/or/) [stir](/en/post/stir/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [public](/en/post/public/) context. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [book](/en/post/book/) had [a](/en/post/a/) [splash](/en/post/splash/) [in](/en/post/in/) [the](/en/post/the/) [literary](/en/post/literary/) [scene](/en/post/scene/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [a](/post/a/) splashing [motion](/post/motion/) [or](/post/or/) [noise](/post/noise/) [by](/post/by/) hitting [or](/post/or/) entering [a](/post/a/) [liquid](/post/liquid/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) jumped [into](/post/into/) [the](/post/the/) [pool](/post/pool/), creating [a](/post/a/) [big](/post/big/) [splash](/post/splash/)."
+   2. [To](/post/to/) [create](/post/create/) [a](/post/a/) [sudden](/post/sudden/) [impact](/post/impact/) [or](/post/or/) [stir](/post/stir/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [public](/post/public/) context. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [book](/post/book/) had [a](/post/a/) [splash](/post/splash/) [in](/post/in/) [the](/post/the/) [literary](/post/literary/) [scene](/post/scene/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [splash](/en/post/splash/)" [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [strong](/en/post/strong/) [impression](/en/post/impression/) [or](/en/post/or/) [generate](/en/post/generate/) excitement.
-- "Splish-splash" is [a](/en/post/a/) onomatopoeic [term](/en/post/term/) [for](/en/post/for/) [the](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) [something](/en/post/something/) splashing.
-- "[She](/en/post/she/) made [a](/en/post/a/) [big](/en/post/big/) [splash](/en/post/splash/) [at](/en/post/at/) [her](/en/post/her/) [first](/en/post/first/) [charity](/en/post/charity/) [event](/en/post/event/)."
+- "[Make](/post/make/) [a](/post/a/) [splash](/post/splash/)" [means](/post/means/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [strong](/post/strong/) [impression](/post/impression/) [or](/post/or/) [generate](/post/generate/) excitement.
+- "Splish-splash" is [a](/post/a/) onomatopoeic [term](/post/term/) [for](/post/for/) [the](/post/the/) [sound](/post/sound/) [of](/post/of/) [something](/post/something/) splashing.
+- "[She](/post/she/) made [a](/post/a/) [big](/post/big/) [splash](/post/splash/) [at](/post/at/) [her](/post/her/) [first](/post/first/) [charity](/post/charity/) [event](/post/event/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) kids were having [fun](/en/post/fun/) splashing [around](/en/post/around/) [in](/en/post/in/) [the](/en/post/the/) [pool](/en/post/pool/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) artist's [painting](/en/post/painting/) was [a](/en/post/a/) [splash](/en/post/splash/) [of](/en/post/of/) vibrant colors [on](/en/post/on/) [the](/en/post/the/) [gallery](/en/post/gallery/) [wall](/en/post/wall/)."
-- **Interjection**: "[Oh](/en/post/oh/) [no](/en/post/no/), [my](/en/post/my/) [shoe](/en/post/shoe/) [just](/en/post/just/) splashed [with](/en/post/with/) [mud](/en/post/mud/)!"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) kids were having [fun](/post/fun/) splashing [around](/post/around/) [in](/post/in/) [the](/post/the/) [pool](/post/pool/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) artist's [painting](/post/painting/) was [a](/post/a/) [splash](/post/splash/) [of](/post/of/) vibrant colors [on](/post/on/) [the](/post/the/) [gallery](/post/gallery/) [wall](/post/wall/)."
+- **Interjection**: "[Oh](/post/oh/) [no](/post/no/), [my](/post/my/) [shoe](/post/shoe/) [just](/post/just/) splashed [with](/post/with/) [mud](/post/mud/)!"
 
 ## Synonyms
 - Splat
 - Dousing
 - Jolt
 - Splashdown
-- [Impact](/en/post/impact/)
+- [Impact](/post/impact/)
 
 ## Antonyms
 - Subtle
-- [Quiet](/en/post/quiet/)
+- [Quiet](/post/quiet/)
 - Insignificant
 - Unnoticed

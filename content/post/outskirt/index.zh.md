@@ -11,20 +11,20 @@ keywords = ['ai words', 'outskirt']
 /ˈaʊtskɜːrt/
 
 ## 释义
-- **名词 (n)**: 城市或城镇边缘的郊区；外围地区。例如: "[The](/post/the/) city's [outskirt](/post/outskirt/) is known [for](/post/for/) [its](/post/its/) scenic [countryside](/post/countryside/)."
-- **形容词 (adj)**: 指位于城市或城镇边缘的。例如: "[There](/post/there/) are [several](/post/several/) [outskirt](/post/outskirt/) villages [with](/post/with/) [rich](/post/rich/) agricultural [land](/post/land/)."
+- **名词 (n)**: 城市或城镇边缘的郊区；外围地区。例如: "[The](/zh/post/the/) city's [outskirt](/zh/post/outskirt/) is known [for](/zh/post/for/) [its](/zh/post/its/) scenic [countryside](/zh/post/countryside/)."
+- **形容词 (adj)**: 指位于城市或城镇边缘的。例如: "[There](/zh/post/there/) are [several](/zh/post/several/) [outskirt](/zh/post/outskirt/) villages [with](/zh/post/with/) [rich](/zh/post/rich/) agricultural [land](/zh/post/land/)."
 
 ## 短语
-- "[live](/post/live/) [on](/post/on/) [the](/post/the/) outskirts [of](/post/of/) [a](/post/a/) [town](/post/town/)" 意味着住在城镇的边缘。
-- "[the](/post/the/) [outskirt](/post/outskirt/) areas" 泛指城市的外围区域。
+- "[live](/zh/post/live/) [on](/zh/post/on/) [the](/zh/post/the/) outskirts [of](/zh/post/of/) [a](/zh/post/a/) [town](/zh/post/town/)" 意味着住在城镇的边缘。
+- "[the](/zh/post/the/) [outskirt](/zh/post/outskirt/) areas" 泛指城市的外围区域。
 
 ## 例句
-- 名词: "[We](/post/we/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [walk](/post/walk/) [in](/post/in/) [the](/post/the/) [peaceful](/post/peaceful/) [outskirt](/post/outskirt/) woods."
-- 形容词: "[The](/post/the/) [outskirt](/post/outskirt/) [farm](/post/farm/) had [a](/post/a/) breathtaking [view](/post/view/) [of](/post/of/) [the](/post/the/) [city](/post/city/) skyline."
+- 名词: "[We](/zh/post/we/) decided [to](/zh/post/to/) [take](/zh/post/take/) [a](/zh/post/a/) [walk](/zh/post/walk/) [in](/zh/post/in/) [the](/zh/post/the/) [peaceful](/zh/post/peaceful/) [outskirt](/zh/post/outskirt/) woods."
+- 形容词: "[The](/zh/post/the/) [outskirt](/zh/post/outskirt/) [farm](/zh/post/farm/) had [a](/zh/post/a/) breathtaking [view](/zh/post/view/) [of](/zh/post/of/) [the](/zh/post/the/) [city](/zh/post/city/) skyline."
 
 ## 同义词
-- [Suburb](/post/suburb/)
+- [Suburb](/zh/post/suburb/)
 - Periphery
 - Borderland
 - Fringe
-- [Edge](/post/edge/)
+- [Edge](/zh/post/edge/)

@@ -7,44 +7,44 @@ description = '[ˈtəːminl] a.末端的 n.末端'
 keywords = ['ai words', 'terminal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /təˈrmɪnəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Terminal](/en/post/terminal/)**: (1) [A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [place](/en/post/place/) [where](/en/post/where/) [a](/en/post/a/) [communication](/en/post/communication/) [system](/en/post/system/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [train](/en/post/train/) [or](/en/post/or/) [airline](/en/post/airline/), ends [or](/en/post/or/) connects [to](/en/post/to/) [other](/en/post/other/) routes. [Example](/en/post/example/): "[The](/en/post/the/) [airport](/en/post/airport/) [terminal](/en/post/terminal/) is bustling [with](/en/post/with/) travelers."
-- (2) [The](/en/post/the/) [final](/en/post/final/) [stage](/en/post/stage/) [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) events, [often](/en/post/often/) marked [by](/en/post/by/) [the](/en/post/the/) [end](/en/post/end/) [or](/en/post/or/) [conclusion](/en/post/conclusion/). [Example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) reached [its](/en/post/its/) [terminal](/en/post/terminal/) [phase](/en/post/phase/) [before](/en/post/before/) [the](/en/post/the/) deadline."
-- (3) [In](/en/post/in/) computing, [a](/en/post/a/) software [program](/en/post/program/) [that](/en/post/that/) provides [access](/en/post/access/) [to](/en/post/to/) [a](/en/post/a/) [network](/en/post/network/) [or](/en/post/or/) [the](/en/post/the/) internet. [Example](/en/post/example/): "[A](/en/post/a/) web browser is [a](/en/post/a/) [common](/en/post/common/) [terminal](/en/post/terminal/) [application](/en/post/application/)."
-- (4) ([Medicine](/en/post/medicine/)) [The](/en/post/the/) [end](/en/post/end/) [point](/en/post/point/) [of](/en/post/of/) [a](/en/post/a/) [disease](/en/post/disease/) [or](/en/post/or/) [treatment](/en/post/treatment/), [often](/en/post/often/) marked [by](/en/post/by/) [death](/en/post/death/). [Example](/en/post/example/): "[The](/en/post/the/) patient's [terminal](/en/post/terminal/) [illness](/en/post/illness/) progressed [rapidly](/en/post/rapidly/)."
+### [Noun](/post/noun/)
+- **[Terminal](/post/terminal/)**: (1) [A](/post/a/) [device](/post/device/) [or](/post/or/) [place](/post/place/) [where](/post/where/) [a](/post/a/) [communication](/post/communication/) [system](/post/system/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [train](/post/train/) [or](/post/or/) [airline](/post/airline/), ends [or](/post/or/) connects [to](/post/to/) [other](/post/other/) routes. [Example](/post/example/): "[The](/post/the/) [airport](/post/airport/) [terminal](/post/terminal/) is bustling [with](/post/with/) travelers."
+- (2) [The](/post/the/) [final](/post/final/) [stage](/post/stage/) [of](/post/of/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [series](/post/series/) [of](/post/of/) events, [often](/post/often/) marked [by](/post/by/) [the](/post/the/) [end](/post/end/) [or](/post/or/) [conclusion](/post/conclusion/). [Example](/post/example/): "[The](/post/the/) [project](/post/project/) reached [its](/post/its/) [terminal](/post/terminal/) [phase](/post/phase/) [before](/post/before/) [the](/post/the/) deadline."
+- (3) [In](/post/in/) computing, [a](/post/a/) software [program](/post/program/) [that](/post/that/) provides [access](/post/access/) [to](/post/to/) [a](/post/a/) [network](/post/network/) [or](/post/or/) [the](/post/the/) internet. [Example](/post/example/): "[A](/post/a/) web browser is [a](/post/a/) [common](/post/common/) [terminal](/post/terminal/) [application](/post/application/)."
+- (4) ([Medicine](/post/medicine/)) [The](/post/the/) [end](/post/end/) [point](/post/point/) [of](/post/of/) [a](/post/a/) [disease](/post/disease/) [or](/post/or/) [treatment](/post/treatment/), [often](/post/often/) marked [by](/post/by/) [death](/post/death/). [Example](/post/example/): "[The](/post/the/) patient's [terminal](/post/terminal/) [illness](/post/illness/) progressed [rapidly](/post/rapidly/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [reach](/en/post/reach/) [or](/en/post/or/) [arrive](/en/post/arrive/) [at](/en/post/at/) [a](/en/post/a/) [terminal](/en/post/terminal/) [or](/en/post/or/) endpoint. [Example](/en/post/example/): "[The](/en/post/the/) [train](/en/post/train/) terminated [at](/en/post/at/) [the](/en/post/the/) [city](/en/post/city/) center."
-- [To](/en/post/to/) [conclude](/en/post/conclude/) [or](/en/post/or/) [finish](/en/post/finish/) [a](/en/post/a/) [process](/en/post/process/), [especially](/en/post/especially/) abruptly. [Example](/en/post/example/): "[Their](/en/post/their/) [conversation](/en/post/conversation/) terminated [after](/en/post/after/) [a](/en/post/a/) disagreement."
+### [Verb](/post/verb/)
+- [To](/post/to/) [reach](/post/reach/) [or](/post/or/) [arrive](/post/arrive/) [at](/post/at/) [a](/post/a/) [terminal](/post/terminal/) [or](/post/or/) endpoint. [Example](/post/example/): "[The](/post/the/) [train](/post/train/) terminated [at](/post/at/) [the](/post/the/) [city](/post/city/) center."
+- [To](/post/to/) [conclude](/post/conclude/) [or](/post/or/) [finish](/post/finish/) [a](/post/a/) [process](/post/process/), [especially](/post/especially/) abruptly. [Example](/post/example/): "[Their](/post/their/) [conversation](/post/conversation/) terminated [after](/post/after/) [a](/post/a/) disagreement."
 
-### [Adjective](/en/post/adjective/)
-- Designating [the](/en/post/the/) [last](/en/post/last/) [or](/en/post/or/) [final](/en/post/final/) [stage](/en/post/stage/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[A](/en/post/a/) [terminal](/en/post/terminal/) [stage](/en/post/stage/) [of](/en/post/of/) [cancer](/en/post/cancer/)."
-- Reaching [or](/en/post/or/) situated [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) [route](/en/post/route/). [Example](/en/post/example/): "[A](/en/post/a/) [terminal](/en/post/terminal/) [station](/en/post/station/) [on](/en/post/on/) [the](/en/post/the/) subway."
+### [Adjective](/post/adjective/)
+- Designating [the](/post/the/) [last](/post/last/) [or](/post/or/) [final](/post/final/) [stage](/post/stage/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[A](/post/a/) [terminal](/post/terminal/) [stage](/post/stage/) [of](/post/of/) [cancer](/post/cancer/)."
+- Reaching [or](/post/or/) situated [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [a](/post/a/) [line](/post/line/) [or](/post/or/) [route](/post/route/). [Example](/post/example/): "[A](/post/a/) [terminal](/post/terminal/) [station](/post/station/) [on](/post/on/) [the](/post/the/) subway."
 
-### [Adverb](/en/post/adverb/)
-- (Computing) [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) indicates [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/). [Example](/en/post/example/): "[The](/en/post/the/) [command](/en/post/command/) was executed [terminal](/en/post/terminal/)."
+### [Adverb](/post/adverb/)
+- (Computing) [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) indicates [the](/post/the/) [end](/post/end/) [of](/post/of/) [a](/post/a/) [process](/post/process/). [Example](/post/example/): "[The](/post/the/) [command](/post/command/) was executed [terminal](/post/terminal/)."
 
 ## Phrases
-- "[At](/en/post/at/) [the](/en/post/the/) [terminal](/en/post/terminal/)" refers [to](/en/post/to/) [the](/en/post/the/) [end](/en/post/end/) [point](/en/post/point/) [or](/en/post/or/) check-in [area](/en/post/area/) [at](/en/post/at/) an [airport](/en/post/airport/) [or](/en/post/or/) [train](/en/post/train/) [station](/en/post/station/).
-- "[Terminal](/en/post/terminal/) [condition](/en/post/condition/)" describes [a](/en/post/a/) [severe](/en/post/severe/) [and](/en/post/and/) incurable [medical](/en/post/medical/) [state](/en/post/state/).
-- "[Terminal](/en/post/terminal/) [velocity](/en/post/velocity/)" is [the](/en/post/the/) [maximum](/en/post/maximum/) [speed](/en/post/speed/) reached [by](/en/post/by/) an [object](/en/post/object/) falling [through](/en/post/through/) [the](/en/post/the/) [air](/en/post/air/) [without](/en/post/without/) [further](/en/post/further/) [acceleration](/en/post/acceleration/) [due](/en/post/due/) [to](/en/post/to/) [air](/en/post/air/) [resistance](/en/post/resistance/).
+- "[At](/post/at/) [the](/post/the/) [terminal](/post/terminal/)" refers [to](/post/to/) [the](/post/the/) [end](/post/end/) [point](/post/point/) [or](/post/or/) check-in [area](/post/area/) [at](/post/at/) an [airport](/post/airport/) [or](/post/or/) [train](/post/train/) [station](/post/station/).
+- "[Terminal](/post/terminal/) [condition](/post/condition/)" describes [a](/post/a/) [severe](/post/severe/) [and](/post/and/) incurable [medical](/post/medical/) [state](/post/state/).
+- "[Terminal](/post/terminal/) [velocity](/post/velocity/)" is [the](/post/the/) [maximum](/post/maximum/) [speed](/post/speed/) reached [by](/post/by/) an [object](/post/object/) falling [through](/post/through/) [the](/post/the/) [air](/post/air/) [without](/post/without/) [further](/post/further/) [acceleration](/post/acceleration/) [due](/post/due/) [to](/post/to/) [air](/post/air/) [resistance](/post/resistance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) passengers were waiting [at](/en/post/at/) [the](/en/post/the/) [airport](/en/post/airport/) [terminal](/en/post/terminal/) [for](/en/post/for/) [their](/en/post/their/) [flight](/en/post/flight/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) software terminated [all](/en/post/all/) running processes [when](/en/post/when/) [it](/en/post/it/) crashed."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [terminal](/en/post/terminal/) [phase](/en/post/phase/) [of](/en/post/of/) [the](/en/post/the/) [project](/en/post/project/) required [extra](/en/post/extra/) [attention](/en/post/attention/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) executed [the](/en/post/the/) [command](/en/post/command/) [terminal](/en/post/terminal/), closing [all](/en/post/all/) [open](/en/post/open/) applications."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) passengers were waiting [at](/post/at/) [the](/post/the/) [airport](/post/airport/) [terminal](/post/terminal/) [for](/post/for/) [their](/post/their/) [flight](/post/flight/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) software terminated [all](/post/all/) running processes [when](/post/when/) [it](/post/it/) crashed."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [terminal](/post/terminal/) [phase](/post/phase/) [of](/post/of/) [the](/post/the/) [project](/post/project/) required [extra](/post/extra/) [attention](/post/attention/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) executed [the](/post/the/) [command](/post/command/) [terminal](/post/terminal/), closing [all](/post/all/) [open](/post/open/) applications."
 
 ## Synonyms
-- [End](/en/post/end/) [point](/en/post/point/)
+- [End](/post/end/) [point](/post/point/)
 - Endpoint
-- [Conclusion](/en/post/conclusion/)
-- [Finish](/en/post/finish/)
-- [Final](/en/post/final/)
-- [Last](/en/post/last/)
+- [Conclusion](/post/conclusion/)
+- [Finish](/post/finish/)
+- [Final](/post/final/)
+- [Last](/post/last/)
 - Terminating
 - Culmination

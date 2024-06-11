@@ -11,22 +11,22 @@ keywords = ['ai words', 'halt']
 /hɔːlt/
 
 ## 释义
-- **动词**: 停止；暂停。例如: "[The](/post/the/) [train](/post/train/) [will](/post/will/) [halt](/post/halt/) [at](/post/at/) [the](/post/the/) [next](/post/next/) [station](/post/station/)."
-- **名词**: 停止；暂停的状态。例如: "[There](/post/there/) was [a](/post/a/) [brief](/post/brief/) [halt](/post/halt/) [in](/post/in/) [the](/post/the/) [conversation](/post/conversation/)."
-- **名词**: 阻止；阻挡。例如: "[The](/post/the/) [security](/post/security/) [system](/post/system/) [can](/post/can/) [halt](/post/halt/) unauthorized [access](/post/access/)."
+- **动词**: 停止；暂停。例如: "[The](/zh/post/the/) [train](/zh/post/train/) [will](/zh/post/will/) [halt](/zh/post/halt/) [at](/zh/post/at/) [the](/zh/post/the/) [next](/zh/post/next/) [station](/zh/post/station/)."
+- **名词**: 停止；暂停的状态。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [brief](/zh/post/brief/) [halt](/zh/post/halt/) [in](/zh/post/in/) [the](/zh/post/the/) [conversation](/zh/post/conversation/)."
+- **名词**: 阻止；阻挡。例如: "[The](/zh/post/the/) [security](/zh/post/security/) [system](/zh/post/system/) [can](/zh/post/can/) [halt](/zh/post/halt/) unauthorized [access](/zh/post/access/)."
 
 ## 短语
-- "[Come](/post/come/) [to](/post/to/) [a](/post/a/) [halt](/post/halt/)" 意味着完全停止。例如: "[The](/post/the/) [car](/post/car/) came [to](/post/to/) [a](/post/a/) [sudden](/post/sudden/) [halt](/post/halt/) [at](/post/at/) [the](/post/the/) [red](/post/red/) [light](/post/light/)."
-- "[Halt](/post/halt/) [the](/post/the/) [process](/post/process/)" 指中断某个过程。例如: "[The](/post/the/) manager decided [to](/post/to/) [halt](/post/halt/) [the](/post/the/) [production](/post/production/) [line](/post/line/) [due](/post/due/) [to](/post/to/) [quality](/post/quality/) concerns."
+- "[Come](/zh/post/come/) [to](/zh/post/to/) [a](/zh/post/a/) [halt](/zh/post/halt/)" 意味着完全停止。例如: "[The](/zh/post/the/) [car](/zh/post/car/) came [to](/zh/post/to/) [a](/zh/post/a/) [sudden](/zh/post/sudden/) [halt](/zh/post/halt/) [at](/zh/post/at/) [the](/zh/post/the/) [red](/zh/post/red/) [light](/zh/post/light/)."
+- "[Halt](/zh/post/halt/) [the](/zh/post/the/) [process](/zh/post/process/)" 指中断某个过程。例如: "[The](/zh/post/the/) manager decided [to](/zh/post/to/) [halt](/zh/post/halt/) [the](/zh/post/the/) [production](/zh/post/production/) [line](/zh/post/line/) [due](/zh/post/due/) [to](/zh/post/to/) [quality](/zh/post/quality/) concerns."
 
 ## 例句
-- 动词: "[The](/post/the/) marchers were ordered [to](/post/to/) [halt](/post/halt/) [by](/post/by/) [the](/post/the/) [police](/post/police/)."
-- 名词: "[The](/post/the/) [game](/post/game/) was interrupted [by](/post/by/) [a](/post/a/) [halt](/post/halt/) [for](/post/for/) [a](/post/a/) player's [injury](/post/injury/)."
-- 名词: "[His](/post/his/) [plan](/post/plan/) was halted [by](/post/by/) [unexpected](/post/unexpected/) [financial](/post/financial/) problems."
+- 动词: "[The](/zh/post/the/) marchers were ordered [to](/zh/post/to/) [halt](/zh/post/halt/) [by](/zh/post/by/) [the](/zh/post/the/) [police](/zh/post/police/)."
+- 名词: "[The](/zh/post/the/) [game](/zh/post/game/) was interrupted [by](/zh/post/by/) [a](/zh/post/a/) [halt](/zh/post/halt/) [for](/zh/post/for/) [a](/zh/post/a/) player's [injury](/zh/post/injury/)."
+- 名词: "[His](/zh/post/his/) [plan](/zh/post/plan/) was halted [by](/zh/post/by/) [unexpected](/zh/post/unexpected/) [financial](/zh/post/financial/) problems."
 
 ## 同义词
-- [Stop](/post/stop/)
-- [Cease](/post/cease/)
-- [Break](/post/break/)
-- [Interrupt](/post/interrupt/)
-- [Pause](/post/pause/)
+- [Stop](/zh/post/stop/)
+- [Cease](/zh/post/cease/)
+- [Break](/zh/post/break/)
+- [Interrupt](/zh/post/interrupt/)
+- [Pause](/zh/post/pause/)

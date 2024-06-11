@@ -7,39 +7,39 @@ description = 'n.砰的一声，爆破声'
 keywords = ['ai words', 'pop']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[pop](/en/post/pop/)/
+## [Pronunciation](/post/pronunciation/)
+/[pop](/post/pop/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [short](/en/post/short/), [sharp](/en/post/sharp/) [sound](/en/post/sound/) [or](/en/post/or/) [burst](/en/post/burst/), [often](/en/post/often/) produced [by](/en/post/by/) pressing [a](/en/post/a/) [hollow](/en/post/hollow/) [object](/en/post/object/) [like](/en/post/like/) [a](/en/post/a/) [bottle](/en/post/bottle/) [or](/en/post/or/) [can](/en/post/can/): "[The](/en/post/the/) children were popping balloons."
-- [A](/en/post/a/) [sudden](/en/post/sudden/) [increase](/en/post/increase/) [in](/en/post/in/) popularity, [interest](/en/post/interest/), [or](/en/post/or/) [demand](/en/post/demand/): "[Her](/en/post/her/) [song](/en/post/song/) [suddenly](/en/post/suddenly/) popped [onto](/en/post/onto/) [the](/en/post/the/) charts."
-- [A](/en/post/a/) [small](/en/post/small/), [round](/en/post/round/), [soft](/en/post/soft/) [candy](/en/post/candy/) [that](/en/post/that/) explodes [when](/en/post/when/) bitten: "[He](/en/post/he/) bought [a](/en/post/a/) [bag](/en/post/bag/) [of](/en/post/of/) popcorn [at](/en/post/at/) [the](/en/post/the/) [cinema](/en/post/cinema/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) [short](/post/short/), [sharp](/post/sharp/) [sound](/post/sound/) [or](/post/or/) [burst](/post/burst/), [often](/post/often/) produced [by](/post/by/) pressing [a](/post/a/) [hollow](/post/hollow/) [object](/post/object/) [like](/post/like/) [a](/post/a/) [bottle](/post/bottle/) [or](/post/or/) [can](/post/can/): "[The](/post/the/) children were popping balloons."
+- [A](/post/a/) [sudden](/post/sudden/) [increase](/post/increase/) [in](/post/in/) popularity, [interest](/post/interest/), [or](/post/or/) [demand](/post/demand/): "[Her](/post/her/) [song](/post/song/) [suddenly](/post/suddenly/) popped [onto](/post/onto/) [the](/post/the/) charts."
+- [A](/post/a/) [small](/post/small/), [round](/post/round/), [soft](/post/soft/) [candy](/post/candy/) [that](/post/that/) explodes [when](/post/when/) bitten: "[He](/post/he/) bought [a](/post/a/) [bag](/post/bag/) [of](/post/of/) popcorn [at](/post/at/) [the](/post/the/) [cinema](/post/cinema/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [burst](/en/post/burst/) [or](/en/post/or/) [come](/en/post/come/) [out](/en/post/out/) [suddenly](/en/post/suddenly/): "[The](/en/post/the/) kernels popped [in](/en/post/in/) [the](/en/post/the/) microwave."
-- [To](/en/post/to/) [appear](/en/post/appear/) [or](/en/post/or/) [become](/en/post/become/) [popular](/en/post/popular/) [or](/en/post/or/) [well-known](/en/post/well-known/) [suddenly](/en/post/suddenly/): "[Her](/en/post/her/) [book](/en/post/book/) popped [up](/en/post/up/) [on](/en/post/on/) bestseller lists."
-- [To](/en/post/to/) [release](/en/post/release/) [a](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [of](/en/post/of/) [air](/en/post/air/) [from](/en/post/from/) [a](/en/post/a/) [container](/en/post/container/): "[He](/en/post/he/) popped [the](/en/post/the/) [cap](/en/post/cap/) [off](/en/post/off/) [the](/en/post/the/) [soda](/en/post/soda/) [bottle](/en/post/bottle/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [burst](/post/burst/) [or](/post/or/) [come](/post/come/) [out](/post/out/) [suddenly](/post/suddenly/): "[The](/post/the/) kernels popped [in](/post/in/) [the](/post/the/) microwave."
+- [To](/post/to/) [appear](/post/appear/) [or](/post/or/) [become](/post/become/) [popular](/post/popular/) [or](/post/or/) [well-known](/post/well-known/) [suddenly](/post/suddenly/): "[Her](/post/her/) [book](/post/book/) popped [up](/post/up/) [on](/post/on/) bestseller lists."
+- [To](/post/to/) [release](/post/release/) [a](/post/a/) [small](/post/small/) [amount](/post/amount/) [of](/post/of/) [air](/post/air/) [from](/post/from/) [a](/post/a/) [container](/post/container/): "[He](/post/he/) popped [the](/post/the/) [cap](/post/cap/) [off](/post/off/) [the](/post/the/) [soda](/post/soda/) [bottle](/post/bottle/)."
 
-### [Adjective](/en/post/adjective/)
-- [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) resembling [a](/en/post/a/) popping [noise](/en/post/noise/) [or](/en/post/or/) [action](/en/post/action/): "[The](/en/post/the/) popcorn had [a](/en/post/a/) [nice](/en/post/nice/) [pop](/en/post/pop/) [when](/en/post/when/) cooked."
-- [Quick](/en/post/quick/) [or](/en/post/or/) [sudden](/en/post/sudden/): "[A](/en/post/a/) [pop](/en/post/pop/) [quiz](/en/post/quiz/) caught [everyone](/en/post/everyone/) [off](/en/post/off/) [guard](/en/post/guard/)."
+### [Adjective](/post/adjective/)
+- [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) resembling [a](/post/a/) popping [noise](/post/noise/) [or](/post/or/) [action](/post/action/): "[The](/post/the/) popcorn had [a](/post/a/) [nice](/post/nice/) [pop](/post/pop/) [when](/post/when/) cooked."
+- [Quick](/post/quick/) [or](/post/or/) [sudden](/post/sudden/): "[A](/post/a/) [pop](/post/pop/) [quiz](/post/quiz/) caught [everyone](/post/everyone/) [off](/post/off/) [guard](/post/guard/)."
 
 ## Phrases
-- "Popcorn popping" refers [to](/en/post/to/) [the](/en/post/the/) [sound](/en/post/sound/) made [by](/en/post/by/) kernels [during](/en/post/during/) cooking.
-- "Popularity [contest](/en/post/contest/)" is [a](/en/post/a/) [competition](/en/post/competition/) based [on](/en/post/on/) popularity.
-- "[Pop](/en/post/pop/) [culture](/en/post/culture/)" refers [to](/en/post/to/) [the](/en/post/the/) [most](/en/post/most/) [widely](/en/post/widely/) consumed [and](/en/post/and/) [influential](/en/post/influential/) forms [of](/en/post/of/) entertainment.
+- "Popcorn popping" refers [to](/post/to/) [the](/post/the/) [sound](/post/sound/) made [by](/post/by/) kernels [during](/post/during/) cooking.
+- "Popularity [contest](/post/contest/)" is [a](/post/a/) [competition](/post/competition/) based [on](/post/on/) popularity.
+- "[Pop](/post/pop/) [culture](/post/culture/)" refers [to](/post/to/) [the](/post/the/) [most](/post/most/) [widely](/post/widely/) consumed [and](/post/and/) [influential](/post/influential/) forms [of](/post/of/) entertainment.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) popcorn was [a](/en/post/a/) [hit](/en/post/hit/) [at](/en/post/at/) [the](/en/post/the/) [movie](/en/post/movie/) theater."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) band's [single](/en/post/single/) popped [up](/en/post/up/) [on](/en/post/on/) [the](/en/post/the/) [radio](/en/post/radio/) [this](/en/post/this/) [morning](/en/post/morning/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [basketball](/en/post/basketball/) [player](/en/post/player/) made [a](/en/post/a/) [quick](/en/post/quick/) [pop](/en/post/pop/) [pass](/en/post/pass/) [to](/en/post/to/) [his](/en/post/his/) teammate."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) popcorn was [a](/post/a/) [hit](/post/hit/) [at](/post/at/) [the](/post/the/) [movie](/post/movie/) theater."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) band's [single](/post/single/) popped [up](/post/up/) [on](/post/on/) [the](/post/the/) [radio](/post/radio/) [this](/post/this/) [morning](/post/morning/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [basketball](/post/basketball/) [player](/post/player/) made [a](/post/a/) [quick](/post/quick/) [pop](/post/pop/) [pass](/post/pass/) [to](/post/to/) [his](/post/his/) teammate."
 
 ## Synonyms
-- [Explode](/en/post/explode/)
-- [Burst](/en/post/burst/)
-- [Rise](/en/post/rise/) [to](/en/post/to/) prominence
-- [Become](/en/post/become/) [popular](/en/post/popular/)
+- [Explode](/post/explode/)
+- [Burst](/post/burst/)
+- [Rise](/post/rise/) [to](/post/to/) prominence
+- [Become](/post/become/) [popular](/post/popular/)
 - Snap
 - Whiz
 - Zing (informal)

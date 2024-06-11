@@ -11,20 +11,20 @@ keywords = ['ai words', 'fact']
 /fækt/
 
 ## 释义
-- **名词 (n)**: 事实，真实的事件或情况。例如: "[The](/post/the/) [fact](/post/fact/) [that](/post/that/) [he](/post/he/) [never](/post/never/) showed [up](/post/up/) surprised [everyone](/post/everyone/)."
-- **形容词 (adj)**: 真实的，实际的。例如: "[She](/post/she/) presented [the](/post/the/) fact-based [evidence](/post/evidence/) [in](/post/in/) [court](/post/court/)."
+- **名词 (n)**: 事实，真实的事件或情况。例如: "[The](/zh/post/the/) [fact](/zh/post/fact/) [that](/zh/post/that/) [he](/zh/post/he/) [never](/zh/post/never/) showed [up](/zh/post/up/) surprised [everyone](/zh/post/everyone/)."
+- **形容词 (adj)**: 真实的，实际的。例如: "[She](/zh/post/she/) presented [the](/zh/post/the/) fact-based [evidence](/zh/post/evidence/) [in](/zh/post/in/) [court](/zh/post/court/)."
 
 ## 短语
-- "Based [on](/post/on/) facts" 表示基于事实的。
-- "Factual [information](/post/information/)" 意为事实性的信息。
+- "Based [on](/zh/post/on/) facts" 表示基于事实的。
+- "Factual [information](/zh/post/information/)" 意为事实性的信息。
 
 ## 例句
-- 名词: "[The](/post/the/) [report](/post/report/) contains [numerous](/post/numerous/) undisputed facts [about](/post/about/) [climate](/post/climate/) [change](/post/change/)."
-- 形容词: "[The](/post/the/) [story](/post/story/) is entirely [fact](/post/fact/), [with](/post/with/) [no](/post/no/) fictional elements."
+- 名词: "[The](/zh/post/the/) [report](/zh/post/report/) contains [numerous](/zh/post/numerous/) undisputed facts [about](/zh/post/about/) [climate](/zh/post/climate/) [change](/zh/post/change/)."
+- 形容词: "[The](/zh/post/the/) [story](/zh/post/story/) is entirely [fact](/zh/post/fact/), [with](/zh/post/with/) [no](/zh/post/no/) fictional elements."
 
 ## 同义词
-- [Reality](/post/reality/)
-- [Truth](/post/truth/)
+- [Reality](/zh/post/reality/)
+- [Truth](/zh/post/truth/)
 - Actuality
 - Truthfulness
-- [Accuracy](/post/accuracy/)
+- [Accuracy](/zh/post/accuracy/)

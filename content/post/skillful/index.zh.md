@@ -11,20 +11,20 @@ keywords = ['ai words', 'skillful']
 /skɪlfl/
 
 ## 释义
-- **形容词**: 具有技巧的，熟练的，有才能的。例如: "[She](/post/she/) is [a](/post/a/) [skillful](/post/skillful/) dancer [with](/post/with/) years [of](/post/of/) [practice](/post/practice/)."
-- **副词**: 熟练地，巧妙地。例如: "[He](/post/he/) performed [the](/post/the/) [task](/post/task/) skillfully, impressing [his](/post/his/) colleagues."
+- **形容词**: 具有技巧的，熟练的，有才能的。例如: "[She](/zh/post/she/) is [a](/zh/post/a/) [skillful](/zh/post/skillful/) dancer [with](/zh/post/with/) years [of](/zh/post/of/) [practice](/zh/post/practice/)."
+- **副词**: 熟练地，巧妙地。例如: "[He](/zh/post/he/) performed [the](/zh/post/the/) [task](/zh/post/task/) skillfully, impressing [his](/zh/post/his/) colleagues."
 
 ## 短语
-- "[Skillful](/post/skillful/) [in](/post/in/) [something](/post/something/)" 指在某方面有技巧或熟练。
+- "[Skillful](/zh/post/skillful/) [in](/zh/post/in/) [something](/zh/post/something/)" 指在某方面有技巧或熟练。
 - "Skillfully done" 意味着完成得非常熟练。
 
 ## 例句
-- 形容词: "[The](/post/the/) surgeon's [skillful](/post/skillful/) hands made [the](/post/the/) [operation](/post/operation/) [a](/post/a/) [success](/post/success/)."
-- 副词: "[She](/post/she/) skillfully negotiated [a](/post/a/) [better](/post/better/) [deal](/post/deal/) [for](/post/for/) [the](/post/the/) [company](/post/company/)."
+- 形容词: "[The](/zh/post/the/) surgeon's [skillful](/zh/post/skillful/) hands made [the](/zh/post/the/) [operation](/zh/post/operation/) [a](/zh/post/a/) [success](/zh/post/success/)."
+- 副词: "[She](/zh/post/she/) skillfully negotiated [a](/zh/post/a/) [better](/zh/post/better/) [deal](/zh/post/deal/) [for](/zh/post/for/) [the](/zh/post/the/) [company](/zh/post/company/)."
 
 ## 同义词
-- [Skilled](/post/skilled/)
+- [Skilled](/zh/post/skilled/)
 - Proficient
-- [Expert](/post/expert/)
+- [Expert](/zh/post/expert/)
 - Gifted
 - Talented

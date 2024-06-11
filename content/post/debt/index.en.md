@@ -7,34 +7,34 @@ description = '[det] n.债，债务，欠债'
 keywords = ['ai words', 'debt']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɛt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. An [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) [or](/en/post/or/) [other](/en/post/other/) resources [that](/en/post/that/) [one](/en/post/one/) owes [to](/en/post/to/) [another](/en/post/another/), typically [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) [a](/en/post/a/) [loan](/en/post/loan/) [or](/en/post/or/) [purchase](/en/post/purchase/). 2. [A](/en/post/a/) liability [or](/en/post/or/) [burden](/en/post/burden/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is [difficult](/en/post/difficult/) [to](/en/post/to/) repay [or](/en/post/or/) [discharge](/en/post/discharge/). 3. [A](/en/post/a/) [debt](/en/post/debt/) [of](/en/post/of/) [gratitude](/en/post/gratitude/) [or](/en/post/or/) obligation [to](/en/post/to/) [someone](/en/post/someone/) [for](/en/post/for/) [a](/en/post/a/) favor, [kindness](/en/post/kindness/), [or](/en/post/or/) [service](/en/post/service/). 4. (informal) [A](/en/post/a/) person's [record](/en/post/record/) [of](/en/post/of/) defeats [or](/en/post/or/) losses [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/).
+- **[Noun](/post/noun/)**: 1. An [amount](/post/amount/) [of](/post/of/) [money](/post/money/) [or](/post/or/) [other](/post/other/) resources [that](/post/that/) [one](/post/one/) owes [to](/post/to/) [another](/post/another/), typically [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) [a](/post/a/) [loan](/post/loan/) [or](/post/or/) [purchase](/post/purchase/). 2. [A](/post/a/) liability [or](/post/or/) [burden](/post/burden/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is [difficult](/post/difficult/) [to](/post/to/) repay [or](/post/or/) [discharge](/post/discharge/). 3. [A](/post/a/) [debt](/post/debt/) [of](/post/of/) [gratitude](/post/gratitude/) [or](/post/or/) obligation [to](/post/to/) [someone](/post/someone/) [for](/post/for/) [a](/post/a/) favor, [kindness](/post/kindness/), [or](/post/or/) [service](/post/service/). 4. (informal) [A](/post/a/) person's [record](/post/record/) [of](/post/of/) defeats [or](/post/or/) losses [in](/post/in/) [a](/post/a/) [competition](/post/competition/).
 
 ## Phrases
-- "[In](/en/post/in/) [debt](/en/post/debt/) [to](/en/post/to/) [someone](/en/post/someone/)" implies owing [a](/en/post/a/) [financial](/en/post/financial/) [or](/en/post/or/) [moral](/en/post/moral/) obligation [to](/en/post/to/) [another](/en/post/another/).
-- "[Pay](/en/post/pay/) [off](/en/post/off/) [a](/en/post/a/) [debt](/en/post/debt/)" [means](/en/post/means/) [to](/en/post/to/) [settle](/en/post/settle/) [or](/en/post/or/) repay [a](/en/post/a/) [financial](/en/post/financial/) obligation.
-- "[Live](/en/post/live/) [within](/en/post/within/) one's [means](/en/post/means/)" refers [to](/en/post/to/) [not](/en/post/not/) having debts [beyond](/en/post/beyond/) one's [ability](/en/post/ability/) [to](/en/post/to/) [pay](/en/post/pay/).
+- "[In](/post/in/) [debt](/post/debt/) [to](/post/to/) [someone](/post/someone/)" implies owing [a](/post/a/) [financial](/post/financial/) [or](/post/or/) [moral](/post/moral/) obligation [to](/post/to/) [another](/post/another/).
+- "[Pay](/post/pay/) [off](/post/off/) [a](/post/a/) [debt](/post/debt/)" [means](/post/means/) [to](/post/to/) [settle](/post/settle/) [or](/post/or/) repay [a](/post/a/) [financial](/post/financial/) obligation.
+- "[Live](/post/live/) [within](/post/within/) one's [means](/post/means/)" refers [to](/post/to/) [not](/post/not/) having debts [beyond](/post/beyond/) one's [ability](/post/ability/) [to](/post/to/) [pay](/post/pay/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) accumulated [a](/en/post/a/) [large](/en/post/large/) [debt](/en/post/debt/) [by](/en/post/by/) overspending [on](/en/post/on/) [his](/en/post/his/) [credit](/en/post/credit/) [card](/en/post/card/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [couple](/en/post/couple/) is working [hard](/en/post/hard/) [to](/en/post/to/) [pay](/en/post/pay/) [off](/en/post/off/) [their](/en/post/their/) mortgage [debt](/en/post/debt/)."
-- **Interjection**: "[Oh](/en/post/oh/) [no](/en/post/no/), I've forgotten [to](/en/post/to/) [pay](/en/post/pay/) [my](/en/post/my/) [utility](/en/post/utility/) [bill](/en/post/bill/) [this](/en/post/this/) [month](/en/post/month/) – I'm [in](/en/post/in/) [quite](/en/post/quite/) [a](/en/post/a/) [debt](/en/post/debt/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) accumulated [a](/post/a/) [large](/post/large/) [debt](/post/debt/) [by](/post/by/) overspending [on](/post/on/) [his](/post/his/) [credit](/post/credit/) [card](/post/card/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [couple](/post/couple/) is working [hard](/post/hard/) [to](/post/to/) [pay](/post/pay/) [off](/post/off/) [their](/post/their/) mortgage [debt](/post/debt/)."
+- **Interjection**: "[Oh](/post/oh/) [no](/post/no/), I've forgotten [to](/post/to/) [pay](/post/pay/) [my](/post/my/) [utility](/post/utility/) [bill](/post/bill/) [this](/post/this/) [month](/post/month/) – I'm [in](/post/in/) [quite](/post/quite/) [a](/post/a/) [debt](/post/debt/)."
 
 ## Synonyms
 - Liability
 - Obligation
 - Arrears
-- [Debt](/en/post/debt/) [load](/en/post/load/)
-- [Burden](/en/post/burden/)
-- [Credit](/en/post/credit/)
-- [Gratitude](/en/post/gratitude/)
+- [Debt](/post/debt/) [load](/post/load/)
+- [Burden](/post/burden/)
+- [Credit](/post/credit/)
+- [Gratitude](/post/gratitude/)
 
 ## Antonyms
 - Asset
 - Equity
-- [Freedom](/en/post/freedom/) [from](/en/post/from/) [debt](/en/post/debt/)
-- [Clear](/en/post/clear/) slate
-- [Independence](/en/post/independence/)
+- [Freedom](/post/freedom/) [from](/post/from/) [debt](/post/debt/)
+- [Clear](/post/clear/) slate
+- [Independence](/post/independence/)

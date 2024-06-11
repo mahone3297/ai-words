@@ -11,22 +11,22 @@ keywords = ['ai words', 'perfect']
 /perˈfɛkt/
 
 ## 释义
-- **形容词**: 完美的，无瑕疵的。例如: "[The](/post/the/) [painting](/post/painting/) was [so](/post/so/) [perfect](/post/perfect/) [that](/post/that/) [it](/post/it/) looked [real](/post/real/)."
-- **动词**: 使完美，完善。例如: "[She](/post/she/) has been perfecting [her](/post/her/) cooking skills [for](/post/for/) years."
-- **名词**: （尤指理想中的）完美状态，极致。例如: "[He](/post/he/) strives [for](/post/for/) perfection [in](/post/in/) [all](/post/all/) aspects [of](/post/of/) [his](/post/his/) [life](/post/life/)."
+- **形容词**: 完美的，无瑕疵的。例如: "[The](/zh/post/the/) [painting](/zh/post/painting/) was [so](/zh/post/so/) [perfect](/zh/post/perfect/) [that](/zh/post/that/) [it](/zh/post/it/) looked [real](/zh/post/real/)."
+- **动词**: 使完美，完善。例如: "[She](/zh/post/she/) has been perfecting [her](/zh/post/her/) cooking skills [for](/zh/post/for/) years."
+- **名词**: （尤指理想中的）完美状态，极致。例如: "[He](/zh/post/he/) strives [for](/zh/post/for/) perfection [in](/zh/post/in/) [all](/zh/post/all/) aspects [of](/zh/post/of/) [his](/zh/post/his/) [life](/zh/post/life/)."
 
 ## 短语
-- "[to](/post/to/) [be](/post/be/) [perfect](/post/perfect/) [for](/post/for/) [someone](/post/someone/)/[something](/post/something/)" 意为对某人或某事来说非常合适。
-- "[perfectly](/post/perfectly/)" 作为副词，意为完全地，极其。例如: "[Their](/post/their/) [plan](/post/plan/) worked [perfectly](/post/perfectly/)."
+- "[to](/zh/post/to/) [be](/zh/post/be/) [perfect](/zh/post/perfect/) [for](/zh/post/for/) [someone](/zh/post/someone/)/[something](/zh/post/something/)" 意为对某人或某事来说非常合适。
+- "[perfectly](/zh/post/perfectly/)" 作为副词，意为完全地，极其。例如: "[Their](/zh/post/their/) [plan](/zh/post/plan/) worked [perfectly](/zh/post/perfectly/)."
 
 ## 例句
-- 形容词: "[His](/post/his/) [performance](/post/performance/) was [so](/post/so/) [perfect](/post/perfect/) [that](/post/that/) [the](/post/the/) [audience](/post/audience/) gave [him](/post/him/) [a](/post/a/) standing ovation."
-- 动词: "[She](/post/she/) spent hours perfecting [her](/post/her/) presentation [before](/post/before/) [the](/post/the/) [big](/post/big/) [meeting](/post/meeting/)."
-- 名词: "[In](/post/in/) [their](/post/their/) [pursuit](/post/pursuit/) [of](/post/of/) perfection, [they](/post/they/) [left](/post/left/) [no](/post/no/) [stone](/post/stone/) unturned."
+- 形容词: "[His](/zh/post/his/) [performance](/zh/post/performance/) was [so](/zh/post/so/) [perfect](/zh/post/perfect/) [that](/zh/post/that/) [the](/zh/post/the/) [audience](/zh/post/audience/) gave [him](/zh/post/him/) [a](/zh/post/a/) standing ovation."
+- 动词: "[She](/zh/post/she/) spent hours perfecting [her](/zh/post/her/) presentation [before](/zh/post/before/) [the](/zh/post/the/) [big](/zh/post/big/) [meeting](/zh/post/meeting/)."
+- 名词: "[In](/zh/post/in/) [their](/zh/post/their/) [pursuit](/zh/post/pursuit/) [of](/zh/post/of/) perfection, [they](/zh/post/they/) [left](/zh/post/left/) [no](/zh/post/no/) [stone](/zh/post/stone/) unturned."
 
 ## 同义词
-- [Ideal](/post/ideal/)
-- [Excellent](/post/excellent/)
+- [Ideal](/zh/post/ideal/)
+- [Excellent](/zh/post/excellent/)
 - Flawless
-- [Supreme](/post/supreme/)
+- [Supreme](/zh/post/supreme/)
 - Unblemished

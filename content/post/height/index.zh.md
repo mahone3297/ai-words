@@ -11,20 +11,20 @@ keywords = ['ai words', 'height']
 /haɪt/
 
 ## 释义
-- **名词 (n)**: 高度，海拔，程度。例如: "[The](/post/the/) mountain's [height](/post/height/) is [over](/post/over/) 8,000 meters." 或 "[Her](/post/her/) [success](/post/success/) reached [new](/post/new/) heights."
-- **动词 (v)**: 测量高度。例如: "[To](/post/to/) [measure](/post/measure/) [the](/post/the/) [height](/post/height/) [of](/post/of/) [the](/post/the/) [building](/post/building/), [we](/post/we/) [used](/post/used/) [a](/post/a/) [laser](/post/laser/) scanner."
+- **名词 (n)**: 高度，海拔，程度。例如: "[The](/zh/post/the/) mountain's [height](/zh/post/height/) is [over](/zh/post/over/) 8,000 meters." 或 "[Her](/zh/post/her/) [success](/zh/post/success/) reached [new](/zh/post/new/) heights."
+- **动词 (v)**: 测量高度。例如: "[To](/zh/post/to/) [measure](/zh/post/measure/) [the](/zh/post/the/) [height](/zh/post/height/) [of](/zh/post/of/) [the](/zh/post/the/) [building](/zh/post/building/), [we](/zh/post/we/) [used](/zh/post/used/) [a](/zh/post/a/) [laser](/zh/post/laser/) scanner."
 
 ## 短语
-- "[at](/post/at/) [a](/post/a/) [height](/post/height/)" 表示在某个高度。例如: "[The](/post/the/) [eagle](/post/eagle/) was flying [at](/post/at/) [a](/post/a/) [great](/post/great/) [height](/post/height/)."
-- "[to](/post/to/) [reach](/post/reach/) [new](/post/new/) heights" 意味着达到新的水平或成就。例如: "[His](/post/his/) [career](/post/career/) has reached [new](/post/new/) heights [after](/post/after/) winning [the](/post/the/) [award](/post/award/)."
+- "[at](/zh/post/at/) [a](/zh/post/a/) [height](/zh/post/height/)" 表示在某个高度。例如: "[The](/zh/post/the/) [eagle](/zh/post/eagle/) was flying [at](/zh/post/at/) [a](/zh/post/a/) [great](/zh/post/great/) [height](/zh/post/height/)."
+- "[to](/zh/post/to/) [reach](/zh/post/reach/) [new](/zh/post/new/) heights" 意味着达到新的水平或成就。例如: "[His](/zh/post/his/) [career](/zh/post/career/) has reached [new](/zh/post/new/) heights [after](/zh/post/after/) winning [the](/zh/post/the/) [award](/zh/post/award/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [height](/post/height/) [difference](/post/difference/) [between](/post/between/) [them](/post/them/) made [it](/post/it/) [difficult](/post/difficult/) [for](/post/for/) [them](/post/them/) [to](/post/to/) [communicate](/post/communicate/)."
-- 动词: "[The](/post/the/) architect had [to](/post/to/) [height](/post/height/) [the](/post/the/) [wall](/post/wall/) [to](/post/to/) [ensure](/post/ensure/) privacy."
+- 名词: "[The](/zh/post/the/) [height](/zh/post/height/) [difference](/zh/post/difference/) [between](/zh/post/between/) [them](/zh/post/them/) made [it](/zh/post/it/) [difficult](/zh/post/difficult/) [for](/zh/post/for/) [them](/zh/post/them/) [to](/zh/post/to/) [communicate](/zh/post/communicate/)."
+- 动词: "[The](/zh/post/the/) architect had [to](/zh/post/to/) [height](/zh/post/height/) [the](/zh/post/the/) [wall](/zh/post/wall/) [to](/zh/post/to/) [ensure](/zh/post/ensure/) privacy."
 
 ## 同义词
-- [Altitude](/post/altitude/)
+- [Altitude](/zh/post/altitude/)
 - Elevation
 - Tallness
-- [Level](/post/level/)
-- [Depth](/post/depth/) (反义词)
+- [Level](/zh/post/level/)
+- [Depth](/zh/post/depth/) (反义词)

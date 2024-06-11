@@ -11,20 +11,20 @@ keywords = ['ai words', 'excess']
 /ɪkˈsɛs/
 
 ## 释义
-- **名词**: 过量；超出；盈余。例如: "[The](/post/the/) [company](/post/company/) needs [to](/post/to/) [reduce](/post/reduce/) [its](/post/its/) [overhead](/post/overhead/) expenses, [as](/post/as/) [they](/post/they/) [have](/post/have/) been experiencing an [excess](/post/excess/) [of](/post/of/) costs."
-- **形容词**: 过多的；额外的。例如: "[The](/post/the/) [excess](/post/excess/) [baggage](/post/baggage/) [fee](/post/fee/) applies [to](/post/to/) [any](/post/any/) [luggage](/post/luggage/) [over](/post/over/) [the](/post/the/) [weight](/post/weight/) [limit](/post/limit/)."
+- **名词**: 过量；超出；盈余。例如: "[The](/zh/post/the/) [company](/zh/post/company/) needs [to](/zh/post/to/) [reduce](/zh/post/reduce/) [its](/zh/post/its/) [overhead](/zh/post/overhead/) expenses, [as](/zh/post/as/) [they](/zh/post/they/) [have](/zh/post/have/) been experiencing an [excess](/zh/post/excess/) [of](/zh/post/of/) costs."
+- **形容词**: 过多的；额外的。例如: "[The](/zh/post/the/) [excess](/zh/post/excess/) [baggage](/zh/post/baggage/) [fee](/zh/post/fee/) applies [to](/zh/post/to/) [any](/zh/post/any/) [luggage](/zh/post/luggage/) [over](/zh/post/over/) [the](/zh/post/the/) [weight](/zh/post/weight/) [limit](/zh/post/limit/)."
 
 ## 短语
-- "[Excess](/post/excess/) [baggage](/post/baggage/)" 指超过航空公司允许重量的行李。
-- "[In](/post/in/) [excess](/post/excess/) [of](/post/of/)" 意为超过某个数量或程度。例如: "[The](/post/the/) [population](/post/population/) [of](/post/of/) [the](/post/the/) [city](/post/city/) has increased [in](/post/in/) [excess](/post/excess/) [of](/post/of/) 50% [in](/post/in/) [the](/post/the/) [last](/post/last/) [decade](/post/decade/)."
+- "[Excess](/zh/post/excess/) [baggage](/zh/post/baggage/)" 指超过航空公司允许重量的行李。
+- "[In](/zh/post/in/) [excess](/zh/post/excess/) [of](/zh/post/of/)" 意为超过某个数量或程度。例如: "[The](/zh/post/the/) [population](/zh/post/population/) [of](/zh/post/of/) [the](/zh/post/the/) [city](/zh/post/city/) has increased [in](/zh/post/in/) [excess](/zh/post/excess/) [of](/zh/post/of/) 50% [in](/zh/post/in/) [the](/zh/post/the/) [last](/zh/post/last/) [decade](/zh/post/decade/)."
 
 ## 例句
-- 名词: "[There](/post/there/) was an [excess](/post/excess/) [of](/post/of/) [food](/post/food/) [at](/post/at/) [the](/post/the/) [party](/post/party/), [so](/post/so/) [we](/post/we/) had [plenty](/post/plenty/) [of](/post/of/) leftovers."
-- 形容词: "[The](/post/the/) [contract](/post/contract/) allows [for](/post/for/) an [excess](/post/excess/) [payment](/post/payment/) [if](/post/if/) [the](/post/the/) [project](/post/project/) is completed [ahead](/post/ahead/) [of](/post/of/) [schedule](/post/schedule/)."
+- 名词: "[There](/zh/post/there/) was an [excess](/zh/post/excess/) [of](/zh/post/of/) [food](/zh/post/food/) [at](/zh/post/at/) [the](/zh/post/the/) [party](/zh/post/party/), [so](/zh/post/so/) [we](/zh/post/we/) had [plenty](/zh/post/plenty/) [of](/zh/post/of/) leftovers."
+- 形容词: "[The](/zh/post/the/) [contract](/zh/post/contract/) allows [for](/zh/post/for/) an [excess](/zh/post/excess/) [payment](/zh/post/payment/) [if](/zh/post/if/) [the](/zh/post/the/) [project](/zh/post/project/) is completed [ahead](/zh/post/ahead/) [of](/zh/post/of/) [schedule](/zh/post/schedule/)."
 
 ## 同义词
 - Surplus
 - Overabundance
 - Superfluous
-- [Additional](/post/additional/)
-- [More](/post/more/) [than](/post/than/) needed
+- [Additional](/zh/post/additional/)
+- [More](/zh/post/more/) [than](/zh/post/than/) needed

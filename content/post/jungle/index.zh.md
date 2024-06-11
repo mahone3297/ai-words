@@ -12,19 +12,19 @@ keywords = ['ai words', 'jungle']
 
 ## 释义
 - **名词**:
-  - 茂密的丛林，尤指热带雨林。例如: "[The](/post/the/) Amazon rainforest is [a](/post/a/) [vast](/post/vast/) [jungle](/post/jungle/) filled [with](/post/with/) [diverse](/post/diverse/) wildlife."
-  - 混乱无序的状态，比喻复杂的环境或情况。例如: "[The](/post/the/) [office](/post/office/) was [in](/post/in/) [a](/post/a/) [jungle](/post/jungle/) [of](/post/of/) paperwork."
+  - 茂密的丛林，尤指热带雨林。例如: "[The](/zh/post/the/) Amazon rainforest is [a](/zh/post/a/) [vast](/zh/post/vast/) [jungle](/zh/post/jungle/) filled [with](/zh/post/with/) [diverse](/zh/post/diverse/) wildlife."
+  - 混乱无序的状态，比喻复杂的环境或情况。例如: "[The](/zh/post/the/) [office](/zh/post/office/) was [in](/zh/post/in/) [a](/zh/post/a/) [jungle](/zh/post/jungle/) [of](/zh/post/of/) paperwork."
 
 ## 短语
-- "Lost [in](/post/in/) [the](/post/the/) [jungle](/post/jungle/)" 意为在丛林中迷路。
-- "Corporate [jungle](/post/jungle/)" 比喻竞争激烈的商业环境。
+- "Lost [in](/zh/post/in/) [the](/zh/post/the/) [jungle](/zh/post/jungle/)" 意为在丛林中迷路。
+- "Corporate [jungle](/zh/post/jungle/)" 比喻竞争激烈的商业环境。
 
 ## 例句
-- 名词: "[We](/post/we/) hired [a](/post/a/) [guide](/post/guide/) [to](/post/to/) [help](/post/help/) [us](/post/us/) navigate [through](/post/through/) [the](/post/the/) [dense](/post/dense/) [jungle](/post/jungle/)."
-- 比喻: "[The](/post/the/) startup [world](/post/world/) [can](/post/can/) [be](/post/be/) [a](/post/a/) ruthless [jungle](/post/jungle/), [where](/post/where/) [only](/post/only/) [the](/post/the/) strongest [survive](/post/survive/)."
+- 名词: "[We](/zh/post/we/) hired [a](/zh/post/a/) [guide](/zh/post/guide/) [to](/zh/post/to/) [help](/zh/post/help/) [us](/zh/post/us/) navigate [through](/zh/post/through/) [the](/zh/post/the/) [dense](/zh/post/dense/) [jungle](/zh/post/jungle/)."
+- 比喻: "[The](/zh/post/the/) startup [world](/zh/post/world/) [can](/zh/post/can/) [be](/zh/post/be/) [a](/zh/post/a/) ruthless [jungle](/zh/post/jungle/), [where](/zh/post/where/) [only](/zh/post/only/) [the](/zh/post/the/) strongest [survive](/zh/post/survive/)."
 
 ## 同义词
-- [Forest](/post/forest/)
+- [Forest](/zh/post/forest/)
 - Woods
 - Wilderness
 - Thicket

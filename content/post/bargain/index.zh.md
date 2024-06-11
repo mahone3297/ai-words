@@ -11,21 +11,21 @@ keywords = ['ai words', 'bargain']
 /bɑːrɡən/
 
 ## 释义
-- **名词**: 交易，讨价还价；便宜货。例如: "[They](/post/they/) managed [to](/post/to/) [strike](/post/strike/) [a](/post/a/) [bargain](/post/bargain/) [with](/post/with/) [the](/post/the/) [seller](/post/seller/)."
-- **动词**: 讨价还价，达成协议。例如: "I bargained [with](/post/with/) [the](/post/the/) [shopkeeper](/post/shopkeeper/) [for](/post/for/) [a](/post/a/) [lower](/post/lower/) [price](/post/price/)."
+- **名词**: 交易，讨价还价；便宜货。例如: "[They](/zh/post/they/) managed [to](/zh/post/to/) [strike](/zh/post/strike/) [a](/zh/post/a/) [bargain](/zh/post/bargain/) [with](/zh/post/with/) [the](/zh/post/the/) [seller](/zh/post/seller/)."
+- **动词**: 讨价还价，达成协议。例如: "I bargained [with](/zh/post/with/) [the](/zh/post/the/) [shopkeeper](/zh/post/shopkeeper/) [for](/zh/post/for/) [a](/zh/post/a/) [lower](/zh/post/lower/) [price](/zh/post/price/)."
 
 ## 短语
-- "[Bargain](/post/bargain/) hunter" 指善于寻找和购买打折商品的人。
-- "[Bargain](/post/bargain/) basement" 常指的是商店里打折商品的区域。
-- "[Make](/post/make/) [a](/post/a/) [bargain](/post/bargain/)" 意为达成一项协议或交易。
+- "[Bargain](/zh/post/bargain/) hunter" 指善于寻找和购买打折商品的人。
+- "[Bargain](/zh/post/bargain/) basement" 常指的是商店里打折商品的区域。
+- "[Make](/zh/post/make/) [a](/zh/post/a/) [bargain](/zh/post/bargain/)" 意为达成一项协议或交易。
 
 ## 例句
-- 名词: "[She](/post/she/) [found](/post/found/) [a](/post/a/) designer [dress](/post/dress/) [at](/post/at/) [a](/post/a/) [bargain](/post/bargain/) [price](/post/price/) [in](/post/in/) [the](/post/the/) [sale](/post/sale/)."
-- 动词: "[We](/post/we/) bargained [with](/post/with/) [the](/post/the/) [taxi](/post/taxi/) [driver](/post/driver/) [to](/post/to/) [reduce](/post/reduce/) [the](/post/the/) [fare](/post/fare/)."
+- 名词: "[She](/zh/post/she/) [found](/zh/post/found/) [a](/zh/post/a/) designer [dress](/zh/post/dress/) [at](/zh/post/at/) [a](/zh/post/a/) [bargain](/zh/post/bargain/) [price](/zh/post/price/) [in](/zh/post/in/) [the](/zh/post/the/) [sale](/zh/post/sale/)."
+- 动词: "[We](/zh/post/we/) bargained [with](/zh/post/with/) [the](/zh/post/the/) [taxi](/zh/post/taxi/) [driver](/zh/post/driver/) [to](/zh/post/to/) [reduce](/zh/post/reduce/) [the](/zh/post/the/) [fare](/zh/post/fare/)."
 
 ## 同义词
-- [Deal](/post/deal/)
-- [Agreement](/post/agreement/)
+- [Deal](/zh/post/deal/)
+- [Agreement](/zh/post/agreement/)
 - Discount
-- Cut-price [offer](/post/offer/)
+- Cut-price [offer](/zh/post/offer/)
 - Negotiation

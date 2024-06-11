@@ -11,20 +11,20 @@ keywords = ['ai words', 'advise']
 /ədˈvaɪz/
 
 ## 释义
-- **动词**: 给予建议或指导。例如: "I advised [him](/post/him/) [to](/post/to/) [save](/post/save/) [money](/post/money/) [for](/post/for/) [the](/post/the/) [future](/post/future/)."
-- **名词**: 建议或意见。例如: "[She](/post/she/) asked [for](/post/for/) [my](/post/my/) [advice](/post/advice/) [on](/post/on/) [the](/post/the/) [matter](/post/matter/)."
+- **动词**: 给予建议或指导。例如: "I advised [him](/zh/post/him/) [to](/zh/post/to/) [save](/zh/post/save/) [money](/zh/post/money/) [for](/zh/post/for/) [the](/zh/post/the/) [future](/zh/post/future/)."
+- **名词**: 建议或意见。例如: "[She](/zh/post/she/) asked [for](/zh/post/for/) [my](/zh/post/my/) [advice](/zh/post/advice/) [on](/zh/post/on/) [the](/zh/post/the/) [matter](/zh/post/matter/)."
 
 ## 短语
-- "[take](/post/take/) one's [advice](/post/advice/)" 听从某人的建议。例如: "[She](/post/she/) decided [to](/post/to/) [take](/post/take/) [her](/post/her/) mentor's [advice](/post/advice/) [seriously](/post/seriously/)."
-- "[give](/post/give/) [advice](/post/advice/)" 提供建议。例如: "[He](/post/he/) is [always](/post/always/) [ready](/post/ready/) [to](/post/to/) [give](/post/give/) [advice](/post/advice/) [to](/post/to/) [those](/post/those/) [in](/post/in/) [need](/post/need/)."
+- "[take](/zh/post/take/) one's [advice](/zh/post/advice/)" 听从某人的建议。例如: "[She](/zh/post/she/) decided [to](/zh/post/to/) [take](/zh/post/take/) [her](/zh/post/her/) mentor's [advice](/zh/post/advice/) [seriously](/zh/post/seriously/)."
+- "[give](/zh/post/give/) [advice](/zh/post/advice/)" 提供建议。例如: "[He](/zh/post/he/) is [always](/zh/post/always/) [ready](/zh/post/ready/) [to](/zh/post/to/) [give](/zh/post/give/) [advice](/zh/post/advice/) [to](/zh/post/to/) [those](/zh/post/those/) [in](/zh/post/in/) [need](/zh/post/need/)."
 
 ## 例句
-- 动词: "[The](/post/the/) experienced [teacher](/post/teacher/) advised [the](/post/the/) students [on](/post/on/) choosing [their](/post/their/) [college](/post/college/) majors."
-- 名词: "[Her](/post/her/) [advice](/post/advice/) was invaluable [in](/post/in/) helping [me](/post/me/) [make](/post/make/) [the](/post/the/) [right](/post/right/) [decision](/post/decision/)."
+- 动词: "[The](/zh/post/the/) experienced [teacher](/zh/post/teacher/) advised [the](/zh/post/the/) students [on](/zh/post/on/) choosing [their](/zh/post/their/) [college](/zh/post/college/) majors."
+- 名词: "[Her](/zh/post/her/) [advice](/zh/post/advice/) was invaluable [in](/zh/post/in/) helping [me](/zh/post/me/) [make](/zh/post/make/) [the](/zh/post/the/) [right](/zh/post/right/) [decision](/zh/post/decision/)."
 
 ## 同义词
-- [suggest](/post/suggest/)
-- [recommend](/post/recommend/)
+- [suggest](/zh/post/suggest/)
+- [recommend](/zh/post/recommend/)
 - counsel
-- [propose](/post/propose/)
-- [urge](/post/urge/)
+- [propose](/zh/post/propose/)
+- [urge](/zh/post/urge/)

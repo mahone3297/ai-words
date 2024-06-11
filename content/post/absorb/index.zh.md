@@ -12,26 +12,26 @@ keywords = ['ai words', 'absorb']
 
 ## 释义
 - **动词**:
-1. 吸收（液体、气体等）：吸收养分。例如: "Plants [absorb](/post/absorb/) [water](/post/water/) [and](/post/and/) nutrients [through](/post/through/) [their](/post/their/) roots."
-2. 吸收（能量、光线、声音等）：吸收冲击力。例如: "[The](/post/the/) [thick](/post/thick/) curtains [absorb](/post/absorb/) [sound](/post/sound/) effectively."
-3. 领会、理解（信息、知识等）：全神贯注地听讲。例如: "[He](/post/he/) was [so](/post/so/) absorbed [in](/post/in/) [the](/post/the/) [lecture](/post/lecture/) [that](/post/that/) [he](/post/he/) didn't [notice](/post/notice/) [the](/post/the/) [time](/post/time/)."
-4. 吞并、合并（公司、组织等）：一家公司吸收了另一家公司。例如: "[The](/post/the/) smaller [company](/post/company/) was absorbed [by](/post/by/) [its](/post/its/) larger competitor."
+1. 吸收（液体、气体等）：吸收养分。例如: "Plants [absorb](/zh/post/absorb/) [water](/zh/post/water/) [and](/zh/post/and/) nutrients [through](/zh/post/through/) [their](/zh/post/their/) roots."
+2. 吸收（能量、光线、声音等）：吸收冲击力。例如: "[The](/zh/post/the/) [thick](/zh/post/thick/) curtains [absorb](/zh/post/absorb/) [sound](/zh/post/sound/) effectively."
+3. 领会、理解（信息、知识等）：全神贯注地听讲。例如: "[He](/zh/post/he/) was [so](/zh/post/so/) absorbed [in](/zh/post/in/) [the](/zh/post/the/) [lecture](/zh/post/lecture/) [that](/zh/post/that/) [he](/zh/post/he/) didn't [notice](/zh/post/notice/) [the](/zh/post/the/) [time](/zh/post/time/)."
+4. 吞并、合并（公司、组织等）：一家公司吸收了另一家公司。例如: "[The](/zh/post/the/) smaller [company](/zh/post/company/) was absorbed [by](/zh/post/by/) [its](/zh/post/its/) larger competitor."
 
 - **名词**:
-1. 吸收力；吸附剂：一种有强大吸收能力的物质。例如: "[This](/post/this/) [cloth](/post/cloth/) has [great](/post/great/) absorbency."
+1. 吸收力；吸附剂：一种有强大吸收能力的物质。例如: "[This](/zh/post/this/) [cloth](/zh/post/cloth/) has [great](/zh/post/great/) absorbency."
 
 ## 短语
-- "[Absorb](/post/absorb/) nutrients" 吸收营养。
-- "[Absorb](/post/absorb/) [shock](/post/shock/)" 吸收震动。
-- "[Absorb](/post/absorb/) [information](/post/information/)" 吸收信息。
+- "[Absorb](/zh/post/absorb/) nutrients" 吸收营养。
+- "[Absorb](/zh/post/absorb/) [shock](/zh/post/shock/)" 吸收震动。
+- "[Absorb](/zh/post/absorb/) [information](/zh/post/information/)" 吸收信息。
 
 ## 例句
-- 动词: "[The](/post/the/) [sponge](/post/sponge/) [quickly](/post/quickly/) absorbs [water](/post/water/) [when](/post/when/) placed [in](/post/in/) [it](/post/it/)."
-- 名词: "[The](/post/the/) [new](/post/new/) [material](/post/material/) has [excellent](/post/excellent/) [absorb](/post/absorb/) [for](/post/for/) [oil](/post/oil/) spills."
+- 动词: "[The](/zh/post/the/) [sponge](/zh/post/sponge/) [quickly](/zh/post/quickly/) absorbs [water](/zh/post/water/) [when](/zh/post/when/) placed [in](/zh/post/in/) [it](/zh/post/it/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [material](/zh/post/material/) has [excellent](/zh/post/excellent/) [absorb](/zh/post/absorb/) [for](/zh/post/for/) [oil](/zh/post/oil/) spills."
 
 ## 同义词
-- [Take](/post/take/) [in](/post/in/)
+- [Take](/zh/post/take/) [in](/zh/post/in/)
 - assimilate
-- [digest](/post/digest/)
-- [soak](/post/soak/) [up](/post/up/)
+- [digest](/zh/post/digest/)
+- [soak](/zh/post/soak/) [up](/zh/post/up/)
 - ingest

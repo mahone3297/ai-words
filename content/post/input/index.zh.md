@@ -12,24 +12,24 @@ keywords = ['ai words', 'input']
 
 ## 释义
 - **名词**:
-  - 提示，线索。例如: "[The](/post/the/) [answer](/post/answer/) [to](/post/to/) [the](/post/the/) [puzzle](/post/puzzle/) is [in](/post/in/) [the](/post/the/) [hint](/post/hint/)."
-  - 细微的迹象，暗示。例如: "[There](/post/there/) were hints [that](/post/that/) [he](/post/he/) [might](/post/might/) [resign](/post/resign/) [soon](/post/soon/)."
+  - 提示，线索。例如: "[The](/zh/post/the/) [answer](/zh/post/answer/) [to](/zh/post/to/) [the](/zh/post/the/) [puzzle](/zh/post/puzzle/) is [in](/zh/post/in/) [the](/zh/post/the/) [hint](/zh/post/hint/)."
+  - 细微的迹象，暗示。例如: "[There](/zh/post/there/) were hints [that](/zh/post/that/) [he](/zh/post/he/) [might](/zh/post/might/) [resign](/zh/post/resign/) [soon](/zh/post/soon/)."
 
 - **动词**:
-  - 给予提示。例如: "[Can](/post/can/) [you](/post/you/) [give](/post/give/) [me](/post/me/) [a](/post/a/) [hint](/post/hint/) [about](/post/about/) [how](/post/how/) [to](/post/to/) [solve](/post/solve/) [this](/post/this/) [problem](/post/problem/)?"
-  - 轻轻地触碰。例如: "[She](/post/she/) hinted [at](/post/at/) [his](/post/his/) [arm](/post/arm/) [to](/post/to/) [get](/post/get/) [his](/post/his/) [attention](/post/attention/)."
+  - 给予提示。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [give](/zh/post/give/) [me](/zh/post/me/) [a](/zh/post/a/) [hint](/zh/post/hint/) [about](/zh/post/about/) [how](/zh/post/how/) [to](/zh/post/to/) [solve](/zh/post/solve/) [this](/zh/post/this/) [problem](/zh/post/problem/)?"
+  - 轻轻地触碰。例如: "[She](/zh/post/she/) hinted [at](/zh/post/at/) [his](/zh/post/his/) [arm](/zh/post/arm/) [to](/zh/post/to/) [get](/zh/post/get/) [his](/zh/post/his/) [attention](/zh/post/attention/)."
 
 ## 短语
-- "[Give](/post/give/) [a](/post/a/) [hint](/post/hint/)" 意为提供线索或提示。
-- "[Take](/post/take/) [a](/post/a/) [hint](/post/hint/)" 意为领会别人的暗示或提醒。
+- "[Give](/zh/post/give/) [a](/zh/post/a/) [hint](/zh/post/hint/)" 意为提供线索或提示。
+- "[Take](/zh/post/take/) [a](/zh/post/a/) [hint](/zh/post/hint/)" 意为领会别人的暗示或提醒。
 
 ## 例句
-- 名词: "[The](/post/the/) [teacher](/post/teacher/) gave [us](/post/us/) [a](/post/a/) [hint](/post/hint/) [about](/post/about/) [what](/post/what/) [would](/post/would/) [be](/post/be/) [on](/post/on/) [the](/post/the/) [test](/post/test/)."
-- 动词: "It's [time](/post/time/) [for](/post/for/) [you](/post/you/) [to](/post/to/) [take](/post/take/) [a](/post/a/) [hint](/post/hint/) [and](/post/and/) [leave](/post/leave/) [the](/post/the/) [party](/post/party/)."
+- 名词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) gave [us](/zh/post/us/) [a](/zh/post/a/) [hint](/zh/post/hint/) [about](/zh/post/about/) [what](/zh/post/what/) [would](/zh/post/would/) [be](/zh/post/be/) [on](/zh/post/on/) [the](/zh/post/the/) [test](/zh/post/test/)."
+- 动词: "It's [time](/zh/post/time/) [for](/zh/post/for/) [you](/zh/post/you/) [to](/zh/post/to/) [take](/zh/post/take/) [a](/zh/post/a/) [hint](/zh/post/hint/) [and](/zh/post/and/) [leave](/zh/post/leave/) [the](/zh/post/the/) [party](/zh/post/party/)."
 
 ## 同义词
-- [Clue](/post/clue/)
-- [Suggestion](/post/suggestion/)
-- [Tip](/post/tip/)
-- [Signal](/post/signal/)
-- [Indication](/post/indication/)
+- [Clue](/zh/post/clue/)
+- [Suggestion](/zh/post/suggestion/)
+- [Tip](/zh/post/tip/)
+- [Signal](/zh/post/signal/)
+- [Indication](/zh/post/indication/)

@@ -11,21 +11,21 @@ keywords = ['ai words', 'letter']
 /lətər/
 
 ## 释义
-- **名词 (n)**: 1. 字母，如拉丁字母表中的a, b, c等。例如: "[The](/post/the/) [first](/post/first/) [letter](/post/letter/) [of](/post/of/) [the](/post/the/) [alphabet](/post/alphabet/) is '[A](/post/a/)'."
-   2. 信件，书面通信。例如: "I received [a](/post/a/) [letter](/post/letter/) [from](/post/from/) [my](/post/my/) [friend](/post/friend/) [yesterday](/post/yesterday/)."
-   3. 符号，标记。例如: "[The](/post/the/) [symbol](/post/symbol/) [for](/post/for/) [hydrogen](/post/hydrogen/) is [a](/post/a/) [letter](/post/letter/) 'H'."
+- **名词 (n)**: 1. 字母，如拉丁字母表中的a, b, c等。例如: "[The](/zh/post/the/) [first](/zh/post/first/) [letter](/zh/post/letter/) [of](/zh/post/of/) [the](/zh/post/the/) [alphabet](/zh/post/alphabet/) is '[A](/zh/post/a/)'."
+   2. 信件，书面通信。例如: "I received [a](/zh/post/a/) [letter](/zh/post/letter/) [from](/zh/post/from/) [my](/zh/post/my/) [friend](/zh/post/friend/) [yesterday](/zh/post/yesterday/)."
+   3. 符号，标记。例如: "[The](/zh/post/the/) [symbol](/zh/post/symbol/) [for](/zh/post/for/) [hydrogen](/zh/post/hydrogen/) is [a](/zh/post/a/) [letter](/zh/post/letter/) 'H'."
 
-- **动词 (v)**: 写信。例如: "I'll [letter](/post/letter/) [her](/post/her/) [tomorrow](/post/tomorrow/), telling [her](/post/her/) [about](/post/about/) [the](/post/the/) [news](/post/news/)."
+- **动词 (v)**: 写信。例如: "I'll [letter](/zh/post/letter/) [her](/zh/post/her/) [tomorrow](/zh/post/tomorrow/), telling [her](/zh/post/her/) [about](/zh/post/about/) [the](/zh/post/the/) [news](/zh/post/news/)."
 
 ## 短语
-- "[Write](/post/write/) [a](/post/a/) [letter](/post/letter/)" 意为写一封信。
-- "[The](/post/the/) [alphabet](/post/alphabet/) consists [of](/post/of/) 26 letters" 表示字母表由26个字母组成。
+- "[Write](/zh/post/write/) [a](/zh/post/a/) [letter](/zh/post/letter/)" 意为写一封信。
+- "[The](/zh/post/the/) [alphabet](/zh/post/alphabet/) consists [of](/zh/post/of/) 26 letters" 表示字母表由26个字母组成。
 
 ## 例句
-- 名词: "[The](/post/the/) [word](/post/word/) '[cat](/post/cat/)' has [three](/post/three/) letters."
-- 动词: "I decided [to](/post/to/) [letter](/post/letter/) [my](/post/my/) thoughts [in](/post/in/) [a](/post/a/) [journal](/post/journal/) [instead](/post/instead/) [of](/post/of/) typing [them](/post/them/)."
+- 名词: "[The](/zh/post/the/) [word](/zh/post/word/) '[cat](/zh/post/cat/)' has [three](/zh/post/three/) letters."
+- 动词: "I decided [to](/zh/post/to/) [letter](/zh/post/letter/) [my](/zh/post/my/) thoughts [in](/zh/post/in/) [a](/zh/post/a/) [journal](/zh/post/journal/) [instead](/zh/post/instead/) [of](/zh/post/of/) typing [them](/zh/post/them/)."
   
 ## 同义词
-- [Character](/post/character/) ([for](/post/for/) [the](/post/the/) [symbol](/post/symbol/) [or](/post/or/) [mark](/post/mark/) [sense](/post/sense/))
-- Epistle ([for](/post/for/) written [communication](/post/communication/))
-- [Message](/post/message/) ([for](/post/for/) [the](/post/the/) [content](/post/content/) [of](/post/of/) [a](/post/a/) [letter](/post/letter/))
+- [Character](/zh/post/character/) ([for](/zh/post/for/) [the](/zh/post/the/) [symbol](/zh/post/symbol/) [or](/zh/post/or/) [mark](/zh/post/mark/) [sense](/zh/post/sense/))
+- Epistle ([for](/zh/post/for/) written [communication](/zh/post/communication/))
+- [Message](/zh/post/message/) ([for](/zh/post/for/) [the](/zh/post/the/) [content](/zh/post/content/) [of](/zh/post/of/) [a](/zh/post/a/) [letter](/zh/post/letter/))

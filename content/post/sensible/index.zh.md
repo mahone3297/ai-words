@@ -11,20 +11,20 @@ keywords = ['ai words', 'sensible']
 /ˈsɛnsəbl/
 
 ## 释义
-- **形容词**: 明智的，理智的，有道理的。例如: "It's [sensible](/post/sensible/) [to](/post/to/) [wear](/post/wear/) [a](/post/a/) [coat](/post/coat/) [in](/post/in/) [cold](/post/cold/) [weather](/post/weather/)."
-- **名词**: (罕用) 感觉，知觉。例如: "[He](/post/he/) has lost [all](/post/all/) [his](/post/his/) sensibles [due](/post/due/) [to](/post/to/) [the](/post/the/) [illness](/post/illness/)."
+- **形容词**: 明智的，理智的，有道理的。例如: "It's [sensible](/zh/post/sensible/) [to](/zh/post/to/) [wear](/zh/post/wear/) [a](/zh/post/a/) [coat](/zh/post/coat/) [in](/zh/post/in/) [cold](/zh/post/cold/) [weather](/zh/post/weather/)."
+- **名词**: (罕用) 感觉，知觉。例如: "[He](/zh/post/he/) has lost [all](/zh/post/all/) [his](/zh/post/his/) sensibles [due](/zh/post/due/) [to](/zh/post/to/) [the](/zh/post/the/) [illness](/zh/post/illness/)."
 
 ## 短语
-- "[Act](/post/act/) sensibly" 意味着要理智行事。
-- "[A](/post/a/) [sensible](/post/sensible/) [decision](/post/decision/)" 指的是明智的决定。
+- "[Act](/zh/post/act/) sensibly" 意味着要理智行事。
+- "[A](/zh/post/a/) [sensible](/zh/post/sensible/) [decision](/zh/post/decision/)" 指的是明智的决定。
 
 ## 例句
-- 形容词: "[She](/post/she/) made [a](/post/a/) [sensible](/post/sensible/) [choice](/post/choice/) [by](/post/by/) [saving](/post/saving/) [money](/post/money/) [for](/post/for/) [the](/post/the/) [future](/post/future/)."
-- 名词: "[His](/post/his/) sensibles were heightened [after](/post/after/) drinking [too](/post/too/) [much](/post/much/) [coffee](/post/coffee/)."
+- 形容词: "[She](/zh/post/she/) made [a](/zh/post/a/) [sensible](/zh/post/sensible/) [choice](/zh/post/choice/) [by](/zh/post/by/) [saving](/zh/post/saving/) [money](/zh/post/money/) [for](/zh/post/for/) [the](/zh/post/the/) [future](/zh/post/future/)."
+- 名词: "[His](/zh/post/his/) sensibles were heightened [after](/zh/post/after/) drinking [too](/zh/post/too/) [much](/zh/post/much/) [coffee](/zh/post/coffee/)."
 
 ## 同义词
-- [Rational](/post/rational/)
-- [Practical](/post/practical/)
-- [Wise](/post/wise/)
-- [Sound](/post/sound/)
+- [Rational](/zh/post/rational/)
+- [Practical](/zh/post/practical/)
+- [Wise](/zh/post/wise/)
+- [Sound](/zh/post/sound/)
 - Judicious

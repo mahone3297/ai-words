@@ -11,24 +11,24 @@ keywords = ['ai words', 'swell']
 /swel/
 
 ## 释义
-- **动词**: 变大；膨胀。例如: "[The](/post/the/) swelling [in](/post/in/) [his](/post/his/) [ankle](/post/ankle/) got [worse](/post/worse/) [after](/post/after/) [he](/post/he/) walked [too](/post/too/) [much](/post/much/)."
-- **形容词**: 膨胀的；肿胀的。例如: "[She](/post/she/) had [a](/post/a/) [slight](/post/slight/) [swell](/post/swell/) [around](/post/around/) [her](/post/her/) [eye](/post/eye/) [from](/post/from/) [the](/post/the/) [injury](/post/injury/)."
-- **名词**: 膨胀；隆起。例如: "[There](/post/there/) was [a](/post/a/) [swell](/post/swell/) [on](/post/on/) [the](/post/the/) [surface](/post/surface/) [of](/post/of/) [the](/post/the/) [water](/post/water/) [after](/post/after/) [the](/post/the/) [storm](/post/storm/)."
-- **名词**: （音乐、情绪等）高涨；激昂。例如: "[The](/post/the/) [music](/post/music/) swelled [to](/post/to/) [a](/post/a/) crescendo."
+- **动词**: 变大；膨胀。例如: "[The](/zh/post/the/) swelling [in](/zh/post/in/) [his](/zh/post/his/) [ankle](/zh/post/ankle/) got [worse](/zh/post/worse/) [after](/zh/post/after/) [he](/zh/post/he/) walked [too](/zh/post/too/) [much](/zh/post/much/)."
+- **形容词**: 膨胀的；肿胀的。例如: "[She](/zh/post/she/) had [a](/zh/post/a/) [slight](/zh/post/slight/) [swell](/zh/post/swell/) [around](/zh/post/around/) [her](/zh/post/her/) [eye](/zh/post/eye/) [from](/zh/post/from/) [the](/zh/post/the/) [injury](/zh/post/injury/)."
+- **名词**: 膨胀；隆起。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [swell](/zh/post/swell/) [on](/zh/post/on/) [the](/zh/post/the/) [surface](/zh/post/surface/) [of](/zh/post/of/) [the](/zh/post/the/) [water](/zh/post/water/) [after](/zh/post/after/) [the](/zh/post/the/) [storm](/zh/post/storm/)."
+- **名词**: （音乐、情绪等）高涨；激昂。例如: "[The](/zh/post/the/) [music](/zh/post/music/) swelled [to](/zh/post/to/) [a](/zh/post/a/) crescendo."
 
 ## 短语
-- "[swell](/post/swell/) [up](/post/up/)" 表示（身体部位）肿胀。
-- "[a](/post/a/) [swell](/post/swell/) [party](/post/party/)" 指一个很棒的聚会。
-- "[the](/post/the/) [swell](/post/swell/) [crowd](/post/crowd/)" 通常指上流社会或富有的人群。
+- "[swell](/zh/post/swell/) [up](/zh/post/up/)" 表示（身体部位）肿胀。
+- "[a](/zh/post/a/) [swell](/zh/post/swell/) [party](/zh/post/party/)" 指一个很棒的聚会。
+- "[the](/zh/post/the/) [swell](/zh/post/swell/) [crowd](/zh/post/crowd/)" 通常指上流社会或富有的人群。
 
 ## 例句
-- 动词: "[After](/post/after/) eating [too](/post/too/) [much](/post/much/), [his](/post/his/) [stomach](/post/stomach/) began [to](/post/to/) [swell](/post/swell/)."
-- 形容词: "[She](/post/she/) [put](/post/put/) [ice](/post/ice/) [on](/post/on/) [the](/post/the/) swollen [ankle](/post/ankle/) [to](/post/to/) [reduce](/post/reduce/) [the](/post/the/) [pain](/post/pain/)."
-- 名词: "[The](/post/the/) [ship](/post/ship/) rode [the](/post/the/) [swell](/post/swell/) [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/) gracefully."
+- 动词: "[After](/zh/post/after/) eating [too](/zh/post/too/) [much](/zh/post/much/), [his](/zh/post/his/) [stomach](/zh/post/stomach/) began [to](/zh/post/to/) [swell](/zh/post/swell/)."
+- 形容词: "[She](/zh/post/she/) [put](/zh/post/put/) [ice](/zh/post/ice/) [on](/zh/post/on/) [the](/zh/post/the/) swollen [ankle](/zh/post/ankle/) [to](/zh/post/to/) [reduce](/zh/post/reduce/) [the](/zh/post/the/) [pain](/zh/post/pain/)."
+- 名词: "[The](/zh/post/the/) [ship](/zh/post/ship/) rode [the](/zh/post/the/) [swell](/zh/post/swell/) [of](/zh/post/of/) [the](/zh/post/the/) [ocean](/zh/post/ocean/) gracefully."
 
 ## 同义词
-- [expand](/post/expand/)
-- [grow](/post/grow/) larger
-- [puff](/post/puff/) [up](/post/up/)
-- [increase](/post/increase/)
+- [expand](/zh/post/expand/)
+- [grow](/zh/post/grow/) larger
+- [puff](/zh/post/puff/) [up](/zh/post/up/)
+- [increase](/zh/post/increase/)
 - bulge

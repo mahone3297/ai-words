@@ -7,29 +7,29 @@ description = '[pai] n.(西点)馅饼'
 keywords = ['ai words', 'pie']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pi/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) baked [dish](/en/post/dish/) typically made [with](/en/post/with/) [a](/en/post/a/) pastry [crust](/en/post/crust/) [and](/en/post/and/) filled [with](/en/post/with/) [sweet](/en/post/sweet/) [or](/en/post/or/) savory ingredients, [often](/en/post/often/) served [as](/en/post/as/) [a](/en/post/a/) dessert [or](/en/post/or/) [main](/en/post/main/) [course](/en/post/course/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was baking [a](/en/post/a/) [delicious](/en/post/delicious/) [apple](/en/post/apple/) [pie](/en/post/pie/) [for](/en/post/for/) [the](/en/post/the/) [picnic](/en/post/picnic/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [serve](/en/post/serve/) [or](/en/post/or/) [eat](/en/post/eat/) [a](/en/post/a/) [slice](/en/post/slice/) [of](/en/post/of/) [pie](/en/post/pie/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) enjoyed [a](/en/post/a/) [slice](/en/post/slice/) [of](/en/post/of/) [cherry](/en/post/cherry/) [pie](/en/post/pie/) [after](/en/post/after/) [dinner](/en/post/dinner/)."
-- **[Noun](/en/post/noun/) (informal)**: [A](/en/post/a/) [person](/en/post/person/), [especially](/en/post/especially/) [a](/en/post/a/) [woman](/en/post/woman/), considered [attractive](/en/post/attractive/) [or](/en/post/or/) [desirable](/en/post/desirable/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [the](/en/post/the/) center [of](/en/post/of/) [attention](/en/post/attention/) [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/), [like](/en/post/like/) [a](/en/post/a/) tasty [pie](/en/post/pie/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) baked [dish](/post/dish/) typically made [with](/post/with/) [a](/post/a/) pastry [crust](/post/crust/) [and](/post/and/) filled [with](/post/with/) [sweet](/post/sweet/) [or](/post/or/) savory ingredients, [often](/post/often/) served [as](/post/as/) [a](/post/a/) dessert [or](/post/or/) [main](/post/main/) [course](/post/course/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was baking [a](/post/a/) [delicious](/post/delicious/) [apple](/post/apple/) [pie](/post/pie/) [for](/post/for/) [the](/post/the/) [picnic](/post/picnic/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [serve](/post/serve/) [or](/post/or/) [eat](/post/eat/) [a](/post/a/) [slice](/post/slice/) [of](/post/of/) [pie](/post/pie/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) enjoyed [a](/post/a/) [slice](/post/slice/) [of](/post/of/) [cherry](/post/cherry/) [pie](/post/pie/) [after](/post/after/) [dinner](/post/dinner/)."
+- **[Noun](/post/noun/) (informal)**: [A](/post/a/) [person](/post/person/), [especially](/post/especially/) [a](/post/a/) [woman](/post/woman/), considered [attractive](/post/attractive/) [or](/post/or/) [desirable](/post/desirable/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [the](/post/the/) center [of](/post/of/) [attention](/post/attention/) [at](/post/at/) [the](/post/the/) [party](/post/party/), [like](/post/like/) [a](/post/a/) tasty [pie](/post/pie/)."
 
 ## Phrases
-- "Pie-eater" is [a](/en/post/a/) slang [term](/en/post/term/) [for](/en/post/for/) [someone](/en/post/someone/) [who](/en/post/who/) enjoys [or](/en/post/or/) is known [for](/en/post/for/) eating pies.
-- "[Apple](/en/post/apple/) [pie](/en/post/pie/) [a](/en/post/a/) [day](/en/post/day/) keeps [the](/en/post/the/) [doctor](/en/post/doctor/) [away](/en/post/away/)" is [a](/en/post/a/) proverb suggesting [a](/en/post/a/) [healthy](/en/post/healthy/) diet.
-- "[Key](/en/post/key/) [lime](/en/post/lime/) [pie](/en/post/pie/)" is [a](/en/post/a/) [popular](/en/post/popular/) dessert [from](/en/post/from/) [the](/en/post/the/) [southern](/en/post/southern/) United States.
+- "Pie-eater" is [a](/post/a/) slang [term](/post/term/) [for](/post/for/) [someone](/post/someone/) [who](/post/who/) enjoys [or](/post/or/) is known [for](/post/for/) eating pies.
+- "[Apple](/post/apple/) [pie](/post/pie/) [a](/post/a/) [day](/post/day/) keeps [the](/post/the/) [doctor](/post/doctor/) [away](/post/away/)" is [a](/post/a/) proverb suggesting [a](/post/a/) [healthy](/post/healthy/) diet.
+- "[Key](/post/key/) [lime](/post/lime/) [pie](/post/pie/)" is [a](/post/a/) [popular](/post/popular/) dessert [from](/post/from/) [the](/post/the/) [southern](/post/southern/) United States.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) aroma [of](/en/post/of/) [the](/en/post/the/) freshly baked [pie](/en/post/pie/) filled [the](/en/post/the/) [entire](/en/post/entire/) [kitchen](/en/post/kitchen/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [he](/en/post/he/) looked [forward](/en/post/forward/) [to](/en/post/to/) sinking [his](/en/post/his/) teeth [into](/en/post/into/) [a](/en/post/a/) [slice](/en/post/slice/) [of](/en/post/of/) Grandma's pumpkin [pie](/en/post/pie/)."
-- **[Noun](/en/post/noun/) (informal)**: "[She](/en/post/she/) was [the](/en/post/the/) [pie](/en/post/pie/) [at](/en/post/at/) [the](/en/post/the/) [office](/en/post/office/) [party](/en/post/party/), [everyone](/en/post/everyone/) couldn't [stop](/en/post/stop/) staring."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) aroma [of](/post/of/) [the](/post/the/) freshly baked [pie](/post/pie/) filled [the](/post/the/) [entire](/post/entire/) [kitchen](/post/kitchen/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) looked [forward](/post/forward/) [to](/post/to/) sinking [his](/post/his/) teeth [into](/post/into/) [a](/post/a/) [slice](/post/slice/) [of](/post/of/) Grandma's pumpkin [pie](/post/pie/)."
+- **[Noun](/post/noun/) (informal)**: "[She](/post/she/) was [the](/post/the/) [pie](/post/pie/) [at](/post/at/) [the](/post/the/) [office](/post/office/) [party](/post/party/), [everyone](/post/everyone/) couldn't [stop](/post/stop/) staring."
 
 ## Synonyms
 - Tart
 - Pastry
 - Dessert
-- Quiche ([a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [pie](/en/post/pie/))
-- Turnover ([a](/en/post/a/) pastry [with](/en/post/with/) [a](/en/post/a/) filling)
-- [Slice](/en/post/slice/)
-- [Slice](/en/post/slice/) [of](/en/post/of/) [heaven](/en/post/heaven/) (informally, [something](/en/post/something/) [very](/en/post/very/) enjoyable)
+- Quiche ([a](/post/a/) [type](/post/type/) [of](/post/of/) [pie](/post/pie/))
+- Turnover ([a](/post/a/) pastry [with](/post/with/) [a](/post/a/) filling)
+- [Slice](/post/slice/)
+- [Slice](/post/slice/) [of](/post/of/) [heaven](/post/heaven/) (informally, [something](/post/something/) [very](/post/very/) enjoyable)

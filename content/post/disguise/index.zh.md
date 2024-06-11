@@ -11,20 +11,20 @@ keywords = ['ai words', 'disguise']
 /dɪsˈaɪz/
 
 ## 释义
-- **名词**: 假装，伪装，化装。例如: "[He](/post/he/) wore [a](/post/a/) [disguise](/post/disguise/) [to](/post/to/) [avoid](/post/avoid/) [being](/post/being/) recognized."
-- **动词**: 使伪装，乔装打扮。例如: "[She](/post/she/) disguised [herself](/post/herself/) [as](/post/as/) [a](/post/a/) [boy](/post/boy/) [to](/post/to/) [escape](/post/escape/) [capture](/post/capture/)."
+- **名词**: 假装，伪装，化装。例如: "[He](/zh/post/he/) wore [a](/zh/post/a/) [disguise](/zh/post/disguise/) [to](/zh/post/to/) [avoid](/zh/post/avoid/) [being](/zh/post/being/) recognized."
+- **动词**: 使伪装，乔装打扮。例如: "[She](/zh/post/she/) disguised [herself](/zh/post/herself/) [as](/zh/post/as/) [a](/zh/post/a/) [boy](/zh/post/boy/) [to](/zh/post/to/) [escape](/zh/post/escape/) [capture](/zh/post/capture/)."
 
 ## 短语
-- "[in](/post/in/) [disguise](/post/disguise/)" 表示假装成另一种身份或外表。
-- "[disguise](/post/disguise/) one's [true](/post/true/) feelings" 意味着掩饰真实的情感。
+- "[in](/zh/post/in/) [disguise](/zh/post/disguise/)" 表示假装成另一种身份或外表。
+- "[disguise](/zh/post/disguise/) one's [true](/zh/post/true/) feelings" 意味着掩饰真实的情感。
 
 ## 例句
-- 名词: "[The](/post/the/) [spy](/post/spy/) [used](/post/used/) [a](/post/a/) [clever](/post/clever/) [disguise](/post/disguise/) [to](/post/to/) [blend](/post/blend/) [in](/post/in/) [with](/post/with/) [the](/post/the/) [crowd](/post/crowd/)."
-- 动词: "[She](/post/she/) disguised [her](/post/her/) [voice](/post/voice/) [on](/post/on/) [the](/post/the/) [phone](/post/phone/) [so](/post/so/) [no](/post/no/) [one](/post/one/) [would](/post/would/) [recognize](/post/recognize/) [her](/post/her/)."
+- 名词: "[The](/zh/post/the/) [spy](/zh/post/spy/) [used](/zh/post/used/) [a](/zh/post/a/) [clever](/zh/post/clever/) [disguise](/zh/post/disguise/) [to](/zh/post/to/) [blend](/zh/post/blend/) [in](/zh/post/in/) [with](/zh/post/with/) [the](/zh/post/the/) [crowd](/zh/post/crowd/)."
+- 动词: "[She](/zh/post/she/) disguised [her](/zh/post/her/) [voice](/zh/post/voice/) [on](/zh/post/on/) [the](/zh/post/the/) [phone](/zh/post/phone/) [so](/zh/post/so/) [no](/zh/post/no/) [one](/zh/post/one/) [would](/zh/post/would/) [recognize](/zh/post/recognize/) [her](/zh/post/her/)."
 
 ## 同义词
-- [conceal](/post/conceal/)
-- [mask](/post/mask/)
-- [pretend](/post/pretend/)
-- [hide](/post/hide/)
+- [conceal](/zh/post/conceal/)
+- [mask](/zh/post/mask/)
+- [pretend](/zh/post/pretend/)
+- [hide](/zh/post/hide/)
 - camouflage

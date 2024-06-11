@@ -7,33 +7,33 @@ description = '[spil] vt.使溢出 vi.溢出'
 keywords = ['ai words', 'spill']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /spɪl/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (n) [To](/en/post/to/) [cause](/en/post/cause/) [liquid](/en/post/liquid/), semiliquid, [or](/en/post/or/) [powder](/en/post/powder/) [to](/en/post/to/) [flow](/en/post/flow/) [or](/en/post/or/) [leak](/en/post/leak/) [out](/en/post/out/) [of](/en/post/of/) [a](/en/post/a/) [container](/en/post/container/) [or](/en/post/or/) [from](/en/post/from/) [a](/en/post/a/) [broken](/en/post/broken/) [container](/en/post/container/); [pour](/en/post/pour/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [milk](/en/post/milk/) spilled [all](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [counter](/en/post/counter/)."
-- **[Noun](/en/post/noun/)**: An [incident](/en/post/incident/) [where](/en/post/where/) [something](/en/post/something/) is accidentally released [or](/en/post/or/) scattered; [a](/en/post/a/) mishap. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [car](/en/post/car/) [accident](/en/post/accident/) was [a](/en/post/a/) [major](/en/post/major/) [spill](/en/post/spill/) [of](/en/post/of/) [oil](/en/post/oil/) [on](/en/post/on/) [the](/en/post/the/) [highway](/en/post/highway/)."
+- **[Verb](/post/verb/)**: (n) [To](/post/to/) [cause](/post/cause/) [liquid](/post/liquid/), semiliquid, [or](/post/or/) [powder](/post/powder/) [to](/post/to/) [flow](/post/flow/) [or](/post/or/) [leak](/post/leak/) [out](/post/out/) [of](/post/of/) [a](/post/a/) [container](/post/container/) [or](/post/or/) [from](/post/from/) [a](/post/a/) [broken](/post/broken/) [container](/post/container/); [pour](/post/pour/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [milk](/post/milk/) spilled [all](/post/all/) [over](/post/over/) [the](/post/the/) [counter](/post/counter/)."
+- **[Noun](/post/noun/)**: An [incident](/post/incident/) [where](/post/where/) [something](/post/something/) is accidentally released [or](/post/or/) scattered; [a](/post/a/) mishap. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [car](/post/car/) [accident](/post/accident/) was [a](/post/a/) [major](/post/major/) [spill](/post/spill/) [of](/post/of/) [oil](/post/oil/) [on](/post/on/) [the](/post/the/) [highway](/post/highway/)."
 
 ## Phrases
-- "[Spill](/en/post/spill/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) accidentally [release](/en/post/release/) [a](/en/post/a/) [substance](/en/post/substance/).
-- "[Clean](/en/post/clean/) [up](/en/post/up/) [a](/en/post/a/) [spill](/en/post/spill/)" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) removing [a](/en/post/a/) [mess](/en/post/mess/) caused [by](/en/post/by/) [a](/en/post/a/) [spill](/en/post/spill/).
-- "[A](/en/post/a/) [spill](/en/post/spill/) [of](/en/post/of/) secrets" is [when](/en/post/when/) confidential [information](/en/post/information/) is unintentionally revealed.
+- "[Spill](/post/spill/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) accidentally [release](/post/release/) [a](/post/a/) [substance](/post/substance/).
+- "[Clean](/post/clean/) [up](/post/up/) [a](/post/a/) [spill](/post/spill/)" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) removing [a](/post/a/) [mess](/post/mess/) caused [by](/post/by/) [a](/post/a/) [spill](/post/spill/).
+- "[A](/post/a/) [spill](/post/spill/) [of](/post/of/) secrets" is [when](/post/when/) confidential [information](/post/information/) is unintentionally revealed.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I accidentally spilled [coffee](/en/post/coffee/) [on](/en/post/on/) [my](/en/post/my/) [shirt](/en/post/shirt/) [this](/en/post/this/) [morning](/en/post/morning/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) had [to](/en/post/to/) [hire](/en/post/hire/) cleanup crews [after](/en/post/after/) [a](/en/post/a/) massive [chemical](/en/post/chemical/) [spill](/en/post/spill/)."
-- "[After](/en/post/after/) [the](/en/post/the/) [spill](/en/post/spill/), [the](/en/post/the/) [environment](/en/post/environment/) took years [to](/en/post/to/) [recover](/en/post/recover/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I accidentally spilled [coffee](/post/coffee/) [on](/post/on/) [my](/post/my/) [shirt](/post/shirt/) [this](/post/this/) [morning](/post/morning/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) had [to](/post/to/) [hire](/post/hire/) cleanup crews [after](/post/after/) [a](/post/a/) massive [chemical](/post/chemical/) [spill](/post/spill/)."
+- "[After](/post/after/) [the](/post/the/) [spill](/post/spill/), [the](/post/the/) [environment](/post/environment/) took years [to](/post/to/) [recover](/post/recover/)."
 
 ## Synonyms
-- [Pour](/en/post/pour/)
-- [Leak](/en/post/leak/)
-- [Drip](/en/post/drip/)
+- [Pour](/post/pour/)
+- [Leak](/post/leak/)
+- [Drip](/post/drip/)
 - Eject
-- [Scatter](/en/post/scatter/)
+- [Scatter](/post/scatter/)
 
 ## Antonyms
-- [Contain](/en/post/contain/)
-- [Hold](/en/post/hold/)
-- [Retain](/en/post/retain/)
-- [Seal](/en/post/seal/)
-- [Prevent](/en/post/prevent/)
+- [Contain](/post/contain/)
+- [Hold](/post/hold/)
+- [Retain](/post/retain/)
+- [Seal](/post/seal/)
+- [Prevent](/post/prevent/)

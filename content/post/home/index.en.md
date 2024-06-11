@@ -7,40 +7,40 @@ description = '[həum] n.家；家乡 a.家庭的'
 keywords = ['ai words', 'home']
 +++
 
-## [Word](/en/post/word/): [Home](/en/post/home/)
+## [Word](/post/word/): [Home](/post/home/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /hoʊm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [place](/en/post/place/) [where](/en/post/where/) [one](/en/post/one/) lives [permanently](/en/post/permanently/), [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [family](/en/post/family/) [or](/en/post/or/) [household](/en/post/household/); [a](/en/post/a/) [dwelling](/en/post/dwelling/) [place](/en/post/place/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [he](/en/post/he/) was [happy](/en/post/happy/) [to](/en/post/to/) [be](/en/post/be/) [back](/en/post/back/) [home](/en/post/home/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) connected [with](/en/post/with/) [the](/en/post/the/) [place](/en/post/place/) [where](/en/post/where/) [one](/en/post/one/) lives [or](/en/post/or/) [where](/en/post/where/) one's center [of](/en/post/of/) [interest](/en/post/interest/) lies. [For](/en/post/for/) [example](/en/post/example/): "[Home](/en/post/home/) cooking [always](/en/post/always/) tastes [better](/en/post/better/) [than](/en/post/than/) eating [out](/en/post/out/)."
-- **[Verb](/en/post/verb/)** (informal): [To](/en/post/to/) [return](/en/post/return/) [home](/en/post/home/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [home](/en/post/home/) [early](/en/post/early/) [today](/en/post/today/) [because](/en/post/because/) [she](/en/post/she/) wasn't [feeling](/en/post/feeling/) [well](/en/post/well/)."
-- **[Adverb](/en/post/adverb/)**: [Directly](/en/post/directly/) toward [or](/en/post/or/) [to](/en/post/to/) [a](/en/post/a/) [destination](/en/post/destination/), [especially](/en/post/especially/) one's [home](/en/post/home/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [bird](/en/post/bird/) flew [straight](/en/post/straight/) [home](/en/post/home/) [after](/en/post/after/) leaving [the](/en/post/the/) [nest](/en/post/nest/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [place](/post/place/) [where](/post/where/) [one](/post/one/) lives [permanently](/post/permanently/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [family](/post/family/) [or](/post/or/) [household](/post/household/); [a](/post/a/) [dwelling](/post/dwelling/) [place](/post/place/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [he](/post/he/) was [happy](/post/happy/) [to](/post/to/) [be](/post/be/) [back](/post/back/) [home](/post/home/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) connected [with](/post/with/) [the](/post/the/) [place](/post/place/) [where](/post/where/) [one](/post/one/) lives [or](/post/or/) [where](/post/where/) one's center [of](/post/of/) [interest](/post/interest/) lies. [For](/post/for/) [example](/post/example/): "[Home](/post/home/) cooking [always](/post/always/) tastes [better](/post/better/) [than](/post/than/) eating [out](/post/out/)."
+- **[Verb](/post/verb/)** (informal): [To](/post/to/) [return](/post/return/) [home](/post/home/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [home](/post/home/) [early](/post/early/) [today](/post/today/) [because](/post/because/) [she](/post/she/) wasn't [feeling](/post/feeling/) [well](/post/well/)."
+- **[Adverb](/post/adverb/)**: [Directly](/post/directly/) toward [or](/post/or/) [to](/post/to/) [a](/post/a/) [destination](/post/destination/), [especially](/post/especially/) one's [home](/post/home/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [bird](/post/bird/) flew [straight](/post/straight/) [home](/post/home/) [after](/post/after/) leaving [the](/post/the/) [nest](/post/nest/)."
 
 ## Phrases
-- "[Home](/en/post/home/) [sweet](/en/post/sweet/) [home](/en/post/home/)": An [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) [convey](/en/post/convey/) [happiness](/en/post/happiness/) [or](/en/post/or/) [relief](/en/post/relief/) [upon](/en/post/upon/) returning [to](/en/post/to/) one's [own](/en/post/own/) [home](/en/post/home/).
-- "[Make](/en/post/make/) [yourself](/en/post/yourself/) [at](/en/post/at/) [home](/en/post/home/)": An [invitation](/en/post/invitation/) [to](/en/post/to/) guests [to](/en/post/to/) [feel](/en/post/feel/) [comfortable](/en/post/comfortable/) [and](/en/post/and/) relaxed [in](/en/post/in/) one's [house](/en/post/house/) [as](/en/post/as/) [if](/en/post/if/) [it](/en/post/it/) were [their](/en/post/their/) [own](/en/post/own/).
-- "There's [no](/en/post/no/) [place](/en/post/place/) [like](/en/post/like/) [home](/en/post/home/)": Expresses [the](/en/post/the/) sentiment [that](/en/post/that/) one's [own](/en/post/own/) [home](/en/post/home/) is [the](/en/post/the/) [most](/en/post/most/) comforting [and](/en/post/and/) [desirable](/en/post/desirable/) [place](/en/post/place/) [to](/en/post/to/) [be](/en/post/be/).
+- "[Home](/post/home/) [sweet](/post/sweet/) [home](/post/home/)": An [expression](/post/expression/) [used](/post/used/) [to](/post/to/) [convey](/post/convey/) [happiness](/post/happiness/) [or](/post/or/) [relief](/post/relief/) [upon](/post/upon/) returning [to](/post/to/) one's [own](/post/own/) [home](/post/home/).
+- "[Make](/post/make/) [yourself](/post/yourself/) [at](/post/at/) [home](/post/home/)": An [invitation](/post/invitation/) [to](/post/to/) guests [to](/post/to/) [feel](/post/feel/) [comfortable](/post/comfortable/) [and](/post/and/) relaxed [in](/post/in/) one's [house](/post/house/) [as](/post/as/) [if](/post/if/) [it](/post/it/) were [their](/post/their/) [own](/post/own/).
+- "There's [no](/post/no/) [place](/post/place/) [like](/post/like/) [home](/post/home/)": Expresses [the](/post/the/) sentiment [that](/post/that/) one's [own](/post/own/) [home](/post/home/) is [the](/post/the/) [most](/post/most/) comforting [and](/post/and/) [desirable](/post/desirable/) [place](/post/place/) [to](/post/to/) [be](/post/be/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[They](/en/post/they/) bought [a](/en/post/a/) [new](/en/post/new/) [home](/en/post/home/) [in](/en/post/in/) [the](/en/post/the/) suburbs."
-- **[Adjective](/en/post/adjective/)**: "Homegrown vegetables are [often](/en/post/often/) fresher [and](/en/post/and/) healthier."
-- **[Verb](/en/post/verb/)**: "I'm homing [soon](/en/post/soon/), [so](/en/post/so/) [could](/en/post/could/) [you](/en/post/you/) [start](/en/post/start/) [dinner](/en/post/dinner/) [without](/en/post/without/) [me](/en/post/me/)?"
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [arrow](/en/post/arrow/) [hit](/en/post/hit/) [the](/en/post/the/) bullseye [right](/en/post/right/) [at](/en/post/at/) [home](/en/post/home/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[They](/post/they/) bought [a](/post/a/) [new](/post/new/) [home](/post/home/) [in](/post/in/) [the](/post/the/) suburbs."
+- **[Adjective](/post/adjective/)**: "Homegrown vegetables are [often](/post/often/) fresher [and](/post/and/) healthier."
+- **[Verb](/post/verb/)**: "I'm homing [soon](/post/soon/), [so](/post/so/) [could](/post/could/) [you](/post/you/) [start](/post/start/) [dinner](/post/dinner/) [without](/post/without/) [me](/post/me/)?"
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [arrow](/post/arrow/) [hit](/post/hit/) [the](/post/the/) bullseye [right](/post/right/) [at](/post/at/) [home](/post/home/)."
 
 ## Synonyms
-- [Residence](/en/post/residence/)
-- [Dwelling](/en/post/dwelling/)
+- [Residence](/post/residence/)
+- [Dwelling](/post/dwelling/)
 - Abode
-- [House](/en/post/house/)
-- [Apartment](/en/post/apartment/)
-- [Place](/en/post/place/)
-- [Base](/en/post/base/) ([as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [base](/en/post/base/) [of](/en/post/of/) operations)
-- [Headquarters](/en/post/headquarters/) (figurative [use](/en/post/use/)) 
+- [House](/post/house/)
+- [Apartment](/post/apartment/)
+- [Place](/post/place/)
+- [Base](/post/base/) ([as](/post/as/) [in](/post/in/) [a](/post/a/) [base](/post/base/) [of](/post/of/) operations)
+- [Headquarters](/post/headquarters/) (figurative [use](/post/use/)) 
 
-[For](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [sense](/en/post/sense/) [of](/en/post/of/) "[to](/en/post/to/) [return](/en/post/return/) [home](/en/post/home/)":
-- [Return](/en/post/return/)
-- [Go](/en/post/go/) [back](/en/post/back/)
-- [Come](/en/post/come/) [home](/en/post/home/)
-- [Head](/en/post/head/) [home](/en/post/home/)
+[For](/post/for/) [the](/post/the/) [verb](/post/verb/) [sense](/post/sense/) [of](/post/of/) "[to](/post/to/) [return](/post/return/) [home](/post/home/)":
+- [Return](/post/return/)
+- [Go](/post/go/) [back](/post/back/)
+- [Come](/post/come/) [home](/post/home/)
+- [Head](/post/head/) [home](/post/home/)

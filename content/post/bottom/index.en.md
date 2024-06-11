@@ -7,42 +7,42 @@ description = '[ˈbɔtəm] n.底，底部，根基'
 keywords = ['ai words', 'bottom']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbɒtəm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) lowest [part](/en/post/part/) [or](/en/post/or/) extremity [of](/en/post/of/) [something](/en/post/something/), [usually](/en/post/usually/) [below](/en/post/below/) [the](/en/post/the/) [rest](/en/post/rest/): *[The](/en/post/the/) [bottom](/en/post/bottom/) [of](/en/post/of/) [the](/en/post/the/) [ocean](/en/post/ocean/) is [dark](/en/post/dark/) [and](/en/post/and/) [mysterious](/en/post/mysterious/).*
-2. [The](/en/post/the/) [base](/en/post/base/) [or](/en/post/or/) [foundation](/en/post/foundation/): *[The](/en/post/the/) house's [foundation](/en/post/foundation/) is [solid](/en/post/solid/), [but](/en/post/but/) [the](/en/post/the/) [roof](/en/post/roof/) needs [repair](/en/post/repair/) [at](/en/post/at/) [the](/en/post/the/) [bottom](/en/post/bottom/).*
-3. [The](/en/post/the/) lowest [position](/en/post/position/) [or](/en/post/or/) [rank](/en/post/rank/) [in](/en/post/in/) [a](/en/post/a/) hierarchy: *[He](/en/post/he/) was [at](/en/post/at/) [the](/en/post/the/) [bottom](/en/post/bottom/) [of](/en/post/of/) [the](/en/post/the/) [class](/en/post/class/) leaderboard.*
-4. [The](/en/post/the/) [end](/en/post/end/) [result](/en/post/result/) [or](/en/post/or/) [conclusion](/en/post/conclusion/): *[After](/en/post/after/) [all](/en/post/all/) [the](/en/post/the/) arguments, [we](/en/post/we/) reached [the](/en/post/the/) [bottom](/en/post/bottom/) [line](/en/post/line/): [we](/en/post/we/) [need](/en/post/need/) [more](/en/post/more/) funding.*
+### [Noun](/post/noun/)
+1. [The](/post/the/) lowest [part](/post/part/) [or](/post/or/) extremity [of](/post/of/) [something](/post/something/), [usually](/post/usually/) [below](/post/below/) [the](/post/the/) [rest](/post/rest/): *[The](/post/the/) [bottom](/post/bottom/) [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/) is [dark](/post/dark/) [and](/post/and/) [mysterious](/post/mysterious/).*
+2. [The](/post/the/) [base](/post/base/) [or](/post/or/) [foundation](/post/foundation/): *[The](/post/the/) house's [foundation](/post/foundation/) is [solid](/post/solid/), [but](/post/but/) [the](/post/the/) [roof](/post/roof/) needs [repair](/post/repair/) [at](/post/at/) [the](/post/the/) [bottom](/post/bottom/).*
+3. [The](/post/the/) lowest [position](/post/position/) [or](/post/or/) [rank](/post/rank/) [in](/post/in/) [a](/post/a/) hierarchy: *[He](/post/he/) was [at](/post/at/) [the](/post/the/) [bottom](/post/bottom/) [of](/post/of/) [the](/post/the/) [class](/post/class/) leaderboard.*
+4. [The](/post/the/) [end](/post/end/) [result](/post/result/) [or](/post/or/) [conclusion](/post/conclusion/): *[After](/post/after/) [all](/post/all/) [the](/post/the/) arguments, [we](/post/we/) reached [the](/post/the/) [bottom](/post/bottom/) [line](/post/line/): [we](/post/we/) [need](/post/need/) [more](/post/more/) funding.*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [be](/en/post/be/) [at](/en/post/at/) [or](/en/post/or/) [come](/en/post/come/) [to](/en/post/to/) [the](/en/post/the/) lowest [point](/en/post/point/): *[The](/en/post/the/) [stock](/en/post/stock/) [market](/en/post/market/) bottomed [out](/en/post/out/) [in](/en/post/in/) 2009.*
-2. [To](/en/post/to/) [place](/en/post/place/) [something](/en/post/something/) [at](/en/post/at/) [the](/en/post/the/) lowest [position](/en/post/position/) [or](/en/post/or/) [level](/en/post/level/): *[She](/en/post/she/) bottomed [the](/en/post/the/) dishes [in](/en/post/in/) [the](/en/post/the/) [cabinet](/en/post/cabinet/).*
-3. (informal) [To](/en/post/to/) [finish](/en/post/finish/) [or](/en/post/or/) [complete](/en/post/complete/) [something](/en/post/something/): *I've [finally](/en/post/finally/) bottomed [out](/en/post/out/) [that](/en/post/that/) [essay](/en/post/essay/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [be](/post/be/) [at](/post/at/) [or](/post/or/) [come](/post/come/) [to](/post/to/) [the](/post/the/) lowest [point](/post/point/): *[The](/post/the/) [stock](/post/stock/) [market](/post/market/) bottomed [out](/post/out/) [in](/post/in/) 2009.*
+2. [To](/post/to/) [place](/post/place/) [something](/post/something/) [at](/post/at/) [the](/post/the/) lowest [position](/post/position/) [or](/post/or/) [level](/post/level/): *[She](/post/she/) bottomed [the](/post/the/) dishes [in](/post/in/) [the](/post/the/) [cabinet](/post/cabinet/).*
+3. (informal) [To](/post/to/) [finish](/post/finish/) [or](/post/or/) [complete](/post/complete/) [something](/post/something/): *I've [finally](/post/finally/) bottomed [out](/post/out/) [that](/post/that/) [essay](/post/essay/).*
 
-### [Adjective](/en/post/adjective/)
-1. [The](/en/post/the/) lowest [in](/en/post/in/) [quality](/en/post/quality/) [or](/en/post/or/) [value](/en/post/value/): *[This](/en/post/this/) is [the](/en/post/the/) cheapest [bottle](/en/post/bottle/) [of](/en/post/of/) [wine](/en/post/wine/) [at](/en/post/at/) [the](/en/post/the/) [bottom](/en/post/bottom/) [shelf](/en/post/shelf/).*
-2. [Least](/en/post/least/) [significant](/en/post/significant/) [or](/en/post/or/) [important](/en/post/important/): *[The](/en/post/the/) [bottom](/en/post/bottom/) rung [of](/en/post/of/) [the](/en/post/the/) [ladder](/en/post/ladder/) is [where](/en/post/where/) [you](/en/post/you/) [start](/en/post/start/).*
+### [Adjective](/post/adjective/)
+1. [The](/post/the/) lowest [in](/post/in/) [quality](/post/quality/) [or](/post/or/) [value](/post/value/): *[This](/post/this/) is [the](/post/the/) cheapest [bottle](/post/bottle/) [of](/post/of/) [wine](/post/wine/) [at](/post/at/) [the](/post/the/) [bottom](/post/bottom/) [shelf](/post/shelf/).*
+2. [Least](/post/least/) [significant](/post/significant/) [or](/post/or/) [important](/post/important/): *[The](/post/the/) [bottom](/post/bottom/) rung [of](/post/of/) [the](/post/the/) [ladder](/post/ladder/) is [where](/post/where/) [you](/post/you/) [start](/post/start/).*
 
 ## Phrases
-- "[At](/en/post/at/) [the](/en/post/the/) [bottom](/en/post/bottom/) [of](/en/post/of/) one's [heart](/en/post/heart/)" [means](/en/post/means/) genuinely.
-- "[Bottom](/en/post/bottom/) [line](/en/post/line/)" refers [to](/en/post/to/) [the](/en/post/the/) [essential](/en/post/essential/) [point](/en/post/point/) [or](/en/post/or/) [conclusion](/en/post/conclusion/).
-- "Bottom-up [approach](/en/post/approach/)" is [a](/en/post/a/) [method](/en/post/method/) starting [from](/en/post/from/) [the](/en/post/the/) [basic](/en/post/basic/) [or](/en/post/or/) [individual](/en/post/individual/) levels.
+- "[At](/post/at/) [the](/post/the/) [bottom](/post/bottom/) [of](/post/of/) one's [heart](/post/heart/)" [means](/post/means/) genuinely.
+- "[Bottom](/post/bottom/) [line](/post/line/)" refers [to](/post/to/) [the](/post/the/) [essential](/post/essential/) [point](/post/point/) [or](/post/or/) [conclusion](/post/conclusion/).
+- "Bottom-up [approach](/post/approach/)" is [a](/post/a/) [method](/post/method/) starting [from](/post/from/) [the](/post/the/) [basic](/post/basic/) [or](/post/or/) [individual](/post/individual/) levels.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) diver reached [the](/en/post/the/) [bottom](/en/post/bottom/) [of](/en/post/of/) [the](/en/post/the/) [lake](/en/post/lake/) [and](/en/post/and/) discovered [a](/en/post/a/) [rare](/en/post/rare/) artifact."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) [bottom](/en/post/bottom/) [out](/en/post/out/) [his](/en/post/his/) debts [by](/en/post/by/) selling [some](/en/post/some/) assets."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) bottomless [pit](/en/post/pit/) [of](/en/post/of/) [despair](/en/post/despair/) seemed [to](/en/post/to/) engulf [her](/en/post/her/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) diver reached [the](/post/the/) [bottom](/post/bottom/) [of](/post/of/) [the](/post/the/) [lake](/post/lake/) [and](/post/and/) discovered [a](/post/a/) [rare](/post/rare/) artifact."
+- **[Verb](/post/verb/)**: "[He](/post/he/) tried [to](/post/to/) [bottom](/post/bottom/) [out](/post/out/) [his](/post/his/) debts [by](/post/by/) selling [some](/post/some/) assets."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) bottomless [pit](/post/pit/) [of](/post/of/) [despair](/post/despair/) seemed [to](/post/to/) engulf [her](/post/her/)."
 
 ## Synonyms
-- [Base](/en/post/base/)
-- [Foot](/en/post/foot/)
-- [Foundation](/en/post/foundation/)
-- [Low](/en/post/low/) [point](/en/post/point/)
-- [End](/en/post/end/)
-- [Least](/en/post/least/)
+- [Base](/post/base/)
+- [Foot](/post/foot/)
+- [Foundation](/post/foundation/)
+- [Low](/post/low/) [point](/post/point/)
+- [End](/post/end/)
+- [Least](/post/least/)
 - Bottommost
 - Minimal
-- [Worst](/en/post/worst/)
+- [Worst](/post/worst/)

@@ -7,32 +7,32 @@ description = '[ˈfini∫] vt.完成，结束 n.结束'
 keywords = ['ai words', 'finish']
 +++
 
-## [Word](/en/post/word/): [Finish](/en/post/finish/)
+## [Word](/post/word/): [Finish](/post/finish/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɪnɪʃ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [complete](/en/post/complete/) an [activity](/en/post/activity/) [or](/en/post/or/) [task](/en/post/task/); [to](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [something](/en/post/something/). _Example:_ "I [need](/en/post/need/) [to](/en/post/to/) [finish](/en/post/finish/) [my](/en/post/my/) homework [before](/en/post/before/) I [can](/en/post/can/) [go](/en/post/go/) [out](/en/post/out/)."
-  - _Phrasal Verb_: [finish](/en/post/finish/) [off](/en/post/off/), [meaning](/en/post/meaning/) [to](/en/post/to/) [consume](/en/post/consume/) [the](/en/post/the/) [last](/en/post/last/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/) [or](/en/post/or/) [to](/en/post/to/) [completely](/en/post/completely/) [eliminate](/en/post/eliminate/) [something](/en/post/something/). _Example:_ "[He](/en/post/he/) finished [off](/en/post/off/) [the](/en/post/the/) [last](/en/post/last/) [piece](/en/post/piece/) [of](/en/post/of/) pizza."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [end](/en/post/end/) [or](/en/post/or/) [conclusion](/en/post/conclusion/) [of](/en/post/of/) [something](/en/post/something/); [the](/en/post/the/) [final](/en/post/final/) [stage](/en/post/stage/) [or](/en/post/or/) [act](/en/post/act/) [of](/en/post/of/) completing [a](/en/post/a/) [process](/en/post/process/). _Example:_ "[The](/en/post/the/) [finish](/en/post/finish/) [line](/en/post/line/) marked [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) marathon."
+- **[Verb](/post/verb/)**: [To](/post/to/) [complete](/post/complete/) an [activity](/post/activity/) [or](/post/or/) [task](/post/task/); [to](/post/to/) [reach](/post/reach/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [something](/post/something/). _Example:_ "I [need](/post/need/) [to](/post/to/) [finish](/post/finish/) [my](/post/my/) homework [before](/post/before/) I [can](/post/can/) [go](/post/go/) [out](/post/out/)."
+  - _Phrasal Verb_: [finish](/post/finish/) [off](/post/off/), [meaning](/post/meaning/) [to](/post/to/) [consume](/post/consume/) [the](/post/the/) [last](/post/last/) [part](/post/part/) [of](/post/of/) [something](/post/something/) [or](/post/or/) [to](/post/to/) [completely](/post/completely/) [eliminate](/post/eliminate/) [something](/post/something/). _Example:_ "[He](/post/he/) finished [off](/post/off/) [the](/post/the/) [last](/post/last/) [piece](/post/piece/) [of](/post/of/) pizza."
+- **[Noun](/post/noun/)**: [The](/post/the/) [end](/post/end/) [or](/post/or/) [conclusion](/post/conclusion/) [of](/post/of/) [something](/post/something/); [the](/post/the/) [final](/post/final/) [stage](/post/stage/) [or](/post/or/) [act](/post/act/) [of](/post/of/) completing [a](/post/a/) [process](/post/process/). _Example:_ "[The](/post/the/) [finish](/post/finish/) [line](/post/line/) marked [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) marathon."
 
 ### Phrases
-- "[Finish](/en/post/finish/) [what](/en/post/what/) [you](/en/post/you/) started": [This](/en/post/this/) [phrase](/en/post/phrase/) encourages [someone](/en/post/someone/) [to](/en/post/to/) [complete](/en/post/complete/) [a](/en/post/a/) [task](/en/post/task/) [they](/en/post/they/) [have](/en/post/have/) begun.
-- "[To](/en/post/to/) [be](/en/post/be/) finished [with](/en/post/with/) [something](/en/post/something/)": [To](/en/post/to/) [have](/en/post/have/) completed [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [to](/en/post/to/) [be](/en/post/be/) done dealing [with](/en/post/with/) [a](/en/post/a/) [situation](/en/post/situation/). _Example:_ "I'm [finally](/en/post/finally/) finished [with](/en/post/with/) [that](/en/post/that/) [project](/en/post/project/)."
-- "[The](/en/post/the/) finishing [touch](/en/post/touch/)": [Something](/en/post/something/) added [to](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [else](/en/post/else/) [complete](/en/post/complete/) [or](/en/post/or/) [perfect](/en/post/perfect/). _Example:_ "[The](/en/post/the/) [gold](/en/post/gold/) [trim](/en/post/trim/) was [the](/en/post/the/) finishing [touch](/en/post/touch/) [on](/en/post/on/) [the](/en/post/the/) [painting](/en/post/painting/)."
+- "[Finish](/post/finish/) [what](/post/what/) [you](/post/you/) started": [This](/post/this/) [phrase](/post/phrase/) encourages [someone](/post/someone/) [to](/post/to/) [complete](/post/complete/) [a](/post/a/) [task](/post/task/) [they](/post/they/) [have](/post/have/) begun.
+- "[To](/post/to/) [be](/post/be/) finished [with](/post/with/) [something](/post/something/)": [To](/post/to/) [have](/post/have/) completed [a](/post/a/) [task](/post/task/) [or](/post/or/) [to](/post/to/) [be](/post/be/) done dealing [with](/post/with/) [a](/post/a/) [situation](/post/situation/). _Example:_ "I'm [finally](/post/finally/) finished [with](/post/with/) [that](/post/that/) [project](/post/project/)."
+- "[The](/post/the/) finishing [touch](/post/touch/)": [Something](/post/something/) added [to](/post/to/) [make](/post/make/) [something](/post/something/) [else](/post/else/) [complete](/post/complete/) [or](/post/or/) [perfect](/post/perfect/). _Example:_ "[The](/post/the/) [gold](/post/gold/) [trim](/post/trim/) was [the](/post/the/) finishing [touch](/post/touch/) [on](/post/on/) [the](/post/the/) [painting](/post/painting/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I'll [finish](/en/post/finish/) [reading](/en/post/reading/) [this](/en/post/this/) [chapter](/en/post/chapter/) [before](/en/post/before/) [bed](/en/post/bed/)."
-- _Phrasal Verb_: "Let's [finish](/en/post/finish/) [off](/en/post/off/) [the](/en/post/the/) [project](/en/post/project/) [today](/en/post/today/) [so](/en/post/so/) [we](/en/post/we/) [can](/en/post/can/) [start](/en/post/start/) [fresh](/en/post/fresh/) [tomorrow](/en/post/tomorrow/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [furniture](/en/post/furniture/) had [a](/en/post/a/) [smooth](/en/post/smooth/) [finish](/en/post/finish/) [that](/en/post/that/) made [it](/en/post/it/) [look](/en/post/look/) elegant."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I'll [finish](/post/finish/) [reading](/post/reading/) [this](/post/this/) [chapter](/post/chapter/) [before](/post/before/) [bed](/post/bed/)."
+- _Phrasal Verb_: "Let's [finish](/post/finish/) [off](/post/off/) [the](/post/the/) [project](/post/project/) [today](/post/today/) [so](/post/so/) [we](/post/we/) [can](/post/can/) [start](/post/start/) [fresh](/post/fresh/) [tomorrow](/post/tomorrow/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [furniture](/post/furniture/) had [a](/post/a/) [smooth](/post/smooth/) [finish](/post/finish/) [that](/post/that/) made [it](/post/it/) [look](/post/look/) elegant."
 
 ## Synonyms
-- [Complete](/en/post/complete/) ([verb](/en/post/verb/))
-- [End](/en/post/end/) ([verb](/en/post/verb/) [and](/en/post/and/) [noun](/en/post/noun/))
-- [Conclude](/en/post/conclude/) ([verb](/en/post/verb/))
-- [Accomplish](/en/post/accomplish/) ([verb](/en/post/verb/))
-- [Close](/en/post/close/) ([verb](/en/post/verb/))
-- [Wrap](/en/post/wrap/) [up](/en/post/up/) (phrasal [verb](/en/post/verb/))
-- Completion ([noun](/en/post/noun/))
-- [Conclusion](/en/post/conclusion/) ([noun](/en/post/noun/))
+- [Complete](/post/complete/) ([verb](/post/verb/))
+- [End](/post/end/) ([verb](/post/verb/) [and](/post/and/) [noun](/post/noun/))
+- [Conclude](/post/conclude/) ([verb](/post/verb/))
+- [Accomplish](/post/accomplish/) ([verb](/post/verb/))
+- [Close](/post/close/) ([verb](/post/verb/))
+- [Wrap](/post/wrap/) [up](/post/up/) (phrasal [verb](/post/verb/))
+- Completion ([noun](/post/noun/))
+- [Conclusion](/post/conclusion/) ([noun](/post/noun/))

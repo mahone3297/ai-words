@@ -7,32 +7,32 @@ description = '[həup] n.&vt.&vi.希望'
 keywords = ['ai words', 'hope']
 +++
 
-## [Word](/en/post/word/): [Hope](/en/post/hope/)
+## [Word](/post/word/): [Hope](/post/hope/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /hoʊp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [expectation](/en/post/expectation/) [and](/en/post/and/) [desire](/en/post/desire/) [for](/en/post/for/) [a](/en/post/a/) [certain](/en/post/certain/) [thing](/en/post/thing/) [to](/en/post/to/) [happen](/en/post/happen/); [a](/en/post/a/) [positive](/en/post/positive/) [attitude](/en/post/attitude/) [that](/en/post/that/) [what](/en/post/what/) is wanted [can](/en/post/can/) [be](/en/post/be/) attained. _E.g._ "[She](/en/post/she/) held [on](/en/post/on/) [to](/en/post/to/) [the](/en/post/the/) [hope](/en/post/hope/) [that](/en/post/that/) [her](/en/post/her/) [son](/en/post/son/) [would](/en/post/would/) [recover](/en/post/recover/) [soon](/en/post/soon/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [wish](/en/post/wish/) [for](/en/post/for/) [something](/en/post/something/) [with](/en/post/with/) [confidence](/en/post/confidence/) [or](/en/post/or/) [expectation](/en/post/expectation/) [of](/en/post/of/) [its](/en/post/its/) fulfillment; [to](/en/post/to/) [look](/en/post/look/) [forward](/en/post/forward/) [to](/en/post/to/) ([a](/en/post/a/) specified [thing](/en/post/thing/)) [with](/en/post/with/) [desire](/en/post/desire/) [and](/en/post/and/) [reasonable](/en/post/reasonable/) [confidence](/en/post/confidence/). _E.g._ "I [hope](/en/post/hope/) [to](/en/post/to/) [travel](/en/post/travel/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/) someday."
+- **[Noun](/post/noun/)**: [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [expectation](/post/expectation/) [and](/post/and/) [desire](/post/desire/) [for](/post/for/) [a](/post/a/) [certain](/post/certain/) [thing](/post/thing/) [to](/post/to/) [happen](/post/happen/); [a](/post/a/) [positive](/post/positive/) [attitude](/post/attitude/) [that](/post/that/) [what](/post/what/) is wanted [can](/post/can/) [be](/post/be/) attained. _E.g._ "[She](/post/she/) held [on](/post/on/) [to](/post/to/) [the](/post/the/) [hope](/post/hope/) [that](/post/that/) [her](/post/her/) [son](/post/son/) [would](/post/would/) [recover](/post/recover/) [soon](/post/soon/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [wish](/post/wish/) [for](/post/for/) [something](/post/something/) [with](/post/with/) [confidence](/post/confidence/) [or](/post/or/) [expectation](/post/expectation/) [of](/post/of/) [its](/post/its/) fulfillment; [to](/post/to/) [look](/post/look/) [forward](/post/forward/) [to](/post/to/) ([a](/post/a/) specified [thing](/post/thing/)) [with](/post/with/) [desire](/post/desire/) [and](/post/and/) [reasonable](/post/reasonable/) [confidence](/post/confidence/). _E.g._ "I [hope](/post/hope/) [to](/post/to/) [travel](/post/travel/) [around](/post/around/) [the](/post/the/) [world](/post/world/) someday."
 
 ### Phrases
-- **[Hope](/en/post/hope/) [for](/en/post/for/) [the](/en/post/the/) [best](/en/post/best/)**: [To](/en/post/to/) [maintain](/en/post/maintain/) optimism [even](/en/post/even/) [when](/en/post/when/) facing challenges [or](/en/post/or/) uncertainty. _E.g._ "We're hoping [for](/en/post/for/) [the](/en/post/the/) [best](/en/post/best/) [but](/en/post/but/) preparing [for](/en/post/for/) [the](/en/post/the/) [worst](/en/post/worst/)."
-- **[Hope](/en/post/hope/) [against](/en/post/against/) [hope](/en/post/hope/)**: [To](/en/post/to/) [continue](/en/post/continue/) [to](/en/post/to/) [hope](/en/post/hope/) [in](/en/post/in/) [a](/en/post/a/) seemingly [hopeless](/en/post/hopeless/) [situation](/en/post/situation/). _E.g._ "[Despite](/en/post/despite/) [the](/en/post/the/) doctor's prognosis, [they](/en/post/they/) were hoping [against](/en/post/against/) [hope](/en/post/hope/) [for](/en/post/for/) [a](/en/post/a/) [miracle](/en/post/miracle/)."
-- **[Place](/en/post/place/) one's hopes [on](/en/post/on/) [something](/en/post/something/)/[someone](/en/post/someone/)**: [To](/en/post/to/) [trust](/en/post/trust/) [or](/en/post/or/) [rely](/en/post/rely/) [on](/en/post/on/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [to](/en/post/to/) [bring](/en/post/bring/) [about](/en/post/about/) [a](/en/post/a/) desired [outcome](/en/post/outcome/). _E.g._ "[The](/en/post/the/) [entire](/en/post/entire/) [team](/en/post/team/) has placed [their](/en/post/their/) hopes [on](/en/post/on/) [the](/en/post/the/) [new](/en/post/new/) [player](/en/post/player/) [to](/en/post/to/) [win](/en/post/win/) [the](/en/post/the/) [match](/en/post/match/)."
+- **[Hope](/post/hope/) [for](/post/for/) [the](/post/the/) [best](/post/best/)**: [To](/post/to/) [maintain](/post/maintain/) optimism [even](/post/even/) [when](/post/when/) facing challenges [or](/post/or/) uncertainty. _E.g._ "We're hoping [for](/post/for/) [the](/post/the/) [best](/post/best/) [but](/post/but/) preparing [for](/post/for/) [the](/post/the/) [worst](/post/worst/)."
+- **[Hope](/post/hope/) [against](/post/against/) [hope](/post/hope/)**: [To](/post/to/) [continue](/post/continue/) [to](/post/to/) [hope](/post/hope/) [in](/post/in/) [a](/post/a/) seemingly [hopeless](/post/hopeless/) [situation](/post/situation/). _E.g._ "[Despite](/post/despite/) [the](/post/the/) doctor's prognosis, [they](/post/they/) were hoping [against](/post/against/) [hope](/post/hope/) [for](/post/for/) [a](/post/a/) [miracle](/post/miracle/)."
+- **[Place](/post/place/) one's hopes [on](/post/on/) [something](/post/something/)/[someone](/post/someone/)**: [To](/post/to/) [trust](/post/trust/) [or](/post/or/) [rely](/post/rely/) [on](/post/on/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [to](/post/to/) [bring](/post/bring/) [about](/post/about/) [a](/post/a/) desired [outcome](/post/outcome/). _E.g._ "[The](/post/the/) [entire](/post/entire/) [team](/post/team/) has placed [their](/post/their/) hopes [on](/post/on/) [the](/post/the/) [new](/post/new/) [player](/post/player/) [to](/post/to/) [win](/post/win/) [the](/post/the/) [match](/post/match/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[There](/en/post/there/) is [still](/en/post/still/) [a](/en/post/a/) glimmer [of](/en/post/of/) [hope](/en/post/hope/) [that](/en/post/that/) [we](/en/post/we/) [can](/en/post/can/) [turn](/en/post/turn/) things [around](/en/post/around/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) hoped [his](/en/post/his/) [application](/en/post/application/) [would](/en/post/would/) [be](/en/post/be/) accepted [by](/en/post/by/) [the](/en/post/the/) [university](/en/post/university/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[There](/post/there/) is [still](/post/still/) [a](/post/a/) glimmer [of](/post/of/) [hope](/post/hope/) [that](/post/that/) [we](/post/we/) [can](/post/can/) [turn](/post/turn/) things [around](/post/around/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) hoped [his](/post/his/) [application](/post/application/) [would](/post/would/) [be](/post/be/) accepted [by](/post/by/) [the](/post/the/) [university](/post/university/)."
 
 ## Synonyms
-- [Expectation](/en/post/expectation/)
+- [Expectation](/post/expectation/)
 - Aspiration
-- [Desire](/en/post/desire/)
-- [Wish](/en/post/wish/)
+- [Desire](/post/desire/)
+- [Wish](/post/wish/)
 - Longing
 - Anticipation
 - Optimism
-- [Trust](/en/post/trust/)
-- [Confidence](/en/post/confidence/)
-- [Belief](/en/post/belief/)
+- [Trust](/post/trust/)
+- [Confidence](/post/confidence/)
+- [Belief](/post/belief/)

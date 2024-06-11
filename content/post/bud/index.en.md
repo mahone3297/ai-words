@@ -7,34 +7,34 @@ description = '[bʌd] n.芽，萌芽；蓓蕾'
 keywords = ['ai words', 'bud']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bʌd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [A](/en/post/a/) [small](/en/post/small/), undeveloped [shoot](/en/post/shoot/) [or](/en/post/or/) swelling [on](/en/post/on/) [a](/en/post/a/) [plant](/en/post/plant/), [usually](/en/post/usually/) containing an embryonic [leaf](/en/post/leaf/) [or](/en/post/or/) [flower](/en/post/flower/): "[The](/en/post/the/) [tree](/en/post/tree/) has formed [a](/en/post/a/) [new](/en/post/new/) [bud](/en/post/bud/)."
-- **2.** [A](/en/post/a/) [young](/en/post/young/) person's [beginning](/en/post/beginning/) manifestation [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [skill](/en/post/skill/) [or](/en/post/or/) [talent](/en/post/talent/): "[She](/en/post/she/) showed [a](/en/post/a/) [musical](/en/post/musical/) [bud](/en/post/bud/) [at](/en/post/at/) an [early](/en/post/early/) [age](/en/post/age/)."
-- **3.** (slang) [A](/en/post/a/) [plan](/en/post/plan/) [or](/en/post/or/) [idea](/en/post/idea/) [that](/en/post/that/) is [in](/en/post/in/) [its](/en/post/its/) [initial](/en/post/initial/) stages: "[He](/en/post/he/) has [a](/en/post/a/) [business](/en/post/business/) [bud](/en/post/bud/) [to](/en/post/to/) [start](/en/post/start/) [his](/en/post/his/) [own](/en/post/own/) bakery."
+### [Noun](/post/noun/)
+- **1.** [A](/post/a/) [small](/post/small/), undeveloped [shoot](/post/shoot/) [or](/post/or/) swelling [on](/post/on/) [a](/post/a/) [plant](/post/plant/), [usually](/post/usually/) containing an embryonic [leaf](/post/leaf/) [or](/post/or/) [flower](/post/flower/): "[The](/post/the/) [tree](/post/tree/) has formed [a](/post/a/) [new](/post/new/) [bud](/post/bud/)."
+- **2.** [A](/post/a/) [young](/post/young/) person's [beginning](/post/beginning/) manifestation [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [skill](/post/skill/) [or](/post/or/) [talent](/post/talent/): "[She](/post/she/) showed [a](/post/a/) [musical](/post/musical/) [bud](/post/bud/) [at](/post/at/) an [early](/post/early/) [age](/post/age/)."
+- **3.** (slang) [A](/post/a/) [plan](/post/plan/) [or](/post/or/) [idea](/post/idea/) [that](/post/that/) is [in](/post/in/) [its](/post/its/) [initial](/post/initial/) stages: "[He](/post/he/) has [a](/post/a/) [business](/post/business/) [bud](/post/bud/) [to](/post/to/) [start](/post/start/) [his](/post/his/) [own](/post/own/) bakery."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [bud](/en/post/bud/)** (colloquial): [To](/en/post/to/) [start](/en/post/start/) growing, [emerge](/en/post/emerge/), [or](/en/post/or/) [develop](/en/post/develop/) ([as](/en/post/as/) [a](/en/post/a/) [new](/en/post/new/) [growth](/en/post/growth/)): "[The](/en/post/the/) plants are [just](/en/post/just/) [beginning](/en/post/beginning/) [to](/en/post/to/) [bud](/en/post/bud/) [after](/en/post/after/) [the](/en/post/the/) [winter](/en/post/winter/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [bud](/post/bud/)** (colloquial): [To](/post/to/) [start](/post/start/) growing, [emerge](/post/emerge/), [or](/post/or/) [develop](/post/develop/) ([as](/post/as/) [a](/post/a/) [new](/post/new/) [growth](/post/growth/)): "[The](/post/the/) plants are [just](/post/just/) [beginning](/post/beginning/) [to](/post/to/) [bud](/post/bud/) [after](/post/after/) [the](/post/the/) [winter](/post/winter/)."
 
-### [Adjective](/en/post/adjective/)
-- **Budding** ([adjective](/en/post/adjective/)): [In](/en/post/in/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) developing [or](/en/post/or/) showing [promise](/en/post/promise/): "[A](/en/post/a/) budding [artist](/en/post/artist/)."
-- **Bud-like** ([adjective](/en/post/adjective/)): Resembling [a](/en/post/a/) [bud](/en/post/bud/) [in](/en/post/in/) [appearance](/en/post/appearance/) [or](/en/post/or/) [form](/en/post/form/): "[Her](/en/post/her/) eyes had [a](/en/post/a/) bud-like innocence."
+### [Adjective](/post/adjective/)
+- **Budding** ([adjective](/post/adjective/)): [In](/post/in/) [the](/post/the/) [process](/post/process/) [of](/post/of/) developing [or](/post/or/) showing [promise](/post/promise/): "[A](/post/a/) budding [artist](/post/artist/)."
+- **Bud-like** ([adjective](/post/adjective/)): Resembling [a](/post/a/) [bud](/post/bud/) [in](/post/in/) [appearance](/post/appearance/) [or](/post/or/) [form](/post/form/): "[Her](/post/her/) eyes had [a](/post/a/) bud-like innocence."
 
 ## Phrases
-- "[bud](/en/post/bud/) [off](/en/post/off/)" (informal) [means](/en/post/means/) [to](/en/post/to/) [leave](/en/post/leave/) [or](/en/post/or/) [be](/en/post/be/) dismissed.
-- "[bud](/en/post/bud/) [up](/en/post/up/)" (colloquial) [means](/en/post/means/) [to](/en/post/to/) [grow](/en/post/grow/) [or](/en/post/or/) [mature](/en/post/mature/).
-- "[bud](/en/post/bud/) [out](/en/post/out/)" (horticulture) refers [to](/en/post/to/) [a](/en/post/a/) plant's [growth](/en/post/growth/) [from](/en/post/from/) [a](/en/post/a/) dormant [state](/en/post/state/).
+- "[bud](/post/bud/) [off](/post/off/)" (informal) [means](/post/means/) [to](/post/to/) [leave](/post/leave/) [or](/post/or/) [be](/post/be/) dismissed.
+- "[bud](/post/bud/) [up](/post/up/)" (colloquial) [means](/post/means/) [to](/post/to/) [grow](/post/grow/) [or](/post/or/) [mature](/post/mature/).
+- "[bud](/post/bud/) [out](/post/out/)" (horticulture) refers [to](/post/to/) [a](/post/a/) plant's [growth](/post/growth/) [from](/post/from/) [a](/post/a/) dormant [state](/post/state/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [cherry](/en/post/cherry/) [tree](/en/post/tree/) was covered [in](/en/post/in/) [delicate](/en/post/delicate/) [pink](/en/post/pink/) buds [in](/en/post/in/) [the](/en/post/the/) [spring](/en/post/spring/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [her](/en/post/her/) entrepreneurial [bud](/en/post/bud/) [finally](/en/post/finally/) blossomed."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) children are [all](/en/post/all/) budding scientists [with](/en/post/with/) [a](/en/post/a/) [passion](/en/post/passion/) [for](/en/post/for/) [learning](/en/post/learning/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [cherry](/post/cherry/) [tree](/post/tree/) was covered [in](/post/in/) [delicate](/post/delicate/) [pink](/post/pink/) buds [in](/post/in/) [the](/post/the/) [spring](/post/spring/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [her](/post/her/) entrepreneurial [bud](/post/bud/) [finally](/post/finally/) blossomed."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) children are [all](/post/all/) budding scientists [with](/post/with/) [a](/post/a/) [passion](/post/passion/) [for](/post/for/) [learning](/post/learning/)."
 
 ## Synonyms
-- [Young](/en/post/young/)
+- [Young](/post/young/)
 - Emerging
 - Formative
 - Developing
@@ -43,7 +43,7 @@ keywords = ['ai words', 'bud']
 - Primordial
 
 ## Antonyms
-- [Mature](/en/post/mature/)
+- [Mature](/post/mature/)
 - Fully grown
 - Established
 - Finished

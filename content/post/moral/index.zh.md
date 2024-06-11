@@ -11,23 +11,23 @@ keywords = ['ai words', 'moral']
 /ˈmɔːrəl/
 
 ## 释义
-- **形容词**: 关于道德的，涉及伦理的。例如: "[The](/post/the/) [movie](/post/movie/) has [a](/post/a/) [strong](/post/strong/) [moral](/post/moral/) [message](/post/message/)."
-- **名词**: 道德，品行，寓意。例如: "[He](/post/he/) [always](/post/always/) tries [to](/post/to/) [live](/post/live/) [by](/post/by/) [high](/post/high/) [moral](/post/moral/) standards."
-- **名词**: 道德观念，道德准则。例如: "[The](/post/the/) [book](/post/book/) explores [different](/post/different/) [moral](/post/moral/) dilemmas."
+- **形容词**: 关于道德的，涉及伦理的。例如: "[The](/zh/post/the/) [movie](/zh/post/movie/) has [a](/zh/post/a/) [strong](/zh/post/strong/) [moral](/zh/post/moral/) [message](/zh/post/message/)."
+- **名词**: 道德，品行，寓意。例如: "[He](/zh/post/he/) [always](/zh/post/always/) tries [to](/zh/post/to/) [live](/zh/post/live/) [by](/zh/post/by/) [high](/zh/post/high/) [moral](/zh/post/moral/) standards."
+- **名词**: 道德观念，道德准则。例如: "[The](/zh/post/the/) [book](/zh/post/book/) explores [different](/zh/post/different/) [moral](/zh/post/moral/) dilemmas."
 
 ## 短语
-- "[Moral](/post/moral/) values" 指的是道德价值观。
-- "[Moral](/post/moral/) [support](/post/support/)" 意味着精神上的支持或鼓励。
-- "[Moral](/post/moral/) [authority](/post/authority/)" 指的是道德权威或影响力。
+- "[Moral](/zh/post/moral/) values" 指的是道德价值观。
+- "[Moral](/zh/post/moral/) [support](/zh/post/support/)" 意味着精神上的支持或鼓励。
+- "[Moral](/zh/post/moral/) [authority](/zh/post/authority/)" 指的是道德权威或影响力。
 
 ## 例句
-- 形容词: "[The](/post/the/) [teacher](/post/teacher/) emphasized [the](/post/the/) [moral](/post/moral/) implications [of](/post/of/) cheating [on](/post/on/) exams."
-- 名词: "[The](/post/the/) story's [moral](/post/moral/) is [that](/post/that/) [honesty](/post/honesty/) is [always](/post/always/) [the](/post/the/) [best](/post/best/) [policy](/post/policy/)."
-- 名词: "[The](/post/the/) parents were concerned [about](/post/about/) [the](/post/the/) [influence](/post/influence/) [of](/post/of/) friends [on](/post/on/) [their](/post/their/) child's [moral](/post/moral/) [development](/post/development/)."
+- 形容词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) emphasized [the](/zh/post/the/) [moral](/zh/post/moral/) implications [of](/zh/post/of/) cheating [on](/zh/post/on/) exams."
+- 名词: "[The](/zh/post/the/) story's [moral](/zh/post/moral/) is [that](/zh/post/that/) [honesty](/zh/post/honesty/) is [always](/zh/post/always/) [the](/zh/post/the/) [best](/zh/post/best/) [policy](/zh/post/policy/)."
+- 名词: "[The](/zh/post/the/) parents were concerned [about](/zh/post/about/) [the](/zh/post/the/) [influence](/zh/post/influence/) [of](/zh/post/of/) friends [on](/zh/post/on/) [their](/zh/post/their/) child's [moral](/zh/post/moral/) [development](/zh/post/development/)."
 
 ## 同义词
 - Ethical
 - Virtuous
 - Righteous
-- [Decent](/post/decent/)
+- [Decent](/zh/post/decent/)
 - Honorable

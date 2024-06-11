@@ -7,32 +7,32 @@ description = '[ˈkɔfi] n.咖啡，咖啡茶'
 keywords = ['ai words', 'coffee']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈfi/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Coffee](/en/post/coffee/)**: [A](/en/post/a/) beverage made [from](/en/post/from/) roasted [coffee](/en/post/coffee/) beans, [usually](/en/post/usually/) [ground](/en/post/ground/) [and](/en/post/and/) brewed [with](/en/post/with/) [hot](/en/post/hot/) [water](/en/post/water/). [It](/en/post/it/) is [a](/en/post/a/) [popular](/en/post/popular/) [drink](/en/post/drink/) worldwide [and](/en/post/and/) [often](/en/post/often/) consumed [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/) [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) pick-me-up.
-- **[Coffee](/en/post/coffee/) [shop](/en/post/shop/)**: [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [coffee](/en/post/coffee/) [and](/en/post/and/) [other](/en/post/other/) refreshments are sold, [often](/en/post/often/) serving [as](/en/post/as/) [a](/en/post/a/) [social](/en/post/social/) gathering [spot](/en/post/spot/).
+### [Noun](/post/noun/)
+- **[Coffee](/post/coffee/)**: [A](/post/a/) beverage made [from](/post/from/) roasted [coffee](/post/coffee/) beans, [usually](/post/usually/) [ground](/post/ground/) [and](/post/and/) brewed [with](/post/with/) [hot](/post/hot/) [water](/post/water/). [It](/post/it/) is [a](/post/a/) [popular](/post/popular/) [drink](/post/drink/) worldwide [and](/post/and/) [often](/post/often/) consumed [in](/post/in/) [the](/post/the/) [morning](/post/morning/) [or](/post/or/) [as](/post/as/) [a](/post/a/) pick-me-up.
+- **[Coffee](/post/coffee/) [shop](/post/shop/)**: [A](/post/a/) [place](/post/place/) [where](/post/where/) [coffee](/post/coffee/) [and](/post/and/) [other](/post/other/) refreshments are sold, [often](/post/often/) serving [as](/post/as/) [a](/post/a/) [social](/post/social/) gathering [spot](/post/spot/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) brew [coffee](/en/post/coffee/)**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) making [coffee](/en/post/coffee/) [by](/en/post/by/) steeping [ground](/en/post/ground/) [coffee](/en/post/coffee/) beans [in](/en/post/in/) [hot](/en/post/hot/) [water](/en/post/water/).
-- **[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [cup](/en/post/cup/) [of](/en/post/of/) [coffee](/en/post/coffee/)**: [To](/en/post/to/) [consume](/en/post/consume/) [a](/en/post/a/) serving [of](/en/post/of/) [coffee](/en/post/coffee/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) brew [coffee](/post/coffee/)**: [The](/post/the/) [process](/post/process/) [of](/post/of/) making [coffee](/post/coffee/) [by](/post/by/) steeping [ground](/post/ground/) [coffee](/post/coffee/) beans [in](/post/in/) [hot](/post/hot/) [water](/post/water/).
+- **[To](/post/to/) [have](/post/have/) [a](/post/a/) [cup](/post/cup/) [of](/post/of/) [coffee](/post/coffee/)**: [To](/post/to/) [consume](/post/consume/) [a](/post/a/) serving [of](/post/of/) [coffee](/post/coffee/).
 
-### [Adjective](/en/post/adjective/)
-- **Coffee-colored**: Referring [to](/en/post/to/) [a](/en/post/a/) [shade](/en/post/shade/) [of](/en/post/of/) [brown](/en/post/brown/) [similar](/en/post/similar/) [to](/en/post/to/) [that](/en/post/that/) [of](/en/post/of/) [coffee](/en/post/coffee/).
-- **Coffee-flavored**: Characterized [by](/en/post/by/) [the](/en/post/the/) [taste](/en/post/taste/) [or](/en/post/or/) [scent](/en/post/scent/) [of](/en/post/of/) [coffee](/en/post/coffee/).
+### [Adjective](/post/adjective/)
+- **Coffee-colored**: Referring [to](/post/to/) [a](/post/a/) [shade](/post/shade/) [of](/post/of/) [brown](/post/brown/) [similar](/post/similar/) [to](/post/to/) [that](/post/that/) [of](/post/of/) [coffee](/post/coffee/).
+- **Coffee-flavored**: Characterized [by](/post/by/) [the](/post/the/) [taste](/post/taste/) [or](/post/or/) [scent](/post/scent/) [of](/post/of/) [coffee](/post/coffee/).
 
 ## Phrases
-- "[A](/en/post/a/) [cup](/en/post/cup/) [of](/en/post/of/) Joe" is slang [for](/en/post/for/) [a](/en/post/a/) [cup](/en/post/cup/) [of](/en/post/of/) [coffee](/en/post/coffee/).
-- "[Black](/en/post/black/) [coffee](/en/post/coffee/)" refers [to](/en/post/to/) [coffee](/en/post/coffee/) [without](/en/post/without/) [milk](/en/post/milk/) [or](/en/post/or/) [cream](/en/post/cream/).
-- "[Coffee](/en/post/coffee/) [break](/en/post/break/)" is [a](/en/post/a/) [short](/en/post/short/) [pause](/en/post/pause/) [for](/en/post/for/) [a](/en/post/a/) [cup](/en/post/cup/) [of](/en/post/of/) [coffee](/en/post/coffee/).
+- "[A](/post/a/) [cup](/post/cup/) [of](/post/of/) Joe" is slang [for](/post/for/) [a](/post/a/) [cup](/post/cup/) [of](/post/of/) [coffee](/post/coffee/).
+- "[Black](/post/black/) [coffee](/post/coffee/)" refers [to](/post/to/) [coffee](/post/coffee/) [without](/post/without/) [milk](/post/milk/) [or](/post/or/) [cream](/post/cream/).
+- "[Coffee](/post/coffee/) [break](/post/break/)" is [a](/post/a/) [short](/post/short/) [pause](/post/pause/) [for](/post/for/) [a](/post/a/) [cup](/post/cup/) [of](/post/of/) [coffee](/post/coffee/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [need](/en/post/need/) [a](/en/post/a/) [strong](/en/post/strong/) [cup](/en/post/cup/) [of](/en/post/of/) [coffee](/en/post/coffee/) [to](/en/post/to/) [start](/en/post/start/) [my](/en/post/my/) [day](/en/post/day/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) brews [her](/en/post/her/) [own](/en/post/own/) [coffee](/en/post/coffee/) [every](/en/post/every/) [morning](/en/post/morning/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [furniture](/en/post/furniture/) [in](/en/post/in/) [his](/en/post/his/) [apartment](/en/post/apartment/) had [a](/en/post/a/) coffee-stained [look](/en/post/look/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) took [a](/en/post/a/) [long](/en/post/long/) sip [of](/en/post/of/) [his](/en/post/his/) freshly brewed [coffee](/en/post/coffee/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [need](/post/need/) [a](/post/a/) [strong](/post/strong/) [cup](/post/cup/) [of](/post/of/) [coffee](/post/coffee/) [to](/post/to/) [start](/post/start/) [my](/post/my/) [day](/post/day/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) brews [her](/post/her/) [own](/post/own/) [coffee](/post/coffee/) [every](/post/every/) [morning](/post/morning/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [furniture](/post/furniture/) [in](/post/in/) [his](/post/his/) [apartment](/post/apartment/) had [a](/post/a/) coffee-stained [look](/post/look/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) took [a](/post/a/) [long](/post/long/) sip [of](/post/of/) [his](/post/his/) freshly brewed [coffee](/post/coffee/)."
 
 ## Synonyms
 - Brew
@@ -41,19 +41,19 @@ keywords = ['ai words', 'coffee']
 - Caffeine
 - Java
 - Brewed
-- [Dark](/en/post/dark/) [roast](/en/post/roast/)
-- [Bean](/en/post/bean/) [juice](/en/post/juice/)
+- [Dark](/post/dark/) [roast](/post/roast/)
+- [Bean](/post/bean/) [juice](/post/juice/)
 -☕️
 
 ## Related Terms
-- Decaf (decaffeinated [coffee](/en/post/coffee/))
+- Decaf (decaffeinated [coffee](/post/coffee/))
 - Latte
 - Cappuccino
 - Americano
-- Espresso [shot](/en/post/shot/)
-- [Filter](/en/post/filter/) [coffee](/en/post/coffee/)
-- [Drip](/en/post/drip/) [coffee](/en/post/coffee/)
-- [Bean](/en/post/bean/) grinder
-- [Coffee](/en/post/coffee/) [mug](/en/post/mug/)
+- Espresso [shot](/post/shot/)
+- [Filter](/post/filter/) [coffee](/post/coffee/)
+- [Drip](/post/drip/) [coffee](/post/coffee/)
+- [Bean](/post/bean/) grinder
+- [Coffee](/post/coffee/) [mug](/post/mug/)
 - Coffeehouse
 - Barista

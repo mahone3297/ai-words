@@ -8,30 +8,30 @@ keywords = ['ai words', 'yield']
 +++
 
 ## 读音
-/[yield](/post/yield/)/  
+/[yield](/zh/post/yield/)/  
 
 ## 释义
 - **动词**:
-  - 放弃或交出（权利、控制等）。例如: "[He](/post/he/) [finally](/post/finally/) yielded [to](/post/to/) [their](/post/their/) demands."
-  - 产生或提供（产量、收入、结果等）。例如: "[The](/post/the/) [farm](/post/farm/) yields [a](/post/a/) [good](/post/good/) [crop](/post/crop/) [of](/post/of/) [corn](/post/corn/) [every](/post/every/) [year](/post/year/)."
-  - （在压力下）屈服或让步。例如: "[The](/post/the/) [old](/post/old/) [building](/post/building/) yielded [to](/post/to/) [the](/post/the/) [force](/post/force/) [of](/post/of/) [the](/post/the/) [earthquake](/post/earthquake/)."
+  - 放弃或交出（权利、控制等）。例如: "[He](/zh/post/he/) [finally](/zh/post/finally/) yielded [to](/zh/post/to/) [their](/zh/post/their/) demands."
+  - 产生或提供（产量、收入、结果等）。例如: "[The](/zh/post/the/) [farm](/zh/post/farm/) yields [a](/zh/post/a/) [good](/zh/post/good/) [crop](/zh/post/crop/) [of](/zh/post/of/) [corn](/zh/post/corn/) [every](/zh/post/every/) [year](/zh/post/year/)."
+  - （在压力下）屈服或让步。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [building](/zh/post/building/) yielded [to](/zh/post/to/) [the](/zh/post/the/) [force](/zh/post/force/) [of](/zh/post/of/) [the](/zh/post/the/) [earthquake](/zh/post/earthquake/)."
 
 - **名词**:
-  - 产量或生产量。例如: "[The](/post/the/) [yield](/post/yield/) [of](/post/of/) [this](/post/this/) [new](/post/new/) [crop](/post/crop/) is [much](/post/much/) higher [than](/post/than/) [last](/post/last/) year's."
-  - 结果或效果。例如: "[The](/post/the/) [experiment](/post/experiment/) had an [unexpected](/post/unexpected/) [yield](/post/yield/)."
-  - （投资或努力的）回报。例如: "[The](/post/the/) [stock](/post/stock/) [market](/post/market/) [yield](/post/yield/) has been [quite](/post/quite/) [high](/post/high/) [this](/post/this/) [year](/post/year/)."
+  - 产量或生产量。例如: "[The](/zh/post/the/) [yield](/zh/post/yield/) [of](/zh/post/of/) [this](/zh/post/this/) [new](/zh/post/new/) [crop](/zh/post/crop/) is [much](/zh/post/much/) higher [than](/zh/post/than/) [last](/zh/post/last/) year's."
+  - 结果或效果。例如: "[The](/zh/post/the/) [experiment](/zh/post/experiment/) had an [unexpected](/zh/post/unexpected/) [yield](/zh/post/yield/)."
+  - （投资或努力的）回报。例如: "[The](/zh/post/the/) [stock](/zh/post/stock/) [market](/zh/post/market/) [yield](/zh/post/yield/) has been [quite](/zh/post/quite/) [high](/zh/post/high/) [this](/zh/post/this/) [year](/zh/post/year/)."
 
 ## 短语
-- "[yield](/post/yield/) [to](/post/to/)" 意味着让路或服从。例如: "Drivers [must](/post/must/) [yield](/post/yield/) [to](/post/to/) pedestrians [at](/post/at/) crosswalks."
-- "[yield](/post/yield/) [something](/post/something/) [to](/post/to/) [someone](/post/someone/)" 指将某物或权利交给他人。例如: "[She](/post/she/) reluctantly yielded [the](/post/the/) [throne](/post/throne/) [to](/post/to/) [her](/post/her/) [son](/post/son/)."
+- "[yield](/zh/post/yield/) [to](/zh/post/to/)" 意味着让路或服从。例如: "Drivers [must](/zh/post/must/) [yield](/zh/post/yield/) [to](/zh/post/to/) pedestrians [at](/zh/post/at/) crosswalks."
+- "[yield](/zh/post/yield/) [something](/zh/post/something/) [to](/zh/post/to/) [someone](/zh/post/someone/)" 指将某物或权利交给他人。例如: "[She](/zh/post/she/) reluctantly yielded [the](/zh/post/the/) [throne](/zh/post/throne/) [to](/zh/post/to/) [her](/zh/post/her/) [son](/zh/post/son/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [factory](/post/factory/) is expected [to](/post/to/) [yield](/post/yield/) [more](/post/more/) products [next](/post/next/) [month](/post/month/)."
-- 名词: "[The](/post/the/) [yield](/post/yield/) [from](/post/from/) [the](/post/the/) [mine](/post/mine/) has decreased [over](/post/over/) [the](/post/the/) [past](/post/past/) [few](/post/few/) years."
+- 动词: "[The](/zh/post/the/) [factory](/zh/post/factory/) is expected [to](/zh/post/to/) [yield](/zh/post/yield/) [more](/zh/post/more/) products [next](/zh/post/next/) [month](/zh/post/month/)."
+- 名词: "[The](/zh/post/the/) [yield](/zh/post/yield/) [from](/zh/post/from/) [the](/zh/post/the/) [mine](/zh/post/mine/) has decreased [over](/zh/post/over/) [the](/zh/post/the/) [past](/zh/post/past/) [few](/zh/post/few/) years."
 
 ## 同义词
-- [produce](/post/produce/)
-- [give](/post/give/) [out](/post/out/)
-- [return](/post/return/)
-- [output](/post/output/)
-- [render](/post/render/)
+- [produce](/zh/post/produce/)
+- [give](/zh/post/give/) [out](/zh/post/out/)
+- [return](/zh/post/return/)
+- [output](/zh/post/output/)
+- [render](/zh/post/render/)

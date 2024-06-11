@@ -7,41 +7,41 @@ description = '[bɑːn] n.谷仓；牲口棚'
 keywords = ['ai words', 'barn']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɑːrn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [building](/en/post/building/) [for](/en/post/for/) storing [farm](/en/post/farm/) animals [and](/en/post/and/) [their](/en/post/their/) [equipment](/en/post/equipment/)**: [A](/en/post/a/) [large](/en/post/large/), [usually](/en/post/usually/) [wooden](/en/post/wooden/) [structure](/en/post/structure/) [where](/en/post/where/) livestock are kept, [often](/en/post/often/) [with](/en/post/with/) haylofts [and](/en/post/and/) stalls.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) parked [his](/en/post/his/) [tractor](/en/post/tractor/) [in](/en/post/in/) [the](/en/post/the/) [barn](/en/post/barn/)."
-2. **An old-fashioned [or](/en/post/or/) rustic [place](/en/post/place/) [or](/en/post/or/) [atmosphere](/en/post/atmosphere/)**: [A](/en/post/a/) cozy, nostalgic [setting](/en/post/setting/) reminiscent [of](/en/post/of/) [rural](/en/post/rural/) [life](/en/post/life/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [barn](/en/post/barn/) [dance](/en/post/dance/) was filled [with](/en/post/with/) [the](/en/post/the/) aroma [of](/en/post/of/) [hay](/en/post/hay/) [and](/en/post/and/) [country](/en/post/country/) [music](/en/post/music/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [building](/post/building/) [for](/post/for/) storing [farm](/post/farm/) animals [and](/post/and/) [their](/post/their/) [equipment](/post/equipment/)**: [A](/post/a/) [large](/post/large/), [usually](/post/usually/) [wooden](/post/wooden/) [structure](/post/structure/) [where](/post/where/) livestock are kept, [often](/post/often/) [with](/post/with/) haylofts [and](/post/and/) stalls.
+   - [Example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) parked [his](/post/his/) [tractor](/post/tractor/) [in](/post/in/) [the](/post/the/) [barn](/post/barn/)."
+2. **An old-fashioned [or](/post/or/) rustic [place](/post/place/) [or](/post/or/) [atmosphere](/post/atmosphere/)**: [A](/post/a/) cozy, nostalgic [setting](/post/setting/) reminiscent [of](/post/of/) [rural](/post/rural/) [life](/post/life/).
+   - [Example](/post/example/): "[The](/post/the/) [barn](/post/barn/) [dance](/post/dance/) was filled [with](/post/with/) [the](/post/the/) aroma [of](/post/of/) [hay](/post/hay/) [and](/post/and/) [country](/post/country/) [music](/post/music/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [store](/en/post/store/) [or](/en/post/or/) [shelter](/en/post/shelter/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [barn](/en/post/barn/)**: [To](/en/post/to/) [place](/en/post/place/) (animals, tools, [or](/en/post/or/) [equipment](/en/post/equipment/)) [in](/en/post/in/) [a](/en/post/a/) [barn](/en/post/barn/) [for](/en/post/for/) [safety](/en/post/safety/) [or](/en/post/or/) [convenience](/en/post/convenience/).
-   - [Example](/en/post/example/): "[They](/en/post/they/) barned [the](/en/post/the/) horses [for](/en/post/for/) [the](/en/post/the/) [night](/en/post/night/)."
-2. **[To](/en/post/to/) [house](/en/post/house/) [or](/en/post/or/) [shelter](/en/post/shelter/)**: [To](/en/post/to/) [provide](/en/post/provide/) [a](/en/post/a/) [place](/en/post/place/) [of](/en/post/of/) [refuge](/en/post/refuge/) [or](/en/post/or/) [shelter](/en/post/shelter/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [community](/en/post/community/) came [together](/en/post/together/) [to](/en/post/to/) [help](/en/post/help/) [those](/en/post/those/) [who](/en/post/who/) had lost [their](/en/post/their/) barns [in](/en/post/in/) [the](/en/post/the/) [flood](/en/post/flood/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [store](/post/store/) [or](/post/or/) [shelter](/post/shelter/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [barn](/post/barn/)**: [To](/post/to/) [place](/post/place/) (animals, tools, [or](/post/or/) [equipment](/post/equipment/)) [in](/post/in/) [a](/post/a/) [barn](/post/barn/) [for](/post/for/) [safety](/post/safety/) [or](/post/or/) [convenience](/post/convenience/).
+   - [Example](/post/example/): "[They](/post/they/) barned [the](/post/the/) horses [for](/post/for/) [the](/post/the/) [night](/post/night/)."
+2. **[To](/post/to/) [house](/post/house/) [or](/post/or/) [shelter](/post/shelter/)**: [To](/post/to/) [provide](/post/provide/) [a](/post/a/) [place](/post/place/) [of](/post/of/) [refuge](/post/refuge/) [or](/post/or/) [shelter](/post/shelter/).
+   - [Example](/post/example/): "[The](/post/the/) [community](/post/community/) came [together](/post/together/) [to](/post/to/) [help](/post/help/) [those](/post/those/) [who](/post/who/) had lost [their](/post/their/) barns [in](/post/in/) [the](/post/the/) [flood](/post/flood/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Relating [to](/en/post/to/) [a](/en/post/a/) [barn](/en/post/barn/) [or](/en/post/or/) [its](/en/post/its/) contents**: Denoting [a](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) an [object](/en/post/object/) associated [with](/en/post/with/) farming [or](/en/post/or/) [rural](/en/post/rural/) [life](/en/post/life/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) barn-red [paint](/en/post/paint/) [on](/en/post/on/) [the](/en/post/the/) [house](/en/post/house/) matched [the](/en/post/the/) surrounding landscape."
+### [Adjective](/post/adjective/)
+1. **Relating [to](/post/to/) [a](/post/a/) [barn](/post/barn/) [or](/post/or/) [its](/post/its/) contents**: Denoting [a](/post/a/) [building](/post/building/) [or](/post/or/) an [object](/post/object/) associated [with](/post/with/) farming [or](/post/or/) [rural](/post/rural/) [life](/post/life/).
+   - [Example](/post/example/): "[The](/post/the/) barn-red [paint](/post/paint/) [on](/post/on/) [the](/post/the/) [house](/post/house/) matched [the](/post/the/) surrounding landscape."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [the](/en/post/the/) [barn](/en/post/barn/) [door](/en/post/door/) [open](/en/post/open/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) welcoming [or](/en/post/or/) accessible [to](/en/post/to/) others.
-- "[Barn](/en/post/barn/) raising" is [a](/en/post/a/) [community](/en/post/community/) [event](/en/post/event/) [where](/en/post/where/) [people](/en/post/people/) [work](/en/post/work/) [together](/en/post/together/) [to](/en/post/to/) [build](/en/post/build/) [a](/en/post/a/) [new](/en/post/new/) [barn](/en/post/barn/).
-- "[Barn](/en/post/barn/) owl's hoot" refers [to](/en/post/to/) [the](/en/post/the/) distinctive [sound](/en/post/sound/) made [by](/en/post/by/) [these](/en/post/these/) birds.
+- "[Keep](/post/keep/) [the](/post/the/) [barn](/post/barn/) [door](/post/door/) [open](/post/open/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) welcoming [or](/post/or/) accessible [to](/post/to/) others.
+- "[Barn](/post/barn/) raising" is [a](/post/a/) [community](/post/community/) [event](/post/event/) [where](/post/where/) [people](/post/people/) [work](/post/work/) [together](/post/together/) [to](/post/to/) [build](/post/build/) [a](/post/a/) [new](/post/new/) [barn](/post/barn/).
+- "[Barn](/post/barn/) owl's hoot" refers [to](/post/to/) [the](/post/the/) distinctive [sound](/post/sound/) made [by](/post/by/) [these](/post/these/) birds.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were fascinated [by](/en/post/by/) [the](/en/post/the/) [hay](/en/post/hay/) bales [in](/en/post/in/) [the](/en/post/the/) [barn](/en/post/barn/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) day's [work](/en/post/work/), [he](/en/post/he/) returned [the](/en/post/the/) [tractor](/en/post/tractor/) [to](/en/post/to/) [the](/en/post/the/) [barn](/en/post/barn/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [barn](/en/post/barn/) served [as](/en/post/as/) [a](/en/post/a/) gathering [place](/en/post/place/) [for](/en/post/for/) [the](/en/post/the/) [annual](/en/post/annual/) [harvest](/en/post/harvest/) [festival](/en/post/festival/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were fascinated [by](/post/by/) [the](/post/the/) [hay](/post/hay/) bales [in](/post/in/) [the](/post/the/) [barn](/post/barn/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) day's [work](/post/work/), [he](/post/he/) returned [the](/post/the/) [tractor](/post/tractor/) [to](/post/to/) [the](/post/the/) [barn](/post/barn/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) [barn](/post/barn/) served [as](/post/as/) [a](/post/a/) gathering [place](/post/place/) [for](/post/for/) [the](/post/the/) [annual](/post/annual/) [harvest](/post/harvest/) [festival](/post/festival/)."
 
 ## Synonyms
-- [Stable](/en/post/stable/)
+- [Stable](/post/stable/)
 - Hayloft
 -畜栏
 - Granary
 - Outbuilding
 
-[Note](/en/post/note/): [The](/en/post/the/) [last](/en/post/last/) synonym [provided](/en/post/provided/) is [in](/en/post/in/) Chinese (畜栏).
+[Note](/post/note/): [The](/post/the/) [last](/post/last/) synonym [provided](/post/provided/) is [in](/post/in/) Chinese (畜栏).

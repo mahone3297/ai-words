@@ -7,39 +7,39 @@ description = '[spai] n.间谍，特务 vt.侦察'
 keywords = ['ai words', 'spy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /spaɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[spy](/en/post/spy/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is hired [to](/en/post/to/) [gather](/en/post/gather/) [information](/en/post/information/), [often](/en/post/often/) secretly, [for](/en/post/for/) [a](/en/post/a/) [foreign](/en/post/foreign/) [power](/en/post/power/), [organization](/en/post/organization/), [or](/en/post/or/) [individual](/en/post/individual/). [They](/en/post/they/) [may](/en/post/may/) [operate](/en/post/operate/) covertly [and](/en/post/and/) are typically involved [in](/en/post/in/) espionage activities.
+### [Noun](/post/noun/)
+[A](/post/a/) **[spy](/post/spy/)** is [a](/post/a/) [person](/post/person/) [who](/post/who/) is hired [to](/post/to/) [gather](/post/gather/) [information](/post/information/), [often](/post/often/) secretly, [for](/post/for/) [a](/post/a/) [foreign](/post/foreign/) [power](/post/power/), [organization](/post/organization/), [or](/post/or/) [individual](/post/individual/). [They](/post/they/) [may](/post/may/) [operate](/post/operate/) covertly [and](/post/and/) are typically involved [in](/post/in/) espionage activities.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[spy](/en/post/spy/)** [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [observe](/en/post/observe/) [or](/en/post/or/) [monitor](/en/post/monitor/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [without](/en/post/without/) [their](/en/post/their/) [knowledge](/en/post/knowledge/), [usually](/en/post/usually/) [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) gathering [information](/en/post/information/) [or](/en/post/or/) surveillance.
+### [Verb](/post/verb/)
+[To](/post/to/) **[spy](/post/spy/)** [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [observe](/post/observe/) [or](/post/or/) [monitor](/post/monitor/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [without](/post/without/) [their](/post/their/) [knowledge](/post/knowledge/), [usually](/post/usually/) [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) gathering [information](/post/information/) [or](/post/or/) surveillance.
 
-### [Adjective](/en/post/adjective/)
-Spy-like [or](/en/post/or/) espionage-related.
+### [Adjective](/post/adjective/)
+Spy-like [or](/post/or/) espionage-related.
 
 ## Phrases
-- "[Spy](/en/post/spy/) [on](/en/post/on/) [someone](/en/post/someone/)" implies observing secretly.
-- "Undercover [spy](/en/post/spy/)" refers [to](/en/post/to/) [a](/en/post/a/) [spy](/en/post/spy/) working [in](/en/post/in/) [disguise](/en/post/disguise/).
-- "[Spy](/en/post/spy/) [technology](/en/post/technology/)" encompasses tools [and](/en/post/and/) methods [used](/en/post/used/) [for](/en/post/for/) surveillance.
+- "[Spy](/post/spy/) [on](/post/on/) [someone](/post/someone/)" implies observing secretly.
+- "Undercover [spy](/post/spy/)" refers [to](/post/to/) [a](/post/a/) [spy](/post/spy/) working [in](/post/in/) [disguise](/post/disguise/).
+- "[Spy](/post/spy/) [technology](/post/technology/)" encompasses tools [and](/post/and/) methods [used](/post/used/) [for](/post/for/) surveillance.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [spy](/en/post/spy/) was caught red-handed [with](/en/post/with/) classified documents."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) spied [on](/en/post/on/) [her](/en/post/her/) rival's [business](/en/post/business/) practices [to](/en/post/to/) [gain](/en/post/gain/) an [advantage](/en/post/advantage/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) spy-like gadgets were state-of-the-art."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [spy](/post/spy/) was caught red-handed [with](/post/with/) classified documents."
+- **[Verb](/post/verb/)**: "[She](/post/she/) spied [on](/post/on/) [her](/post/her/) rival's [business](/post/business/) practices [to](/post/to/) [gain](/post/gain/) an [advantage](/post/advantage/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) spy-like gadgets were state-of-the-art."
 
 ## Synonyms
 - Informant
-- [Agent](/en/post/agent/)
+- [Agent](/post/agent/)
 - Sleuth
 -侦查员
-- Eavesdropper ([slightly](/en/post/slightly/) [less](/en/post/less/) [formal](/en/post/formal/))
+- Eavesdropper ([slightly](/post/slightly/) [less](/post/less/) [formal](/post/formal/))
 
 ## Antonyms
-- [Open](/en/post/open/)
-- [Transparent](/en/post/transparent/)
+- [Open](/post/open/)
+- [Transparent](/post/transparent/)
 - Candid
 - Unwary
 - Trustworthy

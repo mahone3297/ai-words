@@ -7,39 +7,39 @@ description = '[riˈfjuːz] vt.拒绝 vt.拒绝'
 keywords = ['ai words', 'refuse']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈfjuːz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Refusal](/en/post/refusal/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) refusing [or](/en/post/or/) [the](/en/post/the/) [thing](/en/post/thing/) refused; [a](/en/post/a/) rejection [or](/en/post/or/) denial. [Example](/en/post/example/): "[The](/en/post/the/) boss's [refusal](/en/post/refusal/) [to](/en/post/to/) [accept](/en/post/accept/) [the](/en/post/the/) [proposal](/en/post/proposal/) was [surprising](/en/post/surprising/)."
-- **[Garbage](/en/post/garbage/)**: [In](/en/post/in/) British English, [refuse](/en/post/refuse/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [waste](/en/post/waste/) materials, [especially](/en/post/especially/) non-biodegradable trash. [Example](/en/post/example/): "[They](/en/post/they/) collected [the](/en/post/the/) [refuse](/en/post/refuse/) [from](/en/post/from/) [the](/en/post/the/) [street](/en/post/street/)."
+### [Noun](/post/noun/)
+- **[Refusal](/post/refusal/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) refusing [or](/post/or/) [the](/post/the/) [thing](/post/thing/) refused; [a](/post/a/) rejection [or](/post/or/) denial. [Example](/post/example/): "[The](/post/the/) boss's [refusal](/post/refusal/) [to](/post/to/) [accept](/post/accept/) [the](/post/the/) [proposal](/post/proposal/) was [surprising](/post/surprising/)."
+- **[Garbage](/post/garbage/)**: [In](/post/in/) British English, [refuse](/post/refuse/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [waste](/post/waste/) materials, [especially](/post/especially/) non-biodegradable trash. [Example](/post/example/): "[They](/post/they/) collected [the](/post/the/) [refuse](/post/refuse/) [from](/post/from/) [the](/post/the/) [street](/post/street/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [refuse](/en/post/refuse/)**: [To](/en/post/to/) decline [or](/en/post/or/) [reject](/en/post/reject/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [firm](/en/post/firm/) [determination](/en/post/determination/). [Example](/en/post/example/): "[She](/en/post/she/) refused [his](/en/post/his/) [invitation](/en/post/invitation/) politely."
-- **[Reject](/en/post/reject/)**: [To](/en/post/to/) [refuse](/en/post/refuse/) [acceptance](/en/post/acceptance/) [or](/en/post/or/) [approval](/en/post/approval/). [Example](/en/post/example/): "[The](/en/post/the/) [editor](/en/post/editor/) rejected [the](/en/post/the/) manuscript [without](/en/post/without/) giving [specific](/en/post/specific/) reasons."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [refuse](/post/refuse/)**: [To](/post/to/) decline [or](/post/or/) [reject](/post/reject/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [firm](/post/firm/) [determination](/post/determination/). [Example](/post/example/): "[She](/post/she/) refused [his](/post/his/) [invitation](/post/invitation/) politely."
+- **[Reject](/post/reject/)**: [To](/post/to/) [refuse](/post/refuse/) [acceptance](/post/acceptance/) [or](/post/or/) [approval](/post/approval/). [Example](/post/example/): "[The](/post/the/) [editor](/post/editor/) rejected [the](/post/the/) manuscript [without](/post/without/) giving [specific](/post/specific/) reasons."
 
-### [Adjective](/en/post/adjective/)
-- **[Unwilling](/en/post/unwilling/)**: Characterized [by](/en/post/by/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [desire](/en/post/desire/) [or](/en/post/or/) inclination [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). [Example](/en/post/example/): "[He](/en/post/he/) is [unwilling](/en/post/unwilling/) [to](/en/post/to/) [compromise](/en/post/compromise/) [on](/en/post/on/) [his](/en/post/his/) principles."
+### [Adjective](/post/adjective/)
+- **[Unwilling](/post/unwilling/)**: Characterized [by](/post/by/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [desire](/post/desire/) [or](/post/or/) inclination [to](/post/to/) [do](/post/do/) [something](/post/something/). [Example](/post/example/): "[He](/post/he/) is [unwilling](/post/unwilling/) [to](/post/to/) [compromise](/post/compromise/) [on](/post/on/) [his](/post/his/) principles."
 
-### [Adverb](/en/post/adverb/)
-- **Reluctantly**: [With](/en/post/with/) hesitation [or](/en/post/or/) unwillingness. [Example](/en/post/example/): "[She](/en/post/she/) reluctantly agreed [to](/en/post/to/) [help](/en/post/help/)."
+### [Adverb](/post/adverb/)
+- **Reluctantly**: [With](/post/with/) hesitation [or](/post/or/) unwillingness. [Example](/post/example/): "[She](/post/she/) reluctantly agreed [to](/post/to/) [help](/post/help/)."
 
 ## Phrases
-- "[Refuse](/en/post/refuse/) an [offer](/en/post/offer/)" [means](/en/post/means/) [to](/en/post/to/) decline [a](/en/post/a/) [proposal](/en/post/proposal/) [or](/en/post/or/) [request](/en/post/request/).
-- "[Do](/en/post/do/) [not](/en/post/not/) [refuse](/en/post/refuse/)" implies [a](/en/post/a/) [strong](/en/post/strong/) [suggestion](/en/post/suggestion/) [or](/en/post/or/) [command](/en/post/command/) [to](/en/post/to/) [accept](/en/post/accept/) [something](/en/post/something/).
-- "[Refuse](/en/post/refuse/) [entry](/en/post/entry/)" is [used](/en/post/used/) [when](/en/post/when/) denying [access](/en/post/access/) [to](/en/post/to/) [a](/en/post/a/) [place](/en/post/place/).
+- "[Refuse](/post/refuse/) an [offer](/post/offer/)" [means](/post/means/) [to](/post/to/) decline [a](/post/a/) [proposal](/post/proposal/) [or](/post/or/) [request](/post/request/).
+- "[Do](/post/do/) [not](/post/not/) [refuse](/post/refuse/)" implies [a](/post/a/) [strong](/post/strong/) [suggestion](/post/suggestion/) [or](/post/or/) [command](/post/command/) [to](/post/to/) [accept](/post/accept/) [something](/post/something/).
+- "[Refuse](/post/refuse/) [entry](/post/entry/)" is [used](/post/used/) [when](/post/when/) denying [access](/post/access/) [to](/post/to/) [a](/post/a/) [place](/post/place/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [refusal](/en/post/refusal/) [to](/en/post/to/) [change](/en/post/change/) [his](/en/post/his/) [mind](/en/post/mind/) [left](/en/post/left/) [no](/en/post/no/) [room](/en/post/room/) [for](/en/post/for/) negotiation."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) children were taught [to](/en/post/to/) [refuse](/en/post/refuse/) drugs [and](/en/post/and/) [alcohol](/en/post/alcohol/)."
-- **[Adjective](/en/post/adjective/)**: "[Despite](/en/post/despite/) [her](/en/post/her/) unwillingness, [she](/en/post/she/) [eventually](/en/post/eventually/) agreed [to](/en/post/to/) [participate](/en/post/participate/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) reluctantly got [out](/en/post/out/) [of](/en/post/of/) [bed](/en/post/bed/) [on](/en/post/on/) weekends."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [refusal](/post/refusal/) [to](/post/to/) [change](/post/change/) [his](/post/his/) [mind](/post/mind/) [left](/post/left/) [no](/post/no/) [room](/post/room/) [for](/post/for/) negotiation."
+- **[Verb](/post/verb/)**: "[The](/post/the/) children were taught [to](/post/to/) [refuse](/post/refuse/) drugs [and](/post/and/) [alcohol](/post/alcohol/)."
+- **[Adjective](/post/adjective/)**: "[Despite](/post/despite/) [her](/post/her/) unwillingness, [she](/post/she/) [eventually](/post/eventually/) agreed [to](/post/to/) [participate](/post/participate/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) reluctantly got [out](/post/out/) [of](/post/of/) [bed](/post/bed/) [on](/post/on/) weekends."
 
 ## Synonyms
 - Decline
-- [Reject](/en/post/reject/)
-- [Deny](/en/post/deny/)
-- [Turn](/en/post/turn/) [down](/en/post/down/)
-- [Refute](/en/post/refute/)
-- Decline [to](/en/post/to/) [accept](/en/post/accept/)
+- [Reject](/post/reject/)
+- [Deny](/post/deny/)
+- [Turn](/post/turn/) [down](/post/down/)
+- [Refute](/post/refute/)
+- Decline [to](/post/to/) [accept](/post/accept/)

@@ -11,23 +11,23 @@ keywords = ['ai words', 'prize']
 /praɪz/
 
 ## 释义
-- **名词**: 奖励，奖品，奖金。例如: "[The](/post/the/) [winner](/post/winner/) received [a](/post/a/) [gold](/post/gold/) [medal](/post/medal/) [as](/post/as/) [a](/post/a/) [prize](/post/prize/)."
-- **动词**: 把...视为珍贵，珍视。例如: "[She](/post/she/) prizes [her](/post/her/) [collection](/post/collection/) [of](/post/of/) antique dolls."
-- **形容词**: 有价值的，值得的。例如: "[That](/post/that/) [painting](/post/painting/) is [a](/post/a/) [real](/post/real/) [prize](/post/prize/) [possession](/post/possession/)."
+- **名词**: 奖励，奖品，奖金。例如: "[The](/zh/post/the/) [winner](/zh/post/winner/) received [a](/zh/post/a/) [gold](/zh/post/gold/) [medal](/zh/post/medal/) [as](/zh/post/as/) [a](/zh/post/a/) [prize](/zh/post/prize/)."
+- **动词**: 把...视为珍贵，珍视。例如: "[She](/zh/post/she/) prizes [her](/zh/post/her/) [collection](/zh/post/collection/) [of](/zh/post/of/) antique dolls."
+- **形容词**: 有价值的，值得的。例如: "[That](/zh/post/that/) [painting](/zh/post/painting/) is [a](/zh/post/a/) [real](/zh/post/real/) [prize](/zh/post/prize/) [possession](/zh/post/possession/)."
 
 ## 短语
-- "[Win](/post/win/) [a](/post/a/) [prize](/post/prize/)" 意为赢得奖项。
-- "[As](/post/as/) [a](/post/a/) [prize](/post/prize/) [for](/post/for/)..." 表示作为对...的奖励。
-- "Priceless [prize](/post/prize/)" 指无价之宝。
+- "[Win](/zh/post/win/) [a](/zh/post/a/) [prize](/zh/post/prize/)" 意为赢得奖项。
+- "[As](/zh/post/as/) [a](/zh/post/a/) [prize](/zh/post/prize/) [for](/zh/post/for/)..." 表示作为对...的奖励。
+- "Priceless [prize](/zh/post/prize/)" 指无价之宝。
 
 ## 例句
-- 名词: "[The](/post/the/) [school](/post/school/) holds an [annual](/post/annual/) [science](/post/science/) [fair](/post/fair/) [with](/post/with/) [various](/post/various/) prizes [for](/post/for/) [the](/post/the/) winners."
-- 动词: "[She](/post/she/) prizes [her](/post/her/) [time](/post/time/) spent [with](/post/with/) [family](/post/family/) [above](/post/above/) [all](/post/all/) [else](/post/else/)."
-- 形容词: "[The](/post/the/) [ancient](/post/ancient/) [vase](/post/vase/) was [a](/post/a/) [prize](/post/prize/) [find](/post/find/) [from](/post/from/) [the](/post/the/) archaeological [dig](/post/dig/)."
+- 名词: "[The](/zh/post/the/) [school](/zh/post/school/) holds an [annual](/zh/post/annual/) [science](/zh/post/science/) [fair](/zh/post/fair/) [with](/zh/post/with/) [various](/zh/post/various/) prizes [for](/zh/post/for/) [the](/zh/post/the/) winners."
+- 动词: "[She](/zh/post/she/) prizes [her](/zh/post/her/) [time](/zh/post/time/) spent [with](/zh/post/with/) [family](/zh/post/family/) [above](/zh/post/above/) [all](/zh/post/all/) [else](/zh/post/else/)."
+- 形容词: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) [vase](/zh/post/vase/) was [a](/zh/post/a/) [prize](/zh/post/prize/) [find](/zh/post/find/) [from](/zh/post/from/) [the](/zh/post/the/) archaeological [dig](/zh/post/dig/)."
 
 ## 同义词
-- [Reward](/post/reward/)
+- [Reward](/zh/post/reward/)
 - Honor
-- [Distinction](/post/distinction/)
-- [Award](/post/award/)
+- [Distinction](/zh/post/distinction/)
+- [Award](/zh/post/award/)
 - Trophies

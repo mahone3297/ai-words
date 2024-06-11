@@ -7,40 +7,40 @@ description = '[kəˈmi∫ən] n.委任状；委员会'
 keywords = ['ai words', 'commission']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈmɪʃn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [commission](/en/post/commission/)** (n): An [official](/en/post/official/) [order](/en/post/order/) [or](/en/post/or/) [task](/en/post/task/) given [to](/en/post/to/) [someone](/en/post/someone/), [often](/en/post/often/) involving [a](/en/post/a/) [fee](/en/post/fee/) [or](/en/post/or/) [percentage](/en/post/percentage/) [of](/en/post/of/) [the](/en/post/the/) [sale](/en/post/sale/), typically [by](/en/post/by/) [a](/en/post/a/) [government](/en/post/government/) [or](/en/post/or/) [organization](/en/post/organization/). [Example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) was commissioned [to](/en/post/to/) [paint](/en/post/paint/) [a](/en/post/a/) [portrait](/en/post/portrait/) [for](/en/post/for/) [the](/en/post/the/) [museum](/en/post/museum/)."
-2. **[A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) officers [or](/en/post/or/) representatives** (n): [In](/en/post/in/) [a](/en/post/a/) [military](/en/post/military/) context, [a](/en/post/a/) [body](/en/post/body/) [of](/en/post/of/) officers sent [on](/en/post/on/) [a](/en/post/a/) [specific](/en/post/specific/) [mission](/en/post/mission/). [Example](/en/post/example/): "[The](/en/post/the/) [commission](/en/post/commission/) was tasked [with](/en/post/with/) investigating [the](/en/post/the/) [incident](/en/post/incident/)."
-3. **An [act](/en/post/act/) [of](/en/post/of/) giving [something](/en/post/something/) [to](/en/post/to/) [someone](/en/post/someone/) [for](/en/post/for/) [sale](/en/post/sale/)** (n): [A](/en/post/a/) [purchase](/en/post/purchase/) [with](/en/post/with/) [a](/en/post/a/) [promise](/en/post/promise/) [of](/en/post/of/) [future](/en/post/future/) services [or](/en/post/or/) [goods](/en/post/goods/). [Example](/en/post/example/): "I bought [a](/en/post/a/) sofa [on](/en/post/on/) [commission](/en/post/commission/) [for](/en/post/for/) [my](/en/post/my/) [friend](/en/post/friend/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [commission](/post/commission/)** (n): An [official](/post/official/) [order](/post/order/) [or](/post/or/) [task](/post/task/) given [to](/post/to/) [someone](/post/someone/), [often](/post/often/) involving [a](/post/a/) [fee](/post/fee/) [or](/post/or/) [percentage](/post/percentage/) [of](/post/of/) [the](/post/the/) [sale](/post/sale/), typically [by](/post/by/) [a](/post/a/) [government](/post/government/) [or](/post/or/) [organization](/post/organization/). [Example](/post/example/): "[The](/post/the/) [artist](/post/artist/) was commissioned [to](/post/to/) [paint](/post/paint/) [a](/post/a/) [portrait](/post/portrait/) [for](/post/for/) [the](/post/the/) [museum](/post/museum/)."
+2. **[A](/post/a/) [group](/post/group/) [of](/post/of/) officers [or](/post/or/) representatives** (n): [In](/post/in/) [a](/post/a/) [military](/post/military/) context, [a](/post/a/) [body](/post/body/) [of](/post/of/) officers sent [on](/post/on/) [a](/post/a/) [specific](/post/specific/) [mission](/post/mission/). [Example](/post/example/): "[The](/post/the/) [commission](/post/commission/) was tasked [with](/post/with/) investigating [the](/post/the/) [incident](/post/incident/)."
+3. **An [act](/post/act/) [of](/post/of/) giving [something](/post/something/) [to](/post/to/) [someone](/post/someone/) [for](/post/for/) [sale](/post/sale/)** (n): [A](/post/a/) [purchase](/post/purchase/) [with](/post/with/) [a](/post/a/) [promise](/post/promise/) [of](/post/of/) [future](/post/future/) services [or](/post/or/) [goods](/post/goods/). [Example](/post/example/): "I bought [a](/post/a/) sofa [on](/post/on/) [commission](/post/commission/) [for](/post/for/) [my](/post/my/) [friend](/post/friend/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [commission](/en/post/commission/)** (v): [To](/en/post/to/) [assign](/en/post/assign/) [or](/en/post/or/) [request](/en/post/request/) [the](/en/post/the/) creation, [production](/en/post/production/), [or](/en/post/or/) [purchase](/en/post/purchase/) [of](/en/post/of/) [something](/en/post/something/), [usually](/en/post/usually/) [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/) [or](/en/post/or/) [requirement](/en/post/requirement/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [commission](/en/post/commission/) [a](/en/post/a/) [new](/en/post/new/) [office](/en/post/office/) [building](/en/post/building/)."
-2. **[To](/en/post/to/) [appoint](/en/post/appoint/) [someone](/en/post/someone/) [to](/en/post/to/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [role](/en/post/role/)** (v): [Example](/en/post/example/): "[The](/en/post/the/) CEO commissioned John [to](/en/post/to/) [lead](/en/post/lead/) [the](/en/post/the/) [project](/en/post/project/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [commission](/post/commission/)** (v): [To](/post/to/) [assign](/post/assign/) [or](/post/or/) [request](/post/request/) [the](/post/the/) creation, [production](/post/production/), [or](/post/or/) [purchase](/post/purchase/) [of](/post/of/) [something](/post/something/), [usually](/post/usually/) [with](/post/with/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/) [or](/post/or/) [requirement](/post/requirement/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [commission](/post/commission/) [a](/post/a/) [new](/post/new/) [office](/post/office/) [building](/post/building/)."
+2. **[To](/post/to/) [appoint](/post/appoint/) [someone](/post/someone/) [to](/post/to/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [role](/post/role/)** (v): [Example](/post/example/): "[The](/post/the/) CEO commissioned John [to](/post/to/) [lead](/post/lead/) [the](/post/the/) [project](/post/project/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Commissioned** (adj): Relating [to](/en/post/to/) [or](/en/post/or/) resulting [from](/en/post/from/) [a](/en/post/a/) [commission](/en/post/commission/), [as](/en/post/as/) [in](/en/post/in/) [art](/en/post/art/) [or](/en/post/or/) [design](/en/post/design/). [Example](/en/post/example/): "[The](/en/post/the/) commissioned sculpture stands [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/) [square](/en/post/square/)."
+### [Adjective](/post/adjective/)
+1. **Commissioned** (adj): Relating [to](/post/to/) [or](/post/or/) resulting [from](/post/from/) [a](/post/a/) [commission](/post/commission/), [as](/post/as/) [in](/post/in/) [art](/post/art/) [or](/post/or/) [design](/post/design/). [Example](/post/example/): "[The](/post/the/) commissioned sculpture stands [in](/post/in/) [the](/post/the/) [city](/post/city/) [square](/post/square/)."
 
 ## Phrases
-- "Commissioned artwork" refers [to](/en/post/to/) [work](/en/post/work/) created specifically [for](/en/post/for/) [a](/en/post/a/) client [or](/en/post/or/) [organization](/en/post/organization/).
-- "[Under](/en/post/under/) [commission](/en/post/commission/)" indicates [that](/en/post/that/) [something](/en/post/something/) is [being](/en/post/being/) prepared [or](/en/post/or/) built according [to](/en/post/to/) an [order](/en/post/order/).
-- "[Commission](/en/post/commission/) fees" are [the](/en/post/the/) charges paid [for](/en/post/for/) [a](/en/post/a/) commissioned [service](/en/post/service/).
+- "Commissioned artwork" refers [to](/post/to/) [work](/post/work/) created specifically [for](/post/for/) [a](/post/a/) client [or](/post/or/) [organization](/post/organization/).
+- "[Under](/post/under/) [commission](/post/commission/)" indicates [that](/post/that/) [something](/post/something/) is [being](/post/being/) prepared [or](/post/or/) built according [to](/post/to/) an [order](/post/order/).
+- "[Commission](/post/commission/) fees" are [the](/post/the/) charges paid [for](/post/for/) [a](/post/a/) commissioned [service](/post/service/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) architect was commissioned [to](/en/post/to/) [design](/en/post/design/) [a](/en/post/a/) [modern](/en/post/modern/), sustainable [building](/en/post/building/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) homeowner decided [to](/en/post/to/) [commission](/en/post/commission/) [a](/en/post/a/) [custom](/en/post/custom/) [kitchen](/en/post/kitchen/) renovation."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [museum](/en/post/museum/) houses [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) [exclusively](/en/post/exclusively/) commissioned paintings."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) architect was commissioned [to](/post/to/) [design](/post/design/) [a](/post/a/) [modern](/post/modern/), sustainable [building](/post/building/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) homeowner decided [to](/post/to/) [commission](/post/commission/) [a](/post/a/) [custom](/post/custom/) [kitchen](/post/kitchen/) renovation."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [museum](/post/museum/) houses [a](/post/a/) [collection](/post/collection/) [of](/post/of/) [exclusively](/post/exclusively/) commissioned paintings."
 
 ## Synonyms
-- [Appoint](/en/post/appoint/)
-- [Engage](/en/post/engage/)
+- [Appoint](/post/appoint/)
+- [Engage](/post/engage/)
 - Outsource
 - Apprise
-- [Task](/en/post/task/)
+- [Task](/post/task/)
 
 ## Antonyms
-- [Dismiss](/en/post/dismiss/)
-- [Reject](/en/post/reject/)
-- [Abandon](/en/post/abandon/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [not](/en/post/not/) commissioning [something](/en/post/something/))
+- [Dismiss](/post/dismiss/)
+- [Reject](/post/reject/)
+- [Abandon](/post/abandon/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [not](/post/not/) commissioning [something](/post/something/))

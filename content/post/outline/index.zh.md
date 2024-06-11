@@ -11,20 +11,20 @@ keywords = ['ai words', 'outline']
 /ˈaʊtlaɪn/
 
 ## 释义
-- **名词 (n)**: 大纲，提纲；轮廓；概要。例如: "[She](/post/she/) prepared an [outline](/post/outline/) [of](/post/of/) [her](/post/her/) presentation [before](/post/before/) [the](/post/the/) [meeting](/post/meeting/)."
-- **动词 (v)**: 为…画出轮廓；概述。例如: "[He](/post/he/) outlined [the](/post/the/) [main](/post/main/) points [of](/post/of/) [the](/post/the/) [project](/post/project/) [in](/post/in/) [his](/post/his/) email."
+- **名词 (n)**: 大纲，提纲；轮廓；概要。例如: "[She](/zh/post/she/) prepared an [outline](/zh/post/outline/) [of](/zh/post/of/) [her](/zh/post/her/) presentation [before](/zh/post/before/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
+- **动词 (v)**: 为…画出轮廓；概述。例如: "[He](/zh/post/he/) outlined [the](/zh/post/the/) [main](/zh/post/main/) points [of](/zh/post/of/) [the](/zh/post/the/) [project](/zh/post/project/) [in](/zh/post/in/) [his](/zh/post/his/) email."
 
 ## 短语
-- "[Outline](/post/outline/) [a](/post/a/) [plan](/post/plan/)" 意味着制定计划的大致框架。
-- "[Give](/post/give/) an [outline](/post/outline/) [of](/post/of/) [something](/post/something/)" 是指给出某事物的基本描述或主要内容。
+- "[Outline](/zh/post/outline/) [a](/zh/post/a/) [plan](/zh/post/plan/)" 意味着制定计划的大致框架。
+- "[Give](/zh/post/give/) an [outline](/zh/post/outline/) [of](/zh/post/of/) [something](/zh/post/something/)" 是指给出某事物的基本描述或主要内容。
 
 ## 例句
-- 名词: "[The](/post/the/) [teacher](/post/teacher/) [provided](/post/provided/) an [outline](/post/outline/) [of](/post/of/) [the](/post/the/) [course](/post/course/) topics [for](/post/for/) [the](/post/the/) [semester](/post/semester/)."
-- 动词: "[In](/post/in/) [his](/post/his/) [speech](/post/speech/), [he](/post/he/) outlined [the](/post/the/) government's [new](/post/new/) [economic](/post/economic/) [policy](/post/policy/)."
+- 名词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) [provided](/zh/post/provided/) an [outline](/zh/post/outline/) [of](/zh/post/of/) [the](/zh/post/the/) [course](/zh/post/course/) topics [for](/zh/post/for/) [the](/zh/post/the/) [semester](/zh/post/semester/)."
+- 动词: "[In](/zh/post/in/) [his](/zh/post/his/) [speech](/zh/post/speech/), [he](/zh/post/he/) outlined [the](/zh/post/the/) government's [new](/zh/post/new/) [economic](/zh/post/economic/) [policy](/zh/post/policy/)."
 
 ## 同义词
-- [Summary](/post/summary/)
-- [Sketch](/post/sketch/)
-- [Framework](/post/framework/)
-- [Plan](/post/plan/)
-- [Brief](/post/brief/)
+- [Summary](/zh/post/summary/)
+- [Sketch](/zh/post/sketch/)
+- [Framework](/zh/post/framework/)
+- [Plan](/zh/post/plan/)
+- [Brief](/zh/post/brief/)

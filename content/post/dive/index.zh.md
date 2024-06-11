@@ -11,23 +11,23 @@ keywords = ['ai words', 'dive']
 /daɪv/
 
 ## 释义
-- **名词**: 潜水；跳水。例如: "[He](/post/he/) did [a](/post/a/) [perfect](/post/perfect/) [dive](/post/dive/) [into](/post/into/) [the](/post/the/) [pool](/post/pool/)."
-- **动词**: 下潜，潜水。例如: "[She](/post/she/) dived [into](/post/into/) [the](/post/the/) icy [water](/post/water/) [to](/post/to/) [save](/post/save/) [the](/post/the/) [child](/post/child/)."
-- **动词**: 突然俯冲或下沉。例如: "[The](/post/the/) [eagle](/post/eagle/) dived towards [its](/post/its/) prey."
+- **名词**: 潜水；跳水。例如: "[He](/zh/post/he/) did [a](/zh/post/a/) [perfect](/zh/post/perfect/) [dive](/zh/post/dive/) [into](/zh/post/into/) [the](/zh/post/the/) [pool](/zh/post/pool/)."
+- **动词**: 下潜，潜水。例如: "[She](/zh/post/she/) dived [into](/zh/post/into/) [the](/zh/post/the/) icy [water](/zh/post/water/) [to](/zh/post/to/) [save](/zh/post/save/) [the](/zh/post/the/) [child](/zh/post/child/)."
+- **动词**: 突然俯冲或下沉。例如: "[The](/zh/post/the/) [eagle](/zh/post/eagle/) dived towards [its](/zh/post/its/) prey."
 
 ## 短语
-- "[Take](/post/take/) [a](/post/a/) [dive](/post/dive/)" 意为故意失败或假装摔倒。
-- "[Dive](/post/dive/) [bar](/post/bar/)" 指的是环境简陋但氛围友好的小酒吧。
-- "[Dive](/post/dive/) [into](/post/into/) [something](/post/something/)" 表示全神贯注地开始做某事。
+- "[Take](/zh/post/take/) [a](/zh/post/a/) [dive](/zh/post/dive/)" 意为故意失败或假装摔倒。
+- "[Dive](/zh/post/dive/) [bar](/zh/post/bar/)" 指的是环境简陋但氛围友好的小酒吧。
+- "[Dive](/zh/post/dive/) [into](/zh/post/into/) [something](/zh/post/something/)" 表示全神贯注地开始做某事。
 
 ## 例句
-- 名词: "[The](/post/the/) [athlete](/post/athlete/) performed an [impressive](/post/impressive/) triple [dive](/post/dive/) [during](/post/during/) [the](/post/the/) [competition](/post/competition/)."
-- 动词: "[He](/post/he/) dived underwater [to](/post/to/) [explore](/post/explore/) [the](/post/the/) coral reef."
-- 动词: "[She](/post/she/) dived headfirst [into](/post/into/) [her](/post/her/) [new](/post/new/) [project](/post/project/), [eager](/post/eager/) [to](/post/to/) [get](/post/get/) started."
+- 名词: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) performed an [impressive](/zh/post/impressive/) triple [dive](/zh/post/dive/) [during](/zh/post/during/) [the](/zh/post/the/) [competition](/zh/post/competition/)."
+- 动词: "[He](/zh/post/he/) dived underwater [to](/zh/post/to/) [explore](/zh/post/explore/) [the](/zh/post/the/) coral reef."
+- 动词: "[She](/zh/post/she/) dived headfirst [into](/zh/post/into/) [her](/zh/post/her/) [new](/zh/post/new/) [project](/zh/post/project/), [eager](/zh/post/eager/) [to](/zh/post/to/) [get](/zh/post/get/) started."
 
 ## 同义词
-- [Swim](/post/swim/) deeply
-- [Plunge](/post/plunge/)
-- [Jump](/post/jump/) [into](/post/into/)
-- [Submerge](/post/submerge/)
-- [Sink](/post/sink/)
+- [Swim](/zh/post/swim/) deeply
+- [Plunge](/zh/post/plunge/)
+- [Jump](/zh/post/jump/) [into](/zh/post/into/)
+- [Submerge](/zh/post/submerge/)
+- [Sink](/zh/post/sink/)

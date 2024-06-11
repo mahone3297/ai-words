@@ -11,20 +11,20 @@ keywords = ['ai words', 'partially']
 /pɑːrˈtɪəli/
 
 ## 释义
-- **副词**: 部分地，不完全地，局部地。表示程度或范围的限制。例如: "[The](/post/the/) [building](/post/building/) is [partially](/post/partially/) destroyed [by](/post/by/) [the](/post/the/) [fire](/post/fire/)."
-- **形容词**: 部分的，不完全的。用于描述某事物只涉及一部分。例如: "[A](/post/a/) [partially](/post/partially/) completed [project](/post/project/)."
+- **副词**: 部分地，不完全地，局部地。表示程度或范围的限制。例如: "[The](/zh/post/the/) [building](/zh/post/building/) is [partially](/zh/post/partially/) destroyed [by](/zh/post/by/) [the](/zh/post/the/) [fire](/zh/post/fire/)."
+- **形容词**: 部分的，不完全的。用于描述某事物只涉及一部分。例如: "[A](/zh/post/a/) [partially](/zh/post/partially/) completed [project](/zh/post/project/)."
 
 ## 短语
-- "[Partially](/post/partially/) [due](/post/due/) [to](/post/to/)" 意为部分原因是。
-- "[Partially](/post/partially/) [responsible](/post/responsible/)" 意为部分责任。
+- "[Partially](/zh/post/partially/) [due](/zh/post/due/) [to](/zh/post/to/)" 意为部分原因是。
+- "[Partially](/zh/post/partially/) [responsible](/zh/post/responsible/)" 意为部分责任。
 
 ## 例句
-- 副词: "I [can](/post/can/) [only](/post/only/) [attend](/post/attend/) [the](/post/the/) [meeting](/post/meeting/) [partially](/post/partially/), [as](/post/as/) I [have](/post/have/) [another](/post/another/) [appointment](/post/appointment/) [later](/post/later/)."
-- 形容词: "[The](/post/the/) [book](/post/book/) is [partially](/post/partially/) damaged, [but](/post/but/) [still](/post/still/) readable."
+- 副词: "I [can](/zh/post/can/) [only](/zh/post/only/) [attend](/zh/post/attend/) [the](/zh/post/the/) [meeting](/zh/post/meeting/) [partially](/zh/post/partially/), [as](/zh/post/as/) I [have](/zh/post/have/) [another](/zh/post/another/) [appointment](/zh/post/appointment/) [later](/zh/post/later/)."
+- 形容词: "[The](/zh/post/the/) [book](/zh/post/book/) is [partially](/zh/post/partially/) damaged, [but](/zh/post/but/) [still](/zh/post/still/) readable."
 
 ## 同义词
-- [Somewhat](/post/somewhat/)
-- [To](/post/to/) [some](/post/some/) [extent](/post/extent/)
-- [In](/post/in/) [part](/post/part/)
-- [To](/post/to/) [a](/post/a/) [certain](/post/certain/) [degree](/post/degree/)
-- [Partly](/post/partly/)
+- [Somewhat](/zh/post/somewhat/)
+- [To](/zh/post/to/) [some](/zh/post/some/) [extent](/zh/post/extent/)
+- [In](/zh/post/in/) [part](/zh/post/part/)
+- [To](/zh/post/to/) [a](/zh/post/a/) [certain](/zh/post/certain/) [degree](/zh/post/degree/)
+- [Partly](/zh/post/partly/)

@@ -7,33 +7,33 @@ description = '[kənˈviːnjəns] n.便利,方便；厕所'
 keywords = ['ai words', 'convenience']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈvɪniəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [convenient](/en/post/convenient/); [ease](/en/post/ease/) [of](/en/post/of/) [use](/en/post/use/) [or](/en/post/or/) [access](/en/post/access/). 2. [Something](/en/post/something/) [that](/en/post/that/) is [convenient](/en/post/convenient/) [or](/en/post/or/) [suitable](/en/post/suitable/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/). 3. An [accommodation](/en/post/accommodation/) [or](/en/post/or/) [service](/en/post/service/) [provided](/en/post/provided/) [for](/en/post/for/) [the](/en/post/the/) [sake](/en/post/sake/) [of](/en/post/of/) [convenience](/en/post/convenience/). 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [convenient](/en/post/convenient/) [or](/en/post/or/) [easy](/en/post/easy/); [to](/en/post/to/) [provide](/en/post/provide/) [with](/en/post/with/) [convenience](/en/post/convenience/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [convenient](/post/convenient/); [ease](/post/ease/) [of](/post/of/) [use](/post/use/) [or](/post/or/) [access](/post/access/). 2. [Something](/post/something/) [that](/post/that/) is [convenient](/post/convenient/) [or](/post/or/) [suitable](/post/suitable/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/). 3. An [accommodation](/post/accommodation/) [or](/post/or/) [service](/post/service/) [provided](/post/provided/) [for](/post/for/) [the](/post/the/) [sake](/post/sake/) [of](/post/of/) [convenience](/post/convenience/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [convenient](/post/convenient/) [or](/post/or/) [easy](/post/easy/); [to](/post/to/) [provide](/post/provide/) [with](/post/with/) [convenience](/post/convenience/).
 
 ## Phrases
-- "[Convenience](/en/post/convenience/) [store](/en/post/store/)" refers [to](/en/post/to/) [a](/en/post/a/) [small](/en/post/small/) retail [store](/en/post/store/) [that](/en/post/that/) caters [to](/en/post/to/) [everyday](/en/post/everyday/) needs.
-- "[Convenience](/en/post/convenience/) [factor](/en/post/factor/)" is [the](/en/post/the/) [ease](/en/post/ease/) [with](/en/post/with/) [which](/en/post/which/) [something](/en/post/something/) [can](/en/post/can/) [be](/en/post/be/) done [or](/en/post/or/) accessed.
-- "[Convenience](/en/post/convenience/) pricing" is [the](/en/post/the/) [strategy](/en/post/strategy/) [of](/en/post/of/) [setting](/en/post/setting/) prices [to](/en/post/to/) maximize [customer](/en/post/customer/) [convenience](/en/post/convenience/).
+- "[Convenience](/post/convenience/) [store](/post/store/)" refers [to](/post/to/) [a](/post/a/) [small](/post/small/) retail [store](/post/store/) [that](/post/that/) caters [to](/post/to/) [everyday](/post/everyday/) needs.
+- "[Convenience](/post/convenience/) [factor](/post/factor/)" is [the](/post/the/) [ease](/post/ease/) [with](/post/with/) [which](/post/which/) [something](/post/something/) [can](/post/can/) [be](/post/be/) done [or](/post/or/) accessed.
+- "[Convenience](/post/convenience/) pricing" is [the](/post/the/) [strategy](/post/strategy/) [of](/post/of/) [setting](/post/setting/) prices [to](/post/to/) maximize [customer](/post/customer/) [convenience](/post/convenience/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [apartment](/en/post/apartment/) [complex](/en/post/complex/) offers [excellent](/en/post/excellent/) [convenience](/en/post/convenience/) [with](/en/post/with/) [its](/en/post/its/) proximity [to](/en/post/to/) [public](/en/post/public/) [transportation](/en/post/transportation/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) designed [the](/en/post/the/) app [to](/en/post/to/) [provide](/en/post/provide/) users [with](/en/post/with/) [the](/en/post/the/) [convenience](/en/post/convenience/) [of](/en/post/of/) managing [their](/en/post/their/) schedules on-the-go."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [location](/en/post/location/) was chosen [for](/en/post/for/) [its](/en/post/its/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) [convenience](/en/post/convenience/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [apartment](/post/apartment/) [complex](/post/complex/) offers [excellent](/post/excellent/) [convenience](/post/convenience/) [with](/post/with/) [its](/post/its/) proximity [to](/post/to/) [public](/post/public/) [transportation](/post/transportation/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) designed [the](/post/the/) app [to](/post/to/) [provide](/post/provide/) users [with](/post/with/) [the](/post/the/) [convenience](/post/convenience/) [of](/post/of/) managing [their](/post/their/) schedules on-the-go."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [location](/post/location/) was chosen [for](/post/for/) [its](/post/its/) [high](/post/high/) [level](/post/level/) [of](/post/of/) [convenience](/post/convenience/)."
 
 ## Synonyms
-- [Ease](/en/post/ease/)
+- [Ease](/post/ease/)
 - Practicality
 - Handiness
 - Accessibility
-- [Facility](/en/post/facility/)
+- [Facility](/post/facility/)
 
 ## Antonyms
 - Inconvenience
-- [Difficulty](/en/post/difficulty/)
+- [Difficulty](/post/difficulty/)
 - Complication
 - Unconvenience
 - Inconveniency

@@ -12,30 +12,30 @@ keywords = ['ai words', 'scale']
 
 ## 释义
 - **名词**:
-   - 尺度，比例尺：[A](/post/a/) graduated [measure](/post/measure/), [especially](/post/especially/) [one](/post/one/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [standard](/post/standard/) [of](/post/of/) [measurement](/post/measurement/).
-   - 鱼鳞：[The](/post/the/) [thin](/post/thin/), overlapping plates [that](/post/that/) [cover](/post/cover/) [the](/post/the/) [skin](/post/skin/) [of](/post/of/) [fish](/post/fish/).
-   - 大小，规模：[The](/post/the/) [relative](/post/relative/) [size](/post/size/) [or](/post/or/) [extent](/post/extent/) [of](/post/of/) [something](/post/something/).
-   - 重量，磅秤：An [instrument](/post/instrument/) [for](/post/for/) weighing.
-   - (音乐)音阶：[A](/post/a/) [series](/post/series/) [of](/post/of/) notes [in](/post/in/) ascending [or](/post/or/) descending [order](/post/order/).
+   - 尺度，比例尺：[A](/zh/post/a/) graduated [measure](/zh/post/measure/), [especially](/zh/post/especially/) [one](/zh/post/one/) [used](/zh/post/used/) [as](/zh/post/as/) [a](/zh/post/a/) [standard](/zh/post/standard/) [of](/zh/post/of/) [measurement](/zh/post/measurement/).
+   - 鱼鳞：[The](/zh/post/the/) [thin](/zh/post/thin/), overlapping plates [that](/zh/post/that/) [cover](/zh/post/cover/) [the](/zh/post/the/) [skin](/zh/post/skin/) [of](/zh/post/of/) [fish](/zh/post/fish/).
+   - 大小，规模：[The](/zh/post/the/) [relative](/zh/post/relative/) [size](/zh/post/size/) [or](/zh/post/or/) [extent](/zh/post/extent/) [of](/zh/post/of/) [something](/zh/post/something/).
+   - 重量，磅秤：An [instrument](/zh/post/instrument/) [for](/zh/post/for/) weighing.
+   - (音乐)音阶：[A](/zh/post/a/) [series](/zh/post/series/) [of](/zh/post/of/) notes [in](/zh/post/in/) ascending [or](/zh/post/or/) descending [order](/zh/post/order/).
 
 - **动词**:
-   - 攀登，翻越：[To](/post/to/) ascend [or](/post/or/) [descend](/post/descend/) [by](/post/by/) [means](/post/means/) [of](/post/of/) [a](/post/a/) [ladder](/post/ladder/) [or](/post/or/) [by](/post/by/) climbing.
-   - 去除鱼鳞：[To](/post/to/) [remove](/post/remove/) [the](/post/the/) scales [from](/post/from/) [a](/post/a/) [fish](/post/fish/).
-   - 规模调整：[To](/post/to/) [adjust](/post/adjust/) [the](/post/the/) [size](/post/size/) [or](/post/or/) dimensions [of](/post/of/) [something](/post/something/).
+   - 攀登，翻越：[To](/zh/post/to/) ascend [or](/zh/post/or/) [descend](/zh/post/descend/) [by](/zh/post/by/) [means](/zh/post/means/) [of](/zh/post/of/) [a](/zh/post/a/) [ladder](/zh/post/ladder/) [or](/zh/post/or/) [by](/zh/post/by/) climbing.
+   - 去除鱼鳞：[To](/zh/post/to/) [remove](/zh/post/remove/) [the](/zh/post/the/) scales [from](/zh/post/from/) [a](/zh/post/a/) [fish](/zh/post/fish/).
+   - 规模调整：[To](/zh/post/to/) [adjust](/zh/post/adjust/) [the](/zh/post/the/) [size](/zh/post/size/) [or](/zh/post/or/) dimensions [of](/zh/post/of/) [something](/zh/post/something/).
 
 ## 短语
-- "[scale](/post/scale/) [a](/post/a/) [mountain](/post/mountain/)" 攀登山峰。
-- "[scale](/post/scale/) [down](/post/down/)" 缩小规模或尺寸。
-- "[scale](/post/scale/) [up](/post/up/)" 扩大规模或尺寸。
+- "[scale](/zh/post/scale/) [a](/zh/post/a/) [mountain](/zh/post/mountain/)" 攀登山峰。
+- "[scale](/zh/post/scale/) [down](/zh/post/down/)" 缩小规模或尺寸。
+- "[scale](/zh/post/scale/) [up](/zh/post/up/)" 扩大规模或尺寸。
 
 ## 例句
-- 名词: "[The](/post/the/) [map](/post/map/) uses [a](/post/a/) [scale](/post/scale/) [of](/post/of/) [one](/post/one/) [inch](/post/inch/) [to](/post/to/) [ten](/post/ten/) miles."
-- 动词: "[He](/post/he/) scaled [the](/post/the/) [tall](/post/tall/) [building](/post/building/) [in](/post/in/) [record](/post/record/) [time](/post/time/)."
-- 音乐: "She's practicing [the](/post/the/) C [major](/post/major/) [scale](/post/scale/) [on](/post/on/) [her](/post/her/) [piano](/post/piano/)."
+- 名词: "[The](/zh/post/the/) [map](/zh/post/map/) uses [a](/zh/post/a/) [scale](/zh/post/scale/) [of](/zh/post/of/) [one](/zh/post/one/) [inch](/zh/post/inch/) [to](/zh/post/to/) [ten](/zh/post/ten/) miles."
+- 动词: "[He](/zh/post/he/) scaled [the](/zh/post/the/) [tall](/zh/post/tall/) [building](/zh/post/building/) [in](/zh/post/in/) [record](/zh/post/record/) [time](/zh/post/time/)."
+- 音乐: "She's practicing [the](/zh/post/the/) C [major](/zh/post/major/) [scale](/zh/post/scale/) [on](/zh/post/on/) [her](/zh/post/her/) [piano](/zh/post/piano/)."
 
 ## 同义词
-- [Size](/post/size/)
-- [Proportion](/post/proportion/)
-- [Measure](/post/measure/)
-- [Dimension](/post/dimension/)
-- [Range](/post/range/)
+- [Size](/zh/post/size/)
+- [Proportion](/zh/post/proportion/)
+- [Measure](/zh/post/measure/)
+- [Dimension](/zh/post/dimension/)
+- [Range](/zh/post/range/)

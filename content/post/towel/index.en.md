@@ -7,39 +7,39 @@ description = '[ˈtauəl] n.毛巾，手巾'
 keywords = ['ai words', 'towel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /təˈwaʊl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [towel](/en/post/towel/)** is [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) absorbent [fabric](/en/post/fabric/), [often](/en/post/often/) made [of](/en/post/of/) [cotton](/en/post/cotton/), [used](/en/post/used/) [for](/en/post/for/) drying [oneself](/en/post/oneself/) [after](/en/post/after/) washing [or](/en/post/or/) swimming, [or](/en/post/or/) [for](/en/post/for/) wiping surfaces.
-- **[Towel](/en/post/towel/) [rack](/en/post/rack/)** [or](/en/post/or/) **[towel](/en/post/towel/) holder**: [A](/en/post/a/) [device](/en/post/device/) [used](/en/post/used/) [for](/en/post/for/) hanging towels [to](/en/post/to/) [dry](/en/post/dry/).
+### [Noun](/post/noun/)
+- **[A](/post/a/) [towel](/post/towel/)** is [a](/post/a/) [piece](/post/piece/) [of](/post/of/) absorbent [fabric](/post/fabric/), [often](/post/often/) made [of](/post/of/) [cotton](/post/cotton/), [used](/post/used/) [for](/post/for/) drying [oneself](/post/oneself/) [after](/post/after/) washing [or](/post/or/) swimming, [or](/post/or/) [for](/post/for/) wiping surfaces.
+- **[Towel](/post/towel/) [rack](/post/rack/)** [or](/post/or/) **[towel](/post/towel/) holder**: [A](/post/a/) [device](/post/device/) [used](/post/used/) [for](/post/for/) hanging towels [to](/post/to/) [dry](/post/dry/).
 
 ## Phrases
-- "[Dry](/en/post/dry/) [off](/en/post/off/) [with](/en/post/with/) [a](/en/post/a/) [towel](/en/post/towel/)"
-- "[fold](/en/post/fold/) [a](/en/post/a/) [towel](/en/post/towel/) neatly"
-- "[hang](/en/post/hang/) towels [in](/en/post/in/) [the](/en/post/the/) [bathroom](/en/post/bathroom/)"
+- "[Dry](/post/dry/) [off](/post/off/) [with](/post/with/) [a](/post/a/) [towel](/post/towel/)"
+- "[fold](/post/fold/) [a](/post/a/) [towel](/post/towel/) neatly"
+- "[hang](/post/hang/) towels [in](/post/in/) [the](/post/the/) [bathroom](/post/bathroom/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) [shower](/en/post/shower/), [she](/en/post/she/) wrapped [herself](/en/post/herself/) [in](/en/post/in/) [a](/en/post/a/) fluffy [towel](/en/post/towel/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [hotel](/en/post/hotel/) [provided](/en/post/provided/) guests [with](/en/post/with/) [fresh](/en/post/fresh/) towels [every](/en/post/every/) [day](/en/post/day/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) hung [the](/en/post/the/) [damp](/en/post/damp/) [towel](/en/post/towel/) [on](/en/post/on/) [the](/en/post/the/) [rack](/en/post/rack/) [to](/en/post/to/) [air](/en/post/air/) [out](/en/post/out/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) [shower](/post/shower/), [she](/post/she/) wrapped [herself](/post/herself/) [in](/post/in/) [a](/post/a/) fluffy [towel](/post/towel/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [hotel](/post/hotel/) [provided](/post/provided/) guests [with](/post/with/) [fresh](/post/fresh/) towels [every](/post/every/) [day](/post/day/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) hung [the](/post/the/) [damp](/post/damp/) [towel](/post/towel/) [on](/post/on/) [the](/post/the/) [rack](/post/rack/) [to](/post/to/) [air](/post/air/) [out](/post/out/)."
 
-## [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [towel](/en/post/towel/) [off](/en/post/off/)**: [To](/en/post/to/) [dry](/en/post/dry/) [oneself](/en/post/oneself/) [or](/en/post/or/) [another](/en/post/another/) [person](/en/post/person/) using [a](/en/post/a/) [towel](/en/post/towel/).
-- **[To](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [towel](/en/post/towel/)**: [To](/en/post/to/) [wipe](/en/post/wipe/) [or](/en/post/or/) [clean](/en/post/clean/) [with](/en/post/with/) [a](/en/post/a/) [towel](/en/post/towel/).
+## [Verb](/post/verb/)
+- **[To](/post/to/) [towel](/post/towel/) [off](/post/off/)**: [To](/post/to/) [dry](/post/dry/) [oneself](/post/oneself/) [or](/post/or/) [another](/post/another/) [person](/post/person/) using [a](/post/a/) [towel](/post/towel/).
+- **[To](/post/to/) [use](/post/use/) [a](/post/a/) [towel](/post/towel/)**: [To](/post/to/) [wipe](/post/wipe/) [or](/post/or/) [clean](/post/clean/) [with](/post/with/) [a](/post/a/) [towel](/post/towel/).
 
-## [Example](/en/post/example/) Sentences ([as](/en/post/as/) [verb](/en/post/verb/))
-- "[He](/en/post/he/) towel-dried [his](/en/post/his/) [hair](/en/post/hair/) [before](/en/post/before/) getting dressed."
-- "[She](/en/post/she/) [gently](/en/post/gently/) patted [her](/en/post/her/) dog's [fur](/en/post/fur/) [dry](/en/post/dry/) [with](/en/post/with/) [a](/en/post/a/) [towel](/en/post/towel/)."
+## [Example](/post/example/) Sentences ([as](/post/as/) [verb](/post/verb/))
+- "[He](/post/he/) towel-dried [his](/post/his/) [hair](/post/hair/) [before](/post/before/) getting dressed."
+- "[She](/post/she/) [gently](/post/gently/) patted [her](/post/her/) dog's [fur](/post/fur/) [dry](/post/dry/) [with](/post/with/) [a](/post/a/) [towel](/post/towel/)."
 
 ## Synonyms
 - Towellette
-- [Handkerchief](/en/post/handkerchief/) (smaller, [usually](/en/post/usually/) [for](/en/post/for/) facial [use](/en/post/use/))
-- [Sponge](/en/post/sponge/) ([for](/en/post/for/) cleaning tasks)
-- [Cloth](/en/post/cloth/) ([less](/en/post/less/) absorbent)
-- [Bath](/en/post/bath/) [sheet](/en/post/sheet/) (larger [than](/en/post/than/) [a](/en/post/a/) [regular](/en/post/regular/) [towel](/en/post/towel/))
+- [Handkerchief](/post/handkerchief/) (smaller, [usually](/post/usually/) [for](/post/for/) facial [use](/post/use/))
+- [Sponge](/post/sponge/) ([for](/post/for/) cleaning tasks)
+- [Cloth](/post/cloth/) ([less](/post/less/) absorbent)
+- [Bath](/post/bath/) [sheet](/post/sheet/) (larger [than](/post/than/) [a](/post/a/) [regular](/post/regular/) [towel](/post/towel/))
 
-## [Other](/en/post/other/) Parts [of](/en/post/of/) [Speech](/en/post/speech/)
-- [Adjective](/en/post/adjective/): **Towel-like** - having [a](/en/post/a/) texture [or](/en/post/or/) [appearance](/en/post/appearance/) [similar](/en/post/similar/) [to](/en/post/to/) [a](/en/post/a/) [towel](/en/post/towel/) (e.g., [a](/en/post/a/) [rough](/en/post/rough/) towel-like [surface](/en/post/surface/)).
-- [Adverb](/en/post/adverb/): **Towel-dry** - [in](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) involves using [a](/en/post/a/) [towel](/en/post/towel/) [for](/en/post/for/) drying (e.g., [hair](/en/post/hair/) dried towel-dry).
+## [Other](/post/other/) Parts [of](/post/of/) [Speech](/post/speech/)
+- [Adjective](/post/adjective/): **Towel-like** - having [a](/post/a/) texture [or](/post/or/) [appearance](/post/appearance/) [similar](/post/similar/) [to](/post/to/) [a](/post/a/) [towel](/post/towel/) (e.g., [a](/post/a/) [rough](/post/rough/) towel-like [surface](/post/surface/)).
+- [Adverb](/post/adverb/): **Towel-dry** - [in](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) involves using [a](/post/a/) [towel](/post/towel/) [for](/post/for/) drying (e.g., [hair](/post/hair/) dried towel-dry).

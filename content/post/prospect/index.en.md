@@ -7,44 +7,44 @@ description = '[ˈprɔspekt] n.展望；前景，前程'
 keywords = ['ai words', 'prospect']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈspekt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Prospect](/en/post/prospect/)**: (1) [A](/en/post/a/) [view](/en/post/view/) [or](/en/post/or/) [scene](/en/post/scene/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is pleasing [or](/en/post/or/) [promising](/en/post/promising/). [Example](/en/post/example/): "[The](/en/post/the/) [prospect](/en/post/prospect/) [of](/en/post/of/) [a](/en/post/a/) [sunny](/en/post/sunny/) [day](/en/post/day/) [ahead](/en/post/ahead/) was [very](/en/post/very/) appealing."
-- (2) [A](/en/post/a/) [possibility](/en/post/possibility/) [or](/en/post/or/) [potential](/en/post/potential/) [outcome](/en/post/outcome/). [Example](/en/post/example/): "[There](/en/post/there/) are [promising](/en/post/promising/) [career](/en/post/career/) prospects [in](/en/post/in/) [the](/en/post/the/) tech [industry](/en/post/industry/)."
-- (3) [A](/en/post/a/) [person](/en/post/person/) considered [for](/en/post/for/) [marriage](/en/post/marriage/) [or](/en/post/or/) [business](/en/post/business/) engagement. [Example](/en/post/example/): "He's [a](/en/post/a/) [promising](/en/post/promising/) [prospect](/en/post/prospect/) [for](/en/post/for/) [her](/en/post/her/) daughter's [future](/en/post/future/)."
+### [Noun](/post/noun/)
+- **[Prospect](/post/prospect/)**: (1) [A](/post/a/) [view](/post/view/) [or](/post/or/) [scene](/post/scene/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is pleasing [or](/post/or/) [promising](/post/promising/). [Example](/post/example/): "[The](/post/the/) [prospect](/post/prospect/) [of](/post/of/) [a](/post/a/) [sunny](/post/sunny/) [day](/post/day/) [ahead](/post/ahead/) was [very](/post/very/) appealing."
+- (2) [A](/post/a/) [possibility](/post/possibility/) [or](/post/or/) [potential](/post/potential/) [outcome](/post/outcome/). [Example](/post/example/): "[There](/post/there/) are [promising](/post/promising/) [career](/post/career/) prospects [in](/post/in/) [the](/post/the/) tech [industry](/post/industry/)."
+- (3) [A](/post/a/) [person](/post/person/) considered [for](/post/for/) [marriage](/post/marriage/) [or](/post/or/) [business](/post/business/) engagement. [Example](/post/example/): "He's [a](/post/a/) [promising](/post/promising/) [prospect](/post/prospect/) [for](/post/for/) [her](/post/her/) daughter's [future](/post/future/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [prospect](/en/post/prospect/)**: (1) [To](/en/post/to/) [search](/en/post/search/) [or](/en/post/or/) [explore](/en/post/explore/) [for](/en/post/for/) minerals, [oil](/en/post/oil/), [or](/en/post/or/) [other](/en/post/other/) [valuable](/en/post/valuable/) resources. [Example](/en/post/example/): "[The](/en/post/the/) miners were prospecting [for](/en/post/for/) [gold](/en/post/gold/) [in](/en/post/in/) [the](/en/post/the/) mountains."
-- (2) ([Business](/en/post/business/)) [To](/en/post/to/) [look](/en/post/look/) [for](/en/post/for/) [new](/en/post/new/) customers [or](/en/post/or/) opportunities. [Example](/en/post/example/): "[The](/en/post/the/) sales [team](/en/post/team/) is prospecting [for](/en/post/for/) [new](/en/post/new/) clients [in](/en/post/in/) [the](/en/post/the/) [local](/en/post/local/) [market](/en/post/market/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [prospect](/post/prospect/)**: (1) [To](/post/to/) [search](/post/search/) [or](/post/or/) [explore](/post/explore/) [for](/post/for/) minerals, [oil](/post/oil/), [or](/post/or/) [other](/post/other/) [valuable](/post/valuable/) resources. [Example](/post/example/): "[The](/post/the/) miners were prospecting [for](/post/for/) [gold](/post/gold/) [in](/post/in/) [the](/post/the/) mountains."
+- (2) ([Business](/post/business/)) [To](/post/to/) [look](/post/look/) [for](/post/for/) [new](/post/new/) customers [or](/post/or/) opportunities. [Example](/post/example/): "[The](/post/the/) sales [team](/post/team/) is prospecting [for](/post/for/) [new](/post/new/) clients [in](/post/in/) [the](/post/the/) [local](/post/local/) [market](/post/market/)."
 
 ## Phrases
-- "[Real](/en/post/real/) estate [prospect](/en/post/prospect/)" refers [to](/en/post/to/) [a](/en/post/a/) [property](/en/post/property/) listing [or](/en/post/or/) viewing.
-- "[Career](/en/post/career/) [prospect](/en/post/prospect/)" denotes [job](/en/post/job/) opportunities [or](/en/post/or/) advancement possibilities.
-- "Prospecting [trip](/en/post/trip/)" is [a](/en/post/a/) [journey](/en/post/journey/) [to](/en/post/to/) [explore](/en/post/explore/) [and](/en/post/and/) [evaluate](/en/post/evaluate/) [a](/en/post/a/) [resource](/en/post/resource/) [site](/en/post/site/).
+- "[Real](/post/real/) estate [prospect](/post/prospect/)" refers [to](/post/to/) [a](/post/a/) [property](/post/property/) listing [or](/post/or/) viewing.
+- "[Career](/post/career/) [prospect](/post/prospect/)" denotes [job](/post/job/) opportunities [or](/post/or/) advancement possibilities.
+- "Prospecting [trip](/post/trip/)" is [a](/post/a/) [journey](/post/journey/) [to](/post/to/) [explore](/post/explore/) [and](/post/and/) [evaluate](/post/evaluate/) [a](/post/a/) [resource](/post/resource/) [site](/post/site/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [real](/en/post/real/) estate [agent](/en/post/agent/) showed [us](/en/post/us/) [several](/en/post/several/) properties [with](/en/post/with/) stunning prospects."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) graduating, [he](/en/post/he/) began prospecting [for](/en/post/for/) [job](/en/post/job/) openings [in](/en/post/in/) [his](/en/post/his/) [field](/en/post/field/)."
-- **Prospecting**: "[The](/en/post/the/) geologists were [out](/en/post/out/) prospecting [for](/en/post/for/) signs [of](/en/post/of/) [mineral](/en/post/mineral/) deposits [in](/en/post/in/) [the](/en/post/the/) [area](/en/post/area/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [real](/post/real/) estate [agent](/post/agent/) showed [us](/post/us/) [several](/post/several/) properties [with](/post/with/) stunning prospects."
+- **[Verb](/post/verb/)**: "[After](/post/after/) graduating, [he](/post/he/) began prospecting [for](/post/for/) [job](/post/job/) openings [in](/post/in/) [his](/post/his/) [field](/post/field/)."
+- **Prospecting**: "[The](/post/the/) geologists were [out](/post/out/) prospecting [for](/post/for/) signs [of](/post/of/) [mineral](/post/mineral/) deposits [in](/post/in/) [the](/post/the/) [area](/post/area/)."
 
 ## Synonyms
-- [Outlook](/en/post/outlook/)
-- [Potential](/en/post/potential/)
-- [Chance](/en/post/chance/)
-- [Opportunity](/en/post/opportunity/)
-- [Expectation](/en/post/expectation/)
-- [Future](/en/post/future/) [possibility](/en/post/possibility/)
-- [Hope](/en/post/hope/)
-- [Promise](/en/post/promise/)
+- [Outlook](/post/outlook/)
+- [Potential](/post/potential/)
+- [Chance](/post/chance/)
+- [Opportunity](/post/opportunity/)
+- [Expectation](/post/expectation/)
+- [Future](/post/future/) [possibility](/post/possibility/)
+- [Hope](/post/hope/)
+- [Promise](/post/promise/)
 - Contingency
 
 ## Antonyms
-- [Risk](/en/post/risk/)
+- [Risk](/post/risk/)
 - Improbability
 - Uncertainty
-- [Collapse](/en/post/collapse/)
+- [Collapse](/post/collapse/)
 - Diminishment
-- [Failure](/en/post/failure/)
+- [Failure](/post/failure/)

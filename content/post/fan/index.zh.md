@@ -12,20 +12,20 @@ keywords = ['ai words', 'fan']
 
 ## 释义
 - **名词**: 
-  - 迷，狂热爱好者：[A](/post/a/) [person](/post/person/) [who](/post/who/) is [very](/post/very/) [enthusiastic](/post/enthusiastic/) [about](/post/about/) [a](/post/a/) [particular](/post/particular/) [person](/post/person/), [group](/post/group/), [or](/post/or/) [activity](/post/activity/).
-  - 风扇：An [object](/post/object/) [used](/post/used/) [for](/post/for/) creating [a](/post/a/) [flow](/post/flow/) [of](/post/of/) [air](/post/air/), typically electrically powered.
+  - 迷，狂热爱好者：[A](/zh/post/a/) [person](/zh/post/person/) [who](/zh/post/who/) is [very](/zh/post/very/) [enthusiastic](/zh/post/enthusiastic/) [about](/zh/post/about/) [a](/zh/post/a/) [particular](/zh/post/particular/) [person](/zh/post/person/), [group](/zh/post/group/), [or](/zh/post/or/) [activity](/zh/post/activity/).
+  - 风扇：An [object](/zh/post/object/) [used](/zh/post/used/) [for](/zh/post/for/) creating [a](/zh/post/a/) [flow](/zh/post/flow/) [of](/zh/post/of/) [air](/zh/post/air/), typically electrically powered.
 
 - **动词**:
-  - 成为某人的粉丝：[To](/post/to/) [become](/post/become/) an enthusiast [or](/post/or/) follower [of](/post/of/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/).
+  - 成为某人的粉丝：[To](/zh/post/to/) [become](/zh/post/become/) an enthusiast [or](/zh/post/or/) follower [of](/zh/post/of/) [someone](/zh/post/someone/) [or](/zh/post/or/) [something](/zh/post/something/).
 
 ## 短语
-- "[be](/post/be/) [a](/post/a/) [fan](/post/fan/) [of](/post/of/) [someone](/post/someone/)/[something](/post/something/)" 意味着非常喜欢某人或某事物。
-- "[fan](/post/fan/) [the](/post/the/) flames" 比喻加剧冲突或情绪。
-- "[switch](/post/switch/) [on](/post/on/)/[off](/post/off/) [the](/post/the/) [fan](/post/fan/)" 开启或关闭风扇。
+- "[be](/zh/post/be/) [a](/zh/post/a/) [fan](/zh/post/fan/) [of](/zh/post/of/) [someone](/zh/post/someone/)/[something](/zh/post/something/)" 意味着非常喜欢某人或某事物。
+- "[fan](/zh/post/fan/) [the](/zh/post/the/) flames" 比喻加剧冲突或情绪。
+- "[switch](/zh/post/switch/) [on](/zh/post/on/)/[off](/zh/post/off/) [the](/zh/post/the/) [fan](/zh/post/fan/)" 开启或关闭风扇。
 
 ## 例句
-- 名词: "She's [a](/post/a/) [big](/post/big/) [fan](/post/fan/) [of](/post/of/) Taylor [Swift](/post/swift/) [and](/post/and/) attends [all](/post/all/) [her](/post/her/) concerts."
-- 动词: "[After](/post/after/) watching [his](/post/his/) [first](/post/first/) [match](/post/match/), John [instantly](/post/instantly/) fanned [himself](/post/himself/) [into](/post/into/) [a](/post/a/) [soccer](/post/soccer/) enthusiast."
+- 名词: "She's [a](/zh/post/a/) [big](/zh/post/big/) [fan](/zh/post/fan/) [of](/zh/post/of/) Taylor [Swift](/zh/post/swift/) [and](/zh/post/and/) attends [all](/zh/post/all/) [her](/zh/post/her/) concerts."
+- 动词: "[After](/zh/post/after/) watching [his](/zh/post/his/) [first](/zh/post/first/) [match](/zh/post/match/), John [instantly](/zh/post/instantly/) fanned [himself](/zh/post/himself/) [into](/zh/post/into/) [a](/zh/post/a/) [soccer](/zh/post/soccer/) enthusiast."
 
 ## 同义词
 - Admirer

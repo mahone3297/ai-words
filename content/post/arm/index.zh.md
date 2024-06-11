@@ -11,22 +11,22 @@ keywords = ['ai words', 'arm']
 /ɑːrm/
 
 ## 释义
-- **名词 (n)**: 身体的一部分，从肩膀到手腕的部分。例如: "[He](/post/he/) raised [his](/post/his/) [arm](/post/arm/) [to](/post/to/) [signal](/post/signal/) [for](/post/for/) [help](/post/help/)."
-- **名词**: 在某些机械或设备中，延伸部分，如机器人手臂或吊车的伸缩臂。例如: "[The](/post/the/) crane's [long](/post/long/) [arm](/post/arm/) lifted [the](/post/the/) [heavy](/post/heavy/) [load](/post/load/) [easily](/post/easily/)."
-- **动词 (v)**: 使用手臂进行某种动作。例如: "[She](/post/she/) armed [herself](/post/herself/) [with](/post/with/) [a](/post/a/) shovel [to](/post/to/) [dig](/post/dig/) [the](/post/the/) [garden](/post/garden/)."
+- **名词 (n)**: 身体的一部分，从肩膀到手腕的部分。例如: "[He](/zh/post/he/) raised [his](/zh/post/his/) [arm](/zh/post/arm/) [to](/zh/post/to/) [signal](/zh/post/signal/) [for](/zh/post/for/) [help](/zh/post/help/)."
+- **名词**: 在某些机械或设备中，延伸部分，如机器人手臂或吊车的伸缩臂。例如: "[The](/zh/post/the/) crane's [long](/zh/post/long/) [arm](/zh/post/arm/) lifted [the](/zh/post/the/) [heavy](/zh/post/heavy/) [load](/zh/post/load/) [easily](/zh/post/easily/)."
+- **动词 (v)**: 使用手臂进行某种动作。例如: "[She](/zh/post/she/) armed [herself](/zh/post/herself/) [with](/zh/post/with/) [a](/zh/post/a/) shovel [to](/zh/post/to/) [dig](/zh/post/dig/) [the](/zh/post/the/) [garden](/zh/post/garden/)."
 
 ## 短语
-- "[arm](/post/arm/) [in](/post/in/) [arm](/post/arm/)" 手挽手，形容亲密或团结的状态。例如: "[They](/post/they/) walked [down](/post/down/) [the](/post/the/) [street](/post/street/) [arm](/post/arm/) [in](/post/in/) [arm](/post/arm/)."
-- "[be](/post/be/) armed [to](/post/to/) [the](/post/the/) teeth" 形容装备精良或准备充分。例如: "[The](/post/the/) [army](/post/army/) was armed [to](/post/to/) [the](/post/the/) teeth [for](/post/for/) [the](/post/the/) [battle](/post/battle/)."
+- "[arm](/zh/post/arm/) [in](/zh/post/in/) [arm](/zh/post/arm/)" 手挽手，形容亲密或团结的状态。例如: "[They](/zh/post/they/) walked [down](/zh/post/down/) [the](/zh/post/the/) [street](/zh/post/street/) [arm](/zh/post/arm/) [in](/zh/post/in/) [arm](/zh/post/arm/)."
+- "[be](/zh/post/be/) armed [to](/zh/post/to/) [the](/zh/post/the/) teeth" 形容装备精良或准备充分。例如: "[The](/zh/post/the/) [army](/zh/post/army/) was armed [to](/zh/post/to/) [the](/zh/post/the/) teeth [for](/zh/post/for/) [the](/zh/post/the/) [battle](/zh/post/battle/)."
 
 ## 例句
-- 名词: "[He](/post/he/) flexed [his](/post/his/) [strong](/post/strong/) arms [after](/post/after/) [the](/post/the/) workout."
-- 动词: "[She](/post/she/) armed [the](/post/the/) [security](/post/security/) [system](/post/system/) [before](/post/before/) leaving [the](/post/the/) [house](/post/house/)."
-- 动词短语: "[The](/post/the/) [robot](/post/robot/) was designed [to](/post/to/) [arm](/post/arm/) [and](/post/and/) disarm bombs."
+- 名词: "[He](/zh/post/he/) flexed [his](/zh/post/his/) [strong](/zh/post/strong/) arms [after](/zh/post/after/) [the](/zh/post/the/) workout."
+- 动词: "[She](/zh/post/she/) armed [the](/zh/post/the/) [security](/zh/post/security/) [system](/zh/post/system/) [before](/zh/post/before/) leaving [the](/zh/post/the/) [house](/zh/post/house/)."
+- 动词短语: "[The](/zh/post/the/) [robot](/zh/post/robot/) was designed [to](/zh/post/to/) [arm](/zh/post/arm/) [and](/zh/post/and/) disarm bombs."
 
 ## 同义词
-- [Limb](/post/limb/)
-- [Wrist](/post/wrist/)
-- [Upper](/post/upper/) [limb](/post/limb/)
-- Shoulders ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [the](/post/the/) [whole](/post/whole/) [upper](/post/upper/) [body](/post/body/))
-- [Weapon](/post/weapon/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [being](/post/being/) equipped [or](/post/or/) armed)
+- [Limb](/zh/post/limb/)
+- [Wrist](/zh/post/wrist/)
+- [Upper](/zh/post/upper/) [limb](/zh/post/limb/)
+- Shoulders ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [the](/zh/post/the/) [whole](/zh/post/whole/) [upper](/zh/post/upper/) [body](/zh/post/body/))
+- [Weapon](/zh/post/weapon/) ([in](/zh/post/in/) [the](/zh/post/the/) [sense](/zh/post/sense/) [of](/zh/post/of/) [being](/zh/post/being/) equipped [or](/zh/post/or/) armed)

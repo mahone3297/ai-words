@@ -7,27 +7,27 @@ description = '[wɔː] n.战争；冲突，斗争'
 keywords = ['ai words', 'war']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɔː(r)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) armed [conflict](/en/post/conflict/) [between](/en/post/between/) nations [or](/en/post/or/) [other](/en/post/other/) [political](/en/post/political/) groups. 2. [A](/en/post/a/) large-scale [fight](/en/post/fight/) [or](/en/post/or/) [battle](/en/post/battle/), [often](/en/post/often/) resulting [in](/en/post/in/) [significant](/en/post/significant/) [loss](/en/post/loss/) [of](/en/post/of/) [life](/en/post/life/). 3. [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [intense](/en/post/intense/) hostility [or](/en/post/or/) strife. 4. (informal) [A](/en/post/a/) [serious](/en/post/serious/) disagreement [or](/en/post/or/) [conflict](/en/post/conflict/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) initiate [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) warfare; [wage](/en/post/wage/) [war](/en/post/war/). 2. [To](/en/post/to/) [cause](/en/post/cause/) [or](/en/post/or/) [contribute](/en/post/contribute/) [to](/en/post/to/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [war](/en/post/war/).
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) involving [war](/en/post/war/); martial.
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [state](/post/state/) [of](/post/of/) armed [conflict](/post/conflict/) [between](/post/between/) nations [or](/post/or/) [other](/post/other/) [political](/post/political/) groups. 2. [A](/post/a/) large-scale [fight](/post/fight/) [or](/post/or/) [battle](/post/battle/), [often](/post/often/) resulting [in](/post/in/) [significant](/post/significant/) [loss](/post/loss/) [of](/post/of/) [life](/post/life/). 3. [A](/post/a/) [period](/post/period/) [of](/post/of/) [intense](/post/intense/) hostility [or](/post/or/) strife. 4. (informal) [A](/post/a/) [serious](/post/serious/) disagreement [or](/post/or/) [conflict](/post/conflict/).
+- **[Verb](/post/verb/)**: [To](/post/to/) initiate [or](/post/or/) [engage](/post/engage/) [in](/post/in/) warfare; [wage](/post/wage/) [war](/post/war/). 2. [To](/post/to/) [cause](/post/cause/) [or](/post/or/) [contribute](/post/contribute/) [to](/post/to/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [war](/post/war/).
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) involving [war](/post/war/); martial.
 
 ## Phrases
-- "[Declare](/en/post/declare/) [war](/en/post/war/) [on](/en/post/on/)" [means](/en/post/means/) [to](/en/post/to/) formally [announce](/en/post/announce/) [hostile](/en/post/hostile/) intentions towards [another](/en/post/another/) [country](/en/post/country/) [or](/en/post/or/) entity.
-- "[At](/en/post/at/) [war](/en/post/war/) [with](/en/post/with/)" describes [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [open](/en/post/open/) [conflict](/en/post/conflict/).
-- "War-torn" describes [a](/en/post/a/) [place](/en/post/place/) [severely](/en/post/severely/) affected [by](/en/post/by/) [war](/en/post/war/).
+- "[Declare](/post/declare/) [war](/post/war/) [on](/post/on/)" [means](/post/means/) [to](/post/to/) formally [announce](/post/announce/) [hostile](/post/hostile/) intentions towards [another](/post/another/) [country](/post/country/) [or](/post/or/) entity.
+- "[At](/post/at/) [war](/post/war/) [with](/post/with/)" describes [a](/post/a/) [state](/post/state/) [of](/post/of/) [open](/post/open/) [conflict](/post/conflict/).
+- "War-torn" describes [a](/post/a/) [place](/post/place/) [severely](/post/severely/) affected [by](/post/by/) [war](/post/war/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [two](/en/post/two/) countries were [at](/en/post/at/) [war](/en/post/war/) [for](/en/post/for/) decades, causing [immense](/en/post/immense/) suffering."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) alliance decided [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [war](/en/post/war/) [against](/en/post/against/) [the](/en/post/the/) oppressors."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) war-ravaged [village](/en/post/village/) had [little](/en/post/little/) [left](/en/post/left/) standing."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [two](/post/two/) countries were [at](/post/at/) [war](/post/war/) [for](/post/for/) decades, causing [immense](/post/immense/) suffering."
+- **[Verb](/post/verb/)**: "[The](/post/the/) alliance decided [to](/post/to/) [go](/post/go/) [to](/post/to/) [war](/post/war/) [against](/post/against/) [the](/post/the/) oppressors."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) war-ravaged [village](/post/village/) had [little](/post/little/) [left](/post/left/) standing."
 
 ## Synonyms
-- [Conflict](/en/post/conflict/)
-- [Battle](/en/post/battle/)
+- [Conflict](/post/conflict/)
+- [Battle](/post/battle/)
 - Combat
 - Strife
 - Hostility
@@ -35,9 +35,9 @@ keywords = ['ai words', 'war']
 - Warlike
 
 ## Antonyms
-- [Peace](/en/post/peace/)
-- [Harmony](/en/post/harmony/)
+- [Peace](/post/peace/)
+- [Harmony](/post/harmony/)
 - Tranquility
-- [Calm](/en/post/calm/)
+- [Calm](/post/calm/)
 - Cooperation
 - Diplomacy

@@ -7,35 +7,35 @@ description = '[ˈeəˌplein] n.飞机'
 keywords = ['ai words', 'airplane']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeɪrplæn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Aircraft](/en/post/aircraft/)**: [A](/en/post/a/) powered, fixed-wing [vehicle](/en/post/vehicle/) [that](/en/post/that/) flies [through](/en/post/through/) [the](/en/post/the/) [air](/en/post/air/), typically [with](/en/post/with/) [a](/en/post/a/) propeller [or](/en/post/or/) [jet](/en/post/jet/) engines, [for](/en/post/for/) [transportation](/en/post/transportation/) [or](/en/post/or/) [military](/en/post/military/) purposes. [Example](/en/post/example/): "[The](/en/post/the/) [airplane](/en/post/airplane/) soared [over](/en/post/over/) [the](/en/post/the/) mountains."
-- **[Airplane](/en/post/airplane/) [model](/en/post/model/)**: [A](/en/post/a/) miniature representation [of](/en/post/of/) an [actual](/en/post/actual/) [airplane](/en/post/airplane/), [often](/en/post/often/) made [for](/en/post/for/) [display](/en/post/display/) [or](/en/post/or/) [hobby](/en/post/hobby/) purposes. [Example](/en/post/example/): "[He](/en/post/he/) collected [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) [airplane](/en/post/airplane/) models [in](/en/post/in/) [his](/en/post/his/) [collection](/en/post/collection/)."
+### [Noun](/post/noun/)
+- **[Aircraft](/post/aircraft/)**: [A](/post/a/) powered, fixed-wing [vehicle](/post/vehicle/) [that](/post/that/) flies [through](/post/through/) [the](/post/the/) [air](/post/air/), typically [with](/post/with/) [a](/post/a/) propeller [or](/post/or/) [jet](/post/jet/) engines, [for](/post/for/) [transportation](/post/transportation/) [or](/post/or/) [military](/post/military/) purposes. [Example](/post/example/): "[The](/post/the/) [airplane](/post/airplane/) soared [over](/post/over/) [the](/post/the/) mountains."
+- **[Airplane](/post/airplane/) [model](/post/model/)**: [A](/post/a/) miniature representation [of](/post/of/) an [actual](/post/actual/) [airplane](/post/airplane/), [often](/post/often/) made [for](/post/for/) [display](/post/display/) [or](/post/or/) [hobby](/post/hobby/) purposes. [Example](/post/example/): "[He](/post/he/) collected [a](/post/a/) [variety](/post/variety/) [of](/post/of/) [airplane](/post/airplane/) models [in](/post/in/) [his](/post/his/) [collection](/post/collection/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [fly](/en/post/fly/) [in](/en/post/in/) an [airplane](/en/post/airplane/)**: [To](/en/post/to/) [travel](/en/post/travel/) [by](/en/post/by/) boarding an [aircraft](/en/post/aircraft/) [for](/en/post/for/) [transport](/en/post/transport/). [Example](/en/post/example/): "We'll [be](/en/post/be/) flying [to](/en/post/to/) Paris [on](/en/post/on/) [the](/en/post/the/) [morning](/en/post/morning/) [flight](/en/post/flight/)."
-- **[To](/en/post/to/) [board](/en/post/board/) an [airplane](/en/post/airplane/)**: [To](/en/post/to/) [enter](/en/post/enter/) an [aircraft](/en/post/aircraft/) [before](/en/post/before/) takeoff. [Example](/en/post/example/): "Passengers began boarding [the](/en/post/the/) [plane](/en/post/plane/) [as](/en/post/as/) [the](/en/post/the/) [gate](/en/post/gate/) opened."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [fly](/post/fly/) [in](/post/in/) an [airplane](/post/airplane/)**: [To](/post/to/) [travel](/post/travel/) [by](/post/by/) boarding an [aircraft](/post/aircraft/) [for](/post/for/) [transport](/post/transport/). [Example](/post/example/): "We'll [be](/post/be/) flying [to](/post/to/) Paris [on](/post/on/) [the](/post/the/) [morning](/post/morning/) [flight](/post/flight/)."
+- **[To](/post/to/) [board](/post/board/) an [airplane](/post/airplane/)**: [To](/post/to/) [enter](/post/enter/) an [aircraft](/post/aircraft/) [before](/post/before/) takeoff. [Example](/post/example/): "Passengers began boarding [the](/post/the/) [plane](/post/plane/) [as](/post/as/) [the](/post/the/) [gate](/post/gate/) opened."
 
-### [Adjective](/en/post/adjective/)
-- **Airplane-related**: Pertaining [to](/en/post/to/) airplanes, [their](/en/post/their/) [design](/en/post/design/), [or](/en/post/or/) [aviation](/en/post/aviation/). [Example](/en/post/example/): "[Airplane](/en/post/airplane/) enthusiasts [gather](/en/post/gather/) [at](/en/post/at/) [aviation](/en/post/aviation/) fairs."
+### [Adjective](/post/adjective/)
+- **Airplane-related**: Pertaining [to](/post/to/) airplanes, [their](/post/their/) [design](/post/design/), [or](/post/or/) [aviation](/post/aviation/). [Example](/post/example/): "[Airplane](/post/airplane/) enthusiasts [gather](/post/gather/) [at](/post/at/) [aviation](/post/aviation/) fairs."
 
 ## Phrases
-- "Boarding [pass](/en/post/pass/) [for](/en/post/for/) [the](/en/post/the/) [airplane](/en/post/airplane/)" is [a](/en/post/a/) [document](/en/post/document/) allowing passengers [to](/en/post/to/) [enter](/en/post/enter/) [the](/en/post/the/) [aircraft](/en/post/aircraft/).
-- "Flying [first](/en/post/first/) [class](/en/post/class/) [on](/en/post/on/) [the](/en/post/the/) [airplane](/en/post/airplane/)" refers [to](/en/post/to/) [a](/en/post/a/) premium [cabin](/en/post/cabin/) [experience](/en/post/experience/).
-- "[Airplane](/en/post/airplane/) [crash](/en/post/crash/)" is [a](/en/post/a/) tragic [event](/en/post/event/) involving [a](/en/post/a/) [plane](/en/post/plane/) [accident](/en/post/accident/).
+- "Boarding [pass](/post/pass/) [for](/post/for/) [the](/post/the/) [airplane](/post/airplane/)" is [a](/post/a/) [document](/post/document/) allowing passengers [to](/post/to/) [enter](/post/enter/) [the](/post/the/) [aircraft](/post/aircraft/).
+- "Flying [first](/post/first/) [class](/post/class/) [on](/post/on/) [the](/post/the/) [airplane](/post/airplane/)" refers [to](/post/to/) [a](/post/a/) premium [cabin](/post/cabin/) [experience](/post/experience/).
+- "[Airplane](/post/airplane/) [crash](/post/crash/)" is [a](/post/a/) tragic [event](/post/event/) involving [a](/post/a/) [plane](/post/plane/) [accident](/post/accident/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) airplane's [engine](/en/post/engine/) roared [as](/en/post/as/) [it](/en/post/it/) took [off](/en/post/off/) [from](/en/post/from/) [the](/en/post/the/) runway."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) hours [of](/en/post/of/) [delay](/en/post/delay/), [they](/en/post/they/) [finally](/en/post/finally/) boarded [the](/en/post/the/) [airplane](/en/post/airplane/) [and](/en/post/and/) settled [in](/en/post/in/) [for](/en/post/for/) [the](/en/post/the/) [long](/en/post/long/) [flight](/en/post/flight/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) futuristic [airplane](/en/post/airplane/) [design](/en/post/design/) was [a](/en/post/a/) marvel [of](/en/post/of/) [engineering](/en/post/engineering/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) airplane's [engine](/post/engine/) roared [as](/post/as/) [it](/post/it/) took [off](/post/off/) [from](/post/from/) [the](/post/the/) runway."
+- **[Verb](/post/verb/)**: "[After](/post/after/) hours [of](/post/of/) [delay](/post/delay/), [they](/post/they/) [finally](/post/finally/) boarded [the](/post/the/) [airplane](/post/airplane/) [and](/post/and/) settled [in](/post/in/) [for](/post/for/) [the](/post/the/) [long](/post/long/) [flight](/post/flight/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) futuristic [airplane](/post/airplane/) [design](/post/design/) was [a](/post/a/) marvel [of](/post/of/) [engineering](/post/engineering/)."
 
 ## Synonyms
-- [Aeroplane](/en/post/aeroplane/)
-- [Jet](/en/post/jet/)
-- Airship ([historical](/en/post/historical/))
-- [Flight](/en/post/flight/)
--[Aviation](/en/post/aviation/)
--蓝天之旅 (Bì lán zhī jì) (Chinese, [meaning](/en/post/meaning/) "[flight](/en/post/flight/) [through](/en/post/through/) [the](/en/post/the/) [blue](/en/post/blue/) [sky](/en/post/sky/)")
+- [Aeroplane](/post/aeroplane/)
+- [Jet](/post/jet/)
+- Airship ([historical](/post/historical/))
+- [Flight](/post/flight/)
+-[Aviation](/post/aviation/)
+-蓝天之旅 (Bì lán zhī jì) (Chinese, [meaning](/post/meaning/) "[flight](/post/flight/) [through](/post/through/) [the](/post/the/) [blue](/post/blue/) [sky](/post/sky/)")

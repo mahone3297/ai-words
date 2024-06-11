@@ -7,23 +7,23 @@ description = '[kuːl] a.凉的，冷静的'
 keywords = ['ai words', 'cool']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kuːl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Having [a](/en/post/a/) [moderate](/en/post/moderate/) [or](/en/post/or/) [pleasant](/en/post/pleasant/) [temperature](/en/post/temperature/), [not](/en/post/not/) [too](/en/post/too/) [hot](/en/post/hot/) [or](/en/post/or/) [too](/en/post/too/) [cold](/en/post/cold/). [For](/en/post/for/) [example](/en/post/example/): "It's [a](/en/post/a/) [cool](/en/post/cool/) [day](/en/post/day/) [today](/en/post/today/)."
-   - **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [being](/en/post/being/) relaxed [or](/en/post/or/) [comfortable](/en/post/comfortable/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) gave [him](/en/post/him/) [a](/en/post/a/) [cool](/en/post/cool/) vibe."
-   - **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [feel](/en/post/feel/) [cool](/en/post/cool/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) stylish [or](/en/post/or/) [impressive](/en/post/impressive/) [way](/en/post/way/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [design](/en/post/design/) [really](/en/post/really/) cools [down](/en/post/down/) [the](/en/post/the/) [interior](/en/post/interior/)."
+- **[Adjective](/post/adjective/)**: 1. Having [a](/post/a/) [moderate](/post/moderate/) [or](/post/or/) [pleasant](/post/pleasant/) [temperature](/post/temperature/), [not](/post/not/) [too](/post/too/) [hot](/post/hot/) [or](/post/or/) [too](/post/too/) [cold](/post/cold/). [For](/post/for/) [example](/post/example/): "It's [a](/post/a/) [cool](/post/cool/) [day](/post/day/) [today](/post/today/)."
+   - **[Noun](/post/noun/)**: 1. [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [being](/post/being/) relaxed [or](/post/or/) [comfortable](/post/comfortable/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) gave [him](/post/him/) [a](/post/a/) [cool](/post/cool/) vibe."
+   - **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [feel](/post/feel/) [cool](/post/cool/), [often](/post/often/) [in](/post/in/) [a](/post/a/) stylish [or](/post/or/) [impressive](/post/impressive/) [way](/post/way/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) [design](/post/design/) [really](/post/really/) cools [down](/post/down/) [the](/post/the/) [interior](/post/interior/)."
 
 ## Phrases
-- "[Stay](/en/post/stay/) [cool](/en/post/cool/)" is [advice](/en/post/advice/) [to](/en/post/to/) [remain](/en/post/remain/) [calm](/en/post/calm/) [or](/en/post/or/) composed.
-- "[Keep](/en/post/keep/) [it](/en/post/it/) [cool](/en/post/cool/)" encourages [someone](/en/post/someone/) [to](/en/post/to/) [be](/en/post/be/) [patient](/en/post/patient/) [or](/en/post/or/) [not](/en/post/not/) [get](/en/post/get/) [upset](/en/post/upset/).
-- "That's [cool](/en/post/cool/)" is an [expression](/en/post/expression/) [of](/en/post/of/) [approval](/en/post/approval/) [or](/en/post/or/) [acceptance](/en/post/acceptance/).
+- "[Stay](/post/stay/) [cool](/post/cool/)" is [advice](/post/advice/) [to](/post/to/) [remain](/post/remain/) [calm](/post/calm/) [or](/post/or/) composed.
+- "[Keep](/post/keep/) [it](/post/it/) [cool](/post/cool/)" encourages [someone](/post/someone/) [to](/post/to/) [be](/post/be/) [patient](/post/patient/) [or](/post/or/) [not](/post/not/) [get](/post/get/) [upset](/post/upset/).
+- "That's [cool](/post/cool/)" is an [expression](/post/expression/) [of](/post/of/) [approval](/post/approval/) [or](/post/or/) [acceptance](/post/acceptance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [air](/en/post/air/) conditioner made [the](/en/post/the/) [room](/en/post/room/) [feel](/en/post/feel/) [much](/en/post/much/) cooler [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [outside](/en/post/outside/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) had [a](/en/post/a/) [cool](/en/post/cool/) [story](/en/post/story/) [to](/en/post/to/) [tell](/en/post/tell/) [about](/en/post/about/) [her](/en/post/her/) travels."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) artist's [painting](/en/post/painting/) was [so](/en/post/so/) [cool](/en/post/cool/), [it](/en/post/it/) [instantly](/en/post/instantly/) became [a](/en/post/a/) [hit](/en/post/hit/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [air](/post/air/) conditioner made [the](/post/the/) [room](/post/room/) [feel](/post/feel/) [much](/post/much/) cooler [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [outside](/post/outside/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) had [a](/post/a/) [cool](/post/cool/) [story](/post/story/) [to](/post/to/) [tell](/post/tell/) [about](/post/about/) [her](/post/her/) travels."
+- **[Verb](/post/verb/)**: "[The](/post/the/) artist's [painting](/post/painting/) was [so](/post/so/) [cool](/post/cool/), [it](/post/it/) [instantly](/post/instantly/) became [a](/post/a/) [hit](/post/hit/)."
 
 ## Synonyms
 - Chilled
@@ -33,8 +33,8 @@ keywords = ['ai words', 'cool']
 - Hip
 
 ## Antonyms
-- [Hot](/en/post/hot/)
-- [Warm](/en/post/warm/)
-- [Intense](/en/post/intense/)
+- [Hot](/post/hot/)
+- [Warm](/post/warm/)
+- [Intense](/post/intense/)
 - Agitated
 - Uncool (informal)

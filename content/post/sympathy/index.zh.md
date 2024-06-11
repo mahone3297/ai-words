@@ -11,23 +11,23 @@ keywords = ['ai words', 'sympathy']
 /sɪmpəθi/
 
 ## 释义
-- **名词**: 对他人的困难、悲伤或痛苦表示理解和关心的情感。例如: "[She](/post/she/) offered [her](/post/her/) [sympathy](/post/sympathy/) [to](/post/to/) [the](/post/the/) grieving [family](/post/family/)."
-- **动词**: 表达同情或共鸣。例如: "[To](/post/to/) [sympathize](/post/sympathize/) [with](/post/with/) someone's [situation](/post/situation/) [means](/post/means/) [to](/post/to/) [share](/post/share/) [their](/post/their/) feelings."
-- **形容词**: 富有同情心的，表示理解的。例如: "[He](/post/he/) was known [for](/post/for/) [his](/post/his/) [sympathetic](/post/sympathetic/) [nature](/post/nature/)."
+- **名词**: 对他人的困难、悲伤或痛苦表示理解和关心的情感。例如: "[She](/zh/post/she/) offered [her](/zh/post/her/) [sympathy](/zh/post/sympathy/) [to](/zh/post/to/) [the](/zh/post/the/) grieving [family](/zh/post/family/)."
+- **动词**: 表达同情或共鸣。例如: "[To](/zh/post/to/) [sympathize](/zh/post/sympathize/) [with](/zh/post/with/) someone's [situation](/zh/post/situation/) [means](/zh/post/means/) [to](/zh/post/to/) [share](/zh/post/share/) [their](/zh/post/their/) feelings."
+- **形容词**: 富有同情心的，表示理解的。例如: "[He](/zh/post/he/) was known [for](/zh/post/for/) [his](/zh/post/his/) [sympathetic](/zh/post/sympathetic/) [nature](/zh/post/nature/)."
 
 ## 短语
-- "[Express](/post/express/) [sympathy](/post/sympathy/)" 意为表达同情。
-- "[Sympathy](/post/sympathy/) [card](/post/card/)" 是一种用来表达慰问的卡片。
-- "[In](/post/in/) [sympathy](/post/sympathy/) [with](/post/with/)" 表示对某事有共鸣或支持。
+- "[Express](/zh/post/express/) [sympathy](/zh/post/sympathy/)" 意为表达同情。
+- "[Sympathy](/zh/post/sympathy/) [card](/zh/post/card/)" 是一种用来表达慰问的卡片。
+- "[In](/zh/post/in/) [sympathy](/zh/post/sympathy/) [with](/zh/post/with/)" 表示对某事有共鸣或支持。
 
 ## 例句
-- 名词: "[The](/post/the/) [family](/post/family/) appreciated [the](/post/the/) outpouring [of](/post/of/) [sympathy](/post/sympathy/) [from](/post/from/) friends [and](/post/and/) neighbors."
-- 动词: "[He](/post/he/) tried [to](/post/to/) [sympathize](/post/sympathize/) [with](/post/with/) [her](/post/her/), [but](/post/but/) [he](/post/he/) couldn't [understand](/post/understand/) [her](/post/her/) [pain](/post/pain/)."
-- 形容词: "[The](/post/the/) [doctor](/post/doctor/) was [very](/post/very/) [sympathetic](/post/sympathetic/) towards [the](/post/the/) patient's fears."
+- 名词: "[The](/zh/post/the/) [family](/zh/post/family/) appreciated [the](/zh/post/the/) outpouring [of](/zh/post/of/) [sympathy](/zh/post/sympathy/) [from](/zh/post/from/) friends [and](/zh/post/and/) neighbors."
+- 动词: "[He](/zh/post/he/) tried [to](/zh/post/to/) [sympathize](/zh/post/sympathize/) [with](/zh/post/with/) [her](/zh/post/her/), [but](/zh/post/but/) [he](/zh/post/he/) couldn't [understand](/zh/post/understand/) [her](/zh/post/her/) [pain](/zh/post/pain/)."
+- 形容词: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) was [very](/zh/post/very/) [sympathetic](/zh/post/sympathetic/) towards [the](/zh/post/the/) patient's fears."
 
 ## 同义词
 - Compassion
 - Empathy
-- [Sympathetic](/post/sympathetic/) [concern](/post/concern/)
+- [Sympathetic](/zh/post/sympathetic/) [concern](/zh/post/concern/)
 - Condolence
-- [Fellow](/post/fellow/) [feeling](/post/feeling/)
+- [Fellow](/zh/post/fellow/) [feeling](/zh/post/feeling/)

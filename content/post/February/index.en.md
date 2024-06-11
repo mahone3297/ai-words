@@ -7,26 +7,26 @@ description = '[ˈfebruəri] n.二月'
 keywords = ['ai words', 'February']
 +++
 
-## [Word](/en/post/word/): February
+## [Word](/post/word/): February
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfebru(ə)ri/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [second](/en/post/second/) [month](/en/post/month/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/) [in](/en/post/in/) [the](/en/post/the/) Gregorian [calendar](/en/post/calendar/), having [either](/en/post/either/) 28 days ([in](/en/post/in/) [common](/en/post/common/) years) [or](/en/post/or/) 29 days ([in](/en/post/in/) [leap](/en/post/leap/) years). 
+- **[Noun](/post/noun/)**: [The](/post/the/) [second](/post/second/) [month](/post/month/) [of](/post/of/) [the](/post/the/) [year](/post/year/) [in](/post/in/) [the](/post/the/) Gregorian [calendar](/post/calendar/), having [either](/post/either/) 28 days ([in](/post/in/) [common](/post/common/) years) [or](/post/or/) 29 days ([in](/post/in/) [leap](/post/leap/) years). 
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): "Valentine's [Day](/en/post/day/) falls [on](/en/post/on/) February 14th."
+[Example](/post/example/) [sentence](/post/sentence/): "Valentine's [Day](/post/day/) falls [on](/post/on/) February 14th."
 
 ## Phrases
-- "February showers [bring](/en/post/bring/) [forth](/en/post/forth/) [March](/en/post/march/) flowers": [This](/en/post/this/) [phrase](/en/post/phrase/) alludes [to](/en/post/to/) [the](/en/post/the/) [rainy](/en/post/rainy/) [weather](/en/post/weather/) [typical](/en/post/typical/) [of](/en/post/of/) February [leading](/en/post/leading/) [to](/en/post/to/) [spring](/en/post/spring/) blooms [later](/en/post/later/) [in](/en/post/in/) [March](/en/post/march/).
-- "[Leap](/en/post/leap/) [year](/en/post/year/) occurs [every](/en/post/every/) [four](/en/post/four/) years, adding an [extra](/en/post/extra/) [day](/en/post/day/) [to](/en/post/to/) February": [This](/en/post/this/) explains [how](/en/post/how/) [in](/en/post/in/) [a](/en/post/a/) [leap](/en/post/leap/) [year](/en/post/year/), February has 29 days [instead](/en/post/instead/) [of](/en/post/of/) [the](/en/post/the/) [usual](/en/post/usual/) 28.
+- "February showers [bring](/post/bring/) [forth](/post/forth/) [March](/post/march/) flowers": [This](/post/this/) [phrase](/post/phrase/) alludes [to](/post/to/) [the](/post/the/) [rainy](/post/rainy/) [weather](/post/weather/) [typical](/post/typical/) [of](/post/of/) February [leading](/post/leading/) [to](/post/to/) [spring](/post/spring/) blooms [later](/post/later/) [in](/post/in/) [March](/post/march/).
+- "[Leap](/post/leap/) [year](/post/year/) occurs [every](/post/every/) [four](/post/four/) years, adding an [extra](/post/extra/) [day](/post/day/) [to](/post/to/) February": [This](/post/this/) explains [how](/post/how/) [in](/post/in/) [a](/post/a/) [leap](/post/leap/) [year](/post/year/), February has 29 days [instead](/post/instead/) [of](/post/of/) [the](/post/the/) [usual](/post/usual/) 28.
 
-## [Example](/en/post/example/) Sentences
-- [Noun](/en/post/noun/) [usage](/en/post/usage/): "[The](/en/post/the/) company's fiscal [year](/en/post/year/) begins [in](/en/post/in/) February."
-- Idiomatic [usage](/en/post/usage/): "We'll [review](/en/post/review/) [your](/en/post/your/) [progress](/en/post/progress/) [again](/en/post/again/) [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) February."
+## [Example](/post/example/) Sentences
+- [Noun](/post/noun/) [usage](/post/usage/): "[The](/post/the/) company's fiscal [year](/post/year/) begins [in](/post/in/) February."
+- Idiomatic [usage](/post/usage/): "We'll [review](/post/review/) [your](/post/your/) [progress](/post/progress/) [again](/post/again/) [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) February."
 
 ## Synonyms
-- [None](/en/post/none/), [since](/en/post/since/) February is [a](/en/post/a/) [proper](/en/post/proper/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [month](/en/post/month/); [however](/en/post/however/), [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) replaced [by](/en/post/by/) [its](/en/post/its/) numerical [equivalent](/en/post/equivalent/) [when](/en/post/when/) [writing](/en/post/writing/) dates: "[the](/en/post/the/) [second](/en/post/second/) [month](/en/post/month/)."
+- [None](/post/none/), [since](/post/since/) February is [a](/post/a/) [proper](/post/proper/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [month](/post/month/); [however](/post/however/), [it](/post/it/) [can](/post/can/) [be](/post/be/) replaced [by](/post/by/) [its](/post/its/) numerical [equivalent](/post/equivalent/) [when](/post/when/) [writing](/post/writing/) dates: "[the](/post/the/) [second](/post/second/) [month](/post/month/)."
 
 ## Etymology
-Derived [from](/en/post/from/) Latin 'Februarius,' [which](/en/post/which/) refers [to](/en/post/to/) [the](/en/post/the/) Roman [festival](/en/post/festival/) [of](/en/post/of/) purification called Februa, held [during](/en/post/during/) [this](/en/post/this/) [month](/en/post/month/). [It](/en/post/it/) [also](/en/post/also/) relates [to](/en/post/to/) [the](/en/post/the/) Latin [word](/en/post/word/) 'febris,' [meaning](/en/post/meaning/) '[fever](/en/post/fever/),' [as](/en/post/as/) [the](/en/post/the/) [month](/en/post/month/) was associated [with](/en/post/with/) [the](/en/post/the/) cleansing [of](/en/post/of/) [both](/en/post/both/) [physical](/en/post/physical/) [and](/en/post/and/) [spiritual](/en/post/spiritual/) impurities.
+Derived [from](/post/from/) Latin 'Februarius,' [which](/post/which/) refers [to](/post/to/) [the](/post/the/) Roman [festival](/post/festival/) [of](/post/of/) purification called Februa, held [during](/post/during/) [this](/post/this/) [month](/post/month/). [It](/post/it/) [also](/post/also/) relates [to](/post/to/) [the](/post/the/) Latin [word](/post/word/) 'febris,' [meaning](/post/meaning/) '[fever](/post/fever/),' [as](/post/as/) [the](/post/the/) [month](/post/month/) was associated [with](/post/with/) [the](/post/the/) cleansing [of](/post/of/) [both](/post/both/) [physical](/post/physical/) [and](/post/and/) [spiritual](/post/spiritual/) impurities.

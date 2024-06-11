@@ -11,20 +11,20 @@ keywords = ['ai words', 'preliminary']
 /ˈprɛlɪmɪnəri/
 
 ## 释义
-- **形容词**: 预先的；初步的；预备的。例如: "[We](/post/we/) had [a](/post/a/) [preliminary](/post/preliminary/) [discussion](/post/discussion/) [before](/post/before/) [the](/post/the/) [main](/post/main/) [meeting](/post/meeting/)."
-- **名词**: 初步的事物；预备步骤。例如: "[The](/post/the/) [preliminary](/post/preliminary/) [exam](/post/exam/) is [a](/post/a/) [test](/post/test/) [to](/post/to/) [determine](/post/determine/) [if](/post/if/) students are [ready](/post/ready/) [for](/post/for/) [the](/post/the/) [final](/post/final/)."
+- **形容词**: 预先的；初步的；预备的。例如: "[We](/zh/post/we/) had [a](/zh/post/a/) [preliminary](/zh/post/preliminary/) [discussion](/zh/post/discussion/) [before](/zh/post/before/) [the](/zh/post/the/) [main](/zh/post/main/) [meeting](/zh/post/meeting/)."
+- **名词**: 初步的事物；预备步骤。例如: "[The](/zh/post/the/) [preliminary](/zh/post/preliminary/) [exam](/zh/post/exam/) is [a](/zh/post/a/) [test](/zh/post/test/) [to](/zh/post/to/) [determine](/zh/post/determine/) [if](/zh/post/if/) students are [ready](/zh/post/ready/) [for](/zh/post/for/) [the](/zh/post/the/) [final](/zh/post/final/)."
 
 ## 短语
-- "[preliminary](/post/preliminary/) studies" 指预备性的研究或学习。
-- "[preliminary](/post/preliminary/) talks" 指开始阶段的谈判或讨论。
+- "[preliminary](/zh/post/preliminary/) studies" 指预备性的研究或学习。
+- "[preliminary](/zh/post/preliminary/) talks" 指开始阶段的谈判或讨论。
 
 ## 例句
-- 形容词: "[The](/post/the/) [preliminary](/post/preliminary/) results showed [a](/post/a/) [positive](/post/positive/) [trend](/post/trend/)."
-- 名词: "[They](/post/they/) held [preliminary](/post/preliminary/) meetings [to](/post/to/) [plan](/post/plan/) [the](/post/the/) [event](/post/event/)."
+- 形容词: "[The](/zh/post/the/) [preliminary](/zh/post/preliminary/) results showed [a](/zh/post/a/) [positive](/zh/post/positive/) [trend](/zh/post/trend/)."
+- 名词: "[They](/zh/post/they/) held [preliminary](/zh/post/preliminary/) meetings [to](/zh/post/to/) [plan](/zh/post/plan/) [the](/zh/post/the/) [event](/zh/post/event/)."
 
 ## 同义词
-- [Initial](/post/initial/)
-- [First](/post/first/)
+- [Initial](/zh/post/initial/)
+- [First](/zh/post/first/)
 - Provisional
 - Tentative
 - Introductory

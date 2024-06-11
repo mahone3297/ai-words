@@ -7,29 +7,29 @@ description = '[ˈkiːbɔːd] n.键盘'
 keywords = ['ai words', 'keyboard']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkiːbɔːrd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) keys arranged [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [layout](/en/post/layout/), typically [with](/en/post/with/) letters, numbers, [and](/en/post/and/) [various](/en/post/various/) symbols, [which](/en/post/which/) [when](/en/post/when/) pressed [on](/en/post/on/) [a](/en/post/a/) [typewriter](/en/post/typewriter/) [or](/en/post/or/) [computer](/en/post/computer/), [input](/en/post/input/) [corresponding](/en/post/corresponding/) characters [or](/en/post/or/) commands. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) typed [her](/en/post/her/) [essay](/en/post/essay/) [quickly](/en/post/quickly/) [on](/en/post/on/) [the](/en/post/the/) [keyboard](/en/post/keyboard/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [set](/post/set/) [of](/post/of/) keys arranged [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [layout](/post/layout/), typically [with](/post/with/) letters, numbers, [and](/post/and/) [various](/post/various/) symbols, [which](/post/which/) [when](/post/when/) pressed [on](/post/on/) [a](/post/a/) [typewriter](/post/typewriter/) [or](/post/or/) [computer](/post/computer/), [input](/post/input/) [corresponding](/post/corresponding/) characters [or](/post/or/) commands. [For](/post/for/) [example](/post/example/): "[She](/post/she/) typed [her](/post/her/) [essay](/post/essay/) [quickly](/post/quickly/) [on](/post/on/) [the](/post/the/) [keyboard](/post/keyboard/)."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) musician's fingers danced [across](/en/post/across/) [the](/en/post/the/) [piano](/en/post/piano/) [keyboard](/en/post/keyboard/) [as](/en/post/as/) [he](/en/post/he/) played [a](/en/post/a/) sonata."
+[Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) musician's fingers danced [across](/post/across/) [the](/post/the/) [piano](/post/piano/) [keyboard](/post/keyboard/) [as](/post/as/) [he](/post/he/) played [a](/post/a/) sonata."
 
 ## Phrases
-- "[Keyboard](/en/post/keyboard/) shortcut" - [A](/en/post/a/) [quick](/en/post/quick/) [method](/en/post/method/) [of](/en/post/of/) executing [a](/en/post/a/) [command](/en/post/command/) using [a](/en/post/a/) [specific](/en/post/specific/) [combination](/en/post/combination/) [of](/en/post/of/) keys [on](/en/post/on/) [the](/en/post/the/) [keyboard](/en/post/keyboard/) [instead](/en/post/instead/) [of](/en/post/of/) using [a](/en/post/a/) [mouse](/en/post/mouse/) [or](/en/post/or/) menus.
-- "[Touch](/en/post/touch/) typing" - [The](/en/post/the/) [skill](/en/post/skill/) [of](/en/post/of/) typing [without](/en/post/without/) looking [at](/en/post/at/) [the](/en/post/the/) [keyboard](/en/post/keyboard/), allowing users [to](/en/post/to/) [type](/en/post/type/) faster [and](/en/post/and/) [more](/en/post/more/) efficiently.
+- "[Keyboard](/post/keyboard/) shortcut" - [A](/post/a/) [quick](/post/quick/) [method](/post/method/) [of](/post/of/) executing [a](/post/a/) [command](/post/command/) using [a](/post/a/) [specific](/post/specific/) [combination](/post/combination/) [of](/post/of/) keys [on](/post/on/) [the](/post/the/) [keyboard](/post/keyboard/) [instead](/post/instead/) [of](/post/of/) using [a](/post/a/) [mouse](/post/mouse/) [or](/post/or/) menus.
+- "[Touch](/post/touch/) typing" - [The](/post/the/) [skill](/post/skill/) [of](/post/of/) typing [without](/post/without/) looking [at](/post/at/) [the](/post/the/) [keyboard](/post/keyboard/), allowing users [to](/post/to/) [type](/post/type/) faster [and](/post/and/) [more](/post/more/) efficiently.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Using [the](/en/post/the/) [keyboard](/en/post/keyboard/), [he](/en/post/he/) navigated [through](/en/post/through/) [the](/en/post/the/) [system](/en/post/system/) [menu](/en/post/menu/) [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [file](/en/post/file/)."
-- "[She](/en/post/she/) taught [herself](/en/post/herself/) [how](/en/post/how/) [to](/en/post/to/) touch-type [so](/en/post/so/) [that](/en/post/that/) [she](/en/post/she/) [could](/en/post/could/) transcribe lectures [quickly](/en/post/quickly/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Using [the](/post/the/) [keyboard](/post/keyboard/), [he](/post/he/) navigated [through](/post/through/) [the](/post/the/) [system](/post/system/) [menu](/post/menu/) [to](/post/to/) [find](/post/find/) [the](/post/the/) [file](/post/file/)."
+- "[She](/post/she/) taught [herself](/post/herself/) [how](/post/how/) [to](/post/to/) touch-type [so](/post/so/) [that](/post/that/) [she](/post/she/) [could](/post/could/) transcribe lectures [quickly](/post/quickly/)."
 
 ## Synonyms
 - Keypad
-- [Typewriter](/en/post/typewriter/) [keyboard](/en/post/keyboard/)
-- [Computer](/en/post/computer/) [keyboard](/en/post/keyboard/)
-- [Piano](/en/post/piano/) [keyboard](/en/post/keyboard/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [musical](/en/post/musical/) instruments)
-- [Input](/en/post/input/) [device](/en/post/device/)
+- [Typewriter](/post/typewriter/) [keyboard](/post/keyboard/)
+- [Computer](/post/computer/) [keyboard](/post/keyboard/)
+- [Piano](/post/piano/) [keyboard](/post/keyboard/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [musical](/post/musical/) instruments)
+- [Input](/post/input/) [device](/post/device/)
 
-## [Additional](/en/post/additional/) [Information](/en/post/information/)
-- **[Adjective](/en/post/adjective/)**: Keyboard-related (adj.) - referring [to](/en/post/to/) [something](/en/post/something/) connected [with](/en/post/with/) [or](/en/post/or/) operated [by](/en/post/by/) [a](/en/post/a/) [keyboard](/en/post/keyboard/). [Example](/en/post/example/): "[The](/en/post/the/) keyboard-related functions were [not](/en/post/not/) responding correctly."
-- **[Verb](/en/post/verb/)** ([less](/en/post/less/) [commonly](/en/post/commonly/)): [To](/en/post/to/) [enter](/en/post/enter/) [data](/en/post/data/) [or](/en/post/or/) [information](/en/post/information/) using [a](/en/post/a/) [keyboard](/en/post/keyboard/). [Example](/en/post/example/): "I'll [keyboard](/en/post/keyboard/) [the](/en/post/the/) [report](/en/post/report/) [directly](/en/post/directly/) [into](/en/post/into/) [the](/en/post/the/) [system](/en/post/system/)."
+## [Additional](/post/additional/) [Information](/post/information/)
+- **[Adjective](/post/adjective/)**: Keyboard-related (adj.) - referring [to](/post/to/) [something](/post/something/) connected [with](/post/with/) [or](/post/or/) operated [by](/post/by/) [a](/post/a/) [keyboard](/post/keyboard/). [Example](/post/example/): "[The](/post/the/) keyboard-related functions were [not](/post/not/) responding correctly."
+- **[Verb](/post/verb/)** ([less](/post/less/) [commonly](/post/commonly/)): [To](/post/to/) [enter](/post/enter/) [data](/post/data/) [or](/post/or/) [information](/post/information/) using [a](/post/a/) [keyboard](/post/keyboard/). [Example](/post/example/): "I'll [keyboard](/post/keyboard/) [the](/post/the/) [report](/post/report/) [directly](/post/directly/) [into](/post/into/) [the](/post/the/) [system](/post/system/)."

@@ -12,22 +12,22 @@ keywords = ['ai words', 'stimulate']
 
 ## 释义
 - **动词**:
-  1. 刺激；激发：促进（生长、活动等）；使活跃。例如: "[Physical](/post/physical/) [exercise](/post/exercise/) [can](/post/can/) [stimulate](/post/stimulate/) [the](/post/the/) immune [system](/post/system/)."
-  2. 促进；鼓舞：激励（兴趣、思考等）。例如: "[The](/post/the/) [discussion](/post/discussion/) stimulated [new](/post/new/) ideas [among](/post/among/) [the](/post/the/) participants."
+  1. 刺激；激发：促进（生长、活动等）；使活跃。例如: "[Physical](/zh/post/physical/) [exercise](/zh/post/exercise/) [can](/zh/post/can/) [stimulate](/zh/post/stimulate/) [the](/zh/post/the/) immune [system](/zh/post/system/)."
+  2. 促进；鼓舞：激励（兴趣、思考等）。例如: "[The](/zh/post/the/) [discussion](/zh/post/discussion/) stimulated [new](/zh/post/new/) ideas [among](/zh/post/among/) [the](/zh/post/the/) participants."
 
 ## 短语
-- "[stimulate](/post/stimulate/) [growth](/post/growth/)" 促进增长。
-- "[stimulate](/post/stimulate/) [the](/post/the/) [economy](/post/economy/)" 刺激经济。
-- "[stimulate](/post/stimulate/) creativity" 激发创造力。
+- "[stimulate](/zh/post/stimulate/) [growth](/zh/post/growth/)" 促进增长。
+- "[stimulate](/zh/post/stimulate/) [the](/zh/post/the/) [economy](/zh/post/economy/)" 刺激经济。
+- "[stimulate](/zh/post/stimulate/) creativity" 激发创造力。
 
 ## 例句
-- "[The](/post/the/) teacher's engaging lessons [always](/post/always/) [stimulate](/post/stimulate/) [the](/post/the/) students' [curiosity](/post/curiosity/)."
-- "[The](/post/the/) [government](/post/government/) plans [to](/post/to/) [stimulate](/post/stimulate/) [the](/post/the/) [economy](/post/economy/) [by](/post/by/) investing [in](/post/in/) infrastructure projects."
-- "[The](/post/the/) medication was designed [to](/post/to/) [stimulate](/post/stimulate/) [his](/post/his/) [appetite](/post/appetite/)."
+- "[The](/zh/post/the/) teacher's engaging lessons [always](/zh/post/always/) [stimulate](/zh/post/stimulate/) [the](/zh/post/the/) students' [curiosity](/zh/post/curiosity/)."
+- "[The](/zh/post/the/) [government](/zh/post/government/) plans [to](/zh/post/to/) [stimulate](/zh/post/stimulate/) [the](/zh/post/the/) [economy](/zh/post/economy/) [by](/zh/post/by/) investing [in](/zh/post/in/) infrastructure projects."
+- "[The](/zh/post/the/) medication was designed [to](/zh/post/to/) [stimulate](/zh/post/stimulate/) [his](/zh/post/his/) [appetite](/zh/post/appetite/)."
 
 ## 同义词
 - Boost
-- [Encourage](/post/encourage/)
+- [Encourage](/zh/post/encourage/)
 - Energize
-- [Inspire](/post/inspire/)
-- [Motivate](/post/motivate/)
+- [Inspire](/zh/post/inspire/)
+- [Motivate](/zh/post/motivate/)

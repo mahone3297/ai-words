@@ -11,23 +11,23 @@ keywords = ['ai words', 'stiff']
 /stɪf/
 
 ## 释义
-- **形容词**: 坚硬的，不灵活的。例如: "[The](/post/the/) [chair](/post/chair/) was [so](/post/so/) [stiff](/post/stiff/) [that](/post/that/) [it](/post/it/) was [uncomfortable](/post/uncomfortable/) [to](/post/to/) [sit](/post/sit/) [on](/post/on/)."
-- **形容词**: 严肃的，正式的。例如: "[The](/post/the/) [dinner](/post/dinner/) [party](/post/party/) had [a](/post/a/) [rather](/post/rather/) [stiff](/post/stiff/) [atmosphere](/post/atmosphere/)."
-- **副词**: 僵硬地，不自然地。例如: "[He](/post/he/) stood stiffly, [not](/post/not/) knowing [what](/post/what/) [to](/post/to/) [do](/post/do/) [with](/post/with/) [his](/post/his/) hands."
-- **名词**: 不易弯曲或柔软的东西。例如: "[Remove](/post/remove/) [the](/post/the/) [stiff](/post/stiff/) bristles [from](/post/from/) [the](/post/the/) [brush](/post/brush/)."
+- **形容词**: 坚硬的，不灵活的。例如: "[The](/zh/post/the/) [chair](/zh/post/chair/) was [so](/zh/post/so/) [stiff](/zh/post/stiff/) [that](/zh/post/that/) [it](/zh/post/it/) was [uncomfortable](/zh/post/uncomfortable/) [to](/zh/post/to/) [sit](/zh/post/sit/) [on](/zh/post/on/)."
+- **形容词**: 严肃的，正式的。例如: "[The](/zh/post/the/) [dinner](/zh/post/dinner/) [party](/zh/post/party/) had [a](/zh/post/a/) [rather](/zh/post/rather/) [stiff](/zh/post/stiff/) [atmosphere](/zh/post/atmosphere/)."
+- **副词**: 僵硬地，不自然地。例如: "[He](/zh/post/he/) stood stiffly, [not](/zh/post/not/) knowing [what](/zh/post/what/) [to](/zh/post/to/) [do](/zh/post/do/) [with](/zh/post/with/) [his](/zh/post/his/) hands."
+- **名词**: 不易弯曲或柔软的东西。例如: "[Remove](/zh/post/remove/) [the](/zh/post/the/) [stiff](/zh/post/stiff/) bristles [from](/zh/post/from/) [the](/zh/post/the/) [brush](/zh/post/brush/)."
 
 ## 短语
-- "[stiff](/post/stiff/) [competition](/post/competition/)" 指激烈的竞争。
-- "[stiff](/post/stiff/) [upper](/post/upper/) [lip](/post/lip/)" 形容在困难面前保持冷静和坚韧的态度。
+- "[stiff](/zh/post/stiff/) [competition](/zh/post/competition/)" 指激烈的竞争。
+- "[stiff](/zh/post/stiff/) [upper](/zh/post/upper/) [lip](/zh/post/lip/)" 形容在困难面前保持冷静和坚韧的态度。
 
 ## 例句
-- 形容词: "[The](/post/the/) [new](/post/new/) [suit](/post/suit/) felt [stiff](/post/stiff/) [and](/post/and/) [uncomfortable](/post/uncomfortable/) [at](/post/at/) [first](/post/first/)."
-- 副词: "[He](/post/he/) smiled stiffly, trying [to](/post/to/) [hide](/post/hide/) [his](/post/his/) nervousness."
-- 名词: "[The](/post/the/) [paint](/post/paint/) had dried [into](/post/into/) [a](/post/a/) [stiff](/post/stiff/) [layer](/post/layer/)."
+- 形容词: "[The](/zh/post/the/) [new](/zh/post/new/) [suit](/zh/post/suit/) felt [stiff](/zh/post/stiff/) [and](/zh/post/and/) [uncomfortable](/zh/post/uncomfortable/) [at](/zh/post/at/) [first](/zh/post/first/)."
+- 副词: "[He](/zh/post/he/) smiled stiffly, trying [to](/zh/post/to/) [hide](/zh/post/hide/) [his](/zh/post/his/) nervousness."
+- 名词: "[The](/zh/post/the/) [paint](/zh/post/paint/) had dried [into](/zh/post/into/) [a](/zh/post/a/) [stiff](/zh/post/stiff/) [layer](/zh/post/layer/)."
 
 ## 同义词
-- [rigid](/post/rigid/)
+- [rigid](/zh/post/rigid/)
 - inflexible
-- [formal](/post/formal/)
+- [formal](/zh/post/formal/)
 - unyielding
-- [hard](/post/hard/)
+- [hard](/zh/post/hard/)

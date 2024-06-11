@@ -7,34 +7,34 @@ description = '[sinˈsiə] a.真诚的；真挚的'
 keywords = ['ai words', 'sincere']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪnˈsɜːr/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [genuine](/en/post/genuine/) [honesty](/en/post/honesty/) [and](/en/post/and/) truthfulness; [genuine](/en/post/genuine/), heartfelt. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) sincerity was [evident](/en/post/evident/) [in](/en/post/in/) [her](/en/post/her/) eyes."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [sincere](/en/post/sincere/) [manner](/en/post/manner/); genuinely. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) thanked [her](/en/post/her/) sincerely [for](/en/post/for/) [her](/en/post/her/) [help](/en/post/help/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [genuine](/post/genuine/) [honesty](/post/honesty/) [and](/post/and/) truthfulness; [genuine](/post/genuine/), heartfelt. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) sincerity was [evident](/post/evident/) [in](/post/in/) [her](/post/her/) eyes."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [sincere](/post/sincere/) [manner](/post/manner/); genuinely. [For](/post/for/) [example](/post/example/): "[He](/post/he/) thanked [her](/post/her/) sincerely [for](/post/for/) [her](/post/her/) [help](/post/help/)."
 
 ## Phrases
-- "Sincerely [yours](/en/post/yours/)" is [a](/en/post/a/) [formal](/en/post/formal/) closing [used](/en/post/used/) [in](/en/post/in/) letters.
-- "Expressing one's sincerity" [means](/en/post/means/) [to](/en/post/to/) [convey](/en/post/convey/) [true](/en/post/true/) feelings [or](/en/post/or/) intentions.
-- "[A](/en/post/a/) [sincere](/en/post/sincere/) [apology](/en/post/apology/)" indicates [a](/en/post/a/) [genuine](/en/post/genuine/) [regret](/en/post/regret/) [for](/en/post/for/) an [action](/en/post/action/).
+- "Sincerely [yours](/post/yours/)" is [a](/post/a/) [formal](/post/formal/) closing [used](/post/used/) [in](/post/in/) letters.
+- "Expressing one's sincerity" [means](/post/means/) [to](/post/to/) [convey](/post/convey/) [true](/post/true/) feelings [or](/post/or/) intentions.
+- "[A](/post/a/) [sincere](/post/sincere/) [apology](/post/apology/)" indicates [a](/post/a/) [genuine](/post/genuine/) [regret](/post/regret/) [for](/post/for/) an [action](/post/action/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) had [a](/en/post/a/) [sincere](/en/post/sincere/) [desire](/en/post/desire/) [to](/en/post/to/) [learn](/en/post/learn/) [from](/en/post/from/) [his](/en/post/his/) mistakes."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) spoke sincerely [about](/en/post/about/) [her](/en/post/her/) [love](/en/post/love/) [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/)."
-- "[His](/en/post/his/) heartfelt thanks were [sincere](/en/post/sincere/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) had [a](/post/a/) [sincere](/post/sincere/) [desire](/post/desire/) [to](/post/to/) [learn](/post/learn/) [from](/post/from/) [his](/post/his/) mistakes."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) spoke sincerely [about](/post/about/) [her](/post/her/) [love](/post/love/) [for](/post/for/) [the](/post/the/) [project](/post/project/)."
+- "[His](/post/his/) heartfelt thanks were [sincere](/post/sincere/)."
 
 ## Synonyms
 - Authentic
-- [Genuine](/en/post/genuine/)
-- [True](/en/post/true/)
+- [Genuine](/post/genuine/)
+- [True](/post/true/)
 - Heartfelt
-- [Sincere](/en/post/sincere/) [in](/en/post/in/) [feeling](/en/post/feeling/)
+- [Sincere](/post/sincere/) [in](/post/in/) [feeling](/post/feeling/)
 - Truthful
 
 ## Antonyms
 - Insincere
 - Disingenuous
 - Hypocritical
-- [False](/en/post/false/)
+- [False](/post/false/)
 - Unauthentic

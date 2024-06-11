@@ -7,31 +7,31 @@ description = '[əˈdæpt] vt.使适应；改编'
 keywords = ['ai words', 'adapt']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ədˈæpt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [process](/en/post/process/) [of](/en/post/of/) making changes [to](/en/post/to/) [suit](/en/post/suit/) [new](/en/post/new/) conditions [or](/en/post/or/) requirements; an [instance](/en/post/instance/) [of](/en/post/of/) [such](/en/post/such/) [change](/en/post/change/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) species has [successfully](/en/post/successfully/) adapted [to](/en/post/to/) [its](/en/post/its/) [new](/en/post/new/) [environment](/en/post/environment/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [alter](/en/post/alter/) [or](/en/post/or/) [adjust](/en/post/adjust/) ([oneself](/en/post/oneself/), one's [behavior](/en/post/behavior/), [or](/en/post/or/) [a](/en/post/a/) [system](/en/post/system/)) [to](/en/post/to/) [fit](/en/post/fit/) [a](/en/post/a/) [new](/en/post/new/) [situation](/en/post/situation/) [or](/en/post/or/) requirements. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [quickly](/en/post/quickly/) adapted [to](/en/post/to/) [her](/en/post/her/) [new](/en/post/new/) [job](/en/post/job/) responsibilities."
-- **[Adjective](/en/post/adjective/)**: [Capable](/en/post/capable/) [of](/en/post/of/) adjusting [easily](/en/post/easily/) [to](/en/post/to/) [different](/en/post/different/) conditions [or](/en/post/or/) situations. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) adaptable software [can](/en/post/can/) [run](/en/post/run/) [on](/en/post/on/) [various](/en/post/various/) platforms."
+- **[Noun](/post/noun/)**: [A](/post/a/) [process](/post/process/) [of](/post/of/) making changes [to](/post/to/) [suit](/post/suit/) [new](/post/new/) conditions [or](/post/or/) requirements; an [instance](/post/instance/) [of](/post/of/) [such](/post/such/) [change](/post/change/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) species has [successfully](/post/successfully/) adapted [to](/post/to/) [its](/post/its/) [new](/post/new/) [environment](/post/environment/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [alter](/post/alter/) [or](/post/or/) [adjust](/post/adjust/) ([oneself](/post/oneself/), one's [behavior](/post/behavior/), [or](/post/or/) [a](/post/a/) [system](/post/system/)) [to](/post/to/) [fit](/post/fit/) [a](/post/a/) [new](/post/new/) [situation](/post/situation/) [or](/post/or/) requirements. [For](/post/for/) [example](/post/example/): "[She](/post/she/) [quickly](/post/quickly/) adapted [to](/post/to/) [her](/post/her/) [new](/post/new/) [job](/post/job/) responsibilities."
+- **[Adjective](/post/adjective/)**: [Capable](/post/capable/) [of](/post/of/) adjusting [easily](/post/easily/) [to](/post/to/) [different](/post/different/) conditions [or](/post/or/) situations. [For](/post/for/) [example](/post/example/): "[The](/post/the/) adaptable software [can](/post/can/) [run](/post/run/) [on](/post/on/) [various](/post/various/) platforms."
 
 ## Phrases
-- "[Adapt](/en/post/adapt/) [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [environment](/en/post/environment/)" [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) [familiar](/en/post/familiar/) [and](/en/post/and/) [comfortable](/en/post/comfortable/) [in](/en/post/in/) [a](/en/post/a/) changed [setting](/en/post/setting/).
-- "Adaptation is [key](/en/post/key/)" emphasizes [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) adjusting [to](/en/post/to/) [new](/en/post/new/) circumstances.
-- "[To](/en/post/to/) [adapt](/en/post/adapt/) one's skills" signifies improving [or](/en/post/or/) modifying abilities [to](/en/post/to/) [fit](/en/post/fit/) [a](/en/post/a/) [specific](/en/post/specific/) [need](/en/post/need/).
+- "[Adapt](/post/adapt/) [to](/post/to/) [a](/post/a/) [new](/post/new/) [environment](/post/environment/)" [means](/post/means/) [to](/post/to/) [become](/post/become/) [familiar](/post/familiar/) [and](/post/and/) [comfortable](/post/comfortable/) [in](/post/in/) [a](/post/a/) changed [setting](/post/setting/).
+- "Adaptation is [key](/post/key/)" emphasizes [the](/post/the/) [importance](/post/importance/) [of](/post/of/) adjusting [to](/post/to/) [new](/post/new/) circumstances.
+- "[To](/post/to/) [adapt](/post/adapt/) one's skills" signifies improving [or](/post/or/) modifying abilities [to](/post/to/) [fit](/post/fit/) [a](/post/a/) [specific](/post/specific/) [need](/post/need/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) plant's [ability](/en/post/ability/) [to](/en/post/to/) [adapt](/en/post/adapt/) [to](/en/post/to/) [drought](/en/post/drought/) conditions is [remarkable](/en/post/remarkable/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) moving [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [city](/en/post/city/), [he](/en/post/he/) adapted [quickly](/en/post/quickly/) [to](/en/post/to/) [the](/en/post/the/) [local](/en/post/local/) customs."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's adaptable [business](/en/post/business/) [model](/en/post/model/) allowed [it](/en/post/it/) [to](/en/post/to/) [thrive](/en/post/thrive/) [in](/en/post/in/) [a](/en/post/a/) competitive [market](/en/post/market/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) plant's [ability](/post/ability/) [to](/post/to/) [adapt](/post/adapt/) [to](/post/to/) [drought](/post/drought/) conditions is [remarkable](/post/remarkable/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) moving [to](/post/to/) [a](/post/a/) [new](/post/new/) [city](/post/city/), [he](/post/he/) adapted [quickly](/post/quickly/) [to](/post/to/) [the](/post/the/) [local](/post/local/) customs."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) company's adaptable [business](/post/business/) [model](/post/model/) allowed [it](/post/it/) [to](/post/to/) [thrive](/post/thrive/) [in](/post/in/) [a](/post/a/) competitive [market](/post/market/)."
 
 ## Synonyms
-- [Accommodate](/en/post/accommodate/)
-- [Adjust](/en/post/adjust/)
-- [Modify](/en/post/modify/)
-- [Transform](/en/post/transform/)
-- [Evolve](/en/post/evolve/)
-- [Accommodate](/en/post/accommodate/) [oneself](/en/post/oneself/)
+- [Accommodate](/post/accommodate/)
+- [Adjust](/post/adjust/)
+- [Modify](/post/modify/)
+- [Transform](/post/transform/)
+- [Evolve](/post/evolve/)
+- [Accommodate](/post/accommodate/) [oneself](/post/oneself/)
 - Adaptability
-- [Flexible](/en/post/flexible/)
+- [Flexible](/post/flexible/)
 - Adjustable

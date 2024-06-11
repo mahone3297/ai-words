@@ -12,25 +12,25 @@ keywords = ['ai words', 'use']
 
 ## 释义
 - **动词**: 
-    - 使用；利用。例如: "[She](/post/she/) uses [a](/post/a/) [computer](/post/computer/) [for](/post/for/) [work](/post/work/)."
-    - 习惯于做某事。例如: "He's [used](/post/used/) [to](/post/to/) getting [up](/post/up/) [early](/post/early/)."
-    - 对…有某种影响或效果。例如: "[The](/post/the/) [medicine](/post/medicine/) doesn't [seem](/post/seem/) [to](/post/to/) [use](/post/use/) [on](/post/on/) [his](/post/his/) [headache](/post/headache/)."
+    - 使用；利用。例如: "[She](/zh/post/she/) uses [a](/zh/post/a/) [computer](/zh/post/computer/) [for](/zh/post/for/) [work](/zh/post/work/)."
+    - 习惯于做某事。例如: "He's [used](/zh/post/used/) [to](/zh/post/to/) getting [up](/zh/post/up/) [early](/zh/post/early/)."
+    - 对…有某种影响或效果。例如: "[The](/zh/post/the/) [medicine](/zh/post/medicine/) doesn't [seem](/zh/post/seem/) [to](/zh/post/to/) [use](/zh/post/use/) [on](/zh/post/on/) [his](/zh/post/his/) [headache](/zh/post/headache/)."
 
 - **名词**:
-    - 用途；使用。例如: "[The](/post/the/) [primary](/post/primary/) [use](/post/use/) [of](/post/of/) [this](/post/this/) [tool](/post/tool/) is [for](/post/for/) gardening."
-    - 习惯；惯例。例如: "It's [against](/post/against/) [the](/post/the/) rules [to](/post/to/) [smoke](/post/smoke/) [in](/post/in/) [public](/post/public/), [but](/post/but/) [people](/post/people/) [still](/post/still/) [do](/post/do/) [it](/post/it/) [out](/post/out/) [of](/post/of/) [habit](/post/habit/) [or](/post/or/) [use](/post/use/)."
+    - 用途；使用。例如: "[The](/zh/post/the/) [primary](/zh/post/primary/) [use](/zh/post/use/) [of](/zh/post/of/) [this](/zh/post/this/) [tool](/zh/post/tool/) is [for](/zh/post/for/) gardening."
+    - 习惯；惯例。例如: "It's [against](/zh/post/against/) [the](/zh/post/the/) rules [to](/zh/post/to/) [smoke](/zh/post/smoke/) [in](/zh/post/in/) [public](/zh/post/public/), [but](/zh/post/but/) [people](/zh/post/people/) [still](/zh/post/still/) [do](/zh/post/do/) [it](/zh/post/it/) [out](/zh/post/out/) [of](/zh/post/of/) [habit](/zh/post/habit/) [or](/zh/post/or/) [use](/zh/post/use/)."
 
 ## 短语
-- "[Put](/post/put/) [something](/post/something/) [to](/post/to/) [use](/post/use/)" 意思是将某物投入使用。
-- "[Get](/post/get/) [into](/post/into/) [the](/post/the/) [habit](/post/habit/) [of](/post/of/) using [something](/post/something/)" 意味着养成使用某物的习惯。
+- "[Put](/zh/post/put/) [something](/zh/post/something/) [to](/zh/post/to/) [use](/zh/post/use/)" 意思是将某物投入使用。
+- "[Get](/zh/post/get/) [into](/zh/post/into/) [the](/zh/post/the/) [habit](/zh/post/habit/) [of](/zh/post/of/) using [something](/zh/post/something/)" 意味着养成使用某物的习惯。
 
 ## 例句
-- 动词: "[We](/post/we/) [use](/post/use/) [water](/post/water/) [to](/post/to/) [cook](/post/cook/) [and](/post/and/) [clean](/post/clean/)."
-- 名词: "[The](/post/the/) [new](/post/new/) [technology](/post/technology/) has [many](/post/many/) [practical](/post/practical/) uses."
+- 动词: "[We](/zh/post/we/) [use](/zh/post/use/) [water](/zh/post/water/) [to](/zh/post/to/) [cook](/zh/post/cook/) [and](/zh/post/and/) [clean](/zh/post/clean/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [technology](/zh/post/technology/) has [many](/zh/post/many/) [practical](/zh/post/practical/) uses."
 
 ## 同义词
-- [Employ](/post/employ/)
-- [Utilize](/post/utilize/)
-- [Apply](/post/apply/)
-- [Work](/post/work/) [with](/post/with/)
-- [Take](/post/take/) [advantage](/post/advantage/) [of](/post/of/)
+- [Employ](/zh/post/employ/)
+- [Utilize](/zh/post/utilize/)
+- [Apply](/zh/post/apply/)
+- [Work](/zh/post/work/) [with](/zh/post/with/)
+- [Take](/zh/post/take/) [advantage](/zh/post/advantage/) [of](/zh/post/of/)

@@ -11,16 +11,16 @@ keywords = ['ai words', 'naughty']
 /ˈnɔːti/
 
 ## 释义
-- **形容词**: 淘气的，顽皮的，不守规矩的。例如: "[The](/post/the/) [naughty](/post/naughty/) [child](/post/child/) kept pulling [the](/post/the/) dog's [tail](/post/tail/)."
-- **名词**: (口语)淘气鬼，顽皮的人。例如: "[He](/post/he/) was [such](/post/such/) [a](/post/a/) [naughty](/post/naughty/) [when](/post/when/) [he](/post/he/) was [young](/post/young/)."
+- **形容词**: 淘气的，顽皮的，不守规矩的。例如: "[The](/zh/post/the/) [naughty](/zh/post/naughty/) [child](/zh/post/child/) kept pulling [the](/zh/post/the/) dog's [tail](/zh/post/tail/)."
+- **名词**: (口语)淘气鬼，顽皮的人。例如: "[He](/zh/post/he/) was [such](/zh/post/such/) [a](/zh/post/a/) [naughty](/zh/post/naughty/) [when](/zh/post/when/) [he](/zh/post/he/) was [young](/zh/post/young/)."
 
 ## 短语
-- "[naughty](/post/naughty/) [behavior](/post/behavior/)" 指淘气的行为。
-- "[naughty](/post/naughty/) [boy](/post/boy/)/[girl](/post/girl/)" 用来形容淘气的小孩。
+- "[naughty](/zh/post/naughty/) [behavior](/zh/post/behavior/)" 指淘气的行为。
+- "[naughty](/zh/post/naughty/) [boy](/zh/post/boy/)/[girl](/zh/post/girl/)" 用来形容淘气的小孩。
 
 ## 例句
-- 形容词: "[The](/post/the/) [teacher](/post/teacher/) had [to](/post/to/) [scold](/post/scold/) [the](/post/the/) [naughty](/post/naughty/) children [in](/post/in/) [class](/post/class/)."
-- 名词: "[My](/post/my/) [little](/post/little/) [brother](/post/brother/) is [such](/post/such/) [a](/post/a/) [naughty](/post/naughty/), [always](/post/always/) getting [into](/post/into/) mischief."
+- 形容词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) had [to](/zh/post/to/) [scold](/zh/post/scold/) [the](/zh/post/the/) [naughty](/zh/post/naughty/) children [in](/zh/post/in/) [class](/zh/post/class/)."
+- 名词: "[My](/zh/post/my/) [little](/zh/post/little/) [brother](/zh/post/brother/) is [such](/zh/post/such/) [a](/zh/post/a/) [naughty](/zh/post/naughty/), [always](/zh/post/always/) getting [into](/zh/post/into/) mischief."
 
 ## 同义词
 - Mischievous

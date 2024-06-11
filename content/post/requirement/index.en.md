@@ -7,38 +7,38 @@ description = '[riˈkwaiəmənt] n.需要；要求'
 keywords = ['ai words', 'requirement']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈrɪkwaɪərmənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [demand](/en/post/demand/) [or](/en/post/or/) [necessity](/en/post/necessity/) [for](/en/post/for/) [something](/en/post/something/)**: [A](/en/post/a/) [requirement](/en/post/requirement/) is [a](/en/post/a/) [necessary](/en/post/necessary/) [condition](/en/post/condition/) [or](/en/post/or/) [standard](/en/post/standard/) [that](/en/post/that/) [must](/en/post/must/) [be](/en/post/be/) fulfilled. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) has [strict](/en/post/strict/) requirements [for](/en/post/for/) [code](/en/post/code/) [quality](/en/post/quality/)."
-2. **[A](/en/post/a/) needed [skill](/en/post/skill/) [or](/en/post/or/) [ability](/en/post/ability/)**: [A](/en/post/a/) person's requirements [may](/en/post/may/) [include](/en/post/include/) [certain](/en/post/certain/) qualifications. [For](/en/post/for/) [example](/en/post/example/): "Employers [often](/en/post/often/) [look](/en/post/look/) [for](/en/post/for/) candidates [with](/en/post/with/) [specific](/en/post/specific/) requirements."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [demand](/post/demand/) [or](/post/or/) [necessity](/post/necessity/) [for](/post/for/) [something](/post/something/)**: [A](/post/a/) [requirement](/post/requirement/) is [a](/post/a/) [necessary](/post/necessary/) [condition](/post/condition/) [or](/post/or/) [standard](/post/standard/) [that](/post/that/) [must](/post/must/) [be](/post/be/) fulfilled. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) has [strict](/post/strict/) requirements [for](/post/for/) [code](/post/code/) [quality](/post/quality/)."
+2. **[A](/post/a/) needed [skill](/post/skill/) [or](/post/or/) [ability](/post/ability/)**: [A](/post/a/) person's requirements [may](/post/may/) [include](/post/include/) [certain](/post/certain/) qualifications. [For](/post/for/) [example](/post/example/): "Employers [often](/post/often/) [look](/post/look/) [for](/post/for/) candidates [with](/post/with/) [specific](/post/specific/) requirements."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [specify](/en/post/specify/) [or](/en/post/or/) [impose](/en/post/impose/) [a](/en/post/a/) [need](/en/post/need/) [or](/en/post/or/) [condition](/en/post/condition/): [The](/en/post/the/) [company](/en/post/company/) requires [all](/en/post/all/) employees [to](/en/post/to/) [attend](/en/post/attend/) [training](/en/post/training/). 
-2. [To](/en/post/to/) [ask](/en/post/ask/) [or](/en/post/or/) [request](/en/post/request/) [something](/en/post/something/): [She](/en/post/she/) required [a](/en/post/a/) [meeting](/en/post/meeting/) [with](/en/post/with/) [the](/en/post/the/) manager.
+### [Verb](/post/verb/)
+1. [To](/post/to/) [specify](/post/specify/) [or](/post/or/) [impose](/post/impose/) [a](/post/a/) [need](/post/need/) [or](/post/or/) [condition](/post/condition/): [The](/post/the/) [company](/post/company/) requires [all](/post/all/) employees [to](/post/to/) [attend](/post/attend/) [training](/post/training/). 
+2. [To](/post/to/) [ask](/post/ask/) [or](/post/or/) [request](/post/request/) [something](/post/something/): [She](/post/she/) required [a](/post/a/) [meeting](/post/meeting/) [with](/post/with/) [the](/post/the/) manager.
 
 ## Phrases
-- "[Meet](/en/post/meet/) [the](/en/post/the/) requirements" [means](/en/post/means/) [to](/en/post/to/) fulfill [or](/en/post/or/) [satisfy](/en/post/satisfy/) [the](/en/post/the/) conditions [set](/en/post/set/) [forth](/en/post/forth/).
-- "[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [requirement](/en/post/requirement/)" signifies needing [something](/en/post/something/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/).
-- "[Basic](/en/post/basic/) requirements" [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [most](/en/post/most/) [fundamental](/en/post/fundamental/) necessities.
+- "[Meet](/post/meet/) [the](/post/the/) requirements" [means](/post/means/) [to](/post/to/) fulfill [or](/post/or/) [satisfy](/post/satisfy/) [the](/post/the/) conditions [set](/post/set/) [forth](/post/forth/).
+- "[To](/post/to/) [have](/post/have/) [a](/post/a/) [requirement](/post/requirement/)" signifies needing [something](/post/something/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/).
+- "[Basic](/post/basic/) requirements" [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [most](/post/most/) [fundamental](/post/fundamental/) necessities.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [job](/en/post/job/) posting listed [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) [technical](/en/post/technical/) requirements."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [student](/en/post/student/) [must](/en/post/must/) [meet](/en/post/meet/) [all](/en/post/all/) [academic](/en/post/academic/) requirements [to](/en/post/to/) [graduate](/en/post/graduate/)."
-- **Verbal**: "[They](/en/post/they/) required [all](/en/post/all/) applicants [to](/en/post/to/) [submit](/en/post/submit/) [a](/en/post/a/) [resume](/en/post/resume/) [and](/en/post/and/) [cover](/en/post/cover/) [letter](/en/post/letter/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [job](/post/job/) posting listed [a](/post/a/) [variety](/post/variety/) [of](/post/of/) [technical](/post/technical/) requirements."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [student](/post/student/) [must](/post/must/) [meet](/post/meet/) [all](/post/all/) [academic](/post/academic/) requirements [to](/post/to/) [graduate](/post/graduate/)."
+- **Verbal**: "[They](/post/they/) required [all](/post/all/) applicants [to](/post/to/) [submit](/post/submit/) [a](/post/a/) [resume](/post/resume/) [and](/post/and/) [cover](/post/cover/) [letter](/post/letter/)."
 
 ## Synonyms
-- [Need](/en/post/need/)
-- [Demand](/en/post/demand/)
-- [Essential](/en/post/essential/)
-- [Necessary](/en/post/necessary/)
+- [Need](/post/need/)
+- [Demand](/post/demand/)
+- [Essential](/post/essential/)
+- [Necessary](/post/necessary/)
 - Mandate
-- [Expectation](/en/post/expectation/)
+- [Expectation](/post/expectation/)
 
 ## Antonyms
-- [Optional](/en/post/optional/)
-- [Excess](/en/post/excess/)
-- [Unnecessary](/en/post/unnecessary/)
+- [Optional](/post/optional/)
+- [Excess](/post/excess/)
+- [Unnecessary](/post/unnecessary/)
 - dispensable

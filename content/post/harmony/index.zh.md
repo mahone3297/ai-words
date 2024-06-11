@@ -12,21 +12,21 @@ keywords = ['ai words', 'harmony']
 
 ## 释义
 - **名词 n**:
-  - 和谐，和睦，协调。例如: "[The](/post/the/) [different](/post/different/) colors [in](/post/in/) [the](/post/the/) [painting](/post/painting/) [work](/post/work/) [in](/post/in/) [perfect](/post/perfect/) [harmony](/post/harmony/)."
-  - 协调一致，融洽。例如: "[There](/post/there/) is [a](/post/a/) [great](/post/great/) [harmony](/post/harmony/) [among](/post/among/) [the](/post/the/) members [of](/post/of/) [the](/post/the/) [team](/post/team/)."
-  - 和声，和音。例如: "[The](/post/the/) choir created [a](/post/a/) [beautiful](/post/beautiful/) [harmony](/post/harmony/) [during](/post/during/) [the](/post/the/) [performance](/post/performance/)."
+  - 和谐，和睦，协调。例如: "[The](/zh/post/the/) [different](/zh/post/different/) colors [in](/zh/post/in/) [the](/zh/post/the/) [painting](/zh/post/painting/) [work](/zh/post/work/) [in](/zh/post/in/) [perfect](/zh/post/perfect/) [harmony](/zh/post/harmony/)."
+  - 协调一致，融洽。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [great](/zh/post/great/) [harmony](/zh/post/harmony/) [among](/zh/post/among/) [the](/zh/post/the/) members [of](/zh/post/of/) [the](/zh/post/the/) [team](/zh/post/team/)."
+  - 和声，和音。例如: "[The](/zh/post/the/) choir created [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [harmony](/zh/post/harmony/) [during](/zh/post/during/) [the](/zh/post/the/) [performance](/zh/post/performance/)."
 
 ## 短语
-- "[In](/post/in/) [harmony](/post/harmony/) [with](/post/with/)" 意为与...协调一致。例如: "[Their](/post/their/) ideas were [in](/post/in/) [harmony](/post/harmony/) [with](/post/with/) [the](/post/the/) goals [of](/post/of/) [the](/post/the/) [project](/post/project/)."
-- "[Harmony](/post/harmony/) [of](/post/of/) colors" 指颜色的和谐搭配。
+- "[In](/zh/post/in/) [harmony](/zh/post/harmony/) [with](/zh/post/with/)" 意为与...协调一致。例如: "[Their](/zh/post/their/) ideas were [in](/zh/post/in/) [harmony](/zh/post/harmony/) [with](/zh/post/with/) [the](/zh/post/the/) goals [of](/zh/post/of/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- "[Harmony](/zh/post/harmony/) [of](/zh/post/of/) colors" 指颜色的和谐搭配。
 
 ## 例句
-- 名词: "[The](/post/the/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [garden](/post/garden/) was carefully planned [to](/post/to/) [create](/post/create/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [harmony](/post/harmony/) [and](/post/and/) tranquility."
-- 动词（引申义）: "[Their](/post/their/) voices harmonized [perfectly](/post/perfectly/), creating [a](/post/a/) mesmerizing melody."
+- 名词: "[The](/zh/post/the/) [design](/zh/post/design/) [of](/zh/post/of/) [the](/zh/post/the/) [garden](/zh/post/garden/) was carefully planned [to](/zh/post/to/) [create](/zh/post/create/) [a](/zh/post/a/) [sense](/zh/post/sense/) [of](/zh/post/of/) [harmony](/zh/post/harmony/) [and](/zh/post/and/) tranquility."
+- 动词（引申义）: "[Their](/zh/post/their/) voices harmonized [perfectly](/zh/post/perfectly/), creating [a](/zh/post/a/) mesmerizing melody."
 
 ## 同义词
-- [Agreement](/post/agreement/)
+- [Agreement](/zh/post/agreement/)
 - Consonance
-- [Accord](/post/accord/)
+- [Accord](/zh/post/accord/)
 - Unison
-- [Balance](/post/balance/)
+- [Balance](/zh/post/balance/)

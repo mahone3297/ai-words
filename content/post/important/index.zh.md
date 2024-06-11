@@ -11,21 +11,21 @@ keywords = ['ai words', 'important']
 /ɪmˈpɔːrtənt/
 
 ## 释义
-- **形容词**: 重要的，具有重大意义的。例如: "[This](/post/this/) is an [important](/post/important/) [decision](/post/decision/) [you](/post/you/) [have](/post/have/) [to](/post/to/) [make](/post/make/)."
-- **名词**: （常与the连用）重要性，重大。例如: "[The](/post/the/) [importance](/post/importance/) [of](/post/of/) [education](/post/education/) cannot [be](/post/be/) overstated."
+- **形容词**: 重要的，具有重大意义的。例如: "[This](/zh/post/this/) is an [important](/zh/post/important/) [decision](/zh/post/decision/) [you](/zh/post/you/) [have](/zh/post/have/) [to](/zh/post/to/) [make](/zh/post/make/)."
+- **名词**: （常与the连用）重要性，重大。例如: "[The](/zh/post/the/) [importance](/zh/post/importance/) [of](/zh/post/of/) [education](/zh/post/education/) cannot [be](/zh/post/be/) overstated."
 
 ## 短语
-- "[of](/post/of/) [great](/post/great/) [importance](/post/importance/)" 表示非常重要的。
-- "[be](/post/be/) [important](/post/important/) [to](/post/to/) sb." 意味着对某人来说很重要。
-- "[make](/post/make/) [something](/post/something/) [important](/post/important/)" 强调某事的重要性。
+- "[of](/zh/post/of/) [great](/zh/post/great/) [importance](/zh/post/importance/)" 表示非常重要的。
+- "[be](/zh/post/be/) [important](/zh/post/important/) [to](/zh/post/to/) sb." 意味着对某人来说很重要。
+- "[make](/zh/post/make/) [something](/zh/post/something/) [important](/zh/post/important/)" 强调某事的重要性。
 
 ## 例句
-- 形容词: "It's [important](/post/important/) [to](/post/to/) [keep](/post/keep/) [a](/post/a/) balanced diet [for](/post/for/) [good](/post/good/) [health](/post/health/)."
-- 名词: "[The](/post/the/) [importance](/post/importance/) [of](/post/of/) maintaining [good](/post/good/) relationships cannot [be](/post/be/) ignored."
+- 形容词: "It's [important](/zh/post/important/) [to](/zh/post/to/) [keep](/zh/post/keep/) [a](/zh/post/a/) balanced diet [for](/zh/post/for/) [good](/zh/post/good/) [health](/zh/post/health/)."
+- 名词: "[The](/zh/post/the/) [importance](/zh/post/importance/) [of](/zh/post/of/) maintaining [good](/zh/post/good/) relationships cannot [be](/zh/post/be/) ignored."
 
 ## 同义词
-- [Vital](/post/vital/)
+- [Vital](/zh/post/vital/)
 - Crucial
-- [Significant](/post/significant/)
-- [Essential](/post/essential/)
+- [Significant](/zh/post/significant/)
+- [Essential](/zh/post/essential/)
 - Momentous

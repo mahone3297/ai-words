@@ -7,33 +7,33 @@ description = '[pəˈreid] n.游行；检阅 vi.游行'
 keywords = ['ai words', 'parade']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈpærəde/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [public](/en/post/public/) [procession](/en/post/procession/), [usually](/en/post/usually/) including [a](/en/post/a/) marching [band](/en/post/band/) [and](/en/post/and/) [often](/en/post/often/) featuring decorated floats, performers, [or](/en/post/or/) displays [of](/en/post/of/) [various](/en/post/various/) kinds, held [to](/en/post/to/) [celebrate](/en/post/celebrate/) [a](/en/post/a/) [special](/en/post/special/) [occasion](/en/post/occasion/), honor [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/), [or](/en/post/or/) commemorate [a](/en/post/a/) [holiday](/en/post/holiday/) [or](/en/post/or/) [event](/en/post/event/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [annual](/en/post/annual/) Thanksgiving [Day](/en/post/day/) [parade](/en/post/parade/) drew crowds [from](/en/post/from/) [all](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [city](/en/post/city/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [public](/post/public/) [procession](/post/procession/), [usually](/post/usually/) including [a](/post/a/) marching [band](/post/band/) [and](/post/and/) [often](/post/often/) featuring decorated floats, performers, [or](/post/or/) displays [of](/post/of/) [various](/post/various/) kinds, held [to](/post/to/) [celebrate](/post/celebrate/) [a](/post/a/) [special](/post/special/) [occasion](/post/occasion/), honor [a](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/), [or](/post/or/) commemorate [a](/post/a/) [holiday](/post/holiday/) [or](/post/or/) [event](/post/event/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [annual](/post/annual/) Thanksgiving [Day](/post/day/) [parade](/post/parade/) drew crowds [from](/post/from/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [city](/post/city/)."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [high](/en/post/high/) [school](/en/post/school/) marching [band](/en/post/band/) performed [in](/en/post/in/) [the](/en/post/the/) town's [Memorial](/en/post/memorial/) [Day](/en/post/day/) [parade](/en/post/parade/)."
+[Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) [high](/post/high/) [school](/post/school/) marching [band](/post/band/) performed [in](/post/in/) [the](/post/the/) town's [Memorial](/post/memorial/) [Day](/post/day/) [parade](/post/parade/)."
 
-- **[Verb](/en/post/verb/)**: (1) [To](/en/post/to/) [organize](/en/post/organize/) [or](/en/post/or/) [take](/en/post/take/) [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [parade](/en/post/parade/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [will](/en/post/will/) [be](/en/post/be/) parading [through](/en/post/through/) [the](/en/post/the/) streets [tomorrow](/en/post/tomorrow/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [their](/en/post/their/) [victory](/en/post/victory/)."
-(2) [To](/en/post/to/) [display](/en/post/display/) [or](/en/post/or/) [show](/en/post/show/) [off](/en/post/off/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) proudly [or](/en/post/or/) ostentatiously. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) paraded [her](/en/post/her/) [new](/en/post/new/) [dress](/en/post/dress/) [around](/en/post/around/) [the](/en/post/the/) [party](/en/post/party/)."
+- **[Verb](/post/verb/)**: (1) [To](/post/to/) [organize](/post/organize/) [or](/post/or/) [take](/post/take/) [part](/post/part/) [in](/post/in/) [a](/post/a/) [parade](/post/parade/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) [will](/post/will/) [be](/post/be/) parading [through](/post/through/) [the](/post/the/) streets [tomorrow](/post/tomorrow/) [to](/post/to/) [celebrate](/post/celebrate/) [their](/post/their/) [victory](/post/victory/)."
+(2) [To](/post/to/) [display](/post/display/) [or](/post/or/) [show](/post/show/) [off](/post/off/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) proudly [or](/post/or/) ostentatiously. [For](/post/for/) [example](/post/example/): "[She](/post/she/) paraded [her](/post/her/) [new](/post/new/) [dress](/post/dress/) [around](/post/around/) [the](/post/the/) [party](/post/party/)."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [parade](/en/post/parade/) [its](/en/post/its/) latest [technology](/en/post/technology/) [at](/en/post/at/) [the](/en/post/the/) [trade](/en/post/trade/) [fair](/en/post/fair/)."
+[Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [parade](/post/parade/) [its](/post/its/) latest [technology](/post/technology/) [at](/post/at/) [the](/post/the/) [trade](/post/trade/) [fair](/post/fair/)."
 
 ## Phrases
-- "[Parade](/en/post/parade/) [ground](/en/post/ground/)": [A](/en/post/a/) [large](/en/post/large/) [open](/en/post/open/) [area](/en/post/area/) [where](/en/post/where/) [military](/en/post/military/) drills [and](/en/post/and/) parades are conducted.
-- "[Parade](/en/post/parade/) one's [knowledge](/en/post/knowledge/)": [To](/en/post/to/) [show](/en/post/show/) [off](/en/post/off/) [or](/en/post/or/) [boast](/en/post/boast/) [about](/en/post/about/) [how](/en/post/how/) [much](/en/post/much/) [one](/en/post/one/) knows [about](/en/post/about/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/).
-- "[March](/en/post/march/) [in](/en/post/in/) [a](/en/post/a/) [parade](/en/post/parade/)": [To](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [parade](/en/post/parade/) [by](/en/post/by/) walking [or](/en/post/or/) marching [along](/en/post/along/) [with](/en/post/with/) others.
+- "[Parade](/post/parade/) [ground](/post/ground/)": [A](/post/a/) [large](/post/large/) [open](/post/open/) [area](/post/area/) [where](/post/where/) [military](/post/military/) drills [and](/post/and/) parades are conducted.
+- "[Parade](/post/parade/) one's [knowledge](/post/knowledge/)": [To](/post/to/) [show](/post/show/) [off](/post/off/) [or](/post/or/) [boast](/post/boast/) [about](/post/about/) [how](/post/how/) [much](/post/much/) [one](/post/one/) knows [about](/post/about/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/).
+- "[March](/post/march/) [in](/post/in/) [a](/post/a/) [parade](/post/parade/)": [To](/post/to/) [participate](/post/participate/) [in](/post/in/) [a](/post/a/) [parade](/post/parade/) [by](/post/by/) walking [or](/post/or/) marching [along](/post/along/) [with](/post/with/) others.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) veterans led [the](/en/post/the/) [Fourth](/en/post/fourth/) [of](/en/post/of/) July [parade](/en/post/parade/) [down](/en/post/down/) [Main](/en/post/main/) [Street](/en/post/street/)."
-- **[Verb](/en/post/verb/)**: "[Every](/en/post/every/) [year](/en/post/year/), [they](/en/post/they/) [parade](/en/post/parade/) [their](/en/post/their/) prize-winning livestock [around](/en/post/around/) [the](/en/post/the/) fairgrounds."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) veterans led [the](/post/the/) [Fourth](/post/fourth/) [of](/post/of/) July [parade](/post/parade/) [down](/post/down/) [Main](/post/main/) [Street](/post/street/)."
+- **[Verb](/post/verb/)**: "[Every](/post/every/) [year](/post/year/), [they](/post/they/) [parade](/post/parade/) [their](/post/their/) prize-winning livestock [around](/post/around/) [the](/post/the/) fairgrounds."
 
 ## Synonyms
-- [March](/en/post/march/)
-- [Procession](/en/post/procession/)
+- [March](/post/march/)
+- [Procession](/post/procession/)
 - Pageant
-- [Display](/en/post/display/)
-- [Exhibition](/en/post/exhibition/)
+- [Display](/post/display/)
+- [Exhibition](/post/exhibition/)
 - Promenade
 - Cavalcade

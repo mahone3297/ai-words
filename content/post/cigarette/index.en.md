@@ -7,35 +7,35 @@ description = '[sigəˈret] n.香烟，纸烟，卷烟'
 keywords = ['ai words', 'cigarette']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɪˈsaɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [cigarette](/en/post/cigarette/) is [a](/en/post/a/) [thin](/en/post/thin/) rolled [or](/en/post/or/) folded [leaf](/en/post/leaf/) [of](/en/post/of/) [tobacco](/en/post/tobacco/), [often](/en/post/often/) impregnated [with](/en/post/with/) cutting agents, [that](/en/post/that/) is smoked [as](/en/post/as/) [a](/en/post/a/) [leisure](/en/post/leisure/) [activity](/en/post/activity/) [or](/en/post/or/) [for](/en/post/for/) [its](/en/post/its/) psychoactive effects.
+### [Noun](/post/noun/)
+[A](/post/a/) [cigarette](/post/cigarette/) is [a](/post/a/) [thin](/post/thin/) rolled [or](/post/or/) folded [leaf](/post/leaf/) [of](/post/of/) [tobacco](/post/tobacco/), [often](/post/often/) impregnated [with](/post/with/) cutting agents, [that](/post/that/) is smoked [as](/post/as/) [a](/post/a/) [leisure](/post/leisure/) [activity](/post/activity/) [or](/post/or/) [for](/post/for/) [its](/post/its/) psychoactive effects.
 
-### [Verb](/en/post/verb/) (informal)
-[To](/en/post/to/) [smoke](/en/post/smoke/) [a](/en/post/a/) [cigarette](/en/post/cigarette/), typically habitually.
+### [Verb](/post/verb/) (informal)
+[To](/post/to/) [smoke](/post/smoke/) [a](/post/a/) [cigarette](/post/cigarette/), typically habitually.
 
 ## Phrases
-- "[Light](/en/post/light/) [up](/en/post/up/) [a](/en/post/a/) [cigarette](/en/post/cigarette/)" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) smoking [a](/en/post/a/) [cigarette](/en/post/cigarette/).
-- "[Take](/en/post/take/) [a](/en/post/a/) [break](/en/post/break/) [and](/en/post/and/) [have](/en/post/have/) [a](/en/post/a/) [cigarette](/en/post/cigarette/)" suggests [a](/en/post/a/) [moment](/en/post/moment/) [of](/en/post/of/) [rest](/en/post/rest/) [with](/en/post/with/) [a](/en/post/a/) [cigarette](/en/post/cigarette/).
-- "Giving [up](/en/post/up/) cigarettes" refers [to](/en/post/to/) quitting smoking.
+- "[Light](/post/light/) [up](/post/up/) [a](/post/a/) [cigarette](/post/cigarette/)" [means](/post/means/) [to](/post/to/) [start](/post/start/) smoking [a](/post/a/) [cigarette](/post/cigarette/).
+- "[Take](/post/take/) [a](/post/a/) [break](/post/break/) [and](/post/and/) [have](/post/have/) [a](/post/a/) [cigarette](/post/cigarette/)" suggests [a](/post/a/) [moment](/post/moment/) [of](/post/of/) [rest](/post/rest/) [with](/post/with/) [a](/post/a/) [cigarette](/post/cigarette/).
+- "Giving [up](/post/up/) cigarettes" refers [to](/post/to/) quitting smoking.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) took [a](/en/post/a/) [long](/en/post/long/) [drag](/en/post/drag/) [on](/en/post/on/) [his](/en/post/his/) [cigarette](/en/post/cigarette/) [as](/en/post/as/) [he](/en/post/he/) sat [by](/en/post/by/) [the](/en/post/the/) [window](/en/post/window/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tried [to](/en/post/to/) [quit](/en/post/quit/) smoking, [but](/en/post/but/) [eventually](/en/post/eventually/) caved [in](/en/post/in/) [and](/en/post/and/) lit [a](/en/post/a/) [cigarette](/en/post/cigarette/)."
-- **Informal**: "Let's [go](/en/post/go/) [outside](/en/post/outside/) [for](/en/post/for/) [a](/en/post/a/) [cigarette](/en/post/cigarette/) [break](/en/post/break/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) took [a](/post/a/) [long](/post/long/) [drag](/post/drag/) [on](/post/on/) [his](/post/his/) [cigarette](/post/cigarette/) [as](/post/as/) [he](/post/he/) sat [by](/post/by/) [the](/post/the/) [window](/post/window/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tried [to](/post/to/) [quit](/post/quit/) smoking, [but](/post/but/) [eventually](/post/eventually/) caved [in](/post/in/) [and](/post/and/) lit [a](/post/a/) [cigarette](/post/cigarette/)."
+- **Informal**: "Let's [go](/post/go/) [outside](/post/outside/) [for](/post/for/) [a](/post/a/) [cigarette](/post/cigarette/) [break](/post/break/)."
 
 ## Synonyms
 - Cig
-- [Cigarette](/en/post/cigarette/) butt
+- [Cigarette](/post/cigarette/) butt
 - Cigarillo
 -烟草
 - Pall Mall
 - Chesterfield
 
 ## Antonyms
-- Quitting ([action](/en/post/action/) [of](/en/post/of/) stopping smoking)
+- Quitting ([action](/post/action/) [of](/post/of/) stopping smoking)
 - Abstaining
-- Extinguishing ([action](/en/post/action/) [of](/en/post/of/) putting [out](/en/post/out/) [a](/en/post/a/) [cigarette](/en/post/cigarette/))
+- Extinguishing ([action](/post/action/) [of](/post/of/) putting [out](/post/out/) [a](/post/a/) [cigarette](/post/cigarette/))

@@ -7,36 +7,36 @@ description = '[edʒ] n.边缘，边；刀口'
 keywords = ['ai words', 'edge']
 +++
 
-## [Word](/en/post/word/): [Edge](/en/post/edge/)
+## [Word](/post/word/): [Edge](/post/edge/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɛdʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) sharpened [side](/en/post/side/) [of](/en/post/of/) [a](/en/post/a/) [blade](/en/post/blade/) [or](/en/post/or/) cutting [tool](/en/post/tool/); [also](/en/post/also/) [the](/en/post/the/) [thin](/en/post/thin/), [sharp](/en/post/sharp/) [line](/en/post/line/) [where](/en/post/where/) [two](/en/post/two/) surfaces [meet](/en/post/meet/). [Example](/en/post/example/): "[The](/en/post/the/) [knife](/en/post/knife/) had [a](/en/post/a/) [very](/en/post/very/) [fine](/en/post/fine/) [edge](/en/post/edge/)."
-  - [Also](/en/post/also/), [the](/en/post/the/) outermost [limit](/en/post/limit/) [or](/en/post/or/) [boundary](/en/post/boundary/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) stood [on](/en/post/on/) [the](/en/post/the/) [edge](/en/post/edge/) [of](/en/post/of/) [the](/en/post/the/) [forest](/en/post/forest/)."
-  - [In](/en/post/in/) figurative [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [the](/en/post/the/) [point](/en/post/point/) [at](/en/post/at/) [which](/en/post/which/) [something](/en/post/something/) begins [or](/en/post/or/) changes, [often](/en/post/often/) implying [risk](/en/post/risk/) [or](/en/post/or/) excitement. [Example](/en/post/example/): "We're [on](/en/post/on/) [the](/en/post/the/) [edge](/en/post/edge/) [of](/en/post/of/) [a](/en/post/a/) [new](/en/post/new/) technological [revolution](/en/post/revolution/)."
-  - Additionally, [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [advantage](/en/post/advantage/) [or](/en/post/or/) superiority [over](/en/post/over/) others, e.g., "[He](/en/post/he/) has [the](/en/post/the/) [edge](/en/post/edge/) [over](/en/post/over/) [his](/en/post/his/) competitors."
+- **[Noun](/post/noun/)**: [The](/post/the/) sharpened [side](/post/side/) [of](/post/of/) [a](/post/a/) [blade](/post/blade/) [or](/post/or/) cutting [tool](/post/tool/); [also](/post/also/) [the](/post/the/) [thin](/post/thin/), [sharp](/post/sharp/) [line](/post/line/) [where](/post/where/) [two](/post/two/) surfaces [meet](/post/meet/). [Example](/post/example/): "[The](/post/the/) [knife](/post/knife/) had [a](/post/a/) [very](/post/very/) [fine](/post/fine/) [edge](/post/edge/)."
+  - [Also](/post/also/), [the](/post/the/) outermost [limit](/post/limit/) [or](/post/or/) [boundary](/post/boundary/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [house](/post/house/) stood [on](/post/on/) [the](/post/the/) [edge](/post/edge/) [of](/post/of/) [the](/post/the/) [forest](/post/forest/)."
+  - [In](/post/in/) figurative [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [the](/post/the/) [point](/post/point/) [at](/post/at/) [which](/post/which/) [something](/post/something/) begins [or](/post/or/) changes, [often](/post/often/) implying [risk](/post/risk/) [or](/post/or/) excitement. [Example](/post/example/): "We're [on](/post/on/) [the](/post/the/) [edge](/post/edge/) [of](/post/of/) [a](/post/a/) [new](/post/new/) technological [revolution](/post/revolution/)."
+  - Additionally, [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [advantage](/post/advantage/) [or](/post/or/) superiority [over](/post/over/) others, e.g., "[He](/post/he/) has [the](/post/the/) [edge](/post/edge/) [over](/post/over/) [his](/post/his/) competitors."
   
-- **[Verb](/en/post/verb/)**: ([usually](/en/post/usually/) [in](/en/post/in/) [the](/en/post/the/) [form](/en/post/form/) '[to](/en/post/to/) [edge](/en/post/edge/)') [To](/en/post/to/) [move](/en/post/move/) [slowly](/en/post/slowly/) [and](/en/post/and/) cautiously, [especially](/en/post/especially/) towards [a](/en/post/a/) [particular](/en/post/particular/) [position](/en/post/position/). [Example](/en/post/example/): "[He](/en/post/he/) edged closer [to](/en/post/to/) [the](/en/post/the/) [door](/en/post/door/)."
-  - [Also](/en/post/also/), [to](/en/post/to/) [make](/en/post/make/) [slow](/en/post/slow/) [and](/en/post/and/) [gradual](/en/post/gradual/) [progress](/en/post/progress/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is edging towards profitability."
-  - Figuratively, [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [gradually](/en/post/gradually/) surpass [or](/en/post/or/) outdo [someone](/en/post/someone/). [Example](/en/post/example/): "[Their](/en/post/their/) [team](/en/post/team/) started [to](/en/post/to/) [edge](/en/post/edge/) [ahead](/en/post/ahead/) [in](/en/post/in/) [the](/en/post/the/) [final](/en/post/final/) [quarter](/en/post/quarter/)."
+- **[Verb](/post/verb/)**: ([usually](/post/usually/) [in](/post/in/) [the](/post/the/) [form](/post/form/) '[to](/post/to/) [edge](/post/edge/)') [To](/post/to/) [move](/post/move/) [slowly](/post/slowly/) [and](/post/and/) cautiously, [especially](/post/especially/) towards [a](/post/a/) [particular](/post/particular/) [position](/post/position/). [Example](/post/example/): "[He](/post/he/) edged closer [to](/post/to/) [the](/post/the/) [door](/post/door/)."
+  - [Also](/post/also/), [to](/post/to/) [make](/post/make/) [slow](/post/slow/) [and](/post/and/) [gradual](/post/gradual/) [progress](/post/progress/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) is edging towards profitability."
+  - Figuratively, [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [gradually](/post/gradually/) surpass [or](/post/or/) outdo [someone](/post/someone/). [Example](/post/example/): "[Their](/post/their/) [team](/post/team/) started [to](/post/to/) [edge](/post/edge/) [ahead](/post/ahead/) [in](/post/in/) [the](/post/the/) [final](/post/final/) [quarter](/post/quarter/)."
 
 ## Phrases
-- "[On](/en/post/on/) [the](/en/post/the/) [edge](/en/post/edge/)": [Being](/en/post/being/) [in](/en/post/in/) [a](/en/post/a/) precarious [or](/en/post/or/) [tense](/en/post/tense/) [situation](/en/post/situation/). [Example](/en/post/example/): "I was [on](/en/post/on/) [the](/en/post/the/) [edge](/en/post/edge/) [of](/en/post/of/) [my](/en/post/my/) [seat](/en/post/seat/) [during](/en/post/during/) [the](/en/post/the/) movie's climax."
-- "[Edge](/en/post/edge/) [of](/en/post/of/) [reason](/en/post/reason/)": [At](/en/post/at/) [the](/en/post/the/) [limit](/en/post/limit/) [of](/en/post/of/) [what](/en/post/what/) is [reasonable](/en/post/reasonable/) [or](/en/post/or/) [logical](/en/post/logical/). 
-- "Cutting [edge](/en/post/edge/)": Refers [to](/en/post/to/) [the](/en/post/the/) [most](/en/post/most/) [advanced](/en/post/advanced/) [or](/en/post/or/) latest [stage](/en/post/stage/) [of](/en/post/of/) [development](/en/post/development/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/). [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) smartphone [technology](/en/post/technology/) is [truly](/en/post/truly/) cutting [edge](/en/post/edge/)."
+- "[On](/post/on/) [the](/post/the/) [edge](/post/edge/)": [Being](/post/being/) [in](/post/in/) [a](/post/a/) precarious [or](/post/or/) [tense](/post/tense/) [situation](/post/situation/). [Example](/post/example/): "I was [on](/post/on/) [the](/post/the/) [edge](/post/edge/) [of](/post/of/) [my](/post/my/) [seat](/post/seat/) [during](/post/during/) [the](/post/the/) movie's climax."
+- "[Edge](/post/edge/) [of](/post/of/) [reason](/post/reason/)": [At](/post/at/) [the](/post/the/) [limit](/post/limit/) [of](/post/of/) [what](/post/what/) is [reasonable](/post/reasonable/) [or](/post/or/) [logical](/post/logical/). 
+- "Cutting [edge](/post/edge/)": Refers [to](/post/to/) [the](/post/the/) [most](/post/most/) [advanced](/post/advanced/) [or](/post/or/) latest [stage](/post/stage/) [of](/post/of/) [development](/post/development/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/). [Example](/post/example/): "[The](/post/the/) [new](/post/new/) smartphone [technology](/post/technology/) is [truly](/post/truly/) cutting [edge](/post/edge/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) carefully walked [along](/en/post/along/) [the](/en/post/the/) [slippery](/en/post/slippery/) [edge](/en/post/edge/) [of](/en/post/of/) [the](/en/post/the/) [cliff](/en/post/cliff/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) edged [his](/en/post/his/) [car](/en/post/car/) [forward](/en/post/forward/) [in](/en/post/in/) [the](/en/post/the/) [traffic](/en/post/traffic/) [jam](/en/post/jam/)."
-- **Figurative [usage](/en/post/usage/)**: "[Her](/en/post/her/) nerves were [so](/en/post/so/) frayed [that](/en/post/that/) [she](/en/post/she/) felt [like](/en/post/like/) [she](/en/post/she/) was [living](/en/post/living/) [on](/en/post/on/) [the](/en/post/the/) [edge](/en/post/edge/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) carefully walked [along](/post/along/) [the](/post/the/) [slippery](/post/slippery/) [edge](/post/edge/) [of](/post/of/) [the](/post/the/) [cliff](/post/cliff/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) edged [his](/post/his/) [car](/post/car/) [forward](/post/forward/) [in](/post/in/) [the](/post/the/) [traffic](/post/traffic/) [jam](/post/jam/)."
+- **Figurative [usage](/post/usage/)**: "[Her](/post/her/) nerves were [so](/post/so/) frayed [that](/post/that/) [she](/post/she/) felt [like](/post/like/) [she](/post/she/) was [living](/post/living/) [on](/post/on/) [the](/post/the/) [edge](/post/edge/)."
 
 ## Synonyms
-- Brink ([noun](/en/post/noun/))
-- [Margin](/en/post/margin/) ([noun](/en/post/noun/))
-- Perimeter ([noun](/en/post/noun/))
-- Verge ([noun](/en/post/noun/))
-- Sidle ([verb](/en/post/verb/))
-- Nudge ([verb](/en/post/verb/))
-- [Advance](/en/post/advance/) ([verb](/en/post/verb/), [in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- Brink ([noun](/post/noun/))
+- [Margin](/post/margin/) ([noun](/post/noun/))
+- Perimeter ([noun](/post/noun/))
+- Verge ([noun](/post/noun/))
+- Sidle ([verb](/post/verb/))
+- Nudge ([verb](/post/verb/))
+- [Advance](/post/advance/) ([verb](/post/verb/), [in](/post/in/) [certain](/post/certain/) contexts)

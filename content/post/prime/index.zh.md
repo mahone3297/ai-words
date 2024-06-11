@@ -11,23 +11,23 @@ keywords = ['ai words', 'prime']
 /praɪm/
 
 ## 释义
-- **形容词**: 第一的，首要的，主要的。例如: "[The](/post/the/) [prime](/post/prime/) [minister](/post/minister/) is [the](/post/the/) [most](/post/most/) [important](/post/important/) [person](/post/person/) [in](/post/in/) [the](/post/the/) [government](/post/government/)."
-- **名词**: 质数，素数。例如: "2, 3, 5, [and](/post/and/) 7 are [all](/post/all/) [prime](/post/prime/) numbers."
-- **动词**: 使准备好，预热。例如: "[The](/post/the/) [athlete](/post/athlete/) was primed [for](/post/for/) [the](/post/the/) [race](/post/race/) [after](/post/after/) weeks [of](/post/of/) [training](/post/training/)."
+- **形容词**: 第一的，首要的，主要的。例如: "[The](/zh/post/the/) [prime](/zh/post/prime/) [minister](/zh/post/minister/) is [the](/zh/post/the/) [most](/zh/post/most/) [important](/zh/post/important/) [person](/zh/post/person/) [in](/zh/post/in/) [the](/zh/post/the/) [government](/zh/post/government/)."
+- **名词**: 质数，素数。例如: "2, 3, 5, [and](/zh/post/and/) 7 are [all](/zh/post/all/) [prime](/zh/post/prime/) numbers."
+- **动词**: 使准备好，预热。例如: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) was primed [for](/zh/post/for/) [the](/zh/post/the/) [race](/zh/post/race/) [after](/zh/post/after/) weeks [of](/zh/post/of/) [training](/zh/post/training/)."
 
 ## 短语
-- "[prime](/post/prime/) mover" 主要动力源，原动机。
-- "[prime](/post/prime/) [candidate](/post/candidate/)" 最佳人选，首选对象。
-- "[prime](/post/prime/) [number](/post/number/)" 质数，素数。
+- "[prime](/zh/post/prime/) mover" 主要动力源，原动机。
+- "[prime](/zh/post/prime/) [candidate](/zh/post/candidate/)" 最佳人选，首选对象。
+- "[prime](/zh/post/prime/) [number](/zh/post/number/)" 质数，素数。
 
 ## 例句
-- 形容词: "[The](/post/the/) [prime](/post/prime/) [objective](/post/objective/) [of](/post/of/) [the](/post/the/) [mission](/post/mission/) is [to](/post/to/) [explore](/post/explore/) Mars."
-- 名词: "Is 19 [a](/post/a/) [prime](/post/prime/) [number](/post/number/)? [Yes](/post/yes/), [it](/post/it/) is."
-- 动词: "[The](/post/the/) [engine](/post/engine/) needs [to](/post/to/) [be](/post/be/) primed [before](/post/before/) starting."
+- 形容词: "[The](/zh/post/the/) [prime](/zh/post/prime/) [objective](/zh/post/objective/) [of](/zh/post/of/) [the](/zh/post/the/) [mission](/zh/post/mission/) is [to](/zh/post/to/) [explore](/zh/post/explore/) Mars."
+- 名词: "Is 19 [a](/zh/post/a/) [prime](/zh/post/prime/) [number](/zh/post/number/)? [Yes](/zh/post/yes/), [it](/zh/post/it/) is."
+- 动词: "[The](/zh/post/the/) [engine](/zh/post/engine/) needs [to](/zh/post/to/) [be](/zh/post/be/) primed [before](/zh/post/before/) starting."
 
 ## 同义词
-- [Primary](/post/primary/)
-- [Chief](/post/chief/)
-- [Principal](/post/principal/)
-- [Leading](/post/leading/)
-- [Foremost](/post/foremost/)
+- [Primary](/zh/post/primary/)
+- [Chief](/zh/post/chief/)
+- [Principal](/zh/post/principal/)
+- [Leading](/zh/post/leading/)
+- [Foremost](/zh/post/foremost/)

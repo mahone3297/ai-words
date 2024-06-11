@@ -11,20 +11,20 @@ keywords = ['ai words', 'plural']
 /pluˈrəl/
 
 ## 释义
-- **形容词**: 复数形式的，表示不止一个。例如: "[The](/post/the/) [plural](/post/plural/) [of](/post/of/) '[cat](/post/cat/)' is 'cats'."
-- **名词**: 复数形式，常在语法讨论中使用。例如: "[In](/post/in/) English, [some](/post/some/) nouns [have](/post/have/) [irregular](/post/irregular/) plurals."
+- **形容词**: 复数形式的，表示不止一个。例如: "[The](/zh/post/the/) [plural](/zh/post/plural/) [of](/zh/post/of/) '[cat](/zh/post/cat/)' is 'cats'."
+- **名词**: 复数形式，常在语法讨论中使用。例如: "[In](/zh/post/in/) English, [some](/zh/post/some/) nouns [have](/zh/post/have/) [irregular](/zh/post/irregular/) plurals."
 
 ## 短语
-- "[in](/post/in/) [the](/post/the/) [plural](/post/plural/)" 表示在复数形式中。例如: "[Some](/post/some/) words are spelled differently [in](/post/in/) [the](/post/the/) [plural](/post/plural/)."
-- "[plural](/post/plural/) [form](/post/form/)" 指的是一个词的复数形式。例如: "[The](/post/the/) [plural](/post/plural/) [form](/post/form/) [of](/post/of/) '[child](/post/child/)' is 'children'."
+- "[in](/zh/post/in/) [the](/zh/post/the/) [plural](/zh/post/plural/)" 表示在复数形式中。例如: "[Some](/zh/post/some/) words are spelled differently [in](/zh/post/in/) [the](/zh/post/the/) [plural](/zh/post/plural/)."
+- "[plural](/zh/post/plural/) [form](/zh/post/form/)" 指的是一个词的复数形式。例如: "[The](/zh/post/the/) [plural](/zh/post/plural/) [form](/zh/post/form/) [of](/zh/post/of/) '[child](/zh/post/child/)' is 'children'."
 
 ## 例句
-- 形容词: "[She](/post/she/) loves [reading](/post/reading/) books [in](/post/in/) [the](/post/the/) [plural](/post/plural/), [meaning](/post/meaning/) [she](/post/she/) enjoys [variety](/post/variety/)."
-- 名词: "We'll [discuss](/post/discuss/) [the](/post/the/) [plural](/post/plural/) [in](/post/in/) [grammar](/post/grammar/) [class](/post/class/) [tomorrow](/post/tomorrow/)."
+- 形容词: "[She](/zh/post/she/) loves [reading](/zh/post/reading/) books [in](/zh/post/in/) [the](/zh/post/the/) [plural](/zh/post/plural/), [meaning](/zh/post/meaning/) [she](/zh/post/she/) enjoys [variety](/zh/post/variety/)."
+- 名词: "We'll [discuss](/zh/post/discuss/) [the](/zh/post/the/) [plural](/zh/post/plural/) [in](/zh/post/in/) [grammar](/zh/post/grammar/) [class](/zh/post/class/) [tomorrow](/zh/post/tomorrow/)."
 
 ## 同义词
-- [Multiple](/post/multiple/)
-- [Several](/post/several/)
-- [Many](/post/many/)
-- [Various](/post/various/)
-- [Diverse](/post/diverse/)
+- [Multiple](/zh/post/multiple/)
+- [Several](/zh/post/several/)
+- [Many](/zh/post/many/)
+- [Various](/zh/post/various/)
+- [Diverse](/zh/post/diverse/)

@@ -7,36 +7,36 @@ description = '[pəː] prep.每'
 keywords = ['ai words', 'per']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. An abbreviation [for](/en/post/for/) "[per](/en/post/per/) [unit](/en/post/unit/)" [or](/en/post/or/) "[for](/en/post/for/) [each](/en/post/each/)," [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [rate](/en/post/rate/) [or](/en/post/or/) [ratio](/en/post/ratio/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [cost](/en/post/cost/) is $10 [per](/en/post/per/) [hour](/en/post/hour/)."
-2. [A](/en/post/a/) Latin [term](/en/post/term/) [meaning](/en/post/meaning/) "[through](/en/post/through/)" [or](/en/post/or/) "[by](/en/post/by/) [means](/en/post/means/) [of](/en/post/of/)," [often](/en/post/often/) [in](/en/post/in/) [mathematical](/en/post/mathematical/) [or](/en/post/or/) [scientific](/en/post/scientific/) contexts. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [acceleration](/en/post/acceleration/) is 5 meters [per](/en/post/per/) [second](/en/post/second/) squared."
+### [Noun](/post/noun/)
+1. An abbreviation [for](/post/for/) "[per](/post/per/) [unit](/post/unit/)" [or](/post/or/) "[for](/post/for/) [each](/post/each/)," [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [rate](/post/rate/) [or](/post/or/) [ratio](/post/ratio/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [cost](/post/cost/) is $10 [per](/post/per/) [hour](/post/hour/)."
+2. [A](/post/a/) Latin [term](/post/term/) [meaning](/post/meaning/) "[through](/post/through/)" [or](/post/or/) "[by](/post/by/) [means](/post/means/) [of](/post/of/)," [often](/post/often/) [in](/post/in/) [mathematical](/post/mathematical/) [or](/post/or/) [scientific](/post/scientific/) contexts. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [acceleration](/post/acceleration/) is 5 meters [per](/post/per/) [second](/post/second/) squared."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [calculate](/en/post/calculate/) [or](/en/post/or/) [measure](/en/post/measure/) [something](/en/post/something/) [per](/en/post/per/) [a](/en/post/a/) given [unit](/en/post/unit/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [calculate](/en/post/calculate/) [our](/en/post/our/) [income](/en/post/income/) [per](/en/post/per/) [month](/en/post/month/)."
-2. [To](/en/post/to/) [assign](/en/post/assign/) [or](/en/post/or/) [distribute](/en/post/distribute/) [something](/en/post/something/) [on](/en/post/on/) [a](/en/post/a/) per-person [basis](/en/post/basis/). [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) [employee](/en/post/employee/) gets [a](/en/post/a/) bonus [per](/en/post/per/) [their](/en/post/their/) [performance](/en/post/performance/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [calculate](/post/calculate/) [or](/post/or/) [measure](/post/measure/) [something](/post/something/) [per](/post/per/) [a](/post/a/) given [unit](/post/unit/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [calculate](/post/calculate/) [our](/post/our/) [income](/post/income/) [per](/post/per/) [month](/post/month/)."
+2. [To](/post/to/) [assign](/post/assign/) [or](/post/or/) [distribute](/post/distribute/) [something](/post/something/) [on](/post/on/) [a](/post/a/) per-person [basis](/post/basis/). [For](/post/for/) [example](/post/example/): "[Each](/post/each/) [employee](/post/employee/) gets [a](/post/a/) bonus [per](/post/per/) [their](/post/their/) [performance](/post/performance/)."
 
-### [Preposition](/en/post/preposition/)
-1. [To](/en/post/to/) [express](/en/post/express/) [the](/en/post/the/) [ratio](/en/post/ratio/) [or](/en/post/or/) [proportion](/en/post/proportion/) [of](/en/post/of/) [one](/en/post/one/) [thing](/en/post/thing/) [to](/en/post/to/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) works [out](/en/post/out/) [five](/en/post/five/) days [per](/en/post/per/) [week](/en/post/week/)."
+### [Preposition](/post/preposition/)
+1. [To](/post/to/) [express](/post/express/) [the](/post/the/) [ratio](/post/ratio/) [or](/post/or/) [proportion](/post/proportion/) [of](/post/of/) [one](/post/one/) [thing](/post/thing/) [to](/post/to/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) works [out](/post/out/) [five](/post/five/) days [per](/post/per/) [week](/post/week/)."
 
 ## Phrases
-- "[Pay](/en/post/pay/) [per](/en/post/per/) [view](/en/post/view/)" (PPV) refers [to](/en/post/to/) [a](/en/post/a/) [system](/en/post/system/) [where](/en/post/where/) customers [pay](/en/post/pay/) [to](/en/post/to/) [watch](/en/post/watch/) [content](/en/post/content/) [once](/en/post/once/).
-- "[Income](/en/post/income/) [per](/en/post/per/) capita" is [a](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [average](/en/post/average/) [income](/en/post/income/) [per](/en/post/per/) [person](/en/post/person/) [in](/en/post/in/) [a](/en/post/a/) [population](/en/post/population/).
-- "Eating [per](/en/post/per/) kilocalorie" is [a](/en/post/a/) nutritional [concept](/en/post/concept/) focusing [on](/en/post/on/) [the](/en/post/the/) [efficiency](/en/post/efficiency/) [of](/en/post/of/) [food](/en/post/food/) intake.
+- "[Pay](/post/pay/) [per](/post/per/) [view](/post/view/)" (PPV) refers [to](/post/to/) [a](/post/a/) [system](/post/system/) [where](/post/where/) customers [pay](/post/pay/) [to](/post/to/) [watch](/post/watch/) [content](/post/content/) [once](/post/once/).
+- "[Income](/post/income/) [per](/post/per/) capita" is [a](/post/a/) [measure](/post/measure/) [of](/post/of/) [average](/post/average/) [income](/post/income/) [per](/post/per/) [person](/post/person/) [in](/post/in/) [a](/post/a/) [population](/post/population/).
+- "Eating [per](/post/per/) kilocalorie" is [a](/post/a/) nutritional [concept](/post/concept/) focusing [on](/post/on/) [the](/post/the/) [efficiency](/post/efficiency/) [of](/post/of/) [food](/post/food/) intake.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's revenue grew [by](/en/post/by/) 10% [per](/en/post/per/) [quarter](/en/post/quarter/)."
-- **[Verb](/en/post/verb/)**: "I'm charged $2 [per](/en/post/per/) [mile](/en/post/mile/) [for](/en/post/for/) [this](/en/post/this/) rental [car](/en/post/car/)."
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) [book](/en/post/book/) costs $15 [per](/en/post/per/) [chapter](/en/post/chapter/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) company's revenue grew [by](/post/by/) 10% [per](/post/per/) [quarter](/post/quarter/)."
+- **[Verb](/post/verb/)**: "I'm charged $2 [per](/post/per/) [mile](/post/mile/) [for](/post/for/) [this](/post/this/) rental [car](/post/car/)."
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) [book](/post/book/) costs $15 [per](/post/per/) [chapter](/post/chapter/)."
 
 ## Synonyms
-- [Per](/en/post/per/) [unit](/en/post/unit/)
-- [Each](/en/post/each/)
-- [For](/en/post/for/) [every](/en/post/every/)
+- [Per](/post/per/) [unit](/post/unit/)
+- [Each](/post/each/)
+- [For](/post/for/) [every](/post/every/)
 - Pro rata
-- [In](/en/post/in/) [proportion](/en/post/proportion/) [to](/en/post/to/)
+- [In](/post/in/) [proportion](/post/proportion/) [to](/post/to/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [usage](/en/post/usage/) [of](/en/post/of/) "[per](/en/post/per/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) is [less](/en/post/less/) [common](/en/post/common/), [but](/en/post/but/) [it](/en/post/it/) exists [in](/en/post/in/) [certain](/en/post/certain/) contexts [like](/en/post/like/) [financial](/en/post/financial/) calculations [or](/en/post/or/) informal greetings. [The](/en/post/the/) [primary](/en/post/primary/) meanings are [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [and](/en/post/and/) [preposition](/en/post/preposition/).
+[Note](/post/note/): [The](/post/the/) [usage](/post/usage/) [of](/post/of/) "[per](/post/per/)" [as](/post/as/) [a](/post/a/) [verb](/post/verb/) is [less](/post/less/) [common](/post/common/), [but](/post/but/) [it](/post/it/) exists [in](/post/in/) [certain](/post/certain/) contexts [like](/post/like/) [financial](/post/financial/) calculations [or](/post/or/) informal greetings. [The](/post/the/) [primary](/post/primary/) meanings are [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [and](/post/and/) [preposition](/post/preposition/).

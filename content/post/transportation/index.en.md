@@ -7,47 +7,47 @@ description = '[ˌtrænspɔːˈtei∫ən] n.运输，运送，客运'
 keywords = ['ai words', 'transportation']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /traˈnspɔːrˈteɪʃən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Transportation](/en/post/transportation/)**: [The](/en/post/the/) [system](/en/post/system/) [or](/en/post/or/) [means](/en/post/means/) [of](/en/post/of/) moving [people](/en/post/people/) [or](/en/post/or/) [goods](/en/post/goods/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) using vehicles [or](/en/post/or/) infrastructure. [For](/en/post/for/) [example](/en/post/example/): "[Public](/en/post/public/) [transportation](/en/post/transportation/) is an [essential](/en/post/essential/) [part](/en/post/part/) [of](/en/post/of/) urban [life](/en/post/life/)."
+### [Noun](/post/noun/)
+**[Transportation](/post/transportation/)**: [The](/post/the/) [system](/post/system/) [or](/post/or/) [means](/post/means/) [of](/post/of/) moving [people](/post/people/) [or](/post/or/) [goods](/post/goods/) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/), [often](/post/often/) using vehicles [or](/post/or/) infrastructure. [For](/post/for/) [example](/post/example/): "[Public](/post/public/) [transportation](/post/transportation/) is an [essential](/post/essential/) [part](/post/part/) [of](/post/of/) urban [life](/post/life/)."
 - Types: cars, buses, trains, planes, ships, bicycles, subways, etc.
 
-**[Cargo](/en/post/cargo/) [transportation](/en/post/transportation/)**: [The](/en/post/the/) [movement](/en/post/movement/) [of](/en/post/of/) [goods](/en/post/goods/) [by](/en/post/by/) [various](/en/post/various/) modes [of](/en/post/of/) [transport](/en/post/transport/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) shipping [company](/en/post/company/) specializes [in](/en/post/in/) [cargo](/en/post/cargo/) [transportation](/en/post/transportation/) [across](/en/post/across/) [the](/en/post/the/) [globe](/en/post/globe/)."
+**[Cargo](/post/cargo/) [transportation](/post/transportation/)**: [The](/post/the/) [movement](/post/movement/) [of](/post/of/) [goods](/post/goods/) [by](/post/by/) [various](/post/various/) modes [of](/post/of/) [transport](/post/transport/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) shipping [company](/post/company/) specializes [in](/post/in/) [cargo](/post/cargo/) [transportation](/post/transportation/) [across](/post/across/) [the](/post/the/) [globe](/post/globe/)."
 
-**[Passenger](/en/post/passenger/) [transportation](/en/post/transportation/)**: [The](/en/post/the/) conveyance [of](/en/post/of/) individuals [as](/en/post/as/) passengers, typically [on](/en/post/on/) [public](/en/post/public/) [or](/en/post/or/) [commercial](/en/post/commercial/) vehicles. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [airline](/en/post/airline/) offers [a](/en/post/a/) [wide](/en/post/wide/) [range](/en/post/range/) [of](/en/post/of/) [passenger](/en/post/passenger/) [transportation](/en/post/transportation/) options."
+**[Passenger](/post/passenger/) [transportation](/post/transportation/)**: [The](/post/the/) conveyance [of](/post/of/) individuals [as](/post/as/) passengers, typically [on](/post/on/) [public](/post/public/) [or](/post/or/) [commercial](/post/commercial/) vehicles. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [airline](/post/airline/) offers [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) [passenger](/post/passenger/) [transportation](/post/transportation/) options."
 
-### [Verb](/en/post/verb/)
-**[Transport](/en/post/transport/)**: [To](/en/post/to/) [carry](/en/post/carry/) [goods](/en/post/goods/) [or](/en/post/or/) [people](/en/post/people/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/) using [a](/en/post/a/) [vehicle](/en/post/vehicle/) [or](/en/post/or/) [system](/en/post/system/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [truck](/en/post/truck/) [will](/en/post/will/) [transport](/en/post/transport/) [the](/en/post/the/) supplies [to](/en/post/to/) [the](/en/post/the/) [remote](/en/post/remote/) [village](/en/post/village/)."
-- Synonyms: [convey](/en/post/convey/), shuttle, ferry, airlift
+### [Verb](/post/verb/)
+**[Transport](/post/transport/)**: [To](/post/to/) [carry](/post/carry/) [goods](/post/goods/) [or](/post/or/) [people](/post/people/) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/) using [a](/post/a/) [vehicle](/post/vehicle/) [or](/post/or/) [system](/post/system/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [truck](/post/truck/) [will](/post/will/) [transport](/post/transport/) [the](/post/the/) supplies [to](/post/to/) [the](/post/the/) [remote](/post/remote/) [village](/post/village/)."
+- Synonyms: [convey](/post/convey/), shuttle, ferry, airlift
 
-**[Transport](/en/post/transport/) [oneself](/en/post/oneself/)**: [To](/en/post/to/) [go](/en/post/go/) [somewhere](/en/post/somewhere/) using [a](/en/post/a/) [mode](/en/post/mode/) [of](/en/post/of/) [transportation](/en/post/transportation/). [For](/en/post/for/) [example](/en/post/example/): "I'll [transport](/en/post/transport/) [myself](/en/post/myself/) [to](/en/post/to/) [the](/en/post/the/) [airport](/en/post/airport/) [tomorrow](/en/post/tomorrow/) [morning](/en/post/morning/)."
+**[Transport](/post/transport/) [oneself](/post/oneself/)**: [To](/post/to/) [go](/post/go/) [somewhere](/post/somewhere/) using [a](/post/a/) [mode](/post/mode/) [of](/post/of/) [transportation](/post/transportation/). [For](/post/for/) [example](/post/example/): "I'll [transport](/post/transport/) [myself](/post/myself/) [to](/post/to/) [the](/post/the/) [airport](/post/airport/) [tomorrow](/post/tomorrow/) [morning](/post/morning/)."
 
-### [Adjective](/en/post/adjective/)
-**[Inefficient](/en/post/inefficient/) [transportation](/en/post/transportation/)**: [A](/en/post/a/) [system](/en/post/system/) [that](/en/post/that/) is [not](/en/post/not/) optimized [for](/en/post/for/) [speed](/en/post/speed/) [or](/en/post/or/) [cost](/en/post/cost/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [rural](/en/post/rural/) area's [inefficient](/en/post/inefficient/) [transportation](/en/post/transportation/) [network](/en/post/network/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [challenge](/en/post/challenge/)."
+### [Adjective](/post/adjective/)
+**[Inefficient](/post/inefficient/) [transportation](/post/transportation/)**: [A](/post/a/) [system](/post/system/) [that](/post/that/) is [not](/post/not/) optimized [for](/post/for/) [speed](/post/speed/) [or](/post/or/) [cost](/post/cost/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [rural](/post/rural/) area's [inefficient](/post/inefficient/) [transportation](/post/transportation/) [network](/post/network/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [challenge](/post/challenge/)."
 
-**[Green](/en/post/green/) [transportation](/en/post/transportation/)**: Sustainable [and](/en/post/and/) environmentally [friendly](/en/post/friendly/) methods [of](/en/post/of/) [travel](/en/post/travel/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) encourages [green](/en/post/green/) [transportation](/en/post/transportation/) [through](/en/post/through/) [bike](/en/post/bike/) lanes [and](/en/post/and/) [electric](/en/post/electric/) buses."
+**[Green](/post/green/) [transportation](/post/transportation/)**: Sustainable [and](/post/and/) environmentally [friendly](/post/friendly/) methods [of](/post/of/) [travel](/post/travel/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [city](/post/city/) encourages [green](/post/green/) [transportation](/post/transportation/) [through](/post/through/) [bike](/post/bike/) lanes [and](/post/and/) [electric](/post/electric/) buses."
 
-**Integrated [transportation](/en/post/transportation/)**: [A](/en/post/a/) coordinated [system](/en/post/system/) [that](/en/post/that/) combines [multiple](/en/post/multiple/) modes [of](/en/post/of/) [transport](/en/post/transport/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) has implemented an integrated [transportation](/en/post/transportation/) [plan](/en/post/plan/)."
+**Integrated [transportation](/post/transportation/)**: [A](/post/a/) coordinated [system](/post/system/) [that](/post/that/) combines [multiple](/post/multiple/) modes [of](/post/of/) [transport](/post/transport/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [city](/post/city/) has implemented an integrated [transportation](/post/transportation/) [plan](/post/plan/)."
 
 ## Phrases
-- "[Public](/en/post/public/) [transportation](/en/post/transportation/) [system](/en/post/system/)" refers [to](/en/post/to/) [the](/en/post/the/) networks [of](/en/post/of/) buses, trains, etc., [available](/en/post/available/) [to](/en/post/to/) [the](/en/post/the/) [general](/en/post/general/) [public](/en/post/public/).
-- "[Cargo](/en/post/cargo/) [transportation](/en/post/transportation/) logistics" involves planning [and](/en/post/and/) managing [the](/en/post/the/) [movement](/en/post/movement/) [of](/en/post/of/) [goods](/en/post/goods/).
-- "Zero-emission [transportation](/en/post/transportation/)" is [a](/en/post/a/) [goal](/en/post/goal/) [of](/en/post/of/) using [clean](/en/post/clean/) [energy](/en/post/energy/) [in](/en/post/in/) vehicles.
+- "[Public](/post/public/) [transportation](/post/transportation/) [system](/post/system/)" refers [to](/post/to/) [the](/post/the/) networks [of](/post/of/) buses, trains, etc., [available](/post/available/) [to](/post/to/) [the](/post/the/) [general](/post/general/) [public](/post/public/).
+- "[Cargo](/post/cargo/) [transportation](/post/transportation/) logistics" involves planning [and](/post/and/) managing [the](/post/the/) [movement](/post/movement/) [of](/post/of/) [goods](/post/goods/).
+- "Zero-emission [transportation](/post/transportation/)" is [a](/post/a/) [goal](/post/goal/) [of](/post/of/) using [clean](/post/clean/) [energy](/post/energy/) [in](/post/in/) vehicles.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) city's [transportation](/en/post/transportation/) [network](/en/post/network/) is [being](/en/post/being/) improved [to](/en/post/to/) [reduce](/en/post/reduce/) congestion."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [package](/en/post/package/) was transported [quickly](/en/post/quickly/) [across](/en/post/across/) [the](/en/post/the/) [country](/en/post/country/) [by](/en/post/by/) [express](/en/post/express/) [mail](/en/post/mail/)."
-- **[Adjective](/en/post/adjective/)**: "Investing [in](/en/post/in/) [efficient](/en/post/efficient/) [transportation](/en/post/transportation/) infrastructure is crucial [for](/en/post/for/) [economic](/en/post/economic/) [growth](/en/post/growth/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) city's [transportation](/post/transportation/) [network](/post/network/) is [being](/post/being/) improved [to](/post/to/) [reduce](/post/reduce/) congestion."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [package](/post/package/) was transported [quickly](/post/quickly/) [across](/post/across/) [the](/post/the/) [country](/post/country/) [by](/post/by/) [express](/post/express/) [mail](/post/mail/)."
+- **[Adjective](/post/adjective/)**: "Investing [in](/post/in/) [efficient](/post/efficient/) [transportation](/post/transportation/) infrastructure is crucial [for](/post/for/) [economic](/post/economic/) [growth](/post/growth/)."
 
 ## Synonyms
-- [Movement](/en/post/movement/)
+- [Movement](/post/movement/)
 - Conveyance
-- [Travel](/en/post/travel/)
-- [Shift](/en/post/shift/)
+- [Travel](/post/travel/)
+- [Shift](/post/shift/)
 - Shifts
 - Displacement
-- [Carriage](/en/post/carriage/)
-- [Transfer](/en/post/transfer/)
+- [Carriage](/post/carriage/)
+- [Transfer](/post/transfer/)

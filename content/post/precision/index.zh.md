@@ -11,19 +11,19 @@ keywords = ['ai words', 'precision']
 /prɪˈsiʒn/
 
 ## 释义
-- **名词**: 精确度，准确度；细节的清晰度。例如: "[The](/post/the/) [instrument](/post/instrument/) has [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) [precision](/post/precision/)."
-- **形容词**: 精确的，准确无误的。例如: "[Her](/post/her/) [work](/post/work/) is known [for](/post/for/) [its](/post/its/) [precision](/post/precision/) [and](/post/and/) [attention](/post/attention/) [to](/post/to/) [detail](/post/detail/)."
+- **名词**: 精确度，准确度；细节的清晰度。例如: "[The](/zh/post/the/) [instrument](/zh/post/instrument/) has [a](/zh/post/a/) [high](/zh/post/high/) [level](/zh/post/level/) [of](/zh/post/of/) [precision](/zh/post/precision/)."
+- **形容词**: 精确的，准确无误的。例如: "[Her](/zh/post/her/) [work](/zh/post/work/) is known [for](/zh/post/for/) [its](/zh/post/its/) [precision](/zh/post/precision/) [and](/zh/post/and/) [attention](/zh/post/attention/) [to](/zh/post/to/) [detail](/zh/post/detail/)."
 
 ## 短语
-- "[Precision](/post/precision/) [engineering](/post/engineering/)" 指的是精确工程，要求极高的精度和准确性。
-- "[Precision](/post/precision/) timing" 指精确的时间控制。
+- "[Precision](/zh/post/precision/) [engineering](/zh/post/engineering/)" 指的是精确工程，要求极高的精度和准确性。
+- "[Precision](/zh/post/precision/) timing" 指精确的时间控制。
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [laser](/post/laser/) [technology](/post/technology/) allows [for](/post/for/) unprecedented [precision](/post/precision/) [in](/post/in/) surgical procedures."
-- 形容词: "[The](/post/the/) athlete's movements were [precise](/post/precise/) [and](/post/and/) well-coordinated."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [laser](/zh/post/laser/) [technology](/zh/post/technology/) allows [for](/zh/post/for/) unprecedented [precision](/zh/post/precision/) [in](/zh/post/in/) surgical procedures."
+- 形容词: "[The](/zh/post/the/) athlete's movements were [precise](/zh/post/precise/) [and](/zh/post/and/) well-coordinated."
 
 ## 同义词
-- [Accuracy](/post/accuracy/)
+- [Accuracy](/zh/post/accuracy/)
 - Exactness
 - Specificity
 - Sharpness

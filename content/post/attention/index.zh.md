@@ -11,20 +11,20 @@ keywords = ['ai words', 'attention']
 /əˈtenʃn/
 
 ## 释义
-- **名词**: 注意，注意力，关注。例如: "[Pay](/post/pay/) [attention](/post/attention/) [to](/post/to/) [the](/post/the/) details."
-- **动词**: 给予注意，专心于。例如: "[She](/post/she/) was trying [to](/post/to/) [attract](/post/attract/) [his](/post/his/) [attention](/post/attention/)."
+- **名词**: 注意，注意力，关注。例如: "[Pay](/zh/post/pay/) [attention](/zh/post/attention/) [to](/zh/post/to/) [the](/zh/post/the/) details."
+- **动词**: 给予注意，专心于。例如: "[She](/zh/post/she/) was trying [to](/zh/post/to/) [attract](/zh/post/attract/) [his](/zh/post/his/) [attention](/zh/post/attention/)."
 
 ## 短语
-- "[Draw](/post/draw/) [attention](/post/attention/) [to](/post/to/)" 意思是使某事受到注意。例如: "[The](/post/the/) [bright](/post/bright/) colors [draw](/post/draw/) [attention](/post/attention/) [to](/post/to/) [the](/post/the/) [advertisement](/post/advertisement/)."
-- "[Give](/post/give/) one's undivided [attention](/post/attention/)" 意味着全神贯注。例如: "[During](/post/during/) [the](/post/the/) [lecture](/post/lecture/), [he](/post/he/) gave [the](/post/the/) [speaker](/post/speaker/) [his](/post/his/) undivided [attention](/post/attention/)."
+- "[Draw](/zh/post/draw/) [attention](/zh/post/attention/) [to](/zh/post/to/)" 意思是使某事受到注意。例如: "[The](/zh/post/the/) [bright](/zh/post/bright/) colors [draw](/zh/post/draw/) [attention](/zh/post/attention/) [to](/zh/post/to/) [the](/zh/post/the/) [advertisement](/zh/post/advertisement/)."
+- "[Give](/zh/post/give/) one's undivided [attention](/zh/post/attention/)" 意味着全神贯注。例如: "[During](/zh/post/during/) [the](/zh/post/the/) [lecture](/zh/post/lecture/), [he](/zh/post/he/) gave [the](/zh/post/the/) [speaker](/zh/post/speaker/) [his](/zh/post/his/) undivided [attention](/zh/post/attention/)."
 
 ## 例句
-- 名词: "Losing [focus](/post/focus/), [he](/post/he/) lost [touch](/post/touch/) [with](/post/with/) [the](/post/the/) [main](/post/main/) [point](/post/point/) [of](/post/of/) [the](/post/the/) [lecture](/post/lecture/), [and](/post/and/) [his](/post/his/) [attention](/post/attention/) wandered."
-- 动词: "[The](/post/the/) [teacher](/post/teacher/) raised [her](/post/her/) [voice](/post/voice/) [to](/post/to/) [get](/post/get/) [the](/post/the/) students' [attention](/post/attention/)."
+- 名词: "Losing [focus](/zh/post/focus/), [he](/zh/post/he/) lost [touch](/zh/post/touch/) [with](/zh/post/with/) [the](/zh/post/the/) [main](/zh/post/main/) [point](/zh/post/point/) [of](/zh/post/of/) [the](/zh/post/the/) [lecture](/zh/post/lecture/), [and](/zh/post/and/) [his](/zh/post/his/) [attention](/zh/post/attention/) wandered."
+- 动词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) raised [her](/zh/post/her/) [voice](/zh/post/voice/) [to](/zh/post/to/) [get](/zh/post/get/) [the](/zh/post/the/) students' [attention](/zh/post/attention/)."
 
 ## 同义词
-- [Focus](/post/focus/)
-- [Concentration](/post/concentration/)
+- [Focus](/zh/post/focus/)
+- [Concentration](/zh/post/concentration/)
 - Awareness
-- [Notice](/post/notice/)
-- [Observation](/post/observation/)
+- [Notice](/zh/post/notice/)
+- [Observation](/zh/post/observation/)

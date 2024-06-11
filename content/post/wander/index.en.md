@@ -7,41 +7,41 @@ description = '[ˈwɔndə] vi.漫游；迷路；离题'
 keywords = ['ai words', 'wander']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɒndər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) leisurely [or](/en/post/or/) aimless [movement](/en/post/movement/), [often](/en/post/often/) [without](/en/post/without/) [a](/en/post/a/) [specific](/en/post/specific/) [destination](/en/post/destination/): *[The](/en/post/the/) children wandered [through](/en/post/through/) [the](/en/post/the/) [park](/en/post/park/).*
-2. An [act](/en/post/act/) [of](/en/post/of/) moving [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/) [without](/en/post/without/) [a](/en/post/a/) fixed [plan](/en/post/plan/): *[He](/en/post/he/) spent [his](/en/post/his/) [day](/en/post/day/) wandering [around](/en/post/around/) [the](/en/post/the/) [city](/en/post/city/).*
-3. [A](/en/post/a/) [train](/en/post/train/) [of](/en/post/of/) [thought](/en/post/thought/) [or](/en/post/or/) [imagination](/en/post/imagination/) [that](/en/post/that/) is [not](/en/post/not/) focused: *[Her](/en/post/her/) [mind](/en/post/mind/) wandered [during](/en/post/during/) [the](/en/post/the/) boring [lecture](/en/post/lecture/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) leisurely [or](/post/or/) aimless [movement](/post/movement/), [often](/post/often/) [without](/post/without/) [a](/post/a/) [specific](/post/specific/) [destination](/post/destination/): *[The](/post/the/) children wandered [through](/post/through/) [the](/post/the/) [park](/post/park/).*
+2. An [act](/post/act/) [of](/post/of/) moving [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/) [without](/post/without/) [a](/post/a/) fixed [plan](/post/plan/): *[He](/post/he/) spent [his](/post/his/) [day](/post/day/) wandering [around](/post/around/) [the](/post/the/) [city](/post/city/).*
+3. [A](/post/a/) [train](/post/train/) [of](/post/of/) [thought](/post/thought/) [or](/post/or/) [imagination](/post/imagination/) [that](/post/that/) is [not](/post/not/) focused: *[Her](/post/her/) [mind](/post/mind/) wandered [during](/post/during/) [the](/post/the/) boring [lecture](/post/lecture/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [move](/en/post/move/) [without](/en/post/without/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/) [or](/en/post/or/) [direction](/en/post/direction/): *[She](/en/post/she/) wandered [through](/en/post/through/) [the](/en/post/the/) [forest](/en/post/forest/), lost [in](/en/post/in/) [thought](/en/post/thought/).*
-2. [To](/en/post/to/) stray [or](/en/post/or/) deviate [from](/en/post/from/) [a](/en/post/a/) planned [course](/en/post/course/) [or](/en/post/or/) [subject](/en/post/subject/): *[His](/en/post/his/) thoughts wandered [during](/en/post/during/) [the](/en/post/the/) [conversation](/en/post/conversation/).*
-3. (figurative) [To](/en/post/to/) muse [or](/en/post/or/) [reflect](/en/post/reflect/): *[He](/en/post/he/) wandered [about](/en/post/about/) philosophical questions.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [move](/post/move/) [without](/post/without/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/) [or](/post/or/) [direction](/post/direction/): *[She](/post/she/) wandered [through](/post/through/) [the](/post/the/) [forest](/post/forest/), lost [in](/post/in/) [thought](/post/thought/).*
+2. [To](/post/to/) stray [or](/post/or/) deviate [from](/post/from/) [a](/post/a/) planned [course](/post/course/) [or](/post/or/) [subject](/post/subject/): *[His](/post/his/) thoughts wandered [during](/post/during/) [the](/post/the/) [conversation](/post/conversation/).*
+3. (figurative) [To](/post/to/) muse [or](/post/or/) [reflect](/post/reflect/): *[He](/post/he/) wandered [about](/post/about/) philosophical questions.*
 
 ## Phrases
-- "[Wander](/en/post/wander/) [off](/en/post/off/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [away](/en/post/away/) [without](/en/post/without/) [permission](/en/post/permission/) [or](/en/post/or/) [without](/en/post/without/) [a](/en/post/a/) [clear](/en/post/clear/) [destination](/en/post/destination/).
-- "Wanderlust" refers [to](/en/post/to/) [a](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [to](/en/post/to/) [travel](/en/post/travel/) [or](/en/post/or/) [explore](/en/post/explore/) [new](/en/post/new/) places.
-- "Lost [in](/en/post/in/) [thought](/en/post/thought/)" implies [someone](/en/post/someone/) is wandering [their](/en/post/their/) [mind](/en/post/mind/) [while](/en/post/while/) physically [present](/en/post/present/).
+- "[Wander](/post/wander/) [off](/post/off/)" [means](/post/means/) [to](/post/to/) [go](/post/go/) [away](/post/away/) [without](/post/without/) [permission](/post/permission/) [or](/post/or/) [without](/post/without/) [a](/post/a/) [clear](/post/clear/) [destination](/post/destination/).
+- "Wanderlust" refers [to](/post/to/) [a](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [to](/post/to/) [travel](/post/travel/) [or](/post/or/) [explore](/post/explore/) [new](/post/new/) places.
+- "Lost [in](/post/in/) [thought](/post/thought/)" implies [someone](/post/someone/) is wandering [their](/post/their/) [mind](/post/mind/) [while](/post/while/) physically [present](/post/present/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) hike, [they](/en/post/they/) collapsed [on](/en/post/on/) [a](/en/post/a/) [bench](/en/post/bench/), [feeling](/en/post/feeling/) [the](/en/post/the/) weariness [of](/en/post/of/) [their](/en/post/their/) wanderings."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [old](/en/post/old/) [man](/en/post/man/) [would](/en/post/would/) [often](/en/post/often/) [wander](/en/post/wander/) [down](/en/post/down/) [by](/en/post/by/) [the](/en/post/the/) [river](/en/post/river/), reminiscing [about](/en/post/about/) [his](/en/post/his/) [past](/en/post/past/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) wandered aimlessly [through](/en/post/through/) [the](/en/post/the/) aisles [of](/en/post/of/) [the](/en/post/the/) bookstore."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [long](/post/long/) hike, [they](/post/they/) collapsed [on](/post/on/) [a](/post/a/) [bench](/post/bench/), [feeling](/post/feeling/) [the](/post/the/) weariness [of](/post/of/) [their](/post/their/) wanderings."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [old](/post/old/) [man](/post/man/) [would](/post/would/) [often](/post/often/) [wander](/post/wander/) [down](/post/down/) [by](/post/by/) [the](/post/the/) [river](/post/river/), reminiscing [about](/post/about/) [his](/post/his/) [past](/post/past/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) wandered aimlessly [through](/post/through/) [the](/post/the/) aisles [of](/post/of/) [the](/post/the/) bookstore."
 
 ## Synonyms
 - Roam
 - Stroll
 - Meander
 - Stray
-- [Drift](/en/post/drift/)
+- [Drift](/post/drift/)
 - Wanderer
 
 ## Antonyms
-- Traverse ([with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) [goal](/en/post/goal/))
-- [March](/en/post/march/)
+- Traverse ([with](/post/with/) [a](/post/a/) [specific](/post/specific/) [goal](/post/goal/))
+- [March](/post/march/)
 - Trek
-- [Dash](/en/post/dash/)
+- [Dash](/post/dash/)
 -急忙赶路

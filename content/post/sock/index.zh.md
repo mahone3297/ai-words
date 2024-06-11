@@ -8,23 +8,23 @@ keywords = ['ai words', 'sock']
 +++
 
 ## 读音
-/[sock](/post/sock/)/
+/[sock](/zh/post/sock/)/
 
 ## 释义
 - **名词**:
-   - 袜子，尤指短袜。例如: "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) [pair](/post/pair/) [of](/post/of/) socks [for](/post/for/) [my](/post/my/) [son](/post/son/)."
-   - 击打，猛然一击。例如: "[He](/post/he/) was [so](/post/so/) surprised [that](/post/that/) [he](/post/he/) dropped [his](/post/his/) [phone](/post/phone/) [when](/post/when/) I socked [him](/post/him/) playfully."
+   - 袜子，尤指短袜。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [buy](/zh/post/buy/) [a](/zh/post/a/) [new](/zh/post/new/) [pair](/zh/post/pair/) [of](/zh/post/of/) socks [for](/zh/post/for/) [my](/zh/post/my/) [son](/zh/post/son/)."
+   - 击打，猛然一击。例如: "[He](/zh/post/he/) was [so](/zh/post/so/) surprised [that](/zh/post/that/) [he](/zh/post/he/) dropped [his](/zh/post/his/) [phone](/zh/post/phone/) [when](/zh/post/when/) I socked [him](/zh/post/him/) playfully."
 
 ## 短语
-- "[Put](/post/put/) [on](/post/on/) socks" 意为穿上袜子。
-- "Socks [off](/post/off/)" 意为脱下袜子。
+- "[Put](/zh/post/put/) [on](/zh/post/on/) socks" 意为穿上袜子。
+- "Socks [off](/zh/post/off/)" 意为脱下袜子。
 
 ## 例句
-- 名词: "[These](/post/these/) [cotton](/post/cotton/) socks are [very](/post/very/) [comfortable](/post/comfortable/) [to](/post/to/) [wear](/post/wear/) [all](/post/all/) [day](/post/day/)."
-- 动词: "[The](/post/the/) [little](/post/little/) [boy](/post/boy/) socked [the](/post/the/) [ball](/post/ball/) [hard](/post/hard/), sending [it](/post/it/) [over](/post/over/) [the](/post/the/) [fence](/post/fence/)."
+- 名词: "[These](/zh/post/these/) [cotton](/zh/post/cotton/) socks are [very](/zh/post/very/) [comfortable](/zh/post/comfortable/) [to](/zh/post/to/) [wear](/zh/post/wear/) [all](/zh/post/all/) [day](/zh/post/day/)."
+- 动词: "[The](/zh/post/the/) [little](/zh/post/little/) [boy](/zh/post/boy/) socked [the](/zh/post/the/) [ball](/zh/post/ball/) [hard](/zh/post/hard/), sending [it](/zh/post/it/) [over](/zh/post/over/) [the](/zh/post/the/) [fence](/zh/post/fence/)."
 
 ## 同义词
-- Stockings ([for](/post/for/) longer socks)
-- Footwear ([in](/post/in/) [a](/post/a/) broader [sense](/post/sense/))
-- Knitwear ([for](/post/for/) [a](/post/a/) category including socks)
-- [Tap](/post/tap/) ([for](/post/for/) [the](/post/the/) [action](/post/action/) [of](/post/of/) hitting, [in](/post/in/) [the](/post/the/) context [of](/post/of/) socking [someone](/post/someone/))
+- Stockings ([for](/zh/post/for/) longer socks)
+- Footwear ([in](/zh/post/in/) [a](/zh/post/a/) broader [sense](/zh/post/sense/))
+- Knitwear ([for](/zh/post/for/) [a](/zh/post/a/) category including socks)
+- [Tap](/zh/post/tap/) ([for](/zh/post/for/) [the](/zh/post/the/) [action](/zh/post/action/) [of](/zh/post/of/) hitting, [in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) socking [someone](/zh/post/someone/))

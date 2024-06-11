@@ -7,32 +7,32 @@ description = '[ˈmikst∫ə] n.混合；混合物'
 keywords = ['ai words', 'mixture']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɪkstʃər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [combination](/en/post/combination/) [or](/en/post/or/) [blend](/en/post/blend/) [of](/en/post/of/) [different](/en/post/different/) elements; [especially](/en/post/especially/) [a](/en/post/a/) homogeneous [combination](/en/post/combination/) [of](/en/post/of/) substances [that](/en/post/that/) [do](/en/post/do/) [not](/en/post/not/) [react](/en/post/react/) chemically [with](/en/post/with/) [one](/en/post/one/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [salad](/en/post/salad/) was [a](/en/post/a/) [delicious](/en/post/delicious/) [mixture](/en/post/mixture/) [of](/en/post/of/) [fresh](/en/post/fresh/) vegetables [and](/en/post/and/) fruits."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [blend](/en/post/blend/) [or](/en/post/or/) [combination](/en/post/combination/) [of](/en/post/of/) [diverse](/en/post/diverse/) things, ideas, [or](/en/post/or/) [people](/en/post/people/). [For](/en/post/for/) [instance](/en/post/instance/): "[Their](/en/post/their/) [relationship](/en/post/relationship/) was [a](/en/post/a/) [complex](/en/post/complex/) [mixture](/en/post/mixture/) [of](/en/post/of/) [love](/en/post/love/) [and](/en/post/and/) [conflict](/en/post/conflict/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [combination](/post/combination/) [or](/post/or/) [blend](/post/blend/) [of](/post/of/) [different](/post/different/) elements; [especially](/post/especially/) [a](/post/a/) homogeneous [combination](/post/combination/) [of](/post/of/) substances [that](/post/that/) [do](/post/do/) [not](/post/not/) [react](/post/react/) chemically [with](/post/with/) [one](/post/one/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [salad](/post/salad/) was [a](/post/a/) [delicious](/post/delicious/) [mixture](/post/mixture/) [of](/post/of/) [fresh](/post/fresh/) vegetables [and](/post/and/) fruits."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [blend](/post/blend/) [or](/post/or/) [combination](/post/combination/) [of](/post/of/) [diverse](/post/diverse/) things, ideas, [or](/post/or/) [people](/post/people/). [For](/post/for/) [instance](/post/instance/): "[Their](/post/their/) [relationship](/post/relationship/) was [a](/post/a/) [complex](/post/complex/) [mixture](/post/mixture/) [of](/post/of/) [love](/post/love/) [and](/post/and/) [conflict](/post/conflict/)."
 
 ## Phrases
-- "[A](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) emotions" implies [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) feelings experienced simultaneously.
-- "[In](/en/post/in/) [a](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) excitement [and](/en/post/and/) [fear](/en/post/fear/)" describes [a](/en/post/a/) [blend](/en/post/blend/) [of](/en/post/of/) [two](/en/post/two/) contrasting [emotional](/en/post/emotional/) states.
-- "[Oil](/en/post/oil/) [and](/en/post/and/) [water](/en/post/water/) don't [mix](/en/post/mix/)" refers [to](/en/post/to/) substances [that](/en/post/that/) cannot [form](/en/post/form/) [a](/en/post/a/) homogeneous [mixture](/en/post/mixture/).
+- "[A](/post/a/) [mixture](/post/mixture/) [of](/post/of/) emotions" implies [a](/post/a/) [variety](/post/variety/) [of](/post/of/) feelings experienced simultaneously.
+- "[In](/post/in/) [a](/post/a/) [mixture](/post/mixture/) [of](/post/of/) excitement [and](/post/and/) [fear](/post/fear/)" describes [a](/post/a/) [blend](/post/blend/) [of](/post/of/) [two](/post/two/) contrasting [emotional](/post/emotional/) states.
+- "[Oil](/post/oil/) [and](/post/and/) [water](/post/water/) don't [mix](/post/mix/)" refers [to](/post/to/) substances [that](/post/that/) cannot [form](/post/form/) [a](/post/a/) homogeneous [mixture](/post/mixture/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([physical](/en/post/physical/) [mixture](/en/post/mixture/))**: "[The](/en/post/the/) [chemist](/en/post/chemist/) carefully measured [out](/en/post/out/) [the](/en/post/the/) ingredients [to](/en/post/to/) [create](/en/post/create/) [the](/en/post/the/) [perfect](/en/post/perfect/) [chemical](/en/post/chemical/) [mixture](/en/post/mixture/)."
-- **[Noun](/en/post/noun/) (figurative)**: "[The](/en/post/the/) [city](/en/post/city/) is [a](/en/post/a/) cultural [mixture](/en/post/mixture/) [of](/en/post/of/) [people](/en/post/people/) [from](/en/post/from/) [all](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [world](/en/post/world/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([physical](/post/physical/) [mixture](/post/mixture/))**: "[The](/post/the/) [chemist](/post/chemist/) carefully measured [out](/post/out/) [the](/post/the/) ingredients [to](/post/to/) [create](/post/create/) [the](/post/the/) [perfect](/post/perfect/) [chemical](/post/chemical/) [mixture](/post/mixture/)."
+- **[Noun](/post/noun/) (figurative)**: "[The](/post/the/) [city](/post/city/) is [a](/post/a/) cultural [mixture](/post/mixture/) [of](/post/of/) [people](/post/people/) [from](/post/from/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [world](/post/world/)."
 
 ## Synonyms
-- [Blend](/en/post/blend/)
-- [Combination](/en/post/combination/)
+- [Blend](/post/blend/)
+- [Combination](/post/combination/)
 - Composite
 - Concoction
-- [Alloy](/en/post/alloy/) (specifically [for](/en/post/for/) metals)
-- Amalgam ([often](/en/post/often/) [used](/en/post/used/) metaphorically)
-- Mélange ([formal](/en/post/formal/) [or](/en/post/or/) [literary](/en/post/literary/) [use](/en/post/use/)) 
+- [Alloy](/post/alloy/) (specifically [for](/post/for/) metals)
+- Amalgam ([often](/post/often/) [used](/post/used/) metaphorically)
+- Mélange ([formal](/post/formal/) [or](/post/or/) [literary](/post/literary/) [use](/post/use/)) 
 - Medley
-- Potpourri ([especially](/en/post/especially/) [for](/en/post/for/) [music](/en/post/music/), arts, [or](/en/post/or/) [literature](/en/post/literature/))
+- Potpourri ([especially](/post/especially/) [for](/post/for/) [music](/post/music/), arts, [or](/post/or/) [literature](/post/literature/))
 - Assortment
 - Fusion
-- Hybrid ([for](/en/post/for/) combinations [of](/en/post/of/) [distinct](/en/post/distinct/) things, [often](/en/post/often/) organisms [or](/en/post/or/) technologies)
+- Hybrid ([for](/post/for/) combinations [of](/post/of/) [distinct](/post/distinct/) things, [often](/post/often/) organisms [or](/post/or/) technologies)

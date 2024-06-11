@@ -11,21 +11,21 @@ keywords = ['ai words', 'almost']
 /ˈɔːlməst/
 
 ## 释义
-- **副词**: 几乎，差不多。表示接近某个数量、程度或情况，但不完全达到。例如: "I finished [the](/post/the/) [project](/post/project/) [almost](/post/almost/) [on](/post/on/) [time](/post/time/)."
-- **形容词**: 差不多的，接近的。例如: "[The](/post/the/) [weather](/post/weather/) is [almost](/post/almost/) [perfect](/post/perfect/) [for](/post/for/) [a](/post/a/) [picnic](/post/picnic/)."
+- **副词**: 几乎，差不多。表示接近某个数量、程度或情况，但不完全达到。例如: "I finished [the](/zh/post/the/) [project](/zh/post/project/) [almost](/zh/post/almost/) [on](/zh/post/on/) [time](/zh/post/time/)."
+- **形容词**: 差不多的，接近的。例如: "[The](/zh/post/the/) [weather](/zh/post/weather/) is [almost](/zh/post/almost/) [perfect](/zh/post/perfect/) [for](/zh/post/for/) [a](/zh/post/a/) [picnic](/zh/post/picnic/)."
 
 ## 短语
-- "[almost](/post/almost/) [all](/post/all/)" 几乎所有
-- "[almost](/post/almost/) [none](/post/none/)" 几乎没有
-- "[almost](/post/almost/) [there](/post/there/)" 就要到了
+- "[almost](/zh/post/almost/) [all](/zh/post/all/)" 几乎所有
+- "[almost](/zh/post/almost/) [none](/zh/post/none/)" 几乎没有
+- "[almost](/zh/post/almost/) [there](/zh/post/there/)" 就要到了
 
 ## 例句
-- 副词: "I've [read](/post/read/) [the](/post/the/) [book](/post/book/) [almost](/post/almost/) [cover](/post/cover/) [to](/post/to/) [cover](/post/cover/)."
-- 形容词: "[The](/post/the/) [answer](/post/answer/) is [almost](/post/almost/) [correct](/post/correct/), [just](/post/just/) [a](/post/a/) [small](/post/small/) [mistake](/post/mistake/)."
+- 副词: "I've [read](/zh/post/read/) [the](/zh/post/the/) [book](/zh/post/book/) [almost](/zh/post/almost/) [cover](/zh/post/cover/) [to](/zh/post/to/) [cover](/zh/post/cover/)."
+- 形容词: "[The](/zh/post/the/) [answer](/zh/post/answer/) is [almost](/zh/post/almost/) [correct](/zh/post/correct/), [just](/zh/post/just/) [a](/zh/post/a/) [small](/zh/post/small/) [mistake](/zh/post/mistake/)."
 
 ## 同义词
-- [nearly](/post/nearly/)
-- [virtually](/post/virtually/)
-- [practically](/post/practically/)
-- [close](/post/close/) [to](/post/to/)
-- [roughly](/post/roughly/)
+- [nearly](/zh/post/nearly/)
+- [virtually](/zh/post/virtually/)
+- [practically](/zh/post/practically/)
+- [close](/zh/post/close/) [to](/zh/post/to/)
+- [roughly](/zh/post/roughly/)

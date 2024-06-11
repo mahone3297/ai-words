@@ -7,38 +7,38 @@ description = '[kɔːd] n.细绳，粗线，索'
 keywords = ['ai words', 'cord']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɔːrd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [thick](/en/post/thick/), [flexible](/en/post/flexible/) strand [of](/en/post/of/) fiber, [often](/en/post/often/) plaited, [used](/en/post/used/) [for](/en/post/for/) tying [or](/en/post/or/) suspending things: "[The](/en/post/the/) [rope](/en/post/rope/) was made [of](/en/post/of/) sturdy hemp [cord](/en/post/cord/)."
-2. [A](/en/post/a/) [length](/en/post/length/) [of](/en/post/of/) [electrical](/en/post/electrical/) [wire](/en/post/wire/): "[The](/en/post/the/) [extension](/en/post/extension/) [cord](/en/post/cord/) [provided](/en/post/provided/) [power](/en/post/power/) [to](/en/post/to/) [the](/en/post/the/) tools."
-3. [A](/en/post/a/) [musical](/en/post/musical/) [or](/en/post/or/) instrumental [line](/en/post/line/) [or](/en/post/or/) [part](/en/post/part/): "[The](/en/post/the/) bass notes [provided](/en/post/provided/) [a](/en/post/a/) [solid](/en/post/solid/) [cord](/en/post/cord/) [in](/en/post/in/) [the](/en/post/the/) [harmony](/en/post/harmony/)."
-4. [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) events [or](/en/post/or/) actions forming [a](/en/post/a/) [connection](/en/post/connection/): "[A](/en/post/a/) [thread](/en/post/thread/) [that](/en/post/that/) runs [through](/en/post/through/) [the](/en/post/the/) narrative is [the](/en/post/the/) [family](/en/post/family/) [cord](/en/post/cord/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [thick](/post/thick/), [flexible](/post/flexible/) strand [of](/post/of/) fiber, [often](/post/often/) plaited, [used](/post/used/) [for](/post/for/) tying [or](/post/or/) suspending things: "[The](/post/the/) [rope](/post/rope/) was made [of](/post/of/) sturdy hemp [cord](/post/cord/)."
+2. [A](/post/a/) [length](/post/length/) [of](/post/of/) [electrical](/post/electrical/) [wire](/post/wire/): "[The](/post/the/) [extension](/post/extension/) [cord](/post/cord/) [provided](/post/provided/) [power](/post/power/) [to](/post/to/) [the](/post/the/) tools."
+3. [A](/post/a/) [musical](/post/musical/) [or](/post/or/) instrumental [line](/post/line/) [or](/post/or/) [part](/post/part/): "[The](/post/the/) bass notes [provided](/post/provided/) [a](/post/a/) [solid](/post/solid/) [cord](/post/cord/) [in](/post/in/) [the](/post/the/) [harmony](/post/harmony/)."
+4. [A](/post/a/) [series](/post/series/) [of](/post/of/) events [or](/post/or/) actions forming [a](/post/a/) [connection](/post/connection/): "[A](/post/a/) [thread](/post/thread/) [that](/post/that/) runs [through](/post/through/) [the](/post/the/) narrative is [the](/post/the/) [family](/post/family/) [cord](/post/cord/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [tie](/en/post/tie/) [or](/en/post/or/) [bind](/en/post/bind/) [with](/en/post/with/) [a](/en/post/a/) [cord](/en/post/cord/): "[He](/en/post/he/) corded [the](/en/post/the/) [package](/en/post/package/) securely."
-2. (informal) [To](/en/post/to/) [fasten](/en/post/fasten/) [or](/en/post/or/) [secure](/en/post/secure/) [something](/en/post/something/) [with](/en/post/with/) [a](/en/post/a/) [cord](/en/post/cord/): "I'll [cord](/en/post/cord/) [the](/en/post/the/) [gate](/en/post/gate/) [open](/en/post/open/) [so](/en/post/so/) [the](/en/post/the/) [dog](/en/post/dog/) [can](/en/post/can/) [get](/en/post/get/) [out](/en/post/out/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [tie](/post/tie/) [or](/post/or/) [bind](/post/bind/) [with](/post/with/) [a](/post/a/) [cord](/post/cord/): "[He](/post/he/) corded [the](/post/the/) [package](/post/package/) securely."
+2. (informal) [To](/post/to/) [fasten](/post/fasten/) [or](/post/or/) [secure](/post/secure/) [something](/post/something/) [with](/post/with/) [a](/post/a/) [cord](/post/cord/): "I'll [cord](/post/cord/) [the](/post/the/) [gate](/post/gate/) [open](/post/open/) [so](/post/so/) [the](/post/the/) [dog](/post/dog/) [can](/post/can/) [get](/post/get/) [out](/post/out/)."
 
 ## Phrases
-- "[Tie](/en/post/tie/) [a](/en/post/a/) [cord](/en/post/cord/) [around](/en/post/around/) [something](/en/post/something/)" [for](/en/post/for/) securing [it](/en/post/it/).
-- "Corded [finish](/en/post/finish/)" refers [to](/en/post/to/) [a](/en/post/a/) woven [or](/en/post/or/) braided texture [on](/en/post/on/) [a](/en/post/a/) [surface](/en/post/surface/).
-- "Cordless [phone](/en/post/phone/)" [or](/en/post/or/) "[device](/en/post/device/)" refers [to](/en/post/to/) [one](/en/post/one/) [not](/en/post/not/) needing [a](/en/post/a/) [physical](/en/post/physical/) [cord](/en/post/cord/) [for](/en/post/for/) [operation](/en/post/operation/).
+- "[Tie](/post/tie/) [a](/post/a/) [cord](/post/cord/) [around](/post/around/) [something](/post/something/)" [for](/post/for/) securing [it](/post/it/).
+- "Corded [finish](/post/finish/)" refers [to](/post/to/) [a](/post/a/) woven [or](/post/or/) braided texture [on](/post/on/) [a](/post/a/) [surface](/post/surface/).
+- "Cordless [phone](/post/phone/)" [or](/post/or/) "[device](/post/device/)" refers [to](/post/to/) [one](/post/one/) [not](/post/not/) needing [a](/post/a/) [physical](/post/physical/) [cord](/post/cord/) [for](/post/for/) [operation](/post/operation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) [wound](/en/post/wound/) [the](/en/post/the/) [thin](/en/post/thin/) [cord](/en/post/cord/) [around](/en/post/around/) [the](/en/post/the/) [canvas](/en/post/canvas/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [pattern](/en/post/pattern/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) corded [the](/en/post/the/) [loose](/en/post/loose/) ends [of](/en/post/of/) [the](/en/post/the/) [rope](/en/post/rope/) [together](/en/post/together/) [to](/en/post/to/) [prevent](/en/post/prevent/) [them](/en/post/them/) [from](/en/post/from/) getting tangled."
-- **Informal**: "[She](/en/post/she/) [used](/en/post/used/) [a](/en/post/a/) [cord](/en/post/cord/) [to](/en/post/to/) [secure](/en/post/secure/) [her](/en/post/her/) [hair](/en/post/hair/) [in](/en/post/in/) [a](/en/post/a/) ponytail."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) [wound](/post/wound/) [the](/post/the/) [thin](/post/thin/) [cord](/post/cord/) [around](/post/around/) [the](/post/the/) [canvas](/post/canvas/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [pattern](/post/pattern/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) corded [the](/post/the/) [loose](/post/loose/) ends [of](/post/of/) [the](/post/the/) [rope](/post/rope/) [together](/post/together/) [to](/post/to/) [prevent](/post/prevent/) [them](/post/them/) [from](/post/from/) getting tangled."
+- **Informal**: "[She](/post/she/) [used](/post/used/) [a](/post/a/) [cord](/post/cord/) [to](/post/to/) [secure](/post/secure/) [her](/post/her/) [hair](/post/hair/) [in](/post/in/) [a](/post/a/) ponytail."
 
 ## Synonyms
-- [Rope](/en/post/rope/)
+- [Rope](/post/rope/)
 - Twine
-- [Wire](/en/post/wire/)
-- [Line](/en/post/line/)
+- [Wire](/post/wire/)
+- [Line](/post/line/)
 - Strand
-- [Tie](/en/post/tie/)
-- [Fasten](/en/post/fasten/)
+- [Tie](/post/tie/)
+- [Fasten](/post/fasten/)
 
 ## Antonyms
 - Untangle

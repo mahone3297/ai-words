@@ -7,26 +7,26 @@ description = '[gaun] n.长袍，长外衣'
 keywords = ['ai words', 'gown']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡaʊn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [long](/en/post/long/), loose-fitting [outer](/en/post/outer/) garment [that](/en/post/that/) reaches [the](/en/post/the/) [ground](/en/post/ground/), [often](/en/post/often/) worn [on](/en/post/on/) [formal](/en/post/formal/) occasions [such](/en/post/such/) [as](/en/post/as/) [academic](/en/post/academic/) ceremonies [or](/en/post/or/) weddings. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) donned [her](/en/post/her/) graduation [gown](/en/post/gown/) [and](/en/post/and/) mortarboard."
-- **[Noun](/en/post/noun/) ([Medical](/en/post/medical/))**: [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [clothing](/en/post/clothing/) worn [by](/en/post/by/) patients [during](/en/post/during/) [medical](/en/post/medical/) examinations [or](/en/post/or/) procedures [to](/en/post/to/) [maintain](/en/post/maintain/) modesty [and](/en/post/and/) hygiene. [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [patient](/en/post/patient/) was asked [to](/en/post/to/) [change](/en/post/change/) [into](/en/post/into/) [a](/en/post/a/) [hospital](/en/post/hospital/) [gown](/en/post/gown/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [long](/post/long/), loose-fitting [outer](/post/outer/) garment [that](/post/that/) reaches [the](/post/the/) [ground](/post/ground/), [often](/post/often/) worn [on](/post/on/) [formal](/post/formal/) occasions [such](/post/such/) [as](/post/as/) [academic](/post/academic/) ceremonies [or](/post/or/) weddings. [For](/post/for/) [example](/post/example/): "[She](/post/she/) donned [her](/post/her/) graduation [gown](/post/gown/) [and](/post/and/) mortarboard."
+- **[Noun](/post/noun/) ([Medical](/post/medical/))**: [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [clothing](/post/clothing/) worn [by](/post/by/) patients [during](/post/during/) [medical](/post/medical/) examinations [or](/post/or/) procedures [to](/post/to/) [maintain](/post/maintain/) modesty [and](/post/and/) hygiene. [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [patient](/post/patient/) was asked [to](/post/to/) [change](/post/change/) [into](/post/into/) [a](/post/a/) [hospital](/post/hospital/) [gown](/post/gown/)."
 
 ## Phrases
-- "[Evening](/en/post/evening/) [gown](/en/post/gown/)": [A](/en/post/a/) [formal](/en/post/formal/) [dress](/en/post/dress/) typically worn [by](/en/post/by/) women [for](/en/post/for/) [evening](/en/post/evening/) events.
-- "Bridal [gown](/en/post/gown/)": [The](/en/post/the/) [dress](/en/post/dress/) worn [by](/en/post/by/) [a](/en/post/a/) bride [during](/en/post/during/) [her](/en/post/her/) [wedding](/en/post/wedding/) [ceremony](/en/post/ceremony/).
-- "[Academic](/en/post/academic/) [gown](/en/post/gown/)": [A](/en/post/a/) robe-like garment worn [by](/en/post/by/) academics [and](/en/post/and/) students [during](/en/post/during/) graduation ceremonies [and](/en/post/and/) [other](/en/post/other/) [formal](/en/post/formal/) [academic](/en/post/academic/) events.
+- "[Evening](/post/evening/) [gown](/post/gown/)": [A](/post/a/) [formal](/post/formal/) [dress](/post/dress/) typically worn [by](/post/by/) women [for](/post/for/) [evening](/post/evening/) events.
+- "Bridal [gown](/post/gown/)": [The](/post/the/) [dress](/post/dress/) worn [by](/post/by/) [a](/post/a/) bride [during](/post/during/) [her](/post/her/) [wedding](/post/wedding/) [ceremony](/post/ceremony/).
+- "[Academic](/post/academic/) [gown](/post/gown/)": [A](/post/a/) robe-like garment worn [by](/post/by/) academics [and](/post/and/) students [during](/post/during/) graduation ceremonies [and](/post/and/) [other](/post/other/) [formal](/post/formal/) [academic](/post/academic/) events.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([Formal](/en/post/formal/) [wear](/en/post/wear/))**: "[She](/en/post/she/) looked stunning [in](/en/post/in/) [her](/en/post/her/) flowing [white](/en/post/white/) bridal [gown](/en/post/gown/)."
-- **[Noun](/en/post/noun/) ([Medical](/en/post/medical/))**: "[After](/en/post/after/) changing [into](/en/post/into/) [a](/en/post/a/) [hospital](/en/post/hospital/) [gown](/en/post/gown/), [the](/en/post/the/) [patient](/en/post/patient/) waited [for](/en/post/for/) [the](/en/post/the/) [doctor](/en/post/doctor/) [to](/en/post/to/) [arrive](/en/post/arrive/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([Formal](/post/formal/) [wear](/post/wear/))**: "[She](/post/she/) looked stunning [in](/post/in/) [her](/post/her/) flowing [white](/post/white/) bridal [gown](/post/gown/)."
+- **[Noun](/post/noun/) ([Medical](/post/medical/))**: "[After](/post/after/) changing [into](/post/into/) [a](/post/a/) [hospital](/post/hospital/) [gown](/post/gown/), [the](/post/the/) [patient](/post/patient/) waited [for](/post/for/) [the](/post/the/) [doctor](/post/doctor/) [to](/post/to/) [arrive](/post/arrive/)."
 
 ## Synonyms
-- [Dress](/en/post/dress/)
-- [Robe](/en/post/robe/)
-- [Cloak](/en/post/cloak/)
+- [Dress](/post/dress/)
+- [Robe](/post/robe/)
+- [Cloak](/post/cloak/)
 - Garment
-- Outfit ([in](/en/post/in/) context [of](/en/post/of/) [formal](/en/post/formal/) [wear](/en/post/wear/))
-- Vestment ([in](/en/post/in/) [religious](/en/post/religious/) [or](/en/post/or/) ceremonial contexts)
+- Outfit ([in](/post/in/) context [of](/post/of/) [formal](/post/formal/) [wear](/post/wear/))
+- Vestment ([in](/post/in/) [religious](/post/religious/) [or](/post/or/) ceremonial contexts)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'motor']
 /məˈtôr/
 
 ## 释义
-- **名词** (n): 电动机，发动机；汽车的机动部分。例如: "[The](/post/the/) car's [motor](/post/motor/) was running [smoothly](/post/smoothly/)."
-- **动词** (v): 驱动，推动（尤指用汽车或船只）。例如: "[He](/post/he/) motored [down](/post/down/) [the](/post/the/) [highway](/post/highway/) [in](/post/in/) [his](/post/his/) [new](/post/new/) sports [car](/post/car/)."
+- **名词** (n): 电动机，发动机；汽车的机动部分。例如: "[The](/zh/post/the/) car's [motor](/zh/post/motor/) was running [smoothly](/zh/post/smoothly/)."
+- **动词** (v): 驱动，推动（尤指用汽车或船只）。例如: "[He](/zh/post/he/) motored [down](/zh/post/down/) [the](/zh/post/the/) [highway](/zh/post/highway/) [in](/zh/post/in/) [his](/zh/post/his/) [new](/zh/post/new/) sports [car](/zh/post/car/)."
 
 ## 短语
-- "[Internal](/post/internal/) combustion [motor](/post/motor/)" 内燃机，指汽油或柴油发动机。
-- "[Electric](/post/electric/) [motor](/post/motor/)" 电动机，使用电力运行的马达。
-- "[Motor](/post/motor/) [vehicle](/post/vehicle/)" 机动车辆，通常指汽车或摩托车。
+- "[Internal](/zh/post/internal/) combustion [motor](/zh/post/motor/)" 内燃机，指汽油或柴油发动机。
+- "[Electric](/zh/post/electric/) [motor](/zh/post/motor/)" 电动机，使用电力运行的马达。
+- "[Motor](/zh/post/motor/) [vehicle](/zh/post/vehicle/)" 机动车辆，通常指汽车或摩托车。
 
 ## 例句
-- 名词: "[The](/post/the/) [mechanic](/post/mechanic/) diagnosed [a](/post/a/) [problem](/post/problem/) [with](/post/with/) [the](/post/the/) [motor](/post/motor/)."
-- 动词: "[They](/post/they/) motored [up](/post/up/) [the](/post/the/) [river](/post/river/) [in](/post/in/) [a](/post/a/) [small](/post/small/) [boat](/post/boat/)."
+- 名词: "[The](/zh/post/the/) [mechanic](/zh/post/mechanic/) diagnosed [a](/zh/post/a/) [problem](/zh/post/problem/) [with](/zh/post/with/) [the](/zh/post/the/) [motor](/zh/post/motor/)."
+- 动词: "[They](/zh/post/they/) motored [up](/zh/post/up/) [the](/zh/post/the/) [river](/zh/post/river/) [in](/zh/post/in/) [a](/zh/post/a/) [small](/zh/post/small/) [boat](/zh/post/boat/)."
 
 ## 同义词
-- [Engine](/post/engine/)
+- [Engine](/zh/post/engine/)
 - Propulsion
-- [Drive](/post/drive/)
-- [Generator](/post/generator/) (在某些上下文中，尤其是指产生动力的设备时)
+- [Drive](/zh/post/drive/)
+- [Generator](/zh/post/generator/) (在某些上下文中，尤其是指产生动力的设备时)

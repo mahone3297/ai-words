@@ -7,35 +7,35 @@ description = '[meit] n.伙伴，同事；配偶'
 keywords = ['ai words', 'mate']
 +++
 
-## [Word](/en/post/word/): [Mate](/en/post/mate/)
+## [Word](/post/word/): [Mate](/post/mate/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /meɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [close](/en/post/close/) [friend](/en/post/friend/) [or](/en/post/or/) [companion](/en/post/companion/). [For](/en/post/for/) [example](/en/post/example/): "They've been mates [since](/en/post/since/) [childhood](/en/post/childhood/)."
-- **[Noun](/en/post/noun/)**: (n) (British, [Australian](/en/post/australian/), [New](/en/post/new/) Zealand) An informal [term](/en/post/term/) [for](/en/post/for/) [friend](/en/post/friend/) [or](/en/post/or/) buddy, [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [greeting](/en/post/greeting/). [For](/en/post/for/) [instance](/en/post/instance/): "Alright, [mate](/en/post/mate/)?"
-- **[Noun](/en/post/noun/)**: (n) (Maritime) [The](/en/post/the/) [person](/en/post/person/) assigned [to](/en/post/to/) [share](/en/post/share/) [a](/en/post/a/) [living](/en/post/living/) [space](/en/post/space/) [or](/en/post/or/) [work](/en/post/work/) [together](/en/post/together/) [on](/en/post/on/) [a](/en/post/a/) [ship](/en/post/ship/). [Example](/en/post/example/): "[The](/en/post/the/) [captain](/en/post/captain/) chose [his](/en/post/his/) [mate](/en/post/mate/) carefully [for](/en/post/for/) [the](/en/post/the/) [long](/en/post/long/) [voyage](/en/post/voyage/)."
-- **[Noun](/en/post/noun/)**: (n) ([Biology](/en/post/biology/)) An [animal](/en/post/animal/) [that](/en/post/that/) pairs [with](/en/post/with/) [another](/en/post/another/) [for](/en/post/for/) breeding purposes. [Example](/en/post/example/): "[The](/en/post/the/) [male](/en/post/male/) [bird](/en/post/bird/) selects [a](/en/post/a/) [mate](/en/post/mate/) [during](/en/post/during/) mating [season](/en/post/season/)."
-- **[Verb](/en/post/verb/)**: (v) (Obsolete [or](/en/post/or/) dialectal) [To](/en/post/to/) [match](/en/post/match/) [or](/en/post/or/) [pair](/en/post/pair/), [especially](/en/post/especially/) [in](/en/post/in/) [marriage](/en/post/marriage/). [Example](/en/post/example/): "[In](/en/post/in/) [the](/en/post/the/) [old](/en/post/old/) [tale](/en/post/tale/), [the](/en/post/the/) [princess](/en/post/princess/) was mated [with](/en/post/with/) [a](/en/post/a/) [prince](/en/post/prince/) [from](/en/post/from/) [a](/en/post/a/) neighboring [kingdom](/en/post/kingdom/)."
-- **[Verb](/en/post/verb/)**: (v) (Informal) [To](/en/post/to/) [consume](/en/post/consume/) [something](/en/post/something/), [usually](/en/post/usually/) [tea](/en/post/tea/), [coffee](/en/post/coffee/), [or](/en/post/or/) [food](/en/post/food/), [with](/en/post/with/) [another](/en/post/another/) [person](/en/post/person/). [Example](/en/post/example/): "Let's [mate](/en/post/mate/) [some](/en/post/some/) [fish](/en/post/fish/) [and](/en/post/and/) chips [while](/en/post/while/) [we](/en/post/we/) chat."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [close](/post/close/) [friend](/post/friend/) [or](/post/or/) [companion](/post/companion/). [For](/post/for/) [example](/post/example/): "They've been mates [since](/post/since/) [childhood](/post/childhood/)."
+- **[Noun](/post/noun/)**: (n) (British, [Australian](/post/australian/), [New](/post/new/) Zealand) An informal [term](/post/term/) [for](/post/for/) [friend](/post/friend/) [or](/post/or/) buddy, [often](/post/often/) [used](/post/used/) [in](/post/in/) [greeting](/post/greeting/). [For](/post/for/) [instance](/post/instance/): "Alright, [mate](/post/mate/)?"
+- **[Noun](/post/noun/)**: (n) (Maritime) [The](/post/the/) [person](/post/person/) assigned [to](/post/to/) [share](/post/share/) [a](/post/a/) [living](/post/living/) [space](/post/space/) [or](/post/or/) [work](/post/work/) [together](/post/together/) [on](/post/on/) [a](/post/a/) [ship](/post/ship/). [Example](/post/example/): "[The](/post/the/) [captain](/post/captain/) chose [his](/post/his/) [mate](/post/mate/) carefully [for](/post/for/) [the](/post/the/) [long](/post/long/) [voyage](/post/voyage/)."
+- **[Noun](/post/noun/)**: (n) ([Biology](/post/biology/)) An [animal](/post/animal/) [that](/post/that/) pairs [with](/post/with/) [another](/post/another/) [for](/post/for/) breeding purposes. [Example](/post/example/): "[The](/post/the/) [male](/post/male/) [bird](/post/bird/) selects [a](/post/a/) [mate](/post/mate/) [during](/post/during/) mating [season](/post/season/)."
+- **[Verb](/post/verb/)**: (v) (Obsolete [or](/post/or/) dialectal) [To](/post/to/) [match](/post/match/) [or](/post/or/) [pair](/post/pair/), [especially](/post/especially/) [in](/post/in/) [marriage](/post/marriage/). [Example](/post/example/): "[In](/post/in/) [the](/post/the/) [old](/post/old/) [tale](/post/tale/), [the](/post/the/) [princess](/post/princess/) was mated [with](/post/with/) [a](/post/a/) [prince](/post/prince/) [from](/post/from/) [a](/post/a/) neighboring [kingdom](/post/kingdom/)."
+- **[Verb](/post/verb/)**: (v) (Informal) [To](/post/to/) [consume](/post/consume/) [something](/post/something/), [usually](/post/usually/) [tea](/post/tea/), [coffee](/post/coffee/), [or](/post/or/) [food](/post/food/), [with](/post/with/) [another](/post/another/) [person](/post/person/). [Example](/post/example/): "Let's [mate](/post/mate/) [some](/post/some/) [fish](/post/fish/) [and](/post/and/) chips [while](/post/while/) [we](/post/we/) chat."
 
 ## Phrases
-- "[Old](/en/post/old/) [mate](/en/post/mate/)": [A](/en/post/a/) [friendly](/en/post/friendly/) [way](/en/post/way/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) an [acquaintance](/en/post/acquaintance/) [or](/en/post/or/) [friend](/en/post/friend/), [especially](/en/post/especially/) [in](/en/post/in/) [Australia](/en/post/australia/).
-- "[Mate](/en/post/mate/) [in](/en/post/in/) [chess](/en/post/chess/)": [When](/en/post/when/) [one](/en/post/one/) player's [king](/en/post/king/) is [under](/en/post/under/) [threat](/en/post/threat/) [of](/en/post/of/) [capture](/en/post/capture/) [and](/en/post/and/) cannot [escape](/en/post/escape/), resulting [in](/en/post/in/) [a](/en/post/a/) [win](/en/post/win/) [for](/en/post/for/) [the](/en/post/the/) [other](/en/post/other/) [player](/en/post/player/).
-- "[Find](/en/post/find/) [your](/en/post/your/) soulmate": [To](/en/post/to/) [discover](/en/post/discover/) [a](/en/post/a/) [perfect](/en/post/perfect/) [romantic](/en/post/romantic/) [partner](/en/post/partner/) [who](/en/post/who/) shares [deep](/en/post/deep/) compatibility.
+- "[Old](/post/old/) [mate](/post/mate/)": [A](/post/a/) [friendly](/post/friendly/) [way](/post/way/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) an [acquaintance](/post/acquaintance/) [or](/post/or/) [friend](/post/friend/), [especially](/post/especially/) [in](/post/in/) [Australia](/post/australia/).
+- "[Mate](/post/mate/) [in](/post/in/) [chess](/post/chess/)": [When](/post/when/) [one](/post/one/) player's [king](/post/king/) is [under](/post/under/) [threat](/post/threat/) [of](/post/of/) [capture](/post/capture/) [and](/post/and/) cannot [escape](/post/escape/), resulting [in](/post/in/) [a](/post/a/) [win](/post/win/) [for](/post/for/) [the](/post/the/) [other](/post/other/) [player](/post/player/).
+- "[Find](/post/find/) [your](/post/your/) soulmate": [To](/post/to/) [discover](/post/discover/) [a](/post/a/) [perfect](/post/perfect/) [romantic](/post/romantic/) [partner](/post/partner/) [who](/post/who/) shares [deep](/post/deep/) compatibility.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([friend](/en/post/friend/))**: "I'm going [to](/en/post/to/) [the](/en/post/the/) pub [with](/en/post/with/) [a](/en/post/a/) [few](/en/post/few/) mates [tonight](/en/post/tonight/)."
-- **[Noun](/en/post/noun/) ([ship](/en/post/ship/))**: "[The](/en/post/the/) [first](/en/post/first/) [mate](/en/post/mate/) had responsibilities [for](/en/post/for/) managing [the](/en/post/the/) [crew](/en/post/crew/) [when](/en/post/when/) [the](/en/post/the/) [captain](/en/post/captain/) was [off](/en/post/off/) [duty](/en/post/duty/)."
-- **[Verb](/en/post/verb/) ([consume](/en/post/consume/))**: "[We](/en/post/we/) sat [down](/en/post/down/) [at](/en/post/at/) [the](/en/post/the/) [cafe](/en/post/cafe/) [to](/en/post/to/) [mate](/en/post/mate/) [some](/en/post/some/) [coffee](/en/post/coffee/) [and](/en/post/and/) [cake](/en/post/cake/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([friend](/post/friend/))**: "I'm going [to](/post/to/) [the](/post/the/) pub [with](/post/with/) [a](/post/a/) [few](/post/few/) mates [tonight](/post/tonight/)."
+- **[Noun](/post/noun/) ([ship](/post/ship/))**: "[The](/post/the/) [first](/post/first/) [mate](/post/mate/) had responsibilities [for](/post/for/) managing [the](/post/the/) [crew](/post/crew/) [when](/post/when/) [the](/post/the/) [captain](/post/captain/) was [off](/post/off/) [duty](/post/duty/)."
+- **[Verb](/post/verb/) ([consume](/post/consume/))**: "[We](/post/we/) sat [down](/post/down/) [at](/post/at/) [the](/post/the/) [cafe](/post/cafe/) [to](/post/to/) [mate](/post/mate/) [some](/post/some/) [coffee](/post/coffee/) [and](/post/and/) [cake](/post/cake/)."
 
 ## Synonyms
-- [Friend](/en/post/friend/)
+- [Friend](/post/friend/)
 - Buddy
 - Pal
-- [Companion](/en/post/companion/)
-- [Associate](/en/post/associate/)
-- [Partner](/en/post/partner/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- Cohort ([less](/en/post/less/) informal)
-- Shipmate ([in](/en/post/in/) maritime context)
+- [Companion](/post/companion/)
+- [Associate](/post/associate/)
+- [Partner](/post/partner/) ([in](/post/in/) [certain](/post/certain/) contexts)
+- Cohort ([less](/post/less/) informal)
+- Shipmate ([in](/post/in/) maritime context)

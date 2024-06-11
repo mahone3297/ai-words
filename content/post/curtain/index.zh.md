@@ -11,20 +11,20 @@ keywords = ['ai words', 'curtain']
 /ˈkɜːrtɪn/
 
 ## 释义
-- **名词 (n)**: 长条形的布帘，通常挂在窗户、门或舞台上以遮挡光线或提供隐私。例如: "[She](/post/she/) drew [the](/post/the/) curtains closed [before](/post/before/) going [to](/post/to/) [bed](/post/bed/)."
-- **动词 (v)**: 挂上或拉上窗帘。例如: "[He](/post/he/) decided [to](/post/to/) [curtain](/post/curtain/) [the](/post/the/) windows [for](/post/for/) [the](/post/the/) [night](/post/night/)."
+- **名词 (n)**: 长条形的布帘，通常挂在窗户、门或舞台上以遮挡光线或提供隐私。例如: "[She](/zh/post/she/) drew [the](/zh/post/the/) curtains closed [before](/zh/post/before/) going [to](/zh/post/to/) [bed](/zh/post/bed/)."
+- **动词 (v)**: 挂上或拉上窗帘。例如: "[He](/zh/post/he/) decided [to](/zh/post/to/) [curtain](/zh/post/curtain/) [the](/zh/post/the/) windows [for](/zh/post/for/) [the](/zh/post/the/) [night](/zh/post/night/)."
 
 ## 短语
-- "[draw](/post/draw/) [the](/post/the/) curtains" 意为拉上窗帘。
-- "[behind](/post/behind/) closed curtains" 暗示在私密或不为人知的情况下。
+- "[draw](/zh/post/draw/) [the](/zh/post/the/) curtains" 意为拉上窗帘。
+- "[behind](/zh/post/behind/) closed curtains" 暗示在私密或不为人知的情况下。
 
 ## 例句
-- 名词: "[The](/post/the/) [room](/post/room/) was decorated [with](/post/with/) elegant [velvet](/post/velvet/) curtains."
-- 动词: "[She](/post/she/) curtained [the](/post/the/) [window](/post/window/) [to](/post/to/) [block](/post/block/) [out](/post/out/) [the](/post/the/) [street](/post/street/) [light](/post/light/)."
+- 名词: "[The](/zh/post/the/) [room](/zh/post/room/) was decorated [with](/zh/post/with/) elegant [velvet](/zh/post/velvet/) curtains."
+- 动词: "[She](/zh/post/she/) curtained [the](/zh/post/the/) [window](/zh/post/window/) [to](/zh/post/to/) [block](/zh/post/block/) [out](/zh/post/out/) [the](/zh/post/the/) [street](/zh/post/street/) [light](/zh/post/light/)."
 
 ## 同义词
-- [Blind](/post/blind/)
-- [Shade](/post/shade/)
+- [Blind](/zh/post/blind/)
+- [Shade](/zh/post/shade/)
 - Drape
-- [Panel](/post/panel/)
-- [Screen](/post/screen/)
+- [Panel](/zh/post/panel/)
+- [Screen](/zh/post/screen/)

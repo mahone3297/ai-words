@@ -7,41 +7,41 @@ description = '[ˈwizdəm] n.智慧，才智；名言'
 keywords = ['ai words', 'wisdom']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɪzdəm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Wisdom](/en/post/wisdom/)**: [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [use](/en/post/use/) [knowledge](/en/post/knowledge/) [and](/en/post/and/) [experience](/en/post/experience/) [to](/en/post/to/) [make](/en/post/make/) [good](/en/post/good/) judgments [and](/en/post/and/) decisions, [often](/en/post/often/) showing insight [and](/en/post/and/) [understanding](/en/post/understanding/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) gained [wisdom](/en/post/wisdom/) [through](/en/post/through/) [her](/en/post/her/) [life](/en/post/life/) experiences."
-- **Counsel**: [Advice](/en/post/advice/) [or](/en/post/or/) [guidance](/en/post/guidance/) given [to](/en/post/to/) [help](/en/post/help/) [someone](/en/post/someone/) [make](/en/post/make/) [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [understand](/en/post/understand/) [a](/en/post/a/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) mentor [provided](/en/post/provided/) [valuable](/en/post/valuable/) counsel [on](/en/post/on/) [her](/en/post/her/) [career](/en/post/career/) [path](/en/post/path/)."
+### [Noun](/post/noun/)
+- **[Wisdom](/post/wisdom/)**: [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [use](/post/use/) [knowledge](/post/knowledge/) [and](/post/and/) [experience](/post/experience/) [to](/post/to/) [make](/post/make/) [good](/post/good/) judgments [and](/post/and/) decisions, [often](/post/often/) showing insight [and](/post/and/) [understanding](/post/understanding/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) gained [wisdom](/post/wisdom/) [through](/post/through/) [her](/post/her/) [life](/post/life/) experiences."
+- **Counsel**: [Advice](/post/advice/) [or](/post/or/) [guidance](/post/guidance/) given [to](/post/to/) [help](/post/help/) [someone](/post/someone/) [make](/post/make/) [a](/post/a/) [decision](/post/decision/) [or](/post/or/) [understand](/post/understand/) [a](/post/a/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) mentor [provided](/post/provided/) [valuable](/post/valuable/) counsel [on](/post/on/) [her](/post/her/) [career](/post/career/) [path](/post/path/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) impart [wisdom](/en/post/wisdom/): [To](/en/post/to/) [share](/en/post/share/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) [advice](/en/post/advice/) [that](/en/post/that/) [can](/en/post/can/) [guide](/en/post/guide/) [or](/en/post/or/) enlighten [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [elder](/en/post/elder/) imparted [wisdom](/en/post/wisdom/) [to](/en/post/to/) [the](/en/post/the/) [young](/en/post/young/) [generation](/en/post/generation/)."
-- [To](/en/post/to/) [seek](/en/post/seek/) [wisdom](/en/post/wisdom/): [To](/en/post/to/) actively [look](/en/post/look/) [for](/en/post/for/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) [guidance](/en/post/guidance/) [to](/en/post/to/) [improve](/en/post/improve/) [oneself](/en/post/oneself/). [For](/en/post/for/) [example](/en/post/example/): "[Many](/en/post/many/) [people](/en/post/people/) [seek](/en/post/seek/) [wisdom](/en/post/wisdom/) [from](/en/post/from/) books [and](/en/post/and/) mentors."
+### [Verb](/post/verb/)
+- [To](/post/to/) impart [wisdom](/post/wisdom/): [To](/post/to/) [share](/post/share/) [knowledge](/post/knowledge/) [or](/post/or/) [advice](/post/advice/) [that](/post/that/) [can](/post/can/) [guide](/post/guide/) [or](/post/or/) enlighten [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [elder](/post/elder/) imparted [wisdom](/post/wisdom/) [to](/post/to/) [the](/post/the/) [young](/post/young/) [generation](/post/generation/)."
+- [To](/post/to/) [seek](/post/seek/) [wisdom](/post/wisdom/): [To](/post/to/) actively [look](/post/look/) [for](/post/for/) [knowledge](/post/knowledge/) [or](/post/or/) [guidance](/post/guidance/) [to](/post/to/) [improve](/post/improve/) [oneself](/post/oneself/). [For](/post/for/) [example](/post/example/): "[Many](/post/many/) [people](/post/people/) [seek](/post/seek/) [wisdom](/post/wisdom/) [from](/post/from/) books [and](/post/and/) mentors."
 
-### [Adjective](/en/post/adjective/)
-- [Wise](/en/post/wise/): Having [or](/en/post/or/) showing [great](/en/post/great/) [knowledge](/en/post/knowledge/) [and](/en/post/and/) [understanding](/en/post/understanding/), [often](/en/post/often/) indicating [sound](/en/post/sound/) judgment. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wise](/en/post/wise/) [old](/en/post/old/) [man](/en/post/man/) offered sage [advice](/en/post/advice/)."
+### [Adjective](/post/adjective/)
+- [Wise](/post/wise/): Having [or](/post/or/) showing [great](/post/great/) [knowledge](/post/knowledge/) [and](/post/and/) [understanding](/post/understanding/), [often](/post/often/) indicating [sound](/post/sound/) judgment. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wise](/post/wise/) [old](/post/old/) [man](/post/man/) offered sage [advice](/post/advice/)."
 
 ## Phrases
-- "[Act](/en/post/act/) [with](/en/post/with/) [wisdom](/en/post/wisdom/)" encourages making well-considered decisions.
-- "Seeking [wisdom](/en/post/wisdom/)" implies [a](/en/post/a/) quest [for](/en/post/for/) [knowledge](/en/post/knowledge/) [and](/en/post/and/) [understanding](/en/post/understanding/).
-- "[The](/en/post/the/) [wisdom](/en/post/wisdom/) [of](/en/post/of/) [the](/en/post/the/) [crowd](/en/post/crowd/)" suggests [the](/en/post/the/) [collective](/en/post/collective/) [intelligence](/en/post/intelligence/) [of](/en/post/of/) [many](/en/post/many/) [people](/en/post/people/).
+- "[Act](/post/act/) [with](/post/with/) [wisdom](/post/wisdom/)" encourages making well-considered decisions.
+- "Seeking [wisdom](/post/wisdom/)" implies [a](/post/a/) quest [for](/post/for/) [knowledge](/post/knowledge/) [and](/post/and/) [understanding](/post/understanding/).
+- "[The](/post/the/) [wisdom](/post/wisdom/) [of](/post/of/) [the](/post/the/) [crowd](/post/crowd/)" suggests [the](/post/the/) [collective](/post/collective/) [intelligence](/post/intelligence/) [of](/post/of/) [many](/post/many/) [people](/post/people/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [wisdom](/en/post/wisdom/) was respected [by](/en/post/by/) [all](/en/post/all/) [who](/en/post/who/) knew [him](/en/post/him/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [follow](/en/post/follow/) [her](/en/post/her/) [heart](/en/post/heart/) [after](/en/post/after/) seeking [wisdom](/en/post/wisdom/) [from](/en/post/from/) [her](/en/post/her/) elders."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [wise](/en/post/wise/) [leader](/en/post/leader/) made [tough](/en/post/tough/) decisions based [on](/en/post/on/) [sound](/en/post/sound/) judgment."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [wisdom](/post/wisdom/) was respected [by](/post/by/) [all](/post/all/) [who](/post/who/) knew [him](/post/him/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [follow](/post/follow/) [her](/post/her/) [heart](/post/heart/) [after](/post/after/) seeking [wisdom](/post/wisdom/) [from](/post/from/) [her](/post/her/) elders."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [wise](/post/wise/) [leader](/post/leader/) made [tough](/post/tough/) decisions based [on](/post/on/) [sound](/post/sound/) judgment."
 
 ## Synonyms
 - Insight
 - Sagacity
-- [Judgement](/en/post/judgement/)
-- [Good](/en/post/good/) [sense](/en/post/sense/)
+- [Judgement](/post/judgement/)
+- [Good](/post/good/) [sense](/post/sense/)
 - Prudence
 - Erudition
-- [Knowledge](/en/post/knowledge/)
-- [Experience](/en/post/experience/)
+- [Knowledge](/post/knowledge/)
+- [Experience](/post/experience/)
 
 ---
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) "[wisdom](/en/post/wisdom/)" is [not](/en/post/not/) [a](/en/post/a/) [standard](/en/post/standard/) [verb](/en/post/verb/) [form](/en/post/form/), [but](/en/post/but/) "impart [wisdom](/en/post/wisdom/)" [or](/en/post/or/) "[seek](/en/post/seek/) [wisdom](/en/post/wisdom/)" are [commonly](/en/post/commonly/) [used](/en/post/used/) expressions.
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) "[wisdom](/post/wisdom/)" is [not](/post/not/) [a](/post/a/) [standard](/post/standard/) [verb](/post/verb/) [form](/post/form/), [but](/post/but/) "impart [wisdom](/post/wisdom/)" [or](/post/or/) "[seek](/post/seek/) [wisdom](/post/wisdom/)" are [commonly](/post/commonly/) [used](/post/used/) expressions.

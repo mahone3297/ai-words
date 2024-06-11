@@ -7,30 +7,30 @@ description = '[blɔk] n.街区 vt.堵塞，拦阻'
 keywords = ['ai words', 'block']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /blok/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/), [solid](/en/post/solid/) [piece](/en/post/piece/) [of](/en/post/of/) [material](/en/post/material/), typically rectangular, [used](/en/post/used/) [for](/en/post/for/) [building](/en/post/building/), covering, [or](/en/post/or/) blocking [something](/en/post/something/). [Also](/en/post/also/) refers [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [collection](/en/post/collection/) [of](/en/post/of/) items [that](/en/post/that/) are considered [together](/en/post/together/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wall](/en/post/wall/) was made [of](/en/post/of/) [solid](/en/post/solid/) blocks [of](/en/post/of/) [stone](/en/post/stone/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) obstruct [or](/en/post/or/) [prevent](/en/post/prevent/) [movement](/en/post/movement/); [to](/en/post/to/) [fill](/en/post/fill/) [up](/en/post/up/) [or](/en/post/or/) [occupy](/en/post/occupy/) [space](/en/post/space/) [with](/en/post/with/) blocks. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [construction](/en/post/construction/) workers blocked [off](/en/post/off/) [the](/en/post/the/) [street](/en/post/street/) [to](/en/post/to/) [lay](/en/post/lay/) [new](/en/post/new/) pipes."
-- **[Verb](/en/post/verb/)**: (informal) [To](/en/post/to/) [prevent](/en/post/prevent/) [or](/en/post/or/) hinder [progress](/en/post/progress/); [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [barrier](/en/post/barrier/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [constant](/en/post/constant/) complaining blocked [her](/en/post/her/) [from](/en/post/from/) moving [forward](/en/post/forward/) [with](/en/post/with/) [her](/en/post/her/) [project](/en/post/project/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/), [solid](/post/solid/) [piece](/post/piece/) [of](/post/of/) [material](/post/material/), typically rectangular, [used](/post/used/) [for](/post/for/) [building](/post/building/), covering, [or](/post/or/) blocking [something](/post/something/). [Also](/post/also/) refers [to](/post/to/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [collection](/post/collection/) [of](/post/of/) items [that](/post/that/) are considered [together](/post/together/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wall](/post/wall/) was made [of](/post/of/) [solid](/post/solid/) blocks [of](/post/of/) [stone](/post/stone/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) obstruct [or](/post/or/) [prevent](/post/prevent/) [movement](/post/movement/); [to](/post/to/) [fill](/post/fill/) [up](/post/up/) [or](/post/or/) [occupy](/post/occupy/) [space](/post/space/) [with](/post/with/) blocks. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [construction](/post/construction/) workers blocked [off](/post/off/) [the](/post/the/) [street](/post/street/) [to](/post/to/) [lay](/post/lay/) [new](/post/new/) pipes."
+- **[Verb](/post/verb/)**: (informal) [To](/post/to/) [prevent](/post/prevent/) [or](/post/or/) hinder [progress](/post/progress/); [to](/post/to/) [create](/post/create/) [a](/post/a/) [barrier](/post/barrier/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [constant](/post/constant/) complaining blocked [her](/post/her/) [from](/post/from/) moving [forward](/post/forward/) [with](/post/with/) [her](/post/her/) [project](/post/project/)."
 
 ## Phrases
-- "[Build](/en/post/build/) [a](/en/post/a/) [block](/en/post/block/)" [means](/en/post/means/) [to](/en/post/to/) [construct](/en/post/construct/) [something](/en/post/something/) using blocks.
-- "[Clear](/en/post/clear/) [a](/en/post/a/) blockage" refers [to](/en/post/to/) removing an obstruction [or](/en/post/or/) impediment.
-- "[Mind](/en/post/mind/) [the](/en/post/the/) [block](/en/post/block/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [to](/en/post/to/) [be](/en/post/be/) cautious [or](/en/post/or/) [aware](/en/post/aware/) [of](/en/post/of/) one's [surroundings](/en/post/surroundings/).
+- "[Build](/post/build/) [a](/post/a/) [block](/post/block/)" [means](/post/means/) [to](/post/to/) [construct](/post/construct/) [something](/post/something/) using blocks.
+- "[Clear](/post/clear/) [a](/post/a/) blockage" refers [to](/post/to/) removing an obstruction [or](/post/or/) impediment.
+- "[Mind](/post/mind/) [the](/post/the/) [block](/post/block/)" is [a](/post/a/) colloquial [expression](/post/expression/) [to](/post/to/) [be](/post/be/) cautious [or](/post/or/) [aware](/post/aware/) [of](/post/of/) one's [surroundings](/post/surroundings/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) stacked [the](/en/post/the/) books neatly [into](/en/post/into/) [a](/en/post/a/) [block](/en/post/block/) [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) had [to](/en/post/to/) [block](/en/post/block/) [off](/en/post/off/) [a](/en/post/a/) [section](/en/post/section/) [of](/en/post/of/) [the](/en/post/the/) [garden](/en/post/garden/) [to](/en/post/to/) [plant](/en/post/plant/) [the](/en/post/the/) trees."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [fear](/en/post/fear/) [of](/en/post/of/) [failure](/en/post/failure/) blocked [him](/en/post/him/) [from](/en/post/from/) taking risks."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) stacked [the](/post/the/) books neatly [into](/post/into/) [a](/post/a/) [block](/post/block/) [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [gardener](/post/gardener/) had [to](/post/to/) [block](/post/block/) [off](/post/off/) [a](/post/a/) [section](/post/section/) [of](/post/of/) [the](/post/the/) [garden](/post/garden/) [to](/post/to/) [plant](/post/plant/) [the](/post/the/) trees."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [fear](/post/fear/) [of](/post/of/) [failure](/post/failure/) blocked [him](/post/him/) [from](/post/from/) taking risks."
 
 ## Synonyms
-- [Solid](/en/post/solid/)
-- [Mass](/en/post/mass/)
-- [Barrier](/en/post/barrier/)
+- [Solid](/post/solid/)
+- [Mass](/post/mass/)
+- [Barrier](/post/barrier/)
 -hindrance
-- [Obstacle](/en/post/obstacle/)
+- [Obstacle](/post/obstacle/)
 - Clog
-- [Fill](/en/post/fill/)
-- [Barrier](/en/post/barrier/)
+- [Fill](/post/fill/)
+- [Barrier](/post/barrier/)

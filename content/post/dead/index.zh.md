@@ -11,19 +11,19 @@ keywords = ['ai words', 'dead']
 /ded/
 
 ## 释义
-- **形容词**: 死的；无生命的；不活跃的。例如: "[The](/post/the/) [plant](/post/plant/) was [dead](/post/dead/) [because](/post/because/) [it](/post/it/) hadn't been watered [for](/post/for/) weeks."
-- **副词**: 完全地；绝对地。例如: "I'm [dead](/post/dead/) [tired](/post/tired/) [after](/post/after/) working [all](/post/all/) [day](/post/day/)."
-- **名词**: (某些语言中的)死神。例如: "[In](/post/in/) [some](/post/some/) cultures, [death](/post/death/) is personified [as](/post/as/) [the](/post/the/) '[Dead](/post/dead/)'."
+- **形容词**: 死的；无生命的；不活跃的。例如: "[The](/zh/post/the/) [plant](/zh/post/plant/) was [dead](/zh/post/dead/) [because](/zh/post/because/) [it](/zh/post/it/) hadn't been watered [for](/zh/post/for/) weeks."
+- **副词**: 完全地；绝对地。例如: "I'm [dead](/zh/post/dead/) [tired](/zh/post/tired/) [after](/zh/post/after/) working [all](/zh/post/all/) [day](/zh/post/day/)."
+- **名词**: (某些语言中的)死神。例如: "[In](/zh/post/in/) [some](/zh/post/some/) cultures, [death](/zh/post/death/) is personified [as](/zh/post/as/) [the](/zh/post/the/) '[Dead](/zh/post/dead/)'."
 
 ## 短语
-- "[dead](/post/dead/) [silence](/post/silence/)" 意为完全的寂静。
-- "[dead](/post/dead/) [end](/post/end/)" 指死胡同，或者没有出路的情况。
-- "[dead](/post/dead/) [to](/post/to/) [the](/post/the/) [world](/post/world/)" 表示熟睡或完全不关心周围发生的事。
+- "[dead](/zh/post/dead/) [silence](/zh/post/silence/)" 意为完全的寂静。
+- "[dead](/zh/post/dead/) [end](/zh/post/end/)" 指死胡同，或者没有出路的情况。
+- "[dead](/zh/post/dead/) [to](/zh/post/to/) [the](/zh/post/the/) [world](/zh/post/world/)" 表示熟睡或完全不关心周围发生的事。
 
 ## 例句
-- 形容词: "[The](/post/the/) [room](/post/room/) was [so](/post/so/) [quiet](/post/quiet/); [it](/post/it/) felt [as](/post/as/) [if](/post/if/) [everything](/post/everything/) [in](/post/in/) [it](/post/it/) was [dead](/post/dead/)."
-- 副词: "[She](/post/she/) was [dead](/post/dead/) [serious](/post/serious/) [about](/post/about/) [her](/post/her/) [decision](/post/decision/) [to](/post/to/) [quit](/post/quit/) [her](/post/her/) [job](/post/job/)."
-- 名词: "[In](/post/in/) Greek mythology, Hades is [the](/post/the/) god [of](/post/of/) [the](/post/the/) [Dead](/post/dead/)."
+- 形容词: "[The](/zh/post/the/) [room](/zh/post/room/) was [so](/zh/post/so/) [quiet](/zh/post/quiet/); [it](/zh/post/it/) felt [as](/zh/post/as/) [if](/zh/post/if/) [everything](/zh/post/everything/) [in](/zh/post/in/) [it](/zh/post/it/) was [dead](/zh/post/dead/)."
+- 副词: "[She](/zh/post/she/) was [dead](/zh/post/dead/) [serious](/zh/post/serious/) [about](/zh/post/about/) [her](/zh/post/her/) [decision](/zh/post/decision/) [to](/zh/post/to/) [quit](/zh/post/quit/) [her](/zh/post/her/) [job](/zh/post/job/)."
+- 名词: "[In](/zh/post/in/) Greek mythology, Hades is [the](/zh/post/the/) god [of](/zh/post/of/) [the](/zh/post/the/) [Dead](/zh/post/dead/)."
 
 ## 同义词
 - lifeless

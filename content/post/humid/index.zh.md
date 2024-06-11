@@ -11,20 +11,20 @@ keywords = ['ai words', 'humid']
 /hjuːˈmɪd/
 
 ## 释义
-- **形容词**: 湿润的，潮湿的。例如: "[The](/post/the/) [air](/post/air/) was [humid](/post/humid/) [after](/post/after/) [the](/post/the/) [rain](/post/rain/)."
-- **名词**: 湿度，潮湿度。例如: "[The](/post/the/) meteorologist reported [high](/post/high/) humidity levels [today](/post/today/)."
+- **形容词**: 湿润的，潮湿的。例如: "[The](/zh/post/the/) [air](/zh/post/air/) was [humid](/zh/post/humid/) [after](/zh/post/after/) [the](/zh/post/the/) [rain](/zh/post/rain/)."
+- **名词**: 湿度，潮湿度。例如: "[The](/zh/post/the/) meteorologist reported [high](/zh/post/high/) humidity levels [today](/zh/post/today/)."
 
 ## 短语
-- "[Humid](/post/humid/) [climate](/post/climate/)" 指湿润的气候。
-- "[Relative](/post/relative/) humidity" 是指空气中的实际水汽含量与饱和水汽含量的比例。
+- "[Humid](/zh/post/humid/) [climate](/zh/post/climate/)" 指湿润的气候。
+- "[Relative](/zh/post/relative/) humidity" 是指空气中的实际水汽含量与饱和水汽含量的比例。
 
 ## 例句
-- 形容词: "[In](/post/in/) [summer](/post/summer/), the南方的天气通常很humid."
-- 名词: "[The](/post/the/) plants [need](/post/need/) [a](/post/a/) [humid](/post/humid/) [environment](/post/environment/) [to](/post/to/) [grow](/post/grow/) [well](/post/well/)."
+- 形容词: "[In](/zh/post/in/) [summer](/zh/post/summer/), the南方的天气通常很humid."
+- 名词: "[The](/zh/post/the/) plants [need](/zh/post/need/) [a](/zh/post/a/) [humid](/zh/post/humid/) [environment](/zh/post/environment/) [to](/zh/post/to/) [grow](/zh/post/grow/) [well](/zh/post/well/)."
 
 ## 同义词
-- [Damp](/post/damp/)
-- [Moist](/post/moist/)
-- [Wet](/post/wet/)
+- [Damp](/zh/post/damp/)
+- [Moist](/zh/post/moist/)
+- [Wet](/zh/post/wet/)
 - Steamy
 - Muggy

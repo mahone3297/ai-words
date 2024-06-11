@@ -7,31 +7,31 @@ description = '[ˈmʌltipli] vt.使增加；乘'
 keywords = ['ai words', 'multiply']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmʌltɪplaɪ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [calculate](/en/post/calculate/) [or](/en/post/or/) [find](/en/post/find/) [the](/en/post/the/) [product](/en/post/product/) [of](/en/post/of/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) numbers. [For](/en/post/for/) [example](/en/post/example/): "[To](/en/post/to/) [multiply](/en/post/multiply/) 4 [by](/en/post/by/) 5, [you](/en/post/you/) [get](/en/post/get/) 20."
-  - [Also](/en/post/also/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [mean](/en/post/mean/) [increase](/en/post/increase/) [in](/en/post/in/) [quantity](/en/post/quantity/), [size](/en/post/size/), [or](/en/post/or/) [number](/en/post/number/) [rapidly](/en/post/rapidly/). [Example](/en/post/example/): "[The](/en/post/the/) [population](/en/post/population/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) multiplied [over](/en/post/over/) [the](/en/post/the/) [last](/en/post/last/) [decade](/en/post/decade/)."
-- **[Adjective](/en/post/adjective/)**: (adj) Relating [to](/en/post/to/) multiplication [or](/en/post/or/) involving [multiple](/en/post/multiple/) instances. [Example](/en/post/example/): "Multiplying factors [can](/en/post/can/) [affect](/en/post/affect/) [the](/en/post/the/) [outcome](/en/post/outcome/) [of](/en/post/of/) [the](/en/post/the/) [experiment](/en/post/experiment/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [calculate](/post/calculate/) [or](/post/or/) [find](/post/find/) [the](/post/the/) [product](/post/product/) [of](/post/of/) [two](/post/two/) [or](/post/or/) [more](/post/more/) numbers. [For](/post/for/) [example](/post/example/): "[To](/post/to/) [multiply](/post/multiply/) 4 [by](/post/by/) 5, [you](/post/you/) [get](/post/get/) 20."
+  - [Also](/post/also/) [used](/post/used/) metaphorically [to](/post/to/) [mean](/post/mean/) [increase](/post/increase/) [in](/post/in/) [quantity](/post/quantity/), [size](/post/size/), [or](/post/or/) [number](/post/number/) [rapidly](/post/rapidly/). [Example](/post/example/): "[The](/post/the/) [population](/post/population/) [of](/post/of/) [the](/post/the/) [city](/post/city/) multiplied [over](/post/over/) [the](/post/the/) [last](/post/last/) [decade](/post/decade/)."
+- **[Adjective](/post/adjective/)**: (adj) Relating [to](/post/to/) multiplication [or](/post/or/) involving [multiple](/post/multiple/) instances. [Example](/post/example/): "Multiplying factors [can](/post/can/) [affect](/post/affect/) [the](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [the](/post/the/) [experiment](/post/experiment/)."
 
 ## Phrases
-- "[Multiply](/en/post/multiply/) [by](/en/post/by/)" [means](/en/post/means/) [to](/en/post/to/) [calculate](/en/post/calculate/) [the](/en/post/the/) [product](/en/post/product/) [of](/en/post/of/) [one](/en/post/one/) [number](/en/post/number/) [with](/en/post/with/) [another](/en/post/another/). [Example](/en/post/example/): "[To](/en/post/to/) [solve](/en/post/solve/) [this](/en/post/this/) [equation](/en/post/equation/), [we](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [multiply](/en/post/multiply/) 8 [by](/en/post/by/) 3."
-- "[Multiply](/en/post/multiply/) [oneself](/en/post/oneself/)" refers [to](/en/post/to/) making [many](/en/post/many/) copies [or](/en/post/or/) reproducing [on](/en/post/on/) [a](/en/post/a/) [large](/en/post/large/) [scale](/en/post/scale/). [Example](/en/post/example/): "[Bacteria](/en/post/bacteria/) [can](/en/post/can/) [multiply](/en/post/multiply/) [themselves](/en/post/themselves/) [very](/en/post/very/) [quickly](/en/post/quickly/) [under](/en/post/under/) [the](/en/post/the/) [right](/en/post/right/) conditions."
+- "[Multiply](/post/multiply/) [by](/post/by/)" [means](/post/means/) [to](/post/to/) [calculate](/post/calculate/) [the](/post/the/) [product](/post/product/) [of](/post/of/) [one](/post/one/) [number](/post/number/) [with](/post/with/) [another](/post/another/). [Example](/post/example/): "[To](/post/to/) [solve](/post/solve/) [this](/post/this/) [equation](/post/equation/), [we](/post/we/) [need](/post/need/) [to](/post/to/) [multiply](/post/multiply/) 8 [by](/post/by/) 3."
+- "[Multiply](/post/multiply/) [oneself](/post/oneself/)" refers [to](/post/to/) making [many](/post/many/) copies [or](/post/or/) reproducing [on](/post/on/) [a](/post/a/) [large](/post/large/) [scale](/post/scale/). [Example](/post/example/): "[Bacteria](/post/bacteria/) [can](/post/can/) [multiply](/post/multiply/) [themselves](/post/themselves/) [very](/post/very/) [quickly](/post/quickly/) [under](/post/under/) [the](/post/the/) [right](/post/right/) conditions."
   
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [us](/en/post/us/) [to](/en/post/to/) [multiply](/en/post/multiply/) 7 [and](/en/post/and/) 9, [which](/en/post/which/) equals 63."
-- "[In](/en/post/in/) [business](/en/post/business/), it's [essential](/en/post/essential/) [to](/en/post/to/) [invest](/en/post/invest/) [in](/en/post/in/) ventures [that](/en/post/that/) [will](/en/post/will/) [multiply](/en/post/multiply/) [your](/en/post/your/) [initial](/en/post/initial/) [investment](/en/post/investment/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) multiplying effects [of](/en/post/of/) [compound](/en/post/compound/) [interest](/en/post/interest/) [can](/en/post/can/) significantly [grow](/en/post/grow/) [your](/en/post/your/) savings."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) asked [us](/post/us/) [to](/post/to/) [multiply](/post/multiply/) 7 [and](/post/and/) 9, [which](/post/which/) equals 63."
+- "[In](/post/in/) [business](/post/business/), it's [essential](/post/essential/) [to](/post/to/) [invest](/post/invest/) [in](/post/in/) ventures [that](/post/that/) [will](/post/will/) [multiply](/post/multiply/) [your](/post/your/) [initial](/post/initial/) [investment](/post/investment/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) multiplying effects [of](/post/of/) [compound](/post/compound/) [interest](/post/interest/) [can](/post/can/) significantly [grow](/post/grow/) [your](/post/your/) savings."
 
 ## Synonyms
-- [Multiply](/en/post/multiply/) [can](/en/post/can/) [be](/en/post/be/) synonymous [with](/en/post/with/):
-  - [Calculate](/en/post/calculate/)
-  - [Multiply](/en/post/multiply/) [together](/en/post/together/)
-  - [Increase](/en/post/increase/)
-  - [Amplify](/en/post/amplify/)
-  - [Grow](/en/post/grow/)
+- [Multiply](/post/multiply/) [can](/post/can/) [be](/post/be/) synonymous [with](/post/with/):
+  - [Calculate](/post/calculate/)
+  - [Multiply](/post/multiply/) [together](/post/together/)
+  - [Increase](/post/increase/)
+  - [Amplify](/post/amplify/)
+  - [Grow](/post/grow/)
   - Augment
-  - [Expand](/en/post/expand/)
+  - [Expand](/post/expand/)
   - Duplicate
-  - [Reproduce](/en/post/reproduce/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) growing [in](/en/post/in/) [number](/en/post/number/))
+  - [Reproduce](/post/reproduce/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) growing [in](/post/in/) [number](/post/number/))

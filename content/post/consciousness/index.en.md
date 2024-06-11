@@ -7,43 +7,43 @@ description = '[ˈkɔn∫əsnis] n.意识,觉悟;知觉'
 keywords = ['ai words', 'consciousness']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈsənsəs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Consciousness](/en/post/consciousness/)**: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [aware](/en/post/aware/) [of](/en/post/of/) one's [surroundings](/en/post/surroundings/), thoughts, feelings, [or](/en/post/or/) [own](/en/post/own/) [existence](/en/post/existence/); [the](/en/post/the/) [faculty](/en/post/faculty/) [of](/en/post/of/) awareness, perception, [and](/en/post/and/) cognition.
-   - [Example](/en/post/example/): "[She](/en/post/she/) was [conscious](/en/post/conscious/) [of](/en/post/of/) [her](/en/post/her/) mistakes [after](/en/post/after/) [the](/en/post/the/) [exam](/en/post/exam/)."
-- **[Collective](/en/post/collective/) [Consciousness](/en/post/consciousness/)**: [A](/en/post/a/) hypothetical shared [mental](/en/post/mental/) [pool](/en/post/pool/) [or](/en/post/or/) [knowledge](/en/post/knowledge/) [base](/en/post/base/) [among](/en/post/among/) members [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [society](/en/post/society/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [collective](/en/post/collective/) [consciousness](/en/post/consciousness/) [of](/en/post/of/) [the](/en/post/the/) [team](/en/post/team/) influenced [their](/en/post/their/) decision-making."
+### [Noun](/post/noun/)
+- **[Consciousness](/post/consciousness/)**: [The](/post/the/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [aware](/post/aware/) [of](/post/of/) one's [surroundings](/post/surroundings/), thoughts, feelings, [or](/post/or/) [own](/post/own/) [existence](/post/existence/); [the](/post/the/) [faculty](/post/faculty/) [of](/post/of/) awareness, perception, [and](/post/and/) cognition.
+   - [Example](/post/example/): "[She](/post/she/) was [conscious](/post/conscious/) [of](/post/of/) [her](/post/her/) mistakes [after](/post/after/) [the](/post/the/) [exam](/post/exam/)."
+- **[Collective](/post/collective/) [Consciousness](/post/consciousness/)**: [A](/post/a/) hypothetical shared [mental](/post/mental/) [pool](/post/pool/) [or](/post/or/) [knowledge](/post/knowledge/) [base](/post/base/) [among](/post/among/) members [of](/post/of/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [society](/post/society/).
+   - [Example](/post/example/): "[The](/post/the/) [collective](/post/collective/) [consciousness](/post/consciousness/) [of](/post/of/) [the](/post/the/) [team](/post/team/) influenced [their](/post/their/) decision-making."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [be](/en/post/be/) [conscious](/en/post/conscious/)**: [To](/en/post/to/) [be](/en/post/be/) [aware](/en/post/aware/) [or](/en/post/or/) cognizant [of](/en/post/of/) [something](/en/post/something/).
-   - [Example](/en/post/example/): "[Being](/en/post/being/) [conscious](/en/post/conscious/) [of](/en/post/of/) one's [impact](/en/post/impact/) [on](/en/post/on/) [the](/en/post/the/) [environment](/en/post/environment/) is [essential](/en/post/essential/)."
-- **[To](/en/post/to/) awaken [consciousness](/en/post/consciousness/)**: [To](/en/post/to/) [bring](/en/post/bring/) [about](/en/post/about/) awareness [or](/en/post/or/) [recognition](/en/post/recognition/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) meditation [session](/en/post/session/) aimed [to](/en/post/to/) awaken people's [consciousness](/en/post/consciousness/) [of](/en/post/of/) [inner](/en/post/inner/) [peace](/en/post/peace/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [be](/post/be/) [conscious](/post/conscious/)**: [To](/post/to/) [be](/post/be/) [aware](/post/aware/) [or](/post/or/) cognizant [of](/post/of/) [something](/post/something/).
+   - [Example](/post/example/): "[Being](/post/being/) [conscious](/post/conscious/) [of](/post/of/) one's [impact](/post/impact/) [on](/post/on/) [the](/post/the/) [environment](/post/environment/) is [essential](/post/essential/)."
+- **[To](/post/to/) awaken [consciousness](/post/consciousness/)**: [To](/post/to/) [bring](/post/bring/) [about](/post/about/) awareness [or](/post/or/) [recognition](/post/recognition/).
+   - [Example](/post/example/): "[The](/post/the/) meditation [session](/post/session/) aimed [to](/post/to/) awaken people's [consciousness](/post/consciousness/) [of](/post/of/) [inner](/post/inner/) [peace](/post/peace/)."
 
 ## Phrases
-- "[Lose](/en/post/lose/) [consciousness](/en/post/consciousness/)" [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) [unconscious](/en/post/unconscious/) [or](/en/post/or/) [lose](/en/post/lose/) awareness.
-- "[Maintain](/en/post/maintain/) [consciousness](/en/post/consciousness/)" refers [to](/en/post/to/) staying [aware](/en/post/aware/) [and](/en/post/and/) alert.
-- "Heighten [consciousness](/en/post/consciousness/)" suggests increasing awareness [or](/en/post/or/) attentiveness.
+- "[Lose](/post/lose/) [consciousness](/post/consciousness/)" [means](/post/means/) [to](/post/to/) [become](/post/become/) [unconscious](/post/unconscious/) [or](/post/or/) [lose](/post/lose/) awareness.
+- "[Maintain](/post/maintain/) [consciousness](/post/consciousness/)" refers [to](/post/to/) staying [aware](/post/aware/) [and](/post/and/) alert.
+- "Heighten [consciousness](/post/consciousness/)" suggests increasing awareness [or](/post/or/) attentiveness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [accident](/en/post/accident/), [he](/en/post/he/) [slowly](/en/post/slowly/) regained [consciousness](/en/post/consciousness/)."
-- **[Verb](/en/post/verb/)**: "[Through](/en/post/through/) mindfulness practices, [she](/en/post/she/) [learned](/en/post/learned/) [to](/en/post/to/) heighten [her](/en/post/her/) [consciousness](/en/post/consciousness/) [of](/en/post/of/) [her](/en/post/her/) [breath](/en/post/breath/)."
-- **Phrasal**: "[The](/en/post/the/) [patient](/en/post/patient/) remained [conscious](/en/post/conscious/) [throughout](/en/post/throughout/) [the](/en/post/the/) [surgery](/en/post/surgery/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [accident](/post/accident/), [he](/post/he/) [slowly](/post/slowly/) regained [consciousness](/post/consciousness/)."
+- **[Verb](/post/verb/)**: "[Through](/post/through/) mindfulness practices, [she](/post/she/) [learned](/post/learned/) [to](/post/to/) heighten [her](/post/her/) [consciousness](/post/consciousness/) [of](/post/of/) [her](/post/her/) [breath](/post/breath/)."
+- **Phrasal**: "[The](/post/the/) [patient](/post/patient/) remained [conscious](/post/conscious/) [throughout](/post/throughout/) [the](/post/the/) [surgery](/post/surgery/)."
 
 ## Synonyms
 - Awareness
 - Perception
 - Cognizance
 - Mindfulness
-- Awareness [of](/en/post/of/)
+- Awareness [of](/post/of/)
 - Self-awareness
-- [Conscious](/en/post/conscious/) [thought](/en/post/thought/)
+- [Conscious](/post/conscious/) [thought](/post/thought/)
 
 ## Antonyms
 - Unconsciousness
 - Insensitivity
 - Obliviousness
-- [Lack](/en/post/lack/) [of](/en/post/of/) awareness
+- [Lack](/post/lack/) [of](/post/of/) awareness

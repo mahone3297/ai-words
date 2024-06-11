@@ -7,25 +7,25 @@ description = '[∫ai] a.易受惊的；害羞的'
 keywords = ['ai words', 'shy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /shaɪ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [timid](/en/post/timid/), bashful, [or](/en/post/or/) [reluctant](/en/post/reluctant/) [to](/en/post/to/) interact [with](/en/post/with/) others, [especially](/en/post/especially/) [in](/en/post/in/) [social](/en/post/social/) situations. Synonyms: bashful, [timid](/en/post/timid/), introverted.
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [act](/en/post/act/) [shy](/en/post/shy/); [to](/en/post/to/) [be](/en/post/be/) hesitant [or](/en/post/or/) reserved [in](/en/post/in/) [social](/en/post/social/) situations. Synonyms: [be](/en/post/be/) bashful, [feel](/en/post/feel/) self-conscious, [be](/en/post/be/) reticent.
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) is [timid](/post/timid/), bashful, [or](/post/or/) [reluctant](/post/reluctant/) [to](/post/to/) interact [with](/post/with/) others, [especially](/post/especially/) [in](/post/in/) [social](/post/social/) situations. Synonyms: bashful, [timid](/post/timid/), introverted.
+- **[Verb](/post/verb/)**: [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [act](/post/act/) [shy](/post/shy/); [to](/post/to/) [be](/post/be/) hesitant [or](/post/or/) reserved [in](/post/in/) [social](/post/social/) situations. Synonyms: [be](/post/be/) bashful, [feel](/post/feel/) self-conscious, [be](/post/be/) reticent.
 
 ## Phrases
-- "[Be](/en/post/be/) [shy](/en/post/shy/) [about](/en/post/about/) [something](/en/post/something/)" implies [feeling](/en/post/feeling/) hesitant [or](/en/post/or/) [uncomfortable](/en/post/uncomfortable/).
-- "She's [quite](/en/post/quite/) [shy](/en/post/shy/) [around](/en/post/around/) strangers."
-- "Don't [be](/en/post/be/) [shy](/en/post/shy/), [come](/en/post/come/) [say](/en/post/say/) [hello](/en/post/hello/)!"
+- "[Be](/post/be/) [shy](/post/shy/) [about](/post/about/) [something](/post/something/)" implies [feeling](/post/feeling/) hesitant [or](/post/or/) [uncomfortable](/post/uncomfortable/).
+- "She's [quite](/post/quite/) [shy](/post/shy/) [around](/post/around/) strangers."
+- "Don't [be](/post/be/) [shy](/post/shy/), [come](/post/come/) [say](/post/say/) [hello](/post/hello/)!"
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [shy](/en/post/shy/) [girl](/en/post/girl/) hesitated [to](/en/post/to/) [speak](/en/post/speak/) [in](/en/post/in/) [front](/en/post/front/) [of](/en/post/of/) [the](/en/post/the/) [class](/en/post/class/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was [shy](/en/post/shy/) [to](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) [her](/en/post/her/) [number](/en/post/number/), [but](/en/post/but/) [eventually](/en/post/eventually/) mustered [up](/en/post/up/) [the](/en/post/the/) [courage](/en/post/courage/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[She](/en/post/she/) felt [shy](/en/post/shy/) [as](/en/post/as/) [she](/en/post/she/) introduced [herself](/en/post/herself/) [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) colleagues."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [shy](/post/shy/) [girl](/post/girl/) hesitated [to](/post/to/) [speak](/post/speak/) [in](/post/in/) [front](/post/front/) [of](/post/of/) [the](/post/the/) [class](/post/class/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) was [shy](/post/shy/) [to](/post/to/) [ask](/post/ask/) [for](/post/for/) [her](/post/her/) [number](/post/number/), [but](/post/but/) [eventually](/post/eventually/) mustered [up](/post/up/) [the](/post/the/) [courage](/post/courage/)."
+- **Phrasal [Verb](/post/verb/)**: "[She](/post/she/) felt [shy](/post/shy/) [as](/post/as/) [she](/post/she/) introduced [herself](/post/herself/) [to](/post/to/) [the](/post/the/) [new](/post/new/) colleagues."
 
 ## Synonyms
-- [Timid](/en/post/timid/)
+- [Timid](/post/timid/)
 - Reserved
 - Shyly
 - Reticent
@@ -33,8 +33,8 @@ keywords = ['ai words', 'shy']
 - Inhibited
 
 ## Antonyms
-- [Bold](/en/post/bold/)
-- [Confident](/en/post/confident/)
+- [Bold](/post/bold/)
+- [Confident](/post/confident/)
 - Outgoing
 - Sociable
 - Extroverted

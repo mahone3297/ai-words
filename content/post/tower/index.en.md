@@ -7,33 +7,33 @@ description = '[ˈtauə] n.塔 vi.屹立，高耸'
 keywords = ['ai words', 'tower']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɔːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [tall](/en/post/tall/), [strong](/en/post/strong/) [structure](/en/post/structure/) [with](/en/post/with/) [a](/en/post/a/) [large](/en/post/large/) [and](/en/post/and/) [often](/en/post/often/) [square](/en/post/square/) [base](/en/post/base/), typically having [multiple](/en/post/multiple/) levels [or](/en/post/or/) tiers, [used](/en/post/used/) [for](/en/post/for/) [observation](/en/post/observation/), defense, [or](/en/post/or/) [communication](/en/post/communication/) (e.g., [a](/en/post/a/) lighthouse, [castle](/en/post/castle/), [or](/en/post/or/) skyscraper).
-2. An elevated [position](/en/post/position/) [or](/en/post/or/) [rank](/en/post/rank/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) hierarchy [or](/en/post/or/) [organization](/en/post/organization/).
-3. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) stands [out](/en/post/out/) [or](/en/post/or/) commands [attention](/en/post/attention/), [often](/en/post/often/) figuratively.
+### [Noun](/post/noun/)
+1. [A](/post/a/) [tall](/post/tall/), [strong](/post/strong/) [structure](/post/structure/) [with](/post/with/) [a](/post/a/) [large](/post/large/) [and](/post/and/) [often](/post/often/) [square](/post/square/) [base](/post/base/), typically having [multiple](/post/multiple/) levels [or](/post/or/) tiers, [used](/post/used/) [for](/post/for/) [observation](/post/observation/), defense, [or](/post/or/) [communication](/post/communication/) (e.g., [a](/post/a/) lighthouse, [castle](/post/castle/), [or](/post/or/) skyscraper).
+2. An elevated [position](/post/position/) [or](/post/or/) [rank](/post/rank/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) hierarchy [or](/post/or/) [organization](/post/organization/).
+3. [A](/post/a/) [person](/post/person/) [who](/post/who/) stands [out](/post/out/) [or](/post/or/) commands [attention](/post/attention/), [often](/post/often/) figuratively.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) ascend [or](/en/post/or/) [reach](/en/post/reach/) [the](/en/post/the/) [top](/en/post/top/) [of](/en/post/of/) [a](/en/post/a/) [tower](/en/post/tower/).
-2. [To](/en/post/to/) dominate [or](/en/post/or/) [control](/en/post/control/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [group](/en/post/group/) (figurative).
+### [Verb](/post/verb/)
+1. [To](/post/to/) ascend [or](/post/or/) [reach](/post/reach/) [the](/post/the/) [top](/post/top/) [of](/post/of/) [a](/post/a/) [tower](/post/tower/).
+2. [To](/post/to/) dominate [or](/post/or/) [control](/post/control/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [group](/post/group/) (figurative).
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [tower](/en/post/tower/), [such](/en/post/such/) [as](/en/post/as/) [tall](/en/post/tall/), majestic, [or](/en/post/or/) [prominent](/en/post/prominent/).
-2. [In](/en/post/in/) [a](/en/post/a/) [high](/en/post/high/) [position](/en/post/position/) [or](/en/post/or/) [rank](/en/post/rank/).
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [tower](/post/tower/), [such](/post/such/) [as](/post/as/) [tall](/post/tall/), majestic, [or](/post/or/) [prominent](/post/prominent/).
+2. [In](/post/in/) [a](/post/a/) [high](/post/high/) [position](/post/position/) [or](/post/or/) [rank](/post/rank/).
 
 ## Phrases
-- "[To](/en/post/to/) [climb](/en/post/climb/) [to](/en/post/to/) [the](/en/post/the/) [top](/en/post/top/) [of](/en/post/of/) [the](/en/post/the/) [tower](/en/post/tower/)"
-- "[The](/en/post/the/) tower's [bell](/en/post/bell/) tolls [every](/en/post/every/) [hour](/en/post/hour/)"
-- "[She](/en/post/she/) has [a](/en/post/a/) commanding [presence](/en/post/presence/), [like](/en/post/like/) [a](/en/post/a/) [tower](/en/post/tower/) [of](/en/post/of/) [strength](/en/post/strength/)"
-- "[He](/en/post/he/) stood atop [the](/en/post/the/) [tower](/en/post/tower/), surveying [the](/en/post/the/) [city](/en/post/city/) [below](/en/post/below/)"
+- "[To](/post/to/) [climb](/post/climb/) [to](/post/to/) [the](/post/the/) [top](/post/top/) [of](/post/of/) [the](/post/the/) [tower](/post/tower/)"
+- "[The](/post/the/) tower's [bell](/post/bell/) tolls [every](/post/every/) [hour](/post/hour/)"
+- "[She](/post/she/) has [a](/post/a/) commanding [presence](/post/presence/), [like](/post/like/) [a](/post/a/) [tower](/post/tower/) [of](/post/of/) [strength](/post/strength/)"
+- "[He](/post/he/) stood atop [the](/post/the/) [tower](/post/tower/), surveying [the](/post/the/) [city](/post/city/) [below](/post/below/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [tower](/en/post/tower/) stood proudly [in](/en/post/in/) [the](/en/post/the/) center [of](/en/post/of/) [the](/en/post/the/) [village](/en/post/village/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) hike, [they](/en/post/they/) [finally](/en/post/finally/) reached [the](/en/post/the/) summit [of](/en/post/of/) [the](/en/post/the/) [tower](/en/post/tower/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) mayor's [new](/en/post/new/) [office](/en/post/office/) was [a](/en/post/a/) towering [symbol](/en/post/symbol/) [of](/en/post/of/) [his](/en/post/his/) [authority](/en/post/authority/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ancient](/post/ancient/) [tower](/post/tower/) stood proudly [in](/post/in/) [the](/post/the/) center [of](/post/of/) [the](/post/the/) [village](/post/village/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) hike, [they](/post/they/) [finally](/post/finally/) reached [the](/post/the/) summit [of](/post/of/) [the](/post/the/) [tower](/post/tower/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) mayor's [new](/post/new/) [office](/post/office/) was [a](/post/a/) towering [symbol](/post/symbol/) [of](/post/of/) [his](/post/his/) [authority](/post/authority/)."
 
 ## Synonyms
 - Lighthouse
@@ -41,13 +41,13 @@ keywords = ['ai words', 'tower']
 - Watchtower
 - Elevation
 - Apex
-- [Pillar](/en/post/pillar/)
+- [Pillar](/post/pillar/)
 - Monolith
 
 ## Antonyms
-- [Low](/en/post/low/)
+- [Low](/post/low/)
 - Ground-level
 - Subordinate
-- [Base](/en/post/base/)
-- [Humble](/en/post/humble/)
+- [Base](/post/base/)
+- [Humble](/post/humble/)
 - Unprominent

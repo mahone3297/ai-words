@@ -7,44 +7,44 @@ description = '[ˈkʌltiveit] vt.耕；种植；培养'
 keywords = ['ai words', 'cultivate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈluːtɪveɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) nurturing, developing, [or](/en/post/or/) improving ([a](/en/post/a/) [skill](/en/post/skill/), [land](/en/post/land/), crops, etc.) [through](/en/post/through/) [care](/en/post/care/) [and](/en/post/and/) [effort](/en/post/effort/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) gardener's [primary](/en/post/primary/) [goal](/en/post/goal/) is [to](/en/post/to/) [cultivate](/en/post/cultivate/) [a](/en/post/a/) thriving [vegetable](/en/post/vegetable/) [garden](/en/post/garden/)."
-2. [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) cultivated; refined [or](/en/post/or/) educated [taste](/en/post/taste/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [highly](/en/post/highly/) cultivated appreciation [for](/en/post/for/) [classical](/en/post/classical/) [music](/en/post/music/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) nurturing, developing, [or](/post/or/) improving ([a](/post/a/) [skill](/post/skill/), [land](/post/land/), crops, etc.) [through](/post/through/) [care](/post/care/) [and](/post/and/) [effort](/post/effort/).
+   - [Example](/post/example/): "[The](/post/the/) gardener's [primary](/post/primary/) [goal](/post/goal/) is [to](/post/to/) [cultivate](/post/cultivate/) [a](/post/a/) thriving [vegetable](/post/vegetable/) [garden](/post/garden/)."
+2. [A](/post/a/) [state](/post/state/) [of](/post/of/) [being](/post/being/) cultivated; refined [or](/post/or/) educated [taste](/post/taste/).
+   - [Example](/post/example/): "[She](/post/she/) has [a](/post/a/) [highly](/post/highly/) cultivated appreciation [for](/post/for/) [classical](/post/classical/) [music](/post/music/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [bring](/en/post/bring/) [up](/en/post/up/), [train](/en/post/train/), [or](/en/post/or/) [develop](/en/post/develop/) ([a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [skill](/en/post/skill/)) [by](/en/post/by/) nurturing [and](/en/post/and/) [instruction](/en/post/instruction/).
-   - [Example](/en/post/example/): "Farmers [cultivate](/en/post/cultivate/) [their](/en/post/their/) [land](/en/post/land/) [to](/en/post/to/) [grow](/en/post/grow/) crops."
-2. [To](/en/post/to/) foster [or](/en/post/or/) [encourage](/en/post/encourage/) [the](/en/post/the/) [growth](/en/post/growth/) [or](/en/post/or/) [development](/en/post/development/) [of](/en/post/of/) (an [idea](/en/post/idea/), [interest](/en/post/interest/), [or](/en/post/or/) [habit](/en/post/habit/)).
-   - [Example](/en/post/example/): "[Cultivate](/en/post/cultivate/) [a](/en/post/a/) [positive](/en/post/positive/) mindset [to](/en/post/to/) [face](/en/post/face/) challenges."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [bring](/post/bring/) [up](/post/up/), [train](/post/train/), [or](/post/or/) [develop](/post/develop/) ([a](/post/a/) [person](/post/person/) [or](/post/or/) [skill](/post/skill/)) [by](/post/by/) nurturing [and](/post/and/) [instruction](/post/instruction/).
+   - [Example](/post/example/): "Farmers [cultivate](/post/cultivate/) [their](/post/their/) [land](/post/land/) [to](/post/to/) [grow](/post/grow/) crops."
+2. [To](/post/to/) foster [or](/post/or/) [encourage](/post/encourage/) [the](/post/the/) [growth](/post/growth/) [or](/post/or/) [development](/post/development/) [of](/post/of/) (an [idea](/post/idea/), [interest](/post/interest/), [or](/post/or/) [habit](/post/habit/)).
+   - [Example](/post/example/): "[Cultivate](/post/cultivate/) [a](/post/a/) [positive](/post/positive/) mindset [to](/post/to/) [face](/post/face/) challenges."
 
-### [Adjective](/en/post/adjective/)
-1. Concerned [with](/en/post/with/) [or](/en/post/or/) involving [the](/en/post/the/) [improvement](/en/post/improvement/) [of](/en/post/of/) [land](/en/post/land/), crops, [or](/en/post/or/) plants.
-   - [Example](/en/post/example/): "Agricultural cultivation methods [have](/en/post/have/) evolved [over](/en/post/over/) [time](/en/post/time/)."
-2. Showing refinement [or](/en/post/or/) [polish](/en/post/polish/), [especially](/en/post/especially/) [in](/en/post/in/) manners [or](/en/post/or/) [taste](/en/post/taste/).
-   - [Example](/en/post/example/): "[Her](/en/post/her/) cultivated elegance was [evident](/en/post/evident/) [in](/en/post/in/) [her](/en/post/her/) [dress](/en/post/dress/) [and](/en/post/and/) [conversation](/en/post/conversation/)."
+### [Adjective](/post/adjective/)
+1. Concerned [with](/post/with/) [or](/post/or/) involving [the](/post/the/) [improvement](/post/improvement/) [of](/post/of/) [land](/post/land/), crops, [or](/post/or/) plants.
+   - [Example](/post/example/): "Agricultural cultivation methods [have](/post/have/) evolved [over](/post/over/) [time](/post/time/)."
+2. Showing refinement [or](/post/or/) [polish](/post/polish/), [especially](/post/especially/) [in](/post/in/) manners [or](/post/or/) [taste](/post/taste/).
+   - [Example](/post/example/): "[Her](/post/her/) cultivated elegance was [evident](/post/evident/) [in](/post/in/) [her](/post/her/) [dress](/post/dress/) [and](/post/and/) [conversation](/post/conversation/)."
 
 ## Phrases
-- "[Cultivate](/en/post/cultivate/) [a](/en/post/a/) [relationship](/en/post/relationship/)" [means](/en/post/means/) [to](/en/post/to/) deliberately foster [a](/en/post/a/) [connection](/en/post/connection/) [with](/en/post/with/) [someone](/en/post/someone/).
-- "[Cultivate](/en/post/cultivate/) [knowledge](/en/post/knowledge/)" implies gaining [or](/en/post/or/) expanding one's [understanding](/en/post/understanding/) [of](/en/post/of/) [a](/en/post/a/) [subject](/en/post/subject/).
-- "Cultivated [leisure](/en/post/leisure/)" refers [to](/en/post/to/) [leisure](/en/post/leisure/) activities [that](/en/post/that/) [require](/en/post/require/) refinement [or](/en/post/or/) sophistication.
+- "[Cultivate](/post/cultivate/) [a](/post/a/) [relationship](/post/relationship/)" [means](/post/means/) [to](/post/to/) deliberately foster [a](/post/a/) [connection](/post/connection/) [with](/post/with/) [someone](/post/someone/).
+- "[Cultivate](/post/cultivate/) [knowledge](/post/knowledge/)" implies gaining [or](/post/or/) expanding one's [understanding](/post/understanding/) [of](/post/of/) [a](/post/a/) [subject](/post/subject/).
+- "Cultivated [leisure](/post/leisure/)" refers [to](/post/to/) [leisure](/post/leisure/) activities [that](/post/that/) [require](/post/require/) refinement [or](/post/or/) sophistication.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) spent years cultivating [her](/en/post/her/) skills [before](/en/post/before/) becoming [famous](/en/post/famous/)."
-- **[Verb](/en/post/verb/)**: "Farmers [cultivate](/en/post/cultivate/) [their](/en/post/their/) [land](/en/post/land/) [to](/en/post/to/) [ensure](/en/post/ensure/) [a](/en/post/a/) bountiful [harvest](/en/post/harvest/)."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) had [a](/en/post/a/) cultivated [interest](/en/post/interest/) [in](/en/post/in/) [art](/en/post/art/) [history](/en/post/history/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) spent years cultivating [her](/post/her/) skills [before](/post/before/) becoming [famous](/post/famous/)."
+- **[Verb](/post/verb/)**: "Farmers [cultivate](/post/cultivate/) [their](/post/their/) [land](/post/land/) [to](/post/to/) [ensure](/post/ensure/) [a](/post/a/) bountiful [harvest](/post/harvest/)."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) had [a](/post/a/) cultivated [interest](/post/interest/) [in](/post/in/) [art](/post/art/) [history](/post/history/)."
 
 ## Synonyms
-- [Develop](/en/post/develop/)
+- [Develop](/post/develop/)
 - Nurture
-- [Improve](/en/post/improve/)
-- [Train](/en/post/train/)
-- [Educate](/en/post/educate/)
+- [Improve](/post/improve/)
+- [Train](/post/train/)
+- [Educate](/post/educate/)
 - Enhance
-- [Refine](/en/post/refine/)
-- [Polish](/en/post/polish/)
+- [Refine](/post/refine/)
+- [Polish](/post/polish/)

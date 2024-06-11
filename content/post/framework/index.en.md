@@ -7,34 +7,34 @@ description = '[ˈfreimwəːk] n.框架，构架，结构'
 keywords = ['ai words', 'framework']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfreɪmwɜːrk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [basic](/en/post/basic/) [structure](/en/post/structure/) underlying [a](/en/post/a/) [system](/en/post/system/), [concept](/en/post/concept/), [or](/en/post/or/) [text](/en/post/text/); [a](/en/post/a/) conceptual [structure](/en/post/structure/) [that](/en/post/that/) provides [support](/en/post/support/) [for](/en/post/for/) [the](/en/post/the/) [development](/en/post/development/) [or](/en/post/or/) [understanding](/en/post/understanding/) [of](/en/post/of/) [something](/en/post/something/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) rules, ideas, [or](/en/post/or/) beliefs [that](/en/post/that/) [serve](/en/post/serve/) [as](/en/post/as/) [the](/en/post/the/) [foundation](/en/post/foundation/) [for](/en/post/for/) [something](/en/post/something/) larger [or](/en/post/or/) [more](/en/post/more/) [complex](/en/post/complex/). 
+- **[Noun](/post/noun/)**: [A](/post/a/) [basic](/post/basic/) [structure](/post/structure/) underlying [a](/post/a/) [system](/post/system/), [concept](/post/concept/), [or](/post/or/) [text](/post/text/); [a](/post/a/) conceptual [structure](/post/structure/) [that](/post/that/) provides [support](/post/support/) [for](/post/for/) [the](/post/the/) [development](/post/development/) [or](/post/or/) [understanding](/post/understanding/) [of](/post/of/) [something](/post/something/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [set](/post/set/) [of](/post/of/) rules, ideas, [or](/post/or/) beliefs [that](/post/that/) [serve](/post/serve/) [as](/post/as/) [the](/post/the/) [foundation](/post/foundation/) [for](/post/for/) [something](/post/something/) larger [or](/post/or/) [more](/post/more/) [complex](/post/complex/). 
 
-[Example](/en/post/example/): 
-- _The company's [new](/en/post/new/) [management](/en/post/management/) [team](/en/post/team/) plans [to](/en/post/to/) [build](/en/post/build/) [their](/en/post/their/) strategies [on](/en/post/on/) [the](/en/post/the/) existing [business](/en/post/business/) [framework](/en/post/framework/)._
-- _The [teacher](/en/post/teacher/) presented [a](/en/post/a/) [clear](/en/post/clear/) [framework](/en/post/framework/) [for](/en/post/for/) [understanding](/en/post/understanding/) [the](/en/post/the/) [historical](/en/post/historical/) context._
+[Example](/post/example/): 
+- _The company's [new](/post/new/) [management](/post/management/) [team](/post/team/) plans [to](/post/to/) [build](/post/build/) [their](/post/their/) strategies [on](/post/on/) [the](/post/the/) existing [business](/post/business/) [framework](/post/framework/)._
+- _The [teacher](/post/teacher/) presented [a](/post/a/) [clear](/post/clear/) [framework](/post/framework/) [for](/post/for/) [understanding](/post/understanding/) [the](/post/the/) [historical](/post/historical/) context._
 
 ## Phrases
-- "[Within](/en/post/within/) [the](/en/post/the/) [framework](/en/post/framework/) [of](/en/post/of/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [when](/en/post/when/) referring [to](/en/post/to/) boundaries [or](/en/post/or/) guidelines [within](/en/post/within/) [which](/en/post/which/) [something](/en/post/something/) operates. [Example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) [must](/en/post/must/) [be](/en/post/be/) completed [within](/en/post/within/) [the](/en/post/the/) [framework](/en/post/framework/) [of](/en/post/of/) [our](/en/post/our/) budget [and](/en/post/and/) timeline."
-- "[To](/en/post/to/) [provide](/en/post/provide/) [a](/en/post/a/) [framework](/en/post/framework/) [for](/en/post/for/)": [This](/en/post/this/) [means](/en/post/means/) [to](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [create](/en/post/create/) [the](/en/post/the/) [basic](/en/post/basic/) [structure](/en/post/structure/) [upon](/en/post/upon/) [which](/en/post/which/) [something](/en/post/something/) [else](/en/post/else/) [will](/en/post/will/) [be](/en/post/be/) built [or](/en/post/or/) developed. [Example](/en/post/example/): "[The](/en/post/the/) [conference](/en/post/conference/) aimed [to](/en/post/to/) [provide](/en/post/provide/) [a](/en/post/a/) [framework](/en/post/framework/) [for](/en/post/for/) [further](/en/post/further/) [research](/en/post/research/) [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/)."
+- "[Within](/post/within/) [the](/post/the/) [framework](/post/framework/) [of](/post/of/)": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [when](/post/when/) referring [to](/post/to/) boundaries [or](/post/or/) guidelines [within](/post/within/) [which](/post/which/) [something](/post/something/) operates. [Example](/post/example/): "[The](/post/the/) [project](/post/project/) [must](/post/must/) [be](/post/be/) completed [within](/post/within/) [the](/post/the/) [framework](/post/framework/) [of](/post/of/) [our](/post/our/) budget [and](/post/and/) timeline."
+- "[To](/post/to/) [provide](/post/provide/) [a](/post/a/) [framework](/post/framework/) [for](/post/for/)": [This](/post/this/) [means](/post/means/) [to](/post/to/) [establish](/post/establish/) [or](/post/or/) [create](/post/create/) [the](/post/the/) [basic](/post/basic/) [structure](/post/structure/) [upon](/post/upon/) [which](/post/which/) [something](/post/something/) [else](/post/else/) [will](/post/will/) [be](/post/be/) built [or](/post/or/) developed. [Example](/post/example/): "[The](/post/the/) [conference](/post/conference/) aimed [to](/post/to/) [provide](/post/provide/) [a](/post/a/) [framework](/post/framework/) [for](/post/for/) [further](/post/further/) [research](/post/research/) [in](/post/in/) [the](/post/the/) [field](/post/field/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) [scientific](/en/post/scientific/) [theory](/en/post/theory/) offers [a](/en/post/a/) [solid](/en/post/solid/) [framework](/en/post/framework/) [within](/en/post/within/) [which](/en/post/which/) [to](/en/post/to/) [interpret](/en/post/interpret/) [recent](/en/post/recent/) discoveries."
-- "[The](/en/post/the/) [legal](/en/post/legal/) [framework](/en/post/framework/) ensures [that](/en/post/that/) companies adhere [to](/en/post/to/) [strict](/en/post/strict/) environmental standards."
-- "[The](/en/post/the/) software [development](/en/post/development/) [framework](/en/post/framework/) streamlines [the](/en/post/the/) coding [process](/en/post/process/) [for](/en/post/for/) programmers."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Their](/post/their/) [scientific](/post/scientific/) [theory](/post/theory/) offers [a](/post/a/) [solid](/post/solid/) [framework](/post/framework/) [within](/post/within/) [which](/post/which/) [to](/post/to/) [interpret](/post/interpret/) [recent](/post/recent/) discoveries."
+- "[The](/post/the/) [legal](/post/legal/) [framework](/post/framework/) ensures [that](/post/that/) companies adhere [to](/post/to/) [strict](/post/strict/) environmental standards."
+- "[The](/post/the/) software [development](/post/development/) [framework](/post/framework/) streamlines [the](/post/the/) coding [process](/post/process/) [for](/post/for/) programmers."
 
 ## Synonyms
-- [Structure](/en/post/structure/)
-- [Architecture](/en/post/architecture/)
+- [Structure](/post/structure/)
+- [Architecture](/post/architecture/)
 - Skeleton
 - Blueprint
-- [Foundation](/en/post/foundation/)
-- Frameworks ([in](/en/post/in/) [a](/en/post/a/) computing context)
+- [Foundation](/post/foundation/)
+- Frameworks ([in](/post/in/) [a](/post/a/) computing context)
   - Infrastructure
-  - [Platform](/en/post/platform/)
-  - [Architecture](/en/post/architecture/)
-  - [Model](/en/post/model/)
-  - [Design](/en/post/design/) [pattern](/en/post/pattern/)
+  - [Platform](/post/platform/)
+  - [Architecture](/post/architecture/)
+  - [Model](/post/model/)
+  - [Design](/post/design/) [pattern](/post/pattern/)

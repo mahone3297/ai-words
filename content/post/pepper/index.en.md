@@ -7,40 +7,40 @@ description = '[ˈpepə] n.胡椒，胡椒粉'
 keywords = ['ai words', 'pepper']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈpɛr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [plant](/en/post/plant/)** ( Piper nigrum): [A](/en/post/a/) flowering herb [with](/en/post/with/) [long](/en/post/long/), [slender](/en/post/slender/) stems [and](/en/post/and/) [fruit](/en/post/fruit/) [that](/en/post/that/) contains [small](/en/post/small/), peppery seeds. [Often](/en/post/often/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) spice [or](/en/post/or/) condiment.
-- **[Ground](/en/post/ground/) [pepper](/en/post/pepper/)**: [The](/en/post/the/) dried, crushed seeds [from](/en/post/from/) [the](/en/post/the/) [pepper](/en/post/pepper/) [plant](/en/post/plant/), [used](/en/post/used/) [to](/en/post/to/) [add](/en/post/add/) flavor [and](/en/post/and/) [heat](/en/post/heat/) [to](/en/post/to/) [food](/en/post/food/).
-- **Peppercorn**: [One](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) peppery seeds, [usually](/en/post/usually/) [black](/en/post/black/), [white](/en/post/white/), [or](/en/post/or/) [red](/en/post/red/).
+### [Noun](/post/noun/)
+- **[A](/post/a/) [plant](/post/plant/)** ( Piper nigrum): [A](/post/a/) flowering herb [with](/post/with/) [long](/post/long/), [slender](/post/slender/) stems [and](/post/and/) [fruit](/post/fruit/) [that](/post/that/) contains [small](/post/small/), peppery seeds. [Often](/post/often/) [used](/post/used/) [as](/post/as/) [a](/post/a/) spice [or](/post/or/) condiment.
+- **[Ground](/post/ground/) [pepper](/post/pepper/)**: [The](/post/the/) dried, crushed seeds [from](/post/from/) [the](/post/the/) [pepper](/post/pepper/) [plant](/post/plant/), [used](/post/used/) [to](/post/to/) [add](/post/add/) flavor [and](/post/and/) [heat](/post/heat/) [to](/post/to/) [food](/post/food/).
+- **Peppercorn**: [One](/post/one/) [of](/post/of/) [the](/post/the/) peppery seeds, [usually](/post/usually/) [black](/post/black/), [white](/post/white/), [or](/post/or/) [red](/post/red/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [season](/en/post/season/) [with](/en/post/with/) [pepper](/en/post/pepper/): [To](/en/post/to/) [add](/en/post/add/) [ground](/en/post/ground/) [pepper](/en/post/pepper/) [to](/en/post/to/) [food](/en/post/food/) [while](/en/post/while/) cooking [or](/en/post/or/) eating.
-- [To](/en/post/to/) [pepper](/en/post/pepper/) [someone](/en/post/someone/) ([with](/en/post/with/) questions): [To](/en/post/to/) [ask](/en/post/ask/) [someone](/en/post/someone/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) questions [rapidly](/en/post/rapidly/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [season](/post/season/) [with](/post/with/) [pepper](/post/pepper/): [To](/post/to/) [add](/post/add/) [ground](/post/ground/) [pepper](/post/pepper/) [to](/post/to/) [food](/post/food/) [while](/post/while/) cooking [or](/post/or/) eating.
+- [To](/post/to/) [pepper](/post/pepper/) [someone](/post/someone/) ([with](/post/with/) questions): [To](/post/to/) [ask](/post/ask/) [someone](/post/someone/) [a](/post/a/) [series](/post/series/) [of](/post/of/) questions [rapidly](/post/rapidly/).
 
-### [Adjective](/en/post/adjective/)
-- Spicy: Referring [to](/en/post/to/) [the](/en/post/the/) pungent [taste](/en/post/taste/) [of](/en/post/of/) [pepper](/en/post/pepper/).
-- Coarsely [ground](/en/post/ground/): Describing [pepper](/en/post/pepper/) [that](/en/post/that/) has [not](/en/post/not/) been finely crushed.
+### [Adjective](/post/adjective/)
+- Spicy: Referring [to](/post/to/) [the](/post/the/) pungent [taste](/post/taste/) [of](/post/of/) [pepper](/post/pepper/).
+- Coarsely [ground](/post/ground/): Describing [pepper](/post/pepper/) [that](/post/that/) has [not](/post/not/) been finely crushed.
 
-### [Adverb](/en/post/adverb/)
-- Pepperily: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [similar](/en/post/similar/) [to](/en/post/to/) [pepper](/en/post/pepper/); [with](/en/post/with/) [a](/en/post/a/) peppery flavor.
+### [Adverb](/post/adverb/)
+- Pepperily: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [similar](/post/similar/) [to](/post/to/) [pepper](/post/pepper/); [with](/post/with/) [a](/post/a/) peppery flavor.
 
 ## Phrases
-- "[Add](/en/post/add/) [some](/en/post/some/) [pepper](/en/post/pepper/) [to](/en/post/to/) [your](/en/post/your/) [taste](/en/post/taste/)": Suggesting [to](/en/post/to/) [increase](/en/post/increase/) [the](/en/post/the/) seasoning [with](/en/post/with/) [pepper](/en/post/pepper/).
-- "Peppered steak": [A](/en/post/a/) [dish](/en/post/dish/) [of](/en/post/of/) cooked steak seasoned [with](/en/post/with/) [pepper](/en/post/pepper/).
-- "[Black](/en/post/black/) [pepper](/en/post/pepper/) [tree](/en/post/tree/)": Referring [to](/en/post/to/) [the](/en/post/the/) [pepper](/en/post/pepper/) [plant](/en/post/plant/).
+- "[Add](/post/add/) [some](/post/some/) [pepper](/post/pepper/) [to](/post/to/) [your](/post/your/) [taste](/post/taste/)": Suggesting [to](/post/to/) [increase](/post/increase/) [the](/post/the/) seasoning [with](/post/with/) [pepper](/post/pepper/).
+- "Peppered steak": [A](/post/a/) [dish](/post/dish/) [of](/post/of/) cooked steak seasoned [with](/post/with/) [pepper](/post/pepper/).
+- "[Black](/post/black/) [pepper](/post/pepper/) [tree](/post/tree/)": Referring [to](/post/to/) [the](/post/the/) [pepper](/post/pepper/) [plant](/post/plant/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) [ground](/en/post/ground/) [some](/en/post/some/) [fresh](/en/post/fresh/) [pepper](/en/post/pepper/) [onto](/en/post/onto/) [her](/en/post/her/) [salad](/en/post/salad/) dressing."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) peppered [the](/en/post/the/) [meat](/en/post/meat/) [with](/en/post/with/) spices [before](/en/post/before/) grilling [it](/en/post/it/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [dish](/en/post/dish/) had [a](/en/post/a/) spicy [kick](/en/post/kick/) [from](/en/post/from/) [the](/en/post/the/) [generous](/en/post/generous/) [amount](/en/post/amount/) [of](/en/post/of/) [red](/en/post/red/) [pepper](/en/post/pepper/) flakes."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) seasoned [the](/en/post/the/) [soup](/en/post/soup/) pepperily [to](/en/post/to/) enhance [its](/en/post/its/) flavor."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) [ground](/post/ground/) [some](/post/some/) [fresh](/post/fresh/) [pepper](/post/pepper/) [onto](/post/onto/) [her](/post/her/) [salad](/post/salad/) dressing."
+- **[Verb](/post/verb/)**: "[He](/post/he/) peppered [the](/post/the/) [meat](/post/meat/) [with](/post/with/) spices [before](/post/before/) grilling [it](/post/it/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [dish](/post/dish/) had [a](/post/a/) spicy [kick](/post/kick/) [from](/post/from/) [the](/post/the/) [generous](/post/generous/) [amount](/post/amount/) [of](/post/of/) [red](/post/red/) [pepper](/post/pepper/) flakes."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) seasoned [the](/post/the/) [soup](/post/soup/) pepperily [to](/post/to/) enhance [its](/post/its/) flavor."
 
 ## Synonyms
 - Cayenne
-- Chili [powder](/en/post/powder/) ([for](/en/post/for/) [ground](/en/post/ground/) [pepper](/en/post/pepper/))
-- Paprika ([for](/en/post/for/) [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [sweet](/en/post/sweet/) [pepper](/en/post/pepper/))
-- [Hot](/en/post/hot/) [sauce](/en/post/sauce/) ([for](/en/post/for/) [a](/en/post/a/) spicy [pepper](/en/post/pepper/) flavor)
-- [Ground](/en/post/ground/) cloves ([a](/en/post/a/) [similar](/en/post/similar/) spice)
+- Chili [powder](/post/powder/) ([for](/post/for/) [ground](/post/ground/) [pepper](/post/pepper/))
+- Paprika ([for](/post/for/) [a](/post/a/) [type](/post/type/) [of](/post/of/) [sweet](/post/sweet/) [pepper](/post/pepper/))
+- [Hot](/post/hot/) [sauce](/post/sauce/) ([for](/post/for/) [a](/post/a/) spicy [pepper](/post/pepper/) flavor)
+- [Ground](/post/ground/) cloves ([a](/post/a/) [similar](/post/similar/) spice)

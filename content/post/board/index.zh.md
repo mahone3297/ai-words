@@ -12,29 +12,29 @@ keywords = ['ai words', 'board']
 
 ## 释义
 - **名词**:
-   - 木板；平板：[A](/post/a/) [flat](/post/flat/) [piece](/post/piece/) [of](/post/of/) [wood](/post/wood/), [often](/post/often/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [surface](/post/surface/) [for](/post/for/) [writing](/post/writing/) [or](/post/or/) [painting](/post/painting/).
-   - 船板；甲板：[The](/post/the/) [deck](/post/deck/) [of](/post/of/) [a](/post/a/) [ship](/post/ship/) [or](/post/or/) [boat](/post/boat/).
-   - 委员会；董事会：[A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [who](/post/who/) [direct](/post/direct/) [or](/post/or/) [manage](/post/manage/) an [organization](/post/organization/).
-   - 乘车（船、飞机）：[To](/post/to/) [get](/post/get/) [on](/post/on/) [a](/post/a/) [vehicle](/post/vehicle/) [such](/post/such/) [as](/post/as/) [a](/post/a/) [bus](/post/bus/), [train](/post/train/), [or](/post/or/) [plane](/post/plane/).
-   - 伙食；膳宿：[Food](/post/food/) [and](/post/and/) lodging [provided](/post/provided/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [school](/post/school/) [or](/post/or/) [college](/post/college/).
+   - 木板；平板：[A](/zh/post/a/) [flat](/zh/post/flat/) [piece](/zh/post/piece/) [of](/zh/post/of/) [wood](/zh/post/wood/), [often](/zh/post/often/) [used](/zh/post/used/) [as](/zh/post/as/) [a](/zh/post/a/) [surface](/zh/post/surface/) [for](/zh/post/for/) [writing](/zh/post/writing/) [or](/zh/post/or/) [painting](/zh/post/painting/).
+   - 船板；甲板：[The](/zh/post/the/) [deck](/zh/post/deck/) [of](/zh/post/of/) [a](/zh/post/a/) [ship](/zh/post/ship/) [or](/zh/post/or/) [boat](/zh/post/boat/).
+   - 委员会；董事会：[A](/zh/post/a/) [group](/zh/post/group/) [of](/zh/post/of/) [people](/zh/post/people/) [who](/zh/post/who/) [direct](/zh/post/direct/) [or](/zh/post/or/) [manage](/zh/post/manage/) an [organization](/zh/post/organization/).
+   - 乘车（船、飞机）：[To](/zh/post/to/) [get](/zh/post/get/) [on](/zh/post/on/) [a](/zh/post/a/) [vehicle](/zh/post/vehicle/) [such](/zh/post/such/) [as](/zh/post/as/) [a](/zh/post/a/) [bus](/zh/post/bus/), [train](/zh/post/train/), [or](/zh/post/or/) [plane](/zh/post/plane/).
+   - 伙食；膳宿：[Food](/zh/post/food/) [and](/zh/post/and/) lodging [provided](/zh/post/provided/), [especially](/zh/post/especially/) [in](/zh/post/in/) [a](/zh/post/a/) [school](/zh/post/school/) [or](/zh/post/or/) [college](/zh/post/college/).
 
 - **动词**:
-   - 加入董事会：[To](/post/to/) [become](/post/become/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [board](/post/board/), typically [a](/post/a/) governing [body](/post/body/).
-   - 登上（交通工具）：[To](/post/to/) [get](/post/get/) [onto](/post/onto/) [a](/post/a/) [vehicle](/post/vehicle/) [for](/post/for/) [transportation](/post/transportation/).
+   - 加入董事会：[To](/zh/post/to/) [become](/zh/post/become/) [a](/zh/post/a/) [member](/zh/post/member/) [of](/zh/post/of/) [a](/zh/post/a/) [board](/zh/post/board/), typically [a](/zh/post/a/) governing [body](/zh/post/body/).
+   - 登上（交通工具）：[To](/zh/post/to/) [get](/zh/post/get/) [onto](/zh/post/onto/) [a](/zh/post/a/) [vehicle](/zh/post/vehicle/) [for](/zh/post/for/) [transportation](/zh/post/transportation/).
 
 ## 短语
-- "[Board](/post/board/) [a](/post/a/) [plane](/post/plane/)/[train](/post/train/)/[bus](/post/bus/)" 意为登上飞机/火车/公共汽车。
-- "[Board](/post/board/) [of](/post/of/) directors" 指公司的董事会。
-- "[Be](/post/be/) [on](/post/on/) [the](/post/the/) [board](/post/board/)" 表示成为某个组织的成员。
+- "[Board](/zh/post/board/) [a](/zh/post/a/) [plane](/zh/post/plane/)/[train](/zh/post/train/)/[bus](/zh/post/bus/)" 意为登上飞机/火车/公共汽车。
+- "[Board](/zh/post/board/) [of](/zh/post/of/) directors" 指公司的董事会。
+- "[Be](/zh/post/be/) [on](/zh/post/on/) [the](/zh/post/the/) [board](/zh/post/board/)" 表示成为某个组织的成员。
 
 ## 例句
-- 名词: "[He](/post/he/) nailed [the](/post/the/) [picture](/post/picture/) [frame](/post/frame/) [to](/post/to/) [the](/post/the/) [wooden](/post/wooden/) [board](/post/board/)."
-- 动词: "[She](/post/she/) had [to](/post/to/) [board](/post/board/) [the](/post/the/) [train](/post/train/) [early](/post/early/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/) [for](/post/for/) [her](/post/her/) [business](/post/business/) [trip](/post/trip/)."
-- 名词 (膳食): "[The](/post/the/) students are [provided](/post/provided/) [with](/post/with/) [full](/post/full/) [board](/post/board/) [during](/post/during/) [their](/post/their/) [stay](/post/stay/) [at](/post/at/) [the](/post/the/) [college](/post/college/)."
+- 名词: "[He](/zh/post/he/) nailed [the](/zh/post/the/) [picture](/zh/post/picture/) [frame](/zh/post/frame/) [to](/zh/post/to/) [the](/zh/post/the/) [wooden](/zh/post/wooden/) [board](/zh/post/board/)."
+- 动词: "[She](/zh/post/she/) had [to](/zh/post/to/) [board](/zh/post/board/) [the](/zh/post/the/) [train](/zh/post/train/) [early](/zh/post/early/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/) [for](/zh/post/for/) [her](/zh/post/her/) [business](/zh/post/business/) [trip](/zh/post/trip/)."
+- 名词 (膳食): "[The](/zh/post/the/) students are [provided](/zh/post/provided/) [with](/zh/post/with/) [full](/zh/post/full/) [board](/zh/post/board/) [during](/zh/post/during/) [their](/zh/post/their/) [stay](/zh/post/stay/) [at](/zh/post/at/) [the](/zh/post/the/) [college](/zh/post/college/)."
 
 ## 同义词
-- [Panel](/post/panel/)
-- [Committee](/post/committee/)
-- [Deck](/post/deck/)
+- [Panel](/zh/post/panel/)
+- [Committee](/zh/post/committee/)
+- [Deck](/zh/post/deck/)
 - Plank
 - Slate

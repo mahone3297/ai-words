@@ -11,20 +11,20 @@ keywords = ['ai words', 'distinction']
 /ˈdɪstɪŋkʃən/
 
 ## 释义
-- **名词**: 明显的区别；区分；卓越；声望。例如: "[There](/post/there/) is [a](/post/a/) [clear](/post/clear/) [distinction](/post/distinction/) [between](/post/between/) [the](/post/the/) [two](/post/two/) concepts." 
-- **动词**: 区分；辨别。例如: "[She](/post/she/) was [able](/post/able/) [to](/post/to/) [distinguish](/post/distinguish/) [between](/post/between/) [the](/post/the/) [two](/post/two/) voices [easily](/post/easily/)."
+- **名词**: 明显的区别；区分；卓越；声望。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [clear](/zh/post/clear/) [distinction](/zh/post/distinction/) [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) concepts." 
+- **动词**: 区分；辨别。例如: "[She](/zh/post/she/) was [able](/zh/post/able/) [to](/zh/post/to/) [distinguish](/zh/post/distinguish/) [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) voices [easily](/zh/post/easily/)."
 
 ## 短语
-- "[distinction](/post/distinction/) [of](/post/of/) classes" 社会阶层的区分
-- "[make](/post/make/) [a](/post/a/) [distinction](/post/distinction/)" 做出区别
+- "[distinction](/zh/post/distinction/) [of](/zh/post/of/) classes" 社会阶层的区分
+- "[make](/zh/post/make/) [a](/zh/post/a/) [distinction](/zh/post/distinction/)" 做出区别
 
 ## 例句
-- 名词: "[The](/post/the/) artist's [work](/post/work/) is known [for](/post/for/) [its](/post/its/) [fine](/post/fine/) [distinction](/post/distinction/) [and](/post/and/) [attention](/post/attention/) [to](/post/to/) [detail](/post/detail/)."
-- 动词: "It's [important](/post/important/) [to](/post/to/) [distinguish](/post/distinguish/) [fact](/post/fact/) [from](/post/from/) [fiction](/post/fiction/) [when](/post/when/) [reading](/post/reading/) [historical](/post/historical/) accounts."
+- 名词: "[The](/zh/post/the/) artist's [work](/zh/post/work/) is known [for](/zh/post/for/) [its](/zh/post/its/) [fine](/zh/post/fine/) [distinction](/zh/post/distinction/) [and](/zh/post/and/) [attention](/zh/post/attention/) [to](/zh/post/to/) [detail](/zh/post/detail/)."
+- 动词: "It's [important](/zh/post/important/) [to](/zh/post/to/) [distinguish](/zh/post/distinguish/) [fact](/zh/post/fact/) [from](/zh/post/from/) [fiction](/zh/post/fiction/) [when](/zh/post/when/) [reading](/zh/post/reading/) [historical](/zh/post/historical/) accounts."
 
 ## 同义词
 - differentiation
-- [separation](/post/separation/)
+- [separation](/zh/post/separation/)
 - discernment
-- [contrast](/post/contrast/)
+- [contrast](/zh/post/contrast/)
 - disparity

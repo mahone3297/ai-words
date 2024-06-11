@@ -12,21 +12,21 @@ keywords = ['ai words', 'laundry']
 
 ## 释义
 - **名词**: 
-    - 洗涤物，待洗的衣服。例如: "I [have](/post/have/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [laundry](/post/laundry/) [to](/post/to/) [do](/post/do/) [this](/post/this/) [weekend](/post/weekend/)."
-    - 洗衣店或洗衣服务。例如: "I [usually](/post/usually/) [take](/post/take/) [my](/post/my/) [laundry](/post/laundry/) [to](/post/to/) [the](/post/the/) [local](/post/local/) [laundry](/post/laundry/)."
+    - 洗涤物，待洗的衣服。例如: "I [have](/zh/post/have/) [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) [laundry](/zh/post/laundry/) [to](/zh/post/to/) [do](/zh/post/do/) [this](/zh/post/this/) [weekend](/zh/post/weekend/)."
+    - 洗衣店或洗衣服务。例如: "I [usually](/zh/post/usually/) [take](/zh/post/take/) [my](/zh/post/my/) [laundry](/zh/post/laundry/) [to](/zh/post/to/) [the](/zh/post/the/) [local](/zh/post/local/) [laundry](/zh/post/laundry/)."
 
 ## 短语
-- "[Do](/post/do/) [the](/post/the/) [laundry](/post/laundry/)" 意味着清洗衣服。
-- "[Wash](/post/wash/) [and](/post/and/) [dry](/post/dry/) [laundry](/post/laundry/)" 包括洗涤和烘干衣物的过程。
-- "[Laundry](/post/laundry/) [basket](/post/basket/)" 是用来装待洗衣物的篮子。
+- "[Do](/zh/post/do/) [the](/zh/post/the/) [laundry](/zh/post/laundry/)" 意味着清洗衣服。
+- "[Wash](/zh/post/wash/) [and](/zh/post/and/) [dry](/zh/post/dry/) [laundry](/zh/post/laundry/)" 包括洗涤和烘干衣物的过程。
+- "[Laundry](/zh/post/laundry/) [basket](/zh/post/basket/)" 是用来装待洗衣物的篮子。
 
 ## 例句
-- 名词: "I [need](/post/need/) [to](/post/to/) [fold](/post/fold/) [the](/post/the/) [clean](/post/clean/) [laundry](/post/laundry/) [before](/post/before/) [it](/post/it/) piles [up](/post/up/)."
-- "[The](/post/the/) [laundry](/post/laundry/) [service](/post/service/) [will](/post/will/) [have](/post/have/) [your](/post/your/) [clothes](/post/clothes/) [ready](/post/ready/) [by](/post/by/) [tomorrow](/post/tomorrow/)."
+- 名词: "I [need](/zh/post/need/) [to](/zh/post/to/) [fold](/zh/post/fold/) [the](/zh/post/the/) [clean](/zh/post/clean/) [laundry](/zh/post/laundry/) [before](/zh/post/before/) [it](/zh/post/it/) piles [up](/zh/post/up/)."
+- "[The](/zh/post/the/) [laundry](/zh/post/laundry/) [service](/zh/post/service/) [will](/zh/post/will/) [have](/zh/post/have/) [your](/zh/post/your/) [clothes](/zh/post/clothes/) [ready](/zh/post/ready/) [by](/zh/post/by/) [tomorrow](/zh/post/tomorrow/)."
 
 ## 同义词
-- [Wash](/post/wash/)
+- [Wash](/zh/post/wash/)
 - Cleaning
-- [Linen](/post/linen/)
-- [Clothing](/post/clothing/)
+- [Linen](/zh/post/linen/)
+- [Clothing](/zh/post/clothing/)
 - Garments

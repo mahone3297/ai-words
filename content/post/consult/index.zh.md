@@ -12,21 +12,21 @@ keywords = ['ai words', 'consult']
 
 ## 释义
 - **动词**:
-1. 咨询；求教：寻求专家、医生或其他有知识的人的意见。例如: "I [need](/post/need/) [to](/post/to/) [consult](/post/consult/) [a](/post/a/) [lawyer](/post/lawyer/) [about](/post/about/) [my](/post/my/) [legal](/post/legal/) issues."
-2. 查阅；参考：查找信息或资料。例如: "[She](/post/she/) consulted [her](/post/her/) notes [before](/post/before/) answering [the](/post/the/) [question](/post/question/)."
+1. 咨询；求教：寻求专家、医生或其他有知识的人的意见。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [consult](/zh/post/consult/) [a](/zh/post/a/) [lawyer](/zh/post/lawyer/) [about](/zh/post/about/) [my](/zh/post/my/) [legal](/zh/post/legal/) issues."
+2. 查阅；参考：查找信息或资料。例如: "[She](/zh/post/she/) consulted [her](/zh/post/her/) notes [before](/zh/post/before/) answering [the](/zh/post/the/) [question](/zh/post/question/)."
 
 ## 短语
-- "[Consult](/post/consult/) [with](/post/with/) [someone](/post/someone/)" 意为与某人商量或讨论问题。
-- "[Consult](/post/consult/) [a](/post/a/) [dictionary](/post/dictionary/)" 是查阅字典的意思。
-- "[Consult](/post/consult/) [a](/post/a/) [medical](/post/medical/) [professional](/post/professional/)" 是寻求医疗专业人士的帮助。
+- "[Consult](/zh/post/consult/) [with](/zh/post/with/) [someone](/zh/post/someone/)" 意为与某人商量或讨论问题。
+- "[Consult](/zh/post/consult/) [a](/zh/post/a/) [dictionary](/zh/post/dictionary/)" 是查阅字典的意思。
+- "[Consult](/zh/post/consult/) [a](/zh/post/a/) [medical](/zh/post/medical/) [professional](/zh/post/professional/)" 是寻求医疗专业人士的帮助。
 
 ## 例句
-- 动词（咨询）: "[He](/post/he/) decided [to](/post/to/) [consult](/post/consult/) [a](/post/a/) [financial](/post/financial/) advisor [for](/post/for/) [investment](/post/investment/) [advice](/post/advice/)."
-- 动词（查阅）: "[She](/post/she/) consulted [the](/post/the/) [map](/post/map/) [to](/post/to/) [find](/post/find/) [the](/post/the/) nearest [coffee](/post/coffee/) [shop](/post/shop/)."
+- 动词（咨询）: "[He](/zh/post/he/) decided [to](/zh/post/to/) [consult](/zh/post/consult/) [a](/zh/post/a/) [financial](/zh/post/financial/) advisor [for](/zh/post/for/) [investment](/zh/post/investment/) [advice](/zh/post/advice/)."
+- 动词（查阅）: "[She](/zh/post/she/) consulted [the](/zh/post/the/) [map](/zh/post/map/) [to](/zh/post/to/) [find](/zh/post/find/) [the](/zh/post/the/) nearest [coffee](/zh/post/coffee/) [shop](/zh/post/shop/)."
 
 ## 同义词
-- [Seek](/post/seek/) [advice](/post/advice/)
-- [Inquire](/post/inquire/)
-- [Refer](/post/refer/) [to](/post/to/)
-- [Check](/post/check/)
-- [Ask](/post/ask/) [for](/post/for/) [guidance](/post/guidance/)
+- [Seek](/zh/post/seek/) [advice](/zh/post/advice/)
+- [Inquire](/zh/post/inquire/)
+- [Refer](/zh/post/refer/) [to](/zh/post/to/)
+- [Check](/zh/post/check/)
+- [Ask](/zh/post/ask/) [for](/zh/post/for/) [guidance](/zh/post/guidance/)

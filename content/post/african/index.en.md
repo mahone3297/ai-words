@@ -7,34 +7,34 @@ description = '[ˈæfrikən] a.非洲的 n.非洲人'
 keywords = ['ai words', 'african']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæfrɪkən/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Of](/en/post/of/) [or](/en/post/or/) relating [to](/en/post/to/) [people](/en/post/people/), animals, [or](/en/post/or/) plants [native](/en/post/native/) [to](/en/post/to/) [Africa](/en/post/africa/), [or](/en/post/or/) having origins [or](/en/post/or/) ancestry [from](/en/post/from/) [Africa](/en/post/africa/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [African](/en/post/african/) savannah is [home](/en/post/home/) [to](/en/post/to/) [diverse](/en/post/diverse/) wildlife."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [from](/en/post/from/) [Africa](/en/post/africa/) [or](/en/post/or/) having [African](/en/post/african/) descent. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [African](/en/post/african/) [community](/en/post/community/) celebrates [their](/en/post/their/) cultural heritage [every](/en/post/every/) [year](/en/post/year/)."
-- **[Proper](/en/post/proper/) [Noun](/en/post/noun/)**: Refers [to](/en/post/to/) [the](/en/post/the/) [continent](/en/post/continent/) [of](/en/post/of/) [Africa](/en/post/africa/). [For](/en/post/for/) [example](/en/post/example/): "[Many](/en/post/many/) [African](/en/post/african/) countries are working [on](/en/post/on/) sustainable [development](/en/post/development/) projects."
+- **[Adjective](/post/adjective/)**: [Of](/post/of/) [or](/post/or/) relating [to](/post/to/) [people](/post/people/), animals, [or](/post/or/) plants [native](/post/native/) [to](/post/to/) [Africa](/post/africa/), [or](/post/or/) having origins [or](/post/or/) ancestry [from](/post/from/) [Africa](/post/africa/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [African](/post/african/) savannah is [home](/post/home/) [to](/post/to/) [diverse](/post/diverse/) wildlife."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [from](/post/from/) [Africa](/post/africa/) [or](/post/or/) having [African](/post/african/) descent. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [African](/post/african/) [community](/post/community/) celebrates [their](/post/their/) cultural heritage [every](/post/every/) [year](/post/year/)."
+- **[Proper](/post/proper/) [Noun](/post/noun/)**: Refers [to](/post/to/) [the](/post/the/) [continent](/post/continent/) [of](/post/of/) [Africa](/post/africa/). [For](/post/for/) [example](/post/example/): "[Many](/post/many/) [African](/post/african/) countries are working [on](/post/on/) sustainable [development](/post/development/) projects."
 
 ## Phrases
-- "[African](/en/post/african/) [art](/en/post/art/)" denotes [the](/en/post/the/) [diverse](/en/post/diverse/) [artistic](/en/post/artistic/) expressions [from](/en/post/from/) [the](/en/post/the/) [continent](/en/post/continent/).
-- "[African](/en/post/african/) dialects" are [the](/en/post/the/) [various](/en/post/various/) languages spoken [across](/en/post/across/) [Africa](/en/post/africa/).
-- "[African](/en/post/african/) diaspora" refers [to](/en/post/to/) [the](/en/post/the/) global [spread](/en/post/spread/) [of](/en/post/of/) [people](/en/post/people/) [of](/en/post/of/) [African](/en/post/african/) [origin](/en/post/origin/).
+- "[African](/post/african/) [art](/post/art/)" denotes [the](/post/the/) [diverse](/post/diverse/) [artistic](/post/artistic/) expressions [from](/post/from/) [the](/post/the/) [continent](/post/continent/).
+- "[African](/post/african/) dialects" are [the](/post/the/) [various](/post/various/) languages spoken [across](/post/across/) [Africa](/post/africa/).
+- "[African](/post/african/) diaspora" refers [to](/post/to/) [the](/post/the/) global [spread](/post/spread/) [of](/post/of/) [people](/post/people/) [of](/post/of/) [African](/post/african/) [origin](/post/origin/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [African](/en/post/african/) [elephant](/en/post/elephant/) is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) largest [land](/en/post/land/) animals [on](/en/post/on/) [Earth](/en/post/earth/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) proudly shared [her](/en/post/her/) [African](/en/post/african/) roots [with](/en/post/with/) [her](/en/post/her/) children."
-- **[Proper](/en/post/proper/) [Noun](/en/post/noun/)**: "[The](/en/post/the/) [African](/en/post/african/) [Union](/en/post/union/) promotes [peace](/en/post/peace/) [and](/en/post/and/) cooperation [among](/en/post/among/) [its](/en/post/its/) [member](/en/post/member/) states."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [African](/post/african/) [elephant](/post/elephant/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) largest [land](/post/land/) animals [on](/post/on/) [Earth](/post/earth/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) proudly shared [her](/post/her/) [African](/post/african/) roots [with](/post/with/) [her](/post/her/) children."
+- **[Proper](/post/proper/) [Noun](/post/noun/)**: "[The](/post/the/) [African](/post/african/) [Union](/post/union/) promotes [peace](/post/peace/) [and](/post/and/) cooperation [among](/post/among/) [its](/post/its/) [member](/post/member/) states."
 
 ## Synonyms
 - Sub-Saharan
 - Afro
-- [Black](/en/post/black/) [African](/en/post/african/)
-- Indigenous [African](/en/post/african/)
+- [Black](/post/black/) [African](/post/african/)
+- Indigenous [African](/post/african/)
 - Continental
 
 ## Antonyms
 - Non-African
 - Caucasian
-- [Asian](/en/post/asian/)
+- [Asian](/post/asian/)
 - European
-- Indigenous ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [not](/en/post/not/) referring [to](/en/post/to/) [Africa](/en/post/africa/))
+- Indigenous ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [not](/post/not/) referring [to](/post/to/) [Africa](/post/africa/))

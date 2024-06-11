@@ -7,27 +7,27 @@ description = '[ˈsætədi] n.星期六'
 keywords = ['ai words', 'Saturday']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sætˈeɪri/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [day](/en/post/day/) [in](/en/post/in/) [the](/en/post/the/) [week](/en/post/week/), occurring [after](/en/post/after/) Friday [and](/en/post/and/) [before](/en/post/before/) Sunday, typically designated [as](/en/post/as/) [a](/en/post/a/) [day](/en/post/day/) [of](/en/post/of/) [rest](/en/post/rest/) [and](/en/post/and/) [leisure](/en/post/leisure/). [For](/en/post/for/) [example](/en/post/example/): "Saturday is [my](/en/post/my/) favorite [day](/en/post/day/) [because](/en/post/because/) I don't [have](/en/post/have/) [to](/en/post/to/) [work](/en/post/work/)."
-- **[Adjective](/en/post/adjective/)**: Designating [or](/en/post/or/) referring [to](/en/post/to/) [this](/en/post/this/) [day](/en/post/day/). [For](/en/post/for/) [example](/en/post/example/): "It's [a](/en/post/a/) [beautiful](/en/post/beautiful/) Saturday [afternoon](/en/post/afternoon/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [it](/en/post/it/) is Saturday. [For](/en/post/for/) [example](/en/post/example/): "It's Saturday, [so](/en/post/so/) we're having [a](/en/post/a/) barbecue."
+- **[Noun](/post/noun/)**: [A](/post/a/) [day](/post/day/) [in](/post/in/) [the](/post/the/) [week](/post/week/), occurring [after](/post/after/) Friday [and](/post/and/) [before](/post/before/) Sunday, typically designated [as](/post/as/) [a](/post/a/) [day](/post/day/) [of](/post/of/) [rest](/post/rest/) [and](/post/and/) [leisure](/post/leisure/). [For](/post/for/) [example](/post/example/): "Saturday is [my](/post/my/) favorite [day](/post/day/) [because](/post/because/) I don't [have](/post/have/) [to](/post/to/) [work](/post/work/)."
+- **[Adjective](/post/adjective/)**: Designating [or](/post/or/) referring [to](/post/to/) [this](/post/this/) [day](/post/day/). [For](/post/for/) [example](/post/example/): "It's [a](/post/a/) [beautiful](/post/beautiful/) Saturday [afternoon](/post/afternoon/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [it](/post/it/) is Saturday. [For](/post/for/) [example](/post/example/): "It's Saturday, [so](/post/so/) we're having [a](/post/a/) barbecue."
 
 ## Phrases
-- "[Enjoy](/en/post/enjoy/) [your](/en/post/your/) Saturday" is [a](/en/post/a/) [common](/en/post/common/) [expression](/en/post/expression/) [to](/en/post/to/) [wish](/en/post/wish/) [someone](/en/post/someone/) [a](/en/post/a/) [good](/en/post/good/) [weekend](/en/post/weekend/).
-- "Saturday [night](/en/post/night/)" [often](/en/post/often/) refers [to](/en/post/to/) [a](/en/post/a/) [social](/en/post/social/) gathering [or](/en/post/or/) entertainment.
-- "Saturday [morning](/en/post/morning/) cartoons" is [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) children's [television](/en/post/television/) shows aired [on](/en/post/on/) Saturdays.
+- "[Enjoy](/post/enjoy/) [your](/post/your/) Saturday" is [a](/post/a/) [common](/post/common/) [expression](/post/expression/) [to](/post/to/) [wish](/post/wish/) [someone](/post/someone/) [a](/post/a/) [good](/post/good/) [weekend](/post/weekend/).
+- "Saturday [night](/post/night/)" [often](/post/often/) refers [to](/post/to/) [a](/post/a/) [social](/post/social/) gathering [or](/post/or/) entertainment.
+- "Saturday [morning](/post/morning/) cartoons" is [a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) children's [television](/post/television/) shows aired [on](/post/on/) Saturdays.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) [have](/en/post/have/) plans [to](/en/post/to/) [go](/en/post/go/) hiking [on](/en/post/on/) Saturday [if](/en/post/if/) [the](/en/post/the/) [weather](/en/post/weather/) cooperates."
-- **[Adjective](/en/post/adjective/)**: "[It](/en/post/it/) was [a](/en/post/a/) [lovely](/en/post/lovely/), [sunny](/en/post/sunny/) Saturday [outside](/en/post/outside/)."
-- **[Verb](/en/post/verb/)**: "I [remember](/en/post/remember/) telling [my](/en/post/my/) friends [it](/en/post/it/) was Saturday [and](/en/post/and/) [they](/en/post/they/) [could](/en/post/could/) [sleep](/en/post/sleep/) [in](/en/post/in/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) [have](/post/have/) plans [to](/post/to/) [go](/post/go/) hiking [on](/post/on/) Saturday [if](/post/if/) [the](/post/the/) [weather](/post/weather/) cooperates."
+- **[Adjective](/post/adjective/)**: "[It](/post/it/) was [a](/post/a/) [lovely](/post/lovely/), [sunny](/post/sunny/) Saturday [outside](/post/outside/)."
+- **[Verb](/post/verb/)**: "I [remember](/post/remember/) telling [my](/post/my/) friends [it](/post/it/) was Saturday [and](/post/and/) [they](/post/they/) [could](/post/could/) [sleep](/post/sleep/) [in](/post/in/)."
 
 ## Synonyms
-- [Weekday](/en/post/weekday/) ([in](/en/post/in/) [contrast](/en/post/contrast/))
-- [Weekend](/en/post/weekend/)
--休闲日 ([leisure](/en/post/leisure/) [day](/en/post/day/), [in](/en/post/in/) Chinese)
-- [Day](/en/post/day/) [off](/en/post/off/)
-- Saturday [special](/en/post/special/) ([a](/en/post/a/) [term](/en/post/term/) [for](/en/post/for/) events specifically held [on](/en/post/on/) Saturdays)
+- [Weekday](/post/weekday/) ([in](/post/in/) [contrast](/post/contrast/))
+- [Weekend](/post/weekend/)
+-休闲日 ([leisure](/post/leisure/) [day](/post/day/), [in](/post/in/) Chinese)
+- [Day](/post/day/) [off](/post/off/)
+- Saturday [special](/post/special/) ([a](/post/a/) [term](/post/term/) [for](/post/for/) events specifically held [on](/post/on/) Saturdays)

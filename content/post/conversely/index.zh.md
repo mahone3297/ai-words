@@ -11,18 +11,18 @@ keywords = ['ai words', 'conversely']
 /conˈvɜːrsli/
 
 ## 释义
-- **副词**: 表示相反的情况或观点，意为“相反地”，“反之”。例如: "[He](/post/he/) [thought](/post/thought/) [it](/post/it/) [would](/post/would/) [be](/post/be/) [difficult](/post/difficult/); [conversely](/post/conversely/), [it](/post/it/) turned [out](/post/out/) [to](/post/to/) [be](/post/be/) [easy](/post/easy/)."
+- **副词**: 表示相反的情况或观点，意为“相反地”，“反之”。例如: "[He](/zh/post/he/) [thought](/zh/post/thought/) [it](/zh/post/it/) [would](/zh/post/would/) [be](/zh/post/be/) [difficult](/zh/post/difficult/); [conversely](/zh/post/conversely/), [it](/zh/post/it/) turned [out](/zh/post/out/) [to](/zh/post/to/) [be](/zh/post/be/) [easy](/zh/post/easy/)."
 
 ## 短语
-- "[On](/post/on/) [the](/post/the/) [one](/post/one/) [hand](/post/hand/)...[conversely](/post/conversely/), [on](/post/on/) [the](/post/the/) [other](/post/other/) [hand](/post/hand/)..." 用来对比两个不同的观点或事实。
+- "[On](/zh/post/on/) [the](/zh/post/the/) [one](/zh/post/one/) [hand](/zh/post/hand/)...[conversely](/zh/post/conversely/), [on](/zh/post/on/) [the](/zh/post/the/) [other](/zh/post/other/) [hand](/zh/post/hand/)..." 用来对比两个不同的观点或事实。
 
 ## 例句
-- "[He](/post/he/) likes [coffee](/post/coffee/); [conversely](/post/conversely/), [she](/post/she/) prefers [tea](/post/tea/)."
-- "[Some](/post/some/) [people](/post/people/) [find](/post/find/) [exercise](/post/exercise/) invigorating; [conversely](/post/conversely/), others [find](/post/find/) [it](/post/it/) exhausting."
+- "[He](/zh/post/he/) likes [coffee](/zh/post/coffee/); [conversely](/zh/post/conversely/), [she](/zh/post/she/) prefers [tea](/zh/post/tea/)."
+- "[Some](/zh/post/some/) [people](/zh/post/people/) [find](/zh/post/find/) [exercise](/zh/post/exercise/) invigorating; [conversely](/zh/post/conversely/), others [find](/zh/post/find/) [it](/zh/post/it/) exhausting."
 
 ## 同义词
-- [However](/post/however/)
-- [On](/post/on/) [the](/post/the/) [contrary](/post/contrary/)
-- [Instead](/post/instead/)
-- [Otherwise](/post/otherwise/)
-- [Yet](/post/yet/)
+- [However](/zh/post/however/)
+- [On](/zh/post/on/) [the](/zh/post/the/) [contrary](/zh/post/contrary/)
+- [Instead](/zh/post/instead/)
+- [Otherwise](/zh/post/otherwise/)
+- [Yet](/zh/post/yet/)

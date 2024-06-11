@@ -7,26 +7,26 @@ description = '[nɔː] conj.也不；不'
 keywords = ['ai words', 'nor']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /nɔr/
 
 ## Definitions
-- **[Conjunction](/en/post/conjunction/)**: [A](/en/post/a/) coordinating [conjunction](/en/post/conjunction/) [used](/en/post/used/) [to](/en/post/to/) [connect](/en/post/connect/) [two](/en/post/two/) [negative](/en/post/negative/) alternatives, [usually](/en/post/usually/) [following](/en/post/following/) [neither](/en/post/neither/), indicating [that](/en/post/that/) [the](/en/post/the/) [second](/en/post/second/) [alternative](/en/post/alternative/) is [also](/en/post/also/) untrue [or](/en/post/or/) nonexistent. It's [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [place](/en/post/place/) [of](/en/post/of/) '[or](/en/post/or/)' [in](/en/post/in/) [negative](/en/post/negative/) contexts. [For](/en/post/for/) [example](/en/post/example/): "[Neither](/en/post/neither/) [he](/en/post/he/) [nor](/en/post/nor/) [she](/en/post/she/) was [available](/en/post/available/)."
+- **[Conjunction](/post/conjunction/)**: [A](/post/a/) coordinating [conjunction](/post/conjunction/) [used](/post/used/) [to](/post/to/) [connect](/post/connect/) [two](/post/two/) [negative](/post/negative/) alternatives, [usually](/post/usually/) [following](/post/following/) [neither](/post/neither/), indicating [that](/post/that/) [the](/post/the/) [second](/post/second/) [alternative](/post/alternative/) is [also](/post/also/) untrue [or](/post/or/) nonexistent. It's [often](/post/often/) [used](/post/used/) [in](/post/in/) [place](/post/place/) [of](/post/of/) '[or](/post/or/)' [in](/post/in/) [negative](/post/negative/) contexts. [For](/post/for/) [example](/post/example/): "[Neither](/post/neither/) [he](/post/he/) [nor](/post/nor/) [she](/post/she/) was [available](/post/available/)."
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): 
-- "I can't [eat](/en/post/eat/) [fish](/en/post/fish/) [nor](/en/post/nor/) [meat](/en/post/meat/); I'm [a](/en/post/a/) vegetarian."
-- "[She](/en/post/she/) didn't [sing](/en/post/sing/) [nor](/en/post/nor/) [dance](/en/post/dance/) [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/)."
+[Example](/post/example/) [sentence](/post/sentence/): 
+- "I can't [eat](/post/eat/) [fish](/post/fish/) [nor](/post/nor/) [meat](/post/meat/); I'm [a](/post/a/) vegetarian."
+- "[She](/post/she/) didn't [sing](/post/sing/) [nor](/post/nor/) [dance](/post/dance/) [at](/post/at/) [the](/post/the/) [party](/post/party/)."
 
 ## Phrases
-- "[Neither](/en/post/neither/)...[nor](/en/post/nor/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) things are [not](/en/post/not/) [true](/en/post/true/) [or](/en/post/or/) [do](/en/post/do/) [not](/en/post/not/) [exist](/en/post/exist/). [Example](/en/post/example/): "[Neither](/en/post/neither/) [the](/en/post/the/) [sun](/en/post/sun/) [nor](/en/post/nor/) [the](/en/post/the/) [moon](/en/post/moon/) was [visible](/en/post/visible/) [last](/en/post/last/) [night](/en/post/night/)."
+- "[Neither](/post/neither/)...[nor](/post/nor/)": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [two](/post/two/) [or](/post/or/) [more](/post/more/) things are [not](/post/not/) [true](/post/true/) [or](/post/or/) [do](/post/do/) [not](/post/not/) [exist](/post/exist/). [Example](/post/example/): "[Neither](/post/neither/) [the](/post/the/) [sun](/post/sun/) [nor](/post/nor/) [the](/post/the/) [moon](/post/moon/) was [visible](/post/visible/) [last](/post/last/) [night](/post/night/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Conjunction](/en/post/conjunction/)**: "[He](/en/post/he/) spoke [neither](/en/post/neither/) French [nor](/en/post/nor/) German, [so](/en/post/so/) [we](/en/post/we/) had [to](/en/post/to/) [communicate](/en/post/communicate/) [in](/en/post/in/) English."
-- "[There](/en/post/there/) was [no](/en/post/no/) [food](/en/post/food/) [left](/en/post/left/), [neither](/en/post/neither/) [bread](/en/post/bread/) [nor](/en/post/nor/) [cheese](/en/post/cheese/) [nor](/en/post/nor/) [fruit](/en/post/fruit/)."
+## [Example](/post/example/) Sentences
+- **[Conjunction](/post/conjunction/)**: "[He](/post/he/) spoke [neither](/post/neither/) French [nor](/post/nor/) German, [so](/post/so/) [we](/post/we/) had [to](/post/to/) [communicate](/post/communicate/) [in](/post/in/) English."
+- "[There](/post/there/) was [no](/post/no/) [food](/post/food/) [left](/post/left/), [neither](/post/neither/) [bread](/post/bread/) [nor](/post/nor/) [cheese](/post/cheese/) [nor](/post/nor/) [fruit](/post/fruit/)."
 
 ## Synonyms
-- [Not](/en/post/not/)...[or](/en/post/or/)
-- [Neither](/en/post/neither/)...[or](/en/post/or/)
-- [Not](/en/post/not/)...[and](/en/post/and/)
+- [Not](/post/not/)...[or](/post/or/)
+- [Neither](/post/neither/)...[or](/post/or/)
+- [Not](/post/not/)...[and](/post/and/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [word](/en/post/word/) "[nor](/en/post/nor/)" doesn't [have](/en/post/have/) [typical](/en/post/typical/) synonyms [since](/en/post/since/) [it](/en/post/it/) functions specifically [in](/en/post/in/) [a](/en/post/a/) [negative](/en/post/negative/) coordination context. [However](/en/post/however/), [its](/en/post/its/) [function](/en/post/function/) [can](/en/post/can/) [be](/en/post/be/) replicated [with](/en/post/with/) constructions [like](/en/post/like/) "[not](/en/post/not/)...[or](/en/post/or/)" [or](/en/post/or/) "[neither](/en/post/neither/)...[or](/en/post/or/)".
+[Note](/post/note/): [The](/post/the/) [word](/post/word/) "[nor](/post/nor/)" doesn't [have](/post/have/) [typical](/post/typical/) synonyms [since](/post/since/) [it](/post/it/) functions specifically [in](/post/in/) [a](/post/a/) [negative](/post/negative/) coordination context. [However](/post/however/), [its](/post/its/) [function](/post/function/) [can](/post/can/) [be](/post/be/) replicated [with](/post/with/) constructions [like](/post/like/) "[not](/post/not/)...[or](/post/or/)" [or](/post/or/) "[neither](/post/neither/)...[or](/post/or/)".

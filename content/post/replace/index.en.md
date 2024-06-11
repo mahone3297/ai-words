@@ -7,38 +7,38 @@ description = '[ri(ː)ˈpleis] vt.把…放回；取代'
 keywords = ['ai words', 'replace']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈpleɪs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) substituting [one](/en/post/one/) [thing](/en/post/thing/) [with](/en/post/with/) [another](/en/post/another/), [usually](/en/post/usually/) [a](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [item](/en/post/item/). **[Example](/en/post/example/):** [The](/en/post/the/) software has [a](/en/post/a/) [feature](/en/post/feature/) [that](/en/post/that/) allows [you](/en/post/you/) [to](/en/post/to/) [replace](/en/post/replace/) [text](/en/post/text/) [easily](/en/post/easily/).
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) substituting [one](/post/one/) [thing](/post/thing/) [with](/post/with/) [another](/post/another/), [usually](/post/usually/) [a](/post/a/) [word](/post/word/) [or](/post/or/) [item](/post/item/). **[Example](/post/example/):** [The](/post/the/) software has [a](/post/a/) [feature](/post/feature/) [that](/post/that/) allows [you](/post/you/) [to](/post/to/) [replace](/post/replace/) [text](/post/text/) [easily](/post/easily/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [substitute](/en/post/substitute/) [one](/en/post/one/) [word](/en/post/word/), [item](/en/post/item/), [or](/en/post/or/) [person](/en/post/person/) [for](/en/post/for/) [another](/en/post/another/), [often](/en/post/often/) [by](/en/post/by/) [intention](/en/post/intention/) [or](/en/post/or/) [necessity](/en/post/necessity/). **[Example](/en/post/example/):** [He](/en/post/he/) replaced [the](/en/post/the/) [old](/en/post/old/) sofa [with](/en/post/with/) [a](/en/post/a/) [new](/en/post/new/) [one](/en/post/one/).
-2. [To](/en/post/to/) [take](/en/post/take/) [the](/en/post/the/) [place](/en/post/place/) [of](/en/post/of/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [else](/en/post/else/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [role](/en/post/role/) [or](/en/post/or/) [function](/en/post/function/). **[Example](/en/post/example/):** [She](/en/post/she/) replaced [her](/en/post/her/) [boss](/en/post/boss/) [as](/en/post/as/) [team](/en/post/team/) [leader](/en/post/leader/) [during](/en/post/during/) [his](/en/post/his/) [vacation](/en/post/vacation/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [substitute](/post/substitute/) [one](/post/one/) [word](/post/word/), [item](/post/item/), [or](/post/or/) [person](/post/person/) [for](/post/for/) [another](/post/another/), [often](/post/often/) [by](/post/by/) [intention](/post/intention/) [or](/post/or/) [necessity](/post/necessity/). **[Example](/post/example/):** [He](/post/he/) replaced [the](/post/the/) [old](/post/old/) sofa [with](/post/with/) [a](/post/a/) [new](/post/new/) [one](/post/one/).
+2. [To](/post/to/) [take](/post/take/) [the](/post/the/) [place](/post/place/) [of](/post/of/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [else](/post/else/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [role](/post/role/) [or](/post/or/) [function](/post/function/). **[Example](/post/example/):** [She](/post/she/) replaced [her](/post/her/) [boss](/post/boss/) [as](/post/as/) [team](/post/team/) [leader](/post/leader/) [during](/post/during/) [his](/post/his/) [vacation](/post/vacation/).
 
-### [Adjective](/en/post/adjective/)
-Referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is substitutable [or](/en/post/or/) [capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) replaced. **[Example](/en/post/example/):** [The](/en/post/the/) [company](/en/post/company/) offers replaceable parts [for](/en/post/for/) [their](/en/post/their/) appliances.
+### [Adjective](/post/adjective/)
+Referring [to](/post/to/) [something](/post/something/) [that](/post/that/) is substitutable [or](/post/or/) [capable](/post/capable/) [of](/post/of/) [being](/post/being/) replaced. **[Example](/post/example/):** [The](/post/the/) [company](/post/company/) offers replaceable parts [for](/post/for/) [their](/post/their/) appliances.
 
 ## Phrases
-- "Replaceable parts" indicates items [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) [easily](/en/post/easily/) swapped [out](/en/post/out/).
-- "[Replace](/en/post/replace/) [this](/en/post/this/) [with](/en/post/with/) [that](/en/post/that/)" suggests substitution.
-- "[Replace](/en/post/replace/) worn-out items" implies [the](/en/post/the/) [need](/en/post/need/) [for](/en/post/for/) [new](/en/post/new/) ones [due](/en/post/due/) [to](/en/post/to/) [wear](/en/post/wear/) [and](/en/post/and/) [tear](/en/post/tear/).
+- "Replaceable parts" indicates items [that](/post/that/) [can](/post/can/) [be](/post/be/) [easily](/post/easily/) swapped [out](/post/out/).
+- "[Replace](/post/replace/) [this](/post/this/) [with](/post/with/) [that](/post/that/)" suggests substitution.
+- "[Replace](/post/replace/) worn-out items" implies [the](/post/the/) [need](/post/need/) [for](/post/for/) [new](/post/new/) ones [due](/post/due/) [to](/post/to/) [wear](/post/wear/) [and](/post/and/) [tear](/post/tear/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [engineer](/en/post/engineer/) suggested using [a](/en/post/a/) [different](/en/post/different/) [material](/en/post/material/) [to](/en/post/to/) [replace](/en/post/replace/) [the](/en/post/the/) corroded [metal](/en/post/metal/).
-- **[Verb](/en/post/verb/)**: [She](/en/post/she/) replaced [her](/en/post/her/) [broken](/en/post/broken/) [phone](/en/post/phone/) [with](/en/post/with/) [a](/en/post/a/) newer [model](/en/post/model/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [policy](/en/post/policy/) encourages [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) replaceable eco-friendly materials.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [engineer](/post/engineer/) suggested using [a](/post/a/) [different](/post/different/) [material](/post/material/) [to](/post/to/) [replace](/post/replace/) [the](/post/the/) corroded [metal](/post/metal/).
+- **[Verb](/post/verb/)**: [She](/post/she/) replaced [her](/post/her/) [broken](/post/broken/) [phone](/post/phone/) [with](/post/with/) [a](/post/a/) newer [model](/post/model/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [policy](/post/policy/) encourages [the](/post/the/) [use](/post/use/) [of](/post/of/) replaceable eco-friendly materials.
 
 ## Synonyms
-- [Substitute](/en/post/substitute/)
-- [Exchange](/en/post/exchange/)
+- [Substitute](/post/substitute/)
+- [Exchange](/post/exchange/)
 - Supplant
 - Replaceable
-- [Substitute](/en/post/substitute/) [for](/en/post/for/)
+- [Substitute](/post/substitute/) [for](/post/for/)
 - Exchangeable
 - Replacements
-- [Substitute](/en/post/substitute/) [product](/en/post/product/)
+- [Substitute](/post/substitute/) [product](/post/product/)
 - Relocate
-- [Shift](/en/post/shift/)
+- [Shift](/post/shift/)

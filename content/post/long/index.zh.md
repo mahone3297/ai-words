@@ -11,16 +11,16 @@ keywords = ['ai words', 'long']
 / læŋ /
 
 ## 释义
-- **形容词**: 长的，具有相当长度的。例如: "[The](/post/the/) [river](/post/river/) is [very](/post/very/) [long](/post/long/)."
-- **副词**: 长久地，长时间。例如: "[We](/post/we/) haven't seen [each](/post/each/) [other](/post/other/) [for](/post/for/) [a](/post/a/) [long](/post/long/) [time](/post/time/)."
+- **形容词**: 长的，具有相当长度的。例如: "[The](/zh/post/the/) [river](/zh/post/river/) is [very](/zh/post/very/) [long](/zh/post/long/)."
+- **副词**: 长久地，长时间。例如: "[We](/zh/post/we/) haven't seen [each](/zh/post/each/) [other](/zh/post/other/) [for](/zh/post/for/) [a](/zh/post/a/) [long](/zh/post/long/) [time](/zh/post/time/)."
 
 ## 短语
-- "[For](/post/for/) [a](/post/a/) [long](/post/long/) [time](/post/time/)" 意为持续很长时间。
-- "[As](/post/as/) [long](/post/long/) [as](/post/as/)" 表示只要...就...。例如: "[As](/post/as/) [long](/post/long/) [as](/post/as/) you're [happy](/post/happy/), I'm [happy](/post/happy/) [too](/post/too/)."
+- "[For](/zh/post/for/) [a](/zh/post/a/) [long](/zh/post/long/) [time](/zh/post/time/)" 意为持续很长时间。
+- "[As](/zh/post/as/) [long](/zh/post/long/) [as](/zh/post/as/)" 表示只要...就...。例如: "[As](/zh/post/as/) [long](/zh/post/long/) [as](/zh/post/as/) you're [happy](/zh/post/happy/), I'm [happy](/zh/post/happy/) [too](/zh/post/too/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) sofa is [so](/post/so/) [long](/post/long/) [that](/post/that/) [it](/post/it/) covers [half](/post/half/) [of](/post/of/) [the](/post/the/) [living](/post/living/) [room](/post/room/)."
-- 副词: "[She](/post/she/) studied [for](/post/for/) [a](/post/a/) [long](/post/long/) [time](/post/time/) [before](/post/before/) taking [the](/post/the/) [exam](/post/exam/)."
+- 形容词: "[The](/zh/post/the/) sofa is [so](/zh/post/so/) [long](/zh/post/long/) [that](/zh/post/that/) [it](/zh/post/it/) covers [half](/zh/post/half/) [of](/zh/post/of/) [the](/zh/post/the/) [living](/zh/post/living/) [room](/zh/post/room/)."
+- 副词: "[She](/zh/post/she/) studied [for](/zh/post/for/) [a](/zh/post/a/) [long](/zh/post/long/) [time](/zh/post/time/) [before](/zh/post/before/) taking [the](/zh/post/the/) [exam](/zh/post/exam/)."
 
 ## 同义词
 - Lengthy

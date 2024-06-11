@@ -7,34 +7,34 @@ description = '[ˈerə] n.错误，谬误；差错'
 keywords = ['ai words', 'error']
 +++
 
-## [Word](/en/post/word/): [Error](/en/post/error/)
+## [Word](/post/word/): [Error](/post/error/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɛrər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [mistake](/en/post/mistake/) [or](/en/post/or/) [fault](/en/post/fault/) [in](/en/post/in/) [action](/en/post/action/), [calculation](/en/post/calculation/), [opinion](/en/post/opinion/), [or](/en/post/or/) judgment. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [pilot](/en/post/pilot/) made an [error](/en/post/error/) [in](/en/post/in/) [navigation](/en/post/navigation/), causing [the](/en/post/the/) [plane](/en/post/plane/) [to](/en/post/to/) [be](/en/post/be/) [off](/en/post/off/) [course](/en/post/course/)."
-  - _Mathematics_: An [incorrect](/en/post/incorrect/) [result](/en/post/result/) obtained [from](/en/post/from/) applying [a](/en/post/a/) [procedure](/en/post/procedure/), [method](/en/post/method/), [or](/en/post/or/) [formula](/en/post/formula/). [Example](/en/post/example/): "[The](/en/post/the/) [difference](/en/post/difference/) [between](/en/post/between/) [the](/en/post/the/) [actual](/en/post/actual/) [answer](/en/post/answer/) [and](/en/post/and/) [the](/en/post/the/) computed [one](/en/post/one/) was [due](/en/post/due/) [to](/en/post/to/) an [arithmetic](/en/post/arithmetic/) [error](/en/post/error/)."
-  - _Computing_: An [exception](/en/post/exception/) [or](/en/post/or/) [fault](/en/post/fault/) [in](/en/post/in/) [a](/en/post/a/) [program](/en/post/program/) [that](/en/post/that/) causes [it](/en/post/it/) [to](/en/post/to/) [produce](/en/post/produce/) unintended results [or](/en/post/or/) [crash](/en/post/crash/). [Example](/en/post/example/): "[The](/en/post/the/) [system](/en/post/system/) returned an '[internal](/en/post/internal/) server [error](/en/post/error/)' [message](/en/post/message/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [mistake](/post/mistake/) [or](/post/or/) [fault](/post/fault/) [in](/post/in/) [action](/post/action/), [calculation](/post/calculation/), [opinion](/post/opinion/), [or](/post/or/) judgment. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [pilot](/post/pilot/) made an [error](/post/error/) [in](/post/in/) [navigation](/post/navigation/), causing [the](/post/the/) [plane](/post/plane/) [to](/post/to/) [be](/post/be/) [off](/post/off/) [course](/post/course/)."
+  - _Mathematics_: An [incorrect](/post/incorrect/) [result](/post/result/) obtained [from](/post/from/) applying [a](/post/a/) [procedure](/post/procedure/), [method](/post/method/), [or](/post/or/) [formula](/post/formula/). [Example](/post/example/): "[The](/post/the/) [difference](/post/difference/) [between](/post/between/) [the](/post/the/) [actual](/post/actual/) [answer](/post/answer/) [and](/post/and/) [the](/post/the/) computed [one](/post/one/) was [due](/post/due/) [to](/post/to/) an [arithmetic](/post/arithmetic/) [error](/post/error/)."
+  - _Computing_: An [exception](/post/exception/) [or](/post/or/) [fault](/post/fault/) [in](/post/in/) [a](/post/a/) [program](/post/program/) [that](/post/that/) causes [it](/post/it/) [to](/post/to/) [produce](/post/produce/) unintended results [or](/post/or/) [crash](/post/crash/). [Example](/post/example/): "[The](/post/the/) [system](/post/system/) returned an '[internal](/post/internal/) server [error](/post/error/)' [message](/post/message/)."
 
 **Phrases**
-- "[To](/en/post/to/) err is [human](/en/post/human/)": [This](/en/post/this/) [phrase](/en/post/phrase/) emphasizes [that](/en/post/that/) making mistakes is [a](/en/post/a/) [natural](/en/post/natural/) [part](/en/post/part/) [of](/en/post/of/) [being](/en/post/being/) [human](/en/post/human/).
-- "[Error](/en/post/error/) [of](/en/post/of/) judgment": [A](/en/post/a/) [wrong](/en/post/wrong/) [decision](/en/post/decision/) [or](/en/post/or/) assessment made [by](/en/post/by/) [someone](/en/post/someone/).
-- "[Correct](/en/post/correct/) an [error](/en/post/error/)": [To](/en/post/to/) rectify [or](/en/post/or/) amend [a](/en/post/a/) [mistake](/en/post/mistake/).
+- "[To](/post/to/) err is [human](/post/human/)": [This](/post/this/) [phrase](/post/phrase/) emphasizes [that](/post/that/) making mistakes is [a](/post/a/) [natural](/post/natural/) [part](/post/part/) [of](/post/of/) [being](/post/being/) [human](/post/human/).
+- "[Error](/post/error/) [of](/post/of/) judgment": [A](/post/a/) [wrong](/post/wrong/) [decision](/post/decision/) [or](/post/or/) assessment made [by](/post/by/) [someone](/post/someone/).
+- "[Correct](/post/correct/) an [error](/post/error/)": [To](/post/to/) rectify [or](/post/or/) amend [a](/post/a/) [mistake](/post/mistake/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) reviewing [her](/en/post/her/) [work](/en/post/work/), [she](/en/post/she/) [found](/en/post/found/) [several](/en/post/several/) errors [in](/en/post/in/) [her](/en/post/her/) calculations."
-- "[He](/en/post/he/) [learned](/en/post/learned/) [from](/en/post/from/) [his](/en/post/his/) errors [and](/en/post/and/) became [a](/en/post/a/) [better](/en/post/better/) programmer [because](/en/post/because/) [of](/en/post/of/) [them](/en/post/them/)."
-- "[It](/en/post/it/) was an [unfortunate](/en/post/unfortunate/) [error](/en/post/error/) [in](/en/post/in/) judgment [to](/en/post/to/) [trust](/en/post/trust/) [the](/en/post/the/) unreliable [source](/en/post/source/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) reviewing [her](/post/her/) [work](/post/work/), [she](/post/she/) [found](/post/found/) [several](/post/several/) errors [in](/post/in/) [her](/post/her/) calculations."
+- "[He](/post/he/) [learned](/post/learned/) [from](/post/from/) [his](/post/his/) errors [and](/post/and/) became [a](/post/a/) [better](/post/better/) programmer [because](/post/because/) [of](/post/of/) [them](/post/them/)."
+- "[It](/post/it/) was an [unfortunate](/post/unfortunate/) [error](/post/error/) [in](/post/in/) judgment [to](/post/to/) [trust](/post/trust/) [the](/post/the/) unreliable [source](/post/source/)."
 
 ## Synonyms
-- [Mistake](/en/post/mistake/)
+- [Mistake](/post/mistake/)
 - Misstep
 - Slip-up
-- [Fault](/en/post/fault/)
+- [Fault](/post/fault/)
 - Miscalculation
 - Oversight
 - Flaw
 - Blunder
 - Inaccuracy
-- Bug ([in](/en/post/in/) computing context)
+- Bug ([in](/post/in/) computing context)

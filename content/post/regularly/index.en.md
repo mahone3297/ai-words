@@ -7,35 +7,35 @@ description = '[ˈregjuləli] ad.有规律地'
 keywords = ['ai words', 'regularly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈrɛg(ə)rli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [regular](/en/post/regular/) [or](/en/post/or/) fixed [manner](/en/post/manner/); consistently. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) exercises [regularly](/en/post/regularly/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) occurring [at](/en/post/at/) [regular](/en/post/regular/) intervals; periodic. [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) meetings are held [regularly](/en/post/regularly/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [regular](/en/post/regular/) [practice](/en/post/practice/) [or](/en/post/or/) [schedule](/en/post/schedule/); [routine](/en/post/routine/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) has [a](/en/post/a/) [regular](/en/post/regular/) [coffee](/en/post/coffee/) [break](/en/post/break/) [every](/en/post/every/) [afternoon](/en/post/afternoon/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [regular](/post/regular/) [or](/post/or/) fixed [manner](/post/manner/); consistently. [For](/post/for/) [example](/post/example/): "[She](/post/she/) exercises [regularly](/post/regularly/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) occurring [at](/post/at/) [regular](/post/regular/) intervals; periodic. [For](/post/for/) [example](/post/example/): "[Their](/post/their/) meetings are held [regularly](/post/regularly/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [regular](/post/regular/) [practice](/post/practice/) [or](/post/or/) [schedule](/post/schedule/); [routine](/post/routine/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) has [a](/post/a/) [regular](/post/regular/) [coffee](/post/coffee/) [break](/post/break/) [every](/post/every/) [afternoon](/post/afternoon/)."
 
 ## Phrases
-- "[Regularly](/en/post/regularly/) scheduled" indicates [something](/en/post/something/) [that](/en/post/that/) happens [on](/en/post/on/) [a](/en/post/a/) [set](/en/post/set/) [schedule](/en/post/schedule/).
-- "[To](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [regularly](/en/post/regularly/)" [means](/en/post/means/) [to](/en/post/to/) [perform](/en/post/perform/) an [action](/en/post/action/) [frequently](/en/post/frequently/) [or](/en/post/or/) habitually.
-- "[Regular](/en/post/regular/) attendance" refers [to](/en/post/to/) [consistent](/en/post/consistent/) [presence](/en/post/presence/) [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [or](/en/post/or/) [event](/en/post/event/).
+- "[Regularly](/post/regularly/) scheduled" indicates [something](/post/something/) [that](/post/that/) happens [on](/post/on/) [a](/post/a/) [set](/post/set/) [schedule](/post/schedule/).
+- "[To](/post/to/) [do](/post/do/) [something](/post/something/) [regularly](/post/regularly/)" [means](/post/means/) [to](/post/to/) [perform](/post/perform/) an [action](/post/action/) [frequently](/post/frequently/) [or](/post/or/) habitually.
+- "[Regular](/post/regular/) attendance" refers [to](/post/to/) [consistent](/post/consistent/) [presence](/post/presence/) [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/) [or](/post/or/) [event](/post/event/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) arrives [at](/en/post/at/) [work](/en/post/work/) [regularly](/en/post/regularly/) [at](/en/post/at/) 9 am."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [train](/en/post/train/) runs [regularly](/en/post/regularly/) [between](/en/post/between/) cities."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) has [a](/en/post/a/) [regular](/en/post/regular/) yoga [practice](/en/post/practice/) [to](/en/post/to/) [maintain](/en/post/maintain/) [her](/en/post/her/) flexibility."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) arrives [at](/post/at/) [work](/post/work/) [regularly](/post/regularly/) [at](/post/at/) 9 am."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [train](/post/train/) runs [regularly](/post/regularly/) [between](/post/between/) cities."
+- **[Noun](/post/noun/)**: "[She](/post/she/) has [a](/post/a/) [regular](/post/regular/) yoga [practice](/post/practice/) [to](/post/to/) [maintain](/post/maintain/) [her](/post/her/) flexibility."
 
 ## Synonyms
-- [Frequently](/en/post/frequently/)
+- [Frequently](/post/frequently/)
 - Routinely
 - Consistently
 - Periodically
 - Habitually
-- [Steadily](/en/post/steadily/)
+- [Steadily](/post/steadily/)
 
 ## Antonyms
 - Irregularly
-- [Occasionally](/en/post/occasionally/)
+- [Occasionally](/post/occasionally/)
 - Sporadically
 - Unpredictably
 - Haphazardly

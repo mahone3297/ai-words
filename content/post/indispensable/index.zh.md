@@ -11,19 +11,19 @@ keywords = ['ai words', 'indispensable']
 /ɪnˈdɪsənəbl/
 
 ## 释义
-- **形容词**: 必不可少的，必需的。例如: "[Fresh](/post/fresh/) [water](/post/water/) is [indispensable](/post/indispensable/) [for](/post/for/) [life](/post/life/)."
-- **名词**: 不能缺少的人或事物。例如: "[She](/post/she/) is an [indispensable](/post/indispensable/) [member](/post/member/) [of](/post/of/) [our](/post/our/) [team](/post/team/)."
+- **形容词**: 必不可少的，必需的。例如: "[Fresh](/zh/post/fresh/) [water](/zh/post/water/) is [indispensable](/zh/post/indispensable/) [for](/zh/post/for/) [life](/zh/post/life/)."
+- **名词**: 不能缺少的人或事物。例如: "[She](/zh/post/she/) is an [indispensable](/zh/post/indispensable/) [member](/zh/post/member/) [of](/zh/post/of/) [our](/zh/post/our/) [team](/zh/post/team/)."
 
 ## 短语
-- "[indispensable](/post/indispensable/) [to](/post/to/) [something](/post/something/)" 表示对某事至关重要的。例如: "[Good](/post/good/) [communication](/post/communication/) skills are [indispensable](/post/indispensable/) [to](/post/to/) [success](/post/success/) [in](/post/in/) [business](/post/business/)."
+- "[indispensable](/zh/post/indispensable/) [to](/zh/post/to/) [something](/zh/post/something/)" 表示对某事至关重要的。例如: "[Good](/zh/post/good/) [communication](/zh/post/communication/) skills are [indispensable](/zh/post/indispensable/) [to](/zh/post/to/) [success](/zh/post/success/) [in](/zh/post/in/) [business](/zh/post/business/)."
 
 ## 例句
-- 形容词: "Having [a](/post/a/) [reliable](/post/reliable/) [car](/post/car/) is [indispensable](/post/indispensable/) [for](/post/for/) commuting [long](/post/long/) distances."
-- 名词: "[Her](/post/her/) [knowledge](/post/knowledge/) [of](/post/of/) [the](/post/the/) [subject](/post/subject/) makes [her](/post/her/) an [indispensable](/post/indispensable/) [resource](/post/resource/)."
+- 形容词: "Having [a](/zh/post/a/) [reliable](/zh/post/reliable/) [car](/zh/post/car/) is [indispensable](/zh/post/indispensable/) [for](/zh/post/for/) commuting [long](/zh/post/long/) distances."
+- 名词: "[Her](/zh/post/her/) [knowledge](/zh/post/knowledge/) [of](/zh/post/of/) [the](/zh/post/the/) [subject](/zh/post/subject/) makes [her](/zh/post/her/) an [indispensable](/zh/post/indispensable/) [resource](/zh/post/resource/)."
 
 ## 同义词
-- [Essential](/post/essential/)
-- [Necessary](/post/necessary/)
-- [Vital](/post/vital/)
+- [Essential](/zh/post/essential/)
+- [Necessary](/zh/post/necessary/)
+- [Vital](/zh/post/vital/)
 - Crucial
 - Invaluable

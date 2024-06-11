@@ -7,32 +7,32 @@ description = '[ˌprɔbəˈbiliti] n.可能性；概率'
 keywords = ['ai words', 'probability']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /proʊbəˈbɪləti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [the](/en/post/the/) likelihood [or](/en/post/or/) [chance](/en/post/chance/) [that](/en/post/that/) [something](/en/post/something/) [will](/en/post/will/) [happen](/en/post/happen/), [usually](/en/post/usually/) expressed [as](/en/post/as/) [a](/en/post/a/) [number](/en/post/number/) [between](/en/post/between/) 0 [and](/en/post/and/) 1, [with](/en/post/with/) 1 [being](/en/post/being/) [certain](/en/post/certain/) [and](/en/post/and/) 0 having [no](/en/post/no/) [chance](/en/post/chance/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [probability](/en/post/probability/) [of](/en/post/of/) [rain](/en/post/rain/) [tomorrow](/en/post/tomorrow/) is 40%."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [assign](/en/post/assign/) [or](/en/post/or/) [estimate](/en/post/estimate/) [the](/en/post/the/) likelihood [of](/en/post/of/) an [event](/en/post/event/) occurring. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [probability](/en/post/probability/) [the](/en/post/the/) [success](/en/post/success/) [of](/en/post/of/) [our](/en/post/our/) [new](/en/post/new/) [project](/en/post/project/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [measure](/post/measure/) [of](/post/of/) [the](/post/the/) likelihood [or](/post/or/) [chance](/post/chance/) [that](/post/that/) [something](/post/something/) [will](/post/will/) [happen](/post/happen/), [usually](/post/usually/) expressed [as](/post/as/) [a](/post/a/) [number](/post/number/) [between](/post/between/) 0 [and](/post/and/) 1, [with](/post/with/) 1 [being](/post/being/) [certain](/post/certain/) [and](/post/and/) 0 having [no](/post/no/) [chance](/post/chance/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [probability](/post/probability/) [of](/post/of/) [rain](/post/rain/) [tomorrow](/post/tomorrow/) is 40%."
+- **[Verb](/post/verb/)**: [To](/post/to/) [assign](/post/assign/) [or](/post/or/) [estimate](/post/estimate/) [the](/post/the/) likelihood [of](/post/of/) an [event](/post/event/) occurring. [For](/post/for/) [example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [probability](/post/probability/) [the](/post/the/) [success](/post/success/) [of](/post/of/) [our](/post/our/) [new](/post/new/) [project](/post/project/)."
 
 ## Phrases
-- "[Probability](/en/post/probability/) [distribution](/en/post/distribution/)" refers [to](/en/post/to/) [the](/en/post/the/) [statistical](/en/post/statistical/) [function](/en/post/function/) describing [the](/en/post/the/) likelihood [of](/en/post/of/) [different](/en/post/different/) outcomes.
-- "Conditional [probability](/en/post/probability/)" is [the](/en/post/the/) likelihood [of](/en/post/of/) [one](/en/post/one/) [event](/en/post/event/) occurring given [that](/en/post/that/) [another](/en/post/another/) [event](/en/post/event/) has [already](/en/post/already/) occurred.
-- "[High](/en/post/high/) [probability](/en/post/probability/)" [means](/en/post/means/) [a](/en/post/a/) [strong](/en/post/strong/) likelihood, [while](/en/post/while/) "[low](/en/post/low/) [probability](/en/post/probability/)" indicates [a](/en/post/a/) [weak](/en/post/weak/) likelihood.
+- "[Probability](/post/probability/) [distribution](/post/distribution/)" refers [to](/post/to/) [the](/post/the/) [statistical](/post/statistical/) [function](/post/function/) describing [the](/post/the/) likelihood [of](/post/of/) [different](/post/different/) outcomes.
+- "Conditional [probability](/post/probability/)" is [the](/post/the/) likelihood [of](/post/of/) [one](/post/one/) [event](/post/event/) occurring given [that](/post/that/) [another](/post/another/) [event](/post/event/) has [already](/post/already/) occurred.
+- "[High](/post/high/) [probability](/post/probability/)" [means](/post/means/) [a](/post/a/) [strong](/post/strong/) likelihood, [while](/post/while/) "[low](/post/low/) [probability](/post/probability/)" indicates [a](/post/a/) [weak](/post/weak/) likelihood.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [probability](/en/post/probability/) [of](/en/post/of/) winning [the](/en/post/the/) lottery is [very](/en/post/very/) [low](/en/post/low/), [but](/en/post/but/) [some](/en/post/some/) [people](/en/post/people/) [still](/en/post/still/) [buy](/en/post/buy/) tickets."
-- **[Verb](/en/post/verb/)**: "Scientists calculated [the](/en/post/the/) [probability](/en/post/probability/) [of](/en/post/of/) [the](/en/post/the/) species surviving [under](/en/post/under/) changing environmental conditions."
-- **Phrasal**: "[They](/en/post/they/) adjusted [their](/en/post/their/) [strategy](/en/post/strategy/) based [on](/en/post/on/) [the](/en/post/the/) conditional [probability](/en/post/probability/) [of](/en/post/of/) [the](/en/post/the/) opponent's [move](/en/post/move/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [probability](/post/probability/) [of](/post/of/) winning [the](/post/the/) lottery is [very](/post/very/) [low](/post/low/), [but](/post/but/) [some](/post/some/) [people](/post/people/) [still](/post/still/) [buy](/post/buy/) tickets."
+- **[Verb](/post/verb/)**: "Scientists calculated [the](/post/the/) [probability](/post/probability/) [of](/post/of/) [the](/post/the/) species surviving [under](/post/under/) changing environmental conditions."
+- **Phrasal**: "[They](/post/they/) adjusted [their](/post/their/) [strategy](/post/strategy/) based [on](/post/on/) [the](/post/the/) conditional [probability](/post/probability/) [of](/post/of/) [the](/post/the/) opponent's [move](/post/move/)."
 
 ## Synonyms
 - Likelihood
 - Odds
-- [Chance](/en/post/chance/)
-- Probabilty [ratio](/en/post/ratio/)
-- [Probability](/en/post/probability/) [density](/en/post/density/)
+- [Chance](/post/chance/)
+- Probabilty [ratio](/post/ratio/)
+- [Probability](/post/probability/) [density](/post/density/)
 
 ## Antonyms
-- [Certainty](/en/post/certainty/)
+- [Certainty](/post/certainty/)
 - Improbability
 - Inevitability
-- [Necessity](/en/post/necessity/)
+- [Necessity](/post/necessity/)

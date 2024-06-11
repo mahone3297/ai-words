@@ -7,34 +7,34 @@ description = '[mʌg] n.大杯'
 keywords = ['ai words', 'mug']
 +++
 
-## [Word](/en/post/word/): [Mug](/en/post/mug/)
+## [Word](/post/word/): [Mug](/post/mug/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /mʌɡ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - [A](/en/post/a/) [large](/en/post/large/), typically cylindrical [container](/en/post/container/) [with](/en/post/with/) [a](/en/post/a/) [handle](/en/post/handle/) [and](/en/post/and/) [often](/en/post/often/) [a](/en/post/a/) [lid](/en/post/lid/), [used](/en/post/used/) [for](/en/post/for/) holding [hot](/en/post/hot/) drinks [such](/en/post/such/) [as](/en/post/as/) [tea](/en/post/tea/) [or](/en/post/or/) [coffee](/en/post/coffee/). [Example](/en/post/example/): "[She](/en/post/she/) took [a](/en/post/a/) sip [from](/en/post/from/) [her](/en/post/her/) favorite [mug](/en/post/mug/)."
-  - [A](/en/post/a/) drinking [cup](/en/post/cup/) [or](/en/post/or/) beaker, [especially](/en/post/especially/) [one](/en/post/one/) made [of](/en/post/of/) pottery [or](/en/post/or/) [china](/en/post/china/). [Example](/en/post/example/): "[The](/en/post/the/) children drank [their](/en/post/their/) [milk](/en/post/milk/) [from](/en/post/from/) mugs [at](/en/post/at/) [breakfast](/en/post/breakfast/)."
-  - Informal slang: [A](/en/post/a/) person's [face](/en/post/face/), [often](/en/post/often/) referring [to](/en/post/to/) [its](/en/post/its/) [expression](/en/post/expression/) [or](/en/post/or/) [appearance](/en/post/appearance/). [Example](/en/post/example/): "[He](/en/post/he/) scowled [at](/en/post/at/) [me](/en/post/me/) [with](/en/post/with/) [a](/en/post/a/) [sour](/en/post/sour/) [mug](/en/post/mug/)."
-  - Slang (chiefly British): [A](/en/post/a/) [stupid](/en/post/stupid/) [person](/en/post/person/). [Example](/en/post/example/): "Don't [be](/en/post/be/) [such](/en/post/such/) [a](/en/post/a/) [mug](/en/post/mug/); he's [just](/en/post/just/) trying [to](/en/post/to/) [trick](/en/post/trick/) [you](/en/post/you/)."
-  - [A](/en/post/a/) [photograph](/en/post/photograph/), [usually](/en/post/usually/) taken [for](/en/post/for/) [police](/en/post/police/) records [or](/en/post/or/) identification purposes. [Example](/en/post/example/): "[The](/en/post/the/) suspect's [mug](/en/post/mug/) [shot](/en/post/shot/) was released [to](/en/post/to/) [the](/en/post/the/) media."
+- **[Noun](/post/noun/)**: 
+  - [A](/post/a/) [large](/post/large/), typically cylindrical [container](/post/container/) [with](/post/with/) [a](/post/a/) [handle](/post/handle/) [and](/post/and/) [often](/post/often/) [a](/post/a/) [lid](/post/lid/), [used](/post/used/) [for](/post/for/) holding [hot](/post/hot/) drinks [such](/post/such/) [as](/post/as/) [tea](/post/tea/) [or](/post/or/) [coffee](/post/coffee/). [Example](/post/example/): "[She](/post/she/) took [a](/post/a/) sip [from](/post/from/) [her](/post/her/) favorite [mug](/post/mug/)."
+  - [A](/post/a/) drinking [cup](/post/cup/) [or](/post/or/) beaker, [especially](/post/especially/) [one](/post/one/) made [of](/post/of/) pottery [or](/post/or/) [china](/post/china/). [Example](/post/example/): "[The](/post/the/) children drank [their](/post/their/) [milk](/post/milk/) [from](/post/from/) mugs [at](/post/at/) [breakfast](/post/breakfast/)."
+  - Informal slang: [A](/post/a/) person's [face](/post/face/), [often](/post/often/) referring [to](/post/to/) [its](/post/its/) [expression](/post/expression/) [or](/post/or/) [appearance](/post/appearance/). [Example](/post/example/): "[He](/post/he/) scowled [at](/post/at/) [me](/post/me/) [with](/post/with/) [a](/post/a/) [sour](/post/sour/) [mug](/post/mug/)."
+  - Slang (chiefly British): [A](/post/a/) [stupid](/post/stupid/) [person](/post/person/). [Example](/post/example/): "Don't [be](/post/be/) [such](/post/such/) [a](/post/a/) [mug](/post/mug/); he's [just](/post/just/) trying [to](/post/to/) [trick](/post/trick/) [you](/post/you/)."
+  - [A](/post/a/) [photograph](/post/photograph/), [usually](/post/usually/) taken [for](/post/for/) [police](/post/police/) records [or](/post/or/) identification purposes. [Example](/post/example/): "[The](/post/the/) suspect's [mug](/post/mug/) [shot](/post/shot/) was released [to](/post/to/) [the](/post/the/) media."
 
-- **[Verb](/en/post/verb/)**:
-  - [To](/en/post/to/) [attack](/en/post/attack/) [and](/en/post/and/) [rob](/en/post/rob/) ([someone](/en/post/someone/)), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [public](/en/post/public/) [place](/en/post/place/), [often](/en/post/often/) using [violence](/en/post/violence/). [Example](/en/post/example/): "[He](/en/post/he/) was mugged [on](/en/post/on/) [his](/en/post/his/) [way](/en/post/way/) [home](/en/post/home/) [from](/en/post/from/) [work](/en/post/work/)."
-  - [To](/en/post/to/) [make](/en/post/make/) an exaggerated facial [expression](/en/post/expression/) [for](/en/post/for/) [a](/en/post/a/) [photograph](/en/post/photograph/) [or](/en/post/or/) [camera](/en/post/camera/), [often](/en/post/often/) mockingly. [Example](/en/post/example/): "[The](/en/post/the/) kids mugged [for](/en/post/for/) [the](/en/post/the/) [camera](/en/post/camera/) [during](/en/post/during/) [the](/en/post/the/) [family](/en/post/family/) photo [session](/en/post/session/)."
+- **[Verb](/post/verb/)**:
+  - [To](/post/to/) [attack](/post/attack/) [and](/post/and/) [rob](/post/rob/) ([someone](/post/someone/)), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [public](/post/public/) [place](/post/place/), [often](/post/often/) using [violence](/post/violence/). [Example](/post/example/): "[He](/post/he/) was mugged [on](/post/on/) [his](/post/his/) [way](/post/way/) [home](/post/home/) [from](/post/from/) [work](/post/work/)."
+  - [To](/post/to/) [make](/post/make/) an exaggerated facial [expression](/post/expression/) [for](/post/for/) [a](/post/a/) [photograph](/post/photograph/) [or](/post/or/) [camera](/post/camera/), [often](/post/often/) mockingly. [Example](/post/example/): "[The](/post/the/) kids mugged [for](/post/for/) [the](/post/the/) [camera](/post/camera/) [during](/post/during/) [the](/post/the/) [family](/post/family/) photo [session](/post/session/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [mug](/en/post/mug/) [shot](/en/post/shot/)": [To](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [photograph](/en/post/photograph/) [for](/en/post/for/) [police](/en/post/police/) records.
-- "[Mug](/en/post/mug/) [someone](/en/post/someone/) [off](/en/post/off/)": (informal) [To](/en/post/to/) [deceive](/en/post/deceive/) [or](/en/post/or/) humiliate [someone](/en/post/someone/), [especially](/en/post/especially/) [by](/en/post/by/) taking [advantage](/en/post/advantage/) [of](/en/post/of/) [them](/en/post/them/).
+- "[Take](/post/take/) [a](/post/a/) [mug](/post/mug/) [shot](/post/shot/)": [To](/post/to/) [take](/post/take/) [a](/post/a/) [photograph](/post/photograph/) [for](/post/for/) [police](/post/police/) records.
+- "[Mug](/post/mug/) [someone](/post/someone/) [off](/post/off/)": (informal) [To](/post/to/) [deceive](/post/deceive/) [or](/post/or/) humiliate [someone](/post/someone/), [especially](/post/especially/) [by](/post/by/) taking [advantage](/post/advantage/) [of](/post/of/) [them](/post/them/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I bought [a](/en/post/a/) [new](/en/post/new/) [mug](/en/post/mug/) [with](/en/post/with/) [a](/en/post/a/) motivational [quote](/en/post/quote/) [on](/en/post/on/) [it](/en/post/it/) [for](/en/post/for/) [my](/en/post/my/) [morning](/en/post/morning/) [coffee](/en/post/coffee/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) felt violated [after](/en/post/after/) [being](/en/post/being/) mugged [in](/en/post/in/) [broad](/en/post/broad/) [daylight](/en/post/daylight/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I bought [a](/post/a/) [new](/post/new/) [mug](/post/mug/) [with](/post/with/) [a](/post/a/) motivational [quote](/post/quote/) [on](/post/on/) [it](/post/it/) [for](/post/for/) [my](/post/my/) [morning](/post/morning/) [coffee](/post/coffee/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) felt violated [after](/post/after/) [being](/post/being/) mugged [in](/post/in/) [broad](/post/broad/) [daylight](/post/daylight/)."
 
 ## Synonyms
-- [Cup](/en/post/cup/) ([for](/en/post/for/) [the](/en/post/the/) drinkware [meaning](/en/post/meaning/))
-- [Face](/en/post/face/) ([in](/en/post/in/) [the](/en/post/the/) informal slang [sense](/en/post/sense/))
-- [Victim](/en/post/victim/) ([when](/en/post/when/) referring [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) has been mugged)
+- [Cup](/post/cup/) ([for](/post/for/) [the](/post/the/) drinkware [meaning](/post/meaning/))
+- [Face](/post/face/) ([in](/post/in/) [the](/post/the/) informal slang [sense](/post/sense/))
+- [Victim](/post/victim/) ([when](/post/when/) referring [to](/post/to/) [someone](/post/someone/) [who](/post/who/) has been mugged)
 
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) synonyms [may](/en/post/may/) [vary](/en/post/vary/) depending [on](/en/post/on/) [the](/en/post/the/) [specific](/en/post/specific/) context [in](/en/post/in/) [which](/en/post/which/) [the](/en/post/the/) [word](/en/post/word/) "[mug](/en/post/mug/)" is [used](/en/post/used/).
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) synonyms [may](/post/may/) [vary](/post/vary/) depending [on](/post/on/) [the](/post/the/) [specific](/post/specific/) context [in](/post/in/) [which](/post/which/) [the](/post/the/) [word](/post/word/) "[mug](/post/mug/)" is [used](/post/used/).

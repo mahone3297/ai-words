@@ -12,23 +12,23 @@ keywords = ['ai words', 'architecture']
 
 ## 释义
 - **名词**: 建筑学；建筑设计；架构；构造
-  - 例： "[He](/post/he/) studied [architecture](/post/architecture/) [at](/post/at/) [university](/post/university/)."
-  - 例： "[The](/post/the/) [ancient](/post/ancient/) [architecture](/post/architecture/) [of](/post/of/) [the](/post/the/) [city](/post/city/) is breathtaking."
+  - 例： "[He](/zh/post/he/) studied [architecture](/zh/post/architecture/) [at](/zh/post/at/) [university](/zh/post/university/)."
+  - 例： "[The](/zh/post/the/) [ancient](/zh/post/ancient/) [architecture](/zh/post/architecture/) [of](/zh/post/of/) [the](/zh/post/the/) [city](/zh/post/city/) is breathtaking."
 
 - **名词**: 建筑师；设计师
-  - 例： "[The](/post/the/) [famous](/post/famous/) architect [Frank](/post/frank/) Lloyd Wright designed [many](/post/many/) iconic buildings."
+  - 例： "[The](/zh/post/the/) [famous](/zh/post/famous/) architect [Frank](/zh/post/frank/) Lloyd Wright designed [many](/zh/post/many/) iconic buildings."
 
 ## 短语
-- "Architectural [design](/post/design/)" 指的是建筑设计。
-- "[Building](/post/building/) [architecture](/post/architecture/)" 通常指的是建筑物的结构和风格。
+- "Architectural [design](/zh/post/design/)" 指的是建筑设计。
+- "[Building](/zh/post/building/) [architecture](/zh/post/architecture/)" 通常指的是建筑物的结构和风格。
 
 ## 例句
-- "[Her](/post/her/) [passion](/post/passion/) [for](/post/for/) [architecture](/post/architecture/) led [her](/post/her/) [to](/post/to/) [travel](/post/travel/) [around](/post/around/) [the](/post/the/) [world](/post/world/) [to](/post/to/) [study](/post/study/) [different](/post/different/) styles."
-- "[The](/post/the/) modernist architect rejected [traditional](/post/traditional/) elements [in](/post/in/) favor [of](/post/of/) [clean](/post/clean/) lines [and](/post/and/) functional spaces."
+- "[Her](/zh/post/her/) [passion](/zh/post/passion/) [for](/zh/post/for/) [architecture](/zh/post/architecture/) led [her](/zh/post/her/) [to](/zh/post/to/) [travel](/zh/post/travel/) [around](/zh/post/around/) [the](/zh/post/the/) [world](/zh/post/world/) [to](/zh/post/to/) [study](/zh/post/study/) [different](/zh/post/different/) styles."
+- "[The](/zh/post/the/) modernist architect rejected [traditional](/zh/post/traditional/) elements [in](/zh/post/in/) favor [of](/zh/post/of/) [clean](/zh/post/clean/) lines [and](/zh/post/and/) functional spaces."
 
 ## 同义词
-- [Design](/post/design/)
-- [Structure](/post/structure/)
-- [Composition](/post/composition/)
+- [Design](/zh/post/design/)
+- [Structure](/zh/post/structure/)
+- [Composition](/zh/post/composition/)
 - Blueprint
-- [Plan](/post/plan/)
+- [Plan](/zh/post/plan/)

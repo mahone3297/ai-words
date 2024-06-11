@@ -12,16 +12,16 @@ keywords = ['ai words', 'rusty']
 
 ## 释义
 - **形容词**: 
-    - (铁锈的)生锈的；覆盖着铁锈的。例如: "[The](/post/the/) [old](/post/old/) [bike](/post/bike/) was [rusty](/post/rusty/) [from](/post/from/) years [of](/post/of/) [neglect](/post/neglect/)."
-    - (技能、知识等)生疏的，不熟练的。例如: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [break](/post/break/), [his](/post/his/) [tennis](/post/tennis/) skills were [a](/post/a/) [bit](/post/bit/) [rusty](/post/rusty/)."
+    - (铁锈的)生锈的；覆盖着铁锈的。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [bike](/zh/post/bike/) was [rusty](/zh/post/rusty/) [from](/zh/post/from/) years [of](/zh/post/of/) [neglect](/zh/post/neglect/)."
+    - (技能、知识等)生疏的，不熟练的。例如: "[After](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [break](/zh/post/break/), [his](/zh/post/his/) [tennis](/zh/post/tennis/) skills were [a](/zh/post/a/) [bit](/zh/post/bit/) [rusty](/zh/post/rusty/)."
 
 ## 短语
-- "[get](/post/get/) [rusty](/post/rusty/)" 意味着变得生疏或不熟练。
-- "[rusty](/post/rusty/) [on](/post/on/) [something](/post/something/)" 表示对某个主题或技能不熟悉。
+- "[get](/zh/post/get/) [rusty](/zh/post/rusty/)" 意味着变得生疏或不熟练。
+- "[rusty](/zh/post/rusty/) [on](/zh/post/on/) [something](/zh/post/something/)" 表示对某个主题或技能不熟悉。
 
 ## 例句
-- 形容词: "[The](/post/the/) [lock](/post/lock/) was [so](/post/so/) [rusty](/post/rusty/) [that](/post/that/) [it](/post/it/) took [me](/post/me/) ages [to](/post/to/) [open](/post/open/) [it](/post/it/)."
-- "[After](/post/after/) [not](/post/not/) driving [for](/post/for/) months, I felt [a](/post/a/) [bit](/post/bit/) [rusty](/post/rusty/) [behind](/post/behind/) [the](/post/the/) [wheel](/post/wheel/)."
+- 形容词: "[The](/zh/post/the/) [lock](/zh/post/lock/) was [so](/zh/post/so/) [rusty](/zh/post/rusty/) [that](/zh/post/that/) [it](/zh/post/it/) took [me](/zh/post/me/) ages [to](/zh/post/to/) [open](/zh/post/open/) [it](/zh/post/it/)."
+- "[After](/zh/post/after/) [not](/zh/post/not/) driving [for](/zh/post/for/) months, I felt [a](/zh/post/a/) [bit](/zh/post/bit/) [rusty](/zh/post/rusty/) [behind](/zh/post/behind/) [the](/zh/post/the/) [wheel](/zh/post/wheel/)."
 
 ## 同义词
 - Dilapidated (破旧的)

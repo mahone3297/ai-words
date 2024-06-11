@@ -7,42 +7,42 @@ description = '[spiːk] vi.说话；发言 vt.说'
 keywords = ['ai words', 'speak']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /speɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) [express](/en/post/express/) [oneself](/en/post/oneself/) verbally, typically using words [or](/en/post/or/) sounds. **[Example](/en/post/example/)**: "[Public](/en/post/public/) speaking is [a](/en/post/a/) [valuable](/en/post/valuable/) [skill](/en/post/skill/) [to](/en/post/to/) [have](/en/post/have/)."
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [or](/post/or/) [ability](/post/ability/) [to](/post/to/) [express](/post/express/) [oneself](/post/oneself/) verbally, typically using words [or](/post/or/) sounds. **[Example](/post/example/)**: "[Public](/post/public/) speaking is [a](/post/a/) [valuable](/post/valuable/) [skill](/post/skill/) [to](/post/to/) [have](/post/have/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) articulate words [or](/en/post/or/) sounds [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [convey](/en/post/convey/) thoughts [or](/en/post/or/) [information](/en/post/information/). **[Example](/en/post/example/)**: "[She](/en/post/she/) [will](/en/post/will/) [speak](/en/post/speak/) [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/) [tomorrow](/en/post/tomorrow/)."
-2. [To](/en/post/to/) [express](/en/post/express/) one's [opinion](/en/post/opinion/) [or](/en/post/or/) feelings [on](/en/post/on/) [a](/en/post/a/) [topic](/en/post/topic/). **[Example](/en/post/example/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) students [to](/en/post/to/) [speak](/en/post/speak/) [up](/en/post/up/) [if](/en/post/if/) [they](/en/post/they/) had [any](/en/post/any/) questions."
-3. [To](/en/post/to/) [act](/en/post/act/) [or](/en/post/or/) [perform](/en/post/perform/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [role](/en/post/role/) [or](/en/post/or/) [capacity](/en/post/capacity/). **[Example](/en/post/example/)**: "[He](/en/post/he/) spoke [as](/en/post/as/) [the](/en/post/the/) [representative](/en/post/representative/) [of](/en/post/of/) [his](/en/post/his/) [company](/en/post/company/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) articulate words [or](/post/or/) sounds [in](/post/in/) [order](/post/order/) [to](/post/to/) [convey](/post/convey/) thoughts [or](/post/or/) [information](/post/information/). **[Example](/post/example/)**: "[She](/post/she/) [will](/post/will/) [speak](/post/speak/) [at](/post/at/) [the](/post/the/) [conference](/post/conference/) [tomorrow](/post/tomorrow/)."
+2. [To](/post/to/) [express](/post/express/) one's [opinion](/post/opinion/) [or](/post/or/) feelings [on](/post/on/) [a](/post/a/) [topic](/post/topic/). **[Example](/post/example/)**: "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [speak](/post/speak/) [up](/post/up/) [if](/post/if/) [they](/post/they/) had [any](/post/any/) questions."
+3. [To](/post/to/) [act](/post/act/) [or](/post/or/) [perform](/post/perform/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [role](/post/role/) [or](/post/or/) [capacity](/post/capacity/). **[Example](/post/example/)**: "[He](/post/he/) spoke [as](/post/as/) [the](/post/the/) [representative](/post/representative/) [of](/post/of/) [his](/post/his/) [company](/post/company/)."
 
-### [Adjective](/en/post/adjective/)
-Referring [to](/en/post/to/) [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) spoken [or](/en/post/or/) uttered. **[Example](/en/post/example/)**: "[The](/en/post/the/) [language](/en/post/language/) is spoken [by](/en/post/by/) millions [of](/en/post/of/) [people](/en/post/people/) worldwide."
+### [Adjective](/post/adjective/)
+Referring [to](/post/to/) [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) spoken [or](/post/or/) uttered. **[Example](/post/example/)**: "[The](/post/the/) [language](/post/language/) is spoken [by](/post/by/) millions [of](/post/of/) [people](/post/people/) worldwide."
 
-### [Adverb](/en/post/adverb/)
-[In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [communication](/en/post/communication/), [it](/en/post/it/) [can](/en/post/can/) [describe](/en/post/describe/) [how](/en/post/how/) [someone](/en/post/someone/) speaks, e.g., [softly](/en/post/softly/), fluently, [or](/en/post/or/) hesitantly. **[Example](/en/post/example/)**: "[She](/en/post/she/) speaks English fluently [after](/en/post/after/) [living](/en/post/living/) [abroad](/en/post/abroad/) [for](/en/post/for/) years."
+### [Adverb](/post/adverb/)
+[In](/post/in/) [the](/post/the/) context [of](/post/of/) [communication](/post/communication/), [it](/post/it/) [can](/post/can/) [describe](/post/describe/) [how](/post/how/) [someone](/post/someone/) speaks, e.g., [softly](/post/softly/), fluently, [or](/post/or/) hesitantly. **[Example](/post/example/)**: "[She](/post/she/) speaks English fluently [after](/post/after/) [living](/post/living/) [abroad](/post/abroad/) [for](/post/for/) years."
 
 ## Phrases
-- "[Speak](/en/post/speak/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) [raise](/en/post/raise/) one's [voice](/en/post/voice/) [or](/en/post/or/) [express](/en/post/express/) [oneself](/en/post/oneself/) [clearly](/en/post/clearly/).
-- "[Speak](/en/post/speak/) [out](/en/post/out/)" encourages [someone](/en/post/someone/) [to](/en/post/to/) [express](/en/post/express/) [their](/en/post/their/) views openly.
-- "[Speak](/en/post/speak/) [with](/en/post/with/) [confidence](/en/post/confidence/)" suggests having [a](/en/post/a/) [strong](/en/post/strong/), assured [manner](/en/post/manner/) [when](/en/post/when/) speaking.
+- "[Speak](/post/speak/) [up](/post/up/)" [means](/post/means/) [to](/post/to/) [raise](/post/raise/) one's [voice](/post/voice/) [or](/post/or/) [express](/post/express/) [oneself](/post/oneself/) [clearly](/post/clearly/).
+- "[Speak](/post/speak/) [out](/post/out/)" encourages [someone](/post/someone/) [to](/post/to/) [express](/post/express/) [their](/post/their/) views openly.
+- "[Speak](/post/speak/) [with](/post/with/) [confidence](/post/confidence/)" suggests having [a](/post/a/) [strong](/post/strong/), assured [manner](/post/manner/) [when](/post/when/) speaking.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [lecture](/en/post/lecture/) was [about](/en/post/about/) [the](/en/post/the/) [art](/en/post/art/) [of](/en/post/of/) [public](/en/post/public/) speaking."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) spoke [her](/en/post/her/) [mind](/en/post/mind/) [without](/en/post/without/) [fear](/en/post/fear/) [of](/en/post/of/) consequences."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [language](/en/post/language/) is [no](/en/post/no/) longer [commonly](/en/post/commonly/) spoken."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) speaks [softly](/en/post/softly/), [which](/en/post/which/) helps [him](/en/post/him/) [connect](/en/post/connect/) [with](/en/post/with/) [his](/en/post/his/) [audience](/en/post/audience/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [lecture](/post/lecture/) was [about](/post/about/) [the](/post/the/) [art](/post/art/) [of](/post/of/) [public](/post/public/) speaking."
+- **[Verb](/post/verb/)**: "[She](/post/she/) spoke [her](/post/her/) [mind](/post/mind/) [without](/post/without/) [fear](/post/fear/) [of](/post/of/) consequences."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [ancient](/post/ancient/) [language](/post/language/) is [no](/post/no/) longer [commonly](/post/commonly/) spoken."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) speaks [softly](/post/softly/), [which](/post/which/) helps [him](/post/him/) [connect](/post/connect/) [with](/post/with/) [his](/post/his/) [audience](/post/audience/)."
 
 ## Synonyms
-- [Talk](/en/post/talk/)
-- [Express](/en/post/express/)
-- [Utter](/en/post/utter/)
+- [Talk](/post/talk/)
+- [Express](/post/express/)
+- [Utter](/post/utter/)
 - Enunciate
 - Vocalize
-- [Communicate](/en/post/communicate/)
-- [Declare](/en/post/declare/)
+- [Communicate](/post/communicate/)
+- [Declare](/post/declare/)
 - Assert
-- [State](/en/post/state/)
+- [State](/post/state/)

@@ -7,41 +7,41 @@ description = '[ˈseikrid] a.上帝的；神圣的'
 keywords = ['ai words', 'sacred']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈkreɪd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Sacred](/en/post/sacred/)** (adj): [Holy](/en/post/holy/) [or](/en/post/or/) [set](/en/post/set/) [apart](/en/post/apart/) [for](/en/post/for/) [special](/en/post/special/) [religious](/en/post/religious/) [or](/en/post/or/) [spiritual](/en/post/spiritual/) [significance](/en/post/significance/); devoted [to](/en/post/to/) [a](/en/post/a/) deity [or](/en/post/or/) treated [with](/en/post/with/) [great](/en/post/great/) reverence.
-   - [Example](/en/post/example/): [The](/en/post/the/) [temple](/en/post/temple/) was filled [with](/en/post/with/) [sacred](/en/post/sacred/) relics [from](/en/post/from/) [ancient](/en/post/ancient/) times.
-   - [Phrase](/en/post/phrase/): [A](/en/post/a/) [sacred](/en/post/sacred/) [place](/en/post/place/)
+### [Noun](/post/noun/)
+1. **[Sacred](/post/sacred/)** (adj): [Holy](/post/holy/) [or](/post/or/) [set](/post/set/) [apart](/post/apart/) [for](/post/for/) [special](/post/special/) [religious](/post/religious/) [or](/post/or/) [spiritual](/post/spiritual/) [significance](/post/significance/); devoted [to](/post/to/) [a](/post/a/) deity [or](/post/or/) treated [with](/post/with/) [great](/post/great/) reverence.
+   - [Example](/post/example/): [The](/post/the/) [temple](/post/temple/) was filled [with](/post/with/) [sacred](/post/sacred/) relics [from](/post/from/) [ancient](/post/ancient/) times.
+   - [Phrase](/post/phrase/): [A](/post/a/) [sacred](/post/sacred/) [place](/post/place/)
 
-2. **Sacredness** (n): [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [sacred](/en/post/sacred/); [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [holy](/en/post/holy/) [or](/en/post/or/) revered.
-   - [Example](/en/post/example/): [The](/en/post/the/) sacredness [of](/en/post/of/) [nature](/en/post/nature/) is [often](/en/post/often/) emphasized [in](/en/post/in/) [spiritual](/en/post/spiritual/) beliefs.
+2. **Sacredness** (n): [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [sacred](/post/sacred/); [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [holy](/post/holy/) [or](/post/or/) revered.
+   - [Example](/post/example/): [The](/post/the/) sacredness [of](/post/of/) [nature](/post/nature/) is [often](/post/often/) emphasized [in](/post/in/) [spiritual](/post/spiritual/) beliefs.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) **sacralize** (v): [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [sacred](/en/post/sacred/) [or](/en/post/or/) [give](/en/post/give/) [it](/en/post/it/) [religious](/en/post/religious/) [or](/en/post/or/) [spiritual](/en/post/spiritual/) [importance](/en/post/importance/).
-   - [Example](/en/post/example/): [The](/en/post/the/) [community](/en/post/community/) decided [to](/en/post/to/) sacralize [the](/en/post/the/) [annual](/en/post/annual/) [festival](/en/post/festival/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) **sacralize** (v): [To](/post/to/) [make](/post/make/) [something](/post/something/) [sacred](/post/sacred/) [or](/post/or/) [give](/post/give/) [it](/post/it/) [religious](/post/religious/) [or](/post/or/) [spiritual](/post/spiritual/) [importance](/post/importance/).
+   - [Example](/post/example/): [The](/post/the/) [community](/post/community/) decided [to](/post/to/) sacralize [the](/post/the/) [annual](/post/annual/) [festival](/post/festival/).
 
-### [Adjective](/en/post/adjective/)
-1. **Sacredly** (adv): [In](/en/post/in/) [a](/en/post/a/) [sacred](/en/post/sacred/) [manner](/en/post/manner/); [with](/en/post/with/) [deep](/en/post/deep/) [respect](/en/post/respect/) [or](/en/post/or/) reverence.
-   - [Example](/en/post/example/): [She](/en/post/she/) performed [the](/en/post/the/) ritual sacredly, [following](/en/post/following/) [the](/en/post/the/) [ancient](/en/post/ancient/) traditions.
+### [Adjective](/post/adjective/)
+1. **Sacredly** (adv): [In](/post/in/) [a](/post/a/) [sacred](/post/sacred/) [manner](/post/manner/); [with](/post/with/) [deep](/post/deep/) [respect](/post/respect/) [or](/post/or/) reverence.
+   - [Example](/post/example/): [She](/post/she/) performed [the](/post/the/) ritual sacredly, [following](/post/following/) [the](/post/the/) [ancient](/post/ancient/) traditions.
 
 ## Phrases
-- "[Keep](/en/post/keep/) [it](/en/post/it/) [sacred](/en/post/sacred/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) [something](/en/post/something/) [as](/en/post/as/) [private](/en/post/private/) [or](/en/post/or/) confidential.
-- "[Break](/en/post/break/) [a](/en/post/a/) [sacred](/en/post/sacred/) [trust](/en/post/trust/)" refers [to](/en/post/to/) violating [a](/en/post/a/) deeply held [belief](/en/post/belief/) [or](/en/post/or/) [confidence](/en/post/confidence/).
-- "[A](/en/post/a/) [sacred](/en/post/sacred/) [bond](/en/post/bond/)" symbolizes [a](/en/post/a/) [strong](/en/post/strong/) [emotional](/en/post/emotional/) [connection](/en/post/connection/) [between](/en/post/between/) [people](/en/post/people/).
+- "[Keep](/post/keep/) [it](/post/it/) [sacred](/post/sacred/)" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) [something](/post/something/) [as](/post/as/) [private](/post/private/) [or](/post/or/) confidential.
+- "[Break](/post/break/) [a](/post/a/) [sacred](/post/sacred/) [trust](/post/trust/)" refers [to](/post/to/) violating [a](/post/a/) deeply held [belief](/post/belief/) [or](/post/or/) [confidence](/post/confidence/).
+- "[A](/post/a/) [sacred](/post/sacred/) [bond](/post/bond/)" symbolizes [a](/post/a/) [strong](/post/strong/) [emotional](/post/emotional/) [connection](/post/connection/) [between](/post/between/) [people](/post/people/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [sacred](/en/post/sacred/) texts [hold](/en/post/hold/) [great](/en/post/great/) [wisdom](/en/post/wisdom/) [for](/en/post/for/) [many](/en/post/many/) believers.
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) consecrated [the](/en/post/the/) [new](/en/post/new/) [church](/en/post/church/) [with](/en/post/with/) [a](/en/post/a/) [solemn](/en/post/solemn/) [ceremony](/en/post/ceremony/).
-- **[Adjective](/en/post/adjective/)**: [She](/en/post/she/) spoke [of](/en/post/of/) [her](/en/post/her/) [journey](/en/post/journey/) [to](/en/post/to/) [the](/en/post/the/) [sacred](/en/post/sacred/) mountaintop [with](/en/post/with/) awe.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [sacred](/post/sacred/) texts [hold](/post/hold/) [great](/post/great/) [wisdom](/post/wisdom/) [for](/post/for/) [many](/post/many/) believers.
+- **[Verb](/post/verb/)**: [He](/post/he/) consecrated [the](/post/the/) [new](/post/new/) [church](/post/church/) [with](/post/with/) [a](/post/a/) [solemn](/post/solemn/) [ceremony](/post/ceremony/).
+- **[Adjective](/post/adjective/)**: [She](/post/she/) spoke [of](/post/of/) [her](/post/her/) [journey](/post/journey/) [to](/post/to/) [the](/post/the/) [sacred](/post/sacred/) mountaintop [with](/post/with/) awe.
 
 ## Synonyms
-- [Holy](/en/post/holy/)
+- [Holy](/post/holy/)
 - Sacredly held
-- [Holy](/en/post/holy/) [ground](/en/post/ground/)
-- [Holy](/en/post/holy/) [water](/en/post/water/)
-- [Sacred](/en/post/sacred/) [object](/en/post/object/)
+- [Holy](/post/holy/) [ground](/post/ground/)
+- [Holy](/post/holy/) [water](/post/water/)
+- [Sacred](/post/sacred/) [object](/post/object/)
 - Venerated
 - Sanctified

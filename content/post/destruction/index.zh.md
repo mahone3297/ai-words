@@ -11,20 +11,20 @@ keywords = ['ai words', 'destruction']
 / dɪˈstrʌkʃən /
 
 ## 释义
-- **名词**: 毁灭；破坏；摧毁。例如: "[The](/post/the/) [storm](/post/storm/) caused massive [destruction](/post/destruction/) [in](/post/in/) [the](/post/the/) coastal towns."
-- **动词**: 摧毁；破坏。例如: "[The](/post/the/) [bomb](/post/bomb/) [completely](/post/completely/) destroyed [the](/post/the/) [building](/post/building/)."
+- **名词**: 毁灭；破坏；摧毁。例如: "[The](/zh/post/the/) [storm](/zh/post/storm/) caused massive [destruction](/zh/post/destruction/) [in](/zh/post/in/) [the](/zh/post/the/) coastal towns."
+- **动词**: 摧毁；破坏。例如: "[The](/zh/post/the/) [bomb](/zh/post/bomb/) [completely](/zh/post/completely/) destroyed [the](/zh/post/the/) [building](/zh/post/building/)."
 
 ## 短语
-- "[destruction](/post/destruction/) [of](/post/of/) [property](/post/property/)" 意为财产的毁坏。
+- "[destruction](/zh/post/destruction/) [of](/zh/post/of/) [property](/zh/post/property/)" 意为财产的毁坏。
 - "self-destruction" 指自我毁灭的行为或过程。
 
 ## 例句
-- 名词: "[The](/post/the/) aftermath [of](/post/of/) [the](/post/the/) [earthquake](/post/earthquake/) [left](/post/left/) [a](/post/a/) [trail](/post/trail/) [of](/post/of/) [destruction](/post/destruction/)."
-- 动词: "[The](/post/the/) enemy's bombing [campaign](/post/campaign/) aimed [to](/post/to/) [destroy](/post/destroy/) [the](/post/the/) city's infrastructure."
+- 名词: "[The](/zh/post/the/) aftermath [of](/zh/post/of/) [the](/zh/post/the/) [earthquake](/zh/post/earthquake/) [left](/zh/post/left/) [a](/zh/post/a/) [trail](/zh/post/trail/) [of](/zh/post/of/) [destruction](/zh/post/destruction/)."
+- 动词: "[The](/zh/post/the/) enemy's bombing [campaign](/zh/post/campaign/) aimed [to](/zh/post/to/) [destroy](/zh/post/destroy/) [the](/zh/post/the/) city's infrastructure."
 
 ## 同义词
 - Demolition
-- [Ruin](/post/ruin/)
+- [Ruin](/zh/post/ruin/)
 - Devastation
 - Wreckage
 - Annihilation

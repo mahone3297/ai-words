@@ -7,29 +7,29 @@ description = '[ˈkɔmplikeit] vt.使复杂；使陷入'
 keywords = ['ai words', 'complicate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈplɪkeɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [complicate](/en/post/complicate/) refers [to](/en/post/to/):
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) making [something](/en/post/something/) [more](/en/post/more/) [complex](/en/post/complex/) [or](/en/post/or/) [difficult](/en/post/difficult/) [to](/en/post/to/) [understand](/en/post/understand/).
-2. [A](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [problem](/en/post/problem/) [that](/en/post/that/) has [become](/en/post/become/) intricate [or](/en/post/or/) convoluted.
+### [Noun](/post/noun/)
+[A](/post/a/) [complicate](/post/complicate/) refers [to](/post/to/):
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) making [something](/post/something/) [more](/post/more/) [complex](/post/complex/) [or](/post/or/) [difficult](/post/difficult/) [to](/post/to/) [understand](/post/understand/).
+2. [A](/post/a/) [situation](/post/situation/) [or](/post/or/) [problem](/post/problem/) [that](/post/that/) has [become](/post/become/) intricate [or](/post/or/) convoluted.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [complicate](/en/post/complicate/) (v):
-1. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [situation](/en/post/situation/), [task](/en/post/task/), [or](/en/post/or/) [problem](/en/post/problem/) [more](/en/post/more/) [complicated](/en/post/complicated/) [or](/en/post/or/) harder [to](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/).
-2. [To](/en/post/to/) [introduce](/en/post/introduce/) [additional](/en/post/additional/) factors [or](/en/post/or/) complications [into](/en/post/into/) [a](/en/post/a/) [process](/en/post/process/).
+### [Verb](/post/verb/)
+[To](/post/to/) [complicate](/post/complicate/) (v):
+1. [To](/post/to/) [make](/post/make/) [a](/post/a/) [situation](/post/situation/), [task](/post/task/), [or](/post/or/) [problem](/post/problem/) [more](/post/more/) [complicated](/post/complicated/) [or](/post/or/) harder [to](/post/to/) [deal](/post/deal/) [with](/post/with/).
+2. [To](/post/to/) [introduce](/post/introduce/) [additional](/post/additional/) factors [or](/post/or/) complications [into](/post/into/) [a](/post/a/) [process](/post/process/).
 
 ## Phrases
-- "Complicating matters" indicates [that](/en/post/that/) [a](/en/post/a/) [situation](/en/post/situation/) has [become](/en/post/become/) [more](/en/post/more/) [complex](/en/post/complex/).
-- "[Keep](/en/post/keep/) [it](/en/post/it/) [simple](/en/post/simple/), don't [complicate](/en/post/complicate/)" is [advice](/en/post/advice/) [to](/en/post/to/) [avoid](/en/post/avoid/) [unnecessary](/en/post/unnecessary/) complexity.
-- "[To](/en/post/to/) [complicate](/en/post/complicate/) one's [life](/en/post/life/)" [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [unnecessary](/en/post/unnecessary/) difficulties.
+- "Complicating matters" indicates [that](/post/that/) [a](/post/a/) [situation](/post/situation/) has [become](/post/become/) [more](/post/more/) [complex](/post/complex/).
+- "[Keep](/post/keep/) [it](/post/it/) [simple](/post/simple/), don't [complicate](/post/complicate/)" is [advice](/post/advice/) [to](/post/to/) [avoid](/post/avoid/) [unnecessary](/post/unnecessary/) complexity.
+- "[To](/post/to/) [complicate](/post/complicate/) one's [life](/post/life/)" [means](/post/means/) [to](/post/to/) [create](/post/create/) [unnecessary](/post/unnecessary/) difficulties.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) project's requirements [have](/en/post/have/) [become](/en/post/become/) [increasingly](/en/post/increasingly/) [complicated](/en/post/complicated/) [over](/en/post/over/) [time](/en/post/time/)."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [decision](/en/post/decision/) [to](/en/post/to/) [change](/en/post/change/) [his](/en/post/his/) plans [complicated](/en/post/complicated/) [the](/en/post/the/) logistics [for](/en/post/for/) [the](/en/post/the/) [event](/en/post/event/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tried [to](/en/post/to/) [simplify](/en/post/simplify/) [the](/en/post/the/) instructions, [but](/en/post/but/) [some](/en/post/some/) [people](/en/post/people/) [still](/en/post/still/) [found](/en/post/found/) [them](/en/post/them/) [hard](/en/post/hard/) [to](/en/post/to/) [follow](/en/post/follow/) [because](/en/post/because/) [they](/en/post/they/) had [complicated](/en/post/complicated/) [the](/en/post/the/) [process](/en/post/process/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) project's requirements [have](/post/have/) [become](/post/become/) [increasingly](/post/increasingly/) [complicated](/post/complicated/) [over](/post/over/) [time](/post/time/)."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [decision](/post/decision/) [to](/post/to/) [change](/post/change/) [his](/post/his/) plans [complicated](/post/complicated/) [the](/post/the/) logistics [for](/post/for/) [the](/post/the/) [event](/post/event/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tried [to](/post/to/) [simplify](/post/simplify/) [the](/post/the/) instructions, [but](/post/but/) [some](/post/some/) [people](/post/people/) [still](/post/still/) [found](/post/found/) [them](/post/them/) [hard](/post/hard/) [to](/post/to/) [follow](/post/follow/) [because](/post/because/) [they](/post/they/) had [complicated](/post/complicated/) [the](/post/the/) [process](/post/process/)."
 
 ## Synonyms
 - Compensate
@@ -39,7 +39,7 @@ keywords = ['ai words', 'complicate']
 - Convolute
 
 ## Antonyms
-- [Simplify](/en/post/simplify/)
-- [Ease](/en/post/ease/)
+- [Simplify](/post/simplify/)
+- [Ease](/post/ease/)
 - Streamline
-- [Clarify](/en/post/clarify/)
+- [Clarify](/post/clarify/)

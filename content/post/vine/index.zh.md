@@ -11,21 +11,21 @@ keywords = ['ai words', 'vine']
 /vaɪn/
 
 ## 释义
-- **名词**: 藤；葡萄藤；常春藤；葡萄酒厂。例如: "[The](/post/the/) grapes [grow](/post/grow/) [on](/post/on/) [the](/post/the/) [vine](/post/vine/) [in](/post/in/) [the](/post/the/) [sunny](/post/sunny/) vineyard." 
-- **名词**: （象征性）根源，基础。例如: "[The](/post/the/) [idea](/post/idea/) was [the](/post/the/) [vine](/post/vine/) [from](/post/from/) [which](/post/which/) [many](/post/many/) [new](/post/new/) projects sprang."
-- **动词**: （植物）蔓延，攀爬。例如: "[The](/post/the/) ivy vines [its](/post/its/) [way](/post/way/) [up](/post/up/) [the](/post/the/) [old](/post/old/) [brick](/post/brick/) [wall](/post/wall/)."
+- **名词**: 藤；葡萄藤；常春藤；葡萄酒厂。例如: "[The](/zh/post/the/) grapes [grow](/zh/post/grow/) [on](/zh/post/on/) [the](/zh/post/the/) [vine](/zh/post/vine/) [in](/zh/post/in/) [the](/zh/post/the/) [sunny](/zh/post/sunny/) vineyard." 
+- **名词**: （象征性）根源，基础。例如: "[The](/zh/post/the/) [idea](/zh/post/idea/) was [the](/zh/post/the/) [vine](/zh/post/vine/) [from](/zh/post/from/) [which](/zh/post/which/) [many](/zh/post/many/) [new](/zh/post/new/) projects sprang."
+- **动词**: （植物）蔓延，攀爬。例如: "[The](/zh/post/the/) ivy vines [its](/zh/post/its/) [way](/zh/post/way/) [up](/zh/post/up/) [the](/zh/post/the/) [old](/zh/post/old/) [brick](/zh/post/brick/) [wall](/zh/post/wall/)."
 
 ## 短语
 - "vineyard" 葡萄园，葡萄酒产地。
-- "grapevine" 非正式的信息来源或渠道，如 "rumors [spread](/post/spread/) [through](/post/through/) [the](/post/the/) grapevine."
+- "grapevine" 非正式的信息来源或渠道，如 "rumors [spread](/zh/post/spread/) [through](/zh/post/through/) [the](/zh/post/the/) grapevine."
 
 ## 例句
-- 名词: "[The](/post/the/) winemaker carefully tended [to](/post/to/) [his](/post/his/) vines [to](/post/to/) [ensure](/post/ensure/) [a](/post/a/) [good](/post/good/) [harvest](/post/harvest/)."
-- 动词: "[The](/post/the/) [little](/post/little/) [plant](/post/plant/) began [to](/post/to/) [vine](/post/vine/) [around](/post/around/) [the](/post/the/) trellis."
+- 名词: "[The](/zh/post/the/) winemaker carefully tended [to](/zh/post/to/) [his](/zh/post/his/) vines [to](/zh/post/to/) [ensure](/zh/post/ensure/) [a](/zh/post/a/) [good](/zh/post/good/) [harvest](/zh/post/harvest/)."
+- 动词: "[The](/zh/post/the/) [little](/zh/post/little/) [plant](/zh/post/plant/) began [to](/zh/post/to/) [vine](/zh/post/vine/) [around](/zh/post/around/) [the](/zh/post/the/) trellis."
   
 ## 同义词
-- [Plant](/post/plant/)
+- [Plant](/zh/post/plant/)
 - Creeper
 - Climber
 - Ivy
-- [Branch](/post/branch/)
+- [Branch](/zh/post/branch/)

@@ -11,23 +11,23 @@ keywords = ['ai words', 'fierce']
 /fɪərs/
 
 ## 释义
-- **形容词**: 强烈的，激烈的；凶猛的。例如: "[The](/post/the/) [fierce](/post/fierce/) [storm](/post/storm/) caused [widespread](/post/widespread/) [damage](/post/damage/)."
-- **副词**: 强烈地，猛烈地。例如: "[He](/post/he/) [hit](/post/hit/) [the](/post/the/) [ball](/post/ball/) fiercely, sending [it](/post/it/) flying [over](/post/over/) [the](/post/the/) [fence](/post/fence/)."
-- **名词**: 凶猛的人或事物。例如: "[The](/post/the/) [fierce](/post/fierce/) competitor dominated [the](/post/the/) [game](/post/game/)."
+- **形容词**: 强烈的，激烈的；凶猛的。例如: "[The](/zh/post/the/) [fierce](/zh/post/fierce/) [storm](/zh/post/storm/) caused [widespread](/zh/post/widespread/) [damage](/zh/post/damage/)."
+- **副词**: 强烈地，猛烈地。例如: "[He](/zh/post/he/) [hit](/zh/post/hit/) [the](/zh/post/the/) [ball](/zh/post/ball/) fiercely, sending [it](/zh/post/it/) flying [over](/zh/post/over/) [the](/zh/post/the/) [fence](/zh/post/fence/)."
+- **名词**: 凶猛的人或事物。例如: "[The](/zh/post/the/) [fierce](/zh/post/fierce/) competitor dominated [the](/zh/post/the/) [game](/zh/post/game/)."
 
 ## 短语
-- "[fierce](/post/fierce/) [battle](/post/battle/)" 激烈的战斗
-- "[fierce](/post/fierce/) [competition](/post/competition/)" 竞争激烈的市场
-- "[fierce](/post/fierce/) [determination](/post/determination/)" 坚定的决心
+- "[fierce](/zh/post/fierce/) [battle](/zh/post/battle/)" 激烈的战斗
+- "[fierce](/zh/post/fierce/) [competition](/zh/post/competition/)" 竞争激烈的市场
+- "[fierce](/zh/post/fierce/) [determination](/zh/post/determination/)" 坚定的决心
 
 ## 例句
-- 形容词: "[The](/post/the/) [tiger](/post/tiger/) had [fierce](/post/fierce/) eyes [that](/post/that/) seemed [to](/post/to/) [glow](/post/glow/) [in](/post/in/) [the](/post/the/) [dark](/post/dark/)."
-- 副词: "[She](/post/she/) attacked [the](/post/the/) [task](/post/task/) [with](/post/with/) [fierce](/post/fierce/) [intensity](/post/intensity/)."
-- 名词: "[The](/post/the/) warrior was known [for](/post/for/) [his](/post/his/) [fierce](/post/fierce/) bravery."
+- 形容词: "[The](/zh/post/the/) [tiger](/zh/post/tiger/) had [fierce](/zh/post/fierce/) eyes [that](/zh/post/that/) seemed [to](/zh/post/to/) [glow](/zh/post/glow/) [in](/zh/post/in/) [the](/zh/post/the/) [dark](/zh/post/dark/)."
+- 副词: "[She](/zh/post/she/) attacked [the](/zh/post/the/) [task](/zh/post/task/) [with](/zh/post/with/) [fierce](/zh/post/fierce/) [intensity](/zh/post/intensity/)."
+- 名词: "[The](/zh/post/the/) warrior was known [for](/zh/post/for/) [his](/zh/post/his/) [fierce](/zh/post/fierce/) bravery."
 
 ## 同义词
-- [Intense](/post/intense/)
-- [Violent](/post/violent/)
+- [Intense](/zh/post/intense/)
+- [Violent](/zh/post/violent/)
 - Brutal
 - Frenzied
-- [Aggressive](/post/aggressive/)
+- [Aggressive](/zh/post/aggressive/)

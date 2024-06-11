@@ -7,43 +7,43 @@ description = '[ˈkʌlt∫ə] n.文化，文明；教养'
 keywords = ['ai words', 'culture']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈltʃər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Culture](/en/post/culture/)**: [The](/en/post/the/) customs, beliefs, arts, [and](/en/post/and/) ways [of](/en/post/of/) [life](/en/post/life/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [group](/en/post/group/) [or](/en/post/or/) [society](/en/post/society/), [often](/en/post/often/) referring [to](/en/post/to/) [its](/en/post/its/) accumulated [knowledge](/en/post/knowledge/), traditions, [and](/en/post/and/) values.
-   - [Example](/en/post/example/): "Cultural diversity enriches [a](/en/post/a/) [community](/en/post/community/)."
-   - [Phrase](/en/post/phrase/): "[Traditional](/en/post/traditional/) [folk](/en/post/folk/) [culture](/en/post/culture/)"
-   - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [festival](/en/post/festival/) celebrated [the](/en/post/the/) [rich](/en/post/rich/) cultural heritage [of](/en/post/of/) [the](/en/post/the/) [region](/en/post/region/)."
+### [Noun](/post/noun/)
+1. **[Culture](/post/culture/)**: [The](/post/the/) customs, beliefs, arts, [and](/post/and/) ways [of](/post/of/) [life](/post/life/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [group](/post/group/) [or](/post/or/) [society](/post/society/), [often](/post/often/) referring [to](/post/to/) [its](/post/its/) accumulated [knowledge](/post/knowledge/), traditions, [and](/post/and/) values.
+   - [Example](/post/example/): "Cultural diversity enriches [a](/post/a/) [community](/post/community/)."
+   - [Phrase](/post/phrase/): "[Traditional](/post/traditional/) [folk](/post/folk/) [culture](/post/culture/)"
+   - [Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) [festival](/post/festival/) celebrated [the](/post/the/) [rich](/post/rich/) cultural heritage [of](/post/of/) [the](/post/the/) [region](/post/region/)."
 
-2. **[Artistic](/en/post/artistic/) [culture](/en/post/culture/)**: [The](/en/post/the/) [realm](/en/post/realm/) [of](/en/post/of/) ideas, aesthetics, [and](/en/post/and/) [creative](/en/post/creative/) [expression](/en/post/expression/), encompassing [literature](/en/post/literature/), [music](/en/post/music/), [visual](/en/post/visual/) arts, [and](/en/post/and/) performing arts.
-   - [Example](/en/post/example/): "[Classical](/en/post/classical/) [music](/en/post/music/) is an integral [part](/en/post/part/) [of](/en/post/of/) [high](/en/post/high/) [culture](/en/post/culture/)."
-   - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[She](/en/post/she/) was immersed [in](/en/post/in/) [the](/en/post/the/) [contemporary](/en/post/contemporary/) [art](/en/post/art/) [culture](/en/post/culture/) [of](/en/post/of/) [New](/en/post/new/) York [City](/en/post/city/)."
+2. **[Artistic](/post/artistic/) [culture](/post/culture/)**: [The](/post/the/) [realm](/post/realm/) [of](/post/of/) ideas, aesthetics, [and](/post/and/) [creative](/post/creative/) [expression](/post/expression/), encompassing [literature](/post/literature/), [music](/post/music/), [visual](/post/visual/) arts, [and](/post/and/) performing arts.
+   - [Example](/post/example/): "[Classical](/post/classical/) [music](/post/music/) is an integral [part](/post/part/) [of](/post/of/) [high](/post/high/) [culture](/post/culture/)."
+   - [Example](/post/example/) [Sentence](/post/sentence/): "[She](/post/she/) was immersed [in](/post/in/) [the](/post/the/) [contemporary](/post/contemporary/) [art](/post/art/) [culture](/post/culture/) [of](/post/of/) [New](/post/new/) York [City](/post/city/)."
 
-3. **Culinary [culture](/en/post/culture/)**: [The](/en/post/the/) [food](/en/post/food/), recipes, [and](/en/post/and/) culinary traditions [of](/en/post/of/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [people](/en/post/people/).
-   - [Example](/en/post/example/): "Japanese sushi [culture](/en/post/culture/) has gained global popularity."
-   - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [food](/en/post/food/) [truck](/en/post/truck/) [scene](/en/post/scene/) reflects [the](/en/post/the/) city's vibrant culinary [culture](/en/post/culture/)."
+3. **Culinary [culture](/post/culture/)**: [The](/post/the/) [food](/post/food/), recipes, [and](/post/and/) culinary traditions [of](/post/of/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [people](/post/people/).
+   - [Example](/post/example/): "Japanese sushi [culture](/post/culture/) has gained global popularity."
+   - [Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) [food](/post/food/) [truck](/post/truck/) [scene](/post/scene/) reflects [the](/post/the/) city's vibrant culinary [culture](/post/culture/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [cultivate](/en/post/cultivate/) [or](/en/post/or/) [develop](/en/post/develop/) [a](/en/post/a/) [particular](/en/post/particular/) [aspect](/en/post/aspect/) [of](/en/post/of/) [culture](/en/post/culture/), [such](/en/post/such/) [as](/en/post/as/) [language](/en/post/language/) [or](/en/post/or/) habits.
-   - [Example](/en/post/example/): "[They](/en/post/they/) strive [to](/en/post/to/) [cultivate](/en/post/cultivate/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [community](/en/post/community/) [within](/en/post/within/) [their](/en/post/their/) [organization](/en/post/organization/)."
-   - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "She's trying [to](/en/post/to/) [cultivate](/en/post/cultivate/) [her](/en/post/her/) [interest](/en/post/interest/) [in](/en/post/in/) [traditional](/en/post/traditional/) crafts."
+### [Verb](/post/verb/)
+- [To](/post/to/) [cultivate](/post/cultivate/) [or](/post/or/) [develop](/post/develop/) [a](/post/a/) [particular](/post/particular/) [aspect](/post/aspect/) [of](/post/of/) [culture](/post/culture/), [such](/post/such/) [as](/post/as/) [language](/post/language/) [or](/post/or/) habits.
+   - [Example](/post/example/): "[They](/post/they/) strive [to](/post/to/) [cultivate](/post/cultivate/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [community](/post/community/) [within](/post/within/) [their](/post/their/) [organization](/post/organization/)."
+   - [Example](/post/example/) [Sentence](/post/sentence/): "She's trying [to](/post/to/) [cultivate](/post/cultivate/) [her](/post/her/) [interest](/post/interest/) [in](/post/in/) [traditional](/post/traditional/) crafts."
 
-### [Adjective](/en/post/adjective/)
-- Characterizing [or](/en/post/or/) [typical](/en/post/typical/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [culture](/en/post/culture/) [or](/en/post/or/) [society](/en/post/society/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) offers insights [into](/en/post/into/) Japanese [business](/en/post/business/) [culture](/en/post/culture/)."
-   - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[Her](/en/post/her/) [design](/en/post/design/) incorporates elements [of](/en/post/of/) bohemian [culture](/en/post/culture/)."
+### [Adjective](/post/adjective/)
+- Characterizing [or](/post/or/) [typical](/post/typical/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [culture](/post/culture/) [or](/post/or/) [society](/post/society/).
+   - [Example](/post/example/): "[The](/post/the/) [book](/post/book/) offers insights [into](/post/into/) Japanese [business](/post/business/) [culture](/post/culture/)."
+   - [Example](/post/example/) [Sentence](/post/sentence/): "[Her](/post/her/) [design](/post/design/) incorporates elements [of](/post/of/) bohemian [culture](/post/culture/)."
 
 ## Phrases
-- "Cultural [exchange](/en/post/exchange/)" refers [to](/en/post/to/) [the](/en/post/the/) sharing [of](/en/post/of/) ideas, practices, [and](/en/post/and/) beliefs [between](/en/post/between/) [different](/en/post/different/) societies.
-- "Cultural competence" is [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [understand](/en/post/understand/) [and](/en/post/and/) interact effectively [with](/en/post/with/) [people](/en/post/people/) [from](/en/post/from/) [diverse](/en/post/diverse/) cultures.
-- "Culturally [sensitive](/en/post/sensitive/)" [means](/en/post/means/) considering [the](/en/post/the/) values [and](/en/post/and/) norms [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [culture](/en/post/culture/).
+- "Cultural [exchange](/post/exchange/)" refers [to](/post/to/) [the](/post/the/) sharing [of](/post/of/) ideas, practices, [and](/post/and/) beliefs [between](/post/between/) [different](/post/different/) societies.
+- "Cultural competence" is [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [understand](/post/understand/) [and](/post/and/) interact effectively [with](/post/with/) [people](/post/people/) [from](/post/from/) [diverse](/post/diverse/) cultures.
+- "Culturally [sensitive](/post/sensitive/)" [means](/post/means/) considering [the](/post/the/) values [and](/post/and/) norms [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [culture](/post/culture/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Learning](/en/post/learning/) [about](/en/post/about/) [different](/en/post/different/) cultures broadened [her](/en/post/her/) [perspective](/en/post/perspective/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [museum](/en/post/museum/) aims [to](/en/post/to/) [preserve](/en/post/preserve/) [and](/en/post/and/) [promote](/en/post/promote/) [local](/en/post/local/) agricultural [culture](/en/post/culture/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) city's [architecture](/en/post/architecture/) is [a](/en/post/a/) [blend](/en/post/blend/) [of](/en/post/of/) [modern](/en/post/modern/) [and](/en/post/and/) [traditional](/en/post/traditional/), reflecting [its](/en/post/its/) multicultural [character](/en/post/character/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Learning](/post/learning/) [about](/post/about/) [different](/post/different/) cultures broadened [her](/post/her/) [perspective](/post/perspective/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [museum](/post/museum/) aims [to](/post/to/) [preserve](/post/preserve/) [and](/post/and/) [promote](/post/promote/) [local](/post/local/) agricultural [culture](/post/culture/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) city's [architecture](/post/architecture/) is [a](/post/a/) [blend](/post/blend/) [of](/post/of/) [modern](/post/modern/) [and](/post/and/) [traditional](/post/traditional/), reflecting [its](/post/its/) multicultural [character](/post/character/)."
 
 ## Synonyms
 - Customs
@@ -55,6 +55,6 @@ keywords = ['ai words', 'culture']
 - Values
 - Practices
 - Beliefs
-- Ways [of](/en/post/of/) [life](/en/post/life/)
+- Ways [of](/post/of/) [life](/post/life/)
 - Folklore
-- Customs [and](/en/post/and/) etiquette
+- Customs [and](/post/and/) etiquette

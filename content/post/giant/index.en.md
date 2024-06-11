@@ -7,33 +7,33 @@ description = '[ˈdʒaiənt] n.巨人；巨物'
 keywords = ['ai words', 'giant']
 +++
 
-## [Word](/en/post/word/): [Giant](/en/post/giant/)
+## [Word](/post/word/): [Giant](/post/giant/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒaɪənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) mythical [or](/en/post/or/) legendary [being](/en/post/being/) [of](/en/post/of/) [human](/en/post/human/) [form](/en/post/form/) [but](/en/post/but/) [enormous](/en/post/enormous/) [size](/en/post/size/), [often](/en/post/often/) possessing [great](/en/post/great/) [strength](/en/post/strength/). [Example](/en/post/example/): "[The](/en/post/the/) [hero](/en/post/hero/) fought [a](/en/post/a/) [giant](/en/post/giant/) [in](/en/post/in/) [his](/en/post/his/) quest."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is notably [large](/en/post/large/) [or](/en/post/or/) [powerful](/en/post/powerful/) [within](/en/post/within/) [its](/en/post/its/) [sphere](/en/post/sphere/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is [a](/en/post/a/) [giant](/en/post/giant/) [in](/en/post/in/) [the](/en/post/the/) tech [industry](/en/post/industry/)."
-- **[Adjective](/en/post/adjective/)**: [Extremely](/en/post/extremely/) [large](/en/post/large/) [or](/en/post/or/) [great](/en/post/great/) [in](/en/post/in/) [size](/en/post/size/), [amount](/en/post/amount/), [extent](/en/post/extent/), [or](/en/post/or/) [intensity](/en/post/intensity/). [Example](/en/post/example/): "[The](/en/post/the/) [giant](/en/post/giant/) redwood trees [tower](/en/post/tower/) [over](/en/post/over/) [everything](/en/post/everything/) [else](/en/post/else/) [in](/en/post/in/) [the](/en/post/the/) [forest](/en/post/forest/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) mythical [or](/post/or/) legendary [being](/post/being/) [of](/post/of/) [human](/post/human/) [form](/post/form/) [but](/post/but/) [enormous](/post/enormous/) [size](/post/size/), [often](/post/often/) possessing [great](/post/great/) [strength](/post/strength/). [Example](/post/example/): "[The](/post/the/) [hero](/post/hero/) fought [a](/post/a/) [giant](/post/giant/) [in](/post/in/) [his](/post/his/) quest."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is notably [large](/post/large/) [or](/post/or/) [powerful](/post/powerful/) [within](/post/within/) [its](/post/its/) [sphere](/post/sphere/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) is [a](/post/a/) [giant](/post/giant/) [in](/post/in/) [the](/post/the/) tech [industry](/post/industry/)."
+- **[Adjective](/post/adjective/)**: [Extremely](/post/extremely/) [large](/post/large/) [or](/post/or/) [great](/post/great/) [in](/post/in/) [size](/post/size/), [amount](/post/amount/), [extent](/post/extent/), [or](/post/or/) [intensity](/post/intensity/). [Example](/post/example/): "[The](/post/the/) [giant](/post/giant/) redwood trees [tower](/post/tower/) [over](/post/over/) [everything](/post/everything/) [else](/post/else/) [in](/post/in/) [the](/post/the/) [forest](/post/forest/)."
 
 ## Phrases
-- "[Giant](/en/post/giant/) steps": Referring [to](/en/post/to/) [a](/en/post/a/) [significant](/en/post/significant/) [or](/en/post/or/) [substantial](/en/post/substantial/) advancement [or](/en/post/or/) [progress](/en/post/progress/).
-- "David [and](/en/post/and/) Goliath": [A](/en/post/a/) metaphorical [reference](/en/post/reference/) [to](/en/post/to/) an underdog [situation](/en/post/situation/) [where](/en/post/where/) [a](/en/post/a/) smaller [or](/en/post/or/) weaker [opponent](/en/post/opponent/) faces [a](/en/post/a/) [much](/en/post/much/) larger [or](/en/post/or/) stronger [one](/en/post/one/).
-- "Sleeping [giant](/en/post/giant/)": [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) entity [with](/en/post/with/) untapped [potential](/en/post/potential/) [or](/en/post/or/) [power](/en/post/power/) [that](/en/post/that/) [could](/en/post/could/) [become](/en/post/become/) formidable [if](/en/post/if/) awakened.
+- "[Giant](/post/giant/) steps": Referring [to](/post/to/) [a](/post/a/) [significant](/post/significant/) [or](/post/or/) [substantial](/post/substantial/) advancement [or](/post/or/) [progress](/post/progress/).
+- "David [and](/post/and/) Goliath": [A](/post/a/) metaphorical [reference](/post/reference/) [to](/post/to/) an underdog [situation](/post/situation/) [where](/post/where/) [a](/post/a/) smaller [or](/post/or/) weaker [opponent](/post/opponent/) faces [a](/post/a/) [much](/post/much/) larger [or](/post/or/) stronger [one](/post/one/).
+- "Sleeping [giant](/post/giant/)": [A](/post/a/) [person](/post/person/) [or](/post/or/) entity [with](/post/with/) untapped [potential](/post/potential/) [or](/post/or/) [power](/post/power/) [that](/post/that/) [could](/post/could/) [become](/post/become/) formidable [if](/post/if/) awakened.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Jack [and](/en/post/and/) [the](/en/post/the/) Beanstalk tells [the](/en/post/the/) [story](/en/post/story/) [of](/en/post/of/) [a](/en/post/a/) [boy](/en/post/boy/) [who](/en/post/who/) climbs [a](/en/post/a/) beanstalk [to](/en/post/to/) [the](/en/post/the/) [land](/en/post/land/) [of](/en/post/of/) [a](/en/post/a/) [giant](/en/post/giant/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [giant](/en/post/giant/) [corporation](/en/post/corporation/) has branches [all](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [world](/en/post/world/)."
-- **Figurative [usage](/en/post/usage/)**: "[In](/en/post/in/) [the](/en/post/the/) [world](/en/post/world/) [of](/en/post/of/) [finance](/en/post/finance/), [this](/en/post/this/) [new](/en/post/new/) startup is [a](/en/post/a/) [giant](/en/post/giant/) killer, challenging established companies."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Jack [and](/post/and/) [the](/post/the/) Beanstalk tells [the](/post/the/) [story](/post/story/) [of](/post/of/) [a](/post/a/) [boy](/post/boy/) [who](/post/who/) climbs [a](/post/a/) beanstalk [to](/post/to/) [the](/post/the/) [land](/post/land/) [of](/post/of/) [a](/post/a/) [giant](/post/giant/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [giant](/post/giant/) [corporation](/post/corporation/) has branches [all](/post/all/) [over](/post/over/) [the](/post/the/) [world](/post/world/)."
+- **Figurative [usage](/post/usage/)**: "[In](/post/in/) [the](/post/the/) [world](/post/world/) [of](/post/of/) [finance](/post/finance/), [this](/post/this/) [new](/post/new/) startup is [a](/post/a/) [giant](/post/giant/) killer, challenging established companies."
 
 ## Synonyms
 - Colossal
-- [Enormous](/en/post/enormous/)
-- [Huge](/en/post/huge/)
+- [Enormous](/post/enormous/)
+- [Huge](/post/huge/)
 - Mammoth
 - Massive
 - Monumental
 - Titanic
-- Behemoth ([noun](/en/post/noun/))
-- Leviathan ([noun](/en/post/noun/))
+- Behemoth ([noun](/post/noun/))
+- Leviathan ([noun](/post/noun/))

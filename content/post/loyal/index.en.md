@@ -7,36 +7,36 @@ description = '[ˈlɔiəl] a.忠诚的，忠心的'
 keywords = ['ai words', 'loyal']
 +++
 
-## [Word](/en/post/word/): [Loyal](/en/post/loyal/)
+## [Word](/post/word/): [Loyal](/post/loyal/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɔɪəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Faithful](/en/post/faithful/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/), [country](/en/post/country/), [cause](/en/post/cause/), [or](/en/post/or/) [belief](/en/post/belief/); showing steadfast allegiance [and](/en/post/and/) [support](/en/post/support/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has been [a](/en/post/a/) [loyal](/en/post/loyal/) [friend](/en/post/friend/) [throughout](/en/post/throughout/) [the](/en/post/the/) years."
-- **[Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [loyal](/en/post/loyal/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [group](/en/post/group/), [person](/en/post/person/), [or](/en/post/or/) [cause](/en/post/cause/). [Example](/en/post/example/): "[The](/en/post/the/) king's [most](/en/post/most/) trusted loyals stood [by](/en/post/by/) [him](/en/post/him/) [during](/en/post/during/) [the](/en/post/the/) [rebellion](/en/post/rebellion/)."
+- **[Adjective](/post/adjective/)**: [Faithful](/post/faithful/) [to](/post/to/) [a](/post/a/) [person](/post/person/), [country](/post/country/), [cause](/post/cause/), [or](/post/or/) [belief](/post/belief/); showing steadfast allegiance [and](/post/and/) [support](/post/support/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has been [a](/post/a/) [loyal](/post/loyal/) [friend](/post/friend/) [throughout](/post/throughout/) [the](/post/the/) years."
+- **[Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [loyal](/post/loyal/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [group](/post/group/), [person](/post/person/), [or](/post/or/) [cause](/post/cause/). [Example](/post/example/): "[The](/post/the/) king's [most](/post/most/) trusted loyals stood [by](/post/by/) [him](/post/him/) [during](/post/during/) [the](/post/the/) [rebellion](/post/rebellion/)."
 
-### [Adjective](/en/post/adjective/) [Usage](/en/post/usage/) Examples
-- "Customers remained [loyal](/en/post/loyal/) [to](/en/post/to/) [the](/en/post/the/) [brand](/en/post/brand/) [despite](/en/post/despite/) [the](/en/post/the/) emergence [of](/en/post/of/) cheaper alternatives."
-- "[He](/en/post/he/) demonstrated [his](/en/post/his/) [loyalty](/en/post/loyalty/) [to](/en/post/to/) [the](/en/post/the/) [team](/en/post/team/) [by](/en/post/by/) [never](/en/post/never/) [missing](/en/post/missing/) [a](/en/post/a/) [game](/en/post/game/)."
-- "[Her](/en/post/her/) dog's unwavering [loyalty](/en/post/loyalty/) was heartwarming; he'd [wait](/en/post/wait/) [by](/en/post/by/) [the](/en/post/the/) [door](/en/post/door/) [until](/en/post/until/) [she](/en/post/she/) returned [home](/en/post/home/)."
+### [Adjective](/post/adjective/) [Usage](/post/usage/) Examples
+- "Customers remained [loyal](/post/loyal/) [to](/post/to/) [the](/post/the/) [brand](/post/brand/) [despite](/post/despite/) [the](/post/the/) emergence [of](/post/of/) cheaper alternatives."
+- "[He](/post/he/) demonstrated [his](/post/his/) [loyalty](/post/loyalty/) [to](/post/to/) [the](/post/the/) [team](/post/team/) [by](/post/by/) [never](/post/never/) [missing](/post/missing/) [a](/post/a/) [game](/post/game/)."
+- "[Her](/post/her/) dog's unwavering [loyalty](/post/loyalty/) was heartwarming; he'd [wait](/post/wait/) [by](/post/by/) [the](/post/the/) [door](/post/door/) [until](/post/until/) [she](/post/she/) returned [home](/post/home/)."
 
 ## Phrases
-- "[Loyal](/en/post/loyal/) [to](/en/post/to/) [a](/en/post/a/) [fault](/en/post/fault/)": Refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is [so](/en/post/so/) [loyal](/en/post/loyal/) [that](/en/post/that/) [they](/en/post/they/) [may](/en/post/may/) [overlook](/en/post/overlook/) [negative](/en/post/negative/) aspects [or](/en/post/or/) [make](/en/post/make/) excuses [for](/en/post/for/) [the](/en/post/the/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) they're [loyal](/en/post/loyal/) [to](/en/post/to/).
-- "[Loyalty](/en/post/loyalty/) [card](/en/post/card/)": [A](/en/post/a/) marketing [program](/en/post/program/) [where](/en/post/where/) customers [can](/en/post/can/) [collect](/en/post/collect/) points [or](/en/post/or/) rewards [for](/en/post/for/) [repeat](/en/post/repeat/) [business](/en/post/business/) [with](/en/post/with/) [a](/en/post/a/) [company](/en/post/company/).
-- "[Loyal](/en/post/loyal/) opposition": [In](/en/post/in/) [politics](/en/post/politics/), [it](/en/post/it/) refers [to](/en/post/to/) [the](/en/post/the/) [political](/en/post/political/) [party](/en/post/party/) [that](/en/post/that/) is [not](/en/post/not/) [in](/en/post/in/) [power](/en/post/power/) [but](/en/post/but/) [still](/en/post/still/) supports [the](/en/post/the/) [legal](/en/post/legal/) [and](/en/post/and/) constitutional [framework](/en/post/framework/) [of](/en/post/of/) [the](/en/post/the/) [government](/en/post/government/).
+- "[Loyal](/post/loyal/) [to](/post/to/) [a](/post/a/) [fault](/post/fault/)": Refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is [so](/post/so/) [loyal](/post/loyal/) [that](/post/that/) [they](/post/they/) [may](/post/may/) [overlook](/post/overlook/) [negative](/post/negative/) aspects [or](/post/or/) [make](/post/make/) excuses [for](/post/for/) [the](/post/the/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) they're [loyal](/post/loyal/) [to](/post/to/).
+- "[Loyalty](/post/loyalty/) [card](/post/card/)": [A](/post/a/) marketing [program](/post/program/) [where](/post/where/) customers [can](/post/can/) [collect](/post/collect/) points [or](/post/or/) rewards [for](/post/for/) [repeat](/post/repeat/) [business](/post/business/) [with](/post/with/) [a](/post/a/) [company](/post/company/).
+- "[Loyal](/post/loyal/) opposition": [In](/post/in/) [politics](/post/politics/), [it](/post/it/) refers [to](/post/to/) [the](/post/the/) [political](/post/political/) [party](/post/party/) [that](/post/that/) is [not](/post/not/) [in](/post/in/) [power](/post/power/) [but](/post/but/) [still](/post/still/) supports [the](/post/the/) [legal](/post/legal/) [and](/post/and/) constitutional [framework](/post/framework/) [of](/post/of/) [the](/post/the/) [government](/post/government/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [loyal](/en/post/loyal/) supporters continued [to](/en/post/to/) rally [behind](/en/post/behind/) [his](/en/post/his/) [campaign](/en/post/campaign/) [even](/en/post/even/) [when](/en/post/when/) polls were [against](/en/post/against/) [him](/en/post/him/)."
-- **[Noun](/en/post/noun/)**: "[Amongst](/en/post/amongst/) [the](/en/post/the/) king's subjects, [the](/en/post/the/) loyals were [those](/en/post/those/) [who](/en/post/who/) had proven [their](/en/post/their/) dedication [through](/en/post/through/) deeds."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [loyal](/post/loyal/) supporters continued [to](/post/to/) rally [behind](/post/behind/) [his](/post/his/) [campaign](/post/campaign/) [even](/post/even/) [when](/post/when/) polls were [against](/post/against/) [him](/post/him/)."
+- **[Noun](/post/noun/)**: "[Amongst](/post/amongst/) [the](/post/the/) king's subjects, [the](/post/the/) loyals were [those](/post/those/) [who](/post/who/) had proven [their](/post/their/) dedication [through](/post/through/) deeds."
 
 ## Synonyms
-- [Faithful](/en/post/faithful/)
+- [Faithful](/post/faithful/)
 - Devoted
 - Committed
-- [True](/en/post/true/)
-- [Reliable](/en/post/reliable/)
+- [True](/post/true/)
+- [Reliable](/post/reliable/)
 - Steadfast
-- [Constant](/en/post/constant/)
+- [Constant](/post/constant/)
 - Trustworthy
 - Dedicated

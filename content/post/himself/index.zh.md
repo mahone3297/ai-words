@@ -11,27 +11,27 @@ keywords = ['ai words', 'himself']
 /hɪmˈself/
 
 ## 释义
-- **反身代词**: 表示他自己，强调主语自身的行为或特征。例如: "[He](/post/he/) did [it](/post/it/) [himself](/post/himself/)."
-- **代词**: 强调宾语是主语本人。例如: "John cleaned [his](/post/his/) [car](/post/car/) [himself](/post/himself/)."
+- **反身代词**: 表示他自己，强调主语自身的行为或特征。例如: "[He](/zh/post/he/) did [it](/zh/post/it/) [himself](/zh/post/himself/)."
+- **代词**: 强调宾语是主语本人。例如: "John cleaned [his](/zh/post/his/) [car](/zh/post/car/) [himself](/zh/post/himself/)."
 
 ## 短语
-- "[by](/post/by/) [himself](/post/himself/)" 意味着他独自一人，没有别人的帮助。例如: "[He](/post/he/) [learned](/post/learned/) [to](/post/to/) [play](/post/play/) [the](/post/the/) [piano](/post/piano/) [by](/post/by/) [himself](/post/himself/)."
-- "[himself](/post/himself/) [alone](/post/alone/)" 强调只有他一个人。例如: "[It](/post/it/) was Tom [himself](/post/himself/) [alone](/post/alone/) [who](/post/who/) made [the](/post/the/) [decision](/post/decision/)."
+- "[by](/zh/post/by/) [himself](/zh/post/himself/)" 意味着他独自一人，没有别人的帮助。例如: "[He](/zh/post/he/) [learned](/zh/post/learned/) [to](/zh/post/to/) [play](/zh/post/play/) [the](/zh/post/the/) [piano](/zh/post/piano/) [by](/zh/post/by/) [himself](/zh/post/himself/)."
+- "[himself](/zh/post/himself/) [alone](/zh/post/alone/)" 强调只有他一个人。例如: "[It](/zh/post/it/) was Tom [himself](/zh/post/himself/) [alone](/zh/post/alone/) [who](/zh/post/who/) made [the](/zh/post/the/) [decision](/zh/post/decision/)."
 
 ## 例句
-- 反身代词: "John cooked [dinner](/post/dinner/) [for](/post/for/) [himself](/post/himself/) [and](/post/and/) [his](/post/his/) [family](/post/family/)."
-- 代词: "[The](/post/the/) manager did [the](/post/the/) [work](/post/work/) [himself](/post/himself/) [to](/post/to/) [ensure](/post/ensure/) [its](/post/its/) [quality](/post/quality/)."
+- 反身代词: "John cooked [dinner](/zh/post/dinner/) [for](/zh/post/for/) [himself](/zh/post/himself/) [and](/zh/post/and/) [his](/zh/post/his/) [family](/zh/post/family/)."
+- 代词: "[The](/zh/post/the/) manager did [the](/zh/post/the/) [work](/zh/post/work/) [himself](/zh/post/himself/) [to](/zh/post/to/) [ensure](/zh/post/ensure/) [its](/zh/post/its/) [quality](/zh/post/quality/)."
 
 ## 同义词
-- [himself](/post/himself/): 
-  - [self](/post/self/)
+- [himself](/zh/post/himself/): 
+  - [self](/zh/post/self/)
   - personally
   - individually
 - 其他代词形式（男性）:
-  - [himself](/post/himself/)
-  - [himself](/post/himself/) [alone](/post/alone/)
-  - [on](/post/on/) [his](/post/his/) [own](/post/own/)
+  - [himself](/zh/post/himself/)
+  - [himself](/zh/post/himself/) [alone](/zh/post/alone/)
+  - [on](/zh/post/on/) [his](/zh/post/his/) [own](/zh/post/own/)
 - 其他代词形式（中性/通用）:
-  - [oneself](/post/oneself/)
-  - [themselves](/post/themselves/)
-  - [by](/post/by/) [oneself](/post/oneself/)
+  - [oneself](/zh/post/oneself/)
+  - [themselves](/zh/post/themselves/)
+  - [by](/zh/post/by/) [oneself](/zh/post/oneself/)

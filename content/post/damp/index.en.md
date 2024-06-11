@@ -7,33 +7,33 @@ description = '[dæmp] a.潮湿的，有湿气的'
 keywords = ['ai words', 'damp']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dæmp/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [excessive](/en/post/excessive/) [moisture](/en/post/moisture/) [or](/en/post/or/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) dryness; [humid](/en/post/humid/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) basement was [damp](/en/post/damp/) [from](/en/post/from/) [recent](/en/post/recent/) [rain](/en/post/rain/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [moist](/en/post/moist/) [or](/en/post/or/) [wet](/en/post/wet/); [to](/en/post/to/) [become](/en/post/become/) [damp](/en/post/damp/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) towels were [left](/en/post/left/) [damp](/en/post/damp/) [after](/en/post/after/) washing."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [damp](/en/post/damp/) [manner](/en/post/manner/); [with](/en/post/with/) [moisture](/en/post/moisture/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [air](/en/post/air/) felt [damp](/en/post/damp/) [after](/en/post/after/) [the](/en/post/the/) [morning](/en/post/morning/) [dew](/en/post/dew/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [excessive](/post/excessive/) [moisture](/post/moisture/) [or](/post/or/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) dryness; [humid](/post/humid/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) basement was [damp](/post/damp/) [from](/post/from/) [recent](/post/recent/) [rain](/post/rain/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [moist](/post/moist/) [or](/post/or/) [wet](/post/wet/); [to](/post/to/) [become](/post/become/) [damp](/post/damp/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) towels were [left](/post/left/) [damp](/post/damp/) [after](/post/after/) washing."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [damp](/post/damp/) [manner](/post/manner/); [with](/post/with/) [moisture](/post/moisture/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [air](/post/air/) felt [damp](/post/damp/) [after](/post/after/) [the](/post/the/) [morning](/post/morning/) [dew](/post/dew/)."
 
 ## Phrases
-- "Dampen [the](/en/post/the/) [cloth](/en/post/cloth/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) [wet](/en/post/wet/) [or](/en/post/or/) [less](/en/post/less/) absorbent.
-- "[A](/en/post/a/) [damp](/en/post/damp/) [climate](/en/post/climate/)" refers [to](/en/post/to/) [a](/en/post/a/) consistently [humid](/en/post/humid/) [environment](/en/post/environment/).
-- "Dampness [can](/en/post/can/) [cause](/en/post/cause/) mold [growth](/en/post/growth/)" highlights [the](/en/post/the/) [negative](/en/post/negative/) effects [of](/en/post/of/) humidity.
+- "Dampen [the](/post/the/) [cloth](/post/cloth/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [it](/post/it/) [wet](/post/wet/) [or](/post/or/) [less](/post/less/) absorbent.
+- "[A](/post/a/) [damp](/post/damp/) [climate](/post/climate/)" refers [to](/post/to/) [a](/post/a/) consistently [humid](/post/humid/) [environment](/post/environment/).
+- "Dampness [can](/post/can/) [cause](/post/cause/) mold [growth](/post/growth/)" highlights [the](/post/the/) [negative](/post/negative/) effects [of](/post/of/) humidity.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [book](/en/post/book/) had [a](/en/post/a/) musty, [damp](/en/post/damp/) [smell](/en/post/smell/) [from](/en/post/from/) [being](/en/post/being/) stored [in](/en/post/in/) [the](/en/post/the/) attic."
-- **[Verb](/en/post/verb/)**: "Leaving [the](/en/post/the/) windows [open](/en/post/open/) helped [to](/en/post/to/) [damp](/en/post/damp/) [the](/en/post/the/) [room](/en/post/room/) [and](/en/post/and/) [reduce](/en/post/reduce/) [the](/en/post/the/) humidity."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [damp](/en/post/damp/) [grass](/en/post/grass/) squelched [under](/en/post/under/) [his](/en/post/his/) feet [as](/en/post/as/) [he](/en/post/he/) walked [through](/en/post/through/) [the](/en/post/the/) [field](/en/post/field/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) [book](/post/book/) had [a](/post/a/) musty, [damp](/post/damp/) [smell](/post/smell/) [from](/post/from/) [being](/post/being/) stored [in](/post/in/) [the](/post/the/) attic."
+- **[Verb](/post/verb/)**: "Leaving [the](/post/the/) windows [open](/post/open/) helped [to](/post/to/) [damp](/post/damp/) [the](/post/the/) [room](/post/room/) [and](/post/and/) [reduce](/post/reduce/) [the](/post/the/) humidity."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [damp](/post/damp/) [grass](/post/grass/) squelched [under](/post/under/) [his](/post/his/) feet [as](/post/as/) [he](/post/he/) walked [through](/post/through/) [the](/post/the/) [field](/post/field/)."
 
 ## Synonyms
-- [Moist](/en/post/moist/)
+- [Moist](/post/moist/)
 - Dampened
 - Soggy
-- [Humid](/en/post/humid/)
+- [Humid](/post/humid/)
 - Undry
 
 ## Antonyms
-- [Dry](/en/post/dry/)
+- [Dry](/post/dry/)
 - Arid
-- [Dull](/en/post/dull/) ([in](/en/post/in/) terms [of](/en/post/of/) [atmosphere](/en/post/atmosphere/))
-- Watery (referring [to](/en/post/to/) [excess](/en/post/excess/) [moisture](/en/post/moisture/))
+- [Dull](/post/dull/) ([in](/post/in/) terms [of](/post/of/) [atmosphere](/post/atmosphere/))
+- Watery (referring [to](/post/to/) [excess](/post/excess/) [moisture](/post/moisture/))

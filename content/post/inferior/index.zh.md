@@ -11,20 +11,20 @@ keywords = ['ai words', 'inferior']
 /ɪnˈfɪriər/
 
 ## 释义
-- **形容词**: 较差的，次等的，低于标准的。例如: "[The](/post/the/) [inferior](/post/inferior/) [quality](/post/quality/) [of](/post/of/) [the](/post/the/) [product](/post/product/) led [to](/post/to/) [customer](/post/customer/) complaints."
-- **名词**: 下级，下属，较次的人或物。例如: "[He](/post/he/) was promoted [and](/post/and/) [left](/post/left/) [his](/post/his/) [former](/post/former/) [position](/post/position/) [as](/post/as/) an [inferior](/post/inferior/)."
+- **形容词**: 较差的，次等的，低于标准的。例如: "[The](/zh/post/the/) [inferior](/zh/post/inferior/) [quality](/zh/post/quality/) [of](/zh/post/of/) [the](/zh/post/the/) [product](/zh/post/product/) led [to](/zh/post/to/) [customer](/zh/post/customer/) complaints."
+- **名词**: 下级，下属，较次的人或物。例如: "[He](/zh/post/he/) was promoted [and](/zh/post/and/) [left](/zh/post/left/) [his](/zh/post/his/) [former](/zh/post/former/) [position](/zh/post/position/) [as](/zh/post/as/) an [inferior](/zh/post/inferior/)."
 
 ## 短语
-- "[Inferior](/post/inferior/) [to](/post/to/)" 比...低劣，不如...。例如: "[Her](/post/her/) [work](/post/work/) is [inferior](/post/inferior/) [to](/post/to/) [his](/post/his/) [in](/post/in/) terms [of](/post/of/) creativity."
-- "[Inferior](/post/inferior/) products" 指的是质量较差的产品。
+- "[Inferior](/zh/post/inferior/) [to](/zh/post/to/)" 比...低劣，不如...。例如: "[Her](/zh/post/her/) [work](/zh/post/work/) is [inferior](/zh/post/inferior/) [to](/zh/post/to/) [his](/zh/post/his/) [in](/zh/post/in/) terms [of](/zh/post/of/) creativity."
+- "[Inferior](/zh/post/inferior/) products" 指的是质量较差的产品。
 
 ## 例句
-- 形容词: "Don't [settle](/post/settle/) [for](/post/for/) [inferior](/post/inferior/) materials [when](/post/when/) [building](/post/building/) [your](/post/your/) [house](/post/house/)."
-- 名词: "[The](/post/the/) [general](/post/general/) treated [his](/post/his/) inferiors [with](/post/with/) [respect](/post/respect/)."
+- 形容词: "Don't [settle](/zh/post/settle/) [for](/zh/post/for/) [inferior](/zh/post/inferior/) materials [when](/zh/post/when/) [building](/zh/post/building/) [your](/zh/post/your/) [house](/zh/post/house/)."
+- 名词: "[The](/zh/post/the/) [general](/zh/post/general/) treated [his](/zh/post/his/) inferiors [with](/zh/post/with/) [respect](/zh/post/respect/)."
 
 ## 同义词
-- [Lower](/post/lower/)
+- [Lower](/zh/post/lower/)
 - Poorer
 - Substandard
 - Second-rate
-- [Less](/post/less/) [capable](/post/capable/)
+- [Less](/zh/post/less/) [capable](/zh/post/capable/)

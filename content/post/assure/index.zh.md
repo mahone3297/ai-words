@@ -11,19 +11,19 @@ keywords = ['ai words', 'assure']
 /əˈʃʊr/
 
 ## 释义
-- **动词**: 确保，保证。例如: "I [assure](/post/assure/) [you](/post/you/) [that](/post/that/) [everything](/post/everything/) [will](/post/will/) [be](/post/be/) alright." (我向你保证一切都会好起来的。)
-- **动词**: 使确信，使安心。例如: "[She](/post/she/) assured [her](/post/her/) friends [that](/post/that/) [she](/post/she/) was [feeling](/post/feeling/) [better](/post/better/)." (她向朋友们保证自己感觉好多了。)
+- **动词**: 确保，保证。例如: "I [assure](/zh/post/assure/) [you](/zh/post/you/) [that](/zh/post/that/) [everything](/zh/post/everything/) [will](/zh/post/will/) [be](/zh/post/be/) alright." (我向你保证一切都会好起来的。)
+- **动词**: 使确信，使安心。例如: "[She](/zh/post/she/) assured [her](/zh/post/her/) friends [that](/zh/post/that/) [she](/zh/post/she/) was [feeling](/zh/post/feeling/) [better](/zh/post/better/)." (她向朋友们保证自己感觉好多了。)
 
 ## 短语
-- "[assure](/post/assure/) sb. [of](/post/of/) sth." 确保某人某事，例如: "I assured [him](/post/him/) [of](/post/of/) [my](/post/my/) [support](/post/support/)." (我向他保证了我的支持。)
+- "[assure](/zh/post/assure/) sb. [of](/zh/post/of/) sth." 确保某人某事，例如: "I assured [him](/zh/post/him/) [of](/zh/post/of/) [my](/zh/post/my/) [support](/zh/post/support/)." (我向他保证了我的支持。)
 
 ## 例句
-- "[The](/post/the/) [company](/post/company/) assures [its](/post/its/) customers [of](/post/of/) high-quality products." (公司向顾客保证高质量的产品。)
-- "[The](/post/the/) [doctor](/post/doctor/) assured [the](/post/the/) [patient](/post/patient/) [that](/post/that/) [the](/post/the/) [operation](/post/operation/) was [a](/post/a/) [success](/post/success/)." (医生向病人保证手术成功了。)
+- "[The](/zh/post/the/) [company](/zh/post/company/) assures [its](/zh/post/its/) customers [of](/zh/post/of/) high-quality products." (公司向顾客保证高质量的产品。)
+- "[The](/zh/post/the/) [doctor](/zh/post/doctor/) assured [the](/zh/post/the/) [patient](/zh/post/patient/) [that](/zh/post/that/) [the](/zh/post/the/) [operation](/zh/post/operation/) was [a](/zh/post/a/) [success](/zh/post/success/)." (医生向病人保证手术成功了。)
 
 ## 同义词
-- [guarantee](/post/guarantee/)
-- [promise](/post/promise/)
+- [guarantee](/zh/post/guarantee/)
+- [promise](/zh/post/promise/)
 - reassure
-- [confirm](/post/confirm/)
+- [confirm](/zh/post/confirm/)
 - vow

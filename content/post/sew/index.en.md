@@ -7,38 +7,38 @@ description = '[sjuː] vt.缝制 vi.缝纫'
 keywords = ['ai words', 'sew']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[sew](/en/post/sew/)/
+## [Pronunciation](/post/pronunciation/)
+/[sew](/post/sew/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) fastening [or](/en/post/or/) attaching pieces [of](/en/post/of/) [fabric](/en/post/fabric/) [together](/en/post/together/) using针线 ([thread](/en/post/thread/)) [or](/en/post/or/) [a](/en/post/a/) sewing [machine](/en/post/machine/), [to](/en/post/to/) [make](/en/post/make/) [or](/en/post/or/) [mend](/en/post/mend/) [clothing](/en/post/clothing/) [or](/en/post/or/) [other](/en/post/other/) [textile](/en/post/textile/) items. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spent [her](/en/post/her/) [afternoon](/en/post/afternoon/) sewing [a](/en/post/a/) [new](/en/post/new/) [dress](/en/post/dress/)."
-2. [A](/en/post/a/) [stitch](/en/post/stitch/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) stitches [used](/en/post/used/) [for](/en/post/for/) [this](/en/post/this/) [purpose](/en/post/purpose/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) hem was securely sewn."
-3. [A](/en/post/a/) [small](/en/post/small/) [business](/en/post/business/) [or](/en/post/or/) [workshop](/en/post/workshop/) specializing [in](/en/post/in/) sewing [or](/en/post/or/) tailoring. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) opened [a](/en/post/a/) [small](/en/post/small/) sewing studio."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) fastening [or](/post/or/) attaching pieces [of](/post/of/) [fabric](/post/fabric/) [together](/post/together/) using针线 ([thread](/post/thread/)) [or](/post/or/) [a](/post/a/) sewing [machine](/post/machine/), [to](/post/to/) [make](/post/make/) [or](/post/or/) [mend](/post/mend/) [clothing](/post/clothing/) [or](/post/or/) [other](/post/other/) [textile](/post/textile/) items. [For](/post/for/) [example](/post/example/): "[She](/post/she/) spent [her](/post/her/) [afternoon](/post/afternoon/) sewing [a](/post/a/) [new](/post/new/) [dress](/post/dress/)."
+2. [A](/post/a/) [stitch](/post/stitch/) [or](/post/or/) [series](/post/series/) [of](/post/of/) stitches [used](/post/used/) [for](/post/for/) [this](/post/this/) [purpose](/post/purpose/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) hem was securely sewn."
+3. [A](/post/a/) [small](/post/small/) [business](/post/business/) [or](/post/or/) [workshop](/post/workshop/) specializing [in](/post/in/) sewing [or](/post/or/) tailoring. [For](/post/for/) [example](/post/example/): "[She](/post/she/) opened [a](/post/a/) [small](/post/small/) sewing studio."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [fasten](/en/post/fasten/) [or](/en/post/or/) [join](/en/post/join/) fabrics [or](/en/post/or/) materials [with](/en/post/with/) stitches [or](/en/post/or/) [a](/en/post/a/) sewing [machine](/en/post/machine/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sewed [a](/en/post/a/) [button](/en/post/button/) [back](/en/post/back/) [on](/en/post/on/) [the](/en/post/the/) [shirt](/en/post/shirt/)."
-2. [To](/en/post/to/) [perform](/en/post/perform/) [a](/en/post/a/) [repair](/en/post/repair/) [or](/en/post/or/) [fix](/en/post/fix/) using sewing techniques. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) sewed [up](/en/post/up/) [a](/en/post/a/) [tear](/en/post/tear/) [in](/en/post/in/) [his](/en/post/his/) pants."
-3. [To](/en/post/to/) [insert](/en/post/insert/) [or](/en/post/or/) affix [something](/en/post/something/) firmly, [like](/en/post/like/) [a](/en/post/a/) [pin](/en/post/pin/) [or](/en/post/or/) staple. [For](/en/post/for/) [example](/en/post/example/): "[Sew](/en/post/sew/) [a](/en/post/a/) [label](/en/post/label/) [onto](/en/post/onto/) [the](/en/post/the/) [inside](/en/post/inside/) [of](/en/post/of/) [the](/en/post/the/) garment."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [fasten](/post/fasten/) [or](/post/or/) [join](/post/join/) fabrics [or](/post/or/) materials [with](/post/with/) stitches [or](/post/or/) [a](/post/a/) sewing [machine](/post/machine/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) sewed [a](/post/a/) [button](/post/button/) [back](/post/back/) [on](/post/on/) [the](/post/the/) [shirt](/post/shirt/)."
+2. [To](/post/to/) [perform](/post/perform/) [a](/post/a/) [repair](/post/repair/) [or](/post/or/) [fix](/post/fix/) using sewing techniques. [For](/post/for/) [example](/post/example/): "[He](/post/he/) sewed [up](/post/up/) [a](/post/a/) [tear](/post/tear/) [in](/post/in/) [his](/post/his/) pants."
+3. [To](/post/to/) [insert](/post/insert/) [or](/post/or/) affix [something](/post/something/) firmly, [like](/post/like/) [a](/post/a/) [pin](/post/pin/) [or](/post/or/) staple. [For](/post/for/) [example](/post/example/): "[Sew](/post/sew/) [a](/post/a/) [label](/post/label/) [onto](/post/onto/) [the](/post/the/) [inside](/post/inside/) [of](/post/of/) [the](/post/the/) garment."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) sewing [or](/en/post/or/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) sewing. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) sewing [machine](/en/post/machine/) is an [essential](/en/post/essential/) [tool](/en/post/tool/) [for](/en/post/for/) [a](/en/post/a/) seamstress."
-2. Made [by](/en/post/by/) sewing, [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) sewn [patch](/en/post/patch/) [or](/en/post/or/) sewn-on decoration. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [quilt](/en/post/quilt/) was beautifully sewn [by](/en/post/by/) [her](/en/post/her/) [grandmother](/en/post/grandmother/)."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) sewing [or](/post/or/) [the](/post/the/) [act](/post/act/) [of](/post/of/) sewing. [For](/post/for/) [example](/post/example/): "[A](/post/a/) sewing [machine](/post/machine/) is an [essential](/post/essential/) [tool](/post/tool/) [for](/post/for/) [a](/post/a/) seamstress."
+2. Made [by](/post/by/) sewing, [as](/post/as/) [in](/post/in/) [a](/post/a/) sewn [patch](/post/patch/) [or](/post/or/) sewn-on decoration. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [quilt](/post/quilt/) was beautifully sewn [by](/post/by/) [her](/post/her/) [grandmother](/post/grandmother/)."
 
 ## Phrases
-- "[Do](/en/post/do/) [some](/en/post/some/) sewing" implies working [on](/en/post/on/) [a](/en/post/a/) sewing [project](/en/post/project/).
-- "[Learn](/en/post/learn/) [to](/en/post/to/) [sew](/en/post/sew/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) [for](/en/post/for/) taking [up](/en/post/up/) [the](/en/post/the/) [skill](/en/post/skill/).
-- "Sewing kit" refers [to](/en/post/to/) [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) tools [and](/en/post/and/) materials [for](/en/post/for/) sewing.
+- "[Do](/post/do/) [some](/post/some/) sewing" implies working [on](/post/on/) [a](/post/a/) sewing [project](/post/project/).
+- "[Learn](/post/learn/) [to](/post/to/) [sew](/post/sew/)" is [a](/post/a/) [phrase](/post/phrase/) [for](/post/for/) taking [up](/post/up/) [the](/post/the/) [skill](/post/skill/).
+- "Sewing kit" refers [to](/post/to/) [a](/post/a/) [collection](/post/collection/) [of](/post/of/) tools [and](/post/and/) materials [for](/post/for/) sewing.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) displayed [her](/en/post/her/) handmade quilts, [each](/en/post/each/) [one](/en/post/one/) sewn [with](/en/post/with/) [love](/en/post/love/) [and](/en/post/and/) [care](/en/post/care/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [her](/en/post/her/) homework, [she](/en/post/she/) decided [to](/en/post/to/) [sew](/en/post/sew/) [a](/en/post/a/) [little](/en/post/little/) [patch](/en/post/patch/) [onto](/en/post/onto/) [her](/en/post/her/) backpack."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sewn decorations [on](/en/post/on/) [the](/en/post/the/) curtains added [a](/en/post/a/) [personal](/en/post/personal/) [touch](/en/post/touch/) [to](/en/post/to/) [the](/en/post/the/) [room](/en/post/room/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) displayed [her](/post/her/) handmade quilts, [each](/post/each/) [one](/post/one/) sewn [with](/post/with/) [love](/post/love/) [and](/post/and/) [care](/post/care/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) finishing [her](/post/her/) homework, [she](/post/she/) decided [to](/post/to/) [sew](/post/sew/) [a](/post/a/) [little](/post/little/) [patch](/post/patch/) [onto](/post/onto/) [her](/post/her/) backpack."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sewn decorations [on](/post/on/) [the](/post/the/) curtains added [a](/post/a/) [personal](/post/personal/) [touch](/post/touch/) [to](/post/to/) [the](/post/the/) [room](/post/room/)."
 
 ## Synonyms
-- [Stitch](/en/post/stitch/)
-- [Mend](/en/post/mend/)
-- [Tailor](/en/post/tailor/)
+- [Stitch](/post/stitch/)
+- [Mend](/post/mend/)
+- [Tailor](/post/tailor/)
 - Hem
 - Repairs
 - Sewing arts

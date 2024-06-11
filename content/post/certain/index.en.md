@@ -7,34 +7,34 @@ description = '[ˈsəːtən] a.确实的；肯定的'
 keywords = ['ai words', 'certain']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsɜːtn/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Marking [something](/en/post/something/) [as](/en/post/as/) [definitely](/en/post/definitely/) [true](/en/post/true/) [or](/en/post/or/) fixed; [without](/en/post/without/) [doubt](/en/post/doubt/) [or](/en/post/or/) uncertainty. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [answer](/en/post/answer/) is [certain](/en/post/certain/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [or](/en/post/or/) [exact](/en/post/exact/) [manner](/en/post/manner/); [definitely](/en/post/definitely/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [certain](/en/post/certain/) [about](/en/post/about/) [her](/en/post/her/) [decision](/en/post/decision/)."
-- **[Pronoun](/en/post/pronoun/)**: [Used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is known [or](/en/post/or/) agreed [upon](/en/post/upon/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) are [certain](/en/post/certain/) [of](/en/post/of/) [our](/en/post/our/) [victory](/en/post/victory/)."
+- **[Adjective](/post/adjective/)**: Marking [something](/post/something/) [as](/post/as/) [definitely](/post/definitely/) [true](/post/true/) [or](/post/or/) fixed; [without](/post/without/) [doubt](/post/doubt/) [or](/post/or/) uncertainty. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [answer](/post/answer/) is [certain](/post/certain/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [particular](/post/particular/) [or](/post/or/) [exact](/post/exact/) [manner](/post/manner/); [definitely](/post/definitely/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [certain](/post/certain/) [about](/post/about/) [her](/post/her/) [decision](/post/decision/)."
+- **[Pronoun](/post/pronoun/)**: [Used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [that](/post/that/) is known [or](/post/or/) agreed [upon](/post/upon/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) are [certain](/post/certain/) [of](/post/of/) [our](/post/our/) [victory](/post/victory/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [certain](/en/post/certain/) [of](/en/post/of/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [complete](/en/post/complete/) [confidence](/en/post/confidence/) [or](/en/post/or/) assurance.
-- "[Certain](/en/post/certain/) conditions [apply](/en/post/apply/)" indicates [specific](/en/post/specific/) requirements [must](/en/post/must/) [be](/en/post/be/) met.
-- "[Certainly](/en/post/certainly/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [agreement](/en/post/agreement/) [or](/en/post/or/) [certainty](/en/post/certainty/), [like](/en/post/like/) "[Certainly](/en/post/certainly/), I'll [help](/en/post/help/) [you](/en/post/you/)."
+- "[Be](/post/be/) [certain](/post/certain/) [of](/post/of/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [complete](/post/complete/) [confidence](/post/confidence/) [or](/post/or/) assurance.
+- "[Certain](/post/certain/) conditions [apply](/post/apply/)" indicates [specific](/post/specific/) requirements [must](/post/must/) [be](/post/be/) met.
+- "[Certainly](/post/certainly/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [agreement](/post/agreement/) [or](/post/or/) [certainty](/post/certainty/), [like](/post/like/) "[Certainly](/post/certainly/), I'll [help](/post/help/) [you](/post/you/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[There](/en/post/there/) is [no](/en/post/no/) [certain](/en/post/certain/) [answer](/en/post/answer/) [to](/en/post/to/) [this](/en/post/this/) [question](/en/post/question/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) was [certain](/en/post/certain/) [to](/en/post/to/) [arrive](/en/post/arrive/) [on](/en/post/on/) [time](/en/post/time/)."
-- **[Pronoun](/en/post/pronoun/)**: "[Everyone](/en/post/everyone/) is [certain](/en/post/certain/) [that](/en/post/that/) [the](/en/post/the/) [project](/en/post/project/) [will](/en/post/will/) [succeed](/en/post/succeed/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[There](/post/there/) is [no](/post/no/) [certain](/post/certain/) [answer](/post/answer/) [to](/post/to/) [this](/post/this/) [question](/post/question/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) was [certain](/post/certain/) [to](/post/to/) [arrive](/post/arrive/) [on](/post/on/) [time](/post/time/)."
+- **[Pronoun](/post/pronoun/)**: "[Everyone](/post/everyone/) is [certain](/post/certain/) [that](/post/that/) [the](/post/the/) [project](/post/project/) [will](/post/will/) [succeed](/post/succeed/)."
 
 ## Synonyms
-- [Sure](/en/post/sure/)
-- [Positive](/en/post/positive/)
+- [Sure](/post/sure/)
+- [Positive](/post/positive/)
 - Indisputable
-- [Absolute](/en/post/absolute/)
-- [Definite](/en/post/definite/)
+- [Absolute](/post/absolute/)
+- [Definite](/post/definite/)
 
 ## Antonyms
-- [Uncertain](/en/post/uncertain/)
-- [Doubtful](/en/post/doubtful/)
+- [Uncertain](/post/uncertain/)
+- [Doubtful](/post/doubtful/)
 - Hesitant
 - Ambiguous
-- [Vague](/en/post/vague/)
+- [Vague](/post/vague/)

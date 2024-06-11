@@ -7,22 +7,22 @@ description = '[pain] n.松树，松木'
 keywords = ['ai words', 'pine']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /paɪn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (1) [A](/en/post/a/) coniferous [tree](/en/post/tree/) [with](/en/post/with/) needle-like leaves, [often](/en/post/often/) having resinous sap, [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) [pine](/en/post/pine/) [tree](/en/post/tree/). (2) [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [wood](/en/post/wood/) derived [from](/en/post/from/) pines. (3) [The](/en/post/the/) [smell](/en/post/smell/) [or](/en/post/or/) [taste](/en/post/taste/) [of](/en/post/of/) [pine](/en/post/pine/) needles. (4) [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) nostalgia [or](/en/post/or/) longing [for](/en/post/for/) [something](/en/post/something/) [in](/en/post/in/) [the](/en/post/the/) [past](/en/post/past/) [or](/en/post/or/) [far](/en/post/far/) [away](/en/post/away/). (5) [A](/en/post/a/) [musical](/en/post/musical/) [instrument](/en/post/instrument/), [similar](/en/post/similar/) [to](/en/post/to/) [a](/en/post/a/) guitar, [with](/en/post/with/) [metal](/en/post/metal/) strings [and](/en/post/and/) [a](/en/post/a/) resonating [chamber](/en/post/chamber/).
-- **[Verb](/en/post/verb/)**: (1) [To](/en/post/to/) [grow](/en/post/grow/) [or](/en/post/or/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [large](/en/post/large/) quantities [of](/en/post/of/) [pine](/en/post/pine/) trees. (2) [To](/en/post/to/) [express](/en/post/express/) [a](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [or](/en/post/or/) [preference](/en/post/preference/) [for](/en/post/for/) [something](/en/post/something/), [often](/en/post/often/) [through](/en/post/through/) sighing [or](/en/post/or/) yearning. (3) (informal) [To](/en/post/to/) [play](/en/post/play/) [the](/en/post/the/) [pine](/en/post/pine/) ([musical](/en/post/musical/) [instrument](/en/post/instrument/)).
+- **[Noun](/post/noun/)**: (1) [A](/post/a/) coniferous [tree](/post/tree/) [with](/post/with/) needle-like leaves, [often](/post/often/) having resinous sap, [such](/post/such/) [as](/post/as/) [the](/post/the/) [pine](/post/pine/) [tree](/post/tree/). (2) [A](/post/a/) [type](/post/type/) [of](/post/of/) [wood](/post/wood/) derived [from](/post/from/) pines. (3) [The](/post/the/) [smell](/post/smell/) [or](/post/or/) [taste](/post/taste/) [of](/post/of/) [pine](/post/pine/) needles. (4) [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) nostalgia [or](/post/or/) longing [for](/post/for/) [something](/post/something/) [in](/post/in/) [the](/post/the/) [past](/post/past/) [or](/post/or/) [far](/post/far/) [away](/post/away/). (5) [A](/post/a/) [musical](/post/musical/) [instrument](/post/instrument/), [similar](/post/similar/) [to](/post/to/) [a](/post/a/) guitar, [with](/post/with/) [metal](/post/metal/) strings [and](/post/and/) [a](/post/a/) resonating [chamber](/post/chamber/).
+- **[Verb](/post/verb/)**: (1) [To](/post/to/) [grow](/post/grow/) [or](/post/or/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [large](/post/large/) quantities [of](/post/of/) [pine](/post/pine/) trees. (2) [To](/post/to/) [express](/post/express/) [a](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [or](/post/or/) [preference](/post/preference/) [for](/post/for/) [something](/post/something/), [often](/post/often/) [through](/post/through/) sighing [or](/post/or/) yearning. (3) (informal) [To](/post/to/) [play](/post/play/) [the](/post/the/) [pine](/post/pine/) ([musical](/post/musical/) [instrument](/post/instrument/)).
 
 ## Phrases
-- "[Pine](/en/post/pine/) [for](/en/post/for/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [long](/en/post/long/) [or](/en/post/or/) yearn [for](/en/post/for/) [something](/en/post/something/).
-- "[A](/en/post/a/) [pine](/en/post/pine/) [forest](/en/post/forest/)" refers [to](/en/post/to/) an [area](/en/post/area/) dominated [by](/en/post/by/) [pine](/en/post/pine/) trees.
-- "[The](/en/post/the/) [scent](/en/post/scent/) [of](/en/post/of/) [pine](/en/post/pine/)" denotes [the](/en/post/the/) [fresh](/en/post/fresh/), woodsy aroma.
+- "[Pine](/post/pine/) [for](/post/for/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [long](/post/long/) [or](/post/or/) yearn [for](/post/for/) [something](/post/something/).
+- "[A](/post/a/) [pine](/post/pine/) [forest](/post/forest/)" refers [to](/post/to/) an [area](/post/area/) dominated [by](/post/by/) [pine](/post/pine/) trees.
+- "[The](/post/the/) [scent](/post/scent/) [of](/post/of/) [pine](/post/pine/)" denotes [the](/post/the/) [fresh](/post/fresh/), woodsy aroma.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children loved [to](/en/post/to/) [build](/en/post/build/) forts [in](/en/post/in/) [the](/en/post/the/) [pine](/en/post/pine/) woods."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) pines [for](/en/post/for/) [the](/en/post/the/) days [when](/en/post/when/) [they](/en/post/they/) spent summers [at](/en/post/at/) [the](/en/post/the/) [lake](/en/post/lake/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[He](/en/post/he/) pined [away](/en/post/away/) [for](/en/post/for/) [her](/en/post/her/), [unable](/en/post/unable/) [to](/en/post/to/) [forget](/en/post/forget/) [their](/en/post/their/) [past](/en/post/past/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children loved [to](/post/to/) [build](/post/build/) forts [in](/post/in/) [the](/post/the/) [pine](/post/pine/) woods."
+- **[Verb](/post/verb/)**: "[She](/post/she/) pines [for](/post/for/) [the](/post/the/) days [when](/post/when/) [they](/post/they/) spent summers [at](/post/at/) [the](/post/the/) [lake](/post/lake/)."
+- **Phrasal [Verb](/post/verb/)**: "[He](/post/he/) pined [away](/post/away/) [for](/post/for/) [her](/post/her/), [unable](/post/unable/) [to](/post/to/) [forget](/post/forget/) [their](/post/their/) [past](/post/past/)."
 
 ## Synonyms
 - Conifer
@@ -35,7 +35,7 @@ keywords = ['ai words', 'pine']
 - Admiration
 
 ## Antonyms
-- [Despair](/en/post/despair/)
+- [Despair](/post/despair/)
 - Disinterest
-- [Neglect](/en/post/neglect/)
+- [Neglect](/post/neglect/)
 - Abandonment

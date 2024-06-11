@@ -7,35 +7,35 @@ description = '[ˈpeinful] a.使痛的；费力的'
 keywords = ['ai words', 'painful']
 +++
 
-## [Word](/en/post/word/): [Painful](/en/post/painful/)
+## [Word](/post/word/): [Painful](/post/painful/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈpeɪnfl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Causing [physical](/en/post/physical/) [or](/en/post/or/) [emotional](/en/post/emotional/) [pain](/en/post/pain/); distressing [or](/en/post/or/) [difficult](/en/post/difficult/) [to](/en/post/to/) [experience](/en/post/experience/) [or](/en/post/or/) [endure](/en/post/endure/). 
+- **[Adjective](/post/adjective/)**: Causing [physical](/post/physical/) [or](/post/or/) [emotional](/post/emotional/) [pain](/post/pain/); distressing [or](/post/or/) [difficult](/post/difficult/) [to](/post/to/) [experience](/post/experience/) [or](/post/or/) [endure](/post/endure/). 
 
 ### Examples:
-- **[Physical](/en/post/physical/) [pain](/en/post/pain/)**: "[The](/en/post/the/) [recovery](/en/post/recovery/) [from](/en/post/from/) [surgery](/en/post/surgery/) was [painful](/en/post/painful/)."
-- **[Emotional](/en/post/emotional/) [pain](/en/post/pain/)**: "[It](/en/post/it/) was [a](/en/post/a/) [painful](/en/post/painful/) realization [that](/en/post/that/) [she](/en/post/she/) had lost [all](/en/post/all/) [her](/en/post/her/) savings."
+- **[Physical](/post/physical/) [pain](/post/pain/)**: "[The](/post/the/) [recovery](/post/recovery/) [from](/post/from/) [surgery](/post/surgery/) was [painful](/post/painful/)."
+- **[Emotional](/post/emotional/) [pain](/post/pain/)**: "[It](/post/it/) was [a](/post/a/) [painful](/post/painful/) realization [that](/post/that/) [she](/post/she/) had lost [all](/post/all/) [her](/post/her/) savings."
 
 #### Phrases
-- "[A](/en/post/a/) [painful](/en/post/painful/) [process](/en/post/process/)": Refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) involves [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [difficulty](/en/post/difficulty/) [or](/en/post/or/) discomfort.
-- "[Painful](/en/post/painful/) memories": [Past](/en/post/past/) experiences [that](/en/post/that/) [cause](/en/post/cause/) [emotional](/en/post/emotional/) [distress](/en/post/distress/) [when](/en/post/when/) remembered.
-- "[Painful](/en/post/painful/) [to](/en/post/to/) [watch](/en/post/watch/)": Describes [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [performance](/en/post/performance/) [that](/en/post/that/) is [so](/en/post/so/) [awkward](/en/post/awkward/) [or](/en/post/or/) [poor](/en/post/poor/) [that](/en/post/that/) it's [hard](/en/post/hard/) [to](/en/post/to/) [observe](/en/post/observe/) [without](/en/post/without/) [feeling](/en/post/feeling/) [uncomfortable](/en/post/uncomfortable/).
+- "[A](/post/a/) [painful](/post/painful/) [process](/post/process/)": Refers [to](/post/to/) [something](/post/something/) [that](/post/that/) involves [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [difficulty](/post/difficulty/) [or](/post/or/) discomfort.
+- "[Painful](/post/painful/) memories": [Past](/post/past/) experiences [that](/post/that/) [cause](/post/cause/) [emotional](/post/emotional/) [distress](/post/distress/) [when](/post/when/) remembered.
+- "[Painful](/post/painful/) [to](/post/to/) [watch](/post/watch/)": Describes [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [performance](/post/performance/) [that](/post/that/) is [so](/post/so/) [awkward](/post/awkward/) [or](/post/or/) [poor](/post/poor/) [that](/post/that/) it's [hard](/post/hard/) [to](/post/to/) [observe](/post/observe/) [without](/post/without/) [feeling](/post/feeling/) [uncomfortable](/post/uncomfortable/).
 
-## [Example](/en/post/example/) Sentences
-- **[Physical](/en/post/physical/) [pain](/en/post/pain/)**: "[Her](/en/post/her/) [ankle](/en/post/ankle/) twisted painfully [as](/en/post/as/) [she](/en/post/she/) stepped [off](/en/post/off/) [the](/en/post/the/) curb."
-- **[Emotional](/en/post/emotional/) [pain](/en/post/pain/)**: "[It](/en/post/it/) was [painful](/en/post/painful/) [for](/en/post/for/) [him](/en/post/him/) [to](/en/post/to/) [see](/en/post/see/) [his](/en/post/his/) [childhood](/en/post/childhood/) [home](/en/post/home/) [being](/en/post/being/) demolished."
+## [Example](/post/example/) Sentences
+- **[Physical](/post/physical/) [pain](/post/pain/)**: "[Her](/post/her/) [ankle](/post/ankle/) twisted painfully [as](/post/as/) [she](/post/she/) stepped [off](/post/off/) [the](/post/the/) curb."
+- **[Emotional](/post/emotional/) [pain](/post/pain/)**: "[It](/post/it/) was [painful](/post/painful/) [for](/post/for/) [him](/post/him/) [to](/post/to/) [see](/post/see/) [his](/post/his/) [childhood](/post/childhood/) [home](/post/home/) [being](/post/being/) demolished."
 
 ## Synonyms
 - Aching
-- [Unpleasant](/en/post/unpleasant/)
+- [Unpleasant](/post/unpleasant/)
 - Distressing
 - Harrowing
 - Excruciating
 - Agonizing
 - Tormenting
-- Sorrowful ([for](/en/post/for/) [emotional](/en/post/emotional/) [pain](/en/post/pain/))
+- Sorrowful ([for](/post/for/) [emotional](/post/emotional/) [pain](/post/pain/))
 - Heart-wrenching
-- Grievous ([for](/en/post/for/) [serious](/en/post/serious/) [or](/en/post/or/) [intense](/en/post/intense/) [pain](/en/post/pain/))
+- Grievous ([for](/post/for/) [serious](/post/serious/) [or](/post/or/) [intense](/post/intense/) [pain](/post/pain/))

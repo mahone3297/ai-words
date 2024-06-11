@@ -7,40 +7,40 @@ description = '[riˈpɔːt] vt.&vi.报告；汇报'
 keywords = ['ai words', 'report']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈpɔːrt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [report](/en/post/report/)** is [a](/en/post/a/) written [or](/en/post/or/) [oral](/en/post/oral/) [summary](/en/post/summary/) [of](/en/post/of/) [information](/en/post/information/), findings, [or](/en/post/or/) events, typically prepared [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/), [such](/en/post/such/) [as](/en/post/as/) [to](/en/post/to/) [inform](/en/post/inform/), analyze, [or](/en/post/or/) [evaluate](/en/post/evaluate/). [Example](/en/post/example/): "[The](/en/post/the/) manager submitted [a](/en/post/a/) [progress](/en/post/progress/) [report](/en/post/report/) [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/)."
-2. **[Financial](/en/post/financial/) [report](/en/post/report/)** - [A](/en/post/a/) [document](/en/post/document/) detailing [a](/en/post/a/) company's [financial](/en/post/financial/) [performance](/en/post/performance/). [Example](/en/post/example/): "[The](/en/post/the/) [quarterly](/en/post/quarterly/) earnings [report](/en/post/report/) showed [a](/en/post/a/) [significant](/en/post/significant/) [increase](/en/post/increase/) [in](/en/post/in/) profits."
-3. **[Crime](/en/post/crime/) [report](/en/post/report/)** - [A](/en/post/a/) [record](/en/post/record/) [of](/en/post/of/) [a](/en/post/a/) [crime](/en/post/crime/) committed. [Example](/en/post/example/): "[The](/en/post/the/) [police](/en/post/police/) issued [a](/en/post/a/) [report](/en/post/report/) [on](/en/post/on/) [the](/en/post/the/) [recent](/en/post/recent/) theft."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [report](/post/report/)** is [a](/post/a/) written [or](/post/or/) [oral](/post/oral/) [summary](/post/summary/) [of](/post/of/) [information](/post/information/), findings, [or](/post/or/) events, typically prepared [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/), [such](/post/such/) [as](/post/as/) [to](/post/to/) [inform](/post/inform/), analyze, [or](/post/or/) [evaluate](/post/evaluate/). [Example](/post/example/): "[The](/post/the/) manager submitted [a](/post/a/) [progress](/post/progress/) [report](/post/report/) [on](/post/on/) [the](/post/the/) [project](/post/project/)."
+2. **[Financial](/post/financial/) [report](/post/report/)** - [A](/post/a/) [document](/post/document/) detailing [a](/post/a/) company's [financial](/post/financial/) [performance](/post/performance/). [Example](/post/example/): "[The](/post/the/) [quarterly](/post/quarterly/) earnings [report](/post/report/) showed [a](/post/a/) [significant](/post/significant/) [increase](/post/increase/) [in](/post/in/) profits."
+3. **[Crime](/post/crime/) [report](/post/report/)** - [A](/post/a/) [record](/post/record/) [of](/post/of/) [a](/post/a/) [crime](/post/crime/) committed. [Example](/post/example/): "[The](/post/the/) [police](/post/police/) issued [a](/post/a/) [report](/post/report/) [on](/post/on/) [the](/post/the/) [recent](/post/recent/) theft."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [compile](/en/post/compile/) [or](/en/post/or/) [prepare](/en/post/prepare/) [a](/en/post/a/) [report](/en/post/report/). [Example](/en/post/example/): "[She](/en/post/she/) was tasked [with](/en/post/with/) reporting [on](/en/post/on/) [the](/en/post/the/) [meeting](/en/post/meeting/) proceedings."
-2. [To](/en/post/to/) [give](/en/post/give/) an [account](/en/post/account/) [or](/en/post/or/) [description](/en/post/description/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[He](/en/post/he/) reported [the](/en/post/the/) [incident](/en/post/incident/) [to](/en/post/to/) [the](/en/post/the/) authorities."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [compile](/post/compile/) [or](/post/or/) [prepare](/post/prepare/) [a](/post/a/) [report](/post/report/). [Example](/post/example/): "[She](/post/she/) was tasked [with](/post/with/) reporting [on](/post/on/) [the](/post/the/) [meeting](/post/meeting/) proceedings."
+2. [To](/post/to/) [give](/post/give/) an [account](/post/account/) [or](/post/or/) [description](/post/description/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[He](/post/he/) reported [the](/post/the/) [incident](/post/incident/) [to](/post/to/) [the](/post/the/) authorities."
 
-### [Adjective](/en/post/adjective/)
-1. [Relevant](/en/post/relevant/) [or](/en/post/or/) pertinent [to](/en/post/to/) [a](/en/post/a/) given [topic](/en/post/topic/) [or](/en/post/or/) [situation](/en/post/situation/). [Example](/en/post/example/): "[The](/en/post/the/) [report](/en/post/report/) findings were [highly](/en/post/highly/) [relevant](/en/post/relevant/) [to](/en/post/to/) [our](/en/post/our/) [research](/en/post/research/)."
+### [Adjective](/post/adjective/)
+1. [Relevant](/post/relevant/) [or](/post/or/) pertinent [to](/post/to/) [a](/post/a/) given [topic](/post/topic/) [or](/post/or/) [situation](/post/situation/). [Example](/post/example/): "[The](/post/the/) [report](/post/report/) findings were [highly](/post/highly/) [relevant](/post/relevant/) [to](/post/to/) [our](/post/our/) [research](/post/research/)."
 
 ## Phrases
-- "[Submit](/en/post/submit/) [a](/en/post/a/) [report](/en/post/report/)" [means](/en/post/means/) [to](/en/post/to/) [send](/en/post/send/) [or](/en/post/or/) [present](/en/post/present/) [a](/en/post/a/) written [report](/en/post/report/) [to](/en/post/to/) [someone](/en/post/someone/).
-- "[Read](/en/post/read/) [the](/en/post/the/) [report](/en/post/report/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) reviewing [a](/en/post/a/) [document](/en/post/document/).
-- "[Draft](/en/post/draft/) [a](/en/post/a/) [report](/en/post/report/)" refers [to](/en/post/to/) creating [a](/en/post/a/) [preliminary](/en/post/preliminary/) [version](/en/post/version/) [of](/en/post/of/) [a](/en/post/a/) [report](/en/post/report/).
+- "[Submit](/post/submit/) [a](/post/a/) [report](/post/report/)" [means](/post/means/) [to](/post/to/) [send](/post/send/) [or](/post/or/) [present](/post/present/) [a](/post/a/) written [report](/post/report/) [to](/post/to/) [someone](/post/someone/).
+- "[Read](/post/read/) [the](/post/the/) [report](/post/report/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) reviewing [a](/post/a/) [document](/post/document/).
+- "[Draft](/post/draft/) [a](/post/a/) [report](/post/report/)" refers [to](/post/to/) creating [a](/post/a/) [preliminary](/post/preliminary/) [version](/post/version/) [of](/post/of/) [a](/post/a/) [report](/post/report/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [team](/en/post/team/) submitted [a](/en/post/a/) [comprehensive](/en/post/comprehensive/) [report](/en/post/report/) [on](/en/post/on/) [their](/en/post/their/) findings."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [experiment](/en/post/experiment/), [he](/en/post/he/) reported [his](/en/post/his/) observations [to](/en/post/to/) [the](/en/post/the/) [lab](/en/post/lab/) supervisor."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [report](/en/post/report/) highlighted [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) sustainable practices [in](/en/post/in/) [business](/en/post/business/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [team](/post/team/) submitted [a](/post/a/) [comprehensive](/post/comprehensive/) [report](/post/report/) [on](/post/on/) [their](/post/their/) findings."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [experiment](/post/experiment/), [he](/post/he/) reported [his](/post/his/) observations [to](/post/to/) [the](/post/the/) [lab](/post/lab/) supervisor."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [report](/post/report/) highlighted [the](/post/the/) [importance](/post/importance/) [of](/post/of/) sustainable practices [in](/post/in/) [business](/post/business/)."
 
 ## Synonyms
-- [Account](/en/post/account/)
-- [Summary](/en/post/summary/)
+- [Account](/post/account/)
+- [Summary](/post/summary/)
 - Overview
-- [Record](/en/post/record/)
-- [Statement](/en/post/statement/)
+- [Record](/post/record/)
+- [Statement](/post/statement/)
 - Narrative
-- [Analysis](/en/post/analysis/)
+- [Analysis](/post/analysis/)
 - Evaluation
 
 ## Antonyms
@@ -48,4 +48,4 @@ keywords = ['ai words', 'report']
 - Fabrication
 - Omission
 - Inaccuracy
-- [Lack](/en/post/lack/) [of](/en/post/of/) [detail](/en/post/detail/)
+- [Lack](/post/lack/) [of](/post/of/) [detail](/post/detail/)

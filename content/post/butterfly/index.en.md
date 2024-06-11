@@ -7,32 +7,32 @@ description = '[ˈbʌtəflai] n.蝴蝶'
 keywords = ['ai words', 'butterfly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bəˈtɪflaʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [butterfly](/en/post/butterfly/) is [a](/en/post/a/) **[insect](/en/post/insect/)** [from](/en/post/from/) [the](/en/post/the/) [order](/en/post/order/) Lepidoptera, known [for](/en/post/for/) [its](/en/post/its/) colorful wings, [often](/en/post/often/) having [a](/en/post/a/) [life](/en/post/life/) [cycle](/en/post/cycle/) [that](/en/post/that/) includes [a](/en/post/a/) caterpillar, chrysalis, [and](/en/post/and/) [adult](/en/post/adult/) stages. [They](/en/post/they/) are [often](/en/post/often/) associated [with](/en/post/with/) [spring](/en/post/spring/) [and](/en/post/and/) [beauty](/en/post/beauty/).
+### [Noun](/post/noun/)
+[A](/post/a/) [butterfly](/post/butterfly/) is [a](/post/a/) **[insect](/post/insect/)** [from](/post/from/) [the](/post/the/) [order](/post/order/) Lepidoptera, known [for](/post/for/) [its](/post/its/) colorful wings, [often](/post/often/) having [a](/post/a/) [life](/post/life/) [cycle](/post/cycle/) [that](/post/that/) includes [a](/post/a/) caterpillar, chrysalis, [and](/post/and/) [adult](/post/adult/) stages. [They](/post/they/) are [often](/post/often/) associated [with](/post/with/) [spring](/post/spring/) [and](/post/and/) [beauty](/post/beauty/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [butterfly](/en/post/butterfly/) (informal) [means](/en/post/means/) [to](/en/post/to/) [move](/en/post/move/) [quickly](/en/post/quickly/) [or](/en/post/or/) nervously [from](/en/post/from/) [one](/en/post/one/) [thing](/en/post/thing/) [to](/en/post/to/) [another](/en/post/another/), [or](/en/post/or/) [to](/en/post/to/) fidget. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [technique](/en/post/technique/) [in](/en/post/in/) cooking [where](/en/post/where/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [meat](/en/post/meat/) is flattened [by](/en/post/by/) pounding [or](/en/post/or/) pressing.
+### [Verb](/post/verb/)
+[To](/post/to/) [butterfly](/post/butterfly/) (informal) [means](/post/means/) [to](/post/to/) [move](/post/move/) [quickly](/post/quickly/) [or](/post/or/) nervously [from](/post/from/) [one](/post/one/) [thing](/post/thing/) [to](/post/to/) [another](/post/another/), [or](/post/or/) [to](/post/to/) fidget. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [technique](/post/technique/) [in](/post/in/) cooking [where](/post/where/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [meat](/post/meat/) is flattened [by](/post/by/) pounding [or](/post/or/) pressing.
 
-### [Adjective](/en/post/adjective/)
-"Butterfly-like" describes [something](/en/post/something/) [with](/en/post/with/) [delicate](/en/post/delicate/), [graceful](/en/post/graceful/), [or](/en/post/or/) colorful patterns, resembling [those](/en/post/those/) [of](/en/post/of/) [a](/en/post/a/) [butterfly](/en/post/butterfly/).
+### [Adjective](/post/adjective/)
+"Butterfly-like" describes [something](/post/something/) [with](/post/with/) [delicate](/post/delicate/), [graceful](/post/graceful/), [or](/post/or/) colorful patterns, resembling [those](/post/those/) [of](/post/of/) [a](/post/a/) [butterfly](/post/butterfly/).
 
-### [Adverb](/en/post/adverb/)
-"Butterfly-effect" refers [to](/en/post/to/) [the](/en/post/the/) [idea](/en/post/idea/) [that](/en/post/that/) [small](/en/post/small/) changes [in](/en/post/in/) [initial](/en/post/initial/) conditions [can](/en/post/can/) [lead](/en/post/lead/) [to](/en/post/to/) large-scale effects, inspired [by](/en/post/by/) [the](/en/post/the/) notion [that](/en/post/that/) [the](/en/post/the/) flap [of](/en/post/of/) [a](/en/post/a/) butterfly's wings [in](/en/post/in/) Brazil [could](/en/post/could/) [cause](/en/post/cause/) [a](/en/post/a/) tornado [in](/en/post/in/) Texas.
+### [Adverb](/post/adverb/)
+"Butterfly-effect" refers [to](/post/to/) [the](/post/the/) [idea](/post/idea/) [that](/post/that/) [small](/post/small/) changes [in](/post/in/) [initial](/post/initial/) conditions [can](/post/can/) [lead](/post/lead/) [to](/post/to/) large-scale effects, inspired [by](/post/by/) [the](/post/the/) notion [that](/post/that/) [the](/post/the/) flap [of](/post/of/) [a](/post/a/) butterfly's wings [in](/post/in/) Brazil [could](/post/could/) [cause](/post/cause/) [a](/post/a/) tornado [in](/post/in/) Texas.
 
 ## Phrases
-- "Fluttering [like](/en/post/like/) [a](/en/post/a/) [butterfly](/en/post/butterfly/)" describes [light](/en/post/light/), [delicate](/en/post/delicate/) movements.
-- "Butterflies [in](/en/post/in/) [your](/en/post/your/) [stomach](/en/post/stomach/)" is [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) nervousness [or](/en/post/or/) [anxiety](/en/post/anxiety/).
-- "Caught [between](/en/post/between/) [two](/en/post/two/) butterflies" [means](/en/post/means/) [being](/en/post/being/) indecisive [or](/en/post/or/) torn [between](/en/post/between/) [two](/en/post/two/) choices.
+- "Fluttering [like](/post/like/) [a](/post/a/) [butterfly](/post/butterfly/)" describes [light](/post/light/), [delicate](/post/delicate/) movements.
+- "Butterflies [in](/post/in/) [your](/post/your/) [stomach](/post/stomach/)" is [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) nervousness [or](/post/or/) [anxiety](/post/anxiety/).
+- "Caught [between](/post/between/) [two](/post/two/) butterflies" [means](/post/means/) [being](/post/being/) indecisive [or](/post/or/) torn [between](/post/between/) [two](/post/two/) choices.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [garden](/en/post/garden/) was filled [with](/en/post/with/) vibrant butterflies [during](/en/post/during/) [the](/en/post/the/) [summer](/en/post/summer/) months."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) couldn't [concentrate](/en/post/concentrate/) [on](/en/post/on/) [his](/en/post/his/) [work](/en/post/work/), [his](/en/post/his/) [mind](/en/post/mind/) kept butterflying [from](/en/post/from/) [one](/en/post/one/) [thought](/en/post/thought/) [to](/en/post/to/) [another](/en/post/another/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) artwork featured intricate butterfly-like designs."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [scientist](/en/post/scientist/) discussed [the](/en/post/the/) [butterfly](/en/post/butterfly/) [effect](/en/post/effect/) [in](/en/post/in/) [climate](/en/post/climate/) [change](/en/post/change/) [research](/en/post/research/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) vibrant butterflies [during](/post/during/) [the](/post/the/) [summer](/post/summer/) months."
+- **[Verb](/post/verb/)**: "[He](/post/he/) couldn't [concentrate](/post/concentrate/) [on](/post/on/) [his](/post/his/) [work](/post/work/), [his](/post/his/) [mind](/post/mind/) kept butterflying [from](/post/from/) [one](/post/one/) [thought](/post/thought/) [to](/post/to/) [another](/post/another/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) artwork featured intricate butterfly-like designs."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [scientist](/post/scientist/) discussed [the](/post/the/) [butterfly](/post/butterfly/) [effect](/post/effect/) [in](/post/in/) [climate](/post/climate/) [change](/post/change/) [research](/post/research/)."
 
 ## Synonyms
 - Caterpillar
@@ -40,10 +40,10 @@ keywords = ['ai words', 'butterfly']
 - Papillon
 - Flutterby
 - Moth
-- Winged [creature](/en/post/creature/)
+- Winged [creature](/post/creature/)
 
 ## Antonyms
 - Slug
-- [Worm](/en/post/worm/)
-- Insectivore ([not](/en/post/not/) [a](/en/post/a/) [butterfly](/en/post/butterfly/) [itself](/en/post/itself/), [but](/en/post/but/) [a](/en/post/a/) [term](/en/post/term/) [for](/en/post/for/) animals [that](/en/post/that/) [eat](/en/post/eat/) insects)
-- Staid ([unlike](/en/post/unlike/) [the](/en/post/the/) fluttery, carefree [nature](/en/post/nature/) [of](/en/post/of/) [a](/en/post/a/) [butterfly](/en/post/butterfly/))
+- [Worm](/post/worm/)
+- Insectivore ([not](/post/not/) [a](/post/a/) [butterfly](/post/butterfly/) [itself](/post/itself/), [but](/post/but/) [a](/post/a/) [term](/post/term/) [for](/post/for/) animals [that](/post/that/) [eat](/post/eat/) insects)
+- Staid ([unlike](/post/unlike/) [the](/post/the/) fluttery, carefree [nature](/post/nature/) [of](/post/of/) [a](/post/a/) [butterfly](/post/butterfly/))

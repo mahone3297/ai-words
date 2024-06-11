@@ -7,35 +7,35 @@ description = '[inˈdjuə] vt.忍受；容忍'
 keywords = ['ai words', 'endure']
 +++
 
-## [Word](/en/post/word/): [Endure](/en/post/endure/)
+## [Word](/post/word/): [Endure](/post/endure/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈdjʊr/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [bear](/en/post/bear/) [or](/en/post/or/) [withstand](/en/post/withstand/) ([pain](/en/post/pain/), suffering, [hardship](/en/post/hardship/), etc.) [without](/en/post/without/) giving [in](/en/post/in/); [to](/en/post/to/) [tolerate](/en/post/tolerate/) [or](/en/post/or/) persevere [through](/en/post/through/) adversity. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) endured [the](/en/post/the/) [pain](/en/post/pain/) [with](/en/post/with/) [remarkable](/en/post/remarkable/) stoicism."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [last](/en/post/last/) [or](/en/post/or/) [persist](/en/post/persist/) [over](/en/post/over/) [a](/en/post/a/) [period](/en/post/period/) [despite](/en/post/despite/) [hardship](/en/post/hardship/) [or](/en/post/or/) challenges; [to](/en/post/to/) [survive](/en/post/survive/) [or](/en/post/or/) [continue](/en/post/continue/) [to](/en/post/to/) [exist](/en/post/exist/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [ancient](/en/post/ancient/) [castle](/en/post/castle/) has endured centuries [of](/en/post/of/) wars [and](/en/post/and/) weathering."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) patiently [or](/en/post/or/) tolerantly [put](/en/post/put/) [up](/en/post/up/) [with](/en/post/with/) [something](/en/post/something/) [unpleasant](/en/post/unpleasant/) [or](/en/post/or/) [difficult](/en/post/difficult/). [For](/en/post/for/) [example](/en/post/example/): "I had [to](/en/post/to/) [endure](/en/post/endure/) [his](/en/post/his/) [endless](/en/post/endless/) complaining [during](/en/post/during/) [the](/en/post/the/) [journey](/en/post/journey/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [bear](/post/bear/) [or](/post/or/) [withstand](/post/withstand/) ([pain](/post/pain/), suffering, [hardship](/post/hardship/), etc.) [without](/post/without/) giving [in](/post/in/); [to](/post/to/) [tolerate](/post/tolerate/) [or](/post/or/) persevere [through](/post/through/) adversity. [For](/post/for/) [example](/post/example/): "[She](/post/she/) endured [the](/post/the/) [pain](/post/pain/) [with](/post/with/) [remarkable](/post/remarkable/) stoicism."
+- **[Verb](/post/verb/)**: [To](/post/to/) [last](/post/last/) [or](/post/or/) [persist](/post/persist/) [over](/post/over/) [a](/post/a/) [period](/post/period/) [despite](/post/despite/) [hardship](/post/hardship/) [or](/post/or/) challenges; [to](/post/to/) [survive](/post/survive/) [or](/post/or/) [continue](/post/continue/) [to](/post/to/) [exist](/post/exist/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [ancient](/post/ancient/) [castle](/post/castle/) has endured centuries [of](/post/of/) wars [and](/post/and/) weathering."
+- **[Verb](/post/verb/)**: [To](/post/to/) patiently [or](/post/or/) tolerantly [put](/post/put/) [up](/post/up/) [with](/post/with/) [something](/post/something/) [unpleasant](/post/unpleasant/) [or](/post/or/) [difficult](/post/difficult/). [For](/post/for/) [example](/post/example/): "I had [to](/post/to/) [endure](/post/endure/) [his](/post/his/) [endless](/post/endless/) complaining [during](/post/during/) [the](/post/the/) [journey](/post/journey/)."
 
 ## Phrases
-- "[Endure](/en/post/endure/) [the](/en/post/the/) hardships" [means](/en/post/means/) [to](/en/post/to/) [suffer](/en/post/suffer/) [through](/en/post/through/) challenging situations.
-- "[To](/en/post/to/) [endure](/en/post/endure/) [the](/en/post/the/) [test](/en/post/test/) [of](/en/post/of/) [time](/en/post/time/)" [means](/en/post/means/) [to](/en/post/to/) [remain](/en/post/remain/) [relevant](/en/post/relevant/) [or](/en/post/or/) [effective](/en/post/effective/) [over](/en/post/over/) [a](/en/post/a/) [long](/en/post/long/) [period](/en/post/period/).
-- "Endurance [race](/en/post/race/)" refers [to](/en/post/to/) [a](/en/post/a/) [contest](/en/post/contest/) [where](/en/post/where/) participants [must](/en/post/must/) persevere [over](/en/post/over/) [a](/en/post/a/) [long](/en/post/long/) [distance](/en/post/distance/) [or](/en/post/or/) [duration](/en/post/duration/).
+- "[Endure](/post/endure/) [the](/post/the/) hardships" [means](/post/means/) [to](/post/to/) [suffer](/post/suffer/) [through](/post/through/) challenging situations.
+- "[To](/post/to/) [endure](/post/endure/) [the](/post/the/) [test](/post/test/) [of](/post/of/) [time](/post/time/)" [means](/post/means/) [to](/post/to/) [remain](/post/remain/) [relevant](/post/relevant/) [or](/post/or/) [effective](/post/effective/) [over](/post/over/) [a](/post/a/) [long](/post/long/) [period](/post/period/).
+- "Endurance [race](/post/race/)" refers [to](/post/to/) [a](/post/a/) [contest](/post/contest/) [where](/post/where/) participants [must](/post/must/) persevere [over](/post/over/) [a](/post/a/) [long](/post/long/) [distance](/post/distance/) [or](/post/or/) [duration](/post/duration/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (adversity)**: "[He](/en/post/he/) endured months [of](/en/post/of/) chemotherapy treatments [with](/en/post/with/) incredible [strength](/en/post/strength/)."
-- **[Verb](/en/post/verb/) (persisting)**: "[This](/en/post/this/) [old](/en/post/old/) [oak](/en/post/oak/) [tree](/en/post/tree/) has endured countless storms [since](/en/post/since/) [it](/en/post/it/) was planted 200 years [ago](/en/post/ago/)."
-- **[Verb](/en/post/verb/) ([tolerance](/en/post/tolerance/))**: "[She](/en/post/she/) endured [her](/en/post/her/) sister's annoying habits [because](/en/post/because/) [they](/en/post/they/) were [so](/en/post/so/) [close](/en/post/close/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (adversity)**: "[He](/post/he/) endured months [of](/post/of/) chemotherapy treatments [with](/post/with/) incredible [strength](/post/strength/)."
+- **[Verb](/post/verb/) (persisting)**: "[This](/post/this/) [old](/post/old/) [oak](/post/oak/) [tree](/post/tree/) has endured countless storms [since](/post/since/) [it](/post/it/) was planted 200 years [ago](/post/ago/)."
+- **[Verb](/post/verb/) ([tolerance](/post/tolerance/))**: "[She](/post/she/) endured [her](/post/her/) sister's annoying habits [because](/post/because/) [they](/post/they/) were [so](/post/so/) [close](/post/close/)."
 
 ## Synonyms
-- [Bear](/en/post/bear/)
-- [Tolerate](/en/post/tolerate/)
-- [Suffer](/en/post/suffer/)
+- [Bear](/post/bear/)
+- [Tolerate](/post/tolerate/)
+- [Suffer](/post/suffer/)
 - Persevere
-- [Stand](/en/post/stand/)
-- [Withstand](/en/post/withstand/)
+- [Stand](/post/stand/)
+- [Withstand](/post/withstand/)
 - Endue
-- [Put](/en/post/put/) [up](/en/post/up/) [with](/en/post/with/)
-- [Weather](/en/post/weather/)
-- [Last](/en/post/last/)
-- [Survive](/en/post/survive/)
+- [Put](/post/put/) [up](/post/up/) [with](/post/with/)
+- [Weather](/post/weather/)
+- [Last](/post/last/)
+- [Survive](/post/survive/)

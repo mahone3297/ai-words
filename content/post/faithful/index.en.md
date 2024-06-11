@@ -7,40 +7,40 @@ description = '[ˈfeiθful] a.忠诚的；如实的'
 keywords = ['ai words', 'faithful']
 +++
 
-## [Word](/en/post/word/): [Faithful](/en/post/faithful/)
+## [Word](/post/word/): [Faithful](/post/faithful/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfeɪθfl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) [Loyal](/en/post/loyal/), consistently [true](/en/post/true/) [or](/en/post/or/) devoted [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/), [belief](/en/post/belief/), [cause](/en/post/cause/), [or](/en/post/or/) [promise](/en/post/promise/); [reliable](/en/post/reliable/) [and](/en/post/and/) steadfast [in](/en/post/in/) [affection](/en/post/affection/) [or](/en/post/or/) allegiance. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has been [a](/en/post/a/) [faithful](/en/post/faithful/) [friend](/en/post/friend/) [throughout](/en/post/throughout/) [the](/en/post/the/) years."
+- **[Adjective](/post/adjective/)**: (adj) [Loyal](/post/loyal/), consistently [true](/post/true/) [or](/post/or/) devoted [to](/post/to/) [a](/post/a/) [person](/post/person/), [belief](/post/belief/), [cause](/post/cause/), [or](/post/or/) [promise](/post/promise/); [reliable](/post/reliable/) [and](/post/and/) steadfast [in](/post/in/) [affection](/post/affection/) [or](/post/or/) allegiance. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has been [a](/post/a/) [faithful](/post/faithful/) [friend](/post/friend/) [throughout](/post/throughout/) [the](/post/the/) years."
   
-  > "[He](/en/post/he/) remained [faithful](/en/post/faithful/) [to](/en/post/to/) [his](/en/post/his/) [wife](/en/post/wife/)."
-  > "[Their](/en/post/their/) [dog](/en/post/dog/) is [a](/en/post/a/) [faithful](/en/post/faithful/) [companion](/en/post/companion/)."
-  > "[The](/en/post/the/) book's adaptation stayed [faithful](/en/post/faithful/) [to](/en/post/to/) [the](/en/post/the/) [original](/en/post/original/) [story](/en/post/story/)."
+  > "[He](/post/he/) remained [faithful](/post/faithful/) [to](/post/to/) [his](/post/his/) [wife](/post/wife/)."
+  > "[Their](/post/their/) [dog](/post/dog/) is [a](/post/a/) [faithful](/post/faithful/) [companion](/post/companion/)."
+  > "[The](/post/the/) book's adaptation stayed [faithful](/post/faithful/) [to](/post/to/) [the](/post/the/) [original](/post/original/) [story](/post/story/)."
 
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [loyal](/en/post/loyal/) [or](/en/post/or/) dedicated, [especially](/en/post/especially/) [to](/en/post/to/) [a](/en/post/a/) [religion](/en/post/religion/) [or](/en/post/or/) [belief](/en/post/belief/) [system](/en/post/system/); [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) [plural](/en/post/plural/) [form](/en/post/form/) "[the](/en/post/the/) [faithful](/en/post/faithful/)." [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [faithful](/en/post/faithful/) gathered [for](/en/post/for/) Sunday [mass](/en/post/mass/)."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [person](/post/person/) [who](/post/who/) is [loyal](/post/loyal/) [or](/post/or/) dedicated, [especially](/post/especially/) [to](/post/to/) [a](/post/a/) [religion](/post/religion/) [or](/post/or/) [belief](/post/belief/) [system](/post/system/); [often](/post/often/) [used](/post/used/) [in](/post/in/) [the](/post/the/) [plural](/post/plural/) [form](/post/form/) "[the](/post/the/) [faithful](/post/faithful/)." [For](/post/for/) [example](/post/example/): "[The](/post/the/) [faithful](/post/faithful/) gathered [for](/post/for/) Sunday [mass](/post/mass/)."
 
-  > "[The](/en/post/the/) [faithful](/en/post/faithful/) [attend](/en/post/attend/) [church](/en/post/church/) services [every](/en/post/every/) [week](/en/post/week/)."
-  > "[The](/en/post/the/) [faithful](/en/post/faithful/) adherents [of](/en/post/of/) [the](/en/post/the/) [team](/en/post/team/) [never](/en/post/never/) [miss](/en/post/miss/) [a](/en/post/a/) [game](/en/post/game/)."
+  > "[The](/post/the/) [faithful](/post/faithful/) [attend](/post/attend/) [church](/post/church/) services [every](/post/every/) [week](/post/week/)."
+  > "[The](/post/the/) [faithful](/post/faithful/) adherents [of](/post/of/) [the](/post/the/) [team](/post/team/) [never](/post/never/) [miss](/post/miss/) [a](/post/a/) [game](/post/game/)."
 
 ## Phrases
-- "[Faithful](/en/post/faithful/) [to](/en/post/to/) [a](/en/post/a/) [cause](/en/post/cause/)" - Devoted [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [belief](/en/post/belief/) [or](/en/post/or/) [purpose](/en/post/purpose/).
-- "[The](/en/post/the/) [faithful](/en/post/faithful/) [few](/en/post/few/)" - Referring [to](/en/post/to/) [a](/en/post/a/) [small](/en/post/small/) [group](/en/post/group/) [of](/en/post/of/) dedicated supporters [or](/en/post/or/) believers.
-- "[Keep](/en/post/keep/) [the](/en/post/the/) [faith](/en/post/faith/)" - [To](/en/post/to/) [remain](/en/post/remain/) committed [or](/en/post/or/) [loyal](/en/post/loyal/) [despite](/en/post/despite/) challenges.
+- "[Faithful](/post/faithful/) [to](/post/to/) [a](/post/a/) [cause](/post/cause/)" - Devoted [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [belief](/post/belief/) [or](/post/or/) [purpose](/post/purpose/).
+- "[The](/post/the/) [faithful](/post/faithful/) [few](/post/few/)" - Referring [to](/post/to/) [a](/post/a/) [small](/post/small/) [group](/post/group/) [of](/post/of/) dedicated supporters [or](/post/or/) believers.
+- "[Keep](/post/keep/) [the](/post/the/) [faith](/post/faith/)" - [To](/post/to/) [remain](/post/remain/) committed [or](/post/or/) [loyal](/post/loyal/) [despite](/post/despite/) challenges.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Throughout](/en/post/throughout/) [their](/en/post/their/) [marriage](/en/post/marriage/), [they](/en/post/they/) remained [faithful](/en/post/faithful/) [to](/en/post/to/) [each](/en/post/each/) [other](/en/post/other/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [faithful](/en/post/faithful/) filled [the](/en/post/the/) [cathedral](/en/post/cathedral/) [for](/en/post/for/) [the](/en/post/the/) Christmas [Eve](/en/post/eve/) [service](/en/post/service/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Throughout](/post/throughout/) [their](/post/their/) [marriage](/post/marriage/), [they](/post/they/) remained [faithful](/post/faithful/) [to](/post/to/) [each](/post/each/) [other](/post/other/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [faithful](/post/faithful/) filled [the](/post/the/) [cathedral](/post/cathedral/) [for](/post/for/) [the](/post/the/) Christmas [Eve](/post/eve/) [service](/post/service/)."
 
 ## Synonyms
-- [Loyal](/en/post/loyal/)
+- [Loyal](/post/loyal/)
 - Devoted
 - Steadfast
-- [Reliable](/en/post/reliable/)
+- [Reliable](/post/reliable/)
 - True-hearted
 - Dedicated
 - Committed
-- Obedient ([in](/en/post/in/) [religious](/en/post/religious/) contexts)
-- [Constant](/en/post/constant/)
+- Obedient ([in](/post/in/) [religious](/post/religious/) contexts)
+- [Constant](/post/constant/)
 - Trustworthy

@@ -7,33 +7,33 @@ description = '[ˈmʌdi] a.多泥的，泥泞的'
 keywords = ['ai words', 'muddy']
 +++
 
-## [Word](/en/post/word/): [Muddy](/en/post/muddy/)
+## [Word](/post/word/): [Muddy](/post/muddy/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmʌdi/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Covered [or](/en/post/or/) smeared [with](/en/post/with/) [mud](/en/post/mud/); [dirty](/en/post/dirty/) [and](/en/post/and/) messy [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [presence](/en/post/presence/) [of](/en/post/of/) [mud](/en/post/mud/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) children's shoes were [muddy](/en/post/muddy/) [after](/en/post/after/) playing [in](/en/post/in/) [the](/en/post/the/) [rain](/en/post/rain/)."
-  - _Also [used](/en/post/used/) metaphorically_ [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) unclear [or](/en/post/or/) confusing, [like](/en/post/like/) "[The](/en/post/the/) details [of](/en/post/of/) [the](/en/post/the/) [case](/en/post/case/) are [quite](/en/post/quite/) [muddy](/en/post/muddy/), making [it](/en/post/it/) [hard](/en/post/hard/) [to](/en/post/to/) [draw](/en/post/draw/) [a](/en/post/a/) [conclusion](/en/post/conclusion/)."
+- **[Adjective](/post/adjective/)**: Covered [or](/post/or/) smeared [with](/post/with/) [mud](/post/mud/); [dirty](/post/dirty/) [and](/post/and/) messy [due](/post/due/) [to](/post/to/) [the](/post/the/) [presence](/post/presence/) [of](/post/of/) [mud](/post/mud/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) children's shoes were [muddy](/post/muddy/) [after](/post/after/) playing [in](/post/in/) [the](/post/the/) [rain](/post/rain/)."
+  - _Also [used](/post/used/) metaphorically_ [to](/post/to/) [describe](/post/describe/) [something](/post/something/) unclear [or](/post/or/) confusing, [like](/post/like/) "[The](/post/the/) details [of](/post/of/) [the](/post/the/) [case](/post/case/) are [quite](/post/quite/) [muddy](/post/muddy/), making [it](/post/it/) [hard](/post/hard/) [to](/post/to/) [draw](/post/draw/) [a](/post/a/) [conclusion](/post/conclusion/)."
 
-- **[Verb](/en/post/verb/)**: (informal) [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [dirty](/en/post/dirty/) [or](/en/post/or/) unclear [with](/en/post/with/) [or](/en/post/or/) [as](/en/post/as/) [if](/en/post/if/) [with](/en/post/with/) [mud](/en/post/mud/). [For](/en/post/for/) [example](/en/post/example/): "[Heavy](/en/post/heavy/) rains [have](/en/post/have/) muddied [the](/en/post/the/) [river](/en/post/river/) [water](/en/post/water/)."
+- **[Verb](/post/verb/)**: (informal) [To](/post/to/) [make](/post/make/) [something](/post/something/) [dirty](/post/dirty/) [or](/post/or/) unclear [with](/post/with/) [or](/post/or/) [as](/post/as/) [if](/post/if/) [with](/post/with/) [mud](/post/mud/). [For](/post/for/) [example](/post/example/): "[Heavy](/post/heavy/) rains [have](/post/have/) muddied [the](/post/the/) [river](/post/river/) [water](/post/water/)."
 
 ## Phrases
-- "[Muddy](/en/post/muddy/) [the](/en/post/the/) waters": [To](/en/post/to/) [complicate](/en/post/complicate/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [make](/en/post/make/) [it](/en/post/it/) [more](/en/post/more/) confusing.
-- "[Through](/en/post/through/) [the](/en/post/the/) [mud](/en/post/mud/) [and](/en/post/and/) [the](/en/post/the/) muck": Referring [to](/en/post/to/) overcoming [difficult](/en/post/difficult/) [or](/en/post/or/) challenging situations.
+- "[Muddy](/post/muddy/) [the](/post/the/) waters": [To](/post/to/) [complicate](/post/complicate/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [make](/post/make/) [it](/post/it/) [more](/post/more/) confusing.
+- "[Through](/post/through/) [the](/post/the/) [mud](/post/mud/) [and](/post/and/) [the](/post/the/) muck": Referring [to](/post/to/) overcoming [difficult](/post/difficult/) [or](/post/or/) challenging situations.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[After](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/), [the](/en/post/the/) hiking [trail](/en/post/trail/) was [so](/en/post/so/) [muddy](/en/post/muddy/) [that](/en/post/that/) [we](/en/post/we/) had [to](/en/post/to/) [turn](/en/post/turn/) [back](/en/post/back/)."
-  - Metaphorical [use](/en/post/use/): "[His](/en/post/his/) [vague](/en/post/vague/) answers [only](/en/post/only/) served [to](/en/post/to/) [muddy](/en/post/muddy/) [the](/en/post/the/) [issue](/en/post/issue/) [further](/en/post/further/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[After](/post/after/) [the](/post/the/) [storm](/post/storm/), [the](/post/the/) hiking [trail](/post/trail/) was [so](/post/so/) [muddy](/post/muddy/) [that](/post/that/) [we](/post/we/) had [to](/post/to/) [turn](/post/turn/) [back](/post/back/)."
+  - Metaphorical [use](/post/use/): "[His](/post/his/) [vague](/post/vague/) answers [only](/post/only/) served [to](/post/to/) [muddy](/post/muddy/) [the](/post/the/) [issue](/post/issue/) [further](/post/further/)."
 
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [dog](/en/post/dog/) loves [to](/en/post/to/) [play](/en/post/play/) [outside](/en/post/outside/) [but](/en/post/but/) [often](/en/post/often/) muddies [the](/en/post/the/) [carpet](/en/post/carpet/) [when](/en/post/when/) [he](/en/post/he/) comes [back](/en/post/back/) [inside](/en/post/inside/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [dog](/post/dog/) loves [to](/post/to/) [play](/post/play/) [outside](/post/outside/) [but](/post/but/) [often](/post/often/) muddies [the](/post/the/) [carpet](/post/carpet/) [when](/post/when/) [he](/post/he/) comes [back](/post/back/) [inside](/post/inside/)."
 
 ## Synonyms
-- [Dirty](/en/post/dirty/)
+- [Dirty](/post/dirty/)
 - Soiled
 - Sludgy
 - Clayey
-- Murky ([for](/en/post/for/) [the](/en/post/the/) metaphorical [sense](/en/post/sense/))
+- Murky ([for](/post/for/) [the](/post/the/) metaphorical [sense](/post/sense/))
 - Obscure
 - Confused
-- [Cloudy](/en/post/cloudy/)
+- [Cloudy](/post/cloudy/)

@@ -7,46 +7,46 @@ description = '[ˈkɔnsət] n.音乐会，演奏会'
 keywords = ['ai words', 'concert']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈsɜːrt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [musical](/en/post/musical/) [performance](/en/post/performance/) featuring [several](/en/post/several/) artists [or](/en/post/or/) ensembles, [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [program](/en/post/program/) [of](/en/post/of/) [diverse](/en/post/diverse/) works.**
-   [Example](/en/post/example/): "[The](/en/post/the/) orchestra's [concert](/en/post/concert/) was [a](/en/post/a/) sellout, [with](/en/post/with/) [people](/en/post/people/) enjoying an [evening](/en/post/evening/) [of](/en/post/of/) [classical](/en/post/classical/) [music](/en/post/music/)."
-2. **An [event](/en/post/event/) [or](/en/post/or/) gathering [where](/en/post/where/) [a](/en/post/a/) [particular](/en/post/particular/) [performance](/en/post/performance/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) performances takes [place](/en/post/place/).**
-   [Example](/en/post/example/): "[The](/en/post/the/) [charity](/en/post/charity/) [concert](/en/post/concert/) raised funds [for](/en/post/for/) [local](/en/post/local/) schools."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [musical](/post/musical/) [performance](/post/performance/) featuring [several](/post/several/) artists [or](/post/or/) ensembles, [often](/post/often/) [with](/post/with/) [a](/post/a/) [program](/post/program/) [of](/post/of/) [diverse](/post/diverse/) works.**
+   [Example](/post/example/): "[The](/post/the/) orchestra's [concert](/post/concert/) was [a](/post/a/) sellout, [with](/post/with/) [people](/post/people/) enjoying an [evening](/post/evening/) [of](/post/of/) [classical](/post/classical/) [music](/post/music/)."
+2. **An [event](/post/event/) [or](/post/or/) gathering [where](/post/where/) [a](/post/a/) [particular](/post/particular/) [performance](/post/performance/) [or](/post/or/) [series](/post/series/) [of](/post/of/) performances takes [place](/post/place/).**
+   [Example](/post/example/): "[The](/post/the/) [charity](/post/charity/) [concert](/post/concert/) raised funds [for](/post/for/) [local](/post/local/) schools."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [hold](/en/post/hold/) [or](/en/post/or/) [present](/en/post/present/) [a](/en/post/a/) [concert](/en/post/concert/), typically [as](/en/post/as/) [a](/en/post/a/) [public](/en/post/public/) [event](/en/post/event/).**
-   [Example](/en/post/example/): "[The](/en/post/the/) [band](/en/post/band/) is scheduled [to](/en/post/to/) [concert](/en/post/concert/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/) [this](/en/post/this/) [summer](/en/post/summer/)."
-2. **[To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [musical](/en/post/musical/) [performance](/en/post/performance/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) performances.**
-   [Example](/en/post/example/): "[She](/en/post/she/) concerted beautifully [on](/en/post/on/) [the](/en/post/the/) [piano](/en/post/piano/) [during](/en/post/during/) [her](/en/post/her/) recital."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [hold](/post/hold/) [or](/post/or/) [present](/post/present/) [a](/post/a/) [concert](/post/concert/), typically [as](/post/as/) [a](/post/a/) [public](/post/public/) [event](/post/event/).**
+   [Example](/post/example/): "[The](/post/the/) [band](/post/band/) is scheduled [to](/post/to/) [concert](/post/concert/) [in](/post/in/) [the](/post/the/) [park](/post/park/) [this](/post/this/) [summer](/post/summer/)."
+2. **[To](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [musical](/post/musical/) [performance](/post/performance/) [or](/post/or/) [series](/post/series/) [of](/post/of/) performances.**
+   [Example](/post/example/): "[She](/post/she/) concerted beautifully [on](/post/on/) [the](/post/the/) [piano](/post/piano/) [during](/post/during/) [her](/post/her/) recital."
 
-### [Adjective](/en/post/adjective/)
-1. **Relating [to](/en/post/to/) [or](/en/post/or/) characterized [by](/en/post/by/) [a](/en/post/a/) [concert](/en/post/concert/) [or](/en/post/or/) [musical](/en/post/musical/) [performance](/en/post/performance/).**
-   [Example](/en/post/example/): "[The](/en/post/the/) [concert](/en/post/concert/) [hall](/en/post/hall/) had [magnificent](/en/post/magnificent/) acoustics."
+### [Adjective](/post/adjective/)
+1. **Relating [to](/post/to/) [or](/post/or/) characterized [by](/post/by/) [a](/post/a/) [concert](/post/concert/) [or](/post/or/) [musical](/post/musical/) [performance](/post/performance/).**
+   [Example](/post/example/): "[The](/post/the/) [concert](/post/concert/) [hall](/post/hall/) had [magnificent](/post/magnificent/) acoustics."
 
 ## Phrases
-- "[Attend](/en/post/attend/) [a](/en/post/a/) [concert](/en/post/concert/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [a](/en/post/a/) [musical](/en/post/musical/) [performance](/en/post/performance/).
-- "[Concert](/en/post/concert/) tickets" are [the](/en/post/the/) [admission](/en/post/admission/) passes [for](/en/post/for/) [a](/en/post/a/) [live](/en/post/live/) [show](/en/post/show/).
-- "[Concert](/en/post/concert/) [series](/en/post/series/)" refers [to](/en/post/to/) [a](/en/post/a/) [sequence](/en/post/sequence/) [of](/en/post/of/) related concerts.
+- "[Attend](/post/attend/) [a](/post/a/) [concert](/post/concert/)" [means](/post/means/) [to](/post/to/) [go](/post/go/) [to](/post/to/) [a](/post/a/) [musical](/post/musical/) [performance](/post/performance/).
+- "[Concert](/post/concert/) tickets" are [the](/post/the/) [admission](/post/admission/) passes [for](/post/for/) [a](/post/a/) [live](/post/live/) [show](/post/show/).
+- "[Concert](/post/concert/) [series](/post/series/)" refers [to](/post/to/) [a](/post/a/) [sequence](/post/sequence/) [of](/post/of/) related concerts.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [audience](/en/post/audience/) was captivated [by](/en/post/by/) [the](/en/post/the/) symphony [concert](/en/post/concert/) [at](/en/post/at/) [the](/en/post/the/) [opera](/en/post/opera/) [house](/en/post/house/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [band](/en/post/band/) is preparing [for](/en/post/for/) [their](/en/post/their/) upcoming [concert](/en/post/concert/) [tour](/en/post/tour/) [across](/en/post/across/) [the](/en/post/the/) [country](/en/post/country/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [concert](/en/post/concert/) attire included elegant gowns [and](/en/post/and/) tuxedos."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [audience](/post/audience/) was captivated [by](/post/by/) [the](/post/the/) symphony [concert](/post/concert/) [at](/post/at/) [the](/post/the/) [opera](/post/opera/) [house](/post/house/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [band](/post/band/) is preparing [for](/post/for/) [their](/post/their/) upcoming [concert](/post/concert/) [tour](/post/tour/) [across](/post/across/) [the](/post/the/) [country](/post/country/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [concert](/post/concert/) attire included elegant gowns [and](/post/and/) tuxedos."
 
 ## Synonyms
-- [Performance](/en/post/performance/)
-- [Show](/en/post/show/)
+- [Performance](/post/performance/)
+- [Show](/post/show/)
 - Gig
-- [Musical](/en/post/musical/) [event](/en/post/event/)
+- [Musical](/post/musical/) [event](/post/event/)
 - Recital
 - Gathering
 - Presentation
 
 ## Antonyms
-- [Silence](/en/post/silence/)
+- [Silence](/post/silence/)
 - Quietude
 - Hush

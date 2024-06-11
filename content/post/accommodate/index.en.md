@@ -7,39 +7,39 @@ description = '[əˈkɔmədeit] vt.容纳;供应,供给'
 keywords = ['ai words', 'accommodate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈkɑːmədeɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Accommodation](/en/post/accommodation/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) providing [or](/en/post/or/) making [suitable](/en/post/suitable/) [space](/en/post/space/), facilities, [or](/en/post/or/) arrangements [for](/en/post/for/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [hotel](/en/post/hotel/) offers [excellent](/en/post/excellent/) [accommodation](/en/post/accommodation/) [for](/en/post/for/) guests."
-- **Adaptation**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) adjusting [to](/en/post/to/) [new](/en/post/new/) conditions [or](/en/post/or/) requirements. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [flexible](/en/post/flexible/) [accommodation](/en/post/accommodation/) skills helped [her](/en/post/her/) [adjust](/en/post/adjust/) [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) [job](/en/post/job/)."
+### [Noun](/post/noun/)
+- **[Accommodation](/post/accommodation/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) providing [or](/post/or/) making [suitable](/post/suitable/) [space](/post/space/), facilities, [or](/post/or/) arrangements [for](/post/for/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [hotel](/post/hotel/) offers [excellent](/post/excellent/) [accommodation](/post/accommodation/) [for](/post/for/) guests."
+- **Adaptation**: [The](/post/the/) [process](/post/process/) [of](/post/of/) adjusting [to](/post/to/) [new](/post/new/) conditions [or](/post/or/) requirements. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [flexible](/post/flexible/) [accommodation](/post/accommodation/) skills helped [her](/post/her/) [adjust](/post/adjust/) [to](/post/to/) [the](/post/the/) [new](/post/new/) [job](/post/job/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [accommodate](/en/post/accommodate/)**: [To](/en/post/to/) [make](/en/post/make/) [room](/en/post/room/) [or](/en/post/or/) [provide](/en/post/provide/) [for](/en/post/for/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/); [to](/en/post/to/) [be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/) [fit](/en/post/fit/) [or](/en/post/or/) [adjust](/en/post/adjust/) [to](/en/post/to/) changing needs. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [restaurant](/en/post/restaurant/) [can](/en/post/can/) [easily](/en/post/easily/) [accommodate](/en/post/accommodate/) [large](/en/post/large/) groups."
-- **[To](/en/post/to/) [accommodate](/en/post/accommodate/) [oneself](/en/post/oneself/)**: [To](/en/post/to/) [adjust](/en/post/adjust/) one's actions [or](/en/post/or/) [behavior](/en/post/behavior/) [to](/en/post/to/) [suit](/en/post/suit/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) accommodated [herself](/en/post/herself/) [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) [time](/en/post/time/) [zone](/en/post/zone/) [quickly](/en/post/quickly/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [accommodate](/post/accommodate/)**: [To](/post/to/) [make](/post/make/) [room](/post/room/) [or](/post/or/) [provide](/post/provide/) [for](/post/for/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/); [to](/post/to/) [be](/post/be/) [able](/post/able/) [to](/post/to/) [fit](/post/fit/) [or](/post/or/) [adjust](/post/adjust/) [to](/post/to/) changing needs. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [restaurant](/post/restaurant/) [can](/post/can/) [easily](/post/easily/) [accommodate](/post/accommodate/) [large](/post/large/) groups."
+- **[To](/post/to/) [accommodate](/post/accommodate/) [oneself](/post/oneself/)**: [To](/post/to/) [adjust](/post/adjust/) one's actions [or](/post/or/) [behavior](/post/behavior/) [to](/post/to/) [suit](/post/suit/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) accommodated [herself](/post/herself/) [to](/post/to/) [the](/post/the/) [new](/post/new/) [time](/post/time/) [zone](/post/zone/) [quickly](/post/quickly/)."
 
-### [Adjective](/en/post/adjective/)
-- **Accommodating**: [Willing](/en/post/willing/) [to](/en/post/to/) [be](/en/post/be/) [helpful](/en/post/helpful/) [or](/en/post/or/) obliging. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [host](/en/post/host/) was [very](/en/post/very/) accommodating, [meeting](/en/post/meeting/) [all](/en/post/all/) [our](/en/post/our/) needs."
-- **Inconvenient**: Causing [difficulty](/en/post/difficulty/) [or](/en/post/or/) inconvenience. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [construction](/en/post/construction/) [work](/en/post/work/) has made [it](/en/post/it/) inconvenient [to](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) [office](/en/post/office/)."
+### [Adjective](/post/adjective/)
+- **Accommodating**: [Willing](/post/willing/) [to](/post/to/) [be](/post/be/) [helpful](/post/helpful/) [or](/post/or/) obliging. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [host](/post/host/) was [very](/post/very/) accommodating, [meeting](/post/meeting/) [all](/post/all/) [our](/post/our/) needs."
+- **Inconvenient**: Causing [difficulty](/post/difficulty/) [or](/post/or/) inconvenience. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [construction](/post/construction/) [work](/post/work/) has made [it](/post/it/) inconvenient [to](/post/to/) [reach](/post/reach/) [the](/post/the/) [office](/post/office/)."
 
 ## Phrases
-- "[Accommodate](/en/post/accommodate/) someone's needs" implies catering [to](/en/post/to/) [specific](/en/post/specific/) requirements.
-- "[Accommodate](/en/post/accommodate/) [a](/en/post/a/) [request](/en/post/request/)" [means](/en/post/means/) [to](/en/post/to/) fulfill [a](/en/post/a/) desired [change](/en/post/change/) [or](/en/post/or/) adjustment.
-- "[Accommodate](/en/post/accommodate/) [the](/en/post/the/) [schedule](/en/post/schedule/)" [means](/en/post/means/) [to](/en/post/to/) [adjust](/en/post/adjust/) plans [to](/en/post/to/) [fit](/en/post/fit/) everyone's availability.
+- "[Accommodate](/post/accommodate/) someone's needs" implies catering [to](/post/to/) [specific](/post/specific/) requirements.
+- "[Accommodate](/post/accommodate/) [a](/post/a/) [request](/post/request/)" [means](/post/means/) [to](/post/to/) fulfill [a](/post/a/) desired [change](/post/change/) [or](/post/or/) adjustment.
+- "[Accommodate](/post/accommodate/) [the](/post/the/) [schedule](/post/schedule/)" [means](/post/means/) [to](/post/to/) [adjust](/post/adjust/) plans [to](/post/to/) [fit](/post/fit/) everyone's availability.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [apartment](/en/post/apartment/) offers spacious [accommodation](/en/post/accommodation/) [for](/en/post/for/) [a](/en/post/a/) [family](/en/post/family/) [of](/en/post/of/) [four](/en/post/four/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) had [to](/en/post/to/) [accommodate](/en/post/accommodate/) [the](/en/post/the/) students' [different](/en/post/different/) [learning](/en/post/learning/) styles."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) hotel's [location](/en/post/location/) is [highly](/en/post/highly/) accommodating [for](/en/post/for/) tourists."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [apartment](/post/apartment/) offers spacious [accommodation](/post/accommodation/) [for](/post/for/) [a](/post/a/) [family](/post/family/) [of](/post/of/) [four](/post/four/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) had [to](/post/to/) [accommodate](/post/accommodate/) [the](/post/the/) students' [different](/post/different/) [learning](/post/learning/) styles."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) hotel's [location](/post/location/) is [highly](/post/highly/) accommodating [for](/post/for/) tourists."
 
 ## Synonyms
-- [Provide](/en/post/provide/) [for](/en/post/for/)
+- [Provide](/post/provide/) [for](/post/for/)
 - Facilitate
-- [Adjust](/en/post/adjust/)
-- [Adapt](/en/post/adapt/)
+- [Adjust](/post/adjust/)
+- [Adapt](/post/adapt/)
 - Convene
-- [Ease](/en/post/ease/)
-- [Fit](/en/post/fit/) [in](/en/post/in/)
-- [Be](/en/post/be/) lenient [with](/en/post/with/)
-- [Be](/en/post/be/) [flexible](/en/post/flexible/) [with](/en/post/with/)
+- [Ease](/post/ease/)
+- [Fit](/post/fit/) [in](/post/in/)
+- [Be](/post/be/) lenient [with](/post/with/)
+- [Be](/post/be/) [flexible](/post/flexible/) [with](/post/with/)

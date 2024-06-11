@@ -12,23 +12,23 @@ keywords = ['ai words', 'concrete']
 
 ## 释义
 - **名词**:
-  1. 混凝土: 由水泥、沙子、碎石和水混合制成的坚硬建筑材料。例如: "[The](/post/the/) building's [foundation](/post/foundation/) is made [of](/post/of/) [concrete](/post/concrete/)."
-  2. 具体的: 物质的、实际的或明确的事物，而非抽象或理论的。例如: "[She](/post/she/) needs [concrete](/post/concrete/) [evidence](/post/evidence/) [to](/post/to/) [support](/post/support/) [her](/post/her/) [argument](/post/argument/)."
+  1. 混凝土: 由水泥、沙子、碎石和水混合制成的坚硬建筑材料。例如: "[The](/zh/post/the/) building's [foundation](/zh/post/foundation/) is made [of](/zh/post/of/) [concrete](/zh/post/concrete/)."
+  2. 具体的: 物质的、实际的或明确的事物，而非抽象或理论的。例如: "[She](/zh/post/she/) needs [concrete](/zh/post/concrete/) [evidence](/zh/post/evidence/) [to](/zh/post/to/) [support](/zh/post/support/) [her](/zh/post/her/) [argument](/zh/post/argument/)."
 
 - **形容词**:
-  具体的，实在的：指事物具有明确、实际或可感知的性质。例如: "[We](/post/we/) [need](/post/need/) [concrete](/post/concrete/) plans [for](/post/for/) [the](/post/the/) [project](/post/project/), [not](/post/not/) [just](/post/just/) ideas."
+  具体的，实在的：指事物具有明确、实际或可感知的性质。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [concrete](/zh/post/concrete/) plans [for](/zh/post/for/) [the](/zh/post/the/) [project](/zh/post/project/), [not](/zh/post/not/) [just](/zh/post/just/) ideas."
 
 ## 短语
-- "[Concrete](/post/concrete/) [example](/post/example/)" 指具体的例子或实例。
-- "[Concrete](/post/concrete/) thinking" 指基于具体事实和经验的思维方式。
+- "[Concrete](/zh/post/concrete/) [example](/zh/post/example/)" 指具体的例子或实例。
+- "[Concrete](/zh/post/concrete/) thinking" 指基于具体事实和经验的思维方式。
 
 ## 例句
-- 名词: "[The](/post/the/) workers poured [concrete](/post/concrete/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [new](/post/new/) driveway."
-- 形容词: "[His](/post/his/) proposals [lack](/post/lack/) [concrete](/post/concrete/) details, making [them](/post/them/) [difficult](/post/difficult/) [to](/post/to/) implement."
+- 名词: "[The](/zh/post/the/) workers poured [concrete](/zh/post/concrete/) [to](/zh/post/to/) [create](/zh/post/create/) [a](/zh/post/a/) [new](/zh/post/new/) driveway."
+- 形容词: "[His](/zh/post/his/) proposals [lack](/zh/post/lack/) [concrete](/zh/post/concrete/) details, making [them](/zh/post/them/) [difficult](/zh/post/difficult/) [to](/zh/post/to/) implement."
 
 ## 同义词
-- [Solid](/post/solid/)
+- [Solid](/zh/post/solid/)
 - Tangible
-- [Definite](/post/definite/)
-- [Specific](/post/specific/)
+- [Definite](/zh/post/definite/)
+- [Specific](/zh/post/specific/)
 - Realistic

@@ -7,33 +7,33 @@ description = '[ˈəuvəhed] a.在头顶上的；架空的'
 keywords = ['ai words', 'overhead']
 +++
 
-# [Overhead](/en/post/overhead/)
+# [Overhead](/post/overhead/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌoʊvərˈhɛd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Situated [or](/en/post/or/) coming [from](/en/post/from/) [above](/en/post/above/) one's [head](/en/post/head/); higher [up](/en/post/up/) [than](/en/post/than/) [something](/en/post/something/) [else](/en/post/else/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [airplane](/en/post/airplane/) flew [overhead](/en/post/overhead/)."
-- **[Noun](/en/post/noun/)**: Expenses [that](/en/post/that/) [a](/en/post/a/) [business](/en/post/business/) incurs [but](/en/post/but/) [which](/en/post/which/) cannot [be](/en/post/be/) attributed [directly](/en/post/directly/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/), [such](/en/post/such/) [as](/en/post/as/) [rent](/en/post/rent/), utilities, [or](/en/post/or/) salaries. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) needs [to](/en/post/to/) [reduce](/en/post/reduce/) [its](/en/post/its/) [overhead](/en/post/overhead/) costs."
+- **[Adjective](/post/adjective/)**: Situated [or](/post/or/) coming [from](/post/from/) [above](/post/above/) one's [head](/post/head/); higher [up](/post/up/) [than](/post/than/) [something](/post/something/) [else](/post/else/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [airplane](/post/airplane/) flew [overhead](/post/overhead/)."
+- **[Noun](/post/noun/)**: Expenses [that](/post/that/) [a](/post/a/) [business](/post/business/) incurs [but](/post/but/) [which](/post/which/) cannot [be](/post/be/) attributed [directly](/post/directly/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [product](/post/product/) [or](/post/or/) [service](/post/service/), [such](/post/such/) [as](/post/as/) [rent](/post/rent/), utilities, [or](/post/or/) salaries. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) needs [to](/post/to/) [reduce](/post/reduce/) [its](/post/its/) [overhead](/post/overhead/) costs."
 
-### [As](/en/post/as/) [Adjective](/en/post/adjective/)
-- **[Definition](/en/post/definition/)**: Located [above](/en/post/above/) [and](/en/post/and/) [often](/en/post/often/) supported [from](/en/post/from/) [above](/en/post/above/); hanging [over](/en/post/over/). [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) were pipes running [overhead](/en/post/overhead/) [in](/en/post/in/) [the](/en/post/the/) basement."
+### [As](/post/as/) [Adjective](/post/adjective/)
+- **[Definition](/post/definition/)**: Located [above](/post/above/) [and](/post/and/) [often](/post/often/) supported [from](/post/from/) [above](/post/above/); hanging [over](/post/over/). [For](/post/for/) [example](/post/example/): "[There](/post/there/) were pipes running [overhead](/post/overhead/) [in](/post/in/) [the](/post/the/) basement."
   
-  **[Example](/en/post/example/) [Sentence](/en/post/sentence/)**: "[We](/en/post/we/) had [to](/en/post/to/) [install](/en/post/install/) soundproofing panels [on](/en/post/on/) [the](/en/post/the/) [overhead](/en/post/overhead/) [ceiling](/en/post/ceiling/) [to](/en/post/to/) [reduce](/en/post/reduce/) [noise](/en/post/noise/)."
+  **[Example](/post/example/) [Sentence](/post/sentence/)**: "[We](/post/we/) had [to](/post/to/) [install](/post/install/) soundproofing panels [on](/post/on/) [the](/post/the/) [overhead](/post/overhead/) [ceiling](/post/ceiling/) [to](/post/to/) [reduce](/post/reduce/) [noise](/post/noise/)."
 
-### [As](/en/post/as/) [Noun](/en/post/noun/)
-- **[Definition](/en/post/definition/)**: [In](/en/post/in/) [business](/en/post/business/) contexts, [overhead](/en/post/overhead/) refers [to](/en/post/to/) [indirect](/en/post/indirect/) costs [that](/en/post/that/) are [not](/en/post/not/) related [to](/en/post/to/) [production](/en/post/production/) [or](/en/post/or/) services [directly](/en/post/directly/). [These](/en/post/these/) costs are [spread](/en/post/spread/) [across](/en/post/across/) [all](/en/post/all/) products [or](/en/post/or/) services produced [by](/en/post/by/) [the](/en/post/the/) [company](/en/post/company/).
+### [As](/post/as/) [Noun](/post/noun/)
+- **[Definition](/post/definition/)**: [In](/post/in/) [business](/post/business/) contexts, [overhead](/post/overhead/) refers [to](/post/to/) [indirect](/post/indirect/) costs [that](/post/that/) are [not](/post/not/) related [to](/post/to/) [production](/post/production/) [or](/post/or/) services [directly](/post/directly/). [These](/post/these/) costs are [spread](/post/spread/) [across](/post/across/) [all](/post/all/) products [or](/post/or/) services produced [by](/post/by/) [the](/post/the/) [company](/post/company/).
   
-  **[Example](/en/post/example/) [Sentence](/en/post/sentence/)**: "[The](/en/post/the/) [new](/en/post/new/) [factory](/en/post/factory/) has [lower](/en/post/lower/) overheads, [which](/en/post/which/) [will](/en/post/will/) [increase](/en/post/increase/) [our](/en/post/our/) [profit](/en/post/profit/) margins."
+  **[Example](/post/example/) [Sentence](/post/sentence/)**: "[The](/post/the/) [new](/post/new/) [factory](/post/factory/) has [lower](/post/lower/) overheads, [which](/post/which/) [will](/post/will/) [increase](/post/increase/) [our](/post/our/) [profit](/post/profit/) margins."
 
 ## Phrases
-- "[Overhead](/en/post/overhead/) expenses": [General](/en/post/general/) [business](/en/post/business/) costs [not](/en/post/not/) [directly](/en/post/directly/) tied [to](/en/post/to/) [production](/en/post/production/), [like](/en/post/like/) [office](/en/post/office/) [rent](/en/post/rent/) [and](/en/post/and/) [electricity](/en/post/electricity/) bills.
-- "[Overhead](/en/post/overhead/) projector": [A](/en/post/a/) [device](/en/post/device/) [used](/en/post/used/) [to](/en/post/to/) [display](/en/post/display/) images [or](/en/post/or/) [data](/en/post/data/) [onto](/en/post/onto/) [a](/en/post/a/) [screen](/en/post/screen/) [from](/en/post/from/) [above](/en/post/above/) [the](/en/post/the/) presenter [or](/en/post/or/) [audience](/en/post/audience/).
+- "[Overhead](/post/overhead/) expenses": [General](/post/general/) [business](/post/business/) costs [not](/post/not/) [directly](/post/directly/) tied [to](/post/to/) [production](/post/production/), [like](/post/like/) [office](/post/office/) [rent](/post/rent/) [and](/post/and/) [electricity](/post/electricity/) bills.
+- "[Overhead](/post/overhead/) projector": [A](/post/a/) [device](/post/device/) [used](/post/used/) [to](/post/to/) [display](/post/display/) images [or](/post/or/) [data](/post/data/) [onto](/post/onto/) [a](/post/a/) [screen](/post/screen/) [from](/post/from/) [above](/post/above/) [the](/post/the/) presenter [or](/post/or/) [audience](/post/audience/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) birds nested [in](/en/post/in/) [the](/en/post/the/) branches [overhead](/en/post/overhead/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) streamlined operations [to](/en/post/to/) [cut](/en/post/cut/) [down](/en/post/down/) [on](/en/post/on/) [unnecessary](/en/post/unnecessary/) overheads."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) birds nested [in](/post/in/) [the](/post/the/) branches [overhead](/post/overhead/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) streamlined operations [to](/post/to/) [cut](/post/cut/) [down](/post/down/) [on](/post/on/) [unnecessary](/post/unnecessary/) overheads."
 
 ## Synonyms
-- ([As](/en/post/as/) [Adjective](/en/post/adjective/)) - [Above](/en/post/above/), elevated, [upper](/en/post/upper/), lofty
-- ([As](/en/post/as/) [Noun](/en/post/noun/)) - [Indirect](/en/post/indirect/) costs, operating expenses, administrative expenses, fixed costs
+- ([As](/post/as/) [Adjective](/post/adjective/)) - [Above](/post/above/), elevated, [upper](/post/upper/), lofty
+- ([As](/post/as/) [Noun](/post/noun/)) - [Indirect](/post/indirect/) costs, operating expenses, administrative expenses, fixed costs

@@ -7,29 +7,29 @@ description = '[həːz] pron.她的(所有物)'
 keywords = ['ai words', 'hers']
 +++
 
-## [Hers](/en/post/hers/)
+## [Hers](/post/hers/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /hɜrz/
 
 ## Definitions
-- **[Pronoun](/en/post/pronoun/)**: (possessive) Refers [to](/en/post/to/) [a](/en/post/a/) [thing](/en/post/thing/) [or](/en/post/or/) things belonging [to](/en/post/to/) [or](/en/post/or/) associated [with](/en/post/with/) [a](/en/post/a/) [woman](/en/post/woman/), [female](/en/post/female/) [animal](/en/post/animal/), [or](/en/post/or/) [object](/en/post/object/) [previously](/en/post/previously/) mentioned [or](/en/post/or/) [easily](/en/post/easily/) identified. It's [used](/en/post/used/) [without](/en/post/without/) [a](/en/post/a/) [following](/en/post/following/) [noun](/en/post/noun/).
+- **[Pronoun](/post/pronoun/)**: (possessive) Refers [to](/post/to/) [a](/post/a/) [thing](/post/thing/) [or](/post/or/) things belonging [to](/post/to/) [or](/post/or/) associated [with](/post/with/) [a](/post/a/) [woman](/post/woman/), [female](/post/female/) [animal](/post/animal/), [or](/post/or/) [object](/post/object/) [previously](/post/previously/) mentioned [or](/post/or/) [easily](/post/easily/) identified. It's [used](/post/used/) [without](/post/without/) [a](/post/a/) [following](/post/following/) [noun](/post/noun/).
 
-[Example](/en/post/example/) [usage](/en/post/usage/):
-- "[The](/en/post/the/) [book](/en/post/book/) is [hers](/en/post/hers/)." ([Meaning](/en/post/meaning/): [The](/en/post/the/) [book](/en/post/book/) belongs [to](/en/post/to/) [her](/en/post/her/).)
-- "[She](/en/post/she/) pointed [to](/en/post/to/) [the](/en/post/the/) [car](/en/post/car/) [and](/en/post/and/) said [it](/en/post/it/) was [hers](/en/post/hers/)." 
+[Example](/post/example/) [usage](/post/usage/):
+- "[The](/post/the/) [book](/post/book/) is [hers](/post/hers/)." ([Meaning](/post/meaning/): [The](/post/the/) [book](/post/book/) belongs [to](/post/to/) [her](/post/her/).)
+- "[She](/post/she/) pointed [to](/post/to/) [the](/post/the/) [car](/post/car/) [and](/post/and/) said [it](/post/it/) was [hers](/post/hers/)." 
 
 ## Phrases
-- "[Hers](/en/post/hers/) [alone](/en/post/alone/)": Signifying [something](/en/post/something/) [that](/en/post/that/) [solely](/en/post/solely/) belongs [to](/en/post/to/) [her](/en/post/her/).
-- "[Hers](/en/post/hers/) [and](/en/post/and/) [his](/en/post/his/)": Referring [to](/en/post/to/) possessions shared [by](/en/post/by/) [a](/en/post/a/) [couple](/en/post/couple/).
+- "[Hers](/post/hers/) [alone](/post/alone/)": Signifying [something](/post/something/) [that](/post/that/) [solely](/post/solely/) belongs [to](/post/to/) [her](/post/her/).
+- "[Hers](/post/hers/) [and](/post/and/) [his](/post/his/)": Referring [to](/post/to/) possessions shared [by](/post/by/) [a](/post/a/) [couple](/post/couple/).
 
-## [Example](/en/post/example/) Sentences
-- "[The](/en/post/the/) [red](/en/post/red/) [dress](/en/post/dress/) is [hers](/en/post/hers/); [she](/en/post/she/) wore [it](/en/post/it/) [to](/en/post/to/) [the](/en/post/the/) [wedding](/en/post/wedding/)."
-- "[This](/en/post/this/) [room](/en/post/room/) is [hers](/en/post/hers/) [to](/en/post/to/) [decorate](/en/post/decorate/) [as](/en/post/as/) [she](/en/post/she/) pleases."
+## [Example](/post/example/) Sentences
+- "[The](/post/the/) [red](/post/red/) [dress](/post/dress/) is [hers](/post/hers/); [she](/post/she/) wore [it](/post/it/) [to](/post/to/) [the](/post/the/) [wedding](/post/wedding/)."
+- "[This](/post/this/) [room](/post/room/) is [hers](/post/hers/) [to](/post/to/) [decorate](/post/decorate/) [as](/post/as/) [she](/post/she/) pleases."
 
 ## Synonyms
-- [Her](/en/post/her/) [own](/en/post/own/)
-- Belonging [to](/en/post/to/) [her](/en/post/her/)
-- Herself's ([in](/en/post/in/) informal contexts)
+- [Her](/post/her/) [own](/post/own/)
+- Belonging [to](/post/to/) [her](/post/her/)
+- Herself's ([in](/post/in/) informal contexts)
   
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) "[hers](/en/post/hers/)" is [only](/en/post/only/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) possessive [pronoun](/en/post/pronoun/); [it](/en/post/it/) does [not](/en/post/not/) [have](/en/post/have/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) [like](/en/post/like/) [noun](/en/post/noun/), [verb](/en/post/verb/), [adjective](/en/post/adjective/), etc.
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) "[hers](/post/hers/)" is [only](/post/only/) [used](/post/used/) [as](/post/as/) [a](/post/a/) possessive [pronoun](/post/pronoun/); [it](/post/it/) does [not](/post/not/) [have](/post/have/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) [like](/post/like/) [noun](/post/noun/), [verb](/post/verb/), [adjective](/post/adjective/), etc.

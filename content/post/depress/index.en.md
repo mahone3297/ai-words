@@ -7,43 +7,43 @@ description = '[diˈpres] vt.使沮丧；按下'
 keywords = ['ai words', 'depress']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈprez/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [feeling](/en/post/feeling/) [of](/en/post/of/) [being](/en/post/being/) [sad](/en/post/sad/), [low](/en/post/low/) [in](/en/post/in/) spirits, [or](/en/post/or/) disheartened. [Example](/en/post/example/): "[She](/en/post/she/) was struggling [with](/en/post/with/) depression [after](/en/post/after/) losing [her](/en/post/her/) [job](/en/post/job/)."
-2. [A](/en/post/a/) [decrease](/en/post/decrease/) [in](/en/post/in/) [mood](/en/post/mood/), [energy](/en/post/energy/), [or](/en/post/or/) [activity](/en/post/activity/) [level](/en/post/level/). [Example](/en/post/example/): "[The](/en/post/the/) [rainy](/en/post/rainy/) [weather](/en/post/weather/) [often](/en/post/often/) causes [a](/en/post/a/) [general](/en/post/general/) depression [in](/en/post/in/) people's moods."
-3. (Psychiatry) [A](/en/post/a/) [medical](/en/post/medical/) [condition](/en/post/condition/) characterized [by](/en/post/by/) persistent feelings [of](/en/post/of/) [sadness](/en/post/sadness/), [loss](/en/post/loss/) [of](/en/post/of/) [interest](/en/post/interest/), [and](/en/post/and/) [difficulty](/en/post/difficulty/) functioning.
+### [Noun](/post/noun/)
+1. [The](/post/the/) [feeling](/post/feeling/) [of](/post/of/) [being](/post/being/) [sad](/post/sad/), [low](/post/low/) [in](/post/in/) spirits, [or](/post/or/) disheartened. [Example](/post/example/): "[She](/post/she/) was struggling [with](/post/with/) depression [after](/post/after/) losing [her](/post/her/) [job](/post/job/)."
+2. [A](/post/a/) [decrease](/post/decrease/) [in](/post/in/) [mood](/post/mood/), [energy](/post/energy/), [or](/post/or/) [activity](/post/activity/) [level](/post/level/). [Example](/post/example/): "[The](/post/the/) [rainy](/post/rainy/) [weather](/post/weather/) [often](/post/often/) causes [a](/post/a/) [general](/post/general/) depression [in](/post/in/) people's moods."
+3. (Psychiatry) [A](/post/a/) [medical](/post/medical/) [condition](/post/condition/) characterized [by](/post/by/) persistent feelings [of](/post/of/) [sadness](/post/sadness/), [loss](/post/loss/) [of](/post/of/) [interest](/post/interest/), [and](/post/and/) [difficulty](/post/difficulty/) functioning.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [cause](/en/post/cause/) [or](/en/post/or/) [bring](/en/post/bring/) [down](/en/post/down/) [in](/en/post/in/) [mood](/en/post/mood/) [or](/en/post/or/) spirits. [Example](/en/post/example/): "[The](/en/post/the/) [news](/en/post/news/) [of](/en/post/of/) [their](/en/post/their/) breakup depressed [her](/en/post/her/)."
-2. [To](/en/post/to/) [reduce](/en/post/reduce/) [or](/en/post/or/) [lower](/en/post/lower/) [in](/en/post/in/) [value](/en/post/value/), [level](/en/post/level/), [or](/en/post/or/) [quality](/en/post/quality/). [Example](/en/post/example/): "[The](/en/post/the/) [stock](/en/post/stock/) market's decline depressed investor [confidence](/en/post/confidence/)."
-3. ([Medicine](/en/post/medicine/)) [To](/en/post/to/) [treat](/en/post/treat/) [with](/en/post/with/) antidepressant medication [or](/en/post/or/) therapy. [Example](/en/post/example/): "[He](/en/post/he/) started taking medication [to](/en/post/to/) [help](/en/post/help/) [depress](/en/post/depress/) [his](/en/post/his/) [anxiety](/en/post/anxiety/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [cause](/post/cause/) [or](/post/or/) [bring](/post/bring/) [down](/post/down/) [in](/post/in/) [mood](/post/mood/) [or](/post/or/) spirits. [Example](/post/example/): "[The](/post/the/) [news](/post/news/) [of](/post/of/) [their](/post/their/) breakup depressed [her](/post/her/)."
+2. [To](/post/to/) [reduce](/post/reduce/) [or](/post/or/) [lower](/post/lower/) [in](/post/in/) [value](/post/value/), [level](/post/level/), [or](/post/or/) [quality](/post/quality/). [Example](/post/example/): "[The](/post/the/) [stock](/post/stock/) market's decline depressed investor [confidence](/post/confidence/)."
+3. ([Medicine](/post/medicine/)) [To](/post/to/) [treat](/post/treat/) [with](/post/with/) antidepressant medication [or](/post/or/) therapy. [Example](/post/example/): "[He](/post/he/) started taking medication [to](/post/to/) [help](/post/help/) [depress](/post/depress/) [his](/post/his/) [anxiety](/post/anxiety/)."
 
-### [Adjective](/en/post/adjective/)
-1. Causing [or](/en/post/or/) indicative [of](/en/post/of/) [sadness](/en/post/sadness/) [or](/en/post/or/) [low](/en/post/low/) spirits. [Example](/en/post/example/): "[A](/en/post/a/) depressed [atmosphere](/en/post/atmosphere/) filled [the](/en/post/the/) [room](/en/post/room/)."
-2. Characterized [by](/en/post/by/) [a](/en/post/a/) [low](/en/post/low/) [or](/en/post/or/) decreased [level](/en/post/level/). [Example](/en/post/example/): "[A](/en/post/a/) depressed immune [system](/en/post/system/) makes [one](/en/post/one/) [more](/en/post/more/) susceptible [to](/en/post/to/) [illness](/en/post/illness/)."
+### [Adjective](/post/adjective/)
+1. Causing [or](/post/or/) indicative [of](/post/of/) [sadness](/post/sadness/) [or](/post/or/) [low](/post/low/) spirits. [Example](/post/example/): "[A](/post/a/) depressed [atmosphere](/post/atmosphere/) filled [the](/post/the/) [room](/post/room/)."
+2. Characterized [by](/post/by/) [a](/post/a/) [low](/post/low/) [or](/post/or/) decreased [level](/post/level/). [Example](/post/example/): "[A](/post/a/) depressed immune [system](/post/system/) makes [one](/post/one/) [more](/post/more/) susceptible [to](/post/to/) [illness](/post/illness/)."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) depressed [manner](/en/post/manner/); gloomily. [Example](/en/post/example/): "[He](/en/post/he/) spoke [in](/en/post/in/) [a](/en/post/a/) depressed [tone](/en/post/tone/)."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) depressed [manner](/post/manner/); gloomily. [Example](/post/example/): "[He](/post/he/) spoke [in](/post/in/) [a](/post/a/) depressed [tone](/post/tone/)."
 
 ## Phrases
-- "[Be](/en/post/be/) depressed [about](/en/post/about/)" [means](/en/post/means/) [to](/en/post/to/) [feel](/en/post/feel/) [sad](/en/post/sad/) [or](/en/post/or/) disheartened [over](/en/post/over/) [something](/en/post/something/).
-- "Depression [era](/en/post/era/)" refers [to](/en/post/to/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [economic](/en/post/economic/) [hardship](/en/post/hardship/) [in](/en/post/in/) [history](/en/post/history/).
-- "Depressed levels" indicates reduced quantities [or](/en/post/or/) [quality](/en/post/quality/).
+- "[Be](/post/be/) depressed [about](/post/about/)" [means](/post/means/) [to](/post/to/) [feel](/post/feel/) [sad](/post/sad/) [or](/post/or/) disheartened [over](/post/over/) [something](/post/something/).
+- "Depression [era](/post/era/)" refers [to](/post/to/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [economic](/post/economic/) [hardship](/post/hardship/) [in](/post/in/) [history](/post/history/).
+- "Depressed levels" indicates reduced quantities [or](/post/or/) [quality](/post/quality/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was diagnosed [with](/en/post/with/) clinical depression [after](/en/post/after/) years [of](/en/post/of/) struggling."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) economy's depression led [to](/en/post/to/) [high](/en/post/high/) unemployment rates."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) depressed [patient](/en/post/patient/) had [difficulty](/en/post/difficulty/) [finding](/en/post/finding/) motivation."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) sat [in](/en/post/in/) [a](/en/post/a/) deeply depressed [silence](/en/post/silence/) [after](/en/post/after/) hearing [the](/en/post/the/) [news](/en/post/news/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was diagnosed [with](/post/with/) clinical depression [after](/post/after/) years [of](/post/of/) struggling."
+- **[Verb](/post/verb/)**: "[The](/post/the/) economy's depression led [to](/post/to/) [high](/post/high/) unemployment rates."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) depressed [patient](/post/patient/) had [difficulty](/post/difficulty/) [finding](/post/finding/) motivation."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) sat [in](/post/in/) [a](/post/a/) deeply depressed [silence](/post/silence/) [after](/post/after/) hearing [the](/post/the/) [news](/post/news/)."
 
 ## Synonyms
-- [Sadness](/en/post/sadness/)
+- [Sadness](/post/sadness/)
 - Melancholy
-- [Low](/en/post/low/) spirits
+- [Low](/post/low/) spirits
 - Despondent
 - Disheartened
-- Depressed [state](/en/post/state/)
-- Depressed [condition](/en/post/condition/)
+- Depressed [state](/post/state/)
+- Depressed [condition](/post/condition/)

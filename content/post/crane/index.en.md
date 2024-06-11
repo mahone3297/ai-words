@@ -7,41 +7,41 @@ description = '[krein] n.起重机，摄影升降机'
 keywords = ['ai words', 'crane']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kreɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [large](/en/post/large/), long-necked [bird](/en/post/bird/) [with](/en/post/with/) [a](/en/post/a/) [long](/en/post/long/) curved [bill](/en/post/bill/), [found](/en/post/found/) [in](/en/post/in/) [many](/en/post/many/) parts [of](/en/post/of/) [the](/en/post/the/) [world](/en/post/world/), known [for](/en/post/for/) [its](/en/post/its/) [ability](/en/post/ability/) [to](/en/post/to/) [lift](/en/post/lift/) [heavy](/en/post/heavy/) objects.**
-- **[A](/en/post/a/) [machine](/en/post/machine/) [with](/en/post/with/) [a](/en/post/a/) [long](/en/post/long/) [arm](/en/post/arm/) [and](/en/post/and/) [powerful](/en/post/powerful/) [grip](/en/post/grip/), [used](/en/post/used/) [for](/en/post/for/) lifting [and](/en/post/and/) moving [heavy](/en/post/heavy/) loads, [especially](/en/post/especially/) [in](/en/post/in/) [construction](/en/post/construction/) [or](/en/post/or/) ports.**
-- **[A](/en/post/a/) [tall](/en/post/tall/), [slender](/en/post/slender/) [tower](/en/post/tower/) [with](/en/post/with/) [a](/en/post/a/) crane-like [structure](/en/post/structure/) [used](/en/post/used/) [to](/en/post/to/) [support](/en/post/support/) antennas [or](/en/post/or/) [other](/en/post/other/) [equipment](/en/post/equipment/), [often](/en/post/often/) [found](/en/post/found/) [at](/en/post/at/) [communication](/en/post/communication/) centers.**
+### [Noun](/post/noun/)
+- **[A](/post/a/) [type](/post/type/) [of](/post/of/) [large](/post/large/), long-necked [bird](/post/bird/) [with](/post/with/) [a](/post/a/) [long](/post/long/) curved [bill](/post/bill/), [found](/post/found/) [in](/post/in/) [many](/post/many/) parts [of](/post/of/) [the](/post/the/) [world](/post/world/), known [for](/post/for/) [its](/post/its/) [ability](/post/ability/) [to](/post/to/) [lift](/post/lift/) [heavy](/post/heavy/) objects.**
+- **[A](/post/a/) [machine](/post/machine/) [with](/post/with/) [a](/post/a/) [long](/post/long/) [arm](/post/arm/) [and](/post/and/) [powerful](/post/powerful/) [grip](/post/grip/), [used](/post/used/) [for](/post/for/) lifting [and](/post/and/) moving [heavy](/post/heavy/) loads, [especially](/post/especially/) [in](/post/in/) [construction](/post/construction/) [or](/post/or/) ports.**
+- **[A](/post/a/) [tall](/post/tall/), [slender](/post/slender/) [tower](/post/tower/) [with](/post/with/) [a](/post/a/) crane-like [structure](/post/structure/) [used](/post/used/) [to](/post/to/) [support](/post/support/) antennas [or](/post/or/) [other](/post/other/) [equipment](/post/equipment/), [often](/post/often/) [found](/post/found/) [at](/post/at/) [communication](/post/communication/) centers.**
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [operate](/en/post/operate/) [or](/en/post/or/) [move](/en/post/move/) [a](/en/post/a/) [crane](/en/post/crane/).**
-- **[To](/en/post/to/) [lift](/en/post/lift/) [or](/en/post/or/) hoist [something](/en/post/something/) using [a](/en/post/a/) [crane](/en/post/crane/).**
-- **[To](/en/post/to/) [position](/en/post/position/) [oneself](/en/post/oneself/) [or](/en/post/or/) an [object](/en/post/object/) [with](/en/post/with/) [the](/en/post/the/) [help](/en/post/help/) [of](/en/post/of/) [a](/en/post/a/) [crane](/en/post/crane/) [or](/en/post/or/) [a](/en/post/a/) [similar](/en/post/similar/) [device](/en/post/device/).**
+### [Verb](/post/verb/)
+- **[To](/post/to/) [operate](/post/operate/) [or](/post/or/) [move](/post/move/) [a](/post/a/) [crane](/post/crane/).**
+- **[To](/post/to/) [lift](/post/lift/) [or](/post/or/) hoist [something](/post/something/) using [a](/post/a/) [crane](/post/crane/).**
+- **[To](/post/to/) [position](/post/position/) [oneself](/post/oneself/) [or](/post/or/) an [object](/post/object/) [with](/post/with/) [the](/post/the/) [help](/post/help/) [of](/post/of/) [a](/post/a/) [crane](/post/crane/) [or](/post/or/) [a](/post/a/) [similar](/post/similar/) [device](/post/device/).**
 
-### [Adjective](/en/post/adjective/)
-- **Referred [to](/en/post/to/) [a](/en/post/a/) [crane](/en/post/crane/) ([bird](/en/post/bird/)).**
+### [Adjective](/post/adjective/)
+- **Referred [to](/post/to/) [a](/post/a/) [crane](/post/crane/) ([bird](/post/bird/)).**
 
 ## Phrases
-- "[Crane](/en/post/crane/) [operator](/en/post/operator/)" [or](/en/post/or/) "[Crane](/en/post/crane/) [worker](/en/post/worker/)"
-- "Working [on](/en/post/on/) [a](/en/post/a/) [crane](/en/post/crane/) [job](/en/post/job/)"
-- "[Crane](/en/post/crane/) overhang" [or](/en/post/or/) "[Crane](/en/post/crane/) [span](/en/post/span/)"
+- "[Crane](/post/crane/) [operator](/post/operator/)" [or](/post/or/) "[Crane](/post/crane/) [worker](/post/worker/)"
+- "Working [on](/post/on/) [a](/post/a/) [crane](/post/crane/) [job](/post/job/)"
+- "[Crane](/post/crane/) overhang" [or](/post/or/) "[Crane](/post/crane/) [span](/post/span/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) crane's [long](/en/post/long/) [neck](/en/post/neck/) allowed [it](/en/post/it/) [to](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) [high](/en/post/high/) [tree](/en/post/tree/) branches."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [construction](/en/post/construction/) workers were operating cranes [to](/en/post/to/) [assemble](/en/post/assemble/) [the](/en/post/the/) [bridge](/en/post/bridge/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [crane](/en/post/crane/) birds gracefully flew [over](/en/post/over/) [the](/en/post/the/) [river](/en/post/river/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) crane's [long](/post/long/) [neck](/post/neck/) allowed [it](/post/it/) [to](/post/to/) [reach](/post/reach/) [the](/post/the/) [high](/post/high/) [tree](/post/tree/) branches."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [construction](/post/construction/) workers were operating cranes [to](/post/to/) [assemble](/post/assemble/) [the](/post/the/) [bridge](/post/bridge/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [crane](/post/crane/) birds gracefully flew [over](/post/over/) [the](/post/the/) [river](/post/river/)."
 
 ## Synonyms
 - Hoisting machinery
-- Gantry [crane](/en/post/crane/)
-- [Tower](/en/post/tower/) [crane](/en/post/crane/)
+- Gantry [crane](/post/crane/)
+- [Tower](/post/tower/) [crane](/post/crane/)
 - Derrick
 - Boom
 
 ## Antonyms
-- [Land](/en/post/land/) [vehicle](/en/post/vehicle/)
-- [Small](/en/post/small/) [aircraft](/en/post/aircraft/)
-- Towering ([in](/en/post/in/) context [of](/en/post/of/) [not](/en/post/not/) [being](/en/post/being/) [a](/en/post/a/) [crane](/en/post/crane/))
+- [Land](/post/land/) [vehicle](/post/vehicle/)
+- [Small](/post/small/) [aircraft](/post/aircraft/)
+- Towering ([in](/post/in/) context [of](/post/of/) [not](/post/not/) [being](/post/being/) [a](/post/a/) [crane](/post/crane/))

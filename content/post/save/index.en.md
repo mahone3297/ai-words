@@ -7,42 +7,42 @@ description = '[seiv] vt.救；节省；储蓄'
 keywords = ['ai words', 'save']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈveɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) preserving [or](/en/post/or/) securing [something](/en/post/something/) [from](/en/post/from/) [harm](/en/post/harm/), [loss](/en/post/loss/), [or](/en/post/or/) [destruction](/en/post/destruction/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) saved [the](/en/post/the/) endangered species [from](/en/post/from/) extinction."
-2. [Financial](/en/post/financial/) resources [set](/en/post/set/) [aside](/en/post/aside/) [for](/en/post/for/) [future](/en/post/future/) [use](/en/post/use/) [or](/en/post/or/) emergencies. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [family](/en/post/family/) has [a](/en/post/a/) savings [account](/en/post/account/) [for](/en/post/for/) [unexpected](/en/post/unexpected/) expenses."
-3. [A](/en/post/a/) recording [or](/en/post/or/) [digital](/en/post/digital/) [file](/en/post/file/) [that](/en/post/that/) has been stored. [For](/en/post/for/) [example](/en/post/example/): "I backed [up](/en/post/up/) [my](/en/post/my/) photos [to](/en/post/to/) [save](/en/post/save/) [them](/en/post/them/) [on](/en/post/on/) [my](/en/post/my/) [computer](/en/post/computer/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) preserving [or](/post/or/) securing [something](/post/something/) [from](/post/from/) [harm](/post/harm/), [loss](/post/loss/), [or](/post/or/) [destruction](/post/destruction/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) saved [the](/post/the/) endangered species [from](/post/from/) extinction."
+2. [Financial](/post/financial/) resources [set](/post/set/) [aside](/post/aside/) [for](/post/for/) [future](/post/future/) [use](/post/use/) [or](/post/or/) emergencies. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [family](/post/family/) has [a](/post/a/) savings [account](/post/account/) [for](/post/for/) [unexpected](/post/unexpected/) expenses."
+3. [A](/post/a/) recording [or](/post/or/) [digital](/post/digital/) [file](/post/file/) [that](/post/that/) has been stored. [For](/post/for/) [example](/post/example/): "I backed [up](/post/up/) [my](/post/my/) photos [to](/post/to/) [save](/post/save/) [them](/post/them/) [on](/post/on/) [my](/post/my/) [computer](/post/computer/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [keep](/en/post/keep/) [or](/en/post/or/) [protect](/en/post/protect/) [from](/en/post/from/) [harm](/en/post/harm/), [injury](/en/post/injury/), [or](/en/post/or/) [loss](/en/post/loss/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) saved [the](/en/post/the/) drowning [child](/en/post/child/) [from](/en/post/from/) [the](/en/post/the/) [river](/en/post/river/)."
-2. [To](/en/post/to/) [store](/en/post/store/) [or](/en/post/or/) [preserve](/en/post/preserve/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) using [it](/en/post/it/) [later](/en/post/later/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) saved [the](/en/post/the/) [old](/en/post/old/) letters [in](/en/post/in/) [a](/en/post/a/) [box](/en/post/box/)."
-3. [To](/en/post/to/) [transfer](/en/post/transfer/) [data](/en/post/data/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/), typically [for](/en/post/for/) backup purposes. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) saved [his](/en/post/his/) [work](/en/post/work/) [before](/en/post/before/) closing [the](/en/post/the/) [program](/en/post/program/)."
-4. (Computing) [To](/en/post/to/) [stop](/en/post/stop/) [the](/en/post/the/) execution [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [application](/en/post/application/). [For](/en/post/for/) [example](/en/post/example/): "[To](/en/post/to/) [close](/en/post/close/) [a](/en/post/a/) tab, right-click [and](/en/post/and/) [select](/en/post/select/) '[Save](/en/post/save/)' [or](/en/post/or/) '[Exit](/en/post/exit/).'"
+### [Verb](/post/verb/)
+1. [To](/post/to/) [keep](/post/keep/) [or](/post/or/) [protect](/post/protect/) [from](/post/from/) [harm](/post/harm/), [injury](/post/injury/), [or](/post/or/) [loss](/post/loss/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) saved [the](/post/the/) drowning [child](/post/child/) [from](/post/from/) [the](/post/the/) [river](/post/river/)."
+2. [To](/post/to/) [store](/post/store/) [or](/post/or/) [preserve](/post/preserve/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) using [it](/post/it/) [later](/post/later/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) saved [the](/post/the/) [old](/post/old/) letters [in](/post/in/) [a](/post/a/) [box](/post/box/)."
+3. [To](/post/to/) [transfer](/post/transfer/) [data](/post/data/) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/), typically [for](/post/for/) backup purposes. [For](/post/for/) [example](/post/example/): "[He](/post/he/) saved [his](/post/his/) [work](/post/work/) [before](/post/before/) closing [the](/post/the/) [program](/post/program/)."
+4. (Computing) [To](/post/to/) [stop](/post/stop/) [the](/post/the/) execution [of](/post/of/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [application](/post/application/). [For](/post/for/) [example](/post/example/): "[To](/post/to/) [close](/post/close/) [a](/post/a/) tab, right-click [and](/post/and/) [select](/post/select/) '[Save](/post/save/)' [or](/post/or/) '[Exit](/post/exit/).'"
 
-### [Adjective](/en/post/adjective/)
-1. [Suitable](/en/post/suitable/) [for](/en/post/for/) keeping [or](/en/post/or/) preserving. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [waterproof](/en/post/waterproof/) [container](/en/post/container/) is [essential](/en/post/essential/) [for](/en/post/for/) [saving](/en/post/saving/) [food](/en/post/food/) [during](/en/post/during/) [a](/en/post/a/) camping [trip](/en/post/trip/)."
-2. Designed [to](/en/post/to/) economize [or](/en/post/or/) [reduce](/en/post/reduce/) [waste](/en/post/waste/). [For](/en/post/for/) [example](/en/post/example/): "Energy-saving [light](/en/post/light/) bulbs are environmentally [friendly](/en/post/friendly/)."
+### [Adjective](/post/adjective/)
+1. [Suitable](/post/suitable/) [for](/post/for/) keeping [or](/post/or/) preserving. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [waterproof](/post/waterproof/) [container](/post/container/) is [essential](/post/essential/) [for](/post/for/) [saving](/post/saving/) [food](/post/food/) [during](/post/during/) [a](/post/a/) camping [trip](/post/trip/)."
+2. Designed [to](/post/to/) economize [or](/post/or/) [reduce](/post/reduce/) [waste](/post/waste/). [For](/post/for/) [example](/post/example/): "Energy-saving [light](/post/light/) bulbs are environmentally [friendly](/post/friendly/)."
 
 ## Phrases
-- "[Save](/en/post/save/) [money](/en/post/money/)" [means](/en/post/means/) [to](/en/post/to/) [accumulate](/en/post/accumulate/) funds [for](/en/post/for/) [future](/en/post/future/) [use](/en/post/use/).
-- "[Save](/en/post/save/) [face](/en/post/face/)" is [to](/en/post/to/) [maintain](/en/post/maintain/) one's dignity [or](/en/post/or/) [reputation](/en/post/reputation/).
-- "[Save](/en/post/save/) [the](/en/post/the/) [day](/en/post/day/)" [means](/en/post/means/) [to](/en/post/to/) [come](/en/post/come/) [to](/en/post/to/) someone's [rescue](/en/post/rescue/) [or](/en/post/or/) [solve](/en/post/solve/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/).
+- "[Save](/post/save/) [money](/post/money/)" [means](/post/means/) [to](/post/to/) [accumulate](/post/accumulate/) funds [for](/post/for/) [future](/post/future/) [use](/post/use/).
+- "[Save](/post/save/) [face](/post/face/)" is [to](/post/to/) [maintain](/post/maintain/) one's dignity [or](/post/or/) [reputation](/post/reputation/).
+- "[Save](/post/save/) [the](/post/the/) [day](/post/day/)" [means](/post/means/) [to](/post/to/) [come](/post/come/) [to](/post/to/) someone's [rescue](/post/rescue/) [or](/post/or/) [solve](/post/solve/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) saved [her](/en/post/her/) retirement [fund](/en/post/fund/) diligently [every](/en/post/every/) [month](/en/post/month/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) recommended taking antibiotics [to](/en/post/to/) [save](/en/post/save/) [the](/en/post/the/) patient's [life](/en/post/life/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) energy-saving [light](/en/post/light/) [bulb](/en/post/bulb/) lasted [much](/en/post/much/) longer [than](/en/post/than/) [the](/en/post/the/) [traditional](/en/post/traditional/) [one](/en/post/one/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) saved [her](/post/her/) retirement [fund](/post/fund/) diligently [every](/post/every/) [month](/post/month/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [doctor](/post/doctor/) recommended taking antibiotics [to](/post/to/) [save](/post/save/) [the](/post/the/) patient's [life](/post/life/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) energy-saving [light](/post/light/) [bulb](/post/bulb/) lasted [much](/post/much/) longer [than](/post/than/) [the](/post/the/) [traditional](/post/traditional/) [one](/post/one/)."
 
 ## Synonyms
-- [Preserve](/en/post/preserve/)
-- [Protect](/en/post/protect/)
-- [Maintain](/en/post/maintain/)
-- [Guard](/en/post/guard/)
-- [Retain](/en/post/retain/)
-- [Store](/en/post/store/)
-- [Accumulate](/en/post/accumulate/)
+- [Preserve](/post/preserve/)
+- [Protect](/post/protect/)
+- [Maintain](/post/maintain/)
+- [Guard](/post/guard/)
+- [Retain](/post/retain/)
+- [Store](/post/store/)
+- [Accumulate](/post/accumulate/)
 - Economize
 - Conserve

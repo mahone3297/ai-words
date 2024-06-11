@@ -7,44 +7,44 @@ description = '[plʌk] vt.采，摘；拉下 n.拉'
 keywords = ['ai words', 'pluck']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /plʌk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) plant's [fruit](/en/post/fruit/) [or](/en/post/or/) [flower](/en/post/flower/)**: [The](/en/post/the/) [soft](/en/post/soft/), [usually](/en/post/usually/) edible [part](/en/post/part/) [that](/en/post/that/) grows [on](/en/post/on/) [a](/en/post/a/) [plant](/en/post/plant/) [and](/en/post/and/) is [often](/en/post/often/) pulled [off](/en/post/off/) [by](/en/post/by/) [hand](/en/post/hand/). [Example](/en/post/example/): "[She](/en/post/she/) plucked [a](/en/post/a/) [ripe](/en/post/ripe/) [strawberry](/en/post/strawberry/) [from](/en/post/from/) [the](/en/post/the/) [garden](/en/post/garden/)."
-- **Pulling [out](/en/post/out/) forcefully**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) removing [something](/en/post/something/), typically [with](/en/post/with/) [force](/en/post/force/), [from](/en/post/from/) [its](/en/post/its/) [position](/en/post/position/) [or](/en/post/or/) attachment. [Example](/en/post/example/): "[He](/en/post/he/) plucked [the](/en/post/the/) [thorn](/en/post/thorn/) [from](/en/post/from/) [his](/en/post/his/) [finger](/en/post/finger/)."
-- **[Courage](/en/post/courage/) [or](/en/post/or/) [determination](/en/post/determination/)**: An [expression](/en/post/expression/) [of](/en/post/of/) bravery [or](/en/post/or/) [confidence](/en/post/confidence/). [Example](/en/post/example/): "[She](/en/post/she/) showed [great](/en/post/great/) [pluck](/en/post/pluck/) [when](/en/post/when/) [she](/en/post/she/) faced [her](/en/post/her/) fears."
+### [Noun](/post/noun/)
+- **[A](/post/a/) plant's [fruit](/post/fruit/) [or](/post/or/) [flower](/post/flower/)**: [The](/post/the/) [soft](/post/soft/), [usually](/post/usually/) edible [part](/post/part/) [that](/post/that/) grows [on](/post/on/) [a](/post/a/) [plant](/post/plant/) [and](/post/and/) is [often](/post/often/) pulled [off](/post/off/) [by](/post/by/) [hand](/post/hand/). [Example](/post/example/): "[She](/post/she/) plucked [a](/post/a/) [ripe](/post/ripe/) [strawberry](/post/strawberry/) [from](/post/from/) [the](/post/the/) [garden](/post/garden/)."
+- **Pulling [out](/post/out/) forcefully**: [The](/post/the/) [act](/post/act/) [of](/post/of/) removing [something](/post/something/), typically [with](/post/with/) [force](/post/force/), [from](/post/from/) [its](/post/its/) [position](/post/position/) [or](/post/or/) attachment. [Example](/post/example/): "[He](/post/he/) plucked [the](/post/the/) [thorn](/post/thorn/) [from](/post/from/) [his](/post/his/) [finger](/post/finger/)."
+- **[Courage](/post/courage/) [or](/post/or/) [determination](/post/determination/)**: An [expression](/post/expression/) [of](/post/of/) bravery [or](/post/or/) [confidence](/post/confidence/). [Example](/post/example/): "[She](/post/she/) showed [great](/post/great/) [pluck](/post/pluck/) [when](/post/when/) [she](/post/she/) faced [her](/post/her/) fears."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [remove](/en/post/remove/) [or](/en/post/or/) [pick](/en/post/pick/)**: [To](/en/post/to/) [take](/en/post/take/) [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [small](/en/post/small/) [object](/en/post/object/), [by](/en/post/by/) pulling [it](/en/post/it/) [off](/en/post/off/) [or](/en/post/or/) [through](/en/post/through/). [Example](/en/post/example/): "[He](/en/post/he/) plucked [a](/en/post/a/) [feather](/en/post/feather/) [from](/en/post/from/) [the](/en/post/the/) [pillow](/en/post/pillow/)."
-- **[To](/en/post/to/) [gather](/en/post/gather/) [or](/en/post/or/) [obtain](/en/post/obtain/)**: [To](/en/post/to/) [acquire](/en/post/acquire/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [effort](/en/post/effort/) [or](/en/post/or/) [determination](/en/post/determination/). [Example](/en/post/example/): "[He](/en/post/he/) plucked [a](/en/post/a/) [solution](/en/post/solution/) [to](/en/post/to/) [the](/en/post/the/) [problem](/en/post/problem/) [from](/en/post/from/) [his](/en/post/his/) [memory](/en/post/memory/)."
-- **[To](/en/post/to/) extract**: [To](/en/post/to/) [take](/en/post/take/) [something](/en/post/something/) [out](/en/post/out/) [of](/en/post/of/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [state](/en/post/state/). [Example](/en/post/example/): "[She](/en/post/she/) plucked [herself](/en/post/herself/) [up](/en/post/up/) [from](/en/post/from/) [the](/en/post/the/) [despair](/en/post/despair/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [remove](/post/remove/) [or](/post/or/) [pick](/post/pick/)**: [To](/post/to/) [take](/post/take/) [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [small](/post/small/) [object](/post/object/), [by](/post/by/) pulling [it](/post/it/) [off](/post/off/) [or](/post/or/) [through](/post/through/). [Example](/post/example/): "[He](/post/he/) plucked [a](/post/a/) [feather](/post/feather/) [from](/post/from/) [the](/post/the/) [pillow](/post/pillow/)."
+- **[To](/post/to/) [gather](/post/gather/) [or](/post/or/) [obtain](/post/obtain/)**: [To](/post/to/) [acquire](/post/acquire/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [effort](/post/effort/) [or](/post/or/) [determination](/post/determination/). [Example](/post/example/): "[He](/post/he/) plucked [a](/post/a/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/) [from](/post/from/) [his](/post/his/) [memory](/post/memory/)."
+- **[To](/post/to/) extract**: [To](/post/to/) [take](/post/take/) [something](/post/something/) [out](/post/out/) [of](/post/of/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [state](/post/state/). [Example](/post/example/): "[She](/post/she/) plucked [herself](/post/herself/) [up](/post/up/) [from](/post/from/) [the](/post/the/) [despair](/post/despair/)."
 
-### [Adjective](/en/post/adjective/)
-- **Determined [or](/en/post/or/) [brave](/en/post/brave/)**: Characterized [by](/en/post/by/) [courage](/en/post/courage/) [and](/en/post/and/) willingness [to](/en/post/to/) [face](/en/post/face/) challenges. [Example](/en/post/example/): "[He](/en/post/he/) was [a](/en/post/a/) plucky [little](/en/post/little/) [boy](/en/post/boy/) [who](/en/post/who/) [never](/en/post/never/) backed [down](/en/post/down/)."
+### [Adjective](/post/adjective/)
+- **Determined [or](/post/or/) [brave](/post/brave/)**: Characterized [by](/post/by/) [courage](/post/courage/) [and](/post/and/) willingness [to](/post/to/) [face](/post/face/) challenges. [Example](/post/example/): "[He](/post/he/) was [a](/post/a/) plucky [little](/post/little/) [boy](/post/boy/) [who](/post/who/) [never](/post/never/) backed [down](/post/down/)."
 
-### [Adverb](/en/post/adverb/)
-- (Informal) Boldly [or](/en/post/or/) confidently. [Example](/en/post/example/): "[She](/en/post/she/) spoke [with](/en/post/with/) [a](/en/post/a/) plucky [determination](/en/post/determination/)."
+### [Adverb](/post/adverb/)
+- (Informal) Boldly [or](/post/or/) confidently. [Example](/post/example/): "[She](/post/she/) spoke [with](/post/with/) [a](/post/a/) plucky [determination](/post/determination/)."
 
 ## Phrases
-- "[pluck](/en/post/pluck/) [up](/en/post/up/) [the](/en/post/the/) [courage](/en/post/courage/)" [to](/en/post/to/) [gather](/en/post/gather/) one's [resolve](/en/post/resolve/) [or](/en/post/or/) [find](/en/post/find/) [the](/en/post/the/) [strength](/en/post/strength/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [difficult](/en/post/difficult/).
-- "[pluck](/en/post/pluck/) [a](/en/post/a/) [leaf](/en/post/leaf/)" [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [small](/en/post/small/) [item](/en/post/item/) [or](/en/post/or/) [idea](/en/post/idea/) [from](/en/post/from/) [a](/en/post/a/) larger context.
-- "[pluck](/en/post/pluck/) [oneself](/en/post/oneself/) [together](/en/post/together/)" [to](/en/post/to/) [gather](/en/post/gather/) one's thoughts [or](/en/post/or/) emotions [after](/en/post/after/) [a](/en/post/a/) setback.
+- "[pluck](/post/pluck/) [up](/post/up/) [the](/post/the/) [courage](/post/courage/)" [to](/post/to/) [gather](/post/gather/) one's [resolve](/post/resolve/) [or](/post/or/) [find](/post/find/) [the](/post/the/) [strength](/post/strength/) [to](/post/to/) [do](/post/do/) [something](/post/something/) [difficult](/post/difficult/).
+- "[pluck](/post/pluck/) [a](/post/a/) [leaf](/post/leaf/)" [to](/post/to/) [take](/post/take/) [a](/post/a/) [small](/post/small/) [item](/post/item/) [or](/post/or/) [idea](/post/idea/) [from](/post/from/) [a](/post/a/) larger context.
+- "[pluck](/post/pluck/) [oneself](/post/oneself/) [together](/post/together/)" [to](/post/to/) [gather](/post/gather/) one's thoughts [or](/post/or/) emotions [after](/post/after/) [a](/post/a/) setback.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) picked plums [from](/en/post/from/) [the](/en/post/the/) [tree](/en/post/tree/) [in](/en/post/in/) [her](/en/post/her/) backyard."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) plucked [the](/en/post/the/) [idea](/en/post/idea/) [for](/en/post/for/) [his](/en/post/his/) [new](/en/post/new/) [invention](/en/post/invention/) [during](/en/post/during/) [a](/en/post/a/) [walk](/en/post/walk/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Adjective](/en/post/adjective/)**: "[Despite](/en/post/despite/) [the](/en/post/the/) [fear](/en/post/fear/), [he](/en/post/he/) showed [a](/en/post/a/) plucky [attitude](/en/post/attitude/) [in](/en/post/in/) [the](/en/post/the/) [face](/en/post/face/) [of](/en/post/of/) [danger](/en/post/danger/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) plucked [up](/en/post/up/) [her](/en/post/her/) [courage](/en/post/courage/) [to](/en/post/to/) [speak](/en/post/speak/) [up](/en/post/up/) [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) picked plums [from](/post/from/) [the](/post/the/) [tree](/post/tree/) [in](/post/in/) [her](/post/her/) backyard."
+- **[Verb](/post/verb/)**: "[He](/post/he/) plucked [the](/post/the/) [idea](/post/idea/) [for](/post/for/) [his](/post/his/) [new](/post/new/) [invention](/post/invention/) [during](/post/during/) [a](/post/a/) [walk](/post/walk/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **[Adjective](/post/adjective/)**: "[Despite](/post/despite/) [the](/post/the/) [fear](/post/fear/), [he](/post/he/) showed [a](/post/a/) plucky [attitude](/post/attitude/) [in](/post/in/) [the](/post/the/) [face](/post/face/) [of](/post/of/) [danger](/post/danger/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) plucked [up](/post/up/) [her](/post/her/) [courage](/post/courage/) [to](/post/to/) [speak](/post/speak/) [up](/post/up/) [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
 
 ## Synonyms
-- [Gather](/en/post/gather/)
+- [Gather](/post/gather/)
 - Extract
-- [Remove](/en/post/remove/)
-- [Harvest](/en/post/harvest/)
-- [Pull](/en/post/pull/)
+- [Remove](/post/remove/)
+- [Harvest](/post/harvest/)
+- [Pull](/post/pull/)
 - Retrieve
-- [Brave](/en/post/brave/)
+- [Brave](/post/brave/)
 - Determined
-- [Bold](/en/post/bold/)
+- [Bold](/post/bold/)

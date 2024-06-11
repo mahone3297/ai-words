@@ -7,36 +7,36 @@ description = '[ˈsjuːtəbl] a.合适的；适宜的'
 keywords = ['ai words', 'suitable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /suːˈtaɪbl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Suitable](/en/post/suitable/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [thing](/en/post/thing/) [that](/en/post/that/) is [appropriate](/en/post/appropriate/), [right](/en/post/right/), [or](/en/post/or/) fitting [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/) [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [dress](/en/post/dress/) is [suitable](/en/post/suitable/) [for](/en/post/for/) [the](/en/post/the/) [formal](/en/post/formal/) [event](/en/post/event/)."
-- **Suitability** ([noun](/en/post/noun/)): [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [suitable](/en/post/suitable/) [or](/en/post/or/) [appropriate](/en/post/appropriate/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) applicant's suitability [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/) was [evident](/en/post/evident/) [from](/en/post/from/) [their](/en/post/their/) skills [and](/en/post/and/) [experience](/en/post/experience/)."
+### [Noun](/post/noun/)
+- **[Suitable](/post/suitable/)** ([noun](/post/noun/)): [A](/post/a/) [thing](/post/thing/) [that](/post/that/) is [appropriate](/post/appropriate/), [right](/post/right/), [or](/post/or/) fitting [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/) [or](/post/or/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [dress](/post/dress/) is [suitable](/post/suitable/) [for](/post/for/) [the](/post/the/) [formal](/post/formal/) [event](/post/event/)."
+- **Suitability** ([noun](/post/noun/)): [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [suitable](/post/suitable/) [or](/post/or/) [appropriate](/post/appropriate/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) applicant's suitability [for](/post/for/) [the](/post/the/) [job](/post/job/) was [evident](/post/evident/) [from](/post/from/) [their](/post/their/) skills [and](/post/and/) [experience](/post/experience/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Suitable](/en/post/suitable/)** ([adjective](/en/post/adjective/)): Characterized [by](/en/post/by/) [being](/en/post/being/) [appropriate](/en/post/appropriate/) [or](/en/post/or/) fitting [for](/en/post/for/) [a](/en/post/a/) given context [or](/en/post/or/) [requirement](/en/post/requirement/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [apartment](/en/post/apartment/) is [suitable](/en/post/suitable/) [for](/en/post/for/) [a](/en/post/a/) [family](/en/post/family/) [with](/en/post/with/) [young](/en/post/young/) children."
-- **Adaptable** (synonym, [adjective](/en/post/adjective/)): [Capable](/en/post/capable/) [of](/en/post/of/) adjusting [easily](/en/post/easily/) [to](/en/post/to/) [different](/en/post/different/) conditions [or](/en/post/or/) situations. [For](/en/post/for/) [example](/en/post/example/): "An adaptable [person](/en/post/person/) [can](/en/post/can/) [quickly](/en/post/quickly/) [find](/en/post/find/) [a](/en/post/a/) [suitable](/en/post/suitable/) [solution](/en/post/solution/) [to](/en/post/to/) [any](/en/post/any/) [problem](/en/post/problem/)."
+### [Adjective](/post/adjective/)
+- **[Suitable](/post/suitable/)** ([adjective](/post/adjective/)): Characterized [by](/post/by/) [being](/post/being/) [appropriate](/post/appropriate/) [or](/post/or/) fitting [for](/post/for/) [a](/post/a/) given context [or](/post/or/) [requirement](/post/requirement/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [apartment](/post/apartment/) is [suitable](/post/suitable/) [for](/post/for/) [a](/post/a/) [family](/post/family/) [with](/post/with/) [young](/post/young/) children."
+- **Adaptable** (synonym, [adjective](/post/adjective/)): [Capable](/post/capable/) [of](/post/of/) adjusting [easily](/post/easily/) [to](/post/to/) [different](/post/different/) conditions [or](/post/or/) situations. [For](/post/for/) [example](/post/example/): "An adaptable [person](/post/person/) [can](/post/can/) [quickly](/post/quickly/) [find](/post/find/) [a](/post/a/) [suitable](/post/suitable/) [solution](/post/solution/) [to](/post/to/) [any](/post/any/) [problem](/post/problem/)."
 
-### [Verb](/en/post/verb/)
-- **[Suit](/en/post/suit/)** ([verb](/en/post/verb/), transitive): [To](/en/post/to/) [be](/en/post/be/) [suitable](/en/post/suitable/) [for](/en/post/for/); [to](/en/post/to/) [fit](/en/post/fit/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [job](/en/post/job/) suits [her](/en/post/her/) interests [and](/en/post/and/) qualifications."
-- **[Be](/en/post/be/) [suitable](/en/post/suitable/) [for](/en/post/for/)** ([phrase](/en/post/phrase/)): [To](/en/post/to/) [be](/en/post/be/) [appropriate](/en/post/appropriate/) [or](/en/post/or/) [adequate](/en/post/adequate/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/) [or](/en/post/or/) [role](/en/post/role/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [course](/en/post/course/) is [suitable](/en/post/suitable/) [for](/en/post/for/) beginners."
+### [Verb](/post/verb/)
+- **[Suit](/post/suit/)** ([verb](/post/verb/), transitive): [To](/post/to/) [be](/post/be/) [suitable](/post/suitable/) [for](/post/for/); [to](/post/to/) [fit](/post/fit/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [job](/post/job/) suits [her](/post/her/) interests [and](/post/and/) qualifications."
+- **[Be](/post/be/) [suitable](/post/suitable/) [for](/post/for/)** ([phrase](/post/phrase/)): [To](/post/to/) [be](/post/be/) [appropriate](/post/appropriate/) [or](/post/or/) [adequate](/post/adequate/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/) [or](/post/or/) [role](/post/role/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [course](/post/course/) is [suitable](/post/suitable/) [for](/post/for/) beginners."
 
 ## Phrases
-- "[A](/en/post/a/) [suitable](/en/post/suitable/) [alternative](/en/post/alternative/)" refers [to](/en/post/to/) [a](/en/post/a/) [choice](/en/post/choice/) [that](/en/post/that/) is [appropriate](/en/post/appropriate/) [or](/en/post/or/) [right](/en/post/right/).
-- "[Suitable](/en/post/suitable/) [accommodation](/en/post/accommodation/)" [means](/en/post/means/) [comfortable](/en/post/comfortable/) [and](/en/post/and/) [appropriate](/en/post/appropriate/) [living](/en/post/living/) quarters.
-- "[Suitable](/en/post/suitable/) attire" describes [clothing](/en/post/clothing/) [that](/en/post/that/) is [appropriate](/en/post/appropriate/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [event](/en/post/event/) [or](/en/post/or/) [setting](/en/post/setting/).
+- "[A](/post/a/) [suitable](/post/suitable/) [alternative](/post/alternative/)" refers [to](/post/to/) [a](/post/a/) [choice](/post/choice/) [that](/post/that/) is [appropriate](/post/appropriate/) [or](/post/or/) [right](/post/right/).
+- "[Suitable](/post/suitable/) [accommodation](/post/accommodation/)" [means](/post/means/) [comfortable](/post/comfortable/) [and](/post/and/) [appropriate](/post/appropriate/) [living](/post/living/) quarters.
+- "[Suitable](/post/suitable/) attire" describes [clothing](/post/clothing/) [that](/post/that/) is [appropriate](/post/appropriate/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [event](/post/event/) [or](/post/or/) [setting](/post/setting/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) candidates were evaluated based [on](/en/post/on/) [their](/en/post/their/) suitability [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) skills made [her](/en/post/her/) [a](/en/post/a/) [suitable](/en/post/suitable/) [candidate](/en/post/candidate/) [for](/en/post/for/) [the](/en/post/the/) [position](/en/post/position/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [weather](/en/post/weather/) was [quite](/en/post/quite/) [suitable](/en/post/suitable/) [for](/en/post/for/) [a](/en/post/a/) [picnic](/en/post/picnic/) [that](/en/post/that/) [day](/en/post/day/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) candidates were evaluated based [on](/post/on/) [their](/post/their/) suitability [for](/post/for/) [the](/post/the/) [project](/post/project/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) skills made [her](/post/her/) [a](/post/a/) [suitable](/post/suitable/) [candidate](/post/candidate/) [for](/post/for/) [the](/post/the/) [position](/post/position/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [weather](/post/weather/) was [quite](/post/quite/) [suitable](/post/suitable/) [for](/post/for/) [a](/post/a/) [picnic](/post/picnic/) [that](/post/that/) [day](/post/day/)."
 
 ## Synonyms
-- [Appropriate](/en/post/appropriate/)
-- [Proper](/en/post/proper/)
-- [Fit](/en/post/fit/)
+- [Appropriate](/post/appropriate/)
+- [Proper](/post/proper/)
+- [Fit](/post/fit/)
 - Conforming
 - Well-suited
 - Adapted

@@ -12,20 +12,20 @@ keywords = ['ai words', 'brood']
 
 ## 释义
 - **名词**: 一群雏鸟；一窝；一串（思考的问题）
-    - 例句: "[The](/post/the/) [mother](/post/mother/) [hen](/post/hen/) was brooding [over](/post/over/) [her](/post/her/) [brood](/post/brood/) [of](/post/of/) chicks."
+    - 例句: "[The](/zh/post/the/) [mother](/zh/post/mother/) [hen](/zh/post/hen/) was brooding [over](/zh/post/over/) [her](/zh/post/her/) [brood](/zh/post/brood/) [of](/zh/post/of/) chicks."
 - **动词**: 孵卵；沉思；忧虑
-    - 例句: "[She](/post/she/) sat [alone](/post/alone/), brooding [on](/post/on/) [her](/post/her/) [past](/post/past/) mistakes."
+    - 例句: "[She](/zh/post/she/) sat [alone](/zh/post/alone/), brooding [on](/zh/post/on/) [her](/zh/post/her/) [past](/zh/post/past/) mistakes."
 
 ## 短语
-- "[Brood](/post/brood/) [over](/post/over/) [something](/post/something/)" 意味着深思熟虑或长时间思考某事。
-- "[Brood](/post/brood/) [of](/post/of/) chickens" 指的是一群小鸡。
+- "[Brood](/zh/post/brood/) [over](/zh/post/over/) [something](/zh/post/something/)" 意味着深思熟虑或长时间思考某事。
+- "[Brood](/zh/post/brood/) [of](/zh/post/of/) chickens" 指的是一群小鸡。
 
 ## 例句
-- 名词: "[The](/post/the/) [eagle](/post/eagle/) was watching [over](/post/over/) [its](/post/its/) [brood](/post/brood/) [from](/post/from/) [a](/post/a/) [nearby](/post/nearby/) [tree](/post/tree/)."
-- 动词: "[After](/post/after/) [the](/post/the/) [argument](/post/argument/), [he](/post/he/) spent [the](/post/the/) [whole](/post/whole/) [day](/post/day/) brooding [about](/post/about/) [what](/post/what/) had been said."
+- 名词: "[The](/zh/post/the/) [eagle](/zh/post/eagle/) was watching [over](/zh/post/over/) [its](/zh/post/its/) [brood](/zh/post/brood/) [from](/zh/post/from/) [a](/zh/post/a/) [nearby](/zh/post/nearby/) [tree](/zh/post/tree/)."
+- 动词: "[After](/zh/post/after/) [the](/zh/post/the/) [argument](/zh/post/argument/), [he](/zh/post/he/) spent [the](/zh/post/the/) [whole](/zh/post/whole/) [day](/zh/post/day/) brooding [about](/zh/post/about/) [what](/zh/post/what/) had been said."
 
 ## 同义词
-- [Flock](/post/flock/) (名词时)
+- [Flock](/zh/post/flock/) (名词时)
 - Nestlings (名词时)
 - Ponder (动词时)
 - Meditate (动词时)

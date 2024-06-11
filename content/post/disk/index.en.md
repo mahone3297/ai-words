@@ -7,42 +7,42 @@ description = '[disk] n.圆盘，唱片；磁盘'
 keywords = ['ai words', 'disk']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪsk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [device](/en/post/device/)** - [A](/en/post/a/) [flat](/en/post/flat/), [circular](/en/post/circular/) [piece](/en/post/piece/) [of](/en/post/of/) [material](/en/post/material/), [usually](/en/post/usually/) made [of](/en/post/of/) [plastic](/en/post/plastic/) [or](/en/post/or/) [metal](/en/post/metal/), [used](/en/post/used/) [to](/en/post/to/) [store](/en/post/store/) [digital](/en/post/digital/) [data](/en/post/data/), [such](/en/post/such/) [as](/en/post/as/) [text](/en/post/text/), images, [or](/en/post/or/) audio files.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [hard](/en/post/hard/) [disk](/en/post/disk/) [in](/en/post/in/) [my](/en/post/my/) [computer](/en/post/computer/) stores [all](/en/post/all/) [my](/en/post/my/) documents."
-2. **[Optical](/en/post/optical/) disc** - [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [physical](/en/post/physical/) [storage](/en/post/storage/) [medium](/en/post/medium/), [like](/en/post/like/) [a](/en/post/a/) CD [or](/en/post/or/) DVD, [used](/en/post/used/) [to](/en/post/to/) [hold](/en/post/hold/) [digital](/en/post/digital/) [data](/en/post/data/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) [read](/en/post/read/) [by](/en/post/by/) [a](/en/post/a/) [laser](/en/post/laser/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) burned [her](/en/post/her/) [music](/en/post/music/) [onto](/en/post/onto/) [a](/en/post/a/) compact disc."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [device](/post/device/)** - [A](/post/a/) [flat](/post/flat/), [circular](/post/circular/) [piece](/post/piece/) [of](/post/of/) [material](/post/material/), [usually](/post/usually/) made [of](/post/of/) [plastic](/post/plastic/) [or](/post/or/) [metal](/post/metal/), [used](/post/used/) [to](/post/to/) [store](/post/store/) [digital](/post/digital/) [data](/post/data/), [such](/post/such/) [as](/post/as/) [text](/post/text/), images, [or](/post/or/) audio files.
+   - [Example](/post/example/): "[The](/post/the/) [hard](/post/hard/) [disk](/post/disk/) [in](/post/in/) [my](/post/my/) [computer](/post/computer/) stores [all](/post/all/) [my](/post/my/) documents."
+2. **[Optical](/post/optical/) disc** - [A](/post/a/) [type](/post/type/) [of](/post/of/) [physical](/post/physical/) [storage](/post/storage/) [medium](/post/medium/), [like](/post/like/) [a](/post/a/) CD [or](/post/or/) DVD, [used](/post/used/) [to](/post/to/) [hold](/post/hold/) [digital](/post/digital/) [data](/post/data/) [that](/post/that/) [can](/post/can/) [be](/post/be/) [read](/post/read/) [by](/post/by/) [a](/post/a/) [laser](/post/laser/).
+   - [Example](/post/example/): "[She](/post/she/) burned [her](/post/her/) [music](/post/music/) [onto](/post/onto/) [a](/post/a/) compact disc."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [transfer](/en/post/transfer/) [data](/en/post/data/) [onto](/en/post/onto/) [or](/en/post/or/) [from](/en/post/from/) [a](/en/post/a/) [disk](/en/post/disk/) [or](/en/post/or/) [optical](/en/post/optical/) disc.
-   - [Example](/en/post/example/): "I'm going [to](/en/post/to/) [back](/en/post/back/) [up](/en/post/up/) [my](/en/post/my/) files [to](/en/post/to/) an [external](/en/post/external/) [disk](/en/post/disk/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [transfer](/post/transfer/) [data](/post/data/) [onto](/post/onto/) [or](/post/or/) [from](/post/from/) [a](/post/a/) [disk](/post/disk/) [or](/post/or/) [optical](/post/optical/) disc.
+   - [Example](/post/example/): "I'm going [to](/post/to/) [back](/post/back/) [up](/post/up/) [my](/post/my/) files [to](/post/to/) an [external](/post/external/) [disk](/post/disk/)."
 
-### [Adjective](/en/post/adjective/)
-- [Flat](/en/post/flat/), [circular](/en/post/circular/), [or](/en/post/or/) resembling [a](/en/post/a/) [disk](/en/post/disk/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) disk-shaped logo [on](/en/post/on/) [the](/en/post/the/) company's website."
+### [Adjective](/post/adjective/)
+- [Flat](/post/flat/), [circular](/post/circular/), [or](/post/or/) resembling [a](/post/a/) [disk](/post/disk/).
+   - [Example](/post/example/): "[The](/post/the/) disk-shaped logo [on](/post/on/) [the](/post/the/) company's website."
 
 ## Phrases
-- "[Store](/en/post/store/) [data](/en/post/data/) [on](/en/post/on/) [a](/en/post/a/) [disk](/en/post/disk/)"
-- "[Read](/en/post/read/) [from](/en/post/from/) [a](/en/post/a/) [disk](/en/post/disk/)"
-- "Backup [to](/en/post/to/) [a](/en/post/a/) [disk](/en/post/disk/) [drive](/en/post/drive/)"
+- "[Store](/post/store/) [data](/post/data/) [on](/post/on/) [a](/post/a/) [disk](/post/disk/)"
+- "[Read](/post/read/) [from](/post/from/) [a](/post/a/) [disk](/post/disk/)"
+- "Backup [to](/post/to/) [a](/post/a/) [disk](/post/disk/) [drive](/post/drive/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) floppy [disk](/en/post/disk/) contained [important](/en/post/important/) files [from](/en/post/from/) [the](/en/post/the/) 90s."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) defragment [my](/en/post/my/) [hard](/en/post/hard/) [disk](/en/post/disk/) [to](/en/post/to/) [improve](/en/post/improve/) [its](/en/post/its/) [performance](/en/post/performance/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [building](/en/post/building/) has sleek, [modern](/en/post/modern/) disk-like windows."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) floppy [disk](/post/disk/) contained [important](/post/important/) files [from](/post/from/) [the](/post/the/) 90s."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) defragment [my](/post/my/) [hard](/post/hard/) [disk](/post/disk/) [to](/post/to/) [improve](/post/improve/) [its](/post/its/) [performance](/post/performance/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [building](/post/building/) has sleek, [modern](/post/modern/) disk-like windows."
 
 ## Synonyms
-- Diskette ([historical](/en/post/historical/))
-- Platter ([hard](/en/post/hard/) [disk](/en/post/disk/))
-- [Optical](/en/post/optical/) disc (CD, DVD, Blu-ray)
-- [Storage](/en/post/storage/) [medium](/en/post/medium/)
-- [Data](/en/post/data/) [carrier](/en/post/carrier/)
+- Diskette ([historical](/post/historical/))
+- Platter ([hard](/post/hard/) [disk](/post/disk/))
+- [Optical](/post/optical/) disc (CD, DVD, Blu-ray)
+- [Storage](/post/storage/) [medium](/post/medium/)
+- [Data](/post/data/) [carrier](/post/carrier/)
 
 ## Related Terms
-- Floppy [disk](/en/post/disk/) ([for](/en/post/for/) older [computer](/en/post/computer/) [storage](/en/post/storage/))
-- Solid-state [drive](/en/post/drive/) (SSD, [a](/en/post/a/) newer [type](/en/post/type/) [of](/en/post/of/) diskless [storage](/en/post/storage/))
-- [Optical](/en/post/optical/) [reader](/en/post/reader/)/[writer](/en/post/writer/) ([for](/en/post/for/) CDs, DVDs, etc.)
+- Floppy [disk](/post/disk/) ([for](/post/for/) older [computer](/post/computer/) [storage](/post/storage/))
+- Solid-state [drive](/post/drive/) (SSD, [a](/post/a/) newer [type](/post/type/) [of](/post/of/) diskless [storage](/post/storage/))
+- [Optical](/post/optical/) [reader](/post/reader/)/[writer](/post/writer/) ([for](/post/for/) CDs, DVDs, etc.)

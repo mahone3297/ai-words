@@ -7,33 +7,33 @@ description = '[tuːθ] n.牙齿'
 keywords = ['ai words', 'tooth']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /toʊθ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [tooth](/en/post/tooth/) is [a](/en/post/a/) [hard](/en/post/hard/), calcified [structure](/en/post/structure/) [found](/en/post/found/) [in](/en/post/in/) [the](/en/post/the/) jaws [of](/en/post/of/) [many](/en/post/many/) animals, including humans, [that](/en/post/that/) serves [to](/en/post/to/) [chew](/en/post/chew/) [food](/en/post/food/) [and](/en/post/and/) helps [with](/en/post/with/) [speech](/en/post/speech/). [It](/en/post/it/) has [various](/en/post/various/) specialized shapes [and](/en/post/and/) functions, [such](/en/post/such/) [as](/en/post/as/) incisors, canines, premolars, [and](/en/post/and/) molars.
+### [Noun](/post/noun/)
+[A](/post/a/) [tooth](/post/tooth/) is [a](/post/a/) [hard](/post/hard/), calcified [structure](/post/structure/) [found](/post/found/) [in](/post/in/) [the](/post/the/) jaws [of](/post/of/) [many](/post/many/) animals, including humans, [that](/post/that/) serves [to](/post/to/) [chew](/post/chew/) [food](/post/food/) [and](/post/and/) helps [with](/post/with/) [speech](/post/speech/). [It](/post/it/) has [various](/post/various/) specialized shapes [and](/post/and/) functions, [such](/post/such/) [as](/post/as/) incisors, canines, premolars, [and](/post/and/) molars.
 
-### [Verb](/en/post/verb/)
-[Tooth](/en/post/tooth/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)) is [not](/en/post/not/) [a](/en/post/a/) [common](/en/post/common/) [usage](/en/post/usage/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) informally [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) growing [or](/en/post/or/) developing teeth, [or](/en/post/or/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) biting [or](/en/post/or/) gnawing.
+### [Verb](/post/verb/)
+[Tooth](/post/tooth/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/)) is [not](/post/not/) [a](/post/a/) [common](/post/common/) [usage](/post/usage/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) informally [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [act](/post/act/) [of](/post/of/) growing [or](/post/or/) developing teeth, [or](/post/or/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) biting [or](/post/or/) gnawing.
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) [some](/en/post/some/) cases, "toothsome" [may](/en/post/may/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) appetizing [or](/en/post/or/) pleasantly crunchy.
+### [Adjective](/post/adjective/)
+[In](/post/in/) [some](/post/some/) cases, "toothsome" [may](/post/may/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) appetizing [or](/post/or/) pleasantly crunchy.
 
-### [Noun](/en/post/noun/) ([plural](/en/post/plural/))
+### [Noun](/post/noun/) ([plural](/post/plural/))
 Teeth
 
 ## Phrases
-- "[Healthy](/en/post/healthy/) teeth" [indicate](/en/post/indicate/) [strong](/en/post/strong/) [and](/en/post/and/) well-maintained dental [health](/en/post/health/).
-- "[Missing](/en/post/missing/) [a](/en/post/a/) [tooth](/en/post/tooth/)" refers [to](/en/post/to/) [a](/en/post/a/) [gap](/en/post/gap/) [where](/en/post/where/) [a](/en/post/a/) [tooth](/en/post/tooth/) [should](/en/post/should/) [be](/en/post/be/).
-- "[Tooth](/en/post/tooth/) [decay](/en/post/decay/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) enamel erosion caused [by](/en/post/by/) [bacteria](/en/post/bacteria/).
+- "[Healthy](/post/healthy/) teeth" [indicate](/post/indicate/) [strong](/post/strong/) [and](/post/and/) well-maintained dental [health](/post/health/).
+- "[Missing](/post/missing/) [a](/post/a/) [tooth](/post/tooth/)" refers [to](/post/to/) [a](/post/a/) [gap](/post/gap/) [where](/post/where/) [a](/post/a/) [tooth](/post/tooth/) [should](/post/should/) [be](/post/be/).
+- "[Tooth](/post/tooth/) [decay](/post/decay/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) enamel erosion caused [by](/post/by/) [bacteria](/post/bacteria/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) dentist examined [her](/en/post/her/) patient's [new](/en/post/new/) [set](/en/post/set/) [of](/en/post/of/) [baby](/en/post/baby/) teeth."
-- **Informal [Verb](/en/post/verb/)**: "[The](/en/post/the/) puppy started [to](/en/post/to/) [tooth](/en/post/tooth/), biting [on](/en/post/on/) [everything](/en/post/everything/) [in](/en/post/in/) [sight](/en/post/sight/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) cookies were [so](/en/post/so/) toothsome, [everyone](/en/post/everyone/) asked [for](/en/post/for/) seconds."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) dentist examined [her](/post/her/) patient's [new](/post/new/) [set](/post/set/) [of](/post/of/) [baby](/post/baby/) teeth."
+- **Informal [Verb](/post/verb/)**: "[The](/post/the/) puppy started [to](/post/to/) [tooth](/post/tooth/), biting [on](/post/on/) [everything](/post/everything/) [in](/post/in/) [sight](/post/sight/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) cookies were [so](/post/so/) toothsome, [everyone](/post/everyone/) asked [for](/post/for/) seconds."
 
-## Synonyms ([Noun](/en/post/noun/))
+## Synonyms ([Noun](/post/noun/))
 - Incisors
 - Canines
 - Premolars
@@ -41,9 +41,9 @@ Teeth
 - Dental fixture
 - Pearly whites
 
-## Antonyms ([Noun](/en/post/noun/))
+## Antonyms ([Noun](/post/noun/))
 - Toothless
 - Decayed
 - Diseased
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) "[tooth](/en/post/tooth/)" is [not](/en/post/not/) [a](/en/post/a/) [standard](/en/post/standard/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) English [language](/en/post/language/), [and](/en/post/and/) [its](/en/post/its/) [usage](/en/post/usage/) is informal [or](/en/post/or/) regional [in](/en/post/in/) [some](/en/post/some/) cases.
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) "[tooth](/post/tooth/)" is [not](/post/not/) [a](/post/a/) [standard](/post/standard/) [part](/post/part/) [of](/post/of/) [the](/post/the/) English [language](/post/language/), [and](/post/and/) [its](/post/its/) [usage](/post/usage/) is informal [or](/post/or/) regional [in](/post/in/) [some](/post/some/) cases.

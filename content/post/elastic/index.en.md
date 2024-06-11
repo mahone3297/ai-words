@@ -7,35 +7,35 @@ description = '[iˈlæstik] n.松紧带 a.有弹性的'
 keywords = ['ai words', 'elastic']
 +++
 
-## [Word](/en/post/word/): [Elastic](/en/post/elastic/)
+## [Word](/post/word/): [Elastic](/post/elastic/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈlæstɪk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [material](/en/post/material/) [or](/en/post/or/) [substance](/en/post/substance/) [that](/en/post/that/) [can](/en/post/can/) [stretch](/en/post/stretch/) [and](/en/post/and/) [return](/en/post/return/) [to](/en/post/to/) [its](/en/post/its/) [original](/en/post/original/) [shape](/en/post/shape/) [after](/en/post/after/) [being](/en/post/being/) stretched [or](/en/post/or/) compressed. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) waistband [on](/en/post/on/) [these](/en/post/these/) pants is made [of](/en/post/of/) [elastic](/en/post/elastic/) [to](/en/post/to/) [allow](/en/post/allow/) [for](/en/post/for/) [comfort](/en/post/comfort/)."
-  - _Elasticity_ ([noun](/en/post/noun/) [form](/en/post/form/)): [The](/en/post/the/) [ability](/en/post/ability/) [of](/en/post/of/) [a](/en/post/a/) [material](/en/post/material/) [to](/en/post/to/) [return](/en/post/return/) [to](/en/post/to/) [its](/en/post/its/) [original](/en/post/original/) [shape](/en/post/shape/) [after](/en/post/after/) deformation [due](/en/post/due/) [to](/en/post/to/) [stress](/en/post/stress/); [also](/en/post/also/) applies metaphorically [to](/en/post/to/) economics, referring [to](/en/post/to/) [how](/en/post/how/) responsive [one](/en/post/one/) [variable](/en/post/variable/) is [to](/en/post/to/) changes [in](/en/post/in/) [another](/en/post/another/).
+- **[Noun](/post/noun/)**: [A](/post/a/) [material](/post/material/) [or](/post/or/) [substance](/post/substance/) [that](/post/that/) [can](/post/can/) [stretch](/post/stretch/) [and](/post/and/) [return](/post/return/) [to](/post/to/) [its](/post/its/) [original](/post/original/) [shape](/post/shape/) [after](/post/after/) [being](/post/being/) stretched [or](/post/or/) compressed. [For](/post/for/) [example](/post/example/): "[The](/post/the/) waistband [on](/post/on/) [these](/post/these/) pants is made [of](/post/of/) [elastic](/post/elastic/) [to](/post/to/) [allow](/post/allow/) [for](/post/for/) [comfort](/post/comfort/)."
+  - _Elasticity_ ([noun](/post/noun/) [form](/post/form/)): [The](/post/the/) [ability](/post/ability/) [of](/post/of/) [a](/post/a/) [material](/post/material/) [to](/post/to/) [return](/post/return/) [to](/post/to/) [its](/post/its/) [original](/post/original/) [shape](/post/shape/) [after](/post/after/) deformation [due](/post/due/) [to](/post/to/) [stress](/post/stress/); [also](/post/also/) applies metaphorically [to](/post/to/) economics, referring [to](/post/to/) [how](/post/how/) responsive [one](/post/one/) [variable](/post/variable/) is [to](/post/to/) changes [in](/post/in/) [another](/post/another/).
 
-- **[Adjective](/en/post/adjective/)**: [Capable](/en/post/capable/) [of](/en/post/of/) stretching [or](/en/post/or/) [being](/en/post/being/) stretched [and](/en/post/and/) returning [to](/en/post/to/) [the](/en/post/the/) [original](/en/post/original/) [shape](/en/post/shape/) afterwards; [flexible](/en/post/flexible/) [and](/en/post/and/) resilient. [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [fabric](/en/post/fabric/) is [very](/en/post/very/) [elastic](/en/post/elastic/), [so](/en/post/so/) [it](/en/post/it/) won't [lose](/en/post/lose/) [its](/en/post/its/) [shape](/en/post/shape/) [easily](/en/post/easily/)."
+- **[Adjective](/post/adjective/)**: [Capable](/post/capable/) [of](/post/of/) stretching [or](/post/or/) [being](/post/being/) stretched [and](/post/and/) returning [to](/post/to/) [the](/post/the/) [original](/post/original/) [shape](/post/shape/) afterwards; [flexible](/post/flexible/) [and](/post/and/) resilient. [For](/post/for/) [example](/post/example/): "[This](/post/this/) [fabric](/post/fabric/) is [very](/post/very/) [elastic](/post/elastic/), [so](/post/so/) [it](/post/it/) won't [lose](/post/lose/) [its](/post/its/) [shape](/post/shape/) [easily](/post/easily/)."
 
-  > *[Elastic](/en/post/elastic/) thinking* - adaptable, [flexible](/en/post/flexible/) [mental](/en/post/mental/) processes.
+  > *[Elastic](/post/elastic/) thinking* - adaptable, [flexible](/post/flexible/) [mental](/post/mental/) processes.
   
 ## Phrases
-- "[Elastic](/en/post/elastic/) [limit](/en/post/limit/)": [The](/en/post/the/) [maximum](/en/post/maximum/) [point](/en/post/point/) [up](/en/post/up/) [to](/en/post/to/) [which](/en/post/which/) [a](/en/post/a/) [material](/en/post/material/) [can](/en/post/can/) [be](/en/post/be/) stretched [without](/en/post/without/) [permanent](/en/post/permanent/) deformation.
-- "[Elastic](/en/post/elastic/) [band](/en/post/band/)": [A](/en/post/a/) [narrow](/en/post/narrow/) [rubber](/en/post/rubber/) [band](/en/post/band/) [used](/en/post/used/) [to](/en/post/to/) [hold](/en/post/hold/) things [together](/en/post/together/) [by](/en/post/by/) [virtue](/en/post/virtue/) [of](/en/post/of/) [its](/en/post/its/) elasticity.
-- "[Elastic](/en/post/elastic/) [search](/en/post/search/)": [A](/en/post/a/) [popular](/en/post/popular/) open-source [search](/en/post/search/) [engine](/en/post/engine/) based [on](/en/post/on/) [the](/en/post/the/) Lucene [library](/en/post/library/), known [for](/en/post/for/) [its](/en/post/its/) scalability [and](/en/post/and/) flexibility.
+- "[Elastic](/post/elastic/) [limit](/post/limit/)": [The](/post/the/) [maximum](/post/maximum/) [point](/post/point/) [up](/post/up/) [to](/post/to/) [which](/post/which/) [a](/post/a/) [material](/post/material/) [can](/post/can/) [be](/post/be/) stretched [without](/post/without/) [permanent](/post/permanent/) deformation.
+- "[Elastic](/post/elastic/) [band](/post/band/)": [A](/post/a/) [narrow](/post/narrow/) [rubber](/post/rubber/) [band](/post/band/) [used](/post/used/) [to](/post/to/) [hold](/post/hold/) things [together](/post/together/) [by](/post/by/) [virtue](/post/virtue/) [of](/post/of/) [its](/post/its/) elasticity.
+- "[Elastic](/post/elastic/) [search](/post/search/)": [A](/post/a/) [popular](/post/popular/) open-source [search](/post/search/) [engine](/post/engine/) based [on](/post/on/) [the](/post/the/) Lucene [library](/post/library/), known [for](/post/for/) [its](/post/its/) scalability [and](/post/and/) flexibility.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) properties [of](/en/post/of/) [this](/en/post/this/) [new](/en/post/new/) [type](/en/post/type/) [of](/en/post/of/) [elastic](/en/post/elastic/) [make](/en/post/make/) [it](/en/post/it/) [perfect](/en/post/perfect/) [for](/en/post/for/) [use](/en/post/use/) [in](/en/post/in/) high-performance sports gear."
-- **[Adjective](/en/post/adjective/)**: "Thanks [to](/en/post/to/) [its](/en/post/its/) [elastic](/en/post/elastic/) [nature](/en/post/nature/), [the](/en/post/the/) [rubber](/en/post/rubber/) [ball](/en/post/ball/) bounced [back](/en/post/back/) [with](/en/post/with/) [great](/en/post/great/) [force](/en/post/force/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) properties [of](/post/of/) [this](/post/this/) [new](/post/new/) [type](/post/type/) [of](/post/of/) [elastic](/post/elastic/) [make](/post/make/) [it](/post/it/) [perfect](/post/perfect/) [for](/post/for/) [use](/post/use/) [in](/post/in/) high-performance sports gear."
+- **[Adjective](/post/adjective/)**: "Thanks [to](/post/to/) [its](/post/its/) [elastic](/post/elastic/) [nature](/post/nature/), [the](/post/the/) [rubber](/post/rubber/) [ball](/post/ball/) bounced [back](/post/back/) [with](/post/with/) [great](/post/great/) [force](/post/force/)."
 
 ## Synonyms
 - Stretchy
-- [Flexible](/en/post/flexible/)
+- [Flexible](/post/flexible/)
 - Resilient
 - Supple
 - Bendable
 - Yielding
 - Springy
 - Compressible
-- Adaptive ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) '[elastic](/en/post/elastic/) thinking')
+- Adaptive ([in](/post/in/) [the](/post/the/) context [of](/post/of/) '[elastic](/post/elastic/) thinking')

@@ -20,15 +20,15 @@ keywords = ['ai words', 'underground']
    - 反主流文化的：与主流文化相反的艺术、音乐或思想潮流。
 
 ## 短语
-- "[underground](/post/underground/) [railway](/post/railway/)" 地铁系统
-- "[underground](/post/underground/) [movement](/post/movement/)" 秘密运动或反抗组织
-- "[underground](/post/underground/) [music](/post/music/)" 非主流音乐
+- "[underground](/zh/post/underground/) [railway](/zh/post/railway/)" 地铁系统
+- "[underground](/zh/post/underground/) [movement](/zh/post/movement/)" 秘密运动或反抗组织
+- "[underground](/zh/post/underground/) [music](/zh/post/music/)" 非主流音乐
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [underground](/post/underground/) [station](/post/station/) is expected [to](/post/to/) [open](/post/open/) [next](/post/next/) [year](/post/year/)."
-- 形容词: "[The](/post/the/) [band](/post/band/) gained [a](/post/a/) [strong](/post/strong/) [following](/post/following/) [in](/post/in/) [the](/post/the/) [underground](/post/underground/) [music](/post/music/) [scene](/post/scene/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [underground](/zh/post/underground/) [station](/zh/post/station/) is expected [to](/zh/post/to/) [open](/zh/post/open/) [next](/zh/post/next/) [year](/zh/post/year/)."
+- 形容词: "[The](/zh/post/the/) [band](/zh/post/band/) gained [a](/zh/post/a/) [strong](/zh/post/strong/) [following](/zh/post/following/) [in](/zh/post/in/) [the](/zh/post/the/) [underground](/zh/post/underground/) [music](/zh/post/music/) [scene](/zh/post/scene/)."
   
 ## 同义词
-- 地下: [below](/post/below/) [ground](/post/ground/), subterranean
+- 地下: [below](/zh/post/below/) [ground](/zh/post/ground/), subterranean
 - 秘密的: secretive, covert, clandestine
-- 反主流文化的: [alternative](/post/alternative/), indie, avant-garde
+- 反主流文化的: [alternative](/zh/post/alternative/), indie, avant-garde

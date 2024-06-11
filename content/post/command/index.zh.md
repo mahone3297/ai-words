@@ -11,23 +11,23 @@ keywords = ['ai words', 'command']
 /ˈkɑːmənd/
 
 ## 释义
-- **名词 (n)**: 命令，指令。例如: "[The](/post/the/) [general](/post/general/) issued [a](/post/a/) [command](/post/command/) [to](/post/to/) [attack](/post/attack/)."
-- **动词 (v)**: 命令，指挥。例如: "[She](/post/she/) commands [her](/post/her/) troops [with](/post/with/) [confidence](/post/confidence/)."
-- **名词 (n)**: 控制力，支配能力。例如: "[He](/post/he/) has [a](/post/a/) commanding [presence](/post/presence/) [on](/post/on/) [stage](/post/stage/)."
+- **名词 (n)**: 命令，指令。例如: "[The](/zh/post/the/) [general](/zh/post/general/) issued [a](/zh/post/a/) [command](/zh/post/command/) [to](/zh/post/to/) [attack](/zh/post/attack/)."
+- **动词 (v)**: 命令，指挥。例如: "[She](/zh/post/she/) commands [her](/zh/post/her/) troops [with](/zh/post/with/) [confidence](/zh/post/confidence/)."
+- **名词 (n)**: 控制力，支配能力。例如: "[He](/zh/post/he/) has [a](/zh/post/a/) commanding [presence](/zh/post/presence/) [on](/zh/post/on/) [stage](/zh/post/stage/)."
 
 ## 短语
-- "[Under](/post/under/) [command](/post/command/)" 意为在某人的命令或控制下。
-- "[Take](/post/take/) [command](/post/command/)" 意为接管或开始指挥。
-- "[Command](/post/command/) [respect](/post/respect/)" 意为赢得尊重。
+- "[Under](/zh/post/under/) [command](/zh/post/command/)" 意为在某人的命令或控制下。
+- "[Take](/zh/post/take/) [command](/zh/post/command/)" 意为接管或开始指挥。
+- "[Command](/zh/post/command/) [respect](/zh/post/respect/)" 意为赢得尊重。
 
 ## 例句
-- 名词: "[The](/post/the/) [police](/post/police/) [officer](/post/officer/) [read](/post/read/) [the](/post/the/) [suspect](/post/suspect/) [his](/post/his/) Miranda rights [and](/post/and/) gave [him](/post/him/) [a](/post/a/) [firm](/post/firm/) [command](/post/command/) [to](/post/to/) [stay](/post/stay/) [silent](/post/silent/)."
-- 动词: "[The](/post/the/) [captain](/post/captain/) commanded [the](/post/the/) [ship](/post/ship/) [through](/post/through/) treacherous waters."
-- 名词: "[His](/post/his/) [knowledge](/post/knowledge/) [of](/post/of/) [the](/post/the/) [subject](/post/subject/) commands admiration [from](/post/from/) [his](/post/his/) colleagues."
+- 名词: "[The](/zh/post/the/) [police](/zh/post/police/) [officer](/zh/post/officer/) [read](/zh/post/read/) [the](/zh/post/the/) [suspect](/zh/post/suspect/) [his](/zh/post/his/) Miranda rights [and](/zh/post/and/) gave [him](/zh/post/him/) [a](/zh/post/a/) [firm](/zh/post/firm/) [command](/zh/post/command/) [to](/zh/post/to/) [stay](/zh/post/stay/) [silent](/zh/post/silent/)."
+- 动词: "[The](/zh/post/the/) [captain](/zh/post/captain/) commanded [the](/zh/post/the/) [ship](/zh/post/ship/) [through](/zh/post/through/) treacherous waters."
+- 名词: "[His](/zh/post/his/) [knowledge](/zh/post/knowledge/) [of](/zh/post/of/) [the](/zh/post/the/) [subject](/zh/post/subject/) commands admiration [from](/zh/post/from/) [his](/zh/post/his/) colleagues."
 
 ## 同义词
-- [Order](/post/order/)
+- [Order](/zh/post/order/)
 - Directive
 - Instruct
 - Bid
-- [Request](/post/request/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [authority](/post/authority/))
+- [Request](/zh/post/request/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [authority](/zh/post/authority/))

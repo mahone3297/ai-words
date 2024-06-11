@@ -7,36 +7,36 @@ description = '[ˈ∫æləu] a.浅的；浅薄的'
 keywords = ['ai words', 'shallow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /shəˈloʊ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [little](/en/post/little/) [depth](/en/post/depth/) [or](/en/post/or/) [not](/en/post/not/) going [very](/en/post/very/) [far](/en/post/far/) [down](/en/post/down/); [superficial](/en/post/superficial/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) ocean's [surface](/en/post/surface/) appeared [shallow](/en/post/shallow/)."
-- **[Adjective](/en/post/adjective/)**: Marking [or](/en/post/or/) showing [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) seriousness, [depth](/en/post/depth/), [or](/en/post/or/) [thought](/en/post/thought/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) comments were [shallow](/en/post/shallow/) [and](/en/post/and/) lacked [substance](/en/post/substance/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [shallow](/en/post/shallow/) ([a](/en/post/a/) [hole](/en/post/hole/), [water](/en/post/water/), etc.). [For](/en/post/for/) [example](/en/post/example/): "The工人 dug [a](/en/post/a/) [shallow](/en/post/shallow/) trench."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [shallow](/en/post/shallow/) [understanding](/en/post/understanding/) [or](/en/post/or/) [knowledge](/en/post/knowledge/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [shallow](/en/post/shallow/) [understanding](/en/post/understanding/) [of](/en/post/of/) [history](/en/post/history/)."
+- **[Adjective](/post/adjective/)**: Having [little](/post/little/) [depth](/post/depth/) [or](/post/or/) [not](/post/not/) going [very](/post/very/) [far](/post/far/) [down](/post/down/); [superficial](/post/superficial/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) ocean's [surface](/post/surface/) appeared [shallow](/post/shallow/)."
+- **[Adjective](/post/adjective/)**: Marking [or](/post/or/) showing [a](/post/a/) [lack](/post/lack/) [of](/post/of/) seriousness, [depth](/post/depth/), [or](/post/or/) [thought](/post/thought/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) comments were [shallow](/post/shallow/) [and](/post/and/) lacked [substance](/post/substance/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [shallow](/post/shallow/) ([a](/post/a/) [hole](/post/hole/), [water](/post/water/), etc.). [For](/post/for/) [example](/post/example/): "The工人 dug [a](/post/a/) [shallow](/post/shallow/) trench."
+- **[Verb](/post/verb/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [shallow](/post/shallow/) [understanding](/post/understanding/) [or](/post/or/) [knowledge](/post/knowledge/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [shallow](/post/shallow/) [understanding](/post/understanding/) [of](/post/of/) [history](/post/history/)."
 
 ## Phrases
-- "[A](/en/post/a/) [shallow](/en/post/shallow/) [well](/en/post/well/)" refers [to](/en/post/to/) [a](/en/post/a/) [well](/en/post/well/) [with](/en/post/with/) [limited](/en/post/limited/) [depth](/en/post/depth/).
-- "[Shallow](/en/post/shallow/) thinking" implies [a](/en/post/a/) [superficial](/en/post/superficial/) [or](/en/post/or/) superficial-minded [approach](/en/post/approach/).
-- "[Shallow](/en/post/shallow/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [pool](/en/post/pool/)" is [a](/en/post/a/) metaphor [for](/en/post/for/) [a](/en/post/a/) [less](/en/post/less/) [significant](/en/post/significant/) [or](/en/post/or/) unimportant [position](/en/post/position/) [or](/en/post/or/) [group](/en/post/group/).
+- "[A](/post/a/) [shallow](/post/shallow/) [well](/post/well/)" refers [to](/post/to/) [a](/post/a/) [well](/post/well/) [with](/post/with/) [limited](/post/limited/) [depth](/post/depth/).
+- "[Shallow](/post/shallow/) thinking" implies [a](/post/a/) [superficial](/post/superficial/) [or](/post/or/) superficial-minded [approach](/post/approach/).
+- "[Shallow](/post/shallow/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [pool](/post/pool/)" is [a](/post/a/) metaphor [for](/post/for/) [a](/post/a/) [less](/post/less/) [significant](/post/significant/) [or](/post/or/) unimportant [position](/post/position/) [or](/post/or/) [group](/post/group/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [pond](/en/post/pond/) was [so](/en/post/so/) [shallow](/en/post/shallow/) [that](/en/post/that/) [you](/en/post/you/) [could](/en/post/could/) [touch](/en/post/touch/) [the](/en/post/the/) [bottom](/en/post/bottom/) [with](/en/post/with/) [your](/en/post/your/) feet."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [view](/en/post/view/) [on](/en/post/on/) [art](/en/post/art/) was [shallow](/en/post/shallow/), focusing [mainly](/en/post/mainly/) [on](/en/post/on/) [the](/en/post/the/) [surface](/en/post/surface/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) filled [the](/en/post/the/) [container](/en/post/container/) [with](/en/post/with/) [shallow](/en/post/shallow/) [soil](/en/post/soil/)."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [understanding](/en/post/understanding/) [of](/en/post/of/) quantum [physics](/en/post/physics/) was [quite](/en/post/quite/) [shallow](/en/post/shallow/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [pond](/post/pond/) was [so](/post/so/) [shallow](/post/shallow/) [that](/post/that/) [you](/post/you/) [could](/post/could/) [touch](/post/touch/) [the](/post/the/) [bottom](/post/bottom/) [with](/post/with/) [your](/post/your/) feet."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [view](/post/view/) [on](/post/on/) [art](/post/art/) was [shallow](/post/shallow/), focusing [mainly](/post/mainly/) [on](/post/on/) [the](/post/the/) [surface](/post/surface/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [gardener](/post/gardener/) filled [the](/post/the/) [container](/post/container/) [with](/post/with/) [shallow](/post/shallow/) [soil](/post/soil/)."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [understanding](/post/understanding/) [of](/post/of/) quantum [physics](/post/physics/) was [quite](/post/quite/) [shallow](/post/shallow/)."
 
 ## Synonyms
-- [Insufficient](/en/post/insufficient/)
-- [Superficial](/en/post/superficial/)
+- [Insufficient](/post/insufficient/)
+- [Superficial](/post/superficial/)
 - Shallow-minded
-- [Thin](/en/post/thin/)
-- Barely [enough](/en/post/enough/)
+- [Thin](/post/thin/)
+- Barely [enough](/post/enough/)
 
 ## Antonyms
-- [Deep](/en/post/deep/)
+- [Deep](/post/deep/)
 - Profound
-- [Intensive](/en/post/intensive/)
-- [Thorough](/en/post/thorough/)
-- [Comprehensive](/en/post/comprehensive/)
+- [Intensive](/post/intensive/)
+- [Thorough](/post/thorough/)
+- [Comprehensive](/post/comprehensive/)

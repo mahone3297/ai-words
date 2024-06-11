@@ -7,34 +7,34 @@ description = '[ˈmidˌnait] n.午夜，子夜，夜半'
 keywords = ['ai words', 'midnight']
 +++
 
-## [Word](/en/post/word/): [Midnight](/en/post/midnight/)
+## [Word](/post/word/): [Midnight](/post/midnight/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌmɪdˈnaɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [middle](/en/post/middle/) [of](/en/post/of/) [the](/en/post/the/) [night](/en/post/night/), occurring [at](/en/post/at/) 12 o'clock [after](/en/post/after/) [sunset](/en/post/sunset/) [and](/en/post/and/) [before](/en/post/before/) [sunrise](/en/post/sunrise/), [usually](/en/post/usually/) considered [the](/en/post/the/) transition [point](/en/post/point/) [between](/en/post/between/) [one](/en/post/one/) [day](/en/post/day/) [and](/en/post/and/) [the](/en/post/the/) [next](/en/post/next/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [train](/en/post/train/) arrives [at](/en/post/at/) [midnight](/en/post/midnight/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [middle](/post/middle/) [of](/post/of/) [the](/post/the/) [night](/post/night/), occurring [at](/post/at/) 12 o'clock [after](/post/after/) [sunset](/post/sunset/) [and](/post/and/) [before](/post/before/) [sunrise](/post/sunrise/), [usually](/post/usually/) considered [the](/post/the/) transition [point](/post/point/) [between](/post/between/) [one](/post/one/) [day](/post/day/) [and](/post/and/) [the](/post/the/) [next](/post/next/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [train](/post/train/) arrives [at](/post/at/) [midnight](/post/midnight/)."
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): "We're throwing [a](/en/post/a/) [midnight](/en/post/midnight/) [party](/en/post/party/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [New](/en/post/new/) Year's [Eve](/en/post/eve/)."
+[Example](/post/example/) [sentence](/post/sentence/): "We're throwing [a](/post/a/) [midnight](/post/midnight/) [party](/post/party/) [to](/post/to/) [celebrate](/post/celebrate/) [New](/post/new/) Year's [Eve](/post/eve/)."
 
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [or](/en/post/or/) happening [at](/en/post/at/) [the](/en/post/the/) [time](/en/post/time/) [of](/en/post/of/) [midnight](/en/post/midnight/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [clock](/en/post/clock/) struck [midnight](/en/post/midnight/), signaling [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [a](/en/post/a/) [new](/en/post/new/) [day](/en/post/day/)."
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [or](/post/or/) happening [at](/post/at/) [the](/post/the/) [time](/post/time/) [of](/post/of/) [midnight](/post/midnight/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [clock](/post/clock/) struck [midnight](/post/midnight/), signaling [the](/post/the/) [start](/post/start/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [day](/post/day/)."
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): "There's [a](/en/post/a/) [midnight](/en/post/midnight/) showing [of](/en/post/of/) [the](/en/post/the/) [movie](/en/post/movie/) [at](/en/post/at/) [the](/en/post/the/) [local](/en/post/local/) [cinema](/en/post/cinema/)."
+[Example](/post/example/) [sentence](/post/sentence/): "There's [a](/post/a/) [midnight](/post/midnight/) showing [of](/post/of/) [the](/post/the/) [movie](/post/movie/) [at](/post/at/) [the](/post/the/) [local](/post/local/) [cinema](/post/cinema/)."
 
 ## Phrases
-- "[At](/en/post/at/) [midnight](/en/post/midnight/)": [This](/en/post/this/) [phrase](/en/post/phrase/) denotes [something](/en/post/something/) happening precisely [at](/en/post/at/) 12 o'clock [at](/en/post/at/) [night](/en/post/night/). [Example](/en/post/example/): "[The](/en/post/the/) [full](/en/post/full/) [moon](/en/post/moon/) [rose](/en/post/rose/) [at](/en/post/at/) [midnight](/en/post/midnight/)."
-- "[Midnight](/en/post/midnight/) [oil](/en/post/oil/)": Idiomatically referring [to](/en/post/to/) working [late](/en/post/late/) [into](/en/post/into/) [the](/en/post/the/) [night](/en/post/night/), [often](/en/post/often/) [beyond](/en/post/beyond/) [usual](/en/post/usual/) bedtime. [Example](/en/post/example/): "[To](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [on](/en/post/on/) [time](/en/post/time/), [we](/en/post/we/) had [to](/en/post/to/) [burn](/en/post/burn/) [the](/en/post/the/) [midnight](/en/post/midnight/) [oil](/en/post/oil/) [for](/en/post/for/) [several](/en/post/several/) nights."
-- "[Midnight](/en/post/midnight/) snack": [A](/en/post/a/) [light](/en/post/light/) [meal](/en/post/meal/) [or](/en/post/or/) snack eaten [late](/en/post/late/) [at](/en/post/at/) [night](/en/post/night/), typically [around](/en/post/around/) [midnight](/en/post/midnight/). [Example](/en/post/example/): "I couldn't [resist](/en/post/resist/) having [a](/en/post/a/) [midnight](/en/post/midnight/) snack [before](/en/post/before/) going [to](/en/post/to/) [bed](/en/post/bed/)."
+- "[At](/post/at/) [midnight](/post/midnight/)": [This](/post/this/) [phrase](/post/phrase/) denotes [something](/post/something/) happening precisely [at](/post/at/) 12 o'clock [at](/post/at/) [night](/post/night/). [Example](/post/example/): "[The](/post/the/) [full](/post/full/) [moon](/post/moon/) [rose](/post/rose/) [at](/post/at/) [midnight](/post/midnight/)."
+- "[Midnight](/post/midnight/) [oil](/post/oil/)": Idiomatically referring [to](/post/to/) working [late](/post/late/) [into](/post/into/) [the](/post/the/) [night](/post/night/), [often](/post/often/) [beyond](/post/beyond/) [usual](/post/usual/) bedtime. [Example](/post/example/): "[To](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [on](/post/on/) [time](/post/time/), [we](/post/we/) had [to](/post/to/) [burn](/post/burn/) [the](/post/the/) [midnight](/post/midnight/) [oil](/post/oil/) [for](/post/for/) [several](/post/several/) nights."
+- "[Midnight](/post/midnight/) snack": [A](/post/a/) [light](/post/light/) [meal](/post/meal/) [or](/post/or/) snack eaten [late](/post/late/) [at](/post/at/) [night](/post/night/), typically [around](/post/around/) [midnight](/post/midnight/). [Example](/post/example/): "I couldn't [resist](/post/resist/) having [a](/post/a/) [midnight](/post/midnight/) snack [before](/post/before/) going [to](/post/to/) [bed](/post/bed/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[It](/en/post/it/) was [already](/en/post/already/) [past](/en/post/past/) [midnight](/en/post/midnight/) [when](/en/post/when/) [they](/en/post/they/) [finally](/en/post/finally/) wrapped [up](/en/post/up/) [their](/en/post/their/) [discussion](/en/post/discussion/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [midnight](/en/post/midnight/) [sun](/en/post/sun/) is [a](/en/post/a/) [natural](/en/post/natural/) [phenomenon](/en/post/phenomenon/) [that](/en/post/that/) occurs [during](/en/post/during/) [summer](/en/post/summer/) solstice [in](/en/post/in/) [certain](/en/post/certain/) regions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[It](/post/it/) was [already](/post/already/) [past](/post/past/) [midnight](/post/midnight/) [when](/post/when/) [they](/post/they/) [finally](/post/finally/) wrapped [up](/post/up/) [their](/post/their/) [discussion](/post/discussion/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [midnight](/post/midnight/) [sun](/post/sun/) is [a](/post/a/) [natural](/post/natural/) [phenomenon](/post/phenomenon/) [that](/post/that/) occurs [during](/post/during/) [summer](/post/summer/) solstice [in](/post/in/) [certain](/post/certain/) regions."
 
 ## Synonyms
-- 12 o'clock [at](/en/post/at/) [night](/en/post/night/)
-- [Dead](/en/post/dead/) [of](/en/post/of/) [night](/en/post/night/)
-- Witching [hour](/en/post/hour/)
-- Nocturnal [hour](/en/post/hour/)
+- 12 o'clock [at](/post/at/) [night](/post/night/)
+- [Dead](/post/dead/) [of](/post/of/) [night](/post/night/)
+- Witching [hour](/post/hour/)
+- Nocturnal [hour](/post/hour/)
 - Late-night
-- Bedtime ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- Bedtime ([in](/post/in/) [some](/post/some/) contexts)
 - Darkness (figurative)

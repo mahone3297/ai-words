@@ -11,22 +11,22 @@ keywords = ['ai words', 'due']
 /duː/
 
 ## 释义
-- **形容词**: 到期的，应付的。例如: "[The](/post/the/) [payment](/post/payment/) is [due](/post/due/) [next](/post/next/) [week](/post/week/)."
-- **名词**: 应得的，应有的。例如: "[She](/post/she/) received [her](/post/her/) [due](/post/due/) [recognition](/post/recognition/) [for](/post/for/) [her](/post/her/) [hard](/post/hard/) [work](/post/work/)."
-- **副词**: 应当，应该。例如: "[You](/post/you/) are [due](/post/due/) [to](/post/to/) [arrive](/post/arrive/) [at](/post/at/) 3 pm."
+- **形容词**: 到期的，应付的。例如: "[The](/zh/post/the/) [payment](/zh/post/payment/) is [due](/zh/post/due/) [next](/zh/post/next/) [week](/zh/post/week/)."
+- **名词**: 应得的，应有的。例如: "[She](/zh/post/she/) received [her](/zh/post/her/) [due](/zh/post/due/) [recognition](/zh/post/recognition/) [for](/zh/post/for/) [her](/zh/post/her/) [hard](/zh/post/hard/) [work](/zh/post/work/)."
+- **副词**: 应当，应该。例如: "[You](/zh/post/you/) are [due](/zh/post/due/) [to](/zh/post/to/) [arrive](/zh/post/arrive/) [at](/zh/post/at/) 3 pm."
 
 ## 短语
-- "[Pay](/post/pay/) [your](/post/your/) dues" 意味着支付应付款项或完成必要的努力。
-- "[Give](/post/give/) [credit](/post/credit/) [where](/post/where/) it's [due](/post/due/)" 意思是把赞誉或认可给予应得的人。
+- "[Pay](/zh/post/pay/) [your](/zh/post/your/) dues" 意味着支付应付款项或完成必要的努力。
+- "[Give](/zh/post/give/) [credit](/zh/post/credit/) [where](/zh/post/where/) it's [due](/zh/post/due/)" 意思是把赞誉或认可给予应得的人。
 
 ## 例句
-- 形容词: "[The](/post/the/) [rent](/post/rent/) is [due](/post/due/) [on](/post/on/) [the](/post/the/) [first](/post/first/) [of](/post/of/) [every](/post/every/) [month](/post/month/)."
-- 名词: "[She](/post/she/) [finally](/post/finally/) got [the](/post/the/) [recognition](/post/recognition/) [and](/post/and/) [respect](/post/respect/) [that](/post/that/) was [due](/post/due/) [to](/post/to/) [her](/post/her/)."
-- 副词: "You're [due](/post/due/) [for](/post/for/) [a](/post/a/) promotion [after](/post/after/) [all](/post/all/) [your](/post/your/) [hard](/post/hard/) [work](/post/work/)."
+- 形容词: "[The](/zh/post/the/) [rent](/zh/post/rent/) is [due](/zh/post/due/) [on](/zh/post/on/) [the](/zh/post/the/) [first](/zh/post/first/) [of](/zh/post/of/) [every](/zh/post/every/) [month](/zh/post/month/)."
+- 名词: "[She](/zh/post/she/) [finally](/zh/post/finally/) got [the](/zh/post/the/) [recognition](/zh/post/recognition/) [and](/zh/post/and/) [respect](/zh/post/respect/) [that](/zh/post/that/) was [due](/zh/post/due/) [to](/zh/post/to/) [her](/zh/post/her/)."
+- 副词: "You're [due](/zh/post/due/) [for](/zh/post/for/) [a](/zh/post/a/) promotion [after](/zh/post/after/) [all](/zh/post/all/) [your](/zh/post/your/) [hard](/zh/post/hard/) [work](/zh/post/work/)."
 
 ## 同义词
 - Owing
 - Expected
-- [Due](/post/due/) [date](/post/date/) ([for](/post/for/) [the](/post/the/) [adjective](/post/adjective/) [sense](/post/sense/))
-- Deserved ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [sense](/post/sense/))
-- [Proper](/post/proper/) ([for](/post/for/) [the](/post/the/) [adverb](/post/adverb/) [sense](/post/sense/))
+- [Due](/zh/post/due/) [date](/zh/post/date/) ([for](/zh/post/for/) [the](/zh/post/the/) [adjective](/zh/post/adjective/) [sense](/zh/post/sense/))
+- Deserved ([for](/zh/post/for/) [the](/zh/post/the/) [noun](/zh/post/noun/) [sense](/zh/post/sense/))
+- [Proper](/zh/post/proper/) ([for](/zh/post/for/) [the](/zh/post/the/) [adverb](/zh/post/adverb/) [sense](/zh/post/sense/))

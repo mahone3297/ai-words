@@ -11,20 +11,20 @@ keywords = ['ai words', 'yell']
 /yɛl/
 
 ## 释义
-- **动词**: 大声叫喊；大声呼喊。例如: "[The](/post/the/) fans yelled [when](/post/when/) [their](/post/their/) favorite [player](/post/player/) scored."
-- **名词**: 大声的叫喊或尖叫声。例如: "[His](/post/his/) [yell](/post/yell/) echoed [through](/post/through/) [the](/post/the/) [valley](/post/valley/)."
+- **动词**: 大声叫喊；大声呼喊。例如: "[The](/zh/post/the/) fans yelled [when](/zh/post/when/) [their](/zh/post/their/) favorite [player](/zh/post/player/) scored."
+- **名词**: 大声的叫喊或尖叫声。例如: "[His](/zh/post/his/) [yell](/zh/post/yell/) echoed [through](/zh/post/through/) [the](/zh/post/the/) [valley](/zh/post/valley/)."
 
 ## 短语
-- "[Yell](/post/yell/) [for](/post/for/) [help](/post/help/)" 意为大声呼救。
-- "[A](/post/a/) [loud](/post/loud/) [yell](/post/yell/)" 描述一次响亮的叫喊。
+- "[Yell](/zh/post/yell/) [for](/zh/post/for/) [help](/zh/post/help/)" 意为大声呼救。
+- "[A](/zh/post/a/) [loud](/zh/post/loud/) [yell](/zh/post/yell/)" 描述一次响亮的叫喊。
 
 ## 例句
-- 动词: "[The](/post/the/) children were yelling [with](/post/with/) excitement [in](/post/in/) [the](/post/the/) [playground](/post/playground/)."
-- 名词: "[The](/post/the/) [sudden](/post/sudden/) [yell](/post/yell/) startled [everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) [library](/post/library/)."
+- 动词: "[The](/zh/post/the/) children were yelling [with](/zh/post/with/) excitement [in](/zh/post/in/) [the](/zh/post/the/) [playground](/zh/post/playground/)."
+- 名词: "[The](/zh/post/the/) [sudden](/zh/post/sudden/) [yell](/zh/post/yell/) startled [everyone](/zh/post/everyone/) [in](/zh/post/in/) [the](/zh/post/the/) [library](/zh/post/library/)."
 
 ## 同义词
-- [Shout](/post/shout/)
-- [Scream](/post/scream/)
-- [Cry](/post/cry/) [out](/post/out/)
+- [Shout](/zh/post/shout/)
+- [Scream](/zh/post/scream/)
+- [Cry](/zh/post/cry/) [out](/zh/post/out/)
 - Hollar
-- [Roar](/post/roar/)
+- [Roar](/zh/post/roar/)

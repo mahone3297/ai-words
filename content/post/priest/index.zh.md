@@ -11,19 +11,19 @@ keywords = ['ai words', 'priest']
 /priːst/
 
 ## 释义
-- **名词 (n)**: 宗教中的神职人员，通常指基督教中的牧师或神父。例如: "[The](/post/the/) [priest](/post/priest/) led [the](/post/the/) Sunday [service](/post/service/)."
-- **名词 (n)**: 在某些宗教或信仰体系中，男性或女性的祭司。例如: "[In](/post/in/) [ancient](/post/ancient/) Egypt, priests were [responsible](/post/responsible/) [for](/post/for/) [temple](/post/temple/) rituals."
+- **名词 (n)**: 宗教中的神职人员，通常指基督教中的牧师或神父。例如: "[The](/zh/post/the/) [priest](/zh/post/priest/) led [the](/zh/post/the/) Sunday [service](/zh/post/service/)."
+- **名词 (n)**: 在某些宗教或信仰体系中，男性或女性的祭司。例如: "[In](/zh/post/in/) [ancient](/zh/post/ancient/) Egypt, priests were [responsible](/zh/post/responsible/) [for](/zh/post/for/) [temple](/zh/post/temple/) rituals."
 
 ## 短语
 - "Priesthood" 指的是牧师或祭司的团体或状态。
-- "Confession [to](/post/to/) [a](/post/a/) [priest](/post/priest/)" 指向神父忏悔罪行。
+- "Confession [to](/zh/post/to/) [a](/zh/post/a/) [priest](/zh/post/priest/)" 指向神父忏悔罪行。
 
 ## 例句
-- 名词: "[Father](/post/father/) Thomas is [a](/post/a/) well-respected [priest](/post/priest/) [in](/post/in/) [our](/post/our/) [community](/post/community/)."
-- 名词: "[The](/post/the/) [young](/post/young/) [girl](/post/girl/) went [to](/post/to/) [the](/post/the/) [priest](/post/priest/) [for](/post/for/) [spiritual](/post/spiritual/) [guidance](/post/guidance/)."
+- 名词: "[Father](/zh/post/father/) Thomas is [a](/zh/post/a/) well-respected [priest](/zh/post/priest/) [in](/zh/post/in/) [our](/zh/post/our/) [community](/zh/post/community/)."
+- 名词: "[The](/zh/post/the/) [young](/zh/post/young/) [girl](/zh/post/girl/) went [to](/zh/post/to/) [the](/zh/post/the/) [priest](/zh/post/priest/) [for](/zh/post/for/) [spiritual](/zh/post/spiritual/) [guidance](/zh/post/guidance/)."
 
 ## 同义词
-- [Minister](/post/minister/)
+- [Minister](/zh/post/minister/)
 - Clergyman
 - Pastor
 - Vicar

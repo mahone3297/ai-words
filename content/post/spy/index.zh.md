@@ -11,20 +11,20 @@ keywords = ['ai words', 'spy']
 /spaɪ/
 
 ## 释义
-- **名词**: 秘密探子，间谍。例如: "[The](/post/the/) [government](/post/government/) arrested [a](/post/a/) [spy](/post/spy/) [who](/post/who/) had been working [for](/post/for/) [the](/post/the/) [enemy](/post/enemy/)."
-- **动词**: 刺探，暗中监视。例如: "[They](/post/they/) were accused [of](/post/of/) spying [on](/post/on/) [their](/post/their/) neighbor's activities."
+- **名词**: 秘密探子，间谍。例如: "[The](/zh/post/the/) [government](/zh/post/government/) arrested [a](/zh/post/a/) [spy](/zh/post/spy/) [who](/zh/post/who/) had been working [for](/zh/post/for/) [the](/zh/post/the/) [enemy](/zh/post/enemy/)."
+- **动词**: 刺探，暗中监视。例如: "[They](/zh/post/they/) were accused [of](/zh/post/of/) spying [on](/zh/post/on/) [their](/zh/post/their/) neighbor's activities."
 
 ## 短语
-- "[spy](/post/spy/) [on](/post/on/) [someone](/post/someone/)" 意味着秘密监视某人。
-- "[be](/post/be/) [a](/post/a/) [spy](/post/spy/) [for](/post/for/)" 为某个组织或国家充当间谍。
+- "[spy](/zh/post/spy/) [on](/zh/post/on/) [someone](/zh/post/someone/)" 意味着秘密监视某人。
+- "[be](/zh/post/be/) [a](/zh/post/a/) [spy](/zh/post/spy/) [for](/zh/post/for/)" 为某个组织或国家充当间谍。
 
 ## 例句
-- 名词: "[The](/post/the/) [movie](/post/movie/) is [about](/post/about/) [a](/post/a/) top-secret [agent](/post/agent/) [who](/post/who/) works [as](/post/as/) [a](/post/a/) [spy](/post/spy/) [for](/post/for/) [the](/post/the/) CIA."
-- 动词: "[The](/post/the/) [police](/post/police/) suspected [him](/post/him/) [of](/post/of/) spying [for](/post/for/) [a](/post/a/) [rival](/post/rival/) [company](/post/company/)."
+- 名词: "[The](/zh/post/the/) [movie](/zh/post/movie/) is [about](/zh/post/about/) [a](/zh/post/a/) top-secret [agent](/zh/post/agent/) [who](/zh/post/who/) works [as](/zh/post/as/) [a](/zh/post/a/) [spy](/zh/post/spy/) [for](/zh/post/for/) [the](/zh/post/the/) CIA."
+- 动词: "[The](/zh/post/the/) [police](/zh/post/police/) suspected [him](/zh/post/him/) [of](/zh/post/of/) spying [for](/zh/post/for/) [a](/zh/post/a/) [rival](/zh/post/rival/) [company](/zh/post/company/)."
 
 ## 同义词
-- [Secret](/post/secret/) [agent](/post/agent/)
+- [Secret](/zh/post/secret/) [agent](/zh/post/agent/)
 - Informant
 - Detective
-- [Scout](/post/scout/)
-- Espionage [agent](/post/agent/)
+- [Scout](/zh/post/scout/)
+- Espionage [agent](/zh/post/agent/)

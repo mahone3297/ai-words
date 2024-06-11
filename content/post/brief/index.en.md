@@ -7,41 +7,41 @@ description = '[briːf] a.简短的；短暂的'
 keywords = ['ai words', 'brief']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /briːf/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) concise [statement](/en/post/statement/) [or](/en/post/or/) [summary](/en/post/summary/)**: [A](/en/post/a/) [brief](/en/post/brief/) [report](/en/post/report/) outlines [the](/en/post/the/) [key](/en/post/key/) points [of](/en/post/of/) [the](/en/post/the/) [meeting](/en/post/meeting/). ([summary](/en/post/summary/))
-- **[A](/en/post/a/) [short](/en/post/short/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/)**: [She](/en/post/she/) had [only](/en/post/only/) [a](/en/post/a/) [brief](/en/post/brief/) [moment](/en/post/moment/) [to](/en/post/to/) [speak](/en/post/speak/) [with](/en/post/with/) [her](/en/post/her/) [friend](/en/post/friend/) [before](/en/post/before/) [the](/en/post/the/) [train](/en/post/train/) arrived. ([duration](/en/post/duration/))
+### [Noun](/post/noun/)
+- **[A](/post/a/) concise [statement](/post/statement/) [or](/post/or/) [summary](/post/summary/)**: [A](/post/a/) [brief](/post/brief/) [report](/post/report/) outlines [the](/post/the/) [key](/post/key/) points [of](/post/of/) [the](/post/the/) [meeting](/post/meeting/). ([summary](/post/summary/))
+- **[A](/post/a/) [short](/post/short/) [period](/post/period/) [of](/post/of/) [time](/post/time/)**: [She](/post/she/) had [only](/post/only/) [a](/post/a/) [brief](/post/brief/) [moment](/post/moment/) [to](/post/to/) [speak](/post/speak/) [with](/post/with/) [her](/post/her/) [friend](/post/friend/) [before](/post/before/) [the](/post/the/) [train](/post/train/) arrived. ([duration](/post/duration/))
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [summarize](/en/post/summarize/) briefly**: [He](/en/post/he/) briefly explained [the](/en/post/the/) [project](/en/post/project/) [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) [team](/en/post/team/) members. ([to](/en/post/to/) [condense](/en/post/condense/))
-- **[To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [short](/en/post/short/) [visit](/en/post/visit/) [or](/en/post/or/) [attention](/en/post/attention/)**: [She](/en/post/she/) briefly stopped [by](/en/post/by/) [the](/en/post/the/) [store](/en/post/store/) [on](/en/post/on/) [her](/en/post/her/) [way](/en/post/way/) [home](/en/post/home/). ([to](/en/post/to/) [visit](/en/post/visit/) briefly)
+### [Verb](/post/verb/)
+- **[To](/post/to/) [summarize](/post/summarize/) briefly**: [He](/post/he/) briefly explained [the](/post/the/) [project](/post/project/) [to](/post/to/) [the](/post/the/) [new](/post/new/) [team](/post/team/) members. ([to](/post/to/) [condense](/post/condense/))
+- **[To](/post/to/) [give](/post/give/) [a](/post/a/) [short](/post/short/) [visit](/post/visit/) [or](/post/or/) [attention](/post/attention/)**: [She](/post/she/) briefly stopped [by](/post/by/) [the](/post/the/) [store](/post/store/) [on](/post/on/) [her](/post/her/) [way](/post/way/) [home](/post/home/). ([to](/post/to/) [visit](/post/visit/) briefly)
 
-### [Adjective](/en/post/adjective/)
-- **[Short](/en/post/short/) [and](/en/post/and/) concise**: [The](/en/post/the/) [brief](/en/post/brief/) [essay](/en/post/essay/) required students [to](/en/post/to/) [get](/en/post/get/) [straight](/en/post/straight/) [to](/en/post/to/) [the](/en/post/the/) [point](/en/post/point/). (lengthy)
-- **Impersonal [or](/en/post/or/) [formal](/en/post/formal/)**: [The](/en/post/the/) [lawyer](/en/post/lawyer/) delivered [a](/en/post/a/) [brief](/en/post/brief/) [opening](/en/post/opening/) [statement](/en/post/statement/) [in](/en/post/in/) [court](/en/post/court/). ([formal](/en/post/formal/))
+### [Adjective](/post/adjective/)
+- **[Short](/post/short/) [and](/post/and/) concise**: [The](/post/the/) [brief](/post/brief/) [essay](/post/essay/) required students [to](/post/to/) [get](/post/get/) [straight](/post/straight/) [to](/post/to/) [the](/post/the/) [point](/post/point/). (lengthy)
+- **Impersonal [or](/post/or/) [formal](/post/formal/)**: [The](/post/the/) [lawyer](/post/lawyer/) delivered [a](/post/a/) [brief](/post/brief/) [opening](/post/opening/) [statement](/post/statement/) [in](/post/in/) [court](/post/court/). ([formal](/post/formal/))
 
-### [Adverb](/en/post/adverb/)
-- **[In](/en/post/in/) [a](/en/post/a/) [brief](/en/post/brief/) [manner](/en/post/manner/)**: [She](/en/post/she/) answered [the](/en/post/the/) [question](/en/post/question/) [in](/en/post/in/) [a](/en/post/a/) [brief](/en/post/brief/) [response](/en/post/response/). ([quickly](/en/post/quickly/))
+### [Adverb](/post/adverb/)
+- **[In](/post/in/) [a](/post/a/) [brief](/post/brief/) [manner](/post/manner/)**: [She](/post/she/) answered [the](/post/the/) [question](/post/question/) [in](/post/in/) [a](/post/a/) [brief](/post/brief/) [response](/post/response/). ([quickly](/post/quickly/))
 
 ## Phrases
-- "Briefly [summarize](/en/post/summarize/)" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [quick](/en/post/quick/) overview.
-- "[Take](/en/post/take/) [a](/en/post/a/) [brief](/en/post/brief/) [break](/en/post/break/)" is [a](/en/post/a/) [request](/en/post/request/) [for](/en/post/for/) [a](/en/post/a/) [short](/en/post/short/) [pause](/en/post/pause/).
-- "[A](/en/post/a/) [brief](/en/post/brief/) [history](/en/post/history/)" is [a](/en/post/a/) condensed [account](/en/post/account/) [of](/en/post/of/) events.
+- "Briefly [summarize](/post/summarize/)" [means](/post/means/) [to](/post/to/) [give](/post/give/) [a](/post/a/) [quick](/post/quick/) overview.
+- "[Take](/post/take/) [a](/post/a/) [brief](/post/brief/) [break](/post/break/)" is [a](/post/a/) [request](/post/request/) [for](/post/for/) [a](/post/a/) [short](/post/short/) [pause](/post/pause/).
+- "[A](/post/a/) [brief](/post/brief/) [history](/post/history/)" is [a](/post/a/) condensed [account](/post/account/) [of](/post/of/) events.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [executive](/en/post/executive/) requested [a](/en/post/a/) [brief](/en/post/brief/) overview [of](/en/post/of/) [the](/en/post/the/) [financial](/en/post/financial/) [report](/en/post/report/).
-- **[Verb](/en/post/verb/)**: [After](/en/post/after/) [the](/en/post/the/) [main](/en/post/main/) [event](/en/post/event/), [he](/en/post/he/) briefly chatted [with](/en/post/with/) [his](/en/post/his/) colleagues.
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) doctor's [office](/en/post/office/) [provided](/en/post/provided/) patients [with](/en/post/with/) [brief](/en/post/brief/) forms [to](/en/post/to/) [fill](/en/post/fill/) [out](/en/post/out/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [executive](/post/executive/) requested [a](/post/a/) [brief](/post/brief/) overview [of](/post/of/) [the](/post/the/) [financial](/post/financial/) [report](/post/report/).
+- **[Verb](/post/verb/)**: [After](/post/after/) [the](/post/the/) [main](/post/main/) [event](/post/event/), [he](/post/he/) briefly chatted [with](/post/with/) [his](/post/his/) colleagues.
+- **[Adjective](/post/adjective/)**: [The](/post/the/) doctor's [office](/post/office/) [provided](/post/provided/) patients [with](/post/with/) [brief](/post/brief/) forms [to](/post/to/) [fill](/post/fill/) [out](/post/out/).
 
 ## Synonyms
 - Concise
 - Succinct
 - Compendious
-- [Quick](/en/post/quick/)
-- [Short](/en/post/short/)
+- [Quick](/post/quick/)
+- [Short](/post/short/)
 - Pithy
 - Terse
 - Epigrammatic

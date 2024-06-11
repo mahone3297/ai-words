@@ -11,20 +11,20 @@ keywords = ['ai words', 'pardon']
 /pərˈdɑːn/
 
 ## 释义
-- **动词**: 原谅，宽恕。例如: "I [beg](/post/beg/) [your](/post/your/) [pardon](/post/pardon/), I didn't [mean](/post/mean/) [to](/post/to/) [offend](/post/offend/) [you](/post/you/)."
-- **名词**: 请求原谅，歉意。例如: "[He](/post/he/) offered [his](/post/his/) [pardon](/post/pardon/) [for](/post/for/) [being](/post/being/) [late](/post/late/)."
+- **动词**: 原谅，宽恕。例如: "I [beg](/zh/post/beg/) [your](/zh/post/your/) [pardon](/zh/post/pardon/), I didn't [mean](/zh/post/mean/) [to](/zh/post/to/) [offend](/zh/post/offend/) [you](/zh/post/you/)."
+- **名词**: 请求原谅，歉意。例如: "[He](/zh/post/he/) offered [his](/zh/post/his/) [pardon](/zh/post/pardon/) [for](/zh/post/for/) [being](/zh/post/being/) [late](/zh/post/late/)."
 
 ## 短语
-- "[Pardon](/post/pardon/) [me](/post/me/)" 用于请求原谅或让路。
-- "[Pardon](/post/pardon/) [the](/post/the/) [interruption](/post/interruption/)" 用于道歉打断了别人的谈话。
+- "[Pardon](/zh/post/pardon/) [me](/zh/post/me/)" 用于请求原谅或让路。
+- "[Pardon](/zh/post/pardon/) [the](/zh/post/the/) [interruption](/zh/post/interruption/)" 用于道歉打断了别人的谈话。
 
 ## 例句
-- 动词: "[Please](/post/please/) [pardon](/post/pardon/) [my](/post/my/) ignorance, I'm [not](/post/not/) [familiar](/post/familiar/) [with](/post/with/) [the](/post/the/) [topic](/post/topic/)."
-- 名词: "[He](/post/he/) accepted [her](/post/her/) [pardon](/post/pardon/) [and](/post/and/) [they](/post/they/) continued [their](/post/their/) [conversation](/post/conversation/)."
+- 动词: "[Please](/zh/post/please/) [pardon](/zh/post/pardon/) [my](/zh/post/my/) ignorance, I'm [not](/zh/post/not/) [familiar](/zh/post/familiar/) [with](/zh/post/with/) [the](/zh/post/the/) [topic](/zh/post/topic/)."
+- 名词: "[He](/zh/post/he/) accepted [her](/zh/post/her/) [pardon](/zh/post/pardon/) [and](/zh/post/and/) [they](/zh/post/they/) continued [their](/zh/post/their/) [conversation](/zh/post/conversation/)."
 
 ## 同义词
-- [Excuse](/post/excuse/) [me](/post/me/)
-- [Forgive](/post/forgive/) [me](/post/me/)
-- [Sorry](/post/sorry/)
-- [Apology](/post/apology/)
-- [Beg](/post/beg/) [your](/post/your/) [mercy](/post/mercy/)
+- [Excuse](/zh/post/excuse/) [me](/zh/post/me/)
+- [Forgive](/zh/post/forgive/) [me](/zh/post/me/)
+- [Sorry](/zh/post/sorry/)
+- [Apology](/zh/post/apology/)
+- [Beg](/zh/post/beg/) [your](/zh/post/your/) [mercy](/zh/post/mercy/)

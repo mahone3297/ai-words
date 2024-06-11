@@ -7,28 +7,28 @@ description = '[ˈinə] a.内部的；内心的'
 keywords = ['ai words', 'inner']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪnər/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Located [or](/en/post/or/) situated [within](/en/post/within/); [further](/en/post/further/) towards [the](/en/post/the/) [centre](/en/post/centre/) [or](/en/post/or/) [interior](/en/post/interior/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [inner](/en/post/inner/) [door](/en/post/door/) led [to](/en/post/to/) [a](/en/post/a/) [small](/en/post/small/) [study](/en/post/study/)."
-  - *Psychology*: Relating [to](/en/post/to/) [a](/en/post/a/) person's deeper emotions [or](/en/post/or/) thoughts; [private](/en/post/private/) [or](/en/post/or/) hidden. [Example](/en/post/example/): "[Her](/en/post/her/) innermost fears were revealed [through](/en/post/through/) [her](/en/post/her/) paintings."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [inner](/en/post/inner/) [part](/en/post/part/) [or](/en/post/or/) parts [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is surrounded [by](/en/post/by/) [something](/en/post/something/) [else](/en/post/else/). [Example](/en/post/example/): "[The](/en/post/the/) [inner](/en/post/inner/) workings [of](/en/post/of/) [a](/en/post/a/) [clock](/en/post/clock/)."
+- **[Adjective](/post/adjective/)**: Located [or](/post/or/) situated [within](/post/within/); [further](/post/further/) towards [the](/post/the/) [centre](/post/centre/) [or](/post/or/) [interior](/post/interior/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [inner](/post/inner/) [door](/post/door/) led [to](/post/to/) [a](/post/a/) [small](/post/small/) [study](/post/study/)."
+  - *Psychology*: Relating [to](/post/to/) [a](/post/a/) person's deeper emotions [or](/post/or/) thoughts; [private](/post/private/) [or](/post/or/) hidden. [Example](/post/example/): "[Her](/post/her/) innermost fears were revealed [through](/post/through/) [her](/post/her/) paintings."
+- **[Noun](/post/noun/)**: [The](/post/the/) [inner](/post/inner/) [part](/post/part/) [or](/post/or/) parts [of](/post/of/) [something](/post/something/), [often](/post/often/) referring [to](/post/to/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is surrounded [by](/post/by/) [something](/post/something/) [else](/post/else/). [Example](/post/example/): "[The](/post/the/) [inner](/post/inner/) workings [of](/post/of/) [a](/post/a/) [clock](/post/clock/)."
 
 ## Phrases
-- "[Inner](/en/post/inner/) [city](/en/post/city/)": [The](/en/post/the/) [central](/en/post/central/) [area](/en/post/area/) [of](/en/post/of/) [a](/en/post/a/) [town](/en/post/town/) [or](/en/post/or/) [city](/en/post/city/), [often](/en/post/often/) [with](/en/post/with/) [high](/en/post/high/) [population](/en/post/population/) [density](/en/post/density/).
-- "[Inner](/en/post/inner/) [strength](/en/post/strength/)": [A](/en/post/a/) person's deep-rooted resilience [or](/en/post/or/) fortitude.
-- "[Inner](/en/post/inner/) [peace](/en/post/peace/)": [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [mental](/en/post/mental/) [or](/en/post/or/) [emotional](/en/post/emotional/) calmness [and](/en/post/and/) serenity.
+- "[Inner](/post/inner/) [city](/post/city/)": [The](/post/the/) [central](/post/central/) [area](/post/area/) [of](/post/of/) [a](/post/a/) [town](/post/town/) [or](/post/or/) [city](/post/city/), [often](/post/often/) [with](/post/with/) [high](/post/high/) [population](/post/population/) [density](/post/density/).
+- "[Inner](/post/inner/) [strength](/post/strength/)": [A](/post/a/) person's deep-rooted resilience [or](/post/or/) fortitude.
+- "[Inner](/post/inner/) [peace](/post/peace/)": [A](/post/a/) [state](/post/state/) [of](/post/of/) [mental](/post/mental/) [or](/post/or/) [emotional](/post/emotional/) calmness [and](/post/and/) serenity.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [inner](/en/post/inner/) walls [of](/en/post/of/) [the](/en/post/the/) [castle](/en/post/castle/) had been reinforced."
-  - "[Through](/en/post/through/) meditation, [he](/en/post/he/) [found](/en/post/found/) [his](/en/post/his/) [inner](/en/post/inner/) [balance](/en/post/balance/) [and](/en/post/and/) clarity."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [inner](/en/post/inner/) courtyard was filled [with](/en/post/with/) flowers [and](/en/post/and/) greenery."
-  - "Exploring one's [inner](/en/post/inner/) [self](/en/post/self/) [can](/en/post/can/) [lead](/en/post/lead/) [to](/en/post/to/) [personal](/en/post/personal/) [growth](/en/post/growth/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [inner](/post/inner/) walls [of](/post/of/) [the](/post/the/) [castle](/post/castle/) had been reinforced."
+  - "[Through](/post/through/) meditation, [he](/post/he/) [found](/post/found/) [his](/post/his/) [inner](/post/inner/) [balance](/post/balance/) [and](/post/and/) clarity."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [inner](/post/inner/) courtyard was filled [with](/post/with/) flowers [and](/post/and/) greenery."
+  - "Exploring one's [inner](/post/inner/) [self](/post/self/) [can](/post/can/) [lead](/post/lead/) [to](/post/to/) [personal](/post/personal/) [growth](/post/growth/)."
 
 ## Synonyms
-- [Interior](/en/post/interior/) (adj.)
-- [Central](/en/post/central/) (adj.)
-- [Internal](/en/post/internal/) (adj.)
-- [Core](/en/post/core/) ([noun](/en/post/noun/))
-- [Heart](/en/post/heart/) ([noun](/en/post/noun/), metaphorical [usage](/en/post/usage/))
+- [Interior](/post/interior/) (adj.)
+- [Central](/post/central/) (adj.)
+- [Internal](/post/internal/) (adj.)
+- [Core](/post/core/) ([noun](/post/noun/))
+- [Heart](/post/heart/) ([noun](/post/noun/), metaphorical [usage](/post/usage/))

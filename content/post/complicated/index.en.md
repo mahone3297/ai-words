@@ -7,35 +7,35 @@ description = '[ˈkɔmplikeitid] a.复杂的，难懂的'
 keywords = ['ai words', 'complicated']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈplɪkətɪd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [many](/en/post/many/) parts [or](/en/post/or/) elements [that](/en/post/that/) are [difficult](/en/post/difficult/) [to](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [deal](/en/post/deal/) [with](/en/post/with/); intricate [or](/en/post/or/) [complex](/en/post/complex/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [problem](/en/post/problem/) was [quite](/en/post/quite/) [complicated](/en/post/complicated/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [complicated](/en/post/complicated/) [manner](/en/post/manner/); intricately [or](/en/post/or/) convolutedly. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) explained [the](/en/post/the/) [process](/en/post/process/) [in](/en/post/in/) [a](/en/post/a/) [complicated](/en/post/complicated/) [way](/en/post/way/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [complicated](/en/post/complicated/) [situation](/en/post/situation/) [or](/en/post/or/) [matter](/en/post/matter/). [For](/en/post/for/) [example](/en/post/example/): "Dealing [with](/en/post/with/) bureaucracy [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [real](/en/post/real/) [headache](/en/post/headache/)."
+- **[Adjective](/post/adjective/)**: Having [many](/post/many/) parts [or](/post/or/) elements [that](/post/that/) are [difficult](/post/difficult/) [to](/post/to/) [understand](/post/understand/) [or](/post/or/) [deal](/post/deal/) [with](/post/with/); intricate [or](/post/or/) [complex](/post/complex/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [problem](/post/problem/) was [quite](/post/quite/) [complicated](/post/complicated/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [complicated](/post/complicated/) [manner](/post/manner/); intricately [or](/post/or/) convolutedly. [For](/post/for/) [example](/post/example/): "[She](/post/she/) explained [the](/post/the/) [process](/post/process/) [in](/post/in/) [a](/post/a/) [complicated](/post/complicated/) [way](/post/way/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [complicated](/post/complicated/) [situation](/post/situation/) [or](/post/or/) [matter](/post/matter/). [For](/post/for/) [example](/post/example/): "Dealing [with](/post/with/) bureaucracy [can](/post/can/) [be](/post/be/) [a](/post/a/) [real](/post/real/) [headache](/post/headache/)."
 
 ## Phrases
-- "[Simplify](/en/post/simplify/) [a](/en/post/a/) [complicated](/en/post/complicated/) [process](/en/post/process/)"
-- "[Handle](/en/post/handle/) [a](/en/post/a/) [complicated](/en/post/complicated/) [issue](/en/post/issue/)"
-- "[A](/en/post/a/) [complicated](/en/post/complicated/) web [of](/en/post/of/) relationships"
+- "[Simplify](/post/simplify/) [a](/post/a/) [complicated](/post/complicated/) [process](/post/process/)"
+- "[Handle](/post/handle/) [a](/post/a/) [complicated](/post/complicated/) [issue](/post/issue/)"
+- "[A](/post/a/) [complicated](/post/complicated/) web [of](/post/of/) relationships"
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) recipe called [for](/en/post/for/) [a](/en/post/a/) [complicated](/en/post/complicated/) [series](/en/post/series/) [of](/en/post/of/) steps."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) [explain](/en/post/explain/) [the](/en/post/the/) [concept](/en/post/concept/) [as](/en/post/as/) [simply](/en/post/simply/) [as](/en/post/as/) [possible](/en/post/possible/), [despite](/en/post/despite/) [its](/en/post/its/) [complicated](/en/post/complicated/) [nature](/en/post/nature/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) had [to](/en/post/to/) untangle [the](/en/post/the/) [complicated](/en/post/complicated/) [legal](/en/post/legal/) paperwork."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) recipe called [for](/post/for/) [a](/post/a/) [complicated](/post/complicated/) [series](/post/series/) [of](/post/of/) steps."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) tried [to](/post/to/) [explain](/post/explain/) [the](/post/the/) [concept](/post/concept/) [as](/post/as/) [simply](/post/simply/) [as](/post/as/) [possible](/post/possible/), [despite](/post/despite/) [its](/post/its/) [complicated](/post/complicated/) [nature](/post/nature/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) had [to](/post/to/) untangle [the](/post/the/) [complicated](/post/complicated/) [legal](/post/legal/) paperwork."
 
 ## Synonyms
-- [Complex](/en/post/complex/)
+- [Complex](/post/complex/)
 - Intricate
 - Convoluted
 - Challenging
-- [Tedious](/en/post/tedious/)
-- [Elaborate](/en/post/elaborate/)
+- [Tedious](/post/tedious/)
+- [Elaborate](/post/elaborate/)
 
 ## Antonyms
-- [Simple](/en/post/simple/)
+- [Simple](/post/simple/)
 - Straightforward
-- [Easy](/en/post/easy/)
+- [Easy](/post/easy/)
 - Uncomplicated
-- [Basic](/en/post/basic/)
+- [Basic](/post/basic/)

@@ -11,22 +11,22 @@ keywords = ['ai words', 'crazy']
 /kreɪzi/
 
 ## 释义
-- **形容词**: 发疯的，疯狂的，不理智的。例如: "She's [crazy](/post/crazy/) [about](/post/about/) collecting antique dolls."
-- **名词**: 疯子，精神病患者。例如: "[He](/post/he/) [used](/post/used/) [to](/post/to/) [be](/post/be/) [a](/post/a/) [genius](/post/genius/), [but](/post/but/) [now](/post/now/) he's [just](/post/just/) [a](/post/a/) [crazy](/post/crazy/) [old](/post/old/) [man](/post/man/)."
-- **副词**: 疯狂地，非常。例如: "[She](/post/she/) runs crazily [around](/post/around/) [the](/post/the/) [park](/post/park/) [every](/post/every/) [morning](/post/morning/)."
+- **形容词**: 发疯的，疯狂的，不理智的。例如: "She's [crazy](/zh/post/crazy/) [about](/zh/post/about/) collecting antique dolls."
+- **名词**: 疯子，精神病患者。例如: "[He](/zh/post/he/) [used](/zh/post/used/) [to](/zh/post/to/) [be](/zh/post/be/) [a](/zh/post/a/) [genius](/zh/post/genius/), [but](/zh/post/but/) [now](/zh/post/now/) he's [just](/zh/post/just/) [a](/zh/post/a/) [crazy](/zh/post/crazy/) [old](/zh/post/old/) [man](/zh/post/man/)."
+- **副词**: 疯狂地，非常。例如: "[She](/zh/post/she/) runs crazily [around](/zh/post/around/) [the](/zh/post/the/) [park](/zh/post/park/) [every](/zh/post/every/) [morning](/zh/post/morning/)."
 
 ## 短语
-- "[Go](/post/go/) [crazy](/post/crazy/)" 意为变得非常兴奋或失控，如: "[When](/post/when/) [the](/post/the/) [music](/post/music/) started, [everyone](/post/everyone/) went [crazy](/post/crazy/) [on](/post/on/) [the](/post/the/) [dance](/post/dance/) [floor](/post/floor/)."
-- "[Crazy](/post/crazy/) [about](/post/about/) [something](/post/something/)" 表示对某事极其喜爱，如: "I'm [crazy](/post/crazy/) [about](/post/about/) Italian [food](/post/food/)."
+- "[Go](/zh/post/go/) [crazy](/zh/post/crazy/)" 意为变得非常兴奋或失控，如: "[When](/zh/post/when/) [the](/zh/post/the/) [music](/zh/post/music/) started, [everyone](/zh/post/everyone/) went [crazy](/zh/post/crazy/) [on](/zh/post/on/) [the](/zh/post/the/) [dance](/zh/post/dance/) [floor](/zh/post/floor/)."
+- "[Crazy](/zh/post/crazy/) [about](/zh/post/about/) [something](/zh/post/something/)" 表示对某事极其喜爱，如: "I'm [crazy](/zh/post/crazy/) [about](/zh/post/about/) Italian [food](/zh/post/food/)."
 
 ## 例句
-- 形容词: "[That](/post/that/) [idea](/post/idea/) is [completely](/post/completely/) [crazy](/post/crazy/), [but](/post/but/) let's [hear](/post/hear/) [it](/post/it/) [out](/post/out/)."
-- 名词: "[Some](/post/some/) [people](/post/people/) [think](/post/think/) artists are [all](/post/all/) [a](/post/a/) [little](/post/little/) [crazy](/post/crazy/)."
-- 副词: "[She](/post/she/) works crazily [long](/post/long/) hours [to](/post/to/) [meet](/post/meet/) [the](/post/the/) deadline."
+- 形容词: "[That](/zh/post/that/) [idea](/zh/post/idea/) is [completely](/zh/post/completely/) [crazy](/zh/post/crazy/), [but](/zh/post/but/) let's [hear](/zh/post/hear/) [it](/zh/post/it/) [out](/zh/post/out/)."
+- 名词: "[Some](/zh/post/some/) [people](/zh/post/people/) [think](/zh/post/think/) artists are [all](/zh/post/all/) [a](/zh/post/a/) [little](/zh/post/little/) [crazy](/zh/post/crazy/)."
+- 副词: "[She](/zh/post/she/) works crazily [long](/zh/post/long/) hours [to](/zh/post/to/) [meet](/zh/post/meet/) [the](/zh/post/the/) deadline."
 
 ## 同义词
 - Insane
-- [Mad](/post/mad/)
+- [Mad](/zh/post/mad/)
 - Unhinged
 - Deranged
 - Nuts

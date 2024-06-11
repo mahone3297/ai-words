@@ -7,32 +7,32 @@ description = '[lʌk] n.运气；好运，幸运'
 keywords = ['ai words', 'luck']
 +++
 
-## [Word](/en/post/word/): [Luck](/en/post/luck/)
+## [Word](/post/word/): [Luck](/post/luck/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lʌk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [force](/en/post/force/) [that](/en/post/that/) seems [to](/en/post/to/) [operate](/en/post/operate/) [for](/en/post/for/) [good](/en/post/good/) [or](/en/post/or/) [ill](/en/post/ill/) [in](/en/post/in/) [a](/en/post/a/) person's [life](/en/post/life/), viewed [as](/en/post/as/) [a](/en/post/a/) [positive](/en/post/positive/) [or](/en/post/or/) [negative](/en/post/negative/) [outcome](/en/post/outcome/) [from](/en/post/from/) [chance](/en/post/chance/) [or](/en/post/or/) [beyond](/en/post/beyond/) one's [control](/en/post/control/); [fortune](/en/post/fortune/) [or](/en/post/or/) [prosperity](/en/post/prosperity/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) attributed [her](/en/post/her/) [success](/en/post/success/) [to](/en/post/to/) [a](/en/post/a/) [combination](/en/post/combination/) [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/) [and](/en/post/and/) [good](/en/post/good/) [luck](/en/post/luck/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [fortunate](/en/post/fortunate/) happening [or](/en/post/or/) [event](/en/post/event/); an [instance](/en/post/instance/) [of](/en/post/of/) having [good](/en/post/good/) [luck](/en/post/luck/). [For](/en/post/for/) [example](/en/post/example/): "[Finding](/en/post/finding/) [a](/en/post/a/) $20 [bill](/en/post/bill/) [on](/en/post/on/) [the](/en/post/the/) [street](/en/post/street/) was [a](/en/post/a/) [stroke](/en/post/stroke/) [of](/en/post/of/) [luck](/en/post/luck/)."
-- **[Verb](/en/post/verb/) ([usually](/en/post/usually/) [in](/en/post/in/) [the](/en/post/the/) [form](/en/post/form/) '[to](/en/post/to/) [luck](/en/post/luck/) [out](/en/post/out/)')**: [To](/en/post/to/) [have](/en/post/have/) [unexpected](/en/post/unexpected/) [good](/en/post/good/) [fortune](/en/post/fortune/) [or](/en/post/or/) [success](/en/post/success/) [by](/en/post/by/) [chance](/en/post/chance/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [really](/en/post/really/) lucked [out](/en/post/out/) [with](/en/post/with/) [the](/en/post/the/) [weather](/en/post/weather/) [on](/en/post/on/) [our](/en/post/our/) [wedding](/en/post/wedding/) [day](/en/post/day/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [force](/post/force/) [that](/post/that/) seems [to](/post/to/) [operate](/post/operate/) [for](/post/for/) [good](/post/good/) [or](/post/or/) [ill](/post/ill/) [in](/post/in/) [a](/post/a/) person's [life](/post/life/), viewed [as](/post/as/) [a](/post/a/) [positive](/post/positive/) [or](/post/or/) [negative](/post/negative/) [outcome](/post/outcome/) [from](/post/from/) [chance](/post/chance/) [or](/post/or/) [beyond](/post/beyond/) one's [control](/post/control/); [fortune](/post/fortune/) [or](/post/or/) [prosperity](/post/prosperity/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) attributed [her](/post/her/) [success](/post/success/) [to](/post/to/) [a](/post/a/) [combination](/post/combination/) [of](/post/of/) [hard](/post/hard/) [work](/post/work/) [and](/post/and/) [good](/post/good/) [luck](/post/luck/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [fortunate](/post/fortunate/) happening [or](/post/or/) [event](/post/event/); an [instance](/post/instance/) [of](/post/of/) having [good](/post/good/) [luck](/post/luck/). [For](/post/for/) [example](/post/example/): "[Finding](/post/finding/) [a](/post/a/) $20 [bill](/post/bill/) [on](/post/on/) [the](/post/the/) [street](/post/street/) was [a](/post/a/) [stroke](/post/stroke/) [of](/post/of/) [luck](/post/luck/)."
+- **[Verb](/post/verb/) ([usually](/post/usually/) [in](/post/in/) [the](/post/the/) [form](/post/form/) '[to](/post/to/) [luck](/post/luck/) [out](/post/out/)')**: [To](/post/to/) [have](/post/have/) [unexpected](/post/unexpected/) [good](/post/good/) [fortune](/post/fortune/) [or](/post/or/) [success](/post/success/) [by](/post/by/) [chance](/post/chance/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [really](/post/really/) lucked [out](/post/out/) [with](/post/with/) [the](/post/the/) [weather](/post/weather/) [on](/post/on/) [our](/post/our/) [wedding](/post/wedding/) [day](/post/day/)."
 
 ## Phrases
-- "[Best](/en/post/best/) [of](/en/post/of/) [luck](/en/post/luck/)": [A](/en/post/a/) [phrase](/en/post/phrase/) wishing [someone](/en/post/someone/) [the](/en/post/the/) [most](/en/post/most/) favorable [outcome](/en/post/outcome/) [in](/en/post/in/) [a](/en/post/a/) [situation](/en/post/situation/).
-- "Beginner's [luck](/en/post/luck/)": [When](/en/post/when/) [a](/en/post/a/) novice experiences [unexpected](/en/post/unexpected/) [success](/en/post/success/) [in](/en/post/in/) [their](/en/post/their/) [first](/en/post/first/) [attempt](/en/post/attempt/) [at](/en/post/at/) [something](/en/post/something/).
-- "[Down](/en/post/down/) [on](/en/post/on/) [your](/en/post/your/) [luck](/en/post/luck/)": [A](/en/post/a/) [phrase](/en/post/phrase/) describing [someone](/en/post/someone/) [who](/en/post/who/) is experiencing [a](/en/post/a/) [run](/en/post/run/) [of](/en/post/of/) [bad](/en/post/bad/) [fortune](/en/post/fortune/).
-- "[As](/en/post/as/) [luck](/en/post/luck/) [would](/en/post/would/) [have](/en/post/have/) [it](/en/post/it/)": An [expression](/en/post/expression/) [used](/en/post/used/) [when](/en/post/when/) [something](/en/post/something/) happens [by](/en/post/by/) [chance](/en/post/chance/) [in](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) is [convenient](/en/post/convenient/) [or](/en/post/or/) [beneficial](/en/post/beneficial/).
+- "[Best](/post/best/) [of](/post/of/) [luck](/post/luck/)": [A](/post/a/) [phrase](/post/phrase/) wishing [someone](/post/someone/) [the](/post/the/) [most](/post/most/) favorable [outcome](/post/outcome/) [in](/post/in/) [a](/post/a/) [situation](/post/situation/).
+- "Beginner's [luck](/post/luck/)": [When](/post/when/) [a](/post/a/) novice experiences [unexpected](/post/unexpected/) [success](/post/success/) [in](/post/in/) [their](/post/their/) [first](/post/first/) [attempt](/post/attempt/) [at](/post/at/) [something](/post/something/).
+- "[Down](/post/down/) [on](/post/on/) [your](/post/your/) [luck](/post/luck/)": [A](/post/a/) [phrase](/post/phrase/) describing [someone](/post/someone/) [who](/post/who/) is experiencing [a](/post/a/) [run](/post/run/) [of](/post/of/) [bad](/post/bad/) [fortune](/post/fortune/).
+- "[As](/post/as/) [luck](/post/luck/) [would](/post/would/) [have](/post/have/) [it](/post/it/)": An [expression](/post/expression/) [used](/post/used/) [when](/post/when/) [something](/post/something/) happens [by](/post/by/) [chance](/post/chance/) [in](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) is [convenient](/post/convenient/) [or](/post/or/) [beneficial](/post/beneficial/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [lack](/en/post/lack/) [of](/en/post/of/) [luck](/en/post/luck/) [in](/en/post/in/) [finding](/en/post/finding/) [a](/en/post/a/) [job](/en/post/job/) was [beginning](/en/post/beginning/) [to](/en/post/to/) [weigh](/en/post/weigh/) [heavily](/en/post/heavily/) [on](/en/post/on/) [him](/en/post/him/)."
-- **[Verb](/en/post/verb/)**: "I managed [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [last](/en/post/last/) [train](/en/post/train/) [home](/en/post/home/) – I [really](/en/post/really/) lucked [out](/en/post/out/) [tonight](/en/post/tonight/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [lack](/post/lack/) [of](/post/of/) [luck](/post/luck/) [in](/post/in/) [finding](/post/finding/) [a](/post/a/) [job](/post/job/) was [beginning](/post/beginning/) [to](/post/to/) [weigh](/post/weigh/) [heavily](/post/heavily/) [on](/post/on/) [him](/post/him/)."
+- **[Verb](/post/verb/)**: "I managed [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [last](/post/last/) [train](/post/train/) [home](/post/home/) – I [really](/post/really/) lucked [out](/post/out/) [tonight](/post/tonight/)."
 
 ## Synonyms
-- [Fortune](/en/post/fortune/)
-- [Chance](/en/post/chance/)
+- [Fortune](/post/fortune/)
+- [Chance](/post/chance/)
 - Happenstance
 - Serendipity
-- [Good](/en/post/good/) [fortune](/en/post/fortune/)
-- Misfortune ([for](/en/post/for/) [negative](/en/post/negative/) outcomes)
+- [Good](/post/good/) [fortune](/post/fortune/)
+- Misfortune ([for](/post/for/) [negative](/post/negative/) outcomes)
 - Fortuitousness
 - providence

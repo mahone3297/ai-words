@@ -12,22 +12,22 @@ keywords = ['ai words', 'feast']
 
 ## 释义
 - **名词 n**:
-   - 盛宴，盛大的聚会，通常以美食和娱乐为主。例如: "[They](/post/they/) hosted [a](/post/a/) lavish [feast](/post/feast/) [for](/post/for/) [their](/post/their/) guests."
-   - 大量享用食物或饮料。例如: "[The](/post/the/) [football](/post/football/) fans were [ready](/post/ready/) [for](/post/for/) [a](/post/a/) [feast](/post/feast/) [of](/post/of/) goals."
+   - 盛宴，盛大的聚会，通常以美食和娱乐为主。例如: "[They](/zh/post/they/) hosted [a](/zh/post/a/) lavish [feast](/zh/post/feast/) [for](/zh/post/for/) [their](/zh/post/their/) guests."
+   - 大量享用食物或饮料。例如: "[The](/zh/post/the/) [football](/zh/post/football/) fans were [ready](/zh/post/ready/) [for](/zh/post/for/) [a](/zh/post/a/) [feast](/zh/post/feast/) [of](/zh/post/of/) goals."
 - **动词 v**:
-   - 大量享用食物或饮料。例如: "[The](/post/the/) children feasted [on](/post/on/) [ice](/post/ice/) [cream](/post/cream/) [and](/post/and/) [cake](/post/cake/)."
+   - 大量享用食物或饮料。例如: "[The](/zh/post/the/) children feasted [on](/zh/post/on/) [ice](/zh/post/ice/) [cream](/zh/post/cream/) [and](/zh/post/and/) [cake](/zh/post/cake/)."
 
 ## 短语
-- "[feast](/post/feast/) one's eyes [on](/post/on/) [something](/post/something/)" 观赏，尽情欣赏。例如: "[We](/post/we/) feasted [our](/post/our/) eyes [on](/post/on/) [the](/post/the/) stunning [view](/post/view/) [from](/post/from/) [the](/post/the/) mountaintop."
-- "[feast](/post/feast/) [or](/post/or/) [famine](/post/famine/)" 指情况或资源时而丰富时而匮乏。例如: "[Their](/post/their/) [income](/post/income/) was [often](/post/often/) [feast](/post/feast/) [or](/post/or/) [famine](/post/famine/), depending [on](/post/on/) [the](/post/the/) [season](/post/season/)."
+- "[feast](/zh/post/feast/) one's eyes [on](/zh/post/on/) [something](/zh/post/something/)" 观赏，尽情欣赏。例如: "[We](/zh/post/we/) feasted [our](/zh/post/our/) eyes [on](/zh/post/on/) [the](/zh/post/the/) stunning [view](/zh/post/view/) [from](/zh/post/from/) [the](/zh/post/the/) mountaintop."
+- "[feast](/zh/post/feast/) [or](/zh/post/or/) [famine](/zh/post/famine/)" 指情况或资源时而丰富时而匮乏。例如: "[Their](/zh/post/their/) [income](/zh/post/income/) was [often](/zh/post/often/) [feast](/zh/post/feast/) [or](/zh/post/or/) [famine](/zh/post/famine/), depending [on](/zh/post/on/) [the](/zh/post/the/) [season](/zh/post/season/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [king](/post/king/) held [a](/post/a/) [grand](/post/grand/) [feast](/post/feast/) [in](/post/in/) honor [of](/post/of/) [his](/post/his/) [victorious](/post/victorious/) [army](/post/army/)."
-- 动词: "[The](/post/the/) children feasted [on](/post/on/) [their](/post/their/) favorite dishes [during](/post/during/) [the](/post/the/) [holiday](/post/holiday/) celebration."
+- 名词: "[The](/zh/post/the/) [king](/zh/post/king/) held [a](/zh/post/a/) [grand](/zh/post/grand/) [feast](/zh/post/feast/) [in](/zh/post/in/) honor [of](/zh/post/of/) [his](/zh/post/his/) [victorious](/zh/post/victorious/) [army](/zh/post/army/)."
+- 动词: "[The](/zh/post/the/) children feasted [on](/zh/post/on/) [their](/zh/post/their/) favorite dishes [during](/zh/post/during/) [the](/zh/post/the/) [holiday](/zh/post/holiday/) celebration."
 
 ## 同义词
 - banquet
 - revelry
 - celebration
 - festivity
-- orgy ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [excessive](/post/excessive/) indulgence)
+- orgy ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [excessive](/zh/post/excessive/) indulgence)

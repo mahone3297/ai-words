@@ -11,19 +11,19 @@ keywords = ['ai words', 'tiny']
 /ˈtaɪni/
 
 ## 释义
-- **形容词**: 极小的，微小的，细小的。例如: "[The](/post/the/) [tiny](/post/tiny/) [ant](/post/ant/) was [almost](/post/almost/) [invisible](/post/invisible/) [on](/post/on/) [the](/post/the/) [ground](/post/ground/)."
-- **名词**: 小事物的昵称或爱称。例如: "[She](/post/she/) called [her](/post/her/) [new](/post/new/) kitten '[Tiny](/post/tiny/)'."
+- **形容词**: 极小的，微小的，细小的。例如: "[The](/zh/post/the/) [tiny](/zh/post/tiny/) [ant](/zh/post/ant/) was [almost](/zh/post/almost/) [invisible](/zh/post/invisible/) [on](/zh/post/on/) [the](/zh/post/the/) [ground](/zh/post/ground/)."
+- **名词**: 小事物的昵称或爱称。例如: "[She](/zh/post/she/) called [her](/zh/post/her/) [new](/zh/post/new/) kitten '[Tiny](/zh/post/tiny/)'."
 
 ## 短语
-- "[tiny](/post/tiny/) [bit](/post/bit/)" 表示非常少量，如 "I [just](/post/just/) [need](/post/need/) [a](/post/a/) [tiny](/post/tiny/) [bit](/post/bit/) [of](/post/of/) [sugar](/post/sugar/) [in](/post/in/) [my](/post/my/) [coffee](/post/coffee/)."
+- "[tiny](/zh/post/tiny/) [bit](/zh/post/bit/)" 表示非常少量，如 "I [just](/zh/post/just/) [need](/zh/post/need/) [a](/zh/post/a/) [tiny](/zh/post/tiny/) [bit](/zh/post/bit/) [of](/zh/post/of/) [sugar](/zh/post/sugar/) [in](/zh/post/in/) [my](/zh/post/my/) [coffee](/zh/post/coffee/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) [tiny](/post/tiny/) flowers were barely [visible](/post/visible/) [among](/post/among/) [the](/post/the/) [green](/post/green/) leaves."
-- 名词: "[The](/post/the/) baby's [tiny](/post/tiny/) fingers looked [so](/post/so/) [delicate](/post/delicate/)."
+- 形容词: "[The](/zh/post/the/) [tiny](/zh/post/tiny/) flowers were barely [visible](/zh/post/visible/) [among](/zh/post/among/) [the](/zh/post/the/) [green](/zh/post/green/) leaves."
+- 名词: "[The](/zh/post/the/) baby's [tiny](/zh/post/tiny/) fingers looked [so](/zh/post/so/) [delicate](/zh/post/delicate/)."
 
 ## 同义词
-- [Small](/post/small/)
-- [Little](/post/little/)
+- [Small](/zh/post/small/)
+- [Little](/zh/post/little/)
 - Miniature
 - Petite
 - eensy-weensy (informal)

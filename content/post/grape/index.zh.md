@@ -12,19 +12,19 @@ keywords = ['ai words', 'grape']
 
 ## 释义
 - **名词**:
-   - 葡萄：一种圆形的水果，通常成串生长，可食用，也可酿酒。例如: "[She](/post/she/) picked [a](/post/a/) cluster [of](/post/of/) grapes [from](/post/from/) [the](/post/the/) [vine](/post/vine/)."
-   - 葡萄酒：由葡萄发酵制成的酒精饮料。例如: "[We](/post/we/) enjoyed [a](/post/a/) [glass](/post/glass/) [of](/post/of/) [red](/post/red/) [wine](/post/wine/) [with](/post/with/) [dinner](/post/dinner/)."
+   - 葡萄：一种圆形的水果，通常成串生长，可食用，也可酿酒。例如: "[She](/zh/post/she/) picked [a](/zh/post/a/) cluster [of](/zh/post/of/) grapes [from](/zh/post/from/) [the](/zh/post/the/) [vine](/zh/post/vine/)."
+   - 葡萄酒：由葡萄发酵制成的酒精饮料。例如: "[We](/zh/post/we/) enjoyed [a](/zh/post/a/) [glass](/zh/post/glass/) [of](/zh/post/of/) [red](/zh/post/red/) [wine](/zh/post/wine/) [with](/zh/post/with/) [dinner](/zh/post/dinner/)."
 
 ## 短语
 - "grapevine" 指的是传闻或小道消息的传播途径。
-- "[grape](/post/grape/) [juice](/post/juice/)" 葡萄汁，由新鲜葡萄榨取而来，通常是无酒精的。
+- "[grape](/zh/post/grape/) [juice](/zh/post/juice/)" 葡萄汁，由新鲜葡萄榨取而来，通常是无酒精的。
 
 ## 例句
-- 名词: "[The](/post/the/) grapes [on](/post/on/) [the](/post/the/) [vine](/post/vine/) were [ripe](/post/ripe/) [and](/post/and/) [ready](/post/ready/) [for](/post/for/) picking."
-- 形容词: "[The](/post/the/) winery offers [a](/post/a/) [variety](/post/variety/) [of](/post/of/) grape-based products."
+- 名词: "[The](/zh/post/the/) grapes [on](/zh/post/on/) [the](/zh/post/the/) [vine](/zh/post/vine/) were [ripe](/zh/post/ripe/) [and](/zh/post/and/) [ready](/zh/post/ready/) [for](/zh/post/for/) picking."
+- 形容词: "[The](/zh/post/the/) winery offers [a](/zh/post/a/) [variety](/zh/post/variety/) [of](/zh/post/of/) grape-based products."
 
 ## 同义词
 - Berries (泛指浆果类)
 - Fruits (水果的总称)
 - Vitis (学名，葡萄藤)
-- [Wine](/post/wine/) (葡萄酒的简称)
+- [Wine](/zh/post/wine/) (葡萄酒的简称)

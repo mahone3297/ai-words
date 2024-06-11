@@ -7,29 +7,29 @@ description = '[iˈkwip] vt.装备，配备'
 keywords = ['ai words', 'equip']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈkwɪp/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [furnish](/en/post/furnish/) [or](/en/post/or/) [supply](/en/post/supply/) [with](/en/post/with/) [whatever](/en/post/whatever/) is [necessary](/en/post/necessary/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/); [to](/en/post/to/) [provide](/en/post/provide/) [with](/en/post/with/) tools, weapons, [equipment](/en/post/equipment/), skills, [or](/en/post/or/) [other](/en/post/other/) requisites. [Example](/en/post/example/): "[The](/en/post/the/) expedition was well-equipped [for](/en/post/for/) [the](/en/post/the/) [journey](/en/post/journey/) [ahead](/en/post/ahead/)."
-- **[Verb](/en/post/verb/)**: (intransitive) [To](/en/post/to/) [get](/en/post/get/) [oneself](/en/post/oneself/) [ready](/en/post/ready/) [or](/en/post/or/) prepared, [often](/en/post/often/) [with](/en/post/with/) [reference](/en/post/reference/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/) [or](/en/post/or/) [situation](/en/post/situation/). [Example](/en/post/example/): "[Before](/en/post/before/) hiking, [we](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [equip](/en/post/equip/) [ourselves](/en/post/ourselves/) [with](/en/post/with/) [proper](/en/post/proper/) boots [and](/en/post/and/) jackets."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) equipping [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) equipped; [also](/en/post/also/), [the](/en/post/the/) things [provided](/en/post/provided/) [or](/en/post/or/) [used](/en/post/used/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/). [Example](/en/post/example/): "[Modern](/en/post/modern/) [technology](/en/post/technology/) has [greatly](/en/post/greatly/) improved [the](/en/post/the/) [equipment](/en/post/equipment/) [on](/en/post/on/) [offer](/en/post/offer/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [furnish](/post/furnish/) [or](/post/or/) [supply](/post/supply/) [with](/post/with/) [whatever](/post/whatever/) is [necessary](/post/necessary/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/); [to](/post/to/) [provide](/post/provide/) [with](/post/with/) tools, weapons, [equipment](/post/equipment/), skills, [or](/post/or/) [other](/post/other/) requisites. [Example](/post/example/): "[The](/post/the/) expedition was well-equipped [for](/post/for/) [the](/post/the/) [journey](/post/journey/) [ahead](/post/ahead/)."
+- **[Verb](/post/verb/)**: (intransitive) [To](/post/to/) [get](/post/get/) [oneself](/post/oneself/) [ready](/post/ready/) [or](/post/or/) prepared, [often](/post/often/) [with](/post/with/) [reference](/post/reference/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/) [or](/post/or/) [situation](/post/situation/). [Example](/post/example/): "[Before](/post/before/) hiking, [we](/post/we/) [need](/post/need/) [to](/post/to/) [equip](/post/equip/) [ourselves](/post/ourselves/) [with](/post/with/) [proper](/post/proper/) boots [and](/post/and/) jackets."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) equipping [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) equipped; [also](/post/also/), [the](/post/the/) things [provided](/post/provided/) [or](/post/or/) [used](/post/used/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/). [Example](/post/example/): "[Modern](/post/modern/) [technology](/post/technology/) has [greatly](/post/greatly/) improved [the](/post/the/) [equipment](/post/equipment/) [on](/post/on/) [offer](/post/offer/)."
 
 ## Phrases
-- "[Equip](/en/post/equip/) [with](/en/post/with/)": [To](/en/post/to/) [provide](/en/post/provide/) [something](/en/post/something/) [with](/en/post/with/) [necessary](/en/post/necessary/) items [or](/en/post/or/) tools. [Example](/en/post/example/): "[The](/en/post/the/) [ship](/en/post/ship/) was equipped [with](/en/post/with/) [advanced](/en/post/advanced/) [navigation](/en/post/navigation/) systems."
-- "[Be](/en/post/be/) equipped [for](/en/post/for/)": [To](/en/post/to/) [be](/en/post/be/) [ready](/en/post/ready/) [or](/en/post/or/) prepared [for](/en/post/for/) [something](/en/post/something/). [Example](/en/post/example/): "Thanks [to](/en/post/to/) [her](/en/post/her/) [extensive](/en/post/extensive/) [training](/en/post/training/), [she](/en/post/she/) was fully equipped [for](/en/post/for/) [the](/en/post/the/) marathon."
+- "[Equip](/post/equip/) [with](/post/with/)": [To](/post/to/) [provide](/post/provide/) [something](/post/something/) [with](/post/with/) [necessary](/post/necessary/) items [or](/post/or/) tools. [Example](/post/example/): "[The](/post/the/) [ship](/post/ship/) was equipped [with](/post/with/) [advanced](/post/advanced/) [navigation](/post/navigation/) systems."
+- "[Be](/post/be/) equipped [for](/post/for/)": [To](/post/to/) [be](/post/be/) [ready](/post/ready/) [or](/post/or/) prepared [for](/post/for/) [something](/post/something/). [Example](/post/example/): "Thanks [to](/post/to/) [her](/post/her/) [extensive](/post/extensive/) [training](/post/training/), [she](/post/she/) was fully equipped [for](/post/for/) [the](/post/the/) marathon."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (transitive)**: "[The](/en/post/the/) [school](/en/post/school/) is equipping [its](/en/post/its/) [science](/en/post/science/) labs [with](/en/post/with/) [new](/en/post/new/) microscopes."
-- **[Verb](/en/post/verb/) (intransitive)**: "[The](/en/post/the/) soldiers spent weeks equipping [themselves](/en/post/themselves/) [for](/en/post/for/) [the](/en/post/the/) upcoming [mission](/en/post/mission/)."
-- **[Noun](/en/post/noun/)**: "[A](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [proper](/en/post/proper/) [equipment](/en/post/equipment/) [can](/en/post/can/) hinder [any](/en/post/any/) project's [success](/en/post/success/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (transitive)**: "[The](/post/the/) [school](/post/school/) is equipping [its](/post/its/) [science](/post/science/) labs [with](/post/with/) [new](/post/new/) microscopes."
+- **[Verb](/post/verb/) (intransitive)**: "[The](/post/the/) soldiers spent weeks equipping [themselves](/post/themselves/) [for](/post/for/) [the](/post/the/) upcoming [mission](/post/mission/)."
+- **[Noun](/post/noun/)**: "[A](/post/a/) [lack](/post/lack/) [of](/post/of/) [proper](/post/proper/) [equipment](/post/equipment/) [can](/post/can/) hinder [any](/post/any/) project's [success](/post/success/)."
 
 ## Synonyms
-- Outfit ([with](/en/post/with/))
-- [Furnish](/en/post/furnish/)
-- [Supply](/en/post/supply/)
-- [Arm](/en/post/arm/) ([for](/en/post/for/) [military](/en/post/military/) contexts)
-- [Prepare](/en/post/prepare/)
-- [Provision](/en/post/provision/)
-- [Fit](/en/post/fit/) ([out](/en/post/out/))
-- Equipage ([noun](/en/post/noun/) - referring [to](/en/post/to/) [the](/en/post/the/) [collection](/en/post/collection/) [of](/en/post/of/) [equipment](/en/post/equipment/) [or](/en/post/or/) gear)
+- Outfit ([with](/post/with/))
+- [Furnish](/post/furnish/)
+- [Supply](/post/supply/)
+- [Arm](/post/arm/) ([for](/post/for/) [military](/post/military/) contexts)
+- [Prepare](/post/prepare/)
+- [Provision](/post/provision/)
+- [Fit](/post/fit/) ([out](/post/out/))
+- Equipage ([noun](/post/noun/) - referring [to](/post/to/) [the](/post/the/) [collection](/post/collection/) [of](/post/of/) [equipment](/post/equipment/) [or](/post/or/) gear)

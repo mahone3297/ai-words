@@ -7,29 +7,29 @@ description = '[klɔː] n.爪，脚爪，螯'
 keywords = ['ai words', 'claw']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /klɔː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [sharp](/en/post/sharp/), curved talon [or](/en/post/or/) [hook](/en/post/hook/) [on](/en/post/on/) [the](/en/post/the/) [foot](/en/post/foot/) [of](/en/post/of/) [certain](/en/post/certain/) animals, [used](/en/post/used/) [for](/en/post/for/) grasping [or](/en/post/or/) defense. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) eagle's claws were razor-sharp."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [seize](/en/post/seize/) [with](/en/post/with/) [a](/en/post/a/) [claw](/en/post/claw/) [or](/en/post/or/) claws; [to](/en/post/to/) [grasp](/en/post/grasp/) [or](/en/post/or/) [catch](/en/post/catch/) [hold](/en/post/hold/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [cat](/en/post/cat/) clawed [its](/en/post/its/) [way](/en/post/way/) [up](/en/post/up/) [the](/en/post/the/) [tree](/en/post/tree/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [sharp](/en/post/sharp/) claws [or](/en/post/or/) having [such](/en/post/such/) claws;锐利的, 锐爪的. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [owl](/en/post/owl/) had [powerful](/en/post/powerful/) claw-like talons."
-- **[Adverb](/en/post/adverb/)**: [With](/en/post/with/) claws; using claws. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lion](/en/post/lion/) pounced, clawing [at](/en/post/at/) [its](/en/post/its/) prey."
+- **[Noun](/post/noun/)**: [A](/post/a/) [sharp](/post/sharp/), curved talon [or](/post/or/) [hook](/post/hook/) [on](/post/on/) [the](/post/the/) [foot](/post/foot/) [of](/post/of/) [certain](/post/certain/) animals, [used](/post/used/) [for](/post/for/) grasping [or](/post/or/) defense. [For](/post/for/) [example](/post/example/): "[The](/post/the/) eagle's claws were razor-sharp."
+- **[Verb](/post/verb/)**: [To](/post/to/) [seize](/post/seize/) [with](/post/with/) [a](/post/a/) [claw](/post/claw/) [or](/post/or/) claws; [to](/post/to/) [grasp](/post/grasp/) [or](/post/or/) [catch](/post/catch/) [hold](/post/hold/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [cat](/post/cat/) clawed [its](/post/its/) [way](/post/way/) [up](/post/up/) [the](/post/the/) [tree](/post/tree/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [sharp](/post/sharp/) claws [or](/post/or/) having [such](/post/such/) claws;锐利的, 锐爪的. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [owl](/post/owl/) had [powerful](/post/powerful/) claw-like talons."
+- **[Adverb](/post/adverb/)**: [With](/post/with/) claws; using claws. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lion](/post/lion/) pounced, clawing [at](/post/at/) [its](/post/its/) prey."
 
 ## Phrases
-- "Clawed [its](/en/post/its/) [way](/en/post/way/) [up](/en/post/up/)" describes [a](/en/post/a/) [creature](/en/post/creature/) climbing using [its](/en/post/its/) claws.
-- "[Claw](/en/post/claw/) marks [on](/en/post/on/) [the](/en/post/the/) [wall](/en/post/wall/)" [indicate](/en/post/indicate/) [damage](/en/post/damage/) caused [by](/en/post/by/) claws.
-- "Clawed [through](/en/post/through/) [the](/en/post/the/) underbrush" refers [to](/en/post/to/) moving [quickly](/en/post/quickly/) [and](/en/post/and/) fiercely [through](/en/post/through/) vegetation.
+- "Clawed [its](/post/its/) [way](/post/way/) [up](/post/up/)" describes [a](/post/a/) [creature](/post/creature/) climbing using [its](/post/its/) claws.
+- "[Claw](/post/claw/) marks [on](/post/on/) [the](/post/the/) [wall](/post/wall/)" [indicate](/post/indicate/) [damage](/post/damage/) caused [by](/post/by/) claws.
+- "Clawed [through](/post/through/) [the](/post/the/) underbrush" refers [to](/post/to/) moving [quickly](/post/quickly/) [and](/post/and/) fiercely [through](/post/through/) vegetation.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) tiger's retractable claws allowed [it](/en/post/it/) [to](/en/post/to/) [climb](/en/post/climb/) trees [easily](/en/post/easily/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) burglar managed [to](/en/post/to/) [escape](/en/post/escape/) using [his](/en/post/his/) [sharp](/en/post/sharp/) claws [to](/en/post/to/) [open](/en/post/open/) [the](/en/post/the/) [window](/en/post/window/) [lock](/en/post/lock/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) cheetah is known [for](/en/post/for/) [its](/en/post/its/) agile, clawed paws."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) cobra struck [out](/en/post/out/) [with](/en/post/with/) [deadly](/en/post/deadly/) [precision](/en/post/precision/), clawing [at](/en/post/at/) [its](/en/post/its/) [target](/en/post/target/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) tiger's retractable claws allowed [it](/post/it/) [to](/post/to/) [climb](/post/climb/) trees [easily](/post/easily/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) burglar managed [to](/post/to/) [escape](/post/escape/) using [his](/post/his/) [sharp](/post/sharp/) claws [to](/post/to/) [open](/post/open/) [the](/post/the/) [window](/post/window/) [lock](/post/lock/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) cheetah is known [for](/post/for/) [its](/post/its/) agile, clawed paws."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) cobra struck [out](/post/out/) [with](/post/with/) [deadly](/post/deadly/) [precision](/post/precision/), clawing [at](/post/at/) [its](/post/its/) [target](/post/target/)."
 
 ## Synonyms
 - Talon
 - Clasper
-- Clawed [instrument](/en/post/instrument/)
+- Clawed [instrument](/post/instrument/)
 - Grasping appendage
-- Hooked beak ([in](/en/post/in/) birds)
+- Hooked beak ([in](/post/in/) birds)

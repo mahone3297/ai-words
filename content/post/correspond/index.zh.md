@@ -12,22 +12,22 @@ keywords = ['ai words', 'correspond']
 
 ## 释义
 - **动词**:
-  1. 相符；一致：与…相符合。例如: "[The](/post/the/) colors [in](/post/in/) [the](/post/the/) [painting](/post/painting/) [correspond](/post/correspond/) [to](/post/to/) [the](/post/the/) [natural](/post/natural/) [scenery](/post/scenery/)."
-  2. 通信：与…通信。例如: "[They](/post/they/) [correspond](/post/correspond/) [regularly](/post/regularly/) [through](/post/through/) letters [and](/post/and/) emails."
-  3. 对应：在某种关系中与…相对应。例如: "[The](/post/the/) keys [on](/post/on/) [the](/post/the/) [keyboard](/post/keyboard/) [correspond](/post/correspond/) [to](/post/to/) [the](/post/the/) letters [on](/post/on/) [the](/post/the/) [screen](/post/screen/)."
+  1. 相符；一致：与…相符合。例如: "[The](/zh/post/the/) colors [in](/zh/post/in/) [the](/zh/post/the/) [painting](/zh/post/painting/) [correspond](/zh/post/correspond/) [to](/zh/post/to/) [the](/zh/post/the/) [natural](/zh/post/natural/) [scenery](/zh/post/scenery/)."
+  2. 通信：与…通信。例如: "[They](/zh/post/they/) [correspond](/zh/post/correspond/) [regularly](/zh/post/regularly/) [through](/zh/post/through/) letters [and](/zh/post/and/) emails."
+  3. 对应：在某种关系中与…相对应。例如: "[The](/zh/post/the/) keys [on](/zh/post/on/) [the](/zh/post/the/) [keyboard](/zh/post/keyboard/) [correspond](/zh/post/correspond/) [to](/zh/post/to/) [the](/zh/post/the/) letters [on](/zh/post/on/) [the](/zh/post/the/) [screen](/zh/post/screen/)."
 
 ## 短语
-- "[correspond](/post/correspond/) [with](/post/with/) [someone](/post/someone/)" 意味着与某人通信或交流。
-- "[correspond](/post/correspond/) [to](/post/to/) [something](/post/something/)" 表示与某事物相匹配或符合。
+- "[correspond](/zh/post/correspond/) [with](/zh/post/with/) [someone](/zh/post/someone/)" 意味着与某人通信或交流。
+- "[correspond](/zh/post/correspond/) [to](/zh/post/to/) [something](/zh/post/something/)" 表示与某事物相匹配或符合。
 
 ## 例句
-- 动词（相符）: "[The](/post/the/) accounts [must](/post/must/) [correspond](/post/correspond/) [with](/post/with/) [the](/post/the/) [financial](/post/financial/) statements."
-- 动词（通信）: "[She](/post/she/) corresponds [with](/post/with/) [her](/post/her/) [pen](/post/pen/) pal [in](/post/in/) France."
-- 动词（对应）: "[The](/post/the/) buttons [on](/post/on/) [the](/post/the/) [remote](/post/remote/) [control](/post/control/) [correspond](/post/correspond/) [to](/post/to/) [the](/post/the/) functions [on](/post/on/) [the](/post/the/) TV."
+- 动词（相符）: "[The](/zh/post/the/) accounts [must](/zh/post/must/) [correspond](/zh/post/correspond/) [with](/zh/post/with/) [the](/zh/post/the/) [financial](/zh/post/financial/) statements."
+- 动词（通信）: "[She](/zh/post/she/) corresponds [with](/zh/post/with/) [her](/zh/post/her/) [pen](/zh/post/pen/) pal [in](/zh/post/in/) France."
+- 动词（对应）: "[The](/zh/post/the/) buttons [on](/zh/post/on/) [the](/zh/post/the/) [remote](/zh/post/remote/) [control](/zh/post/control/) [correspond](/zh/post/correspond/) [to](/zh/post/to/) [the](/zh/post/the/) functions [on](/zh/post/on/) [the](/zh/post/the/) TV."
 
 ## 同义词
-- [agree](/post/agree/) [with](/post/with/)
-- [match](/post/match/)
-- [parallel](/post/parallel/)
-- [relate](/post/relate/) [to](/post/to/)
-- [communicate](/post/communicate/) [with](/post/with/)
+- [agree](/zh/post/agree/) [with](/zh/post/with/)
+- [match](/zh/post/match/)
+- [parallel](/zh/post/parallel/)
+- [relate](/zh/post/relate/) [to](/zh/post/to/)
+- [communicate](/zh/post/communicate/) [with](/zh/post/with/)

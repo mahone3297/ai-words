@@ -7,34 +7,34 @@ description = '[fiə] n.害怕；担心 vt.害怕'
 keywords = ['ai words', 'fear']
 +++
 
-## [Word](/en/post/word/): [Fear](/en/post/fear/)
+## [Word](/post/word/): [Fear](/post/fear/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɪr/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [unpleasant](/en/post/unpleasant/) [emotion](/en/post/emotion/) caused [by](/en/post/by/) [the](/en/post/the/) [threat](/en/post/threat/) [of](/en/post/of/) [danger](/en/post/danger/), [pain](/en/post/pain/), [or](/en/post/or/) [harm](/en/post/harm/); [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [anxiety](/en/post/anxiety/) [or](/en/post/or/) apprehension. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [fear](/en/post/fear/) [of](/en/post/of/) heights kept [him](/en/post/him/) [from](/en/post/from/) going [on](/en/post/on/) [the](/en/post/the/) Ferris [wheel](/en/post/wheel/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [afraid](/en/post/afraid/) [of](/en/post/of/) ([something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/)); [to](/en/post/to/) [feel](/en/post/feel/) [fear](/en/post/fear/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) feared walking [alone](/en/post/alone/) [at](/en/post/at/) [night](/en/post/night/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [fear](/en/post/fear/) [or](/en/post/or/) causing [fear](/en/post/fear/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) fear-stricken [expression](/en/post/expression/) [on](/en/post/on/) [his](/en/post/his/) [face](/en/post/face/) told [us](/en/post/us/) [he](/en/post/he/) was terrified."
+- **[Noun](/post/noun/)**: An [unpleasant](/post/unpleasant/) [emotion](/post/emotion/) caused [by](/post/by/) [the](/post/the/) [threat](/post/threat/) [of](/post/of/) [danger](/post/danger/), [pain](/post/pain/), [or](/post/or/) [harm](/post/harm/); [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [anxiety](/post/anxiety/) [or](/post/or/) apprehension. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [fear](/post/fear/) [of](/post/of/) heights kept [him](/post/him/) [from](/post/from/) going [on](/post/on/) [the](/post/the/) Ferris [wheel](/post/wheel/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) [afraid](/post/afraid/) [of](/post/of/) ([something](/post/something/) [or](/post/or/) [someone](/post/someone/)); [to](/post/to/) [feel](/post/feel/) [fear](/post/fear/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) feared walking [alone](/post/alone/) [at](/post/at/) [night](/post/night/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [fear](/post/fear/) [or](/post/or/) causing [fear](/post/fear/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) fear-stricken [expression](/post/expression/) [on](/post/on/) [his](/post/his/) [face](/post/face/) told [us](/post/us/) [he](/post/he/) was terrified."
 
 ## Phrases
-- "[Fear](/en/post/fear/) [of](/en/post/of/) [the](/en/post/the/) [unknown](/en/post/unknown/)" refers [to](/en/post/to/) [the](/en/post/the/) [fear](/en/post/fear/) [that](/en/post/that/) arises [from](/en/post/from/) [not](/en/post/not/) knowing [what](/en/post/what/) [might](/en/post/might/) [happen](/en/post/happen/) [or](/en/post/or/) [what](/en/post/what/) [one](/en/post/one/) [might](/en/post/might/) [encounter](/en/post/encounter/).
-- "[Face](/en/post/face/) [your](/en/post/your/) fears" [means](/en/post/means/) [to](/en/post/to/) confront [and](/en/post/and/) [overcome](/en/post/overcome/) things [that](/en/post/that/) [one](/en/post/one/) is [afraid](/en/post/afraid/) [of](/en/post/of/).
-- "[No](/en/post/no/) [fear](/en/post/fear/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [expression](/en/post/expression/) [to](/en/post/to/) denote bravery [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [fear](/en/post/fear/).
+- "[Fear](/post/fear/) [of](/post/of/) [the](/post/the/) [unknown](/post/unknown/)" refers [to](/post/to/) [the](/post/the/) [fear](/post/fear/) [that](/post/that/) arises [from](/post/from/) [not](/post/not/) knowing [what](/post/what/) [might](/post/might/) [happen](/post/happen/) [or](/post/or/) [what](/post/what/) [one](/post/one/) [might](/post/might/) [encounter](/post/encounter/).
+- "[Face](/post/face/) [your](/post/your/) fears" [means](/post/means/) [to](/post/to/) confront [and](/post/and/) [overcome](/post/overcome/) things [that](/post/that/) [one](/post/one/) is [afraid](/post/afraid/) [of](/post/of/).
+- "[No](/post/no/) [fear](/post/fear/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [expression](/post/expression/) [to](/post/to/) denote bravery [or](/post/or/) [lack](/post/lack/) [of](/post/of/) [fear](/post/fear/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [fear](/en/post/fear/) [of](/en/post/of/) spiders made [him](/en/post/him/) [reluctant](/en/post/reluctant/) [to](/en/post/to/) [enter](/en/post/enter/) [the](/en/post/the/) attic."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) feared [the](/en/post/the/) [dark](/en/post/dark/) corners [of](/en/post/of/) [the](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/)."
-- **[Adjective](/en/post/adjective/)**: "[That](/en/post/that/) fear-inspiring [movie](/en/post/movie/) kept [the](/en/post/the/) [audience](/en/post/audience/) [on](/en/post/on/) [the](/en/post/the/) [edge](/en/post/edge/) [of](/en/post/of/) [their](/en/post/their/) seats."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [fear](/post/fear/) [of](/post/of/) spiders made [him](/post/him/) [reluctant](/post/reluctant/) [to](/post/to/) [enter](/post/enter/) [the](/post/the/) attic."
+- **[Verb](/post/verb/)**: "[She](/post/she/) feared [the](/post/the/) [dark](/post/dark/) corners [of](/post/of/) [the](/post/the/) [old](/post/old/) [house](/post/house/)."
+- **[Adjective](/post/adjective/)**: "[That](/post/that/) fear-inspiring [movie](/post/movie/) kept [the](/post/the/) [audience](/post/audience/) [on](/post/on/) [the](/post/the/) [edge](/post/edge/) [of](/post/of/) [their](/post/their/) seats."
 
 ## Synonyms
-- [Dread](/en/post/dread/)
-- [Terror](/en/post/terror/)
-- [Anxiety](/en/post/anxiety/)
+- [Dread](/post/dread/)
+- [Terror](/post/terror/)
+- [Anxiety](/post/anxiety/)
 - Apprehension
 - Panic
-- [Worry](/en/post/worry/)
-- [Concern](/en/post/concern/)
+- [Worry](/post/worry/)
+- [Concern](/post/concern/)
 - Fright
-- [Horror](/en/post/horror/)
-- Phobia ([for](/en/post/for/) [specific](/en/post/specific/) fears)
+- [Horror](/post/horror/)
+- Phobia ([for](/post/for/) [specific](/post/specific/) fears)

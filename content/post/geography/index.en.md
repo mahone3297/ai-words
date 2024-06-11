@@ -7,29 +7,29 @@ description = '[dʒiˈɔgrəfi] n.地理，地理学'
 keywords = ['ai words', 'geography']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌdʒiːəˈɡræfɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [study](/en/post/study/) [of](/en/post/of/) [the](/en/post/the/) [physical](/en/post/physical/) features [of](/en/post/of/) [the](/en/post/the/) earth's [surface](/en/post/surface/), [its](/en/post/its/) inhabitants, [and](/en/post/and/) [the](/en/post/the/) phenomena [that](/en/post/that/) [occur](/en/post/occur/) [there](/en/post/there/), [especially](/en/post/especially/) [with](/en/post/with/) [reference](/en/post/reference/) [to](/en/post/to/) [human](/en/post/human/) activities [and](/en/post/and/) [their](/en/post/their/) [impact](/en/post/impact/) [on](/en/post/on/) [the](/en/post/the/) [environment](/en/post/environment/). [For](/en/post/for/) [example](/en/post/example/): "[Geography](/en/post/geography/) is [a](/en/post/a/) [key](/en/post/key/) [subject](/en/post/subject/) [in](/en/post/in/) [understanding](/en/post/understanding/) global [climate](/en/post/climate/) patterns."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [book](/en/post/book/) [or](/en/post/or/) [other](/en/post/other/) [resource](/en/post/resource/) dealing [with](/en/post/with/) [this](/en/post/this/) [subject](/en/post/subject/). [Example](/en/post/example/): "[Her](/en/post/her/) schoolbag was loaded [with](/en/post/with/) textbooks, including [her](/en/post/her/) [geography](/en/post/geography/) [textbook](/en/post/textbook/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [physical](/en/post/physical/) characteristics, topography, [or](/en/post/or/) [location](/en/post/location/) [of](/en/post/of/) [a](/en/post/a/) [place](/en/post/place/). [Example](/en/post/example/): "[The](/en/post/the/) [geography](/en/post/geography/) [of](/en/post/of/) [the](/en/post/the/) [region](/en/post/region/) includes [vast](/en/post/vast/) deserts [and](/en/post/and/) towering [mountain](/en/post/mountain/) ranges."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [study](/post/study/) [of](/post/of/) [the](/post/the/) [physical](/post/physical/) features [of](/post/of/) [the](/post/the/) earth's [surface](/post/surface/), [its](/post/its/) inhabitants, [and](/post/and/) [the](/post/the/) phenomena [that](/post/that/) [occur](/post/occur/) [there](/post/there/), [especially](/post/especially/) [with](/post/with/) [reference](/post/reference/) [to](/post/to/) [human](/post/human/) activities [and](/post/and/) [their](/post/their/) [impact](/post/impact/) [on](/post/on/) [the](/post/the/) [environment](/post/environment/). [For](/post/for/) [example](/post/example/): "[Geography](/post/geography/) is [a](/post/a/) [key](/post/key/) [subject](/post/subject/) [in](/post/in/) [understanding](/post/understanding/) global [climate](/post/climate/) patterns."
+- **[Noun](/post/noun/)**: [A](/post/a/) [book](/post/book/) [or](/post/or/) [other](/post/other/) [resource](/post/resource/) dealing [with](/post/with/) [this](/post/this/) [subject](/post/subject/). [Example](/post/example/): "[Her](/post/her/) schoolbag was loaded [with](/post/with/) textbooks, including [her](/post/her/) [geography](/post/geography/) [textbook](/post/textbook/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [physical](/post/physical/) characteristics, topography, [or](/post/or/) [location](/post/location/) [of](/post/of/) [a](/post/a/) [place](/post/place/). [Example](/post/example/): "[The](/post/the/) [geography](/post/geography/) [of](/post/of/) [the](/post/the/) [region](/post/region/) includes [vast](/post/vast/) deserts [and](/post/and/) towering [mountain](/post/mountain/) ranges."
 
 ## Phrases
-- "[Physical](/en/post/physical/) [geography](/en/post/geography/)" refers [to](/en/post/to/) [the](/en/post/the/) [study](/en/post/study/) [of](/en/post/of/) [natural](/en/post/natural/) features [of](/en/post/of/) [the](/en/post/the/) earth's [surface](/en/post/surface/), [such](/en/post/such/) [as](/en/post/as/) landforms, climates, [and](/en/post/and/) vegetation.
-- "[Human](/en/post/human/) [geography](/en/post/geography/)" focuses [on](/en/post/on/) [how](/en/post/how/) humans interact [with](/en/post/with/) [the](/en/post/the/) [environment](/en/post/environment/) [and](/en/post/and/) [the](/en/post/the/) spatial aspects [of](/en/post/of/) [human](/en/post/human/) [existence](/en/post/existence/).
-- "Geographical [knowledge](/en/post/knowledge/)" implies familiarity [with](/en/post/with/) places, regions, [and](/en/post/and/) [the](/en/post/the/) spatial relationships [between](/en/post/between/) [them](/en/post/them/).
+- "[Physical](/post/physical/) [geography](/post/geography/)" refers [to](/post/to/) [the](/post/the/) [study](/post/study/) [of](/post/of/) [natural](/post/natural/) features [of](/post/of/) [the](/post/the/) earth's [surface](/post/surface/), [such](/post/such/) [as](/post/as/) landforms, climates, [and](/post/and/) vegetation.
+- "[Human](/post/human/) [geography](/post/geography/)" focuses [on](/post/on/) [how](/post/how/) humans interact [with](/post/with/) [the](/post/the/) [environment](/post/environment/) [and](/post/and/) [the](/post/the/) spatial aspects [of](/post/of/) [human](/post/human/) [existence](/post/existence/).
+- "Geographical [knowledge](/post/knowledge/)" implies familiarity [with](/post/with/) places, regions, [and](/post/and/) [the](/post/the/) spatial relationships [between](/post/between/) [them](/post/them/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [passion](/en/post/passion/) [for](/en/post/for/) [geography](/en/post/geography/) led [him](/en/post/him/) [to](/en/post/to/) [explore](/en/post/explore/) [different](/en/post/different/) continents [and](/en/post/and/) cultures."
-- "[The](/en/post/the/) professor's [lecture](/en/post/lecture/) delved [deep](/en/post/deep/) [into](/en/post/into/) [the](/en/post/the/) [complex](/en/post/complex/) [geography](/en/post/geography/) [of](/en/post/of/) [ancient](/en/post/ancient/) civilizations."
-- "[Understanding](/en/post/understanding/) [the](/en/post/the/) [geography](/en/post/geography/) [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/) [can](/en/post/can/) [greatly](/en/post/greatly/) [influence](/en/post/influence/) [its](/en/post/its/) [economic](/en/post/economic/) [development](/en/post/development/) strategies."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [passion](/post/passion/) [for](/post/for/) [geography](/post/geography/) led [him](/post/him/) [to](/post/to/) [explore](/post/explore/) [different](/post/different/) continents [and](/post/and/) cultures."
+- "[The](/post/the/) professor's [lecture](/post/lecture/) delved [deep](/post/deep/) [into](/post/into/) [the](/post/the/) [complex](/post/complex/) [geography](/post/geography/) [of](/post/of/) [ancient](/post/ancient/) civilizations."
+- "[Understanding](/post/understanding/) [the](/post/the/) [geography](/post/geography/) [of](/post/of/) [a](/post/a/) [country](/post/country/) [can](/post/can/) [greatly](/post/greatly/) [influence](/post/influence/) [its](/post/its/) [economic](/post/economic/) [development](/post/development/) strategies."
 
 ## Synonyms
 - Topography
 - Geology
 - Cartography
-- [Place](/en/post/place/) studies
-- [Earth](/en/post/earth/) [science](/en/post/science/)
-- Spatial [science](/en/post/science/)
-- [Territory](/en/post/territory/) [study](/en/post/study/)
+- [Place](/post/place/) studies
+- [Earth](/post/earth/) [science](/post/science/)
+- Spatial [science](/post/science/)
+- [Territory](/post/territory/) [study](/post/study/)

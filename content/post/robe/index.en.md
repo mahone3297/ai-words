@@ -7,33 +7,33 @@ description = '[rəub] n.长袍，长衣，浴衣'
 keywords = ['ai words', 'robe']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəʊb/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [long](/en/post/long/) [piece](/en/post/piece/) [of](/en/post/of/) [clothing](/en/post/clothing/), typically loose-fitting, [that](/en/post/that/) covers [the](/en/post/the/) [body](/en/post/body/) [from](/en/post/from/) [the](/en/post/the/) shoulders [to](/en/post/to/) [the](/en/post/the/) ankles, worn [especially](/en/post/especially/) [as](/en/post/as/) [formal](/en/post/formal/) [wear](/en/post/wear/) [or](/en/post/or/) [for](/en/post/for/) [special](/en/post/special/) occasions. 2. (colloquial) [A](/en/post/a/) dressing [gown](/en/post/gown/) [or](/en/post/or/) bathrobe.
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [dress](/en/post/dress/) [in](/en/post/in/) [a](/en/post/a/) [robe](/en/post/robe/), [especially](/en/post/especially/) [for](/en/post/for/) [a](/en/post/a/) [religious](/en/post/religious/) [ceremony](/en/post/ceremony/) [or](/en/post/or/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) theatrical [role](/en/post/role/).
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [robe](/en/post/robe/), [such](/en/post/such/) [as](/en/post/as/) flowing [or](/en/post/or/) ceremonial.
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [long](/post/long/) [piece](/post/piece/) [of](/post/of/) [clothing](/post/clothing/), typically loose-fitting, [that](/post/that/) covers [the](/post/the/) [body](/post/body/) [from](/post/from/) [the](/post/the/) shoulders [to](/post/to/) [the](/post/the/) ankles, worn [especially](/post/especially/) [as](/post/as/) [formal](/post/formal/) [wear](/post/wear/) [or](/post/or/) [for](/post/for/) [special](/post/special/) occasions. 2. (colloquial) [A](/post/a/) dressing [gown](/post/gown/) [or](/post/or/) bathrobe.
+- **[Verb](/post/verb/)**: [To](/post/to/) [dress](/post/dress/) [in](/post/in/) [a](/post/a/) [robe](/post/robe/), [especially](/post/especially/) [for](/post/for/) [a](/post/a/) [religious](/post/religious/) [ceremony](/post/ceremony/) [or](/post/or/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) theatrical [role](/post/role/).
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [robe](/post/robe/), [such](/post/such/) [as](/post/as/) flowing [or](/post/or/) ceremonial.
 
 ## Phrases
-- "[Dress](/en/post/dress/) [in](/en/post/in/) [a](/en/post/a/) [robe](/en/post/robe/)" [or](/en/post/or/) "[put](/en/post/put/) [on](/en/post/on/) [a](/en/post/a/) [robe](/en/post/robe/)"
-- "[A](/en/post/a/) [white](/en/post/white/) [linen](/en/post/linen/) [robe](/en/post/robe/)" (referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [type](/en/post/type/))
-- "[robe](/en/post/robe/) [oneself](/en/post/oneself/) [with](/en/post/with/) [authority](/en/post/authority/)" (figurative [use](/en/post/use/))
+- "[Dress](/post/dress/) [in](/post/in/) [a](/post/a/) [robe](/post/robe/)" [or](/post/or/) "[put](/post/put/) [on](/post/on/) [a](/post/a/) [robe](/post/robe/)"
+- "[A](/post/a/) [white](/post/white/) [linen](/post/linen/) [robe](/post/robe/)" (referring [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [type](/post/type/))
+- "[robe](/post/robe/) [oneself](/post/oneself/) [with](/post/with/) [authority](/post/authority/)" (figurative [use](/post/use/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) wore [a](/en/post/a/) [beautiful](/en/post/beautiful/) [silk](/en/post/silk/) [robe](/en/post/robe/) [to](/en/post/to/) [the](/en/post/the/) gala."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [priest](/en/post/priest/) donned [his](/en/post/his/) vestments [and](/en/post/and/) [robe](/en/post/robe/) [before](/en/post/before/) [the](/en/post/the/) [service](/en/post/service/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) altar [boy](/en/post/boy/) looked dignified [in](/en/post/in/) [his](/en/post/his/) ecclesiastical [robe](/en/post/robe/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) wore [a](/post/a/) [beautiful](/post/beautiful/) [silk](/post/silk/) [robe](/post/robe/) [to](/post/to/) [the](/post/the/) gala."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [priest](/post/priest/) donned [his](/post/his/) vestments [and](/post/and/) [robe](/post/robe/) [before](/post/before/) [the](/post/the/) [service](/post/service/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) altar [boy](/post/boy/) looked dignified [in](/post/in/) [his](/post/his/) ecclesiastical [robe](/post/robe/)."
 
 ## Synonyms
 - Robe-like
-- [Gown](/en/post/gown/)
+- [Gown](/post/gown/)
 - Robe-shaped
 - Liturgical attire
 - Robe-style
 
 ## Related Words
-- Robelet ([a](/en/post/a/) shorter, simpler [version](/en/post/version/) [of](/en/post/of/) [a](/en/post/a/) [robe](/en/post/robe/))
-- Tippet ([a](/en/post/a/) [short](/en/post/short/), pointed [robe](/en/post/robe/) [or](/en/post/or/) cape worn [over](/en/post/over/) [a](/en/post/a/) surplice)
-- [Habit](/en/post/habit/) ([a](/en/post/a/) [specific](/en/post/specific/) [type](/en/post/type/) [of](/en/post/of/) [robe](/en/post/robe/) worn [by](/en/post/by/) [religious](/en/post/religious/) orders)
-- [Robe](/en/post/robe/) [of](/en/post/of/) [office](/en/post/office/) ([a](/en/post/a/) ceremonial garment indicating [a](/en/post/a/) person's [position](/en/post/position/) [of](/en/post/of/) [authority](/en/post/authority/))
+- Robelet ([a](/post/a/) shorter, simpler [version](/post/version/) [of](/post/of/) [a](/post/a/) [robe](/post/robe/))
+- Tippet ([a](/post/a/) [short](/post/short/), pointed [robe](/post/robe/) [or](/post/or/) cape worn [over](/post/over/) [a](/post/a/) surplice)
+- [Habit](/post/habit/) ([a](/post/a/) [specific](/post/specific/) [type](/post/type/) [of](/post/of/) [robe](/post/robe/) worn [by](/post/by/) [religious](/post/religious/) orders)
+- [Robe](/post/robe/) [of](/post/of/) [office](/post/office/) ([a](/post/a/) ceremonial garment indicating [a](/post/a/) person's [position](/post/position/) [of](/post/of/) [authority](/post/authority/))

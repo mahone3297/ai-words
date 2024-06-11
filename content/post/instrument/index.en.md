@@ -7,33 +7,33 @@ description = '[ˈinstrumənt] n.仪器;工具；乐器'
 keywords = ['ai words', 'instrument']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪn.strə.mənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [tool](/en/post/tool/), [device](/en/post/device/), [or](/en/post/or/) [piece](/en/post/piece/) [of](/en/post/of/) [equipment](/en/post/equipment/) designed [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/), [especially](/en/post/especially/) [one](/en/post/one/) [used](/en/post/used/) [in](/en/post/in/) [scientific](/en/post/scientific/) [research](/en/post/research/), [music](/en/post/music/), [or](/en/post/or/) [surgery](/en/post/surgery/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [musician](/en/post/musician/) played [her](/en/post/her/) favorite [instrument](/en/post/instrument/), [the](/en/post/the/) [violin](/en/post/violin/)."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [means](/en/post/means/) [by](/en/post/by/) [which](/en/post/which/) [something](/en/post/something/) is achieved, done, [or](/en/post/or/) expressed; [a](/en/post/a/) [method](/en/post/method/) [or](/en/post/or/) [agency](/en/post/agency/). [For](/en/post/for/) [instance](/en/post/instance/): "[Education](/en/post/education/) is an [instrument](/en/post/instrument/) [for](/en/post/for/) [social](/en/post/social/) [change](/en/post/change/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [equip](/en/post/equip/) [or](/en/post/or/) [supply](/en/post/supply/) [with](/en/post/with/) instruments [or](/en/post/or/) tools. [Example](/en/post/example/): "[The](/en/post/the/) [laboratory](/en/post/laboratory/) was well-instrumented [for](/en/post/for/) [advanced](/en/post/advanced/) experiments."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [use](/en/post/use/) [something](/en/post/something/) [as](/en/post/as/) [a](/en/post/a/) [means](/en/post/means/) [to](/en/post/to/) [achieve](/en/post/achieve/) an [end](/en/post/end/). [Example](/en/post/example/): "[She](/en/post/she/) instrumented [her](/en/post/her/) [plan](/en/post/plan/) effectively [to](/en/post/to/) [secure](/en/post/secure/) [the](/en/post/the/) promotion."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [tool](/post/tool/), [device](/post/device/), [or](/post/or/) [piece](/post/piece/) [of](/post/of/) [equipment](/post/equipment/) designed [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/), [especially](/post/especially/) [one](/post/one/) [used](/post/used/) [in](/post/in/) [scientific](/post/scientific/) [research](/post/research/), [music](/post/music/), [or](/post/or/) [surgery](/post/surgery/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [musician](/post/musician/) played [her](/post/her/) favorite [instrument](/post/instrument/), [the](/post/the/) [violin](/post/violin/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [means](/post/means/) [by](/post/by/) [which](/post/which/) [something](/post/something/) is achieved, done, [or](/post/or/) expressed; [a](/post/a/) [method](/post/method/) [or](/post/or/) [agency](/post/agency/). [For](/post/for/) [instance](/post/instance/): "[Education](/post/education/) is an [instrument](/post/instrument/) [for](/post/for/) [social](/post/social/) [change](/post/change/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [equip](/post/equip/) [or](/post/or/) [supply](/post/supply/) [with](/post/with/) instruments [or](/post/or/) tools. [Example](/post/example/): "[The](/post/the/) [laboratory](/post/laboratory/) was well-instrumented [for](/post/for/) [advanced](/post/advanced/) experiments."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [use](/post/use/) [something](/post/something/) [as](/post/as/) [a](/post/a/) [means](/post/means/) [to](/post/to/) [achieve](/post/achieve/) an [end](/post/end/). [Example](/post/example/): "[She](/post/she/) instrumented [her](/post/her/) [plan](/post/plan/) effectively [to](/post/to/) [secure](/post/secure/) [the](/post/the/) promotion."
 
 ## Phrases
-- "[Musical](/en/post/musical/) [instrument](/en/post/instrument/)": An [object](/en/post/object/) [used](/en/post/used/) [to](/en/post/to/) [create](/en/post/create/) [musical](/en/post/musical/) sounds, e.g., [piano](/en/post/piano/), guitar.
-- "[Instrument](/en/post/instrument/) [of](/en/post/of/) [torture](/en/post/torture/)": [A](/en/post/a/) [device](/en/post/device/) historically [used](/en/post/used/) [to](/en/post/to/) inflict [pain](/en/post/pain/) [or](/en/post/or/) [punishment](/en/post/punishment/).
-- "Instrumental [in](/en/post/in/)": Playing [a](/en/post/a/) crucial [role](/en/post/role/) [in](/en/post/in/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [event](/en/post/event/). E.g., "[His](/en/post/his/) [research](/en/post/research/) was instrumental [in](/en/post/in/) [the](/en/post/the/) [discovery](/en/post/discovery/) [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) [chemical](/en/post/chemical/) [compound](/en/post/compound/)."
+- "[Musical](/post/musical/) [instrument](/post/instrument/)": An [object](/post/object/) [used](/post/used/) [to](/post/to/) [create](/post/create/) [musical](/post/musical/) sounds, e.g., [piano](/post/piano/), guitar.
+- "[Instrument](/post/instrument/) [of](/post/of/) [torture](/post/torture/)": [A](/post/a/) [device](/post/device/) historically [used](/post/used/) [to](/post/to/) inflict [pain](/post/pain/) [or](/post/or/) [punishment](/post/punishment/).
+- "Instrumental [in](/post/in/)": Playing [a](/post/a/) crucial [role](/post/role/) [in](/post/in/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [event](/post/event/). E.g., "[His](/post/his/) [research](/post/research/) was instrumental [in](/post/in/) [the](/post/the/) [discovery](/post/discovery/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [chemical](/post/chemical/) [compound](/post/compound/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([tool](/en/post/tool/)/[device](/en/post/device/))**: "[The](/en/post/the/) [doctor](/en/post/doctor/) picked [up](/en/post/up/) [the](/en/post/the/) surgical [instrument](/en/post/instrument/) [and](/en/post/and/) began [the](/en/post/the/) [operation](/en/post/operation/)."
-- **[Noun](/en/post/noun/) ([method](/en/post/method/)/[agency](/en/post/agency/))**: "Legislation [can](/en/post/can/) [be](/en/post/be/) an [effective](/en/post/effective/) [instrument](/en/post/instrument/) [in](/en/post/in/) reducing [poverty](/en/post/poverty/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) [have](/en/post/have/) instrumented [the](/en/post/the/) [spacecraft](/en/post/spacecraft/) [with](/en/post/with/) [several](/en/post/several/) high-tech sensors [for](/en/post/for/) [deep](/en/post/deep/) [space](/en/post/space/) exploration."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([tool](/post/tool/)/[device](/post/device/))**: "[The](/post/the/) [doctor](/post/doctor/) picked [up](/post/up/) [the](/post/the/) surgical [instrument](/post/instrument/) [and](/post/and/) began [the](/post/the/) [operation](/post/operation/)."
+- **[Noun](/post/noun/) ([method](/post/method/)/[agency](/post/agency/))**: "Legislation [can](/post/can/) [be](/post/be/) an [effective](/post/effective/) [instrument](/post/instrument/) [in](/post/in/) reducing [poverty](/post/poverty/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) [have](/post/have/) instrumented [the](/post/the/) [spacecraft](/post/spacecraft/) [with](/post/with/) [several](/post/several/) high-tech sensors [for](/post/for/) [deep](/post/deep/) [space](/post/space/) exploration."
 
 ## Synonyms
-- [Tool](/en/post/tool/)
-- [Device](/en/post/device/)
-- [Equipment](/en/post/equipment/)
+- [Tool](/post/tool/)
+- [Device](/post/device/)
+- [Equipment](/post/equipment/)
 - Utensil
-- [Apparatus](/en/post/apparatus/)
-- [Means](/en/post/means/)
-- [Medium](/en/post/medium/)
-- [Agency](/en/post/agency/)
-- Implement ([noun](/en/post/noun/))
-- [Equip](/en/post/equip/) ([verb](/en/post/verb/))
+- [Apparatus](/post/apparatus/)
+- [Means](/post/means/)
+- [Medium](/post/medium/)
+- [Agency](/post/agency/)
+- Implement ([noun](/post/noun/))
+- [Equip](/post/equip/) ([verb](/post/verb/))

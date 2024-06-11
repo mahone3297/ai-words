@@ -7,41 +7,41 @@ description = '[bəːd] n.鸟，禽'
 keywords = ['ai words', 'bird']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɜːrd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [bird](/en/post/bird/) is [a](/en/post/a/) warm-blooded, feathered vertebrate [with](/en/post/with/) wings [that](/en/post/that/) are typically [able](/en/post/able/) [to](/en/post/to/) [fly](/en/post/fly/), belonging [to](/en/post/to/) [the](/en/post/the/) [class](/en/post/class/) Aves. [They](/en/post/they/) are known [for](/en/post/for/) [their](/en/post/their/) [diverse](/en/post/diverse/) sizes, colors, [and](/en/post/and/) behaviors, [and](/en/post/and/) [they](/en/post/they/) [inhabit](/en/post/inhabit/) [various](/en/post/various/) ecosystems [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/).
+### [Noun](/post/noun/)
+[A](/post/a/) [bird](/post/bird/) is [a](/post/a/) warm-blooded, feathered vertebrate [with](/post/with/) wings [that](/post/that/) are typically [able](/post/able/) [to](/post/to/) [fly](/post/fly/), belonging [to](/post/to/) [the](/post/the/) [class](/post/class/) Aves. [They](/post/they/) are known [for](/post/for/) [their](/post/their/) [diverse](/post/diverse/) sizes, colors, [and](/post/and/) behaviors, [and](/post/and/) [they](/post/they/) [inhabit](/post/inhabit/) [various](/post/various/) ecosystems [around](/post/around/) [the](/post/the/) [world](/post/world/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) birdwatch [or](/en/post/or/) [bird](/en/post/bird/) ([as](/en/post/as/) [a](/en/post/a/) [hobby](/en/post/hobby/)) refers [to](/en/post/to/) [the](/en/post/the/) [activity](/en/post/activity/) [of](/en/post/of/) observing birds [in](/en/post/in/) [their](/en/post/their/) [natural](/en/post/natural/) habitats. [To](/en/post/to/) birdcall [or](/en/post/or/) mimic [a](/en/post/a/) bird's [call](/en/post/call/) is [to](/en/post/to/) [imitate](/en/post/imitate/) [its](/en/post/its/) vocalizations.
+### [Verb](/post/verb/)
+[To](/post/to/) birdwatch [or](/post/or/) [bird](/post/bird/) ([as](/post/as/) [a](/post/a/) [hobby](/post/hobby/)) refers [to](/post/to/) [the](/post/the/) [activity](/post/activity/) [of](/post/of/) observing birds [in](/post/in/) [their](/post/their/) [natural](/post/natural/) habitats. [To](/post/to/) birdcall [or](/post/or/) mimic [a](/post/a/) bird's [call](/post/call/) is [to](/post/to/) [imitate](/post/imitate/) [its](/post/its/) vocalizations.
 
-### [Adjective](/en/post/adjective/)
-1. Avian: Relating [to](/en/post/to/) birds [or](/en/post/or/) [their](/en/post/their/) characteristics.
-2. Ornithological: [Concerning](/en/post/concerning/) birds, [their](/en/post/their/) [behavior](/en/post/behavior/), [or](/en/post/or/) [classification](/en/post/classification/).
-3. Bird-like: Resembling birds [in](/en/post/in/) [appearance](/en/post/appearance/) [or](/en/post/or/) [behavior](/en/post/behavior/).
+### [Adjective](/post/adjective/)
+1. Avian: Relating [to](/post/to/) birds [or](/post/or/) [their](/post/their/) characteristics.
+2. Ornithological: [Concerning](/post/concerning/) birds, [their](/post/their/) [behavior](/post/behavior/), [or](/post/or/) [classification](/post/classification/).
+3. Bird-like: Resembling birds [in](/post/in/) [appearance](/post/appearance/) [or](/post/or/) [behavior](/post/behavior/).
 
-### [Adverb](/en/post/adverb/)
-Birdsong: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [similar](/en/post/similar/) [to](/en/post/to/) [the](/en/post/the/) singing [of](/en/post/of/) birds.
+### [Adverb](/post/adverb/)
+Birdsong: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [similar](/post/similar/) [to](/post/to/) [the](/post/the/) singing [of](/post/of/) birds.
 
 ## Phrases
-- "Bird-watching" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) observing birds.
-- "[Bird](/en/post/bird/) migration" is [the](/en/post/the/) seasonal [movement](/en/post/movement/) [of](/en/post/of/) birds [from](/en/post/from/) [one](/en/post/one/) [region](/en/post/region/) [to](/en/post/to/) [another](/en/post/another/).
-- "Birdhouse" is [a](/en/post/a/) [small](/en/post/small/) [structure](/en/post/structure/) [for](/en/post/for/) birds [to](/en/post/to/) [nest](/en/post/nest/) [in](/en/post/in/).
-- "Bird's-eye [view](/en/post/view/)" refers [to](/en/post/to/) [a](/en/post/a/) [perspective](/en/post/perspective/) seen [from](/en/post/from/) [directly](/en/post/directly/) [above](/en/post/above/).
+- "Bird-watching" is [the](/post/the/) [act](/post/act/) [of](/post/of/) observing birds.
+- "[Bird](/post/bird/) migration" is [the](/post/the/) seasonal [movement](/post/movement/) [of](/post/of/) birds [from](/post/from/) [one](/post/one/) [region](/post/region/) [to](/post/to/) [another](/post/another/).
+- "Birdhouse" is [a](/post/a/) [small](/post/small/) [structure](/post/structure/) [for](/post/for/) birds [to](/post/to/) [nest](/post/nest/) [in](/post/in/).
+- "Bird's-eye [view](/post/view/)" refers [to](/post/to/) [a](/post/a/) [perspective](/post/perspective/) seen [from](/post/from/) [directly](/post/directly/) [above](/post/above/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sparrow](/en/post/sparrow/) perched [on](/en/post/on/) [a](/en/post/a/) [branch](/en/post/branch/), chirping [a](/en/post/a/) [beautiful](/en/post/beautiful/) birdsong."
-- **[Verb](/en/post/verb/)**: "[Last](/en/post/last/) [weekend](/en/post/weekend/), [we](/en/post/we/) went [on](/en/post/on/) [a](/en/post/a/) birdwatching [trip](/en/post/trip/) [to](/en/post/to/) [the](/en/post/the/) [nearby](/en/post/nearby/) [park](/en/post/park/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) avian [artist](/en/post/artist/) painted [a](/en/post/a/) stunning [portrait](/en/post/portrait/) [of](/en/post/of/) [a](/en/post/a/) [bird](/en/post/bird/) [in](/en/post/in/) [flight](/en/post/flight/)."
-- **[Adverb](/en/post/adverb/)**: "[From](/en/post/from/) [the](/en/post/the/) bird's-eye [view](/en/post/view/), [the](/en/post/the/) [city](/en/post/city/) skyline looked [impressive](/en/post/impressive/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sparrow](/post/sparrow/) perched [on](/post/on/) [a](/post/a/) [branch](/post/branch/), chirping [a](/post/a/) [beautiful](/post/beautiful/) birdsong."
+- **[Verb](/post/verb/)**: "[Last](/post/last/) [weekend](/post/weekend/), [we](/post/we/) went [on](/post/on/) [a](/post/a/) birdwatching [trip](/post/trip/) [to](/post/to/) [the](/post/the/) [nearby](/post/nearby/) [park](/post/park/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) avian [artist](/post/artist/) painted [a](/post/a/) stunning [portrait](/post/portrait/) [of](/post/of/) [a](/post/a/) [bird](/post/bird/) [in](/post/in/) [flight](/post/flight/)."
+- **[Adverb](/post/adverb/)**: "[From](/post/from/) [the](/post/the/) bird's-eye [view](/post/view/), [the](/post/the/) [city](/post/city/) skyline looked [impressive](/post/impressive/)."
 
 ## Synonyms
 - Fowl
 -禽类
-- Feathered [creature](/en/post/creature/)
-- Avian [being](/en/post/being/)
-- Winged [animal](/en/post/animal/)
+- Feathered [creature](/post/creature/)
+- Avian [being](/post/being/)
+- Winged [animal](/post/animal/)
 
-[Note](/en/post/note/): [The](/en/post/the/) Chinese [term](/en/post/term/) "禽类" is [provided](/en/post/provided/) [for](/en/post/for/) [reference](/en/post/reference/), [but](/en/post/but/) [it](/en/post/it/) [may](/en/post/may/) [not](/en/post/not/) [be](/en/post/be/) [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [all](/en/post/all/) contexts.
+[Note](/post/note/): [The](/post/the/) Chinese [term](/post/term/) "禽类" is [provided](/post/provided/) [for](/post/for/) [reference](/post/reference/), [but](/post/but/) [it](/post/it/) [may](/post/may/) [not](/post/not/) [be](/post/be/) [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [all](/post/all/) contexts.

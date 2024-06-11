@@ -11,20 +11,20 @@ keywords = ['ai words', 'meaning']
 /meɪnɪŋ/
 
 ## 释义
-- **名词**: 事物的含义，意图，重要性或价值。例如: "[The](/post/the/) [true](/post/true/) [meaning](/post/meaning/) [of](/post/of/) [life](/post/life/) is [a](/post/a/) philosophical [question](/post/question/)." 
-- **动词**: （使）具有意义，解释。例如: "[The](/post/the/) [poem](/post/poem/) [can](/post/can/) [be](/post/be/) meaningfully interpreted [in](/post/in/) [different](/post/different/) ways."
+- **名词**: 事物的含义，意图，重要性或价值。例如: "[The](/zh/post/the/) [true](/zh/post/true/) [meaning](/zh/post/meaning/) [of](/zh/post/of/) [life](/zh/post/life/) is [a](/zh/post/a/) philosophical [question](/zh/post/question/)." 
+- **动词**: （使）具有意义，解释。例如: "[The](/zh/post/the/) [poem](/zh/post/poem/) [can](/zh/post/can/) [be](/zh/post/be/) meaningfully interpreted [in](/zh/post/in/) [different](/zh/post/different/) ways."
 
 ## 短语
-- "[To](/post/to/) [give](/post/give/) [meaning](/post/meaning/) [to](/post/to/) [something](/post/something/)" 意味着为某事赋予意义或解释。
-- "[Lose](/post/lose/) [its](/post/its/) [meaning](/post/meaning/)" 指某事物失去原有的意义或变得无足轻重。
+- "[To](/zh/post/to/) [give](/zh/post/give/) [meaning](/zh/post/meaning/) [to](/zh/post/to/) [something](/zh/post/something/)" 意味着为某事赋予意义或解释。
+- "[Lose](/zh/post/lose/) [its](/zh/post/its/) [meaning](/zh/post/meaning/)" 指某事物失去原有的意义或变得无足轻重。
 
 ## 例句
-- 名词: "[The](/post/the/) artist's [work](/post/work/) explores [the](/post/the/) deeper meanings [behind](/post/behind/) [everyday](/post/everyday/) objects."
-- 动词: "[The](/post/the/) [teacher](/post/teacher/) asked [us](/post/us/) [to](/post/to/) [meaning](/post/meaning/) [the](/post/the/) [text](/post/text/) [beyond](/post/beyond/) [its](/post/its/) literal [interpretation](/post/interpretation/)."
+- 名词: "[The](/zh/post/the/) artist's [work](/zh/post/work/) explores [the](/zh/post/the/) deeper meanings [behind](/zh/post/behind/) [everyday](/zh/post/everyday/) objects."
+- 动词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) asked [us](/zh/post/us/) [to](/zh/post/to/) [meaning](/zh/post/meaning/) [the](/zh/post/the/) [text](/zh/post/text/) [beyond](/zh/post/beyond/) [its](/zh/post/its/) literal [interpretation](/zh/post/interpretation/)."
 
 ## 同义词
-- [Significance](/post/significance/)
-- [Interpretation](/post/interpretation/)
+- [Significance](/zh/post/significance/)
+- [Interpretation](/zh/post/interpretation/)
 - Connotation
-- [Sense](/post/sense/)
+- [Sense](/zh/post/sense/)
 - Purport

@@ -7,29 +7,29 @@ description = '[ˈhelpful] a.给予帮助的；有用的'
 keywords = ['ai words', 'helpful']
 +++
 
-## [Word](/en/post/word/): [Helpful](/en/post/helpful/)
+## [Word](/post/word/): [Helpful](/post/helpful/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhelpfl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Providing assistance [or](/en/post/or/) [useful](/en/post/useful/) [information](/en/post/information/); [ready](/en/post/ready/) [or](/en/post/or/) [willing](/en/post/willing/) [to](/en/post/to/) [help](/en/post/help/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [very](/en/post/very/) [helpful](/en/post/helpful/) [in](/en/post/in/) guiding [us](/en/post/us/) [through](/en/post/through/) [the](/en/post/the/) [process](/en/post/process/)."
+- **[Adjective](/post/adjective/)**: Providing assistance [or](/post/or/) [useful](/post/useful/) [information](/post/information/); [ready](/post/ready/) [or](/post/or/) [willing](/post/willing/) [to](/post/to/) [help](/post/help/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [very](/post/very/) [helpful](/post/helpful/) [in](/post/in/) guiding [us](/post/us/) [through](/post/through/) [the](/post/the/) [process](/post/process/)."
 
-### [Example](/en/post/example/) Sentences
-- *[Adjective](/en/post/adjective/)*: "[The](/en/post/the/) [customer](/en/post/customer/) [service](/en/post/service/) [representative](/en/post/representative/) was [extremely](/en/post/extremely/) [helpful](/en/post/helpful/) [when](/en/post/when/) I had [trouble](/en/post/trouble/) [with](/en/post/with/) [my](/en/post/my/) [order](/en/post/order/)."
-- "[The](/en/post/the/) [new](/en/post/new/) software turned [out](/en/post/out/) [to](/en/post/to/) [be](/en/post/be/) [really](/en/post/really/) [helpful](/en/post/helpful/) [in](/en/post/in/) streamlining [our](/en/post/our/) workflow."
-- "[This](/en/post/this/) [book](/en/post/book/) is filled [with](/en/post/with/) [helpful](/en/post/helpful/) tips [for](/en/post/for/) gardening beginners."
+### [Example](/post/example/) Sentences
+- *[Adjective](/post/adjective/)*: "[The](/post/the/) [customer](/post/customer/) [service](/post/service/) [representative](/post/representative/) was [extremely](/post/extremely/) [helpful](/post/helpful/) [when](/post/when/) I had [trouble](/post/trouble/) [with](/post/with/) [my](/post/my/) [order](/post/order/)."
+- "[The](/post/the/) [new](/post/new/) software turned [out](/post/out/) [to](/post/to/) [be](/post/be/) [really](/post/really/) [helpful](/post/helpful/) [in](/post/in/) streamlining [our](/post/our/) workflow."
+- "[This](/post/this/) [book](/post/book/) is filled [with](/post/with/) [helpful](/post/helpful/) tips [for](/post/for/) gardening beginners."
 
 ## Phrases
-- "[Be](/en/post/be/) [helpful](/en/post/helpful/)": [To](/en/post/to/) [act](/en/post/act/) [in](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) provides [aid](/en/post/aid/) [or](/en/post/or/) [support](/en/post/support/) [to](/en/post/to/) others.
-- "[Could](/en/post/could/) [you](/en/post/you/) [be](/en/post/be/) [more](/en/post/more/) [helpful](/en/post/helpful/)?": An [expression](/en/post/expression/) [used](/en/post/used/) [when](/en/post/when/) asking [someone](/en/post/someone/) [to](/en/post/to/) [offer](/en/post/offer/) [more](/en/post/more/) assistance [or](/en/post/or/) clarification.
-- "[A](/en/post/a/) [helpful](/en/post/helpful/) [hint](/en/post/hint/)": [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [advice](/en/post/advice/) [or](/en/post/or/) [guidance](/en/post/guidance/) [that](/en/post/that/) is [particularly](/en/post/particularly/) [useful](/en/post/useful/).
+- "[Be](/post/be/) [helpful](/post/helpful/)": [To](/post/to/) [act](/post/act/) [in](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) provides [aid](/post/aid/) [or](/post/or/) [support](/post/support/) [to](/post/to/) others.
+- "[Could](/post/could/) [you](/post/you/) [be](/post/be/) [more](/post/more/) [helpful](/post/helpful/)?": An [expression](/post/expression/) [used](/post/used/) [when](/post/when/) asking [someone](/post/someone/) [to](/post/to/) [offer](/post/offer/) [more](/post/more/) assistance [or](/post/or/) clarification.
+- "[A](/post/a/) [helpful](/post/helpful/) [hint](/post/hint/)": [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [advice](/post/advice/) [or](/post/or/) [guidance](/post/guidance/) [that](/post/that/) is [particularly](/post/particularly/) [useful](/post/useful/).
 
 ## Synonyms
 - Supportive
 - Assisting
-- [Beneficial](/en/post/beneficial/)
-- [Useful](/en/post/useful/)
+- [Beneficial](/post/beneficial/)
+- [Useful](/post/useful/)
 - Resourceful
 - Invaluable
 - Advantageous

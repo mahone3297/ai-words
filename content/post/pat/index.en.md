@@ -7,25 +7,25 @@ description = '[pæt] n.&vt.&n.轻拍'
 keywords = ['ai words', 'pat']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pæt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [lightly](/en/post/lightly/) touching [or](/en/post/or/) hitting [someone](/en/post/someone/) [with](/en/post/with/) [the](/en/post/the/) [hand](/en/post/hand/), [often](/en/post/often/) affectionately. 2. [A](/en/post/a/) [gentle](/en/post/gentle/) slap [or](/en/post/or/) [tap](/en/post/tap/). 3. [A](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [area](/en/post/area/) [where](/en/post/where/) [something](/en/post/something/) rests [or](/en/post/or/) is kept. 4. (informal) [A](/en/post/a/) [pet](/en/post/pet/) [name](/en/post/name/) [or](/en/post/or/) [term](/en/post/term/) [of](/en/post/of/) endearment. 
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [touch](/en/post/touch/) [someone](/en/post/someone/) [gently](/en/post/gently/) [or](/en/post/or/) [with](/en/post/with/) [a](/en/post/a/) [light](/en/post/light/) [blow](/en/post/blow/), [usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) [friendly](/en/post/friendly/) [manner](/en/post/manner/). 2. [To](/en/post/to/) [place](/en/post/place/) [or](/en/post/or/) [position](/en/post/position/) [something](/en/post/something/) carefully. 3. (slang) [To](/en/post/to/) [cheat](/en/post/cheat/) [or](/en/post/or/) [deceive](/en/post/deceive/), [often](/en/post/often/) [by](/en/post/by/) [a](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) [lightly](/post/lightly/) touching [or](/post/or/) hitting [someone](/post/someone/) [with](/post/with/) [the](/post/the/) [hand](/post/hand/), [often](/post/often/) affectionately. 2. [A](/post/a/) [gentle](/post/gentle/) slap [or](/post/or/) [tap](/post/tap/). 3. [A](/post/a/) [place](/post/place/) [or](/post/or/) [area](/post/area/) [where](/post/where/) [something](/post/something/) rests [or](/post/or/) is kept. 4. (informal) [A](/post/a/) [pet](/post/pet/) [name](/post/name/) [or](/post/or/) [term](/post/term/) [of](/post/of/) endearment. 
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [touch](/post/touch/) [someone](/post/someone/) [gently](/post/gently/) [or](/post/or/) [with](/post/with/) [a](/post/a/) [light](/post/light/) [blow](/post/blow/), [usually](/post/usually/) [in](/post/in/) [a](/post/a/) [friendly](/post/friendly/) [manner](/post/manner/). 2. [To](/post/to/) [place](/post/place/) [or](/post/or/) [position](/post/position/) [something](/post/something/) carefully. 3. (slang) [To](/post/to/) [cheat](/post/cheat/) [or](/post/or/) [deceive](/post/deceive/), [often](/post/often/) [by](/post/by/) [a](/post/a/) [small](/post/small/) [amount](/post/amount/).
 
 ## Phrases
-- "[Give](/en/post/give/) [someone](/en/post/someone/) [a](/en/post/a/) [pat](/en/post/pat/) [on](/en/post/on/) [the](/en/post/the/) [back](/en/post/back/)" [to](/en/post/to/) [show](/en/post/show/) encouragement [or](/en/post/or/) [support](/en/post/support/).
-- "[Pat](/en/post/pat/) [down](/en/post/down/) someone's pockets" [to](/en/post/to/) [check](/en/post/check/) [if](/en/post/if/) [they](/en/post/they/) [have](/en/post/have/) [any](/en/post/any/) items.
-- "[Pat](/en/post/pat/) [the](/en/post/the/) [dog](/en/post/dog/)" [as](/en/post/as/) [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [comfort](/en/post/comfort/) [or](/en/post/or/) interact [with](/en/post/with/) [a](/en/post/a/) [pet](/en/post/pet/).
+- "[Give](/post/give/) [someone](/post/someone/) [a](/post/a/) [pat](/post/pat/) [on](/post/on/) [the](/post/the/) [back](/post/back/)" [to](/post/to/) [show](/post/show/) encouragement [or](/post/or/) [support](/post/support/).
+- "[Pat](/post/pat/) [down](/post/down/) someone's pockets" [to](/post/to/) [check](/post/check/) [if](/post/if/) [they](/post/they/) [have](/post/have/) [any](/post/any/) items.
+- "[Pat](/post/pat/) [the](/post/the/) [dog](/post/dog/)" [as](/post/as/) [a](/post/a/) [way](/post/way/) [to](/post/to/) [comfort](/post/comfort/) [or](/post/or/) interact [with](/post/with/) [a](/post/a/) [pet](/post/pet/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [She](/en/post/she/) gave [her](/en/post/her/) [child](/en/post/child/) [a](/en/post/a/) [pat](/en/post/pat/) [on](/en/post/on/) [the](/en/post/the/) [head](/en/post/head/) [before](/en/post/before/) sending [them](/en/post/them/) [off](/en/post/off/) [to](/en/post/to/) [school](/en/post/school/). 
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) patted [the](/en/post/the/) [table](/en/post/table/) [to](/en/post/to/) [gather](/en/post/gather/) everyone's [attention](/en/post/attention/) [for](/en/post/for/) [the](/en/post/the/) [meal](/en/post/meal/).
-- **[Verb](/en/post/verb/) (slang)**: [She](/en/post/she/) tried [not](/en/post/not/) [to](/en/post/to/) [pat](/en/post/pat/) [him](/en/post/him/) [down](/en/post/down/) [too](/en/post/too/) [hard](/en/post/hard/), knowing [he](/en/post/he/) had [a](/en/post/a/) [few](/en/post/few/) tricks [up](/en/post/up/) [his](/en/post/his/) [sleeve](/en/post/sleeve/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [She](/post/she/) gave [her](/post/her/) [child](/post/child/) [a](/post/a/) [pat](/post/pat/) [on](/post/on/) [the](/post/the/) [head](/post/head/) [before](/post/before/) sending [them](/post/them/) [off](/post/off/) [to](/post/to/) [school](/post/school/). 
+- **[Verb](/post/verb/)**: [He](/post/he/) patted [the](/post/the/) [table](/post/table/) [to](/post/to/) [gather](/post/gather/) everyone's [attention](/post/attention/) [for](/post/for/) [the](/post/the/) [meal](/post/meal/).
+- **[Verb](/post/verb/) (slang)**: [She](/post/she/) tried [not](/post/not/) [to](/post/to/) [pat](/post/pat/) [him](/post/him/) [down](/post/down/) [too](/post/too/) [hard](/post/hard/), knowing [he](/post/he/) had [a](/post/a/) [few](/post/few/) tricks [up](/post/up/) [his](/post/his/) [sleeve](/post/sleeve/).
 
 ## Synonyms
-- [Tap](/en/post/tap/)
+- [Tap](/post/tap/)
 - Tickle
 - Smack
 - Bump
@@ -33,8 +33,8 @@ keywords = ['ai words', 'pat']
 - Caress
 
 ## Antonyms
-- [Squeeze](/en/post/squeeze/)
+- [Squeeze](/post/squeeze/)
 - Thrash
-- [Hit](/en/post/hit/)
-- [Shake](/en/post/shake/)
-- [Pound](/en/post/pound/) ([in](/en/post/in/) [a](/en/post/a/) [violent](/en/post/violent/) [sense](/en/post/sense/))
+- [Hit](/post/hit/)
+- [Shake](/post/shake/)
+- [Pound](/post/pound/) ([in](/post/in/) [a](/post/a/) [violent](/post/violent/) [sense](/post/sense/))

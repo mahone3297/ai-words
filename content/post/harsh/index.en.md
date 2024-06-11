@@ -7,34 +7,34 @@ description = '[hɑː∫] a.严厉的；刺耳的'
 keywords = ['ai words', 'harsh']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /hɑːʃ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) Having [a](/en/post/a/) [rough](/en/post/rough/), [severe](/en/post/severe/), [or](/en/post/or/) [unkind](/en/post/unkind/) [quality](/en/post/quality/); unpleasantly [sharp](/en/post/sharp/), [severe](/en/post/severe/), [or](/en/post/or/) austere. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [harsh](/en/post/harsh/) [desert](/en/post/desert/) [environment](/en/post/environment/) made survival [difficult](/en/post/difficult/)."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [criticize](/en/post/criticize/) [severely](/en/post/severely/) [or](/en/post/or/) unfairly. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [boss](/en/post/boss/) harshed [her](/en/post/her/) [mood](/en/post/mood/) [by](/en/post/by/) criticizing [her](/en/post/her/) [work](/en/post/work/) unnecessarily."
+- **[Adjective](/post/adjective/)**: (adj) Having [a](/post/a/) [rough](/post/rough/), [severe](/post/severe/), [or](/post/or/) [unkind](/post/unkind/) [quality](/post/quality/); unpleasantly [sharp](/post/sharp/), [severe](/post/severe/), [or](/post/or/) austere. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [harsh](/post/harsh/) [desert](/post/desert/) [environment](/post/environment/) made survival [difficult](/post/difficult/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [criticize](/post/criticize/) [severely](/post/severely/) [or](/post/or/) unfairly. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [boss](/post/boss/) harshed [her](/post/her/) [mood](/post/mood/) [by](/post/by/) criticizing [her](/post/her/) [work](/post/work/) unnecessarily."
 
 ## Phrases
-- "[Harsh](/en/post/harsh/) [reality](/en/post/reality/)": Refers [to](/en/post/to/) [a](/en/post/a/) [cruel](/en/post/cruel/), [difficult](/en/post/difficult/), [or](/en/post/or/) unwelcome [truth](/en/post/truth/). [Example](/en/post/example/): "[He](/en/post/he/) was faced [with](/en/post/with/) [the](/en/post/the/) [harsh](/en/post/harsh/) [reality](/en/post/reality/) [of](/en/post/of/) [his](/en/post/his/) [financial](/en/post/financial/) [situation](/en/post/situation/)."
-- "[Harsh](/en/post/harsh/) [on](/en/post/on/) [someone](/en/post/someone/)": [To](/en/post/to/) [be](/en/post/be/) overly [critical](/en/post/critical/) [or](/en/post/or/) [severe](/en/post/severe/) towards [someone](/en/post/someone/). [Example](/en/post/example/): "[The](/en/post/the/) [coach](/en/post/coach/) was [harsh](/en/post/harsh/) [on](/en/post/on/) [the](/en/post/the/) [new](/en/post/new/) [player](/en/post/player/) [during](/en/post/during/) [practice](/en/post/practice/)."
-- "[A](/en/post/a/) [harsh](/en/post/harsh/) [tone](/en/post/tone/)": Describes [a](/en/post/a/) [voice](/en/post/voice/) [or](/en/post/or/) [manner](/en/post/manner/) [that](/en/post/that/) is [severe](/en/post/severe/), grating, [or](/en/post/or/) [unpleasant](/en/post/unpleasant/). [Example](/en/post/example/): "[His](/en/post/his/) [harsh](/en/post/harsh/) [tone](/en/post/tone/) indicated [his](/en/post/his/) dissatisfaction."
+- "[Harsh](/post/harsh/) [reality](/post/reality/)": Refers [to](/post/to/) [a](/post/a/) [cruel](/post/cruel/), [difficult](/post/difficult/), [or](/post/or/) unwelcome [truth](/post/truth/). [Example](/post/example/): "[He](/post/he/) was faced [with](/post/with/) [the](/post/the/) [harsh](/post/harsh/) [reality](/post/reality/) [of](/post/of/) [his](/post/his/) [financial](/post/financial/) [situation](/post/situation/)."
+- "[Harsh](/post/harsh/) [on](/post/on/) [someone](/post/someone/)": [To](/post/to/) [be](/post/be/) overly [critical](/post/critical/) [or](/post/or/) [severe](/post/severe/) towards [someone](/post/someone/). [Example](/post/example/): "[The](/post/the/) [coach](/post/coach/) was [harsh](/post/harsh/) [on](/post/on/) [the](/post/the/) [new](/post/new/) [player](/post/player/) [during](/post/during/) [practice](/post/practice/)."
+- "[A](/post/a/) [harsh](/post/harsh/) [tone](/post/tone/)": Describes [a](/post/a/) [voice](/post/voice/) [or](/post/or/) [manner](/post/manner/) [that](/post/that/) is [severe](/post/severe/), grating, [or](/post/or/) [unpleasant](/post/unpleasant/). [Example](/post/example/): "[His](/post/his/) [harsh](/post/harsh/) [tone](/post/tone/) indicated [his](/post/his/) dissatisfaction."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [winter](/en/post/winter/) winds were [harsh](/en/post/harsh/) [and](/en/post/and/) biting, making [it](/en/post/it/) [hard](/en/post/hard/) [to](/en/post/to/) [venture](/en/post/venture/) [outside](/en/post/outside/)."
-- "[The](/en/post/the/) judge's [decision](/en/post/decision/) was [harsh](/en/post/harsh/) [but](/en/post/but/) [fair](/en/post/fair/) according [to](/en/post/to/) [the](/en/post/the/) [law](/en/post/law/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) harshed [our](/en/post/our/) moods [when](/en/post/when/) [she](/en/post/she/) announced [a](/en/post/a/) [pop](/en/post/pop/) [quiz](/en/post/quiz/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [winter](/post/winter/) winds were [harsh](/post/harsh/) [and](/post/and/) biting, making [it](/post/it/) [hard](/post/hard/) [to](/post/to/) [venture](/post/venture/) [outside](/post/outside/)."
+- "[The](/post/the/) judge's [decision](/post/decision/) was [harsh](/post/harsh/) [but](/post/but/) [fair](/post/fair/) according [to](/post/to/) [the](/post/the/) [law](/post/law/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) harshed [our](/post/our/) moods [when](/post/when/) [she](/post/she/) announced [a](/post/a/) [pop](/post/pop/) [quiz](/post/quiz/)."
 
 ## Synonyms
-- [Severe](/en/post/severe/)
+- [Severe](/post/severe/)
 - Unforgiving
 - Brutal
-- [Stern](/en/post/stern/)
+- [Stern](/post/stern/)
 - Gruff
-- [Cruel](/en/post/cruel/)
-- [Rude](/en/post/rude/)
-- Harshness ([noun](/en/post/noun/) [form](/en/post/form/))
+- [Cruel](/post/cruel/)
+- [Rude](/post/rude/)
+- Harshness ([noun](/post/noun/) [form](/post/form/))
 - Severity
-- [Rough](/en/post/rough/)
+- [Rough](/post/rough/)
 - Scathing
 - Acrid
 - Austere

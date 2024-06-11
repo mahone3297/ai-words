@@ -7,34 +7,34 @@ description = '[dei] n.(一)天，白昼，白天'
 keywords = ['ai words', 'day']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈeɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [time](/en/post/time/), typically measured [from](/en/post/from/) [midnight](/en/post/midnight/) [to](/en/post/to/) [midnight](/en/post/midnight/), [during](/en/post/during/) [which](/en/post/which/) [people](/en/post/people/) are [awake](/en/post/awake/) [and](/en/post/and/) [active](/en/post/active/). 2. [A](/en/post/a/) [calendar](/en/post/calendar/) [day](/en/post/day/), [as](/en/post/as/) distinguished [from](/en/post/from/) [a](/en/post/a/) [night](/en/post/night/). 3. [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) spent [at](/en/post/at/) [work](/en/post/work/) [or](/en/post/or/) [school](/en/post/school/). 4. [A](/en/post/a/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [week](/en/post/week/) (e.g., Monday, Tuesday). 5. [The](/en/post/the/) [general](/en/post/general/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [day](/en/post/day/), [often](/en/post/often/) characterized [by](/en/post/by/) [weather](/en/post/weather/) [or](/en/post/or/) events. 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [pass](/en/post/pass/) [through](/en/post/through/) [or](/en/post/or/) [occupy](/en/post/occupy/) [a](/en/post/a/) [day](/en/post/day/); [to](/en/post/to/) [experience](/en/post/experience/) [a](/en/post/a/) day's events. 6. [To](/en/post/to/) [mark](/en/post/mark/) [or](/en/post/or/) [celebrate](/en/post/celebrate/) [a](/en/post/a/) [specific](/en/post/specific/) [day](/en/post/day/) (e.g., birthdays, holidays).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [time](/post/time/), typically measured [from](/post/from/) [midnight](/post/midnight/) [to](/post/to/) [midnight](/post/midnight/), [during](/post/during/) [which](/post/which/) [people](/post/people/) are [awake](/post/awake/) [and](/post/and/) [active](/post/active/). 2. [A](/post/a/) [calendar](/post/calendar/) [day](/post/day/), [as](/post/as/) distinguished [from](/post/from/) [a](/post/a/) [night](/post/night/). 3. [A](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/) spent [at](/post/at/) [work](/post/work/) [or](/post/or/) [school](/post/school/). 4. [A](/post/a/) [day](/post/day/) [of](/post/of/) [the](/post/the/) [week](/post/week/) (e.g., Monday, Tuesday). 5. [The](/post/the/) [general](/post/general/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [day](/post/day/), [often](/post/often/) characterized [by](/post/by/) [weather](/post/weather/) [or](/post/or/) events. 
+- **[Verb](/post/verb/)**: [To](/post/to/) [pass](/post/pass/) [through](/post/through/) [or](/post/or/) [occupy](/post/occupy/) [a](/post/a/) [day](/post/day/); [to](/post/to/) [experience](/post/experience/) [a](/post/a/) day's events. 6. [To](/post/to/) [mark](/post/mark/) [or](/post/or/) [celebrate](/post/celebrate/) [a](/post/a/) [specific](/post/specific/) [day](/post/day/) (e.g., birthdays, holidays).
 
 ## Phrases
-- "[Start](/en/post/start/) [your](/en/post/your/) [day](/en/post/day/)" [means](/en/post/means/) [to](/en/post/to/) [begin](/en/post/begin/) [the](/en/post/the/) [morning](/en/post/morning/) [routine](/en/post/routine/).
-- "[End](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [day](/en/post/day/)" refers [to](/en/post/to/) [the](/en/post/the/) [conclusion](/en/post/conclusion/) [of](/en/post/of/) [work](/en/post/work/) [or](/en/post/or/) [daily](/en/post/daily/) activities.
-- "Waking [up](/en/post/up/) [on](/en/post/on/) [the](/en/post/the/) [wrong](/en/post/wrong/) [side](/en/post/side/) [of](/en/post/of/) [the](/en/post/the/) [bed](/en/post/bed/)" [means](/en/post/means/) having [a](/en/post/a/) [bad](/en/post/bad/) [start](/en/post/start/) [to](/en/post/to/) [the](/en/post/the/) [day](/en/post/day/).
+- "[Start](/post/start/) [your](/post/your/) [day](/post/day/)" [means](/post/means/) [to](/post/to/) [begin](/post/begin/) [the](/post/the/) [morning](/post/morning/) [routine](/post/routine/).
+- "[End](/post/end/) [of](/post/of/) [the](/post/the/) [day](/post/day/)" refers [to](/post/to/) [the](/post/the/) [conclusion](/post/conclusion/) [of](/post/of/) [work](/post/work/) [or](/post/or/) [daily](/post/daily/) activities.
+- "Waking [up](/post/up/) [on](/post/on/) [the](/post/the/) [wrong](/post/wrong/) [side](/post/side/) [of](/post/of/) [the](/post/the/) [bed](/post/bed/)" [means](/post/means/) having [a](/post/a/) [bad](/post/bad/) [start](/post/start/) [to](/post/to/) [the](/post/the/) [day](/post/day/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) spends [her](/en/post/her/) weekends exploring [new](/en/post/new/) places [on](/en/post/on/) [sunny](/en/post/sunny/) days."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) woke [up](/en/post/up/) [early](/en/post/early/) [to](/en/post/to/) [enjoy](/en/post/enjoy/) [a](/en/post/a/) [quiet](/en/post/quiet/) [day](/en/post/day/) [at](/en/post/at/) [home](/en/post/home/)."
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) was [the](/en/post/the/) [most](/en/post/most/) [beautiful](/en/post/beautiful/) [summer](/en/post/summer/) [day](/en/post/day/) I've [ever](/en/post/ever/) experienced."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) spends [her](/post/her/) weekends exploring [new](/post/new/) places [on](/post/on/) [sunny](/post/sunny/) days."
+- **[Verb](/post/verb/)**: "[He](/post/he/) woke [up](/post/up/) [early](/post/early/) [to](/post/to/) [enjoy](/post/enjoy/) [a](/post/a/) [quiet](/post/quiet/) [day](/post/day/) [at](/post/at/) [home](/post/home/)."
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) was [the](/post/the/) [most](/post/most/) [beautiful](/post/beautiful/) [summer](/post/summer/) [day](/post/day/) I've [ever](/post/ever/) experienced."
 
 ## Synonyms
 - Daytime
 - 24 hours
-- Sunup [to](/en/post/to/) sundown
+- Sunup [to](/post/to/) sundown
 - Workday
 - Daypart
 - Daybreak
 
 ## Antonyms
-- [Night](/en/post/night/)
-- [Midnight](/en/post/midnight/)
-- [Evening](/en/post/evening/)
-- [Dawn](/en/post/dawn/)
-- Twilight ([as](/en/post/as/) times [of](/en/post/of/) [the](/en/post/the/) [day](/en/post/day/))
+- [Night](/post/night/)
+- [Midnight](/post/midnight/)
+- [Evening](/post/evening/)
+- [Dawn](/post/dawn/)
+- Twilight ([as](/post/as/) times [of](/post/of/) [the](/post/the/) [day](/post/day/))

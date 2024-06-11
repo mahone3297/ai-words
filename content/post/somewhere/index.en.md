@@ -7,33 +7,33 @@ description = '[ˈsʌm(h)weə] ad.在某处 n.某地'
 keywords = ['ai words', 'somewhere']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈmʌr(ə)ʊ/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Referring [to](/en/post/to/) an unspecified [place](/en/post/place/) [or](/en/post/or/) [location](/en/post/location/), [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) uncertainty [or](/en/post/or/) vagueness. [For](/en/post/for/) [example](/en/post/example/): "I'll [meet](/en/post/meet/) [you](/en/post/you/) [somewhere](/en/post/somewhere/) [near](/en/post/near/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Adjective](/en/post/adjective/)**: Designating [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [position](/en/post/position/) [without](/en/post/without/) specifying [exactly](/en/post/exactly/) [where](/en/post/where/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [package](/en/post/package/) was delivered [to](/en/post/to/) [a](/en/post/a/) random [somewhere](/en/post/somewhere/) [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/)."
+- **[Adverb](/post/adverb/)**: Referring [to](/post/to/) an unspecified [place](/post/place/) [or](/post/or/) [location](/post/location/), [often](/post/often/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) uncertainty [or](/post/or/) vagueness. [For](/post/for/) [example](/post/example/): "I'll [meet](/post/meet/) [you](/post/you/) [somewhere](/post/somewhere/) [near](/post/near/) [the](/post/the/) [park](/post/park/)."
+- **[Adjective](/post/adjective/)**: Designating [a](/post/a/) [place](/post/place/) [or](/post/or/) [position](/post/position/) [without](/post/without/) specifying [exactly](/post/exactly/) [where](/post/where/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [package](/post/package/) was delivered [to](/post/to/) [a](/post/a/) random [somewhere](/post/somewhere/) [in](/post/in/) [the](/post/the/) [city](/post/city/)."
 
 ## Phrases
-- "[Somewhere](/en/post/somewhere/) [over](/en/post/over/) [the](/en/post/the/) [rainbow](/en/post/rainbow/)" refers [to](/en/post/to/) [a](/en/post/a/) [distant](/en/post/distant/), idealized [place](/en/post/place/).
-- "[Find](/en/post/find/) [your](/en/post/your/) [way](/en/post/way/) [somewhere](/en/post/somewhere/)" [means](/en/post/means/) [to](/en/post/to/) [locate](/en/post/locate/) [or](/en/post/or/) [reach](/en/post/reach/) [a](/en/post/a/) [destination](/en/post/destination/).
-- "[Somewhere](/en/post/somewhere/) [in](/en/post/in/) [between](/en/post/between/)" indicates [a](/en/post/a/) [middle](/en/post/middle/) [ground](/en/post/ground/) [or](/en/post/or/) [compromise](/en/post/compromise/).
+- "[Somewhere](/post/somewhere/) [over](/post/over/) [the](/post/the/) [rainbow](/post/rainbow/)" refers [to](/post/to/) [a](/post/a/) [distant](/post/distant/), idealized [place](/post/place/).
+- "[Find](/post/find/) [your](/post/your/) [way](/post/way/) [somewhere](/post/somewhere/)" [means](/post/means/) [to](/post/to/) [locate](/post/locate/) [or](/post/or/) [reach](/post/reach/) [a](/post/a/) [destination](/post/destination/).
+- "[Somewhere](/post/somewhere/) [in](/post/in/) [between](/post/between/)" indicates [a](/post/a/) [middle](/post/middle/) [ground](/post/ground/) [or](/post/or/) [compromise](/post/compromise/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I told [her](/en/post/her/) [to](/en/post/to/) [come](/en/post/come/) [to](/en/post/to/) [the](/en/post/the/) café, [but](/en/post/but/) [she](/en/post/she/) said she'd [be](/en/post/be/) [somewhere](/en/post/somewhere/) [else](/en/post/else/)."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) [left](/en/post/left/) [his](/en/post/his/) keys [inside](/en/post/inside/), [so](/en/post/so/) [he](/en/post/he/) couldn't [find](/en/post/find/) [them](/en/post/them/) [anywhere](/en/post/anywhere/), [let](/en/post/let/) [alone](/en/post/alone/) [somewhere](/en/post/somewhere/) [safe](/en/post/safe/)."
-- "We'll [have](/en/post/have/) [a](/en/post/a/) [picnic](/en/post/picnic/) [somewhere](/en/post/somewhere/) scenic [this](/en/post/this/) [weekend](/en/post/weekend/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I told [her](/post/her/) [to](/post/to/) [come](/post/come/) [to](/post/to/) [the](/post/the/) café, [but](/post/but/) [she](/post/she/) said she'd [be](/post/be/) [somewhere](/post/somewhere/) [else](/post/else/)."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) [left](/post/left/) [his](/post/his/) keys [inside](/post/inside/), [so](/post/so/) [he](/post/he/) couldn't [find](/post/find/) [them](/post/them/) [anywhere](/post/anywhere/), [let](/post/let/) [alone](/post/alone/) [somewhere](/post/somewhere/) [safe](/post/safe/)."
+- "We'll [have](/post/have/) [a](/post/a/) [picnic](/post/picnic/) [somewhere](/post/somewhere/) scenic [this](/post/this/) [weekend](/post/weekend/)."
 
 ## Synonyms
-- [Anywhere](/en/post/anywhere/)
-- [Somewhere](/en/post/somewhere/) [around](/en/post/around/)
-- [Various](/en/post/various/) places
-- [Unknown](/en/post/unknown/) [location](/en/post/location/)
-- [Uncertain](/en/post/uncertain/) whereabouts
+- [Anywhere](/post/anywhere/)
+- [Somewhere](/post/somewhere/) [around](/post/around/)
+- [Various](/post/various/) places
+- [Unknown](/post/unknown/) [location](/post/location/)
+- [Uncertain](/post/uncertain/) whereabouts
 
 ## Antonyms
-- [Everywhere](/en/post/everywhere/)
-- [Nowhere](/en/post/nowhere/)
+- [Everywhere](/post/everywhere/)
+- [Nowhere](/post/nowhere/)
 - Specifically
-- [Exactly](/en/post/exactly/)
+- [Exactly](/post/exactly/)
 - Pointedly

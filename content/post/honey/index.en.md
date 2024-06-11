@@ -7,32 +7,32 @@ description = '[ˈhʌni] n.蜜，蜂蜜；甜，甜蜜'
 keywords = ['ai words', 'honey']
 +++
 
-## [Word](/en/post/word/): [Honey](/en/post/honey/)
+## [Word](/post/word/): [Honey](/post/honey/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhʌni/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [sweet](/en/post/sweet/), viscous [food](/en/post/food/) [substance](/en/post/substance/) produced [by](/en/post/by/) bees using nectar [from](/en/post/from/) flowers. It's [often](/en/post/often/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [natural](/en/post/natural/) sweetener [in](/en/post/in/) [food](/en/post/food/) [and](/en/post/and/) beverages. [Example](/en/post/example/): "[She](/en/post/she/) drizzled [honey](/en/post/honey/) [over](/en/post/over/) [her](/en/post/her/) [toast](/en/post/toast/)."
-- **[Noun](/en/post/noun/) (informal)**: [A](/en/post/a/) [term](/en/post/term/) [of](/en/post/of/) endearment [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) affectionately [to](/en/post/to/) one's [romantic](/en/post/romantic/) [partner](/en/post/partner/), [child](/en/post/child/), [or](/en/post/or/) [close](/en/post/close/) [friend](/en/post/friend/). [Example](/en/post/example/): "[Honey](/en/post/honey/), [could](/en/post/could/) [you](/en/post/you/) [pass](/en/post/pass/) [me](/en/post/me/) [the](/en/post/the/) [salt](/en/post/salt/)?"
-- **[Adjective](/en/post/adjective/)**: Having [the](/en/post/the/) [taste](/en/post/taste/) [or](/en/post/or/) flavor [of](/en/post/of/) [honey](/en/post/honey/); [sweet](/en/post/sweet/) [and](/en/post/and/) [pleasant](/en/post/pleasant/). [Example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) honey-smooth [voice](/en/post/voice/) [that](/en/post/that/) captivated [the](/en/post/the/) [audience](/en/post/audience/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [sweet](/post/sweet/), viscous [food](/post/food/) [substance](/post/substance/) produced [by](/post/by/) bees using nectar [from](/post/from/) flowers. It's [often](/post/often/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [natural](/post/natural/) sweetener [in](/post/in/) [food](/post/food/) [and](/post/and/) beverages. [Example](/post/example/): "[She](/post/she/) drizzled [honey](/post/honey/) [over](/post/over/) [her](/post/her/) [toast](/post/toast/)."
+- **[Noun](/post/noun/) (informal)**: [A](/post/a/) [term](/post/term/) [of](/post/of/) endearment [used](/post/used/) [to](/post/to/) [refer](/post/refer/) affectionately [to](/post/to/) one's [romantic](/post/romantic/) [partner](/post/partner/), [child](/post/child/), [or](/post/or/) [close](/post/close/) [friend](/post/friend/). [Example](/post/example/): "[Honey](/post/honey/), [could](/post/could/) [you](/post/you/) [pass](/post/pass/) [me](/post/me/) [the](/post/the/) [salt](/post/salt/)?"
+- **[Adjective](/post/adjective/)**: Having [the](/post/the/) [taste](/post/taste/) [or](/post/or/) flavor [of](/post/of/) [honey](/post/honey/); [sweet](/post/sweet/) [and](/post/and/) [pleasant](/post/pleasant/). [Example](/post/example/): "[She](/post/she/) had [a](/post/a/) honey-smooth [voice](/post/voice/) [that](/post/that/) captivated [the](/post/the/) [audience](/post/audience/)."
 
 ## Phrases
-- "[The](/en/post/the/) bee's knees": An [idiom](/en/post/idiom/) [meaning](/en/post/meaning/) [something](/en/post/something/) [excellent](/en/post/excellent/) [or](/en/post/or/) [outstanding](/en/post/outstanding/), [often](/en/post/often/) [used](/en/post/used/) colloquially [with](/en/post/with/) "[honey](/en/post/honey/)" [to](/en/post/to/) [emphasize](/en/post/emphasize/) [its](/en/post/its/) [positive](/en/post/positive/) qualities. [Example](/en/post/example/): "[This](/en/post/this/) homemade [honey](/en/post/honey/) is [the](/en/post/the/) bee's knees!"
-- "[Honey](/en/post/honey/) [trap](/en/post/trap/)": [A](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [someone](/en/post/someone/) is deliberately lured [into](/en/post/into/) [a](/en/post/a/) compromising [position](/en/post/position/), [often](/en/post/often/) [for](/en/post/for/) espionage purposes, using flattery [or](/en/post/or/) [romantic](/en/post/romantic/) gestures, akin [to](/en/post/to/) [the](/en/post/the/) sweetness [of](/en/post/of/) [honey](/en/post/honey/).
-- "[A](/en/post/a/) spoonful [of](/en/post/of/) [honey](/en/post/honey/) helps [the](/en/post/the/) [medicine](/en/post/medicine/) [go](/en/post/go/) [down](/en/post/down/)": [This](/en/post/this/) proverb suggests [that](/en/post/that/) making [something](/en/post/something/) [unpleasant](/en/post/unpleasant/) [more](/en/post/more/) appealing ([like](/en/post/like/) adding [honey](/en/post/honey/) [to](/en/post/to/) [medicine](/en/post/medicine/)) [can](/en/post/can/) [make](/en/post/make/) [it](/en/post/it/) easier [to](/en/post/to/) [accept](/en/post/accept/) [or](/en/post/or/) [endure](/en/post/endure/).
+- "[The](/post/the/) bee's knees": An [idiom](/post/idiom/) [meaning](/post/meaning/) [something](/post/something/) [excellent](/post/excellent/) [or](/post/or/) [outstanding](/post/outstanding/), [often](/post/often/) [used](/post/used/) colloquially [with](/post/with/) "[honey](/post/honey/)" [to](/post/to/) [emphasize](/post/emphasize/) [its](/post/its/) [positive](/post/positive/) qualities. [Example](/post/example/): "[This](/post/this/) homemade [honey](/post/honey/) is [the](/post/the/) bee's knees!"
+- "[Honey](/post/honey/) [trap](/post/trap/)": [A](/post/a/) [situation](/post/situation/) [where](/post/where/) [someone](/post/someone/) is deliberately lured [into](/post/into/) [a](/post/a/) compromising [position](/post/position/), [often](/post/often/) [for](/post/for/) espionage purposes, using flattery [or](/post/or/) [romantic](/post/romantic/) gestures, akin [to](/post/to/) [the](/post/the/) sweetness [of](/post/of/) [honey](/post/honey/).
+- "[A](/post/a/) spoonful [of](/post/of/) [honey](/post/honey/) helps [the](/post/the/) [medicine](/post/medicine/) [go](/post/go/) [down](/post/down/)": [This](/post/this/) proverb suggests [that](/post/that/) making [something](/post/something/) [unpleasant](/post/unpleasant/) [more](/post/more/) appealing ([like](/post/like/) adding [honey](/post/honey/) [to](/post/to/) [medicine](/post/medicine/)) [can](/post/can/) [make](/post/make/) [it](/post/it/) easier [to](/post/to/) [accept](/post/accept/) [or](/post/or/) [endure](/post/endure/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) extracted [pure](/en/post/pure/) honeycomb filled [with](/en/post/with/) [golden](/en/post/golden/) [honey](/en/post/honey/) [from](/en/post/from/) [his](/en/post/his/) beehives."
-- **[Noun](/en/post/noun/) (informal)**: "[Honey](/en/post/honey/), don't [forget](/en/post/forget/) [to](/en/post/to/) [take](/en/post/take/) [your](/en/post/your/) [umbrella](/en/post/umbrella/) [today](/en/post/today/); [it](/en/post/it/) [might](/en/post/might/) [rain](/en/post/rain/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [tea](/en/post/tea/) was infused [with](/en/post/with/) [a](/en/post/a/) [touch](/en/post/touch/) [of](/en/post/of/) [honey](/en/post/honey/), giving [it](/en/post/it/) [a](/en/post/a/) delightful sweetness."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) extracted [pure](/post/pure/) honeycomb filled [with](/post/with/) [golden](/post/golden/) [honey](/post/honey/) [from](/post/from/) [his](/post/his/) beehives."
+- **[Noun](/post/noun/) (informal)**: "[Honey](/post/honey/), don't [forget](/post/forget/) [to](/post/to/) [take](/post/take/) [your](/post/your/) [umbrella](/post/umbrella/) [today](/post/today/); [it](/post/it/) [might](/post/might/) [rain](/post/rain/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [tea](/post/tea/) was infused [with](/post/with/) [a](/post/a/) [touch](/post/touch/) [of](/post/of/) [honey](/post/honey/), giving [it](/post/it/) [a](/post/a/) delightful sweetness."
 
 ## Synonyms
 - Nectar
 - Sweetie (informal)
-- [Darling](/en/post/darling/) (informal)
-- [Sugar](/en/post/sugar/) (informal)
+- [Darling](/post/darling/) (informal)
+- [Sugar](/post/sugar/) (informal)
 - Babe (informal)
 - Sweetheart (informal)
 
-[Note](/en/post/note/): [The](/en/post/the/) informal uses [of](/en/post/of/) "[honey](/en/post/honey/)" [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [adjective](/en/post/adjective/) referring [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [should](/en/post/should/) [not](/en/post/not/) [be](/en/post/be/) confused [with](/en/post/with/) [its](/en/post/its/) literal [definition](/en/post/definition/) [as](/en/post/as/) [a](/en/post/a/) [food](/en/post/food/) [product](/en/post/product/).
+[Note](/post/note/): [The](/post/the/) informal uses [of](/post/of/) "[honey](/post/honey/)" [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [adjective](/post/adjective/) referring [to](/post/to/) [a](/post/a/) [person](/post/person/) [should](/post/should/) [not](/post/not/) [be](/post/be/) confused [with](/post/with/) [its](/post/its/) literal [definition](/post/definition/) [as](/post/as/) [a](/post/a/) [food](/post/food/) [product](/post/product/).

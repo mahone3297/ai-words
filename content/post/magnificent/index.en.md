@@ -7,32 +7,32 @@ description = '[mægˈnifisnt] n.壮丽的；华丽的'
 keywords = ['ai words', 'magnificent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌmæɡ.nɪ.fɪ.sənt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Extremely](/en/post/extremely/) [impressive](/en/post/impressive/) [or](/en/post/or/) [beautiful](/en/post/beautiful/); awe-inspiring. [It](/en/post/it/) [often](/en/post/often/) describes [something](/en/post/something/) [that](/en/post/that/) is [very](/en/post/very/) [large](/en/post/large/), [elaborate](/en/post/elaborate/), [or](/en/post/or/) [grand](/en/post/grand/) [in](/en/post/in/) [appearance](/en/post/appearance/) [or](/en/post/or/) [quality](/en/post/quality/).
+- **[Adjective](/post/adjective/)**: [Extremely](/post/extremely/) [impressive](/post/impressive/) [or](/post/or/) [beautiful](/post/beautiful/); awe-inspiring. [It](/post/it/) [often](/post/often/) describes [something](/post/something/) [that](/post/that/) is [very](/post/very/) [large](/post/large/), [elaborate](/post/elaborate/), [or](/post/or/) [grand](/post/grand/) [in](/post/in/) [appearance](/post/appearance/) [or](/post/or/) [quality](/post/quality/).
 
-[Example](/en/post/example/) sentences:
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) _magnificent_ [architecture](/en/post/architecture/) [of](/en/post/of/) [the](/en/post/the/) [ancient](/en/post/ancient/) [temple](/en/post/temple/) [left](/en/post/left/) [us](/en/post/us/) [all](/en/post/all/) spellbound.
-- "[The](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) mountaintop was [truly](/en/post/truly/) _magnificent_, stretching [out](/en/post/out/) [for](/en/post/for/) miles [across](/en/post/across/) verdant valleys [and](/en/post/and/) glistening lakes."
+[Example](/post/example/) sentences:
+- **[Adjective](/post/adjective/)**: [The](/post/the/) _magnificent_ [architecture](/post/architecture/) [of](/post/of/) [the](/post/the/) [ancient](/post/ancient/) [temple](/post/temple/) [left](/post/left/) [us](/post/us/) [all](/post/all/) spellbound.
+- "[The](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) mountaintop was [truly](/post/truly/) _magnificent_, stretching [out](/post/out/) [for](/post/for/) miles [across](/post/across/) verdant valleys [and](/post/and/) glistening lakes."
 
 ## Phrases
-- "[In](/en/post/in/) [all](/en/post/all/) [its](/en/post/its/) [magnificent](/en/post/magnificent/) [glory](/en/post/glory/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [how](/en/post/how/) [something](/en/post/something/) is displayed [at](/en/post/at/) [its](/en/post/its/) [most](/en/post/most/) [impressive](/en/post/impressive/) [or](/en/post/or/) [splendid](/en/post/splendid/) [state](/en/post/state/). [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [castle](/en/post/castle/) stood [in](/en/post/in/) [all](/en/post/all/) [its](/en/post/its/) [magnificent](/en/post/magnificent/) [glory](/en/post/glory/), dominating [the](/en/post/the/) landscape."
-- "[A](/en/post/a/) [magnificent](/en/post/magnificent/) [achievement](/en/post/achievement/)": Describes [a](/en/post/a/) [remarkable](/en/post/remarkable/) accomplishment [or](/en/post/or/) feat. [Example](/en/post/example/): "Winning [the](/en/post/the/) [gold](/en/post/gold/) [medal](/en/post/medal/) was [a](/en/post/a/) [magnificent](/en/post/magnificent/) [achievement](/en/post/achievement/) [for](/en/post/for/) [the](/en/post/the/) [young](/en/post/young/) [athlete](/en/post/athlete/)."
+- "[In](/post/in/) [all](/post/all/) [its](/post/its/) [magnificent](/post/magnificent/) [glory](/post/glory/)": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [how](/post/how/) [something](/post/something/) is displayed [at](/post/at/) [its](/post/its/) [most](/post/most/) [impressive](/post/impressive/) [or](/post/or/) [splendid](/post/splendid/) [state](/post/state/). [Example](/post/example/): "[The](/post/the/) [old](/post/old/) [castle](/post/castle/) stood [in](/post/in/) [all](/post/all/) [its](/post/its/) [magnificent](/post/magnificent/) [glory](/post/glory/), dominating [the](/post/the/) landscape."
+- "[A](/post/a/) [magnificent](/post/magnificent/) [achievement](/post/achievement/)": Describes [a](/post/a/) [remarkable](/post/remarkable/) accomplishment [or](/post/or/) feat. [Example](/post/example/): "Winning [the](/post/the/) [gold](/post/gold/) [medal](/post/medal/) was [a](/post/a/) [magnificent](/post/magnificent/) [achievement](/post/achievement/) [for](/post/for/) [the](/post/the/) [young](/post/young/) [athlete](/post/athlete/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sunset](/en/post/sunset/) [over](/en/post/over/) [the](/en/post/the/) [ocean](/en/post/ocean/) was [a](/en/post/a/) [magnificent](/en/post/magnificent/) [display](/en/post/display/) [of](/en/post/of/) colors blending [into](/en/post/into/) [one](/en/post/one/) [another](/en/post/another/)."
-- "[Her](/en/post/her/) [performance](/en/post/performance/) [on](/en/post/on/) [stage](/en/post/stage/) was [nothing](/en/post/nothing/) [short](/en/post/short/) [of](/en/post/of/) [magnificent](/en/post/magnificent/), receiving [a](/en/post/a/) standing ovation [from](/en/post/from/) [the](/en/post/the/) [audience](/en/post/audience/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sunset](/post/sunset/) [over](/post/over/) [the](/post/the/) [ocean](/post/ocean/) was [a](/post/a/) [magnificent](/post/magnificent/) [display](/post/display/) [of](/post/of/) colors blending [into](/post/into/) [one](/post/one/) [another](/post/another/)."
+- "[Her](/post/her/) [performance](/post/performance/) [on](/post/on/) [stage](/post/stage/) was [nothing](/post/nothing/) [short](/post/short/) [of](/post/of/) [magnificent](/post/magnificent/), receiving [a](/post/a/) standing ovation [from](/post/from/) [the](/post/the/) [audience](/post/audience/)."
 
 ## Synonyms
-- [Splendid](/en/post/splendid/)
-- [Grand](/en/post/grand/)
+- [Splendid](/post/splendid/)
+- [Grand](/post/grand/)
 - Majestic
-- [Glorious](/en/post/glorious/)
-- [Impressive](/en/post/impressive/)
+- [Glorious](/post/glorious/)
+- [Impressive](/post/impressive/)
 - Stunning
 - Breathtaking
 - Exquisite
 - Spectacular
-- Awesome ([in](/en/post/in/) [the](/en/post/the/) [traditional](/en/post/traditional/) [sense](/en/post/sense/), [meaning](/en/post/meaning/) inspiring awe)
+- Awesome ([in](/post/in/) [the](/post/the/) [traditional](/post/traditional/) [sense](/post/sense/), [meaning](/post/meaning/) inspiring awe)

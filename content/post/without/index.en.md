@@ -7,29 +7,29 @@ description = '[wiðˈaut] prep.无，没有，不'
 keywords = ['ai words', 'without']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhʌləʊ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [absence](/en/post/absence/) [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [something](/en/post/something/); [a](/en/post/a/) privation. [For](/en/post/for/) [example](/en/post/example/): "[Without](/en/post/without/) [water](/en/post/water/), [life](/en/post/life/) is [impossible](/en/post/impossible/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [the](/en/post/the/) [absence](/en/post/absence/) [or](/en/post/or/) [without](/en/post/without/) [the](/en/post/the/) [presence](/en/post/presence/) [of](/en/post/of/) [something](/en/post/something/); [not](/en/post/not/) having. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) can't [work](/en/post/work/) [without](/en/post/without/) [her](/en/post/her/) glasses."
-- **[Preposition](/en/post/preposition/)**: Expressing negation [or](/en/post/or/) exclusion; [not](/en/post/not/) [with](/en/post/with/) [or](/en/post/or/) [by](/en/post/by/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [experiment](/en/post/experiment/) was conducted [without](/en/post/without/) [any](/en/post/any/) [interference](/en/post/interference/)."
+- **[Noun](/post/noun/)**: An [absence](/post/absence/) [or](/post/or/) [lack](/post/lack/) [of](/post/of/) [something](/post/something/); [a](/post/a/) privation. [For](/post/for/) [example](/post/example/): "[Without](/post/without/) [water](/post/water/), [life](/post/life/) is [impossible](/post/impossible/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [the](/post/the/) [absence](/post/absence/) [or](/post/or/) [without](/post/without/) [the](/post/the/) [presence](/post/presence/) [of](/post/of/) [something](/post/something/); [not](/post/not/) having. [For](/post/for/) [example](/post/example/): "[She](/post/she/) can't [work](/post/work/) [without](/post/without/) [her](/post/her/) glasses."
+- **[Preposition](/post/preposition/)**: Expressing negation [or](/post/or/) exclusion; [not](/post/not/) [with](/post/with/) [or](/post/or/) [by](/post/by/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [experiment](/post/experiment/) was conducted [without](/post/without/) [any](/post/any/) [interference](/post/interference/)."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/)" signifies [when](/en/post/when/) [something](/en/post/something/) is [not](/en/post/not/) [present](/en/post/present/).
-- "[Without](/en/post/without/) warning" implies [a](/en/post/a/) [sudden](/en/post/sudden/), [unexpected](/en/post/unexpected/) [occurrence](/en/post/occurrence/).
-- "[Without](/en/post/without/) hesitation" [means](/en/post/means/) [without](/en/post/without/) [any](/en/post/any/) [delay](/en/post/delay/) [or](/en/post/or/) uncertainty.
+- "[In](/post/in/) [the](/post/the/) [absence](/post/absence/) [of](/post/of/)" signifies [when](/post/when/) [something](/post/something/) is [not](/post/not/) [present](/post/present/).
+- "[Without](/post/without/) warning" implies [a](/post/a/) [sudden](/post/sudden/), [unexpected](/post/unexpected/) [occurrence](/post/occurrence/).
+- "[Without](/post/without/) hesitation" [means](/post/means/) [without](/post/without/) [any](/post/any/) [delay](/post/delay/) [or](/post/or/) uncertainty.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [garden](/en/post/garden/) flourished [without](/en/post/without/) [proper](/en/post/proper/) [care](/en/post/care/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) [left](/en/post/left/) [without](/en/post/without/) saying [goodbye](/en/post/goodbye/)."
-- **[Preposition](/en/post/preposition/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [go](/en/post/go/) [on](/en/post/on/) [the](/en/post/the/) [trip](/en/post/trip/) [without](/en/post/without/) checking [the](/en/post/the/) [weather](/en/post/weather/) [forecast](/en/post/forecast/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [garden](/post/garden/) flourished [without](/post/without/) [proper](/post/proper/) [care](/post/care/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) [left](/post/left/) [without](/post/without/) saying [goodbye](/post/goodbye/)."
+- **[Preposition](/post/preposition/)**: "[They](/post/they/) decided [to](/post/to/) [go](/post/go/) [on](/post/on/) [the](/post/the/) [trip](/post/trip/) [without](/post/without/) checking [the](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/)."
 
 ## Synonyms
-- [None](/en/post/none/) ([since](/en/post/since/) "[without](/en/post/without/)" is [primarily](/en/post/primarily/) [a](/en/post/a/) [preposition](/en/post/preposition/) [and](/en/post/and/) [adverb](/en/post/adverb/))
-- [Lack](/en/post/lack/)
+- [None](/post/none/) ([since](/post/since/) "[without](/post/without/)" is [primarily](/post/primarily/) [a](/post/a/) [preposition](/post/preposition/) [and](/post/and/) [adverb](/post/adverb/))
+- [Lack](/post/lack/)
 - Withoutness
 - Void
 - Scarcity
 
-[Note](/en/post/note/): "[None](/en/post/none/)" is mentioned [as](/en/post/as/) [a](/en/post/a/) synonym [because](/en/post/because/) "[without](/en/post/without/)" doesn't [have](/en/post/have/) [direct](/en/post/direct/) [equivalent](/en/post/equivalent/) nouns [or](/en/post/or/) synonyms [like](/en/post/like/) [it](/en/post/it/) does [for](/en/post/for/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/). [However](/en/post/however/), it's [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [list](/en/post/list/).
+[Note](/post/note/): "[None](/post/none/)" is mentioned [as](/post/as/) [a](/post/a/) synonym [because](/post/because/) "[without](/post/without/)" doesn't [have](/post/have/) [direct](/post/direct/) [equivalent](/post/equivalent/) nouns [or](/post/or/) synonyms [like](/post/like/) [it](/post/it/) does [for](/post/for/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/). [However](/post/however/), it's [often](/post/often/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [absence](/post/absence/) [of](/post/of/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [list](/post/list/).

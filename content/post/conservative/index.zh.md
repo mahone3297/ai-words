@@ -11,21 +11,21 @@ keywords = ['ai words', 'conservative']
 /ˈkɑːnsərvətɪv/
 
 ## 释义
-- **形容词**: 保守的；倾向于维护传统和现状的。例如: "[He](/post/he/) has [conservative](/post/conservative/) views [on](/post/on/) [social](/post/social/) issues."
-- **名词**: 保守主义者，支持保守政策的人。例如: "[The](/post/the/) [conservative](/post/conservative/) [party](/post/party/) won [the](/post/the/) [election](/post/election/)."
+- **形容词**: 保守的；倾向于维护传统和现状的。例如: "[He](/zh/post/he/) has [conservative](/zh/post/conservative/) views [on](/zh/post/on/) [social](/zh/post/social/) issues."
+- **名词**: 保守主义者，支持保守政策的人。例如: "[The](/zh/post/the/) [conservative](/zh/post/conservative/) [party](/zh/post/party/) won [the](/zh/post/the/) [election](/zh/post/election/)."
 
 ## 短语
-- "[Conservative](/post/conservative/) [Party](/post/party/)" 在许多国家指代保守主义政党。
-- "[conservative](/post/conservative/) [estimate](/post/estimate/)" 指谨慎的估计，不倾向于过高估计。
-- "[conservative](/post/conservative/) investor" 指风险偏好较低，倾向于稳健投资的投资者。
+- "[Conservative](/zh/post/conservative/) [Party](/zh/post/party/)" 在许多国家指代保守主义政党。
+- "[conservative](/zh/post/conservative/) [estimate](/zh/post/estimate/)" 指谨慎的估计，不倾向于过高估计。
+- "[conservative](/zh/post/conservative/) investor" 指风险偏好较低，倾向于稳健投资的投资者。
 
 ## 例句
-- 形容词: "[Her](/post/her/) [fashion](/post/fashion/) [style](/post/style/) is [quite](/post/quite/) [conservative](/post/conservative/), [always](/post/always/) wearing [modest](/post/modest/) [clothing](/post/clothing/)."
-- 名词: "[Many](/post/many/) conservatives [believe](/post/believe/) [in](/post/in/) [lower](/post/lower/) taxes [and](/post/and/) smaller [government](/post/government/)."
+- 形容词: "[Her](/zh/post/her/) [fashion](/zh/post/fashion/) [style](/zh/post/style/) is [quite](/zh/post/quite/) [conservative](/zh/post/conservative/), [always](/zh/post/always/) wearing [modest](/zh/post/modest/) [clothing](/zh/post/clothing/)."
+- 名词: "[Many](/zh/post/many/) conservatives [believe](/zh/post/believe/) [in](/zh/post/in/) [lower](/zh/post/lower/) taxes [and](/zh/post/and/) smaller [government](/zh/post/government/)."
 
 ## 同义词
 - Traditionalist
-- [Moderate](/post/moderate/)
+- [Moderate](/zh/post/moderate/)
 - Pragmatist
 - Reactionary
 - Right-wing

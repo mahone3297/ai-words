@@ -14,18 +14,18 @@ keywords = ['ai words', 'unusually']
 - **副词**: 不寻常地，异常地，特别地。用来强调某事与常规或期望不同。
 
 ## 短语
-- "[unusually](/post/unusually/) [high](/post/high/)" 表示异常高的。
-- "[unusually](/post/unusually/) [low](/post/low/)" 意味着异常低的。
-- "[unusually](/post/unusually/) [quiet](/post/quiet/)" 指的是异常安静。
+- "[unusually](/zh/post/unusually/) [high](/zh/post/high/)" 表示异常高的。
+- "[unusually](/zh/post/unusually/) [low](/zh/post/low/)" 意味着异常低的。
+- "[unusually](/zh/post/unusually/) [quiet](/zh/post/quiet/)" 指的是异常安静。
 
 ## 例句
-- "[The](/post/the/) [weather](/post/weather/) was [unusually](/post/unusually/) [warm](/post/warm/) [for](/post/for/) [this](/post/this/) [time](/post/time/) [of](/post/of/) [year](/post/year/)."
-- "[She](/post/she/) was [unusually](/post/unusually/) reserved [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
-- "[His](/post/his/) [performance](/post/performance/) was [unusually](/post/unusually/) [poor](/post/poor/) compared [to](/post/to/) [his](/post/his/) [usual](/post/usual/) standards."
+- "[The](/zh/post/the/) [weather](/zh/post/weather/) was [unusually](/zh/post/unusually/) [warm](/zh/post/warm/) [for](/zh/post/for/) [this](/zh/post/this/) [time](/zh/post/time/) [of](/zh/post/of/) [year](/zh/post/year/)."
+- "[She](/zh/post/she/) was [unusually](/zh/post/unusually/) reserved [during](/zh/post/during/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
+- "[His](/zh/post/his/) [performance](/zh/post/performance/) was [unusually](/zh/post/unusually/) [poor](/zh/post/poor/) compared [to](/zh/post/to/) [his](/zh/post/his/) [usual](/zh/post/usual/) standards."
 
 ## 同义词
 - extraordinarily
 - remarkably
 - exceptionally
-- [surprisingly](/post/surprisingly/)
-- [unusually](/post/unusually/) [itself](/post/itself/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [a](/post/a/) synonym [when](/post/when/) [used](/post/used/) [in](/post/in/) comparisons (e.g., "[more](/post/more/) [unusually](/post/unusually/) [than](/post/than/) [usual](/post/usual/)")
+- [surprisingly](/zh/post/surprisingly/)
+- [unusually](/zh/post/unusually/) [itself](/zh/post/itself/) [can](/zh/post/can/) [also](/zh/post/also/) [be](/zh/post/be/) [a](/zh/post/a/) synonym [when](/zh/post/when/) [used](/zh/post/used/) [in](/zh/post/in/) comparisons (e.g., "[more](/zh/post/more/) [unusually](/zh/post/unusually/) [than](/zh/post/than/) [usual](/zh/post/usual/)")

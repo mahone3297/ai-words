@@ -7,27 +7,27 @@ description = '[ilekˈtrɔniks] n.电子学'
 keywords = ['ai words', 'electronics']
 +++
 
-## [Word](/en/post/word/): [Electronics](/en/post/electronics/)
+## [Word](/post/word/): [Electronics](/post/electronics/)
 
-### [Pronunciation](/en/post/pronunciation/)
+### [Pronunciation](/post/pronunciation/)
 /ɪˌlekˈtrɒnɪks/
 
 ### Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [branch](/en/post/branch/) [of](/en/post/of/) [physics](/en/post/physics/), [engineering](/en/post/engineering/), [and](/en/post/and/) [technology](/en/post/technology/) dealing [with](/en/post/with/) [the](/en/post/the/) emission, [behavior](/en/post/behavior/), [and](/en/post/and/) effects [of](/en/post/of/) electrons [and](/en/post/and/) [other](/en/post/other/) charged particles, [especially](/en/post/especially/) [when](/en/post/when/) [used](/en/post/used/) [in](/en/post/in/) devices [such](/en/post/such/) [as](/en/post/as/) transistors, integrated circuits, [and](/en/post/and/) computers. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) majored [in](/en/post/in/) [electronics](/en/post/electronics/) [at](/en/post/at/) [university](/en/post/university/)."
-- **[Noun](/en/post/noun/) ([in](/en/post/in/) context)**: Devices, components, [and](/en/post/and/) systems [that](/en/post/that/) [use](/en/post/use/) [electricity](/en/post/electricity/) [to](/en/post/to/) [perform](/en/post/perform/) [a](/en/post/a/) [specific](/en/post/specific/) [function](/en/post/function/), e.g., [communication](/en/post/communication/), computation, [or](/en/post/or/) [control](/en/post/control/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) latest advancements [in](/en/post/in/) consumer [electronics](/en/post/electronics/) [have](/en/post/have/) transformed [how](/en/post/how/) [we](/en/post/we/) [live](/en/post/live/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [branch](/post/branch/) [of](/post/of/) [physics](/post/physics/), [engineering](/post/engineering/), [and](/post/and/) [technology](/post/technology/) dealing [with](/post/with/) [the](/post/the/) emission, [behavior](/post/behavior/), [and](/post/and/) effects [of](/post/of/) electrons [and](/post/and/) [other](/post/other/) charged particles, [especially](/post/especially/) [when](/post/when/) [used](/post/used/) [in](/post/in/) devices [such](/post/such/) [as](/post/as/) transistors, integrated circuits, [and](/post/and/) computers. [For](/post/for/) [example](/post/example/): "[She](/post/she/) majored [in](/post/in/) [electronics](/post/electronics/) [at](/post/at/) [university](/post/university/)."
+- **[Noun](/post/noun/) ([in](/post/in/) context)**: Devices, components, [and](/post/and/) systems [that](/post/that/) [use](/post/use/) [electricity](/post/electricity/) [to](/post/to/) [perform](/post/perform/) [a](/post/a/) [specific](/post/specific/) [function](/post/function/), e.g., [communication](/post/communication/), computation, [or](/post/or/) [control](/post/control/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) latest advancements [in](/post/in/) consumer [electronics](/post/electronics/) [have](/post/have/) transformed [how](/post/how/) [we](/post/we/) [live](/post/live/)."
 
 ### Phrases
-- "Consumer [electronics](/en/post/electronics/)" refers [to](/en/post/to/) [electronic](/en/post/electronic/) [equipment](/en/post/equipment/) intended [for](/en/post/for/) [everyday](/en/post/everyday/) [use](/en/post/use/) [by](/en/post/by/) consumers, [such](/en/post/such/) [as](/en/post/as/) TVs, smartphones, [and](/en/post/and/) laptops.
-- "[Electronics](/en/post/electronics/) [industry](/en/post/industry/)" denotes [the](/en/post/the/) sector [of](/en/post/of/) manufacturing [and](/en/post/and/) [commerce](/en/post/commerce/) involved [in](/en/post/in/) [the](/en/post/the/) [design](/en/post/design/), [development](/en/post/development/), [production](/en/post/production/), [and](/en/post/and/) marketing [of](/en/post/of/) [electronic](/en/post/electronic/) products.
-- "[Electronic](/en/post/electronic/) components" are [individual](/en/post/individual/) parts [such](/en/post/such/) [as](/en/post/as/) resistors, capacitors, [and](/en/post/and/) transistors [that](/en/post/that/) [make](/en/post/make/) [up](/en/post/up/) [electronic](/en/post/electronic/) circuits.
+- "Consumer [electronics](/post/electronics/)" refers [to](/post/to/) [electronic](/post/electronic/) [equipment](/post/equipment/) intended [for](/post/for/) [everyday](/post/everyday/) [use](/post/use/) [by](/post/by/) consumers, [such](/post/such/) [as](/post/as/) TVs, smartphones, [and](/post/and/) laptops.
+- "[Electronics](/post/electronics/) [industry](/post/industry/)" denotes [the](/post/the/) sector [of](/post/of/) manufacturing [and](/post/and/) [commerce](/post/commerce/) involved [in](/post/in/) [the](/post/the/) [design](/post/design/), [development](/post/development/), [production](/post/production/), [and](/post/and/) marketing [of](/post/of/) [electronic](/post/electronic/) products.
+- "[Electronic](/post/electronic/) components" are [individual](/post/individual/) parts [such](/post/such/) [as](/post/as/) resistors, capacitors, [and](/post/and/) transistors [that](/post/that/) [make](/post/make/) [up](/post/up/) [electronic](/post/electronic/) circuits.
 
-### [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([branch](/en/post/branch/) [of](/en/post/of/) [science](/en/post/science/))**: "[His](/en/post/his/) [research](/en/post/research/) focuses [on](/en/post/on/) [the](/en/post/the/) cutting-edge [field](/en/post/field/) [of](/en/post/of/) quantum [electronics](/en/post/electronics/)."
-- **[Noun](/en/post/noun/) (devices)**: "[The](/en/post/the/) [store](/en/post/store/) offers [a](/en/post/a/) [wide](/en/post/wide/) [variety](/en/post/variety/) [of](/en/post/of/) [home](/en/post/home/) [electronics](/en/post/electronics/), [from](/en/post/from/) [smart](/en/post/smart/) speakers [to](/en/post/to/) high-definition televisions."
+### [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([branch](/post/branch/) [of](/post/of/) [science](/post/science/))**: "[His](/post/his/) [research](/post/research/) focuses [on](/post/on/) [the](/post/the/) cutting-edge [field](/post/field/) [of](/post/of/) quantum [electronics](/post/electronics/)."
+- **[Noun](/post/noun/) (devices)**: "[The](/post/the/) [store](/post/store/) offers [a](/post/a/) [wide](/post/wide/) [variety](/post/variety/) [of](/post/of/) [home](/post/home/) [electronics](/post/electronics/), [from](/post/from/) [smart](/post/smart/) speakers [to](/post/to/) high-definition televisions."
 
 ### Synonyms
-- [Electrical](/en/post/electrical/) [Engineering](/en/post/engineering/)
-- [Digital](/en/post/digital/) [Technology](/en/post/technology/)
-- [Electronic](/en/post/electronic/) Devices
-- [Electronic](/en/post/electronic/) Systems
+- [Electrical](/post/electrical/) [Engineering](/post/engineering/)
+- [Digital](/post/digital/) [Technology](/post/technology/)
+- [Electronic](/post/electronic/) Devices
+- [Electronic](/post/electronic/) Systems
 - Circuitry

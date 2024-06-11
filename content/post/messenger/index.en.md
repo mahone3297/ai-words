@@ -7,33 +7,33 @@ description = '[ˈmesindʒə] n.送信者，信使'
 keywords = ['ai words', 'messenger']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmesɪndʒər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) carries messages [or](/en/post/or/) acts [as](/en/post/as/) [a](/en/post/a/) courier [from](/en/post/from/) [one](/en/post/one/) [person](/en/post/person/) [or](/en/post/or/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [king](/en/post/king/) sent [his](/en/post/his/) [most](/en/post/most/) trusted [messenger](/en/post/messenger/) [to](/en/post/to/) [deliver](/en/post/deliver/) [the](/en/post/the/) [news](/en/post/news/)."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [means](/en/post/means/) [of](/en/post/of/) [communication](/en/post/communication/) [or](/en/post/or/) [a](/en/post/a/) [platform](/en/post/platform/) [that](/en/post/that/) delivers messages, [such](/en/post/such/) [as](/en/post/as/) an email [service](/en/post/service/) [or](/en/post/or/) messaging app. [For](/en/post/for/) [instance](/en/post/instance/): "Facebook [Messenger](/en/post/messenger/) is [a](/en/post/a/) [popular](/en/post/popular/) messaging [application](/en/post/application/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) carries messages [or](/post/or/) acts [as](/post/as/) [a](/post/a/) courier [from](/post/from/) [one](/post/one/) [person](/post/person/) [or](/post/or/) [place](/post/place/) [to](/post/to/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [king](/post/king/) sent [his](/post/his/) [most](/post/most/) trusted [messenger](/post/messenger/) [to](/post/to/) [deliver](/post/deliver/) [the](/post/the/) [news](/post/news/)."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [means](/post/means/) [of](/post/of/) [communication](/post/communication/) [or](/post/or/) [a](/post/a/) [platform](/post/platform/) [that](/post/that/) delivers messages, [such](/post/such/) [as](/post/as/) an email [service](/post/service/) [or](/post/or/) messaging app. [For](/post/for/) [instance](/post/instance/): "Facebook [Messenger](/post/messenger/) is [a](/post/a/) [popular](/post/popular/) messaging [application](/post/application/)."
 
-### [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([person](/en/post/person/))**: "[In](/en/post/in/) [ancient](/en/post/ancient/) times, messengers were [often](/en/post/often/) [swift](/en/post/swift/) runners [responsible](/en/post/responsible/) [for](/en/post/for/) relaying [important](/en/post/important/) [information](/en/post/information/) [across](/en/post/across/) [great](/en/post/great/) distances."
-- **[Noun](/en/post/noun/) ([communication](/en/post/communication/) [tool](/en/post/tool/))**: "[They](/en/post/they/) [prefer](/en/post/prefer/) using WhatsApp [messenger](/en/post/messenger/) [to](/en/post/to/) [stay](/en/post/stay/) [in](/en/post/in/) [touch](/en/post/touch/) [with](/en/post/with/) [their](/en/post/their/) friends [and](/en/post/and/) [family](/en/post/family/)."
+### [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([person](/post/person/))**: "[In](/post/in/) [ancient](/post/ancient/) times, messengers were [often](/post/often/) [swift](/post/swift/) runners [responsible](/post/responsible/) [for](/post/for/) relaying [important](/post/important/) [information](/post/information/) [across](/post/across/) [great](/post/great/) distances."
+- **[Noun](/post/noun/) ([communication](/post/communication/) [tool](/post/tool/))**: "[They](/post/they/) [prefer](/post/prefer/) using WhatsApp [messenger](/post/messenger/) [to](/post/to/) [stay](/post/stay/) [in](/post/in/) [touch](/post/touch/) [with](/post/with/) [their](/post/their/) friends [and](/post/and/) [family](/post/family/)."
 
 ## Phrases
-- "[A](/en/post/a/) [messenger](/en/post/messenger/) [of](/en/post/of/) [peace](/en/post/peace/)": [A](/en/post/a/) diplomatic [figure](/en/post/figure/) [or](/en/post/or/) [organization](/en/post/organization/) working towards promoting [peace](/en/post/peace/).
-- "[Messenger](/en/post/messenger/) RNA (mRNA)": [In](/en/post/in/) [biology](/en/post/biology/), [this](/en/post/this/) refers [to](/en/post/to/) [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) RNA [molecule](/en/post/molecule/) [that](/en/post/that/) carries genetic [information](/en/post/information/) [from](/en/post/from/) DNA [to](/en/post/to/) ribosomes [where](/en/post/where/) proteins are synthesized.
+- "[A](/post/a/) [messenger](/post/messenger/) [of](/post/of/) [peace](/post/peace/)": [A](/post/a/) diplomatic [figure](/post/figure/) [or](/post/or/) [organization](/post/organization/) working towards promoting [peace](/post/peace/).
+- "[Messenger](/post/messenger/) RNA (mRNA)": [In](/post/in/) [biology](/post/biology/), [this](/post/this/) refers [to](/post/to/) [a](/post/a/) [type](/post/type/) [of](/post/of/) RNA [molecule](/post/molecule/) [that](/post/that/) carries genetic [information](/post/information/) [from](/post/from/) DNA [to](/post/to/) ribosomes [where](/post/where/) proteins are synthesized.
 
 ## Synonyms
 - Courier
 - Envoy
-- [Runner](/en/post/runner/)
-- [Agent](/en/post/agent/)
+- [Runner](/post/runner/)
+- [Agent](/post/agent/)
 - Herald (archaic)
 - Delegate
 - emissary
-- [Representative](/en/post/representative/)
+- [Representative](/post/representative/)
 
-[When](/en/post/when/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [digital](/en/post/digital/) [communication](/en/post/communication/) tools:
+[When](/post/when/) [used](/post/used/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) [digital](/post/digital/) [communication](/post/communication/) tools:
 - Messaging app
-- Chat [service](/en/post/service/)
-- [Instant](/en/post/instant/) messaging [platform](/en/post/platform/)
-- [Communication](/en/post/communication/) software
+- Chat [service](/post/service/)
+- [Instant](/post/instant/) messaging [platform](/post/platform/)
+- [Communication](/post/communication/) software

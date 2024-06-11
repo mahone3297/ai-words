@@ -11,20 +11,20 @@ keywords = ['ai words', 'moist']
 /maɪɔɪst/
 
 ## 释义
-- **形容词**: 湿润的，微湿的。例如: "[The](/post/the/) [air](/post/air/) was pleasantly [moist](/post/moist/) [after](/post/after/) [the](/post/the/) [rain](/post/rain/)."
-- **名词**: 指含有水分的状态。例如: "[The](/post/the/) [soil](/post/soil/) needs [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [certain](/post/certain/) [level](/post/level/) [of](/post/of/) [moist](/post/moist/)."
+- **形容词**: 湿润的，微湿的。例如: "[The](/zh/post/the/) [air](/zh/post/air/) was pleasantly [moist](/zh/post/moist/) [after](/zh/post/after/) [the](/zh/post/the/) [rain](/zh/post/rain/)."
+- **名词**: 指含有水分的状态。例如: "[The](/zh/post/the/) [soil](/zh/post/soil/) needs [to](/zh/post/to/) [maintain](/zh/post/maintain/) [a](/zh/post/a/) [certain](/zh/post/certain/) [level](/zh/post/level/) [of](/zh/post/of/) [moist](/zh/post/moist/)."
 
 ## 短语
 - "moisturizer" 是保湿剂，常用于皮肤保养。
-- "[moist](/post/moist/) [environment](/post/environment/)" 指湿润的环境。
+- "[moist](/zh/post/moist/) [environment](/zh/post/environment/)" 指湿润的环境。
 
 ## 例句
-- 形容词: "[Her](/post/her/) [skin](/post/skin/) felt [soft](/post/soft/) [and](/post/and/) [moist](/post/moist/) [after](/post/after/) applying [the](/post/the/) moisturizer."
-- 名词: "[The](/post/the/) plants [thrive](/post/thrive/) [in](/post/in/) [a](/post/a/) constantly [moist](/post/moist/) [environment](/post/environment/)."
+- 形容词: "[Her](/zh/post/her/) [skin](/zh/post/skin/) felt [soft](/zh/post/soft/) [and](/zh/post/and/) [moist](/zh/post/moist/) [after](/zh/post/after/) applying [the](/zh/post/the/) moisturizer."
+- 名词: "[The](/zh/post/the/) plants [thrive](/zh/post/thrive/) [in](/zh/post/in/) [a](/zh/post/a/) constantly [moist](/zh/post/moist/) [environment](/zh/post/environment/)."
 
 ## 同义词
-- [damp](/post/damp/)
-- [humid](/post/humid/)
-- [wet](/post/wet/)
+- [damp](/zh/post/damp/)
+- [humid](/zh/post/humid/)
+- [wet](/zh/post/wet/)
 - soggy
 - dewy

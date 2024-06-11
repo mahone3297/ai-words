@@ -12,26 +12,26 @@ keywords = ['ai words', 'journal']
 
 ## 释义
 - **名词**:
-   - 一本定期出版的学术或专业杂志，如"[scientific](/post/scientific/) [journal](/post/journal/)"（科学期刊）。
-   - 个人记事本或日记，如"[a](/post/a/) [travel](/post/travel/) [journal](/post/journal/)"（旅行日记）。
-   - 记录日常活动、思想或感受的日志，如"ship's [journal](/post/journal/)"（航海日志）。
+   - 一本定期出版的学术或专业杂志，如"[scientific](/zh/post/scientific/) [journal](/zh/post/journal/)"（科学期刊）。
+   - 个人记事本或日记，如"[a](/zh/post/a/) [travel](/zh/post/travel/) [journal](/zh/post/journal/)"（旅行日记）。
+   - 记录日常活动、思想或感受的日志，如"ship's [journal](/zh/post/journal/)"（航海日志）。
 
 - **动词**:
-   - 记录或写入日记，如"[He](/post/he/) journals [his](/post/his/) thoughts [every](/post/every/) [evening](/post/evening/)."（他每晚都记录自己的想法）。
+   - 记录或写入日记，如"[He](/zh/post/he/) journals [his](/zh/post/his/) thoughts [every](/zh/post/every/) [evening](/zh/post/evening/)."（他每晚都记录自己的想法）。
 
 ## 短语
-- "[Keep](/post/keep/) [a](/post/a/) [journal](/post/journal/)" 意为保持写日记的习惯。
-- "[Academic](/post/academic/) [journal](/post/journal/)" 指学术期刊。
-- "[Journal](/post/journal/) [entry](/post/entry/)" 指日记条目或会计上的分录。
+- "[Keep](/zh/post/keep/) [a](/zh/post/a/) [journal](/zh/post/journal/)" 意为保持写日记的习惯。
+- "[Academic](/zh/post/academic/) [journal](/zh/post/journal/)" 指学术期刊。
+- "[Journal](/zh/post/journal/) [entry](/zh/post/entry/)" 指日记条目或会计上的分录。
 
 ## 例句
-- 名词: "[She](/post/she/) published [her](/post/her/) [research](/post/research/) [in](/post/in/) [a](/post/a/) prestigious [medical](/post/medical/) [journal](/post/journal/)."
-- 动词: "I [always](/post/always/) [journal](/post/journal/) [my](/post/my/) feelings [to](/post/to/) [process](/post/process/) [them](/post/them/) [better](/post/better/)."
-- 感叹词（非正式使用，罕见）: "[Hello](/post/hello/), [journal](/post/journal/), [another](/post/another/) [day](/post/day/) has passed!"
+- 名词: "[She](/zh/post/she/) published [her](/zh/post/her/) [research](/zh/post/research/) [in](/zh/post/in/) [a](/zh/post/a/) prestigious [medical](/zh/post/medical/) [journal](/zh/post/journal/)."
+- 动词: "I [always](/zh/post/always/) [journal](/zh/post/journal/) [my](/zh/post/my/) feelings [to](/zh/post/to/) [process](/zh/post/process/) [them](/zh/post/them/) [better](/zh/post/better/)."
+- 感叹词（非正式使用，罕见）: "[Hello](/zh/post/hello/), [journal](/zh/post/journal/), [another](/zh/post/another/) [day](/zh/post/day/) has passed!"
 
 ## 同义词
-- [Magazine](/post/magazine/)
-- [Diary](/post/diary/)
+- [Magazine](/zh/post/magazine/)
+- [Diary](/zh/post/diary/)
 - Logbook
-- [Record](/post/record/)
-- [Publication](/post/publication/)
+- [Record](/zh/post/record/)
+- [Publication](/zh/post/publication/)

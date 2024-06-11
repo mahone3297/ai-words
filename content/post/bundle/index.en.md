@@ -7,36 +7,36 @@ description = '[ˈbʌndl] n.捆，包，束；包袱'
 keywords = ['ai words', 'bundle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bʌnd(ə)l/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) things tied, fastened, [or](/en/post/or/) bundled [together](/en/post/together/), [often](/en/post/often/) [for](/en/post/for/) [ease](/en/post/ease/) [of](/en/post/of/) handling [or](/en/post/or/) [transport](/en/post/transport/). **[Example](/en/post/example/):** "[A](/en/post/a/) [package](/en/post/package/) containing [a](/en/post/a/) [hardware](/en/post/hardware/) [bundle](/en/post/bundle/) [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [computer](/en/post/computer/)."
-2. An aggregate [of](/en/post/of/) items [or](/en/post/or/) ideas; [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [set](/en/post/set/). **[Example](/en/post/example/):** "[The](/en/post/the/) [bundle](/en/post/bundle/) [of](/en/post/of/) tasks assigned [to](/en/post/to/) [her](/en/post/her/) [for](/en/post/for/) [the](/en/post/the/) [day](/en/post/day/)."
-3. [A](/en/post/a/) [financial](/en/post/financial/) [arrangement](/en/post/arrangement/) [where](/en/post/where/) [multiple](/en/post/multiple/) products [or](/en/post/or/) services are offered [together](/en/post/together/) [at](/en/post/at/) [a](/en/post/a/) discounted [price](/en/post/price/). **[Example](/en/post/example/):** "[A](/en/post/a/) broadband [and](/en/post/and/) TV [bundle](/en/post/bundle/) [deal](/en/post/deal/) [from](/en/post/from/) [the](/en/post/the/) telecommunications [company](/en/post/company/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [collection](/post/collection/) [of](/post/of/) things tied, fastened, [or](/post/or/) bundled [together](/post/together/), [often](/post/often/) [for](/post/for/) [ease](/post/ease/) [of](/post/of/) handling [or](/post/or/) [transport](/post/transport/). **[Example](/post/example/):** "[A](/post/a/) [package](/post/package/) containing [a](/post/a/) [hardware](/post/hardware/) [bundle](/post/bundle/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [computer](/post/computer/)."
+2. An aggregate [of](/post/of/) items [or](/post/or/) ideas; [a](/post/a/) [group](/post/group/) [or](/post/or/) [set](/post/set/). **[Example](/post/example/):** "[The](/post/the/) [bundle](/post/bundle/) [of](/post/of/) tasks assigned [to](/post/to/) [her](/post/her/) [for](/post/for/) [the](/post/the/) [day](/post/day/)."
+3. [A](/post/a/) [financial](/post/financial/) [arrangement](/post/arrangement/) [where](/post/where/) [multiple](/post/multiple/) products [or](/post/or/) services are offered [together](/post/together/) [at](/post/at/) [a](/post/a/) discounted [price](/post/price/). **[Example](/post/example/):** "[A](/post/a/) broadband [and](/post/and/) TV [bundle](/post/bundle/) [deal](/post/deal/) [from](/post/from/) [the](/post/the/) telecommunications [company](/post/company/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [gather](/en/post/gather/) [or](/en/post/or/) [collect](/en/post/collect/) items [into](/en/post/into/) [a](/en/post/a/) [bundle](/en/post/bundle/). **[Example](/en/post/example/):** "[She](/en/post/she/) bundled [up](/en/post/up/) [the](/en/post/the/) newspapers [before](/en/post/before/) taking [them](/en/post/them/) [out](/en/post/out/) [for](/en/post/for/) recycling."
-2. [To](/en/post/to/) [package](/en/post/package/) [or](/en/post/or/) [present](/en/post/present/) items [as](/en/post/as/) [a](/en/post/a/) [single](/en/post/single/) offering. **[Example](/en/post/example/):** "[The](/en/post/the/) software [company](/en/post/company/) bundles [their](/en/post/their/) applications [in](/en/post/in/) [a](/en/post/a/) [convenient](/en/post/convenient/) suite."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [gather](/post/gather/) [or](/post/or/) [collect](/post/collect/) items [into](/post/into/) [a](/post/a/) [bundle](/post/bundle/). **[Example](/post/example/):** "[She](/post/she/) bundled [up](/post/up/) [the](/post/the/) newspapers [before](/post/before/) taking [them](/post/them/) [out](/post/out/) [for](/post/for/) recycling."
+2. [To](/post/to/) [package](/post/package/) [or](/post/or/) [present](/post/present/) items [as](/post/as/) [a](/post/a/) [single](/post/single/) offering. **[Example](/post/example/):** "[The](/post/the/) software [company](/post/company/) bundles [their](/post/their/) applications [in](/post/in/) [a](/post/a/) [convenient](/post/convenient/) suite."
 
 ## Phrases
-- "[To](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [bundle](/en/post/bundle/)" [means](/en/post/means/) [to](/en/post/to/) [gather](/en/post/gather/) [or](/en/post/or/) [tie](/en/post/tie/) things [together](/en/post/together/).
-- "[A](/en/post/a/) [bundle](/en/post/bundle/) [of](/en/post/of/) [joy](/en/post/joy/)" is [a](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) brings [happiness](/en/post/happiness/).
-- "[Bill](/en/post/bill/) [of](/en/post/of/) lading" is [a](/en/post/a/) [document](/en/post/document/) [that](/en/post/that/) binds [the](/en/post/the/) shipper, [carrier](/en/post/carrier/), [and](/en/post/and/) consignee [together](/en/post/together/) [in](/en/post/in/) [a](/en/post/a/) shipping [contract](/en/post/contract/).
+- "[To](/post/to/) [form](/post/form/) [a](/post/a/) [bundle](/post/bundle/)" [means](/post/means/) [to](/post/to/) [gather](/post/gather/) [or](/post/or/) [tie](/post/tie/) things [together](/post/together/).
+- "[A](/post/a/) [bundle](/post/bundle/) [of](/post/of/) [joy](/post/joy/)" is [a](/post/a/) [term](/post/term/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) brings [happiness](/post/happiness/).
+- "[Bill](/post/bill/) [of](/post/of/) lading" is [a](/post/a/) [document](/post/document/) [that](/post/that/) binds [the](/post/the/) shipper, [carrier](/post/carrier/), [and](/post/and/) consignee [together](/post/together/) [in](/post/in/) [a](/post/a/) shipping [contract](/post/contract/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) tied [the](/en/post/the/) [hay](/en/post/hay/) bales [into](/en/post/into/) [a](/en/post/a/) [neat](/en/post/neat/) [bundle](/en/post/bundle/) [for](/en/post/for/) [storage](/en/post/storage/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [carpenter](/en/post/carpenter/) bundled [the](/en/post/the/) leftover [wood](/en/post/wood/) [to](/en/post/to/) reuse [later](/en/post/later/)."
-- **[Financial](/en/post/financial/) [Bundle](/en/post/bundle/)**: "[Many](/en/post/many/) customers [choose](/en/post/choose/) [the](/en/post/the/) [monthly](/en/post/monthly/) [bundle](/en/post/bundle/) [that](/en/post/that/) includes internet, [phone](/en/post/phone/), [and](/en/post/and/) [cable](/en/post/cable/) [service](/en/post/service/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) tied [the](/post/the/) [hay](/post/hay/) bales [into](/post/into/) [a](/post/a/) [neat](/post/neat/) [bundle](/post/bundle/) [for](/post/for/) [storage](/post/storage/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [carpenter](/post/carpenter/) bundled [the](/post/the/) leftover [wood](/post/wood/) [to](/post/to/) reuse [later](/post/later/)."
+- **[Financial](/post/financial/) [Bundle](/post/bundle/)**: "[Many](/post/many/) customers [choose](/post/choose/) [the](/post/the/) [monthly](/post/monthly/) [bundle](/post/bundle/) [that](/post/that/) includes internet, [phone](/post/phone/), [and](/post/and/) [cable](/post/cable/) [service](/post/service/)."
 
 ## Synonyms
-- [Package](/en/post/package/)
-- [Lot](/en/post/lot/)
-- [Collection](/en/post/collection/)
+- [Package](/post/package/)
+- [Lot](/post/lot/)
+- [Collection](/post/collection/)
 - Assortment
 - Kit
 - Grouping
 - Aggregation
-- [Tie](/en/post/tie/) (informal)
-- [Contract](/en/post/contract/) ([financial](/en/post/financial/) context)
+- [Tie](/post/tie/) (informal)
+- [Contract](/post/contract/) ([financial](/post/financial/) context)

@@ -7,32 +7,32 @@ description = '[gein] vt.获得；增加 n.增进'
 keywords = ['ai words', 'gain']
 +++
 
-## [Word](/en/post/word/): [Gain](/en/post/gain/)
+## [Word](/post/word/): [Gain](/post/gain/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡeɪn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [increase](/en/post/increase/) [in](/en/post/in/) [amount](/en/post/amount/), [size](/en/post/size/), [value](/en/post/value/), [or](/en/post/or/) [degree](/en/post/degree/); [profit](/en/post/profit/) [or](/en/post/or/) [advantage](/en/post/advantage/) gained. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) reported [significant](/en/post/significant/) [financial](/en/post/financial/) gains [this](/en/post/this/) [quarter](/en/post/quarter/)."
-  - [Also](/en/post/also/), [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) acquiring [something](/en/post/something/) desired [or](/en/post/or/) [valuable](/en/post/valuable/): "[Through](/en/post/through/) [hard](/en/post/hard/) [work](/en/post/work/), [he](/en/post/he/) made [a](/en/post/a/) [gain](/en/post/gain/) [in](/en/post/in/) [knowledge](/en/post/knowledge/)."
+- **[Noun](/post/noun/)**: An [increase](/post/increase/) [in](/post/in/) [amount](/post/amount/), [size](/post/size/), [value](/post/value/), [or](/post/or/) [degree](/post/degree/); [profit](/post/profit/) [or](/post/or/) [advantage](/post/advantage/) gained. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) reported [significant](/post/significant/) [financial](/post/financial/) gains [this](/post/this/) [quarter](/post/quarter/)."
+  - [Also](/post/also/), [the](/post/the/) [act](/post/act/) [of](/post/of/) acquiring [something](/post/something/) desired [or](/post/or/) [valuable](/post/valuable/): "[Through](/post/through/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) made [a](/post/a/) [gain](/post/gain/) [in](/post/in/) [knowledge](/post/knowledge/)."
   
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [obtain](/en/post/obtain/) [or](/en/post/or/) [acquire](/en/post/acquire/) [something](/en/post/something/) [beneficial](/en/post/beneficial/), [often](/en/post/often/) [through](/en/post/through/) [effort](/en/post/effort/) [or](/en/post/or/) [experience](/en/post/experience/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) gained [a](/en/post/a/) [better](/en/post/better/) [understanding](/en/post/understanding/) [of](/en/post/of/) [the](/en/post/the/) [subject](/en/post/subject/) [after](/en/post/after/) attending [the](/en/post/the/) seminar."
-  - [Also](/en/post/also/), [to](/en/post/to/) [move](/en/post/move/) [forward](/en/post/forward/) [or](/en/post/or/) [make](/en/post/make/) [progress](/en/post/progress/) towards [a](/en/post/a/) [goal](/en/post/goal/); [to](/en/post/to/) [advance](/en/post/advance/) [or](/en/post/or/) [improve](/en/post/improve/) one's [position](/en/post/position/): "[The](/en/post/the/) [team](/en/post/team/) gained [ground](/en/post/ground/) [on](/en/post/on/) [their](/en/post/their/) opponents [during](/en/post/during/) [the](/en/post/the/) [second](/en/post/second/) [half](/en/post/half/) [of](/en/post/of/) [the](/en/post/the/) [game](/en/post/game/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [obtain](/post/obtain/) [or](/post/or/) [acquire](/post/acquire/) [something](/post/something/) [beneficial](/post/beneficial/), [often](/post/often/) [through](/post/through/) [effort](/post/effort/) [or](/post/or/) [experience](/post/experience/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) gained [a](/post/a/) [better](/post/better/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [subject](/post/subject/) [after](/post/after/) attending [the](/post/the/) seminar."
+  - [Also](/post/also/), [to](/post/to/) [move](/post/move/) [forward](/post/forward/) [or](/post/or/) [make](/post/make/) [progress](/post/progress/) towards [a](/post/a/) [goal](/post/goal/); [to](/post/to/) [advance](/post/advance/) [or](/post/or/) [improve](/post/improve/) one's [position](/post/position/): "[The](/post/the/) [team](/post/team/) gained [ground](/post/ground/) [on](/post/on/) [their](/post/their/) opponents [during](/post/during/) [the](/post/the/) [second](/post/second/) [half](/post/half/) [of](/post/of/) [the](/post/the/) [game](/post/game/)."
 
 ## Phrases
-- "[Gain](/en/post/gain/) an [advantage](/en/post/advantage/)" [means](/en/post/means/) [to](/en/post/to/) [acquire](/en/post/acquire/) [a](/en/post/a/) favorable [position](/en/post/position/) [over](/en/post/over/) others.
-- "[Gain](/en/post/gain/) insight" refers [to](/en/post/to/) obtaining [a](/en/post/a/) deeper [understanding](/en/post/understanding/) [or](/en/post/or/) clearer perception [of](/en/post/of/) [something](/en/post/something/).
-- "[Gain](/en/post/gain/) [weight](/en/post/weight/)" [means](/en/post/means/) [to](/en/post/to/) [put](/en/post/put/) [on](/en/post/on/) [or](/en/post/or/) [accumulate](/en/post/accumulate/) [more](/en/post/more/) [body](/en/post/body/) [mass](/en/post/mass/).
-- "[To](/en/post/to/) [gain](/en/post/gain/) [control](/en/post/control/)" implies taking [charge](/en/post/charge/) [or](/en/post/or/) asserting [authority](/en/post/authority/) [over](/en/post/over/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/).
+- "[Gain](/post/gain/) an [advantage](/post/advantage/)" [means](/post/means/) [to](/post/to/) [acquire](/post/acquire/) [a](/post/a/) favorable [position](/post/position/) [over](/post/over/) others.
+- "[Gain](/post/gain/) insight" refers [to](/post/to/) obtaining [a](/post/a/) deeper [understanding](/post/understanding/) [or](/post/or/) clearer perception [of](/post/of/) [something](/post/something/).
+- "[Gain](/post/gain/) [weight](/post/weight/)" [means](/post/means/) [to](/post/to/) [put](/post/put/) [on](/post/on/) [or](/post/or/) [accumulate](/post/accumulate/) [more](/post/more/) [body](/post/body/) [mass](/post/mass/).
+- "[To](/post/to/) [gain](/post/gain/) [control](/post/control/)" implies taking [charge](/post/charge/) [or](/post/or/) asserting [authority](/post/authority/) [over](/post/over/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Regular](/en/post/regular/) [exercise](/en/post/exercise/) [can](/en/post/can/) [lead](/en/post/lead/) [to](/en/post/to/) [both](/en/post/both/) [physical](/en/post/physical/) [and](/en/post/and/) [mental](/en/post/mental/) gains."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) studying [abroad](/en/post/abroad/), [she](/en/post/she/) gained fluency [in](/en/post/in/) French [and](/en/post/and/) [a](/en/post/a/) broader [perspective](/en/post/perspective/) [on](/en/post/on/) [life](/en/post/life/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Regular](/post/regular/) [exercise](/post/exercise/) [can](/post/can/) [lead](/post/lead/) [to](/post/to/) [both](/post/both/) [physical](/post/physical/) [and](/post/and/) [mental](/post/mental/) gains."
+- **[Verb](/post/verb/)**: "[After](/post/after/) studying [abroad](/post/abroad/), [she](/post/she/) gained fluency [in](/post/in/) French [and](/post/and/) [a](/post/a/) broader [perspective](/post/perspective/) [on](/post/on/) [life](/post/life/)."
 
 ## Synonyms
-- [Increase](/en/post/increase/) ([noun](/en/post/noun/))
-- [Profit](/en/post/profit/) ([noun](/en/post/noun/))
-- [Acquire](/en/post/acquire/) ([verb](/en/post/verb/))
-- [Attain](/en/post/attain/) ([verb](/en/post/verb/))
-- [Improve](/en/post/improve/) ([verb](/en/post/verb/))
-- Boost ([verb](/en/post/verb/))
+- [Increase](/post/increase/) ([noun](/post/noun/))
+- [Profit](/post/profit/) ([noun](/post/noun/))
+- [Acquire](/post/acquire/) ([verb](/post/verb/))
+- [Attain](/post/attain/) ([verb](/post/verb/))
+- [Improve](/post/improve/) ([verb](/post/verb/))
+- Boost ([verb](/post/verb/))

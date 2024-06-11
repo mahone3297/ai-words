@@ -11,20 +11,20 @@ keywords = ['ai words', 'warmth']
 /wɔːrmθ/
 
 ## 释义
-- **名词**: 温暖；暖和。指温度适宜或情感上的亲切感。例如: "[The](/post/the/) [warmth](/post/warmth/) [of](/post/of/) [the](/post/the/) [sun](/post/sun/) [on](/post/on/) [my](/post/my/) [face](/post/face/) was delightful." 
-- **形容词**: 温暖的；热情的。描述人的态度或气氛。例如: "[He](/post/he/) greeted [us](/post/us/) [with](/post/with/) [genuine](/post/genuine/) [warmth](/post/warmth/)."
+- **名词**: 温暖；暖和。指温度适宜或情感上的亲切感。例如: "[The](/zh/post/the/) [warmth](/zh/post/warmth/) [of](/zh/post/of/) [the](/zh/post/the/) [sun](/zh/post/sun/) [on](/zh/post/on/) [my](/zh/post/my/) [face](/zh/post/face/) was delightful." 
+- **形容词**: 温暖的；热情的。描述人的态度或气氛。例如: "[He](/zh/post/he/) greeted [us](/zh/post/us/) [with](/zh/post/with/) [genuine](/zh/post/genuine/) [warmth](/zh/post/warmth/)."
 
 ## 短语
-- "[Warmth](/post/warmth/) [of](/post/of/) [heart](/post/heart/)" 指内心的善良和热情。
-- "[The](/post/the/) [warmth](/post/warmth/) [of](/post/of/) [a](/post/a/) [fire](/post/fire/)" 指火炉或火源带来的热量。
+- "[Warmth](/zh/post/warmth/) [of](/zh/post/of/) [heart](/zh/post/heart/)" 指内心的善良和热情。
+- "[The](/zh/post/the/) [warmth](/zh/post/warmth/) [of](/zh/post/of/) [a](/zh/post/a/) [fire](/zh/post/fire/)" 指火炉或火源带来的热量。
 
 ## 例句
-- 名词: "I felt [the](/post/the/) [warmth](/post/warmth/) [of](/post/of/) [the](/post/the/) [room](/post/room/) [after](/post/after/) stepping [in](/post/in/) [from](/post/from/) [the](/post/the/) [cold](/post/cold/)."
-- 形容词: "[Her](/post/her/) hospitality was marked [by](/post/by/) [warmth](/post/warmth/) [and](/post/and/) generosity."
+- 名词: "I felt [the](/zh/post/the/) [warmth](/zh/post/warmth/) [of](/zh/post/of/) [the](/zh/post/the/) [room](/zh/post/room/) [after](/zh/post/after/) stepping [in](/zh/post/in/) [from](/zh/post/from/) [the](/zh/post/the/) [cold](/zh/post/cold/)."
+- 形容词: "[Her](/zh/post/her/) hospitality was marked [by](/zh/post/by/) [warmth](/zh/post/warmth/) [and](/zh/post/and/) generosity."
 
 ## 同义词
-- [Heat](/post/heat/)
+- [Heat](/zh/post/heat/)
 - Warmthy
 - Cordiality
 - Affectionate
-- [Friendly](/post/friendly/)
+- [Friendly](/zh/post/friendly/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'dew']
 /djuː/
 
 ## 释义
-- **名词**: 早上的露水；露珠。例如: "[The](/post/the/) [grass](/post/grass/) was covered [in](/post/in/) [dew](/post/dew/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
-- **形容词**: 带有露水的；清新的。例如: "dewy [morning](/post/morning/)"（露珠晶莹的早晨）
+- **名词**: 早上的露水；露珠。例如: "[The](/zh/post/the/) [grass](/zh/post/grass/) was covered [in](/zh/post/in/) [dew](/zh/post/dew/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+- **形容词**: 带有露水的；清新的。例如: "dewy [morning](/zh/post/morning/)"（露珠晶莹的早晨）
 
 ## 短语
-- "[dew](/post/dew/) [on](/post/on/) [the](/post/the/) [grass](/post/grass/)" 草叶上的露水
+- "[dew](/zh/post/dew/) [on](/zh/post/on/) [the](/zh/post/the/) [grass](/zh/post/grass/)" 草叶上的露水
 - "dew-covered" 露水覆盖的
 
 ## 例句
-- 名词: "[The](/post/the/) [spider](/post/spider/) climbed [up](/post/up/) [the](/post/the/) [blade](/post/blade/) [of](/post/of/) [grass](/post/grass/), glistening [with](/post/with/) [dew](/post/dew/)."
-- 形容词: "[Her](/post/her/) [face](/post/face/) looked [fresh](/post/fresh/) [and](/post/and/) dewy [after](/post/after/) [her](/post/her/) [morning](/post/morning/) [run](/post/run/)."
+- 名词: "[The](/zh/post/the/) [spider](/zh/post/spider/) climbed [up](/zh/post/up/) [the](/zh/post/the/) [blade](/zh/post/blade/) [of](/zh/post/of/) [grass](/zh/post/grass/), glistening [with](/zh/post/with/) [dew](/zh/post/dew/)."
+- 形容词: "[Her](/zh/post/her/) [face](/zh/post/face/) looked [fresh](/zh/post/fresh/) [and](/zh/post/and/) dewy [after](/zh/post/after/) [her](/zh/post/her/) [morning](/zh/post/morning/) [run](/zh/post/run/)."
 
 ## 同义词
-- [moisture](/post/moisture/)
+- [moisture](/zh/post/moisture/)
 - dampness
 - freshness
 - glimmer
-- [morning](/post/morning/) [moisture](/post/moisture/)
+- [morning](/zh/post/morning/) [moisture](/zh/post/moisture/)

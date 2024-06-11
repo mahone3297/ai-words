@@ -11,19 +11,19 @@ keywords = ['ai words', 'third']
 /θɜːrd/
 
 ## 释义
-- **数词**: 表示数字3，顺序为第一和第二之后。例如: "[There](/post/there/) are [three](/post/three/) apples [on](/post/on/) [the](/post/the/) [table](/post/table/), [the](/post/the/) [first](/post/first/), [the](/post/the/) [second](/post/second/), [and](/post/and/) [the](/post/the/) [third](/post/third/)."
+- **数词**: 表示数字3，顺序为第一和第二之后。例如: "[There](/zh/post/there/) are [three](/zh/post/three/) apples [on](/zh/post/on/) [the](/zh/post/the/) [table](/zh/post/table/), [the](/zh/post/the/) [first](/zh/post/first/), [the](/zh/post/the/) [second](/zh/post/second/), [and](/zh/post/and/) [the](/zh/post/the/) [third](/zh/post/third/)."
 
 ## 短语
-- "[Third](/post/third/) time's [the](/post/the/) charm" 意味着第三次尝试通常会成功。
-- "[In](/post/in/) [third](/post/third/) [place](/post/place/)" 指排名第三的位置。
+- "[Third](/zh/post/third/) time's [the](/zh/post/the/) charm" 意味着第三次尝试通常会成功。
+- "[In](/zh/post/in/) [third](/zh/post/third/) [place](/zh/post/place/)" 指排名第三的位置。
 
 ## 例句
-- "[The](/post/the/) [third](/post/third/) [person](/post/person/) [in](/post/in/) [line](/post/line/) [will](/post/will/) [receive](/post/receive/) [a](/post/a/) [free](/post/free/) [ticket](/post/ticket/)."
-- "[She](/post/she/) came [third](/post/third/) [in](/post/in/) [the](/post/the/) [race](/post/race/), [just](/post/just/) [behind](/post/behind/) [the](/post/the/) [two](/post/two/) frontrunners."
+- "[The](/zh/post/the/) [third](/zh/post/third/) [person](/zh/post/person/) [in](/zh/post/in/) [line](/zh/post/line/) [will](/zh/post/will/) [receive](/zh/post/receive/) [a](/zh/post/a/) [free](/zh/post/free/) [ticket](/zh/post/ticket/)."
+- "[She](/zh/post/she/) came [third](/zh/post/third/) [in](/zh/post/in/) [the](/zh/post/the/) [race](/zh/post/race/), [just](/zh/post/just/) [behind](/zh/post/behind/) [the](/zh/post/the/) [two](/zh/post/two/) frontrunners."
 
 ## 同义词
-- [Thirdly](/post/thirdly/)
-- [Number](/post/number/) [three](/post/three/)
+- [Thirdly](/zh/post/thirdly/)
+- [Number](/zh/post/number/) [three](/zh/post/three/)
 - Tertiary
 - Thirdmost
-- [The](/post/the/) [next](/post/next/) [one](/post/one/) [after](/post/after/) [second](/post/second/)
+- [The](/zh/post/the/) [next](/zh/post/next/) [one](/zh/post/one/) [after](/zh/post/after/) [second](/zh/post/second/)

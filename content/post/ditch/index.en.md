@@ -7,39 +7,39 @@ description = '[dit∫] n.沟，沟渠，渠道'
 keywords = ['ai words', 'ditch']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪtʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [ditch](/en/post/ditch/) is [a](/en/post/a/) [shallow](/en/post/shallow/), [narrow](/en/post/narrow/) [channel](/en/post/channel/), [often](/en/post/often/) dug [to](/en/post/to/) [drain](/en/post/drain/) [water](/en/post/water/) [or](/en/post/or/) [to](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) [a](/en/post/a/) [barrier](/en/post/barrier/) [or](/en/post/or/) [boundary](/en/post/boundary/), [especially](/en/post/especially/) [one](/en/post/one/) [in](/en/post/in/) [a](/en/post/a/) [field](/en/post/field/) [or](/en/post/or/) [road](/en/post/road/).
-- [In](/en/post/in/) British English, [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [long](/en/post/long/), [narrow](/en/post/narrow/) depression [or](/en/post/or/) gutter [in](/en/post/in/) [a](/en/post/a/) [surface](/en/post/surface/) (e.g., [a](/en/post/a/) [ditch](/en/post/ditch/) [along](/en/post/along/) [a](/en/post/a/) [highway](/en/post/highway/)).
+### [Noun](/post/noun/)
+- [A](/post/a/) [ditch](/post/ditch/) is [a](/post/a/) [shallow](/post/shallow/), [narrow](/post/narrow/) [channel](/post/channel/), [often](/post/often/) dug [to](/post/to/) [drain](/post/drain/) [water](/post/water/) [or](/post/or/) [to](/post/to/) [serve](/post/serve/) [as](/post/as/) [a](/post/a/) [barrier](/post/barrier/) [or](/post/or/) [boundary](/post/boundary/), [especially](/post/especially/) [one](/post/one/) [in](/post/in/) [a](/post/a/) [field](/post/field/) [or](/post/or/) [road](/post/road/).
+- [In](/post/in/) British English, [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [long](/post/long/), [narrow](/post/narrow/) depression [or](/post/or/) gutter [in](/post/in/) [a](/post/a/) [surface](/post/surface/) (e.g., [a](/post/a/) [ditch](/post/ditch/) [along](/post/along/) [a](/post/a/) [highway](/post/highway/)).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [ditch](/en/post/ditch/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) is [to](/en/post/to/) [abandon](/en/post/abandon/), [leave](/en/post/leave/), [or](/en/post/or/) [discard](/en/post/discard/) [them](/en/post/them/), [often](/en/post/often/) abruptly [or](/en/post/or/) unexpectedly.
-- [In](/en/post/in/) [a](/en/post/a/) [more](/en/post/more/) colloquial [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [avoid](/en/post/avoid/) [or](/en/post/or/) skip an obligation [or](/en/post/or/) commitment.
+### [Verb](/post/verb/)
+- [To](/post/to/) [ditch](/post/ditch/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) is [to](/post/to/) [abandon](/post/abandon/), [leave](/post/leave/), [or](/post/or/) [discard](/post/discard/) [them](/post/them/), [often](/post/often/) abruptly [or](/post/or/) unexpectedly.
+- [In](/post/in/) [a](/post/a/) [more](/post/more/) colloquial [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [avoid](/post/avoid/) [or](/post/or/) skip an obligation [or](/post/or/) commitment.
 
 ## Phrases
-- "[Ditch](/en/post/ditch/) [the](/en/post/the/) [car](/en/post/car/)" [means](/en/post/means/) [to](/en/post/to/) [leave](/en/post/leave/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [behind](/en/post/behind/).
-- "Ditching homework" refers [to](/en/post/to/) [not](/en/post/not/) completing [or](/en/post/or/) submitting schoolwork.
-- "Ditching [tradition](/en/post/tradition/)" signifies breaking [away](/en/post/away/) [from](/en/post/from/) established customs [or](/en/post/or/) practices.
+- "[Ditch](/post/ditch/) [the](/post/the/) [car](/post/car/)" [means](/post/means/) [to](/post/to/) [leave](/post/leave/) [a](/post/a/) [vehicle](/post/vehicle/) [behind](/post/behind/).
+- "Ditching homework" refers [to](/post/to/) [not](/post/not/) completing [or](/post/or/) submitting schoolwork.
+- "Ditching [tradition](/post/tradition/)" signifies breaking [away](/post/away/) [from](/post/from/) established customs [or](/post/or/) practices.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) had [to](/en/post/to/) [repair](/en/post/repair/) [the](/en/post/the/) irrigation [ditch](/en/post/ditch/) [to](/en/post/to/) [prevent](/en/post/prevent/) crops [from](/en/post/from/) drowning."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) heated [argument](/en/post/argument/), [they](/en/post/they/) decided [to](/en/post/to/) [ditch](/en/post/ditch/) [their](/en/post/their/) [vacation](/en/post/vacation/) plans."
-- **Informal**: "[He](/en/post/he/) ditched [his](/en/post/his/) [suit](/en/post/suit/) [for](/en/post/for/) [a](/en/post/a/) [more](/en/post/more/) [casual](/en/post/casual/) outfit [for](/en/post/for/) [the](/en/post/the/) [party](/en/post/party/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) had [to](/post/to/) [repair](/post/repair/) [the](/post/the/) irrigation [ditch](/post/ditch/) [to](/post/to/) [prevent](/post/prevent/) crops [from](/post/from/) drowning."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) heated [argument](/post/argument/), [they](/post/they/) decided [to](/post/to/) [ditch](/post/ditch/) [their](/post/their/) [vacation](/post/vacation/) plans."
+- **Informal**: "[He](/post/he/) ditched [his](/post/his/) [suit](/post/suit/) [for](/post/for/) [a](/post/a/) [more](/post/more/) [casual](/post/casual/) outfit [for](/post/for/) [the](/post/the/) [party](/post/party/)."
 
 ## Synonyms
-- [Abandon](/en/post/abandon/)
-- [Discard](/en/post/discard/)
-- [Desert](/en/post/desert/)
+- [Abandon](/post/abandon/)
+- [Discard](/post/discard/)
+- [Desert](/post/desert/)
 - Skip
-- [Escape](/en/post/escape/)
-- [Avoid](/en/post/avoid/)
+- [Escape](/post/escape/)
+- [Avoid](/post/avoid/)
 
 ## Antonyms
-- [Maintain](/en/post/maintain/)
-- [Keep](/en/post/keep/)
-- [Stick](/en/post/stick/) [with](/en/post/with/)
-- [Persist](/en/post/persist/) [in](/en/post/in/)
-- [Follow](/en/post/follow/) [through](/en/post/through/) [on](/en/post/on/)
+- [Maintain](/post/maintain/)
+- [Keep](/post/keep/)
+- [Stick](/post/stick/) [with](/post/with/)
+- [Persist](/post/persist/) [in](/post/in/)
+- [Follow](/post/follow/) [through](/post/through/) [on](/post/on/)

@@ -7,57 +7,57 @@ description = '[jəː] n.年；年年'
 keywords = ['ai words', 'year']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjɪər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) 365 days, [approximately](/en/post/approximately/), [that](/en/post/that/) revolves [around](/en/post/around/) [the](/en/post/the/) Earth's [orbit](/en/post/orbit/) [around](/en/post/around/) [the](/en/post/the/) [Sun](/en/post/sun/), marking [the](/en/post/the/) [cycle](/en/post/cycle/) [of](/en/post/of/) seasons.
-   - [Definition](/en/post/definition/): [The](/en/post/the/) [time](/en/post/time/) [between](/en/post/between/) [one](/en/post/one/) [birthday](/en/post/birthday/) [and](/en/post/and/) [the](/en/post/the/) [next](/en/post/next/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [year](/en/post/year/) began [with](/en/post/with/) resolutions [and](/en/post/and/) [hope](/en/post/hope/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [period](/post/period/) [of](/post/of/) 365 days, [approximately](/post/approximately/), [that](/post/that/) revolves [around](/post/around/) [the](/post/the/) Earth's [orbit](/post/orbit/) [around](/post/around/) [the](/post/the/) [Sun](/post/sun/), marking [the](/post/the/) [cycle](/post/cycle/) [of](/post/of/) seasons.
+   - [Definition](/post/definition/): [The](/post/the/) [time](/post/time/) [between](/post/between/) [one](/post/one/) [birthday](/post/birthday/) [and](/post/and/) [the](/post/the/) [next](/post/next/).
+   - [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [year](/post/year/) began [with](/post/with/) resolutions [and](/post/and/) [hope](/post/hope/)."
 
-2. [A](/en/post/a/) [calendar](/en/post/calendar/) [year](/en/post/year/), [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [instance](/en/post/instance/) [or](/en/post/or/) [a](/en/post/a/) [particular](/en/post/particular/) [duration](/en/post/duration/).
-   - [Example](/en/post/example/): "I'll [remember](/en/post/remember/) [this](/en/post/this/) [year](/en/post/year/) [forever](/en/post/forever/)."
+2. [A](/post/a/) [calendar](/post/calendar/) [year](/post/year/), [often](/post/often/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [instance](/post/instance/) [or](/post/or/) [a](/post/a/) [particular](/post/particular/) [duration](/post/duration/).
+   - [Example](/post/example/): "I'll [remember](/post/remember/) [this](/post/this/) [year](/post/year/) [forever](/post/forever/)."
 
-3. An [annual](/en/post/annual/) [event](/en/post/event/) [or](/en/post/or/) [cycle](/en/post/cycle/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) fiscal [year](/en/post/year/) [or](/en/post/or/) [academic](/en/post/academic/) [year](/en/post/year/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) company's [financial](/en/post/financial/) [year](/en/post/year/) ends [in](/en/post/in/) June."
+3. An [annual](/post/annual/) [event](/post/event/) [or](/post/or/) [cycle](/post/cycle/), [such](/post/such/) [as](/post/as/) [a](/post/a/) fiscal [year](/post/year/) [or](/post/or/) [academic](/post/academic/) [year](/post/year/).
+   - [Example](/post/example/): "[The](/post/the/) company's [financial](/post/financial/) [year](/post/year/) ends [in](/post/in/) June."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [indicate](/en/post/indicate/) [or](/en/post/or/) [celebrate](/en/post/celebrate/) [the](/en/post/the/) [passage](/en/post/passage/) [of](/en/post/of/) [time](/en/post/time/) [from](/en/post/from/) [one](/en/post/one/) [year](/en/post/year/) [to](/en/post/to/) [the](/en/post/the/) [next](/en/post/next/).
-   - [Example](/en/post/example/): "[We](/en/post/we/) traditionally [ring](/en/post/ring/) [in](/en/post/in/) [the](/en/post/the/) [new](/en/post/new/) [year](/en/post/year/) [at](/en/post/at/) [midnight](/en/post/midnight/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [indicate](/post/indicate/) [or](/post/or/) [celebrate](/post/celebrate/) [the](/post/the/) [passage](/post/passage/) [of](/post/of/) [time](/post/time/) [from](/post/from/) [one](/post/one/) [year](/post/year/) [to](/post/to/) [the](/post/the/) [next](/post/next/).
+   - [Example](/post/example/): "[We](/post/we/) traditionally [ring](/post/ring/) [in](/post/in/) [the](/post/the/) [new](/post/new/) [year](/post/year/) [at](/post/at/) [midnight](/post/midnight/)."
 
-2. [To](/en/post/to/) denote [a](/en/post/a/) [particular](/en/post/particular/) [year](/en/post/year/) [or](/en/post/or/) [period](/en/post/period/) [in](/en/post/in/) [history](/en/post/history/) [or](/en/post/or/) chronology.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [event](/en/post/event/) took [place](/en/post/place/) [in](/en/post/in/) [the](/en/post/the/) [year](/en/post/year/) 1900."
+2. [To](/post/to/) denote [a](/post/a/) [particular](/post/particular/) [year](/post/year/) [or](/post/or/) [period](/post/period/) [in](/post/in/) [history](/post/history/) [or](/post/or/) chronology.
+   - [Example](/post/example/): "[The](/post/the/) [event](/post/event/) took [place](/post/place/) [in](/post/in/) [the](/post/the/) [year](/post/year/) 1900."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [a](/en/post/a/) [year](/en/post/year/) [or](/en/post/or/) years.
-   - [Example](/en/post/example/): "[This](/en/post/this/) year's sales figures [have](/en/post/have/) been [impressive](/en/post/impressive/)."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [a](/post/a/) [year](/post/year/) [or](/post/or/) years.
+   - [Example](/post/example/): "[This](/post/this/) year's sales figures [have](/post/have/) been [impressive](/post/impressive/)."
 
-### [Noun](/en/post/noun/) (countable & uncountable)
-- Countable: Referring [to](/en/post/to/) [each](/en/post/each/) [individual](/en/post/individual/) [year](/en/post/year/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) has lived [through](/en/post/through/) [three](/en/post/three/) decades [of](/en/post/of/) [good](/en/post/good/) years."
-- Uncountable: Referring [to](/en/post/to/) [the](/en/post/the/) [concept](/en/post/concept/) [as](/en/post/as/) [a](/en/post/a/) [whole](/en/post/whole/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [year](/en/post/year/) was filled [with](/en/post/with/) challenges."
+### [Noun](/post/noun/) (countable & uncountable)
+- Countable: Referring [to](/post/to/) [each](/post/each/) [individual](/post/individual/) [year](/post/year/) [in](/post/in/) [a](/post/a/) [series](/post/series/).
+   - [Example](/post/example/): "[She](/post/she/) has lived [through](/post/through/) [three](/post/three/) decades [of](/post/of/) [good](/post/good/) years."
+- Uncountable: Referring [to](/post/to/) [the](/post/the/) [concept](/post/concept/) [as](/post/as/) [a](/post/a/) [whole](/post/whole/).
+   - [Example](/post/example/): "[The](/post/the/) [year](/post/year/) was filled [with](/post/with/) challenges."
 
 ## Phrases
-- "[New](/en/post/new/) Year's [Eve](/en/post/eve/)" is [the](/en/post/the/) [night](/en/post/night/) [before](/en/post/before/) [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [a](/en/post/a/) [new](/en/post/new/) [calendar](/en/post/calendar/) [year](/en/post/year/).
-- "Year-end [review](/en/post/review/)" is [a](/en/post/a/) [process](/en/post/process/) [of](/en/post/of/) evaluating [performance](/en/post/performance/) [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/).
-- "[Leap](/en/post/leap/) [year](/en/post/year/)" is [a](/en/post/a/) [calendar](/en/post/calendar/) [year](/en/post/year/) [with](/en/post/with/) 366 days, occurring [every](/en/post/every/) [four](/en/post/four/) years.
+- "[New](/post/new/) Year's [Eve](/post/eve/)" is [the](/post/the/) [night](/post/night/) [before](/post/before/) [the](/post/the/) [start](/post/start/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [calendar](/post/calendar/) [year](/post/year/).
+- "Year-end [review](/post/review/)" is [a](/post/a/) [process](/post/process/) [of](/post/of/) evaluating [performance](/post/performance/) [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [year](/post/year/).
+- "[Leap](/post/leap/) [year](/post/year/)" is [a](/post/a/) [calendar](/post/calendar/) [year](/post/year/) [with](/post/with/) 366 days, occurring [every](/post/every/) [four](/post/four/) years.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Next](/en/post/next/) [year](/en/post/year/), [we](/en/post/we/) [plan](/en/post/plan/) [to](/en/post/to/) [visit](/en/post/visit/) Europe [during](/en/post/during/) [the](/en/post/the/) [summer](/en/post/summer/)."
-- **[Verb](/en/post/verb/)**: "It's been [five](/en/post/five/) years [since](/en/post/since/) [we](/en/post/we/) [last](/en/post/last/) met."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [weather](/en/post/weather/) [this](/en/post/this/) [year](/en/post/year/) has been [unusually](/en/post/unusually/) [mild](/en/post/mild/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Next](/post/next/) [year](/post/year/), [we](/post/we/) [plan](/post/plan/) [to](/post/to/) [visit](/post/visit/) Europe [during](/post/during/) [the](/post/the/) [summer](/post/summer/)."
+- **[Verb](/post/verb/)**: "It's been [five](/post/five/) years [since](/post/since/) [we](/post/we/) [last](/post/last/) met."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [weather](/post/weather/) [this](/post/this/) [year](/post/year/) has been [unusually](/post/unusually/) [mild](/post/mild/)."
 
 ## Synonyms
-- [Calendar](/en/post/calendar/) [year](/en/post/year/)
-- [Annual](/en/post/annual/)
-- Gregorian [year](/en/post/year/)
-- [Season](/en/post/season/)
+- [Calendar](/post/calendar/) [year](/post/year/)
+- [Annual](/post/annual/)
+- Gregorian [year](/post/year/)
+- [Season](/post/season/)
 - Epoch
-- [Time](/en/post/time/) [frame](/en/post/frame/)
-- [Era](/en/post/era/)
+- [Time](/post/time/) [frame](/post/frame/)
+- [Era](/post/era/)
 
 ## Antonyms
-- [Past](/en/post/past/) ([for](/en/post/for/) '[previous](/en/post/previous/) [year](/en/post/year/)')
-- [Future](/en/post/future/) ([for](/en/post/for/) '[next](/en/post/next/) [year](/en/post/year/)')
+- [Past](/post/past/) ([for](/post/for/) '[previous](/post/previous/) [year](/post/year/)')
+- [Future](/post/future/) ([for](/post/for/) '[next](/post/next/) [year](/post/year/)')

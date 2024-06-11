@@ -7,38 +7,38 @@ description = '[riˈlʌktənt] a.不愿的，勉强的'
 keywords = ['ai words', 'reluctant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈlɛktn/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Unwilling](/en/post/unwilling/) [or](/en/post/or/) hesitant [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/); [slow](/en/post/slow/) [to](/en/post/to/) [take](/en/post/take/) [action](/en/post/action/) [or](/en/post/or/) [make](/en/post/make/) [a](/en/post/a/) [decision](/en/post/decision/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was [reluctant](/en/post/reluctant/) [to](/en/post/to/) [accept](/en/post/accept/) [the](/en/post/the/) [invitation](/en/post/invitation/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [act](/en/post/act/) [unwilling](/en/post/unwilling/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/);不愿意. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) reluctantly agreed [to](/en/post/to/) [help](/en/post/help/)."
-- **[Adverb](/en/post/adverb/)**: Reluctantly, [meaning](/en/post/meaning/) [with](/en/post/with/) hesitation [or](/en/post/or/) unwillingness. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) reluctantly stepped [forward](/en/post/forward/) [to](/en/post/to/) [speak](/en/post/speak/)."
+- **[Adjective](/post/adjective/)**: [Unwilling](/post/unwilling/) [or](/post/or/) hesitant [to](/post/to/) [do](/post/do/) [something](/post/something/); [slow](/post/slow/) [to](/post/to/) [take](/post/take/) [action](/post/action/) [or](/post/or/) [make](/post/make/) [a](/post/a/) [decision](/post/decision/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) was [reluctant](/post/reluctant/) [to](/post/to/) [accept](/post/accept/) [the](/post/the/) [invitation](/post/invitation/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [act](/post/act/) [unwilling](/post/unwilling/) [to](/post/to/) [do](/post/do/) [something](/post/something/);不愿意. [For](/post/for/) [example](/post/example/): "[She](/post/she/) reluctantly agreed [to](/post/to/) [help](/post/help/)."
+- **[Adverb](/post/adverb/)**: Reluctantly, [meaning](/post/meaning/) [with](/post/with/) hesitation [or](/post/or/) unwillingness. [For](/post/for/) [example](/post/example/): "[He](/post/he/) reluctantly stepped [forward](/post/forward/) [to](/post/to/) [speak](/post/speak/)."
 
 ## Phrases
-- "[Reluctant](/en/post/reluctant/) [acceptance](/en/post/acceptance/)" implies [a](/en/post/a/) forced [agreement](/en/post/agreement/).
-- "[A](/en/post/a/) [reluctant](/en/post/reluctant/) [hero](/en/post/hero/)" describes [someone](/en/post/someone/) [who](/en/post/who/) isn't initially [willing](/en/post/willing/) [but](/en/post/but/) ends [up](/en/post/up/) stepping [up](/en/post/up/).
-- "Reluctantly agreeing" indicates [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [enthusiasm](/en/post/enthusiasm/).
+- "[Reluctant](/post/reluctant/) [acceptance](/post/acceptance/)" implies [a](/post/a/) forced [agreement](/post/agreement/).
+- "[A](/post/a/) [reluctant](/post/reluctant/) [hero](/post/hero/)" describes [someone](/post/someone/) [who](/post/who/) isn't initially [willing](/post/willing/) [but](/post/but/) ends [up](/post/up/) stepping [up](/post/up/).
+- "Reluctantly agreeing" indicates [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [enthusiasm](/post/enthusiasm/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Despite](/en/post/despite/) [her](/en/post/her/) [initial](/en/post/initial/) reluctance, [she](/en/post/she/) [eventually](/en/post/eventually/) joined [the](/en/post/the/) [team](/en/post/team/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) reluctantly handed [over](/en/post/over/) [his](/en/post/his/) [wallet](/en/post/wallet/) [when](/en/post/when/) asked."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) reluctantly opened [the](/en/post/the/) [box](/en/post/box/), revealing [its](/en/post/its/) contents."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Despite](/post/despite/) [her](/post/her/) [initial](/post/initial/) reluctance, [she](/post/she/) [eventually](/post/eventually/) joined [the](/post/the/) [team](/post/team/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) reluctantly handed [over](/post/over/) [his](/post/his/) [wallet](/post/wallet/) [when](/post/when/) asked."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) reluctantly opened [the](/post/the/) [box](/post/box/), revealing [its](/post/its/) contents."
 
 ## Synonyms
-- [Unwilling](/en/post/unwilling/)
+- [Unwilling](/post/unwilling/)
 - Hesitant
-- [Reluctant](/en/post/reluctant/)
+- [Reluctant](/post/reluctant/)
 - Reluctancy
 - Reluctantness
 
 ## Antonyms
-- [Willing](/en/post/willing/)
-- [Eager](/en/post/eager/)
-- [Prompt](/en/post/prompt/)
-- [Readily](/en/post/readily/)
+- [Willing](/post/willing/)
+- [Eager](/post/eager/)
+- [Prompt](/post/prompt/)
+- [Readily](/post/readily/)
 
-## [Usage](/en/post/usage/)
-- "[His](/en/post/his/) reluctance [to](/en/post/to/) [change](/en/post/change/) [his](/en/post/his/) [mind](/en/post/mind/) was [evident](/en/post/evident/)."
-- "[She](/en/post/she/) reluctantly submitted [to](/en/post/to/) [the](/en/post/the/) doctor's [examination](/en/post/examination/)."
-- "[The](/en/post/the/) [team](/en/post/team/) [leader](/en/post/leader/) had [to](/en/post/to/) [convince](/en/post/convince/) [the](/en/post/the/) [reluctant](/en/post/reluctant/) [member](/en/post/member/) [to](/en/post/to/) [participate](/en/post/participate/)."
+## [Usage](/post/usage/)
+- "[His](/post/his/) reluctance [to](/post/to/) [change](/post/change/) [his](/post/his/) [mind](/post/mind/) was [evident](/post/evident/)."
+- "[She](/post/she/) reluctantly submitted [to](/post/to/) [the](/post/the/) doctor's [examination](/post/examination/)."
+- "[The](/post/the/) [team](/post/team/) [leader](/post/leader/) had [to](/post/to/) [convince](/post/convince/) [the](/post/the/) [reluctant](/post/reluctant/) [member](/post/member/) [to](/post/to/) [participate](/post/participate/)."

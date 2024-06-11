@@ -7,31 +7,31 @@ description = '[fəˈget] vt.忘记，遗忘'
 keywords = ['ai words', 'forget']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fərˈɡet/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [fail](/en/post/fail/) [to](/en/post/to/) [remember](/en/post/remember/); [to](/en/post/to/) [be](/en/post/be/) [unable](/en/post/unable/) [to](/en/post/to/) [recall](/en/post/recall/) [information](/en/post/information/) [or](/en/post/or/) events [from](/en/post/from/) one's [memory](/en/post/memory/). [For](/en/post/for/) [example](/en/post/example/): "I forgot [my](/en/post/my/) password."
-  - [Also](/en/post/also/) [used](/en/post/used/) transitively [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) has been [left](/en/post/left/) [behind](/en/post/behind/) [or](/en/post/or/) [not](/en/post/not/) done: "Don't [forget](/en/post/forget/) [your](/en/post/your/) [umbrella](/en/post/umbrella/)."
-- **[Verb](/en/post/verb/) (archaic)**: [To](/en/post/to/) [neglect](/en/post/neglect/) [or](/en/post/or/) [omit](/en/post/omit/) intentionally.
+- **[Verb](/post/verb/)**: [To](/post/to/) [fail](/post/fail/) [to](/post/to/) [remember](/post/remember/); [to](/post/to/) [be](/post/be/) [unable](/post/unable/) [to](/post/to/) [recall](/post/recall/) [information](/post/information/) [or](/post/or/) events [from](/post/from/) one's [memory](/post/memory/). [For](/post/for/) [example](/post/example/): "I forgot [my](/post/my/) password."
+  - [Also](/post/also/) [used](/post/used/) transitively [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) has been [left](/post/left/) [behind](/post/behind/) [or](/post/or/) [not](/post/not/) done: "Don't [forget](/post/forget/) [your](/post/your/) [umbrella](/post/umbrella/)."
+- **[Verb](/post/verb/) (archaic)**: [To](/post/to/) [neglect](/post/neglect/) [or](/post/or/) [omit](/post/omit/) intentionally.
 
 ## Phrases
-- "[Forget](/en/post/forget/) [about](/en/post/about/) [it](/en/post/it/)" is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) [should](/en/post/should/) [be](/en/post/be/) disregarded [or](/en/post/or/) forgiven.
-- "[To](/en/post/to/) [forget](/en/post/forget/) [oneself](/en/post/oneself/)" [means](/en/post/means/) [to](/en/post/to/) [lose](/en/post/lose/) self-control [or](/en/post/or/) [become](/en/post/become/) [so](/en/post/so/) absorbed [in](/en/post/in/) an [activity](/en/post/activity/) [that](/en/post/that/) [one](/en/post/one/) loses awareness [of](/en/post/of/) [their](/en/post/their/) [surroundings](/en/post/surroundings/) [or](/en/post/or/) [behavior](/en/post/behavior/).
-- "[To](/en/post/to/) [forget](/en/post/forget/) [the](/en/post/the/) [time](/en/post/time/)" implies [being](/en/post/being/) [so](/en/post/so/) engaged [in](/en/post/in/) an [activity](/en/post/activity/) [that](/en/post/that/) [one](/en/post/one/) loses [track](/en/post/track/) [of](/en/post/of/) [the](/en/post/the/) [clock](/en/post/clock/).
+- "[Forget](/post/forget/) [about](/post/about/) [it](/post/it/)" is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) [should](/post/should/) [be](/post/be/) disregarded [or](/post/or/) forgiven.
+- "[To](/post/to/) [forget](/post/forget/) [oneself](/post/oneself/)" [means](/post/means/) [to](/post/to/) [lose](/post/lose/) self-control [or](/post/or/) [become](/post/become/) [so](/post/so/) absorbed [in](/post/in/) an [activity](/post/activity/) [that](/post/that/) [one](/post/one/) loses awareness [of](/post/of/) [their](/post/their/) [surroundings](/post/surroundings/) [or](/post/or/) [behavior](/post/behavior/).
+- "[To](/post/to/) [forget](/post/forget/) [the](/post/the/) [time](/post/time/)" implies [being](/post/being/) [so](/post/so/) engaged [in](/post/in/) an [activity](/post/activity/) [that](/post/that/) [one](/post/one/) loses [track](/post/track/) [of](/post/of/) [the](/post/the/) [clock](/post/clock/).
   
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I forgot [to](/en/post/to/) [call](/en/post/call/) [my](/en/post/my/) [mother](/en/post/mother/) [yesterday](/en/post/yesterday/)."
-- "[After](/en/post/after/) [a](/en/post/a/) [few](/en/post/few/) years, [he](/en/post/he/) had forgotten [most](/en/post/most/) [of](/en/post/of/) [his](/en/post/his/) [high](/en/post/high/) [school](/en/post/school/) French."
-- "Don't [forget](/en/post/forget/) [your](/en/post/your/) keys [when](/en/post/when/) [you](/en/post/you/) [leave](/en/post/leave/) [the](/en/post/the/) [house](/en/post/house/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I forgot [to](/post/to/) [call](/post/call/) [my](/post/my/) [mother](/post/mother/) [yesterday](/post/yesterday/)."
+- "[After](/post/after/) [a](/post/a/) [few](/post/few/) years, [he](/post/he/) had forgotten [most](/post/most/) [of](/post/of/) [his](/post/his/) [high](/post/high/) [school](/post/school/) French."
+- "Don't [forget](/post/forget/) [your](/post/your/) keys [when](/post/when/) [you](/post/you/) [leave](/post/leave/) [the](/post/the/) [house](/post/house/)."
 
 ## Synonyms
-- [Neglect](/en/post/neglect/)
-- [Overlook](/en/post/overlook/)
+- [Neglect](/post/neglect/)
+- [Overlook](/post/overlook/)
 - Disregard
-- [Omit](/en/post/omit/)
-- Misplace ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [physical](/en/post/physical/) objects)
-- [Lose](/en/post/lose/) (one's [memory](/en/post/memory/) [of](/en/post/of/)) 
-- [Slip](/en/post/slip/) someone's [mind](/en/post/mind/)
-- [Let](/en/post/let/) [slip](/en/post/slip/)
-- [Leave](/en/post/leave/) [behind](/en/post/behind/) ([when](/en/post/when/) referring [to](/en/post/to/) [physical](/en/post/physical/) objects)
+- [Omit](/post/omit/)
+- Misplace ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [physical](/post/physical/) objects)
+- [Lose](/post/lose/) (one's [memory](/post/memory/) [of](/post/of/)) 
+- [Slip](/post/slip/) someone's [mind](/post/mind/)
+- [Let](/post/let/) [slip](/post/slip/)
+- [Leave](/post/leave/) [behind](/post/behind/) ([when](/post/when/) referring [to](/post/to/) [physical](/post/physical/) objects)

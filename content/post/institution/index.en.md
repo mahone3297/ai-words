@@ -7,34 +7,34 @@ description = '[ˌinstiˈtjuː∫ən] n.协会;制度，习俗'
 keywords = ['ai words', 'institution']
 +++
 
-## [Word](/en/post/word/): [Institution](/en/post/institution/)
+## [Word](/post/word/): [Institution](/post/institution/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnstɪˈtjuːʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [social](/en/post/social/) [or](/en/post/or/) organizational [structure](/en/post/structure/) founded [for](/en/post/for/) [a](/en/post/a/) [religious](/en/post/religious/), educational, [professional](/en/post/professional/), [or](/en/post/or/) [similar](/en/post/similar/) [purpose](/en/post/purpose/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [practice](/en/post/practice/), [custom](/en/post/custom/), [or](/en/post/or/) [law](/en/post/law/) [that](/en/post/that/) has [become](/en/post/become/) established [and](/en/post/and/) accepted [within](/en/post/within/) [a](/en/post/a/) [society](/en/post/society/) [or](/en/post/or/) [community](/en/post/community/). [Example](/en/post/example/): _"[The](/en/post/the/) [university](/en/post/university/) is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) country's [most](/en/post/most/) respected institutions."_
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [people](/en/post/people/) are cared [for](/en/post/for/) [or](/en/post/or/) [receive](/en/post/receive/) [treatment](/en/post/treatment/) [due](/en/post/due/) [to](/en/post/to/) [illness](/en/post/illness/), disability, [or](/en/post/or/) [other](/en/post/other/) needs. [Example](/en/post/example/): _"[She](/en/post/she/) was admitted [to](/en/post/to/) [a](/en/post/a/) [mental](/en/post/mental/) [health](/en/post/health/) [institution](/en/post/institution/) [for](/en/post/for/) [treatment](/en/post/treatment/)."_
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) long-established [practice](/en/post/practice/), [convention](/en/post/convention/), [or](/en/post/or/) [custom](/en/post/custom/). [Example](/en/post/example/): _"[Marriage](/en/post/marriage/) is [a](/en/post/a/) [social](/en/post/social/) [institution](/en/post/institution/) [with](/en/post/with/) [deep](/en/post/deep/) [historical](/en/post/historical/) roots."_
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [social](/post/social/) [or](/post/or/) organizational [structure](/post/structure/) founded [for](/post/for/) [a](/post/a/) [religious](/post/religious/), educational, [professional](/post/professional/), [or](/post/or/) [similar](/post/similar/) [purpose](/post/purpose/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [practice](/post/practice/), [custom](/post/custom/), [or](/post/or/) [law](/post/law/) [that](/post/that/) has [become](/post/become/) established [and](/post/and/) accepted [within](/post/within/) [a](/post/a/) [society](/post/society/) [or](/post/or/) [community](/post/community/). [Example](/post/example/): _"[The](/post/the/) [university](/post/university/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) country's [most](/post/most/) respected institutions."_
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [place](/post/place/) [where](/post/where/) [people](/post/people/) are cared [for](/post/for/) [or](/post/or/) [receive](/post/receive/) [treatment](/post/treatment/) [due](/post/due/) [to](/post/to/) [illness](/post/illness/), disability, [or](/post/or/) [other](/post/other/) needs. [Example](/post/example/): _"[She](/post/she/) was admitted [to](/post/to/) [a](/post/a/) [mental](/post/mental/) [health](/post/health/) [institution](/post/institution/) [for](/post/for/) [treatment](/post/treatment/)."_
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) long-established [practice](/post/practice/), [convention](/post/convention/), [or](/post/or/) [custom](/post/custom/). [Example](/post/example/): _"[Marriage](/post/marriage/) is [a](/post/a/) [social](/post/social/) [institution](/post/institution/) [with](/post/with/) [deep](/post/deep/) [historical](/post/historical/) roots."_
 
 ## Phrases
-- "Institutional [memory](/en/post/memory/)": [The](/en/post/the/) [collective](/en/post/collective/) [knowledge](/en/post/knowledge/) [and](/en/post/and/) [experience](/en/post/experience/) held [by](/en/post/by/) an [organization](/en/post/organization/) [or](/en/post/or/) [group](/en/post/group/), [especially](/en/post/especially/) [when](/en/post/when/) referring [to](/en/post/to/) [how](/en/post/how/) [it](/en/post/it/) affects decision-making [and](/en/post/and/) operations.
-- "Educational [institution](/en/post/institution/)": Schools, colleges, [or](/en/post/or/) universities [where](/en/post/where/) [education](/en/post/education/) is [provided](/en/post/provided/).
-- "[Financial](/en/post/financial/) [institution](/en/post/institution/)": Banks, [credit](/en/post/credit/) unions, [or](/en/post/or/) [investment](/en/post/investment/) firms [that](/en/post/that/) [deal](/en/post/deal/) [with](/en/post/with/) [financial](/en/post/financial/) transactions.
+- "Institutional [memory](/post/memory/)": [The](/post/the/) [collective](/post/collective/) [knowledge](/post/knowledge/) [and](/post/and/) [experience](/post/experience/) held [by](/post/by/) an [organization](/post/organization/) [or](/post/or/) [group](/post/group/), [especially](/post/especially/) [when](/post/when/) referring [to](/post/to/) [how](/post/how/) [it](/post/it/) affects decision-making [and](/post/and/) operations.
+- "Educational [institution](/post/institution/)": Schools, colleges, [or](/post/or/) universities [where](/post/where/) [education](/post/education/) is [provided](/post/provided/).
+- "[Financial](/post/financial/) [institution](/post/institution/)": Banks, [credit](/post/credit/) unions, [or](/post/or/) [investment](/post/investment/) firms [that](/post/that/) [deal](/post/deal/) [with](/post/with/) [financial](/post/financial/) transactions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) graduating [from](/en/post/from/) [high](/en/post/high/) [school](/en/post/school/), [he](/en/post/he/) enrolled [in](/en/post/in/) [a](/en/post/a/) prestigious [academic](/en/post/academic/) [institution](/en/post/institution/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [government](/en/post/government/) vowed [to](/en/post/to/) [reform](/en/post/reform/) outdated institutions [that](/en/post/that/) [no](/en/post/no/) longer served [their](/en/post/their/) intended purposes."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [grandmother](/en/post/grandmother/) spent [her](/en/post/her/) [final](/en/post/final/) years [in](/en/post/in/) [a](/en/post/a/) well-respected [care](/en/post/care/) [institution](/en/post/institution/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) graduating [from](/post/from/) [high](/post/high/) [school](/post/school/), [he](/post/he/) enrolled [in](/post/in/) [a](/post/a/) prestigious [academic](/post/academic/) [institution](/post/institution/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [government](/post/government/) vowed [to](/post/to/) [reform](/post/reform/) outdated institutions [that](/post/that/) [no](/post/no/) longer served [their](/post/their/) intended purposes."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [grandmother](/post/grandmother/) spent [her](/post/her/) [final](/post/final/) years [in](/post/in/) [a](/post/a/) well-respected [care](/post/care/) [institution](/post/institution/)."
 
 ## Synonyms
-- [Establishment](/en/post/establishment/)
-- [Organization](/en/post/organization/)
-- [Body](/en/post/body/)
-- [Foundation](/en/post/foundation/)
-- [System](/en/post/system/)
-- [Order](/en/post/order/)
-- [Custom](/en/post/custom/)
-- [Practice](/en/post/practice/)
-- [Convention](/en/post/convention/)
-- [Tradition](/en/post/tradition/)
+- [Establishment](/post/establishment/)
+- [Organization](/post/organization/)
+- [Body](/post/body/)
+- [Foundation](/post/foundation/)
+- [System](/post/system/)
+- [Order](/post/order/)
+- [Custom](/post/custom/)
+- [Practice](/post/practice/)
+- [Convention](/post/convention/)
+- [Tradition](/post/tradition/)

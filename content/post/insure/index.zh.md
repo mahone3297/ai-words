@@ -11,21 +11,21 @@ keywords = ['ai words', 'insure']
 /ɪnˈʃʊr/
 
 ## 释义
-- **动词**: 为…投保；保障。确保（某人）免受可能损失或伤害的风险。例如: "I [need](/post/need/) [to](/post/to/) [insure](/post/insure/) [my](/post/my/) [new](/post/new/) [car](/post/car/) [against](/post/against/) theft [and](/post/and/) accidents."
-- **名词**: 保险；保险业。指提供经济补偿以减轻风险的合同或服务。例如: "[She](/post/she/) works [in](/post/in/) [the](/post/the/) [insurance](/post/insurance/) [industry](/post/industry/)."
+- **动词**: 为…投保；保障。确保（某人）免受可能损失或伤害的风险。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [insure](/zh/post/insure/) [my](/zh/post/my/) [new](/zh/post/new/) [car](/zh/post/car/) [against](/zh/post/against/) theft [and](/zh/post/and/) accidents."
+- **名词**: 保险；保险业。指提供经济补偿以减轻风险的合同或服务。例如: "[She](/zh/post/she/) works [in](/zh/post/in/) [the](/zh/post/the/) [insurance](/zh/post/insurance/) [industry](/zh/post/industry/)."
 
 ## 短语
-- "[Take](/post/take/) [out](/post/out/) an [insurance](/post/insurance/) [policy](/post/policy/)" 意味着购买保险。
-- "[Insure](/post/insure/) [against](/post/against/) [something](/post/something/)" 指为了防范某事而购买保险。
-- "[The](/post/the/) premium [on](/post/on/) [your](/post/your/) [insurance](/post/insurance/)" 是你支付的保险费。
+- "[Take](/zh/post/take/) [out](/zh/post/out/) an [insurance](/zh/post/insurance/) [policy](/zh/post/policy/)" 意味着购买保险。
+- "[Insure](/zh/post/insure/) [against](/zh/post/against/) [something](/zh/post/something/)" 指为了防范某事而购买保险。
+- "[The](/zh/post/the/) premium [on](/zh/post/on/) [your](/zh/post/your/) [insurance](/zh/post/insurance/)" 是你支付的保险费。
 
 ## 例句
-- 动词: "[He](/post/he/) [immediately](/post/immediately/) insured [his](/post/his/) [valuable](/post/valuable/) [art](/post/art/) [collection](/post/collection/) [against](/post/against/) [fire](/post/fire/) [and](/post/and/) [flood](/post/flood/) [damage](/post/damage/)."
-- 名词: "[The](/post/the/) [insurance](/post/insurance/) [company](/post/company/) refused [to](/post/to/) [pay](/post/pay/) [the](/post/the/) [claim](/post/claim/) [because](/post/because/) [it](/post/it/) was [a](/post/a/) [case](/post/case/) [of](/post/of/) fraud."
+- 动词: "[He](/zh/post/he/) [immediately](/zh/post/immediately/) insured [his](/zh/post/his/) [valuable](/zh/post/valuable/) [art](/zh/post/art/) [collection](/zh/post/collection/) [against](/zh/post/against/) [fire](/zh/post/fire/) [and](/zh/post/and/) [flood](/zh/post/flood/) [damage](/zh/post/damage/)."
+- 名词: "[The](/zh/post/the/) [insurance](/zh/post/insurance/) [company](/zh/post/company/) refused [to](/zh/post/to/) [pay](/zh/post/pay/) [the](/zh/post/the/) [claim](/zh/post/claim/) [because](/zh/post/because/) [it](/zh/post/it/) was [a](/zh/post/a/) [case](/zh/post/case/) [of](/zh/post/of/) fraud."
 
 ## 同义词
-- [Guarantee](/post/guarantee/)
-- [Secure](/post/secure/)
-- [Cover](/post/cover/)
-- [Protect](/post/protect/)
+- [Guarantee](/zh/post/guarantee/)
+- [Secure](/zh/post/secure/)
+- [Cover](/zh/post/cover/)
+- [Protect](/zh/post/protect/)
 - Compensate

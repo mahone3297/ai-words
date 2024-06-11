@@ -7,37 +7,37 @@ description = '[kənˌgrætjuˈlei∫ən] n.祝贺(词)'
 keywords = ['ai words', 'congratulation']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈɡrætʃuˈleɪʃ(ə)n/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[congratulation](/en/post/congratulation/)** is [a](/en/post/a/)(n) **[noun](/en/post/noun/)** expressing [warm](/en/post/warm/) [approval](/en/post/approval/), [praise](/en/post/praise/), [or](/en/post/or/) felicitations [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [achievement](/en/post/achievement/) [or](/en/post/or/) [event](/en/post/event/). [It](/en/post/it/) is [often](/en/post/often/) accompanied [by](/en/post/by/) words [like](/en/post/like/) "[on](/en/post/on/) [your](/en/post/your/)" [to](/en/post/to/) [specify](/en/post/specify/) [the](/en/post/the/) accomplishment. [For](/en/post/for/) [example](/en/post/example/): "I received [a](/en/post/a/) [congratulation](/en/post/congratulation/) [from](/en/post/from/) [my](/en/post/my/) [boss](/en/post/boss/) [for](/en/post/for/) winning [the](/en/post/the/) [award](/en/post/award/)."
+### [Noun](/post/noun/)
+[A](/post/a/) **[congratulation](/post/congratulation/)** is [a](/post/a/)(n) **[noun](/post/noun/)** expressing [warm](/post/warm/) [approval](/post/approval/), [praise](/post/praise/), [or](/post/or/) felicitations [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [achievement](/post/achievement/) [or](/post/or/) [event](/post/event/). [It](/post/it/) is [often](/post/often/) accompanied [by](/post/by/) words [like](/post/like/) "[on](/post/on/) [your](/post/your/)" [to](/post/to/) [specify](/post/specify/) [the](/post/the/) accomplishment. [For](/post/for/) [example](/post/example/): "I received [a](/post/a/) [congratulation](/post/congratulation/) [from](/post/from/) [my](/post/my/) [boss](/post/boss/) [for](/post/for/) winning [the](/post/the/) [award](/post/award/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[congratulate](/en/post/congratulate/)** is [a](/en/post/a/) **[verb](/en/post/verb/)** [that](/en/post/that/) [means](/en/post/means/) [to](/en/post/to/) [express](/en/post/express/) one's [pleasure](/en/post/pleasure/) [or](/en/post/or/) admiration [for](/en/post/for/) someone's [success](/en/post/success/) [or](/en/post/or/) [good](/en/post/good/) [fortune](/en/post/fortune/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [audience](/en/post/audience/) congratulated [the](/en/post/the/) [winner](/en/post/winner/) [after](/en/post/after/) [the](/en/post/the/) [competition](/en/post/competition/)."
+### [Verb](/post/verb/)
+[To](/post/to/) **[congratulate](/post/congratulate/)** is [a](/post/a/) **[verb](/post/verb/)** [that](/post/that/) [means](/post/means/) [to](/post/to/) [express](/post/express/) one's [pleasure](/post/pleasure/) [or](/post/or/) admiration [for](/post/for/) someone's [success](/post/success/) [or](/post/or/) [good](/post/good/) [fortune](/post/fortune/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [audience](/post/audience/) congratulated [the](/post/the/) [winner](/post/winner/) [after](/post/after/) [the](/post/the/) [competition](/post/competition/)."
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) [rare](/en/post/rare/) cases, 'congratulatory' [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an **[adjective](/en/post/adjective/)** [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) expresses congratulations, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [message](/en/post/message/) [or](/en/post/or/) [gesture](/en/post/gesture/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) congratulatory email arrived [from](/en/post/from/) [the](/en/post/the/) [university](/en/post/university/)."
+### [Adjective](/post/adjective/)
+[In](/post/in/) [rare](/post/rare/) cases, 'congratulatory' [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an **[adjective](/post/adjective/)** [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) expresses congratulations, [such](/post/such/) [as](/post/as/) [a](/post/a/) [message](/post/message/) [or](/post/or/) [gesture](/post/gesture/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) congratulatory email arrived [from](/post/from/) [the](/post/the/) [university](/post/university/)."
 
 ## Phrases
-- "[Send](/en/post/send/) congratulations" [means](/en/post/means/) [to](/en/post/to/) [send](/en/post/send/) [well](/en/post/well/) wishes [or](/en/post/or/) [recognition](/en/post/recognition/) [for](/en/post/for/) an [achievement](/en/post/achievement/).
-- "Congratulations are [in](/en/post/in/) [order](/en/post/order/)" signifies [that](/en/post/that/) [a](/en/post/a/) [person](/en/post/person/) deserves [praise](/en/post/praise/) [or](/en/post/or/) celebration.
-- "Heartfelt congratulations" expresses [sincere](/en/post/sincere/) [and](/en/post/and/) [genuine](/en/post/genuine/) [approval](/en/post/approval/).
+- "[Send](/post/send/) congratulations" [means](/post/means/) [to](/post/to/) [send](/post/send/) [well](/post/well/) wishes [or](/post/or/) [recognition](/post/recognition/) [for](/post/for/) an [achievement](/post/achievement/).
+- "Congratulations are [in](/post/in/) [order](/post/order/)" signifies [that](/post/that/) [a](/post/a/) [person](/post/person/) deserves [praise](/post/praise/) [or](/post/or/) celebration.
+- "Heartfelt congratulations" expresses [sincere](/post/sincere/) [and](/post/and/) [genuine](/post/genuine/) [approval](/post/approval/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [family](/en/post/family/) congratulated [the](/en/post/the/) newlyweds [on](/en/post/on/) [their](/en/post/their/) [wedding](/en/post/wedding/) [day](/en/post/day/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) passing [the](/en/post/the/) [exam](/en/post/exam/), [he](/en/post/he/) received [numerous](/en/post/numerous/) congratulations [from](/en/post/from/) [his](/en/post/his/) friends."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) congratulatory cards filled [the](/en/post/the/) mailbox [after](/en/post/after/) [the](/en/post/the/) marathon."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [family](/post/family/) congratulated [the](/post/the/) newlyweds [on](/post/on/) [their](/post/their/) [wedding](/post/wedding/) [day](/post/day/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) passing [the](/post/the/) [exam](/post/exam/), [he](/post/he/) received [numerous](/post/numerous/) congratulations [from](/post/from/) [his](/post/his/) friends."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) congratulatory cards filled [the](/post/the/) mailbox [after](/post/after/) [the](/post/the/) marathon."
 
 ## Synonyms
 - Cheers
 - Kudos
 - Applause
-- [Praise](/en/post/praise/)
+- [Praise](/post/praise/)
 - Felicitations
 - Honor
 
 ## Antonyms
-- [Sympathy](/en/post/sympathy/) ([for](/en/post/for/) [failure](/en/post/failure/) [or](/en/post/or/) misfortune)
-- Condolences ([for](/en/post/for/) [loss](/en/post/loss/) [or](/en/post/or/) disappointment)
+- [Sympathy](/post/sympathy/) ([for](/post/for/) [failure](/post/failure/) [or](/post/or/) misfortune)
+- Condolences ([for](/post/for/) [loss](/post/loss/) [or](/post/or/) disappointment)

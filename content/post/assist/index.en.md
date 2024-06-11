@@ -7,35 +7,35 @@ description = '[əˈsist] vt.援助，帮助；搀扶'
 keywords = ['ai words', 'assist']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈsɪst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Aid](/en/post/aid/) [or](/en/post/or/) [support](/en/post/support/) given [to](/en/post/to/) [someone](/en/post/someone/)**: [She](/en/post/she/) [provided](/en/post/provided/) [valuable](/en/post/valuable/) assistance [to](/en/post/to/) [the](/en/post/the/) elderly neighbor.
-2. **[The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) helping [or](/en/post/or/) supporting**: [The](/en/post/the/) volunteers were instrumental [in](/en/post/in/) assisting [the](/en/post/the/) organization's [event](/en/post/event/).
+### [Noun](/post/noun/)
+1. **[Aid](/post/aid/) [or](/post/or/) [support](/post/support/) given [to](/post/to/) [someone](/post/someone/)**: [She](/post/she/) [provided](/post/provided/) [valuable](/post/valuable/) assistance [to](/post/to/) [the](/post/the/) elderly neighbor.
+2. **[The](/post/the/) [act](/post/act/) [of](/post/of/) helping [or](/post/or/) supporting**: [The](/post/the/) volunteers were instrumental [in](/post/in/) assisting [the](/post/the/) organization's [event](/post/event/).
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [give](/en/post/give/) [help](/en/post/help/) [or](/en/post/or/) [support](/en/post/support/)**: [He](/en/post/he/) assisted [the](/en/post/the/) [professor](/en/post/professor/) [with](/en/post/with/) grading papers.
-2. **[To](/en/post/to/) facilitate [or](/en/post/or/) [contribute](/en/post/contribute/)**: [She](/en/post/she/) assisted [in](/en/post/in/) [setting](/en/post/setting/) [up](/en/post/up/) [the](/en/post/the/) [new](/en/post/new/) [office](/en/post/office/).
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [give](/post/give/) [help](/post/help/) [or](/post/or/) [support](/post/support/)**: [He](/post/he/) assisted [the](/post/the/) [professor](/post/professor/) [with](/post/with/) grading papers.
+2. **[To](/post/to/) facilitate [or](/post/or/) [contribute](/post/contribute/)**: [She](/post/she/) assisted [in](/post/in/) [setting](/post/setting/) [up](/post/up/) [the](/post/the/) [new](/post/new/) [office](/post/office/).
 
 ## Phrases
-- "[Offer](/en/post/offer/) assistance"
-- "[Provide](/en/post/provide/) assistance [to](/en/post/to/) [someone](/en/post/someone/)"
-- "[Assist](/en/post/assist/) [in](/en/post/in/) [a](/en/post/a/) [task](/en/post/task/)"
+- "[Offer](/post/offer/) assistance"
+- "[Provide](/post/provide/) assistance [to](/post/to/) [someone](/post/someone/)"
+- "[Assist](/post/assist/) [in](/post/in/) [a](/post/a/) [task](/post/task/)"
 - "Assistance needed"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [team](/en/post/team/) members worked [together](/en/post/together/) [to](/en/post/to/) [provide](/en/post/provide/) [mutual](/en/post/mutual/) assistance [during](/en/post/during/) [the](/en/post/the/) [project](/en/post/project/).
-- **[Verb](/en/post/verb/)**: [The](/en/post/the/) [doctor](/en/post/doctor/) asked [his](/en/post/his/) [nurse](/en/post/nurse/) [to](/en/post/to/) [assist](/en/post/assist/) [him](/en/post/him/) [with](/en/post/with/) [the](/en/post/the/) [surgery](/en/post/surgery/).
-- **Helping [verb](/en/post/verb/)**: [He](/en/post/he/) was [always](/en/post/always/) [willing](/en/post/willing/) [to](/en/post/to/) [assist](/en/post/assist/) [those](/en/post/those/) [who](/en/post/who/) were struggling.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [team](/post/team/) members worked [together](/post/together/) [to](/post/to/) [provide](/post/provide/) [mutual](/post/mutual/) assistance [during](/post/during/) [the](/post/the/) [project](/post/project/).
+- **[Verb](/post/verb/)**: [The](/post/the/) [doctor](/post/doctor/) asked [his](/post/his/) [nurse](/post/nurse/) [to](/post/to/) [assist](/post/assist/) [him](/post/him/) [with](/post/with/) [the](/post/the/) [surgery](/post/surgery/).
+- **Helping [verb](/post/verb/)**: [He](/post/he/) was [always](/post/always/) [willing](/post/willing/) [to](/post/to/) [assist](/post/assist/) [those](/post/those/) [who](/post/who/) were struggling.
 
 ## Synonyms
-- [Aid](/en/post/aid/)
-- [Support](/en/post/support/)
-- [Help](/en/post/help/)
+- [Aid](/post/aid/)
+- [Support](/post/support/)
+- [Help](/post/help/)
 - Facilitate
-- [Aid](/en/post/aid/) [and](/en/post/and/) abet
-- [Back](/en/post/back/) [up](/en/post/up/)
-- [Give](/en/post/give/) [a](/en/post/a/) [hand](/en/post/hand/)
-- [Supply](/en/post/supply/) assistance
+- [Aid](/post/aid/) [and](/post/and/) abet
+- [Back](/post/back/) [up](/post/up/)
+- [Give](/post/give/) [a](/post/a/) [hand](/post/hand/)
+- [Supply](/post/supply/) assistance

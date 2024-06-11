@@ -7,40 +7,40 @@ description = '[ˈpleiraund] n.操场，运动场'
 keywords = ['ai words', 'playground']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈpleɪɡraʊnd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) children [play](/en/post/play/), typically [with](/en/post/with/) [equipment](/en/post/equipment/) [such](/en/post/such/) [as](/en/post/as/) swings, slides, [and](/en/post/and/) climbing structures**: *[The](/en/post/the/) children were having [fun](/en/post/fun/) [on](/en/post/on/) [the](/en/post/the/) [playground](/en/post/playground/).*
-2. **[A](/en/post/a/) recreational [area](/en/post/area/) [for](/en/post/for/) [physical](/en/post/physical/) activities [or](/en/post/or/) games**: *[The](/en/post/the/) [community](/en/post/community/) center has [a](/en/post/a/) [large](/en/post/large/) [outdoor](/en/post/outdoor/) [playground](/en/post/playground/).*
-3. **[A](/en/post/a/) metaphorical [or](/en/post/or/) symbolic [space](/en/post/space/) [for](/en/post/for/) [creative](/en/post/creative/) [or](/en/post/or/) imaginative [play](/en/post/play/)**: *[Life](/en/post/life/) is [a](/en/post/a/) [big](/en/post/big/) [playground](/en/post/playground/) [for](/en/post/for/) exploring [new](/en/post/new/) ideas.*
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [place](/post/place/) [where](/post/where/) children [play](/post/play/), typically [with](/post/with/) [equipment](/post/equipment/) [such](/post/such/) [as](/post/as/) swings, slides, [and](/post/and/) climbing structures**: *[The](/post/the/) children were having [fun](/post/fun/) [on](/post/on/) [the](/post/the/) [playground](/post/playground/).*
+2. **[A](/post/a/) recreational [area](/post/area/) [for](/post/for/) [physical](/post/physical/) activities [or](/post/or/) games**: *[The](/post/the/) [community](/post/community/) center has [a](/post/a/) [large](/post/large/) [outdoor](/post/outdoor/) [playground](/post/playground/).*
+3. **[A](/post/a/) metaphorical [or](/post/or/) symbolic [space](/post/space/) [for](/post/for/) [creative](/post/creative/) [or](/post/or/) imaginative [play](/post/play/)**: *[Life](/post/life/) is [a](/post/a/) [big](/post/big/) [playground](/post/playground/) [for](/post/for/) exploring [new](/post/new/) ideas.*
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [play](/en/post/play/) [or](/en/post/or/) recreational activities**: *[The](/en/post/the/) kids played [on](/en/post/on/) [the](/en/post/the/) [playground](/en/post/playground/) [all](/en/post/all/) [afternoon](/en/post/afternoon/).*
-2. **[To](/en/post/to/) [use](/en/post/use/) ([a](/en/post/a/) [location](/en/post/location/)) [for](/en/post/for/) [play](/en/post/play/) [or](/en/post/or/) recreational purposes**: *[They](/en/post/they/) [often](/en/post/often/) [use](/en/post/use/) [the](/en/post/the/) [park](/en/post/park/) [as](/en/post/as/) [a](/en/post/a/) [playground](/en/post/playground/) [for](/en/post/for/) [their](/en/post/their/) [dog](/en/post/dog/).*
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [engage](/post/engage/) [in](/post/in/) [play](/post/play/) [or](/post/or/) recreational activities**: *[The](/post/the/) kids played [on](/post/on/) [the](/post/the/) [playground](/post/playground/) [all](/post/all/) [afternoon](/post/afternoon/).*
+2. **[To](/post/to/) [use](/post/use/) ([a](/post/a/) [location](/post/location/)) [for](/post/for/) [play](/post/play/) [or](/post/or/) recreational purposes**: *[They](/post/they/) [often](/post/often/) [use](/post/use/) [the](/post/the/) [park](/post/park/) [as](/post/as/) [a](/post/a/) [playground](/post/playground/) [for](/post/for/) [their](/post/their/) [dog](/post/dog/).*
 
 ## Phrases
-- "[Play](/en/post/play/) [on](/en/post/on/) [the](/en/post/the/) [playground](/en/post/playground/)"
-- "[Enjoy](/en/post/enjoy/) [your](/en/post/your/) [playground](/en/post/playground/) [time](/en/post/time/)"
-- "[Take](/en/post/take/) [a](/en/post/a/) [break](/en/post/break/) [and](/en/post/and/) [play](/en/post/play/) [in](/en/post/in/) [the](/en/post/the/) [playground](/en/post/playground/)"
+- "[Play](/post/play/) [on](/post/on/) [the](/post/the/) [playground](/post/playground/)"
+- "[Enjoy](/post/enjoy/) [your](/post/your/) [playground](/post/playground/) [time](/post/time/)"
+- "[Take](/post/take/) [a](/post/a/) [break](/post/break/) [and](/post/and/) [play](/post/play/) [in](/post/in/) [the](/post/the/) [playground](/post/playground/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[The](/en/post/the/) children spent [their](/en/post/their/) weekends [at](/en/post/at/) [the](/en/post/the/) [local](/en/post/local/) [playground](/en/post/playground/).*
-- **[Verb](/en/post/verb/)**: *[After](/en/post/after/) [school](/en/post/school/), [the](/en/post/the/) boys headed [straight](/en/post/straight/) [to](/en/post/to/) [the](/en/post/the/) [playground](/en/post/playground/) [to](/en/post/to/) unwind.*
-- **Metaphorical**: *[Life](/en/post/life/) is [a](/en/post/a/) [playground](/en/post/playground/) [where](/en/post/where/) [we](/en/post/we/) [learn](/en/post/learn/) [and](/en/post/and/) [grow](/en/post/grow/) [through](/en/post/through/) experiences.*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[The](/post/the/) children spent [their](/post/their/) weekends [at](/post/at/) [the](/post/the/) [local](/post/local/) [playground](/post/playground/).*
+- **[Verb](/post/verb/)**: *[After](/post/after/) [school](/post/school/), [the](/post/the/) boys headed [straight](/post/straight/) [to](/post/to/) [the](/post/the/) [playground](/post/playground/) [to](/post/to/) unwind.*
+- **Metaphorical**: *[Life](/post/life/) is [a](/post/a/) [playground](/post/playground/) [where](/post/where/) [we](/post/we/) [learn](/post/learn/) [and](/post/and/) [grow](/post/grow/) [through](/post/through/) experiences.*
 
 ## Synonyms
-- [Play](/en/post/play/) [area](/en/post/area/)
+- [Play](/post/play/) [area](/post/area/)
 -游乐场
-- Recreation [ground](/en/post/ground/)
-- [Playground](/en/post/playground/) [space](/en/post/space/)
+- Recreation [ground](/post/ground/)
+- [Playground](/post/playground/) [space](/post/space/)
 -游乐区
 -游乐天地
 
 ## Antonyms
-- [Classroom](/en/post/classroom/)
+- [Classroom](/post/classroom/)
 - Workspace
-- [Serious](/en/post/serious/) [environment](/en/post/environment/)
-- [Rest](/en/post/rest/) [area](/en/post/area/)
-- [Quiet](/en/post/quiet/) [zone](/en/post/zone/)
+- [Serious](/post/serious/) [environment](/post/environment/)
+- [Rest](/post/rest/) [area](/post/area/)
+- [Quiet](/post/quiet/) [zone](/post/zone/)

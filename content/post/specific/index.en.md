@@ -7,35 +7,35 @@ description = '[spiˈsifik] a.特有的；具体的'
 keywords = ['ai words', 'specific']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈpɛktɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Specific](/en/post/specific/)** ([noun](/en/post/noun/)): Referring [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [person](/en/post/person/), [thing](/en/post/thing/), [or](/en/post/or/) [instance](/en/post/instance/), distinguished [from](/en/post/from/) others [by](/en/post/by/) [its](/en/post/its/) [unique](/en/post/unique/) characteristics [or](/en/post/or/) features. [Example](/en/post/example/): "[Each](/en/post/each/) [student](/en/post/student/) was assigned [a](/en/post/a/) [specific](/en/post/specific/) [task](/en/post/task/) [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/)."
-- **Specificity** ([noun](/en/post/noun/)): [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [specific](/en/post/specific/); clarity [or](/en/post/or/) [precision](/en/post/precision/) [in](/en/post/in/) defining [or](/en/post/or/) describing [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [experiment](/en/post/experiment/) aimed [for](/en/post/for/) [high](/en/post/high/) specificity [in](/en/post/in/) detecting [the](/en/post/the/) [target](/en/post/target/) [molecule](/en/post/molecule/)."
+### [Noun](/post/noun/)
+- **[Specific](/post/specific/)** ([noun](/post/noun/)): Referring [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [person](/post/person/), [thing](/post/thing/), [or](/post/or/) [instance](/post/instance/), distinguished [from](/post/from/) others [by](/post/by/) [its](/post/its/) [unique](/post/unique/) characteristics [or](/post/or/) features. [Example](/post/example/): "[Each](/post/each/) [student](/post/student/) was assigned [a](/post/a/) [specific](/post/specific/) [task](/post/task/) [for](/post/for/) [the](/post/the/) [project](/post/project/)."
+- **Specificity** ([noun](/post/noun/)): [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [specific](/post/specific/); clarity [or](/post/or/) [precision](/post/precision/) [in](/post/in/) defining [or](/post/or/) describing [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [experiment](/post/experiment/) aimed [for](/post/for/) [high](/post/high/) specificity [in](/post/in/) detecting [the](/post/the/) [target](/post/target/) [molecule](/post/molecule/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Specific](/en/post/specific/)** ([adjective](/en/post/adjective/)): Designated [for](/en/post/for/) [or](/en/post/or/) referring [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [person](/en/post/person/), [thing](/en/post/thing/), [or](/en/post/or/) [situation](/en/post/situation/). [Example](/en/post/example/): "[The](/en/post/the/) instructions were [very](/en/post/very/) [specific](/en/post/specific/) [about](/en/post/about/) [the](/en/post/the/) materials needed."
-- **Specifically** ([adverb](/en/post/adverb/)): [In](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [or](/en/post/or/) [exact](/en/post/exact/) [manner](/en/post/manner/), [often](/en/post/often/) emphasizing [a](/en/post/a/) [point](/en/post/point/). [Example](/en/post/example/): "[She](/en/post/she/) asked specifically [about](/en/post/about/) [your](/en/post/your/) [experience](/en/post/experience/) [in](/en/post/in/) [that](/en/post/that/) [field](/en/post/field/)."
+### [Adjective](/post/adjective/)
+- **[Specific](/post/specific/)** ([adjective](/post/adjective/)): Designated [for](/post/for/) [or](/post/or/) referring [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [person](/post/person/), [thing](/post/thing/), [or](/post/or/) [situation](/post/situation/). [Example](/post/example/): "[The](/post/the/) instructions were [very](/post/very/) [specific](/post/specific/) [about](/post/about/) [the](/post/the/) materials needed."
+- **Specifically** ([adverb](/post/adverb/)): [In](/post/in/) [a](/post/a/) [particular](/post/particular/) [or](/post/or/) [exact](/post/exact/) [manner](/post/manner/), [often](/post/often/) emphasizing [a](/post/a/) [point](/post/point/). [Example](/post/example/): "[She](/post/she/) asked specifically [about](/post/about/) [your](/post/your/) [experience](/post/experience/) [in](/post/in/) [that](/post/that/) [field](/post/field/)."
 
-### [Adverb](/en/post/adverb/)
-- **Specifically** ([adverb](/en/post/adverb/)): [With](/en/post/with/) [particular](/en/post/particular/) [emphasis](/en/post/emphasis/) [or](/en/post/or/) [detail](/en/post/detail/). [Example](/en/post/example/): "[The](/en/post/the/) [report](/en/post/report/) addressed [the](/en/post/the/) [issue](/en/post/issue/) specifically, outlining [potential](/en/post/potential/) solutions."
+### [Adverb](/post/adverb/)
+- **Specifically** ([adverb](/post/adverb/)): [With](/post/with/) [particular](/post/particular/) [emphasis](/post/emphasis/) [or](/post/or/) [detail](/post/detail/). [Example](/post/example/): "[The](/post/the/) [report](/post/report/) addressed [the](/post/the/) [issue](/post/issue/) specifically, outlining [potential](/post/potential/) solutions."
 
 ## Phrases
-- "[Be](/en/post/be/) [specific](/en/post/specific/)" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) [clear](/en/post/clear/) [and](/en/post/and/) [precise](/en/post/precise/) details.
-- "[A](/en/post/a/) [specific](/en/post/specific/) [request](/en/post/request/)" refers [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [want](/en/post/want/) [or](/en/post/or/) [demand](/en/post/demand/).
-- "[In](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [way](/en/post/way/)" denotes [a](/en/post/a/) [particular](/en/post/particular/) [method](/en/post/method/) [or](/en/post/or/) [approach](/en/post/approach/).
+- "[Be](/post/be/) [specific](/post/specific/)" [means](/post/means/) [to](/post/to/) [give](/post/give/) [clear](/post/clear/) [and](/post/and/) [precise](/post/precise/) details.
+- "[A](/post/a/) [specific](/post/specific/) [request](/post/request/)" refers [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [want](/post/want/) [or](/post/or/) [demand](/post/demand/).
+- "[In](/post/in/) [a](/post/a/) [specific](/post/specific/) [way](/post/way/)" denotes [a](/post/a/) [particular](/post/particular/) [method](/post/method/) [or](/post/or/) [approach](/post/approach/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) was looking [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [answer](/en/post/answer/) [to](/en/post/to/) [his](/en/post/his/) [question](/en/post/question/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [new](/en/post/new/) [job](/en/post/job/) required [her](/en/post/her/) [to](/en/post/to/) [work](/en/post/work/) [on](/en/post/on/) [specific](/en/post/specific/) projects."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) explained [the](/en/post/the/) [process](/en/post/process/) specifically [to](/en/post/to/) [ensure](/en/post/ensure/) [everyone](/en/post/everyone/) understood."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) was looking [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [answer](/post/answer/) [to](/post/to/) [his](/post/his/) [question](/post/question/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [new](/post/new/) [job](/post/job/) required [her](/post/her/) [to](/post/to/) [work](/post/work/) [on](/post/on/) [specific](/post/specific/) projects."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) explained [the](/post/the/) [process](/post/process/) specifically [to](/post/to/) [ensure](/post/ensure/) [everyone](/post/everyone/) understood."
 
 ## Synonyms
-- [Particular](/en/post/particular/)
+- [Particular](/post/particular/)
 - Detailed
-- [Exact](/en/post/exact/)
+- [Exact](/post/exact/)
 - Clear-cut
 - Particularized
 - Well-defined

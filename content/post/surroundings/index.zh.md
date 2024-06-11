@@ -11,20 +11,20 @@ keywords = ['ai words', 'surroundings']
 /səˈraʊndɪŋz/
 
 ## 释义
-- **名词 (n)**: 周围的事物，环境，情境。例如: "[The](/post/the/) [park](/post/park/) was [peaceful](/post/peaceful/), [with](/post/with/) [beautiful](/post/beautiful/) [surroundings](/post/surroundings/)."
-- **形容词 (adj)**: 周围的，附近的。例如: "[The](/post/the/) [restaurant](/post/restaurant/) has [a](/post/a/) [pleasant](/post/pleasant/) surrounding [atmosphere](/post/atmosphere/)."
+- **名词 (n)**: 周围的事物，环境，情境。例如: "[The](/zh/post/the/) [park](/zh/post/park/) was [peaceful](/zh/post/peaceful/), [with](/zh/post/with/) [beautiful](/zh/post/beautiful/) [surroundings](/zh/post/surroundings/)."
+- **形容词 (adj)**: 周围的，附近的。例如: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) has [a](/zh/post/a/) [pleasant](/zh/post/pleasant/) surrounding [atmosphere](/zh/post/atmosphere/)."
 
 ## 短语
-- "[surroundings](/post/surroundings/) [of](/post/of/) [a](/post/a/) [place](/post/place/)" 指一个地方的环境或周边环境。
-- "[improve](/post/improve/) one's [surroundings](/post/surroundings/)" 意味着改善一个人的生活或工作环境。
+- "[surroundings](/zh/post/surroundings/) [of](/zh/post/of/) [a](/zh/post/a/) [place](/zh/post/place/)" 指一个地方的环境或周边环境。
+- "[improve](/zh/post/improve/) one's [surroundings](/zh/post/surroundings/)" 意味着改善一个人的生活或工作环境。
 
 ## 例句
-- 名词: "[The](/post/the/) [patient](/post/patient/) felt [better](/post/better/) [after](/post/after/) [being](/post/being/) moved [to](/post/to/) [more](/post/more/) [comfortable](/post/comfortable/) [surroundings](/post/surroundings/)."
-- 形容词: "[She](/post/she/) loved [to](/post/to/) [sit](/post/sit/) [in](/post/in/) [her](/post/her/) [garden](/post/garden/), surrounded [by](/post/by/) blooming flowers."
+- 名词: "[The](/zh/post/the/) [patient](/zh/post/patient/) felt [better](/zh/post/better/) [after](/zh/post/after/) [being](/zh/post/being/) moved [to](/zh/post/to/) [more](/zh/post/more/) [comfortable](/zh/post/comfortable/) [surroundings](/zh/post/surroundings/)."
+- 形容词: "[She](/zh/post/she/) loved [to](/zh/post/to/) [sit](/zh/post/sit/) [in](/zh/post/in/) [her](/zh/post/her/) [garden](/zh/post/garden/), surrounded [by](/zh/post/by/) blooming flowers."
 
 ## 同义词
-- [Environment](/post/environment/)
+- [Environment](/zh/post/environment/)
 - Context
 - Locale
-- [Setting](/post/setting/)
+- [Setting](/zh/post/setting/)
 - Ambiance

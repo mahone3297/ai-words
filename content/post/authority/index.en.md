@@ -7,41 +7,41 @@ description = '[ɔːˈθɔriti] n.当局，官方；权力'
 keywords = ['ai words', 'authority']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈθɔːrəti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Authority](/en/post/authority/)**: 1. [The](/en/post/the/) [power](/en/post/power/) [or](/en/post/or/) [right](/en/post/right/) [to](/en/post/to/) [give](/en/post/give/) orders, [make](/en/post/make/) decisions, [or](/en/post/or/) [enforce](/en/post/enforce/) rules, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [area](/en/post/area/) [or](/en/post/or/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) has [authority](/en/post/authority/) [over](/en/post/over/) [the](/en/post/the/) [classroom](/en/post/classroom/)."
-- 2. [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [body](/en/post/body/) having [such](/en/post/such/) [power](/en/post/power/) [or](/en/post/or/) [right](/en/post/right/), [especially](/en/post/especially/) [a](/en/post/a/) [government](/en/post/government/) [or](/en/post/or/) administrative [body](/en/post/body/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [local](/en/post/local/) [authority](/en/post/authority/) is [responsible](/en/post/responsible/) [for](/en/post/for/) maintaining [public](/en/post/public/) services."
-- 3. [Weight](/en/post/weight/) [or](/en/post/or/) credibility given [to](/en/post/to/) [a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [belief](/en/post/belief/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) words [carry](/en/post/carry/) [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [authority](/en/post/authority/) [on](/en/post/on/) [the](/en/post/the/) [topic](/en/post/topic/)."
+### [Noun](/post/noun/)
+- **[Authority](/post/authority/)**: 1. [The](/post/the/) [power](/post/power/) [or](/post/or/) [right](/post/right/) [to](/post/to/) [give](/post/give/) orders, [make](/post/make/) decisions, [or](/post/or/) [enforce](/post/enforce/) rules, [often](/post/often/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [area](/post/area/) [or](/post/or/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) has [authority](/post/authority/) [over](/post/over/) [the](/post/the/) [classroom](/post/classroom/)."
+- 2. [A](/post/a/) [person](/post/person/) [or](/post/or/) [body](/post/body/) having [such](/post/such/) [power](/post/power/) [or](/post/or/) [right](/post/right/), [especially](/post/especially/) [a](/post/a/) [government](/post/government/) [or](/post/or/) administrative [body](/post/body/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [local](/post/local/) [authority](/post/authority/) is [responsible](/post/responsible/) [for](/post/for/) maintaining [public](/post/public/) services."
+- 3. [Weight](/post/weight/) [or](/post/or/) credibility given [to](/post/to/) [a](/post/a/) [statement](/post/statement/) [or](/post/or/) [belief](/post/belief/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) words [carry](/post/carry/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [authority](/post/authority/) [on](/post/on/) [the](/post/the/) [topic](/post/topic/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [exercise](/en/post/exercise/) [authority](/en/post/authority/) [or](/en/post/or/) [command](/en/post/command/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) manager is known [for](/en/post/for/) [her](/en/post/her/) authoritative decision-making."
-- [To](/en/post/to/) [have](/en/post/have/) [or](/en/post/or/) assert [control](/en/post/control/) [or](/en/post/or/) [influence](/en/post/influence/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [the](/en/post/the/) [authority](/en/post/authority/) [to](/en/post/to/) [approve](/en/post/approve/) [the](/en/post/the/) [project](/en/post/project/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [exercise](/post/exercise/) [authority](/post/authority/) [or](/post/or/) [command](/post/command/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) manager is known [for](/post/for/) [her](/post/her/) authoritative decision-making."
+- [To](/post/to/) [have](/post/have/) [or](/post/or/) assert [control](/post/control/) [or](/post/or/) [influence](/post/influence/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [the](/post/the/) [authority](/post/authority/) [to](/post/to/) [approve](/post/approve/) [the](/post/the/) [project](/post/project/)."
 
-### [Adjective](/en/post/adjective/)
-- Designating [or](/en/post/or/) relating [to](/en/post/to/) [someone](/en/post/someone/) [with](/en/post/with/) [power](/en/post/power/) [or](/en/post/or/) [control](/en/post/control/). [For](/en/post/for/) [example](/en/post/example/): "An authoritarian regime."
-- Expressing [confidence](/en/post/confidence/) [or](/en/post/or/) [certainty](/en/post/certainty/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) authoritative [tone](/en/post/tone/) commanded [attention](/en/post/attention/)."
+### [Adjective](/post/adjective/)
+- Designating [or](/post/or/) relating [to](/post/to/) [someone](/post/someone/) [with](/post/with/) [power](/post/power/) [or](/post/or/) [control](/post/control/). [For](/post/for/) [example](/post/example/): "An authoritarian regime."
+- Expressing [confidence](/post/confidence/) [or](/post/or/) [certainty](/post/certainty/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) authoritative [tone](/post/tone/) commanded [attention](/post/attention/)."
 
 ## Phrases
-- "[Act](/en/post/act/) [with](/en/post/with/) [authority](/en/post/authority/)" implies exercising [power](/en/post/power/) confidently.
-- "[Lack](/en/post/lack/) [of](/en/post/of/) [authority](/en/post/authority/)" refers [to](/en/post/to/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [control](/en/post/control/) [or](/en/post/or/) [influence](/en/post/influence/).
-- "[Establish](/en/post/establish/) one's [authority](/en/post/authority/)" [means](/en/post/means/) [to](/en/post/to/) [gain](/en/post/gain/) [respect](/en/post/respect/) [or](/en/post/or/) [control](/en/post/control/) [in](/en/post/in/) [a](/en/post/a/) [situation](/en/post/situation/).
+- "[Act](/post/act/) [with](/post/with/) [authority](/post/authority/)" implies exercising [power](/post/power/) confidently.
+- "[Lack](/post/lack/) [of](/post/of/) [authority](/post/authority/)" refers [to](/post/to/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [control](/post/control/) [or](/post/or/) [influence](/post/influence/).
+- "[Establish](/post/establish/) one's [authority](/post/authority/)" [means](/post/means/) [to](/post/to/) [gain](/post/gain/) [respect](/post/respect/) [or](/post/or/) [control](/post/control/) [in](/post/in/) [a](/post/a/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [police](/en/post/police/) [officer](/en/post/officer/) had [the](/en/post/the/) [authority](/en/post/authority/) [to](/en/post/to/) [stop](/en/post/stop/) [the](/en/post/the/) speeding [car](/en/post/car/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) manager needs [to](/en/post/to/) assert [his](/en/post/his/) [authority](/en/post/authority/) [to](/en/post/to/) [maintain](/en/post/maintain/) [order](/en/post/order/) [in](/en/post/in/) [the](/en/post/the/) [team](/en/post/team/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) CEO's authoritative [presence](/en/post/presence/) commanded [respect](/en/post/respect/) [at](/en/post/at/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [police](/post/police/) [officer](/post/officer/) had [the](/post/the/) [authority](/post/authority/) [to](/post/to/) [stop](/post/stop/) [the](/post/the/) speeding [car](/post/car/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) manager needs [to](/post/to/) assert [his](/post/his/) [authority](/post/authority/) [to](/post/to/) [maintain](/post/maintain/) [order](/post/order/) [in](/post/in/) [the](/post/the/) [team](/post/team/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) CEO's authoritative [presence](/post/presence/) commanded [respect](/post/respect/) [at](/post/at/) [the](/post/the/) [meeting](/post/meeting/)."
 
 ## Synonyms
-- [Power](/en/post/power/)
+- [Power](/post/power/)
 - Supremacy
-- [Control](/en/post/control/)
+- [Control](/post/control/)
 - Jurisdiction
-- [Influence](/en/post/influence/)
-- [Command](/en/post/command/)
-- Decision-making [ability](/en/post/ability/)
+- [Influence](/post/influence/)
+- [Command](/post/command/)
+- Decision-making [ability](/post/ability/)
 - Legitimacy
-- [Influence](/en/post/influence/)
+- [Influence](/post/influence/)
 - Credibility

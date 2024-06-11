@@ -12,25 +12,25 @@ keywords = ['ai words', 'turning']
 
 ## 释义
 - **名词**:
-  - 转变；转折点：指事物从一个状态或方向转变为另一个状态或方向的关键时刻。例如: "[The](/post/the/) [turning](/post/turning/) [point](/post/point/) [in](/post/in/) [the](/post/the/) [story](/post/story/) was [when](/post/when/) [the](/post/the/) [main](/post/main/) [character](/post/character/) discovered [the](/post/the/) [truth](/post/truth/)."
-  - 旋转；转动：物体围绕自己的轴线或其他点移动。例如: "[The](/post/the/) [wheel](/post/wheel/) made [a](/post/a/) [smooth](/post/smooth/) [turning](/post/turning/)."
+  - 转变；转折点：指事物从一个状态或方向转变为另一个状态或方向的关键时刻。例如: "[The](/zh/post/the/) [turning](/zh/post/turning/) [point](/zh/post/point/) [in](/zh/post/in/) [the](/zh/post/the/) [story](/zh/post/story/) was [when](/zh/post/when/) [the](/zh/post/the/) [main](/zh/post/main/) [character](/zh/post/character/) discovered [the](/zh/post/the/) [truth](/zh/post/truth/)."
+  - 旋转；转动：物体围绕自己的轴线或其他点移动。例如: "[The](/zh/post/the/) [wheel](/zh/post/wheel/) made [a](/zh/post/a/) [smooth](/zh/post/smooth/) [turning](/zh/post/turning/)."
 
 - **动词**:
-  - 转动；旋转：使物体改变方向或位置。例如: "[She](/post/she/) turned [the](/post/the/) [handle](/post/handle/) [to](/post/to/) [open](/post/open/) [the](/post/the/) [door](/post/door/)."
-  - 变化；转变：改变性质、状态或方向。例如: "[As](/post/as/) [the](/post/the/) [weather](/post/weather/) turned colder, [people](/post/people/) started wearing coats."
+  - 转动；旋转：使物体改变方向或位置。例如: "[She](/zh/post/she/) turned [the](/zh/post/the/) [handle](/zh/post/handle/) [to](/zh/post/to/) [open](/zh/post/open/) [the](/zh/post/the/) [door](/zh/post/door/)."
+  - 变化；转变：改变性质、状态或方向。例如: "[As](/zh/post/as/) [the](/zh/post/the/) [weather](/zh/post/weather/) turned colder, [people](/zh/post/people/) started wearing coats."
 
 ## 短语
-- "[Take](/post/take/) [a](/post/a/) [turn](/post/turn/)" 意为轮流做某事。
-- "[Turn](/post/turn/) [around](/post/around/)" 指身体或物体的旋转，也常用于请求某人改变行为。例如: "[Please](/post/please/) [turn](/post/turn/) [around](/post/around/) [so](/post/so/) I [can](/post/can/) [see](/post/see/) [your](/post/your/) [face](/post/face/)."
+- "[Take](/zh/post/take/) [a](/zh/post/a/) [turn](/zh/post/turn/)" 意为轮流做某事。
+- "[Turn](/zh/post/turn/) [around](/zh/post/around/)" 指身体或物体的旋转，也常用于请求某人改变行为。例如: "[Please](/zh/post/please/) [turn](/zh/post/turn/) [around](/zh/post/around/) [so](/zh/post/so/) I [can](/zh/post/can/) [see](/zh/post/see/) [your](/zh/post/your/) [face](/zh/post/face/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [turning](/post/turning/) [of](/post/of/) [the](/post/the/) [tide](/post/tide/) marked [the](/post/the/) [end](/post/end/) [of](/post/of/) [their](/post/their/) [victory](/post/victory/) celebrations."
-- 动词: "[He](/post/he/) turned [the](/post/the/) [key](/post/key/) [in](/post/in/) [the](/post/the/) [lock](/post/lock/) [and](/post/and/) pushed [the](/post/the/) [door](/post/door/) [open](/post/open/)."
-- 动词（变化）: "[Her](/post/her/) [mood](/post/mood/) [suddenly](/post/suddenly/) turned [from](/post/from/) [joy](/post/joy/) [to](/post/to/) [sadness](/post/sadness/)."
+- 名词: "[The](/zh/post/the/) [turning](/zh/post/turning/) [of](/zh/post/of/) [the](/zh/post/the/) [tide](/zh/post/tide/) marked [the](/zh/post/the/) [end](/zh/post/end/) [of](/zh/post/of/) [their](/zh/post/their/) [victory](/zh/post/victory/) celebrations."
+- 动词: "[He](/zh/post/he/) turned [the](/zh/post/the/) [key](/zh/post/key/) [in](/zh/post/in/) [the](/zh/post/the/) [lock](/zh/post/lock/) [and](/zh/post/and/) pushed [the](/zh/post/the/) [door](/zh/post/door/) [open](/zh/post/open/)."
+- 动词（变化）: "[Her](/zh/post/her/) [mood](/zh/post/mood/) [suddenly](/zh/post/suddenly/) turned [from](/zh/post/from/) [joy](/zh/post/joy/) [to](/zh/post/to/) [sadness](/zh/post/sadness/)."
 
 ## 同义词
-- [Rotation](/post/rotation/)
-- [Shift](/post/shift/)
+- [Rotation](/zh/post/rotation/)
+- [Shift](/zh/post/shift/)
 - Alteration
-- [Change](/post/change/)
-- [Transformation](/post/transformation/)
+- [Change](/zh/post/change/)
+- [Transformation](/zh/post/transformation/)

@@ -7,39 +7,39 @@ description = '[t∫uːz] vt.选择，挑选；情愿'
 keywords = ['ai words', 'choose']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃuːz/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: **n** (chose), **v** ([to](/en/post/to/) [choose](/en/post/choose/)) [The](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) selecting [one](/en/post/one/) [option](/en/post/option/) [from](/en/post/from/) [a](/en/post/a/) [set](/en/post/set/), [often](/en/post/often/) based [on](/en/post/on/) [preference](/en/post/preference/) [or](/en/post/or/) [necessity](/en/post/necessity/). 
-- **[Adjective](/en/post/adjective/)**: Having [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) chosen [or](/en/post/or/) picked [out](/en/post/out/); preferred. 
+- **[Verb](/post/verb/)**: **n** (chose), **v** ([to](/post/to/) [choose](/post/choose/)) [The](/post/the/) [action](/post/action/) [of](/post/of/) selecting [one](/post/one/) [option](/post/option/) [from](/post/from/) [a](/post/a/) [set](/post/set/), [often](/post/often/) based [on](/post/on/) [preference](/post/preference/) [or](/post/or/) [necessity](/post/necessity/). 
+- **[Adjective](/post/adjective/)**: Having [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) chosen [or](/post/or/) picked [out](/post/out/); preferred. 
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [choice](/en/post/choice/)" [means](/en/post/means/) [to](/en/post/to/) [decide](/en/post/decide/) [between](/en/post/between/) options.
-- "[Out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [blue](/en/post/blue/), [he](/en/post/he/) chose [to](/en/post/to/) [move](/en/post/move/) [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [city](/en/post/city/)."
-- "[The](/en/post/the/) winning [team](/en/post/team/) was chosen based [on](/en/post/on/) [their](/en/post/their/) [performance](/en/post/performance/)."
+- "[Make](/post/make/) [a](/post/a/) [choice](/post/choice/)" [means](/post/means/) [to](/post/to/) [decide](/post/decide/) [between](/post/between/) options.
+- "[Out](/post/out/) [of](/post/of/) [the](/post/the/) [blue](/post/blue/), [he](/post/he/) chose [to](/post/to/) [move](/post/move/) [to](/post/to/) [a](/post/a/) [new](/post/new/) [city](/post/city/)."
+- "[The](/post/the/) winning [team](/post/team/) was chosen based [on](/post/on/) [their](/post/their/) [performance](/post/performance/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [much](/en/post/much/) deliberation, [she](/en/post/she/) [finally](/en/post/finally/) chose [the](/en/post/the/) [red](/en/post/red/) [dress](/en/post/dress/) [for](/en/post/for/) [the](/en/post/the/) [wedding](/en/post/wedding/)."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [decision](/en/post/decision/) [to](/en/post/to/) [pursue](/en/post/pursue/) [a](/en/post/a/) [career](/en/post/career/) [in](/en/post/in/) [medicine](/en/post/medicine/) was [a](/en/post/a/) well-considered [choice](/en/post/choice/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) chosen [candidate](/en/post/candidate/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/) received [many](/en/post/many/) congratulations."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) [much](/post/much/) deliberation, [she](/post/she/) [finally](/post/finally/) chose [the](/post/the/) [red](/post/red/) [dress](/post/dress/) [for](/post/for/) [the](/post/the/) [wedding](/post/wedding/)."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [decision](/post/decision/) [to](/post/to/) [pursue](/post/pursue/) [a](/post/a/) [career](/post/career/) [in](/post/in/) [medicine](/post/medicine/) was [a](/post/a/) well-considered [choice](/post/choice/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) chosen [candidate](/post/candidate/) [for](/post/for/) [the](/post/the/) [job](/post/job/) received [many](/post/many/) congratulations."
 
 ## Synonyms
-- [Select](/en/post/select/)
-- [Pick](/en/post/pick/)
-- Opt [for](/en/post/for/)
-- [Decide](/en/post/decide/) [upon](/en/post/upon/)
-- [elect](/en/post/elect/)
+- [Select](/post/select/)
+- [Pick](/post/pick/)
+- Opt [for](/post/for/)
+- [Decide](/post/decide/) [upon](/post/upon/)
+- [elect](/post/elect/)
 - favor
 
 ## Antonyms
-- [Reject](/en/post/reject/)
-- [Ignore](/en/post/ignore/)
+- [Reject](/post/reject/)
+- [Ignore](/post/ignore/)
 - Abstain
-- [Avoid](/en/post/avoid/)
-- [Deny](/en/post/deny/)
+- [Avoid](/post/avoid/)
+- [Deny](/post/deny/)
 
-## [Usage](/en/post/usage/) Notes
-- "[Choose](/en/post/choose/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [both](/en/post/both/) [a](/en/post/a/) transitive (choosing [something](/en/post/something/)) [and](/en/post/and/) intransitive [verb](/en/post/verb/) (choosing [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/)).
-- [The](/en/post/the/) [past](/en/post/past/) [tense](/en/post/tense/) is "chose" [and](/en/post/and/) [the](/en/post/the/) [past](/en/post/past/) participle is "chosen."
-- [In](/en/post/in/) informal settings, "[pick](/en/post/pick/)" [or](/en/post/or/) "[select](/en/post/select/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) interchangeably [with](/en/post/with/) "[choose](/en/post/choose/)."
+## [Usage](/post/usage/) Notes
+- "[Choose](/post/choose/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [both](/post/both/) [a](/post/a/) transitive (choosing [something](/post/something/)) [and](/post/and/) intransitive [verb](/post/verb/) (choosing [to](/post/to/) [do](/post/do/) [something](/post/something/)).
+- [The](/post/the/) [past](/post/past/) [tense](/post/tense/) is "chose" [and](/post/and/) [the](/post/the/) [past](/post/past/) participle is "chosen."
+- [In](/post/in/) informal settings, "[pick](/post/pick/)" [or](/post/or/) "[select](/post/select/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) interchangeably [with](/post/with/) "[choose](/post/choose/)."

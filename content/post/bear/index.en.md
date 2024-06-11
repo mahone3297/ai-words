@@ -7,42 +7,42 @@ description = '[beə] vt.容忍；负担；生育'
 keywords = ['ai words', 'bear']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /beər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [A](/en/post/a/) [large](/en/post/large/), typically carnivorous mammal [with](/en/post/with/) shaggy [fur](/en/post/fur/), [long](/en/post/long/) legs, [and](/en/post/and/) [a](/en/post/a/) [powerful](/en/post/powerful/) [build](/en/post/build/), [native](/en/post/native/) [to](/en/post/to/) [various](/en/post/various/) parts [of](/en/post/of/) [the](/en/post/the/) [world](/en/post/world/), [especially](/en/post/especially/) [in](/en/post/in/) forests [and](/en/post/and/) mountains: *[The](/en/post/the/) grizzly [bear](/en/post/bear/) is [a](/en/post/a/) formidable predator.*
-- **2.** [A](/en/post/a/) person's offspring [or](/en/post/or/) children collectively: *[She](/en/post/she/) has [three](/en/post/three/) grown bears (children).*
-- **3.** [A](/en/post/a/) [symbol](/en/post/symbol/) [or](/en/post/or/) representation [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [endure](/en/post/endure/) [hardship](/en/post/hardship/) [or](/en/post/or/) adversity: *[The](/en/post/the/) [company](/en/post/company/) logo is [a](/en/post/a/) [bear](/en/post/bear/) standing [strong](/en/post/strong/), representing resilience.*
+### [Noun](/post/noun/)
+- **1.** [A](/post/a/) [large](/post/large/), typically carnivorous mammal [with](/post/with/) shaggy [fur](/post/fur/), [long](/post/long/) legs, [and](/post/and/) [a](/post/a/) [powerful](/post/powerful/) [build](/post/build/), [native](/post/native/) [to](/post/to/) [various](/post/various/) parts [of](/post/of/) [the](/post/the/) [world](/post/world/), [especially](/post/especially/) [in](/post/in/) forests [and](/post/and/) mountains: *[The](/post/the/) grizzly [bear](/post/bear/) is [a](/post/a/) formidable predator.*
+- **2.** [A](/post/a/) person's offspring [or](/post/or/) children collectively: *[She](/post/she/) has [three](/post/three/) grown bears (children).*
+- **3.** [A](/post/a/) [symbol](/post/symbol/) [or](/post/or/) representation [of](/post/of/) [something](/post/something/), [often](/post/often/) [used](/post/used/) [to](/post/to/) [endure](/post/endure/) [hardship](/post/hardship/) [or](/post/or/) adversity: *[The](/post/the/) [company](/post/company/) logo is [a](/post/a/) [bear](/post/bear/) standing [strong](/post/strong/), representing resilience.*
 
-### [Verb](/en/post/verb/)
-- **1.** [To](/en/post/to/) [carry](/en/post/carry/) [or](/en/post/or/) [support](/en/post/support/): *[He](/en/post/he/) was [able](/en/post/able/) [to](/en/post/to/) [bear](/en/post/bear/) [the](/en/post/the/) [heavy](/en/post/heavy/) [load](/en/post/load/) [alone](/en/post/alone/).*
-- **2.** [To](/en/post/to/) [tolerate](/en/post/tolerate/) [or](/en/post/or/) [endure](/en/post/endure/): *[She](/en/post/she/) [could](/en/post/could/) [not](/en/post/not/) [bear](/en/post/bear/) [the](/en/post/the/) [noise](/en/post/noise/) [any](/en/post/any/) longer.*
-- **3.** [To](/en/post/to/) [carry](/en/post/carry/) [or](/en/post/or/) [bring](/en/post/bring/) [forth](/en/post/forth/) ([a](/en/post/a/) [fruit](/en/post/fruit/) [or](/en/post/or/) [vegetable](/en/post/vegetable/)): *[The](/en/post/the/) [tree](/en/post/tree/) bears [a](/en/post/a/) bountiful [crop](/en/post/crop/) [each](/en/post/each/) [year](/en/post/year/).*
-- **4.** (informal) [To](/en/post/to/) [support](/en/post/support/) [or](/en/post/or/) endorse: *[He](/en/post/he/) bears [witness](/en/post/witness/) [to](/en/post/to/) [her](/en/post/her/) innocence.*
+### [Verb](/post/verb/)
+- **1.** [To](/post/to/) [carry](/post/carry/) [or](/post/or/) [support](/post/support/): *[He](/post/he/) was [able](/post/able/) [to](/post/to/) [bear](/post/bear/) [the](/post/the/) [heavy](/post/heavy/) [load](/post/load/) [alone](/post/alone/).*
+- **2.** [To](/post/to/) [tolerate](/post/tolerate/) [or](/post/or/) [endure](/post/endure/): *[She](/post/she/) [could](/post/could/) [not](/post/not/) [bear](/post/bear/) [the](/post/the/) [noise](/post/noise/) [any](/post/any/) longer.*
+- **3.** [To](/post/to/) [carry](/post/carry/) [or](/post/or/) [bring](/post/bring/) [forth](/post/forth/) ([a](/post/a/) [fruit](/post/fruit/) [or](/post/or/) [vegetable](/post/vegetable/)): *[The](/post/the/) [tree](/post/tree/) bears [a](/post/a/) bountiful [crop](/post/crop/) [each](/post/each/) [year](/post/year/).*
+- **4.** (informal) [To](/post/to/) [support](/post/support/) [or](/post/or/) endorse: *[He](/post/he/) bears [witness](/post/witness/) [to](/post/to/) [her](/post/her/) innocence.*
 
-### [Adjective](/en/post/adjective/)
-- **1.** [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [bear](/en/post/bear/), [such](/en/post/such/) [as](/en/post/as/) [strength](/en/post/strength/) [or](/en/post/or/) ferocity: *[The](/en/post/the/) bearish [market](/en/post/market/) [trend](/en/post/trend/).*
-- **2.** Having [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [withstand](/en/post/withstand/) [or](/en/post/or/) [endure](/en/post/endure/): *[A](/en/post/a/) bear-resistant [container](/en/post/container/).*
-- **3.** [In](/en/post/in/) [the](/en/post/the/) [shape](/en/post/shape/) [or](/en/post/or/) [form](/en/post/form/) [of](/en/post/of/) [a](/en/post/a/) [bear](/en/post/bear/): *[A](/en/post/a/) teddy [bear](/en/post/bear/) [toy](/en/post/toy/).*
+### [Adjective](/post/adjective/)
+- **1.** [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [bear](/post/bear/), [such](/post/such/) [as](/post/as/) [strength](/post/strength/) [or](/post/or/) ferocity: *[The](/post/the/) bearish [market](/post/market/) [trend](/post/trend/).*
+- **2.** Having [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [withstand](/post/withstand/) [or](/post/or/) [endure](/post/endure/): *[A](/post/a/) bear-resistant [container](/post/container/).*
+- **3.** [In](/post/in/) [the](/post/the/) [shape](/post/shape/) [or](/post/or/) [form](/post/form/) [of](/post/of/) [a](/post/a/) [bear](/post/bear/): *[A](/post/a/) teddy [bear](/post/bear/) [toy](/post/toy/).*
 
-### [Adverb](/en/post/adverb/)
-- **1.** (informal) Enduringly; [with](/en/post/with/) [great](/en/post/great/) fortitude: *[She](/en/post/she/) [bore](/en/post/bore/) [the](/en/post/the/) [pain](/en/post/pain/) bravely.*
+### [Adverb](/post/adverb/)
+- **1.** (informal) Enduringly; [with](/post/with/) [great](/post/great/) fortitude: *[She](/post/she/) [bore](/post/bore/) [the](/post/the/) [pain](/post/pain/) bravely.*
 
 ## Phrases
-- "[Bear](/en/post/bear/) [the](/en/post/the/) [responsibility](/en/post/responsibility/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [on](/en/post/on/) [the](/en/post/the/) [duty](/en/post/duty/) [or](/en/post/or/) obligation.
-- "[Bear](/en/post/bear/) [with](/en/post/with/) [me](/en/post/me/)" is [a](/en/post/a/) [request](/en/post/request/) [for](/en/post/for/) [patience](/en/post/patience/) [or](/en/post/or/) [understanding](/en/post/understanding/).
-- "[Bear](/en/post/bear/) [in](/en/post/in/) [mind](/en/post/mind/)" signifies [that](/en/post/that/) [one](/en/post/one/) [should](/en/post/should/) [remember](/en/post/remember/) [or](/en/post/or/) [consider](/en/post/consider/) [something](/en/post/something/).
+- "[Bear](/post/bear/) [the](/post/the/) [responsibility](/post/responsibility/)" [means](/post/means/) [to](/post/to/) [take](/post/take/) [on](/post/on/) [the](/post/the/) [duty](/post/duty/) [or](/post/or/) obligation.
+- "[Bear](/post/bear/) [with](/post/with/) [me](/post/me/)" is [a](/post/a/) [request](/post/request/) [for](/post/for/) [patience](/post/patience/) [or](/post/or/) [understanding](/post/understanding/).
+- "[Bear](/post/bear/) [in](/post/in/) [mind](/post/mind/)" signifies [that](/post/that/) [one](/post/one/) [should](/post/should/) [remember](/post/remember/) [or](/post/or/) [consider](/post/consider/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) hiker spotted [a](/en/post/a/) [mother](/en/post/mother/) [bear](/en/post/bear/) [and](/en/post/and/) [her](/en/post/her/) cubs playing [near](/en/post/near/) [the](/en/post/the/) [river](/en/post/river/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [construction](/en/post/construction/) workers were [able](/en/post/able/) [to](/en/post/to/) [bear](/en/post/bear/) [the](/en/post/the/) [weight](/en/post/weight/) [of](/en/post/of/) [the](/en/post/the/) [heavy](/en/post/heavy/) machinery."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [stock](/en/post/stock/) [market](/en/post/market/) showed [a](/en/post/a/) bearish [trend](/en/post/trend/) [over](/en/post/over/) [the](/en/post/the/) [past](/en/post/past/) [month](/en/post/month/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) had [to](/en/post/to/) [bear](/en/post/bear/) [the](/en/post/the/) [pain](/en/post/pain/) [of](/en/post/of/) [surgery](/en/post/surgery/) [without](/en/post/without/) anesthesia."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) hiker spotted [a](/post/a/) [mother](/post/mother/) [bear](/post/bear/) [and](/post/and/) [her](/post/her/) cubs playing [near](/post/near/) [the](/post/the/) [river](/post/river/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [construction](/post/construction/) workers were [able](/post/able/) [to](/post/to/) [bear](/post/bear/) [the](/post/the/) [weight](/post/weight/) [of](/post/of/) [the](/post/the/) [heavy](/post/heavy/) machinery."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [stock](/post/stock/) [market](/post/market/) showed [a](/post/a/) bearish [trend](/post/trend/) [over](/post/over/) [the](/post/the/) [past](/post/past/) [month](/post/month/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) had [to](/post/to/) [bear](/post/bear/) [the](/post/the/) [pain](/post/pain/) [of](/post/of/) [surgery](/post/surgery/) [without](/post/without/) anesthesia."
 
 ## Synonyms
-- [Noun](/en/post/noun/): cub, offspring, [brood](/en/post/brood/), progeny
-- [Verb](/en/post/verb/): [carry](/en/post/carry/), [tolerate](/en/post/tolerate/), [endure](/en/post/endure/), [withstand](/en/post/withstand/)
-- [Adjective](/en/post/adjective/): robust, sturdy, [tough](/en/post/tough/), formidable
-- [Adverb](/en/post/adverb/): stoically, resolutely, gamely
+- [Noun](/post/noun/): cub, offspring, [brood](/post/brood/), progeny
+- [Verb](/post/verb/): [carry](/post/carry/), [tolerate](/post/tolerate/), [endure](/post/endure/), [withstand](/post/withstand/)
+- [Adjective](/post/adjective/): robust, sturdy, [tough](/post/tough/), formidable
+- [Adverb](/post/adverb/): stoically, resolutely, gamely

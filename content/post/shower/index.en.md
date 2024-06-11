@@ -7,36 +7,36 @@ description = '[ˈ∫auə] n.阵雨；(一)阵；淋浴'
 keywords = ['ai words', 'shower']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʃəʊər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/)**: [A](/en/post/a/) [supply](/en/post/supply/) [of](/en/post/of/) [water](/en/post/water/) [that](/en/post/that/) falls [from](/en/post/from/) [the](/en/post/the/) [sky](/en/post/sky/) [in](/en/post/in/) [liquid](/en/post/liquid/) [form](/en/post/form/), [often](/en/post/often/) [as](/en/post/as/) precipitation. [Example](/en/post/example/): "[The](/en/post/the/) [rain](/en/post/rain/) [shower](/en/post/shower/) lasted [all](/en/post/all/) [morning](/en/post/morning/)."
-- **[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [room](/en/post/room/) [or](/en/post/or/) [facility](/en/post/facility/)**: [A](/en/post/a/) [place](/en/post/place/) [with](/en/post/with/) [a](/en/post/a/) [shower](/en/post/shower/) installed [for](/en/post/for/) [personal](/en/post/personal/) hygiene. [Example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) workout, I went [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [quick](/en/post/quick/) [shower](/en/post/shower/)."
-- **[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [device](/en/post/device/)**: [A](/en/post/a/) fixture [in](/en/post/in/) [a](/en/post/a/) [bathroom](/en/post/bathroom/) [that](/en/post/that/) supplies [water](/en/post/water/) [for](/en/post/for/) washing [oneself](/en/post/oneself/). [Example](/en/post/example/): "[The](/en/post/the/) [hotel](/en/post/hotel/) had [modern](/en/post/modern/) showers [with](/en/post/with/) [multiple](/en/post/multiple/) settings."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [act](/post/act/)**: [A](/post/a/) [supply](/post/supply/) [of](/post/of/) [water](/post/water/) [that](/post/that/) falls [from](/post/from/) [the](/post/the/) [sky](/post/sky/) [in](/post/in/) [liquid](/post/liquid/) [form](/post/form/), [often](/post/often/) [as](/post/as/) precipitation. [Example](/post/example/): "[The](/post/the/) [rain](/post/rain/) [shower](/post/shower/) lasted [all](/post/all/) [morning](/post/morning/)."
+- **[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [room](/post/room/) [or](/post/or/) [facility](/post/facility/)**: [A](/post/a/) [place](/post/place/) [with](/post/with/) [a](/post/a/) [shower](/post/shower/) installed [for](/post/for/) [personal](/post/personal/) hygiene. [Example](/post/example/): "[After](/post/after/) [the](/post/the/) workout, I went [to](/post/to/) [take](/post/take/) [a](/post/a/) [quick](/post/quick/) [shower](/post/shower/)."
+- **[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [device](/post/device/)**: [A](/post/a/) fixture [in](/post/in/) [a](/post/a/) [bathroom](/post/bathroom/) [that](/post/that/) supplies [water](/post/water/) [for](/post/for/) washing [oneself](/post/oneself/). [Example](/post/example/): "[The](/post/the/) [hotel](/post/hotel/) had [modern](/post/modern/) showers [with](/post/with/) [multiple](/post/multiple/) settings."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [verb](/en/post/verb/)**: [To](/en/post/to/) [bathe](/en/post/bathe/) [or](/en/post/or/) [clean](/en/post/clean/) [oneself](/en/post/oneself/) [by](/en/post/by/) using [water](/en/post/water/) [from](/en/post/from/) [a](/en/post/a/) [shower](/en/post/shower/). [Example](/en/post/example/): "[She](/en/post/she/) likes [to](/en/post/to/) [shower](/en/post/shower/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/) [to](/en/post/to/) [start](/en/post/start/) [her](/en/post/her/) [day](/en/post/day/) [fresh](/en/post/fresh/)."
-- **[To](/en/post/to/) [verb](/en/post/verb/) (figurative)**: [To](/en/post/to/) [provide](/en/post/provide/) [or](/en/post/or/) [give](/en/post/give/) [a](/en/post/a/) [sudden](/en/post/sudden/), [intense](/en/post/intense/) [experience](/en/post/experience/) [or](/en/post/or/) [release](/en/post/release/). [Example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) manager showered [the](/en/post/the/) [team](/en/post/team/) [with](/en/post/with/) [praise](/en/post/praise/) [after](/en/post/after/) [their](/en/post/their/) [successful](/en/post/successful/) completion."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [verb](/post/verb/)**: [To](/post/to/) [bathe](/post/bathe/) [or](/post/or/) [clean](/post/clean/) [oneself](/post/oneself/) [by](/post/by/) using [water](/post/water/) [from](/post/from/) [a](/post/a/) [shower](/post/shower/). [Example](/post/example/): "[She](/post/she/) likes [to](/post/to/) [shower](/post/shower/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/) [to](/post/to/) [start](/post/start/) [her](/post/her/) [day](/post/day/) [fresh](/post/fresh/)."
+- **[To](/post/to/) [verb](/post/verb/) (figurative)**: [To](/post/to/) [provide](/post/provide/) [or](/post/or/) [give](/post/give/) [a](/post/a/) [sudden](/post/sudden/), [intense](/post/intense/) [experience](/post/experience/) [or](/post/or/) [release](/post/release/). [Example](/post/example/): "[The](/post/the/) [project](/post/project/) manager showered [the](/post/the/) [team](/post/team/) [with](/post/with/) [praise](/post/praise/) [after](/post/after/) [their](/post/their/) [successful](/post/successful/) completion."
 
-### [Adjective](/en/post/adjective/)
-- **Describing [something](/en/post/something/) [that](/en/post/that/) is [sudden](/en/post/sudden/) [or](/en/post/or/) [intense](/en/post/intense/)**: Characterizing [a](/en/post/a/) [sudden](/en/post/sudden/) [or](/en/post/or/) [abundant](/en/post/abundant/) [supply](/en/post/supply/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [shower](/en/post/shower/) [of](/en/post/of/) ideas was [unexpected](/en/post/unexpected/)."
-- **Describing [a](/en/post/a/) [feeling](/en/post/feeling/) [or](/en/post/or/) [emotion](/en/post/emotion/)**: [Intense](/en/post/intense/) [and](/en/post/and/) overwhelming, [often](/en/post/often/) [positive](/en/post/positive/). [Example](/en/post/example/): "[The](/en/post/the/) [concert](/en/post/concert/) was [a](/en/post/a/) [shower](/en/post/shower/) [of](/en/post/of/) [happiness](/en/post/happiness/) [for](/en/post/for/) [the](/en/post/the/) fans."
+### [Adjective](/post/adjective/)
+- **Describing [something](/post/something/) [that](/post/that/) is [sudden](/post/sudden/) [or](/post/or/) [intense](/post/intense/)**: Characterizing [a](/post/a/) [sudden](/post/sudden/) [or](/post/or/) [abundant](/post/abundant/) [supply](/post/supply/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [shower](/post/shower/) [of](/post/of/) ideas was [unexpected](/post/unexpected/)."
+- **Describing [a](/post/a/) [feeling](/post/feeling/) [or](/post/or/) [emotion](/post/emotion/)**: [Intense](/post/intense/) [and](/post/and/) overwhelming, [often](/post/often/) [positive](/post/positive/). [Example](/post/example/): "[The](/post/the/) [concert](/post/concert/) was [a](/post/a/) [shower](/post/shower/) [of](/post/of/) [happiness](/post/happiness/) [for](/post/for/) [the](/post/the/) fans."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [shower](/en/post/shower/)" [means](/en/post/means/) [to](/en/post/to/) [bathe](/en/post/bathe/) using [a](/en/post/a/) [shower](/en/post/shower/).
-- "Showerhead" refers [to](/en/post/to/) [the](/en/post/the/) nozzle [from](/en/post/from/) [which](/en/post/which/) [water](/en/post/water/) comes [out](/en/post/out/) [in](/en/post/in/) [a](/en/post/a/) [shower](/en/post/shower/).
-- "[Shower](/en/post/shower/) gel" [or](/en/post/or/) "[shampoo](/en/post/shampoo/)" are products [used](/en/post/used/) [during](/en/post/during/) [a](/en/post/a/) [shower](/en/post/shower/).
+- "[Take](/post/take/) [a](/post/a/) [shower](/post/shower/)" [means](/post/means/) [to](/post/to/) [bathe](/post/bathe/) using [a](/post/a/) [shower](/post/shower/).
+- "Showerhead" refers [to](/post/to/) [the](/post/the/) nozzle [from](/post/from/) [which](/post/which/) [water](/post/water/) comes [out](/post/out/) [in](/post/in/) [a](/post/a/) [shower](/post/shower/).
+- "[Shower](/post/shower/) gel" [or](/post/or/) "[shampoo](/post/shampoo/)" are products [used](/post/used/) [during](/post/during/) [a](/post/a/) [shower](/post/shower/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were playing [in](/en/post/in/) [the](/en/post/the/) [rain](/en/post/rain/) [shower](/en/post/shower/) [outside](/en/post/outside/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) hike, [she](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [quick](/en/post/quick/) [shower](/en/post/shower/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [party](/en/post/party/) was [a](/en/post/a/) [shower](/en/post/shower/) [of](/en/post/of/) [laughter](/en/post/laughter/) [and](/en/post/and/) [joy](/en/post/joy/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were playing [in](/post/in/) [the](/post/the/) [rain](/post/rain/) [shower](/post/shower/) [outside](/post/outside/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [long](/post/long/) hike, [she](/post/she/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [quick](/post/quick/) [shower](/post/shower/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [party](/post/party/) was [a](/post/a/) [shower](/post/shower/) [of](/post/of/) [laughter](/post/laughter/) [and](/post/and/) [joy](/post/joy/)."
 
 ## Synonyms
-- [Bath](/en/post/bath/)
-- [Wash](/en/post/wash/)
+- [Bath](/post/bath/)
+- [Wash](/post/wash/)
 - Cleanse
 - Deluge
-- [Sprinkle](/en/post/sprinkle/) ([for](/en/post/for/) [a](/en/post/a/) [light](/en/post/light/) [shower](/en/post/shower/))
+- [Sprinkle](/post/sprinkle/) ([for](/post/for/) [a](/post/a/) [light](/post/light/) [shower](/post/shower/))

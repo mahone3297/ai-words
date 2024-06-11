@@ -7,26 +7,26 @@ description = '[ˈlɔiəlti] n.忠诚，忠心'
 keywords = ['ai words', 'loyalty']
 +++
 
-## [Word](/en/post/word/): [Loyalty](/en/post/loyalty/)
+## [Word](/post/word/): [Loyalty](/post/loyalty/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɔɪəlti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [loyal](/en/post/loyal/); faithfulness [or](/en/post/or/) allegiance [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/), [country](/en/post/country/), [organization](/en/post/organization/), [or](/en/post/or/) [cause](/en/post/cause/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [consistent](/en/post/consistent/) [support](/en/post/support/) [or](/en/post/or/) devotion shown [over](/en/post/over/) [time](/en/post/time/). 
+- **[Noun](/post/noun/)**: [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [loyal](/post/loyal/); faithfulness [or](/post/or/) allegiance [to](/post/to/) [a](/post/a/) [person](/post/person/), [country](/post/country/), [organization](/post/organization/), [or](/post/or/) [cause](/post/cause/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [consistent](/post/consistent/) [support](/post/support/) [or](/post/or/) devotion shown [over](/post/over/) [time](/post/time/). 
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/) ([as](/en/post/as/) [a](/en/post/a/) [Noun](/en/post/noun/)): 
-- "[His](/en/post/his/) unwavering [loyalty](/en/post/loyalty/) [to](/en/post/to/) [his](/en/post/his/) friends was admirable."
-- "Customers [have](/en/post/have/) shown [great](/en/post/great/) [loyalty](/en/post/loyalty/) [to](/en/post/to/) [the](/en/post/the/) [brand](/en/post/brand/) [over](/en/post/over/) [the](/en/post/the/) years."
+[Example](/post/example/) [Sentence](/post/sentence/) ([as](/post/as/) [a](/post/a/) [Noun](/post/noun/)): 
+- "[His](/post/his/) unwavering [loyalty](/post/loyalty/) [to](/post/to/) [his](/post/his/) friends was admirable."
+- "Customers [have](/post/have/) shown [great](/post/great/) [loyalty](/post/loyalty/) [to](/post/to/) [the](/post/the/) [brand](/post/brand/) [over](/post/over/) [the](/post/the/) years."
 
 Phrases:
-- "[Loyalty](/en/post/loyalty/) [to](/en/post/to/) [the](/en/post/the/) [crown](/en/post/crown/)": Refers [to](/en/post/to/) [faithful](/en/post/faithful/) allegiance [to](/en/post/to/) one's monarch [or](/en/post/or/) [nation](/en/post/nation/).
-- "[Loyalty](/en/post/loyalty/) [card](/en/post/card/)": [A](/en/post/a/) marketing [tool](/en/post/tool/) [that](/en/post/that/) rewards customers [for](/en/post/for/) [their](/en/post/their/) [repeat](/en/post/repeat/) [business](/en/post/business/).
-- "[Loyalty](/en/post/loyalty/) [above](/en/post/above/) [all](/en/post/all/) [else](/en/post/else/)": Emphasizes [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) remaining [faithful](/en/post/faithful/) [even](/en/post/even/) [when](/en/post/when/) faced [with](/en/post/with/) adversity.
+- "[Loyalty](/post/loyalty/) [to](/post/to/) [the](/post/the/) [crown](/post/crown/)": Refers [to](/post/to/) [faithful](/post/faithful/) allegiance [to](/post/to/) one's monarch [or](/post/or/) [nation](/post/nation/).
+- "[Loyalty](/post/loyalty/) [card](/post/card/)": [A](/post/a/) marketing [tool](/post/tool/) [that](/post/that/) rewards customers [for](/post/for/) [their](/post/their/) [repeat](/post/repeat/) [business](/post/business/).
+- "[Loyalty](/post/loyalty/) [above](/post/above/) [all](/post/all/) [else](/post/else/)": Emphasizes [the](/post/the/) [importance](/post/importance/) [of](/post/of/) remaining [faithful](/post/faithful/) [even](/post/even/) [when](/post/when/) faced [with](/post/with/) adversity.
 
-## [Example](/en/post/example/) Sentences
-- "[Their](/en/post/their/) [loyalty](/en/post/loyalty/) was tested [during](/en/post/during/) [the](/en/post/the/) [difficult](/en/post/difficult/) times, [but](/en/post/but/) [they](/en/post/they/) stood [by](/en/post/by/) [each](/en/post/each/) [other](/en/post/other/)."
-- "[She](/en/post/she/) earned [a](/en/post/a/) promotion [due](/en/post/due/) [to](/en/post/to/) [her](/en/post/her/) long-standing [loyalty](/en/post/loyalty/) [to](/en/post/to/) [the](/en/post/the/) [company](/en/post/company/)."
+## [Example](/post/example/) Sentences
+- "[Their](/post/their/) [loyalty](/post/loyalty/) was tested [during](/post/during/) [the](/post/the/) [difficult](/post/difficult/) times, [but](/post/but/) [they](/post/they/) stood [by](/post/by/) [each](/post/each/) [other](/post/other/)."
+- "[She](/post/she/) earned [a](/post/a/) promotion [due](/post/due/) [to](/post/to/) [her](/post/her/) long-standing [loyalty](/post/loyalty/) [to](/post/to/) [the](/post/the/) [company](/post/company/)."
 
 ## Synonyms
 - Faithfulness
@@ -38,4 +38,4 @@ Phrases:
 - Obedience
 - Trustworthiness
 - Dependability
-- Piety ([in](/en/post/in/) [religious](/en/post/religious/) contexts)
+- Piety ([in](/post/in/) [religious](/post/religious/) contexts)

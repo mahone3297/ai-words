@@ -7,39 +7,39 @@ description = '[seik] n.缘故，理由'
 keywords = ['ai words', 'sake']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈkeɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [reason](/en/post/reason/) [or](/en/post/or/) [purpose](/en/post/purpose/) [for](/en/post/for/) doing [something](/en/post/something/); [often](/en/post/often/) followed [by](/en/post/by/) '[for](/en/post/for/)' [or](/en/post/or/) '[of](/en/post/of/)'. *[For](/en/post/for/) [the](/en/post/the/) [sake](/en/post/sake/) [of](/en/post/of/) [our](/en/post/our/) [friendship](/en/post/friendship/), let's [resolve](/en/post/resolve/) [this](/en/post/this/) [issue](/en/post/issue/).*
-2. [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [concern](/en/post/concern/) [or](/en/post/or/) compassion; [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [sympathy](/en/post/sympathy/) [or](/en/post/or/) [understanding](/en/post/understanding/). *[She](/en/post/she/) did [it](/en/post/it/) [out](/en/post/out/) [of](/en/post/of/) sheer pity's [sake](/en/post/sake/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [reason](/post/reason/) [or](/post/or/) [purpose](/post/purpose/) [for](/post/for/) doing [something](/post/something/); [often](/post/often/) followed [by](/post/by/) '[for](/post/for/)' [or](/post/or/) '[of](/post/of/)'. *[For](/post/for/) [the](/post/the/) [sake](/post/sake/) [of](/post/of/) [our](/post/our/) [friendship](/post/friendship/), let's [resolve](/post/resolve/) [this](/post/this/) [issue](/post/issue/).*
+2. [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [concern](/post/concern/) [or](/post/or/) compassion; [used](/post/used/) [to](/post/to/) [express](/post/express/) [sympathy](/post/sympathy/) [or](/post/or/) [understanding](/post/understanding/). *[She](/post/she/) did [it](/post/it/) [out](/post/out/) [of](/post/of/) sheer pity's [sake](/post/sake/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) [particular](/en/post/particular/) [result](/en/post/result/) [or](/en/post/or/) [outcome](/en/post/outcome/). *We'll [work](/en/post/work/) [late](/en/post/late/) [tonight](/en/post/tonight/) [for](/en/post/for/) [the](/en/post/the/) [sake](/en/post/sake/) [of](/en/post/of/) finishing [the](/en/post/the/) [project](/en/post/project/) [on](/en/post/on/) [time](/en/post/time/).*
-2. [To](/en/post/to/) [endure](/en/post/endure/) [or](/en/post/or/) [tolerate](/en/post/tolerate/) [something](/en/post/something/), [usually](/en/post/usually/) [with](/en/post/with/) [some](/en/post/some/) reluctance [or](/en/post/or/) discomfort. *I'll [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [meeting](/en/post/meeting/), [if](/en/post/if/) [only](/en/post/only/) [for](/en/post/for/) [the](/en/post/the/) [sake](/en/post/sake/) [of](/en/post/of/) appearances.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [do](/post/do/) [something](/post/something/) [in](/post/in/) [order](/post/order/) [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) [particular](/post/particular/) [result](/post/result/) [or](/post/or/) [outcome](/post/outcome/). *We'll [work](/post/work/) [late](/post/late/) [tonight](/post/tonight/) [for](/post/for/) [the](/post/the/) [sake](/post/sake/) [of](/post/of/) finishing [the](/post/the/) [project](/post/project/) [on](/post/on/) [time](/post/time/).*
+2. [To](/post/to/) [endure](/post/endure/) [or](/post/or/) [tolerate](/post/tolerate/) [something](/post/something/), [usually](/post/usually/) [with](/post/with/) [some](/post/some/) reluctance [or](/post/or/) discomfort. *I'll [go](/post/go/) [to](/post/to/) [the](/post/the/) [meeting](/post/meeting/), [if](/post/if/) [only](/post/only/) [for](/post/for/) [the](/post/the/) [sake](/post/sake/) [of](/post/of/) appearances.*
 
-### [Adverb](/en/post/adverb/)
-1. Expressing [the](/en/post/the/) [reason](/en/post/reason/) [or](/en/post/or/) motivation [behind](/en/post/behind/) an [action](/en/post/action/). *[She](/en/post/she/) agreed [to](/en/post/to/) [help](/en/post/help/), [for](/en/post/for/) [his](/en/post/his/) [sake](/en/post/sake/).*
+### [Adverb](/post/adverb/)
+1. Expressing [the](/post/the/) [reason](/post/reason/) [or](/post/or/) motivation [behind](/post/behind/) an [action](/post/action/). *[She](/post/she/) agreed [to](/post/to/) [help](/post/help/), [for](/post/for/) [his](/post/his/) [sake](/post/sake/).*
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [name](/en/post/name/) [of](/en/post/of/) [the](/en/post/the/) [sake](/en/post/sake/)" signifies doing [something](/en/post/something/) [on](/en/post/on/) [behalf](/en/post/behalf/) [of](/en/post/of/) [a](/en/post/a/) higher [purpose](/en/post/purpose/) [or](/en/post/or/) [principle](/en/post/principle/).
-- "[For](/en/post/for/) [the](/en/post/the/) [sake](/en/post/sake/) [of](/en/post/of/) [argument](/en/post/argument/)" is [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) hypothetical scenario [for](/en/post/for/) [discussion](/en/post/discussion/).
-- "[Sake](/en/post/sake/) [of](/en/post/of/) [explanation](/en/post/explanation/)" is said [when](/en/post/when/) giving [a](/en/post/a/) [reason](/en/post/reason/) [or](/en/post/or/) providing clarification.
+- "[In](/post/in/) [the](/post/the/) [name](/post/name/) [of](/post/of/) [the](/post/the/) [sake](/post/sake/)" signifies doing [something](/post/something/) [on](/post/on/) [behalf](/post/behalf/) [of](/post/of/) [a](/post/a/) higher [purpose](/post/purpose/) [or](/post/or/) [principle](/post/principle/).
+- "[For](/post/for/) [the](/post/the/) [sake](/post/sake/) [of](/post/of/) [argument](/post/argument/)" is [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) hypothetical scenario [for](/post/for/) [discussion](/post/discussion/).
+- "[Sake](/post/sake/) [of](/post/of/) [explanation](/post/explanation/)" is said [when](/post/when/) giving [a](/post/a/) [reason](/post/reason/) [or](/post/or/) providing clarification.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) made [the](/en/post/the/) [decision](/en/post/decision/) [to](/en/post/to/) [forgive](/en/post/forgive/) [him](/en/post/him/), [for](/en/post/for/) [the](/en/post/the/) [sake](/en/post/sake/) [of](/en/post/of/) [their](/en/post/their/) children."
-- **[Verb](/en/post/verb/)**: "Let's [postpone](/en/post/postpone/) [the](/en/post/the/) [trip](/en/post/trip/) [until](/en/post/until/) [next](/en/post/next/) [week](/en/post/week/), [for](/en/post/for/) [the](/en/post/the/) [sake](/en/post/sake/) [of](/en/post/of/) [our](/en/post/our/) [health](/en/post/health/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) agreed [to](/en/post/to/) [the](/en/post/the/) [challenge](/en/post/challenge/), [for](/en/post/for/) [the](/en/post/the/) [sake](/en/post/sake/) [of](/en/post/of/) [adventure](/en/post/adventure/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) made [the](/post/the/) [decision](/post/decision/) [to](/post/to/) [forgive](/post/forgive/) [him](/post/him/), [for](/post/for/) [the](/post/the/) [sake](/post/sake/) [of](/post/of/) [their](/post/their/) children."
+- **[Verb](/post/verb/)**: "Let's [postpone](/post/postpone/) [the](/post/the/) [trip](/post/trip/) [until](/post/until/) [next](/post/next/) [week](/post/week/), [for](/post/for/) [the](/post/the/) [sake](/post/sake/) [of](/post/of/) [our](/post/our/) [health](/post/health/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) agreed [to](/post/to/) [the](/post/the/) [challenge](/post/challenge/), [for](/post/for/) [the](/post/the/) [sake](/post/sake/) [of](/post/of/) [adventure](/post/adventure/)."
 
 ## Synonyms
-- [Purpose](/en/post/purpose/)
+- [Purpose](/post/purpose/)
 - Intent
-- [Goal](/en/post/goal/)
-- [Interest](/en/post/interest/)
-- [Concern](/en/post/concern/)
-- [Motive](/en/post/motive/)
-- [Aim](/en/post/aim/)
-- [Reason](/en/post/reason/)
+- [Goal](/post/goal/)
+- [Interest](/post/interest/)
+- [Concern](/post/concern/)
+- [Motive](/post/motive/)
+- [Aim](/post/aim/)
+- [Reason](/post/reason/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [usage](/en/post/usage/) [of](/en/post/of/) "[sake](/en/post/sake/)" [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [can](/en/post/can/) [be](/en/post/be/) [more](/en/post/more/) [commonly](/en/post/commonly/) associated [with](/en/post/with/) Japanese [culture](/en/post/culture/) [and](/en/post/and/) [its](/en/post/its/) [use](/en/post/use/) [in](/en/post/in/) drinks [like](/en/post/like/) [sake](/en/post/sake/), [but](/en/post/but/) [the](/en/post/the/) broader meanings [apply](/en/post/apply/) [to](/en/post/to/) [the](/en/post/the/) [general](/en/post/general/) English [language](/en/post/language/) [as](/en/post/as/) [well](/en/post/well/).
+[Note](/post/note/): [The](/post/the/) [usage](/post/usage/) [of](/post/of/) "[sake](/post/sake/)" [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [can](/post/can/) [be](/post/be/) [more](/post/more/) [commonly](/post/commonly/) associated [with](/post/with/) Japanese [culture](/post/culture/) [and](/post/and/) [its](/post/its/) [use](/post/use/) [in](/post/in/) drinks [like](/post/like/) [sake](/post/sake/), [but](/post/but/) [the](/post/the/) broader meanings [apply](/post/apply/) [to](/post/to/) [the](/post/the/) [general](/post/general/) English [language](/post/language/) [as](/post/as/) [well](/post/well/).

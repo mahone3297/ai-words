@@ -11,19 +11,19 @@ keywords = ['ai words', 'feeble']
 /ˈfiːbl/
 
 ## 释义
-- **形容词**: 虚弱的，无力的，不强健的。例如: "[The](/post/the/) [old](/post/old/) [man](/post/man/) was [too](/post/too/) [feeble](/post/feeble/) [to](/post/to/) [lift](/post/lift/) [the](/post/the/) [heavy](/post/heavy/) [box](/post/box/)."
-- **副词**: 软弱地，无力地。例如: "[He](/post/he/) spoke [feeble](/post/feeble/) words, lacking [confidence](/post/confidence/)."
+- **形容词**: 虚弱的，无力的，不强健的。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [man](/zh/post/man/) was [too](/zh/post/too/) [feeble](/zh/post/feeble/) [to](/zh/post/to/) [lift](/zh/post/lift/) [the](/zh/post/the/) [heavy](/zh/post/heavy/) [box](/zh/post/box/)."
+- **副词**: 软弱地，无力地。例如: "[He](/zh/post/he/) spoke [feeble](/zh/post/feeble/) words, lacking [confidence](/zh/post/confidence/)."
 
 ## 短语
-- "[feeble](/post/feeble/) [attempt](/post/attempt/)" 意为无力的尝试。
-- "[feeble](/post/feeble/) [health](/post/health/)" 表示虚弱的身体状况。
+- "[feeble](/zh/post/feeble/) [attempt](/zh/post/attempt/)" 意为无力的尝试。
+- "[feeble](/zh/post/feeble/) [health](/zh/post/health/)" 表示虚弱的身体状况。
 
 ## 例句
-- 形容词: "[Despite](/post/despite/) [his](/post/his/) [feeble](/post/feeble/) [appearance](/post/appearance/), [he](/post/he/) had [a](/post/a/) [strong](/post/strong/) [will](/post/will/)."
-- 副词: "[Her](/post/her/) [voice](/post/voice/) sounded [feeble](/post/feeble/) [over](/post/over/) [the](/post/the/) [phone](/post/phone/)."
+- 形容词: "[Despite](/zh/post/despite/) [his](/zh/post/his/) [feeble](/zh/post/feeble/) [appearance](/zh/post/appearance/), [he](/zh/post/he/) had [a](/zh/post/a/) [strong](/zh/post/strong/) [will](/zh/post/will/)."
+- 副词: "[Her](/zh/post/her/) [voice](/zh/post/voice/) sounded [feeble](/zh/post/feeble/) [over](/zh/post/over/) [the](/zh/post/the/) [phone](/zh/post/phone/)."
 
 ## 同义词
-- [Weak](/post/weak/)
+- [Weak](/zh/post/weak/)
 - frail
 - unsteady
 - fragile

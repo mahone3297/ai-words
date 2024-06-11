@@ -7,43 +7,43 @@ description = '[ˈwudn] a.木制的；呆板的'
 keywords = ['ai words', 'wooden']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwʊdən/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Made [of](/en/post/of/) [wood](/en/post/wood/); having [the](/en/post/the/) properties [or](/en/post/or/) [appearance](/en/post/appearance/) [of](/en/post/of/) [wood](/en/post/wood/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [furniture](/en/post/furniture/) is made [of](/en/post/of/) [solid](/en/post/solid/) [wooden](/en/post/wooden/) pieces."
-- 2. Characterized [by](/en/post/by/) stiffness [or](/en/post/or/) rigidity. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [wooden](/en/post/wooden/) demeanor made [her](/en/post/her/) [seem](/en/post/seem/) unapproachable."
-- 3. Unemotional [or](/en/post/or/) lacking [warmth](/en/post/warmth/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) had [a](/en/post/a/) [wooden](/en/post/wooden/) [response](/en/post/response/) [to](/en/post/to/) [the](/en/post/the/) [news](/en/post/news/)."
+- **[Adjective](/post/adjective/)**: 1. Made [of](/post/of/) [wood](/post/wood/); having [the](/post/the/) properties [or](/post/or/) [appearance](/post/appearance/) [of](/post/of/) [wood](/post/wood/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [furniture](/post/furniture/) is made [of](/post/of/) [solid](/post/solid/) [wooden](/post/wooden/) pieces."
+- 2. Characterized [by](/post/by/) stiffness [or](/post/or/) rigidity. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [wooden](/post/wooden/) demeanor made [her](/post/her/) [seem](/post/seem/) unapproachable."
+- 3. Unemotional [or](/post/or/) lacking [warmth](/post/warmth/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) had [a](/post/a/) [wooden](/post/wooden/) [response](/post/response/) [to](/post/to/) [the](/post/the/) [news](/post/news/)."
 
-## [Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))
-- [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [stiff](/en/post/stiff/) [or](/en/post/or/) unexpressive. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [a](/en/post/a/) [wooden](/en/post/wooden/) [actor](/en/post/actor/) [on](/en/post/on/) [stage](/en/post/stage/)."
+## [Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))
+- [A](/post/a/) [person](/post/person/) [who](/post/who/) is [stiff](/post/stiff/) [or](/post/or/) unexpressive. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [a](/post/a/) [wooden](/post/wooden/) [actor](/post/actor/) [on](/post/on/) [stage](/post/stage/)."
 
-## [Verb](/en/post/verb/) (archaic, informal)
-- [To](/en/post/to/) [affect](/en/post/affect/) [or](/en/post/or/) [give](/en/post/give/) [the](/en/post/the/) [appearance](/en/post/appearance/) [of](/en/post/of/) [being](/en/post/being/) [wooden](/en/post/wooden/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) acting felt [wooden](/en/post/wooden/), [as](/en/post/as/) [if](/en/post/if/) [he](/en/post/he/) wasn't fully engaged."
+## [Verb](/post/verb/) (archaic, informal)
+- [To](/post/to/) [affect](/post/affect/) [or](/post/or/) [give](/post/give/) [the](/post/the/) [appearance](/post/appearance/) [of](/post/of/) [being](/post/being/) [wooden](/post/wooden/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) acting felt [wooden](/post/wooden/), [as](/post/as/) [if](/post/if/) [he](/post/he/) wasn't fully engaged."
 
 ## Phrases
-- "[A](/en/post/a/) [wooden](/en/post/wooden/) [table](/en/post/table/)" refers [to](/en/post/to/) [a](/en/post/a/) [table](/en/post/table/) made [of](/en/post/of/) [wood](/en/post/wood/).
-- "[Wooden](/en/post/wooden/) floors" [describe](/en/post/describe/) [those](/en/post/those/) made [from](/en/post/from/) [wood](/en/post/wood/).
-- "[A](/en/post/a/) [wooden](/en/post/wooden/) [smile](/en/post/smile/)" is [a](/en/post/a/) forced [or](/en/post/or/) insincere [smile](/en/post/smile/).
+- "[A](/post/a/) [wooden](/post/wooden/) [table](/post/table/)" refers [to](/post/to/) [a](/post/a/) [table](/post/table/) made [of](/post/of/) [wood](/post/wood/).
+- "[Wooden](/post/wooden/) floors" [describe](/post/describe/) [those](/post/those/) made [from](/post/from/) [wood](/post/wood/).
+- "[A](/post/a/) [wooden](/post/wooden/) [smile](/post/smile/)" is [a](/post/a/) forced [or](/post/or/) insincere [smile](/post/smile/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) had [wooden](/en/post/wooden/) beams supporting [the](/en/post/the/) [ceiling](/en/post/ceiling/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [dance](/en/post/dance/) moves lacked [any](/en/post/any/) [wooden](/en/post/wooden/) [grace](/en/post/grace/)."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [performance](/en/post/performance/) felt [wooden](/en/post/wooden/), [with](/en/post/with/) [no](/en/post/no/) spontaneity."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) [house](/post/house/) had [wooden](/post/wooden/) beams supporting [the](/post/the/) [ceiling](/post/ceiling/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [dance](/post/dance/) moves lacked [any](/post/any/) [wooden](/post/wooden/) [grace](/post/grace/)."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [performance](/post/performance/) felt [wooden](/post/wooden/), [with](/post/with/) [no](/post/no/) spontaneity."
 
 ## Synonyms
 - Unyielding
-- [Stiff](/en/post/stiff/)
-- [Rigid](/en/post/rigid/)
+- [Stiff](/post/stiff/)
+- [Rigid](/post/rigid/)
 - Unemotional
-- Lacking [expression](/en/post/expression/)
-- [Cold](/en/post/cold/)
+- Lacking [expression](/post/expression/)
+- [Cold](/post/cold/)
 - Lifeless
 
 ## Antonyms
-- [Flexible](/en/post/flexible/)
-- [Warm](/en/post/warm/)
+- [Flexible](/post/flexible/)
+- [Warm](/post/warm/)
 - Energetic
 - Expressive
-- [Alive](/en/post/alive/)
-- [Natural](/en/post/natural/)
+- [Alive](/post/alive/)
+- [Natural](/post/natural/)

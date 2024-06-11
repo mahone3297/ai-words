@@ -7,38 +7,38 @@ description = '[smuːð] a.平滑的；平静的'
 keywords = ['ai words', 'smooth']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /smuːð/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [smooth](/en/post/smooth/) [surface](/en/post/surface/) [or](/en/post/or/) texture, [often](/en/post/often/) [without](/en/post/without/) bumps [or](/en/post/or/) irregularities. [Example](/en/post/example/): "[The](/en/post/the/) [marble](/en/post/marble/) [floor](/en/post/floor/) was [so](/en/post/so/) [smooth](/en/post/smooth/) underfoot."
-- [A](/en/post/a/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/) [free](/en/post/free/) [from](/en/post/from/) [friction](/en/post/friction/), [difficulty](/en/post/difficulty/), [or](/en/post/or/) disturbance. [Example](/en/post/example/): "[A](/en/post/a/) [smooth](/en/post/smooth/) [operation](/en/post/operation/) ensures minimal downtime."
-- A顺利的、平稳的 (形容词) - Describing [something](/en/post/something/) [that](/en/post/that/) proceeds [without](/en/post/without/) problems [or](/en/post/or/) setbacks. [Example](/en/post/example/): "[The](/en/post/the/) presentation went [smoothly](/en/post/smoothly/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) [smooth](/post/smooth/) [surface](/post/surface/) [or](/post/or/) texture, [often](/post/often/) [without](/post/without/) bumps [or](/post/or/) irregularities. [Example](/post/example/): "[The](/post/the/) [marble](/post/marble/) [floor](/post/floor/) was [so](/post/so/) [smooth](/post/smooth/) underfoot."
+- [A](/post/a/) [state](/post/state/) [or](/post/or/) [condition](/post/condition/) [free](/post/free/) [from](/post/from/) [friction](/post/friction/), [difficulty](/post/difficulty/), [or](/post/or/) disturbance. [Example](/post/example/): "[A](/post/a/) [smooth](/post/smooth/) [operation](/post/operation/) ensures minimal downtime."
+- A顺利的、平稳的 (形容词) - Describing [something](/post/something/) [that](/post/that/) proceeds [without](/post/without/) problems [or](/post/or/) setbacks. [Example](/post/example/): "[The](/post/the/) presentation went [smoothly](/post/smoothly/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [make](/en/post/make/) [or](/en/post/or/) [become](/en/post/become/) [smooth](/en/post/smooth/), [as](/en/post/as/) [in](/en/post/in/) applying [a](/en/post/a/) [polish](/en/post/polish/). [Example](/en/post/example/): "[She](/en/post/she/) smoothed [out](/en/post/out/) [the](/en/post/the/) wrinkles [in](/en/post/in/) [her](/en/post/her/) [dress](/en/post/dress/)."
-- [To](/en/post/to/) [perform](/en/post/perform/) [or](/en/post/or/) [execute](/en/post/execute/) [with](/en/post/with/) [ease](/en/post/ease/) [and](/en/post/and/) [without](/en/post/without/) complications. [Example](/en/post/example/): "[He](/en/post/he/) [smoothly](/en/post/smoothly/) transitioned [between](/en/post/between/) topics [during](/en/post/during/) [the](/en/post/the/) [debate](/en/post/debate/)."
-- [To](/en/post/to/) [glide](/en/post/glide/) [or](/en/post/or/) [move](/en/post/move/) [with](/en/post/with/) [a](/en/post/a/) [fluid](/en/post/fluid/) [motion](/en/post/motion/). [Example](/en/post/example/): "[The](/en/post/the/) [boat](/en/post/boat/) glided [smoothly](/en/post/smoothly/) [across](/en/post/across/) [the](/en/post/the/) [lake](/en/post/lake/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [make](/post/make/) [or](/post/or/) [become](/post/become/) [smooth](/post/smooth/), [as](/post/as/) [in](/post/in/) applying [a](/post/a/) [polish](/post/polish/). [Example](/post/example/): "[She](/post/she/) smoothed [out](/post/out/) [the](/post/the/) wrinkles [in](/post/in/) [her](/post/her/) [dress](/post/dress/)."
+- [To](/post/to/) [perform](/post/perform/) [or](/post/or/) [execute](/post/execute/) [with](/post/with/) [ease](/post/ease/) [and](/post/and/) [without](/post/without/) complications. [Example](/post/example/): "[He](/post/he/) [smoothly](/post/smoothly/) transitioned [between](/post/between/) topics [during](/post/during/) [the](/post/the/) [debate](/post/debate/)."
+- [To](/post/to/) [glide](/post/glide/) [or](/post/or/) [move](/post/move/) [with](/post/with/) [a](/post/a/) [fluid](/post/fluid/) [motion](/post/motion/). [Example](/post/example/): "[The](/post/the/) [boat](/post/boat/) glided [smoothly](/post/smoothly/) [across](/post/across/) [the](/post/the/) [lake](/post/lake/)."
 
-### [Adjective](/en/post/adjective/)
-- [Free](/en/post/free/) [from](/en/post/from/) roughness [or](/en/post/or/) jaggedness. [Example](/en/post/example/): "[A](/en/post/a/) [smooth](/en/post/smooth/) [surface](/en/post/surface/) provides [better](/en/post/better/) [grip](/en/post/grip/)."
-- [Calm](/en/post/calm/), tranquil, [or](/en/post/or/) soothing. [Example](/en/post/example/): "[The](/en/post/the/) [smooth](/en/post/smooth/) melody calmed [the](/en/post/the/) [baby](/en/post/baby/)."
-- Effortless [or](/en/post/or/) accomplished [with](/en/post/with/) [ease](/en/post/ease/). [Example](/en/post/example/): "[Her](/en/post/her/) driving was [as](/en/post/as/) [smooth](/en/post/smooth/) [as](/en/post/as/) [silk](/en/post/silk/)."
+### [Adjective](/post/adjective/)
+- [Free](/post/free/) [from](/post/from/) roughness [or](/post/or/) jaggedness. [Example](/post/example/): "[A](/post/a/) [smooth](/post/smooth/) [surface](/post/surface/) provides [better](/post/better/) [grip](/post/grip/)."
+- [Calm](/post/calm/), tranquil, [or](/post/or/) soothing. [Example](/post/example/): "[The](/post/the/) [smooth](/post/smooth/) melody calmed [the](/post/the/) [baby](/post/baby/)."
+- Effortless [or](/post/or/) accomplished [with](/post/with/) [ease](/post/ease/). [Example](/post/example/): "[Her](/post/her/) driving was [as](/post/as/) [smooth](/post/smooth/) [as](/post/as/) [silk](/post/silk/)."
 
-### [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) [smooth](/en/post/smooth/) [manner](/en/post/manner/) [or](/en/post/or/) [without](/en/post/without/) interruptions. [Example](/en/post/example/): "[He](/en/post/he/) spoke [smoothly](/en/post/smoothly/), [never](/en/post/never/) hesitating."
+### [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) [smooth](/post/smooth/) [manner](/post/manner/) [or](/post/or/) [without](/post/without/) interruptions. [Example](/post/example/): "[He](/post/he/) spoke [smoothly](/post/smoothly/), [never](/post/never/) hesitating."
 
 ## Phrases
-- "[Smooth](/en/post/smooth/) sailing" refers [to](/en/post/to/) an uneventful [and](/en/post/and/) [successful](/en/post/successful/) [journey](/en/post/journey/).
-- "[Keep](/en/post/keep/) [it](/en/post/it/) [smooth](/en/post/smooth/)" is [a](/en/post/a/) [request](/en/post/request/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [consistent](/en/post/consistent/) [pace](/en/post/pace/) [or](/en/post/or/) [flow](/en/post/flow/).
-- "[Smooth](/en/post/smooth/) talker" describes [someone](/en/post/someone/) [who](/en/post/who/) is [skilled](/en/post/skilled/) [at](/en/post/at/) persuasive [communication](/en/post/communication/).
+- "[Smooth](/post/smooth/) sailing" refers [to](/post/to/) an uneventful [and](/post/and/) [successful](/post/successful/) [journey](/post/journey/).
+- "[Keep](/post/keep/) [it](/post/it/) [smooth](/post/smooth/)" is [a](/post/a/) [request](/post/request/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [consistent](/post/consistent/) [pace](/post/pace/) [or](/post/or/) [flow](/post/flow/).
+- "[Smooth](/post/smooth/) talker" describes [someone](/post/someone/) [who](/post/who/) is [skilled](/post/skilled/) [at](/post/at/) persuasive [communication](/post/communication/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) baby's [skin](/en/post/skin/) felt [soft](/en/post/soft/) [and](/en/post/and/) [smooth](/en/post/smooth/) [after](/en/post/after/) [the](/en/post/the/) [bath](/en/post/bath/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) smoothed [the](/en/post/the/) wrinkles [from](/en/post/from/) [her](/en/post/her/) [forehead](/en/post/forehead/) [before](/en/post/before/) addressing [the](/en/post/the/) [audience](/en/post/audience/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [voice](/en/post/voice/) was [a](/en/post/a/) [smooth](/en/post/smooth/) baritone, [perfect](/en/post/perfect/) [for](/en/post/for/) singing."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) delivered [his](/en/post/his/) presentation [smoothly](/en/post/smoothly/), impressing [the](/en/post/the/) judges."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) baby's [skin](/post/skin/) felt [soft](/post/soft/) [and](/post/and/) [smooth](/post/smooth/) [after](/post/after/) [the](/post/the/) [bath](/post/bath/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) smoothed [the](/post/the/) wrinkles [from](/post/from/) [her](/post/her/) [forehead](/post/forehead/) [before](/post/before/) addressing [the](/post/the/) [audience](/post/audience/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [voice](/post/voice/) was [a](/post/a/) [smooth](/post/smooth/) baritone, [perfect](/post/perfect/) [for](/post/for/) singing."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) delivered [his](/post/his/) presentation [smoothly](/post/smoothly/), impressing [the](/post/the/) judges."
 
 ## Synonyms
 - Sleek

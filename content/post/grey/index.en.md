@@ -7,33 +7,33 @@ description = '[grei] a.灰色的 n.灰色'
 keywords = ['ai words', 'grey']
 +++
 
-## [Word](/en/post/word/): [Grey](/en/post/grey/)
+## [Word](/post/word/): [Grey](/post/grey/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡreɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [neutral](/en/post/neutral/) [or](/en/post/or/) cool-toned [color](/en/post/color/) [that](/en/post/that/) is [a](/en/post/a/) [blend](/en/post/blend/) [of](/en/post/of/) [black](/en/post/black/) [and](/en/post/and/) [white](/en/post/white/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) having [this](/en/post/this/) [color](/en/post/color/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) chose [a](/en/post/a/) [grey](/en/post/grey/) [suit](/en/post/suit/) [for](/en/post/for/) [her](/en/post/her/) [interview](/en/post/interview/)."
-  - **[As](/en/post/as/) [a](/en/post/a/) [Proper](/en/post/proper/) [Noun](/en/post/noun/)**: Refers [to](/en/post/to/) [a](/en/post/a/) [surname](/en/post/surname/). E.g., "[Grey](/en/post/grey/) is [a](/en/post/a/) [common](/en/post/common/) [last](/en/post/last/) [name](/en/post/name/) [in](/en/post/in/) England."
+- **[Noun](/post/noun/)**: [A](/post/a/) [neutral](/post/neutral/) [or](/post/or/) cool-toned [color](/post/color/) [that](/post/that/) is [a](/post/a/) [blend](/post/blend/) [of](/post/of/) [black](/post/black/) [and](/post/and/) [white](/post/white/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) having [this](/post/this/) [color](/post/color/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) chose [a](/post/a/) [grey](/post/grey/) [suit](/post/suit/) [for](/post/for/) [her](/post/her/) [interview](/post/interview/)."
+  - **[As](/post/as/) [a](/post/a/) [Proper](/post/proper/) [Noun](/post/noun/)**: Refers [to](/post/to/) [a](/post/a/) [surname](/post/surname/). E.g., "[Grey](/post/grey/) is [a](/post/a/) [common](/post/common/) [last](/post/last/) [name](/post/name/) [in](/post/in/) England."
 
-- **[Adjective](/en/post/adjective/)**: Describing [a](/en/post/a/) [color](/en/post/color/) [between](/en/post/between/) [black](/en/post/black/) [and](/en/post/and/) [white](/en/post/white/); [often](/en/post/often/) associated [with](/en/post/with/) dullness, neutrality, [or](/en/post/or/) [age](/en/post/age/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sky](/en/post/sky/) was [a](/en/post/a/) [gloomy](/en/post/gloomy/) [shade](/en/post/shade/) [of](/en/post/of/) [grey](/en/post/grey/) [on](/en/post/on/) [that](/en/post/that/) [rainy](/en/post/rainy/) [day](/en/post/day/)."
+- **[Adjective](/post/adjective/)**: Describing [a](/post/a/) [color](/post/color/) [between](/post/between/) [black](/post/black/) [and](/post/and/) [white](/post/white/); [often](/post/often/) associated [with](/post/with/) dullness, neutrality, [or](/post/or/) [age](/post/age/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sky](/post/sky/) was [a](/post/a/) [gloomy](/post/gloomy/) [shade](/post/shade/) [of](/post/of/) [grey](/post/grey/) [on](/post/on/) [that](/post/that/) [rainy](/post/rainy/) [day](/post/day/)."
 
-**[Example](/en/post/example/) Sentences**
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) walls were painted [a](/en/post/a/) [soft](/en/post/soft/) [grey](/en/post/grey/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [calm](/en/post/calm/) [atmosphere](/en/post/atmosphere/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [hair](/en/post/hair/) has turned [grey](/en/post/grey/) [with](/en/post/with/) [age](/en/post/age/)."
+**[Example](/post/example/) Sentences**
+- **[Noun](/post/noun/)**: "[The](/post/the/) walls were painted [a](/post/a/) [soft](/post/soft/) [grey](/post/grey/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [calm](/post/calm/) [atmosphere](/post/atmosphere/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [hair](/post/hair/) has turned [grey](/post/grey/) [with](/post/with/) [age](/post/age/)."
 
 ## Phrases
-- " [Fifty](/en/post/fifty/) shades [of](/en/post/of/) [grey](/en/post/grey/)" - [a](/en/post/a/) metaphorical [phrase](/en/post/phrase/) popularized [by](/en/post/by/) [a](/en/post/a/) [novel](/en/post/novel/) referring [to](/en/post/to/) [a](/en/post/a/) [wide](/en/post/wide/) [range](/en/post/range/) [of](/en/post/of/) possibilities [between](/en/post/between/) [two](/en/post/two/) extremes, [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) complexity [or](/en/post/or/) ambiguity.
-- "[A](/en/post/a/) [grey](/en/post/grey/) [area](/en/post/area/)" - refers [to](/en/post/to/) an [issue](/en/post/issue/) [or](/en/post/or/) [situation](/en/post/situation/) [that](/en/post/that/) is [not](/en/post/not/) [clearly](/en/post/clearly/) defined [or](/en/post/or/) has [uncertain](/en/post/uncertain/) boundaries.
+- " [Fifty](/post/fifty/) shades [of](/post/of/) [grey](/post/grey/)" - [a](/post/a/) metaphorical [phrase](/post/phrase/) popularized [by](/post/by/) [a](/post/a/) [novel](/post/novel/) referring [to](/post/to/) [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) possibilities [between](/post/between/) [two](/post/two/) extremes, [often](/post/often/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) complexity [or](/post/or/) ambiguity.
+- "[A](/post/a/) [grey](/post/grey/) [area](/post/area/)" - refers [to](/post/to/) an [issue](/post/issue/) [or](/post/or/) [situation](/post/situation/) [that](/post/that/) is [not](/post/not/) [clearly](/post/clearly/) defined [or](/post/or/) has [uncertain](/post/uncertain/) boundaries.
 
 ## Synonyms
-- [Gray](/en/post/gray/) ([American](/en/post/american/) English [spelling](/en/post/spelling/))
-- [Silver](/en/post/silver/)
+- [Gray](/post/gray/) ([American](/post/american/) English [spelling](/post/spelling/))
+- [Silver](/post/silver/)
 - Ashen
 - Dusky
 - Slate
 - Charcoal
 - Pewter
 
-## [Note](/en/post/note/) [on](/en/post/on/) [Usage](/en/post/usage/)
-[The](/en/post/the/) [spelling](/en/post/spelling/) '[grey](/en/post/grey/)' is [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) British English [while](/en/post/while/) '[gray](/en/post/gray/)' is preferred [in](/en/post/in/) [American](/en/post/american/) English. [Both](/en/post/both/) are accepted [and](/en/post/and/) interchangeable [when](/en/post/when/) describing [the](/en/post/the/) [color](/en/post/color/), [though](/en/post/though/) [the](/en/post/the/) context [may](/en/post/may/) [dictate](/en/post/dictate/) [which](/en/post/which/) [spelling](/en/post/spelling/) [to](/en/post/to/) [use](/en/post/use/) based [on](/en/post/on/) regional [preference](/en/post/preference/).
+## [Note](/post/note/) [on](/post/on/) [Usage](/post/usage/)
+[The](/post/the/) [spelling](/post/spelling/) '[grey](/post/grey/)' is [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) British English [while](/post/while/) '[gray](/post/gray/)' is preferred [in](/post/in/) [American](/post/american/) English. [Both](/post/both/) are accepted [and](/post/and/) interchangeable [when](/post/when/) describing [the](/post/the/) [color](/post/color/), [though](/post/though/) [the](/post/the/) context [may](/post/may/) [dictate](/post/dictate/) [which](/post/which/) [spelling](/post/spelling/) [to](/post/to/) [use](/post/use/) based [on](/post/on/) regional [preference](/post/preference/).

@@ -7,53 +7,53 @@ description = '[raid] vi.&n.骑马，乘车'
 keywords = ['ai words', 'ride']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rʌɪd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) riding, [especially](/en/post/especially/) [on](/en/post/on/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [bicycle](/en/post/bicycle/), [horse](/en/post/horse/), [or](/en/post/or/) motorcycle.
-   - [Example](/en/post/example/): "[She](/en/post/she/) enjoyed riding [her](/en/post/her/) [horse](/en/post/horse/) [through](/en/post/through/) [the](/en/post/the/) [countryside](/en/post/countryside/)."
-2. [A](/en/post/a/) [trip](/en/post/trip/) [or](/en/post/or/) [journey](/en/post/journey/) taken [on](/en/post/on/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [or](/en/post/or/) conveyance.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [family](/en/post/family/) went [on](/en/post/on/) [a](/en/post/a/) [long](/en/post/long/) [ride](/en/post/ride/) [to](/en/post/to/) [the](/en/post/the/) [beach](/en/post/beach/)."
-3. [The](/en/post/the/) [experience](/en/post/experience/) [or](/en/post/or/) sensation [of](/en/post/of/) [being](/en/post/being/) carried [or](/en/post/or/) supported [by](/en/post/by/) [something](/en/post/something/) [while](/en/post/while/) moving.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [roller](/en/post/roller/) coaster [ride](/en/post/ride/) was thrilling."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) riding, [especially](/post/especially/) [on](/post/on/) [a](/post/a/) [vehicle](/post/vehicle/) [such](/post/such/) [as](/post/as/) [a](/post/a/) [bicycle](/post/bicycle/), [horse](/post/horse/), [or](/post/or/) motorcycle.
+   - [Example](/post/example/): "[She](/post/she/) enjoyed riding [her](/post/her/) [horse](/post/horse/) [through](/post/through/) [the](/post/the/) [countryside](/post/countryside/)."
+2. [A](/post/a/) [trip](/post/trip/) [or](/post/or/) [journey](/post/journey/) taken [on](/post/on/) [a](/post/a/) [vehicle](/post/vehicle/) [or](/post/or/) conveyance.
+   - [Example](/post/example/): "[The](/post/the/) [family](/post/family/) went [on](/post/on/) [a](/post/a/) [long](/post/long/) [ride](/post/ride/) [to](/post/to/) [the](/post/the/) [beach](/post/beach/)."
+3. [The](/post/the/) [experience](/post/experience/) [or](/post/or/) sensation [of](/post/of/) [being](/post/being/) carried [or](/post/or/) supported [by](/post/by/) [something](/post/something/) [while](/post/while/) moving.
+   - [Example](/post/example/): "[The](/post/the/) [roller](/post/roller/) coaster [ride](/post/ride/) was thrilling."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [sit](/en/post/sit/) [on](/en/post/on/) [and](/en/post/and/) [control](/en/post/control/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), typically [for](/en/post/for/) [transportation](/en/post/transportation/) [or](/en/post/or/) [leisure](/en/post/leisure/).
-   - [Example](/en/post/example/): "[He](/en/post/he/) rides [his](/en/post/his/) [bike](/en/post/bike/) [to](/en/post/to/) [work](/en/post/work/) [every](/en/post/every/) [day](/en/post/day/)."
-2. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [sport](/en/post/sport/) [or](/en/post/or/) [activity](/en/post/activity/) [that](/en/post/that/) involves riding, [like](/en/post/like/) surfing [or](/en/post/or/) snowboarding.
-   - [Example](/en/post/example/): "She's been [learning](/en/post/learning/) [to](/en/post/to/) [ride](/en/post/ride/) [a](/en/post/a/) surfboard [this](/en/post/this/) [summer](/en/post/summer/)."
-3. [To](/en/post/to/) [use](/en/post/use/) [something](/en/post/something/), [often](/en/post/often/) metaphorically, [as](/en/post/as/) [a](/en/post/a/) [means](/en/post/means/) [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) [goal](/en/post/goal/).
-   - [Example](/en/post/example/): "Riding [the](/en/post/the/) [wave](/en/post/wave/) [of](/en/post/of/) popularity, [her](/en/post/her/) [book](/en/post/book/) became [a](/en/post/a/) bestseller."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [sit](/post/sit/) [on](/post/on/) [and](/post/and/) [control](/post/control/) [a](/post/a/) [vehicle](/post/vehicle/), typically [for](/post/for/) [transportation](/post/transportation/) [or](/post/or/) [leisure](/post/leisure/).
+   - [Example](/post/example/): "[He](/post/he/) rides [his](/post/his/) [bike](/post/bike/) [to](/post/to/) [work](/post/work/) [every](/post/every/) [day](/post/day/)."
+2. [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [sport](/post/sport/) [or](/post/or/) [activity](/post/activity/) [that](/post/that/) involves riding, [like](/post/like/) surfing [or](/post/or/) snowboarding.
+   - [Example](/post/example/): "She's been [learning](/post/learning/) [to](/post/to/) [ride](/post/ride/) [a](/post/a/) surfboard [this](/post/this/) [summer](/post/summer/)."
+3. [To](/post/to/) [use](/post/use/) [something](/post/something/), [often](/post/often/) metaphorically, [as](/post/as/) [a](/post/a/) [means](/post/means/) [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) [goal](/post/goal/).
+   - [Example](/post/example/): "Riding [the](/post/the/) [wave](/post/wave/) [of](/post/of/) popularity, [her](/post/her/) [book](/post/book/) became [a](/post/a/) bestseller."
 
-### [Adjective](/en/post/adjective/)
-1. Characterizing [or](/en/post/or/) involving riding [or](/en/post/or/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) ridden.
-   - [Example](/en/post/example/): "[A](/en/post/a/) horse-riding [competition](/en/post/competition/) was held [at](/en/post/at/) [the](/en/post/the/) [festival](/en/post/festival/)."
-2. Enjoyable [or](/en/post/or/) thrilling [when](/en/post/when/) experienced [on](/en/post/on/) [a](/en/post/a/) [ride](/en/post/ride/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [roller](/en/post/roller/) coaster was [a](/en/post/a/) [fun](/en/post/fun/) [and](/en/post/and/) exhilarating [ride](/en/post/ride/)."
+### [Adjective](/post/adjective/)
+1. Characterizing [or](/post/or/) involving riding [or](/post/or/) [the](/post/the/) [act](/post/act/) [of](/post/of/) [being](/post/being/) ridden.
+   - [Example](/post/example/): "[A](/post/a/) horse-riding [competition](/post/competition/) was held [at](/post/at/) [the](/post/the/) [festival](/post/festival/)."
+2. Enjoyable [or](/post/or/) thrilling [when](/post/when/) experienced [on](/post/on/) [a](/post/a/) [ride](/post/ride/).
+   - [Example](/post/example/): "[The](/post/the/) [roller](/post/roller/) coaster was [a](/post/a/) [fun](/post/fun/) [and](/post/and/) exhilarating [ride](/post/ride/)."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) riding [manner](/en/post/manner/) [or](/en/post/or/) [while](/en/post/while/) riding.
-   - [Example](/en/post/example/): "[He](/en/post/he/) rode [smoothly](/en/post/smoothly/) [through](/en/post/through/) [the](/en/post/the/) curves [of](/en/post/of/) [the](/en/post/the/) [road](/en/post/road/)."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) riding [manner](/post/manner/) [or](/post/or/) [while](/post/while/) riding.
+   - [Example](/post/example/): "[He](/post/he/) rode [smoothly](/post/smoothly/) [through](/post/through/) [the](/post/the/) curves [of](/post/of/) [the](/post/the/) [road](/post/road/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [ride](/en/post/ride/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [for](/en/post/for/) [a](/en/post/a/) [trip](/en/post/trip/) [or](/en/post/or/) [journey](/en/post/journey/).
-- "[Go](/en/post/go/) [for](/en/post/for/) [a](/en/post/a/) [ride](/en/post/ride/)" is [a](/en/post/a/) [casual](/en/post/casual/) [invitation](/en/post/invitation/) [to](/en/post/to/) [join](/en/post/join/) [a](/en/post/a/) [ride](/en/post/ride/).
-- "[Ride](/en/post/ride/) shotgun" is an informal [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [sit](/en/post/sit/) [in](/en/post/in/) [the](/en/post/the/) [front](/en/post/front/) [passenger](/en/post/passenger/) [seat](/en/post/seat/) [of](/en/post/of/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), [often](/en/post/often/) [for](/en/post/for/) [a](/en/post/a/) thrilling [or](/en/post/or/) [exciting](/en/post/exciting/) [journey](/en/post/journey/).
+- "[Take](/post/take/) [a](/post/a/) [ride](/post/ride/)" [means](/post/means/) [to](/post/to/) [go](/post/go/) [for](/post/for/) [a](/post/a/) [trip](/post/trip/) [or](/post/or/) [journey](/post/journey/).
+- "[Go](/post/go/) [for](/post/for/) [a](/post/a/) [ride](/post/ride/)" is [a](/post/a/) [casual](/post/casual/) [invitation](/post/invitation/) [to](/post/to/) [join](/post/join/) [a](/post/a/) [ride](/post/ride/).
+- "[Ride](/post/ride/) shotgun" is an informal [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [sit](/post/sit/) [in](/post/in/) [the](/post/the/) [front](/post/front/) [passenger](/post/passenger/) [seat](/post/seat/) [of](/post/of/) [a](/post/a/) [vehicle](/post/vehicle/), [often](/post/often/) [for](/post/for/) [a](/post/a/) thrilling [or](/post/or/) [exciting](/post/exciting/) [journey](/post/journey/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) cherished [the](/en/post/the/) memories [of](/en/post/of/) [long](/en/post/long/) [bike](/en/post/bike/) rides [with](/en/post/with/) [his](/en/post/his/) friends."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [ride](/en/post/ride/) [on](/en/post/on/) [the](/en/post/the/) Ferris [wheel](/en/post/wheel/) [during](/en/post/during/) [the](/en/post/the/) [fair](/en/post/fair/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [roller](/en/post/roller/) coaster [provided](/en/post/provided/) [a](/en/post/a/) thrilling [ride](/en/post/ride/) [with](/en/post/with/) [its](/en/post/its/) [steep](/en/post/steep/) drops."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) rode [the](/en/post/the/) waves [with](/en/post/with/) [skill](/en/post/skill/) [and](/en/post/and/) [precision](/en/post/precision/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) cherished [the](/post/the/) memories [of](/post/of/) [long](/post/long/) [bike](/post/bike/) rides [with](/post/with/) [his](/post/his/) friends."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [ride](/post/ride/) [on](/post/on/) [the](/post/the/) Ferris [wheel](/post/wheel/) [during](/post/during/) [the](/post/the/) [fair](/post/fair/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [roller](/post/roller/) coaster [provided](/post/provided/) [a](/post/a/) thrilling [ride](/post/ride/) [with](/post/with/) [its](/post/its/) [steep](/post/steep/) drops."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) rode [the](/post/the/) waves [with](/post/with/) [skill](/post/skill/) [and](/post/and/) [precision](/post/precision/)."
 
 ## Synonyms
-- [Bicycle](/en/post/bicycle/) [tour](/en/post/tour/)
-- [Journey](/en/post/journey/)
-- [Trip](/en/post/trip/)
-- [Tour](/en/post/tour/)
+- [Bicycle](/post/bicycle/) [tour](/post/tour/)
+- [Journey](/post/journey/)
+- [Trip](/post/trip/)
+- [Tour](/post/tour/)
 - Cruise
-- [Excursion](/en/post/excursion/)
+- [Excursion](/post/excursion/)
 -游乐
-- [Travel](/en/post/travel/) ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/))
+- [Travel](/post/travel/) ([in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/))

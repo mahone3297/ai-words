@@ -7,38 +7,38 @@ description = '[disˈɔnə] n.不光彩；丢脸的人'
 keywords = ['ai words', 'dishonor']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈʃɑːnər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [Dishonor](/en/post/dishonor/) refers [to](/en/post/to/) [a](/en/post/a/) [loss](/en/post/loss/) [of](/en/post/of/) [respect](/en/post/respect/), integrity, [or](/en/post/or/) [reputation](/en/post/reputation/), [often](/en/post/often/) [through](/en/post/through/) shameful [behavior](/en/post/behavior/) [or](/en/post/or/) [failure](/en/post/failure/) [to](/en/post/to/) [live](/en/post/live/) [up](/en/post/up/) [to](/en/post/to/) expectations. [Example](/en/post/example/): "[His](/en/post/his/) actions brought [dishonor](/en/post/dishonor/) [upon](/en/post/upon/) [his](/en/post/his/) [family](/en/post/family/) [name](/en/post/name/)."
-2. [In](/en/post/in/) [a](/en/post/a/) culinary context, [it](/en/post/it/) is [a](/en/post/a/) [course](/en/post/course/) served [after](/en/post/after/) [the](/en/post/the/) [main](/en/post/main/) [meal](/en/post/meal/), typically [a](/en/post/a/) smaller [plate](/en/post/plate/) [or](/en/post/or/) [a](/en/post/a/) [sweet](/en/post/sweet/) [item](/en/post/item/). [Example](/en/post/example/): "[The](/en/post/the/) dessert [course](/en/post/course/) was [a](/en/post/a/) [delicious](/en/post/delicious/) [dish](/en/post/dish/) [of](/en/post/of/) [apple](/en/post/apple/) [pie](/en/post/pie/)."
+### [Noun](/post/noun/)
+1. [Dishonor](/post/dishonor/) refers [to](/post/to/) [a](/post/a/) [loss](/post/loss/) [of](/post/of/) [respect](/post/respect/), integrity, [or](/post/or/) [reputation](/post/reputation/), [often](/post/often/) [through](/post/through/) shameful [behavior](/post/behavior/) [or](/post/or/) [failure](/post/failure/) [to](/post/to/) [live](/post/live/) [up](/post/up/) [to](/post/to/) expectations. [Example](/post/example/): "[His](/post/his/) actions brought [dishonor](/post/dishonor/) [upon](/post/upon/) [his](/post/his/) [family](/post/family/) [name](/post/name/)."
+2. [In](/post/in/) [a](/post/a/) culinary context, [it](/post/it/) is [a](/post/a/) [course](/post/course/) served [after](/post/after/) [the](/post/the/) [main](/post/main/) [meal](/post/meal/), typically [a](/post/a/) smaller [plate](/post/plate/) [or](/post/or/) [a](/post/a/) [sweet](/post/sweet/) [item](/post/item/). [Example](/post/example/): "[The](/post/the/) dessert [course](/post/course/) was [a](/post/a/) [delicious](/post/delicious/) [dish](/post/dish/) [of](/post/of/) [apple](/post/apple/) [pie](/post/pie/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [dishonor](/en/post/dishonor/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) is [to](/en/post/to/) [bring](/en/post/bring/) [shame](/en/post/shame/) [or](/en/post/or/) discredit [to](/en/post/to/) [them](/en/post/them/). [Example](/en/post/example/): "[He](/en/post/he/) dishonored [his](/en/post/his/) country's [flag](/en/post/flag/) [by](/en/post/by/) burning [it](/en/post/it/) [during](/en/post/during/) [a](/en/post/a/) [protest](/en/post/protest/)."
+### [Verb](/post/verb/)
+[To](/post/to/) [dishonor](/post/dishonor/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) is [to](/post/to/) [bring](/post/bring/) [shame](/post/shame/) [or](/post/or/) discredit [to](/post/to/) [them](/post/them/). [Example](/post/example/): "[He](/post/he/) dishonored [his](/post/his/) country's [flag](/post/flag/) [by](/post/by/) burning [it](/post/it/) [during](/post/during/) [a](/post/a/) [protest](/post/protest/)."
 
 ## Phrases
-- "[Bring](/en/post/bring/) [dishonor](/en/post/dishonor/) [upon](/en/post/upon/) [oneself](/en/post/oneself/)" implies causing disgrace [or](/en/post/or/) lowering one's standing.
-- "[Be](/en/post/be/) dishonorable" describes [someone](/en/post/someone/) [who](/en/post/who/) behaves [in](/en/post/in/) an unscrupulous [or](/en/post/or/) morally [wrong](/en/post/wrong/) [manner](/en/post/manner/).
-- "[Live](/en/post/live/) [in](/en/post/in/) [dishonor](/en/post/dishonor/)" suggests [living](/en/post/living/) [a](/en/post/a/) [life](/en/post/life/) [that](/en/post/that/) lacks [respect](/en/post/respect/) [or](/en/post/or/) integrity.
+- "[Bring](/post/bring/) [dishonor](/post/dishonor/) [upon](/post/upon/) [oneself](/post/oneself/)" implies causing disgrace [or](/post/or/) lowering one's standing.
+- "[Be](/post/be/) dishonorable" describes [someone](/post/someone/) [who](/post/who/) behaves [in](/post/in/) an unscrupulous [or](/post/or/) morally [wrong](/post/wrong/) [manner](/post/manner/).
+- "[Live](/post/live/) [in](/post/in/) [dishonor](/post/dishonor/)" suggests [living](/post/living/) [a](/post/a/) [life](/post/life/) [that](/post/that/) lacks [respect](/post/respect/) [or](/post/or/) integrity.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) dishonesty dishonored [her](/en/post/her/) [character](/en/post/character/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [soldier](/en/post/soldier/) vowed [to](/en/post/to/) [never](/en/post/never/) [dishonor](/en/post/dishonor/) [his](/en/post/his/) comrades' [sacrifice](/en/post/sacrifice/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) dishonorable [act](/en/post/act/) led [to](/en/post/to/) [severe](/en/post/severe/) consequences."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) dishonesty dishonored [her](/post/her/) [character](/post/character/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [soldier](/post/soldier/) vowed [to](/post/to/) [never](/post/never/) [dishonor](/post/dishonor/) [his](/post/his/) comrades' [sacrifice](/post/sacrifice/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) dishonorable [act](/post/act/) led [to](/post/to/) [severe](/post/severe/) consequences."
 
 ## Synonyms
-- [Shame](/en/post/shame/)
-- [Contempt](/en/post/contempt/)
+- [Shame](/post/shame/)
+- [Contempt](/post/contempt/)
 - Scandal
-- Blasphemy ([in](/en/post/in/) [religious](/en/post/religious/) contexts)
+- Blasphemy ([in](/post/in/) [religious](/post/religious/) contexts)
 - Discredit
 - Degradation
 
 ## Antonyms
 - Honor
-- [Respect](/en/post/respect/)
+- [Respect](/post/respect/)
 - Integrity
-- [Reputation](/en/post/reputation/)
+- [Reputation](/post/reputation/)
 - Dignity

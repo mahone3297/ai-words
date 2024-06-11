@@ -7,34 +7,34 @@ description = '[t∫il] vt.使变冷 n.寒冷'
 keywords = ['ai words', 'chill']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /chɪl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) sensation [of](/en/post/of/) coolness [or](/en/post/or/) coldness, [often](/en/post/often/) caused [by](/en/post/by/) [low](/en/post/low/) temperatures. 2. An [act](/en/post/act/) [of](/en/post/of/) relaxing [or](/en/post/or/) unwinding, typically [with](/en/post/with/) [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [being](/en/post/being/) detached [or](/en/post/or/) aloof. 3. [A](/en/post/a/) [social](/en/post/social/) gathering [or](/en/post/or/) [event](/en/post/event/) [where](/en/post/where/) [people](/en/post/people/) [gather](/en/post/gather/) [to](/en/post/to/) [smoke](/en/post/smoke/) marijuana. 4. Informal [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) spent hanging [out](/en/post/out/) [with](/en/post/with/) friends.
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [lower](/en/post/lower/) [the](/en/post/the/) [temperature](/en/post/temperature/) [of](/en/post/of/) [something](/en/post/something/) [or](/en/post/or/) [oneself](/en/post/oneself/); [to](/en/post/to/) [feel](/en/post/feel/) [cold](/en/post/cold/). 5. [To](/en/post/to/) [relax](/en/post/relax/) [or](/en/post/or/) unwind, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [casual](/en/post/casual/) [or](/en/post/or/) solitary [manner](/en/post/manner/). 6. (informal) [To](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/) [together](/en/post/together/), [often](/en/post/often/) informally [or](/en/post/or/) casually.
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) sensation [of](/post/of/) coolness [or](/post/or/) coldness, [often](/post/often/) caused [by](/post/by/) [low](/post/low/) temperatures. 2. An [act](/post/act/) [of](/post/of/) relaxing [or](/post/or/) unwinding, typically [with](/post/with/) [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [being](/post/being/) detached [or](/post/or/) aloof. 3. [A](/post/a/) [social](/post/social/) gathering [or](/post/or/) [event](/post/event/) [where](/post/where/) [people](/post/people/) [gather](/post/gather/) [to](/post/to/) [smoke](/post/smoke/) marijuana. 4. Informal [term](/post/term/) [for](/post/for/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/) spent hanging [out](/post/out/) [with](/post/with/) friends.
+- **[Verb](/post/verb/)**: [To](/post/to/) [lower](/post/lower/) [the](/post/the/) [temperature](/post/temperature/) [of](/post/of/) [something](/post/something/) [or](/post/or/) [oneself](/post/oneself/); [to](/post/to/) [feel](/post/feel/) [cold](/post/cold/). 5. [To](/post/to/) [relax](/post/relax/) [or](/post/or/) unwind, [often](/post/often/) [in](/post/in/) [a](/post/a/) [casual](/post/casual/) [or](/post/or/) solitary [manner](/post/manner/). 6. (informal) [To](/post/to/) [spend](/post/spend/) [time](/post/time/) [together](/post/together/), [often](/post/often/) informally [or](/post/or/) casually.
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [chill](/en/post/chill/) [pill](/en/post/pill/)" implies calming [down](/en/post/down/) [or](/en/post/or/) relaxing.
-- "[Chill](/en/post/chill/) [out](/en/post/out/)" is [a](/en/post/a/) [request](/en/post/request/) [for](/en/post/for/) [someone](/en/post/someone/) [to](/en/post/to/) [relax](/en/post/relax/) [or](/en/post/or/) [calm](/en/post/calm/) [down](/en/post/down/).
-- "[Chill](/en/post/chill/) [session](/en/post/session/)" refers [to](/en/post/to/) [a](/en/post/a/) relaxed gathering, [usually](/en/post/usually/) involving [music](/en/post/music/) [or](/en/post/or/) [leisure](/en/post/leisure/) activities.
+- "[Take](/post/take/) [a](/post/a/) [chill](/post/chill/) [pill](/post/pill/)" implies calming [down](/post/down/) [or](/post/or/) relaxing.
+- "[Chill](/post/chill/) [out](/post/out/)" is [a](/post/a/) [request](/post/request/) [for](/post/for/) [someone](/post/someone/) [to](/post/to/) [relax](/post/relax/) [or](/post/or/) [calm](/post/calm/) [down](/post/down/).
+- "[Chill](/post/chill/) [session](/post/session/)" refers [to](/post/to/) [a](/post/a/) relaxed gathering, [usually](/post/usually/) involving [music](/post/music/) [or](/post/or/) [leisure](/post/leisure/) activities.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [she](/en/post/she/) decided [to](/en/post/to/) [curl](/en/post/curl/) [up](/en/post/up/) [on](/en/post/on/) [the](/en/post/the/) couch [with](/en/post/with/) [a](/en/post/a/) [good](/en/post/good/) [book](/en/post/book/) [to](/en/post/to/) [chill](/en/post/chill/)."
-- **[Verb](/en/post/verb/)**: "It's [too](/en/post/too/) [hot](/en/post/hot/) [outside](/en/post/outside/), let's [go](/en/post/go/) [inside](/en/post/inside/) [and](/en/post/and/) [chill](/en/post/chill/) [for](/en/post/for/) [a](/en/post/a/) [while](/en/post/while/)."
-- **Informal**: "[We](/en/post/we/) had [a](/en/post/a/) [chill](/en/post/chill/) [night](/en/post/night/) watching movies [with](/en/post/with/) friends."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [she](/post/she/) decided [to](/post/to/) [curl](/post/curl/) [up](/post/up/) [on](/post/on/) [the](/post/the/) couch [with](/post/with/) [a](/post/a/) [good](/post/good/) [book](/post/book/) [to](/post/to/) [chill](/post/chill/)."
+- **[Verb](/post/verb/)**: "It's [too](/post/too/) [hot](/post/hot/) [outside](/post/outside/), let's [go](/post/go/) [inside](/post/inside/) [and](/post/and/) [chill](/post/chill/) [for](/post/for/) [a](/post/a/) [while](/post/while/)."
+- **Informal**: "[We](/post/we/) had [a](/post/a/) [chill](/post/chill/) [night](/post/night/) watching movies [with](/post/with/) friends."
 
 ## Synonyms
-- [Relax](/en/post/relax/)
+- [Relax](/post/relax/)
 - Unwind
-- [Cool](/en/post/cool/) [off](/en/post/off/)
+- [Cool](/post/cool/) [off](/post/off/)
 - Mellow
-- [Hang](/en/post/hang/) [out](/en/post/out/)
-- [Down](/en/post/down/) [time](/en/post/time/)
+- [Hang](/post/hang/) [out](/post/out/)
+- [Down](/post/down/) [time](/post/time/)
 
 ## Antonyms
-- [Warm](/en/post/warm/) [up](/en/post/up/)
-- [Heat](/en/post/heat/)
+- [Warm](/post/warm/) [up](/post/up/)
+- [Heat](/post/heat/)
 - Intensify
-- [Stress](/en/post/stress/)
-- [Excite](/en/post/excite/)
+- [Stress](/post/stress/)
+- [Excite](/post/excite/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'vast']
 /væst/
 
 ## 释义
-- **形容词**: 极大的，辽阔的，广大的。例如: "[The](/post/the/) vastness [of](/post/of/) [the](/post/the/) [desert](/post/desert/) is overwhelming."
-- **名词**: 大量，巨大，浩渺（常用于抽象概念）。例如: "[They](/post/they/) were faced [with](/post/with/) [a](/post/a/) [vast](/post/vast/) [amount](/post/amount/) [of](/post/of/) [work](/post/work/)."
+- **形容词**: 极大的，辽阔的，广大的。例如: "[The](/zh/post/the/) vastness [of](/zh/post/of/) [the](/zh/post/the/) [desert](/zh/post/desert/) is overwhelming."
+- **名词**: 大量，巨大，浩渺（常用于抽象概念）。例如: "[They](/zh/post/they/) were faced [with](/zh/post/with/) [a](/zh/post/a/) [vast](/zh/post/vast/) [amount](/zh/post/amount/) [of](/zh/post/of/) [work](/zh/post/work/)."
 
 ## 短语
-- "[vast](/post/vast/) [majority](/post/majority/)" 表示绝大多数。
-- "[vast](/post/vast/) expanse" 指广阔的区域或空间。
+- "[vast](/zh/post/vast/) [majority](/zh/post/majority/)" 表示绝大多数。
+- "[vast](/zh/post/vast/) expanse" 指广阔的区域或空间。
 
 ## 例句
-- 形容词: "[The](/post/the/) Amazon rainforest is [a](/post/a/) [vast](/post/vast/) [and](/post/and/) biodiverse ecosystem."
-- 名词: "[The](/post/the/) [company](/post/company/) received [a](/post/a/) [vast](/post/vast/) [number](/post/number/) [of](/post/of/) applications [for](/post/for/) [the](/post/the/) [job](/post/job/)."
+- 形容词: "[The](/zh/post/the/) Amazon rainforest is [a](/zh/post/a/) [vast](/zh/post/vast/) [and](/zh/post/and/) biodiverse ecosystem."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) received [a](/zh/post/a/) [vast](/zh/post/vast/) [number](/zh/post/number/) [of](/zh/post/of/) applications [for](/zh/post/for/) [the](/zh/post/the/) [job](/zh/post/job/)."
 
 ## 同义词
-- [huge](/post/huge/)
-- [enormous](/post/enormous/)
-- [immense](/post/immense/)
-- [tremendous](/post/tremendous/)
+- [huge](/zh/post/huge/)
+- [enormous](/zh/post/enormous/)
+- [immense](/zh/post/immense/)
+- [tremendous](/zh/post/tremendous/)
 - gigantic

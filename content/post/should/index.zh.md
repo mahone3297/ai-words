@@ -12,22 +12,22 @@ keywords = ['ai words', 'should']
 
 ## 释义
 - **情态动词**: 表示建议、义务、可能性或推测。常与原形动词一起使用。
-    - 建议或推荐： "[You](/post/you/) [should](/post/should/) [study](/post/study/) [more](/post/more/) [for](/post/for/) [the](/post/the/) [exam](/post/exam/)."
-    - 义务或责任： "[As](/post/as/) [a](/post/a/) [friend](/post/friend/), [you](/post/you/) [should](/post/should/) [be](/post/be/) [there](/post/there/) [for](/post/for/) [her](/post/her/)."
-    - 可能性： "[If](/post/if/) [it](/post/it/) rains, [we](/post/we/) [should](/post/should/) [stay](/post/stay/) [at](/post/at/) [home](/post/home/)."
-    - 推测： "[He](/post/he/) looks [tired](/post/tired/); [he](/post/he/) [should](/post/should/) [have](/post/have/) worked [late](/post/late/) [last](/post/last/) [night](/post/night/)."
+    - 建议或推荐： "[You](/zh/post/you/) [should](/zh/post/should/) [study](/zh/post/study/) [more](/zh/post/more/) [for](/zh/post/for/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
+    - 义务或责任： "[As](/zh/post/as/) [a](/zh/post/a/) [friend](/zh/post/friend/), [you](/zh/post/you/) [should](/zh/post/should/) [be](/zh/post/be/) [there](/zh/post/there/) [for](/zh/post/for/) [her](/zh/post/her/)."
+    - 可能性： "[If](/zh/post/if/) [it](/zh/post/it/) rains, [we](/zh/post/we/) [should](/zh/post/should/) [stay](/zh/post/stay/) [at](/zh/post/at/) [home](/zh/post/home/)."
+    - 推测： "[He](/zh/post/he/) looks [tired](/zh/post/tired/); [he](/zh/post/he/) [should](/zh/post/should/) [have](/zh/post/have/) worked [late](/zh/post/late/) [last](/zh/post/last/) [night](/zh/post/night/)."
 
 ## 短语
-- "[Should](/post/should/) [have](/post/have/) done" 表示过去本应做但未做的事情。例如: "I [should](/post/should/) [have](/post/have/) called [you](/post/you/) earlier."
-- "Shouldn't [do](/post/do/)" 表示不应该做某事。例如: "[You](/post/you/) shouldn't [eat](/post/eat/) [too](/post/too/) [much](/post/much/) junk [food](/post/food/)."
+- "[Should](/zh/post/should/) [have](/zh/post/have/) done" 表示过去本应做但未做的事情。例如: "I [should](/zh/post/should/) [have](/zh/post/have/) called [you](/zh/post/you/) earlier."
+- "Shouldn't [do](/zh/post/do/)" 表示不应该做某事。例如: "[You](/zh/post/you/) shouldn't [eat](/zh/post/eat/) [too](/zh/post/too/) [much](/zh/post/much/) junk [food](/zh/post/food/)."
 
 ## 例句
-- 建议： "[You](/post/you/) [should](/post/should/) [try](/post/try/) [the](/post/the/) [new](/post/new/) [restaurant](/post/restaurant/) [in](/post/in/) [town](/post/town/); [the](/post/the/) [food](/post/food/) is amazing."
-- 义务： "[You](/post/you/) [should](/post/should/) [always](/post/always/) [tell](/post/tell/) [the](/post/the/) [truth](/post/truth/), [even](/post/even/) [if](/post/if/) it's [difficult](/post/difficult/)."
-- 可能性： "[If](/post/if/) [you](/post/you/) [feel](/post/feel/) unwell, [you](/post/you/) [should](/post/should/) [see](/post/see/) [a](/post/a/) [doctor](/post/doctor/) [right](/post/right/) [away](/post/away/)."
+- 建议： "[You](/zh/post/you/) [should](/zh/post/should/) [try](/zh/post/try/) [the](/zh/post/the/) [new](/zh/post/new/) [restaurant](/zh/post/restaurant/) [in](/zh/post/in/) [town](/zh/post/town/); [the](/zh/post/the/) [food](/zh/post/food/) is amazing."
+- 义务： "[You](/zh/post/you/) [should](/zh/post/should/) [always](/zh/post/always/) [tell](/zh/post/tell/) [the](/zh/post/the/) [truth](/zh/post/truth/), [even](/zh/post/even/) [if](/zh/post/if/) it's [difficult](/zh/post/difficult/)."
+- 可能性： "[If](/zh/post/if/) [you](/zh/post/you/) [feel](/zh/post/feel/) unwell, [you](/zh/post/you/) [should](/zh/post/should/) [see](/zh/post/see/) [a](/zh/post/a/) [doctor](/zh/post/doctor/) [right](/zh/post/right/) [away](/zh/post/away/)."
 
 ## 同义词
-- [Ought](/post/ought/) [to](/post/to/)
-- [Must](/post/must/) ([in](/post/in/) [some](/post/some/) contexts [for](/post/for/) obligation)
-- [Need](/post/need/) [to](/post/to/) ([for](/post/for/) [advice](/post/advice/) [or](/post/or/) [necessity](/post/necessity/))
-- [Would](/post/would/) ([in](/post/in/) [some](/post/some/) conditional statements)
+- [Ought](/zh/post/ought/) [to](/zh/post/to/)
+- [Must](/zh/post/must/) ([in](/zh/post/in/) [some](/zh/post/some/) contexts [for](/zh/post/for/) obligation)
+- [Need](/zh/post/need/) [to](/zh/post/to/) ([for](/zh/post/for/) [advice](/zh/post/advice/) [or](/zh/post/or/) [necessity](/zh/post/necessity/))
+- [Would](/zh/post/would/) ([in](/zh/post/in/) [some](/zh/post/some/) conditional statements)

@@ -7,38 +7,38 @@ description = '[əˈkəː] vi.发生；出现，存在'
 keywords = ['ai words', 'occur']
 +++
 
-# [Occur](/en/post/occur/)
+# [Occur](/post/occur/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈkɜːr/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [happen](/en/post/happen/); [take](/en/post/take/) [place](/en/post/place/); [come](/en/post/come/) [about](/en/post/about/); [arise](/en/post/arise/).
-  - _Intransitive_ [usage](/en/post/usage/): [To](/en/post/to/) [meet](/en/post/meet/) [with](/en/post/with/) [something](/en/post/something/) [by](/en/post/by/) [chance](/en/post/chance/); [to](/en/post/to/) [be](/en/post/be/) [present](/en/post/present/) [or](/en/post/or/) [found](/en/post/found/).
-    > [Example](/en/post/example/) [sentence](/en/post/sentence/): "[Rarely](/en/post/rarely/) does [such](/en/post/such/) an [opportunity](/en/post/opportunity/) [occur](/en/post/occur/) [in](/en/post/in/) one's [lifetime](/en/post/lifetime/)."
-  - _Transitive_ [usage](/en/post/usage/): [To](/en/post/to/) [present](/en/post/present/) [itself](/en/post/itself/); [to](/en/post/to/) [suggest](/en/post/suggest/) [itself](/en/post/itself/) [to](/en/post/to/) [the](/en/post/the/) [mind](/en/post/mind/).
-    > [Example](/en/post/example/) [sentence](/en/post/sentence/): "[The](/en/post/the/) [idea](/en/post/idea/) occurred [to](/en/post/to/) [him](/en/post/him/) [while](/en/post/while/) [he](/en/post/he/) was taking [a](/en/post/a/) [walk](/en/post/walk/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [happen](/post/happen/); [take](/post/take/) [place](/post/place/); [come](/post/come/) [about](/post/about/); [arise](/post/arise/).
+  - _Intransitive_ [usage](/post/usage/): [To](/post/to/) [meet](/post/meet/) [with](/post/with/) [something](/post/something/) [by](/post/by/) [chance](/post/chance/); [to](/post/to/) [be](/post/be/) [present](/post/present/) [or](/post/or/) [found](/post/found/).
+    > [Example](/post/example/) [sentence](/post/sentence/): "[Rarely](/post/rarely/) does [such](/post/such/) an [opportunity](/post/opportunity/) [occur](/post/occur/) [in](/post/in/) one's [lifetime](/post/lifetime/)."
+  - _Transitive_ [usage](/post/usage/): [To](/post/to/) [present](/post/present/) [itself](/post/itself/); [to](/post/to/) [suggest](/post/suggest/) [itself](/post/itself/) [to](/post/to/) [the](/post/the/) [mind](/post/mind/).
+    > [Example](/post/example/) [sentence](/post/sentence/): "[The](/post/the/) [idea](/post/idea/) occurred [to](/post/to/) [him](/post/him/) [while](/post/while/) [he](/post/he/) was taking [a](/post/a/) [walk](/post/walk/)."
 
 ## Phrases
-- "Occurs [to](/en/post/to/)": [To](/en/post/to/) [suddenly](/en/post/suddenly/) [come](/en/post/come/) [into](/en/post/into/) one's [mind](/en/post/mind/).
-  > [Example](/en/post/example/): "[It](/en/post/it/) [just](/en/post/just/) occurred [to](/en/post/to/) [me](/en/post/me/) [that](/en/post/that/) [we](/en/post/we/) forgot [to](/en/post/to/) [lock](/en/post/lock/) [the](/en/post/the/) [door](/en/post/door/)."
-- "[More](/en/post/more/) [often](/en/post/often/) [than](/en/post/than/) [not](/en/post/not/)": [This](/en/post/this/) [phrase](/en/post/phrase/) implies [that](/en/post/that/) [something](/en/post/something/) occurs [frequently](/en/post/frequently/) [or](/en/post/or/) [usually](/en/post/usually/).
-  > [Example](/en/post/example/): "[More](/en/post/more/) [often](/en/post/often/) [than](/en/post/than/) [not](/en/post/not/), accidents [occur](/en/post/occur/) [due](/en/post/due/) [to](/en/post/to/) carelessness."
+- "Occurs [to](/post/to/)": [To](/post/to/) [suddenly](/post/suddenly/) [come](/post/come/) [into](/post/into/) one's [mind](/post/mind/).
+  > [Example](/post/example/): "[It](/post/it/) [just](/post/just/) occurred [to](/post/to/) [me](/post/me/) [that](/post/that/) [we](/post/we/) forgot [to](/post/to/) [lock](/post/lock/) [the](/post/the/) [door](/post/door/)."
+- "[More](/post/more/) [often](/post/often/) [than](/post/than/) [not](/post/not/)": [This](/post/this/) [phrase](/post/phrase/) implies [that](/post/that/) [something](/post/something/) occurs [frequently](/post/frequently/) [or](/post/or/) [usually](/post/usually/).
+  > [Example](/post/example/): "[More](/post/more/) [often](/post/often/) [than](/post/than/) [not](/post/not/), accidents [occur](/post/occur/) [due](/post/due/) [to](/post/to/) carelessness."
 
-## [Example](/en/post/example/) Sentences
-- **Intransitive [Verb](/en/post/verb/)**: "[The](/en/post/the/) [festival](/en/post/festival/) occurs annually [on](/en/post/on/) [the](/en/post/the/) [last](/en/post/last/) [weekend](/en/post/weekend/) [of](/en/post/of/) [August](/en/post/august/)."
-- **Transitive [Verb](/en/post/verb/)**: "[A](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) unease occurred [when](/en/post/when/) [she](/en/post/she/) noticed [the](/en/post/the/) [door](/en/post/door/) ajar."
+## [Example](/post/example/) Sentences
+- **Intransitive [Verb](/post/verb/)**: "[The](/post/the/) [festival](/post/festival/) occurs annually [on](/post/on/) [the](/post/the/) [last](/post/last/) [weekend](/post/weekend/) [of](/post/of/) [August](/post/august/)."
+- **Transitive [Verb](/post/verb/)**: "[A](/post/a/) [sense](/post/sense/) [of](/post/of/) unease occurred [when](/post/when/) [she](/post/she/) noticed [the](/post/the/) [door](/post/door/) ajar."
 
 ## Synonyms
-- [Happen](/en/post/happen/)
-- [Arise](/en/post/arise/)
-- [Take](/en/post/take/) [place](/en/post/place/)
-- [Come](/en/post/come/) [about](/en/post/about/)
-- [Emerge](/en/post/emerge/)
+- [Happen](/post/happen/)
+- [Arise](/post/arise/)
+- [Take](/post/take/) [place](/post/place/)
+- [Come](/post/come/) [about](/post/about/)
+- [Emerge](/post/emerge/)
 - Materialize
-- [Surface](/en/post/surface/)
-- [Present](/en/post/present/) [itself](/en/post/itself/)
+- [Surface](/post/surface/)
+- [Present](/post/present/) [itself](/post/itself/)
 
 ## Related Phrasal Verbs
-- **[Occur](/en/post/occur/) [to](/en/post/to/) sb**: [To](/en/post/to/) [think](/en/post/think/) [of](/en/post/of/) [something](/en/post/something/).
-  > [Example](/en/post/example/): "[It](/en/post/it/) [never](/en/post/never/) occurred [to](/en/post/to/) [her](/en/post/her/) [that](/en/post/that/) [he](/en/post/he/) [might](/en/post/might/) [change](/en/post/change/) [his](/en/post/his/) [mind](/en/post/mind/)."
+- **[Occur](/post/occur/) [to](/post/to/) sb**: [To](/post/to/) [think](/post/think/) [of](/post/of/) [something](/post/something/).
+  > [Example](/post/example/): "[It](/post/it/) [never](/post/never/) occurred [to](/post/to/) [her](/post/her/) [that](/post/that/) [he](/post/he/) [might](/post/might/) [change](/post/change/) [his](/post/his/) [mind](/post/mind/)."

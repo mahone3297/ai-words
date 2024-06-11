@@ -11,22 +11,22 @@ keywords = ['ai words', 'whirl']
 /ˈwɜːrl/
 
 ## 释义
-- **动词**: 快速旋转；疾旋。例如: "[The](/post/the/) [child](/post/child/) was whirling [around](/post/around/) [in](/post/in/) circles."
-- **名词**: 旋转的动作；漩涡。例如: "[A](/post/a/) [whirl](/post/whirl/) [of](/post/of/) leaves swirled [around](/post/around/) [my](/post/my/) feet."
-- **名词**: 疯狂的活动或社交场合。例如: "[They](/post/they/) spent [the](/post/the/) [evening](/post/evening/) [in](/post/in/) [the](/post/the/) [whirl](/post/whirl/) [of](/post/of/) [the](/post/the/) city's nightlife."
+- **动词**: 快速旋转；疾旋。例如: "[The](/zh/post/the/) [child](/zh/post/child/) was whirling [around](/zh/post/around/) [in](/zh/post/in/) circles."
+- **名词**: 旋转的动作；漩涡。例如: "[A](/zh/post/a/) [whirl](/zh/post/whirl/) [of](/zh/post/of/) leaves swirled [around](/zh/post/around/) [my](/zh/post/my/) feet."
+- **名词**: 疯狂的活动或社交场合。例如: "[They](/zh/post/they/) spent [the](/zh/post/the/) [evening](/zh/post/evening/) [in](/zh/post/in/) [the](/zh/post/the/) [whirl](/zh/post/whirl/) [of](/zh/post/of/) [the](/zh/post/the/) city's nightlife."
 
 ## 短语
-- "[in](/post/in/) [a](/post/a/) [whirl](/post/whirl/)" 表示忙得团团转或思绪混乱的状态。例如: "I'm [in](/post/in/) [a](/post/a/) [whirl](/post/whirl/) trying [to](/post/to/) [finish](/post/finish/) [this](/post/this/) [project](/post/project/)."
-- "whirlpool" 指水或其他液体形成的漩涡。例如: "[The](/post/the/) bathtub [drain](/post/drain/) created [a](/post/a/) [small](/post/small/) whirlpool."
+- "[in](/zh/post/in/) [a](/zh/post/a/) [whirl](/zh/post/whirl/)" 表示忙得团团转或思绪混乱的状态。例如: "I'm [in](/zh/post/in/) [a](/zh/post/a/) [whirl](/zh/post/whirl/) trying [to](/zh/post/to/) [finish](/zh/post/finish/) [this](/zh/post/this/) [project](/zh/post/project/)."
+- "whirlpool" 指水或其他液体形成的漩涡。例如: "[The](/zh/post/the/) bathtub [drain](/zh/post/drain/) created [a](/zh/post/a/) [small](/zh/post/small/) whirlpool."
 
 ## 例句
-- 动词: "[The](/post/the/) centrifuge made [the](/post/the/) [sample](/post/sample/) [whirl](/post/whirl/) [at](/post/at/) [high](/post/high/) [speed](/post/speed/)."
-- 名词: "[The](/post/the/) tornado created [a](/post/a/) massive [whirl](/post/whirl/) [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
-- 名词: "[She](/post/she/) enjoyed [the](/post/the/) [whirl](/post/whirl/) [of](/post/of/) [the](/post/the/) ballroom [dance](/post/dance/)."
+- 动词: "[The](/zh/post/the/) centrifuge made [the](/zh/post/the/) [sample](/zh/post/sample/) [whirl](/zh/post/whirl/) [at](/zh/post/at/) [high](/zh/post/high/) [speed](/zh/post/speed/)."
+- 名词: "[The](/zh/post/the/) tornado created [a](/zh/post/a/) massive [whirl](/zh/post/whirl/) [in](/zh/post/in/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
+- 名词: "[She](/zh/post/she/) enjoyed [the](/zh/post/the/) [whirl](/zh/post/whirl/) [of](/zh/post/of/) [the](/zh/post/the/) ballroom [dance](/zh/post/dance/)."
 
 ## 同义词
-- [spin](/post/spin/)
-- [rotate](/post/rotate/)
+- [spin](/zh/post/spin/)
+- [rotate](/zh/post/rotate/)
 - twirl
 - vortex
 - gyrate

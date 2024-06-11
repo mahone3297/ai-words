@@ -11,22 +11,22 @@ keywords = ['ai words', 'false']
 /fəʊls/
 
 ## 释义
-- **形容词**: 不真实的，虚假的，不正确的。例如: "[The](/post/the/) [information](/post/information/) [provided](/post/provided/) was [false](/post/false/)."
-- **名词**: 谎言，假象，错误的事物。例如: "[He](/post/he/) believed [in](/post/in/) [a](/post/a/) [false](/post/false/) [promise](/post/promise/)."
-- **动词**: 假装，伪装。例如: "[She](/post/she/) [false](/post/false/) [her](/post/her/) emotions [to](/post/to/) [avoid](/post/avoid/) [suspicion](/post/suspicion/)."
+- **形容词**: 不真实的，虚假的，不正确的。例如: "[The](/zh/post/the/) [information](/zh/post/information/) [provided](/zh/post/provided/) was [false](/zh/post/false/)."
+- **名词**: 谎言，假象，错误的事物。例如: "[He](/zh/post/he/) believed [in](/zh/post/in/) [a](/zh/post/a/) [false](/zh/post/false/) [promise](/zh/post/promise/)."
+- **动词**: 假装，伪装。例如: "[She](/zh/post/she/) [false](/zh/post/false/) [her](/zh/post/her/) emotions [to](/zh/post/to/) [avoid](/zh/post/avoid/) [suspicion](/zh/post/suspicion/)."
 
 ## 短语
-- "[false](/post/false/) [hope](/post/hope/)" 指不切实际的希望。
-- "[false](/post/false/) [alarm](/post/alarm/)" 指错误的警报或恐慌。
-- "[false](/post/false/) [sense](/post/sense/) [of](/post/of/) [security](/post/security/)" 指错误的安全感。
+- "[false](/zh/post/false/) [hope](/zh/post/hope/)" 指不切实际的希望。
+- "[false](/zh/post/false/) [alarm](/zh/post/alarm/)" 指错误的警报或恐慌。
+- "[false](/zh/post/false/) [sense](/zh/post/sense/) [of](/zh/post/of/) [security](/zh/post/security/)" 指错误的安全感。
 
 ## 例句
-- 形容词: "[The](/post/the/) [document](/post/document/) contained [several](/post/several/) [false](/post/false/) statements."
-- 名词: "[His](/post/his/) [belief](/post/belief/) [in](/post/in/) [a](/post/a/) [false](/post/false/) god led [him](/post/him/) astray."
-- 动词: "[She](/post/she/) [false](/post/false/) [her](/post/her/) [love](/post/love/) [for](/post/for/) [him](/post/him/) [just](/post/just/) [to](/post/to/) manipulate [him](/post/him/)."
+- 形容词: "[The](/zh/post/the/) [document](/zh/post/document/) contained [several](/zh/post/several/) [false](/zh/post/false/) statements."
+- 名词: "[His](/zh/post/his/) [belief](/zh/post/belief/) [in](/zh/post/in/) [a](/zh/post/a/) [false](/zh/post/false/) god led [him](/zh/post/him/) astray."
+- 动词: "[She](/zh/post/she/) [false](/zh/post/false/) [her](/zh/post/her/) [love](/zh/post/love/) [for](/zh/post/for/) [him](/zh/post/him/) [just](/zh/post/just/) [to](/zh/post/to/) manipulate [him](/zh/post/him/)."
 
 ## 同义词
-- [incorrect](/post/incorrect/)
+- [incorrect](/zh/post/incorrect/)
 - untrue
 - deceptive
 - misleading

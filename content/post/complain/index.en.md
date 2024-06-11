@@ -7,42 +7,42 @@ description = '[kəmˈplein] vi.抱怨，拆苦；控告'
 keywords = ['ai words', 'complain']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈpleɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [statement](/en/post/statement/) expressing dissatisfaction, unhappiness, [or](/en/post/or/) grievance [about](/en/post/about/) [something](/en/post/something/): *I've been complaining [about](/en/post/about/) [the](/en/post/the/) [long](/en/post/long/) commute [all](/en/post/all/) [week](/en/post/week/).*
-2. An [action](/en/post/action/) [or](/en/post/or/) [habit](/en/post/habit/) [of](/en/post/of/) making [such](/en/post/such/) statements: *[His](/en/post/his/) [constant](/en/post/constant/) complaining was wearing [on](/en/post/on/) [her](/en/post/her/) nerves.*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [statement](/post/statement/) expressing dissatisfaction, unhappiness, [or](/post/or/) grievance [about](/post/about/) [something](/post/something/): *I've been complaining [about](/post/about/) [the](/post/the/) [long](/post/long/) commute [all](/post/all/) [week](/post/week/).*
+2. An [action](/post/action/) [or](/post/or/) [habit](/post/habit/) [of](/post/of/) making [such](/post/such/) statements: *[His](/post/his/) [constant](/post/constant/) complaining was wearing [on](/post/on/) [her](/post/her/) nerves.*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [express](/en/post/express/) discontent [or](/en/post/or/) dissatisfaction [with](/en/post/with/) [something](/en/post/something/): *[She](/en/post/she/) complained [about](/en/post/about/) [the](/en/post/the/) [poor](/en/post/poor/) [service](/en/post/service/) [at](/en/post/at/) [the](/en/post/the/) [restaurant](/en/post/restaurant/).*
-2. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [formal](/en/post/formal/) accusation [or](/en/post/or/) [charge](/en/post/charge/): *[The](/en/post/the/) [customer](/en/post/customer/) complained [to](/en/post/to/) [the](/en/post/the/) manager [about](/en/post/about/) [the](/en/post/the/) defective [product](/en/post/product/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [express](/post/express/) discontent [or](/post/or/) dissatisfaction [with](/post/with/) [something](/post/something/): *[She](/post/she/) complained [about](/post/about/) [the](/post/the/) [poor](/post/poor/) [service](/post/service/) [at](/post/at/) [the](/post/the/) [restaurant](/post/restaurant/).*
+2. [To](/post/to/) [make](/post/make/) [a](/post/a/) [formal](/post/formal/) accusation [or](/post/or/) [charge](/post/charge/): *[The](/post/the/) [customer](/post/customer/) complained [to](/post/to/) [the](/post/the/) manager [about](/post/about/) [the](/post/the/) defective [product](/post/product/).*
 
 ## Phrases
-- "[Complain](/en/post/complain/) [about](/en/post/about/)" ([to](/en/post/to/) [express](/en/post/express/) dissatisfaction)
-- "[Bring](/en/post/bring/) [a](/en/post/a/) [complaint](/en/post/complaint/)" ([to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [formal](/en/post/formal/) grievance)
-- "[No](/en/post/no/) complaints" ([meaning](/en/post/meaning/) [no](/en/post/no/) issues [or](/en/post/or/) [everything](/en/post/everything/) is [satisfactory](/en/post/satisfactory/))
+- "[Complain](/post/complain/) [about](/post/about/)" ([to](/post/to/) [express](/post/express/) dissatisfaction)
+- "[Bring](/post/bring/) [a](/post/a/) [complaint](/post/complaint/)" ([to](/post/to/) [make](/post/make/) [a](/post/a/) [formal](/post/formal/) grievance)
+- "[No](/post/no/) complaints" ([meaning](/post/meaning/) [no](/post/no/) issues [or](/post/or/) [everything](/post/everything/) is [satisfactory](/post/satisfactory/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [constant](/en/post/constant/) complaints [about](/en/post/about/) [the](/en/post/the/) [food](/en/post/food/) were driving [the](/en/post/the/) others [crazy](/en/post/crazy/)."
-- **[Verb](/en/post/verb/)**: "[If](/en/post/if/) [you](/en/post/you/) [have](/en/post/have/) [a](/en/post/a/) [problem](/en/post/problem/), [please](/en/post/please/) [come](/en/post/come/) [forward](/en/post/forward/) [and](/en/post/and/) [complain](/en/post/complain/) [to](/en/post/to/) [the](/en/post/the/) [staff](/en/post/staff/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [customer](/en/post/customer/) decided [to](/en/post/to/) [complain](/en/post/complain/) [to](/en/post/to/) [the](/en/post/the/) higher authorities [after](/en/post/after/) [several](/en/post/several/) attempts [to](/en/post/to/) [resolve](/en/post/resolve/) [the](/en/post/the/) [issue](/en/post/issue/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [constant](/post/constant/) complaints [about](/post/about/) [the](/post/the/) [food](/post/food/) were driving [the](/post/the/) others [crazy](/post/crazy/)."
+- **[Verb](/post/verb/)**: "[If](/post/if/) [you](/post/you/) [have](/post/have/) [a](/post/a/) [problem](/post/problem/), [please](/post/please/) [come](/post/come/) [forward](/post/forward/) [and](/post/and/) [complain](/post/complain/) [to](/post/to/) [the](/post/the/) [staff](/post/staff/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [customer](/post/customer/) decided [to](/post/to/) [complain](/post/complain/) [to](/post/to/) [the](/post/the/) higher authorities [after](/post/after/) [several](/post/several/) attempts [to](/post/to/) [resolve](/post/resolve/) [the](/post/the/) [issue](/post/issue/)."
 
 ## Synonyms
-- [Complain](/en/post/complain/) ([same](/en/post/same/) [meaning](/en/post/meaning/))
+- [Complain](/post/complain/) ([same](/post/same/) [meaning](/post/meaning/))
 - Grievance
-- [Complaint](/en/post/complaint/)
-- [Criticize](/en/post/criticize/)
-- [Accuse](/en/post/accuse/)
-- [Regret](/en/post/regret/)
+- [Complaint](/post/complaint/)
+- [Criticize](/post/criticize/)
+- [Accuse](/post/accuse/)
+- [Regret](/post/regret/)
 - Resent
-- [Moan](/en/post/moan/)
+- [Moan](/post/moan/)
 
 ## Antonyms
-- [Praise](/en/post/praise/)
-- [Appreciate](/en/post/appreciate/)
+- [Praise](/post/praise/)
+- [Appreciate](/post/appreciate/)
 - Endorse
-- [Accept](/en/post/accept/)
-- [Be](/en/post/be/) Satisfied
-- [Rejoice](/en/post/rejoice/)
+- [Accept](/post/accept/)
+- [Be](/post/be/) Satisfied
+- [Rejoice](/post/rejoice/)

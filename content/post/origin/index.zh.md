@@ -11,20 +11,20 @@ keywords = ['ai words', 'origin']
 /ˈɔːrɪdʒɪn/
 
 ## 释义
-- **名词**: 起源，来源，出身。例如: "[The](/post/the/) [origin](/post/origin/) [of](/post/of/) [the](/post/the/) species is [a](/post/a/) fascinating [topic](/post/topic/) [for](/post/for/) scientists." 
-- **名词**: 创造，创始。例如: "[The](/post/the/) [origin](/post/origin/) [of](/post/of/) [the](/post/the/) [painting](/post/painting/) dates [back](/post/back/) [to](/post/to/) [the](/post/the/) 15th [century](/post/century/)."
+- **名词**: 起源，来源，出身。例如: "[The](/zh/post/the/) [origin](/zh/post/origin/) [of](/zh/post/of/) [the](/zh/post/the/) species is [a](/zh/post/a/) fascinating [topic](/zh/post/topic/) [for](/zh/post/for/) scientists." 
+- **名词**: 创造，创始。例如: "[The](/zh/post/the/) [origin](/zh/post/origin/) [of](/zh/post/of/) [the](/zh/post/the/) [painting](/zh/post/painting/) dates [back](/zh/post/back/) [to](/zh/post/to/) [the](/zh/post/the/) 15th [century](/zh/post/century/)."
 
 ## 短语
-- "[the](/post/the/) [origin](/post/origin/) [of](/post/of/)" 表示...的起源。例如: "We'll [explore](/post/explore/) [the](/post/the/) [origin](/post/origin/) [of](/post/of/) [human](/post/human/) [language](/post/language/) [in](/post/in/) [this](/post/this/) [lecture](/post/lecture/)."
-- "[from](/post/from/) [scratch](/post/scratch/)" 从零开始，从原始状态。例如: "[They](/post/they/) had [to](/post/to/) [build](/post/build/) [the](/post/the/) [house](/post/house/) [from](/post/from/) [the](/post/the/) [very](/post/very/) [origin](/post/origin/)."
+- "[the](/zh/post/the/) [origin](/zh/post/origin/) [of](/zh/post/of/)" 表示...的起源。例如: "We'll [explore](/zh/post/explore/) [the](/zh/post/the/) [origin](/zh/post/origin/) [of](/zh/post/of/) [human](/zh/post/human/) [language](/zh/post/language/) [in](/zh/post/in/) [this](/zh/post/this/) [lecture](/zh/post/lecture/)."
+- "[from](/zh/post/from/) [scratch](/zh/post/scratch/)" 从零开始，从原始状态。例如: "[They](/zh/post/they/) had [to](/zh/post/to/) [build](/zh/post/build/) [the](/zh/post/the/) [house](/zh/post/house/) [from](/zh/post/from/) [the](/zh/post/the/) [very](/zh/post/very/) [origin](/zh/post/origin/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [origin](/post/origin/) [of](/post/of/) [life](/post/life/) [on](/post/on/) [Earth](/post/earth/) [remains](/post/remains/) [one](/post/one/) [of](/post/of/) [the](/post/the/) greatest mysteries [in](/post/in/) [science](/post/science/)."
-- 名词: "[The](/post/the/) [company](/post/company/) was founded [in](/post/in/) 1980, [so](/post/so/) [this](/post/this/) [year](/post/year/) marks [its](/post/its/) 40th [origin](/post/origin/)."
+- 名词: "[The](/zh/post/the/) [origin](/zh/post/origin/) [of](/zh/post/of/) [life](/zh/post/life/) [on](/zh/post/on/) [Earth](/zh/post/earth/) [remains](/zh/post/remains/) [one](/zh/post/one/) [of](/zh/post/of/) [the](/zh/post/the/) greatest mysteries [in](/zh/post/in/) [science](/zh/post/science/)."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) was founded [in](/zh/post/in/) 1980, [so](/zh/post/so/) [this](/zh/post/this/) [year](/zh/post/year/) marks [its](/zh/post/its/) 40th [origin](/zh/post/origin/)."
 
 ## 同义词
-- [Beginning](/post/beginning/)
-- [Source](/post/source/)
-- [Root](/post/root/)
-- [Birth](/post/birth/)
-- [Start](/post/start/)
+- [Beginning](/zh/post/beginning/)
+- [Source](/zh/post/source/)
+- [Root](/zh/post/root/)
+- [Birth](/zh/post/birth/)
+- [Start](/zh/post/start/)

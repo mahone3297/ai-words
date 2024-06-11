@@ -12,25 +12,25 @@ keywords = ['ai words', 'piece']
 
 ## 释义
 - **名词**:
-  - 一件；部分：[A](/post/a/) [unit](/post/unit/) [or](/post/or/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [whole](/post/whole/); [a](/post/a/) segment.
-  - 片；块；段：[A](/post/a/) [portion](/post/portion/) [or](/post/or/) [section](/post/section/) [of](/post/of/) [something](/post/something/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [cake](/post/cake/) [or](/post/or/) [a](/post/a/) [document](/post/document/).
-  - 作品；乐章：[A](/post/a/) [musical](/post/musical/) [composition](/post/composition/), [especially](/post/especially/) [a](/post/a/) [single](/post/single/) [movement](/post/movement/) [of](/post/of/) [a](/post/a/) larger [work](/post/work/).
-  - 货币单位（尤指英镑）：[A](/post/a/) [unit](/post/unit/) [of](/post/of/) currency, [especially](/post/especially/) [a](/post/a/) [pound](/post/pound/).
+  - 一件；部分：[A](/zh/post/a/) [unit](/zh/post/unit/) [or](/zh/post/or/) [part](/zh/post/part/) [of](/zh/post/of/) [a](/zh/post/a/) [whole](/zh/post/whole/); [a](/zh/post/a/) segment.
+  - 片；块；段：[A](/zh/post/a/) [portion](/zh/post/portion/) [or](/zh/post/or/) [section](/zh/post/section/) [of](/zh/post/of/) [something](/zh/post/something/), [such](/zh/post/such/) [as](/zh/post/as/) [a](/zh/post/a/) [cake](/zh/post/cake/) [or](/zh/post/or/) [a](/zh/post/a/) [document](/zh/post/document/).
+  - 作品；乐章：[A](/zh/post/a/) [musical](/zh/post/musical/) [composition](/zh/post/composition/), [especially](/zh/post/especially/) [a](/zh/post/a/) [single](/zh/post/single/) [movement](/zh/post/movement/) [of](/zh/post/of/) [a](/zh/post/a/) larger [work](/zh/post/work/).
+  - 货币单位（尤指英镑）：[A](/zh/post/a/) [unit](/zh/post/unit/) [of](/zh/post/of/) currency, [especially](/zh/post/especially/) [a](/zh/post/a/) [pound](/zh/post/pound/).
 
 - **动词**:
-  - 安静下来；平息：[To](/post/to/) [become](/post/become/) [or](/post/or/) [cause](/post/cause/) [to](/post/to/) [become](/post/become/) [quiet](/post/quiet/) [or](/post/or/) [calm](/post/calm/).
+  - 安静下来；平息：[To](/zh/post/to/) [become](/zh/post/become/) [or](/zh/post/or/) [cause](/zh/post/cause/) [to](/zh/post/to/) [become](/zh/post/become/) [quiet](/zh/post/quiet/) [or](/zh/post/or/) [calm](/zh/post/calm/).
 
 ## 短语
-- "[in](/post/in/) pieces" 分成碎片；破碎：[Broken](/post/broken/) [into](/post/into/) [many](/post/many/) parts.
-- "[a](/post/a/) [piece](/post/piece/) [of](/post/of/) [work](/post/work/)" 一件工作；某人的行为：[A](/post/a/) [task](/post/task/) [or](/post/or/) [project](/post/project/), [or](/post/or/) someone's actions [or](/post/or/) [behavior](/post/behavior/).
+- "[in](/zh/post/in/) pieces" 分成碎片；破碎：[Broken](/zh/post/broken/) [into](/zh/post/into/) [many](/zh/post/many/) parts.
+- "[a](/zh/post/a/) [piece](/zh/post/piece/) [of](/zh/post/of/) [work](/zh/post/work/)" 一件工作；某人的行为：[A](/zh/post/a/) [task](/zh/post/task/) [or](/zh/post/or/) [project](/zh/post/project/), [or](/zh/post/or/) someone's actions [or](/zh/post/or/) [behavior](/zh/post/behavior/).
 
 ## 例句
-- 名词: "[He](/post/he/) broke [the](/post/the/) [chocolate](/post/chocolate/) [bar](/post/bar/) [into](/post/into/) [several](/post/several/) [small](/post/small/) pieces."
-- 动词: "[The](/post/the/) [baby](/post/baby/) [finally](/post/finally/) fell [asleep](/post/asleep/) [after](/post/after/) crying [for](/post/for/) hours, [and](/post/and/) [the](/post/the/) [house](/post/house/) [finally](/post/finally/) [found](/post/found/) [some](/post/some/) [peace](/post/peace/)."
+- 名词: "[He](/zh/post/he/) broke [the](/zh/post/the/) [chocolate](/zh/post/chocolate/) [bar](/zh/post/bar/) [into](/zh/post/into/) [several](/zh/post/several/) [small](/zh/post/small/) pieces."
+- 动词: "[The](/zh/post/the/) [baby](/zh/post/baby/) [finally](/zh/post/finally/) fell [asleep](/zh/post/asleep/) [after](/zh/post/after/) crying [for](/zh/post/for/) hours, [and](/zh/post/and/) [the](/zh/post/the/) [house](/zh/post/house/) [finally](/zh/post/finally/) [found](/zh/post/found/) [some](/zh/post/some/) [peace](/zh/post/peace/)."
   
 ## 同义词
-- [Part](/post/part/)
+- [Part](/zh/post/part/)
 - Segment
 - Chunk
-- [Section](/post/section/)
+- [Section](/zh/post/section/)
 - Token

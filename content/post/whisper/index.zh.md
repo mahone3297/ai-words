@@ -11,20 +11,20 @@ keywords = ['ai words', 'whisper']
 /ˈwɪspər/
 
 ## 释义
-- **动词**: 轻声说话，耳语。例如: "[They](/post/they/) were whispering secrets [to](/post/to/) [each](/post/each/) [other](/post/other/)."
-- **名词**: 耳语的声音；悄悄话。例如: "I [could](/post/could/) [hear](/post/hear/) [a](/post/a/) [faint](/post/faint/) [whisper](/post/whisper/) [in](/post/in/) [the](/post/the/) darkness."
+- **动词**: 轻声说话，耳语。例如: "[They](/zh/post/they/) were whispering secrets [to](/zh/post/to/) [each](/zh/post/each/) [other](/zh/post/other/)."
+- **名词**: 耳语的声音；悄悄话。例如: "I [could](/zh/post/could/) [hear](/zh/post/hear/) [a](/zh/post/a/) [faint](/zh/post/faint/) [whisper](/zh/post/whisper/) [in](/zh/post/in/) [the](/zh/post/the/) darkness."
 
 ## 短语
-- "[Whisper](/post/whisper/) [something](/post/something/) [in](/post/in/) someone's [ear](/post/ear/)" 意思是在某人的耳边轻声说话。
-- "[A](/post/a/) [whisper](/post/whisper/) [of](/post/of/) [hope](/post/hope/)" 表示微弱的希望或迹象。
+- "[Whisper](/zh/post/whisper/) [something](/zh/post/something/) [in](/zh/post/in/) someone's [ear](/zh/post/ear/)" 意思是在某人的耳边轻声说话。
+- "[A](/zh/post/a/) [whisper](/zh/post/whisper/) [of](/zh/post/of/) [hope](/zh/post/hope/)" 表示微弱的希望或迹象。
 
 ## 例句
-- 动词: "[The](/post/the/) children were whispering excitedly [before](/post/before/) [the](/post/the/) [surprise](/post/surprise/) [guest](/post/guest/) arrived."
-- 名词: "[There](/post/there/) was [a](/post/a/) [whisper](/post/whisper/) [of](/post/of/) leaves rustling [in](/post/in/) [the](/post/the/) [gentle](/post/gentle/) [breeze](/post/breeze/)."
+- 动词: "[The](/zh/post/the/) children were whispering excitedly [before](/zh/post/before/) [the](/zh/post/the/) [surprise](/zh/post/surprise/) [guest](/zh/post/guest/) arrived."
+- 名词: "[There](/zh/post/there/) was [a](/zh/post/a/) [whisper](/zh/post/whisper/) [of](/zh/post/of/) leaves rustling [in](/zh/post/in/) [the](/zh/post/the/) [gentle](/zh/post/gentle/) [breeze](/zh/post/breeze/)."
 
 ## 同义词
 - Murmur
 - Hush
 -私语
 -低语
-- Secretly [speak](/post/speak/)
+- Secretly [speak](/zh/post/speak/)

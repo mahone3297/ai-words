@@ -7,45 +7,45 @@ description = '[ˈsæmpl] n.样品；实例，标本'
 keywords = ['ai words', 'sample']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sæmpl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[sample](/en/post/sample/)** is:
-1. [A](/en/post/a/) [small](/en/post/small/) [part](/en/post/part/) [or](/en/post/or/) [portion](/en/post/portion/) [of](/en/post/of/) [something](/en/post/something/), typically taken [for](/en/post/for/) testing, [analysis](/en/post/analysis/), [or](/en/post/or/) demonstration purposes. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lab](/en/post/lab/) [technician](/en/post/technician/) took [a](/en/post/a/) [soil](/en/post/soil/) [sample](/en/post/sample/) [from](/en/post/from/) [the](/en/post/the/) [field](/en/post/field/)."
-2. An [instance](/en/post/instance/) [or](/en/post/or/) [illustration](/en/post/illustration/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [kind](/en/post/kind/) [or](/en/post/or/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [art](/en/post/art/) [gallery](/en/post/gallery/) featured [a](/en/post/a/) [diverse](/en/post/diverse/) [sample](/en/post/sample/) [of](/en/post/of/) [modern](/en/post/modern/) paintings."
-3. [A](/en/post/a/) [representative](/en/post/representative/) [group](/en/post/group/) chosen [for](/en/post/for/) [research](/en/post/research/) [or](/en/post/or/) [study](/en/post/study/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [survey](/en/post/survey/) results were based [on](/en/post/on/) [a](/en/post/a/) statistically [significant](/en/post/significant/) [sample](/en/post/sample/) [size](/en/post/size/)."
+### [Noun](/post/noun/)
+[A](/post/a/) **[sample](/post/sample/)** is:
+1. [A](/post/a/) [small](/post/small/) [part](/post/part/) [or](/post/or/) [portion](/post/portion/) [of](/post/of/) [something](/post/something/), typically taken [for](/post/for/) testing, [analysis](/post/analysis/), [or](/post/or/) demonstration purposes. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lab](/post/lab/) [technician](/post/technician/) took [a](/post/a/) [soil](/post/soil/) [sample](/post/sample/) [from](/post/from/) [the](/post/the/) [field](/post/field/)."
+2. An [instance](/post/instance/) [or](/post/or/) [illustration](/post/illustration/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [kind](/post/kind/) [or](/post/or/) [quality](/post/quality/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [art](/post/art/) [gallery](/post/gallery/) featured [a](/post/a/) [diverse](/post/diverse/) [sample](/post/sample/) [of](/post/of/) [modern](/post/modern/) paintings."
+3. [A](/post/a/) [representative](/post/representative/) [group](/post/group/) chosen [for](/post/for/) [research](/post/research/) [or](/post/or/) [study](/post/study/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [survey](/post/survey/) results were based [on](/post/on/) [a](/post/a/) statistically [significant](/post/significant/) [sample](/post/sample/) [size](/post/size/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[sample](/en/post/sample/)** [can](/en/post/can/) [mean](/en/post/mean/):
-1. [To](/en/post/to/) [taste](/en/post/taste/) [or](/en/post/or/) [examine](/en/post/examine/) [a](/en/post/a/) [small](/en/post/small/) [portion](/en/post/portion/) [of](/en/post/of/) ([food](/en/post/food/) [or](/en/post/or/) [drink](/en/post/drink/)) [for](/en/post/for/) flavor [or](/en/post/or/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "I sampled [several](/en/post/several/) wines [at](/en/post/at/) [the](/en/post/the/) [wine](/en/post/wine/) tasting [event](/en/post/event/)."
-2. [To](/en/post/to/) [try](/en/post/try/) [or](/en/post/or/) [experience](/en/post/experience/) [a](/en/post/a/) [small](/en/post/small/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/). [For](/en/post/for/) [example](/en/post/example/): "Customers are encouraged [to](/en/post/to/) [sample](/en/post/sample/) [the](/en/post/the/) [new](/en/post/new/) skincare [line](/en/post/line/)."
-3. [To](/en/post/to/) [gather](/en/post/gather/) [data](/en/post/data/) [or](/en/post/or/) [information](/en/post/information/) [from](/en/post/from/) [a](/en/post/a/) [limited](/en/post/limited/) [number](/en/post/number/) [of](/en/post/of/) individuals [or](/en/post/or/) cases. [For](/en/post/for/) [example](/en/post/example/): "Researchers sampled households [across](/en/post/across/) [the](/en/post/the/) [city](/en/post/city/) [to](/en/post/to/) [collect](/en/post/collect/) demographic [data](/en/post/data/)."
+### [Verb](/post/verb/)
+[To](/post/to/) **[sample](/post/sample/)** [can](/post/can/) [mean](/post/mean/):
+1. [To](/post/to/) [taste](/post/taste/) [or](/post/or/) [examine](/post/examine/) [a](/post/a/) [small](/post/small/) [portion](/post/portion/) [of](/post/of/) ([food](/post/food/) [or](/post/or/) [drink](/post/drink/)) [for](/post/for/) flavor [or](/post/or/) [quality](/post/quality/). [For](/post/for/) [example](/post/example/): "I sampled [several](/post/several/) wines [at](/post/at/) [the](/post/the/) [wine](/post/wine/) tasting [event](/post/event/)."
+2. [To](/post/to/) [try](/post/try/) [or](/post/or/) [experience](/post/experience/) [a](/post/a/) [small](/post/small/) [part](/post/part/) [of](/post/of/) [something](/post/something/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [product](/post/product/) [or](/post/or/) [service](/post/service/). [For](/post/for/) [example](/post/example/): "Customers are encouraged [to](/post/to/) [sample](/post/sample/) [the](/post/the/) [new](/post/new/) skincare [line](/post/line/)."
+3. [To](/post/to/) [gather](/post/gather/) [data](/post/data/) [or](/post/or/) [information](/post/information/) [from](/post/from/) [a](/post/a/) [limited](/post/limited/) [number](/post/number/) [of](/post/of/) individuals [or](/post/or/) cases. [For](/post/for/) [example](/post/example/): "Researchers sampled households [across](/post/across/) [the](/post/the/) [city](/post/city/) [to](/post/to/) [collect](/post/collect/) demographic [data](/post/data/)."
 
-### [Adjective](/en/post/adjective/)
-[Used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) is [typical](/en/post/typical/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sample](/en/post/sample/) [population](/en/post/population/) was [diverse](/en/post/diverse/) [in](/en/post/in/) [age](/en/post/age/) [and](/en/post/and/) [background](/en/post/background/)."
+### [Adjective](/post/adjective/)
+[Used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) is [typical](/post/typical/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [group](/post/group/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sample](/post/sample/) [population](/post/population/) was [diverse](/post/diverse/) [in](/post/in/) [age](/post/age/) [and](/post/and/) [background](/post/background/)."
 
-### [Adverb](/en/post/adverb/)
-[In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [music](/en/post/music/) [or](/en/post/or/) audio, [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) listening [to](/en/post/to/) [a](/en/post/a/) [short](/en/post/short/) segment [of](/en/post/of/) [a](/en/post/a/) recording. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) previewed [the](/en/post/the/) song's [sample](/en/post/sample/) [before](/en/post/before/) deciding [to](/en/post/to/) [purchase](/en/post/purchase/) [it](/en/post/it/)."
+### [Adverb](/post/adverb/)
+[In](/post/in/) [the](/post/the/) context [of](/post/of/) [music](/post/music/) [or](/post/or/) audio, [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) listening [to](/post/to/) [a](/post/a/) [short](/post/short/) segment [of](/post/of/) [a](/post/a/) recording. [For](/post/for/) [example](/post/example/): "[She](/post/she/) previewed [the](/post/the/) song's [sample](/post/sample/) [before](/post/before/) deciding [to](/post/to/) [purchase](/post/purchase/) [it](/post/it/)."
 
 ## Phrases
-- "[Sample](/en/post/sample/) [the](/en/post/the/) merchandise" [means](/en/post/means/) [to](/en/post/to/) [try](/en/post/try/) [out](/en/post/out/) [or](/en/post/or/) [inspect](/en/post/inspect/) items [for](/en/post/for/) [sale](/en/post/sale/).
-- "[A](/en/post/a/) [taste](/en/post/taste/) [of](/en/post/of/) [the](/en/post/the/) [sample](/en/post/sample/)" refers [to](/en/post/to/) [a](/en/post/a/) [small](/en/post/small/) preview [or](/en/post/or/) demonstration.
-- "[Take](/en/post/take/) [a](/en/post/a/) [sample](/en/post/sample/) [home](/en/post/home/)" implies bringing [a](/en/post/a/) [small](/en/post/small/) [portion](/en/post/portion/) [for](/en/post/for/) [further](/en/post/further/) [examination](/en/post/examination/) [or](/en/post/or/) [use](/en/post/use/).
+- "[Sample](/post/sample/) [the](/post/the/) merchandise" [means](/post/means/) [to](/post/to/) [try](/post/try/) [out](/post/out/) [or](/post/or/) [inspect](/post/inspect/) items [for](/post/for/) [sale](/post/sale/).
+- "[A](/post/a/) [taste](/post/taste/) [of](/post/of/) [the](/post/the/) [sample](/post/sample/)" refers [to](/post/to/) [a](/post/a/) [small](/post/small/) preview [or](/post/or/) demonstration.
+- "[Take](/post/take/) [a](/post/a/) [sample](/post/sample/) [home](/post/home/)" implies bringing [a](/post/a/) [small](/post/small/) [portion](/post/portion/) [for](/post/for/) [further](/post/further/) [examination](/post/examination/) [or](/post/or/) [use](/post/use/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [chemistry](/en/post/chemistry/) [class](/en/post/class/) analyzed [a](/en/post/a/) [water](/en/post/water/) [sample](/en/post/sample/) [to](/en/post/to/) [determine](/en/post/determine/) [its](/en/post/its/) [purity](/en/post/purity/)."
-- **[Verb](/en/post/verb/)**: "I decided [to](/en/post/to/) [sample](/en/post/sample/) [a](/en/post/a/) [bit](/en/post/bit/) [of](/en/post/of/) [each](/en/post/each/) flavor [before](/en/post/before/) committing [to](/en/post/to/) [a](/en/post/a/) [full](/en/post/full/) [tub](/en/post/tub/) [of](/en/post/of/) [ice](/en/post/ice/) [cream](/en/post/cream/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sampling [study](/en/post/study/) [found](/en/post/found/) [that](/en/post/that/) [the](/en/post/the/) [majority](/en/post/majority/) [of](/en/post/of/) participants were satisfied [with](/en/post/with/) [the](/en/post/the/) software's [user](/en/post/user/) interface."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) listened [to](/en/post/to/) [the](/en/post/the/) song's [sample](/en/post/sample/) [to](/en/post/to/) [get](/en/post/get/) an [idea](/en/post/idea/) [of](/en/post/of/) [its](/en/post/its/) tempo."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [chemistry](/post/chemistry/) [class](/post/class/) analyzed [a](/post/a/) [water](/post/water/) [sample](/post/sample/) [to](/post/to/) [determine](/post/determine/) [its](/post/its/) [purity](/post/purity/)."
+- **[Verb](/post/verb/)**: "I decided [to](/post/to/) [sample](/post/sample/) [a](/post/a/) [bit](/post/bit/) [of](/post/of/) [each](/post/each/) flavor [before](/post/before/) committing [to](/post/to/) [a](/post/a/) [full](/post/full/) [tub](/post/tub/) [of](/post/of/) [ice](/post/ice/) [cream](/post/cream/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sampling [study](/post/study/) [found](/post/found/) [that](/post/that/) [the](/post/the/) [majority](/post/majority/) [of](/post/of/) participants were satisfied [with](/post/with/) [the](/post/the/) software's [user](/post/user/) interface."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) listened [to](/post/to/) [the](/post/the/) song's [sample](/post/sample/) [to](/post/to/) [get](/post/get/) an [idea](/post/idea/) [of](/post/of/) [its](/post/its/) tempo."
 
 ## Synonyms
-- [Example](/en/post/example/)
+- [Example](/post/example/)
 - Representation
 - Extract
-- [Fragment](/en/post/fragment/)
+- [Fragment](/post/fragment/)
 - Demonstration
-- Sampling [data](/en/post/data/)
-- [Instance](/en/post/instance/)
-- [Model](/en/post/model/)
+- Sampling [data](/post/data/)
+- [Instance](/post/instance/)
+- [Model](/post/model/)

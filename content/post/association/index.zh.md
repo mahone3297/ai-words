@@ -12,22 +12,22 @@ keywords = ['ai words', 'association']
 
 ## 释义
 - **名词 n**:
-  - 结社，社团；组织： "[He](/post/he/) is [a](/post/a/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [local](/post/local/) gardening [association](/post/association/)."
-  - 联想，联系： "[There](/post/there/) is [a](/post/a/) [strong](/post/strong/) [association](/post/association/) [between](/post/between/) smoking [and](/post/and/) [lung](/post/lung/) [cancer](/post/cancer/)."
-  - 交往，友谊： "[They](/post/they/) formed [a](/post/a/) [close](/post/close/) [association](/post/association/) [during](/post/during/) [their](/post/their/) [time](/post/time/) [in](/post/in/) [college](/post/college/)."
+  - 结社，社团；组织： "[He](/zh/post/he/) is [a](/zh/post/a/) [member](/zh/post/member/) [of](/zh/post/of/) [the](/zh/post/the/) [local](/zh/post/local/) gardening [association](/zh/post/association/)."
+  - 联想，联系： "[There](/zh/post/there/) is [a](/zh/post/a/) [strong](/zh/post/strong/) [association](/zh/post/association/) [between](/zh/post/between/) smoking [and](/zh/post/and/) [lung](/zh/post/lung/) [cancer](/zh/post/cancer/)."
+  - 交往，友谊： "[They](/zh/post/they/) formed [a](/zh/post/a/) [close](/zh/post/close/) [association](/zh/post/association/) [during](/zh/post/during/) [their](/zh/post/their/) [time](/zh/post/time/) [in](/zh/post/in/) [college](/zh/post/college/)."
 
 ## 短语
-- "[professional](/post/professional/) [association](/post/association/)" 职业协会
-- "[trade](/post/trade/) [association](/post/association/)" 行业公会
-- "[association](/post/association/) [football](/post/football/)" (简称 [soccer](/post/soccer/)) 足球
+- "[professional](/zh/post/professional/) [association](/zh/post/association/)" 职业协会
+- "[trade](/zh/post/trade/) [association](/zh/post/association/)" 行业公会
+- "[association](/zh/post/association/) [football](/zh/post/football/)" (简称 [soccer](/zh/post/soccer/)) 足球
 
 ## 例句
-- 名词: "[The](/post/the/) teachers' [association](/post/association/) is negotiating [with](/post/with/) [the](/post/the/) [school](/post/school/) [board](/post/board/)."
-- 介词短语: "There's an [association](/post/association/) [between](/post/between/) [exercise](/post/exercise/) [and](/post/and/) [good](/post/good/) [health](/post/health/)."
+- 名词: "[The](/zh/post/the/) teachers' [association](/zh/post/association/) is negotiating [with](/zh/post/with/) [the](/zh/post/the/) [school](/zh/post/school/) [board](/zh/post/board/)."
+- 介词短语: "There's an [association](/zh/post/association/) [between](/zh/post/between/) [exercise](/zh/post/exercise/) [and](/zh/post/and/) [good](/zh/post/good/) [health](/zh/post/health/)."
 
 ## 同义词
-- [Relationship](/post/relationship/)
-- [Link](/post/link/)
-- [Connection](/post/connection/)
-- [Bond](/post/bond/)
-- [Tie](/post/tie/)
+- [Relationship](/zh/post/relationship/)
+- [Link](/zh/post/link/)
+- [Connection](/zh/post/connection/)
+- [Bond](/zh/post/bond/)
+- [Tie](/zh/post/tie/)

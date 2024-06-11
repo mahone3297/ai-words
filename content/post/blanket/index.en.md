@@ -7,30 +7,30 @@ description = '[ˈblæŋkit] n.毛毯，毯子，羊毛毯'
 keywords = ['ai words', 'blanket']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bəˈlæŋkɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [large](/en/post/large/) [piece](/en/post/piece/) [of](/en/post/of/) [fabric](/en/post/fabric/), [usually](/en/post/usually/) [thick](/en/post/thick/), [used](/en/post/used/) [to](/en/post/to/) [cover](/en/post/cover/) [or](/en/post/or/) insulate, [often](/en/post/often/) [for](/en/post/for/) [warmth](/en/post/warmth/) [or](/en/post/or/) [protection](/en/post/protection/). 2. (informal) [A](/en/post/a/) person's [emotional](/en/post/emotional/) [support](/en/post/support/) [or](/en/post/or/) [comfort](/en/post/comfort/), [especially](/en/post/especially/) [during](/en/post/during/) [difficult](/en/post/difficult/) times. 3. (figurative) An all-encompassing [situation](/en/post/situation/) [or](/en/post/or/) [idea](/en/post/idea/) [that](/en/post/that/) provides [security](/en/post/security/) [or](/en/post/or/) assurance. 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cover](/en/post/cover/) [or](/en/post/or/) envelop [with](/en/post/with/) [a](/en/post/a/) [blanket](/en/post/blanket/), typically [for](/en/post/for/) [warmth](/en/post/warmth/) [or](/en/post/or/) [protection](/en/post/protection/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [large](/post/large/) [piece](/post/piece/) [of](/post/of/) [fabric](/post/fabric/), [usually](/post/usually/) [thick](/post/thick/), [used](/post/used/) [to](/post/to/) [cover](/post/cover/) [or](/post/or/) insulate, [often](/post/often/) [for](/post/for/) [warmth](/post/warmth/) [or](/post/or/) [protection](/post/protection/). 2. (informal) [A](/post/a/) person's [emotional](/post/emotional/) [support](/post/support/) [or](/post/or/) [comfort](/post/comfort/), [especially](/post/especially/) [during](/post/during/) [difficult](/post/difficult/) times. 3. (figurative) An all-encompassing [situation](/post/situation/) [or](/post/or/) [idea](/post/idea/) [that](/post/that/) provides [security](/post/security/) [or](/post/or/) assurance. 
+- **[Verb](/post/verb/)**: [To](/post/to/) [cover](/post/cover/) [or](/post/or/) envelop [with](/post/with/) [a](/post/a/) [blanket](/post/blanket/), typically [for](/post/for/) [warmth](/post/warmth/) [or](/post/or/) [protection](/post/protection/).
 
 ## Phrases
-- "[Wrap](/en/post/wrap/) [someone](/en/post/someone/) [in](/en/post/in/) [a](/en/post/a/) [blanket](/en/post/blanket/)" [for](/en/post/for/) providing [physical](/en/post/physical/) [warmth](/en/post/warmth/).
-- "[A](/en/post/a/) [security](/en/post/security/) [blanket](/en/post/blanket/)" [for](/en/post/for/) [something](/en/post/something/) [that](/en/post/that/) gives [emotional](/en/post/emotional/) reassurance.
-- "[Blanket](/en/post/blanket/) [policy](/en/post/policy/)" [for](/en/post/for/) [a](/en/post/a/) [general](/en/post/general/) [rule](/en/post/rule/) [or](/en/post/or/) guideline applied universally.
+- "[Wrap](/post/wrap/) [someone](/post/someone/) [in](/post/in/) [a](/post/a/) [blanket](/post/blanket/)" [for](/post/for/) providing [physical](/post/physical/) [warmth](/post/warmth/).
+- "[A](/post/a/) [security](/post/security/) [blanket](/post/blanket/)" [for](/post/for/) [something](/post/something/) [that](/post/that/) gives [emotional](/post/emotional/) reassurance.
+- "[Blanket](/post/blanket/) [policy](/post/policy/)" [for](/post/for/) [a](/post/a/) [general](/post/general/) [rule](/post/rule/) [or](/post/or/) guideline applied universally.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) snuggled [under](/en/post/under/) [the](/en/post/the/) cozy [blanket](/en/post/blanket/) [on](/en/post/on/) [the](/en/post/the/) [cold](/en/post/cold/) [winter](/en/post/winter/) [night](/en/post/night/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [mother](/en/post/mother/) [gently](/en/post/gently/) blanketed [her](/en/post/her/) [child](/en/post/child/) [with](/en/post/with/) [a](/en/post/a/) [soft](/en/post/soft/) [cloth](/en/post/cloth/) [after](/en/post/after/) [a](/en/post/a/) [bath](/en/post/bath/)."
-- **[Emotional](/en/post/emotional/) context**: "[The](/en/post/the/) [loss](/en/post/loss/) [of](/en/post/of/) [his](/en/post/his/) [job](/en/post/job/) was [like](/en/post/like/) [a](/en/post/a/) [psychological](/en/post/psychological/) [blanket](/en/post/blanket/) [being](/en/post/being/) ripped [away](/en/post/away/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) snuggled [under](/post/under/) [the](/post/the/) cozy [blanket](/post/blanket/) [on](/post/on/) [the](/post/the/) [cold](/post/cold/) [winter](/post/winter/) [night](/post/night/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [mother](/post/mother/) [gently](/post/gently/) blanketed [her](/post/her/) [child](/post/child/) [with](/post/with/) [a](/post/a/) [soft](/post/soft/) [cloth](/post/cloth/) [after](/post/after/) [a](/post/a/) [bath](/post/bath/)."
+- **[Emotional](/post/emotional/) context**: "[The](/post/the/) [loss](/post/loss/) [of](/post/of/) [his](/post/his/) [job](/post/job/) was [like](/post/like/) [a](/post/a/) [psychological](/post/psychological/) [blanket](/post/blanket/) [being](/post/being/) ripped [away](/post/away/)."
 
 ## Synonyms
-- [Quilt](/en/post/quilt/)
+- [Quilt](/post/quilt/)
 - Coverlet
 - Comforter
 - Throws
 - Insulation
-- [Security](/en/post/security/) [blanket](/en/post/blanket/) (figurative)
+- [Security](/post/security/) [blanket](/post/blanket/) (figurative)
 
 ## Antonyms
 - Uncovered
@@ -39,5 +39,5 @@ keywords = ['ai words', 'blanket']
 - Unprotected
 
 ## Derived Words
-- [Blanket](/en/post/blanket/) [statement](/en/post/statement/) ([a](/en/post/a/) sweeping generalization)
-- Overwhelm [with](/en/post/with/) blankets ([to](/en/post/to/) [provide](/en/post/provide/) [excessive](/en/post/excessive/) [comfort](/en/post/comfort/) [or](/en/post/or/) [protection](/en/post/protection/))
+- [Blanket](/post/blanket/) [statement](/post/statement/) ([a](/post/a/) sweeping generalization)
+- Overwhelm [with](/post/with/) blankets ([to](/post/to/) [provide](/post/provide/) [excessive](/post/excessive/) [comfort](/post/comfort/) [or](/post/or/) [protection](/post/protection/))

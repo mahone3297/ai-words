@@ -11,22 +11,22 @@ keywords = ['ai words', 'appropriate']
 /əˈprəʊpriət/
 
 ## 释义
-- **形容词**: 适当的，恰当的，合适的。例如: "[The](/post/the/) [dress](/post/dress/) was [appropriate](/post/appropriate/) [for](/post/for/) [the](/post/the/) [formal](/post/formal/) [event](/post/event/)."
-- **动词**: 使适合，调整以适应特定情况。例如: "[They](/post/they/) appropriated [the](/post/the/) funds [for](/post/for/) [the](/post/the/) [new](/post/new/) [project](/post/project/)."
-- **名词**: （尤指非法地）挪用，占用。例如: "[The](/post/the/) scandal involved [the](/post/the/) appropriation [of](/post/of/) [public](/post/public/) funds."
+- **形容词**: 适当的，恰当的，合适的。例如: "[The](/zh/post/the/) [dress](/zh/post/dress/) was [appropriate](/zh/post/appropriate/) [for](/zh/post/for/) [the](/zh/post/the/) [formal](/zh/post/formal/) [event](/zh/post/event/)."
+- **动词**: 使适合，调整以适应特定情况。例如: "[They](/zh/post/they/) appropriated [the](/zh/post/the/) funds [for](/zh/post/for/) [the](/zh/post/the/) [new](/zh/post/new/) [project](/zh/post/project/)."
+- **名词**: （尤指非法地）挪用，占用。例如: "[The](/zh/post/the/) scandal involved [the](/zh/post/the/) appropriation [of](/zh/post/of/) [public](/zh/post/public/) funds."
 
 ## 短语
-- "[be](/post/be/) [appropriate](/post/appropriate/) [for](/post/for/)" 意为适合或适用于...。例如: "[This](/post/this/) outfit is [appropriate](/post/appropriate/) [for](/post/for/) [a](/post/a/) [job](/post/job/) [interview](/post/interview/)."
-- "[appropriate](/post/appropriate/) [something](/post/something/) [to](/post/to/) [oneself](/post/oneself/)" 指擅自使用或占有。例如: "Sheappropriated [the](/post/the/) company's resources [for](/post/for/) [personal](/post/personal/) [use](/post/use/)."
+- "[be](/zh/post/be/) [appropriate](/zh/post/appropriate/) [for](/zh/post/for/)" 意为适合或适用于...。例如: "[This](/zh/post/this/) outfit is [appropriate](/zh/post/appropriate/) [for](/zh/post/for/) [a](/zh/post/a/) [job](/zh/post/job/) [interview](/zh/post/interview/)."
+- "[appropriate](/zh/post/appropriate/) [something](/zh/post/something/) [to](/zh/post/to/) [oneself](/zh/post/oneself/)" 指擅自使用或占有。例如: "Sheappropriated [the](/zh/post/the/) company's resources [for](/zh/post/for/) [personal](/zh/post/personal/) [use](/zh/post/use/)."
 
 ## 例句
-- 形容词: "[Your](/post/your/) [behavior](/post/behavior/) [should](/post/should/) [always](/post/always/) [be](/post/be/) [appropriate](/post/appropriate/) [in](/post/in/) [public](/post/public/)."
-- 动词: "[The](/post/the/) [government](/post/government/) decided [to](/post/to/) [appropriate](/post/appropriate/) [more](/post/more/) [money](/post/money/) [for](/post/for/) healthcare services."
-- 名词: "[There](/post/there/) were concerns [about](/post/about/) theappropriationof funds [by](/post/by/) [the](/post/the/) officials.
+- 形容词: "[Your](/zh/post/your/) [behavior](/zh/post/behavior/) [should](/zh/post/should/) [always](/zh/post/always/) [be](/zh/post/be/) [appropriate](/zh/post/appropriate/) [in](/zh/post/in/) [public](/zh/post/public/)."
+- 动词: "[The](/zh/post/the/) [government](/zh/post/government/) decided [to](/zh/post/to/) [appropriate](/zh/post/appropriate/) [more](/zh/post/more/) [money](/zh/post/money/) [for](/zh/post/for/) healthcare services."
+- 名词: "[There](/zh/post/there/) were concerns [about](/zh/post/about/) theappropriationof funds [by](/zh/post/by/) [the](/zh/post/the/) officials.
 
 ## 同义词
-- [suitable](/post/suitable/)
+- [suitable](/zh/post/suitable/)
 - fitting
-- [proper](/post/proper/)
+- [proper](/zh/post/proper/)
 - apt
-- [relevant](/post/relevant/)
+- [relevant](/zh/post/relevant/)

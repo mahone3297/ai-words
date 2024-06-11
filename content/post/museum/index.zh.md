@@ -11,20 +11,20 @@ keywords = ['ai words', 'museum']
 /mjuˈziːəm/
 
 ## 释义
-- **名词**: 公共场所，通常收藏并展示艺术、历史、科学或其他文化主题的物品，供公众参观和学习。例如: "[The](/post/the/) [museum](/post/museum/) houses [ancient](/post/ancient/) artifacts [and](/post/and/) paintings."
-- **动词**: 通常不作为动词使用，但在某些语境下可表示参观博物馆的行为。例如: "We'll [museum](/post/museum/) [on](/post/on/) Saturday, exploring [the](/post/the/) exhibits."
+- **名词**: 公共场所，通常收藏并展示艺术、历史、科学或其他文化主题的物品，供公众参观和学习。例如: "[The](/zh/post/the/) [museum](/zh/post/museum/) houses [ancient](/zh/post/ancient/) artifacts [and](/zh/post/and/) paintings."
+- **动词**: 通常不作为动词使用，但在某些语境下可表示参观博物馆的行为。例如: "We'll [museum](/zh/post/museum/) [on](/zh/post/on/) Saturday, exploring [the](/zh/post/the/) exhibits."
 
 ## 短语
-- "[Visit](/post/visit/) [the](/post/the/) [museum](/post/museum/)" 意为去参观博物馆。
-- "Museum-quality [art](/post/art/)" 指的是达到博物馆收藏标准的艺术品。
+- "[Visit](/zh/post/visit/) [the](/zh/post/the/) [museum](/zh/post/museum/)" 意为去参观博物馆。
+- "Museum-quality [art](/zh/post/art/)" 指的是达到博物馆收藏标准的艺术品。
 
 ## 例句
-- 名词: "[The](/post/the/) children loved [the](/post/the/) interactive exhibits [at](/post/at/) [the](/post/the/) [natural](/post/natural/) [history](/post/history/) [museum](/post/museum/)."
-- 动词: "Let's [museum](/post/museum/) [this](/post/this/) [weekend](/post/weekend/) [and](/post/and/) [discover](/post/discover/) [some](/post/some/) [new](/post/new/) exhibits."
+- 名词: "[The](/zh/post/the/) children loved [the](/zh/post/the/) interactive exhibits [at](/zh/post/at/) [the](/zh/post/the/) [natural](/zh/post/natural/) [history](/zh/post/history/) [museum](/zh/post/museum/)."
+- 动词: "Let's [museum](/zh/post/museum/) [this](/zh/post/this/) [weekend](/zh/post/weekend/) [and](/zh/post/and/) [discover](/zh/post/discover/) [some](/zh/post/some/) [new](/zh/post/new/) exhibits."
 
 ## 同义词
-- [Gallery](/post/gallery/)
-- [Exhibition](/post/exhibition/) [hall](/post/hall/)
+- [Gallery](/zh/post/gallery/)
+- [Exhibition](/zh/post/exhibition/) [hall](/zh/post/hall/)
 - Showcase
 - Repository
-- [Collection](/post/collection/) center
+- [Collection](/zh/post/collection/) center

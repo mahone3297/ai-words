@@ -7,31 +7,31 @@ description = '[ˈnærəu] a.狭的，狭窄的'
 keywords = ['ai words', 'narrow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnærəw/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) Having [little](/en/post/little/) [width](/en/post/width/); [not](/en/post/not/) [wide](/en/post/wide/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [road](/en/post/road/) was [so](/en/post/so/) [narrow](/en/post/narrow/) [that](/en/post/that/) [only](/en/post/only/) [one](/en/post/one/) [car](/en/post/car/) [could](/en/post/could/) [pass](/en/post/pass/) [at](/en/post/at/) [a](/en/post/a/) [time](/en/post/time/)."
-  - Figurative [usage](/en/post/usage/): [Limited](/en/post/limited/) [in](/en/post/in/) [scope](/en/post/scope/), [range](/en/post/range/), [or](/en/post/or/) [extent](/en/post/extent/). [Example](/en/post/example/): "[A](/en/post/a/) [narrow](/en/post/narrow/) [understanding](/en/post/understanding/) [of](/en/post/of/) [history](/en/post/history/)."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [make](/en/post/make/) [or](/en/post/or/) [become](/en/post/become/) narrower. [Example](/en/post/example/): "[The](/en/post/the/) [gap](/en/post/gap/) [between](/en/post/between/) [them](/en/post/them/) narrowed [as](/en/post/as/) [they](/en/post/they/) reconciled [their](/en/post/their/) differences."
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [narrow](/en/post/narrow/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [passage](/en/post/passage/) [or](/en/post/or/) [road](/en/post/road/). [Example](/en/post/example/): "[The](/en/post/the/) [boat](/en/post/boat/) had [to](/en/post/to/) navigate [through](/en/post/through/) [a](/en/post/a/) [narrow](/en/post/narrow/) [channel](/en/post/channel/)."
+- **[Adjective](/post/adjective/)**: (adj) Having [little](/post/little/) [width](/post/width/); [not](/post/not/) [wide](/post/wide/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [road](/post/road/) was [so](/post/so/) [narrow](/post/narrow/) [that](/post/that/) [only](/post/only/) [one](/post/one/) [car](/post/car/) [could](/post/could/) [pass](/post/pass/) [at](/post/at/) [a](/post/a/) [time](/post/time/)."
+  - Figurative [usage](/post/usage/): [Limited](/post/limited/) [in](/post/in/) [scope](/post/scope/), [range](/post/range/), [or](/post/or/) [extent](/post/extent/). [Example](/post/example/): "[A](/post/a/) [narrow](/post/narrow/) [understanding](/post/understanding/) [of](/post/of/) [history](/post/history/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [make](/post/make/) [or](/post/or/) [become](/post/become/) narrower. [Example](/post/example/): "[The](/post/the/) [gap](/post/gap/) [between](/post/between/) [them](/post/them/) narrowed [as](/post/as/) [they](/post/they/) reconciled [their](/post/their/) differences."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [narrow](/post/narrow/) [part](/post/part/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [passage](/post/passage/) [or](/post/or/) [road](/post/road/). [Example](/post/example/): "[The](/post/the/) [boat](/post/boat/) had [to](/post/to/) navigate [through](/post/through/) [a](/post/a/) [narrow](/post/narrow/) [channel](/post/channel/)."
 
 ## Phrases
-- "[Narrow](/en/post/narrow/) [down](/en/post/down/)": [To](/en/post/to/) [reduce](/en/post/reduce/) [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) options [or](/en/post/or/) possibilities. [Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [narrow](/en/post/narrow/) [down](/en/post/down/) [our](/en/post/our/) choices [before](/en/post/before/) making [a](/en/post/a/) [final](/en/post/final/) [decision](/en/post/decision/)."
-- "[Narrow](/en/post/narrow/) [escape](/en/post/escape/)": [A](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [someone](/en/post/someone/) avoids [danger](/en/post/danger/) [or](/en/post/or/) misfortune [by](/en/post/by/) [a](/en/post/a/) [very](/en/post/very/) [small](/en/post/small/) [margin](/en/post/margin/). [Example](/en/post/example/): "[It](/en/post/it/) was [a](/en/post/a/) [narrow](/en/post/narrow/) [escape](/en/post/escape/) [when](/en/post/when/) [he](/en/post/he/) missed [being](/en/post/being/) [hit](/en/post/hit/) [by](/en/post/by/) [the](/en/post/the/) [car](/en/post/car/)."
-- "Narrow-minded": Describing [someone](/en/post/someone/) [who](/en/post/who/) has [limited](/en/post/limited/) views [or](/en/post/or/) opinions, [not](/en/post/not/) [open](/en/post/open/) [to](/en/post/to/) [new](/en/post/new/) ideas [or](/en/post/or/) [different](/en/post/different/) beliefs. [Example](/en/post/example/): "[His](/en/post/his/) narrow-minded [approach](/en/post/approach/) [to](/en/post/to/) [life](/en/post/life/) prevents [him](/en/post/him/) [from](/en/post/from/) experiencing [diverse](/en/post/diverse/) cultures."
+- "[Narrow](/post/narrow/) [down](/post/down/)": [To](/post/to/) [reduce](/post/reduce/) [the](/post/the/) [number](/post/number/) [of](/post/of/) options [or](/post/or/) possibilities. [Example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [narrow](/post/narrow/) [down](/post/down/) [our](/post/our/) choices [before](/post/before/) making [a](/post/a/) [final](/post/final/) [decision](/post/decision/)."
+- "[Narrow](/post/narrow/) [escape](/post/escape/)": [A](/post/a/) [situation](/post/situation/) [where](/post/where/) [someone](/post/someone/) avoids [danger](/post/danger/) [or](/post/or/) misfortune [by](/post/by/) [a](/post/a/) [very](/post/very/) [small](/post/small/) [margin](/post/margin/). [Example](/post/example/): "[It](/post/it/) was [a](/post/a/) [narrow](/post/narrow/) [escape](/post/escape/) [when](/post/when/) [he](/post/he/) missed [being](/post/being/) [hit](/post/hit/) [by](/post/by/) [the](/post/the/) [car](/post/car/)."
+- "Narrow-minded": Describing [someone](/post/someone/) [who](/post/who/) has [limited](/post/limited/) views [or](/post/or/) opinions, [not](/post/not/) [open](/post/open/) [to](/post/to/) [new](/post/new/) ideas [or](/post/or/) [different](/post/different/) beliefs. [Example](/post/example/): "[His](/post/his/) narrow-minded [approach](/post/approach/) [to](/post/to/) [life](/post/life/) prevents [him](/post/him/) [from](/post/from/) experiencing [diverse](/post/diverse/) cultures."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [narrow](/en/post/narrow/) alley led [us](/en/post/us/) [to](/en/post/to/) [a](/en/post/a/) hidden courtyard."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) narrowed [her](/en/post/her/) eyes [in](/en/post/in/) [suspicion](/en/post/suspicion/) [when](/en/post/when/) [she](/en/post/she/) heard [the](/en/post/the/) [news](/en/post/news/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [bridge](/en/post/bridge/) [over](/en/post/over/) [the](/en/post/the/) [river](/en/post/river/) was [just](/en/post/just/) [wide](/en/post/wide/) [enough](/en/post/enough/) [for](/en/post/for/) [a](/en/post/a/) single-file [line](/en/post/line/), [and](/en/post/and/) [we](/en/post/we/) had [to](/en/post/to/) [cross](/en/post/cross/) [on](/en/post/on/) [the](/en/post/the/) [narrow](/en/post/narrow/) [path](/en/post/path/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [narrow](/post/narrow/) alley led [us](/post/us/) [to](/post/to/) [a](/post/a/) hidden courtyard."
+- **[Verb](/post/verb/)**: "[She](/post/she/) narrowed [her](/post/her/) eyes [in](/post/in/) [suspicion](/post/suspicion/) [when](/post/when/) [she](/post/she/) heard [the](/post/the/) [news](/post/news/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [bridge](/post/bridge/) [over](/post/over/) [the](/post/the/) [river](/post/river/) was [just](/post/just/) [wide](/post/wide/) [enough](/post/enough/) [for](/post/for/) [a](/post/a/) single-file [line](/post/line/), [and](/post/and/) [we](/post/we/) had [to](/post/to/) [cross](/post/cross/) [on](/post/on/) [the](/post/the/) [narrow](/post/narrow/) [path](/post/path/)."
 
 ## Synonyms
 - Constricted
-- [Tight](/en/post/tight/)
-- [Limited](/en/post/limited/)
+- [Tight](/post/tight/)
+- [Limited](/post/limited/)
 - Slim
 - Restricted
-- [Close](/en/post/close/) (for形容词 [meaning](/en/post/meaning/) '[not](/en/post/not/) [wide](/en/post/wide/)')
-- [Contract](/en/post/contract/) (for动词 [meaning](/en/post/meaning/) '[to](/en/post/to/) [make](/en/post/make/) narrower')
-- [Restrict](/en/post/restrict/) ([for](/en/post/for/) [verb](/en/post/verb/) [meaning](/en/post/meaning/) '[to](/en/post/to/) [limit](/en/post/limit/) [or](/en/post/or/) [reduce](/en/post/reduce/) [in](/en/post/in/) [scope](/en/post/scope/)')
+- [Close](/post/close/) (for形容词 [meaning](/post/meaning/) '[not](/post/not/) [wide](/post/wide/)')
+- [Contract](/post/contract/) (for动词 [meaning](/post/meaning/) '[to](/post/to/) [make](/post/make/) narrower')
+- [Restrict](/post/restrict/) ([for](/post/for/) [verb](/post/verb/) [meaning](/post/meaning/) '[to](/post/to/) [limit](/post/limit/) [or](/post/or/) [reduce](/post/reduce/) [in](/post/in/) [scope](/post/scope/)')

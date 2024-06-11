@@ -7,25 +7,25 @@ description = '[ˈkauəd] n.懦夫；胆怯者'
 keywords = ['ai words', 'coward']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəʊˈaːd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [coward](/en/post/coward/) is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) shows [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [courage](/en/post/courage/), [fear](/en/post/fear/), [or](/en/post/or/) bravery [in](/en/post/in/) [the](/en/post/the/) [face](/en/post/face/) [of](/en/post/of/) [danger](/en/post/danger/), [difficulty](/en/post/difficulty/), [or](/en/post/or/) adversity. [They](/en/post/they/) [may](/en/post/may/) [avoid](/en/post/avoid/) risks [or](/en/post/or/) confrontations [due](/en/post/due/) [to](/en/post/to/) [their](/en/post/their/) [anxiety](/en/post/anxiety/) [or](/en/post/or/) timidity.
+### [Noun](/post/noun/)
+[A](/post/a/) [coward](/post/coward/) is [a](/post/a/) [person](/post/person/) [who](/post/who/) shows [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [courage](/post/courage/), [fear](/post/fear/), [or](/post/or/) bravery [in](/post/in/) [the](/post/the/) [face](/post/face/) [of](/post/of/) [danger](/post/danger/), [difficulty](/post/difficulty/), [or](/post/or/) adversity. [They](/post/they/) [may](/post/may/) [avoid](/post/avoid/) risks [or](/post/or/) confrontations [due](/post/due/) [to](/post/to/) [their](/post/their/) [anxiety](/post/anxiety/) [or](/post/or/) timidity.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [coward](/en/post/coward/) (informal) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [act](/en/post/act/) cowardly [or](/en/post/or/) [demonstrate](/en/post/demonstrate/) cowardice [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/).
+### [Verb](/post/verb/)
+[To](/post/to/) [coward](/post/coward/) (informal) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [act](/post/act/) cowardly [or](/post/or/) [demonstrate](/post/demonstrate/) cowardice [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/).
 
 ## Phrases
-- "[Behave](/en/post/behave/) [like](/en/post/like/) [a](/en/post/a/) [coward](/en/post/coward/)" implies懦弱 [behavior](/en/post/behavior/).
-- "[Stand](/en/post/stand/) [up](/en/post/up/) [to](/en/post/to/) [your](/en/post/your/) fears, [not](/en/post/not/) [be](/en/post/be/) [a](/en/post/a/) [coward](/en/post/coward/)" encourages facing fears.
-- "[He](/en/post/he/) acted [with](/en/post/with/) [surprising](/en/post/surprising/) cowardice [during](/en/post/during/) [the](/en/post/the/) [crisis](/en/post/crisis/)."
+- "[Behave](/post/behave/) [like](/post/like/) [a](/post/a/) [coward](/post/coward/)" implies懦弱 [behavior](/post/behavior/).
+- "[Stand](/post/stand/) [up](/post/up/) [to](/post/to/) [your](/post/your/) fears, [not](/post/not/) [be](/post/be/) [a](/post/a/) [coward](/post/coward/)" encourages facing fears.
+- "[He](/post/he/) acted [with](/post/with/) [surprising](/post/surprising/) cowardice [during](/post/during/) [the](/post/the/) [crisis](/post/crisis/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) cowardice [of](/en/post/of/) [the](/en/post/the/) soldiers [during](/en/post/during/) [the](/en/post/the/) [battle](/en/post/battle/) was shameful."
-- **[Verb](/en/post/verb/)**: "Don't [let](/en/post/let/) [fear](/en/post/fear/) [turn](/en/post/turn/) [you](/en/post/you/) [into](/en/post/into/) [a](/en/post/a/) [coward](/en/post/coward/); [face](/en/post/face/) [your](/en/post/your/) challenges head-on."
-- **Informal**: "[He](/en/post/he/) couldn't [even](/en/post/even/) [coward](/en/post/coward/) [when](/en/post/when/) [they](/en/post/they/) asked [him](/en/post/him/) [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) presentation."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) cowardice [of](/post/of/) [the](/post/the/) soldiers [during](/post/during/) [the](/post/the/) [battle](/post/battle/) was shameful."
+- **[Verb](/post/verb/)**: "Don't [let](/post/let/) [fear](/post/fear/) [turn](/post/turn/) [you](/post/you/) [into](/post/into/) [a](/post/a/) [coward](/post/coward/); [face](/post/face/) [your](/post/your/) challenges head-on."
+- **Informal**: "[He](/post/he/) couldn't [even](/post/even/) [coward](/post/coward/) [when](/post/when/) [they](/post/they/) asked [him](/post/him/) [to](/post/to/) [give](/post/give/) [a](/post/a/) presentation."
 
 ## Synonyms
 -懦夫
@@ -33,13 +33,13 @@ keywords = ['ai words', 'coward']
 - Weakling
 - pusillanimous
 - L懦
-- [Chicken](/en/post/chicken/)
+- [Chicken](/post/chicken/)
 - Wimp
 
 ## Antonyms
-- [Brave](/en/post/brave/)
+- [Brave](/post/brave/)
 - Courageous
-- [Heroic](/en/post/heroic/)
+- [Heroic](/post/heroic/)
 - Valiant
 - Fearless
-- [Bold](/en/post/bold/)
+- [Bold](/post/bold/)

@@ -7,33 +7,33 @@ description = '[stɑːv] vi.饿死 vt.使饿死'
 keywords = ['ai words', 'starve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stɑːrv/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [lack](/en/post/lack/) [sufficient](/en/post/sufficient/) [food](/en/post/food/) [or](/en/post/or/) nourishment [to](/en/post/to/) [maintain](/en/post/maintain/) [health](/en/post/health/) [or](/en/post/or/) [normal](/en/post/normal/) bodily functions; [to](/en/post/to/) [suffer](/en/post/suffer/) [from](/en/post/from/) [hunger](/en/post/hunger/). *[Example](/en/post/example/)*: "[The](/en/post/the/) refugees were starving [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [war](/en/post/war/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [extremely](/en/post/extremely/) [hungry](/en/post/hungry/); [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) starving [oneself](/en/post/oneself/). *[Example](/en/post/example/)*: "[She](/en/post/she/) endured months [of](/en/post/of/) starvation [during](/en/post/during/) [her](/en/post/her/) captivity."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [lack](/post/lack/) [sufficient](/post/sufficient/) [food](/post/food/) [or](/post/or/) nourishment [to](/post/to/) [maintain](/post/maintain/) [health](/post/health/) [or](/post/or/) [normal](/post/normal/) bodily functions; [to](/post/to/) [suffer](/post/suffer/) [from](/post/from/) [hunger](/post/hunger/). *[Example](/post/example/)*: "[The](/post/the/) refugees were starving [due](/post/due/) [to](/post/to/) [the](/post/the/) [war](/post/war/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [extremely](/post/extremely/) [hungry](/post/hungry/); [the](/post/the/) [act](/post/act/) [of](/post/of/) starving [oneself](/post/oneself/). *[Example](/post/example/)*: "[She](/post/she/) endured months [of](/post/of/) starvation [during](/post/during/) [her](/post/her/) captivity."
 
 ## Phrases
-- "[Starve](/en/post/starve/) [to](/en/post/to/) [death](/en/post/death/)" refers [to](/en/post/to/) [dying](/en/post/dying/) [from](/en/post/from/) [lack](/en/post/lack/) [of](/en/post/of/) [food](/en/post/food/).
-- "Starvation diet" is [a](/en/post/a/) [severe](/en/post/severe/) [restriction](/en/post/restriction/) [of](/en/post/of/) [food](/en/post/food/) intake [for](/en/post/for/) [weight](/en/post/weight/) [loss](/en/post/loss/) [or](/en/post/or/) [other](/en/post/other/) purposes.
-- "[To](/en/post/to/) [starve](/en/post/starve/) one's children" implies neglecting [their](/en/post/their/) [basic](/en/post/basic/) needs [for](/en/post/for/) nourishment.
+- "[Starve](/post/starve/) [to](/post/to/) [death](/post/death/)" refers [to](/post/to/) [dying](/post/dying/) [from](/post/from/) [lack](/post/lack/) [of](/post/of/) [food](/post/food/).
+- "Starvation diet" is [a](/post/a/) [severe](/post/severe/) [restriction](/post/restriction/) [of](/post/of/) [food](/post/food/) intake [for](/post/for/) [weight](/post/weight/) [loss](/post/loss/) [or](/post/or/) [other](/post/other/) purposes.
+- "[To](/post/to/) [starve](/post/starve/) one's children" implies neglecting [their](/post/their/) [basic](/post/basic/) needs [for](/post/for/) nourishment.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) elderly [man](/en/post/man/) had [to](/en/post/to/) [starve](/en/post/starve/) [his](/en/post/his/) [pet](/en/post/pet/) [dog](/en/post/dog/) [when](/en/post/when/) [food](/en/post/food/) became [scarce](/en/post/scarce/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) prisoners faced [the](/en/post/the/) [harsh](/en/post/harsh/) [reality](/en/post/reality/) [of](/en/post/of/) [constant](/en/post/constant/) starvation."
-- **Phrasal [Verb](/en/post/verb/)**: "[They](/en/post/they/) couldn't [afford](/en/post/afford/) [to](/en/post/to/) [starve](/en/post/starve/) [themselves](/en/post/themselves/) [any](/en/post/any/) longer, [so](/en/post/so/) [they](/en/post/they/) sought [help](/en/post/help/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) elderly [man](/post/man/) had [to](/post/to/) [starve](/post/starve/) [his](/post/his/) [pet](/post/pet/) [dog](/post/dog/) [when](/post/when/) [food](/post/food/) became [scarce](/post/scarce/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) prisoners faced [the](/post/the/) [harsh](/post/harsh/) [reality](/post/reality/) [of](/post/of/) [constant](/post/constant/) starvation."
+- **Phrasal [Verb](/post/verb/)**: "[They](/post/they/) couldn't [afford](/post/afford/) [to](/post/to/) [starve](/post/starve/) [themselves](/post/themselves/) [any](/post/any/) longer, [so](/post/so/) [they](/post/they/) sought [help](/post/help/)."
 
 ## Synonyms
-- [Hunger](/en/post/hunger/)
-- [Famine](/en/post/famine/)
-- Deprive ([of](/en/post/of/) [food](/en/post/food/))
-- [Go](/en/post/go/) [without](/en/post/without/) sustenance
-- [Lack](/en/post/lack/) nourishment
+- [Hunger](/post/hunger/)
+- [Famine](/post/famine/)
+- Deprive ([of](/post/of/) [food](/post/food/))
+- [Go](/post/go/) [without](/post/without/) sustenance
+- [Lack](/post/lack/) nourishment
 
 ## Antonyms
 - Satiety
 - Abundance
 - Nourish
-- [Feed](/en/post/feed/) [well](/en/post/well/)
+- [Feed](/post/feed/) [well](/post/well/)
 - Replenish

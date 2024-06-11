@@ -7,46 +7,46 @@ description = '[kræ∫] vi.碰撞，坠落 n.碰撞'
 keywords = ['ai words', 'crash']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kræʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Crash](/en/post/crash/)**: ([noun](/en/post/noun/)) 1. An [unexpected](/en/post/unexpected/) [and](/en/post/and/) forceful [collision](/en/post/collision/) [or](/en/post/or/) [failure](/en/post/failure/), [often](/en/post/often/) causing [damage](/en/post/damage/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [car](/en/post/car/) crashed [into](/en/post/into/) [a](/en/post/a/) [tree](/en/post/tree/)." 2. [A](/en/post/a/) [sudden](/en/post/sudden/) decline [or](/en/post/or/) breakdown [in](/en/post/in/) an [economy](/en/post/economy/) [or](/en/post/or/) [market](/en/post/market/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [stock](/en/post/stock/) [market](/en/post/market/) crashed [in](/en/post/in/) 2008."
-- **[Air](/en/post/air/) [crash](/en/post/crash/)**: [A](/en/post/a/) [severe](/en/post/severe/) [aircraft](/en/post/aircraft/) [accident](/en/post/accident/) resulting [in](/en/post/in/) [destruction](/en/post/destruction/) [or](/en/post/or/) [loss](/en/post/loss/) [of](/en/post/of/) [life](/en/post/life/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [plane](/en/post/plane/) crashed [into](/en/post/into/) [the](/en/post/the/) mountains."
-- **[Computer](/en/post/computer/) [crash](/en/post/crash/)**: [A](/en/post/a/) [sudden](/en/post/sudden/) [failure](/en/post/failure/) [of](/en/post/of/) [a](/en/post/a/) [computer](/en/post/computer/) [system](/en/post/system/) [or](/en/post/or/) software. [For](/en/post/for/) [example](/en/post/example/): "[My](/en/post/my/) [computer](/en/post/computer/) crashed [when](/en/post/when/) I tried [to](/en/post/to/) [open](/en/post/open/) [that](/en/post/that/) [large](/en/post/large/) [file](/en/post/file/)."
+### [Noun](/post/noun/)
+- **[Crash](/post/crash/)**: ([noun](/post/noun/)) 1. An [unexpected](/post/unexpected/) [and](/post/and/) forceful [collision](/post/collision/) [or](/post/or/) [failure](/post/failure/), [often](/post/often/) causing [damage](/post/damage/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [car](/post/car/) crashed [into](/post/into/) [a](/post/a/) [tree](/post/tree/)." 2. [A](/post/a/) [sudden](/post/sudden/) decline [or](/post/or/) breakdown [in](/post/in/) an [economy](/post/economy/) [or](/post/or/) [market](/post/market/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [stock](/post/stock/) [market](/post/market/) crashed [in](/post/in/) 2008."
+- **[Air](/post/air/) [crash](/post/crash/)**: [A](/post/a/) [severe](/post/severe/) [aircraft](/post/aircraft/) [accident](/post/accident/) resulting [in](/post/in/) [destruction](/post/destruction/) [or](/post/or/) [loss](/post/loss/) [of](/post/of/) [life](/post/life/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [plane](/post/plane/) crashed [into](/post/into/) [the](/post/the/) mountains."
+- **[Computer](/post/computer/) [crash](/post/crash/)**: [A](/post/a/) [sudden](/post/sudden/) [failure](/post/failure/) [of](/post/of/) [a](/post/a/) [computer](/post/computer/) [system](/post/system/) [or](/post/or/) software. [For](/post/for/) [example](/post/example/): "[My](/post/my/) [computer](/post/computer/) crashed [when](/post/when/) I tried [to](/post/to/) [open](/post/open/) [that](/post/that/) [large](/post/large/) [file](/post/file/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [crash](/en/post/crash/)**: 1. ([verb](/en/post/verb/)) [To](/en/post/to/) collide [with](/en/post/with/) [great](/en/post/great/) [force](/en/post/force/), [often](/en/post/often/) accidentally. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [driver](/en/post/driver/) crashed [his](/en/post/his/) [car](/en/post/car/) [into](/en/post/into/) [a](/en/post/a/) [wall](/en/post/wall/)." 2. ([verb](/en/post/verb/)) [To](/en/post/to/) abruptly [stop](/en/post/stop/) functioning [or](/en/post/or/) [fail](/en/post/fail/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) laptop crashed [after](/en/post/after/) hours [of](/en/post/of/) [continuous](/en/post/continuous/) [use](/en/post/use/)."
-- **[To](/en/post/to/) [crash](/en/post/crash/) [a](/en/post/a/) [party](/en/post/party/)**: [To](/en/post/to/) unexpectedly [enter](/en/post/enter/) [or](/en/post/or/) intrude [on](/en/post/on/) an [event](/en/post/event/) [without](/en/post/without/) [invitation](/en/post/invitation/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) crashed [the](/en/post/the/) [birthday](/en/post/birthday/) [party](/en/post/party/) uninvited."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [crash](/post/crash/)**: 1. ([verb](/post/verb/)) [To](/post/to/) collide [with](/post/with/) [great](/post/great/) [force](/post/force/), [often](/post/often/) accidentally. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [driver](/post/driver/) crashed [his](/post/his/) [car](/post/car/) [into](/post/into/) [a](/post/a/) [wall](/post/wall/)." 2. ([verb](/post/verb/)) [To](/post/to/) abruptly [stop](/post/stop/) functioning [or](/post/or/) [fail](/post/fail/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) laptop crashed [after](/post/after/) hours [of](/post/of/) [continuous](/post/continuous/) [use](/post/use/)."
+- **[To](/post/to/) [crash](/post/crash/) [a](/post/a/) [party](/post/party/)**: [To](/post/to/) unexpectedly [enter](/post/enter/) [or](/post/or/) intrude [on](/post/on/) an [event](/post/event/) [without](/post/without/) [invitation](/post/invitation/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) crashed [the](/post/the/) [birthday](/post/birthday/) [party](/post/party/) uninvited."
 
-### [Adjective](/en/post/adjective/)
-- **Crashing**: 1. Causing [or](/en/post/or/) indicating [a](/en/post/a/) [sudden](/en/post/sudden/) [and](/en/post/and/) [violent](/en/post/violent/) [impact](/en/post/impact/) [or](/en/post/or/) [fall](/en/post/fall/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) car's [engine](/en/post/engine/) was crashing loudly." 2. (informal) [Very](/en/post/very/) [impressive](/en/post/impressive/) [or](/en/post/or/) spectacular. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) fireworks [display](/en/post/display/) was [a](/en/post/a/) crashing [success](/en/post/success/)."
+### [Adjective](/post/adjective/)
+- **Crashing**: 1. Causing [or](/post/or/) indicating [a](/post/a/) [sudden](/post/sudden/) [and](/post/and/) [violent](/post/violent/) [impact](/post/impact/) [or](/post/or/) [fall](/post/fall/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) car's [engine](/post/engine/) was crashing loudly." 2. (informal) [Very](/post/very/) [impressive](/post/impressive/) [or](/post/or/) spectacular. [For](/post/for/) [example](/post/example/): "[The](/post/the/) fireworks [display](/post/display/) was [a](/post/a/) crashing [success](/post/success/)."
 
 ## Phrases
-- "[After](/en/post/after/) [the](/en/post/the/) [car](/en/post/car/) [crash](/en/post/crash/), [the](/en/post/the/) passengers were rushed [to](/en/post/to/) [the](/en/post/the/) [hospital](/en/post/hospital/)."
-- "[The](/en/post/the/) [economy](/en/post/economy/) experienced [a](/en/post/a/) [financial](/en/post/financial/) [crash](/en/post/crash/) [in](/en/post/in/) 2009."
-- "[The](/en/post/the/) [concert](/en/post/concert/) ended [with](/en/post/with/) [a](/en/post/a/) crashing finale."
+- "[After](/post/after/) [the](/post/the/) [car](/post/car/) [crash](/post/crash/), [the](/post/the/) passengers were rushed [to](/post/to/) [the](/post/the/) [hospital](/post/hospital/)."
+- "[The](/post/the/) [economy](/post/economy/) experienced [a](/post/a/) [financial](/post/financial/) [crash](/post/crash/) [in](/post/in/) 2009."
+- "[The](/post/the/) [concert](/post/concert/) ended [with](/post/with/) [a](/post/a/) crashing finale."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [airplane](/en/post/airplane/) [crash](/en/post/crash/) claimed [several](/en/post/several/) lives."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [computer](/en/post/computer/) crashed, losing [all](/en/post/all/) [his](/en/post/his/) [work](/en/post/work/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) car's [engine](/en/post/engine/) was crashing [hot](/en/post/hot/), [so](/en/post/so/) [he](/en/post/he/) took [it](/en/post/it/) [to](/en/post/to/) [the](/en/post/the/) [mechanic](/en/post/mechanic/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [airplane](/post/airplane/) [crash](/post/crash/) claimed [several](/post/several/) lives."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [computer](/post/computer/) crashed, losing [all](/post/all/) [his](/post/his/) [work](/post/work/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) car's [engine](/post/engine/) was crashing [hot](/post/hot/), [so](/post/so/) [he](/post/he/) took [it](/post/it/) [to](/post/to/) [the](/post/the/) [mechanic](/post/mechanic/)."
 
 ## Synonyms
-- [Accident](/en/post/accident/)
+- [Accident](/post/accident/)
 - Smash
-- [Collapse](/en/post/collapse/)
-- [Failure](/en/post/failure/)
+- [Collapse](/post/collapse/)
+- [Failure](/post/failure/)
 - Debacle
 - Implosion
 - Downturn
-- [Plunge](/en/post/plunge/)
+- [Plunge](/post/plunge/)
 
 ## Antonyms
-- [Smooth](/en/post/smooth/) [operation](/en/post/operation/)
-- [Success](/en/post/success/)
-- [Stability](/en/post/stability/)
-- [Progress](/en/post/progress/)
+- [Smooth](/post/smooth/) [operation](/post/operation/)
+- [Success](/post/success/)
+- [Stability](/post/stability/)
+- [Progress](/post/progress/)
 - Uptick
 - Boom

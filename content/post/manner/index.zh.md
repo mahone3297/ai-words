@@ -11,23 +11,23 @@ keywords = ['ai words', 'manner']
 /ˈmænər/
 
 ## 释义
-- **名词**: 方式，方法，举止，态度。例如: "[He](/post/he/) has [a](/post/a/) [polite](/post/polite/) [manner](/post/manner/) [when](/post/when/) speaking [to](/post/to/) elders."
-- **名词**: 礼貌，规矩，习俗。例如: "It's [good](/post/good/) manners [to](/post/to/) [say](/post/say/) '[please](/post/please/)' [and](/post/and/) '[thank](/post/thank/) [you](/post/you/)'."
-- **名词**: 风格，特色，典型特征。例如: "[Her](/post/her/) paintings [have](/post/have/) [a](/post/a/) [distinct](/post/distinct/) [manner](/post/manner/)."
+- **名词**: 方式，方法，举止，态度。例如: "[He](/zh/post/he/) has [a](/zh/post/a/) [polite](/zh/post/polite/) [manner](/zh/post/manner/) [when](/zh/post/when/) speaking [to](/zh/post/to/) elders."
+- **名词**: 礼貌，规矩，习俗。例如: "It's [good](/zh/post/good/) manners [to](/zh/post/to/) [say](/zh/post/say/) '[please](/zh/post/please/)' [and](/zh/post/and/) '[thank](/zh/post/thank/) [you](/zh/post/you/)'."
+- **名词**: 风格，特色，典型特征。例如: "[Her](/zh/post/her/) paintings [have](/zh/post/have/) [a](/zh/post/a/) [distinct](/zh/post/distinct/) [manner](/zh/post/manner/)."
 
 ## 短语
-- "[in](/post/in/) [a](/post/a/) [certain](/post/certain/) [manner](/post/manner/)" 意为以某种方式。
-- "manners maketh [man](/post/man/)" 表示礼貌使人成为文明人。
-- "[a](/post/a/) [particular](/post/particular/) [manner](/post/manner/) [of](/post/of/) doing [something](/post/something/)" 指做某事的特定方式。
+- "[in](/zh/post/in/) [a](/zh/post/a/) [certain](/zh/post/certain/) [manner](/zh/post/manner/)" 意为以某种方式。
+- "manners maketh [man](/zh/post/man/)" 表示礼貌使人成为文明人。
+- "[a](/zh/post/a/) [particular](/zh/post/particular/) [manner](/zh/post/manner/) [of](/zh/post/of/) doing [something](/zh/post/something/)" 指做某事的特定方式。
 
 ## 例句
-- 名词: "[She](/post/she/) greeted [her](/post/her/) guests [with](/post/with/) [a](/post/a/) [friendly](/post/friendly/) [manner](/post/manner/)."
-- 名词: "[The](/post/the/) children were taught [good](/post/good/) manners [at](/post/at/) an [early](/post/early/) [age](/post/age/)."
-- 名词: "[His](/post/his/) [writing](/post/writing/) has [a](/post/a/) [humorous](/post/humorous/) [and](/post/and/) lighthearted [manner](/post/manner/)."
+- 名词: "[She](/zh/post/she/) greeted [her](/zh/post/her/) guests [with](/zh/post/with/) [a](/zh/post/a/) [friendly](/zh/post/friendly/) [manner](/zh/post/manner/)."
+- 名词: "[The](/zh/post/the/) children were taught [good](/zh/post/good/) manners [at](/zh/post/at/) an [early](/zh/post/early/) [age](/zh/post/age/)."
+- 名词: "[His](/zh/post/his/) [writing](/zh/post/writing/) has [a](/zh/post/a/) [humorous](/zh/post/humorous/) [and](/zh/post/and/) lighthearted [manner](/zh/post/manner/)."
 
 ## 同义词
-- [way](/post/way/)
-- [method](/post/method/)
-- [style](/post/style/)
-- [conduct](/post/conduct/)
-- [behavior](/post/behavior/)
+- [way](/zh/post/way/)
+- [method](/zh/post/method/)
+- [style](/zh/post/style/)
+- [conduct](/zh/post/conduct/)
+- [behavior](/zh/post/behavior/)

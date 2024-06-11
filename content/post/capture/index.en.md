@@ -7,46 +7,46 @@ description = '[ˈkæpt∫ə] vt.捕获，俘获；夺得'
 keywords = ['ai words', 'capture']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kæˈpʃər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Capture](/en/post/capture/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) seizing, acquiring, [or](/en/post/or/) obtaining [something](/en/post/something/), [often](/en/post/often/) referring [to](/en/post/to/) capturing [something](/en/post/something/) [like](/en/post/like/) [a](/en/post/a/) [person](/en/post/person/), [object](/en/post/object/), [or](/en/post/or/) [moment](/en/post/moment/) [in](/en/post/in/) [a](/en/post/a/) [photograph](/en/post/photograph/).
-- **[Victory](/en/post/victory/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) defeating an [opponent](/en/post/opponent/), [usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/) [or](/en/post/or/) [battle](/en/post/battle/).
-- **Imprisonment**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) confined, typically [against](/en/post/against/) one's [will](/en/post/will/).
+### [Noun](/post/noun/)
+- **[Capture](/post/capture/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) seizing, acquiring, [or](/post/or/) obtaining [something](/post/something/), [often](/post/often/) referring [to](/post/to/) capturing [something](/post/something/) [like](/post/like/) [a](/post/a/) [person](/post/person/), [object](/post/object/), [or](/post/or/) [moment](/post/moment/) [in](/post/in/) [a](/post/a/) [photograph](/post/photograph/).
+- **[Victory](/post/victory/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) defeating an [opponent](/post/opponent/), [usually](/post/usually/) [in](/post/in/) [a](/post/a/) [competition](/post/competition/) [or](/post/or/) [battle](/post/battle/).
+- **Imprisonment**: [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) confined, typically [against](/post/against/) one's [will](/post/will/).
 
-### [Verb](/en/post/verb/)
-- **[Capture](/en/post/capture/)**: [To](/en/post/to/) [seize](/en/post/seize/) [or](/en/post/or/) [take](/en/post/take/) [control](/en/post/control/) [of](/en/post/of/), [especially](/en/post/especially/) [in](/en/post/in/) combat [or](/en/post/or/) [by](/en/post/by/) [skillful](/en/post/skillful/) [means](/en/post/means/).
-- **Snare**: [To](/en/post/to/) [catch](/en/post/catch/) [or](/en/post/or/) [trap](/en/post/trap/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) literal [sense](/en/post/sense/) [or](/en/post/or/) metaphorically.
-- **[Trap](/en/post/trap/)**: [To](/en/post/to/) [cause](/en/post/cause/) [someone](/en/post/someone/) [to](/en/post/to/) [be](/en/post/be/) caught [or](/en/post/or/) ensnared, [usually](/en/post/usually/) involuntarily.
+### [Verb](/post/verb/)
+- **[Capture](/post/capture/)**: [To](/post/to/) [seize](/post/seize/) [or](/post/or/) [take](/post/take/) [control](/post/control/) [of](/post/of/), [especially](/post/especially/) [in](/post/in/) combat [or](/post/or/) [by](/post/by/) [skillful](/post/skillful/) [means](/post/means/).
+- **Snare**: [To](/post/to/) [catch](/post/catch/) [or](/post/or/) [trap](/post/trap/), [often](/post/often/) [in](/post/in/) [a](/post/a/) literal [sense](/post/sense/) [or](/post/or/) metaphorically.
+- **[Trap](/post/trap/)**: [To](/post/to/) [cause](/post/cause/) [someone](/post/someone/) [to](/post/to/) [be](/post/be/) caught [or](/post/or/) ensnared, [usually](/post/usually/) involuntarily.
 
-### [Adjective](/en/post/adjective/)
-- **Captivating**: Attractively fascinating [or](/en/post/or/) compelling.
-- **[Champion](/en/post/champion/)**: Top-ranking [or](/en/post/or/) [victorious](/en/post/victorious/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/) [or](/en/post/or/) [competition](/en/post/competition/).
+### [Adjective](/post/adjective/)
+- **Captivating**: Attractively fascinating [or](/post/or/) compelling.
+- **[Champion](/post/champion/)**: Top-ranking [or](/post/or/) [victorious](/post/victorious/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/) [or](/post/or/) [competition](/post/competition/).
 
-### [Adverb](/en/post/adverb/)
-- **Capturiously**: [In](/en/post/in/) [a](/en/post/a/) captivating [or](/en/post/or/) engaging [manner](/en/post/manner/).
-- **[Successfully](/en/post/successfully/)**: Achieving [a](/en/post/a/) desired [outcome](/en/post/outcome/) [with](/en/post/with/) [good](/en/post/good/) results.
+### [Adverb](/post/adverb/)
+- **Capturiously**: [In](/post/in/) [a](/post/a/) captivating [or](/post/or/) engaging [manner](/post/manner/).
+- **[Successfully](/post/successfully/)**: Achieving [a](/post/a/) desired [outcome](/post/outcome/) [with](/post/with/) [good](/post/good/) results.
 
 ## Phrases
-- "[Capture](/en/post/capture/) [the](/en/post/the/) [moment](/en/post/moment/)" refers [to](/en/post/to/) freezing [a](/en/post/a/) [special](/en/post/special/) [or](/en/post/or/) memorable [event](/en/post/event/) [in](/en/post/in/) [a](/en/post/a/) [photograph](/en/post/photograph/).
-- "[Capture](/en/post/capture/) someone's [attention](/en/post/attention/)" [means](/en/post/means/) [to](/en/post/to/) [draw](/en/post/draw/) someone's [focus](/en/post/focus/).
-- "Caught [in](/en/post/in/) [the](/en/post/the/) [act](/en/post/act/)" describes [someone](/en/post/someone/) [being](/en/post/being/) unexpectedly observed [while](/en/post/while/) committing an [action](/en/post/action/).
+- "[Capture](/post/capture/) [the](/post/the/) [moment](/post/moment/)" refers [to](/post/to/) freezing [a](/post/a/) [special](/post/special/) [or](/post/or/) memorable [event](/post/event/) [in](/post/in/) [a](/post/a/) [photograph](/post/photograph/).
+- "[Capture](/post/capture/) someone's [attention](/post/attention/)" [means](/post/means/) [to](/post/to/) [draw](/post/draw/) someone's [focus](/post/focus/).
+- "Caught [in](/post/in/) [the](/post/the/) [act](/post/act/)" describes [someone](/post/someone/) [being](/post/being/) unexpectedly observed [while](/post/while/) committing an [action](/post/action/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) soldier's [heroic](/en/post/heroic/) actions led [to](/en/post/to/) [the](/en/post/the/) [capture](/en/post/capture/) [of](/en/post/of/) [the](/en/post/the/) [enemy](/en/post/enemy/) stronghold."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) photographer captured [the](/en/post/the/) [perfect](/en/post/perfect/) [shot](/en/post/shot/) [of](/en/post/of/) [the](/en/post/the/) [sunset](/en/post/sunset/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) captivating [smile](/en/post/smile/) drew everyone's [gaze](/en/post/gaze/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) captured [the](/en/post/the/) audience's [attention](/en/post/attention/) [with](/en/post/with/) [his](/en/post/his/) captivating [story](/en/post/story/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) soldier's [heroic](/post/heroic/) actions led [to](/post/to/) [the](/post/the/) [capture](/post/capture/) [of](/post/of/) [the](/post/the/) [enemy](/post/enemy/) stronghold."
+- **[Verb](/post/verb/)**: "[The](/post/the/) photographer captured [the](/post/the/) [perfect](/post/perfect/) [shot](/post/shot/) [of](/post/of/) [the](/post/the/) [sunset](/post/sunset/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) captivating [smile](/post/smile/) drew everyone's [gaze](/post/gaze/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) captured [the](/post/the/) audience's [attention](/post/attention/) [with](/post/with/) [his](/post/his/) captivating [story](/post/story/)."
 
 ## Synonyms
-- [Seize](/en/post/seize/)
-- [Trap](/en/post/trap/)
+- [Seize](/post/seize/)
+- [Trap](/post/trap/)
 - Snare
 - Entice
-- [Conquer](/en/post/conquer/)
-- [Win](/en/post/win/)
-- [Arrest](/en/post/arrest/)
-- [Acquire](/en/post/acquire/)
+- [Conquer](/post/conquer/)
+- [Win](/post/win/)
+- [Arrest](/post/arrest/)
+- [Acquire](/post/acquire/)
 - Subdue

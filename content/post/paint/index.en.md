@@ -7,40 +7,40 @@ description = '[peint] vt.画；油漆 vi.绘画'
 keywords = ['ai words', 'paint']
 +++
 
-## [Word](/en/post/word/): [Paint](/en/post/paint/)
+## [Word](/post/word/): [Paint](/post/paint/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /peɪnt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [substance](/en/post/substance/) [that](/en/post/that/) is applied [as](/en/post/as/) [a](/en/post/a/) [liquid](/en/post/liquid/) [or](/en/post/or/) [paste](/en/post/paste/) [to](/en/post/to/) [a](/en/post/a/) [surface](/en/post/surface/), [usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) [thin](/en/post/thin/) [layer](/en/post/layer/), [and](/en/post/and/) dries [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [solid](/en/post/solid/), [protective](/en/post/protective/) [or](/en/post/or/) decorative coating. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) walls needed [a](/en/post/a/) [fresh](/en/post/fresh/) [coat](/en/post/coat/) [of](/en/post/of/) [paint](/en/post/paint/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [apply](/en/post/apply/) [paint](/en/post/paint/) [to](/en/post/to/) [something](/en/post/something/) [as](/en/post/as/) [a](/en/post/a/) [means](/en/post/means/) [of](/en/post/of/) decorating, protecting, [or](/en/post/or/) creating artwork. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [paint](/en/post/paint/) [her](/en/post/her/) bedroom [blue](/en/post/blue/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [substance](/post/substance/) [that](/post/that/) is applied [as](/post/as/) [a](/post/a/) [liquid](/post/liquid/) [or](/post/or/) [paste](/post/paste/) [to](/post/to/) [a](/post/a/) [surface](/post/surface/), [usually](/post/usually/) [in](/post/in/) [a](/post/a/) [thin](/post/thin/) [layer](/post/layer/), [and](/post/and/) dries [to](/post/to/) [form](/post/form/) [a](/post/a/) [solid](/post/solid/), [protective](/post/protective/) [or](/post/or/) decorative coating. [For](/post/for/) [example](/post/example/): "[The](/post/the/) walls needed [a](/post/a/) [fresh](/post/fresh/) [coat](/post/coat/) [of](/post/of/) [paint](/post/paint/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [apply](/post/apply/) [paint](/post/paint/) [to](/post/to/) [something](/post/something/) [as](/post/as/) [a](/post/a/) [means](/post/means/) [of](/post/of/) decorating, protecting, [or](/post/or/) creating artwork. [For](/post/for/) [example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [paint](/post/paint/) [her](/post/her/) bedroom [blue](/post/blue/)."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- "[The](/en/post/the/) [artist](/en/post/artist/) mixed [his](/en/post/his/) [own](/en/post/own/) paints using [natural](/en/post/natural/) pigments."
-- "[A](/en/post/a/) [can](/en/post/can/) [of](/en/post/of/) [paint](/en/post/paint/) spilled [all](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [floor](/en/post/floor/)."
-- "[They](/en/post/they/) [sell](/en/post/sell/) [a](/en/post/a/) [wide](/en/post/wide/) [range](/en/post/range/) [of](/en/post/of/) water-based paints [for](/en/post/for/) [interior](/en/post/interior/) [use](/en/post/use/)."
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- "[The](/post/the/) [artist](/post/artist/) mixed [his](/post/his/) [own](/post/own/) paints using [natural](/post/natural/) pigments."
+- "[A](/post/a/) [can](/post/can/) [of](/post/of/) [paint](/post/paint/) spilled [all](/post/all/) [over](/post/over/) [the](/post/the/) [floor](/post/floor/)."
+- "[They](/post/they/) [sell](/post/sell/) [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) water-based paints [for](/post/for/) [interior](/post/interior/) [use](/post/use/)."
 
-### [Verb](/en/post/verb/) [Usage](/en/post/usage/) Examples
-- "I'm going [to](/en/post/to/) [paint](/en/post/paint/) [the](/en/post/the/) [fence](/en/post/fence/) [this](/en/post/this/) [weekend](/en/post/weekend/)."
-- "[The](/en/post/the/) children painted [a](/en/post/a/) [beautiful](/en/post/beautiful/) mural [on](/en/post/on/) [the](/en/post/the/) [school](/en/post/school/) [wall](/en/post/wall/)."
-- "He's been [painting](/en/post/painting/) landscapes [for](/en/post/for/) years [now](/en/post/now/)."
+### [Verb](/post/verb/) [Usage](/post/usage/) Examples
+- "I'm going [to](/post/to/) [paint](/post/paint/) [the](/post/the/) [fence](/post/fence/) [this](/post/this/) [weekend](/post/weekend/)."
+- "[The](/post/the/) children painted [a](/post/a/) [beautiful](/post/beautiful/) mural [on](/post/on/) [the](/post/the/) [school](/post/school/) [wall](/post/wall/)."
+- "He's been [painting](/post/painting/) landscapes [for](/post/for/) years [now](/post/now/)."
 
 ## Phrases
-- "[To](/en/post/to/) [paint](/en/post/paint/) [the](/en/post/the/) [town](/en/post/town/) [red](/en/post/red/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [out](/en/post/out/) [and](/en/post/and/) [have](/en/post/have/) [a](/en/post/a/) [lively](/en/post/lively/) [time](/en/post/time/), [often](/en/post/often/) involving going [to](/en/post/to/) [various](/en/post/various/) entertainment venues.
-- "[A](/en/post/a/) [picture](/en/post/picture/) is [worth](/en/post/worth/) [a](/en/post/a/) [thousand](/en/post/thousand/) words" implies [that](/en/post/that/) [visual](/en/post/visual/) representations [like](/en/post/like/) paintings [can](/en/post/can/) [convey](/en/post/convey/) [complex](/en/post/complex/) ideas [more](/en/post/more/) effectively [than](/en/post/than/) [a](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) descriptive [text](/en/post/text/).
-- "[Paint](/en/post/paint/) [by](/en/post/by/) numbers" refers [to](/en/post/to/) [a](/en/post/a/) kit containing [a](/en/post/a/) [board](/en/post/board/) [with](/en/post/with/) [a](/en/post/a/) pre-printed [outline](/en/post/outline/) [and](/en/post/and/) numbered areas [corresponding](/en/post/corresponding/) [to](/en/post/to/) [specific](/en/post/specific/) colors [of](/en/post/of/) [paint](/en/post/paint/), allowing [even](/en/post/even/) non-artists [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [painting](/en/post/painting/).
+- "[To](/post/to/) [paint](/post/paint/) [the](/post/the/) [town](/post/town/) [red](/post/red/)" [means](/post/means/) [to](/post/to/) [go](/post/go/) [out](/post/out/) [and](/post/and/) [have](/post/have/) [a](/post/a/) [lively](/post/lively/) [time](/post/time/), [often](/post/often/) involving going [to](/post/to/) [various](/post/various/) entertainment venues.
+- "[A](/post/a/) [picture](/post/picture/) is [worth](/post/worth/) [a](/post/a/) [thousand](/post/thousand/) words" implies [that](/post/that/) [visual](/post/visual/) representations [like](/post/like/) paintings [can](/post/can/) [convey](/post/convey/) [complex](/post/complex/) ideas [more](/post/more/) effectively [than](/post/than/) [a](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) descriptive [text](/post/text/).
+- "[Paint](/post/paint/) [by](/post/by/) numbers" refers [to](/post/to/) [a](/post/a/) kit containing [a](/post/a/) [board](/post/board/) [with](/post/with/) [a](/post/a/) pre-printed [outline](/post/outline/) [and](/post/and/) numbered areas [corresponding](/post/corresponding/) [to](/post/to/) [specific](/post/specific/) colors [of](/post/of/) [paint](/post/paint/), allowing [even](/post/even/) non-artists [to](/post/to/) [create](/post/create/) [a](/post/a/) [painting](/post/painting/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) bought [several](/en/post/several/) tubes [of](/en/post/of/) [oil](/en/post/oil/) [paint](/en/post/paint/) [for](/en/post/for/) [her](/en/post/her/) [next](/en/post/next/) [masterpiece](/en/post/masterpiece/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) carefully painted [the](/en/post/the/) intricate details [on](/en/post/on/) [the](/en/post/the/) [canvas](/en/post/canvas/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) bought [several](/post/several/) tubes [of](/post/of/) [oil](/post/oil/) [paint](/post/paint/) [for](/post/for/) [her](/post/her/) [next](/post/next/) [masterpiece](/post/masterpiece/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) carefully painted [the](/post/the/) intricate details [on](/post/on/) [the](/post/the/) [canvas](/post/canvas/)."
 
 ## Synonyms
 - Coloring
 - Varnish
 - Coating
-- Hue ([noun](/en/post/noun/))
-- [Color](/en/post/color/) ([verb](/en/post/verb/))
-- [Decorate](/en/post/decorate/) ([verb](/en/post/verb/))  
-- [Illustrate](/en/post/illustrate/) ([verb](/en/post/verb/))  
-- Depict ([verb](/en/post/verb/))
+- Hue ([noun](/post/noun/))
+- [Color](/post/color/) ([verb](/post/verb/))
+- [Decorate](/post/decorate/) ([verb](/post/verb/))  
+- [Illustrate](/post/illustrate/) ([verb](/post/verb/))  
+- Depict ([verb](/post/verb/))

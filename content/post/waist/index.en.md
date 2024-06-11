@@ -7,35 +7,35 @@ description = '[weist] n.腰，腰部'
 keywords = ['ai words', 'waist']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /waɪst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) person's [body](/en/post/body/) [between](/en/post/between/) [the](/en/post/the/) [chest](/en/post/chest/) [and](/en/post/and/) hips, typically defined [as](/en/post/as/) [the](/en/post/the/) narrowest [part](/en/post/part/). 2. (pl.) [The](/en/post/the/) waistline, [the](/en/post/the/) [boundary](/en/post/boundary/) [between](/en/post/between/) [the](/en/post/the/) [upper](/en/post/upper/) [and](/en/post/and/) [lower](/en/post/lower/) parts [of](/en/post/of/) [the](/en/post/the/) torso. 3. (figuratively) [The](/en/post/the/) [most](/en/post/most/) [important](/en/post/important/) [or](/en/post/or/) crucial [point](/en/post/point/) [in](/en/post/in/) [something](/en/post/something/). 
-- **[Adjective](/en/post/adjective/)**: Characterizing [something](/en/post/something/) [that](/en/post/that/) is [narrow](/en/post/narrow/) [or](/en/post/or/) constricted, [particularly](/en/post/particularly/) [at](/en/post/at/) [the](/en/post/the/) [waist](/en/post/waist/). 
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [part](/post/part/) [of](/post/of/) [a](/post/a/) person's [body](/post/body/) [between](/post/between/) [the](/post/the/) [chest](/post/chest/) [and](/post/and/) hips, typically defined [as](/post/as/) [the](/post/the/) narrowest [part](/post/part/). 2. (pl.) [The](/post/the/) waistline, [the](/post/the/) [boundary](/post/boundary/) [between](/post/between/) [the](/post/the/) [upper](/post/upper/) [and](/post/and/) [lower](/post/lower/) parts [of](/post/of/) [the](/post/the/) torso. 3. (figuratively) [The](/post/the/) [most](/post/most/) [important](/post/important/) [or](/post/or/) crucial [point](/post/point/) [in](/post/in/) [something](/post/something/). 
+- **[Adjective](/post/adjective/)**: Characterizing [something](/post/something/) [that](/post/that/) is [narrow](/post/narrow/) [or](/post/or/) constricted, [particularly](/post/particularly/) [at](/post/at/) [the](/post/the/) [waist](/post/waist/). 
 
 ## Phrases
-- "[at](/en/post/at/) one's [waist](/en/post/waist/)" indicates [the](/en/post/the/) [position](/en/post/position/) [of](/en/post/of/) [something](/en/post/something/) [on](/en/post/on/) [the](/en/post/the/) waistline
-- "[fit](/en/post/fit/) [around](/en/post/around/) [the](/en/post/the/) [waist](/en/post/waist/)" refers [to](/en/post/to/) [clothing](/en/post/clothing/) [size](/en/post/size/) [or](/en/post/or/) [comfort](/en/post/comfort/)
-- "[keep](/en/post/keep/) one's [waist](/en/post/waist/) slim" implies maintaining [a](/en/post/a/) [slender](/en/post/slender/) [waist](/en/post/waist/)
+- "[at](/post/at/) one's [waist](/post/waist/)" indicates [the](/post/the/) [position](/post/position/) [of](/post/of/) [something](/post/something/) [on](/post/on/) [the](/post/the/) waistline
+- "[fit](/post/fit/) [around](/post/around/) [the](/post/the/) [waist](/post/waist/)" refers [to](/post/to/) [clothing](/post/clothing/) [size](/post/size/) [or](/post/or/) [comfort](/post/comfort/)
+- "[keep](/post/keep/) one's [waist](/post/waist/) slim" implies maintaining [a](/post/a/) [slender](/post/slender/) [waist](/post/waist/)
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) cinched [her](/en/post/her/) [dress](/en/post/dress/) [at](/en/post/at/) [the](/en/post/the/) [waist](/en/post/waist/) [to](/en/post/to/) accentuate [her](/en/post/her/) curves."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [tree](/en/post/tree/) [trunk](/en/post/trunk/) was [so](/en/post/so/) [thick](/en/post/thick/), [while](/en/post/while/) [its](/en/post/its/) branches were [slender](/en/post/slender/) [and](/en/post/and/) [narrow](/en/post/narrow/) [at](/en/post/at/) [the](/en/post/the/) [waist](/en/post/waist/)."
-- **[Figure](/en/post/figure/) [of](/en/post/of/) [Speech](/en/post/speech/)**: "[This](/en/post/this/) [project](/en/post/project/) is [the](/en/post/the/) [waist](/en/post/waist/) [of](/en/post/of/) [our](/en/post/our/) marketing [strategy](/en/post/strategy/); [if](/en/post/if/) [it](/en/post/it/) fails, [the](/en/post/the/) [entire](/en/post/entire/) [campaign](/en/post/campaign/) [might](/en/post/might/) [collapse](/en/post/collapse/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) cinched [her](/post/her/) [dress](/post/dress/) [at](/post/at/) [the](/post/the/) [waist](/post/waist/) [to](/post/to/) accentuate [her](/post/her/) curves."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [tree](/post/tree/) [trunk](/post/trunk/) was [so](/post/so/) [thick](/post/thick/), [while](/post/while/) [its](/post/its/) branches were [slender](/post/slender/) [and](/post/and/) [narrow](/post/narrow/) [at](/post/at/) [the](/post/the/) [waist](/post/waist/)."
+- **[Figure](/post/figure/) [of](/post/of/) [Speech](/post/speech/)**: "[This](/post/this/) [project](/post/project/) is [the](/post/the/) [waist](/post/waist/) [of](/post/of/) [our](/post/our/) marketing [strategy](/post/strategy/); [if](/post/if/) [it](/post/it/) fails, [the](/post/the/) [entire](/post/entire/) [campaign](/post/campaign/) [might](/post/might/) [collapse](/post/collapse/)."
 
 ## Synonyms
 - Waistline
 - Midriff
 - Torso
-- Narrowest [point](/en/post/point/)
-- [Central](/en/post/central/) [point](/en/post/point/)
+- Narrowest [point](/post/point/)
+- [Central](/post/central/) [point](/post/point/)
 - Pivot
 
 ## Antonyms
-- [Broad](/en/post/broad/)
+- [Broad](/post/broad/)
 - Bulging
-- [Full](/en/post/full/)
+- [Full](/post/full/)
 - Rounded
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) "[waist](/en/post/waist/)" is [not](/en/post/not/) [a](/en/post/a/) [standard](/en/post/standard/) English [term](/en/post/term/), [but](/en/post/but/) "girdle" [or](/en/post/or/) "[belt](/en/post/belt/)" [could](/en/post/could/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) controlling [or](/en/post/or/) influencing [something](/en/post/something/) [at](/en/post/at/) [its](/en/post/its/) [waist](/en/post/waist/) [or](/en/post/or/) crucial [point](/en/post/point/).
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) "[waist](/post/waist/)" is [not](/post/not/) [a](/post/a/) [standard](/post/standard/) English [term](/post/term/), [but](/post/but/) "girdle" [or](/post/or/) "[belt](/post/belt/)" [could](/post/could/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [act](/post/act/) [of](/post/of/) controlling [or](/post/or/) influencing [something](/post/something/) [at](/post/at/) [its](/post/its/) [waist](/post/waist/) [or](/post/or/) crucial [point](/post/point/).

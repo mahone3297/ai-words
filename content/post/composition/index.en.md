@@ -7,40 +7,40 @@ description = '[kɔmpəˈzi∫ən] n.构成；作品；写作'
 keywords = ['ai words', 'composition']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈpəʊzɪʃn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) combining elements [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [whole](/en/post/whole/), [especially](/en/post/especially/) words [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) written [or](/en/post/or/) spoken [work](/en/post/work/). **[Example](/en/post/example/)**: "[The](/en/post/the/) poet's [composition](/en/post/composition/) was [a](/en/post/a/) [masterpiece](/en/post/masterpiece/) [of](/en/post/of/) [literary](/en/post/literary/) [composition](/en/post/composition/)."
-2. [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [writing](/en/post/writing/), [music](/en/post/music/), [or](/en/post/or/) [art](/en/post/art/) [that](/en/post/that/) has been created. **[Example](/en/post/example/)**: "[The](/en/post/the/) [composition](/en/post/composition/) [for](/en/post/for/) [the](/en/post/the/) [orchestra](/en/post/orchestra/) is [quite](/en/post/quite/) intricate."
-3. [A](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) [different](/en/post/different/) things; [a](/en/post/a/) [blend](/en/post/blend/). **[Example](/en/post/example/)**: "[The](/en/post/the/) garden's [composition](/en/post/composition/) featured [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) colorful flowers."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) combining elements [to](/post/to/) [form](/post/form/) [a](/post/a/) [whole](/post/whole/), [especially](/post/especially/) words [to](/post/to/) [create](/post/create/) [a](/post/a/) written [or](/post/or/) spoken [work](/post/work/). **[Example](/post/example/)**: "[The](/post/the/) poet's [composition](/post/composition/) was [a](/post/a/) [masterpiece](/post/masterpiece/) [of](/post/of/) [literary](/post/literary/) [composition](/post/composition/)."
+2. [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [writing](/post/writing/), [music](/post/music/), [or](/post/or/) [art](/post/art/) [that](/post/that/) has been created. **[Example](/post/example/)**: "[The](/post/the/) [composition](/post/composition/) [for](/post/for/) [the](/post/the/) [orchestra](/post/orchestra/) is [quite](/post/quite/) intricate."
+3. [A](/post/a/) [mixture](/post/mixture/) [of](/post/of/) [different](/post/different/) things; [a](/post/a/) [blend](/post/blend/). **[Example](/post/example/)**: "[The](/post/the/) garden's [composition](/post/composition/) featured [a](/post/a/) [variety](/post/variety/) [of](/post/of/) colorful flowers."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [assemble](/en/post/assemble/) ([a](/en/post/a/) written [or](/en/post/or/) [artistic](/en/post/artistic/) [work](/en/post/work/)). **[Example](/en/post/example/)**: "[She](/en/post/she/) spent hours composing [a](/en/post/a/) [new](/en/post/new/) [song](/en/post/song/)."
-2. [To](/en/post/to/) [determine](/en/post/determine/) [or](/en/post/or/) [decide](/en/post/decide/) [the](/en/post/the/) [structure](/en/post/structure/) [or](/en/post/or/) [arrangement](/en/post/arrangement/) [of](/en/post/of/). **[Example](/en/post/example/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) helped [the](/en/post/the/) students [compose](/en/post/compose/) [their](/en/post/their/) essays."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [create](/post/create/) [or](/post/or/) [assemble](/post/assemble/) ([a](/post/a/) written [or](/post/or/) [artistic](/post/artistic/) [work](/post/work/)). **[Example](/post/example/)**: "[She](/post/she/) spent hours composing [a](/post/a/) [new](/post/new/) [song](/post/song/)."
+2. [To](/post/to/) [determine](/post/determine/) [or](/post/or/) [decide](/post/decide/) [the](/post/the/) [structure](/post/structure/) [or](/post/or/) [arrangement](/post/arrangement/) [of](/post/of/). **[Example](/post/example/)**: "[The](/post/the/) [teacher](/post/teacher/) helped [the](/post/the/) students [compose](/post/compose/) [their](/post/their/) essays."
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [style](/en/post/style/) [or](/en/post/or/) [manner](/en/post/manner/) [of](/en/post/of/) [expression](/en/post/expression/). **[Example](/en/post/example/)**: "[Her](/en/post/her/) compositions [have](/en/post/have/) [a](/en/post/a/) distinctively [modern](/en/post/modern/) [feel](/en/post/feel/)."
-2. Made [up](/en/post/up/) [of](/en/post/of/) [various](/en/post/various/) parts [or](/en/post/or/) elements. **[Example](/en/post/example/)**: "[The](/en/post/the/) landscape had [a](/en/post/a/) harmonious [composition](/en/post/composition/) [of](/en/post/of/) colors."
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [style](/post/style/) [or](/post/or/) [manner](/post/manner/) [of](/post/of/) [expression](/post/expression/). **[Example](/post/example/)**: "[Her](/post/her/) compositions [have](/post/have/) [a](/post/a/) distinctively [modern](/post/modern/) [feel](/post/feel/)."
+2. Made [up](/post/up/) [of](/post/of/) [various](/post/various/) parts [or](/post/or/) elements. **[Example](/post/example/)**: "[The](/post/the/) landscape had [a](/post/a/) harmonious [composition](/post/composition/) [of](/post/of/) colors."
 
 ## Phrases
-- "[Compose](/en/post/compose/) [a](/en/post/a/) [letter](/en/post/letter/)" [means](/en/post/means/) [to](/en/post/to/) [write](/en/post/write/) [a](/en/post/a/) [letter](/en/post/letter/) [or](/en/post/or/) [message](/en/post/message/).
-- "[Composition](/en/post/composition/) skills" [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [create](/en/post/create/) well-structured written [or](/en/post/or/) [artistic](/en/post/artistic/) works.
-- "[Music](/en/post/music/) [composition](/en/post/composition/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) creating [original](/en/post/original/) [musical](/en/post/musical/) pieces.
+- "[Compose](/post/compose/) [a](/post/a/) [letter](/post/letter/)" [means](/post/means/) [to](/post/to/) [write](/post/write/) [a](/post/a/) [letter](/post/letter/) [or](/post/or/) [message](/post/message/).
+- "[Composition](/post/composition/) skills" [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [create](/post/create/) well-structured written [or](/post/or/) [artistic](/post/artistic/) works.
+- "[Music](/post/music/) [composition](/post/composition/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) creating [original](/post/original/) [musical](/post/musical/) pieces.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) artist's [composition](/en/post/composition/) [for](/en/post/for/) [the](/en/post/the/) mural took months [to](/en/post/to/) [complete](/en/post/complete/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) started composing [a](/en/post/a/) [novel](/en/post/novel/) [last](/en/post/last/) [year](/en/post/year/) [but](/en/post/but/) hasn't finished [it](/en/post/it/) [yet](/en/post/yet/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) paintings are known [for](/en/post/for/) [their](/en/post/their/) balanced [and](/en/post/and/) visually pleasing compositions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) artist's [composition](/post/composition/) [for](/post/for/) [the](/post/the/) mural took months [to](/post/to/) [complete](/post/complete/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) started composing [a](/post/a/) [novel](/post/novel/) [last](/post/last/) [year](/post/year/) [but](/post/but/) hasn't finished [it](/post/it/) [yet](/post/yet/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) paintings are known [for](/post/for/) [their](/post/their/) balanced [and](/post/and/) visually pleasing compositions."
 
 ## Synonyms
 - Creation
-- [Arrangement](/en/post/arrangement/)
-- [Construction](/en/post/construction/)
-- [Work](/en/post/work/)
-- [Piece](/en/post/piece/)
+- [Arrangement](/post/arrangement/)
+- [Construction](/post/construction/)
+- [Work](/post/work/)
+- [Piece](/post/piece/)
 - Artwork
-- [Draft](/en/post/draft/)
-- [Musical](/en/post/musical/) [piece](/en/post/piece/)
-- [Literary](/en/post/literary/) [piece](/en/post/piece/)
+- [Draft](/post/draft/)
+- [Musical](/post/musical/) [piece](/post/piece/)
+- [Literary](/post/literary/) [piece](/post/piece/)

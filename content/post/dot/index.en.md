@@ -7,28 +7,28 @@ description = '[dɔt] n.点，圆点 vt.打点于'
 keywords = ['ai words', 'dot']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /.dɒt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [small](/en/post/small/) [circular](/en/post/circular/) [mark](/en/post/mark/) (·) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [pause](/en/post/pause/) [or](/en/post/or/) [point](/en/post/point/), [often](/en/post/often/) [in](/en/post/in/) written [text](/en/post/text/) [or](/en/post/or/) [on](/en/post/on/) [a](/en/post/a/) [computer](/en/post/computer/) [screen](/en/post/screen/). 2. [A](/en/post/a/) [symbol](/en/post/symbol/) representing [a](/en/post/a/) [single](/en/post/single/) [point](/en/post/point/) [or](/en/post/or/) [unit](/en/post/unit/), [as](/en/post/as/) [in](/en/post/in/) [mathematics](/en/post/mathematics/) [or](/en/post/or/) coding. 3. [A](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [period](/en/post/period/) (.) [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) [sentence](/en/post/sentence/) [or](/en/post/or/) abbreviation.
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [place](/en/post/place/) [or](/en/post/or/) [indicate](/en/post/indicate/) [a](/en/post/a/) [dot](/en/post/dot/), [especially](/en/post/especially/) [in](/en/post/in/) punctuation [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [design](/en/post/design/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [small](/post/small/) [circular](/post/circular/) [mark](/post/mark/) (·) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [pause](/post/pause/) [or](/post/or/) [point](/post/point/), [often](/post/often/) [in](/post/in/) written [text](/post/text/) [or](/post/or/) [on](/post/on/) [a](/post/a/) [computer](/post/computer/) [screen](/post/screen/). 2. [A](/post/a/) [symbol](/post/symbol/) representing [a](/post/a/) [single](/post/single/) [point](/post/point/) [or](/post/or/) [unit](/post/unit/), [as](/post/as/) [in](/post/in/) [mathematics](/post/mathematics/) [or](/post/or/) coding. 3. [A](/post/a/) colloquial [term](/post/term/) [for](/post/for/) [a](/post/a/) [period](/post/period/) (.) [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [a](/post/a/) [sentence](/post/sentence/) [or](/post/or/) abbreviation.
+- **[Verb](/post/verb/)**: [To](/post/to/) [place](/post/place/) [or](/post/or/) [indicate](/post/indicate/) [a](/post/a/) [dot](/post/dot/), [especially](/post/especially/) [in](/post/in/) punctuation [or](/post/or/) [as](/post/as/) [a](/post/a/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [design](/post/design/).
 
 ## Phrases
-- "[Dot](/en/post/dot/) [a](/en/post/a/) [line](/en/post/line/)" [means](/en/post/means/) [to](/en/post/to/) [mark](/en/post/mark/) [a](/en/post/a/) [line](/en/post/line/) [with](/en/post/with/) dots.
-- "[Dot](/en/post/dot/) [product](/en/post/product/)" [in](/en/post/in/) [mathematics](/en/post/mathematics/) refers [to](/en/post/to/) [the](/en/post/the/) multiplication [of](/en/post/of/) [two](/en/post/two/) vectors.
-- "[Dot](/en/post/dot/) notation" is [used](/en/post/used/) [in](/en/post/in/) programming [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [object](/en/post/object/) properties.
+- "[Dot](/post/dot/) [a](/post/a/) [line](/post/line/)" [means](/post/means/) [to](/post/to/) [mark](/post/mark/) [a](/post/a/) [line](/post/line/) [with](/post/with/) dots.
+- "[Dot](/post/dot/) [product](/post/product/)" [in](/post/in/) [mathematics](/post/mathematics/) refers [to](/post/to/) [the](/post/the/) multiplication [of](/post/of/) [two](/post/two/) vectors.
+- "[Dot](/post/dot/) notation" is [used](/post/used/) [in](/post/in/) programming [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [object](/post/object/) properties.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [document](/en/post/document/) had [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) [bullet](/en/post/bullet/) points followed [by](/en/post/by/) dots [to](/en/post/to/) [indicate](/en/post/indicate/) [additional](/en/post/additional/) [information](/en/post/information/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully dotted [the](/en/post/the/) i's [and](/en/post/and/) crossed [the](/en/post/the/) t's [before](/en/post/before/) submitting [her](/en/post/her/) homework."
-- **Interjection**: [Not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) an interjection [in](/en/post/in/) [this](/en/post/this/) [sense](/en/post/sense/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [document](/post/document/) had [a](/post/a/) [list](/post/list/) [of](/post/of/) [bullet](/post/bullet/) points followed [by](/post/by/) dots [to](/post/to/) [indicate](/post/indicate/) [additional](/post/additional/) [information](/post/information/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully dotted [the](/post/the/) i's [and](/post/and/) crossed [the](/post/the/) t's [before](/post/before/) submitting [her](/post/her/) homework."
+- **Interjection**: [Not](/post/not/) typically [used](/post/used/) [as](/post/as/) an interjection [in](/post/in/) [this](/post/this/) [sense](/post/sense/).
 
 ## Synonyms
-- [Point](/en/post/point/)
+- [Point](/post/point/)
 - Dotting
-- [Mark](/en/post/mark/)
+- [Mark](/post/mark/)
 - Punctuation
-- [Spot](/en/post/spot/)
+- [Spot](/post/spot/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) "[dot](/en/post/dot/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [to](/en/post/to/) [greet](/en/post/greet/) [someone](/en/post/someone/) is [not](/en/post/not/) [standard](/en/post/standard/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [some](/en/post/some/) informal contexts [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) playful [variation](/en/post/variation/). [In](/en/post/in/) [formal](/en/post/formal/) English, "[hello](/en/post/hello/)" [or](/en/post/or/) "[hi](/en/post/hi/)" [would](/en/post/would/) [be](/en/post/be/) [more](/en/post/more/) [appropriate](/en/post/appropriate/) [for](/en/post/for/) [greeting](/en/post/greeting/).
+[Note](/post/note/): [The](/post/the/) [use](/post/use/) [of](/post/of/) "[dot](/post/dot/)" [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [to](/post/to/) [greet](/post/greet/) [someone](/post/someone/) is [not](/post/not/) [standard](/post/standard/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [some](/post/some/) informal contexts [or](/post/or/) [as](/post/as/) [a](/post/a/) playful [variation](/post/variation/). [In](/post/in/) [formal](/post/formal/) English, "[hello](/post/hello/)" [or](/post/or/) "[hi](/post/hi/)" [would](/post/would/) [be](/post/be/) [more](/post/more/) [appropriate](/post/appropriate/) [for](/post/for/) [greeting](/post/greeting/).

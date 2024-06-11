@@ -7,25 +7,25 @@ description = '[ˈpəuit] n.诗人'
 keywords = ['ai words', 'poet']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəʊɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [poet](/en/post/poet/) is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) writes [poetry](/en/post/poetry/), [often](/en/post/often/) [as](/en/post/as/) [their](/en/post/their/) [profession](/en/post/profession/) [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [artistic](/en/post/artistic/) [expression](/en/post/expression/). [They](/en/post/they/) [use](/en/post/use/) [language](/en/post/language/) [to](/en/post/to/) [create](/en/post/create/) imaginative works [that](/en/post/that/) evoke emotions, [convey](/en/post/convey/) ideas, [or](/en/post/or/) [celebrate](/en/post/celebrate/) cultural themes.
+### [Noun](/post/noun/)
+[A](/post/a/) [poet](/post/poet/) is [a](/post/a/) [person](/post/person/) [who](/post/who/) writes [poetry](/post/poetry/), [often](/post/often/) [as](/post/as/) [their](/post/their/) [profession](/post/profession/) [or](/post/or/) [as](/post/as/) [a](/post/a/) [form](/post/form/) [of](/post/of/) [artistic](/post/artistic/) [expression](/post/expression/). [They](/post/they/) [use](/post/use/) [language](/post/language/) [to](/post/to/) [create](/post/create/) imaginative works [that](/post/that/) evoke emotions, [convey](/post/convey/) ideas, [or](/post/or/) [celebrate](/post/celebrate/) cultural themes.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) poetize [or](/en/post/or/) poeticize (informal) [means](/en/post/means/) [to](/en/post/to/) [express](/en/post/express/) [oneself](/en/post/oneself/) [in](/en/post/in/) [a](/en/post/a/) poetic [manner](/en/post/manner/) [or](/en/post/or/) [to](/en/post/to/) [transform](/en/post/transform/) [something](/en/post/something/) [into](/en/post/into/) poetic [language](/en/post/language/).
+### [Verb](/post/verb/)
+[To](/post/to/) poetize [or](/post/or/) poeticize (informal) [means](/post/means/) [to](/post/to/) [express](/post/express/) [oneself](/post/oneself/) [in](/post/in/) [a](/post/a/) poetic [manner](/post/manner/) [or](/post/or/) [to](/post/to/) [transform](/post/transform/) [something](/post/something/) [into](/post/into/) poetic [language](/post/language/).
 
 ## Phrases
-- "[Compose](/en/post/compose/) [a](/en/post/a/) [poem](/en/post/poem/)"
-- "[The](/en/post/the/) [poet](/en/post/poet/) laureate"
-- "[A](/en/post/a/) sonnet [by](/en/post/by/) [the](/en/post/the/) [poet](/en/post/poet/)"
+- "[Compose](/post/compose/) [a](/post/a/) [poem](/post/poem/)"
+- "[The](/post/the/) [poet](/post/poet/) laureate"
+- "[A](/post/a/) sonnet [by](/post/by/) [the](/post/the/) [poet](/post/poet/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was [a](/en/post/a/) renowned [poet](/en/post/poet/), known [for](/en/post/for/) [her](/en/post/her/) poignant [and](/en/post/and/) thought-provoking verses."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) [practice](/en/post/practice/), [he](/en/post/he/) [finally](/en/post/finally/) [found](/en/post/found/) [his](/en/post/his/) [voice](/en/post/voice/) [as](/en/post/as/) [a](/en/post/a/) [poet](/en/post/poet/)."
-- **Poetic [expression](/en/post/expression/)**: "[The](/en/post/the/) [sunset](/en/post/sunset/) painted [the](/en/post/the/) [sky](/en/post/sky/) [like](/en/post/like/) [a](/en/post/a/) [master](/en/post/master/) poet's [canvas](/en/post/canvas/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was [a](/post/a/) renowned [poet](/post/poet/), known [for](/post/for/) [her](/post/her/) poignant [and](/post/and/) thought-provoking verses."
+- **[Verb](/post/verb/)**: "[After](/post/after/) years [of](/post/of/) [practice](/post/practice/), [he](/post/he/) [finally](/post/finally/) [found](/post/found/) [his](/post/his/) [voice](/post/voice/) [as](/post/as/) [a](/post/a/) [poet](/post/poet/)."
+- **Poetic [expression](/post/expression/)**: "[The](/post/the/) [sunset](/post/sunset/) painted [the](/post/the/) [sky](/post/sky/) [like](/post/like/) [a](/post/a/) [master](/post/master/) poet's [canvas](/post/canvas/)."
 
 ## Synonyms
 - Bard
@@ -35,10 +35,10 @@ keywords = ['ai words', 'poet']
 - Quill-wielder
 
 ## Antonyms
-- Prose [writer](/en/post/writer/)
+- Prose [writer](/post/writer/)
 - Essayist
 - Novelist
-- Dramatist ([mainly](/en/post/mainly/) [for](/en/post/for/) playwrights)
+- Dramatist ([mainly](/post/mainly/) [for](/post/for/) playwrights)
 
 ## Notes
-Poets [may](/en/post/may/) [work](/en/post/work/) [with](/en/post/with/) [various](/en/post/various/) forms [such](/en/post/such/) [as](/en/post/as/) sonnets, haikus, [free](/en/post/free/) verse, [or](/en/post/or/) ballads, [and](/en/post/and/) [their](/en/post/their/) works [can](/en/post/can/) [range](/en/post/range/) [from](/en/post/from/) [romantic](/en/post/romantic/) [love](/en/post/love/) songs [to](/en/post/to/) [political](/en/post/political/) commentary. [The](/en/post/the/) [art](/en/post/art/) [of](/en/post/of/) [poetry](/en/post/poetry/) has [a](/en/post/a/) [rich](/en/post/rich/) [history](/en/post/history/), spanning [many](/en/post/many/) cultures [and](/en/post/and/) [time](/en/post/time/) periods.
+Poets [may](/post/may/) [work](/post/work/) [with](/post/with/) [various](/post/various/) forms [such](/post/such/) [as](/post/as/) sonnets, haikus, [free](/post/free/) verse, [or](/post/or/) ballads, [and](/post/and/) [their](/post/their/) works [can](/post/can/) [range](/post/range/) [from](/post/from/) [romantic](/post/romantic/) [love](/post/love/) songs [to](/post/to/) [political](/post/political/) commentary. [The](/post/the/) [art](/post/art/) [of](/post/of/) [poetry](/post/poetry/) has [a](/post/a/) [rich](/post/rich/) [history](/post/history/), spanning [many](/post/many/) cultures [and](/post/and/) [time](/post/time/) periods.

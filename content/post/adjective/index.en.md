@@ -7,34 +7,34 @@ description = '[ˈædʒiktiv] n.形容词 a.形容词的'
 keywords = ['ai words', 'adjective']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈædʒɪktɪv/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [speech](/en/post/speech/) [that](/en/post/that/) describes [or](/en/post/or/) modifies [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [pronoun](/en/post/pronoun/), indicating qualities, attributes, [or](/en/post/or/) characteristics [of](/en/post/of/) [the](/en/post/the/) [noun](/en/post/noun/). Adjectives typically [answer](/en/post/answer/) questions [like](/en/post/like/) "[which](/en/post/which/) [one](/en/post/one/)?", "[what](/en/post/what/) [kind](/en/post/kind/)?", [or](/en/post/or/) "[how](/en/post/how/) [much](/en/post/much/)?".
+- **[Adjective](/post/adjective/)**: [A](/post/a/) [part](/post/part/) [of](/post/of/) [speech](/post/speech/) [that](/post/that/) describes [or](/post/or/) modifies [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [pronoun](/post/pronoun/), indicating qualities, attributes, [or](/post/or/) characteristics [of](/post/of/) [the](/post/the/) [noun](/post/noun/). Adjectives typically [answer](/post/answer/) questions [like](/post/like/) "[which](/post/which/) [one](/post/one/)?", "[what](/post/what/) [kind](/post/kind/)?", [or](/post/or/) "[how](/post/how/) [much](/post/much/)?".
 
 ## Phrases
-- "[Be](/en/post/be/) an [adjective](/en/post/adjective/)" [means](/en/post/means/) [to](/en/post/to/) [use](/en/post/use/) descriptive words [to](/en/post/to/) [convey](/en/post/convey/) details.
-- "[She](/en/post/she/) is [very](/en/post/very/) [intelligent](/en/post/intelligent/)" – [the](/en/post/the/) [adjective](/en/post/adjective/) "[intelligent](/en/post/intelligent/)" modifies [the](/en/post/the/) [noun](/en/post/noun/) "[she](/en/post/she/)".
-- "[The](/en/post/the/) [blue](/en/post/blue/) [sky](/en/post/sky/)" – [the](/en/post/the/) [adjective](/en/post/adjective/) "[blue](/en/post/blue/)" modifies [the](/en/post/the/) [noun](/en/post/noun/) "[sky](/en/post/sky/)".
+- "[Be](/post/be/) an [adjective](/post/adjective/)" [means](/post/means/) [to](/post/to/) [use](/post/use/) descriptive words [to](/post/to/) [convey](/post/convey/) details.
+- "[She](/post/she/) is [very](/post/very/) [intelligent](/post/intelligent/)" – [the](/post/the/) [adjective](/post/adjective/) "[intelligent](/post/intelligent/)" modifies [the](/post/the/) [noun](/post/noun/) "[she](/post/she/)".
+- "[The](/post/the/) [blue](/post/blue/) [sky](/post/sky/)" – [the](/post/the/) [adjective](/post/adjective/) "[blue](/post/blue/)" modifies [the](/post/the/) [noun](/post/noun/) "[sky](/post/sky/)".
 
-## [Example](/en/post/example/) Sentences
-- **Descriptive**: "[The](/en/post/the/) fluffy [white](/en/post/white/) [cat](/en/post/cat/) was incredibly cute."
-- **[Comparative](/en/post/comparative/)**: "[This](/en/post/this/) [book](/en/post/book/) is [more](/en/post/more/) [interesting](/en/post/interesting/) [than](/en/post/than/) [that](/en/post/that/) [one](/en/post/one/)."
-- **Superlative**: "[She](/en/post/she/) is [the](/en/post/the/) kindest [person](/en/post/person/) I've [ever](/en/post/ever/) met."
+## [Example](/post/example/) Sentences
+- **Descriptive**: "[The](/post/the/) fluffy [white](/post/white/) [cat](/post/cat/) was incredibly cute."
+- **[Comparative](/post/comparative/)**: "[This](/post/this/) [book](/post/book/) is [more](/post/more/) [interesting](/post/interesting/) [than](/post/than/) [that](/post/that/) [one](/post/one/)."
+- **Superlative**: "[She](/post/she/) is [the](/post/the/) kindest [person](/post/person/) I've [ever](/post/ever/) met."
 
 ## Synonyms
-- Adverbial ([when](/en/post/when/) describing [manner](/en/post/manner/))
+- Adverbial ([when](/post/when/) describing [manner](/post/manner/))
 - Qualifier
-- [Characteristic](/en/post/characteristic/)
-- Descriptive [word](/en/post/word/)
-- [Attribute](/en/post/attribute/)
+- [Characteristic](/post/characteristic/)
+- Descriptive [word](/post/word/)
+- [Attribute](/post/attribute/)
 - Flattering
 - Appreciative
 - Praiseworthy
 
 ## Antonyms
-- [Noun](/en/post/noun/): [None](/en/post/none/) (adjectives don't [have](/en/post/have/) [direct](/en/post/direct/) antonyms, [but](/en/post/but/) [they](/en/post/they/) [can](/en/post/can/) [be](/en/post/be/) contrasted [with](/en/post/with/) [other](/en/post/other/) adjectives)
-- [Adverb](/en/post/adverb/): [None](/en/post/none/) (adjectives don't [function](/en/post/function/) [as](/en/post/as/) adverbs)
+- [Noun](/post/noun/): [None](/post/none/) (adjectives don't [have](/post/have/) [direct](/post/direct/) antonyms, [but](/post/but/) [they](/post/they/) [can](/post/can/) [be](/post/be/) contrasted [with](/post/with/) [other](/post/other/) adjectives)
+- [Adverb](/post/adverb/): [None](/post/none/) (adjectives don't [function](/post/function/) [as](/post/as/) adverbs)
 
-[Note](/en/post/note/): Adjectives [can](/en/post/can/) [also](/en/post/also/) [form](/en/post/form/) [comparative](/en/post/comparative/) ([more](/en/post/more/), [less](/en/post/less/)) [and](/en/post/and/) superlative ([most](/en/post/most/), [least](/en/post/least/)) forms [by](/en/post/by/) adding -er [or](/en/post/or/) -est [respectively](/en/post/respectively/). [For](/en/post/for/) [example](/en/post/example/), "[happy](/en/post/happy/)" becomes "happier" [and](/en/post/and/) "happiest."
+[Note](/post/note/): Adjectives [can](/post/can/) [also](/post/also/) [form](/post/form/) [comparative](/post/comparative/) ([more](/post/more/), [less](/post/less/)) [and](/post/and/) superlative ([most](/post/most/), [least](/post/least/)) forms [by](/post/by/) adding -er [or](/post/or/) -est [respectively](/post/respectively/). [For](/post/for/) [example](/post/example/), "[happy](/post/happy/)" becomes "happier" [and](/post/and/) "happiest."

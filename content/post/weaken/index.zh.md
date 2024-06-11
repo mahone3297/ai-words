@@ -11,20 +11,20 @@ keywords = ['ai words', 'weaken']
 /ˈwiːkən/
 
 ## 释义
-- **动词**: 使变弱；减弱；削弱。例如: "[Regular](/post/regular/) [exercise](/post/exercise/) [can](/post/can/) [help](/post/help/) [to](/post/to/) [weaken](/post/weaken/) [the](/post/the/) effects [of](/post/of/) [stress](/post/stress/)."
-- **形容词**: 虚弱的；无力的。例如: "[He](/post/he/) was [so](/post/so/) [weak](/post/weak/) [that](/post/that/) [he](/post/he/) [could](/post/could/) [hardly](/post/hardly/) [stand](/post/stand/) [up](/post/up/)."
+- **动词**: 使变弱；减弱；削弱。例如: "[Regular](/zh/post/regular/) [exercise](/zh/post/exercise/) [can](/zh/post/can/) [help](/zh/post/help/) [to](/zh/post/to/) [weaken](/zh/post/weaken/) [the](/zh/post/the/) effects [of](/zh/post/of/) [stress](/zh/post/stress/)."
+- **形容词**: 虚弱的；无力的。例如: "[He](/zh/post/he/) was [so](/zh/post/so/) [weak](/zh/post/weak/) [that](/zh/post/that/) [he](/zh/post/he/) [could](/zh/post/could/) [hardly](/zh/post/hardly/) [stand](/zh/post/stand/) [up](/zh/post/up/)."
 
 ## 短语
-- "[Weaken](/post/weaken/) one's [position](/post/position/)" 意味着削弱自己的立场或实力。
-- "[The](/post/the/) [illness](/post/illness/) had weakened [her](/post/her/) immune [system](/post/system/)" 指疾病使她的免疫系统变得脆弱。
+- "[Weaken](/zh/post/weaken/) one's [position](/zh/post/position/)" 意味着削弱自己的立场或实力。
+- "[The](/zh/post/the/) [illness](/zh/post/illness/) had weakened [her](/zh/post/her/) immune [system](/zh/post/system/)" 指疾病使她的免疫系统变得脆弱。
 
 ## 例句
-- 动词: "[The](/post/the/) [constant](/post/constant/) arguments [between](/post/between/) [them](/post/them/) began [to](/post/to/) [weaken](/post/weaken/) [their](/post/their/) [relationship](/post/relationship/)."
-- 形容词: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [illness](/post/illness/), [she](/post/she/) felt weakened [and](/post/and/) needed [time](/post/time/) [to](/post/to/) [recover](/post/recover/)."
+- 动词: "[The](/zh/post/the/) [constant](/zh/post/constant/) arguments [between](/zh/post/between/) [them](/zh/post/them/) began [to](/zh/post/to/) [weaken](/zh/post/weaken/) [their](/zh/post/their/) [relationship](/zh/post/relationship/)."
+- 形容词: "[After](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [illness](/zh/post/illness/), [she](/zh/post/she/) felt weakened [and](/zh/post/and/) needed [time](/zh/post/time/) [to](/zh/post/to/) [recover](/zh/post/recover/)."
 
 ## 同义词
 - Dilute
-- [Reduce](/post/reduce/)
+- [Reduce](/zh/post/reduce/)
 - Diminish
-- [Lessen](/post/lessen/)
+- [Lessen](/zh/post/lessen/)
 - Enfeeble

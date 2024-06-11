@@ -7,44 +7,44 @@ description = '[kʌt] vt.切，割，剪；减少'
 keywords = ['ai words', 'cut']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kʌt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Cut](/en/post/cut/)**: [A](/en/post/a/) [part](/en/post/part/) [or](/en/post/or/) [portion](/en/post/portion/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) has been sliced, divided, [or](/en/post/or/) separated [from](/en/post/from/) [the](/en/post/the/) [rest](/en/post/rest/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [cake](/en/post/cake/) was [cut](/en/post/cut/) [into](/en/post/into/) [equal](/en/post/equal/) slices."
-- **([verb](/en/post/verb/) [form](/en/post/form/))**: [The](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) cutting, slicing, [or](/en/post/or/) separating [with](/en/post/with/) [a](/en/post/a/) [sharp](/en/post/sharp/) [tool](/en/post/tool/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) made [a](/en/post/a/) [clean](/en/post/clean/) [cut](/en/post/cut/) [on](/en/post/on/) [the](/en/post/the/) [fabric](/en/post/fabric/)."
+### [Noun](/post/noun/)
+- **[Cut](/post/cut/)**: [A](/post/a/) [part](/post/part/) [or](/post/or/) [portion](/post/portion/) [of](/post/of/) [something](/post/something/) [that](/post/that/) has been sliced, divided, [or](/post/or/) separated [from](/post/from/) [the](/post/the/) [rest](/post/rest/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [cake](/post/cake/) was [cut](/post/cut/) [into](/post/into/) [equal](/post/equal/) slices."
+- **([verb](/post/verb/) [form](/post/form/))**: [The](/post/the/) [action](/post/action/) [of](/post/of/) cutting, slicing, [or](/post/or/) separating [with](/post/with/) [a](/post/a/) [sharp](/post/sharp/) [tool](/post/tool/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) made [a](/post/a/) [clean](/post/clean/) [cut](/post/cut/) [on](/post/on/) [the](/post/the/) [fabric](/post/fabric/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [cut](/en/post/cut/)**: [To](/en/post/to/) physically [divide](/en/post/divide/) [or](/en/post/or/) [separate](/en/post/separate/) [something](/en/post/something/) [with](/en/post/with/) [a](/en/post/a/) [sharp](/en/post/sharp/) [edge](/en/post/edge/) [or](/en/post/or/) [instrument](/en/post/instrument/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [cut](/en/post/cut/) [the](/en/post/the/) vegetables [into](/en/post/into/) [small](/en/post/small/) pieces."
-- **[To](/en/post/to/) [cut](/en/post/cut/) [out](/en/post/out/)**: [To](/en/post/to/) [eliminate](/en/post/eliminate/) [or](/en/post/or/) [exclude](/en/post/exclude/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [cut](/en/post/cut/) [out](/en/post/out/) unhealthy snacks [from](/en/post/from/) [her](/en/post/her/) diet."
-- **[To](/en/post/to/) [cut](/en/post/cut/) [short](/en/post/short/)**: [To](/en/post/to/) abruptly [end](/en/post/end/) [or](/en/post/or/) shorten [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Due](/en/post/due/) [to](/en/post/to/) [time](/en/post/time/) constraints, [we](/en/post/we/) had [to](/en/post/to/) [cut](/en/post/cut/) [the](/en/post/the/) [meeting](/en/post/meeting/) [short](/en/post/short/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [cut](/post/cut/)**: [To](/post/to/) physically [divide](/post/divide/) [or](/post/or/) [separate](/post/separate/) [something](/post/something/) [with](/post/with/) [a](/post/a/) [sharp](/post/sharp/) [edge](/post/edge/) [or](/post/or/) [instrument](/post/instrument/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) [cut](/post/cut/) [the](/post/the/) vegetables [into](/post/into/) [small](/post/small/) pieces."
+- **[To](/post/to/) [cut](/post/cut/) [out](/post/out/)**: [To](/post/to/) [eliminate](/post/eliminate/) [or](/post/or/) [exclude](/post/exclude/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [cut](/post/cut/) [out](/post/out/) unhealthy snacks [from](/post/from/) [her](/post/her/) diet."
+- **[To](/post/to/) [cut](/post/cut/) [short](/post/short/)**: [To](/post/to/) abruptly [end](/post/end/) [or](/post/or/) shorten [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Due](/post/due/) [to](/post/to/) [time](/post/time/) constraints, [we](/post/we/) had [to](/post/to/) [cut](/post/cut/) [the](/post/the/) [meeting](/post/meeting/) [short](/post/short/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Cut](/en/post/cut/)**: ([in](/en/post/in/) typography) Having [a](/en/post/a/) [specific](/en/post/specific/) [shape](/en/post/shape/) [or](/en/post/or/) [design](/en/post/design/), [like](/en/post/like/) [a](/en/post/a/) typeface [with](/en/post/with/) serifs. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) sans-serif font has [a](/en/post/a/) [clean](/en/post/clean/), uncut [appearance](/en/post/appearance/)."
-- **Cutthroat**: [Extremely](/en/post/extremely/) competitive [or](/en/post/or/) ruthless, [especially](/en/post/especially/) [in](/en/post/in/) [business](/en/post/business/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [market](/en/post/market/) became [increasingly](/en/post/increasingly/) cutthroat [as](/en/post/as/) [new](/en/post/new/) companies entered."
+### [Adjective](/post/adjective/)
+- **[Cut](/post/cut/)**: ([in](/post/in/) typography) Having [a](/post/a/) [specific](/post/specific/) [shape](/post/shape/) [or](/post/or/) [design](/post/design/), [like](/post/like/) [a](/post/a/) typeface [with](/post/with/) serifs. [For](/post/for/) [example](/post/example/): "[A](/post/a/) sans-serif font has [a](/post/a/) [clean](/post/clean/), uncut [appearance](/post/appearance/)."
+- **Cutthroat**: [Extremely](/post/extremely/) competitive [or](/post/or/) ruthless, [especially](/post/especially/) [in](/post/in/) [business](/post/business/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [market](/post/market/) became [increasingly](/post/increasingly/) cutthroat [as](/post/as/) [new](/post/new/) companies entered."
 
-### [Adverb](/en/post/adverb/)
-- **[Cut](/en/post/cut/)**: [In](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [way](/en/post/way/) [or](/en/post/or/) [fashion](/en/post/fashion/), [often](/en/post/often/) indicating [a](/en/post/a/) [sudden](/en/post/sudden/) [or](/en/post/or/) decisive [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [cut](/en/post/cut/) [through](/en/post/through/) [the](/en/post/the/) [crowd](/en/post/crowd/) [quickly](/en/post/quickly/)."
+### [Adverb](/post/adverb/)
+- **[Cut](/post/cut/)**: [In](/post/in/) [a](/post/a/) [particular](/post/particular/) [way](/post/way/) [or](/post/or/) [fashion](/post/fashion/), [often](/post/often/) indicating [a](/post/a/) [sudden](/post/sudden/) [or](/post/or/) decisive [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [cut](/post/cut/) [through](/post/through/) [the](/post/the/) [crowd](/post/crowd/) [quickly](/post/quickly/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [clean](/en/post/clean/) [cut](/en/post/cut/)" [means](/en/post/means/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) neatly [or](/en/post/or/) efficiently.
-- "[Cut](/en/post/cut/) corners" refers [to](/en/post/to/) taking shortcuts [or](/en/post/or/) [being](/en/post/being/) dishonest.
-- "Cutting-edge [technology](/en/post/technology/)" describes [the](/en/post/the/) latest [and](/en/post/and/) [most](/en/post/most/) [advanced](/en/post/advanced/) developments.
+- "[Make](/post/make/) [a](/post/a/) [clean](/post/clean/) [cut](/post/cut/)" [means](/post/means/) [to](/post/to/) [do](/post/do/) [something](/post/something/) neatly [or](/post/or/) efficiently.
+- "[Cut](/post/cut/) corners" refers [to](/post/to/) taking shortcuts [or](/post/or/) [being](/post/being/) dishonest.
+- "Cutting-edge [technology](/post/technology/)" describes [the](/post/the/) latest [and](/post/and/) [most](/post/most/) [advanced](/post/advanced/) developments.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [butcher](/en/post/butcher/) made [a](/en/post/a/) [precise](/en/post/precise/) [cut](/en/post/cut/) [on](/en/post/on/) [the](/en/post/the/) [beef](/en/post/beef/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully [cut](/en/post/cut/) [the](/en/post/the/) [ribbon](/en/post/ribbon/) [with](/en/post/with/) [scissors](/en/post/scissors/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) uncut diamonds were dazzling [in](/en/post/in/) [the](/en/post/the/) [light](/en/post/light/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) made [a](/en/post/a/) [quick](/en/post/quick/) [cut](/en/post/cut/) [through](/en/post/through/) [the](/en/post/the/) underbrush."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [butcher](/post/butcher/) made [a](/post/a/) [precise](/post/precise/) [cut](/post/cut/) [on](/post/on/) [the](/post/the/) [beef](/post/beef/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully [cut](/post/cut/) [the](/post/the/) [ribbon](/post/ribbon/) [with](/post/with/) [scissors](/post/scissors/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) uncut diamonds were dazzling [in](/post/in/) [the](/post/the/) [light](/post/light/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) made [a](/post/a/) [quick](/post/quick/) [cut](/post/cut/) [through](/post/through/) [the](/post/the/) underbrush."
 
 ## Synonyms
-- [Slice](/en/post/slice/)
+- [Slice](/post/slice/)
 - Sever
-- [Divide](/en/post/divide/)
-- [Chop](/en/post/chop/)
+- [Divide](/post/divide/)
+- [Chop](/post/chop/)
 - Snip
-- [Trim](/en/post/trim/)
+- [Trim](/post/trim/)
 - Lop
-- [Carve](/en/post/carve/)
+- [Carve](/post/carve/)
 - Cleave

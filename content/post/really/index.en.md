@@ -7,31 +7,31 @@ description = '[ˈriəli] ad.真正地；实在'
 keywords = ['ai words', 'really']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈliːli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Denotes [emphasis](/en/post/emphasis/) [or](/en/post/or/) [degree](/en/post/degree/) [of](/en/post/of/) truthfulness. [For](/en/post/for/) [example](/en/post/example/): "I [really](/en/post/really/) [love](/en/post/love/) [this](/en/post/this/) [book](/en/post/book/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [true](/en/post/true/) [or](/en/post/or/) [absolute](/en/post/absolute/) [sense](/en/post/sense/); [without](/en/post/without/) [exception](/en/post/exception/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [really](/en/post/really/) did [her](/en/post/her/) [best](/en/post/best/)."
+- **[Adverb](/post/adverb/)**: Denotes [emphasis](/post/emphasis/) [or](/post/or/) [degree](/post/degree/) [of](/post/of/) truthfulness. [For](/post/for/) [example](/post/example/): "I [really](/post/really/) [love](/post/love/) [this](/post/this/) [book](/post/book/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [true](/post/true/) [or](/post/or/) [absolute](/post/absolute/) [sense](/post/sense/); [without](/post/without/) [exception](/post/exception/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [really](/post/really/) did [her](/post/her/) [best](/post/best/)."
 
 ## Phrases
-- "[Really](/en/post/really/)?" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) disbelief [or](/en/post/or/) [seek](/en/post/seek/) confirmation.
-- "It's [really](/en/post/really/) [cold](/en/post/cold/) [today](/en/post/today/)" emphasizes [the](/en/post/the/) severity [of](/en/post/of/) [the](/en/post/the/) [cold](/en/post/cold/) [weather](/en/post/weather/).
-- "That's [really](/en/post/really/) [impressive](/en/post/impressive/)" shows admiration.
+- "[Really](/post/really/)?" [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [express](/post/express/) disbelief [or](/post/or/) [seek](/post/seek/) confirmation.
+- "It's [really](/post/really/) [cold](/post/cold/) [today](/post/today/)" emphasizes [the](/post/the/) severity [of](/post/of/) [the](/post/the/) [cold](/post/cold/) [weather](/post/weather/).
+- "That's [really](/post/really/) [impressive](/post/impressive/)" shows admiration.
 
-## [Example](/en/post/example/) Sentences
-- **[Emphasis](/en/post/emphasis/)**: "I [really](/en/post/really/) [need](/en/post/need/) [to](/en/post/to/) [finish](/en/post/finish/) [this](/en/post/this/) [project](/en/post/project/) [by](/en/post/by/) [tonight](/en/post/tonight/)."
-- **[Degree](/en/post/degree/) [of](/en/post/of/) [truth](/en/post/truth/)**: "[She](/en/post/she/) [really](/en/post/really/) believes [she](/en/post/she/) [can](/en/post/can/) [win](/en/post/win/) [the](/en/post/the/) marathon."
-- **[Absolute](/en/post/absolute/) [sense](/en/post/sense/)**: "[They](/en/post/they/) [really](/en/post/really/) haven't seen [each](/en/post/each/) [other](/en/post/other/) [in](/en/post/in/) years."
+## [Example](/post/example/) Sentences
+- **[Emphasis](/post/emphasis/)**: "I [really](/post/really/) [need](/post/need/) [to](/post/to/) [finish](/post/finish/) [this](/post/this/) [project](/post/project/) [by](/post/by/) [tonight](/post/tonight/)."
+- **[Degree](/post/degree/) [of](/post/of/) [truth](/post/truth/)**: "[She](/post/she/) [really](/post/really/) believes [she](/post/she/) [can](/post/can/) [win](/post/win/) [the](/post/the/) marathon."
+- **[Absolute](/post/absolute/) [sense](/post/sense/)**: "[They](/post/they/) [really](/post/really/) haven't seen [each](/post/each/) [other](/post/other/) [in](/post/in/) years."
 
 ## Synonyms
-- [Truly](/en/post/truly/)
+- [Truly](/post/truly/)
 - Honestly
-- [Absolutely](/en/post/absolutely/)
-- [Definitely](/en/post/definitely/)
-- [Actually](/en/post/actually/)
+- [Absolutely](/post/absolutely/)
+- [Definitely](/post/definitely/)
+- [Actually](/post/actually/)
 
 ## Antonyms
-- [Not](/en/post/not/) [really](/en/post/really/)
-- [Sort](/en/post/sort/) [of](/en/post/of/)
-- [Kind](/en/post/kind/) [of](/en/post/of/) ([when](/en/post/when/) [used](/en/post/used/) [to](/en/post/to/) downplay [something](/en/post/something/))
+- [Not](/post/not/) [really](/post/really/)
+- [Sort](/post/sort/) [of](/post/of/)
+- [Kind](/post/kind/) [of](/post/of/) ([when](/post/when/) [used](/post/used/) [to](/post/to/) downplay [something](/post/something/))

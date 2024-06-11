@@ -7,33 +7,33 @@ description = '[igˈzist] vi.存在；生存，生活'
 keywords = ['ai words', 'exist']
 +++
 
-## [Word](/en/post/word/): [Exist](/en/post/exist/)
+## [Word](/post/word/): [Exist](/post/exist/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪɡˈzɪst/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (1) [To](/en/post/to/) [have](/en/post/have/) [real](/en/post/real/) [being](/en/post/being/); [to](/en/post/to/) [have](/en/post/have/) [existence](/en/post/existence/). [It](/en/post/it/) refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) has [presence](/en/post/presence/) [or](/en/post/or/) [reality](/en/post/reality/) [rather](/en/post/rather/) [than](/en/post/than/) [being](/en/post/being/) [merely](/en/post/merely/) [imaginary](/en/post/imaginary/) [or](/en/post/or/) [potential](/en/post/potential/). _Example:_ "[The](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) [time](/en/post/time/) has existed [since](/en/post/since/) [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [human](/en/post/human/) [thought](/en/post/thought/)."
-   - _Phrasal [usage](/en/post/usage/):_ "[come](/en/post/come/) [into](/en/post/into/) [existence](/en/post/existence/)" - [meaning](/en/post/meaning/) [to](/en/post/to/) [begin](/en/post/begin/) [to](/en/post/to/) [exist](/en/post/exist/) [or](/en/post/or/) [be](/en/post/be/) formed. _Example:_ "[The](/en/post/the/) [universe](/en/post/universe/) came [into](/en/post/into/) [existence](/en/post/existence/) billions [of](/en/post/of/) years [ago](/en/post/ago/)."
-   - "[continue](/en/post/continue/) [to](/en/post/to/) [exist](/en/post/exist/)" - [to](/en/post/to/) [remain](/en/post/remain/) [present](/en/post/present/) [or](/en/post/or/) [alive](/en/post/alive/) [despite](/en/post/despite/) challenges [or](/en/post/or/) changes. _Example:_ "[Despite](/en/post/despite/) [the](/en/post/the/) [economic](/en/post/economic/) downturn, [the](/en/post/the/) [small](/en/post/small/) [business](/en/post/business/) managed [to](/en/post/to/) [continue](/en/post/continue/) [to](/en/post/to/) [exist](/en/post/exist/)."
-- (2) [To](/en/post/to/) [live](/en/post/live/) [or](/en/post/or/) [have](/en/post/have/) one's [being](/en/post/being/) [in](/en/post/in/) [a](/en/post/a/) specified [place](/en/post/place/) [or](/en/post/or/) [under](/en/post/under/) [certain](/en/post/certain/) conditions. _Example:_ "[They](/en/post/they/) [exist](/en/post/exist/) [on](/en/post/on/) [a](/en/post/a/) diet [of](/en/post/of/) [rice](/en/post/rice/) [and](/en/post/and/) vegetables."
+- **[Verb](/post/verb/)**: (1) [To](/post/to/) [have](/post/have/) [real](/post/real/) [being](/post/being/); [to](/post/to/) [have](/post/have/) [existence](/post/existence/). [It](/post/it/) refers [to](/post/to/) [something](/post/something/) [that](/post/that/) has [presence](/post/presence/) [or](/post/or/) [reality](/post/reality/) [rather](/post/rather/) [than](/post/than/) [being](/post/being/) [merely](/post/merely/) [imaginary](/post/imaginary/) [or](/post/or/) [potential](/post/potential/). _Example:_ "[The](/post/the/) [concept](/post/concept/) [of](/post/of/) [time](/post/time/) has existed [since](/post/since/) [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [human](/post/human/) [thought](/post/thought/)."
+   - _Phrasal [usage](/post/usage/):_ "[come](/post/come/) [into](/post/into/) [existence](/post/existence/)" - [meaning](/post/meaning/) [to](/post/to/) [begin](/post/begin/) [to](/post/to/) [exist](/post/exist/) [or](/post/or/) [be](/post/be/) formed. _Example:_ "[The](/post/the/) [universe](/post/universe/) came [into](/post/into/) [existence](/post/existence/) billions [of](/post/of/) years [ago](/post/ago/)."
+   - "[continue](/post/continue/) [to](/post/to/) [exist](/post/exist/)" - [to](/post/to/) [remain](/post/remain/) [present](/post/present/) [or](/post/or/) [alive](/post/alive/) [despite](/post/despite/) challenges [or](/post/or/) changes. _Example:_ "[Despite](/post/despite/) [the](/post/the/) [economic](/post/economic/) downturn, [the](/post/the/) [small](/post/small/) [business](/post/business/) managed [to](/post/to/) [continue](/post/continue/) [to](/post/to/) [exist](/post/exist/)."
+- (2) [To](/post/to/) [live](/post/live/) [or](/post/or/) [have](/post/have/) one's [being](/post/being/) [in](/post/in/) [a](/post/a/) specified [place](/post/place/) [or](/post/or/) [under](/post/under/) [certain](/post/certain/) conditions. _Example:_ "[They](/post/they/) [exist](/post/exist/) [on](/post/on/) [a](/post/a/) diet [of](/post/of/) [rice](/post/rice/) [and](/post/and/) vegetables."
 
 ## Phrases
-- "[Existence](/en/post/existence/) precedes essence" - [a](/en/post/a/) philosophical [statement](/en/post/statement/) suggesting [that](/en/post/that/) [a](/en/post/a/) [being](/en/post/being/) [first](/en/post/first/) exists, [then](/en/post/then/) defines [its](/en/post/its/) [nature](/en/post/nature/) [through](/en/post/through/) [its](/en/post/its/) experiences [and](/en/post/and/) actions.
-- "[To](/en/post/to/) [question](/en/post/question/) one's [own](/en/post/own/) [existence](/en/post/existence/)" - [to](/en/post/to/) ponder [about](/en/post/about/) [the](/en/post/the/) [purpose](/en/post/purpose/) [or](/en/post/or/) [meaning](/en/post/meaning/) [of](/en/post/of/) one's [life](/en/post/life/).
+- "[Existence](/post/existence/) precedes essence" - [a](/post/a/) philosophical [statement](/post/statement/) suggesting [that](/post/that/) [a](/post/a/) [being](/post/being/) [first](/post/first/) exists, [then](/post/then/) defines [its](/post/its/) [nature](/post/nature/) [through](/post/through/) [its](/post/its/) experiences [and](/post/and/) actions.
+- "[To](/post/to/) [question](/post/question/) one's [own](/post/own/) [existence](/post/existence/)" - [to](/post/to/) ponder [about](/post/about/) [the](/post/the/) [purpose](/post/purpose/) [or](/post/or/) [meaning](/post/meaning/) [of](/post/of/) one's [life](/post/life/).
   
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "Does [life](/en/post/life/) [exist](/en/post/exist/) [beyond](/en/post/beyond/) [our](/en/post/our/) [planet](/en/post/planet/) [Earth](/en/post/earth/)?"
-- "[His](/en/post/his/) theories [still](/en/post/still/) [exist](/en/post/exist/) [in](/en/post/in/) [academic](/en/post/academic/) circles."
-- "[After](/en/post/after/) [the](/en/post/the/) [fire](/en/post/fire/), [only](/en/post/only/) [the](/en/post/the/) charred [remains](/en/post/remains/) [of](/en/post/of/) [the](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) [exist](/en/post/exist/) [now](/en/post/now/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "Does [life](/post/life/) [exist](/post/exist/) [beyond](/post/beyond/) [our](/post/our/) [planet](/post/planet/) [Earth](/post/earth/)?"
+- "[His](/post/his/) theories [still](/post/still/) [exist](/post/exist/) [in](/post/in/) [academic](/post/academic/) circles."
+- "[After](/post/after/) [the](/post/the/) [fire](/post/fire/), [only](/post/only/) [the](/post/the/) charred [remains](/post/remains/) [of](/post/of/) [the](/post/the/) [old](/post/old/) [house](/post/house/) [exist](/post/exist/) [now](/post/now/)."
 
 ## Synonyms
-- [Be](/en/post/be/)
-- [Live](/en/post/live/)
-- [Survive](/en/post/survive/)
-- [Persist](/en/post/persist/)
-- [Occupy](/en/post/occupy/)
-- [Have](/en/post/have/) [being](/en/post/being/)
+- [Be](/post/be/)
+- [Live](/post/live/)
+- [Survive](/post/survive/)
+- [Persist](/post/persist/)
+- [Occupy](/post/occupy/)
+- [Have](/post/have/) [being](/post/being/)
 - subsist
-- [Inhabit](/en/post/inhabit/)
+- [Inhabit](/post/inhabit/)
 - Abide

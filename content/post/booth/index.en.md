@@ -7,38 +7,38 @@ description = '[buːθ] n.货摊；公用电话亭'
 keywords = ['ai words', 'booth']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbuːθ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [structure](/en/post/structure/) [with](/en/post/with/) [a](/en/post/a/) [counter](/en/post/counter/) [or](/en/post/or/) [small](/en/post/small/) [room](/en/post/room/) [for](/en/post/for/) [service](/en/post/service/) [or](/en/post/or/) [display](/en/post/display/)**: "[The](/en/post/the/) bookshop had [a](/en/post/a/) cozy [reading](/en/post/reading/) [booth](/en/post/booth/) [by](/en/post/by/) [the](/en/post/the/) [window](/en/post/window/)."
-- **[A](/en/post/a/) designated [area](/en/post/area/) [at](/en/post/at/) an [event](/en/post/event/) [or](/en/post/or/) [exhibition](/en/post/exhibition/)**: "[The](/en/post/the/) [job](/en/post/job/) [fair](/en/post/fair/) had [several](/en/post/several/) [information](/en/post/information/) booths [where](/en/post/where/) visitors [could](/en/post/could/) [learn](/en/post/learn/) [about](/en/post/about/) [different](/en/post/different/) companies."
-- **[A](/en/post/a/) person's [place](/en/post/place/) [or](/en/post/or/) [station](/en/post/station/)**: "[She](/en/post/she/) took [her](/en/post/her/) [seat](/en/post/seat/) [at](/en/post/at/) [the](/en/post/the/) [interview](/en/post/interview/) [booth](/en/post/booth/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [structure](/post/structure/) [with](/post/with/) [a](/post/a/) [counter](/post/counter/) [or](/post/or/) [small](/post/small/) [room](/post/room/) [for](/post/for/) [service](/post/service/) [or](/post/or/) [display](/post/display/)**: "[The](/post/the/) bookshop had [a](/post/a/) cozy [reading](/post/reading/) [booth](/post/booth/) [by](/post/by/) [the](/post/the/) [window](/post/window/)."
+- **[A](/post/a/) designated [area](/post/area/) [at](/post/at/) an [event](/post/event/) [or](/post/or/) [exhibition](/post/exhibition/)**: "[The](/post/the/) [job](/post/job/) [fair](/post/fair/) had [several](/post/several/) [information](/post/information/) booths [where](/post/where/) visitors [could](/post/could/) [learn](/post/learn/) [about](/post/about/) [different](/post/different/) companies."
+- **[A](/post/a/) person's [place](/post/place/) [or](/post/or/) [station](/post/station/)**: "[She](/post/she/) took [her](/post/her/) [seat](/post/seat/) [at](/post/at/) [the](/post/the/) [interview](/post/interview/) [booth](/post/booth/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [occupy](/en/post/occupy/) [or](/en/post/or/) [use](/en/post/use/) [a](/en/post/a/) [booth](/en/post/booth/)**: "[He](/en/post/he/) stopped [at](/en/post/at/) [the](/en/post/the/) [coffee](/en/post/coffee/) [shop](/en/post/shop/) [to](/en/post/to/) grab [a](/en/post/a/) [booth](/en/post/booth/) [for](/en/post/for/) [a](/en/post/a/) [quiet](/en/post/quiet/) [work](/en/post/work/) [session](/en/post/session/)."
-- **[To](/en/post/to/) [attend](/en/post/attend/) [or](/en/post/or/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [booth](/en/post/booth/)**: "Visitors attended [various](/en/post/various/) [food](/en/post/food/) booths [at](/en/post/at/) [the](/en/post/the/) [festival](/en/post/festival/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [occupy](/post/occupy/) [or](/post/or/) [use](/post/use/) [a](/post/a/) [booth](/post/booth/)**: "[He](/post/he/) stopped [at](/post/at/) [the](/post/the/) [coffee](/post/coffee/) [shop](/post/shop/) [to](/post/to/) grab [a](/post/a/) [booth](/post/booth/) [for](/post/for/) [a](/post/a/) [quiet](/post/quiet/) [work](/post/work/) [session](/post/session/)."
+- **[To](/post/to/) [attend](/post/attend/) [or](/post/or/) [participate](/post/participate/) [in](/post/in/) [a](/post/a/) [booth](/post/booth/)**: "Visitors attended [various](/post/various/) [food](/post/food/) booths [at](/post/at/) [the](/post/the/) [festival](/post/festival/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Small](/en/post/small/) [and](/en/post/and/) enclosed**: "[The](/en/post/the/) telephone亭 was [a](/en/post/a/) [tiny](/en/post/tiny/) [red](/en/post/red/) [booth](/en/post/booth/)."
-- **Providing [a](/en/post/a/) [service](/en/post/service/) [or](/en/post/or/) merchandise**: "[The](/en/post/the/) [craft](/en/post/craft/) [fair](/en/post/fair/) featured [numerous](/en/post/numerous/) vendor booths."
+### [Adjective](/post/adjective/)
+- **[Small](/post/small/) [and](/post/and/) enclosed**: "[The](/post/the/) telephone亭 was [a](/post/a/) [tiny](/post/tiny/) [red](/post/red/) [booth](/post/booth/)."
+- **Providing [a](/post/a/) [service](/post/service/) [or](/post/or/) merchandise**: "[The](/post/the/) [craft](/post/craft/) [fair](/post/fair/) featured [numerous](/post/numerous/) vendor booths."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [seat](/en/post/seat/) [at](/en/post/at/) [the](/en/post/the/) [booth](/en/post/booth/)" [means](/en/post/means/) [to](/en/post/to/) [find](/en/post/find/) [a](/en/post/a/) [place](/en/post/place/) [to](/en/post/to/) [sit](/en/post/sit/).
-- "Browse [the](/en/post/the/) [exhibit](/en/post/exhibit/) booths" refers [to](/en/post/to/) exploring [different](/en/post/different/) displays.
-- "[Man](/en/post/man/) [the](/en/post/the/) [booth](/en/post/booth/)" is [a](/en/post/a/) colloquial [way](/en/post/way/) [to](/en/post/to/) [say](/en/post/say/) [to](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [charge](/en/post/charge/) [of](/en/post/of/) [a](/en/post/a/) designated [area](/en/post/area/).
+- "[Take](/post/take/) [a](/post/a/) [seat](/post/seat/) [at](/post/at/) [the](/post/the/) [booth](/post/booth/)" [means](/post/means/) [to](/post/to/) [find](/post/find/) [a](/post/a/) [place](/post/place/) [to](/post/to/) [sit](/post/sit/).
+- "Browse [the](/post/the/) [exhibit](/post/exhibit/) booths" refers [to](/post/to/) exploring [different](/post/different/) displays.
+- "[Man](/post/man/) [the](/post/the/) [booth](/post/booth/)" is [a](/post/a/) colloquial [way](/post/way/) [to](/post/to/) [say](/post/say/) [to](/post/to/) [be](/post/be/) [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [a](/post/a/) designated [area](/post/area/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children enjoyed coloring [at](/en/post/at/) [the](/en/post/the/) [activity](/en/post/activity/) [booth](/en/post/booth/) [at](/en/post/at/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [concert](/en/post/concert/), [he](/en/post/he/) stopped [by](/en/post/by/) [the](/en/post/the/) autograph [booth](/en/post/booth/) [to](/en/post/to/) [meet](/en/post/meet/) [his](/en/post/his/) favorite [band](/en/post/band/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) vintage [clothing](/en/post/clothing/) [booth](/en/post/booth/) drew [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [attention](/en/post/attention/) [at](/en/post/at/) [the](/en/post/the/) flea [market](/en/post/market/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children enjoyed coloring [at](/post/at/) [the](/post/the/) [activity](/post/activity/) [booth](/post/booth/) [at](/post/at/) [the](/post/the/) [park](/post/park/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [concert](/post/concert/), [he](/post/he/) stopped [by](/post/by/) [the](/post/the/) autograph [booth](/post/booth/) [to](/post/to/) [meet](/post/meet/) [his](/post/his/) favorite [band](/post/band/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) vintage [clothing](/post/clothing/) [booth](/post/booth/) drew [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [attention](/post/attention/) [at](/post/at/) [the](/post/the/) flea [market](/post/market/)."
 
 ## Synonyms
-- [Stand](/en/post/stand/)
-- [Display](/en/post/display/)
+- [Stand](/post/stand/)
+- [Display](/post/display/)
 - Kiosk
 - Stall
 - Enclosure
 - Quarters
-- [Counter](/en/post/counter/) [space](/en/post/space/)
+- [Counter](/post/counter/) [space](/post/space/)

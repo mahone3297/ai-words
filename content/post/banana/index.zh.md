@@ -11,20 +11,20 @@ keywords = ['ai words', 'banana']
 /bəˈnɑːnə/
 
 ## 释义
-- **名词 (n)**: 一种长形的黄色水果，有软而甜的果肉和可剥离的皮。例如: "I [love](/post/love/) eating bananas [for](/post/for/) [breakfast](/post/breakfast/)."
-- **形容词 (adj)**: 形容事物具有香蕉的形状或颜色。例如: "[The](/post/the/) [baby](/post/baby/) wore [a](/post/a/) banana-yellow [shirt](/post/shirt/)."
+- **名词 (n)**: 一种长形的黄色水果，有软而甜的果肉和可剥离的皮。例如: "I [love](/zh/post/love/) eating bananas [for](/zh/post/for/) [breakfast](/zh/post/breakfast/)."
+- **形容词 (adj)**: 形容事物具有香蕉的形状或颜色。例如: "[The](/zh/post/the/) [baby](/zh/post/baby/) wore [a](/zh/post/a/) banana-yellow [shirt](/zh/post/shirt/)."
 
 ## 短语
-- "[Go](/post/go/) bananas" 意为变得非常兴奋或疯狂。例如: "[When](/post/when/) [they](/post/they/) announced [the](/post/the/) [free](/post/free/) [concert](/post/concert/), [everyone](/post/everyone/) went bananas."
-- "[Peel](/post/peel/) [a](/post/a/) [banana](/post/banana/)" 指剥开香蕉皮。例如: "[Before](/post/before/) eating, [remember](/post/remember/) [to](/post/to/) [peel](/post/peel/) [the](/post/the/) [banana](/post/banana/) [first](/post/first/)."
+- "[Go](/zh/post/go/) bananas" 意为变得非常兴奋或疯狂。例如: "[When](/zh/post/when/) [they](/zh/post/they/) announced [the](/zh/post/the/) [free](/zh/post/free/) [concert](/zh/post/concert/), [everyone](/zh/post/everyone/) went bananas."
+- "[Peel](/zh/post/peel/) [a](/zh/post/a/) [banana](/zh/post/banana/)" 指剥开香蕉皮。例如: "[Before](/zh/post/before/) eating, [remember](/zh/post/remember/) [to](/zh/post/to/) [peel](/zh/post/peel/) [the](/zh/post/the/) [banana](/zh/post/banana/) [first](/zh/post/first/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [monkey](/post/monkey/) happily ate [the](/post/the/) [ripe](/post/ripe/) [banana](/post/banana/)."
-- 形容词: "[She](/post/she/) painted [the](/post/the/) walls [in](/post/in/) [a](/post/a/) [banana](/post/banana/) [shade](/post/shade/) [of](/post/of/) [yellow](/post/yellow/)."
+- 名词: "[The](/zh/post/the/) [monkey](/zh/post/monkey/) happily ate [the](/zh/post/the/) [ripe](/zh/post/ripe/) [banana](/zh/post/banana/)."
+- 形容词: "[She](/zh/post/she/) painted [the](/zh/post/the/) walls [in](/zh/post/in/) [a](/zh/post/a/) [banana](/zh/post/banana/) [shade](/zh/post/shade/) [of](/zh/post/of/) [yellow](/zh/post/yellow/)."
 
 ## 同义词
 - Plantain
-- Curved [fruit](/post/fruit/)
-- [Yellow](/post/yellow/) [fruit](/post/fruit/)
-- [Monkey](/post/monkey/) [fruit](/post/fruit/)
+- Curved [fruit](/zh/post/fruit/)
+- [Yellow](/zh/post/yellow/) [fruit](/zh/post/fruit/)
+- [Monkey](/zh/post/monkey/) [fruit](/zh/post/fruit/)
 - Banana-like

@@ -7,38 +7,38 @@ description = '[diˈraiv] vt.取得 vi.起源'
 keywords = ['ai words', 'derive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈraɪv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) obtaining [something](/en/post/something/) [by](/en/post/by/) reasoning, [analysis](/en/post/analysis/), [or](/en/post/or/) derivation [from](/en/post/from/) [another](/en/post/another/) [source](/en/post/source/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) theorem's derivation was [complex](/en/post/complex/) [and](/en/post/and/) involved [several](/en/post/several/) steps."
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [obtain](/en/post/obtain/) [or](/en/post/or/) [come](/en/post/come/) [by](/en/post/by/) ([a](/en/post/a/) [word](/en/post/word/), [meaning](/en/post/meaning/), [or](/en/post/or/) [idea](/en/post/idea/)) [through](/en/post/through/) [logical](/en/post/logical/) [development](/en/post/development/) [or](/en/post/or/) inference. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) linguist derived [new](/en/post/new/) [vocabulary](/en/post/vocabulary/) [from](/en/post/from/) [ancient](/en/post/ancient/) languages."
-2. [To](/en/post/to/) originate [or](/en/post/or/) [result](/en/post/result/) [from](/en/post/from/) [a](/en/post/a/) [particular](/en/post/particular/) [source](/en/post/source/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [theory](/en/post/theory/) was derived [from](/en/post/from/) earlier [research](/en/post/research/)."
-3. [To](/en/post/to/) [calculate](/en/post/calculate/) [or](/en/post/or/) [find](/en/post/find/) [the](/en/post/the/) numerical [value](/en/post/value/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Derive](/en/post/derive/) [the](/en/post/the/) [area](/en/post/area/) [of](/en/post/of/) [the](/en/post/the/) [triangle](/en/post/triangle/)."
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) obtaining [something](/post/something/) [by](/post/by/) reasoning, [analysis](/post/analysis/), [or](/post/or/) derivation [from](/post/from/) [another](/post/another/) [source](/post/source/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) theorem's derivation was [complex](/post/complex/) [and](/post/and/) involved [several](/post/several/) steps."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [obtain](/post/obtain/) [or](/post/or/) [come](/post/come/) [by](/post/by/) ([a](/post/a/) [word](/post/word/), [meaning](/post/meaning/), [or](/post/or/) [idea](/post/idea/)) [through](/post/through/) [logical](/post/logical/) [development](/post/development/) [or](/post/or/) inference. [For](/post/for/) [example](/post/example/): "[The](/post/the/) linguist derived [new](/post/new/) [vocabulary](/post/vocabulary/) [from](/post/from/) [ancient](/post/ancient/) languages."
+2. [To](/post/to/) originate [or](/post/or/) [result](/post/result/) [from](/post/from/) [a](/post/a/) [particular](/post/particular/) [source](/post/source/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [theory](/post/theory/) was derived [from](/post/from/) earlier [research](/post/research/)."
+3. [To](/post/to/) [calculate](/post/calculate/) [or](/post/or/) [find](/post/find/) [the](/post/the/) numerical [value](/post/value/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Derive](/post/derive/) [the](/post/the/) [area](/post/area/) [of](/post/of/) [the](/post/the/) [triangle](/post/triangle/)."
 
 ## Phrases
-- "[Derive](/en/post/derive/) [a](/en/post/a/) [conclusion](/en/post/conclusion/)" [means](/en/post/means/) [to](/en/post/to/) [reach](/en/post/reach/) [a](/en/post/a/) [logical](/en/post/logical/) [conclusion](/en/post/conclusion/) based [on](/en/post/on/) [evidence](/en/post/evidence/) [or](/en/post/or/) reasoning.
-- "Derivation rules" are [the](/en/post/the/) guidelines [for](/en/post/for/) forming words [in](/en/post/in/) [a](/en/post/a/) [language](/en/post/language/).
-- "Derivative [work](/en/post/work/)" refers [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) creation based [on](/en/post/on/) an [original](/en/post/original/) [work](/en/post/work/).
+- "[Derive](/post/derive/) [a](/post/a/) [conclusion](/post/conclusion/)" [means](/post/means/) [to](/post/to/) [reach](/post/reach/) [a](/post/a/) [logical](/post/logical/) [conclusion](/post/conclusion/) based [on](/post/on/) [evidence](/post/evidence/) [or](/post/or/) reasoning.
+- "Derivation rules" are [the](/post/the/) guidelines [for](/post/for/) forming words [in](/post/in/) [a](/post/a/) [language](/post/language/).
+- "Derivative [work](/post/work/)" refers [to](/post/to/) [a](/post/a/) [new](/post/new/) creation based [on](/post/on/) an [original](/post/original/) [work](/post/work/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) mathematician presented [a](/en/post/a/) [clear](/en/post/clear/) derivation [of](/en/post/of/) [the](/en/post/the/) [formula](/en/post/formula/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) studying [physics](/en/post/physics/), [he](/en/post/he/) derived [the](/en/post/the/) [formula](/en/post/formula/) [for](/en/post/for/) kinetic [energy](/en/post/energy/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [artist](/en/post/artist/) derived inspiration [for](/en/post/for/) [her](/en/post/her/) [new](/en/post/new/) [painting](/en/post/painting/) [from](/en/post/from/) [nature](/en/post/nature/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) mathematician presented [a](/post/a/) [clear](/post/clear/) derivation [of](/post/of/) [the](/post/the/) [formula](/post/formula/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) studying [physics](/post/physics/), [he](/post/he/) derived [the](/post/the/) [formula](/post/formula/) [for](/post/for/) kinetic [energy](/post/energy/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [artist](/post/artist/) derived inspiration [for](/post/for/) [her](/post/her/) [new](/post/new/) [painting](/post/painting/) [from](/post/from/) [nature](/post/nature/)."
 
 ## Synonyms
-- [Obtain](/en/post/obtain/)
-- [Infer](/en/post/infer/)
+- [Obtain](/post/obtain/)
+- [Infer](/post/infer/)
 - Extract
-- [Generate](/en/post/generate/)
+- [Generate](/post/generate/)
 - Elucidate
 - Formulate
 
 ## Antonyms
 - Obfuscate
 - Misinterpret
-- [Misunderstand](/en/post/misunderstand/)
+- [Misunderstand](/post/misunderstand/)
 - Misrepresent
 - Misderive

@@ -7,32 +7,32 @@ description = '[inˈfɔːm] vt.通知，向…报告'
 keywords = ['ai words', 'inform']
 +++
 
-## [Word](/en/post/word/): [Inform](/en/post/inform/)
+## [Word](/post/word/): [Inform](/post/inform/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈfɔːrm/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [give](/en/post/give/) [information](/en/post/information/) [or](/en/post/or/) [communicate](/en/post/communicate/) [knowledge](/en/post/knowledge/) [to](/en/post/to/) [someone](/en/post/someone/) [about](/en/post/about/) [something](/en/post/something/), typically [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) [or](/en/post/or/) [official](/en/post/official/) [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [police](/en/post/police/) informed [him](/en/post/him/) [that](/en/post/that/) [his](/en/post/his/) [car](/en/post/car/) had been stolen."
-  - _Inform [someone](/en/post/someone/) [of](/en/post/of/) something_: [To](/en/post/to/) [tell](/en/post/tell/) [someone](/en/post/someone/) [about](/en/post/about/) [a](/en/post/a/) [particular](/en/post/particular/) [fact](/en/post/fact/) [or](/en/post/or/) [situation](/en/post/situation/). [Example](/en/post/example/): "I [will](/en/post/will/) [inform](/en/post/inform/) [you](/en/post/you/) [of](/en/post/of/) [any](/en/post/any/) updates [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [information](/en/post/information/) [or](/en/post/or/) [communication](/en/post/communication/) [of](/en/post/of/) [knowledge](/en/post/knowledge/); [information](/en/post/information/) [provided](/en/post/provided/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) received [no](/en/post/no/) [prior](/en/post/prior/) [inform](/en/post/inform/) [about](/en/post/about/) [the](/en/post/the/) [change](/en/post/change/) [in](/en/post/in/) [schedule](/en/post/schedule/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [give](/post/give/) [information](/post/information/) [or](/post/or/) [communicate](/post/communicate/) [knowledge](/post/knowledge/) [to](/post/to/) [someone](/post/someone/) [about](/post/about/) [something](/post/something/), typically [in](/post/in/) [a](/post/a/) [formal](/post/formal/) [or](/post/or/) [official](/post/official/) [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [police](/post/police/) informed [him](/post/him/) [that](/post/that/) [his](/post/his/) [car](/post/car/) had been stolen."
+  - _Inform [someone](/post/someone/) [of](/post/of/) something_: [To](/post/to/) [tell](/post/tell/) [someone](/post/someone/) [about](/post/about/) [a](/post/a/) [particular](/post/particular/) [fact](/post/fact/) [or](/post/or/) [situation](/post/situation/). [Example](/post/example/): "I [will](/post/will/) [inform](/post/inform/) [you](/post/you/) [of](/post/of/) [any](/post/any/) updates [on](/post/on/) [the](/post/the/) [project](/post/project/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [information](/post/information/) [or](/post/or/) [communication](/post/communication/) [of](/post/of/) [knowledge](/post/knowledge/); [information](/post/information/) [provided](/post/provided/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) received [no](/post/no/) [prior](/post/prior/) [inform](/post/inform/) [about](/post/about/) [the](/post/the/) [change](/post/change/) [in](/post/in/) [schedule](/post/schedule/)."
 
 ## Phrases
-- _Inform [against](/en/post/against/) someone_: [To](/en/post/to/) [give](/en/post/give/) [information](/en/post/information/) [to](/en/post/to/) authorities, [usually](/en/post/usually/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) incriminating [someone](/en/post/someone/). [Example](/en/post/example/): "[He](/en/post/he/) decided [to](/en/post/to/) [inform](/en/post/inform/) [against](/en/post/against/) [his](/en/post/his/) accomplices [to](/en/post/to/) [reduce](/en/post/reduce/) [his](/en/post/his/) [sentence](/en/post/sentence/)."
-- _Keep [someone](/en/post/someone/) informed_: [To](/en/post/to/) [regularly](/en/post/regularly/) update [someone](/en/post/someone/) [with](/en/post/with/) [new](/en/post/new/) [information](/en/post/information/). [Example](/en/post/example/): "[Please](/en/post/please/) [keep](/en/post/keep/) [us](/en/post/us/) informed [of](/en/post/of/) [your](/en/post/your/) [progress](/en/post/progress/)."
+- _Inform [against](/post/against/) someone_: [To](/post/to/) [give](/post/give/) [information](/post/information/) [to](/post/to/) authorities, [usually](/post/usually/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) incriminating [someone](/post/someone/). [Example](/post/example/): "[He](/post/he/) decided [to](/post/to/) [inform](/post/inform/) [against](/post/against/) [his](/post/his/) accomplices [to](/post/to/) [reduce](/post/reduce/) [his](/post/his/) [sentence](/post/sentence/)."
+- _Keep [someone](/post/someone/) informed_: [To](/post/to/) [regularly](/post/regularly/) update [someone](/post/someone/) [with](/post/with/) [new](/post/new/) [information](/post/information/). [Example](/post/example/): "[Please](/post/please/) [keep](/post/keep/) [us](/post/us/) informed [of](/post/of/) [your](/post/your/) [progress](/post/progress/)."
   
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) manager informed [the](/en/post/the/) [team](/en/post/team/) [that](/en/post/that/) [the](/en/post/the/) [meeting](/en/post/meeting/) [would](/en/post/would/) [be](/en/post/be/) postponed."
-- _As [a](/en/post/a/) Noun_: "[His](/en/post/his/) [decision](/en/post/decision/) was based [solely](/en/post/solely/) [on](/en/post/on/) [the](/en/post/the/) [inform](/en/post/inform/) [he](/en/post/he/) had gathered [from](/en/post/from/) [various](/en/post/various/) sources."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) manager informed [the](/post/the/) [team](/post/team/) [that](/post/that/) [the](/post/the/) [meeting](/post/meeting/) [would](/post/would/) [be](/post/be/) postponed."
+- _As [a](/post/a/) Noun_: "[His](/post/his/) [decision](/post/decision/) was based [solely](/post/solely/) [on](/post/on/) [the](/post/the/) [inform](/post/inform/) [he](/post/he/) had gathered [from](/post/from/) [various](/post/various/) sources."
 
 ## Synonyms
-- [Advise](/en/post/advise/)
+- [Advise](/post/advise/)
 - Notify
 - Update
 - Enlighten
-- [Educate](/en/post/educate/)
-- [Tell](/en/post/tell/)
-- [Communicate](/en/post/communicate/)
-- [Report](/en/post/report/)
+- [Educate](/post/educate/)
+- [Tell](/post/tell/)
+- [Communicate](/post/communicate/)
+- [Report](/post/report/)
 - Alert
 - Instruct

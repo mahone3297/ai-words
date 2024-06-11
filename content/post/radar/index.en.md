@@ -7,33 +7,33 @@ description = '[ˈreidə] n.雷达，无线电探测器'
 keywords = ['ai words', 'radar']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəˈdɑːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Radar](/en/post/radar/)** (abbreviation [of](/en/post/of/) '[Radio](/en/post/radio/) [Detection](/en/post/detection/) [and](/en/post/and/) Ranging'):  
-1. [A](/en/post/a/) [system](/en/post/system/) [that](/en/post/that/) uses [radio](/en/post/radio/) waves [to](/en/post/to/) [detect](/en/post/detect/) objects, [especially](/en/post/especially/) [to](/en/post/to/) [locate](/en/post/locate/) [their](/en/post/their/) [distance](/en/post/distance/), [direction](/en/post/direction/), [or](/en/post/or/) [speed](/en/post/speed/), [especially](/en/post/especially/) [in](/en/post/in/) [aviation](/en/post/aviation/) [and](/en/post/and/) [navigation](/en/post/navigation/).
-2. [countable] An [instance](/en/post/instance/) [or](/en/post/or/) [device](/en/post/device/) using [this](/en/post/this/) [technology](/en/post/technology/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) ship's [radar](/en/post/radar/) detected [a](/en/post/a/) [nearby](/en/post/nearby/) iceberg."
+### [Noun](/post/noun/)
+**[Radar](/post/radar/)** (abbreviation [of](/post/of/) '[Radio](/post/radio/) [Detection](/post/detection/) [and](/post/and/) Ranging'):  
+1. [A](/post/a/) [system](/post/system/) [that](/post/that/) uses [radio](/post/radio/) waves [to](/post/to/) [detect](/post/detect/) objects, [especially](/post/especially/) [to](/post/to/) [locate](/post/locate/) [their](/post/their/) [distance](/post/distance/), [direction](/post/direction/), [or](/post/or/) [speed](/post/speed/), [especially](/post/especially/) [in](/post/in/) [aviation](/post/aviation/) [and](/post/and/) [navigation](/post/navigation/).
+2. [countable] An [instance](/post/instance/) [or](/post/or/) [device](/post/device/) using [this](/post/this/) [technology](/post/technology/).
+   - [Example](/post/example/): "[The](/post/the/) ship's [radar](/post/radar/) detected [a](/post/a/) [nearby](/post/nearby/) iceberg."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [scan](/en/post/scan/) [or](/en/post/or/) [track](/en/post/track/) using [radar](/en/post/radar/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [pilot](/en/post/pilot/) radared [the](/en/post/the/) [area](/en/post/area/) [for](/en/post/for/) [potential](/en/post/potential/) [weather](/en/post/weather/) hazards."
+### [Verb](/post/verb/)
+- [To](/post/to/) [scan](/post/scan/) [or](/post/or/) [track](/post/track/) using [radar](/post/radar/).
+   - [Example](/post/example/): "[The](/post/the/) [pilot](/post/pilot/) radared [the](/post/the/) [area](/post/area/) [for](/post/for/) [potential](/post/potential/) [weather](/post/weather/) hazards."
 
 ## Phrases
-- "[Radar](/en/post/radar/) imagery" refers [to](/en/post/to/) images produced [by](/en/post/by/) [radar](/en/post/radar/) systems.
-- "[Radar](/en/post/radar/) [signature](/en/post/signature/)" is [the](/en/post/the/) [unique](/en/post/unique/) [pattern](/en/post/pattern/) [of](/en/post/of/) reflected [radar](/en/post/radar/) signals [that](/en/post/that/) identifies an [object](/en/post/object/).
-- "[Radar](/en/post/radar/) [lock](/en/post/lock/)" [means](/en/post/means/) maintaining [a](/en/post/a/) [constant](/en/post/constant/) [radar](/en/post/radar/) [signal](/en/post/signal/) [on](/en/post/on/) [a](/en/post/a/) [target](/en/post/target/).
+- "[Radar](/post/radar/) imagery" refers [to](/post/to/) images produced [by](/post/by/) [radar](/post/radar/) systems.
+- "[Radar](/post/radar/) [signature](/post/signature/)" is [the](/post/the/) [unique](/post/unique/) [pattern](/post/pattern/) [of](/post/of/) reflected [radar](/post/radar/) signals [that](/post/that/) identifies an [object](/post/object/).
+- "[Radar](/post/radar/) [lock](/post/lock/)" [means](/post/means/) maintaining [a](/post/a/) [constant](/post/constant/) [radar](/post/radar/) [signal](/post/signal/) [on](/post/on/) [a](/post/a/) [target](/post/target/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [air](/en/post/air/) [traffic](/en/post/traffic/) controller relied [on](/en/post/on/) [the](/en/post/the/) [radar](/en/post/radar/) [to](/en/post/to/) [guide](/en/post/guide/) incoming planes."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [Coast](/en/post/coast/) [Guard](/en/post/guard/) [radar](/en/post/radar/) tracked [the](/en/post/the/) lost hiker [through](/en/post/through/) [the](/en/post/the/) [dense](/en/post/dense/) [forest](/en/post/forest/)."
-- **[Passive](/en/post/passive/)**: "[The](/en/post/the/) [storm](/en/post/storm/) was picked [up](/en/post/up/) [by](/en/post/by/) [radar](/en/post/radar/) [before](/en/post/before/) [it](/en/post/it/) reached [the](/en/post/the/) [city](/en/post/city/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [air](/post/air/) [traffic](/post/traffic/) controller relied [on](/post/on/) [the](/post/the/) [radar](/post/radar/) [to](/post/to/) [guide](/post/guide/) incoming planes."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [Coast](/post/coast/) [Guard](/post/guard/) [radar](/post/radar/) tracked [the](/post/the/) lost hiker [through](/post/through/) [the](/post/the/) [dense](/post/dense/) [forest](/post/forest/)."
+- **[Passive](/post/passive/)**: "[The](/post/the/) [storm](/post/storm/) was picked [up](/post/up/) [by](/post/by/) [radar](/post/radar/) [before](/post/before/) [it](/post/it/) reached [the](/post/the/) [city](/post/city/)."
 
 ## Synonyms
-- [Radar](/en/post/radar/) [scan](/en/post/scan/)
-- [Radar](/en/post/radar/) [detection](/en/post/detection/)
-- [Radar](/en/post/radar/) tracking
-- Airborne warning [and](/en/post/and/) [control](/en/post/control/) [system](/en/post/system/) (AWACS)
-- Sonar ([for](/en/post/for/) underwater [detection](/en/post/detection/))
+- [Radar](/post/radar/) [scan](/post/scan/)
+- [Radar](/post/radar/) [detection](/post/detection/)
+- [Radar](/post/radar/) tracking
+- Airborne warning [and](/post/and/) [control](/post/control/) [system](/post/system/) (AWACS)
+- Sonar ([for](/post/for/) underwater [detection](/post/detection/))

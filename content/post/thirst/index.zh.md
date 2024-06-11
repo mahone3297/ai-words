@@ -11,20 +11,20 @@ keywords = ['ai words', 'thirst']
 /θɜːrst/
 
 ## 释义
-- **名词**: 渴望，渴求。例如: "[She](/post/she/) had [a](/post/a/) [strong](/post/strong/) [thirst](/post/thirst/) [for](/post/for/) [knowledge](/post/knowledge/)."
-- **动词**: 感到口渴；渴望得到。例如: "[After](/post/after/) running, [he](/post/he/) thirsted [for](/post/for/) [a](/post/a/) [cold](/post/cold/) [drink](/post/drink/)."
+- **名词**: 渴望，渴求。例如: "[She](/zh/post/she/) had [a](/zh/post/a/) [strong](/zh/post/strong/) [thirst](/zh/post/thirst/) [for](/zh/post/for/) [knowledge](/zh/post/knowledge/)."
+- **动词**: 感到口渴；渴望得到。例如: "[After](/zh/post/after/) running, [he](/zh/post/he/) thirsted [for](/zh/post/for/) [a](/zh/post/a/) [cold](/zh/post/cold/) [drink](/zh/post/drink/)."
 
 ## 短语
-- "[Thirst](/post/thirst/) quenching" 指的是消除口渴或满足渴望。
-- "[Thirst](/post/thirst/) [for](/post/for/) [something](/post/something/)" 表示对某事物的强烈欲望。
+- "[Thirst](/zh/post/thirst/) quenching" 指的是消除口渴或满足渴望。
+- "[Thirst](/zh/post/thirst/) [for](/zh/post/for/) [something](/zh/post/something/)" 表示对某事物的强烈欲望。
 
 ## 例句
-- 名词: "[His](/post/his/) [thirst](/post/thirst/) [for](/post/for/) [adventure](/post/adventure/) led [him](/post/him/) [to](/post/to/) [explore](/post/explore/) [unknown](/post/unknown/) territories."
-- 动词: "[After](/post/after/) [a](/post/a/) [long](/post/long/) hike, [they](/post/they/) were [all](/post/all/) thirsting [for](/post/for/) [water](/post/water/)."
+- 名词: "[His](/zh/post/his/) [thirst](/zh/post/thirst/) [for](/zh/post/for/) [adventure](/zh/post/adventure/) led [him](/zh/post/him/) [to](/zh/post/to/) [explore](/zh/post/explore/) [unknown](/zh/post/unknown/) territories."
+- 动词: "[After](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) hike, [they](/zh/post/they/) were [all](/zh/post/all/) thirsting [for](/zh/post/for/) [water](/zh/post/water/)."
 
 ## 同义词
-- [Desire](/post/desire/)
-- [Hunger](/post/hunger/)
+- [Desire](/zh/post/desire/)
+- [Hunger](/zh/post/hunger/)
 - Longing
-- [Appetite](/post/appetite/)
+- [Appetite](/zh/post/appetite/)
 - Craving

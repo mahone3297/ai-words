@@ -7,34 +7,34 @@ description = '[welθ] n.财富，财产；丰富'
 keywords = ['ai words', 'wealth']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /weθ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) having [a](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) [or](/en/post/or/) [valuable](/en/post/valuable/) possessions; riches. [Example](/en/post/example/): "He积累了一大笔财富。"
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [acquire](/en/post/acquire/) [or](/en/post/or/) [possess](/en/post/possess/) [a](/en/post/a/) [significant](/en/post/significant/) [amount](/en/post/amount/) [of](/en/post/of/) [wealth](/en/post/wealth/) [or](/en/post/or/) [financial](/en/post/financial/) resources. [Example](/en/post/example/): "[She](/en/post/she/) has been [fortunate](/en/post/fortunate/) [enough](/en/post/enough/) [to](/en/post/to/) amass [great](/en/post/great/) [wealth](/en/post/wealth/) [over](/en/post/over/) [the](/en/post/the/) years."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) indicating abundance [of](/en/post/of/) [material](/en/post/material/) possessions [or](/en/post/or/) [financial](/en/post/financial/) resources. [Example](/en/post/example/): "[Their](/en/post/their/) lavish lifestyle reflected [their](/en/post/their/) [immense](/en/post/immense/) [wealth](/en/post/wealth/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [of](/post/of/) having [a](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) [or](/post/or/) [valuable](/post/valuable/) possessions; riches. [Example](/post/example/): "He积累了一大笔财富。"
+- **[Verb](/post/verb/)**: [To](/post/to/) [acquire](/post/acquire/) [or](/post/or/) [possess](/post/possess/) [a](/post/a/) [significant](/post/significant/) [amount](/post/amount/) [of](/post/of/) [wealth](/post/wealth/) [or](/post/or/) [financial](/post/financial/) resources. [Example](/post/example/): "[She](/post/she/) has been [fortunate](/post/fortunate/) [enough](/post/enough/) [to](/post/to/) amass [great](/post/great/) [wealth](/post/wealth/) [over](/post/over/) [the](/post/the/) years."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) indicating abundance [of](/post/of/) [material](/post/material/) possessions [or](/post/or/) [financial](/post/financial/) resources. [Example](/post/example/): "[Their](/post/their/) lavish lifestyle reflected [their](/post/their/) [immense](/post/immense/) [wealth](/post/wealth/)."
 
 ## Phrases
-- "[Build](/en/post/build/) [up](/en/post/up/) one's [wealth](/en/post/wealth/)" [means](/en/post/means/) [to](/en/post/to/) [accumulate](/en/post/accumulate/) assets [or](/en/post/or/) [increase](/en/post/increase/) one's [financial](/en/post/financial/) [worth](/en/post/worth/).
-- "[Live](/en/post/live/) [off](/en/post/off/) one's [wealth](/en/post/wealth/)" describes [someone](/en/post/someone/) relying [on](/en/post/on/) [their](/en/post/their/) [financial](/en/post/financial/) resources [without](/en/post/without/) working.
-- "[Wealth](/en/post/wealth/) inequality" refers [to](/en/post/to/) [the](/en/post/the/) unequal [distribution](/en/post/distribution/) [of](/en/post/of/) [wealth](/en/post/wealth/) [among](/en/post/among/) individuals [or](/en/post/or/) societies.
+- "[Build](/post/build/) [up](/post/up/) one's [wealth](/post/wealth/)" [means](/post/means/) [to](/post/to/) [accumulate](/post/accumulate/) assets [or](/post/or/) [increase](/post/increase/) one's [financial](/post/financial/) [worth](/post/worth/).
+- "[Live](/post/live/) [off](/post/off/) one's [wealth](/post/wealth/)" describes [someone](/post/someone/) relying [on](/post/on/) [their](/post/their/) [financial](/post/financial/) resources [without](/post/without/) working.
+- "[Wealth](/post/wealth/) inequality" refers [to](/post/to/) [the](/post/the/) unequal [distribution](/post/distribution/) [of](/post/of/) [wealth](/post/wealth/) [among](/post/among/) individuals [or](/post/or/) societies.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) family's [wealth](/en/post/wealth/) came [from](/en/post/from/) generations [of](/en/post/of/) [successful](/en/post/successful/) businesses."
-- **[Verb](/en/post/verb/)**: "[Through](/en/post/through/) [careful](/en/post/careful/) investments, [they](/en/post/they/) managed [to](/en/post/to/) [double](/en/post/double/) [their](/en/post/their/) [wealth](/en/post/wealth/) [in](/en/post/in/) [just](/en/post/just/) [five](/en/post/five/) years."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) felt [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) contentment [despite](/en/post/despite/) [her](/en/post/her/) [immense](/en/post/immense/) [wealth](/en/post/wealth/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) family's [wealth](/post/wealth/) came [from](/post/from/) generations [of](/post/of/) [successful](/post/successful/) businesses."
+- **[Verb](/post/verb/)**: "[Through](/post/through/) [careful](/post/careful/) investments, [they](/post/they/) managed [to](/post/to/) [double](/post/double/) [their](/post/their/) [wealth](/post/wealth/) [in](/post/in/) [just](/post/just/) [five](/post/five/) years."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) felt [a](/post/a/) [sense](/post/sense/) [of](/post/of/) contentment [despite](/post/despite/) [her](/post/her/) [immense](/post/immense/) [wealth](/post/wealth/)."
 
 ## Synonyms
 - Riches
 - Fortunes
-- [Prosperity](/en/post/prosperity/)
+- [Prosperity](/post/prosperity/)
 - Affluence
 - Abundance
 
 ## Antonyms
-- [Poverty](/en/post/poverty/)
+- [Poverty](/post/poverty/)
 - Penury
-- [Struggle](/en/post/struggle/)
+- [Struggle](/post/struggle/)
 - Insolvency
-- [Want](/en/post/want/)
+- [Want](/post/want/)

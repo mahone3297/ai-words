@@ -11,20 +11,20 @@ keywords = ['ai words', 'favourable']
 /fəˈvərəbl/
 
 ## 释义
-- **形容词**: 有利的，赞同的，给予支持的。例如: "[The](/post/the/) [weather](/post/weather/) was [favourable](/post/favourable/) [for](/post/for/) [a](/post/a/) [picnic](/post/picnic/)."
-- **副词**: 有利地，善意地。例如: "[The](/post/the/) [proposal](/post/proposal/) was received favourably [by](/post/by/) [the](/post/the/) [committee](/post/committee/)."
+- **形容词**: 有利的，赞同的，给予支持的。例如: "[The](/zh/post/the/) [weather](/zh/post/weather/) was [favourable](/zh/post/favourable/) [for](/zh/post/for/) [a](/zh/post/a/) [picnic](/zh/post/picnic/)."
+- **副词**: 有利地，善意地。例如: "[The](/zh/post/the/) [proposal](/zh/post/proposal/) was received favourably [by](/zh/post/by/) [the](/zh/post/the/) [committee](/zh/post/committee/)."
 
 ## 短语
-- "[in](/post/in/) [favour](/post/favour/) [of](/post/of/)" 支持，赞同。例如: "[Most](/post/most/) [of](/post/of/) [the](/post/the/) voters were [in](/post/in/) [favour](/post/favour/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [policy](/post/policy/)."
-- "[favourable](/post/favourable/) conditions" 有利条件。例如: "[The](/post/the/) company's [growth](/post/growth/) is [due](/post/due/) [to](/post/to/) [the](/post/the/) [favourable](/post/favourable/) [economic](/post/economic/) conditions."
+- "[in](/zh/post/in/) [favour](/zh/post/favour/) [of](/zh/post/of/)" 支持，赞同。例如: "[Most](/zh/post/most/) [of](/zh/post/of/) [the](/zh/post/the/) voters were [in](/zh/post/in/) [favour](/zh/post/favour/) [of](/zh/post/of/) [the](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/)."
+- "[favourable](/zh/post/favourable/) conditions" 有利条件。例如: "[The](/zh/post/the/) company's [growth](/zh/post/growth/) is [due](/zh/post/due/) [to](/zh/post/to/) [the](/zh/post/the/) [favourable](/zh/post/favourable/) [economic](/zh/post/economic/) conditions."
 
 ## 例句
-- 形容词: "[The](/post/the/) [review](/post/review/) [of](/post/of/) [the](/post/the/) [book](/post/book/) was [largely](/post/largely/) [favourable](/post/favourable/)."
-- 副词: "[The](/post/the/) [project](/post/project/) was executed favourably, exceeding expectations."
+- 形容词: "[The](/zh/post/the/) [review](/zh/post/review/) [of](/zh/post/of/) [the](/zh/post/the/) [book](/zh/post/book/) was [largely](/zh/post/largely/) [favourable](/zh/post/favourable/)."
+- 副词: "[The](/zh/post/the/) [project](/zh/post/project/) was executed favourably, exceeding expectations."
 
 ## 同义词
-- [Positive](/post/positive/)
-- [Beneficial](/post/beneficial/)
+- [Positive](/zh/post/positive/)
+- [Beneficial](/zh/post/beneficial/)
 - Supportive
 - Approving
 - Advantageous

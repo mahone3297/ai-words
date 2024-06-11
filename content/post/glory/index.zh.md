@@ -12,25 +12,25 @@ keywords = ['ai words', 'glory']
 
 ## 释义
 - **名词**:
-    - 荣誉；光荣：[The](/post/the/) soldiers fought [for](/post/for/) [the](/post/the/) [glory](/post/glory/) [of](/post/of/) [their](/post/their/) [country](/post/country/).
-    - 壮丽，辉煌：[The](/post/the/) [sunset](/post/sunset/) was [a](/post/a/) [glorious](/post/glorious/) [display](/post/display/) [of](/post/of/) colors.
-    - （常复数）崇拜的对象，神灵：[They](/post/they/) bowed [down](/post/down/) [before](/post/before/) [the](/post/the/) statues [in](/post/in/) [glory](/post/glory/).
+    - 荣誉；光荣：[The](/zh/post/the/) soldiers fought [for](/zh/post/for/) [the](/zh/post/the/) [glory](/zh/post/glory/) [of](/zh/post/of/) [their](/zh/post/their/) [country](/zh/post/country/).
+    - 壮丽，辉煌：[The](/zh/post/the/) [sunset](/zh/post/sunset/) was [a](/zh/post/a/) [glorious](/zh/post/glorious/) [display](/zh/post/display/) [of](/zh/post/of/) colors.
+    - （常复数）崇拜的对象，神灵：[They](/zh/post/they/) bowed [down](/zh/post/down/) [before](/zh/post/before/) [the](/zh/post/the/) statues [in](/zh/post/in/) [glory](/zh/post/glory/).
 
 - **动词**:
-    - 以...为荣，引以为豪：[She](/post/she/) glories [in](/post/in/) [her](/post/her/) children's achievements.
-    - 颂扬，赞美：[The](/post/the/) [poet](/post/poet/) gloried [the](/post/the/) [beauty](/post/beauty/) [of](/post/of/) [nature](/post/nature/).
+    - 以...为荣，引以为豪：[She](/zh/post/she/) glories [in](/zh/post/in/) [her](/zh/post/her/) children's achievements.
+    - 颂扬，赞美：[The](/zh/post/the/) [poet](/zh/post/poet/) gloried [the](/zh/post/the/) [beauty](/zh/post/beauty/) [of](/zh/post/of/) [nature](/zh/post/nature/).
 
 ## 短语
-- "[in](/post/in/) [the](/post/the/) [glory](/post/glory/) [of](/post/of/)" 在...的辉煌中：[We](/post/we/) were [there](/post/there/) [in](/post/in/) [the](/post/the/) [glory](/post/glory/) [of](/post/of/) [spring](/post/spring/).
-- "[to](/post/to/) [glory](/post/glory/) [in](/post/in/) [something](/post/something/)" 为...感到自豪：[She](/post/she/) glories [in](/post/in/) [her](/post/her/) newfound [independence](/post/independence/).
+- "[in](/zh/post/in/) [the](/zh/post/the/) [glory](/zh/post/glory/) [of](/zh/post/of/)" 在...的辉煌中：[We](/zh/post/we/) were [there](/zh/post/there/) [in](/zh/post/in/) [the](/zh/post/the/) [glory](/zh/post/glory/) [of](/zh/post/of/) [spring](/zh/post/spring/).
+- "[to](/zh/post/to/) [glory](/zh/post/glory/) [in](/zh/post/in/) [something](/zh/post/something/)" 为...感到自豪：[She](/zh/post/she/) glories [in](/zh/post/in/) [her](/zh/post/her/) newfound [independence](/zh/post/independence/).
 
 ## 例句
-- 名词: "[He](/post/he/) received [a](/post/a/) [medal](/post/medal/) [for](/post/for/) [his](/post/his/) bravery, basking [in](/post/in/) [the](/post/the/) [glory](/post/glory/) [of](/post/of/) [his](/post/his/) accomplishment."
-- 动词: "[She](/post/she/) glories [in](/post/in/) [her](/post/her/) [ability](/post/ability/) [to](/post/to/) [solve](/post/solve/) [complex](/post/complex/) problems."
+- 名词: "[He](/zh/post/he/) received [a](/zh/post/a/) [medal](/zh/post/medal/) [for](/zh/post/for/) [his](/zh/post/his/) bravery, basking [in](/zh/post/in/) [the](/zh/post/the/) [glory](/zh/post/glory/) [of](/zh/post/of/) [his](/zh/post/his/) accomplishment."
+- 动词: "[She](/zh/post/she/) glories [in](/zh/post/in/) [her](/zh/post/her/) [ability](/zh/post/ability/) [to](/zh/post/to/) [solve](/zh/post/solve/) [complex](/zh/post/complex/) problems."
 
 ## 同义词
 - Honor
-- [Fame](/post/fame/)
+- [Fame](/zh/post/fame/)
 - Renown
 - Esteem
 - Splendor

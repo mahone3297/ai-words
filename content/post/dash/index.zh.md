@@ -11,22 +11,22 @@ keywords = ['ai words', 'dash']
 /dæʃ/
 
 ## 释义
-- **名词**: 符号 “-”，用于连接或中断单词、短语，或者表示省略、间隔或强调。例如: "There's [a](/post/a/) [dash](/post/dash/) [in](/post/in/) [the](/post/the/) [middle](/post/middle/) [of](/post/of/) [the](/post/the/) [word](/post/word/) 're-enter'."
-- **动词**: 急速移动或冲向。例如: "[He](/post/he/) dashed [across](/post/across/) [the](/post/the/) [street](/post/street/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [bus](/post/bus/)."
-- **形容词**: 迅速的，短暂的。例如: "[A](/post/a/) [dash](/post/dash/) [of](/post/of/) [rain](/post/rain/) fell [from](/post/from/) [the](/post/the/) [sky](/post/sky/)."
+- **名词**: 符号 “-”，用于连接或中断单词、短语，或者表示省略、间隔或强调。例如: "There's [a](/zh/post/a/) [dash](/zh/post/dash/) [in](/zh/post/in/) [the](/zh/post/the/) [middle](/zh/post/middle/) [of](/zh/post/of/) [the](/zh/post/the/) [word](/zh/post/word/) 're-enter'."
+- **动词**: 急速移动或冲向。例如: "[He](/zh/post/he/) dashed [across](/zh/post/across/) [the](/zh/post/the/) [street](/zh/post/street/) [to](/zh/post/to/) [catch](/zh/post/catch/) [the](/zh/post/the/) [bus](/zh/post/bus/)."
+- **形容词**: 迅速的，短暂的。例如: "[A](/zh/post/a/) [dash](/zh/post/dash/) [of](/zh/post/of/) [rain](/zh/post/rain/) fell [from](/zh/post/from/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
 
 ## 短语
-- "[make](/post/make/) [a](/post/a/) [dash](/post/dash/) [for](/post/for/) [something](/post/something/)" 意为迅速冲向某物。
-- "[a](/post/a/) [dash](/post/dash/) [of](/post/of/) humor" 表示一点幽默感。
+- "[make](/zh/post/make/) [a](/zh/post/a/) [dash](/zh/post/dash/) [for](/zh/post/for/) [something](/zh/post/something/)" 意为迅速冲向某物。
+- "[a](/zh/post/a/) [dash](/zh/post/dash/) [of](/zh/post/of/) humor" 表示一点幽默感。
 
 ## 例句
-- 名词: "[The](/post/the/) [date](/post/date/) [on](/post/on/) [her](/post/her/) [passport](/post/passport/) was written [with](/post/with/) [a](/post/a/) [dash](/post/dash/) [between](/post/between/) [the](/post/the/) [day](/post/day/) [and](/post/and/) [the](/post/the/) [year](/post/year/)."
-- 动词: "[She](/post/she/) dashed [out](/post/out/) [of](/post/of/) [the](/post/the/) [room](/post/room/) [when](/post/when/) [she](/post/she/) heard [the](/post/the/) doorbell."
-- 形容词: "[He](/post/he/) added [a](/post/a/) [dash](/post/dash/) [of](/post/of/) [salt](/post/salt/) [to](/post/to/) enhance [the](/post/the/) flavor."
+- 名词: "[The](/zh/post/the/) [date](/zh/post/date/) [on](/zh/post/on/) [her](/zh/post/her/) [passport](/zh/post/passport/) was written [with](/zh/post/with/) [a](/zh/post/a/) [dash](/zh/post/dash/) [between](/zh/post/between/) [the](/zh/post/the/) [day](/zh/post/day/) [and](/zh/post/and/) [the](/zh/post/the/) [year](/zh/post/year/)."
+- 动词: "[She](/zh/post/she/) dashed [out](/zh/post/out/) [of](/zh/post/of/) [the](/zh/post/the/) [room](/zh/post/room/) [when](/zh/post/when/) [she](/zh/post/she/) heard [the](/zh/post/the/) doorbell."
+- 形容词: "[He](/zh/post/he/) added [a](/zh/post/a/) [dash](/zh/post/dash/) [of](/zh/post/of/) [salt](/zh/post/salt/) [to](/zh/post/to/) enhance [the](/zh/post/the/) flavor."
 
 ## 同义词
 - Hyphen (-)
-- [Stroke](/post/stroke/)
-- [Burst](/post/burst/)
-- [Rapid](/post/rapid/)
-- [Swift](/post/swift/)
+- [Stroke](/zh/post/stroke/)
+- [Burst](/zh/post/burst/)
+- [Rapid](/zh/post/rapid/)
+- [Swift](/zh/post/swift/)

@@ -11,16 +11,16 @@ keywords = ['ai words', 'gratitude']
 /ˈɡrætɪtjuːd/
 
 ## 释义
-- **名词**: 对他人的好意、帮助或恩惠表示深深的感谢和欣赏的情感。例如: "[She](/post/she/) expressed [her](/post/her/) [gratitude](/post/gratitude/) [to](/post/to/) [the](/post/the/) [team](/post/team/) [for](/post/for/) [their](/post/their/) [hard](/post/hard/) [work](/post/work/)."
-- **形容词**: 表示感激的，感恩的。例如: "[The](/post/the/) guests were filled [with](/post/with/) [gratitude](/post/gratitude/) [for](/post/for/) [the](/post/the/) host's [generous](/post/generous/) hospitality."
+- **名词**: 对他人的好意、帮助或恩惠表示深深的感谢和欣赏的情感。例如: "[She](/zh/post/she/) expressed [her](/zh/post/her/) [gratitude](/zh/post/gratitude/) [to](/zh/post/to/) [the](/zh/post/the/) [team](/zh/post/team/) [for](/zh/post/for/) [their](/zh/post/their/) [hard](/zh/post/hard/) [work](/zh/post/work/)."
+- **形容词**: 表示感激的，感恩的。例如: "[The](/zh/post/the/) guests were filled [with](/zh/post/with/) [gratitude](/zh/post/gratitude/) [for](/zh/post/for/) [the](/zh/post/the/) host's [generous](/zh/post/generous/) hospitality."
 
 ## 短语
-- "[Show](/post/show/) [gratitude](/post/gratitude/)" 意味着表达感激之情。
-- "[Feel](/post/feel/) [grateful](/post/grateful/) [for](/post/for/)" 用来表示对某事心存感激。例如: "I [feel](/post/feel/) [grateful](/post/grateful/) [for](/post/for/) [the](/post/the/) opportunities [life](/post/life/) has given [me](/post/me/)."
+- "[Show](/zh/post/show/) [gratitude](/zh/post/gratitude/)" 意味着表达感激之情。
+- "[Feel](/zh/post/feel/) [grateful](/zh/post/grateful/) [for](/zh/post/for/)" 用来表示对某事心存感激。例如: "I [feel](/zh/post/feel/) [grateful](/zh/post/grateful/) [for](/zh/post/for/) [the](/zh/post/the/) opportunities [life](/zh/post/life/) has given [me](/zh/post/me/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [letter](/post/letter/) was filled [with](/post/with/) expressions [of](/post/of/) [gratitude](/post/gratitude/) [for](/post/for/) [the](/post/the/) [financial](/post/financial/) [support](/post/support/)."
-- 形容词: "It's [important](/post/important/) [to](/post/to/) [cultivate](/post/cultivate/) an [attitude](/post/attitude/) [of](/post/of/) [gratitude](/post/gratitude/) [in](/post/in/) [our](/post/our/) [daily](/post/daily/) lives."
+- 名词: "[The](/zh/post/the/) [letter](/zh/post/letter/) was filled [with](/zh/post/with/) expressions [of](/zh/post/of/) [gratitude](/zh/post/gratitude/) [for](/zh/post/for/) [the](/zh/post/the/) [financial](/zh/post/financial/) [support](/zh/post/support/)."
+- 形容词: "It's [important](/zh/post/important/) [to](/zh/post/to/) [cultivate](/zh/post/cultivate/) an [attitude](/zh/post/attitude/) [of](/zh/post/of/) [gratitude](/zh/post/gratitude/) [in](/zh/post/in/) [our](/zh/post/our/) [daily](/zh/post/daily/) lives."
 
 ## 同义词
 - Thankfulness

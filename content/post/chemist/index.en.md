@@ -7,36 +7,36 @@ description = '[ˈkemist] n.化学家；药剂师'
 keywords = ['ai words', 'chemist']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkɛmɪst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [chemist](/en/post/chemist/) is [a](/en/post/a/) [professional](/en/post/professional/) [who](/en/post/who/) studies, practices, [or](/en/post/or/) teaches [chemistry](/en/post/chemistry/), [the](/en/post/the/) [scientific](/en/post/scientific/) [discipline](/en/post/discipline/) concerned [with](/en/post/with/) [the](/en/post/the/) [composition](/en/post/composition/), [structure](/en/post/structure/), properties, [and](/en/post/and/) reactions [of](/en/post/of/) [matter](/en/post/matter/). [They](/en/post/they/) [often](/en/post/often/) [work](/en/post/work/) [in](/en/post/in/) laboratories, [research](/en/post/research/) institutions, [or](/en/post/or/) pharmaceutical companies, conducting experiments [and](/en/post/and/) developing [new](/en/post/new/) [chemical](/en/post/chemical/) compounds.
+### [Noun](/post/noun/)
+[A](/post/a/) [chemist](/post/chemist/) is [a](/post/a/) [professional](/post/professional/) [who](/post/who/) studies, practices, [or](/post/or/) teaches [chemistry](/post/chemistry/), [the](/post/the/) [scientific](/post/scientific/) [discipline](/post/discipline/) concerned [with](/post/with/) [the](/post/the/) [composition](/post/composition/), [structure](/post/structure/), properties, [and](/post/and/) reactions [of](/post/of/) [matter](/post/matter/). [They](/post/they/) [often](/post/often/) [work](/post/work/) [in](/post/in/) laboratories, [research](/post/research/) institutions, [or](/post/or/) pharmaceutical companies, conducting experiments [and](/post/and/) developing [new](/post/new/) [chemical](/post/chemical/) compounds.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [chemist](/en/post/chemist/) (informal) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [practice](/en/post/practice/) [or](/en/post/or/) [specialize](/en/post/specialize/) [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/) [of](/en/post/of/) [chemistry](/en/post/chemistry/), [or](/en/post/or/) [to](/en/post/to/) [apply](/en/post/apply/) [chemical](/en/post/chemical/) principles [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [problem](/en/post/problem/) [or](/en/post/or/) [process](/en/post/process/).
+### [Verb](/post/verb/)
+[To](/post/to/) [chemist](/post/chemist/) (informal) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [practice](/post/practice/) [or](/post/or/) [specialize](/post/specialize/) [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [chemistry](/post/chemistry/), [or](/post/or/) [to](/post/to/) [apply](/post/apply/) [chemical](/post/chemical/) principles [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [problem](/post/problem/) [or](/post/or/) [process](/post/process/).
 
 ## Phrases
-- "[A](/en/post/a/) renowned [chemist](/en/post/chemist/)" refers [to](/en/post/to/) an [expert](/en/post/expert/) [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/).
-- "Chemists collaborate [on](/en/post/on/) groundbreaking discoveries."
-- "She's been chemisting [for](/en/post/for/) years [at](/en/post/at/) [a](/en/post/a/) prestigious [university](/en/post/university/)."
+- "[A](/post/a/) renowned [chemist](/post/chemist/)" refers [to](/post/to/) an [expert](/post/expert/) [in](/post/in/) [the](/post/the/) [field](/post/field/).
+- "Chemists collaborate [on](/post/on/) groundbreaking discoveries."
+- "She's been chemisting [for](/post/for/) years [at](/post/at/) [a](/post/a/) prestigious [university](/post/university/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [chemist](/en/post/chemist/) carefully analyzed [the](/en/post/the/) [unknown](/en/post/unknown/) [sample](/en/post/sample/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) graduating, [he](/en/post/he/) decided [to](/en/post/to/) [chemist](/en/post/chemist/) [at](/en/post/at/) [a](/en/post/a/) biotech [firm](/en/post/firm/)."
-- **Informal**: "He's [a](/en/post/a/) self-taught [chemist](/en/post/chemist/), constantly experimenting [in](/en/post/in/) [his](/en/post/his/) [garage](/en/post/garage/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [chemist](/post/chemist/) carefully analyzed [the](/post/the/) [unknown](/post/unknown/) [sample](/post/sample/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) graduating, [he](/post/he/) decided [to](/post/to/) [chemist](/post/chemist/) [at](/post/at/) [a](/post/a/) biotech [firm](/post/firm/)."
+- **Informal**: "He's [a](/post/a/) self-taught [chemist](/post/chemist/), constantly experimenting [in](/post/in/) [his](/post/his/) [garage](/post/garage/)."
 
 ## Synonyms
 - Analyst
-- [Scientist](/en/post/scientist/) (specifically [in](/en/post/in/) [chemistry](/en/post/chemistry/))
-- [Researcher](/en/post/researcher/)
-- Alchemist ([historical](/en/post/historical/) [or](/en/post/or/) metaphorical)
-- [Chemist](/en/post/chemist/) practitioner
+- [Scientist](/post/scientist/) (specifically [in](/post/in/) [chemistry](/post/chemistry/))
+- [Researcher](/post/researcher/)
+- Alchemist ([historical](/post/historical/) [or](/post/or/) metaphorical)
+- [Chemist](/post/chemist/) practitioner
 
 ## Related Terms
-- [Organic](/en/post/organic/) [chemist](/en/post/chemist/) (working [with](/en/post/with/) carbon-based compounds)
-- Inorganic [chemist](/en/post/chemist/) (working [with](/en/post/with/) non-carbon compounds)
-- Biochemist (focusing [on](/en/post/on/) biological systems)
-- Analytical [chemist](/en/post/chemist/) (specializing [in](/en/post/in/) measuring [and](/en/post/and/) identifying substances)
-- Pharmaceutical [chemist](/en/post/chemist/) (developing drugs [and](/en/post/and/) medications)
+- [Organic](/post/organic/) [chemist](/post/chemist/) (working [with](/post/with/) carbon-based compounds)
+- Inorganic [chemist](/post/chemist/) (working [with](/post/with/) non-carbon compounds)
+- Biochemist (focusing [on](/post/on/) biological systems)
+- Analytical [chemist](/post/chemist/) (specializing [in](/post/in/) measuring [and](/post/and/) identifying substances)
+- Pharmaceutical [chemist](/post/chemist/) (developing drugs [and](/post/and/) medications)

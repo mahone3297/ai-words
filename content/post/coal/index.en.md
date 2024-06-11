@@ -7,28 +7,28 @@ description = '[kəul] n.煤，煤块'
 keywords = ['ai words', 'coal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəʊl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [dark](/en/post/dark/), carbon-rich [mineral](/en/post/mineral/) formed [from](/en/post/from/) [the](/en/post/the/) [remains](/en/post/remains/) [of](/en/post/of/) plants, [used](/en/post/used/) [as](/en/post/as/) [fuel](/en/post/fuel/) [and](/en/post/and/) [as](/en/post/as/) [a](/en/post/a/) [source](/en/post/source/) [of](/en/post/of/) [heat](/en/post/heat/) [and](/en/post/and/) [electricity](/en/post/electricity/). 2. (informal) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) smoking [tobacco](/en/post/tobacco/), typically [in](/en/post/in/) [a](/en/post/a/) [pipe](/en/post/pipe/) [or](/en/post/or/) [cigarette](/en/post/cigarette/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [supply](/en/post/supply/) [or](/en/post/or/) [use](/en/post/use/) [coal](/en/post/coal/) [as](/en/post/as/) [fuel](/en/post/fuel/); [to](/en/post/to/) [mine](/en/post/mine/) [or](/en/post/or/) [harvest](/en/post/harvest/) [coal](/en/post/coal/).
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) containing [coal](/en/post/coal/); [black](/en/post/black/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [dark](/post/dark/), carbon-rich [mineral](/post/mineral/) formed [from](/post/from/) [the](/post/the/) [remains](/post/remains/) [of](/post/of/) plants, [used](/post/used/) [as](/post/as/) [fuel](/post/fuel/) [and](/post/and/) [as](/post/as/) [a](/post/a/) [source](/post/source/) [of](/post/of/) [heat](/post/heat/) [and](/post/and/) [electricity](/post/electricity/). 2. (informal) [The](/post/the/) [act](/post/act/) [of](/post/of/) smoking [tobacco](/post/tobacco/), typically [in](/post/in/) [a](/post/a/) [pipe](/post/pipe/) [or](/post/or/) [cigarette](/post/cigarette/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [supply](/post/supply/) [or](/post/or/) [use](/post/use/) [coal](/post/coal/) [as](/post/as/) [fuel](/post/fuel/); [to](/post/to/) [mine](/post/mine/) [or](/post/or/) [harvest](/post/harvest/) [coal](/post/coal/).
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) containing [coal](/post/coal/); [black](/post/black/).
 
 ## Phrases
-- "Coal-fired [power](/en/post/power/) [plant](/en/post/plant/)" refers [to](/en/post/to/) [a](/en/post/a/) [power](/en/post/power/) [plant](/en/post/plant/) [that](/en/post/that/) uses [coal](/en/post/coal/) [as](/en/post/as/) [fuel](/en/post/fuel/).
-- "[Coal](/en/post/coal/) seam" is [a](/en/post/a/) [layer](/en/post/layer/) [of](/en/post/of/) [coal](/en/post/coal/) [found](/en/post/found/) [in](/en/post/in/) [the](/en/post/the/) [earth](/en/post/earth/).
-- "Coalition [government](/en/post/government/)" is [a](/en/post/a/) ruling [administration](/en/post/administration/) made [up](/en/post/up/) [of](/en/post/of/) [different](/en/post/different/) [political](/en/post/political/) parties.
+- "Coal-fired [power](/post/power/) [plant](/post/plant/)" refers [to](/post/to/) [a](/post/a/) [power](/post/power/) [plant](/post/plant/) [that](/post/that/) uses [coal](/post/coal/) [as](/post/as/) [fuel](/post/fuel/).
+- "[Coal](/post/coal/) seam" is [a](/post/a/) [layer](/post/layer/) [of](/post/of/) [coal](/post/coal/) [found](/post/found/) [in](/post/in/) [the](/post/the/) [earth](/post/earth/).
+- "Coalition [government](/post/government/)" is [a](/post/a/) ruling [administration](/post/administration/) made [up](/post/up/) [of](/post/of/) [different](/post/different/) [political](/post/political/) parties.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) town's [economy](/en/post/economy/) [heavily](/en/post/heavily/) relies [on](/en/post/on/) [coal](/en/post/coal/) mining."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) miners were [busy](/en/post/busy/) unloading [coal](/en/post/coal/) [from](/en/post/from/) [the](/en/post/the/) [train](/en/post/train/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [brick](/en/post/brick/) [chimney](/en/post/chimney/) was sooty [from](/en/post/from/) [the](/en/post/the/) [coal](/en/post/coal/) [fire](/en/post/fire/) [inside](/en/post/inside/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) town's [economy](/post/economy/) [heavily](/post/heavily/) relies [on](/post/on/) [coal](/post/coal/) mining."
+- **[Verb](/post/verb/)**: "[The](/post/the/) miners were [busy](/post/busy/) unloading [coal](/post/coal/) [from](/post/from/) [the](/post/the/) [train](/post/train/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) [brick](/post/brick/) [chimney](/post/chimney/) was sooty [from](/post/from/) [the](/post/the/) [coal](/post/coal/) [fire](/post/fire/) [inside](/post/inside/)."
 
 ## Synonyms
 - Lignite, anthracite, peat
-- [Heat](/en/post/heat/) [source](/en/post/source/), [energy](/en/post/energy/) provider
-- Fossil [fuel](/en/post/fuel/), [mineral](/en/post/mineral/) [deposit](/en/post/deposit/)
+- [Heat](/post/heat/) [source](/post/source/), [energy](/post/energy/) provider
+- Fossil [fuel](/post/fuel/), [mineral](/post/mineral/) [deposit](/post/deposit/)
 
 ## Notes
-- "[Coal](/en/post/coal/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [a](/en/post/a/) slang [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [type](/en/post/type/) [of](/en/post/of/) [person](/en/post/person/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [a](/en/post/a/) [humorous](/en/post/humorous/) [or](/en/post/or/) affectionate [manner](/en/post/manner/). [Example](/en/post/example/): "He's [such](/en/post/such/) [a](/en/post/a/) [coal](/en/post/coal/), [always](/en/post/always/) cracking jokes."
+- "[Coal](/post/coal/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) [a](/post/a/) slang [term](/post/term/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [type](/post/type/) [of](/post/of/) [person](/post/person/), [often](/post/often/) [used](/post/used/) [in](/post/in/) [a](/post/a/) [humorous](/post/humorous/) [or](/post/or/) affectionate [manner](/post/manner/). [Example](/post/example/): "He's [such](/post/such/) [a](/post/a/) [coal](/post/coal/), [always](/post/always/) cracking jokes."

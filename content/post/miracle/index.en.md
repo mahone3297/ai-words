@@ -7,30 +7,30 @@ description = '[ˈmirəkl] n.奇迹，令人惊奇的人'
 keywords = ['ai words', 'miracle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɪrəkl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [event](/en/post/event/) [that](/en/post/that/) appears inexplicable [by](/en/post/by/) [the](/en/post/the/) laws [of](/en/post/of/) [nature](/en/post/nature/) [and](/en/post/and/) is [therefore](/en/post/therefore/) attributed [to](/en/post/to/) [a](/en/post/a/) supernatural [agency](/en/post/agency/) [or](/en/post/or/) [to](/en/post/to/) divine intervention. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [recovery](/en/post/recovery/) was [nothing](/en/post/nothing/) [short](/en/post/short/) [of](/en/post/of/) [a](/en/post/a/) [miracle](/en/post/miracle/); doctors had given [up](/en/post/up/) [hope](/en/post/hope/)."
-- **[Noun](/en/post/noun/)**: [Something](/en/post/something/) [extraordinary](/en/post/extraordinary/) [that](/en/post/that/) surpasses [all](/en/post/all/) known [human](/en/post/human/) [or](/en/post/or/) [natural](/en/post/natural/) powers [and](/en/post/and/) is [hence](/en/post/hence/) considered [as](/en/post/as/) [a](/en/post/a/) manifestation [of](/en/post/of/) divine intervention. [Example](/en/post/example/): "[The](/en/post/the/) [birth](/en/post/birth/) [of](/en/post/of/) [their](/en/post/their/) [child](/en/post/child/) was [a](/en/post/a/) [miracle](/en/post/miracle/) [after](/en/post/after/) years [of](/en/post/of/) infertility."
-- **[Noun](/en/post/noun/) (figurative)**: [Any](/en/post/any/) [highly](/en/post/highly/) improbable [or](/en/post/or/) [unexpected](/en/post/unexpected/) [event](/en/post/event/) [that](/en/post/that/) brings [about](/en/post/about/) [a](/en/post/a/) [positive](/en/post/positive/) [outcome](/en/post/outcome/). [Example](/en/post/example/): "[It](/en/post/it/) was [a](/en/post/a/) [miracle](/en/post/miracle/) [they](/en/post/they/) [found](/en/post/found/) [her](/en/post/her/) [alive](/en/post/alive/) [after](/en/post/after/) [being](/en/post/being/) lost [in](/en/post/in/) [the](/en/post/the/) wilderness [for](/en/post/for/) days."
+- **[Noun](/post/noun/)**: An [event](/post/event/) [that](/post/that/) appears inexplicable [by](/post/by/) [the](/post/the/) laws [of](/post/of/) [nature](/post/nature/) [and](/post/and/) is [therefore](/post/therefore/) attributed [to](/post/to/) [a](/post/a/) supernatural [agency](/post/agency/) [or](/post/or/) [to](/post/to/) divine intervention. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [recovery](/post/recovery/) was [nothing](/post/nothing/) [short](/post/short/) [of](/post/of/) [a](/post/a/) [miracle](/post/miracle/); doctors had given [up](/post/up/) [hope](/post/hope/)."
+- **[Noun](/post/noun/)**: [Something](/post/something/) [extraordinary](/post/extraordinary/) [that](/post/that/) surpasses [all](/post/all/) known [human](/post/human/) [or](/post/or/) [natural](/post/natural/) powers [and](/post/and/) is [hence](/post/hence/) considered [as](/post/as/) [a](/post/a/) manifestation [of](/post/of/) divine intervention. [Example](/post/example/): "[The](/post/the/) [birth](/post/birth/) [of](/post/of/) [their](/post/their/) [child](/post/child/) was [a](/post/a/) [miracle](/post/miracle/) [after](/post/after/) years [of](/post/of/) infertility."
+- **[Noun](/post/noun/) (figurative)**: [Any](/post/any/) [highly](/post/highly/) improbable [or](/post/or/) [unexpected](/post/unexpected/) [event](/post/event/) [that](/post/that/) brings [about](/post/about/) [a](/post/a/) [positive](/post/positive/) [outcome](/post/outcome/). [Example](/post/example/): "[It](/post/it/) was [a](/post/a/) [miracle](/post/miracle/) [they](/post/they/) [found](/post/found/) [her](/post/her/) [alive](/post/alive/) [after](/post/after/) [being](/post/being/) lost [in](/post/in/) [the](/post/the/) wilderness [for](/post/for/) days."
 
 ## Phrases
-- "[A](/en/post/a/) [miracle](/en/post/miracle/) [worker](/en/post/worker/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) achieves results [that](/en/post/that/) others [consider](/en/post/consider/) unattainable [or](/en/post/or/) miraculous.
-- "[Miracle](/en/post/miracle/) [cure](/en/post/cure/)" denotes [a](/en/post/a/) [medicine](/en/post/medicine/) [or](/en/post/or/) [treatment](/en/post/treatment/) [that](/en/post/that/) produces unexpectedly [rapid](/en/post/rapid/) [or](/en/post/or/) [complete](/en/post/complete/) [recovery](/en/post/recovery/) [from](/en/post/from/) an [illness](/en/post/illness/) [or](/en/post/or/) [condition](/en/post/condition/).
-- "[By](/en/post/by/) [a](/en/post/a/) [miracle](/en/post/miracle/)" implies [that](/en/post/that/) [something](/en/post/something/) happened [only](/en/post/only/) [because](/en/post/because/) [of](/en/post/of/) an [extraordinary](/en/post/extraordinary/) [and](/en/post/and/) [unlikely](/en/post/unlikely/) [occurrence](/en/post/occurrence/).
+- "[A](/post/a/) [miracle](/post/miracle/) [worker](/post/worker/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) achieves results [that](/post/that/) others [consider](/post/consider/) unattainable [or](/post/or/) miraculous.
+- "[Miracle](/post/miracle/) [cure](/post/cure/)" denotes [a](/post/a/) [medicine](/post/medicine/) [or](/post/or/) [treatment](/post/treatment/) [that](/post/that/) produces unexpectedly [rapid](/post/rapid/) [or](/post/or/) [complete](/post/complete/) [recovery](/post/recovery/) [from](/post/from/) an [illness](/post/illness/) [or](/post/or/) [condition](/post/condition/).
+- "[By](/post/by/) [a](/post/a/) [miracle](/post/miracle/)" implies [that](/post/that/) [something](/post/something/) happened [only](/post/only/) [because](/post/because/) [of](/post/of/) an [extraordinary](/post/extraordinary/) [and](/post/and/) [unlikely](/post/unlikely/) [occurrence](/post/occurrence/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Many](/en/post/many/) [people](/en/post/people/) [believe](/en/post/believe/) [that](/en/post/that/) [his](/en/post/his/) [recovery](/en/post/recovery/) [from](/en/post/from/) [the](/en/post/the/) coma was [a](/en/post/a/) [genuine](/en/post/genuine/) [miracle](/en/post/miracle/)."
-- **[Noun](/en/post/noun/) (figurative)**: "Winning [the](/en/post/the/) lottery was [a](/en/post/a/) [financial](/en/post/financial/) [miracle](/en/post/miracle/) [that](/en/post/that/) turned [their](/en/post/their/) fortunes [around](/en/post/around/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Many](/post/many/) [people](/post/people/) [believe](/post/believe/) [that](/post/that/) [his](/post/his/) [recovery](/post/recovery/) [from](/post/from/) [the](/post/the/) coma was [a](/post/a/) [genuine](/post/genuine/) [miracle](/post/miracle/)."
+- **[Noun](/post/noun/) (figurative)**: "Winning [the](/post/the/) lottery was [a](/post/a/) [financial](/post/financial/) [miracle](/post/miracle/) [that](/post/that/) turned [their](/post/their/) fortunes [around](/post/around/)."
   
 ## Synonyms
-- [Wonder](/en/post/wonder/)
+- [Wonder](/post/wonder/)
 - Marvel
-- [Phenomenon](/en/post/phenomenon/)
-- [Miracle](/en/post/miracle/) [of](/en/post/of/) God
-- [Act](/en/post/act/) [of](/en/post/of/) God
+- [Phenomenon](/post/phenomenon/)
+- [Miracle](/post/miracle/) [of](/post/of/) God
+- [Act](/post/act/) [of](/post/of/) God
 - Prodigy
 - Rarity
-- Enigma ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) inexplicable events)
-- Blessing ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) divine intervention)
+- Enigma ([in](/post/in/) [the](/post/the/) context [of](/post/of/) inexplicable events)
+- Blessing ([in](/post/in/) [the](/post/the/) context [of](/post/of/) divine intervention)

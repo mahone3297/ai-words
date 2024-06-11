@@ -7,42 +7,42 @@ description = '[ˈsʌmə] n.夏，夏季'
 keywords = ['ai words', 'summer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsʌmər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [Summer](/en/post/summer/) is [a](/en/post/a/) [season](/en/post/season/) [that](/en/post/that/) comes [after](/en/post/after/) [spring](/en/post/spring/) [and](/en/post/and/) [before](/en/post/before/) [autumn](/en/post/autumn/), typically characterized [by](/en/post/by/) [warm](/en/post/warm/) [weather](/en/post/weather/), longer days, [and](/en/post/and/) vacations. [In](/en/post/in/) [the](/en/post/the/) [Northern](/en/post/northern/) Hemisphere, [it](/en/post/it/) [usually](/en/post/usually/) lasts [from](/en/post/from/) June [to](/en/post/to/) [August](/en/post/august/), [while](/en/post/while/) [in](/en/post/in/) [the](/en/post/the/) [Southern](/en/post/southern/) Hemisphere, it's December [to](/en/post/to/) February.
-- **[Example](/en/post/example/)**: "Children [love](/en/post/love/) spending [their](/en/post/their/) [summer](/en/post/summer/) holidays [at](/en/post/at/) [the](/en/post/the/) [beach](/en/post/beach/)."
+### [Noun](/post/noun/)
+- [Summer](/post/summer/) is [a](/post/a/) [season](/post/season/) [that](/post/that/) comes [after](/post/after/) [spring](/post/spring/) [and](/post/and/) [before](/post/before/) [autumn](/post/autumn/), typically characterized [by](/post/by/) [warm](/post/warm/) [weather](/post/weather/), longer days, [and](/post/and/) vacations. [In](/post/in/) [the](/post/the/) [Northern](/post/northern/) Hemisphere, [it](/post/it/) [usually](/post/usually/) lasts [from](/post/from/) June [to](/post/to/) [August](/post/august/), [while](/post/while/) [in](/post/in/) [the](/post/the/) [Southern](/post/southern/) Hemisphere, it's December [to](/post/to/) February.
+- **[Example](/post/example/)**: "Children [love](/post/love/) spending [their](/post/their/) [summer](/post/summer/) holidays [at](/post/at/) [the](/post/the/) [beach](/post/beach/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [summer](/en/post/summer/) ([often](/en/post/often/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) + [noun](/en/post/noun/)) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [spend](/en/post/spend/) [the](/en/post/the/) [summer](/en/post/summer/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [location](/en/post/location/) [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) [summer](/en/post/summer/) activities. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) breeding [season](/en/post/season/) [for](/en/post/for/) [certain](/en/post/certain/) animals.
-- **[Example](/en/post/example/)**: "[The](/en/post/the/) [family](/en/post/family/) decided [to](/en/post/to/) [summer](/en/post/summer/) [in](/en/post/in/) Europe [this](/en/post/this/) [year](/en/post/year/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [summer](/post/summer/) ([often](/post/often/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) + [noun](/post/noun/)) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [spend](/post/spend/) [the](/post/the/) [summer](/post/summer/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [location](/post/location/) [or](/post/or/) [engage](/post/engage/) [in](/post/in/) [summer](/post/summer/) activities. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) breeding [season](/post/season/) [for](/post/for/) [certain](/post/certain/) animals.
+- **[Example](/post/example/)**: "[The](/post/the/) [family](/post/family/) decided [to](/post/to/) [summer](/post/summer/) [in](/post/in/) Europe [this](/post/this/) [year](/post/year/)."
 
-### [Adjective](/en/post/adjective/)
-- [Summer](/en/post/summer/) describes [the](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) characteristics [of](/en/post/of/) [the](/en/post/the/) [season](/en/post/season/), [such](/en/post/such/) [as](/en/post/as/) [warmth](/en/post/warmth/), [sunshine](/en/post/sunshine/), [or](/en/post/or/) lightness.
-- **[Example](/en/post/example/)**: "[The](/en/post/the/) [summer](/en/post/summer/) [breeze](/en/post/breeze/) felt refreshing [after](/en/post/after/) [a](/en/post/a/) [hot](/en/post/hot/) [day](/en/post/day/)."
+### [Adjective](/post/adjective/)
+- [Summer](/post/summer/) describes [the](/post/the/) [quality](/post/quality/) [or](/post/or/) characteristics [of](/post/of/) [the](/post/the/) [season](/post/season/), [such](/post/such/) [as](/post/as/) [warmth](/post/warmth/), [sunshine](/post/sunshine/), [or](/post/or/) lightness.
+- **[Example](/post/example/)**: "[The](/post/the/) [summer](/post/summer/) [breeze](/post/breeze/) felt refreshing [after](/post/after/) [a](/post/a/) [hot](/post/hot/) [day](/post/day/)."
 
-### [Adverb](/en/post/adverb/)
-- [As](/en/post/as/) [a](/en/post/a/) modifier, "summerly" [can](/en/post/can/) [describe](/en/post/describe/) [something](/en/post/something/) [typical](/en/post/typical/) [of](/en/post/of/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [summer](/en/post/summer/).
-- **[Example](/en/post/example/)**: "Summerly flowers [bloom](/en/post/bloom/) [in](/en/post/in/) [the](/en/post/the/) [garden](/en/post/garden/) [during](/en/post/during/) [this](/en/post/this/) [time](/en/post/time/) [of](/en/post/of/) [year](/en/post/year/)."
+### [Adverb](/post/adverb/)
+- [As](/post/as/) [a](/post/a/) modifier, "summerly" [can](/post/can/) [describe](/post/describe/) [something](/post/something/) [typical](/post/typical/) [of](/post/of/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [summer](/post/summer/).
+- **[Example](/post/example/)**: "Summerly flowers [bloom](/post/bloom/) [in](/post/in/) [the](/post/the/) [garden](/post/garden/) [during](/post/during/) [this](/post/this/) [time](/post/time/) [of](/post/of/) [year](/post/year/)."
 
 ## Phrases
-- "[Enjoy](/en/post/enjoy/) [your](/en/post/your/) [summer](/en/post/summer/) [vacation](/en/post/vacation/)" is [a](/en/post/a/) [common](/en/post/common/) [expression](/en/post/expression/) wishing [someone](/en/post/someone/) [a](/en/post/a/) [pleasant](/en/post/pleasant/) [break](/en/post/break/).
-- "[Make](/en/post/make/) [the](/en/post/the/) [most](/en/post/most/) [of](/en/post/of/) [summer](/en/post/summer/)" encourages [people](/en/post/people/) [to](/en/post/to/) [take](/en/post/take/) [advantage](/en/post/advantage/) [of](/en/post/of/) [the](/en/post/the/) season's activities.
-- "Summertime [fun](/en/post/fun/)" encompasses [various](/en/post/various/) [leisure](/en/post/leisure/) activities [popular](/en/post/popular/) [during](/en/post/during/) [the](/en/post/the/) warmer months.
+- "[Enjoy](/post/enjoy/) [your](/post/your/) [summer](/post/summer/) [vacation](/post/vacation/)" is [a](/post/a/) [common](/post/common/) [expression](/post/expression/) wishing [someone](/post/someone/) [a](/post/a/) [pleasant](/post/pleasant/) [break](/post/break/).
+- "[Make](/post/make/) [the](/post/the/) [most](/post/most/) [of](/post/of/) [summer](/post/summer/)" encourages [people](/post/people/) [to](/post/to/) [take](/post/take/) [advantage](/post/advantage/) [of](/post/of/) [the](/post/the/) season's activities.
+- "Summertime [fun](/post/fun/)" encompasses [various](/post/various/) [leisure](/post/leisure/) activities [popular](/post/popular/) [during](/post/during/) [the](/post/the/) warmer months.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) cherishes [the](/en/post/the/) [long](/en/post/long/), [sunny](/en/post/sunny/) [summer](/en/post/summer/) days spent [with](/en/post/with/) [her](/en/post/her/) [family](/en/post/family/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) farmers [take](/en/post/take/) [a](/en/post/a/) [summer](/en/post/summer/) [break](/en/post/break/) [to](/en/post/to/) [tend](/en/post/tend/) [to](/en/post/to/) [their](/en/post/their/) crops."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [summer](/en/post/summer/) [sky](/en/post/sky/) was [a](/en/post/a/) [brilliant](/en/post/brilliant/) [shade](/en/post/shade/) [of](/en/post/of/) [blue](/en/post/blue/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) cherishes [the](/post/the/) [long](/post/long/), [sunny](/post/sunny/) [summer](/post/summer/) days spent [with](/post/with/) [her](/post/her/) [family](/post/family/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) farmers [take](/post/take/) [a](/post/a/) [summer](/post/summer/) [break](/post/break/) [to](/post/to/) [tend](/post/tend/) [to](/post/to/) [their](/post/their/) crops."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [summer](/post/summer/) [sky](/post/sky/) was [a](/post/a/) [brilliant](/post/brilliant/) [shade](/post/shade/) [of](/post/of/) [blue](/post/blue/)."
 
 ## Synonyms
-- [Warm](/en/post/warm/) [season](/en/post/season/)
-- [Hot](/en/post/hot/) [season](/en/post/season/)
-- [Sunny](/en/post/sunny/) [season](/en/post/season/)
-- [Vacation](/en/post/vacation/) [time](/en/post/time/)
-- [High](/en/post/high/) [season](/en/post/season/)
+- [Warm](/post/warm/) [season](/post/season/)
+- [Hot](/post/hot/) [season](/post/season/)
+- [Sunny](/post/sunny/) [season](/post/season/)
+- [Vacation](/post/vacation/) [time](/post/time/)
+- [High](/post/high/) [season](/post/season/)
 - Summertime
-- [Dog](/en/post/dog/) days
-- Hottest [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/)
+- [Dog](/post/dog/) days
+- Hottest [part](/post/part/) [of](/post/of/) [the](/post/the/) [year](/post/year/)

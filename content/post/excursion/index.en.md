@@ -7,32 +7,32 @@ description = '[iksˈkəː∫ən] n.远足；短途旅行'
 keywords = ['ai words', 'excursion']
 +++
 
-## [Word](/en/post/word/): [Excursion](/en/post/excursion/)
+## [Word](/post/word/): [Excursion](/post/excursion/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈskɜːrʒn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [short](/en/post/short/) [trip](/en/post/trip/) [or](/en/post/or/) [journey](/en/post/journey/) made [for](/en/post/for/) [pleasure](/en/post/pleasure/), [often](/en/post/often/) [away](/en/post/away/) [from](/en/post/from/) one's [usual](/en/post/usual/) [environment](/en/post/environment/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) longer [holiday](/en/post/holiday/) [or](/en/post/or/) taken [during](/en/post/during/) [a](/en/post/a/) [day](/en/post/day/) [off](/en/post/off/). [For](/en/post/for/) [example](/en/post/example/): "We're planning [a](/en/post/a/) day-long [excursion](/en/post/excursion/) [to](/en/post/to/) [the](/en/post/the/) [countryside](/en/post/countryside/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [short](/post/short/) [trip](/post/trip/) [or](/post/or/) [journey](/post/journey/) made [for](/post/for/) [pleasure](/post/pleasure/), [often](/post/often/) [away](/post/away/) [from](/post/from/) one's [usual](/post/usual/) [environment](/post/environment/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is [part](/post/part/) [of](/post/of/) [a](/post/a/) longer [holiday](/post/holiday/) [or](/post/or/) taken [during](/post/during/) [a](/post/a/) [day](/post/day/) [off](/post/off/). [For](/post/for/) [example](/post/example/): "We're planning [a](/post/a/) day-long [excursion](/post/excursion/) [to](/post/to/) [the](/post/the/) [countryside](/post/countryside/)."
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _"[The](/en/post/the/) students went [on](/en/post/on/) an educational [excursion](/en/post/excursion/) [to](/en/post/to/) [the](/en/post/the/) [local](/en/post/local/) [museum](/en/post/museum/)."_
+[Example](/post/example/) [sentence](/post/sentence/): _"[The](/post/the/) students went [on](/post/on/) an educational [excursion](/post/excursion/) [to](/post/to/) [the](/post/the/) [local](/post/local/) [museum](/post/museum/)."_
 
 ## Phrases
-- "[Excursion](/en/post/excursion/) [train](/en/post/train/)" refers [to](/en/post/to/) [a](/en/post/a/) [train](/en/post/train/) [that](/en/post/that/) runs specifically [for](/en/post/for/) taking passengers [on](/en/post/on/) [a](/en/post/a/) [sightseeing](/en/post/sightseeing/) [trip](/en/post/trip/).
-- "[Day](/en/post/day/) [trip](/en/post/trip/)" is synonymous [with](/en/post/with/) an [excursion](/en/post/excursion/), referring [to](/en/post/to/) [a](/en/post/a/) [short](/en/post/short/) outing [or](/en/post/or/) [journey](/en/post/journey/) undertaken [during](/en/post/during/) [the](/en/post/the/) [day](/en/post/day/).
-- "[Excursion](/en/post/excursion/) [fare](/en/post/fare/)" refers [to](/en/post/to/) [a](/en/post/a/) discounted [price](/en/post/price/) [for](/en/post/for/) [transportation](/en/post/transportation/) [provided](/en/post/provided/) [for](/en/post/for/) [those](/en/post/those/) taking [a](/en/post/a/) [particular](/en/post/particular/) [trip](/en/post/trip/) [or](/en/post/or/) [tour](/en/post/tour/).
+- "[Excursion](/post/excursion/) [train](/post/train/)" refers [to](/post/to/) [a](/post/a/) [train](/post/train/) [that](/post/that/) runs specifically [for](/post/for/) taking passengers [on](/post/on/) [a](/post/a/) [sightseeing](/post/sightseeing/) [trip](/post/trip/).
+- "[Day](/post/day/) [trip](/post/trip/)" is synonymous [with](/post/with/) an [excursion](/post/excursion/), referring [to](/post/to/) [a](/post/a/) [short](/post/short/) outing [or](/post/or/) [journey](/post/journey/) undertaken [during](/post/during/) [the](/post/the/) [day](/post/day/).
+- "[Excursion](/post/excursion/) [fare](/post/fare/)" refers [to](/post/to/) [a](/post/a/) discounted [price](/post/price/) [for](/post/for/) [transportation](/post/transportation/) [provided](/post/provided/) [for](/post/for/) [those](/post/those/) taking [a](/post/a/) [particular](/post/particular/) [trip](/post/trip/) [or](/post/or/) [tour](/post/tour/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) cruise [ship](/en/post/ship/) offered [various](/en/post/various/) excursions [to](/en/post/to/) [explore](/en/post/explore/) [the](/en/post/the/) islands."
-- "[They](/en/post/they/) took an unplanned [excursion](/en/post/excursion/) [to](/en/post/to/) [the](/en/post/the/) [nearby](/en/post/nearby/) [town](/en/post/town/) [when](/en/post/when/) [their](/en/post/their/) [flight](/en/post/flight/) was delayed."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) cruise [ship](/post/ship/) offered [various](/post/various/) excursions [to](/post/to/) [explore](/post/explore/) [the](/post/the/) islands."
+- "[They](/post/they/) took an unplanned [excursion](/post/excursion/) [to](/post/to/) [the](/post/the/) [nearby](/post/nearby/) [town](/post/town/) [when](/post/when/) [their](/post/their/) [flight](/post/flight/) was delayed."
 
 ## Synonyms
-- [Trip](/en/post/trip/)
+- [Trip](/post/trip/)
 - Outing
-- [Journey](/en/post/journey/)
-- [Adventure](/en/post/adventure/)
+- [Journey](/post/journey/)
+- [Adventure](/post/adventure/)
 - Expedition
-- [Tour](/en/post/tour/)
+- [Tour](/post/tour/)
 - Jaunt
 - Trek
 - Exploration

@@ -11,19 +11,19 @@ keywords = ['ai words', 'nothing']
 /ˈnʌθɪŋ/
 
 ## 释义
-- **代词**: 没有东西；没有任何事物。例如: "[There](/post/there/) is [nothing](/post/nothing/) [in](/post/in/) [the](/post/the/) [fridge](/post/fridge/)."
-- **名词**: 无价值或无关紧要的事物。例如: "It's [nothing](/post/nothing/) [to](/post/to/) [worry](/post/worry/) [about](/post/about/)."
+- **代词**: 没有东西；没有任何事物。例如: "[There](/zh/post/there/) is [nothing](/zh/post/nothing/) [in](/zh/post/in/) [the](/zh/post/the/) [fridge](/zh/post/fridge/)."
+- **名词**: 无价值或无关紧要的事物。例如: "It's [nothing](/zh/post/nothing/) [to](/zh/post/to/) [worry](/zh/post/worry/) [about](/zh/post/about/)."
 
 ## 短语
-- "[not](/post/not/) [amount](/post/amount/) [to](/post/to/) [nothing](/post/nothing/)" 意味着没有价值或不重要。
-- "[make](/post/make/) [nothing](/post/nothing/) [of](/post/of/)" 表示对某事轻描淡写，不把它当回事。
+- "[not](/zh/post/not/) [amount](/zh/post/amount/) [to](/zh/post/to/) [nothing](/zh/post/nothing/)" 意味着没有价值或不重要。
+- "[make](/zh/post/make/) [nothing](/zh/post/nothing/) [of](/zh/post/of/)" 表示对某事轻描淡写，不把它当回事。
 
 ## 例句
-- 代词: "I asked [her](/post/her/) [for](/post/for/) [help](/post/help/), [but](/post/but/) [she](/post/she/) [could](/post/could/) [offer](/post/offer/) [nothing](/post/nothing/)."
-- 名词: "[His](/post/his/) efforts were reduced [to](/post/to/) [nothing](/post/nothing/) [in](/post/in/) [the](/post/the/) [end](/post/end/)."
+- 代词: "I asked [her](/zh/post/her/) [for](/zh/post/for/) [help](/zh/post/help/), [but](/zh/post/but/) [she](/zh/post/she/) [could](/zh/post/could/) [offer](/zh/post/offer/) [nothing](/zh/post/nothing/)."
+- 名词: "[His](/zh/post/his/) efforts were reduced [to](/zh/post/to/) [nothing](/zh/post/nothing/) [in](/zh/post/in/) [the](/zh/post/the/) [end](/zh/post/end/)."
 
 ## 同义词
-- [None](/post/none/)
+- [None](/zh/post/none/)
 - Nada
 - Zilch
 - Nil

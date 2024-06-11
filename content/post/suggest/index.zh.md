@@ -11,21 +11,21 @@ keywords = ['ai words', 'suggest']
 /səˈdʒest/
 
 ## 释义
-- **动词**: 提出，建议。例如: "[He](/post/he/) suggested going [for](/post/for/) [a](/post/a/) [walk](/post/walk/) [after](/post/after/) [dinner](/post/dinner/)."
-- **名词**: 建议，提议。例如: "I [have](/post/have/) [a](/post/a/) [suggestion](/post/suggestion/) [that](/post/that/) [might](/post/might/) [help](/post/help/) [with](/post/with/) [the](/post/the/) [problem](/post/problem/)."
+- **动词**: 提出，建议。例如: "[He](/zh/post/he/) suggested going [for](/zh/post/for/) [a](/zh/post/a/) [walk](/zh/post/walk/) [after](/zh/post/after/) [dinner](/zh/post/dinner/)."
+- **名词**: 建议，提议。例如: "I [have](/zh/post/have/) [a](/zh/post/a/) [suggestion](/zh/post/suggestion/) [that](/zh/post/that/) [might](/zh/post/might/) [help](/zh/post/help/) [with](/zh/post/with/) [the](/zh/post/the/) [problem](/zh/post/problem/)."
 
 ## 短语
-- "[make](/post/make/) [a](/post/a/) [suggestion](/post/suggestion/)" 提出一个建议。
-- "[take](/post/take/) someone's [suggestion](/post/suggestion/)" 采纳某人的建议。
-- "[reject](/post/reject/) [a](/post/a/) [suggestion](/post/suggestion/)" 拒绝一个建议。
+- "[make](/zh/post/make/) [a](/zh/post/a/) [suggestion](/zh/post/suggestion/)" 提出一个建议。
+- "[take](/zh/post/take/) someone's [suggestion](/zh/post/suggestion/)" 采纳某人的建议。
+- "[reject](/zh/post/reject/) [a](/zh/post/a/) [suggestion](/zh/post/suggestion/)" 拒绝一个建议。
 
 ## 例句
-- 动词: "[She](/post/she/) suggested [we](/post/we/) [should](/post/should/) [start](/post/start/) [our](/post/our/) [project](/post/project/) earlier."
-- 名词: "[The](/post/the/) manager listened [to](/post/to/) [all](/post/all/) [the](/post/the/) suggestions [before](/post/before/) making [a](/post/a/) [decision](/post/decision/)."
+- 动词: "[She](/zh/post/she/) suggested [we](/zh/post/we/) [should](/zh/post/should/) [start](/zh/post/start/) [our](/zh/post/our/) [project](/zh/post/project/) earlier."
+- 名词: "[The](/zh/post/the/) manager listened [to](/zh/post/to/) [all](/zh/post/all/) [the](/zh/post/the/) suggestions [before](/zh/post/before/) making [a](/zh/post/a/) [decision](/zh/post/decision/)."
 
 ## 同义词
-- [propose](/post/propose/)
-- [recommend](/post/recommend/)
-- [advise](/post/advise/)
-- [recommend](/post/recommend/)
-- [put](/post/put/) [forward](/post/forward/)
+- [propose](/zh/post/propose/)
+- [recommend](/zh/post/recommend/)
+- [advise](/zh/post/advise/)
+- [recommend](/zh/post/recommend/)
+- [put](/zh/post/put/) [forward](/zh/post/forward/)

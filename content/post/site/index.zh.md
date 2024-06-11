@@ -11,23 +11,23 @@ keywords = ['ai words', 'site']
 /saɪt/
 
 ## 释义
-- **名词 (n)**: 1. 地点，位置。例如: "[The](/post/the/) [construction](/post/construction/) [site](/post/site/) is located downtown."
-          2. 网站，网址。例如: "I [visit](/post/visit/) [that](/post/that/) [news](/post/news/) [site](/post/site/) [every](/post/every/) [day](/post/day/)."
-          3. 遗址，遗迹。例如: "Archaeologists discovered an [ancient](/post/ancient/) [site](/post/site/) [near](/post/near/) [the](/post/the/) [river](/post/river/)."
-- **动词 (v)**: 建设，设立。例如: "[They](/post/they/) are planning [to](/post/to/) [site](/post/site/) [a](/post/a/) [new](/post/new/) [school](/post/school/) [in](/post/in/) [the](/post/the/) suburbs."
+- **名词 (n)**: 1. 地点，位置。例如: "[The](/zh/post/the/) [construction](/zh/post/construction/) [site](/zh/post/site/) is located downtown."
+          2. 网站，网址。例如: "I [visit](/zh/post/visit/) [that](/zh/post/that/) [news](/zh/post/news/) [site](/zh/post/site/) [every](/zh/post/every/) [day](/zh/post/day/)."
+          3. 遗址，遗迹。例如: "Archaeologists discovered an [ancient](/zh/post/ancient/) [site](/zh/post/site/) [near](/zh/post/near/) [the](/zh/post/the/) [river](/zh/post/river/)."
+- **动词 (v)**: 建设，设立。例如: "[They](/zh/post/they/) are planning [to](/zh/post/to/) [site](/zh/post/site/) [a](/zh/post/a/) [new](/zh/post/new/) [school](/zh/post/school/) [in](/zh/post/in/) [the](/zh/post/the/) suburbs."
 
 ## 短语
-- "[building](/post/building/) [site](/post/site/)" 建筑工地
+- "[building](/zh/post/building/) [site](/zh/post/site/)" 建筑工地
 - "website" 网页，网站
-- "historic [site](/post/site/)" 历史遗迹
+- "historic [site](/zh/post/site/)" 历史遗迹
 
 ## 例句
-- 名词: "[The](/post/the/) [construction](/post/construction/) [site](/post/site/) was bustling [with](/post/with/) workers [and](/post/and/) [heavy](/post/heavy/) machinery."
-- 动词: "[They](/post/they/) sited [the](/post/the/) [new](/post/new/) [library](/post/library/) [close](/post/close/) [to](/post/to/) [the](/post/the/) [university](/post/university/)."
+- 名词: "[The](/zh/post/the/) [construction](/zh/post/construction/) [site](/zh/post/site/) was bustling [with](/zh/post/with/) workers [and](/zh/post/and/) [heavy](/zh/post/heavy/) machinery."
+- 动词: "[They](/zh/post/they/) sited [the](/zh/post/the/) [new](/zh/post/new/) [library](/zh/post/library/) [close](/zh/post/close/) [to](/zh/post/to/) [the](/zh/post/the/) [university](/zh/post/university/)."
 
 ## 同义词
-- [Location](/post/location/)
-- [Position](/post/position/)
+- [Location](/zh/post/location/)
+- [Position](/zh/post/position/)
 - Webpage
-- [Area](/post/area/)
+- [Area](/zh/post/area/)
 - Grounds

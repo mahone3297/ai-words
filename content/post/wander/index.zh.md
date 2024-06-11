@@ -12,25 +12,25 @@ keywords = ['ai words', 'wander']
 
 ## 释义
 - **动词**:
-1. 漫步，闲逛。例如: "I [love](/post/love/) [to](/post/to/) [wander](/post/wander/) [through](/post/through/) [the](/post/the/) [park](/post/park/) [on](/post/on/) [a](/post/a/) [sunny](/post/sunny/) [day](/post/day/)."
-2. 走神，游离。例如: "[His](/post/his/) [mind](/post/mind/) wandered [during](/post/during/) [the](/post/the/) [long](/post/long/) [lecture](/post/lecture/)."
-3. （思想）飘忽不定。例如: "[She](/post/she/) wandered [in](/post/in/) [her](/post/her/) thoughts, lost [in](/post/in/) memories."
+1. 漫步，闲逛。例如: "I [love](/zh/post/love/) [to](/zh/post/to/) [wander](/zh/post/wander/) [through](/zh/post/through/) [the](/zh/post/the/) [park](/zh/post/park/) [on](/zh/post/on/) [a](/zh/post/a/) [sunny](/zh/post/sunny/) [day](/zh/post/day/)."
+2. 走神，游离。例如: "[His](/zh/post/his/) [mind](/zh/post/mind/) wandered [during](/zh/post/during/) [the](/zh/post/the/) [long](/zh/post/long/) [lecture](/zh/post/lecture/)."
+3. （思想）飘忽不定。例如: "[She](/zh/post/she/) wandered [in](/zh/post/in/) [her](/zh/post/her/) thoughts, lost [in](/zh/post/in/) memories."
 
 - **名词**:
-1. 游荡，徘徊。例如: "[The](/post/the/) children were allowed [to](/post/to/) [wander](/post/wander/) [freely](/post/freely/) [in](/post/in/) [the](/post/the/) [garden](/post/garden/)."
-2. 迷路，迷失。例如: "[He](/post/he/) got lost [and](/post/and/) wandered [for](/post/for/) hours."
+1. 游荡，徘徊。例如: "[The](/zh/post/the/) children were allowed [to](/zh/post/to/) [wander](/zh/post/wander/) [freely](/zh/post/freely/) [in](/zh/post/in/) [the](/zh/post/the/) [garden](/zh/post/garden/)."
+2. 迷路，迷失。例如: "[He](/zh/post/he/) got lost [and](/zh/post/and/) wandered [for](/zh/post/for/) hours."
 
 ## 短语
-- "[to](/post/to/) [wander](/post/wander/) [off](/post/off/)" 意为走开或离开原地。例如: "[The](/post/the/) [dog](/post/dog/) wandered [off](/post/off/) [after](/post/after/) chasing [a](/post/a/) [rabbit](/post/rabbit/)."
-- "[wander](/post/wander/) [around](/post/around/)" 表示在某处随意走动。例如: "[We](/post/we/) spent [the](/post/the/) [afternoon](/post/afternoon/) wandering [around](/post/around/) [the](/post/the/) [old](/post/old/) [town](/post/town/)."
+- "[to](/zh/post/to/) [wander](/zh/post/wander/) [off](/zh/post/off/)" 意为走开或离开原地。例如: "[The](/zh/post/the/) [dog](/zh/post/dog/) wandered [off](/zh/post/off/) [after](/zh/post/after/) chasing [a](/zh/post/a/) [rabbit](/zh/post/rabbit/)."
+- "[wander](/zh/post/wander/) [around](/zh/post/around/)" 表示在某处随意走动。例如: "[We](/zh/post/we/) spent [the](/zh/post/the/) [afternoon](/zh/post/afternoon/) wandering [around](/zh/post/around/) [the](/zh/post/the/) [old](/zh/post/old/) [town](/zh/post/town/)."
 
 ## 例句
-- 动词: "[After](/post/after/) [dinner](/post/dinner/), [they](/post/they/) decided [to](/post/to/) [wander](/post/wander/) [along](/post/along/) [the](/post/the/) [beach](/post/beach/)."
-- 名词: "[Their](/post/their/) [wander](/post/wander/) [through](/post/through/) [the](/post/the/) [forest](/post/forest/) led [them](/post/them/) [to](/post/to/) [a](/post/a/) hidden [waterfall](/post/waterfall/)."
+- 动词: "[After](/zh/post/after/) [dinner](/zh/post/dinner/), [they](/zh/post/they/) decided [to](/zh/post/to/) [wander](/zh/post/wander/) [along](/zh/post/along/) [the](/zh/post/the/) [beach](/zh/post/beach/)."
+- 名词: "[Their](/zh/post/their/) [wander](/zh/post/wander/) [through](/zh/post/through/) [the](/zh/post/the/) [forest](/zh/post/forest/) led [them](/zh/post/them/) [to](/zh/post/to/) [a](/zh/post/a/) hidden [waterfall](/zh/post/waterfall/)."
 
 ## 同义词
 - stroll
 - roam
 - meander
-- [drift](/post/drift/)
+- [drift](/zh/post/drift/)
 - ramble

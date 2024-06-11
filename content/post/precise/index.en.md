@@ -7,36 +7,36 @@ description = '[priˈsais] a.精确的，准确的'
 keywords = ['ai words', 'precise']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪˈsaɪs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Accurate](/en/post/accurate/), [exact](/en/post/exact/), [or](/en/post/or/) [free](/en/post/free/) [from](/en/post/from/) [error](/en/post/error/); [very](/en/post/very/) [careful](/en/post/careful/) [and](/en/post/and/) detailed. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) instructions were [precise](/en/post/precise/) [in](/en/post/in/) [their](/en/post/their/) steps."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [precise](/en/post/precise/) [manner](/en/post/manner/); [exactly](/en/post/exactly/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) speaks French [with](/en/post/with/) [great](/en/post/great/) [precision](/en/post/precision/)."
+- **[Adjective](/post/adjective/)**: [Accurate](/post/accurate/), [exact](/post/exact/), [or](/post/or/) [free](/post/free/) [from](/post/from/) [error](/post/error/); [very](/post/very/) [careful](/post/careful/) [and](/post/and/) detailed. [For](/post/for/) [example](/post/example/): "[The](/post/the/) instructions were [precise](/post/precise/) [in](/post/in/) [their](/post/their/) steps."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [precise](/post/precise/) [manner](/post/manner/); [exactly](/post/exactly/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) speaks French [with](/post/with/) [great](/post/great/) [precision](/post/precision/)."
 
 ## Phrases
-- "[A](/en/post/a/) [precise](/en/post/precise/) [measurement](/en/post/measurement/)" indicates an [exact](/en/post/exact/) [value](/en/post/value/).
-- "[Precision](/en/post/precision/) [engineering](/en/post/engineering/)" focuses [on](/en/post/on/) [high](/en/post/high/) [accuracy](/en/post/accuracy/) [in](/en/post/in/) manufacturing.
-- "[With](/en/post/with/) [precision](/en/post/precision/)" [means](/en/post/means/) [in](/en/post/in/) [a](/en/post/a/) [highly](/en/post/highly/) [accurate](/en/post/accurate/) [and](/en/post/and/) deliberate [way](/en/post/way/).
+- "[A](/post/a/) [precise](/post/precise/) [measurement](/post/measurement/)" indicates an [exact](/post/exact/) [value](/post/value/).
+- "[Precision](/post/precision/) [engineering](/post/engineering/)" focuses [on](/post/on/) [high](/post/high/) [accuracy](/post/accuracy/) [in](/post/in/) manufacturing.
+- "[With](/post/with/) [precision](/post/precision/)" [means](/post/means/) [in](/post/in/) [a](/post/a/) [highly](/post/highly/) [accurate](/post/accurate/) [and](/post/and/) deliberate [way](/post/way/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [scientist](/en/post/scientist/) made [precise](/en/post/precise/) observations [to](/en/post/to/) [ensure](/en/post/ensure/) [reliable](/en/post/reliable/) results."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) executed [the](/en/post/the/) [task](/en/post/task/) [with](/en/post/with/) [precision](/en/post/precision/), avoiding [any](/en/post/any/) mistakes."
-- "[She](/en/post/she/) appreciated [his](/en/post/his/) [precise](/en/post/precise/) [memory](/en/post/memory/), [always](/en/post/always/) recalling details accurately."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [scientist](/post/scientist/) made [precise](/post/precise/) observations [to](/post/to/) [ensure](/post/ensure/) [reliable](/post/reliable/) results."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) executed [the](/post/the/) [task](/post/task/) [with](/post/with/) [precision](/post/precision/), avoiding [any](/post/any/) mistakes."
+- "[She](/post/she/) appreciated [his](/post/his/) [precise](/post/precise/) [memory](/post/memory/), [always](/post/always/) recalling details accurately."
 
 ## Synonyms
-- [Accurate](/en/post/accurate/)
-- [Exact](/en/post/exact/)
-- [Delicate](/en/post/delicate/)
-- [Precise](/en/post/precise/)
-- [Thorough](/en/post/thorough/)
+- [Accurate](/post/accurate/)
+- [Exact](/post/exact/)
+- [Delicate](/post/delicate/)
+- [Precise](/post/precise/)
+- [Thorough](/post/thorough/)
 - Unmistakable
-- [Specific](/en/post/specific/)
+- [Specific](/post/specific/)
 
 ## Antonyms
 -模糊的 (imprecise)
 - Inaccurate
-- [Vague](/en/post/vague/)
-- [Careless](/en/post/careless/)
+- [Vague](/post/vague/)
+- [Careless](/post/careless/)
 - Haphazard
 - Inexact

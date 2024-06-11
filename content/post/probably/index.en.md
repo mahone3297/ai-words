@@ -7,33 +7,33 @@ description = '[ˈprɔbəb(ə)li] ad.或许，大概'
 keywords = ['ai words', 'probably']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /probəˈbli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [the](/en/post/the/) likelihood [or](/en/post/or/) [probability](/en/post/probability/) [of](/en/post/of/) [something](/en/post/something/) [being](/en/post/being/) [true](/en/post/true/) [or](/en/post/or/) occurring. [It](/en/post/it/) modifies [a](/en/post/a/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [or](/en/post/or/) [other](/en/post/other/) adverbs. [For](/en/post/for/) [example](/en/post/example/): "It's [probably](/en/post/probably/) going [to](/en/post/to/) [rain](/en/post/rain/) [later](/en/post/later/)."
-- **[Adjective](/en/post/adjective/)**: Refers [to](/en/post/to/) [the](/en/post/the/) likelihood [or](/en/post/or/) [possibility](/en/post/possibility/) [of](/en/post/of/) [something](/en/post/something/) happening, [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [certain](/en/post/certain/) [degree](/en/post/degree/) [of](/en/post/of/) uncertainty. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) chances [of](/en/post/of/) winning are [probably](/en/post/probably/) [low](/en/post/low/)."
+- **[Adverb](/post/adverb/)**: [Used](/post/used/) [to](/post/to/) [express](/post/express/) [the](/post/the/) likelihood [or](/post/or/) [probability](/post/probability/) [of](/post/of/) [something](/post/something/) [being](/post/being/) [true](/post/true/) [or](/post/or/) occurring. [It](/post/it/) modifies [a](/post/a/) [verb](/post/verb/), [adjective](/post/adjective/), [or](/post/or/) [other](/post/other/) adverbs. [For](/post/for/) [example](/post/example/): "It's [probably](/post/probably/) going [to](/post/to/) [rain](/post/rain/) [later](/post/later/)."
+- **[Adjective](/post/adjective/)**: Refers [to](/post/to/) [the](/post/the/) likelihood [or](/post/or/) [possibility](/post/possibility/) [of](/post/of/) [something](/post/something/) happening, [often](/post/often/) [with](/post/with/) [a](/post/a/) [certain](/post/certain/) [degree](/post/degree/) [of](/post/of/) uncertainty. [For](/post/for/) [example](/post/example/): "[The](/post/the/) chances [of](/post/of/) winning are [probably](/post/probably/) [low](/post/low/)."
 
 ## Phrases
-- "[With](/en/post/with/) [a](/en/post/a/) [high](/en/post/high/) [probability](/en/post/probability/)" indicates [a](/en/post/a/) [strong](/en/post/strong/) likelihood.
-- "There's [a](/en/post/a/) [good](/en/post/good/) [chance](/en/post/chance/)" [means](/en/post/means/) it's [likely](/en/post/likely/) [but](/en/post/but/) [not](/en/post/not/) [certain](/en/post/certain/).
-- "It's [probable](/en/post/probable/) [that](/en/post/that/)" expresses [a](/en/post/a/) [general](/en/post/general/) [belief](/en/post/belief/) [in](/en/post/in/) [the](/en/post/the/) likelihood [of](/en/post/of/) an [event](/en/post/event/).
+- "[With](/post/with/) [a](/post/a/) [high](/post/high/) [probability](/post/probability/)" indicates [a](/post/a/) [strong](/post/strong/) likelihood.
+- "There's [a](/post/a/) [good](/post/good/) [chance](/post/chance/)" [means](/post/means/) it's [likely](/post/likely/) [but](/post/but/) [not](/post/not/) [certain](/post/certain/).
+- "It's [probable](/post/probable/) [that](/post/that/)" expresses [a](/post/a/) [general](/post/general/) [belief](/post/belief/) [in](/post/in/) [the](/post/the/) likelihood [of](/post/of/) an [event](/post/event/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I'll [probably](/en/post/probably/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [by](/en/post/by/) [tomorrow](/en/post/tomorrow/)."
-- **[Adjective](/en/post/adjective/)**: "She's [probably](/en/post/probably/) [the](/en/post/the/) [best](/en/post/best/) [candidate](/en/post/candidate/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/)."
-- "He's [probably](/en/post/probably/) [on](/en/post/on/) [his](/en/post/his/) [way](/en/post/way/) [home](/en/post/home/) [now](/en/post/now/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I'll [probably](/post/probably/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [by](/post/by/) [tomorrow](/post/tomorrow/)."
+- **[Adjective](/post/adjective/)**: "She's [probably](/post/probably/) [the](/post/the/) [best](/post/best/) [candidate](/post/candidate/) [for](/post/for/) [the](/post/the/) [job](/post/job/)."
+- "He's [probably](/post/probably/) [on](/post/on/) [his](/post/his/) [way](/post/way/) [home](/post/home/) [now](/post/now/)."
 
 ## Synonyms
-- [Most](/en/post/most/) [likely](/en/post/likely/)
-- [Perhaps](/en/post/perhaps/)
--[Likely](/en/post/likely/)
+- [Most](/post/most/) [likely](/post/likely/)
+- [Perhaps](/post/perhaps/)
+-[Likely](/post/likely/)
 - Odds are
 - Reasonably
-- [Probable](/en/post/probable/)
+- [Probable](/post/probable/)
 
 ## Antonyms
-- [Definitely](/en/post/definitely/) ([certain](/en/post/certain/))
-- [Unlikely](/en/post/unlikely/)
+- [Definitely](/post/definitely/) ([certain](/post/certain/))
+- [Unlikely](/post/unlikely/)
 - Improbable
-- [Surely](/en/post/surely/) ([certainly](/en/post/certainly/) [not](/en/post/not/))
+- [Surely](/post/surely/) ([certainly](/post/certainly/) [not](/post/not/))

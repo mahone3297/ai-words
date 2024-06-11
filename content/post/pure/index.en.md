@@ -7,41 +7,41 @@ description = '[pjuə] a.纯粹的；纯洁的'
 keywords = ['ai words', 'pure']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pjuːr/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Free](/en/post/free/) [from](/en/post/from/) impurities [or](/en/post/or/) contamination; uncontaminated. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [water](/en/post/water/) was [pure](/en/post/pure/) [and](/en/post/and/) [clear](/en/post/clear/)."
-- 2. [Free](/en/post/free/) [from](/en/post/from/) mixed elements [or](/en/post/or/) qualities; unadulterated. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [pure](/en/post/pure/) [gold](/en/post/gold/) [coin](/en/post/coin/)."
-- 3. [Moral](/en/post/moral/) [or](/en/post/or/) [spiritual](/en/post/spiritual/) [without](/en/post/without/) [defect](/en/post/defect/) [or](/en/post/or/) corruption. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) intentions were [pure](/en/post/pure/)."
-- 4. ([Music](/en/post/music/)) [Simple](/en/post/simple/), [single](/en/post/single/), [or](/en/post/or/) unmixed [in](/en/post/in/) [style](/en/post/style/) [or](/en/post/or/) [character](/en/post/character/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [pure](/en/post/pure/) melody."
+- **[Adjective](/post/adjective/)**: 1. [Free](/post/free/) [from](/post/from/) impurities [or](/post/or/) contamination; uncontaminated. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [water](/post/water/) was [pure](/post/pure/) [and](/post/and/) [clear](/post/clear/)."
+- 2. [Free](/post/free/) [from](/post/from/) mixed elements [or](/post/or/) qualities; unadulterated. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [pure](/post/pure/) [gold](/post/gold/) [coin](/post/coin/)."
+- 3. [Moral](/post/moral/) [or](/post/or/) [spiritual](/post/spiritual/) [without](/post/without/) [defect](/post/defect/) [or](/post/or/) corruption. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) intentions were [pure](/post/pure/)."
+- 4. ([Music](/post/music/)) [Simple](/post/simple/), [single](/post/single/), [or](/post/or/) unmixed [in](/post/in/) [style](/post/style/) [or](/post/or/) [character](/post/character/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [pure](/post/pure/) melody."
 
-## [Adverb](/en/post/adverb/)**: [Completely](/en/post/completely/), utterly, [or](/en/post/or/) [simply](/en/post/simply/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) danced [with](/en/post/with/) [pure](/en/post/pure/) [joy](/en/post/joy/)."
+## [Adverb](/post/adverb/)**: [Completely](/post/completely/), utterly, [or](/post/or/) [simply](/post/simply/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) danced [with](/post/with/) [pure](/post/pure/) [joy](/post/joy/)."
 
-## [Noun](/en/post/noun/)**: ([Sometimes](/en/post/sometimes/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) countable [noun](/en/post/noun/)) [Purity](/en/post/purity/) [or](/en/post/or/) cleanliness. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [pursuit](/en/post/pursuit/) [of](/en/post/of/) [purity](/en/post/purity/) [in](/en/post/in/) [art](/en/post/art/)."
-- **[Pronoun](/en/post/pronoun/)**: [In](/en/post/in/) [rare](/en/post/rare/) cases, [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [oneself](/en/post/oneself/) [or](/en/post/or/) [something](/en/post/something/) considered [pure](/en/post/pure/), [like](/en/post/like/) "I am [pure](/en/post/pure/) [of](/en/post/of/) [heart](/en/post/heart/)." 
+## [Noun](/post/noun/)**: ([Sometimes](/post/sometimes/) [used](/post/used/) [as](/post/as/) [a](/post/a/) countable [noun](/post/noun/)) [Purity](/post/purity/) [or](/post/or/) cleanliness. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [pursuit](/post/pursuit/) [of](/post/of/) [purity](/post/purity/) [in](/post/in/) [art](/post/art/)."
+- **[Pronoun](/post/pronoun/)**: [In](/post/in/) [rare](/post/rare/) cases, [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [oneself](/post/oneself/) [or](/post/or/) [something](/post/something/) considered [pure](/post/pure/), [like](/post/like/) "I am [pure](/post/pure/) [of](/post/of/) [heart](/post/heart/)." 
 
 ## Phrases
-- "[Pure](/en/post/pure/) [air](/en/post/air/)" refers [to](/en/post/to/) [fresh](/en/post/fresh/) [and](/en/post/and/) [clean](/en/post/clean/) [air](/en/post/air/).
-- "[A](/en/post/a/) [pure](/en/post/pure/) [mind](/en/post/mind/)" implies [mental](/en/post/mental/) clarity [and](/en/post/and/) integrity.
-- "[Pure](/en/post/pure/) [love](/en/post/love/)" signifies [a](/en/post/a/) [deep](/en/post/deep/), unselfish [affection](/en/post/affection/).
+- "[Pure](/post/pure/) [air](/post/air/)" refers [to](/post/to/) [fresh](/post/fresh/) [and](/post/and/) [clean](/post/clean/) [air](/post/air/).
+- "[A](/post/a/) [pure](/post/pure/) [mind](/post/mind/)" implies [mental](/post/mental/) clarity [and](/post/and/) integrity.
+- "[Pure](/post/pure/) [love](/post/love/)" signifies [a](/post/a/) [deep](/post/deep/), unselfish [affection](/post/affection/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [pure](/en/post/pure/) [white](/en/post/white/) [snow](/en/post/snow/) covered [the](/en/post/the/) [ground](/en/post/ground/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) sang [the](/en/post/the/) [song](/en/post/song/) [with](/en/post/with/) [a](/en/post/a/) [pure](/en/post/pure/) [voice](/en/post/voice/)."
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) wanted [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) sculpture [that](/en/post/that/) embodied [the](/en/post/the/) [pure](/en/post/pure/) [beauty](/en/post/beauty/) [of](/en/post/of/) [nature](/en/post/nature/)."
-- **[Pronoun](/en/post/pronoun/)**: "I felt [a](/en/post/a/) [pure](/en/post/pure/) [connection](/en/post/connection/) [with](/en/post/with/) [nature](/en/post/nature/) [during](/en/post/during/) [my](/en/post/my/) hike."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [pure](/post/pure/) [white](/post/white/) [snow](/post/snow/) covered [the](/post/the/) [ground](/post/ground/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) sang [the](/post/the/) [song](/post/song/) [with](/post/with/) [a](/post/a/) [pure](/post/pure/) [voice](/post/voice/)."
+- **[Noun](/post/noun/)**: "[He](/post/he/) wanted [to](/post/to/) [create](/post/create/) [a](/post/a/) sculpture [that](/post/that/) embodied [the](/post/the/) [pure](/post/pure/) [beauty](/post/beauty/) [of](/post/of/) [nature](/post/nature/)."
+- **[Pronoun](/post/pronoun/)**: "I felt [a](/post/a/) [pure](/post/pure/) [connection](/post/connection/) [with](/post/with/) [nature](/post/nature/) [during](/post/during/) [my](/post/my/) hike."
 
 ## Synonyms
 - Unadulterated
 - Spotless
 - Virgin
 - Untainted
-- [Clean](/en/post/clean/)
-- [Moral](/en/post/moral/)
+- [Clean](/post/clean/)
+- [Moral](/post/moral/)
 - Ethical
 - Untouched
-- [innocent](/en/post/innocent/)
+- [innocent](/post/innocent/)
 
 ## Antonyms
 - Impure

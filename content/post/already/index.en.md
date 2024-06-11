@@ -7,35 +7,35 @@ description = '[ɔːlˈredi] ad.早已，已经'
 keywords = ['ai words', 'already']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːlrdi/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Already](/en/post/already/) exists [or](/en/post/or/) has been done [before](/en/post/before/); [in](/en/post/in/) [advance](/en/post/advance/) [or](/en/post/or/) [previously](/en/post/previously/). [For](/en/post/for/) [example](/en/post/example/): "I've [already](/en/post/already/) eaten, [so](/en/post/so/) I won't [join](/en/post/join/) [you](/en/post/you/) [for](/en/post/for/) [dinner](/en/post/dinner/)."
-- **[Adjective](/en/post/adjective/)**: Finished [or](/en/post/or/) completed; [not](/en/post/not/) needing [further](/en/post/further/) [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) is [already](/en/post/already/) done, thanks [to](/en/post/to/) [your](/en/post/your/) [help](/en/post/help/)."
+- **[Adverb](/post/adverb/)**: [Already](/post/already/) exists [or](/post/or/) has been done [before](/post/before/); [in](/post/in/) [advance](/post/advance/) [or](/post/or/) [previously](/post/previously/). [For](/post/for/) [example](/post/example/): "I've [already](/post/already/) eaten, [so](/post/so/) I won't [join](/post/join/) [you](/post/you/) [for](/post/for/) [dinner](/post/dinner/)."
+- **[Adjective](/post/adjective/)**: Finished [or](/post/or/) completed; [not](/post/not/) needing [further](/post/further/) [action](/post/action/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) is [already](/post/already/) done, thanks [to](/post/to/) [your](/post/your/) [help](/post/help/)."
 
 ## Phrases
-- "[Already](/en/post/already/) finished" indicates [something](/en/post/something/) is completed.
-- "[Already](/en/post/already/) taken [care](/en/post/care/) [of](/en/post/of/)" [means](/en/post/means/) [a](/en/post/a/) [task](/en/post/task/) has been dealt [with](/en/post/with/) beforehand.
-- "It's [already](/en/post/already/) been decided" signifies [a](/en/post/a/) [decision](/en/post/decision/) has been made.
+- "[Already](/post/already/) finished" indicates [something](/post/something/) is completed.
+- "[Already](/post/already/) taken [care](/post/care/) [of](/post/of/)" [means](/post/means/) [a](/post/a/) [task](/post/task/) has been dealt [with](/post/with/) beforehand.
+- "It's [already](/post/already/) been decided" signifies [a](/post/a/) [decision](/post/decision/) has been made.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "Don't [worry](/en/post/worry/), I [already](/en/post/already/) called [the](/en/post/the/) [service](/en/post/service/) [about](/en/post/about/) [the](/en/post/the/) [issue](/en/post/issue/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) was surprised [that](/en/post/that/) [the](/en/post/the/) [movie](/en/post/movie/) was [already](/en/post/already/) [over](/en/post/over/) [when](/en/post/when/) [she](/en/post/she/) arrived."
-- "[The](/en/post/the/) [cake](/en/post/cake/) is [already](/en/post/already/) frosted, [just](/en/post/just/) [need](/en/post/need/) [to](/en/post/to/) [add](/en/post/add/) [the](/en/post/the/) decorations."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "Don't [worry](/post/worry/), I [already](/post/already/) called [the](/post/the/) [service](/post/service/) [about](/post/about/) [the](/post/the/) [issue](/post/issue/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) was surprised [that](/post/that/) [the](/post/the/) [movie](/post/movie/) was [already](/post/already/) [over](/post/over/) [when](/post/when/) [she](/post/she/) arrived."
+- "[The](/post/the/) [cake](/post/cake/) is [already](/post/already/) frosted, [just](/post/just/) [need](/post/need/) [to](/post/to/) [add](/post/add/) [the](/post/the/) decorations."
 
 ## Synonyms
-- [Previously](/en/post/previously/)
+- [Previously](/post/previously/)
 - Earlier
-- [Ahead](/en/post/ahead/) [of](/en/post/of/) [time](/en/post/time/)
-- [In](/en/post/in/) [advance](/en/post/advance/)
+- [Ahead](/post/ahead/) [of](/post/of/) [time](/post/time/)
+- [In](/post/in/) [advance](/post/advance/)
 - Done
 - Completed
 - Settled
 
 ## Antonyms
-- [Not](/en/post/not/) [yet](/en/post/yet/)
-- [Still](/en/post/still/)
-- [Later](/en/post/later/)
+- [Not](/post/not/) [yet](/post/yet/)
+- [Still](/post/still/)
+- [Later](/post/later/)
 - Unfinished
 - Uncompleted

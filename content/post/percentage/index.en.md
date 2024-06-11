@@ -7,31 +7,31 @@ description = '[pəˈsentidʒ] n.百分比，百分率'
 keywords = ['ai words', 'percentage']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /%pərˈsentɪdʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [fraction](/en/post/fraction/) [or](/en/post/or/) [ratio](/en/post/ratio/) expressed [as](/en/post/as/) [a](/en/post/a/) [number](/en/post/number/) followed [by](/en/post/by/) [a](/en/post/a/) [percent](/en/post/percent/) [sign](/en/post/sign/) (%), indicating [the](/en/post/the/) [proportion](/en/post/proportion/) [of](/en/post/of/) [a](/en/post/a/) [whole](/en/post/whole/). [For](/en/post/for/) [example](/en/post/example/): "50% [of](/en/post/of/) [the](/en/post/the/) students passed [the](/en/post/the/) [exam](/en/post/exam/)."
-- **[Adjective](/en/post/adjective/)**: Characterizing [a](/en/post/a/) [proportion](/en/post/proportion/) [or](/en/post/or/) [degree](/en/post/degree/), [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [part](/en/post/part/) [out](/en/post/out/) [of](/en/post/of/) [a](/en/post/a/) [whole](/en/post/whole/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) is 80% [complete](/en/post/complete/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [fraction](/post/fraction/) [or](/post/or/) [ratio](/post/ratio/) expressed [as](/post/as/) [a](/post/a/) [number](/post/number/) followed [by](/post/by/) [a](/post/a/) [percent](/post/percent/) [sign](/post/sign/) (%), indicating [the](/post/the/) [proportion](/post/proportion/) [of](/post/of/) [a](/post/a/) [whole](/post/whole/). [For](/post/for/) [example](/post/example/): "50% [of](/post/of/) [the](/post/the/) students passed [the](/post/the/) [exam](/post/exam/)."
+- **[Adjective](/post/adjective/)**: Characterizing [a](/post/a/) [proportion](/post/proportion/) [or](/post/or/) [degree](/post/degree/), [often](/post/often/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [part](/post/part/) [out](/post/out/) [of](/post/of/) [a](/post/a/) [whole](/post/whole/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) is 80% [complete](/post/complete/)."
 
 ## Phrases
-- "[Percentage](/en/post/percentage/) [point](/en/post/point/)" refers [to](/en/post/to/) [a](/en/post/a/) [single](/en/post/single/) [unit](/en/post/unit/) [of](/en/post/of/) [change](/en/post/change/) [in](/en/post/in/) [a](/en/post/a/) [percentage](/en/post/percentage/).
-- "[Up](/en/post/up/) [to](/en/post/to/) X [percent](/en/post/percent/)" expresses [a](/en/post/a/) [range](/en/post/range/) [of](/en/post/of/) [possible](/en/post/possible/) percentages.
-- "[A](/en/post/a/) [drop](/en/post/drop/) [in](/en/post/in/) [percentage](/en/post/percentage/)" signifies [a](/en/post/a/) [decrease](/en/post/decrease/).
+- "[Percentage](/post/percentage/) [point](/post/point/)" refers [to](/post/to/) [a](/post/a/) [single](/post/single/) [unit](/post/unit/) [of](/post/of/) [change](/post/change/) [in](/post/in/) [a](/post/a/) [percentage](/post/percentage/).
+- "[Up](/post/up/) [to](/post/to/) X [percent](/post/percent/)" expresses [a](/post/a/) [range](/post/range/) [of](/post/of/) [possible](/post/possible/) percentages.
+- "[A](/post/a/) [drop](/post/drop/) [in](/post/in/) [percentage](/post/percentage/)" signifies [a](/post/a/) [decrease](/post/decrease/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) [saw](/en/post/saw/) [a](/en/post/a/) 15% [increase](/en/post/increase/) [in](/en/post/in/) sales [this](/en/post/this/) [quarter](/en/post/quarter/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) savings [account](/en/post/account/) has grown [by](/en/post/by/) 2% [this](/en/post/this/) [year](/en/post/year/)."
-- "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) aims [to](/en/post/to/) [reduce](/en/post/reduce/) [crime](/en/post/crime/) [by](/en/post/by/) 30% [in](/en/post/in/) [the](/en/post/the/) [next](/en/post/next/) [two](/en/post/two/) years."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) [saw](/post/saw/) [a](/post/a/) 15% [increase](/post/increase/) [in](/post/in/) sales [this](/post/this/) [quarter](/post/quarter/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) savings [account](/post/account/) has grown [by](/post/by/) 2% [this](/post/this/) [year](/post/year/)."
+- "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) aims [to](/post/to/) [reduce](/post/reduce/) [crime](/post/crime/) [by](/post/by/) 30% [in](/post/in/) [the](/post/the/) [next](/post/next/) [two](/post/two/) years."
 
 ## Synonyms
-- [Rate](/en/post/rate/)
-- [Proportion](/en/post/proportion/)
-- [Fraction](/en/post/fraction/)
-- [Ratio](/en/post/ratio/)
-- [Share](/en/post/share/)
-- [Per](/en/post/per/) [cent](/en/post/cent/)
-- Decimal [equivalent](/en/post/equivalent/) (e.g., 50% = 0.5)
+- [Rate](/post/rate/)
+- [Proportion](/post/proportion/)
+- [Fraction](/post/fraction/)
+- [Ratio](/post/ratio/)
+- [Share](/post/share/)
+- [Per](/post/per/) [cent](/post/cent/)
+- Decimal [equivalent](/post/equivalent/) (e.g., 50% = 0.5)
 
 ## Antonyms
-- [None](/en/post/none/) (percentages are [not](/en/post/not/) typically compared [directly](/en/post/directly/); [they](/en/post/they/) [represent](/en/post/represent/) [relative](/en/post/relative/) values)
+- [None](/post/none/) (percentages are [not](/post/not/) typically compared [directly](/post/directly/); [they](/post/they/) [represent](/post/represent/) [relative](/post/relative/) values)

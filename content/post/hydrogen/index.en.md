@@ -7,29 +7,29 @@ description = '[ˈhaidrəudʒən] n.氢'
 keywords = ['ai words', 'hydrogen']
 +++
 
-## [Word](/en/post/word/): [Hydrogen](/en/post/hydrogen/)
+## [Word](/post/word/): [Hydrogen](/post/hydrogen/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhaɪdrədʒən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [chemical](/en/post/chemical/) [element](/en/post/element/) [with](/en/post/with/) [the](/en/post/the/) [atomic](/en/post/atomic/) [number](/en/post/number/) 1 [and](/en/post/and/) represented [by](/en/post/by/) [the](/en/post/the/) [symbol](/en/post/symbol/) H. [It](/en/post/it/) is [a](/en/post/a/) colorless, odorless, tasteless, [and](/en/post/and/) [highly](/en/post/highly/) flammable [gas](/en/post/gas/) [that](/en/post/that/) occurs [naturally](/en/post/naturally/) [as](/en/post/as/) [the](/en/post/the/) [most](/en/post/most/) [abundant](/en/post/abundant/) [element](/en/post/element/) [in](/en/post/in/) [the](/en/post/the/) [universe](/en/post/universe/). 
+- **[Noun](/post/noun/)**: [The](/post/the/) [chemical](/post/chemical/) [element](/post/element/) [with](/post/with/) [the](/post/the/) [atomic](/post/atomic/) [number](/post/number/) 1 [and](/post/and/) represented [by](/post/by/) [the](/post/the/) [symbol](/post/symbol/) H. [It](/post/it/) is [a](/post/a/) colorless, odorless, tasteless, [and](/post/and/) [highly](/post/highly/) flammable [gas](/post/gas/) [that](/post/that/) occurs [naturally](/post/naturally/) [as](/post/as/) [the](/post/the/) [most](/post/most/) [abundant](/post/abundant/) [element](/post/element/) [in](/post/in/) [the](/post/the/) [universe](/post/universe/). 
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- "[Hydrogen](/en/post/hydrogen/) is [the](/en/post/the/) lightest [and](/en/post/and/) simplest [chemical](/en/post/chemical/) [element](/en/post/element/), consisting [of](/en/post/of/) [only](/en/post/only/) [one](/en/post/one/) proton [and](/en/post/and/) [one](/en/post/one/) [electron](/en/post/electron/) [in](/en/post/in/) [its](/en/post/its/) [most](/en/post/most/) [common](/en/post/common/) [form](/en/post/form/)."
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- "[Hydrogen](/post/hydrogen/) is [the](/post/the/) lightest [and](/post/and/) simplest [chemical](/post/chemical/) [element](/post/element/), consisting [of](/post/of/) [only](/post/only/) [one](/post/one/) proton [and](/post/and/) [one](/post/one/) [electron](/post/electron/) [in](/post/in/) [its](/post/its/) [most](/post/most/) [common](/post/common/) [form](/post/form/)."
 
 ## Phrases
-- "[Hydrogen](/en/post/hydrogen/) [fuel](/en/post/fuel/) [cell](/en/post/cell/)": [A](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) generates [electricity](/en/post/electricity/) [through](/en/post/through/) [the](/en/post/the/) [chemical](/en/post/chemical/) [reaction](/en/post/reaction/) [between](/en/post/between/) [hydrogen](/en/post/hydrogen/) [and](/en/post/and/) oxygen, producing [water](/en/post/water/) [as](/en/post/as/) [its](/en/post/its/) byproduct.
-- "[Hydrogen](/en/post/hydrogen/) [bond](/en/post/bond/)": [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) intermolecular [force](/en/post/force/) [that](/en/post/that/) occurs [when](/en/post/when/) [a](/en/post/a/) [hydrogen](/en/post/hydrogen/) [atom](/en/post/atom/) bonded [to](/en/post/to/) [a](/en/post/a/) [strongly](/en/post/strongly/) electronegative [atom](/en/post/atom/) ([like](/en/post/like/) oxygen [or](/en/post/or/) [nitrogen](/en/post/nitrogen/)) is attracted [to](/en/post/to/) [another](/en/post/another/) electronegative [atom](/en/post/atom/).
-- "[Hydrogen](/en/post/hydrogen/) [economy](/en/post/economy/)": [A](/en/post/a/) hypothetical [future](/en/post/future/) [economic](/en/post/economic/) [system](/en/post/system/) [where](/en/post/where/) [hydrogen](/en/post/hydrogen/) is [the](/en/post/the/) [primary](/en/post/primary/) [energy](/en/post/energy/) [carrier](/en/post/carrier/), replacing fossil fuels.
+- "[Hydrogen](/post/hydrogen/) [fuel](/post/fuel/) [cell](/post/cell/)": [A](/post/a/) [device](/post/device/) [that](/post/that/) generates [electricity](/post/electricity/) [through](/post/through/) [the](/post/the/) [chemical](/post/chemical/) [reaction](/post/reaction/) [between](/post/between/) [hydrogen](/post/hydrogen/) [and](/post/and/) oxygen, producing [water](/post/water/) [as](/post/as/) [its](/post/its/) byproduct.
+- "[Hydrogen](/post/hydrogen/) [bond](/post/bond/)": [A](/post/a/) [type](/post/type/) [of](/post/of/) intermolecular [force](/post/force/) [that](/post/that/) occurs [when](/post/when/) [a](/post/a/) [hydrogen](/post/hydrogen/) [atom](/post/atom/) bonded [to](/post/to/) [a](/post/a/) [strongly](/post/strongly/) electronegative [atom](/post/atom/) ([like](/post/like/) oxygen [or](/post/or/) [nitrogen](/post/nitrogen/)) is attracted [to](/post/to/) [another](/post/another/) electronegative [atom](/post/atom/).
+- "[Hydrogen](/post/hydrogen/) [economy](/post/economy/)": [A](/post/a/) hypothetical [future](/post/future/) [economic](/post/economic/) [system](/post/system/) [where](/post/where/) [hydrogen](/post/hydrogen/) is [the](/post/the/) [primary](/post/primary/) [energy](/post/energy/) [carrier](/post/carrier/), replacing fossil fuels.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) star's fusion [process](/en/post/process/) involves [the](/en/post/the/) [conversion](/en/post/conversion/) [of](/en/post/of/) [hydrogen](/en/post/hydrogen/) [into](/en/post/into/) helium."
-- "[The](/en/post/the/) [spacecraft](/en/post/spacecraft/) was powered [by](/en/post/by/) [liquid](/en/post/liquid/) [hydrogen](/en/post/hydrogen/) [fuel](/en/post/fuel/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) star's fusion [process](/post/process/) involves [the](/post/the/) [conversion](/post/conversion/) [of](/post/of/) [hydrogen](/post/hydrogen/) [into](/post/into/) helium."
+- "[The](/post/the/) [spacecraft](/post/spacecraft/) was powered [by](/post/by/) [liquid](/post/liquid/) [hydrogen](/post/hydrogen/) [fuel](/post/fuel/)."
 
 ## Synonyms
-- H2 ([chemical](/en/post/chemical/) [formula](/en/post/formula/))
-- [Atomic](/en/post/atomic/) [hydrogen](/en/post/hydrogen/)
-- Molecular [hydrogen](/en/post/hydrogen/)
+- H2 ([chemical](/post/chemical/) [formula](/post/formula/))
+- [Atomic](/post/atomic/) [hydrogen](/post/hydrogen/)
+- Molecular [hydrogen](/post/hydrogen/)
   
-[Note](/en/post/note/): [While](/en/post/while/) "[hydrogen](/en/post/hydrogen/)" doesn't [have](/en/post/have/) [different](/en/post/different/) part-of-speech uses [like](/en/post/like/) [the](/en/post/the/) [example](/en/post/example/) given, [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [compound](/en/post/compound/) nouns (e.g., '[hydrogen](/en/post/hydrogen/) peroxide') [or](/en/post/or/) verbs (e.g., '[to](/en/post/to/) hydrogenate'), [but](/en/post/but/) [these](/en/post/these/) typically [involve](/en/post/involve/) [a](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [meaning](/en/post/meaning/) [beyond](/en/post/beyond/) [the](/en/post/the/) [base](/en/post/base/) [noun](/en/post/noun/) [definition](/en/post/definition/) [provided](/en/post/provided/) [above](/en/post/above/).
+[Note](/post/note/): [While](/post/while/) "[hydrogen](/post/hydrogen/)" doesn't [have](/post/have/) [different](/post/different/) part-of-speech uses [like](/post/like/) [the](/post/the/) [example](/post/example/) given, [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [compound](/post/compound/) nouns (e.g., '[hydrogen](/post/hydrogen/) peroxide') [or](/post/or/) verbs (e.g., '[to](/post/to/) hydrogenate'), [but](/post/but/) [these](/post/these/) typically [involve](/post/involve/) [a](/post/a/) [change](/post/change/) [in](/post/in/) [meaning](/post/meaning/) [beyond](/post/beyond/) [the](/post/the/) [base](/post/base/) [noun](/post/noun/) [definition](/post/definition/) [provided](/post/provided/) [above](/post/above/).

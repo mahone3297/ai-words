@@ -7,31 +7,31 @@ description = '[ˈfɔrin] a.外国的；外来的'
 keywords = ['ai words', 'foreign']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɔːrən/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Originating [from](/en/post/from/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [another](/en/post/another/) [country](/en/post/country/); [not](/en/post/not/) [native](/en/post/native/) [to](/en/post/to/) [the](/en/post/the/) [place](/en/post/place/) [where](/en/post/where/) [one](/en/post/one/) finds [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[Foreign](/en/post/foreign/) languages were required [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/) [position](/en/post/position/)."
-  - *[The](/en/post/the/) [company](/en/post/company/) imported [foreign](/en/post/foreign/) [technology](/en/post/technology/).*
-- **[Noun](/en/post/noun/) ([usually](/en/post/usually/) [plural](/en/post/plural/) [form](/en/post/form/) "foreigns")**: [Something](/en/post/something/) [that](/en/post/that/) is [from](/en/post/from/) [or](/en/post/or/) related [to](/en/post/to/) [another](/en/post/another/) [country](/en/post/country/). [Often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [specific](/en/post/specific/) contexts [such](/en/post/such/) [as](/en/post/as/) [trade](/en/post/trade/) [or](/en/post/or/) [culture](/en/post/culture/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [museum](/en/post/museum/) displayed [various](/en/post/various/) [foreign](/en/post/foreign/) artefacts."
-  - *"[Understanding](/en/post/understanding/) [the](/en/post/the/) [foreign](/en/post/foreign/) policies [of](/en/post/of/) [different](/en/post/different/) nations is crucial [in](/en/post/in/) [international](/en/post/international/) relations."*
+- **[Adjective](/post/adjective/)**: Originating [from](/post/from/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [another](/post/another/) [country](/post/country/); [not](/post/not/) [native](/post/native/) [to](/post/to/) [the](/post/the/) [place](/post/place/) [where](/post/where/) [one](/post/one/) finds [it](/post/it/). [For](/post/for/) [example](/post/example/): "[Foreign](/post/foreign/) languages were required [for](/post/for/) [the](/post/the/) [job](/post/job/) [position](/post/position/)."
+  - *[The](/post/the/) [company](/post/company/) imported [foreign](/post/foreign/) [technology](/post/technology/).*
+- **[Noun](/post/noun/) ([usually](/post/usually/) [plural](/post/plural/) [form](/post/form/) "foreigns")**: [Something](/post/something/) [that](/post/that/) is [from](/post/from/) [or](/post/or/) related [to](/post/to/) [another](/post/another/) [country](/post/country/). [Often](/post/often/) [used](/post/used/) [in](/post/in/) [specific](/post/specific/) contexts [such](/post/such/) [as](/post/as/) [trade](/post/trade/) [or](/post/or/) [culture](/post/culture/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [museum](/post/museum/) displayed [various](/post/various/) [foreign](/post/foreign/) artefacts."
+  - *"[Understanding](/post/understanding/) [the](/post/the/) [foreign](/post/foreign/) policies [of](/post/of/) [different](/post/different/) nations is crucial [in](/post/in/) [international](/post/international/) relations."*
 
 ## Phrases
-- "[Foreign](/en/post/foreign/) affairs" refers [to](/en/post/to/) [the](/en/post/the/) activities [and](/en/post/and/) policies related [to](/en/post/to/) [a](/en/post/a/) country's relationships [with](/en/post/with/) [other](/en/post/other/) countries.
-- "[Foreign](/en/post/foreign/) [policy](/en/post/policy/)" is [a](/en/post/a/) government's [strategy](/en/post/strategy/) [in](/en/post/in/) dealing [with](/en/post/with/) [other](/en/post/other/) nations.
-- "[Foreign](/en/post/foreign/) [language](/en/post/language/)" refers [to](/en/post/to/) [any](/en/post/any/) [language](/en/post/language/) indigenous [to](/en/post/to/) [a](/en/post/a/) [country](/en/post/country/) [other](/en/post/other/) [than](/en/post/than/) one's [own](/en/post/own/).
+- "[Foreign](/post/foreign/) affairs" refers [to](/post/to/) [the](/post/the/) activities [and](/post/and/) policies related [to](/post/to/) [a](/post/a/) country's relationships [with](/post/with/) [other](/post/other/) countries.
+- "[Foreign](/post/foreign/) [policy](/post/policy/)" is [a](/post/a/) government's [strategy](/post/strategy/) [in](/post/in/) dealing [with](/post/with/) [other](/post/other/) nations.
+- "[Foreign](/post/foreign/) [language](/post/language/)" refers [to](/post/to/) [any](/post/any/) [language](/post/language/) indigenous [to](/post/to/) [a](/post/a/) [country](/post/country/) [other](/post/other/) [than](/post/than/) one's [own](/post/own/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) struggled [to](/en/post/to/) [understand](/en/post/understand/) [the](/en/post/the/) [foreign](/en/post/foreign/) customs [when](/en/post/when/) [she](/en/post/she/) moved [abroad](/en/post/abroad/)."
-- "[Learning](/en/post/learning/) [about](/en/post/about/) [foreign](/en/post/foreign/) cultures broadened [his](/en/post/his/) [perspective](/en/post/perspective/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) was fined [for](/en/post/for/) violating [foreign](/en/post/foreign/) [trade](/en/post/trade/) regulations."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) struggled [to](/post/to/) [understand](/post/understand/) [the](/post/the/) [foreign](/post/foreign/) customs [when](/post/when/) [she](/post/she/) moved [abroad](/post/abroad/)."
+- "[Learning](/post/learning/) [about](/post/about/) [foreign](/post/foreign/) cultures broadened [his](/post/his/) [perspective](/post/perspective/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) was fined [for](/post/for/) violating [foreign](/post/foreign/) [trade](/post/trade/) regulations."
 
 ## Synonyms
-- [External](/en/post/external/)
-- [International](/en/post/international/)
+- [External](/post/external/)
+- [International](/post/international/)
 - Outsider
-- Alien ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) '[not](/en/post/not/) belonging [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/)')
+- Alien ([in](/post/in/) [the](/post/the/) context [of](/post/of/) '[not](/post/not/) belonging [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/)')
 - Non-native
-- Exotic ([when](/en/post/when/) referring [to](/en/post/to/) [something](/en/post/something/) [from](/en/post/from/) [a](/en/post/a/) [distant](/en/post/distant/) [or](/en/post/or/) unfamiliar [place](/en/post/place/)) 
+- Exotic ([when](/post/when/) referring [to](/post/to/) [something](/post/something/) [from](/post/from/) [a](/post/a/) [distant](/post/distant/) [or](/post/or/) unfamiliar [place](/post/place/)) 
 
-[Note](/en/post/note/): [The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) "foreigns" [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [for](/en/post/for/) [people](/en/post/people/) [from](/en/post/from/) [other](/en/post/other/) countries [can](/en/post/can/) [be](/en/post/be/) considered outdated [or](/en/post/or/) offensive [in](/en/post/in/) [some](/en/post/some/) contexts, [so](/en/post/so/) it's [important](/en/post/important/) [to](/en/post/to/) [be](/en/post/be/) cautious [with](/en/post/with/) [this](/en/post/this/) [usage](/en/post/usage/). [More](/en/post/more/) [appropriate](/en/post/appropriate/) terms [might](/en/post/might/) [include](/en/post/include/) "immigrants," "expatriates," [or](/en/post/or/) [simply](/en/post/simply/) "[people](/en/post/people/) [from](/en/post/from/) [other](/en/post/other/) countries."
+[Note](/post/note/): [The](/post/the/) [use](/post/use/) [of](/post/of/) "foreigns" [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [for](/post/for/) [people](/post/people/) [from](/post/from/) [other](/post/other/) countries [can](/post/can/) [be](/post/be/) considered outdated [or](/post/or/) offensive [in](/post/in/) [some](/post/some/) contexts, [so](/post/so/) it's [important](/post/important/) [to](/post/to/) [be](/post/be/) cautious [with](/post/with/) [this](/post/this/) [usage](/post/usage/). [More](/post/more/) [appropriate](/post/appropriate/) terms [might](/post/might/) [include](/post/include/) "immigrants," "expatriates," [or](/post/or/) [simply](/post/simply/) "[people](/post/people/) [from](/post/from/) [other](/post/other/) countries."

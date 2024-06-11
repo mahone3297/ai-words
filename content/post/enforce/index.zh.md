@@ -12,22 +12,22 @@ keywords = ['ai words', 'enforce']
 
 ## 释义
 - **动词**:
-    - 强制执行；实施：确保遵守法律、规则或命令。例如: "[The](/post/the/) [police](/post/police/) were enforcing [the](/post/the/) [speed](/post/speed/) [limit](/post/limit/)."
-    - 强迫；迫使：使某人做不愿意做的事。例如: "[The](/post/the/) [boss](/post/boss/) enforced [a](/post/a/) stricter [dress](/post/dress/) [code](/post/code/) [on](/post/on/) employees."
+    - 强制执行；实施：确保遵守法律、规则或命令。例如: "[The](/zh/post/the/) [police](/zh/post/police/) were enforcing [the](/zh/post/the/) [speed](/zh/post/speed/) [limit](/zh/post/limit/)."
+    - 强迫；迫使：使某人做不愿意做的事。例如: "[The](/zh/post/the/) [boss](/zh/post/boss/) enforced [a](/zh/post/a/) stricter [dress](/zh/post/dress/) [code](/zh/post/code/) [on](/zh/post/on/) employees."
 
 ## 短语
-- "[enforce](/post/enforce/) [the](/post/the/) [law](/post/law/)" 法律的执行
-- "[enforce](/post/enforce/) [discipline](/post/discipline/)" 强化纪律
-- "[enforce](/post/enforce/) compliance" 确保合规
+- "[enforce](/zh/post/enforce/) [the](/zh/post/the/) [law](/zh/post/law/)" 法律的执行
+- "[enforce](/zh/post/enforce/) [discipline](/zh/post/discipline/)" 强化纪律
+- "[enforce](/zh/post/enforce/) compliance" 确保合规
 
 ## 例句
-- "[Local](/post/local/) authorities [have](/post/have/) stepped [up](/post/up/) efforts [to](/post/to/) [enforce](/post/enforce/) [the](/post/the/) no-smoking [policy](/post/policy/) [in](/post/in/) [public](/post/public/) places."
-- "[The](/post/the/) [company](/post/company/) [will](/post/will/) [enforce](/post/enforce/) [a](/post/a/) [new](/post/new/) attendance [policy](/post/policy/) starting [next](/post/next/) [month](/post/month/)."
-- "Teachers [must](/post/must/) [be](/post/be/) [able](/post/able/) [to](/post/to/) [enforce](/post/enforce/) rules effectively [in](/post/in/) [the](/post/the/) [classroom](/post/classroom/)."
+- "[Local](/zh/post/local/) authorities [have](/zh/post/have/) stepped [up](/zh/post/up/) efforts [to](/zh/post/to/) [enforce](/zh/post/enforce/) [the](/zh/post/the/) no-smoking [policy](/zh/post/policy/) [in](/zh/post/in/) [public](/zh/post/public/) places."
+- "[The](/zh/post/the/) [company](/zh/post/company/) [will](/zh/post/will/) [enforce](/zh/post/enforce/) [a](/zh/post/a/) [new](/zh/post/new/) attendance [policy](/zh/post/policy/) starting [next](/zh/post/next/) [month](/zh/post/month/)."
+- "Teachers [must](/zh/post/must/) [be](/zh/post/be/) [able](/zh/post/able/) [to](/zh/post/to/) [enforce](/zh/post/enforce/) rules effectively [in](/zh/post/in/) [the](/zh/post/the/) [classroom](/zh/post/classroom/)."
 
 ## 同义词
 - implement
 - uphold
 - mandate
-- [impose](/post/impose/)
-- [dictate](/post/dictate/)
+- [impose](/zh/post/impose/)
+- [dictate](/zh/post/dictate/)

@@ -7,31 +7,31 @@ description = '[widθ] n.宽阔，广阔；宽度'
 keywords = ['ai words', 'width']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwaɪdθ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [the](/en/post/the/) [breadth](/en/post/breadth/) [or](/en/post/or/) [extension](/en/post/extension/) [from](/en/post/from/) [side](/en/post/side/) [to](/en/post/to/) [side](/en/post/side/) [of](/en/post/of/) [something](/en/post/something/), typically [a](/en/post/a/) [flat](/en/post/flat/) [or](/en/post/or/) rectangular [object](/en/post/object/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [width](/en/post/width/) [of](/en/post/of/) [the](/en/post/the/) [room](/en/post/room/) is 12 feet."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [being](/en/post/being/) [wide](/en/post/wide/) [or](/en/post/or/) [broad](/en/post/broad/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [river](/en/post/river/) had [a](/en/post/a/) [generous](/en/post/generous/) [width](/en/post/width/) [for](/en/post/for/) swimming."
+- **[Noun](/post/noun/)**: [A](/post/a/) [measure](/post/measure/) [of](/post/of/) [the](/post/the/) [breadth](/post/breadth/) [or](/post/or/) [extension](/post/extension/) [from](/post/from/) [side](/post/side/) [to](/post/to/) [side](/post/side/) [of](/post/of/) [something](/post/something/), typically [a](/post/a/) [flat](/post/flat/) [or](/post/or/) rectangular [object](/post/object/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [width](/post/width/) [of](/post/of/) [the](/post/the/) [room](/post/room/) is 12 feet."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [being](/post/being/) [wide](/post/wide/) [or](/post/or/) [broad](/post/broad/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [river](/post/river/) had [a](/post/a/) [generous](/post/generous/) [width](/post/width/) [for](/post/for/) swimming."
 
 ## Phrases
-- "[Width](/en/post/width/) [of](/en/post/of/) [a](/en/post/a/) [hair](/en/post/hair/)" describes an [extremely](/en/post/extremely/) [narrow](/en/post/narrow/) [margin](/en/post/margin/) [or](/en/post/or/) [difference](/en/post/difference/).
-- "[The](/en/post/the/) [width](/en/post/width/) [of](/en/post/of/) [a](/en/post/a/) doorway" refers [to](/en/post/to/) [the](/en/post/the/) dimensions needed [to](/en/post/to/) [pass](/en/post/pass/) [through](/en/post/through/).
-- "[Breath](/en/post/breath/) [width](/en/post/width/)" is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [breadth](/en/post/breadth/) [of](/en/post/of/) someone's breathing.
+- "[Width](/post/width/) [of](/post/of/) [a](/post/a/) [hair](/post/hair/)" describes an [extremely](/post/extremely/) [narrow](/post/narrow/) [margin](/post/margin/) [or](/post/or/) [difference](/post/difference/).
+- "[The](/post/the/) [width](/post/width/) [of](/post/of/) [a](/post/a/) doorway" refers [to](/post/to/) [the](/post/the/) dimensions needed [to](/post/to/) [pass](/post/pass/) [through](/post/through/).
+- "[Breath](/post/breath/) [width](/post/width/)" is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [breadth](/post/breadth/) [of](/post/of/) someone's breathing.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [bridge](/en/post/bridge/) was designed [to](/en/post/to/) [accommodate](/en/post/accommodate/) [the](/en/post/the/) [maximum](/en/post/maximum/) [width](/en/post/width/) [of](/en/post/of/) [the](/en/post/the/) passing vehicles."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [artist](/en/post/artist/) stretched [the](/en/post/the/) [canvas](/en/post/canvas/) [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) [dramatic](/en/post/dramatic/) width-to-height [ratio](/en/post/ratio/)."
-- "[The](/en/post/the/) [child](/en/post/child/) measured [the](/en/post/the/) [width](/en/post/width/) [of](/en/post/of/) [the](/en/post/the/) [river](/en/post/river/) [with](/en/post/with/) [a](/en/post/a/) [stick](/en/post/stick/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [bridge](/post/bridge/) was designed [to](/post/to/) [accommodate](/post/accommodate/) [the](/post/the/) [maximum](/post/maximum/) [width](/post/width/) [of](/post/of/) [the](/post/the/) passing vehicles."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [artist](/post/artist/) stretched [the](/post/the/) [canvas](/post/canvas/) [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) [dramatic](/post/dramatic/) width-to-height [ratio](/post/ratio/)."
+- "[The](/post/the/) [child](/post/child/) measured [the](/post/the/) [width](/post/width/) [of](/post/of/) [the](/post/the/) [river](/post/river/) [with](/post/with/) [a](/post/a/) [stick](/post/stick/)."
 
 ## Synonyms
-- [Breadth](/en/post/breadth/)
+- [Breadth](/post/breadth/)
 - Widthiness
-- [Extent](/en/post/extent/)
-- [Span](/en/post/span/)
-- [Diameter](/en/post/diameter/) ([when](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) [measurement](/en/post/measurement/) [across](/en/post/across/) [a](/en/post/a/) [circle](/en/post/circle/))
+- [Extent](/post/extent/)
+- [Span](/post/span/)
+- [Diameter](/post/diameter/) ([when](/post/when/) referring [to](/post/to/) [the](/post/the/) [measurement](/post/measurement/) [across](/post/across/) [a](/post/a/) [circle](/post/circle/))
 
 ## Antonyms
 - Narrowness
 - Thinness
--狹窄([narrow](/en/post/narrow/)) / [thin](/en/post/thin/)([thin](/en/post/thin/))
+-狹窄([narrow](/post/narrow/)) / [thin](/post/thin/)([thin](/post/thin/))

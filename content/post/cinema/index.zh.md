@@ -11,21 +11,21 @@ keywords = ['ai words', 'cinema']
 /ˈsɪnəmə/
 
 ## 释义
-- **名词 (n)**: 电影院，电影馆。例如: "We're going [to](/post/to/) [the](/post/the/) [cinema](/post/cinema/) [to](/post/to/) [watch](/post/watch/) [the](/post/the/) [new](/post/new/) [release](/post/release/)."
-- **名词 (n)**: 电影行业，电影艺术。例如: "[The](/post/the/) [cinema](/post/cinema/) has [a](/post/a/) [rich](/post/rich/) [history](/post/history/) dating [back](/post/back/) [to](/post/to/) [the](/post/the/) [late](/post/late/) 19th [century](/post/century/)."
-- **名词 (n)**: 电影，影片。例如: "[That](/post/that/) was [a](/post/a/) [great](/post/great/) [cinema](/post/cinema/), I [really](/post/really/) enjoyed [it](/post/it/)."
+- **名词 (n)**: 电影院，电影馆。例如: "We're going [to](/zh/post/to/) [the](/zh/post/the/) [cinema](/zh/post/cinema/) [to](/zh/post/to/) [watch](/zh/post/watch/) [the](/zh/post/the/) [new](/zh/post/new/) [release](/zh/post/release/)."
+- **名词 (n)**: 电影行业，电影艺术。例如: "[The](/zh/post/the/) [cinema](/zh/post/cinema/) has [a](/zh/post/a/) [rich](/zh/post/rich/) [history](/zh/post/history/) dating [back](/zh/post/back/) [to](/zh/post/to/) [the](/zh/post/the/) [late](/zh/post/late/) 19th [century](/zh/post/century/)."
+- **名词 (n)**: 电影，影片。例如: "[That](/zh/post/that/) was [a](/zh/post/a/) [great](/zh/post/great/) [cinema](/zh/post/cinema/), I [really](/zh/post/really/) enjoyed [it](/zh/post/it/)."
 
 ## 短语
-- "[At](/post/at/) [the](/post/the/) [cinema](/post/cinema/)" 指在电影院看电影。
+- "[At](/zh/post/at/) [the](/zh/post/the/) [cinema](/zh/post/cinema/)" 指在电影院看电影。
 - "Cinema-goer" 是指经常去电影院看电影的人。
 
 ## 例句
-- 名词: "Let's [meet](/post/meet/) [outside](/post/outside/) [the](/post/the/) [cinema](/post/cinema/) [for](/post/for/) [our](/post/our/) [movie](/post/movie/) [date](/post/date/) [tonight](/post/tonight/)."
-- 名词: "[The](/post/the/) [cinema](/post/cinema/) [industry](/post/industry/) is constantly evolving [with](/post/with/) [new](/post/new/) technologies."
-- 名词: "I can't [wait](/post/wait/) [to](/post/to/) [see](/post/see/) [the](/post/the/) latest [cinema](/post/cinema/) [from](/post/from/) [my](/post/my/) favorite [director](/post/director/)."
+- 名词: "Let's [meet](/zh/post/meet/) [outside](/zh/post/outside/) [the](/zh/post/the/) [cinema](/zh/post/cinema/) [for](/zh/post/for/) [our](/zh/post/our/) [movie](/zh/post/movie/) [date](/zh/post/date/) [tonight](/zh/post/tonight/)."
+- 名词: "[The](/zh/post/the/) [cinema](/zh/post/cinema/) [industry](/zh/post/industry/) is constantly evolving [with](/zh/post/with/) [new](/zh/post/new/) technologies."
+- 名词: "I can't [wait](/zh/post/wait/) [to](/zh/post/to/) [see](/zh/post/see/) [the](/zh/post/the/) latest [cinema](/zh/post/cinema/) [from](/zh/post/from/) [my](/zh/post/my/) favorite [director](/zh/post/director/)."
 
 ## 同义词
-- [Movie](/post/movie/) theater
-- [Film](/post/film/) [house](/post/house/)
-- [Picture](/post/picture/) [palace](/post/palace/)
-- Theater ([in](/post/in/) [the](/post/the/) context [of](/post/of/) films)
+- [Movie](/zh/post/movie/) theater
+- [Film](/zh/post/film/) [house](/zh/post/house/)
+- [Picture](/zh/post/picture/) [palace](/zh/post/palace/)
+- Theater ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) films)

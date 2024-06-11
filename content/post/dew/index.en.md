@@ -7,31 +7,31 @@ description = '[djuː] n.露，露水'
 keywords = ['ai words', 'dew']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /djuː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [thin](/en/post/thin/) [layer](/en/post/layer/) [of](/en/post/of/) [water](/en/post/water/) [that](/en/post/that/) forms [on](/en/post/on/) [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) plants, [grass](/en/post/grass/), [or](/en/post/or/) [other](/en/post/other/) objects [during](/en/post/during/) [cool](/en/post/cool/), [humid](/en/post/humid/) nights, [usually](/en/post/usually/) evaporating [when](/en/post/when/) [the](/en/post/the/) [sun](/en/post/sun/) rises. ["[The](/en/post/the/) [morning](/en/post/morning/) [dew](/en/post/dew/) glistened [on](/en/post/on/) [the](/en/post/the/) leaves."](https://www.[example](/en/post/example/).com/dew-definition)
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) resembling [dew](/en/post/dew/); [cool](/en/post/cool/) [and](/en/post/and/) [moist](/en/post/moist/). ["[A](/en/post/a/) dewy [morning](/en/post/morning/) greeted [the](/en/post/the/) hikers."](https://www.[example](/en/post/example/).com/dew-adjective)
+- **[Noun](/post/noun/)**: [A](/post/a/) [thin](/post/thin/) [layer](/post/layer/) [of](/post/of/) [water](/post/water/) [that](/post/that/) forms [on](/post/on/) [the](/post/the/) [surface](/post/surface/) [of](/post/of/) plants, [grass](/post/grass/), [or](/post/or/) [other](/post/other/) objects [during](/post/during/) [cool](/post/cool/), [humid](/post/humid/) nights, [usually](/post/usually/) evaporating [when](/post/when/) [the](/post/the/) [sun](/post/sun/) rises. ["[The](/post/the/) [morning](/post/morning/) [dew](/post/dew/) glistened [on](/post/on/) [the](/post/the/) leaves."](https://www.[example](/post/example/).com/dew-definition)
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) resembling [dew](/post/dew/); [cool](/post/cool/) [and](/post/and/) [moist](/post/moist/). ["[A](/post/a/) dewy [morning](/post/morning/) greeted [the](/post/the/) hikers."](https://www.[example](/post/example/).com/dew-adjective)
 
 ## Phrases
-- "Dew-covered [grass](/en/post/grass/)" describes [grass](/en/post/grass/) [with](/en/post/with/) [a](/en/post/a/) [thin](/en/post/thin/) [layer](/en/post/layer/) [of](/en/post/of/) [water](/en/post/water/) [from](/en/post/from/) [dew](/en/post/dew/).
-- "[Dew](/en/post/dew/) [point](/en/post/point/)" refers [to](/en/post/to/) [the](/en/post/the/) [temperature](/en/post/temperature/) [at](/en/post/at/) [which](/en/post/which/) [air](/en/post/air/) becomes saturated [with](/en/post/with/) [water](/en/post/water/) vapor [and](/en/post/and/) [dew](/en/post/dew/) starts [to](/en/post/to/) [form](/en/post/form/).
-- "Dew-resistant [material](/en/post/material/)" is [a](/en/post/a/) [substance](/en/post/substance/) [that](/en/post/that/) does [not](/en/post/not/) [easily](/en/post/easily/) [absorb](/en/post/absorb/) [or](/en/post/or/) [retain](/en/post/retain/) [dew](/en/post/dew/).
+- "Dew-covered [grass](/post/grass/)" describes [grass](/post/grass/) [with](/post/with/) [a](/post/a/) [thin](/post/thin/) [layer](/post/layer/) [of](/post/of/) [water](/post/water/) [from](/post/from/) [dew](/post/dew/).
+- "[Dew](/post/dew/) [point](/post/point/)" refers [to](/post/to/) [the](/post/the/) [temperature](/post/temperature/) [at](/post/at/) [which](/post/which/) [air](/post/air/) becomes saturated [with](/post/with/) [water](/post/water/) vapor [and](/post/and/) [dew](/post/dew/) starts [to](/post/to/) [form](/post/form/).
+- "Dew-resistant [material](/post/material/)" is [a](/post/a/) [substance](/post/substance/) [that](/post/that/) does [not](/post/not/) [easily](/post/easily/) [absorb](/post/absorb/) [or](/post/or/) [retain](/post/retain/) [dew](/post/dew/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [dew](/en/post/dew/) had formed [on](/en/post/on/) [the](/en/post/the/) windowsill [overnight](/en/post/overnight/), creating [a](/en/post/a/) refreshing [scene](/en/post/scene/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) dewy [night](/en/post/night/) [air](/en/post/air/) invigorated [her](/en/post/her/) lungs [as](/en/post/as/) [she](/en/post/she/) stepped [outside](/en/post/outside/)."
-- "[The](/en/post/the/) children woke [up](/en/post/up/) [to](/en/post/to/) [the](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) dewdrops falling [from](/en/post/from/) [the](/en/post/the/) trees."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [dew](/post/dew/) had formed [on](/post/on/) [the](/post/the/) windowsill [overnight](/post/overnight/), creating [a](/post/a/) refreshing [scene](/post/scene/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) dewy [night](/post/night/) [air](/post/air/) invigorated [her](/post/her/) lungs [as](/post/as/) [she](/post/she/) stepped [outside](/post/outside/)."
+- "[The](/post/the/) children woke [up](/post/up/) [to](/post/to/) [the](/post/the/) [sound](/post/sound/) [of](/post/of/) dewdrops falling [from](/post/from/) [the](/post/the/) trees."
 
 ## Synonyms
 - Condensation
-- [Morning](/en/post/morning/) [dew](/en/post/dew/)
+- [Morning](/post/morning/) [dew](/post/dew/)
 - Dewfall
-- [Mist](/en/post/mist/)
-- [Cool](/en/post/cool/) [moisture](/en/post/moisture/)
+- [Mist](/post/mist/)
+- [Cool](/post/cool/) [moisture](/post/moisture/)
 
 ## Related Words
 - Dewdrop
 - Dewpoint
-- [Frost](/en/post/frost/) ([similar](/en/post/similar/) [but](/en/post/but/) refers [to](/en/post/to/) [ice](/en/post/ice/) crystals forming [on](/en/post/on/) surfaces [after](/en/post/after/) freezing temperatures)
+- [Frost](/post/frost/) ([similar](/post/similar/) [but](/post/but/) refers [to](/post/to/) [ice](/post/ice/) crystals forming [on](/post/on/) surfaces [after](/post/after/) freezing temperatures)

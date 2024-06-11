@@ -7,38 +7,38 @@ description = '[læmp] n.灯'
 keywords = ['ai words', 'lamp']
 +++
 
-## [Word](/en/post/word/): [Lamp](/en/post/lamp/)
+## [Word](/post/word/): [Lamp](/post/lamp/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /læmp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) produces [light](/en/post/light/), typically [either](/en/post/either/) [from](/en/post/from/) [electricity](/en/post/electricity/) [or](/en/post/or/) [a](/en/post/a/) [fuel](/en/post/fuel/) [source](/en/post/source/) [such](/en/post/such/) [as](/en/post/as/) [oil](/en/post/oil/) [or](/en/post/or/) [gas](/en/post/gas/). [It](/en/post/it/) [usually](/en/post/usually/) consists [of](/en/post/of/) [a](/en/post/a/) [stand](/en/post/stand/), housing, [and](/en/post/and/) [a](/en/post/a/) [bulb](/en/post/bulb/) [or](/en/post/or/) [flame](/en/post/flame/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) turned [on](/en/post/on/) [the](/en/post/the/) bedside [lamp](/en/post/lamp/) [before](/en/post/before/) [reading](/en/post/reading/) [her](/en/post/her/) [book](/en/post/book/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [device](/post/device/) [that](/post/that/) produces [light](/post/light/), typically [either](/post/either/) [from](/post/from/) [electricity](/post/electricity/) [or](/post/or/) [a](/post/a/) [fuel](/post/fuel/) [source](/post/source/) [such](/post/such/) [as](/post/as/) [oil](/post/oil/) [or](/post/or/) [gas](/post/gas/). [It](/post/it/) [usually](/post/usually/) consists [of](/post/of/) [a](/post/a/) [stand](/post/stand/), housing, [and](/post/and/) [a](/post/a/) [bulb](/post/bulb/) [or](/post/or/) [flame](/post/flame/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) turned [on](/post/on/) [the](/post/the/) bedside [lamp](/post/lamp/) [before](/post/before/) [reading](/post/reading/) [her](/post/her/) [book](/post/book/)."
   
-  - _As [a](/en/post/a/) metaphorical use_ : [A](/en/post/a/) [source](/en/post/source/) [of](/en/post/of/) enlightenment [or](/en/post/or/) [guidance](/en/post/guidance/); e.g., "[Education](/en/post/education/) is [the](/en/post/the/) [lamp](/en/post/lamp/) [of](/en/post/of/) [life](/en/post/life/)."
+  - _As [a](/post/a/) metaphorical use_ : [A](/post/a/) [source](/post/source/) [of](/post/of/) enlightenment [or](/post/or/) [guidance](/post/guidance/); e.g., "[Education](/post/education/) is [the](/post/the/) [lamp](/post/lamp/) [of](/post/of/) [life](/post/life/)."
   
-- **[Verb](/en/post/verb/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: [To](/en/post/to/) illuminate [with](/en/post/with/) [or](/en/post/or/) [as](/en/post/as/) [if](/en/post/if/) [with](/en/post/with/) [a](/en/post/a/) [lamp](/en/post/lamp/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) streetlamp lamps [the](/en/post/the/) [dark](/en/post/dark/) alleyway."
+- **[Verb](/post/verb/) ([rarely](/post/rarely/) [used](/post/used/))**: [To](/post/to/) illuminate [with](/post/with/) [or](/post/or/) [as](/post/as/) [if](/post/if/) [with](/post/with/) [a](/post/a/) [lamp](/post/lamp/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) streetlamp lamps [the](/post/the/) [dark](/post/dark/) alleyway."
 
 ## Phrases
-- "[To](/en/post/to/) [light](/en/post/light/) [up](/en/post/up/) [the](/en/post/the/) [lamp](/en/post/lamp/)" [means](/en/post/means/) [to](/en/post/to/) [turn](/en/post/turn/) [on](/en/post/on/) [a](/en/post/a/) [lamp](/en/post/lamp/) [or](/en/post/or/) [produce](/en/post/produce/) [light](/en/post/light/).
-- "[Street](/en/post/street/) [lamp](/en/post/lamp/)" refers [to](/en/post/to/) [a](/en/post/a/) [lamp](/en/post/lamp/) fixed [on](/en/post/on/) [a](/en/post/a/) [pole](/en/post/pole/) [or](/en/post/or/) [post](/en/post/post/) [along](/en/post/along/) [a](/en/post/a/) [street](/en/post/street/) [for](/en/post/for/) [public](/en/post/public/) lighting.
-- "Lampshade" is [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [lamp](/en/post/lamp/) [that](/en/post/that/) covers [the](/en/post/the/) [light](/en/post/light/) [source](/en/post/source/) [to](/en/post/to/) diffuse [or](/en/post/or/) soften [the](/en/post/the/) [light](/en/post/light/).
+- "[To](/post/to/) [light](/post/light/) [up](/post/up/) [the](/post/the/) [lamp](/post/lamp/)" [means](/post/means/) [to](/post/to/) [turn](/post/turn/) [on](/post/on/) [a](/post/a/) [lamp](/post/lamp/) [or](/post/or/) [produce](/post/produce/) [light](/post/light/).
+- "[Street](/post/street/) [lamp](/post/lamp/)" refers [to](/post/to/) [a](/post/a/) [lamp](/post/lamp/) fixed [on](/post/on/) [a](/post/a/) [pole](/post/pole/) [or](/post/or/) [post](/post/post/) [along](/post/along/) [a](/post/a/) [street](/post/street/) [for](/post/for/) [public](/post/public/) lighting.
+- "Lampshade" is [a](/post/a/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [lamp](/post/lamp/) [that](/post/that/) covers [the](/post/the/) [light](/post/light/) [source](/post/source/) [to](/post/to/) diffuse [or](/post/or/) soften [the](/post/the/) [light](/post/light/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [desk](/en/post/desk/) [lamp](/en/post/lamp/) [provided](/en/post/provided/) ample [light](/en/post/light/) [for](/en/post/for/) [him](/en/post/him/) [to](/en/post/to/) [finish](/en/post/finish/) [his](/en/post/his/) homework."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) moonlight effectively lamped [the](/en/post/the/) [garden](/en/post/garden/) [path](/en/post/path/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [desk](/post/desk/) [lamp](/post/lamp/) [provided](/post/provided/) ample [light](/post/light/) [for](/post/for/) [him](/post/him/) [to](/post/to/) [finish](/post/finish/) [his](/post/his/) homework."
+- **[Verb](/post/verb/)**: "[The](/post/the/) moonlight effectively lamped [the](/post/the/) [garden](/post/garden/) [path](/post/path/)."
 
 ## Synonyms
-- [Light](/en/post/light/)
-- [Bulb](/en/post/bulb/)
-- [Lantern](/en/post/lantern/)
-- [Torch](/en/post/torch/)
+- [Light](/post/light/)
+- [Bulb](/post/bulb/)
+- [Lantern](/post/lantern/)
+- [Torch](/post/torch/)
 - Fixture
 - Luminary
-- [Reading](/en/post/reading/) [light](/en/post/light/)
-- [Desk](/en/post/desk/) [light](/en/post/light/)
+- [Reading](/post/reading/) [light](/post/light/)
+- [Desk](/post/desk/) [light](/post/light/)
 
 ### Related Phrases & Idioms
-- "[Light](/en/post/light/) [a](/en/post/a/) [fire](/en/post/fire/) [under](/en/post/under/) [someone](/en/post/someone/)": [To](/en/post/to/) [motivate](/en/post/motivate/) [or](/en/post/or/) energize [them](/en/post/them/) [to](/en/post/to/) [take](/en/post/take/) [action](/en/post/action/).
-- "[Carry](/en/post/carry/) [a](/en/post/a/) [torch](/en/post/torch/) [for](/en/post/for/) [someone](/en/post/someone/)": [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) long-lasting [affection](/en/post/affection/) [or](/en/post/or/) [love](/en/post/love/) [for](/en/post/for/) [someone](/en/post/someone/), [often](/en/post/often/) unrequited.
-- "[Under](/en/post/under/) [the](/en/post/the/) lamplight": [In](/en/post/in/) [a](/en/post/a/) [setting](/en/post/setting/) [where](/en/post/where/) [something](/en/post/something/) is [clearly](/en/post/clearly/) [visible](/en/post/visible/) [or](/en/post/or/) illuminated.
+- "[Light](/post/light/) [a](/post/a/) [fire](/post/fire/) [under](/post/under/) [someone](/post/someone/)": [To](/post/to/) [motivate](/post/motivate/) [or](/post/or/) energize [them](/post/them/) [to](/post/to/) [take](/post/take/) [action](/post/action/).
+- "[Carry](/post/carry/) [a](/post/a/) [torch](/post/torch/) [for](/post/for/) [someone](/post/someone/)": [To](/post/to/) [have](/post/have/) [a](/post/a/) long-lasting [affection](/post/affection/) [or](/post/or/) [love](/post/love/) [for](/post/for/) [someone](/post/someone/), [often](/post/often/) unrequited.
+- "[Under](/post/under/) [the](/post/the/) lamplight": [In](/post/in/) [a](/post/a/) [setting](/post/setting/) [where](/post/where/) [something](/post/something/) is [clearly](/post/clearly/) [visible](/post/visible/) [or](/post/or/) illuminated.

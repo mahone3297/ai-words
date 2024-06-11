@@ -11,20 +11,20 @@ keywords = ['ai words', 'durable']
 /djuˈrəbl/
 
 ## 释义
-- **形容词**: 能够持久的，耐用的，耐久的。例如: "[The](/post/the/) [new](/post/new/) sofa is [very](/post/very/) [durable](/post/durable/) [and](/post/and/) [will](/post/will/) [last](/post/last/) [for](/post/for/) years."
-- **名词**: (尤指材料或产品)耐久性，持久性。例如: "[The](/post/the/) durability [of](/post/of/) [the](/post/the/) [product](/post/product/) is [one](/post/one/) [of](/post/of/) [its](/post/its/) [main](/post/main/) selling points."
+- **形容词**: 能够持久的，耐用的，耐久的。例如: "[The](/zh/post/the/) [new](/zh/post/new/) sofa is [very](/zh/post/very/) [durable](/zh/post/durable/) [and](/zh/post/and/) [will](/zh/post/will/) [last](/zh/post/last/) [for](/zh/post/for/) years."
+- **名词**: (尤指材料或产品)耐久性，持久性。例如: "[The](/zh/post/the/) durability [of](/zh/post/of/) [the](/zh/post/the/) [product](/zh/post/product/) is [one](/zh/post/one/) [of](/zh/post/of/) [its](/zh/post/its/) [main](/zh/post/main/) selling points."
 
 ## 短语
-- "[durable](/post/durable/) [goods](/post/goods/)" 指的是耐用消费品，如家电和汽车。
-- "[durable](/post/durable/) [material](/post/material/)" 指的是能经受长时间使用而不损坏的材料。
+- "[durable](/zh/post/durable/) [goods](/zh/post/goods/)" 指的是耐用消费品，如家电和汽车。
+- "[durable](/zh/post/durable/) [material](/zh/post/material/)" 指的是能经受长时间使用而不损坏的材料。
 
 ## 例句
-- 形容词: "[This](/post/this/) backpack is made [from](/post/from/) [durable](/post/durable/) [fabric](/post/fabric/), [perfect](/post/perfect/) [for](/post/for/) hiking trips."
-- 名词: "[The](/post/the/) [manufacturer](/post/manufacturer/) guarantees [excellent](/post/excellent/) durability [for](/post/for/) [their](/post/their/) products."
+- 形容词: "[This](/zh/post/this/) backpack is made [from](/zh/post/from/) [durable](/zh/post/durable/) [fabric](/zh/post/fabric/), [perfect](/zh/post/perfect/) [for](/zh/post/for/) hiking trips."
+- 名词: "[The](/zh/post/the/) [manufacturer](/zh/post/manufacturer/) guarantees [excellent](/zh/post/excellent/) durability [for](/zh/post/for/) [their](/zh/post/their/) products."
 
 ## 同义词
 - long-lasting
 - sturdy
-- [tough](/post/tough/)
+- [tough](/zh/post/tough/)
 - resilient
 - robust

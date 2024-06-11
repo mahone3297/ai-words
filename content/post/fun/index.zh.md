@@ -11,20 +11,20 @@ keywords = ['ai words', 'fun']
 /fʌn/
 
 ## 释义
-- **名词**: 乐趣，快乐，娱乐。例如: "[The](/post/the/) children had [great](/post/great/) [fun](/post/fun/) [at](/post/at/) [the](/post/the/) amusement [park](/post/park/)."
-- **形容词**: 有趣的，好玩的。例如: "[That](/post/that/) was [a](/post/a/) [fun](/post/fun/) [game](/post/game/)."
+- **名词**: 乐趣，快乐，娱乐。例如: "[The](/zh/post/the/) children had [great](/zh/post/great/) [fun](/zh/post/fun/) [at](/zh/post/at/) [the](/zh/post/the/) amusement [park](/zh/post/park/)."
+- **形容词**: 有趣的，好玩的。例如: "[That](/zh/post/that/) was [a](/zh/post/a/) [fun](/zh/post/fun/) [game](/zh/post/game/)."
 
 ## 短语
-- "[Have](/post/have/) [fun](/post/fun/)" 意为玩得开心，享受乐趣。例如: "[Enjoy](/post/enjoy/) [yourself](/post/yourself/) [and](/post/and/) [have](/post/have/) [fun](/post/fun/) [tonight](/post/tonight/)!"
-- "[Fun](/post/fun/) [fact](/post/fact/)" 指有趣的小知识。例如: "Did [you](/post/you/) [know](/post/know/) [that](/post/that/) cats can't [taste](/post/taste/) sweetness? That's [a](/post/a/) [fun](/post/fun/) [fact](/post/fact/)!"
+- "[Have](/zh/post/have/) [fun](/zh/post/fun/)" 意为玩得开心，享受乐趣。例如: "[Enjoy](/zh/post/enjoy/) [yourself](/zh/post/yourself/) [and](/zh/post/and/) [have](/zh/post/have/) [fun](/zh/post/fun/) [tonight](/zh/post/tonight/)!"
+- "[Fun](/zh/post/fun/) [fact](/zh/post/fact/)" 指有趣的小知识。例如: "Did [you](/zh/post/you/) [know](/zh/post/know/) [that](/zh/post/that/) cats can't [taste](/zh/post/taste/) sweetness? That's [a](/zh/post/a/) [fun](/zh/post/fun/) [fact](/zh/post/fact/)!"
 
 ## 例句
-- 名词: "[The](/post/the/) [main](/post/main/) [purpose](/post/purpose/) [of](/post/of/) [the](/post/the/) [party](/post/party/) is [to](/post/to/) [have](/post/have/) [fun](/post/fun/)."
-- 形容词: "[The](/post/the/) [movie](/post/movie/) was [so](/post/so/) [fun](/post/fun/) [that](/post/that/) [we](/post/we/) watched [it](/post/it/) [twice](/post/twice/)."
+- 名词: "[The](/zh/post/the/) [main](/zh/post/main/) [purpose](/zh/post/purpose/) [of](/zh/post/of/) [the](/zh/post/the/) [party](/zh/post/party/) is [to](/zh/post/to/) [have](/zh/post/have/) [fun](/zh/post/fun/)."
+- 形容词: "[The](/zh/post/the/) [movie](/zh/post/movie/) was [so](/zh/post/so/) [fun](/zh/post/fun/) [that](/zh/post/that/) [we](/zh/post/we/) watched [it](/zh/post/it/) [twice](/zh/post/twice/)."
 
 ## 同义词
 - Enjoyment
-- [Pleasure](/post/pleasure/)
+- [Pleasure](/zh/post/pleasure/)
 - Entertainment
 - Jollity
 - Amusement

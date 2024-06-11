@@ -12,21 +12,21 @@ keywords = ['ai words', 'jam']
 
 ## 释义
 - **名词**:
-  - 堵塞；拥挤：[A](/post/a/) [situation](/post/situation/) [in](/post/in/) [which](/post/which/) vehicles [or](/post/or/) [people](/post/people/) are [unable](/post/unable/) [to](/post/to/) [move](/post/move/) [easily](/post/easily/) [because](/post/because/) [of](/post/of/) [too](/post/too/) [much](/post/much/) [traffic](/post/traffic/) [or](/post/or/) [too](/post/too/) [many](/post/many/) [people](/post/people/) [in](/post/in/) [a](/post/a/) [small](/post/small/) [space](/post/space/). 例如: "[There](/post/there/) was [a](/post/a/) [terrible](/post/terrible/) [traffic](/post/traffic/) [jam](/post/jam/) [on](/post/on/) [the](/post/the/) [highway](/post/highway/) [this](/post/this/) [morning](/post/morning/)."
-  - 果酱：[A](/post/a/) [sweet](/post/sweet/) [preserve](/post/preserve/) made [by](/post/by/) cooking [fruit](/post/fruit/) [with](/post/with/) [sugar](/post/sugar/). 例如: "I [love](/post/love/) [to](/post/to/) [spread](/post/spread/) [jam](/post/jam/) [on](/post/on/) [my](/post/my/) [toast](/post/toast/) [for](/post/for/) [breakfast](/post/breakfast/)."
+  - 堵塞；拥挤：[A](/zh/post/a/) [situation](/zh/post/situation/) [in](/zh/post/in/) [which](/zh/post/which/) vehicles [or](/zh/post/or/) [people](/zh/post/people/) are [unable](/zh/post/unable/) [to](/zh/post/to/) [move](/zh/post/move/) [easily](/zh/post/easily/) [because](/zh/post/because/) [of](/zh/post/of/) [too](/zh/post/too/) [much](/zh/post/much/) [traffic](/zh/post/traffic/) [or](/zh/post/or/) [too](/zh/post/too/) [many](/zh/post/many/) [people](/zh/post/people/) [in](/zh/post/in/) [a](/zh/post/a/) [small](/zh/post/small/) [space](/zh/post/space/). 例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [terrible](/zh/post/terrible/) [traffic](/zh/post/traffic/) [jam](/zh/post/jam/) [on](/zh/post/on/) [the](/zh/post/the/) [highway](/zh/post/highway/) [this](/zh/post/this/) [morning](/zh/post/morning/)."
+  - 果酱：[A](/zh/post/a/) [sweet](/zh/post/sweet/) [preserve](/zh/post/preserve/) made [by](/zh/post/by/) cooking [fruit](/zh/post/fruit/) [with](/zh/post/with/) [sugar](/zh/post/sugar/). 例如: "I [love](/zh/post/love/) [to](/zh/post/to/) [spread](/zh/post/spread/) [jam](/zh/post/jam/) [on](/zh/post/on/) [my](/zh/post/my/) [toast](/zh/post/toast/) [for](/zh/post/for/) [breakfast](/zh/post/breakfast/)."
 
 - **动词**:
-  - 使堵塞；卡住：[To](/post/to/) obstruct [or](/post/or/) [block](/post/block/) [something](/post/something/) [so](/post/so/) [that](/post/that/) [it](/post/it/) cannot [move](/post/move/) [freely](/post/freely/). 例如: "[The](/post/the/) [door](/post/door/) jammed [and](/post/and/) [we](/post/we/) couldn't [get](/post/get/) [out](/post/out/)."
-  - 在音乐中即兴演奏：[To](/post/to/) improvise musically [with](/post/with/) others, [especially](/post/especially/) [in](/post/in/) [jazz](/post/jazz/). 例如: "[They](/post/they/) [often](/post/often/) [have](/post/have/) [jam](/post/jam/) sessions [at](/post/at/) [the](/post/the/) [local](/post/local/) blues [club](/post/club/)."
+  - 使堵塞；卡住：[To](/zh/post/to/) obstruct [or](/zh/post/or/) [block](/zh/post/block/) [something](/zh/post/something/) [so](/zh/post/so/) [that](/zh/post/that/) [it](/zh/post/it/) cannot [move](/zh/post/move/) [freely](/zh/post/freely/). 例如: "[The](/zh/post/the/) [door](/zh/post/door/) jammed [and](/zh/post/and/) [we](/zh/post/we/) couldn't [get](/zh/post/get/) [out](/zh/post/out/)."
+  - 在音乐中即兴演奏：[To](/zh/post/to/) improvise musically [with](/zh/post/with/) others, [especially](/zh/post/especially/) [in](/zh/post/in/) [jazz](/zh/post/jazz/). 例如: "[They](/zh/post/they/) [often](/zh/post/often/) [have](/zh/post/have/) [jam](/zh/post/jam/) sessions [at](/zh/post/at/) [the](/zh/post/the/) [local](/zh/post/local/) blues [club](/zh/post/club/)."
 
 ## 短语
-- "[be](/post/be/) stuck [in](/post/in/) [a](/post/a/) [jam](/post/jam/)" 意味陷入困境。
-- "[jam](/post/jam/) [session](/post/session/)" 是音乐家们即兴演奏的聚会。
+- "[be](/zh/post/be/) stuck [in](/zh/post/in/) [a](/zh/post/a/) [jam](/zh/post/jam/)" 意味陷入困境。
+- "[jam](/zh/post/jam/) [session](/zh/post/session/)" 是音乐家们即兴演奏的聚会。
 
 ## 例句
-- 名词: "[The](/post/the/) [supermarket](/post/supermarket/) was [so](/post/so/) crowded [that](/post/that/) [we](/post/we/) got caught [in](/post/in/) [a](/post/a/) [jam](/post/jam/) [at](/post/at/) [the](/post/the/) checkout."
-- 动词: "[The](/post/the/) [key](/post/key/) jammed [in](/post/in/) [the](/post/the/) [lock](/post/lock/) [and](/post/and/) [we](/post/we/) had [to](/post/to/) [call](/post/call/) [a](/post/a/) locksmith."
-- "Let's [jam](/post/jam/) [together](/post/together/)!" 表示邀请一起即兴演奏。
+- 名词: "[The](/zh/post/the/) [supermarket](/zh/post/supermarket/) was [so](/zh/post/so/) crowded [that](/zh/post/that/) [we](/zh/post/we/) got caught [in](/zh/post/in/) [a](/zh/post/a/) [jam](/zh/post/jam/) [at](/zh/post/at/) [the](/zh/post/the/) checkout."
+- 动词: "[The](/zh/post/the/) [key](/zh/post/key/) jammed [in](/zh/post/in/) [the](/zh/post/the/) [lock](/zh/post/lock/) [and](/zh/post/and/) [we](/zh/post/we/) had [to](/zh/post/to/) [call](/zh/post/call/) [a](/zh/post/a/) locksmith."
+- "Let's [jam](/zh/post/jam/) [together](/zh/post/together/)!" 表示邀请一起即兴演奏。
 
 ## 同义词
 - Blockage

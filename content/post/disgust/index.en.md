@@ -7,38 +7,38 @@ description = '[disˈgʌst] n.厌恶，憎恶'
 keywords = ['ai words', 'disgust']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /disɡʌst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Disgust](/en/post/disgust/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [strong](/en/post/strong/) [feeling](/en/post/feeling/) [of](/en/post/of/) revulsion, distaste, [or](/en/post/or/) [hatred](/en/post/hatred/) towards [something](/en/post/something/) morally reprehensible [or](/en/post/or/) unappetizing. [Example](/en/post/example/): "[The](/en/post/the/) [sight](/en/post/sight/) [of](/en/post/of/) [the](/en/post/the/) spoiled [food](/en/post/food/) filled [her](/en/post/her/) [with](/en/post/with/) [disgust](/en/post/disgust/)."
+### [Noun](/post/noun/)
+**[Disgust](/post/disgust/)** ([noun](/post/noun/)): [A](/post/a/) [strong](/post/strong/) [feeling](/post/feeling/) [of](/post/of/) revulsion, distaste, [or](/post/or/) [hatred](/post/hatred/) towards [something](/post/something/) morally reprehensible [or](/post/or/) unappetizing. [Example](/post/example/): "[The](/post/the/) [sight](/post/sight/) [of](/post/of/) [the](/post/the/) spoiled [food](/post/food/) filled [her](/post/her/) [with](/post/with/) [disgust](/post/disgust/)."
 
-### [Verb](/en/post/verb/)
-**[Disgust](/en/post/disgust/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [cause](/en/post/cause/) [intense](/en/post/intense/) feelings [of](/en/post/of/) repulsion [or](/en/post/or/) aversion; [to](/en/post/to/) [offend](/en/post/offend/) [or](/en/post/or/) [shock](/en/post/shock/) [someone](/en/post/someone/) morally [or](/en/post/or/) emotionally. [Example](/en/post/example/): "[His](/en/post/his/) dishonesty disgusted [the](/en/post/the/) [entire](/en/post/entire/) [community](/en/post/community/)."
+### [Verb](/post/verb/)
+**[Disgust](/post/disgust/)** ([verb](/post/verb/)): [To](/post/to/) [cause](/post/cause/) [intense](/post/intense/) feelings [of](/post/of/) repulsion [or](/post/or/) aversion; [to](/post/to/) [offend](/post/offend/) [or](/post/or/) [shock](/post/shock/) [someone](/post/someone/) morally [or](/post/or/) emotionally. [Example](/post/example/): "[His](/post/his/) dishonesty disgusted [the](/post/the/) [entire](/post/entire/) [community](/post/community/)."
 
-### [Adjective](/en/post/adjective/)
-**Disgusting** ([adjective](/en/post/adjective/)): Causing [or](/en/post/or/) characterized [by](/en/post/by/) feelings [of](/en/post/of/) revulsion [or](/en/post/or/) repugnance. [Example](/en/post/example/): "[The](/en/post/the/) [smell](/en/post/smell/) [of](/en/post/of/) rotting [garbage](/en/post/garbage/) was disgusting."
+### [Adjective](/post/adjective/)
+**Disgusting** ([adjective](/post/adjective/)): Causing [or](/post/or/) characterized [by](/post/by/) feelings [of](/post/of/) revulsion [or](/post/or/) repugnance. [Example](/post/example/): "[The](/post/the/) [smell](/post/smell/) [of](/post/of/) rotting [garbage](/post/garbage/) was disgusting."
 
-### [Adverb](/en/post/adverb/)
-**Disgustedly** ([adverb](/en/post/adverb/)): [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) expressing [disgust](/en/post/disgust/); [with](/en/post/with/) [great](/en/post/great/) revulsion. [Example](/en/post/example/): "[She](/en/post/she/) spoke disgustedly [about](/en/post/about/) [the](/en/post/the/) [unfair](/en/post/unfair/) [treatment](/en/post/treatment/)."
+### [Adverb](/post/adverb/)
+**Disgustedly** ([adverb](/post/adverb/)): [In](/post/in/) [a](/post/a/) [manner](/post/manner/) expressing [disgust](/post/disgust/); [with](/post/with/) [great](/post/great/) revulsion. [Example](/post/example/): "[She](/post/she/) spoke disgustedly [about](/post/about/) [the](/post/the/) [unfair](/post/unfair/) [treatment](/post/treatment/)."
 
 ## Phrases
-- "[React](/en/post/react/) [with](/en/post/with/) [disgust](/en/post/disgust/)" [means](/en/post/means/) [to](/en/post/to/) [show](/en/post/show/) [strong](/en/post/strong/) disapproval [or](/en/post/or/) aversion.
-- "[Feeling](/en/post/feeling/) disgusted" describes [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) offended [or](/en/post/or/) repulsed.
-- "Disgusted [response](/en/post/response/)" signifies [a](/en/post/a/) [negative](/en/post/negative/) [reaction](/en/post/reaction/) [to](/en/post/to/) [something](/en/post/something/).
+- "[React](/post/react/) [with](/post/with/) [disgust](/post/disgust/)" [means](/post/means/) [to](/post/to/) [show](/post/show/) [strong](/post/strong/) disapproval [or](/post/or/) aversion.
+- "[Feeling](/post/feeling/) disgusted" describes [a](/post/a/) [state](/post/state/) [of](/post/of/) [being](/post/being/) offended [or](/post/or/) repulsed.
+- "Disgusted [response](/post/response/)" signifies [a](/post/a/) [negative](/post/negative/) [reaction](/post/reaction/) [to](/post/to/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were disgusted [by](/en/post/by/) [the](/en/post/the/) [violent](/en/post/violent/) [video](/en/post/video/) [game](/en/post/game/)."
-- **[Verb](/en/post/verb/)**: "[Her](/en/post/her/) [honesty](/en/post/honesty/) disgusted [him](/en/post/him/), [and](/en/post/and/) [he](/en/post/he/) ended [the](/en/post/the/) [relationship](/en/post/relationship/) [immediately](/en/post/immediately/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [thought](/en/post/thought/) [of](/en/post/of/) eating insects disgusted [most](/en/post/most/) [people](/en/post/people/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) looked disgusted [after](/en/post/after/) hearing [the](/en/post/the/) [news](/en/post/news/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were disgusted [by](/post/by/) [the](/post/the/) [violent](/post/violent/) [video](/post/video/) [game](/post/game/)."
+- **[Verb](/post/verb/)**: "[Her](/post/her/) [honesty](/post/honesty/) disgusted [him](/post/him/), [and](/post/and/) [he](/post/he/) ended [the](/post/the/) [relationship](/post/relationship/) [immediately](/post/immediately/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [thought](/post/thought/) [of](/post/of/) eating insects disgusted [most](/post/most/) [people](/post/people/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) looked disgusted [after](/post/after/) hearing [the](/post/the/) [news](/post/news/)."
 
 ## Synonyms
 - Loathing
 - Revulsion
-- [Dislike](/en/post/dislike/)
+- [Dislike](/post/dislike/)
 - Aversion
 - Repugnance
 - Abhorrence
-- [Contempt](/en/post/contempt/)
+- [Contempt](/post/contempt/)

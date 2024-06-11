@@ -7,32 +7,32 @@ description = '[bei] n.湾；山脉中的凹处'
 keywords = ['ai words', 'bay']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /beɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [natural](/en/post/natural/) indentation [of](/en/post/of/) [a](/en/post/a/) [coast](/en/post/coast/), [often](/en/post/often/) sheltered [by](/en/post/by/) [land](/en/post/land/), forming [a](/en/post/a/) harbor [or](/en/post/or/) cove.
-- [A](/en/post/a/) curved indentation [on](/en/post/on/) [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [a](/en/post/a/) billiard [ball](/en/post/ball/) [or](/en/post/or/) [golf](/en/post/golf/) [ball](/en/post/ball/).
-- [A](/en/post/a/) [bay](/en/post/bay/) [window](/en/post/window/), [a](/en/post/a/) [window](/en/post/window/) [with](/en/post/with/) [a](/en/post/a/) curved [outward](/en/post/outward/) projection.
+### [Noun](/post/noun/)
+- [A](/post/a/) [natural](/post/natural/) indentation [of](/post/of/) [a](/post/a/) [coast](/post/coast/), [often](/post/often/) sheltered [by](/post/by/) [land](/post/land/), forming [a](/post/a/) harbor [or](/post/or/) cove.
+- [A](/post/a/) curved indentation [on](/post/on/) [the](/post/the/) [surface](/post/surface/) [of](/post/of/) [a](/post/a/) billiard [ball](/post/ball/) [or](/post/or/) [golf](/post/golf/) [ball](/post/ball/).
+- [A](/post/a/) [bay](/post/bay/) [window](/post/window/), [a](/post/a/) [window](/post/window/) [with](/post/with/) [a](/post/a/) curved [outward](/post/outward/) projection.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [shape](/en/post/shape/) [or](/en/post/or/) [curve](/en/post/curve/) [something](/en/post/something/) [like](/en/post/like/) [a](/en/post/a/) [bay](/en/post/bay/) ([as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) landscape [design](/en/post/design/)).
-- [To](/en/post/to/) [direct](/en/post/direct/) [or](/en/post/or/) [position](/en/post/position/) ([a](/en/post/a/) [ship](/en/post/ship/)) [into](/en/post/into/) [a](/en/post/a/) harbor [or](/en/post/or/) [bay](/en/post/bay/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [shape](/post/shape/) [or](/post/or/) [curve](/post/curve/) [something](/post/something/) [like](/post/like/) [a](/post/a/) [bay](/post/bay/) ([as](/post/as/) [in](/post/in/) [a](/post/a/) [building](/post/building/) [or](/post/or/) landscape [design](/post/design/)).
+- [To](/post/to/) [direct](/post/direct/) [or](/post/or/) [position](/post/position/) ([a](/post/a/) [ship](/post/ship/)) [into](/post/into/) [a](/post/a/) harbor [or](/post/or/) [bay](/post/bay/).
 
-### [Adjective](/en/post/adjective/)
-- Sheltered [or](/en/post/or/) protected [by](/en/post/by/) [a](/en/post/a/) [bay](/en/post/bay/): [a](/en/post/a/) sheltered [bay](/en/post/bay/).
-- [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [bay](/en/post/bay/): [a](/en/post/a/) bay-like inlet.
+### [Adjective](/post/adjective/)
+- Sheltered [or](/post/or/) protected [by](/post/by/) [a](/post/a/) [bay](/post/bay/): [a](/post/a/) sheltered [bay](/post/bay/).
+- [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [bay](/post/bay/): [a](/post/a/) bay-like inlet.
 
 ## Phrases
-- "[Enter](/en/post/enter/) [the](/en/post/the/) [bay](/en/post/bay/)" refers [to](/en/post/to/) sailing [or](/en/post/or/) driving [into](/en/post/into/) [a](/en/post/a/) harbor [or](/en/post/or/) cove.
-- "[A](/en/post/a/) crescent-shaped [bay](/en/post/bay/)" describes [a](/en/post/a/) curving coastal [feature](/en/post/feature/).
-- "Designate [a](/en/post/a/) [bay](/en/post/bay/) [area](/en/post/area/)" implies assigning [a](/en/post/a/) [specific](/en/post/specific/) [region](/en/post/region/) [along](/en/post/along/) [a](/en/post/a/) [coast](/en/post/coast/).
+- "[Enter](/post/enter/) [the](/post/the/) [bay](/post/bay/)" refers [to](/post/to/) sailing [or](/post/or/) driving [into](/post/into/) [a](/post/a/) harbor [or](/post/or/) cove.
+- "[A](/post/a/) crescent-shaped [bay](/post/bay/)" describes [a](/post/a/) curving coastal [feature](/post/feature/).
+- "Designate [a](/post/a/) [bay](/post/bay/) [area](/post/area/)" implies assigning [a](/post/a/) [specific](/post/specific/) [region](/post/region/) [along](/post/along/) [a](/post/a/) [coast](/post/coast/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ship](/en/post/ship/) sailed [into](/en/post/into/) [the](/en/post/the/) [calm](/en/post/calm/), sheltered [bay](/en/post/bay/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) architect planned [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [bay](/en/post/bay/) [window](/en/post/window/) [in](/en/post/in/) [the](/en/post/the/) [living](/en/post/living/) [room](/en/post/room/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [property](/en/post/property/) overlooked [the](/en/post/the/) picturesque [bay](/en/post/bay/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ship](/post/ship/) sailed [into](/post/into/) [the](/post/the/) [calm](/post/calm/), sheltered [bay](/post/bay/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) architect planned [to](/post/to/) [create](/post/create/) [a](/post/a/) [bay](/post/bay/) [window](/post/window/) [in](/post/in/) [the](/post/the/) [living](/post/living/) [room](/post/room/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [property](/post/property/) overlooked [the](/post/the/) picturesque [bay](/post/bay/)."
 
 ## Synonyms
 - Cove
@@ -43,6 +43,6 @@ keywords = ['ai words', 'bay']
 - Sheltered harbor
 
 ## Antonyms
-- [Open](/en/post/open/) [sea](/en/post/sea/)
-- Exposed [coast](/en/post/coast/)
-- Unprotected [shore](/en/post/shore/)
+- [Open](/post/open/) [sea](/post/sea/)
+- Exposed [coast](/post/coast/)
+- Unprotected [shore](/post/shore/)

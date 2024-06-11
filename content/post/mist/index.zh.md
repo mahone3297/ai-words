@@ -12,23 +12,23 @@ keywords = ['ai words', 'mist']
 
 ## 释义
 - **名词**:
-1. 薄雾；轻雾。例如: "[A](/post/a/) [light](/post/light/) [mist](/post/mist/) covered [the](/post/the/) [lake](/post/lake/) [early](/post/early/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
-2. 错误；误解。例如: "[There](/post/there/) was [a](/post/a/) [mist](/post/mist/) [of](/post/of/) [confusion](/post/confusion/) [about](/post/about/) [the](/post/the/) [new](/post/new/) [policy](/post/policy/)."
+1. 薄雾；轻雾。例如: "[A](/zh/post/a/) [light](/zh/post/light/) [mist](/zh/post/mist/) covered [the](/zh/post/the/) [lake](/zh/post/lake/) [early](/zh/post/early/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+2. 错误；误解。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [mist](/zh/post/mist/) [of](/zh/post/of/) [confusion](/zh/post/confusion/) [about](/zh/post/about/) [the](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/)."
 
 - **形容词**:
-模糊的；不清楚的。例如: "[The](/post/the/) misty [memory](/post/memory/) [of](/post/of/) [their](/post/their/) [childhood](/post/childhood/) [friendship](/post/friendship/) remained."
+模糊的；不清楚的。例如: "[The](/zh/post/the/) misty [memory](/zh/post/memory/) [of](/zh/post/of/) [their](/zh/post/their/) [childhood](/zh/post/childhood/) [friendship](/zh/post/friendship/) remained."
 
 ## 短语
-- "[in](/post/in/) [the](/post/the/) [mist](/post/mist/)" 意为在雾中，难以看清。例如: "[The](/post/the/) [old](/post/old/) [castle](/post/castle/) seemed [to](/post/to/) [emerge](/post/emerge/) [from](/post/from/) [the](/post/the/) [mist](/post/mist/)."
-- "[mist](/post/mist/) [over](/post/over/)" 表示（眼睛）变得模糊。例如: "[Her](/post/her/) eyes misted [over](/post/over/) [as](/post/as/) [she](/post/she/) recalled [her](/post/her/) [late](/post/late/) [husband](/post/husband/)."
+- "[in](/zh/post/in/) [the](/zh/post/the/) [mist](/zh/post/mist/)" 意为在雾中，难以看清。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [castle](/zh/post/castle/) seemed [to](/zh/post/to/) [emerge](/zh/post/emerge/) [from](/zh/post/from/) [the](/zh/post/the/) [mist](/zh/post/mist/)."
+- "[mist](/zh/post/mist/) [over](/zh/post/over/)" 表示（眼睛）变得模糊。例如: "[Her](/zh/post/her/) eyes misted [over](/zh/post/over/) [as](/zh/post/as/) [she](/zh/post/she/) recalled [her](/zh/post/her/) [late](/zh/post/late/) [husband](/zh/post/husband/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [early](/post/early/) [morning](/post/morning/) [mist](/post/mist/) [slowly](/post/slowly/) lifted, revealing [the](/post/the/) [beauty](/post/beauty/) [of](/post/of/) [the](/post/the/) [valley](/post/valley/)."
-- 形容词: "[The](/post/the/) misty [mountain](/post/mountain/) landscape looked enchanting [in](/post/in/) [the](/post/the/) [soft](/post/soft/) [morning](/post/morning/) [light](/post/light/)."
+- 名词: "[The](/zh/post/the/) [early](/zh/post/early/) [morning](/zh/post/morning/) [mist](/zh/post/mist/) [slowly](/zh/post/slowly/) lifted, revealing [the](/zh/post/the/) [beauty](/zh/post/beauty/) [of](/zh/post/of/) [the](/zh/post/the/) [valley](/zh/post/valley/)."
+- 形容词: "[The](/zh/post/the/) misty [mountain](/zh/post/mountain/) landscape looked enchanting [in](/zh/post/in/) [the](/zh/post/the/) [soft](/zh/post/soft/) [morning](/zh/post/morning/) [light](/zh/post/light/)."
 
 ## 同义词
-- [Fog](/post/fog/)
+- [Fog](/zh/post/fog/)
 - Haze
-- [Vapour](/post/vapour/)
+- [Vapour](/zh/post/vapour/)
 - Blur
 - Obscurity

@@ -7,39 +7,39 @@ description = '[pɑːˈtisipeit] vi.参与/加；分享'
 keywords = ['ai words', 'participate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pərˈtɪsɪpeɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [take](/en/post/take/) [part](/en/post/part/) [in](/en/post/in/) an [activity](/en/post/activity/), [event](/en/post/event/), [or](/en/post/or/) [discussion](/en/post/discussion/); [contribute](/en/post/contribute/) [or](/en/post/or/) [engage](/en/post/engage/) [oneself](/en/post/oneself/). (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) participating [or](/en/post/or/) involvement. 
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [role](/en/post/role/) [or](/en/post/or/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) involved [in](/en/post/in/) [something](/en/post/something/).
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [take](/post/take/) [part](/post/part/) [in](/post/in/) an [activity](/post/activity/), [event](/post/event/), [or](/post/or/) [discussion](/post/discussion/); [contribute](/post/contribute/) [or](/post/or/) [engage](/post/engage/) [oneself](/post/oneself/). (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) participating [or](/post/or/) involvement. 
+- **[Noun](/post/noun/)**: [The](/post/the/) [role](/post/role/) [or](/post/or/) [act](/post/act/) [of](/post/of/) [being](/post/being/) involved [in](/post/in/) [something](/post/something/).
 
 ## Phrases
-- "[Participate](/en/post/participate/) actively" [means](/en/post/means/) [to](/en/post/to/) [engage](/en/post/engage/) fully [and](/en/post/and/) energetically.
-- "[Be](/en/post/be/) [a](/en/post/a/) participant [in](/en/post/in/)" refers [to](/en/post/to/) [being](/en/post/being/) involved [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/) [or](/en/post/or/) [program](/en/post/program/).
-- "[Voluntary](/en/post/voluntary/) participation" highlights [the](/en/post/the/) [choice](/en/post/choice/) [to](/en/post/to/) [take](/en/post/take/) [part](/en/post/part/) [in](/en/post/in/) [something](/en/post/something/).
+- "[Participate](/post/participate/) actively" [means](/post/means/) [to](/post/to/) [engage](/post/engage/) fully [and](/post/and/) energetically.
+- "[Be](/post/be/) [a](/post/a/) participant [in](/post/in/)" refers [to](/post/to/) [being](/post/being/) involved [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/) [or](/post/or/) [program](/post/program/).
+- "[Voluntary](/post/voluntary/) participation" highlights [the](/post/the/) [choice](/post/choice/) [to](/post/to/) [take](/post/take/) [part](/post/part/) [in](/post/in/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "Students are encouraged [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) after-school clubs."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) participation [in](/en/post/in/) [the](/en/post/the/) [charity](/en/post/charity/) [event](/en/post/event/) was [greatly](/en/post/greatly/) appreciated."
-- **Phrasal [Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [not](/en/post/not/) [to](/en/post/to/) [participate](/en/post/participate/) [but](/en/post/but/) [to](/en/post/to/) [observe](/en/post/observe/) [from](/en/post/from/) [the](/en/post/the/) sidelines."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "Students are encouraged [to](/post/to/) [participate](/post/participate/) [in](/post/in/) after-school clubs."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) participation [in](/post/in/) [the](/post/the/) [charity](/post/charity/) [event](/post/event/) was [greatly](/post/greatly/) appreciated."
+- **Phrasal [Verb](/post/verb/)**: "[He](/post/he/) decided [not](/post/not/) [to](/post/to/) [participate](/post/participate/) [but](/post/but/) [to](/post/to/) [observe](/post/observe/) [from](/post/from/) [the](/post/the/) sidelines."
 
 ## Synonyms
-- [Engage](/en/post/engage/)
-- [Contribute](/en/post/contribute/)
-- [Join](/en/post/join/)
-- [Attend](/en/post/attend/)
-- [Take](/en/post/take/) [part](/en/post/part/)
-- [Be](/en/post/be/) involved
-- [Participate](/en/post/participate/) [in](/en/post/in/)
+- [Engage](/post/engage/)
+- [Contribute](/post/contribute/)
+- [Join](/post/join/)
+- [Attend](/post/attend/)
+- [Take](/post/take/) [part](/post/part/)
+- [Be](/post/be/) involved
+- [Participate](/post/participate/) [in](/post/in/)
 
 ## Antonyms
-- [Avoid](/en/post/avoid/)
-- [Observe](/en/post/observe/)
-- [Withdraw](/en/post/withdraw/)
-- [Exclude](/en/post/exclude/)
-- [Not](/en/post/not/) [participate](/en/post/participate/)
+- [Avoid](/post/avoid/)
+- [Observe](/post/observe/)
+- [Withdraw](/post/withdraw/)
+- [Exclude](/post/exclude/)
+- [Not](/post/not/) [participate](/post/participate/)
 
-## [Usage](/en/post/usage/) Notes
-- "[Participate](/en/post/participate/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [both](/en/post/both/) [as](/en/post/as/) [a](/en/post/a/) transitive [verb](/en/post/verb/) (requiring an [object](/en/post/object/)) [and](/en/post/and/) intransitively.
-- [It](/en/post/it/) [often](/en/post/often/) implies [a](/en/post/a/) [level](/en/post/level/) [of](/en/post/of/) involvement, [enthusiasm](/en/post/enthusiasm/), [or](/en/post/or/) commitment, [beyond](/en/post/beyond/) [mere](/en/post/mere/) attendance.
+## [Usage](/post/usage/) Notes
+- "[Participate](/post/participate/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [both](/post/both/) [as](/post/as/) [a](/post/a/) transitive [verb](/post/verb/) (requiring an [object](/post/object/)) [and](/post/and/) intransitively.
+- [It](/post/it/) [often](/post/often/) implies [a](/post/a/) [level](/post/level/) [of](/post/of/) involvement, [enthusiasm](/post/enthusiasm/), [or](/post/or/) commitment, [beyond](/post/beyond/) [mere](/post/mere/) attendance.

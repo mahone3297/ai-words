@@ -7,43 +7,43 @@ description = '[ˈbætəri] n.电池；一套，一组'
 keywords = ['ai words', 'battery']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/bəˈtri/ ([battery](/en/post/battery/))
+## [Pronunciation](/post/pronunciation/)
+/bəˈtri/ ([battery](/post/battery/))
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) converts stored [chemical](/en/post/chemical/) [energy](/en/post/energy/) [into](/en/post/into/) [electrical](/en/post/electrical/) [energy](/en/post/energy/), typically consisting [of](/en/post/of/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) cells connected [in](/en/post/in/) [series](/en/post/series/) [or](/en/post/or/) [parallel](/en/post/parallel/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) car's [battery](/en/post/battery/) was [dead](/en/post/dead/), [so](/en/post/so/) [we](/en/post/we/) had [to](/en/post/to/) jump-start [it](/en/post/it/)."
-2. An [assembly](/en/post/assembly/) [of](/en/post/of/) batteries [or](/en/post/or/) [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) [similar](/en/post/similar/) items arranged [together](/en/post/together/).
-   - [Example](/en/post/example/): "[A](/en/post/a/) [pack](/en/post/pack/) [of](/en/post/of/) AA batteries [for](/en/post/for/) [the](/en/post/the/) [remote](/en/post/remote/) [control](/en/post/control/)."
-3. [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) working [together](/en/post/together/) [or](/en/post/or/) [with](/en/post/with/) [a](/en/post/a/) shared [purpose](/en/post/purpose/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) [put](/en/post/put/) [in](/en/post/in/) an [impressive](/en/post/impressive/) [performance](/en/post/performance/) [at](/en/post/at/) [the](/en/post/the/) [battery](/en/post/battery/) [on](/en/post/on/) [the](/en/post/the/) [field](/en/post/field/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [device](/post/device/) [that](/post/that/) converts stored [chemical](/post/chemical/) [energy](/post/energy/) [into](/post/into/) [electrical](/post/electrical/) [energy](/post/energy/), typically consisting [of](/post/of/) [one](/post/one/) [or](/post/or/) [more](/post/more/) cells connected [in](/post/in/) [series](/post/series/) [or](/post/or/) [parallel](/post/parallel/).
+   - [Example](/post/example/): "[The](/post/the/) car's [battery](/post/battery/) was [dead](/post/dead/), [so](/post/so/) [we](/post/we/) had [to](/post/to/) jump-start [it](/post/it/)."
+2. An [assembly](/post/assembly/) [of](/post/of/) batteries [or](/post/or/) [a](/post/a/) [collection](/post/collection/) [of](/post/of/) [similar](/post/similar/) items arranged [together](/post/together/).
+   - [Example](/post/example/): "[A](/post/a/) [pack](/post/pack/) [of](/post/of/) AA batteries [for](/post/for/) [the](/post/the/) [remote](/post/remote/) [control](/post/control/)."
+3. [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) working [together](/post/together/) [or](/post/or/) [with](/post/with/) [a](/post/a/) shared [purpose](/post/purpose/).
+   - [Example](/post/example/): "[The](/post/the/) [team](/post/team/) [put](/post/put/) [in](/post/in/) an [impressive](/post/impressive/) [performance](/post/performance/) [at](/post/at/) [the](/post/the/) [battery](/post/battery/) [on](/post/on/) [the](/post/the/) [field](/post/field/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [power](/en/post/power/) [or](/en/post/or/) energize [with](/en/post/with/) [a](/en/post/a/) [battery](/en/post/battery/) [or](/en/post/or/) batteries.
-   - [Example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [battery](/en/post/battery/) [up](/en/post/up/) [my](/en/post/my/) [phone](/en/post/phone/) [before](/en/post/before/) leaving [the](/en/post/the/) [house](/en/post/house/)."
-2. [To](/en/post/to/) [provide](/en/post/provide/) [the](/en/post/the/) [initial](/en/post/initial/) [energy](/en/post/energy/) [or](/en/post/or/) motivation [for](/en/post/for/) [something](/en/post/something/).
-   - [Example](/en/post/example/): "[Her](/en/post/her/) [enthusiasm](/en/post/enthusiasm/) batteryed [the](/en/post/the/) [group](/en/post/group/) [to](/en/post/to/) [keep](/en/post/keep/) going."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [power](/post/power/) [or](/post/or/) energize [with](/post/with/) [a](/post/a/) [battery](/post/battery/) [or](/post/or/) batteries.
+   - [Example](/post/example/): "I [need](/post/need/) [to](/post/to/) [battery](/post/battery/) [up](/post/up/) [my](/post/my/) [phone](/post/phone/) [before](/post/before/) leaving [the](/post/the/) [house](/post/house/)."
+2. [To](/post/to/) [provide](/post/provide/) [the](/post/the/) [initial](/post/initial/) [energy](/post/energy/) [or](/post/or/) motivation [for](/post/for/) [something](/post/something/).
+   - [Example](/post/example/): "[Her](/post/her/) [enthusiasm](/post/enthusiasm/) batteryed [the](/post/the/) [group](/post/group/) [to](/post/to/) [keep](/post/keep/) going."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [or](/en/post/or/) powered [by](/en/post/by/) [a](/en/post/a/) [battery](/en/post/battery/) [or](/en/post/or/) batteries.
-   - [Example](/en/post/example/): "[A](/en/post/a/) battery-operated flashlight."
-2. [Collective](/en/post/collective/) [or](/en/post/or/) cooperative.
-   - [Example](/en/post/example/): "[Their](/en/post/their/) [battery](/en/post/battery/) [of](/en/post/of/) ideas proved [effective](/en/post/effective/) [in](/en/post/in/) solving [the](/en/post/the/) [problem](/en/post/problem/)."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [or](/post/or/) powered [by](/post/by/) [a](/post/a/) [battery](/post/battery/) [or](/post/or/) batteries.
+   - [Example](/post/example/): "[A](/post/a/) battery-operated flashlight."
+2. [Collective](/post/collective/) [or](/post/or/) cooperative.
+   - [Example](/post/example/): "[Their](/post/their/) [battery](/post/battery/) [of](/post/of/) ideas proved [effective](/post/effective/) [in](/post/in/) solving [the](/post/the/) [problem](/post/problem/)."
 
 ## Phrases
-- "[Run](/en/post/run/) [on](/en/post/on/) [battery](/en/post/battery/) [power](/en/post/power/)" [means](/en/post/means/) [to](/en/post/to/) [operate](/en/post/operate/) using [a](/en/post/a/) [battery](/en/post/battery/) [or](/en/post/or/) batteries.
-- "[Replace](/en/post/replace/) [the](/en/post/the/) [battery](/en/post/battery/)" refers [to](/en/post/to/) changing [a](/en/post/a/) worn-out [battery](/en/post/battery/) [for](/en/post/for/) [a](/en/post/a/) [new](/en/post/new/) [one](/en/post/one/).
-- "Battery-powered devices" are [those](/en/post/those/) [that](/en/post/that/) [use](/en/post/use/) batteries [as](/en/post/as/) [their](/en/post/their/) [primary](/en/post/primary/) [source](/en/post/source/) [of](/en/post/of/) [energy](/en/post/energy/).
+- "[Run](/post/run/) [on](/post/on/) [battery](/post/battery/) [power](/post/power/)" [means](/post/means/) [to](/post/to/) [operate](/post/operate/) using [a](/post/a/) [battery](/post/battery/) [or](/post/or/) batteries.
+- "[Replace](/post/replace/) [the](/post/the/) [battery](/post/battery/)" refers [to](/post/to/) changing [a](/post/a/) worn-out [battery](/post/battery/) [for](/post/for/) [a](/post/a/) [new](/post/new/) [one](/post/one/).
+- "Battery-powered devices" are [those](/post/those/) [that](/post/that/) [use](/post/use/) batteries [as](/post/as/) [their](/post/their/) [primary](/post/primary/) [source](/post/source/) [of](/post/of/) [energy](/post/energy/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [man](/en/post/man/) reminisced [about](/en/post/about/) [his](/en/post/his/) days working [in](/en/post/in/) [the](/en/post/the/) [battery](/en/post/battery/) [factory](/en/post/factory/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) charged [his](/en/post/his/) smartphone [with](/en/post/with/) [a](/en/post/a/) [portable](/en/post/portable/) [battery](/en/post/battery/) [during](/en/post/during/) [the](/en/post/the/) [flight](/en/post/flight/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [remote](/en/post/remote/) [control](/en/post/control/) had [a](/en/post/a/) sleek, battery-powered [design](/en/post/design/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [man](/post/man/) reminisced [about](/post/about/) [his](/post/his/) days working [in](/post/in/) [the](/post/the/) [battery](/post/battery/) [factory](/post/factory/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) charged [his](/post/his/) smartphone [with](/post/with/) [a](/post/a/) [portable](/post/portable/) [battery](/post/battery/) [during](/post/during/) [the](/post/the/) [flight](/post/flight/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [remote](/post/remote/) [control](/post/control/) had [a](/post/a/) sleek, battery-powered [design](/post/design/)."
 
 ## Synonyms
-- [Power](/en/post/power/) [source](/en/post/source/)
-- [Energy](/en/post/energy/) [supply](/en/post/supply/)
+- [Power](/post/power/) [source](/post/source/)
+- [Energy](/post/energy/) [supply](/post/supply/)
 - Accumulator
-- [Cell](/en/post/cell/) [bank](/en/post/bank/)
-- [Group](/en/post/group/) [work](/en/post/work/) ([collective](/en/post/collective/) [meaning](/en/post/meaning/))
+- [Cell](/post/cell/) [bank](/post/bank/)
+- [Group](/post/group/) [work](/post/work/) ([collective](/post/collective/) [meaning](/post/meaning/))

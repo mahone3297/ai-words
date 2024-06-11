@@ -7,36 +7,36 @@ description = '[miːt] vt.遇见 vi.相遇'
 keywords = ['ai words', 'meet']
 +++
 
-## [Word](/en/post/word/): [Meet](/en/post/meet/)
+## [Word](/post/word/): [Meet](/post/meet/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /miːt/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [come](/en/post/come/) [together](/en/post/together/), typically [by](/en/post/by/) [prior](/en/post/prior/) [arrangement](/en/post/arrangement/), [often](/en/post/often/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) arranged [to](/en/post/to/) [meet](/en/post/meet/) [at](/en/post/at/) [the](/en/post/the/) [park](/en/post/park/)."
-  - [Encounter](/en/post/encounter/): [To](/en/post/to/) [come](/en/post/come/) face-to-face [with](/en/post/with/) [someone](/en/post/someone/) unexpectedly. [Example](/en/post/example/): "I met [her](/en/post/her/) [quite](/en/post/quite/) [by](/en/post/by/) [chance](/en/post/chance/) [on](/en/post/on/) [my](/en/post/my/) [way](/en/post/way/) [to](/en/post/to/) [work](/en/post/work/)."
-  - [Compete](/en/post/compete/) [against](/en/post/against/): [In](/en/post/in/) sports [or](/en/post/or/) [other](/en/post/other/) competitive events, [to](/en/post/to/) [play](/en/post/play/) [or](/en/post/or/) [compete](/en/post/compete/) [against](/en/post/against/) [another](/en/post/another/) [team](/en/post/team/) [or](/en/post/or/) [person](/en/post/person/). [Example](/en/post/example/): "[Our](/en/post/our/) [team](/en/post/team/) [will](/en/post/will/) [meet](/en/post/meet/) [their](/en/post/their/) rivals [in](/en/post/in/) [the](/en/post/the/) finals [tomorrow](/en/post/tomorrow/)."
-  - Fulfill: [To](/en/post/to/) [satisfy](/en/post/satisfy/) [or](/en/post/or/) comply [with](/en/post/with/) [something](/en/post/something/) required [or](/en/post/or/) expected. [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [proposal](/en/post/proposal/) meets [all](/en/post/all/) [our](/en/post/our/) requirements."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [come](/post/come/) [together](/post/together/), typically [by](/post/by/) [prior](/post/prior/) [arrangement](/post/arrangement/), [often](/post/often/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) arranged [to](/post/to/) [meet](/post/meet/) [at](/post/at/) [the](/post/the/) [park](/post/park/)."
+  - [Encounter](/post/encounter/): [To](/post/to/) [come](/post/come/) face-to-face [with](/post/with/) [someone](/post/someone/) unexpectedly. [Example](/post/example/): "I met [her](/post/her/) [quite](/post/quite/) [by](/post/by/) [chance](/post/chance/) [on](/post/on/) [my](/post/my/) [way](/post/way/) [to](/post/to/) [work](/post/work/)."
+  - [Compete](/post/compete/) [against](/post/against/): [In](/post/in/) sports [or](/post/or/) [other](/post/other/) competitive events, [to](/post/to/) [play](/post/play/) [or](/post/or/) [compete](/post/compete/) [against](/post/against/) [another](/post/another/) [team](/post/team/) [or](/post/or/) [person](/post/person/). [Example](/post/example/): "[Our](/post/our/) [team](/post/team/) [will](/post/will/) [meet](/post/meet/) [their](/post/their/) rivals [in](/post/in/) [the](/post/the/) finals [tomorrow](/post/tomorrow/)."
+  - Fulfill: [To](/post/to/) [satisfy](/post/satisfy/) [or](/post/or/) comply [with](/post/with/) [something](/post/something/) required [or](/post/or/) expected. [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [proposal](/post/proposal/) meets [all](/post/all/) [our](/post/our/) requirements."
 
-- **[Noun](/en/post/noun/) (n)**: An organized gathering [or](/en/post/or/) [assembly](/en/post/assembly/) [of](/en/post/of/) [people](/en/post/people/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/). [Example](/en/post/example/): "[The](/en/post/the/) [annual](/en/post/annual/) shareholders' [meet](/en/post/meet/) was held [last](/en/post/last/) [week](/en/post/week/)."
-  - [Meeting](/en/post/meeting/) ([also](/en/post/also/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)): [A](/en/post/a/) planned [social](/en/post/social/) [or](/en/post/or/) [business](/en/post/business/) [encounter](/en/post/encounter/) [between](/en/post/between/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) [people](/en/post/people/). [Example](/en/post/example/): "We're having [a](/en/post/a/) client [meet](/en/post/meet/) [tomorrow](/en/post/tomorrow/) [afternoon](/en/post/afternoon/)."
+- **[Noun](/post/noun/) (n)**: An organized gathering [or](/post/or/) [assembly](/post/assembly/) [of](/post/of/) [people](/post/people/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/). [Example](/post/example/): "[The](/post/the/) [annual](/post/annual/) shareholders' [meet](/post/meet/) was held [last](/post/last/) [week](/post/week/)."
+  - [Meeting](/post/meeting/) ([also](/post/also/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/)): [A](/post/a/) planned [social](/post/social/) [or](/post/or/) [business](/post/business/) [encounter](/post/encounter/) [between](/post/between/) [two](/post/two/) [or](/post/or/) [more](/post/more/) [people](/post/people/). [Example](/post/example/): "We're having [a](/post/a/) client [meet](/post/meet/) [tomorrow](/post/tomorrow/) [afternoon](/post/afternoon/)."
 
 ## Phrases
-- "[Meet](/en/post/meet/) [and](/en/post/and/) [greet](/en/post/greet/)": An [event](/en/post/event/) [where](/en/post/where/) fans [can](/en/post/can/) [meet](/en/post/meet/) [and](/en/post/and/) interact [with](/en/post/with/) celebrities, [public](/en/post/public/) figures, [or](/en/post/or/) performers.
-- "[Make](/en/post/make/) ends [meet](/en/post/meet/)": [To](/en/post/to/) [have](/en/post/have/) [just](/en/post/just/) [enough](/en/post/enough/) [money](/en/post/money/) [to](/en/post/to/) [pay](/en/post/pay/) [for](/en/post/for/) [basic](/en/post/basic/) needs; [to](/en/post/to/) [manage](/en/post/manage/) financially.
-- "[Meet](/en/post/meet/) expectations": [To](/en/post/to/) fulfill [or](/en/post/or/) [live](/en/post/live/) [up](/en/post/up/) [to](/en/post/to/) [what](/en/post/what/) is anticipated [or](/en/post/or/) required.
+- "[Meet](/post/meet/) [and](/post/and/) [greet](/post/greet/)": An [event](/post/event/) [where](/post/where/) fans [can](/post/can/) [meet](/post/meet/) [and](/post/and/) interact [with](/post/with/) celebrities, [public](/post/public/) figures, [or](/post/or/) performers.
+- "[Make](/post/make/) ends [meet](/post/meet/)": [To](/post/to/) [have](/post/have/) [just](/post/just/) [enough](/post/enough/) [money](/post/money/) [to](/post/to/) [pay](/post/pay/) [for](/post/for/) [basic](/post/basic/) needs; [to](/post/to/) [manage](/post/manage/) financially.
+- "[Meet](/post/meet/) expectations": [To](/post/to/) fulfill [or](/post/or/) [live](/post/live/) [up](/post/up/) [to](/post/to/) [what](/post/what/) is anticipated [or](/post/or/) required.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "Let's [meet](/en/post/meet/) [at](/en/post/at/) [the](/en/post/the/) café [around](/en/post/around/) 3 PM [to](/en/post/to/) [discuss](/en/post/discuss/) [the](/en/post/the/) [project](/en/post/project/) details."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) United Nations [General](/en/post/general/) [Assembly](/en/post/assembly/) is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) largest [international](/en/post/international/) meets."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "Let's [meet](/post/meet/) [at](/post/at/) [the](/post/the/) café [around](/post/around/) 3 PM [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) [project](/post/project/) details."
+- **[Noun](/post/noun/)**: "[The](/post/the/) United Nations [General](/post/general/) [Assembly](/post/assembly/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) largest [international](/post/international/) meets."
 
 ## Synonyms
 - Encountering
 - Gathering
-- [Assembly](/en/post/assembly/)
+- [Assembly](/post/assembly/)
 - Convene
-- [Gather](/en/post/gather/)
-- [See](/en/post/see/)
-- [Encounter](/en/post/encounter/)
-- [Engage](/en/post/engage/) ([with](/en/post/with/))
-- [Face](/en/post/face/) ([off](/en/post/off/)) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [competition](/en/post/competition/))
+- [Gather](/post/gather/)
+- [See](/post/see/)
+- [Encounter](/post/encounter/)
+- [Engage](/post/engage/) ([with](/post/with/))
+- [Face](/post/face/) ([off](/post/off/)) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [competition](/post/competition/))

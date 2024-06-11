@@ -7,32 +7,32 @@ description = '[mait] n.力量，威力，能力'
 keywords = ['ai words', 'might']
 +++
 
-## [Word](/en/post/word/): [Might](/en/post/might/)
+## [Word](/post/word/): [Might](/post/might/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /maɪt/
 
 ## Definitions
-- **Modal [Verb](/en/post/verb/)**: Expressing [possibility](/en/post/possibility/) [or](/en/post/or/) [ability](/en/post/ability/) [in](/en/post/in/) [the](/en/post/the/) [past](/en/post/past/), [present](/en/post/present/), [or](/en/post/or/) [future](/en/post/future/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [express](/en/post/express/) [permission](/en/post/permission/) [or](/en/post/or/) [suggestion](/en/post/suggestion/). 
-  - **[Possibility](/en/post/possibility/)**: "[They](/en/post/they/) [might](/en/post/might/) [come](/en/post/come/) [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/) [tonight](/en/post/tonight/)." (It's [possible](/en/post/possible/) [they](/en/post/they/) [will](/en/post/will/) [attend](/en/post/attend/).)
-  - **[Ability](/en/post/ability/)**: "[With](/en/post/with/) [enough](/en/post/enough/) [practice](/en/post/practice/), [you](/en/post/you/) [might](/en/post/might/) [master](/en/post/master/) [this](/en/post/this/) [skill](/en/post/skill/)." ([You](/en/post/you/) [have](/en/post/have/) [the](/en/post/the/) [potential](/en/post/potential/) [to](/en/post/to/) [master](/en/post/master/) [it](/en/post/it/).)
-  - **[Permission](/en/post/permission/)**: "[You](/en/post/you/) [might](/en/post/might/) [leave](/en/post/leave/) [early](/en/post/early/) [if](/en/post/if/) [you](/en/post/you/) [finish](/en/post/finish/) [your](/en/post/your/) [work](/en/post/work/)." (It's permissible [to](/en/post/to/) [leave](/en/post/leave/) [early](/en/post/early/).)
-  - **[Suggestion](/en/post/suggestion/)**: "[We](/en/post/we/) [might](/en/post/might/) [try](/en/post/try/) [a](/en/post/a/) [different](/en/post/different/) [approach](/en/post/approach/)." (Suggesting [to](/en/post/to/) [consider](/en/post/consider/) [another](/en/post/another/) [method](/en/post/method/).)
+- **Modal [Verb](/post/verb/)**: Expressing [possibility](/post/possibility/) [or](/post/or/) [ability](/post/ability/) [in](/post/in/) [the](/post/the/) [past](/post/past/), [present](/post/present/), [or](/post/or/) [future](/post/future/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [express](/post/express/) [permission](/post/permission/) [or](/post/or/) [suggestion](/post/suggestion/). 
+  - **[Possibility](/post/possibility/)**: "[They](/post/they/) [might](/post/might/) [come](/post/come/) [to](/post/to/) [the](/post/the/) [party](/post/party/) [tonight](/post/tonight/)." (It's [possible](/post/possible/) [they](/post/they/) [will](/post/will/) [attend](/post/attend/).)
+  - **[Ability](/post/ability/)**: "[With](/post/with/) [enough](/post/enough/) [practice](/post/practice/), [you](/post/you/) [might](/post/might/) [master](/post/master/) [this](/post/this/) [skill](/post/skill/)." ([You](/post/you/) [have](/post/have/) [the](/post/the/) [potential](/post/potential/) [to](/post/to/) [master](/post/master/) [it](/post/it/).)
+  - **[Permission](/post/permission/)**: "[You](/post/you/) [might](/post/might/) [leave](/post/leave/) [early](/post/early/) [if](/post/if/) [you](/post/you/) [finish](/post/finish/) [your](/post/your/) [work](/post/work/)." (It's permissible [to](/post/to/) [leave](/post/leave/) [early](/post/early/).)
+  - **[Suggestion](/post/suggestion/)**: "[We](/post/we/) [might](/post/might/) [try](/post/try/) [a](/post/a/) [different](/post/different/) [approach](/post/approach/)." (Suggesting [to](/post/to/) [consider](/post/consider/) [another](/post/another/) [method](/post/method/).)
 
 ## Phrases
-- "[Might](/en/post/might/) [as](/en/post/as/) [well](/en/post/well/)": [To](/en/post/to/) [suggest](/en/post/suggest/) [that](/en/post/that/) [something](/en/post/something/) is [a](/en/post/a/) [good](/en/post/good/) [idea](/en/post/idea/) [or](/en/post/or/) [worth](/en/post/worth/) doing [because](/en/post/because/) [the](/en/post/the/) circumstances [make](/en/post/make/) [it](/en/post/it/) [logical](/en/post/logical/) [or](/en/post/or/) [convenient](/en/post/convenient/). [Example](/en/post/example/): "[Since](/en/post/since/) we're [already](/en/post/already/) [here](/en/post/here/), [we](/en/post/we/) [might](/en/post/might/) [as](/en/post/as/) [well](/en/post/well/) [take](/en/post/take/) [a](/en/post/a/) [look](/en/post/look/) [around](/en/post/around/)."
-- "[If](/en/post/if/) I [might](/en/post/might/)": [Polite](/en/post/polite/) [way](/en/post/way/) [to](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) [permission](/en/post/permission/) [or](/en/post/or/) [suggest](/en/post/suggest/) [something](/en/post/something/). [Example](/en/post/example/): "[If](/en/post/if/) I [might](/en/post/might/) [interrupt](/en/post/interrupt/), there's an [important](/en/post/important/) [point](/en/post/point/) [to](/en/post/to/) [consider](/en/post/consider/)."
+- "[Might](/post/might/) [as](/post/as/) [well](/post/well/)": [To](/post/to/) [suggest](/post/suggest/) [that](/post/that/) [something](/post/something/) is [a](/post/a/) [good](/post/good/) [idea](/post/idea/) [or](/post/or/) [worth](/post/worth/) doing [because](/post/because/) [the](/post/the/) circumstances [make](/post/make/) [it](/post/it/) [logical](/post/logical/) [or](/post/or/) [convenient](/post/convenient/). [Example](/post/example/): "[Since](/post/since/) we're [already](/post/already/) [here](/post/here/), [we](/post/we/) [might](/post/might/) [as](/post/as/) [well](/post/well/) [take](/post/take/) [a](/post/a/) [look](/post/look/) [around](/post/around/)."
+- "[If](/post/if/) I [might](/post/might/)": [Polite](/post/polite/) [way](/post/way/) [to](/post/to/) [ask](/post/ask/) [for](/post/for/) [permission](/post/permission/) [or](/post/or/) [suggest](/post/suggest/) [something](/post/something/). [Example](/post/example/): "[If](/post/if/) I [might](/post/might/) [interrupt](/post/interrupt/), there's an [important](/post/important/) [point](/post/point/) [to](/post/to/) [consider](/post/consider/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Possibility](/en/post/possibility/)**: "[It](/en/post/it/) [might](/en/post/might/) [rain](/en/post/rain/) [later](/en/post/later/), [so](/en/post/so/) [bring](/en/post/bring/) an [umbrella](/en/post/umbrella/)."
-- **[Ability](/en/post/ability/)**: "I [thought](/en/post/thought/) I [might](/en/post/might/) [be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/) [lift](/en/post/lift/) [it](/en/post/it/), [but](/en/post/but/) [it](/en/post/it/) was [too](/en/post/too/) [heavy](/en/post/heavy/)."
-- **[Permission](/en/post/permission/)**: "[You](/en/post/you/) [might](/en/post/might/) [want](/en/post/want/) [to](/en/post/to/) [take](/en/post/take/) [tomorrow](/en/post/tomorrow/) [off](/en/post/off/); you've been working [very](/en/post/very/) [hard](/en/post/hard/) [lately](/en/post/lately/)."
-- **[Suggestion](/en/post/suggestion/)**: "[We](/en/post/we/) [might](/en/post/might/) reconsider [our](/en/post/our/) [strategy](/en/post/strategy/) [after](/en/post/after/) reviewing [the](/en/post/the/) [feedback](/en/post/feedback/)."
+## [Example](/post/example/) Sentences
+- **[Possibility](/post/possibility/)**: "[It](/post/it/) [might](/post/might/) [rain](/post/rain/) [later](/post/later/), [so](/post/so/) [bring](/post/bring/) an [umbrella](/post/umbrella/)."
+- **[Ability](/post/ability/)**: "I [thought](/post/thought/) I [might](/post/might/) [be](/post/be/) [able](/post/able/) [to](/post/to/) [lift](/post/lift/) [it](/post/it/), [but](/post/but/) [it](/post/it/) was [too](/post/too/) [heavy](/post/heavy/)."
+- **[Permission](/post/permission/)**: "[You](/post/you/) [might](/post/might/) [want](/post/want/) [to](/post/to/) [take](/post/take/) [tomorrow](/post/tomorrow/) [off](/post/off/); you've been working [very](/post/very/) [hard](/post/hard/) [lately](/post/lately/)."
+- **[Suggestion](/post/suggestion/)**: "[We](/post/we/) [might](/post/might/) reconsider [our](/post/our/) [strategy](/post/strategy/) [after](/post/after/) reviewing [the](/post/the/) [feedback](/post/feedback/)."
 
 ## Synonyms
-- [Could](/en/post/could/)
-- [May](/en/post/may/)
+- [Could](/post/could/)
+- [May](/post/may/)
 - Perchance
-- [Perhaps](/en/post/perhaps/)
+- [Perhaps](/post/perhaps/)
 - Potentially
-- [Possibly](/en/post/possibly/)
+- [Possibly](/post/possibly/)

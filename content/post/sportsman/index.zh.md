@@ -11,20 +11,20 @@ keywords = ['ai words', 'sportsman']
 /ˈspɔːrtsmən/
 
 ## 释义
-- **名词 (n)**: 参与体育运动的人，尤指擅长某项运动并展示出良好体育精神的人。例如: "[He](/post/he/) is [a](/post/a/) [professional](/post/professional/) [sportsman](/post/sportsman/), playing [for](/post/for/) [the](/post/the/) [national](/post/national/) [football](/post/football/) [team](/post/team/)."
-- **形容词 (adj)**: 与体育相关或具有运动员品质的。例如: "[The](/post/the/) [sportsman](/post/sportsman/) [spirit](/post/spirit/) encourages [fair](/post/fair/) [play](/post/play/) [and](/post/and/) teamwork."
+- **名词 (n)**: 参与体育运动的人，尤指擅长某项运动并展示出良好体育精神的人。例如: "[He](/zh/post/he/) is [a](/zh/post/a/) [professional](/zh/post/professional/) [sportsman](/zh/post/sportsman/), playing [for](/zh/post/for/) [the](/zh/post/the/) [national](/zh/post/national/) [football](/zh/post/football/) [team](/zh/post/team/)."
+- **形容词 (adj)**: 与体育相关或具有运动员品质的。例如: "[The](/zh/post/the/) [sportsman](/zh/post/sportsman/) [spirit](/zh/post/spirit/) encourages [fair](/zh/post/fair/) [play](/zh/post/play/) [and](/zh/post/and/) teamwork."
 
 ## 短语
-- "[A](/post/a/) [true](/post/true/) [sportsman](/post/sportsman/)" 指的是一个真正具有体育精神的人。
+- "[A](/zh/post/a/) [true](/zh/post/true/) [sportsman](/zh/post/sportsman/)" 指的是一个真正具有体育精神的人。
 - "Sportsmanship" 指的是运动员应有的公平竞争和尊重对手的态度。
 
 ## 例句
-- 名词: "[The](/post/the/) [young](/post/young/) [sportsman](/post/sportsman/) showed [great](/post/great/) dedication [to](/post/to/) [his](/post/his/) [training](/post/training/)."
-- 形容词: "[She](/post/she/) wore [a](/post/a/) sportsman's [attitude](/post/attitude/) [throughout](/post/throughout/) [the](/post/the/) [competition](/post/competition/), [never](/post/never/) giving [up](/post/up/)."
+- 名词: "[The](/zh/post/the/) [young](/zh/post/young/) [sportsman](/zh/post/sportsman/) showed [great](/zh/post/great/) dedication [to](/zh/post/to/) [his](/zh/post/his/) [training](/zh/post/training/)."
+- 形容词: "[She](/zh/post/she/) wore [a](/zh/post/a/) sportsman's [attitude](/zh/post/attitude/) [throughout](/zh/post/throughout/) [the](/zh/post/the/) [competition](/zh/post/competition/), [never](/zh/post/never/) giving [up](/zh/post/up/)."
 
 ## 同义词
-- [Athlete](/post/athlete/)
-- [Player](/post/player/)
+- [Athlete](/zh/post/athlete/)
+- [Player](/zh/post/player/)
 - Competitor
 - Sportsperson
 - Gamesman

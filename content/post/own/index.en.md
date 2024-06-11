@@ -7,37 +7,37 @@ description = '[əun] a.自己的 vt.有，拥有'
 keywords = ['ai words', 'own']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əʊn/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Belonging [to](/en/post/to/) [oneself](/en/post/oneself/); possessed [by](/en/post/by/) [oneself](/en/post/oneself/); one's [own](/en/post/own/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) is [my](/en/post/my/) [own](/en/post/own/) [car](/en/post/car/)."
-- **[Verb](/en/post/verb/) (transitive)**: [To](/en/post/to/) [have](/en/post/have/) [or](/en/post/or/) [possess](/en/post/possess/) [as](/en/post/as/) [property](/en/post/property/); [to](/en/post/to/) [have](/en/post/have/) [legal](/en/post/legal/) [title](/en/post/title/) [to](/en/post/to/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) owns [a](/en/post/a/) [house](/en/post/house/) [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Verb](/en/post/verb/) (intransitive)**: [To](/en/post/to/) [admit](/en/post/admit/) [or](/en/post/or/) acknowledge [something](/en/post/something/) [as](/en/post/as/) [true](/en/post/true/) [or](/en/post/or/) [valid](/en/post/valid/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) owns [up](/en/post/up/) [to](/en/post/to/) [his](/en/post/his/) mistakes."
-- **[Noun](/en/post/noun/)**: [Something](/en/post/something/) [that](/en/post/that/) belongs [to](/en/post/to/) [oneself](/en/post/oneself/); [possession](/en/post/possession/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) is [his](/en/post/his/) [own](/en/post/own/)."
+- **[Adjective](/post/adjective/)**: Belonging [to](/post/to/) [oneself](/post/oneself/); possessed [by](/post/by/) [oneself](/post/oneself/); one's [own](/post/own/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) is [my](/post/my/) [own](/post/own/) [car](/post/car/)."
+- **[Verb](/post/verb/) (transitive)**: [To](/post/to/) [have](/post/have/) [or](/post/or/) [possess](/post/possess/) [as](/post/as/) [property](/post/property/); [to](/post/to/) [have](/post/have/) [legal](/post/legal/) [title](/post/title/) [to](/post/to/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) owns [a](/post/a/) [house](/post/house/) [in](/post/in/) [the](/post/the/) [city](/post/city/)."
+- **[Verb](/post/verb/) (intransitive)**: [To](/post/to/) [admit](/post/admit/) [or](/post/or/) acknowledge [something](/post/something/) [as](/post/as/) [true](/post/true/) [or](/post/or/) [valid](/post/valid/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) owns [up](/post/up/) [to](/post/to/) [his](/post/his/) mistakes."
+- **[Noun](/post/noun/)**: [Something](/post/something/) [that](/post/that/) belongs [to](/post/to/) [oneself](/post/oneself/); [possession](/post/possession/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) is [his](/post/his/) [own](/post/own/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [ownership](/en/post/ownership/)": [To](/en/post/to/) [accept](/en/post/accept/) [responsibility](/en/post/responsibility/) [for](/en/post/for/) [something](/en/post/something/).
-- "[On](/en/post/on/) one's [own](/en/post/own/)": [By](/en/post/by/) [oneself](/en/post/oneself/), [without](/en/post/without/) assistance.
-- "[Own](/en/post/own/) [goal](/en/post/goal/)": [In](/en/post/in/) sports, [when](/en/post/when/) [a](/en/post/a/) [player](/en/post/player/) inadvertently scores [against](/en/post/against/) [their](/en/post/their/) [own](/en/post/own/) [team](/en/post/team/).
-- "[To](/en/post/to/) [be](/en/post/be/) owned": [In](/en/post/in/) informal [language](/en/post/language/), [particularly](/en/post/particularly/) online, [to](/en/post/to/) [be](/en/post/be/) proven [wrong](/en/post/wrong/) [or](/en/post/or/) defeated decisively [in](/en/post/in/) an [argument](/en/post/argument/).
+- "[Take](/post/take/) [ownership](/post/ownership/)": [To](/post/to/) [accept](/post/accept/) [responsibility](/post/responsibility/) [for](/post/for/) [something](/post/something/).
+- "[On](/post/on/) one's [own](/post/own/)": [By](/post/by/) [oneself](/post/oneself/), [without](/post/without/) assistance.
+- "[Own](/post/own/) [goal](/post/goal/)": [In](/post/in/) sports, [when](/post/when/) [a](/post/a/) [player](/post/player/) inadvertently scores [against](/post/against/) [their](/post/their/) [own](/post/own/) [team](/post/team/).
+- "[To](/post/to/) [be](/post/be/) owned": [In](/post/in/) informal [language](/post/language/), [particularly](/post/particularly/) online, [to](/post/to/) [be](/post/be/) proven [wrong](/post/wrong/) [or](/post/or/) defeated decisively [in](/post/in/) an [argument](/post/argument/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) takes [pride](/en/post/pride/) [in](/en/post/in/) [her](/en/post/her/) [own](/en/post/own/) accomplishments."
-- **[Verb](/en/post/verb/) (transitive)**: "[They](/en/post/they/) decided [to](/en/post/to/) [own](/en/post/own/) [the](/en/post/the/) [property](/en/post/property/) outright [rather](/en/post/rather/) [than](/en/post/than/) [rent](/en/post/rent/) [it](/en/post/it/)."
-- **[Verb](/en/post/verb/) (intransitive)**: "It's [important](/en/post/important/) [to](/en/post/to/) [own](/en/post/own/) [your](/en/post/your/) mistakes [and](/en/post/and/) [learn](/en/post/learn/) [from](/en/post/from/) [them](/en/post/them/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [most](/en/post/most/) prized [own](/en/post/own/) is [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) [rare](/en/post/rare/) books."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) takes [pride](/post/pride/) [in](/post/in/) [her](/post/her/) [own](/post/own/) accomplishments."
+- **[Verb](/post/verb/) (transitive)**: "[They](/post/they/) decided [to](/post/to/) [own](/post/own/) [the](/post/the/) [property](/post/property/) outright [rather](/post/rather/) [than](/post/than/) [rent](/post/rent/) [it](/post/it/)."
+- **[Verb](/post/verb/) (intransitive)**: "It's [important](/post/important/) [to](/post/to/) [own](/post/own/) [your](/post/your/) mistakes [and](/post/and/) [learn](/post/learn/) [from](/post/from/) [them](/post/them/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [most](/post/most/) prized [own](/post/own/) is [a](/post/a/) [collection](/post/collection/) [of](/post/of/) [rare](/post/rare/) books."
 
 ## Synonyms
 - Belonging
 - Possessive
 - Owned
-- [Personal](/en/post/personal/)
+- [Personal](/post/personal/)
 - Held
 - Acknowledged
 
-Antonyms ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) [meaning](/en/post/meaning/) '[to](/en/post/to/) [admit](/en/post/admit/)'):
-- [Deny](/en/post/deny/)
+Antonyms ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [form](/post/form/) [meaning](/post/meaning/) '[to](/post/to/) [admit](/post/admit/)'):
+- [Deny](/post/deny/)
 - Disown
-- [Reject](/en/post/reject/)
-- [Refuse](/en/post/refuse/) [to](/en/post/to/) acknowledge
+- [Reject](/post/reject/)
+- [Refuse](/post/refuse/) [to](/post/to/) acknowledge

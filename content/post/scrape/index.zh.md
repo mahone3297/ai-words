@@ -12,25 +12,25 @@ keywords = ['ai words', 'scrape']
 
 ## 释义
 - **动词**:
-  1. 用刀或其他工具刮擦表面以去除物质。例如: "I had [to](/post/to/) [scrape](/post/scrape/) [the](/post/the/) [ice](/post/ice/) [off](/post/off/) [my](/post/my/) car's windshield."
-  2. 拼命获取或节约。例如: "[They](/post/they/) were scraping [together](/post/together/) [enough](/post/enough/) [money](/post/money/) [for](/post/for/) [the](/post/the/) [rent](/post/rent/)."
-  3. （在音乐中）用刮擦的方式演奏。例如: "[The](/post/the/) violinist scraped [the](/post/the/) [bow](/post/bow/) [across](/post/across/) [the](/post/the/) strings."
+  1. 用刀或其他工具刮擦表面以去除物质。例如: "I had [to](/zh/post/to/) [scrape](/zh/post/scrape/) [the](/zh/post/the/) [ice](/zh/post/ice/) [off](/zh/post/off/) [my](/zh/post/my/) car's windshield."
+  2. 拼命获取或节约。例如: "[They](/zh/post/they/) were scraping [together](/zh/post/together/) [enough](/zh/post/enough/) [money](/zh/post/money/) [for](/zh/post/for/) [the](/zh/post/the/) [rent](/zh/post/rent/)."
+  3. （在音乐中）用刮擦的方式演奏。例如: "[The](/zh/post/the/) violinist scraped [the](/zh/post/the/) [bow](/zh/post/bow/) [across](/zh/post/across/) [the](/zh/post/the/) strings."
   
 - **名词**:
-  1. 刮痕或擦伤。例如: "[She](/post/she/) got [a](/post/a/) [scrape](/post/scrape/) [on](/post/on/) [her](/post/her/) [knee](/post/knee/) [while](/post/while/) playing [soccer](/post/soccer/)."
-  2. （互联网上）收集和复制信息的行为。例如: "[The](/post/the/) website scraped [data](/post/data/) [from](/post/from/) [various](/post/various/) sources [for](/post/for/) [analysis](/post/analysis/)."
+  1. 刮痕或擦伤。例如: "[She](/zh/post/she/) got [a](/zh/post/a/) [scrape](/zh/post/scrape/) [on](/zh/post/on/) [her](/zh/post/her/) [knee](/zh/post/knee/) [while](/zh/post/while/) playing [soccer](/zh/post/soccer/)."
+  2. （互联网上）收集和复制信息的行为。例如: "[The](/zh/post/the/) website scraped [data](/zh/post/data/) [from](/zh/post/from/) [various](/zh/post/various/) sources [for](/zh/post/for/) [analysis](/zh/post/analysis/)."
 
 ## 短语
-- "[Scrape](/post/scrape/) [by](/post/by/)" 意味勉强维持生计或仅能过关。例如: "They're barely scraping [by](/post/by/) [on](/post/on/) [their](/post/their/) [low](/post/low/) salaries."
-- "[Scrape](/post/scrape/) [together](/post/together/)" 表示凑齐或拼凑。例如: "[We](/post/we/) managed [to](/post/to/) [scrape](/post/scrape/) [together](/post/together/) [enough](/post/enough/) ingredients [for](/post/for/) [dinner](/post/dinner/)."
+- "[Scrape](/zh/post/scrape/) [by](/zh/post/by/)" 意味勉强维持生计或仅能过关。例如: "They're barely scraping [by](/zh/post/by/) [on](/zh/post/on/) [their](/zh/post/their/) [low](/zh/post/low/) salaries."
+- "[Scrape](/zh/post/scrape/) [together](/zh/post/together/)" 表示凑齐或拼凑。例如: "[We](/zh/post/we/) managed [to](/zh/post/to/) [scrape](/zh/post/scrape/) [together](/zh/post/together/) [enough](/zh/post/enough/) ingredients [for](/zh/post/for/) [dinner](/zh/post/dinner/)."
 
 ## 例句
-- 动词: "[He](/post/he/) [used](/post/used/) [a](/post/a/) [credit](/post/credit/) [card](/post/card/) [to](/post/to/) [scrape](/post/scrape/) [the](/post/the/) [ice](/post/ice/) [off](/post/off/) [his](/post/his/) car's windows."
-- 名词: "[She](/post/she/) [put](/post/put/) [a](/post/a/) bandage [on](/post/on/) [the](/post/the/) [scrape](/post/scrape/) [on](/post/on/) [her](/post/her/) [arm](/post/arm/)."
+- 动词: "[He](/zh/post/he/) [used](/zh/post/used/) [a](/zh/post/a/) [credit](/zh/post/credit/) [card](/zh/post/card/) [to](/zh/post/to/) [scrape](/zh/post/scrape/) [the](/zh/post/the/) [ice](/zh/post/ice/) [off](/zh/post/off/) [his](/zh/post/his/) car's windows."
+- 名词: "[She](/zh/post/she/) [put](/zh/post/put/) [a](/zh/post/a/) bandage [on](/zh/post/on/) [the](/zh/post/the/) [scrape](/zh/post/scrape/) [on](/zh/post/on/) [her](/zh/post/her/) [arm](/zh/post/arm/)."
 
 ## 同义词
-- [Rub](/post/rub/)
-- [Scratch](/post/scratch/)
-- [Gather](/post/gather/)
-- [Collect](/post/collect/)
-- [Rake](/post/rake/)
+- [Rub](/zh/post/rub/)
+- [Scratch](/zh/post/scratch/)
+- [Gather](/zh/post/gather/)
+- [Collect](/zh/post/collect/)
+- [Rake](/zh/post/rake/)

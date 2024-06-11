@@ -11,20 +11,20 @@ keywords = ['ai words', 'worthwhile']
 /waɪθˈwaʊl/
 
 ## 释义
-- **形容词**: 值得的；有意义的；值得做的。例如: "[It](/post/it/) was [a](/post/a/) [worthwhile](/post/worthwhile/) [experience](/post/experience/) [that](/post/that/) taught [me](/post/me/) [a](/post/a/) [lot](/post/lot/)."
-- **名词**: (罕用) 有价值的事物或人。例如: "[She](/post/she/) considered [the](/post/the/) [book](/post/book/) [a](/post/a/) [worthwhile](/post/worthwhile/) [read](/post/read/)."
+- **形容词**: 值得的；有意义的；值得做的。例如: "[It](/zh/post/it/) was [a](/zh/post/a/) [worthwhile](/zh/post/worthwhile/) [experience](/zh/post/experience/) [that](/zh/post/that/) taught [me](/zh/post/me/) [a](/zh/post/a/) [lot](/zh/post/lot/)."
+- **名词**: (罕用) 有价值的事物或人。例如: "[She](/zh/post/she/) considered [the](/zh/post/the/) [book](/zh/post/book/) [a](/zh/post/a/) [worthwhile](/zh/post/worthwhile/) [read](/zh/post/read/)."
 
 ## 短语
-- "[worthwhile](/post/worthwhile/) endeavor" 意为有价值的事业或努力。
-- "[worthwhile](/post/worthwhile/) [investment](/post/investment/)" 指值得投资的东西。
+- "[worthwhile](/zh/post/worthwhile/) endeavor" 意为有价值的事业或努力。
+- "[worthwhile](/zh/post/worthwhile/) [investment](/zh/post/investment/)" 指值得投资的东西。
 
 ## 例句
-- 形容词: "Spending [time](/post/time/) [with](/post/with/) [my](/post/my/) [family](/post/family/) is [always](/post/always/) [a](/post/a/) [worthwhile](/post/worthwhile/) [activity](/post/activity/)."
-- 名词: "[The](/post/the/) [project](/post/project/) was considered [a](/post/a/) [worthwhile](/post/worthwhile/) [by](/post/by/) [the](/post/the/) [management](/post/management/) [team](/post/team/)."
+- 形容词: "Spending [time](/zh/post/time/) [with](/zh/post/with/) [my](/zh/post/my/) [family](/zh/post/family/) is [always](/zh/post/always/) [a](/zh/post/a/) [worthwhile](/zh/post/worthwhile/) [activity](/zh/post/activity/)."
+- 名词: "[The](/zh/post/the/) [project](/zh/post/project/) was considered [a](/zh/post/a/) [worthwhile](/zh/post/worthwhile/) [by](/zh/post/by/) [the](/zh/post/the/) [management](/zh/post/management/) [team](/zh/post/team/)."
 
 ## 同义词
-- [valuable](/post/valuable/)
-- [beneficial](/post/beneficial/)
+- [valuable](/zh/post/valuable/)
+- [beneficial](/zh/post/beneficial/)
 - rewarding
 - profitable
-- [significant](/post/significant/)
+- [significant](/zh/post/significant/)

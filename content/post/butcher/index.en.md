@@ -7,34 +7,34 @@ description = '[ˈbut∫ə] n.屠夫；屠杀者'
 keywords = ['ai words', 'butcher']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bəˈʌtʃər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Butcher](/en/post/butcher/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) slaughters [and](/en/post/and/) prepares [meat](/en/post/meat/) [for](/en/post/for/) [sale](/en/post/sale/), typically [in](/en/post/in/) [a](/en/post/a/) [shop](/en/post/shop/) [or](/en/post/or/) [market](/en/post/market/). [Example](/en/post/example/): "[The](/en/post/the/) [butcher](/en/post/butcher/) skillfully carved [the](/en/post/the/) [roast](/en/post/roast/) [for](/en/post/for/) [the](/en/post/the/) customers."
-- **[Butcher](/en/post/butcher/) [shop](/en/post/shop/)**: [A](/en/post/a/) retail [establishment](/en/post/establishment/) [where](/en/post/where/) [meat](/en/post/meat/) is sold [and](/en/post/and/) prepared.
+### [Noun](/post/noun/)
+- **[Butcher](/post/butcher/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) slaughters [and](/post/and/) prepares [meat](/post/meat/) [for](/post/for/) [sale](/post/sale/), typically [in](/post/in/) [a](/post/a/) [shop](/post/shop/) [or](/post/or/) [market](/post/market/). [Example](/post/example/): "[The](/post/the/) [butcher](/post/butcher/) skillfully carved [the](/post/the/) [roast](/post/roast/) [for](/post/for/) [the](/post/the/) customers."
+- **[Butcher](/post/butcher/) [shop](/post/shop/)**: [A](/post/a/) retail [establishment](/post/establishment/) [where](/post/where/) [meat](/post/meat/) is sold [and](/post/and/) prepared.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [butcher](/en/post/butcher/)**: [To](/en/post/to/) [kill](/en/post/kill/) [and](/en/post/and/) [prepare](/en/post/prepare/) (an [animal](/en/post/animal/)) [for](/en/post/for/) [food](/en/post/food/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [skill](/en/post/skill/) [or](/en/post/or/) [care](/en/post/care/). [Example](/en/post/example/): "[The](/en/post/the/) chef butchered [the](/en/post/the/) [fish](/en/post/fish/), losing [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [its](/en/post/its/) [flesh](/en/post/flesh/) [in](/en/post/in/) [the](/en/post/the/) [process](/en/post/process/)."
-- **[To](/en/post/to/) [butcher](/en/post/butcher/) [a](/en/post/a/) [language](/en/post/language/)**: [To](/en/post/to/) misuse [or](/en/post/or/) misrepresent [a](/en/post/a/) [language](/en/post/language/) [in](/en/post/in/) [a](/en/post/a/) [clumsy](/en/post/clumsy/) [manner](/en/post/manner/). [Example](/en/post/example/): "[Her](/en/post/her/) attempts [at](/en/post/at/) speaking French were [a](/en/post/a/) linguistic butcher's [shop](/en/post/shop/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [butcher](/post/butcher/)**: [To](/post/to/) [kill](/post/kill/) [and](/post/and/) [prepare](/post/prepare/) (an [animal](/post/animal/)) [for](/post/for/) [food](/post/food/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [skill](/post/skill/) [or](/post/or/) [care](/post/care/). [Example](/post/example/): "[The](/post/the/) chef butchered [the](/post/the/) [fish](/post/fish/), losing [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [its](/post/its/) [flesh](/post/flesh/) [in](/post/in/) [the](/post/the/) [process](/post/process/)."
+- **[To](/post/to/) [butcher](/post/butcher/) [a](/post/a/) [language](/post/language/)**: [To](/post/to/) misuse [or](/post/or/) misrepresent [a](/post/a/) [language](/post/language/) [in](/post/in/) [a](/post/a/) [clumsy](/post/clumsy/) [manner](/post/manner/). [Example](/post/example/): "[Her](/post/her/) attempts [at](/post/at/) speaking French were [a](/post/a/) linguistic butcher's [shop](/post/shop/)."
 
-### [Adjective](/en/post/adjective/)
-- **Butchery**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) slaughtering [or](/en/post/or/) cutting [up](/en/post/up/) [meat](/en/post/meat/), [often](/en/post/often/) implying brutality [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [skill](/en/post/skill/). [Example](/en/post/example/): "[The](/en/post/the/) butchery [of](/en/post/of/) [the](/en/post/the/) [war](/en/post/war/) crimes was horrifying."
-- **Butcherly**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) related [to](/en/post/to/) [a](/en/post/a/) [butcher](/en/post/butcher/), [especially](/en/post/especially/) [in](/en/post/in/) terms [of](/en/post/of/) [work](/en/post/work/) [or](/en/post/or/) skills. [Example](/en/post/example/): "[His](/en/post/his/) butcherly techniques [in](/en/post/in/) [the](/en/post/the/) [kitchen](/en/post/kitchen/) impressed [the](/en/post/the/) judges."
+### [Adjective](/post/adjective/)
+- **Butchery**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) slaughtering [or](/post/or/) cutting [up](/post/up/) [meat](/post/meat/), [often](/post/often/) implying brutality [or](/post/or/) [lack](/post/lack/) [of](/post/of/) [skill](/post/skill/). [Example](/post/example/): "[The](/post/the/) butchery [of](/post/of/) [the](/post/the/) [war](/post/war/) crimes was horrifying."
+- **Butcherly**: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) related [to](/post/to/) [a](/post/a/) [butcher](/post/butcher/), [especially](/post/especially/) [in](/post/in/) terms [of](/post/of/) [work](/post/work/) [or](/post/or/) skills. [Example](/post/example/): "[His](/post/his/) butcherly techniques [in](/post/in/) [the](/post/the/) [kitchen](/post/kitchen/) impressed [the](/post/the/) judges."
 
 ## Phrases
-- "[Buy](/en/post/buy/) [some](/en/post/some/) [meat](/en/post/meat/) [at](/en/post/at/) [the](/en/post/the/) butcher's" [means](/en/post/means/) [to](/en/post/to/) [purchase](/en/post/purchase/) [fresh](/en/post/fresh/) cuts [of](/en/post/of/) [meat](/en/post/meat/) [from](/en/post/from/) [a](/en/post/a/) [butcher](/en/post/butcher/).
-- "[A](/en/post/a/) butcher's [block](/en/post/block/)" is [a](/en/post/a/) [large](/en/post/large/) [wooden](/en/post/wooden/) [surface](/en/post/surface/) [used](/en/post/used/) [for](/en/post/for/) preparing [meat](/en/post/meat/).
-- "Butchered [a](/en/post/a/) [sentence](/en/post/sentence/)" refers [to](/en/post/to/) [a](/en/post/a/) grammatically [incorrect](/en/post/incorrect/) [or](/en/post/or/) [awkward](/en/post/awkward/) [construction](/en/post/construction/).
+- "[Buy](/post/buy/) [some](/post/some/) [meat](/post/meat/) [at](/post/at/) [the](/post/the/) butcher's" [means](/post/means/) [to](/post/to/) [purchase](/post/purchase/) [fresh](/post/fresh/) cuts [of](/post/of/) [meat](/post/meat/) [from](/post/from/) [a](/post/a/) [butcher](/post/butcher/).
+- "[A](/post/a/) butcher's [block](/post/block/)" is [a](/post/a/) [large](/post/large/) [wooden](/post/wooden/) [surface](/post/surface/) [used](/post/used/) [for](/post/for/) preparing [meat](/post/meat/).
+- "Butchered [a](/post/a/) [sentence](/post/sentence/)" refers [to](/post/to/) [a](/post/a/) grammatically [incorrect](/post/incorrect/) [or](/post/or/) [awkward](/post/awkward/) [construction](/post/construction/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I stopped [by](/en/post/by/) [the](/en/post/the/) butcher's [to](/en/post/to/) [buy](/en/post/buy/) [some](/en/post/some/) [fresh](/en/post/fresh/) steak [for](/en/post/for/) [dinner](/en/post/dinner/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) inexperienced [cook](/en/post/cook/) butchered [the](/en/post/the/) [chicken](/en/post/chicken/), leaving [it](/en/post/it/) undercooked."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) butchery [of](/en/post/of/) [the](/en/post/the/) [crime](/en/post/crime/) [scene](/en/post/scene/) [left](/en/post/left/) [no](/en/post/no/) [doubt](/en/post/doubt/) [about](/en/post/about/) [the](/en/post/the/) perpetrator's identity."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I stopped [by](/post/by/) [the](/post/the/) butcher's [to](/post/to/) [buy](/post/buy/) [some](/post/some/) [fresh](/post/fresh/) steak [for](/post/for/) [dinner](/post/dinner/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) inexperienced [cook](/post/cook/) butchered [the](/post/the/) [chicken](/post/chicken/), leaving [it](/post/it/) undercooked."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) butchery [of](/post/of/) [the](/post/the/) [crime](/post/crime/) [scene](/post/scene/) [left](/post/left/) [no](/post/no/) [doubt](/post/doubt/) [about](/post/about/) [the](/post/the/) perpetrator's identity."
 
 ## Synonyms
-- [Meat](/en/post/meat/) cutter
+- [Meat](/post/meat/) cutter
 - Slaughterer
 - Carver
 - Processor

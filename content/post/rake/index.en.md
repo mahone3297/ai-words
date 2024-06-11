@@ -7,34 +7,34 @@ description = '[reik] n.耙子 vi.耙；搜索'
 keywords = ['ai words', 'rake']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪkeɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[rake](/en/post/rake/)** is [a](/en/post/a/) gardening [tool](/en/post/tool/) [with](/en/post/with/) [a](/en/post/a/) [blade](/en/post/blade/) attached [to](/en/post/to/) [a](/en/post/a/) [long](/en/post/long/) [handle](/en/post/handle/), [used](/en/post/used/) [for](/en/post/for/) moving [soil](/en/post/soil/), leaves, [and](/en/post/and/) [other](/en/post/other/) debris. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) scoring runs [in](/en/post/in/) [cricket](/en/post/cricket/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[rake](/post/rake/)** is [a](/post/a/) gardening [tool](/post/tool/) [with](/post/with/) [a](/post/a/) [blade](/post/blade/) attached [to](/post/to/) [a](/post/a/) [long](/post/long/) [handle](/post/handle/), [used](/post/used/) [for](/post/for/) moving [soil](/post/soil/), leaves, [and](/post/and/) [other](/post/other/) debris. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) scoring runs [in](/post/in/) [cricket](/post/cricket/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[rake](/en/post/rake/)** (v) [means](/en/post/means/) [to](/en/post/to/) [sweep](/en/post/sweep/) [or](/en/post/or/) [gather](/en/post/gather/) [dirt](/en/post/dirt/), leaves, [or](/en/post/or/) [grass](/en/post/grass/) [with](/en/post/with/) [a](/en/post/a/) [rake](/en/post/rake/), [or](/en/post/or/) metaphorically [to](/en/post/to/) [clear](/en/post/clear/) [or](/en/post/or/) [organize](/en/post/organize/) [something](/en/post/something/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[rake](/post/rake/)** (v) [means](/post/means/) [to](/post/to/) [sweep](/post/sweep/) [or](/post/or/) [gather](/post/gather/) [dirt](/post/dirt/), leaves, [or](/post/or/) [grass](/post/grass/) [with](/post/with/) [a](/post/a/) [rake](/post/rake/), [or](/post/or/) metaphorically [to](/post/to/) [clear](/post/clear/) [or](/post/or/) [organize](/post/organize/) [something](/post/something/).
 
 ## Phrases
-- "[Rake](/en/post/rake/) [through](/en/post/through/) [the](/en/post/the/) leaves" [means](/en/post/means/) [to](/en/post/to/) carefully [search](/en/post/search/) [or](/en/post/or/) sift [through](/en/post/through/) [something](/en/post/something/).
-- "[Rake](/en/post/rake/) [up](/en/post/up/) [the](/en/post/the/) [lawn](/en/post/lawn/)" refers [to](/en/post/to/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) cleaning [the](/en/post/the/) [grass](/en/post/grass/) [by](/en/post/by/) removing debris.
-- "[Score](/en/post/score/) [a](/en/post/a/) [run](/en/post/run/) [with](/en/post/with/) [a](/en/post/a/) [rake](/en/post/rake/)" ([cricket](/en/post/cricket/)) is [a](/en/post/a/) [specific](/en/post/specific/) sports [term](/en/post/term/).
+- "[Rake](/post/rake/) [through](/post/through/) [the](/post/the/) leaves" [means](/post/means/) [to](/post/to/) carefully [search](/post/search/) [or](/post/or/) sift [through](/post/through/) [something](/post/something/).
+- "[Rake](/post/rake/) [up](/post/up/) [the](/post/the/) [lawn](/post/lawn/)" refers [to](/post/to/) [the](/post/the/) [action](/post/action/) [of](/post/of/) cleaning [the](/post/the/) [grass](/post/grass/) [by](/post/by/) removing debris.
+- "[Score](/post/score/) [a](/post/a/) [run](/post/run/) [with](/post/with/) [a](/post/a/) [rake](/post/rake/)" ([cricket](/post/cricket/)) is [a](/post/a/) [specific](/post/specific/) sports [term](/post/term/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was [out](/en/post/out/) [in](/en/post/in/) [the](/en/post/the/) [garden](/en/post/garden/) raking [up](/en/post/up/) fallen leaves."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [rain](/en/post/rain/), [he](/en/post/he/) went [outside](/en/post/outside/) [to](/en/post/to/) [rake](/en/post/rake/) [the](/en/post/the/) puddles [away](/en/post/away/)."
-- **[Cricket](/en/post/cricket/)**: "[The](/en/post/the/) batter managed [to](/en/post/to/) [rake](/en/post/rake/) [a](/en/post/a/) [six](/en/post/six/) [with](/en/post/with/) [a](/en/post/a/) [powerful](/en/post/powerful/) [swing](/en/post/swing/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was [out](/post/out/) [in](/post/in/) [the](/post/the/) [garden](/post/garden/) raking [up](/post/up/) fallen leaves."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [rain](/post/rain/), [he](/post/he/) went [outside](/post/outside/) [to](/post/to/) [rake](/post/rake/) [the](/post/the/) puddles [away](/post/away/)."
+- **[Cricket](/post/cricket/)**: "[The](/post/the/) batter managed [to](/post/to/) [rake](/post/rake/) [a](/post/a/) [six](/post/six/) [with](/post/with/) [a](/post/a/) [powerful](/post/powerful/) [swing](/post/swing/)."
 
 ## Synonyms
-- [Lawn](/en/post/lawn/) [rake](/en/post/rake/)
+- [Lawn](/post/lawn/) [rake](/post/rake/)
 - Trowel
 - Groom
-- [Level](/en/post/level/)
-- [Clear](/en/post/clear/)
+- [Level](/post/level/)
+- [Clear](/post/clear/)
 
 ## Antonyms
-- [Scatter](/en/post/scatter/)
-- [Mess](/en/post/mess/) [up](/en/post/up/)
+- [Scatter](/post/scatter/)
+- [Mess](/post/mess/) [up](/post/up/)
 - Disarray

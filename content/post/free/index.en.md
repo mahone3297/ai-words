@@ -7,34 +7,34 @@ description = '[friː] a.自由的；空闲的'
 keywords = ['ai words', 'free']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /friː/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) [under](/en/post/under/) [the](/en/post/the/) [control](/en/post/control/) [or](/en/post/or/) [in](/en/post/in/) [the](/en/post/the/) [power](/en/post/power/) [of](/en/post/of/) [another](/en/post/another/); [able](/en/post/able/) [to](/en/post/to/) [act](/en/post/act/) [or](/en/post/or/) [be](/en/post/be/) done [as](/en/post/as/) [one](/en/post/one/) wishes. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) birds are [free](/en/post/free/) [to](/en/post/to/) [fly](/en/post/fly/) [wherever](/en/post/wherever/) [they](/en/post/they/) [please](/en/post/please/)."
-- **[Adjective](/en/post/adjective/)**: Unconstrained [by](/en/post/by/) obligations [or](/en/post/or/) commitments; [not](/en/post/not/) [bound](/en/post/bound/) [by](/en/post/by/) rules [or](/en/post/or/) restrictions. [Example](/en/post/example/): "[After](/en/post/after/) retirement, [he](/en/post/he/) [finally](/en/post/finally/) felt [free](/en/post/free/) [to](/en/post/to/) [pursue](/en/post/pursue/) [his](/en/post/his/) hobbies."
-- **[Adjective](/en/post/adjective/)**: [Available](/en/post/available/) [without](/en/post/without/) [cost](/en/post/cost/) [or](/en/post/or/) [payment](/en/post/payment/). [Example](/en/post/example/): "[The](/en/post/the/) [museum](/en/post/museum/) [entry](/en/post/entry/) was [free](/en/post/free/) [on](/en/post/on/) [that](/en/post/that/) [day](/en/post/day/)."
-- **[Adjective](/en/post/adjective/)** ([in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/)): Liberated [from](/en/post/from/) imprisonment [or](/en/post/or/) [slavery](/en/post/slavery/). [Example](/en/post/example/): "[They](/en/post/they/) were [finally](/en/post/finally/) [set](/en/post/set/) [free](/en/post/free/) [after](/en/post/after/) years [of](/en/post/of/) captivity."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [release](/en/post/release/) [or](/en/post/or/) [liberate](/en/post/liberate/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [from](/en/post/from/) constraints, confinement, [or](/en/post/or/) obligation. [Example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) decided [to](/en/post/to/) [free](/en/post/free/) [all](/en/post/all/) [political](/en/post/political/) prisoners."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [available](/en/post/available/) [without](/en/post/without/) [charge](/en/post/charge/) [or](/en/post/or/) [restriction](/en/post/restriction/). [Example](/en/post/example/): "[They](/en/post/they/) [will](/en/post/will/) [free](/en/post/free/) [up](/en/post/up/) [more](/en/post/more/) resources [for](/en/post/for/) [research](/en/post/research/)."
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) [under](/post/under/) [the](/post/the/) [control](/post/control/) [or](/post/or/) [in](/post/in/) [the](/post/the/) [power](/post/power/) [of](/post/of/) [another](/post/another/); [able](/post/able/) [to](/post/to/) [act](/post/act/) [or](/post/or/) [be](/post/be/) done [as](/post/as/) [one](/post/one/) wishes. [For](/post/for/) [example](/post/example/): "[The](/post/the/) birds are [free](/post/free/) [to](/post/to/) [fly](/post/fly/) [wherever](/post/wherever/) [they](/post/they/) [please](/post/please/)."
+- **[Adjective](/post/adjective/)**: Unconstrained [by](/post/by/) obligations [or](/post/or/) commitments; [not](/post/not/) [bound](/post/bound/) [by](/post/by/) rules [or](/post/or/) restrictions. [Example](/post/example/): "[After](/post/after/) retirement, [he](/post/he/) [finally](/post/finally/) felt [free](/post/free/) [to](/post/to/) [pursue](/post/pursue/) [his](/post/his/) hobbies."
+- **[Adjective](/post/adjective/)**: [Available](/post/available/) [without](/post/without/) [cost](/post/cost/) [or](/post/or/) [payment](/post/payment/). [Example](/post/example/): "[The](/post/the/) [museum](/post/museum/) [entry](/post/entry/) was [free](/post/free/) [on](/post/on/) [that](/post/that/) [day](/post/day/)."
+- **[Adjective](/post/adjective/)** ([in](/post/in/) [reference](/post/reference/) [to](/post/to/) [a](/post/a/) [person](/post/person/)): Liberated [from](/post/from/) imprisonment [or](/post/or/) [slavery](/post/slavery/). [Example](/post/example/): "[They](/post/they/) were [finally](/post/finally/) [set](/post/set/) [free](/post/free/) [after](/post/after/) years [of](/post/of/) captivity."
+- **[Verb](/post/verb/)**: [To](/post/to/) [release](/post/release/) [or](/post/or/) [liberate](/post/liberate/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [from](/post/from/) constraints, confinement, [or](/post/or/) obligation. [Example](/post/example/): "[The](/post/the/) [government](/post/government/) decided [to](/post/to/) [free](/post/free/) [all](/post/all/) [political](/post/political/) prisoners."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [available](/post/available/) [without](/post/without/) [charge](/post/charge/) [or](/post/or/) [restriction](/post/restriction/). [Example](/post/example/): "[They](/post/they/) [will](/post/will/) [free](/post/free/) [up](/post/up/) [more](/post/more/) resources [for](/post/for/) [research](/post/research/)."
 
 ## Phrases
-- "[Set](/en/post/set/) [someone](/en/post/someone/) [free](/en/post/free/)": [Release](/en/post/release/) [a](/en/post/a/) [person](/en/post/person/) [from](/en/post/from/) confinement [or](/en/post/or/) [slavery](/en/post/slavery/).
-- "[Free](/en/post/free/) [and](/en/post/and/) [easy](/en/post/easy/)": Characterized [by](/en/post/by/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) constraint [or](/en/post/or/) formality.
-- "[Free](/en/post/free/) [of](/en/post/of/) [charge](/en/post/charge/)": Given [or](/en/post/or/) [available](/en/post/available/) [without](/en/post/without/) having [to](/en/post/to/) [pay](/en/post/pay/) [any](/en/post/any/) [money](/en/post/money/).
-- "[Free](/en/post/free/) [time](/en/post/time/)": Unoccupied [or](/en/post/or/) discretionary [time](/en/post/time/) [when](/en/post/when/) [one](/en/post/one/) is [not](/en/post/not/) working [or](/en/post/or/) occupied [with](/en/post/with/) [necessary](/en/post/necessary/) tasks.
+- "[Set](/post/set/) [someone](/post/someone/) [free](/post/free/)": [Release](/post/release/) [a](/post/a/) [person](/post/person/) [from](/post/from/) confinement [or](/post/or/) [slavery](/post/slavery/).
+- "[Free](/post/free/) [and](/post/and/) [easy](/post/easy/)": Characterized [by](/post/by/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) constraint [or](/post/or/) formality.
+- "[Free](/post/free/) [of](/post/of/) [charge](/post/charge/)": Given [or](/post/or/) [available](/post/available/) [without](/post/without/) having [to](/post/to/) [pay](/post/pay/) [any](/post/any/) [money](/post/money/).
+- "[Free](/post/free/) [time](/post/time/)": Unoccupied [or](/post/or/) discretionary [time](/post/time/) [when](/post/when/) [one](/post/one/) is [not](/post/not/) working [or](/post/or/) occupied [with](/post/with/) [necessary](/post/necessary/) tasks.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [cat](/en/post/cat/) feels [most](/en/post/most/) [content](/en/post/content/) [when](/en/post/when/) it's [free](/en/post/free/) [to](/en/post/to/) roam [outside](/en/post/outside/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [charity](/en/post/charity/) works tirelessly [to](/en/post/to/) [free](/en/post/free/) animals [from](/en/post/from/) testing labs."
-- **[Adjective](/en/post/adjective/)**: "[All](/en/post/all/) children [should](/en/post/should/) [have](/en/post/have/) [access](/en/post/access/) [to](/en/post/to/) [a](/en/post/a/) [free](/en/post/free/) [education](/en/post/education/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [free](/en/post/free/) [ourselves](/en/post/ourselves/) [from](/en/post/from/) [these](/en/post/these/) outdated beliefs."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [cat](/post/cat/) feels [most](/post/most/) [content](/post/content/) [when](/post/when/) it's [free](/post/free/) [to](/post/to/) roam [outside](/post/outside/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [charity](/post/charity/) works tirelessly [to](/post/to/) [free](/post/free/) animals [from](/post/from/) testing labs."
+- **[Adjective](/post/adjective/)**: "[All](/post/all/) children [should](/post/should/) [have](/post/have/) [access](/post/access/) [to](/post/to/) [a](/post/a/) [free](/post/free/) [education](/post/education/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [free](/post/free/) [ourselves](/post/ourselves/) [from](/post/from/) [these](/post/these/) outdated beliefs."
 
 ## Synonyms
-- [Independent](/en/post/independent/)
+- [Independent](/post/independent/)
 - Unrestricted
 - Unbound
 - Liberated
-- Gratuitous ([when](/en/post/when/) referring [to](/en/post/to/) [something](/en/post/something/) given [without](/en/post/without/) [cost](/en/post/cost/))
+- Gratuitous ([when](/post/when/) referring [to](/post/to/) [something](/post/something/) given [without](/post/without/) [cost](/post/cost/))
 - Released
-- Uncaged ([when](/en/post/when/) referring [to](/en/post/to/) releasing [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [from](/en/post/from/) confinement)
+- Uncaged ([when](/post/when/) referring [to](/post/to/) releasing [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [from](/post/from/) confinement)

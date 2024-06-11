@@ -7,27 +7,27 @@ description = '[ˈjuːθful] a.年轻的，青年的'
 keywords = ['ai words', 'youthful']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjʌŋˌful/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **[Youthful](/en/post/youthful/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) belonging [to](/en/post/to/) [young](/en/post/young/) [people](/en/post/people/); exhibiting qualities typically associated [with](/en/post/with/) [youth](/en/post/youth/), [such](/en/post/such/) [as](/en/post/as/) vitality, freshness, [or](/en/post/or/) exuberance. 
+### [Adjective](/post/adjective/)
+- **[Youthful](/post/youthful/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) belonging [to](/post/to/) [young](/post/young/) [people](/post/people/); exhibiting qualities typically associated [with](/post/with/) [youth](/post/youth/), [such](/post/such/) [as](/post/as/) vitality, freshness, [or](/post/or/) exuberance. 
 
 ## Phrases
-- "[A](/en/post/a/) [youthful](/en/post/youthful/) [appearance](/en/post/appearance/)"
-- "[Youthful](/en/post/youthful/) [energy](/en/post/energy/)"
-- "[A](/en/post/a/) [youthful](/en/post/youthful/) [enthusiasm](/en/post/enthusiasm/)"
+- "[A](/post/a/) [youthful](/post/youthful/) [appearance](/post/appearance/)"
+- "[Youthful](/post/youthful/) [energy](/post/energy/)"
+- "[A](/post/a/) [youthful](/post/youthful/) [enthusiasm](/post/enthusiasm/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [leader](/en/post/leader/) brought [a](/en/post/a/) [youthful](/en/post/youthful/) vibe [to](/en/post/to/) [the](/en/post/the/) [company](/en/post/company/)."
-- "[Her](/en/post/her/) [youthful](/en/post/youthful/) optimism was contagious."
-- "[The](/en/post/the/) [park](/en/post/park/) was filled [with](/en/post/with/) children, [their](/en/post/their/) [laughter](/en/post/laughter/) echoing [youthful](/en/post/youthful/) [joy](/en/post/joy/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [leader](/post/leader/) brought [a](/post/a/) [youthful](/post/youthful/) vibe [to](/post/to/) [the](/post/the/) [company](/post/company/)."
+- "[Her](/post/her/) [youthful](/post/youthful/) optimism was contagious."
+- "[The](/post/the/) [park](/post/park/) was filled [with](/post/with/) children, [their](/post/their/) [laughter](/post/laughter/) echoing [youthful](/post/youthful/) [joy](/post/joy/)."
 
 ## Synonyms
-- [Fresh](/en/post/fresh/)
+- [Fresh](/post/fresh/)
 - Energetic
-- [Lively](/en/post/lively/)
+- [Lively](/post/lively/)
 - Sprightly
 - Robust
 - Juvenile
@@ -35,12 +35,12 @@ keywords = ['ai words', 'youthful']
 - Radiant
 
 ## Antonyms
-- [Mature](/en/post/mature/)
-- [Senior](/en/post/senior/)
+- [Mature](/post/mature/)
+- [Senior](/post/senior/)
 - Experienced
 - Staid
 - Old-fashioned
 - Withered
 
-## [Usage](/en/post/usage/)
-"[Youthful](/en/post/youthful/)" is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [that](/en/post/that/) possesses [the](/en/post/the/) qualities [of](/en/post/of/) [youth](/en/post/youth/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) person's demeanor, [appearance](/en/post/appearance/), [or](/en/post/or/) [spirit](/en/post/spirit/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) applied [to](/en/post/to/) ideas, concepts, [or](/en/post/or/) products [that](/en/post/that/) evoke [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) vitality [and](/en/post/and/) innovation.
+## [Usage](/post/usage/)
+"[Youthful](/post/youthful/)" is [often](/post/often/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [that](/post/that/) possesses [the](/post/the/) qualities [of](/post/of/) [youth](/post/youth/), [such](/post/such/) [as](/post/as/) [a](/post/a/) person's demeanor, [appearance](/post/appearance/), [or](/post/or/) [spirit](/post/spirit/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) applied [to](/post/to/) ideas, concepts, [or](/post/or/) products [that](/post/that/) evoke [a](/post/a/) [sense](/post/sense/) [of](/post/of/) vitality [and](/post/and/) innovation.

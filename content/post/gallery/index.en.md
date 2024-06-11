@@ -7,35 +7,35 @@ description = '[ˈgæləri] n.长廊，游廊；画廊'
 keywords = ['ai words', 'gallery']
 +++
 
-## [Word](/en/post/word/): [Gallery](/en/post/gallery/)
+## [Word](/post/word/): [Gallery](/post/gallery/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡæləri/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-1. **[A](/en/post/a/) [room](/en/post/room/) [or](/en/post/or/) [building](/en/post/building/) [for](/en/post/for/) displaying works [of](/en/post/of/) [art](/en/post/art/)**: [A](/en/post/a/) [space](/en/post/space/) specifically designed [for](/en/post/for/) exhibiting paintings, sculptures, photographs, [or](/en/post/or/) [other](/en/post/other/) forms [of](/en/post/of/) [visual](/en/post/visual/) [art](/en/post/art/). [Example](/en/post/example/): "[The](/en/post/the/) Louvre [Museum](/en/post/museum/) houses [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [most](/en/post/most/) [famous](/en/post/famous/) [art](/en/post/art/) galleries [in](/en/post/in/) [the](/en/post/the/) [world](/en/post/world/)."
-2. **[A](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) artwork**: [A](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) array [of](/en/post/of/) artworks, [often](/en/post/often/) owned [by](/en/post/by/) [a](/en/post/a/) [museum](/en/post/museum/), [individual](/en/post/individual/), [or](/en/post/or/) [institution](/en/post/institution/). [Example](/en/post/example/): "[The](/en/post/the/) gallery's [permanent](/en/post/permanent/) [collection](/en/post/collection/) includes [several](/en/post/several/) masterpieces [by](/en/post/by/) renowned artists."
-3. **[A](/en/post/a/) balcony [or](/en/post/or/) [upper](/en/post/upper/) [level](/en/post/level/) [in](/en/post/in/) [a](/en/post/a/) [building](/en/post/building/)**: [Especially](/en/post/especially/) [in](/en/post/in/) theaters, churches, [or](/en/post/or/) courtrooms, [a](/en/post/a/) raised [area](/en/post/area/) [that](/en/post/that/) typically runs [along](/en/post/along/) [the](/en/post/the/) sides [or](/en/post/or/) [back](/en/post/back/) [where](/en/post/where/) [people](/en/post/people/) [can](/en/post/can/) [sit](/en/post/sit/) [or](/en/post/or/) [stand](/en/post/stand/). [Example](/en/post/example/): "[The](/en/post/the/) [audience](/en/post/audience/) watched [the](/en/post/the/) [play](/en/post/play/) [from](/en/post/from/) [the](/en/post/the/) [gallery](/en/post/gallery/) [above](/en/post/above/) [the](/en/post/the/) [stage](/en/post/stage/)."
-4. **[A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) spectators [or](/en/post/or/) observers**: [In](/en/post/in/) sports, [a](/en/post/a/) [term](/en/post/term/) [sometimes](/en/post/sometimes/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [those](/en/post/those/) watching an [event](/en/post/event/), [particularly](/en/post/particularly/) [in](/en/post/in/) [golf](/en/post/golf/). [Example](/en/post/example/): "[The](/en/post/the/) golfer acknowledged [the](/en/post/the/) [gallery](/en/post/gallery/) [with](/en/post/with/) [a](/en/post/a/) [wave](/en/post/wave/) [before](/en/post/before/) teeing [off](/en/post/off/)."
+### [Noun](/post/noun/) (n)
+1. **[A](/post/a/) [room](/post/room/) [or](/post/or/) [building](/post/building/) [for](/post/for/) displaying works [of](/post/of/) [art](/post/art/)**: [A](/post/a/) [space](/post/space/) specifically designed [for](/post/for/) exhibiting paintings, sculptures, photographs, [or](/post/or/) [other](/post/other/) forms [of](/post/of/) [visual](/post/visual/) [art](/post/art/). [Example](/post/example/): "[The](/post/the/) Louvre [Museum](/post/museum/) houses [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [famous](/post/famous/) [art](/post/art/) galleries [in](/post/in/) [the](/post/the/) [world](/post/world/)."
+2. **[A](/post/a/) [collection](/post/collection/) [of](/post/of/) artwork**: [A](/post/a/) [group](/post/group/) [or](/post/or/) array [of](/post/of/) artworks, [often](/post/often/) owned [by](/post/by/) [a](/post/a/) [museum](/post/museum/), [individual](/post/individual/), [or](/post/or/) [institution](/post/institution/). [Example](/post/example/): "[The](/post/the/) gallery's [permanent](/post/permanent/) [collection](/post/collection/) includes [several](/post/several/) masterpieces [by](/post/by/) renowned artists."
+3. **[A](/post/a/) balcony [or](/post/or/) [upper](/post/upper/) [level](/post/level/) [in](/post/in/) [a](/post/a/) [building](/post/building/)**: [Especially](/post/especially/) [in](/post/in/) theaters, churches, [or](/post/or/) courtrooms, [a](/post/a/) raised [area](/post/area/) [that](/post/that/) typically runs [along](/post/along/) [the](/post/the/) sides [or](/post/or/) [back](/post/back/) [where](/post/where/) [people](/post/people/) [can](/post/can/) [sit](/post/sit/) [or](/post/or/) [stand](/post/stand/). [Example](/post/example/): "[The](/post/the/) [audience](/post/audience/) watched [the](/post/the/) [play](/post/play/) [from](/post/from/) [the](/post/the/) [gallery](/post/gallery/) [above](/post/above/) [the](/post/the/) [stage](/post/stage/)."
+4. **[A](/post/a/) [group](/post/group/) [of](/post/of/) spectators [or](/post/or/) observers**: [In](/post/in/) sports, [a](/post/a/) [term](/post/term/) [sometimes](/post/sometimes/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [those](/post/those/) watching an [event](/post/event/), [particularly](/post/particularly/) [in](/post/in/) [golf](/post/golf/). [Example](/post/example/): "[The](/post/the/) golfer acknowledged [the](/post/the/) [gallery](/post/gallery/) [with](/post/with/) [a](/post/a/) [wave](/post/wave/) [before](/post/before/) teeing [off](/post/off/)."
 
-### [Verb](/en/post/verb/) (v)
-**(informal)** [To](/en/post/to/) [observe](/en/post/observe/) [or](/en/post/or/) scrutinize [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [closely](/en/post/closely/) [or](/en/post/or/) critically. [Example](/en/post/example/): "[The](/en/post/the/) [fashion](/en/post/fashion/) critics were [out](/en/post/out/) [in](/en/post/in/) [full](/en/post/full/) [force](/en/post/force/), gallerying [the](/en/post/the/) models [on](/en/post/on/) [the](/en/post/the/) runway."
+### [Verb](/post/verb/) (v)
+**(informal)** [To](/post/to/) [observe](/post/observe/) [or](/post/or/) scrutinize [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [closely](/post/closely/) [or](/post/or/) critically. [Example](/post/example/): "[The](/post/the/) [fashion](/post/fashion/) critics were [out](/post/out/) [in](/post/in/) [full](/post/full/) [force](/post/force/), gallerying [the](/post/the/) models [on](/post/on/) [the](/post/the/) runway."
 
 ## Phrases
-- "[Art](/en/post/art/) [gallery](/en/post/gallery/)": [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [art](/en/post/art/) is exhibited [for](/en/post/for/) [public](/en/post/public/) viewing.
-- "[Walk](/en/post/walk/) [through](/en/post/through/) [the](/en/post/the/) [gallery](/en/post/gallery/)": [To](/en/post/to/) [tour](/en/post/tour/) [or](/en/post/or/) [inspect](/en/post/inspect/) an [art](/en/post/art/) [gallery](/en/post/gallery/) [or](/en/post/or/) [exhibition](/en/post/exhibition/).
-- "[In](/en/post/in/) [the](/en/post/the/) [gallery](/en/post/gallery/)": Refers [to](/en/post/to/) [being](/en/post/being/) [present](/en/post/present/) [in](/en/post/in/) [the](/en/post/the/) balcony [or](/en/post/or/) [upper](/en/post/upper/) [level](/en/post/level/) seating [area](/en/post/area/) [of](/en/post/of/) [a](/en/post/a/) theater, courtroom, [or](/en/post/or/) [similar](/en/post/similar/) venue.
+- "[Art](/post/art/) [gallery](/post/gallery/)": [A](/post/a/) [place](/post/place/) [where](/post/where/) [art](/post/art/) is exhibited [for](/post/for/) [public](/post/public/) viewing.
+- "[Walk](/post/walk/) [through](/post/through/) [the](/post/the/) [gallery](/post/gallery/)": [To](/post/to/) [tour](/post/tour/) [or](/post/or/) [inspect](/post/inspect/) an [art](/post/art/) [gallery](/post/gallery/) [or](/post/or/) [exhibition](/post/exhibition/).
+- "[In](/post/in/) [the](/post/the/) [gallery](/post/gallery/)": Refers [to](/post/to/) [being](/post/being/) [present](/post/present/) [in](/post/in/) [the](/post/the/) balcony [or](/post/or/) [upper](/post/upper/) [level](/post/level/) seating [area](/post/area/) [of](/post/of/) [a](/post/a/) theater, courtroom, [or](/post/or/) [similar](/post/similar/) venue.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([art](/en/post/art/) [gallery](/en/post/gallery/))**: "[We](/en/post/we/) spent [the](/en/post/the/) [afternoon](/en/post/afternoon/) browsing [through](/en/post/through/) [the](/en/post/the/) [contemporary](/en/post/contemporary/) [art](/en/post/art/) [gallery](/en/post/gallery/) downtown."
-- **[Noun](/en/post/noun/) ([building](/en/post/building/) [feature](/en/post/feature/))**: "[During](/en/post/during/) [the](/en/post/the/) [performance](/en/post/performance/), [the](/en/post/the/) [royal](/en/post/royal/) [family](/en/post/family/) sat [in](/en/post/in/) [the](/en/post/the/) [private](/en/post/private/) [gallery](/en/post/gallery/) overlooking [the](/en/post/the/) [stage](/en/post/stage/)."
-- **[Noun](/en/post/noun/) ([group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/))**: "[The](/en/post/the/) [tennis](/en/post/tennis/) [star](/en/post/star/) was cheered [on](/en/post/on/) [by](/en/post/by/) [a](/en/post/a/) packed [gallery](/en/post/gallery/) [during](/en/post/during/) [her](/en/post/her/) championship [match](/en/post/match/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([art](/post/art/) [gallery](/post/gallery/))**: "[We](/post/we/) spent [the](/post/the/) [afternoon](/post/afternoon/) browsing [through](/post/through/) [the](/post/the/) [contemporary](/post/contemporary/) [art](/post/art/) [gallery](/post/gallery/) downtown."
+- **[Noun](/post/noun/) ([building](/post/building/) [feature](/post/feature/))**: "[During](/post/during/) [the](/post/the/) [performance](/post/performance/), [the](/post/the/) [royal](/post/royal/) [family](/post/family/) sat [in](/post/in/) [the](/post/the/) [private](/post/private/) [gallery](/post/gallery/) overlooking [the](/post/the/) [stage](/post/stage/)."
+- **[Noun](/post/noun/) ([group](/post/group/) [of](/post/of/) [people](/post/people/))**: "[The](/post/the/) [tennis](/post/tennis/) [star](/post/star/) was cheered [on](/post/on/) [by](/post/by/) [a](/post/a/) packed [gallery](/post/gallery/) [during](/post/during/) [her](/post/her/) championship [match](/post/match/)."
 
 ## Synonyms
-- [Exhibition](/en/post/exhibition/) [hall](/en/post/hall/)
-- [Museum](/en/post/museum/)
-- [Display](/en/post/display/) [room](/en/post/room/)
-- Viewing [room](/en/post/room/)
-- Auditorium ([for](/en/post/for/) [the](/en/post/the/) architectural [sense](/en/post/sense/)) 
-- Spectators ([for](/en/post/for/) [the](/en/post/the/) informal [verb](/en/post/verb/) [sense](/en/post/sense/))
+- [Exhibition](/post/exhibition/) [hall](/post/hall/)
+- [Museum](/post/museum/)
+- [Display](/post/display/) [room](/post/room/)
+- Viewing [room](/post/room/)
+- Auditorium ([for](/post/for/) [the](/post/the/) architectural [sense](/post/sense/)) 
+- Spectators ([for](/post/for/) [the](/post/the/) informal [verb](/post/verb/) [sense](/post/sense/))

@@ -7,39 +7,39 @@ description = '[ˌæljuːˈminjəm] n.铝'
 keywords = ['ai words', 'aluminium']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæljuːmɪnəm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Aluminium](/en/post/aluminium/)**: [A](/en/post/a/) [chemical](/en/post/chemical/) [element](/en/post/element/) [with](/en/post/with/) [the](/en/post/the/) [symbol](/en/post/symbol/) Al [and](/en/post/and/) [atomic](/en/post/atomic/) [number](/en/post/number/) 13. [It](/en/post/it/) is [a](/en/post/a/) lightweight, silvery-white [metal](/en/post/metal/) [that](/en/post/that/) is [widely](/en/post/widely/) [used](/en/post/used/) [in](/en/post/in/) [various](/en/post/various/) industries [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) corrosion [resistance](/en/post/resistance/) [and](/en/post/and/) [electrical](/en/post/electrical/) conductivity.
-- **Aluminum**: [In](/en/post/in/) [American](/en/post/american/) English, [the](/en/post/the/) [spelling](/en/post/spelling/) [without](/en/post/without/) [the](/en/post/the/) "u" is [commonly](/en/post/commonly/) [used](/en/post/used/).
+### [Noun](/post/noun/)
+- **[Aluminium](/post/aluminium/)**: [A](/post/a/) [chemical](/post/chemical/) [element](/post/element/) [with](/post/with/) [the](/post/the/) [symbol](/post/symbol/) Al [and](/post/and/) [atomic](/post/atomic/) [number](/post/number/) 13. [It](/post/it/) is [a](/post/a/) lightweight, silvery-white [metal](/post/metal/) [that](/post/that/) is [widely](/post/widely/) [used](/post/used/) [in](/post/in/) [various](/post/various/) industries [due](/post/due/) [to](/post/to/) [its](/post/its/) corrosion [resistance](/post/resistance/) [and](/post/and/) [electrical](/post/electrical/) conductivity.
+- **Aluminum**: [In](/post/in/) [American](/post/american/) English, [the](/post/the/) [spelling](/post/spelling/) [without](/post/without/) [the](/post/the/) "u" is [commonly](/post/commonly/) [used](/post/used/).
 
-### [Verb](/en/post/verb/) (informal)
-- **[To](/en/post/to/) [aluminium](/en/post/aluminium/)**: [Not](/en/post/not/) [a](/en/post/a/) [standard](/en/post/standard/) [verb](/en/post/verb/); it's [not](/en/post/not/) [common](/en/post/common/) [to](/en/post/to/) [use](/en/post/use/) "[to](/en/post/to/) [aluminium](/en/post/aluminium/)" [in](/en/post/in/) [this](/en/post/this/) [sense](/en/post/sense/).
+### [Verb](/post/verb/) (informal)
+- **[To](/post/to/) [aluminium](/post/aluminium/)**: [Not](/post/not/) [a](/post/a/) [standard](/post/standard/) [verb](/post/verb/); it's [not](/post/not/) [common](/post/common/) [to](/post/to/) [use](/post/use/) "[to](/post/to/) [aluminium](/post/aluminium/)" [in](/post/in/) [this](/post/this/) [sense](/post/sense/).
 
-### [Adjective](/en/post/adjective/)
-- **Aluminous**: Having [a](/en/post/a/) silvery [appearance](/en/post/appearance/) [or](/en/post/or/) reflecting [light](/en/post/light/) [like](/en/post/like/) [aluminium](/en/post/aluminium/).
+### [Adjective](/post/adjective/)
+- **Aluminous**: Having [a](/post/a/) silvery [appearance](/post/appearance/) [or](/post/or/) reflecting [light](/post/light/) [like](/post/like/) [aluminium](/post/aluminium/).
 
 ## Phrases
-- "Made [from](/en/post/from/) [aluminium](/en/post/aluminium/)" refers [to](/en/post/to/) [something](/en/post/something/) [being](/en/post/being/) crafted [or](/en/post/or/) composed [of](/en/post/of/) [the](/en/post/the/) [metal](/en/post/metal/).
-- "[Aluminium](/en/post/aluminium/) cans" are containers typically [used](/en/post/used/) [for](/en/post/for/) storing beverages.
-- "Aluminized foil" is reflective foil [used](/en/post/used/) [for](/en/post/for/) cooking [or](/en/post/or/) insulation.
+- "Made [from](/post/from/) [aluminium](/post/aluminium/)" refers [to](/post/to/) [something](/post/something/) [being](/post/being/) crafted [or](/post/or/) composed [of](/post/of/) [the](/post/the/) [metal](/post/metal/).
+- "[Aluminium](/post/aluminium/) cans" are containers typically [used](/post/used/) [for](/post/for/) storing beverages.
+- "Aluminized foil" is reflective foil [used](/post/used/) [for](/post/for/) cooking [or](/post/or/) insulation.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [building](/en/post/building/) was clad [in](/en/post/in/) [a](/en/post/a/) [layer](/en/post/layer/) [of](/en/post/of/) [aluminium](/en/post/aluminium/) siding."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) aluminous [finish](/en/post/finish/) [on](/en/post/on/) [the](/en/post/the/) [bicycle](/en/post/bicycle/) [frame](/en/post/frame/) shone [in](/en/post/in/) [the](/en/post/the/) [sunlight](/en/post/sunlight/)."
-- **Informal**: "[The](/en/post/the/) [aluminium](/en/post/aluminium/) parts were lightweight [and](/en/post/and/) [easy](/en/post/easy/) [to](/en/post/to/) [handle](/en/post/handle/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [building](/post/building/) was clad [in](/post/in/) [a](/post/a/) [layer](/post/layer/) [of](/post/of/) [aluminium](/post/aluminium/) siding."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) aluminous [finish](/post/finish/) [on](/post/on/) [the](/post/the/) [bicycle](/post/bicycle/) [frame](/post/frame/) shone [in](/post/in/) [the](/post/the/) [sunlight](/post/sunlight/)."
+- **Informal**: "[The](/post/the/) [aluminium](/post/aluminium/) parts were lightweight [and](/post/and/) [easy](/post/easy/) [to](/post/to/) [handle](/post/handle/)."
 
-## Synonyms ([Noun](/en/post/noun/))
-- Aluminum ([American](/en/post/american/) English)
-- [Metal](/en/post/metal/) ([general](/en/post/general/) [term](/en/post/term/))
-- Aluminum [alloy](/en/post/alloy/)
-- Duralumin ([a](/en/post/a/) [specific](/en/post/specific/) [type](/en/post/type/) [of](/en/post/of/) [aluminium](/en/post/aluminium/))
+## Synonyms ([Noun](/post/noun/))
+- Aluminum ([American](/post/american/) English)
+- [Metal](/post/metal/) ([general](/post/general/) [term](/post/term/))
+- Aluminum [alloy](/post/alloy/)
+- Duralumin ([a](/post/a/) [specific](/post/specific/) [type](/post/type/) [of](/post/of/) [aluminium](/post/aluminium/))
 
-## Synonyms ([Adjective](/en/post/adjective/))
+## Synonyms ([Adjective](/post/adjective/))
 - Silver-colored
 - Reflective
 - Light-weight
 
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) [the](/en/post/the/) [verb](/en/post/verb/) "[to](/en/post/to/) [aluminium](/en/post/aluminium/)" is [not](/en/post/not/) [a](/en/post/a/) recognized [usage](/en/post/usage/) [in](/en/post/in/) [standard](/en/post/standard/) English, [so](/en/post/so/) [there](/en/post/there/) are [no](/en/post/no/) synonyms specifically [for](/en/post/for/) [that](/en/post/that/) [sense](/en/post/sense/).
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) [the](/post/the/) [verb](/post/verb/) "[to](/post/to/) [aluminium](/post/aluminium/)" is [not](/post/not/) [a](/post/a/) recognized [usage](/post/usage/) [in](/post/in/) [standard](/post/standard/) English, [so](/post/so/) [there](/post/there/) are [no](/post/no/) synonyms specifically [for](/post/for/) [that](/post/that/) [sense](/post/sense/).

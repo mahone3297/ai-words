@@ -7,33 +7,33 @@ description = '[ʌnˈfɔːtjunətli] ad.不幸地'
 keywords = ['ai words', 'unfortunately']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unˈfɔːrtuˈnətli/
 
 ## Definitions
-### [Adverb](/en/post/adverb/)
-- [Used](/en/post/used/) [to](/en/post/to/) [modify](/en/post/modify/) [a](/en/post/a/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [or](/en/post/or/) [other](/en/post/other/) [adverb](/en/post/adverb/), expressing [that](/en/post/that/) [something](/en/post/something/) is不幸 [or](/en/post/or/) regrettable.
+### [Adverb](/post/adverb/)
+- [Used](/post/used/) [to](/post/to/) [modify](/post/modify/) [a](/post/a/) [verb](/post/verb/), [adjective](/post/adjective/), [or](/post/or/) [other](/post/other/) [adverb](/post/adverb/), expressing [that](/post/that/) [something](/post/something/) is不幸 [or](/post/or/) regrettable.
 
 ## Phrases
-- "[Unfortunately](/en/post/unfortunately/), [the](/en/post/the/) [weather](/en/post/weather/) turned [bad](/en/post/bad/)."
-- "[Despite](/en/post/despite/) [their](/en/post/their/) [hard](/en/post/hard/) [work](/en/post/work/), [they](/en/post/they/) didn't [win](/en/post/win/) [the](/en/post/the/) [competition](/en/post/competition/) [unfortunately](/en/post/unfortunately/)."
-- "Unluckily, [they](/en/post/they/) had [to](/en/post/to/) [cancel](/en/post/cancel/) [the](/en/post/the/) [event](/en/post/event/) [due](/en/post/due/) [to](/en/post/to/) unforeseen circumstances."
+- "[Unfortunately](/post/unfortunately/), [the](/post/the/) [weather](/post/weather/) turned [bad](/post/bad/)."
+- "[Despite](/post/despite/) [their](/post/their/) [hard](/post/hard/) [work](/post/work/), [they](/post/they/) didn't [win](/post/win/) [the](/post/the/) [competition](/post/competition/) [unfortunately](/post/unfortunately/)."
+- "Unluckily, [they](/post/they/) had [to](/post/to/) [cancel](/post/cancel/) [the](/post/the/) [event](/post/event/) [due](/post/due/) [to](/post/to/) unforeseen circumstances."
 
-## [Example](/en/post/example/) Sentences
-- "[Unfortunately](/en/post/unfortunately/), [he](/en/post/he/) missed [the](/en/post/the/) deadline [for](/en/post/for/) submitting [his](/en/post/his/) [project](/en/post/project/)."
-- "[The](/en/post/the/) [flight](/en/post/flight/) was delayed, [and](/en/post/and/) [we](/en/post/we/) arrived [home](/en/post/home/) [later](/en/post/later/) [than](/en/post/than/) planned, [unfortunately](/en/post/unfortunately/)."
-- "[They](/en/post/they/) had [to](/en/post/to/) [postpone](/en/post/postpone/) [the](/en/post/the/) [wedding](/en/post/wedding/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) pandemic, [unfortunately](/en/post/unfortunately/)."
+## [Example](/post/example/) Sentences
+- "[Unfortunately](/post/unfortunately/), [he](/post/he/) missed [the](/post/the/) deadline [for](/post/for/) submitting [his](/post/his/) [project](/post/project/)."
+- "[The](/post/the/) [flight](/post/flight/) was delayed, [and](/post/and/) [we](/post/we/) arrived [home](/post/home/) [later](/post/later/) [than](/post/than/) planned, [unfortunately](/post/unfortunately/)."
+- "[They](/post/they/) had [to](/post/to/) [postpone](/post/postpone/) [the](/post/the/) [wedding](/post/wedding/) [due](/post/due/) [to](/post/to/) [the](/post/the/) pandemic, [unfortunately](/post/unfortunately/)."
 
 ## Synonyms
 - Regrettably
-- [Sadly](/en/post/sadly/)
+- [Sadly](/post/sadly/)
 - Alas
-- [Unfortunately](/en/post/unfortunately/)
+- [Unfortunately](/post/unfortunately/)
 - Unhappily
 - Disappointingly
 
 ## Antonyms
-- [Fortunately](/en/post/fortunately/)
+- [Fortunately](/post/fortunately/)
 - Happily
 - Delightedly
 - Thankfully

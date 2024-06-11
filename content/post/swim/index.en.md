@@ -7,36 +7,36 @@ description = '[swim] vi.游，游泳；眼花'
 keywords = ['ai words', 'swim']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /swɪm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Swimming**: [The](/en/post/the/) [activity](/en/post/activity/) [of](/en/post/of/) moving [through](/en/post/through/) [water](/en/post/water/) using one's arms [and](/en/post/and/) legs [for](/en/post/for/) propulsion, typically [for](/en/post/for/) [exercise](/en/post/exercise/) [or](/en/post/or/) [leisure](/en/post/leisure/).
-- **Swimmer**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) engages [in](/en/post/in/) swimming [as](/en/post/as/) [a](/en/post/a/) [sport](/en/post/sport/) [or](/en/post/or/) recreational [activity](/en/post/activity/).
-- **Swimwear**: [Clothing](/en/post/clothing/) designed [for](/en/post/for/) swimming, [such](/en/post/such/) [as](/en/post/as/) bathing suits.
+### [Noun](/post/noun/)
+- **Swimming**: [The](/post/the/) [activity](/post/activity/) [of](/post/of/) moving [through](/post/through/) [water](/post/water/) using one's arms [and](/post/and/) legs [for](/post/for/) propulsion, typically [for](/post/for/) [exercise](/post/exercise/) [or](/post/or/) [leisure](/post/leisure/).
+- **Swimmer**: [A](/post/a/) [person](/post/person/) [who](/post/who/) engages [in](/post/in/) swimming [as](/post/as/) [a](/post/a/) [sport](/post/sport/) [or](/post/or/) recreational [activity](/post/activity/).
+- **Swimwear**: [Clothing](/post/clothing/) designed [for](/post/for/) swimming, [such](/post/such/) [as](/post/as/) bathing suits.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [swim](/en/post/swim/)**: [Move](/en/post/move/) [through](/en/post/through/) [water](/en/post/water/) [by](/en/post/by/) alternately propelling [oneself](/en/post/oneself/) [with](/en/post/with/) limbs.
-- **Swimming lessons**: [Instruction](/en/post/instruction/) given [to](/en/post/to/) [learn](/en/post/learn/) [how](/en/post/how/) [to](/en/post/to/) [swim](/en/post/swim/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [swim](/post/swim/)**: [Move](/post/move/) [through](/post/through/) [water](/post/water/) [by](/post/by/) alternately propelling [oneself](/post/oneself/) [with](/post/with/) limbs.
+- **Swimming lessons**: [Instruction](/post/instruction/) given [to](/post/to/) [learn](/post/learn/) [how](/post/how/) [to](/post/to/) [swim](/post/swim/).
 
-### [Adjective](/en/post/adjective/)
-- **Swimmingly**: [In](/en/post/in/) [a](/en/post/a/) [smooth](/en/post/smooth/) [or](/en/post/or/) effortless [manner](/en/post/manner/), [like](/en/post/like/) swimming.
-- **Aquatic**: Relating [to](/en/post/to/) [water](/en/post/water/), [suitable](/en/post/suitable/) [for](/en/post/for/) swimming.
+### [Adjective](/post/adjective/)
+- **Swimmingly**: [In](/post/in/) [a](/post/a/) [smooth](/post/smooth/) [or](/post/or/) effortless [manner](/post/manner/), [like](/post/like/) swimming.
+- **Aquatic**: Relating [to](/post/to/) [water](/post/water/), [suitable](/post/suitable/) [for](/post/for/) swimming.
 
-### [Adverb](/en/post/adverb/)
-- **Swimmingly**: [In](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) is [easy](/en/post/easy/), [comfortable](/en/post/comfortable/), [or](/en/post/or/) enjoyable ([as](/en/post/as/) [in](/en/post/in/) "ate [dinner](/en/post/dinner/) swimmingly").
+### [Adverb](/post/adverb/)
+- **Swimmingly**: [In](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) is [easy](/post/easy/), [comfortable](/post/comfortable/), [or](/post/or/) enjoyable ([as](/post/as/) [in](/post/in/) "ate [dinner](/post/dinner/) swimmingly").
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [dip](/en/post/dip/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) swimming [for](/en/post/for/) [a](/en/post/a/) [short](/en/post/short/) [time](/en/post/time/).
-- "[Learn](/en/post/learn/) [to](/en/post/to/) [swim](/en/post/swim/)" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) acquiring swimming skills.
-- "[Open](/en/post/open/) [water](/en/post/water/) swimming" is swimming [in](/en/post/in/) [natural](/en/post/natural/) bodies [of](/en/post/of/) [water](/en/post/water/), [not](/en/post/not/) [a](/en/post/a/) [pool](/en/post/pool/).
+- "[Take](/post/take/) [a](/post/a/) [dip](/post/dip/)" [means](/post/means/) [to](/post/to/) [go](/post/go/) swimming [for](/post/for/) [a](/post/a/) [short](/post/short/) [time](/post/time/).
+- "[Learn](/post/learn/) [to](/post/to/) [swim](/post/swim/)" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) acquiring swimming skills.
+- "[Open](/post/open/) [water](/post/water/) swimming" is swimming [in](/post/in/) [natural](/post/natural/) bodies [of](/post/of/) [water](/post/water/), [not](/post/not/) [a](/post/a/) [pool](/post/pool/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was [a](/en/post/a/) [skilled](/en/post/skilled/) swimmer, [able](/en/post/able/) [to](/en/post/to/) [glide](/en/post/glide/) effortlessly [through](/en/post/through/) [the](/en/post/the/) [lake](/en/post/lake/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) children were having [fun](/en/post/fun/) splashing [around](/en/post/around/) [in](/en/post/in/) [the](/en/post/the/) [pool](/en/post/pool/), [learning](/en/post/learning/) [to](/en/post/to/) [swim](/en/post/swim/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [hotel](/en/post/hotel/) had [a](/en/post/a/) [beautiful](/en/post/beautiful/) [outdoor](/en/post/outdoor/) swimming [pool](/en/post/pool/) [with](/en/post/with/) [a](/en/post/a/) [view](/en/post/view/) [of](/en/post/of/) [the](/en/post/the/) [ocean](/en/post/ocean/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) swam swimmingly [across](/en/post/across/) [the](/en/post/the/) [river](/en/post/river/), enjoying [the](/en/post/the/) [cool](/en/post/cool/) [water](/en/post/water/) [on](/en/post/on/) [a](/en/post/a/) [hot](/en/post/hot/) [day](/en/post/day/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was [a](/post/a/) [skilled](/post/skilled/) swimmer, [able](/post/able/) [to](/post/to/) [glide](/post/glide/) effortlessly [through](/post/through/) [the](/post/the/) [lake](/post/lake/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) children were having [fun](/post/fun/) splashing [around](/post/around/) [in](/post/in/) [the](/post/the/) [pool](/post/pool/), [learning](/post/learning/) [to](/post/to/) [swim](/post/swim/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [hotel](/post/hotel/) had [a](/post/a/) [beautiful](/post/beautiful/) [outdoor](/post/outdoor/) swimming [pool](/post/pool/) [with](/post/with/) [a](/post/a/) [view](/post/view/) [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) swam swimmingly [across](/post/across/) [the](/post/the/) [river](/post/river/), enjoying [the](/post/the/) [cool](/post/cool/) [water](/post/water/) [on](/post/on/) [a](/post/a/) [hot](/post/hot/) [day](/post/day/)."
 
 ## Synonyms
 - Swimming
@@ -49,4 +49,4 @@ keywords = ['ai words', 'swim']
 - Drowning
 - Non-swimming
 - Land-based activities
-- Floating ([in](/en/post/in/) [a](/en/post/a/) non-swimming context)
+- Floating ([in](/post/in/) [a](/post/a/) non-swimming context)

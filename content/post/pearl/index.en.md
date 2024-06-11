@@ -7,39 +7,39 @@ description = '[pəːl] n.珍珠；珍珠母'
 keywords = ['ai words', 'pearl']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pɜːrəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [small](/en/post/small/), [round](/en/post/round/), shiny [object](/en/post/object/) produced [within](/en/post/within/) [the](/en/post/the/) [soft](/en/post/soft/) [tissue](/en/post/tissue/) (nacre) [of](/en/post/of/) [certain](/en/post/certain/) mollusks, [especially](/en/post/especially/) oysters [and](/en/post/and/) pearls, [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) irritation [or](/en/post/or/) [foreign](/en/post/foreign/) [material](/en/post/material/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [necklace](/en/post/necklace/) was adorned [with](/en/post/with/) [a](/en/post/a/) priceless [South](/en/post/south/) [Sea](/en/post/sea/) [pearl](/en/post/pearl/)."
-2. [A](/en/post/a/) [precious](/en/post/precious/) gemstone [often](/en/post/often/) valued [for](/en/post/for/) [its](/en/post/its/) lustrous [appearance](/en/post/appearance/) [and](/en/post/and/) [beauty](/en/post/beauty/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) inherited [a](/en/post/a/) [family](/en/post/family/) heirloom, [a](/en/post/a/) flawless [white](/en/post/white/) [pearl](/en/post/pearl/) earring."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [small](/post/small/), [round](/post/round/), shiny [object](/post/object/) produced [within](/post/within/) [the](/post/the/) [soft](/post/soft/) [tissue](/post/tissue/) (nacre) [of](/post/of/) [certain](/post/certain/) mollusks, [especially](/post/especially/) oysters [and](/post/and/) pearls, [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) irritation [or](/post/or/) [foreign](/post/foreign/) [material](/post/material/).
+   - [Example](/post/example/): "[The](/post/the/) [necklace](/post/necklace/) was adorned [with](/post/with/) [a](/post/a/) priceless [South](/post/south/) [Sea](/post/sea/) [pearl](/post/pearl/)."
+2. [A](/post/a/) [precious](/post/precious/) gemstone [often](/post/often/) valued [for](/post/for/) [its](/post/its/) lustrous [appearance](/post/appearance/) [and](/post/and/) [beauty](/post/beauty/).
+   - [Example](/post/example/): "[She](/post/she/) inherited [a](/post/a/) [family](/post/family/) heirloom, [a](/post/a/) flawless [white](/post/white/) [pearl](/post/pearl/) earring."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [produce](/en/post/produce/) [or](/en/post/or/) [acquire](/en/post/acquire/) [a](/en/post/a/) [pearl](/en/post/pearl/), [often](/en/post/often/) metaphorically referring [to](/en/post/to/) [something](/en/post/something/) [valuable](/en/post/valuable/) [or](/en/post/or/) [rare](/en/post/rare/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) [found](/en/post/found/) inspiration [in](/en/post/in/) [the](/en/post/the/) [pearl](/en/post/pearl/) [of](/en/post/of/) [a](/en/post/a/) [new](/en/post/new/) [idea](/en/post/idea/)."
-2. [To](/en/post/to/) [express](/en/post/express/) admiration [or](/en/post/or/) appreciation, [often](/en/post/often/) using [the](/en/post/the/) [phrase](/en/post/phrase/) "[as](/en/post/as/) [if](/en/post/if/) [it](/en/post/it/) were [a](/en/post/a/) [pearl](/en/post/pearl/)."
-   - [Example](/en/post/example/): "[Her](/en/post/her/) [performance](/en/post/performance/) was [a](/en/post/a/) [true](/en/post/true/) [pearl](/en/post/pearl/) [of](/en/post/of/) [wisdom](/en/post/wisdom/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [produce](/post/produce/) [or](/post/or/) [acquire](/post/acquire/) [a](/post/a/) [pearl](/post/pearl/), [often](/post/often/) metaphorically referring [to](/post/to/) [something](/post/something/) [valuable](/post/valuable/) [or](/post/or/) [rare](/post/rare/).
+   - [Example](/post/example/): "[The](/post/the/) [artist](/post/artist/) [found](/post/found/) inspiration [in](/post/in/) [the](/post/the/) [pearl](/post/pearl/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [idea](/post/idea/)."
+2. [To](/post/to/) [express](/post/express/) admiration [or](/post/or/) appreciation, [often](/post/often/) using [the](/post/the/) [phrase](/post/phrase/) "[as](/post/as/) [if](/post/if/) [it](/post/it/) were [a](/post/a/) [pearl](/post/pearl/)."
+   - [Example](/post/example/): "[Her](/post/her/) [performance](/post/performance/) was [a](/post/a/) [true](/post/true/) [pearl](/post/pearl/) [of](/post/of/) [wisdom](/post/wisdom/)."
 
-### [Adjective](/en/post/adjective/)
-1. Referring [to](/en/post/to/) [something](/en/post/something/) [of](/en/post/of/) [great](/en/post/great/) [beauty](/en/post/beauty/) [or](/en/post/or/) [value](/en/post/value/), [like](/en/post/like/) [a](/en/post/a/) [pearl](/en/post/pearl/).
-   - [Example](/en/post/example/): "[A](/en/post/a/) [pearl](/en/post/pearl/) [of](/en/post/of/) [wisdom](/en/post/wisdom/) is [a](/en/post/a/) [valuable](/en/post/valuable/) [piece](/en/post/piece/) [of](/en/post/of/) [advice](/en/post/advice/)."
-2. [Smooth](/en/post/smooth/) [and](/en/post/and/) lustrous, [like](/en/post/like/) [a](/en/post/a/) pearl's [surface](/en/post/surface/).
-   - [Example](/en/post/example/): "[Her](/en/post/her/) [skin](/en/post/skin/) had [a](/en/post/a/) [delicate](/en/post/delicate/) pearl-like sheen."
+### [Adjective](/post/adjective/)
+1. Referring [to](/post/to/) [something](/post/something/) [of](/post/of/) [great](/post/great/) [beauty](/post/beauty/) [or](/post/or/) [value](/post/value/), [like](/post/like/) [a](/post/a/) [pearl](/post/pearl/).
+   - [Example](/post/example/): "[A](/post/a/) [pearl](/post/pearl/) [of](/post/of/) [wisdom](/post/wisdom/) is [a](/post/a/) [valuable](/post/valuable/) [piece](/post/piece/) [of](/post/of/) [advice](/post/advice/)."
+2. [Smooth](/post/smooth/) [and](/post/and/) lustrous, [like](/post/like/) [a](/post/a/) pearl's [surface](/post/surface/).
+   - [Example](/post/example/): "[Her](/post/her/) [skin](/post/skin/) had [a](/post/a/) [delicate](/post/delicate/) pearl-like sheen."
 
 ## Phrases
-- "[She](/en/post/she/) cultivated [a](/en/post/a/) [pearl](/en/post/pearl/) [of](/en/post/of/) [knowledge](/en/post/knowledge/) [through](/en/post/through/) years [of](/en/post/of/) [study](/en/post/study/)."
-- "[A](/en/post/a/) [pearl](/en/post/pearl/) [of](/en/post/of/) [a](/en/post/a/) [story](/en/post/story/), passed [down](/en/post/down/) [through](/en/post/through/) generations."
-- "[The](/en/post/the/) [pearl](/en/post/pearl/) [of](/en/post/of/) [her](/en/post/her/) [voice](/en/post/voice/) captured everyone's [attention](/en/post/attention/)."
+- "[She](/post/she/) cultivated [a](/post/a/) [pearl](/post/pearl/) [of](/post/of/) [knowledge](/post/knowledge/) [through](/post/through/) years [of](/post/of/) [study](/post/study/)."
+- "[A](/post/a/) [pearl](/post/pearl/) [of](/post/of/) [a](/post/a/) [story](/post/story/), passed [down](/post/down/) [through](/post/through/) generations."
+- "[The](/post/the/) [pearl](/post/pearl/) [of](/post/of/) [her](/post/her/) [voice](/post/voice/) captured everyone's [attention](/post/attention/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) diver [found](/en/post/found/) [a](/en/post/a/) stunning [black](/en/post/black/) [pearl](/en/post/pearl/) [in](/en/post/in/) [the](/en/post/the/) depths [of](/en/post/of/) [the](/en/post/the/) [ocean](/en/post/ocean/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [he](/en/post/he/) [finally](/en/post/finally/) polished [the](/en/post/the/) [pearl](/en/post/pearl/) [of](/en/post/of/) [his](/en/post/his/) [career](/en/post/career/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) eyes sparkled [like](/en/post/like/) [a](/en/post/a/) [pair](/en/post/pair/) [of](/en/post/of/) [precious](/en/post/precious/) pearls."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) diver [found](/post/found/) [a](/post/a/) stunning [black](/post/black/) [pearl](/post/pearl/) [in](/post/in/) [the](/post/the/) depths [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) [finally](/post/finally/) polished [the](/post/the/) [pearl](/post/pearl/) [of](/post/of/) [his](/post/his/) [career](/post/career/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) eyes sparkled [like](/post/like/) [a](/post/a/) [pair](/post/pair/) [of](/post/of/) [precious](/post/precious/) pearls."
 
 ## Synonyms
-- [Noun](/en/post/noun/): Bead, gemstone, [treasure](/en/post/treasure/), [jewel](/en/post/jewel/)
-- [Verb](/en/post/verb/): [Acquire](/en/post/acquire/), [cultivate](/en/post/cultivate/), [obtain](/en/post/obtain/), [create](/en/post/create/)
-- [Adjective](/en/post/adjective/): Lustrous, exquisite, [rare](/en/post/rare/), [valuable](/en/post/valuable/)
+- [Noun](/post/noun/): Bead, gemstone, [treasure](/post/treasure/), [jewel](/post/jewel/)
+- [Verb](/post/verb/): [Acquire](/post/acquire/), [cultivate](/post/cultivate/), [obtain](/post/obtain/), [create](/post/create/)
+- [Adjective](/post/adjective/): Lustrous, exquisite, [rare](/post/rare/), [valuable](/post/valuable/)

@@ -7,32 +7,32 @@ description = '[ˈəːnist] a.认真的，诚恳的'
 keywords = ['ai words', 'earnest']
 +++
 
-## [Word](/en/post/word/): [Earnest](/en/post/earnest/)
+## [Word](/post/word/): [Earnest](/post/earnest/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɜːrnɪst/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Showing [sincere](/en/post/sincere/) [and](/en/post/and/) [intense](/en/post/intense/) conviction, seriousness, [or](/en/post/or/) [determination](/en/post/determination/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke [with](/en/post/with/) earnestness [about](/en/post/about/) [her](/en/post/her/) commitment [to](/en/post/to/) [the](/en/post/the/) [cause](/en/post/cause/)."
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "He's an [earnest](/en/post/earnest/) [young](/en/post/young/) [man](/en/post/man/) [who](/en/post/who/) works tirelessly towards [his](/en/post/his/) goals."
-- **[Noun](/en/post/noun/)**: Seriousness [or](/en/post/or/) sincerity [of](/en/post/of/) [intention](/en/post/intention/), [purpose](/en/post/purpose/), [or](/en/post/or/) [effort](/en/post/effort/); [genuine](/en/post/genuine/) [feeling](/en/post/feeling/). [For](/en/post/for/) [instance](/en/post/instance/): "[Her](/en/post/her/) [earnest](/en/post/earnest/) [desire](/en/post/desire/) [to](/en/post/to/) [help](/en/post/help/) made [her](/en/post/her/) [a](/en/post/a/) [valuable](/en/post/valuable/) [team](/en/post/team/) [member](/en/post/member/)."
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[We](/en/post/we/) appreciated [his](/en/post/his/) [earnest](/en/post/earnest/) efforts [to](/en/post/to/) [complete](/en/post/complete/) [the](/en/post/the/) [project](/en/post/project/) [on](/en/post/on/) [time](/en/post/time/)."
+- **[Adjective](/post/adjective/)**: Showing [sincere](/post/sincere/) [and](/post/and/) [intense](/post/intense/) conviction, seriousness, [or](/post/or/) [determination](/post/determination/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) spoke [with](/post/with/) earnestness [about](/post/about/) [her](/post/her/) commitment [to](/post/to/) [the](/post/the/) [cause](/post/cause/)."
+  - [Example](/post/example/) [Sentence](/post/sentence/): "He's an [earnest](/post/earnest/) [young](/post/young/) [man](/post/man/) [who](/post/who/) works tirelessly towards [his](/post/his/) goals."
+- **[Noun](/post/noun/)**: Seriousness [or](/post/or/) sincerity [of](/post/of/) [intention](/post/intention/), [purpose](/post/purpose/), [or](/post/or/) [effort](/post/effort/); [genuine](/post/genuine/) [feeling](/post/feeling/). [For](/post/for/) [instance](/post/instance/): "[Her](/post/her/) [earnest](/post/earnest/) [desire](/post/desire/) [to](/post/to/) [help](/post/help/) made [her](/post/her/) [a](/post/a/) [valuable](/post/valuable/) [team](/post/team/) [member](/post/member/)."
+  - [Example](/post/example/) [Sentence](/post/sentence/): "[We](/post/we/) appreciated [his](/post/his/) [earnest](/post/earnest/) efforts [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [project](/post/project/) [on](/post/on/) [time](/post/time/)."
 
 ## Phrases
-- "[In](/en/post/in/) [earnest](/en/post/earnest/)": [seriously](/en/post/seriously/) [or](/en/post/or/) sincerely; [with](/en/post/with/) [deep](/en/post/deep/) conviction [or](/en/post/or/) [serious](/en/post/serious/) intent. [Example](/en/post/example/): "[They](/en/post/they/) began working [in](/en/post/in/) [earnest](/en/post/earnest/) [after](/en/post/after/) [the](/en/post/the/) planning [stage](/en/post/stage/) was completed."
-- "[Earnest](/en/post/earnest/) [money](/en/post/money/)": [a](/en/post/a/) [deposit](/en/post/deposit/) made [by](/en/post/by/) [a](/en/post/a/) buyer [to](/en/post/to/) [show](/en/post/show/) [their](/en/post/their/) sincerity [in](/en/post/in/) proceeding [with](/en/post/with/) [the](/en/post/the/) [purchase](/en/post/purchase/) [of](/en/post/of/) [something](/en/post/something/), typically [a](/en/post/a/) [property](/en/post/property/).
+- "[In](/post/in/) [earnest](/post/earnest/)": [seriously](/post/seriously/) [or](/post/or/) sincerely; [with](/post/with/) [deep](/post/deep/) conviction [or](/post/or/) [serious](/post/serious/) intent. [Example](/post/example/): "[They](/post/they/) began working [in](/post/in/) [earnest](/post/earnest/) [after](/post/after/) [the](/post/the/) planning [stage](/post/stage/) was completed."
+- "[Earnest](/post/earnest/) [money](/post/money/)": [a](/post/a/) [deposit](/post/deposit/) made [by](/post/by/) [a](/post/a/) buyer [to](/post/to/) [show](/post/show/) [their](/post/their/) sincerity [in](/post/in/) proceeding [with](/post/with/) [the](/post/the/) [purchase](/post/purchase/) [of](/post/of/) [something](/post/something/), typically [a](/post/a/) [property](/post/property/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [earnest](/en/post/earnest/) [discussion](/en/post/discussion/) [between](/en/post/between/) [the](/en/post/the/) leaders led [to](/en/post/to/) [significant](/en/post/significant/) [progress](/en/post/progress/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [payment](/en/post/payment/) [of](/en/post/of/) [a](/en/post/a/) $10,000 [earnest](/en/post/earnest/) shows [the](/en/post/the/) buyer's commitment [to](/en/post/to/) purchasing [the](/en/post/the/) [house](/en/post/house/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [earnest](/post/earnest/) [discussion](/post/discussion/) [between](/post/between/) [the](/post/the/) leaders led [to](/post/to/) [significant](/post/significant/) [progress](/post/progress/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [payment](/post/payment/) [of](/post/of/) [a](/post/a/) $10,000 [earnest](/post/earnest/) shows [the](/post/the/) buyer's commitment [to](/post/to/) purchasing [the](/post/the/) [house](/post/house/)."
 
 ## Synonyms
-- [Sincere](/en/post/sincere/)
-- [Serious](/en/post/serious/)
+- [Sincere](/post/sincere/)
+- [Serious](/post/serious/)
 - Determined
 - Dedicated
 - Committed
-- [Intense](/en/post/intense/)
+- [Intense](/post/intense/)
 - heartfelt
-- Genuinely ([for](/en/post/for/) [the](/en/post/the/) [adjective](/en/post/adjective/) [sense](/en/post/sense/))
-- [Down](/en/post/down/) [payment](/en/post/payment/) ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [sense](/en/post/sense/) referring [to](/en/post/to/) [earnest](/en/post/earnest/) [money](/en/post/money/))
+- Genuinely ([for](/post/for/) [the](/post/the/) [adjective](/post/adjective/) [sense](/post/sense/))
+- [Down](/post/down/) [payment](/post/payment/) ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [sense](/post/sense/) referring [to](/post/to/) [earnest](/post/earnest/) [money](/post/money/))

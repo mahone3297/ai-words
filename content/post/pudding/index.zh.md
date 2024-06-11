@@ -11,20 +11,20 @@ keywords = ['ai words', 'pudding']
 /ˈpudɪŋ/
 
 ## 释义
-- **名词**: 一种甜点，通常由面粉、糖、牛奶、蛋或其他成分制成，可以是布丁状或果冻状。例如: "[She](/post/she/) served [a](/post/a/) [delicious](/post/delicious/) [chocolate](/post/chocolate/) [pudding](/post/pudding/) [for](/post/for/) dessert."
-- **名词**: 在某些地区，特别是英国，"[pudding](/post/pudding/)" 也可以指代主餐后的任何甜点。例如: "[We](/post/we/) [always](/post/always/) [have](/post/have/) [a](/post/a/) [traditional](/post/traditional/) Christmas [pudding](/post/pudding/) [after](/post/after/) [the](/post/the/) [main](/post/main/) [course](/post/course/)."
+- **名词**: 一种甜点，通常由面粉、糖、牛奶、蛋或其他成分制成，可以是布丁状或果冻状。例如: "[She](/zh/post/she/) served [a](/zh/post/a/) [delicious](/zh/post/delicious/) [chocolate](/zh/post/chocolate/) [pudding](/zh/post/pudding/) [for](/zh/post/for/) dessert."
+- **名词**: 在某些地区，特别是英国，"[pudding](/zh/post/pudding/)" 也可以指代主餐后的任何甜点。例如: "[We](/zh/post/we/) [always](/zh/post/always/) [have](/zh/post/have/) [a](/zh/post/a/) [traditional](/zh/post/traditional/) Christmas [pudding](/zh/post/pudding/) [after](/zh/post/after/) [the](/zh/post/the/) [main](/zh/post/main/) [course](/zh/post/course/)."
 
 ## 短语
-- "Steamed [pudding](/post/pudding/)" 是一种通过蒸煮方式制作的布丁。
-- "[Sausage](/post/sausage/) [pudding](/post/pudding/)" 是一种英国的传统菜肴，通常包含香肠和面团。
+- "Steamed [pudding](/zh/post/pudding/)" 是一种通过蒸煮方式制作的布丁。
+- "[Sausage](/zh/post/sausage/) [pudding](/zh/post/pudding/)" 是一种英国的传统菜肴，通常包含香肠和面团。
 
 ## 例句
-- "[My](/post/my/) grandma's [rice](/post/rice/) [pudding](/post/pudding/) is [my](/post/my/) favorite dessert."
-- "[The](/post/the/) children asked [for](/post/for/) [more](/post/more/) [of](/post/of/) [the](/post/the/) [apple](/post/apple/) [and](/post/and/) cinnamon [pudding](/post/pudding/)."
+- "[My](/zh/post/my/) grandma's [rice](/zh/post/rice/) [pudding](/zh/post/pudding/) is [my](/zh/post/my/) favorite dessert."
+- "[The](/zh/post/the/) children asked [for](/zh/post/for/) [more](/zh/post/more/) [of](/zh/post/of/) [the](/zh/post/the/) [apple](/zh/post/apple/) [and](/zh/post/and/) cinnamon [pudding](/zh/post/pudding/)."
 
 ## 同义词
 - Dessert
 - Pudding-like dessert
-- [Sweet](/post/sweet/) [course](/post/course/)
+- [Sweet](/zh/post/sweet/) [course](/zh/post/course/)
 - Jellied dessert
 - Custard

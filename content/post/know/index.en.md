@@ -7,42 +7,42 @@ description = '[nəu] vt.知道；认识；通晓'
 keywords = ['ai words', 'know']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /knoʊ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [aware](/en/post/aware/) [or](/en/post/or/) [have](/en/post/have/) [information](/en/post/information/) [about](/en/post/about/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [through](/en/post/through/) [learning](/en/post/learning/), [experience](/en/post/experience/), [or](/en/post/or/) [communication](/en/post/communication/). [For](/en/post/for/) [example](/en/post/example/): "I [know](/en/post/know/) [the](/en/post/the/) [capital](/en/post/capital/) [of](/en/post/of/) France."
-  - [To](/en/post/to/) [recognize](/en/post/recognize/) [or](/en/post/or/) [identify](/en/post/identify/) [something](/en/post/something/) [from](/en/post/from/) [past](/en/post/past/) [experience](/en/post/experience/) [or](/en/post/or/) [knowledge](/en/post/knowledge/). [Example](/en/post/example/): "I [know](/en/post/know/) [this](/en/post/this/) [song](/en/post/song/) [but](/en/post/but/) can't [remember](/en/post/remember/) [its](/en/post/its/) [name](/en/post/name/)."
-  - [To](/en/post/to/) [understand](/en/post/understand/) [something](/en/post/something/) intuitively [or](/en/post/or/) [by](/en/post/by/) reasoning. [Example](/en/post/example/): "[She](/en/post/she/) knows [what](/en/post/what/) it's [like](/en/post/like/) [to](/en/post/to/) [lose](/en/post/lose/) [a](/en/post/a/) loved [one](/en/post/one/)."
-  - [To](/en/post/to/) [be](/en/post/be/) [familiar](/en/post/familiar/) [with](/en/post/with/) [someone](/en/post/someone/) [through](/en/post/through/) [personal](/en/post/personal/) [experience](/en/post/experience/). [Example](/en/post/example/): "They've known [each](/en/post/each/) [other](/en/post/other/) [since](/en/post/since/) [childhood](/en/post/childhood/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) [aware](/post/aware/) [or](/post/or/) [have](/post/have/) [information](/post/information/) [about](/post/about/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [through](/post/through/) [learning](/post/learning/), [experience](/post/experience/), [or](/post/or/) [communication](/post/communication/). [For](/post/for/) [example](/post/example/): "I [know](/post/know/) [the](/post/the/) [capital](/post/capital/) [of](/post/of/) France."
+  - [To](/post/to/) [recognize](/post/recognize/) [or](/post/or/) [identify](/post/identify/) [something](/post/something/) [from](/post/from/) [past](/post/past/) [experience](/post/experience/) [or](/post/or/) [knowledge](/post/knowledge/). [Example](/post/example/): "I [know](/post/know/) [this](/post/this/) [song](/post/song/) [but](/post/but/) can't [remember](/post/remember/) [its](/post/its/) [name](/post/name/)."
+  - [To](/post/to/) [understand](/post/understand/) [something](/post/something/) intuitively [or](/post/or/) [by](/post/by/) reasoning. [Example](/post/example/): "[She](/post/she/) knows [what](/post/what/) it's [like](/post/like/) [to](/post/to/) [lose](/post/lose/) [a](/post/a/) loved [one](/post/one/)."
+  - [To](/post/to/) [be](/post/be/) [familiar](/post/familiar/) [with](/post/with/) [someone](/post/someone/) [through](/post/through/) [personal](/post/personal/) [experience](/post/experience/). [Example](/post/example/): "They've known [each](/post/each/) [other](/post/other/) [since](/post/since/) [childhood](/post/childhood/)."
 
-- **[Noun](/en/post/noun/) (Non-standard [usage](/en/post/usage/))**: [Knowledge](/en/post/knowledge/); [understanding](/en/post/understanding/). [Example](/en/post/example/): "[His](/en/post/his/) [know](/en/post/know/) [on](/en/post/on/) computers is [impressive](/en/post/impressive/)."
+- **[Noun](/post/noun/) (Non-standard [usage](/post/usage/))**: [Knowledge](/post/knowledge/); [understanding](/post/understanding/). [Example](/post/example/): "[His](/post/his/) [know](/post/know/) [on](/post/on/) computers is [impressive](/post/impressive/)."
 
 ## Phrases
-- "[Know](/en/post/know/) [something](/en/post/something/) [inside](/en/post/inside/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [thorough](/en/post/thorough/) [understanding](/en/post/understanding/) [of](/en/post/of/) [something](/en/post/something/).
-- "[To](/en/post/to/) [know](/en/post/know/) [better](/en/post/better/)" implies [that](/en/post/that/) [someone](/en/post/someone/) [should](/en/post/should/) [have](/en/post/have/) made [a](/en/post/a/) wiser [decision](/en/post/decision/) based [on](/en/post/on/) [their](/en/post/their/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) [experience](/en/post/experience/).
-- "[To](/en/post/to/) [know](/en/post/know/) someone's [mind](/en/post/mind/)" [means](/en/post/means/) [to](/en/post/to/) [understand](/en/post/understand/) [their](/en/post/their/) thoughts [or](/en/post/or/) intentions.
-- "[No](/en/post/no/) [one](/en/post/one/) knows [for](/en/post/for/) [sure](/en/post/sure/)" suggests uncertainty [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) definitive [information](/en/post/information/).
+- "[Know](/post/know/) [something](/post/something/) [inside](/post/inside/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [thorough](/post/thorough/) [understanding](/post/understanding/) [of](/post/of/) [something](/post/something/).
+- "[To](/post/to/) [know](/post/know/) [better](/post/better/)" implies [that](/post/that/) [someone](/post/someone/) [should](/post/should/) [have](/post/have/) made [a](/post/a/) wiser [decision](/post/decision/) based [on](/post/on/) [their](/post/their/) [knowledge](/post/knowledge/) [or](/post/or/) [experience](/post/experience/).
+- "[To](/post/to/) [know](/post/know/) someone's [mind](/post/mind/)" [means](/post/means/) [to](/post/to/) [understand](/post/understand/) [their](/post/their/) thoughts [or](/post/or/) intentions.
+- "[No](/post/no/) [one](/post/one/) knows [for](/post/for/) [sure](/post/sure/)" suggests uncertainty [or](/post/or/) [lack](/post/lack/) [of](/post/of/) definitive [information](/post/information/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [know](/en/post/know/) [how](/en/post/how/) [to](/en/post/to/) [fix](/en/post/fix/) [this](/en/post/this/) [issue](/en/post/issue/)."
-- "[She](/en/post/she/) knew [immediately](/en/post/immediately/) [that](/en/post/that/) [something](/en/post/something/) was [wrong](/en/post/wrong/)."
-- "[Do](/en/post/do/) [you](/en/post/you/) [know](/en/post/know/) [where](/en/post/where/) [the](/en/post/the/) nearest [post](/en/post/post/) [office](/en/post/office/) is?"
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [know](/post/know/) [how](/post/how/) [to](/post/to/) [fix](/post/fix/) [this](/post/this/) [issue](/post/issue/)."
+- "[She](/post/she/) knew [immediately](/post/immediately/) [that](/post/that/) [something](/post/something/) was [wrong](/post/wrong/)."
+- "[Do](/post/do/) [you](/post/you/) [know](/post/know/) [where](/post/where/) [the](/post/the/) nearest [post](/post/post/) [office](/post/office/) is?"
   
 ## Synonyms
-- [Understand](/en/post/understand/)
-- [Recognize](/en/post/recognize/)
-- [Be](/en/post/be/) [aware](/en/post/aware/) [of](/en/post/of/)
-- [Realize](/en/post/realize/)
+- [Understand](/post/understand/)
+- [Recognize](/post/recognize/)
+- [Be](/post/be/) [aware](/post/aware/) [of](/post/of/)
+- [Realize](/post/realize/)
 - Comprehend
-- Familiarize [oneself](/en/post/oneself/) [with](/en/post/with/)
-- Acquaint [oneself](/en/post/oneself/) [with](/en/post/with/)
-- [Perceive](/en/post/perceive/)
-- [Grasp](/en/post/grasp/)
+- Familiarize [oneself](/post/oneself/) [with](/post/with/)
+- Acquaint [oneself](/post/oneself/) [with](/post/with/)
+- [Perceive](/post/perceive/)
+- [Grasp](/post/grasp/)
 
 ## Antonyms
-- [Not](/en/post/not/) [know](/en/post/know/)
-- [Be](/en/post/be/) unaware [of](/en/post/of/)
-- [Be](/en/post/be/) [ignorant](/en/post/ignorant/) [of](/en/post/of/)
-- [Misunderstand](/en/post/misunderstand/)
-- [Forget](/en/post/forget/)
+- [Not](/post/not/) [know](/post/know/)
+- [Be](/post/be/) unaware [of](/post/of/)
+- [Be](/post/be/) [ignorant](/post/ignorant/) [of](/post/of/)
+- [Misunderstand](/post/misunderstand/)
+- [Forget](/post/forget/)

@@ -7,28 +7,28 @@ description = '[peil] n.桶，提桶'
 keywords = ['ai words', 'pail']
 +++
 
-## [Word](/en/post/word/): [Pail](/en/post/pail/)
+## [Word](/post/word/): [Pail](/post/pail/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /peɪl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [container](/en/post/container/), [usually](/en/post/usually/) [with](/en/post/with/) [a](/en/post/a/) [handle](/en/post/handle/) [and](/en/post/and/) [often](/en/post/often/) made [of](/en/post/of/) [metal](/en/post/metal/) [or](/en/post/or/) [plastic](/en/post/plastic/), [used](/en/post/used/) [for](/en/post/for/) carrying liquids, [especially](/en/post/especially/) [water](/en/post/water/), [or](/en/post/or/) [other](/en/post/other/) substances [such](/en/post/such/) [as](/en/post/as/) [sand](/en/post/sand/) [or](/en/post/or/) [food](/en/post/food/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) carried [a](/en/post/a/) [pail](/en/post/pail/) [of](/en/post/of/) [water](/en/post/water/) [from](/en/post/from/) [the](/en/post/the/) [well](/en/post/well/)."
-  - _Informal_ : [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [bucket](/en/post/bucket/) [hat](/en/post/hat/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) resemblance [to](/en/post/to/) [a](/en/post/a/) [small](/en/post/small/) [pail](/en/post/pail/) [when](/en/post/when/) upside [down](/en/post/down/). [Example](/en/post/example/): "[He](/en/post/he/) wore [a](/en/post/a/) [pail](/en/post/pail/) [hat](/en/post/hat/) [to](/en/post/to/) [protect](/en/post/protect/) [his](/en/post/his/) [head](/en/post/head/) [from](/en/post/from/) [the](/en/post/the/) [sun](/en/post/sun/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [container](/post/container/), [usually](/post/usually/) [with](/post/with/) [a](/post/a/) [handle](/post/handle/) [and](/post/and/) [often](/post/often/) made [of](/post/of/) [metal](/post/metal/) [or](/post/or/) [plastic](/post/plastic/), [used](/post/used/) [for](/post/for/) carrying liquids, [especially](/post/especially/) [water](/post/water/), [or](/post/or/) [other](/post/other/) substances [such](/post/such/) [as](/post/as/) [sand](/post/sand/) [or](/post/or/) [food](/post/food/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) carried [a](/post/a/) [pail](/post/pail/) [of](/post/of/) [water](/post/water/) [from](/post/from/) [the](/post/the/) [well](/post/well/)."
+  - _Informal_ : [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [bucket](/post/bucket/) [hat](/post/hat/) [due](/post/due/) [to](/post/to/) [its](/post/its/) resemblance [to](/post/to/) [a](/post/a/) [small](/post/small/) [pail](/post/pail/) [when](/post/when/) upside [down](/post/down/). [Example](/post/example/): "[He](/post/he/) wore [a](/post/a/) [pail](/post/pail/) [hat](/post/hat/) [to](/post/to/) [protect](/post/protect/) [his](/post/his/) [head](/post/head/) [from](/post/from/) [the](/post/the/) [sun](/post/sun/)."
 
 ### Phrases
-- "[A](/en/post/a/) [drop](/en/post/drop/) [in](/en/post/in/) [the](/en/post/the/) [pail](/en/post/pail/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is insignificant compared [to](/en/post/to/) [the](/en/post/the/) [whole](/en/post/whole/) [or](/en/post/or/) [overall](/en/post/overall/) [need](/en/post/need/).
-- "Carrying [water](/en/post/water/) [in](/en/post/in/) [a](/en/post/a/) leaky [pail](/en/post/pail/)" is an idiom比喻 [for](/en/post/for/) [a](/en/post/a/) futile [or](/en/post/or/) unproductive [effort](/en/post/effort/) [because](/en/post/because/) [the](/en/post/the/) contents are constantly [being](/en/post/being/) lost.
+- "[A](/post/a/) [drop](/post/drop/) [in](/post/in/) [the](/post/the/) [pail](/post/pail/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is insignificant compared [to](/post/to/) [the](/post/the/) [whole](/post/whole/) [or](/post/or/) [overall](/post/overall/) [need](/post/need/).
+- "Carrying [water](/post/water/) [in](/post/in/) [a](/post/a/) leaky [pail](/post/pail/)" is an idiom比喻 [for](/post/for/) [a](/post/a/) futile [or](/post/or/) unproductive [effort](/post/effort/) [because](/post/because/) [the](/post/the/) contents are constantly [being](/post/being/) lost.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [little](/en/post/little/) [boy](/en/post/boy/) toted [a](/en/post/a/) [red](/en/post/red/) [pail](/en/post/pail/) [along](/en/post/along/) [the](/en/post/the/) [beach](/en/post/beach/) [to](/en/post/to/) [collect](/en/post/collect/) seashells."
-- "[After](/en/post/after/) milking [the](/en/post/the/) [cow](/en/post/cow/), [he](/en/post/he/) filled [a](/en/post/a/) [pail](/en/post/pail/) [with](/en/post/with/) [fresh](/en/post/fresh/) [milk](/en/post/milk/)."
-- "[Her](/en/post/her/) favorite [childhood](/en/post/childhood/) [memory](/en/post/memory/) was picking berries [and](/en/post/and/) filling [her](/en/post/her/) [pail](/en/post/pail/) [to](/en/post/to/) [the](/en/post/the/) [brim](/en/post/brim/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [little](/post/little/) [boy](/post/boy/) toted [a](/post/a/) [red](/post/red/) [pail](/post/pail/) [along](/post/along/) [the](/post/the/) [beach](/post/beach/) [to](/post/to/) [collect](/post/collect/) seashells."
+- "[After](/post/after/) milking [the](/post/the/) [cow](/post/cow/), [he](/post/he/) filled [a](/post/a/) [pail](/post/pail/) [with](/post/with/) [fresh](/post/fresh/) [milk](/post/milk/)."
+- "[Her](/post/her/) favorite [childhood](/post/childhood/) [memory](/post/memory/) was picking berries [and](/post/and/) filling [her](/post/her/) [pail](/post/pail/) [to](/post/to/) [the](/post/the/) [brim](/post/brim/)."
 
 ## Synonyms
-- [Bucket](/en/post/bucket/)
-- [Tub](/en/post/tub/)
-- [Container](/en/post/container/)
-- [Basin](/en/post/basin/)
-- Cask ([for](/en/post/for/) larger containers)
-- [Can](/en/post/can/) (informal)
+- [Bucket](/post/bucket/)
+- [Tub](/post/tub/)
+- [Container](/post/container/)
+- [Basin](/post/basin/)
+- Cask ([for](/post/for/) larger containers)
+- [Can](/post/can/) (informal)

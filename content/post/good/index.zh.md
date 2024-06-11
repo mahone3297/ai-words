@@ -11,21 +11,21 @@ keywords = ['ai words', 'good']
 /ɡʊd/
 
 ## 释义
-- **形容词**: 好的，优秀的，质量高的。例如: "[She](/post/she/) did [a](/post/a/) [good](/post/good/) [job](/post/job/) [on](/post/on/) [the](/post/the/) [project](/post/project/)."
-- **副词**: 好地，满意地。例如: "[He](/post/he/) played [the](/post/the/) guitar [good](/post/good/)."
+- **形容词**: 好的，优秀的，质量高的。例如: "[She](/zh/post/she/) did [a](/zh/post/a/) [good](/zh/post/good/) [job](/zh/post/job/) [on](/zh/post/on/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- **副词**: 好地，满意地。例如: "[He](/zh/post/he/) played [the](/zh/post/the/) guitar [good](/zh/post/good/)."
 
 ## 短语
-- "[For](/post/for/) [good](/post/good/)" 表示永久地，不再改变。例如: "[They](/post/they/) moved [away](/post/away/) [for](/post/for/) [good](/post/good/)."
-- "[Good](/post/good/) [morning](/post/morning/)/[afternoon](/post/afternoon/)/[evening](/post/evening/)" 是日常的问候语。
-- "[In](/post/in/) [good](/post/good/) [condition](/post/condition/)" 指状态良好。例如: "[The](/post/the/) [car](/post/car/) is [in](/post/in/) [good](/post/good/) [condition](/post/condition/)."
+- "[For](/zh/post/for/) [good](/zh/post/good/)" 表示永久地，不再改变。例如: "[They](/zh/post/they/) moved [away](/zh/post/away/) [for](/zh/post/for/) [good](/zh/post/good/)."
+- "[Good](/zh/post/good/) [morning](/zh/post/morning/)/[afternoon](/zh/post/afternoon/)/[evening](/zh/post/evening/)" 是日常的问候语。
+- "[In](/zh/post/in/) [good](/zh/post/good/) [condition](/zh/post/condition/)" 指状态良好。例如: "[The](/zh/post/the/) [car](/zh/post/car/) is [in](/zh/post/in/) [good](/zh/post/good/) [condition](/zh/post/condition/)."
 
 ## 例句
-- 形容词: "[This](/post/this/) is [a](/post/a/) [good](/post/good/) [book](/post/book/); I couldn't [put](/post/put/) [it](/post/it/) [down](/post/down/)."
-- 副词: "[She](/post/she/) sings [not](/post/not/) [only](/post/only/) [well](/post/well/) [but](/post/but/) [also](/post/also/) plays [the](/post/the/) [piano](/post/piano/) [good](/post/good/)."
+- 形容词: "[This](/zh/post/this/) is [a](/zh/post/a/) [good](/zh/post/good/) [book](/zh/post/book/); I couldn't [put](/zh/post/put/) [it](/zh/post/it/) [down](/zh/post/down/)."
+- 副词: "[She](/zh/post/she/) sings [not](/zh/post/not/) [only](/zh/post/only/) [well](/zh/post/well/) [but](/zh/post/but/) [also](/zh/post/also/) plays [the](/zh/post/the/) [piano](/zh/post/piano/) [good](/zh/post/good/)."
 
 ## 同义词
-- [Great](/post/great/)
-- [Excellent](/post/excellent/)
-- [Fine](/post/fine/)
-- [Nice](/post/nice/)
+- [Great](/zh/post/great/)
+- [Excellent](/zh/post/excellent/)
+- [Fine](/zh/post/fine/)
+- [Nice](/zh/post/nice/)
 - Superb

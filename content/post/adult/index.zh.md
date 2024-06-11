@@ -11,21 +11,21 @@ keywords = ['ai words', 'adult']
 /əˈdʌlt/
 
 ## 释义
-- **名词**: 成年人，已发育成熟的人。例如: "Children [should](/post/should/) [be](/post/be/) supervised [by](/post/by/) an [adult](/post/adult/)."
-- **形容词**: 成年的，成熟的。例如: "[The](/post/the/) [adult](/post/adult/) [bird](/post/bird/) has [more](/post/more/) vibrant feathers [than](/post/than/) [the](/post/the/) chick."
+- **名词**: 成年人，已发育成熟的人。例如: "Children [should](/zh/post/should/) [be](/zh/post/be/) supervised [by](/zh/post/by/) an [adult](/zh/post/adult/)."
+- **形容词**: 成年的，成熟的。例如: "[The](/zh/post/the/) [adult](/zh/post/adult/) [bird](/zh/post/bird/) has [more](/zh/post/more/) vibrant feathers [than](/zh/post/than/) [the](/zh/post/the/) chick."
 
 ## 短语
-- "[Adult](/post/adult/) [education](/post/education/)" 成人教育
-- "[Adult](/post/adult/) [content](/post/content/)" 成人内容
-- "[Adult](/post/adult/) supervision" 成人监督
+- "[Adult](/zh/post/adult/) [education](/zh/post/education/)" 成人教育
+- "[Adult](/zh/post/adult/) [content](/zh/post/content/)" 成人内容
+- "[Adult](/zh/post/adult/) supervision" 成人监督
 
 ## 例句
-- 名词: "There's [a](/post/a/) [limit](/post/limit/) [of](/post/of/) [two](/post/two/) adults [per](/post/per/) [room](/post/room/) [in](/post/in/) [this](/post/this/) [hotel](/post/hotel/)."
-- 形容词: "[The](/post/the/) [book](/post/book/) is written [for](/post/for/) an [adult](/post/adult/) [audience](/post/audience/)."
+- 名词: "There's [a](/zh/post/a/) [limit](/zh/post/limit/) [of](/zh/post/of/) [two](/zh/post/two/) adults [per](/zh/post/per/) [room](/zh/post/room/) [in](/zh/post/in/) [this](/zh/post/this/) [hotel](/zh/post/hotel/)."
+- 形容词: "[The](/zh/post/the/) [book](/zh/post/book/) is written [for](/zh/post/for/) an [adult](/zh/post/adult/) [audience](/zh/post/audience/)."
 
 ## 同义词
-- [Mature](/post/mature/)
+- [Mature](/zh/post/mature/)
 - grown-up
-- [elder](/post/elder/)
-- [senior](/post/senior/)
+- [elder](/zh/post/elder/)
+- [senior](/zh/post/senior/)
 - full-grown

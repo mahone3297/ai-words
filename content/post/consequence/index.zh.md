@@ -11,20 +11,20 @@ keywords = ['ai words', 'consequence']
 /ˈkɑːnsɪkwəns/
 
 ## 释义
-- **名词**: 结果，后果；重要性。例如: "[The](/post/the/) [consequence](/post/consequence/) [of](/post/of/) [his](/post/his/) actions was [severe](/post/severe/)."
-- **形容词**: 重要的，有影响的。例如: "[The](/post/the/) [consequence](/post/consequence/) [decision](/post/decision/) [will](/post/will/) [shape](/post/shape/) [the](/post/the/) [future](/post/future/) [of](/post/of/) [the](/post/the/) [company](/post/company/)."
+- **名词**: 结果，后果；重要性。例如: "[The](/zh/post/the/) [consequence](/zh/post/consequence/) [of](/zh/post/of/) [his](/zh/post/his/) actions was [severe](/zh/post/severe/)."
+- **形容词**: 重要的，有影响的。例如: "[The](/zh/post/the/) [consequence](/zh/post/consequence/) [decision](/zh/post/decision/) [will](/zh/post/will/) [shape](/zh/post/shape/) [the](/zh/post/the/) [future](/zh/post/future/) [of](/zh/post/of/) [the](/zh/post/the/) [company](/zh/post/company/)."
 
 ## 短语
-- "[Face](/post/face/) [the](/post/the/) consequences" 意味着承受结果或承担后果。
-- "[Without](/post/without/) [consequence](/post/consequence/)" 指没有产生任何后果或影响。
+- "[Face](/zh/post/face/) [the](/zh/post/the/) consequences" 意味着承受结果或承担后果。
+- "[Without](/zh/post/without/) [consequence](/zh/post/consequence/)" 指没有产生任何后果或影响。
 
 ## 例句
-- 名词: "Failing [the](/post/the/) [exam](/post/exam/) had [serious](/post/serious/) consequences [for](/post/for/) [his](/post/his/) [academic](/post/academic/) [career](/post/career/)."
-- 形容词: "[She](/post/she/) made [a](/post/a/) [consequence](/post/consequence/) [choice](/post/choice/) [that](/post/that/) changed [her](/post/her/) [life](/post/life/) [forever](/post/forever/).
+- 名词: "Failing [the](/zh/post/the/) [exam](/zh/post/exam/) had [serious](/zh/post/serious/) consequences [for](/zh/post/for/) [his](/zh/post/his/) [academic](/zh/post/academic/) [career](/zh/post/career/)."
+- 形容词: "[She](/zh/post/she/) made [a](/zh/post/a/) [consequence](/zh/post/consequence/) [choice](/zh/post/choice/) [that](/zh/post/that/) changed [her](/zh/post/her/) [life](/zh/post/life/) [forever](/zh/post/forever/).
 
 ## 同义词
-- [Result](/post/result/)
-- [Outcome](/post/outcome/)
-- [Effect](/post/effect/)
-- [Impact](/post/impact/)
-- [Consequence](/post/consequence/) (作为形容词时) [can](/post/can/) [also](/post/also/) [be](/post/be/) synonymous [with](/post/with/) "[significant](/post/significant/)" [or](/post/or/) "[important](/post/important/)".
+- [Result](/zh/post/result/)
+- [Outcome](/zh/post/outcome/)
+- [Effect](/zh/post/effect/)
+- [Impact](/zh/post/impact/)
+- [Consequence](/zh/post/consequence/) (作为形容词时) [can](/zh/post/can/) [also](/zh/post/also/) [be](/zh/post/be/) synonymous [with](/zh/post/with/) "[significant](/zh/post/significant/)" [or](/zh/post/or/) "[important](/zh/post/important/)".

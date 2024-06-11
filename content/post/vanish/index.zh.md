@@ -11,20 +11,20 @@ keywords = ['ai words', 'vanish']
 /vəˈnɪʃ/
 
 ## 释义
-- **动词**: 消失；变得无影无踪。例如: "[The](/post/the/) [plane](/post/plane/) vanished [from](/post/from/) [the](/post/the/) [radar](/post/radar/) [screen](/post/screen/)."
-- **名词**: (通常用作复数) 瞬间的消失；突然的失去。例如: "[The](/post/the/) vanishings [of](/post/of/) [several](/post/several/) tourists [remain](/post/remain/) unexplained."
+- **动词**: 消失；变得无影无踪。例如: "[The](/zh/post/the/) [plane](/zh/post/plane/) vanished [from](/zh/post/from/) [the](/zh/post/the/) [radar](/zh/post/radar/) [screen](/zh/post/screen/)."
+- **名词**: (通常用作复数) 瞬间的消失；突然的失去。例如: "[The](/zh/post/the/) vanishings [of](/zh/post/of/) [several](/zh/post/several/) tourists [remain](/zh/post/remain/) unexplained."
 
 ## 短语
-- "[vanish](/post/vanish/) [without](/post/without/) [a](/post/a/) [trace](/post/trace/)" 意味着消失得无迹可寻。
-- "[to](/post/to/) [make](/post/make/) [something](/post/something/) [vanish](/post/vanish/)" 指使某物消失。
+- "[vanish](/zh/post/vanish/) [without](/zh/post/without/) [a](/zh/post/a/) [trace](/zh/post/trace/)" 意味着消失得无迹可寻。
+- "[to](/zh/post/to/) [make](/zh/post/make/) [something](/zh/post/something/) [vanish](/zh/post/vanish/)" 指使某物消失。
 
 ## 例句
-- 动词: "[The](/post/the/) [mysterious](/post/mysterious/) [creature](/post/creature/) [suddenly](/post/suddenly/) vanished [into](/post/into/) [the](/post/the/) [forest](/post/forest/)."
-- 名词: "[There](/post/there/) [have](/post/have/) been [numerous](/post/numerous/) reports [of](/post/of/) vanishings [in](/post/in/) [the](/post/the/) Bermuda [Triangle](/post/triangle/)."
+- 动词: "[The](/zh/post/the/) [mysterious](/zh/post/mysterious/) [creature](/zh/post/creature/) [suddenly](/zh/post/suddenly/) vanished [into](/zh/post/into/) [the](/zh/post/the/) [forest](/zh/post/forest/)."
+- 名词: "[There](/zh/post/there/) [have](/zh/post/have/) been [numerous](/zh/post/numerous/) reports [of](/zh/post/of/) vanishings [in](/zh/post/in/) [the](/zh/post/the/) Bermuda [Triangle](/zh/post/triangle/)."
 
 ## 同义词
-- [disappear](/post/disappear/)
-- [disappear](/post/disappear/) [completely](/post/completely/)
-- [go](/post/go/) [missing](/post/missing/)
-- [evaporate](/post/evaporate/)
-- [fade](/post/fade/) [away](/post/away/)
+- [disappear](/zh/post/disappear/)
+- [disappear](/zh/post/disappear/) [completely](/zh/post/completely/)
+- [go](/zh/post/go/) [missing](/zh/post/missing/)
+- [evaporate](/zh/post/evaporate/)
+- [fade](/zh/post/fade/) [away](/zh/post/away/)

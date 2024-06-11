@@ -7,44 +7,44 @@ description = '[wiŋ] n.翼，翅膀，翅'
 keywords = ['ai words', 'wing']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɪŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Aircraft](/en/post/aircraft/)**: [The](/en/post/the/) fixed, [usually](/en/post/usually/) branched [structure](/en/post/structure/) [that](/en/post/that/) extends [from](/en/post/from/) [the](/en/post/the/) fuselage [of](/en/post/of/) an [airplane](/en/post/airplane/) [and](/en/post/and/) supports [the](/en/post/the/) wings, providing [lift](/en/post/lift/).
-   > "[The](/en/post/the/) plane's wings were painted [in](/en/post/in/) vibrant colors."
-- **[Body](/en/post/body/) [part](/en/post/part/)**: [In](/en/post/in/) birds [and](/en/post/and/) [some](/en/post/some/) insects, [a](/en/post/a/) lateral [extension](/en/post/extension/) [of](/en/post/of/) [the](/en/post/the/) [body](/en/post/body/) [that](/en/post/that/) serves [for](/en/post/for/) [flight](/en/post/flight/) [or](/en/post/or/) [balance](/en/post/balance/).
-   > "[The](/en/post/the/) [bird](/en/post/bird/) [spread](/en/post/spread/) [its](/en/post/its/) wings [to](/en/post/to/) [take](/en/post/take/) [off](/en/post/off/)."
-- **[Attribute](/en/post/attribute/)**: [A](/en/post/a/) [side](/en/post/side/) [or](/en/post/or/) extremity, [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [house](/en/post/house/) [with](/en/post/with/) [two](/en/post/two/) wings.
-   > "[The](/en/post/the/) mansion had [three](/en/post/three/) wings, [each](/en/post/each/) [with](/en/post/with/) [its](/en/post/its/) [own](/en/post/own/) [entrance](/en/post/entrance/)."
+### [Noun](/post/noun/)
+- **[Aircraft](/post/aircraft/)**: [The](/post/the/) fixed, [usually](/post/usually/) branched [structure](/post/structure/) [that](/post/that/) extends [from](/post/from/) [the](/post/the/) fuselage [of](/post/of/) an [airplane](/post/airplane/) [and](/post/and/) supports [the](/post/the/) wings, providing [lift](/post/lift/).
+   > "[The](/post/the/) plane's wings were painted [in](/post/in/) vibrant colors."
+- **[Body](/post/body/) [part](/post/part/)**: [In](/post/in/) birds [and](/post/and/) [some](/post/some/) insects, [a](/post/a/) lateral [extension](/post/extension/) [of](/post/of/) [the](/post/the/) [body](/post/body/) [that](/post/that/) serves [for](/post/for/) [flight](/post/flight/) [or](/post/or/) [balance](/post/balance/).
+   > "[The](/post/the/) [bird](/post/bird/) [spread](/post/spread/) [its](/post/its/) wings [to](/post/to/) [take](/post/take/) [off](/post/off/)."
+- **[Attribute](/post/attribute/)**: [A](/post/a/) [side](/post/side/) [or](/post/or/) extremity, [as](/post/as/) [in](/post/in/) [a](/post/a/) [house](/post/house/) [with](/post/with/) [two](/post/two/) wings.
+   > "[The](/post/the/) mansion had [three](/post/three/) wings, [each](/post/each/) [with](/post/with/) [its](/post/its/) [own](/post/own/) [entrance](/post/entrance/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [fly](/en/post/fly/)**: [To](/en/post/to/) [move](/en/post/move/) [through](/en/post/through/) [the](/en/post/the/) [air](/en/post/air/) using wings [or](/en/post/or/) an [aircraft](/en/post/aircraft/).
-   > "[The](/en/post/the/) [eagle](/en/post/eagle/) [spread](/en/post/spread/) [its](/en/post/its/) wings [and](/en/post/and/) soared [high](/en/post/high/)."
-- **[To](/en/post/to/) [support](/en/post/support/)**: [To](/en/post/to/) [give](/en/post/give/) assistance [or](/en/post/or/) [contribute](/en/post/contribute/) [to](/en/post/to/) [something](/en/post/something/), [often](/en/post/often/) metaphorically.
-   > "[Her](/en/post/her/) encouragement was [a](/en/post/a/) [wing](/en/post/wing/) [to](/en/post/to/) [his](/en/post/his/) [success](/en/post/success/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [fly](/post/fly/)**: [To](/post/to/) [move](/post/move/) [through](/post/through/) [the](/post/the/) [air](/post/air/) using wings [or](/post/or/) an [aircraft](/post/aircraft/).
+   > "[The](/post/the/) [eagle](/post/eagle/) [spread](/post/spread/) [its](/post/its/) wings [and](/post/and/) soared [high](/post/high/)."
+- **[To](/post/to/) [support](/post/support/)**: [To](/post/to/) [give](/post/give/) assistance [or](/post/or/) [contribute](/post/contribute/) [to](/post/to/) [something](/post/something/), [often](/post/often/) metaphorically.
+   > "[Her](/post/her/) encouragement was [a](/post/a/) [wing](/post/wing/) [to](/post/to/) [his](/post/his/) [success](/post/success/)."
 
-### [Adjective](/en/post/adjective/)
-- **Airborne**: Relating [to](/en/post/to/) [or](/en/post/or/) occurring [in](/en/post/in/) [the](/en/post/the/) [air](/en/post/air/), [especially](/en/post/especially/) [in](/en/post/in/) [flight](/en/post/flight/).
-   > "[The](/en/post/the/) airborne troops landed [behind](/en/post/behind/) [enemy](/en/post/enemy/) lines."
-- **Covering**: Providing [protection](/en/post/protection/) [or](/en/post/or/) [shelter](/en/post/shelter/), [like](/en/post/like/) [a](/en/post/a/) [wing](/en/post/wing/) [on](/en/post/on/) [a](/en/post/a/) [house](/en/post/house/).
-   > "[The](/en/post/the/) [roof](/en/post/roof/) has extended wings [to](/en/post/to/) [protect](/en/post/protect/) [the](/en/post/the/) [garden](/en/post/garden/)."
+### [Adjective](/post/adjective/)
+- **Airborne**: Relating [to](/post/to/) [or](/post/or/) occurring [in](/post/in/) [the](/post/the/) [air](/post/air/), [especially](/post/especially/) [in](/post/in/) [flight](/post/flight/).
+   > "[The](/post/the/) airborne troops landed [behind](/post/behind/) [enemy](/post/enemy/) lines."
+- **Covering**: Providing [protection](/post/protection/) [or](/post/or/) [shelter](/post/shelter/), [like](/post/like/) [a](/post/a/) [wing](/post/wing/) [on](/post/on/) [a](/post/a/) [house](/post/house/).
+   > "[The](/post/the/) [roof](/post/roof/) has extended wings [to](/post/to/) [protect](/post/protect/) [the](/post/the/) [garden](/post/garden/)."
 
 ## Phrases
-- "Winged creatures" refers [to](/en/post/to/) animals [with](/en/post/with/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [fly](/en/post/fly/) using wings.
-- "[Get](/en/post/get/) [your](/en/post/your/) wings" is [a](/en/post/a/) metaphorical [expression](/en/post/expression/) [for](/en/post/for/) gaining [the](/en/post/the/) skills [or](/en/post/or/) [experience](/en/post/experience/) needed [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [well](/en/post/well/).
-- "Wings [of](/en/post/of/) [mercy](/en/post/mercy/)" symbolize compassion [and](/en/post/and/) [protection](/en/post/protection/).
+- "Winged creatures" refers [to](/post/to/) animals [with](/post/with/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [fly](/post/fly/) using wings.
+- "[Get](/post/get/) [your](/post/your/) wings" is [a](/post/a/) metaphorical [expression](/post/expression/) [for](/post/for/) gaining [the](/post/the/) skills [or](/post/or/) [experience](/post/experience/) needed [to](/post/to/) [do](/post/do/) [something](/post/something/) [well](/post/well/).
+- "Wings [of](/post/of/) [mercy](/post/mercy/)" symbolize compassion [and](/post/and/) [protection](/post/protection/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [butterfly](/en/post/butterfly/) flitted [from](/en/post/from/) [flower](/en/post/flower/) [to](/en/post/to/) [flower](/en/post/flower/), [its](/en/post/its/) wings [a](/en/post/a/) marvel [of](/en/post/of/) [color](/en/post/color/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [pilot](/en/post/pilot/) expertly maneuvered [the](/en/post/the/) [plane](/en/post/plane/), banking [to](/en/post/to/) [gain](/en/post/gain/) [altitude](/en/post/altitude/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) had [a](/en/post/a/) [large](/en/post/large/), welcoming [wing](/en/post/wing/) [for](/en/post/for/) [the](/en/post/the/) family's guests."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [butterfly](/post/butterfly/) flitted [from](/post/from/) [flower](/post/flower/) [to](/post/to/) [flower](/post/flower/), [its](/post/its/) wings [a](/post/a/) marvel [of](/post/of/) [color](/post/color/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [pilot](/post/pilot/) expertly maneuvered [the](/post/the/) [plane](/post/plane/), banking [to](/post/to/) [gain](/post/gain/) [altitude](/post/altitude/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) had [a](/post/a/) [large](/post/large/), welcoming [wing](/post/wing/) [for](/post/for/) [the](/post/the/) family's guests."
 
 ## Synonyms
-- [Feather](/en/post/feather/)
+- [Feather](/post/feather/)
 - Membrane
-- Ailerons ([in](/en/post/in/) context [of](/en/post/of/) [aircraft](/en/post/aircraft/))
+- Ailerons ([in](/post/in/) context [of](/post/of/) [aircraft](/post/aircraft/))
 - Swoop
 - Protecting
 - Supportive

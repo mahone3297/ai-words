@@ -7,53 +7,53 @@ description = '[bæk] ad.在后；回原处；回'
 keywords = ['ai words', 'back']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bæk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1** ([noun](/en/post/noun/)): [The](/en/post/the/) [rear](/en/post/rear/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/), [opposite](/en/post/opposite/) [the](/en/post/the/) [front](/en/post/front/); [the](/en/post/the/) [reverse](/en/post/reverse/) [side](/en/post/side/). [Example](/en/post/example/): "[The](/en/post/the/) car's [back](/en/post/back/) [seat](/en/post/seat/) is [very](/en/post/very/) [comfortable](/en/post/comfortable/)."
-- **2** ([noun](/en/post/noun/)): [Support](/en/post/support/) [or](/en/post/or/) assistance; [help](/en/post/help/). [Example](/en/post/example/): "[She](/en/post/she/) gave [him](/en/post/him/) [a](/en/post/a/) [financial](/en/post/financial/) [back](/en/post/back/)."
-- **3** ([noun](/en/post/noun/)): [Return](/en/post/return/) [to](/en/post/to/) [a](/en/post/a/) [previous](/en/post/previous/) [position](/en/post/position/) [or](/en/post/or/) [state](/en/post/state/). [Example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) [break](/en/post/break/), [they](/en/post/they/) went [back](/en/post/back/) [to](/en/post/to/) [work](/en/post/work/)."
-- **4** ([noun](/en/post/noun/)): [Past](/en/post/past/) [tense](/en/post/tense/) [of](/en/post/of/) [the](/en/post/the/) [verb](/en/post/verb/) '[go](/en/post/go/)' [or](/en/post/or/) '[move](/en/post/move/)'. [Example](/en/post/example/): "I'll [be](/en/post/be/) [back](/en/post/back/) [in](/en/post/in/) an [hour](/en/post/hour/)."
+### [Noun](/post/noun/)
+- **1** ([noun](/post/noun/)): [The](/post/the/) [rear](/post/rear/) [part](/post/part/) [of](/post/of/) [something](/post/something/), [opposite](/post/opposite/) [the](/post/the/) [front](/post/front/); [the](/post/the/) [reverse](/post/reverse/) [side](/post/side/). [Example](/post/example/): "[The](/post/the/) car's [back](/post/back/) [seat](/post/seat/) is [very](/post/very/) [comfortable](/post/comfortable/)."
+- **2** ([noun](/post/noun/)): [Support](/post/support/) [or](/post/or/) assistance; [help](/post/help/). [Example](/post/example/): "[She](/post/she/) gave [him](/post/him/) [a](/post/a/) [financial](/post/financial/) [back](/post/back/)."
+- **3** ([noun](/post/noun/)): [Return](/post/return/) [to](/post/to/) [a](/post/a/) [previous](/post/previous/) [position](/post/position/) [or](/post/or/) [state](/post/state/). [Example](/post/example/): "[After](/post/after/) [the](/post/the/) [break](/post/break/), [they](/post/they/) went [back](/post/back/) [to](/post/to/) [work](/post/work/)."
+- **4** ([noun](/post/noun/)): [Past](/post/past/) [tense](/post/tense/) [of](/post/of/) [the](/post/the/) [verb](/post/verb/) '[go](/post/go/)' [or](/post/or/) '[move](/post/move/)'. [Example](/post/example/): "I'll [be](/post/be/) [back](/post/back/) [in](/post/in/) an [hour](/post/hour/)."
 
-### [Verb](/en/post/verb/)
-- **1** ([verb](/en/post/verb/)): [Move](/en/post/move/) [or](/en/post/or/) [turn](/en/post/turn/) [around](/en/post/around/) [to](/en/post/to/) [face](/en/post/face/) [the](/en/post/the/) [back](/en/post/back/). [Example](/en/post/example/): "[She](/en/post/she/) turned [around](/en/post/around/) [and](/en/post/and/) sat [back](/en/post/back/) [on](/en/post/on/) [the](/en/post/the/) [chair](/en/post/chair/)."
-- **2** ([verb](/en/post/verb/)): [To](/en/post/to/) [return](/en/post/return/) [to](/en/post/to/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [person](/en/post/person/) [after](/en/post/after/) [being](/en/post/being/) [away](/en/post/away/). [Example](/en/post/example/): "[He](/en/post/he/) came [back](/en/post/back/) [from](/en/post/from/) [his](/en/post/his/) [vacation](/en/post/vacation/) [last](/en/post/last/) [week](/en/post/week/)."
-- **3** ([verb](/en/post/verb/)): [To](/en/post/to/) [support](/en/post/support/) [or](/en/post/or/) [defend](/en/post/defend/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [Example](/en/post/example/): "[She](/en/post/she/) backs [her](/en/post/her/) [team](/en/post/team/) [in](/en/post/in/) [every](/en/post/every/) [debate](/en/post/debate/)."
+### [Verb](/post/verb/)
+- **1** ([verb](/post/verb/)): [Move](/post/move/) [or](/post/or/) [turn](/post/turn/) [around](/post/around/) [to](/post/to/) [face](/post/face/) [the](/post/the/) [back](/post/back/). [Example](/post/example/): "[She](/post/she/) turned [around](/post/around/) [and](/post/and/) sat [back](/post/back/) [on](/post/on/) [the](/post/the/) [chair](/post/chair/)."
+- **2** ([verb](/post/verb/)): [To](/post/to/) [return](/post/return/) [to](/post/to/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [person](/post/person/) [after](/post/after/) [being](/post/being/) [away](/post/away/). [Example](/post/example/): "[He](/post/he/) came [back](/post/back/) [from](/post/from/) [his](/post/his/) [vacation](/post/vacation/) [last](/post/last/) [week](/post/week/)."
+- **3** ([verb](/post/verb/)): [To](/post/to/) [support](/post/support/) [or](/post/or/) [defend](/post/defend/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [Example](/post/example/): "[She](/post/she/) backs [her](/post/her/) [team](/post/team/) [in](/post/in/) [every](/post/every/) [debate](/post/debate/)."
 
-### [Adverb](/en/post/adverb/)
-- ([adverb](/en/post/adverb/)): [In](/en/post/in/) [a](/en/post/a/) [backward](/en/post/backward/) [direction](/en/post/direction/) [or](/en/post/or/) [manner](/en/post/manner/). [Example](/en/post/example/): "[He](/en/post/he/) ran [back](/en/post/back/) [quickly](/en/post/quickly/)."
-- ([adverb](/en/post/adverb/)): [Again](/en/post/again/), [as](/en/post/as/) [a](/en/post/a/) [response](/en/post/response/). [Example](/en/post/example/): "I'll [think](/en/post/think/) [about](/en/post/about/) [it](/en/post/it/) [and](/en/post/and/) [get](/en/post/get/) [back](/en/post/back/) [to](/en/post/to/) [you](/en/post/you/)."
+### [Adverb](/post/adverb/)
+- ([adverb](/post/adverb/)): [In](/post/in/) [a](/post/a/) [backward](/post/backward/) [direction](/post/direction/) [or](/post/or/) [manner](/post/manner/). [Example](/post/example/): "[He](/post/he/) ran [back](/post/back/) [quickly](/post/quickly/)."
+- ([adverb](/post/adverb/)): [Again](/post/again/), [as](/post/as/) [a](/post/a/) [response](/post/response/). [Example](/post/example/): "I'll [think](/post/think/) [about](/post/about/) [it](/post/it/) [and](/post/and/) [get](/post/get/) [back](/post/back/) [to](/post/to/) [you](/post/you/)."
 
-### [Preposition](/en/post/preposition/)
-- ([preposition](/en/post/preposition/)): [At](/en/post/at/) [or](/en/post/or/) toward [the](/en/post/the/) [back](/en/post/back/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [door](/en/post/door/) is [at](/en/post/at/) [the](/en/post/the/) [back](/en/post/back/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
-- ([preposition](/en/post/preposition/)): [Behind](/en/post/behind/); [in](/en/post/in/) [the](/en/post/the/) [wake](/en/post/wake/) [of](/en/post/of/). [Example](/en/post/example/): "[He](/en/post/he/) followed [her](/en/post/her/) [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) [office](/en/post/office/)."
+### [Preposition](/post/preposition/)
+- ([preposition](/post/preposition/)): [At](/post/at/) [or](/post/or/) toward [the](/post/the/) [back](/post/back/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [door](/post/door/) is [at](/post/at/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
+- ([preposition](/post/preposition/)): [Behind](/post/behind/); [in](/post/in/) [the](/post/the/) [wake](/post/wake/) [of](/post/of/). [Example](/post/example/): "[He](/post/he/) followed [her](/post/her/) [back](/post/back/) [to](/post/to/) [the](/post/the/) [office](/post/office/)."
 
 ### Interjection
-- (interjection): Expressing [return](/en/post/return/), reversal, [or](/en/post/or/) [request](/en/post/request/) [to](/en/post/to/) [go](/en/post/go/) [back](/en/post/back/). [Example](/en/post/example/): "[Oh](/en/post/oh/), I forgot [my](/en/post/my/) keys! [Back](/en/post/back/) [inside](/en/post/inside/) [please](/en/post/please/)."
+- (interjection): Expressing [return](/post/return/), reversal, [or](/post/or/) [request](/post/request/) [to](/post/to/) [go](/post/go/) [back](/post/back/). [Example](/post/example/): "[Oh](/post/oh/), I forgot [my](/post/my/) keys! [Back](/post/back/) [inside](/post/inside/) [please](/post/please/)."
 
 ## Phrases
-- "[Get](/en/post/get/) [back](/en/post/back/) [to](/en/post/to/) [work](/en/post/work/)"
-- "[Back](/en/post/back/) [up](/en/post/up/) [your](/en/post/your/) files"
-- "[Come](/en/post/come/) [back](/en/post/back/) [soon](/en/post/soon/)"
-- "[Turn](/en/post/turn/) [back](/en/post/back/) [time](/en/post/time/)"
+- "[Get](/post/get/) [back](/post/back/) [to](/post/to/) [work](/post/work/)"
+- "[Back](/post/back/) [up](/post/up/) [your](/post/your/) files"
+- "[Come](/post/come/) [back](/post/back/) [soon](/post/soon/)"
+- "[Turn](/post/turn/) [back](/post/back/) [time](/post/time/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) leaned [against](/en/post/against/) [the](/en/post/the/) [back](/en/post/back/) [wall](/en/post/wall/) [of](/en/post/of/) [the](/en/post/the/) café."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [dinner](/en/post/dinner/), [he](/en/post/he/) backed [the](/en/post/the/) [car](/en/post/car/) [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [garage](/en/post/garage/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) stumbled [and](/en/post/and/) fell [back](/en/post/back/) [onto](/en/post/onto/) [the](/en/post/the/) [grass](/en/post/grass/)."
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) children were playing [at](/en/post/at/) [the](/en/post/the/) [back](/en/post/back/) [of](/en/post/of/) [the](/en/post/the/) [garden](/en/post/garden/)."
-- **Interjection**: "[Sorry](/en/post/sorry/), I [need](/en/post/need/) [to](/en/post/to/) [go](/en/post/go/) [back](/en/post/back/) [and](/en/post/and/) grab [my](/en/post/my/) [coat](/en/post/coat/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) leaned [against](/post/against/) [the](/post/the/) [back](/post/back/) [wall](/post/wall/) [of](/post/of/) [the](/post/the/) café."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [dinner](/post/dinner/), [he](/post/he/) backed [the](/post/the/) [car](/post/car/) [out](/post/out/) [of](/post/of/) [the](/post/the/) [garage](/post/garage/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) stumbled [and](/post/and/) fell [back](/post/back/) [onto](/post/onto/) [the](/post/the/) [grass](/post/grass/)."
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) children were playing [at](/post/at/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [the](/post/the/) [garden](/post/garden/)."
+- **Interjection**: "[Sorry](/post/sorry/), I [need](/post/need/) [to](/post/to/) [go](/post/go/) [back](/post/back/) [and](/post/and/) grab [my](/post/my/) [coat](/post/coat/)."
 
 ## Synonyms
-- [Rear](/en/post/rear/)
+- [Rear](/post/rear/)
 - Rearward
-- [Return](/en/post/return/)
+- [Return](/post/return/)
 - Revert
-- [Support](/en/post/support/)
-- [Assist](/en/post/assist/)
+- [Support](/post/support/)
+- [Assist](/post/assist/)
 - Backup
-- [Retreat](/en/post/retreat/)
-- [Counter](/en/post/counter/)
+- [Retreat](/post/retreat/)
+- [Counter](/post/counter/)
 - Follow-through

@@ -7,38 +7,38 @@ description = '[strɔŋ] a.强壮的；擅长的'
 keywords = ['ai words', 'strong']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /strəŋ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Having [a](/en/post/a/) [great](/en/post/great/) [deal](/en/post/deal/) [of](/en/post/of/) [power](/en/post/power/), [force](/en/post/force/), [or](/en/post/or/) [ability](/en/post/ability/); [capable](/en/post/capable/) [of](/en/post/of/) withstanding [pressure](/en/post/pressure/) [or](/en/post/or/) adversity. [Example](/en/post/example/): "[The](/en/post/the/) [tree](/en/post/tree/) had [a](/en/post/a/) [strong](/en/post/strong/) [trunk](/en/post/trunk/)."
-   - **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is physically [or](/en/post/or/) mentally [powerful](/en/post/powerful/). [Example](/en/post/example/): "He's [a](/en/post/a/) [strong](/en/post/strong/) swimmer."
-   - **[Adverb](/en/post/adverb/)**: [With](/en/post/with/) [great](/en/post/great/) [intensity](/en/post/intensity/) [or](/en/post/or/) vigor. [Example](/en/post/example/): "[She](/en/post/she/) works [strong](/en/post/strong/) [all](/en/post/all/) [day](/en/post/day/)."
+- **[Adjective](/post/adjective/)**: 1. Having [a](/post/a/) [great](/post/great/) [deal](/post/deal/) [of](/post/of/) [power](/post/power/), [force](/post/force/), [or](/post/or/) [ability](/post/ability/); [capable](/post/capable/) [of](/post/of/) withstanding [pressure](/post/pressure/) [or](/post/or/) adversity. [Example](/post/example/): "[The](/post/the/) [tree](/post/tree/) had [a](/post/a/) [strong](/post/strong/) [trunk](/post/trunk/)."
+   - **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is physically [or](/post/or/) mentally [powerful](/post/powerful/). [Example](/post/example/): "He's [a](/post/a/) [strong](/post/strong/) swimmer."
+   - **[Adverb](/post/adverb/)**: [With](/post/with/) [great](/post/great/) [intensity](/post/intensity/) [or](/post/or/) vigor. [Example](/post/example/): "[She](/post/she/) works [strong](/post/strong/) [all](/post/all/) [day](/post/day/)."
 
 ## Phrases
-- "[Strong](/en/post/strong/) [coffee](/en/post/coffee/)" refers [to](/en/post/to/) [a](/en/post/a/) [highly](/en/post/highly/) concentrated brew.
-- "[Strong](/en/post/strong/) [resistance](/en/post/resistance/)" [means](/en/post/means/) [a](/en/post/a/) [powerful](/en/post/powerful/) opposition.
-- "[Strong](/en/post/strong/) [bond](/en/post/bond/)" signifies [a](/en/post/a/) [deep](/en/post/deep/) [emotional](/en/post/emotional/) [connection](/en/post/connection/).
+- "[Strong](/post/strong/) [coffee](/post/coffee/)" refers [to](/post/to/) [a](/post/a/) [highly](/post/highly/) concentrated brew.
+- "[Strong](/post/strong/) [resistance](/post/resistance/)" [means](/post/means/) [a](/post/a/) [powerful](/post/powerful/) opposition.
+- "[Strong](/post/strong/) [bond](/post/bond/)" signifies [a](/post/a/) [deep](/post/deep/) [emotional](/post/emotional/) [connection](/post/connection/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) ([Physical](/en/post/physical/) [strength](/en/post/strength/))**: "[He](/en/post/he/) lifted [the](/en/post/the/) [heavy](/en/post/heavy/) [box](/en/post/box/) [with](/en/post/with/) [ease](/en/post/ease/) [due](/en/post/due/) [to](/en/post/to/) [his](/en/post/his/) [strong](/en/post/strong/) muscles."
-- **[Adjective](/en/post/adjective/) ([Emotional](/en/post/emotional/) resilience)**: "[She](/en/post/she/) maintained [a](/en/post/a/) [strong](/en/post/strong/) [sense](/en/post/sense/) [of](/en/post/of/) [hope](/en/post/hope/) [even](/en/post/even/) [in](/en/post/in/) [difficult](/en/post/difficult/) times."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) worked [strong](/en/post/strong/) [through](/en/post/through/) [the](/en/post/the/) [entire](/en/post/entire/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) ([Physical](/post/physical/) [strength](/post/strength/))**: "[He](/post/he/) lifted [the](/post/the/) [heavy](/post/heavy/) [box](/post/box/) [with](/post/with/) [ease](/post/ease/) [due](/post/due/) [to](/post/to/) [his](/post/his/) [strong](/post/strong/) muscles."
+- **[Adjective](/post/adjective/) ([Emotional](/post/emotional/) resilience)**: "[She](/post/she/) maintained [a](/post/a/) [strong](/post/strong/) [sense](/post/sense/) [of](/post/of/) [hope](/post/hope/) [even](/post/even/) [in](/post/in/) [difficult](/post/difficult/) times."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) worked [strong](/post/strong/) [through](/post/through/) [the](/post/the/) [entire](/post/entire/) [project](/post/project/)."
 
 ## Synonyms
-- [Powerful](/en/post/powerful/)
+- [Powerful](/post/powerful/)
 - Robust
 - Sturdy
 - Mighty
-- [Vigorous](/en/post/vigorous/)
+- [Vigorous](/post/vigorous/)
 - Resilient
 - Robust
-- [Steady](/en/post/steady/)
+- [Steady](/post/steady/)
 
 ## Antonyms
-- [Weak](/en/post/weak/)
+- [Weak](/post/weak/)
 - Fragile
-- [Feeble](/en/post/feeble/)
-- [Insufficient](/en/post/insufficient/)
-- [Gentle](/en/post/gentle/)
-- [Soft](/en/post/soft/)
+- [Feeble](/post/feeble/)
+- [Insufficient](/post/insufficient/)
+- [Gentle](/post/gentle/)
+- [Soft](/post/soft/)

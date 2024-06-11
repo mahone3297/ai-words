@@ -12,20 +12,20 @@ keywords = ['ai words', 'importance']
 
 ## 释义
 - **名词**:
-  - 重要性，重大：表示事物的价值、影响或必要性。例如: "[The](/post/the/) [importance](/post/importance/) [of](/post/of/) [education](/post/education/) cannot [be](/post/be/) overstated."
-  - 重要意义的事物：指具有重大意义或影响的事。例如: "[He](/post/he/) is [a](/post/a/) [person](/post/person/) [of](/post/of/) [great](/post/great/) [importance](/post/importance/) [in](/post/in/) [the](/post/the/) [company](/post/company/)."
+  - 重要性，重大：表示事物的价值、影响或必要性。例如: "[The](/zh/post/the/) [importance](/zh/post/importance/) [of](/zh/post/of/) [education](/zh/post/education/) cannot [be](/zh/post/be/) overstated."
+  - 重要意义的事物：指具有重大意义或影响的事。例如: "[He](/zh/post/he/) is [a](/zh/post/a/) [person](/zh/post/person/) [of](/zh/post/of/) [great](/zh/post/great/) [importance](/zh/post/importance/) [in](/zh/post/in/) [the](/zh/post/the/) [company](/zh/post/company/)."
 
 ## 短语
-- "[attach](/post/attach/) [importance](/post/importance/) [to](/post/to/) [something](/post/something/)" 意为认为某事重要。
-- "[in](/post/in/) [importance](/post/importance/)" 表示在重要性上，用来比较。例如: "[Health](/post/health/) is [more](/post/more/) [important](/post/important/) [than](/post/than/) [wealth](/post/wealth/) [in](/post/in/) [importance](/post/importance/)."
+- "[attach](/zh/post/attach/) [importance](/zh/post/importance/) [to](/zh/post/to/) [something](/zh/post/something/)" 意为认为某事重要。
+- "[in](/zh/post/in/) [importance](/zh/post/importance/)" 表示在重要性上，用来比较。例如: "[Health](/zh/post/health/) is [more](/zh/post/more/) [important](/zh/post/important/) [than](/zh/post/than/) [wealth](/zh/post/wealth/) [in](/zh/post/in/) [importance](/zh/post/importance/)."
 
 ## 例句
-- 名词: "[We](/post/we/) discussed [the](/post/the/) [importance](/post/importance/) [of](/post/of/) maintaining [a](/post/a/) [healthy](/post/healthy/) lifestyle."
-- "[Her](/post/her/) [opinion](/post/opinion/) carries [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [importance](/post/importance/) [in](/post/in/) decision-making processes."
+- 名词: "[We](/zh/post/we/) discussed [the](/zh/post/the/) [importance](/zh/post/importance/) [of](/zh/post/of/) maintaining [a](/zh/post/a/) [healthy](/zh/post/healthy/) lifestyle."
+- "[Her](/zh/post/her/) [opinion](/zh/post/opinion/) carries [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) [importance](/zh/post/importance/) [in](/zh/post/in/) decision-making processes."
 
 ## 同义词
-- [Significance](/post/significance/)
-- [Value](/post/value/)
+- [Significance](/zh/post/significance/)
+- [Value](/zh/post/value/)
 - Relevance
 - Cruciality
 - Essentiality

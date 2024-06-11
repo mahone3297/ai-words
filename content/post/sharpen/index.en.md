@@ -7,32 +7,32 @@ description = '[ˈ∫ɑːpən] vt.削尖，使敏锐'
 keywords = ['ai words', 'sharpen']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /shəˈrɛn/
 
 ## Definitions
-### [Verb](/en/post/verb/)
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [tool](/en/post/tool/) [or](/en/post/or/) [process](/en/post/process/) [that](/en/post/that/) makes [a](/en/post/a/) [blade](/en/post/blade/) [or](/en/post/or/) [edge](/en/post/edge/) sharper, [usually](/en/post/usually/) [by](/en/post/by/) rubbing [against](/en/post/against/) [a](/en/post/a/) harder [surface](/en/post/surface/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [carpenter](/en/post/carpenter/) sharpened [his](/en/post/his/) [saw](/en/post/saw/) [before](/en/post/before/) starting [the](/en/post/the/) [next](/en/post/next/) [cut](/en/post/cut/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) ([a](/en/post/a/) [blade](/en/post/blade/) [or](/en/post/or/) [edge](/en/post/edge/)) sharper, [often](/en/post/often/) [by](/en/post/by/) using [a](/en/post/a/) sharpening [stone](/en/post/stone/) [or](/en/post/or/) [device](/en/post/device/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sharpened [the](/en/post/the/) [knife](/en/post/knife/) [to](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) [the](/en/post/the/) [meal](/en/post/meal/)."
+### [Verb](/post/verb/)
+- **[Noun](/post/noun/)**: [A](/post/a/) [tool](/post/tool/) [or](/post/or/) [process](/post/process/) [that](/post/that/) makes [a](/post/a/) [blade](/post/blade/) [or](/post/or/) [edge](/post/edge/) sharper, [usually](/post/usually/) [by](/post/by/) rubbing [against](/post/against/) [a](/post/a/) harder [surface](/post/surface/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [carpenter](/post/carpenter/) sharpened [his](/post/his/) [saw](/post/saw/) [before](/post/before/) starting [the](/post/the/) [next](/post/next/) [cut](/post/cut/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) ([a](/post/a/) [blade](/post/blade/) [or](/post/or/) [edge](/post/edge/)) sharper, [often](/post/often/) [by](/post/by/) using [a](/post/a/) sharpening [stone](/post/stone/) [or](/post/or/) [device](/post/device/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) sharpened [the](/post/the/) [knife](/post/knife/) [to](/post/to/) [prepare](/post/prepare/) [for](/post/for/) [the](/post/the/) [meal](/post/meal/)."
 
 ## Phrases
-- "[Sharpen](/en/post/sharpen/) [a](/en/post/a/) [pencil](/en/post/pencil/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [the](/en/post/the/) [point](/en/post/point/) [of](/en/post/of/) [a](/en/post/a/) [pencil](/en/post/pencil/) sharper.
-- "Sharpening [technique](/en/post/technique/)" refers [to](/en/post/to/) [the](/en/post/the/) [method](/en/post/method/) [used](/en/post/used/) [to](/en/post/to/) [improve](/en/post/improve/) [the](/en/post/the/) cutting [edge](/en/post/edge/).
-- "[Keep](/en/post/keep/) [a](/en/post/a/) [sharp](/en/post/sharp/) [blade](/en/post/blade/)" emphasizes [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) maintaining [a](/en/post/a/) [keen](/en/post/keen/) [edge](/en/post/edge/).
+- "[Sharpen](/post/sharpen/) [a](/post/a/) [pencil](/post/pencil/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [the](/post/the/) [point](/post/point/) [of](/post/of/) [a](/post/a/) [pencil](/post/pencil/) sharper.
+- "Sharpening [technique](/post/technique/)" refers [to](/post/to/) [the](/post/the/) [method](/post/method/) [used](/post/used/) [to](/post/to/) [improve](/post/improve/) [the](/post/the/) cutting [edge](/post/edge/).
+- "[Keep](/post/keep/) [a](/post/a/) [sharp](/post/sharp/) [blade](/post/blade/)" emphasizes [the](/post/the/) [importance](/post/importance/) [of](/post/of/) maintaining [a](/post/a/) [keen](/post/keen/) [edge](/post/edge/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) using [it](/en/post/it/) [for](/en/post/for/) [a](/en/post/a/) [while](/en/post/while/), [he](/en/post/he/) took [the](/en/post/the/) [time](/en/post/time/) [to](/en/post/to/) [sharpen](/en/post/sharpen/) [his](/en/post/his/) axe."
-- "[The](/en/post/the/) chef carefully sharpened [the](/en/post/the/) chef's [knife](/en/post/knife/) [before](/en/post/before/) slicing [the](/en/post/the/) [fish](/en/post/fish/)."
-- "I [need](/en/post/need/) [to](/en/post/to/) [sharpen](/en/post/sharpen/) [my](/en/post/my/) [mind](/en/post/mind/) [before](/en/post/before/) tackling [this](/en/post/this/) [complex](/en/post/complex/) [problem](/en/post/problem/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) using [it](/post/it/) [for](/post/for/) [a](/post/a/) [while](/post/while/), [he](/post/he/) took [the](/post/the/) [time](/post/time/) [to](/post/to/) [sharpen](/post/sharpen/) [his](/post/his/) axe."
+- "[The](/post/the/) chef carefully sharpened [the](/post/the/) chef's [knife](/post/knife/) [before](/post/before/) slicing [the](/post/the/) [fish](/post/fish/)."
+- "I [need](/post/need/) [to](/post/to/) [sharpen](/post/sharpen/) [my](/post/my/) [mind](/post/mind/) [before](/post/before/) tackling [this](/post/this/) [complex](/post/complex/) [problem](/post/problem/)."
 
 ## Synonyms
 - hone
 - whet
-- [refine](/en/post/refine/)
-- [polish](/en/post/polish/)
-- [tune](/en/post/tune/)
+- [refine](/post/refine/)
+- [polish](/post/polish/)
+- [tune](/post/tune/)
 
 ## Antonyms
-- [dull](/en/post/dull/)
+- [dull](/post/dull/)
 - blunt
-- blunt ([as](/en/post/as/) [in](/en/post/in/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) making [something](/en/post/something/) [dull](/en/post/dull/))
+- blunt ([as](/post/as/) [in](/post/in/) [the](/post/the/) [action](/post/action/) [of](/post/of/) making [something](/post/something/) [dull](/post/dull/))

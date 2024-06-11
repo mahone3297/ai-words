@@ -7,35 +7,35 @@ description = '[pei] vt.支付；付给；给予'
 keywords = ['ai words', 'pay']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /p eɪ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [give](/en/post/give/) [money](/en/post/money/) [to](/en/post/to/) [someone](/en/post/someone/) [in](/en/post/in/) [exchange](/en/post/exchange/) [for](/en/post/for/) [goods](/en/post/goods/) [or](/en/post/or/) services; [to](/en/post/to/) compensate [or](/en/post/or/) [settle](/en/post/settle/) [a](/en/post/a/) [debt](/en/post/debt/). [IPA: /peɪ/]
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) paying [or](/en/post/or/) [the](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) given [in](/en/post/in/) [payment](/en/post/payment/). [IPA: /peɪ/]
-- **[Adjective](/en/post/adjective/)**: Showing [respect](/en/post/respect/) [or](/en/post/or/) appreciation, [often](/en/post/often/) [in](/en/post/in/) [the](/en/post/the/) [form](/en/post/form/) [of](/en/post/of/) [a](/en/post/a/) [tip](/en/post/tip/) [or](/en/post/or/) gratuity. [IPA: /peɪ/]
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [give](/post/give/) [money](/post/money/) [to](/post/to/) [someone](/post/someone/) [in](/post/in/) [exchange](/post/exchange/) [for](/post/for/) [goods](/post/goods/) [or](/post/or/) services; [to](/post/to/) compensate [or](/post/or/) [settle](/post/settle/) [a](/post/a/) [debt](/post/debt/). [IPA: /peɪ/]
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) paying [or](/post/or/) [the](/post/the/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) given [in](/post/in/) [payment](/post/payment/). [IPA: /peɪ/]
+- **[Adjective](/post/adjective/)**: Showing [respect](/post/respect/) [or](/post/or/) appreciation, [often](/post/often/) [in](/post/in/) [the](/post/the/) [form](/post/form/) [of](/post/of/) [a](/post/a/) [tip](/post/tip/) [or](/post/or/) gratuity. [IPA: /peɪ/]
 
 ## Phrases
-- "[Pay](/en/post/pay/) [for](/en/post/for/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [provide](/en/post/provide/) [the](/en/post/the/) required funds [to](/en/post/to/) [acquire](/en/post/acquire/) [or](/en/post/or/) [use](/en/post/use/) [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/).
-- "[Pay](/en/post/pay/) [off](/en/post/off/) [a](/en/post/a/) [loan](/en/post/loan/)" refers [to](/en/post/to/) repaying [the](/en/post/the/) [entire](/en/post/entire/) [amount](/en/post/amount/) borrowed [plus](/en/post/plus/) [interest](/en/post/interest/).
-- "[Pay](/en/post/pay/) tribute" is [to](/en/post/to/) [show](/en/post/show/) [respect](/en/post/respect/) [or](/en/post/or/) admiration [by](/en/post/by/) giving [something](/en/post/something/), [often](/en/post/often/) symbolic, [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/).
+- "[Pay](/post/pay/) [for](/post/for/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [provide](/post/provide/) [the](/post/the/) required funds [to](/post/to/) [acquire](/post/acquire/) [or](/post/or/) [use](/post/use/) [a](/post/a/) [product](/post/product/) [or](/post/or/) [service](/post/service/).
+- "[Pay](/post/pay/) [off](/post/off/) [a](/post/a/) [loan](/post/loan/)" refers [to](/post/to/) repaying [the](/post/the/) [entire](/post/entire/) [amount](/post/amount/) borrowed [plus](/post/plus/) [interest](/post/interest/).
+- "[Pay](/post/pay/) tribute" is [to](/post/to/) [show](/post/show/) [respect](/post/respect/) [or](/post/or/) admiration [by](/post/by/) giving [something](/post/something/), [often](/post/often/) symbolic, [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [pay](/en/post/pay/) [the](/en/post/the/) [rent](/en/post/rent/) [before](/en/post/before/) [the](/en/post/the/) [due](/en/post/due/) [date](/en/post/date/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [total](/en/post/total/) [bill](/en/post/bill/) came [to](/en/post/to/) $100, including [tax](/en/post/tax/) [and](/en/post/and/) [tip](/en/post/tip/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) [left](/en/post/left/) [a](/en/post/a/) [generous](/en/post/generous/) [tip](/en/post/tip/) [for](/en/post/for/) [the](/en/post/the/) waiter's [excellent](/en/post/excellent/) [service](/en/post/service/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [pay](/post/pay/) [the](/post/the/) [rent](/post/rent/) [before](/post/before/) [the](/post/the/) [due](/post/due/) [date](/post/date/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [total](/post/total/) [bill](/post/bill/) came [to](/post/to/) $100, including [tax](/post/tax/) [and](/post/and/) [tip](/post/tip/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) [left](/post/left/) [a](/post/a/) [generous](/post/generous/) [tip](/post/tip/) [for](/post/for/) [the](/post/the/) waiter's [excellent](/post/excellent/) [service](/post/service/)."
 
 ## Synonyms
 - Remit
-- [Settle](/en/post/settle/)
-- [Provide](/en/post/provide/) [payment](/en/post/payment/)
+- [Settle](/post/settle/)
+- [Provide](/post/provide/) [payment](/post/payment/)
 - Honor
-- [Contribute](/en/post/contribute/)
+- [Contribute](/post/contribute/)
 - Gratuity
 
 ## Antonyms
-- [Receive](/en/post/receive/)
-- [Owe](/en/post/owe/)
-- [Avoid](/en/post/avoid/) paying
-- [Charge](/en/post/charge/)
-- [Collect](/en/post/collect/)
+- [Receive](/post/receive/)
+- [Owe](/post/owe/)
+- [Avoid](/post/avoid/) paying
+- [Charge](/post/charge/)
+- [Collect](/post/collect/)

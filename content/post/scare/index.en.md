@@ -7,33 +7,33 @@ description = '[skeə] vt.惊吓 vi.受惊'
 keywords = ['ai words', 'scare']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /skeə/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cause](/en/post/cause/) [fear](/en/post/fear/) [or](/en/post/or/) [alarm](/en/post/alarm/) [in](/en/post/in/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [loud](/en/post/loud/) [noise](/en/post/noise/) scared [the](/en/post/the/) children."
-- **[Noun](/en/post/noun/)**: An [incident](/en/post/incident/) [or](/en/post/or/) [action](/en/post/action/) [that](/en/post/that/) causes [fear](/en/post/fear/) [or](/en/post/or/) [anxiety](/en/post/anxiety/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) haunted [house](/en/post/house/) was filled [with](/en/post/with/) terrifying scares."
-- **[Adjective](/en/post/adjective/)**: Designed [to](/en/post/to/) provoke [fear](/en/post/fear/) [or](/en/post/or/) [startle](/en/post/startle/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) scary [movie](/en/post/movie/) is [perfect](/en/post/perfect/) [for](/en/post/for/) Halloween."
+- **[Verb](/post/verb/)**: [To](/post/to/) [cause](/post/cause/) [fear](/post/fear/) [or](/post/or/) [alarm](/post/alarm/) [in](/post/in/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [loud](/post/loud/) [noise](/post/noise/) scared [the](/post/the/) children."
+- **[Noun](/post/noun/)**: An [incident](/post/incident/) [or](/post/or/) [action](/post/action/) [that](/post/that/) causes [fear](/post/fear/) [or](/post/or/) [anxiety](/post/anxiety/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) haunted [house](/post/house/) was filled [with](/post/with/) terrifying scares."
+- **[Adjective](/post/adjective/)**: Designed [to](/post/to/) provoke [fear](/post/fear/) [or](/post/or/) [startle](/post/startle/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) scary [movie](/post/movie/) is [perfect](/post/perfect/) [for](/post/for/) Halloween."
 
 ## Phrases
-- "[Scare](/en/post/scare/) [someone](/en/post/someone/) [silly](/en/post/silly/)" [means](/en/post/means/) [to](/en/post/to/) [frighten](/en/post/frighten/) [someone](/en/post/someone/) [so](/en/post/so/) [much](/en/post/much/) [that](/en/post/that/) [they](/en/post/they/) [become](/en/post/become/) [silly](/en/post/silly/) [or](/en/post/or/) [lose](/en/post/lose/) [their](/en/post/their/) composure.
-- "[Get](/en/post/get/) [a](/en/post/a/) [scare](/en/post/scare/)" [means](/en/post/means/) [to](/en/post/to/) [receive](/en/post/receive/) [a](/en/post/a/) [sudden](/en/post/sudden/) [and](/en/post/and/) [unexpected](/en/post/unexpected/) fright.
-- "Scared [stiff](/en/post/stiff/)" describes [being](/en/post/being/) [extremely](/en/post/extremely/) frightened, causing one's [body](/en/post/body/) [to](/en/post/to/) [feel](/en/post/feel/) [rigid](/en/post/rigid/).
+- "[Scare](/post/scare/) [someone](/post/someone/) [silly](/post/silly/)" [means](/post/means/) [to](/post/to/) [frighten](/post/frighten/) [someone](/post/someone/) [so](/post/so/) [much](/post/much/) [that](/post/that/) [they](/post/they/) [become](/post/become/) [silly](/post/silly/) [or](/post/or/) [lose](/post/lose/) [their](/post/their/) composure.
+- "[Get](/post/get/) [a](/post/a/) [scare](/post/scare/)" [means](/post/means/) [to](/post/to/) [receive](/post/receive/) [a](/post/a/) [sudden](/post/sudden/) [and](/post/and/) [unexpected](/post/unexpected/) fright.
+- "Scared [stiff](/post/stiff/)" describes [being](/post/being/) [extremely](/post/extremely/) frightened, causing one's [body](/post/body/) [to](/post/to/) [feel](/post/feel/) [rigid](/post/rigid/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [thief](/en/post/thief/) tried [to](/en/post/to/) [scare](/en/post/scare/) [the](/en/post/the/) [witness](/en/post/witness/) [into](/en/post/into/) [silence](/en/post/silence/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) [still](/en/post/still/) has nightmares [from](/en/post/from/) [the](/en/post/the/) scary [dream](/en/post/dream/) [she](/en/post/she/) had [last](/en/post/last/) [night](/en/post/night/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) haunted [house](/en/post/house/) had [many](/en/post/many/) scary decorations [and](/en/post/and/) effects."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [thief](/post/thief/) tried [to](/post/to/) [scare](/post/scare/) [the](/post/the/) [witness](/post/witness/) [into](/post/into/) [silence](/post/silence/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) [still](/post/still/) has nightmares [from](/post/from/) [the](/post/the/) scary [dream](/post/dream/) [she](/post/she/) had [last](/post/last/) [night](/post/night/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) haunted [house](/post/house/) had [many](/post/many/) scary decorations [and](/post/and/) effects."
 
 ## Synonyms
-- [Frighten](/en/post/frighten/)
+- [Frighten](/post/frighten/)
 - Terrify
-- [Alarm](/en/post/alarm/)
+- [Alarm](/post/alarm/)
 - Intimidate
-- [Startle](/en/post/startle/)
+- [Startle](/post/startle/)
 
 ## Antonyms
-- [Comfort](/en/post/comfort/)
-- [Calm](/en/post/calm/)
-- [Relax](/en/post/relax/)
+- [Comfort](/post/comfort/)
+- [Calm](/post/calm/)
+- [Relax](/post/relax/)
 - reassure

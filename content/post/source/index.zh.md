@@ -12,23 +12,23 @@ keywords = ['ai words', 'source']
 
 ## 释义
 - **名词**:
-  - 起源；来源：指事物的出处或产生之处。例如: "[The](/post/the/) [news](/post/news/) [report](/post/report/) cited [multiple](/post/multiple/) sources [for](/post/for/) [their](/post/their/) [information](/post/information/)."
-  - 出处；提供者：指提供信息、数据或支持的人或物。例如: "[She](/post/she/) is [a](/post/a/) [reliable](/post/reliable/) [source](/post/source/) [for](/post/for/) [business](/post/business/) insights."
-  - 原始材料；素材：在创作中使用的原始或未经加工的材料。例如: "[The](/post/the/) [artist](/post/artist/) drew inspiration [from](/post/from/) [various](/post/various/) sources [for](/post/for/) [her](/post/her/) [new](/post/new/) [painting](/post/painting/)."
+  - 起源；来源：指事物的出处或产生之处。例如: "[The](/zh/post/the/) [news](/zh/post/news/) [report](/zh/post/report/) cited [multiple](/zh/post/multiple/) sources [for](/zh/post/for/) [their](/zh/post/their/) [information](/zh/post/information/)."
+  - 出处；提供者：指提供信息、数据或支持的人或物。例如: "[She](/zh/post/she/) is [a](/zh/post/a/) [reliable](/zh/post/reliable/) [source](/zh/post/source/) [for](/zh/post/for/) [business](/zh/post/business/) insights."
+  - 原始材料；素材：在创作中使用的原始或未经加工的材料。例如: "[The](/zh/post/the/) [artist](/zh/post/artist/) drew inspiration [from](/zh/post/from/) [various](/zh/post/various/) sources [for](/zh/post/for/) [her](/zh/post/her/) [new](/zh/post/new/) [painting](/zh/post/painting/)."
 
 ## 短语
-- "[Source](/post/source/) [of](/post/of/) [income](/post/income/)" 指收入的来源。
-- "[Primary](/post/primary/) [source](/post/source/)" 指第一手资料，直接来自事件或时期的信息。
-- "[Secondary](/post/secondary/) [source](/post/source/)" 指第二手资料，基于第一手资料的分析或解释。
+- "[Source](/zh/post/source/) [of](/zh/post/of/) [income](/zh/post/income/)" 指收入的来源。
+- "[Primary](/zh/post/primary/) [source](/zh/post/source/)" 指第一手资料，直接来自事件或时期的信息。
+- "[Secondary](/zh/post/secondary/) [source](/zh/post/source/)" 指第二手资料，基于第一手资料的分析或解释。
 
 ## 例句
-- 名词: "[The](/post/the/) [water](/post/water/) [supply](/post/supply/) [for](/post/for/) [the](/post/the/) [city](/post/city/) comes [from](/post/from/) [several](/post/several/) [underground](/post/underground/) sources."
-- 名词: "[She](/post/she/) credited [the](/post/the/) [original](/post/original/) [source](/post/source/) [for](/post/for/) [the](/post/the/) [idea](/post/idea/) [in](/post/in/) [her](/post/her/) [speech](/post/speech/)."
+- 名词: "[The](/zh/post/the/) [water](/zh/post/water/) [supply](/zh/post/supply/) [for](/zh/post/for/) [the](/zh/post/the/) [city](/zh/post/city/) comes [from](/zh/post/from/) [several](/zh/post/several/) [underground](/zh/post/underground/) sources."
+- 名词: "[She](/zh/post/she/) credited [the](/zh/post/the/) [original](/zh/post/original/) [source](/zh/post/source/) [for](/zh/post/for/) [the](/zh/post/the/) [idea](/zh/post/idea/) [in](/zh/post/in/) [her](/zh/post/her/) [speech](/zh/post/speech/)."
 
 ## 同义词
-- [Origin](/post/origin/)
+- [Origin](/zh/post/origin/)
 - Originator
 - Supplier
 - Provider
-- [Root](/post/root/)
--[spring](/post/spring/)
+- [Root](/zh/post/root/)
+-[spring](/zh/post/spring/)

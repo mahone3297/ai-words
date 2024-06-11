@@ -11,20 +11,20 @@ keywords = ['ai words', 'revolutionary']
 /ˌrɛvəˈljuːtəri/
 
 ## 释义
-- **形容词**: 引起根本变革的；革命性的；创新的。例如: "[The](/post/the/) [invention](/post/invention/) [of](/post/of/) [the](/post/the/) internet was [a](/post/a/) [revolutionary](/post/revolutionary/) [change](/post/change/) [in](/post/in/) [communication](/post/communication/)."
-- **名词**: 革命者；拥护革命的人。例如: "[Many](/post/many/) [revolutionary](/post/revolutionary/) leaders fought [for](/post/for/) [their](/post/their/) country's [independence](/post/independence/)."
+- **形容词**: 引起根本变革的；革命性的；创新的。例如: "[The](/zh/post/the/) [invention](/zh/post/invention/) [of](/zh/post/of/) [the](/zh/post/the/) internet was [a](/zh/post/a/) [revolutionary](/zh/post/revolutionary/) [change](/zh/post/change/) [in](/zh/post/in/) [communication](/zh/post/communication/)."
+- **名词**: 革命者；拥护革命的人。例如: "[Many](/zh/post/many/) [revolutionary](/zh/post/revolutionary/) leaders fought [for](/zh/post/for/) [their](/zh/post/their/) country's [independence](/zh/post/independence/)."
 
 ## 短语
-- "[revolutionary](/post/revolutionary/) [change](/post/change/)" 意指重大变革或彻底的改变。
-- "[revolutionary](/post/revolutionary/) ideas" 指的是具有开创性和颠覆性的思想或理论。
+- "[revolutionary](/zh/post/revolutionary/) [change](/zh/post/change/)" 意指重大变革或彻底的改变。
+- "[revolutionary](/zh/post/revolutionary/) ideas" 指的是具有开创性和颠覆性的思想或理论。
 
 ## 例句
-- 形容词: "[The](/post/the/) [new](/post/new/) [technology](/post/technology/) has brought [about](/post/about/) [a](/post/a/) [revolutionary](/post/revolutionary/) [improvement](/post/improvement/) [in](/post/in/) productivity."
-- 名词: "[He](/post/he/) was considered [a](/post/a/) [dangerous](/post/dangerous/) [revolutionary](/post/revolutionary/) [by](/post/by/) [the](/post/the/) ruling [government](/post/government/)."
+- 形容词: "[The](/zh/post/the/) [new](/zh/post/new/) [technology](/zh/post/technology/) has brought [about](/zh/post/about/) [a](/zh/post/a/) [revolutionary](/zh/post/revolutionary/) [improvement](/zh/post/improvement/) [in](/zh/post/in/) productivity."
+- 名词: "[He](/zh/post/he/) was considered [a](/zh/post/a/) [dangerous](/zh/post/dangerous/) [revolutionary](/zh/post/revolutionary/) [by](/zh/post/by/) [the](/zh/post/the/) ruling [government](/zh/post/government/)."
 
 ## 同义词
 - Innovative
-- [Progressive](/post/progressive/)
+- [Progressive](/zh/post/progressive/)
 - Radical
 - Transformative
 - Pioneering

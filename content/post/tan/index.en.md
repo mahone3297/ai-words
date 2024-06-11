@@ -7,35 +7,35 @@ description = '[tæn] n.棕褐色 a.棕黄色的'
 keywords = ['ai words', 'tan']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tæn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Tan](/en/post/tan/)** ([noun](/en/post/noun/)): [A](/en/post/a/) suntan [or](/en/post/or/) [a](/en/post/a/) brownish discoloration [of](/en/post/of/) [the](/en/post/the/) [skin](/en/post/skin/) resulting [from](/en/post/from/) [exposure](/en/post/exposure/) [to](/en/post/to/) [sunlight](/en/post/sunlight/) [or](/en/post/or/) [artificial](/en/post/artificial/) UV [radiation](/en/post/radiation/).
-- **[Tan](/en/post/tan/) [leather](/en/post/leather/)**: [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [leather](/en/post/leather/) [with](/en/post/with/) [a](/en/post/a/) [brown](/en/post/brown/), sun-baked [appearance](/en/post/appearance/).
+### [Noun](/post/noun/)
+- **[Tan](/post/tan/)** ([noun](/post/noun/)): [A](/post/a/) suntan [or](/post/or/) [a](/post/a/) brownish discoloration [of](/post/of/) [the](/post/the/) [skin](/post/skin/) resulting [from](/post/from/) [exposure](/post/exposure/) [to](/post/to/) [sunlight](/post/sunlight/) [or](/post/or/) [artificial](/post/artificial/) UV [radiation](/post/radiation/).
+- **[Tan](/post/tan/) [leather](/post/leather/)**: [A](/post/a/) [type](/post/type/) [of](/post/of/) [leather](/post/leather/) [with](/post/with/) [a](/post/a/) [brown](/post/brown/), sun-baked [appearance](/post/appearance/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [tan](/en/post/tan/)** ([verb](/en/post/verb/)):
-  - (1) [To](/en/post/to/) darken [or](/en/post/or/) [brown](/en/post/brown/) one's [skin](/en/post/skin/) [through](/en/post/through/) [exposure](/en/post/exposure/) [to](/en/post/to/) [sunlight](/en/post/sunlight/) [or](/en/post/or/) tanning beds.
-  - (2) (transitive) [To](/en/post/to/) [treat](/en/post/treat/) [leather](/en/post/leather/) [or](/en/post/or/) [fabric](/en/post/fabric/) [with](/en/post/with/) chemicals [to](/en/post/to/) [give](/en/post/give/) [it](/en/post/it/) [a](/en/post/a/) brownish [color](/en/post/color/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [tan](/post/tan/)** ([verb](/post/verb/)):
+  - (1) [To](/post/to/) darken [or](/post/or/) [brown](/post/brown/) one's [skin](/post/skin/) [through](/post/through/) [exposure](/post/exposure/) [to](/post/to/) [sunlight](/post/sunlight/) [or](/post/or/) tanning beds.
+  - (2) (transitive) [To](/post/to/) [treat](/post/treat/) [leather](/post/leather/) [or](/post/or/) [fabric](/post/fabric/) [with](/post/with/) chemicals [to](/post/to/) [give](/post/give/) [it](/post/it/) [a](/post/a/) brownish [color](/post/color/).
 
-### [Adjective](/en/post/adjective/)
-- **[Tan](/en/post/tan/)** ([adjective](/en/post/adjective/)): Having [a](/en/post/a/) brownish-yellow [color](/en/post/color/), typically associated [with](/en/post/with/) sun-baked [skin](/en/post/skin/) [or](/en/post/or/) [leather](/en/post/leather/).
+### [Adjective](/post/adjective/)
+- **[Tan](/post/tan/)** ([adjective](/post/adjective/)): Having [a](/post/a/) brownish-yellow [color](/post/color/), typically associated [with](/post/with/) sun-baked [skin](/post/skin/) [or](/post/or/) [leather](/post/leather/).
 
 ## Phrases
-- "[Get](/en/post/get/) [a](/en/post/a/) [tan](/en/post/tan/)" [means](/en/post/means/) [to](/en/post/to/) deliberately [expose](/en/post/expose/) [oneself](/en/post/oneself/) [to](/en/post/to/) [sunlight](/en/post/sunlight/) [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) suntan.
-- "[Maintain](/en/post/maintain/) [a](/en/post/a/) [tan](/en/post/tan/)" refers [to](/en/post/to/) keeping [a](/en/post/a/) suntan [after](/en/post/after/) [initial](/en/post/initial/) [exposure](/en/post/exposure/).
-- "[Tan](/en/post/tan/) lines" are [the](/en/post/the/) lighter [or](/en/post/or/) darker patches [on](/en/post/on/) [the](/en/post/the/) [skin](/en/post/skin/) [where](/en/post/where/) [clothing](/en/post/clothing/) covers [during](/en/post/during/) [sun](/en/post/sun/) [exposure](/en/post/exposure/).
+- "[Get](/post/get/) [a](/post/a/) [tan](/post/tan/)" [means](/post/means/) [to](/post/to/) deliberately [expose](/post/expose/) [oneself](/post/oneself/) [to](/post/to/) [sunlight](/post/sunlight/) [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) suntan.
+- "[Maintain](/post/maintain/) [a](/post/a/) [tan](/post/tan/)" refers [to](/post/to/) keeping [a](/post/a/) suntan [after](/post/after/) [initial](/post/initial/) [exposure](/post/exposure/).
+- "[Tan](/post/tan/) lines" are [the](/post/the/) lighter [or](/post/or/) darker patches [on](/post/on/) [the](/post/the/) [skin](/post/skin/) [where](/post/where/) [clothing](/post/clothing/) covers [during](/post/during/) [sun](/post/sun/) [exposure](/post/exposure/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) spending [a](/en/post/a/) [week](/en/post/week/) [at](/en/post/at/) [the](/en/post/the/) [beach](/en/post/beach/), [her](/en/post/her/) [skin](/en/post/skin/) had [a](/en/post/a/) [beautiful](/en/post/beautiful/) [tan](/en/post/tan/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [tan](/en/post/tan/) [naturally](/en/post/naturally/) [by](/en/post/by/) going [for](/en/post/for/) [daily](/en/post/daily/) walks [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [leather](/en/post/leather/) sofa had [a](/en/post/a/) [rich](/en/post/rich/), [tan](/en/post/tan/) patina [from](/en/post/from/) years [of](/en/post/of/) [use](/en/post/use/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) spending [a](/post/a/) [week](/post/week/) [at](/post/at/) [the](/post/the/) [beach](/post/beach/), [her](/post/her/) [skin](/post/skin/) had [a](/post/a/) [beautiful](/post/beautiful/) [tan](/post/tan/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [tan](/post/tan/) [naturally](/post/naturally/) [by](/post/by/) going [for](/post/for/) [daily](/post/daily/) walks [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [leather](/post/leather/) sofa had [a](/post/a/) [rich](/post/rich/), [tan](/post/tan/) patina [from](/post/from/) years [of](/post/of/) [use](/post/use/)."
 
 ## Synonyms
-- Browned ([for](/en/post/for/) [skin](/en/post/skin/))
-- Leathered ([for](/en/post/for/) [leather](/en/post/leather/))
-- Sunburnt ([negative](/en/post/negative/) connotation)
-- Bronzed ([for](/en/post/for/) [a](/en/post/a/) desired suntan)
-- Faded [tan](/en/post/tan/) (implying [loss](/en/post/loss/) [of](/en/post/of/) [color](/en/post/color/))
+- Browned ([for](/post/for/) [skin](/post/skin/))
+- Leathered ([for](/post/for/) [leather](/post/leather/))
+- Sunburnt ([negative](/post/negative/) connotation)
+- Bronzed ([for](/post/for/) [a](/post/a/) desired suntan)
+- Faded [tan](/post/tan/) (implying [loss](/post/loss/) [of](/post/of/) [color](/post/color/))

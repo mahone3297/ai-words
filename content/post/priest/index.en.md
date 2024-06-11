@@ -7,33 +7,33 @@ description = '[priːst] n.教士，牧师，神父'
 keywords = ['ai words', 'priest']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪs't/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [male](/en/post/male/) [religious](/en/post/religious/) [leader](/en/post/leader/), typically [one](/en/post/one/) [who](/en/post/who/) is ordained, [who](/en/post/who/) performs [religious](/en/post/religious/) duties [in](/en/post/in/) [a](/en/post/a/) Christian [church](/en/post/church/), [especially](/en/post/especially/) [a](/en/post/a/) Catholic [or](/en/post/or/) Anglican [one](/en/post/one/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [perform](/en/post/perform/) [the](/en/post/the/) duties [of](/en/post/of/) [a](/en/post/a/) [priest](/en/post/priest/), [usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) [religious](/en/post/religious/) context.
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) relating [to](/en/post/to/) [a](/en/post/a/) [priest](/en/post/priest/).
+- **[Noun](/post/noun/)**: [A](/post/a/) [male](/post/male/) [religious](/post/religious/) [leader](/post/leader/), typically [one](/post/one/) [who](/post/who/) is ordained, [who](/post/who/) performs [religious](/post/religious/) duties [in](/post/in/) [a](/post/a/) Christian [church](/post/church/), [especially](/post/especially/) [a](/post/a/) Catholic [or](/post/or/) Anglican [one](/post/one/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [perform](/post/perform/) [the](/post/the/) duties [of](/post/of/) [a](/post/a/) [priest](/post/priest/), [usually](/post/usually/) [in](/post/in/) [a](/post/a/) [religious](/post/religious/) context.
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) relating [to](/post/to/) [a](/post/a/) [priest](/post/priest/).
 
 ## Phrases
-- "Priestly duties" refers [to](/en/post/to/) [the](/en/post/the/) responsibilities [of](/en/post/of/) [a](/en/post/a/) [priest](/en/post/priest/).
-- "[A](/en/post/a/) priest's robes" are [the](/en/post/the/) [traditional](/en/post/traditional/) [clothing](/en/post/clothing/) worn [by](/en/post/by/) [a](/en/post/a/) [priest](/en/post/priest/) [during](/en/post/during/) [religious](/en/post/religious/) ceremonies.
-- "[Take](/en/post/take/) [holy](/en/post/holy/) orders" is [the](/en/post/the/) [ceremony](/en/post/ceremony/) [by](/en/post/by/) [which](/en/post/which/) [a](/en/post/a/) [man](/en/post/man/) becomes [a](/en/post/a/) [priest](/en/post/priest/).
+- "Priestly duties" refers [to](/post/to/) [the](/post/the/) responsibilities [of](/post/of/) [a](/post/a/) [priest](/post/priest/).
+- "[A](/post/a/) priest's robes" are [the](/post/the/) [traditional](/post/traditional/) [clothing](/post/clothing/) worn [by](/post/by/) [a](/post/a/) [priest](/post/priest/) [during](/post/during/) [religious](/post/religious/) ceremonies.
+- "[Take](/post/take/) [holy](/post/holy/) orders" is [the](/post/the/) [ceremony](/post/ceremony/) [by](/post/by/) [which](/post/which/) [a](/post/a/) [man](/post/man/) becomes [a](/post/a/) [priest](/post/priest/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [priest](/en/post/priest/) offered [a](/en/post/a/) [prayer](/en/post/prayer/) [before](/en/post/before/) [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [the](/en/post/the/) [service](/en/post/service/)."
-- **[Verb](/en/post/verb/)**: "[Father](/en/post/father/) John has been [a](/en/post/a/) [priest](/en/post/priest/) [for](/en/post/for/) [over](/en/post/over/) 20 years."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) priestly calmness [he](/en/post/he/) displayed [during](/en/post/during/) [the](/en/post/the/) [crisis](/en/post/crisis/) was inspiring."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [priest](/post/priest/) offered [a](/post/a/) [prayer](/post/prayer/) [before](/post/before/) [the](/post/the/) [start](/post/start/) [of](/post/of/) [the](/post/the/) [service](/post/service/)."
+- **[Verb](/post/verb/)**: "[Father](/post/father/) John has been [a](/post/a/) [priest](/post/priest/) [for](/post/for/) [over](/post/over/) 20 years."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) priestly calmness [he](/post/he/) displayed [during](/post/during/) [the](/post/the/) [crisis](/post/crisis/) was inspiring."
 
 ## Synonyms
-- [Minister](/en/post/minister/) (Christian)
+- [Minister](/post/minister/) (Christian)
 - Clergyman
 - Priesthood
 - Chaplain
-- [Religious](/en/post/religious/) [leader](/en/post/leader/)
+- [Religious](/post/religious/) [leader](/post/leader/)
 
 ## Related Words
 - Deacon
 - Bishop
-- Rabbi ([Jewish](/en/post/jewish/) [equivalent](/en/post/equivalent/))
-- Imam (Muslim [equivalent](/en/post/equivalent/))
+- Rabbi ([Jewish](/post/jewish/) [equivalent](/post/equivalent/))
+- Imam (Muslim [equivalent](/post/equivalent/))

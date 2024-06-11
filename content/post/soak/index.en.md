@@ -7,40 +7,40 @@ description = '[səuk] vt.浸，泡 vi.浸泡'
 keywords = ['ai words', 'soak']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /oʊk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Soak](/en/post/soak/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) immersing [something](/en/post/something/) [in](/en/post/in/) [liquid](/en/post/liquid/), [often](/en/post/often/) [water](/en/post/water/), [for](/en/post/for/) an extended [period](/en/post/period/), [to](/en/post/to/) [clean](/en/post/clean/), [absorb](/en/post/absorb/), [or](/en/post/or/) soften [it](/en/post/it/). [Example](/en/post/example/): "[The](/en/post/the/) [fabric](/en/post/fabric/) soaked [up](/en/post/up/) [the](/en/post/the/) [water](/en/post/water/) [quickly](/en/post/quickly/)."
-- **Soaking** ([noun](/en/post/noun/)): [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [wet](/en/post/wet/) [or](/en/post/or/) submerged [in](/en/post/in/) [liquid](/en/post/liquid/), typically [for](/en/post/for/) [a](/en/post/a/) [long](/en/post/long/) [time](/en/post/time/). [Example](/en/post/example/): "[The](/en/post/the/) [ground](/en/post/ground/) was [still](/en/post/still/) soaking [from](/en/post/from/) [the](/en/post/the/) [recent](/en/post/recent/) [rain](/en/post/rain/)."
+### [Noun](/post/noun/)
+- **[Soak](/post/soak/)** ([noun](/post/noun/)): [The](/post/the/) [act](/post/act/) [of](/post/of/) immersing [something](/post/something/) [in](/post/in/) [liquid](/post/liquid/), [often](/post/often/) [water](/post/water/), [for](/post/for/) an extended [period](/post/period/), [to](/post/to/) [clean](/post/clean/), [absorb](/post/absorb/), [or](/post/or/) soften [it](/post/it/). [Example](/post/example/): "[The](/post/the/) [fabric](/post/fabric/) soaked [up](/post/up/) [the](/post/the/) [water](/post/water/) [quickly](/post/quickly/)."
+- **Soaking** ([noun](/post/noun/)): [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [wet](/post/wet/) [or](/post/or/) submerged [in](/post/in/) [liquid](/post/liquid/), typically [for](/post/for/) [a](/post/a/) [long](/post/long/) [time](/post/time/). [Example](/post/example/): "[The](/post/the/) [ground](/post/ground/) was [still](/post/still/) soaking [from](/post/from/) [the](/post/the/) [recent](/post/recent/) [rain](/post/rain/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [soak](/en/post/soak/)** ([verb](/en/post/verb/)): [To](/en/post/to/) immerse [or](/en/post/or/) [submerge](/en/post/submerge/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [liquid](/en/post/liquid/), [usually](/en/post/usually/) [for](/en/post/for/) cleaning [or](/en/post/or/) [to](/en/post/to/) [allow](/en/post/allow/) absorption. [Example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [soak](/en/post/soak/) [these](/en/post/these/) dishes [before](/en/post/before/) washing [them](/en/post/them/)."
-- **[To](/en/post/to/) [be](/en/post/be/) soaked** ([verb](/en/post/verb/)): [To](/en/post/to/) [experience](/en/post/experience/) [being](/en/post/being/) [wet](/en/post/wet/) [or](/en/post/or/) saturated [with](/en/post/with/) [liquid](/en/post/liquid/). [Example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) rainstorm, [we](/en/post/we/) were soaked [to](/en/post/to/) [the](/en/post/the/) [bone](/en/post/bone/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [soak](/post/soak/)** ([verb](/post/verb/)): [To](/post/to/) immerse [or](/post/or/) [submerge](/post/submerge/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [liquid](/post/liquid/), [usually](/post/usually/) [for](/post/for/) cleaning [or](/post/or/) [to](/post/to/) [allow](/post/allow/) absorption. [Example](/post/example/): "I [need](/post/need/) [to](/post/to/) [soak](/post/soak/) [these](/post/these/) dishes [before](/post/before/) washing [them](/post/them/)."
+- **[To](/post/to/) [be](/post/be/) soaked** ([verb](/post/verb/)): [To](/post/to/) [experience](/post/experience/) [being](/post/being/) [wet](/post/wet/) [or](/post/or/) saturated [with](/post/with/) [liquid](/post/liquid/). [Example](/post/example/): "[After](/post/after/) [the](/post/the/) rainstorm, [we](/post/we/) were soaked [to](/post/to/) [the](/post/the/) [bone](/post/bone/)."
 
-### [Adjective](/en/post/adjective/)
-- **Saturated** ([adjective](/en/post/adjective/)): Describing [something](/en/post/something/) [that](/en/post/that/) has absorbed [as](/en/post/as/) [much](/en/post/much/) [liquid](/en/post/liquid/) [as](/en/post/as/) [possible](/en/post/possible/); fully soaked. [Example](/en/post/example/): "[The](/en/post/the/) [sponge](/en/post/sponge/) was [completely](/en/post/completely/) saturated [with](/en/post/with/) [water](/en/post/water/)."
+### [Adjective](/post/adjective/)
+- **Saturated** ([adjective](/post/adjective/)): Describing [something](/post/something/) [that](/post/that/) has absorbed [as](/post/as/) [much](/post/much/) [liquid](/post/liquid/) [as](/post/as/) [possible](/post/possible/); fully soaked. [Example](/post/example/): "[The](/post/the/) [sponge](/post/sponge/) was [completely](/post/completely/) saturated [with](/post/with/) [water](/post/water/)."
 
 ## Phrases
-- "[Soak](/en/post/soak/) [in](/en/post/in/) [the](/en/post/the/) [sun](/en/post/sun/)" [means](/en/post/means/) [to](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/) [in](/en/post/in/) [the](/en/post/the/) [warmth](/en/post/warmth/) [of](/en/post/of/) [the](/en/post/the/) [sun](/en/post/sun/).
-- "Soaked [to](/en/post/to/) [the](/en/post/the/) [bone](/en/post/bone/)" is an idiomatic [expression](/en/post/expression/) [for](/en/post/for/) [being](/en/post/being/) [extremely](/en/post/extremely/) [wet](/en/post/wet/).
-- "[A](/en/post/a/) [soak](/en/post/soak/) [in](/en/post/in/) [the](/en/post/the/) bathtub" refers [to](/en/post/to/) [a](/en/post/a/) relaxing [bath](/en/post/bath/).
+- "[Soak](/post/soak/) [in](/post/in/) [the](/post/the/) [sun](/post/sun/)" [means](/post/means/) [to](/post/to/) [spend](/post/spend/) [time](/post/time/) [in](/post/in/) [the](/post/the/) [warmth](/post/warmth/) [of](/post/of/) [the](/post/the/) [sun](/post/sun/).
+- "Soaked [to](/post/to/) [the](/post/the/) [bone](/post/bone/)" is an idiomatic [expression](/post/expression/) [for](/post/for/) [being](/post/being/) [extremely](/post/extremely/) [wet](/post/wet/).
+- "[A](/post/a/) [soak](/post/soak/) [in](/post/in/) [the](/post/the/) bathtub" refers [to](/post/to/) [a](/post/a/) relaxing [bath](/post/bath/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) needed [a](/en/post/a/) [thorough](/en/post/thorough/) [soak](/en/post/soak/) [after](/en/post/after/) years [of](/en/post/of/) [neglect](/en/post/neglect/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [soak](/en/post/soak/) [her](/en/post/her/) feet [in](/en/post/in/) [warm](/en/post/warm/) [water](/en/post/water/) [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [carpet](/en/post/carpet/) was [so](/en/post/so/) saturated [with](/en/post/with/) cleaning [solution](/en/post/solution/) [that](/en/post/that/) [it](/en/post/it/) took hours [to](/en/post/to/) [dry](/en/post/dry/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [house](/post/house/) needed [a](/post/a/) [thorough](/post/thorough/) [soak](/post/soak/) [after](/post/after/) years [of](/post/of/) [neglect](/post/neglect/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [soak](/post/soak/) [her](/post/her/) feet [in](/post/in/) [warm](/post/warm/) [water](/post/water/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [carpet](/post/carpet/) was [so](/post/so/) saturated [with](/post/with/) cleaning [solution](/post/solution/) [that](/post/that/) [it](/post/it/) took hours [to](/post/to/) [dry](/post/dry/)."
 
 ## Synonyms
 - Immerse
-- [Soak](/en/post/soak/) [through](/en/post/through/)
+- [Soak](/post/soak/) [through](/post/through/)
 - Drench
 - Imbibe
-- [Absorb](/en/post/absorb/)
+- [Absorb](/post/absorb/)
 
 ## Antonyms
-- [Dry](/en/post/dry/)
-- [Expose](/en/post/expose/) [to](/en/post/to/) [air](/en/post/air/)
+- [Dry](/post/dry/)
+- [Expose](/post/expose/) [to](/post/to/) [air](/post/air/)
 - Rinse
-- [Evaporate](/en/post/evaporate/)
+- [Evaporate](/post/evaporate/)

@@ -7,37 +7,37 @@ description = '[siksθ] num.第六；六分之一'
 keywords = ['ai words', 'sixth']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪksθ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [The](/en/post/the/) [number](/en/post/number/) [that](/en/post/that/) comes [after](/en/post/after/) [the](/en/post/the/) [fifth](/en/post/fifth/) [and](/en/post/and/) [before](/en/post/before/) [the](/en/post/the/) [eighth](/en/post/eighth/) [in](/en/post/in/) [the](/en/post/the/) [series](/en/post/series/) [of](/en/post/of/) [whole](/en/post/whole/) numbers.
-- [In](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) ranking, [the](/en/post/the/) [position](/en/post/position/) [that](/en/post/that/) is [the](/en/post/the/) [sixth](/en/post/sixth/) [from](/en/post/from/) [the](/en/post/the/) [beginning](/en/post/beginning/) [or](/en/post/or/) [end](/en/post/end/).
+### [Noun](/post/noun/)
+- [The](/post/the/) [number](/post/number/) [that](/post/that/) comes [after](/post/after/) [the](/post/the/) [fifth](/post/fifth/) [and](/post/and/) [before](/post/before/) [the](/post/the/) [eighth](/post/eighth/) [in](/post/in/) [the](/post/the/) [series](/post/series/) [of](/post/of/) [whole](/post/whole/) numbers.
+- [In](/post/in/) [a](/post/a/) [series](/post/series/) [or](/post/or/) ranking, [the](/post/the/) [position](/post/position/) [that](/post/that/) is [the](/post/the/) [sixth](/post/sixth/) [from](/post/from/) [the](/post/the/) [beginning](/post/beginning/) [or](/post/or/) [end](/post/end/).
 - Abbreviation: 6th
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [occupy](/en/post/occupy/) [the](/en/post/the/) [sixth](/en/post/sixth/) [place](/en/post/place/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) [sequence](/en/post/sequence/).
-- [To](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [sixth](/en/post/sixth/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) [order](/en/post/order/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [occupy](/post/occupy/) [the](/post/the/) [sixth](/post/sixth/) [place](/post/place/) [in](/post/in/) [a](/post/a/) [series](/post/series/) [or](/post/or/) [sequence](/post/sequence/).
+- [To](/post/to/) [be](/post/be/) [the](/post/the/) [sixth](/post/sixth/) [in](/post/in/) [a](/post/a/) [series](/post/series/) [or](/post/or/) [order](/post/order/).
 
 ## Phrases
-- "[The](/en/post/the/) [sixth](/en/post/sixth/) [sense](/en/post/sense/)" refers [to](/en/post/to/) an alleged [ability](/en/post/ability/) [beyond](/en/post/beyond/) [the](/en/post/the/) [five](/en/post/five/) [traditional](/en/post/traditional/) senses.
-- "[In](/en/post/in/) [the](/en/post/the/) [sixth](/en/post/sixth/) [grade](/en/post/grade/)" indicates [the](/en/post/the/) [level](/en/post/level/) [of](/en/post/of/) [education](/en/post/education/) typically [for](/en/post/for/) students aged [around](/en/post/around/) 11 [or](/en/post/or/) 12.
-- "[Sixth](/en/post/sixth/) [form](/en/post/form/)" (UK) [or](/en/post/or/) "[junior](/en/post/junior/) [year](/en/post/year/)" ([US](/en/post/us/)) refers [to](/en/post/to/) [the](/en/post/the/) [final](/en/post/final/) [year](/en/post/year/) [of](/en/post/of/) [secondary](/en/post/secondary/) [education](/en/post/education/).
+- "[The](/post/the/) [sixth](/post/sixth/) [sense](/post/sense/)" refers [to](/post/to/) an alleged [ability](/post/ability/) [beyond](/post/beyond/) [the](/post/the/) [five](/post/five/) [traditional](/post/traditional/) senses.
+- "[In](/post/in/) [the](/post/the/) [sixth](/post/sixth/) [grade](/post/grade/)" indicates [the](/post/the/) [level](/post/level/) [of](/post/of/) [education](/post/education/) typically [for](/post/for/) students aged [around](/post/around/) 11 [or](/post/or/) 12.
+- "[Sixth](/post/sixth/) [form](/post/form/)" (UK) [or](/post/or/) "[junior](/post/junior/) [year](/post/year/)" ([US](/post/us/)) refers [to](/post/to/) [the](/post/the/) [final](/post/final/) [year](/post/year/) [of](/post/of/) [secondary](/post/secondary/) [education](/post/education/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was [proud](/en/post/proud/) [of](/en/post/of/) [being](/en/post/being/) [the](/en/post/the/) [sixth](/en/post/sixth/) [person](/en/post/person/) [to](/en/post/to/) [climb](/en/post/climb/) [Mount](/en/post/mount/) Everest."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [five](/en/post/five/) years [of](/en/post/of/) [practice](/en/post/practice/), [he](/en/post/he/) [finally](/en/post/finally/) reached [the](/en/post/the/) [sixth](/en/post/sixth/) [position](/en/post/position/) [in](/en/post/in/) [the](/en/post/the/) [competition](/en/post/competition/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sixth](/en/post/sixth/) [book](/en/post/book/) [in](/en/post/in/) [the](/en/post/the/) [series](/en/post/series/) is [my](/en/post/my/) favorite."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was [proud](/post/proud/) [of](/post/of/) [being](/post/being/) [the](/post/the/) [sixth](/post/sixth/) [person](/post/person/) [to](/post/to/) [climb](/post/climb/) [Mount](/post/mount/) Everest."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [five](/post/five/) years [of](/post/of/) [practice](/post/practice/), [he](/post/he/) [finally](/post/finally/) reached [the](/post/the/) [sixth](/post/sixth/) [position](/post/position/) [in](/post/in/) [the](/post/the/) [competition](/post/competition/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sixth](/post/sixth/) [book](/post/book/) [in](/post/in/) [the](/post/the/) [series](/post/series/) is [my](/post/my/) favorite."
 
 ## Synonyms
-- [Number](/en/post/number/) [six](/en/post/six/)
+- [Number](/post/number/) [six](/post/six/)
 - Sixthly
-- [Rank](/en/post/rank/) [six](/en/post/six/)
-- [Sequence](/en/post/sequence/) [six](/en/post/six/)
+- [Rank](/post/rank/) [six](/post/six/)
+- [Sequence](/post/sequence/) [six](/post/six/)
 
 ## Antonyms
-- [First](/en/post/first/)
-- [Second](/en/post/second/)
-- [Seventh](/en/post/seventh/)
-- [Eighth](/en/post/eighth/)
+- [First](/post/first/)
+- [Second](/post/second/)
+- [Seventh](/post/seventh/)
+- [Eighth](/post/eighth/)

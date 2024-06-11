@@ -7,32 +7,32 @@ description = '[disˈpait] prep.不管，不顾'
 keywords = ['ai words', 'despite']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈspaɪt/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Despite](/en/post/despite/) [the](/en/post/the/) [fact](/en/post/fact/) [or](/en/post/or/) [in](/en/post/in/) spite [of](/en/post/of/); [in](/en/post/in/) [the](/en/post/the/) [face](/en/post/face/) [of](/en/post/of/). [It](/en/post/it/) shows [that](/en/post/that/) [something](/en/post/something/) [unexpected](/en/post/unexpected/) [or](/en/post/or/) [contrary](/en/post/contrary/) happens [in](/en/post/in/) [the](/en/post/the/) context.
+- **[Adverb](/post/adverb/)**: [Despite](/post/despite/) [the](/post/the/) [fact](/post/fact/) [or](/post/or/) [in](/post/in/) spite [of](/post/of/); [in](/post/in/) [the](/post/the/) [face](/post/face/) [of](/post/of/). [It](/post/it/) shows [that](/post/that/) [something](/post/something/) [unexpected](/post/unexpected/) [or](/post/or/) [contrary](/post/contrary/) happens [in](/post/in/) [the](/post/the/) context.
 
 ## Phrases
-- "[Despite](/en/post/despite/) [the](/en/post/the/) [rain](/en/post/rain/), [we](/en/post/we/) went [for](/en/post/for/) [a](/en/post/a/) [walk](/en/post/walk/)."
-- "[Despite](/en/post/despite/) [her](/en/post/her/) [age](/en/post/age/), [she](/en/post/she/) maintained an [active](/en/post/active/) lifestyle."
-- "[Despite](/en/post/despite/) [their](/en/post/their/) differences, [they](/en/post/they/) remained friends."
+- "[Despite](/post/despite/) [the](/post/the/) [rain](/post/rain/), [we](/post/we/) went [for](/post/for/) [a](/post/a/) [walk](/post/walk/)."
+- "[Despite](/post/despite/) [her](/post/her/) [age](/post/age/), [she](/post/she/) maintained an [active](/post/active/) lifestyle."
+- "[Despite](/post/despite/) [their](/post/their/) differences, [they](/post/they/) remained friends."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) studied [hard](/en/post/hard/) [despite](/en/post/despite/) [his](/en/post/his/) [lack](/en/post/lack/) [of](/en/post/of/) [interest](/en/post/interest/) [in](/en/post/in/) [the](/en/post/the/) [subject](/en/post/subject/)."
-- "[Despite](/en/post/despite/) [the](/en/post/the/) [long](/en/post/long/) [day](/en/post/day/), [she](/en/post/she/) managed [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/)."
-- "[Despite](/en/post/despite/) [the](/en/post/the/) warnings, [many](/en/post/many/) [people](/en/post/people/) [still](/en/post/still/) ignored [the](/en/post/the/) risks."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) studied [hard](/post/hard/) [despite](/post/despite/) [his](/post/his/) [lack](/post/lack/) [of](/post/of/) [interest](/post/interest/) [in](/post/in/) [the](/post/the/) [subject](/post/subject/)."
+- "[Despite](/post/despite/) [the](/post/the/) [long](/post/long/) [day](/post/day/), [she](/post/she/) managed [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/)."
+- "[Despite](/post/despite/) [the](/post/the/) warnings, [many](/post/many/) [people](/post/people/) [still](/post/still/) ignored [the](/post/the/) risks."
 
 ## Synonyms
-- [In](/en/post/in/) spite [of](/en/post/of/)
-- [Regardless](/en/post/regardless/) [of](/en/post/of/)
+- [In](/post/in/) spite [of](/post/of/)
+- [Regardless](/post/regardless/) [of](/post/of/)
 - Albeit
-- [Though](/en/post/though/)
-- [Even](/en/post/even/) [though](/en/post/though/)
-- [Regardless](/en/post/regardless/)
+- [Though](/post/though/)
+- [Even](/post/even/) [though](/post/though/)
+- [Regardless](/post/regardless/)
 
 ## Antonyms
-- [Because](/en/post/because/) [of](/en/post/of/)
-- [Consequently](/en/post/consequently/)
-- [As](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/)
-- Taking [into](/en/post/into/) [account](/en/post/account/)
+- [Because](/post/because/) [of](/post/of/)
+- [Consequently](/post/consequently/)
+- [As](/post/as/) [a](/post/a/) [result](/post/result/)
+- Taking [into](/post/into/) [account](/post/account/)

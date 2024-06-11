@@ -11,20 +11,20 @@ keywords = ['ai words', 'nobody']
 /ˈnəʊbədi/
 
 ## 释义
-- **代词**: 没有人，没有任何人。表示否定或强调无人。例如: "There's [nobody](/post/nobody/) [in](/post/in/) [the](/post/the/) [room](/post/room/)."
-- **名词**: 不重要的人，无足轻重的人物。例如: "[She](/post/she/) [thought](/post/thought/) [he](/post/he/) was [just](/post/just/) [a](/post/a/) [nobody](/post/nobody/), [but](/post/but/) [he](/post/he/) turned [out](/post/out/) [to](/post/to/) [be](/post/be/) [a](/post/a/) [famous](/post/famous/) [author](/post/author/)."
+- **代词**: 没有人，没有任何人。表示否定或强调无人。例如: "There's [nobody](/zh/post/nobody/) [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/)."
+- **名词**: 不重要的人，无足轻重的人物。例如: "[She](/zh/post/she/) [thought](/zh/post/thought/) [he](/zh/post/he/) was [just](/zh/post/just/) [a](/zh/post/a/) [nobody](/zh/post/nobody/), [but](/zh/post/but/) [he](/zh/post/he/) turned [out](/zh/post/out/) [to](/zh/post/to/) [be](/zh/post/be/) [a](/zh/post/a/) [famous](/zh/post/famous/) [author](/zh/post/author/)."
 
 ## 短语
-- "[Not](/post/not/) [a](/post/a/) [soul](/post/soul/)/[nobody](/post/nobody/) [else](/post/else/)" 意为除了自己之外没有任何人。
-- "Don't [worry](/post/worry/), nobody's [perfect](/post/perfect/)." 表示每个人都有缺点。
+- "[Not](/zh/post/not/) [a](/zh/post/a/) [soul](/zh/post/soul/)/[nobody](/zh/post/nobody/) [else](/zh/post/else/)" 意为除了自己之外没有任何人。
+- "Don't [worry](/zh/post/worry/), nobody's [perfect](/zh/post/perfect/)." 表示每个人都有缺点。
 
 ## 例句
-- 代词: "I shouted, [but](/post/but/) [there](/post/there/) was [nobody](/post/nobody/) [around](/post/around/) [to](/post/to/) [hear](/post/hear/) [me](/post/me/)."
-- 名词: "[In](/post/in/) [the](/post/the/) [beginning](/post/beginning/), [he](/post/he/) felt [like](/post/like/) [a](/post/a/) [nobody](/post/nobody/), [but](/post/but/) [his](/post/his/) [hard](/post/hard/) [work](/post/work/) changed [that](/post/that/)."
+- 代词: "I shouted, [but](/zh/post/but/) [there](/zh/post/there/) was [nobody](/zh/post/nobody/) [around](/zh/post/around/) [to](/zh/post/to/) [hear](/zh/post/hear/) [me](/zh/post/me/)."
+- 名词: "[In](/zh/post/in/) [the](/zh/post/the/) [beginning](/zh/post/beginning/), [he](/zh/post/he/) felt [like](/zh/post/like/) [a](/zh/post/a/) [nobody](/zh/post/nobody/), [but](/zh/post/but/) [his](/zh/post/his/) [hard](/zh/post/hard/) [work](/zh/post/work/) changed [that](/zh/post/that/)."
 
 ## 同义词
-- [None](/post/none/)
-- [No](/post/no/) [one](/post/one/)
-- [Not](/post/not/) [a](/post/a/) [single](/post/single/) [person](/post/person/)
-- [Not](/post/not/) [anyone](/post/anyone/)
-- [Not](/post/not/) [a](/post/a/) [soul](/post/soul/)
+- [None](/zh/post/none/)
+- [No](/zh/post/no/) [one](/zh/post/one/)
+- [Not](/zh/post/not/) [a](/zh/post/a/) [single](/zh/post/single/) [person](/zh/post/person/)
+- [Not](/zh/post/not/) [anyone](/zh/post/anyone/)
+- [Not](/zh/post/not/) [a](/zh/post/a/) [soul](/zh/post/soul/)

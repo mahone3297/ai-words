@@ -11,17 +11,17 @@ keywords = ['ai words', 'these']
 /ðiːz/
 
 ## 释义
-- **代词**: 这些，指示复数形式，指代近处的或已提及的一组人或事物。例如: "[These](/post/these/) books [on](/post/on/) [the](/post/the/) [table](/post/table/) are [mine](/post/mine/)."
-- **形容词**: （与复数名词连用）这些的，表示特定的复数事物。例如: "[These](/post/these/) apples are [fresh](/post/fresh/) [from](/post/from/) [the](/post/the/) [farm](/post/farm/)."
+- **代词**: 这些，指示复数形式，指代近处的或已提及的一组人或事物。例如: "[These](/zh/post/these/) books [on](/zh/post/on/) [the](/zh/post/the/) [table](/zh/post/table/) are [mine](/zh/post/mine/)."
+- **形容词**: （与复数名词连用）这些的，表示特定的复数事物。例如: "[These](/zh/post/these/) apples are [fresh](/zh/post/fresh/) [from](/zh/post/from/) [the](/zh/post/the/) [farm](/zh/post/farm/)."
 
 ## 短语
-- "[These](/post/these/) days" 意为现在，当前。例如: "[These](/post/these/) days, [people](/post/people/) [rely](/post/rely/) [more](/post/more/) [on](/post/on/) [technology](/post/technology/)."
-- "[These](/post/these/) things" 用来指代前面提到过的一些事物。例如: "[We](/post/we/) [should](/post/should/) [be](/post/be/) [careful](/post/careful/) [with](/post/with/) [these](/post/these/) things."
+- "[These](/zh/post/these/) days" 意为现在，当前。例如: "[These](/zh/post/these/) days, [people](/zh/post/people/) [rely](/zh/post/rely/) [more](/zh/post/more/) [on](/zh/post/on/) [technology](/zh/post/technology/)."
+- "[These](/zh/post/these/) things" 用来指代前面提到过的一些事物。例如: "[We](/zh/post/we/) [should](/zh/post/should/) [be](/zh/post/be/) [careful](/zh/post/careful/) [with](/zh/post/with/) [these](/zh/post/these/) things."
 
 ## 例句
-- 代词: "[These](/post/these/) children are [very](/post/very/) talented [in](/post/in/) [music](/post/music/)."
-- 形容词: "[These](/post/these/) [particular](/post/particular/) flowers [require](/post/require/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [sunlight](/post/sunlight/)."
+- 代词: "[These](/zh/post/these/) children are [very](/zh/post/very/) talented [in](/zh/post/in/) [music](/zh/post/music/)."
+- 形容词: "[These](/zh/post/these/) [particular](/zh/post/particular/) flowers [require](/zh/post/require/) [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) [sunlight](/zh/post/sunlight/)."
 
 ## 同义词
-- [Those](/post/those/) (反义词，指远处的或已提及的复数人或事物)
-- [Such](/post/such/) (在某些语境下可作为同义词，但使用时需谨慎)
+- [Those](/zh/post/those/) (反义词，指远处的或已提及的复数人或事物)
+- [Such](/zh/post/such/) (在某些语境下可作为同义词，但使用时需谨慎)

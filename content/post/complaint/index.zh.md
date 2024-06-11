@@ -11,20 +11,20 @@ keywords = ['ai words', 'complaint']
 /complɪˈant/
 
 ## 释义
-- **名词**: 投诉，抱怨，不满。例如: "[She](/post/she/) had [several](/post/several/) complaints [about](/post/about/) [the](/post/the/) [service](/post/service/)."
-- **动词**: 表示投诉，抱怨。例如: "[He](/post/he/) complained [about](/post/about/) [the](/post/the/) [noise](/post/noise/) [outside](/post/outside/)."
+- **名词**: 投诉，抱怨，不满。例如: "[She](/zh/post/she/) had [several](/zh/post/several/) complaints [about](/zh/post/about/) [the](/zh/post/the/) [service](/zh/post/service/)."
+- **动词**: 表示投诉，抱怨。例如: "[He](/zh/post/he/) complained [about](/zh/post/about/) [the](/zh/post/the/) [noise](/zh/post/noise/) [outside](/zh/post/outside/)."
 
 ## 短语
-- "[make](/post/make/) [a](/post/a/) [complaint](/post/complaint/)" 提出投诉。
-- "[complaint](/post/complaint/) [department](/post/department/)" 投诉部门。
+- "[make](/zh/post/make/) [a](/zh/post/a/) [complaint](/zh/post/complaint/)" 提出投诉。
+- "[complaint](/zh/post/complaint/) [department](/zh/post/department/)" 投诉部门。
 
 ## 例句
-- 名词: "[The](/post/the/) [company](/post/company/) received [numerous](/post/numerous/) complaints [about](/post/about/) [their](/post/their/) [new](/post/new/) [product](/post/product/)."
-- 动词: "[He](/post/he/) complained [to](/post/to/) [the](/post/the/) manager [about](/post/about/) [the](/post/the/) [cold](/post/cold/) [food](/post/food/)."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) received [numerous](/zh/post/numerous/) complaints [about](/zh/post/about/) [their](/zh/post/their/) [new](/zh/post/new/) [product](/zh/post/product/)."
+- 动词: "[He](/zh/post/he/) complained [to](/zh/post/to/) [the](/zh/post/the/) manager [about](/zh/post/about/) [the](/zh/post/the/) [cold](/zh/post/cold/) [food](/zh/post/food/)."
 
 ## 同义词
 - grievance
-- [protest](/post/protest/)
+- [protest](/zh/post/protest/)
 - grumble
-- [moan](/post/moan/)
+- [moan](/zh/post/moan/)
 - whine

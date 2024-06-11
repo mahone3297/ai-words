@@ -7,27 +7,27 @@ description = '[ˈlaiən] n.狮子；勇猛的人'
 keywords = ['ai words', 'lion']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlaɪən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/), typically tawny-yellow [cat](/en/post/cat/) [with](/en/post/with/) [a](/en/post/a/) tufted [tail](/en/post/tail/) [and](/en/post/and/), [in](/en/post/in/) [the](/en/post/the/) [male](/en/post/male/), [a](/en/post/a/) shaggy mane, [native](/en/post/native/) [to](/en/post/to/) [Africa](/en/post/africa/) [and](/en/post/and/) [southern](/en/post/southern/) [Asia](/en/post/asia/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lion](/en/post/lion/) is known [as](/en/post/as/) [the](/en/post/the/) [king](/en/post/king/) [of](/en/post/of/) [the](/en/post/the/) [jungle](/en/post/jungle/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/), typically tawny-yellow [cat](/post/cat/) [with](/post/with/) [a](/post/a/) tufted [tail](/post/tail/) [and](/post/and/), [in](/post/in/) [the](/post/the/) [male](/post/male/), [a](/post/a/) shaggy mane, [native](/post/native/) [to](/post/to/) [Africa](/post/africa/) [and](/post/and/) [southern](/post/southern/) [Asia](/post/asia/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lion](/post/lion/) is known [as](/post/as/) [the](/post/the/) [king](/post/king/) [of](/post/of/) [the](/post/the/) [jungle](/post/jungle/)."
 
 ### Phrases
-- "Lion's [share](/en/post/share/)": [A](/en/post/a/) [substantial](/en/post/substantial/) [portion](/en/post/portion/) [or](/en/post/or/) [the](/en/post/the/) largest [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) took [the](/en/post/the/) lion's [share](/en/post/share/) [of](/en/post/of/) [the](/en/post/the/) profits."
-- "[Lie](/en/post/lie/) [like](/en/post/like/) [a](/en/post/a/) [lion](/en/post/lion/)": [To](/en/post/to/) [sleep](/en/post/sleep/) soundly [or](/en/post/or/) [for](/en/post/for/) [a](/en/post/a/) [long](/en/post/long/) [time](/en/post/time/). ([This](/en/post/this/) [phrase](/en/post/phrase/) is [less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/).)
-- "[The](/en/post/the/) lion's den": [A](/en/post/a/) [situation](/en/post/situation/) [that](/en/post/that/) is [difficult](/en/post/difficult/) [or](/en/post/or/) [dangerous](/en/post/dangerous/), [often](/en/post/often/) metaphorically referring [to](/en/post/to/) facing one's fears [or](/en/post/or/) opponents [directly](/en/post/directly/). [For](/en/post/for/) [example](/en/post/example/): "Appearing [before](/en/post/before/) [the](/en/post/the/) [board](/en/post/board/) [of](/en/post/of/) directors was [like](/en/post/like/) entering [the](/en/post/the/) lion's den."
+- "Lion's [share](/post/share/)": [A](/post/a/) [substantial](/post/substantial/) [portion](/post/portion/) [or](/post/or/) [the](/post/the/) largest [part](/post/part/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) took [the](/post/the/) lion's [share](/post/share/) [of](/post/of/) [the](/post/the/) profits."
+- "[Lie](/post/lie/) [like](/post/like/) [a](/post/a/) [lion](/post/lion/)": [To](/post/to/) [sleep](/post/sleep/) soundly [or](/post/or/) [for](/post/for/) [a](/post/a/) [long](/post/long/) [time](/post/time/). ([This](/post/this/) [phrase](/post/phrase/) is [less](/post/less/) [commonly](/post/commonly/) [used](/post/used/).)
+- "[The](/post/the/) lion's den": [A](/post/a/) [situation](/post/situation/) [that](/post/that/) is [difficult](/post/difficult/) [or](/post/or/) [dangerous](/post/dangerous/), [often](/post/often/) metaphorically referring [to](/post/to/) facing one's fears [or](/post/or/) opponents [directly](/post/directly/). [For](/post/for/) [example](/post/example/): "Appearing [before](/post/before/) [the](/post/the/) [board](/post/board/) [of](/post/of/) directors was [like](/post/like/) entering [the](/post/the/) lion's den."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [pride](/en/post/pride/) [of](/en/post/of/) lions roamed [across](/en/post/across/) [the](/en/post/the/) savannah [in](/en/post/in/) [search](/en/post/search/) [of](/en/post/of/) prey."
-- "[In](/en/post/in/) [many](/en/post/many/) cultures, [the](/en/post/the/) [lion](/en/post/lion/) symbolizes [strength](/en/post/strength/) [and](/en/post/and/) [courage](/en/post/courage/)."
-- "[She](/en/post/she/) had [a](/en/post/a/) [pet](/en/post/pet/) [lion](/en/post/lion/) cub [when](/en/post/when/) [she](/en/post/she/) worked [as](/en/post/as/) [a](/en/post/a/) wildlife conservationist."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [pride](/post/pride/) [of](/post/of/) lions roamed [across](/post/across/) [the](/post/the/) savannah [in](/post/in/) [search](/post/search/) [of](/post/of/) prey."
+- "[In](/post/in/) [many](/post/many/) cultures, [the](/post/the/) [lion](/post/lion/) symbolizes [strength](/post/strength/) [and](/post/and/) [courage](/post/courage/)."
+- "[She](/post/she/) had [a](/post/a/) [pet](/post/pet/) [lion](/post/lion/) cub [when](/post/when/) [she](/post/she/) worked [as](/post/as/) [a](/post/a/) wildlife conservationist."
 
 ## Synonyms
-- Leo ([in](/en/post/in/) astrology)
-- Panthera leo ([scientific](/en/post/scientific/) [name](/en/post/name/))
-- [King](/en/post/king/) [of](/en/post/of/) beasts
-- [Big](/en/post/big/) [cat](/en/post/cat/)
-- [Royal](/en/post/royal/) Bengal [tiger](/en/post/tiger/) ([a](/en/post/a/) related species) 
+- Leo ([in](/post/in/) astrology)
+- Panthera leo ([scientific](/post/scientific/) [name](/post/name/))
+- [King](/post/king/) [of](/post/of/) beasts
+- [Big](/post/big/) [cat](/post/cat/)
+- [Royal](/post/royal/) Bengal [tiger](/post/tiger/) ([a](/post/a/) related species) 
 
-[Note](/en/post/note/): [While](/en/post/while/) synonyms [might](/en/post/might/) [not](/en/post/not/) [be](/en/post/be/) [direct](/en/post/direct/) replacements [for](/en/post/for/) "[lion](/en/post/lion/)" [in](/en/post/in/) [all](/en/post/all/) contexts [due](/en/post/due/) [to](/en/post/to/) differences [in](/en/post/in/) [meaning](/en/post/meaning/) [and](/en/post/and/) [usage](/en/post/usage/), [they](/en/post/they/) [can](/en/post/can/) connote [similar](/en/post/similar/) characteristics [or](/en/post/or/) associations. [For](/en/post/for/) [instance](/en/post/instance/), "[big](/en/post/big/) [cat](/en/post/cat/)" refers generically [to](/en/post/to/) [large](/en/post/large/) predatory cats, [which](/en/post/which/) includes lions, [while](/en/post/while/) "[Royal](/en/post/royal/) Bengal [tiger](/en/post/tiger/)" is [another](/en/post/another/) [large](/en/post/large/) feline predator [but](/en/post/but/) [a](/en/post/a/) [different](/en/post/different/) species. [The](/en/post/the/) [term](/en/post/term/) "[king](/en/post/king/) [of](/en/post/of/) beasts" emphasizes [the](/en/post/the/) lion's symbolic [status](/en/post/status/) [as](/en/post/as/) [a](/en/post/a/) [powerful](/en/post/powerful/) [and](/en/post/and/) regal [creature](/en/post/creature/).
+[Note](/post/note/): [While](/post/while/) synonyms [might](/post/might/) [not](/post/not/) [be](/post/be/) [direct](/post/direct/) replacements [for](/post/for/) "[lion](/post/lion/)" [in](/post/in/) [all](/post/all/) contexts [due](/post/due/) [to](/post/to/) differences [in](/post/in/) [meaning](/post/meaning/) [and](/post/and/) [usage](/post/usage/), [they](/post/they/) [can](/post/can/) connote [similar](/post/similar/) characteristics [or](/post/or/) associations. [For](/post/for/) [instance](/post/instance/), "[big](/post/big/) [cat](/post/cat/)" refers generically [to](/post/to/) [large](/post/large/) predatory cats, [which](/post/which/) includes lions, [while](/post/while/) "[Royal](/post/royal/) Bengal [tiger](/post/tiger/)" is [another](/post/another/) [large](/post/large/) feline predator [but](/post/but/) [a](/post/a/) [different](/post/different/) species. [The](/post/the/) [term](/post/term/) "[king](/post/king/) [of](/post/of/) beasts" emphasizes [the](/post/the/) lion's symbolic [status](/post/status/) [as](/post/as/) [a](/post/a/) [powerful](/post/powerful/) [and](/post/and/) regal [creature](/post/creature/).

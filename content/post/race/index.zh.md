@@ -11,23 +11,23 @@ keywords = ['ai words', 'race']
 /rеɪs/
 
 ## 释义
-- **名词**: 1. 种族，人类的种族群体。例如: "[People](/post/people/) [of](/post/of/) [different](/post/different/) races [live](/post/live/) [together](/post/together/) [in](/post/in/) [this](/post/this/) [city](/post/city/)."
-   2. 比赛，竞赛。例如: "[The](/post/the/) marathon is [a](/post/a/) long-distance running [race](/post/race/)."
-   3. 种类，类别。例如: "[There](/post/there/) are [various](/post/various/) [car](/post/car/) models [from](/post/from/) [different](/post/different/) races."
+- **名词**: 1. 种族，人类的种族群体。例如: "[People](/zh/post/people/) [of](/zh/post/of/) [different](/zh/post/different/) races [live](/zh/post/live/) [together](/zh/post/together/) [in](/zh/post/in/) [this](/zh/post/this/) [city](/zh/post/city/)."
+   2. 比赛，竞赛。例如: "[The](/zh/post/the/) marathon is [a](/zh/post/a/) long-distance running [race](/zh/post/race/)."
+   3. 种类，类别。例如: "[There](/zh/post/there/) are [various](/zh/post/various/) [car](/zh/post/car/) models [from](/zh/post/from/) [different](/zh/post/different/) races."
 
-- **动词**: 参加比赛。例如: "[He](/post/he/) raced [his](/post/his/) friends [to](/post/to/) [the](/post/the/) [finish](/post/finish/) [line](/post/line/)."
+- **动词**: 参加比赛。例如: "[He](/zh/post/he/) raced [his](/zh/post/his/) friends [to](/zh/post/to/) [the](/zh/post/the/) [finish](/zh/post/finish/) [line](/zh/post/line/)."
 
 ## 短语
-- "[Race](/post/race/) [against](/post/against/) [time](/post/time/)" 在限定时间内行动或完成任务。例如: "[They](/post/they/) were racing [against](/post/against/) [time](/post/time/) [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [project](/post/project/)."
-- "Races [of](/post/of/) [the](/post/the/) [world](/post/world/)" 指世界上的各种种族。
+- "[Race](/zh/post/race/) [against](/zh/post/against/) [time](/zh/post/time/)" 在限定时间内行动或完成任务。例如: "[They](/zh/post/they/) were racing [against](/zh/post/against/) [time](/zh/post/time/) [to](/zh/post/to/) [complete](/zh/post/complete/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- "Races [of](/zh/post/of/) [the](/zh/post/the/) [world](/zh/post/world/)" 指世界上的各种种族。
 
 ## 例句
-- 名词: "[The](/post/the/) Olympic Games [bring](/post/bring/) [together](/post/together/) athletes [from](/post/from/) [all](/post/all/) races."
-- 动词: "[She](/post/she/) decided [to](/post/to/) [race](/post/race/) [her](/post/her/) [brother](/post/brother/) [to](/post/to/) [the](/post/the/) [park](/post/park/)."
+- 名词: "[The](/zh/post/the/) Olympic Games [bring](/zh/post/bring/) [together](/zh/post/together/) athletes [from](/zh/post/from/) [all](/zh/post/all/) races."
+- 动词: "[She](/zh/post/she/) decided [to](/zh/post/to/) [race](/zh/post/race/) [her](/zh/post/her/) [brother](/zh/post/brother/) [to](/zh/post/to/) [the](/zh/post/the/) [park](/zh/post/park/)."
 
 ## 同义词
-- [Competition](/post/competition/)
-- [Contest](/post/contest/)
-- [Run](/post/run/)
+- [Competition](/zh/post/competition/)
+- [Contest](/zh/post/contest/)
+- [Run](/zh/post/run/)
 - Sprint
-- [Battle](/post/battle/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) contests [or](/post/or/) sports)
+- [Battle](/zh/post/battle/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) contests [or](/zh/post/or/) sports)

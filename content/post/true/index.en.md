@@ -7,31 +7,31 @@ description = '[truː] a.真的；忠实的'
 keywords = ['ai words', 'true']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /truː/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterizing [or](/en/post/or/) conforming [to](/en/post/to/) [fact](/en/post/fact/) [or](/en/post/or/) [reality](/en/post/reality/); [genuine](/en/post/genuine/); authentic. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [true](/en/post/true/) [story](/en/post/story/) [behind](/en/post/behind/) [the](/en/post/the/) [event](/en/post/event/)."
-- **[Adjective](/en/post/adjective/)**: Conforming [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [standard](/en/post/standard/) [or](/en/post/or/) [principle](/en/post/principle/); [real](/en/post/real/), [honest](/en/post/honest/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [true](/en/post/true/) [friend](/en/post/friend/) sticks [with](/en/post/with/) [you](/en/post/you/) [through](/en/post/through/) [thick](/en/post/thick/) [and](/en/post/and/) [thin](/en/post/thin/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) an [accurate](/en/post/accurate/) [or](/en/post/or/) [exact](/en/post/exact/) [manner](/en/post/manner/); correctly. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) told [the](/en/post/the/) [true](/en/post/true/) [story](/en/post/story/) [without](/en/post/without/) [any](/en/post/any/) embellishments."
-- **Interjection**: Expressing [agreement](/en/post/agreement/), affirmation, [or](/en/post/or/) sincerity; "[Yes](/en/post/yes/), that's [true](/en/post/true/)." 
+- **[Adjective](/post/adjective/)**: Characterizing [or](/post/or/) conforming [to](/post/to/) [fact](/post/fact/) [or](/post/or/) [reality](/post/reality/); [genuine](/post/genuine/); authentic. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [true](/post/true/) [story](/post/story/) [behind](/post/behind/) [the](/post/the/) [event](/post/event/)."
+- **[Adjective](/post/adjective/)**: Conforming [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [standard](/post/standard/) [or](/post/or/) [principle](/post/principle/); [real](/post/real/), [honest](/post/honest/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [true](/post/true/) [friend](/post/friend/) sticks [with](/post/with/) [you](/post/you/) [through](/post/through/) [thick](/post/thick/) [and](/post/and/) [thin](/post/thin/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) an [accurate](/post/accurate/) [or](/post/or/) [exact](/post/exact/) [manner](/post/manner/); correctly. [For](/post/for/) [example](/post/example/): "[He](/post/he/) told [the](/post/the/) [true](/post/true/) [story](/post/story/) [without](/post/without/) [any](/post/any/) embellishments."
+- **Interjection**: Expressing [agreement](/post/agreement/), affirmation, [or](/post/or/) sincerity; "[Yes](/post/yes/), that's [true](/post/true/)." 
 
 ## Phrases
-- "[Tell](/en/post/tell/) [the](/en/post/the/) [truth](/en/post/truth/)" [means](/en/post/means/) [to](/en/post/to/) [speak](/en/post/speak/) honestly [or](/en/post/or/) accurately.
-- "[True](/en/post/true/) [love](/en/post/love/)" refers [to](/en/post/to/) [a](/en/post/a/) [deep](/en/post/deep/), [genuine](/en/post/genuine/) [emotional](/en/post/emotional/) [connection](/en/post/connection/).
-- "[On](/en/post/on/) [the](/en/post/the/) [true](/en/post/true/) [side](/en/post/side/)" signifies [being](/en/post/being/) [honest](/en/post/honest/) [or](/en/post/or/) [genuine](/en/post/genuine/).
+- "[Tell](/post/tell/) [the](/post/the/) [truth](/post/truth/)" [means](/post/means/) [to](/post/to/) [speak](/post/speak/) honestly [or](/post/or/) accurately.
+- "[True](/post/true/) [love](/post/love/)" refers [to](/post/to/) [a](/post/a/) [deep](/post/deep/), [genuine](/post/genuine/) [emotional](/post/emotional/) [connection](/post/connection/).
+- "[On](/post/on/) [the](/post/the/) [true](/post/true/) [side](/post/side/)" signifies [being](/post/being/) [honest](/post/honest/) [or](/post/or/) [genuine](/post/genuine/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [account](/en/post/account/) [of](/en/post/of/) [the](/en/post/the/) [event](/en/post/event/) was [truly](/en/post/truly/) [remarkable](/en/post/remarkable/)."
-- **[Adverb](/en/post/adverb/)**: "[After](/en/post/after/) [thorough](/en/post/thorough/) [research](/en/post/research/), [his](/en/post/his/) [conclusion](/en/post/conclusion/) was [indeed](/en/post/indeed/) [true](/en/post/true/)."
-- **Interjection**: "[True](/en/post/true/), I [have](/en/post/have/) [never](/en/post/never/) been [to](/en/post/to/) Paris [before](/en/post/before/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [account](/post/account/) [of](/post/of/) [the](/post/the/) [event](/post/event/) was [truly](/post/truly/) [remarkable](/post/remarkable/)."
+- **[Adverb](/post/adverb/)**: "[After](/post/after/) [thorough](/post/thorough/) [research](/post/research/), [his](/post/his/) [conclusion](/post/conclusion/) was [indeed](/post/indeed/) [true](/post/true/)."
+- **Interjection**: "[True](/post/true/), I [have](/post/have/) [never](/post/never/) been [to](/post/to/) Paris [before](/post/before/)."
 
 ## Synonyms
-- [Actual](/en/post/actual/)
+- [Actual](/post/actual/)
 - Authentic
 - Candid
-- [Genuine](/en/post/genuine/)
-- [Accurate](/en/post/accurate/)
-- [Right](/en/post/right/)
-- [Correct](/en/post/correct/)
+- [Genuine](/post/genuine/)
+- [Accurate](/post/accurate/)
+- [Right](/post/right/)
+- [Correct](/post/correct/)
 - Truthful

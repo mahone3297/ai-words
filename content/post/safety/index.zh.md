@@ -11,21 +11,21 @@ keywords = ['ai words', 'safety']
 /səˈfeɪti/
 
 ## 释义
-- **名词**: 安全；平安。指没有危险、伤害或事故的状态。例如: "[The](/post/the/) [primary](/post/primary/) [concern](/post/concern/) [of](/post/of/) [the](/post/the/) [company](/post/company/) is [the](/post/the/) [safety](/post/safety/) [of](/post/of/) [its](/post/its/) employees."
-- **形容词**: 安全的；无害的。形容事物不会造成危险或伤害。例如: "It's [important](/post/important/) [to](/post/to/) [use](/post/use/) [safety](/post/safety/) [equipment](/post/equipment/) [when](/post/when/) working [with](/post/with/) machinery."
+- **名词**: 安全；平安。指没有危险、伤害或事故的状态。例如: "[The](/zh/post/the/) [primary](/zh/post/primary/) [concern](/zh/post/concern/) [of](/zh/post/of/) [the](/zh/post/the/) [company](/zh/post/company/) is [the](/zh/post/the/) [safety](/zh/post/safety/) [of](/zh/post/of/) [its](/zh/post/its/) employees."
+- **形容词**: 安全的；无害的。形容事物不会造成危险或伤害。例如: "It's [important](/zh/post/important/) [to](/zh/post/to/) [use](/zh/post/use/) [safety](/zh/post/safety/) [equipment](/zh/post/equipment/) [when](/zh/post/when/) working [with](/zh/post/with/) machinery."
 
 ## 短语
-- "[safety](/post/safety/) measures" 安全措施
-- "[safety](/post/safety/) [net](/post/net/)" 安全网，保障措施
-- "[safety](/post/safety/) [first](/post/first/)" 安全第一
+- "[safety](/zh/post/safety/) measures" 安全措施
+- "[safety](/zh/post/safety/) [net](/zh/post/net/)" 安全网，保障措施
+- "[safety](/zh/post/safety/) [first](/zh/post/first/)" 安全第一
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [car](/post/car/) [model](/post/model/) has been designed [with](/post/with/) [advanced](/post/advanced/) [safety](/post/safety/) features."
-- 形容词: "[The](/post/the/) [toy](/post/toy/) passed [all](/post/all/) [safety](/post/safety/) tests [and](/post/and/) is [suitable](/post/suitable/) [for](/post/for/) children [under](/post/under/) [three](/post/three/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [car](/zh/post/car/) [model](/zh/post/model/) has been designed [with](/zh/post/with/) [advanced](/zh/post/advanced/) [safety](/zh/post/safety/) features."
+- 形容词: "[The](/zh/post/the/) [toy](/zh/post/toy/) passed [all](/zh/post/all/) [safety](/zh/post/safety/) tests [and](/zh/post/and/) is [suitable](/zh/post/suitable/) [for](/zh/post/for/) children [under](/zh/post/under/) [three](/zh/post/three/)."
 
 ## 同义词
-- [security](/post/security/)
-- [protection](/post/protection/)
+- [security](/zh/post/security/)
+- [protection](/zh/post/protection/)
 - safeguard
-- [shield](/post/shield/)
+- [shield](/zh/post/shield/)
 - defense

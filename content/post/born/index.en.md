@@ -7,34 +7,34 @@ description = '[bɔːn] a.天生的；出生的'
 keywords = ['ai words', 'born']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɔːrn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) [born](/en/post/born/); [the](/en/post/the/) [birth](/en/post/birth/). 2. [A](/en/post/a/) person's [date](/en/post/date/) [or](/en/post/or/) [place](/en/post/place/) [of](/en/post/of/) [birth](/en/post/birth/). 3. (informal) An [individual](/en/post/individual/) [who](/en/post/who/) was [born](/en/post/born/) [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [time](/en/post/time/) [or](/en/post/or/) [into](/en/post/into/) [a](/en/post/a/) [certain](/en/post/certain/) [situation](/en/post/situation/). 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [come](/en/post/come/) [into](/en/post/into/) [existence](/en/post/existence/); [to](/en/post/to/) [be](/en/post/be/) brought [into](/en/post/into/) [life](/en/post/life/), [especially](/en/post/especially/) [at](/en/post/at/) [birth](/en/post/birth/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) [being](/post/being/) [born](/post/born/); [the](/post/the/) [birth](/post/birth/). 2. [A](/post/a/) person's [date](/post/date/) [or](/post/or/) [place](/post/place/) [of](/post/of/) [birth](/post/birth/). 3. (informal) An [individual](/post/individual/) [who](/post/who/) was [born](/post/born/) [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [time](/post/time/) [or](/post/or/) [into](/post/into/) [a](/post/a/) [certain](/post/certain/) [situation](/post/situation/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [come](/post/come/) [into](/post/into/) [existence](/post/existence/); [to](/post/to/) [be](/post/be/) brought [into](/post/into/) [life](/post/life/), [especially](/post/especially/) [at](/post/at/) [birth](/post/birth/).
 
 ## Phrases
-- "[Born](/en/post/born/) [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [day](/en/post/day/)" refers [to](/en/post/to/) [the](/en/post/the/) [date](/en/post/date/) [of](/en/post/of/) [birth](/en/post/birth/).
-- "[Born](/en/post/born/) [with](/en/post/with/) [a](/en/post/a/) [talent](/en/post/talent/)" implies an innate [skill](/en/post/skill/).
-- "[Born](/en/post/born/) [into](/en/post/into/) [privilege](/en/post/privilege/)" signifies [a](/en/post/a/) [fortunate](/en/post/fortunate/) upbringing.
+- "[Born](/post/born/) [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [day](/post/day/)" refers [to](/post/to/) [the](/post/the/) [date](/post/date/) [of](/post/of/) [birth](/post/birth/).
+- "[Born](/post/born/) [with](/post/with/) [a](/post/a/) [talent](/post/talent/)" implies an innate [skill](/post/skill/).
+- "[Born](/post/born/) [into](/post/into/) [privilege](/post/privilege/)" signifies [a](/post/a/) [fortunate](/post/fortunate/) upbringing.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "John was [born](/en/post/born/) [on](/en/post/on/) [April](/en/post/april/) 4th, 1985."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) was [born](/en/post/born/) [with](/en/post/with/) [a](/en/post/a/) [natural](/en/post/natural/) [ability](/en/post/ability/) [to](/en/post/to/) [sing](/en/post/sing/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [baby](/en/post/baby/) was [born](/en/post/born/) [healthy](/en/post/healthy/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "John was [born](/post/born/) [on](/post/on/) [April](/post/april/) 4th, 1985."
+- **[Verb](/post/verb/)**: "[She](/post/she/) was [born](/post/born/) [with](/post/with/) [a](/post/a/) [natural](/post/natural/) [ability](/post/ability/) [to](/post/to/) [sing](/post/sing/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [baby](/post/baby/) was [born](/post/born/) [healthy](/post/healthy/)."
 
 ## Synonyms
-- [Born](/en/post/born/) ([no](/en/post/no/) synonyms, [as](/en/post/as/) [it](/en/post/it/) is an inherent [quality](/en/post/quality/) [or](/en/post/or/) [action](/en/post/action/))
+- [Born](/post/born/) ([no](/post/no/) synonyms, [as](/post/as/) [it](/post/it/) is an inherent [quality](/post/quality/) [or](/post/or/) [action](/post/action/))
 
 ## Derived Words
-- [Birth](/en/post/birth/)
+- [Birth](/post/birth/)
 - Natal
 - Progeny
 - Offspring
-- [Origin](/en/post/origin/)
+- [Origin](/post/origin/)
 
 ## Antonyms
-- [Dead](/en/post/dead/)
-- Unborn ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [not](/en/post/not/) [yet](/en/post/yet/) [born](/en/post/born/))
-- Posthumous (pertaining [to](/en/post/to/) [something](/en/post/something/) done [after](/en/post/after/) [death](/en/post/death/))
+- [Dead](/post/dead/)
+- Unborn ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [not](/post/not/) [yet](/post/yet/) [born](/post/born/))
+- Posthumous (pertaining [to](/post/to/) [something](/post/something/) done [after](/post/after/) [death](/post/death/))

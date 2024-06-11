@@ -7,33 +7,33 @@ description = '[ˈnaitrədʒən] n.氮'
 keywords = ['ai words', 'nitrogen']
 +++
 
-## [Nitrogen](/en/post/nitrogen/) - [Noun](/en/post/noun/) (n)
+## [Nitrogen](/post/nitrogen/) - [Noun](/post/noun/) (n)
 
-### [Pronunciation](/en/post/pronunciation/)
+### [Pronunciation](/post/pronunciation/)
 /ˈnaɪ.troʊ.ɡən/
 
 ### Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [chemical](/en/post/chemical/) [element](/en/post/element/) [with](/en/post/with/) [the](/en/post/the/) [symbol](/en/post/symbol/) N [and](/en/post/and/) [atomic](/en/post/atomic/) [number](/en/post/number/) 7. [It](/en/post/it/) is [a](/en/post/a/) colorless, odorless, tasteless [gas](/en/post/gas/) [that](/en/post/that/) constitutes [about](/en/post/about/) 78% [of](/en/post/of/) Earth's [atmosphere](/en/post/atmosphere/) [by](/en/post/by/) [volume](/en/post/volume/). [Nitrogen](/en/post/nitrogen/) is [essential](/en/post/essential/) [for](/en/post/for/) [all](/en/post/all/) [living](/en/post/living/) organisms, [being](/en/post/being/) [a](/en/post/a/) [key](/en/post/key/) [component](/en/post/component/) [of](/en/post/of/) amino acids, nucleic acids, [and](/en/post/and/) chlorophyll. [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [many](/en/post/many/) compounds [such](/en/post/such/) [as](/en/post/as/) proteins, DNA, [and](/en/post/and/) RNA.
+- **[Noun](/post/noun/)**: [A](/post/a/) [chemical](/post/chemical/) [element](/post/element/) [with](/post/with/) [the](/post/the/) [symbol](/post/symbol/) N [and](/post/and/) [atomic](/post/atomic/) [number](/post/number/) 7. [It](/post/it/) is [a](/post/a/) colorless, odorless, tasteless [gas](/post/gas/) [that](/post/that/) constitutes [about](/post/about/) 78% [of](/post/of/) Earth's [atmosphere](/post/atmosphere/) [by](/post/by/) [volume](/post/volume/). [Nitrogen](/post/nitrogen/) is [essential](/post/essential/) [for](/post/for/) [all](/post/all/) [living](/post/living/) organisms, [being](/post/being/) [a](/post/a/) [key](/post/key/) [component](/post/component/) [of](/post/of/) amino acids, nucleic acids, [and](/post/and/) chlorophyll. [It](/post/it/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [many](/post/many/) compounds [such](/post/such/) [as](/post/as/) proteins, DNA, [and](/post/and/) RNA.
 
-#### [Example](/en/post/example/) Sentences
-- _"Plants [obtain](/en/post/obtain/) [nitrogen](/en/post/nitrogen/) [from](/en/post/from/) [the](/en/post/the/) [soil](/en/post/soil/) [through](/en/post/through/) [their](/en/post/their/) roots [and](/en/post/and/) [convert](/en/post/convert/) [it](/en/post/it/) [into](/en/post/into/) [organic](/en/post/organic/) compounds."_
-- _"[The](/en/post/the/) [air](/en/post/air/) [we](/en/post/we/) [breathe](/en/post/breathe/) is [primarily](/en/post/primarily/) composed [of](/en/post/of/) [nitrogen](/en/post/nitrogen/) [and](/en/post/and/) oxygen gases."_
+#### [Example](/post/example/) Sentences
+- _"Plants [obtain](/post/obtain/) [nitrogen](/post/nitrogen/) [from](/post/from/) [the](/post/the/) [soil](/post/soil/) [through](/post/through/) [their](/post/their/) roots [and](/post/and/) [convert](/post/convert/) [it](/post/it/) [into](/post/into/) [organic](/post/organic/) compounds."_
+- _"[The](/post/the/) [air](/post/air/) [we](/post/we/) [breathe](/post/breathe/) is [primarily](/post/primarily/) composed [of](/post/of/) [nitrogen](/post/nitrogen/) [and](/post/and/) oxygen gases."_
   
 ### Phrases
-- _"[Nitrogen](/en/post/nitrogen/) fixation"_ refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [by](/en/post/by/) [which](/en/post/which/) [atmospheric](/en/post/atmospheric/) [nitrogen](/en/post/nitrogen/) is converted [into](/en/post/into/) [a](/en/post/a/) [form](/en/post/form/) [that](/en/post/that/) plants [can](/en/post/can/) [absorb](/en/post/absorb/) [and](/en/post/and/) [use](/en/post/use/).
-- _"Dissolved [nitrogen](/en/post/nitrogen/)"_ refers [to](/en/post/to/) [the](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [nitrogen](/en/post/nitrogen/) [present](/en/post/present/) [in](/en/post/in/) [a](/en/post/a/) [liquid](/en/post/liquid/) [solution](/en/post/solution/), [often](/en/post/often/) referring [to](/en/post/to/) [water](/en/post/water/) bodies affected [by](/en/post/by/) [pollution](/en/post/pollution/).
+- _"[Nitrogen](/post/nitrogen/) fixation"_ refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [by](/post/by/) [which](/post/which/) [atmospheric](/post/atmospheric/) [nitrogen](/post/nitrogen/) is converted [into](/post/into/) [a](/post/a/) [form](/post/form/) [that](/post/that/) plants [can](/post/can/) [absorb](/post/absorb/) [and](/post/and/) [use](/post/use/).
+- _"Dissolved [nitrogen](/post/nitrogen/)"_ refers [to](/post/to/) [the](/post/the/) [amount](/post/amount/) [of](/post/of/) [nitrogen](/post/nitrogen/) [present](/post/present/) [in](/post/in/) [a](/post/a/) [liquid](/post/liquid/) [solution](/post/solution/), [often](/post/often/) referring [to](/post/to/) [water](/post/water/) bodies affected [by](/post/by/) [pollution](/post/pollution/).
 
 ### Synonyms
 - Azote
 - Nitrigen
-- Elemental [nitrogen](/en/post/nitrogen/)
+- Elemental [nitrogen](/post/nitrogen/)
 
-### [Chemical](/en/post/chemical/) & [Scientific](/en/post/scientific/) [Usage](/en/post/usage/)
-- _Ammonia (NH₃)_, [a](/en/post/a/) [compound](/en/post/compound/) formed [from](/en/post/from/) [nitrogen](/en/post/nitrogen/) [and](/en/post/and/) [hydrogen](/en/post/hydrogen/), is [widely](/en/post/widely/) [used](/en/post/used/) [in](/en/post/in/) fertilizers [and](/en/post/and/) [industrial](/en/post/industrial/) chemicals.
-- _Nitrate (NO₃⁻)_, [a](/en/post/a/) nitrogen-containing ion, is crucial [for](/en/post/for/) [plant](/en/post/plant/) nutrition [and](/en/post/and/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [some](/en/post/some/) explosives [and](/en/post/and/) propellants.
-- _Nitrogen gas_ is [often](/en/post/often/) denoted [as](/en/post/as/) _N₂_ [in](/en/post/in/) [chemical](/en/post/chemical/) equations [and](/en/post/and/) contexts. 
+### [Chemical](/post/chemical/) & [Scientific](/post/scientific/) [Usage](/post/usage/)
+- _Ammonia (NH₃)_, [a](/post/a/) [compound](/post/compound/) formed [from](/post/from/) [nitrogen](/post/nitrogen/) [and](/post/and/) [hydrogen](/post/hydrogen/), is [widely](/post/widely/) [used](/post/used/) [in](/post/in/) fertilizers [and](/post/and/) [industrial](/post/industrial/) chemicals.
+- _Nitrate (NO₃⁻)_, [a](/post/a/) nitrogen-containing ion, is crucial [for](/post/for/) [plant](/post/plant/) nutrition [and](/post/and/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [some](/post/some/) explosives [and](/post/and/) propellants.
+- _Nitrogen gas_ is [often](/post/often/) denoted [as](/post/as/) _N₂_ [in](/post/in/) [chemical](/post/chemical/) equations [and](/post/and/) contexts. 
 
 ### Related Terms
-- [Nitrogen](/en/post/nitrogen/) [cycle](/en/post/cycle/): [The](/en/post/the/) [natural](/en/post/natural/) [process](/en/post/process/) [through](/en/post/through/) [which](/en/post/which/) [nitrogen](/en/post/nitrogen/) is converted [between](/en/post/between/) [its](/en/post/its/) [various](/en/post/various/) [chemical](/en/post/chemical/) forms [in](/en/post/in/) [the](/en/post/the/) [environment](/en/post/environment/).
-- Denitrification: [A](/en/post/a/) bacterial [process](/en/post/process/) [that](/en/post/that/) converts nitrates [back](/en/post/back/) [into](/en/post/into/) [nitrogen](/en/post/nitrogen/) [gas](/en/post/gas/), releasing [it](/en/post/it/) [into](/en/post/into/) [the](/en/post/the/) [atmosphere](/en/post/atmosphere/).
-- [Nitrogen](/en/post/nitrogen/) deficiency: [A](/en/post/a/) [condition](/en/post/condition/) [where](/en/post/where/) plants [do](/en/post/do/) [not](/en/post/not/) [have](/en/post/have/) [enough](/en/post/enough/) [available](/en/post/available/) [nitrogen](/en/post/nitrogen/) [for](/en/post/for/) [growth](/en/post/growth/) [and](/en/post/and/) reproduction.
+- [Nitrogen](/post/nitrogen/) [cycle](/post/cycle/): [The](/post/the/) [natural](/post/natural/) [process](/post/process/) [through](/post/through/) [which](/post/which/) [nitrogen](/post/nitrogen/) is converted [between](/post/between/) [its](/post/its/) [various](/post/various/) [chemical](/post/chemical/) forms [in](/post/in/) [the](/post/the/) [environment](/post/environment/).
+- Denitrification: [A](/post/a/) bacterial [process](/post/process/) [that](/post/that/) converts nitrates [back](/post/back/) [into](/post/into/) [nitrogen](/post/nitrogen/) [gas](/post/gas/), releasing [it](/post/it/) [into](/post/into/) [the](/post/the/) [atmosphere](/post/atmosphere/).
+- [Nitrogen](/post/nitrogen/) deficiency: [A](/post/a/) [condition](/post/condition/) [where](/post/where/) plants [do](/post/do/) [not](/post/not/) [have](/post/have/) [enough](/post/enough/) [available](/post/available/) [nitrogen](/post/nitrogen/) [for](/post/for/) [growth](/post/growth/) [and](/post/and/) reproduction.

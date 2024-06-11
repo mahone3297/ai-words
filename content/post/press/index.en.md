@@ -7,39 +7,39 @@ description = '[pres] vt.压，按，揿；催促'
 keywords = ['ai words', 'press']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɛs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) applying [pressure](/en/post/pressure/), [especially](/en/post/especially/) [with](/en/post/with/) [a](/en/post/a/) [tool](/en/post/tool/) [or](/en/post/or/) [device](/en/post/device/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [mechanic](/en/post/mechanic/) pressed [the](/en/post/the/) [brake](/en/post/brake/) pedal [to](/en/post/to/) [stop](/en/post/stop/) [the](/en/post/the/) [car](/en/post/car/)."
-2. [A](/en/post/a/) printing [establishment](/en/post/establishment/) [or](/en/post/or/) [newspaper](/en/post/newspaper/) [office](/en/post/office/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) worked [at](/en/post/at/) [a](/en/post/a/) [local](/en/post/local/) [newspaper](/en/post/newspaper/) [press](/en/post/press/)."
-3. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [under](/en/post/under/) [pressure](/en/post/pressure/); [stress](/en/post/stress/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) was [under](/en/post/under/) [immense](/en/post/immense/) [press](/en/post/press/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [on](/en/post/on/) [time](/en/post/time/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) applying [pressure](/post/pressure/), [especially](/post/especially/) [with](/post/with/) [a](/post/a/) [tool](/post/tool/) [or](/post/or/) [device](/post/device/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [mechanic](/post/mechanic/) pressed [the](/post/the/) [brake](/post/brake/) pedal [to](/post/to/) [stop](/post/stop/) [the](/post/the/) [car](/post/car/)."
+2. [A](/post/a/) printing [establishment](/post/establishment/) [or](/post/or/) [newspaper](/post/newspaper/) [office](/post/office/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) worked [at](/post/at/) [a](/post/a/) [local](/post/local/) [newspaper](/post/newspaper/) [press](/post/press/)."
+3. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [under](/post/under/) [pressure](/post/pressure/); [stress](/post/stress/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [team](/post/team/) was [under](/post/under/) [immense](/post/immense/) [press](/post/press/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [on](/post/on/) [time](/post/time/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [apply](/en/post/apply/) [force](/en/post/force/) [or](/en/post/or/) [pressure](/en/post/pressure/) [to](/en/post/to/) [something](/en/post/something/), causing [it](/en/post/it/) [to](/en/post/to/) deform [or](/en/post/or/) [move](/en/post/move/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) pressed [the](/en/post/the/) [button](/en/post/button/) [to](/en/post/to/) [start](/en/post/start/) [the](/en/post/the/) [machine](/en/post/machine/)."
-2. [To](/en/post/to/) [exert](/en/post/exert/) [influence](/en/post/influence/) [or](/en/post/or/) [demand](/en/post/demand/) ([on](/en/post/on/) [someone](/en/post/someone/)), [often](/en/post/often/) [in](/en/post/in/) [public](/en/post/public/) [or](/en/post/or/) media. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [politician](/en/post/politician/) was [under](/en/post/under/) [heavy](/en/post/heavy/) [press](/en/post/press/) [to](/en/post/to/) [address](/en/post/address/) [the](/en/post/the/) [issue](/en/post/issue/)."
-3. [To](/en/post/to/) [publish](/en/post/publish/), [print](/en/post/print/), [or](/en/post/or/) [distribute](/en/post/distribute/) newspapers [or](/en/post/or/) magazines. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [press](/en/post/press/) printed thousands [of](/en/post/of/) copies [this](/en/post/this/) [morning](/en/post/morning/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [apply](/post/apply/) [force](/post/force/) [or](/post/or/) [pressure](/post/pressure/) [to](/post/to/) [something](/post/something/), causing [it](/post/it/) [to](/post/to/) deform [or](/post/or/) [move](/post/move/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) pressed [the](/post/the/) [button](/post/button/) [to](/post/to/) [start](/post/start/) [the](/post/the/) [machine](/post/machine/)."
+2. [To](/post/to/) [exert](/post/exert/) [influence](/post/influence/) [or](/post/or/) [demand](/post/demand/) ([on](/post/on/) [someone](/post/someone/)), [often](/post/often/) [in](/post/in/) [public](/post/public/) [or](/post/or/) media. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [politician](/post/politician/) was [under](/post/under/) [heavy](/post/heavy/) [press](/post/press/) [to](/post/to/) [address](/post/address/) [the](/post/the/) [issue](/post/issue/)."
+3. [To](/post/to/) [publish](/post/publish/), [print](/post/print/), [or](/post/or/) [distribute](/post/distribute/) newspapers [or](/post/or/) magazines. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [press](/post/press/) printed thousands [of](/post/of/) copies [this](/post/this/) [morning](/post/morning/)."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) journalism [or](/en/post/or/) [the](/en/post/the/) media. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [press](/en/post/press/) [conference](/en/post/conference/) was attended [by](/en/post/by/) [several](/en/post/several/) journalists."
-2. [Urgent](/en/post/urgent/) [or](/en/post/or/) pressing. [For](/en/post/for/) [example](/en/post/example/): "There's [a](/en/post/a/) pressing [matter](/en/post/matter/) [that](/en/post/that/) needs [your](/en/post/your/) [attention](/en/post/attention/)."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) journalism [or](/post/or/) [the](/post/the/) media. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [press](/post/press/) [conference](/post/conference/) was attended [by](/post/by/) [several](/post/several/) journalists."
+2. [Urgent](/post/urgent/) [or](/post/or/) pressing. [For](/post/for/) [example](/post/example/): "There's [a](/post/a/) pressing [matter](/post/matter/) [that](/post/that/) needs [your](/post/your/) [attention](/post/attention/)."
 
 ## Phrases
-- "[Press](/en/post/press/) [down](/en/post/down/)" [means](/en/post/means/) [to](/en/post/to/) [apply](/en/post/apply/) [pressure](/en/post/pressure/) [with](/en/post/with/) [force](/en/post/force/).
-- "[Press](/en/post/press/) [release](/en/post/release/)" is [a](/en/post/a/) [statement](/en/post/statement/) issued [to](/en/post/to/) [the](/en/post/the/) media.
-- "[Under](/en/post/under/) [pressure](/en/post/pressure/)" describes [a](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [someone](/en/post/someone/) is experiencing [stress](/en/post/stress/) [or](/en/post/or/) demands.
+- "[Press](/post/press/) [down](/post/down/)" [means](/post/means/) [to](/post/to/) [apply](/post/apply/) [pressure](/post/pressure/) [with](/post/with/) [force](/post/force/).
+- "[Press](/post/press/) [release](/post/release/)" is [a](/post/a/) [statement](/post/statement/) issued [to](/post/to/) [the](/post/the/) media.
+- "[Under](/post/under/) [pressure](/post/pressure/)" describes [a](/post/a/) [situation](/post/situation/) [where](/post/where/) [someone](/post/someone/) is experiencing [stress](/post/stress/) [or](/post/or/) demands.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [carpenter](/en/post/carpenter/) carefully pressed [the](/en/post/the/) nails [into](/en/post/into/) [the](/en/post/the/) [wood](/en/post/wood/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [journalist](/en/post/journalist/) pressed [for](/en/post/for/) [more](/en/post/more/) [information](/en/post/information/) [about](/en/post/about/) [the](/en/post/the/) [story](/en/post/story/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [urgent](/en/post/urgent/) [press](/en/post/press/) [of](/en/post/of/) [work](/en/post/work/) [left](/en/post/left/) [her](/en/post/her/) [with](/en/post/with/) [no](/en/post/no/) [time](/en/post/time/) [for](/en/post/for/) [leisure](/en/post/leisure/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [carpenter](/post/carpenter/) carefully pressed [the](/post/the/) nails [into](/post/into/) [the](/post/the/) [wood](/post/wood/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [journalist](/post/journalist/) pressed [for](/post/for/) [more](/post/more/) [information](/post/information/) [about](/post/about/) [the](/post/the/) [story](/post/story/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [urgent](/post/urgent/) [press](/post/press/) [of](/post/of/) [work](/post/work/) [left](/post/left/) [her](/post/her/) [with](/post/with/) [no](/post/no/) [time](/post/time/) [for](/post/for/) [leisure](/post/leisure/)."
 
 ## Synonyms
-- [Impression](/en/post/impression/)
-- [Force](/en/post/force/)
-- [Influence](/en/post/influence/)
-- [Strain](/en/post/strain/)
+- [Impression](/post/impression/)
+- [Force](/post/force/)
+- [Influence](/post/influence/)
+- [Strain](/post/strain/)
 - Exertion
-- [Influence](/en/post/influence/) ([in](/en/post/in/) [a](/en/post/a/) media context)
+- [Influence](/post/influence/) ([in](/post/in/) [a](/post/a/) media context)
 - Urgency

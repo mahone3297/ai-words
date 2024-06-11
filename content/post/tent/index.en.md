@@ -7,34 +7,34 @@ description = '[tent] n.帐篷'
 keywords = ['ai words', 'tent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɛnt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[tent](/en/post/tent/)** ([noun](/en/post/noun/)) is [a](/en/post/a/) [portable](/en/post/portable/) [structure](/en/post/structure/) made [of](/en/post/of/) [fabric](/en/post/fabric/) [or](/en/post/or/) [other](/en/post/other/) [material](/en/post/material/), typically [with](/en/post/with/) poles [and](/en/post/and/) guy ropes, designed [to](/en/post/to/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [temporary](/en/post/temporary/) [shelter](/en/post/shelter/), [especially](/en/post/especially/) [outdoors](/en/post/outdoors/) camping [or](/en/post/or/) [for](/en/post/for/) events.
+### [Noun](/post/noun/)
+[A](/post/a/) **[tent](/post/tent/)** ([noun](/post/noun/)) is [a](/post/a/) [portable](/post/portable/) [structure](/post/structure/) made [of](/post/of/) [fabric](/post/fabric/) [or](/post/or/) [other](/post/other/) [material](/post/material/), typically [with](/post/with/) poles [and](/post/and/) guy ropes, designed [to](/post/to/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [temporary](/post/temporary/) [shelter](/post/shelter/), [especially](/post/especially/) [outdoors](/post/outdoors/) camping [or](/post/or/) [for](/post/for/) events.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[tent](/en/post/tent/)** ([verb](/en/post/verb/)) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [set](/en/post/set/) [up](/en/post/up/) [a](/en/post/a/) [tent](/en/post/tent/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [imply](/en/post/imply/) [to](/en/post/to/) [provide](/en/post/provide/) [temporary](/en/post/temporary/) [shelter](/en/post/shelter/) [or](/en/post/or/) [protection](/en/post/protection/) [for](/en/post/for/) [something](/en/post/something/), [like](/en/post/like/) "[to](/en/post/to/) [tent](/en/post/tent/) [a](/en/post/a/) wounded [animal](/en/post/animal/)."
+### [Verb](/post/verb/)
+[To](/post/to/) **[tent](/post/tent/)** ([verb](/post/verb/)) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [set](/post/set/) [up](/post/up/) [a](/post/a/) [tent](/post/tent/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [also](/post/also/) [imply](/post/imply/) [to](/post/to/) [provide](/post/provide/) [temporary](/post/temporary/) [shelter](/post/shelter/) [or](/post/or/) [protection](/post/protection/) [for](/post/for/) [something](/post/something/), [like](/post/like/) "[to](/post/to/) [tent](/post/tent/) [a](/post/a/) wounded [animal](/post/animal/)."
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) [some](/en/post/some/) cases, "tent-like" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) having [the](/en/post/the/) [appearance](/en/post/appearance/) [or](/en/post/or/) [shape](/en/post/shape/) [of](/en/post/of/) [a](/en/post/a/) [tent](/en/post/tent/).
+### [Adjective](/post/adjective/)
+[In](/post/in/) [some](/post/some/) cases, "tent-like" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) having [the](/post/the/) [appearance](/post/appearance/) [or](/post/or/) [shape](/post/shape/) [of](/post/of/) [a](/post/a/) [tent](/post/tent/).
 
 ## Phrases
-- "[Pitch](/en/post/pitch/) [a](/en/post/a/) [tent](/en/post/tent/)" [means](/en/post/means/) [to](/en/post/to/) [set](/en/post/set/) [up](/en/post/up/) [a](/en/post/a/) [tent](/en/post/tent/).
-- "[Tent](/en/post/tent/) [city](/en/post/city/)" refers [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [temporary](/en/post/temporary/) [settlement](/en/post/settlement/) [of](/en/post/of/) tents, [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [disaster](/en/post/disaster/) [relief](/en/post/relief/) areas [or](/en/post/or/) [music](/en/post/music/) festivals.
-- "[Under](/en/post/under/) [the](/en/post/the/) [tent](/en/post/tent/)" [can](/en/post/can/) signify [a](/en/post/a/) [private](/en/post/private/) [or](/en/post/or/) informal gathering.
+- "[Pitch](/post/pitch/) [a](/post/a/) [tent](/post/tent/)" [means](/post/means/) [to](/post/to/) [set](/post/set/) [up](/post/up/) [a](/post/a/) [tent](/post/tent/).
+- "[Tent](/post/tent/) [city](/post/city/)" refers [to](/post/to/) [a](/post/a/) [large](/post/large/) [temporary](/post/temporary/) [settlement](/post/settlement/) [of](/post/of/) tents, [often](/post/often/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [disaster](/post/disaster/) [relief](/post/relief/) areas [or](/post/or/) [music](/post/music/) festivals.
+- "[Under](/post/under/) [the](/post/the/) [tent](/post/tent/)" [can](/post/can/) signify [a](/post/a/) [private](/post/private/) [or](/post/or/) informal gathering.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) campers had [set](/en/post/set/) [up](/en/post/up/) [their](/en/post/their/) tents [near](/en/post/near/) [the](/en/post/the/) [lake](/en/post/lake/)."
-- **[Verb](/en/post/verb/)**: "We'll [need](/en/post/need/) [to](/en/post/to/) [tent](/en/post/tent/) [the](/en/post/the/) injured hiker [until](/en/post/until/) [help](/en/post/help/) arrives."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) tent-like [shelter](/en/post/shelter/) [provided](/en/post/provided/) [some](/en/post/some/) [relief](/en/post/relief/) [from](/en/post/from/) [the](/en/post/the/) [rain](/en/post/rain/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) campers had [set](/post/set/) [up](/post/up/) [their](/post/their/) tents [near](/post/near/) [the](/post/the/) [lake](/post/lake/)."
+- **[Verb](/post/verb/)**: "We'll [need](/post/need/) [to](/post/to/) [tent](/post/tent/) [the](/post/the/) injured hiker [until](/post/until/) [help](/post/help/) arrives."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) tent-like [shelter](/post/shelter/) [provided](/post/provided/) [some](/post/some/) [relief](/post/relief/) [from](/post/from/) [the](/post/the/) [rain](/post/rain/)."
 
 ## Synonyms
-- Camper's [shelter](/en/post/shelter/)
-- Quonset [hut](/en/post/hut/)
+- Camper's [shelter](/post/shelter/)
+- Quonset [hut](/post/hut/)
 - Tarpaulin
 - Pavilion
-- marquees ([plural](/en/post/plural/), informal)
+- marquees ([plural](/post/plural/), informal)
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) "[tent](/en/post/tent/)" is [less](/en/post/less/) [common](/en/post/common/) [than](/en/post/than/) "[set](/en/post/set/) [up](/en/post/up/)" [or](/en/post/or/) "[erect](/en/post/erect/)" [when](/en/post/when/) referring [to](/en/post/to/) physically putting [up](/en/post/up/) [a](/en/post/a/) [tent](/en/post/tent/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [still](/en/post/still/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [certain](/en/post/certain/) contexts.
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) "[tent](/post/tent/)" is [less](/post/less/) [common](/post/common/) [than](/post/than/) "[set](/post/set/) [up](/post/up/)" [or](/post/or/) "[erect](/post/erect/)" [when](/post/when/) referring [to](/post/to/) physically putting [up](/post/up/) [a](/post/a/) [tent](/post/tent/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [still](/post/still/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [certain](/post/certain/) contexts.

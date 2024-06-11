@@ -7,34 +7,34 @@ description = '[ˈvæljuəbl] a.值钱的；有价值的'
 keywords = ['ai words', 'valuable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈvæljuəbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [worth](/en/post/worth/), [importance](/en/post/importance/), [or](/en/post/or/) usefulness; estimable. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) antique [vase](/en/post/vase/) is [a](/en/post/a/) [valuable](/en/post/valuable/) [possession](/en/post/possession/)."
-- **[Noun](/en/post/noun/)**: [Something](/en/post/something/) [that](/en/post/that/) has [significant](/en/post/significant/) [value](/en/post/value/) [or](/en/post/or/) [worth](/en/post/worth/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [painting](/en/post/painting/) is [a](/en/post/a/) [valuable](/en/post/valuable/) artwork."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [valuable](/en/post/valuable/) [manner](/en/post/manner/) [or](/en/post/or/) [to](/en/post/to/) [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[Your](/en/post/your/) [advice](/en/post/advice/) was invaluable [to](/en/post/to/) [me](/en/post/me/)."
+- **[Adjective](/post/adjective/)**: Having [worth](/post/worth/), [importance](/post/importance/), [or](/post/or/) usefulness; estimable. [For](/post/for/) [example](/post/example/): "[The](/post/the/) antique [vase](/post/vase/) is [a](/post/a/) [valuable](/post/valuable/) [possession](/post/possession/)."
+- **[Noun](/post/noun/)**: [Something](/post/something/) [that](/post/that/) has [significant](/post/significant/) [value](/post/value/) [or](/post/or/) [worth](/post/worth/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [painting](/post/painting/) is [a](/post/a/) [valuable](/post/valuable/) artwork."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [valuable](/post/valuable/) [manner](/post/manner/) [or](/post/or/) [to](/post/to/) [a](/post/a/) [high](/post/high/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[Your](/post/your/) [advice](/post/advice/) was invaluable [to](/post/to/) [me](/post/me/)."
 
 ## Phrases
-- "[A](/en/post/a/) [valuable](/en/post/valuable/) [lesson](/en/post/lesson/)" implies [a](/en/post/a/) [lesson](/en/post/lesson/) [with](/en/post/with/) lasting [significance](/en/post/significance/).
-- "[Valuable](/en/post/valuable/) [real](/en/post/real/) estate" refers [to](/en/post/to/) [property](/en/post/property/) [with](/en/post/with/) [high](/en/post/high/) [market](/en/post/market/) [value](/en/post/value/).
-- "She's [a](/en/post/a/) [valuable](/en/post/valuable/) asset [to](/en/post/to/) [the](/en/post/the/) [team](/en/post/team/)" [means](/en/post/means/) [she](/en/post/she/) is an [important](/en/post/important/) [and](/en/post/and/) [useful](/en/post/useful/) [member](/en/post/member/).
+- "[A](/post/a/) [valuable](/post/valuable/) [lesson](/post/lesson/)" implies [a](/post/a/) [lesson](/post/lesson/) [with](/post/with/) lasting [significance](/post/significance/).
+- "[Valuable](/post/valuable/) [real](/post/real/) estate" refers [to](/post/to/) [property](/post/property/) [with](/post/with/) [high](/post/high/) [market](/post/market/) [value](/post/value/).
+- "She's [a](/post/a/) [valuable](/post/valuable/) asset [to](/post/to/) [the](/post/the/) [team](/post/team/)" [means](/post/means/) [she](/post/she/) is an [important](/post/important/) [and](/post/and/) [useful](/post/useful/) [member](/post/member/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [rare](/en/post/rare/) [book](/en/post/book/) is considered [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [most](/en/post/most/) [valuable](/en/post/valuable/) publications [in](/en/post/in/) [the](/en/post/the/) [library](/en/post/library/)."
-- **[Noun](/en/post/noun/)**: "Collectors [often](/en/post/often/) [search](/en/post/search/) [for](/en/post/for/) [valuable](/en/post/valuable/) stamps [from](/en/post/from/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) [input](/en/post/input/) was invaluable [during](/en/post/during/) [the](/en/post/the/) brainstorming [session](/en/post/session/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [rare](/post/rare/) [book](/post/book/) is considered [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [valuable](/post/valuable/) publications [in](/post/in/) [the](/post/the/) [library](/post/library/)."
+- **[Noun](/post/noun/)**: "Collectors [often](/post/often/) [search](/post/search/) [for](/post/for/) [valuable](/post/valuable/) stamps [from](/post/from/) [around](/post/around/) [the](/post/the/) [world](/post/world/)."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) [input](/post/input/) was invaluable [during](/post/during/) [the](/post/the/) brainstorming [session](/post/session/)."
 
 ## Synonyms
-- [Significant](/en/post/significant/)
-- [Precious](/en/post/precious/)
+- [Significant](/post/significant/)
+- [Precious](/post/precious/)
 - Valiant
 - Priceless
 - Heirloom
 
 ## Antonyms
 - Insignificant
-- [Worthless](/en/post/worthless/)
-- [Cheap](/en/post/cheap/)
-- [Insufficient](/en/post/insufficient/)
+- [Worthless](/post/worthless/)
+- [Cheap](/post/cheap/)
+- [Insufficient](/post/insufficient/)
 - Trivial

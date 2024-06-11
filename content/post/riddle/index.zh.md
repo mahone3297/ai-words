@@ -11,20 +11,20 @@ keywords = ['ai words', 'riddle']
 /rɪdld/
 
 ## 释义
-- **名词**: 谜语，谜；一个需要解答的难题。例如: "[Can](/post/can/) [you](/post/you/) [solve](/post/solve/) [this](/post/this/) [riddle](/post/riddle/) [for](/post/for/) [me](/post/me/)?"
-- **动词**: 提出谜语；使困惑不解。例如: "[The](/post/the/) [mysterious](/post/mysterious/) [situation](/post/situation/) riddled [us](/post/us/) [all](/post/all/)."
+- **名词**: 谜语，谜；一个需要解答的难题。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [solve](/zh/post/solve/) [this](/zh/post/this/) [riddle](/zh/post/riddle/) [for](/zh/post/for/) [me](/zh/post/me/)?"
+- **动词**: 提出谜语；使困惑不解。例如: "[The](/zh/post/the/) [mysterious](/zh/post/mysterious/) [situation](/zh/post/situation/) riddled [us](/zh/post/us/) [all](/zh/post/all/)."
 
 ## 短语
-- "[Riddle](/post/riddle/) [me](/post/me/) [this](/post/this/)" 用于引出一个问题或谜语。例如: "[Riddle](/post/riddle/) [me](/post/me/) [this](/post/this/): [What](/post/what/) has keys [but](/post/but/) can't [open](/post/open/) locks?"
-- "[A](/post/a/) [riddle](/post/riddle/) wrapped [in](/post/in/) [a](/post/a/) [mystery](/post/mystery/) [inside](/post/inside/) an enigma" 是一句著名的描述，意为极其复杂难以理解的事物。
+- "[Riddle](/zh/post/riddle/) [me](/zh/post/me/) [this](/zh/post/this/)" 用于引出一个问题或谜语。例如: "[Riddle](/zh/post/riddle/) [me](/zh/post/me/) [this](/zh/post/this/): [What](/zh/post/what/) has keys [but](/zh/post/but/) can't [open](/zh/post/open/) locks?"
+- "[A](/zh/post/a/) [riddle](/zh/post/riddle/) wrapped [in](/zh/post/in/) [a](/zh/post/a/) [mystery](/zh/post/mystery/) [inside](/zh/post/inside/) an enigma" 是一句著名的描述，意为极其复杂难以理解的事物。
 
 ## 例句
-- 名词: "[The](/post/the/) children loved [to](/post/to/) [exchange](/post/exchange/) riddles [during](/post/during/) [their](/post/their/) playtime."
-- 动词: "[The](/post/the/) movie's [plot](/post/plot/) riddles [the](/post/the/) [audience](/post/audience/) [with](/post/with/) [its](/post/its/) intricate twists [and](/post/and/) turns."
+- 名词: "[The](/zh/post/the/) children loved [to](/zh/post/to/) [exchange](/zh/post/exchange/) riddles [during](/zh/post/during/) [their](/zh/post/their/) playtime."
+- 动词: "[The](/zh/post/the/) movie's [plot](/zh/post/plot/) riddles [the](/zh/post/the/) [audience](/zh/post/audience/) [with](/zh/post/with/) [its](/zh/post/its/) intricate twists [and](/zh/post/and/) turns."
 
 ## 同义词
-- [Puzzle](/post/puzzle/)
+- [Puzzle](/zh/post/puzzle/)
 - Enigma
 - Conundrum
 - Brainteaser
-- [Mystery](/post/mystery/)
+- [Mystery](/zh/post/mystery/)

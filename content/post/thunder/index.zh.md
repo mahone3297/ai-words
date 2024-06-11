@@ -11,20 +11,20 @@ keywords = ['ai words', 'thunder']
 /ˈθʌndər/
 
 ## 释义
-- **名词**: 大声的雷鸣，通常伴有闪电。例如: "[The](/post/the/) [storm](/post/storm/) was accompanied [by](/post/by/) [loud](/post/loud/) [thunder](/post/thunder/) [and](/post/and/) [heavy](/post/heavy/) [rain](/post/rain/)."
-- **动词**: 形容雷鸣般的声音或力量。例如: "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) [the](/post/the/) [waterfall](/post/waterfall/) thundered [in](/post/in/) [the](/post/the/) [valley](/post/valley/)."
+- **名词**: 大声的雷鸣，通常伴有闪电。例如: "[The](/zh/post/the/) [storm](/zh/post/storm/) was accompanied [by](/zh/post/by/) [loud](/zh/post/loud/) [thunder](/zh/post/thunder/) [and](/zh/post/and/) [heavy](/zh/post/heavy/) [rain](/zh/post/rain/)."
+- **动词**: 形容雷鸣般的声音或力量。例如: "[The](/zh/post/the/) [sound](/zh/post/sound/) [of](/zh/post/of/) [the](/zh/post/the/) [waterfall](/zh/post/waterfall/) thundered [in](/zh/post/in/) [the](/zh/post/the/) [valley](/zh/post/valley/)."
 
 ## 短语
-- "[Thunder](/post/thunder/) [and](/post/and/) [lightning](/post/lightning/)" 指暴风雨中的雷电现象。
-- "[The](/post/the/) [thunder](/post/thunder/) rolled [across](/post/across/) [the](/post/the/) [sky](/post/sky/)" 描述雷声在天空中回荡。
+- "[Thunder](/zh/post/thunder/) [and](/zh/post/and/) [lightning](/zh/post/lightning/)" 指暴风雨中的雷电现象。
+- "[The](/zh/post/the/) [thunder](/zh/post/thunder/) rolled [across](/zh/post/across/) [the](/zh/post/the/) [sky](/zh/post/sky/)" 描述雷声在天空中回荡。
 
 ## 例句
-- 名词: "[The](/post/the/) children were [afraid](/post/afraid/) [of](/post/of/) [the](/post/the/) [thunder](/post/thunder/) [during](/post/during/) [the](/post/the/) [night](/post/night/)."
-- 动词: "[The](/post/the/) horse's hooves thundered [on](/post/on/) [the](/post/the/) [ground](/post/ground/) [as](/post/as/) [it](/post/it/) galloped [away](/post/away/)."
+- 名词: "[The](/zh/post/the/) children were [afraid](/zh/post/afraid/) [of](/zh/post/of/) [the](/zh/post/the/) [thunder](/zh/post/thunder/) [during](/zh/post/during/) [the](/zh/post/the/) [night](/zh/post/night/)."
+- 动词: "[The](/zh/post/the/) horse's hooves thundered [on](/zh/post/on/) [the](/zh/post/the/) [ground](/zh/post/ground/) [as](/zh/post/as/) [it](/zh/post/it/) galloped [away](/zh/post/away/)."
 
 ## 同义词
 - Boom
-- [Roar](/post/roar/)
+- [Roar](/zh/post/roar/)
 - Rumble
-- [Crash](/post/crash/)
-- [Clap](/post/clap/) ([of](/post/of/) [thunder](/post/thunder/))
+- [Crash](/zh/post/crash/)
+- [Clap](/zh/post/clap/) ([of](/zh/post/of/) [thunder](/zh/post/thunder/))

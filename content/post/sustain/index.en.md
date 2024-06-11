@@ -7,44 +7,44 @@ description = '[səsˈtein] vt.支撑；供养；忍受'
 keywords = ['ai words', 'sustain']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈsteɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Sustain](/en/post/sustain/)**: ([noun](/en/post/noun/)) [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [maintain](/en/post/maintain/) [or](/en/post/or/) [support](/en/post/support/) [something](/en/post/something/) [over](/en/post/over/) [time](/en/post/time/); endurance [or](/en/post/or/) resilience. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [forest](/en/post/forest/) relies [on](/en/post/on/) [a](/en/post/a/) sustainable [management](/en/post/management/) [plan](/en/post/plan/)."
-- **[Maintenance](/en/post/maintenance/)**: ([noun](/en/post/noun/)) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) keeping [something](/en/post/something/) [in](/en/post/in/) [good](/en/post/good/) [condition](/en/post/condition/) [or](/en/post/or/) [repair](/en/post/repair/), typically [over](/en/post/over/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[Regular](/en/post/regular/) [maintenance](/en/post/maintenance/) is crucial [for](/en/post/for/) [a](/en/post/a/) car's longevity."
+### [Noun](/post/noun/)
+- **[Sustain](/post/sustain/)**: ([noun](/post/noun/)) [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [maintain](/post/maintain/) [or](/post/or/) [support](/post/support/) [something](/post/something/) [over](/post/over/) [time](/post/time/); endurance [or](/post/or/) resilience. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [forest](/post/forest/) relies [on](/post/on/) [a](/post/a/) sustainable [management](/post/management/) [plan](/post/plan/)."
+- **[Maintenance](/post/maintenance/)**: ([noun](/post/noun/)) [The](/post/the/) [act](/post/act/) [of](/post/of/) keeping [something](/post/something/) [in](/post/in/) [good](/post/good/) [condition](/post/condition/) [or](/post/or/) [repair](/post/repair/), typically [over](/post/over/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[Regular](/post/regular/) [maintenance](/post/maintenance/) is crucial [for](/post/for/) [a](/post/a/) car's longevity."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [sustain](/en/post/sustain/)**: ([verb](/en/post/verb/)) [To](/en/post/to/) [keep](/en/post/keep/) [up](/en/post/up/), [support](/en/post/support/), [or](/en/post/or/) [endure](/en/post/endure/); [to](/en/post/to/) [maintain](/en/post/maintain/) [or](/en/post/or/) [continue](/en/post/continue/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [economy](/en/post/economy/) is sustained [by](/en/post/by/) [strong](/en/post/strong/) consumer spending."
-- **[To](/en/post/to/) [sustain](/en/post/sustain/) [oneself](/en/post/oneself/)**: ([verb](/en/post/verb/)) [To](/en/post/to/) [provide](/en/post/provide/) [enough](/en/post/enough/) [energy](/en/post/energy/) [or](/en/post/or/) resources [to](/en/post/to/) [carry](/en/post/carry/) [on](/en/post/on/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sustains [her](/en/post/her/) [passion](/en/post/passion/) [for](/en/post/for/) [painting](/en/post/painting/) [through](/en/post/through/) [daily](/en/post/daily/) [practice](/en/post/practice/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [sustain](/post/sustain/)**: ([verb](/post/verb/)) [To](/post/to/) [keep](/post/keep/) [up](/post/up/), [support](/post/support/), [or](/post/or/) [endure](/post/endure/); [to](/post/to/) [maintain](/post/maintain/) [or](/post/or/) [continue](/post/continue/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [economy](/post/economy/) is sustained [by](/post/by/) [strong](/post/strong/) consumer spending."
+- **[To](/post/to/) [sustain](/post/sustain/) [oneself](/post/oneself/)**: ([verb](/post/verb/)) [To](/post/to/) [provide](/post/provide/) [enough](/post/enough/) [energy](/post/energy/) [or](/post/or/) resources [to](/post/to/) [carry](/post/carry/) [on](/post/on/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) sustains [her](/post/her/) [passion](/post/passion/) [for](/post/for/) [painting](/post/painting/) [through](/post/through/) [daily](/post/daily/) [practice](/post/practice/)."
 
-### [Adjective](/en/post/adjective/)
-- **Sustainable**: ([adjective](/en/post/adjective/)) [Capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) maintained [at](/en/post/at/) [a](/en/post/a/) [certain](/en/post/certain/) [level](/en/post/level/) [without](/en/post/without/) [being](/en/post/being/) depleted [or](/en/post/or/) causing [harm](/en/post/harm/) [to](/en/post/to/) [the](/en/post/the/) [environment](/en/post/environment/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) sustainable lifestyle reduces [carbon](/en/post/carbon/) emissions."
+### [Adjective](/post/adjective/)
+- **Sustainable**: ([adjective](/post/adjective/)) [Capable](/post/capable/) [of](/post/of/) [being](/post/being/) maintained [at](/post/at/) [a](/post/a/) [certain](/post/certain/) [level](/post/level/) [without](/post/without/) [being](/post/being/) depleted [or](/post/or/) causing [harm](/post/harm/) [to](/post/to/) [the](/post/the/) [environment](/post/environment/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) sustainable lifestyle reduces [carbon](/post/carbon/) emissions."
 
 ## Phrases
-- "[Sustain](/en/post/sustain/) [a](/en/post/a/) [tradition](/en/post/tradition/)" [means](/en/post/means/) [to](/en/post/to/) [keep](/en/post/keep/) [a](/en/post/a/) [custom](/en/post/custom/) [or](/en/post/or/) [practice](/en/post/practice/) [alive](/en/post/alive/).
-- "Sustainable [agriculture](/en/post/agriculture/)" refers [to](/en/post/to/) farming methods [that](/en/post/that/) don't deplete [natural](/en/post/natural/) resources.
-- "[Sustain](/en/post/sustain/) [the](/en/post/the/) [fire](/en/post/fire/)" is an [idiom](/en/post/idiom/) [meaning](/en/post/meaning/) [to](/en/post/to/) [keep](/en/post/keep/) [something](/en/post/something/) going, [like](/en/post/like/) [a](/en/post/a/) [conversation](/en/post/conversation/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/).
+- "[Sustain](/post/sustain/) [a](/post/a/) [tradition](/post/tradition/)" [means](/post/means/) [to](/post/to/) [keep](/post/keep/) [a](/post/a/) [custom](/post/custom/) [or](/post/or/) [practice](/post/practice/) [alive](/post/alive/).
+- "Sustainable [agriculture](/post/agriculture/)" refers [to](/post/to/) farming methods [that](/post/that/) don't deplete [natural](/post/natural/) resources.
+- "[Sustain](/post/sustain/) [the](/post/the/) [fire](/post/fire/)" is an [idiom](/post/idiom/) [meaning](/post/meaning/) [to](/post/to/) [keep](/post/keep/) [something](/post/something/) going, [like](/post/like/) [a](/post/a/) [conversation](/post/conversation/) [or](/post/or/) [enthusiasm](/post/enthusiasm/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's [success](/en/post/success/) is [largely](/en/post/largely/) sustained [by](/en/post/by/) [its](/en/post/its/) innovative products."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) knew [she](/en/post/she/) had [to](/en/post/to/) [sustain](/en/post/sustain/) [her](/en/post/her/) [energy](/en/post/energy/) levels [during](/en/post/during/) [the](/en/post/the/) marathon."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [city](/en/post/city/) aims [to](/en/post/to/) [achieve](/en/post/achieve/) [carbon](/en/post/carbon/) neutrality [through](/en/post/through/) sustainable practices."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) company's [success](/post/success/) is [largely](/post/largely/) sustained [by](/post/by/) [its](/post/its/) innovative products."
+- **[Verb](/post/verb/)**: "[She](/post/she/) knew [she](/post/she/) had [to](/post/to/) [sustain](/post/sustain/) [her](/post/her/) [energy](/post/energy/) levels [during](/post/during/) [the](/post/the/) marathon."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [city](/post/city/) aims [to](/post/to/) [achieve](/post/achieve/) [carbon](/post/carbon/) neutrality [through](/post/through/) sustainable practices."
 
 ## Synonyms
-- [Maintain](/en/post/maintain/)
-- [Support](/en/post/support/)
-- [Endure](/en/post/endure/)
+- [Maintain](/post/maintain/)
+- [Support](/post/support/)
+- [Endure](/post/endure/)
 - Propagate
-- [Continue](/en/post/continue/)
+- [Continue](/post/continue/)
 - Upkeep
 - Persistence
 - Resilience
 
 ## Antonyms
-- [Exhaust](/en/post/exhaust/)
-- [Weaken](/en/post/weaken/)
-- [Fail](/en/post/fail/)
-- [Collapse](/en/post/collapse/)
-- [Withdraw](/en/post/withdraw/)
+- [Exhaust](/post/exhaust/)
+- [Weaken](/post/weaken/)
+- [Fail](/post/fail/)
+- [Collapse](/post/collapse/)
+- [Withdraw](/post/withdraw/)

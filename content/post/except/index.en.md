@@ -7,36 +7,36 @@ description = '[ikˈsept] prep.除…之外'
 keywords = ['ai words', 'except']
 +++
 
-## [Word](/en/post/word/): [Except](/en/post/except/)
+## [Word](/post/word/): [Except](/post/except/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈsept/
 
 ## Definitions
-- **[Preposition](/en/post/preposition/)**: [With](/en/post/with/) [the](/en/post/the/) [meaning](/en/post/meaning/) [of](/en/post/of/) excluding [or](/en/post/or/) leaving [out](/en/post/out/); [not](/en/post/not/) including. [Example](/en/post/example/): "[Everyone](/en/post/everyone/) went [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/) [except](/en/post/except/) Tom."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [exclude](/en/post/exclude/) ([someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/)) [from](/en/post/from/) [consideration](/en/post/consideration/) [or](/en/post/or/) inclusion. [Example](/en/post/example/): "I'll [eat](/en/post/eat/) [anything](/en/post/anything/) [except](/en/post/except/) onions."
-- **[Conjunction](/en/post/conjunction/)**: Introducing [the](/en/post/the/) [exception](/en/post/exception/) [to](/en/post/to/) [a](/en/post/a/) [statement](/en/post/statement/). [Example](/en/post/example/): "[All](/en/post/all/) [the](/en/post/the/) students passed [the](/en/post/the/) [exam](/en/post/exam/), [except](/en/post/except/) [those](/en/post/those/) [who](/en/post/who/) were [absent](/en/post/absent/)."
+- **[Preposition](/post/preposition/)**: [With](/post/with/) [the](/post/the/) [meaning](/post/meaning/) [of](/post/of/) excluding [or](/post/or/) leaving [out](/post/out/); [not](/post/not/) including. [Example](/post/example/): "[Everyone](/post/everyone/) went [to](/post/to/) [the](/post/the/) [party](/post/party/) [except](/post/except/) Tom."
+- **[Verb](/post/verb/)**: [To](/post/to/) [exclude](/post/exclude/) ([someone](/post/someone/) [or](/post/or/) [something](/post/something/)) [from](/post/from/) [consideration](/post/consideration/) [or](/post/or/) inclusion. [Example](/post/example/): "I'll [eat](/post/eat/) [anything](/post/anything/) [except](/post/except/) onions."
+- **[Conjunction](/post/conjunction/)**: Introducing [the](/post/the/) [exception](/post/exception/) [to](/post/to/) [a](/post/a/) [statement](/post/statement/). [Example](/post/example/): "[All](/post/all/) [the](/post/the/) students passed [the](/post/the/) [exam](/post/exam/), [except](/post/except/) [those](/post/those/) [who](/post/who/) were [absent](/post/absent/)."
 
-### [Preposition](/en/post/preposition/) [Usage](/en/post/usage/)
-- _except for_: [This](/en/post/this/) [phrase](/en/post/phrase/) [often](/en/post/often/) introduces [a](/en/post/a/) qualification [or](/en/post/or/) [exception](/en/post/exception/) [to](/en/post/to/) [a](/en/post/a/) [previous](/en/post/previous/) [statement](/en/post/statement/). [Example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) was [clean](/en/post/clean/) [except](/en/post/except/) [for](/en/post/for/) [a](/en/post/a/) [few](/en/post/few/) crumbs [on](/en/post/on/) [the](/en/post/the/) [floor](/en/post/floor/)."
+### [Preposition](/post/preposition/) [Usage](/post/usage/)
+- _except for_: [This](/post/this/) [phrase](/post/phrase/) [often](/post/often/) introduces [a](/post/a/) qualification [or](/post/or/) [exception](/post/exception/) [to](/post/to/) [a](/post/a/) [previous](/post/previous/) [statement](/post/statement/). [Example](/post/example/): "[The](/post/the/) [house](/post/house/) was [clean](/post/clean/) [except](/post/except/) [for](/post/for/) [a](/post/a/) [few](/post/few/) crumbs [on](/post/on/) [the](/post/the/) [floor](/post/floor/)."
 
 ## Phrases
-- "[Except](/en/post/except/) [for](/en/post/for/)": [As](/en/post/as/) mentioned [above](/en/post/above/), [this](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) exceptions [or](/en/post/or/) qualifications.
-- "[No](/en/post/no/) [one](/en/post/one/) [except](/en/post/except/)": [This](/en/post/this/) [phrase](/en/post/phrase/) implies [that](/en/post/that/) [the](/en/post/the/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [following](/en/post/following/) [it](/en/post/it/) is [not](/en/post/not/) included [in](/en/post/in/) [whatever](/en/post/whatever/) is [being](/en/post/being/) discussed. [Example](/en/post/example/): "[No](/en/post/no/) [one](/en/post/one/) [except](/en/post/except/) [the](/en/post/the/) [teacher](/en/post/teacher/) knew [the](/en/post/the/) [answer](/en/post/answer/)."
+- "[Except](/post/except/) [for](/post/for/)": [As](/post/as/) mentioned [above](/post/above/), [this](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) exceptions [or](/post/or/) qualifications.
+- "[No](/post/no/) [one](/post/one/) [except](/post/except/)": [This](/post/this/) [phrase](/post/phrase/) implies [that](/post/that/) [the](/post/the/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [following](/post/following/) [it](/post/it/) is [not](/post/not/) included [in](/post/in/) [whatever](/post/whatever/) is [being](/post/being/) discussed. [Example](/post/example/): "[No](/post/no/) [one](/post/one/) [except](/post/except/) [the](/post/the/) [teacher](/post/teacher/) knew [the](/post/the/) [answer](/post/answer/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Preposition](/en/post/preposition/)**: "[We](/en/post/we/) [will](/en/post/will/) [be](/en/post/be/) [open](/en/post/open/) [every](/en/post/every/) [day](/en/post/day/) [except](/en/post/except/) Sundays."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [try](/en/post/try/) [all](/en/post/all/) [the](/en/post/the/) flavors [except](/en/post/except/) [the](/en/post/the/) spicy ones."
-- **[Conjunction](/en/post/conjunction/)**: "[Everyone](/en/post/everyone/) finished [their](/en/post/their/) [work](/en/post/work/) [early](/en/post/early/), [except](/en/post/except/) [that](/en/post/that/) Jane had [to](/en/post/to/) [stay](/en/post/stay/) [late](/en/post/late/) [to](/en/post/to/) [complete](/en/post/complete/) [hers](/en/post/hers/)."
+## [Example](/post/example/) Sentences
+- **[Preposition](/post/preposition/)**: "[We](/post/we/) [will](/post/will/) [be](/post/be/) [open](/post/open/) [every](/post/every/) [day](/post/day/) [except](/post/except/) Sundays."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [try](/post/try/) [all](/post/all/) [the](/post/the/) flavors [except](/post/except/) [the](/post/the/) spicy ones."
+- **[Conjunction](/post/conjunction/)**: "[Everyone](/post/everyone/) finished [their](/post/their/) [work](/post/work/) [early](/post/early/), [except](/post/except/) [that](/post/that/) Jane had [to](/post/to/) [stay](/post/stay/) [late](/post/late/) [to](/post/to/) [complete](/post/complete/) [hers](/post/hers/)."
 
 ## Synonyms
-- [Exclude](/en/post/exclude/) ([verb](/en/post/verb/))
-- [Exclude](/en/post/exclude/) [from](/en/post/from/)
-- [Leave](/en/post/leave/) [out](/en/post/out/)
-- [Omit](/en/post/omit/)
-- [Bar](/en/post/bar/) ([from](/en/post/from/))
-- [Save](/en/post/save/) ([for](/en/post/for/))
-- [But](/en/post/but/) ([used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [conjunction](/en/post/conjunction/))
-- [With](/en/post/with/) [the](/en/post/the/) [exception](/en/post/exception/) [of](/en/post/of/)
+- [Exclude](/post/exclude/) ([verb](/post/verb/))
+- [Exclude](/post/exclude/) [from](/post/from/)
+- [Leave](/post/leave/) [out](/post/out/)
+- [Omit](/post/omit/)
+- [Bar](/post/bar/) ([from](/post/from/))
+- [Save](/post/save/) ([for](/post/for/))
+- [But](/post/but/) ([used](/post/used/) [as](/post/as/) [a](/post/a/) [conjunction](/post/conjunction/))
+- [With](/post/with/) [the](/post/the/) [exception](/post/exception/) [of](/post/of/)
 
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) [the](/en/post/the/) part-of-speech "[except](/en/post/except/)" [can](/en/post/can/) [also](/en/post/also/) [function](/en/post/function/) [similarly](/en/post/similarly/) [to](/en/post/to/) [the](/en/post/the/) [conjunction](/en/post/conjunction/) "[but](/en/post/but/)", introducing an [exception](/en/post/exception/) [to](/en/post/to/) [what](/en/post/what/) has been [previously](/en/post/previously/) stated, [but](/en/post/but/) it's technically classified [as](/en/post/as/) [a](/en/post/a/) [preposition](/en/post/preposition/) [and](/en/post/and/) [sometimes](/en/post/sometimes/) [a](/en/post/a/) [verb](/en/post/verb/) [rather](/en/post/rather/) [than](/en/post/than/) [a](/en/post/a/) [conjunction](/en/post/conjunction/) [in](/en/post/in/) [some](/en/post/some/) [grammar](/en/post/grammar/) contexts.
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) [the](/post/the/) part-of-speech "[except](/post/except/)" [can](/post/can/) [also](/post/also/) [function](/post/function/) [similarly](/post/similarly/) [to](/post/to/) [the](/post/the/) [conjunction](/post/conjunction/) "[but](/post/but/)", introducing an [exception](/post/exception/) [to](/post/to/) [what](/post/what/) has been [previously](/post/previously/) stated, [but](/post/but/) it's technically classified [as](/post/as/) [a](/post/a/) [preposition](/post/preposition/) [and](/post/and/) [sometimes](/post/sometimes/) [a](/post/a/) [verb](/post/verb/) [rather](/post/rather/) [than](/post/than/) [a](/post/a/) [conjunction](/post/conjunction/) [in](/post/in/) [some](/post/some/) [grammar](/post/grammar/) contexts.

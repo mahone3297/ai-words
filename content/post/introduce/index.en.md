@@ -7,33 +7,33 @@ description = '[ˌintrəˈdjuːs] vt.介绍；引进，传入'
 keywords = ['ai words', 'introduce']
 +++
 
-## [Word](/en/post/word/): [Introduce](/en/post/introduce/)
+## [Word](/post/word/): [Introduce](/post/introduce/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɪntrəˈdjuːs/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-  - [To](/en/post/to/) [present](/en/post/present/) [or](/en/post/or/) [make](/en/post/make/) known ([a](/en/post/a/) [person](/en/post/person/)) [to](/en/post/to/) [another](/en/post/another/), typically [by](/en/post/by/) [name](/en/post/name/) [or](/en/post/or/) [with](/en/post/with/) [some](/en/post/some/) [information](/en/post/information/) [about](/en/post/about/) [them](/en/post/them/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) introduced [us](/en/post/us/) [to](/en/post/to/) [his](/en/post/his/) [new](/en/post/new/) girlfriend."
-  - [To](/en/post/to/) [bring](/en/post/bring/) [forward](/en/post/forward/) [or](/en/post/or/) [announce](/en/post/announce/) ([something](/en/post/something/) [new](/en/post/new/) [or](/en/post/or/) unfamiliar) [for](/en/post/for/) [the](/en/post/the/) [first](/en/post/first/) [time](/en/post/time/); [to](/en/post/to/) [present](/en/post/present/) [or](/en/post/or/) [begin](/en/post/begin/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) introduced [a](/en/post/a/) [new](/en/post/new/) [product](/en/post/product/) [line](/en/post/line/)."
-  - [In](/en/post/in/) [biology](/en/post/biology/), [to](/en/post/to/) [bring](/en/post/bring/) [or](/en/post/or/) [place](/en/post/place/) (an [organism](/en/post/organism/)) [into](/en/post/into/) [a](/en/post/a/) [new](/en/post/new/) [environment](/en/post/environment/) [or](/en/post/or/) habitat. [Example](/en/post/example/): "[The](/en/post/the/) invasive species was accidentally introduced [to](/en/post/to/) [the](/en/post/the/) [region](/en/post/region/)."
+- **[Verb](/post/verb/)**: 
+  - [To](/post/to/) [present](/post/present/) [or](/post/or/) [make](/post/make/) known ([a](/post/a/) [person](/post/person/)) [to](/post/to/) [another](/post/another/), typically [by](/post/by/) [name](/post/name/) [or](/post/or/) [with](/post/with/) [some](/post/some/) [information](/post/information/) [about](/post/about/) [them](/post/them/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) introduced [us](/post/us/) [to](/post/to/) [his](/post/his/) [new](/post/new/) girlfriend."
+  - [To](/post/to/) [bring](/post/bring/) [forward](/post/forward/) [or](/post/or/) [announce](/post/announce/) ([something](/post/something/) [new](/post/new/) [or](/post/or/) unfamiliar) [for](/post/for/) [the](/post/the/) [first](/post/first/) [time](/post/time/); [to](/post/to/) [present](/post/present/) [or](/post/or/) [begin](/post/begin/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) introduced [a](/post/a/) [new](/post/new/) [product](/post/product/) [line](/post/line/)."
+  - [In](/post/in/) [biology](/post/biology/), [to](/post/to/) [bring](/post/bring/) [or](/post/or/) [place](/post/place/) (an [organism](/post/organism/)) [into](/post/into/) [a](/post/a/) [new](/post/new/) [environment](/post/environment/) [or](/post/or/) habitat. [Example](/post/example/): "[The](/post/the/) invasive species was accidentally introduced [to](/post/to/) [the](/post/the/) [region](/post/region/)."
   
 ## Phrases
-- "[Introduce](/en/post/introduce/) [yourself](/en/post/yourself/)" [means](/en/post/means/) [to](/en/post/to/) [tell](/en/post/tell/) [someone](/en/post/someone/) [your](/en/post/your/) [name](/en/post/name/) [and](/en/post/and/) [possibly](/en/post/possibly/) [other](/en/post/other/) [relevant](/en/post/relevant/) [information](/en/post/information/) [about](/en/post/about/) [you](/en/post/you/) [when](/en/post/when/) [meeting](/en/post/meeting/) [them](/en/post/them/) [for](/en/post/for/) [the](/en/post/the/) [first](/en/post/first/) [time](/en/post/time/).
-- "[To](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [topic](/en/post/topic/)" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) talking [or](/en/post/or/) [writing](/en/post/writing/) [about](/en/post/about/) [a](/en/post/a/) [subject](/en/post/subject/).
-- "[Make](/en/post/make/) introductions" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) presenting [one](/en/post/one/) [person](/en/post/person/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [social](/en/post/social/) [setting](/en/post/setting/).
+- "[Introduce](/post/introduce/) [yourself](/post/yourself/)" [means](/post/means/) [to](/post/to/) [tell](/post/tell/) [someone](/post/someone/) [your](/post/your/) [name](/post/name/) [and](/post/and/) [possibly](/post/possibly/) [other](/post/other/) [relevant](/post/relevant/) [information](/post/information/) [about](/post/about/) [you](/post/you/) [when](/post/when/) [meeting](/post/meeting/) [them](/post/them/) [for](/post/for/) [the](/post/the/) [first](/post/first/) [time](/post/time/).
+- "[To](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [topic](/post/topic/)" [means](/post/means/) [to](/post/to/) [start](/post/start/) talking [or](/post/or/) [writing](/post/writing/) [about](/post/about/) [a](/post/a/) [subject](/post/subject/).
+- "[Make](/post/make/) introductions" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) presenting [one](/post/one/) [person](/post/person/) [to](/post/to/) [another](/post/another/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [social](/post/social/) [setting](/post/setting/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([people](/en/post/people/))**: "I'd [like](/en/post/like/) [to](/en/post/to/) [introduce](/en/post/introduce/) [my](/en/post/my/) [colleague](/en/post/colleague/), Sarah, [who](/en/post/who/) [will](/en/post/will/) [be](/en/post/be/) [leading](/en/post/leading/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Verb](/en/post/verb/) (ideas/products)**: "[The](/en/post/the/) [professor](/en/post/professor/) introduced [the](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) quantum [physics](/en/post/physics/) [to](/en/post/to/) [the](/en/post/the/) [class](/en/post/class/)."
-- **[Biology](/en/post/biology/) context**: "[The](/en/post/the/) [park](/en/post/park/) rangers worked [hard](/en/post/hard/) [to](/en/post/to/) [prevent](/en/post/prevent/) [the](/en/post/the/) [introduction](/en/post/introduction/) [of](/en/post/of/) non-native plants [that](/en/post/that/) [could](/en/post/could/) [harm](/en/post/harm/) [the](/en/post/the/) ecosystem."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([people](/post/people/))**: "I'd [like](/post/like/) [to](/post/to/) [introduce](/post/introduce/) [my](/post/my/) [colleague](/post/colleague/), Sarah, [who](/post/who/) [will](/post/will/) [be](/post/be/) [leading](/post/leading/) [the](/post/the/) [project](/post/project/)."
+- **[Verb](/post/verb/) (ideas/products)**: "[The](/post/the/) [professor](/post/professor/) introduced [the](/post/the/) [concept](/post/concept/) [of](/post/of/) quantum [physics](/post/physics/) [to](/post/to/) [the](/post/the/) [class](/post/class/)."
+- **[Biology](/post/biology/) context**: "[The](/post/the/) [park](/post/park/) rangers worked [hard](/post/hard/) [to](/post/to/) [prevent](/post/prevent/) [the](/post/the/) [introduction](/post/introduction/) [of](/post/of/) non-native plants [that](/post/that/) [could](/post/could/) [harm](/post/harm/) [the](/post/the/) ecosystem."
 
 ## Synonyms
-- [Present](/en/post/present/)
+- [Present](/post/present/)
 - Acquaint
-- [Bring](/en/post/bring/) [forward](/en/post/forward/)
-- [Announce](/en/post/announce/)
+- [Bring](/post/bring/) [forward](/post/forward/)
+- [Announce](/post/announce/)
 - Unveil
-- [Launch](/en/post/launch/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) products)
-- Familiarize ([with](/en/post/with/))
-- Initiate ([a](/en/post/a/) [relationship](/en/post/relationship/) [or](/en/post/or/) [discussion](/en/post/discussion/))
+- [Launch](/post/launch/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) products)
+- Familiarize ([with](/post/with/))
+- Initiate ([a](/post/a/) [relationship](/post/relationship/) [or](/post/or/) [discussion](/post/discussion/))

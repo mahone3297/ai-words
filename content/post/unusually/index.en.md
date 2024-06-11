@@ -7,33 +7,33 @@ description = '[ʌnˈjuːʒəli] a.不平常地，非常'
 keywords = ['ai words', 'unusually']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unˈdjʊənli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) an atypically [or](/en/post/or/) unexpectedly [manner](/en/post/manner/); [not](/en/post/not/) according [to](/en/post/to/) [the](/en/post/the/) [usual](/en/post/usual/) [pattern](/en/post/pattern/) [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [reaction](/en/post/reaction/) was [unusually](/en/post/unusually/) [calm](/en/post/calm/) given [the](/en/post/the/) [situation](/en/post/situation/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [being](/en/post/being/) uncommon [or](/en/post/or/) [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [ordinary](/en/post/ordinary/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) was [unusually](/en/post/unusually/) [cold](/en/post/cold/) [for](/en/post/for/) [May](/en/post/may/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) an atypically [or](/post/or/) unexpectedly [manner](/post/manner/); [not](/post/not/) according [to](/post/to/) [the](/post/the/) [usual](/post/usual/) [pattern](/post/pattern/) [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [reaction](/post/reaction/) was [unusually](/post/unusually/) [calm](/post/calm/) given [the](/post/the/) [situation](/post/situation/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [being](/post/being/) uncommon [or](/post/or/) [out](/post/out/) [of](/post/of/) [the](/post/the/) [ordinary](/post/ordinary/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) was [unusually](/post/unusually/) [cold](/post/cold/) [for](/post/for/) [May](/post/may/)."
 
 ## Phrases
-- "[Unusually](/en/post/unusually/) [high](/en/post/high/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is exceptionally [high](/en/post/high/) compared [to](/en/post/to/) [the](/en/post/the/) norm.
-- "[Unusually](/en/post/unusually/) [quiet](/en/post/quiet/)" describes [a](/en/post/a/) [situation](/en/post/situation/) [that](/en/post/that/) is [unusually](/en/post/unusually/) [free](/en/post/free/) [from](/en/post/from/) [noise](/en/post/noise/).
-- "[Unusually](/en/post/unusually/) talented" is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [who](/en/post/who/) possesses exceptional skills.
+- "[Unusually](/post/unusually/) [high](/post/high/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is exceptionally [high](/post/high/) compared [to](/post/to/) [the](/post/the/) norm.
+- "[Unusually](/post/unusually/) [quiet](/post/quiet/)" describes [a](/post/a/) [situation](/post/situation/) [that](/post/that/) is [unusually](/post/unusually/) [free](/post/free/) [from](/post/from/) [noise](/post/noise/).
+- "[Unusually](/post/unusually/) talented" is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [who](/post/who/) possesses exceptional skills.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) finished [the](/en/post/the/) marathon [unusually](/en/post/unusually/) [fast](/en/post/fast/), breaking [the](/en/post/the/) [record](/en/post/record/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [unusually](/en/post/unusually/) [large](/en/post/large/) [crowd](/en/post/crowd/) surprised [the](/en/post/the/) organizers."
-- "[Due](/en/post/due/) [to](/en/post/to/) an [unusually](/en/post/unusually/) [heavy](/en/post/heavy/) rainfall, [the](/en/post/the/) streets were flooded."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) finished [the](/post/the/) marathon [unusually](/post/unusually/) [fast](/post/fast/), breaking [the](/post/the/) [record](/post/record/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [unusually](/post/unusually/) [large](/post/large/) [crowd](/post/crowd/) surprised [the](/post/the/) organizers."
+- "[Due](/post/due/) [to](/post/to/) an [unusually](/post/unusually/) [heavy](/post/heavy/) rainfall, [the](/post/the/) streets were flooded."
 
 ## Synonyms
 - Unordinarily
-- [Rarely](/en/post/rarely/)
+- [Rarely](/post/rarely/)
 - Exceptionally
 - Uncommonly
-- [Surprisingly](/en/post/surprisingly/)
+- [Surprisingly](/post/surprisingly/)
 
 ## Antonyms
-- [Normally](/en/post/normally/)
+- [Normally](/post/normally/)
 - Typically
-- [Regularly](/en/post/regularly/)
-- [Commonly](/en/post/commonly/)
-- [Frequently](/en/post/frequently/)
+- [Regularly](/post/regularly/)
+- [Commonly](/post/commonly/)
+- [Frequently](/post/frequently/)

@@ -7,39 +7,39 @@ description = '[prisˈkraib] vt.命令；处(方)'
 keywords = ['ai words', 'prescribe']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /preˈskriːb/
 
 ## Definitions
-### [Verb](/en/post/verb/)
-- **1.** ([prescribe](/en/post/prescribe/) medication) [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) doctor's [order](/en/post/order/) [for](/en/post/for/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [medicine](/en/post/medicine/) [or](/en/post/or/) [treatment](/en/post/treatment/). [Example](/en/post/example/): "[The](/en/post/the/) [doctor](/en/post/doctor/) prescribed antibiotics [for](/en/post/for/) [her](/en/post/her/) infection."
-- **2.** ([prescribe](/en/post/prescribe/) actions) [To](/en/post/to/) [direct](/en/post/direct/) [or](/en/post/or/) [recommend](/en/post/recommend/) [a](/en/post/a/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/) [or](/en/post/or/) [behavior](/en/post/behavior/). [Example](/en/post/example/): "[The](/en/post/the/) therapist prescribed [daily](/en/post/daily/) [exercise](/en/post/exercise/) [to](/en/post/to/) [improve](/en/post/improve/) [mental](/en/post/mental/) [health](/en/post/health/)."
-- **3.** ([prescribe](/en/post/prescribe/) rules) [To](/en/post/to/) [lay](/en/post/lay/) [down](/en/post/down/) rules [or](/en/post/or/) regulations. [Example](/en/post/example/): "Schools [often](/en/post/often/) [prescribe](/en/post/prescribe/) [dress](/en/post/dress/) codes [for](/en/post/for/) students."
-- **4.** ([prescribe](/en/post/prescribe/) habits) [To](/en/post/to/) [advise](/en/post/advise/) [on](/en/post/on/) [or](/en/post/or/) [establish](/en/post/establish/) [a](/en/post/a/) [routine](/en/post/routine/) [or](/en/post/or/) [practice](/en/post/practice/). [Example](/en/post/example/): "[Financial](/en/post/financial/) advisors [may](/en/post/may/) [prescribe](/en/post/prescribe/) [a](/en/post/a/) budgeting [plan](/en/post/plan/) [for](/en/post/for/) [their](/en/post/their/) clients."
+### [Verb](/post/verb/)
+- **1.** ([prescribe](/post/prescribe/) medication) [To](/post/to/) [give](/post/give/) [a](/post/a/) doctor's [order](/post/order/) [for](/post/for/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [medicine](/post/medicine/) [or](/post/or/) [treatment](/post/treatment/). [Example](/post/example/): "[The](/post/the/) [doctor](/post/doctor/) prescribed antibiotics [for](/post/for/) [her](/post/her/) infection."
+- **2.** ([prescribe](/post/prescribe/) actions) [To](/post/to/) [direct](/post/direct/) [or](/post/or/) [recommend](/post/recommend/) [a](/post/a/) [course](/post/course/) [of](/post/of/) [action](/post/action/) [or](/post/or/) [behavior](/post/behavior/). [Example](/post/example/): "[The](/post/the/) therapist prescribed [daily](/post/daily/) [exercise](/post/exercise/) [to](/post/to/) [improve](/post/improve/) [mental](/post/mental/) [health](/post/health/)."
+- **3.** ([prescribe](/post/prescribe/) rules) [To](/post/to/) [lay](/post/lay/) [down](/post/down/) rules [or](/post/or/) regulations. [Example](/post/example/): "Schools [often](/post/often/) [prescribe](/post/prescribe/) [dress](/post/dress/) codes [for](/post/for/) students."
+- **4.** ([prescribe](/post/prescribe/) habits) [To](/post/to/) [advise](/post/advise/) [on](/post/on/) [or](/post/or/) [establish](/post/establish/) [a](/post/a/) [routine](/post/routine/) [or](/post/or/) [practice](/post/practice/). [Example](/post/example/): "[Financial](/post/financial/) advisors [may](/post/may/) [prescribe](/post/prescribe/) [a](/post/a/) budgeting [plan](/post/plan/) [for](/post/for/) [their](/post/their/) clients."
 
-## [Noun](/en/post/noun/)
-- [A](/en/post/a/) written [order](/en/post/order/) [or](/en/post/or/) [recommendation](/en/post/recommendation/) given [by](/en/post/by/) [a](/en/post/a/) [medical](/en/post/medical/) [professional](/en/post/professional/), [especially](/en/post/especially/) [for](/en/post/for/) medication. [Example](/en/post/example/): "[The](/en/post/the/) prescription was [for](/en/post/for/) [a](/en/post/a/) refill [of](/en/post/of/) [my](/en/post/my/) [blood](/en/post/blood/) [pressure](/en/post/pressure/) medication."
+## [Noun](/post/noun/)
+- [A](/post/a/) written [order](/post/order/) [or](/post/or/) [recommendation](/post/recommendation/) given [by](/post/by/) [a](/post/a/) [medical](/post/medical/) [professional](/post/professional/), [especially](/post/especially/) [for](/post/for/) medication. [Example](/post/example/): "[The](/post/the/) prescription was [for](/post/for/) [a](/post/a/) refill [of](/post/of/) [my](/post/my/) [blood](/post/blood/) [pressure](/post/pressure/) medication."
 
 ## Phrases
-- "[Prescribe](/en/post/prescribe/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [recommend](/en/post/recommend/) [or](/en/post/or/) [order](/en/post/order/) [it](/en/post/it/) [for](/en/post/for/) [use](/en/post/use/) [or](/en/post/or/) [consumption](/en/post/consumption/).
-- "Prescribed dosage" refers [to](/en/post/to/) [the](/en/post/the/) [specific](/en/post/specific/) [amount](/en/post/amount/) [of](/en/post/of/) medication recommended [by](/en/post/by/) [a](/en/post/a/) [doctor](/en/post/doctor/).
-- "Prescription-only medication" is [a](/en/post/a/) [drug](/en/post/drug/) [that](/en/post/that/) [can](/en/post/can/) [only](/en/post/only/) [be](/en/post/be/) obtained [with](/en/post/with/) [a](/en/post/a/) doctor's [order](/en/post/order/).
+- "[Prescribe](/post/prescribe/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [recommend](/post/recommend/) [or](/post/or/) [order](/post/order/) [it](/post/it/) [for](/post/for/) [use](/post/use/) [or](/post/or/) [consumption](/post/consumption/).
+- "Prescribed dosage" refers [to](/post/to/) [the](/post/the/) [specific](/post/specific/) [amount](/post/amount/) [of](/post/of/) medication recommended [by](/post/by/) [a](/post/a/) [doctor](/post/doctor/).
+- "Prescription-only medication" is [a](/post/a/) [drug](/post/drug/) [that](/post/that/) [can](/post/can/) [only](/post/only/) [be](/post/be/) obtained [with](/post/with/) [a](/post/a/) doctor's [order](/post/order/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) prescribed painkillers [for](/en/post/for/) [his](/en/post/his/) patient's [surgery](/en/post/surgery/) [recovery](/en/post/recovery/)."
-- **[Noun](/en/post/noun/)**: "I [need](/en/post/need/) [to](/en/post/to/) [fill](/en/post/fill/) [out](/en/post/out/) [this](/en/post/this/) prescription [before](/en/post/before/) I [can](/en/post/can/) [pick](/en/post/pick/) [up](/en/post/up/) [the](/en/post/the/) [medicine](/en/post/medicine/)."
-- **Phrasal**: "[The](/en/post/the/) [patient](/en/post/patient/) [must](/en/post/must/) [follow](/en/post/follow/) [the](/en/post/the/) dentist's instructions [for](/en/post/for/) [proper](/en/post/proper/) toothbrushing, [as](/en/post/as/) prescribed."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [doctor](/post/doctor/) prescribed painkillers [for](/post/for/) [his](/post/his/) patient's [surgery](/post/surgery/) [recovery](/post/recovery/)."
+- **[Noun](/post/noun/)**: "I [need](/post/need/) [to](/post/to/) [fill](/post/fill/) [out](/post/out/) [this](/post/this/) prescription [before](/post/before/) I [can](/post/can/) [pick](/post/pick/) [up](/post/up/) [the](/post/the/) [medicine](/post/medicine/)."
+- **Phrasal**: "[The](/post/the/) [patient](/post/patient/) [must](/post/must/) [follow](/post/follow/) [the](/post/the/) dentist's instructions [for](/post/for/) [proper](/post/proper/) toothbrushing, [as](/post/as/) prescribed."
 
 ## Synonyms
-- [Recommend](/en/post/recommend/)
-- [Prescribe](/en/post/prescribe/) (n.)
-- [Advise](/en/post/advise/)
-- [Direct](/en/post/direct/)
-- [Issue](/en/post/issue/)
+- [Recommend](/post/recommend/)
+- [Prescribe](/post/prescribe/) (n.)
+- [Advise](/post/advise/)
+- [Direct](/post/direct/)
+- [Issue](/post/issue/)
 - Mandate
 
 ## Antonyms
 - Disapprove
-- [Deny](/en/post/deny/)
-- [Prohibit](/en/post/prohibit/)
+- [Deny](/post/deny/)
+- [Prohibit](/post/prohibit/)
 - Overrule

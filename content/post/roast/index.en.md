@@ -7,33 +7,33 @@ description = '[rəust] vt.&vi.烤，炙，烘'
 keywords = ['ai words', 'roast']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəʊst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Roast](/en/post/roast/)**: 1. [A](/en/post/a/) [method](/en/post/method/) [of](/en/post/of/) cooking [food](/en/post/food/), [especially](/en/post/especially/) [meat](/en/post/meat/), [by](/en/post/by/) exposing [it](/en/post/it/) [to](/en/post/to/) [dry](/en/post/dry/) [heat](/en/post/heat/) [in](/en/post/in/) an [oven](/en/post/oven/) [or](/en/post/or/) [over](/en/post/over/) an [open](/en/post/open/) [flame](/en/post/flame/). [Example](/en/post/example/): "We're having [a](/en/post/a/) [beef](/en/post/beef/) [roast](/en/post/roast/) [for](/en/post/for/) [dinner](/en/post/dinner/) [tonight](/en/post/tonight/)."
-- 2. [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [meat](/en/post/meat/) cooked using [this](/en/post/this/) [method](/en/post/method/). [Example](/en/post/example/): "[The](/en/post/the/) chef prepared [a](/en/post/a/) succulent [lamb](/en/post/lamb/) [roast](/en/post/roast/)."
-- 3. [A](/en/post/a/) [humorous](/en/post/humorous/) [or](/en/post/or/) mocking [public](/en/post/public/) [criticism](/en/post/criticism/) [or](/en/post/or/) teasing. [Example](/en/post/example/): "[She](/en/post/she/) received [a](/en/post/a/) [roast](/en/post/roast/) [during](/en/post/during/) [the](/en/post/the/) awards [ceremony](/en/post/ceremony/)."
+### [Noun](/post/noun/)
+- **[Roast](/post/roast/)**: 1. [A](/post/a/) [method](/post/method/) [of](/post/of/) cooking [food](/post/food/), [especially](/post/especially/) [meat](/post/meat/), [by](/post/by/) exposing [it](/post/it/) [to](/post/to/) [dry](/post/dry/) [heat](/post/heat/) [in](/post/in/) an [oven](/post/oven/) [or](/post/or/) [over](/post/over/) an [open](/post/open/) [flame](/post/flame/). [Example](/post/example/): "We're having [a](/post/a/) [beef](/post/beef/) [roast](/post/roast/) [for](/post/for/) [dinner](/post/dinner/) [tonight](/post/tonight/)."
+- 2. [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [meat](/post/meat/) cooked using [this](/post/this/) [method](/post/method/). [Example](/post/example/): "[The](/post/the/) chef prepared [a](/post/a/) succulent [lamb](/post/lamb/) [roast](/post/roast/)."
+- 3. [A](/post/a/) [humorous](/post/humorous/) [or](/post/or/) mocking [public](/post/public/) [criticism](/post/criticism/) [or](/post/or/) teasing. [Example](/post/example/): "[She](/post/she/) received [a](/post/a/) [roast](/post/roast/) [during](/post/during/) [the](/post/the/) awards [ceremony](/post/ceremony/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [roast](/en/post/roast/)**: 1. [To](/en/post/to/) [cook](/en/post/cook/) [something](/en/post/something/) using [the](/en/post/the/) roasting [method](/en/post/method/). [Example](/en/post/example/): "He's [expert](/en/post/expert/) [at](/en/post/at/) roasting vegetables."
-- 2. (informal) [To](/en/post/to/) [subject](/en/post/subject/) [someone](/en/post/someone/) [to](/en/post/to/) teasing [or](/en/post/or/) mockery, [often](/en/post/often/) humorously. [Example](/en/post/example/): "[The](/en/post/the/) comedian roasted [the](/en/post/the/) [host](/en/post/host/) mercilessly."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [roast](/post/roast/)**: 1. [To](/post/to/) [cook](/post/cook/) [something](/post/something/) using [the](/post/the/) roasting [method](/post/method/). [Example](/post/example/): "He's [expert](/post/expert/) [at](/post/at/) roasting vegetables."
+- 2. (informal) [To](/post/to/) [subject](/post/subject/) [someone](/post/someone/) [to](/post/to/) teasing [or](/post/or/) mockery, [often](/post/often/) humorously. [Example](/post/example/): "[The](/post/the/) comedian roasted [the](/post/the/) [host](/post/host/) mercilessly."
 
 ## Phrases
-- "[Roast](/en/post/roast/) [beef](/en/post/beef/)" is [a](/en/post/a/) classic [dish](/en/post/dish/).
-- "Grilled [roast](/en/post/roast/) [chicken](/en/post/chicken/)" is [a](/en/post/a/) [popular](/en/post/popular/) [choice](/en/post/choice/).
-- "[Roast](/en/post/roast/) [party](/en/post/party/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [humorous](/en/post/humorous/) [event](/en/post/event/) [where](/en/post/where/) attendees are encouraged [to](/en/post/to/) [give](/en/post/give/) speeches [about](/en/post/about/) others.
+- "[Roast](/post/roast/) [beef](/post/beef/)" is [a](/post/a/) classic [dish](/post/dish/).
+- "Grilled [roast](/post/roast/) [chicken](/post/chicken/)" is [a](/post/a/) [popular](/post/popular/) [choice](/post/choice/).
+- "[Roast](/post/roast/) [party](/post/party/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [humorous](/post/humorous/) [event](/post/event/) [where](/post/where/) attendees are encouraged [to](/post/to/) [give](/post/give/) speeches [about](/post/about/) others.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [roast](/en/post/roast/) was [so](/en/post/so/) [tender](/en/post/tender/) [that](/en/post/that/) [it](/en/post/it/) fell [off](/en/post/off/) [the](/en/post/the/) [bone](/en/post/bone/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully roasted [the](/en/post/the/) potatoes [until](/en/post/until/) [they](/en/post/they/) were crispy."
-- **Informal [Verb](/en/post/verb/)**: "[The](/en/post/the/) stand-up comedian decided [to](/en/post/to/) [roast](/en/post/roast/) [the](/en/post/the/) [new](/en/post/new/) [team](/en/post/team/) [member](/en/post/member/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [roast](/post/roast/) was [so](/post/so/) [tender](/post/tender/) [that](/post/that/) [it](/post/it/) fell [off](/post/off/) [the](/post/the/) [bone](/post/bone/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully roasted [the](/post/the/) potatoes [until](/post/until/) [they](/post/they/) were crispy."
+- **Informal [Verb](/post/verb/)**: "[The](/post/the/) stand-up comedian decided [to](/post/to/) [roast](/post/roast/) [the](/post/the/) [new](/post/new/) [team](/post/team/) [member](/post/member/)."
 
 ## Synonyms
 - Barbecue
 - Grill
 - Slow-cook
 - Baste
-- Charcoal [cook](/en/post/cook/)
+- Charcoal [cook](/post/cook/)
 - Publicly mock (informal)

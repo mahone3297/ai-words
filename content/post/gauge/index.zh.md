@@ -12,26 +12,26 @@ keywords = ['ai words', 'gauge']
 
 ## 释义
 - **名词**:
-  - 测量工具；计量器：[A](/post/a/) [device](/post/device/) [for](/post/for/) measuring, [especially](/post/especially/) [the](/post/the/) [size](/post/size/) [or](/post/or/) [quantity](/post/quantity/) [of](/post/of/) [something](/post/something/).
-  - 标准；规范；准则：[A](/post/a/) [standard](/post/standard/) [by](/post/by/) [which](/post/which/) [something](/post/something/) is measured [or](/post/or/) judged.
-  - 阶梯；级差；深度：[A](/post/a/) [step](/post/step/) [or](/post/or/) [level](/post/level/); [a](/post/a/) [depth](/post/depth/) [in](/post/in/) [a](/post/a/) [well](/post/well/) [or](/post/or/) [other](/post/other/) excavation.
+  - 测量工具；计量器：[A](/zh/post/a/) [device](/zh/post/device/) [for](/zh/post/for/) measuring, [especially](/zh/post/especially/) [the](/zh/post/the/) [size](/zh/post/size/) [or](/zh/post/or/) [quantity](/zh/post/quantity/) [of](/zh/post/of/) [something](/zh/post/something/).
+  - 标准；规范；准则：[A](/zh/post/a/) [standard](/zh/post/standard/) [by](/zh/post/by/) [which](/zh/post/which/) [something](/zh/post/something/) is measured [or](/zh/post/or/) judged.
+  - 阶梯；级差；深度：[A](/zh/post/a/) [step](/zh/post/step/) [or](/zh/post/or/) [level](/zh/post/level/); [a](/zh/post/a/) [depth](/zh/post/depth/) [in](/zh/post/in/) [a](/zh/post/a/) [well](/zh/post/well/) [or](/zh/post/or/) [other](/zh/post/other/) excavation.
 
 - **动词**:
-  - 测量；估量：[To](/post/to/) [measure](/post/measure/) [or](/post/or/) [estimate](/post/estimate/) [the](/post/the/) [size](/post/size/), [amount](/post/amount/), [or](/post/or/) [degree](/post/degree/) [of](/post/of/) [something](/post/something/).
+  - 测量；估量：[To](/zh/post/to/) [measure](/zh/post/measure/) [or](/zh/post/or/) [estimate](/zh/post/estimate/) [the](/zh/post/the/) [size](/zh/post/size/), [amount](/zh/post/amount/), [or](/zh/post/or/) [degree](/zh/post/degree/) [of](/zh/post/of/) [something](/zh/post/something/).
 
 ## 短语
-- "[gauge](/post/gauge/) [the](/post/the/) [temperature](/post/temperature/)" 测量温度
-- "[gauge](/post/gauge/) [public](/post/public/) [opinion](/post/opinion/)" 了解公众意见
-- "[pressure](/post/pressure/) [gauge](/post/gauge/)" 压力表
+- "[gauge](/zh/post/gauge/) [the](/zh/post/the/) [temperature](/zh/post/temperature/)" 测量温度
+- "[gauge](/zh/post/gauge/) [public](/zh/post/public/) [opinion](/zh/post/opinion/)" 了解公众意见
+- "[pressure](/zh/post/pressure/) [gauge](/zh/post/gauge/)" 压力表
 
 ## 例句
-- 名词: "[The](/post/the/) plumber [used](/post/used/) [a](/post/a/) [gauge](/post/gauge/) [to](/post/to/) [check](/post/check/) [the](/post/the/) [water](/post/water/) [pressure](/post/pressure/)."
-- 动词: "[They](/post/they/) tried [to](/post/to/) [gauge](/post/gauge/) [the](/post/the/) [distance](/post/distance/) [to](/post/to/) [the](/post/the/) [mountain](/post/mountain/) [peak](/post/peak/)."
-- "[The](/post/the/) [instrument](/post/instrument/) [gauge](/post/gauge/) showed [the](/post/the/) [engine](/post/engine/) was running [smoothly](/post/smoothly/)."
+- 名词: "[The](/zh/post/the/) plumber [used](/zh/post/used/) [a](/zh/post/a/) [gauge](/zh/post/gauge/) [to](/zh/post/to/) [check](/zh/post/check/) [the](/zh/post/the/) [water](/zh/post/water/) [pressure](/zh/post/pressure/)."
+- 动词: "[They](/zh/post/they/) tried [to](/zh/post/to/) [gauge](/zh/post/gauge/) [the](/zh/post/the/) [distance](/zh/post/distance/) [to](/zh/post/to/) [the](/zh/post/the/) [mountain](/zh/post/mountain/) [peak](/zh/post/peak/)."
+- "[The](/zh/post/the/) [instrument](/zh/post/instrument/) [gauge](/zh/post/gauge/) showed [the](/zh/post/the/) [engine](/zh/post/engine/) was running [smoothly](/zh/post/smoothly/)."
 
 ## 同义词
-- [measure](/post/measure/)
-- [assess](/post/assess/)
-- [evaluate](/post/evaluate/)
-- [estimate](/post/estimate/)
-- [judge](/post/judge/)
+- [measure](/zh/post/measure/)
+- [assess](/zh/post/assess/)
+- [evaluate](/zh/post/evaluate/)
+- [estimate](/zh/post/estimate/)
+- [judge](/zh/post/judge/)

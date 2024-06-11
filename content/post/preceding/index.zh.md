@@ -11,20 +11,20 @@ keywords = ['ai words', 'preceding']
 /prɪˈsiːdɪŋ/
 
 ## 释义
-- **形容词**: 在前的，先于的，早于的。例如: "[The](/post/the/) [preceding](/post/preceding/) [paragraph](/post/paragraph/) contains [important](/post/important/) [information](/post/information/)."
-- **名词**: 先前的事物或时期。例如: "[The](/post/the/) [preceding](/post/preceding/) [year](/post/year/) was [the](/post/the/) hottest [on](/post/on/) [record](/post/record/)."
+- **形容词**: 在前的，先于的，早于的。例如: "[The](/zh/post/the/) [preceding](/zh/post/preceding/) [paragraph](/zh/post/paragraph/) contains [important](/zh/post/important/) [information](/zh/post/information/)."
+- **名词**: 先前的事物或时期。例如: "[The](/zh/post/the/) [preceding](/zh/post/preceding/) [year](/zh/post/year/) was [the](/zh/post/the/) hottest [on](/zh/post/on/) [record](/zh/post/record/)."
 
 ## 短语
-- "[preceding](/post/preceding/) [year](/post/year/)" 指的是上一年。
-- "[preceding](/post/preceding/) [chapter](/post/chapter/)" 指的是前一章。
+- "[preceding](/zh/post/preceding/) [year](/zh/post/year/)" 指的是上一年。
+- "[preceding](/zh/post/preceding/) [chapter](/zh/post/chapter/)" 指的是前一章。
 
 ## 例句
-- 形容词: "[In](/post/in/) [the](/post/the/) [preceding](/post/preceding/) [sentence](/post/sentence/), [he](/post/he/) mentioned [his](/post/his/) plans."
-- 名词: "[The](/post/the/) [report](/post/report/) summarizes events [from](/post/from/) [the](/post/the/) [preceding](/post/preceding/) [month](/post/month/)."
+- 形容词: "[In](/zh/post/in/) [the](/zh/post/the/) [preceding](/zh/post/preceding/) [sentence](/zh/post/sentence/), [he](/zh/post/he/) mentioned [his](/zh/post/his/) plans."
+- 名词: "[The](/zh/post/the/) [report](/zh/post/report/) summarizes events [from](/zh/post/from/) [the](/zh/post/the/) [preceding](/zh/post/preceding/) [month](/zh/post/month/)."
 
 ## 同义词
-- [Previous](/post/previous/)
+- [Previous](/zh/post/previous/)
 - Anterior
-- [Former](/post/former/)
+- [Former](/zh/post/former/)
 - Earlier
 - Precedent

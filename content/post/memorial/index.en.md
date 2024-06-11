@@ -7,34 +7,34 @@ description = '[miˈmɔːriəl] a.纪念的；记忆的'
 keywords = ['ai words', 'memorial']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɛməriəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) An [object](/en/post/object/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [monument](/en/post/monument/), [statue](/en/post/statue/), [or](/en/post/or/) plaque, established [to](/en/post/to/) [remind](/en/post/remind/) [people](/en/post/people/) [of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [event](/en/post/event/) [from](/en/post/from/) [the](/en/post/the/) [past](/en/post/past/); [something](/en/post/something/) intended [to](/en/post/to/) [preserve](/en/post/preserve/) [the](/en/post/the/) [memory](/en/post/memory/) [of](/en/post/of/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) unveiled [a](/en/post/a/) [memorial](/en/post/memorial/) [to](/en/post/to/) [the](/en/post/the/) [war](/en/post/war/) heroes [in](/en/post/in/) [the](/en/post/the/) [town](/en/post/town/) [square](/en/post/square/)."
-- **Adj**: (adj) Relating [to](/en/post/to/) [or](/en/post/or/) serving [as](/en/post/as/) [a](/en/post/a/) [memorial](/en/post/memorial/); commemorative. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [memorial](/en/post/memorial/) [service](/en/post/service/) was held [to](/en/post/to/) honor [her](/en/post/her/) [late](/en/post/late/) [father](/en/post/father/)."
+- **[Noun](/post/noun/)**: (n) An [object](/post/object/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [monument](/post/monument/), [statue](/post/statue/), [or](/post/or/) plaque, established [to](/post/to/) [remind](/post/remind/) [people](/post/people/) [of](/post/of/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [event](/post/event/) [from](/post/from/) [the](/post/the/) [past](/post/past/); [something](/post/something/) intended [to](/post/to/) [preserve](/post/preserve/) [the](/post/the/) [memory](/post/memory/) [of](/post/of/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) unveiled [a](/post/a/) [memorial](/post/memorial/) [to](/post/to/) [the](/post/the/) [war](/post/war/) heroes [in](/post/in/) [the](/post/the/) [town](/post/town/) [square](/post/square/)."
+- **Adj**: (adj) Relating [to](/post/to/) [or](/post/or/) serving [as](/post/as/) [a](/post/a/) [memorial](/post/memorial/); commemorative. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [memorial](/post/memorial/) [service](/post/service/) was held [to](/post/to/) honor [her](/post/her/) [late](/post/late/) [father](/post/father/)."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- "[The](/en/post/the/) 9/11 [Memorial](/en/post/memorial/) & [Museum](/en/post/museum/) commemorates [the](/en/post/the/) victims [of](/en/post/of/) [the](/en/post/the/) terrorist attacks."
-- "[The](/en/post/the/) [family](/en/post/family/) erected [a](/en/post/a/) [memorial](/en/post/memorial/) [bench](/en/post/bench/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/) [where](/en/post/where/) [their](/en/post/their/) loved [one](/en/post/one/) [often](/en/post/often/) sat."
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- "[The](/post/the/) 9/11 [Memorial](/post/memorial/) & [Museum](/post/museum/) commemorates [the](/post/the/) victims [of](/post/of/) [the](/post/the/) terrorist attacks."
+- "[The](/post/the/) [family](/post/family/) erected [a](/post/a/) [memorial](/post/memorial/) [bench](/post/bench/) [in](/post/in/) [the](/post/the/) [park](/post/park/) [where](/post/where/) [their](/post/their/) loved [one](/post/one/) [often](/post/often/) sat."
 
-### [Adjective](/en/post/adjective/) [Usage](/en/post/usage/) Examples
-- "[The](/en/post/the/) [memorial](/en/post/memorial/) [concert](/en/post/concert/) celebrated [the](/en/post/the/) musician's [life](/en/post/life/) [and](/en/post/and/) [work](/en/post/work/)."
-- "[A](/en/post/a/) [memorial](/en/post/memorial/) plaque [on](/en/post/on/) [the](/en/post/the/) [wall](/en/post/wall/) lists [all](/en/post/all/) [the](/en/post/the/) names [of](/en/post/of/) [those](/en/post/those/) [who](/en/post/who/) died [in](/en/post/in/) [the](/en/post/the/) [disaster](/en/post/disaster/)."
+### [Adjective](/post/adjective/) [Usage](/post/usage/) Examples
+- "[The](/post/the/) [memorial](/post/memorial/) [concert](/post/concert/) celebrated [the](/post/the/) musician's [life](/post/life/) [and](/post/and/) [work](/post/work/)."
+- "[A](/post/a/) [memorial](/post/memorial/) plaque [on](/post/on/) [the](/post/the/) [wall](/post/wall/) lists [all](/post/all/) [the](/post/the/) names [of](/post/of/) [those](/post/those/) [who](/post/who/) died [in](/post/in/) [the](/post/the/) [disaster](/post/disaster/)."
 
 ## Phrases
-- "[Memorial](/en/post/memorial/) [Day](/en/post/day/)" - [a](/en/post/a/) [US](/en/post/us/) [public](/en/post/public/) [holiday](/en/post/holiday/) observed [on](/en/post/on/) [the](/en/post/the/) [last](/en/post/last/) Monday [of](/en/post/of/) [May](/en/post/may/) [to](/en/post/to/) [remember](/en/post/remember/) [and](/en/post/and/) honor [those](/en/post/those/) [who](/en/post/who/) [have](/en/post/have/) died [while](/en/post/while/) serving [in](/en/post/in/) [the](/en/post/the/) [military](/en/post/military/).
-- "[Memorial](/en/post/memorial/) [service](/en/post/service/)" - [a](/en/post/a/) [ceremony](/en/post/ceremony/) conducted [in](/en/post/in/) [memory](/en/post/memory/) [of](/en/post/of/) [a](/en/post/a/) deceased [person](/en/post/person/), typically [without](/en/post/without/) [the](/en/post/the/) [remains](/en/post/remains/) [present](/en/post/present/).
+- "[Memorial](/post/memorial/) [Day](/post/day/)" - [a](/post/a/) [US](/post/us/) [public](/post/public/) [holiday](/post/holiday/) observed [on](/post/on/) [the](/post/the/) [last](/post/last/) Monday [of](/post/of/) [May](/post/may/) [to](/post/to/) [remember](/post/remember/) [and](/post/and/) honor [those](/post/those/) [who](/post/who/) [have](/post/have/) died [while](/post/while/) serving [in](/post/in/) [the](/post/the/) [military](/post/military/).
+- "[Memorial](/post/memorial/) [service](/post/service/)" - [a](/post/a/) [ceremony](/post/ceremony/) conducted [in](/post/in/) [memory](/post/memory/) [of](/post/of/) [a](/post/a/) deceased [person](/post/person/), typically [without](/post/without/) [the](/post/the/) [remains](/post/remains/) [present](/post/present/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [community](/en/post/community/) gathered [around](/en/post/around/) [the](/en/post/the/) [war](/en/post/war/) [memorial](/en/post/memorial/) [to](/en/post/to/) [pay](/en/post/pay/) [their](/en/post/their/) respects."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [memorial](/en/post/memorial/) [fund](/en/post/fund/) was [set](/en/post/set/) [up](/en/post/up/) [to](/en/post/to/) [support](/en/post/support/) [research](/en/post/research/) [into](/en/post/into/) [the](/en/post/the/) [disease](/en/post/disease/) [that](/en/post/that/) took [his](/en/post/his/) [life](/en/post/life/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [community](/post/community/) gathered [around](/post/around/) [the](/post/the/) [war](/post/war/) [memorial](/post/memorial/) [to](/post/to/) [pay](/post/pay/) [their](/post/their/) respects."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [memorial](/post/memorial/) [fund](/post/fund/) was [set](/post/set/) [up](/post/up/) [to](/post/to/) [support](/post/support/) [research](/post/research/) [into](/post/into/) [the](/post/the/) [disease](/post/disease/) [that](/post/that/) took [his](/post/his/) [life](/post/life/)."
 
 ## Synonyms
-- [Monument](/en/post/monument/)
+- [Monument](/post/monument/)
 - Tribute
 - Remembrance
 - Commemoration
 - Memorialization
 - Ode
-- [In](/en/post/in/) Memoriam
+- [In](/post/in/) Memoriam

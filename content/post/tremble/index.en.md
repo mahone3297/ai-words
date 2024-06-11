@@ -7,35 +7,35 @@ description = '[ˈtrembl] vi.发抖，哆嗦；摇动'
 keywords = ['ai words', 'tremble']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /trembl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [tremble](/en/post/tremble/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/):
-1. [**[Noun](/en/post/noun/) ([noun](/en/post/noun/))**]: An involuntary shaking [or](/en/post/or/) quivering, [often](/en/post/often/) [of](/en/post/of/) [the](/en/post/the/) [body](/en/post/body/), [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [response](/en/post/response/) [to](/en/post/to/) [fear](/en/post/fear/), [emotion](/en/post/emotion/), [or](/en/post/or/) [physical](/en/post/physical/) [illness](/en/post/illness/). [Example](/en/post/example/): "[She](/en/post/she/) felt [a](/en/post/a/) [tremble](/en/post/tremble/) [run](/en/post/run/) [through](/en/post/through/) [her](/en/post/her/) hands [when](/en/post/when/) [she](/en/post/she/) heard [the](/en/post/the/) [news](/en/post/news/)."
-2. [**[Noun](/en/post/noun/) ([adjective](/en/post/adjective/))**]: [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [fear](/en/post/fear/) [or](/en/post/or/) [anxiety](/en/post/anxiety/). [Example](/en/post/example/): "[The](/en/post/the/) [thought](/en/post/thought/) [of](/en/post/of/) [public](/en/post/public/) speaking made [him](/en/post/him/) [feel](/en/post/feel/) [a](/en/post/a/) [tremble](/en/post/tremble/) [of](/en/post/of/) [dread](/en/post/dread/)."
+### [Noun](/post/noun/)
+[A](/post/a/) [tremble](/post/tremble/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/):
+1. [**[Noun](/post/noun/) ([noun](/post/noun/))**]: An involuntary shaking [or](/post/or/) quivering, [often](/post/often/) [of](/post/of/) [the](/post/the/) [body](/post/body/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [response](/post/response/) [to](/post/to/) [fear](/post/fear/), [emotion](/post/emotion/), [or](/post/or/) [physical](/post/physical/) [illness](/post/illness/). [Example](/post/example/): "[She](/post/she/) felt [a](/post/a/) [tremble](/post/tremble/) [run](/post/run/) [through](/post/through/) [her](/post/her/) hands [when](/post/when/) [she](/post/she/) heard [the](/post/the/) [news](/post/news/)."
+2. [**[Noun](/post/noun/) ([adjective](/post/adjective/))**]: [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [fear](/post/fear/) [or](/post/or/) [anxiety](/post/anxiety/). [Example](/post/example/): "[The](/post/the/) [thought](/post/thought/) [of](/post/of/) [public](/post/public/) speaking made [him](/post/him/) [feel](/post/feel/) [a](/post/a/) [tremble](/post/tremble/) [of](/post/of/) [dread](/post/dread/)."
 
-### [Verb](/en/post/verb/)
-1. [**[Verb](/en/post/verb/) (intransitive)**]: [To](/en/post/to/) [shake](/en/post/shake/) [or](/en/post/or/) [vibrate](/en/post/vibrate/) [with](/en/post/with/) [small](/en/post/small/), [rapid](/en/post/rapid/) movements, [usually](/en/post/usually/) involuntarily. [Example](/en/post/example/): "[He](/en/post/he/) trembled [with](/en/post/with/) [cold](/en/post/cold/) [after](/en/post/after/) spending [the](/en/post/the/) [night](/en/post/night/) [outside](/en/post/outside/)."
-2. [**[Verb](/en/post/verb/) (transitive)**]: [To](/en/post/to/) [cause](/en/post/cause/) [someone](/en/post/someone/) [to](/en/post/to/) [feel](/en/post/feel/) [fear](/en/post/fear/) [or](/en/post/or/) [anxiety](/en/post/anxiety/), [leading](/en/post/leading/) [them](/en/post/them/) [to](/en/post/to/) [tremble](/en/post/tremble/). [Example](/en/post/example/): "[Her](/en/post/her/) words sent [a](/en/post/a/) [chill](/en/post/chill/) [down](/en/post/down/) [his](/en/post/his/) spine, making [him](/en/post/him/) [tremble](/en/post/tremble/)."
+### [Verb](/post/verb/)
+1. [**[Verb](/post/verb/) (intransitive)**]: [To](/post/to/) [shake](/post/shake/) [or](/post/or/) [vibrate](/post/vibrate/) [with](/post/with/) [small](/post/small/), [rapid](/post/rapid/) movements, [usually](/post/usually/) involuntarily. [Example](/post/example/): "[He](/post/he/) trembled [with](/post/with/) [cold](/post/cold/) [after](/post/after/) spending [the](/post/the/) [night](/post/night/) [outside](/post/outside/)."
+2. [**[Verb](/post/verb/) (transitive)**]: [To](/post/to/) [cause](/post/cause/) [someone](/post/someone/) [to](/post/to/) [feel](/post/feel/) [fear](/post/fear/) [or](/post/or/) [anxiety](/post/anxiety/), [leading](/post/leading/) [them](/post/them/) [to](/post/to/) [tremble](/post/tremble/). [Example](/post/example/): "[Her](/post/her/) words sent [a](/post/a/) [chill](/post/chill/) [down](/post/down/) [his](/post/his/) spine, making [him](/post/him/) [tremble](/post/tremble/)."
 
-### [Adverb](/en/post/adverb/)
-[In](/en/post/in/) [this](/en/post/this/) context, "tremblingly" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [to](/en/post/to/) [describe](/en/post/describe/) [how](/en/post/how/) [something](/en/post/something/) is done, typically [with](/en/post/with/) [a](/en/post/a/) tremor. [Example](/en/post/example/): "[She](/en/post/she/) spoke tremblingly, [her](/en/post/her/) [voice](/en/post/voice/) barely audible."
+### [Adverb](/post/adverb/)
+[In](/post/in/) [this](/post/this/) context, "tremblingly" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/) [to](/post/to/) [describe](/post/describe/) [how](/post/how/) [something](/post/something/) is done, typically [with](/post/with/) [a](/post/a/) tremor. [Example](/post/example/): "[She](/post/she/) spoke tremblingly, [her](/post/her/) [voice](/post/voice/) barely audible."
 
 ## Phrases
-- "[Tremble](/en/post/tremble/) [with](/en/post/with/) [fear](/en/post/fear/)" describes [someone](/en/post/someone/) [who](/en/post/who/) is experiencing [intense](/en/post/intense/) [fear](/en/post/fear/).
-- "[A](/en/post/a/) [slight](/en/post/slight/) [tremble](/en/post/tremble/) [in](/en/post/in/) [her](/en/post/her/) [voice](/en/post/voice/)" indicates [a](/en/post/a/) [hint](/en/post/hint/) [of](/en/post/of/) nervousness.
-- "[He](/en/post/he/) couldn't [control](/en/post/control/) [the](/en/post/the/) [tremble](/en/post/tremble/) [in](/en/post/in/) [his](/en/post/his/) hands" suggests unsteadiness.
+- "[Tremble](/post/tremble/) [with](/post/with/) [fear](/post/fear/)" describes [someone](/post/someone/) [who](/post/who/) is experiencing [intense](/post/intense/) [fear](/post/fear/).
+- "[A](/post/a/) [slight](/post/slight/) [tremble](/post/tremble/) [in](/post/in/) [her](/post/her/) [voice](/post/voice/)" indicates [a](/post/a/) [hint](/post/hint/) [of](/post/of/) nervousness.
+- "[He](/post/he/) couldn't [control](/post/control/) [the](/post/the/) [tremble](/post/tremble/) [in](/post/in/) [his](/post/his/) hands" suggests unsteadiness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) man's hands trembled [as](/en/post/as/) [he](/en/post/he/) held [the](/en/post/the/) [glass](/en/post/glass/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [storm](/en/post/storm/) caused [the](/en/post/the/) trees [to](/en/post/to/) [tremble](/en/post/tremble/) violently."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) entered [the](/en/post/the/) [room](/en/post/room/), [her](/en/post/her/) steps tremblingly cautious."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) man's hands trembled [as](/post/as/) [he](/post/he/) held [the](/post/the/) [glass](/post/glass/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [storm](/post/storm/) caused [the](/post/the/) trees [to](/post/to/) [tremble](/post/tremble/) violently."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) entered [the](/post/the/) [room](/post/room/), [her](/post/her/) steps tremblingly cautious."
 
 ## Synonyms
 - Quiver
-- [Shake](/en/post/shake/)
-- [Vibrate](/en/post/vibrate/)
+- [Shake](/post/shake/)
+- [Vibrate](/post/vibrate/)
 - Judder
 - Tremolo

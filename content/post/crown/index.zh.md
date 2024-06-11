@@ -11,22 +11,22 @@ keywords = ['ai words', 'crown']
 /krɔːn/
 
 ## 释义
-- **名词**: 王冠，君主的象征；冠军，最高荣誉。例如: "[The](/post/the/) [queen](/post/queen/) wore [her](/post/her/) [crown](/post/crown/) [during](/post/during/) [the](/post/the/) [ceremony](/post/ceremony/)."
-- **动词**: 加冕，使成为国王或王后。例如: "[The](/post/the/) [prince](/post/prince/) was crowned [king](/post/king/) [in](/post/in/) [a](/post/a/) [grand](/post/grand/) [ceremony](/post/ceremony/)."
-- **形容词**: 皇冠的，帝王的；最高的，顶尖的。例如: "[The](/post/the/) [crown](/post/crown/) jewels are kept [in](/post/in/) [the](/post/the/) [Tower](/post/tower/) [of](/post/of/) London."
+- **名词**: 王冠，君主的象征；冠军，最高荣誉。例如: "[The](/zh/post/the/) [queen](/zh/post/queen/) wore [her](/zh/post/her/) [crown](/zh/post/crown/) [during](/zh/post/during/) [the](/zh/post/the/) [ceremony](/zh/post/ceremony/)."
+- **动词**: 加冕，使成为国王或王后。例如: "[The](/zh/post/the/) [prince](/zh/post/prince/) was crowned [king](/zh/post/king/) [in](/zh/post/in/) [a](/zh/post/a/) [grand](/zh/post/grand/) [ceremony](/zh/post/ceremony/)."
+- **形容词**: 皇冠的，帝王的；最高的，顶尖的。例如: "[The](/zh/post/the/) [crown](/zh/post/crown/) jewels are kept [in](/zh/post/in/) [the](/zh/post/the/) [Tower](/zh/post/tower/) [of](/zh/post/of/) London."
 
 ## 短语
-- "[the](/post/the/) [crown](/post/crown/) jewels" 指英国王室的珠宝。
-- "[crown](/post/crown/) [princess](/post/princess/)" 是指王位的女性继承人。
-- "crowned [champion](/post/champion/)" 指被加冕为冠军的人。
+- "[the](/zh/post/the/) [crown](/zh/post/crown/) jewels" 指英国王室的珠宝。
+- "[crown](/zh/post/crown/) [princess](/zh/post/princess/)" 是指王位的女性继承人。
+- "crowned [champion](/zh/post/champion/)" 指被加冕为冠军的人。
 
 ## 例句
-- 名词: "[The](/post/the/) [little](/post/little/) [girl](/post/girl/) dreamed [of](/post/of/) wearing [a](/post/a/) sparkling [crown](/post/crown/) [one](/post/one/) [day](/post/day/)."
-- 动词: "[After](/post/after/) winning [the](/post/the/) tournament, [the](/post/the/) [athlete](/post/athlete/) was crowned [the](/post/the/) [world](/post/world/) [champion](/post/champion/)."
-- 形容词: "[The](/post/the/) [crown](/post/crown/) [restaurant](/post/restaurant/) [in](/post/in/) [town](/post/town/) is renowned [for](/post/for/) [its](/post/its/) exquisite cuisine."
+- 名词: "[The](/zh/post/the/) [little](/zh/post/little/) [girl](/zh/post/girl/) dreamed [of](/zh/post/of/) wearing [a](/zh/post/a/) sparkling [crown](/zh/post/crown/) [one](/zh/post/one/) [day](/zh/post/day/)."
+- 动词: "[After](/zh/post/after/) winning [the](/zh/post/the/) tournament, [the](/zh/post/the/) [athlete](/zh/post/athlete/) was crowned [the](/zh/post/the/) [world](/zh/post/world/) [champion](/zh/post/champion/)."
+- 形容词: "[The](/zh/post/the/) [crown](/zh/post/crown/) [restaurant](/zh/post/restaurant/) [in](/zh/post/in/) [town](/zh/post/town/) is renowned [for](/zh/post/for/) [its](/zh/post/its/) exquisite cuisine."
 
 ## 同义词
-- tiara ([for](/post/for/) [a](/post/a/) smaller, decorative [head](/post/head/) [ornament](/post/ornament/))
-- [throne](/post/throne/) ([as](/post/as/) [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) [royal](/post/royal/) [power](/post/power/))
-- [top](/post/top/) ([in](/post/in/) terms [of](/post/of/) [being](/post/being/) [the](/post/the/) [best](/post/best/))
-- [peak](/post/peak/) ([in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), [meaning](/post/meaning/) [the](/post/the/) highest [point](/post/point/))
+- tiara ([for](/zh/post/for/) [a](/zh/post/a/) smaller, decorative [head](/zh/post/head/) [ornament](/zh/post/ornament/))
+- [throne](/zh/post/throne/) ([as](/zh/post/as/) [a](/zh/post/a/) [symbol](/zh/post/symbol/) [of](/zh/post/of/) [royal](/zh/post/royal/) [power](/zh/post/power/))
+- [top](/zh/post/top/) ([in](/zh/post/in/) terms [of](/zh/post/of/) [being](/zh/post/being/) [the](/zh/post/the/) [best](/zh/post/best/))
+- [peak](/zh/post/peak/) ([in](/zh/post/in/) [a](/zh/post/a/) figurative [sense](/zh/post/sense/), [meaning](/zh/post/meaning/) [the](/zh/post/the/) highest [point](/zh/post/point/))

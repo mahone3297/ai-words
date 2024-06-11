@@ -7,33 +7,33 @@ description = '[bəːθ] n.分娩，出生；出身'
 keywords = ['ai words', 'birth']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɜːθ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: **v.** ([birth](/en/post/birth/))** [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) coming [into](/en/post/into/) [existence](/en/post/existence/), [especially](/en/post/especially/) [the](/en/post/the/) [delivery](/en/post/delivery/) [of](/en/post/of/) [a](/en/post/a/) [baby](/en/post/baby/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) joyous [moment](/en/post/moment/) [of](/en/post/of/) [her](/en/post/her/) child's [birth](/en/post/birth/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [born](/en/post/born/); [come](/en/post/come/) [into](/en/post/into/) [existence](/en/post/existence/) [or](/en/post/or/) [life](/en/post/life/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [born](/en/post/born/) [in](/en/post/in/) [a](/en/post/a/) [small](/en/post/small/) [town](/en/post/town/) [in](/en/post/in/) Italy."
+- **[Noun](/post/noun/)**: **v.** ([birth](/post/birth/))** [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) coming [into](/post/into/) [existence](/post/existence/), [especially](/post/especially/) [the](/post/the/) [delivery](/post/delivery/) [of](/post/of/) [a](/post/a/) [baby](/post/baby/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) joyous [moment](/post/moment/) [of](/post/of/) [her](/post/her/) child's [birth](/post/birth/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) [born](/post/born/); [come](/post/come/) [into](/post/into/) [existence](/post/existence/) [or](/post/or/) [life](/post/life/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [born](/post/born/) [in](/post/in/) [a](/post/a/) [small](/post/small/) [town](/post/town/) [in](/post/in/) Italy."
 
 ## Phrases
-- "[The](/en/post/the/) [birth](/en/post/birth/) [of](/en/post/of/) [a](/en/post/a/) [new](/en/post/new/) [idea](/en/post/idea/)"
-- "[A](/en/post/a/) baby's [birth](/en/post/birth/) [certificate](/en/post/certificate/)"
-- "[His](/en/post/his/) [birth](/en/post/birth/) [date](/en/post/date/) is January 1st"
+- "[The](/post/the/) [birth](/post/birth/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [idea](/post/idea/)"
+- "[A](/post/a/) baby's [birth](/post/birth/) [certificate](/post/certificate/)"
+- "[His](/post/his/) [birth](/post/birth/) [date](/post/date/) is January 1st"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [hospital](/en/post/hospital/) was filled [with](/en/post/with/) [the](/en/post/the/) sounds [of](/en/post/of/) newborns' births [that](/en/post/that/) [day](/en/post/day/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) pregnancy, [she](/en/post/she/) [finally](/en/post/finally/) gave [birth](/en/post/birth/) [to](/en/post/to/) [a](/en/post/a/) [healthy](/en/post/healthy/) [baby](/en/post/baby/)."
-- "[The](/en/post/the/) [ancient](/en/post/ancient/) [civilization](/en/post/civilization/) marked [their](/en/post/their/) [first](/en/post/first/) [birth](/en/post/birth/) anniversaries."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [hospital](/post/hospital/) was filled [with](/post/with/) [the](/post/the/) sounds [of](/post/of/) newborns' births [that](/post/that/) [day](/post/day/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) pregnancy, [she](/post/she/) [finally](/post/finally/) gave [birth](/post/birth/) [to](/post/to/) [a](/post/a/) [healthy](/post/healthy/) [baby](/post/baby/)."
+- "[The](/post/the/) [ancient](/post/ancient/) [civilization](/post/civilization/) marked [their](/post/their/) [first](/post/first/) [birth](/post/birth/) anniversaries."
 
 ## Synonyms
-- [Delivery](/en/post/delivery/)
+- [Delivery](/post/delivery/)
 - Conception
-- [Origin](/en/post/origin/)
-- [Arrival](/en/post/arrival/)
+- [Origin](/post/origin/)
+- [Arrival](/post/arrival/)
 - Incarnation
 
 ## Antonyms
-- [Death](/en/post/death/)
-- [Departure](/en/post/departure/)
-- [Ending](/en/post/ending/)
+- [Death](/post/death/)
+- [Departure](/post/departure/)
+- [Ending](/post/ending/)
 - Demise
 - Passing

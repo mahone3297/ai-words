@@ -12,23 +12,23 @@ keywords = ['ai words', 'tub']
 
 ## 释义
 - **名词**:
-1. 大而浅的容器，通常用于洗澡或储存液体。例如: "[She](/post/she/) filled [the](/post/the/) [tub](/post/tub/) [with](/post/with/) [hot](/post/hot/) [water](/post/water/) [for](/post/for/) [a](/post/a/) [bath](/post/bath/)."
-2. 管状物，尤指桶形部分。例如: "[The](/post/the/) [old](/post/old/) bathtub had [a](/post/a/) rusted tubular [frame](/post/frame/)."
+1. 大而浅的容器，通常用于洗澡或储存液体。例如: "[She](/zh/post/she/) filled [the](/zh/post/the/) [tub](/zh/post/tub/) [with](/zh/post/with/) [hot](/zh/post/hot/) [water](/zh/post/water/) [for](/zh/post/for/) [a](/zh/post/a/) [bath](/zh/post/bath/)."
+2. 管状物，尤指桶形部分。例如: "[The](/zh/post/the/) [old](/zh/post/old/) bathtub had [a](/zh/post/a/) rusted tubular [frame](/zh/post/frame/)."
 
 - **动词**:
-1. 把东西放入浴缸中。例如: "I [need](/post/need/) [to](/post/to/) [tub](/post/tub/) [the](/post/the/) [dog](/post/dog/) [before](/post/before/) [the](/post/the/) guests [arrive](/post/arrive/)."
+1. 把东西放入浴缸中。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [tub](/zh/post/tub/) [the](/zh/post/the/) [dog](/zh/post/dog/) [before](/zh/post/before/) [the](/zh/post/the/) guests [arrive](/zh/post/arrive/)."
 
 ## 短语
-- "bathtub [tub](/post/tub/)" 指的是浴室里的大浴缸。
-- "[tub](/post/tub/) [toy](/post/toy/)" 是指在浴缸里玩的玩具。
+- "bathtub [tub](/zh/post/tub/)" 指的是浴室里的大浴缸。
+- "[tub](/zh/post/tub/) [toy](/zh/post/toy/)" 是指在浴缸里玩的玩具。
 
 ## 例句
-- 名词: "[The](/post/the/) [baby](/post/baby/) enjoyed splashing [around](/post/around/) [in](/post/in/) [the](/post/the/) [tub](/post/tub/)."
-- 动词: "I had [to](/post/to/) [tub](/post/tub/) [the](/post/the/) [cat](/post/cat/) [because](/post/because/) [it](/post/it/) got covered [in](/post/in/) [mud](/post/mud/)."
+- 名词: "[The](/zh/post/the/) [baby](/zh/post/baby/) enjoyed splashing [around](/zh/post/around/) [in](/zh/post/in/) [the](/zh/post/the/) [tub](/zh/post/tub/)."
+- 动词: "I had [to](/zh/post/to/) [tub](/zh/post/tub/) [the](/zh/post/the/) [cat](/zh/post/cat/) [because](/zh/post/because/) [it](/zh/post/it/) got covered [in](/zh/post/in/) [mud](/zh/post/mud/)."
 
 ## 同义词
-- [Basin](/post/basin/)
-- [Bucket](/post/bucket/)
+- [Basin](/zh/post/basin/)
+- [Bucket](/zh/post/bucket/)
 - Vat
 - Cistern
 - Washbasin

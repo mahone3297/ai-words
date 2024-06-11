@@ -11,21 +11,21 @@ keywords = ['ai words', 'ship']
 /ʃɪp/
 
 ## 释义
-- **名词 (n)**: 大型水上交通工具，通常指轮船或船舶。例如: "[The](/post/the/) cruise [ship](/post/ship/) sailed [through](/post/through/) [the](/post/the/) Mediterranean [Sea](/post/sea/)."
-- **名词 (n)**: 在计算机或网络中，可以指代软件或硬件的版本。例如: "[The](/post/the/) [new](/post/new/) [version](/post/version/) [of](/post/of/) [the](/post/the/) software is called '[ship](/post/ship/)'."
+- **名词 (n)**: 大型水上交通工具，通常指轮船或船舶。例如: "[The](/zh/post/the/) cruise [ship](/zh/post/ship/) sailed [through](/zh/post/through/) [the](/zh/post/the/) Mediterranean [Sea](/zh/post/sea/)."
+- **名词 (n)**: 在计算机或网络中，可以指代软件或硬件的版本。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [version](/zh/post/version/) [of](/zh/post/of/) [the](/zh/post/the/) software is called '[ship](/zh/post/ship/)'."
 
 ## 短语
-- "[aboard](/post/aboard/) [ship](/post/ship/)" 在船上。例如: "[He](/post/he/) was excited [to](/post/to/) [be](/post/be/) [aboard](/post/aboard/) [the](/post/the/) [ship](/post/ship/) [for](/post/for/) [his](/post/his/) [first](/post/first/) [voyage](/post/voyage/)."
-- "[launch](/post/launch/) [a](/post/a/) [ship](/post/ship/)" 发射或下水一艘船。例如: "[The](/post/the/) [new](/post/new/) warship was launched [with](/post/with/) [great](/post/great/) [ceremony](/post/ceremony/)."
-- "[ship](/post/ship/) [out](/post/out/)" 运输或发送货物。例如: "[They](/post/they/) [will](/post/will/) [ship](/post/ship/) [out](/post/out/) [the](/post/the/) packages [tomorrow](/post/tomorrow/)."
+- "[aboard](/zh/post/aboard/) [ship](/zh/post/ship/)" 在船上。例如: "[He](/zh/post/he/) was excited [to](/zh/post/to/) [be](/zh/post/be/) [aboard](/zh/post/aboard/) [the](/zh/post/the/) [ship](/zh/post/ship/) [for](/zh/post/for/) [his](/zh/post/his/) [first](/zh/post/first/) [voyage](/zh/post/voyage/)."
+- "[launch](/zh/post/launch/) [a](/zh/post/a/) [ship](/zh/post/ship/)" 发射或下水一艘船。例如: "[The](/zh/post/the/) [new](/zh/post/new/) warship was launched [with](/zh/post/with/) [great](/zh/post/great/) [ceremony](/zh/post/ceremony/)."
+- "[ship](/zh/post/ship/) [out](/zh/post/out/)" 运输或发送货物。例如: "[They](/zh/post/they/) [will](/zh/post/will/) [ship](/zh/post/ship/) [out](/zh/post/out/) [the](/zh/post/the/) packages [tomorrow](/zh/post/tomorrow/)."
 
 ## 例句
-- 名词: "[The](/post/the/) majestic [ship](/post/ship/) sailed [past](/post/past/) [the](/post/the/) lighthouse."
-- 名词（计算机用语）: "[The](/post/the/) developers [have](/post/have/) [just](/post/just/) shipped [the](/post/the/) latest update [to](/post/to/) [the](/post/the/) app."
+- 名词: "[The](/zh/post/the/) majestic [ship](/zh/post/ship/) sailed [past](/zh/post/past/) [the](/zh/post/the/) lighthouse."
+- 名词（计算机用语）: "[The](/zh/post/the/) developers [have](/zh/post/have/) [just](/zh/post/just/) shipped [the](/zh/post/the/) latest update [to](/zh/post/to/) [the](/zh/post/the/) app."
 
 ## 同义词
-- [vessel](/post/vessel/)
-- [boat](/post/boat/)
-- [craft](/post/craft/)
+- [vessel](/zh/post/vessel/)
+- [boat](/zh/post/boat/)
+- [craft](/zh/post/craft/)
 - watercraft
-- [vessel](/post/vessel/) ([in](/post/in/) context [of](/post/of/) boats)
+- [vessel](/zh/post/vessel/) ([in](/zh/post/in/) context [of](/zh/post/of/) boats)

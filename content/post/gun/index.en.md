@@ -7,33 +7,33 @@ description = '[gʌn] n.枪，炮，手枪'
 keywords = ['ai words', 'gun']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡʌn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [weapon](/en/post/weapon/) [that](/en/post/that/) fires bullets, [often](/en/post/often/) designed [to](/en/post/to/) [be](/en/post/be/) handheld, using [the](/en/post/the/) [force](/en/post/force/) [of](/en/post/of/) an [explosive](/en/post/explosive/) [charge](/en/post/charge/) [to](/en/post/to/) propel [a](/en/post/a/) projectile [through](/en/post/through/) [a](/en/post/a/) [metal](/en/post/metal/) [tube](/en/post/tube/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) kept [a](/en/post/a/) shotgun [for](/en/post/for/) [home](/en/post/home/) defense."
-  - **([Military](/en/post/military/)) [Noun](/en/post/noun/)**: Artillery [or](/en/post/or/) large-caliber projectile-firing weapons. [Example](/en/post/example/): "[The](/en/post/the/) soldiers manned [the](/en/post/the/) anti-aircraft guns."
-  - (Metaphorical) [The](/en/post/the/) [power](/en/post/power/) [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) [influence](/en/post/influence/) [or](/en/post/or/) [control](/en/post/control/) [a](/en/post/a/) [situation](/en/post/situation/). [Example](/en/post/example/): "[Money](/en/post/money/) is [the](/en/post/the/) [real](/en/post/real/) [gun](/en/post/gun/) [in](/en/post/in/) [this](/en/post/this/) negotiation."
+- **[Noun](/post/noun/)**: [A](/post/a/) [weapon](/post/weapon/) [that](/post/that/) fires bullets, [often](/post/often/) designed [to](/post/to/) [be](/post/be/) handheld, using [the](/post/the/) [force](/post/force/) [of](/post/of/) an [explosive](/post/explosive/) [charge](/post/charge/) [to](/post/to/) propel [a](/post/a/) projectile [through](/post/through/) [a](/post/a/) [metal](/post/metal/) [tube](/post/tube/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) kept [a](/post/a/) shotgun [for](/post/for/) [home](/post/home/) defense."
+  - **([Military](/post/military/)) [Noun](/post/noun/)**: Artillery [or](/post/or/) large-caliber projectile-firing weapons. [Example](/post/example/): "[The](/post/the/) soldiers manned [the](/post/the/) anti-aircraft guns."
+  - (Metaphorical) [The](/post/the/) [power](/post/power/) [or](/post/or/) [ability](/post/ability/) [to](/post/to/) [influence](/post/influence/) [or](/post/or/) [control](/post/control/) [a](/post/a/) [situation](/post/situation/). [Example](/post/example/): "[Money](/post/money/) is [the](/post/the/) [real](/post/real/) [gun](/post/gun/) [in](/post/in/) [this](/post/this/) negotiation."
 
 ## Phrases
-- "[Lock](/en/post/lock/) [and](/en/post/and/) [load](/en/post/load/)": [Prepare](/en/post/prepare/) [a](/en/post/a/) [gun](/en/post/gun/) [for](/en/post/for/) firing, [often](/en/post/often/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [indicate](/en/post/indicate/) [preparation](/en/post/preparation/) [for](/en/post/for/) [a](/en/post/a/) challenging [task](/en/post/task/) [or](/en/post/or/) confrontation.
-- "[Under](/en/post/under/) [the](/en/post/the/) [gun](/en/post/gun/)": [Under](/en/post/under/) [intense](/en/post/intense/) [pressure](/en/post/pressure/) [or](/en/post/or/) scrutiny; facing [a](/en/post/a/) deadline [or](/en/post/or/) [difficult](/en/post/difficult/) [decision](/en/post/decision/).
-- "[Point](/en/post/point/) [a](/en/post/a/) loaded [gun](/en/post/gun/) [at](/en/post/at/)": [To](/en/post/to/) [put](/en/post/put/) [oneself](/en/post/oneself/) [or](/en/post/or/) [someone](/en/post/someone/) [else](/en/post/else/) [in](/en/post/in/) [a](/en/post/a/) [dangerous](/en/post/dangerous/) [or](/en/post/or/) precarious [position](/en/post/position/), [often](/en/post/often/) figuratively.
+- "[Lock](/post/lock/) [and](/post/and/) [load](/post/load/)": [Prepare](/post/prepare/) [a](/post/a/) [gun](/post/gun/) [for](/post/for/) firing, [often](/post/often/) [used](/post/used/) metaphorically [to](/post/to/) [indicate](/post/indicate/) [preparation](/post/preparation/) [for](/post/for/) [a](/post/a/) challenging [task](/post/task/) [or](/post/or/) confrontation.
+- "[Under](/post/under/) [the](/post/the/) [gun](/post/gun/)": [Under](/post/under/) [intense](/post/intense/) [pressure](/post/pressure/) [or](/post/or/) scrutiny; facing [a](/post/a/) deadline [or](/post/or/) [difficult](/post/difficult/) [decision](/post/decision/).
+- "[Point](/post/point/) [a](/post/a/) loaded [gun](/post/gun/) [at](/post/at/)": [To](/post/to/) [put](/post/put/) [oneself](/post/oneself/) [or](/post/or/) [someone](/post/someone/) [else](/post/else/) [in](/post/in/) [a](/post/a/) [dangerous](/post/dangerous/) [or](/post/or/) precarious [position](/post/position/), [often](/post/often/) figuratively.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) hunter carried [his](/en/post/his/) [rifle](/en/post/rifle/) [into](/en/post/into/) [the](/en/post/the/) woods."
-- "[In](/en/post/in/) [the](/en/post/the/) [Wild](/en/post/wild/) [West](/en/post/west/), [a](/en/post/a/) six-shooter was [a](/en/post/a/) [common](/en/post/common/) sidearm [for](/en/post/for/) cowboys."
-- Metaphorical: "[His](/en/post/his/) [sharp](/en/post/sharp/) [wit](/en/post/wit/) was [like](/en/post/like/) [a](/en/post/a/) verbal [gun](/en/post/gun/) [in](/en/post/in/) debates."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) hunter carried [his](/post/his/) [rifle](/post/rifle/) [into](/post/into/) [the](/post/the/) woods."
+- "[In](/post/in/) [the](/post/the/) [Wild](/post/wild/) [West](/post/west/), [a](/post/a/) six-shooter was [a](/post/a/) [common](/post/common/) sidearm [for](/post/for/) cowboys."
+- Metaphorical: "[His](/post/his/) [sharp](/post/sharp/) [wit](/post/wit/) was [like](/post/like/) [a](/post/a/) verbal [gun](/post/gun/) [in](/post/in/) debates."
 
 ## Synonyms
-- [Pistol](/en/post/pistol/)
+- [Pistol](/post/pistol/)
 - Revolver
-- [Rifle](/en/post/rifle/)
+- [Rifle](/post/rifle/)
 - Shotgun
-- [Cannon](/en/post/cannon/) ([for](/en/post/for/) larger artillery)
-- [Weapon](/en/post/weapon/)
+- [Cannon](/post/cannon/) ([for](/post/for/) larger artillery)
+- [Weapon](/post/weapon/)
 - Firearm
-- Armament ([for](/en/post/for/) [military](/en/post/military/) [usage](/en/post/usage/)) 
+- Armament ([for](/post/for/) [military](/post/military/) [usage](/post/usage/)) 
 
-## [Note](/en/post/note/) [on](/en/post/on/) [Usage](/en/post/usage/)
-[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), '[gun](/en/post/gun/)' [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [accelerate](/en/post/accelerate/) [rapidly](/en/post/rapidly/) [or](/en/post/or/) [to](/en/post/to/) [aim](/en/post/aim/) [a](/en/post/a/) [gun](/en/post/gun/) [at](/en/post/at/) [something](/en/post/something/)/[someone](/en/post/someone/), [but](/en/post/but/) it's [less](/en/post/less/) [common](/en/post/common/) [than](/en/post/than/) [its](/en/post/its/) [noun](/en/post/noun/) [form](/en/post/form/) [and](/en/post/and/) [often](/en/post/often/) appears [in](/en/post/in/) phrasal verbs [such](/en/post/such/) [as](/en/post/as/) "gunned [the](/en/post/the/) [engine](/en/post/engine/)" ([to](/en/post/to/) [suddenly](/en/post/suddenly/) [increase](/en/post/increase/) [speed](/en/post/speed/)) [or](/en/post/or/) "[gun](/en/post/gun/) [for](/en/post/for/)" ([to](/en/post/to/) aggressively [pursue](/en/post/pursue/) [or](/en/post/or/) [target](/en/post/target/)).
+## [Note](/post/note/) [on](/post/on/) [Usage](/post/usage/)
+[As](/post/as/) [a](/post/a/) [verb](/post/verb/), '[gun](/post/gun/)' [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [accelerate](/post/accelerate/) [rapidly](/post/rapidly/) [or](/post/or/) [to](/post/to/) [aim](/post/aim/) [a](/post/a/) [gun](/post/gun/) [at](/post/at/) [something](/post/something/)/[someone](/post/someone/), [but](/post/but/) it's [less](/post/less/) [common](/post/common/) [than](/post/than/) [its](/post/its/) [noun](/post/noun/) [form](/post/form/) [and](/post/and/) [often](/post/often/) appears [in](/post/in/) phrasal verbs [such](/post/such/) [as](/post/as/) "gunned [the](/post/the/) [engine](/post/engine/)" ([to](/post/to/) [suddenly](/post/suddenly/) [increase](/post/increase/) [speed](/post/speed/)) [or](/post/or/) "[gun](/post/gun/) [for](/post/for/)" ([to](/post/to/) aggressively [pursue](/post/pursue/) [or](/post/or/) [target](/post/target/)).

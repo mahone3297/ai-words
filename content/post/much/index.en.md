@@ -7,32 +7,32 @@ description = '[mʌt∫] ad.非常，很 a.许多的'
 keywords = ['ai words', 'much']
 +++
 
-## [Word](/en/post/word/): [Much](/en/post/much/)
+## [Word](/post/word/): [Much](/post/much/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /mʌtʃ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [A](/en/post/a/) quantifier indicating [a](/en/post/a/) [large](/en/post/large/) [but](/en/post/but/) unspecified [amount](/en/post/amount/) [or](/en/post/or/) [degree](/en/post/degree/); [to](/en/post/to/) [a](/en/post/a/) [great](/en/post/great/) [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "There's [much](/en/post/much/) [work](/en/post/work/) [to](/en/post/to/) [be](/en/post/be/) done."
-  - "[She](/en/post/she/) was [much](/en/post/much/) happier [after](/en/post/after/) [her](/en/post/her/) [vacation](/en/post/vacation/)."
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [a](/en/post/a/) [great](/en/post/great/) [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/); [very](/en/post/very/). [For](/en/post/for/) [example](/en/post/example/): "I couldn't [care](/en/post/care/) [much](/en/post/much/) [less](/en/post/less/) [about](/en/post/about/) [that](/en/post/that/) [issue](/en/post/issue/)."
-  - "[The](/en/post/the/) [project](/en/post/project/) has improved [much](/en/post/much/) [since](/en/post/since/) [last](/en/post/last/) [month](/en/post/month/)."
+- **[Adjective](/post/adjective/)**: [A](/post/a/) quantifier indicating [a](/post/a/) [large](/post/large/) [but](/post/but/) unspecified [amount](/post/amount/) [or](/post/or/) [degree](/post/degree/); [to](/post/to/) [a](/post/a/) [great](/post/great/) [extent](/post/extent/) [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "There's [much](/post/much/) [work](/post/work/) [to](/post/to/) [be](/post/be/) done."
+  - "[She](/post/she/) was [much](/post/much/) happier [after](/post/after/) [her](/post/her/) [vacation](/post/vacation/)."
+- **[Adverb](/post/adverb/)**: [To](/post/to/) [a](/post/a/) [great](/post/great/) [extent](/post/extent/) [or](/post/or/) [degree](/post/degree/); [very](/post/very/). [For](/post/for/) [example](/post/example/): "I couldn't [care](/post/care/) [much](/post/much/) [less](/post/less/) [about](/post/about/) [that](/post/that/) [issue](/post/issue/)."
+  - "[The](/post/the/) [project](/post/project/) has improved [much](/post/much/) [since](/post/since/) [last](/post/last/) [month](/post/month/)."
 
 ## Phrases
-- "[Much](/en/post/much/) ado [about](/en/post/about/) [nothing](/en/post/nothing/)": [A](/en/post/a/) [phrase](/en/post/phrase/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [there](/en/post/there/) has been [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) fuss [or](/en/post/or/) excitement [over](/en/post/over/) [something](/en/post/something/) [that](/en/post/that/) turned [out](/en/post/out/) [to](/en/post/to/) [be](/en/post/be/) unimportant.
-- "[How](/en/post/how/) [much](/en/post/much/)": An [inquiry](/en/post/inquiry/) [about](/en/post/about/) [the](/en/post/the/) [quantity](/en/post/quantity/) [or](/en/post/or/) [price](/en/post/price/) [of](/en/post/of/) [something](/en/post/something/).
-- "[Much](/en/post/much/) [to](/en/post/to/) one's [surprise](/en/post/surprise/)": Expressing [that](/en/post/that/) [something](/en/post/something/) happened unexpectedly.
+- "[Much](/post/much/) ado [about](/post/about/) [nothing](/post/nothing/)": [A](/post/a/) [phrase](/post/phrase/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [situation](/post/situation/) [where](/post/where/) [there](/post/there/) has been [a](/post/a/) [lot](/post/lot/) [of](/post/of/) fuss [or](/post/or/) excitement [over](/post/over/) [something](/post/something/) [that](/post/that/) turned [out](/post/out/) [to](/post/to/) [be](/post/be/) unimportant.
+- "[How](/post/how/) [much](/post/much/)": An [inquiry](/post/inquiry/) [about](/post/about/) [the](/post/the/) [quantity](/post/quantity/) [or](/post/or/) [price](/post/price/) [of](/post/of/) [something](/post/something/).
+- "[Much](/post/much/) [to](/post/to/) one's [surprise](/post/surprise/)": Expressing [that](/post/that/) [something](/post/something/) happened unexpectedly.
   
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[There](/en/post/there/) isn't [much](/en/post/much/) [time](/en/post/time/) [left](/en/post/left/) [before](/en/post/before/) [the](/en/post/the/) deadline."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) works [much](/en/post/much/) harder [than](/en/post/than/) [anyone](/en/post/anyone/) [else](/en/post/else/) [on](/en/post/on/) [the](/en/post/the/) [team](/en/post/team/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[There](/post/there/) isn't [much](/post/much/) [time](/post/time/) [left](/post/left/) [before](/post/before/) [the](/post/the/) deadline."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) works [much](/post/much/) harder [than](/post/than/) [anyone](/post/anyone/) [else](/post/else/) [on](/post/on/) [the](/post/the/) [team](/post/team/)."
 
 ## Synonyms
-- [Many](/en/post/many/) ([when](/en/post/when/) referring [to](/en/post/to/) countable nouns)
-- [A](/en/post/a/) [lot](/en/post/lot/) (informal)
-- [Plenty](/en/post/plenty/)
-- [Considerable](/en/post/considerable/)
-- [Substantial](/en/post/substantial/)
-- [Great](/en/post/great/) [deal](/en/post/deal/)
-- [Extensive](/en/post/extensive/)
-- Significantly ([as](/en/post/as/) an [adverb](/en/post/adverb/))
+- [Many](/post/many/) ([when](/post/when/) referring [to](/post/to/) countable nouns)
+- [A](/post/a/) [lot](/post/lot/) (informal)
+- [Plenty](/post/plenty/)
+- [Considerable](/post/considerable/)
+- [Substantial](/post/substantial/)
+- [Great](/post/great/) [deal](/post/deal/)
+- [Extensive](/post/extensive/)
+- Significantly ([as](/post/as/) an [adverb](/post/adverb/))

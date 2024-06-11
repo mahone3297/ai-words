@@ -12,22 +12,22 @@ keywords = ['ai words', 'overlook']
 
 ## 释义
 - **动词**:
-1. 忽视；未注意到：例如, "I overlooked [his](/post/his/) [mistake](/post/mistake/) [in](/post/in/) [the](/post/the/) [report](/post/report/)."
-2. 监督；管理：例如, "[She](/post/she/) was appointed [to](/post/to/) [overlook](/post/overlook/) [the](/post/the/) [construction](/post/construction/) [project](/post/project/)."
-3. 俯瞰；眺望：例如, "[The](/post/the/) [hotel](/post/hotel/) [room](/post/room/) overlooked [the](/post/the/) [city](/post/city/) skyline."
+1. 忽视；未注意到：例如, "I overlooked [his](/zh/post/his/) [mistake](/zh/post/mistake/) [in](/zh/post/in/) [the](/zh/post/the/) [report](/zh/post/report/)."
+2. 监督；管理：例如, "[She](/zh/post/she/) was appointed [to](/zh/post/to/) [overlook](/zh/post/overlook/) [the](/zh/post/the/) [construction](/zh/post/construction/) [project](/zh/post/project/)."
+3. 俯瞰；眺望：例如, "[The](/zh/post/the/) [hotel](/zh/post/hotel/) [room](/zh/post/room/) overlooked [the](/zh/post/the/) [city](/zh/post/city/) skyline."
 
 ## 短语
-- "[overlook](/post/overlook/) [something](/post/something/)" 忽视或忽略某事。
-- "[overlook](/post/overlook/) [from](/post/from/)" 从某个位置俯瞰：例如, "[We](/post/we/) overlooked [the](/post/the/) [ocean](/post/ocean/) [from](/post/from/) [the](/post/the/) hilltop."
+- "[overlook](/zh/post/overlook/) [something](/zh/post/something/)" 忽视或忽略某事。
+- "[overlook](/zh/post/overlook/) [from](/zh/post/from/)" 从某个位置俯瞰：例如, "[We](/zh/post/we/) overlooked [the](/zh/post/the/) [ocean](/zh/post/ocean/) [from](/zh/post/from/) [the](/zh/post/the/) hilltop."
 
 ## 例句
-- "I overlooked [the](/post/the/) [small](/post/small/) typo [in](/post/in/) [the](/post/the/) [document](/post/document/), [which](/post/which/) led [to](/post/to/) [confusion](/post/confusion/)."
-- "[The](/post/the/) manager overlooked [the](/post/the/) team's [daily](/post/daily/) operations."
-- "[From](/post/from/) [the](/post/the/) balcony, [we](/post/we/) [could](/post/could/) [overlook](/post/overlook/) [the](/post/the/) bustling [street](/post/street/) [below](/post/below/)."
+- "I overlooked [the](/zh/post/the/) [small](/zh/post/small/) typo [in](/zh/post/in/) [the](/zh/post/the/) [document](/zh/post/document/), [which](/zh/post/which/) led [to](/zh/post/to/) [confusion](/zh/post/confusion/)."
+- "[The](/zh/post/the/) manager overlooked [the](/zh/post/the/) team's [daily](/zh/post/daily/) operations."
+- "[From](/zh/post/from/) [the](/zh/post/the/) balcony, [we](/zh/post/we/) [could](/zh/post/could/) [overlook](/zh/post/overlook/) [the](/zh/post/the/) bustling [street](/zh/post/street/) [below](/zh/post/below/)."
 
 ## 同义词
-- [Ignore](/post/ignore/)
-- [Neglect](/post/neglect/)
+- [Ignore](/zh/post/ignore/)
+- [Neglect](/zh/post/neglect/)
 - Disregard
-- [Miss](/post/miss/)
-- [Fail](/post/fail/) [to](/post/to/) [notice](/post/notice/)
+- [Miss](/zh/post/miss/)
+- [Fail](/zh/post/fail/) [to](/zh/post/to/) [notice](/zh/post/notice/)

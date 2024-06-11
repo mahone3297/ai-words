@@ -14,14 +14,14 @@ keywords = ['ai words', 'fifteen']
 - **数词**: 15，十五。表示数量。
 
 ## 短语
-- "[fifteen](/post/fifteen/) minutes" 十五分钟
-- "[fifteen](/post/fifteen/) years [old](/post/old/)" 十五岁
+- "[fifteen](/zh/post/fifteen/) minutes" 十五分钟
+- "[fifteen](/zh/post/fifteen/) years [old](/zh/post/old/)" 十五岁
 
 ## 例句
-- "[There](/post/there/) are [fifteen](/post/fifteen/) students [in](/post/in/) [our](/post/our/) [class](/post/class/)."
-- "[She](/post/she/) started [learning](/post/learning/) [piano](/post/piano/) [at](/post/at/) [the](/post/the/) [age](/post/age/) [of](/post/of/) [fifteen](/post/fifteen/)."
+- "[There](/zh/post/there/) are [fifteen](/zh/post/fifteen/) students [in](/zh/post/in/) [our](/zh/post/our/) [class](/zh/post/class/)."
+- "[She](/zh/post/she/) started [learning](/zh/post/learning/) [piano](/zh/post/piano/) [at](/zh/post/at/) [the](/zh/post/the/) [age](/zh/post/age/) [of](/zh/post/of/) [fifteen](/zh/post/fifteen/)."
 
 ## 同义词
 - 十五的同义词在英文中通常是数字的顺序形式，例如:
-  - "[fourteen](/post/fourteen/)" (14)
-  - "[sixteen](/post/sixteen/)" (16)
+  - "[fourteen](/zh/post/fourteen/)" (14)
+  - "[sixteen](/zh/post/sixteen/)" (16)

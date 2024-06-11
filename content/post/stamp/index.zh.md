@@ -12,27 +12,27 @@ keywords = ['ai words', 'stamp']
 
 ## 释义
 - **名词**:
-1. 邮票：[A](/post/a/) [small](/post/small/) adhesive [label](/post/label/) [with](/post/with/) [a](/post/a/) [picture](/post/picture/) [and](/post/and/) [value](/post/value/), [used](/post/used/) [to](/post/to/) [show](/post/show/) [that](/post/that/) [the](/post/the/) required [fee](/post/fee/) [for](/post/for/) sending [a](/post/a/) [letter](/post/letter/) [or](/post/or/) [package](/post/package/) has been paid. 例如: "[She](/post/she/) carefully affixed [a](/post/a/) [stamp](/post/stamp/) [to](/post/to/) [the](/post/the/) [envelope](/post/envelope/)."
-2. 印章，戳记：An [impression](/post/impression/) [or](/post/or/) [device](/post/device/) [used](/post/used/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [mark](/post/mark/) [or](/post/or/) [design](/post/design/) [on](/post/on/) [a](/post/a/) [surface](/post/surface/), [often](/post/often/) [as](/post/as/) [a](/post/a/) [sign](/post/sign/) [of](/post/of/) authentication. 例如: "[The](/post/the/) company's [official](/post/official/) [stamp](/post/stamp/) was [visible](/post/visible/) [on](/post/on/) [every](/post/every/) [document](/post/document/)."
-3. 脚印，足迹：[The](/post/the/) [mark](/post/mark/) [left](/post/left/) [by](/post/by/) [something](/post/something/) [that](/post/that/) has pressed [into](/post/into/) [a](/post/a/) [surface](/post/surface/). 例如: "[There](/post/there/) were footprints [in](/post/in/) [the](/post/the/) [fresh](/post/fresh/) [snow](/post/snow/)."
+1. 邮票：[A](/zh/post/a/) [small](/zh/post/small/) adhesive [label](/zh/post/label/) [with](/zh/post/with/) [a](/zh/post/a/) [picture](/zh/post/picture/) [and](/zh/post/and/) [value](/zh/post/value/), [used](/zh/post/used/) [to](/zh/post/to/) [show](/zh/post/show/) [that](/zh/post/that/) [the](/zh/post/the/) required [fee](/zh/post/fee/) [for](/zh/post/for/) sending [a](/zh/post/a/) [letter](/zh/post/letter/) [or](/zh/post/or/) [package](/zh/post/package/) has been paid. 例如: "[She](/zh/post/she/) carefully affixed [a](/zh/post/a/) [stamp](/zh/post/stamp/) [to](/zh/post/to/) [the](/zh/post/the/) [envelope](/zh/post/envelope/)."
+2. 印章，戳记：An [impression](/zh/post/impression/) [or](/zh/post/or/) [device](/zh/post/device/) [used](/zh/post/used/) [to](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) [mark](/zh/post/mark/) [or](/zh/post/or/) [design](/zh/post/design/) [on](/zh/post/on/) [a](/zh/post/a/) [surface](/zh/post/surface/), [often](/zh/post/often/) [as](/zh/post/as/) [a](/zh/post/a/) [sign](/zh/post/sign/) [of](/zh/post/of/) authentication. 例如: "[The](/zh/post/the/) company's [official](/zh/post/official/) [stamp](/zh/post/stamp/) was [visible](/zh/post/visible/) [on](/zh/post/on/) [every](/zh/post/every/) [document](/zh/post/document/)."
+3. 脚印，足迹：[The](/zh/post/the/) [mark](/zh/post/mark/) [left](/zh/post/left/) [by](/zh/post/by/) [something](/zh/post/something/) [that](/zh/post/that/) has pressed [into](/zh/post/into/) [a](/zh/post/a/) [surface](/zh/post/surface/). 例如: "[There](/zh/post/there/) were footprints [in](/zh/post/in/) [the](/zh/post/the/) [fresh](/zh/post/fresh/) [snow](/zh/post/snow/)."
 
 - **动词**:
-1. 盖章：[To](/post/to/) [impress](/post/impress/) [or](/post/or/) [attach](/post/attach/) [a](/post/a/) [stamp](/post/stamp/) [onto](/post/onto/) [something](/post/something/). 例如: "[He](/post/he/) stamped [the](/post/the/) [letter](/post/letter/) [with](/post/with/) [his](/post/his/) [signature](/post/signature/) [seal](/post/seal/)."
-2. 印记，铭记：[To](/post/to/) [impress](/post/impress/) [or](/post/or/) imprint [something](/post/something/) firmly [in](/post/in/) [the](/post/the/) [mind](/post/mind/) [or](/post/or/) [memory](/post/memory/). 例如: "[The](/post/the/) [experience](/post/experience/) [will](/post/will/) [forever](/post/forever/) [stamp](/post/stamp/) [itself](/post/itself/) [upon](/post/upon/) [her](/post/her/) [heart](/post/heart/)."
+1. 盖章：[To](/zh/post/to/) [impress](/zh/post/impress/) [or](/zh/post/or/) [attach](/zh/post/attach/) [a](/zh/post/a/) [stamp](/zh/post/stamp/) [onto](/zh/post/onto/) [something](/zh/post/something/). 例如: "[He](/zh/post/he/) stamped [the](/zh/post/the/) [letter](/zh/post/letter/) [with](/zh/post/with/) [his](/zh/post/his/) [signature](/zh/post/signature/) [seal](/zh/post/seal/)."
+2. 印记，铭记：[To](/zh/post/to/) [impress](/zh/post/impress/) [or](/zh/post/or/) imprint [something](/zh/post/something/) firmly [in](/zh/post/in/) [the](/zh/post/the/) [mind](/zh/post/mind/) [or](/zh/post/or/) [memory](/zh/post/memory/). 例如: "[The](/zh/post/the/) [experience](/zh/post/experience/) [will](/zh/post/will/) [forever](/zh/post/forever/) [stamp](/zh/post/stamp/) [itself](/zh/post/itself/) [upon](/zh/post/upon/) [her](/zh/post/her/) [heart](/zh/post/heart/)."
 
 ## 短语
-- "[Stamp](/post/stamp/) [collection](/post/collection/)" 指集邮活动。
-- "[Stamp](/post/stamp/) [out](/post/out/)" 意为彻底消除或根除。例如: "[They](/post/they/) are working [to](/post/to/) [stamp](/post/stamp/) [out](/post/out/) corruption [in](/post/in/) [the](/post/the/) [government](/post/government/)."
-- "[Put](/post/put/) [your](/post/your/) [stamp](/post/stamp/) [on](/post/on/) [something](/post/something/)" 意为在某事物上留下个人特色或印记。例如: "[She](/post/she/) wanted [to](/post/to/) [put](/post/put/) [her](/post/her/) [own](/post/own/) [stamp](/post/stamp/) [on](/post/on/) [the](/post/the/) [new](/post/new/) [project](/post/project/)."
+- "[Stamp](/zh/post/stamp/) [collection](/zh/post/collection/)" 指集邮活动。
+- "[Stamp](/zh/post/stamp/) [out](/zh/post/out/)" 意为彻底消除或根除。例如: "[They](/zh/post/they/) are working [to](/zh/post/to/) [stamp](/zh/post/stamp/) [out](/zh/post/out/) corruption [in](/zh/post/in/) [the](/zh/post/the/) [government](/zh/post/government/)."
+- "[Put](/zh/post/put/) [your](/zh/post/your/) [stamp](/zh/post/stamp/) [on](/zh/post/on/) [something](/zh/post/something/)" 意为在某事物上留下个人特色或印记。例如: "[She](/zh/post/she/) wanted [to](/zh/post/to/) [put](/zh/post/put/) [her](/zh/post/her/) [own](/zh/post/own/) [stamp](/zh/post/stamp/) [on](/zh/post/on/) [the](/zh/post/the/) [new](/zh/post/new/) [project](/zh/post/project/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [rare](/post/rare/) [stamp](/post/stamp/) was [highly](/post/highly/) sought [after](/post/after/) [by](/post/by/) collectors."
-- 动词: "[The](/post/the/) customs [officer](/post/officer/) stamped [our](/post/our/) passports [before](/post/before/) [we](/post/we/) [could](/post/could/) [enter](/post/enter/) [the](/post/the/) [country](/post/country/)."
-- 副词: "[The](/post/the/) [horse](/post/horse/) galloped [across](/post/across/) [the](/post/the/) [field](/post/field/), leaving [deep](/post/deep/) stamps [in](/post/in/) [the](/post/the/) [mud](/post/mud/)."
+- 名词: "[The](/zh/post/the/) [rare](/zh/post/rare/) [stamp](/zh/post/stamp/) was [highly](/zh/post/highly/) sought [after](/zh/post/after/) [by](/zh/post/by/) collectors."
+- 动词: "[The](/zh/post/the/) customs [officer](/zh/post/officer/) stamped [our](/zh/post/our/) passports [before](/zh/post/before/) [we](/zh/post/we/) [could](/zh/post/could/) [enter](/zh/post/enter/) [the](/zh/post/the/) [country](/zh/post/country/)."
+- 副词: "[The](/zh/post/the/) [horse](/zh/post/horse/) galloped [across](/zh/post/across/) [the](/zh/post/the/) [field](/zh/post/field/), leaving [deep](/zh/post/deep/) stamps [in](/zh/post/in/) [the](/zh/post/the/) [mud](/zh/post/mud/)."
 
 ## 同义词
-- [Seal](/post/seal/)
-- [Mark](/post/mark/)
+- [Seal](/zh/post/seal/)
+- [Mark](/zh/post/mark/)
 - Imprint
-- [Sign](/post/sign/)
-- [Brand](/post/brand/)
+- [Sign](/zh/post/sign/)
+- [Brand](/zh/post/brand/)

@@ -7,36 +7,36 @@ description = '[inˈtensiv] a.加强的；精耕细作的'
 keywords = ['ai words', 'intensive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈtensɪv/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: ([of](/en/post/of/) an [activity](/en/post/activity/) [or](/en/post/or/) [course](/en/post/course/)) Requiring [or](/en/post/or/) involving [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [time](/en/post/time/), [effort](/en/post/effort/), [or](/en/post/or/) [energy](/en/post/energy/); concentrated [or](/en/post/or/) [thorough](/en/post/thorough/). _Example:_ "[They](/en/post/they/) arranged [for](/en/post/for/) [her](/en/post/her/) [to](/en/post/to/) [have](/en/post/have/) [intensive](/en/post/intensive/) French lessons."
-  - **[Noun](/en/post/noun/)**: An [intense](/en/post/intense/) [or](/en/post/or/) concentrated [course](/en/post/course/) [of](/en/post/of/) [study](/en/post/study/) [or](/en/post/or/) [treatment](/en/post/treatment/). _Example:_ "[The](/en/post/the/) [patient](/en/post/patient/) completed [a](/en/post/a/) two-week [intensive](/en/post/intensive/) therapy [program](/en/post/program/)."
+- **[Adjective](/post/adjective/)**: ([of](/post/of/) an [activity](/post/activity/) [or](/post/or/) [course](/post/course/)) Requiring [or](/post/or/) involving [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [time](/post/time/), [effort](/post/effort/), [or](/post/or/) [energy](/post/energy/); concentrated [or](/post/or/) [thorough](/post/thorough/). _Example:_ "[They](/post/they/) arranged [for](/post/for/) [her](/post/her/) [to](/post/to/) [have](/post/have/) [intensive](/post/intensive/) French lessons."
+  - **[Noun](/post/noun/)**: An [intense](/post/intense/) [or](/post/or/) concentrated [course](/post/course/) [of](/post/of/) [study](/post/study/) [or](/post/or/) [treatment](/post/treatment/). _Example:_ "[The](/post/the/) [patient](/post/patient/) completed [a](/post/a/) two-week [intensive](/post/intensive/) therapy [program](/post/program/)."
 
-### [As](/en/post/as/) an [Adjective](/en/post/adjective/):
+### [As](/post/as/) an [Adjective](/post/adjective/):
 
 _Examples:_
-- _**[Intensive](/en/post/intensive/) farming** involves [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [advanced](/en/post/advanced/) [technology](/en/post/technology/) [and](/en/post/and/) [high](/en/post/high/) inputs [to](/en/post/to/) [increase](/en/post/increase/) yields._
-- _This [project](/en/post/project/) requires **[intensive](/en/post/intensive/) [research](/en/post/research/)** [to](/en/post/to/) [gather](/en/post/gather/) [accurate](/en/post/accurate/) [data](/en/post/data/)._
-- "_After [his](/en/post/his/) [injury](/en/post/injury/), [he](/en/post/he/) underwent **[intensive](/en/post/intensive/) [physical](/en/post/physical/) therapy** [to](/en/post/to/) regain [strength](/en/post/strength/)._
+- _**[Intensive](/post/intensive/) farming** involves [the](/post/the/) [use](/post/use/) [of](/post/of/) [advanced](/post/advanced/) [technology](/post/technology/) [and](/post/and/) [high](/post/high/) inputs [to](/post/to/) [increase](/post/increase/) yields._
+- _This [project](/post/project/) requires **[intensive](/post/intensive/) [research](/post/research/)** [to](/post/to/) [gather](/post/gather/) [accurate](/post/accurate/) [data](/post/data/)._
+- "_After [his](/post/his/) [injury](/post/injury/), [he](/post/he/) underwent **[intensive](/post/intensive/) [physical](/post/physical/) therapy** [to](/post/to/) regain [strength](/post/strength/)._
 
 ### Phrases
-- **[Intensive](/en/post/intensive/) [care](/en/post/care/) [unit](/en/post/unit/) (ICU)**: [A](/en/post/a/) specialized [hospital](/en/post/hospital/) [department](/en/post/department/) [that](/en/post/that/) provides [critical](/en/post/critical/) [medical](/en/post/medical/) [care](/en/post/care/) [to](/en/post/to/) patients [with](/en/post/with/) [severe](/en/post/severe/) [or](/en/post/or/) life-threatening conditions.
-- **[Intensive](/en/post/intensive/) [agriculture](/en/post/agriculture/)**: [A](/en/post/a/) [method](/en/post/method/) [of](/en/post/of/) farming [that](/en/post/that/) uses [large](/en/post/large/) amounts [of](/en/post/of/) labor, [capital](/en/post/capital/), [and](/en/post/and/) [technology](/en/post/technology/) [to](/en/post/to/) maximize [crop](/en/post/crop/) yields.
+- **[Intensive](/post/intensive/) [care](/post/care/) [unit](/post/unit/) (ICU)**: [A](/post/a/) specialized [hospital](/post/hospital/) [department](/post/department/) [that](/post/that/) provides [critical](/post/critical/) [medical](/post/medical/) [care](/post/care/) [to](/post/to/) patients [with](/post/with/) [severe](/post/severe/) [or](/post/or/) life-threatening conditions.
+- **[Intensive](/post/intensive/) [agriculture](/post/agriculture/)**: [A](/post/a/) [method](/post/method/) [of](/post/of/) farming [that](/post/that/) uses [large](/post/large/) amounts [of](/post/of/) labor, [capital](/post/capital/), [and](/post/and/) [technology](/post/technology/) [to](/post/to/) maximize [crop](/post/crop/) yields.
   
-### [Example](/en/post/example/) Sentences
-- _As [part](/en/post/part/) [of](/en/post/of/) [their](/en/post/their/) [training](/en/post/training/), [they](/en/post/they/) had [to](/en/post/to/) [complete](/en/post/complete/) [a](/en/post/a/) month-long [intensive](/en/post/intensive/) [language](/en/post/language/) [course](/en/post/course/)._
-- _Due [to](/en/post/to/) [the](/en/post/the/) pandemic, [many](/en/post/many/) companies organized [intensive](/en/post/intensive/) online [training](/en/post/training/) programs [for](/en/post/for/) [their](/en/post/their/) employees._
-- _She was moved [to](/en/post/to/) [the](/en/post/the/) [intensive](/en/post/intensive/) [care](/en/post/care/) [unit](/en/post/unit/) [after](/en/post/after/) [her](/en/post/her/) [surgery](/en/post/surgery/)._
+### [Example](/post/example/) Sentences
+- _As [part](/post/part/) [of](/post/of/) [their](/post/their/) [training](/post/training/), [they](/post/they/) had [to](/post/to/) [complete](/post/complete/) [a](/post/a/) month-long [intensive](/post/intensive/) [language](/post/language/) [course](/post/course/)._
+- _Due [to](/post/to/) [the](/post/the/) pandemic, [many](/post/many/) companies organized [intensive](/post/intensive/) online [training](/post/training/) programs [for](/post/for/) [their](/post/their/) employees._
+- _She was moved [to](/post/to/) [the](/post/the/) [intensive](/post/intensive/) [care](/post/care/) [unit](/post/unit/) [after](/post/after/) [her](/post/her/) [surgery](/post/surgery/)._
 
 ## Synonyms
-- [Intense](/en/post/intense/)
+- [Intense](/post/intense/)
 - Concentrated
-- [Comprehensive](/en/post/comprehensive/)
-- [Thorough](/en/post/thorough/)
+- [Comprehensive](/post/comprehensive/)
+- [Thorough](/post/thorough/)
 - Rigorous
 - In-depth
-- [Extensive](/en/post/extensive/)
+- [Extensive](/post/extensive/)
 
-[Note](/en/post/note/): '[Intensive](/en/post/intensive/)' does [not](/en/post/not/) typically [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [or](/en/post/or/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [manner](/en/post/manner/) [as](/en/post/as/) [the](/en/post/the/) [example](/en/post/example/) [provided](/en/post/provided/). [It](/en/post/it/) [primarily](/en/post/primarily/) functions [as](/en/post/as/) an [adjective](/en/post/adjective/) [and](/en/post/and/) [sometimes](/en/post/sometimes/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [type](/en/post/type/) [of](/en/post/of/) [program](/en/post/program/) [or](/en/post/or/) [unit](/en/post/unit/).
+[Note](/post/note/): '[Intensive](/post/intensive/)' does [not](/post/not/) typically [function](/post/function/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [or](/post/or/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) [in](/post/in/) [the](/post/the/) [same](/post/same/) [manner](/post/manner/) [as](/post/as/) [the](/post/the/) [example](/post/example/) [provided](/post/provided/). [It](/post/it/) [primarily](/post/primarily/) functions [as](/post/as/) an [adjective](/post/adjective/) [and](/post/and/) [sometimes](/post/sometimes/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [when](/post/when/) referring [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [type](/post/type/) [of](/post/of/) [program](/post/program/) [or](/post/or/) [unit](/post/unit/).

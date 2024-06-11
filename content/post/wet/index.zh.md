@@ -8,23 +8,23 @@ keywords = ['ai words', 'wet']
 +++
 
 ## 读音
-/[wet](/post/wet/)/
+/[wet](/zh/post/wet/)/
 
 ## 释义
-- **形容词**: 湿的，湿润的。指物体表面有水分或液体。例如: "[The](/post/the/) [grass](/post/grass/) was [wet](/post/wet/) [after](/post/after/) [the](/post/the/) [rain](/post/rain/)."
-- **动词**: 使潮湿，弄湿。例如: "Don't [wet](/post/wet/) [your](/post/your/) [clothes](/post/clothes/) [in](/post/in/) [the](/post/the/) [rain](/post/rain/)."
+- **形容词**: 湿的，湿润的。指物体表面有水分或液体。例如: "[The](/zh/post/the/) [grass](/zh/post/grass/) was [wet](/zh/post/wet/) [after](/zh/post/after/) [the](/zh/post/the/) [rain](/zh/post/rain/)."
+- **动词**: 使潮湿，弄湿。例如: "Don't [wet](/zh/post/wet/) [your](/zh/post/your/) [clothes](/zh/post/clothes/) [in](/zh/post/in/) [the](/zh/post/the/) [rain](/zh/post/rain/)."
 
 ## 短语
-- "[Stay](/post/stay/) [dry](/post/dry/), [not](/post/not/) [wet](/post/wet/)" 意思是保持干燥，不要弄湿。
-- "[Wet](/post/wet/) [weather](/post/weather/)" 指的是下雨的天气。
+- "[Stay](/zh/post/stay/) [dry](/zh/post/dry/), [not](/zh/post/not/) [wet](/zh/post/wet/)" 意思是保持干燥，不要弄湿。
+- "[Wet](/zh/post/wet/) [weather](/zh/post/weather/)" 指的是下雨的天气。
 
 ## 例句
-- 形容词: "[The](/post/the/) puppy's [fur](/post/fur/) felt [soft](/post/soft/) [and](/post/and/) [wet](/post/wet/)."
-- 动词: "I accidentally [wet](/post/wet/) [my](/post/my/) shoes [while](/post/while/) walking [through](/post/through/) [the](/post/the/) puddle."
+- 形容词: "[The](/zh/post/the/) puppy's [fur](/zh/post/fur/) felt [soft](/zh/post/soft/) [and](/zh/post/and/) [wet](/zh/post/wet/)."
+- 动词: "I accidentally [wet](/zh/post/wet/) [my](/zh/post/my/) shoes [while](/zh/post/while/) walking [through](/zh/post/through/) [the](/zh/post/the/) puddle."
 
 ## 同义词
-- [Damp](/post/damp/)
-- [Moist](/post/moist/)
-- [Humid](/post/humid/)
+- [Damp](/zh/post/damp/)
+- [Moist](/zh/post/moist/)
+- [Humid](/zh/post/humid/)
 - Soaked
 - Saturated

@@ -7,36 +7,36 @@ description = '[trʌk] n.卡车，载重汽车'
 keywords = ['ai words', 'truck']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /trʌk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [motor](/en/post/motor/) [vehicle](/en/post/vehicle/) [with](/en/post/with/) [large](/en/post/large/) wheels, typically [one](/en/post/one/) [with](/en/post/with/) an [open](/en/post/open/) box-like [body](/en/post/body/) [for](/en/post/for/) carrying [goods](/en/post/goods/) [or](/en/post/or/) passengers. [Example](/en/post/example/): "[The](/en/post/the/) [delivery](/en/post/delivery/) [truck](/en/post/truck/) arrived [at](/en/post/at/) 8 am."
-2. [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) machinery [or](/en/post/or/) [equipment](/en/post/equipment/) [used](/en/post/used/) [for](/en/post/for/) transporting [goods](/en/post/goods/) [or](/en/post/or/) materials. [Example](/en/post/example/): "[The](/en/post/the/) [construction](/en/post/construction/) [company](/en/post/company/) has [a](/en/post/a/) [fleet](/en/post/fleet/) [of](/en/post/of/) trucks [for](/en/post/for/) moving [heavy](/en/post/heavy/) [equipment](/en/post/equipment/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [motor](/post/motor/) [vehicle](/post/vehicle/) [with](/post/with/) [large](/post/large/) wheels, typically [one](/post/one/) [with](/post/with/) an [open](/post/open/) box-like [body](/post/body/) [for](/post/for/) carrying [goods](/post/goods/) [or](/post/or/) passengers. [Example](/post/example/): "[The](/post/the/) [delivery](/post/delivery/) [truck](/post/truck/) arrived [at](/post/at/) 8 am."
+2. [A](/post/a/) [piece](/post/piece/) [of](/post/of/) machinery [or](/post/or/) [equipment](/post/equipment/) [used](/post/used/) [for](/post/for/) transporting [goods](/post/goods/) [or](/post/or/) materials. [Example](/post/example/): "[The](/post/the/) [construction](/post/construction/) [company](/post/company/) has [a](/post/a/) [fleet](/post/fleet/) [of](/post/of/) trucks [for](/post/for/) moving [heavy](/post/heavy/) [equipment](/post/equipment/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [transport](/en/post/transport/) [goods](/en/post/goods/) [or](/en/post/or/) [people](/en/post/people/) using [a](/en/post/a/) [truck](/en/post/truck/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) trucks [the](/en/post/the/) [produce](/en/post/produce/) [from](/en/post/from/) [the](/en/post/the/) [farm](/en/post/farm/) [to](/en/post/to/) [the](/en/post/the/) [market](/en/post/market/)."
-2. [To](/en/post/to/) [convey](/en/post/convey/) [or](/en/post/or/) [move](/en/post/move/) [something](/en/post/something/) using [a](/en/post/a/) [truck](/en/post/truck/). [Example](/en/post/example/): "[They](/en/post/they/) trucked [the](/en/post/the/) [old](/en/post/old/) [furniture](/en/post/furniture/) [to](/en/post/to/) [the](/en/post/the/) [charity](/en/post/charity/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [transport](/post/transport/) [goods](/post/goods/) [or](/post/or/) [people](/post/people/) using [a](/post/a/) [truck](/post/truck/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) trucks [the](/post/the/) [produce](/post/produce/) [from](/post/from/) [the](/post/the/) [farm](/post/farm/) [to](/post/to/) [the](/post/the/) [market](/post/market/)."
+2. [To](/post/to/) [convey](/post/convey/) [or](/post/or/) [move](/post/move/) [something](/post/something/) using [a](/post/a/) [truck](/post/truck/). [Example](/post/example/): "[They](/post/they/) trucked [the](/post/the/) [old](/post/old/) [furniture](/post/furniture/) [to](/post/to/) [the](/post/the/) [charity](/post/charity/)."
 
 ## Phrases
-- "[Drive](/en/post/drive/) [a](/en/post/a/) [truck](/en/post/truck/)" [means](/en/post/means/) [to](/en/post/to/) [operate](/en/post/operate/) [a](/en/post/a/) [truck](/en/post/truck/) [as](/en/post/as/) [a](/en/post/a/) [profession](/en/post/profession/).
-- "Haul [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [truck](/en/post/truck/)" refers [to](/en/post/to/) loading [and](/en/post/and/) transporting items.
-- "Truckload" is [a](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/) [for](/en/post/for/) [cargo](/en/post/cargo/) [capacity](/en/post/capacity/).
+- "[Drive](/post/drive/) [a](/post/a/) [truck](/post/truck/)" [means](/post/means/) [to](/post/to/) [operate](/post/operate/) [a](/post/a/) [truck](/post/truck/) [as](/post/as/) [a](/post/a/) [profession](/post/profession/).
+- "Haul [something](/post/something/) [in](/post/in/) [a](/post/a/) [truck](/post/truck/)" refers [to](/post/to/) loading [and](/post/and/) transporting items.
+- "Truckload" is [a](/post/a/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/) [for](/post/for/) [cargo](/post/cargo/) [capacity](/post/capacity/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [truck](/en/post/truck/) [driver](/en/post/driver/) made [a](/en/post/a/) [round](/en/post/round/) [trip](/en/post/trip/) [across](/en/post/across/) [the](/en/post/the/) [country](/en/post/country/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) workers were [busy](/en/post/busy/) unloading [the](/en/post/the/) [truck](/en/post/truck/) [at](/en/post/at/) [the](/en/post/the/) warehouse."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [construction](/en/post/construction/) [crew](/en/post/crew/) loaded [the](/en/post/the/) [truck](/en/post/truck/) [with](/en/post/with/) bricks [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [building](/en/post/building/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [truck](/post/truck/) [driver](/post/driver/) made [a](/post/a/) [round](/post/round/) [trip](/post/trip/) [across](/post/across/) [the](/post/the/) [country](/post/country/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) workers were [busy](/post/busy/) unloading [the](/post/the/) [truck](/post/truck/) [at](/post/at/) [the](/post/the/) warehouse."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) [construction](/post/construction/) [crew](/post/crew/) loaded [the](/post/the/) [truck](/post/truck/) [with](/post/with/) bricks [for](/post/for/) [the](/post/the/) [new](/post/new/) [building](/post/building/)."
 
 ## Synonyms
-- [Lorry](/en/post/lorry/) (UK)
-- Semi ([US](/en/post/us/))
+- [Lorry](/post/lorry/) (UK)
+- Semi ([US](/post/us/))
 - Trucking
 - Haulage
-- [Cargo](/en/post/cargo/) [transport](/en/post/transport/)
+- [Cargo](/post/cargo/) [transport](/post/transport/)
 
 ## Antonyms
-- [Car](/en/post/car/)
-- [Bicycle](/en/post/bicycle/)
-- Pedestrian [transportation](/en/post/transportation/) ([not](/en/post/not/) [a](/en/post/a/) [mode](/en/post/mode/) [of](/en/post/of/) [transport](/en/post/transport/))
+- [Car](/post/car/)
+- [Bicycle](/post/bicycle/)
+- Pedestrian [transportation](/post/transportation/) ([not](/post/not/) [a](/post/a/) [mode](/post/mode/) [of](/post/of/) [transport](/post/transport/))

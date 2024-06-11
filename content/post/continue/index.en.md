@@ -7,38 +7,38 @@ description = '[kənˈtinjuː] vt.继续，连续；延伸'
 keywords = ['ai words', 'continue']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈtɪnjuː/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: n. [intransitive] [To](/en/post/to/) [proceed](/en/post/proceed/) [without](/en/post/without/) [interruption](/en/post/interruption/), [to](/en/post/to/) [keep](/en/post/keep/) going; [to](/en/post/to/) [persist](/en/post/persist/) [in](/en/post/in/) an [action](/en/post/action/). [Example](/en/post/example/): "[She](/en/post/she/) continued [her](/en/post/her/) [work](/en/post/work/) [after](/en/post/after/) [a](/en/post/a/) [short](/en/post/short/) [break](/en/post/break/)."
-- **[Verb](/en/post/verb/)**: v. [transitive] [To](/en/post/to/) [resume](/en/post/resume/) [or](/en/post/or/) [start](/en/post/start/) an [activity](/en/post/activity/) [after](/en/post/after/) [a](/en/post/a/) [pause](/en/post/pause/) [or](/en/post/or/) [interruption](/en/post/interruption/); [to](/en/post/to/) [proceed](/en/post/proceed/) [with](/en/post/with/) [something](/en/post/something/). [Example](/en/post/example/): "[He](/en/post/he/) continued [reading](/en/post/reading/) [the](/en/post/the/) [book](/en/post/book/) [after](/en/post/after/) finishing [the](/en/post/the/) [first](/en/post/first/) [chapter](/en/post/chapter/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [continuous](/en/post/continuous/) [manner](/en/post/manner/); [without](/en/post/without/) stopping. [Example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) continued speaking [for](/en/post/for/) [another](/en/post/another/) [hour](/en/post/hour/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) continuing, persistence. [Example](/en/post/example/): "[His](/en/post/his/) perseverance was [a](/en/post/a/) [key](/en/post/key/) [factor](/en/post/factor/) [in](/en/post/in/) [his](/en/post/his/) [success](/en/post/success/)."
+- **[Verb](/post/verb/)**: n. [intransitive] [To](/post/to/) [proceed](/post/proceed/) [without](/post/without/) [interruption](/post/interruption/), [to](/post/to/) [keep](/post/keep/) going; [to](/post/to/) [persist](/post/persist/) [in](/post/in/) an [action](/post/action/). [Example](/post/example/): "[She](/post/she/) continued [her](/post/her/) [work](/post/work/) [after](/post/after/) [a](/post/a/) [short](/post/short/) [break](/post/break/)."
+- **[Verb](/post/verb/)**: v. [transitive] [To](/post/to/) [resume](/post/resume/) [or](/post/or/) [start](/post/start/) an [activity](/post/activity/) [after](/post/after/) [a](/post/a/) [pause](/post/pause/) [or](/post/or/) [interruption](/post/interruption/); [to](/post/to/) [proceed](/post/proceed/) [with](/post/with/) [something](/post/something/). [Example](/post/example/): "[He](/post/he/) continued [reading](/post/reading/) [the](/post/the/) [book](/post/book/) [after](/post/after/) finishing [the](/post/the/) [first](/post/first/) [chapter](/post/chapter/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [continuous](/post/continuous/) [manner](/post/manner/); [without](/post/without/) stopping. [Example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) continued speaking [for](/post/for/) [another](/post/another/) [hour](/post/hour/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) continuing, persistence. [Example](/post/example/): "[His](/post/his/) perseverance was [a](/post/a/) [key](/post/key/) [factor](/post/factor/) [in](/post/in/) [his](/post/his/) [success](/post/success/)."
 
 ## Phrases
-- "[Continue](/en/post/continue/) doing sth." [to](/en/post/to/) [keep](/en/post/keep/) performing an [action](/en/post/action/).
-- "[Continue](/en/post/continue/) [from](/en/post/from/) [where](/en/post/where/) [you](/en/post/you/) [left](/en/post/left/) [off](/en/post/off/)" [to](/en/post/to/) [resume](/en/post/resume/) [a](/en/post/a/) [task](/en/post/task/) [after](/en/post/after/) [a](/en/post/a/) [break](/en/post/break/).
-- "[She](/en/post/she/) continued [the](/en/post/the/) [tradition](/en/post/tradition/) [of](/en/post/of/) visiting [her](/en/post/her/) [family](/en/post/family/) [every](/en/post/every/) [year](/en/post/year/)."
+- "[Continue](/post/continue/) doing sth." [to](/post/to/) [keep](/post/keep/) performing an [action](/post/action/).
+- "[Continue](/post/continue/) [from](/post/from/) [where](/post/where/) [you](/post/you/) [left](/post/left/) [off](/post/off/)" [to](/post/to/) [resume](/post/resume/) [a](/post/a/) [task](/post/task/) [after](/post/after/) [a](/post/a/) [break](/post/break/).
+- "[She](/post/she/) continued [the](/post/the/) [tradition](/post/tradition/) [of](/post/of/) visiting [her](/post/her/) [family](/post/family/) [every](/post/every/) [year](/post/year/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/), [they](/en/post/they/) continued [their](/en/post/their/) [journey](/en/post/journey/) [by](/en/post/by/) [car](/en/post/car/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) continued working [late](/en/post/late/) [into](/en/post/into/) [the](/en/post/the/) [night](/en/post/night/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) dedication was [a](/en/post/a/) [continuous](/en/post/continuous/) [effort](/en/post/effort/) [to](/en/post/to/) [improve](/en/post/improve/) [her](/en/post/her/) skills."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [storm](/post/storm/), [they](/post/they/) continued [their](/post/their/) [journey](/post/journey/) [by](/post/by/) [car](/post/car/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) continued working [late](/post/late/) [into](/post/into/) [the](/post/the/) [night](/post/night/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) dedication was [a](/post/a/) [continuous](/post/continuous/) [effort](/post/effort/) [to](/post/to/) [improve](/post/improve/) [her](/post/her/) skills."
 
 ## Synonyms
-- [Persist](/en/post/persist/)
-- [Proceed](/en/post/proceed/)
-- [Go](/en/post/go/) [on](/en/post/on/)
-- [Carry](/en/post/carry/) [on](/en/post/on/)
-- [Maintain](/en/post/maintain/)
-- [Resume](/en/post/resume/)
-- [Proceed](/en/post/proceed/) [further](/en/post/further/)
-- [Keep](/en/post/keep/) [up](/en/post/up/)
+- [Persist](/post/persist/)
+- [Proceed](/post/proceed/)
+- [Go](/post/go/) [on](/post/on/)
+- [Carry](/post/carry/) [on](/post/on/)
+- [Maintain](/post/maintain/)
+- [Resume](/post/resume/)
+- [Proceed](/post/proceed/) [further](/post/further/)
+- [Keep](/post/keep/) [up](/post/up/)
 
 ## Antonyms
-- [Stop](/en/post/stop/)
-- [Quit](/en/post/quit/)
-- [Halt](/en/post/halt/)
-- [Break](/en/post/break/) [off](/en/post/off/)
-- [Cease](/en/post/cease/)
+- [Stop](/post/stop/)
+- [Quit](/post/quit/)
+- [Halt](/post/halt/)
+- [Break](/post/break/) [off](/post/off/)
+- [Cease](/post/cease/)

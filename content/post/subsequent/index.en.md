@@ -7,37 +7,37 @@ description = '[ˈsʌbsikwənt] a.随后的，后来的'
 keywords = ['ai words', 'subsequent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /subˈsɛkwənt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Occurring [or](/en/post/or/) coming [after](/en/post/after/) [another](/en/post/another/); [following](/en/post/following/) [in](/en/post/in/) [time](/en/post/time/) [or](/en/post/or/) [order](/en/post/order/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [subsequent](/en/post/subsequent/) events were [unexpected](/en/post/unexpected/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [thing](/en/post/thing/) [that](/en/post/that/) comes [after](/en/post/after/) [another](/en/post/another/); [a](/en/post/a/) [later](/en/post/later/) [or](/en/post/or/) [following](/en/post/following/) [event](/en/post/event/) [or](/en/post/or/) [occurrence](/en/post/occurrence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [subsequent](/en/post/subsequent/) [meeting](/en/post/meeting/) was scheduled [for](/en/post/for/) [next](/en/post/next/) [week](/en/post/week/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [follow](/en/post/follow/) ([something](/en/post/something/)) [in](/en/post/in/) [time](/en/post/time/) [or](/en/post/or/) [sequence](/en/post/sequence/); [to](/en/post/to/) [come](/en/post/come/) [after](/en/post/after/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) was completed, [and](/en/post/and/) [subsequent](/en/post/subsequent/) tasks were assigned."
+- **[Adjective](/post/adjective/)**: Occurring [or](/post/or/) coming [after](/post/after/) [another](/post/another/); [following](/post/following/) [in](/post/in/) [time](/post/time/) [or](/post/or/) [order](/post/order/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [subsequent](/post/subsequent/) events were [unexpected](/post/unexpected/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [thing](/post/thing/) [that](/post/that/) comes [after](/post/after/) [another](/post/another/); [a](/post/a/) [later](/post/later/) [or](/post/or/) [following](/post/following/) [event](/post/event/) [or](/post/or/) [occurrence](/post/occurrence/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [subsequent](/post/subsequent/) [meeting](/post/meeting/) was scheduled [for](/post/for/) [next](/post/next/) [week](/post/week/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [follow](/post/follow/) ([something](/post/something/)) [in](/post/in/) [time](/post/time/) [or](/post/or/) [sequence](/post/sequence/); [to](/post/to/) [come](/post/come/) [after](/post/after/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) was completed, [and](/post/and/) [subsequent](/post/subsequent/) tasks were assigned."
 
 ## Phrases
-- "[Subsequent](/en/post/subsequent/) developments" refers [to](/en/post/to/) events [that](/en/post/that/) [happen](/en/post/happen/) [after](/en/post/after/) [something](/en/post/something/) [else](/en/post/else/).
-- "[As](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) [the](/en/post/the/) [previous](/en/post/previous/) [discussion](/en/post/discussion/), [subsequent](/en/post/subsequent/) changes were made."
-- "[There](/en/post/there/) were [no](/en/post/no/) [subsequent](/en/post/subsequent/) complaints [about](/en/post/about/) [the](/en/post/the/) [service](/en/post/service/)."
+- "[Subsequent](/post/subsequent/) developments" refers [to](/post/to/) events [that](/post/that/) [happen](/post/happen/) [after](/post/after/) [something](/post/something/) [else](/post/else/).
+- "[As](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) [the](/post/the/) [previous](/post/previous/) [discussion](/post/discussion/), [subsequent](/post/subsequent/) changes were made."
+- "[There](/post/there/) were [no](/post/no/) [subsequent](/post/subsequent/) complaints [about](/post/about/) [the](/post/the/) [service](/post/service/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [subsequent](/en/post/subsequent/) chapters [in](/en/post/in/) [the](/en/post/the/) [book](/en/post/book/) [explore](/en/post/explore/) deeper themes."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [initial](/en/post/initial/) presentation, [we](/en/post/we/) had [a](/en/post/a/) [subsequent](/en/post/subsequent/) [round](/en/post/round/) [of](/en/post/of/) questions."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) company's profits increased [subsequent](/en/post/subsequent/) [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) marketing [strategy](/en/post/strategy/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [subsequent](/post/subsequent/) chapters [in](/post/in/) [the](/post/the/) [book](/post/book/) [explore](/post/explore/) deeper themes."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [initial](/post/initial/) presentation, [we](/post/we/) had [a](/post/a/) [subsequent](/post/subsequent/) [round](/post/round/) [of](/post/of/) questions."
+- **[Verb](/post/verb/)**: "[The](/post/the/) company's profits increased [subsequent](/post/subsequent/) [to](/post/to/) [the](/post/the/) [new](/post/new/) marketing [strategy](/post/strategy/)."
 
 ## Synonyms
-- [Following](/en/post/following/)
-- [Successive](/en/post/successive/)
-- [Later](/en/post/later/)
-- [Next](/en/post/next/)
+- [Following](/post/following/)
+- [Successive](/post/successive/)
+- [Later](/post/later/)
+- [Next](/post/next/)
 - Sequential
-- [Afterward](/en/post/afterward/)
+- [Afterward](/post/afterward/)
 - Consecutive
 - Posterior
 
 ## Antonyms
 - Earlier
-- [Prior](/en/post/prior/)
-- [Initial](/en/post/initial/)
-- [Former](/en/post/former/)
-- [Preceding](/en/post/preceding/)
+- [Prior](/post/prior/)
+- [Initial](/post/initial/)
+- [Former](/post/former/)
+- [Preceding](/post/preceding/)

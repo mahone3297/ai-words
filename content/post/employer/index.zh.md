@@ -11,20 +11,20 @@ keywords = ['ai words', 'employer']
 /ˈɛmplɔɪər/
 
 ## 释义
-- **名词 n**: 雇主，雇佣者。指支付工资或薪酬给雇员以换取其工作的人或组织。例如: "[She](/post/she/) [just](/post/just/) started working [for](/post/for/) [a](/post/a/) [new](/post/new/) [employer](/post/employer/)."
-- **动词 v** (informal): 雇佣，聘请。例如: "[The](/post/the/) [company](/post/company/) is looking [to](/post/to/) [employer](/post/employer/) [more](/post/more/) [staff](/post/staff/)."
+- **名词 n**: 雇主，雇佣者。指支付工资或薪酬给雇员以换取其工作的人或组织。例如: "[She](/zh/post/she/) [just](/zh/post/just/) started working [for](/zh/post/for/) [a](/zh/post/a/) [new](/zh/post/new/) [employer](/zh/post/employer/)."
+- **动词 v** (informal): 雇佣，聘请。例如: "[The](/zh/post/the/) [company](/zh/post/company/) is looking [to](/zh/post/to/) [employer](/zh/post/employer/) [more](/zh/post/more/) [staff](/zh/post/staff/)."
 
 ## 短语
-- "[Direct](/post/direct/) [employer](/post/employer/)" 指直接雇佣员工的个人或实体。
+- "[Direct](/zh/post/direct/) [employer](/zh/post/employer/)" 指直接雇佣员工的个人或实体。
 - "Employer-sponsored benefits" 指由雇主提供的福利，如医疗保险。
 
 ## 例句
-- 名词: "[As](/post/as/) an [employer](/post/employer/), it's [important](/post/important/) [to](/post/to/) [provide](/post/provide/) [a](/post/a/) [safe](/post/safe/) working [environment](/post/environment/) [for](/post/for/) [your](/post/your/) employees."
-- 动词: "[They](/post/they/) decided [to](/post/to/) [employer](/post/employer/) [a](/post/a/) [professional](/post/professional/) cleaner [for](/post/for/) [their](/post/their/) [office](/post/office/)."
+- 名词: "[As](/zh/post/as/) an [employer](/zh/post/employer/), it's [important](/zh/post/important/) [to](/zh/post/to/) [provide](/zh/post/provide/) [a](/zh/post/a/) [safe](/zh/post/safe/) working [environment](/zh/post/environment/) [for](/zh/post/for/) [your](/zh/post/your/) employees."
+- 动词: "[They](/zh/post/they/) decided [to](/zh/post/to/) [employer](/zh/post/employer/) [a](/zh/post/a/) [professional](/zh/post/professional/) cleaner [for](/zh/post/for/) [their](/zh/post/their/) [office](/zh/post/office/)."
 
 ## 同义词
-- [Boss](/post/boss/)
+- [Boss](/zh/post/boss/)
 - Manager
 - Supervisor
 - Hirer
-- [Company](/post/company/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) providing jobs)
+- [Company](/zh/post/company/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) providing jobs)

@@ -11,26 +11,26 @@ keywords = ['ai words', 'cube']
 /kjuːb/
 
 ## 释义
-- **名词**: 一个正方体，六个面都是正方形的三维形状。例如: "[The](/post/the/) [child](/post/child/) was playing [with](/post/with/) [a](/post/a/) [red](/post/red/) [cube](/post/cube/)."
-- **动词**: 把...变成立方体；求...的立方。例如: "[The](/post/the/) mathematician cubed [the](/post/the/) [number](/post/number/) [to](/post/to/) [find](/post/find/) [its](/post/its/) [volume](/post/volume/)."
-- **形容词**: 立方的，立方体形状的。例如: "[The](/post/the/) [cube](/post/cube/) [ice](/post/ice/) cubes [fit](/post/fit/) [perfectly](/post/perfectly/) [in](/post/in/) [the](/post/the/) [glass](/post/glass/)."
+- **名词**: 一个正方体，六个面都是正方形的三维形状。例如: "[The](/zh/post/the/) [child](/zh/post/child/) was playing [with](/zh/post/with/) [a](/zh/post/a/) [red](/zh/post/red/) [cube](/zh/post/cube/)."
+- **动词**: 把...变成立方体；求...的立方。例如: "[The](/zh/post/the/) mathematician cubed [the](/zh/post/the/) [number](/zh/post/number/) [to](/zh/post/to/) [find](/zh/post/find/) [its](/zh/post/its/) [volume](/zh/post/volume/)."
+- **形容词**: 立方的，立方体形状的。例如: "[The](/zh/post/the/) [cube](/zh/post/cube/) [ice](/zh/post/ice/) cubes [fit](/zh/post/fit/) [perfectly](/zh/post/perfectly/) [in](/zh/post/in/) [the](/zh/post/the/) [glass](/zh/post/glass/)."
 
 ## 短语
-- "[cube](/post/cube/) [root](/post/root/)" 表示一个数的立方根。
-- "cubed [ice](/post/ice/)" 指的是立方体形状的冰块。
+- "[cube](/zh/post/cube/) [root](/zh/post/root/)" 表示一个数的立方根。
+- "cubed [ice](/zh/post/ice/)" 指的是立方体形状的冰块。
 
 ## 例句
-- 名词: "[The](/post/the/) [cube](/post/cube/) had sides measuring [exactly](/post/exactly/) 3 inches."
-- 动词: "[When](/post/when/) [you](/post/you/) [cube](/post/cube/) [a](/post/a/) [number](/post/number/), [you](/post/you/) [multiply](/post/multiply/) [it](/post/it/) [by](/post/by/) [itself](/post/itself/) [twice](/post/twice/)."
-- 形容词: "[The](/post/the/) [modern](/post/modern/) sculpture was made [of](/post/of/) polished [cube](/post/cube/) stones."
+- 名词: "[The](/zh/post/the/) [cube](/zh/post/cube/) had sides measuring [exactly](/zh/post/exactly/) 3 inches."
+- 动词: "[When](/zh/post/when/) [you](/zh/post/you/) [cube](/zh/post/cube/) [a](/zh/post/a/) [number](/zh/post/number/), [you](/zh/post/you/) [multiply](/zh/post/multiply/) [it](/zh/post/it/) [by](/zh/post/by/) [itself](/zh/post/itself/) [twice](/zh/post/twice/)."
+- 形容词: "[The](/zh/post/the/) [modern](/zh/post/modern/) sculpture was made [of](/zh/post/of/) polished [cube](/zh/post/cube/) stones."
 
 ## 同义词
 - **名词**:
-    - [block](/post/block/)
+    - [block](/zh/post/block/)
     - rectangular prism
 - **动词**:
-    - [raise](/post/raise/) [to](/post/to/) [the](/post/the/) [power](/post/power/) [of](/post/of/) [three](/post/three/)
-    - [cube](/post/cube/) [up](/post/up/)
+    - [raise](/zh/post/raise/) [to](/zh/post/to/) [the](/zh/post/the/) [power](/zh/post/power/) [of](/zh/post/of/) [three](/zh/post/three/)
+    - [cube](/zh/post/cube/) [up](/zh/post/up/)
 - **形容词**:
-    - [cubic](/post/cubic/)
+    - [cubic](/zh/post/cubic/)
     - three-dimensional

@@ -7,37 +7,37 @@ description = '[ˈinkəm] n.收入；收益；进款'
 keywords = ['ai words', 'income']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪnkʌm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [Money](/en/post/money/) [that](/en/post/that/) is earned [from](/en/post/from/) [work](/en/post/work/), investments, [or](/en/post/or/) [other](/en/post/other/) sources [over](/en/post/over/) [a](/en/post/a/) [specific](/en/post/specific/) [period](/en/post/period/). [It](/en/post/it/) is typically received [regularly](/en/post/regularly/), [such](/en/post/such/) [as](/en/post/as/) [weekly](/en/post/weekly/) [or](/en/post/or/) [monthly](/en/post/monthly/), [and](/en/post/and/) [may](/en/post/may/) [be](/en/post/be/) [subject](/en/post/subject/) [to](/en/post/to/) taxation. 
+- **[Noun](/post/noun/)**: [Money](/post/money/) [that](/post/that/) is earned [from](/post/from/) [work](/post/work/), investments, [or](/post/or/) [other](/post/other/) sources [over](/post/over/) [a](/post/a/) [specific](/post/specific/) [period](/post/period/). [It](/post/it/) is typically received [regularly](/post/regularly/), [such](/post/such/) [as](/post/as/) [weekly](/post/weekly/) [or](/post/or/) [monthly](/post/monthly/), [and](/post/and/) [may](/post/may/) [be](/post/be/) [subject](/post/subject/) [to](/post/to/) taxation. 
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): _After getting [a](/en/post/a/) [raise](/en/post/raise/), [her](/en/post/her/) [monthly](/en/post/monthly/) [income](/en/post/income/) increased significantly._
+[Example](/post/example/) [Sentence](/post/sentence/): _After getting [a](/post/a/) [raise](/post/raise/), [her](/post/her/) [monthly](/post/monthly/) [income](/post/income/) increased significantly._
 
 Phrases:
-- "[Annual](/en/post/annual/) [income](/en/post/income/)": [The](/en/post/the/) [total](/en/post/total/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) earned [in](/en/post/in/) [one](/en/post/one/) [year](/en/post/year/).
-- "[Net](/en/post/net/) [income](/en/post/income/)": [The](/en/post/the/) [income](/en/post/income/) remaining [after](/en/post/after/) [all](/en/post/all/) deductions [and](/en/post/and/) expenses [have](/en/post/have/) been subtracted [from](/en/post/from/) [gross](/en/post/gross/) earnings.
-- "Disposable [income](/en/post/income/)": [The](/en/post/the/) [part](/en/post/part/) [of](/en/post/of/) one's [income](/en/post/income/) [that](/en/post/that/) is [left](/en/post/left/) [after](/en/post/after/) paying taxes [and](/en/post/and/) [essential](/en/post/essential/) [living](/en/post/living/) expenses.
+- "[Annual](/post/annual/) [income](/post/income/)": [The](/post/the/) [total](/post/total/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) earned [in](/post/in/) [one](/post/one/) [year](/post/year/).
+- "[Net](/post/net/) [income](/post/income/)": [The](/post/the/) [income](/post/income/) remaining [after](/post/after/) [all](/post/all/) deductions [and](/post/and/) expenses [have](/post/have/) been subtracted [from](/post/from/) [gross](/post/gross/) earnings.
+- "Disposable [income](/post/income/)": [The](/post/the/) [part](/post/part/) [of](/post/of/) one's [income](/post/income/) [that](/post/that/) is [left](/post/left/) [after](/post/after/) paying taxes [and](/post/and/) [essential](/post/essential/) [living](/post/living/) expenses.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "_John's [primary](/en/post/primary/) [source](/en/post/source/) [of](/en/post/of/) [income](/en/post/income/) comes [from](/en/post/from/) [his](/en/post/his/) [job](/en/post/job/) [as](/en/post/as/) [a](/en/post/a/) software engineer_."
-- "_The [couple](/en/post/couple/) decided [to](/en/post/to/) [invest](/en/post/invest/) [a](/en/post/a/) [portion](/en/post/portion/) [of](/en/post/of/) [their](/en/post/their/) disposable [income](/en/post/income/) [into](/en/post/into/) stocks._"
-- "_Their [business](/en/post/business/) generated [a](/en/post/a/) [substantial](/en/post/substantial/) [income](/en/post/income/) [last](/en/post/last/) [year](/en/post/year/), allowing [them](/en/post/them/) [to](/en/post/to/) [expand](/en/post/expand/) [their](/en/post/their/) operations._"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "_John's [primary](/post/primary/) [source](/post/source/) [of](/post/of/) [income](/post/income/) comes [from](/post/from/) [his](/post/his/) [job](/post/job/) [as](/post/as/) [a](/post/a/) software engineer_."
+- "_The [couple](/post/couple/) decided [to](/post/to/) [invest](/post/invest/) [a](/post/a/) [portion](/post/portion/) [of](/post/of/) [their](/post/their/) disposable [income](/post/income/) [into](/post/into/) stocks._"
+- "_Their [business](/post/business/) generated [a](/post/a/) [substantial](/post/substantial/) [income](/post/income/) [last](/post/last/) [year](/post/year/), allowing [them](/post/them/) [to](/post/to/) [expand](/post/expand/) [their](/post/their/) operations._"
 
 ## Synonyms
 - Earnings
-- [Salary](/en/post/salary/)
+- [Salary](/post/salary/)
 - Wages
 - Revenue
 - Profits
-- [Pay](/en/post/pay/)
+- [Pay](/post/pay/)
 - Remuneration
 - Compensation
 - Receipts
-- [Gain](/en/post/gain/)
+- [Gain](/post/gain/)
 
-## [Further](/en/post/further/) Usages
-- "Fixed [income](/en/post/income/)": [A](/en/post/a/) [regular](/en/post/regular/) [payment](/en/post/payment/) [that](/en/post/that/) does [not](/en/post/not/) [change](/en/post/change/), [usually](/en/post/usually/) referring [to](/en/post/to/) pensions [or](/en/post/or/) annuities.
-- "[Passive](/en/post/passive/) [income](/en/post/income/)": [Income](/en/post/income/) [that](/en/post/that/) requires [little](/en/post/little/) [to](/en/post/to/) [no](/en/post/no/) [effort](/en/post/effort/) [to](/en/post/to/) [maintain](/en/post/maintain/), [such](/en/post/such/) [as](/en/post/as/) rental [income](/en/post/income/) [or](/en/post/or/) dividends [from](/en/post/from/) investments.
-- "[Income](/en/post/income/) [tax](/en/post/tax/)": [A](/en/post/a/) [tax](/en/post/tax/) levied [on](/en/post/on/) an individual's [or](/en/post/or/) organization's [income](/en/post/income/) [by](/en/post/by/) [the](/en/post/the/) [government](/en/post/government/).
+## [Further](/post/further/) Usages
+- "Fixed [income](/post/income/)": [A](/post/a/) [regular](/post/regular/) [payment](/post/payment/) [that](/post/that/) does [not](/post/not/) [change](/post/change/), [usually](/post/usually/) referring [to](/post/to/) pensions [or](/post/or/) annuities.
+- "[Passive](/post/passive/) [income](/post/income/)": [Income](/post/income/) [that](/post/that/) requires [little](/post/little/) [to](/post/to/) [no](/post/no/) [effort](/post/effort/) [to](/post/to/) [maintain](/post/maintain/), [such](/post/such/) [as](/post/as/) rental [income](/post/income/) [or](/post/or/) dividends [from](/post/from/) investments.
+- "[Income](/post/income/) [tax](/post/tax/)": [A](/post/a/) [tax](/post/tax/) levied [on](/post/on/) an individual's [or](/post/or/) organization's [income](/post/income/) [by](/post/by/) [the](/post/the/) [government](/post/government/).

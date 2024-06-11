@@ -11,20 +11,20 @@ keywords = ['ai words', 'fame']
 /feɪm/
 
 ## 释义
-- **名词 (n)**: 名声，声誉。例如: "[She](/post/she/) achieved [great](/post/great/) [fame](/post/fame/) [as](/post/as/) [a](/post/a/) [singer](/post/singer/)."
-- **动词 (v)**: 使著名，扬名。例如: "[His](/post/his/) discoveries [fame](/post/fame/) [him](/post/him/) [in](/post/in/) [the](/post/the/) [scientific](/post/scientific/) [community](/post/community/)."
+- **名词 (n)**: 名声，声誉。例如: "[She](/zh/post/she/) achieved [great](/zh/post/great/) [fame](/zh/post/fame/) [as](/zh/post/as/) [a](/zh/post/a/) [singer](/zh/post/singer/)."
+- **动词 (v)**: 使著名，扬名。例如: "[His](/zh/post/his/) discoveries [fame](/zh/post/fame/) [him](/zh/post/him/) [in](/zh/post/in/) [the](/zh/post/the/) [scientific](/zh/post/scientific/) [community](/zh/post/community/)."
 
 ## 短语
-- "[Fame](/post/fame/) [and](/post/and/) [fortune](/post/fortune/)" 意为名利双收。
-- "[To](/post/to/) [seek](/post/seek/) [fame](/post/fame/)" 是追求名声的意思。
+- "[Fame](/zh/post/fame/) [and](/zh/post/and/) [fortune](/zh/post/fortune/)" 意为名利双收。
+- "[To](/zh/post/to/) [seek](/zh/post/seek/) [fame](/zh/post/fame/)" 是追求名声的意思。
 
 ## 例句
-- 名词: "[Her](/post/her/) [fame](/post/fame/) [spread](/post/spread/) [quickly](/post/quickly/) [after](/post/after/) [her](/post/her/) [first](/post/first/) album was released."
-- 动词: "[His](/post/his/) paintings [fame](/post/fame/) [him](/post/him/) [across](/post/across/) [the](/post/the/) [art](/post/art/) [world](/post/world/)."
+- 名词: "[Her](/zh/post/her/) [fame](/zh/post/fame/) [spread](/zh/post/spread/) [quickly](/zh/post/quickly/) [after](/zh/post/after/) [her](/zh/post/her/) [first](/zh/post/first/) album was released."
+- 动词: "[His](/zh/post/his/) paintings [fame](/zh/post/fame/) [him](/zh/post/him/) [across](/zh/post/across/) [the](/zh/post/the/) [art](/zh/post/art/) [world](/zh/post/world/)."
 
 ## 同义词
 - Renown
 - Celebrity
 - Notoriety
-- [Reputation](/post/reputation/)
+- [Reputation](/zh/post/reputation/)
 - Acclaim

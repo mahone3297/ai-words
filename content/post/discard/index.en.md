@@ -7,38 +7,38 @@ description = '[disˈkɑːd] vt.丢弃，抛弃，遗弃'
 keywords = ['ai words', 'discard']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈskɑːrd/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [throw](/en/post/throw/) [away](/en/post/away/) [or](/en/post/or/) [dispose](/en/post/dispose/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) [no](/en/post/no/) longer using [or](/en/post/or/) needing [it](/en/post/it/). [Can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [reject](/en/post/reject/) [or](/en/post/or/) disregard. [Example](/en/post/example/): "[She](/en/post/she/) discarded [the](/en/post/the/) [old](/en/post/old/) magazines [to](/en/post/to/) [make](/en/post/make/) [space](/en/post/space/) [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/)."
-- **[Noun](/en/post/noun/)**: An [act](/en/post/act/) [of](/en/post/of/) discarding; [a](/en/post/a/) [thing](/en/post/thing/) [that](/en/post/that/) is thrown [away](/en/post/away/) [or](/en/post/or/) rejected. [Example](/en/post/example/): "[The](/en/post/the/) discarded pieces [of](/en/post/of/) [paper](/en/post/paper/) cluttered [the](/en/post/the/) [floor](/en/post/floor/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [throw](/post/throw/) [away](/post/away/) [or](/post/or/) [dispose](/post/dispose/) [of](/post/of/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) [no](/post/no/) longer using [or](/post/or/) needing [it](/post/it/). [Can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) [reject](/post/reject/) [or](/post/or/) disregard. [Example](/post/example/): "[She](/post/she/) discarded [the](/post/the/) [old](/post/old/) magazines [to](/post/to/) [make](/post/make/) [space](/post/space/) [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/)."
+- **[Noun](/post/noun/)**: An [act](/post/act/) [of](/post/of/) discarding; [a](/post/a/) [thing](/post/thing/) [that](/post/that/) is thrown [away](/post/away/) [or](/post/or/) rejected. [Example](/post/example/): "[The](/post/the/) discarded pieces [of](/post/of/) [paper](/post/paper/) cluttered [the](/post/the/) [floor](/post/floor/)."
 
 ## Phrases
-- "[Discard](/en/post/discard/) items" [means](/en/post/means/) [to](/en/post/to/) [get](/en/post/get/) [rid](/en/post/rid/) [of](/en/post/of/) unwanted objects.
-- "[Discard](/en/post/discard/) an [idea](/en/post/idea/)" implies rejecting [a](/en/post/a/) notion [or](/en/post/or/) [suggestion](/en/post/suggestion/).
-- "Discarded [without](/en/post/without/) remorse" describes [a](/en/post/a/) [complete](/en/post/complete/) [lack](/en/post/lack/) [of](/en/post/of/) [regret](/en/post/regret/) [for](/en/post/for/) getting [rid](/en/post/rid/) [of](/en/post/of/) [something](/en/post/something/).
+- "[Discard](/post/discard/) items" [means](/post/means/) [to](/post/to/) [get](/post/get/) [rid](/post/rid/) [of](/post/of/) unwanted objects.
+- "[Discard](/post/discard/) an [idea](/post/idea/)" implies rejecting [a](/post/a/) notion [or](/post/or/) [suggestion](/post/suggestion/).
+- "Discarded [without](/post/without/) remorse" describes [a](/post/a/) [complete](/post/complete/) [lack](/post/lack/) [of](/post/of/) [regret](/post/regret/) [for](/post/for/) getting [rid](/post/rid/) [of](/post/of/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) moving, [he](/en/post/he/) had [to](/en/post/to/) [discard](/en/post/discard/) [many](/en/post/many/) possessions [he](/en/post/he/) [no](/en/post/no/) longer needed."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [team](/en/post/team/) decided [to](/en/post/to/) [discard](/en/post/discard/) [their](/en/post/their/) outdated [strategy](/en/post/strategy/) [in](/en/post/in/) favor [of](/en/post/of/) [a](/en/post/a/) [new](/en/post/new/) [one](/en/post/one/)."
-- **Phrasal [Verb](/en/post/verb/)**: "Don't [discard](/en/post/discard/) [your](/en/post/your/) dreams [just](/en/post/just/) [because](/en/post/because/) [they](/en/post/they/) [seem](/en/post/seem/) [impossible](/en/post/impossible/) [now](/en/post/now/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) moving, [he](/post/he/) had [to](/post/to/) [discard](/post/discard/) [many](/post/many/) possessions [he](/post/he/) [no](/post/no/) longer needed."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [team](/post/team/) decided [to](/post/to/) [discard](/post/discard/) [their](/post/their/) outdated [strategy](/post/strategy/) [in](/post/in/) favor [of](/post/of/) [a](/post/a/) [new](/post/new/) [one](/post/one/)."
+- **Phrasal [Verb](/post/verb/)**: "Don't [discard](/post/discard/) [your](/post/your/) dreams [just](/post/just/) [because](/post/because/) [they](/post/they/) [seem](/post/seem/) [impossible](/post/impossible/) [now](/post/now/)."
 
 ## Synonyms
-- [Toss](/en/post/toss/)
-- [Reject](/en/post/reject/)
-- [Abandon](/en/post/abandon/)
-- [Discard](/en/post/discard/) [away](/en/post/away/)
-- [Dispose](/en/post/dispose/) [of](/en/post/of/)
+- [Toss](/post/toss/)
+- [Reject](/post/reject/)
+- [Abandon](/post/abandon/)
+- [Discard](/post/discard/) [away](/post/away/)
+- [Dispose](/post/dispose/) [of](/post/of/)
 - Trash
-- [Cast](/en/post/cast/) [aside](/en/post/aside/)
-- [Put](/en/post/put/) [aside](/en/post/aside/)
-- [Set](/en/post/set/) [aside](/en/post/aside/)
+- [Cast](/post/cast/) [aside](/post/aside/)
+- [Put](/post/put/) [aside](/post/aside/)
+- [Set](/post/set/) [aside](/post/aside/)
 
 ## Antonyms
-- [Keep](/en/post/keep/)
-- [Retain](/en/post/retain/)
-- [Preserve](/en/post/preserve/)
-- [Save](/en/post/save/)
-- [Hold](/en/post/hold/) [onto](/en/post/onto/)
+- [Keep](/post/keep/)
+- [Retain](/post/retain/)
+- [Preserve](/post/preserve/)
+- [Save](/post/save/)
+- [Hold](/post/hold/) [onto](/post/onto/)
 - Cherish

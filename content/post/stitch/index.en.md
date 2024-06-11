@@ -7,38 +7,38 @@ description = '[stit∫] n.一针；针脚 vt.缝'
 keywords = ['ai words', 'stitch']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stɪtʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) fastening**: [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [small](/en/post/small/), repeated loops [of](/en/post/of/) [thread](/en/post/thread/) [or](/en/post/or/) yarn [used](/en/post/used/) [to](/en/post/to/) [hold](/en/post/hold/) [two](/en/post/two/) pieces [of](/en/post/of/) [fabric](/en/post/fabric/) [or](/en/post/or/) [material](/en/post/material/) [together](/en/post/together/). [Example](/en/post/example/): "[The](/en/post/the/) [dress](/en/post/dress/) was carefully sewn [with](/en/post/with/) [tiny](/en/post/tiny/) stitches."
-- **[Skill](/en/post/skill/) [or](/en/post/or/) [technique](/en/post/technique/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) sewing [or](/en/post/or/) joining fabrics [together](/en/post/together/) using [a](/en/post/a/) [needle](/en/post/needle/) [and](/en/post/and/) [thread](/en/post/thread/). [Example](/en/post/example/): "[She](/en/post/she/) [learned](/en/post/learned/) [to](/en/post/to/) [master](/en/post/master/) [the](/en/post/the/) [delicate](/en/post/delicate/) [stitch](/en/post/stitch/) required [for](/en/post/for/) embroidery."
-- **[A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/)**: [In](/en/post/in/) [certain](/en/post/certain/) contexts, [like](/en/post/like/) knitting [or](/en/post/or/) crochet, [a](/en/post/a/) [single](/en/post/single/) [loop](/en/post/loop/) [of](/en/post/of/) yarn [or](/en/post/or/) [thread](/en/post/thread/). [Example](/en/post/example/): "[She](/en/post/she/) completed [a](/en/post/a/) [row](/en/post/row/) [of](/en/post/of/) 100 stitches."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [type](/post/type/) [of](/post/of/) fastening**: [A](/post/a/) [series](/post/series/) [of](/post/of/) [small](/post/small/), repeated loops [of](/post/of/) [thread](/post/thread/) [or](/post/or/) yarn [used](/post/used/) [to](/post/to/) [hold](/post/hold/) [two](/post/two/) pieces [of](/post/of/) [fabric](/post/fabric/) [or](/post/or/) [material](/post/material/) [together](/post/together/). [Example](/post/example/): "[The](/post/the/) [dress](/post/dress/) was carefully sewn [with](/post/with/) [tiny](/post/tiny/) stitches."
+- **[Skill](/post/skill/) [or](/post/or/) [technique](/post/technique/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) sewing [or](/post/or/) joining fabrics [together](/post/together/) using [a](/post/a/) [needle](/post/needle/) [and](/post/and/) [thread](/post/thread/). [Example](/post/example/): "[She](/post/she/) [learned](/post/learned/) [to](/post/to/) [master](/post/master/) [the](/post/the/) [delicate](/post/delicate/) [stitch](/post/stitch/) required [for](/post/for/) embroidery."
+- **[A](/post/a/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/)**: [In](/post/in/) [certain](/post/certain/) contexts, [like](/post/like/) knitting [or](/post/or/) crochet, [a](/post/a/) [single](/post/single/) [loop](/post/loop/) [of](/post/of/) yarn [or](/post/or/) [thread](/post/thread/). [Example](/post/example/): "[She](/post/she/) completed [a](/post/a/) [row](/post/row/) [of](/post/of/) 100 stitches."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [fasten](/en/post/fasten/) [or](/en/post/or/) [secure](/en/post/secure/)**: [To](/en/post/to/) [join](/en/post/join/) [or](/en/post/or/) [attach](/en/post/attach/) pieces [of](/en/post/of/) [fabric](/en/post/fabric/) [or](/en/post/or/) [material](/en/post/material/) using stitches. [Example](/en/post/example/): "I'll [stitch](/en/post/stitch/) [the](/en/post/the/) [button](/en/post/button/) [back](/en/post/back/) [on](/en/post/on/) [for](/en/post/for/) [you](/en/post/you/)."
-- **[To](/en/post/to/) [perform](/en/post/perform/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) actions**: [To](/en/post/to/) [execute](/en/post/execute/) [a](/en/post/a/) [sequence](/en/post/sequence/) [of](/en/post/of/) tasks [or](/en/post/or/) steps methodically. [Example](/en/post/example/): "[She](/en/post/she/) stitches [her](/en/post/her/) [daily](/en/post/daily/) [routine](/en/post/routine/) [to](/en/post/to/) [ensure](/en/post/ensure/) productivity."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [fasten](/post/fasten/) [or](/post/or/) [secure](/post/secure/)**: [To](/post/to/) [join](/post/join/) [or](/post/or/) [attach](/post/attach/) pieces [of](/post/of/) [fabric](/post/fabric/) [or](/post/or/) [material](/post/material/) using stitches. [Example](/post/example/): "I'll [stitch](/post/stitch/) [the](/post/the/) [button](/post/button/) [back](/post/back/) [on](/post/on/) [for](/post/for/) [you](/post/you/)."
+- **[To](/post/to/) [perform](/post/perform/) [a](/post/a/) [series](/post/series/) [of](/post/of/) actions**: [To](/post/to/) [execute](/post/execute/) [a](/post/a/) [sequence](/post/sequence/) [of](/post/of/) tasks [or](/post/or/) steps methodically. [Example](/post/example/): "[She](/post/she/) stitches [her](/post/her/) [daily](/post/daily/) [routine](/post/routine/) [to](/post/to/) [ensure](/post/ensure/) productivity."
 
-### [Adjective](/en/post/adjective/)
-- **Handmade**: Referring [to](/en/post/to/) [something](/en/post/something/) created [with](/en/post/with/) [careful](/en/post/careful/) stitching [or](/en/post/or/) handwork. [Example](/en/post/example/): "[The](/en/post/the/) [quilt](/en/post/quilt/) was [a](/en/post/a/) beautifully crafted, heirloom-quality [piece](/en/post/piece/) [with](/en/post/with/) intricate stitches."
-- **[Tiny](/en/post/tiny/) [or](/en/post/or/) [precise](/en/post/precise/)**: Describing [a](/en/post/a/) [small](/en/post/small/) [or](/en/post/or/) [neat](/en/post/neat/) [stitch](/en/post/stitch/). [Example](/en/post/example/): "[Her](/en/post/her/) embroidery featured [tiny](/en/post/tiny/), [delicate](/en/post/delicate/) stitches."
+### [Adjective](/post/adjective/)
+- **Handmade**: Referring [to](/post/to/) [something](/post/something/) created [with](/post/with/) [careful](/post/careful/) stitching [or](/post/or/) handwork. [Example](/post/example/): "[The](/post/the/) [quilt](/post/quilt/) was [a](/post/a/) beautifully crafted, heirloom-quality [piece](/post/piece/) [with](/post/with/) intricate stitches."
+- **[Tiny](/post/tiny/) [or](/post/or/) [precise](/post/precise/)**: Describing [a](/post/a/) [small](/post/small/) [or](/post/or/) [neat](/post/neat/) [stitch](/post/stitch/). [Example](/post/example/): "[Her](/post/her/) embroidery featured [tiny](/post/tiny/), [delicate](/post/delicate/) stitches."
 
 ## Phrases
-- "[Stitch](/en/post/stitch/) [a](/en/post/a/) [wound](/en/post/wound/)" [means](/en/post/means/) [to](/en/post/to/) [repair](/en/post/repair/) [or](/en/post/or/) [close](/en/post/close/) [a](/en/post/a/) [tear](/en/post/tear/) [or](/en/post/or/) [injury](/en/post/injury/).
-- "[Do](/en/post/do/) [a](/en/post/a/) [quick](/en/post/quick/) [stitch](/en/post/stitch/)" signifies [a](/en/post/a/) [hasty](/en/post/hasty/) [or](/en/post/or/) imperfect [fix](/en/post/fix/).
-- "[Stitch](/en/post/stitch/) [by](/en/post/by/) [stitch](/en/post/stitch/)" describes [a](/en/post/a/) meticulous [or](/en/post/or/) step-by-step [process](/en/post/process/).
+- "[Stitch](/post/stitch/) [a](/post/a/) [wound](/post/wound/)" [means](/post/means/) [to](/post/to/) [repair](/post/repair/) [or](/post/or/) [close](/post/close/) [a](/post/a/) [tear](/post/tear/) [or](/post/or/) [injury](/post/injury/).
+- "[Do](/post/do/) [a](/post/a/) [quick](/post/quick/) [stitch](/post/stitch/)" signifies [a](/post/a/) [hasty](/post/hasty/) [or](/post/or/) imperfect [fix](/post/fix/).
+- "[Stitch](/post/stitch/) [by](/post/by/) [stitch](/post/stitch/)" describes [a](/post/a/) meticulous [or](/post/or/) step-by-step [process](/post/process/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) embroidered [a](/en/post/a/) [flower](/en/post/flower/) [on](/en/post/on/) [the](/en/post/the/) pillowcase, using [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) stitches."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) seamstress expertly stitched [the](/en/post/the/) torn seam."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) antique [rug](/en/post/rug/) had intricate [wool](/en/post/wool/) stitches [that](/en/post/that/) were [its](/en/post/its/) defining [feature](/en/post/feature/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) embroidered [a](/post/a/) [flower](/post/flower/) [on](/post/on/) [the](/post/the/) pillowcase, using [a](/post/a/) [variety](/post/variety/) [of](/post/of/) stitches."
+- **[Verb](/post/verb/)**: "[The](/post/the/) seamstress expertly stitched [the](/post/the/) torn seam."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) antique [rug](/post/rug/) had intricate [wool](/post/wool/) stitches [that](/post/that/) were [its](/post/its/) defining [feature](/post/feature/)."
 
 ## Synonyms
-- [Sew](/en/post/sew/)
-- [Knot](/en/post/knot/)
-- [Fasten](/en/post/fasten/)
-- [Secure](/en/post/secure/)
+- [Sew](/post/sew/)
+- [Knot](/post/knot/)
+- [Fasten](/post/fasten/)
+- [Secure](/post/secure/)
 - Seam
 - Embroidery
-- [Weave](/en/post/weave/) ([in](/en/post/in/) [a](/en/post/a/) broader [sense](/en/post/sense/))
+- [Weave](/post/weave/) ([in](/post/in/) [a](/post/a/) broader [sense](/post/sense/))

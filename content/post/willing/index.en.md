@@ -7,45 +7,45 @@ description = '[ˈwiliŋ] a.愿意的，心甘情愿的'
 keywords = ['ai words', 'willing']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɪˈlɪŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Willing](/en/post/willing/)** is an [adjective](/en/post/adjective/) [that](/en/post/that/) describes [a](/en/post/a/) person's readiness [or](/en/post/or/) [desire](/en/post/desire/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [positive](/en/post/positive/) [attitude](/en/post/attitude/) [or](/en/post/or/) motivation.
+### [Noun](/post/noun/)
+**[Willing](/post/willing/)** is an [adjective](/post/adjective/) [that](/post/that/) describes [a](/post/a/) person's readiness [or](/post/or/) [desire](/post/desire/) [to](/post/to/) [do](/post/do/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [positive](/post/positive/) [attitude](/post/attitude/) [or](/post/or/) motivation.
 
-### [Verb](/en/post/verb/)
-**[Be](/en/post/be/) [willing](/en/post/willing/)** ([as](/en/post/as/) [in](/en/post/in/) "[He](/en/post/he/) is [willing](/en/post/willing/) [to](/en/post/to/) [help](/en/post/help/)") [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [desire](/en/post/desire/) [or](/en/post/or/) [intention](/en/post/intention/) [to](/en/post/to/) [perform](/en/post/perform/) an [action](/en/post/action/), [without](/en/post/without/) [any](/en/post/any/) [external](/en/post/external/) [pressure](/en/post/pressure/) [or](/en/post/or/) coercion.
+### [Verb](/post/verb/)
+**[Be](/post/be/) [willing](/post/willing/)** ([as](/post/as/) [in](/post/in/) "[He](/post/he/) is [willing](/post/willing/) [to](/post/to/) [help](/post/help/)") [means](/post/means/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [desire](/post/desire/) [or](/post/or/) [intention](/post/intention/) [to](/post/to/) [perform](/post/perform/) an [action](/post/action/), [without](/post/without/) [any](/post/any/) [external](/post/external/) [pressure](/post/pressure/) [or](/post/or/) coercion.
 
-**[Be](/en/post/be/) [unwilling](/en/post/unwilling/)** ([as](/en/post/as/) [in](/en/post/in/) "[She](/en/post/she/) was [unwilling](/en/post/unwilling/) [to](/en/post/to/) [participate](/en/post/participate/)") [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [desire](/en/post/desire/) [or](/en/post/or/) [resistance](/en/post/resistance/) [to](/en/post/to/) doing [something](/en/post/something/).
+**[Be](/post/be/) [unwilling](/post/unwilling/)** ([as](/post/as/) [in](/post/in/) "[She](/post/she/) was [unwilling](/post/unwilling/) [to](/post/to/) [participate](/post/participate/)") [means](/post/means/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [desire](/post/desire/) [or](/post/or/) [resistance](/post/resistance/) [to](/post/to/) doing [something](/post/something/).
 
-### [Adverb](/en/post/adverb/)
-**Willingly** ([as](/en/post/as/) [in](/en/post/in/) "[He](/en/post/he/) did [it](/en/post/it/) willingly") describes an [action](/en/post/action/) done [with](/en/post/with/) [a](/en/post/a/) [positive](/en/post/positive/) [attitude](/en/post/attitude/) [or](/en/post/or/) [consent](/en/post/consent/).
+### [Adverb](/post/adverb/)
+**Willingly** ([as](/post/as/) [in](/post/in/) "[He](/post/he/) did [it](/post/it/) willingly") describes an [action](/post/action/) done [with](/post/with/) [a](/post/a/) [positive](/post/positive/) [attitude](/post/attitude/) [or](/post/or/) [consent](/post/consent/).
 
-**Unwillingly** ([as](/en/post/as/) [in](/en/post/in/) "[He](/en/post/he/) reluctantly agreed") describes an [action](/en/post/action/) done [against](/en/post/against/) one's [will](/en/post/will/) [or](/en/post/or/) reluctantly.
+**Unwillingly** ([as](/post/as/) [in](/post/in/) "[He](/post/he/) reluctantly agreed") describes an [action](/post/action/) done [against](/post/against/) one's [will](/post/will/) [or](/post/or/) reluctantly.
 
 ## Phrases
-- "[Be](/en/post/be/) [willing](/en/post/willing/) [to](/en/post/to/) [do](/en/post/do/)" implies [a](/en/post/a/) readiness [to](/en/post/to/) [undertake](/en/post/undertake/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [responsibility](/en/post/responsibility/).
-- "[She](/en/post/she/) was [more](/en/post/more/) [than](/en/post/than/) [willing](/en/post/willing/) [to](/en/post/to/) [lend](/en/post/lend/) [a](/en/post/a/) [hand](/en/post/hand/)."
-- "He's [not](/en/post/not/) [willing](/en/post/willing/) [to](/en/post/to/) [compromise](/en/post/compromise/) [on](/en/post/on/) [his](/en/post/his/) principles."
+- "[Be](/post/be/) [willing](/post/willing/) [to](/post/to/) [do](/post/do/)" implies [a](/post/a/) readiness [to](/post/to/) [undertake](/post/undertake/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [responsibility](/post/responsibility/).
+- "[She](/post/she/) was [more](/post/more/) [than](/post/than/) [willing](/post/willing/) [to](/post/to/) [lend](/post/lend/) [a](/post/a/) [hand](/post/hand/)."
+- "He's [not](/post/not/) [willing](/post/willing/) [to](/post/to/) [compromise](/post/compromise/) [on](/post/on/) [his](/post/his/) principles."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) showed [a](/en/post/a/) [willing](/en/post/willing/) [spirit](/en/post/spirit/) [to](/en/post/to/) [take](/en/post/take/) [on](/en/post/on/) [the](/en/post/the/) [challenge](/en/post/challenge/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) volunteers were [more](/en/post/more/) [than](/en/post/than/) [willing](/en/post/willing/) [to](/en/post/to/) donate [their](/en/post/their/) [time](/en/post/time/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) completed [the](/en/post/the/) [project](/en/post/project/) willingly, [despite](/en/post/despite/) [the](/en/post/the/) difficulties."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) showed [a](/post/a/) [willing](/post/willing/) [spirit](/post/spirit/) [to](/post/to/) [take](/post/take/) [on](/post/on/) [the](/post/the/) [challenge](/post/challenge/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) volunteers were [more](/post/more/) [than](/post/than/) [willing](/post/willing/) [to](/post/to/) donate [their](/post/their/) [time](/post/time/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) completed [the](/post/the/) [project](/post/project/) willingly, [despite](/post/despite/) [the](/post/the/) difficulties."
 
 ## Synonyms
-- [Ready](/en/post/ready/)
-- [Eager](/en/post/eager/)
-- [Voluntary](/en/post/voluntary/)
+- [Ready](/post/ready/)
+- [Eager](/post/eager/)
+- [Voluntary](/post/voluntary/)
 - Compliant
 - Desirous
-- [Reluctant](/en/post/reluctant/)
-- [Unwilling](/en/post/unwilling/) ([opposite](/en/post/opposite/) [meaning](/en/post/meaning/))
+- [Reluctant](/post/reluctant/)
+- [Unwilling](/post/unwilling/) ([opposite](/post/opposite/) [meaning](/post/meaning/))
 
 ## Antonyms
-- [Reluctant](/en/post/reluctant/)
-- [Unwilling](/en/post/unwilling/)
+- [Reluctant](/post/reluctant/)
+- [Unwilling](/post/unwilling/)
 - Unwillingness
 - Opposed
-- [Indifferent](/en/post/indifferent/)
+- [Indifferent](/post/indifferent/)

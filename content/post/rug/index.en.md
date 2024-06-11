@@ -7,34 +7,34 @@ description = '[rʌg] n.小地毯；毛毯'
 keywords = ['ai words', 'rug']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rʌɡ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) thickly woven [floor](/en/post/floor/) covering, typically made [of](/en/post/of/) [pile](/en/post/pile/) [fabric](/en/post/fabric/), [that](/en/post/that/) is placed [on](/en/post/on/) [a](/en/post/a/) [floor](/en/post/floor/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) Persian [rug](/en/post/rug/) added [warmth](/en/post/warmth/) [to](/en/post/to/) [the](/en/post/the/) [living](/en/post/living/) [room](/en/post/room/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) covered [with](/en/post/with/) [a](/en/post/a/) [rug](/en/post/rug/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) cozy rug-covered [floor](/en/post/floor/) made [the](/en/post/the/) [study](/en/post/study/) inviting."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cover](/en/post/cover/) ([a](/en/post/a/) [floor](/en/post/floor/)) [with](/en/post/with/) [a](/en/post/a/) [rug](/en/post/rug/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [rug](/en/post/rug/) [the](/en/post/the/) dining [room](/en/post/room/) [with](/en/post/with/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) [oriental](/en/post/oriental/) [carpet](/en/post/carpet/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) thickly woven [floor](/post/floor/) covering, typically made [of](/post/of/) [pile](/post/pile/) [fabric](/post/fabric/), [that](/post/that/) is placed [on](/post/on/) [a](/post/a/) [floor](/post/floor/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) Persian [rug](/post/rug/) added [warmth](/post/warmth/) [to](/post/to/) [the](/post/the/) [living](/post/living/) [room](/post/room/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) covered [with](/post/with/) [a](/post/a/) [rug](/post/rug/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) cozy rug-covered [floor](/post/floor/) made [the](/post/the/) [study](/post/study/) inviting."
+- **[Verb](/post/verb/)**: [To](/post/to/) [cover](/post/cover/) ([a](/post/a/) [floor](/post/floor/)) [with](/post/with/) [a](/post/a/) [rug](/post/rug/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [rug](/post/rug/) [the](/post/the/) dining [room](/post/room/) [with](/post/with/) [a](/post/a/) [beautiful](/post/beautiful/) [oriental](/post/oriental/) [carpet](/post/carpet/)."
 
 ## Phrases
-- "[Lay](/en/post/lay/) [a](/en/post/a/) [rug](/en/post/rug/) [down](/en/post/down/)" [means](/en/post/means/) [to](/en/post/to/) [place](/en/post/place/) [a](/en/post/a/) [rug](/en/post/rug/) [on](/en/post/on/) [the](/en/post/the/) [floor](/en/post/floor/).
-- "[rug](/en/post/rug/) [it](/en/post/it/) [up](/en/post/up/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [to](/en/post/to/) [wear](/en/post/wear/) [warm](/en/post/warm/) [clothes](/en/post/clothes/) [or](/en/post/or/) accessories, [especially](/en/post/especially/) [during](/en/post/during/) [cold](/en/post/cold/) [weather](/en/post/weather/).
-- "[Rug](/en/post/rug/) [out](/en/post/out/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [setting](/en/post/setting/) [up](/en/post/up/) [or](/en/post/or/) preparing [a](/en/post/a/) [space](/en/post/space/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [rug](/en/post/rug/), [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/).
+- "[Lay](/post/lay/) [a](/post/a/) [rug](/post/rug/) [down](/post/down/)" [means](/post/means/) [to](/post/to/) [place](/post/place/) [a](/post/a/) [rug](/post/rug/) [on](/post/on/) [the](/post/the/) [floor](/post/floor/).
+- "[rug](/post/rug/) [it](/post/it/) [up](/post/up/)" is [a](/post/a/) colloquial [expression](/post/expression/) [to](/post/to/) [wear](/post/wear/) [warm](/post/warm/) [clothes](/post/clothes/) [or](/post/or/) accessories, [especially](/post/especially/) [during](/post/during/) [cold](/post/cold/) [weather](/post/weather/).
+- "[Rug](/post/rug/) [out](/post/out/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [setting](/post/setting/) [up](/post/up/) [or](/post/or/) preparing [a](/post/a/) [space](/post/space/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [rug](/post/rug/), [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) antique [rug](/en/post/rug/) was [a](/en/post/a/) [family](/en/post/family/) heirloom passed [down](/en/post/down/) [through](/en/post/through/) generations."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) stepped [onto](/en/post/onto/) [the](/en/post/the/) [soft](/en/post/soft/), plush [rug](/en/post/rug/) [and](/en/post/and/) felt [the](/en/post/the/) [warmth](/en/post/warmth/) [beneath](/en/post/beneath/) [her](/en/post/her/) feet."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) rugged [up](/en/post/up/) [his](/en/post/his/) boots [before](/en/post/before/) venturing [outside](/en/post/outside/) [into](/en/post/into/) [the](/en/post/the/) [snow](/en/post/snow/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) antique [rug](/post/rug/) was [a](/post/a/) [family](/post/family/) heirloom passed [down](/post/down/) [through](/post/through/) generations."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) stepped [onto](/post/onto/) [the](/post/the/) [soft](/post/soft/), plush [rug](/post/rug/) [and](/post/and/) felt [the](/post/the/) [warmth](/post/warmth/) [beneath](/post/beneath/) [her](/post/her/) feet."
+- **[Verb](/post/verb/)**: "[He](/post/he/) rugged [up](/post/up/) [his](/post/his/) boots [before](/post/before/) venturing [outside](/post/outside/) [into](/post/into/) [the](/post/the/) [snow](/post/snow/)."
 
 ## Synonyms
-- [Carpet](/en/post/carpet/)
+- [Carpet](/post/carpet/)
 - Coverlet
 - Mats
-- [Area](/en/post/area/) [rug](/en/post/rug/)
-- [Runner](/en/post/runner/)
-- Mattress [pad](/en/post/pad/)
-- [Floor](/en/post/floor/) covering
+- [Area](/post/area/) [rug](/post/rug/)
+- [Runner](/post/runner/)
+- Mattress [pad](/post/pad/)
+- [Floor](/post/floor/) covering
 
 ## Antonyms
-- [Bare](/en/post/bare/) (uncovered)
-- [Hard](/en/post/hard/) [floor](/en/post/floor/)
+- [Bare](/post/bare/) (uncovered)
+- [Hard](/post/hard/) [floor](/post/floor/)
 - Exposed (木地板)

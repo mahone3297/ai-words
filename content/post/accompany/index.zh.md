@@ -12,20 +12,20 @@ keywords = ['ai words', 'accompany']
 
 ## 释义
 - **动词**:
-  - 陪伴；陪同。例如: "[She](/post/she/) accompanied [her](/post/her/) [friend](/post/friend/) [to](/post/to/) [the](/post/the/) doctor's [appointment](/post/appointment/)."
-  - 伴奏；配乐。例如: "[The](/post/the/) pianist accompanied [the](/post/the/) [singer](/post/singer/) [during](/post/during/) [the](/post/the/) [performance](/post/performance/)."
+  - 陪伴；陪同。例如: "[She](/zh/post/she/) accompanied [her](/zh/post/her/) [friend](/zh/post/friend/) [to](/zh/post/to/) [the](/zh/post/the/) doctor's [appointment](/zh/post/appointment/)."
+  - 伴奏；配乐。例如: "[The](/zh/post/the/) pianist accompanied [the](/zh/post/the/) [singer](/zh/post/singer/) [during](/zh/post/during/) [the](/zh/post/the/) [performance](/zh/post/performance/)."
 
 ## 短语
-- "[accompany](/post/accompany/) [someone](/post/someone/)" 意为陪伴某人。
-- "[accompany](/post/accompany/) [by](/post/by/)" 指由...伴奏。
+- "[accompany](/zh/post/accompany/) [someone](/zh/post/someone/)" 意为陪伴某人。
+- "[accompany](/zh/post/accompany/) [by](/zh/post/by/)" 指由...伴奏。
 
 ## 例句
-- 动词: "[He](/post/he/) accompanied [his](/post/his/) [sister](/post/sister/) [to](/post/to/) [the](/post/the/) [cinema](/post/cinema/)."
-- "[The](/post/the/) violinist accompanied [the](/post/the/) ballad [with](/post/with/) [a](/post/a/) soothing melody."
+- 动词: "[He](/zh/post/he/) accompanied [his](/zh/post/his/) [sister](/zh/post/sister/) [to](/zh/post/to/) [the](/zh/post/the/) [cinema](/zh/post/cinema/)."
+- "[The](/zh/post/the/) violinist accompanied [the](/zh/post/the/) ballad [with](/zh/post/with/) [a](/zh/post/a/) soothing melody."
 
 ## 同义词
-- [go](/post/go/) [with](/post/with/)
+- [go](/zh/post/go/) [with](/zh/post/with/)
 - escort
 - chaperone
-- [attend](/post/attend/)
-- [support](/post/support/) ([in](/post/in/) [a](/post/a/) [musical](/post/musical/) context)
+- [attend](/zh/post/attend/)
+- [support](/zh/post/support/) ([in](/zh/post/in/) [a](/zh/post/a/) [musical](/zh/post/musical/) context)

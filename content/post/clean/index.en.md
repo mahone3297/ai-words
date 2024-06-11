@@ -7,41 +7,41 @@ description = '[kliːn] a.清洁的；纯洁的'
 keywords = ['ai words', 'clean']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /cliːn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Clean](/en/post/clean/)**: [A](/en/post/a/) [state](/en/post/state/), [condition](/en/post/condition/), [or](/en/post/or/) [quality](/en/post/quality/) [free](/en/post/free/) [from](/en/post/from/) [dirt](/en/post/dirt/), contamination, [or](/en/post/or/) impurities. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [kitchen](/en/post/kitchen/) was spotlessly [clean](/en/post/clean/) [after](/en/post/after/) [the](/en/post/the/) [thorough](/en/post/thorough/) cleaning."
-- **Sanitation**: [The](/en/post/the/) [maintenance](/en/post/maintenance/) [of](/en/post/of/) cleanliness [and](/en/post/and/) healthfulness, [especially](/en/post/especially/) [in](/en/post/in/) [public](/en/post/public/) places. [For](/en/post/for/) [example](/en/post/example/): "[Good](/en/post/good/) sanitation is [essential](/en/post/essential/) [for](/en/post/for/) preventing [the](/en/post/the/) [spread](/en/post/spread/) [of](/en/post/of/) diseases."
+### [Noun](/post/noun/)
+- **[Clean](/post/clean/)**: [A](/post/a/) [state](/post/state/), [condition](/post/condition/), [or](/post/or/) [quality](/post/quality/) [free](/post/free/) [from](/post/from/) [dirt](/post/dirt/), contamination, [or](/post/or/) impurities. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [kitchen](/post/kitchen/) was spotlessly [clean](/post/clean/) [after](/post/after/) [the](/post/the/) [thorough](/post/thorough/) cleaning."
+- **Sanitation**: [The](/post/the/) [maintenance](/post/maintenance/) [of](/post/of/) cleanliness [and](/post/and/) healthfulness, [especially](/post/especially/) [in](/post/in/) [public](/post/public/) places. [For](/post/for/) [example](/post/example/): "[Good](/post/good/) sanitation is [essential](/post/essential/) [for](/post/for/) preventing [the](/post/the/) [spread](/post/spread/) [of](/post/of/) diseases."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [clean](/en/post/clean/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) making [something](/en/post/something/) [free](/en/post/free/) [from](/en/post/from/) [dirt](/en/post/dirt/), [dust](/en/post/dust/), [or](/en/post/or/) [other](/en/post/other/) contaminants. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) cleaned [the](/en/post/the/) windows [to](/en/post/to/) [let](/en/post/let/) [in](/en/post/in/) [more](/en/post/more/) [light](/en/post/light/)."
-- **[To](/en/post/to/) sanitize**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [free](/en/post/free/) [from](/en/post/from/) [harmful](/en/post/harmful/) germs [or](/en/post/or/) [bacteria](/en/post/bacteria/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [hospital](/en/post/hospital/) [staff](/en/post/staff/) carefully sanitized [the](/en/post/the/) operating [room](/en/post/room/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [clean](/post/clean/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) making [something](/post/something/) [free](/post/free/) [from](/post/from/) [dirt](/post/dirt/), [dust](/post/dust/), [or](/post/or/) [other](/post/other/) contaminants. [For](/post/for/) [example](/post/example/): "[She](/post/she/) cleaned [the](/post/the/) windows [to](/post/to/) [let](/post/let/) [in](/post/in/) [more](/post/more/) [light](/post/light/)."
+- **[To](/post/to/) sanitize**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [free](/post/free/) [from](/post/from/) [harmful](/post/harmful/) germs [or](/post/or/) [bacteria](/post/bacteria/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [hospital](/post/hospital/) [staff](/post/staff/) carefully sanitized [the](/post/the/) operating [room](/post/room/)."
 
-### [Adjective](/en/post/adjective/)
-- Describing [a](/en/post/a/) [surface](/en/post/surface/), [object](/en/post/object/), [or](/en/post/or/) [environment](/en/post/environment/) [that](/en/post/that/) is [free](/en/post/free/) [from](/en/post/from/) [dirt](/en/post/dirt/) [or](/en/post/or/) contamination. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) freshly cleaned [car](/en/post/car/) shone [in](/en/post/in/) [the](/en/post/the/) [sunlight](/en/post/sunlight/)."
-- Referring [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [neat](/en/post/neat/) [or](/en/post/or/) [tidy](/en/post/tidy/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) is known [for](/en/post/for/) [his](/en/post/his/) impeccable grooming [and](/en/post/and/) [clean](/en/post/clean/) [appearance](/en/post/appearance/)."
+### [Adjective](/post/adjective/)
+- Describing [a](/post/a/) [surface](/post/surface/), [object](/post/object/), [or](/post/or/) [environment](/post/environment/) [that](/post/that/) is [free](/post/free/) [from](/post/from/) [dirt](/post/dirt/) [or](/post/or/) contamination. [For](/post/for/) [example](/post/example/): "[The](/post/the/) freshly cleaned [car](/post/car/) shone [in](/post/in/) [the](/post/the/) [sunlight](/post/sunlight/)."
+- Referring [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) is [neat](/post/neat/) [or](/post/or/) [tidy](/post/tidy/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) is known [for](/post/for/) [his](/post/his/) impeccable grooming [and](/post/and/) [clean](/post/clean/) [appearance](/post/appearance/)."
 
-### [Adverb](/en/post/adverb/)
-- [Used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) an [action](/en/post/action/) is performed, [often](/en/post/often/) [with](/en/post/with/) [respect](/en/post/respect/) [to](/en/post/to/) cleanliness. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) cleaned [the](/en/post/the/) dishes thoroughly."
+### [Adverb](/post/adverb/)
+- [Used](/post/used/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [manner](/post/manner/) [in](/post/in/) [which](/post/which/) an [action](/post/action/) is performed, [often](/post/often/) [with](/post/with/) [respect](/post/respect/) [to](/post/to/) cleanliness. [For](/post/for/) [example](/post/example/): "[She](/post/she/) cleaned [the](/post/the/) dishes thoroughly."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [the](/en/post/the/) [place](/en/post/place/) [clean](/en/post/clean/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [tidy](/en/post/tidy/) [and](/en/post/and/) hygienic [environment](/en/post/environment/).
-- "[A](/en/post/a/) [clean](/en/post/clean/) slate" signifies [a](/en/post/a/) [fresh](/en/post/fresh/) [start](/en/post/start/) [without](/en/post/without/) [any](/en/post/any/) [previous](/en/post/previous/) issues [or](/en/post/or/) mistakes.
-- "[Clean](/en/post/clean/) [living](/en/post/living/)" refers [to](/en/post/to/) [a](/en/post/a/) lifestyle characterized [by](/en/post/by/) [healthy](/en/post/healthy/) habits [and](/en/post/and/) minimal [substance](/en/post/substance/) [use](/en/post/use/).
+- "[Keep](/post/keep/) [the](/post/the/) [place](/post/place/) [clean](/post/clean/)" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [tidy](/post/tidy/) [and](/post/and/) hygienic [environment](/post/environment/).
+- "[A](/post/a/) [clean](/post/clean/) slate" signifies [a](/post/a/) [fresh](/post/fresh/) [start](/post/start/) [without](/post/without/) [any](/post/any/) [previous](/post/previous/) issues [or](/post/or/) mistakes.
+- "[Clean](/post/clean/) [living](/post/living/)" refers [to](/post/to/) [a](/post/a/) lifestyle characterized [by](/post/by/) [healthy](/post/healthy/) habits [and](/post/and/) minimal [substance](/post/substance/) [use](/post/use/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) [left](/en/post/left/) [the](/en/post/the/) [room](/en/post/room/) [feeling](/en/post/feeling/) refreshed [after](/en/post/after/) [a](/en/post/a/) [deep](/en/post/deep/) [clean](/en/post/clean/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [he](/en/post/he/) collapsed [onto](/en/post/onto/) [the](/en/post/the/) [clean](/en/post/clean/) sheets [of](/en/post/of/) [his](/en/post/his/) [bed](/en/post/bed/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [clean](/en/post/clean/) [air](/en/post/air/) [of](/en/post/of/) [the](/en/post/the/) [countryside](/en/post/countryside/) was invigorating."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) [left](/post/left/) [the](/post/the/) [room](/post/room/) [feeling](/post/feeling/) refreshed [after](/post/after/) [a](/post/a/) [deep](/post/deep/) [clean](/post/clean/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) collapsed [onto](/post/onto/) [the](/post/the/) [clean](/post/clean/) sheets [of](/post/of/) [his](/post/his/) [bed](/post/bed/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [clean](/post/clean/) [air](/post/air/) [of](/post/of/) [the](/post/the/) [countryside](/post/countryside/) was invigorating."
 
 ## Synonyms
-- [Neat](/en/post/neat/)
-- [Tidy](/en/post/tidy/)
+- [Neat](/post/neat/)
+- [Tidy](/post/tidy/)
 - Spotless
 - Hygienic
-- [Orderly](/en/post/orderly/)
+- [Orderly](/post/orderly/)
 - germ-free
 - dust-free
 - sanitary

@@ -11,20 +11,20 @@ keywords = ['ai words', 'variety']
 /ˈværɪəti/
 
 ## 释义
-- **名词**: 多样性，种类。例如: "[There](/post/there/) is [a](/post/a/) [great](/post/great/) [variety](/post/variety/) [of](/post/of/) birds [in](/post/in/) [the](/post/the/) [forest](/post/forest/)."
-- **形容词**: 各种各样的，多样的。例如: "[The](/post/the/) [festival](/post/festival/) offers [a](/post/a/) [variety](/post/variety/) [of](/post/of/) cultural events."
+- **名词**: 多样性，种类。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [great](/zh/post/great/) [variety](/zh/post/variety/) [of](/zh/post/of/) birds [in](/zh/post/in/) [the](/zh/post/the/) [forest](/zh/post/forest/)."
+- **形容词**: 各种各样的，多样的。例如: "[The](/zh/post/the/) [festival](/zh/post/festival/) offers [a](/zh/post/a/) [variety](/zh/post/variety/) [of](/zh/post/of/) cultural events."
 
 ## 短语
-- "[A](/post/a/) [variety](/post/variety/) [of](/post/of/)" 表示多种多样的。例如: "[We](/post/we/) [have](/post/have/) [a](/post/a/) [variety](/post/variety/) [of](/post/of/) flavors [for](/post/for/) [you](/post/you/) [to](/post/to/) [choose](/post/choose/) [from](/post/from/)."
-- "[Variety](/post/variety/) is [the](/post/the/) spice [of](/post/of/) [life](/post/life/)" 意味着生活因多样性而有趣。
+- "[A](/zh/post/a/) [variety](/zh/post/variety/) [of](/zh/post/of/)" 表示多种多样的。例如: "[We](/zh/post/we/) [have](/zh/post/have/) [a](/zh/post/a/) [variety](/zh/post/variety/) [of](/zh/post/of/) flavors [for](/zh/post/for/) [you](/zh/post/you/) [to](/zh/post/to/) [choose](/zh/post/choose/) [from](/zh/post/from/)."
+- "[Variety](/zh/post/variety/) is [the](/zh/post/the/) spice [of](/zh/post/of/) [life](/zh/post/life/)" 意味着生活因多样性而有趣。
 
 ## 例句
-- 名词: "[The](/post/the/) [store](/post/store/) carries [a](/post/a/) [wide](/post/wide/) [variety](/post/variety/) [of](/post/of/) products [to](/post/to/) [suit](/post/suit/) [all](/post/all/) tastes."
-- 形容词: "[The](/post/the/) [menu](/post/menu/) features [a](/post/a/) [variety](/post/variety/) [of](/post/of/) [international](/post/international/) dishes."
+- 名词: "[The](/zh/post/the/) [store](/zh/post/store/) carries [a](/zh/post/a/) [wide](/zh/post/wide/) [variety](/zh/post/variety/) [of](/zh/post/of/) products [to](/zh/post/to/) [suit](/zh/post/suit/) [all](/zh/post/all/) tastes."
+- 形容词: "[The](/zh/post/the/) [menu](/zh/post/menu/) features [a](/zh/post/a/) [variety](/zh/post/variety/) [of](/zh/post/of/) [international](/zh/post/international/) dishes."
 
 ## 同义词
 - Diversity
-- [Range](/post/range/)
+- [Range](/zh/post/range/)
 - Assortment
-- [Selection](/post/selection/)
+- [Selection](/zh/post/selection/)
 - Multiplicity

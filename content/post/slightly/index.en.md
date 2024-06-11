@@ -7,31 +7,31 @@ description = '[ˈslaitli] ad.稍微，有点'
 keywords = ['ai words', 'slightly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /slaɪtli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [a](/en/post/a/) [moderate](/en/post/moderate/) [degree](/en/post/degree/) [or](/en/post/or/) [extent](/en/post/extent/); [not](/en/post/not/) [very](/en/post/very/) [much](/en/post/much/). [It](/en/post/it/) modifies verbs, adjectives, [or](/en/post/or/) [other](/en/post/other/) adverbs. 
+- **[Adverb](/post/adverb/)**: [To](/post/to/) [a](/post/a/) [moderate](/post/moderate/) [degree](/post/degree/) [or](/post/or/) [extent](/post/extent/); [not](/post/not/) [very](/post/very/) [much](/post/much/). [It](/post/it/) modifies verbs, adjectives, [or](/post/or/) [other](/post/other/) adverbs. 
 
 ## Phrases
-- "[Slightly](/en/post/slightly/) [more](/en/post/more/)" indicates [a](/en/post/a/) [small](/en/post/small/) [increase](/en/post/increase/) [or](/en/post/or/) [difference](/en/post/difference/).
-- "[Slightly](/en/post/slightly/) [damp](/en/post/damp/)" [means](/en/post/means/) [slightly](/en/post/slightly/) [wet](/en/post/wet/) [or](/en/post/or/) [moist](/en/post/moist/).
-- "[She](/en/post/she/) was [slightly](/en/post/slightly/) [tired](/en/post/tired/) [after](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [journey](/en/post/journey/)."
+- "[Slightly](/post/slightly/) [more](/post/more/)" indicates [a](/post/a/) [small](/post/small/) [increase](/post/increase/) [or](/post/or/) [difference](/post/difference/).
+- "[Slightly](/post/slightly/) [damp](/post/damp/)" [means](/post/means/) [slightly](/post/slightly/) [wet](/post/wet/) [or](/post/or/) [moist](/post/moist/).
+- "[She](/post/she/) was [slightly](/post/slightly/) [tired](/post/tired/) [after](/post/after/) [the](/post/the/) [long](/post/long/) [journey](/post/journey/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/) modifying [a](/en/post/a/) [verb](/en/post/verb/)**: "[He](/en/post/he/) smiled [slightly](/en/post/slightly/) [when](/en/post/when/) [he](/en/post/he/) [saw](/en/post/saw/) [her](/en/post/her/)."
-- "[The](/en/post/the/) [temperature](/en/post/temperature/) dropped [slightly](/en/post/slightly/) [during](/en/post/during/) [the](/en/post/the/) [night](/en/post/night/)."
-- "[She](/en/post/she/) felt [slightly](/en/post/slightly/) [uncomfortable](/en/post/uncomfortable/) [in](/en/post/in/) [the](/en/post/the/) [new](/en/post/new/) shoes."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/) modifying [a](/post/a/) [verb](/post/verb/)**: "[He](/post/he/) smiled [slightly](/post/slightly/) [when](/post/when/) [he](/post/he/) [saw](/post/saw/) [her](/post/her/)."
+- "[The](/post/the/) [temperature](/post/temperature/) dropped [slightly](/post/slightly/) [during](/post/during/) [the](/post/the/) [night](/post/night/)."
+- "[She](/post/she/) felt [slightly](/post/slightly/) [uncomfortable](/post/uncomfortable/) [in](/post/in/) [the](/post/the/) [new](/post/new/) shoes."
 
 ## Synonyms
 - Moderately
-- [Slightly](/en/post/slightly/) [less](/en/post/less/)
+- [Slightly](/post/slightly/) [less](/post/less/)
 - Barely
 - Minimally
 - Trivially
 
 ## Antonyms
-- [Heavily](/en/post/heavily/)
+- [Heavily](/post/heavily/)
 - Dramatically
 - Significantly
 - Extensively

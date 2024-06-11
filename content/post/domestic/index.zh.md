@@ -11,23 +11,23 @@ keywords = ['ai words', 'domestic']
 /ˈdəməstɪk/
 
 ## 释义
-- **形容词**: 1. 居家的；家庭的。例如: "[She](/post/she/) loves [to](/post/to/) [spend](/post/spend/) [her](/post/her/) weekends [in](/post/in/) [domestic](/post/domestic/) chores."  
-- **形容词**: 2. 国内的；国内生产的。例如: "[The](/post/the/) [government](/post/government/) encourages [the](/post/the/) [use](/post/use/) [of](/post/of/) [domestic](/post/domestic/) products." 
-- **形容词**: 3. 与家庭生活有关的。例如: "[Domestic](/post/domestic/) [violence](/post/violence/) is [a](/post/a/) [serious](/post/serious/) [social](/post/social/) [issue](/post/issue/)." 
+- **形容词**: 1. 居家的；家庭的。例如: "[She](/zh/post/she/) loves [to](/zh/post/to/) [spend](/zh/post/spend/) [her](/zh/post/her/) weekends [in](/zh/post/in/) [domestic](/zh/post/domestic/) chores."  
+- **形容词**: 2. 国内的；国内生产的。例如: "[The](/zh/post/the/) [government](/zh/post/government/) encourages [the](/zh/post/the/) [use](/zh/post/use/) [of](/zh/post/of/) [domestic](/zh/post/domestic/) products." 
+- **形容词**: 3. 与家庭生活有关的。例如: "[Domestic](/zh/post/domestic/) [violence](/zh/post/violence/) is [a](/zh/post/a/) [serious](/zh/post/serious/) [social](/zh/post/social/) [issue](/zh/post/issue/)." 
 
 ## 短语
-- "[domestic](/post/domestic/) [life](/post/life/)" 指家庭生活。
-- "[domestic](/post/domestic/) [animal](/post/animal/)" 指家养动物，如猫、狗。
-- "[domestic](/post/domestic/) [airline](/post/airline/)" 指国内航线的航空公司。
+- "[domestic](/zh/post/domestic/) [life](/zh/post/life/)" 指家庭生活。
+- "[domestic](/zh/post/domestic/) [animal](/zh/post/animal/)" 指家养动物，如猫、狗。
+- "[domestic](/zh/post/domestic/) [airline](/zh/post/airline/)" 指国内航线的航空公司。
 
 ## 例句
-- 形容词1: "[She](/post/she/) enjoys creating [a](/post/a/) cozy [and](/post/and/) [domestic](/post/domestic/) [atmosphere](/post/atmosphere/) [at](/post/at/) [home](/post/home/)."
-- 形容词2: "[The](/post/the/) [car](/post/car/) [manufacturer](/post/manufacturer/) focuses [on](/post/on/) producing high-quality [domestic](/post/domestic/) vehicles."
-- 形容词3: "[Domestic](/post/domestic/) [abuse](/post/abuse/) affects millions [of](/post/of/) [people](/post/people/) worldwide."
+- 形容词1: "[She](/zh/post/she/) enjoys creating [a](/zh/post/a/) cozy [and](/zh/post/and/) [domestic](/zh/post/domestic/) [atmosphere](/zh/post/atmosphere/) [at](/zh/post/at/) [home](/zh/post/home/)."
+- 形容词2: "[The](/zh/post/the/) [car](/zh/post/car/) [manufacturer](/zh/post/manufacturer/) focuses [on](/zh/post/on/) producing high-quality [domestic](/zh/post/domestic/) vehicles."
+- 形容词3: "[Domestic](/zh/post/domestic/) [abuse](/zh/post/abuse/) affects millions [of](/zh/post/of/) [people](/zh/post/people/) worldwide."
 
 ## 同义词
 - Homey
-- [Household](/post/household/)
+- [Household](/zh/post/household/)
 - Inland
 - Indigenous
 - Family-oriented

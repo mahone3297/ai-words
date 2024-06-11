@@ -7,28 +7,28 @@ description = '[drai] a.干的，干燥的'
 keywords = ['ai words', 'dry']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /draɪ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) [Not](/en/post/not/) [moist](/en/post/moist/) [or](/en/post/or/) [wet](/en/post/wet/); [not](/en/post/not/) having [or](/en/post/or/) containing [water](/en/post/water/) [or](/en/post/or/) [liquid](/en/post/liquid/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) towels were [left](/en/post/left/) [out](/en/post/out/) [to](/en/post/to/) [dry](/en/post/dry/) [in](/en/post/in/) [the](/en/post/the/) [sun](/en/post/sun/)."
-  - [The](/en/post/the/) [opposite](/en/post/opposite/) [of](/en/post/of/) [wet](/en/post/wet/): "[After](/en/post/after/) [the](/en/post/the/) [rain](/en/post/rain/) stopped, [the](/en/post/the/) [ground](/en/post/ground/) [soon](/en/post/soon/) became [dry](/en/post/dry/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) lacks humidity [or](/en/post/or/) [moisture](/en/post/moisture/) [content](/en/post/content/): "[In](/en/post/in/) [this](/en/post/this/) [climate](/en/post/climate/), [the](/en/post/the/) [air](/en/post/air/) is [often](/en/post/often/) [very](/en/post/very/) [dry](/en/post/dry/)."
-  - Figuratively, [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [dull](/en/post/dull/), uninteresting, [or](/en/post/or/) humorless: "[His](/en/post/his/) jokes fell [flat](/en/post/flat/); [they](/en/post/they/) were [quite](/en/post/quite/) [dry](/en/post/dry/)."
+- **[Adjective](/post/adjective/)**: (adj) [Not](/post/not/) [moist](/post/moist/) [or](/post/or/) [wet](/post/wet/); [not](/post/not/) having [or](/post/or/) containing [water](/post/water/) [or](/post/or/) [liquid](/post/liquid/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) towels were [left](/post/left/) [out](/post/out/) [to](/post/to/) [dry](/post/dry/) [in](/post/in/) [the](/post/the/) [sun](/post/sun/)."
+  - [The](/post/the/) [opposite](/post/opposite/) [of](/post/of/) [wet](/post/wet/): "[After](/post/after/) [the](/post/the/) [rain](/post/rain/) stopped, [the](/post/the/) [ground](/post/ground/) [soon](/post/soon/) became [dry](/post/dry/)."
+  - [Also](/post/also/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) lacks humidity [or](/post/or/) [moisture](/post/moisture/) [content](/post/content/): "[In](/post/in/) [this](/post/this/) [climate](/post/climate/), [the](/post/the/) [air](/post/air/) is [often](/post/often/) [very](/post/very/) [dry](/post/dry/)."
+  - Figuratively, [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [dull](/post/dull/), uninteresting, [or](/post/or/) humorless: "[His](/post/his/) jokes fell [flat](/post/flat/); [they](/post/they/) were [quite](/post/quite/) [dry](/post/dry/)."
   
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [remove](/en/post/remove/) [moisture](/en/post/moisture/) [from](/en/post/from/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [dry](/en/post/dry/) [my](/en/post/my/) [hair](/en/post/hair/) [before](/en/post/before/) leaving [the](/en/post/the/) [house](/en/post/house/)."
-  - [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) becoming [dry](/en/post/dry/): "[The](/en/post/the/) [clothes](/en/post/clothes/) [will](/en/post/will/) [dry](/en/post/dry/) [quickly](/en/post/quickly/) [in](/en/post/in/) [this](/en/post/this/) [heat](/en/post/heat/)."
-  - [In](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [less](/en/post/less/) [emotional](/en/post/emotional/) [or](/en/post/or/) [less](/en/post/less/) [interesting](/en/post/interesting/): "[The](/en/post/the/) [harsh](/en/post/harsh/) realities [of](/en/post/of/) [life](/en/post/life/) dried [up](/en/post/up/) [his](/en/post/his/) [enthusiasm](/en/post/enthusiasm/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [remove](/post/remove/) [moisture](/post/moisture/) [from](/post/from/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "I [need](/post/need/) [to](/post/to/) [dry](/post/dry/) [my](/post/my/) [hair](/post/hair/) [before](/post/before/) leaving [the](/post/the/) [house](/post/house/)."
+  - [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) becoming [dry](/post/dry/): "[The](/post/the/) [clothes](/post/clothes/) [will](/post/will/) [dry](/post/dry/) [quickly](/post/quickly/) [in](/post/in/) [this](/post/this/) [heat](/post/heat/)."
+  - [In](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [make](/post/make/) [something](/post/something/) [less](/post/less/) [emotional](/post/emotional/) [or](/post/or/) [less](/post/less/) [interesting](/post/interesting/): "[The](/post/the/) [harsh](/post/harsh/) realities [of](/post/of/) [life](/post/life/) dried [up](/post/up/) [his](/post/his/) [enthusiasm](/post/enthusiasm/)."
 
 ## Phrases
-- "[Dry](/en/post/dry/) [as](/en/post/as/) [a](/en/post/a/) [bone](/en/post/bone/)": [Extremely](/en/post/extremely/) [dry](/en/post/dry/), [without](/en/post/without/) [any](/en/post/any/) [moisture](/en/post/moisture/).
-- "Let's [dry](/en/post/dry/) [off](/en/post/off/)": [To](/en/post/to/) [remove](/en/post/remove/) [moisture](/en/post/moisture/) [after](/en/post/after/) getting [wet](/en/post/wet/).
-- "Don't [cry](/en/post/cry/) [over](/en/post/over/) spilled [milk](/en/post/milk/); it's [no](/en/post/no/) [use](/en/post/use/) crying [over](/en/post/over/) [dry](/en/post/dry/) cups": [Meaning](/en/post/meaning/), don't [waste](/en/post/waste/) [time](/en/post/time/) regretting [what](/en/post/what/) cannot [be](/en/post/be/) undone.
+- "[Dry](/post/dry/) [as](/post/as/) [a](/post/a/) [bone](/post/bone/)": [Extremely](/post/extremely/) [dry](/post/dry/), [without](/post/without/) [any](/post/any/) [moisture](/post/moisture/).
+- "Let's [dry](/post/dry/) [off](/post/off/)": [To](/post/to/) [remove](/post/remove/) [moisture](/post/moisture/) [after](/post/after/) getting [wet](/post/wet/).
+- "Don't [cry](/post/cry/) [over](/post/over/) spilled [milk](/post/milk/); it's [no](/post/no/) [use](/post/use/) crying [over](/post/over/) [dry](/post/dry/) cups": [Meaning](/post/meaning/), don't [waste](/post/waste/) [time](/post/time/) regretting [what](/post/what/) cannot [be](/post/be/) undone.
   
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [desert](/en/post/desert/) is [so](/en/post/so/) [dry](/en/post/dry/) [that](/en/post/that/) plants [struggle](/en/post/struggle/) [to](/en/post/to/) [survive](/en/post/survive/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) hung [the](/en/post/the/) washed [clothes](/en/post/clothes/) [outside](/en/post/outside/) [to](/en/post/to/) [dry](/en/post/dry/) [in](/en/post/in/) [the](/en/post/the/) [sun](/en/post/sun/)."
-- **Figurative [usage](/en/post/usage/)**: "[His](/en/post/his/) [delivery](/en/post/delivery/) was [so](/en/post/so/) [dry](/en/post/dry/) [that](/en/post/that/) [even](/en/post/even/) [the](/en/post/the/) [most](/en/post/most/) [exciting](/en/post/exciting/) stories sounded mundane."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [desert](/post/desert/) is [so](/post/so/) [dry](/post/dry/) [that](/post/that/) plants [struggle](/post/struggle/) [to](/post/to/) [survive](/post/survive/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) hung [the](/post/the/) washed [clothes](/post/clothes/) [outside](/post/outside/) [to](/post/to/) [dry](/post/dry/) [in](/post/in/) [the](/post/the/) [sun](/post/sun/)."
+- **Figurative [usage](/post/usage/)**: "[His](/post/his/) [delivery](/post/delivery/) was [so](/post/so/) [dry](/post/dry/) [that](/post/that/) [even](/post/even/) [the](/post/the/) [most](/post/most/) [exciting](/post/exciting/) stories sounded mundane."
 
 ## Synonyms
 - Arid
@@ -36,7 +36,7 @@ keywords = ['ai words', 'dry']
 - Moisture-free
 - Damp-free
 - Unwetted
-- Desiccated ([when](/en/post/when/) [used](/en/post/used/) [in](/en/post/in/) [a](/en/post/a/) [strong](/en/post/strong/) [sense](/en/post/sense/))
+- Desiccated ([when](/post/when/) [used](/post/used/) [in](/post/in/) [a](/post/a/) [strong](/post/strong/) [sense](/post/sense/))
 - Parched
-- Humorless ([in](/en/post/in/) [the](/en/post/the/) figurative [sense](/en/post/sense/))
+- Humorless ([in](/post/in/) [the](/post/the/) figurative [sense](/post/sense/))
 - Dry-eyed (emotionally unaffected)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'reasonable']
 /ˈriːznəbl/
 
 ## 释义
-- **形容词**: 合理的，公正的，通情达理的。例如: "[She](/post/she/) made [a](/post/a/) [reasonable](/post/reasonable/) [request](/post/request/) [for](/post/for/) [a](/post/a/) [raise](/post/raise/)."
-- **名词**: (常与the连用)理性，道理。例如: "[The](/post/the/) [reasonable](/post/reasonable/) [man](/post/man/) adapts [himself](/post/himself/) [to](/post/to/) [the](/post/the/) [world](/post/world/)."
+- **形容词**: 合理的，公正的，通情达理的。例如: "[She](/zh/post/she/) made [a](/zh/post/a/) [reasonable](/zh/post/reasonable/) [request](/zh/post/request/) [for](/zh/post/for/) [a](/zh/post/a/) [raise](/zh/post/raise/)."
+- **名词**: (常与the连用)理性，道理。例如: "[The](/zh/post/the/) [reasonable](/zh/post/reasonable/) [man](/zh/post/man/) adapts [himself](/zh/post/himself/) [to](/zh/post/to/) [the](/zh/post/the/) [world](/zh/post/world/)."
 
 ## 短语
-- "[Act](/post/act/) reasonably" 做出理智的行为。
-- "[Within](/post/within/) [reason](/post/reason/)" 在合理的范围内。
+- "[Act](/zh/post/act/) reasonably" 做出理智的行为。
+- "[Within](/zh/post/within/) [reason](/zh/post/reason/)" 在合理的范围内。
 
 ## 例句
-- 形容词: "[His](/post/his/) arguments were [so](/post/so/) [reasonable](/post/reasonable/) [that](/post/that/) [everyone](/post/everyone/) agreed [with](/post/with/) [him](/post/him/)."
-- 名词: "[The](/post/the/) [judge](/post/judge/) listened [to](/post/to/) [both](/post/both/) sides [and](/post/and/) made [a](/post/a/) [decision](/post/decision/) based [on](/post/on/) [the](/post/the/) [reasonable](/post/reasonable/) [argument](/post/argument/)."
+- 形容词: "[His](/zh/post/his/) arguments were [so](/zh/post/so/) [reasonable](/zh/post/reasonable/) [that](/zh/post/that/) [everyone](/zh/post/everyone/) agreed [with](/zh/post/with/) [him](/zh/post/him/)."
+- 名词: "[The](/zh/post/the/) [judge](/zh/post/judge/) listened [to](/zh/post/to/) [both](/zh/post/both/) sides [and](/zh/post/and/) made [a](/zh/post/a/) [decision](/zh/post/decision/) based [on](/zh/post/on/) [the](/zh/post/the/) [reasonable](/zh/post/reasonable/) [argument](/zh/post/argument/)."
 
 ## 同义词
-- [Rational](/post/rational/)
-- [Sensible](/post/sensible/)
+- [Rational](/zh/post/rational/)
+- [Sensible](/zh/post/sensible/)
 - Prudent
-- [Fair](/post/fair/)
-- [Just](/post/just/)
+- [Fair](/zh/post/fair/)
+- [Just](/zh/post/just/)

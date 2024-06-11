@@ -7,38 +7,38 @@ description = '[ˈfruːtful] a.多产的；肥沃的'
 keywords = ['ai words', 'fruitful']
 +++
 
-## [Word](/en/post/word/): [Fruitful](/en/post/fruitful/)
+## [Word](/post/word/): [Fruitful](/post/fruitful/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfruːtfl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Producing [or](/en/post/or/) [capable](/en/post/capable/) [of](/en/post/of/) producing [abundant](/en/post/abundant/) [fruit](/en/post/fruit/), results, [or](/en/post/or/) offspring; [productive](/en/post/productive/), prolific. 
+- **[Adjective](/post/adjective/)**: Producing [or](/post/or/) [capable](/post/capable/) [of](/post/of/) producing [abundant](/post/abundant/) [fruit](/post/fruit/), results, [or](/post/or/) offspring; [productive](/post/productive/), prolific. 
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _The farmer's efforts were rewarded [with](/en/post/with/) [a](/en/post/a/) [fruitful](/en/post/fruitful/) [harvest](/en/post/harvest/)._
+[Example](/post/example/) [sentence](/post/sentence/): _The farmer's efforts were rewarded [with](/post/with/) [a](/post/a/) [fruitful](/post/fruitful/) [harvest](/post/harvest/)._
 
-- **[Adjective](/en/post/adjective/) (figurative)**: Yielding [good](/en/post/good/) results, advantageous, profitable, [or](/en/post/or/) [successful](/en/post/successful/).
+- **[Adjective](/post/adjective/) (figurative)**: Yielding [good](/post/good/) results, advantageous, profitable, [or](/post/or/) [successful](/post/successful/).
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _Their collaboration proved [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [fruitful](/en/post/fruitful/) partnership [that](/en/post/that/) led [to](/en/post/to/) groundbreaking innovations._
+[Example](/post/example/) [sentence](/post/sentence/): _Their collaboration proved [to](/post/to/) [be](/post/be/) [a](/post/a/) [fruitful](/post/fruitful/) partnership [that](/post/that/) led [to](/post/to/) groundbreaking innovations._
 
 ## Phrases
-- "[Fruitful](/en/post/fruitful/) [discussion](/en/post/discussion/)": [A](/en/post/a/) [conversation](/en/post/conversation/) [that](/en/post/that/) yields [many](/en/post/many/) [useful](/en/post/useful/) ideas [or](/en/post/or/) solutions.
-- "[Fruitful](/en/post/fruitful/) endeavor": An [effort](/en/post/effort/) [that](/en/post/that/) produces [significant](/en/post/significant/) results [or](/en/post/or/) outcomes.
-- "[Fruitful](/en/post/fruitful/) [land](/en/post/land/)": An [area](/en/post/area/) [of](/en/post/of/) [land](/en/post/land/) [that](/en/post/that/) is [highly](/en/post/highly/) [productive](/en/post/productive/) [in](/en/post/in/) terms [of](/en/post/of/) [agriculture](/en/post/agriculture/).
+- "[Fruitful](/post/fruitful/) [discussion](/post/discussion/)": [A](/post/a/) [conversation](/post/conversation/) [that](/post/that/) yields [many](/post/many/) [useful](/post/useful/) ideas [or](/post/or/) solutions.
+- "[Fruitful](/post/fruitful/) endeavor": An [effort](/post/effort/) [that](/post/that/) produces [significant](/post/significant/) results [or](/post/or/) outcomes.
+- "[Fruitful](/post/fruitful/) [land](/post/land/)": An [area](/post/area/) [of](/post/of/) [land](/post/land/) [that](/post/that/) is [highly](/post/highly/) [productive](/post/productive/) [in](/post/in/) terms [of](/post/of/) [agriculture](/post/agriculture/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) (literal)**: "[After](/en/post/after/) years [of](/en/post/of/) [careful](/en/post/careful/) cultivation, [the](/en/post/the/) orchard became [a](/en/post/a/) [fruitful](/en/post/fruitful/) [source](/en/post/source/) [of](/en/post/of/) [income](/en/post/income/) [for](/en/post/for/) [the](/en/post/the/) [family](/en/post/family/)."
-- **[Adjective](/en/post/adjective/) (figurative)**: "[The](/en/post/the/) brainstorming [session](/en/post/session/) was [fruitful](/en/post/fruitful/), [leading](/en/post/leading/) [to](/en/post/to/) [several](/en/post/several/) [promising](/en/post/promising/) strategies [for](/en/post/for/) [the](/en/post/the/) [company](/en/post/company/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) (literal)**: "[After](/post/after/) years [of](/post/of/) [careful](/post/careful/) cultivation, [the](/post/the/) orchard became [a](/post/a/) [fruitful](/post/fruitful/) [source](/post/source/) [of](/post/of/) [income](/post/income/) [for](/post/for/) [the](/post/the/) [family](/post/family/)."
+- **[Adjective](/post/adjective/) (figurative)**: "[The](/post/the/) brainstorming [session](/post/session/) was [fruitful](/post/fruitful/), [leading](/post/leading/) [to](/post/to/) [several](/post/several/) [promising](/post/promising/) strategies [for](/post/for/) [the](/post/the/) [company](/post/company/)."
 
 ## Synonyms
-- [Productive](/en/post/productive/)
+- [Productive](/post/productive/)
 - Prolific
-- [Abundant](/en/post/abundant/)
-- [Prosperous](/en/post/prosperous/)
+- [Abundant](/post/abundant/)
+- [Prosperous](/post/prosperous/)
 - Rewarding
 - Lucrative
-- [Beneficial](/en/post/beneficial/)
+- [Beneficial](/post/beneficial/)
 - Profitable
-- [Rich](/en/post/rich/)
+- [Rich](/post/rich/)
 - Yielding
-- [Fertile](/en/post/fertile/)
+- [Fertile](/post/fertile/)

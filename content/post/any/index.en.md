@@ -7,42 +7,42 @@ description = '[ˈeni] a.什么，一些；任何的'
 keywords = ['ai words', 'any']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeɪni/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) [without](/en/post/without/) specifying [which](/en/post/which/), [often](/en/post/often/) implying [that](/en/post/that/) [there](/en/post/there/) [may](/en/post/may/) [be](/en/post/be/) [several](/en/post/several/) possibilities [or](/en/post/or/) options. [For](/en/post/for/) [example](/en/post/example/): "[Any](/en/post/any/) [time](/en/post/time/) is [fine](/en/post/fine/) [for](/en/post/for/) [me](/en/post/me/)."
-   - **[Adverb](/en/post/adverb/)**: 1. [At](/en/post/at/) [any](/en/post/any/) [time](/en/post/time/); [without](/en/post/without/) [exception](/en/post/exception/). [For](/en/post/for/) [example](/en/post/example/): "[You](/en/post/you/) [can](/en/post/can/) [leave](/en/post/leave/) [at](/en/post/at/) [any](/en/post/any/)."
-   - **Determiner**: 1. [Used](/en/post/used/) [before](/en/post/before/) [a](/en/post/a/) [noun](/en/post/noun/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [there](/en/post/there/) is [at](/en/post/at/) [least](/en/post/least/) [one](/en/post/one/) [but](/en/post/but/) [not](/en/post/not/) [necessarily](/en/post/necessarily/) [all](/en/post/all/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "I'll [take](/en/post/take/) [any](/en/post/any/) [book](/en/post/book/) [you](/en/post/you/) [recommend](/en/post/recommend/)."
+- **[Adjective](/post/adjective/)**: 1. [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [one](/post/one/) [or](/post/or/) [more](/post/more/) [without](/post/without/) specifying [which](/post/which/), [often](/post/often/) implying [that](/post/that/) [there](/post/there/) [may](/post/may/) [be](/post/be/) [several](/post/several/) possibilities [or](/post/or/) options. [For](/post/for/) [example](/post/example/): "[Any](/post/any/) [time](/post/time/) is [fine](/post/fine/) [for](/post/for/) [me](/post/me/)."
+   - **[Adverb](/post/adverb/)**: 1. [At](/post/at/) [any](/post/any/) [time](/post/time/); [without](/post/without/) [exception](/post/exception/). [For](/post/for/) [example](/post/example/): "[You](/post/you/) [can](/post/can/) [leave](/post/leave/) [at](/post/at/) [any](/post/any/)."
+   - **Determiner**: 1. [Used](/post/used/) [before](/post/before/) [a](/post/a/) [noun](/post/noun/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [there](/post/there/) is [at](/post/at/) [least](/post/least/) [one](/post/one/) [but](/post/but/) [not](/post/not/) [necessarily](/post/necessarily/) [all](/post/all/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "I'll [take](/post/take/) [any](/post/any/) [book](/post/book/) [you](/post/you/) [recommend](/post/recommend/)."
 
 ## Phrases
-- "[Anybody](/en/post/anybody/)" refers [to](/en/post/to/) an unspecified [person](/en/post/person/).
-- "Anytime" suggests flexibility [or](/en/post/or/) availability.
-- "[Anyhow](/en/post/anyhow/)" is [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [new](/en/post/new/) [thought](/en/post/thought/) [or](/en/post/or/) [suggest](/en/post/suggest/) an [alternative](/en/post/alternative/) [explanation](/en/post/explanation/).
+- "[Anybody](/post/anybody/)" refers [to](/post/to/) an unspecified [person](/post/person/).
+- "Anytime" suggests flexibility [or](/post/or/) availability.
+- "[Anyhow](/post/anyhow/)" is [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [new](/post/new/) [thought](/post/thought/) [or](/post/or/) [suggest](/post/suggest/) an [alternative](/post/alternative/) [explanation](/post/explanation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "I'll [eat](/en/post/eat/) [anything](/en/post/anything/) that's [healthy](/en/post/healthy/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) agreed [to](/en/post/to/) [go](/en/post/go/) [on](/en/post/on/) [the](/en/post/the/) [trip](/en/post/trip/) anytime."
-- **Determiner**: "[Can](/en/post/can/) [you](/en/post/you/) [pass](/en/post/pass/) [me](/en/post/me/) [any](/en/post/any/) napkins?"
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "I'll [eat](/post/eat/) [anything](/post/anything/) that's [healthy](/post/healthy/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) agreed [to](/post/to/) [go](/post/go/) [on](/post/on/) [the](/post/the/) [trip](/post/trip/) anytime."
+- **Determiner**: "[Can](/post/can/) [you](/post/you/) [pass](/post/pass/) [me](/post/me/) [any](/post/any/) napkins?"
 
-## Synonyms ([Adjective](/en/post/adjective/))
-- [Some](/en/post/some/)
-- [Several](/en/post/several/)
-- [Numerous](/en/post/numerous/)
-- [Various](/en/post/various/)
+## Synonyms ([Adjective](/post/adjective/))
+- [Some](/post/some/)
+- [Several](/post/several/)
+- [Numerous](/post/numerous/)
+- [Various](/post/various/)
 - Random
 
-## Synonyms ([Adverb](/en/post/adverb/))
-- [At](/en/post/at/) [any](/en/post/any/) [rate](/en/post/rate/)
-- [Regardless](/en/post/regardless/)
-- [In](/en/post/in/) [any](/en/post/any/) [case](/en/post/case/)
-- [Whenever](/en/post/whenever/)
-- [Regardless](/en/post/regardless/) [of](/en/post/of/)
+## Synonyms ([Adverb](/post/adverb/))
+- [At](/post/at/) [any](/post/any/) [rate](/post/rate/)
+- [Regardless](/post/regardless/)
+- [In](/post/in/) [any](/post/any/) [case](/post/case/)
+- [Whenever](/post/whenever/)
+- [Regardless](/post/regardless/) [of](/post/of/)
 
-## Antonyms ([Adjective](/en/post/adjective/))
-- [Specific](/en/post/specific/)
-- [Particular](/en/post/particular/)
-- [Unique](/en/post/unique/)
-- [Single](/en/post/single/)
+## Antonyms ([Adjective](/post/adjective/))
+- [Specific](/post/specific/)
+- [Particular](/post/particular/)
+- [Unique](/post/unique/)
+- [Single](/post/single/)
 
-## [Note](/en/post/note/): "[Any](/en/post/any/)" [can](/en/post/can/) [also](/en/post/also/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [pronoun](/en/post/pronoun/), referring [to](/en/post/to/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/) [without](/en/post/without/) specifying [which](/en/post/which/). [However](/en/post/however/), [its](/en/post/its/) [usage](/en/post/usage/) [as](/en/post/as/) [a](/en/post/a/) [pronoun](/en/post/pronoun/) is [less](/en/post/less/) [common](/en/post/common/) [and](/en/post/and/) typically seen [in](/en/post/in/) questions [or](/en/post/or/) [negative](/en/post/negative/) statements.
+## [Note](/post/note/): "[Any](/post/any/)" [can](/post/can/) [also](/post/also/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [pronoun](/post/pronoun/), referring [to](/post/to/) [one](/post/one/) [or](/post/or/) [more](/post/more/) [of](/post/of/) [a](/post/a/) [group](/post/group/) [without](/post/without/) specifying [which](/post/which/). [However](/post/however/), [its](/post/its/) [usage](/post/usage/) [as](/post/as/) [a](/post/a/) [pronoun](/post/pronoun/) is [less](/post/less/) [common](/post/common/) [and](/post/and/) typically seen [in](/post/in/) questions [or](/post/or/) [negative](/post/negative/) statements.

@@ -7,36 +7,36 @@ description = '[ˈwiːkən] vt.削弱 vi.变弱'
 keywords = ['ai words', 'weaken']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /weɪkˈniː/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [less](/en/post/less/) [strong](/en/post/strong/), [powerful](/en/post/powerful/), [or](/en/post/or/) [effective](/en/post/effective/); [to](/en/post/to/) [cause](/en/post/cause/) [a](/en/post/a/) decline [or](/en/post/or/) [reduction](/en/post/reduction/) [in](/en/post/in/) [intensity](/en/post/intensity/), [force](/en/post/force/), [or](/en/post/or/) effectiveness. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [storm](/en/post/storm/) weakened [the](/en/post/the/) [old](/en/post/old/) [bridge](/en/post/bridge/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) becoming [less](/en/post/less/) [strong](/en/post/strong/) [or](/en/post/or/) [powerful](/en/post/powerful/); [a](/en/post/a/) decline [in](/en/post/in/) [strength](/en/post/strength/) [or](/en/post/or/) [intensity](/en/post/intensity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) patient's [condition](/en/post/condition/) showed signs [of](/en/post/of/) weakening."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [less](/post/less/) [strong](/post/strong/), [powerful](/post/powerful/), [or](/post/or/) [effective](/post/effective/); [to](/post/to/) [cause](/post/cause/) [a](/post/a/) decline [or](/post/or/) [reduction](/post/reduction/) [in](/post/in/) [intensity](/post/intensity/), [force](/post/force/), [or](/post/or/) effectiveness. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [storm](/post/storm/) weakened [the](/post/the/) [old](/post/old/) [bridge](/post/bridge/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) becoming [less](/post/less/) [strong](/post/strong/) [or](/post/or/) [powerful](/post/powerful/); [a](/post/a/) decline [in](/post/in/) [strength](/post/strength/) [or](/post/or/) [intensity](/post/intensity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) patient's [condition](/post/condition/) showed signs [of](/post/of/) weakening."
 
 ## Phrases
-- "[Weaken](/en/post/weaken/) [a](/en/post/a/) [resolve](/en/post/resolve/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) someone's [determination](/en/post/determination/) [or](/en/post/or/) commitment [less](/en/post/less/) [firm](/en/post/firm/).
-- "Weakened defenses" [indicate](/en/post/indicate/) [a](/en/post/a/) decreased [ability](/en/post/ability/) [to](/en/post/to/) [protect](/en/post/protect/) [oneself](/en/post/oneself/).
-- "Weakened [by](/en/post/by/) [fatigue](/en/post/fatigue/)" suggests exhaustion has reduced someone's [strength](/en/post/strength/).
+- "[Weaken](/post/weaken/) [a](/post/a/) [resolve](/post/resolve/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) someone's [determination](/post/determination/) [or](/post/or/) commitment [less](/post/less/) [firm](/post/firm/).
+- "Weakened defenses" [indicate](/post/indicate/) [a](/post/a/) decreased [ability](/post/ability/) [to](/post/to/) [protect](/post/protect/) [oneself](/post/oneself/).
+- "Weakened [by](/post/by/) [fatigue](/post/fatigue/)" suggests exhaustion has reduced someone's [strength](/post/strength/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[Exercise](/en/post/exercise/) [can](/en/post/can/) [help](/en/post/help/) [to](/en/post/to/) [strengthen](/en/post/strengthen/) [your](/en/post/your/) muscles [and](/en/post/and/) [prevent](/en/post/prevent/) [them](/en/post/them/) [from](/en/post/from/) weakening [over](/en/post/over/) [time](/en/post/time/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [economy](/en/post/economy/) was weakened [by](/en/post/by/) [the](/en/post/the/) global recession."
-- "[His](/en/post/his/) [resolve](/en/post/resolve/) began [to](/en/post/to/) [weaken](/en/post/weaken/) [after](/en/post/after/) [several](/en/post/several/) consecutive failures."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[Exercise](/post/exercise/) [can](/post/can/) [help](/post/help/) [to](/post/to/) [strengthen](/post/strengthen/) [your](/post/your/) muscles [and](/post/and/) [prevent](/post/prevent/) [them](/post/them/) [from](/post/from/) weakening [over](/post/over/) [time](/post/time/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [economy](/post/economy/) was weakened [by](/post/by/) [the](/post/the/) global recession."
+- "[His](/post/his/) [resolve](/post/resolve/) began [to](/post/to/) [weaken](/post/weaken/) [after](/post/after/) [several](/post/several/) consecutive failures."
 
 ## Synonyms
 - Diminish
 - Dilute
 - Erode
-- [Lessen](/en/post/lessen/)
+- [Lessen](/post/lessen/)
 - Impair
-- Weakened [state](/en/post/state/)
+- Weakened [state](/post/state/)
 - Deteriorate
 
 ## Antonyms
-- [Strengthen](/en/post/strengthen/)
-- [Reinforce](/en/post/reinforce/)
+- [Strengthen](/post/strengthen/)
+- [Reinforce](/post/reinforce/)
 - Fortify
 - Enhance
-- [Improve](/en/post/improve/)
+- [Improve](/post/improve/)
 - Consolidate

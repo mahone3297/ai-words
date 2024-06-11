@@ -11,23 +11,23 @@ keywords = ['ai words', 'bowl']
 /bəʊl/
 
 ## 释义
-- **名词 (n)**: 一种通常圆形且较深的容器，用来装食物或饮料。例如: "[She](/post/she/) ate [her](/post/her/) [soup](/post/soup/) [from](/post/from/) [a](/post/a/) [large](/post/large/) ceramic [bowl](/post/bowl/)."
-- **动词 (v)**: 把东西扔或投出去，尤指在体育活动中。例如: "[The](/post/the/) quarterback threw [a](/post/a/) [perfect](/post/perfect/) [pass](/post/pass/) [to](/post/to/) [the](/post/the/) [wide](/post/wide/) [receiver](/post/receiver/)."
-- **量词 (n)**: 在某些运动中，如保龄球，一局或一次投球。例如: "[He](/post/he/) bowled [a](/post/a/) [strike](/post/strike/) [in](/post/in/) [his](/post/his/) [first](/post/first/) [attempt](/post/attempt/)."
+- **名词 (n)**: 一种通常圆形且较深的容器，用来装食物或饮料。例如: "[She](/zh/post/she/) ate [her](/zh/post/her/) [soup](/zh/post/soup/) [from](/zh/post/from/) [a](/zh/post/a/) [large](/zh/post/large/) ceramic [bowl](/zh/post/bowl/)."
+- **动词 (v)**: 把东西扔或投出去，尤指在体育活动中。例如: "[The](/zh/post/the/) quarterback threw [a](/zh/post/a/) [perfect](/zh/post/perfect/) [pass](/zh/post/pass/) [to](/zh/post/to/) [the](/zh/post/the/) [wide](/zh/post/wide/) [receiver](/zh/post/receiver/)."
+- **量词 (n)**: 在某些运动中，如保龄球，一局或一次投球。例如: "[He](/zh/post/he/) bowled [a](/zh/post/a/) [strike](/zh/post/strike/) [in](/zh/post/in/) [his](/zh/post/his/) [first](/zh/post/first/) [attempt](/zh/post/attempt/)."
 
 ## 短语
-- "[Bowl](/post/bowl/) [of](/post/of/) [soup](/post/soup/)" 指一碗汤。
-- "[Bowl](/post/bowl/) [game](/post/game/)" 在美式足球中指大学间的季后赛比赛。
-- "[To](/post/to/) [bowl](/post/bowl/) [someone](/post/someone/) [over](/post/over/)" 意为彻底打动或使某人印象深刻。
+- "[Bowl](/zh/post/bowl/) [of](/zh/post/of/) [soup](/zh/post/soup/)" 指一碗汤。
+- "[Bowl](/zh/post/bowl/) [game](/zh/post/game/)" 在美式足球中指大学间的季后赛比赛。
+- "[To](/zh/post/to/) [bowl](/zh/post/bowl/) [someone](/zh/post/someone/) [over](/zh/post/over/)" 意为彻底打动或使某人印象深刻。
 
 ## 例句
-- 名词: "[There](/post/there/) was [a](/post/a/) [beautiful](/post/beautiful/) [crystal](/post/crystal/) [bowl](/post/bowl/) [on](/post/on/) [the](/post/the/) dining [table](/post/table/)."
-- 动词: "[The](/post/the/) pitcher bowled [the](/post/the/) [ball](/post/ball/) [with](/post/with/) [great](/post/great/) [speed](/post/speed/)."
-- 量词: "[In](/post/in/) [the](/post/the/) [final](/post/final/) [bowl](/post/bowl/), [he](/post/he/) managed [to](/post/to/) [knock](/post/knock/) [down](/post/down/) [all](/post/all/) [ten](/post/ten/) pins."
+- 名词: "[There](/zh/post/there/) was [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [crystal](/zh/post/crystal/) [bowl](/zh/post/bowl/) [on](/zh/post/on/) [the](/zh/post/the/) dining [table](/zh/post/table/)."
+- 动词: "[The](/zh/post/the/) pitcher bowled [the](/zh/post/the/) [ball](/zh/post/ball/) [with](/zh/post/with/) [great](/zh/post/great/) [speed](/zh/post/speed/)."
+- 量词: "[In](/zh/post/in/) [the](/zh/post/the/) [final](/zh/post/final/) [bowl](/zh/post/bowl/), [he](/zh/post/he/) managed [to](/zh/post/to/) [knock](/zh/post/knock/) [down](/zh/post/down/) [all](/zh/post/all/) [ten](/zh/post/ten/) pins."
 
 ## 同义词
-- [Vessel](/post/vessel/)
-- [Dish](/post/dish/)
-- [Cup](/post/cup/)
-- [Container](/post/container/)
+- [Vessel](/zh/post/vessel/)
+- [Dish](/zh/post/dish/)
+- [Cup](/zh/post/cup/)
+- [Container](/zh/post/container/)
 - Pitcher (在某些上下文中)

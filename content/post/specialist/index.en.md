@@ -7,34 +7,34 @@ description = '[ˈspe∫əlist] n.专家'
 keywords = ['ai words', 'specialist']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /speʃəlɪst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[specialist](/en/post/specialist/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [deep](/en/post/deep/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) skills [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/) [or](/en/post/or/) [field](/en/post/field/), [often](/en/post/often/) specializing [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [subject](/en/post/subject/) [or](/en/post/or/) [job](/en/post/job/) [function](/en/post/function/). [They](/en/post/they/) [may](/en/post/may/) [be](/en/post/be/) an [expert](/en/post/expert/) [or](/en/post/or/) [professional](/en/post/professional/) [in](/en/post/in/) [that](/en/post/that/) domain.
+### [Noun](/post/noun/)
+[A](/post/a/) **[specialist](/post/specialist/)** is [a](/post/a/) [person](/post/person/) [who](/post/who/) has [deep](/post/deep/) [knowledge](/post/knowledge/) [or](/post/or/) skills [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/) [or](/post/or/) [field](/post/field/), [often](/post/often/) specializing [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [subject](/post/subject/) [or](/post/or/) [job](/post/job/) [function](/post/function/). [They](/post/they/) [may](/post/may/) [be](/post/be/) an [expert](/post/expert/) [or](/post/or/) [professional](/post/professional/) [in](/post/in/) [that](/post/that/) domain.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[specialize](/en/post/specialize/)** is [to](/en/post/to/) [focus](/en/post/focus/) one's studies, [training](/en/post/training/), [or](/en/post/or/) [career](/en/post/career/) [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/) [or](/en/post/or/) [aspect](/en/post/aspect/), [usually](/en/post/usually/) [to](/en/post/to/) [become](/en/post/become/) [highly](/en/post/highly/) proficient [or](/en/post/or/) knowledgeable [in](/en/post/in/) [it](/en/post/it/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[specialize](/post/specialize/)** is [to](/post/to/) [focus](/post/focus/) one's studies, [training](/post/training/), [or](/post/or/) [career](/post/career/) [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/) [or](/post/or/) [aspect](/post/aspect/), [usually](/post/usually/) [to](/post/to/) [become](/post/become/) [highly](/post/highly/) proficient [or](/post/or/) knowledgeable [in](/post/in/) [it](/post/it/).
 
 ## Phrases
-- "[Become](/en/post/become/) [a](/en/post/a/) [specialist](/en/post/specialist/) [in](/en/post/in/)" indicates [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) acquiring expertise [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [area](/en/post/area/).
-- "[Specialist](/en/post/specialist/) doctors" refers [to](/en/post/to/) healthcare professionals [who](/en/post/who/) [specialize](/en/post/specialize/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [medical](/en/post/medical/) [discipline](/en/post/discipline/).
-- "[Area](/en/post/area/) [of](/en/post/of/) specialization" denotes [the](/en/post/the/) [particular](/en/post/particular/) [field](/en/post/field/) [or](/en/post/or/) [subject](/en/post/subject/) [where](/en/post/where/) [someone](/en/post/someone/) has expertise.
+- "[Become](/post/become/) [a](/post/a/) [specialist](/post/specialist/) [in](/post/in/)" indicates [the](/post/the/) [process](/post/process/) [of](/post/of/) acquiring expertise [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [area](/post/area/).
+- "[Specialist](/post/specialist/) doctors" refers [to](/post/to/) healthcare professionals [who](/post/who/) [specialize](/post/specialize/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [medical](/post/medical/) [discipline](/post/discipline/).
+- "[Area](/post/area/) [of](/post/of/) specialization" denotes [the](/post/the/) [particular](/post/particular/) [field](/post/field/) [or](/post/or/) [subject](/post/subject/) [where](/post/where/) [someone](/post/someone/) has expertise.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [surgeon](/en/post/surgeon/) is [a](/en/post/a/) [specialist](/en/post/specialist/) [in](/en/post/in/) orthopedic [surgery](/en/post/surgery/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) graduating, [she](/en/post/she/) decided [to](/en/post/to/) [specialize](/en/post/specialize/) [in](/en/post/in/) environmental [science](/en/post/science/)."
-- **Phrasal [Usage](/en/post/usage/)**: "[Her](/en/post/her/) [area](/en/post/area/) [of](/en/post/of/) specialization is [ancient](/en/post/ancient/) [history](/en/post/history/), [and](/en/post/and/) [she](/en/post/she/) teaches [at](/en/post/at/) [a](/en/post/a/) prestigious [university](/en/post/university/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [surgeon](/post/surgeon/) is [a](/post/a/) [specialist](/post/specialist/) [in](/post/in/) orthopedic [surgery](/post/surgery/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) graduating, [she](/post/she/) decided [to](/post/to/) [specialize](/post/specialize/) [in](/post/in/) environmental [science](/post/science/)."
+- **Phrasal [Usage](/post/usage/)**: "[Her](/post/her/) [area](/post/area/) [of](/post/of/) specialization is [ancient](/post/ancient/) [history](/post/history/), [and](/post/and/) [she](/post/she/) teaches [at](/post/at/) [a](/post/a/) prestigious [university](/post/university/)."
 
 ## Synonyms
-- [Expert](/en/post/expert/)
-- [Specialist](/en/post/specialist/) [doctor](/en/post/doctor/) ([medical](/en/post/medical/) context)
+- [Expert](/post/expert/)
+- [Specialist](/post/specialist/) [doctor](/post/doctor/) ([medical](/post/medical/) context)
 - Consultant
 - Pro
 - Expertise
 - Knowledgeable
-- Jack [of](/en/post/of/) [all](/en/post/all/) trades, [master](/en/post/master/) [of](/en/post/of/) [one](/en/post/one/)
+- Jack [of](/post/of/) [all](/post/all/) trades, [master](/post/master/) [of](/post/of/) [one](/post/one/)
 - Expertise holder
 
 ## Antonyms

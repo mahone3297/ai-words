@@ -7,43 +7,43 @@ description = '[kɔːl] vt.把…叫做；叫，喊'
 keywords = ['ai words', 'call']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɔːl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) **[noun](/en/post/noun/)** (vulgar) refers [to](/en/post/to/) [a](/en/post/a/) [request](/en/post/request/) [or](/en/post/or/) summons [to](/en/post/to/) [someone](/en/post/someone/) [to](/en/post/to/) [come](/en/post/come/) [or](/en/post/or/) [speak](/en/post/speak/) [on](/en/post/on/) [the](/en/post/the/) [phone](/en/post/phone/). [For](/en/post/for/) [example](/en/post/example/): "I received [a](/en/post/a/) [call](/en/post/call/) [from](/en/post/from/) [my](/en/post/my/) [friend](/en/post/friend/)."
-- [A](/en/post/a/) **[noun](/en/post/noun/)** ([formal](/en/post/formal/)) [can](/en/post/can/) denote [a](/en/post/a/) [visit](/en/post/visit/), [invitation](/en/post/invitation/), [or](/en/post/or/) engagement. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [dinner](/en/post/dinner/) [party](/en/post/party/) was [a](/en/post/a/) [call](/en/post/call/) [from](/en/post/from/) [his](/en/post/his/) [aunt](/en/post/aunt/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) **[noun](/post/noun/)** (vulgar) refers [to](/post/to/) [a](/post/a/) [request](/post/request/) [or](/post/or/) summons [to](/post/to/) [someone](/post/someone/) [to](/post/to/) [come](/post/come/) [or](/post/or/) [speak](/post/speak/) [on](/post/on/) [the](/post/the/) [phone](/post/phone/). [For](/post/for/) [example](/post/example/): "I received [a](/post/a/) [call](/post/call/) [from](/post/from/) [my](/post/my/) [friend](/post/friend/)."
+- [A](/post/a/) **[noun](/post/noun/)** ([formal](/post/formal/)) [can](/post/can/) denote [a](/post/a/) [visit](/post/visit/), [invitation](/post/invitation/), [or](/post/or/) engagement. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [dinner](/post/dinner/) [party](/post/party/) was [a](/post/a/) [call](/post/call/) [from](/post/from/) [his](/post/his/) [aunt](/post/aunt/)."
 
-### [Verb](/en/post/verb/)
-- [A](/en/post/a/) **[verb](/en/post/verb/)** [to](/en/post/to/) **[call](/en/post/call/)** [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [communication](/en/post/communication/) [by](/en/post/by/) [telephone](/en/post/telephone/), [usually](/en/post/usually/) requesting [contact](/en/post/contact/) [with](/en/post/with/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "I'll [give](/en/post/give/) [you](/en/post/you/) [a](/en/post/a/) [call](/en/post/call/) [later](/en/post/later/) [today](/en/post/today/)."
-- [A](/en/post/a/) **[verb](/en/post/verb/)** [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) summon [or](/en/post/or/) [invite](/en/post/invite/) [someone](/en/post/someone/) [to](/en/post/to/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [event](/en/post/event/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) called [all](/en/post/all/) [the](/en/post/the/) students [to](/en/post/to/) [the](/en/post/the/) [front](/en/post/front/)."
-- [In](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [or](/en/post/or/) [mention](/en/post/mention/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [name](/en/post/name/) came [up](/en/post/up/) [in](/en/post/in/) [our](/en/post/our/) [conversation](/en/post/conversation/)."
+### [Verb](/post/verb/)
+- [A](/post/a/) **[verb](/post/verb/)** [to](/post/to/) **[call](/post/call/)** [means](/post/means/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [communication](/post/communication/) [by](/post/by/) [telephone](/post/telephone/), [usually](/post/usually/) requesting [contact](/post/contact/) [with](/post/with/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "I'll [give](/post/give/) [you](/post/you/) [a](/post/a/) [call](/post/call/) [later](/post/later/) [today](/post/today/)."
+- [A](/post/a/) **[verb](/post/verb/)** [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) summon [or](/post/or/) [invite](/post/invite/) [someone](/post/someone/) [to](/post/to/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [event](/post/event/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) called [all](/post/all/) [the](/post/the/) students [to](/post/to/) [the](/post/the/) [front](/post/front/)."
+- [In](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [or](/post/or/) [mention](/post/mention/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [name](/post/name/) came [up](/post/up/) [in](/post/in/) [our](/post/our/) [conversation](/post/conversation/)."
 
-### [Adjective](/en/post/adjective/)
-- An **[adjective](/en/post/adjective/)** [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [able](/en/post/able/) [to](/en/post/to/) [reach](/en/post/reach/) [or](/en/post/or/) [contact](/en/post/contact/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [reliable](/en/post/reliable/) calling [service](/en/post/service/)."
+### [Adjective](/post/adjective/)
+- An **[adjective](/post/adjective/)** [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [act](/post/act/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [able](/post/able/) [to](/post/to/) [reach](/post/reach/) [or](/post/or/) [contact](/post/contact/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [reliable](/post/reliable/) calling [service](/post/service/)."
 
-### [Adverb](/en/post/adverb/)
-- An **[adverb](/en/post/adverb/)** describing [the](/en/post/the/) [manner](/en/post/manner/) [of](/en/post/of/) making [a](/en/post/a/) [call](/en/post/call/), [such](/en/post/such/) [as](/en/post/as/) "[quickly](/en/post/quickly/)" [or](/en/post/or/) "[slowly](/en/post/slowly/)". [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) made [a](/en/post/a/) [quick](/en/post/quick/) [call](/en/post/call/) [to](/en/post/to/) [check](/en/post/check/) [on](/en/post/on/) [her](/en/post/her/)."
+### [Adverb](/post/adverb/)
+- An **[adverb](/post/adverb/)** describing [the](/post/the/) [manner](/post/manner/) [of](/post/of/) making [a](/post/a/) [call](/post/call/), [such](/post/such/) [as](/post/as/) "[quickly](/post/quickly/)" [or](/post/or/) "[slowly](/post/slowly/)". [For](/post/for/) [example](/post/example/): "[He](/post/he/) made [a](/post/a/) [quick](/post/quick/) [call](/post/call/) [to](/post/to/) [check](/post/check/) [on](/post/on/) [her](/post/her/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [call](/en/post/call/)" implies initiating [a](/en/post/a/) [phone](/en/post/phone/) [conversation](/en/post/conversation/).
-- "[Return](/en/post/return/) [a](/en/post/a/) [call](/en/post/call/)" [means](/en/post/means/) [to](/en/post/to/) [respond](/en/post/respond/) [to](/en/post/to/) [a](/en/post/a/) [previous](/en/post/previous/) [call](/en/post/call/) [or](/en/post/or/) [message](/en/post/message/).
-- "[Answer](/en/post/answer/) [the](/en/post/the/) [call](/en/post/call/)" signifies responding [to](/en/post/to/) [a](/en/post/a/) [request](/en/post/request/) [or](/en/post/or/) [need](/en/post/need/).
-- "Missed [call](/en/post/call/)" indicates an incoming [call](/en/post/call/) [that](/en/post/that/) was [not](/en/post/not/) answered.
+- "[Make](/post/make/) [a](/post/a/) [call](/post/call/)" implies initiating [a](/post/a/) [phone](/post/phone/) [conversation](/post/conversation/).
+- "[Return](/post/return/) [a](/post/a/) [call](/post/call/)" [means](/post/means/) [to](/post/to/) [respond](/post/respond/) [to](/post/to/) [a](/post/a/) [previous](/post/previous/) [call](/post/call/) [or](/post/or/) [message](/post/message/).
+- "[Answer](/post/answer/) [the](/post/the/) [call](/post/call/)" signifies responding [to](/post/to/) [a](/post/a/) [request](/post/request/) [or](/post/or/) [need](/post/need/).
+- "Missed [call](/post/call/)" indicates an incoming [call](/post/call/) [that](/post/that/) was [not](/post/not/) answered.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I got [a](/en/post/a/) [call](/en/post/call/) [from](/en/post/from/) [the](/en/post/the/) [bank](/en/post/bank/) [regarding](/en/post/regarding/) [my](/en/post/my/) [loan](/en/post/loan/) [application](/en/post/application/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [call](/en/post/call/) [her](/en/post/her/) mom [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) phone's [battery](/en/post/battery/) has [a](/en/post/a/) [strong](/en/post/strong/) calling [range](/en/post/range/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) answered [the](/en/post/the/) [call](/en/post/call/) hastily [because](/en/post/because/) [he](/en/post/he/) was running [late](/en/post/late/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I got [a](/post/a/) [call](/post/call/) [from](/post/from/) [the](/post/the/) [bank](/post/bank/) [regarding](/post/regarding/) [my](/post/my/) [loan](/post/loan/) [application](/post/application/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [call](/post/call/) [her](/post/her/) mom [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) phone's [battery](/post/battery/) has [a](/post/a/) [strong](/post/strong/) calling [range](/post/range/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) answered [the](/post/the/) [call](/post/call/) hastily [because](/post/because/) [he](/post/he/) was running [late](/post/late/)."
 
 ## Synonyms
-- [Ring](/en/post/ring/)
-- [Dial](/en/post/dial/)
-- [Contact](/en/post/contact/)
-- [Reach](/en/post/reach/) [out](/en/post/out/)
-- [Speak](/en/post/speak/) [to](/en/post/to/)
-- [Invite](/en/post/invite/)
+- [Ring](/post/ring/)
+- [Dial](/post/dial/)
+- [Contact](/post/contact/)
+- [Reach](/post/reach/) [out](/post/out/)
+- [Speak](/post/speak/) [to](/post/to/)
+- [Invite](/post/invite/)
 - Summon
-- [Communicate](/en/post/communicate/)
+- [Communicate](/post/communicate/)

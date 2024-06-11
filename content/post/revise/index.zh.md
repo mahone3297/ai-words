@@ -12,20 +12,20 @@ keywords = ['ai words', 'revise']
 
 ## 释义
 - **动词**:
-  - 修改，修订。例如: "I [need](/post/need/) [to](/post/to/) [revise](/post/revise/) [my](/post/my/) [essay](/post/essay/) [before](/post/before/) submitting [it](/post/it/)."
-  - 复习，温习（功课）。例如: "[She](/post/she/) spends hours revising [for](/post/for/) [her](/post/her/) exams."
+  - 修改，修订。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [revise](/zh/post/revise/) [my](/zh/post/my/) [essay](/zh/post/essay/) [before](/zh/post/before/) submitting [it](/zh/post/it/)."
+  - 复习，温习（功课）。例如: "[She](/zh/post/she/) spends hours revising [for](/zh/post/for/) [her](/zh/post/her/) exams."
 
 ## 短语
-- "[revise](/post/revise/) [for](/post/for/) exams" 意为为考试复习。
-- "[revise](/post/revise/) [the](/post/the/) manuscript" 意为修改手稿或稿件。
+- "[revise](/zh/post/revise/) [for](/zh/post/for/) exams" 意为为考试复习。
+- "[revise](/zh/post/revise/) [the](/zh/post/the/) manuscript" 意为修改手稿或稿件。
 
 ## 例句
-- 动词: "[He](/post/he/) is revising [his](/post/his/) [novel](/post/novel/) [to](/post/to/) [include](/post/include/) [new](/post/new/) characters."
-- 动词: "We'll [revise](/post/revise/) [our](/post/our/) [lesson](/post/lesson/) [plan](/post/plan/) based [on](/post/on/) [student](/post/student/) [feedback](/post/feedback/)."
+- 动词: "[He](/zh/post/he/) is revising [his](/zh/post/his/) [novel](/zh/post/novel/) [to](/zh/post/to/) [include](/zh/post/include/) [new](/zh/post/new/) characters."
+- 动词: "We'll [revise](/zh/post/revise/) [our](/zh/post/our/) [lesson](/zh/post/lesson/) [plan](/zh/post/plan/) based [on](/zh/post/on/) [student](/zh/post/student/) [feedback](/zh/post/feedback/)."
 
 ## 同义词
 - edit
 - amend
-- [correct](/post/correct/)
-- [polish](/post/polish/)
-- [go](/post/go/) [over](/post/over/)
+- [correct](/zh/post/correct/)
+- [polish](/zh/post/polish/)
+- [go](/zh/post/go/) [over](/zh/post/over/)

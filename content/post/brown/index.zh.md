@@ -11,20 +11,20 @@ keywords = ['ai words', 'brown']
 /braʊn/
 
 ## 释义
-- **形容词**: 褐色的，棕色的。表示颜色。例如: "[She](/post/she/) has [beautiful](/post/beautiful/) [brown](/post/brown/) eyes."
-- **名词**: 布朗（人名），可以指具体的人，如历史人物或公众人物。例如: "John [Brown](/post/brown/) was an abolitionist [in](/post/in/) [the](/post/the/) 19th [century](/post/century/)."
+- **形容词**: 褐色的，棕色的。表示颜色。例如: "[She](/zh/post/she/) has [beautiful](/zh/post/beautiful/) [brown](/zh/post/brown/) eyes."
+- **名词**: 布朗（人名），可以指具体的人，如历史人物或公众人物。例如: "John [Brown](/zh/post/brown/) was an abolitionist [in](/zh/post/in/) [the](/zh/post/the/) 19th [century](/zh/post/century/)."
 
 ## 短语
-- "[in](/post/in/) [the](/post/the/) [brown](/post/brown/)" 表示事物处于最佳状态或完美无缺。
-- "[brown](/post/brown/) [off](/post/off/)" 俚语，表示使某人生气或恼火。
+- "[in](/zh/post/in/) [the](/zh/post/the/) [brown](/zh/post/brown/)" 表示事物处于最佳状态或完美无缺。
+- "[brown](/zh/post/brown/) [off](/zh/post/off/)" 俚语，表示使某人生气或恼火。
 
 ## 例句
-- 形容词: "[The](/post/the/) [tree](/post/tree/) leaves turned [brown](/post/brown/) [in](/post/in/) [autumn](/post/autumn/)."
-- 名词: "John [Brown](/post/brown/) led an armed [rebellion](/post/rebellion/) [against](/post/against/) [slavery](/post/slavery/)."
+- 形容词: "[The](/zh/post/the/) [tree](/zh/post/tree/) leaves turned [brown](/zh/post/brown/) [in](/zh/post/in/) [autumn](/zh/post/autumn/)."
+- 名词: "John [Brown](/zh/post/brown/) led an armed [rebellion](/zh/post/rebellion/) [against](/zh/post/against/) [slavery](/zh/post/slavery/)."
 
 ## 同义词
 - beige
-- [tan](/post/tan/)
+- [tan](/zh/post/tan/)
 - cocoa
 - chestnut
-- [dark](/post/dark/) blonde
+- [dark](/zh/post/dark/) blonde

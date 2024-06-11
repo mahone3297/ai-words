@@ -11,23 +11,23 @@ keywords = ['ai words', 'blade']
 /bleɪd/
 
 ## 释义
-- **名词 (n)**: 刀片，剑刃，叶片。例如: "[He](/post/he/) sharpened [the](/post/the/) [blade](/post/blade/) [of](/post/of/) [his](/post/his/) [knife](/post/knife/)."
-- **名词**: (飞机、直升机等的)旋翼。例如: "[The](/post/the/) [helicopter](/post/helicopter/) lifted [off](/post/off/) [with](/post/with/) [its](/post/its/) spinning blades."
-- **名词**: (草、花等的)叶状部分。例如: "[The](/post/the/) [green](/post/green/) blades [of](/post/of/) [grass](/post/grass/) swayed [in](/post/in/) [the](/post/the/) [breeze](/post/breeze/)."
-- **名词**: (冰刀、滑雪板等的)刀锋部分。例如: "[She](/post/she/) glided elegantly [on](/post/on/) [her](/post/her/) [ice](/post/ice/) skates [with](/post/with/) [sharp](/post/sharp/) blades."
+- **名词 (n)**: 刀片，剑刃，叶片。例如: "[He](/zh/post/he/) sharpened [the](/zh/post/the/) [blade](/zh/post/blade/) [of](/zh/post/of/) [his](/zh/post/his/) [knife](/zh/post/knife/)."
+- **名词**: (飞机、直升机等的)旋翼。例如: "[The](/zh/post/the/) [helicopter](/zh/post/helicopter/) lifted [off](/zh/post/off/) [with](/zh/post/with/) [its](/zh/post/its/) spinning blades."
+- **名词**: (草、花等的)叶状部分。例如: "[The](/zh/post/the/) [green](/zh/post/green/) blades [of](/zh/post/of/) [grass](/zh/post/grass/) swayed [in](/zh/post/in/) [the](/zh/post/the/) [breeze](/zh/post/breeze/)."
+- **名词**: (冰刀、滑雪板等的)刀锋部分。例如: "[She](/zh/post/she/) glided elegantly [on](/zh/post/on/) [her](/zh/post/her/) [ice](/zh/post/ice/) skates [with](/zh/post/with/) [sharp](/zh/post/sharp/) blades."
 
 ## 短语
-- "[Blade](/post/blade/) [runner](/post/runner/)" 是指追捕和消灭复制人的未来警察。
-- "[Wind](/post/wind/) [turbine](/post/turbine/) [blade](/post/blade/)" 指风力发电机的叶片。
+- "[Blade](/zh/post/blade/) [runner](/zh/post/runner/)" 是指追捕和消灭复制人的未来警察。
+- "[Wind](/zh/post/wind/) [turbine](/zh/post/turbine/) [blade](/zh/post/blade/)" 指风力发电机的叶片。
 
 ## 例句
-- 名词: "[The](/post/the/) [lawn](/post/lawn/) mower has [a](/post/a/) [sharp](/post/sharp/) [blade](/post/blade/) [for](/post/for/) cutting [grass](/post/grass/)."
-- 名词: "[The](/post/the/) helicopter's blades created [a](/post/a/) [loud](/post/loud/) [noise](/post/noise/) [as](/post/as/) [they](/post/they/) rotated."
-- 名词: "[She](/post/she/) carefully painted [the](/post/the/) [blade](/post/blade/) [of](/post/of/) [her](/post/her/) [fan](/post/fan/) [with](/post/with/) [gold](/post/gold/) [leaf](/post/leaf/)."
+- 名词: "[The](/zh/post/the/) [lawn](/zh/post/lawn/) mower has [a](/zh/post/a/) [sharp](/zh/post/sharp/) [blade](/zh/post/blade/) [for](/zh/post/for/) cutting [grass](/zh/post/grass/)."
+- 名词: "[The](/zh/post/the/) helicopter's blades created [a](/zh/post/a/) [loud](/zh/post/loud/) [noise](/zh/post/noise/) [as](/zh/post/as/) [they](/zh/post/they/) rotated."
+- 名词: "[She](/zh/post/she/) carefully painted [the](/zh/post/the/) [blade](/zh/post/blade/) [of](/zh/post/of/) [her](/zh/post/her/) [fan](/zh/post/fan/) [with](/zh/post/with/) [gold](/zh/post/gold/) [leaf](/zh/post/leaf/)."
 
 ## 同义词
-- [Edge](/post/edge/)
-- [Knife](/post/knife/) [edge](/post/edge/)
-- [Leaf](/post/leaf/)
-- [Sword](/post/sword/) [blade](/post/blade/)
+- [Edge](/zh/post/edge/)
+- [Knife](/zh/post/knife/) [edge](/zh/post/edge/)
+- [Leaf](/zh/post/leaf/)
+- [Sword](/zh/post/sword/) [blade](/zh/post/blade/)
 - Scimitar

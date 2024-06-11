@@ -11,20 +11,20 @@ keywords = ['ai words', 'cure']
 /kjʊr/
 
 ## 释义
-- **动词**: 治疗；治愈。例如: "[The](/post/the/) [doctor](/post/doctor/) cured [her](/post/her/) [of](/post/of/) [the](/post/the/) [illness](/post/illness/)."
-- **名词**: 治疗；疗法。例如: "[There](/post/there/) is [a](/post/a/) [new](/post/new/) [cure](/post/cure/) [for](/post/for/) [this](/post/this/) [disease](/post/disease/)."
+- **动词**: 治疗；治愈。例如: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) cured [her](/zh/post/her/) [of](/zh/post/of/) [the](/zh/post/the/) [illness](/zh/post/illness/)."
+- **名词**: 治疗；疗法。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [new](/zh/post/new/) [cure](/zh/post/cure/) [for](/zh/post/for/) [this](/zh/post/this/) [disease](/zh/post/disease/)."
 
 ## 短语
 - "cure-all" 指能治疗各种疾病的药物或方法。
-- "[cure](/post/cure/) [rate](/post/rate/)" 指某种治疗方法的成功率。
+- "[cure](/zh/post/cure/) [rate](/zh/post/rate/)" 指某种治疗方法的成功率。
 
 ## 例句
-- 动词: "[The](/post/the/) [patient](/post/patient/) was cured [after](/post/after/) [a](/post/a/) [course](/post/course/) [of](/post/of/) antibiotics."
-- 名词: "[The](/post/the/) [new](/post/new/) [cure](/post/cure/) shows [promising](/post/promising/) results [in](/post/in/) clinical trials."
+- 动词: "[The](/zh/post/the/) [patient](/zh/post/patient/) was cured [after](/zh/post/after/) [a](/zh/post/a/) [course](/zh/post/course/) [of](/zh/post/of/) antibiotics."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [cure](/zh/post/cure/) shows [promising](/zh/post/promising/) results [in](/zh/post/in/) clinical trials."
 
 ## 同义词
-- [treat](/post/treat/)
-- [heal](/post/heal/)
-- [remedy](/post/remedy/)
+- [treat](/zh/post/treat/)
+- [heal](/zh/post/heal/)
+- [remedy](/zh/post/remedy/)
 - alleviate
-- [mend](/post/mend/)
+- [mend](/zh/post/mend/)

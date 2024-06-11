@@ -11,21 +11,21 @@ keywords = ['ai words', 'trend']
 /trent/
 
 ## 释义
-- **名词**: 趋势；倾向；潮流。例如: "[The](/post/the/) [trend](/post/trend/) [in](/post/in/) [fashion](/post/fashion/) is towards [more](/post/more/) sustainable materials."
-- **动词**: 趋向；走向。例如: "Sales [have](/post/have/) been trending [upwards](/post/upwards/) [over](/post/over/) [the](/post/the/) [past](/post/past/) [quarter](/post/quarter/)."
+- **名词**: 趋势；倾向；潮流。例如: "[The](/zh/post/the/) [trend](/zh/post/trend/) [in](/zh/post/in/) [fashion](/zh/post/fashion/) is towards [more](/zh/post/more/) sustainable materials."
+- **动词**: 趋向；走向。例如: "Sales [have](/zh/post/have/) been trending [upwards](/zh/post/upwards/) [over](/zh/post/over/) [the](/zh/post/the/) [past](/zh/post/past/) [quarter](/zh/post/quarter/)."
 
 ## 短语
-- "[Follow](/post/follow/) [the](/post/the/) [trend](/post/trend/)" 意为跟随潮流或趋势。
-- "[Upward](/post/upward/) [trend](/post/trend/)" 表示上升趋势。
-- "[Downward](/post/downward/) [trend](/post/trend/)" 表示下降趋势。
+- "[Follow](/zh/post/follow/) [the](/zh/post/the/) [trend](/zh/post/trend/)" 意为跟随潮流或趋势。
+- "[Upward](/zh/post/upward/) [trend](/zh/post/trend/)" 表示上升趋势。
+- "[Downward](/zh/post/downward/) [trend](/zh/post/trend/)" 表示下降趋势。
 
 ## 例句
-- 名词: "[Market](/post/market/) analysts [predict](/post/predict/) [a](/post/a/) [positive](/post/positive/) [trend](/post/trend/) [for](/post/for/) [the](/post/the/) [stock](/post/stock/) [market](/post/market/) [next](/post/next/) [year](/post/year/)."
-- 动词: "[Economic](/post/economic/) indicators [suggest](/post/suggest/) [that](/post/that/) inflation is trending downwards."
+- 名词: "[Market](/zh/post/market/) analysts [predict](/zh/post/predict/) [a](/zh/post/a/) [positive](/zh/post/positive/) [trend](/zh/post/trend/) [for](/zh/post/for/) [the](/zh/post/the/) [stock](/zh/post/stock/) [market](/zh/post/market/) [next](/zh/post/next/) [year](/zh/post/year/)."
+- 动词: "[Economic](/zh/post/economic/) indicators [suggest](/zh/post/suggest/) [that](/zh/post/that/) inflation is trending downwards."
 
 ## 同义词
-- [Direction](/post/direction/)
-- [Movement](/post/movement/)
-- [Development](/post/development/)
-- [Pattern](/post/pattern/)
-- [Course](/post/course/)
+- [Direction](/zh/post/direction/)
+- [Movement](/zh/post/movement/)
+- [Development](/zh/post/development/)
+- [Pattern](/zh/post/pattern/)
+- [Course](/zh/post/course/)

@@ -7,27 +7,27 @@ description = '[ˈliːtə] n.升(容量单位)'
 keywords = ['ai words', 'liter']
 +++
 
-## [Word](/en/post/word/): [Liter](/en/post/liter/)
+## [Word](/post/word/): [Liter](/post/liter/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɪtər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [basic](/en/post/basic/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/) [for](/en/post/for/) [volume](/en/post/volume/) [in](/en/post/in/) [the](/en/post/the/) [metric](/en/post/metric/) [system](/en/post/system/), [equal](/en/post/equal/) [to](/en/post/to/) 1,000 [cubic](/en/post/cubic/) centimeters [or](/en/post/or/) [approximately](/en/post/approximately/) 0.264 U.S. gallons. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [fuel](/en/post/fuel/) [tank](/en/post/tank/) [can](/en/post/can/) [hold](/en/post/hold/) [ten](/en/post/ten/) liters [of](/en/post/of/) [gasoline](/en/post/gasoline/)."
-- **[Noun](/en/post/noun/) (informal)**: [A](/en/post/a/) [container](/en/post/container/) [that](/en/post/that/) holds [one](/en/post/one/) [liter](/en/post/liter/) [of](/en/post/of/) [liquid](/en/post/liquid/), [especially](/en/post/especially/) [a](/en/post/a/) [bottle](/en/post/bottle/) [or](/en/post/or/) [can](/en/post/can/). [For](/en/post/for/) [instance](/en/post/instance/): "[She](/en/post/she/) bought [a](/en/post/a/) [liter](/en/post/liter/) [of](/en/post/of/) [milk](/en/post/milk/) [from](/en/post/from/) [the](/en/post/the/) [store](/en/post/store/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [basic](/post/basic/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/) [for](/post/for/) [volume](/post/volume/) [in](/post/in/) [the](/post/the/) [metric](/post/metric/) [system](/post/system/), [equal](/post/equal/) [to](/post/to/) 1,000 [cubic](/post/cubic/) centimeters [or](/post/or/) [approximately](/post/approximately/) 0.264 U.S. gallons. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [fuel](/post/fuel/) [tank](/post/tank/) [can](/post/can/) [hold](/post/hold/) [ten](/post/ten/) liters [of](/post/of/) [gasoline](/post/gasoline/)."
+- **[Noun](/post/noun/) (informal)**: [A](/post/a/) [container](/post/container/) [that](/post/that/) holds [one](/post/one/) [liter](/post/liter/) [of](/post/of/) [liquid](/post/liquid/), [especially](/post/especially/) [a](/post/a/) [bottle](/post/bottle/) [or](/post/or/) [can](/post/can/). [For](/post/for/) [instance](/post/instance/): "[She](/post/she/) bought [a](/post/a/) [liter](/post/liter/) [of](/post/of/) [milk](/post/milk/) [from](/post/from/) [the](/post/the/) [store](/post/store/)."
 
 ## Phrases
-- "[A](/en/post/a/) [liter](/en/post/liter/) [of](/en/post/of/) [water](/en/post/water/) [a](/en/post/a/) [day](/en/post/day/) keeps dehydration [away](/en/post/away/)" – emphasizing [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) [daily](/en/post/daily/) [water](/en/post/water/) intake.
-- "[Fill](/en/post/fill/) [it](/en/post/it/) [up](/en/post/up/) [with](/en/post/with/) [five](/en/post/five/) liters" – [when](/en/post/when/) referring [to](/en/post/to/) filling [a](/en/post/a/) [container](/en/post/container/) [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) [volume](/en/post/volume/) [of](/en/post/of/) [liquid](/en/post/liquid/).
+- "[A](/post/a/) [liter](/post/liter/) [of](/post/of/) [water](/post/water/) [a](/post/a/) [day](/post/day/) keeps dehydration [away](/post/away/)" – emphasizing [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [daily](/post/daily/) [water](/post/water/) intake.
+- "[Fill](/post/fill/) [it](/post/it/) [up](/post/up/) [with](/post/with/) [five](/post/five/) liters" – [when](/post/when/) referring [to](/post/to/) filling [a](/post/a/) [container](/post/container/) [with](/post/with/) [a](/post/a/) [specific](/post/specific/) [volume](/post/volume/) [of](/post/of/) [liquid](/post/liquid/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([measurement](/en/post/measurement/))**: "[The](/en/post/the/) recipe calls [for](/en/post/for/) [two](/en/post/two/) liters [of](/en/post/of/) broth."
-- **[Noun](/en/post/noun/) ([container](/en/post/container/))**: "[He](/en/post/he/) recycled [the](/en/post/the/) [empty](/en/post/empty/) [plastic](/en/post/plastic/) [liter](/en/post/liter/) bottles."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([measurement](/post/measurement/))**: "[The](/post/the/) recipe calls [for](/post/for/) [two](/post/two/) liters [of](/post/of/) broth."
+- **[Noun](/post/noun/) ([container](/post/container/))**: "[He](/post/he/) recycled [the](/post/the/) [empty](/post/empty/) [plastic](/post/plastic/) [liter](/post/liter/) bottles."
 
 ## Synonyms
 - litre (British English)
-- [Metric](/en/post/metric/) [quart](/en/post/quart/)
+- [Metric](/post/metric/) [quart](/post/quart/)
 - 1,000 milliliters
-- [About](/en/post/about/) 33.8 ounces ([US](/en/post/us/) [fluid](/en/post/fluid/) ounces)
+- [About](/post/about/) 33.8 ounces ([US](/post/us/) [fluid](/post/fluid/) ounces)
 
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) '[liter](/en/post/liter/)' does [not](/en/post/not/) [have](/en/post/have/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), [preposition](/en/post/preposition/), [conjunction](/en/post/conjunction/), [pronoun](/en/post/pronoun/), numeral, [or](/en/post/or/) interjection forms [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) English [language](/en/post/language/). [It](/en/post/it/) [primarily](/en/post/primarily/) functions [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) related [to](/en/post/to/) [measurement](/en/post/measurement/).
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) '[liter](/post/liter/)' does [not](/post/not/) [have](/post/have/) [verb](/post/verb/), [adjective](/post/adjective/), [adverb](/post/adverb/), [preposition](/post/preposition/), [conjunction](/post/conjunction/), [pronoun](/post/pronoun/), numeral, [or](/post/or/) interjection forms [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [the](/post/the/) English [language](/post/language/). [It](/post/it/) [primarily](/post/primarily/) functions [as](/post/as/) [a](/post/a/) [noun](/post/noun/) related [to](/post/to/) [measurement](/post/measurement/).

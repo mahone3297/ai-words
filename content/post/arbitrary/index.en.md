@@ -7,39 +7,39 @@ description = '[ˈɑːbitrəri] a.随心所欲的；专断的'
 keywords = ['ai words', 'arbitrary']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈærɪb.ər.ri/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Arbitrary](/en/post/arbitrary/)**: Designated [or](/en/post/or/) determined [without](/en/post/without/) fixed [or](/en/post/or/) rule-based principles; capricious [or](/en/post/or/) haphazard. [Example](/en/post/example/): "[The](/en/post/the/) teacher's grading [system](/en/post/system/) was [arbitrary](/en/post/arbitrary/), [leading](/en/post/leading/) [to](/en/post/to/) [confusion](/en/post/confusion/) [among](/en/post/among/) students."
+### [Noun](/post/noun/)
+- **[Arbitrary](/post/arbitrary/)**: Designated [or](/post/or/) determined [without](/post/without/) fixed [or](/post/or/) rule-based principles; capricious [or](/post/or/) haphazard. [Example](/post/example/): "[The](/post/the/) teacher's grading [system](/post/system/) was [arbitrary](/post/arbitrary/), [leading](/post/leading/) [to](/post/to/) [confusion](/post/confusion/) [among](/post/among/) students."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [make](/en/post/make/) decisions [or](/en/post/or/) [establish](/en/post/establish/) rules [in](/en/post/in/) an [arbitrary](/en/post/arbitrary/) [manner](/en/post/manner/). [Example](/en/post/example/): "[The](/en/post/the/) company's [management](/en/post/management/) decided [to](/en/post/to/) [change](/en/post/change/) [the](/en/post/the/) [work](/en/post/work/) [schedule](/en/post/schedule/) arbitrarily."
+### [Verb](/post/verb/)
+- [To](/post/to/) [make](/post/make/) decisions [or](/post/or/) [establish](/post/establish/) rules [in](/post/in/) an [arbitrary](/post/arbitrary/) [manner](/post/manner/). [Example](/post/example/): "[The](/post/the/) company's [management](/post/management/) decided [to](/post/to/) [change](/post/change/) [the](/post/the/) [work](/post/work/) [schedule](/post/schedule/) arbitrarily."
 
-### [Adjective](/en/post/adjective/)
-- Characterized [by](/en/post/by/) randomness [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [clear](/en/post/clear/) reasoning [or](/en/post/or/) [logic](/en/post/logic/). [Example](/en/post/example/): "[The](/en/post/the/) [law](/en/post/law/) allows [for](/en/post/for/) [arbitrary](/en/post/arbitrary/) detention [of](/en/post/of/) suspects."
+### [Adjective](/post/adjective/)
+- Characterized [by](/post/by/) randomness [or](/post/or/) [lack](/post/lack/) [of](/post/of/) [clear](/post/clear/) reasoning [or](/post/or/) [logic](/post/logic/). [Example](/post/example/): "[The](/post/the/) [law](/post/law/) allows [for](/post/for/) [arbitrary](/post/arbitrary/) detention [of](/post/of/) suspects."
 
 ## Phrases
-- "Acting arbitrarily" [means](/en/post/means/) making decisions [without](/en/post/without/) [a](/en/post/a/) [clear](/en/post/clear/) [reason](/en/post/reason/) [or](/en/post/or/) [structure](/en/post/structure/).
-- "An [arbitrary](/en/post/arbitrary/) [choice](/en/post/choice/)" refers [to](/en/post/to/) [a](/en/post/a/) [selection](/en/post/selection/) made [without](/en/post/without/) [a](/en/post/a/) [specific](/en/post/specific/) criteria.
-- "An [arbitrary](/en/post/arbitrary/) [limit](/en/post/limit/)" is [a](/en/post/a/) [restriction](/en/post/restriction/) imposed [without](/en/post/without/) [a](/en/post/a/) [logical](/en/post/logical/) [basis](/en/post/basis/).
+- "Acting arbitrarily" [means](/post/means/) making decisions [without](/post/without/) [a](/post/a/) [clear](/post/clear/) [reason](/post/reason/) [or](/post/or/) [structure](/post/structure/).
+- "An [arbitrary](/post/arbitrary/) [choice](/post/choice/)" refers [to](/post/to/) [a](/post/a/) [selection](/post/selection/) made [without](/post/without/) [a](/post/a/) [specific](/post/specific/) criteria.
+- "An [arbitrary](/post/arbitrary/) [limit](/post/limit/)" is [a](/post/a/) [restriction](/post/restriction/) imposed [without](/post/without/) [a](/post/a/) [logical](/post/logical/) [basis](/post/basis/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) punishments were [often](/en/post/often/) [arbitrary](/en/post/arbitrary/), leaving students unsure [what](/en/post/what/) [they](/en/post/they/) had done [wrong](/en/post/wrong/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) government's [decision](/en/post/decision/) [to](/en/post/to/) [impose](/en/post/impose/) martial [law](/en/post/law/) was [arbitrary](/en/post/arbitrary/) [and](/en/post/and/) unsettling."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [tax](/en/post/tax/) rates [can](/en/post/can/) [seem](/en/post/seem/) [arbitrary](/en/post/arbitrary/) [to](/en/post/to/) [small](/en/post/small/) [business](/en/post/business/) owners."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) punishments were [often](/post/often/) [arbitrary](/post/arbitrary/), leaving students unsure [what](/post/what/) [they](/post/they/) had done [wrong](/post/wrong/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) government's [decision](/post/decision/) [to](/post/to/) [impose](/post/impose/) martial [law](/post/law/) was [arbitrary](/post/arbitrary/) [and](/post/and/) unsettling."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [tax](/post/tax/) rates [can](/post/can/) [seem](/post/seem/) [arbitrary](/post/arbitrary/) [to](/post/to/) [small](/post/small/) [business](/post/business/) owners."
 
 ## Synonyms
 - Capricious
 - Haphazard
 - Unpredictable
-- [Spontaneous](/en/post/spontaneous/)
+- [Spontaneous](/post/spontaneous/)
 - Discretionary
 
 ## Antonyms
 - Systematic
-- [Rational](/en/post/rational/)
-- [Consistent](/en/post/consistent/)
+- [Rational](/post/rational/)
+- [Consistent](/post/consistent/)
 - Determined
 - Fixed

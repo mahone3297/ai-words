@@ -11,23 +11,23 @@ keywords = ['ai words', 'proof']
 /pruːf/
 
 ## 释义
-- **名词 (n)**: 证据，证明。例如: "[The](/post/the/) fingerprints were [the](/post/the/) [proof](/post/proof/) [that](/post/that/) [he](/post/he/) was [guilty](/post/guilty/)."
-- **名词**: 校样，样品。例如: "[The](/post/the/) designer sent [us](/post/us/) [a](/post/a/) [proof](/post/proof/) [of](/post/of/) [the](/post/the/) [new](/post/new/) logo [design](/post/design/)."
-- **动词 (v)**: 证明，证实。例如: "[The](/post/the/) [experiment](/post/experiment/) proved [the](/post/the/) [theory](/post/theory/) [to](/post/to/) [be](/post/be/) [correct](/post/correct/)."
-- **名词**: 酒精度。例如: "[This](/post/this/) whiskey has [a](/post/a/) [high](/post/high/) [proof](/post/proof/), [so](/post/so/) [drink](/post/drink/) responsibly."
+- **名词 (n)**: 证据，证明。例如: "[The](/zh/post/the/) fingerprints were [the](/zh/post/the/) [proof](/zh/post/proof/) [that](/zh/post/that/) [he](/zh/post/he/) was [guilty](/zh/post/guilty/)."
+- **名词**: 校样，样品。例如: "[The](/zh/post/the/) designer sent [us](/zh/post/us/) [a](/zh/post/a/) [proof](/zh/post/proof/) [of](/zh/post/of/) [the](/zh/post/the/) [new](/zh/post/new/) logo [design](/zh/post/design/)."
+- **动词 (v)**: 证明，证实。例如: "[The](/zh/post/the/) [experiment](/zh/post/experiment/) proved [the](/zh/post/the/) [theory](/zh/post/theory/) [to](/zh/post/to/) [be](/zh/post/be/) [correct](/zh/post/correct/)."
+- **名词**: 酒精度。例如: "[This](/zh/post/this/) whiskey has [a](/zh/post/a/) [high](/zh/post/high/) [proof](/zh/post/proof/), [so](/zh/post/so/) [drink](/zh/post/drink/) responsibly."
 
 ## 短语
-- "[Proof](/post/proof/) [of](/post/of/) [concept](/post/concept/)" 指的是概念验证，用来确认一个想法或理论是否可行。
-- "[Beyond](/post/beyond/) [a](/post/a/) [reasonable](/post/reasonable/) [doubt](/post/doubt/)" 在法律中，指的是需要的证明标准，意为“超出合理怀疑”。
+- "[Proof](/zh/post/proof/) [of](/zh/post/of/) [concept](/zh/post/concept/)" 指的是概念验证，用来确认一个想法或理论是否可行。
+- "[Beyond](/zh/post/beyond/) [a](/zh/post/a/) [reasonable](/zh/post/reasonable/) [doubt](/zh/post/doubt/)" 在法律中，指的是需要的证明标准，意为“超出合理怀疑”。
 
 ## 例句
-- 名词: "[The](/post/the/) [video](/post/video/) footage served [as](/post/as/) [concrete](/post/concrete/) [proof](/post/proof/) [of](/post/of/) [the](/post/the/) [crime](/post/crime/)."
-- 动词: "[The](/post/the/) mathematician's [work](/post/work/) proved [the](/post/the/) theorem [beyond](/post/beyond/) [any](/post/any/) [doubt](/post/doubt/)."
-- 名词: "I [need](/post/need/) [to](/post/to/) [check](/post/check/) [the](/post/the/) [proof](/post/proof/) [before](/post/before/) [we](/post/we/) [send](/post/send/) [it](/post/it/) [to](/post/to/) [print](/post/print/)."
-- 名词: "[This](/post/this/) [wine](/post/wine/) is 80 [proof](/post/proof/), [so](/post/so/) it's [quite](/post/quite/) [strong](/post/strong/)."
+- 名词: "[The](/zh/post/the/) [video](/zh/post/video/) footage served [as](/zh/post/as/) [concrete](/zh/post/concrete/) [proof](/zh/post/proof/) [of](/zh/post/of/) [the](/zh/post/the/) [crime](/zh/post/crime/)."
+- 动词: "[The](/zh/post/the/) mathematician's [work](/zh/post/work/) proved [the](/zh/post/the/) theorem [beyond](/zh/post/beyond/) [any](/zh/post/any/) [doubt](/zh/post/doubt/)."
+- 名词: "I [need](/zh/post/need/) [to](/zh/post/to/) [check](/zh/post/check/) [the](/zh/post/the/) [proof](/zh/post/proof/) [before](/zh/post/before/) [we](/zh/post/we/) [send](/zh/post/send/) [it](/zh/post/it/) [to](/zh/post/to/) [print](/zh/post/print/)."
+- 名词: "[This](/zh/post/this/) [wine](/zh/post/wine/) is 80 [proof](/zh/post/proof/), [so](/zh/post/so/) it's [quite](/zh/post/quite/) [strong](/zh/post/strong/)."
 
 ## 同义词
-- [Evidence](/post/evidence/)
+- [Evidence](/zh/post/evidence/)
 - Demonstration
 - Validation
 - Confirmation

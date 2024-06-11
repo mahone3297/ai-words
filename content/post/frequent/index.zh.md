@@ -11,20 +11,20 @@ keywords = ['ai words', 'frequent']
 /friːˈkwɛnt/
 
 ## 释义
-- **形容词**: 经常的，频繁的，常发生的。例如: "[He](/post/he/) visits [his](/post/his/) parents [quite](/post/quite/) [frequently](/post/frequently/)." 
-- **副词**: 频繁地，经常地。例如: "[She](/post/she/) frequents [the](/post/the/) [library](/post/library/) [to](/post/to/) [study](/post/study/)."
+- **形容词**: 经常的，频繁的，常发生的。例如: "[He](/zh/post/he/) visits [his](/zh/post/his/) parents [quite](/zh/post/quite/) [frequently](/zh/post/frequently/)." 
+- **副词**: 频繁地，经常地。例如: "[She](/zh/post/she/) frequents [the](/zh/post/the/) [library](/zh/post/library/) [to](/zh/post/to/) [study](/zh/post/study/)."
 
 ## 短语
-- "[frequent](/post/frequent/) [visitor](/post/visitor/)" 指常客或常来的访客。
-- "[frequently](/post/frequently/) asked questions" (FAQs) 常见问题集。
+- "[frequent](/zh/post/frequent/) [visitor](/zh/post/visitor/)" 指常客或常来的访客。
+- "[frequently](/zh/post/frequently/) asked questions" (FAQs) 常见问题集。
 
 ## 例句
-- 形容词: "[The](/post/the/) [restaurant](/post/restaurant/) is [a](/post/a/) [frequent](/post/frequent/) haunt [for](/post/for/) [local](/post/local/) foodies."
-- 副词: "[She](/post/she/) frequents [the](/post/the/) gym [almost](/post/almost/) [every](/post/every/) [day](/post/day/) [to](/post/to/) [stay](/post/stay/) [fit](/post/fit/)."
+- 形容词: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) is [a](/zh/post/a/) [frequent](/zh/post/frequent/) haunt [for](/zh/post/for/) [local](/zh/post/local/) foodies."
+- 副词: "[She](/zh/post/she/) frequents [the](/zh/post/the/) gym [almost](/zh/post/almost/) [every](/zh/post/every/) [day](/zh/post/day/) [to](/zh/post/to/) [stay](/zh/post/stay/) [fit](/zh/post/fit/)."
 
 ## 同义词
-- [often](/post/often/)
-- [regularly](/post/regularly/)
-- [repeatedly](/post/repeatedly/)
+- [often](/zh/post/often/)
+- [regularly](/zh/post/regularly/)
+- [repeatedly](/zh/post/repeatedly/)
 - continually
 - incessantly

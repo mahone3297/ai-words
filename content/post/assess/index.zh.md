@@ -11,20 +11,20 @@ keywords = ['ai words', 'assess']
 /əˈses/
 
 ## 释义
-- **动词**: 评价，评估；估计。例如: "[The](/post/the/) [teacher](/post/teacher/) [will](/post/will/) [assess](/post/assess/) [each](/post/each/) student's [performance](/post/performance/) [in](/post/in/) [the](/post/the/) [exam](/post/exam/)."
-- **名词**: 评估，评价。例如: "[The](/post/the/) [company](/post/company/) provides an [annual](/post/annual/) [assess](/post/assess/) [of](/post/of/) [its](/post/its/) employees' [work](/post/work/)."
+- **动词**: 评价，评估；估计。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) [will](/zh/post/will/) [assess](/zh/post/assess/) [each](/zh/post/each/) student's [performance](/zh/post/performance/) [in](/zh/post/in/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
+- **名词**: 评估，评价。例如: "[The](/zh/post/the/) [company](/zh/post/company/) provides an [annual](/zh/post/annual/) [assess](/zh/post/assess/) [of](/zh/post/of/) [its](/zh/post/its/) employees' [work](/zh/post/work/)."
 
 ## 短语
-- "[to](/post/to/) [assess](/post/assess/) [something](/post/something/) [for](/post/for/) [something](/post/something/)" 为某事物估价或评价其价值。例如: "[The](/post/the/) [insurance](/post/insurance/) [company](/post/company/) [will](/post/will/) [assess](/post/assess/) [the](/post/the/) [car](/post/car/) [for](/post/for/) [damage](/post/damage/) [after](/post/after/) [the](/post/the/) [accident](/post/accident/)."
-- "[to](/post/to/) [assess](/post/assess/) one's abilities" 评价某人的能力。例如: "[Before](/post/before/) joining [the](/post/the/) [team](/post/team/), [all](/post/all/) candidates [must](/post/must/) [undergo](/post/undergo/) an assessment [of](/post/of/) [their](/post/their/) skills."
+- "[to](/zh/post/to/) [assess](/zh/post/assess/) [something](/zh/post/something/) [for](/zh/post/for/) [something](/zh/post/something/)" 为某事物估价或评价其价值。例如: "[The](/zh/post/the/) [insurance](/zh/post/insurance/) [company](/zh/post/company/) [will](/zh/post/will/) [assess](/zh/post/assess/) [the](/zh/post/the/) [car](/zh/post/car/) [for](/zh/post/for/) [damage](/zh/post/damage/) [after](/zh/post/after/) [the](/zh/post/the/) [accident](/zh/post/accident/)."
+- "[to](/zh/post/to/) [assess](/zh/post/assess/) one's abilities" 评价某人的能力。例如: "[Before](/zh/post/before/) joining [the](/zh/post/the/) [team](/zh/post/team/), [all](/zh/post/all/) candidates [must](/zh/post/must/) [undergo](/zh/post/undergo/) an assessment [of](/zh/post/of/) [their](/zh/post/their/) skills."
 
 ## 例句
-- 动词: "[The](/post/the/) taxman [will](/post/will/) [assess](/post/assess/) [your](/post/your/) [income](/post/income/) [and](/post/and/) [calculate](/post/calculate/) [your](/post/your/) taxes [accordingly](/post/accordingly/)."
-- 名词: "[The](/post/the/) [final](/post/final/) [report](/post/report/) included [a](/post/a/) detailed [assess](/post/assess/) [of](/post/of/) [the](/post/the/) project's [success](/post/success/)."
+- 动词: "[The](/zh/post/the/) taxman [will](/zh/post/will/) [assess](/zh/post/assess/) [your](/zh/post/your/) [income](/zh/post/income/) [and](/zh/post/and/) [calculate](/zh/post/calculate/) [your](/zh/post/your/) taxes [accordingly](/zh/post/accordingly/)."
+- 名词: "[The](/zh/post/the/) [final](/zh/post/final/) [report](/zh/post/report/) included [a](/zh/post/a/) detailed [assess](/zh/post/assess/) [of](/zh/post/of/) [the](/zh/post/the/) project's [success](/zh/post/success/)."
 
 ## 同义词
-- [evaluate](/post/evaluate/)
+- [evaluate](/zh/post/evaluate/)
 - appraise
-- [estimate](/post/estimate/)
-- [judge](/post/judge/)
-- [value](/post/value/)
+- [estimate](/zh/post/estimate/)
+- [judge](/zh/post/judge/)
+- [value](/zh/post/value/)

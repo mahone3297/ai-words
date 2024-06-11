@@ -11,20 +11,20 @@ keywords = ['ai words', 'opponent']
 /əˈpəʊnənt/
 
 ## 释义
-- **名词**: 与某人竞争的人；对手。例如: "[In](/post/in/) [the](/post/the/) [debate](/post/debate/), [he](/post/he/) faced [a](/post/a/) [tough](/post/tough/) [opponent](/post/opponent/)."
-- **形容词**: 相反的，对立的。例如: "[They](/post/they/) [have](/post/have/) opposing views [on](/post/on/) [the](/post/the/) [issue](/post/issue/)."
+- **名词**: 与某人竞争的人；对手。例如: "[In](/zh/post/in/) [the](/zh/post/the/) [debate](/zh/post/debate/), [he](/zh/post/he/) faced [a](/zh/post/a/) [tough](/zh/post/tough/) [opponent](/zh/post/opponent/)."
+- **形容词**: 相反的，对立的。例如: "[They](/zh/post/they/) [have](/zh/post/have/) opposing views [on](/zh/post/on/) [the](/zh/post/the/) [issue](/zh/post/issue/)."
 
 ## 短语
-- "[opponent](/post/opponent/) [team](/post/team/)" 对手队伍
-- "[political](/post/political/) [opponent](/post/opponent/)" 政治对手
+- "[opponent](/zh/post/opponent/) [team](/zh/post/team/)" 对手队伍
+- "[political](/zh/post/political/) [opponent](/zh/post/opponent/)" 政治对手
 
 ## 例句
-- 名词: "[The](/post/the/) [two](/post/two/) boxers were [fierce](/post/fierce/) opponents [in](/post/in/) [the](/post/the/) [ring](/post/ring/)."
-- 形容词: "[Their](/post/their/) opinions were [completely](/post/completely/) [opponent](/post/opponent/), making [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [reach](/post/reach/) an [agreement](/post/agreement/)."
+- 名词: "[The](/zh/post/the/) [two](/zh/post/two/) boxers were [fierce](/zh/post/fierce/) opponents [in](/zh/post/in/) [the](/zh/post/the/) [ring](/zh/post/ring/)."
+- 形容词: "[Their](/zh/post/their/) opinions were [completely](/zh/post/completely/) [opponent](/zh/post/opponent/), making [it](/zh/post/it/) [difficult](/zh/post/difficult/) [to](/zh/post/to/) [reach](/zh/post/reach/) an [agreement](/zh/post/agreement/)."
 
 ## 同义词
 - adversary
-- [rival](/post/rival/)
+- [rival](/zh/post/rival/)
 - competitor
 - antagonist
 - foe

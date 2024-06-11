@@ -11,23 +11,23 @@ keywords = ['ai words', 'art']
 /ɑːrt/
 
 ## 释义
-- **名词 (n)**: 艺术，包括视觉艺术（如绘画、雕塑）、表演艺术（如戏剧、舞蹈）和文学艺术等。例如: "[She](/post/she/) is studying [fine](/post/fine/) arts [at](/post/at/) [university](/post/university/)."
-- **名词 (n)**: 技艺，技巧。例如: "[He](/post/he/) has [a](/post/a/) [great](/post/great/) [art](/post/art/) [in](/post/in/) cooking [delicious](/post/delicious/) meals."
-- **名词 (n)**: 作品，艺术品。例如: "[The](/post/the/) [museum](/post/museum/) houses [many](/post/many/) [famous](/post/famous/) [art](/post/art/) pieces."
+- **名词 (n)**: 艺术，包括视觉艺术（如绘画、雕塑）、表演艺术（如戏剧、舞蹈）和文学艺术等。例如: "[She](/zh/post/she/) is studying [fine](/zh/post/fine/) arts [at](/zh/post/at/) [university](/zh/post/university/)."
+- **名词 (n)**: 技艺，技巧。例如: "[He](/zh/post/he/) has [a](/zh/post/a/) [great](/zh/post/great/) [art](/zh/post/art/) [in](/zh/post/in/) cooking [delicious](/zh/post/delicious/) meals."
+- **名词 (n)**: 作品，艺术品。例如: "[The](/zh/post/the/) [museum](/zh/post/museum/) houses [many](/zh/post/many/) [famous](/zh/post/famous/) [art](/zh/post/art/) pieces."
 
 ## 短语
-- "[The](/post/the/) [art](/post/art/) [of](/post/of/) [something](/post/something/)" 指的是在某方面的技艺或才能。例如: "[The](/post/the/) [art](/post/art/) [of](/post/of/) negotiation"
-- "[Visual](/post/visual/) [art](/post/art/)" 指所有看得见的艺术形式。例如: "[She](/post/she/) specializes [in](/post/in/) [visual](/post/visual/) [art](/post/art/)."
-- "Performing [art](/post/art/)" 包括音乐、戏剧和舞蹈等现场表演。例如: "He's [a](/post/a/) talented performing [artist](/post/artist/)."
+- "[The](/zh/post/the/) [art](/zh/post/art/) [of](/zh/post/of/) [something](/zh/post/something/)" 指的是在某方面的技艺或才能。例如: "[The](/zh/post/the/) [art](/zh/post/art/) [of](/zh/post/of/) negotiation"
+- "[Visual](/zh/post/visual/) [art](/zh/post/art/)" 指所有看得见的艺术形式。例如: "[She](/zh/post/she/) specializes [in](/zh/post/in/) [visual](/zh/post/visual/) [art](/zh/post/art/)."
+- "Performing [art](/zh/post/art/)" 包括音乐、戏剧和舞蹈等现场表演。例如: "He's [a](/zh/post/a/) talented performing [artist](/zh/post/artist/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [art](/post/art/) [gallery](/post/gallery/) displayed [contemporary](/post/contemporary/) paintings [by](/post/by/) [local](/post/local/) artists."
-- 名词: "[His](/post/his/) artistry [on](/post/on/) [the](/post/the/) [piano](/post/piano/) impressed [everyone](/post/everyone/) [at](/post/at/) [the](/post/the/) [concert](/post/concert/)."
-- 名词: "[They](/post/they/) admired [the](/post/the/) intricate [art](/post/art/) [on](/post/on/) [the](/post/the/) [ancient](/post/ancient/) [vase](/post/vase/)."
+- 名词: "[The](/zh/post/the/) [art](/zh/post/art/) [gallery](/zh/post/gallery/) displayed [contemporary](/zh/post/contemporary/) paintings [by](/zh/post/by/) [local](/zh/post/local/) artists."
+- 名词: "[His](/zh/post/his/) artistry [on](/zh/post/on/) [the](/zh/post/the/) [piano](/zh/post/piano/) impressed [everyone](/zh/post/everyone/) [at](/zh/post/at/) [the](/zh/post/the/) [concert](/zh/post/concert/)."
+- 名词: "[They](/zh/post/they/) admired [the](/zh/post/the/) intricate [art](/zh/post/art/) [on](/zh/post/on/) [the](/zh/post/the/) [ancient](/zh/post/ancient/) [vase](/zh/post/vase/)."
 
 ## 同义词
-- [Craft](/post/craft/)
-- [Skill](/post/skill/)
+- [Craft](/zh/post/craft/)
+- [Skill](/zh/post/skill/)
 - Creativity
 - Aesthetics
-- [Masterpiece](/post/masterpiece/)
+- [Masterpiece](/zh/post/masterpiece/)

@@ -7,32 +7,32 @@ description = '[igˈzæktli] ad.确切地；恰恰正是'
 keywords = ['ai words', 'exactly']
 +++
 
-## [Word](/en/post/word/): [Exactly](/en/post/exactly/)
+## [Word](/post/word/): [Exactly](/post/exactly/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪɡˈzæktli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [precise](/en/post/precise/) [or](/en/post/or/) [exact](/en/post/exact/) [manner](/en/post/manner/); [without](/en/post/without/) approximation [or](/en/post/or/) [error](/en/post/error/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [that](/en/post/that/) [something](/en/post/something/) is [true](/en/post/true/), [accurate](/en/post/accurate/), [or](/en/post/or/) matches [perfectly](/en/post/perfectly/).
-  - [Example](/en/post/example/): "[The](/en/post/the/) measurements [must](/en/post/must/) [be](/en/post/be/) taken _exactly_ [as](/en/post/as/) specified [in](/en/post/in/) [the](/en/post/the/) instructions."
-- **[Adverb](/en/post/adverb/) ([for](/en/post/for/) [emphasis](/en/post/emphasis/))**: [Used](/en/post/used/) [to](/en/post/to/) affirm [or](/en/post/or/) [agree](/en/post/agree/) [with](/en/post/with/) [something](/en/post/something/) [strongly](/en/post/strongly/) [or](/en/post/or/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [a](/en/post/a/) [situation](/en/post/situation/) is precisely [as](/en/post/as/) described.
-  - [Example](/en/post/example/): "That's _exactly_ [what](/en/post/what/) I was thinking!"
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [precise](/post/precise/) [or](/post/or/) [exact](/post/exact/) [manner](/post/manner/); [without](/post/without/) approximation [or](/post/or/) [error](/post/error/). [It](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [that](/post/that/) [something](/post/something/) is [true](/post/true/), [accurate](/post/accurate/), [or](/post/or/) matches [perfectly](/post/perfectly/).
+  - [Example](/post/example/): "[The](/post/the/) measurements [must](/post/must/) [be](/post/be/) taken _exactly_ [as](/post/as/) specified [in](/post/in/) [the](/post/the/) instructions."
+- **[Adverb](/post/adverb/) ([for](/post/for/) [emphasis](/post/emphasis/))**: [Used](/post/used/) [to](/post/to/) affirm [or](/post/or/) [agree](/post/agree/) [with](/post/with/) [something](/post/something/) [strongly](/post/strongly/) [or](/post/or/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [a](/post/a/) [situation](/post/situation/) is precisely [as](/post/as/) described.
+  - [Example](/post/example/): "That's _exactly_ [what](/post/what/) I was thinking!"
 
 ## Phrases
-- "[Exactly](/en/post/exactly/) [right](/en/post/right/)" [means](/en/post/means/) [something](/en/post/something/) is [completely](/en/post/completely/) [correct](/en/post/correct/) [or](/en/post/or/) [accurate](/en/post/accurate/).
-- "[To](/en/post/to/) [the](/en/post/the/) [letter](/en/post/letter/)" [often](/en/post/often/) follows "[exactly](/en/post/exactly/)" [to](/en/post/to/) [stress](/en/post/stress/) [complete](/en/post/complete/) conformity [to](/en/post/to/) instructions, rules, [or](/en/post/or/) details. [For](/en/post/for/) [instance](/en/post/instance/), "[He](/en/post/he/) followed [the](/en/post/the/) recipe [exactly](/en/post/exactly/) [to](/en/post/to/) [the](/en/post/the/) [letter](/en/post/letter/)."
-- "[Exactly](/en/post/exactly/) [my](/en/post/my/) thoughts" is [used](/en/post/used/) [when](/en/post/when/) [one](/en/post/one/) agrees fully [with](/en/post/with/) [another](/en/post/another/) person's [opinion](/en/post/opinion/).
+- "[Exactly](/post/exactly/) [right](/post/right/)" [means](/post/means/) [something](/post/something/) is [completely](/post/completely/) [correct](/post/correct/) [or](/post/or/) [accurate](/post/accurate/).
+- "[To](/post/to/) [the](/post/the/) [letter](/post/letter/)" [often](/post/often/) follows "[exactly](/post/exactly/)" [to](/post/to/) [stress](/post/stress/) [complete](/post/complete/) conformity [to](/post/to/) instructions, rules, [or](/post/or/) details. [For](/post/for/) [instance](/post/instance/), "[He](/post/he/) followed [the](/post/the/) recipe [exactly](/post/exactly/) [to](/post/to/) [the](/post/the/) [letter](/post/letter/)."
+- "[Exactly](/post/exactly/) [my](/post/my/) thoughts" is [used](/post/used/) [when](/post/when/) [one](/post/one/) agrees fully [with](/post/with/) [another](/post/another/) person's [opinion](/post/opinion/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/) ([precision](/en/post/precision/))**: "[The](/en/post/the/) replica was built [exactly](/en/post/exactly/) [like](/en/post/like/) [the](/en/post/the/) [original](/en/post/original/) [castle](/en/post/castle/) [down](/en/post/down/) [to](/en/post/to/) [the](/en/post/the/) [last](/en/post/last/) [brick](/en/post/brick/)."
-- **[Adverb](/en/post/adverb/) ([emphasis](/en/post/emphasis/))**: "I arrived [at](/en/post/at/) [the](/en/post/the/) [station](/en/post/station/) [exactly](/en/post/exactly/) [when](/en/post/when/) [the](/en/post/the/) [train](/en/post/train/) pulled [in](/en/post/in/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/) ([precision](/post/precision/))**: "[The](/post/the/) replica was built [exactly](/post/exactly/) [like](/post/like/) [the](/post/the/) [original](/post/original/) [castle](/post/castle/) [down](/post/down/) [to](/post/to/) [the](/post/the/) [last](/post/last/) [brick](/post/brick/)."
+- **[Adverb](/post/adverb/) ([emphasis](/post/emphasis/))**: "I arrived [at](/post/at/) [the](/post/the/) [station](/post/station/) [exactly](/post/exactly/) [when](/post/when/) [the](/post/the/) [train](/post/train/) pulled [in](/post/in/)."
 
 ## Synonyms
 - Precisely
 - Accurately
 - Correctly
 - Spot-on
-- [To](/en/post/to/) [a](/en/post/a/) T
-- [Absolutely](/en/post/absolutely/)
-- [Completely](/en/post/completely/)
+- [To](/post/to/) [a](/post/a/) T
+- [Absolutely](/post/absolutely/)
+- [Completely](/post/completely/)
 - Unerringly

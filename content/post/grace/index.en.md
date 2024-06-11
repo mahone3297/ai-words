@@ -7,34 +7,34 @@ description = '[greis] n.优美，文雅；雅致'
 keywords = ['ai words', 'grace']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡreɪs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [quality](/en/post/quality/) [of](/en/post/of/) moving [with](/en/post/with/) elegance, poise, [and](/en/post/and/) [ease](/en/post/ease/); [beauty](/en/post/beauty/) [or](/en/post/or/) smoothness [of](/en/post/of/) [form](/en/post/form/), [movement](/en/post/movement/), [or](/en/post/or/) execution. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) ballerina performed [with](/en/post/with/) [such](/en/post/such/) [grace](/en/post/grace/) [and](/en/post/and/) poise."
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [free](/en/post/free/) [and](/en/post/and/) unmerited favor [of](/en/post/of/) God, [often](/en/post/often/) manifested [in](/en/post/in/) [kindness](/en/post/kindness/) towards [people](/en/post/people/). [For](/en/post/for/) [instance](/en/post/instance/): "[Through](/en/post/through/) [His](/en/post/his/) [grace](/en/post/grace/), [he](/en/post/he/) [found](/en/post/found/) redemption."
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [period](/en/post/period/) officially allowed [for](/en/post/for/) [payment](/en/post/payment/) [of](/en/post/of/) [a](/en/post/a/) [debt](/en/post/debt/) [or](/en/post/or/) fulfillment [of](/en/post/of/) an obligation, [usually](/en/post/usually/) [after](/en/post/after/) [it](/en/post/it/) has technically [become](/en/post/become/) [due](/en/post/due/). [Example](/en/post/example/): "[They](/en/post/they/) granted [us](/en/post/us/) [a](/en/post/a/) [grace](/en/post/grace/) [period](/en/post/period/) [of](/en/post/of/) 30 days [to](/en/post/to/) [pay](/en/post/pay/) [the](/en/post/the/) [rent](/en/post/rent/)."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) bestow honor, [credit](/en/post/credit/), [or](/en/post/or/) favor [upon](/en/post/upon/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/); [to](/en/post/to/) confer dignity [or](/en/post/or/) [distinction](/en/post/distinction/). [Example](/en/post/example/): "[The](/en/post/the/) [award](/en/post/award/) graced [her](/en/post/her/) [already](/en/post/already/) [impressive](/en/post/impressive/) résumé."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [add](/en/post/add/) [beauty](/en/post/beauty/), charm, [or](/en/post/or/) dignity [to](/en/post/to/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was graced [by](/en/post/by/) [a](/en/post/a/) stunning array [of](/en/post/of/) flowers."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [quality](/post/quality/) [of](/post/of/) moving [with](/post/with/) elegance, poise, [and](/post/and/) [ease](/post/ease/); [beauty](/post/beauty/) [or](/post/or/) smoothness [of](/post/of/) [form](/post/form/), [movement](/post/movement/), [or](/post/or/) execution. [For](/post/for/) [example](/post/example/): "[The](/post/the/) ballerina performed [with](/post/with/) [such](/post/such/) [grace](/post/grace/) [and](/post/and/) poise."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [free](/post/free/) [and](/post/and/) unmerited favor [of](/post/of/) God, [often](/post/often/) manifested [in](/post/in/) [kindness](/post/kindness/) towards [people](/post/people/). [For](/post/for/) [instance](/post/instance/): "[Through](/post/through/) [His](/post/his/) [grace](/post/grace/), [he](/post/he/) [found](/post/found/) redemption."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [period](/post/period/) officially allowed [for](/post/for/) [payment](/post/payment/) [of](/post/of/) [a](/post/a/) [debt](/post/debt/) [or](/post/or/) fulfillment [of](/post/of/) an obligation, [usually](/post/usually/) [after](/post/after/) [it](/post/it/) has technically [become](/post/become/) [due](/post/due/). [Example](/post/example/): "[They](/post/they/) granted [us](/post/us/) [a](/post/a/) [grace](/post/grace/) [period](/post/period/) [of](/post/of/) 30 days [to](/post/to/) [pay](/post/pay/) [the](/post/the/) [rent](/post/rent/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) bestow honor, [credit](/post/credit/), [or](/post/or/) favor [upon](/post/upon/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/); [to](/post/to/) confer dignity [or](/post/or/) [distinction](/post/distinction/). [Example](/post/example/): "[The](/post/the/) [award](/post/award/) graced [her](/post/her/) [already](/post/already/) [impressive](/post/impressive/) résumé."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [add](/post/add/) [beauty](/post/beauty/), charm, [or](/post/or/) dignity [to](/post/to/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was graced [by](/post/by/) [a](/post/a/) stunning array [of](/post/of/) flowers."
   
 ## Phrases
-- "[By](/en/post/by/) [the](/en/post/the/) [grace](/en/post/grace/) [of](/en/post/of/) God": Expressing [that](/en/post/that/) [something](/en/post/something/) happened thanks [to](/en/post/to/) divine intervention [or](/en/post/or/) assistance.
-- "[With](/en/post/with/) [good](/en/post/good/) [grace](/en/post/grace/)": [If](/en/post/if/) [someone](/en/post/someone/) does [something](/en/post/something/) [with](/en/post/with/) [good](/en/post/good/) [grace](/en/post/grace/), [they](/en/post/they/) [do](/en/post/do/) [it](/en/post/it/) willingly [and](/en/post/and/) [without](/en/post/without/) [complaint](/en/post/complaint/).
-- "[Saving](/en/post/saving/) [grace](/en/post/grace/)": [A](/en/post/a/) redeeming [quality](/en/post/quality/) [that](/en/post/that/) counterbalances [negative](/en/post/negative/) aspects.
+- "[By](/post/by/) [the](/post/the/) [grace](/post/grace/) [of](/post/of/) God": Expressing [that](/post/that/) [something](/post/something/) happened thanks [to](/post/to/) divine intervention [or](/post/or/) assistance.
+- "[With](/post/with/) [good](/post/good/) [grace](/post/grace/)": [If](/post/if/) [someone](/post/someone/) does [something](/post/something/) [with](/post/with/) [good](/post/good/) [grace](/post/grace/), [they](/post/they/) [do](/post/do/) [it](/post/it/) willingly [and](/post/and/) [without](/post/without/) [complaint](/post/complaint/).
+- "[Saving](/post/saving/) [grace](/post/grace/)": [A](/post/a/) redeeming [quality](/post/quality/) [that](/post/that/) counterbalances [negative](/post/negative/) aspects.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (elegance)**: "[Her](/en/post/her/) [every](/en/post/every/) [move](/en/post/move/) exhibited [a](/en/post/a/) [natural](/en/post/natural/) [grace](/en/post/grace/) [that](/en/post/that/) captivated [the](/en/post/the/) [audience](/en/post/audience/)."
-- **[Noun](/en/post/noun/) (divine favor)**: "[Their](/en/post/their/) unwavering [faith](/en/post/faith/) led [them](/en/post/them/) [through](/en/post/through/) life's trials, sustained [by](/en/post/by/) [the](/en/post/the/) [grace](/en/post/grace/) [of](/en/post/of/) God."
-- **[Noun](/en/post/noun/) ([grace](/en/post/grace/) [period](/en/post/period/))**: "Customers [can](/en/post/can/) [enjoy](/en/post/enjoy/) [a](/en/post/a/) [grace](/en/post/grace/) [period](/en/post/period/) [of](/en/post/of/) [six](/en/post/six/) months [before](/en/post/before/) [their](/en/post/their/) [loan](/en/post/loan/) repayments [begin](/en/post/begin/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [princess](/en/post/princess/) gracefully graced [the](/en/post/the/) [occasion](/en/post/occasion/) [with](/en/post/with/) [her](/en/post/her/) [presence](/en/post/presence/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (elegance)**: "[Her](/post/her/) [every](/post/every/) [move](/post/move/) exhibited [a](/post/a/) [natural](/post/natural/) [grace](/post/grace/) [that](/post/that/) captivated [the](/post/the/) [audience](/post/audience/)."
+- **[Noun](/post/noun/) (divine favor)**: "[Their](/post/their/) unwavering [faith](/post/faith/) led [them](/post/them/) [through](/post/through/) life's trials, sustained [by](/post/by/) [the](/post/the/) [grace](/post/grace/) [of](/post/of/) God."
+- **[Noun](/post/noun/) ([grace](/post/grace/) [period](/post/period/))**: "Customers [can](/post/can/) [enjoy](/post/enjoy/) [a](/post/a/) [grace](/post/grace/) [period](/post/period/) [of](/post/of/) [six](/post/six/) months [before](/post/before/) [their](/post/their/) [loan](/post/loan/) repayments [begin](/post/begin/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [princess](/post/princess/) gracefully graced [the](/post/the/) [occasion](/post/occasion/) [with](/post/with/) [her](/post/her/) [presence](/post/presence/)."
 
 ## Synonyms
 - Elegance
 - Poise
 - Charm
 - Civility
-- [Mercy](/en/post/mercy/) ([in](/en/post/in/) [religious](/en/post/religious/) contexts)
-- [Favour](/en/post/favour/)
+- [Mercy](/post/mercy/) ([in](/post/in/) [religious](/post/religious/) contexts)
+- [Favour](/post/favour/)
 - Politeness
-- [Kindness](/en/post/kindness/)
-- Forgiveness ([in](/en/post/in/) [religious](/en/post/religious/) contexts)
+- [Kindness](/post/kindness/)
+- Forgiveness ([in](/post/in/) [religious](/post/religious/) contexts)

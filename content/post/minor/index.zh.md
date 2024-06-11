@@ -12,25 +12,25 @@ keywords = ['ai words', 'minor']
 
 ## 释义
 - **名词**:
-  - 年纪较小的人；未成年人。例如: "He's [only](/post/only/) [a](/post/a/) [minor](/post/minor/), [so](/post/so/) [he](/post/he/) can't [vote](/post/vote/) [yet](/post/yet/)."
-  - 较小的事物或次要的部分。例如: "[The](/post/the/) [minor](/post/minor/) details [in](/post/in/) [the](/post/the/) [painting](/post/painting/) were exquisite."
-  - 学科副修。例如: "[She](/post/she/) is majoring [in](/post/in/) [biology](/post/biology/) [and](/post/and/) minoring [in](/post/in/) psychology."
+  - 年纪较小的人；未成年人。例如: "He's [only](/zh/post/only/) [a](/zh/post/a/) [minor](/zh/post/minor/), [so](/zh/post/so/) [he](/zh/post/he/) can't [vote](/zh/post/vote/) [yet](/zh/post/yet/)."
+  - 较小的事物或次要的部分。例如: "[The](/zh/post/the/) [minor](/zh/post/minor/) details [in](/zh/post/in/) [the](/zh/post/the/) [painting](/zh/post/painting/) were exquisite."
+  - 学科副修。例如: "[She](/zh/post/she/) is majoring [in](/zh/post/in/) [biology](/zh/post/biology/) [and](/zh/post/and/) minoring [in](/zh/post/in/) psychology."
 
 - **形容词**:
-  - 较小的；次要的。例如: "[The](/post/the/) [minor](/post/minor/) injuries were treated [on](/post/on/) [site](/post/site/)." 
-  - 不重要的；不显著的。例如: "[There](/post/there/) were [some](/post/some/) [minor](/post/minor/) issues [with](/post/with/) [the](/post/the/) software update."
+  - 较小的；次要的。例如: "[The](/zh/post/the/) [minor](/zh/post/minor/) injuries were treated [on](/zh/post/on/) [site](/zh/post/site/)." 
+  - 不重要的；不显著的。例如: "[There](/zh/post/there/) were [some](/zh/post/some/) [minor](/zh/post/minor/) issues [with](/zh/post/with/) [the](/zh/post/the/) software update."
 
 ## 短语
-- "[Minor](/post/minor/) [in](/post/in/) [something](/post/something/)" 意味着在主修之外选择一个辅修专业。
-- "[Minor](/post/minor/) [league](/post/league/)" 在体育中指的是较低级别的联赛。
+- "[Minor](/zh/post/minor/) [in](/zh/post/in/) [something](/zh/post/something/)" 意味着在主修之外选择一个辅修专业。
+- "[Minor](/zh/post/minor/) [league](/zh/post/league/)" 在体育中指的是较低级别的联赛。
 
 ## 例句
-- 名词: "Minors [under](/post/under/) [the](/post/the/) [age](/post/age/) [of](/post/of/) 18 [must](/post/must/) [be](/post/be/) accompanied [by](/post/by/) an [adult](/post/adult/)."
-- 形容词: "[The](/post/the/) [minor](/post/minor/) adjustments made [a](/post/a/) [big](/post/big/) [difference](/post/difference/) [in](/post/in/) [the](/post/the/) [overall](/post/overall/) [performance](/post/performance/)."
+- 名词: "Minors [under](/zh/post/under/) [the](/zh/post/the/) [age](/zh/post/age/) [of](/zh/post/of/) 18 [must](/zh/post/must/) [be](/zh/post/be/) accompanied [by](/zh/post/by/) an [adult](/zh/post/adult/)."
+- 形容词: "[The](/zh/post/the/) [minor](/zh/post/minor/) adjustments made [a](/zh/post/a/) [big](/zh/post/big/) [difference](/zh/post/difference/) [in](/zh/post/in/) [the](/zh/post/the/) [overall](/zh/post/overall/) [performance](/zh/post/performance/)."
 
 ## 同义词
 - Lesser
-- [Secondary](/post/secondary/)
+- [Secondary](/zh/post/secondary/)
 - Insignificant
 - Minor-league
-- [Junior](/post/junior/)
+- [Junior](/zh/post/junior/)

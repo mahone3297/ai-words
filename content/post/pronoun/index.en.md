@@ -7,31 +7,31 @@ description = '[ˈprəunaun] n.代名词'
 keywords = ['ai words', 'pronoun']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈnɒʊn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [expression](/en/post/expression/) [that](/en/post/that/) functions [as](/en/post/as/) [a](/en/post/a/) [substitute](/en/post/substitute/) [for](/en/post/for/) [a](/en/post/a/) [noun](/en/post/noun/), [usually](/en/post/usually/) referring [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/), [place](/en/post/place/), [or](/en/post/or/) [thing](/en/post/thing/), [and](/en/post/and/) [often](/en/post/often/) serving [as](/en/post/as/) [a](/en/post/a/) [subject](/en/post/subject/), [object](/en/post/object/), [or](/en/post/or/) [indirect](/en/post/indirect/) [object](/en/post/object/) [in](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/). Examples: "[She](/en/post/she/) asked [for](/en/post/for/) [a](/en/post/a/) [pronoun](/en/post/pronoun/) [to](/en/post/to/) [use](/en/post/use/) [in](/en/post/in/) [the](/en/post/the/) [story](/en/post/story/)." "[He](/en/post/he/) is [the](/en/post/the/) [subject](/en/post/subject/) [of](/en/post/of/) [our](/en/post/our/) [discussion](/en/post/discussion/)."
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [by](/en/post/by/) [means](/en/post/means/) [of](/en/post/of/) [a](/en/post/a/) [personal](/en/post/personal/) [or](/en/post/or/) reflexive [pronoun](/en/post/pronoun/), [such](/en/post/such/) [as](/en/post/as/) 'I', '[you](/en/post/you/)', '[he](/en/post/he/)', '[she](/en/post/she/)', '[it](/en/post/it/)', '[we](/en/post/we/)', '[they](/en/post/they/)'. [Example](/en/post/example/): "[The](/en/post/the/) [pronoun](/en/post/pronoun/) '[they](/en/post/they/)' is [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) non-binary contexts."
-- **Determiner**: [In](/en/post/in/) [some](/en/post/some/) cases, pronouns [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) determiners, specifying [which](/en/post/which/) [noun](/en/post/noun/) [they](/en/post/they/) [refer](/en/post/refer/) [to](/en/post/to/). [Example](/en/post/example/): "[Each](/en/post/each/) [student](/en/post/student/) has [their](/en/post/their/) [own](/en/post/own/) [book](/en/post/book/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [word](/post/word/) [or](/post/or/) [expression](/post/expression/) [that](/post/that/) functions [as](/post/as/) [a](/post/a/) [substitute](/post/substitute/) [for](/post/for/) [a](/post/a/) [noun](/post/noun/), [usually](/post/usually/) referring [to](/post/to/) [a](/post/a/) [person](/post/person/), [place](/post/place/), [or](/post/or/) [thing](/post/thing/), [and](/post/and/) [often](/post/often/) serving [as](/post/as/) [a](/post/a/) [subject](/post/subject/), [object](/post/object/), [or](/post/or/) [indirect](/post/indirect/) [object](/post/object/) [in](/post/in/) [a](/post/a/) [sentence](/post/sentence/). Examples: "[She](/post/she/) asked [for](/post/for/) [a](/post/a/) [pronoun](/post/pronoun/) [to](/post/to/) [use](/post/use/) [in](/post/in/) [the](/post/the/) [story](/post/story/)." "[He](/post/he/) is [the](/post/the/) [subject](/post/subject/) [of](/post/of/) [our](/post/our/) [discussion](/post/discussion/)."
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [by](/post/by/) [means](/post/means/) [of](/post/of/) [a](/post/a/) [personal](/post/personal/) [or](/post/or/) reflexive [pronoun](/post/pronoun/), [such](/post/such/) [as](/post/as/) 'I', '[you](/post/you/)', '[he](/post/he/)', '[she](/post/she/)', '[it](/post/it/)', '[we](/post/we/)', '[they](/post/they/)'. [Example](/post/example/): "[The](/post/the/) [pronoun](/post/pronoun/) '[they](/post/they/)' is [often](/post/often/) [used](/post/used/) [in](/post/in/) non-binary contexts."
+- **Determiner**: [In](/post/in/) [some](/post/some/) cases, pronouns [can](/post/can/) [function](/post/function/) [as](/post/as/) determiners, specifying [which](/post/which/) [noun](/post/noun/) [they](/post/they/) [refer](/post/refer/) [to](/post/to/). [Example](/post/example/): "[Each](/post/each/) [student](/post/student/) has [their](/post/their/) [own](/post/own/) [book](/post/book/)."
 
 ## Phrases
-- "[Personal](/en/post/personal/) pronouns" ([he](/en/post/he/), [she](/en/post/she/), [it](/en/post/it/), [we](/en/post/we/), [you](/en/post/you/), [they](/en/post/they/))
-- "Reflexive pronouns" ([myself](/en/post/myself/), [yourself](/en/post/yourself/), [himself](/en/post/himself/), [herself](/en/post/herself/), [itself](/en/post/itself/), [ourselves](/en/post/ourselves/), yourselves, [themselves](/en/post/themselves/))
-- "[Indefinite](/en/post/indefinite/) pronouns" ([anyone](/en/post/anyone/), [everyone](/en/post/everyone/), [nobody](/en/post/nobody/), [somebody](/en/post/somebody/), [anything](/en/post/anything/), [everything](/en/post/everything/))
-- "[Relative](/en/post/relative/) pronouns" ([who](/en/post/who/), [whom](/en/post/whom/), [whose](/en/post/whose/), [which](/en/post/which/), [that](/en/post/that/))
+- "[Personal](/post/personal/) pronouns" ([he](/post/he/), [she](/post/she/), [it](/post/it/), [we](/post/we/), [you](/post/you/), [they](/post/they/))
+- "Reflexive pronouns" ([myself](/post/myself/), [yourself](/post/yourself/), [himself](/post/himself/), [herself](/post/herself/), [itself](/post/itself/), [ourselves](/post/ourselves/), yourselves, [themselves](/post/themselves/))
+- "[Indefinite](/post/indefinite/) pronouns" ([anyone](/post/anyone/), [everyone](/post/everyone/), [nobody](/post/nobody/), [somebody](/post/somebody/), [anything](/post/anything/), [everything](/post/everything/))
+- "[Relative](/post/relative/) pronouns" ([who](/post/who/), [whom](/post/whom/), [whose](/post/whose/), [which](/post/which/), [that](/post/that/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [pronoun](/en/post/pronoun/) '[they](/en/post/they/)' [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [singular](/en/post/singular/) [noun](/en/post/noun/) [when](/en/post/when/) gender is [unknown](/en/post/unknown/) [or](/en/post/or/) irrelevant." 
-- **[Adjective](/en/post/adjective/)**: "[In](/en/post/in/) [his](/en/post/his/) [letter](/en/post/letter/), [he](/en/post/he/) referred [to](/en/post/to/) [himself](/en/post/himself/) [in](/en/post/in/) [the](/en/post/the/) [third](/en/post/third/) [person](/en/post/person/)."
-- **Determiner**: "[Choose](/en/post/choose/) [the](/en/post/the/) [appropriate](/en/post/appropriate/) [pronoun](/en/post/pronoun/) [to](/en/post/to/) [complete](/en/post/complete/) [the](/en/post/the/) [sentence](/en/post/sentence/): [She](/en/post/she/) gave [the](/en/post/the/) [book](/en/post/book/) [to](/en/post/to/) **whomever** was interested."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [pronoun](/post/pronoun/) '[they](/post/they/)' [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [singular](/post/singular/) [noun](/post/noun/) [when](/post/when/) gender is [unknown](/post/unknown/) [or](/post/or/) irrelevant." 
+- **[Adjective](/post/adjective/)**: "[In](/post/in/) [his](/post/his/) [letter](/post/letter/), [he](/post/he/) referred [to](/post/to/) [himself](/post/himself/) [in](/post/in/) [the](/post/the/) [third](/post/third/) [person](/post/person/)."
+- **Determiner**: "[Choose](/post/choose/) [the](/post/the/) [appropriate](/post/appropriate/) [pronoun](/post/pronoun/) [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [sentence](/post/sentence/): [She](/post/she/) gave [the](/post/the/) [book](/post/book/) [to](/post/to/) **whomever** was interested."
 
 ## Synonyms
-- **[Noun](/en/post/noun/)**: [Self](/en/post/self/), [One](/en/post/one/), [Someone](/en/post/someone/), [Everybody](/en/post/everybody/), [Anybody](/en/post/anybody/), [Nobody](/en/post/nobody/), [Each](/en/post/each/), [All](/en/post/all/)
-- **[Adjective](/en/post/adjective/)**: [Own](/en/post/own/), [Personal](/en/post/personal/), [Proper](/en/post/proper/), [Appropriate](/en/post/appropriate/)
-- **Determiner**: [Certain](/en/post/certain/), Specified, Designated
+- **[Noun](/post/noun/)**: [Self](/post/self/), [One](/post/one/), [Someone](/post/someone/), [Everybody](/post/everybody/), [Anybody](/post/anybody/), [Nobody](/post/nobody/), [Each](/post/each/), [All](/post/all/)
+- **[Adjective](/post/adjective/)**: [Own](/post/own/), [Personal](/post/personal/), [Proper](/post/proper/), [Appropriate](/post/appropriate/)
+- **Determiner**: [Certain](/post/certain/), Specified, Designated
 
 ## Antonyms
-- **[Noun](/en/post/noun/)**: [Other](/en/post/other/), Anonymous, Generic
-- **[Adjective](/en/post/adjective/)**: Impersonal, [Collective](/en/post/collective/)
+- **[Noun](/post/noun/)**: [Other](/post/other/), Anonymous, Generic
+- **[Adjective](/post/adjective/)**: Impersonal, [Collective](/post/collective/)
 - **Determiner**: Indeterminate, Unspecified

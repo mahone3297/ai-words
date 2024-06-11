@@ -7,31 +7,31 @@ description = '[ˌeliˈmentəri] a.基本的；初级的'
 keywords = ['ai words', 'elementary']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌelɪmənˈteri/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [the](/en/post/the/) [basic](/en/post/basic/) [or](/en/post/or/) [fundamental](/en/post/fundamental/) aspects [of](/en/post/of/) [something](/en/post/something/); [not](/en/post/not/) [complex](/en/post/complex/) [or](/en/post/or/) [advanced](/en/post/advanced/). [For](/en/post/for/) [example](/en/post/example/): "[Elementary](/en/post/elementary/) [mathematics](/en/post/mathematics/) includes [addition](/en/post/addition/), subtraction, multiplication, [and](/en/post/and/) [division](/en/post/division/)."
-  - _In [education](/en/post/education/):_ Pertaining [to](/en/post/to/) [the](/en/post/the/) [first](/en/post/first/) [few](/en/post/few/) years [of](/en/post/of/) [formal](/en/post/formal/) schooling, typically covering [basic](/en/post/basic/) subjects. [Example](/en/post/example/): "[Elementary](/en/post/elementary/) [school](/en/post/school/) prepares children [for](/en/post/for/) [more](/en/post/more/) [advanced](/en/post/advanced/) [learning](/en/post/learning/)."
-  - _In [science](/en/post/science/):_ Relating [to](/en/post/to/) [the](/en/post/the/) simplest [or](/en/post/or/) [most](/en/post/most/) [fundamental](/en/post/fundamental/) constituents [of](/en/post/of/) [matter](/en/post/matter/) [or](/en/post/or/) [energy](/en/post/energy/). [Example](/en/post/example/): "[Elementary](/en/post/elementary/) particles [make](/en/post/make/) [up](/en/post/up/) [all](/en/post/all/) known [matter](/en/post/matter/) [in](/en/post/in/) [the](/en/post/the/) [universe](/en/post/universe/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [the](/post/the/) [basic](/post/basic/) [or](/post/or/) [fundamental](/post/fundamental/) aspects [of](/post/of/) [something](/post/something/); [not](/post/not/) [complex](/post/complex/) [or](/post/or/) [advanced](/post/advanced/). [For](/post/for/) [example](/post/example/): "[Elementary](/post/elementary/) [mathematics](/post/mathematics/) includes [addition](/post/addition/), subtraction, multiplication, [and](/post/and/) [division](/post/division/)."
+  - _In [education](/post/education/):_ Pertaining [to](/post/to/) [the](/post/the/) [first](/post/first/) [few](/post/few/) years [of](/post/of/) [formal](/post/formal/) schooling, typically covering [basic](/post/basic/) subjects. [Example](/post/example/): "[Elementary](/post/elementary/) [school](/post/school/) prepares children [for](/post/for/) [more](/post/more/) [advanced](/post/advanced/) [learning](/post/learning/)."
+  - _In [science](/post/science/):_ Relating [to](/post/to/) [the](/post/the/) simplest [or](/post/or/) [most](/post/most/) [fundamental](/post/fundamental/) constituents [of](/post/of/) [matter](/post/matter/) [or](/post/or/) [energy](/post/energy/). [Example](/post/example/): "[Elementary](/post/elementary/) particles [make](/post/make/) [up](/post/up/) [all](/post/all/) known [matter](/post/matter/) [in](/post/in/) [the](/post/the/) [universe](/post/universe/)."
 
-- **[Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: [The](/en/post/the/) elements [or](/en/post/or/) rudiments [of](/en/post/of/) [a](/en/post/a/) [subject](/en/post/subject/); basics. [Example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) started [with](/en/post/with/) [the](/en/post/the/) [elementary](/en/post/elementary/) [of](/en/post/of/) [chemistry](/en/post/chemistry/) [before](/en/post/before/) moving [on](/en/post/on/) [to](/en/post/to/) [complex](/en/post/complex/) theories."
+- **[Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))**: [The](/post/the/) elements [or](/post/or/) rudiments [of](/post/of/) [a](/post/a/) [subject](/post/subject/); basics. [Example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) started [with](/post/with/) [the](/post/the/) [elementary](/post/elementary/) [of](/post/of/) [chemistry](/post/chemistry/) [before](/post/before/) moving [on](/post/on/) [to](/post/to/) [complex](/post/complex/) theories."
 
 ## Phrases
-- "[Elementary](/en/post/elementary/), [my](/en/post/my/) [dear](/en/post/dear/) Watson": [A](/en/post/a/) [famous](/en/post/famous/) [quote](/en/post/quote/) [from](/en/post/from/) Arthur Conan Doyle's Sherlock Holmes stories, [used](/en/post/used/) [by](/en/post/by/) Holmes [when](/en/post/when/) [he](/en/post/he/) has solved [a](/en/post/a/) [mystery](/en/post/mystery/) [that](/en/post/that/) seems [simple](/en/post/simple/) [but](/en/post/but/) [may](/en/post/may/) [have](/en/post/have/) eluded others.
+- "[Elementary](/post/elementary/), [my](/post/my/) [dear](/post/dear/) Watson": [A](/post/a/) [famous](/post/famous/) [quote](/post/quote/) [from](/post/from/) Arthur Conan Doyle's Sherlock Holmes stories, [used](/post/used/) [by](/post/by/) Holmes [when](/post/when/) [he](/post/he/) has solved [a](/post/a/) [mystery](/post/mystery/) [that](/post/that/) seems [simple](/post/simple/) [but](/post/but/) [may](/post/may/) [have](/post/have/) eluded others.
   
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Understanding](/en/post/understanding/) [the](/en/post/the/) [elementary](/en/post/elementary/) principles [of](/en/post/of/) [physics](/en/post/physics/) is crucial [for](/en/post/for/) [scientific](/en/post/scientific/) literacy."
-- _As [Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))_ : "[Learning](/en/post/learning/) [the](/en/post/the/) [elementary](/en/post/elementary/) [of](/en/post/of/) programming languages was [the](/en/post/the/) [first](/en/post/first/) [step](/en/post/step/) towards becoming [a](/en/post/a/) software [engineer](/en/post/engineer/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Understanding](/post/understanding/) [the](/post/the/) [elementary](/post/elementary/) principles [of](/post/of/) [physics](/post/physics/) is crucial [for](/post/for/) [scientific](/post/scientific/) literacy."
+- _As [Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))_ : "[Learning](/post/learning/) [the](/post/the/) [elementary](/post/elementary/) [of](/post/of/) programming languages was [the](/post/the/) [first](/post/first/) [step](/post/step/) towards becoming [a](/post/a/) software [engineer](/post/engineer/)."
 
 ## Synonyms
-- [Basic](/en/post/basic/)
-- [Fundamental](/en/post/fundamental/)
-- [Simple](/en/post/simple/)
+- [Basic](/post/basic/)
+- [Fundamental](/post/fundamental/)
+- [Simple](/post/simple/)
 - Rudimentary
 - Primer
 - ABCs (informal)
 - Fundamentals
 - Essentials
 - Groundwork
-- Basics [of](/en/post/of/)
+- Basics [of](/post/of/)

@@ -11,21 +11,21 @@ keywords = ['ai words', 'catalog']
 /ˈkætəlɔːg/
 
 ## 释义
-- **名词**: 一份详细列举物品、主题或信息的清单或目录。例如: "[The](/post/the/) [library](/post/library/) has an online [catalog](/post/catalog/) [of](/post/of/) [all](/post/all/) [its](/post/its/) books."
-- **动词**: 列入目录或编目。例如: "[The](/post/the/) archivist is cataloging [the](/post/the/) [ancient](/post/ancient/) artifacts."
+- **名词**: 一份详细列举物品、主题或信息的清单或目录。例如: "[The](/zh/post/the/) [library](/zh/post/library/) has an online [catalog](/zh/post/catalog/) [of](/zh/post/of/) [all](/zh/post/all/) [its](/zh/post/its/) books."
+- **动词**: 列入目录或编目。例如: "[The](/zh/post/the/) archivist is cataloging [the](/zh/post/the/) [ancient](/zh/post/ancient/) artifacts."
 
 ## 短语
-- "[Catalog](/post/catalog/) [entry](/post/entry/)" 指目录中的条目。
+- "[Catalog](/zh/post/catalog/) [entry](/zh/post/entry/)" 指目录中的条目。
 - "Catalogue raisonné" 是对艺术家作品的详尽分类和记录。
-- "[Catalog](/post/catalog/) [shopping](/post/shopping/)" 指通过商品目录进行邮购购物。
+- "[Catalog](/zh/post/catalog/) [shopping](/zh/post/shopping/)" 指通过商品目录进行邮购购物。
 
 ## 例句
-- 名词: "I [found](/post/found/) [the](/post/the/) [book](/post/book/) I needed [in](/post/in/) [the](/post/the/) [library](/post/library/) [catalog](/post/catalog/)."
-- 动词: "[She](/post/she/) spent hours cataloging [the](/post/the/) [rare](/post/rare/) coins [in](/post/in/) [her](/post/her/) [collection](/post/collection/)."
+- 名词: "I [found](/zh/post/found/) [the](/zh/post/the/) [book](/zh/post/book/) I needed [in](/zh/post/in/) [the](/zh/post/the/) [library](/zh/post/library/) [catalog](/zh/post/catalog/)."
+- 动词: "[She](/zh/post/she/) spent hours cataloging [the](/zh/post/the/) [rare](/zh/post/rare/) coins [in](/zh/post/in/) [her](/zh/post/her/) [collection](/zh/post/collection/)."
 
 ## 同义词
-- [List](/post/list/)
+- [List](/zh/post/list/)
 - Directory
-- [Index](/post/index/)
-- [Register](/post/register/)
+- [Index](/zh/post/index/)
+- [Register](/zh/post/register/)
 - Inventory

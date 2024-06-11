@@ -7,41 +7,41 @@ description = '[ˈ(h)waitwɔ∫] vt.粉刷，涂白'
 keywords = ['ai words', 'whitewash']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwɪtˌweɪʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [whitewash](/en/post/whitewash/) refers [to](/en/post/to/):
-1. [A](/en/post/a/) [thin](/en/post/thin/), [usually](/en/post/usually/) [white](/en/post/white/) [paint](/en/post/paint/) made [of](/en/post/of/) [water](/en/post/water/), [lime](/en/post/lime/), [or](/en/post/or/) [other](/en/post/other/) materials, [used](/en/post/used/) [for](/en/post/for/) covering [or](/en/post/or/) disguising surfaces (e.g., walls, errors, [or](/en/post/or/) corruption).
-2. An [attempt](/en/post/attempt/) [to](/en/post/to/) [deceive](/en/post/deceive/) [or](/en/post/or/) [cover](/en/post/cover/) [up](/en/post/up/) [something](/en/post/something/) [by](/en/post/by/) pretending [it](/en/post/it/) is [innocent](/en/post/innocent/) [or](/en/post/or/) unimportant (e.g., [a](/en/post/a/) whitewashed [history](/en/post/history/)).
+### [Noun](/post/noun/)
+[A](/post/a/) [whitewash](/post/whitewash/) refers [to](/post/to/):
+1. [A](/post/a/) [thin](/post/thin/), [usually](/post/usually/) [white](/post/white/) [paint](/post/paint/) made [of](/post/of/) [water](/post/water/), [lime](/post/lime/), [or](/post/or/) [other](/post/other/) materials, [used](/post/used/) [for](/post/for/) covering [or](/post/or/) disguising surfaces (e.g., walls, errors, [or](/post/or/) corruption).
+2. An [attempt](/post/attempt/) [to](/post/to/) [deceive](/post/deceive/) [or](/post/or/) [cover](/post/cover/) [up](/post/up/) [something](/post/something/) [by](/post/by/) pretending [it](/post/it/) is [innocent](/post/innocent/) [or](/post/or/) unimportant (e.g., [a](/post/a/) whitewashed [history](/post/history/)).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [whitewash](/en/post/whitewash/) [means](/en/post/means/):
-1. [To](/en/post/to/) [apply](/en/post/apply/) [a](/en/post/a/) [coat](/en/post/coat/) [of](/en/post/of/) [whitewash](/en/post/whitewash/) [to](/en/post/to/) [a](/en/post/a/) [surface](/en/post/surface/) ([painting](/en/post/painting/)).
-2. [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [appear](/en/post/appear/) [better](/en/post/better/) [or](/en/post/or/) [more](/en/post/more/) [acceptable](/en/post/acceptable/) [than](/en/post/than/) [it](/en/post/it/) is, [often](/en/post/often/) [through](/en/post/through/) dishonesty [or](/en/post/or/) concealment (e.g., whitewashing [a](/en/post/a/) scandal).
+### [Verb](/post/verb/)
+[To](/post/to/) [whitewash](/post/whitewash/) [means](/post/means/):
+1. [To](/post/to/) [apply](/post/apply/) [a](/post/a/) [coat](/post/coat/) [of](/post/of/) [whitewash](/post/whitewash/) [to](/post/to/) [a](/post/a/) [surface](/post/surface/) ([painting](/post/painting/)).
+2. [To](/post/to/) [make](/post/make/) [something](/post/something/) [appear](/post/appear/) [better](/post/better/) [or](/post/or/) [more](/post/more/) [acceptable](/post/acceptable/) [than](/post/than/) [it](/post/it/) is, [often](/post/often/) [through](/post/through/) dishonesty [or](/post/or/) concealment (e.g., whitewashing [a](/post/a/) scandal).
 
-### [Adjective](/en/post/adjective/)
-Whitewashed describes [something](/en/post/something/) [that](/en/post/that/) has been painted [with](/en/post/with/) [whitewash](/en/post/whitewash/) [or](/en/post/or/) is characterized [by](/en/post/by/) [a](/en/post/a/) [superficial](/en/post/superficial/) [or](/en/post/or/) misleading [appearance](/en/post/appearance/).
+### [Adjective](/post/adjective/)
+Whitewashed describes [something](/post/something/) [that](/post/that/) has been painted [with](/post/with/) [whitewash](/post/whitewash/) [or](/post/or/) is characterized [by](/post/by/) [a](/post/a/) [superficial](/post/superficial/) [or](/post/or/) misleading [appearance](/post/appearance/).
 
 ## Phrases
-- "[Whitewash](/en/post/whitewash/) [a](/en/post/a/) scandal" implies hiding [or](/en/post/or/) obscuring [the](/en/post/the/) [truth](/en/post/truth/).
-- "[A](/en/post/a/) whitewashed [wall](/en/post/wall/)" refers [to](/en/post/to/) [a](/en/post/a/) freshly painted [surface](/en/post/surface/).
-- "[The](/en/post/the/) [story](/en/post/story/) was whitewashed [by](/en/post/by/) [the](/en/post/the/) media" suggests censorship [or](/en/post/or/) distortion.
+- "[Whitewash](/post/whitewash/) [a](/post/a/) scandal" implies hiding [or](/post/or/) obscuring [the](/post/the/) [truth](/post/truth/).
+- "[A](/post/a/) whitewashed [wall](/post/wall/)" refers [to](/post/to/) [a](/post/a/) freshly painted [surface](/post/surface/).
+- "[The](/post/the/) [story](/post/story/) was whitewashed [by](/post/by/) [the](/post/the/) media" suggests censorship [or](/post/or/) distortion.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) needed [a](/en/post/a/) [fresh](/en/post/fresh/) [coat](/en/post/coat/) [of](/en/post/of/) [whitewash](/en/post/whitewash/) [to](/en/post/to/) [restore](/en/post/restore/) [its](/en/post/its/) [original](/en/post/original/) charm."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) politician's promises were seen [as](/en/post/as/) [a](/en/post/a/) [mere](/en/post/mere/) [attempt](/en/post/attempt/) [to](/en/post/to/) [whitewash](/en/post/whitewash/) [their](/en/post/their/) [past](/en/post/past/) misdeeds."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) committee's [report](/en/post/report/) was criticized [for](/en/post/for/) [being](/en/post/being/) [a](/en/post/a/) [whitewash](/en/post/whitewash/) [of](/en/post/of/) [the](/en/post/the/) [real](/en/post/real/) issues."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [house](/post/house/) needed [a](/post/a/) [fresh](/post/fresh/) [coat](/post/coat/) [of](/post/of/) [whitewash](/post/whitewash/) [to](/post/to/) [restore](/post/restore/) [its](/post/its/) [original](/post/original/) charm."
+- **[Verb](/post/verb/)**: "[The](/post/the/) politician's promises were seen [as](/post/as/) [a](/post/a/) [mere](/post/mere/) [attempt](/post/attempt/) [to](/post/to/) [whitewash](/post/whitewash/) [their](/post/their/) [past](/post/past/) misdeeds."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) committee's [report](/post/report/) was criticized [for](/post/for/) [being](/post/being/) [a](/post/a/) [whitewash](/post/whitewash/) [of](/post/of/) [the](/post/the/) [real](/post/real/) issues."
 
 ## Synonyms
-- [Conceal](/en/post/conceal/)
-- [Cover](/en/post/cover/) [up](/en/post/up/)
-- [Spin](/en/post/spin/)
-- [Dress](/en/post/dress/) [up](/en/post/up/)
-- Cleanse ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) making [something](/en/post/something/) [appear](/en/post/appear/) [pure](/en/post/pure/))
+- [Conceal](/post/conceal/)
+- [Cover](/post/cover/) [up](/post/up/)
+- [Spin](/post/spin/)
+- [Dress](/post/dress/) [up](/post/up/)
+- Cleanse ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) making [something](/post/something/) [appear](/post/appear/) [pure](/post/pure/))
 
 ## Antonyms
-- [Expose](/en/post/expose/)
-- [Uncover](/en/post/uncover/)
--坦白 ([In](/en/post/in/) Chinese, [meaning](/en/post/meaning/) [to](/en/post/to/) [reveal](/en/post/reveal/) [the](/en/post/the/) [truth](/en/post/truth/))
+- [Expose](/post/expose/)
+- [Uncover](/post/uncover/)
+-坦白 ([In](/post/in/) Chinese, [meaning](/post/meaning/) [to](/post/to/) [reveal](/post/reveal/) [the](/post/the/) [truth](/post/truth/))

@@ -7,32 +7,32 @@ description = '[diˈpɑːt] vi.离开，起程；出发'
 keywords = ['ai words', 'depart']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈpɑːrt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) leaving, departing, [or](/en/post/or/) going [away](/en/post/away/) [from](/en/post/from/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [location](/en/post/location/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) [ceremony](/en/post/ceremony/), [they](/en/post/they/) prepared [to](/en/post/to/) [depart](/en/post/depart/) [for](/en/post/for/) [their](/en/post/their/) [honeymoon](/en/post/honeymoon/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [leave](/en/post/leave/) [or](/en/post/or/) [go](/en/post/go/) [away](/en/post/away/) [from](/en/post/from/) [a](/en/post/a/) [place](/en/post/place/), [usually](/en/post/usually/) [on](/en/post/on/) [purpose](/en/post/purpose/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [will](/en/post/will/) [depart](/en/post/depart/) [early](/en/post/early/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/) [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [train](/en/post/train/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [departure](/en/post/departure/) [or](/en/post/or/) [departure](/en/post/departure/) [from](/en/post/from/) [a](/en/post/a/) norm [or](/en/post/or/) [usual](/en/post/usual/) [state](/en/post/state/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's [recent](/en/post/recent/) departures [from](/en/post/from/) [tradition](/en/post/tradition/) [have](/en/post/have/) been [significant](/en/post/significant/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) leaving, departing, [or](/post/or/) going [away](/post/away/) [from](/post/from/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [location](/post/location/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) [the](/post/the/) [ceremony](/post/ceremony/), [they](/post/they/) prepared [to](/post/to/) [depart](/post/depart/) [for](/post/for/) [their](/post/their/) [honeymoon](/post/honeymoon/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [leave](/post/leave/) [or](/post/or/) [go](/post/go/) [away](/post/away/) [from](/post/from/) [a](/post/a/) [place](/post/place/), [usually](/post/usually/) [on](/post/on/) [purpose](/post/purpose/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) [will](/post/will/) [depart](/post/depart/) [early](/post/early/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [train](/post/train/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [departure](/post/departure/) [or](/post/or/) [departure](/post/departure/) [from](/post/from/) [a](/post/a/) norm [or](/post/or/) [usual](/post/usual/) [state](/post/state/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's [recent](/post/recent/) departures [from](/post/from/) [tradition](/post/tradition/) [have](/post/have/) been [significant](/post/significant/)."
 
 ## Phrases
-- "[Depart](/en/post/depart/) [for](/en/post/for/) [a](/en/post/a/) [destination](/en/post/destination/)" [means](/en/post/means/) [to](/en/post/to/) [leave](/en/post/leave/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/).
-- "[Departure](/en/post/departure/) [time](/en/post/time/)" refers [to](/en/post/to/) [the](/en/post/the/) scheduled [time](/en/post/time/) [to](/en/post/to/) [leave](/en/post/leave/).
-- "Departing employees" are [those](/en/post/those/) [who](/en/post/who/) are leaving [a](/en/post/a/) [job](/en/post/job/) [or](/en/post/or/) [organization](/en/post/organization/).
+- "[Depart](/post/depart/) [for](/post/for/) [a](/post/a/) [destination](/post/destination/)" [means](/post/means/) [to](/post/to/) [leave](/post/leave/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/).
+- "[Departure](/post/departure/) [time](/post/time/)" refers [to](/post/to/) [the](/post/the/) scheduled [time](/post/time/) [to](/post/to/) [leave](/post/leave/).
+- "Departing employees" are [those](/post/those/) [who](/post/who/) are leaving [a](/post/a/) [job](/post/job/) [or](/post/or/) [organization](/post/organization/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) ship's [departure](/en/post/departure/) was delayed [due](/en/post/due/) [to](/en/post/to/) [bad](/en/post/bad/) [weather](/en/post/weather/)."
-- **[Verb](/en/post/verb/)**: "We'll [depart](/en/post/depart/) [tomorrow](/en/post/tomorrow/), [so](/en/post/so/) [make](/en/post/make/) [sure](/en/post/sure/) [your](/en/post/your/) [luggage](/en/post/luggage/) is packed."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [sudden](/en/post/sudden/) [departure](/en/post/departure/) [left](/en/post/left/) [us](/en/post/us/) surprised."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) ship's [departure](/post/departure/) was delayed [due](/post/due/) [to](/post/to/) [bad](/post/bad/) [weather](/post/weather/)."
+- **[Verb](/post/verb/)**: "We'll [depart](/post/depart/) [tomorrow](/post/tomorrow/), [so](/post/so/) [make](/post/make/) [sure](/post/sure/) [your](/post/your/) [luggage](/post/luggage/) is packed."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [sudden](/post/sudden/) [departure](/post/departure/) [left](/post/left/) [us](/post/us/) surprised."
 
 ## Synonyms
-- [Departure](/en/post/departure/)
-- [Exit](/en/post/exit/)
-- [Exit](/en/post/exit/) [stage](/en/post/stage/)
+- [Departure](/post/departure/)
+- [Exit](/post/exit/)
+- [Exit](/post/exit/) [stage](/post/stage/)
 - Withdrawal
-- [Farewell](/en/post/farewell/)
-- [Depart](/en/post/depart/)
+- [Farewell](/post/farewell/)
+- [Depart](/post/depart/)
 - Disembark
-- [Set](/en/post/set/) [sail](/en/post/sail/)
-- [Board](/en/post/board/)
-- [Take](/en/post/take/) [off](/en/post/off/)
+- [Set](/post/set/) [sail](/post/sail/)
+- [Board](/post/board/)
+- [Take](/post/take/) [off](/post/off/)

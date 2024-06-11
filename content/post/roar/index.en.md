@@ -7,40 +7,40 @@ description = '[rɔː] vi.吼叫；呼喊 n.吼'
 keywords = ['ai words', 'roar']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /roʊər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Roar](/en/post/roar/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [loud](/en/post/loud/), [deep](/en/post/deep/), [and](/en/post/and/) [powerful](/en/post/powerful/) [sound](/en/post/sound/), typically produced [by](/en/post/by/) [a](/en/post/a/) [large](/en/post/large/) [animal](/en/post/animal/), [a](/en/post/a/) [machine](/en/post/machine/), [or](/en/post/or/) [enthusiastic](/en/post/enthusiastic/) [people](/en/post/people/) expressing excitement [or](/en/post/or/) [anger](/en/post/anger/). 
-- **[Loud](/en/post/loud/) [cheer](/en/post/cheer/) [or](/en/post/or/) applause** ([example](/en/post/example/)): "[The](/en/post/the/) [crowd](/en/post/crowd/) roared [with](/en/post/with/) [approval](/en/post/approval/) [after](/en/post/after/) [the](/en/post/the/) [performance](/en/post/performance/)."
+### [Noun](/post/noun/)
+- **[Roar](/post/roar/)** ([noun](/post/noun/)): [A](/post/a/) [loud](/post/loud/), [deep](/post/deep/), [and](/post/and/) [powerful](/post/powerful/) [sound](/post/sound/), typically produced [by](/post/by/) [a](/post/a/) [large](/post/large/) [animal](/post/animal/), [a](/post/a/) [machine](/post/machine/), [or](/post/or/) [enthusiastic](/post/enthusiastic/) [people](/post/people/) expressing excitement [or](/post/or/) [anger](/post/anger/). 
+- **[Loud](/post/loud/) [cheer](/post/cheer/) [or](/post/or/) applause** ([example](/post/example/)): "[The](/post/the/) [crowd](/post/crowd/) roared [with](/post/with/) [approval](/post/approval/) [after](/post/after/) [the](/post/the/) [performance](/post/performance/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [roar](/en/post/roar/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [emit](/en/post/emit/) [a](/en/post/a/) [loud](/en/post/loud/), rumbling [noise](/en/post/noise/), [especially](/en/post/especially/) [from](/en/post/from/) one's [throat](/en/post/throat/) [or](/en/post/or/) [engine](/en/post/engine/); [to](/en/post/to/) [express](/en/post/express/) [or](/en/post/or/) [show](/en/post/show/) [strong](/en/post/strong/) [emotion](/en/post/emotion/), [often](/en/post/often/) [anger](/en/post/anger/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/), vocally.
-- **[The](/en/post/the/) [lion](/en/post/lion/) roared fiercely [at](/en/post/at/) [the](/en/post/the/) approaching tourists.**
+### [Verb](/post/verb/)
+- **[To](/post/to/) [roar](/post/roar/)** ([verb](/post/verb/)): [To](/post/to/) [emit](/post/emit/) [a](/post/a/) [loud](/post/loud/), rumbling [noise](/post/noise/), [especially](/post/especially/) [from](/post/from/) one's [throat](/post/throat/) [or](/post/or/) [engine](/post/engine/); [to](/post/to/) [express](/post/express/) [or](/post/or/) [show](/post/show/) [strong](/post/strong/) [emotion](/post/emotion/), [often](/post/often/) [anger](/post/anger/) [or](/post/or/) [enthusiasm](/post/enthusiasm/), vocally.
+- **[The](/post/the/) [lion](/post/lion/) roared fiercely [at](/post/at/) [the](/post/the/) approaching tourists.**
 
-### [Adjective](/en/post/adjective/)
-- **Roaring** ([adjective](/en/post/adjective/)): Characterized [by](/en/post/by/) [a](/en/post/a/) [loud](/en/post/loud/), [continuous](/en/post/continuous/) [noise](/en/post/noise/); [powerful](/en/post/powerful/) [or](/en/post/or/) [intense](/en/post/intense/).
-- "[The](/en/post/the/) roaring [fire](/en/post/fire/) kept [them](/en/post/them/) [warm](/en/post/warm/) [on](/en/post/on/) [a](/en/post/a/) [cold](/en/post/cold/) [night](/en/post/night/)."
+### [Adjective](/post/adjective/)
+- **Roaring** ([adjective](/post/adjective/)): Characterized [by](/post/by/) [a](/post/a/) [loud](/post/loud/), [continuous](/post/continuous/) [noise](/post/noise/); [powerful](/post/powerful/) [or](/post/or/) [intense](/post/intense/).
+- "[The](/post/the/) roaring [fire](/post/fire/) kept [them](/post/them/) [warm](/post/warm/) [on](/post/on/) [a](/post/a/) [cold](/post/cold/) [night](/post/night/)."
 
-### [Adverb](/en/post/adverb/)
-- **Roaringly** ([adverb](/en/post/adverb/)): [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) is [loud](/en/post/loud/) [and](/en/post/and/) [continuous](/en/post/continuous/); powerfully.
-- "[The](/en/post/the/) [wind](/en/post/wind/) was roaring [through](/en/post/through/) [the](/en/post/the/) trees."
+### [Adverb](/post/adverb/)
+- **Roaringly** ([adverb](/post/adverb/)): [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) is [loud](/post/loud/) [and](/post/and/) [continuous](/post/continuous/); powerfully.
+- "[The](/post/the/) [wind](/post/wind/) was roaring [through](/post/through/) [the](/post/the/) trees."
 
 ## Phrases
-- "[Let](/en/post/let/) [out](/en/post/out/) [a](/en/post/a/) [roar](/en/post/roar/) [of](/en/post/of/) [laughter](/en/post/laughter/)" [means](/en/post/means/) [to](/en/post/to/) [laugh](/en/post/laugh/) loudly [and](/en/post/and/) heartily.
-- "[The](/en/post/the/) [engine](/en/post/engine/) roared [to](/en/post/to/) [life](/en/post/life/)."
-- "[A](/en/post/a/) deafening [roar](/en/post/roar/) filled [the](/en/post/the/) [stadium](/en/post/stadium/)."
+- "[Let](/post/let/) [out](/post/out/) [a](/post/a/) [roar](/post/roar/) [of](/post/of/) [laughter](/post/laughter/)" [means](/post/means/) [to](/post/to/) [laugh](/post/laugh/) loudly [and](/post/and/) heartily.
+- "[The](/post/the/) [engine](/post/engine/) roared [to](/post/to/) [life](/post/life/)."
+- "[A](/post/a/) deafening [roar](/post/roar/) filled [the](/post/the/) [stadium](/post/stadium/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) baby狮子's [roar](/en/post/roar/) echoed [through](/en/post/through/) [the](/en/post/the/) [forest](/en/post/forest/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) winning [the](/en/post/the/) [game](/en/post/game/), [the](/en/post/the/) fans roared [their](/en/post/their/) [support](/en/post/support/) [for](/en/post/for/) [the](/en/post/the/) [team](/en/post/team/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [lion](/en/post/lion/) was [a](/en/post/a/) majestic [creature](/en/post/creature/), [its](/en/post/its/) [roar](/en/post/roar/) resounding [across](/en/post/across/) [the](/en/post/the/) savannah."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) baby狮子's [roar](/post/roar/) echoed [through](/post/through/) [the](/post/the/) [forest](/post/forest/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) winning [the](/post/the/) [game](/post/game/), [the](/post/the/) fans roared [their](/post/their/) [support](/post/support/) [for](/post/for/) [the](/post/the/) [team](/post/team/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [lion](/post/lion/) was [a](/post/a/) majestic [creature](/post/creature/), [its](/post/its/) [roar](/post/roar/) resounding [across](/post/across/) [the](/post/the/) savannah."
 
 ## Synonyms
 - Bellow
-- [Shout](/en/post/shout/)
+- [Shout](/post/shout/)
 - Grumble
-- [Roar](/en/post/roar/) [out](/en/post/out/)
-- [Exclaim](/en/post/exclaim/) loudly
-- Unleash [a](/en/post/a/) [roar](/en/post/roar/)
+- [Roar](/post/roar/) [out](/post/out/)
+- [Exclaim](/post/exclaim/) loudly
+- Unleash [a](/post/a/) [roar](/post/roar/)

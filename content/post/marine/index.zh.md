@@ -12,22 +12,22 @@ keywords = ['ai words', 'marine']
 
 ## 释义
 - **名词**:
-   - 海军：[The](/post/the/) [marine](/post/marine/) is [part](/post/part/) [of](/post/of/) [the](/post/the/) country's armed forces.
-   - 海军陆战队：[The](/post/the/) marines are known [for](/post/for/) [their](/post/their/) rigorous [training](/post/training/) [and](/post/and/) [discipline](/post/discipline/).
-   - 海洋生物：[Marine](/post/marine/) [life](/post/life/) [in](/post/in/) [this](/post/this/) [region](/post/region/) is incredibly [diverse](/post/diverse/).
+   - 海军：[The](/zh/post/the/) [marine](/zh/post/marine/) is [part](/zh/post/part/) [of](/zh/post/of/) [the](/zh/post/the/) country's armed forces.
+   - 海军陆战队：[The](/zh/post/the/) marines are known [for](/zh/post/for/) [their](/zh/post/their/) rigorous [training](/zh/post/training/) [and](/zh/post/and/) [discipline](/zh/post/discipline/).
+   - 海洋生物：[Marine](/zh/post/marine/) [life](/zh/post/life/) [in](/zh/post/in/) [this](/zh/post/this/) [region](/zh/post/region/) is incredibly [diverse](/zh/post/diverse/).
 
 - **形容词**:
-   - 海的；海洋的：[The](/post/the/) [marine](/post/marine/) ecosystem is [vital](/post/vital/) [to](/post/to/) [the](/post/the/) planet's [health](/post/health/).
-   - 船上的；航海的：[They](/post/they/) [used](/post/used/) [marine](/post/marine/) [navigation](/post/navigation/) tools [to](/post/to/) [find](/post/find/) [their](/post/their/) [way](/post/way/).
+   - 海的；海洋的：[The](/zh/post/the/) [marine](/zh/post/marine/) ecosystem is [vital](/zh/post/vital/) [to](/zh/post/to/) [the](/zh/post/the/) planet's [health](/zh/post/health/).
+   - 船上的；航海的：[They](/zh/post/they/) [used](/zh/post/used/) [marine](/zh/post/marine/) [navigation](/zh/post/navigation/) tools [to](/zh/post/to/) [find](/zh/post/find/) [their](/zh/post/their/) [way](/zh/post/way/).
 
 ## 短语
-- "[marine](/post/marine/) biologist" 海洋生物学家
-- "[marine](/post/marine/) [conservation](/post/conservation/)" 海洋保护
-- "[marine](/post/marine/) corps" 海军陆战队
+- "[marine](/zh/post/marine/) biologist" 海洋生物学家
+- "[marine](/zh/post/marine/) [conservation](/zh/post/conservation/)" 海洋保护
+- "[marine](/zh/post/marine/) corps" 海军陆战队
 
 ## 例句
-- 名词: "[He](/post/he/) served [in](/post/in/) [the](/post/the/) [marine](/post/marine/) corps [for](/post/for/) [six](/post/six/) years."
-- 形容词: "[The](/post/the/) [marine](/post/marine/) [environment](/post/environment/) is [harsh](/post/harsh/) [and](/post/and/) unforgiving."
+- 名词: "[He](/zh/post/he/) served [in](/zh/post/in/) [the](/zh/post/the/) [marine](/zh/post/marine/) corps [for](/zh/post/for/) [six](/zh/post/six/) years."
+- 形容词: "[The](/zh/post/the/) [marine](/zh/post/marine/) [environment](/zh/post/environment/) is [harsh](/zh/post/harsh/) [and](/zh/post/and/) unforgiving."
 
 ## 同义词
 - Sea-related

@@ -7,30 +7,30 @@ description = '[biːf] n.牛肉；菜牛'
 keywords = ['ai words', 'beef']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /biːf/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [Beef](/en/post/beef/) is [a](/en/post/a/) __noun__ referring [to](/en/post/to/) [the](/en/post/the/) [flesh](/en/post/flesh/) [and](/en/post/and/) [meat](/en/post/meat/) [of](/en/post/of/) domesticated [cattle](/en/post/cattle/), [usually](/en/post/usually/) [from](/en/post/from/) [the](/en/post/the/) hindquarter, [used](/en/post/used/) [as](/en/post/as/) [food](/en/post/food/). ([Cattle](/en/post/cattle/): Bos taurus)
-2. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) [someone](/en/post/someone/) [who](/en/post/who/) is stubborn [or](/en/post/or/) has [a](/en/post/a/) [strong](/en/post/strong/) [opinion](/en/post/opinion/). ([Person](/en/post/person/): He's [a](/en/post/a/) [real](/en/post/real/) [piece](/en/post/piece/) [of](/en/post/of/) [beef](/en/post/beef/).)
+### [Noun](/post/noun/)
+1. [Beef](/post/beef/) is [a](/post/a/) __noun__ referring [to](/post/to/) [the](/post/the/) [flesh](/post/flesh/) [and](/post/and/) [meat](/post/meat/) [of](/post/of/) domesticated [cattle](/post/cattle/), [usually](/post/usually/) [from](/post/from/) [the](/post/the/) hindquarter, [used](/post/used/) [as](/post/as/) [food](/post/food/). ([Cattle](/post/cattle/): Bos taurus)
+2. [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) [someone](/post/someone/) [who](/post/who/) is stubborn [or](/post/or/) has [a](/post/a/) [strong](/post/strong/) [opinion](/post/opinion/). ([Person](/post/person/): He's [a](/post/a/) [real](/post/real/) [piece](/post/piece/) [of](/post/of/) [beef](/post/beef/).)
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) __beef up__ [something](/en/post/something/) [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) stronger [or](/en/post/or/) [more](/en/post/more/) [substantial](/en/post/substantial/), [often](/en/post/often/) [in](/en/post/in/) terms [of](/en/post/of/) [content](/en/post/content/) [or](/en/post/or/) [quality](/en/post/quality/).
-2. [In](/en/post/in/) informal contexts, [to](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [dispute](/en/post/dispute/) [or](/en/post/or/) [argument](/en/post/argument/) [with](/en/post/with/) [someone](/en/post/someone/), [especially](/en/post/especially/) [over](/en/post/over/) [a](/en/post/a/) trivial [matter](/en/post/matter/). (e.g., [They](/en/post/they/) beefed [about](/en/post/about/) [the](/en/post/the/) seating [arrangement](/en/post/arrangement/).)
+### [Verb](/post/verb/)
+1. [To](/post/to/) __beef up__ [something](/post/something/) [means](/post/means/) [to](/post/to/) [make](/post/make/) [it](/post/it/) stronger [or](/post/or/) [more](/post/more/) [substantial](/post/substantial/), [often](/post/often/) [in](/post/in/) terms [of](/post/of/) [content](/post/content/) [or](/post/or/) [quality](/post/quality/).
+2. [In](/post/in/) informal contexts, [to](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [dispute](/post/dispute/) [or](/post/or/) [argument](/post/argument/) [with](/post/with/) [someone](/post/someone/), [especially](/post/especially/) [over](/post/over/) [a](/post/a/) trivial [matter](/post/matter/). (e.g., [They](/post/they/) beefed [about](/post/about/) [the](/post/the/) seating [arrangement](/post/arrangement/).)
 
 ## Phrases
-- "Grilled [beef](/en/post/beef/)" [or](/en/post/or/) "[Beef](/en/post/beef/) stir-fry" are [common](/en/post/common/) dishes made [from](/en/post/from/) [this](/en/post/this/) [meat](/en/post/meat/).
-- "Leaner cuts [of](/en/post/of/) [beef](/en/post/beef/)" are healthier alternatives.
-- "[Cut](/en/post/cut/) [of](/en/post/of/) [beef](/en/post/beef/)" refers [to](/en/post/to/) [different](/en/post/different/) parts [of](/en/post/of/) [the](/en/post/the/) [animal](/en/post/animal/) [used](/en/post/used/) [for](/en/post/for/) cooking.
+- "Grilled [beef](/post/beef/)" [or](/post/or/) "[Beef](/post/beef/) stir-fry" are [common](/post/common/) dishes made [from](/post/from/) [this](/post/this/) [meat](/post/meat/).
+- "Leaner cuts [of](/post/of/) [beef](/post/beef/)" are healthier alternatives.
+- "[Cut](/post/cut/) [of](/post/of/) [beef](/post/beef/)" refers [to](/post/to/) [different](/post/different/) parts [of](/post/of/) [the](/post/the/) [animal](/post/animal/) [used](/post/used/) [for](/post/for/) cooking.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [love](/en/post/love/) [to](/en/post/to/) grill [a](/en/post/a/) [nice](/en/post/nice/) [piece](/en/post/piece/) [of](/en/post/of/) ribeye [beef](/en/post/beef/) [for](/en/post/for/) [dinner](/en/post/dinner/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) beefed [up](/en/post/up/) [his](/en/post/his/) workout [routine](/en/post/routine/) [to](/en/post/to/) [build](/en/post/build/) [muscle](/en/post/muscle/)."
-- **Informal**: "[They](/en/post/they/) beefed [over](/en/post/over/) [who](/en/post/who/) [should](/en/post/should/) [clean](/en/post/clean/) [the](/en/post/the/) [kitchen](/en/post/kitchen/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [love](/post/love/) [to](/post/to/) grill [a](/post/a/) [nice](/post/nice/) [piece](/post/piece/) [of](/post/of/) ribeye [beef](/post/beef/) [for](/post/for/) [dinner](/post/dinner/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) beefed [up](/post/up/) [his](/post/his/) workout [routine](/post/routine/) [to](/post/to/) [build](/post/build/) [muscle](/post/muscle/)."
+- **Informal**: "[They](/post/they/) beefed [over](/post/over/) [who](/post/who/) [should](/post/should/) [clean](/post/clean/) [the](/post/the/) [kitchen](/post/kitchen/)."
 
 ## Synonyms
-- [Meat](/en/post/meat/) (specifically [when](/en/post/when/) referring to牛肉)
-- Steak ([a](/en/post/a/) [specific](/en/post/specific/) [type](/en/post/type/) [of](/en/post/of/) [beef](/en/post/beef/))
-- Horns ([as](/en/post/as/) [in](/en/post/in/) [someone](/en/post/someone/) [being](/en/post/being/) argumentative, e.g., He's got [a](/en/post/a/) [pair](/en/post/pair/) [of](/en/post/of/) beefy horns)
-- Rump ([another](/en/post/another/) [term](/en/post/term/) [for](/en/post/for/) [beef](/en/post/beef/))
+- [Meat](/post/meat/) (specifically [when](/post/when/) referring to牛肉)
+- Steak ([a](/post/a/) [specific](/post/specific/) [type](/post/type/) [of](/post/of/) [beef](/post/beef/))
+- Horns ([as](/post/as/) [in](/post/in/) [someone](/post/someone/) [being](/post/being/) argumentative, e.g., He's got [a](/post/a/) [pair](/post/pair/) [of](/post/of/) beefy horns)
+- Rump ([another](/post/another/) [term](/post/term/) [for](/post/for/) [beef](/post/beef/))

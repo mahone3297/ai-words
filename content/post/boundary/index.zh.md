@@ -12,22 +12,22 @@ keywords = ['ai words', 'boundary']
 
 ## 释义
 - **名词**: 
-   - 边界，分界线：[A](/post/a/) [line](/post/line/) marking [the](/post/the/) limits [or](/post/or/) [edge](/post/edge/) [of](/post/of/) an [area](/post/area/); [a](/post/a/) dividing [line](/post/line/).
-   - 范围，界限：[The](/post/the/) [extent](/post/extent/) [or](/post/or/) [area](/post/area/) [within](/post/within/) [which](/post/which/) [something](/post/something/) is contained [or](/post/or/) occurs.
+   - 边界，分界线：[A](/zh/post/a/) [line](/zh/post/line/) marking [the](/zh/post/the/) limits [or](/zh/post/or/) [edge](/zh/post/edge/) [of](/zh/post/of/) an [area](/zh/post/area/); [a](/zh/post/a/) dividing [line](/zh/post/line/).
+   - 范围，界限：[The](/zh/post/the/) [extent](/zh/post/extent/) [or](/zh/post/or/) [area](/zh/post/area/) [within](/zh/post/within/) [which](/zh/post/which/) [something](/zh/post/something/) is contained [or](/zh/post/or/) occurs.
 
 ## 短语
-- "[cross](/post/cross/) [the](/post/the/) [boundary](/post/boundary/)" 跨越边界
-- "[establish](/post/establish/) boundaries" 建立界限
-- "[push](/post/push/) [the](/post/the/) boundaries" 挑战极限
+- "[cross](/zh/post/cross/) [the](/zh/post/the/) [boundary](/zh/post/boundary/)" 跨越边界
+- "[establish](/zh/post/establish/) boundaries" 建立界限
+- "[push](/zh/post/push/) [the](/zh/post/the/) boundaries" 挑战极限
 
 ## 例句
-- "[The](/post/the/) [two](/post/two/) countries agreed [on](/post/on/) [a](/post/a/) [clear](/post/clear/) [boundary](/post/boundary/) [between](/post/between/) [their](/post/their/) territories."
-- "[The](/post/the/) property's [boundary](/post/boundary/) is marked [by](/post/by/) [a](/post/a/) [stone](/post/stone/) [wall](/post/wall/)."
-- "[In](/post/in/) [science](/post/science/), researchers constantly [push](/post/push/) [the](/post/the/) boundaries [of](/post/of/) [knowledge](/post/knowledge/)."
+- "[The](/zh/post/the/) [two](/zh/post/two/) countries agreed [on](/zh/post/on/) [a](/zh/post/a/) [clear](/zh/post/clear/) [boundary](/zh/post/boundary/) [between](/zh/post/between/) [their](/zh/post/their/) territories."
+- "[The](/zh/post/the/) property's [boundary](/zh/post/boundary/) is marked [by](/zh/post/by/) [a](/zh/post/a/) [stone](/zh/post/stone/) [wall](/zh/post/wall/)."
+- "[In](/zh/post/in/) [science](/zh/post/science/), researchers constantly [push](/zh/post/push/) [the](/zh/post/the/) boundaries [of](/zh/post/of/) [knowledge](/zh/post/knowledge/)."
 
 ## 同义词
-- [Edge](/post/edge/)
-- [Limit](/post/limit/)
-- [Frontier](/post/frontier/)
+- [Edge](/zh/post/edge/)
+- [Limit](/zh/post/limit/)
+- [Frontier](/zh/post/frontier/)
 - Perimeter
-- [Divide](/post/divide/)
+- [Divide](/zh/post/divide/)

@@ -11,23 +11,23 @@ keywords = ['ai words', 'stop']
 /stɑːp/
 
 ## 释义
-- **动词**: 停止，中断某个动作或过程。例如: "[Please](/post/please/) [stop](/post/stop/) talking [when](/post/when/) [the](/post/the/) [teacher](/post/teacher/) starts [the](/post/the/) [lesson](/post/lesson/)."
-- **名词**: 停留点，车站。例如: "[This](/post/this/) is [our](/post/our/) [next](/post/next/) [bus](/post/bus/) [stop](/post/stop/)."
-- **名词**: 阻止，制止。例如: "[The](/post/the/) [traffic](/post/traffic/) lights are [there](/post/there/) [to](/post/to/) [stop](/post/stop/) drivers [from](/post/from/) running [the](/post/the/) crossing."
+- **动词**: 停止，中断某个动作或过程。例如: "[Please](/zh/post/please/) [stop](/zh/post/stop/) talking [when](/zh/post/when/) [the](/zh/post/the/) [teacher](/zh/post/teacher/) starts [the](/zh/post/the/) [lesson](/zh/post/lesson/)."
+- **名词**: 停留点，车站。例如: "[This](/zh/post/this/) is [our](/zh/post/our/) [next](/zh/post/next/) [bus](/zh/post/bus/) [stop](/zh/post/stop/)."
+- **名词**: 阻止，制止。例如: "[The](/zh/post/the/) [traffic](/zh/post/traffic/) lights are [there](/zh/post/there/) [to](/zh/post/to/) [stop](/zh/post/stop/) drivers [from](/zh/post/from/) running [the](/zh/post/the/) crossing."
 
 ## 短语
-- "[Make](/post/make/) [a](/post/a/) [stop](/post/stop/)" 意为在某处停留或停车。
-- "[Stop](/post/stop/) [by](/post/by/)" 表示短暂访问或顺道拜访。
-- "[Come](/post/come/) [to](/post/to/) [a](/post/a/) [stop](/post/stop/)" 指完全停下来。
+- "[Make](/zh/post/make/) [a](/zh/post/a/) [stop](/zh/post/stop/)" 意为在某处停留或停车。
+- "[Stop](/zh/post/stop/) [by](/zh/post/by/)" 表示短暂访问或顺道拜访。
+- "[Come](/zh/post/come/) [to](/zh/post/to/) [a](/zh/post/a/) [stop](/zh/post/stop/)" 指完全停下来。
 
 ## 例句
-- 动词: "[The](/post/the/) [train](/post/train/) [will](/post/will/) [stop](/post/stop/) [at](/post/at/) [several](/post/several/) [small](/post/small/) stations [before](/post/before/) reaching [the](/post/the/) [final](/post/final/) [destination](/post/destination/)."
-- 名词: "There's [a](/post/a/) [stop](/post/stop/) [sign](/post/sign/) [ahead](/post/ahead/), [so](/post/so/) [slow](/post/slow/) [down](/post/down/) [and](/post/and/) [prepare](/post/prepare/) [to](/post/to/) [stop](/post/stop/)."
-- 名词: "[The](/post/the/) [police](/post/police/) [set](/post/set/) [up](/post/up/) [a](/post/a/) roadblock [to](/post/to/) [stop](/post/stop/) speeding cars."
+- 动词: "[The](/zh/post/the/) [train](/zh/post/train/) [will](/zh/post/will/) [stop](/zh/post/stop/) [at](/zh/post/at/) [several](/zh/post/several/) [small](/zh/post/small/) stations [before](/zh/post/before/) reaching [the](/zh/post/the/) [final](/zh/post/final/) [destination](/zh/post/destination/)."
+- 名词: "There's [a](/zh/post/a/) [stop](/zh/post/stop/) [sign](/zh/post/sign/) [ahead](/zh/post/ahead/), [so](/zh/post/so/) [slow](/zh/post/slow/) [down](/zh/post/down/) [and](/zh/post/and/) [prepare](/zh/post/prepare/) [to](/zh/post/to/) [stop](/zh/post/stop/)."
+- 名词: "[The](/zh/post/the/) [police](/zh/post/police/) [set](/zh/post/set/) [up](/zh/post/up/) [a](/zh/post/a/) roadblock [to](/zh/post/to/) [stop](/zh/post/stop/) speeding cars."
 
 ## 同义词
-- [Cease](/post/cease/)
-- [Halt](/post/halt/)
+- [Cease](/zh/post/cease/)
+- [Halt](/zh/post/halt/)
 - Terminate
-- [Break](/post/break/)
-- [Interrupt](/post/interrupt/)
+- [Break](/zh/post/break/)
+- [Interrupt](/zh/post/interrupt/)

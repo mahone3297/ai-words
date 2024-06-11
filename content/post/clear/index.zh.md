@@ -11,24 +11,24 @@ keywords = ['ai words', 'clear']
 /klɪr/
 
 ## 释义
-- **形容词**: 清晰的，明白的。例如: "[The](/post/the/) instructions were [clear](/post/clear/) [and](/post/and/) [easy](/post/easy/) [to](/post/to/) [follow](/post/follow/)."
-- **动词**: 使清楚，清理。例如: "[She](/post/she/) cleared [her](/post/her/) [desk](/post/desk/) [of](/post/of/) [all](/post/all/) [unnecessary](/post/unnecessary/) papers."
-- **名词**: 清除，清理。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [clear](/post/clear/) [space](/post/space/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [furniture](/post/furniture/)."
-- **副词**: 清晰地，明显地。例如: "[He](/post/he/) spoke [clearly](/post/clearly/) [so](/post/so/) [that](/post/that/) [everyone](/post/everyone/) [could](/post/could/) [understand](/post/understand/) [him](/post/him/)."
+- **形容词**: 清晰的，明白的。例如: "[The](/zh/post/the/) instructions were [clear](/zh/post/clear/) [and](/zh/post/and/) [easy](/zh/post/easy/) [to](/zh/post/to/) [follow](/zh/post/follow/)."
+- **动词**: 使清楚，清理。例如: "[She](/zh/post/she/) cleared [her](/zh/post/her/) [desk](/zh/post/desk/) [of](/zh/post/of/) [all](/zh/post/all/) [unnecessary](/zh/post/unnecessary/) papers."
+- **名词**: 清除，清理。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) [clear](/zh/post/clear/) [space](/zh/post/space/) [for](/zh/post/for/) [the](/zh/post/the/) [new](/zh/post/new/) [furniture](/zh/post/furniture/)."
+- **副词**: 清晰地，明显地。例如: "[He](/zh/post/he/) spoke [clearly](/zh/post/clearly/) [so](/zh/post/so/) [that](/zh/post/that/) [everyone](/zh/post/everyone/) [could](/zh/post/could/) [understand](/zh/post/understand/) [him](/zh/post/him/)."
 
 ## 短语
-- "[clear](/post/clear/) [up](/post/up/)" 意为澄清或清理。例如: "[The](/post/the/) [storm](/post/storm/) [will](/post/will/) [clear](/post/clear/) [up](/post/up/) [by](/post/by/) [evening](/post/evening/)."
-- "[clear](/post/clear/) [out](/post/out/)" 意为离开或清空。例如: "[Everyone](/post/everyone/) needs [to](/post/to/) [clear](/post/clear/) [out](/post/out/) [before](/post/before/) [we](/post/we/) [start](/post/start/) [the](/post/the/) renovations."
+- "[clear](/zh/post/clear/) [up](/zh/post/up/)" 意为澄清或清理。例如: "[The](/zh/post/the/) [storm](/zh/post/storm/) [will](/zh/post/will/) [clear](/zh/post/clear/) [up](/zh/post/up/) [by](/zh/post/by/) [evening](/zh/post/evening/)."
+- "[clear](/zh/post/clear/) [out](/zh/post/out/)" 意为离开或清空。例如: "[Everyone](/zh/post/everyone/) needs [to](/zh/post/to/) [clear](/zh/post/clear/) [out](/zh/post/out/) [before](/zh/post/before/) [we](/zh/post/we/) [start](/zh/post/start/) [the](/zh/post/the/) renovations."
 
 ## 例句
-- 形容词: "[The](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) [mountain](/post/mountain/) [top](/post/top/) was [absolutely](/post/absolutely/) [clear](/post/clear/)."
-- 动词: "[Could](/post/could/) [you](/post/you/) [please](/post/please/) [clear](/post/clear/) [your](/post/your/) [plate](/post/plate/) [when](/post/when/) you're finished?"
-- 名词: "[The](/post/the/) authorities issued [a](/post/a/) [clear](/post/clear/) warning [about](/post/about/) [the](/post/the/) impending [danger](/post/danger/)."
-- 副词: "[She](/post/she/) sang [the](/post/the/) [song](/post/song/) [clearly](/post/clearly/), [without](/post/without/) [any](/post/any/) mistakes."
+- 形容词: "[The](/zh/post/the/) [view](/zh/post/view/) [from](/zh/post/from/) [the](/zh/post/the/) [mountain](/zh/post/mountain/) [top](/zh/post/top/) was [absolutely](/zh/post/absolutely/) [clear](/zh/post/clear/)."
+- 动词: "[Could](/zh/post/could/) [you](/zh/post/you/) [please](/zh/post/please/) [clear](/zh/post/clear/) [your](/zh/post/your/) [plate](/zh/post/plate/) [when](/zh/post/when/) you're finished?"
+- 名词: "[The](/zh/post/the/) authorities issued [a](/zh/post/a/) [clear](/zh/post/clear/) warning [about](/zh/post/about/) [the](/zh/post/the/) impending [danger](/zh/post/danger/)."
+- 副词: "[She](/zh/post/she/) sang [the](/zh/post/the/) [song](/zh/post/song/) [clearly](/zh/post/clearly/), [without](/zh/post/without/) [any](/zh/post/any/) mistakes."
 
 ## 同义词
-- [Transparent](/post/transparent/)
+- [Transparent](/zh/post/transparent/)
 - Unambiguous
 - Lucid
 - Understandable
-- [Visible](/post/visible/)
+- [Visible](/zh/post/visible/)

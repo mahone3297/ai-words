@@ -7,35 +7,35 @@ description = '[əˈfreid] a.害怕的；担心的'
 keywords = ['ai words', 'afraid']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈfreɪd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Feeling](/en/post/feeling/) [fear](/en/post/fear/), [anxious](/en/post/anxious/), [or](/en/post/or/) [uncertain](/en/post/uncertain/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [afraid](/en/post/afraid/) [of](/en/post/of/) [the](/en/post/the/) [dark](/en/post/dark/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [feel](/en/post/feel/) [fearful](/en/post/fearful/) [or](/en/post/or/) [anxious](/en/post/anxious/) [about](/en/post/about/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) was [afraid](/en/post/afraid/) [of](/en/post/of/) heights."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [fearful](/en/post/fearful/) [or](/en/post/or/) apprehensive [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) spoke [softly](/en/post/softly/), [afraid](/en/post/afraid/) [of](/en/post/of/) waking [the](/en/post/the/) [baby](/en/post/baby/)."
+- **[Adjective](/post/adjective/)**: [Feeling](/post/feeling/) [fear](/post/fear/), [anxious](/post/anxious/), [or](/post/or/) [uncertain](/post/uncertain/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [afraid](/post/afraid/) [of](/post/of/) [the](/post/the/) [dark](/post/dark/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [feel](/post/feel/) [fearful](/post/fearful/) [or](/post/or/) [anxious](/post/anxious/) [about](/post/about/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [child](/post/child/) was [afraid](/post/afraid/) [of](/post/of/) heights."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [fearful](/post/fearful/) [or](/post/or/) apprehensive [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) spoke [softly](/post/softly/), [afraid](/post/afraid/) [of](/post/of/) waking [the](/post/the/) [baby](/post/baby/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [afraid](/en/post/afraid/)" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [be](/en/post/be/) cautious [or](/en/post/or/) [warn](/en/post/warn/) [someone](/en/post/someone/) [about](/en/post/about/) [a](/en/post/a/) [potential](/en/post/potential/) [danger](/en/post/danger/).
-- "Don't [be](/en/post/be/) [afraid](/en/post/afraid/)" is [a](/en/post/a/) reassurance [to](/en/post/to/) alleviate someone's [fear](/en/post/fear/).
-- "[Afraid](/en/post/afraid/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/)" describes reluctance [due](/en/post/due/) [to](/en/post/to/) [fear](/en/post/fear/).
+- "[Be](/post/be/) [afraid](/post/afraid/)" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [be](/post/be/) cautious [or](/post/or/) [warn](/post/warn/) [someone](/post/someone/) [about](/post/about/) [a](/post/a/) [potential](/post/potential/) [danger](/post/danger/).
+- "Don't [be](/post/be/) [afraid](/post/afraid/)" is [a](/post/a/) reassurance [to](/post/to/) alleviate someone's [fear](/post/fear/).
+- "[Afraid](/post/afraid/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" describes reluctance [due](/post/due/) [to](/post/to/) [fear](/post/fear/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) was [afraid](/en/post/afraid/) [when](/en/post/when/) [she](/en/post/she/) [saw](/en/post/saw/) [the](/en/post/the/) [spider](/en/post/spider/) [on](/en/post/on/) [her](/en/post/her/) [bed](/en/post/bed/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) children were [afraid](/en/post/afraid/) [of](/en/post/of/) [the](/en/post/the/) thunderstorm."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) was [afraid](/en/post/afraid/) [to](/en/post/to/) [jump](/en/post/jump/) [from](/en/post/from/) [the](/en/post/the/) [high](/en/post/high/) diving [board](/en/post/board/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) was [afraid](/post/afraid/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [the](/post/the/) [spider](/post/spider/) [on](/post/on/) [her](/post/her/) [bed](/post/bed/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) children were [afraid](/post/afraid/) [of](/post/of/) [the](/post/the/) thunderstorm."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) was [afraid](/post/afraid/) [to](/post/to/) [jump](/post/jump/) [from](/post/from/) [the](/post/the/) [high](/post/high/) diving [board](/post/board/)."
 
 ## Synonyms
-- [Fearful](/en/post/fearful/)
-- [Timid](/en/post/timid/)
-- [Anxious](/en/post/anxious/)
-- [Nervous](/en/post/nervous/)
+- [Fearful](/post/fearful/)
+- [Timid](/post/timid/)
+- [Anxious](/post/anxious/)
+- [Nervous](/post/nervous/)
 - Wary
 - Trembling
 
 ## Antonyms
-- [Brave](/en/post/brave/)
+- [Brave](/post/brave/)
 - Courageous
 - Unafraid
-- [Confident](/en/post/confident/)
+- [Confident](/post/confident/)
 - Relaxed

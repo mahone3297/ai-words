@@ -7,34 +7,34 @@ description = '[ˈɔːgənaiz] vt.组织，编组'
 keywords = ['ai words', 'organize']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːrɡənaɪz/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) [structure](/en/post/structure/) systematically; [to](/en/post/to/) [plan](/en/post/plan/) [and](/en/post/and/) [coordinate](/en/post/coordinate/) [the](/en/post/the/) elements [of](/en/post/of/) (an [activity](/en/post/activity/), [task](/en/post/task/), [project](/en/post/project/), etc.) [so](/en/post/so/) [as](/en/post/as/) [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) [specific](/en/post/specific/) [goal](/en/post/goal/) [or](/en/post/or/) [purpose](/en/post/purpose/). [For](/en/post/for/) [example](/en/post/example/): "They're organizing [a](/en/post/a/) [charity](/en/post/charity/) [event](/en/post/event/) [next](/en/post/next/) [month](/en/post/month/)."
-    - _Also [used](/en/post/used/) [with](/en/post/with/) 'to'_: "She's been [busy](/en/post/busy/) organizing [her](/en/post/her/) files [to](/en/post/to/) [make](/en/post/make/) [them](/en/post/them/) [more](/en/post/more/) manageable."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [action](/en/post/action/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) organizing [something](/en/post/something/), [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) organized. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [organization](/en/post/organization/) [of](/en/post/of/) [the](/en/post/the/) [conference](/en/post/conference/) was impeccable."
+- **[Verb](/post/verb/)**: [To](/post/to/) [arrange](/post/arrange/) [or](/post/or/) [structure](/post/structure/) systematically; [to](/post/to/) [plan](/post/plan/) [and](/post/and/) [coordinate](/post/coordinate/) [the](/post/the/) elements [of](/post/of/) (an [activity](/post/activity/), [task](/post/task/), [project](/post/project/), etc.) [so](/post/so/) [as](/post/as/) [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) [specific](/post/specific/) [goal](/post/goal/) [or](/post/or/) [purpose](/post/purpose/). [For](/post/for/) [example](/post/example/): "They're organizing [a](/post/a/) [charity](/post/charity/) [event](/post/event/) [next](/post/next/) [month](/post/month/)."
+    - _Also [used](/post/used/) [with](/post/with/) 'to'_: "She's been [busy](/post/busy/) organizing [her](/post/her/) files [to](/post/to/) [make](/post/make/) [them](/post/them/) [more](/post/more/) manageable."
+- **[Noun](/post/noun/)**: [The](/post/the/) [action](/post/action/) [or](/post/or/) [process](/post/process/) [of](/post/of/) organizing [something](/post/something/), [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) organized. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [organization](/post/organization/) [of](/post/of/) [the](/post/the/) [conference](/post/conference/) was impeccable."
 
 ### Phrases
-- "[Get](/en/post/get/) organized": [to](/en/post/to/) [start](/en/post/start/) arranging one's belongings, tasks, [or](/en/post/or/) [schedule](/en/post/schedule/) [in](/en/post/in/) [a](/en/post/a/) systematic [and](/en/post/and/) [efficient](/en/post/efficient/) [manner](/en/post/manner/).
-- "[Organize](/en/post/organize/) an [event](/en/post/event/)": [to](/en/post/to/) [plan](/en/post/plan/) [and](/en/post/and/) [execute](/en/post/execute/) [all](/en/post/all/) aspects [of](/en/post/of/) [a](/en/post/a/) gathering [or](/en/post/or/) [function](/en/post/function/).
-- "[Organize](/en/post/organize/) [your](/en/post/your/) thoughts": [to](/en/post/to/) [arrange](/en/post/arrange/) one's ideas [or](/en/post/or/) arguments [in](/en/post/in/) [a](/en/post/a/) coherent [and](/en/post/and/) [logical](/en/post/logical/) [order](/en/post/order/).
+- "[Get](/post/get/) organized": [to](/post/to/) [start](/post/start/) arranging one's belongings, tasks, [or](/post/or/) [schedule](/post/schedule/) [in](/post/in/) [a](/post/a/) systematic [and](/post/and/) [efficient](/post/efficient/) [manner](/post/manner/).
+- "[Organize](/post/organize/) an [event](/post/event/)": [to](/post/to/) [plan](/post/plan/) [and](/post/and/) [execute](/post/execute/) [all](/post/all/) aspects [of](/post/of/) [a](/post/a/) gathering [or](/post/or/) [function](/post/function/).
+- "[Organize](/post/organize/) [your](/post/your/) thoughts": [to](/post/to/) [arrange](/post/arrange/) one's ideas [or](/post/or/) arguments [in](/post/in/) [a](/post/a/) coherent [and](/post/and/) [logical](/post/logical/) [order](/post/order/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [organize](/en/post/organize/) [my](/en/post/my/) closet [because](/en/post/because/) it's getting [too](/en/post/too/) cluttered."
-- "[The](/en/post/the/) [team](/en/post/team/) [leader](/en/post/leader/) was praised [for](/en/post/for/) [his](/en/post/his/) exceptional [ability](/en/post/ability/) [to](/en/post/to/) [organize](/en/post/organize/) [the](/en/post/the/) workflow."
-- **[Noun](/en/post/noun/)**: "[Effective](/en/post/effective/) [time](/en/post/time/) [management](/en/post/management/) begins [with](/en/post/with/) [good](/en/post/good/) [organization](/en/post/organization/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [organize](/post/organize/) [my](/post/my/) closet [because](/post/because/) it's getting [too](/post/too/) cluttered."
+- "[The](/post/the/) [team](/post/team/) [leader](/post/leader/) was praised [for](/post/for/) [his](/post/his/) exceptional [ability](/post/ability/) [to](/post/to/) [organize](/post/organize/) [the](/post/the/) workflow."
+- **[Noun](/post/noun/)**: "[Effective](/post/effective/) [time](/post/time/) [management](/post/management/) begins [with](/post/with/) [good](/post/good/) [organization](/post/organization/)."
 
 ## Synonyms
-- [Arrange](/en/post/arrange/)
+- [Arrange](/post/arrange/)
 - Systematize
-- [Plan](/en/post/plan/)
-- [Coordinate](/en/post/coordinate/)
-- [Order](/en/post/order/)
+- [Plan](/post/plan/)
+- [Coordinate](/post/coordinate/)
+- [Order](/post/order/)
 - Structurate
-- [Schedule](/en/post/schedule/)
-- [Manage](/en/post/manage/)
-- [Prepare](/en/post/prepare/)
-- [Organize](/en/post/organize/) ([something](/en/post/something/)) methodically
-- [Put](/en/post/put/) ([something](/en/post/something/)) [in](/en/post/in/) [order](/en/post/order/)
-- [Set](/en/post/set/) [up](/en/post/up/) (an [event](/en/post/event/) [or](/en/post/or/) [system](/en/post/system/))
+- [Schedule](/post/schedule/)
+- [Manage](/post/manage/)
+- [Prepare](/post/prepare/)
+- [Organize](/post/organize/) ([something](/post/something/)) methodically
+- [Put](/post/put/) ([something](/post/something/)) [in](/post/in/) [order](/post/order/)
+- [Set](/post/set/) [up](/post/up/) (an [event](/post/event/) [or](/post/or/) [system](/post/system/))

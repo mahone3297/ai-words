@@ -12,36 +12,36 @@ keywords = ['ai words', 'figure']
 
 ## 释义
 - **名词**:
-  1. 形状或图形。例如: "[The](/post/the/) [figure](/post/figure/) [of](/post/of/) [a](/post/a/) [tree](/post/tree/) was silhouetted [against](/post/against/) [the](/post/the/) [sky](/post/sky/)."
-  2. 数字或数量。例如: "[The](/post/the/) company's revenue figures were [impressive](/post/impressive/)."
-  3. 人物或人物形象。例如: "[She](/post/she/) is [a](/post/a/) [prominent](/post/prominent/) [figure](/post/figure/) [in](/post/in/) [local](/post/local/) [politics](/post/politics/)."
-  4. (人的)身材或体态。例如: "[She](/post/she/) has [a](/post/a/) [slender](/post/slender/) [figure](/post/figure/)."
-  5. 某人在某领域的地位或角色。例如: "[He](/post/he/) is [a](/post/a/) [key](/post/key/) [figure](/post/figure/) [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [physics](/post/physics/)."
+  1. 形状或图形。例如: "[The](/zh/post/the/) [figure](/zh/post/figure/) [of](/zh/post/of/) [a](/zh/post/a/) [tree](/zh/post/tree/) was silhouetted [against](/zh/post/against/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
+  2. 数字或数量。例如: "[The](/zh/post/the/) company's revenue figures were [impressive](/zh/post/impressive/)."
+  3. 人物或人物形象。例如: "[She](/zh/post/she/) is [a](/zh/post/a/) [prominent](/zh/post/prominent/) [figure](/zh/post/figure/) [in](/zh/post/in/) [local](/zh/post/local/) [politics](/zh/post/politics/)."
+  4. (人的)身材或体态。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [slender](/zh/post/slender/) [figure](/zh/post/figure/)."
+  5. 某人在某领域的地位或角色。例如: "[He](/zh/post/he/) is [a](/zh/post/a/) [key](/zh/post/key/) [figure](/zh/post/figure/) [in](/zh/post/in/) [the](/zh/post/the/) [field](/zh/post/field/) [of](/zh/post/of/) [physics](/zh/post/physics/)."
 
 - **动词**:
-  1. 计算或估计。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [figure](/post/figure/) [out](/post/out/) [how](/post/how/) [much](/post/much/) [paint](/post/paint/) we'll [need](/post/need/)."
-  2. 出现或扮演角色。例如: "[She](/post/she/) figured prominently [in](/post/in/) [the](/post/the/) documentary."
-  3. 包括或考虑在内。例如: "[The](/post/the/) budget [figure](/post/figure/) includes expenses [for](/post/for/) [travel](/post/travel/)."
+  1. 计算或估计。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [figure](/zh/post/figure/) [out](/zh/post/out/) [how](/zh/post/how/) [much](/zh/post/much/) [paint](/zh/post/paint/) we'll [need](/zh/post/need/)."
+  2. 出现或扮演角色。例如: "[She](/zh/post/she/) figured prominently [in](/zh/post/in/) [the](/zh/post/the/) documentary."
+  3. 包括或考虑在内。例如: "[The](/zh/post/the/) budget [figure](/zh/post/figure/) includes expenses [for](/zh/post/for/) [travel](/zh/post/travel/)."
 
 - **形容词**:
   1. 图形的，形象的。例如: "figure-skating"（花样滑冰）
 
 ## 短语
-- "[figure](/post/figure/) [out](/post/out/)" 意思是计算出或弄明白。例如: "[Can](/post/can/) [you](/post/you/) [figure](/post/figure/) [out](/post/out/) [the](/post/the/) [cost](/post/cost/) [per](/post/per/) [item](/post/item/)?"
-- "[play](/post/play/) [a](/post/a/) [key](/post/key/) [figure](/post/figure/) [in](/post/in/)" 表示在...中起重要作用。例如: "[She](/post/she/) plays [a](/post/a/) [key](/post/key/) [figure](/post/figure/) [in](/post/in/) [the](/post/the/) [development](/post/development/) [of](/post/of/) [new](/post/new/) technologies."
+- "[figure](/zh/post/figure/) [out](/zh/post/out/)" 意思是计算出或弄明白。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [figure](/zh/post/figure/) [out](/zh/post/out/) [the](/zh/post/the/) [cost](/zh/post/cost/) [per](/zh/post/per/) [item](/zh/post/item/)?"
+- "[play](/zh/post/play/) [a](/zh/post/a/) [key](/zh/post/key/) [figure](/zh/post/figure/) [in](/zh/post/in/)" 表示在...中起重要作用。例如: "[She](/zh/post/she/) plays [a](/zh/post/a/) [key](/zh/post/key/) [figure](/zh/post/figure/) [in](/zh/post/in/) [the](/zh/post/the/) [development](/zh/post/development/) [of](/zh/post/of/) [new](/zh/post/new/) technologies."
 
 ## 例句
-- 名词: "[The](/post/the/) [painting](/post/painting/) features [a](/post/a/) dancing [figure](/post/figure/) [in](/post/in/) [a](/post/a/) flowing [dress](/post/dress/)."
-- 动词: "I [need](/post/need/) [to](/post/to/) [figure](/post/figure/) [the](/post/the/) dimensions [of](/post/of/) [the](/post/the/) [room](/post/room/) [before](/post/before/) buying [new](/post/new/) [furniture](/post/furniture/)."
-- 形容词: "[The](/post/the/) [figure](/post/figure/) skater executed [a](/post/a/) [series](/post/series/) [of](/post/of/) [complex](/post/complex/) jumps."
+- 名词: "[The](/zh/post/the/) [painting](/zh/post/painting/) features [a](/zh/post/a/) dancing [figure](/zh/post/figure/) [in](/zh/post/in/) [a](/zh/post/a/) flowing [dress](/zh/post/dress/)."
+- 动词: "I [need](/zh/post/need/) [to](/zh/post/to/) [figure](/zh/post/figure/) [the](/zh/post/the/) dimensions [of](/zh/post/of/) [the](/zh/post/the/) [room](/zh/post/room/) [before](/zh/post/before/) buying [new](/zh/post/new/) [furniture](/zh/post/furniture/)."
+- 形容词: "[The](/zh/post/the/) [figure](/zh/post/figure/) skater executed [a](/zh/post/a/) [series](/zh/post/series/) [of](/zh/post/of/) [complex](/zh/post/complex/) jumps."
 
 ## 同义词
 - 形容词时的同义词:
-  - [shape](/post/shape/)
-  - [form](/post/form/)
-  - [image](/post/image/)
+  - [shape](/zh/post/shape/)
+  - [form](/zh/post/form/)
+  - [image](/zh/post/image/)
 
 - 动词时的同义词:
-  - [calculate](/post/calculate/)
-  - [estimate](/post/estimate/)
+  - [calculate](/zh/post/calculate/)
+  - [estimate](/zh/post/estimate/)
   - reckon

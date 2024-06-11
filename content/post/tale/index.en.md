@@ -7,40 +7,40 @@ description = '[teil] n.故事，传说'
 keywords = ['ai words', 'tale']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tel/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [story](/en/post/story/) [or](/en/post/or/) narrative, [often](/en/post/often/) fictional, [usually](/en/post/usually/) [with](/en/post/with/) [a](/en/post/a/) [moral](/en/post/moral/) [or](/en/post/or/) [lesson](/en/post/lesson/). [**Etymology**: [From](/en/post/from/) [Old](/en/post/old/) French *[tale](/en/post/tale/)*]
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [tell](/en/post/tell/) [or](/en/post/or/) [relate](/en/post/relate/) [a](/en/post/a/) [story](/en/post/story/); recount. [**Etymology**: [From](/en/post/from/) [Old](/en/post/old/) French *teler*, [to](/en/post/to/) [tell](/en/post/tell/)]
+- **[Noun](/post/noun/)**: [A](/post/a/) [story](/post/story/) [or](/post/or/) narrative, [often](/post/often/) fictional, [usually](/post/usually/) [with](/post/with/) [a](/post/a/) [moral](/post/moral/) [or](/post/or/) [lesson](/post/lesson/). [**Etymology**: [From](/post/from/) [Old](/post/old/) French *[tale](/post/tale/)*]
+- **[Verb](/post/verb/)**: [To](/post/to/) [tell](/post/tell/) [or](/post/or/) [relate](/post/relate/) [a](/post/a/) [story](/post/story/); recount. [**Etymology**: [From](/post/from/) [Old](/post/old/) French *teler*, [to](/post/to/) [tell](/post/tell/)]
 
 ## Phrases
-- "[A](/en/post/a/) bedtime [tale](/en/post/tale/)" refers [to](/en/post/to/) [a](/en/post/a/) [story](/en/post/story/) told [before](/en/post/before/) [sleep](/en/post/sleep/).
-- "[Tale](/en/post/tale/) [of](/en/post/of/) [a](/en/post/a/) [lifetime](/en/post/lifetime/)" signifies [a](/en/post/a/) [long](/en/post/long/) [and](/en/post/and/) eventful [story](/en/post/story/).
-- "[Tall](/en/post/tall/) tales" are exaggerated [or](/en/post/or/) fantastic stories.
+- "[A](/post/a/) bedtime [tale](/post/tale/)" refers [to](/post/to/) [a](/post/a/) [story](/post/story/) told [before](/post/before/) [sleep](/post/sleep/).
+- "[Tale](/post/tale/) [of](/post/of/) [a](/post/a/) [lifetime](/post/lifetime/)" signifies [a](/post/a/) [long](/post/long/) [and](/post/and/) eventful [story](/post/story/).
+- "[Tall](/post/tall/) tales" are exaggerated [or](/post/or/) fantastic stories.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) spun [a](/en/post/a/) fascinating [tale](/en/post/tale/) [of](/en/post/of/) [her](/en/post/her/) travels [in](/en/post/in/) [Africa](/en/post/africa/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) regaled [the](/en/post/the/) children [with](/en/post/with/) [a](/en/post/a/) [tale](/en/post/tale/) [of](/en/post/of/) [adventure](/en/post/adventure/)."
-- "[Her](/en/post/her/) favorite [hobby](/en/post/hobby/) is listening [to](/en/post/to/) folktales [from](/en/post/from/) [different](/en/post/different/) cultures."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) spun [a](/post/a/) fascinating [tale](/post/tale/) [of](/post/of/) [her](/post/her/) travels [in](/post/in/) [Africa](/post/africa/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) regaled [the](/post/the/) children [with](/post/with/) [a](/post/a/) [tale](/post/tale/) [of](/post/of/) [adventure](/post/adventure/)."
+- "[Her](/post/her/) favorite [hobby](/post/hobby/) is listening [to](/post/to/) folktales [from](/post/from/) [different](/post/different/) cultures."
 
 ## Synonyms
 - Narrative
-- [Story](/en/post/story/)
-- [Fable](/en/post/fable/)
-- [Legend](/en/post/legend/)
-- [Account](/en/post/account/)
+- [Story](/post/story/)
+- [Fable](/post/fable/)
+- [Legend](/post/legend/)
+- [Account](/post/account/)
 
 ## Antonyms
-- [Fact](/en/post/fact/)
-- [Reality](/en/post/reality/)
-- [Truth](/en/post/truth/)
+- [Fact](/post/fact/)
+- [Reality](/post/reality/)
+- [Truth](/post/truth/)
 
-## [Usage](/en/post/usage/)
-### [Noun](/en/post/noun/)
-- [The](/en/post/the/) children gathered [around](/en/post/around/) [to](/en/post/to/) [hear](/en/post/hear/) [their](/en/post/their/) grandmother's bedtime [tale](/en/post/tale/).
-- [He](/en/post/he/) had [a](/en/post/a/) knack [for](/en/post/for/) spinning thrilling tales [that](/en/post/that/) captivated [his](/en/post/his/) [audience](/en/post/audience/).
+## [Usage](/post/usage/)
+### [Noun](/post/noun/)
+- [The](/post/the/) children gathered [around](/post/around/) [to](/post/to/) [hear](/post/hear/) [their](/post/their/) grandmother's bedtime [tale](/post/tale/).
+- [He](/post/he/) had [a](/post/a/) knack [for](/post/for/) spinning thrilling tales [that](/post/that/) captivated [his](/post/his/) [audience](/post/audience/).
 
-### [Verb](/en/post/verb/)
-- [She](/en/post/she/) decided [to](/en/post/to/) [share](/en/post/share/) [her](/en/post/her/) [tale](/en/post/tale/) [of](/en/post/of/) survival [after](/en/post/after/) [a](/en/post/a/) near-miss [accident](/en/post/accident/).
-- [He](/en/post/he/) began [to](/en/post/to/) [tale](/en/post/tale/) [the](/en/post/the/) [history](/en/post/history/) [of](/en/post/of/) [the](/en/post/the/) [old](/en/post/old/) [castle](/en/post/castle/), [painting](/en/post/painting/) [a](/en/post/a/) [vivid](/en/post/vivid/) [picture](/en/post/picture/) [with](/en/post/with/) [his](/en/post/his/) words.
+### [Verb](/post/verb/)
+- [She](/post/she/) decided [to](/post/to/) [share](/post/share/) [her](/post/her/) [tale](/post/tale/) [of](/post/of/) survival [after](/post/after/) [a](/post/a/) near-miss [accident](/post/accident/).
+- [He](/post/he/) began [to](/post/to/) [tale](/post/tale/) [the](/post/the/) [history](/post/history/) [of](/post/of/) [the](/post/the/) [old](/post/old/) [castle](/post/castle/), [painting](/post/painting/) [a](/post/a/) [vivid](/post/vivid/) [picture](/post/picture/) [with](/post/with/) [his](/post/his/) words.

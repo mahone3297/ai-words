@@ -7,42 +7,42 @@ description = '[ˈbrʌðə] n.兄弟；同事，同胞'
 keywords = ['ai words', 'brother']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /broʊðər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [male](/en/post/male/) sibling: *[My](/en/post/my/) [brother](/en/post/brother/) is [two](/en/post/two/) years older [than](/en/post/than/) [me](/en/post/me/).*
-2. [A](/en/post/a/) [male](/en/post/male/) [friend](/en/post/friend/) [or](/en/post/or/) [acquaintance](/en/post/acquaintance/) [who](/en/post/who/) is [not](/en/post/not/) [a](/en/post/a/) [blood](/en/post/blood/) [relative](/en/post/relative/) [but](/en/post/but/) is treated [with](/en/post/with/) familial [affection](/en/post/affection/): *He's [like](/en/post/like/) [a](/en/post/a/) [brother](/en/post/brother/) [to](/en/post/to/) [me](/en/post/me/).*
-3. [In](/en/post/in/) [a](/en/post/a/) [religious](/en/post/religious/) context, [a](/en/post/a/) [male](/en/post/male/) disciple [or](/en/post/or/) follower [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [faith](/en/post/faith/).
+### [Noun](/post/noun/)
+1. [A](/post/a/) [male](/post/male/) sibling: *[My](/post/my/) [brother](/post/brother/) is [two](/post/two/) years older [than](/post/than/) [me](/post/me/).*
+2. [A](/post/a/) [male](/post/male/) [friend](/post/friend/) [or](/post/or/) [acquaintance](/post/acquaintance/) [who](/post/who/) is [not](/post/not/) [a](/post/a/) [blood](/post/blood/) [relative](/post/relative/) [but](/post/but/) is treated [with](/post/with/) familial [affection](/post/affection/): *He's [like](/post/like/) [a](/post/a/) [brother](/post/brother/) [to](/post/to/) [me](/post/me/).*
+3. [In](/post/in/) [a](/post/a/) [religious](/post/religious/) context, [a](/post/a/) [male](/post/male/) disciple [or](/post/or/) follower [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [faith](/post/faith/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/) [as](/en/post/as/) one's [brother](/en/post/brother/): *[She](/en/post/she/) introduced [her](/en/post/her/) [new](/en/post/new/) [colleague](/en/post/colleague/) [as](/en/post/as/) [her](/en/post/her/) [brother](/en/post/brother/) [from](/en/post/from/) [another](/en/post/another/) [mother](/en/post/mother/).*
-2. [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [close](/en/post/close/) [relationship](/en/post/relationship/) [with](/en/post/with/) [someone](/en/post/someone/): *They've been brothers [since](/en/post/since/) [childhood](/en/post/childhood/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [refer](/post/refer/) [to](/post/to/) [someone](/post/someone/) [as](/post/as/) one's [brother](/post/brother/): *[She](/post/she/) introduced [her](/post/her/) [new](/post/new/) [colleague](/post/colleague/) [as](/post/as/) [her](/post/her/) [brother](/post/brother/) [from](/post/from/) [another](/post/another/) [mother](/post/mother/).*
+2. [To](/post/to/) [have](/post/have/) [a](/post/a/) [close](/post/close/) [relationship](/post/relationship/) [with](/post/with/) [someone](/post/someone/): *They've been brothers [since](/post/since/) [childhood](/post/childhood/).*
 
 ## Phrases
-- "[Call](/en/post/call/) [your](/en/post/your/) [brother](/en/post/brother/) [for](/en/post/for/) [advice](/en/post/advice/)."
-- "[My](/en/post/my/) [big](/en/post/big/) [brother](/en/post/brother/) [always](/en/post/always/) looked [out](/en/post/out/) [for](/en/post/for/) [me](/en/post/me/)."
-- "Brothers [stick](/en/post/stick/) [together](/en/post/together/)."
+- "[Call](/post/call/) [your](/post/your/) [brother](/post/brother/) [for](/post/for/) [advice](/post/advice/)."
+- "[My](/post/my/) [big](/post/big/) [brother](/post/brother/) [always](/post/always/) looked [out](/post/out/) [for](/post/for/) [me](/post/me/)."
+- "Brothers [stick](/post/stick/) [together](/post/together/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I argued [with](/en/post/with/) [my](/en/post/my/) [brother](/en/post/brother/) [about](/en/post/about/) [the](/en/post/the/) [game](/en/post/game/) [last](/en/post/last/) [night](/en/post/night/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) has [a](/en/post/a/) younger [brother](/en/post/brother/) who's [just](/en/post/just/) started [college](/en/post/college/)."
-- **Phrasal [Usage](/en/post/usage/)**: "[My](/en/post/my/) [brother](/en/post/brother/) [and](/en/post/and/) I decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [road](/en/post/road/) [trip](/en/post/trip/) [together](/en/post/together/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I argued [with](/post/with/) [my](/post/my/) [brother](/post/brother/) [about](/post/about/) [the](/post/the/) [game](/post/game/) [last](/post/last/) [night](/post/night/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) has [a](/post/a/) younger [brother](/post/brother/) who's [just](/post/just/) started [college](/post/college/)."
+- **Phrasal [Usage](/post/usage/)**: "[My](/post/my/) [brother](/post/brother/) [and](/post/and/) I decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [road](/post/road/) [trip](/post/trip/) [together](/post/together/)."
 
 ## Synonyms
 - Brotherly
 - Sibling
-- [Comrade](/en/post/comrade/)
+- [Comrade](/post/comrade/)
 - Pal
-- [Friend](/en/post/friend/) (informal)
-- [Fellow](/en/post/fellow/) (colloquial)
+- [Friend](/post/friend/) (informal)
+- [Fellow](/post/fellow/) (colloquial)
 
 ## Antonyms
-- [Sister](/en/post/sister/)
+- [Sister](/post/sister/)
 - Sisterly
-- [Enemy](/en/post/enemy/)
-- [Stranger](/en/post/stranger/)
-- [Acquaintance](/en/post/acquaintance/)
+- [Enemy](/post/enemy/)
+- [Stranger](/post/stranger/)
+- [Acquaintance](/post/acquaintance/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) "[brother](/en/post/brother/)" [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) is [less](/en/post/less/) [common](/en/post/common/) [and](/en/post/and/) [usually](/en/post/usually/) implies [a](/en/post/a/) figurative [sense](/en/post/sense/) [of](/en/post/of/) [close](/en/post/close/) [relationship](/en/post/relationship/) [rather](/en/post/rather/) [than](/en/post/than/) [a](/en/post/a/) biological [one](/en/post/one/). [In](/en/post/in/) [most](/en/post/most/) cases, [it](/en/post/it/) [would](/en/post/would/) [be](/en/post/be/) [more](/en/post/more/) [appropriate](/en/post/appropriate/) [to](/en/post/to/) [use](/en/post/use/) "[call](/en/post/call/)" [or](/en/post/or/) "[refer](/en/post/refer/) [to](/en/post/to/)" [when](/en/post/when/) talking [about](/en/post/about/) [a](/en/post/a/) [person](/en/post/person/) [being](/en/post/being/) addressed [as](/en/post/as/) [a](/en/post/a/) [brother](/en/post/brother/).
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) "[brother](/post/brother/)" [as](/post/as/) [a](/post/a/) [noun](/post/noun/) is [less](/post/less/) [common](/post/common/) [and](/post/and/) [usually](/post/usually/) implies [a](/post/a/) figurative [sense](/post/sense/) [of](/post/of/) [close](/post/close/) [relationship](/post/relationship/) [rather](/post/rather/) [than](/post/than/) [a](/post/a/) biological [one](/post/one/). [In](/post/in/) [most](/post/most/) cases, [it](/post/it/) [would](/post/would/) [be](/post/be/) [more](/post/more/) [appropriate](/post/appropriate/) [to](/post/to/) [use](/post/use/) "[call](/post/call/)" [or](/post/or/) "[refer](/post/refer/) [to](/post/to/)" [when](/post/when/) talking [about](/post/about/) [a](/post/a/) [person](/post/person/) [being](/post/being/) addressed [as](/post/as/) [a](/post/a/) [brother](/post/brother/).

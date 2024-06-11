@@ -11,20 +11,20 @@ keywords = ['ai words', 'violent']
 /ˈvɪlənt/
 
 ## 释义
-- **形容词**: 粗暴的，激烈的，猛烈的。例如: "[The](/post/the/) [storm](/post/storm/) was [violent](/post/violent/), [with](/post/with/) [strong](/post/strong/) winds [and](/post/and/) [heavy](/post/heavy/) [rain](/post/rain/)."
-- **名词**: 暴力行为，攻击。例如: "[There](/post/there/) [have](/post/have/) been [several](/post/several/) acts [of](/post/of/) [violence](/post/violence/) [in](/post/in/) [the](/post/the/) [city](/post/city/) [recently](/post/recently/)."
+- **形容词**: 粗暴的，激烈的，猛烈的。例如: "[The](/zh/post/the/) [storm](/zh/post/storm/) was [violent](/zh/post/violent/), [with](/zh/post/with/) [strong](/zh/post/strong/) winds [and](/zh/post/and/) [heavy](/zh/post/heavy/) [rain](/zh/post/rain/)."
+- **名词**: 暴力行为，攻击。例如: "[There](/zh/post/there/) [have](/zh/post/have/) been [several](/zh/post/several/) acts [of](/zh/post/of/) [violence](/zh/post/violence/) [in](/zh/post/in/) [the](/zh/post/the/) [city](/zh/post/city/) [recently](/zh/post/recently/)."
 
 ## 短语
-- "[violent](/post/violent/) [behavior](/post/behavior/)" 指的是暴力行为或举止。
-- "[violent](/post/violent/) [reaction](/post/reaction/)" 指强烈的反应或反抗。
+- "[violent](/zh/post/violent/) [behavior](/zh/post/behavior/)" 指的是暴力行为或举止。
+- "[violent](/zh/post/violent/) [reaction](/zh/post/reaction/)" 指强烈的反应或反抗。
 
 ## 例句
-- 形容词: "[The](/post/the/) [football](/post/football/) [match](/post/match/) got [out](/post/out/) [of](/post/of/) [hand](/post/hand/), [with](/post/with/) [some](/post/some/) players showing [violent](/post/violent/) tendencies."
-- 名词: "[The](/post/the/) [movie](/post/movie/) contains scenes [of](/post/of/) graphic [violence](/post/violence/), [which](/post/which/) [may](/post/may/) [be](/post/be/) disturbing [for](/post/for/) [some](/post/some/) viewers."
+- 形容词: "[The](/zh/post/the/) [football](/zh/post/football/) [match](/zh/post/match/) got [out](/zh/post/out/) [of](/zh/post/of/) [hand](/zh/post/hand/), [with](/zh/post/with/) [some](/zh/post/some/) players showing [violent](/zh/post/violent/) tendencies."
+- 名词: "[The](/zh/post/the/) [movie](/zh/post/movie/) contains scenes [of](/zh/post/of/) graphic [violence](/zh/post/violence/), [which](/zh/post/which/) [may](/zh/post/may/) [be](/zh/post/be/) disturbing [for](/zh/post/for/) [some](/zh/post/some/) viewers."
 
 ## 同义词
 - Brutal
-- [Aggressive](/post/aggressive/)
+- [Aggressive](/zh/post/aggressive/)
 - Forceful
 - Ferocious
-- [Harsh](/post/harsh/)
+- [Harsh](/zh/post/harsh/)

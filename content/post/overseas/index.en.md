@@ -7,29 +7,29 @@ description = '[ˈəuvəˈsiːz] ad.海外 a.在海外的'
 keywords = ['ai words', 'overseas']
 +++
 
-## [Word](/en/post/word/): [Overseas](/en/post/overseas/)
+## [Word](/post/word/): [Overseas](/post/overseas/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌoʊvərˈsiːz/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Situated, conducted, [or](/en/post/or/) originating [in](/en/post/in/) [a](/en/post/a/) [foreign](/en/post/foreign/) [country](/en/post/country/) [or](/en/post/or/) countries [across](/en/post/across/) [the](/en/post/the/) [sea](/en/post/sea/); [abroad](/en/post/abroad/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) moved [overseas](/en/post/overseas/) [for](/en/post/for/) [her](/en/post/her/) [job](/en/post/job/) [assignment](/en/post/assignment/)."
-- **[Adverb](/en/post/adverb/)**: [Beyond](/en/post/beyond/) [or](/en/post/or/) [across](/en/post/across/) [the](/en/post/the/) [sea](/en/post/sea/); [to](/en/post/to/) [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) [foreign](/en/post/foreign/) [country](/en/post/country/) [or](/en/post/or/) countries. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [plan](/en/post/plan/) [to](/en/post/to/) [travel](/en/post/travel/) [overseas](/en/post/overseas/) [next](/en/post/next/) [year](/en/post/year/)."
+- **[Adjective](/post/adjective/)**: Situated, conducted, [or](/post/or/) originating [in](/post/in/) [a](/post/a/) [foreign](/post/foreign/) [country](/post/country/) [or](/post/or/) countries [across](/post/across/) [the](/post/the/) [sea](/post/sea/); [abroad](/post/abroad/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) moved [overseas](/post/overseas/) [for](/post/for/) [her](/post/her/) [job](/post/job/) [assignment](/post/assignment/)."
+- **[Adverb](/post/adverb/)**: [Beyond](/post/beyond/) [or](/post/or/) [across](/post/across/) [the](/post/the/) [sea](/post/sea/); [to](/post/to/) [or](/post/or/) [in](/post/in/) [a](/post/a/) [foreign](/post/foreign/) [country](/post/country/) [or](/post/or/) countries. [For](/post/for/) [example](/post/example/): "[They](/post/they/) [plan](/post/plan/) [to](/post/to/) [travel](/post/travel/) [overseas](/post/overseas/) [next](/post/next/) [year](/post/year/)."
 
 ## Phrases
-- "[Overseas](/en/post/overseas/) [experience](/en/post/experience/)": Refers [to](/en/post/to/) gaining [work](/en/post/work/) [or](/en/post/or/) [life](/en/post/life/) [experience](/en/post/experience/) [in](/en/post/in/) [a](/en/post/a/) [foreign](/en/post/foreign/) [country](/en/post/country/).
-- "[Overseas](/en/post/overseas/) [market](/en/post/market/)": An [international](/en/post/international/) [market](/en/post/market/) [in](/en/post/in/) [a](/en/post/a/) [foreign](/en/post/foreign/) [country](/en/post/country/).
-- "[Overseas](/en/post/overseas/) [aid](/en/post/aid/)": [Financial](/en/post/financial/) [or](/en/post/or/) [material](/en/post/material/) assistance given [by](/en/post/by/) [one](/en/post/one/) [country](/en/post/country/) [to](/en/post/to/) [another](/en/post/another/) [for](/en/post/for/) [development](/en/post/development/) [or](/en/post/or/) [relief](/en/post/relief/) purposes.
+- "[Overseas](/post/overseas/) [experience](/post/experience/)": Refers [to](/post/to/) gaining [work](/post/work/) [or](/post/or/) [life](/post/life/) [experience](/post/experience/) [in](/post/in/) [a](/post/a/) [foreign](/post/foreign/) [country](/post/country/).
+- "[Overseas](/post/overseas/) [market](/post/market/)": An [international](/post/international/) [market](/post/market/) [in](/post/in/) [a](/post/a/) [foreign](/post/foreign/) [country](/post/country/).
+- "[Overseas](/post/overseas/) [aid](/post/aid/)": [Financial](/post/financial/) [or](/post/or/) [material](/post/material/) assistance given [by](/post/by/) [one](/post/one/) [country](/post/country/) [to](/post/to/) [another](/post/another/) [for](/post/for/) [development](/post/development/) [or](/post/or/) [relief](/post/relief/) purposes.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Many](/en/post/many/) students [choose](/en/post/choose/) [to](/en/post/to/) [pursue](/en/post/pursue/) [their](/en/post/their/) [education](/en/post/education/) [overseas](/en/post/overseas/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [company](/en/post/company/) exports [its](/en/post/its/) products [overseas](/en/post/overseas/) [to](/en/post/to/) [increase](/en/post/increase/) global [presence](/en/post/presence/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Many](/post/many/) students [choose](/post/choose/) [to](/post/to/) [pursue](/post/pursue/) [their](/post/their/) [education](/post/education/) [overseas](/post/overseas/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [company](/post/company/) exports [its](/post/its/) products [overseas](/post/overseas/) [to](/post/to/) [increase](/post/increase/) global [presence](/post/presence/)."
 
 ## Synonyms
-- [Abroad](/en/post/abroad/)
-- [Foreign](/en/post/foreign/)
-- [International](/en/post/international/)
+- [Abroad](/post/abroad/)
+- [Foreign](/post/foreign/)
+- [International](/post/international/)
 - Transoceanic
-- Transatlantic (specifically referring [to](/en/post/to/) [travel](/en/post/travel/) [between](/en/post/between/) Europe [and](/en/post/and/) [America](/en/post/america/))
+- Transatlantic (specifically referring [to](/post/to/) [travel](/post/travel/) [between](/post/between/) Europe [and](/post/and/) [America](/post/america/))
 - Cross-border
-- Global ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- Global ([in](/post/in/) [some](/post/some/) contexts)

@@ -7,33 +7,33 @@ description = '[diˈfend] vt.保卫，防守'
 keywords = ['ai words', 'defend']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈfend/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) protecting [or](/en/post/or/) supporting [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [against](/en/post/against/) [attack](/en/post/attack/) [or](/en/post/or/) [criticism](/en/post/criticism/). **[Example](/en/post/example/)**: "[The](/en/post/the/) [soldier](/en/post/soldier/) was tasked [with](/en/post/with/) defending [the](/en/post/the/) [border](/en/post/border/)."
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [protect](/en/post/protect/) [or](/en/post/or/) [support](/en/post/support/) ([a](/en/post/a/) [person](/en/post/person/), [idea](/en/post/idea/), [or](/en/post/or/) [principle](/en/post/principle/)) [against](/en/post/against/) [attack](/en/post/attack/), [criticism](/en/post/criticism/), [or](/en/post/or/) [harm](/en/post/harm/). **[Example](/en/post/example/)**: "[She](/en/post/she/) fiercely defended [her](/en/post/her/) son's innocence."
-2. [To](/en/post/to/) [argue](/en/post/argue/) [or](/en/post/or/) [stand](/en/post/stand/) [up](/en/post/up/) [for](/en/post/for/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [debate](/en/post/debate/) [or](/en/post/or/) [argument](/en/post/argument/). **[Example](/en/post/example/)**: "[He](/en/post/he/) defended [his](/en/post/his/) [position](/en/post/position/) [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/) [with](/en/post/with/) [strong](/en/post/strong/) [evidence](/en/post/evidence/)."
-3. [To](/en/post/to/) [use](/en/post/use/) [force](/en/post/force/) [or](/en/post/or/) [means](/en/post/means/) [to](/en/post/to/) repel an [enemy](/en/post/enemy/) [or](/en/post/or/) attacker. **[Example](/en/post/example/)**: "[The](/en/post/the/) soldiers defended [their](/en/post/their/) fortification [from](/en/post/from/) [the](/en/post/the/) enemy's assault."
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) protecting [or](/post/or/) supporting [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [against](/post/against/) [attack](/post/attack/) [or](/post/or/) [criticism](/post/criticism/). **[Example](/post/example/)**: "[The](/post/the/) [soldier](/post/soldier/) was tasked [with](/post/with/) defending [the](/post/the/) [border](/post/border/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [protect](/post/protect/) [or](/post/or/) [support](/post/support/) ([a](/post/a/) [person](/post/person/), [idea](/post/idea/), [or](/post/or/) [principle](/post/principle/)) [against](/post/against/) [attack](/post/attack/), [criticism](/post/criticism/), [or](/post/or/) [harm](/post/harm/). **[Example](/post/example/)**: "[She](/post/she/) fiercely defended [her](/post/her/) son's innocence."
+2. [To](/post/to/) [argue](/post/argue/) [or](/post/or/) [stand](/post/stand/) [up](/post/up/) [for](/post/for/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [debate](/post/debate/) [or](/post/or/) [argument](/post/argument/). **[Example](/post/example/)**: "[He](/post/he/) defended [his](/post/his/) [position](/post/position/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/) [with](/post/with/) [strong](/post/strong/) [evidence](/post/evidence/)."
+3. [To](/post/to/) [use](/post/use/) [force](/post/force/) [or](/post/or/) [means](/post/means/) [to](/post/to/) repel an [enemy](/post/enemy/) [or](/post/or/) attacker. **[Example](/post/example/)**: "[The](/post/the/) soldiers defended [their](/post/their/) fortification [from](/post/from/) [the](/post/the/) enemy's assault."
 
 ## Phrases
-- "[Defend](/en/post/defend/) one's honor" [to](/en/post/to/) [protect](/en/post/protect/) one's [reputation](/en/post/reputation/) [or](/en/post/or/) dignity.
-- "Defense mechanism" [a](/en/post/a/) [psychological](/en/post/psychological/) [strategy](/en/post/strategy/) [people](/en/post/people/) [use](/en/post/use/) [to](/en/post/to/) [cope](/en/post/cope/) [with](/en/post/with/) [stress](/en/post/stress/) [or](/en/post/or/) [anxiety](/en/post/anxiety/).
-- "[In](/en/post/in/) defense [of](/en/post/of/)" [used](/en/post/used/) [to](/en/post/to/) [justify](/en/post/justify/) [or](/en/post/or/) [explain](/en/post/explain/) [a](/en/post/a/) [viewpoint](/en/post/viewpoint/) [or](/en/post/or/) [action](/en/post/action/).
+- "[Defend](/post/defend/) one's honor" [to](/post/to/) [protect](/post/protect/) one's [reputation](/post/reputation/) [or](/post/or/) dignity.
+- "Defense mechanism" [a](/post/a/) [psychological](/post/psychological/) [strategy](/post/strategy/) [people](/post/people/) [use](/post/use/) [to](/post/to/) [cope](/post/cope/) [with](/post/with/) [stress](/post/stress/) [or](/post/or/) [anxiety](/post/anxiety/).
+- "[In](/post/in/) defense [of](/post/of/)" [used](/post/used/) [to](/post/to/) [justify](/post/justify/) [or](/post/or/) [explain](/post/explain/) [a](/post/a/) [viewpoint](/post/viewpoint/) [or](/post/or/) [action](/post/action/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [lawyer](/en/post/lawyer/) presented [a](/en/post/a/) [strong](/en/post/strong/) defense [for](/en/post/for/) [her](/en/post/her/) client's [case](/en/post/case/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [team](/en/post/team/) is working [hard](/en/post/hard/) [to](/en/post/to/) [defend](/en/post/defend/) [their](/en/post/their/) championship [title](/en/post/title/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) felt compelled [to](/en/post/to/) [defend](/en/post/defend/) [his](/en/post/his/) [decision](/en/post/decision/) [in](/en/post/in/) [front](/en/post/front/) [of](/en/post/of/) [the](/en/post/the/) [board](/en/post/board/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [lawyer](/post/lawyer/) presented [a](/post/a/) [strong](/post/strong/) defense [for](/post/for/) [her](/post/her/) client's [case](/post/case/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [team](/post/team/) is working [hard](/post/hard/) [to](/post/to/) [defend](/post/defend/) [their](/post/their/) championship [title](/post/title/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) felt compelled [to](/post/to/) [defend](/post/defend/) [his](/post/his/) [decision](/post/decision/) [in](/post/in/) [front](/post/front/) [of](/post/of/) [the](/post/the/) [board](/post/board/)."
 
 ## Synonyms
-- [Protect](/en/post/protect/)
-- [Support](/en/post/support/)
-- [Shield](/en/post/shield/)
+- [Protect](/post/protect/)
+- [Support](/post/support/)
+- [Shield](/post/shield/)
 - Advocate
-- [Stand](/en/post/stand/) [up](/en/post/up/) [for](/en/post/for/)
+- [Stand](/post/stand/) [up](/post/up/) [for](/post/for/)
 - Repel
 - Counterattack
-- [Argue](/en/post/argue/) [in](/en/post/in/) favor [of](/en/post/of/)
+- [Argue](/post/argue/) [in](/post/in/) favor [of](/post/of/)

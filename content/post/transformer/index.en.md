@@ -7,28 +7,28 @@ description = '[trænsˈfɔːmə(r)] n.变压/转换器'
 keywords = ['ai words', 'transformer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtrænsfərər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [transformer](/en/post/transformer/) is [a](/en/post/a/) **n** ([electric](/en/post/electric/) [engineering](/en/post/engineering/)) [device](/en/post/device/) [that](/en/post/that/) **transforms** [electrical](/en/post/electrical/) [energy](/en/post/energy/) [from](/en/post/from/) [one](/en/post/one/) [voltage](/en/post/voltage/) [or](/en/post/or/) [current](/en/post/current/) [to](/en/post/to/) [another](/en/post/another/) [through](/en/post/through/) electromagnetic induction. [It](/en/post/it/) is [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [power](/en/post/power/) [distribution](/en/post/distribution/) systems [to](/en/post/to/) [step](/en/post/step/) [up](/en/post/up/) [or](/en/post/or/) [down](/en/post/down/) voltages.
+### [Noun](/post/noun/)
+[A](/post/a/) [transformer](/post/transformer/) is [a](/post/a/) **n** ([electric](/post/electric/) [engineering](/post/engineering/)) [device](/post/device/) [that](/post/that/) **transforms** [electrical](/post/electrical/) [energy](/post/energy/) [from](/post/from/) [one](/post/one/) [voltage](/post/voltage/) [or](/post/or/) [current](/post/current/) [to](/post/to/) [another](/post/another/) [through](/post/through/) electromagnetic induction. [It](/post/it/) is [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [power](/post/power/) [distribution](/post/distribution/) systems [to](/post/to/) [step](/post/step/) [up](/post/up/) [or](/post/or/) [down](/post/down/) voltages.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [transform](/en/post/transform/) ([a](/en/post/a/) [material](/en/post/material/), [signal](/en/post/signal/), [or](/en/post/or/) [data](/en/post/data/)) [means](/en/post/means/) [to](/en/post/to/) [change](/en/post/change/) [its](/en/post/its/) [form](/en/post/form/) [or](/en/post/or/) [structure](/en/post/structure/), [often](/en/post/often/) using [electronic](/en/post/electronic/) [equipment](/en/post/equipment/) [like](/en/post/like/) [a](/en/post/a/) [transformer](/en/post/transformer/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [computer](/en/post/computer/) [can](/en/post/can/) [transform](/en/post/transform/) [digital](/en/post/digital/) signals [into](/en/post/into/) analog sounds."
+### [Verb](/post/verb/)
+[To](/post/to/) [transform](/post/transform/) ([a](/post/a/) [material](/post/material/), [signal](/post/signal/), [or](/post/or/) [data](/post/data/)) [means](/post/means/) [to](/post/to/) [change](/post/change/) [its](/post/its/) [form](/post/form/) [or](/post/or/) [structure](/post/structure/), [often](/post/often/) using [electronic](/post/electronic/) [equipment](/post/equipment/) [like](/post/like/) [a](/post/a/) [transformer](/post/transformer/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [computer](/post/computer/) [can](/post/can/) [transform](/post/transform/) [digital](/post/digital/) signals [into](/post/into/) analog sounds."
 
-### [Noun](/en/post/noun/) ([Science](/en/post/science/) [Fiction](/en/post/fiction/))
-[In](/en/post/in/) [science](/en/post/science/) [fiction](/en/post/fiction/), [a](/en/post/a/) [transformer](/en/post/transformer/) is [a](/en/post/a/) [character](/en/post/character/) [or](/en/post/or/) [creature](/en/post/creature/) [that](/en/post/that/) [can](/en/post/can/) [change](/en/post/change/) [shape](/en/post/shape/) [or](/en/post/or/) [appearance](/en/post/appearance/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [focus](/en/post/focus/) [on](/en/post/on/) [the](/en/post/the/) Transformers franchise.
+### [Noun](/post/noun/) ([Science](/post/science/) [Fiction](/post/fiction/))
+[In](/post/in/) [science](/post/science/) [fiction](/post/fiction/), [a](/post/a/) [transformer](/post/transformer/) is [a](/post/a/) [character](/post/character/) [or](/post/or/) [creature](/post/creature/) [that](/post/that/) [can](/post/can/) [change](/post/change/) [shape](/post/shape/) [or](/post/or/) [appearance](/post/appearance/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [focus](/post/focus/) [on](/post/on/) [the](/post/the/) Transformers franchise.
 
 ## Phrases
-- "Step-up [transformer](/en/post/transformer/)" increases [voltage](/en/post/voltage/).
-- "[Power](/en/post/power/) [transformer](/en/post/transformer/)" [in](/en/post/in/) [electrical](/en/post/electrical/) systems.
-- "[Transformer](/en/post/transformer/) [core](/en/post/core/)" refers [to](/en/post/to/) [the](/en/post/the/) [central](/en/post/central/) [component](/en/post/component/) [of](/en/post/of/) [the](/en/post/the/) [device](/en/post/device/).
+- "Step-up [transformer](/post/transformer/)" increases [voltage](/post/voltage/).
+- "[Power](/post/power/) [transformer](/post/transformer/)" [in](/post/in/) [electrical](/post/electrical/) systems.
+- "[Transformer](/post/transformer/) [core](/post/core/)" refers [to](/post/to/) [the](/post/the/) [central](/post/central/) [component](/post/component/) [of](/post/of/) [the](/post/the/) [device](/post/device/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [transformer](/en/post/transformer/) [on](/en/post/on/) [the](/en/post/the/) [power](/en/post/power/) [line](/en/post/line/) efficiently stepped [down](/en/post/down/) [the](/en/post/the/) [voltage](/en/post/voltage/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [transformer](/en/post/transformer/) was designed [to](/en/post/to/) [transform](/en/post/transform/) low-frequency AC [into](/en/post/into/) high-frequency AC [for](/en/post/for/) [radio](/en/post/radio/) [transmission](/en/post/transmission/)."
-- **[Science](/en/post/science/) [Fiction](/en/post/fiction/)**: "[The](/en/post/the/) Autobots [could](/en/post/could/) [transform](/en/post/transform/) [from](/en/post/from/) robots [into](/en/post/into/) vehicles."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [transformer](/post/transformer/) [on](/post/on/) [the](/post/the/) [power](/post/power/) [line](/post/line/) efficiently stepped [down](/post/down/) [the](/post/the/) [voltage](/post/voltage/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [transformer](/post/transformer/) was designed [to](/post/to/) [transform](/post/transform/) low-frequency AC [into](/post/into/) high-frequency AC [for](/post/for/) [radio](/post/radio/) [transmission](/post/transmission/)."
+- **[Science](/post/science/) [Fiction](/post/fiction/)**: "[The](/post/the/) Autobots [could](/post/could/) [transform](/post/transform/) [from](/post/from/) robots [into](/post/into/) vehicles."
 
 ## Synonyms
 - Converter
@@ -37,4 +37,4 @@ keywords = ['ai words', 'transformer']
 - Modulator
 - Reformer
 
-[Note](/en/post/note/): [The](/en/post/the/) [usage](/en/post/usage/) [of](/en/post/of/) "[transformer](/en/post/transformer/)" [in](/en/post/in/) [science](/en/post/science/) [fiction](/en/post/fiction/) is [not](/en/post/not/) [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [standard](/en/post/standard/) English [dictionary](/en/post/dictionary/) [but](/en/post/but/) refers [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) cultural [reference](/en/post/reference/).
+[Note](/post/note/): [The](/post/the/) [usage](/post/usage/) [of](/post/of/) "[transformer](/post/transformer/)" [in](/post/in/) [science](/post/science/) [fiction](/post/fiction/) is [not](/post/not/) [a](/post/a/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [standard](/post/standard/) English [dictionary](/post/dictionary/) [but](/post/but/) refers [to](/post/to/) [a](/post/a/) [specific](/post/specific/) cultural [reference](/post/reference/).

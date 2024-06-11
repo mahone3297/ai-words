@@ -7,34 +7,34 @@ description = '[ˈfjuəriəs] a.狂怒的；狂暴的'
 keywords = ['ai words', 'furious']
 +++
 
-## [Word](/en/post/word/): [Furious](/en/post/furious/)
+## [Word](/post/word/): [Furious](/post/furious/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfjʊərɪəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Intensely [angry](/en/post/angry/); [very](/en/post/very/) annoyed [or](/en/post/or/) enraged. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [furious](/en/post/furious/) [when](/en/post/when/) [she](/en/post/she/) discovered [her](/en/post/her/) [car](/en/post/car/) had been vandalized."
+- **[Adjective](/post/adjective/)**: Intensely [angry](/post/angry/); [very](/post/very/) annoyed [or](/post/or/) enraged. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [furious](/post/furious/) [when](/post/when/) [she](/post/she/) discovered [her](/post/her/) [car](/post/car/) had been vandalized."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/):
-- _He was [absolutely](/en/post/absolutely/) [furious](/en/post/furious/) [after](/en/post/after/) realizing he'd been tricked [by](/en/post/by/) [his](/en/post/his/) [business](/en/post/business/) [partner](/en/post/partner/)._
+[Example](/post/example/) [Sentence](/post/sentence/):
+- _He was [absolutely](/post/absolutely/) [furious](/post/furious/) [after](/post/after/) realizing he'd been tricked [by](/post/by/) [his](/post/his/) [business](/post/business/) [partner](/post/partner/)._
 
 Phrases:
-- "[In](/en/post/in/) [a](/en/post/a/) fury": Describes [someone](/en/post/someone/) [who](/en/post/who/) is currently experiencing [intense](/en/post/intense/) [anger](/en/post/anger/). [Example](/en/post/example/): "[The](/en/post/the/) [boss](/en/post/boss/) stormed [into](/en/post/into/) [the](/en/post/the/) [office](/en/post/office/) [in](/en/post/in/) [a](/en/post/a/) fury [over](/en/post/over/) [the](/en/post/the/) missed deadline."
-- "[Furious](/en/post/furious/) [pace](/en/post/pace/)": Describes [something](/en/post/something/) moving [or](/en/post/or/) happening [extremely](/en/post/extremely/) [fast](/en/post/fast/) [or](/en/post/or/) [with](/en/post/with/) [great](/en/post/great/) [intensity](/en/post/intensity/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) grew [at](/en/post/at/) [a](/en/post/a/) [furious](/en/post/furious/) [pace](/en/post/pace/) [after](/en/post/after/) launching [its](/en/post/its/) groundbreaking [product](/en/post/product/)."
+- "[In](/post/in/) [a](/post/a/) fury": Describes [someone](/post/someone/) [who](/post/who/) is currently experiencing [intense](/post/intense/) [anger](/post/anger/). [Example](/post/example/): "[The](/post/the/) [boss](/post/boss/) stormed [into](/post/into/) [the](/post/the/) [office](/post/office/) [in](/post/in/) [a](/post/a/) fury [over](/post/over/) [the](/post/the/) missed deadline."
+- "[Furious](/post/furious/) [pace](/post/pace/)": Describes [something](/post/something/) moving [or](/post/or/) happening [extremely](/post/extremely/) [fast](/post/fast/) [or](/post/or/) [with](/post/with/) [great](/post/great/) [intensity](/post/intensity/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) grew [at](/post/at/) [a](/post/a/) [furious](/post/furious/) [pace](/post/pace/) [after](/post/after/) launching [its](/post/its/) groundbreaking [product](/post/product/)."
 
 ## Synonyms
 - Enraged
 - Livid
 - Incensed
-- [Indignant](/en/post/indignant/)
+- [Indignant](/post/indignant/)
 - Infuriated
-- [Angry](/en/post/angry/)
+- [Angry](/post/angry/)
 - Outraged
 - Wrathful
-- [Beside](/en/post/beside/) [oneself](/en/post/oneself/) [with](/en/post/with/) [anger](/en/post/anger/)
+- [Beside](/post/beside/) [oneself](/post/oneself/) [with](/post/with/) [anger](/post/anger/)
 - Seething
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) teacher's [furious](/en/post/furious/) [expression](/en/post/expression/) made [it](/en/post/it/) [clear](/en/post/clear/) [that](/en/post/that/) [the](/en/post/the/) students were [in](/en/post/in/) [trouble](/en/post/trouble/) [for](/en/post/for/) [their](/en/post/their/) disruptive [behavior](/en/post/behavior/)."
-- "[The](/en/post/the/) [driver](/en/post/driver/) drove [off](/en/post/off/) [in](/en/post/in/) [a](/en/post/a/) [furious](/en/post/furious/) [hurry](/en/post/hurry/) [after](/en/post/after/) causing [the](/en/post/the/) [accident](/en/post/accident/)."
-- "[Her](/en/post/her/) [face](/en/post/face/) turned [furious](/en/post/furious/) [when](/en/post/when/) [she](/en/post/she/) [found](/en/post/found/) [out](/en/post/out/) [about](/en/post/about/) [his](/en/post/his/) betrayal."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) teacher's [furious](/post/furious/) [expression](/post/expression/) made [it](/post/it/) [clear](/post/clear/) [that](/post/that/) [the](/post/the/) students were [in](/post/in/) [trouble](/post/trouble/) [for](/post/for/) [their](/post/their/) disruptive [behavior](/post/behavior/)."
+- "[The](/post/the/) [driver](/post/driver/) drove [off](/post/off/) [in](/post/in/) [a](/post/a/) [furious](/post/furious/) [hurry](/post/hurry/) [after](/post/after/) causing [the](/post/the/) [accident](/post/accident/)."
+- "[Her](/post/her/) [face](/post/face/) turned [furious](/post/furious/) [when](/post/when/) [she](/post/she/) [found](/post/found/) [out](/post/out/) [about](/post/about/) [his](/post/his/) betrayal."

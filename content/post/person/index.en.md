@@ -7,36 +7,36 @@ description = '[ˈpəːsn] n.人；人身；本人'
 keywords = ['ai words', 'person']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pərˈsən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. An [individual](/en/post/individual/) [human](/en/post/human/) [being](/en/post/being/), characterized [by](/en/post/by/) [reason](/en/post/reason/), [consciousness](/en/post/consciousness/), [and](/en/post/and/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [perceive](/en/post/perceive/) [or](/en/post/or/) [act](/en/post/act/). 2. [A](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [community](/en/post/community/). 3. (pl.) [People](/en/post/people/) collectively. 4. [A](/en/post/a/) [character](/en/post/character/) [or](/en/post/or/) [role](/en/post/role/) [in](/en/post/in/) [a](/en/post/a/) [story](/en/post/story/), [play](/en/post/play/), [or](/en/post/or/) [film](/en/post/film/). 5. [A](/en/post/a/) [user](/en/post/user/) [of](/en/post/of/) [a](/en/post/a/) [computer](/en/post/computer/) [or](/en/post/or/) software [application](/en/post/application/).
+- **[Noun](/post/noun/)**: 1. An [individual](/post/individual/) [human](/post/human/) [being](/post/being/), characterized [by](/post/by/) [reason](/post/reason/), [consciousness](/post/consciousness/), [and](/post/and/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [perceive](/post/perceive/) [or](/post/or/) [act](/post/act/). 2. [A](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [community](/post/community/). 3. (pl.) [People](/post/people/) collectively. 4. [A](/post/a/) [character](/post/character/) [or](/post/or/) [role](/post/role/) [in](/post/in/) [a](/post/a/) [story](/post/story/), [play](/post/play/), [or](/post/or/) [film](/post/film/). 5. [A](/post/a/) [user](/post/user/) [of](/post/of/) [a](/post/a/) [computer](/post/computer/) [or](/post/or/) software [application](/post/application/).
 
 ## Phrases
-- "[A](/en/post/a/) [person](/en/post/person/) [of](/en/post/of/) [interest](/en/post/interest/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is [under](/en/post/under/) [investigation](/en/post/investigation/).
-- "[The](/en/post/the/) [person](/en/post/person/) [in](/en/post/in/) [charge](/en/post/charge/)" is [the](/en/post/the/) [one](/en/post/one/) [responsible](/en/post/responsible/) [for](/en/post/for/) overseeing [a](/en/post/a/) [situation](/en/post/situation/).
-- "Personality traits" [describe](/en/post/describe/) [the](/en/post/the/) characteristics [that](/en/post/that/) [make](/en/post/make/) [up](/en/post/up/) an individual's [behavior](/en/post/behavior/).
+- "[A](/post/a/) [person](/post/person/) [of](/post/of/) [interest](/post/interest/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is [under](/post/under/) [investigation](/post/investigation/).
+- "[The](/post/the/) [person](/post/person/) [in](/post/in/) [charge](/post/charge/)" is [the](/post/the/) [one](/post/one/) [responsible](/post/responsible/) [for](/post/for/) overseeing [a](/post/a/) [situation](/post/situation/).
+- "Personality traits" [describe](/post/describe/) [the](/post/the/) characteristics [that](/post/that/) [make](/post/make/) [up](/post/up/) an individual's [behavior](/post/behavior/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Every](/en/post/every/) [person](/en/post/person/) has [their](/en/post/their/) [unique](/en/post/unique/) strengths [and](/en/post/and/) weaknesses."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [entire](/en/post/entire/) [team](/en/post/team/) worked [together](/en/post/together/), [each](/en/post/each/) [person](/en/post/person/) contributing [to](/en/post/to/) [the](/en/post/the/) project's [success](/en/post/success/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) interviewer asked [each](/en/post/each/) applicant [about](/en/post/about/) [their](/en/post/their/) [relevant](/en/post/relevant/) [work](/en/post/work/) [experience](/en/post/experience/) [as](/en/post/as/) [a](/en/post/a/) [person](/en/post/person/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Every](/post/every/) [person](/post/person/) has [their](/post/their/) [unique](/post/unique/) strengths [and](/post/and/) weaknesses."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [entire](/post/entire/) [team](/post/team/) worked [together](/post/together/), [each](/post/each/) [person](/post/person/) contributing [to](/post/to/) [the](/post/the/) project's [success](/post/success/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) interviewer asked [each](/post/each/) applicant [about](/post/about/) [their](/post/their/) [relevant](/post/relevant/) [work](/post/work/) [experience](/post/experience/) [as](/post/as/) [a](/post/a/) [person](/post/person/)."
 
 ## Synonyms
-- [Individual](/en/post/individual/)
+- [Individual](/post/individual/)
 - Personage
-- [Fellow](/en/post/fellow/)
-- [Someone](/en/post/someone/)
-- [Everybody](/en/post/everybody/)
-- [Human](/en/post/human/) [being](/en/post/being/)
+- [Fellow](/post/fellow/)
+- [Someone](/post/someone/)
+- [Everybody](/post/everybody/)
+- [Human](/post/human/) [being](/post/being/)
 
 ## Antonyms
-- [Object](/en/post/object/)
+- [Object](/post/object/)
 - Entity
 - Anonymous
 - Faceless
-- [Abstract](/en/post/abstract/)
+- [Abstract](/post/abstract/)
 
-## [Usage](/en/post/usage/) notes
-- [In](/en/post/in/) British English, "[person](/en/post/person/)" is [often](/en/post/often/) [used](/en/post/used/) informally [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/) [without](/en/post/without/) specifying [their](/en/post/their/) gender. [In](/en/post/in/) [American](/en/post/american/) English, it's [more](/en/post/more/) [common](/en/post/common/) [to](/en/post/to/) [use](/en/post/use/) "[person](/en/post/person/)" [as](/en/post/as/) [a](/en/post/a/) gender-neutral [term](/en/post/term/), [while](/en/post/while/) "[he](/en/post/he/) [or](/en/post/or/) [she](/en/post/she/)" [or](/en/post/or/) "[they](/en/post/they/)" [may](/en/post/may/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [avoid](/en/post/avoid/) gender specificity.
+## [Usage](/post/usage/) notes
+- [In](/post/in/) British English, "[person](/post/person/)" is [often](/post/often/) [used](/post/used/) informally [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [someone](/post/someone/) [without](/post/without/) specifying [their](/post/their/) gender. [In](/post/in/) [American](/post/american/) English, it's [more](/post/more/) [common](/post/common/) [to](/post/to/) [use](/post/use/) "[person](/post/person/)" [as](/post/as/) [a](/post/a/) gender-neutral [term](/post/term/), [while](/post/while/) "[he](/post/he/) [or](/post/or/) [she](/post/she/)" [or](/post/or/) "[they](/post/they/)" [may](/post/may/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [avoid](/post/avoid/) gender specificity.

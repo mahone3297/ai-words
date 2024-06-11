@@ -7,45 +7,45 @@ description = '[ˈprezns] n.出席，到场；在'
 keywords = ['ai words', 'presence']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /presəns/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Presence](/en/post/presence/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [present](/en/post/present/), attendance, [or](/en/post/or/) [the](/en/post/the/) [feeling](/en/post/feeling/) [that](/en/post/that/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) is [nearby](/en/post/nearby/) [or](/en/post/or/) has an [effect](/en/post/effect/) [on](/en/post/on/) others. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [significant](/en/post/significant/) [or](/en/post/or/) [impressive](/en/post/impressive/) [presence](/en/post/presence/).
+### [Noun](/post/noun/)
+**[Presence](/post/presence/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [present](/post/present/), attendance, [or](/post/or/) [the](/post/the/) [feeling](/post/feeling/) [that](/post/that/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) is [nearby](/post/nearby/) [or](/post/or/) has an [effect](/post/effect/) [on](/post/on/) others. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [significant](/post/significant/) [or](/post/or/) [impressive](/post/impressive/) [presence](/post/presence/).
 
-### [Verb](/en/post/verb/)
-**[Be](/en/post/be/) [present](/en/post/present/)**: [To](/en/post/to/) [be](/en/post/be/) physically [or](/en/post/or/) mentally [present](/en/post/present/) [at](/en/post/at/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [event](/en/post/event/). [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [impact](/en/post/impact/) [or](/en/post/or/) [impression](/en/post/impression/).
+### [Verb](/post/verb/)
+**[Be](/post/be/) [present](/post/present/)**: [To](/post/to/) [be](/post/be/) physically [or](/post/or/) mentally [present](/post/present/) [at](/post/at/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [event](/post/event/). [To](/post/to/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) [impact](/post/impact/) [or](/post/or/) [impression](/post/impression/).
 
-### [Adjective](/en/post/adjective/)
-**[Present](/en/post/present/)**: Existing [now](/en/post/now/); [current](/en/post/current/); occurring [at](/en/post/at/) [the](/en/post/the/) [same](/en/post/same/) [time](/en/post/time/) [as](/en/post/as/) [something](/en/post/something/) [else](/en/post/else/).
+### [Adjective](/post/adjective/)
+**[Present](/post/present/)**: Existing [now](/post/now/); [current](/post/current/); occurring [at](/post/at/) [the](/post/the/) [same](/post/same/) [time](/post/time/) [as](/post/as/) [something](/post/something/) [else](/post/else/).
 
-### [Adverb](/en/post/adverb/)
-**[Presently](/en/post/presently/)**: Currently, [at](/en/post/at/) [this](/en/post/this/) [moment](/en/post/moment/).
+### [Adverb](/post/adverb/)
+**[Presently](/post/presently/)**: Currently, [at](/post/at/) [this](/post/this/) [moment](/post/moment/).
 
 ## Phrases
-- "[In](/en/post/in/) one's [presence](/en/post/presence/)" indicates [when](/en/post/when/) [someone](/en/post/someone/) is [nearby](/en/post/nearby/) [or](/en/post/or/) has [a](/en/post/a/) notable [effect](/en/post/effect/) [on](/en/post/on/) [another](/en/post/another/).
-- "[Lack](/en/post/lack/) [of](/en/post/of/) [presence](/en/post/presence/)" signifies [the](/en/post/the/) [absence](/en/post/absence/) [or](/en/post/or/) invisibility [of](/en/post/of/) [someone](/en/post/someone/).
-- "[Make](/en/post/make/) an [entrance](/en/post/entrance/)/[exit](/en/post/exit/) [in](/en/post/in/) one's [presence](/en/post/presence/)" refers [to](/en/post/to/) making [a](/en/post/a/) notable [appearance](/en/post/appearance/) [or](/en/post/or/) [departure](/en/post/departure/).
+- "[In](/post/in/) one's [presence](/post/presence/)" indicates [when](/post/when/) [someone](/post/someone/) is [nearby](/post/nearby/) [or](/post/or/) has [a](/post/a/) notable [effect](/post/effect/) [on](/post/on/) [another](/post/another/).
+- "[Lack](/post/lack/) [of](/post/of/) [presence](/post/presence/)" signifies [the](/post/the/) [absence](/post/absence/) [or](/post/or/) invisibility [of](/post/of/) [someone](/post/someone/).
+- "[Make](/post/make/) an [entrance](/post/entrance/)/[exit](/post/exit/) [in](/post/in/) one's [presence](/post/presence/)" refers [to](/post/to/) making [a](/post/a/) notable [appearance](/post/appearance/) [or](/post/or/) [departure](/post/departure/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) calming [presence](/en/post/presence/) helped [to](/en/post/to/) soothe [the](/en/post/the/) [anxious](/en/post/anxious/) children."
-- **[Verb](/en/post/verb/)**: "[Please](/en/post/please/) [be](/en/post/be/) [present](/en/post/present/) [for](/en/post/for/) [the](/en/post/the/) [meeting](/en/post/meeting/) [tomorrow](/en/post/tomorrow/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [atmosphere](/en/post/atmosphere/) was filled [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [present](/en/post/present/) [danger](/en/post/danger/)."
-- **[Adverb](/en/post/adverb/)**: "We'll [discuss](/en/post/discuss/) [the](/en/post/the/) [project](/en/post/project/) [presently](/en/post/presently/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) calming [presence](/post/presence/) helped [to](/post/to/) soothe [the](/post/the/) [anxious](/post/anxious/) children."
+- **[Verb](/post/verb/)**: "[Please](/post/please/) [be](/post/be/) [present](/post/present/) [for](/post/for/) [the](/post/the/) [meeting](/post/meeting/) [tomorrow](/post/tomorrow/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [atmosphere](/post/atmosphere/) was filled [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [present](/post/present/) [danger](/post/danger/)."
+- **[Adverb](/post/adverb/)**: "We'll [discuss](/post/discuss/) [the](/post/the/) [project](/post/project/) [presently](/post/presently/)."
 
 ## Synonyms
 - Attendance
-- Showing [up](/en/post/up/)
-- [Being](/en/post/being/) [there](/en/post/there/)
-- [Punctual](/en/post/punctual/)
+- Showing [up](/post/up/)
+- [Being](/post/being/) [there](/post/there/)
+- [Punctual](/post/punctual/)
 - Ergodic
 - Abundance
-- [Impact](/en/post/impact/)
-- [Influence](/en/post/influence/)
+- [Impact](/post/impact/)
+- [Influence](/post/influence/)
 
 ## Antonyms
-- [Absence](/en/post/absence/)
+- [Absence](/post/absence/)
 - Non-presence
-- [Lack](/en/post/lack/) thereof
+- [Lack](/post/lack/) thereof
 - Omission

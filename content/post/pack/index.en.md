@@ -7,43 +7,43 @@ description = '[pæk] vt.捆扎；挤满 n.包'
 keywords = ['ai words', 'pack']
 +++
 
-## [Word](/en/post/word/): [Pack](/en/post/pack/)
+## [Word](/post/word/): [Pack](/post/pack/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pæk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - [A](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) items [or](/en/post/or/) things wrapped [or](/en/post/or/) boxed [together](/en/post/together/); e.g., "I packed [my](/en/post/my/) [clothes](/en/post/clothes/) [in](/en/post/in/) [a](/en/post/a/) [small](/en/post/small/) backpack."
-  - [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) animals, [especially](/en/post/especially/) predators [like](/en/post/like/) wolves [or](/en/post/or/) [a](/en/post/a/) [deck](/en/post/deck/) [of](/en/post/of/) playing cards; e.g., "[The](/en/post/the/) [pack](/en/post/pack/) hunted [as](/en/post/as/) [a](/en/post/a/) coordinated [unit](/en/post/unit/)."
-  - [A](/en/post/a/) [set](/en/post/set/) [or](/en/post/or/) [quantity](/en/post/quantity/) [of](/en/post/of/) [similar](/en/post/similar/) items sold [together](/en/post/together/); e.g., "[A](/en/post/a/) [pack](/en/post/pack/) [of](/en/post/of/) cigarettes."
-  - [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) shared [purpose](/en/post/purpose/) [or](/en/post/or/) [characteristic](/en/post/characteristic/); e.g., "[A](/en/post/a/) [pack](/en/post/pack/) [of](/en/post/of/) students went [on](/en/post/on/) [a](/en/post/a/) hiking [trip](/en/post/trip/)."
+- **[Noun](/post/noun/)**: 
+  - [A](/post/a/) [collection](/post/collection/) [of](/post/of/) items [or](/post/or/) things wrapped [or](/post/or/) boxed [together](/post/together/); e.g., "I packed [my](/post/my/) [clothes](/post/clothes/) [in](/post/in/) [a](/post/a/) [small](/post/small/) backpack."
+  - [A](/post/a/) [group](/post/group/) [of](/post/of/) animals, [especially](/post/especially/) predators [like](/post/like/) wolves [or](/post/or/) [a](/post/a/) [deck](/post/deck/) [of](/post/of/) playing cards; e.g., "[The](/post/the/) [pack](/post/pack/) hunted [as](/post/as/) [a](/post/a/) coordinated [unit](/post/unit/)."
+  - [A](/post/a/) [set](/post/set/) [or](/post/or/) [quantity](/post/quantity/) [of](/post/of/) [similar](/post/similar/) items sold [together](/post/together/); e.g., "[A](/post/a/) [pack](/post/pack/) [of](/post/of/) cigarettes."
+  - [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/), [often](/post/often/) [with](/post/with/) [a](/post/a/) shared [purpose](/post/purpose/) [or](/post/or/) [characteristic](/post/characteristic/); e.g., "[A](/post/a/) [pack](/post/pack/) [of](/post/of/) students went [on](/post/on/) [a](/post/a/) hiking [trip](/post/trip/)."
 
-- **[Verb](/en/post/verb/)**:
-  - [To](/en/post/to/) [place](/en/post/place/) things [in](/en/post/in/) [a](/en/post/a/) [container](/en/post/container/) [or](/en/post/or/) [bag](/en/post/bag/); e.g., "I [need](/en/post/need/) [to](/en/post/to/) [pack](/en/post/pack/) [my](/en/post/my/) suitcase [before](/en/post/before/) [the](/en/post/the/) [trip](/en/post/trip/)."
-  - [To](/en/post/to/) [compress](/en/post/compress/) [or](/en/post/or/) [make](/en/post/make/) compact; e.g., "[She](/en/post/she/) packed [the](/en/post/the/) [snow](/en/post/snow/) tightly [to](/en/post/to/) [build](/en/post/build/) [a](/en/post/a/) snowman."
-  - [To](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) [a](/en/post/a/) [journey](/en/post/journey/) [or](/en/post/or/) [move](/en/post/move/); e.g., "We're packing [up](/en/post/up/) [our](/en/post/our/) belongings [to](/en/post/to/) [move](/en/post/move/) [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [house](/en/post/house/)."
-  - [To](/en/post/to/) [fill](/en/post/fill/) [something](/en/post/something/) solidly [or](/en/post/or/) [completely](/en/post/completely/); e.g., "[The](/en/post/the/) [stadium](/en/post/stadium/) was packed [with](/en/post/with/) fans."
+- **[Verb](/post/verb/)**:
+  - [To](/post/to/) [place](/post/place/) things [in](/post/in/) [a](/post/a/) [container](/post/container/) [or](/post/or/) [bag](/post/bag/); e.g., "I [need](/post/need/) [to](/post/to/) [pack](/post/pack/) [my](/post/my/) suitcase [before](/post/before/) [the](/post/the/) [trip](/post/trip/)."
+  - [To](/post/to/) [compress](/post/compress/) [or](/post/or/) [make](/post/make/) compact; e.g., "[She](/post/she/) packed [the](/post/the/) [snow](/post/snow/) tightly [to](/post/to/) [build](/post/build/) [a](/post/a/) snowman."
+  - [To](/post/to/) [prepare](/post/prepare/) [for](/post/for/) [a](/post/a/) [journey](/post/journey/) [or](/post/or/) [move](/post/move/); e.g., "We're packing [up](/post/up/) [our](/post/our/) belongings [to](/post/to/) [move](/post/move/) [to](/post/to/) [a](/post/a/) [new](/post/new/) [house](/post/house/)."
+  - [To](/post/to/) [fill](/post/fill/) [something](/post/something/) solidly [or](/post/or/) [completely](/post/completely/); e.g., "[The](/post/the/) [stadium](/post/stadium/) was packed [with](/post/with/) fans."
   
-- **[Adjective](/en/post/adjective/)** ([usually](/en/post/usually/) [in](/en/post/in/) compounds): Referring [to](/en/post/to/) [something](/en/post/something/) sold [or](/en/post/or/) [used](/en/post/used/) [in](/en/post/in/) packs; e.g., "[A](/en/post/a/) packable [jacket](/en/post/jacket/) that's [perfect](/en/post/perfect/) [for](/en/post/for/) [travel](/en/post/travel/)."
+- **[Adjective](/post/adjective/)** ([usually](/post/usually/) [in](/post/in/) compounds): Referring [to](/post/to/) [something](/post/something/) sold [or](/post/or/) [used](/post/used/) [in](/post/in/) packs; e.g., "[A](/post/a/) packable [jacket](/post/jacket/) that's [perfect](/post/perfect/) [for](/post/for/) [travel](/post/travel/)."
 
 ## Phrases
-- "[To](/en/post/to/) [pack](/en/post/pack/) [up](/en/post/up/)": [To](/en/post/to/) [gather](/en/post/gather/) [and](/en/post/and/) [put](/en/post/put/) [away](/en/post/away/) one's belongings, typically [in](/en/post/in/) [preparation](/en/post/preparation/) [for](/en/post/for/) leaving [a](/en/post/a/) [place](/en/post/place/); e.g., "It's [time](/en/post/time/) [to](/en/post/to/) [pack](/en/post/pack/) [up](/en/post/up/) [camp](/en/post/camp/) [and](/en/post/and/) [head](/en/post/head/) [back](/en/post/back/) [home](/en/post/home/)."
-- "[To](/en/post/to/) [pack](/en/post/pack/) [a](/en/post/a/) [punch](/en/post/punch/)": [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [impact](/en/post/impact/) [or](/en/post/or/) [effect](/en/post/effect/); e.g., "[This](/en/post/this/) [new](/en/post/new/) medication [really](/en/post/really/) packs [a](/en/post/a/) [punch](/en/post/punch/) [against](/en/post/against/) [the](/en/post/the/) [flu](/en/post/flu/)."
-- "[Wolf](/en/post/wolf/) [pack](/en/post/pack/)": [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) predatory animals hunting [together](/en/post/together/), [often](/en/post/often/) [used](/en/post/used/) metaphorically [for](/en/post/for/) [a](/en/post/a/) tight-knit [group](/en/post/group/) [of](/en/post/of/) humans.
+- "[To](/post/to/) [pack](/post/pack/) [up](/post/up/)": [To](/post/to/) [gather](/post/gather/) [and](/post/and/) [put](/post/put/) [away](/post/away/) one's belongings, typically [in](/post/in/) [preparation](/post/preparation/) [for](/post/for/) leaving [a](/post/a/) [place](/post/place/); e.g., "It's [time](/post/time/) [to](/post/to/) [pack](/post/pack/) [up](/post/up/) [camp](/post/camp/) [and](/post/and/) [head](/post/head/) [back](/post/back/) [home](/post/home/)."
+- "[To](/post/to/) [pack](/post/pack/) [a](/post/a/) [punch](/post/punch/)": [To](/post/to/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) [impact](/post/impact/) [or](/post/or/) [effect](/post/effect/); e.g., "[This](/post/this/) [new](/post/new/) medication [really](/post/really/) packs [a](/post/a/) [punch](/post/punch/) [against](/post/against/) [the](/post/the/) [flu](/post/flu/)."
+- "[Wolf](/post/wolf/) [pack](/post/pack/)": [A](/post/a/) [group](/post/group/) [of](/post/of/) predatory animals hunting [together](/post/together/), [often](/post/often/) [used](/post/used/) metaphorically [for](/post/for/) [a](/post/a/) tight-knit [group](/post/group/) [of](/post/of/) humans.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) hiker carried [a](/en/post/a/) survival [pack](/en/post/pack/) containing [food](/en/post/food/), [water](/en/post/water/), [and](/en/post/and/) [a](/en/post/a/) [first](/en/post/first/) [aid](/en/post/aid/) kit."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) meticulously packed [his](/en/post/his/) [lunch](/en/post/lunch/) [box](/en/post/box/) [with](/en/post/with/) sandwiches [and](/en/post/and/) [fruit](/en/post/fruit/) [for](/en/post/for/) [the](/en/post/the/) [day](/en/post/day/) [ahead](/en/post/ahead/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [vacuum](/en/post/vacuum/) cleaner comes [with](/en/post/with/) [a](/en/post/a/) [pack](/en/post/pack/) [of](/en/post/of/) [additional](/en/post/additional/) attachments."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) hiker carried [a](/post/a/) survival [pack](/post/pack/) containing [food](/post/food/), [water](/post/water/), [and](/post/and/) [a](/post/a/) [first](/post/first/) [aid](/post/aid/) kit."
+- **[Verb](/post/verb/)**: "[He](/post/he/) meticulously packed [his](/post/his/) [lunch](/post/lunch/) [box](/post/box/) [with](/post/with/) sandwiches [and](/post/and/) [fruit](/post/fruit/) [for](/post/for/) [the](/post/the/) [day](/post/day/) [ahead](/post/ahead/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [vacuum](/post/vacuum/) cleaner comes [with](/post/with/) [a](/post/a/) [pack](/post/pack/) [of](/post/of/) [additional](/post/additional/) attachments."
 
 ## Synonyms
-- [Group](/en/post/group/)
-- [Collection](/en/post/collection/)
-- [Bundle](/en/post/bundle/)
-- [Load](/en/post/load/)
-- [Set](/en/post/set/)
-- [Fill](/en/post/fill/)
-- [Compress](/en/post/compress/)
-- [Prepare](/en/post/prepare/) ([for](/en/post/for/) journeys)
-- [Stuff](/en/post/stuff/) (informal)
+- [Group](/post/group/)
+- [Collection](/post/collection/)
+- [Bundle](/post/bundle/)
+- [Load](/post/load/)
+- [Set](/post/set/)
+- [Fill](/post/fill/)
+- [Compress](/post/compress/)
+- [Prepare](/post/prepare/) ([for](/post/for/) journeys)
+- [Stuff](/post/stuff/) (informal)

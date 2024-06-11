@@ -7,32 +7,32 @@ description = '[igˈzibit] vt.显示；陈列，展览'
 keywords = ['ai words', 'exhibit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪɡˈzɪbɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [display](/en/post/display/) [or](/en/post/or/) [collection](/en/post/collection/) [of](/en/post/of/) items shown [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/), typically [in](/en/post/in/) [a](/en/post/a/) [museum](/en/post/museum/) [or](/en/post/or/) [gallery](/en/post/gallery/). [Example](/en/post/example/): "[The](/en/post/the/) [art](/en/post/art/) [exhibit](/en/post/exhibit/) showcased [contemporary](/en/post/contemporary/) paintings [from](/en/post/from/) [local](/en/post/local/) artists."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [show](/en/post/show/) [or](/en/post/or/) [display](/en/post/display/) [something](/en/post/something/) [for](/en/post/for/) others [to](/en/post/to/) [see](/en/post/see/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) [setting](/en/post/setting/). [Example](/en/post/example/): "[The](/en/post/the/) [scientist](/en/post/scientist/) exhibited [her](/en/post/her/) latest findings [at](/en/post/at/) [the](/en/post/the/) [international](/en/post/international/) [conference](/en/post/conference/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [demonstrate](/en/post/demonstrate/) [or](/en/post/or/) [reveal](/en/post/reveal/) [a](/en/post/a/) [quality](/en/post/quality/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [through](/en/post/through/) one's [behavior](/en/post/behavior/) [or](/en/post/or/) actions. [Example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) exhibited [great](/en/post/great/) [enthusiasm](/en/post/enthusiasm/) [during](/en/post/during/) [the](/en/post/the/) [class](/en/post/class/) presentation."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [display](/post/display/) [or](/post/or/) [collection](/post/collection/) [of](/post/of/) items shown [to](/post/to/) [the](/post/the/) [public](/post/public/), typically [in](/post/in/) [a](/post/a/) [museum](/post/museum/) [or](/post/or/) [gallery](/post/gallery/). [Example](/post/example/): "[The](/post/the/) [art](/post/art/) [exhibit](/post/exhibit/) showcased [contemporary](/post/contemporary/) paintings [from](/post/from/) [local](/post/local/) artists."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [show](/post/show/) [or](/post/or/) [display](/post/display/) [something](/post/something/) [for](/post/for/) others [to](/post/to/) [see](/post/see/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [formal](/post/formal/) [setting](/post/setting/). [Example](/post/example/): "[The](/post/the/) [scientist](/post/scientist/) exhibited [her](/post/her/) latest findings [at](/post/at/) [the](/post/the/) [international](/post/international/) [conference](/post/conference/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [demonstrate](/post/demonstrate/) [or](/post/or/) [reveal](/post/reveal/) [a](/post/a/) [quality](/post/quality/) [or](/post/or/) [characteristic](/post/characteristic/) [through](/post/through/) one's [behavior](/post/behavior/) [or](/post/or/) actions. [Example](/post/example/): "[The](/post/the/) [child](/post/child/) exhibited [great](/post/great/) [enthusiasm](/post/enthusiasm/) [during](/post/during/) [the](/post/the/) [class](/post/class/) presentation."
 
 ## Phrases
-- "[Exhibit](/en/post/exhibit/) [A](/en/post/a/), B, C, etc." refers [to](/en/post/to/) items presented [as](/en/post/as/) [evidence](/en/post/evidence/) [in](/en/post/in/) [a](/en/post/a/) [legal](/en/post/legal/) [case](/en/post/case/).
-- "[To](/en/post/to/) [exhibit](/en/post/exhibit/) [control](/en/post/control/)" [means](/en/post/means/) [to](/en/post/to/) [demonstrate](/en/post/demonstrate/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [manage](/en/post/manage/) [or](/en/post/or/) [direct](/en/post/direct/) [something](/en/post/something/) effectively.
-- "[To](/en/post/to/) [exhibit](/en/post/exhibit/) symptoms" [means](/en/post/means/) [to](/en/post/to/) [display](/en/post/display/) signs [of](/en/post/of/) [a](/en/post/a/) [disease](/en/post/disease/) [or](/en/post/or/) [condition](/en/post/condition/).
+- "[Exhibit](/post/exhibit/) [A](/post/a/), B, C, etc." refers [to](/post/to/) items presented [as](/post/as/) [evidence](/post/evidence/) [in](/post/in/) [a](/post/a/) [legal](/post/legal/) [case](/post/case/).
+- "[To](/post/to/) [exhibit](/post/exhibit/) [control](/post/control/)" [means](/post/means/) [to](/post/to/) [demonstrate](/post/demonstrate/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [manage](/post/manage/) [or](/post/or/) [direct](/post/direct/) [something](/post/something/) effectively.
+- "[To](/post/to/) [exhibit](/post/exhibit/) symptoms" [means](/post/means/) [to](/post/to/) [display](/post/display/) signs [of](/post/of/) [a](/post/a/) [disease](/post/disease/) [or](/post/or/) [condition](/post/condition/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Visitors marveled [at](/en/post/at/) [the](/en/post/the/) dinosaur [exhibit](/en/post/exhibit/) [at](/en/post/at/) [the](/en/post/the/) [natural](/en/post/natural/) [history](/en/post/history/) [museum](/en/post/museum/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) [will](/en/post/will/) [exhibit](/en/post/exhibit/) [its](/en/post/its/) [new](/en/post/new/) [product](/en/post/product/) [line](/en/post/line/) [at](/en/post/at/) [the](/en/post/the/) tech [fair](/en/post/fair/) [next](/en/post/next/) [month](/en/post/month/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [being](/en/post/being/) bitten [by](/en/post/by/) [a](/en/post/a/) [mosquito](/en/post/mosquito/), [he](/en/post/he/) began [to](/en/post/to/) [exhibit](/en/post/exhibit/) flu-like symptoms."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Visitors marveled [at](/post/at/) [the](/post/the/) dinosaur [exhibit](/post/exhibit/) [at](/post/at/) [the](/post/the/) [natural](/post/natural/) [history](/post/history/) [museum](/post/museum/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [company](/post/company/) [will](/post/will/) [exhibit](/post/exhibit/) [its](/post/its/) [new](/post/new/) [product](/post/product/) [line](/post/line/) [at](/post/at/) [the](/post/the/) tech [fair](/post/fair/) [next](/post/next/) [month](/post/month/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [being](/post/being/) bitten [by](/post/by/) [a](/post/a/) [mosquito](/post/mosquito/), [he](/post/he/) began [to](/post/to/) [exhibit](/post/exhibit/) flu-like symptoms."
 
 ## Synonyms
-- [Display](/en/post/display/)
+- [Display](/post/display/)
 - Showcase
-- [Present](/en/post/present/)
-- [Demonstrate](/en/post/demonstrate/)
-- [Show](/en/post/show/)
+- [Present](/post/present/)
+- [Demonstrate](/post/demonstrate/)
+- [Show](/post/show/)
 - Unveil
-- [Reveal](/en/post/reveal/)
+- [Reveal](/post/reveal/)
 - Manifest
-- [Expose](/en/post/expose/)
+- [Expose](/post/expose/)
 - Depict

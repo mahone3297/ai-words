@@ -7,39 +7,39 @@ description = '[kənˈfes] vt.供认，承认；坦白'
 keywords = ['ai words', 'confess']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈfɛs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) acknowledging [a](/en/post/a/) [fault](/en/post/fault/) [or](/en/post/or/) guilt, [especially](/en/post/especially/) [by](/en/post/by/) making [a](/en/post/a/) [formal](/en/post/formal/) [statement](/en/post/statement/). "[The](/en/post/the/) accused confessed [to](/en/post/to/) [the](/en/post/the/) [crime](/en/post/crime/)."
-2. [A](/en/post/a/) [statement](/en/post/statement/) [of](/en/post/of/) [admission](/en/post/admission/) [or](/en/post/or/) revelation, [often](/en/post/often/) [of](/en/post/of/) [a](/en/post/a/) [personal](/en/post/personal/) [or](/en/post/or/) shameful [nature](/en/post/nature/). "[Her](/en/post/her/) confession [about](/en/post/about/) [her](/en/post/her/) [past](/en/post/past/) was [a](/en/post/a/) [turning](/en/post/turning/) [point](/en/post/point/) [in](/en/post/in/) [their](/en/post/their/) [relationship](/en/post/relationship/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) acknowledging [a](/post/a/) [fault](/post/fault/) [or](/post/or/) guilt, [especially](/post/especially/) [by](/post/by/) making [a](/post/a/) [formal](/post/formal/) [statement](/post/statement/). "[The](/post/the/) accused confessed [to](/post/to/) [the](/post/the/) [crime](/post/crime/)."
+2. [A](/post/a/) [statement](/post/statement/) [of](/post/of/) [admission](/post/admission/) [or](/post/or/) revelation, [often](/post/often/) [of](/post/of/) [a](/post/a/) [personal](/post/personal/) [or](/post/or/) shameful [nature](/post/nature/). "[Her](/post/her/) confession [about](/post/about/) [her](/post/her/) [past](/post/past/) was [a](/post/a/) [turning](/post/turning/) [point](/post/point/) [in](/post/in/) [their](/post/their/) [relationship](/post/relationship/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) acknowledge [or](/en/post/or/) [reveal](/en/post/reveal/) ([a](/en/post/a/) [fault](/en/post/fault/), [secret](/en/post/secret/), [or](/en/post/or/) [wrong](/en/post/wrong/)) voluntarily. "[He](/en/post/he/) confessed [his](/en/post/his/) [love](/en/post/love/) [for](/en/post/for/) [her](/en/post/her/)."
-2. [To](/en/post/to/) [admit](/en/post/admit/) [to](/en/post/to/) [a](/en/post/a/) [religious](/en/post/religious/) [belief](/en/post/belief/) [or](/en/post/or/) [faith](/en/post/faith/). "[She](/en/post/she/) confessed [her](/en/post/her/) sins [to](/en/post/to/) [the](/en/post/the/) [priest](/en/post/priest/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) acknowledge [or](/post/or/) [reveal](/post/reveal/) ([a](/post/a/) [fault](/post/fault/), [secret](/post/secret/), [or](/post/or/) [wrong](/post/wrong/)) voluntarily. "[He](/post/he/) confessed [his](/post/his/) [love](/post/love/) [for](/post/for/) [her](/post/her/)."
+2. [To](/post/to/) [admit](/post/admit/) [to](/post/to/) [a](/post/a/) [religious](/post/religious/) [belief](/post/belief/) [or](/post/or/) [faith](/post/faith/). "[She](/post/she/) confessed [her](/post/her/) sins [to](/post/to/) [the](/post/the/) [priest](/post/priest/)."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [or](/en/post/or/) involving [a](/en/post/a/) confession. "[A](/en/post/a/) written confession was [found](/en/post/found/) [at](/en/post/at/) [the](/en/post/the/) [scene](/en/post/scene/)."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [or](/post/or/) involving [a](/post/a/) confession. "[A](/post/a/) written confession was [found](/post/found/) [at](/post/at/) [the](/post/the/) [scene](/post/scene/)."
 
 ## Phrases
-- "[Confess](/en/post/confess/) one's sins" is [a](/en/post/a/) [religious](/en/post/religious/) [term](/en/post/term/) [for](/en/post/for/) admitting wrongdoings.
-- "Confession is [good](/en/post/good/) [for](/en/post/for/) [the](/en/post/the/) [soul](/en/post/soul/)" is [a](/en/post/a/) [popular](/en/post/popular/) saying suggesting [that](/en/post/that/) admitting one's mistakes [can](/en/post/can/) [bring](/en/post/bring/) [relief](/en/post/relief/) [or](/en/post/or/) [spiritual](/en/post/spiritual/) cleansing.
-- "[No](/en/post/no/) confession, [no](/en/post/no/) absolution" reflects [the](/en/post/the/) [need](/en/post/need/) [for](/en/post/for/) [a](/en/post/a/) confession [in](/en/post/in/) [some](/en/post/some/) [religious](/en/post/religious/) practices [for](/en/post/for/) forgiveness.
+- "[Confess](/post/confess/) one's sins" is [a](/post/a/) [religious](/post/religious/) [term](/post/term/) [for](/post/for/) admitting wrongdoings.
+- "Confession is [good](/post/good/) [for](/post/for/) [the](/post/the/) [soul](/post/soul/)" is [a](/post/a/) [popular](/post/popular/) saying suggesting [that](/post/that/) admitting one's mistakes [can](/post/can/) [bring](/post/bring/) [relief](/post/relief/) [or](/post/or/) [spiritual](/post/spiritual/) cleansing.
+- "[No](/post/no/) confession, [no](/post/no/) absolution" reflects [the](/post/the/) [need](/post/need/) [for](/post/for/) [a](/post/a/) confession [in](/post/in/) [some](/post/some/) [religious](/post/religious/) practices [for](/post/for/) forgiveness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [much](/en/post/much/) [pressure](/en/post/pressure/), [he](/en/post/he/) [finally](/en/post/finally/) made [a](/en/post/a/) [full](/en/post/full/) confession [to](/en/post/to/) [the](/en/post/the/) [police](/en/post/police/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) confessed [her](/en/post/her/) fears [to](/en/post/to/) [her](/en/post/her/) therapist, hoping [to](/en/post/to/) [overcome](/en/post/overcome/) [them](/en/post/them/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) detective examined [the](/en/post/the/) suspect's [calm](/en/post/calm/), seemingly [honest](/en/post/honest/) confession."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [much](/post/much/) [pressure](/post/pressure/), [he](/post/he/) [finally](/post/finally/) made [a](/post/a/) [full](/post/full/) confession [to](/post/to/) [the](/post/the/) [police](/post/police/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) confessed [her](/post/her/) fears [to](/post/to/) [her](/post/her/) therapist, hoping [to](/post/to/) [overcome](/post/overcome/) [them](/post/them/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) detective examined [the](/post/the/) suspect's [calm](/post/calm/), seemingly [honest](/post/honest/) confession."
 
 ## Synonyms
-- [Admit](/en/post/admit/)
-- [Own](/en/post/own/) [up](/en/post/up/)
+- [Admit](/post/admit/)
+- [Own](/post/own/) [up](/post/up/)
 - Confide
 - Acknowledge
-- [Reveal](/en/post/reveal/)
-- [Confess](/en/post/confess/) [oneself](/en/post/oneself/)
+- [Reveal](/post/reveal/)
+- [Confess](/post/confess/) [oneself](/post/oneself/)
 - Unburden
-- Confide [in](/en/post/in/)
+- Confide [in](/post/in/)
 
-[Note](/en/post/note/): [Some](/en/post/some/) [of](/en/post/of/) [these](/en/post/these/) synonyms [may](/en/post/may/) [not](/en/post/not/) [perfectly](/en/post/perfectly/) [match](/en/post/match/) [the](/en/post/the/) [specific](/en/post/specific/) connotations [of](/en/post/of/) [a](/en/post/a/) confession, [but](/en/post/but/) [they](/en/post/they/) are related [to](/en/post/to/) admitting [or](/en/post/or/) revealing [something](/en/post/something/).
+[Note](/post/note/): [Some](/post/some/) [of](/post/of/) [these](/post/these/) synonyms [may](/post/may/) [not](/post/not/) [perfectly](/post/perfectly/) [match](/post/match/) [the](/post/the/) [specific](/post/specific/) connotations [of](/post/of/) [a](/post/a/) confession, [but](/post/but/) [they](/post/they/) are related [to](/post/to/) admitting [or](/post/or/) revealing [something](/post/something/).

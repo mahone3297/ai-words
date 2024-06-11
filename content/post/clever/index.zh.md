@@ -11,20 +11,20 @@ keywords = ['ai words', 'clever']
 /ˈklɛvər/
 
 ## 释义
-- **形容词**: 聪明的，机灵的，有才智的。例如: "She's [a](/post/a/) [clever](/post/clever/) [girl](/post/girl/) [who](/post/who/) [always](/post/always/) finds solutions [to](/post/to/) problems."
-- **名词**: 聪明的人，机灵鬼。例如: "[The](/post/the/) [little](/post/little/) [boy](/post/boy/) is known [as](/post/as/) [a](/post/a/) [real](/post/real/) [clever](/post/clever/) [in](/post/in/) [his](/post/his/) [class](/post/class/)."
+- **形容词**: 聪明的，机灵的，有才智的。例如: "She's [a](/zh/post/a/) [clever](/zh/post/clever/) [girl](/zh/post/girl/) [who](/zh/post/who/) [always](/zh/post/always/) finds solutions [to](/zh/post/to/) problems."
+- **名词**: 聪明的人，机灵鬼。例如: "[The](/zh/post/the/) [little](/zh/post/little/) [boy](/zh/post/boy/) is known [as](/zh/post/as/) [a](/zh/post/a/) [real](/zh/post/real/) [clever](/zh/post/clever/) [in](/zh/post/in/) [his](/zh/post/his/) [class](/zh/post/class/)."
 
 ## 短语
-- "[a](/post/a/) [clever](/post/clever/) [trick](/post/trick/)" 意为一个聪明的把戏。
-- "[a](/post/a/) [clever](/post/clever/) [mind](/post/mind/)" 指聪明的头脑。
+- "[a](/zh/post/a/) [clever](/zh/post/clever/) [trick](/zh/post/trick/)" 意为一个聪明的把戏。
+- "[a](/zh/post/a/) [clever](/zh/post/clever/) [mind](/zh/post/mind/)" 指聪明的头脑。
 
 ## 例句
-- 形容词: "[The](/post/the/) [inventor](/post/inventor/) came [up](/post/up/) [with](/post/with/) [a](/post/a/) [clever](/post/clever/) [way](/post/way/) [to](/post/to/) [save](/post/save/) [energy](/post/energy/)."
-- 名词: "He's [such](/post/such/) [a](/post/a/) [clever](/post/clever/) guy, [always](/post/always/) [finding](/post/finding/) shortcuts."
+- 形容词: "[The](/zh/post/the/) [inventor](/zh/post/inventor/) came [up](/zh/post/up/) [with](/zh/post/with/) [a](/zh/post/a/) [clever](/zh/post/clever/) [way](/zh/post/way/) [to](/zh/post/to/) [save](/zh/post/save/) [energy](/zh/post/energy/)."
+- 名词: "He's [such](/zh/post/such/) [a](/zh/post/a/) [clever](/zh/post/clever/) guy, [always](/zh/post/always/) [finding](/zh/post/finding/) shortcuts."
 
 ## 同义词
-- [Smart](/post/smart/)
-- [Bright](/post/bright/)
-- [Intelligent](/post/intelligent/)
+- [Smart](/zh/post/smart/)
+- [Bright](/zh/post/bright/)
+- [Intelligent](/zh/post/intelligent/)
 - Astute
 - Sharp-witted

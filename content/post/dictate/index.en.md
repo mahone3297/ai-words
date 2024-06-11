@@ -7,44 +7,44 @@ description = '[dikˈteit] vt.&vi.口授；命令'
 keywords = ['ai words', 'dictate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈkʌɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Dictate](/en/post/dictate/)**: [A](/en/post/a/) [command](/en/post/command/) [or](/en/post/or/) [instruction](/en/post/instruction/) given [by](/en/post/by/) [one](/en/post/one/) [person](/en/post/person/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) [in](/en/post/in/) [writing](/en/post/writing/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) [or](/en/post/or/) authoritative [manner](/en/post/manner/).
-- **[Dictation](/en/post/dictation/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [dictation](/en/post/dictation/), [where](/en/post/where/) [one](/en/post/one/) [person](/en/post/person/) writes [or](/en/post/or/) records [what](/en/post/what/) [another](/en/post/another/) [person](/en/post/person/) says.
+### [Noun](/post/noun/)
+- **[Dictate](/post/dictate/)**: [A](/post/a/) [command](/post/command/) [or](/post/or/) [instruction](/post/instruction/) given [by](/post/by/) [one](/post/one/) [person](/post/person/) [to](/post/to/) [another](/post/another/), [often](/post/often/) [in](/post/in/) [writing](/post/writing/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [formal](/post/formal/) [or](/post/or/) authoritative [manner](/post/manner/).
+- **[Dictation](/post/dictation/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [dictation](/post/dictation/), [where](/post/where/) [one](/post/one/) [person](/post/person/) writes [or](/post/or/) records [what](/post/what/) [another](/post/another/) [person](/post/person/) says.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [give](/en/post/give/) [dictation](/en/post/dictation/): [To](/en/post/to/) verbally instruct [or](/en/post/or/) [dictate](/en/post/dictate/) [text](/en/post/text/) [for](/en/post/for/) [someone](/en/post/someone/) [else](/en/post/else/) [to](/en/post/to/) [write](/en/post/write/) [down](/en/post/down/).
-- [To](/en/post/to/) [dictate](/en/post/dictate/) terms: [To](/en/post/to/) [set](/en/post/set/) [the](/en/post/the/) conditions [or](/en/post/or/) requirements [that](/en/post/that/) [must](/en/post/must/) [be](/en/post/be/) met.
+### [Verb](/post/verb/)
+- [To](/post/to/) [give](/post/give/) [dictation](/post/dictation/): [To](/post/to/) verbally instruct [or](/post/or/) [dictate](/post/dictate/) [text](/post/text/) [for](/post/for/) [someone](/post/someone/) [else](/post/else/) [to](/post/to/) [write](/post/write/) [down](/post/down/).
+- [To](/post/to/) [dictate](/post/dictate/) terms: [To](/post/to/) [set](/post/set/) [the](/post/the/) conditions [or](/post/or/) requirements [that](/post/that/) [must](/post/must/) [be](/post/be/) met.
 
-### [Adjective](/en/post/adjective/)
-- Dictatorial: Having [or](/en/post/or/) exercising [absolute](/en/post/absolute/) [authority](/en/post/authority/) [and](/en/post/and/) [control](/en/post/control/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [harsh](/en/post/harsh/) [or](/en/post/or/) [strict](/en/post/strict/) [manner](/en/post/manner/).
+### [Adjective](/post/adjective/)
+- Dictatorial: Having [or](/post/or/) exercising [absolute](/post/absolute/) [authority](/post/authority/) [and](/post/and/) [control](/post/control/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [harsh](/post/harsh/) [or](/post/or/) [strict](/post/strict/) [manner](/post/manner/).
 
 ## Phrases
-- "[Dictate](/en/post/dictate/) [a](/en/post/a/) [letter](/en/post/letter/)" [means](/en/post/means/) [to](/en/post/to/) [compose](/en/post/compose/) [a](/en/post/a/) [letter](/en/post/letter/) [by](/en/post/by/) giving instructions [to](/en/post/to/) [someone](/en/post/someone/) [else](/en/post/else/) [to](/en/post/to/) [write](/en/post/write/) [it](/en/post/it/).
-- "[Dictate](/en/post/dictate/) [your](/en/post/your/) thoughts" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) verbalize [your](/en/post/your/) ideas [for](/en/post/for/) recording [or](/en/post/or/) documentation.
-- "Dictatorship" refers [to](/en/post/to/) [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [government](/en/post/government/) [where](/en/post/where/) [a](/en/post/a/) [single](/en/post/single/) [ruler](/en/post/ruler/) has [complete](/en/post/complete/) [power](/en/post/power/).
+- "[Dictate](/post/dictate/) [a](/post/a/) [letter](/post/letter/)" [means](/post/means/) [to](/post/to/) [compose](/post/compose/) [a](/post/a/) [letter](/post/letter/) [by](/post/by/) giving instructions [to](/post/to/) [someone](/post/someone/) [else](/post/else/) [to](/post/to/) [write](/post/write/) [it](/post/it/).
+- "[Dictate](/post/dictate/) [your](/post/your/) thoughts" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) verbalize [your](/post/your/) ideas [for](/post/for/) recording [or](/post/or/) documentation.
+- "Dictatorship" refers [to](/post/to/) [a](/post/a/) [form](/post/form/) [of](/post/of/) [government](/post/government/) [where](/post/where/) [a](/post/a/) [single](/post/single/) [ruler](/post/ruler/) has [complete](/post/complete/) [power](/post/power/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [lawyer](/en/post/lawyer/) dictated [the](/en/post/the/) [legal](/en/post/legal/) documents [to](/en/post/to/) [her](/en/post/her/) [secretary](/en/post/secretary/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) asked [her](/en/post/her/) [child](/en/post/child/) [to](/en/post/to/) [dictate](/en/post/dictate/) [their](/en/post/their/) homework [after](/en/post/after/) [school](/en/post/school/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) dictator's regime was characterized [by](/en/post/by/) [strict](/en/post/strict/) dictatorial [control](/en/post/control/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [lawyer](/post/lawyer/) dictated [the](/post/the/) [legal](/post/legal/) documents [to](/post/to/) [her](/post/her/) [secretary](/post/secretary/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) asked [her](/post/her/) [child](/post/child/) [to](/post/to/) [dictate](/post/dictate/) [their](/post/their/) homework [after](/post/after/) [school](/post/school/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) dictator's regime was characterized [by](/post/by/) [strict](/post/strict/) dictatorial [control](/post/control/)."
 
 ## Synonyms
-- [Command](/en/post/command/)
+- [Command](/post/command/)
 - Instruct
-- [Prescribe](/en/post/prescribe/)
-- [Issue](/en/post/issue/) ([a](/en/post/a/) directive)
+- [Prescribe](/post/prescribe/)
+- [Issue](/post/issue/) ([a](/post/a/) directive)
 - Requisition
-- [Dictate](/en/post/dictate/) ([as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [style](/en/post/style/) [or](/en/post/or/) [tone](/en/post/tone/))
+- [Dictate](/post/dictate/) ([as](/post/as/) [in](/post/in/) [a](/post/a/) [style](/post/style/) [or](/post/or/) [tone](/post/tone/))
 - Authoritative
 
 ## Antonyms
-- [Consult](/en/post/consult/)
-- [Cooperate](/en/post/cooperate/)
+- [Consult](/post/consult/)
+- [Cooperate](/post/cooperate/)
 - Collaborate
 - Volunteer
 - Converse
-- Agreeable ([in](/en/post/in/) [tone](/en/post/tone/))
+- Agreeable ([in](/post/in/) [tone](/post/tone/))

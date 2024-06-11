@@ -7,40 +7,40 @@ description = '[bleiz] n.火；闪光 vi.燃烧'
 keywords = ['ai words', 'blaze']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bləz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) blazing [fire](/en/post/fire/) [or](/en/post/or/) [intense](/en/post/intense/) [heat](/en/post/heat/), [often](/en/post/often/) metaphorical. "[The](/en/post/the/) fireplace was ablaze [with](/en/post/with/) [a](/en/post/a/) [bright](/en/post/bright/) [orange](/en/post/orange/) [glow](/en/post/glow/)."
-- [A](/en/post/a/) [brilliant](/en/post/brilliant/) [or](/en/post/or/) spectacular [display](/en/post/display/): "[The](/en/post/the/) fireworks lit [up](/en/post/up/) [the](/en/post/the/) [sky](/en/post/sky/) [in](/en/post/in/) [a](/en/post/a/) dazzling [blaze](/en/post/blaze/)."
-- [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [intense](/en/post/intense/) [activity](/en/post/activity/) [or](/en/post/or/) excitement: "[Her](/en/post/her/) [career](/en/post/career/) has been [on](/en/post/on/) [a](/en/post/a/) [blaze](/en/post/blaze/) [lately](/en/post/lately/)."
+### [Noun](/post/noun/)
+[A](/post/a/) blazing [fire](/post/fire/) [or](/post/or/) [intense](/post/intense/) [heat](/post/heat/), [often](/post/often/) metaphorical. "[The](/post/the/) fireplace was ablaze [with](/post/with/) [a](/post/a/) [bright](/post/bright/) [orange](/post/orange/) [glow](/post/glow/)."
+- [A](/post/a/) [brilliant](/post/brilliant/) [or](/post/or/) spectacular [display](/post/display/): "[The](/post/the/) fireworks lit [up](/post/up/) [the](/post/the/) [sky](/post/sky/) [in](/post/in/) [a](/post/a/) dazzling [blaze](/post/blaze/)."
+- [A](/post/a/) [period](/post/period/) [of](/post/of/) [intense](/post/intense/) [activity](/post/activity/) [or](/post/or/) excitement: "[Her](/post/her/) [career](/post/career/) has been [on](/post/on/) [a](/post/a/) [blaze](/post/blaze/) [lately](/post/lately/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [burn](/en/post/burn/) brightly [or](/en/post/or/) intensely: "[The](/en/post/the/) [match](/en/post/match/) ignited [the](/en/post/the/) kindling, causing [the](/en/post/the/) [wood](/en/post/wood/) [to](/en/post/to/) [blaze](/en/post/blaze/)."
-2. [To](/en/post/to/) [shine](/en/post/shine/) [or](/en/post/or/) [be](/en/post/be/) [prominent](/en/post/prominent/): "[Her](/en/post/her/) [success](/en/post/success/) blazed [a](/en/post/a/) [trail](/en/post/trail/) [for](/en/post/for/) women [in](/en/post/in/) [the](/en/post/the/) [industry](/en/post/industry/)."
-3. [To](/en/post/to/) [be](/en/post/be/) [very](/en/post/very/) [noticeable](/en/post/noticeable/) [or](/en/post/or/) [impressive](/en/post/impressive/): "[His](/en/post/his/) achievements blazed [across](/en/post/across/) [the](/en/post/the/) headlines."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [burn](/post/burn/) brightly [or](/post/or/) intensely: "[The](/post/the/) [match](/post/match/) ignited [the](/post/the/) kindling, causing [the](/post/the/) [wood](/post/wood/) [to](/post/to/) [blaze](/post/blaze/)."
+2. [To](/post/to/) [shine](/post/shine/) [or](/post/or/) [be](/post/be/) [prominent](/post/prominent/): "[Her](/post/her/) [success](/post/success/) blazed [a](/post/a/) [trail](/post/trail/) [for](/post/for/) women [in](/post/in/) [the](/post/the/) [industry](/post/industry/)."
+3. [To](/post/to/) [be](/post/be/) [very](/post/very/) [noticeable](/post/noticeable/) [or](/post/or/) [impressive](/post/impressive/): "[His](/post/his/) achievements blazed [across](/post/across/) [the](/post/the/) headlines."
 
-### [Adjective](/en/post/adjective/)
-1. Fiery [or](/en/post/or/) blazing: "[The](/en/post/the/) [blaze](/en/post/blaze/) [of](/en/post/of/) [the](/en/post/the/) [sun](/en/post/sun/) [on](/en/post/on/) [the](/en/post/the/) [beach](/en/post/beach/) was [almost](/en/post/almost/) [unbearable](/en/post/unbearable/)."
-2. [Dramatic](/en/post/dramatic/) [or](/en/post/or/) spectacular: "[The](/en/post/the/) [blaze](/en/post/blaze/) [of](/en/post/of/) colors [in](/en/post/in/) [the](/en/post/the/) [sunset](/en/post/sunset/) was breathtaking."
-3. [Intense](/en/post/intense/) [or](/en/post/or/) [powerful](/en/post/powerful/): "[The](/en/post/the/) [blaze](/en/post/blaze/) [of](/en/post/of/) [her](/en/post/her/) [passion](/en/post/passion/) [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/) was [evident](/en/post/evident/)."
+### [Adjective](/post/adjective/)
+1. Fiery [or](/post/or/) blazing: "[The](/post/the/) [blaze](/post/blaze/) [of](/post/of/) [the](/post/the/) [sun](/post/sun/) [on](/post/on/) [the](/post/the/) [beach](/post/beach/) was [almost](/post/almost/) [unbearable](/post/unbearable/)."
+2. [Dramatic](/post/dramatic/) [or](/post/or/) spectacular: "[The](/post/the/) [blaze](/post/blaze/) [of](/post/of/) colors [in](/post/in/) [the](/post/the/) [sunset](/post/sunset/) was breathtaking."
+3. [Intense](/post/intense/) [or](/post/or/) [powerful](/post/powerful/): "[The](/post/the/) [blaze](/post/blaze/) [of](/post/of/) [her](/post/her/) [passion](/post/passion/) [for](/post/for/) [the](/post/the/) [project](/post/project/) was [evident](/post/evident/)."
 
 ## Phrases
-- "[Blaze](/en/post/blaze/) [a](/en/post/a/) [trail](/en/post/trail/)" [means](/en/post/means/) [to](/en/post/to/) [pioneer](/en/post/pioneer/) [or](/en/post/or/) [lead](/en/post/lead/) [the](/en/post/the/) [way](/en/post/way/).
-- "[Set](/en/post/set/) [something](/en/post/something/) ablaze" [means](/en/post/means/) [to](/en/post/to/) ignite [or](/en/post/or/) [cause](/en/post/cause/) [it](/en/post/it/) [to](/en/post/to/) [start](/en/post/start/) burning.
-- "[In](/en/post/in/) [the](/en/post/the/) [blaze](/en/post/blaze/) [of](/en/post/of/) [glory](/en/post/glory/)" refers [to](/en/post/to/) [a](/en/post/a/) [moment](/en/post/moment/) [of](/en/post/of/) [triumph](/en/post/triumph/) [before](/en/post/before/) decline [or](/en/post/or/) downfall.
+- "[Blaze](/post/blaze/) [a](/post/a/) [trail](/post/trail/)" [means](/post/means/) [to](/post/to/) [pioneer](/post/pioneer/) [or](/post/or/) [lead](/post/lead/) [the](/post/the/) [way](/post/way/).
+- "[Set](/post/set/) [something](/post/something/) ablaze" [means](/post/means/) [to](/post/to/) ignite [or](/post/or/) [cause](/post/cause/) [it](/post/it/) [to](/post/to/) [start](/post/start/) burning.
+- "[In](/post/in/) [the](/post/the/) [blaze](/post/blaze/) [of](/post/of/) [glory](/post/glory/)" refers [to](/post/to/) [a](/post/a/) [moment](/post/moment/) [of](/post/of/) [triumph](/post/triumph/) [before](/post/before/) decline [or](/post/or/) downfall.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [house](/en/post/house/) was [completely](/en/post/completely/) destroyed [by](/en/post/by/) [the](/en/post/the/) raging [blaze](/en/post/blaze/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) watched [the](/en/post/the/) stars [blaze](/en/post/blaze/) [across](/en/post/across/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) eyes blazed [with](/en/post/with/) [determination](/en/post/determination/) [when](/en/post/when/) [she](/en/post/she/) spoke [about](/en/post/about/) [her](/en/post/her/) goals."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [house](/post/house/) was [completely](/post/completely/) destroyed [by](/post/by/) [the](/post/the/) raging [blaze](/post/blaze/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) watched [the](/post/the/) stars [blaze](/post/blaze/) [across](/post/across/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) eyes blazed [with](/post/with/) [determination](/post/determination/) [when](/post/when/) [she](/post/she/) spoke [about](/post/about/) [her](/post/her/) goals."
 
 ## Synonyms
-- [Fire](/en/post/fire/)
-- [Flame](/en/post/flame/)
-- [Spark](/en/post/spark/)
-- [Heat](/en/post/heat/)
+- [Fire](/post/fire/)
+- [Flame](/post/flame/)
+- [Spark](/post/spark/)
+- [Heat](/post/heat/)
 - Scorching
 - Blinding
 - Radiant

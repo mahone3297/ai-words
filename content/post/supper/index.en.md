@@ -7,31 +7,31 @@ description = '[ˈsʌpə] n.晚饭，晚餐'
 keywords = ['ai words', 'supper']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈpɜːrp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [meal](/en/post/meal/) typically eaten [in](/en/post/in/) [the](/en/post/the/) [evening](/en/post/evening/), [after](/en/post/after/) [dinner](/en/post/dinner/) [but](/en/post/but/) [before](/en/post/before/) bedtime, [often](/en/post/often/) lighter [than](/en/post/than/) [a](/en/post/a/) [full](/en/post/full/) [dinner](/en/post/dinner/). [Example](/en/post/example/): "[We](/en/post/we/) had [a](/en/post/a/) [delicious](/en/post/delicious/) [supper](/en/post/supper/) [of](/en/post/of/) roasted [chicken](/en/post/chicken/) [and](/en/post/and/) vegetables."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [have](/en/post/have/) [or](/en/post/or/) [consume](/en/post/consume/) [a](/en/post/a/) [meal](/en/post/meal/) [in](/en/post/in/) [the](/en/post/the/) [evening](/en/post/evening/), [usually](/en/post/usually/) [as](/en/post/as/) [the](/en/post/the/) [main](/en/post/main/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) day's meals. [Example](/en/post/example/): "[They](/en/post/they/) [usually](/en/post/usually/) [have](/en/post/have/) [supper](/en/post/supper/) [together](/en/post/together/) [as](/en/post/as/) [a](/en/post/a/) [family](/en/post/family/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [meal](/post/meal/) typically eaten [in](/post/in/) [the](/post/the/) [evening](/post/evening/), [after](/post/after/) [dinner](/post/dinner/) [but](/post/but/) [before](/post/before/) bedtime, [often](/post/often/) lighter [than](/post/than/) [a](/post/a/) [full](/post/full/) [dinner](/post/dinner/). [Example](/post/example/): "[We](/post/we/) had [a](/post/a/) [delicious](/post/delicious/) [supper](/post/supper/) [of](/post/of/) roasted [chicken](/post/chicken/) [and](/post/and/) vegetables."
+- **[Verb](/post/verb/)**: [To](/post/to/) [have](/post/have/) [or](/post/or/) [consume](/post/consume/) [a](/post/a/) [meal](/post/meal/) [in](/post/in/) [the](/post/the/) [evening](/post/evening/), [usually](/post/usually/) [as](/post/as/) [the](/post/the/) [main](/post/main/) [part](/post/part/) [of](/post/of/) [the](/post/the/) day's meals. [Example](/post/example/): "[They](/post/they/) [usually](/post/usually/) [have](/post/have/) [supper](/post/supper/) [together](/post/together/) [as](/post/as/) [a](/post/a/) [family](/post/family/)."
 
 ## Phrases
-- "[Supper](/en/post/supper/) [time](/en/post/time/)" indicates [the](/en/post/the/) [time](/en/post/time/) [for](/en/post/for/) having [dinner](/en/post/dinner/).
-- "Having [a](/en/post/a/) [light](/en/post/light/) [supper](/en/post/supper/)" refers [to](/en/post/to/) [a](/en/post/a/) [meal](/en/post/meal/) [that](/en/post/that/) is [not](/en/post/not/) [very](/en/post/very/) [substantial](/en/post/substantial/).
-- "[Supper](/en/post/supper/) [club](/en/post/club/)" is [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) [meet](/en/post/meet/) [regularly](/en/post/regularly/) [for](/en/post/for/) an [evening](/en/post/evening/) [meal](/en/post/meal/).
+- "[Supper](/post/supper/) [time](/post/time/)" indicates [the](/post/the/) [time](/post/time/) [for](/post/for/) having [dinner](/post/dinner/).
+- "Having [a](/post/a/) [light](/post/light/) [supper](/post/supper/)" refers [to](/post/to/) [a](/post/a/) [meal](/post/meal/) [that](/post/that/) is [not](/post/not/) [very](/post/very/) [substantial](/post/substantial/).
+- "[Supper](/post/supper/) [club](/post/club/)" is [a](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [who](/post/who/) [meet](/post/meet/) [regularly](/post/regularly/) [for](/post/for/) an [evening](/post/evening/) [meal](/post/meal/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [they](/en/post/they/) looked [forward](/en/post/forward/) [to](/en/post/to/) [their](/en/post/their/) [quiet](/en/post/quiet/) Sunday [supper](/en/post/supper/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) children were [eager](/en/post/eager/) [to](/en/post/to/) [start](/en/post/start/) [their](/en/post/their/) [supper](/en/post/supper/) [after](/en/post/after/) playing [outside](/en/post/outside/) [all](/en/post/all/) [afternoon](/en/post/afternoon/)."
-- "I [usually](/en/post/usually/) [have](/en/post/have/) [a](/en/post/a/) [bowl](/en/post/bowl/) [of](/en/post/of/) [soup](/en/post/soup/) [before](/en/post/before/) [my](/en/post/my/) [main](/en/post/main/) [supper](/en/post/supper/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [they](/post/they/) looked [forward](/post/forward/) [to](/post/to/) [their](/post/their/) [quiet](/post/quiet/) Sunday [supper](/post/supper/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) children were [eager](/post/eager/) [to](/post/to/) [start](/post/start/) [their](/post/their/) [supper](/post/supper/) [after](/post/after/) playing [outside](/post/outside/) [all](/post/all/) [afternoon](/post/afternoon/)."
+- "I [usually](/post/usually/) [have](/post/have/) [a](/post/a/) [bowl](/post/bowl/) [of](/post/of/) [soup](/post/soup/) [before](/post/before/) [my](/post/my/) [main](/post/main/) [supper](/post/supper/)."
 
 ## Synonyms
-- [Dinner](/en/post/dinner/)
-- [Supper](/en/post/supper/) [meal](/en/post/meal/)
-- [Evening](/en/post/evening/) [meal](/en/post/meal/)
-- [Light](/en/post/light/) [dinner](/en/post/dinner/)
-- [Evening](/en/post/evening/) repast
+- [Dinner](/post/dinner/)
+- [Supper](/post/supper/) [meal](/post/meal/)
+- [Evening](/post/evening/) [meal](/post/meal/)
+- [Light](/post/light/) [dinner](/post/dinner/)
+- [Evening](/post/evening/) repast
 
 ## Antonyms
-- [Lunch](/en/post/lunch/)
-- [Breakfast](/en/post/breakfast/)
-- Brunch ([a](/en/post/a/) [combination](/en/post/combination/) [of](/en/post/of/) [breakfast](/en/post/breakfast/) [and](/en/post/and/) [lunch](/en/post/lunch/))
+- [Lunch](/post/lunch/)
+- [Breakfast](/post/breakfast/)
+- Brunch ([a](/post/a/) [combination](/post/combination/) [of](/post/of/) [breakfast](/post/breakfast/) [and](/post/and/) [lunch](/post/lunch/))

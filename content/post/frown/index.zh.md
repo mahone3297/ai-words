@@ -11,20 +11,20 @@ keywords = ['ai words', 'frown']
 /fraʊn/
 
 ## 释义
-- **动词**: 皱眉，表示不悦或疑惑。例如: "[She](/post/she/) frowned [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [the](/post/the/) [mess](/post/mess/) [in](/post/in/) [the](/post/the/) [kitchen](/post/kitchen/)."
-- **名词**: 皱眉的动作或表情。例如: "[His](/post/his/) [frown](/post/frown/) deepened [as](/post/as/) [he](/post/he/) [read](/post/read/) [the](/post/the/) [bad](/post/bad/) [news](/post/news/)."
+- **动词**: 皱眉，表示不悦或疑惑。例如: "[She](/zh/post/she/) frowned [when](/zh/post/when/) [she](/zh/post/she/) [saw](/zh/post/saw/) [the](/zh/post/the/) [mess](/zh/post/mess/) [in](/zh/post/in/) [the](/zh/post/the/) [kitchen](/zh/post/kitchen/)."
+- **名词**: 皱眉的动作或表情。例如: "[His](/zh/post/his/) [frown](/zh/post/frown/) deepened [as](/zh/post/as/) [he](/zh/post/he/) [read](/zh/post/read/) [the](/zh/post/the/) [bad](/zh/post/bad/) [news](/zh/post/news/)."
 
 ## 短语
-- "[to](/post/to/) [frown](/post/frown/) [upon](/post/upon/) [something](/post/something/)" 表示对某事持反对或不满的态度。
-- "frowning [face](/post/face/)" 指皱着眉头的表情，常用来描述情绪。
+- "[to](/zh/post/to/) [frown](/zh/post/frown/) [upon](/zh/post/upon/) [something](/zh/post/something/)" 表示对某事持反对或不满的态度。
+- "frowning [face](/zh/post/face/)" 指皱着眉头的表情，常用来描述情绪。
 
 ## 例句
-- 动词: "[The](/post/the/) [teacher](/post/teacher/) frowned [at](/post/at/) [the](/post/the/) student's [incorrect](/post/incorrect/) [answer](/post/answer/)."
-- 名词: "[Her](/post/her/) [frown](/post/frown/) showed [that](/post/that/) [she](/post/she/) was displeased [with](/post/with/) [the](/post/the/) [situation](/post/situation/)."
+- 动词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) frowned [at](/zh/post/at/) [the](/zh/post/the/) student's [incorrect](/zh/post/incorrect/) [answer](/zh/post/answer/)."
+- 名词: "[Her](/zh/post/her/) [frown](/zh/post/frown/) showed [that](/zh/post/that/) [she](/zh/post/she/) was displeased [with](/zh/post/with/) [the](/zh/post/the/) [situation](/zh/post/situation/)."
 
 ## 同义词
 - scowl
-- [glare](/post/glare/)
+- [glare](/zh/post/glare/)
 - pout
-- [look](/post/look/) disapprovingly
-- knitted [brow](/post/brow/)
+- [look](/zh/post/look/) disapprovingly
+- knitted [brow](/zh/post/brow/)

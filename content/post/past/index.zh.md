@@ -11,23 +11,23 @@ keywords = ['ai words', 'past']
 /pɑːst/
 
 ## 释义
-- **形容词**: 以前的，过去的。例如: "[We](/post/we/) [often](/post/often/) reminisce [about](/post/about/) [our](/post/our/) [past](/post/past/) experiences."
-- **名词**: 过去，往事。例如: "[She](/post/she/) keeps thinking [about](/post/about/) [her](/post/her/) [past](/post/past/) mistakes."
-- **副词**: 以前，曾经。例如: "[He](/post/he/) [used](/post/used/) [to](/post/to/) [be](/post/be/) [a](/post/a/) [football](/post/football/) [player](/post/player/), [but](/post/but/) [those](/post/those/) days are [in](/post/in/) [the](/post/the/) [past](/post/past/) [now](/post/now/)."
+- **形容词**: 以前的，过去的。例如: "[We](/zh/post/we/) [often](/zh/post/often/) reminisce [about](/zh/post/about/) [our](/zh/post/our/) [past](/zh/post/past/) experiences."
+- **名词**: 过去，往事。例如: "[She](/zh/post/she/) keeps thinking [about](/zh/post/about/) [her](/zh/post/her/) [past](/zh/post/past/) mistakes."
+- **副词**: 以前，曾经。例如: "[He](/zh/post/he/) [used](/zh/post/used/) [to](/zh/post/to/) [be](/zh/post/be/) [a](/zh/post/a/) [football](/zh/post/football/) [player](/zh/post/player/), [but](/zh/post/but/) [those](/zh/post/those/) days are [in](/zh/post/in/) [the](/zh/post/the/) [past](/zh/post/past/) [now](/zh/post/now/)."
 
 ## 短语
-- "[in](/post/in/) [the](/post/the/) [past](/post/past/)" 指的是在以前的时间。
-- "[the](/post/the/) [recent](/post/recent/) [past](/post/past/)" 意味着最近的过去。
-- "[put](/post/put/) [the](/post/the/) [past](/post/past/) [behind](/post/behind/)" 表示忘记过去，开始新的生活。
+- "[in](/zh/post/in/) [the](/zh/post/the/) [past](/zh/post/past/)" 指的是在以前的时间。
+- "[the](/zh/post/the/) [recent](/zh/post/recent/) [past](/zh/post/past/)" 意味着最近的过去。
+- "[put](/zh/post/put/) [the](/zh/post/the/) [past](/zh/post/past/) [behind](/zh/post/behind/)" 表示忘记过去，开始新的生活。
 
 ## 例句
-- 形容词: "[She](/post/she/) [still](/post/still/) has feelings [for](/post/for/) [her](/post/her/) [past](/post/past/) [love](/post/love/)."
-- 名词: "[The](/post/the/) historian studied events [from](/post/from/) [the](/post/the/) [distant](/post/distant/) [past](/post/past/)."
-- 副词: "I [used](/post/used/) [to](/post/to/) [weigh](/post/weigh/) [more](/post/more/), [but](/post/but/) I've lost [weight](/post/weight/) [since](/post/since/) [the](/post/the/) [past](/post/past/)."
+- 形容词: "[She](/zh/post/she/) [still](/zh/post/still/) has feelings [for](/zh/post/for/) [her](/zh/post/her/) [past](/zh/post/past/) [love](/zh/post/love/)."
+- 名词: "[The](/zh/post/the/) historian studied events [from](/zh/post/from/) [the](/zh/post/the/) [distant](/zh/post/distant/) [past](/zh/post/past/)."
+- 副词: "I [used](/zh/post/used/) [to](/zh/post/to/) [weigh](/zh/post/weigh/) [more](/zh/post/more/), [but](/zh/post/but/) I've lost [weight](/zh/post/weight/) [since](/zh/post/since/) [the](/zh/post/the/) [past](/zh/post/past/)."
 
 ## 同义词
-- [former](/post/former/)
+- [former](/zh/post/former/)
 - earlier
-- [preceding](/post/preceding/)
-- [old](/post/old/)
-- [former](/post/former/) times
+- [preceding](/zh/post/preceding/)
+- [old](/zh/post/old/)
+- [former](/zh/post/former/) times

@@ -7,27 +7,27 @@ description = '[ˈseriməni] n.典礼，仪式；礼节'
 keywords = ['ai words', 'ceremony']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsɜːməni/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. An [elaborate](/en/post/elaborate/) [or](/en/post/or/) [formal](/en/post/formal/) ritual [or](/en/post/or/) [event](/en/post/event/) marking [a](/en/post/a/) [particular](/en/post/particular/) [occasion](/en/post/occasion/) [or](/en/post/or/) transition, [often](/en/post/often/) [with](/en/post/with/) [religious](/en/post/religious/), cultural, [or](/en/post/or/) [social](/en/post/social/) [significance](/en/post/significance/). [Example](/en/post/example/): "[The](/en/post/the/) [wedding](/en/post/wedding/) [ceremony](/en/post/ceremony/) was [a](/en/post/a/) [beautiful](/en/post/beautiful/) [display](/en/post/display/) [of](/en/post/of/) [tradition](/en/post/tradition/)."
-   - 2. [A](/en/post/a/) [solemn](/en/post/solemn/) [or](/en/post/or/) [formal](/en/post/formal/) [act](/en/post/act/) [or](/en/post/or/) observance, [especially](/en/post/especially/) [one](/en/post/one/) involving prescribed rites [or](/en/post/or/) forms. [Example](/en/post/example/): "[The](/en/post/the/) [opening](/en/post/opening/) [ceremony](/en/post/ceremony/) [of](/en/post/of/) [the](/en/post/the/) Olympics begins [with](/en/post/with/) [a](/en/post/a/) [parade](/en/post/parade/) [of](/en/post/of/) nations."
+- **[Noun](/post/noun/)**: 1. An [elaborate](/post/elaborate/) [or](/post/or/) [formal](/post/formal/) ritual [or](/post/or/) [event](/post/event/) marking [a](/post/a/) [particular](/post/particular/) [occasion](/post/occasion/) [or](/post/or/) transition, [often](/post/often/) [with](/post/with/) [religious](/post/religious/), cultural, [or](/post/or/) [social](/post/social/) [significance](/post/significance/). [Example](/post/example/): "[The](/post/the/) [wedding](/post/wedding/) [ceremony](/post/ceremony/) was [a](/post/a/) [beautiful](/post/beautiful/) [display](/post/display/) [of](/post/of/) [tradition](/post/tradition/)."
+   - 2. [A](/post/a/) [solemn](/post/solemn/) [or](/post/or/) [formal](/post/formal/) [act](/post/act/) [or](/post/or/) observance, [especially](/post/especially/) [one](/post/one/) involving prescribed rites [or](/post/or/) forms. [Example](/post/example/): "[The](/post/the/) [opening](/post/opening/) [ceremony](/post/ceremony/) [of](/post/of/) [the](/post/the/) Olympics begins [with](/post/with/) [a](/post/a/) [parade](/post/parade/) [of](/post/of/) nations."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [perform](/en/post/perform/) [or](/en/post/or/) [observe](/en/post/observe/) [a](/en/post/a/) [ceremony](/en/post/ceremony/); [to](/en/post/to/) [hold](/en/post/hold/) [a](/en/post/a/) [ceremony](/en/post/ceremony/). [Example](/en/post/example/): "[They](/en/post/they/) [will](/en/post/will/) [be](/en/post/be/) holding [a](/en/post/a/) [ceremony](/en/post/ceremony/) [to](/en/post/to/) commemorate [the](/en/post/the/) fallen soldiers."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [ceremony](/en/post/ceremony/) [or](/en/post/or/) having [the](/en/post/the/) formality [of](/en/post/of/) [a](/en/post/a/) [ceremony](/en/post/ceremony/). [Example](/en/post/example/): "[A](/en/post/a/) [grand](/en/post/grand/) [ceremony](/en/post/ceremony/) marked [the](/en/post/the/) [opening](/en/post/opening/) [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) [building](/en/post/building/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [perform](/post/perform/) [or](/post/or/) [observe](/post/observe/) [a](/post/a/) [ceremony](/post/ceremony/); [to](/post/to/) [hold](/post/hold/) [a](/post/a/) [ceremony](/post/ceremony/). [Example](/post/example/): "[They](/post/they/) [will](/post/will/) [be](/post/be/) holding [a](/post/a/) [ceremony](/post/ceremony/) [to](/post/to/) commemorate [the](/post/the/) fallen soldiers."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [ceremony](/post/ceremony/) [or](/post/or/) having [the](/post/the/) formality [of](/post/of/) [a](/post/a/) [ceremony](/post/ceremony/). [Example](/post/example/): "[A](/post/a/) [grand](/post/grand/) [ceremony](/post/ceremony/) marked [the](/post/the/) [opening](/post/opening/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [building](/post/building/)."
 
 ## Phrases
-- "[Opening](/en/post/opening/)/closing [ceremony](/en/post/ceremony/)" - [the](/en/post/the/) [formal](/en/post/formal/) [start](/en/post/start/) [or](/en/post/or/) [end](/en/post/end/) [of](/en/post/of/) an [event](/en/post/event/).
-- "Consecration [ceremony](/en/post/ceremony/)" - [a](/en/post/a/) [religious](/en/post/religious/) rite [to](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [holy](/en/post/holy/) [or](/en/post/or/) dedicated.
-- "Ceremonial [salute](/en/post/salute/)" - [a](/en/post/a/) [formal](/en/post/formal/) [greeting](/en/post/greeting/) [or](/en/post/or/) [sign](/en/post/sign/) [of](/en/post/of/) [respect](/en/post/respect/).
-- "Laying [of](/en/post/of/) wreaths" - [a](/en/post/a/) symbolic [act](/en/post/act/) [during](/en/post/during/) [a](/en/post/a/) [memorial](/en/post/memorial/) [ceremony](/en/post/ceremony/).
-- "Ceremonial [dress](/en/post/dress/)" - attire worn [for](/en/post/for/) [formal](/en/post/formal/) [or](/en/post/or/) [special](/en/post/special/) occasions.
+- "[Opening](/post/opening/)/closing [ceremony](/post/ceremony/)" - [the](/post/the/) [formal](/post/formal/) [start](/post/start/) [or](/post/or/) [end](/post/end/) [of](/post/of/) an [event](/post/event/).
+- "Consecration [ceremony](/post/ceremony/)" - [a](/post/a/) [religious](/post/religious/) rite [to](/post/to/) [make](/post/make/) [something](/post/something/) [holy](/post/holy/) [or](/post/or/) dedicated.
+- "Ceremonial [salute](/post/salute/)" - [a](/post/a/) [formal](/post/formal/) [greeting](/post/greeting/) [or](/post/or/) [sign](/post/sign/) [of](/post/of/) [respect](/post/respect/).
+- "Laying [of](/post/of/) wreaths" - [a](/post/a/) symbolic [act](/post/act/) [during](/post/during/) [a](/post/a/) [memorial](/post/memorial/) [ceremony](/post/ceremony/).
+- "Ceremonial [dress](/post/dress/)" - attire worn [for](/post/for/) [formal](/post/formal/) [or](/post/or/) [special](/post/special/) occasions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) graduation [ceremony](/en/post/ceremony/) was filled [with](/en/post/with/) emotions [as](/en/post/as/) students received [their](/en/post/their/) diplomas."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [war](/en/post/war/), [a](/en/post/a/) [ceremony](/en/post/ceremony/) was held [to](/en/post/to/) honor [the](/en/post/the/) veterans."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [state](/en/post/state/) [funeral](/en/post/funeral/) was [a](/en/post/a/) [solemn](/en/post/solemn/) [and](/en/post/and/) ceremonial [affair](/en/post/affair/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) graduation [ceremony](/post/ceremony/) was filled [with](/post/with/) emotions [as](/post/as/) students received [their](/post/their/) diplomas."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [war](/post/war/), [a](/post/a/) [ceremony](/post/ceremony/) was held [to](/post/to/) honor [the](/post/the/) veterans."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [state](/post/state/) [funeral](/post/funeral/) was [a](/post/a/) [solemn](/post/solemn/) [and](/post/and/) ceremonial [affair](/post/affair/)."
 
 ## Synonyms
 - Ritual
@@ -42,6 +42,6 @@ keywords = ['ai words', 'ceremony']
 
 ## Antonyms
 - Informal
-- [Casual](/en/post/casual/)
+- [Casual](/post/casual/)
 - Unofficial
 - Impromptu

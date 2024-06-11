@@ -11,18 +11,18 @@ keywords = ['ai words', 'thousand']
 /ˈθaʊzənd/
 
 ## 释义
-- **数词**: 1,000，表示数量。例如: "[There](/post/there/) are [three](/post/three/) [thousand](/post/thousand/) students [in](/post/in/) [our](/post/our/) [school](/post/school/)."
+- **数词**: 1,000，表示数量。例如: "[There](/zh/post/there/) are [three](/zh/post/three/) [thousand](/zh/post/thousand/) students [in](/zh/post/in/) [our](/zh/post/our/) [school](/zh/post/school/)."
 
 ## 短语
-- "thousands [of](/post/of/)" 表示成千上万的。例如: "[There](/post/there/) are thousands [of](/post/of/) stars [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
+- "thousands [of](/zh/post/of/)" 表示成千上万的。例如: "[There](/zh/post/there/) are thousands [of](/zh/post/of/) stars [in](/zh/post/in/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
 
 ## 例句
-- "[She](/post/she/) has [read](/post/read/) thousands [of](/post/of/) books [in](/post/in/) [her](/post/her/) [lifetime](/post/lifetime/)."
-- "[The](/post/the/) [company](/post/company/) received thousands [of](/post/of/) applications [for](/post/for/) [the](/post/the/) [job](/post/job/) [opening](/post/opening/)."
+- "[She](/zh/post/she/) has [read](/zh/post/read/) thousands [of](/zh/post/of/) books [in](/zh/post/in/) [her](/zh/post/her/) [lifetime](/zh/post/lifetime/)."
+- "[The](/zh/post/the/) [company](/zh/post/company/) received thousands [of](/zh/post/of/) applications [for](/zh/post/for/) [the](/zh/post/the/) [job](/zh/post/job/) [opening](/zh/post/opening/)."
 
 ## 同义词
-- [Many](/post/many/)
-- [Numerous](/post/numerous/)
-- [A](/post/a/) [great](/post/great/) [deal](/post/deal/) [of](/post/of/)
-- [A](/post/a/) multitude [of](/post/of/)
-- [A](/post/a/) [lot](/post/lot/) [of](/post/of/)
+- [Many](/zh/post/many/)
+- [Numerous](/zh/post/numerous/)
+- [A](/zh/post/a/) [great](/zh/post/great/) [deal](/zh/post/deal/) [of](/zh/post/of/)
+- [A](/zh/post/a/) multitude [of](/zh/post/of/)
+- [A](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/)

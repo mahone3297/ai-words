@@ -11,22 +11,22 @@ keywords = ['ai words', 'reap']
 /rɪːp/
 
 ## 释义
-- **动词**: 收割（庄稼），尤指用镰刀收割。例如: "Farmers [reap](/post/reap/) [wheat](/post/wheat/) [in](/post/in/) [the](/post/the/) [summer](/post/summer/)."
-- **动词**: 获取，得到（好处、结果）。例如: "[They](/post/they/) [finally](/post/finally/) reaped [the](/post/the/) rewards [of](/post/of/) [their](/post/their/) [hard](/post/hard/) [work](/post/work/)."
-- **名词**: 收获，成果。例如: "[The](/post/the/) [harvest](/post/harvest/) was [a](/post/a/) [good](/post/good/) [reap](/post/reap/) [this](/post/this/) [year](/post/year/)."
+- **动词**: 收割（庄稼），尤指用镰刀收割。例如: "Farmers [reap](/zh/post/reap/) [wheat](/zh/post/wheat/) [in](/zh/post/in/) [the](/zh/post/the/) [summer](/zh/post/summer/)."
+- **动词**: 获取，得到（好处、结果）。例如: "[They](/zh/post/they/) [finally](/zh/post/finally/) reaped [the](/zh/post/the/) rewards [of](/zh/post/of/) [their](/zh/post/their/) [hard](/zh/post/hard/) [work](/zh/post/work/)."
+- **名词**: 收获，成果。例如: "[The](/zh/post/the/) [harvest](/zh/post/harvest/) was [a](/zh/post/a/) [good](/zh/post/good/) [reap](/zh/post/reap/) [this](/zh/post/this/) [year](/zh/post/year/)."
 
 ## 短语
-- "[Reap](/post/reap/) [what](/post/what/) [you](/post/you/) [sow](/post/sow/)" 意味着你将得到自己行为的后果。
-- "[To](/post/to/) [reap](/post/reap/) [a](/post/a/) bountiful [harvest](/post/harvest/)" 指获得丰富的收获。
+- "[Reap](/zh/post/reap/) [what](/zh/post/what/) [you](/zh/post/you/) [sow](/zh/post/sow/)" 意味着你将得到自己行为的后果。
+- "[To](/zh/post/to/) [reap](/zh/post/reap/) [a](/zh/post/a/) bountiful [harvest](/zh/post/harvest/)" 指获得丰富的收获。
 
 ## 例句
-- 动词: "[He](/post/he/) spent [all](/post/all/) [day](/post/day/) [in](/post/in/) [the](/post/the/) [field](/post/field/) reaping [the](/post/the/) [rice](/post/rice/)."
-- 动词: "[Their](/post/their/) [investment](/post/investment/) [in](/post/in/) [research](/post/research/) [and](/post/and/) [development](/post/development/) has allowed [them](/post/them/) [to](/post/to/) [reap](/post/reap/) [significant](/post/significant/) profits."
-- 名词: "[The](/post/the/) farmers were [happy](/post/happy/) [with](/post/with/) [the](/post/the/) [excellent](/post/excellent/) [reap](/post/reap/) [after](/post/after/) [a](/post/a/) [long](/post/long/), [hot](/post/hot/) [summer](/post/summer/)."
+- 动词: "[He](/zh/post/he/) spent [all](/zh/post/all/) [day](/zh/post/day/) [in](/zh/post/in/) [the](/zh/post/the/) [field](/zh/post/field/) reaping [the](/zh/post/the/) [rice](/zh/post/rice/)."
+- 动词: "[Their](/zh/post/their/) [investment](/zh/post/investment/) [in](/zh/post/in/) [research](/zh/post/research/) [and](/zh/post/and/) [development](/zh/post/development/) has allowed [them](/zh/post/them/) [to](/zh/post/to/) [reap](/zh/post/reap/) [significant](/zh/post/significant/) profits."
+- 名词: "[The](/zh/post/the/) farmers were [happy](/zh/post/happy/) [with](/zh/post/with/) [the](/zh/post/the/) [excellent](/zh/post/excellent/) [reap](/zh/post/reap/) [after](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/), [hot](/zh/post/hot/) [summer](/zh/post/summer/)."
 
 ## 同义词
-- [Harvest](/post/harvest/)
-- [Gather](/post/gather/)
-- [Collect](/post/collect/)
-- [Obtain](/post/obtain/)
-- [Gain](/post/gain/)
+- [Harvest](/zh/post/harvest/)
+- [Gather](/zh/post/gather/)
+- [Collect](/zh/post/collect/)
+- [Obtain](/zh/post/obtain/)
+- [Gain](/zh/post/gain/)

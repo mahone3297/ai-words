@@ -11,20 +11,20 @@ keywords = ['ai words', 'promising']
 /prɪˈmɪs.ɪŋ/
 
 ## 释义
-- **形容词**: 富有希望的，有前途的，显示出潜力的。例如: "[The](/post/the/) [new](/post/new/) [project](/post/project/) seems [very](/post/very/) [promising](/post/promising/)."
-- **名词**: 承诺，许诺，诺言。例如: "[He](/post/he/) made [several](/post/several/) promises [but](/post/but/) failed [to](/post/to/) [deliver](/post/deliver/)."
+- **形容词**: 富有希望的，有前途的，显示出潜力的。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [project](/zh/post/project/) seems [very](/zh/post/very/) [promising](/zh/post/promising/)."
+- **名词**: 承诺，许诺，诺言。例如: "[He](/zh/post/he/) made [several](/zh/post/several/) promises [but](/zh/post/but/) failed [to](/zh/post/to/) [deliver](/zh/post/deliver/)."
 
 ## 短语
-- "[promising](/post/promising/) [future](/post/future/)" 意味着有光明的未来。
-- "[promising](/post/promising/) [talent](/post/talent/)" 指有潜力的人才。
+- "[promising](/zh/post/promising/) [future](/zh/post/future/)" 意味着有光明的未来。
+- "[promising](/zh/post/promising/) [talent](/zh/post/talent/)" 指有潜力的人才。
 
 ## 例句
-- 形容词: "[The](/post/the/) [young](/post/young/) [athlete](/post/athlete/) has shown [great](/post/great/) [potential](/post/potential/) [and](/post/and/) is considered [a](/post/a/) [promising](/post/promising/) [star](/post/star/)."
-- 名词: "[He](/post/he/) made [a](/post/a/) [promising](/post/promising/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [work](/post/work/) [on](/post/on/) [time](/post/time/), [but](/post/but/) didn't [keep](/post/keep/) [his](/post/his/) [word](/post/word/)."
+- 形容词: "[The](/zh/post/the/) [young](/zh/post/young/) [athlete](/zh/post/athlete/) has shown [great](/zh/post/great/) [potential](/zh/post/potential/) [and](/zh/post/and/) is considered [a](/zh/post/a/) [promising](/zh/post/promising/) [star](/zh/post/star/)."
+- 名词: "[He](/zh/post/he/) made [a](/zh/post/a/) [promising](/zh/post/promising/) [to](/zh/post/to/) [finish](/zh/post/finish/) [the](/zh/post/the/) [work](/zh/post/work/) [on](/zh/post/on/) [time](/zh/post/time/), [but](/zh/post/but/) didn't [keep](/zh/post/keep/) [his](/zh/post/his/) [word](/zh/post/word/)."
 
 ## 同义词
-- [Hopeful](/post/hopeful/)
+- [Hopeful](/zh/post/hopeful/)
 - Encouraging
-- [Promising](/post/promising/)
+- [Promising](/zh/post/promising/)
 - Auspicious
 - Upbeat

@@ -11,21 +11,21 @@ keywords = ['ai words', 'appliance']
 /əˈplʌɪəns/
 
 ## 释义
-- **名词 (n)**: 电器，器具，设备。指用于特定目的的机械或电子装置。例如: "[She](/post/she/) [just](/post/just/) bought [a](/post/a/) [new](/post/new/) [kitchen](/post/kitchen/) [appliance](/post/appliance/)."
-- **名词**: 应用程序，应用软件。在计算机领域中指用于执行特定任务的软件。例如: "[The](/post/the/) latest [version](/post/version/) [of](/post/of/) [the](/post/the/) [word](/post/word/) processing [appliance](/post/appliance/) has [many](/post/many/) [new](/post/new/) features."
+- **名词 (n)**: 电器，器具，设备。指用于特定目的的机械或电子装置。例如: "[She](/zh/post/she/) [just](/zh/post/just/) bought [a](/zh/post/a/) [new](/zh/post/new/) [kitchen](/zh/post/kitchen/) [appliance](/zh/post/appliance/)."
+- **名词**: 应用程序，应用软件。在计算机领域中指用于执行特定任务的软件。例如: "[The](/zh/post/the/) latest [version](/zh/post/version/) [of](/zh/post/of/) [the](/zh/post/the/) [word](/zh/post/word/) processing [appliance](/zh/post/appliance/) has [many](/zh/post/many/) [new](/zh/post/new/) features."
 
 ## 短语
-- "[Appliance](/post/appliance/) [store](/post/store/)" 是售卖电器的商店。
-- "[Home](/post/home/) appliances" 包括家用电器，如冰箱、洗衣机等。
-- "[Smart](/post/smart/) appliances" 指具有联网功能的智能电器。
+- "[Appliance](/zh/post/appliance/) [store](/zh/post/store/)" 是售卖电器的商店。
+- "[Home](/zh/post/home/) appliances" 包括家用电器，如冰箱、洗衣机等。
+- "[Smart](/zh/post/smart/) appliances" 指具有联网功能的智能电器。
 
 ## 例句
-- 名词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) [refrigerator](/post/refrigerator/), [so](/post/so/) we're going [to](/post/to/) [check](/post/check/) [out](/post/out/) [the](/post/the/) [appliance](/post/appliance/) [store](/post/store/)."
-- 名词: "[The](/post/the/) software update improved [the](/post/the/) [performance](/post/performance/) [of](/post/of/) [the](/post/the/) [video](/post/video/) editing [appliance](/post/appliance/)."
+- 名词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [buy](/zh/post/buy/) [a](/zh/post/a/) [new](/zh/post/new/) [refrigerator](/zh/post/refrigerator/), [so](/zh/post/so/) we're going [to](/zh/post/to/) [check](/zh/post/check/) [out](/zh/post/out/) [the](/zh/post/the/) [appliance](/zh/post/appliance/) [store](/zh/post/store/)."
+- 名词: "[The](/zh/post/the/) software update improved [the](/zh/post/the/) [performance](/zh/post/performance/) [of](/zh/post/of/) [the](/zh/post/the/) [video](/zh/post/video/) editing [appliance](/zh/post/appliance/)."
 
 ## 同义词
-- [Device](/post/device/)
+- [Device](/zh/post/device/)
 - Gadget
-- [Tool](/post/tool/)
-- [Equipment](/post/equipment/)
-- [Instrument](/post/instrument/)
+- [Tool](/zh/post/tool/)
+- [Equipment](/zh/post/equipment/)
+- [Instrument](/zh/post/instrument/)

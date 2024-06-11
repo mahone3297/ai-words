@@ -12,20 +12,20 @@ keywords = ['ai words', 'Swiss']
 
 ## 释义
 - **形容词**: 
-   - 与瑞士（Switzerland）相关联的，瑞士人的，瑞士制造的。例如: "[She](/post/she/) wears [a](/post/a/) Swiss [watch](/post/watch/)."
-   - 精密的，高质量的，通常用于描述工艺或产品。例如: "[The](/post/the/) Swiss [cheese](/post/cheese/) has [perfect](/post/perfect/) holes."
+   - 与瑞士（Switzerland）相关联的，瑞士人的，瑞士制造的。例如: "[She](/zh/post/she/) wears [a](/zh/post/a/) Swiss [watch](/zh/post/watch/)."
+   - 精密的，高质量的，通常用于描述工艺或产品。例如: "[The](/zh/post/the/) Swiss [cheese](/zh/post/cheese/) has [perfect](/zh/post/perfect/) holes."
 
 ## 短语
-- "Swiss [army](/post/army/) [knife](/post/knife/)" 瑞士军刀，多功能刀具。
-- "Swiss [bank](/post/bank/) [account](/post/account/)" 瑞士银行账户，常被认为是保密和安全的。
+- "Swiss [army](/zh/post/army/) [knife](/zh/post/knife/)" 瑞士军刀，多功能刀具。
+- "Swiss [bank](/zh/post/bank/) [account](/zh/post/account/)" 瑞士银行账户，常被认为是保密和安全的。
 
 ## 例句
-- 形容词: "[The](/post/the/) Swiss [chocolate](/post/chocolate/) is renowned [for](/post/for/) [its](/post/its/) [rich](/post/rich/) flavor."
-- 短语: "[He](/post/he/) carries [a](/post/a/) trusty Swiss [army](/post/army/) [knife](/post/knife/) [on](/post/on/) [all](/post/all/) [his](/post/his/) camping trips."
+- 形容词: "[The](/zh/post/the/) Swiss [chocolate](/zh/post/chocolate/) is renowned [for](/zh/post/for/) [its](/zh/post/its/) [rich](/zh/post/rich/) flavor."
+- 短语: "[He](/zh/post/he/) carries [a](/zh/post/a/) trusty Swiss [army](/zh/post/army/) [knife](/zh/post/knife/) [on](/zh/post/on/) [all](/zh/post/all/) [his](/zh/post/his/) camping trips."
 
 ## 同义词
 - Swiss-made
 - European
 - High-quality
-- [Precision](/post/precision/)
-- [Delicate](/post/delicate/)
+- [Precision](/zh/post/precision/)
+- [Delicate](/zh/post/delicate/)

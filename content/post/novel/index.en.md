@@ -7,31 +7,31 @@ description = '[ˈnɔvəl] n.小说 a.新的'
 keywords = ['ai words', 'novel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnɒvəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [long](/en/post/long/) [work](/en/post/work/) [of](/en/post/of/) [fiction](/en/post/fiction/) [that](/en/post/that/) typically tells [a](/en/post/a/) [story](/en/post/story/) [with](/en/post/with/) characters [and](/en/post/and/) events [throughout](/en/post/throughout/) an extended [period](/en/post/period/). [For](/en/post/for/) [example](/en/post/example/): "She's [writing](/en/post/writing/) [her](/en/post/her/) [first](/en/post/first/) [novel](/en/post/novel/) [this](/en/post/this/) [year](/en/post/year/)."
-  - *[Formal](/en/post/formal/) [Definition](/en/post/definition/)*: [A](/en/post/a/) book-length [work](/en/post/work/) [of](/en/post/of/) [fiction](/en/post/fiction/), [usually](/en/post/usually/) consisting [of](/en/post/of/) [multiple](/en/post/multiple/) chapters [and](/en/post/and/) having [a](/en/post/a/) fully developed [plot](/en/post/plot/) [and](/en/post/and/) characters.
+- **[Noun](/post/noun/)**: [A](/post/a/) [long](/post/long/) [work](/post/work/) [of](/post/of/) [fiction](/post/fiction/) [that](/post/that/) typically tells [a](/post/a/) [story](/post/story/) [with](/post/with/) characters [and](/post/and/) events [throughout](/post/throughout/) an extended [period](/post/period/). [For](/post/for/) [example](/post/example/): "She's [writing](/post/writing/) [her](/post/her/) [first](/post/first/) [novel](/post/novel/) [this](/post/this/) [year](/post/year/)."
+  - *[Formal](/post/formal/) [Definition](/post/definition/)*: [A](/post/a/) book-length [work](/post/work/) [of](/post/of/) [fiction](/post/fiction/), [usually](/post/usually/) consisting [of](/post/of/) [multiple](/post/multiple/) chapters [and](/post/and/) having [a](/post/a/) fully developed [plot](/post/plot/) [and](/post/and/) characters.
   
-- **[Adjective](/en/post/adjective/)**: [New](/en/post/new/), [original](/en/post/original/), [and](/en/post/and/) [not](/en/post/not/) [previously](/en/post/previously/) known [or](/en/post/or/) done [before](/en/post/before/); innovative. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [novel](/en/post/novel/) [approach](/en/post/approach/) [they](/en/post/they/) took [to](/en/post/to/) solving [the](/en/post/the/) [problem](/en/post/problem/) was [highly](/en/post/highly/) [effective](/en/post/effective/)."
+- **[Adjective](/post/adjective/)**: [New](/post/new/), [original](/post/original/), [and](/post/and/) [not](/post/not/) [previously](/post/previously/) known [or](/post/or/) done [before](/post/before/); innovative. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [novel](/post/novel/) [approach](/post/approach/) [they](/post/they/) took [to](/post/to/) solving [the](/post/the/) [problem](/post/problem/) was [highly](/post/highly/) [effective](/post/effective/)."
 
-  - *[Formal](/en/post/formal/) [Definition](/en/post/definition/)*: Characterized [by](/en/post/by/) originality, freshness, [or](/en/post/or/) innovation; [new](/en/post/new/) [and](/en/post/and/) [unusual](/en/post/unusual/).
+  - *[Formal](/post/formal/) [Definition](/post/definition/)*: Characterized [by](/post/by/) originality, freshness, [or](/post/or/) innovation; [new](/post/new/) [and](/post/and/) [unusual](/post/unusual/).
 
 ## Phrases
-- "[A](/en/post/a/) [novel](/en/post/novel/) [idea](/en/post/idea/)" refers [to](/en/post/to/) [a](/en/post/a/) [fresh](/en/post/fresh/) [or](/en/post/or/) [unique](/en/post/unique/) [concept](/en/post/concept/) [or](/en/post/or/) [proposal](/en/post/proposal/).
-- "Novelty [item](/en/post/item/)" refers [to](/en/post/to/) [something](/en/post/something/) [new](/en/post/new/) [and](/en/post/and/) [unusual](/en/post/unusual/) designed [to](/en/post/to/) [attract](/en/post/attract/) [interest](/en/post/interest/) [or](/en/post/or/) amusement.
-- "Debut [novel](/en/post/novel/)" refers [to](/en/post/to/) [a](/en/post/a/) writer's [first](/en/post/first/) published [novel](/en/post/novel/).
+- "[A](/post/a/) [novel](/post/novel/) [idea](/post/idea/)" refers [to](/post/to/) [a](/post/a/) [fresh](/post/fresh/) [or](/post/or/) [unique](/post/unique/) [concept](/post/concept/) [or](/post/or/) [proposal](/post/proposal/).
+- "Novelty [item](/post/item/)" refers [to](/post/to/) [something](/post/something/) [new](/post/new/) [and](/post/and/) [unusual](/post/unusual/) designed [to](/post/to/) [attract](/post/attract/) [interest](/post/interest/) [or](/post/or/) amusement.
+- "Debut [novel](/post/novel/)" refers [to](/post/to/) [a](/post/a/) writer's [first](/post/first/) published [novel](/post/novel/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) latest [novel](/en/post/novel/) topped [the](/en/post/the/) bestseller [list](/en/post/list/) [for](/en/post/for/) [several](/en/post/several/) weeks."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [scientist](/en/post/scientist/) introduced [a](/en/post/a/) [novel](/en/post/novel/) [method](/en/post/method/) [for](/en/post/for/) measuring [atmospheric](/en/post/atmospheric/) [pollution](/en/post/pollution/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) latest [novel](/post/novel/) topped [the](/post/the/) bestseller [list](/post/list/) [for](/post/for/) [several](/post/several/) weeks."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [scientist](/post/scientist/) introduced [a](/post/a/) [novel](/post/novel/) [method](/post/method/) [for](/post/for/) measuring [atmospheric](/post/atmospheric/) [pollution](/post/pollution/)."
 
 ## Synonyms
-- [Book](/en/post/book/) ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [meaning](/en/post/meaning/))
+- [Book](/post/book/) ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [meaning](/post/meaning/))
 - Innovative
-- [Creative](/en/post/creative/)
-- [Fresh](/en/post/fresh/)
-- [Original](/en/post/original/)
+- [Creative](/post/creative/)
+- [Fresh](/post/fresh/)
+- [Original](/post/original/)
 - Unconventional
-- [Unique](/en/post/unique/) ([for](/en/post/for/) [the](/en/post/the/) [adjective](/en/post/adjective/) [meaning](/en/post/meaning/))
+- [Unique](/post/unique/) ([for](/post/for/) [the](/post/the/) [adjective](/post/adjective/) [meaning](/post/meaning/))

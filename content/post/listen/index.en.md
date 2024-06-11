@@ -7,34 +7,34 @@ description = '[ˈlisn] vi.听，留神听；听从'
 keywords = ['ai words', 'listen']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɪs·ən/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [give](/en/post/give/) one's [attention](/en/post/attention/) [to](/en/post/to/) sounds [or](/en/post/or/) words, [especially](/en/post/especially/) [by](/en/post/by/) directing one's ears towards [a](/en/post/a/) [speaker](/en/post/speaker/) [or](/en/post/or/) [source](/en/post/source/) [of](/en/post/of/) [sound](/en/post/sound/), [with](/en/post/with/) [the](/en/post/the/) intent [to](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [hear](/en/post/hear/) [something](/en/post/something/) [clearly](/en/post/clearly/). [For](/en/post/for/) [example](/en/post/example/): "[Listen](/en/post/listen/) carefully [to](/en/post/to/) [what](/en/post/what/) I'm saying."
-- **[Noun](/en/post/noun/) ([less](/en/post/less/) [common](/en/post/common/))**: An [act](/en/post/act/) [of](/en/post/of/) listening; [a](/en/post/a/) hearing. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) gave [him](/en/post/him/) [a](/en/post/a/) [patient](/en/post/patient/) [listen](/en/post/listen/) [before](/en/post/before/) responding."
+- **[Verb](/post/verb/)**: [To](/post/to/) [give](/post/give/) one's [attention](/post/attention/) [to](/post/to/) sounds [or](/post/or/) words, [especially](/post/especially/) [by](/post/by/) directing one's ears towards [a](/post/a/) [speaker](/post/speaker/) [or](/post/or/) [source](/post/source/) [of](/post/of/) [sound](/post/sound/), [with](/post/with/) [the](/post/the/) intent [to](/post/to/) [understand](/post/understand/) [or](/post/or/) [hear](/post/hear/) [something](/post/something/) [clearly](/post/clearly/). [For](/post/for/) [example](/post/example/): "[Listen](/post/listen/) carefully [to](/post/to/) [what](/post/what/) I'm saying."
+- **[Noun](/post/noun/) ([less](/post/less/) [common](/post/common/))**: An [act](/post/act/) [of](/post/of/) listening; [a](/post/a/) hearing. [For](/post/for/) [example](/post/example/): "[She](/post/she/) gave [him](/post/him/) [a](/post/a/) [patient](/post/patient/) [listen](/post/listen/) [before](/post/before/) responding."
 
-### [Verb](/en/post/verb/) [Usage](/en/post/usage/) Examples
-- "[The](/en/post/the/) children were asked [to](/en/post/to/) [listen](/en/post/listen/) attentively [to](/en/post/to/) [the](/en/post/the/) teacher's instructions."
-- "I [could](/en/post/could/) [hear](/en/post/hear/) [her](/en/post/her/) crying, [but](/en/post/but/) I couldn't [listen](/en/post/listen/) [because](/en/post/because/) I was [too](/en/post/too/) [busy](/en/post/busy/)."
+### [Verb](/post/verb/) [Usage](/post/usage/) Examples
+- "[The](/post/the/) children were asked [to](/post/to/) [listen](/post/listen/) attentively [to](/post/to/) [the](/post/the/) teacher's instructions."
+- "I [could](/post/could/) [hear](/post/hear/) [her](/post/her/) crying, [but](/post/but/) I couldn't [listen](/post/listen/) [because](/post/because/) I was [too](/post/too/) [busy](/post/busy/)."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) [Example](/en/post/example/)
-- "[His](/en/post/his/) [first](/en/post/first/) [public](/en/post/public/) [listen](/en/post/listen/) came [after](/en/post/after/) months [of](/en/post/of/) [practice](/en/post/practice/) [in](/en/post/in/) [his](/en/post/his/) bedroom."
+### [Noun](/post/noun/) [Usage](/post/usage/) [Example](/post/example/)
+- "[His](/post/his/) [first](/post/first/) [public](/post/public/) [listen](/post/listen/) came [after](/post/after/) months [of](/post/of/) [practice](/post/practice/) [in](/post/in/) [his](/post/his/) bedroom."
 
 ## Phrases
-- "[Listen](/en/post/listen/) [up](/en/post/up/)" - [A](/en/post/a/) [command](/en/post/command/) [to](/en/post/to/) [pay](/en/post/pay/) [close](/en/post/close/) [attention](/en/post/attention/) [to](/en/post/to/) [what](/en/post/what/) is [about](/en/post/about/) [to](/en/post/to/) [be](/en/post/be/) said.
-- "[Listen](/en/post/listen/) [out](/en/post/out/) [for](/en/post/for/)" - [To](/en/post/to/) [be](/en/post/be/) [attentive](/en/post/attentive/) [to](/en/post/to/) [hear](/en/post/hear/) [something](/en/post/something/) [specific](/en/post/specific/), e.g., "[Listen](/en/post/listen/) [out](/en/post/out/) [for](/en/post/for/) [the](/en/post/the/) [postman](/en/post/postman/)."
-- "[Listen](/en/post/listen/) [to](/en/post/to/) [reason](/en/post/reason/)" - [To](/en/post/to/) [consider](/en/post/consider/) [logical](/en/post/logical/) arguments [or](/en/post/or/) [advice](/en/post/advice/) sensibly.
+- "[Listen](/post/listen/) [up](/post/up/)" - [A](/post/a/) [command](/post/command/) [to](/post/to/) [pay](/post/pay/) [close](/post/close/) [attention](/post/attention/) [to](/post/to/) [what](/post/what/) is [about](/post/about/) [to](/post/to/) [be](/post/be/) said.
+- "[Listen](/post/listen/) [out](/post/out/) [for](/post/for/)" - [To](/post/to/) [be](/post/be/) [attentive](/post/attentive/) [to](/post/to/) [hear](/post/hear/) [something](/post/something/) [specific](/post/specific/), e.g., "[Listen](/post/listen/) [out](/post/out/) [for](/post/for/) [the](/post/the/) [postman](/post/postman/)."
+- "[Listen](/post/listen/) [to](/post/to/) [reason](/post/reason/)" - [To](/post/to/) [consider](/post/consider/) [logical](/post/logical/) arguments [or](/post/or/) [advice](/post/advice/) sensibly.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [listen](/en/post/listen/) [closely](/en/post/closely/) [to](/en/post/to/) [our](/en/post/our/) customers' [feedback](/en/post/feedback/) [if](/en/post/if/) [we](/en/post/we/) [want](/en/post/want/) [to](/en/post/to/) [improve](/en/post/improve/) [our](/en/post/our/) [service](/en/post/service/)."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [concert](/en/post/concert/), [we](/en/post/we/) sat [down](/en/post/down/) [for](/en/post/for/) [a](/en/post/a/) [listen](/en/post/listen/) [to](/en/post/to/) [the](/en/post/the/) [live](/en/post/live/) recording."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [listen](/post/listen/) [closely](/post/closely/) [to](/post/to/) [our](/post/our/) customers' [feedback](/post/feedback/) [if](/post/if/) [we](/post/we/) [want](/post/want/) [to](/post/to/) [improve](/post/improve/) [our](/post/our/) [service](/post/service/)."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [concert](/post/concert/), [we](/post/we/) sat [down](/post/down/) [for](/post/for/) [a](/post/a/) [listen](/post/listen/) [to](/post/to/) [the](/post/the/) [live](/post/live/) recording."
 
 ## Synonyms
-- [Hear](/en/post/hear/)
-- [Pay](/en/post/pay/) [attention](/en/post/attention/)
-- [Attend](/en/post/attend/)
+- [Hear](/post/hear/)
+- [Pay](/post/pay/) [attention](/post/attention/)
+- [Attend](/post/attend/)
 - Heed
-- [Give](/en/post/give/) [ear](/en/post/ear/)
-- [Take](/en/post/take/) heed [of](/en/post/of/)
-- [Observe](/en/post/observe/) ([sound](/en/post/sound/))
+- [Give](/post/give/) [ear](/post/ear/)
+- [Take](/post/take/) heed [of](/post/of/)
+- [Observe](/post/observe/) ([sound](/post/sound/))

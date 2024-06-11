@@ -12,25 +12,25 @@ keywords = ['ai words', 'shine']
 
 ## 释义
 - **动词**:
-1. 发光，闪耀。例如: "[The](/post/the/) [sun](/post/sun/) was shining brightly [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
-2. （使）照耀，（使）发光。例如: "[The](/post/the/) flashlight shone [its](/post/its/) [beam](/post/beam/) [on](/post/on/) [the](/post/the/) [ground](/post/ground/)."
-3. 表现突出，出类拔萃。例如: "[She](/post/she/) [really](/post/really/) shone [in](/post/in/) [her](/post/her/) [performance](/post/performance/)."
+1. 发光，闪耀。例如: "[The](/zh/post/the/) [sun](/zh/post/sun/) was shining brightly [in](/zh/post/in/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
+2. （使）照耀，（使）发光。例如: "[The](/zh/post/the/) flashlight shone [its](/zh/post/its/) [beam](/zh/post/beam/) [on](/zh/post/on/) [the](/zh/post/the/) [ground](/zh/post/ground/)."
+3. 表现突出，出类拔萃。例如: "[She](/zh/post/she/) [really](/zh/post/really/) shone [in](/zh/post/in/) [her](/zh/post/her/) [performance](/zh/post/performance/)."
 
 - **名词**:
-1. 光芒，光泽。例如: "[The](/post/the/) [surface](/post/surface/) had [a](/post/a/) [smooth](/post/smooth/) [shine](/post/shine/) [to](/post/to/) [it](/post/it/)."
-2. 成功，辉煌。例如: "[He](/post/he/) had [a](/post/a/) [great](/post/great/) [season](/post/season/) [and](/post/and/) is enjoying [the](/post/the/) [shine](/post/shine/) [of](/post/of/) [his](/post/his/) [victory](/post/victory/)."
+1. 光芒，光泽。例如: "[The](/zh/post/the/) [surface](/zh/post/surface/) had [a](/zh/post/a/) [smooth](/zh/post/smooth/) [shine](/zh/post/shine/) [to](/zh/post/to/) [it](/zh/post/it/)."
+2. 成功，辉煌。例如: "[He](/zh/post/he/) had [a](/zh/post/a/) [great](/zh/post/great/) [season](/zh/post/season/) [and](/zh/post/and/) is enjoying [the](/zh/post/the/) [shine](/zh/post/shine/) [of](/zh/post/of/) [his](/zh/post/his/) [victory](/zh/post/victory/)."
 
 ## 短语
-- "[to](/post/to/) [shine](/post/shine/) [through](/post/through/)" 意为在困难中显现出来，突出。例如: "[Her](/post/her/) [kindness](/post/kindness/) shone [through](/post/through/) [in](/post/in/) [the](/post/the/) darkest moments."
-- "[to](/post/to/) [shine](/post/shine/) [in](/post/in/) one's [field](/post/field/)" 表示在某个领域表现出色。例如: "[He](/post/he/) shines [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [mathematics](/post/mathematics/)."
+- "[to](/zh/post/to/) [shine](/zh/post/shine/) [through](/zh/post/through/)" 意为在困难中显现出来，突出。例如: "[Her](/zh/post/her/) [kindness](/zh/post/kindness/) shone [through](/zh/post/through/) [in](/zh/post/in/) [the](/zh/post/the/) darkest moments."
+- "[to](/zh/post/to/) [shine](/zh/post/shine/) [in](/zh/post/in/) one's [field](/zh/post/field/)" 表示在某个领域表现出色。例如: "[He](/zh/post/he/) shines [in](/zh/post/in/) [the](/zh/post/the/) [field](/zh/post/field/) [of](/zh/post/of/) [mathematics](/zh/post/mathematics/)."
 
 ## 例句
-- 动词: "[The](/post/the/) diamonds [on](/post/on/) [her](/post/her/) [necklace](/post/necklace/) shone [under](/post/under/) [the](/post/the/) lights."
-- 名词: "[The](/post/the/) freshly waxed [floor](/post/floor/) had [a](/post/a/) [beautiful](/post/beautiful/) [shine](/post/shine/)."
+- 动词: "[The](/zh/post/the/) diamonds [on](/zh/post/on/) [her](/zh/post/her/) [necklace](/zh/post/necklace/) shone [under](/zh/post/under/) [the](/zh/post/the/) lights."
+- 名词: "[The](/zh/post/the/) freshly waxed [floor](/zh/post/floor/) had [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [shine](/zh/post/shine/)."
 
 ## 同义词
-- [glow](/post/glow/)
-- [glitter](/post/glitter/)
+- [glow](/zh/post/glow/)
+- [glitter](/zh/post/glitter/)
 - shimmer
-- [radiate](/post/radiate/)
-- [beam](/post/beam/)
+- [radiate](/zh/post/radiate/)
+- [beam](/zh/post/beam/)

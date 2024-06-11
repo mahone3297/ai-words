@@ -7,37 +7,37 @@ description = '[rɔt] vt.烂，腐坏 n.腐烂'
 keywords = ['ai words', 'rot']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈrɒt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) decomposing; [decay](/en/post/decay/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [fruit](/en/post/fruit/) began [to](/en/post/to/) [rot](/en/post/rot/) [after](/en/post/after/) sitting [too](/en/post/too/) [long](/en/post/long/)."
-   2. [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [decay](/en/post/decay/) [or](/en/post/or/) rotteness. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) was [in](/en/post/in/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [advanced](/en/post/advanced/) [rot](/en/post/rot/)."
-   3. (informal) [A](/en/post/a/) [lie](/en/post/lie/) [or](/en/post/or/) untruth. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [story](/en/post/story/) was [full](/en/post/full/) [of](/en/post/of/) [rot](/en/post/rot/)."
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) decomposing; [decay](/post/decay/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [fruit](/post/fruit/) began [to](/post/to/) [rot](/post/rot/) [after](/post/after/) sitting [too](/post/too/) [long](/post/long/)."
+   2. [A](/post/a/) [state](/post/state/) [of](/post/of/) [decay](/post/decay/) [or](/post/or/) rotteness. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [old](/post/old/) [house](/post/house/) was [in](/post/in/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [advanced](/post/advanced/) [rot](/post/rot/)."
+   3. (informal) [A](/post/a/) [lie](/post/lie/) [or](/post/or/) untruth. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [story](/post/story/) was [full](/post/full/) [of](/post/of/) [rot](/post/rot/)."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [decay](/en/post/decay/) [or](/en/post/or/) decompose [over](/en/post/over/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wood](/en/post/wood/) rotted [away](/en/post/away/) [due](/en/post/due/) [to](/en/post/to/) [moisture](/en/post/moisture/)."
-   2. [To](/en/post/to/) deteriorate morally [or](/en/post/or/) intellectually. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [mind](/en/post/mind/) started [to](/en/post/to/) [rot](/en/post/rot/) [after](/en/post/after/) years [of](/en/post/of/) isolation."
+- **[Verb](/post/verb/)**: [To](/post/to/) [decay](/post/decay/) [or](/post/or/) decompose [over](/post/over/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wood](/post/wood/) rotted [away](/post/away/) [due](/post/due/) [to](/post/to/) [moisture](/post/moisture/)."
+   2. [To](/post/to/) deteriorate morally [or](/post/or/) intellectually. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [mind](/post/mind/) started [to](/post/to/) [rot](/post/rot/) [after](/post/after/) years [of](/post/of/) isolation."
 
 ## Phrases
-- "[Rotten](/en/post/rotten/) eggs" is [a](/en/post/a/) metaphor [for](/en/post/for/) [something](/en/post/something/) [that](/en/post/that/) is [of](/en/post/of/) [poor](/en/post/poor/) [quality](/en/post/quality/) [or](/en/post/or/) corrupt.
-- "[Prevent](/en/post/prevent/) [rot](/en/post/rot/)" [means](/en/post/means/) [to](/en/post/to/) [avoid](/en/post/avoid/) [decay](/en/post/decay/) [or](/en/post/or/) spoilage.
-- "[Rotten](/en/post/rotten/) [apple](/en/post/apple/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [a](/en/post/a/) corrupt [or](/en/post/or/) [bad](/en/post/bad/) [influence](/en/post/influence/).
+- "[Rotten](/post/rotten/) eggs" is [a](/post/a/) metaphor [for](/post/for/) [something](/post/something/) [that](/post/that/) is [of](/post/of/) [poor](/post/poor/) [quality](/post/quality/) [or](/post/or/) corrupt.
+- "[Prevent](/post/prevent/) [rot](/post/rot/)" [means](/post/means/) [to](/post/to/) [avoid](/post/avoid/) [decay](/post/decay/) [or](/post/or/) spoilage.
+- "[Rotten](/post/rotten/) [apple](/post/apple/)" is [a](/post/a/) [phrase](/post/phrase/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [person](/post/person/) [who](/post/who/) has [a](/post/a/) corrupt [or](/post/or/) [bad](/post/bad/) [influence](/post/influence/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [tree](/en/post/tree/) had rotted [through](/en/post/through/) [the](/en/post/the/) center, making [it](/en/post/it/) unsafe [to](/en/post/to/) [climb](/en/post/climb/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [food](/en/post/food/) [in](/en/post/in/) [the](/en/post/the/) [fridge](/en/post/fridge/) started [to](/en/post/to/) [rot](/en/post/rot/), [so](/en/post/so/) [we](/en/post/we/) had [to](/en/post/to/) [throw](/en/post/throw/) [it](/en/post/it/) [out](/en/post/out/)."
-- **Informal**: "[He](/en/post/he/) told [a](/en/post/a/) [complete](/en/post/complete/) [rot](/en/post/rot/) [about](/en/post/about/) [how](/en/post/how/) [he](/en/post/he/) got [the](/en/post/the/) [money](/en/post/money/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [tree](/post/tree/) had rotted [through](/post/through/) [the](/post/the/) center, making [it](/post/it/) unsafe [to](/post/to/) [climb](/post/climb/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [food](/post/food/) [in](/post/in/) [the](/post/the/) [fridge](/post/fridge/) started [to](/post/to/) [rot](/post/rot/), [so](/post/so/) [we](/post/we/) had [to](/post/to/) [throw](/post/throw/) [it](/post/it/) [out](/post/out/)."
+- **Informal**: "[He](/post/he/) told [a](/post/a/) [complete](/post/complete/) [rot](/post/rot/) [about](/post/about/) [how](/post/how/) [he](/post/he/) got [the](/post/the/) [money](/post/money/)."
 
 ## Synonyms
 - Decompose
-- [Decay](/en/post/decay/)
+- [Decay](/post/decay/)
 - Corrupt
-- [Spoil](/en/post/spoil/)
+- [Spoil](/post/spoil/)
 - Deteriorate
 
 ## Antonyms
 - Freshen
-- [Restore](/en/post/restore/)
-- [Improve](/en/post/improve/)
+- [Restore](/post/restore/)
+- [Improve](/post/improve/)
 - Reinstate
-- [Maintain](/en/post/maintain/)
+- [Maintain](/post/maintain/)

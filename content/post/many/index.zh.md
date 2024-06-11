@@ -11,21 +11,21 @@ keywords = ['ai words', 'many']
 /ˈmeni/
 
 ## 释义
-- **形容词**: 许多，大量的，众多的。表示数量大但不精确。例如: "[There](/post/there/) were [many](/post/many/) [people](/post/people/) [at](/post/at/) [the](/post/the/) [concert](/post/concert/)."
-- **代词**: 许多（事物或人）。例如: "[Many](/post/many/) thanks [for](/post/for/) [your](/post/your/) [help](/post/help/)."
+- **形容词**: 许多，大量的，众多的。表示数量大但不精确。例如: "[There](/zh/post/there/) were [many](/zh/post/many/) [people](/zh/post/people/) [at](/zh/post/at/) [the](/zh/post/the/) [concert](/zh/post/concert/)."
+- **代词**: 许多（事物或人）。例如: "[Many](/zh/post/many/) thanks [for](/zh/post/for/) [your](/zh/post/your/) [help](/zh/post/help/)."
 
 ## 短语
-- "[Many](/post/many/) times" 表示多次，经常。例如: "I've visited [this](/post/this/) [city](/post/city/) [many](/post/many/) times."
-- "[Many](/post/many/) [of](/post/of/) [them](/post/them/)" 指的是许多人或事物中的许多。例如: "[Many](/post/many/) [of](/post/of/) [the](/post/the/) students [have](/post/have/) [already](/post/already/) finished [the](/post/the/) [assignment](/post/assignment/)."
+- "[Many](/zh/post/many/) times" 表示多次，经常。例如: "I've visited [this](/zh/post/this/) [city](/zh/post/city/) [many](/zh/post/many/) times."
+- "[Many](/zh/post/many/) [of](/zh/post/of/) [them](/zh/post/them/)" 指的是许多人或事物中的许多。例如: "[Many](/zh/post/many/) [of](/zh/post/of/) [the](/zh/post/the/) students [have](/zh/post/have/) [already](/zh/post/already/) finished [the](/zh/post/the/) [assignment](/zh/post/assignment/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) [library](/post/library/) has [many](/post/many/) books [on](/post/on/) [various](/post/various/) topics."
-- 代词: "[Many](/post/many/) [people](/post/people/) [prefer](/post/prefer/) [coffee](/post/coffee/) [over](/post/over/) [tea](/post/tea/)."
+- 形容词: "[The](/zh/post/the/) [library](/zh/post/library/) has [many](/zh/post/many/) books [on](/zh/post/on/) [various](/zh/post/various/) topics."
+- 代词: "[Many](/zh/post/many/) [people](/zh/post/people/) [prefer](/zh/post/prefer/) [coffee](/zh/post/coffee/) [over](/zh/post/over/) [tea](/zh/post/tea/)."
 
 ## 同义词
-- [Numerous](/post/numerous/)
-- [A](/post/a/) [lot](/post/lot/) [of](/post/of/)
-- [Plenty](/post/plenty/) [of](/post/of/)
-- Lots [of](/post/of/)
-- [Numerous](/post/numerous/)
+- [Numerous](/zh/post/numerous/)
+- [A](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/)
+- [Plenty](/zh/post/plenty/) [of](/zh/post/of/)
+- Lots [of](/zh/post/of/)
+- [Numerous](/zh/post/numerous/)
 - Multitudinous

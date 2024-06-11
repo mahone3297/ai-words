@@ -12,25 +12,25 @@ keywords = ['ai words', 'observe']
 
 ## 释义
 - **动词**:
-1. 观察；监视：例如，"Scientists [observe](/post/observe/) [the](/post/the/) [behavior](/post/behavior/) [of](/post/of/) animals [in](/post/in/) [their](/post/their/) [natural](/post/natural/) habitat."
-2. 遵守；执行：例如，"It's [important](/post/important/) [to](/post/to/) [observe](/post/observe/) [traffic](/post/traffic/) rules [for](/post/for/) [safety](/post/safety/)."
-3. 注意到；察觉：例如，"[She](/post/she/) observed [a](/post/a/) [strange](/post/strange/) [detail](/post/detail/) [in](/post/in/) [the](/post/the/) [painting](/post/painting/)."
+1. 观察；监视：例如，"Scientists [observe](/zh/post/observe/) [the](/zh/post/the/) [behavior](/zh/post/behavior/) [of](/zh/post/of/) animals [in](/zh/post/in/) [their](/zh/post/their/) [natural](/zh/post/natural/) habitat."
+2. 遵守；执行：例如，"It's [important](/zh/post/important/) [to](/zh/post/to/) [observe](/zh/post/observe/) [traffic](/zh/post/traffic/) rules [for](/zh/post/for/) [safety](/zh/post/safety/)."
+3. 注意到；察觉：例如，"[She](/zh/post/she/) observed [a](/zh/post/a/) [strange](/zh/post/strange/) [detail](/zh/post/detail/) [in](/zh/post/in/) [the](/zh/post/the/) [painting](/zh/post/painting/)."
 
 - **名词**:
-1. 观察；观测结果：例如，"[The](/post/the/) [doctor](/post/doctor/) made [several](/post/several/) observations [about](/post/about/) [the](/post/the/) patient's [condition](/post/condition/)."
+1. 观察；观测结果：例如，"[The](/zh/post/the/) [doctor](/zh/post/doctor/) made [several](/zh/post/several/) observations [about](/zh/post/about/) [the](/zh/post/the/) patient's [condition](/zh/post/condition/)."
 
 ## 短语
-- "[Observe](/post/observe/) carefully" 意为仔细观察。
-- "[Observe](/post/observe/) [a](/post/a/) [holiday](/post/holiday/)" 意为庆祝节日。
-- "[Observe](/post/observe/) [silence](/post/silence/)" 意为保持安静。
+- "[Observe](/zh/post/observe/) carefully" 意为仔细观察。
+- "[Observe](/zh/post/observe/) [a](/zh/post/a/) [holiday](/zh/post/holiday/)" 意为庆祝节日。
+- "[Observe](/zh/post/observe/) [silence](/zh/post/silence/)" 意为保持安静。
 
 ## 例句
-- 动词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [observe](/post/observe/) [the](/post/the/) stars [for](/post/for/) [several](/post/several/) hours [to](/post/to/) [track](/post/track/) [their](/post/their/) movements accurately."
-- 名词: "[His](/post/his/) [careful](/post/careful/) observations helped [us](/post/us/) [understand](/post/understand/) [the](/post/the/) [problem](/post/problem/) [better](/post/better/)."
+- 动词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [observe](/zh/post/observe/) [the](/zh/post/the/) stars [for](/zh/post/for/) [several](/zh/post/several/) hours [to](/zh/post/to/) [track](/zh/post/track/) [their](/zh/post/their/) movements accurately."
+- 名词: "[His](/zh/post/his/) [careful](/zh/post/careful/) observations helped [us](/zh/post/us/) [understand](/zh/post/understand/) [the](/zh/post/the/) [problem](/zh/post/problem/) [better](/zh/post/better/)."
 
 ## 同义词
-- [Watch](/post/watch/)
-- [Notice](/post/notice/)
-- [Monitor](/post/monitor/)
-- [Attend](/post/attend/)
-- [Witness](/post/witness/)
+- [Watch](/zh/post/watch/)
+- [Notice](/zh/post/notice/)
+- [Monitor](/zh/post/monitor/)
+- [Attend](/zh/post/attend/)
+- [Witness](/zh/post/witness/)

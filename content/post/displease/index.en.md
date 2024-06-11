@@ -7,38 +7,38 @@ description = '[disˈpliːz] vt.使不愉快，使生气'
 keywords = ['ai words', 'displease']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪsˈplaiz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [feeling](/en/post/feeling/) [of](/en/post/of/) dissatisfaction [or](/en/post/or/) annoyance. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) boss's [criticism](/en/post/criticism/) was [a](/en/post/a/) [source](/en/post/source/) [of](/en/post/of/) displeasure."
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [feeling](/post/feeling/) [of](/post/of/) dissatisfaction [or](/post/or/) annoyance. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) boss's [criticism](/post/criticism/) was [a](/post/a/) [source](/post/source/) [of](/post/of/) displeasure."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [cause](/en/post/cause/) disapproval [or](/en/post/or/) dissatisfaction. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [behavior](/en/post/behavior/) displeased [the](/en/post/the/) [entire](/en/post/entire/) [team](/en/post/team/)."
-- [To](/en/post/to/) [experience](/en/post/experience/) disapproval [or](/en/post/or/) unhappiness. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was displeased [with](/en/post/with/) [the](/en/post/the/) [news](/en/post/news/)."
+### [Verb](/post/verb/)
+[To](/post/to/) [cause](/post/cause/) disapproval [or](/post/or/) dissatisfaction. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [behavior](/post/behavior/) displeased [the](/post/the/) [entire](/post/entire/) [team](/post/team/)."
+- [To](/post/to/) [experience](/post/experience/) disapproval [or](/post/or/) unhappiness. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was displeased [with](/post/with/) [the](/post/the/) [news](/post/news/)."
 
-### [Adjective](/en/post/adjective/)
-Referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) causes dissatisfaction [or](/en/post/or/) annoyance. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [noisy](/en/post/noisy/) neighbors were [a](/en/post/a/) [continual](/en/post/continual/) [source](/en/post/source/) [of](/en/post/of/) displeasure."
+### [Adjective](/post/adjective/)
+Referring [to](/post/to/) [something](/post/something/) [that](/post/that/) causes dissatisfaction [or](/post/or/) annoyance. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [noisy](/post/noisy/) neighbors were [a](/post/a/) [continual](/post/continual/) [source](/post/source/) [of](/post/of/) displeasure."
 
-### [Adverb](/en/post/adverb/)
-[In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) causes disapproval [or](/en/post/or/) dissatisfaction. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [left](/en/post/left/) [the](/en/post/the/) [room](/en/post/room/) [in](/en/post/in/) [evident](/en/post/evident/) displeasure."
+### [Adverb](/post/adverb/)
+[In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) causes disapproval [or](/post/or/) dissatisfaction. [For](/post/for/) [example](/post/example/): "[He](/post/he/) [left](/post/left/) [the](/post/the/) [room](/post/room/) [in](/post/in/) [evident](/post/evident/) displeasure."
 
 ## Phrases
-- "Displeased [with](/en/post/with/) [the](/en/post/the/) [outcome](/en/post/outcome/)"
-- "[Her](/en/post/her/) [face](/en/post/face/) showed [a](/en/post/a/) [look](/en/post/look/) [of](/en/post/of/) displeasure"
-- "Trying [not](/en/post/not/) [to](/en/post/to/) [displease](/en/post/displease/) [his](/en/post/his/) parents"
+- "Displeased [with](/post/with/) [the](/post/the/) [outcome](/post/outcome/)"
+- "[Her](/post/her/) [face](/post/face/) showed [a](/post/a/) [look](/post/look/) [of](/post/of/) displeasure"
+- "Trying [not](/post/not/) [to](/post/to/) [displease](/post/displease/) [his](/post/his/) parents"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) facial [expression](/en/post/expression/) revealed [a](/en/post/a/) [deep](/en/post/deep/) [sense](/en/post/sense/) [of](/en/post/of/) displeasure."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [customer](/en/post/customer/) was displeased [with](/en/post/with/) [the](/en/post/the/) [service](/en/post/service/) [provided](/en/post/provided/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [new](/en/post/new/) boss's [strict](/en/post/strict/) rules were consistently displeasing."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) tried [not](/en/post/not/) [to](/en/post/to/) [speak](/en/post/speak/) [in](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) [would](/en/post/would/) [displease](/en/post/displease/) [his](/en/post/his/) [teacher](/en/post/teacher/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) facial [expression](/post/expression/) revealed [a](/post/a/) [deep](/post/deep/) [sense](/post/sense/) [of](/post/of/) displeasure."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [customer](/post/customer/) was displeased [with](/post/with/) [the](/post/the/) [service](/post/service/) [provided](/post/provided/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [new](/post/new/) boss's [strict](/post/strict/) rules were consistently displeasing."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) tried [not](/post/not/) [to](/post/to/) [speak](/post/speak/) [in](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) [would](/post/would/) [displease](/post/displease/) [his](/post/his/) [teacher](/post/teacher/)."
 
 ## Synonyms
 - Irritated
-- [Upset](/en/post/upset/)
-- [Unhappy](/en/post/unhappy/)
+- [Upset](/post/upset/)
+- [Unhappy](/post/unhappy/)
 - Offended
 - Discontented
 - Disapproving

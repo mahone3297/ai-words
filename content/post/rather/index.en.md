@@ -7,34 +7,34 @@ description = '[ˈrɑːðə] ad.宁可，宁愿；相当'
 keywords = ['ai words', 'rather']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəˈðer/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: (1) [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) suggests [preference](/en/post/preference/) [or](/en/post/or/) moderation; [somewhat](/en/post/somewhat/), [fairly](/en/post/fairly/). [For](/en/post/for/) [example](/en/post/example/): "I [prefer](/en/post/prefer/) [coffee](/en/post/coffee/) [rather](/en/post/rather/) [than](/en/post/than/) [tea](/en/post/tea/)."
-- (2) [In](/en/post/in/) lieu [of](/en/post/of/), [instead](/en/post/instead/) [of](/en/post/of/); [as](/en/post/as/) [a](/en/post/a/) [substitute](/en/post/substitute/). [For](/en/post/for/) [example](/en/post/example/): "We'll [go](/en/post/go/) hiking [rather](/en/post/rather/) [than](/en/post/than/) [watch](/en/post/watch/) TV [indoors](/en/post/indoors/)."
-- (3) [To](/en/post/to/) [a](/en/post/a/) [slightly](/en/post/slightly/) greater [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "She's [rather](/en/post/rather/) [tall](/en/post/tall/) compared [to](/en/post/to/) [her](/en/post/her/) friends."
+- **[Adverb](/post/adverb/)**: (1) [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) suggests [preference](/post/preference/) [or](/post/or/) moderation; [somewhat](/post/somewhat/), [fairly](/post/fairly/). [For](/post/for/) [example](/post/example/): "I [prefer](/post/prefer/) [coffee](/post/coffee/) [rather](/post/rather/) [than](/post/than/) [tea](/post/tea/)."
+- (2) [In](/post/in/) lieu [of](/post/of/), [instead](/post/instead/) [of](/post/of/); [as](/post/as/) [a](/post/a/) [substitute](/post/substitute/). [For](/post/for/) [example](/post/example/): "We'll [go](/post/go/) hiking [rather](/post/rather/) [than](/post/than/) [watch](/post/watch/) TV [indoors](/post/indoors/)."
+- (3) [To](/post/to/) [a](/post/a/) [slightly](/post/slightly/) greater [extent](/post/extent/) [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "She's [rather](/post/rather/) [tall](/post/tall/) compared [to](/post/to/) [her](/post/her/) friends."
 
 ## Phrases
-- "[Rather](/en/post/rather/) [than](/en/post/than/)" indicates [a](/en/post/a/) [choice](/en/post/choice/) [between](/en/post/between/) [two](/en/post/two/) alternatives.
-- "[Rather](/en/post/rather/) [more](/en/post/more/)" emphasizes [a](/en/post/a/) greater [degree](/en/post/degree/) [or](/en/post/or/) [amount](/en/post/amount/).
-- "[Not](/en/post/not/) [very](/en/post/very/), [but](/en/post/but/) [rather](/en/post/rather/)" implies [a](/en/post/a/) [mild](/en/post/mild/) [negative](/en/post/negative/) followed [by](/en/post/by/) [a](/en/post/a/) [positive](/en/post/positive/).
+- "[Rather](/post/rather/) [than](/post/than/)" indicates [a](/post/a/) [choice](/post/choice/) [between](/post/between/) [two](/post/two/) alternatives.
+- "[Rather](/post/rather/) [more](/post/more/)" emphasizes [a](/post/a/) greater [degree](/post/degree/) [or](/post/or/) [amount](/post/amount/).
+- "[Not](/post/not/) [very](/post/very/), [but](/post/but/) [rather](/post/rather/)" implies [a](/post/a/) [mild](/post/mild/) [negative](/post/negative/) followed [by](/post/by/) [a](/post/a/) [positive](/post/positive/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I'd [rather](/en/post/rather/) [read](/en/post/read/) [a](/en/post/a/) [book](/en/post/book/) [than](/en/post/than/) [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) movies."
-- **[Substitute](/en/post/substitute/)**: "[We](/en/post/we/) decided [to](/en/post/to/) [have](/en/post/have/) sandwiches [rather](/en/post/rather/) [than](/en/post/than/) [order](/en/post/order/) pizza."
-- **[Degree](/en/post/degree/)**: "She's [rather](/en/post/rather/) [good](/en/post/good/) [at](/en/post/at/) solving math problems."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I'd [rather](/post/rather/) [read](/post/read/) [a](/post/a/) [book](/post/book/) [than](/post/than/) [go](/post/go/) [to](/post/to/) [the](/post/the/) movies."
+- **[Substitute](/post/substitute/)**: "[We](/post/we/) decided [to](/post/to/) [have](/post/have/) sandwiches [rather](/post/rather/) [than](/post/than/) [order](/post/order/) pizza."
+- **[Degree](/post/degree/)**: "She's [rather](/post/rather/) [good](/post/good/) [at](/post/at/) solving math problems."
 
 ## Synonyms
-- [Fairly](/en/post/fairly/)
-- [Somewhat](/en/post/somewhat/)
-- [A](/en/post/a/) [little](/en/post/little/)
-- [Rather](/en/post/rather/) [a](/en/post/a/) [lot](/en/post/lot/) ([to](/en/post/to/) [emphasize](/en/post/emphasize/) [a](/en/post/a/) greater [degree](/en/post/degree/))
+- [Fairly](/post/fairly/)
+- [Somewhat](/post/somewhat/)
+- [A](/post/a/) [little](/post/little/)
+- [Rather](/post/rather/) [a](/post/a/) [lot](/post/lot/) ([to](/post/to/) [emphasize](/post/emphasize/) [a](/post/a/) greater [degree](/post/degree/))
 - Preferably
-- [Instead](/en/post/instead/)
+- [Instead](/post/instead/)
 
 ## Antonyms
-- [Very](/en/post/very/)
-- [Absolutely](/en/post/absolutely/)
-- [Completely](/en/post/completely/)
-- [RATHER](/en/post/rather/) [INSTEAD](/en/post/instead/) (idiomatic, [not](/en/post/not/) [a](/en/post/a/) [direct](/en/post/direct/) antonym)
+- [Very](/post/very/)
+- [Absolutely](/post/absolutely/)
+- [Completely](/post/completely/)
+- [RATHER](/post/rather/) [INSTEAD](/post/instead/) (idiomatic, [not](/post/not/) [a](/post/a/) [direct](/post/direct/) antonym)

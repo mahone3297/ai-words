@@ -7,43 +7,43 @@ description = '[wiːp] vi.哭泣，流泪'
 keywords = ['ai words', 'weep']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /weɪp/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [shed](/en/post/shed/) tears, [especially](/en/post/especially/) [from](/en/post/from/) [sorrow](/en/post/sorrow/) [or](/en/post/or/) [emotion](/en/post/emotion/). (n) An [act](/en/post/act/) [or](/en/post/or/) [instance](/en/post/instance/) [of](/en/post/of/) weeping; shedding tears. 
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) crying tears, [often](/en/post/often/) [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) [sadness](/en/post/sadness/), grief, [or](/en/post/or/) [strong](/en/post/strong/) emotions. 
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [shed](/post/shed/) tears, [especially](/post/especially/) [from](/post/from/) [sorrow](/post/sorrow/) [or](/post/or/) [emotion](/post/emotion/). (n) An [act](/post/act/) [or](/post/or/) [instance](/post/instance/) [of](/post/of/) weeping; shedding tears. 
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) crying tears, [often](/post/often/) [in](/post/in/) [response](/post/response/) [to](/post/to/) [sadness](/post/sadness/), grief, [or](/post/or/) [strong](/post/strong/) emotions. 
 
 ## Phrases
-- "Wept tears [of](/en/post/of/) [joy](/en/post/joy/)" expresses tears [of](/en/post/of/) [happiness](/en/post/happiness/).
-- "[She](/en/post/she/) wept [bitterly](/en/post/bitterly/) [over](/en/post/over/) [the](/en/post/the/) [loss](/en/post/loss/) [of](/en/post/of/) [her](/en/post/her/) [pet](/en/post/pet/)."
-- "[He](/en/post/he/) couldn't [hold](/en/post/hold/) [back](/en/post/back/) [his](/en/post/his/) tears [of](/en/post/of/) frustration."
+- "Wept tears [of](/post/of/) [joy](/post/joy/)" expresses tears [of](/post/of/) [happiness](/post/happiness/).
+- "[She](/post/she/) wept [bitterly](/post/bitterly/) [over](/post/over/) [the](/post/the/) [loss](/post/loss/) [of](/post/of/) [her](/post/her/) [pet](/post/pet/)."
+- "[He](/post/he/) couldn't [hold](/post/hold/) [back](/post/back/) [his](/post/his/) tears [of](/post/of/) frustration."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) hearing [the](/en/post/the/) [news](/en/post/news/), [she](/en/post/she/) wept uncontrollably."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) mournful [song](/en/post/song/) was accompanied [by](/en/post/by/) [the](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) [her](/en/post/her/) weeping."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) wept [softly](/en/post/softly/), trying [not](/en/post/not/) [to](/en/post/to/) [disturb](/en/post/disturb/) others."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) hearing [the](/post/the/) [news](/post/news/), [she](/post/she/) wept uncontrollably."
+- **[Noun](/post/noun/)**: "[His](/post/his/) mournful [song](/post/song/) was accompanied [by](/post/by/) [the](/post/the/) [sound](/post/sound/) [of](/post/of/) [her](/post/her/) weeping."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) wept [softly](/post/softly/), trying [not](/post/not/) [to](/post/to/) [disturb](/post/disturb/) others."
 
 ## Synonyms
-- [Sob](/en/post/sob/)
+- [Sob](/post/sob/)
 - Cried
 - Tears
 - Lament
 - Wail
 - Grieving
 - Quiver
-- [Sigh](/en/post/sigh/)
+- [Sigh](/post/sigh/)
 
 ## Antonyms
-- [Laugh](/en/post/laugh/)
-- [Smile](/en/post/smile/)
-- [Cheer](/en/post/cheer/)
+- [Laugh](/post/laugh/)
+- [Smile](/post/smile/)
+- [Cheer](/post/cheer/)
 - Jubilate
-- [Rejoice](/en/post/rejoice/)
+- [Rejoice](/post/rejoice/)
 
 ## Related Words
-- Tears ([noun](/en/post/noun/))
-- Crying ([verb](/en/post/verb/), [general](/en/post/general/) [term](/en/post/term/))
-- [Emotion](/en/post/emotion/) ([the](/en/post/the/) [cause](/en/post/cause/) [of](/en/post/of/) weeping)
-- Compassion ([feeling](/en/post/feeling/) [that](/en/post/that/) prompts [one](/en/post/one/) [to](/en/post/to/) [comfort](/en/post/comfort/) [those](/en/post/those/) [who](/en/post/who/) [weep](/en/post/weep/))
-- Bereavement ([cause](/en/post/cause/) [of](/en/post/of/) grief [and](/en/post/and/) weeping)
+- Tears ([noun](/post/noun/))
+- Crying ([verb](/post/verb/), [general](/post/general/) [term](/post/term/))
+- [Emotion](/post/emotion/) ([the](/post/the/) [cause](/post/cause/) [of](/post/of/) weeping)
+- Compassion ([feeling](/post/feeling/) [that](/post/that/) prompts [one](/post/one/) [to](/post/to/) [comfort](/post/comfort/) [those](/post/those/) [who](/post/who/) [weep](/post/weep/))
+- Bereavement ([cause](/post/cause/) [of](/post/of/) grief [and](/post/and/) weeping)

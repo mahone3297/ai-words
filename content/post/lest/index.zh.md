@@ -8,19 +8,19 @@ keywords = ['ai words', 'lest']
 +++
 
 ## 读音
-/[lest](/post/lest/)/
+/[lest](/zh/post/lest/)/
 
 ## 释义
-- **连词**: 引导目的状语从句，表示"以免"、"以防"。例如: "I [left](/post/left/) [early](/post/early/) [lest](/post/lest/) I [miss](/post/miss/) [the](/post/the/) [train](/post/train/)."
+- **连词**: 引导目的状语从句，表示"以免"、"以防"。例如: "I [left](/zh/post/left/) [early](/zh/post/early/) [lest](/zh/post/lest/) I [miss](/zh/post/miss/) [the](/zh/post/the/) [train](/zh/post/train/)."
 
 ## 短语
 无特殊常见短语。
 
 ## 例句
-- "[Be](/post/be/) [quiet](/post/quiet/), [lest](/post/lest/) [you](/post/you/) [wake](/post/wake/) [the](/post/the/) [baby](/post/baby/)."
-- "[Work](/post/work/) harder, [lest](/post/lest/) [you](/post/you/) [fail](/post/fail/) [the](/post/the/) [exam](/post/exam/)."
+- "[Be](/zh/post/be/) [quiet](/zh/post/quiet/), [lest](/zh/post/lest/) [you](/zh/post/you/) [wake](/zh/post/wake/) [the](/zh/post/the/) [baby](/zh/post/baby/)."
+- "[Work](/zh/post/work/) harder, [lest](/zh/post/lest/) [you](/zh/post/you/) [fail](/zh/post/fail/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
 
 ## 同义词
-- [in](/post/in/) [case](/post/case/)
-- [for](/post/for/) [fear](/post/fear/) [that](/post/that/)
-- [to](/post/to/) [avoid](/post/avoid/)
+- [in](/zh/post/in/) [case](/zh/post/case/)
+- [for](/zh/post/for/) [fear](/zh/post/fear/) [that](/zh/post/that/)
+- [to](/zh/post/to/) [avoid](/zh/post/avoid/)

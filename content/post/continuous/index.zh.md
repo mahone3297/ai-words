@@ -11,21 +11,21 @@ keywords = ['ai words', 'continuous']
 /ˈkən.tɪ.nju.əs/
 
 ## 释义
-- **形容词**: 持续的，不间断的，连贯的。例如: "[The](/post/the/) [power](/post/power/) [supply](/post/supply/) is [continuous](/post/continuous/), ensuring [the](/post/the/) [machine](/post/machine/) [never](/post/never/) stops working."
-- **名词**: 连续体，连续状态。例如: "[In](/post/in/) [mathematics](/post/mathematics/), [a](/post/a/) [continuous](/post/continuous/) [function](/post/function/) has [no](/post/no/) breaks [or](/post/or/) jumps."
+- **形容词**: 持续的，不间断的，连贯的。例如: "[The](/zh/post/the/) [power](/zh/post/power/) [supply](/zh/post/supply/) is [continuous](/zh/post/continuous/), ensuring [the](/zh/post/the/) [machine](/zh/post/machine/) [never](/zh/post/never/) stops working."
+- **名词**: 连续体，连续状态。例如: "[In](/zh/post/in/) [mathematics](/zh/post/mathematics/), [a](/zh/post/a/) [continuous](/zh/post/continuous/) [function](/zh/post/function/) has [no](/zh/post/no/) breaks [or](/zh/post/or/) jumps."
 
 ## 短语
-- "[continuous](/post/continuous/) [flow](/post/flow/)" 指的是不间断的流动或进程。
-- "[continuous](/post/continuous/) [improvement](/post/improvement/)" 意味着持续地改进和优化。
-- "[continuous](/post/continuous/) monitoring" 是指持续的监控或检测。
+- "[continuous](/zh/post/continuous/) [flow](/zh/post/flow/)" 指的是不间断的流动或进程。
+- "[continuous](/zh/post/continuous/) [improvement](/zh/post/improvement/)" 意味着持续地改进和优化。
+- "[continuous](/zh/post/continuous/) monitoring" 是指持续的监控或检测。
 
 ## 例句
-- 形容词: "[The](/post/the/) [plant](/post/plant/) operates [with](/post/with/) [a](/post/a/) [continuous](/post/continuous/) [production](/post/production/) [line](/post/line/), increasing [efficiency](/post/efficiency/)."
-- 名词: "[The](/post/the/) [concept](/post/concept/) [of](/post/of/) continuity [in](/post/in/) calculus is crucial [for](/post/for/) [understanding](/post/understanding/) derivatives."
+- 形容词: "[The](/zh/post/the/) [plant](/zh/post/plant/) operates [with](/zh/post/with/) [a](/zh/post/a/) [continuous](/zh/post/continuous/) [production](/zh/post/production/) [line](/zh/post/line/), increasing [efficiency](/zh/post/efficiency/)."
+- 名词: "[The](/zh/post/the/) [concept](/zh/post/concept/) [of](/zh/post/of/) continuity [in](/zh/post/in/) calculus is crucial [for](/zh/post/for/) [understanding](/zh/post/understanding/) derivatives."
 
 ## 同义词
 - Uninterrupted
 - Non-stop
-- [Endless](/post/endless/)
+- [Endless](/zh/post/endless/)
 - Seamless
 - Persistent

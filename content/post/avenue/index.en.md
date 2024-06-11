@@ -7,31 +7,31 @@ description = '[ˈævinjuː] n.林荫道，道路；大街'
 keywords = ['ai words', 'avenue']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈævənuː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [wide](/en/post/wide/) [street](/en/post/street/) [or](/en/post/or/) [main](/en/post/main/) thoroughfare, typically lined [with](/en/post/with/) trees [or](/en/post/or/) buildings. [[Noun](/en/post/noun/):](https://www.oxfordlearnersdictionaries.com/[definition](/en/post/definition/)/english/[avenue](/en/post/avenue/)?q=[avenue](/en/post/avenue/))
-- **[Adjective](/en/post/adjective/)**: (informal) [A](/en/post/a/) [way](/en/post/way/) [of](/en/post/of/) thinking [or](/en/post/or/) behaving [that](/en/post/that/) is [fashionable](/en/post/fashionable/) [or](/en/post/or/) [popular](/en/post/popular/). [[Adjective](/en/post/adjective/):](https://www.oxfordlearnersdictionaries.com/[definition](/en/post/definition/)/english/[avenue](/en/post/avenue/)?q=[avenue](/en/post/avenue/))
+- **[Noun](/post/noun/)**: [A](/post/a/) [wide](/post/wide/) [street](/post/street/) [or](/post/or/) [main](/post/main/) thoroughfare, typically lined [with](/post/with/) trees [or](/post/or/) buildings. [[Noun](/post/noun/):](https://www.oxfordlearnersdictionaries.com/[definition](/post/definition/)/english/[avenue](/post/avenue/)?q=[avenue](/post/avenue/))
+- **[Adjective](/post/adjective/)**: (informal) [A](/post/a/) [way](/post/way/) [of](/post/of/) thinking [or](/post/or/) behaving [that](/post/that/) is [fashionable](/post/fashionable/) [or](/post/or/) [popular](/post/popular/). [[Adjective](/post/adjective/):](https://www.oxfordlearnersdictionaries.com/[definition](/post/definition/)/english/[avenue](/post/avenue/)?q=[avenue](/post/avenue/))
 
 ## Phrases
-- "[Drive](/en/post/drive/) [down](/en/post/down/) [the](/en/post/the/) [avenue](/en/post/avenue/)" refers [to](/en/post/to/) driving [along](/en/post/along/) [a](/en/post/a/) [main](/en/post/main/) [road](/en/post/road/).
-- "[Take](/en/post/take/) [the](/en/post/the/) [avenue](/en/post/avenue/) [of](/en/post/of/) [least](/en/post/least/) [resistance](/en/post/resistance/)" suggests choosing [the](/en/post/the/) easiest [path](/en/post/path/).
-- "[Fashionable](/en/post/fashionable/) avenues" are streets known [for](/en/post/for/) [their](/en/post/their/) upscale shops [and](/en/post/and/) boutiques.
+- "[Drive](/post/drive/) [down](/post/down/) [the](/post/the/) [avenue](/post/avenue/)" refers [to](/post/to/) driving [along](/post/along/) [a](/post/a/) [main](/post/main/) [road](/post/road/).
+- "[Take](/post/take/) [the](/post/the/) [avenue](/post/avenue/) [of](/post/of/) [least](/post/least/) [resistance](/post/resistance/)" suggests choosing [the](/post/the/) easiest [path](/post/path/).
+- "[Fashionable](/post/fashionable/) avenues" are streets known [for](/post/for/) [their](/post/their/) upscale shops [and](/post/and/) boutiques.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [avenue](/en/post/avenue/) was lined [with](/en/post/with/) elegant townhouses [and](/en/post/and/) shops."
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [new](/en/post/new/) marketing [strategy](/en/post/strategy/) is an innovative [avenue](/en/post/avenue/) [for](/en/post/for/) [our](/en/post/our/) [business](/en/post/business/)."
-- **[Noun](/en/post/noun/) (informal)**: "[The](/en/post/the/) [most](/en/post/most/) [popular](/en/post/popular/) [avenue](/en/post/avenue/) [for](/en/post/for/) socializing [among](/en/post/among/) [young](/en/post/young/) [people](/en/post/people/) is [through](/en/post/through/) online platforms."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [avenue](/post/avenue/) was lined [with](/post/with/) elegant townhouses [and](/post/and/) shops."
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [new](/post/new/) marketing [strategy](/post/strategy/) is an innovative [avenue](/post/avenue/) [for](/post/for/) [our](/post/our/) [business](/post/business/)."
+- **[Noun](/post/noun/) (informal)**: "[The](/post/the/) [most](/post/most/) [popular](/post/popular/) [avenue](/post/avenue/) [for](/post/for/) socializing [among](/post/among/) [young](/post/young/) [people](/post/people/) is [through](/post/through/) online platforms."
 
 ## Synonyms
-- [Street](/en/post/street/)
+- [Street](/post/street/)
 - Boulevard
 - Promenade
-- [Main](/en/post/main/) [street](/en/post/street/)
-- [Corridor](/en/post/corridor/)
-- [Popular](/en/post/popular/) [trend](/en/post/trend/)
-- [Current](/en/post/current/) fad
+- [Main](/post/main/) [street](/post/street/)
+- [Corridor](/post/corridor/)
+- [Popular](/post/popular/) [trend](/post/trend/)
+- [Current](/post/current/) fad
 
-## [Note](/en/post/note/)
-- [The](/en/post/the/) [usage](/en/post/usage/) [of](/en/post/of/) "[avenue](/en/post/avenue/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) is [less](/en/post/less/) [common](/en/post/common/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) informally [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) engaging [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/), [like](/en/post/like/) "[She](/en/post/she/) pursued [a](/en/post/a/) [new](/en/post/new/) [career](/en/post/career/) [avenue](/en/post/avenue/)." [However](/en/post/however/), "[pursue](/en/post/pursue/)" [or](/en/post/or/) "[take](/en/post/take/)" [would](/en/post/would/) [be](/en/post/be/) [more](/en/post/more/) [standard](/en/post/standard/) verbs [in](/en/post/in/) [such](/en/post/such/) [a](/en/post/a/) context.
+## [Note](/post/note/)
+- [The](/post/the/) [usage](/post/usage/) [of](/post/of/) "[avenue](/post/avenue/)" [as](/post/as/) [a](/post/a/) [verb](/post/verb/) is [less](/post/less/) [common](/post/common/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) informally [to](/post/to/) [refer](/post/refer/) [to](/post/to/) engaging [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [course](/post/course/) [of](/post/of/) [action](/post/action/), [like](/post/like/) "[She](/post/she/) pursued [a](/post/a/) [new](/post/new/) [career](/post/career/) [avenue](/post/avenue/)." [However](/post/however/), "[pursue](/post/pursue/)" [or](/post/or/) "[take](/post/take/)" [would](/post/would/) [be](/post/be/) [more](/post/more/) [standard](/post/standard/) verbs [in](/post/in/) [such](/post/such/) [a](/post/a/) context.

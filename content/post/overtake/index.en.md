@@ -7,32 +7,32 @@ description = '[ˈəuvəˈteik] vt.追上，赶上；压倒'
 keywords = ['ai words', 'overtake']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌoʊvərˈteɪk/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [catch](/en/post/catch/) [up](/en/post/up/) [with](/en/post/with/) [and](/en/post/and/) [pass](/en/post/pass/) [another](/en/post/another/) [vehicle](/en/post/vehicle/), [person](/en/post/person/), [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) was [ahead](/en/post/ahead/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) faster [car](/en/post/car/) [soon](/en/post/soon/) overtook [the](/en/post/the/) slower [one](/en/post/one/) [on](/en/post/on/) [the](/en/post/the/) [highway](/en/post/highway/)."
-  - **[Definition](/en/post/definition/) [Extension](/en/post/extension/)**: [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) surpass [someone](/en/post/someone/) [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/) [or](/en/post/or/) [in](/en/post/in/) terms [of](/en/post/of/) [development](/en/post/development/), [progress](/en/post/progress/), [or](/en/post/or/) [achievement](/en/post/achievement/). [Example](/en/post/example/): "[Her](/en/post/her/) dedication [to](/en/post/to/) [practice](/en/post/practice/) allowed [her](/en/post/her/) [to](/en/post/to/) [overtake](/en/post/overtake/) [her](/en/post/her/) opponents [in](/en/post/in/) [the](/en/post/the/) [race](/en/post/race/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [catch](/post/catch/) [up](/post/up/) [with](/post/with/) [and](/post/and/) [pass](/post/pass/) [another](/post/another/) [vehicle](/post/vehicle/), [person](/post/person/), [or](/post/or/) [thing](/post/thing/) [that](/post/that/) was [ahead](/post/ahead/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) faster [car](/post/car/) [soon](/post/soon/) overtook [the](/post/the/) slower [one](/post/one/) [on](/post/on/) [the](/post/the/) [highway](/post/highway/)."
+  - **[Definition](/post/definition/) [Extension](/post/extension/)**: [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) surpass [someone](/post/someone/) [in](/post/in/) [a](/post/a/) [competition](/post/competition/) [or](/post/or/) [in](/post/in/) terms [of](/post/of/) [development](/post/development/), [progress](/post/progress/), [or](/post/or/) [achievement](/post/achievement/). [Example](/post/example/): "[Her](/post/her/) dedication [to](/post/to/) [practice](/post/practice/) allowed [her](/post/her/) [to](/post/to/) [overtake](/post/overtake/) [her](/post/her/) opponents [in](/post/in/) [the](/post/the/) [race](/post/race/)."
   
 ## Phrases
-- "[Overtake](/en/post/overtake/) [from](/en/post/from/) [behind](/en/post/behind/)" – [to](/en/post/to/) [pass](/en/post/pass/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [by](/en/post/by/) going [around](/en/post/around/) [them](/en/post/them/) [while](/en/post/while/) [they](/en/post/they/) are [in](/en/post/in/) [front](/en/post/front/).
-- "[Be](/en/post/be/) overtaken [by](/en/post/by/) events" – [to](/en/post/to/) [be](/en/post/be/) rendered irrelevant [or](/en/post/or/) [unnecessary](/en/post/unnecessary/) [because](/en/post/because/) [of](/en/post/of/) [subsequent](/en/post/subsequent/) developments.
-- "[To](/en/post/to/) [overtake](/en/post/overtake/) someone's [position](/en/post/position/)" – [to](/en/post/to/) [take](/en/post/take/) [over](/en/post/over/) [or](/en/post/or/) surpass someone's [rank](/en/post/rank/), [status](/en/post/status/), [or](/en/post/or/) accomplishments.
+- "[Overtake](/post/overtake/) [from](/post/from/) [behind](/post/behind/)" – [to](/post/to/) [pass](/post/pass/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [by](/post/by/) going [around](/post/around/) [them](/post/them/) [while](/post/while/) [they](/post/they/) are [in](/post/in/) [front](/post/front/).
+- "[Be](/post/be/) overtaken [by](/post/by/) events" – [to](/post/to/) [be](/post/be/) rendered irrelevant [or](/post/or/) [unnecessary](/post/unnecessary/) [because](/post/because/) [of](/post/of/) [subsequent](/post/subsequent/) developments.
+- "[To](/post/to/) [overtake](/post/overtake/) someone's [position](/post/position/)" – [to](/post/to/) [take](/post/take/) [over](/post/over/) [or](/post/or/) surpass someone's [rank](/post/rank/), [status](/post/status/), [or](/post/or/) accomplishments.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([in](/en/post/in/) [traffic](/en/post/traffic/) context)**: "[The](/en/post/the/) [bus](/en/post/bus/) managed [to](/en/post/to/) [safely](/en/post/safely/) [overtake](/en/post/overtake/) [the](/en/post/the/) [lorry](/en/post/lorry/) [on](/en/post/on/) [the](/en/post/the/) [straight](/en/post/straight/) [stretch](/en/post/stretch/) [of](/en/post/of/) [road](/en/post/road/)."
-- **[Verb](/en/post/verb/) ([in](/en/post/in/) competitive context)**: "[Through](/en/post/through/) sheer [determination](/en/post/determination/), [he](/en/post/he/) [finally](/en/post/finally/) overtook [the](/en/post/the/) [leader](/en/post/leader/) [in](/en/post/in/) [the](/en/post/the/) [last](/en/post/last/) [lap](/en/post/lap/) [of](/en/post/of/) [the](/en/post/the/) marathon."
-- **Idiomatic [use](/en/post/use/)**: "[Their](/en/post/their/) innovative [technology](/en/post/technology/) [quickly](/en/post/quickly/) overtook [that](/en/post/that/) [of](/en/post/of/) [their](/en/post/their/) competitors [in](/en/post/in/) [the](/en/post/the/) [market](/en/post/market/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([in](/post/in/) [traffic](/post/traffic/) context)**: "[The](/post/the/) [bus](/post/bus/) managed [to](/post/to/) [safely](/post/safely/) [overtake](/post/overtake/) [the](/post/the/) [lorry](/post/lorry/) [on](/post/on/) [the](/post/the/) [straight](/post/straight/) [stretch](/post/stretch/) [of](/post/of/) [road](/post/road/)."
+- **[Verb](/post/verb/) ([in](/post/in/) competitive context)**: "[Through](/post/through/) sheer [determination](/post/determination/), [he](/post/he/) [finally](/post/finally/) overtook [the](/post/the/) [leader](/post/leader/) [in](/post/in/) [the](/post/the/) [last](/post/last/) [lap](/post/lap/) [of](/post/of/) [the](/post/the/) marathon."
+- **Idiomatic [use](/post/use/)**: "[Their](/post/their/) innovative [technology](/post/technology/) [quickly](/post/quickly/) overtook [that](/post/that/) [of](/post/of/) [their](/post/their/) competitors [in](/post/in/) [the](/post/the/) [market](/post/market/)."
 
 ## Synonyms
-- [Pass](/en/post/pass/)
+- [Pass](/post/pass/)
 - Surpass
-- [Catch](/en/post/catch/) [up](/en/post/up/) [with](/en/post/with/)
+- [Catch](/post/catch/) [up](/post/up/) [with](/post/with/)
 - Outstrip
-- [Exceed](/en/post/exceed/)
-- [Leave](/en/post/leave/) [behind](/en/post/behind/)
+- [Exceed](/post/exceed/)
+- [Leave](/post/leave/) [behind](/post/behind/)
 - Outdistance
-- [Overcome](/en/post/overcome/)
+- [Overcome](/post/overcome/)
 - Supersede
 
-[Note](/en/post/note/): [While](/en/post/while/) "[overtake](/en/post/overtake/)" [primarily](/en/post/primarily/) functions [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [it](/en/post/it/) doesn't [have](/en/post/have/) [a](/en/post/a/) [distinct](/en/post/distinct/) [usage](/en/post/usage/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), [preposition](/en/post/preposition/), [conjunction](/en/post/conjunction/), [pronoun](/en/post/pronoun/), numeral, [or](/en/post/or/) interjection [within](/en/post/within/) [standard](/en/post/standard/) English [language](/en/post/language/) conventions.
+[Note](/post/note/): [While](/post/while/) "[overtake](/post/overtake/)" [primarily](/post/primarily/) functions [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [it](/post/it/) doesn't [have](/post/have/) [a](/post/a/) [distinct](/post/distinct/) [usage](/post/usage/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [adjective](/post/adjective/), [adverb](/post/adverb/), [preposition](/post/preposition/), [conjunction](/post/conjunction/), [pronoun](/post/pronoun/), numeral, [or](/post/or/) interjection [within](/post/within/) [standard](/post/standard/) English [language](/post/language/) conventions.

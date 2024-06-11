@@ -7,30 +7,30 @@ description = '[wiːt] n.小麦'
 keywords = ['ai words', 'wheat']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɛəθ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Wheat](/en/post/wheat/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [major](/en/post/major/) cereal [grain](/en/post/grain/), [especially](/en/post/especially/) Triticum aestivum, cultivated worldwide [for](/en/post/for/) [its](/en/post/its/) edible [seed](/en/post/seed/), [which](/en/post/which/) is milled [to](/en/post/to/) [make](/en/post/make/) [flour](/en/post/flour/) [for](/en/post/for/) [bread](/en/post/bread/), pasta, [and](/en/post/and/) [other](/en/post/other/) [food](/en/post/food/) products.
+### [Noun](/post/noun/)
+**[Wheat](/post/wheat/)** ([noun](/post/noun/)): [A](/post/a/) [major](/post/major/) cereal [grain](/post/grain/), [especially](/post/especially/) Triticum aestivum, cultivated worldwide [for](/post/for/) [its](/post/its/) edible [seed](/post/seed/), [which](/post/which/) is milled [to](/post/to/) [make](/post/make/) [flour](/post/flour/) [for](/post/for/) [bread](/post/bread/), pasta, [and](/post/and/) [other](/post/other/) [food](/post/food/) products.
 
-### [Verb](/en/post/verb/)
-**[To](/en/post/to/) [wheat](/en/post/wheat/)** ([not](/en/post/not/) [a](/en/post/a/) [common](/en/post/common/) [verb](/en/post/verb/) [form](/en/post/form/); [often](/en/post/often/) [used](/en/post/used/) metaphorically): [Not](/en/post/not/) [applicable](/en/post/applicable/), [as](/en/post/as/) "[wheat](/en/post/wheat/)" is [primarily](/en/post/primarily/) [a](/en/post/a/) [noun](/en/post/noun/).
+### [Verb](/post/verb/)
+**[To](/post/to/) [wheat](/post/wheat/)** ([not](/post/not/) [a](/post/a/) [common](/post/common/) [verb](/post/verb/) [form](/post/form/); [often](/post/often/) [used](/post/used/) metaphorically): [Not](/post/not/) [applicable](/post/applicable/), [as](/post/as/) "[wheat](/post/wheat/)" is [primarily](/post/primarily/) [a](/post/a/) [noun](/post/noun/).
 
 ## Phrases
-- "[Grow](/en/post/grow/) [wheat](/en/post/wheat/)" [or](/en/post/or/) "[harvest](/en/post/harvest/) [wheat](/en/post/wheat/)" refers [to](/en/post/to/) cultivating [and](/en/post/and/) gathering [this](/en/post/this/) [grain](/en/post/grain/).
-- "[Hard](/en/post/hard/) [wheat](/en/post/wheat/)" [and](/en/post/and/) "[soft](/en/post/soft/) [wheat](/en/post/wheat/)" are varieties distinguished [by](/en/post/by/) [their](/en/post/their/) [end](/en/post/end/) [use](/en/post/use/) [and](/en/post/and/) texture.
-- "[Wheat](/en/post/wheat/) [germ](/en/post/germ/)" is [the](/en/post/the/) nutrient-rich embryo [of](/en/post/of/) [the](/en/post/the/) [wheat](/en/post/wheat/) kernel.
+- "[Grow](/post/grow/) [wheat](/post/wheat/)" [or](/post/or/) "[harvest](/post/harvest/) [wheat](/post/wheat/)" refers [to](/post/to/) cultivating [and](/post/and/) gathering [this](/post/this/) [grain](/post/grain/).
+- "[Hard](/post/hard/) [wheat](/post/wheat/)" [and](/post/and/) "[soft](/post/soft/) [wheat](/post/wheat/)" are varieties distinguished [by](/post/by/) [their](/post/their/) [end](/post/end/) [use](/post/use/) [and](/post/and/) texture.
+- "[Wheat](/post/wheat/) [germ](/post/germ/)" is [the](/post/the/) nutrient-rich embryo [of](/post/of/) [the](/post/the/) [wheat](/post/wheat/) kernel.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) farmer's fields were [golden](/en/post/golden/) [with](/en/post/with/) [ripe](/en/post/ripe/) [wheat](/en/post/wheat/) [in](/en/post/in/) [the](/en/post/the/) [summer](/en/post/summer/) [sun](/en/post/sun/)."
-- **Metaphorical [Usage](/en/post/usage/)**: "[Her](/en/post/her/) words were [as](/en/post/as/) nourishing [as](/en/post/as/) [a](/en/post/a/) [loaf](/en/post/loaf/) [of](/en/post/of/) freshly baked [wheat](/en/post/wheat/) [bread](/en/post/bread/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) farmer's fields were [golden](/post/golden/) [with](/post/with/) [ripe](/post/ripe/) [wheat](/post/wheat/) [in](/post/in/) [the](/post/the/) [summer](/post/summer/) [sun](/post/sun/)."
+- **Metaphorical [Usage](/post/usage/)**: "[Her](/post/her/) words were [as](/post/as/) nourishing [as](/post/as/) [a](/post/a/) [loaf](/post/loaf/) [of](/post/of/) freshly baked [wheat](/post/wheat/) [bread](/post/bread/)."
 
 ## Synonyms
 - Barley
 - Oat
 - Rye
-- [Flour](/en/post/flour/) ([when](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) [product](/en/post/product/))
+- [Flour](/post/flour/) ([when](/post/when/) referring [to](/post/to/) [the](/post/the/) [product](/post/product/))
 - Grains (collectively)
 
-[Note](/en/post/note/): [While](/en/post/while/) "[wheat](/en/post/wheat/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) metaphorically, it's [not](/en/post/not/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [standard](/en/post/standard/) English [usage](/en/post/usage/). [The](/en/post/the/) closest [verb](/en/post/verb/) related [to](/en/post/to/) [wheat](/en/post/wheat/) [would](/en/post/would/) [be](/en/post/be/) "[harvest](/en/post/harvest/)" [or](/en/post/or/) "[sow](/en/post/sow/)."
+[Note](/post/note/): [While](/post/while/) "[wheat](/post/wheat/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) metaphorically, it's [not](/post/not/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [standard](/post/standard/) English [usage](/post/usage/). [The](/post/the/) closest [verb](/post/verb/) related [to](/post/to/) [wheat](/post/wheat/) [would](/post/would/) [be](/post/be/) "[harvest](/post/harvest/)" [or](/post/or/) "[sow](/post/sow/)."

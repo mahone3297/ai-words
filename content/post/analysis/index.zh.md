@@ -12,20 +12,20 @@ keywords = ['ai words', 'analysis']
 
 ## 释义
 - **名词**: 
-   - 对事物的详细检查、研究或分解，以了解其结构、性质或功能。例如: "[The](/post/the/) [scientist](/post/scientist/) conducted [a](/post/a/) detailed [analysis](/post/analysis/) [of](/post/of/) [the](/post/the/) [chemical](/post/chemical/) [compound](/post/compound/)."
-   - 逻辑上的分解或推理过程。例如: "[His](/post/his/) [analysis](/post/analysis/) [of](/post/of/) [the](/post/the/) [problem](/post/problem/) was [both](/post/both/) [thorough](/post/thorough/) [and](/post/and/) insightful."
+   - 对事物的详细检查、研究或分解，以了解其结构、性质或功能。例如: "[The](/zh/post/the/) [scientist](/zh/post/scientist/) conducted [a](/zh/post/a/) detailed [analysis](/zh/post/analysis/) [of](/zh/post/of/) [the](/zh/post/the/) [chemical](/zh/post/chemical/) [compound](/zh/post/compound/)."
+   - 逻辑上的分解或推理过程。例如: "[His](/zh/post/his/) [analysis](/zh/post/analysis/) [of](/zh/post/of/) [the](/zh/post/the/) [problem](/zh/post/problem/) was [both](/zh/post/both/) [thorough](/zh/post/thorough/) [and](/zh/post/and/) insightful."
 
 ## 短语
-- "[Data](/post/data/) [analysis](/post/analysis/)" 意指对数据进行检查和解释，以提取有用信息。
-- "[Critical](/post/critical/) [analysis](/post/analysis/)" 指对某事物进行深入而批判性的评估。
+- "[Data](/zh/post/data/) [analysis](/zh/post/analysis/)" 意指对数据进行检查和解释，以提取有用信息。
+- "[Critical](/zh/post/critical/) [analysis](/zh/post/analysis/)" 指对某事物进行深入而批判性的评估。
 
 ## 例句
-- "[The](/post/the/) [company](/post/company/) hired an [expert](/post/expert/) [to](/post/to/) [perform](/post/perform/) [a](/post/a/) [financial](/post/financial/) [analysis](/post/analysis/) [of](/post/of/) [their](/post/their/) [investment](/post/investment/) portfolio."
-- "[In](/post/in/) [her](/post/her/) thesis, [she](/post/she/) [provided](/post/provided/) [a](/post/a/) meticulous [analysis](/post/analysis/) [of](/post/of/) Shakespeare's [use](/post/use/) [of](/post/of/) symbolism [in](/post/in/) [his](/post/his/) plays."
+- "[The](/zh/post/the/) [company](/zh/post/company/) hired an [expert](/zh/post/expert/) [to](/zh/post/to/) [perform](/zh/post/perform/) [a](/zh/post/a/) [financial](/zh/post/financial/) [analysis](/zh/post/analysis/) [of](/zh/post/of/) [their](/zh/post/their/) [investment](/zh/post/investment/) portfolio."
+- "[In](/zh/post/in/) [her](/zh/post/her/) thesis, [she](/zh/post/she/) [provided](/zh/post/provided/) [a](/zh/post/a/) meticulous [analysis](/zh/post/analysis/) [of](/zh/post/of/) Shakespeare's [use](/zh/post/use/) [of](/zh/post/of/) symbolism [in](/zh/post/in/) [his](/zh/post/his/) plays."
 
 ## 同义词
-- [Examination](/post/examination/)
-- [Study](/post/study/)
+- [Examination](/zh/post/examination/)
+- [Study](/zh/post/study/)
 - Breakdown
 - Evaluation
 - Assessment

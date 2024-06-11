@@ -7,36 +7,36 @@ description = '[(h)wit∫] pron.哪一个 a.哪一个'
 keywords = ['ai words', 'which']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwɪtʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) determiner [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [relative](/en/post/relative/) clause, specifying [one](/en/post/one/) [of](/en/post/of/) [several](/en/post/several/) [people](/en/post/people/), things, [or](/en/post/or/) possibilities: "[The](/en/post/the/) [book](/en/post/book/) [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/) [which](/en/post/which/) [you](/en/post/you/) lent [me](/en/post/me/) was [very](/en/post/very/) [interesting](/en/post/interesting/)."
-2. [A](/en/post/a/) [word](/en/post/word/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [in](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/): "[Which](/en/post/which/) [team](/en/post/team/) [do](/en/post/do/) [you](/en/post/you/) [support](/en/post/support/)? [The](/en/post/the/) Manchester United fans cheered loudly."
+### [Noun](/post/noun/)
+1. [A](/post/a/) determiner [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [relative](/post/relative/) clause, specifying [one](/post/one/) [of](/post/of/) [several](/post/several/) [people](/post/people/), things, [or](/post/or/) possibilities: "[The](/post/the/) [book](/post/book/) [on](/post/on/) [the](/post/the/) [table](/post/table/) [which](/post/which/) [you](/post/you/) lent [me](/post/me/) was [very](/post/very/) [interesting](/post/interesting/)."
+2. [A](/post/a/) [word](/post/word/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [in](/post/in/) [a](/post/a/) [group](/post/group/): "[Which](/post/which/) [team](/post/team/) [do](/post/do/) [you](/post/you/) [support](/post/support/)? [The](/post/the/) Manchester United fans cheered loudly."
 
-### [Pronoun](/en/post/pronoun/)
-1. Referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [out](/en/post/out/) [of](/en/post/of/) [several](/en/post/several/) alternatives: "[Which](/en/post/which/) [one](/en/post/one/) [of](/en/post/of/) [these](/en/post/these/) keys opens [the](/en/post/the/) [door](/en/post/door/)?"
-2. [Used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [question](/en/post/question/) [word](/en/post/word/) [to](/en/post/to/) [inquire](/en/post/inquire/) [about](/en/post/about/) [something](/en/post/something/) [specific](/en/post/specific/): "[Which](/en/post/which/) [color](/en/post/color/) [do](/en/post/do/) [you](/en/post/you/) [prefer](/en/post/prefer/)?"
+### [Pronoun](/post/pronoun/)
+1. Referring [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [out](/post/out/) [of](/post/of/) [several](/post/several/) alternatives: "[Which](/post/which/) [one](/post/one/) [of](/post/of/) [these](/post/these/) keys opens [the](/post/the/) [door](/post/door/)?"
+2. [Used](/post/used/) [as](/post/as/) [a](/post/a/) [question](/post/question/) [word](/post/word/) [to](/post/to/) [inquire](/post/inquire/) [about](/post/about/) [something](/post/something/) [specific](/post/specific/): "[Which](/post/which/) [color](/post/color/) [do](/post/do/) [you](/post/you/) [prefer](/post/prefer/)?"
 
-### [Adjective](/en/post/adjective/)
-1. Designating [one](/en/post/one/) [of](/en/post/of/) [several](/en/post/several/) alternatives: "[There](/en/post/there/) are [three](/en/post/three/) rooms [available](/en/post/available/), [which](/en/post/which/) [one](/en/post/one/) [would](/en/post/would/) [you](/en/post/you/) [like](/en/post/like/)?"
-2. Indicating [a](/en/post/a/) [particular](/en/post/particular/) [quality](/en/post/quality/) [or](/en/post/or/) [feature](/en/post/feature/): "[This](/en/post/this/) [dress](/en/post/dress/) has [a](/en/post/a/) [unique](/en/post/unique/) [design](/en/post/design/), [with](/en/post/with/) [which](/en/post/which/) [color](/en/post/color/) does [it](/en/post/it/) [come](/en/post/come/)?"
+### [Adjective](/post/adjective/)
+1. Designating [one](/post/one/) [of](/post/of/) [several](/post/several/) alternatives: "[There](/post/there/) are [three](/post/three/) rooms [available](/post/available/), [which](/post/which/) [one](/post/one/) [would](/post/would/) [you](/post/you/) [like](/post/like/)?"
+2. Indicating [a](/post/a/) [particular](/post/particular/) [quality](/post/quality/) [or](/post/or/) [feature](/post/feature/): "[This](/post/this/) [dress](/post/dress/) has [a](/post/a/) [unique](/post/unique/) [design](/post/design/), [with](/post/with/) [which](/post/which/) [color](/post/color/) does [it](/post/it/) [come](/post/come/)?"
 
 ## Phrases
-- "[Which](/en/post/which/) [one](/en/post/one/) is [yours](/en/post/yours/)?" - asking [for](/en/post/for/) identification.
-- "[Which](/en/post/which/) [language](/en/post/language/) [do](/en/post/do/) [they](/en/post/they/) [speak](/en/post/speak/)?" - inquiring [about](/en/post/about/) [a](/en/post/a/) [specific](/en/post/specific/) [language](/en/post/language/).
-- "[Choose](/en/post/choose/) [the](/en/post/the/) [one](/en/post/one/) [which](/en/post/which/) suits [you](/en/post/you/) [best](/en/post/best/)." - offering options.
+- "[Which](/post/which/) [one](/post/one/) is [yours](/post/yours/)?" - asking [for](/post/for/) identification.
+- "[Which](/post/which/) [language](/post/language/) [do](/post/do/) [they](/post/they/) [speak](/post/speak/)?" - inquiring [about](/post/about/) [a](/post/a/) [specific](/post/specific/) [language](/post/language/).
+- "[Choose](/post/choose/) [the](/post/the/) [one](/post/one/) [which](/post/which/) suits [you](/post/you/) [best](/post/best/)." - offering options.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [need](/en/post/need/) [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [book](/en/post/book/) [which](/en/post/which/) was [left](/en/post/left/) [on](/en/post/on/) [my](/en/post/my/) [desk](/en/post/desk/)."
-- **[Pronoun](/en/post/pronoun/)**: "I'm [not](/en/post/not/) [sure](/en/post/sure/) [which](/en/post/which/) [decision](/en/post/decision/) [to](/en/post/to/) [make](/en/post/make/) [between](/en/post/between/) [these](/en/post/these/) [two](/en/post/two/) options."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) wore [a](/en/post/a/) [dress](/en/post/dress/) [with](/en/post/with/) [a](/en/post/a/) [pattern](/en/post/pattern/) [that](/en/post/that/) was [both](/en/post/both/) elegant [and](/en/post/and/) [unique](/en/post/unique/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [need](/post/need/) [to](/post/to/) [find](/post/find/) [the](/post/the/) [book](/post/book/) [which](/post/which/) was [left](/post/left/) [on](/post/on/) [my](/post/my/) [desk](/post/desk/)."
+- **[Pronoun](/post/pronoun/)**: "I'm [not](/post/not/) [sure](/post/sure/) [which](/post/which/) [decision](/post/decision/) [to](/post/to/) [make](/post/make/) [between](/post/between/) [these](/post/these/) [two](/post/two/) options."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) wore [a](/post/a/) [dress](/post/dress/) [with](/post/with/) [a](/post/a/) [pattern](/post/pattern/) [that](/post/that/) was [both](/post/both/) elegant [and](/post/and/) [unique](/post/unique/)."
 
 ## Synonyms
-- [That](/en/post/that/)
-- [This](/en/post/this/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- [One](/en/post/one/)
-- [Certain](/en/post/certain/)
+- [That](/post/that/)
+- [This](/post/this/) ([in](/post/in/) [certain](/post/certain/) contexts)
+- [One](/post/one/)
+- [Certain](/post/certain/)
 - Specified
 - Identifying

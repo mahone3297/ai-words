@@ -7,38 +7,38 @@ description = '[t∫ɑːns] n.机会，机遇；可能性'
 keywords = ['ai words', 'chance']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /chɑːns/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Chance](/en/post/chance/)**: 1. An [opportunity](/en/post/opportunity/), [possibility](/en/post/possibility/), [or](/en/post/or/) likelihood [of](/en/post/of/) [something](/en/post/something/) happening: "[There](/en/post/there/) was [a](/en/post/a/) slim [chance](/en/post/chance/) [of](/en/post/of/) winning [the](/en/post/the/) lottery."
-- 2. An unpredictable [event](/en/post/event/) [or](/en/post/or/) [turn](/en/post/turn/) [of](/en/post/of/) events: "[Life](/en/post/life/) is [full](/en/post/full/) [of](/en/post/of/) chances [and](/en/post/and/) changes."
+### [Noun](/post/noun/)
+- **[Chance](/post/chance/)**: 1. An [opportunity](/post/opportunity/), [possibility](/post/possibility/), [or](/post/or/) likelihood [of](/post/of/) [something](/post/something/) happening: "[There](/post/there/) was [a](/post/a/) slim [chance](/post/chance/) [of](/post/of/) winning [the](/post/the/) lottery."
+- 2. An unpredictable [event](/post/event/) [or](/post/or/) [turn](/post/turn/) [of](/post/of/) events: "[Life](/post/life/) is [full](/post/full/) [of](/post/of/) chances [and](/post/and/) changes."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [chance](/en/post/chance/)**: [To](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [risk](/en/post/risk/) [or](/en/post/or/) [act](/en/post/act/) [without](/en/post/without/) [certainty](/en/post/certainty/): "[He](/en/post/he/) decided [to](/en/post/to/) [chance](/en/post/chance/) [it](/en/post/it/) [and](/en/post/and/) [apply](/en/post/apply/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [chance](/post/chance/)**: [To](/post/to/) [take](/post/take/) [a](/post/a/) [risk](/post/risk/) [or](/post/or/) [act](/post/act/) [without](/post/without/) [certainty](/post/certainty/): "[He](/post/he/) decided [to](/post/to/) [chance](/post/chance/) [it](/post/it/) [and](/post/and/) [apply](/post/apply/) [for](/post/for/) [the](/post/the/) [job](/post/job/)."
 
-### [Adjective](/en/post/adjective/)
-- **Chancy**: Characterized [by](/en/post/by/) [risk](/en/post/risk/) [or](/en/post/or/) uncertainty: "[The](/en/post/the/) [weather](/en/post/weather/) [forecast](/en/post/forecast/) called [for](/en/post/for/) [a](/en/post/a/) chancy [rain](/en/post/rain/)."
+### [Adjective](/post/adjective/)
+- **Chancy**: Characterized [by](/post/by/) [risk](/post/risk/) [or](/post/or/) uncertainty: "[The](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/) called [for](/post/for/) [a](/post/a/) chancy [rain](/post/rain/)."
 
-### [Adverb](/en/post/adverb/)
-- **Chancing**: Happening [or](/en/post/or/) occurring [by](/en/post/by/) [chance](/en/post/chance/): "[She](/en/post/she/) chanced [upon](/en/post/upon/) an [old](/en/post/old/) [friend](/en/post/friend/) [on](/en/post/on/) [the](/en/post/the/) [street](/en/post/street/)."
+### [Adverb](/post/adverb/)
+- **Chancing**: Happening [or](/post/or/) occurring [by](/post/by/) [chance](/post/chance/): "[She](/post/she/) chanced [upon](/post/upon/) an [old](/post/old/) [friend](/post/friend/) [on](/post/on/) [the](/post/the/) [street](/post/street/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [chance](/en/post/chance/)" [means](/en/post/means/) [to](/en/post/to/) [act](/en/post/act/) [without](/en/post/without/) hesitation [or](/en/post/or/) [concern](/en/post/concern/) [for](/en/post/for/) [the](/en/post/the/) [outcome](/en/post/outcome/).
-- "[On](/en/post/on/) [a](/en/post/a/) [chance](/en/post/chance/)" refers [to](/en/post/to/) an unplanned [or](/en/post/or/) [unexpected](/en/post/unexpected/) [opportunity](/en/post/opportunity/): "I ran [into](/en/post/into/) [her](/en/post/her/) [on](/en/post/on/) [a](/en/post/a/) [chance](/en/post/chance/) [visit](/en/post/visit/) [to](/en/post/to/) [the](/en/post/the/) [park](/en/post/park/)."
-- "[By](/en/post/by/) [chance](/en/post/chance/)" [means](/en/post/means/) unexpectedly or偶然地: "I [found](/en/post/found/) [the](/en/post/the/) [book](/en/post/book/) [by](/en/post/by/) [chance](/en/post/chance/) [while](/en/post/while/) cleaning [out](/en/post/out/) [the](/en/post/the/) attic."
+- "[Take](/post/take/) [a](/post/a/) [chance](/post/chance/)" [means](/post/means/) [to](/post/to/) [act](/post/act/) [without](/post/without/) hesitation [or](/post/or/) [concern](/post/concern/) [for](/post/for/) [the](/post/the/) [outcome](/post/outcome/).
+- "[On](/post/on/) [a](/post/a/) [chance](/post/chance/)" refers [to](/post/to/) an unplanned [or](/post/or/) [unexpected](/post/unexpected/) [opportunity](/post/opportunity/): "I ran [into](/post/into/) [her](/post/her/) [on](/post/on/) [a](/post/a/) [chance](/post/chance/) [visit](/post/visit/) [to](/post/to/) [the](/post/the/) [park](/post/park/)."
+- "[By](/post/by/) [chance](/post/chance/)" [means](/post/means/) unexpectedly or偶然地: "I [found](/post/found/) [the](/post/the/) [book](/post/book/) [by](/post/by/) [chance](/post/chance/) [while](/post/while/) cleaning [out](/post/out/) [the](/post/the/) attic."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) seized [the](/en/post/the/) [chance](/en/post/chance/) [to](/en/post/to/) [travel](/en/post/travel/) [the](/en/post/the/) [world](/en/post/world/) [before](/en/post/before/) settling [down](/en/post/down/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [chance](/en/post/chance/) [a](/en/post/a/) late-night [walk](/en/post/walk/) [along](/en/post/along/) [the](/en/post/the/) [beach](/en/post/beach/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) risky [plan](/en/post/plan/) had [a](/en/post/a/) chancy [prospect](/en/post/prospect/) [of](/en/post/of/) [success](/en/post/success/)."
-- **[Adverb](/en/post/adverb/)**: "I met [him](/en/post/him/) [by](/en/post/by/) [chance](/en/post/chance/) [while](/en/post/while/) I was running errands."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) seized [the](/post/the/) [chance](/post/chance/) [to](/post/to/) [travel](/post/travel/) [the](/post/the/) [world](/post/world/) [before](/post/before/) settling [down](/post/down/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [chance](/post/chance/) [a](/post/a/) late-night [walk](/post/walk/) [along](/post/along/) [the](/post/the/) [beach](/post/beach/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) risky [plan](/post/plan/) had [a](/post/a/) chancy [prospect](/post/prospect/) [of](/post/of/) [success](/post/success/)."
+- **[Adverb](/post/adverb/)**: "I met [him](/post/him/) [by](/post/by/) [chance](/post/chance/) [while](/post/while/) I was running errands."
 
 ## Synonyms
-- [Opportunity](/en/post/opportunity/)
-- [Probability](/en/post/probability/)
-- [Risk](/en/post/risk/)
+- [Opportunity](/post/opportunity/)
+- [Probability](/post/probability/)
+- [Risk](/post/risk/)
 - Gamble
 - Randomness
 - Serendipity

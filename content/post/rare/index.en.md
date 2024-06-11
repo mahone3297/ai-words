@@ -7,37 +7,37 @@ description = '[reə] a.稀薄的；稀有的'
 keywords = ['ai words', 'rare']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɛə/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Not](/en/post/not/) occurring [frequently](/en/post/frequently/); uncommon. [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) species is [rare](/en/post/rare/) [in](/en/post/in/) [this](/en/post/this/) [region](/en/post/region/)."
-- **[Adjective](/en/post/adjective/)**: 2. Exceptionally [skillful](/en/post/skillful/) [or](/en/post/or/) accomplished. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) is [a](/en/post/a/) [rare](/en/post/rare/) [talent](/en/post/talent/) [in](/en/post/in/) [music](/en/post/music/)."
-- **[Noun](/en/post/noun/)**: An [unusual](/en/post/unusual/) [or](/en/post/or/) exceptional [thing](/en/post/thing/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [painting](/en/post/painting/) is [a](/en/post/a/) [rare](/en/post/rare/) [find](/en/post/find/) [in](/en/post/in/) [the](/en/post/the/) [art](/en/post/art/) [gallery](/en/post/gallery/)."
+- **[Adjective](/post/adjective/)**: 1. [Not](/post/not/) occurring [frequently](/post/frequently/); uncommon. [For](/post/for/) [example](/post/example/): "[This](/post/this/) species is [rare](/post/rare/) [in](/post/in/) [this](/post/this/) [region](/post/region/)."
+- **[Adjective](/post/adjective/)**: 2. Exceptionally [skillful](/post/skillful/) [or](/post/or/) accomplished. [For](/post/for/) [example](/post/example/): "[He](/post/he/) is [a](/post/a/) [rare](/post/rare/) [talent](/post/talent/) [in](/post/in/) [music](/post/music/)."
+- **[Noun](/post/noun/)**: An [unusual](/post/unusual/) [or](/post/or/) exceptional [thing](/post/thing/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [painting](/post/painting/) is [a](/post/a/) [rare](/post/rare/) [find](/post/find/) [in](/post/in/) [the](/post/the/) [art](/post/art/) [gallery](/post/gallery/)."
 
 ## Phrases
-- "[Rarely](/en/post/rarely/) seen" indicates [something](/en/post/something/) [that](/en/post/that/) happens infrequently.
-- "[A](/en/post/a/) [rare](/en/post/rare/) [occasion](/en/post/occasion/)" signifies [something](/en/post/something/) [that](/en/post/that/) doesn't [happen](/en/post/happen/) [often](/en/post/often/).
-- "[Rare](/en/post/rare/) gem" is [a](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [valuable](/en/post/valuable/) [and](/en/post/and/) [unique](/en/post/unique/).
+- "[Rarely](/post/rarely/) seen" indicates [something](/post/something/) [that](/post/that/) happens infrequently.
+- "[A](/post/a/) [rare](/post/rare/) [occasion](/post/occasion/)" signifies [something](/post/something/) [that](/post/that/) doesn't [happen](/post/happen/) [often](/post/often/).
+- "[Rare](/post/rare/) gem" is [a](/post/a/) [term](/post/term/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [valuable](/post/valuable/) [and](/post/and/) [unique](/post/unique/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) (uncommon)**: "[Rarely](/en/post/rarely/) [do](/en/post/do/) [we](/en/post/we/) [get](/en/post/get/) [such](/en/post/such/) [clear](/en/post/clear/) skies."
-- **[Adjective](/en/post/adjective/) (exceptional)**: "[She](/en/post/she/) possesses [a](/en/post/a/) [rare](/en/post/rare/) [ability](/en/post/ability/) [to](/en/post/to/) [solve](/en/post/solve/) [complex](/en/post/complex/) problems."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [museum](/en/post/museum/) houses [a](/en/post/a/) [rare](/en/post/rare/) [first](/en/post/first/) [edition](/en/post/edition/) [of](/en/post/of/) Shakespeare's works."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) (uncommon)**: "[Rarely](/post/rarely/) [do](/post/do/) [we](/post/we/) [get](/post/get/) [such](/post/such/) [clear](/post/clear/) skies."
+- **[Adjective](/post/adjective/) (exceptional)**: "[She](/post/she/) possesses [a](/post/a/) [rare](/post/rare/) [ability](/post/ability/) [to](/post/to/) [solve](/post/solve/) [complex](/post/complex/) problems."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [museum](/post/museum/) houses [a](/post/a/) [rare](/post/rare/) [first](/post/first/) [edition](/post/edition/) [of](/post/of/) Shakespeare's works."
 
 ## Synonyms
-- [Scarce](/en/post/scarce/)
+- [Scarce](/post/scarce/)
 - Uncommon
 - Exclusive
-- [Unusual](/en/post/unusual/)
+- [Unusual](/post/unusual/)
 - Exceptional
-- [Unique](/en/post/unique/)
-- [Scarce](/en/post/scarce/)
+- [Unique](/post/unique/)
+- [Scarce](/post/scarce/)
 
 ## Antonyms
-- [Common](/en/post/common/)
-- [Frequent](/en/post/frequent/)
-- [Abundant](/en/post/abundant/)
-- [Ordinary](/en/post/ordinary/)
+- [Common](/post/common/)
+- [Frequent](/post/frequent/)
+- [Abundant](/post/abundant/)
+- [Ordinary](/post/ordinary/)
 - Run-of-the-mill
-- [Typical](/en/post/typical/)
+- [Typical](/post/typical/)

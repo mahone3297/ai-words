@@ -11,21 +11,21 @@ keywords = ['ai words', 'later']
 /læˈtər/
 
 ## 释义
-- **副词**: 晚些时候，随后，后来。例如: "I'll [call](/post/call/) [you](/post/you/) [later](/post/later/) [this](/post/this/) [afternoon](/post/afternoon/)."
-- **形容词**: 较晚的，随后的。例如: "[The](/post/the/) [later](/post/later/) chapters [of](/post/of/) [the](/post/the/) [book](/post/book/) are [more](/post/more/) challenging."
+- **副词**: 晚些时候，随后，后来。例如: "I'll [call](/zh/post/call/) [you](/zh/post/you/) [later](/zh/post/later/) [this](/zh/post/this/) [afternoon](/zh/post/afternoon/)."
+- **形容词**: 较晚的，随后的。例如: "[The](/zh/post/the/) [later](/zh/post/later/) chapters [of](/zh/post/of/) [the](/zh/post/the/) [book](/zh/post/book/) are [more](/zh/post/more/) challenging."
 
 ## 短语
-- "[See](/post/see/) [you](/post/you/) [later](/post/later/)" 意为稍后见，再见。
-- "[Later](/post/later/) [on](/post/on/)" 表示在某个稍后的时刻。
-- "[In](/post/in/) [the](/post/the/) [later](/post/later/) stages" 指在后期或接近结束的阶段。
+- "[See](/zh/post/see/) [you](/zh/post/you/) [later](/zh/post/later/)" 意为稍后见，再见。
+- "[Later](/zh/post/later/) [on](/zh/post/on/)" 表示在某个稍后的时刻。
+- "[In](/zh/post/in/) [the](/zh/post/the/) [later](/zh/post/later/) stages" 指在后期或接近结束的阶段。
 
 ## 例句
-- 副词: "I [have](/post/have/) [a](/post/a/) [meeting](/post/meeting/) [now](/post/now/), [but](/post/but/) [we](/post/we/) [can](/post/can/) [discuss](/post/discuss/) [it](/post/it/) [later](/post/later/)."
-- 形容词: "[The](/post/the/) [later](/post/later/) [version](/post/version/) [of](/post/of/) [the](/post/the/) software has [more](/post/more/) features."
+- 副词: "I [have](/zh/post/have/) [a](/zh/post/a/) [meeting](/zh/post/meeting/) [now](/zh/post/now/), [but](/zh/post/but/) [we](/zh/post/we/) [can](/zh/post/can/) [discuss](/zh/post/discuss/) [it](/zh/post/it/) [later](/zh/post/later/)."
+- 形容词: "[The](/zh/post/the/) [later](/zh/post/later/) [version](/zh/post/version/) [of](/zh/post/of/) [the](/zh/post/the/) software has [more](/zh/post/more/) features."
 
 ## 同义词
 - Afterwards
-- [Soon](/post/soon/)
-- [Afterward](/post/afterward/)
+- [Soon](/zh/post/soon/)
+- [Afterward](/zh/post/afterward/)
 - Subsequently
-- [Eventually](/post/eventually/)
+- [Eventually](/zh/post/eventually/)

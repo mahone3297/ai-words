@@ -7,32 +7,32 @@ description = '[ˈjuːzə] n.用户，使用者'
 keywords = ['ai words', 'user']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[user](/en/post/user/)/
+## [Pronunciation](/post/pronunciation/)
+/[user](/post/user/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) uses [a](/en/post/a/) [particular](/en/post/particular/) [system](/en/post/system/), [device](/en/post/device/), [or](/en/post/or/) [service](/en/post/service/), [often](/en/post/often/) interactively. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) app has [a](/en/post/a/) [large](/en/post/large/) [user](/en/post/user/) [base](/en/post/base/)."
-- **[Pronoun](/en/post/pronoun/)**: [A](/en/post/a/) [person](/en/post/person/) participating [in](/en/post/in/) an [activity](/en/post/activity/) [or](/en/post/or/) using [a](/en/post/a/) [product](/en/post/product/). [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) [user](/en/post/user/) [must](/en/post/must/) [agree](/en/post/agree/) [to](/en/post/to/) [the](/en/post/the/) terms [of](/en/post/of/) [service](/en/post/service/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [employ](/en/post/employ/) [or](/en/post/or/) [utilize](/en/post/utilize/) ([a](/en/post/a/) [tool](/en/post/tool/), software, [or](/en/post/or/) [resource](/en/post/resource/)). [For](/en/post/for/) [example](/en/post/example/): "She's [a](/en/post/a/) [skilled](/en/post/skilled/) [user](/en/post/user/) [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) software."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) uses [a](/post/a/) [particular](/post/particular/) [system](/post/system/), [device](/post/device/), [or](/post/or/) [service](/post/service/), [often](/post/often/) interactively. [For](/post/for/) [example](/post/example/): "[The](/post/the/) app has [a](/post/a/) [large](/post/large/) [user](/post/user/) [base](/post/base/)."
+- **[Pronoun](/post/pronoun/)**: [A](/post/a/) [person](/post/person/) participating [in](/post/in/) an [activity](/post/activity/) [or](/post/or/) using [a](/post/a/) [product](/post/product/). [For](/post/for/) [example](/post/example/): "[Each](/post/each/) [user](/post/user/) [must](/post/must/) [agree](/post/agree/) [to](/post/to/) [the](/post/the/) terms [of](/post/of/) [service](/post/service/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [employ](/post/employ/) [or](/post/or/) [utilize](/post/utilize/) ([a](/post/a/) [tool](/post/tool/), software, [or](/post/or/) [resource](/post/resource/)). [For](/post/for/) [example](/post/example/): "She's [a](/post/a/) [skilled](/post/skilled/) [user](/post/user/) [of](/post/of/) [the](/post/the/) [new](/post/new/) software."
 
 ## Phrases
-- "[User](/en/post/user/) [experience](/en/post/experience/)" refers [to](/en/post/to/) [how](/en/post/how/) [easy](/en/post/easy/) [and](/en/post/and/) enjoyable [a](/en/post/a/) [product](/en/post/product/) is [for](/en/post/for/) [its](/en/post/its/) users.
-- "[User](/en/post/user/) interface" is [the](/en/post/the/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) software [that](/en/post/that/) allows users [to](/en/post/to/) interact [with](/en/post/with/) [it](/en/post/it/).
-- "[Power](/en/post/power/) [user](/en/post/user/)" describes [someone](/en/post/someone/) [who](/en/post/who/) is [highly](/en/post/highly/) proficient [or](/en/post/or/) knowledgeable [in](/en/post/in/) using [a](/en/post/a/) [particular](/en/post/particular/) [system](/en/post/system/).
+- "[User](/post/user/) [experience](/post/experience/)" refers [to](/post/to/) [how](/post/how/) [easy](/post/easy/) [and](/post/and/) enjoyable [a](/post/a/) [product](/post/product/) is [for](/post/for/) [its](/post/its/) users.
+- "[User](/post/user/) interface" is [the](/post/the/) [part](/post/part/) [of](/post/of/) [a](/post/a/) software [that](/post/that/) allows users [to](/post/to/) interact [with](/post/with/) [it](/post/it/).
+- "[Power](/post/power/) [user](/post/user/)" describes [someone](/post/someone/) [who](/post/who/) is [highly](/post/highly/) proficient [or](/post/or/) knowledgeable [in](/post/in/) using [a](/post/a/) [particular](/post/particular/) [system](/post/system/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) is constantly gathering [feedback](/en/post/feedback/) [from](/en/post/from/) [its](/en/post/its/) users [to](/en/post/to/) [improve](/en/post/improve/) [the](/en/post/the/) [product](/en/post/product/)."
-- **[Pronoun](/en/post/pronoun/)**: "[As](/en/post/as/) [a](/en/post/a/) [user](/en/post/user/), [she](/en/post/she/) [found](/en/post/found/) [the](/en/post/the/) [platform](/en/post/platform/) intuitive [and](/en/post/and/) [easy](/en/post/easy/) [to](/en/post/to/) navigate."
-- **[Verb](/en/post/verb/)**: "[Many](/en/post/many/) users [have](/en/post/have/) reported difficulties [setting](/en/post/setting/) [up](/en/post/up/) [the](/en/post/the/) [new](/en/post/new/) router."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) is constantly gathering [feedback](/post/feedback/) [from](/post/from/) [its](/post/its/) users [to](/post/to/) [improve](/post/improve/) [the](/post/the/) [product](/post/product/)."
+- **[Pronoun](/post/pronoun/)**: "[As](/post/as/) [a](/post/a/) [user](/post/user/), [she](/post/she/) [found](/post/found/) [the](/post/the/) [platform](/post/platform/) intuitive [and](/post/and/) [easy](/post/easy/) [to](/post/to/) navigate."
+- **[Verb](/post/verb/)**: "[Many](/post/many/) users [have](/post/have/) reported difficulties [setting](/post/setting/) [up](/post/up/) [the](/post/the/) [new](/post/new/) router."
 
 ## Synonyms
 - Consumer
 - Client
-- [Operator](/en/post/operator/)
+- [Operator](/post/operator/)
 - Utilizer
-- Enthusiast ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [being](/en/post/being/) passionate [about](/en/post/about/) [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [technology](/en/post/technology/))
+- Enthusiast ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [being](/post/being/) passionate [about](/post/about/) [a](/post/a/) [product](/post/product/) [or](/post/or/) [technology](/post/technology/))
 
 ## Antonyms
 - Creator
 - Developer
-- Admin ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) having [control](/en/post/control/) [or](/en/post/or/) [management](/en/post/management/) [access](/en/post/access/))
+- Admin ([in](/post/in/) [the](/post/the/) context [of](/post/of/) having [control](/post/control/) [or](/post/or/) [management](/post/management/) [access](/post/access/))

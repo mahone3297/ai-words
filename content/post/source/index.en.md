@@ -7,38 +7,38 @@ description = '[sɔːs] n.河的源头；根源'
 keywords = ['ai words', 'source']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɔːrs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [origin](/en/post/origin/) [or](/en/post/or/) [point](/en/post/point/) [of](/en/post/of/) derivation [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [of](/en/post/of/) [a](/en/post/a/) [belief](/en/post/belief/), [custom](/en/post/custom/), [or](/en/post/or/) [idea](/en/post/idea/). 2. [A](/en/post/a/) [supply](/en/post/supply/) [or](/en/post/or/) [source](/en/post/source/) [of](/en/post/of/) [water](/en/post/water/), [fuel](/en/post/fuel/), [power](/en/post/power/), etc. 3. [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [from](/en/post/from/) [which](/en/post/which/) [something](/en/post/something/) is derived [or](/en/post/or/) obtained. 4. [Computing] [The](/en/post/the/) [initial](/en/post/initial/) [or](/en/post/or/) starting [point](/en/post/point/) [of](/en/post/of/) [a](/en/post/a/) [program](/en/post/program/) [or](/en/post/or/) [data](/en/post/data/) [flow](/en/post/flow/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) originate [or](/en/post/or/) [come](/en/post/come/) [from](/en/post/from/); [be](/en/post/be/) [the](/en/post/the/) [source](/en/post/source/) [of](/en/post/of/). [To](/en/post/to/) [supply](/en/post/supply/) [or](/en/post/or/) [provide](/en/post/provide/) ([something](/en/post/something/)).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [origin](/post/origin/) [or](/post/or/) [point](/post/point/) [of](/post/of/) derivation [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [of](/post/of/) [a](/post/a/) [belief](/post/belief/), [custom](/post/custom/), [or](/post/or/) [idea](/post/idea/). 2. [A](/post/a/) [supply](/post/supply/) [or](/post/or/) [source](/post/source/) [of](/post/of/) [water](/post/water/), [fuel](/post/fuel/), [power](/post/power/), etc. 3. [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [from](/post/from/) [which](/post/which/) [something](/post/something/) is derived [or](/post/or/) obtained. 4. [Computing] [The](/post/the/) [initial](/post/initial/) [or](/post/or/) starting [point](/post/point/) [of](/post/of/) [a](/post/a/) [program](/post/program/) [or](/post/or/) [data](/post/data/) [flow](/post/flow/).
+- **[Verb](/post/verb/)**: [To](/post/to/) originate [or](/post/or/) [come](/post/come/) [from](/post/from/); [be](/post/be/) [the](/post/the/) [source](/post/source/) [of](/post/of/). [To](/post/to/) [supply](/post/supply/) [or](/post/or/) [provide](/post/provide/) ([something](/post/something/)).
 
 ## Phrases
-- "[Trace](/en/post/trace/) [back](/en/post/back/) [to](/en/post/to/) [its](/en/post/its/) [source](/en/post/source/)" [means](/en/post/means/) [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [original](/en/post/original/) [origin](/en/post/origin/) [or](/en/post/or/) [cause](/en/post/cause/).
-- "[Water](/en/post/water/) [source](/en/post/source/)" refers [to](/en/post/to/) [the](/en/post/the/) [natural](/en/post/natural/) [or](/en/post/or/) man-made [supply](/en/post/supply/) [of](/en/post/of/) [water](/en/post/water/).
-- "[The](/en/post/the/) [source](/en/post/source/) [of](/en/post/of/) inspiration" denotes [the](/en/post/the/) [origin](/en/post/origin/) [of](/en/post/of/) an [idea](/en/post/idea/) [or](/en/post/or/) motivation.
+- "[Trace](/post/trace/) [back](/post/back/) [to](/post/to/) [its](/post/its/) [source](/post/source/)" [means](/post/means/) [to](/post/to/) [find](/post/find/) [the](/post/the/) [original](/post/original/) [origin](/post/origin/) [or](/post/or/) [cause](/post/cause/).
+- "[Water](/post/water/) [source](/post/source/)" refers [to](/post/to/) [the](/post/the/) [natural](/post/natural/) [or](/post/or/) man-made [supply](/post/supply/) [of](/post/of/) [water](/post/water/).
+- "[The](/post/the/) [source](/post/source/) [of](/post/of/) inspiration" denotes [the](/post/the/) [origin](/post/origin/) [of](/post/of/) an [idea](/post/idea/) [or](/post/or/) motivation.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [theory](/en/post/theory/) was traced [back](/en/post/back/) [to](/en/post/to/) [its](/en/post/its/) [historical](/en/post/historical/) [source](/en/post/source/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [river](/en/post/river/) serves [as](/en/post/as/) [a](/en/post/a/) [reliable](/en/post/reliable/) [water](/en/post/water/) [source](/en/post/source/) [for](/en/post/for/) [the](/en/post/the/) [nearby](/en/post/nearby/) [village](/en/post/village/)."
-- "[The](/en/post/the/) book's popularity [can](/en/post/can/) [be](/en/post/be/) attributed [to](/en/post/to/) [its](/en/post/its/) compelling [source](/en/post/source/) [material](/en/post/material/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [theory](/post/theory/) was traced [back](/post/back/) [to](/post/to/) [its](/post/its/) [historical](/post/historical/) [source](/post/source/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [river](/post/river/) serves [as](/post/as/) [a](/post/a/) [reliable](/post/reliable/) [water](/post/water/) [source](/post/source/) [for](/post/for/) [the](/post/the/) [nearby](/post/nearby/) [village](/post/village/)."
+- "[The](/post/the/) book's popularity [can](/post/can/) [be](/post/be/) attributed [to](/post/to/) [its](/post/its/) compelling [source](/post/source/) [material](/post/material/)."
 
 ## Synonyms
-- [Origin](/en/post/origin/)
+- [Origin](/post/origin/)
 - Sourcefulness
-- [Root](/en/post/root/)
-- [Beginning](/en/post/beginning/)
-- [Stem](/en/post/stem/)
-- [Supply](/en/post/supply/)
+- [Root](/post/root/)
+- [Beginning](/post/beginning/)
+- [Stem](/post/stem/)
+- [Supply](/post/supply/)
 - Originator
-- [Generator](/en/post/generator/)
+- [Generator](/post/generator/)
 
 ## Antonyms
-- [End](/en/post/end/)
-- [Destination](/en/post/destination/)
-- [Absence](/en/post/absence/)
+- [End](/post/end/)
+- [Destination](/post/destination/)
+- [Absence](/post/absence/)
 - Extermination
 - Termination
-- [Lack](/en/post/lack/)
-- [Conclusion](/en/post/conclusion/)
+- [Lack](/post/lack/)
+- [Conclusion](/post/conclusion/)

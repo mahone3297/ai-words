@@ -11,20 +11,20 @@ keywords = ['ai words', 'insult']
 /ˈɪnsʌlt/
 
 ## 释义
-- **名词**: 侮辱，挑衅，不敬的行为或言语。例如: "[He](/post/he/) received an [insult](/post/insult/) [from](/post/from/) [a](/post/a/) passerby."
-- **动词**: 侮辱，挑衅，对某人无礼。例如: "[She](/post/she/) insulted [him](/post/him/) [with](/post/with/) [her](/post/her/) [harsh](/post/harsh/) words."
+- **名词**: 侮辱，挑衅，不敬的行为或言语。例如: "[He](/zh/post/he/) received an [insult](/zh/post/insult/) [from](/zh/post/from/) [a](/zh/post/a/) passerby."
+- **动词**: 侮辱，挑衅，对某人无礼。例如: "[She](/zh/post/she/) insulted [him](/zh/post/him/) [with](/zh/post/with/) [her](/zh/post/her/) [harsh](/zh/post/harsh/) words."
 
 ## 短语
-- "An [insult](/post/insult/) [to](/post/to/) one's dignity" 意为对某人的尊严的侮辱。
-- "[Return](/post/return/) [the](/post/the/) [insult](/post/insult/)" 意为回应侮辱，反击。
+- "An [insult](/zh/post/insult/) [to](/zh/post/to/) one's dignity" 意为对某人的尊严的侮辱。
+- "[Return](/zh/post/return/) [the](/zh/post/the/) [insult](/zh/post/insult/)" 意为回应侮辱，反击。
 
 ## 例句
-- 名词: "[His](/post/his/) [comment](/post/comment/) was considered an [insult](/post/insult/) [to](/post/to/) [all](/post/all/) [the](/post/the/) hardworking employees."
-- 动词: "Don't [let](/post/let/) [his](/post/his/) insults [get](/post/get/) [to](/post/to/) [you](/post/you/); he's [just](/post/just/) trying [to](/post/to/) provoke [you](/post/you/)."
+- 名词: "[His](/zh/post/his/) [comment](/zh/post/comment/) was considered an [insult](/zh/post/insult/) [to](/zh/post/to/) [all](/zh/post/all/) [the](/zh/post/the/) hardworking employees."
+- 动词: "Don't [let](/zh/post/let/) [his](/zh/post/his/) insults [get](/zh/post/get/) [to](/zh/post/to/) [you](/zh/post/you/); he's [just](/zh/post/just/) trying [to](/zh/post/to/) provoke [you](/zh/post/you/)."
 
 ## 同义词
-- [Offend](/post/offend/)
-- [Abuse](/post/abuse/)
+- [Offend](/zh/post/offend/)
+- [Abuse](/zh/post/abuse/)
 - Deride
 - Mock
 - Insinuate (贬低地暗示)

@@ -7,34 +7,34 @@ description = 'a.拉紧的，绷紧的'
 keywords = ['ai words', 'tense']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tens/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [grammatical](/en/post/grammatical/) category [that](/en/post/that/) expresses [the](/en/post/the/) [time](/en/post/time/) [reference](/en/post/reference/) [of](/en/post/of/) an [action](/en/post/action/), [event](/en/post/event/), [or](/en/post/or/) [state](/en/post/state/) [relative](/en/post/relative/) [to](/en/post/to/) [now](/en/post/now/), [past](/en/post/past/), [or](/en/post/or/) [future](/en/post/future/). [It](/en/post/it/) is related [to](/en/post/to/) verbs [and](/en/post/and/) helps [convey](/en/post/convey/) [the](/en/post/the/) [sequence](/en/post/sequence/) [of](/en/post/of/) events [in](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [time](/en/post/time/) [frame](/en/post/frame/) [of](/en/post/of/) an [action](/en/post/action/) [or](/en/post/or/) [event](/en/post/event/), [such](/en/post/such/) [as](/en/post/as/) [present](/en/post/present/), [past](/en/post/past/), [future](/en/post/future/), [continuous](/en/post/continuous/), [perfect](/en/post/perfect/), etc. [For](/en/post/for/) [example](/en/post/example/), "I am running" ([present](/en/post/present/) [tense](/en/post/tense/)) [or](/en/post/or/) "I had [run](/en/post/run/)" ([past](/en/post/past/) [perfect](/en/post/perfect/) [tense](/en/post/tense/)).
-- **[Adjective](/en/post/adjective/)**: Describing [the](/en/post/the/) [form](/en/post/form/) [or](/en/post/or/) [aspect](/en/post/aspect/) [of](/en/post/of/) [a](/en/post/a/) [verb](/en/post/verb/) according [to](/en/post/to/) [its](/en/post/its/) [tense](/en/post/tense/), [like](/en/post/like/) [present](/en/post/present/), [past](/en/post/past/), [or](/en/post/or/) [future](/en/post/future/). [For](/en/post/for/) [example](/en/post/example/), "I [walk](/en/post/walk/)" ([simple](/en/post/simple/) [present](/en/post/present/) [tense](/en/post/tense/)) [or](/en/post/or/) "I [will](/en/post/will/) [walk](/en/post/walk/)" ([future](/en/post/future/) [tense](/en/post/tense/)).
+- **[Noun](/post/noun/)**: [A](/post/a/) [grammatical](/post/grammatical/) category [that](/post/that/) expresses [the](/post/the/) [time](/post/time/) [reference](/post/reference/) [of](/post/of/) an [action](/post/action/), [event](/post/event/), [or](/post/or/) [state](/post/state/) [relative](/post/relative/) [to](/post/to/) [now](/post/now/), [past](/post/past/), [or](/post/or/) [future](/post/future/). [It](/post/it/) is related [to](/post/to/) verbs [and](/post/and/) helps [convey](/post/convey/) [the](/post/the/) [sequence](/post/sequence/) [of](/post/of/) events [in](/post/in/) [a](/post/a/) [sentence](/post/sentence/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [time](/post/time/) [frame](/post/frame/) [of](/post/of/) an [action](/post/action/) [or](/post/or/) [event](/post/event/), [such](/post/such/) [as](/post/as/) [present](/post/present/), [past](/post/past/), [future](/post/future/), [continuous](/post/continuous/), [perfect](/post/perfect/), etc. [For](/post/for/) [example](/post/example/), "I am running" ([present](/post/present/) [tense](/post/tense/)) [or](/post/or/) "I had [run](/post/run/)" ([past](/post/past/) [perfect](/post/perfect/) [tense](/post/tense/)).
+- **[Adjective](/post/adjective/)**: Describing [the](/post/the/) [form](/post/form/) [or](/post/or/) [aspect](/post/aspect/) [of](/post/of/) [a](/post/a/) [verb](/post/verb/) according [to](/post/to/) [its](/post/its/) [tense](/post/tense/), [like](/post/like/) [present](/post/present/), [past](/post/past/), [or](/post/or/) [future](/post/future/). [For](/post/for/) [example](/post/example/), "I [walk](/post/walk/)" ([simple](/post/simple/) [present](/post/present/) [tense](/post/tense/)) [or](/post/or/) "I [will](/post/will/) [walk](/post/walk/)" ([future](/post/future/) [tense](/post/tense/)).
 
 ## Phrases
-- "[In](/en/post/in/) [present](/en/post/present/) [tense](/en/post/tense/)" refers [to](/en/post/to/) [the](/en/post/the/) [current](/en/post/current/) [time](/en/post/time/).
-- "[Past](/en/post/past/) [tense](/en/post/tense/)" indicates an [action](/en/post/action/) completed [in](/en/post/in/) [the](/en/post/the/) [past](/en/post/past/).
-- "[Future](/en/post/future/) [tense](/en/post/tense/)" shows an [action](/en/post/action/) [that](/en/post/that/) [will](/en/post/will/) [happen](/en/post/happen/) [later](/en/post/later/).
-- "[Continuous](/en/post/continuous/) [tense](/en/post/tense/)" ([also](/en/post/also/) known [as](/en/post/as/) [progressive](/en/post/progressive/) [tense](/en/post/tense/)) expresses an ongoing [action](/en/post/action/).
-- "[Perfect](/en/post/perfect/) [tense](/en/post/tense/)" highlights an [action](/en/post/action/) completed [before](/en/post/before/) [another](/en/post/another/) [event](/en/post/event/).
+- "[In](/post/in/) [present](/post/present/) [tense](/post/tense/)" refers [to](/post/to/) [the](/post/the/) [current](/post/current/) [time](/post/time/).
+- "[Past](/post/past/) [tense](/post/tense/)" indicates an [action](/post/action/) completed [in](/post/in/) [the](/post/the/) [past](/post/past/).
+- "[Future](/post/future/) [tense](/post/tense/)" shows an [action](/post/action/) [that](/post/that/) [will](/post/will/) [happen](/post/happen/) [later](/post/later/).
+- "[Continuous](/post/continuous/) [tense](/post/tense/)" ([also](/post/also/) known [as](/post/as/) [progressive](/post/progressive/) [tense](/post/tense/)) expresses an ongoing [action](/post/action/).
+- "[Perfect](/post/perfect/) [tense](/post/tense/)" highlights an [action](/post/action/) completed [before](/post/before/) [another](/post/another/) [event](/post/event/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sentence](/en/post/sentence/) [in](/en/post/in/) [simple](/en/post/simple/) [past](/en/post/past/) [tense](/en/post/tense/) was '[She](/en/post/she/) [left](/en/post/left/) [early](/en/post/early/).'"
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) studies [in](/en/post/in/) [the](/en/post/the/) [library](/en/post/library/) [every](/en/post/every/) [day](/en/post/day/) ([present](/en/post/present/) [tense](/en/post/tense/)) [and](/en/post/and/) studied [for](/en/post/for/) [the](/en/post/the/) [exam](/en/post/exam/) [last](/en/post/last/) [night](/en/post/night/) ([past](/en/post/past/) [tense](/en/post/tense/))."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [answer](/en/post/answer/) was [in](/en/post/in/) [the](/en/post/the/) [past](/en/post/past/) participle [form](/en/post/form/), having been written [already](/en/post/already/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sentence](/post/sentence/) [in](/post/in/) [simple](/post/simple/) [past](/post/past/) [tense](/post/tense/) was '[She](/post/she/) [left](/post/left/) [early](/post/early/).'"
+- **[Verb](/post/verb/)**: "[He](/post/he/) studies [in](/post/in/) [the](/post/the/) [library](/post/library/) [every](/post/every/) [day](/post/day/) ([present](/post/present/) [tense](/post/tense/)) [and](/post/and/) studied [for](/post/for/) [the](/post/the/) [exam](/post/exam/) [last](/post/last/) [night](/post/night/) ([past](/post/past/) [tense](/post/tense/))."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [answer](/post/answer/) was [in](/post/in/) [the](/post/the/) [past](/post/past/) participle [form](/post/form/), having been written [already](/post/already/)."
 
 ## Synonyms
 - Tonic
-- [Mood](/en/post/mood/)
-- [Form](/en/post/form/)
-- [Aspect](/en/post/aspect/)
+- [Mood](/post/mood/)
+- [Form](/post/form/)
+- [Aspect](/post/aspect/)
 - Modality
 
 ## Related Words
-- [Past](/en/post/past/) [tense](/en/post/tense/): -ed, -en, -d (e.g., walked, ran, [will](/en/post/will/) [run](/en/post/run/))
-- [Present](/en/post/present/) [tense](/en/post/tense/): -ing, -es, -s (e.g., walking, runs, [will](/en/post/will/) [be](/en/post/be/) running)
-- [Future](/en/post/future/) [tense](/en/post/tense/): -[will](/en/post/will/), -[shall](/en/post/shall/), -going [to](/en/post/to/) (e.g., [will](/en/post/will/) [go](/en/post/go/), [shall](/en/post/shall/) [visit](/en/post/visit/), going [to](/en/post/to/) [study](/en/post/study/))
+- [Past](/post/past/) [tense](/post/tense/): -ed, -en, -d (e.g., walked, ran, [will](/post/will/) [run](/post/run/))
+- [Present](/post/present/) [tense](/post/tense/): -ing, -es, -s (e.g., walking, runs, [will](/post/will/) [be](/post/be/) running)
+- [Future](/post/future/) [tense](/post/tense/): -[will](/post/will/), -[shall](/post/shall/), -going [to](/post/to/) (e.g., [will](/post/will/) [go](/post/go/), [shall](/post/shall/) [visit](/post/visit/), going [to](/post/to/) [study](/post/study/))

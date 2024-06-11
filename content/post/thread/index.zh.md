@@ -11,24 +11,24 @@ keywords = ['ai words', 'thread']
 /θrɛd/
 
 ## 释义
-- **名词**: 线，细长而可编织或缝纫的纤维条。例如: "[She](/post/she/) sewed [the](/post/the/) [button](/post/button/) [onto](/post/onto/) [the](/post/the/) [coat](/post/coat/) [with](/post/with/) [a](/post/a/) [strong](/post/strong/) [thread](/post/thread/)."
-- **名词**: 讨论的主题或线索。例如: "Let's [stay](/post/stay/) [on](/post/on/) [topic](/post/topic/); [this](/post/this/) [conversation](/post/conversation/) is starting [to](/post/to/) [wander](/post/wander/) [off](/post/off/) [the](/post/the/) [thread](/post/thread/)."
-- **名词**: 在计算机科学中，线程，程序执行中的一个单一顺序控制流。例如: "[The](/post/the/) [program](/post/program/) created [multiple](/post/multiple/) threads [to](/post/to/) [perform](/post/perform/) tasks concurrently."
-- **动词**: 在布料上穿针或进行缝纫。例如: "[She](/post/she/) threaded [the](/post/the/) [needle](/post/needle/) carefully [before](/post/before/) starting [to](/post/to/) [sew](/post/sew/)."
-- **动词**: 在在线讨论中发表帖子或回复。例如: "I'm going [to](/post/to/) [thread](/post/thread/) [a](/post/a/) [new](/post/new/) [idea](/post/idea/) [into](/post/into/) [the](/post/the/) [conversation](/post/conversation/)."
+- **名词**: 线，细长而可编织或缝纫的纤维条。例如: "[She](/zh/post/she/) sewed [the](/zh/post/the/) [button](/zh/post/button/) [onto](/zh/post/onto/) [the](/zh/post/the/) [coat](/zh/post/coat/) [with](/zh/post/with/) [a](/zh/post/a/) [strong](/zh/post/strong/) [thread](/zh/post/thread/)."
+- **名词**: 讨论的主题或线索。例如: "Let's [stay](/zh/post/stay/) [on](/zh/post/on/) [topic](/zh/post/topic/); [this](/zh/post/this/) [conversation](/zh/post/conversation/) is starting [to](/zh/post/to/) [wander](/zh/post/wander/) [off](/zh/post/off/) [the](/zh/post/the/) [thread](/zh/post/thread/)."
+- **名词**: 在计算机科学中，线程，程序执行中的一个单一顺序控制流。例如: "[The](/zh/post/the/) [program](/zh/post/program/) created [multiple](/zh/post/multiple/) threads [to](/zh/post/to/) [perform](/zh/post/perform/) tasks concurrently."
+- **动词**: 在布料上穿针或进行缝纫。例如: "[She](/zh/post/she/) threaded [the](/zh/post/the/) [needle](/zh/post/needle/) carefully [before](/zh/post/before/) starting [to](/zh/post/to/) [sew](/zh/post/sew/)."
+- **动词**: 在在线讨论中发表帖子或回复。例如: "I'm going [to](/zh/post/to/) [thread](/zh/post/thread/) [a](/zh/post/a/) [new](/zh/post/new/) [idea](/zh/post/idea/) [into](/zh/post/into/) [the](/zh/post/the/) [conversation](/zh/post/conversation/)."
 
 ## 短语
-- "[thread](/post/thread/) [through](/post/through/)" 意味着穿过或贯穿。例如: "[Thread](/post/thread/) [the](/post/the/) [ribbon](/post/ribbon/) [through](/post/through/) [the](/post/the/) holes [in](/post/in/) [the](/post/the/) album."
-- "[thread](/post/thread/) [the](/post/the/) [needle](/post/needle/)" 除了字面意义外，也比喻解决困难问题。例如: "[He](/post/he/) managed [to](/post/to/) [thread](/post/thread/) [the](/post/the/) [needle](/post/needle/) [between](/post/between/) [the](/post/the/) competing interests."
+- "[thread](/zh/post/thread/) [through](/zh/post/through/)" 意味着穿过或贯穿。例如: "[Thread](/zh/post/thread/) [the](/zh/post/the/) [ribbon](/zh/post/ribbon/) [through](/zh/post/through/) [the](/zh/post/the/) holes [in](/zh/post/in/) [the](/zh/post/the/) album."
+- "[thread](/zh/post/thread/) [the](/zh/post/the/) [needle](/zh/post/needle/)" 除了字面意义外，也比喻解决困难问题。例如: "[He](/zh/post/he/) managed [to](/zh/post/to/) [thread](/zh/post/thread/) [the](/zh/post/the/) [needle](/zh/post/needle/) [between](/zh/post/between/) [the](/zh/post/the/) competing interests."
 
 ## 例句
-- 名词: "[The](/post/the/) [tailor](/post/tailor/) [used](/post/used/) [a](/post/a/) [fine](/post/fine/) [thread](/post/thread/) [to](/post/to/) [create](/post/create/) [delicate](/post/delicate/) stitches."
-- 动词: "[She](/post/she/) expertly threaded [the](/post/the/) [needle](/post/needle/) [with](/post/with/) [a](/post/a/) [single](/post/single/) strand [of](/post/of/) [cotton](/post/cotton/)."
-- 名词 (在线讨论): "[This](/post/this/) [discussion](/post/discussion/) [thread](/post/thread/) has been going [on](/post/on/) [for](/post/for/) weeks."
+- 名词: "[The](/zh/post/the/) [tailor](/zh/post/tailor/) [used](/zh/post/used/) [a](/zh/post/a/) [fine](/zh/post/fine/) [thread](/zh/post/thread/) [to](/zh/post/to/) [create](/zh/post/create/) [delicate](/zh/post/delicate/) stitches."
+- 动词: "[She](/zh/post/she/) expertly threaded [the](/zh/post/the/) [needle](/zh/post/needle/) [with](/zh/post/with/) [a](/zh/post/a/) [single](/zh/post/single/) strand [of](/zh/post/of/) [cotton](/zh/post/cotton/)."
+- 名词 (在线讨论): "[This](/zh/post/this/) [discussion](/zh/post/discussion/) [thread](/zh/post/thread/) has been going [on](/zh/post/on/) [for](/zh/post/for/) weeks."
 
 ## 同义词
-- [String](/post/string/)
+- [String](/zh/post/string/)
 - Fiber
 - Strand
-- [Topic](/post/topic/) (在讨论中的意思)
-- [Process](/post/process/) (在计算机科学中的线程含义)
+- [Topic](/zh/post/topic/) (在讨论中的意思)
+- [Process](/zh/post/process/) (在计算机科学中的线程含义)

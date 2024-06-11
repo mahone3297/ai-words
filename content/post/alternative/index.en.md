@@ -7,41 +7,41 @@ description = '[ɔːlˈtəːnətiv] n.替换物；取舍，抉择'
 keywords = ['ai words', 'alternative']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːltərənət/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [different](/en/post/different/) [possibility](/en/post/possibility/) [or](/en/post/or/) [choice](/en/post/choice/), [usually](/en/post/usually/) offered [as](/en/post/as/) an [alternative](/en/post/alternative/) [to](/en/post/to/) [another](/en/post/another/). 2. An [alternative](/en/post/alternative/) [form](/en/post/form/) [or](/en/post/or/) [version](/en/post/version/) [of](/en/post/of/) [something](/en/post/something/). 3. ([music](/en/post/music/)) [A](/en/post/a/) [substitute](/en/post/substitute/) [or](/en/post/or/) replacement [for](/en/post/for/) [a](/en/post/a/) [main](/en/post/main/) [instrument](/en/post/instrument/) [or](/en/post/or/) performer. 4. ([medicine](/en/post/medicine/)) [A](/en/post/a/) [treatment](/en/post/treatment/) [or](/en/post/or/) [remedy](/en/post/remedy/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [instead](/en/post/instead/) [of](/en/post/of/) [a](/en/post/a/) [primary](/en/post/primary/) [one](/en/post/one/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [offer](/en/post/offer/) [or](/en/post/or/) [choose](/en/post/choose/) [as](/en/post/as/) [a](/en/post/a/) [substitute](/en/post/substitute/); [select](/en/post/select/) an [alternative](/en/post/alternative/). 2. [To](/en/post/to/) [be](/en/post/be/) an [option](/en/post/option/) [or](/en/post/or/) [choice](/en/post/choice/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [different](/post/different/) [possibility](/post/possibility/) [or](/post/or/) [choice](/post/choice/), [usually](/post/usually/) offered [as](/post/as/) an [alternative](/post/alternative/) [to](/post/to/) [another](/post/another/). 2. An [alternative](/post/alternative/) [form](/post/form/) [or](/post/or/) [version](/post/version/) [of](/post/of/) [something](/post/something/). 3. ([music](/post/music/)) [A](/post/a/) [substitute](/post/substitute/) [or](/post/or/) replacement [for](/post/for/) [a](/post/a/) [main](/post/main/) [instrument](/post/instrument/) [or](/post/or/) performer. 4. ([medicine](/post/medicine/)) [A](/post/a/) [treatment](/post/treatment/) [or](/post/or/) [remedy](/post/remedy/) [that](/post/that/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [instead](/post/instead/) [of](/post/of/) [a](/post/a/) [primary](/post/primary/) [one](/post/one/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [offer](/post/offer/) [or](/post/or/) [choose](/post/choose/) [as](/post/as/) [a](/post/a/) [substitute](/post/substitute/); [select](/post/select/) an [alternative](/post/alternative/). 2. [To](/post/to/) [be](/post/be/) an [option](/post/option/) [or](/post/or/) [choice](/post/choice/).
 
 ## Phrases
-- "[Alternative](/en/post/alternative/) solutions" refers [to](/en/post/to/) [several](/en/post/several/) options [to](/en/post/to/) [solve](/en/post/solve/) [a](/en/post/a/) [problem](/en/post/problem/).
-- "[Take](/en/post/take/) [your](/en/post/your/) [pick](/en/post/pick/)" implies [multiple](/en/post/multiple/) alternatives [to](/en/post/to/) [choose](/en/post/choose/) [from](/en/post/from/).
-- "[Go](/en/post/go/) [for](/en/post/for/) [the](/en/post/the/) [alternative](/en/post/alternative/)" suggests choosing [a](/en/post/a/) [different](/en/post/different/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/).
+- "[Alternative](/post/alternative/) solutions" refers [to](/post/to/) [several](/post/several/) options [to](/post/to/) [solve](/post/solve/) [a](/post/a/) [problem](/post/problem/).
+- "[Take](/post/take/) [your](/post/your/) [pick](/post/pick/)" implies [multiple](/post/multiple/) alternatives [to](/post/to/) [choose](/post/choose/) [from](/post/from/).
+- "[Go](/post/go/) [for](/post/for/) [the](/post/the/) [alternative](/post/alternative/)" suggests choosing [a](/post/a/) [different](/post/different/) [course](/post/course/) [of](/post/of/) [action](/post/action/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [restaurant](/en/post/restaurant/) offers [a](/en/post/a/) vegetarian [alternative](/en/post/alternative/) [to](/en/post/to/) [their](/en/post/their/) meat-based dishes."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [try](/en/post/try/) an [alternative](/en/post/alternative/) [route](/en/post/route/) [to](/en/post/to/) [avoid](/en/post/avoid/) [the](/en/post/the/) [traffic](/en/post/traffic/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "She's considering [alternative](/en/post/alternative/) [career](/en/post/career/) paths [after](/en/post/after/) finishing [her](/en/post/her/) [degree](/en/post/degree/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [restaurant](/post/restaurant/) offers [a](/post/a/) vegetarian [alternative](/post/alternative/) [to](/post/to/) [their](/post/their/) meat-based dishes."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [try](/post/try/) an [alternative](/post/alternative/) [route](/post/route/) [to](/post/to/) [avoid](/post/avoid/) [the](/post/the/) [traffic](/post/traffic/)."
+- **[As](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "She's considering [alternative](/post/alternative/) [career](/post/career/) paths [after](/post/after/) finishing [her](/post/her/) [degree](/post/degree/)."
 
 ## Synonyms
-- [Choice](/en/post/choice/)
-- [Option](/en/post/option/)
-- [Substitute](/en/post/substitute/)
+- [Choice](/post/choice/)
+- [Option](/post/option/)
+- [Substitute](/post/substitute/)
 - Replacement
 - Alternate
 - Backup
-- [Alternative](/en/post/alternative/) [form](/en/post/form/)
+- [Alternative](/post/alternative/) [form](/post/form/)
 - Variant
 
 ## Antonyms
-- [Primary](/en/post/primary/)
-- [Original](/en/post/original/)
-- [Standard](/en/post/standard/)
+- [Primary](/post/primary/)
+- [Original](/post/original/)
+- [Standard](/post/standard/)
 - Mandatory
-- [Essential](/en/post/essential/)
+- [Essential](/post/essential/)
 
-## [Usage](/en/post/usage/)
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [car](/en/post/car/) has [a](/en/post/a/) sleek [alternative](/en/post/alternative/) [design](/en/post/design/) compared [to](/en/post/to/) [the](/en/post/the/) older [model](/en/post/model/).
-- **[Adverb](/en/post/adverb/)**: [She](/en/post/she/) prefers [alternative](/en/post/alternative/) [medicine](/en/post/medicine/) [over](/en/post/over/) [conventional](/en/post/conventional/) treatments.
-- **[Pronoun](/en/post/pronoun/)**: [They](/en/post/they/) discussed [various](/en/post/various/) [alternative](/en/post/alternative/) approaches [to](/en/post/to/) [the](/en/post/the/) [project](/en/post/project/).
+## [Usage](/post/usage/)
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [car](/post/car/) has [a](/post/a/) sleek [alternative](/post/alternative/) [design](/post/design/) compared [to](/post/to/) [the](/post/the/) older [model](/post/model/).
+- **[Adverb](/post/adverb/)**: [She](/post/she/) prefers [alternative](/post/alternative/) [medicine](/post/medicine/) [over](/post/over/) [conventional](/post/conventional/) treatments.
+- **[Pronoun](/post/pronoun/)**: [They](/post/they/) discussed [various](/post/various/) [alternative](/post/alternative/) approaches [to](/post/to/) [the](/post/the/) [project](/post/project/).

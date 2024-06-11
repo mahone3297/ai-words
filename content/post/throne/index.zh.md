@@ -16,16 +16,16 @@ keywords = ['ai words', 'throne']
   - 统治权，王位: 一个国家或王国的最高统治地位。
 
 ## 短语
-- "[on](/post/on/) [the](/post/the/) [throne](/post/throne/)" 指某人正在行使统治权或占据王位。
-- "ascend [the](/post/the/) [throne](/post/throne/)" 意味着某人成为君主，开始统治。
-- "[the](/post/the/) [throne](/post/throne/) [of](/post/of/) England" 特指英国的王位。
+- "[on](/zh/post/on/) [the](/zh/post/the/) [throne](/zh/post/throne/)" 指某人正在行使统治权或占据王位。
+- "ascend [the](/zh/post/the/) [throne](/zh/post/throne/)" 意味着某人成为君主，开始统治。
+- "[the](/zh/post/the/) [throne](/zh/post/throne/) [of](/zh/post/of/) England" 特指英国的王位。
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [king](/post/king/) was crowned [and](/post/and/) took [his](/post/his/) [place](/post/place/) [on](/post/on/) [the](/post/the/) [throne](/post/throne/)."
-- "[Her](/post/her/) [reign](/post/reign/) began [when](/post/when/) [she](/post/she/) ascended [the](/post/the/) [throne](/post/throne/) [at](/post/at/) [the](/post/the/) [age](/post/age/) [of](/post/of/) 25."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [king](/zh/post/king/) was crowned [and](/zh/post/and/) took [his](/zh/post/his/) [place](/zh/post/place/) [on](/zh/post/on/) [the](/zh/post/the/) [throne](/zh/post/throne/)."
+- "[Her](/zh/post/her/) [reign](/zh/post/reign/) began [when](/zh/post/when/) [she](/zh/post/she/) ascended [the](/zh/post/the/) [throne](/zh/post/throne/) [at](/zh/post/at/) [the](/zh/post/the/) [age](/zh/post/age/) [of](/zh/post/of/) 25."
 
 ## 同义词
-- [royal](/post/royal/) [seat](/post/seat/)
+- [royal](/zh/post/royal/) [seat](/zh/post/seat/)
 - sovereignty
 - kingship
 - queenship

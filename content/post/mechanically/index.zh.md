@@ -11,16 +11,16 @@ keywords = ['ai words', 'mechanically']
 /mekənɪkli/
 
 ## 释义
-- **副词**: 以机械的方式；按照机械原理；自动地。例如: "[The](/post/the/) [machine](/post/machine/) operates [mechanically](/post/mechanically/)."
-- **形容词**: 与机械有关的；机械的；力学的。例如: "[He](/post/he/) has [a](/post/a/) [mechanically](/post/mechanically/) inclined [mind](/post/mind/)."
+- **副词**: 以机械的方式；按照机械原理；自动地。例如: "[The](/zh/post/the/) [machine](/zh/post/machine/) operates [mechanically](/zh/post/mechanically/)."
+- **形容词**: 与机械有关的；机械的；力学的。例如: "[He](/zh/post/he/) has [a](/zh/post/a/) [mechanically](/zh/post/mechanically/) inclined [mind](/zh/post/mind/)."
 
 ## 短语
-- "[mechanically](/post/mechanically/) inclined" 指在机械方面有天赋或擅长的人。
-- "[mechanical](/post/mechanical/) [advantage](/post/advantage/)" 在物理学中，指一个系统利用机械装置提高力或移动物体的能力。
+- "[mechanically](/zh/post/mechanically/) inclined" 指在机械方面有天赋或擅长的人。
+- "[mechanical](/zh/post/mechanical/) [advantage](/zh/post/advantage/)" 在物理学中，指一个系统利用机械装置提高力或移动物体的能力。
 
 ## 例句
-- 副词: "[The](/post/the/) [robot](/post/robot/) moves precisely [and](/post/and/) [mechanically](/post/mechanically/), [following](/post/following/) [its](/post/its/) programmed instructions."
-- 形容词: "[The](/post/the/) car's [engine](/post/engine/) is [a](/post/a/) [complex](/post/complex/) [mechanical](/post/mechanical/) [system](/post/system/)."
+- 副词: "[The](/zh/post/the/) [robot](/zh/post/robot/) moves precisely [and](/zh/post/and/) [mechanically](/zh/post/mechanically/), [following](/zh/post/following/) [its](/zh/post/its/) programmed instructions."
+- 形容词: "[The](/zh/post/the/) car's [engine](/zh/post/engine/) is [a](/zh/post/a/) [complex](/zh/post/complex/) [mechanical](/zh/post/mechanical/) [system](/zh/post/system/)."
 
 ## 同义词
 - automatically

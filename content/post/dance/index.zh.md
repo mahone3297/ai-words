@@ -11,20 +11,20 @@ keywords = ['ai words', 'dance']
 /daːns/
 
 ## 释义
-- **名词**: 舞蹈，一种通过身体动作和节奏来表达情感或故事的艺术形式。例如: "[She](/post/she/) attended [a](/post/a/) ballet [dance](/post/dance/) [performance](/post/performance/) [last](/post/last/) [night](/post/night/)."
-- **动词**: 跳舞，进行舞蹈活动。例如: "[They](/post/they/) [love](/post/love/) [to](/post/to/) [dance](/post/dance/) [together](/post/together/) [at](/post/at/) [the](/post/the/) [club](/post/club/)."
+- **名词**: 舞蹈，一种通过身体动作和节奏来表达情感或故事的艺术形式。例如: "[She](/zh/post/she/) attended [a](/zh/post/a/) ballet [dance](/zh/post/dance/) [performance](/zh/post/performance/) [last](/zh/post/last/) [night](/zh/post/night/)."
+- **动词**: 跳舞，进行舞蹈活动。例如: "[They](/zh/post/they/) [love](/zh/post/love/) [to](/zh/post/to/) [dance](/zh/post/dance/) [together](/zh/post/together/) [at](/zh/post/at/) [the](/zh/post/the/) [club](/zh/post/club/)."
 
 ## 短语
-- "[Dance](/post/dance/) [to](/post/to/) [the](/post/the/) [music](/post/music/)" 跟着音乐的节奏跳舞。
-- "[The](/post/the/) [dance](/post/dance/) [of](/post/of/) [life](/post/life/)" 生活的舞蹈，象征生活的节奏和变化。
+- "[Dance](/zh/post/dance/) [to](/zh/post/to/) [the](/zh/post/the/) [music](/zh/post/music/)" 跟着音乐的节奏跳舞。
+- "[The](/zh/post/the/) [dance](/zh/post/dance/) [of](/zh/post/of/) [life](/zh/post/life/)" 生活的舞蹈，象征生活的节奏和变化。
 
 ## 例句
-- 名词: "[The](/post/the/) children were practicing [their](/post/their/) [dance](/post/dance/) [routine](/post/routine/) [for](/post/for/) [the](/post/the/) [school](/post/school/) [concert](/post/concert/)."
-- 动词: "[He](/post/he/) asked [her](/post/her/) [to](/post/to/) [dance](/post/dance/) [at](/post/at/) [the](/post/the/) [wedding](/post/wedding/) [reception](/post/reception/)."
+- 名词: "[The](/zh/post/the/) children were practicing [their](/zh/post/their/) [dance](/zh/post/dance/) [routine](/zh/post/routine/) [for](/zh/post/for/) [the](/zh/post/the/) [school](/zh/post/school/) [concert](/zh/post/concert/)."
+- 动词: "[He](/zh/post/he/) asked [her](/zh/post/her/) [to](/zh/post/to/) [dance](/zh/post/dance/) [at](/zh/post/at/) [the](/zh/post/the/) [wedding](/zh/post/wedding/) [reception](/zh/post/reception/)."
 
 ## 同义词
 - Waltz
-- [Swing](/post/swing/)
+- [Swing](/zh/post/swing/)
 - Salsa
 - Tango
 - Jive

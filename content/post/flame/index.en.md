@@ -7,31 +7,31 @@ description = '[fleim] n.火焰；光辉；热情'
 keywords = ['ai words', 'flame']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fleɪm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [hot](/en/post/hot/), glowing [gas](/en/post/gas/) [that](/en/post/that/) is produced [by](/en/post/by/) burning [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [bright](/en/post/bright/), sparkling [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [fire](/en/post/fire/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) campfire's flames danced [in](/en/post/in/) [the](/en/post/the/) [night](/en/post/night/) [air](/en/post/air/)."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [strong](/en/post/strong/) [feeling](/en/post/feeling/) [of](/en/post/of/) [passion](/en/post/passion/) [or](/en/post/or/) [emotion](/en/post/emotion/), [often](/en/post/often/) referring [to](/en/post/to/) [love](/en/post/love/) [or](/en/post/or/) [anger](/en/post/anger/). [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) [love](/en/post/love/) was rekindled [by](/en/post/by/) [the](/en/post/the/) [flame](/en/post/flame/) [of](/en/post/of/) [old](/en/post/old/) memories."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [burn](/en/post/burn/) [with](/en/post/with/) [a](/en/post/a/) [flame](/en/post/flame/); [to](/en/post/to/) [be](/en/post/be/) [on](/en/post/on/) [fire](/en/post/fire/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) logs flamed brightly [in](/en/post/in/) [the](/en/post/the/) fireplace."
-- **[Verb](/en/post/verb/) (figurative)**: [To](/en/post/to/) [shine](/en/post/shine/) brightly [or](/en/post/or/) [glow](/en/post/glow/) [with](/en/post/with/) [enthusiasm](/en/post/enthusiasm/) [or](/en/post/or/) excitement. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) eyes flamed [with](/en/post/with/) [determination](/en/post/determination/) [as](/en/post/as/) [she](/en/post/she/) spoke [about](/en/post/about/) [her](/en/post/her/) dreams."
+- **[Noun](/post/noun/)**: [A](/post/a/) [hot](/post/hot/), glowing [gas](/post/gas/) [that](/post/that/) is produced [by](/post/by/) burning [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [bright](/post/bright/), sparkling [part](/post/part/) [of](/post/of/) [a](/post/a/) [fire](/post/fire/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) campfire's flames danced [in](/post/in/) [the](/post/the/) [night](/post/night/) [air](/post/air/)."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [strong](/post/strong/) [feeling](/post/feeling/) [of](/post/of/) [passion](/post/passion/) [or](/post/or/) [emotion](/post/emotion/), [often](/post/often/) referring [to](/post/to/) [love](/post/love/) [or](/post/or/) [anger](/post/anger/). [For](/post/for/) [example](/post/example/): "[Their](/post/their/) [love](/post/love/) was rekindled [by](/post/by/) [the](/post/the/) [flame](/post/flame/) [of](/post/of/) [old](/post/old/) memories."
+- **[Verb](/post/verb/)**: [To](/post/to/) [burn](/post/burn/) [with](/post/with/) [a](/post/a/) [flame](/post/flame/); [to](/post/to/) [be](/post/be/) [on](/post/on/) [fire](/post/fire/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) logs flamed brightly [in](/post/in/) [the](/post/the/) fireplace."
+- **[Verb](/post/verb/) (figurative)**: [To](/post/to/) [shine](/post/shine/) brightly [or](/post/or/) [glow](/post/glow/) [with](/post/with/) [enthusiasm](/post/enthusiasm/) [or](/post/or/) excitement. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) eyes flamed [with](/post/with/) [determination](/post/determination/) [as](/post/as/) [she](/post/she/) spoke [about](/post/about/) [her](/post/her/) dreams."
 
 ## Phrases
-- "[Flame](/en/post/flame/) [out](/en/post/out/)": [To](/en/post/to/) [burn](/en/post/burn/) brightly [but](/en/post/but/) briefly, [often](/en/post/often/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) person's [sudden](/en/post/sudden/) [loss](/en/post/loss/) [of](/en/post/of/) [energy](/en/post/energy/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/).
-- "[Fan](/en/post/fan/) [the](/en/post/the/) flames": [To](/en/post/to/) [stir](/en/post/stir/) [up](/en/post/up/) [or](/en/post/or/) intensify emotions, arguments, [or](/en/post/or/) conflicts.
-- "[Carry](/en/post/carry/) [a](/en/post/a/) [torch](/en/post/torch/) ([for](/en/post/for/) [someone](/en/post/someone/))": [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) passionate [love](/en/post/love/) [or](/en/post/or/) [affection](/en/post/affection/) [for](/en/post/for/) [someone](/en/post/someone/), [often](/en/post/often/) unrequited.
+- "[Flame](/post/flame/) [out](/post/out/)": [To](/post/to/) [burn](/post/burn/) brightly [but](/post/but/) briefly, [often](/post/often/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [a](/post/a/) person's [sudden](/post/sudden/) [loss](/post/loss/) [of](/post/of/) [energy](/post/energy/) [or](/post/or/) [enthusiasm](/post/enthusiasm/).
+- "[Fan](/post/fan/) [the](/post/the/) flames": [To](/post/to/) [stir](/post/stir/) [up](/post/up/) [or](/post/or/) intensify emotions, arguments, [or](/post/or/) conflicts.
+- "[Carry](/post/carry/) [a](/post/a/) [torch](/post/torch/) ([for](/post/for/) [someone](/post/someone/))": [To](/post/to/) [have](/post/have/) [a](/post/a/) passionate [love](/post/love/) [or](/post/or/) [affection](/post/affection/) [for](/post/for/) [someone](/post/someone/), [often](/post/often/) unrequited.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) candle's [flame](/en/post/flame/) flickered [in](/en/post/in/) [the](/en/post/the/) drafty [room](/en/post/room/)."
-- **[Noun](/en/post/noun/) (figurative)**: "Jealousy ignited [a](/en/post/a/) [flame](/en/post/flame/) [of](/en/post/of/) [hatred](/en/post/hatred/) [within](/en/post/within/) [him](/en/post/him/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [match](/en/post/match/) flamed [and](/en/post/and/) lit [up](/en/post/up/) [the](/en/post/the/) [dark](/en/post/dark/) [corner](/en/post/corner/)."
-- **[Verb](/en/post/verb/) (figurative)**: "[His](/en/post/his/) [ambition](/en/post/ambition/) flamed [when](/en/post/when/) [he](/en/post/he/) received [the](/en/post/the/) prestigious [award](/en/post/award/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) candle's [flame](/post/flame/) flickered [in](/post/in/) [the](/post/the/) drafty [room](/post/room/)."
+- **[Noun](/post/noun/) (figurative)**: "Jealousy ignited [a](/post/a/) [flame](/post/flame/) [of](/post/of/) [hatred](/post/hatred/) [within](/post/within/) [him](/post/him/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [match](/post/match/) flamed [and](/post/and/) lit [up](/post/up/) [the](/post/the/) [dark](/post/dark/) [corner](/post/corner/)."
+- **[Verb](/post/verb/) (figurative)**: "[His](/post/his/) [ambition](/post/ambition/) flamed [when](/post/when/) [he](/post/he/) received [the](/post/the/) prestigious [award](/post/award/)."
 
 ## Synonyms
-- [Blaze](/en/post/blaze/)
-- [Fire](/en/post/fire/)
-- [Torch](/en/post/torch/)
-- Ardor ([for](/en/post/for/) figurative [use](/en/post/use/))
-- [Passion](/en/post/passion/)
-- Embers ([for](/en/post/for/) remnants [of](/en/post/of/) [a](/en/post/a/) [flame](/en/post/flame/))
-- [Enthusiasm](/en/post/enthusiasm/) ([for](/en/post/for/) figurative [use](/en/post/use/))
+- [Blaze](/post/blaze/)
+- [Fire](/post/fire/)
+- [Torch](/post/torch/)
+- Ardor ([for](/post/for/) figurative [use](/post/use/))
+- [Passion](/post/passion/)
+- Embers ([for](/post/for/) remnants [of](/post/of/) [a](/post/a/) [flame](/post/flame/))
+- [Enthusiasm](/post/enthusiasm/) ([for](/post/for/) figurative [use](/post/use/))

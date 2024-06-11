@@ -7,36 +7,36 @@ description = '[klɔk] n.钟，仪表'
 keywords = ['ai words', 'clock']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /klok/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [clock](/en/post/clock/) is [a](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) mechanism [that](/en/post/that/) measures [and](/en/post/and/) indicates [time](/en/post/time/), typically using [a](/en/post/a/) [face](/en/post/face/) [with](/en/post/with/) [hour](/en/post/hour/) [and](/en/post/and/) [minute](/en/post/minute/) hands, [or](/en/post/or/) [digital](/en/post/digital/) displays. [It](/en/post/it/) [often](/en/post/often/) consists [of](/en/post/of/) [a](/en/post/a/) [case](/en/post/case/) containing [the](/en/post/the/) mechanism [and](/en/post/and/) [a](/en/post/a/) [face](/en/post/face/) [with](/en/post/with/) numbers [or](/en/post/or/) [other](/en/post/other/) markings.
+### [Noun](/post/noun/)
+[A](/post/a/) [clock](/post/clock/) is [a](/post/a/) [device](/post/device/) [or](/post/or/) mechanism [that](/post/that/) measures [and](/post/and/) indicates [time](/post/time/), typically using [a](/post/a/) [face](/post/face/) [with](/post/with/) [hour](/post/hour/) [and](/post/and/) [minute](/post/minute/) hands, [or](/post/or/) [digital](/post/digital/) displays. [It](/post/it/) [often](/post/often/) consists [of](/post/of/) [a](/post/a/) [case](/post/case/) containing [the](/post/the/) mechanism [and](/post/and/) [a](/post/a/) [face](/post/face/) [with](/post/with/) numbers [or](/post/or/) [other](/post/other/) markings.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [clock](/en/post/clock/) ([something](/en/post/something/)) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [measure](/en/post/measure/) [the](/en/post/the/) [time](/en/post/time/) taken [for](/en/post/for/) an [event](/en/post/event/), [usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) [professional](/en/post/professional/) [setting](/en/post/setting/). [To](/en/post/to/) [clock](/en/post/clock/) [out](/en/post/out/) [or](/en/post/or/) [clock](/en/post/clock/) [off](/en/post/off/) [work](/en/post/work/) signifies [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) [shift](/en/post/shift/).
+### [Verb](/post/verb/)
+[To](/post/to/) [clock](/post/clock/) ([something](/post/something/)) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [measure](/post/measure/) [the](/post/the/) [time](/post/time/) taken [for](/post/for/) an [event](/post/event/), [usually](/post/usually/) [in](/post/in/) [a](/post/a/) [professional](/post/professional/) [setting](/post/setting/). [To](/post/to/) [clock](/post/clock/) [out](/post/out/) [or](/post/or/) [clock](/post/clock/) [off](/post/off/) [work](/post/work/) signifies [the](/post/the/) [end](/post/end/) [of](/post/of/) [a](/post/a/) [shift](/post/shift/).
 
-### [Adjective](/en/post/adjective/)
-Clockwork refers [to](/en/post/to/) [a](/en/post/a/) mechanism driven [by](/en/post/by/) an escapement [that](/en/post/that/) regulates [the](/en/post/the/) [movement](/en/post/movement/) [of](/en/post/of/) [a](/en/post/a/) timepiece.
+### [Adjective](/post/adjective/)
+Clockwork refers [to](/post/to/) [a](/post/a/) mechanism driven [by](/post/by/) an escapement [that](/post/that/) regulates [the](/post/the/) [movement](/post/movement/) [of](/post/of/) [a](/post/a/) timepiece.
 
-### [Noun](/en/post/noun/) ([plural](/en/post/plural/))
-Clocks [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [collection](/en/post/collection/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) clocks, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [grandfather](/en/post/grandfather/) [clock](/en/post/clock/) [or](/en/post/or/) [wall](/en/post/wall/) [clock](/en/post/clock/).
+### [Noun](/post/noun/) ([plural](/post/plural/))
+Clocks [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [collection](/post/collection/) [or](/post/or/) [series](/post/series/) [of](/post/of/) clocks, [such](/post/such/) [as](/post/as/) [a](/post/a/) [grandfather](/post/grandfather/) [clock](/post/clock/) [or](/post/or/) [wall](/post/wall/) [clock](/post/clock/).
 
 ## Phrases
-- "[Set](/en/post/set/) [the](/en/post/the/) [clock](/en/post/clock/)" [means](/en/post/means/) [to](/en/post/to/) [adjust](/en/post/adjust/) [the](/en/post/the/) [time](/en/post/time/) [on](/en/post/on/) [a](/en/post/a/) [clock](/en/post/clock/).
-- "[Keep](/en/post/keep/) [track](/en/post/track/) [of](/en/post/of/) [time](/en/post/time/)" is [another](/en/post/another/) [way](/en/post/way/) [to](/en/post/to/) [say](/en/post/say/) using [a](/en/post/a/) [clock](/en/post/clock/).
-- "[The](/en/post/the/) [clock](/en/post/clock/) struck [midnight](/en/post/midnight/)" signals [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [a](/en/post/a/) [new](/en/post/new/) [day](/en/post/day/).
+- "[Set](/post/set/) [the](/post/the/) [clock](/post/clock/)" [means](/post/means/) [to](/post/to/) [adjust](/post/adjust/) [the](/post/the/) [time](/post/time/) [on](/post/on/) [a](/post/a/) [clock](/post/clock/).
+- "[Keep](/post/keep/) [track](/post/track/) [of](/post/of/) [time](/post/time/)" is [another](/post/another/) [way](/post/way/) [to](/post/to/) [say](/post/say/) using [a](/post/a/) [clock](/post/clock/).
+- "[The](/post/the/) [clock](/post/clock/) struck [midnight](/post/midnight/)" signals [the](/post/the/) [start](/post/start/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [day](/post/day/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) antique [clock](/en/post/clock/) [on](/en/post/on/) [the](/en/post/the/) mantlepiece had been passed [down](/en/post/down/) [through](/en/post/through/) generations."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [clock](/en/post/clock/) [in](/en/post/in/) [before](/en/post/before/) starting [my](/en/post/my/) [shift](/en/post/shift/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) man's clockwork movements were [precise](/en/post/precise/) [and](/en/post/and/) [reliable](/en/post/reliable/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) antique [clock](/post/clock/) [on](/post/on/) [the](/post/the/) mantlepiece had been passed [down](/post/down/) [through](/post/through/) generations."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [clock](/post/clock/) [in](/post/in/) [before](/post/before/) starting [my](/post/my/) [shift](/post/shift/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) man's clockwork movements were [precise](/post/precise/) [and](/post/and/) [reliable](/post/reliable/)."
 
 ## Synonyms
 - Timekeeper
 - Timer
-- [Watch](/en/post/watch/)
-- Pendulum [clock](/en/post/clock/)
-- Quartz [clock](/en/post/clock/)
-- Cuckoo [clock](/en/post/clock/) ([a](/en/post/a/) [specific](/en/post/specific/) [type](/en/post/type/) [of](/en/post/of/) [clock](/en/post/clock/) [with](/en/post/with/) [a](/en/post/a/) [bird](/en/post/bird/) [that](/en/post/that/) chimes [the](/en/post/the/) [hour](/en/post/hour/))
+- [Watch](/post/watch/)
+- Pendulum [clock](/post/clock/)
+- Quartz [clock](/post/clock/)
+- Cuckoo [clock](/post/clock/) ([a](/post/a/) [specific](/post/specific/) [type](/post/type/) [of](/post/of/) [clock](/post/clock/) [with](/post/with/) [a](/post/a/) [bird](/post/bird/) [that](/post/that/) chimes [the](/post/the/) [hour](/post/hour/))

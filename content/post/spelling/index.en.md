@@ -7,26 +7,26 @@ description = '[ˈspeliŋ] n.拼字，拼法，拼写法'
 keywords = ['ai words', 'spelling']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /həˈlɒʊ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [greeting](/en/post/greeting/) [or](/en/post/or/) [expression](/en/post/expression/) [of](/en/post/of/) [welcome](/en/post/welcome/); [a](/en/post/a/) salutation. [Example](/en/post/example/): "[She](/en/post/she/) waved [a](/en/post/a/) [friendly](/en/post/friendly/) [hello](/en/post/hello/) [at](/en/post/at/) [the](/en/post/the/) passing [car](/en/post/car/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [greeting](/en/post/greeting/) [or](/en/post/or/) [say](/en/post/say/) "[hello](/en/post/hello/)" [to](/en/post/to/) [someone](/en/post/someone/). [Example](/en/post/example/): "[Please](/en/post/please/) [hello](/en/post/hello/) [the](/en/post/the/) guests [as](/en/post/as/) [they](/en/post/they/) [arrive](/en/post/arrive/)."
-- **[Adverb](/en/post/adverb/)**: Informally, expressing [surprise](/en/post/surprise/) [or](/en/post/or/) [attention](/en/post/attention/). [Example](/en/post/example/): "[Suddenly](/en/post/suddenly/), [he](/en/post/he/) yelled '[Hello](/en/post/hello/)!'"
+- **[Noun](/post/noun/)**: [A](/post/a/) [greeting](/post/greeting/) [or](/post/or/) [expression](/post/expression/) [of](/post/of/) [welcome](/post/welcome/); [a](/post/a/) salutation. [Example](/post/example/): "[She](/post/she/) waved [a](/post/a/) [friendly](/post/friendly/) [hello](/post/hello/) [at](/post/at/) [the](/post/the/) passing [car](/post/car/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [a](/post/a/) [greeting](/post/greeting/) [or](/post/or/) [say](/post/say/) "[hello](/post/hello/)" [to](/post/to/) [someone](/post/someone/). [Example](/post/example/): "[Please](/post/please/) [hello](/post/hello/) [the](/post/the/) guests [as](/post/as/) [they](/post/they/) [arrive](/post/arrive/)."
+- **[Adverb](/post/adverb/)**: Informally, expressing [surprise](/post/surprise/) [or](/post/or/) [attention](/post/attention/). [Example](/post/example/): "[Suddenly](/post/suddenly/), [he](/post/he/) yelled '[Hello](/post/hello/)!'"
 
 ## Phrases
-- "[Give](/en/post/give/) [someone](/en/post/someone/) [a](/en/post/a/) [hello](/en/post/hello/)" = [Greet](/en/post/greet/) [someone](/en/post/someone/).
-- "[Goodbye](/en/post/goodbye/), [hello](/en/post/hello/)" = [A](/en/post/a/) [sequence](/en/post/sequence/) [of](/en/post/of/) greetings, [often](/en/post/often/) [used](/en/post/used/) humorously.
-- "[Hello](/en/post/hello/), [old](/en/post/old/) [sport](/en/post/sport/)" = [A](/en/post/a/) [traditional](/en/post/traditional/) British [greeting](/en/post/greeting/), [usually](/en/post/usually/) [between](/en/post/between/) men.
+- "[Give](/post/give/) [someone](/post/someone/) [a](/post/a/) [hello](/post/hello/)" = [Greet](/post/greet/) [someone](/post/someone/).
+- "[Goodbye](/post/goodbye/), [hello](/post/hello/)" = [A](/post/a/) [sequence](/post/sequence/) [of](/post/of/) greetings, [often](/post/often/) [used](/post/used/) humorously.
+- "[Hello](/post/hello/), [old](/post/old/) [sport](/post/sport/)" = [A](/post/a/) [traditional](/post/traditional/) British [greeting](/post/greeting/), [usually](/post/usually/) [between](/post/between/) men.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children exchanged hellos [as](/en/post/as/) [they](/en/post/they/) started [their](/en/post/their/) [day](/en/post/day/) [at](/en/post/at/) [school](/en/post/school/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) paused [to](/en/post/to/) [hello](/en/post/hello/) [his](/en/post/his/) neighbor [on](/en/post/on/) [the](/en/post/the/) [way](/en/post/way/) [to](/en/post/to/) [work](/en/post/work/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) was startled [by](/en/post/by/) [the](/en/post/the/) [sudden](/en/post/sudden/) [hello](/en/post/hello/) [from](/en/post/from/) [behind](/en/post/behind/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children exchanged hellos [as](/post/as/) [they](/post/they/) started [their](/post/their/) [day](/post/day/) [at](/post/at/) [school](/post/school/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) paused [to](/post/to/) [hello](/post/hello/) [his](/post/his/) neighbor [on](/post/on/) [the](/post/the/) [way](/post/way/) [to](/post/to/) [work](/post/work/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) was startled [by](/post/by/) [the](/post/the/) [sudden](/post/sudden/) [hello](/post/hello/) [from](/post/from/) [behind](/post/behind/)."
 
 ## Synonyms
-- [Hi](/en/post/hi/)
+- [Hi](/post/hi/)
 - Hey
 - Greetings
 - Salutations
@@ -34,4 +34,4 @@ keywords = ['ai words', 'spelling']
 - Yo
 - Ahoy
 - Aloha
-- Howdy (informal, [mainly](/en/post/mainly/) [American](/en/post/american/))
+- Howdy (informal, [mainly](/post/mainly/) [American](/post/american/))

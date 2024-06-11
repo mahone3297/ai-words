@@ -7,36 +7,36 @@ description = '[dʒiˈɔmitri] n.几何，几何学'
 keywords = ['ai words', 'geometry']
 +++
 
-## [Word](/en/post/word/): [Geometry](/en/post/geometry/)
+## [Word](/post/word/): [Geometry](/post/geometry/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌdʒiːəˈmɛtrɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [branch](/en/post/branch/) [of](/en/post/of/) [mathematics](/en/post/mathematics/) concerned [with](/en/post/with/) [the](/en/post/the/) properties [and](/en/post/and/) relationships [between](/en/post/between/) points, lines, surfaces, solids, [and](/en/post/and/) higher-dimensional analogs. [It](/en/post/it/) deals [with](/en/post/with/) [shape](/en/post/shape/), [size](/en/post/size/), [relative](/en/post/relative/) [position](/en/post/position/) [of](/en/post/of/) figures, [and](/en/post/and/) [the](/en/post/the/) properties [of](/en/post/of/) [space](/en/post/space/). [For](/en/post/for/) [example](/en/post/example/): "Euclidean [geometry](/en/post/geometry/) forms [the](/en/post/the/) [basis](/en/post/basis/) [of](/en/post/of/) [our](/en/post/our/) [understanding](/en/post/understanding/) [of](/en/post/of/) shapes [and](/en/post/and/) dimensions."
+- **[Noun](/post/noun/)**: [The](/post/the/) [branch](/post/branch/) [of](/post/of/) [mathematics](/post/mathematics/) concerned [with](/post/with/) [the](/post/the/) properties [and](/post/and/) relationships [between](/post/between/) points, lines, surfaces, solids, [and](/post/and/) higher-dimensional analogs. [It](/post/it/) deals [with](/post/with/) [shape](/post/shape/), [size](/post/size/), [relative](/post/relative/) [position](/post/position/) [of](/post/of/) figures, [and](/post/and/) [the](/post/the/) properties [of](/post/of/) [space](/post/space/). [For](/post/for/) [example](/post/example/): "Euclidean [geometry](/post/geometry/) forms [the](/post/the/) [basis](/post/basis/) [of](/post/of/) [our](/post/our/) [understanding](/post/understanding/) [of](/post/of/) shapes [and](/post/and/) dimensions."
   
   - _Phrases_:
-    - "[Plane](/en/post/plane/) [geometry](/en/post/geometry/)" involves [the](/en/post/the/) [study](/en/post/study/) [of](/en/post/of/) two-dimensional shapes [like](/en/post/like/) circles, triangles, [and](/en/post/and/) rectangles.
-    - "[Solid](/en/post/solid/) [geometry](/en/post/geometry/)" deals [with](/en/post/with/) three-dimensional figures [such](/en/post/such/) [as](/en/post/as/) spheres, cubes, [and](/en/post/and/) pyramids.
-    - "Analytic [geometry](/en/post/geometry/)" combines algebraic equations [with](/en/post/with/) geometric shapes [to](/en/post/to/) [find](/en/post/find/) lengths, areas, [and](/en/post/and/) volumes.
+    - "[Plane](/post/plane/) [geometry](/post/geometry/)" involves [the](/post/the/) [study](/post/study/) [of](/post/of/) two-dimensional shapes [like](/post/like/) circles, triangles, [and](/post/and/) rectangles.
+    - "[Solid](/post/solid/) [geometry](/post/geometry/)" deals [with](/post/with/) three-dimensional figures [such](/post/such/) [as](/post/as/) spheres, cubes, [and](/post/and/) pyramids.
+    - "Analytic [geometry](/post/geometry/)" combines algebraic equations [with](/post/with/) geometric shapes [to](/post/to/) [find](/post/find/) lengths, areas, [and](/post/and/) volumes.
 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/) ([Noun](/en/post/noun/)): "[The](/en/post/the/) [high](/en/post/high/) [school](/en/post/school/) curriculum includes algebra, trigonometry, [and](/en/post/and/) [geometry](/en/post/geometry/)."
+  > [Example](/post/example/) [Sentence](/post/sentence/) ([Noun](/post/noun/)): "[The](/post/the/) [high](/post/high/) [school](/post/school/) curriculum includes algebra, trigonometry, [and](/post/and/) [geometry](/post/geometry/)."
 
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) characterized [by](/en/post/by/) [the](/en/post/the/) principles [of](/en/post/of/) [geometry](/en/post/geometry/). [For](/en/post/for/) [instance](/en/post/instance/): "Geometric patterns are [often](/en/post/often/) seen [in](/en/post/in/) [art](/en/post/art/) [and](/en/post/and/) [architecture](/en/post/architecture/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) characterized [by](/post/by/) [the](/post/the/) principles [of](/post/of/) [geometry](/post/geometry/). [For](/post/for/) [instance](/post/instance/): "Geometric patterns are [often](/post/often/) seen [in](/post/in/) [art](/post/art/) [and](/post/and/) [architecture](/post/architecture/)."
 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/) ([Adjective](/en/post/adjective/)): "[The](/en/post/the/) [ancient](/en/post/ancient/) Greeks developed [a](/en/post/a/) [complex](/en/post/complex/) [system](/en/post/system/) [of](/en/post/of/) geometric designs [in](/en/post/in/) [their](/en/post/their/) mosaics."
+  > [Example](/post/example/) [Sentence](/post/sentence/) ([Adjective](/post/adjective/)): "[The](/post/the/) [ancient](/post/ancient/) Greeks developed [a](/post/a/) [complex](/post/complex/) [system](/post/system/) [of](/post/of/) geometric designs [in](/post/in/) [their](/post/their/) mosaics."
 
 ## Synonyms
 - Geometrical (adj)
-- Spatial [science](/en/post/science/)
-- Math [of](/en/post/of/) shapes
-- Spatial [analysis](/en/post/analysis/)
+- Spatial [science](/post/science/)
+- Math [of](/post/of/) shapes
+- Spatial [analysis](/post/analysis/)
 - Spatial reasoning
-- Surveying ([in](/en/post/in/) [a](/en/post/a/) broader [sense](/en/post/sense/))
+- Surveying ([in](/post/in/) [a](/post/a/) broader [sense](/post/sense/))
 
 ## Phrases
-- "[Geometry](/en/post/geometry/) [class](/en/post/class/)": [A](/en/post/a/) [course](/en/post/course/) [where](/en/post/where/) students [learn](/en/post/learn/) [about](/en/post/about/) geometric principles [and](/en/post/and/) calculations.
-- "Non-Euclidean [geometry](/en/post/geometry/)": [A](/en/post/a/) [branch](/en/post/branch/) [that](/en/post/that/) deviates [from](/en/post/from/) [the](/en/post/the/) [traditional](/en/post/traditional/) Euclidean postulates, [such](/en/post/such/) [as](/en/post/as/) spherical [geometry](/en/post/geometry/) [or](/en/post/or/) hyperbolic [geometry](/en/post/geometry/).
-- "[To](/en/post/to/) [apply](/en/post/apply/) [geometry](/en/post/geometry/) [to](/en/post/to/) [solve](/en/post/solve/) [a](/en/post/a/) [problem](/en/post/problem/)": Using geometric principles [and](/en/post/and/) techniques [to](/en/post/to/) [resolve](/en/post/resolve/) an [issue](/en/post/issue/), e.g., calculating [the](/en/post/the/) [area](/en/post/area/) [of](/en/post/of/) [a](/en/post/a/) [land](/en/post/land/) [parcel](/en/post/parcel/) [or](/en/post/or/) determining [the](/en/post/the/) [most](/en/post/most/) [efficient](/en/post/efficient/) packaging [design](/en/post/design/). 
+- "[Geometry](/post/geometry/) [class](/post/class/)": [A](/post/a/) [course](/post/course/) [where](/post/where/) students [learn](/post/learn/) [about](/post/about/) geometric principles [and](/post/and/) calculations.
+- "Non-Euclidean [geometry](/post/geometry/)": [A](/post/a/) [branch](/post/branch/) [that](/post/that/) deviates [from](/post/from/) [the](/post/the/) [traditional](/post/traditional/) Euclidean postulates, [such](/post/such/) [as](/post/as/) spherical [geometry](/post/geometry/) [or](/post/or/) hyperbolic [geometry](/post/geometry/).
+- "[To](/post/to/) [apply](/post/apply/) [geometry](/post/geometry/) [to](/post/to/) [solve](/post/solve/) [a](/post/a/) [problem](/post/problem/)": Using geometric principles [and](/post/and/) techniques [to](/post/to/) [resolve](/post/resolve/) an [issue](/post/issue/), e.g., calculating [the](/post/the/) [area](/post/area/) [of](/post/of/) [a](/post/a/) [land](/post/land/) [parcel](/post/parcel/) [or](/post/or/) determining [the](/post/the/) [most](/post/most/) [efficient](/post/efficient/) packaging [design](/post/design/). 
 
-[Note](/en/post/note/): [While](/en/post/while/) [geometry](/en/post/geometry/) [itself](/en/post/itself/) doesn't [have](/en/post/have/) [direct](/en/post/direct/) [verb](/en/post/verb/) [usage](/en/post/usage/) [as](/en/post/as/) shown [in](/en/post/in/) [your](/en/post/your/) [example](/en/post/example/) format, it's [often](/en/post/often/) [used](/en/post/used/) descriptively [in](/en/post/in/) sentences discussing [the](/en/post/the/) [application](/en/post/application/) [or](/en/post/or/) [practice](/en/post/practice/) [of](/en/post/of/) [geometry](/en/post/geometry/) [as](/en/post/as/) an [activity](/en/post/activity/) [or](/en/post/or/) [process](/en/post/process/).
+[Note](/post/note/): [While](/post/while/) [geometry](/post/geometry/) [itself](/post/itself/) doesn't [have](/post/have/) [direct](/post/direct/) [verb](/post/verb/) [usage](/post/usage/) [as](/post/as/) shown [in](/post/in/) [your](/post/your/) [example](/post/example/) format, it's [often](/post/often/) [used](/post/used/) descriptively [in](/post/in/) sentences discussing [the](/post/the/) [application](/post/application/) [or](/post/or/) [practice](/post/practice/) [of](/post/of/) [geometry](/post/geometry/) [as](/post/as/) an [activity](/post/activity/) [or](/post/or/) [process](/post/process/).

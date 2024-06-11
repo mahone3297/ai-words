@@ -7,23 +7,23 @@ description = '[ˈignərənt] a.不知道的；无知的'
 keywords = ['ai words', 'ignorant']
 +++
 
-## [Word](/en/post/word/): [Ignorant](/en/post/ignorant/)
+## [Word](/post/word/): [Ignorant](/post/ignorant/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪɡnərənt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Lacking [knowledge](/en/post/knowledge/) [or](/en/post/or/) [information](/en/post/information/) [about](/en/post/about/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/); uninformed. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was [ignorant](/en/post/ignorant/) [of](/en/post/of/) [the](/en/post/the/) latest [scientific](/en/post/scientific/) discoveries."
-- **[Adjective](/en/post/adjective/) (informal)**: [Unwilling](/en/post/unwilling/) [to](/en/post/to/) [learn](/en/post/learn/) [or](/en/post/or/) [consider](/en/post/consider/) [new](/en/post/new/) [information](/en/post/information/); unenlightened. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) ignorance [on](/en/post/on/) [the](/en/post/the/) [topic](/en/post/topic/) was frustrating, [as](/en/post/as/) [she](/en/post/she/) refused [to](/en/post/to/) [read](/en/post/read/) [any](/en/post/any/) materials [that](/en/post/that/) [might](/en/post/might/) [challenge](/en/post/challenge/) [her](/en/post/her/) beliefs."
+- **[Adjective](/post/adjective/)**: Lacking [knowledge](/post/knowledge/) [or](/post/or/) [information](/post/information/) [about](/post/about/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/); uninformed. [For](/post/for/) [example](/post/example/): "[He](/post/he/) was [ignorant](/post/ignorant/) [of](/post/of/) [the](/post/the/) latest [scientific](/post/scientific/) discoveries."
+- **[Adjective](/post/adjective/) (informal)**: [Unwilling](/post/unwilling/) [to](/post/to/) [learn](/post/learn/) [or](/post/or/) [consider](/post/consider/) [new](/post/new/) [information](/post/information/); unenlightened. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) ignorance [on](/post/on/) [the](/post/the/) [topic](/post/topic/) was frustrating, [as](/post/as/) [she](/post/she/) refused [to](/post/to/) [read](/post/read/) [any](/post/any/) materials [that](/post/that/) [might](/post/might/) [challenge](/post/challenge/) [her](/post/her/) beliefs."
 
 ## Phrases
-- "Ignorance is bliss": [This](/en/post/this/) proverb suggests [that](/en/post/that/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [better](/en/post/better/) [not](/en/post/not/) [to](/en/post/to/) [know](/en/post/know/) [certain](/en/post/certain/) things [because](/en/post/because/) [knowledge](/en/post/knowledge/) [may](/en/post/may/) [bring](/en/post/bring/) discomfort [or](/en/post/or/) [worry](/en/post/worry/).
-- "[To](/en/post/to/) [remain](/en/post/remain/) [ignorant](/en/post/ignorant/)": [To](/en/post/to/) [continue](/en/post/continue/) [to](/en/post/to/) [lack](/en/post/lack/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) [information](/en/post/information/) [about](/en/post/about/) [something](/en/post/something/) [despite](/en/post/despite/) opportunities [to](/en/post/to/) [learn](/en/post/learn/).
-- "[In](/en/post/in/) one's ignorance": [Due](/en/post/due/) [to](/en/post/to/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) [understanding](/en/post/understanding/) [about](/en/post/about/) [something](/en/post/something/).
+- "Ignorance is bliss": [This](/post/this/) proverb suggests [that](/post/that/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [better](/post/better/) [not](/post/not/) [to](/post/to/) [know](/post/know/) [certain](/post/certain/) things [because](/post/because/) [knowledge](/post/knowledge/) [may](/post/may/) [bring](/post/bring/) discomfort [or](/post/or/) [worry](/post/worry/).
+- "[To](/post/to/) [remain](/post/remain/) [ignorant](/post/ignorant/)": [To](/post/to/) [continue](/post/continue/) [to](/post/to/) [lack](/post/lack/) [knowledge](/post/knowledge/) [or](/post/or/) [information](/post/information/) [about](/post/about/) [something](/post/something/) [despite](/post/despite/) opportunities [to](/post/to/) [learn](/post/learn/).
+- "[In](/post/in/) one's ignorance": [Due](/post/due/) [to](/post/to/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [knowledge](/post/knowledge/) [or](/post/or/) [understanding](/post/understanding/) [about](/post/about/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Despite](/en/post/despite/) [being](/en/post/being/) [highly](/en/post/highly/) educated, [he](/en/post/he/) was [ignorant](/en/post/ignorant/) [of](/en/post/of/) [the](/en/post/the/) [local](/en/post/local/) customs [when](/en/post/when/) [he](/en/post/he/) moved [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) [country](/en/post/country/)."
-- **[Adjective](/en/post/adjective/) (informal)**: "[Her](/en/post/her/) arrogant [attitude](/en/post/attitude/) stemmed [from](/en/post/from/) [her](/en/post/her/) ignorance [about](/en/post/about/) [the](/en/post/the/) complexities [of](/en/post/of/) [the](/en/post/the/) [issue](/en/post/issue/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Despite](/post/despite/) [being](/post/being/) [highly](/post/highly/) educated, [he](/post/he/) was [ignorant](/post/ignorant/) [of](/post/of/) [the](/post/the/) [local](/post/local/) customs [when](/post/when/) [he](/post/he/) moved [to](/post/to/) [the](/post/the/) [new](/post/new/) [country](/post/country/)."
+- **[Adjective](/post/adjective/) (informal)**: "[Her](/post/her/) arrogant [attitude](/post/attitude/) stemmed [from](/post/from/) [her](/post/her/) ignorance [about](/post/about/) [the](/post/the/) complexities [of](/post/of/) [the](/post/the/) [issue](/post/issue/)."
 
 ## Synonyms
 - Uninformed
@@ -41,5 +41,5 @@ Antonyms:
 - Informed
 - Knowledgeable
 - Educated
-- [Aware](/en/post/aware/)
+- [Aware](/post/aware/)
 - Enlightened

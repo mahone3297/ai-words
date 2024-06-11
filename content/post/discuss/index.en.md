@@ -7,43 +7,43 @@ description = '[disˈkʌs] vt.讨论，谈论；论述'
 keywords = ['ai words', 'discuss']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈskʌs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) related [to](/en/post/to/) '[discuss](/en/post/discuss/)' [can](/en/post/can/) [be](/en/post/be/):
-- **[Discussion](/en/post/discussion/)**: An extended [conversation](/en/post/conversation/) [or](/en/post/or/) [debate](/en/post/debate/) [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [topic](/en/post/topic/). [Example](/en/post/example/): "[The](/en/post/the/) [class](/en/post/class/) had [a](/en/post/a/) [lively](/en/post/lively/) [discussion](/en/post/discussion/) [about](/en/post/about/) [climate](/en/post/climate/) [change](/en/post/change/)."
-- **[Issue](/en/post/issue/)**: [A](/en/post/a/) [topic](/en/post/topic/) [or](/en/post/or/) [problem](/en/post/problem/) [that](/en/post/that/) is [being](/en/post/being/) debated [or](/en/post/or/) considered. [Example](/en/post/example/): "[The](/en/post/the/) budget is [a](/en/post/a/) [major](/en/post/major/) [issue](/en/post/issue/) [for](/en/post/for/) [the](/en/post/the/) upcoming [meeting](/en/post/meeting/)."
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) related [to](/post/to/) '[discuss](/post/discuss/)' [can](/post/can/) [be](/post/be/):
+- **[Discussion](/post/discussion/)**: An extended [conversation](/post/conversation/) [or](/post/or/) [debate](/post/debate/) [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [topic](/post/topic/). [Example](/post/example/): "[The](/post/the/) [class](/post/class/) had [a](/post/a/) [lively](/post/lively/) [discussion](/post/discussion/) [about](/post/about/) [climate](/post/climate/) [change](/post/change/)."
+- **[Issue](/post/issue/)**: [A](/post/a/) [topic](/post/topic/) [or](/post/or/) [problem](/post/problem/) [that](/post/that/) is [being](/post/being/) debated [or](/post/or/) considered. [Example](/post/example/): "[The](/post/the/) budget is [a](/post/a/) [major](/post/major/) [issue](/post/issue/) [for](/post/for/) [the](/post/the/) upcoming [meeting](/post/meeting/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [discuss](/en/post/discuss/)**: [To](/en/post/to/) [examine](/en/post/examine/), [talk](/en/post/talk/) [about](/en/post/about/), [or](/en/post/or/) [debate](/en/post/debate/) [a](/en/post/a/) [subject](/en/post/subject/) [in](/en/post/in/) [detail](/en/post/detail/). [Example](/en/post/example/): "[We](/en/post/we/) [will](/en/post/will/) [discuss](/en/post/discuss/) [the](/en/post/the/) project's [progress](/en/post/progress/) [tomorrow](/en/post/tomorrow/)."
-- **Dialogue**: [A](/en/post/a/) [conversation](/en/post/conversation/) [between](/en/post/between/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) [people](/en/post/people/). [Example](/en/post/example/): "[Their](/en/post/their/) discussions [often](/en/post/often/) led [to](/en/post/to/) [new](/en/post/new/) insights."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [discuss](/post/discuss/)**: [To](/post/to/) [examine](/post/examine/), [talk](/post/talk/) [about](/post/about/), [or](/post/or/) [debate](/post/debate/) [a](/post/a/) [subject](/post/subject/) [in](/post/in/) [detail](/post/detail/). [Example](/post/example/): "[We](/post/we/) [will](/post/will/) [discuss](/post/discuss/) [the](/post/the/) project's [progress](/post/progress/) [tomorrow](/post/tomorrow/)."
+- **Dialogue**: [A](/post/a/) [conversation](/post/conversation/) [between](/post/between/) [two](/post/two/) [or](/post/or/) [more](/post/more/) [people](/post/people/). [Example](/post/example/): "[Their](/post/their/) discussions [often](/post/often/) led [to](/post/to/) [new](/post/new/) insights."
 
-### [Adjective](/en/post/adjective/)
-- **Discursive**: Characterized [by](/en/post/by/) digressions [or](/en/post/or/) wandering [from](/en/post/from/) [the](/en/post/the/) [main](/en/post/main/) [point](/en/post/point/). [Example](/en/post/example/): "[His](/en/post/his/) [writing](/en/post/writing/) [style](/en/post/style/) is [often](/en/post/often/) discursive, exploring [multiple](/en/post/multiple/) ideas."
+### [Adjective](/post/adjective/)
+- **Discursive**: Characterized [by](/post/by/) digressions [or](/post/or/) wandering [from](/post/from/) [the](/post/the/) [main](/post/main/) [point](/post/point/). [Example](/post/example/): "[His](/post/his/) [writing](/post/writing/) [style](/post/style/) is [often](/post/often/) discursive, exploring [multiple](/post/multiple/) ideas."
 
-### [Adverb](/en/post/adverb/)
-- **Discussively**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [of](/en/post/of/) discussing [or](/en/post/or/) debating. [Example](/en/post/example/): "[They](/en/post/they/) discussed [the](/en/post/the/) [topic](/en/post/topic/) discussively, sharing [their](/en/post/their/) opinions openly."
+### [Adverb](/post/adverb/)
+- **Discussively**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [of](/post/of/) discussing [or](/post/or/) debating. [Example](/post/example/): "[They](/post/they/) discussed [the](/post/the/) [topic](/post/topic/) discussively, sharing [their](/post/their/) opinions openly."
 
 ## Phrases
-- "[Open](/en/post/open/) [discussion](/en/post/discussion/)" refers [to](/en/post/to/) [a](/en/post/a/) [conversation](/en/post/conversation/) [where](/en/post/where/) [all](/en/post/all/) viewpoints are [welcome](/en/post/welcome/).
-- "[Have](/en/post/have/) [a](/en/post/a/) [discussion](/en/post/discussion/)" [means](/en/post/means/) [to](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [conversation](/en/post/conversation/) [about](/en/post/about/) [a](/en/post/a/) [topic](/en/post/topic/).
-- "[Discussion](/en/post/discussion/) forum" is [a](/en/post/a/) [platform](/en/post/platform/) [for](/en/post/for/) [people](/en/post/people/) [to](/en/post/to/) [share](/en/post/share/) thoughts [and](/en/post/and/) ideas [on](/en/post/on/) [various](/en/post/various/) subjects.
+- "[Open](/post/open/) [discussion](/post/discussion/)" refers [to](/post/to/) [a](/post/a/) [conversation](/post/conversation/) [where](/post/where/) [all](/post/all/) viewpoints are [welcome](/post/welcome/).
+- "[Have](/post/have/) [a](/post/a/) [discussion](/post/discussion/)" [means](/post/means/) [to](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [conversation](/post/conversation/) [about](/post/about/) [a](/post/a/) [topic](/post/topic/).
+- "[Discussion](/post/discussion/) forum" is [a](/post/a/) [platform](/post/platform/) [for](/post/for/) [people](/post/people/) [to](/post/to/) [share](/post/share/) thoughts [and](/post/and/) ideas [on](/post/on/) [various](/post/various/) subjects.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) students were encouraged [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [the](/en/post/the/) [classroom](/en/post/classroom/) [discussion](/en/post/discussion/)."
-- **[Verb](/en/post/verb/)**: "We'll [discuss](/en/post/discuss/) [the](/en/post/the/) pros [and](/en/post/and/) cons [of](/en/post/of/) [the](/en/post/the/) [proposal](/en/post/proposal/) [at](/en/post/at/) [the](/en/post/the/) [next](/en/post/next/) [meeting](/en/post/meeting/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [essay](/en/post/essay/) was discursively structured, [with](/en/post/with/) [many](/en/post/many/) tangents [on](/en/post/on/) related themes."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) spoke discussively, engaging [his](/en/post/his/) [audience](/en/post/audience/) [with](/en/post/with/) [thoughtful](/en/post/thoughtful/) questions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) students were encouraged [to](/post/to/) [participate](/post/participate/) [in](/post/in/) [the](/post/the/) [classroom](/post/classroom/) [discussion](/post/discussion/)."
+- **[Verb](/post/verb/)**: "We'll [discuss](/post/discuss/) [the](/post/the/) pros [and](/post/and/) cons [of](/post/of/) [the](/post/the/) [proposal](/post/proposal/) [at](/post/at/) [the](/post/the/) [next](/post/next/) [meeting](/post/meeting/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [essay](/post/essay/) was discursively structured, [with](/post/with/) [many](/post/many/) tangents [on](/post/on/) related themes."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) spoke discussively, engaging [his](/post/his/) [audience](/post/audience/) [with](/post/with/) [thoughtful](/post/thoughtful/) questions."
 
 ## Synonyms
-- [Talk](/en/post/talk/) [over](/en/post/over/)
-- [Debate](/en/post/debate/)
-- [Examine](/en/post/examine/)
-- Delve [into](/en/post/into/)
-- [Consider](/en/post/consider/)
+- [Talk](/post/talk/) [over](/post/over/)
+- [Debate](/post/debate/)
+- [Examine](/post/examine/)
+- Delve [into](/post/into/)
+- [Consider](/post/consider/)
 - Converse
-- [Consult](/en/post/consult/)
-- [Argue](/en/post/argue/)
-- [Engage](/en/post/engage/) [in](/en/post/in/) dialogue
+- [Consult](/post/consult/)
+- [Argue](/post/argue/)
+- [Engage](/post/engage/) [in](/post/in/) dialogue

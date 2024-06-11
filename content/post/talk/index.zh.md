@@ -11,21 +11,21 @@ keywords = ['ai words', 'talk']
 /tɔːk/
 
 ## 释义
-- **动词**: 谈话；交谈。例如: "[They](/post/they/) spent hours talking [about](/post/about/) [their](/post/their/) shared interests."
-- **名词**: 谈话；演讲。例如: "[The](/post/the/) [teacher](/post/teacher/) gave an inspiring [talk](/post/talk/) [on](/post/on/) [the](/post/the/) [importance](/post/importance/) [of](/post/of/) perseverance."
+- **动词**: 谈话；交谈。例如: "[They](/zh/post/they/) spent hours talking [about](/zh/post/about/) [their](/zh/post/their/) shared interests."
+- **名词**: 谈话；演讲。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) gave an inspiring [talk](/zh/post/talk/) [on](/zh/post/on/) [the](/zh/post/the/) [importance](/zh/post/importance/) [of](/zh/post/of/) perseverance."
 
 ## 短语
-- "[Small](/post/small/) [talk](/post/talk/)" 意为闲聊。
-- "[Talk](/post/talk/) [show](/post/show/)" 是一种电视或广播节目形式，以访谈为主。
-- "[Give](/post/give/) [a](/post/a/) [talk](/post/talk/)" 指做一次演讲或讲解。
+- "[Small](/zh/post/small/) [talk](/zh/post/talk/)" 意为闲聊。
+- "[Talk](/zh/post/talk/) [show](/zh/post/show/)" 是一种电视或广播节目形式，以访谈为主。
+- "[Give](/zh/post/give/) [a](/zh/post/a/) [talk](/zh/post/talk/)" 指做一次演讲或讲解。
 
 ## 例句
-- 动词: "Let's [talk](/post/talk/) [about](/post/about/) [your](/post/your/) plans [for](/post/for/) [the](/post/the/) [weekend](/post/weekend/)."
-- 名词: "[She](/post/she/) attended [a](/post/a/) [talk](/post/talk/) [on](/post/on/) renewable [energy](/post/energy/) sources."
+- 动词: "Let's [talk](/zh/post/talk/) [about](/zh/post/about/) [your](/zh/post/your/) plans [for](/zh/post/for/) [the](/zh/post/the/) [weekend](/zh/post/weekend/)."
+- 名词: "[She](/zh/post/she/) attended [a](/zh/post/a/) [talk](/zh/post/talk/) [on](/zh/post/on/) renewable [energy](/zh/post/energy/) sources."
 
 ## 同义词
-- [Speak](/post/speak/)
+- [Speak](/zh/post/speak/)
 - Chat
 - Converse
-- [Discuss](/post/discuss/)
+- [Discuss](/zh/post/discuss/)
 - Discourse

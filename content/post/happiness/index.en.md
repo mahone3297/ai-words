@@ -7,34 +7,34 @@ description = '[ˈhæpinis] n.幸福，幸运；快乐'
 keywords = ['ai words', 'happiness']
 +++
 
-## [Word](/en/post/word/): [Happiness](/en/post/happiness/)
+## [Word](/post/word/): [Happiness](/post/happiness/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhæpɪnəs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [happy](/en/post/happy/); [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [joy](/en/post/joy/), contentment, [satisfaction](/en/post/satisfaction/), [or](/en/post/or/) [pleasure](/en/post/pleasure/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) well-being [and](/en/post/and/) fulfillment [that](/en/post/that/) comes [from](/en/post/from/) [living](/en/post/living/) [a](/en/post/a/) [good](/en/post/good/) [life](/en/post/life/) [or](/en/post/or/) achieving one's goals. 
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [happy](/post/happy/); [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [joy](/post/joy/), contentment, [satisfaction](/post/satisfaction/), [or](/post/or/) [pleasure](/post/pleasure/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) well-being [and](/post/and/) fulfillment [that](/post/that/) comes [from](/post/from/) [living](/post/living/) [a](/post/a/) [good](/post/good/) [life](/post/life/) [or](/post/or/) achieving one's goals. 
 
 ### Examples
-- _Noun ([state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/))_: "[The](/en/post/the/) [mere](/en/post/mere/) [sight](/en/post/sight/) [of](/en/post/of/) [her](/en/post/her/) grandchildren brought [immense](/en/post/immense/) [happiness](/en/post/happiness/) [to](/en/post/to/) [her](/en/post/her/) [heart](/en/post/heart/)."
-- _Noun ([feeling](/en/post/feeling/))_: "[Finding](/en/post/finding/) [true](/en/post/true/) [happiness](/en/post/happiness/) [often](/en/post/often/) involves [a](/en/post/a/) [journey](/en/post/journey/) [of](/en/post/of/) self-discovery [and](/en/post/and/) [acceptance](/en/post/acceptance/)."
-- _Noun (fulfillment)_ : "[For](/en/post/for/) [him](/en/post/him/), [happiness](/en/post/happiness/) was [not](/en/post/not/) [about](/en/post/about/) [wealth](/en/post/wealth/) [but](/en/post/but/) [finding](/en/post/finding/) [purpose](/en/post/purpose/) [in](/en/post/in/) [his](/en/post/his/) [work](/en/post/work/)."
+- _Noun ([state](/post/state/) [of](/post/of/) [being](/post/being/))_: "[The](/post/the/) [mere](/post/mere/) [sight](/post/sight/) [of](/post/of/) [her](/post/her/) grandchildren brought [immense](/post/immense/) [happiness](/post/happiness/) [to](/post/to/) [her](/post/her/) [heart](/post/heart/)."
+- _Noun ([feeling](/post/feeling/))_: "[Finding](/post/finding/) [true](/post/true/) [happiness](/post/happiness/) [often](/post/often/) involves [a](/post/a/) [journey](/post/journey/) [of](/post/of/) self-discovery [and](/post/and/) [acceptance](/post/acceptance/)."
+- _Noun (fulfillment)_ : "[For](/post/for/) [him](/post/him/), [happiness](/post/happiness/) was [not](/post/not/) [about](/post/about/) [wealth](/post/wealth/) [but](/post/but/) [finding](/post/finding/) [purpose](/post/purpose/) [in](/post/in/) [his](/post/his/) [work](/post/work/)."
 
 ## Phrases
-- "[The](/en/post/the/) [pursuit](/en/post/pursuit/) [of](/en/post/of/) [happiness](/en/post/happiness/)" - [This](/en/post/this/) refers [to](/en/post/to/) [the](/en/post/the/) ongoing [search](/en/post/search/) [for](/en/post/for/) [a](/en/post/a/) fulfilling [and](/en/post/and/) satisfying [life](/en/post/life/), [often](/en/post/often/) mentioned [in](/en/post/in/) discussions [about](/en/post/about/) [human](/en/post/human/) rights [or](/en/post/or/) [personal](/en/post/personal/) [growth](/en/post/growth/).
-- "[Happiness](/en/post/happiness/) lies [within](/en/post/within/)" - [This](/en/post/this/) [expression](/en/post/expression/) suggests [that](/en/post/that/) [genuine](/en/post/genuine/) [happiness](/en/post/happiness/) comes [from](/en/post/from/) [internal](/en/post/internal/) factors [rather](/en/post/rather/) [than](/en/post/than/) [external](/en/post/external/) circumstances.
-- "[Money](/en/post/money/) can't [buy](/en/post/buy/) [happiness](/en/post/happiness/)" - [A](/en/post/a/) proverb suggesting [that](/en/post/that/) [material](/en/post/material/) possessions [do](/en/post/do/) [not](/en/post/not/) [guarantee](/en/post/guarantee/) [happiness](/en/post/happiness/).
+- "[The](/post/the/) [pursuit](/post/pursuit/) [of](/post/of/) [happiness](/post/happiness/)" - [This](/post/this/) refers [to](/post/to/) [the](/post/the/) ongoing [search](/post/search/) [for](/post/for/) [a](/post/a/) fulfilling [and](/post/and/) satisfying [life](/post/life/), [often](/post/often/) mentioned [in](/post/in/) discussions [about](/post/about/) [human](/post/human/) rights [or](/post/or/) [personal](/post/personal/) [growth](/post/growth/).
+- "[Happiness](/post/happiness/) lies [within](/post/within/)" - [This](/post/this/) [expression](/post/expression/) suggests [that](/post/that/) [genuine](/post/genuine/) [happiness](/post/happiness/) comes [from](/post/from/) [internal](/post/internal/) factors [rather](/post/rather/) [than](/post/than/) [external](/post/external/) circumstances.
+- "[Money](/post/money/) can't [buy](/post/buy/) [happiness](/post/happiness/)" - [A](/post/a/) proverb suggesting [that](/post/that/) [material](/post/material/) possessions [do](/post/do/) [not](/post/not/) [guarantee](/post/guarantee/) [happiness](/post/happiness/).
 
-## [Example](/en/post/example/) Sentences
-- _Noun_: "[Their](/en/post/their/) [ultimate](/en/post/ultimate/) [goal](/en/post/goal/) was [to](/en/post/to/) [find](/en/post/find/) lasting [happiness](/en/post/happiness/) [after](/en/post/after/) years [of](/en/post/of/) [hardship](/en/post/hardship/)."
-- _In [a](/en/post/a/) phrase_ : "[True](/en/post/true/) [happiness](/en/post/happiness/) does [not](/en/post/not/) [come](/en/post/come/) [from](/en/post/from/) seeking [more](/en/post/more/), [but](/en/post/but/) enjoying [what](/en/post/what/) [you](/en/post/you/) [already](/en/post/already/) [have](/en/post/have/)."
+## [Example](/post/example/) Sentences
+- _Noun_: "[Their](/post/their/) [ultimate](/post/ultimate/) [goal](/post/goal/) was [to](/post/to/) [find](/post/find/) lasting [happiness](/post/happiness/) [after](/post/after/) years [of](/post/of/) [hardship](/post/hardship/)."
+- _In [a](/post/a/) phrase_ : "[True](/post/true/) [happiness](/post/happiness/) does [not](/post/not/) [come](/post/come/) [from](/post/from/) seeking [more](/post/more/), [but](/post/but/) enjoying [what](/post/what/) [you](/post/you/) [already](/post/already/) [have](/post/have/)."
 
 ## Synonyms
-- [Joy](/en/post/joy/)
+- [Joy](/post/joy/)
 - Bliss
-- [Delight](/en/post/delight/)
+- [Delight](/post/delight/)
 - Contentment
-- [Satisfaction](/en/post/satisfaction/)
+- [Satisfaction](/post/satisfaction/)
 - Well-being
 - Ecstasy
 - Euphoria

@@ -7,28 +7,28 @@ description = '[ðen] ad.当时；然后；那么'
 keywords = ['ai words', 'then']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ðen/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [sequence](/en/post/sequence/) [of](/en/post/of/) events [or](/en/post/or/) [to](/en/post/to/) [show](/en/post/show/) [the](/en/post/the/) [relationship](/en/post/relationship/) [between](/en/post/between/) actions. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [a](/en/post/a/) [point](/en/post/point/) [or](/en/post/or/) [suggest](/en/post/suggest/) [a](/en/post/a/) [pause](/en/post/pause/).
-- **Interjection**: Expressing [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [time](/en/post/time/) ([then](/en/post/then/)), [agreement](/en/post/agreement/), [or](/en/post/or/) [emphasis](/en/post/emphasis/). [Can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [express](/en/post/express/) [a](/en/post/a/) [reaction](/en/post/reaction/).
+- **[Adverb](/post/adverb/)**: [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [sequence](/post/sequence/) [of](/post/of/) events [or](/post/or/) [to](/post/to/) [show](/post/show/) [the](/post/the/) [relationship](/post/relationship/) [between](/post/between/) actions. [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [a](/post/a/) [point](/post/point/) [or](/post/or/) [suggest](/post/suggest/) [a](/post/a/) [pause](/post/pause/).
+- **Interjection**: Expressing [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [time](/post/time/) ([then](/post/then/)), [agreement](/post/agreement/), [or](/post/or/) [emphasis](/post/emphasis/). [Can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [statement](/post/statement/) [or](/post/or/) [express](/post/express/) [a](/post/a/) [reaction](/post/reaction/).
 
 ## Phrases
-- "[Then](/en/post/then/) came [the](/en/post/the/) [rain](/en/post/rain/)" indicates [a](/en/post/a/) chronological [sequence](/en/post/sequence/).
-- "I'll [do](/en/post/do/) [it](/en/post/it/) [then](/en/post/then/)" signifies [intention](/en/post/intention/) [after](/en/post/after/) [some](/en/post/some/) hesitation [or](/en/post/or/) [delay](/en/post/delay/).
-- "[If](/en/post/if/) you're done [with](/en/post/with/) [that](/en/post/that/), [then](/en/post/then/) let's [move](/en/post/move/) [on](/en/post/on/)" suggests [a](/en/post/a/) [logical](/en/post/logical/) progression.
+- "[Then](/post/then/) came [the](/post/the/) [rain](/post/rain/)" indicates [a](/post/a/) chronological [sequence](/post/sequence/).
+- "I'll [do](/post/do/) [it](/post/it/) [then](/post/then/)" signifies [intention](/post/intention/) [after](/post/after/) [some](/post/some/) hesitation [or](/post/or/) [delay](/post/delay/).
+- "[If](/post/if/) you're done [with](/post/with/) [that](/post/that/), [then](/post/then/) let's [move](/post/move/) [on](/post/on/)" suggests [a](/post/a/) [logical](/post/logical/) progression.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[First](/en/post/first/), [we](/en/post/we/) [read](/en/post/read/) [the](/en/post/the/) instructions, [then](/en/post/then/) [we](/en/post/we/) assembled [the](/en/post/the/) [model](/en/post/model/)."
-- **Interjection**: "[Yes](/en/post/yes/), I [understand](/en/post/understand/). [Then](/en/post/then/), [how](/en/post/how/) [about](/en/post/about/) [we](/en/post/we/) [discuss](/en/post/discuss/) [the](/en/post/the/) [next](/en/post/next/) steps?"
-- "I was [just](/en/post/just/) [about](/en/post/about/) [to](/en/post/to/) [leave](/en/post/leave/) [when](/en/post/when/) [she](/en/post/she/) called; [then](/en/post/then/) [our](/en/post/our/) plans changed."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[First](/post/first/), [we](/post/we/) [read](/post/read/) [the](/post/the/) instructions, [then](/post/then/) [we](/post/we/) assembled [the](/post/the/) [model](/post/model/)."
+- **Interjection**: "[Yes](/post/yes/), I [understand](/post/understand/). [Then](/post/then/), [how](/post/how/) [about](/post/about/) [we](/post/we/) [discuss](/post/discuss/) [the](/post/the/) [next](/post/next/) steps?"
+- "I was [just](/post/just/) [about](/post/about/) [to](/post/to/) [leave](/post/leave/) [when](/post/when/) [she](/post/she/) called; [then](/post/then/) [our](/post/our/) plans changed."
 
 ## Synonyms
 - Subsequently
 - Afterwards
-- [Consequently](/en/post/consequently/)
-- [Hence](/en/post/hence/)
-- [Following](/en/post/following/) [that](/en/post/that/)
-- [In](/en/post/in/) [that](/en/post/that/) [case](/en/post/case/)
+- [Consequently](/post/consequently/)
+- [Hence](/post/hence/)
+- [Following](/post/following/) [that](/post/that/)
+- [In](/post/in/) [that](/post/that/) [case](/post/case/)
 - Thereupon

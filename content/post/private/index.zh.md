@@ -11,24 +11,24 @@ keywords = ['ai words', 'private']
 /ˈpraɪvət/
 
 ## 释义
-- **形容词**: 私人的，私有的，不公开的。例如: "[He](/post/he/) has [a](/post/a/) [private](/post/private/) [meeting](/post/meeting/) [with](/post/with/) [the](/post/the/) CEO."
-- **名词**: 私人，个人。例如: "[She](/post/she/) works [as](/post/as/) [a](/post/a/) [private](/post/private/) [tutor](/post/tutor/)."
-- **名词**: （军事）私立的，下士。例如: "[He](/post/he/) was [a](/post/a/) [private](/post/private/) [in](/post/in/) [the](/post/the/) [army](/post/army/)."
-- **动词**: 私下拥有，私人拥有。例如: "[The](/post/the/) [company](/post/company/) is privately owned."
+- **形容词**: 私人的，私有的，不公开的。例如: "[He](/zh/post/he/) has [a](/zh/post/a/) [private](/zh/post/private/) [meeting](/zh/post/meeting/) [with](/zh/post/with/) [the](/zh/post/the/) CEO."
+- **名词**: 私人，个人。例如: "[She](/zh/post/she/) works [as](/zh/post/as/) [a](/zh/post/a/) [private](/zh/post/private/) [tutor](/zh/post/tutor/)."
+- **名词**: （军事）私立的，下士。例如: "[He](/zh/post/he/) was [a](/zh/post/a/) [private](/zh/post/private/) [in](/zh/post/in/) [the](/zh/post/the/) [army](/zh/post/army/)."
+- **动词**: 私下拥有，私人拥有。例如: "[The](/zh/post/the/) [company](/zh/post/company/) is privately owned."
 
 ## 短语
-- "[private](/post/private/) [property](/post/property/)" 意为私有财产。
-- "[private](/post/private/) [conversation](/post/conversation/)" 指私下谈话。
-- "[private](/post/private/) [education](/post/education/)" 指私立教育。
+- "[private](/zh/post/private/) [property](/zh/post/property/)" 意为私有财产。
+- "[private](/zh/post/private/) [conversation](/zh/post/conversation/)" 指私下谈话。
+- "[private](/zh/post/private/) [education](/zh/post/education/)" 指私立教育。
 
 ## 例句
-- 形容词: "[The](/post/the/) [garden](/post/garden/) is [private](/post/private/) [and](/post/and/) [not](/post/not/) accessible [to](/post/to/) [the](/post/the/) [public](/post/public/)."
-- 名词: "[The](/post/the/) [new](/post/new/) recruit is [a](/post/a/) [private](/post/private/) [fresh](/post/fresh/) [out](/post/out/) [of](/post/of/) [boot](/post/boot/) [camp](/post/camp/)."
-- 动词: "[She](/post/she/) prefers [to](/post/to/) [keep](/post/keep/) [her](/post/her/) [medical](/post/medical/) [information](/post/information/) [private](/post/private/)."
+- 形容词: "[The](/zh/post/the/) [garden](/zh/post/garden/) is [private](/zh/post/private/) [and](/zh/post/and/) [not](/zh/post/not/) accessible [to](/zh/post/to/) [the](/zh/post/the/) [public](/zh/post/public/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) recruit is [a](/zh/post/a/) [private](/zh/post/private/) [fresh](/zh/post/fresh/) [out](/zh/post/out/) [of](/zh/post/of/) [boot](/zh/post/boot/) [camp](/zh/post/camp/)."
+- 动词: "[She](/zh/post/she/) prefers [to](/zh/post/to/) [keep](/zh/post/keep/) [her](/zh/post/her/) [medical](/zh/post/medical/) [information](/zh/post/information/) [private](/zh/post/private/)."
 
 ## 同义词
-- [Personal](/post/personal/)
+- [Personal](/zh/post/personal/)
 - Confidential
-- [Secret](/post/secret/)
-- [Individual](/post/individual/)
+- [Secret](/zh/post/secret/)
+- [Individual](/zh/post/individual/)
 - Exclusive

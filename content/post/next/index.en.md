@@ -7,32 +7,32 @@ description = '[nekst] a.紧接的；贴近的'
 keywords = ['ai words', 'next']
 +++
 
-# [Next](/en/post/next/)
+# [Next](/post/next/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /nekst/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Coming [after](/en/post/after/) [the](/en/post/the/) [one](/en/post/one/) [immediately](/en/post/immediately/) [preceding](/en/post/preceding/) [in](/en/post/in/) [time](/en/post/time/), [order](/en/post/order/), [or](/en/post/or/) [position](/en/post/position/); [following](/en/post/following/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [next](/en/post/next/) [chapter](/en/post/chapter/) deals [with](/en/post/with/) [advanced](/en/post/advanced/) concepts."
-- **[Adverb](/en/post/adverb/)**: [At](/en/post/at/) [the](/en/post/the/) [time](/en/post/time/), [place](/en/post/place/), [or](/en/post/or/) [position](/en/post/position/) [that](/en/post/that/) follows [immediately](/en/post/immediately/) [after](/en/post/after/) [the](/en/post/the/) [present](/en/post/present/) [one](/en/post/one/). [For](/en/post/for/) [example](/en/post/example/): "We'll [discuss](/en/post/discuss/) [that](/en/post/that/) [topic](/en/post/topic/) [next](/en/post/next/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) comes [after](/en/post/after/) [the](/en/post/the/) [one](/en/post/one/) [already](/en/post/already/) mentioned [or](/en/post/or/) [that](/en/post/that/) is nearest [or](/en/post/or/) [most](/en/post/most/) [obvious](/en/post/obvious/). [For](/en/post/for/) [example](/en/post/example/): "She's [the](/en/post/the/) [next](/en/post/next/) [in](/en/post/in/) [line](/en/post/line/) [for](/en/post/for/) promotion."
+- **[Adjective](/post/adjective/)**: Coming [after](/post/after/) [the](/post/the/) [one](/post/one/) [immediately](/post/immediately/) [preceding](/post/preceding/) [in](/post/in/) [time](/post/time/), [order](/post/order/), [or](/post/or/) [position](/post/position/); [following](/post/following/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [next](/post/next/) [chapter](/post/chapter/) deals [with](/post/with/) [advanced](/post/advanced/) concepts."
+- **[Adverb](/post/adverb/)**: [At](/post/at/) [the](/post/the/) [time](/post/time/), [place](/post/place/), [or](/post/or/) [position](/post/position/) [that](/post/that/) follows [immediately](/post/immediately/) [after](/post/after/) [the](/post/the/) [present](/post/present/) [one](/post/one/). [For](/post/for/) [example](/post/example/): "We'll [discuss](/post/discuss/) [that](/post/that/) [topic](/post/topic/) [next](/post/next/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) comes [after](/post/after/) [the](/post/the/) [one](/post/one/) [already](/post/already/) mentioned [or](/post/or/) [that](/post/that/) is nearest [or](/post/or/) [most](/post/most/) [obvious](/post/obvious/). [For](/post/for/) [example](/post/example/): "She's [the](/post/the/) [next](/post/next/) [in](/post/in/) [line](/post/line/) [for](/post/for/) promotion."
 
 ### Phrases
-- "[The](/en/post/the/) [next](/en/post/next/) [day](/en/post/day/)/[week](/en/post/week/)/[month](/en/post/month/)/[year](/en/post/year/)": Refers [to](/en/post/to/) [the](/en/post/the/) coming [day](/en/post/day/), [week](/en/post/week/), [month](/en/post/month/), [or](/en/post/or/) [year](/en/post/year/) [after](/en/post/after/) [the](/en/post/the/) [current](/en/post/current/) [one](/en/post/one/). [For](/en/post/for/) [example](/en/post/example/): "We're planning [to](/en/post/to/) [launch](/en/post/launch/) [the](/en/post/the/) [product](/en/post/product/) [next](/en/post/next/) [month](/en/post/month/)."
-- "[Next](/en/post/next/) [up](/en/post/up/)": Indicating [that](/en/post/that/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) is [about](/en/post/about/) [to](/en/post/to/) [happen](/en/post/happen/) [or](/en/post/or/) [be](/en/post/be/) dealt [with](/en/post/with/). [For](/en/post/for/) [example](/en/post/example/): "[Next](/en/post/next/) [up](/en/post/up/) [on](/en/post/on/) [the](/en/post/the/) agenda is [the](/en/post/the/) [financial](/en/post/financial/) [report](/en/post/report/)."
-- "[Next](/en/post/next/) [to](/en/post/to/)": Positioned [close](/en/post/close/) [to](/en/post/to/) [or](/en/post/or/) [immediately](/en/post/immediately/) adjoining. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sat [next](/en/post/next/) [to](/en/post/to/) [him](/en/post/him/) [during](/en/post/during/) [the](/en/post/the/) [movie](/en/post/movie/)."
+- "[The](/post/the/) [next](/post/next/) [day](/post/day/)/[week](/post/week/)/[month](/post/month/)/[year](/post/year/)": Refers [to](/post/to/) [the](/post/the/) coming [day](/post/day/), [week](/post/week/), [month](/post/month/), [or](/post/or/) [year](/post/year/) [after](/post/after/) [the](/post/the/) [current](/post/current/) [one](/post/one/). [For](/post/for/) [example](/post/example/): "We're planning [to](/post/to/) [launch](/post/launch/) [the](/post/the/) [product](/post/product/) [next](/post/next/) [month](/post/month/)."
+- "[Next](/post/next/) [up](/post/up/)": Indicating [that](/post/that/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) is [about](/post/about/) [to](/post/to/) [happen](/post/happen/) [or](/post/or/) [be](/post/be/) dealt [with](/post/with/). [For](/post/for/) [example](/post/example/): "[Next](/post/next/) [up](/post/up/) [on](/post/on/) [the](/post/the/) agenda is [the](/post/the/) [financial](/post/financial/) [report](/post/report/)."
+- "[Next](/post/next/) [to](/post/to/)": Positioned [close](/post/close/) [to](/post/to/) [or](/post/or/) [immediately](/post/immediately/) adjoining. [For](/post/for/) [example](/post/example/): "[She](/post/she/) sat [next](/post/next/) [to](/post/to/) [him](/post/him/) [during](/post/during/) [the](/post/the/) [movie](/post/movie/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "I'll [see](/en/post/see/) [you](/en/post/you/) [at](/en/post/at/) [the](/en/post/the/) [next](/en/post/next/) [meeting](/en/post/meeting/)."
-- **[Adverb](/en/post/adverb/)**: "We'll [go](/en/post/go/) [over](/en/post/over/) [the](/en/post/the/) rules [next](/en/post/next/)."
-- **[Noun](/en/post/noun/)**: "He's [the](/en/post/the/) [next](/en/post/next/) contestant [to](/en/post/to/) [take](/en/post/take/) [the](/en/post/the/) [stage](/en/post/stage/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "I'll [see](/post/see/) [you](/post/you/) [at](/post/at/) [the](/post/the/) [next](/post/next/) [meeting](/post/meeting/)."
+- **[Adverb](/post/adverb/)**: "We'll [go](/post/go/) [over](/post/over/) [the](/post/the/) rules [next](/post/next/)."
+- **[Noun](/post/noun/)**: "He's [the](/post/the/) [next](/post/next/) contestant [to](/post/to/) [take](/post/take/) [the](/post/the/) [stage](/post/stage/)."
 
 ## Synonyms
-- [Following](/en/post/following/)
-- [Subsequent](/en/post/subsequent/)
+- [Following](/post/following/)
+- [Subsequent](/post/subsequent/)
 - Upcoming
 - Adjacent
-- [Successive](/en/post/successive/)
+- [Successive](/post/successive/)
 - Sequential
-- [Afterward](/en/post/afterward/) ([adverb](/en/post/adverb/))
-- [Immediately](/en/post/immediately/) [following](/en/post/following/) ([adjective](/en/post/adjective/))
+- [Afterward](/post/afterward/) ([adverb](/post/adverb/))
+- [Immediately](/post/immediately/) [following](/post/following/) ([adjective](/post/adjective/))

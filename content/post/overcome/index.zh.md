@@ -12,13 +12,13 @@ keywords = ['ai words', 'overcome']
 
 ## 释义
 - **动词**:
-1. 克服；战胜。例如: "[She](/post/she/) overcame [her](/post/her/) [fear](/post/fear/) [of](/post/of/) [public](/post/public/) speaking."
-2. 度过（困难时期）。例如: "[They](/post/they/) managed [to](/post/to/) [overcome](/post/overcome/) [the](/post/the/) [financial](/post/financial/) [crisis](/post/crisis/)."
-3. 实现；完成。例如: "[The](/post/the/) [team](/post/team/) overcame [numerous](/post/numerous/) obstacles [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [project](/post/project/) [on](/post/on/) [time](/post/time/)."
+1. 克服；战胜。例如: "[She](/zh/post/she/) overcame [her](/zh/post/her/) [fear](/zh/post/fear/) [of](/zh/post/of/) [public](/zh/post/public/) speaking."
+2. 度过（困难时期）。例如: "[They](/zh/post/they/) managed [to](/zh/post/to/) [overcome](/zh/post/overcome/) [the](/zh/post/the/) [financial](/zh/post/financial/) [crisis](/zh/post/crisis/)."
+3. 实现；完成。例如: "[The](/zh/post/the/) [team](/zh/post/team/) overcame [numerous](/zh/post/numerous/) obstacles [to](/zh/post/to/) [complete](/zh/post/complete/) [the](/zh/post/the/) [project](/zh/post/project/) [on](/zh/post/on/) [time](/zh/post/time/)."
 
 ## 短语
-- "[overcome](/post/overcome/) [a](/post/a/) [challenge](/post/challenge/)" 克服挑战。
-- "[overcome](/post/overcome/) one's weaknesses" 改正或弥补自己的弱点。
+- "[overcome](/zh/post/overcome/) [a](/zh/post/a/) [challenge](/zh/post/challenge/)" 克服挑战。
+- "[overcome](/zh/post/overcome/) one's weaknesses" 改正或弥补自己的弱点。
 
 ## 例句
 - 她克服了内心的恐惧，成功地完成了演讲。
@@ -26,8 +26,8 @@ keywords = ['ai words', 'overcome']
 - 这个团队克服了许多困难，按时完成了任务。
 
 ## 同义词
-- [conquer](/post/conquer/)
-- [defeat](/post/defeat/)
+- [conquer](/zh/post/conquer/)
+- [defeat](/zh/post/defeat/)
 - surmount
-- [triumph](/post/triumph/) [over](/post/over/)
-- [prevail](/post/prevail/) [against](/post/against/)
+- [triumph](/zh/post/triumph/) [over](/zh/post/over/)
+- [prevail](/zh/post/prevail/) [against](/zh/post/against/)

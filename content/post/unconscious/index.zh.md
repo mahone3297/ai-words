@@ -11,21 +11,21 @@ keywords = ['ai words', 'unconscious']
 /ʌnˈkɑːnʃəs/
 
 ## 释义
-- **形容词**: 不知觉的；无意识的；失去知觉的。例如: "[He](/post/he/) fell [down](/post/down/) [and](/post/and/) was [unconscious](/post/unconscious/) [for](/post/for/) [a](/post/a/) [few](/post/few/) minutes."
-- **名词**: 失去知觉的状态。例如: "[She](/post/she/) came [to](/post/to/) [after](/post/after/) [a](/post/a/) [brief](/post/brief/) [period](/post/period/) [of](/post/of/) unconsciousness."
+- **形容词**: 不知觉的；无意识的；失去知觉的。例如: "[He](/zh/post/he/) fell [down](/zh/post/down/) [and](/zh/post/and/) was [unconscious](/zh/post/unconscious/) [for](/zh/post/for/) [a](/zh/post/a/) [few](/zh/post/few/) minutes."
+- **名词**: 失去知觉的状态。例如: "[She](/zh/post/she/) came [to](/zh/post/to/) [after](/zh/post/after/) [a](/zh/post/a/) [brief](/zh/post/brief/) [period](/zh/post/period/) [of](/zh/post/of/) unconsciousness."
 
 ## 短语
-- "[lose](/post/lose/) [consciousness](/post/consciousness/)" 意为失去知觉。
-- "[fall](/post/fall/) [unconscious](/post/unconscious/)" 表示突然失去意识。
-- "[in](/post/in/) an [unconscious](/post/unconscious/) [state](/post/state/)" 指处于无意识状态。
+- "[lose](/zh/post/lose/) [consciousness](/zh/post/consciousness/)" 意为失去知觉。
+- "[fall](/zh/post/fall/) [unconscious](/zh/post/unconscious/)" 表示突然失去意识。
+- "[in](/zh/post/in/) an [unconscious](/zh/post/unconscious/) [state](/zh/post/state/)" 指处于无意识状态。
 
 ## 例句
-- 形容词: "[The](/post/the/) [patient](/post/patient/) remained [unconscious](/post/unconscious/) [throughout](/post/throughout/) [the](/post/the/) [operation](/post/operation/)."
-- 名词: "[After](/post/after/) [the](/post/the/) [accident](/post/accident/), [he](/post/he/) was [in](/post/in/) an [unconscious](/post/unconscious/) [state](/post/state/) [for](/post/for/) [two](/post/two/) days."
+- 形容词: "[The](/zh/post/the/) [patient](/zh/post/patient/) remained [unconscious](/zh/post/unconscious/) [throughout](/zh/post/throughout/) [the](/zh/post/the/) [operation](/zh/post/operation/)."
+- 名词: "[After](/zh/post/after/) [the](/zh/post/the/) [accident](/zh/post/accident/), [he](/zh/post/he/) was [in](/zh/post/in/) an [unconscious](/zh/post/unconscious/) [state](/zh/post/state/) [for](/zh/post/for/) [two](/zh/post/two/) days."
 
 ## 同义词
 - Unaware
-- [Asleep](/post/asleep/)
+- [Asleep](/zh/post/asleep/)
 - Comatose
 - Inert
 - Senseless

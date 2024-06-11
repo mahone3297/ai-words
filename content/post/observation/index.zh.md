@@ -12,19 +12,19 @@ keywords = ['ai words', 'observation']
 
 ## 释义
 - **名词**:
-    - 观察；监视：[The](/post/the/) [act](/post/act/) [of](/post/of/) watching [or](/post/or/) paying [attention](/post/attention/) [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) carefully.
-    - 观察结果；观测：[The](/post/the/) [information](/post/information/) gained [through](/post/through/) [such](/post/such/) an [act](/post/act/) [of](/post/of/) watching.
+    - 观察；监视：[The](/zh/post/the/) [act](/zh/post/act/) [of](/zh/post/of/) watching [or](/zh/post/or/) paying [attention](/zh/post/attention/) [to](/zh/post/to/) [someone](/zh/post/someone/) [or](/zh/post/or/) [something](/zh/post/something/) carefully.
+    - 观察结果；观测：[The](/zh/post/the/) [information](/zh/post/information/) gained [through](/zh/post/through/) [such](/zh/post/such/) an [act](/zh/post/act/) [of](/zh/post/of/) watching.
 
 - **动词**:
-    - 观察；监视：[To](/post/to/) [watch](/post/watch/), [notice](/post/notice/), [or](/post/or/) [study](/post/study/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) carefully [over](/post/over/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/).
+    - 观察；监视：[To](/zh/post/to/) [watch](/zh/post/watch/), [notice](/zh/post/notice/), [or](/zh/post/or/) [study](/zh/post/study/) [someone](/zh/post/someone/) [or](/zh/post/or/) [something](/zh/post/something/) carefully [over](/zh/post/over/) [a](/zh/post/a/) [period](/zh/post/period/) [of](/zh/post/of/) [time](/zh/post/time/).
 
 ## 短语
-- "[make](/post/make/) an [observation](/post/observation/)" 意为做出观察或发表看法。
-- "[under](/post/under/) [observation](/post/observation/)" 表示处于被观察的状态，如在医学或科学实验中。
+- "[make](/zh/post/make/) an [observation](/zh/post/observation/)" 意为做出观察或发表看法。
+- "[under](/zh/post/under/) [observation](/zh/post/observation/)" 表示处于被观察的状态，如在医学或科学实验中。
 
 ## 例句
-- 名词: "[The](/post/the/) [scientist](/post/scientist/) recorded [his](/post/his/) observations [in](/post/in/) [a](/post/a/) [notebook](/post/notebook/)."
-- 动词: "[The](/post/the/) [patient](/post/patient/) is currently [under](/post/under/) [observation](/post/observation/) [in](/post/in/) [the](/post/the/) [hospital](/post/hospital/)."
+- 名词: "[The](/zh/post/the/) [scientist](/zh/post/scientist/) recorded [his](/zh/post/his/) observations [in](/zh/post/in/) [a](/zh/post/a/) [notebook](/zh/post/notebook/)."
+- 动词: "[The](/zh/post/the/) [patient](/zh/post/patient/) is currently [under](/zh/post/under/) [observation](/zh/post/observation/) [in](/zh/post/in/) [the](/zh/post/the/) [hospital](/zh/post/hospital/)."
 
 ## 同义词
 - watching

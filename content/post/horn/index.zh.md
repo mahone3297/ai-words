@@ -11,20 +11,20 @@ keywords = ['ai words', 'horn']
 /hɔrn/
 
 ## 释义
-- **名词 (n)**: 角状物，尤指动物（如牛、鹿）的角；喇叭，号角；汽车喇叭。例如: "[The](/post/the/) [deer](/post/deer/) had [a](/post/a/) [pair](/post/pair/) [of](/post/of/) [magnificent](/post/magnificent/) horns."，"[He](/post/he/) pressed [the](/post/the/) [car](/post/car/) [horn](/post/horn/) [to](/post/to/) alert [the](/post/the/) [driver](/post/driver/) [in](/post/in/) [front](/post/front/)."
-- **动词 (v)**: 吹号，发出类似号角的声音；强行进入，闯入。例如: "[The](/post/the/) [football](/post/football/) fans began [to](/post/to/) [horn](/post/horn/) [their](/post/their/) [support](/post/support/) [for](/post/for/) [the](/post/the/) [team](/post/team/)."，"[The](/post/the/) [crowd](/post/crowd/) horned [their](/post/their/) [way](/post/way/) [through](/post/through/) [the](/post/the/) [narrow](/post/narrow/) [street](/post/street/)."
+- **名词 (n)**: 角状物，尤指动物（如牛、鹿）的角；喇叭，号角；汽车喇叭。例如: "[The](/zh/post/the/) [deer](/zh/post/deer/) had [a](/zh/post/a/) [pair](/zh/post/pair/) [of](/zh/post/of/) [magnificent](/zh/post/magnificent/) horns."，"[He](/zh/post/he/) pressed [the](/zh/post/the/) [car](/zh/post/car/) [horn](/zh/post/horn/) [to](/zh/post/to/) alert [the](/zh/post/the/) [driver](/zh/post/driver/) [in](/zh/post/in/) [front](/zh/post/front/)."
+- **动词 (v)**: 吹号，发出类似号角的声音；强行进入，闯入。例如: "[The](/zh/post/the/) [football](/zh/post/football/) fans began [to](/zh/post/to/) [horn](/zh/post/horn/) [their](/zh/post/their/) [support](/zh/post/support/) [for](/zh/post/for/) [the](/zh/post/the/) [team](/zh/post/team/)."，"[The](/zh/post/the/) [crowd](/zh/post/crowd/) horned [their](/zh/post/their/) [way](/zh/post/way/) [through](/zh/post/through/) [the](/zh/post/the/) [narrow](/zh/post/narrow/) [street](/zh/post/street/)."
 
 ## 短语
-- "[horn](/post/horn/) [in](/post/in/) [on](/post/on/) [something](/post/something/)" 未经邀请或许可而加入或参与。例如: "Don't [horn](/post/horn/) [in](/post/in/) [on](/post/on/) [our](/post/our/) [conversation](/post/conversation/)."
-- "[blow](/post/blow/) [the](/post/the/) [horn](/post/horn/)" 按汽车喇叭。例如: "[When](/post/when/) [the](/post/the/) [traffic](/post/traffic/) [light](/post/light/) turned [green](/post/green/), [he](/post/he/) blew [the](/post/the/) [horn](/post/horn/) [to](/post/to/) [start](/post/start/) moving."
+- "[horn](/zh/post/horn/) [in](/zh/post/in/) [on](/zh/post/on/) [something](/zh/post/something/)" 未经邀请或许可而加入或参与。例如: "Don't [horn](/zh/post/horn/) [in](/zh/post/in/) [on](/zh/post/on/) [our](/zh/post/our/) [conversation](/zh/post/conversation/)."
+- "[blow](/zh/post/blow/) [the](/zh/post/the/) [horn](/zh/post/horn/)" 按汽车喇叭。例如: "[When](/zh/post/when/) [the](/zh/post/the/) [traffic](/zh/post/traffic/) [light](/zh/post/light/) turned [green](/zh/post/green/), [he](/zh/post/he/) blew [the](/zh/post/the/) [horn](/zh/post/horn/) [to](/zh/post/to/) [start](/zh/post/start/) moving."
 
 ## 例句
-- 名词: "[The](/post/the/) ram's horns were [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) [strength](/post/strength/) [in](/post/in/) [ancient](/post/ancient/) cultures."
-- 动词: "[The](/post/the/) excited [fan](/post/fan/) horned [his](/post/his/) car喇叭) loudly [after](/post/after/) [his](/post/his/) [team](/post/team/) scored."
+- 名词: "[The](/zh/post/the/) ram's horns were [a](/zh/post/a/) [symbol](/zh/post/symbol/) [of](/zh/post/of/) [strength](/zh/post/strength/) [in](/zh/post/in/) [ancient](/zh/post/ancient/) cultures."
+- 动词: "[The](/zh/post/the/) excited [fan](/zh/post/fan/) horned [his](/zh/post/his/) car喇叭) loudly [after](/zh/post/after/) [his](/zh/post/his/) [team](/zh/post/team/) scored."
 
 ## 同义词
-- [Corn](/post/corn/)
+- [Corn](/zh/post/corn/)
 - Antler
-- [Trumpet](/post/trumpet/)
-- Siren ([for](/post/for/) [the](/post/the/) [sound](/post/sound/) [of](/post/of/) [a](/post/a/) [car](/post/car/) [horn](/post/horn/))
-- Intrude ([for](/post/for/) [the](/post/the/) [act](/post/act/) [of](/post/of/) [horn](/post/horn/) [in](/post/in/) [on](/post/on/) [something](/post/something/))
+- [Trumpet](/zh/post/trumpet/)
+- Siren ([for](/zh/post/for/) [the](/zh/post/the/) [sound](/zh/post/sound/) [of](/zh/post/of/) [a](/zh/post/a/) [car](/zh/post/car/) [horn](/zh/post/horn/))
+- Intrude ([for](/zh/post/for/) [the](/zh/post/the/) [act](/zh/post/act/) [of](/zh/post/of/) [horn](/zh/post/horn/) [in](/zh/post/in/) [on](/zh/post/on/) [something](/zh/post/something/))

@@ -7,27 +7,27 @@ description = '[ˈrebəl] vi.造反 n.造反者'
 keywords = ['ai words', 'rebel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈbɛl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) opposes [or](/en/post/or/) resists [authority](/en/post/authority/) [or](/en/post/or/) established norms, [often](/en/post/often/) violently [or](/en/post/or/) openly.
-2. [Slang] [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) defies expectations [or](/en/post/or/) rules, typically [in](/en/post/in/) [a](/en/post/a/) non-violent [manner](/en/post/manner/).
+### [Noun](/post/noun/)
+1. [A](/post/a/) [person](/post/person/) [who](/post/who/) opposes [or](/post/or/) resists [authority](/post/authority/) [or](/post/or/) established norms, [often](/post/often/) violently [or](/post/or/) openly.
+2. [Slang] [A](/post/a/) [person](/post/person/) [who](/post/who/) defies expectations [or](/post/or/) rules, typically [in](/post/in/) [a](/post/a/) non-violent [manner](/post/manner/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [rise](/en/post/rise/) [up](/en/post/up/) [against](/en/post/against/) [authority](/en/post/authority/) [or](/en/post/or/) established [order](/en/post/order/), [often](/en/post/often/) [in](/en/post/in/) opposition.
-2. [To](/en/post/to/) [act](/en/post/act/) [in](/en/post/in/) defiance [or](/en/post/or/) disobedience, [especially](/en/post/especially/) [against](/en/post/against/) rules [or](/en/post/or/) conventions.
+### [Verb](/post/verb/)
+1. [To](/post/to/) [rise](/post/rise/) [up](/post/up/) [against](/post/against/) [authority](/post/authority/) [or](/post/or/) established [order](/post/order/), [often](/post/often/) [in](/post/in/) opposition.
+2. [To](/post/to/) [act](/post/act/) [in](/post/in/) defiance [or](/post/or/) disobedience, [especially](/post/especially/) [against](/post/against/) rules [or](/post/or/) conventions.
 
 ## Phrases
-- "[Rebel](/en/post/rebel/) [against](/en/post/against/)" indicates [resistance](/en/post/resistance/) [or](/en/post/or/) opposition.
-- "He's [a](/en/post/a/) [political](/en/post/political/) [rebel](/en/post/rebel/)" describes [someone](/en/post/someone/) [who](/en/post/who/) challenges [the](/en/post/the/) [status](/en/post/status/) quo politically.
-- "[Born](/en/post/born/) [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [rebel](/en/post/rebel/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [who](/en/post/who/) seems [naturally](/en/post/naturally/) inclined [to](/en/post/to/) defy [authority](/en/post/authority/).
+- "[Rebel](/post/rebel/) [against](/post/against/)" indicates [resistance](/post/resistance/) [or](/post/or/) opposition.
+- "He's [a](/post/a/) [political](/post/political/) [rebel](/post/rebel/)" describes [someone](/post/someone/) [who](/post/who/) challenges [the](/post/the/) [status](/post/status/) quo politically.
+- "[Born](/post/born/) [to](/post/to/) [be](/post/be/) [a](/post/a/) [rebel](/post/rebel/)" is [a](/post/a/) [phrase](/post/phrase/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [who](/post/who/) seems [naturally](/post/naturally/) inclined [to](/post/to/) defy [authority](/post/authority/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [young](/en/post/young/) rebels marched [through](/en/post/through/) [the](/en/post/the/) streets, demanding [change](/en/post/change/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) rebelled [against](/en/post/against/) [her](/en/post/her/) father's [strict](/en/post/strict/) rules."
-- **[Sentence](/en/post/sentence/) [with](/en/post/with/) [rebel](/en/post/rebel/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) working [in](/en/post/in/) [a](/en/post/a/) corporate [job](/en/post/job/), [he](/en/post/he/) decided [to](/en/post/to/) [rebel](/en/post/rebel/) [and](/en/post/and/) [start](/en/post/start/) [his](/en/post/his/) [own](/en/post/own/) [business](/en/post/business/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [young](/post/young/) rebels marched [through](/post/through/) [the](/post/the/) streets, demanding [change](/post/change/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) rebelled [against](/post/against/) [her](/post/her/) father's [strict](/post/strict/) rules."
+- **[Sentence](/post/sentence/) [with](/post/with/) [rebel](/post/rebel/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "[After](/post/after/) years [of](/post/of/) working [in](/post/in/) [a](/post/a/) corporate [job](/post/job/), [he](/post/he/) decided [to](/post/to/) [rebel](/post/rebel/) [and](/post/and/) [start](/post/start/) [his](/post/his/) [own](/post/own/) [business](/post/business/)."
 
 ## Synonyms
 - Dissident

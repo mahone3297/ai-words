@@ -7,32 +7,32 @@ description = '[smɔg] n.烟雾'
 keywords = ['ai words', 'smog']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /smɒg/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) [smoke](/en/post/smoke/) [and](/en/post/and/) [fog](/en/post/fog/), [particularly](/en/post/particularly/) [from](/en/post/from/) [industrial](/en/post/industrial/) [pollution](/en/post/pollution/), [that](/en/post/that/) hovers [over](/en/post/over/) urban areas. 
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) caused [by](/en/post/by/) [smog](/en/post/smog/), having [a](/en/post/a/) [dark](/en/post/dark/), hazy [appearance](/en/post/appearance/) [due](/en/post/due/) [to](/en/post/to/) [air](/en/post/air/) [pollution](/en/post/pollution/). 
+- **[Noun](/post/noun/)**: [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [mixture](/post/mixture/) [of](/post/of/) [smoke](/post/smoke/) [and](/post/and/) [fog](/post/fog/), [particularly](/post/particularly/) [from](/post/from/) [industrial](/post/industrial/) [pollution](/post/pollution/), [that](/post/that/) hovers [over](/post/over/) urban areas. 
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) caused [by](/post/by/) [smog](/post/smog/), having [a](/post/a/) [dark](/post/dark/), hazy [appearance](/post/appearance/) [due](/post/due/) [to](/post/to/) [air](/post/air/) [pollution](/post/pollution/). 
 
 ## Phrases
-- "Suffering [from](/en/post/from/) [smog](/en/post/smog/)" denotes [poor](/en/post/poor/) [air](/en/post/air/) [quality](/en/post/quality/) [due](/en/post/due/) [to](/en/post/to/) [pollution](/en/post/pollution/).
-- "Clearing [the](/en/post/the/) [smog](/en/post/smog/)" [means](/en/post/means/) removing [or](/en/post/or/) reducing [the](/en/post/the/) haze caused [by](/en/post/by/) pollutants.
-- "[A](/en/post/a/) [day](/en/post/day/) [with](/en/post/with/) [heavy](/en/post/heavy/) [smog](/en/post/smog/)" refers [to](/en/post/to/) [a](/en/post/a/) [day](/en/post/day/) [with](/en/post/with/) [poor](/en/post/poor/) visibility [due](/en/post/due/) [to](/en/post/to/) [atmospheric](/en/post/atmospheric/) [pollution](/en/post/pollution/).
+- "Suffering [from](/post/from/) [smog](/post/smog/)" denotes [poor](/post/poor/) [air](/post/air/) [quality](/post/quality/) [due](/post/due/) [to](/post/to/) [pollution](/post/pollution/).
+- "Clearing [the](/post/the/) [smog](/post/smog/)" [means](/post/means/) removing [or](/post/or/) reducing [the](/post/the/) haze caused [by](/post/by/) pollutants.
+- "[A](/post/a/) [day](/post/day/) [with](/post/with/) [heavy](/post/heavy/) [smog](/post/smog/)" refers [to](/post/to/) [a](/post/a/) [day](/post/day/) [with](/post/with/) [poor](/post/poor/) visibility [due](/post/due/) [to](/post/to/) [atmospheric](/post/atmospheric/) [pollution](/post/pollution/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [city](/en/post/city/) was blanketed [in](/en/post/in/) [a](/en/post/a/) [thick](/en/post/thick/) [smog](/en/post/smog/), making [it](/en/post/it/) [difficult](/en/post/difficult/) [to](/en/post/to/) [see](/en/post/see/) [the](/en/post/the/) skyline."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) smoggy [weather](/en/post/weather/) made [it](/en/post/it/) [hard](/en/post/hard/) [to](/en/post/to/) [enjoy](/en/post/enjoy/) [the](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) rooftop."
-- "[The](/en/post/the/) [government](/en/post/government/) implemented measures [to](/en/post/to/) combat [the](/en/post/the/) persistent [smog](/en/post/smog/) [problem](/en/post/problem/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [city](/post/city/) was blanketed [in](/post/in/) [a](/post/a/) [thick](/post/thick/) [smog](/post/smog/), making [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [see](/post/see/) [the](/post/the/) skyline."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) smoggy [weather](/post/weather/) made [it](/post/it/) [hard](/post/hard/) [to](/post/to/) [enjoy](/post/enjoy/) [the](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) rooftop."
+- "[The](/post/the/) [government](/post/government/) implemented measures [to](/post/to/) combat [the](/post/the/) persistent [smog](/post/smog/) [problem](/post/problem/)."
 
 ## Synonyms
-- [Air](/en/post/air/) [pollution](/en/post/pollution/)
+- [Air](/post/air/) [pollution](/post/pollution/)
 - Haze
-- Foul [air](/en/post/air/)
+- Foul [air](/post/air/)
 - Smoky haze
-- [Atmospheric](/en/post/atmospheric/) contamination
+- [Atmospheric](/post/atmospheric/) contamination
 
 ## Antonyms
-- [Clear](/en/post/clear/) [air](/en/post/air/)
+- [Clear](/post/clear/) [air](/post/air/)
 - Freshness
 - Cleanliness
 - Transparency

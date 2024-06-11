@@ -7,38 +7,38 @@ description = '[ˈstreŋθən] vt.加强，巩固'
 keywords = ['ai words', 'strengthen']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /streɪnθən/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: n. [[strengthen](/en/post/strengthen/)·er] v. [[strengthen](/en/post/strengthen/)]
-  - **[Verb](/en/post/verb/) (transitive)**: [To](/en/post/to/) [make](/en/post/make/) [or](/en/post/or/) [become](/en/post/become/) stronger, firmer, [or](/en/post/or/) [more](/en/post/more/) [solid](/en/post/solid/); [to](/en/post/to/) [reinforce](/en/post/reinforce/) [or](/en/post/or/) augment [the](/en/post/the/) [strength](/en/post/strength/) [or](/en/post/or/) resilience [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [athlete](/en/post/athlete/) worked [out](/en/post/out/) [to](/en/post/to/) [strengthen](/en/post/strengthen/) [their](/en/post/their/) muscles."
-  - **[Verb](/en/post/verb/) (intransitive)**: [To](/en/post/to/) [increase](/en/post/increase/) one's [own](/en/post/own/) [strength](/en/post/strength/) [or](/en/post/or/) [resolve](/en/post/resolve/). [Example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [strengthen](/en/post/strengthen/) [her](/en/post/her/) [resolve](/en/post/resolve/) [after](/en/post/after/) facing setbacks."
-  - **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) contributing [to](/en/post/to/) [strength](/en/post/strength/) [or](/en/post/or/) reinforcement. [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) materials [will](/en/post/will/) significantly [strengthen](/en/post/strengthen/) [the](/en/post/the/) [bridge](/en/post/bridge/)."
+- **[Verb](/post/verb/)**: n. [[strengthen](/post/strengthen/)·er] v. [[strengthen](/post/strengthen/)]
+  - **[Verb](/post/verb/) (transitive)**: [To](/post/to/) [make](/post/make/) [or](/post/or/) [become](/post/become/) stronger, firmer, [or](/post/or/) [more](/post/more/) [solid](/post/solid/); [to](/post/to/) [reinforce](/post/reinforce/) [or](/post/or/) augment [the](/post/the/) [strength](/post/strength/) [or](/post/or/) resilience [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [athlete](/post/athlete/) worked [out](/post/out/) [to](/post/to/) [strengthen](/post/strengthen/) [their](/post/their/) muscles."
+  - **[Verb](/post/verb/) (intransitive)**: [To](/post/to/) [increase](/post/increase/) one's [own](/post/own/) [strength](/post/strength/) [or](/post/or/) [resolve](/post/resolve/). [Example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [strengthen](/post/strengthen/) [her](/post/her/) [resolve](/post/resolve/) [after](/post/after/) facing setbacks."
+  - **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) contributing [to](/post/to/) [strength](/post/strength/) [or](/post/or/) reinforcement. [Example](/post/example/): "[The](/post/the/) [new](/post/new/) materials [will](/post/will/) significantly [strengthen](/post/strengthen/) [the](/post/the/) [bridge](/post/bridge/)."
 
 ## Phrases
-- "[Strengthen](/en/post/strengthen/) [a](/en/post/a/) [bond](/en/post/bond/)" [means](/en/post/means/) [to](/en/post/to/) [reinforce](/en/post/reinforce/) [the](/en/post/the/) [connection](/en/post/connection/) [between](/en/post/between/) [people](/en/post/people/).
-- "[Strengthen](/en/post/strengthen/) one's immune [system](/en/post/system/)" is [about](/en/post/about/) boosting immunity.
-- "[A](/en/post/a/) [strong](/en/post/strong/) [foundation](/en/post/foundation/)" symbolizes [a](/en/post/a/) [solid](/en/post/solid/) [base](/en/post/base/) [or](/en/post/or/) [support](/en/post/support/).
+- "[Strengthen](/post/strengthen/) [a](/post/a/) [bond](/post/bond/)" [means](/post/means/) [to](/post/to/) [reinforce](/post/reinforce/) [the](/post/the/) [connection](/post/connection/) [between](/post/between/) [people](/post/people/).
+- "[Strengthen](/post/strengthen/) one's immune [system](/post/system/)" is [about](/post/about/) boosting immunity.
+- "[A](/post/a/) [strong](/post/strong/) [foundation](/post/foundation/)" symbolizes [a](/post/a/) [solid](/post/solid/) [base](/post/base/) [or](/post/or/) [support](/post/support/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (transitive)**: "[The](/en/post/the/) [carpenter](/en/post/carpenter/) strengthened [the](/en/post/the/) [frame](/en/post/frame/) [to](/en/post/to/) [ensure](/en/post/ensure/) [its](/en/post/its/) [stability](/en/post/stability/)."
-- **[Verb](/en/post/verb/) (intransitive)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [she](/en/post/she/) needed [to](/en/post/to/) [strengthen](/en/post/strengthen/) [herself](/en/post/herself/) [before](/en/post/before/) tackling [the](/en/post/the/) [project](/en/post/project/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) fortified walls [of](/en/post/of/) [the](/en/post/the/) [castle](/en/post/castle/) were [a](/en/post/a/) testament [to](/en/post/to/) [its](/en/post/its/) [strength](/en/post/strength/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (transitive)**: "[The](/post/the/) [carpenter](/post/carpenter/) strengthened [the](/post/the/) [frame](/post/frame/) [to](/post/to/) [ensure](/post/ensure/) [its](/post/its/) [stability](/post/stability/)."
+- **[Verb](/post/verb/) (intransitive)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [she](/post/she/) needed [to](/post/to/) [strengthen](/post/strengthen/) [herself](/post/herself/) [before](/post/before/) tackling [the](/post/the/) [project](/post/project/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) fortified walls [of](/post/of/) [the](/post/the/) [castle](/post/castle/) were [a](/post/a/) testament [to](/post/to/) [its](/post/its/) [strength](/post/strength/)."
 
 ## Synonyms
-- [Reinforce](/en/post/reinforce/)
+- [Reinforce](/post/reinforce/)
 - Fortify
 - Consolidate
 - Enhance
-- [Stiffen](/en/post/stiffen/)
-- [Strengthen](/en/post/strengthen/) [up](/en/post/up/)
-- [Build](/en/post/build/) [up](/en/post/up/)
-- [Improve](/en/post/improve/)
+- [Stiffen](/post/stiffen/)
+- [Strengthen](/post/strengthen/) [up](/post/up/)
+- [Build](/post/build/) [up](/post/up/)
+- [Improve](/post/improve/)
 
 ## Antonyms
-- [Weaken](/en/post/weaken/)
+- [Weaken](/post/weaken/)
 - Dilute
 - Diminish
 - Soften
-- [Emphasize](/en/post/emphasize/) ([in](/en/post/in/) [a](/en/post/a/) [different](/en/post/different/) context)
+- [Emphasize](/post/emphasize/) ([in](/post/in/) [a](/post/a/) [different](/post/different/) context)

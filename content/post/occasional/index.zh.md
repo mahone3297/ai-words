@@ -11,20 +11,20 @@ keywords = ['ai words', 'occasional']
 /əˈkeɪʒənl/
 
 ## 释义
-- **形容词**: 偶尔的，不经常的，非惯常的。例如: "[He](/post/he/) visits [his](/post/his/) parents [on](/post/on/) [occasional](/post/occasional/) weekends."
-- **名词**: 偶然事件，不时之需。例如: "[She](/post/she/) had [to](/post/to/) [handle](/post/handle/) [some](/post/some/) [occasional](/post/occasional/) [work](/post/work/) emergencies."
+- **形容词**: 偶尔的，不经常的，非惯常的。例如: "[He](/zh/post/he/) visits [his](/zh/post/his/) parents [on](/zh/post/on/) [occasional](/zh/post/occasional/) weekends."
+- **名词**: 偶然事件，不时之需。例如: "[She](/zh/post/she/) had [to](/zh/post/to/) [handle](/zh/post/handle/) [some](/zh/post/some/) [occasional](/zh/post/occasional/) [work](/zh/post/work/) emergencies."
 
 ## 短语
-- "[on](/post/on/) [occasion](/post/occasion/)" 意为有时，偶尔。例如: "I [go](/post/go/) running [on](/post/on/) [occasion](/post/occasion/) [when](/post/when/) [the](/post/the/) [weather](/post/weather/) is [nice](/post/nice/)."
-- "an [occasional](/post/occasional/) [visitor](/post/visitor/)" 指偶尔来访的人。
+- "[on](/zh/post/on/) [occasion](/zh/post/occasion/)" 意为有时，偶尔。例如: "I [go](/zh/post/go/) running [on](/zh/post/on/) [occasion](/zh/post/occasion/) [when](/zh/post/when/) [the](/zh/post/the/) [weather](/zh/post/weather/) is [nice](/zh/post/nice/)."
+- "an [occasional](/zh/post/occasional/) [visitor](/zh/post/visitor/)" 指偶尔来访的人。
 
 ## 例句
-- 形容词: "[She](/post/she/) works [from](/post/from/) [home](/post/home/) [on](/post/on/) [occasional](/post/occasional/) Fridays."
-- 名词: "[The](/post/the/) [restaurant](/post/restaurant/) offers [special](/post/special/) discounts [for](/post/for/) [occasional](/post/occasional/) customers."
+- 形容词: "[She](/zh/post/she/) works [from](/zh/post/from/) [home](/zh/post/home/) [on](/zh/post/on/) [occasional](/zh/post/occasional/) Fridays."
+- 名词: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) offers [special](/zh/post/special/) discounts [for](/zh/post/for/) [occasional](/zh/post/occasional/) customers."
 
 ## 同义词
 - Infrequent
-- [Occasional](/post/occasional/)
+- [Occasional](/zh/post/occasional/)
 - Sporadic
 - Uncommon
-- [Rare](/post/rare/)
+- [Rare](/zh/post/rare/)

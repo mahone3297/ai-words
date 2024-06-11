@@ -7,33 +7,33 @@ description = '[ˈsɔːsə] n.茶托，浅碟'
 keywords = ['ai words', 'saucer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈkɜːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [saucer](/en/post/saucer/) is [a](/en/post/a/) [small](/en/post/small/), [shallow](/en/post/shallow/) [dish](/en/post/dish/), typically made [of](/en/post/of/) ceramic [or](/en/post/or/) [another](/en/post/another/) [material](/en/post/material/), [that](/en/post/that/) is [used](/en/post/used/) [to](/en/post/to/) [hold](/en/post/hold/) [the](/en/post/the/) [bottom](/en/post/bottom/) [of](/en/post/of/) [a](/en/post/a/) [cup](/en/post/cup/) [or](/en/post/or/) [mug](/en/post/mug/), [often](/en/post/often/) [for](/en/post/for/) catching drips [or](/en/post/or/) serving [as](/en/post/as/) [a](/en/post/a/) coaster. [In](/en/post/in/) [some](/en/post/some/) contexts, [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) UFO-shaped [object](/en/post/object/) [in](/en/post/in/) [popular](/en/post/popular/) [culture](/en/post/culture/).
+### [Noun](/post/noun/)
+[A](/post/a/) [saucer](/post/saucer/) is [a](/post/a/) [small](/post/small/), [shallow](/post/shallow/) [dish](/post/dish/), typically made [of](/post/of/) ceramic [or](/post/or/) [another](/post/another/) [material](/post/material/), [that](/post/that/) is [used](/post/used/) [to](/post/to/) [hold](/post/hold/) [the](/post/the/) [bottom](/post/bottom/) [of](/post/of/) [a](/post/a/) [cup](/post/cup/) [or](/post/or/) [mug](/post/mug/), [often](/post/often/) [for](/post/for/) catching drips [or](/post/or/) serving [as](/post/as/) [a](/post/a/) coaster. [In](/post/in/) [some](/post/some/) contexts, [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) UFO-shaped [object](/post/object/) [in](/post/in/) [popular](/post/popular/) [culture](/post/culture/).
 
-### [Verb](/en/post/verb/) (informal)
-[To](/en/post/to/) [put](/en/post/put/) [a](/en/post/a/) [cup](/en/post/cup/) [or](/en/post/or/) [mug](/en/post/mug/) [down](/en/post/down/) [on](/en/post/on/) [its](/en/post/its/) [saucer](/en/post/saucer/), [usually](/en/post/usually/) [after](/en/post/after/) drinking [or](/en/post/or/) [to](/en/post/to/) [serve](/en/post/serve/) [tea](/en/post/tea/) [or](/en/post/or/) [coffee](/en/post/coffee/).
+### [Verb](/post/verb/) (informal)
+[To](/post/to/) [put](/post/put/) [a](/post/a/) [cup](/post/cup/) [or](/post/or/) [mug](/post/mug/) [down](/post/down/) [on](/post/on/) [its](/post/its/) [saucer](/post/saucer/), [usually](/post/usually/) [after](/post/after/) drinking [or](/post/or/) [to](/post/to/) [serve](/post/serve/) [tea](/post/tea/) [or](/post/or/) [coffee](/post/coffee/).
 
 ## Phrases
-- "[Set](/en/post/set/) [down](/en/post/down/) [your](/en/post/your/) [cup](/en/post/cup/) [on](/en/post/on/) [its](/en/post/its/) [saucer](/en/post/saucer/)"
-- "[Serve](/en/post/serve/) [tea](/en/post/tea/) [with](/en/post/with/) [a](/en/post/a/) [saucer](/en/post/saucer/)"
-- "[Place](/en/post/place/) [the](/en/post/the/) [saucer](/en/post/saucer/) [under](/en/post/under/) [the](/en/post/the/) teapot"
+- "[Set](/post/set/) [down](/post/down/) [your](/post/your/) [cup](/post/cup/) [on](/post/on/) [its](/post/its/) [saucer](/post/saucer/)"
+- "[Serve](/post/serve/) [tea](/post/tea/) [with](/post/with/) [a](/post/a/) [saucer](/post/saucer/)"
+- "[Place](/post/place/) [the](/post/the/) [saucer](/post/saucer/) [under](/post/under/) [the](/post/the/) teapot"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) placed [the](/en/post/the/) [delicate](/en/post/delicate/) porcelain [cup](/en/post/cup/) [and](/en/post/and/) [saucer](/en/post/saucer/) [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [her](/en/post/her/) [coffee](/en/post/coffee/), [she](/en/post/she/) saucered [it](/en/post/it/) [onto](/en/post/onto/) [the](/en/post/the/) coaster."
-- "[The](/en/post/the/) antique [saucer](/en/post/saucer/) had intricate patterns etched [into](/en/post/into/) [it](/en/post/it/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) placed [the](/post/the/) [delicate](/post/delicate/) porcelain [cup](/post/cup/) [and](/post/and/) [saucer](/post/saucer/) [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) finishing [her](/post/her/) [coffee](/post/coffee/), [she](/post/she/) saucered [it](/post/it/) [onto](/post/onto/) [the](/post/the/) coaster."
+- "[The](/post/the/) antique [saucer](/post/saucer/) had intricate patterns etched [into](/post/into/) [it](/post/it/)."
 
 ## Synonyms
-- [Cup](/en/post/cup/) holder
+- [Cup](/post/cup/) holder
 - Coaster
-- [Plate](/en/post/plate/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) cup's [base](/en/post/base/))
-- UFO [plate](/en/post/plate/) ([in](/en/post/in/) [a](/en/post/a/) UFO-themed context)
+- [Plate](/post/plate/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) cup's [base](/post/base/))
+- UFO [plate](/post/plate/) ([in](/post/in/) [a](/post/a/) UFO-themed context)
 
 ## Antonyms
-- [Deep](/en/post/deep/) [dish](/en/post/dish/)
-- [Bowl](/en/post/bowl/)
-- [Mug](/en/post/mug/) ([when](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) [container](/en/post/container/) [itself](/en/post/itself/), [not](/en/post/not/) [the](/en/post/the/) [base](/en/post/base/))
+- [Deep](/post/deep/) [dish](/post/dish/)
+- [Bowl](/post/bowl/)
+- [Mug](/post/mug/) ([when](/post/when/) referring [to](/post/to/) [the](/post/the/) [container](/post/container/) [itself](/post/itself/), [not](/post/not/) [the](/post/the/) [base](/post/base/))

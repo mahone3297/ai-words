@@ -7,34 +7,34 @@ description = '[ˈt∫eri] n.樱桃；樱桃树'
 keywords = ['ai words', 'cherry']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃɛri/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [fruit](/en/post/fruit/)**: [A](/en/post/a/) [small](/en/post/small/), [round](/en/post/round/), [red](/en/post/red/) [fruit](/en/post/fruit/) [with](/en/post/with/) [a](/en/post/a/) [single](/en/post/single/) [stone](/en/post/stone/), [often](/en/post/often/) [sweet](/en/post/sweet/) [or](/en/post/or/) [sour](/en/post/sour/), [that](/en/post/that/) grows [on](/en/post/on/) trees [in](/en/post/in/) [many](/en/post/many/) varieties. [Example](/en/post/example/): "[She](/en/post/she/) picked [some](/en/post/some/) [fresh](/en/post/fresh/) cherries [from](/en/post/from/) [the](/en/post/the/) [tree](/en/post/tree/)."
-- **[A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [tree](/en/post/tree/)**: [A](/en/post/a/) deciduous [tree](/en/post/tree/) (Prunus avium) bearing cherries. [Example](/en/post/example/): "The樱桃 [tree](/en/post/tree/) was [in](/en/post/in/) [full](/en/post/full/) [bloom](/en/post/bloom/) [during](/en/post/during/) [spring](/en/post/spring/)."
-- **[A](/en/post/a/) colloquial [term](/en/post/term/)**: [A](/en/post/a/) [person](/en/post/person/), [especially](/en/post/especially/) [a](/en/post/a/) [young](/en/post/young/) [girl](/en/post/girl/) [or](/en/post/or/) [woman](/en/post/woman/), [as](/en/post/as/) [in](/en/post/in/) "[a](/en/post/a/) [pretty](/en/post/pretty/) [cherry](/en/post/cherry/)." [Example](/en/post/example/): "[She](/en/post/she/) was [the](/en/post/the/) belle [of](/en/post/of/) [the](/en/post/the/) [ball](/en/post/ball/), [a](/en/post/a/) [real](/en/post/real/) [cherry](/en/post/cherry/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [fruit](/post/fruit/)**: [A](/post/a/) [small](/post/small/), [round](/post/round/), [red](/post/red/) [fruit](/post/fruit/) [with](/post/with/) [a](/post/a/) [single](/post/single/) [stone](/post/stone/), [often](/post/often/) [sweet](/post/sweet/) [or](/post/or/) [sour](/post/sour/), [that](/post/that/) grows [on](/post/on/) trees [in](/post/in/) [many](/post/many/) varieties. [Example](/post/example/): "[She](/post/she/) picked [some](/post/some/) [fresh](/post/fresh/) cherries [from](/post/from/) [the](/post/the/) [tree](/post/tree/)."
+- **[A](/post/a/) [type](/post/type/) [of](/post/of/) [tree](/post/tree/)**: [A](/post/a/) deciduous [tree](/post/tree/) (Prunus avium) bearing cherries. [Example](/post/example/): "The樱桃 [tree](/post/tree/) was [in](/post/in/) [full](/post/full/) [bloom](/post/bloom/) [during](/post/during/) [spring](/post/spring/)."
+- **[A](/post/a/) colloquial [term](/post/term/)**: [A](/post/a/) [person](/post/person/), [especially](/post/especially/) [a](/post/a/) [young](/post/young/) [girl](/post/girl/) [or](/post/or/) [woman](/post/woman/), [as](/post/as/) [in](/post/in/) "[a](/post/a/) [pretty](/post/pretty/) [cherry](/post/cherry/)." [Example](/post/example/): "[She](/post/she/) was [the](/post/the/) belle [of](/post/of/) [the](/post/the/) [ball](/post/ball/), [a](/post/a/) [real](/post/real/) [cherry](/post/cherry/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [eat](/en/post/eat/) [a](/en/post/a/) [cherry](/en/post/cherry/)**: [To](/en/post/to/) [consume](/en/post/consume/) [a](/en/post/a/) [cherry](/en/post/cherry/), typically [one](/en/post/one/) [by](/en/post/by/) [one](/en/post/one/). [Example](/en/post/example/): "I [love](/en/post/love/) [to](/en/post/to/) snack [on](/en/post/on/) cherries [during](/en/post/during/) [summer](/en/post/summer/)."
-- **[To](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [as](/en/post/as/) [a](/en/post/a/) [cherry](/en/post/cherry/)**: [To](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [as](/en/post/as/) [attractive](/en/post/attractive/) [or](/en/post/or/) appealing. [Example](/en/post/example/): "[Her](/en/post/her/) [new](/en/post/new/) [car](/en/post/car/) was [a](/en/post/a/) [real](/en/post/real/) [cherry](/en/post/cherry/) [on](/en/post/on/) [top](/en/post/top/) [of](/en/post/of/) [her](/en/post/her/) [recent](/en/post/recent/) accomplishments."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [eat](/post/eat/) [a](/post/a/) [cherry](/post/cherry/)**: [To](/post/to/) [consume](/post/consume/) [a](/post/a/) [cherry](/post/cherry/), typically [one](/post/one/) [by](/post/by/) [one](/post/one/). [Example](/post/example/): "I [love](/post/love/) [to](/post/to/) snack [on](/post/on/) cherries [during](/post/during/) [summer](/post/summer/)."
+- **[To](/post/to/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [as](/post/as/) [a](/post/a/) [cherry](/post/cherry/)**: [To](/post/to/) [describe](/post/describe/) [something](/post/something/) [as](/post/as/) [attractive](/post/attractive/) [or](/post/or/) appealing. [Example](/post/example/): "[Her](/post/her/) [new](/post/new/) [car](/post/car/) was [a](/post/a/) [real](/post/real/) [cherry](/post/cherry/) [on](/post/on/) [top](/post/top/) [of](/post/of/) [her](/post/her/) [recent](/post/recent/) accomplishments."
 
 ## Phrases
-- "[Cherry](/en/post/cherry/) [pie](/en/post/pie/)" is [a](/en/post/a/) dessert made [with](/en/post/with/) cherries.
-- "[Cherry](/en/post/cherry/) [blossom](/en/post/blossom/) [season](/en/post/season/)" refers [to](/en/post/to/) [the](/en/post/the/) [time](/en/post/time/) [when](/en/post/when/) [cherry](/en/post/cherry/) trees [bloom](/en/post/bloom/), [usually](/en/post/usually/) [in](/en/post/in/) [spring](/en/post/spring/).
-- "[Cherry](/en/post/cherry/) [on](/en/post/on/) [top](/en/post/top/)" is [a](/en/post/a/) metaphorical [expression](/en/post/expression/) [meaning](/en/post/meaning/) [the](/en/post/the/) finishing [touch](/en/post/touch/) [or](/en/post/or/) [the](/en/post/the/) [best](/en/post/best/) [part](/en/post/part/).
+- "[Cherry](/post/cherry/) [pie](/post/pie/)" is [a](/post/a/) dessert made [with](/post/with/) cherries.
+- "[Cherry](/post/cherry/) [blossom](/post/blossom/) [season](/post/season/)" refers [to](/post/to/) [the](/post/the/) [time](/post/time/) [when](/post/when/) [cherry](/post/cherry/) trees [bloom](/post/bloom/), [usually](/post/usually/) [in](/post/in/) [spring](/post/spring/).
+- "[Cherry](/post/cherry/) [on](/post/on/) [top](/post/top/)" is [a](/post/a/) metaphorical [expression](/post/expression/) [meaning](/post/meaning/) [the](/post/the/) finishing [touch](/post/touch/) [or](/post/or/) [the](/post/the/) [best](/post/best/) [part](/post/part/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were fascinated [by](/en/post/by/) [the](/en/post/the/) [bright](/en/post/bright/) [red](/en/post/red/) cherries hanging [from](/en/post/from/) [the](/en/post/the/) [tree](/en/post/tree/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [she](/en/post/she/) savored [a](/en/post/a/) [few](/en/post/few/) [sweet](/en/post/sweet/) cherries [as](/en/post/as/) [a](/en/post/a/) [treat](/en/post/treat/)."
-- **Colloquial**: "[He](/en/post/he/) spotted [the](/en/post/the/) [cherry](/en/post/cherry/) [on](/en/post/on/) [top](/en/post/top/) [of](/en/post/of/) [the](/en/post/the/) [cake](/en/post/cake/), [a](/en/post/a/) [beautiful](/en/post/beautiful/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) rooftop."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were fascinated [by](/post/by/) [the](/post/the/) [bright](/post/bright/) [red](/post/red/) cherries hanging [from](/post/from/) [the](/post/the/) [tree](/post/tree/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [she](/post/she/) savored [a](/post/a/) [few](/post/few/) [sweet](/post/sweet/) cherries [as](/post/as/) [a](/post/a/) [treat](/post/treat/)."
+- **Colloquial**: "[He](/post/he/) spotted [the](/post/the/) [cherry](/post/cherry/) [on](/post/on/) [top](/post/top/) [of](/post/of/) [the](/post/the/) [cake](/post/cake/), [a](/post/a/) [beautiful](/post/beautiful/) [view](/post/view/) [from](/post/from/) [the](/post/the/) rooftop."
 
 ## Synonyms
 - Berries
 - Plum
 - Maraschino
 - Bing
-- Tart [cherry](/en/post/cherry/)
+- Tart [cherry](/post/cherry/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) "[to](/en/post/to/) cherry-pick" has [a](/en/post/a/) [different](/en/post/different/) [meaning](/en/post/meaning/), [which](/en/post/which/) is [to](/en/post/to/) [select](/en/post/select/) [only](/en/post/only/) [the](/en/post/the/) [most](/en/post/most/) favorable [or](/en/post/or/) [impressive](/en/post/impressive/) examples, [often](/en/post/often/) selectively presenting [information](/en/post/information/).
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) "[to](/post/to/) cherry-pick" has [a](/post/a/) [different](/post/different/) [meaning](/post/meaning/), [which](/post/which/) is [to](/post/to/) [select](/post/select/) [only](/post/only/) [the](/post/the/) [most](/post/most/) favorable [or](/post/or/) [impressive](/post/impressive/) examples, [often](/post/often/) selectively presenting [information](/post/information/).

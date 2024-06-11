@@ -7,33 +7,33 @@ description = '[ədˈvaizəbl] n.明智的；可取的'
 keywords = ['ai words', 'advisable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈdɪsəbəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterizing [or](/en/post/or/) regarded [as](/en/post/as/) [advisable](/en/post/advisable/) [or](/en/post/or/) [suitable](/en/post/suitable/), [especially](/en/post/especially/) [under](/en/post/under/) given circumstances. [For](/en/post/for/) [example](/en/post/example/): "It's [advisable](/en/post/advisable/) [to](/en/post/to/) [wear](/en/post/wear/) sunscreen [on](/en/post/on/) [sunny](/en/post/sunny/) days."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) is [advisable](/en/post/advisable/) [or](/en/post/or/) [suitable](/en/post/suitable/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) handled [the](/en/post/the/) [situation](/en/post/situation/) advisabley, considering [the](/en/post/the/) risks involved."
+- **[Adjective](/post/adjective/)**: Characterizing [or](/post/or/) regarded [as](/post/as/) [advisable](/post/advisable/) [or](/post/or/) [suitable](/post/suitable/), [especially](/post/especially/) [under](/post/under/) given circumstances. [For](/post/for/) [example](/post/example/): "It's [advisable](/post/advisable/) [to](/post/to/) [wear](/post/wear/) sunscreen [on](/post/on/) [sunny](/post/sunny/) days."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) is [advisable](/post/advisable/) [or](/post/or/) [suitable](/post/suitable/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) handled [the](/post/the/) [situation](/post/situation/) advisabley, considering [the](/post/the/) risks involved."
 
 ## Phrases
-- "It's [advisable](/en/post/advisable/) [to](/en/post/to/)…" suggests [that](/en/post/that/) [something](/en/post/something/) is recommended [or](/en/post/or/) [necessary](/en/post/necessary/).
-- "Acting [advisable](/en/post/advisable/)" implies making [a](/en/post/a/) [wise](/en/post/wise/) [decision](/en/post/decision/) [or](/en/post/or/) taking [a](/en/post/a/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/) [that](/en/post/that/) is judicious.
-- "[Be](/en/post/be/) [advisable](/en/post/advisable/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [imply](/en/post/imply/) [that](/en/post/that/) [something](/en/post/something/) [should](/en/post/should/) [be](/en/post/be/) done [or](/en/post/or/) considered.
+- "It's [advisable](/post/advisable/) [to](/post/to/)…" suggests [that](/post/that/) [something](/post/something/) is recommended [or](/post/or/) [necessary](/post/necessary/).
+- "Acting [advisable](/post/advisable/)" implies making [a](/post/a/) [wise](/post/wise/) [decision](/post/decision/) [or](/post/or/) taking [a](/post/a/) [course](/post/course/) [of](/post/of/) [action](/post/action/) [that](/post/that/) is judicious.
+- "[Be](/post/be/) [advisable](/post/advisable/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [imply](/post/imply/) [that](/post/that/) [something](/post/something/) [should](/post/should/) [be](/post/be/) done [or](/post/or/) considered.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "It's [advisable](/en/post/advisable/) [to](/en/post/to/) [consult](/en/post/consult/) [a](/en/post/a/) [doctor](/en/post/doctor/) [before](/en/post/before/) starting [any](/en/post/any/) [new](/en/post/new/) [exercise](/en/post/exercise/) [routine](/en/post/routine/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) made an [advisable](/en/post/advisable/) [choice](/en/post/choice/) [by](/en/post/by/) accepting [the](/en/post/the/) [job](/en/post/job/) [offer](/en/post/offer/)."
-- "[The](/en/post/the/) [expert](/en/post/expert/) recommended [it](/en/post/it/) [as](/en/post/as/) [being](/en/post/being/) [advisable](/en/post/advisable/) [for](/en/post/for/) [everyone](/en/post/everyone/) [to](/en/post/to/) [get](/en/post/get/) vaccinated."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "It's [advisable](/post/advisable/) [to](/post/to/) [consult](/post/consult/) [a](/post/a/) [doctor](/post/doctor/) [before](/post/before/) starting [any](/post/any/) [new](/post/new/) [exercise](/post/exercise/) [routine](/post/routine/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) made an [advisable](/post/advisable/) [choice](/post/choice/) [by](/post/by/) accepting [the](/post/the/) [job](/post/job/) [offer](/post/offer/)."
+- "[The](/post/the/) [expert](/post/expert/) recommended [it](/post/it/) [as](/post/as/) [being](/post/being/) [advisable](/post/advisable/) [for](/post/for/) [everyone](/post/everyone/) [to](/post/to/) [get](/post/get/) vaccinated."
 
 ## Synonyms
-- [Wise](/en/post/wise/)
+- [Wise](/post/wise/)
 - Recommended
-- [Sound](/en/post/sound/)
+- [Sound](/post/sound/)
 - Prudent
 - Judicious
 - Advisory
 
 ## Antonyms
-- [Foolish](/en/post/foolish/)
+- [Foolish](/post/foolish/)
 - Unadvisory
 - Risky
 - Improper

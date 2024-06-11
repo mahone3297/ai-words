@@ -11,24 +11,24 @@ keywords = ['ai words', 'handle']
 /hændl/
 
 ## 释义
-- **名词**: 1. 手柄，把手。例如: "[The](/post/the/) [pot](/post/pot/) has [a](/post/a/) [comfortable](/post/comfortable/) [handle](/post/handle/) [for](/post/for/) holding."
-   2. 处理，管理。例如: "He's [very](/post/very/) [good](/post/good/) [at](/post/at/) handling [difficult](/post/difficult/) situations."
-- **动词**: 处理，操纵。例如: "[She](/post/she/) handled [the](/post/the/) [situation](/post/situation/) [with](/post/with/) [grace](/post/grace/) [and](/post/and/) diplomacy."
-- **名词**: 姓名的一部分，通常指姓氏。例如: "[His](/post/his/) online [handle](/post/handle/) is 'DigitalGuru'."
+- **名词**: 1. 手柄，把手。例如: "[The](/zh/post/the/) [pot](/zh/post/pot/) has [a](/zh/post/a/) [comfortable](/zh/post/comfortable/) [handle](/zh/post/handle/) [for](/zh/post/for/) holding."
+   2. 处理，管理。例如: "He's [very](/zh/post/very/) [good](/zh/post/good/) [at](/zh/post/at/) handling [difficult](/zh/post/difficult/) situations."
+- **动词**: 处理，操纵。例如: "[She](/zh/post/she/) handled [the](/zh/post/the/) [situation](/zh/post/situation/) [with](/zh/post/with/) [grace](/zh/post/grace/) [and](/zh/post/and/) diplomacy."
+- **名词**: 姓名的一部分，通常指姓氏。例如: "[His](/zh/post/his/) online [handle](/zh/post/handle/) is 'DigitalGuru'."
 
 ## 短语
-- "[handle](/post/handle/) [with](/post/with/) [care](/post/care/)" 小心处理。
-- "[handle](/post/handle/) [money](/post/money/)" 管理金钱。
-- "[handle](/post/handle/) [a](/post/a/) [situation](/post/situation/)" 处理情况。
+- "[handle](/zh/post/handle/) [with](/zh/post/with/) [care](/zh/post/care/)" 小心处理。
+- "[handle](/zh/post/handle/) [money](/zh/post/money/)" 管理金钱。
+- "[handle](/zh/post/handle/) [a](/zh/post/a/) [situation](/zh/post/situation/)" 处理情况。
 
 ## 例句
-- 名词: "[She](/post/she/) gripped [the](/post/the/) [handle](/post/handle/) [of](/post/of/) [her](/post/her/) suitcase firmly."
-- 动词: "[He](/post/he/) handled [the](/post/the/) negotiations [between](/post/between/) [the](/post/the/) [two](/post/two/) companies."
-- 名词（姓名的一部分）: "[Her](/post/her/) Twitter [handle](/post/handle/) is @JaneDoe."
+- 名词: "[She](/zh/post/she/) gripped [the](/zh/post/the/) [handle](/zh/post/handle/) [of](/zh/post/of/) [her](/zh/post/her/) suitcase firmly."
+- 动词: "[He](/zh/post/he/) handled [the](/zh/post/the/) negotiations [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) companies."
+- 名词（姓名的一部分）: "[Her](/zh/post/her/) Twitter [handle](/zh/post/handle/) is @JaneDoe."
 
 ## 同义词
-- [Manage](/post/manage/)
-- [Deal](/post/deal/) [with](/post/with/)
-- [Control](/post/control/)
+- [Manage](/zh/post/manage/)
+- [Deal](/zh/post/deal/) [with](/zh/post/with/)
+- [Control](/zh/post/control/)
 - Tackle
-- [Govern](/post/govern/)
+- [Govern](/zh/post/govern/)

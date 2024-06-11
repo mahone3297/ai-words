@@ -7,30 +7,30 @@ description = '[ˈrʌsti] a.生锈的；变迟钝的'
 keywords = ['ai words', 'rusty']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rʌsti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[rusty](/en/post/rusty/)** (adj): [A](/en/post/a/) [term](/en/post/term/) describing [something](/en/post/something/) [that](/en/post/that/) has an [appearance](/en/post/appearance/) [or](/en/post/or/) [condition](/en/post/condition/) [of](/en/post/of/) [being](/en/post/being/) corroded, [dull](/en/post/dull/), [or](/en/post/or/) tarnished [due](/en/post/due/) [to](/en/post/to/) oxidation, typically [of](/en/post/of/) [iron](/en/post/iron/) [or](/en/post/or/) [steel](/en/post/steel/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) person's [lack](/en/post/lack/) [of](/en/post/of/) [skill](/en/post/skill/) [or](/en/post/or/) [knowledge](/en/post/knowledge/) [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [period](/en/post/period/) [of](/en/post/of/) disuse.
+### [Noun](/post/noun/)
+**[rusty](/post/rusty/)** (adj): [A](/post/a/) [term](/post/term/) describing [something](/post/something/) [that](/post/that/) has an [appearance](/post/appearance/) [or](/post/or/) [condition](/post/condition/) [of](/post/of/) [being](/post/being/) corroded, [dull](/post/dull/), [or](/post/or/) tarnished [due](/post/due/) [to](/post/to/) oxidation, typically [of](/post/of/) [iron](/post/iron/) [or](/post/or/) [steel](/post/steel/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [a](/post/a/) person's [lack](/post/lack/) [of](/post/of/) [skill](/post/skill/) [or](/post/or/) [knowledge](/post/knowledge/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [period](/post/period/) [of](/post/of/) disuse.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [be](/en/post/be/) **[rusty](/en/post/rusty/)** (v): [To](/en/post/to/) [become](/en/post/become/) [or](/en/post/or/) [become](/en/post/become/) perceived [as](/en/post/as/) [rusty](/en/post/rusty/), [meaning](/en/post/meaning/) [to](/en/post/to/) [lose](/en/post/lose/) one's proficiency [or](/en/post/or/) familiarity [with](/en/post/with/) [a](/en/post/a/) [skill](/en/post/skill/) [or](/en/post/or/) [subject](/en/post/subject/) [over](/en/post/over/) [time](/en/post/time/).
+### [Verb](/post/verb/)
+[To](/post/to/) [be](/post/be/) **[rusty](/post/rusty/)** (v): [To](/post/to/) [become](/post/become/) [or](/post/or/) [become](/post/become/) perceived [as](/post/as/) [rusty](/post/rusty/), [meaning](/post/meaning/) [to](/post/to/) [lose](/post/lose/) one's proficiency [or](/post/or/) familiarity [with](/post/with/) [a](/post/a/) [skill](/post/skill/) [or](/post/or/) [subject](/post/subject/) [over](/post/over/) [time](/post/time/).
 
 ## Phrases
-- "[Get](/en/post/get/) [rid](/en/post/rid/) [of](/en/post/of/) [the](/en/post/the/) [rust](/en/post/rust/)" implies restoring [something](/en/post/something/) [to](/en/post/to/) [its](/en/post/its/) [former](/en/post/former/) [condition](/en/post/condition/) [or](/en/post/or/) freshness.
-- "[A](/en/post/a/) [rusty](/en/post/rusty/) [memory](/en/post/memory/)" refers [to](/en/post/to/) [a](/en/post/a/) forgotten [or](/en/post/or/) [vague](/en/post/vague/) recollection.
-- "[Rust](/en/post/rust/) [never](/en/post/never/) sleeps" is [a](/en/post/a/) metaphor suggesting [that](/en/post/that/) [neglect](/en/post/neglect/) [or](/en/post/or/) inaction leads [to](/en/post/to/) deterioration.
+- "[Get](/post/get/) [rid](/post/rid/) [of](/post/of/) [the](/post/the/) [rust](/post/rust/)" implies restoring [something](/post/something/) [to](/post/to/) [its](/post/its/) [former](/post/former/) [condition](/post/condition/) [or](/post/or/) freshness.
+- "[A](/post/a/) [rusty](/post/rusty/) [memory](/post/memory/)" refers [to](/post/to/) [a](/post/a/) forgotten [or](/post/or/) [vague](/post/vague/) recollection.
+- "[Rust](/post/rust/) [never](/post/never/) sleeps" is [a](/post/a/) metaphor suggesting [that](/post/that/) [neglect](/post/neglect/) [or](/post/or/) inaction leads [to](/post/to/) deterioration.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [bicycle](/en/post/bicycle/) was covered [in](/en/post/in/) [a](/en/post/a/) [layer](/en/post/layer/) [of](/en/post/of/) [rusty](/en/post/rusty/) chains."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [away](/en/post/away/) [from](/en/post/from/) [practice](/en/post/practice/), [she](/en/post/she/) felt [a](/en/post/a/) [bit](/en/post/bit/) [rusty](/en/post/rusty/) [on](/en/post/on/) [the](/en/post/the/) [golf](/en/post/golf/) [course](/en/post/course/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [knowledge](/en/post/knowledge/) [of](/en/post/of/) [the](/en/post/the/) [language](/en/post/language/) had [become](/en/post/become/) [a](/en/post/a/) [bit](/en/post/bit/) [rusty](/en/post/rusty/) [after](/en/post/after/) years [abroad](/en/post/abroad/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [bicycle](/post/bicycle/) was covered [in](/post/in/) [a](/post/a/) [layer](/post/layer/) [of](/post/of/) [rusty](/post/rusty/) chains."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [away](/post/away/) [from](/post/from/) [practice](/post/practice/), [she](/post/she/) felt [a](/post/a/) [bit](/post/bit/) [rusty](/post/rusty/) [on](/post/on/) [the](/post/the/) [golf](/post/golf/) [course](/post/course/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [knowledge](/post/knowledge/) [of](/post/of/) [the](/post/the/) [language](/post/language/) had [become](/post/become/) [a](/post/a/) [bit](/post/bit/) [rusty](/post/rusty/) [after](/post/after/) years [abroad](/post/abroad/)."
 
 ## Synonyms
 - Corroded
-- [Dull](/en/post/dull/)
-- [Stale](/en/post/stale/)
+- [Dull](/post/dull/)
+- [Stale](/post/stale/)
 - Outdated
 - Inept
 - Unfamiliar
@@ -38,8 +38,8 @@ keywords = ['ai words', 'rusty']
 
 ## Antonyms
 - Shiny
-- [New](/en/post/new/)
-- [Sharp](/en/post/sharp/)
-- [Familiar](/en/post/familiar/)
+- [New](/post/new/)
+- [Sharp](/post/sharp/)
+- [Familiar](/post/familiar/)
 - Proficient
-- [Up-to-date](/en/post/up-to-date/)
+- [Up-to-date](/post/up-to-date/)

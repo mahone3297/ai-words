@@ -11,21 +11,21 @@ keywords = ['ai words', 'belief']
 /bɪˈliːf/
 
 ## 释义
-- **名词**: 信仰，相信；信心。例如: "[She](/post/she/) has [strong](/post/strong/) beliefs [about](/post/about/) [social](/post/social/) [justice](/post/justice/)."
-- **名词**: 观点，见解。例如: "[They](/post/they/) discussed [their](/post/their/) [different](/post/different/) beliefs [on](/post/on/) [the](/post/the/) [subject](/post/subject/)."
-- **动词**: 相信（某事为真），信任。例如: "I [believe](/post/believe/) [he](/post/he/) [will](/post/will/) [succeed](/post/succeed/) [in](/post/in/) [his](/post/his/) [new](/post/new/) [job](/post/job/)."
+- **名词**: 信仰，相信；信心。例如: "[She](/zh/post/she/) has [strong](/zh/post/strong/) beliefs [about](/zh/post/about/) [social](/zh/post/social/) [justice](/zh/post/justice/)."
+- **名词**: 观点，见解。例如: "[They](/zh/post/they/) discussed [their](/zh/post/their/) [different](/zh/post/different/) beliefs [on](/zh/post/on/) [the](/zh/post/the/) [subject](/zh/post/subject/)."
+- **动词**: 相信（某事为真），信任。例如: "I [believe](/zh/post/believe/) [he](/zh/post/he/) [will](/zh/post/will/) [succeed](/zh/post/succeed/) [in](/zh/post/in/) [his](/zh/post/his/) [new](/zh/post/new/) [job](/zh/post/job/)."
 
 ## 短语
-- "[hold](/post/hold/) [a](/post/a/) [belief](/post/belief/)" 意为持有某种信念。
-- "[in](/post/in/) [the](/post/the/) [belief](/post/belief/) [that](/post/that/)" 表示基于某种信念。例如: "[He](/post/he/) acted [in](/post/in/) [the](/post/the/) [belief](/post/belief/) [that](/post/that/) [he](/post/he/) was doing [the](/post/the/) [right](/post/right/) [thing](/post/thing/)."
+- "[hold](/zh/post/hold/) [a](/zh/post/a/) [belief](/zh/post/belief/)" 意为持有某种信念。
+- "[in](/zh/post/in/) [the](/zh/post/the/) [belief](/zh/post/belief/) [that](/zh/post/that/)" 表示基于某种信念。例如: "[He](/zh/post/he/) acted [in](/zh/post/in/) [the](/zh/post/the/) [belief](/zh/post/belief/) [that](/zh/post/that/) [he](/zh/post/he/) was doing [the](/zh/post/the/) [right](/zh/post/right/) [thing](/zh/post/thing/)."
 
 ## 例句
-- 名词: "[His](/post/his/) [religious](/post/religious/) beliefs [guide](/post/guide/) [his](/post/his/) [daily](/post/daily/) [life](/post/life/)."
-- 动词: "I [believe](/post/believe/) [her](/post/her/) [when](/post/when/) [she](/post/she/) says she's [innocent](/post/innocent/)."
+- 名词: "[His](/zh/post/his/) [religious](/zh/post/religious/) beliefs [guide](/zh/post/guide/) [his](/zh/post/his/) [daily](/zh/post/daily/) [life](/zh/post/life/)."
+- 动词: "I [believe](/zh/post/believe/) [her](/zh/post/her/) [when](/zh/post/when/) [she](/zh/post/she/) says she's [innocent](/zh/post/innocent/)."
 
 ## 同义词
-- [faith](/post/faith/)
-- [trust](/post/trust/)
-- [confidence](/post/confidence/)
+- [faith](/zh/post/faith/)
+- [trust](/zh/post/trust/)
+- [confidence](/zh/post/confidence/)
 - conviction
-- [opinion](/post/opinion/)
+- [opinion](/zh/post/opinion/)

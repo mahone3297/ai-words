@@ -7,29 +7,29 @@ description = '[ˈhəuli] ad.完全地，全部'
 keywords = ['ai words', 'wholly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /həˈwli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Completely](/en/post/completely/) [or](/en/post/or/) entirely; [without](/en/post/without/) reservation [or](/en/post/or/) [exception](/en/post/exception/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) accepted [the](/en/post/the/) [responsibility](/en/post/responsibility/) [wholly](/en/post/wholly/)."
-- **[Adjective](/en/post/adjective/)**: Entirely; [completely](/en/post/completely/); [full](/en/post/full/); [complete](/en/post/complete/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) was executed [with](/en/post/with/) [a](/en/post/a/) [wholly](/en/post/wholly/) [different](/en/post/different/) [approach](/en/post/approach/)."
-- **[Pronoun](/en/post/pronoun/)**: ([rarely](/en/post/rarely/) [used](/en/post/used/)) [A](/en/post/a/) [pronoun](/en/post/pronoun/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [oneself](/en/post/oneself/) [or](/en/post/or/) [something](/en/post/something/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [religious](/en/post/religious/) context. [For](/en/post/for/) [example](/en/post/example/): "I was [wholly](/en/post/wholly/) devoted [to](/en/post/to/) [my](/en/post/my/) studies."
+- **[Adverb](/post/adverb/)**: [Completely](/post/completely/) [or](/post/or/) entirely; [without](/post/without/) reservation [or](/post/or/) [exception](/post/exception/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) accepted [the](/post/the/) [responsibility](/post/responsibility/) [wholly](/post/wholly/)."
+- **[Adjective](/post/adjective/)**: Entirely; [completely](/post/completely/); [full](/post/full/); [complete](/post/complete/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) was executed [with](/post/with/) [a](/post/a/) [wholly](/post/wholly/) [different](/post/different/) [approach](/post/approach/)."
+- **[Pronoun](/post/pronoun/)**: ([rarely](/post/rarely/) [used](/post/used/)) [A](/post/a/) [pronoun](/post/pronoun/) [that](/post/that/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [oneself](/post/oneself/) [or](/post/or/) [something](/post/something/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [religious](/post/religious/) context. [For](/post/for/) [example](/post/example/): "I was [wholly](/post/wholly/) devoted [to](/post/to/) [my](/post/my/) studies."
 
 ## Phrases
-- "[Wholly](/en/post/wholly/) devoted" expresses [complete](/en/post/complete/) dedication [or](/en/post/or/) commitment.
-- "[Wholly](/en/post/wholly/) [responsible](/en/post/responsible/)" [means](/en/post/means/) [being](/en/post/being/) entirely accountable [for](/en/post/for/) [something](/en/post/something/).
-- "[Wholly](/en/post/wholly/) satisfied" indicates [complete](/en/post/complete/) [satisfaction](/en/post/satisfaction/).
+- "[Wholly](/post/wholly/) devoted" expresses [complete](/post/complete/) dedication [or](/post/or/) commitment.
+- "[Wholly](/post/wholly/) [responsible](/post/responsible/)" [means](/post/means/) [being](/post/being/) entirely accountable [for](/post/for/) [something](/post/something/).
+- "[Wholly](/post/wholly/) satisfied" indicates [complete](/post/complete/) [satisfaction](/post/satisfaction/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) was [wholly](/en/post/wholly/) absorbed [in](/en/post/in/) [her](/en/post/her/) [work](/en/post/work/), [not](/en/post/not/) noticing [the](/en/post/the/) [time](/en/post/time/) passing."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [honesty](/en/post/honesty/) was acknowledged, [as](/en/post/as/) [he](/en/post/he/) was seen [as](/en/post/as/) [a](/en/post/a/) [wholly](/en/post/wholly/) trustworthy [individual](/en/post/individual/)."
-- **[Pronoun](/en/post/pronoun/)**: "[He](/en/post/he/) felt [wholly](/en/post/wholly/) cleansed [after](/en/post/after/) completing [his](/en/post/his/) [spiritual](/en/post/spiritual/) [retreat](/en/post/retreat/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) was [wholly](/post/wholly/) absorbed [in](/post/in/) [her](/post/her/) [work](/post/work/), [not](/post/not/) noticing [the](/post/the/) [time](/post/time/) passing."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [honesty](/post/honesty/) was acknowledged, [as](/post/as/) [he](/post/he/) was seen [as](/post/as/) [a](/post/a/) [wholly](/post/wholly/) trustworthy [individual](/post/individual/)."
+- **[Pronoun](/post/pronoun/)**: "[He](/post/he/) felt [wholly](/post/wholly/) cleansed [after](/post/after/) completing [his](/post/his/) [spiritual](/post/spiritual/) [retreat](/post/retreat/)."
 
 ## Synonyms
 - Entirely
 - Fully
-- [Completely](/en/post/completely/)
+- [Completely](/post/completely/)
 - Unreservedly
-- [Absolutely](/en/post/absolutely/)
+- [Absolutely](/post/absolutely/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) "[wholly](/en/post/wholly/)" [as](/en/post/as/) [a](/en/post/a/) [pronoun](/en/post/pronoun/) is [less](/en/post/less/) [common](/en/post/common/) [and](/en/post/and/) [may](/en/post/may/) [be](/en/post/be/) considered archaic [or](/en/post/or/) poetic [in](/en/post/in/) [some](/en/post/some/) contexts. [It](/en/post/it/) is [mostly](/en/post/mostly/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [or](/en/post/or/) [adjective](/en/post/adjective/).
+[Note](/post/note/): [The](/post/the/) [use](/post/use/) [of](/post/of/) "[wholly](/post/wholly/)" [as](/post/as/) [a](/post/a/) [pronoun](/post/pronoun/) is [less](/post/less/) [common](/post/common/) [and](/post/and/) [may](/post/may/) [be](/post/be/) considered archaic [or](/post/or/) poetic [in](/post/in/) [some](/post/some/) contexts. [It](/post/it/) is [mostly](/post/mostly/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/) [or](/post/or/) [adjective](/post/adjective/).

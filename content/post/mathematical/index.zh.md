@@ -11,22 +11,22 @@ keywords = ['ai words', 'mathematical']
 /ˌmæθəˈmætɪkəl/
 
 ## 释义
-- **形容词**: 与数学相关的；符合数学原理的；精确的；逻辑严谨的。例如: "[The](/post/the/) [mathematical](/post/mathematical/) [equation](/post/equation/) was [complex](/post/complex/) [but](/post/but/) solvable."
-- **名词**: 用于指代数学领域或数学家。例如: "[She](/post/she/) is [a](/post/a/) [mathematical](/post/mathematical/) [genius](/post/genius/)."
+- **形容词**: 与数学相关的；符合数学原理的；精确的；逻辑严谨的。例如: "[The](/zh/post/the/) [mathematical](/zh/post/mathematical/) [equation](/zh/post/equation/) was [complex](/zh/post/complex/) [but](/zh/post/but/) solvable."
+- **名词**: 用于指代数学领域或数学家。例如: "[She](/zh/post/she/) is [a](/zh/post/a/) [mathematical](/zh/post/mathematical/) [genius](/zh/post/genius/)."
 
 ## 短语
-- "[Mathematical](/post/mathematical/) concepts" 指数学概念。
-- "[Mathematical](/post/mathematical/) thinking" 指数学思维。
-- "[Mathematical](/post/mathematical/) models" 指数学模型。
+- "[Mathematical](/zh/post/mathematical/) concepts" 指数学概念。
+- "[Mathematical](/zh/post/mathematical/) thinking" 指数学思维。
+- "[Mathematical](/zh/post/mathematical/) models" 指数学模型。
 
 ## 例句
-- 形容词: "[His](/post/his/) [understanding](/post/understanding/) [of](/post/of/) [mathematical](/post/mathematical/) theories was exceptional."
-- 名词: "[She](/post/she/) presented [her](/post/her/) findings [at](/post/at/) [a](/post/a/) [mathematical](/post/mathematical/) [conference](/post/conference/)."
+- 形容词: "[His](/zh/post/his/) [understanding](/zh/post/understanding/) [of](/zh/post/of/) [mathematical](/zh/post/mathematical/) theories was exceptional."
+- 名词: "[She](/zh/post/she/) presented [her](/zh/post/her/) findings [at](/zh/post/at/) [a](/zh/post/a/) [mathematical](/zh/post/mathematical/) [conference](/zh/post/conference/)."
 
 ## 同义词
-- [Mathematical](/post/mathematical/) 可以用以下词语替换，具体含义可能略有不同：
+- [Mathematical](/zh/post/mathematical/) 可以用以下词语替换，具体含义可能略有不同：
 - - Quantitative
 - - Analytical
-- - [Logical](/post/logical/)
+- - [Logical](/zh/post/logical/)
 - - Rigorous
-- - [Theoretical](/post/theoretical/)
+- - [Theoretical](/zh/post/theoretical/)

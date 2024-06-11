@@ -7,40 +7,40 @@ description = '[piŋk] n.粉红色 a.粉红色的'
 keywords = ['ai words', 'pink']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pɪŋk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [color](/en/post/color/)** characterized [by](/en/post/by/) [a](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) [red](/en/post/red/) [and](/en/post/and/) [white](/en/post/white/) [light](/en/post/light/), [often](/en/post/often/) associated [with](/en/post/with/) flowers, sunsets, [or](/en/post/or/) femininity.
-- **adj**: [Of](/en/post/of/) [a](/en/post/a/) [light](/en/post/light/), [soft](/en/post/soft/) [red](/en/post/red/) [color](/en/post/color/); rosy.
+### [Noun](/post/noun/)
+- **[A](/post/a/) [color](/post/color/)** characterized [by](/post/by/) [a](/post/a/) [mixture](/post/mixture/) [of](/post/of/) [red](/post/red/) [and](/post/and/) [white](/post/white/) [light](/post/light/), [often](/post/often/) associated [with](/post/with/) flowers, sunsets, [or](/post/or/) femininity.
+- **adj**: [Of](/post/of/) [a](/post/a/) [light](/post/light/), [soft](/post/soft/) [red](/post/red/) [color](/post/color/); rosy.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [pink](/en/post/pink/) hue [or](/en/post/or/) [appearance](/en/post/appearance/)**: [The](/en/post/the/) [sky](/en/post/sky/) was [pink](/en/post/pink/) [during](/en/post/during/) [sunrise](/en/post/sunrise/).
-- **figurative**: [To](/en/post/to/) [be](/en/post/be/) affected [by](/en/post/by/) [a](/en/post/a/) [particular](/en/post/particular/) [emotion](/en/post/emotion/) [or](/en/post/or/) [feeling](/en/post/feeling/) ([usually](/en/post/usually/) [love](/en/post/love/) [or](/en/post/or/) admiration): [Her](/en/post/her/) cheeks pinked [up](/en/post/up/) [when](/en/post/when/) [she](/en/post/she/) heard [his](/en/post/his/) compliment.
+### [Verb](/post/verb/)
+- **[To](/post/to/) [have](/post/have/) [a](/post/a/) [pink](/post/pink/) hue [or](/post/or/) [appearance](/post/appearance/)**: [The](/post/the/) [sky](/post/sky/) was [pink](/post/pink/) [during](/post/during/) [sunrise](/post/sunrise/).
+- **figurative**: [To](/post/to/) [be](/post/be/) affected [by](/post/by/) [a](/post/a/) [particular](/post/particular/) [emotion](/post/emotion/) [or](/post/or/) [feeling](/post/feeling/) ([usually](/post/usually/) [love](/post/love/) [or](/post/or/) admiration): [Her](/post/her/) cheeks pinked [up](/post/up/) [when](/post/when/) [she](/post/she/) heard [his](/post/his/) compliment.
 
-### [Adjective](/en/post/adjective/)
-- **Describing [a](/en/post/a/) [color](/en/post/color/)**: [She](/en/post/she/) wore [a](/en/post/a/) [pink](/en/post/pink/) [dress](/en/post/dress/) [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/).
-- **Referring [to](/en/post/to/) [a](/en/post/a/) [feeling](/en/post/feeling/) [or](/en/post/or/) complexion**: [He](/en/post/he/) had [a](/en/post/a/) [healthy](/en/post/healthy/) [pink](/en/post/pink/) [glow](/en/post/glow/).
+### [Adjective](/post/adjective/)
+- **Describing [a](/post/a/) [color](/post/color/)**: [She](/post/she/) wore [a](/post/a/) [pink](/post/pink/) [dress](/post/dress/) [to](/post/to/) [the](/post/the/) [party](/post/party/).
+- **Referring [to](/post/to/) [a](/post/a/) [feeling](/post/feeling/) [or](/post/or/) complexion**: [He](/post/he/) had [a](/post/a/) [healthy](/post/healthy/) [pink](/post/pink/) [glow](/post/glow/).
 
-### [Adverb](/en/post/adverb/)
-- [Not](/en/post/not/) [used](/en/post/used/) [as](/en/post/as/) an [independent](/en/post/independent/) [adverb](/en/post/adverb/) [in](/en/post/in/) [standard](/en/post/standard/) English.
+### [Adverb](/post/adverb/)
+- [Not](/post/not/) [used](/post/used/) [as](/post/as/) an [independent](/post/independent/) [adverb](/post/adverb/) [in](/post/in/) [standard](/post/standard/) English.
 
 ## Phrases
-- "[A](/en/post/a/) [pink](/en/post/pink/) [ribbon](/en/post/ribbon/)" symbolizes [breast](/en/post/breast/) [cancer](/en/post/cancer/) awareness.
-- "[A](/en/post/a/) [pink](/en/post/pink/) [sky](/en/post/sky/)" indicates [a](/en/post/a/) [beautiful](/en/post/beautiful/) [sunset](/en/post/sunset/).
-- "[Pink](/en/post/pink/) blush [on](/en/post/on/) [her](/en/post/her/) cheeks" describes [a](/en/post/a/) [shy](/en/post/shy/) [or](/en/post/or/) embarrassed [expression](/en/post/expression/).
+- "[A](/post/a/) [pink](/post/pink/) [ribbon](/post/ribbon/)" symbolizes [breast](/post/breast/) [cancer](/post/cancer/) awareness.
+- "[A](/post/a/) [pink](/post/pink/) [sky](/post/sky/)" indicates [a](/post/a/) [beautiful](/post/beautiful/) [sunset](/post/sunset/).
+- "[Pink](/post/pink/) blush [on](/post/on/) [her](/post/her/) cheeks" describes [a](/post/a/) [shy](/post/shy/) [or](/post/or/) embarrassed [expression](/post/expression/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) baby's [nursery](/en/post/nursery/) was painted [in](/en/post/in/) [a](/en/post/a/) calming [pink](/en/post/pink/) [color](/en/post/color/).
-- **[Verb](/en/post/verb/)**: [She](/en/post/she/) looked [up](/en/post/up/) [at](/en/post/at/) [the](/en/post/the/) pink-painted [ceiling](/en/post/ceiling/), lost [in](/en/post/in/) [thought](/en/post/thought/).
-- **[Adjective](/en/post/adjective/)**: [She](/en/post/she/) felt [a](/en/post/a/) [rush](/en/post/rush/) [of](/en/post/of/) [pink](/en/post/pink/) [as](/en/post/as/) [she](/en/post/she/) remembered [their](/en/post/their/) [first](/en/post/first/) [date](/en/post/date/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) baby's [nursery](/post/nursery/) was painted [in](/post/in/) [a](/post/a/) calming [pink](/post/pink/) [color](/post/color/).
+- **[Verb](/post/verb/)**: [She](/post/she/) looked [up](/post/up/) [at](/post/at/) [the](/post/the/) pink-painted [ceiling](/post/ceiling/), lost [in](/post/in/) [thought](/post/thought/).
+- **[Adjective](/post/adjective/)**: [She](/post/she/) felt [a](/post/a/) [rush](/post/rush/) [of](/post/of/) [pink](/post/pink/) [as](/post/as/) [she](/post/she/) remembered [their](/post/their/) [first](/post/first/) [date](/post/date/).
 
 ## Synonyms
 - Rosy
 - Fuchsia
 - Blush
 - Lilac
-- Pastel [red](/en/post/red/)
+- Pastel [red](/post/red/)
 
-[Note](/en/post/note/): [Pink](/en/post/pink/) is [not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [to](/en/post/to/) [mean](/en/post/mean/) "[to](/en/post/to/) [greet](/en/post/greet/)" [or](/en/post/or/) [as](/en/post/as/) an interjection, [as](/en/post/as/) [it](/en/post/it/) does [not](/en/post/not/) [convey](/en/post/convey/) [the](/en/post/the/) [same](/en/post/same/) [meaning](/en/post/meaning/) [as](/en/post/as/) "[hello](/en/post/hello/)." [However](/en/post/however/), [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) figuratively [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) heightened [emotional](/en/post/emotional/) [state](/en/post/state/), [similar](/en/post/similar/) [to](/en/post/to/) [the](/en/post/the/) [verb](/en/post/verb/) forms [provided](/en/post/provided/) [for](/en/post/for/) "[hello](/en/post/hello/)."
+[Note](/post/note/): [Pink](/post/pink/) is [not](/post/not/) typically [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [to](/post/to/) [mean](/post/mean/) "[to](/post/to/) [greet](/post/greet/)" [or](/post/or/) [as](/post/as/) an interjection, [as](/post/as/) [it](/post/it/) does [not](/post/not/) [convey](/post/convey/) [the](/post/the/) [same](/post/same/) [meaning](/post/meaning/) [as](/post/as/) "[hello](/post/hello/)." [However](/post/however/), [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) figuratively [to](/post/to/) [describe](/post/describe/) [a](/post/a/) heightened [emotional](/post/emotional/) [state](/post/state/), [similar](/post/similar/) [to](/post/to/) [the](/post/the/) [verb](/post/verb/) forms [provided](/post/provided/) [for](/post/for/) "[hello](/post/hello/)."

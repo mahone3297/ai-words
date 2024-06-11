@@ -7,32 +7,32 @@ description = '[ˈnɔːməli] ad.通常，正常地'
 keywords = ['ai words', 'normally']
 +++
 
-## [Word](/en/post/word/): [Normally](/en/post/normally/)
+## [Word](/post/word/): [Normally](/post/normally/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnɔːrməli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [usual](/en/post/usual/), expected, [or](/en/post/or/) [typical](/en/post/typical/) [manner](/en/post/manner/); customarily [or](/en/post/or/) habitually. [It](/en/post/it/) indicates [what](/en/post/what/) typically happens [or](/en/post/or/) is [true](/en/post/true/) [under](/en/post/under/) [regular](/en/post/regular/) circumstances.
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [usual](/post/usual/), expected, [or](/post/or/) [typical](/post/typical/) [manner](/post/manner/); customarily [or](/post/or/) habitually. [It](/post/it/) indicates [what](/post/what/) typically happens [or](/post/or/) is [true](/post/true/) [under](/post/under/) [regular](/post/regular/) circumstances.
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _**[Adverb](/en/post/adverb/)**_: [She](/en/post/she/) [normally](/en/post/normally/) wakes [up](/en/post/up/) [at](/en/post/at/) 6 [a](/en/post/a/).m.
+[Example](/post/example/) [sentence](/post/sentence/): _**[Adverb](/post/adverb/)**_: [She](/post/she/) [normally](/post/normally/) wakes [up](/post/up/) [at](/post/at/) 6 [a](/post/a/).m.
 
 ## Phrases
-- "[Normally](/en/post/normally/) speaking": [As](/en/post/as/) [a](/en/post/a/) [general](/en/post/general/) [rule](/en/post/rule/) [or](/en/post/or/) [in](/en/post/in/) [most](/en/post/most/) cases.
-   - [Example](/en/post/example/): "[Normally](/en/post/normally/) speaking, [we](/en/post/we/) [finish](/en/post/finish/) [work](/en/post/work/) [by](/en/post/by/) 5 p.m."
-- "[Under](/en/post/under/) [normal](/en/post/normal/) circumstances": [In](/en/post/in/) [usual](/en/post/usual/) [or](/en/post/or/) [standard](/en/post/standard/) conditions.
-   - [Example](/en/post/example/): "[Under](/en/post/under/) [normal](/en/post/normal/) circumstances, [the](/en/post/the/) [train](/en/post/train/) arrives [on](/en/post/on/) [time](/en/post/time/)."
-- "[As](/en/post/as/) [normal](/en/post/normal/)": [In](/en/post/in/) [the](/en/post/the/) [usual](/en/post/usual/) [way](/en/post/way/) [or](/en/post/or/) returning [to](/en/post/to/) [a](/en/post/a/) [routine](/en/post/routine/).
-   - [Example](/en/post/example/): "Classes [will](/en/post/will/) [resume](/en/post/resume/) [as](/en/post/as/) [normal](/en/post/normal/) [after](/en/post/after/) [the](/en/post/the/) [holiday](/en/post/holiday/) [break](/en/post/break/)."
+- "[Normally](/post/normally/) speaking": [As](/post/as/) [a](/post/a/) [general](/post/general/) [rule](/post/rule/) [or](/post/or/) [in](/post/in/) [most](/post/most/) cases.
+   - [Example](/post/example/): "[Normally](/post/normally/) speaking, [we](/post/we/) [finish](/post/finish/) [work](/post/work/) [by](/post/by/) 5 p.m."
+- "[Under](/post/under/) [normal](/post/normal/) circumstances": [In](/post/in/) [usual](/post/usual/) [or](/post/or/) [standard](/post/standard/) conditions.
+   - [Example](/post/example/): "[Under](/post/under/) [normal](/post/normal/) circumstances, [the](/post/the/) [train](/post/train/) arrives [on](/post/on/) [time](/post/time/)."
+- "[As](/post/as/) [normal](/post/normal/)": [In](/post/in/) [the](/post/the/) [usual](/post/usual/) [way](/post/way/) [or](/post/or/) returning [to](/post/to/) [a](/post/a/) [routine](/post/routine/).
+   - [Example](/post/example/): "Classes [will](/post/will/) [resume](/post/resume/) [as](/post/as/) [normal](/post/normal/) [after](/post/after/) [the](/post/the/) [holiday](/post/holiday/) [break](/post/break/)."
 
-## [Example](/en/post/example/) Sentences
-- _**[Adverb](/en/post/adverb/)**_: [He](/en/post/he/) doesn't [normally](/en/post/normally/) [eat](/en/post/eat/) dessert [after](/en/post/after/) [dinner](/en/post/dinner/), [but](/en/post/but/) [today](/en/post/today/) [he](/en/post/he/) made an [exception](/en/post/exception/).
-- [The](/en/post/the/) [store](/en/post/store/) is [open](/en/post/open/) [from](/en/post/from/) 9 [a](/en/post/a/).m. [to](/en/post/to/) 5 p.m., [but](/en/post/but/) [during](/en/post/during/) [the](/en/post/the/) holidays, [it](/en/post/it/) stays [open](/en/post/open/) [later](/en/post/later/) [than](/en/post/than/) *[normally](/en/post/normally/)*.
+## [Example](/post/example/) Sentences
+- _**[Adverb](/post/adverb/)**_: [He](/post/he/) doesn't [normally](/post/normally/) [eat](/post/eat/) dessert [after](/post/after/) [dinner](/post/dinner/), [but](/post/but/) [today](/post/today/) [he](/post/he/) made an [exception](/post/exception/).
+- [The](/post/the/) [store](/post/store/) is [open](/post/open/) [from](/post/from/) 9 [a](/post/a/).m. [to](/post/to/) 5 p.m., [but](/post/but/) [during](/post/during/) [the](/post/the/) holidays, [it](/post/it/) stays [open](/post/open/) [later](/post/later/) [than](/post/than/) *[normally](/post/normally/)*.
 
 ## Synonyms
 - Typically
-- [Usually](/en/post/usually/)
-- [Generally](/en/post/generally/)
+- [Usually](/post/usually/)
+- [Generally](/post/generally/)
 - Customarily
 - Habitually
 - Ordinarily

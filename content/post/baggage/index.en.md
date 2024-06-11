@@ -7,36 +7,36 @@ description = '[ˈbægidʒ] n.行李'
 keywords = ['ai words', 'baggage']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bəˈgeɪʒ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Luggage](/en/post/luggage/)**: [The](/en/post/the/) [personal](/en/post/personal/) belongings, [especially](/en/post/especially/) [clothes](/en/post/clothes/) [and](/en/post/and/) [other](/en/post/other/) items carried [while](/en/post/while/) traveling. [Example](/en/post/example/): "[The](/en/post/the/) [airline](/en/post/airline/) lost [her](/en/post/her/) checked [baggage](/en/post/baggage/)."
-2. **[Burden](/en/post/burden/)**: [Emotional](/en/post/emotional/) [or](/en/post/or/) [psychological](/en/post/psychological/) issues [that](/en/post/that/) [one](/en/post/one/) carries [with](/en/post/with/) [them](/en/post/them/). [Example](/en/post/example/): "[Financial](/en/post/financial/) [stress](/en/post/stress/) was [a](/en/post/a/) [heavy](/en/post/heavy/) [baggage](/en/post/baggage/) [for](/en/post/for/) [the](/en/post/the/) [family](/en/post/family/)."
-3. **[Weight](/en/post/weight/)**: [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [luggage](/en/post/luggage/) [or](/en/post/or/) [goods](/en/post/goods/) carried [by](/en/post/by/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [animal](/en/post/animal/). [Example](/en/post/example/): "[Each](/en/post/each/) [passenger](/en/post/passenger/) is allowed [a](/en/post/a/) [certain](/en/post/certain/) [amount](/en/post/amount/) [of](/en/post/of/) [baggage](/en/post/baggage/) [on](/en/post/on/) [the](/en/post/the/) [flight](/en/post/flight/)."
+### [Noun](/post/noun/)
+1. **[Luggage](/post/luggage/)**: [The](/post/the/) [personal](/post/personal/) belongings, [especially](/post/especially/) [clothes](/post/clothes/) [and](/post/and/) [other](/post/other/) items carried [while](/post/while/) traveling. [Example](/post/example/): "[The](/post/the/) [airline](/post/airline/) lost [her](/post/her/) checked [baggage](/post/baggage/)."
+2. **[Burden](/post/burden/)**: [Emotional](/post/emotional/) [or](/post/or/) [psychological](/post/psychological/) issues [that](/post/that/) [one](/post/one/) carries [with](/post/with/) [them](/post/them/). [Example](/post/example/): "[Financial](/post/financial/) [stress](/post/stress/) was [a](/post/a/) [heavy](/post/heavy/) [baggage](/post/baggage/) [for](/post/for/) [the](/post/the/) [family](/post/family/)."
+3. **[Weight](/post/weight/)**: [The](/post/the/) [amount](/post/amount/) [of](/post/of/) [luggage](/post/luggage/) [or](/post/or/) [goods](/post/goods/) carried [by](/post/by/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [animal](/post/animal/). [Example](/post/example/): "[Each](/post/each/) [passenger](/post/passenger/) is allowed [a](/post/a/) [certain](/post/certain/) [amount](/post/amount/) [of](/post/of/) [baggage](/post/baggage/) [on](/post/on/) [the](/post/the/) [flight](/post/flight/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [carry](/en/post/carry/) [or](/en/post/or/) [transport](/en/post/transport/) ([luggage](/en/post/luggage/)). [Example](/en/post/example/): "[She](/en/post/she/) helped [me](/en/post/me/) [with](/en/post/with/) [my](/en/post/my/) [baggage](/en/post/baggage/) [at](/en/post/at/) [the](/en/post/the/) [airport](/en/post/airport/)."
-2. [To](/en/post/to/) [bring](/en/post/bring/) [up](/en/post/up/) [or](/en/post/or/) [discuss](/en/post/discuss/) [past](/en/post/past/) problems [or](/en/post/or/) issues. [Example](/en/post/example/): "Let's [not](/en/post/not/) [baggage](/en/post/baggage/) [the](/en/post/the/) [conversation](/en/post/conversation/) [with](/en/post/with/) [old](/en/post/old/) arguments."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [carry](/post/carry/) [or](/post/or/) [transport](/post/transport/) ([luggage](/post/luggage/)). [Example](/post/example/): "[She](/post/she/) helped [me](/post/me/) [with](/post/with/) [my](/post/my/) [baggage](/post/baggage/) [at](/post/at/) [the](/post/the/) [airport](/post/airport/)."
+2. [To](/post/to/) [bring](/post/bring/) [up](/post/up/) [or](/post/or/) [discuss](/post/discuss/) [past](/post/past/) problems [or](/post/or/) issues. [Example](/post/example/): "Let's [not](/post/not/) [baggage](/post/baggage/) [the](/post/the/) [conversation](/post/conversation/) [with](/post/with/) [old](/post/old/) arguments."
 
 ## Phrases
-- "Checking [in](/en/post/in/) [baggage](/en/post/baggage/)" [at](/en/post/at/) an [airport](/en/post/airport/).
-- "Carrying [too](/en/post/too/) [much](/en/post/much/) [baggage](/en/post/baggage/)" (figurative [sense](/en/post/sense/)).
-- "[Baggage](/en/post/baggage/) [claim](/en/post/claim/)" [at](/en/post/at/) [a](/en/post/a/) [terminal](/en/post/terminal/) [to](/en/post/to/) retrieve [luggage](/en/post/luggage/).
+- "Checking [in](/post/in/) [baggage](/post/baggage/)" [at](/post/at/) an [airport](/post/airport/).
+- "Carrying [too](/post/too/) [much](/post/much/) [baggage](/post/baggage/)" (figurative [sense](/post/sense/)).
+- "[Baggage](/post/baggage/) [claim](/post/claim/)" [at](/post/at/) [a](/post/a/) [terminal](/post/terminal/) [to](/post/to/) retrieve [luggage](/post/luggage/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I had [to](/en/post/to/) [leave](/en/post/leave/) [some](/en/post/some/) [of](/en/post/of/) [my](/en/post/my/) [baggage](/en/post/baggage/) [behind](/en/post/behind/) [since](/en/post/since/) [it](/en/post/it/) exceeded [the](/en/post/the/) [weight](/en/post/weight/) [limit](/en/post/limit/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [flight](/en/post/flight/), [we](/en/post/we/) collected [our](/en/post/our/) [baggage](/en/post/baggage/) [from](/en/post/from/) [the](/en/post/the/) carousel."
-- **[Emotional](/en/post/emotional/) [baggage](/en/post/baggage/)**: "[She](/en/post/she/) [finally](/en/post/finally/) decided [to](/en/post/to/) [let](/en/post/let/) [go](/en/post/go/) [of](/en/post/of/) [the](/en/post/the/) [emotional](/en/post/emotional/) [baggage](/en/post/baggage/) [from](/en/post/from/) [her](/en/post/her/) [past](/en/post/past/) [relationship](/en/post/relationship/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I had [to](/post/to/) [leave](/post/leave/) [some](/post/some/) [of](/post/of/) [my](/post/my/) [baggage](/post/baggage/) [behind](/post/behind/) [since](/post/since/) [it](/post/it/) exceeded [the](/post/the/) [weight](/post/weight/) [limit](/post/limit/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [flight](/post/flight/), [we](/post/we/) collected [our](/post/our/) [baggage](/post/baggage/) [from](/post/from/) [the](/post/the/) carousel."
+- **[Emotional](/post/emotional/) [baggage](/post/baggage/)**: "[She](/post/she/) [finally](/post/finally/) decided [to](/post/to/) [let](/post/let/) [go](/post/go/) [of](/post/of/) [the](/post/the/) [emotional](/post/emotional/) [baggage](/post/baggage/) [from](/post/from/) [her](/post/her/) [past](/post/past/) [relationship](/post/relationship/)."
 
 ## Synonyms
-- [Luggage](/en/post/luggage/)
+- [Luggage](/post/luggage/)
 - Suitcase
 - Valuables
 - Effects
-- [Load](/en/post/load/)
-- [Psychological](/en/post/psychological/) [load](/en/post/load/)
-- [Emotional](/en/post/emotional/) [load](/en/post/load/)
-- [Past](/en/post/past/) issues
-- [Troublesome](/en/post/troublesome/) memories
+- [Load](/post/load/)
+- [Psychological](/post/psychological/) [load](/post/load/)
+- [Emotional](/post/emotional/) [load](/post/load/)
+- [Past](/post/past/) issues
+- [Troublesome](/post/troublesome/) memories

@@ -7,32 +7,32 @@ description = '[ˈpəuitri] n.诗，诗歌，诗作'
 keywords = ['ai words', 'poetry']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈtriː/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Poetry](/en/post/poetry/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [literature](/en/post/literature/) [that](/en/post/that/) uses aesthetic [and](/en/post/and/) rhythmic qualities [of](/en/post/of/) [language](/en/post/language/) [to](/en/post/to/) evoke meanings [in](/en/post/in/) [addition](/en/post/addition/) [to](/en/post/to/), [or](/en/post/or/) [in](/en/post/in/) [place](/en/post/place/) [of](/en/post/of/), prosaic ostensible [meaning](/en/post/meaning/), [particularly](/en/post/particularly/) when丞erformanced. [It](/en/post/it/) [often](/en/post/often/) includes metaphor, imagery, [and](/en/post/and/) [other](/en/post/other/) [literary](/en/post/literary/) techniques [to](/en/post/to/) [create](/en/post/create/) emotions [and](/en/post/and/) ideas.
+### [Noun](/post/noun/)
+**[Poetry](/post/poetry/)** ([noun](/post/noun/)): [A](/post/a/) [form](/post/form/) [of](/post/of/) [literature](/post/literature/) [that](/post/that/) uses aesthetic [and](/post/and/) rhythmic qualities [of](/post/of/) [language](/post/language/) [to](/post/to/) evoke meanings [in](/post/in/) [addition](/post/addition/) [to](/post/to/), [or](/post/or/) [in](/post/in/) [place](/post/place/) [of](/post/of/), prosaic ostensible [meaning](/post/meaning/), [particularly](/post/particularly/) when丞erformanced. [It](/post/it/) [often](/post/often/) includes metaphor, imagery, [and](/post/and/) [other](/post/other/) [literary](/post/literary/) techniques [to](/post/to/) [create](/post/create/) emotions [and](/post/and/) ideas.
 
-### [Verb](/en/post/verb/)
-**[To](/en/post/to/) [write](/en/post/write/) [poetry](/en/post/poetry/)** ([verb](/en/post/verb/)): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) creating [or](/en/post/or/) composing poems, expressing thoughts, feelings, [or](/en/post/or/) ideas [through](/en/post/through/) verse.
+### [Verb](/post/verb/)
+**[To](/post/to/) [write](/post/write/) [poetry](/post/poetry/)** ([verb](/post/verb/)): [The](/post/the/) [act](/post/act/) [of](/post/of/) creating [or](/post/or/) composing poems, expressing thoughts, feelings, [or](/post/or/) ideas [through](/post/through/) verse.
 
-### [Adjective](/en/post/adjective/)
-**Poetic** ([adjective](/en/post/adjective/)): [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) relating [to](/en/post/to/) [poetry](/en/post/poetry/), having [a](/en/post/a/) poetic [quality](/en/post/quality/), [or](/en/post/or/) evoking [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [beauty](/en/post/beauty/) [and](/en/post/and/) [imagination](/en/post/imagination/).
+### [Adjective](/post/adjective/)
+**Poetic** ([adjective](/post/adjective/)): [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) relating [to](/post/to/) [poetry](/post/poetry/), having [a](/post/a/) poetic [quality](/post/quality/), [or](/post/or/) evoking [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [beauty](/post/beauty/) [and](/post/and/) [imagination](/post/imagination/).
 
 ## Phrases
-- "[Compose](/en/post/compose/) [a](/en/post/a/) [poem](/en/post/poem/)" [means](/en/post/means/) [to](/en/post/to/) [write](/en/post/write/) [a](/en/post/a/) [new](/en/post/new/) [piece](/en/post/piece/) [of](/en/post/of/) [poetry](/en/post/poetry/).
-- "[The](/en/post/the/) [art](/en/post/art/) [of](/en/post/of/) [poetry](/en/post/poetry/)" refers [to](/en/post/to/) [the](/en/post/the/) [skill](/en/post/skill/) [and](/en/post/and/) [craft](/en/post/craft/) involved [in](/en/post/in/) [writing](/en/post/writing/) [poetry](/en/post/poetry/).
-- "Poetry朗诵会" is an [event](/en/post/event/) [where](/en/post/where/) [poetry](/en/post/poetry/) is [read](/en/post/read/) [aloud](/en/post/aloud/) [to](/en/post/to/) an [audience](/en/post/audience/).
+- "[Compose](/post/compose/) [a](/post/a/) [poem](/post/poem/)" [means](/post/means/) [to](/post/to/) [write](/post/write/) [a](/post/a/) [new](/post/new/) [piece](/post/piece/) [of](/post/of/) [poetry](/post/poetry/).
+- "[The](/post/the/) [art](/post/art/) [of](/post/of/) [poetry](/post/poetry/)" refers [to](/post/to/) [the](/post/the/) [skill](/post/skill/) [and](/post/and/) [craft](/post/craft/) involved [in](/post/in/) [writing](/post/writing/) [poetry](/post/poetry/).
+- "Poetry朗诵会" is an [event](/post/event/) [where](/post/where/) [poetry](/post/poetry/) is [read](/post/read/) [aloud](/post/aloud/) [to](/post/to/) an [audience](/post/audience/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was deeply moved [by](/en/post/by/) [the](/en/post/the/) haunting [poetry](/en/post/poetry/) [of](/en/post/of/) [the](/en/post/the/) [song](/en/post/song/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) spent [his](/en/post/his/) weekends [writing](/en/post/writing/) [poetry](/en/post/poetry/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sunset](/en/post/sunset/) was [a](/en/post/a/) picturesque, poetic [scene](/en/post/scene/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was deeply moved [by](/post/by/) [the](/post/the/) haunting [poetry](/post/poetry/) [of](/post/of/) [the](/post/the/) [song](/post/song/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) spent [his](/post/his/) weekends [writing](/post/writing/) [poetry](/post/poetry/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sunset](/post/sunset/) was [a](/post/a/) picturesque, poetic [scene](/post/scene/)."
 
 ## Synonyms
 - Verse
-- [Literary](/en/post/literary/) works
+- [Literary](/post/literary/) works
 - Rhymes
 - Quatrain
 - Lyricism
@@ -44,4 +44,4 @@ keywords = ['ai words', 'poetry']
 - Prose
 - Clarity
 - Directness
-- Practicality ([in](/en/post/in/) [a](/en/post/a/) non-poetic context)
+- Practicality ([in](/post/in/) [a](/post/a/) non-poetic context)

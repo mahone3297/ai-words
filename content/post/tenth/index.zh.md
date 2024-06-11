@@ -11,15 +11,15 @@ keywords = ['ai words', 'tenth']
 /ˈtɛnθ/
 
 ## 释义
-- **数词**: 顺序数字，意为“第十”。例如: "[My](/post/my/) [tenth](/post/tenth/) [birthday](/post/birthday/) was [a](/post/a/) memorable [day](/post/day/)."
+- **数词**: 顺序数字，意为“第十”。例如: "[My](/zh/post/my/) [tenth](/zh/post/tenth/) [birthday](/zh/post/birthday/) was [a](/zh/post/a/) memorable [day](/zh/post/day/)."
 
 ## 短语
-- "[The](/post/the/) [tenth](/post/tenth/) [in](/post/in/) [line](/post/line/)" 意味着在队列中的第十个位置。
-- "[Tenth](/post/tenth/) anniversary" 指的是十周年纪念。
+- "[The](/zh/post/the/) [tenth](/zh/post/tenth/) [in](/zh/post/in/) [line](/zh/post/line/)" 意味着在队列中的第十个位置。
+- "[Tenth](/zh/post/tenth/) anniversary" 指的是十周年纪念。
 
 ## 例句
-- "[This](/post/this/) is [our](/post/our/) [tenth](/post/tenth/) [year](/post/year/) [together](/post/together/)."（这是我们在一起的第十个年头。）
-- "[She](/post/she/) ranked [tenth](/post/tenth/) [in](/post/in/) [the](/post/the/) [national](/post/national/) [competition](/post/competition/)."（她在国家级比赛中排名第十。）
+- "[This](/zh/post/this/) is [our](/zh/post/our/) [tenth](/zh/post/tenth/) [year](/zh/post/year/) [together](/zh/post/together/)."（这是我们在一起的第十个年头。）
+- "[She](/zh/post/she/) ranked [tenth](/zh/post/tenth/) [in](/zh/post/in/) [the](/zh/post/the/) [national](/zh/post/national/) [competition](/zh/post/competition/)."（她在国家级比赛中排名第十。）
 
 ## 同义词
 - Decima (拉丁文中表示第十)

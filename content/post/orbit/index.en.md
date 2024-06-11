@@ -7,33 +7,33 @@ description = '[ˈɔːbit] n.运行轨道 vt.环绕'
 keywords = ['ai words', 'orbit']
 +++
 
-## [Word](/en/post/word/): [Orbit](/en/post/orbit/)
+## [Word](/post/word/): [Orbit](/post/orbit/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːrbɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) curved [path](/en/post/path/) [that](/en/post/that/) an [object](/en/post/object/) [in](/en/post/in/) [space](/en/post/space/) takes [around](/en/post/around/) [a](/en/post/a/) celestial [body](/en/post/body/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [planet](/en/post/planet/) [or](/en/post/or/) [star](/en/post/star/), [under](/en/post/under/) [the](/en/post/the/) [influence](/en/post/influence/) [of](/en/post/of/) [its](/en/post/its/) [gravity](/en/post/gravity/). [Example](/en/post/example/): "[The](/en/post/the/) moon's [orbit](/en/post/orbit/) [around](/en/post/around/) [Earth](/en/post/earth/) takes [approximately](/en/post/approximately/) 28 days."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) curved [path](/post/path/) [that](/post/that/) an [object](/post/object/) [in](/post/in/) [space](/post/space/) takes [around](/post/around/) [a](/post/a/) celestial [body](/post/body/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [planet](/post/planet/) [or](/post/or/) [star](/post/star/), [under](/post/under/) [the](/post/the/) [influence](/post/influence/) [of](/post/of/) [its](/post/its/) [gravity](/post/gravity/). [Example](/post/example/): "[The](/post/the/) moon's [orbit](/post/orbit/) [around](/post/around/) [Earth](/post/earth/) takes [approximately](/post/approximately/) 28 days."
   
-  - [Also](/en/post/also/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [sphere](/en/post/sphere/) [of](/en/post/of/) [influence](/en/post/influence/) [or](/en/post/or/) [activity](/en/post/activity/). [Example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) has [become](/en/post/become/) [a](/en/post/a/) [major](/en/post/major/) [player](/en/post/player/) [in](/en/post/in/) [the](/en/post/the/) global [economic](/en/post/economic/) [orbit](/en/post/orbit/)."
+  - [Also](/post/also/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [sphere](/post/sphere/) [of](/post/of/) [influence](/post/influence/) [or](/post/or/) [activity](/post/activity/). [Example](/post/example/): "[The](/post/the/) [city](/post/city/) has [become](/post/become/) [a](/post/a/) [major](/post/major/) [player](/post/player/) [in](/post/in/) [the](/post/the/) global [economic](/post/economic/) [orbit](/post/orbit/)."
 
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [move](/en/post/move/) [in](/en/post/in/) [a](/en/post/a/) curved [path](/en/post/path/) [around](/en/post/around/) [a](/en/post/a/) celestial [body](/en/post/body/) [or](/en/post/or/) [to](/en/post/to/) [rotate](/en/post/rotate/) [around](/en/post/around/) [something](/en/post/something/) [else](/en/post/else/). [Example](/en/post/example/): "Satellites [orbit](/en/post/orbit/) [the](/en/post/the/) [Earth](/en/post/earth/) transmitting [data](/en/post/data/) [back](/en/post/back/) [to](/en/post/to/) [ground](/en/post/ground/) stations."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [move](/post/move/) [in](/post/in/) [a](/post/a/) curved [path](/post/path/) [around](/post/around/) [a](/post/a/) celestial [body](/post/body/) [or](/post/or/) [to](/post/to/) [rotate](/post/rotate/) [around](/post/around/) [something](/post/something/) [else](/post/else/). [Example](/post/example/): "Satellites [orbit](/post/orbit/) [the](/post/the/) [Earth](/post/earth/) transmitting [data](/post/data/) [back](/post/back/) [to](/post/to/) [ground](/post/ground/) stations."
 
 ## Phrases
-- "[In](/en/post/in/) [orbit](/en/post/orbit/)": Refers [to](/en/post/to/) an [object](/en/post/object/) [that](/en/post/that/) is currently moving [along](/en/post/along/) [a](/en/post/a/) [circular](/en/post/circular/) [or](/en/post/or/) elliptical [path](/en/post/path/) [around](/en/post/around/) [a](/en/post/a/) celestial [body](/en/post/body/). [Example](/en/post/example/): "[The](/en/post/the/) [International](/en/post/international/) [Space](/en/post/space/) [Station](/en/post/station/) has been [in](/en/post/in/) [orbit](/en/post/orbit/) [around](/en/post/around/) [Earth](/en/post/earth/) [since](/en/post/since/) 1998."
-- "[To](/en/post/to/) [put](/en/post/put/) [something](/en/post/something/) [into](/en/post/into/) [orbit](/en/post/orbit/)": [Means](/en/post/means/) [to](/en/post/to/) [launch](/en/post/launch/) [it](/en/post/it/) [into](/en/post/into/) [space](/en/post/space/) [so](/en/post/so/) [that](/en/post/that/) [it](/en/post/it/) begins circling [a](/en/post/a/) celestial [body](/en/post/body/). [Example](/en/post/example/): "NASA [successfully](/en/post/successfully/) [put](/en/post/put/) [a](/en/post/a/) [new](/en/post/new/) [satellite](/en/post/satellite/) [into](/en/post/into/) [orbit](/en/post/orbit/) [last](/en/post/last/) [night](/en/post/night/)."
+- "[In](/post/in/) [orbit](/post/orbit/)": Refers [to](/post/to/) an [object](/post/object/) [that](/post/that/) is currently moving [along](/post/along/) [a](/post/a/) [circular](/post/circular/) [or](/post/or/) elliptical [path](/post/path/) [around](/post/around/) [a](/post/a/) celestial [body](/post/body/). [Example](/post/example/): "[The](/post/the/) [International](/post/international/) [Space](/post/space/) [Station](/post/station/) has been [in](/post/in/) [orbit](/post/orbit/) [around](/post/around/) [Earth](/post/earth/) [since](/post/since/) 1998."
+- "[To](/post/to/) [put](/post/put/) [something](/post/something/) [into](/post/into/) [orbit](/post/orbit/)": [Means](/post/means/) [to](/post/to/) [launch](/post/launch/) [it](/post/it/) [into](/post/into/) [space](/post/space/) [so](/post/so/) [that](/post/that/) [it](/post/it/) begins circling [a](/post/a/) celestial [body](/post/body/). [Example](/post/example/): "NASA [successfully](/post/successfully/) [put](/post/put/) [a](/post/a/) [new](/post/new/) [satellite](/post/satellite/) [into](/post/into/) [orbit](/post/orbit/) [last](/post/last/) [night](/post/night/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Astronomers calculated [the](/en/post/the/) [exact](/en/post/exact/) dimensions [of](/en/post/of/) Mars' [orbit](/en/post/orbit/) [around](/en/post/around/) [the](/en/post/the/) [sun](/en/post/sun/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [spacecraft](/en/post/spacecraft/) was designed [to](/en/post/to/) [orbit](/en/post/orbit/) Jupiter [and](/en/post/and/) [study](/en/post/study/) [its](/en/post/its/) moons."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Astronomers calculated [the](/post/the/) [exact](/post/exact/) dimensions [of](/post/of/) Mars' [orbit](/post/orbit/) [around](/post/around/) [the](/post/the/) [sun](/post/sun/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [spacecraft](/post/spacecraft/) was designed [to](/post/to/) [orbit](/post/orbit/) Jupiter [and](/post/and/) [study](/post/study/) [its](/post/its/) moons."
 
 ## Synonyms
-- [Revolution](/en/post/revolution/)
-- [Course](/en/post/course/)
-- [Path](/en/post/path/)
-- [Rotation](/en/post/rotation/)
-- [Circuit](/en/post/circuit/)
-- [Movement](/en/post/movement/) [around](/en/post/around/)
-- [Track](/en/post/track/)
-- Circumvolution ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [sense](/en/post/sense/))
-- [Circle](/en/post/circle/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [the](/en/post/the/) astronomical context)
+- [Revolution](/post/revolution/)
+- [Course](/post/course/)
+- [Path](/post/path/)
+- [Rotation](/post/rotation/)
+- [Circuit](/post/circuit/)
+- [Movement](/post/movement/) [around](/post/around/)
+- [Track](/post/track/)
+- Circumvolution ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [sense](/post/sense/))
+- [Circle](/post/circle/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [the](/post/the/) astronomical context)

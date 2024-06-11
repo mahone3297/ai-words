@@ -11,20 +11,20 @@ keywords = ['ai words', 'whenever']
 /wɛnˈevər/
 
 ## 释义
-- **连词**: 表示在任何时候，无论何时。例如: "[You](/post/you/) [can](/post/can/) [call](/post/call/) [me](/post/me/) [whenever](/post/whenever/) [you](/post/you/) [need](/post/need/) [help](/post/help/)."
-- **副词**: 相当于 "[at](/post/at/) [any](/post/any/) [time](/post/time/)" 或 "[no](/post/no/) [matter](/post/matter/) [when](/post/when/)"。例如: "[Whenever](/post/whenever/) [she](/post/she/) visits, [we](/post/we/) [have](/post/have/) [a](/post/a/) [great](/post/great/) [time](/post/time/)."
+- **连词**: 表示在任何时候，无论何时。例如: "[You](/zh/post/you/) [can](/zh/post/can/) [call](/zh/post/call/) [me](/zh/post/me/) [whenever](/zh/post/whenever/) [you](/zh/post/you/) [need](/zh/post/need/) [help](/zh/post/help/)."
+- **副词**: 相当于 "[at](/zh/post/at/) [any](/zh/post/any/) [time](/zh/post/time/)" 或 "[no](/zh/post/no/) [matter](/zh/post/matter/) [when](/zh/post/when/)"。例如: "[Whenever](/zh/post/whenever/) [she](/zh/post/she/) visits, [we](/zh/post/we/) [have](/zh/post/have/) [a](/zh/post/a/) [great](/zh/post/great/) [time](/zh/post/time/)."
 
 ## 短语
-- "[Whenever](/post/whenever/) [possible](/post/possible/)" 意为只要有可能或任何时候都可以。
-- "[Whenever](/post/whenever/) you're [ready](/post/ready/)" 是一种邀请或等待对方准备好的表达。
+- "[Whenever](/zh/post/whenever/) [possible](/zh/post/possible/)" 意为只要有可能或任何时候都可以。
+- "[Whenever](/zh/post/whenever/) you're [ready](/zh/post/ready/)" 是一种邀请或等待对方准备好的表达。
 
 ## 例句
-- 连词: "[Whenever](/post/whenever/) I [feel](/post/feel/) stressed, I [take](/post/take/) [a](/post/a/) [walk](/post/walk/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
-- 副词: "[The](/post/the/) [concert](/post/concert/) starts [at](/post/at/) 8, [but](/post/but/) [come](/post/come/) [whenever](/post/whenever/)."
+- 连词: "[Whenever](/zh/post/whenever/) I [feel](/zh/post/feel/) stressed, I [take](/zh/post/take/) [a](/zh/post/a/) [walk](/zh/post/walk/) [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/)."
+- 副词: "[The](/zh/post/the/) [concert](/zh/post/concert/) starts [at](/zh/post/at/) 8, [but](/zh/post/but/) [come](/zh/post/come/) [whenever](/zh/post/whenever/)."
 
 ## 同义词
 - Anytime
-- [Whenever](/post/whenever/) [it](/post/it/) suits [you](/post/you/)
-- [At](/post/at/) [any](/post/any/) [moment](/post/moment/)
-- [No](/post/no/) [matter](/post/matter/) [when](/post/when/)
-- [Whenever](/post/whenever/) [you](/post/you/) [like](/post/like/)
+- [Whenever](/zh/post/whenever/) [it](/zh/post/it/) suits [you](/zh/post/you/)
+- [At](/zh/post/at/) [any](/zh/post/any/) [moment](/zh/post/moment/)
+- [No](/zh/post/no/) [matter](/zh/post/matter/) [when](/zh/post/when/)
+- [Whenever](/zh/post/whenever/) [you](/zh/post/you/) [like](/zh/post/like/)

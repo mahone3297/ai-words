@@ -7,35 +7,35 @@ description = '[ˈmɑːvəl] a.奇迹般的；了不起的'
 keywords = ['ai words', 'marvelous']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmær.və.ləs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Extremely](/en/post/extremely/) [good](/en/post/good/) [or](/en/post/or/) [impressive](/en/post/impressive/); causing [wonder](/en/post/wonder/) [and](/en/post/and/) admiration. 
+- **[Adjective](/post/adjective/)**: [Extremely](/post/extremely/) [good](/post/good/) [or](/post/or/) [impressive](/post/impressive/); causing [wonder](/post/wonder/) [and](/post/and/) admiration. 
 
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): _The magician performed [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [marvelous](/en/post/marvelous/) tricks [that](/en/post/that/) [left](/en/post/left/) [the](/en/post/the/) [audience](/en/post/audience/) astounded._
+  - [Example](/post/example/) [Sentence](/post/sentence/): _The magician performed [a](/post/a/) [series](/post/series/) [of](/post/of/) [marvelous](/post/marvelous/) tricks [that](/post/that/) [left](/post/left/) [the](/post/the/) [audience](/post/audience/) astounded._
   
-- **[Adjective](/en/post/adjective/) (informal)**: [Used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [that](/en/post/that/) [something](/en/post/something/) is [very](/en/post/very/) [good](/en/post/good/) [or](/en/post/or/) enjoyable. 
+- **[Adjective](/post/adjective/) (informal)**: [Used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [that](/post/that/) [something](/post/something/) is [very](/post/very/) [good](/post/good/) [or](/post/or/) enjoyable. 
    
-   - [Example](/en/post/example/) [Sentence](/en/post/sentence/): _We had [a](/en/post/a/) [marvelous](/en/post/marvelous/) [time](/en/post/time/) [at](/en/post/at/) [the](/en/post/the/) [beach](/en/post/beach/) [yesterday](/en/post/yesterday/)._
+   - [Example](/post/example/) [Sentence](/post/sentence/): _We had [a](/post/a/) [marvelous](/post/marvelous/) [time](/post/time/) [at](/post/at/) [the](/post/the/) [beach](/post/beach/) [yesterday](/post/yesterday/)._
 
 ## Phrases
-- "[A](/en/post/a/) marvelously [good](/en/post/good/) [idea](/en/post/idea/)": [This](/en/post/this/) [phrase](/en/post/phrase/) emphasizes [that](/en/post/that/) an [idea](/en/post/idea/) is exceptionally [good](/en/post/good/).
-- "[In](/en/post/in/) [a](/en/post/a/) [marvelous](/en/post/marvelous/) [state](/en/post/state/)": Refers [to](/en/post/to/) [something](/en/post/something/) [being](/en/post/being/) [in](/en/post/in/) an [excellent](/en/post/excellent/) [condition](/en/post/condition/) [or](/en/post/or/) [situation](/en/post/situation/).
-- "[Marvelous](/en/post/marvelous/) [achievement](/en/post/achievement/)": Describes an accomplishment [that](/en/post/that/) is [truly](/en/post/truly/) [extraordinary](/en/post/extraordinary/).
+- "[A](/post/a/) marvelously [good](/post/good/) [idea](/post/idea/)": [This](/post/this/) [phrase](/post/phrase/) emphasizes [that](/post/that/) an [idea](/post/idea/) is exceptionally [good](/post/good/).
+- "[In](/post/in/) [a](/post/a/) [marvelous](/post/marvelous/) [state](/post/state/)": Refers [to](/post/to/) [something](/post/something/) [being](/post/being/) [in](/post/in/) an [excellent](/post/excellent/) [condition](/post/condition/) [or](/post/or/) [situation](/post/situation/).
+- "[Marvelous](/post/marvelous/) [achievement](/post/achievement/)": Describes an accomplishment [that](/post/that/) is [truly](/post/truly/) [extraordinary](/post/extraordinary/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: _She wore [a](/en/post/a/) [marvelous](/en/post/marvelous/) [gown](/en/post/gown/) [that](/en/post/that/) shimmered [under](/en/post/under/) [the](/en/post/the/) ballroom lights._
-- **[Adjective](/en/post/adjective/) (informal)**: _The [food](/en/post/food/) [at](/en/post/at/) [the](/en/post/the/) [new](/en/post/new/) [restaurant](/en/post/restaurant/) was [absolutely](/en/post/absolutely/) [marvelous](/en/post/marvelous/); we'll [definitely](/en/post/definitely/) [be](/en/post/be/) going [back](/en/post/back/)._
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: _She wore [a](/post/a/) [marvelous](/post/marvelous/) [gown](/post/gown/) [that](/post/that/) shimmered [under](/post/under/) [the](/post/the/) ballroom lights._
+- **[Adjective](/post/adjective/) (informal)**: _The [food](/post/food/) [at](/post/at/) [the](/post/the/) [new](/post/new/) [restaurant](/post/restaurant/) was [absolutely](/post/absolutely/) [marvelous](/post/marvelous/); we'll [definitely](/post/definitely/) [be](/post/be/) going [back](/post/back/)._
 
 ## Synonyms
-- [Wonderful](/en/post/wonderful/)
+- [Wonderful](/post/wonderful/)
 - Fantastic
 - Incredible
 - Astonishing
 - Stunning
-- [Impressive](/en/post/impressive/)
+- [Impressive](/post/impressive/)
 - Exquisite
-- [Splendid](/en/post/splendid/)
-- [Magnificent](/en/post/magnificent/)
+- [Splendid](/post/splendid/)
+- [Magnificent](/post/magnificent/)
 - Superb

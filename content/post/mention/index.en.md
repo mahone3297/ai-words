@@ -7,31 +7,31 @@ description = '[ˈmen∫ən] vt.&n.提及，说起'
 keywords = ['ai words', 'mention']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmenʃ(ə)n/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [reference](/en/post/reference/) [or](/en/post/or/) spoken [or](/en/post/or/) written allusion [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/), [thing](/en/post/thing/), [event](/en/post/event/), etc. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) contains [several](/en/post/several/) mentions [of](/en/post/of/) [her](/en/post/her/) [work](/en/post/work/)."
-  - "[He](/en/post/he/) received [a](/en/post/a/) [special](/en/post/special/) [mention](/en/post/mention/) [in](/en/post/in/) [the](/en/post/the/) acknowledgments [section](/en/post/section/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [speak](/en/post/speak/) [or](/en/post/or/) [write](/en/post/write/) [about](/en/post/about/) ([someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/)), typically briefly [or](/en/post/or/) incidentally. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [author](/en/post/author/) mentioned [his](/en/post/his/) [previous](/en/post/previous/) travels [in](/en/post/in/) [the](/en/post/the/) [first](/en/post/first/) [chapter](/en/post/chapter/)."
-  - "[She](/en/post/she/) mentioned [that](/en/post/that/) [she](/en/post/she/) had seen [him](/en/post/him/) earlier [today](/en/post/today/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [reference](/post/reference/) [or](/post/or/) spoken [or](/post/or/) written allusion [to](/post/to/) [a](/post/a/) [person](/post/person/), [thing](/post/thing/), [event](/post/event/), etc. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) contains [several](/post/several/) mentions [of](/post/of/) [her](/post/her/) [work](/post/work/)."
+  - "[He](/post/he/) received [a](/post/a/) [special](/post/special/) [mention](/post/mention/) [in](/post/in/) [the](/post/the/) acknowledgments [section](/post/section/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [speak](/post/speak/) [or](/post/or/) [write](/post/write/) [about](/post/about/) ([someone](/post/someone/) [or](/post/or/) [something](/post/something/)), typically briefly [or](/post/or/) incidentally. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [author](/post/author/) mentioned [his](/post/his/) [previous](/post/previous/) travels [in](/post/in/) [the](/post/the/) [first](/post/first/) [chapter](/post/chapter/)."
+  - "[She](/post/she/) mentioned [that](/post/that/) [she](/post/she/) had seen [him](/post/him/) earlier [today](/post/today/)."
 
 ## Phrases
-- "[A](/en/post/a/) passing [mention](/en/post/mention/)" refers [to](/en/post/to/) [a](/en/post/a/) [brief](/en/post/brief/) [or](/en/post/or/) incidental [reference](/en/post/reference/).
-- "[Mention](/en/post/mention/) [something](/en/post/something/)/[someone](/en/post/someone/) [in](/en/post/in/) dispatches" [means](/en/post/means/) [to](/en/post/to/) commend [or](/en/post/or/) [praise](/en/post/praise/) officially.
-- "Don't [mention](/en/post/mention/) [it](/en/post/it/)" is [often](/en/post/often/) said [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) an [expression](/en/post/expression/) [of](/en/post/of/) [gratitude](/en/post/gratitude/), [meaning](/en/post/meaning/) "it's [no](/en/post/no/) [problem](/en/post/problem/)" [or](/en/post/or/) "you're [welcome](/en/post/welcome/)".
+- "[A](/post/a/) passing [mention](/post/mention/)" refers [to](/post/to/) [a](/post/a/) [brief](/post/brief/) [or](/post/or/) incidental [reference](/post/reference/).
+- "[Mention](/post/mention/) [something](/post/something/)/[someone](/post/someone/) [in](/post/in/) dispatches" [means](/post/means/) [to](/post/to/) commend [or](/post/or/) [praise](/post/praise/) officially.
+- "Don't [mention](/post/mention/) [it](/post/it/)" is [often](/post/often/) said [in](/post/in/) [response](/post/response/) [to](/post/to/) an [expression](/post/expression/) [of](/post/of/) [gratitude](/post/gratitude/), [meaning](/post/meaning/) "it's [no](/post/no/) [problem](/post/problem/)" [or](/post/or/) "you're [welcome](/post/welcome/)".
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [name](/en/post/name/) was mentioned [several](/en/post/several/) times [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **[Verb](/en/post/verb/)**: "I'll [make](/en/post/make/) [sure](/en/post/sure/) [to](/en/post/to/) [mention](/en/post/mention/) [your](/en/post/your/) [idea](/en/post/idea/) [in](/en/post/in/) [my](/en/post/my/) [report](/en/post/report/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [name](/post/name/) was mentioned [several](/post/several/) times [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
+- **[Verb](/post/verb/)**: "I'll [make](/post/make/) [sure](/post/sure/) [to](/post/to/) [mention](/post/mention/) [your](/post/your/) [idea](/post/idea/) [in](/post/in/) [my](/post/my/) [report](/post/report/)."
 
 ## Synonyms
-- [Reference](/en/post/reference/)
+- [Reference](/post/reference/)
 - Allusion
 - Citation
-- [Quote](/en/post/quote/)
+- [Quote](/post/quote/)
 - Acknowledgment
-- [Note](/en/post/note/)
-- [Comment](/en/post/comment/)
-- [Remark](/en/post/remark/)
-- [Discuss](/en/post/discuss/) ([in](/en/post/in/) [a](/en/post/a/) [less](/en/post/less/) [formal](/en/post/formal/) context)
+- [Note](/post/note/)
+- [Comment](/post/comment/)
+- [Remark](/post/remark/)
+- [Discuss](/post/discuss/) ([in](/post/in/) [a](/post/a/) [less](/post/less/) [formal](/post/formal/) context)

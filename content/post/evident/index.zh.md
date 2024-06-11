@@ -11,20 +11,20 @@ keywords = ['ai words', 'evident']
 /ˈɛvərɪənt/
 
 ## 释义
-- **形容词**: 显而易见的，明显的，清晰的。例如: "[The](/post/the/) [evidence](/post/evidence/) [for](/post/for/) [climate](/post/climate/) [change](/post/change/) is [evident](/post/evident/) [to](/post/to/) [anyone](/post/anyone/) [who](/post/who/) studies [the](/post/the/) [data](/post/data/)."
-- **副词**: 明显地，显然地。例如: "[It](/post/it/) was [evident](/post/evident/) [from](/post/from/) [her](/post/her/) [smile](/post/smile/) [that](/post/that/) [she](/post/she/) was [happy](/post/happy/)."
+- **形容词**: 显而易见的，明显的，清晰的。例如: "[The](/zh/post/the/) [evidence](/zh/post/evidence/) [for](/zh/post/for/) [climate](/zh/post/climate/) [change](/zh/post/change/) is [evident](/zh/post/evident/) [to](/zh/post/to/) [anyone](/zh/post/anyone/) [who](/zh/post/who/) studies [the](/zh/post/the/) [data](/zh/post/data/)."
+- **副词**: 明显地，显然地。例如: "[It](/zh/post/it/) was [evident](/zh/post/evident/) [from](/zh/post/from/) [her](/zh/post/her/) [smile](/zh/post/smile/) [that](/zh/post/that/) [she](/zh/post/she/) was [happy](/zh/post/happy/)."
 
 ## 短语
-- "[evident](/post/evident/) [fact](/post/fact/)" 显然的事实
-- "[clearly](/post/clearly/) [evident](/post/evident/)" 显然地，明显地
+- "[evident](/zh/post/evident/) [fact](/zh/post/fact/)" 显然的事实
+- "[clearly](/zh/post/clearly/) [evident](/zh/post/evident/)" 显然地，明显地
 
 ## 例句
-- 形容词: "[The](/post/the/) effects [of](/post/of/) [the](/post/the/) [new](/post/new/) [policy](/post/policy/) were [evident](/post/evident/) [within](/post/within/) [the](/post/the/) [first](/post/first/) [month](/post/month/)."
-- 副词: "[Her](/post/her/) [talent](/post/talent/) was [evident](/post/evident/) [from](/post/from/) [the](/post/the/) [first](/post/first/) [moment](/post/moment/) [she](/post/she/) stepped [on](/post/on/) [stage](/post/stage/)."
+- 形容词: "[The](/zh/post/the/) effects [of](/zh/post/of/) [the](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/) were [evident](/zh/post/evident/) [within](/zh/post/within/) [the](/zh/post/the/) [first](/zh/post/first/) [month](/zh/post/month/)."
+- 副词: "[Her](/zh/post/her/) [talent](/zh/post/talent/) was [evident](/zh/post/evident/) [from](/zh/post/from/) [the](/zh/post/the/) [first](/zh/post/first/) [moment](/zh/post/moment/) [she](/zh/post/she/) stepped [on](/zh/post/on/) [stage](/zh/post/stage/)."
 
 ## 同义词
-- [obvious](/post/obvious/)
-- [clear](/post/clear/)
-- [apparent](/post/apparent/)
+- [obvious](/zh/post/obvious/)
+- [clear](/zh/post/clear/)
+- [apparent](/zh/post/apparent/)
 - manifest
 - self-evident

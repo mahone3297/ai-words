@@ -12,25 +12,25 @@ keywords = ['ai words', 'stress']
 
 ## 释义
 - **名词**:
-  - 压力，紧张：精神或身体上的负担，常指由工作、生活情况或关系引起的。例如: "She's been [under](/post/under/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [stress](/post/stress/) [lately](/post/lately/)."
-  - 重音：在发音时强调的某个音节或单词。例如: "[The](/post/the/) [stress](/post/stress/) [in](/post/in/) [this](/post/this/) [sentence](/post/sentence/) falls [on](/post/on/) [the](/post/the/) [second](/post/second/) syllable."
+  - 压力，紧张：精神或身体上的负担，常指由工作、生活情况或关系引起的。例如: "She's been [under](/zh/post/under/) [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) [stress](/zh/post/stress/) [lately](/zh/post/lately/)."
+  - 重音：在发音时强调的某个音节或单词。例如: "[The](/zh/post/the/) [stress](/zh/post/stress/) [in](/zh/post/in/) [this](/zh/post/this/) [sentence](/zh/post/sentence/) falls [on](/zh/post/on/) [the](/zh/post/the/) [second](/zh/post/second/) syllable."
 
 - **动词**:
-  - 强调，着重：在说话或写作中特别注意或突出某个观点。例如: "I [want](/post/want/) [to](/post/to/) [stress](/post/stress/) [the](/post/the/) [importance](/post/importance/) [of](/post/of/) teamwork."
+  - 强调，着重：在说话或写作中特别注意或突出某个观点。例如: "I [want](/zh/post/want/) [to](/zh/post/to/) [stress](/zh/post/stress/) [the](/zh/post/the/) [importance](/zh/post/importance/) [of](/zh/post/of/) teamwork."
 
 ## 短语
-- "[Stress](/post/stress/) [management](/post/management/)" 管理压力的方法。
-- "[Emotional](/post/emotional/) [stress](/post/stress/)" 情绪压力。
-- "Work-related [stress](/post/stress/)" 工作导致的压力。
+- "[Stress](/zh/post/stress/) [management](/zh/post/management/)" 管理压力的方法。
+- "[Emotional](/zh/post/emotional/) [stress](/zh/post/stress/)" 情绪压力。
+- "Work-related [stress](/zh/post/stress/)" 工作导致的压力。
 
 ## 例句
-- 名词: "[Exercise](/post/exercise/) [can](/post/can/) [help](/post/help/) [reduce](/post/reduce/) [stress](/post/stress/) levels."
-- 动词: "[The](/post/the/) [teacher](/post/teacher/) stressed [the](/post/the/) [need](/post/need/) [for](/post/for/) [preparation](/post/preparation/) [before](/post/before/) [the](/post/the/) [exam](/post/exam/)."
-- 感叹词: "[Stress](/post/stress/) [not](/post/not/), [everything](/post/everything/) [will](/post/will/) [work](/post/work/) [out](/post/out/)."
+- 名词: "[Exercise](/zh/post/exercise/) [can](/zh/post/can/) [help](/zh/post/help/) [reduce](/zh/post/reduce/) [stress](/zh/post/stress/) levels."
+- 动词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) stressed [the](/zh/post/the/) [need](/zh/post/need/) [for](/zh/post/for/) [preparation](/zh/post/preparation/) [before](/zh/post/before/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
+- 感叹词: "[Stress](/zh/post/stress/) [not](/zh/post/not/), [everything](/zh/post/everything/) [will](/zh/post/will/) [work](/zh/post/work/) [out](/zh/post/out/)."
 
 ## 同义词
-- [Pressure](/post/pressure/)
+- [Pressure](/zh/post/pressure/)
 - Tension
-- [Strain](/post/strain/)
-- [Anxiety](/post/anxiety/)
+- [Strain](/zh/post/strain/)
+- [Anxiety](/zh/post/anxiety/)
 - Nervousness

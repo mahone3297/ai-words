@@ -7,30 +7,30 @@ description = '[ˈgræviti] n.重力，引力；严重性'
 keywords = ['ai words', 'gravity']
 +++
 
-## [Word](/en/post/word/): [Gravity](/en/post/gravity/)
+## [Word](/post/word/): [Gravity](/post/gravity/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡrævəti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [force](/en/post/force/) [that](/en/post/that/) attracts [two](/en/post/two/) bodies [with](/en/post/with/) [mass](/en/post/mass/) towards [each](/en/post/each/) [other](/en/post/other/). [It](/en/post/it/) is [the](/en/post/the/) [fundamental](/en/post/fundamental/) [force](/en/post/force/) [responsible](/en/post/responsible/) [for](/en/post/for/) keeping celestial bodies [in](/en/post/in/) [orbit](/en/post/orbit/) [around](/en/post/around/) [one](/en/post/one/) [another](/en/post/another/) [and](/en/post/and/) objects [on](/en/post/on/) Earth's [surface](/en/post/surface/) [from](/en/post/from/) floating [away](/en/post/away/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) astronauts experienced weightlessness [when](/en/post/when/) [they](/en/post/they/) [left](/en/post/left/) [the](/en/post/the/) Earth's [gravity](/en/post/gravity/) [behind](/en/post/behind/)."
-- **[Noun](/en/post/noun/) (figurative)**: Seriousness [or](/en/post/or/) solemnity [of](/en/post/of/) [conduct](/en/post/conduct/), [character](/en/post/character/), [or](/en/post/or/) [thought](/en/post/thought/). [Example](/en/post/example/): "[The](/en/post/the/) [situation](/en/post/situation/) demanded [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [gravity](/en/post/gravity/) [from](/en/post/from/) [all](/en/post/all/) [those](/en/post/those/) involved."
-- **[Noun](/en/post/noun/) ([physics](/en/post/physics/))**: [The](/en/post/the/) [measure](/en/post/measure/) [of](/en/post/of/) [the](/en/post/the/) gravitational [force](/en/post/force/) exerted [by](/en/post/by/) an [object](/en/post/object/), [often](/en/post/often/) expressed [in](/en/post/in/) terms [of](/en/post/of/) [its](/en/post/its/) [mass](/en/post/mass/). [Example](/en/post/example/): "[The](/en/post/the/) [moon](/en/post/moon/) has [less](/en/post/less/) [gravity](/en/post/gravity/) [than](/en/post/than/) [Earth](/en/post/earth/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [force](/post/force/) [that](/post/that/) attracts [two](/post/two/) bodies [with](/post/with/) [mass](/post/mass/) towards [each](/post/each/) [other](/post/other/). [It](/post/it/) is [the](/post/the/) [fundamental](/post/fundamental/) [force](/post/force/) [responsible](/post/responsible/) [for](/post/for/) keeping celestial bodies [in](/post/in/) [orbit](/post/orbit/) [around](/post/around/) [one](/post/one/) [another](/post/another/) [and](/post/and/) objects [on](/post/on/) Earth's [surface](/post/surface/) [from](/post/from/) floating [away](/post/away/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) astronauts experienced weightlessness [when](/post/when/) [they](/post/they/) [left](/post/left/) [the](/post/the/) Earth's [gravity](/post/gravity/) [behind](/post/behind/)."
+- **[Noun](/post/noun/) (figurative)**: Seriousness [or](/post/or/) solemnity [of](/post/of/) [conduct](/post/conduct/), [character](/post/character/), [or](/post/or/) [thought](/post/thought/). [Example](/post/example/): "[The](/post/the/) [situation](/post/situation/) demanded [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [gravity](/post/gravity/) [from](/post/from/) [all](/post/all/) [those](/post/those/) involved."
+- **[Noun](/post/noun/) ([physics](/post/physics/))**: [The](/post/the/) [measure](/post/measure/) [of](/post/of/) [the](/post/the/) gravitational [force](/post/force/) exerted [by](/post/by/) an [object](/post/object/), [often](/post/often/) expressed [in](/post/in/) terms [of](/post/of/) [its](/post/its/) [mass](/post/mass/). [Example](/post/example/): "[The](/post/the/) [moon](/post/moon/) has [less](/post/less/) [gravity](/post/gravity/) [than](/post/than/) [Earth](/post/earth/)."
 
 ## Phrases
-- "[Law](/en/post/law/) [of](/en/post/of/) [Gravity](/en/post/gravity/)": Newton's [law](/en/post/law/) describing [the](/en/post/the/) [attraction](/en/post/attraction/) [between](/en/post/between/) [two](/en/post/two/) bodies based [on](/en/post/on/) [their](/en/post/their/) masses [and](/en/post/and/) [distance](/en/post/distance/) [apart](/en/post/apart/).
-- "[Under](/en/post/under/) [the](/en/post/the/) [influence](/en/post/influence/) [of](/en/post/of/) [gravity](/en/post/gravity/)": Describing [something](/en/post/something/) [being](/en/post/being/) pulled [down](/en/post/down/) [or](/en/post/or/) affected [by](/en/post/by/) [the](/en/post/the/) [force](/en/post/force/) [of](/en/post/of/) [gravity](/en/post/gravity/).
-- "[To](/en/post/to/) defy [gravity](/en/post/gravity/)": [To](/en/post/to/) [act](/en/post/act/) [against](/en/post/against/) [or](/en/post/or/) [rise](/en/post/rise/) [above](/en/post/above/) [the](/en/post/the/) [natural](/en/post/natural/) [downward](/en/post/downward/) [pull](/en/post/pull/) [of](/en/post/of/) [gravity](/en/post/gravity/).
+- "[Law](/post/law/) [of](/post/of/) [Gravity](/post/gravity/)": Newton's [law](/post/law/) describing [the](/post/the/) [attraction](/post/attraction/) [between](/post/between/) [two](/post/two/) bodies based [on](/post/on/) [their](/post/their/) masses [and](/post/and/) [distance](/post/distance/) [apart](/post/apart/).
+- "[Under](/post/under/) [the](/post/the/) [influence](/post/influence/) [of](/post/of/) [gravity](/post/gravity/)": Describing [something](/post/something/) [being](/post/being/) pulled [down](/post/down/) [or](/post/or/) affected [by](/post/by/) [the](/post/the/) [force](/post/force/) [of](/post/of/) [gravity](/post/gravity/).
+- "[To](/post/to/) defy [gravity](/post/gravity/)": [To](/post/to/) [act](/post/act/) [against](/post/against/) [or](/post/or/) [rise](/post/rise/) [above](/post/above/) [the](/post/the/) [natural](/post/natural/) [downward](/post/downward/) [pull](/post/pull/) [of](/post/of/) [gravity](/post/gravity/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([force](/en/post/force/))**: "[Gravity](/en/post/gravity/) keeps planets [in](/en/post/in/) [orbit](/en/post/orbit/) [around](/en/post/around/) [the](/en/post/the/) [sun](/en/post/sun/)."
-- **[Noun](/en/post/noun/) (figurative)**: "[His](/en/post/his/) words were spoken [with](/en/post/with/) [a](/en/post/a/) [quiet](/en/post/quiet/) dignity [and](/en/post/and/) [gravity](/en/post/gravity/) [that](/en/post/that/) commanded [respect](/en/post/respect/)."
-- **[Noun](/en/post/noun/) ([physics](/en/post/physics/))**: "[On](/en/post/on/) [the](/en/post/the/) [moon](/en/post/moon/), an astronaut's [suit](/en/post/suit/) weighs [much](/en/post/much/) [less](/en/post/less/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [lower](/en/post/lower/) [gravity](/en/post/gravity/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([force](/post/force/))**: "[Gravity](/post/gravity/) keeps planets [in](/post/in/) [orbit](/post/orbit/) [around](/post/around/) [the](/post/the/) [sun](/post/sun/)."
+- **[Noun](/post/noun/) (figurative)**: "[His](/post/his/) words were spoken [with](/post/with/) [a](/post/a/) [quiet](/post/quiet/) dignity [and](/post/and/) [gravity](/post/gravity/) [that](/post/that/) commanded [respect](/post/respect/)."
+- **[Noun](/post/noun/) ([physics](/post/physics/))**: "[On](/post/on/) [the](/post/the/) [moon](/post/moon/), an astronaut's [suit](/post/suit/) weighs [much](/post/much/) [less](/post/less/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [lower](/post/lower/) [gravity](/post/gravity/)."
 
 ## Synonyms
 - Gravitation
-- [Attraction](/en/post/attraction/)
-- [Weight](/en/post/weight/)
-- Seriousness ([for](/en/post/for/) [the](/en/post/the/) figurative [meaning](/en/post/meaning/))
-- [Downward](/en/post/downward/) [pull](/en/post/pull/)
-- Centripetal [force](/en/post/force/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) orbits)
+- [Attraction](/post/attraction/)
+- [Weight](/post/weight/)
+- Seriousness ([for](/post/for/) [the](/post/the/) figurative [meaning](/post/meaning/))
+- [Downward](/post/downward/) [pull](/post/pull/)
+- Centripetal [force](/post/force/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) orbits)

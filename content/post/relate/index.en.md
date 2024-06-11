@@ -7,41 +7,41 @@ description = '[riˈleit] vt.叙述；使联系'
 keywords = ['ai words', 'relate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈleɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [relationship](/en/post/relationship/) [between](/en/post/between/) [people](/en/post/people/) [or](/en/post/or/) things**: [A](/en/post/a/) [connection](/en/post/connection/) [or](/en/post/or/) [association](/en/post/association/) [between](/en/post/between/) individuals [or](/en/post/or/) concepts. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) relates [the](/en/post/the/) [two](/en/post/two/) characters' experiences."
-- **[To](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [connect](/en/post/connect/) [with](/en/post/with/)**: [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) comprehend [and](/en/post/and/) [make](/en/post/make/) connections. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [strong](/en/post/strong/) [ability](/en/post/ability/) [to](/en/post/to/) [relate](/en/post/relate/) [to](/en/post/to/) others' emotions."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [relationship](/post/relationship/) [between](/post/between/) [people](/post/people/) [or](/post/or/) things**: [A](/post/a/) [connection](/post/connection/) [or](/post/or/) [association](/post/association/) [between](/post/between/) individuals [or](/post/or/) concepts. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) relates [the](/post/the/) [two](/post/two/) characters' experiences."
+- **[To](/post/to/) [understand](/post/understand/) [or](/post/or/) [connect](/post/connect/) [with](/post/with/)**: [The](/post/the/) [ability](/post/ability/) [to](/post/to/) comprehend [and](/post/and/) [make](/post/make/) connections. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [strong](/post/strong/) [ability](/post/ability/) [to](/post/to/) [relate](/post/relate/) [to](/post/to/) others' emotions."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [connect](/en/post/connect/) [or](/en/post/or/) [associate](/en/post/associate/)**: [Establish](/en/post/establish/) [a](/en/post/a/) [link](/en/post/link/) [or](/en/post/or/) correspondence [between](/en/post/between/). [For](/en/post/for/) [example](/en/post/example/): "[These](/en/post/these/) events are related chronologically."
-- **[To](/en/post/to/) [convey](/en/post/convey/) [or](/en/post/or/) [express](/en/post/express/)**: [Share](/en/post/share/) [information](/en/post/information/), feelings, [or](/en/post/or/) ideas. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) related [the](/en/post/the/) [story](/en/post/story/) [from](/en/post/from/) [his](/en/post/his/) [childhood](/en/post/childhood/)."
-- **[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [relationship](/en/post/relationship/) [with](/en/post/with/)**: [Be](/en/post/be/) connected [or](/en/post/or/) involved [with](/en/post/with/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) relates [well](/en/post/well/) [with](/en/post/with/) [her](/en/post/her/) students."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [connect](/post/connect/) [or](/post/or/) [associate](/post/associate/)**: [Establish](/post/establish/) [a](/post/a/) [link](/post/link/) [or](/post/or/) correspondence [between](/post/between/). [For](/post/for/) [example](/post/example/): "[These](/post/these/) events are related chronologically."
+- **[To](/post/to/) [convey](/post/convey/) [or](/post/or/) [express](/post/express/)**: [Share](/post/share/) [information](/post/information/), feelings, [or](/post/or/) ideas. [For](/post/for/) [example](/post/example/): "[He](/post/he/) related [the](/post/the/) [story](/post/story/) [from](/post/from/) [his](/post/his/) [childhood](/post/childhood/)."
+- **[To](/post/to/) [have](/post/have/) [a](/post/a/) [relationship](/post/relationship/) [with](/post/with/)**: [Be](/post/be/) connected [or](/post/or/) involved [with](/post/with/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) relates [well](/post/well/) [with](/post/with/) [her](/post/her/) students."
 
-### [Adjective](/en/post/adjective/)
-- **Connected [or](/en/post/or/) associated**: Showing [a](/en/post/a/) [relationship](/en/post/relationship/) [or](/en/post/or/) [connection](/en/post/connection/). [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) ideas are [closely](/en/post/closely/) related."
-- **[Relevant](/en/post/relevant/) [or](/en/post/or/) pertinent**: Having [a](/en/post/a/) bearing [on](/en/post/on/) [or](/en/post/or/) [connection](/en/post/connection/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) findings are [highly](/en/post/highly/) [relevant](/en/post/relevant/) [to](/en/post/to/) [our](/en/post/our/) [research](/en/post/research/)."
+### [Adjective](/post/adjective/)
+- **Connected [or](/post/or/) associated**: Showing [a](/post/a/) [relationship](/post/relationship/) [or](/post/or/) [connection](/post/connection/). [For](/post/for/) [example](/post/example/): "[Their](/post/their/) ideas are [closely](/post/closely/) related."
+- **[Relevant](/post/relevant/) [or](/post/or/) pertinent**: Having [a](/post/a/) bearing [on](/post/on/) [or](/post/or/) [connection](/post/connection/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) findings are [highly](/post/highly/) [relevant](/post/relevant/) [to](/post/to/) [our](/post/our/) [research](/post/research/)."
 
 ## Phrases
-- "[Relate](/en/post/relate/) [to](/en/post/to/)" [means](/en/post/means/) [to](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [connect](/en/post/connect/) [with](/en/post/with/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/).
-- "Unrelated events" are [those](/en/post/those/) [that](/en/post/that/) [do](/en/post/do/) [not](/en/post/not/) [share](/en/post/share/) [any](/en/post/any/) [connection](/en/post/connection/).
-- "[A](/en/post/a/) [distant](/en/post/distant/) [relation](/en/post/relation/)" refers [to](/en/post/to/) [a](/en/post/a/) [family](/en/post/family/) [member](/en/post/member/) [who](/en/post/who/) is [not](/en/post/not/) [closely](/en/post/closely/) connected.
+- "[Relate](/post/relate/) [to](/post/to/)" [means](/post/means/) [to](/post/to/) [understand](/post/understand/) [or](/post/or/) [connect](/post/connect/) [with](/post/with/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/).
+- "Unrelated events" are [those](/post/those/) [that](/post/that/) [do](/post/do/) [not](/post/not/) [share](/post/share/) [any](/post/any/) [connection](/post/connection/).
+- "[A](/post/a/) [distant](/post/distant/) [relation](/post/relation/)" refers [to](/post/to/) [a](/post/a/) [family](/post/family/) [member](/post/member/) [who](/post/who/) is [not](/post/not/) [closely](/post/closely/) connected.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [theory](/en/post/theory/) relates quantum [mechanics](/en/post/mechanics/) [and](/en/post/and/) [general](/en/post/general/) [relativity](/en/post/relativity/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) related [her](/en/post/her/) experiences [during](/en/post/during/) [her](/en/post/her/) travels."
-- **[Adjective](/en/post/adjective/)**: "[Their](/en/post/their/) thoughts were [highly](/en/post/highly/) related [to](/en/post/to/) [the](/en/post/the/) [topic](/en/post/topic/) [at](/en/post/at/) [hand](/en/post/hand/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [theory](/post/theory/) relates quantum [mechanics](/post/mechanics/) [and](/post/and/) [general](/post/general/) [relativity](/post/relativity/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) related [her](/post/her/) experiences [during](/post/during/) [her](/post/her/) travels."
+- **[Adjective](/post/adjective/)**: "[Their](/post/their/) thoughts were [highly](/post/highly/) related [to](/post/to/) [the](/post/the/) [topic](/post/topic/) [at](/post/at/) [hand](/post/hand/)."
 
 ## Synonyms
-- [Link](/en/post/link/)
-- [Connect](/en/post/connect/)
-- [Associate](/en/post/associate/)
+- [Link](/post/link/)
+- [Connect](/post/connect/)
+- [Associate](/post/associate/)
 - Correlate
-- [Understand](/en/post/understand/)
-- [Bear](/en/post/bear/)
-- [Touch](/en/post/touch/) [upon](/en/post/upon/)
-- [Concern](/en/post/concern/)
-- [Imply](/en/post/imply/)
-- [Refer](/en/post/refer/)
+- [Understand](/post/understand/)
+- [Bear](/post/bear/)
+- [Touch](/post/touch/) [upon](/post/upon/)
+- [Concern](/post/concern/)
+- [Imply](/post/imply/)
+- [Refer](/post/refer/)

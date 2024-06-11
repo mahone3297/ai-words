@@ -11,20 +11,20 @@ keywords = ['ai words', 'arrest']
 /əˈrest/
 
 ## 释义
-- **动词**: 抓捕，逮捕。例如: "[The](/post/the/) [police](/post/police/) arrested [the](/post/the/) [suspect](/post/suspect/) [for](/post/for/) [robbery](/post/robbery/)."
-- **名词**: 逮捕，拘留。例如: "[There](/post/there/) was an [arrest](/post/arrest/) made [in](/post/in/) [connection](/post/connection/) [with](/post/with/) [the](/post/the/) [bank](/post/bank/) [robbery](/post/robbery/)."
+- **动词**: 抓捕，逮捕。例如: "[The](/zh/post/the/) [police](/zh/post/police/) arrested [the](/zh/post/the/) [suspect](/zh/post/suspect/) [for](/zh/post/for/) [robbery](/zh/post/robbery/)."
+- **名词**: 逮捕，拘留。例如: "[There](/zh/post/there/) was an [arrest](/zh/post/arrest/) made [in](/zh/post/in/) [connection](/zh/post/connection/) [with](/zh/post/with/) [the](/zh/post/the/) [bank](/zh/post/bank/) [robbery](/zh/post/robbery/)."
 
 ## 短语
-- "[Under](/post/under/) [arrest](/post/arrest/)" 意味着被逮捕或拘留。例如: "[He](/post/he/) was taken [into](/post/into/) custody [and](/post/and/) is [now](/post/now/) [under](/post/under/) [arrest](/post/arrest/)."
-- "[Arrest](/post/arrest/) warrant" 是逮捕令，允许警方逮捕某人。例如: "[The](/post/the/) [judge](/post/judge/) issued an [arrest](/post/arrest/) warrant [for](/post/for/) [the](/post/the/) fugitive."
+- "[Under](/zh/post/under/) [arrest](/zh/post/arrest/)" 意味着被逮捕或拘留。例如: "[He](/zh/post/he/) was taken [into](/zh/post/into/) custody [and](/zh/post/and/) is [now](/zh/post/now/) [under](/zh/post/under/) [arrest](/zh/post/arrest/)."
+- "[Arrest](/zh/post/arrest/) warrant" 是逮捕令，允许警方逮捕某人。例如: "[The](/zh/post/the/) [judge](/zh/post/judge/) issued an [arrest](/zh/post/arrest/) warrant [for](/zh/post/for/) [the](/zh/post/the/) fugitive."
 
 ## 例句
-- 动词: "[The](/post/the/) [officer](/post/officer/) arrested [the](/post/the/) [driver](/post/driver/) [for](/post/for/) [drunk](/post/drunk/) driving."
-- 名词: "[His](/post/his/) [arrest](/post/arrest/) made headlines [across](/post/across/) [the](/post/the/) [country](/post/country/)."
+- 动词: "[The](/zh/post/the/) [officer](/zh/post/officer/) arrested [the](/zh/post/the/) [driver](/zh/post/driver/) [for](/zh/post/for/) [drunk](/zh/post/drunk/) driving."
+- 名词: "[His](/zh/post/his/) [arrest](/zh/post/arrest/) made headlines [across](/zh/post/across/) [the](/zh/post/the/) [country](/zh/post/country/)."
 
 ## 同义词
 - Detain
-- [Seize](/post/seize/)
+- [Seize](/zh/post/seize/)
 - Apprehend
-- [Capture](/post/capture/)
-- [Take](/post/take/) [into](/post/into/) custody
+- [Capture](/zh/post/capture/)
+- [Take](/zh/post/take/) [into](/zh/post/into/) custody

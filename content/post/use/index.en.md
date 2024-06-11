@@ -7,39 +7,39 @@ description = '[juːs] vt.用；耗费 n.用'
 keywords = ['ai words', 'use']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjuːz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) using [something](/en/post/something/); employing [or](/en/post/or/) applying [something](/en/post/something/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/). *[Example](/en/post/example/): [She](/en/post/she/) uses [her](/en/post/her/) [computer](/en/post/computer/) [for](/en/post/for/) [work](/en/post/work/) [every](/en/post/every/) [day](/en/post/day/).*
-2. [A](/en/post/a/) [method](/en/post/method/) [or](/en/post/or/) [manner](/en/post/manner/) [of](/en/post/of/) doing [something](/en/post/something/); [a](/en/post/a/) [technique](/en/post/technique/). *[Example](/en/post/example/): [He](/en/post/he/) [found](/en/post/found/) [a](/en/post/a/) [new](/en/post/new/) [way](/en/post/way/) [to](/en/post/to/) [use](/en/post/use/) [the](/en/post/the/) [tool](/en/post/tool/).*
-3. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) employed [or](/en/post/or/) occupied; utilization. *[Example](/en/post/example/): They're putting [the](/en/post/the/) [house](/en/post/house/) [to](/en/post/to/) [good](/en/post/good/) [use](/en/post/use/).*
-4. An [instance](/en/post/instance/) [of](/en/post/of/) utilizing [something](/en/post/something/); [a](/en/post/a/) [specific](/en/post/specific/) [application](/en/post/application/). *[Example](/en/post/example/): [This](/en/post/this/) [old](/en/post/old/) [car](/en/post/car/) [still](/en/post/still/) has [some](/en/post/some/) [useful](/en/post/useful/) [life](/en/post/life/) [left](/en/post/left/) [in](/en/post/in/) [it](/en/post/it/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) using [something](/post/something/); employing [or](/post/or/) applying [something](/post/something/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/). *[Example](/post/example/): [She](/post/she/) uses [her](/post/her/) [computer](/post/computer/) [for](/post/for/) [work](/post/work/) [every](/post/every/) [day](/post/day/).*
+2. [A](/post/a/) [method](/post/method/) [or](/post/or/) [manner](/post/manner/) [of](/post/of/) doing [something](/post/something/); [a](/post/a/) [technique](/post/technique/). *[Example](/post/example/): [He](/post/he/) [found](/post/found/) [a](/post/a/) [new](/post/new/) [way](/post/way/) [to](/post/to/) [use](/post/use/) [the](/post/the/) [tool](/post/tool/).*
+3. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) employed [or](/post/or/) occupied; utilization. *[Example](/post/example/): They're putting [the](/post/the/) [house](/post/house/) [to](/post/to/) [good](/post/good/) [use](/post/use/).*
+4. An [instance](/post/instance/) [of](/post/of/) utilizing [something](/post/something/); [a](/post/a/) [specific](/post/specific/) [application](/post/application/). *[Example](/post/example/): [This](/post/this/) [old](/post/old/) [car](/post/car/) [still](/post/still/) has [some](/post/some/) [useful](/post/useful/) [life](/post/life/) [left](/post/left/) [in](/post/in/) [it](/post/it/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [employ](/en/post/employ/) [or](/en/post/or/) [utilize](/en/post/utilize/) [something](/en/post/something/); [make](/en/post/make/) [use](/en/post/use/) [of](/en/post/of/). *[Example](/en/post/example/): [He](/en/post/he/) uses [his](/en/post/his/) skills [to](/en/post/to/) [solve](/en/post/solve/) problems.*
-2. [To](/en/post/to/) [apply](/en/post/apply/) [or](/en/post/or/) [exercise](/en/post/exercise/) (powers, abilities, [or](/en/post/or/) resources). *[Example](/en/post/example/): [She](/en/post/she/) uses [her](/en/post/her/) creativity [in](/en/post/in/) [her](/en/post/her/) [art](/en/post/art/) projects.*
-3. [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [purpose](/en/post/purpose/) [or](/en/post/or/) [function](/en/post/function/) [for](/en/post/for/); [serve](/en/post/serve/) [a](/en/post/a/) [role](/en/post/role/). *[Example](/en/post/example/): [This](/en/post/this/) [room](/en/post/room/) is [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [study](/en/post/study/) [by](/en/post/by/) [the](/en/post/the/) children.*
-4. [To](/en/post/to/) [intend](/en/post/intend/) [or](/en/post/or/) [plan](/en/post/plan/) [to](/en/post/to/) [employ](/en/post/employ/) [something](/en/post/something/). *[Example](/en/post/example/): [We](/en/post/we/) [use](/en/post/use/) [this](/en/post/this/) [meeting](/en/post/meeting/) [to](/en/post/to/) [discuss](/en/post/discuss/) [future](/en/post/future/) projects.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [employ](/post/employ/) [or](/post/or/) [utilize](/post/utilize/) [something](/post/something/); [make](/post/make/) [use](/post/use/) [of](/post/of/). *[Example](/post/example/): [He](/post/he/) uses [his](/post/his/) skills [to](/post/to/) [solve](/post/solve/) problems.*
+2. [To](/post/to/) [apply](/post/apply/) [or](/post/or/) [exercise](/post/exercise/) (powers, abilities, [or](/post/or/) resources). *[Example](/post/example/): [She](/post/she/) uses [her](/post/her/) creativity [in](/post/in/) [her](/post/her/) [art](/post/art/) projects.*
+3. [To](/post/to/) [have](/post/have/) [a](/post/a/) [purpose](/post/purpose/) [or](/post/or/) [function](/post/function/) [for](/post/for/); [serve](/post/serve/) [a](/post/a/) [role](/post/role/). *[Example](/post/example/): [This](/post/this/) [room](/post/room/) is [used](/post/used/) [as](/post/as/) [a](/post/a/) [study](/post/study/) [by](/post/by/) [the](/post/the/) children.*
+4. [To](/post/to/) [intend](/post/intend/) [or](/post/or/) [plan](/post/plan/) [to](/post/to/) [employ](/post/employ/) [something](/post/something/). *[Example](/post/example/): [We](/post/we/) [use](/post/use/) [this](/post/this/) [meeting](/post/meeting/) [to](/post/to/) [discuss](/post/discuss/) [future](/post/future/) projects.*
 
-### [Preposition](/en/post/preposition/)
-[In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) "[use](/en/post/use/) [of](/en/post/of/)", [it](/en/post/it/) is [often](/en/post/often/) followed [by](/en/post/by/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [pronoun](/en/post/pronoun/), indicating [the](/en/post/the/) [employment](/en/post/employment/) [or](/en/post/or/) [application](/en/post/application/) [of](/en/post/of/) [something](/en/post/something/). *[Example](/en/post/example/): [The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [technology](/en/post/technology/) has [greatly](/en/post/greatly/) increased [in](/en/post/in/) [recent](/en/post/recent/) years.*
+### [Preposition](/post/preposition/)
+[In](/post/in/) [the](/post/the/) context [of](/post/of/) "[use](/post/use/) [of](/post/of/)", [it](/post/it/) is [often](/post/often/) followed [by](/post/by/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [pronoun](/post/pronoun/), indicating [the](/post/the/) [employment](/post/employment/) [or](/post/or/) [application](/post/application/) [of](/post/of/) [something](/post/something/). *[Example](/post/example/): [The](/post/the/) [use](/post/use/) [of](/post/of/) [technology](/post/technology/) has [greatly](/post/greatly/) increased [in](/post/in/) [recent](/post/recent/) years.*
 
 ## Phrases
-- "[Put](/en/post/put/) [something](/en/post/something/) [to](/en/post/to/) [good](/en/post/good/) [use](/en/post/use/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [efficient](/en/post/efficient/) [or](/en/post/or/) [productive](/en/post/productive/) [use](/en/post/use/) [of](/en/post/of/) [something](/en/post/something/).
-- "[Make](/en/post/make/) [use](/en/post/use/) [of](/en/post/of/)" [or](/en/post/or/) "[utilize](/en/post/utilize/)" are [common](/en/post/common/) alternatives [to](/en/post/to/) "[use](/en/post/use/)."
-- "[Useless](/en/post/useless/)" describes [something](/en/post/something/) [that](/en/post/that/) has [no](/en/post/no/) [practical](/en/post/practical/) [value](/en/post/value/) [or](/en/post/or/) effectiveness.
+- "[Put](/post/put/) [something](/post/something/) [to](/post/to/) [good](/post/good/) [use](/post/use/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [efficient](/post/efficient/) [or](/post/or/) [productive](/post/productive/) [use](/post/use/) [of](/post/of/) [something](/post/something/).
+- "[Make](/post/make/) [use](/post/use/) [of](/post/of/)" [or](/post/or/) "[utilize](/post/utilize/)" are [common](/post/common/) alternatives [to](/post/to/) "[use](/post/use/)."
+- "[Useless](/post/useless/)" describes [something](/post/something/) [that](/post/that/) has [no](/post/no/) [practical](/post/practical/) [value](/post/value/) [or](/post/or/) effectiveness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [shed](/en/post/shed/) was [put](/en/post/put/) [to](/en/post/to/) [good](/en/post/good/) [use](/en/post/use/) [as](/en/post/as/) [a](/en/post/a/) [storage](/en/post/storage/) [area](/en/post/area/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) uses [her](/en/post/her/) [spare](/en/post/spare/) [time](/en/post/time/) [to](/en/post/to/) [learn](/en/post/learn/) [a](/en/post/a/) [new](/en/post/new/) [language](/en/post/language/)."
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) [company](/en/post/company/) is exploring [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) renewable [energy](/en/post/energy/) sources."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [shed](/post/shed/) was [put](/post/put/) [to](/post/to/) [good](/post/good/) [use](/post/use/) [as](/post/as/) [a](/post/a/) [storage](/post/storage/) [area](/post/area/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) uses [her](/post/her/) [spare](/post/spare/) [time](/post/time/) [to](/post/to/) [learn](/post/learn/) [a](/post/a/) [new](/post/new/) [language](/post/language/)."
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) [company](/post/company/) is exploring [the](/post/the/) [use](/post/use/) [of](/post/of/) renewable [energy](/post/energy/) sources."
 
 ## Synonyms
-- [Employ](/en/post/employ/)
-- [Utilize](/en/post/utilize/)
-- [Apply](/en/post/apply/)
-- [Employ](/en/post/employ/)
-- [Engage](/en/post/engage/)
-- Utilise (British [spelling](/en/post/spelling/))
+- [Employ](/post/employ/)
+- [Utilize](/post/utilize/)
+- [Apply](/post/apply/)
+- [Employ](/post/employ/)
+- [Engage](/post/engage/)
+- Utilise (British [spelling](/post/spelling/))

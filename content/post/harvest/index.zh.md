@@ -11,20 +11,20 @@ keywords = ['ai words', 'harvest']
 /hɑːˈvɛst/
 
 ## 释义
-- **名词**: 收获；收割；产品；成果。例如: "[They](/post/they/) had [a](/post/a/) bountiful [harvest](/post/harvest/) [of](/post/of/) [wheat](/post/wheat/) [this](/post/this/) [year](/post/year/)."
-- **动词**: 收割；收获；获得。例如: "Farmers are [busy](/post/busy/) harvesting [their](/post/their/) crops [in](/post/in/) [autumn](/post/autumn/)."
+- **名词**: 收获；收割；产品；成果。例如: "[They](/zh/post/they/) had [a](/zh/post/a/) bountiful [harvest](/zh/post/harvest/) [of](/zh/post/of/) [wheat](/zh/post/wheat/) [this](/zh/post/this/) [year](/zh/post/year/)."
+- **动词**: 收割；收获；获得。例如: "Farmers are [busy](/zh/post/busy/) harvesting [their](/zh/post/their/) crops [in](/zh/post/in/) [autumn](/zh/post/autumn/)."
 
 ## 短语
-- "[Harvest](/post/harvest/) [time](/post/time/)" 指农作物的收割季节。
-- "[Harvest](/post/harvest/) [moon](/post/moon/)" 是指秋季满月，通常在农作物收割期间。
+- "[Harvest](/zh/post/harvest/) [time](/zh/post/time/)" 指农作物的收割季节。
+- "[Harvest](/zh/post/harvest/) [moon](/zh/post/moon/)" 是指秋季满月，通常在农作物收割期间。
 
 ## 例句
-- 名词: "[The](/post/the/) farmers celebrated [the](/post/the/) [successful](/post/successful/) [harvest](/post/harvest/) [with](/post/with/) [a](/post/a/) [big](/post/big/) [feast](/post/feast/)."
-- 动词: "[They](/post/they/) started [to](/post/to/) [harvest](/post/harvest/) [the](/post/the/) grapes [for](/post/for/) wine-making [in](/post/in/) [early](/post/early/) September."
+- 名词: "[The](/zh/post/the/) farmers celebrated [the](/zh/post/the/) [successful](/zh/post/successful/) [harvest](/zh/post/harvest/) [with](/zh/post/with/) [a](/zh/post/a/) [big](/zh/post/big/) [feast](/zh/post/feast/)."
+- 动词: "[They](/zh/post/they/) started [to](/zh/post/to/) [harvest](/zh/post/harvest/) [the](/zh/post/the/) grapes [for](/zh/post/for/) wine-making [in](/zh/post/in/) [early](/zh/post/early/) September."
   
 ## 同义词
-- [Reap](/post/reap/)
-- [Gather](/post/gather/)
-- [Collect](/post/collect/)
-- [Yield](/post/yield/)
+- [Reap](/zh/post/reap/)
+- [Gather](/zh/post/gather/)
+- [Collect](/zh/post/collect/)
+- [Yield](/zh/post/yield/)
 - Procure

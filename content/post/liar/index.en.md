@@ -7,22 +7,22 @@ description = '[ˈlaiə] n.说谎的人'
 keywords = ['ai words', 'liar']
 +++
 
-## [Word](/en/post/word/): [Liar](/en/post/liar/)
+## [Word](/post/word/): [Liar](/post/liar/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlaɪər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) habitually tells lies; [someone](/en/post/someone/) [who](/en/post/who/) intentionally makes [false](/en/post/false/) statements. [For](/en/post/for/) [example](/en/post/example/): "He's [a](/en/post/a/) pathological [liar](/en/post/liar/) [who](/en/post/who/) can't [be](/en/post/be/) trusted."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) habitually tells lies; [someone](/post/someone/) [who](/post/who/) intentionally makes [false](/post/false/) statements. [For](/post/for/) [example](/post/example/): "He's [a](/post/a/) pathological [liar](/post/liar/) [who](/post/who/) can't [be](/post/be/) trusted."
 
-### [Example](/en/post/example/) Sentences
-- "[The](/en/post/the/) [politician](/en/post/politician/) was revealed [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [liar](/en/post/liar/) [when](/en/post/when/) [his](/en/post/his/) fabricated stories were exposed [by](/en/post/by/) [the](/en/post/the/) [press](/en/post/press/)."
-- "[Her](/en/post/her/) [constant](/en/post/constant/) dishonesty made [her](/en/post/her/) [out](/en/post/out/) [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) notorious [liar](/en/post/liar/) [among](/en/post/among/) [her](/en/post/her/) friends."
+### [Example](/post/example/) Sentences
+- "[The](/post/the/) [politician](/post/politician/) was revealed [to](/post/to/) [be](/post/be/) [a](/post/a/) [liar](/post/liar/) [when](/post/when/) [his](/post/his/) fabricated stories were exposed [by](/post/by/) [the](/post/the/) [press](/post/press/)."
+- "[Her](/post/her/) [constant](/post/constant/) dishonesty made [her](/post/her/) [out](/post/out/) [to](/post/to/) [be](/post/be/) [a](/post/a/) notorious [liar](/post/liar/) [among](/post/among/) [her](/post/her/) friends."
 
 ## Phrases
-- "Caught [in](/en/post/in/) [a](/en/post/a/) [lie](/en/post/lie/)" - [When](/en/post/when/) [someone](/en/post/someone/) is proven [to](/en/post/to/) [be](/en/post/be/) lying [after](/en/post/after/) making [a](/en/post/a/) [false](/en/post/false/) [statement](/en/post/statement/).
-- "[Liar](/en/post/liar/), [liar](/en/post/liar/), pants [on](/en/post/on/) [fire](/en/post/fire/)" - [A](/en/post/a/) [childish](/en/post/childish/) taunt [or](/en/post/or/) rhyme [often](/en/post/often/) said [to](/en/post/to/) [someone](/en/post/someone/) accused [of](/en/post/of/) lying.
-- "Don't [trust](/en/post/trust/) [him](/en/post/him/); he's [a](/en/post/a/) [liar](/en/post/liar/) [through](/en/post/through/) [and](/en/post/and/) [through](/en/post/through/)" - An [expression](/en/post/expression/) emphasizing [that](/en/post/that/) [someone](/en/post/someone/) has [a](/en/post/a/) [reputation](/en/post/reputation/) [for](/en/post/for/) [being](/en/post/being/) consistently dishonest.
+- "Caught [in](/post/in/) [a](/post/a/) [lie](/post/lie/)" - [When](/post/when/) [someone](/post/someone/) is proven [to](/post/to/) [be](/post/be/) lying [after](/post/after/) making [a](/post/a/) [false](/post/false/) [statement](/post/statement/).
+- "[Liar](/post/liar/), [liar](/post/liar/), pants [on](/post/on/) [fire](/post/fire/)" - [A](/post/a/) [childish](/post/childish/) taunt [or](/post/or/) rhyme [often](/post/often/) said [to](/post/to/) [someone](/post/someone/) accused [of](/post/of/) lying.
+- "Don't [trust](/post/trust/) [him](/post/him/); he's [a](/post/a/) [liar](/post/liar/) [through](/post/through/) [and](/post/and/) [through](/post/through/)" - An [expression](/post/expression/) emphasizing [that](/post/that/) [someone](/post/someone/) has [a](/post/a/) [reputation](/post/reputation/) [for](/post/for/) [being](/post/being/) consistently dishonest.
 
 ## Synonyms
 - Deceiver
@@ -32,5 +32,5 @@ keywords = ['ai words', 'liar']
 - Faker
 - Dissembler
 - Misleader
-- Mendacious [person](/en/post/person/)
-- Untruthful [person](/en/post/person/)
+- Mendacious [person](/post/person/)
+- Untruthful [person](/post/person/)

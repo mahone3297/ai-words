@@ -7,31 +7,31 @@ description = '[ˈwaidn] vt.加宽 vi.变宽'
 keywords = ['ai words', 'widen']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɪˈdaɪn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-  - **Transitive [verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) wider [in](/en/post/in/) [size](/en/post/size/), [extent](/en/post/extent/), [or](/en/post/or/) [scope](/en/post/scope/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [river](/en/post/river/) widened [after](/en/post/after/) [heavy](/en/post/heavy/) rainfall."
-  - **Intransitive [verb](/en/post/verb/)**: [To](/en/post/to/) [expand](/en/post/expand/) [or](/en/post/or/) [grow](/en/post/grow/) broader [in](/en/post/in/) [perspective](/en/post/perspective/) [or](/en/post/or/) [understanding](/en/post/understanding/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [knowledge](/en/post/knowledge/) widened [with](/en/post/with/) [each](/en/post/each/) [new](/en/post/new/) [experience](/en/post/experience/)."
+- **[Verb](/post/verb/)**: 
+  - **Transitive [verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) wider [in](/post/in/) [size](/post/size/), [extent](/post/extent/), [or](/post/or/) [scope](/post/scope/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [river](/post/river/) widened [after](/post/after/) [heavy](/post/heavy/) rainfall."
+  - **Intransitive [verb](/post/verb/)**: [To](/post/to/) [expand](/post/expand/) [or](/post/or/) [grow](/post/grow/) broader [in](/post/in/) [perspective](/post/perspective/) [or](/post/or/) [understanding](/post/understanding/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [knowledge](/post/knowledge/) widened [with](/post/with/) [each](/post/each/) [new](/post/new/) [experience](/post/experience/)."
 
 ## Phrases
-- "[Widen](/en/post/widen/) [the](/en/post/the/) [road](/en/post/road/)" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) expanding [a](/en/post/a/) road's [width](/en/post/width/).
-- "[Widen](/en/post/widen/) one's horizons" [means](/en/post/means/) [to](/en/post/to/) broaden one's [range](/en/post/range/) [of](/en/post/of/) experiences [or](/en/post/or/) [knowledge](/en/post/knowledge/).
-- "[Widen](/en/post/widen/) [the](/en/post/the/) [gap](/en/post/gap/)" is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) increasing [the](/en/post/the/) [difference](/en/post/difference/) [between](/en/post/between/) [two](/en/post/two/) things.
+- "[Widen](/post/widen/) [the](/post/the/) [road](/post/road/)" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) expanding [a](/post/a/) road's [width](/post/width/).
+- "[Widen](/post/widen/) one's horizons" [means](/post/means/) [to](/post/to/) broaden one's [range](/post/range/) [of](/post/of/) experiences [or](/post/or/) [knowledge](/post/knowledge/).
+- "[Widen](/post/widen/) [the](/post/the/) [gap](/post/gap/)" is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) increasing [the](/post/the/) [difference](/post/difference/) [between](/post/between/) [two](/post/two/) things.
 
-## [Example](/en/post/example/) Sentences
-- **Transitive**: "[The](/en/post/the/) contractor widened [the](/en/post/the/) [bridge](/en/post/bridge/) [to](/en/post/to/) [accommodate](/en/post/accommodate/) larger vehicles."
-- **Intransitive**: "[Reading](/en/post/reading/) extensively widened [her](/en/post/her/) appreciation [for](/en/post/for/) [different](/en/post/different/) cultures."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) garden's [path](/en/post/path/) had widened [over](/en/post/over/) [time](/en/post/time/)."
+## [Example](/post/example/) Sentences
+- **Transitive**: "[The](/post/the/) contractor widened [the](/post/the/) [bridge](/post/bridge/) [to](/post/to/) [accommodate](/post/accommodate/) larger vehicles."
+- **Intransitive**: "[Reading](/post/reading/) extensively widened [her](/post/her/) appreciation [for](/post/for/) [different](/post/different/) cultures."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) garden's [path](/post/path/) had widened [over](/post/over/) [time](/post/time/)."
 
 ## Synonyms
-- [Expand](/en/post/expand/)
--[Enlarge](/en/post/enlarge/)
+- [Expand](/post/expand/)
+-[Enlarge](/post/enlarge/)
 -Broaden
 -Lengthen
--[Enlarge](/en/post/enlarge/) [the](/en/post/the/) [diameter](/en/post/diameter/)
--[Enlarge](/en/post/enlarge/) [the](/en/post/the/) [span](/en/post/span/)
+-[Enlarge](/post/enlarge/) [the](/post/the/) [diameter](/post/diameter/)
+-[Enlarge](/post/enlarge/) [the](/post/the/) [span](/post/span/)
 -Boost
--[Increase](/en/post/increase/) [in](/en/post/in/) [width](/en/post/width/)
--[Stretch](/en/post/stretch/) [out](/en/post/out/)
+-[Increase](/post/increase/) [in](/post/in/) [width](/post/width/)
+-[Stretch](/post/stretch/) [out](/post/out/)

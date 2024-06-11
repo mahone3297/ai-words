@@ -7,38 +7,38 @@ description = '[ˈsteitəs] n.地位，身分'
 keywords = ['ai words', 'status']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stəˈtəs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/) [of](/en/post/of/) [something](/en/post/something/); [a](/en/post/a/) [particular](/en/post/particular/) [level](/en/post/level/) [or](/en/post/or/) [rank](/en/post/rank/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) is [still](/en/post/still/) [in](/en/post/in/) [development](/en/post/development/) [stage](/en/post/stage/)."
-   - "[His](/en/post/his/) [social](/en/post/social/) [status](/en/post/status/) was [a](/en/post/a/) [topic](/en/post/topic/) [of](/en/post/of/) [discussion](/en/post/discussion/) [among](/en/post/among/) [his](/en/post/his/) friends."
-2. [A](/en/post/a/) [title](/en/post/title/) [or](/en/post/or/) [position](/en/post/position/) held [by](/en/post/by/) [a](/en/post/a/) [person](/en/post/person/), [especially](/en/post/especially/) [in](/en/post/in/) an [organization](/en/post/organization/) [or](/en/post/or/) [society](/en/post/society/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) holds [a](/en/post/a/) high-ranking [status](/en/post/status/) [in](/en/post/in/) [the](/en/post/the/) [company](/en/post/company/)."
-3. [A](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [importance](/en/post/importance/) [or](/en/post/or/) [recognition](/en/post/recognition/), [often](/en/post/often/) associated [with](/en/post/with/) achievements [or](/en/post/or/) accomplishments. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [new](/en/post/new/) [book](/en/post/book/) has given [her](/en/post/her/) [literary](/en/post/literary/) [status](/en/post/status/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [state](/post/state/) [or](/post/or/) [condition](/post/condition/) [of](/post/of/) [something](/post/something/); [a](/post/a/) [particular](/post/particular/) [level](/post/level/) [or](/post/or/) [rank](/post/rank/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) is [still](/post/still/) [in](/post/in/) [development](/post/development/) [stage](/post/stage/)."
+   - "[His](/post/his/) [social](/post/social/) [status](/post/status/) was [a](/post/a/) [topic](/post/topic/) [of](/post/of/) [discussion](/post/discussion/) [among](/post/among/) [his](/post/his/) friends."
+2. [A](/post/a/) [title](/post/title/) [or](/post/or/) [position](/post/position/) held [by](/post/by/) [a](/post/a/) [person](/post/person/), [especially](/post/especially/) [in](/post/in/) an [organization](/post/organization/) [or](/post/or/) [society](/post/society/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) holds [a](/post/a/) high-ranking [status](/post/status/) [in](/post/in/) [the](/post/the/) [company](/post/company/)."
+3. [A](/post/a/) [measure](/post/measure/) [of](/post/of/) [importance](/post/importance/) [or](/post/or/) [recognition](/post/recognition/), [often](/post/often/) associated [with](/post/with/) achievements [or](/post/or/) accomplishments. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [new](/post/new/) [book](/post/book/) has given [her](/post/her/) [literary](/post/literary/) [status](/post/status/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [assign](/en/post/assign/) [or](/en/post/or/) bestow [a](/en/post/a/) [status](/en/post/status/) [upon](/en/post/upon/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [judge](/en/post/judge/) granted [the](/en/post/the/) defendant [a](/en/post/a/) lesser [status](/en/post/status/) [in](/en/post/in/) [the](/en/post/the/) [case](/en/post/case/)."
-2. [To](/en/post/to/) [maintain](/en/post/maintain/) [or](/en/post/or/) [have](/en/post/have/) [a](/en/post/a/) [certain](/en/post/certain/) [status](/en/post/status/) [in](/en/post/in/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [relationship](/en/post/relationship/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) tries [to](/en/post/to/) [keep](/en/post/keep/) [a](/en/post/a/) [low](/en/post/low/) profile [to](/en/post/to/) [maintain](/en/post/maintain/) [his](/en/post/his/) anonymity."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [assign](/post/assign/) [or](/post/or/) bestow [a](/post/a/) [status](/post/status/) [upon](/post/upon/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [judge](/post/judge/) granted [the](/post/the/) defendant [a](/post/a/) lesser [status](/post/status/) [in](/post/in/) [the](/post/the/) [case](/post/case/)."
+2. [To](/post/to/) [maintain](/post/maintain/) [or](/post/or/) [have](/post/have/) [a](/post/a/) [certain](/post/certain/) [status](/post/status/) [in](/post/in/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [relationship](/post/relationship/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) tries [to](/post/to/) [keep](/post/keep/) [a](/post/a/) [low](/post/low/) profile [to](/post/to/) [maintain](/post/maintain/) [his](/post/his/) anonymity."
 
 ## Phrases
-- "Achieving [a](/en/post/a/) [certain](/en/post/certain/) [status](/en/post/status/)" [means](/en/post/means/) reaching [a](/en/post/a/) desired [level](/en/post/level/) [or](/en/post/or/) [position](/en/post/position/).
-- "Losing one's [status](/en/post/status/)" implies losing [respect](/en/post/respect/) [or](/en/post/or/) [privilege](/en/post/privilege/).
-- "Maintaining [a](/en/post/a/) [healthy](/en/post/healthy/) [status](/en/post/status/)" refers [to](/en/post/to/) keeping [a](/en/post/a/) balanced [or](/en/post/or/) optimal [condition](/en/post/condition/).
+- "Achieving [a](/post/a/) [certain](/post/certain/) [status](/post/status/)" [means](/post/means/) reaching [a](/post/a/) desired [level](/post/level/) [or](/post/or/) [position](/post/position/).
+- "Losing one's [status](/post/status/)" implies losing [respect](/post/respect/) [or](/post/or/) [privilege](/post/privilege/).
+- "Maintaining [a](/post/a/) [healthy](/post/healthy/) [status](/post/status/)" refers [to](/post/to/) keeping [a](/post/a/) balanced [or](/post/or/) optimal [condition](/post/condition/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was [proud](/en/post/proud/) [of](/en/post/of/) [her](/en/post/her/) [status](/en/post/status/) [as](/en/post/as/) [a](/en/post/a/) published [author](/en/post/author/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) team's [performance](/en/post/performance/) improved, raising [their](/en/post/their/) [status](/en/post/status/) [in](/en/post/in/) [the](/en/post/the/) [league](/en/post/league/)."
-- **Phrasal**: "[The](/en/post/the/) [company](/en/post/company/) aims [to](/en/post/to/) [improve](/en/post/improve/) [its](/en/post/its/) environmental sustainability [status](/en/post/status/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was [proud](/post/proud/) [of](/post/of/) [her](/post/her/) [status](/post/status/) [as](/post/as/) [a](/post/a/) published [author](/post/author/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) team's [performance](/post/performance/) improved, raising [their](/post/their/) [status](/post/status/) [in](/post/in/) [the](/post/the/) [league](/post/league/)."
+- **Phrasal**: "[The](/post/the/) [company](/post/company/) aims [to](/post/to/) [improve](/post/improve/) [its](/post/its/) environmental sustainability [status](/post/status/)."
 
 ## Synonyms
-- [Rank](/en/post/rank/)
-- [Position](/en/post/position/)
+- [Rank](/post/rank/)
+- [Position](/post/position/)
 - Standing
-- [Reputation](/en/post/reputation/)
-- [Condition](/en/post/condition/)
-- [Situation](/en/post/situation/)
-- [Grade](/en/post/grade/)
-- [Level](/en/post/level/)
+- [Reputation](/post/reputation/)
+- [Condition](/post/condition/)
+- [Situation](/post/situation/)
+- [Grade](/post/grade/)
+- [Level](/post/level/)
 - Tier
 - Profile

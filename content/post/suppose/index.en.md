@@ -7,34 +7,34 @@ description = '[səˈpəuz] vt.猜想；假定；让'
 keywords = ['ai words', 'suppose']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈpəʊz/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: **v**. [To](/en/post/to/) [assume](/en/post/assume/) [or](/en/post/or/) [suppose](/en/post/suppose/) [something](/en/post/something/) [to](/en/post/to/) [be](/en/post/be/) [true](/en/post/true/) [or](/en/post/or/) [likely](/en/post/likely/), [without](/en/post/without/) [proof](/en/post/proof/) [or](/en/post/or/) [certainty](/en/post/certainty/); [to](/en/post/to/) [think](/en/post/think/) [or](/en/post/or/) [consider](/en/post/consider/). [Example](/en/post/example/): "I [suppose](/en/post/suppose/) [it](/en/post/it/) [will](/en/post/will/) [rain](/en/post/rain/) [later](/en/post/later/) [today](/en/post/today/)."
-- **[Verb](/en/post/verb/)**: **n**. [A](/en/post/a/) hypothetical [or](/en/post/or/) imagined [situation](/en/post/situation/) [for](/en/post/for/) [consideration](/en/post/consideration/) [or](/en/post/or/) [discussion](/en/post/discussion/). [Example](/en/post/example/): "Let's [suppose](/en/post/suppose/) [we](/en/post/we/) had unlimited resources."
-- **[Adverb](/en/post/adverb/)**: **adv**. [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is imagined [or](/en/post/or/) hypothetical. [Example](/en/post/example/): "Supposing [the](/en/post/the/) [worst](/en/post/worst/) happens, [what](/en/post/what/) [would](/en/post/would/) [you](/en/post/you/) [do](/en/post/do/)?"
+- **[Verb](/post/verb/)**: **v**. [To](/post/to/) [assume](/post/assume/) [or](/post/or/) [suppose](/post/suppose/) [something](/post/something/) [to](/post/to/) [be](/post/be/) [true](/post/true/) [or](/post/or/) [likely](/post/likely/), [without](/post/without/) [proof](/post/proof/) [or](/post/or/) [certainty](/post/certainty/); [to](/post/to/) [think](/post/think/) [or](/post/or/) [consider](/post/consider/). [Example](/post/example/): "I [suppose](/post/suppose/) [it](/post/it/) [will](/post/will/) [rain](/post/rain/) [later](/post/later/) [today](/post/today/)."
+- **[Verb](/post/verb/)**: **n**. [A](/post/a/) hypothetical [or](/post/or/) imagined [situation](/post/situation/) [for](/post/for/) [consideration](/post/consideration/) [or](/post/or/) [discussion](/post/discussion/). [Example](/post/example/): "Let's [suppose](/post/suppose/) [we](/post/we/) had unlimited resources."
+- **[Adverb](/post/adverb/)**: **adv**. [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is imagined [or](/post/or/) hypothetical. [Example](/post/example/): "Supposing [the](/post/the/) [worst](/post/worst/) happens, [what](/post/what/) [would](/post/would/) [you](/post/you/) [do](/post/do/)?"
 
 ## Phrases
-- "[Suppose](/en/post/suppose/) [that](/en/post/that/)..." introduces [a](/en/post/a/) hypothetical scenario.
-- "[What](/en/post/what/) [if](/en/post/if/) [we](/en/post/we/) [suppose](/en/post/suppose/)..." suggests [a](/en/post/a/) speculative [thought](/en/post/thought/) [experiment](/en/post/experiment/).
-- "I [suppose](/en/post/suppose/) I [should](/en/post/should/)..." indicates [a](/en/post/a/) realization [or](/en/post/or/) [acceptance](/en/post/acceptance/) [of](/en/post/of/) [a](/en/post/a/) [possibility](/en/post/possibility/).
+- "[Suppose](/post/suppose/) [that](/post/that/)..." introduces [a](/post/a/) hypothetical scenario.
+- "[What](/post/what/) [if](/post/if/) [we](/post/we/) [suppose](/post/suppose/)..." suggests [a](/post/a/) speculative [thought](/post/thought/) [experiment](/post/experiment/).
+- "I [suppose](/post/suppose/) I [should](/post/should/)..." indicates [a](/post/a/) realization [or](/post/or/) [acceptance](/post/acceptance/) [of](/post/of/) [a](/post/a/) [possibility](/post/possibility/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [suppose](/en/post/suppose/) you're [right](/en/post/right/), I [should](/en/post/should/) [apologize](/en/post/apologize/)."
-- **[Verb](/en/post/verb/)**: "[Suppose](/en/post/suppose/) [you](/en/post/you/) were [in](/en/post/in/) [my](/en/post/my/) shoes, [how](/en/post/how/) [would](/en/post/would/) [you](/en/post/you/) [react](/en/post/react/)?"
-- **[Adverb](/en/post/adverb/)**: "Supposing [the](/en/post/the/) [train](/en/post/train/) is delayed, we'll [have](/en/post/have/) [to](/en/post/to/) [find](/en/post/find/) [another](/en/post/another/) [way](/en/post/way/) [home](/en/post/home/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [suppose](/post/suppose/) you're [right](/post/right/), I [should](/post/should/) [apologize](/post/apologize/)."
+- **[Verb](/post/verb/)**: "[Suppose](/post/suppose/) [you](/post/you/) were [in](/post/in/) [my](/post/my/) shoes, [how](/post/how/) [would](/post/would/) [you](/post/you/) [react](/post/react/)?"
+- **[Adverb](/post/adverb/)**: "Supposing [the](/post/the/) [train](/post/train/) is delayed, we'll [have](/post/have/) [to](/post/to/) [find](/post/find/) [another](/post/another/) [way](/post/way/) [home](/post/home/)."
 
 ## Synonyms
-- [Assume](/en/post/assume/)
+- [Assume](/post/assume/)
 - Presume
-- [Think](/en/post/think/)
-- [Believe](/en/post/believe/)
+- [Think](/post/think/)
+- [Believe](/post/believe/)
 - Postulate
 
 ## Antonyms
-- [Deny](/en/post/deny/)
-- [Dispute](/en/post/dispute/)
-- [Doubt](/en/post/doubt/)
-- [Certainty](/en/post/certainty/)
-- [Reality](/en/post/reality/)
+- [Deny](/post/deny/)
+- [Dispute](/post/dispute/)
+- [Doubt](/post/doubt/)
+- [Certainty](/post/certainty/)
+- [Reality](/post/reality/)

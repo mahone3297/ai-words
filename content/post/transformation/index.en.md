@@ -7,28 +7,28 @@ description = '[ˌtrænsfəˈmei∫ən] n.变化；改造；转变'
 keywords = ['ai words', 'transformation']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɹænsfərˈmeɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) changing [from](/en/post/from/) [one](/en/post/one/) [form](/en/post/form/), [state](/en/post/state/), [or](/en/post/or/) [appearance](/en/post/appearance/) [to](/en/post/to/) [another](/en/post/another/). 2. An [instance](/en/post/instance/) [of](/en/post/of/) [such](/en/post/such/) [a](/en/post/a/) [change](/en/post/change/). 3. [A](/en/post/a/) transformational [operation](/en/post/operation/) [in](/en/post/in/) [mathematics](/en/post/mathematics/) [or](/en/post/or/) [computer](/en/post/computer/) [science](/en/post/science/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [convert](/en/post/convert/) [or](/en/post/or/) [alter](/en/post/alter/) [something](/en/post/something/) fundamentally, [often](/en/post/often/) [into](/en/post/into/) [a](/en/post/a/) [different](/en/post/different/) [form](/en/post/form/) [or](/en/post/or/) [shape](/en/post/shape/). 4. [To](/en/post/to/) [undergo](/en/post/undergo/) [a](/en/post/a/) [change](/en/post/change/) [or](/en/post/or/) [development](/en/post/development/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) changing [from](/post/from/) [one](/post/one/) [form](/post/form/), [state](/post/state/), [or](/post/or/) [appearance](/post/appearance/) [to](/post/to/) [another](/post/another/). 2. An [instance](/post/instance/) [of](/post/of/) [such](/post/such/) [a](/post/a/) [change](/post/change/). 3. [A](/post/a/) transformational [operation](/post/operation/) [in](/post/in/) [mathematics](/post/mathematics/) [or](/post/or/) [computer](/post/computer/) [science](/post/science/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [convert](/post/convert/) [or](/post/or/) [alter](/post/alter/) [something](/post/something/) fundamentally, [often](/post/often/) [into](/post/into/) [a](/post/a/) [different](/post/different/) [form](/post/form/) [or](/post/or/) [shape](/post/shape/). 4. [To](/post/to/) [undergo](/post/undergo/) [a](/post/a/) [change](/post/change/) [or](/post/or/) [development](/post/development/).
 
 ## Phrases
-- "Transformational [change](/en/post/change/)" indicates [a](/en/post/a/) [fundamental](/en/post/fundamental/) [shift](/en/post/shift/).
-- "[Transformation](/en/post/transformation/) [process](/en/post/process/)" refers [to](/en/post/to/) [the](/en/post/the/) steps involved [in](/en/post/in/) [a](/en/post/a/) [change](/en/post/change/).
-- "[Transformation](/en/post/transformation/) [of](/en/post/of/) [thought](/en/post/thought/)" denotes [a](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) perception [or](/en/post/or/) [understanding](/en/post/understanding/).
+- "Transformational [change](/post/change/)" indicates [a](/post/a/) [fundamental](/post/fundamental/) [shift](/post/shift/).
+- "[Transformation](/post/transformation/) [process](/post/process/)" refers [to](/post/to/) [the](/post/the/) steps involved [in](/post/in/) [a](/post/a/) [change](/post/change/).
+- "[Transformation](/post/transformation/) [of](/post/of/) [thought](/post/thought/)" denotes [a](/post/a/) [change](/post/change/) [in](/post/in/) perception [or](/post/or/) [understanding](/post/understanding/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [transformation](/en/post/transformation/) [of](/en/post/of/) [a](/en/post/a/) caterpillar [into](/en/post/into/) [a](/en/post/a/) [butterfly](/en/post/butterfly/) is [a](/en/post/a/) [remarkable](/en/post/remarkable/) [natural](/en/post/natural/) [process](/en/post/process/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) underwent [a](/en/post/a/) [transformation](/en/post/transformation/) [in](/en/post/in/) [her](/en/post/her/) [career](/en/post/career/) [after](/en/post/after/) receiving [training](/en/post/training/) [in](/en/post/in/) [a](/en/post/a/) [new](/en/post/new/) [field](/en/post/field/)."
-- **Gerund**: "[The](/en/post/the/) [transformation](/en/post/transformation/) [from](/en/post/from/) [digital](/en/post/digital/) [to](/en/post/to/) analog media is [rapidly](/en/post/rapidly/) occurring."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [transformation](/post/transformation/) [of](/post/of/) [a](/post/a/) caterpillar [into](/post/into/) [a](/post/a/) [butterfly](/post/butterfly/) is [a](/post/a/) [remarkable](/post/remarkable/) [natural](/post/natural/) [process](/post/process/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) underwent [a](/post/a/) [transformation](/post/transformation/) [in](/post/in/) [her](/post/her/) [career](/post/career/) [after](/post/after/) receiving [training](/post/training/) [in](/post/in/) [a](/post/a/) [new](/post/new/) [field](/post/field/)."
+- **Gerund**: "[The](/post/the/) [transformation](/post/transformation/) [from](/post/from/) [digital](/post/digital/) [to](/post/to/) analog media is [rapidly](/post/rapidly/) occurring."
 
 ## Synonyms
-- [Change](/en/post/change/)
-- [Conversion](/en/post/conversion/)
+- [Change](/post/change/)
+- [Conversion](/post/conversion/)
 - Adaptation
-- [Evolution](/en/post/evolution/)
+- [Evolution](/post/evolution/)
 - Reconfiguration
 - Revamp
 - Upgrade
@@ -44,5 +44,5 @@ keywords = ['ai words', 'transformation']
 - Metamorphosis
 - Transfiguration
 - Transmutation
-- [Transformation](/en/post/transformation/) [theory](/en/post/theory/) ([in](/en/post/in/) psychology)
-- Algorithmic [transformation](/en/post/transformation/) ([in](/en/post/in/) computing)
+- [Transformation](/post/transformation/) [theory](/post/theory/) ([in](/post/in/) psychology)
+- Algorithmic [transformation](/post/transformation/) ([in](/post/in/) computing)

@@ -11,21 +11,21 @@ keywords = ['ai words', 'racial']
 /ˈreɪʃəl/
 
 ## 释义
-- **形容词**: 关乎种族的；基于种族的；种族歧视的。例如: "[The](/post/the/) [policy](/post/policy/) is criticized [for](/post/for/) [being](/post/being/) [racial](/post/racial/) [in](/post/in/) [nature](/post/nature/)."
-- **名词**: 种族特性，种族特征。例如: "[There](/post/there/) is [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) [racial](/post/racial/) diversity [in](/post/in/) [the](/post/the/) [city](/post/city/)."
+- **形容词**: 关乎种族的；基于种族的；种族歧视的。例如: "[The](/zh/post/the/) [policy](/zh/post/policy/) is criticized [for](/zh/post/for/) [being](/zh/post/being/) [racial](/zh/post/racial/) [in](/zh/post/in/) [nature](/zh/post/nature/)."
+- **名词**: 种族特性，种族特征。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [wide](/zh/post/wide/) [range](/zh/post/range/) [of](/zh/post/of/) [racial](/zh/post/racial/) diversity [in](/zh/post/in/) [the](/zh/post/the/) [city](/zh/post/city/)."
 
 ## 短语
-- "[Racial](/post/racial/) discrimination" 意为种族歧视。
-- "[Racial](/post/racial/) identity" 指的是种族认同感。
-- "[Racial](/post/racial/) profiling" 是指在执法中基于种族特征进行判断的行为。
+- "[Racial](/zh/post/racial/) discrimination" 意为种族歧视。
+- "[Racial](/zh/post/racial/) identity" 指的是种族认同感。
+- "[Racial](/zh/post/racial/) profiling" 是指在执法中基于种族特征进行判断的行为。
 
 ## 例句
-- 形容词: "[The](/post/the/) [company](/post/company/) has [a](/post/a/) [strict](/post/strict/) [policy](/post/policy/) [against](/post/against/) [racial](/post/racial/) discrimination."
-- 名词: "[Her](/post/her/) [study](/post/study/) explores [the](/post/the/) complexities [of](/post/of/) [racial](/post/racial/) identity [in](/post/in/) [a](/post/a/) multicultural [society](/post/society/)."
+- 形容词: "[The](/zh/post/the/) [company](/zh/post/company/) has [a](/zh/post/a/) [strict](/zh/post/strict/) [policy](/zh/post/policy/) [against](/zh/post/against/) [racial](/zh/post/racial/) discrimination."
+- 名词: "[Her](/zh/post/her/) [study](/zh/post/study/) explores [the](/zh/post/the/) complexities [of](/zh/post/of/) [racial](/zh/post/racial/) identity [in](/zh/post/in/) [a](/zh/post/a/) multicultural [society](/zh/post/society/)."
 
 ## 同义词
 - Ethnic
 - Racially-based
-- Discriminatory ([when](/post/when/) referring [to](/post/to/) discrimination)
-- Genotypic ([when](/post/when/) referring [to](/post/to/) genetic aspects [of](/post/of/) [race](/post/race/))
-- Ethnical ([less](/post/less/) [common](/post/common/), [but](/post/but/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [mean](/post/mean/) related [to](/post/to/) ethnicity)
+- Discriminatory ([when](/zh/post/when/) referring [to](/zh/post/to/) discrimination)
+- Genotypic ([when](/zh/post/when/) referring [to](/zh/post/to/) genetic aspects [of](/zh/post/of/) [race](/zh/post/race/))
+- Ethnical ([less](/zh/post/less/) [common](/zh/post/common/), [but](/zh/post/but/) [can](/zh/post/can/) [be](/zh/post/be/) [used](/zh/post/used/) [to](/zh/post/to/) [mean](/zh/post/mean/) related [to](/zh/post/to/) ethnicity)

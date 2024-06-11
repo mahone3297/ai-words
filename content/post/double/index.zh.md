@@ -11,23 +11,23 @@ keywords = ['ai words', 'double']
 /dʌbl/
 
 ## 释义
-- **形容词**: 两倍的，加倍的。例如: "I [need](/post/need/) [a](/post/a/) [double](/post/double/) [portion](/post/portion/) [of](/post/of/) [rice](/post/rice/)."
-- **名词**: 复制品，副本。例如: "[He](/post/he/) ordered [a](/post/a/) [double](/post/double/) [of](/post/of/) [the](/post/the/) [shirt](/post/shirt/)."
-- **动词**: 使加倍，翻倍。例如: "[The](/post/the/) [investment](/post/investment/) doubled [in](/post/in/) [value](/post/value/) [within](/post/within/) [a](/post/a/) [year](/post/year/)."
-- **名词**: （体育、娱乐）双打，搭档。例如: "[They](/post/they/) played [a](/post/a/) [game](/post/game/) [of](/post/of/) doubles [tennis](/post/tennis/)."
+- **形容词**: 两倍的，加倍的。例如: "I [need](/zh/post/need/) [a](/zh/post/a/) [double](/zh/post/double/) [portion](/zh/post/portion/) [of](/zh/post/of/) [rice](/zh/post/rice/)."
+- **名词**: 复制品，副本。例如: "[He](/zh/post/he/) ordered [a](/zh/post/a/) [double](/zh/post/double/) [of](/zh/post/of/) [the](/zh/post/the/) [shirt](/zh/post/shirt/)."
+- **动词**: 使加倍，翻倍。例如: "[The](/zh/post/the/) [investment](/zh/post/investment/) doubled [in](/zh/post/in/) [value](/zh/post/value/) [within](/zh/post/within/) [a](/zh/post/a/) [year](/zh/post/year/)."
+- **名词**: （体育、娱乐）双打，搭档。例如: "[They](/zh/post/they/) played [a](/zh/post/a/) [game](/zh/post/game/) [of](/zh/post/of/) doubles [tennis](/zh/post/tennis/)."
 
 ## 短语
-- "[double](/post/double/) [up](/post/up/)" 意为加倍或折叠在一起。例如: "[We](/post/we/) had [to](/post/to/) [double](/post/double/) [up](/post/up/) [on](/post/on/) [the](/post/the/) sofa [for](/post/for/) [the](/post/the/) [night](/post/night/)."
-- "[double](/post/double/) [check](/post/check/)" 意为复查，再次确认。例如: "[Always](/post/always/) [double](/post/double/) [check](/post/check/) [your](/post/your/) [work](/post/work/) [before](/post/before/) submitting [it](/post/it/)."
+- "[double](/zh/post/double/) [up](/zh/post/up/)" 意为加倍或折叠在一起。例如: "[We](/zh/post/we/) had [to](/zh/post/to/) [double](/zh/post/double/) [up](/zh/post/up/) [on](/zh/post/on/) [the](/zh/post/the/) sofa [for](/zh/post/for/) [the](/zh/post/the/) [night](/zh/post/night/)."
+- "[double](/zh/post/double/) [check](/zh/post/check/)" 意为复查，再次确认。例如: "[Always](/zh/post/always/) [double](/zh/post/double/) [check](/zh/post/check/) [your](/zh/post/your/) [work](/zh/post/work/) [before](/zh/post/before/) submitting [it](/zh/post/it/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) [hotel](/post/hotel/) [room](/post/room/) had [a](/post/a/) [double](/post/double/) [bed](/post/bed/) [for](/post/for/) [us](/post/us/) [to](/post/to/) [share](/post/share/)."
-- 名词: "[He](/post/he/) is [the](/post/the/) [double](/post/double/) [of](/post/of/) [his](/post/his/) [brother](/post/brother/); [they](/post/they/) [look](/post/look/) [so](/post/so/) [alike](/post/alike/)."
-- 动词: "[She](/post/she/) decided [to](/post/to/) [double](/post/double/) [the](/post/the/) recipe [to](/post/to/) [feed](/post/feed/) [a](/post/a/) larger [group](/post/group/)."
-- 名词（体育）: "[They](/post/they/) formed [a](/post/a/) [strong](/post/strong/) doubles partnership [in](/post/in/) [badminton](/post/badminton/)."
+- 形容词: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) [room](/zh/post/room/) had [a](/zh/post/a/) [double](/zh/post/double/) [bed](/zh/post/bed/) [for](/zh/post/for/) [us](/zh/post/us/) [to](/zh/post/to/) [share](/zh/post/share/)."
+- 名词: "[He](/zh/post/he/) is [the](/zh/post/the/) [double](/zh/post/double/) [of](/zh/post/of/) [his](/zh/post/his/) [brother](/zh/post/brother/); [they](/zh/post/they/) [look](/zh/post/look/) [so](/zh/post/so/) [alike](/zh/post/alike/)."
+- 动词: "[She](/zh/post/she/) decided [to](/zh/post/to/) [double](/zh/post/double/) [the](/zh/post/the/) recipe [to](/zh/post/to/) [feed](/zh/post/feed/) [a](/zh/post/a/) larger [group](/zh/post/group/)."
+- 名词（体育）: "[They](/zh/post/they/) formed [a](/zh/post/a/) [strong](/zh/post/strong/) doubles partnership [in](/zh/post/in/) [badminton](/zh/post/badminton/)."
 
 ## 同义词
-- [twice](/post/twice/)
+- [twice](/zh/post/twice/)
 - twofold
 - duplicate
 - replicate

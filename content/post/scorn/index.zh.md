@@ -11,21 +11,21 @@ keywords = ['ai words', 'scorn']
 /scɔːrn/
 
 ## 释义
-- **名词**: 轻蔑，鄙视，嘲笑。例如: "[He](/post/he/) faced [their](/post/their/) [scorn](/post/scorn/) [with](/post/with/) dignity."
-- **动词**: 藐视，嘲笑，轻视。例如: "[She](/post/she/) scorned [his](/post/his/) [shallow](/post/shallow/) opinions."
-- **形容词**: 表示轻蔑或鄙视的。例如: "[a](/post/a/) scornful [smile](/post/smile/)"
+- **名词**: 轻蔑，鄙视，嘲笑。例如: "[He](/zh/post/he/) faced [their](/zh/post/their/) [scorn](/zh/post/scorn/) [with](/zh/post/with/) dignity."
+- **动词**: 藐视，嘲笑，轻视。例如: "[She](/zh/post/she/) scorned [his](/zh/post/his/) [shallow](/zh/post/shallow/) opinions."
+- **形容词**: 表示轻蔑或鄙视的。例如: "[a](/zh/post/a/) scornful [smile](/zh/post/smile/)"
 
 ## 短语
-- "[in](/post/in/)/[with](/post/with/) [scorn](/post/scorn/)" 表示带着轻蔑或鄙视。例如: "[She](/post/she/) dismissed [his](/post/his/) [suggestion](/post/suggestion/) [in](/post/in/) [scorn](/post/scorn/)."
-- "scornful [look](/post/look/)/[gesture](/post/gesture/)" 表示轻蔑的眼神或手势。
+- "[in](/zh/post/in/)/[with](/zh/post/with/) [scorn](/zh/post/scorn/)" 表示带着轻蔑或鄙视。例如: "[She](/zh/post/she/) dismissed [his](/zh/post/his/) [suggestion](/zh/post/suggestion/) [in](/zh/post/in/) [scorn](/zh/post/scorn/)."
+- "scornful [look](/zh/post/look/)/[gesture](/zh/post/gesture/)" 表示轻蔑的眼神或手势。
 
 ## 例句
-- 名词: "[The](/post/the/) public's [scorn](/post/scorn/) forced [him](/post/him/) [to](/post/to/) [resign](/post/resign/)."
-- 动词: "[She](/post/she/) scorned [his](/post/his/) attempts [to](/post/to/) [apologize](/post/apologize/)."
-- 形容词: "[He](/post/he/) received [a](/post/a/) scornful [reply](/post/reply/) [to](/post/to/) [his](/post/his/) [letter](/post/letter/)."
+- 名词: "[The](/zh/post/the/) public's [scorn](/zh/post/scorn/) forced [him](/zh/post/him/) [to](/zh/post/to/) [resign](/zh/post/resign/)."
+- 动词: "[She](/zh/post/she/) scorned [his](/zh/post/his/) attempts [to](/zh/post/to/) [apologize](/zh/post/apologize/)."
+- 形容词: "[He](/zh/post/he/) received [a](/zh/post/a/) scornful [reply](/zh/post/reply/) [to](/zh/post/to/) [his](/zh/post/his/) [letter](/zh/post/letter/)."
 
 ## 同义词
-- [Contempt](/post/contempt/)
+- [Contempt](/zh/post/contempt/)
 - Disdain
 - Derision
 - Mockery

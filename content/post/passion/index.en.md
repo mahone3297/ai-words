@@ -7,33 +7,33 @@ description = '[ˈpæ∫ən] n.激情，热情；爱好'
 keywords = ['ai words', 'passion']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈʃiʃən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Emotion](/en/post/emotion/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/)** directed towards [a](/en/post/a/) [particular](/en/post/particular/) [interest](/en/post/interest/) [or](/en/post/or/) [activity](/en/post/activity/): *[He](/en/post/he/) has [a](/en/post/a/) [passion](/en/post/passion/) [for](/en/post/for/) [painting](/en/post/painting/).*
-2. **[Intense](/en/post/intense/) [feeling](/en/post/feeling/) [or](/en/post/or/) [affection](/en/post/affection/)** ([often](/en/post/often/) [romantic](/en/post/romantic/)): *[Their](/en/post/their/) [passion](/en/post/passion/) [for](/en/post/for/) [each](/en/post/each/) [other](/en/post/other/) was [obvious](/en/post/obvious/) [to](/en/post/to/) [everyone](/en/post/everyone/).*
+### [Noun](/post/noun/)
+1. **[Emotion](/post/emotion/) [or](/post/or/) [enthusiasm](/post/enthusiasm/)** directed towards [a](/post/a/) [particular](/post/particular/) [interest](/post/interest/) [or](/post/or/) [activity](/post/activity/): *[He](/post/he/) has [a](/post/a/) [passion](/post/passion/) [for](/post/for/) [painting](/post/painting/).*
+2. **[Intense](/post/intense/) [feeling](/post/feeling/) [or](/post/or/) [affection](/post/affection/)** ([often](/post/often/) [romantic](/post/romantic/)): *[Their](/post/their/) [passion](/post/passion/) [for](/post/for/) [each](/post/each/) [other](/post/other/) was [obvious](/post/obvious/) [to](/post/to/) [everyone](/post/everyone/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [emotional](/en/post/emotional/) involvement [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/) [for](/en/post/for/) [something](/en/post/something/): *[She](/en/post/she/) is passionate [about](/en/post/about/) [social](/en/post/social/) [justice](/en/post/justice/) issues.*
-2. [To](/en/post/to/) [express](/en/post/express/) one's emotions [or](/en/post/or/) feelings [strongly](/en/post/strongly/): *[He](/en/post/he/) passionately defended [his](/en/post/his/) ideas [in](/en/post/in/) [the](/en/post/the/) [debate](/en/post/debate/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) [emotional](/post/emotional/) involvement [or](/post/or/) [enthusiasm](/post/enthusiasm/) [for](/post/for/) [something](/post/something/): *[She](/post/she/) is passionate [about](/post/about/) [social](/post/social/) [justice](/post/justice/) issues.*
+2. [To](/post/to/) [express](/post/express/) one's emotions [or](/post/or/) feelings [strongly](/post/strongly/): *[He](/post/he/) passionately defended [his](/post/his/) ideas [in](/post/in/) [the](/post/the/) [debate](/post/debate/).*
 
 ## Phrases
-- "Passionate [about](/en/post/about/)" indicates [a](/en/post/a/) [deep](/en/post/deep/) [interest](/en/post/interest/) [or](/en/post/or/) commitment.
-- "Passionately devoted" shows [intense](/en/post/intense/) [loyalty](/en/post/loyalty/) [or](/en/post/or/) dedication.
-- "[To](/en/post/to/) ignite one's [passion](/en/post/passion/)" [means](/en/post/means/) [to](/en/post/to/) [inspire](/en/post/inspire/) [or](/en/post/or/) [stimulate](/en/post/stimulate/) [a](/en/post/a/) [strong](/en/post/strong/) [emotion](/en/post/emotion/).
+- "Passionate [about](/post/about/)" indicates [a](/post/a/) [deep](/post/deep/) [interest](/post/interest/) [or](/post/or/) commitment.
+- "Passionately devoted" shows [intense](/post/intense/) [loyalty](/post/loyalty/) [or](/post/or/) dedication.
+- "[To](/post/to/) ignite one's [passion](/post/passion/)" [means](/post/means/) [to](/post/to/) [inspire](/post/inspire/) [or](/post/or/) [stimulate](/post/stimulate/) [a](/post/a/) [strong](/post/strong/) [emotion](/post/emotion/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [passion](/en/post/passion/) [for](/en/post/for/) cooking led [her](/en/post/her/) [to](/en/post/to/) [open](/en/post/open/) [her](/en/post/her/) [own](/en/post/own/) [restaurant](/en/post/restaurant/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) passionately spoke [about](/en/post/about/) [his](/en/post/his/) [love](/en/post/love/) [for](/en/post/for/) hiking [and](/en/post/and/) [the](/en/post/the/) [great](/en/post/great/) [outdoors](/en/post/outdoors/)."
-- **[Passive](/en/post/passive/)**: "[The](/en/post/the/) [music](/en/post/music/) ignited [a](/en/post/a/) [passion](/en/post/passion/) [within](/en/post/within/) [the](/en/post/the/) [audience](/en/post/audience/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [passion](/post/passion/) [for](/post/for/) cooking led [her](/post/her/) [to](/post/to/) [open](/post/open/) [her](/post/her/) [own](/post/own/) [restaurant](/post/restaurant/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) passionately spoke [about](/post/about/) [his](/post/his/) [love](/post/love/) [for](/post/for/) hiking [and](/post/and/) [the](/post/the/) [great](/post/great/) [outdoors](/post/outdoors/)."
+- **[Passive](/post/passive/)**: "[The](/post/the/) [music](/post/music/) ignited [a](/post/a/) [passion](/post/passion/) [within](/post/within/) [the](/post/the/) [audience](/post/audience/)."
 
 ## Synonyms
-- [Enthusiasm](/en/post/enthusiasm/)
-- [Zeal](/en/post/zeal/)
+- [Enthusiasm](/post/enthusiasm/)
+- [Zeal](/post/zeal/)
 - Obsession
-- [Emotion](/en/post/emotion/)
+- [Emotion](/post/emotion/)
 - Ardor
 - Fervor
 - Adoration
@@ -41,6 +41,6 @@ keywords = ['ai words', 'passion']
 ## Antonyms
 - Indifference
 - Disinterest
-- [Lack](/en/post/lack/) [of](/en/post/of/) [enthusiasm](/en/post/enthusiasm/)
+- [Lack](/post/lack/) [of](/post/of/) [enthusiasm](/post/enthusiasm/)
 - Cynicism
 - Detachment

@@ -11,19 +11,19 @@ keywords = ['ai words', 'atmospheric']
 /əˈtmosfərɪk/
 
 ## 释义
-- **形容词**: 形容具有大气、气候或环境氛围的。例如: "[The](/post/the/) [restaurant](/post/restaurant/) had an [atmospheric](/post/atmospheric/) lighting [that](/post/that/) created [a](/post/a/) cozy ambiance."
-- **名词**: 指大气层或特定环境的气氛。例如: "[The](/post/the/) [atmospheric](/post/atmospheric/) [pressure](/post/pressure/) [at](/post/at/) [high](/post/high/) altitudes is [lower](/post/lower/) [than](/post/than/) [at](/post/at/) [sea](/post/sea/) [level](/post/level/)."
+- **形容词**: 形容具有大气、气候或环境氛围的。例如: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) had an [atmospheric](/zh/post/atmospheric/) lighting [that](/zh/post/that/) created [a](/zh/post/a/) cozy ambiance."
+- **名词**: 指大气层或特定环境的气氛。例如: "[The](/zh/post/the/) [atmospheric](/zh/post/atmospheric/) [pressure](/zh/post/pressure/) [at](/zh/post/at/) [high](/zh/post/high/) altitudes is [lower](/zh/post/lower/) [than](/zh/post/than/) [at](/zh/post/at/) [sea](/zh/post/sea/) [level](/zh/post/level/)."
 
 ## 短语
-- "[atmospheric](/post/atmospheric/) conditions" 指天气或气候状况。
-- "[atmospheric](/post/atmospheric/) [science](/post/science/)" 是研究大气现象的科学领域。
+- "[atmospheric](/zh/post/atmospheric/) conditions" 指天气或气候状况。
+- "[atmospheric](/zh/post/atmospheric/) [science](/zh/post/science/)" 是研究大气现象的科学领域。
 
 ## 例句
-- 形容词: "[The](/post/the/) [old](/post/old/) [castle](/post/castle/) was surrounded [by](/post/by/) [a](/post/a/) [mysterious](/post/mysterious/), [atmospheric](/post/atmospheric/) [fog](/post/fog/)."
-- 名词: "[Atmospheric](/post/atmospheric/) [pollution](/post/pollution/) [can](/post/can/) [have](/post/have/) [severe](/post/severe/) effects [on](/post/on/) [human](/post/human/) [health](/post/health/)."
+- 形容词: "[The](/zh/post/the/) [old](/zh/post/old/) [castle](/zh/post/castle/) was surrounded [by](/zh/post/by/) [a](/zh/post/a/) [mysterious](/zh/post/mysterious/), [atmospheric](/zh/post/atmospheric/) [fog](/zh/post/fog/)."
+- 名词: "[Atmospheric](/zh/post/atmospheric/) [pollution](/zh/post/pollution/) [can](/zh/post/can/) [have](/zh/post/have/) [severe](/zh/post/severe/) effects [on](/zh/post/on/) [human](/zh/post/human/) [health](/zh/post/health/)."
 
 ## 同义词
-- [Mysterious](/post/mysterious/)
+- [Mysterious](/zh/post/mysterious/)
 - Enchanting
 - Evocative
 - Mood-setting

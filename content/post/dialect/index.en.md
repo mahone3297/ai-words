@@ -7,29 +7,29 @@ description = '[ˈdaiəlekt] n.方言，土语，地方话'
 keywords = ['ai words', 'dialect']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈlaɪkt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) variant [form](/en/post/form/) [of](/en/post/of/) [a](/en/post/a/) [language](/en/post/language/), characterized [by](/en/post/by/) [specific](/en/post/specific/) features, [vocabulary](/en/post/vocabulary/), [and](/en/post/and/) [pronunciation](/en/post/pronunciation/) [unique](/en/post/unique/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [region](/en/post/region/) [or](/en/post/or/) [group](/en/post/group/). 2. [The](/en/post/the/) [particular](/en/post/particular/) [manner](/en/post/manner/) [of](/en/post/of/) speaking [or](/en/post/or/) [writing](/en/post/writing/) [used](/en/post/used/) [by](/en/post/by/) [a](/en/post/a/) [particular](/en/post/particular/) [community](/en/post/community/) [or](/en/post/or/) [individual](/en/post/individual/), [often](/en/post/often/) reflecting regional [or](/en/post/or/) [social](/en/post/social/) differences.
-- **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) distinctive [local](/en/post/local/) [or](/en/post/or/) regional [style](/en/post/style/) [or](/en/post/or/) [usage](/en/post/usage/); [characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [dialect](/en/post/dialect/) [or](/en/post/or/) [group](/en/post/group/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) variant [form](/post/form/) [of](/post/of/) [a](/post/a/) [language](/post/language/), characterized [by](/post/by/) [specific](/post/specific/) features, [vocabulary](/post/vocabulary/), [and](/post/and/) [pronunciation](/post/pronunciation/) [unique](/post/unique/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [region](/post/region/) [or](/post/or/) [group](/post/group/). 2. [The](/post/the/) [particular](/post/particular/) [manner](/post/manner/) [of](/post/of/) speaking [or](/post/or/) [writing](/post/writing/) [used](/post/used/) [by](/post/by/) [a](/post/a/) [particular](/post/particular/) [community](/post/community/) [or](/post/or/) [individual](/post/individual/), [often](/post/often/) reflecting regional [or](/post/or/) [social](/post/social/) differences.
+- **[Adjective](/post/adjective/)**: Having [a](/post/a/) distinctive [local](/post/local/) [or](/post/or/) regional [style](/post/style/) [or](/post/or/) [usage](/post/usage/); [characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [dialect](/post/dialect/) [or](/post/or/) [group](/post/group/).
 
 ## Phrases
-- "[Speak](/en/post/speak/) [in](/en/post/in/) [dialect](/en/post/dialect/)" refers [to](/en/post/to/) using [a](/en/post/a/) [specific](/en/post/specific/) regional [variety](/en/post/variety/) [of](/en/post/of/) [a](/en/post/a/) [language](/en/post/language/).
-- "Cultural [dialect](/en/post/dialect/)" highlights [a](/en/post/a/) linguistic [difference](/en/post/difference/) tied [to](/en/post/to/) [a](/en/post/a/) cultural context.
-- "Linguistic [dialect](/en/post/dialect/) continuum" describes [a](/en/post/a/) [range](/en/post/range/) [of](/en/post/of/) related dialects spoken [within](/en/post/within/) [a](/en/post/a/) geographical [area](/en/post/area/).
+- "[Speak](/post/speak/) [in](/post/in/) [dialect](/post/dialect/)" refers [to](/post/to/) using [a](/post/a/) [specific](/post/specific/) regional [variety](/post/variety/) [of](/post/of/) [a](/post/a/) [language](/post/language/).
+- "Cultural [dialect](/post/dialect/)" highlights [a](/post/a/) linguistic [difference](/post/difference/) tied [to](/post/to/) [a](/post/a/) cultural context.
+- "Linguistic [dialect](/post/dialect/) continuum" describes [a](/post/a/) [range](/post/range/) [of](/post/of/) related dialects spoken [within](/post/within/) [a](/post/a/) geographical [area](/post/area/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children grew [up](/en/post/up/) speaking [a](/en/post/a/) [dialect](/en/post/dialect/) [that](/en/post/that/) was [different](/en/post/different/) [from](/en/post/from/) [their](/en/post/their/) parents'."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [writing](/en/post/writing/) had [a](/en/post/a/) [distinct](/en/post/distinct/) [Southern](/en/post/southern/) [dialect](/en/post/dialect/)."
-- **[Sentence](/en/post/sentence/)**: "[The](/en/post/the/) [professor](/en/post/professor/) studied [the](/en/post/the/) dialects [of](/en/post/of/) [various](/en/post/various/) communities [in](/en/post/in/) [the](/en/post/the/) [region](/en/post/region/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children grew [up](/post/up/) speaking [a](/post/a/) [dialect](/post/dialect/) [that](/post/that/) was [different](/post/different/) [from](/post/from/) [their](/post/their/) parents'."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [writing](/post/writing/) had [a](/post/a/) [distinct](/post/distinct/) [Southern](/post/southern/) [dialect](/post/dialect/)."
+- **[Sentence](/post/sentence/)**: "[The](/post/the/) [professor](/post/professor/) studied [the](/post/the/) dialects [of](/post/of/) [various](/post/various/) communities [in](/post/in/) [the](/post/the/) [region](/post/region/)."
 
 ## Synonyms
-- Regional [accent](/en/post/accent/)
-- [Local](/en/post/local/) vernacular
+- Regional [accent](/post/accent/)
+- [Local](/post/local/) vernacular
 - Colloquialism
 - Slang
 - Dialectic
 
-## [Usage](/en/post/usage/) Notes
-Dialects are [often](/en/post/often/) associated [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) geographical [area](/en/post/area/), [social](/en/post/social/) [class](/en/post/class/), [or](/en/post/or/) ethnic [group](/en/post/group/) [and](/en/post/and/) [can](/en/post/can/) [change](/en/post/change/) [over](/en/post/over/) [time](/en/post/time/) [due](/en/post/due/) [to](/en/post/to/) migration, [education](/en/post/education/), [or](/en/post/or/) media [influence](/en/post/influence/). [They](/en/post/they/) are [distinct](/en/post/distinct/) [from](/en/post/from/) [standard](/en/post/standard/) varieties [of](/en/post/of/) [a](/en/post/a/) [language](/en/post/language/), [which](/en/post/which/) are [generally](/en/post/generally/) considered [the](/en/post/the/) norm [for](/en/post/for/) [formal](/en/post/formal/) [communication](/en/post/communication/). [Some](/en/post/some/) dialects [may](/en/post/may/) [be](/en/post/be/) stigmatized [or](/en/post/or/) perceived [as](/en/post/as/) [less](/en/post/less/) prestigious [than](/en/post/than/) [the](/en/post/the/) [standard](/en/post/standard/) [variety](/en/post/variety/), [while](/en/post/while/) others are celebrated [for](/en/post/for/) [their](/en/post/their/) [unique](/en/post/unique/) charm [and](/en/post/and/) cultural identity.
+## [Usage](/post/usage/) Notes
+Dialects are [often](/post/often/) associated [with](/post/with/) [a](/post/a/) [specific](/post/specific/) geographical [area](/post/area/), [social](/post/social/) [class](/post/class/), [or](/post/or/) ethnic [group](/post/group/) [and](/post/and/) [can](/post/can/) [change](/post/change/) [over](/post/over/) [time](/post/time/) [due](/post/due/) [to](/post/to/) migration, [education](/post/education/), [or](/post/or/) media [influence](/post/influence/). [They](/post/they/) are [distinct](/post/distinct/) [from](/post/from/) [standard](/post/standard/) varieties [of](/post/of/) [a](/post/a/) [language](/post/language/), [which](/post/which/) are [generally](/post/generally/) considered [the](/post/the/) norm [for](/post/for/) [formal](/post/formal/) [communication](/post/communication/). [Some](/post/some/) dialects [may](/post/may/) [be](/post/be/) stigmatized [or](/post/or/) perceived [as](/post/as/) [less](/post/less/) prestigious [than](/post/than/) [the](/post/the/) [standard](/post/standard/) [variety](/post/variety/), [while](/post/while/) others are celebrated [for](/post/for/) [their](/post/their/) [unique](/post/unique/) charm [and](/post/and/) cultural identity.

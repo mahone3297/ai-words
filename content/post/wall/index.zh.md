@@ -11,20 +11,20 @@ keywords = ['ai words', 'wall']
 /wɔːl/
 
 ## 释义
-- **名词 (n)**: 建筑物或其他结构的垂直分隔部分，通常用于支撑或分隔空间。例如: "There's [a](/post/a/) [brick](/post/brick/) [wall](/post/wall/) [around](/post/around/) [the](/post/the/) [garden](/post/garden/)."
-- **动词 (v)**: 隔离或排除在外。例如: "[He](/post/he/) felt walled [off](/post/off/) [from](/post/from/) [his](/post/his/) friends [after](/post/after/) [the](/post/the/) [argument](/post/argument/)."
+- **名词 (n)**: 建筑物或其他结构的垂直分隔部分，通常用于支撑或分隔空间。例如: "There's [a](/zh/post/a/) [brick](/zh/post/brick/) [wall](/zh/post/wall/) [around](/zh/post/around/) [the](/zh/post/the/) [garden](/zh/post/garden/)."
+- **动词 (v)**: 隔离或排除在外。例如: "[He](/zh/post/he/) felt walled [off](/zh/post/off/) [from](/zh/post/from/) [his](/zh/post/his/) friends [after](/zh/post/after/) [the](/zh/post/the/) [argument](/zh/post/argument/)."
 
 ## 短语
-- "[Break](/post/break/) [down](/post/down/) walls" 意味着消除隔阂或障碍。
-- "[Build](/post/build/) [a](/post/a/) [wall](/post/wall/)" 实际上是建造一面墙，也常比喻建立屏障或界限。
+- "[Break](/zh/post/break/) [down](/zh/post/down/) walls" 意味着消除隔阂或障碍。
+- "[Build](/zh/post/build/) [a](/zh/post/a/) [wall](/zh/post/wall/)" 实际上是建造一面墙，也常比喻建立屏障或界限。
 
 ## 例句
-- 名词: "[The](/post/the/) soundproof [wall](/post/wall/) prevented [any](/post/any/) [noise](/post/noise/) [from](/post/from/) disturbing [us](/post/us/)."
-- 动词: "[Her](/post/her/) [cold](/post/cold/) [attitude](/post/attitude/) seemed [to](/post/to/) [wall](/post/wall/) [her](/post/her/) [off](/post/off/) [from](/post/from/) others."
+- 名词: "[The](/zh/post/the/) soundproof [wall](/zh/post/wall/) prevented [any](/zh/post/any/) [noise](/zh/post/noise/) [from](/zh/post/from/) disturbing [us](/zh/post/us/)."
+- 动词: "[Her](/zh/post/her/) [cold](/zh/post/cold/) [attitude](/zh/post/attitude/) seemed [to](/zh/post/to/) [wall](/zh/post/wall/) [her](/zh/post/her/) [off](/zh/post/off/) [from](/zh/post/from/) others."
 
 ## 同义词
-- [Barrier](/post/barrier/)
+- [Barrier](/zh/post/barrier/)
 - Partition
-- [Fence](/post/fence/)
-- [Hedge](/post/hedge/)
-- [Divide](/post/divide/)
+- [Fence](/zh/post/fence/)
+- [Hedge](/zh/post/hedge/)
+- [Divide](/zh/post/divide/)

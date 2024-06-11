@@ -7,38 +7,38 @@ description = '[geim] n.游戏；比赛；猎物'
 keywords = ['ai words', 'game']
 +++
 
-## [Word](/en/post/word/): [Game](/en/post/game/)
+## [Word](/post/word/): [Game](/post/game/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡeɪm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [activity](/en/post/activity/) [or](/en/post/or/) [contest](/en/post/contest/) [that](/en/post/that/) has rules [and](/en/post/and/) [can](/en/post/can/) [be](/en/post/be/) played [by](/en/post/by/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) [people](/en/post/people/) [for](/en/post/for/) entertainment [or](/en/post/or/) [competition](/en/post/competition/). [For](/en/post/for/) [example](/en/post/example/): "[Chess](/en/post/chess/) is [a](/en/post/a/) strategic [board](/en/post/board/) [game](/en/post/game/) enjoyed worldwide."
-  - _Informal_ [A](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [activity](/en/post/activity/) characterized [by](/en/post/by/) [strategy](/en/post/strategy/) [or](/en/post/or/) [challenge](/en/post/challenge/), [often](/en/post/often/) [with](/en/post/with/) an [uncertain](/en/post/uncertain/) [outcome](/en/post/outcome/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) dating [scene](/en/post/scene/) [can](/en/post/can/) [be](/en/post/be/) [quite](/en/post/quite/) [a](/en/post/a/) [game](/en/post/game/) [these](/en/post/these/) days."
+- **[Noun](/post/noun/)**: An [activity](/post/activity/) [or](/post/or/) [contest](/post/contest/) [that](/post/that/) has rules [and](/post/and/) [can](/post/can/) [be](/post/be/) played [by](/post/by/) [one](/post/one/) [or](/post/or/) [more](/post/more/) [people](/post/people/) [for](/post/for/) entertainment [or](/post/or/) [competition](/post/competition/). [For](/post/for/) [example](/post/example/): "[Chess](/post/chess/) is [a](/post/a/) strategic [board](/post/board/) [game](/post/game/) enjoyed worldwide."
+  - _Informal_ [A](/post/a/) [situation](/post/situation/) [or](/post/or/) [activity](/post/activity/) characterized [by](/post/by/) [strategy](/post/strategy/) [or](/post/or/) [challenge](/post/challenge/), [often](/post/often/) [with](/post/with/) an [uncertain](/post/uncertain/) [outcome](/post/outcome/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) dating [scene](/post/scene/) [can](/post/can/) [be](/post/be/) [quite](/post/quite/) [a](/post/a/) [game](/post/game/) [these](/post/these/) days."
   
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [game](/en/post/game/) [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) playful [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [game](/en/post/game/) [on](/en/post/on/) Saturday afternoons."
-  - _Informal_ [To](/en/post/to/) manipulate situations [or](/en/post/or/) rules [for](/en/post/for/) [personal](/en/post/personal/) [gain](/en/post/gain/), [often](/en/post/often/) deceitfully. [For](/en/post/for/) [example](/en/post/example/): "[Some](/en/post/some/) students [try](/en/post/try/) [to](/en/post/to/) [game](/en/post/game/) [the](/en/post/the/) [system](/en/post/system/) [to](/en/post/to/) [improve](/en/post/improve/) [their](/en/post/their/) grades."
+- **[Verb](/post/verb/)**: [To](/post/to/) [participate](/post/participate/) [in](/post/in/) [a](/post/a/) [game](/post/game/) [or](/post/or/) [engage](/post/engage/) [in](/post/in/) playful [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [game](/post/game/) [on](/post/on/) Saturday afternoons."
+  - _Informal_ [To](/post/to/) manipulate situations [or](/post/or/) rules [for](/post/for/) [personal](/post/personal/) [gain](/post/gain/), [often](/post/often/) deceitfully. [For](/post/for/) [example](/post/example/): "[Some](/post/some/) students [try](/post/try/) [to](/post/to/) [game](/post/game/) [the](/post/the/) [system](/post/system/) [to](/post/to/) [improve](/post/improve/) [their](/post/their/) grades."
 
 ## Phrases
-- "[Play](/en/post/play/) [the](/en/post/the/) [game](/en/post/game/)" [means](/en/post/means/) [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) an [activity](/en/post/activity/) according- [to](/en/post/to/) [its](/en/post/its/) rules [or](/en/post/or/) conventions.
-- "[Game](/en/post/game/) [on](/en/post/on/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) [signal](/en/post/signal/) [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [a](/en/post/a/) [competition](/en/post/competition/) [or](/en/post/or/) [to](/en/post/to/) [indicate](/en/post/indicate/) readiness [to](/en/post/to/) [begin](/en/post/begin/) [something](/en/post/something/) challenging.
-- "It's [just](/en/post/just/) [a](/en/post/a/) [game](/en/post/game/)" implies [not](/en/post/not/) taking [something](/en/post/something/) [too](/en/post/too/) [seriously](/en/post/seriously/), [especially](/en/post/especially/) [when](/en/post/when/) referring [to](/en/post/to/) competitive [or](/en/post/or/) challenging situations.
+- "[Play](/post/play/) [the](/post/the/) [game](/post/game/)" [means](/post/means/) [to](/post/to/) [participate](/post/participate/) [in](/post/in/) an [activity](/post/activity/) according- [to](/post/to/) [its](/post/its/) rules [or](/post/or/) conventions.
+- "[Game](/post/game/) [on](/post/on/)" is [a](/post/a/) colloquial [expression](/post/expression/) [used](/post/used/) [to](/post/to/) [signal](/post/signal/) [the](/post/the/) [start](/post/start/) [of](/post/of/) [a](/post/a/) [competition](/post/competition/) [or](/post/or/) [to](/post/to/) [indicate](/post/indicate/) readiness [to](/post/to/) [begin](/post/begin/) [something](/post/something/) challenging.
+- "It's [just](/post/just/) [a](/post/a/) [game](/post/game/)" implies [not](/post/not/) taking [something](/post/something/) [too](/post/too/) [seriously](/post/seriously/), [especially](/post/especially/) [when](/post/when/) referring [to](/post/to/) competitive [or](/post/or/) challenging situations.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) favorite [pastime](/en/post/pastime/) was playing [video](/en/post/video/) games [all](/en/post/all/) [weekend](/en/post/weekend/) [long](/en/post/long/)."
-- **[Verb](/en/post/verb/)**: "We're going [to](/en/post/to/) [game](/en/post/game/) [all](/en/post/all/) [night](/en/post/night/) [with](/en/post/with/) [our](/en/post/our/) [new](/en/post/new/) [board](/en/post/board/) [game](/en/post/game/) [collection](/en/post/collection/)."
-- _Informal Verb_: "[By](/en/post/by/) consistently attending [optional](/en/post/optional/) events, [he](/en/post/he/) was gaming [the](/en/post/the/) attendance [policy](/en/post/policy/) [to](/en/post/to/) boost [his](/en/post/his/) [grade](/en/post/grade/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Their](/post/their/) favorite [pastime](/post/pastime/) was playing [video](/post/video/) games [all](/post/all/) [weekend](/post/weekend/) [long](/post/long/)."
+- **[Verb](/post/verb/)**: "We're going [to](/post/to/) [game](/post/game/) [all](/post/all/) [night](/post/night/) [with](/post/with/) [our](/post/our/) [new](/post/new/) [board](/post/board/) [game](/post/game/) [collection](/post/collection/)."
+- _Informal Verb_: "[By](/post/by/) consistently attending [optional](/post/optional/) events, [he](/post/he/) was gaming [the](/post/the/) attendance [policy](/post/policy/) [to](/post/to/) boost [his](/post/his/) [grade](/post/grade/)."
 
 ## Synonyms
-- [Sport](/en/post/sport/)
-- [Match](/en/post/match/)
-- [Contest](/en/post/contest/)
-- [Activity](/en/post/activity/)
-- [Play](/en/post/play/)
+- [Sport](/post/sport/)
+- [Match](/post/match/)
+- [Contest](/post/contest/)
+- [Activity](/post/activity/)
+- [Play](/post/play/)
 - Recreation
 - Entertainment
-- [Competition](/en/post/competition/)
-- (Informal [Verb](/en/post/verb/)) Manipulate
-- (Informal [Verb](/en/post/verb/)) [Cheat](/en/post/cheat/)
-- (Informal [Noun](/en/post/noun/)) [Strategy](/en/post/strategy/)
-- (Informal [Noun](/en/post/noun/)) Trickery
+- [Competition](/post/competition/)
+- (Informal [Verb](/post/verb/)) Manipulate
+- (Informal [Verb](/post/verb/)) [Cheat](/post/cheat/)
+- (Informal [Noun](/post/noun/)) [Strategy](/post/strategy/)
+- (Informal [Noun](/post/noun/)) Trickery

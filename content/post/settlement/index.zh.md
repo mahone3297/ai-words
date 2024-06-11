@@ -12,23 +12,23 @@ keywords = ['ai words', 'settlement']
 
 ## 释义
 - **名词**:
-  1. **定居点**: 一个人们为了居住或工作而建立的社区，如村庄或城镇。例如: "[The](/post/the/) [first](/post/first/) European [settlement](/post/settlement/) [in](/post/in/) [this](/post/this/) [area](/post/area/) was established [in](/post/in/) [the](/post/the/) 17th [century](/post/century/)."
-  2. **和解**: 在法律或纠纷中双方达成的协议，以结束争议。例如: "[They](/post/they/) [finally](/post/finally/) reached [a](/post/a/) [financial](/post/financial/) [settlement](/post/settlement/) [after](/post/after/) [the](/post/the/) [divorce](/post/divorce/)."
-  3. **支付结算**: 满足债务或交易的支付过程。例如: "[The](/post/the/) [company](/post/company/) made [a](/post/a/) [settlement](/post/settlement/) [for](/post/for/) [the](/post/the/) [outstanding](/post/outstanding/) invoices."
+  1. **定居点**: 一个人们为了居住或工作而建立的社区，如村庄或城镇。例如: "[The](/zh/post/the/) [first](/zh/post/first/) European [settlement](/zh/post/settlement/) [in](/zh/post/in/) [this](/zh/post/this/) [area](/zh/post/area/) was established [in](/zh/post/in/) [the](/zh/post/the/) 17th [century](/zh/post/century/)."
+  2. **和解**: 在法律或纠纷中双方达成的协议，以结束争议。例如: "[They](/zh/post/they/) [finally](/zh/post/finally/) reached [a](/zh/post/a/) [financial](/zh/post/financial/) [settlement](/zh/post/settlement/) [after](/zh/post/after/) [the](/zh/post/the/) [divorce](/zh/post/divorce/)."
+  3. **支付结算**: 满足债务或交易的支付过程。例如: "[The](/zh/post/the/) [company](/zh/post/company/) made [a](/zh/post/a/) [settlement](/zh/post/settlement/) [for](/zh/post/for/) [the](/zh/post/the/) [outstanding](/zh/post/outstanding/) invoices."
 
 ## 短语
-- "[Legal](/post/legal/) [settlement](/post/settlement/)" 法律上的和解或解决。
-- "[Final](/post/final/) [settlement](/post/settlement/)" 最终的解决或清算。
-- "[Land](/post/land/) [settlement](/post/settlement/)" 土地的分配或定居。
+- "[Legal](/zh/post/legal/) [settlement](/zh/post/settlement/)" 法律上的和解或解决。
+- "[Final](/zh/post/final/) [settlement](/zh/post/settlement/)" 最终的解决或清算。
+- "[Land](/zh/post/land/) [settlement](/zh/post/settlement/)" 土地的分配或定居。
 
 ## 例句
-- 名词: "[The](/post/the/) [old](/post/old/) [settlement](/post/settlement/) [still](/post/still/) has [some](/post/some/) [original](/post/original/) [log](/post/log/) cabins intact."
-- 名词: "[They](/post/they/) reached [a](/post/a/) [settlement](/post/settlement/) [with](/post/with/) [the](/post/the/) [insurance](/post/insurance/) [company](/post/company/) [for](/post/for/) [the](/post/the/) [car](/post/car/) [accident](/post/accident/) damages."
-- 名词: "[The](/post/the/) [land](/post/land/) [settlement](/post/settlement/) [policy](/post/policy/) aimed [to](/post/to/) [distribute](/post/distribute/) [land](/post/land/) [to](/post/to/) [small](/post/small/) farmers."
+- 名词: "[The](/zh/post/the/) [old](/zh/post/old/) [settlement](/zh/post/settlement/) [still](/zh/post/still/) has [some](/zh/post/some/) [original](/zh/post/original/) [log](/zh/post/log/) cabins intact."
+- 名词: "[They](/zh/post/they/) reached [a](/zh/post/a/) [settlement](/zh/post/settlement/) [with](/zh/post/with/) [the](/zh/post/the/) [insurance](/zh/post/insurance/) [company](/zh/post/company/) [for](/zh/post/for/) [the](/zh/post/the/) [car](/zh/post/car/) [accident](/zh/post/accident/) damages."
+- 名词: "[The](/zh/post/the/) [land](/zh/post/land/) [settlement](/zh/post/settlement/) [policy](/zh/post/policy/) aimed [to](/zh/post/to/) [distribute](/zh/post/distribute/) [land](/zh/post/land/) [to](/zh/post/to/) [small](/zh/post/small/) farmers."
 
 ## 同义词
-- [Agreement](/post/agreement/)
-- [Compromise](/post/compromise/)
+- [Agreement](/zh/post/agreement/)
+- [Compromise](/zh/post/compromise/)
 - Conciliation
-- [Accord](/post/accord/)
-- [Treaty](/post/treaty/)
+- [Accord](/zh/post/accord/)
+- [Treaty](/zh/post/treaty/)

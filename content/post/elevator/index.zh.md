@@ -11,19 +11,19 @@ keywords = ['ai words', 'elevator']
 /ˈel·ə·veɪ·tər/
 
 ## 释义
-- **名词**: 电梯，一种电动升降设备，通常在建筑物内用于垂直运输乘客或货物。例如: "[We](/post/we/) took [the](/post/the/) [elevator](/post/elevator/) [to](/post/to/) [the](/post/the/) [tenth](/post/tenth/) [floor](/post/floor/)."
+- **名词**: 电梯，一种电动升降设备，通常在建筑物内用于垂直运输乘客或货物。例如: "[We](/zh/post/we/) took [the](/zh/post/the/) [elevator](/zh/post/elevator/) [to](/zh/post/to/) [the](/zh/post/the/) [tenth](/zh/post/tenth/) [floor](/zh/post/floor/)."
 
 ## 短语
-- "[Press](/post/press/) [the](/post/the/) [elevator](/post/elevator/) [button](/post/button/)" 按电梯按钮。
-- "[Elevator](/post/elevator/) shaft" 电梯井。
-- "[Elevator](/post/elevator/) [music](/post/music/)" 电梯音乐，通常指在公共场所播放的轻松背景音乐。
+- "[Press](/zh/post/press/) [the](/zh/post/the/) [elevator](/zh/post/elevator/) [button](/zh/post/button/)" 按电梯按钮。
+- "[Elevator](/zh/post/elevator/) shaft" 电梯井。
+- "[Elevator](/zh/post/elevator/) [music](/zh/post/music/)" 电梯音乐，通常指在公共场所播放的轻松背景音乐。
 
 ## 例句
-- "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), I was [glad](/post/glad/) [to](/post/to/) [finally](/post/finally/) [step](/post/step/) [into](/post/into/) [the](/post/the/) [elevator](/post/elevator/) [and](/post/and/) [head](/post/head/) [home](/post/home/)."
-- "[The](/post/the/) [elevator](/post/elevator/) [slowly](/post/slowly/) descended [to](/post/to/) [the](/post/the/) basement parking [garage](/post/garage/)."
-- "[Her](/post/her/) favorite [song](/post/song/) started playing [as](/post/as/) [we](/post/we/) entered [the](/post/the/) [elevator](/post/elevator/)."
+- "[After](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [day](/zh/post/day/), I was [glad](/zh/post/glad/) [to](/zh/post/to/) [finally](/zh/post/finally/) [step](/zh/post/step/) [into](/zh/post/into/) [the](/zh/post/the/) [elevator](/zh/post/elevator/) [and](/zh/post/and/) [head](/zh/post/head/) [home](/zh/post/home/)."
+- "[The](/zh/post/the/) [elevator](/zh/post/elevator/) [slowly](/zh/post/slowly/) descended [to](/zh/post/to/) [the](/zh/post/the/) basement parking [garage](/zh/post/garage/)."
+- "[Her](/zh/post/her/) favorite [song](/zh/post/song/) started playing [as](/zh/post/as/) [we](/zh/post/we/) entered [the](/zh/post/the/) [elevator](/zh/post/elevator/)."
 
 ## 同义词
-- [Lift](/post/lift/) (主要在英式英语中使用)
+- [Lift](/zh/post/lift/) (主要在英式英语中使用)
 - Escalator (指的是自动扶梯)
-- [Elevator](/post/elevator/) [car](/post/car/) (特指电梯内的轿厢)
+- [Elevator](/zh/post/elevator/) [car](/zh/post/car/) (特指电梯内的轿厢)

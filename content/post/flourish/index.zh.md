@@ -12,25 +12,25 @@ keywords = ['ai words', 'flourish']
 
 ## 释义
 - **动词**:
-  - 生长茂盛；茁壮成长。例如: "[The](/post/the/) trees flourished [in](/post/in/) [the](/post/the/) [sunny](/post/sunny/) [climate](/post/climate/)."
-  - 兴旺发达；繁荣昌盛。例如: "[The](/post/the/) [business](/post/business/) flourished [during](/post/during/) [the](/post/the/) [economic](/post/economic/) boom."
-  - 举起（某物），挥舞。例如: "[He](/post/he/) flourishing [his](/post/his/) [sword](/post/sword/), [he](/post/he/) charged [into](/post/into/) [battle](/post/battle/)."
-  - （艺术、技能等）展示，发挥。例如: "[She](/post/she/) flourished [her](/post/her/) [talent](/post/talent/) [for](/post/for/) [painting](/post/painting/)."
+  - 生长茂盛；茁壮成长。例如: "[The](/zh/post/the/) trees flourished [in](/zh/post/in/) [the](/zh/post/the/) [sunny](/zh/post/sunny/) [climate](/zh/post/climate/)."
+  - 兴旺发达；繁荣昌盛。例如: "[The](/zh/post/the/) [business](/zh/post/business/) flourished [during](/zh/post/during/) [the](/zh/post/the/) [economic](/zh/post/economic/) boom."
+  - 举起（某物），挥舞。例如: "[He](/zh/post/he/) flourishing [his](/zh/post/his/) [sword](/zh/post/sword/), [he](/zh/post/he/) charged [into](/zh/post/into/) [battle](/zh/post/battle/)."
+  - （艺术、技能等）展示，发挥。例如: "[She](/zh/post/she/) flourished [her](/zh/post/her/) [talent](/zh/post/talent/) [for](/zh/post/for/) [painting](/zh/post/painting/)."
 
 - **名词**:
-  - 茂盛；旺盛。例如: "[a](/post/a/) [period](/post/period/) [of](/post/of/) [great](/post/great/) [flourish](/post/flourish/) [in](/post/in/) [art](/post/art/)"
+  - 茂盛；旺盛。例如: "[a](/zh/post/a/) [period](/zh/post/period/) [of](/zh/post/of/) [great](/zh/post/great/) [flourish](/zh/post/flourish/) [in](/zh/post/in/) [art](/zh/post/art/)"
 
 ## 短语
-- "[to](/post/to/) [flourish](/post/flourish/) [a](/post/a/) [weapon](/post/weapon/)" 意为挥舞武器。
-- "[flourish](/post/flourish/) one's skills" 表示发挥或炫耀某项技能。
+- "[to](/zh/post/to/) [flourish](/zh/post/flourish/) [a](/zh/post/a/) [weapon](/zh/post/weapon/)" 意为挥舞武器。
+- "[flourish](/zh/post/flourish/) one's skills" 表示发挥或炫耀某项技能。
 
 ## 例句
-- 动词: "[The](/post/the/) [economy](/post/economy/) is flourishing, creating [many](/post/many/) [new](/post/new/) [job](/post/job/) opportunities."
-- 名词: "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) [the](/post/the/) [flourish](/post/flourish/) [of](/post/of/) colorful flowers."
+- 动词: "[The](/zh/post/the/) [economy](/zh/post/economy/) is flourishing, creating [many](/zh/post/many/) [new](/zh/post/new/) [job](/zh/post/job/) opportunities."
+- 名词: "[The](/zh/post/the/) [garden](/zh/post/garden/) was filled [with](/zh/post/with/) [the](/zh/post/the/) [flourish](/zh/post/flourish/) [of](/zh/post/of/) colorful flowers."
 
 ## 同义词
-- [thrive](/post/thrive/)
+- [thrive](/zh/post/thrive/)
 - prosper
-- [bloom](/post/bloom/)
-- [grow](/post/grow/) vigorously
-- [wave](/post/wave/) ([for](/post/for/) [the](/post/the/) [act](/post/act/) [of](/post/of/) waving [something](/post/something/))
+- [bloom](/zh/post/bloom/)
+- [grow](/zh/post/grow/) vigorously
+- [wave](/zh/post/wave/) ([for](/zh/post/for/) [the](/zh/post/the/) [act](/zh/post/act/) [of](/zh/post/of/) waving [something](/zh/post/something/))

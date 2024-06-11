@@ -7,34 +7,34 @@ description = '[ˈdʒenjuin] a.真的；真正的'
 keywords = ['ai words', 'genuine']
 +++
 
-## [Word](/en/post/word/): [Genuine](/en/post/genuine/)
+## [Word](/post/word/): [Genuine](/post/genuine/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒɛnjuɪn/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) Authentically [real](/en/post/real/); [not](/en/post/not/) counterfeit, fake, [or](/en/post/or/) imitation. [It](/en/post/it/) [also](/en/post/also/) describes [something](/en/post/something/) [that](/en/post/that/) is [sincere](/en/post/sincere/), heartfelt, [and](/en/post/and/) [honest](/en/post/honest/).
+- **[Adjective](/post/adjective/)**: (adj) Authentically [real](/post/real/); [not](/post/not/) counterfeit, fake, [or](/post/or/) imitation. [It](/post/it/) [also](/post/also/) describes [something](/post/something/) [that](/post/that/) is [sincere](/post/sincere/), heartfelt, [and](/post/and/) [honest](/post/honest/).
 
-### [Definition](/en/post/definition/) Examples
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) antique [vase](/en/post/vase/) proved [to](/en/post/to/) [be](/en/post/be/) [genuine](/en/post/genuine/) [after](/en/post/after/) [careful](/en/post/careful/) [examination](/en/post/examination/) [by](/en/post/by/) experts.
-  - [Sentence](/en/post/sentence/): "[She](/en/post/she/) appreciated [his](/en/post/his/) [genuine](/en/post/genuine/) [concern](/en/post/concern/) [for](/en/post/for/) [her](/en/post/her/) well-being."
-- **[Noun](/en/post/noun/)**: ([less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/)) [A](/en/post/a/) [genuine](/en/post/genuine/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/); [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) referring [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is authentic [or](/en/post/or/) [sincere](/en/post/sincere/).
-  - [Sentence](/en/post/sentence/): "He's [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [few](/en/post/few/) [genuine](/en/post/genuine/) [people](/en/post/people/) you'll [meet](/en/post/meet/) [in](/en/post/in/) [this](/en/post/this/) [industry](/en/post/industry/)."
+### [Definition](/post/definition/) Examples
+- **[Adjective](/post/adjective/)**: [The](/post/the/) antique [vase](/post/vase/) proved [to](/post/to/) [be](/post/be/) [genuine](/post/genuine/) [after](/post/after/) [careful](/post/careful/) [examination](/post/examination/) [by](/post/by/) experts.
+  - [Sentence](/post/sentence/): "[She](/post/she/) appreciated [his](/post/his/) [genuine](/post/genuine/) [concern](/post/concern/) [for](/post/for/) [her](/post/her/) well-being."
+- **[Noun](/post/noun/)**: ([less](/post/less/) [commonly](/post/commonly/) [used](/post/used/)) [A](/post/a/) [genuine](/post/genuine/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/); [often](/post/often/) [used](/post/used/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) referring [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is authentic [or](/post/or/) [sincere](/post/sincere/).
+  - [Sentence](/post/sentence/): "He's [one](/post/one/) [of](/post/of/) [the](/post/the/) [few](/post/few/) [genuine](/post/genuine/) [people](/post/people/) you'll [meet](/post/meet/) [in](/post/in/) [this](/post/this/) [industry](/post/industry/)."
 
 ## Phrases
-- "[Genuine](/en/post/genuine/) [article](/en/post/article/)": Refers [to](/en/post/to/) [the](/en/post/the/) [original](/en/post/original/) [and](/en/post/and/) authentic [item](/en/post/item/) [or](/en/post/or/) [person](/en/post/person/), [not](/en/post/not/) [a](/en/post/a/) [copy](/en/post/copy/) [or](/en/post/or/) imitation.
-- "[Genuine](/en/post/genuine/) [interest](/en/post/interest/)": Sincerely interested, [without](/en/post/without/) pretense [or](/en/post/or/) ulterior [motive](/en/post/motive/).
-- "[In](/en/post/in/) [genuine](/en/post/genuine/) terms": Honestly [or](/en/post/or/) sincerely expressed.
+- "[Genuine](/post/genuine/) [article](/post/article/)": Refers [to](/post/to/) [the](/post/the/) [original](/post/original/) [and](/post/and/) authentic [item](/post/item/) [or](/post/or/) [person](/post/person/), [not](/post/not/) [a](/post/a/) [copy](/post/copy/) [or](/post/or/) imitation.
+- "[Genuine](/post/genuine/) [interest](/post/interest/)": Sincerely interested, [without](/post/without/) pretense [or](/post/or/) ulterior [motive](/post/motive/).
+- "[In](/post/in/) [genuine](/post/genuine/) terms": Honestly [or](/post/or/) sincerely expressed.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) jeweler [could](/en/post/could/) [easily](/en/post/easily/) [spot](/en/post/spot/) [the](/en/post/the/) [difference](/en/post/difference/) [between](/en/post/between/) [the](/en/post/the/) [genuine](/en/post/genuine/) [diamond](/en/post/diamond/) [and](/en/post/and/) [the](/en/post/the/) [synthetic](/en/post/synthetic/) ones.
-- **[Noun](/en/post/noun/)**: [His](/en/post/his/) genuineness made [him](/en/post/him/) [stand](/en/post/stand/) [out](/en/post/out/) [among](/en/post/among/) [all](/en/post/all/) [the](/en/post/the/) [other](/en/post/other/) candidates.
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: [The](/post/the/) jeweler [could](/post/could/) [easily](/post/easily/) [spot](/post/spot/) [the](/post/the/) [difference](/post/difference/) [between](/post/between/) [the](/post/the/) [genuine](/post/genuine/) [diamond](/post/diamond/) [and](/post/and/) [the](/post/the/) [synthetic](/post/synthetic/) ones.
+- **[Noun](/post/noun/)**: [His](/post/his/) genuineness made [him](/post/him/) [stand](/post/stand/) [out](/post/out/) [among](/post/among/) [all](/post/all/) [the](/post/the/) [other](/post/other/) candidates.
 
 ## Synonyms
 - Authentic
-- [Real](/en/post/real/)
-- [Original](/en/post/original/)
-- [True](/en/post/true/)
+- [Real](/post/real/)
+- [Original](/post/original/)
+- [True](/post/true/)
 - Unfeigned
 - Veritable
 - Legitimate

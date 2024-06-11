@@ -11,21 +11,21 @@ keywords = ['ai words', 'via']
 /vaɪər/
 
 ## 释义
-- **介词**: 表示通过、经由或借助某种方式。例如: "We'll [send](/post/send/) [the](/post/the/) [package](/post/package/) [via](/post/via/) FedEx."
-- **名词**: 在某些固定表达中，如 "[Via](/post/via/) [Satellite](/post/satellite/)"（通过卫星）或 "[Via](/post/via/) Roma"（罗马街），表示途径或手段。
+- **介词**: 表示通过、经由或借助某种方式。例如: "We'll [send](/zh/post/send/) [the](/zh/post/the/) [package](/zh/post/package/) [via](/zh/post/via/) FedEx."
+- **名词**: 在某些固定表达中，如 "[Via](/zh/post/via/) [Satellite](/zh/post/satellite/)"（通过卫星）或 "[Via](/zh/post/via/) Roma"（罗马街），表示途径或手段。
 
 ## 短语
-- "[via](/post/via/) [satellite](/post/satellite/)" 通过卫星传输。
-- "[via](/post/via/) email" 通过电子邮件。
-- "[via](/post/via/) [a](/post/a/) [third](/post/third/) [party](/post/party/)" 通过第三方。
+- "[via](/zh/post/via/) [satellite](/zh/post/satellite/)" 通过卫星传输。
+- "[via](/zh/post/via/) email" 通过电子邮件。
+- "[via](/zh/post/via/) [a](/zh/post/a/) [third](/zh/post/third/) [party](/zh/post/party/)" 通过第三方。
 
 ## 例句
-- 介词: "[The](/post/the/) [flight](/post/flight/) [to](/post/to/) [New](/post/new/) York goes [via](/post/via/) London."
-- 名词: "[Our](/post/our/) [communication](/post/communication/) was [via](/post/via/) [radio](/post/radio/)."
+- 介词: "[The](/zh/post/the/) [flight](/zh/post/flight/) [to](/zh/post/to/) [New](/zh/post/new/) York goes [via](/zh/post/via/) London."
+- 名词: "[Our](/zh/post/our/) [communication](/zh/post/communication/) was [via](/zh/post/via/) [radio](/zh/post/radio/)."
 
 ## 同义词
-- [through](/post/through/)
-- [by](/post/by/) [means](/post/means/) [of](/post/of/)
-- [through](/post/through/) [the](/post/the/) [agency](/post/agency/) [of](/post/of/)
+- [through](/zh/post/through/)
+- [by](/zh/post/by/) [means](/zh/post/means/) [of](/zh/post/of/)
+- [through](/zh/post/through/) [the](/zh/post/the/) [agency](/zh/post/agency/) [of](/zh/post/of/)
 - using
-- [with](/post/with/) [the](/post/the/) [help](/post/help/) [of](/post/of/)
+- [with](/zh/post/with/) [the](/zh/post/the/) [help](/zh/post/help/) [of](/zh/post/of/)

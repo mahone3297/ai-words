@@ -7,40 +7,40 @@ description = '[kənˈdi∫ən] n.状况，状态；环境'
 keywords = ['ai words', 'condition']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈdɪʃən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [state](/en/post/state/) [or](/en/post/or/) circumstances [that](/en/post/that/) [must](/en/post/must/) [be](/en/post/be/) fulfilled [or](/en/post/or/) [present](/en/post/present/) [for](/en/post/for/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/)**: *[The](/en/post/the/) [success](/en/post/success/) [of](/en/post/of/) [the](/en/post/the/) [project](/en/post/project/) depends [on](/en/post/on/) favorable conditions.*
-2. **[A](/en/post/a/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [that](/en/post/that/) [something](/en/post/something/) has [or](/en/post/or/) is [subject](/en/post/subject/) [to](/en/post/to/)**: *[The](/en/post/the/) [car](/en/post/car/) needs [new](/en/post/new/) brakes [under](/en/post/under/) [these](/en/post/these/) driving conditions.*
-3. **[A](/en/post/a/) [requirement](/en/post/requirement/) [or](/en/post/or/) stipulation**: *[The](/en/post/the/) terms [of](/en/post/of/) [the](/en/post/the/) [contract](/en/post/contract/) included [a](/en/post/a/) [condition](/en/post/condition/) [for](/en/post/for/) [early](/en/post/early/) termination.*
-4. **[Physical](/en/post/physical/) [or](/en/post/or/) [mental](/en/post/mental/) [health](/en/post/health/)**: *He's [in](/en/post/in/) [good](/en/post/good/) [condition](/en/post/condition/) [for](/en/post/for/) [his](/en/post/his/) [age](/en/post/age/).*
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [state](/post/state/) [or](/post/or/) circumstances [that](/post/that/) [must](/post/must/) [be](/post/be/) fulfilled [or](/post/or/) [present](/post/present/) [for](/post/for/) [something](/post/something/) [to](/post/to/) [happen](/post/happen/)**: *[The](/post/the/) [success](/post/success/) [of](/post/of/) [the](/post/the/) [project](/post/project/) depends [on](/post/on/) favorable conditions.*
+2. **[A](/post/a/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [that](/post/that/) [something](/post/something/) has [or](/post/or/) is [subject](/post/subject/) [to](/post/to/)**: *[The](/post/the/) [car](/post/car/) needs [new](/post/new/) brakes [under](/post/under/) [these](/post/these/) driving conditions.*
+3. **[A](/post/a/) [requirement](/post/requirement/) [or](/post/or/) stipulation**: *[The](/post/the/) terms [of](/post/of/) [the](/post/the/) [contract](/post/contract/) included [a](/post/a/) [condition](/post/condition/) [for](/post/for/) [early](/post/early/) termination.*
+4. **[Physical](/post/physical/) [or](/post/or/) [mental](/post/mental/) [health](/post/health/)**: *He's [in](/post/in/) [good](/post/good/) [condition](/post/condition/) [for](/post/for/) [his](/post/his/) [age](/post/age/).*
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [have](/en/post/have/) [or](/en/post/or/) [be](/en/post/be/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [state](/en/post/state/) [or](/en/post/or/) [situation](/en/post/situation/)**: *[The](/en/post/the/) flowers [will](/en/post/will/) [bloom](/en/post/bloom/) [under](/en/post/under/) [ideal](/en/post/ideal/) conditions.*
-2. **[To](/en/post/to/) [determine](/en/post/determine/) [or](/en/post/or/) [specify](/en/post/specify/) [a](/en/post/a/) [necessary](/en/post/necessary/) [condition](/en/post/condition/)**: *[We](/en/post/we/) [can](/en/post/can/) [only](/en/post/only/) [proceed](/en/post/proceed/) [if](/en/post/if/) [all](/en/post/all/) conditions are met.*
-3. **[To](/en/post/to/) [judge](/en/post/judge/) [or](/en/post/or/) [evaluate](/en/post/evaluate/) someone's readiness [or](/en/post/or/) suitability**: *[She](/en/post/she/) was [quickly](/en/post/quickly/) assessed [as](/en/post/as/) physically [fit](/en/post/fit/) [to](/en/post/to/) [join](/en/post/join/) [the](/en/post/the/) [team](/en/post/team/).*
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [have](/post/have/) [or](/post/or/) [be](/post/be/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [state](/post/state/) [or](/post/or/) [situation](/post/situation/)**: *[The](/post/the/) flowers [will](/post/will/) [bloom](/post/bloom/) [under](/post/under/) [ideal](/post/ideal/) conditions.*
+2. **[To](/post/to/) [determine](/post/determine/) [or](/post/or/) [specify](/post/specify/) [a](/post/a/) [necessary](/post/necessary/) [condition](/post/condition/)**: *[We](/post/we/) [can](/post/can/) [only](/post/only/) [proceed](/post/proceed/) [if](/post/if/) [all](/post/all/) conditions are met.*
+3. **[To](/post/to/) [judge](/post/judge/) [or](/post/or/) [evaluate](/post/evaluate/) someone's readiness [or](/post/or/) suitability**: *[She](/post/she/) was [quickly](/post/quickly/) assessed [as](/post/as/) physically [fit](/post/fit/) [to](/post/to/) [join](/post/join/) [the](/post/the/) [team](/post/team/).*
 
-### [Adjective](/en/post/adjective/)
-1. **[Suitable](/en/post/suitable/) [or](/en/post/or/) [appropriate](/en/post/appropriate/)**: *[The](/en/post/the/) [weather](/en/post/weather/) conditions were [perfect](/en/post/perfect/) [for](/en/post/for/) [a](/en/post/a/) [picnic](/en/post/picnic/).*
-2. **Optimal [or](/en/post/or/) conducive**: *[These](/en/post/these/) working conditions [encourage](/en/post/encourage/) productivity.*
+### [Adjective](/post/adjective/)
+1. **[Suitable](/post/suitable/) [or](/post/or/) [appropriate](/post/appropriate/)**: *[The](/post/the/) [weather](/post/weather/) conditions were [perfect](/post/perfect/) [for](/post/for/) [a](/post/a/) [picnic](/post/picnic/).*
+2. **Optimal [or](/post/or/) conducive**: *[These](/post/these/) working conditions [encourage](/post/encourage/) productivity.*
 
-### [Adverb](/en/post/adverb/)
-1. **[In](/en/post/in/) [what](/en/post/what/) [manner](/en/post/manner/) [or](/en/post/or/) [to](/en/post/to/) [what](/en/post/what/) [degree](/en/post/degree/)**: *[He](/en/post/he/) performed [the](/en/post/the/) [task](/en/post/task/) [under](/en/post/under/) challenging conditions.*
+### [Adverb](/post/adverb/)
+1. **[In](/post/in/) [what](/post/what/) [manner](/post/manner/) [or](/post/or/) [to](/post/to/) [what](/post/what/) [degree](/post/degree/)**: *[He](/post/he/) performed [the](/post/the/) [task](/post/task/) [under](/post/under/) challenging conditions.*
 
 ## Phrases
-- "[Under](/en/post/under/) [certain](/en/post/certain/) conditions"
-- "[If](/en/post/if/) [and](/en/post/and/) [when](/en/post/when/) [the](/en/post/the/) conditions are [right](/en/post/right/)"
-- "[Subject](/en/post/subject/) [to](/en/post/to/) conditions"
-- "[Keep](/en/post/keep/) [the](/en/post/the/) [room](/en/post/room/) [at](/en/post/at/) [a](/en/post/a/) [comfortable](/en/post/comfortable/) [temperature](/en/post/temperature/)"
-- "[In](/en/post/in/) [good](/en/post/good/) [condition](/en/post/condition/)"
+- "[Under](/post/under/) [certain](/post/certain/) conditions"
+- "[If](/post/if/) [and](/post/and/) [when](/post/when/) [the](/post/the/) conditions are [right](/post/right/)"
+- "[Subject](/post/subject/) [to](/post/to/) conditions"
+- "[Keep](/post/keep/) [the](/post/the/) [room](/post/room/) [at](/post/at/) [a](/post/a/) [comfortable](/post/comfortable/) [temperature](/post/temperature/)"
+- "[In](/post/in/) [good](/post/good/) [condition](/post/condition/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [experiment](/en/post/experiment/) was conducted [under](/en/post/under/) controlled conditions."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [deal](/en/post/deal/) was conditional [on](/en/post/on/) [the](/en/post/the/) buyer's [ability](/en/post/ability/) [to](/en/post/to/) [secure](/en/post/secure/) financing."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [athlete](/en/post/athlete/) maintained [a](/en/post/a/) rigorous [training](/en/post/training/) [routine](/en/post/routine/) [to](/en/post/to/) [stay](/en/post/stay/) [in](/en/post/in/) [top](/en/post/top/) [condition](/en/post/condition/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) completed [the](/en/post/the/) marathon [under](/en/post/under/) [difficult](/en/post/difficult/) conditions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [experiment](/post/experiment/) was conducted [under](/post/under/) controlled conditions."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [deal](/post/deal/) was conditional [on](/post/on/) [the](/post/the/) buyer's [ability](/post/ability/) [to](/post/to/) [secure](/post/secure/) financing."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [athlete](/post/athlete/) maintained [a](/post/a/) rigorous [training](/post/training/) [routine](/post/routine/) [to](/post/to/) [stay](/post/stay/) [in](/post/in/) [top](/post/top/) [condition](/post/condition/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) completed [the](/post/the/) marathon [under](/post/under/) [difficult](/post/difficult/) conditions."
 
 ## Synonyms
 - Terms
@@ -48,7 +48,7 @@ keywords = ['ai words', 'condition']
 - Requirements
 - Standards
 - Settings
-- Terms [and](/en/post/and/) conditions
+- Terms [and](/post/and/) conditions
 - Circumstances
-- [State](/en/post/state/)
-- [Situation](/en/post/situation/)
+- [State](/post/state/)
+- [Situation](/post/situation/)

@@ -7,28 +7,28 @@ description = '[ˈbiljən] num.万亿(英)'
 keywords = ['ai words', 'billion']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈlɪən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/) [equal](/en/post/equal/) [to](/en/post/to/) 1,000,000,000 ([one](/en/post/one/) [thousand](/en/post/thousand/) [million](/en/post/million/)). [In](/en/post/in/) British English, [it](/en/post/it/) is [also](/en/post/also/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [short](/en/post/short/) [form](/en/post/form/) [for](/en/post/for/) "billionth." [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's revenue exceeded [a](/en/post/a/) [billion](/en/post/billion/) dollars [last](/en/post/last/) [year](/en/post/year/)."
-- **Numeral**: [A](/en/post/a/) [large](/en/post/large/) [number](/en/post/number/) representing [a](/en/post/a/) [multiple](/en/post/multiple/) [of](/en/post/of/) [a](/en/post/a/) [thousand](/en/post/thousand/) [million](/en/post/million/). [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) are [five](/en/post/five/) [billion](/en/post/billion/) stars [in](/en/post/in/) [the](/en/post/the/) observable [universe](/en/post/universe/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/) [equal](/post/equal/) [to](/post/to/) 1,000,000,000 ([one](/post/one/) [thousand](/post/thousand/) [million](/post/million/)). [In](/post/in/) British English, [it](/post/it/) is [also](/post/also/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [short](/post/short/) [form](/post/form/) [for](/post/for/) "billionth." [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's revenue exceeded [a](/post/a/) [billion](/post/billion/) dollars [last](/post/last/) [year](/post/year/)."
+- **Numeral**: [A](/post/a/) [large](/post/large/) [number](/post/number/) representing [a](/post/a/) [multiple](/post/multiple/) [of](/post/of/) [a](/post/a/) [thousand](/post/thousand/) [million](/post/million/). [For](/post/for/) [example](/post/example/): "[There](/post/there/) are [five](/post/five/) [billion](/post/billion/) stars [in](/post/in/) [the](/post/the/) observable [universe](/post/universe/)."
 
 ## Phrases
-- "[In](/en/post/in/) billions" [or](/en/post/or/) "billions [of](/en/post/of/)" is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [very](/en/post/very/) [large](/en/post/large/) [quantity](/en/post/quantity/).
-- "Global [population](/en/post/population/) is approaching [ten](/en/post/ten/) [billion](/en/post/billion/)."
-- "[A](/en/post/a/) billion-dollar [deal](/en/post/deal/)"
+- "[In](/post/in/) billions" [or](/post/or/) "billions [of](/post/of/)" is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [very](/post/very/) [large](/post/large/) [quantity](/post/quantity/).
+- "Global [population](/post/population/) is approaching [ten](/post/ten/) [billion](/post/billion/)."
+- "[A](/post/a/) billion-dollar [deal](/post/deal/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [charity](/en/post/charity/) aims [to](/en/post/to/) [raise](/en/post/raise/) [a](/en/post/a/) [billion](/en/post/billion/) dollars [for](/en/post/for/) [medical](/en/post/medical/) [research](/en/post/research/)."
-- **Numeral**: "[The](/en/post/the/) [construction](/en/post/construction/) [project](/en/post/project/) [will](/en/post/will/) [employ](/en/post/employ/) [over](/en/post/over/) [a](/en/post/a/) [billion](/en/post/billion/) workers worldwide."
-- "[The](/en/post/the/) [movie](/en/post/movie/) has grossed [over](/en/post/over/) [a](/en/post/a/) [billion](/en/post/billion/) [at](/en/post/at/) [the](/en/post/the/) [box](/en/post/box/) [office](/en/post/office/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [charity](/post/charity/) aims [to](/post/to/) [raise](/post/raise/) [a](/post/a/) [billion](/post/billion/) dollars [for](/post/for/) [medical](/post/medical/) [research](/post/research/)."
+- **Numeral**: "[The](/post/the/) [construction](/post/construction/) [project](/post/project/) [will](/post/will/) [employ](/post/employ/) [over](/post/over/) [a](/post/a/) [billion](/post/billion/) workers worldwide."
+- "[The](/post/the/) [movie](/post/movie/) has grossed [over](/post/over/) [a](/post/a/) [billion](/post/billion/) [at](/post/at/) [the](/post/the/) [box](/post/box/) [office](/post/office/)."
 
 ## Synonyms
-- [Thousand](/en/post/thousand/) [million](/en/post/million/)
-- Gigantic [number](/en/post/number/)
-- Terabyte (informal, [in](/en/post/in/) computing context)
-- Billions [and](/en/post/and/) billions (informal, [from](/en/post/from/) "[The](/en/post/the/) Simpsons")
+- [Thousand](/post/thousand/) [million](/post/million/)
+- Gigantic [number](/post/number/)
+- Terabyte (informal, [in](/post/in/) computing context)
+- Billions [and](/post/and/) billions (informal, [from](/post/from/) "[The](/post/the/) Simpsons")
 
 ## Notes
-- [The](/en/post/the/) [usage](/en/post/usage/) [of](/en/post/of/) "[billion](/en/post/billion/)" [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [and](/en/post/and/) [as](/en/post/as/) [a](/en/post/a/) numeral [can](/en/post/can/) [cause](/en/post/cause/) [confusion](/en/post/confusion/), [as](/en/post/as/) [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [either](/en/post/either/) 1,000,000,000 ([short](/en/post/short/) [scale](/en/post/scale/)) [or](/en/post/or/) 1,000,000,000,000 ([long](/en/post/long/) [scale](/en/post/scale/)) depending [on](/en/post/on/) [the](/en/post/the/) [country](/en/post/country/). [In](/en/post/in/) [the](/en/post/the/) United States, [it](/en/post/it/) [generally](/en/post/generally/) [means](/en/post/means/) [short](/en/post/short/) [scale](/en/post/scale/), [while](/en/post/while/) [most](/en/post/most/) [other](/en/post/other/) English-speaking countries [use](/en/post/use/) [the](/en/post/the/) [long](/en/post/long/) [scale](/en/post/scale/).
+- [The](/post/the/) [usage](/post/usage/) [of](/post/of/) "[billion](/post/billion/)" [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [and](/post/and/) [as](/post/as/) [a](/post/a/) numeral [can](/post/can/) [cause](/post/cause/) [confusion](/post/confusion/), [as](/post/as/) [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [either](/post/either/) 1,000,000,000 ([short](/post/short/) [scale](/post/scale/)) [or](/post/or/) 1,000,000,000,000 ([long](/post/long/) [scale](/post/scale/)) depending [on](/post/on/) [the](/post/the/) [country](/post/country/). [In](/post/in/) [the](/post/the/) United States, [it](/post/it/) [generally](/post/generally/) [means](/post/means/) [short](/post/short/) [scale](/post/scale/), [while](/post/while/) [most](/post/most/) [other](/post/other/) English-speaking countries [use](/post/use/) [the](/post/the/) [long](/post/long/) [scale](/post/scale/).

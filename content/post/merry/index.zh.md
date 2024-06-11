@@ -11,20 +11,20 @@ keywords = ['ai words', 'merry']
 /məˈrɪ/
 
 ## 释义
-- **形容词**: 快乐的，愉快的，充满欢乐的。例如: "[They](/post/they/) had [a](/post/a/) [merry](/post/merry/) Christmas celebration."
-- **名词**: （尤指圣诞时的）欢庆，快乐的气氛。例如: "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) [merry](/post/merry/) carols filled [the](/post/the/) [air](/post/air/)."
+- **形容词**: 快乐的，愉快的，充满欢乐的。例如: "[They](/zh/post/they/) had [a](/zh/post/a/) [merry](/zh/post/merry/) Christmas celebration."
+- **名词**: （尤指圣诞时的）欢庆，快乐的气氛。例如: "[The](/zh/post/the/) [sound](/zh/post/sound/) [of](/zh/post/of/) [merry](/zh/post/merry/) carols filled [the](/zh/post/the/) [air](/zh/post/air/)."
 
 ## 短语
 - "Merry-go-round" 指旋转木马，一种游乐设施。
-- "[Have](/post/have/) [a](/post/a/) [merry](/post/merry/) [time](/post/time/)" 意为祝你玩得开心，过得愉快。
+- "[Have](/zh/post/have/) [a](/zh/post/a/) [merry](/zh/post/merry/) [time](/zh/post/time/)" 意为祝你玩得开心，过得愉快。
 
 ## 例句
-- 形容词: "[The](/post/the/) children were [in](/post/in/) [high](/post/high/) spirits, [their](/post/their/) [merry](/post/merry/) [laughter](/post/laughter/) echoing [through](/post/through/) [the](/post/the/) [house](/post/house/)."
-- 名词: "[The](/post/the/) [town](/post/town/) was decorated [with](/post/with/) lights [and](/post/and/) wreaths, creating [a](/post/a/) festive [and](/post/and/) [merry](/post/merry/) [atmosphere](/post/atmosphere/)."
+- 形容词: "[The](/zh/post/the/) children were [in](/zh/post/in/) [high](/zh/post/high/) spirits, [their](/zh/post/their/) [merry](/zh/post/merry/) [laughter](/zh/post/laughter/) echoing [through](/zh/post/through/) [the](/zh/post/the/) [house](/zh/post/house/)."
+- 名词: "[The](/zh/post/the/) [town](/zh/post/town/) was decorated [with](/zh/post/with/) lights [and](/zh/post/and/) wreaths, creating [a](/zh/post/a/) festive [and](/zh/post/and/) [merry](/zh/post/merry/) [atmosphere](/zh/post/atmosphere/)."
 
 ## 同义词
-- [Joyful](/post/joyful/)
-- [Jolly](/post/jolly/)
-- [Cheerful](/post/cheerful/)
+- [Joyful](/zh/post/joyful/)
+- [Jolly](/zh/post/jolly/)
+- [Cheerful](/zh/post/cheerful/)
 - Festive
-- [Happy](/post/happy/)
+- [Happy](/zh/post/happy/)

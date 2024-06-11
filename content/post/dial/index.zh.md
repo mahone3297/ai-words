@@ -11,22 +11,22 @@ keywords = ['ai words', 'dial']
 /daɪəl/
 
 ## 释义
-- **名词**: 电话机上的数字键盘，用于拨打电话号码。例如: "[He](/post/he/) dialed [her](/post/her/) [number](/post/number/) [on](/post/on/) [the](/post/the/) [telephone](/post/telephone/)."
-- **动词**: 使用电话拨号，联系某人。例如: "[She](/post/she/) dialed [the](/post/the/) [emergency](/post/emergency/) services [when](/post/when/) [the](/post/the/) [fire](/post/fire/) broke [out](/post/out/)."
-- **名词**: 计时器或钟表上的刻度盘。例如: "[The](/post/the/) [clock](/post/clock/) has [a](/post/a/) [large](/post/large/), easy-to-read [dial](/post/dial/)."
+- **名词**: 电话机上的数字键盘，用于拨打电话号码。例如: "[He](/zh/post/he/) dialed [her](/zh/post/her/) [number](/zh/post/number/) [on](/zh/post/on/) [the](/zh/post/the/) [telephone](/zh/post/telephone/)."
+- **动词**: 使用电话拨号，联系某人。例如: "[She](/zh/post/she/) dialed [the](/zh/post/the/) [emergency](/zh/post/emergency/) services [when](/zh/post/when/) [the](/zh/post/the/) [fire](/zh/post/fire/) broke [out](/zh/post/out/)."
+- **名词**: 计时器或钟表上的刻度盘。例如: "[The](/zh/post/the/) [clock](/zh/post/clock/) has [a](/zh/post/a/) [large](/zh/post/large/), easy-to-read [dial](/zh/post/dial/)."
 
 ## 短语
-- "[Dial](/post/dial/) [up](/post/up/)" 在互联网语境中指的是通过调制解调器连接网络。
-- "[Dial](/post/dial/) [in](/post/in/)" 指的是输入或调整参数或设置。
+- "[Dial](/zh/post/dial/) [up](/zh/post/up/)" 在互联网语境中指的是通过调制解调器连接网络。
+- "[Dial](/zh/post/dial/) [in](/zh/post/in/)" 指的是输入或调整参数或设置。
 
 ## 例句
-- 名词: "[The](/post/the/) [old](/post/old/) [phone](/post/phone/) had [a](/post/a/) [rotary](/post/rotary/) [dial](/post/dial/) [with](/post/with/) numbers [from](/post/from/) 0 [to](/post/to/) 9."
-- 动词: "[Please](/post/please/) [dial](/post/dial/) 1-800-123-4567 [to](/post/to/) [reach](/post/reach/) [customer](/post/customer/) [service](/post/service/)."
-- 名词: "[The](/post/the/) [oven](/post/oven/) has [a](/post/a/) [digital](/post/digital/) [display](/post/display/) [and](/post/and/) easy-to-use dials [for](/post/for/) [setting](/post/setting/) [the](/post/the/) [temperature](/post/temperature/)."
+- 名词: "[The](/zh/post/the/) [old](/zh/post/old/) [phone](/zh/post/phone/) had [a](/zh/post/a/) [rotary](/zh/post/rotary/) [dial](/zh/post/dial/) [with](/zh/post/with/) numbers [from](/zh/post/from/) 0 [to](/zh/post/to/) 9."
+- 动词: "[Please](/zh/post/please/) [dial](/zh/post/dial/) 1-800-123-4567 [to](/zh/post/to/) [reach](/zh/post/reach/) [customer](/zh/post/customer/) [service](/zh/post/service/)."
+- 名词: "[The](/zh/post/the/) [oven](/zh/post/oven/) has [a](/zh/post/a/) [digital](/zh/post/digital/) [display](/zh/post/display/) [and](/zh/post/and/) easy-to-use dials [for](/zh/post/for/) [setting](/zh/post/setting/) [the](/zh/post/the/) [temperature](/zh/post/temperature/)."
 
 ## 同义词
-- [Call](/post/call/)
-- [Ring](/post/ring/)
-- [Contact](/post/contact/)
-- [Reach](/post/reach/) [out](/post/out/) [to](/post/to/)
-- [Connect](/post/connect/) [with](/post/with/)
+- [Call](/zh/post/call/)
+- [Ring](/zh/post/ring/)
+- [Contact](/zh/post/contact/)
+- [Reach](/zh/post/reach/) [out](/zh/post/out/) [to](/zh/post/to/)
+- [Connect](/zh/post/connect/) [with](/zh/post/with/)

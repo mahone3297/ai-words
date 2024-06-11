@@ -7,44 +7,44 @@ description = '[ˈpæsindʒə] n.乘客,旅客,过路人'
 keywords = ['ai words', 'passenger']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈsændʒər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) travels [in](/en/post/in/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), [aircraft](/en/post/aircraft/), [or](/en/post/or/) [on](/en/post/on/) [public](/en/post/public/) [transportation](/en/post/transportation/), [usually](/en/post/usually/) paying [a](/en/post/a/) [fare](/en/post/fare/)**: [The](/en/post/the/) [airplane](/en/post/airplane/) was crowded [with](/en/post/with/) passengers.
-- **[A](/en/post/a/) [person](/en/post/person/) [aboard](/en/post/aboard/) [a](/en/post/a/) [ship](/en/post/ship/) [or](/en/post/or/) [train](/en/post/train/), [especially](/en/post/especially/) [during](/en/post/during/) [a](/en/post/a/) [voyage](/en/post/voyage/)**: Cruise passengers [often](/en/post/often/) [enjoy](/en/post/enjoy/) [various](/en/post/various/) activities [on](/en/post/on/) [board](/en/post/board/).
-- **[A](/en/post/a/) [person](/en/post/person/) using [a](/en/post/a/) [service](/en/post/service/) [or](/en/post/or/) [facility](/en/post/facility/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [hotel](/en/post/hotel/) [or](/en/post/or/) [restaurant](/en/post/restaurant/)**: [The](/en/post/the/) [hotel](/en/post/hotel/) had [several](/en/post/several/) [business](/en/post/business/) passengers staying [over](/en/post/over/) [the](/en/post/the/) [weekend](/en/post/weekend/).
+### [Noun](/post/noun/)
+- **[A](/post/a/) [person](/post/person/) [who](/post/who/) travels [in](/post/in/) [a](/post/a/) [vehicle](/post/vehicle/), [aircraft](/post/aircraft/), [or](/post/or/) [on](/post/on/) [public](/post/public/) [transportation](/post/transportation/), [usually](/post/usually/) paying [a](/post/a/) [fare](/post/fare/)**: [The](/post/the/) [airplane](/post/airplane/) was crowded [with](/post/with/) passengers.
+- **[A](/post/a/) [person](/post/person/) [aboard](/post/aboard/) [a](/post/a/) [ship](/post/ship/) [or](/post/or/) [train](/post/train/), [especially](/post/especially/) [during](/post/during/) [a](/post/a/) [voyage](/post/voyage/)**: Cruise passengers [often](/post/often/) [enjoy](/post/enjoy/) [various](/post/various/) activities [on](/post/on/) [board](/post/board/).
+- **[A](/post/a/) [person](/post/person/) using [a](/post/a/) [service](/post/service/) [or](/post/or/) [facility](/post/facility/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [hotel](/post/hotel/) [or](/post/or/) [restaurant](/post/restaurant/)**: [The](/post/the/) [hotel](/post/hotel/) had [several](/post/several/) [business](/post/business/) passengers staying [over](/post/over/) [the](/post/the/) [weekend](/post/weekend/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [travel](/en/post/travel/) [as](/en/post/as/) [a](/en/post/a/) [passenger](/en/post/passenger/)**: She's flying [to](/en/post/to/) Paris [as](/en/post/as/) [a](/en/post/a/) [passenger](/en/post/passenger/) [next](/en/post/next/) [week](/en/post/week/).
-- **[To](/en/post/to/) [carry](/en/post/carry/) [or](/en/post/or/) [convey](/en/post/convey/) ([someone](/en/post/someone/)) [as](/en/post/as/) [a](/en/post/a/) [passenger](/en/post/passenger/)**: [The](/en/post/the/) [bus](/en/post/bus/) [driver](/en/post/driver/) transported [the](/en/post/the/) passengers [safely](/en/post/safely/) [to](/en/post/to/) [their](/en/post/their/) [destination](/en/post/destination/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [travel](/post/travel/) [as](/post/as/) [a](/post/a/) [passenger](/post/passenger/)**: She's flying [to](/post/to/) Paris [as](/post/as/) [a](/post/a/) [passenger](/post/passenger/) [next](/post/next/) [week](/post/week/).
+- **[To](/post/to/) [carry](/post/carry/) [or](/post/or/) [convey](/post/convey/) ([someone](/post/someone/)) [as](/post/as/) [a](/post/a/) [passenger](/post/passenger/)**: [The](/post/the/) [bus](/post/bus/) [driver](/post/driver/) transported [the](/post/the/) passengers [safely](/post/safely/) [to](/post/to/) [their](/post/their/) [destination](/post/destination/).
 
-### [Adjective](/en/post/adjective/)
-- Referring [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is traveling [or](/en/post/or/) [being](/en/post/being/) conveyed: [The](/en/post/the/) [passenger](/en/post/passenger/) [seat](/en/post/seat/) was reserved.
+### [Adjective](/post/adjective/)
+- Referring [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is traveling [or](/post/or/) [being](/post/being/) conveyed: [The](/post/the/) [passenger](/post/passenger/) [seat](/post/seat/) was reserved.
 
 ## Phrases
-- "Boarding passengers" indicates [people](/en/post/people/) getting [on](/en/post/on/) [a](/en/post/a/) [vehicle](/en/post/vehicle/).
-- "[Passenger](/en/post/passenger/) [capacity](/en/post/capacity/)" refers [to](/en/post/to/) [the](/en/post/the/) [maximum](/en/post/maximum/) [number](/en/post/number/) [of](/en/post/of/) [people](/en/post/people/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [can](/en/post/can/) [hold](/en/post/hold/).
-- "First-class passengers" are [those](/en/post/those/) enjoying premium services [on](/en/post/on/) [a](/en/post/a/) [trip](/en/post/trip/).
+- "Boarding passengers" indicates [people](/post/people/) getting [on](/post/on/) [a](/post/a/) [vehicle](/post/vehicle/).
+- "[Passenger](/post/passenger/) [capacity](/post/capacity/)" refers [to](/post/to/) [the](/post/the/) [maximum](/post/maximum/) [number](/post/number/) [of](/post/of/) [people](/post/people/) [a](/post/a/) [vehicle](/post/vehicle/) [can](/post/can/) [hold](/post/hold/).
+- "First-class passengers" are [those](/post/those/) enjoying premium services [on](/post/on/) [a](/post/a/) [trip](/post/trip/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [flight](/en/post/flight/) had [a](/en/post/a/) [mix](/en/post/mix/) [of](/en/post/of/) [leisure](/en/post/leisure/) [and](/en/post/and/) [business](/en/post/business/) passengers.
-- **[Verb](/en/post/verb/)**: [The](/en/post/the/) [pilot](/en/post/pilot/) announced [that](/en/post/that/) [all](/en/post/all/) passengers [should](/en/post/should/) [fasten](/en/post/fasten/) [their](/en/post/their/) [seat](/en/post/seat/) belts.
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [luxury](/en/post/luxury/) cruise [line](/en/post/line/) caters [to](/en/post/to/) high-end [passenger](/en/post/passenger/) needs.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [flight](/post/flight/) had [a](/post/a/) [mix](/post/mix/) [of](/post/of/) [leisure](/post/leisure/) [and](/post/and/) [business](/post/business/) passengers.
+- **[Verb](/post/verb/)**: [The](/post/the/) [pilot](/post/pilot/) announced [that](/post/that/) [all](/post/all/) passengers [should](/post/should/) [fasten](/post/fasten/) [their](/post/their/) [seat](/post/seat/) belts.
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [luxury](/post/luxury/) cruise [line](/post/line/) caters [to](/post/to/) high-end [passenger](/post/passenger/) needs.
 
 ## Synonyms
 - Traveler
-- [Passenger](/en/post/passenger/) [fare](/en/post/fare/)
-- Traveler ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [transport](/en/post/transport/))
+- [Passenger](/post/passenger/) [fare](/post/fare/)
+- Traveler ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [transport](/post/transport/))
 - Commuter
 - Boarder
 
 ## Related Words
 - Co-passenger
-- [Tourist](/en/post/tourist/)
-- [Passenger](/en/post/passenger/) [list](/en/post/list/)
+- [Tourist](/post/tourist/)
+- [Passenger](/post/passenger/) [list](/post/list/)
 - Stowaway (illegally)
-- [Baggage](/en/post/baggage/) [claim](/en/post/claim/)
-- [Airline](/en/post/airline/) [ticket](/en/post/ticket/)
-- Cruise [fare](/en/post/fare/)
+- [Baggage](/post/baggage/) [claim](/post/claim/)
+- [Airline](/post/airline/) [ticket](/post/ticket/)
+- Cruise [fare](/post/fare/)

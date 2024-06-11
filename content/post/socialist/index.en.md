@@ -7,34 +7,34 @@ description = '[ˈsəu∫əlist] a.社会主义的'
 keywords = ['ai words', 'socialist']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈsoʊɪst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) supports [or](/en/post/or/) advocates [for](/en/post/for/) [the](/en/post/the/) principles [of](/en/post/of/) [socialism](/en/post/socialism/), [which](/en/post/which/) is an [economic](/en/post/economic/) [and](/en/post/and/) [political](/en/post/political/) [theory](/en/post/theory/) advocating [for](/en/post/for/) [public](/en/post/public/) [ownership](/en/post/ownership/) [and](/en/post/and/) [control](/en/post/control/) [of](/en/post/of/) [major](/en/post/major/) industries, resources, [and](/en/post/and/) [means](/en/post/means/) [of](/en/post/of/) [production](/en/post/production/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [socialist](/en/post/socialist/) [government](/en/post/government/) nationalized [many](/en/post/many/) industries."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) adhering [to](/en/post/to/) [socialism](/en/post/socialism/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [socialist](/en/post/socialist/) ideology emphasizes [equality](/en/post/equality/) [and](/en/post/and/) [social](/en/post/social/) [welfare](/en/post/welfare/)."
-- **[Noun](/en/post/noun/)**: (informal) [A](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [socialist](/en/post/socialist/) [political](/en/post/political/) [party](/en/post/party/) [or](/en/post/or/) [movement](/en/post/movement/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) joined [the](/en/post/the/) [local](/en/post/local/) [socialist](/en/post/socialist/) [group](/en/post/group/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) supports [or](/post/or/) advocates [for](/post/for/) [the](/post/the/) principles [of](/post/of/) [socialism](/post/socialism/), [which](/post/which/) is an [economic](/post/economic/) [and](/post/and/) [political](/post/political/) [theory](/post/theory/) advocating [for](/post/for/) [public](/post/public/) [ownership](/post/ownership/) [and](/post/and/) [control](/post/control/) [of](/post/of/) [major](/post/major/) industries, resources, [and](/post/and/) [means](/post/means/) [of](/post/of/) [production](/post/production/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [socialist](/post/socialist/) [government](/post/government/) nationalized [many](/post/many/) industries."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) adhering [to](/post/to/) [socialism](/post/socialism/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [socialist](/post/socialist/) ideology emphasizes [equality](/post/equality/) [and](/post/and/) [social](/post/social/) [welfare](/post/welfare/)."
+- **[Noun](/post/noun/)**: (informal) [A](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [socialist](/post/socialist/) [political](/post/political/) [party](/post/party/) [or](/post/or/) [movement](/post/movement/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) joined [the](/post/the/) [local](/post/local/) [socialist](/post/socialist/) [group](/post/group/)."
 
 ## Phrases
-- "Advocate [for](/en/post/for/) [socialist](/en/post/socialist/) policies"
-- "[Promote](/en/post/promote/) [socialist](/en/post/socialist/) reforms"
-- "[Practice](/en/post/practice/) [a](/en/post/a/) [socialist](/en/post/socialist/) [economy](/en/post/economy/)"
+- "Advocate [for](/post/for/) [socialist](/post/socialist/) policies"
+- "[Promote](/post/promote/) [socialist](/post/socialist/) reforms"
+- "[Practice](/post/practice/) [a](/post/a/) [socialist](/post/socialist/) [economy](/post/economy/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "She's [a](/en/post/a/) committed [socialist](/en/post/socialist/), fighting [for](/en/post/for/) [better](/en/post/better/) healthcare [for](/en/post/for/) [all](/en/post/all/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [socialist](/en/post/socialist/) candidate's [platform](/en/post/platform/) focused [on](/en/post/on/) [wealth](/en/post/wealth/) redistribution."
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) was invited [to](/en/post/to/) [speak](/en/post/speak/) [at](/en/post/at/) [the](/en/post/the/) [annual](/en/post/annual/) [socialist](/en/post/socialist/) [convention](/en/post/convention/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "She's [a](/post/a/) committed [socialist](/post/socialist/), fighting [for](/post/for/) [better](/post/better/) healthcare [for](/post/for/) [all](/post/all/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [socialist](/post/socialist/) candidate's [platform](/post/platform/) focused [on](/post/on/) [wealth](/post/wealth/) redistribution."
+- **[Noun](/post/noun/)**: "[He](/post/he/) was invited [to](/post/to/) [speak](/post/speak/) [at](/post/at/) [the](/post/the/) [annual](/post/annual/) [socialist](/post/socialist/) [convention](/post/convention/)."
 
 ## Synonyms
-- [Communist](/en/post/communist/)
+- [Communist](/post/communist/)
 - Collectivist
 - Left-wing
-- [Social](/en/post/social/) democrat
+- [Social](/post/social/) democrat
 - Laborist
 
 ## Antonyms
 - Capitalist
-- [Liberal](/en/post/liberal/) ([in](/en/post/in/) [the](/en/post/the/) [economic](/en/post/economic/) [sense](/en/post/sense/))
+- [Liberal](/post/liberal/) ([in](/post/in/) [the](/post/the/) [economic](/post/economic/) [sense](/post/sense/))
 - Libertarian
 - Right-wing
-- [Conservative](/en/post/conservative/)
+- [Conservative](/post/conservative/)

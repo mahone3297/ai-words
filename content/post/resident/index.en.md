@@ -7,28 +7,28 @@ description = '[ˈrezidənt] a.居住的 n.居民'
 keywords = ['ai words', 'resident']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈzɪdənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) lives [or](/en/post/or/) works [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/), [especially](/en/post/especially/) [on](/en/post/on/) [a](/en/post/a/) [permanent](/en/post/permanent/) [basis](/en/post/basis/). ["[A](/en/post/a/) [resident](/en/post/resident/) [of](/en/post/of/) [New](/en/post/new/) York [City](/en/post/city/)."](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[resident](/en/post/resident/))
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [period](/en/post/period/); [native](/en/post/native/) [or](/en/post/or/) [inhabitant](/en/post/inhabitant/). ["[The](/en/post/the/) [resident](/en/post/resident/) [artist](/en/post/artist/) has [a](/en/post/a/) [unique](/en/post/unique/) [style](/en/post/style/)."](https://www.oxfordlearnersdictionaries.com/[definition](/en/post/definition/)/english/resident_1)
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) lives [or](/post/or/) works [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/), [especially](/post/especially/) [on](/post/on/) [a](/post/a/) [permanent](/post/permanent/) [basis](/post/basis/). ["[A](/post/a/) [resident](/post/resident/) [of](/post/of/) [New](/post/new/) York [City](/post/city/)."](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[resident](/post/resident/))
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [period](/post/period/); [native](/post/native/) [or](/post/or/) [inhabitant](/post/inhabitant/). ["[The](/post/the/) [resident](/post/resident/) [artist](/post/artist/) has [a](/post/a/) [unique](/post/unique/) [style](/post/style/)."](https://www.oxfordlearnersdictionaries.com/[definition](/post/definition/)/english/resident_1)
 
 ## Phrases
-- "[Resident](/en/post/resident/) [doctor](/en/post/doctor/)" refers [to](/en/post/to/) [a](/en/post/a/) [physician](/en/post/physician/) [who](/en/post/who/) is [living](/en/post/living/) [and](/en/post/and/) working [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [medical](/en/post/medical/) [facility](/en/post/facility/).
-- "Long-term [resident](/en/post/resident/)" is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has lived [in](/en/post/in/) [a](/en/post/a/) [place](/en/post/place/) [for](/en/post/for/) [a](/en/post/a/) [considerable](/en/post/considerable/) [amount](/en/post/amount/) [of](/en/post/of/) [time](/en/post/time/).
-- "[Tenant](/en/post/tenant/) [resident](/en/post/resident/)" is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) occupies [a](/en/post/a/) [dwelling](/en/post/dwelling/) [as](/en/post/as/) [a](/en/post/a/) [tenant](/en/post/tenant/).
+- "[Resident](/post/resident/) [doctor](/post/doctor/)" refers [to](/post/to/) [a](/post/a/) [physician](/post/physician/) [who](/post/who/) is [living](/post/living/) [and](/post/and/) working [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [medical](/post/medical/) [facility](/post/facility/).
+- "Long-term [resident](/post/resident/)" is [a](/post/a/) [person](/post/person/) [who](/post/who/) has lived [in](/post/in/) [a](/post/a/) [place](/post/place/) [for](/post/for/) [a](/post/a/) [considerable](/post/considerable/) [amount](/post/amount/) [of](/post/of/) [time](/post/time/).
+- "[Tenant](/post/tenant/) [resident](/post/resident/)" is [a](/post/a/) [person](/post/person/) [who](/post/who/) occupies [a](/post/a/) [dwelling](/post/dwelling/) [as](/post/as/) [a](/post/a/) [tenant](/post/tenant/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) residents [of](/en/post/of/) [the](/en/post/the/) neighborhood organized [a](/en/post/a/) [community](/en/post/community/) clean-up [event](/en/post/event/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [resident](/en/post/resident/) plants [in](/en/post/in/) [the](/en/post/the/) [garden](/en/post/garden/) [attract](/en/post/attract/) [various](/en/post/various/) birds."
-- "[The](/en/post/the/) [resident](/en/post/resident/) [expert](/en/post/expert/) gave [a](/en/post/a/) presentation [on](/en/post/on/) [local](/en/post/local/) [history](/en/post/history/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) residents [of](/post/of/) [the](/post/the/) neighborhood organized [a](/post/a/) [community](/post/community/) clean-up [event](/post/event/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [resident](/post/resident/) plants [in](/post/in/) [the](/post/the/) [garden](/post/garden/) [attract](/post/attract/) [various](/post/various/) birds."
+- "[The](/post/the/) [resident](/post/resident/) [expert](/post/expert/) gave [a](/post/a/) presentation [on](/post/on/) [local](/post/local/) [history](/post/history/)."
 
 ## Synonyms
-- [Inhabitant](/en/post/inhabitant/)
+- [Inhabitant](/post/inhabitant/)
 - Dweller
 -settler
-- [Local](/en/post/local/)
-- [Tenant](/en/post/tenant/)
+- [Local](/post/local/)
+- [Tenant](/post/tenant/)
 - Neighbor
-- [Resident](/en/post/resident/) alien ([for](/en/post/for/) [someone](/en/post/someone/) [not](/en/post/not/) [a](/en/post/a/) [citizen](/en/post/citizen/) [but](/en/post/but/) [living](/en/post/living/) [in](/en/post/in/) [a](/en/post/a/) [country](/en/post/country/))
+- [Resident](/post/resident/) alien ([for](/post/for/) [someone](/post/someone/) [not](/post/not/) [a](/post/a/) [citizen](/post/citizen/) [but](/post/but/) [living](/post/living/) [in](/post/in/) [a](/post/a/) [country](/post/country/))

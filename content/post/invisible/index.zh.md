@@ -11,16 +11,16 @@ keywords = ['ai words', 'invisible']
 /ɪnˈvɪzəbl/
 
 ## 释义
-- **形容词**: 无法看见的；无形的；不显眼的。例如: "[The](/post/the/) [invisible](/post/invisible/) [man](/post/man/) [in](/post/in/) [the](/post/the/) [novel](/post/novel/) [can](/post/can/) [pass](/post/pass/) [through](/post/through/) walls."
-- **名词**: 隐形的人或物。例如: "[In](/post/in/) [science](/post/science/) [fiction](/post/fiction/), an [invisible](/post/invisible/) [person](/post/person/) is [someone](/post/someone/) [who](/post/who/) has [become](/post/become/) [invisible](/post/invisible/)."
+- **形容词**: 无法看见的；无形的；不显眼的。例如: "[The](/zh/post/the/) [invisible](/zh/post/invisible/) [man](/zh/post/man/) [in](/zh/post/in/) [the](/zh/post/the/) [novel](/zh/post/novel/) [can](/zh/post/can/) [pass](/zh/post/pass/) [through](/zh/post/through/) walls."
+- **名词**: 隐形的人或物。例如: "[In](/zh/post/in/) [science](/zh/post/science/) [fiction](/zh/post/fiction/), an [invisible](/zh/post/invisible/) [person](/zh/post/person/) is [someone](/zh/post/someone/) [who](/zh/post/who/) has [become](/zh/post/become/) [invisible](/zh/post/invisible/)."
 
 ## 短语
-- "[become](/post/become/) [invisible](/post/invisible/)" 意味着变得看不见。
-- "[invisible](/post/invisible/) [to](/post/to/) [the](/post/the/) [naked](/post/naked/) [eye](/post/eye/)" 指肉眼无法察觉的。
+- "[become](/zh/post/become/) [invisible](/zh/post/invisible/)" 意味着变得看不见。
+- "[invisible](/zh/post/invisible/) [to](/zh/post/to/) [the](/zh/post/the/) [naked](/zh/post/naked/) [eye](/zh/post/eye/)" 指肉眼无法察觉的。
 
 ## 例句
-- 形容词: "[The](/post/the/) infrared [light](/post/light/) is [invisible](/post/invisible/) [to](/post/to/) humans."
-- 名词: "[In](/post/in/) [the](/post/the/) [story](/post/story/), [the](/post/the/) [scientist](/post/scientist/) discovers [a](/post/a/) potion [that](/post/that/) makes [him](/post/him/) an [invisible](/post/invisible/)."
+- 形容词: "[The](/zh/post/the/) infrared [light](/zh/post/light/) is [invisible](/zh/post/invisible/) [to](/zh/post/to/) humans."
+- 名词: "[In](/zh/post/in/) [the](/zh/post/the/) [story](/zh/post/story/), [the](/zh/post/the/) [scientist](/zh/post/scientist/) discovers [a](/zh/post/a/) potion [that](/zh/post/that/) makes [him](/zh/post/him/) an [invisible](/zh/post/invisible/)."
 
 ## 同义词
 - unseen

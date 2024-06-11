@@ -7,44 +7,44 @@ description = '[diˈsaid] vt.决定，决心；解决'
 keywords = ['ai words', 'decide']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈsaɪd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) [form](/en/post/form/) [of](/en/post/of/) [the](/en/post/the/) [verb](/en/post/verb/), referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) making [a](/en/post/a/) [choice](/en/post/choice/) [or](/en/post/or/) reaching [a](/en/post/a/) [conclusion](/en/post/conclusion/) [after](/en/post/after/) [careful](/en/post/careful/) [consideration](/en/post/consideration/).
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) [form](/post/form/) [of](/post/of/) [the](/post/the/) [verb](/post/verb/), referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) making [a](/post/a/) [choice](/post/choice/) [or](/post/or/) reaching [a](/post/a/) [conclusion](/post/conclusion/) [after](/post/after/) [careful](/post/careful/) [consideration](/post/consideration/).
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [decide](/en/post/decide/)** (v): [To](/en/post/to/) [come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) [conclusion](/en/post/conclusion/) [or](/en/post/or/) [make](/en/post/make/) [a](/en/post/a/) [choice](/en/post/choice/) [about](/en/post/about/) [something](/en/post/something/), [often](/en/post/often/) [after](/en/post/after/) weighing options [or](/en/post/or/) evaluating [information](/en/post/information/).
-   - "[The](/en/post/the/) [team](/en/post/team/) had [to](/en/post/to/) [decide](/en/post/decide/) [on](/en/post/on/) [a](/en/post/a/) [new](/en/post/new/) [strategy](/en/post/strategy/) [for](/en/post/for/) [the](/en/post/the/) upcoming [game](/en/post/game/)."
-2. **[Decision](/en/post/decision/)** (n): [The](/en/post/the/) [outcome](/en/post/outcome/) [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/) [of](/en/post/of/) deciding, typically involving [several](/en/post/several/) choices [or](/en/post/or/) alternatives.
-   - "[His](/en/post/his/) [decision](/en/post/decision/) [to](/en/post/to/) [quit](/en/post/quit/) [his](/en/post/his/) [job](/en/post/job/) was [unexpected](/en/post/unexpected/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [decide](/post/decide/)** (v): [To](/post/to/) [come](/post/come/) [to](/post/to/) [a](/post/a/) [conclusion](/post/conclusion/) [or](/post/or/) [make](/post/make/) [a](/post/a/) [choice](/post/choice/) [about](/post/about/) [something](/post/something/), [often](/post/often/) [after](/post/after/) weighing options [or](/post/or/) evaluating [information](/post/information/).
+   - "[The](/post/the/) [team](/post/team/) had [to](/post/to/) [decide](/post/decide/) [on](/post/on/) [a](/post/a/) [new](/post/new/) [strategy](/post/strategy/) [for](/post/for/) [the](/post/the/) upcoming [game](/post/game/)."
+2. **[Decision](/post/decision/)** (n): [The](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [a](/post/a/) [process](/post/process/) [of](/post/of/) deciding, typically involving [several](/post/several/) choices [or](/post/or/) alternatives.
+   - "[His](/post/his/) [decision](/post/decision/) [to](/post/to/) [quit](/post/quit/) [his](/post/his/) [job](/post/job/) was [unexpected](/post/unexpected/)."
 
-### [Adjective](/en/post/adjective/)
-[Sometimes](/en/post/sometimes/) [used](/en/post/used/) informally [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) is decisive [or](/en/post/or/) clear-cut.
+### [Adjective](/post/adjective/)
+[Sometimes](/post/sometimes/) [used](/post/used/) informally [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) is decisive [or](/post/or/) clear-cut.
 
-### [Adverb](/en/post/adverb/)
-[In](/en/post/in/) [some](/en/post/some/) cases, "decisively" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) determined [or](/en/post/or/) [confident](/en/post/confident/) [manner](/en/post/manner/) [of](/en/post/of/) making [a](/en/post/a/) [decision](/en/post/decision/).
+### [Adverb](/post/adverb/)
+[In](/post/in/) [some](/post/some/) cases, "decisively" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) determined [or](/post/or/) [confident](/post/confident/) [manner](/post/manner/) [of](/post/of/) making [a](/post/a/) [decision](/post/decision/).
 
 ## Phrases
-- "Made [a](/en/post/a/) [decision](/en/post/decision/)" [or](/en/post/or/) "took [a](/en/post/a/) [decision](/en/post/decision/)"
-- "[To](/en/post/to/) [decide](/en/post/decide/) [on](/en/post/on/)" [or](/en/post/or/) "[to](/en/post/to/) [settle](/en/post/settle/) [on](/en/post/on/)"
-- "[Hard](/en/post/hard/) [decision](/en/post/decision/)" [or](/en/post/or/) "[difficult](/en/post/difficult/) [decision](/en/post/decision/)"
-- "[Final](/en/post/final/) [decision](/en/post/decision/)" [or](/en/post/or/) "irrevocable [decision](/en/post/decision/)"
+- "Made [a](/post/a/) [decision](/post/decision/)" [or](/post/or/) "took [a](/post/a/) [decision](/post/decision/)"
+- "[To](/post/to/) [decide](/post/decide/) [on](/post/on/)" [or](/post/or/) "[to](/post/to/) [settle](/post/settle/) [on](/post/on/)"
+- "[Hard](/post/hard/) [decision](/post/decision/)" [or](/post/or/) "[difficult](/post/difficult/) [decision](/post/decision/)"
+- "[Final](/post/final/) [decision](/post/decision/)" [or](/post/or/) "irrevocable [decision](/post/decision/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [decision](/en/post/decision/) [to](/en/post/to/) [move](/en/post/move/) [abroad](/en/post/abroad/) was based [on](/en/post/on/) [her](/en/post/her/) [desire](/en/post/desire/) [for](/en/post/for/) [adventure](/en/post/adventure/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [much](/en/post/much/) deliberation, [they](/en/post/they/) decided [to](/en/post/to/) [buy](/en/post/buy/) [the](/en/post/the/) [house](/en/post/house/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) coach's decisiveness [in](/en/post/in/) [the](/en/post/the/) [game](/en/post/game/) led [to](/en/post/to/) [a](/en/post/a/) [victory](/en/post/victory/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) made [a](/en/post/a/) decisively [quick](/en/post/quick/) [choice](/en/post/choice/) [to](/en/post/to/) [leave](/en/post/leave/) [the](/en/post/the/) [company](/en/post/company/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [decision](/post/decision/) [to](/post/to/) [move](/post/move/) [abroad](/post/abroad/) was based [on](/post/on/) [her](/post/her/) [desire](/post/desire/) [for](/post/for/) [adventure](/post/adventure/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [much](/post/much/) deliberation, [they](/post/they/) decided [to](/post/to/) [buy](/post/buy/) [the](/post/the/) [house](/post/house/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) coach's decisiveness [in](/post/in/) [the](/post/the/) [game](/post/game/) led [to](/post/to/) [a](/post/a/) [victory](/post/victory/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) made [a](/post/a/) decisively [quick](/post/quick/) [choice](/post/choice/) [to](/post/to/) [leave](/post/leave/) [the](/post/the/) [company](/post/company/)."
 
 ## Synonyms
-- [Choose](/en/post/choose/)
-- [Determine](/en/post/determine/)
-- [Resolve](/en/post/resolve/)
-- [Decide](/en/post/decide/) [upon](/en/post/upon/)
-- [Establish](/en/post/establish/)
-- [Select](/en/post/select/)
+- [Choose](/post/choose/)
+- [Determine](/post/determine/)
+- [Resolve](/post/resolve/)
+- [Decide](/post/decide/) [upon](/post/upon/)
+- [Establish](/post/establish/)
+- [Select](/post/select/)
 -判定
 - 断定
 
@@ -52,5 +52,5 @@ keywords = ['ai words', 'decide']
 - Indecisive
 - Hesitant
 - Unsettled
-- [Uncertain](/en/post/uncertain/)
+- [Uncertain](/post/uncertain/)
 - Ambiguous

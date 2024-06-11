@@ -7,23 +7,23 @@ description = '[kənˈdʒʌŋk∫ən] n.接合,连接(词)'
 keywords = ['ai words', 'conjunction']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈnʌŋkʃ(ə)n/
 
 ## Definitions
-- **[Conjunction](/en/post/conjunction/)**: [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [speech](/en/post/speech/) [that](/en/post/that/) connects words, phrases, [or](/en/post/or/) clauses, showing [the](/en/post/the/) [relationship](/en/post/relationship/) [between](/en/post/between/) [them](/en/post/them/). [For](/en/post/for/) [example](/en/post/example/): "I [want](/en/post/want/) [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [store](/en/post/store/), [but](/en/post/but/) I don't [have](/en/post/have/) [any](/en/post/any/) [money](/en/post/money/)."
+- **[Conjunction](/post/conjunction/)**: [A](/post/a/) [part](/post/part/) [of](/post/of/) [speech](/post/speech/) [that](/post/that/) connects words, phrases, [or](/post/or/) clauses, showing [the](/post/the/) [relationship](/post/relationship/) [between](/post/between/) [them](/post/them/). [For](/post/for/) [example](/post/example/): "I [want](/post/want/) [to](/post/to/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [store](/post/store/), [but](/post/but/) I don't [have](/post/have/) [any](/post/any/) [money](/post/money/)."
 
 ## Phrases
-- "Coordinating conjunctions" ([for](/en/post/for/), [and](/en/post/and/), [nor](/en/post/nor/), [but](/en/post/but/), [or](/en/post/or/), [yet](/en/post/yet/), [so](/en/post/so/)) [connect](/en/post/connect/) elements [of](/en/post/of/) [equal](/en/post/equal/) [grammatical](/en/post/grammatical/) [rank](/en/post/rank/).
-- "Subordinating conjunctions" ([although](/en/post/although/), [because](/en/post/because/), [if](/en/post/if/), [since](/en/post/since/), [unless](/en/post/unless/)) [introduce](/en/post/introduce/) [a](/en/post/a/) [dependent](/en/post/dependent/) clause [in](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/).
+- "Coordinating conjunctions" ([for](/post/for/), [and](/post/and/), [nor](/post/nor/), [but](/post/but/), [or](/post/or/), [yet](/post/yet/), [so](/post/so/)) [connect](/post/connect/) elements [of](/post/of/) [equal](/post/equal/) [grammatical](/post/grammatical/) [rank](/post/rank/).
+- "Subordinating conjunctions" ([although](/post/although/), [because](/post/because/), [if](/post/if/), [since](/post/since/), [unless](/post/unless/)) [introduce](/post/introduce/) [a](/post/a/) [dependent](/post/dependent/) clause [in](/post/in/) [a](/post/a/) [sentence](/post/sentence/).
 
-## [Example](/en/post/example/) Sentences
-- "[She](/en/post/she/) loves [to](/en/post/to/) [read](/en/post/read/) books, [but](/en/post/but/) [her](/en/post/her/) favorite [hobby](/en/post/hobby/) is [painting](/en/post/painting/)."
-- "I [will](/en/post/will/) [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/) [if](/en/post/if/) I [finish](/en/post/finish/) [my](/en/post/my/) homework."
-- "[Although](/en/post/although/) [it](/en/post/it/) was raining, [we](/en/post/we/) decided [to](/en/post/to/) [go](/en/post/go/) [for](/en/post/for/) [a](/en/post/a/) [walk](/en/post/walk/)."
+## [Example](/post/example/) Sentences
+- "[She](/post/she/) loves [to](/post/to/) [read](/post/read/) books, [but](/post/but/) [her](/post/her/) favorite [hobby](/post/hobby/) is [painting](/post/painting/)."
+- "I [will](/post/will/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [party](/post/party/) [if](/post/if/) I [finish](/post/finish/) [my](/post/my/) homework."
+- "[Although](/post/although/) [it](/post/it/) was raining, [we](/post/we/) decided [to](/post/to/) [go](/post/go/) [for](/post/for/) [a](/post/a/) [walk](/post/walk/)."
 
 ## Synonyms
-- Linking [word](/en/post/word/)
+- Linking [word](/post/word/)
 - Connective
 - Coordinator
 - Subordinator

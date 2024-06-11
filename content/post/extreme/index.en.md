@@ -7,31 +7,31 @@ description = '[ikˈstriːm] a.极度的；尽头的'
 keywords = ['ai words', 'extreme']
 +++
 
-## [Word](/en/post/word/): [Extreme](/en/post/extreme/)
+## [Word](/post/word/): [Extreme](/post/extreme/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈstriːm/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/) (adj)**: [Of](/en/post/of/) [a](/en/post/a/) [character](/en/post/character/) [or](/en/post/or/) [kind](/en/post/kind/) farthest removed [from](/en/post/from/) [the](/en/post/the/) [ordinary](/en/post/ordinary/) [or](/en/post/or/) [average](/en/post/average/); [utmost](/en/post/utmost/) [or](/en/post/or/) [very](/en/post/very/) [great](/en/post/great/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [extreme](/en/post/extreme/) [heat](/en/post/heat/) made [it](/en/post/it/) [difficult](/en/post/difficult/) [to](/en/post/to/) [work](/en/post/work/) [outdoors](/en/post/outdoors/)."
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) furthest [point](/en/post/point/) [or](/en/post/or/) [limit](/en/post/limit/) [of](/en/post/of/) [something](/en/post/something/); [the](/en/post/the/) [utmost](/en/post/utmost/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) were [willing](/en/post/willing/) [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [extreme](/en/post/extreme/) lengths [to](/en/post/to/) [achieve](/en/post/achieve/) [their](/en/post/their/) [goal](/en/post/goal/)."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) holds an [extreme](/en/post/extreme/) [or](/en/post/or/) fanatical [view](/en/post/view/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was known [as](/en/post/as/) an [extreme](/en/post/extreme/) environmentalist."
+- **[Adjective](/post/adjective/) (adj)**: [Of](/post/of/) [a](/post/a/) [character](/post/character/) [or](/post/or/) [kind](/post/kind/) farthest removed [from](/post/from/) [the](/post/the/) [ordinary](/post/ordinary/) [or](/post/or/) [average](/post/average/); [utmost](/post/utmost/) [or](/post/or/) [very](/post/very/) [great](/post/great/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [extreme](/post/extreme/) [heat](/post/heat/) made [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [work](/post/work/) [outdoors](/post/outdoors/)."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) furthest [point](/post/point/) [or](/post/or/) [limit](/post/limit/) [of](/post/of/) [something](/post/something/); [the](/post/the/) [utmost](/post/utmost/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) were [willing](/post/willing/) [to](/post/to/) [go](/post/go/) [to](/post/to/) [extreme](/post/extreme/) lengths [to](/post/to/) [achieve](/post/achieve/) [their](/post/their/) [goal](/post/goal/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) holds an [extreme](/post/extreme/) [or](/post/or/) fanatical [view](/post/view/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) was known [as](/post/as/) an [extreme](/post/extreme/) environmentalist."
   
 ## Phrases
-- **[To](/en/post/to/) [the](/en/post/the/) [extreme](/en/post/extreme/)**: [To](/en/post/to/) an [extremely](/en/post/extremely/) [high](/en/post/high/) [degree](/en/post/degree/) [or](/en/post/or/) [extent](/en/post/extent/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) dedication [to](/en/post/to/) fitness was taken [to](/en/post/to/) [the](/en/post/the/) [extreme](/en/post/extreme/)."
-- **[Extreme](/en/post/extreme/) measures**: Drastic actions taken [in](/en/post/in/) an [emergency](/en/post/emergency/) [or](/en/post/or/) [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) desired [outcome](/en/post/outcome/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [save](/en/post/save/) [the](/en/post/the/) [company](/en/post/company/), [they](/en/post/they/) had [to](/en/post/to/) [resort](/en/post/resort/) [to](/en/post/to/) [extreme](/en/post/extreme/) measures."
-- **[Extreme](/en/post/extreme/) sports**: Sports involving [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) [risk](/en/post/risk/) [or](/en/post/or/) [danger](/en/post/danger/), [such](/en/post/such/) [as](/en/post/as/) skydiving [or](/en/post/or/) [rock](/en/post/rock/) climbing.
+- **[To](/post/to/) [the](/post/the/) [extreme](/post/extreme/)**: [To](/post/to/) an [extremely](/post/extremely/) [high](/post/high/) [degree](/post/degree/) [or](/post/or/) [extent](/post/extent/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) dedication [to](/post/to/) fitness was taken [to](/post/to/) [the](/post/the/) [extreme](/post/extreme/)."
+- **[Extreme](/post/extreme/) measures**: Drastic actions taken [in](/post/in/) an [emergency](/post/emergency/) [or](/post/or/) [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) desired [outcome](/post/outcome/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) [order](/post/order/) [to](/post/to/) [save](/post/save/) [the](/post/the/) [company](/post/company/), [they](/post/they/) had [to](/post/to/) [resort](/post/resort/) [to](/post/to/) [extreme](/post/extreme/) measures."
+- **[Extreme](/post/extreme/) sports**: Sports involving [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) [risk](/post/risk/) [or](/post/or/) [danger](/post/danger/), [such](/post/such/) [as](/post/as/) skydiving [or](/post/or/) [rock](/post/rock/) climbing.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) exhibited [extreme](/en/post/extreme/) caution [while](/en/post/while/) driving [on](/en/post/on/) [the](/en/post/the/) icy roads."
-- **[Noun](/en/post/noun/)**: "[Living](/en/post/living/) [in](/en/post/in/) [poverty](/en/post/poverty/), [they](/en/post/they/) faced [many](/en/post/many/) hardships [and](/en/post/and/) extremes [of](/en/post/of/) [weather](/en/post/weather/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [political](/en/post/political/) extremist [group](/en/post/group/) gained [significant](/en/post/significant/) media [attention](/en/post/attention/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) exhibited [extreme](/post/extreme/) caution [while](/post/while/) driving [on](/post/on/) [the](/post/the/) icy roads."
+- **[Noun](/post/noun/)**: "[Living](/post/living/) [in](/post/in/) [poverty](/post/poverty/), [they](/post/they/) faced [many](/post/many/) hardships [and](/post/and/) extremes [of](/post/of/) [weather](/post/weather/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [political](/post/political/) extremist [group](/post/group/) gained [significant](/post/significant/) media [attention](/post/attention/)."
 
 ## Synonyms
-- [Utmost](/en/post/utmost/)
-- [Maximum](/en/post/maximum/)
-- [Acute](/en/post/acute/)
-- [Intense](/en/post/intense/)
+- [Utmost](/post/utmost/)
+- [Maximum](/post/maximum/)
+- [Acute](/post/acute/)
+- [Intense](/post/intense/)
 - Unrestrained
-- [Excessive](/en/post/excessive/)
-- Radical ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) holding [extreme](/en/post/extreme/) views)
+- [Excessive](/post/excessive/)
+- Radical ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [person](/post/person/) holding [extreme](/post/extreme/) views)

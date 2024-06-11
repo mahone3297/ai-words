@@ -11,20 +11,20 @@ keywords = ['ai words', 'unload']
 /unˈlōd/
 
 ## 释义
-- **动词**: 将货物、物品或信息从运输工具、容器或存储位置移出或卸下。例如: "[They](/post/they/) started unloading [the](/post/the/) [cargo](/post/cargo/) [from](/post/from/) [the](/post/the/) [ship](/post/ship/)."
-- **名词**: 卸货；解除负担或压力。例如: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) felt [the](/post/the/) [need](/post/need/) [to](/post/to/) [unload](/post/unload/) [his](/post/his/) worries."
+- **动词**: 将货物、物品或信息从运输工具、容器或存储位置移出或卸下。例如: "[They](/zh/post/they/) started unloading [the](/zh/post/the/) [cargo](/zh/post/cargo/) [from](/zh/post/from/) [the](/zh/post/the/) [ship](/zh/post/ship/)."
+- **名词**: 卸货；解除负担或压力。例如: "[After](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [day](/zh/post/day/), [he](/zh/post/he/) felt [the](/zh/post/the/) [need](/zh/post/need/) [to](/zh/post/to/) [unload](/zh/post/unload/) [his](/zh/post/his/) worries."
 
 ## 短语
-- "[Unload](/post/unload/) [a](/post/a/) [truck](/post/truck/)" 意味着从卡车上卸下货物。
-- "[Unload](/post/unload/) [your](/post/your/) [mind](/post/mind/)" 指的是释放或分享心中的思绪和压力。
+- "[Unload](/zh/post/unload/) [a](/zh/post/a/) [truck](/zh/post/truck/)" 意味着从卡车上卸下货物。
+- "[Unload](/zh/post/unload/) [your](/zh/post/your/) [mind](/zh/post/mind/)" 指的是释放或分享心中的思绪和压力。
 
 ## 例句
-- 动词: "[The](/post/the/) dockworkers were [busy](/post/busy/) unloading boxes [from](/post/from/) [the](/post/the/) [container](/post/container/)."
-- 名词: "[She](/post/she/) needed [to](/post/to/) [unload](/post/unload/) [her](/post/her/) problems [onto](/post/onto/) [a](/post/a/) [friend](/post/friend/)."
+- 动词: "[The](/zh/post/the/) dockworkers were [busy](/zh/post/busy/) unloading boxes [from](/zh/post/from/) [the](/zh/post/the/) [container](/zh/post/container/)."
+- 名词: "[She](/zh/post/she/) needed [to](/zh/post/to/) [unload](/zh/post/unload/) [her](/zh/post/her/) problems [onto](/zh/post/onto/) [a](/zh/post/a/) [friend](/zh/post/friend/)."
 
 ## 同义词
 - Offload
-- [Discharge](/post/discharge/)
-- [Empty](/post/empty/)
-- [Remove](/post/remove/)
-- Dismantle ([in](/post/in/) [the](/post/the/) context [of](/post/of/) unloading [equipment](/post/equipment/) [or](/post/or/) structures)
+- [Discharge](/zh/post/discharge/)
+- [Empty](/zh/post/empty/)
+- [Remove](/zh/post/remove/)
+- Dismantle ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) unloading [equipment](/zh/post/equipment/) [or](/zh/post/or/) structures)

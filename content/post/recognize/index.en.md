@@ -7,42 +7,42 @@ description = '[ˈrekəgnaiz] vt.认识，认出；承认'
 keywords = ['ai words', 'recognize']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈkəɡnaɪz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [Recognition](/en/post/recognition/): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) acknowledging [or](/en/post/or/) identifying [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) team's [success](/en/post/success/) received [widespread](/en/post/widespread/) [recognition](/en/post/recognition/)."
-- [Award](/en/post/award/): [A](/en/post/a/) [formal](/en/post/formal/) acknowledgment [of](/en/post/of/) [achievement](/en/post/achievement/) [or](/en/post/or/) excellence. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was honored [with](/en/post/with/) [a](/en/post/a/) [lifetime](/en/post/lifetime/) [achievement](/en/post/achievement/) [award](/en/post/award/)."
+### [Noun](/post/noun/)
+- [Recognition](/post/recognition/): [The](/post/the/) [act](/post/act/) [of](/post/of/) acknowledging [or](/post/or/) identifying [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) team's [success](/post/success/) received [widespread](/post/widespread/) [recognition](/post/recognition/)."
+- [Award](/post/award/): [A](/post/a/) [formal](/post/formal/) acknowledgment [of](/post/of/) [achievement](/post/achievement/) [or](/post/or/) excellence. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was honored [with](/post/with/) [a](/post/a/) [lifetime](/post/lifetime/) [achievement](/post/achievement/) [award](/post/award/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) acknowledge [or](/en/post/or/) [identify](/en/post/identify/): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) perceiving [and](/en/post/and/) [understanding](/en/post/understanding/) [the](/en/post/the/) identity [or](/en/post/or/) qualities [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "I recognized [her](/en/post/her/) [voice](/en/post/voice/) [on](/en/post/on/) [the](/en/post/the/) [phone](/en/post/phone/)."
-- [To](/en/post/to/) acknowledge: [To](/en/post/to/) [give](/en/post/give/) [credit](/en/post/credit/) [or](/en/post/or/) [accept](/en/post/accept/) [the](/en/post/the/) [existence](/en/post/existence/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) recognized [the](/en/post/the/) [error](/en/post/error/) [in](/en/post/in/) [his](/en/post/his/) calculations."
+### [Verb](/post/verb/)
+- [To](/post/to/) acknowledge [or](/post/or/) [identify](/post/identify/): [The](/post/the/) [act](/post/act/) [of](/post/of/) perceiving [and](/post/and/) [understanding](/post/understanding/) [the](/post/the/) identity [or](/post/or/) qualities [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "I recognized [her](/post/her/) [voice](/post/voice/) [on](/post/on/) [the](/post/the/) [phone](/post/phone/)."
+- [To](/post/to/) acknowledge: [To](/post/to/) [give](/post/give/) [credit](/post/credit/) [or](/post/or/) [accept](/post/accept/) [the](/post/the/) [existence](/post/existence/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) recognized [the](/post/the/) [error](/post/error/) [in](/post/in/) [his](/post/his/) calculations."
 
-### [Adjective](/en/post/adjective/)
-- Perceptive: Having [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [notice](/en/post/notice/) [and](/en/post/and/) [understand](/en/post/understand/) things [well](/en/post/well/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) perceptive [eye](/en/post/eye/) [for](/en/post/for/) [detail](/en/post/detail/)."
-- [Familiar](/en/post/familiar/): Known [or](/en/post/or/) recognized [well](/en/post/well/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [music](/en/post/music/) sounded [familiar](/en/post/familiar/) [to](/en/post/to/) [him](/en/post/him/)."
+### [Adjective](/post/adjective/)
+- Perceptive: Having [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [notice](/post/notice/) [and](/post/and/) [understand](/post/understand/) things [well](/post/well/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) perceptive [eye](/post/eye/) [for](/post/for/) [detail](/post/detail/)."
+- [Familiar](/post/familiar/): Known [or](/post/or/) recognized [well](/post/well/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [music](/post/music/) sounded [familiar](/post/familiar/) [to](/post/to/) [him](/post/him/)."
 
-### [Adverb](/en/post/adverb/)
-- [Clearly](/en/post/clearly/): [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) allows [easy](/en/post/easy/) [understanding](/en/post/understanding/) [or](/en/post/or/) identification. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) recognized [him](/en/post/him/) [clearly](/en/post/clearly/) [despite](/en/post/despite/) [the](/en/post/the/) [distance](/en/post/distance/)."
+### [Adverb](/post/adverb/)
+- [Clearly](/post/clearly/): [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) allows [easy](/post/easy/) [understanding](/post/understanding/) [or](/post/or/) identification. [For](/post/for/) [example](/post/example/): "[She](/post/she/) recognized [him](/post/him/) [clearly](/post/clearly/) [despite](/post/despite/) [the](/post/the/) [distance](/post/distance/)."
 
 ## Phrases
-- "[Recognize](/en/post/recognize/) [a](/en/post/a/) [pattern](/en/post/pattern/)" refers [to](/en/post/to/) perceiving [a](/en/post/a/) repeated [structure](/en/post/structure/) [or](/en/post/or/) [sequence](/en/post/sequence/).
-- "[Lack](/en/post/lack/) [of](/en/post/of/) [recognition](/en/post/recognition/)" [can](/en/post/can/) [mean](/en/post/mean/) [not](/en/post/not/) [being](/en/post/being/) acknowledged [or](/en/post/or/) appreciated.
-- "[Visual](/en/post/visual/) [recognition](/en/post/recognition/)" is [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [identify](/en/post/identify/) [something](/en/post/something/) [by](/en/post/by/) [sight](/en/post/sight/).
+- "[Recognize](/post/recognize/) [a](/post/a/) [pattern](/post/pattern/)" refers [to](/post/to/) perceiving [a](/post/a/) repeated [structure](/post/structure/) [or](/post/or/) [sequence](/post/sequence/).
+- "[Lack](/post/lack/) [of](/post/of/) [recognition](/post/recognition/)" [can](/post/can/) [mean](/post/mean/) [not](/post/not/) [being](/post/being/) acknowledged [or](/post/or/) appreciated.
+- "[Visual](/post/visual/) [recognition](/post/recognition/)" is [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [identify](/post/identify/) [something](/post/something/) [by](/post/by/) [sight](/post/sight/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) dedication [to](/en/post/to/) [the](/en/post/the/) [project](/en/post/project/) earned [him](/en/post/him/) [recognition](/en/post/recognition/) [from](/en/post/from/) [his](/en/post/his/) colleagues."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) recognized [her](/en/post/her/) [old](/en/post/old/) [friend](/en/post/friend/) walking [down](/en/post/down/) [the](/en/post/the/) [street](/en/post/street/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) exceptional [musical](/en/post/musical/) [talent](/en/post/talent/) allows [for](/en/post/for/) [instant](/en/post/instant/) [recognition](/en/post/recognition/) [of](/en/post/of/) [his](/en/post/his/) performances."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) detective recognized [the](/en/post/the/) suspect's [handwriting](/en/post/handwriting/) [clearly](/en/post/clearly/) [on](/en/post/on/) [the](/en/post/the/) [note](/en/post/note/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) dedication [to](/post/to/) [the](/post/the/) [project](/post/project/) earned [him](/post/him/) [recognition](/post/recognition/) [from](/post/from/) [his](/post/his/) colleagues."
+- **[Verb](/post/verb/)**: "[She](/post/she/) recognized [her](/post/her/) [old](/post/old/) [friend](/post/friend/) walking [down](/post/down/) [the](/post/the/) [street](/post/street/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) exceptional [musical](/post/musical/) [talent](/post/talent/) allows [for](/post/for/) [instant](/post/instant/) [recognition](/post/recognition/) [of](/post/of/) [his](/post/his/) performances."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) detective recognized [the](/post/the/) suspect's [handwriting](/post/handwriting/) [clearly](/post/clearly/) [on](/post/on/) [the](/post/the/) [note](/post/note/)."
 
 ## Synonyms
 - Acknowledge
-- [Identify](/en/post/identify/)
-- [Spot](/en/post/spot/)
-- [Detect](/en/post/detect/)
-- Recognise (British [spelling](/en/post/spelling/))
-- [Perceive](/en/post/perceive/)
-- [Appreciate](/en/post/appreciate/)
+- [Identify](/post/identify/)
+- [Spot](/post/spot/)
+- [Detect](/post/detect/)
+- Recognise (British [spelling](/post/spelling/))
+- [Perceive](/post/perceive/)
+- [Appreciate](/post/appreciate/)
 - Recognizable

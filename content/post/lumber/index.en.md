@@ -7,32 +7,32 @@ description = '[ˈlʌmbə] n.木材；木料；制材'
 keywords = ['ai words', 'lumber']
 +++
 
-## [Word](/en/post/word/): [Lumber](/en/post/lumber/)
+## [Word](/post/word/): [Lumber](/post/lumber/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlʌmbər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [Wood](/en/post/wood/) [that](/en/post/that/) has been [cut](/en/post/cut/) [and](/en/post/and/) prepared [for](/en/post/for/) [use](/en/post/use/) [in](/en/post/in/) [construction](/en/post/construction/) [or](/en/post/or/) manufacturing, [often](/en/post/often/) [in](/en/post/in/) [large](/en/post/large/), [thick](/en/post/thick/) pieces. _Example:_ "[They](/en/post/they/) bought [enough](/en/post/enough/) [lumber](/en/post/lumber/) [to](/en/post/to/) [build](/en/post/build/) [the](/en/post/the/) [new](/en/post/new/) [deck](/en/post/deck/)."
-   2. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) moving awkwardly [or](/en/post/or/) [heavily](/en/post/heavily/); [a](/en/post/a/) [slow](/en/post/slow/), [heavy](/en/post/heavy/) [walk](/en/post/walk/). _Example:_ "[The](/en/post/the/) [bear](/en/post/bear/) lumbered [through](/en/post/through/) [the](/en/post/the/) [forest](/en/post/forest/)."
-   3. (Informal) [Furniture](/en/post/furniture/) [or](/en/post/or/) [household](/en/post/household/) [goods](/en/post/goods/) made [of](/en/post/of/) [wood](/en/post/wood/). _Example:_ "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [sell](/en/post/sell/) [off](/en/post/off/) [some](/en/post/some/) [old](/en/post/old/) [lumber](/en/post/lumber/) [to](/en/post/to/) [make](/en/post/make/) [space](/en/post/space/) [in](/en/post/in/) [the](/en/post/the/) attic."
+- **[Noun](/post/noun/)**: 1. [Wood](/post/wood/) [that](/post/that/) has been [cut](/post/cut/) [and](/post/and/) prepared [for](/post/for/) [use](/post/use/) [in](/post/in/) [construction](/post/construction/) [or](/post/or/) manufacturing, [often](/post/often/) [in](/post/in/) [large](/post/large/), [thick](/post/thick/) pieces. _Example:_ "[They](/post/they/) bought [enough](/post/enough/) [lumber](/post/lumber/) [to](/post/to/) [build](/post/build/) [the](/post/the/) [new](/post/new/) [deck](/post/deck/)."
+   2. [The](/post/the/) [act](/post/act/) [of](/post/of/) moving awkwardly [or](/post/or/) [heavily](/post/heavily/); [a](/post/a/) [slow](/post/slow/), [heavy](/post/heavy/) [walk](/post/walk/). _Example:_ "[The](/post/the/) [bear](/post/bear/) lumbered [through](/post/through/) [the](/post/the/) [forest](/post/forest/)."
+   3. (Informal) [Furniture](/post/furniture/) [or](/post/or/) [household](/post/household/) [goods](/post/goods/) made [of](/post/of/) [wood](/post/wood/). _Example:_ "[We](/post/we/) [need](/post/need/) [to](/post/to/) [sell](/post/sell/) [off](/post/off/) [some](/post/some/) [old](/post/old/) [lumber](/post/lumber/) [to](/post/to/) [make](/post/make/) [space](/post/space/) [in](/post/in/) [the](/post/the/) attic."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [in](/en/post/in/) [a](/en/post/a/) [slow](/en/post/slow/), [clumsy](/en/post/clumsy/), [or](/en/post/or/) [heavy](/en/post/heavy/) [manner](/en/post/manner/). _Example:_ "[The](/en/post/the/) [old](/en/post/old/) [man](/en/post/man/) lumbered [up](/en/post/up/) [the](/en/post/the/) stairs."
+- **[Verb](/post/verb/)**: [To](/post/to/) [move](/post/move/) [in](/post/in/) [a](/post/a/) [slow](/post/slow/), [clumsy](/post/clumsy/), [or](/post/or/) [heavy](/post/heavy/) [manner](/post/manner/). _Example:_ "[The](/post/the/) [old](/post/old/) [man](/post/man/) lumbered [up](/post/up/) [the](/post/the/) stairs."
 
 ## Phrases
-- "Lumberjack": [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) cuts [down](/en/post/down/) trees [and](/en/post/and/) prepares [the](/en/post/the/) [timber](/en/post/timber/) [for](/en/post/for/) [transportation](/en/post/transportation/) [or](/en/post/or/) processing.
-- "[Lumber](/en/post/lumber/) [room](/en/post/room/)": [A](/en/post/a/) [storage](/en/post/storage/) [room](/en/post/room/) [for](/en/post/for/) unused [furniture](/en/post/furniture/) [or](/en/post/or/) [other](/en/post/other/) items, [often](/en/post/often/) made [of](/en/post/of/) [wood](/en/post/wood/).
-- "[To](/en/post/to/) [cut](/en/post/cut/) [lumber](/en/post/lumber/)": [To](/en/post/to/) fell trees [and](/en/post/and/) [process](/en/post/process/) [them](/en/post/them/) [into](/en/post/into/) usable planks [or](/en/post/or/) boards.
+- "Lumberjack": [A](/post/a/) [person](/post/person/) [who](/post/who/) cuts [down](/post/down/) trees [and](/post/and/) prepares [the](/post/the/) [timber](/post/timber/) [for](/post/for/) [transportation](/post/transportation/) [or](/post/or/) processing.
+- "[Lumber](/post/lumber/) [room](/post/room/)": [A](/post/a/) [storage](/post/storage/) [room](/post/room/) [for](/post/for/) unused [furniture](/post/furniture/) [or](/post/or/) [other](/post/other/) items, [often](/post/often/) made [of](/post/of/) [wood](/post/wood/).
+- "[To](/post/to/) [cut](/post/cut/) [lumber](/post/lumber/)": [To](/post/to/) fell trees [and](/post/and/) [process](/post/process/) [them](/post/them/) [into](/post/into/) usable planks [or](/post/or/) boards.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [carpenter](/en/post/carpenter/) stocked [up](/en/post/up/) [on](/en/post/on/) [various](/en/post/various/) types [of](/en/post/of/) [lumber](/en/post/lumber/) [for](/en/post/for/) [his](/en/post/his/) woodworking projects."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [run](/en/post/run/), [he](/en/post/he/) lumbered towards [the](/en/post/the/) [finish](/en/post/finish/) [line](/en/post/line/) [with](/en/post/with/) exhausted steps."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [carpenter](/post/carpenter/) stocked [up](/post/up/) [on](/post/on/) [various](/post/various/) types [of](/post/of/) [lumber](/post/lumber/) [for](/post/for/) [his](/post/his/) woodworking projects."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [long](/post/long/) [run](/post/run/), [he](/post/he/) lumbered towards [the](/post/the/) [finish](/post/finish/) [line](/post/line/) [with](/post/with/) exhausted steps."
 
 ## Synonyms
-- [Timber](/en/post/timber/) (esp. British English)
+- [Timber](/post/timber/) (esp. British English)
 - Planks
 - Boards
-- Logs ([for](/en/post/for/) [raw](/en/post/raw/), unprocessed [wood](/en/post/wood/))
-- Clumsily [move](/en/post/move/) ([for](/en/post/for/) [verb](/en/post/verb/) [usage](/en/post/usage/))
+- Logs ([for](/post/for/) [raw](/post/raw/), unprocessed [wood](/post/wood/))
+- Clumsily [move](/post/move/) ([for](/post/for/) [verb](/post/verb/) [usage](/post/usage/))
 - Stagger
 - Trudge

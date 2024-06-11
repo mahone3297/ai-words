@@ -7,40 +7,40 @@ description = '[ˈfæ∫ən] n.样子，方式；风尚'
 keywords = ['ai words', 'fashion']
 +++
 
-## [Word](/en/post/word/): [Fashion](/en/post/fashion/)
+## [Word](/post/word/): [Fashion](/post/fashion/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfæʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) prevailing [style](/en/post/style/) [or](/en/post/or/) [custom](/en/post/custom/), [especially](/en/post/especially/) [of](/en/post/of/) [dress](/en/post/dress/) [or](/en/post/or/) [behavior](/en/post/behavior/), [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [time](/en/post/time/) [or](/en/post/or/) [place](/en/post/place/); e.g., "[The](/en/post/the/) latest [fashion](/en/post/fashion/) trends [from](/en/post/from/) Paris."
-   - 2. [A](/en/post/a/) [manner](/en/post/manner/) [of](/en/post/of/) doing [something](/en/post/something/), typically [one](/en/post/one/) [that](/en/post/that/) is considered [fashionable](/en/post/fashionable/) [or](/en/post/or/) [up-to-date](/en/post/up-to-date/); e.g., "[She](/en/post/she/) works [with](/en/post/with/) [great](/en/post/great/) [fashion](/en/post/fashion/) [and](/en/post/and/) [efficiency](/en/post/efficiency/)."
-   - 3. [The](/en/post/the/) [design](/en/post/design/) [and](/en/post/and/) [production](/en/post/production/) [of](/en/post/of/) [clothing](/en/post/clothing/), accessories, [or](/en/post/or/) related items; e.g., "She's pursuing [a](/en/post/a/) [career](/en/post/career/) [in](/en/post/in/) [the](/en/post/the/) [fashion](/en/post/fashion/) [industry](/en/post/industry/)."
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) prevailing [style](/post/style/) [or](/post/or/) [custom](/post/custom/), [especially](/post/especially/) [of](/post/of/) [dress](/post/dress/) [or](/post/or/) [behavior](/post/behavior/), [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [time](/post/time/) [or](/post/or/) [place](/post/place/); e.g., "[The](/post/the/) latest [fashion](/post/fashion/) trends [from](/post/from/) Paris."
+   - 2. [A](/post/a/) [manner](/post/manner/) [of](/post/of/) doing [something](/post/something/), typically [one](/post/one/) [that](/post/that/) is considered [fashionable](/post/fashionable/) [or](/post/or/) [up-to-date](/post/up-to-date/); e.g., "[She](/post/she/) works [with](/post/with/) [great](/post/great/) [fashion](/post/fashion/) [and](/post/and/) [efficiency](/post/efficiency/)."
+   - 3. [The](/post/the/) [design](/post/design/) [and](/post/and/) [production](/post/production/) [of](/post/of/) [clothing](/post/clothing/), accessories, [or](/post/or/) related items; e.g., "She's pursuing [a](/post/a/) [career](/post/career/) [in](/post/in/) [the](/post/the/) [fashion](/post/fashion/) [industry](/post/industry/)."
 
-[Example](/en/post/example/) Sentences:
-- **[Noun](/en/post/noun/) ([style](/en/post/style/))**: "[In](/en/post/in/) [the](/en/post/the/) 1920s, [the](/en/post/the/) flapper [fashion](/en/post/fashion/) was [all](/en/post/all/) [the](/en/post/the/) [rage](/en/post/rage/)."
-- **[Noun](/en/post/noun/) ([manner](/en/post/manner/))**: "[He](/en/post/he/) went [about](/en/post/about/) [his](/en/post/his/) [work](/en/post/work/) [with](/en/post/with/) [a](/en/post/a/) [certain](/en/post/certain/) [fashion](/en/post/fashion/) [that](/en/post/that/) commanded [respect](/en/post/respect/)."
-- **[Noun](/en/post/noun/) ([industry](/en/post/industry/))**: "[New](/en/post/new/) York [City](/en/post/city/) is [home](/en/post/home/) [to](/en/post/to/) [some](/en/post/some/) [of](/en/post/of/) [the](/en/post/the/) [most](/en/post/most/) [influential](/en/post/influential/) figures [in](/en/post/in/) [international](/en/post/international/) [fashion](/en/post/fashion/)."
+[Example](/post/example/) Sentences:
+- **[Noun](/post/noun/) ([style](/post/style/))**: "[In](/post/in/) [the](/post/the/) 1920s, [the](/post/the/) flapper [fashion](/post/fashion/) was [all](/post/all/) [the](/post/the/) [rage](/post/rage/)."
+- **[Noun](/post/noun/) ([manner](/post/manner/))**: "[He](/post/he/) went [about](/post/about/) [his](/post/his/) [work](/post/work/) [with](/post/with/) [a](/post/a/) [certain](/post/certain/) [fashion](/post/fashion/) [that](/post/that/) commanded [respect](/post/respect/)."
+- **[Noun](/post/noun/) ([industry](/post/industry/))**: "[New](/post/new/) York [City](/post/city/) is [home](/post/home/) [to](/post/to/) [some](/post/some/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [influential](/post/influential/) figures [in](/post/in/) [international](/post/international/) [fashion](/post/fashion/)."
 
 ## Phrases
-- "[In](/en/post/in/) [fashion](/en/post/fashion/)": [Being](/en/post/being/) currently [popular](/en/post/popular/) [or](/en/post/or/) trendy.
-- "[Out](/en/post/out/) [of](/en/post/of/) [fashion](/en/post/fashion/)": [No](/en/post/no/) longer [popular](/en/post/popular/) [or](/en/post/or/) stylish.
-- "[Set](/en/post/set/) [the](/en/post/the/) [fashion](/en/post/fashion/)": [To](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [influence](/en/post/influence/) [a](/en/post/a/) [trend](/en/post/trend/).
-- "[A](/en/post/a/) la [mode](/en/post/mode/)": [In](/en/post/in/) [the](/en/post/the/) [current](/en/post/current/) [fashion](/en/post/fashion/) [or](/en/post/or/) [style](/en/post/style/).
+- "[In](/post/in/) [fashion](/post/fashion/)": [Being](/post/being/) currently [popular](/post/popular/) [or](/post/or/) trendy.
+- "[Out](/post/out/) [of](/post/of/) [fashion](/post/fashion/)": [No](/post/no/) longer [popular](/post/popular/) [or](/post/or/) stylish.
+- "[Set](/post/set/) [the](/post/the/) [fashion](/post/fashion/)": [To](/post/to/) [establish](/post/establish/) [or](/post/or/) [influence](/post/influence/) [a](/post/a/) [trend](/post/trend/).
+- "[A](/post/a/) la [mode](/post/mode/)": [In](/post/in/) [the](/post/the/) [current](/post/current/) [fashion](/post/fashion/) [or](/post/or/) [style](/post/style/).
 
-## [Example](/en/post/example/) Sentences
-- **[Phrase](/en/post/phrase/)**: "Bell-bottom pants [have](/en/post/have/) [come](/en/post/come/) [back](/en/post/back/) [into](/en/post/into/) [fashion](/en/post/fashion/) [this](/en/post/this/) [season](/en/post/season/)."
-- **[Phrase](/en/post/phrase/)**: "Wearing [shoulder](/en/post/shoulder/) pads is [out](/en/post/out/) [of](/en/post/of/) [fashion](/en/post/fashion/) [now](/en/post/now/)."
-- **[Phrase](/en/post/phrase/)**: "[Her](/en/post/her/) innovative designs [set](/en/post/set/) [the](/en/post/the/) [fashion](/en/post/fashion/) [for](/en/post/for/) [evening](/en/post/evening/) [wear](/en/post/wear/)."
+## [Example](/post/example/) Sentences
+- **[Phrase](/post/phrase/)**: "Bell-bottom pants [have](/post/have/) [come](/post/come/) [back](/post/back/) [into](/post/into/) [fashion](/post/fashion/) [this](/post/this/) [season](/post/season/)."
+- **[Phrase](/post/phrase/)**: "Wearing [shoulder](/post/shoulder/) pads is [out](/post/out/) [of](/post/of/) [fashion](/post/fashion/) [now](/post/now/)."
+- **[Phrase](/post/phrase/)**: "[Her](/post/her/) innovative designs [set](/post/set/) [the](/post/the/) [fashion](/post/fashion/) [for](/post/for/) [evening](/post/evening/) [wear](/post/wear/)."
 
 ## Synonyms
-- [Style](/en/post/style/)
-- [Trend](/en/post/trend/)
+- [Style](/post/style/)
+- [Trend](/post/trend/)
 - Vogue
 - Craze
-- [Mode](/en/post/mode/)
-- [Custom](/en/post/custom/)
-- [Convention](/en/post/convention/)
-- [Practice](/en/post/practice/)
-- [Habit](/en/post/habit/)
+- [Mode](/post/mode/)
+- [Custom](/post/custom/)
+- [Convention](/post/convention/)
+- [Practice](/post/practice/)
+- [Habit](/post/habit/)
 - Mannerism

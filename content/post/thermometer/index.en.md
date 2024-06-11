@@ -7,31 +7,31 @@ description = '[θəˈmɔmitə(r)] n.温度计，寒暑表'
 keywords = ['ai words', 'thermometer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈθɜrməmɪtər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [device](/en/post/device/) [used](/en/post/used/) [to](/en/post/to/) [measure](/en/post/measure/) [temperature](/en/post/temperature/), typically containing [a](/en/post/a/) [scale](/en/post/scale/) marked [in](/en/post/in/) degrees [or](/en/post/or/) [other](/en/post/other/) units [of](/en/post/of/) [temperature](/en/post/temperature/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [doctor](/en/post/doctor/) took [my](/en/post/my/) [temperature](/en/post/temperature/) [with](/en/post/with/) [a](/en/post/a/) [digital](/en/post/digital/) [thermometer](/en/post/thermometer/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) denoting [a](/en/post/a/) [thermometer](/en/post/thermometer/) [or](/en/post/or/) [measurement](/en/post/measurement/) [of](/en/post/of/) [temperature](/en/post/temperature/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [mercury](/en/post/mercury/) [thermometer](/en/post/thermometer/) is [a](/en/post/a/) classic [example](/en/post/example/) [of](/en/post/of/) an old-fashioned [thermometer](/en/post/thermometer/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [device](/post/device/) [used](/post/used/) [to](/post/to/) [measure](/post/measure/) [temperature](/post/temperature/), typically containing [a](/post/a/) [scale](/post/scale/) marked [in](/post/in/) degrees [or](/post/or/) [other](/post/other/) units [of](/post/of/) [temperature](/post/temperature/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [doctor](/post/doctor/) took [my](/post/my/) [temperature](/post/temperature/) [with](/post/with/) [a](/post/a/) [digital](/post/digital/) [thermometer](/post/thermometer/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) denoting [a](/post/a/) [thermometer](/post/thermometer/) [or](/post/or/) [measurement](/post/measurement/) [of](/post/of/) [temperature](/post/temperature/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [mercury](/post/mercury/) [thermometer](/post/thermometer/) is [a](/post/a/) classic [example](/post/example/) [of](/post/of/) an old-fashioned [thermometer](/post/thermometer/)."
 
 ## Phrases
-- "[Take](/en/post/take/) one's [temperature](/en/post/temperature/)" [means](/en/post/means/) [to](/en/post/to/) [measure](/en/post/measure/) someone's [body](/en/post/body/) [temperature](/en/post/temperature/).
-- "[Thermometer](/en/post/thermometer/) [reading](/en/post/reading/)" refers [to](/en/post/to/) [the](/en/post/the/) displayed [temperature](/en/post/temperature/) [measurement](/en/post/measurement/).
-- "[A](/en/post/a/) [high](/en/post/high/) [thermometer](/en/post/thermometer/)" signifies an [unusually](/en/post/unusually/) [high](/en/post/high/) [temperature](/en/post/temperature/), [often](/en/post/often/) [used](/en/post/used/) metaphorically.
+- "[Take](/post/take/) one's [temperature](/post/temperature/)" [means](/post/means/) [to](/post/to/) [measure](/post/measure/) someone's [body](/post/body/) [temperature](/post/temperature/).
+- "[Thermometer](/post/thermometer/) [reading](/post/reading/)" refers [to](/post/to/) [the](/post/the/) displayed [temperature](/post/temperature/) [measurement](/post/measurement/).
+- "[A](/post/a/) [high](/post/high/) [thermometer](/post/thermometer/)" signifies an [unusually](/post/unusually/) [high](/post/high/) [temperature](/post/temperature/), [often](/post/often/) [used](/post/used/) metaphorically.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [thermometer](/en/post/thermometer/) showed [a](/en/post/a/) feverish 102°F."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [smart](/en/post/smart/) [home](/en/post/home/) [system](/en/post/system/) includes [a](/en/post/a/) [wireless](/en/post/wireless/) [thermometer](/en/post/thermometer/) [for](/en/post/for/) [precise](/en/post/precise/) [temperature](/en/post/temperature/) [control](/en/post/control/)."
-- "[The](/en/post/the/) [nurse](/en/post/nurse/) took [the](/en/post/the/) patient's [temperature](/en/post/temperature/) [before](/en/post/before/) administering medication."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [thermometer](/post/thermometer/) showed [a](/post/a/) feverish 102°F."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [smart](/post/smart/) [home](/post/home/) [system](/post/system/) includes [a](/post/a/) [wireless](/post/wireless/) [thermometer](/post/thermometer/) [for](/post/for/) [precise](/post/precise/) [temperature](/post/temperature/) [control](/post/control/)."
+- "[The](/post/the/) [nurse](/post/nurse/) took [the](/post/the/) patient's [temperature](/post/temperature/) [before](/post/before/) administering medication."
 
 ## Synonyms
 - Thermometric
-- [Temperature](/en/post/temperature/) [gauge](/en/post/gauge/)
-- Hygrometer ([for](/en/post/for/) [relative](/en/post/relative/) humidity)
+- [Temperature](/post/temperature/) [gauge](/post/gauge/)
+- Hygrometer ([for](/post/for/) [relative](/post/relative/) humidity)
 - Thermograph
 - Thermometric indicator
 
 ## Antonyms
-- Non-thermometer (implying [no](/en/post/no/) [temperature](/en/post/temperature/) [measurement](/en/post/measurement/))
-- Isothermal (relating [to](/en/post/to/) [a](/en/post/a/) [constant](/en/post/constant/) [temperature](/en/post/temperature/))
-- [Cold](/en/post/cold/) ([in](/en/post/in/) terms [of](/en/post/of/) [low](/en/post/low/) [temperature](/en/post/temperature/))
+- Non-thermometer (implying [no](/post/no/) [temperature](/post/temperature/) [measurement](/post/measurement/))
+- Isothermal (relating [to](/post/to/) [a](/post/a/) [constant](/post/constant/) [temperature](/post/temperature/))
+- [Cold](/post/cold/) ([in](/post/in/) terms [of](/post/of/) [low](/post/low/) [temperature](/post/temperature/))

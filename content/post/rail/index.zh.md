@@ -19,16 +19,16 @@ keywords = ['ai words', 'rail']
 在某些地区方言中，表示快速而连续地射击（如枪或箭）。
 
 ## 短语
-- "[railway](/post/railway/)" 指铁路系统。
-- "[on](/post/on/) [the](/post/the/) rails" 指事情按计划或预期进行。
-- "[rail](/post/rail/) [against](/post/against/)" 抱怨或猛烈批评某事。
+- "[railway](/zh/post/railway/)" 指铁路系统。
+- "[on](/zh/post/on/) [the](/zh/post/the/) rails" 指事情按计划或预期进行。
+- "[rail](/zh/post/rail/) [against](/zh/post/against/)" 抱怨或猛烈批评某事。
 
 ## 例句
-- 名词: "[The](/post/the/) [train](/post/train/) moved [smoothly](/post/smoothly/) [along](/post/along/) [the](/post/the/) well-maintained rails."
-- 动词: "[The](/post/the/) archer railed arrows [at](/post/at/) [the](/post/the/) [target](/post/target/) [with](/post/with/) [great](/post/great/) [accuracy](/post/accuracy/)."
-- 短语: "[His](/post/his/) [project](/post/project/) is [back](/post/back/) [on](/post/on/) [the](/post/the/) rails [after](/post/after/) [a](/post/a/) rocky [start](/post/start/)."
+- 名词: "[The](/zh/post/the/) [train](/zh/post/train/) moved [smoothly](/zh/post/smoothly/) [along](/zh/post/along/) [the](/zh/post/the/) well-maintained rails."
+- 动词: "[The](/zh/post/the/) archer railed arrows [at](/zh/post/at/) [the](/zh/post/the/) [target](/zh/post/target/) [with](/zh/post/with/) [great](/zh/post/great/) [accuracy](/zh/post/accuracy/)."
+- 短语: "[His](/zh/post/his/) [project](/zh/post/project/) is [back](/zh/post/back/) [on](/zh/post/on/) [the](/zh/post/the/) rails [after](/zh/post/after/) [a](/zh/post/a/) rocky [start](/zh/post/start/)."
 
 ## 同义词
-- (名词 - 铁轨) [track](/post/track/), [line](/post/line/)
-- (名词 - 栏杆) [barrier](/post/barrier/), [fence](/post/fence/)
-- (动词 - 射击) [shoot](/post/shoot/) [rapidly](/post/rapidly/), [fire](/post/fire/) [quickly](/post/quickly/)
+- (名词 - 铁轨) [track](/zh/post/track/), [line](/zh/post/line/)
+- (名词 - 栏杆) [barrier](/zh/post/barrier/), [fence](/zh/post/fence/)
+- (动词 - 射击) [shoot](/zh/post/shoot/) [rapidly](/zh/post/rapidly/), [fire](/zh/post/fire/) [quickly](/zh/post/quickly/)

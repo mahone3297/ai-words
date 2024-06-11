@@ -7,28 +7,28 @@ description = '[ˈpɑːtikl] n.粒子，微粒'
 keywords = ['ai words', 'particle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pərˈtɪk(ə)lər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/) [word](/en/post/word/) [or](/en/post/or/) [phrase](/en/post/phrase/) [that](/en/post/that/) serves [as](/en/post/as/) [a](/en/post/a/) [grammatical](/en/post/grammatical/) [element](/en/post/element/), [often](/en/post/often/) functioning [without](/en/post/without/) [independent](/en/post/independent/) [meaning](/en/post/meaning/), [to](/en/post/to/) [indicate](/en/post/indicate/) [grammatical](/en/post/grammatical/) relationships [or](/en/post/or/) [add](/en/post/add/) [emphasis](/en/post/emphasis/) [to](/en/post/to/) [a](/en/post/a/) [sentence](/en/post/sentence/). Examples [include](/en/post/include/) conjunctions, prepositions, [and](/en/post/and/) particles [like](/en/post/like/) "[up](/en/post/up/)" [or](/en/post/or/) "[on](/en/post/on/)."
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [a](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [sentence](/en/post/sentence/) [that](/en/post/that/) has [little](/en/post/little/) [or](/en/post/or/) [no](/en/post/no/) inherent [meaning](/en/post/meaning/) [but](/en/post/but/) contributes [to](/en/post/to/) [the](/en/post/the/) [structure](/en/post/structure/) [or](/en/post/or/) [function](/en/post/function/) [of](/en/post/of/) [the](/en/post/the/) [sentence](/en/post/sentence/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [modify](/en/post/modify/) verbs, adjectives, [or](/en/post/or/) [other](/en/post/other/) particles.
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/) [word](/post/word/) [or](/post/or/) [phrase](/post/phrase/) [that](/post/that/) serves [as](/post/as/) [a](/post/a/) [grammatical](/post/grammatical/) [element](/post/element/), [often](/post/often/) functioning [without](/post/without/) [independent](/post/independent/) [meaning](/post/meaning/), [to](/post/to/) [indicate](/post/indicate/) [grammatical](/post/grammatical/) relationships [or](/post/or/) [add](/post/add/) [emphasis](/post/emphasis/) [to](/post/to/) [a](/post/a/) [sentence](/post/sentence/). Examples [include](/post/include/) conjunctions, prepositions, [and](/post/and/) particles [like](/post/like/) "[up](/post/up/)" [or](/post/or/) "[on](/post/on/)."
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [a](/post/a/) [word](/post/word/) [or](/post/or/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [sentence](/post/sentence/) [that](/post/that/) has [little](/post/little/) [or](/post/or/) [no](/post/no/) inherent [meaning](/post/meaning/) [but](/post/but/) contributes [to](/post/to/) [the](/post/the/) [structure](/post/structure/) [or](/post/or/) [function](/post/function/) [of](/post/of/) [the](/post/the/) [sentence](/post/sentence/). [It](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [modify](/post/modify/) verbs, adjectives, [or](/post/or/) [other](/post/other/) particles.
 
 ## Phrases
-- "[Particle](/en/post/particle/) [phrase](/en/post/phrase/)" denotes [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) words [that](/en/post/that/) includes [a](/en/post/a/) [particle](/en/post/particle/) [and](/en/post/and/) [its](/en/post/its/) complement.
-- "[Interruption](/en/post/interruption/) [particle](/en/post/particle/)" refers [to](/en/post/to/) [a](/en/post/a/) [particle](/en/post/particle/) [used](/en/post/used/) [to](/en/post/to/) [interrupt](/en/post/interrupt/) [a](/en/post/a/) [sentence](/en/post/sentence/).
-- "Prepositional [particle](/en/post/particle/)" is [a](/en/post/a/) [particle](/en/post/particle/) [that](/en/post/that/) follows [a](/en/post/a/) [preposition](/en/post/preposition/).
+- "[Particle](/post/particle/) [phrase](/post/phrase/)" denotes [a](/post/a/) [group](/post/group/) [of](/post/of/) words [that](/post/that/) includes [a](/post/a/) [particle](/post/particle/) [and](/post/and/) [its](/post/its/) complement.
+- "[Interruption](/post/interruption/) [particle](/post/particle/)" refers [to](/post/to/) [a](/post/a/) [particle](/post/particle/) [used](/post/used/) [to](/post/to/) [interrupt](/post/interrupt/) [a](/post/a/) [sentence](/post/sentence/).
+- "Prepositional [particle](/post/particle/)" is [a](/post/a/) [particle](/post/particle/) [that](/post/that/) follows [a](/post/a/) [preposition](/post/preposition/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) prepositional [particle](/en/post/particle/) '[in](/en/post/in/)' indicates [location](/en/post/location/) [in](/en/post/in/) [this](/en/post/this/) [sentence](/en/post/sentence/): 'I [left](/en/post/left/) [my](/en/post/my/) keys [in](/en/post/in/) [the](/en/post/the/) [car](/en/post/car/).'"
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sentence's [emphasis](/en/post/emphasis/) shifted [with](/en/post/with/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [the](/en/post/the/) [particle](/en/post/particle/) '[indeed](/en/post/indeed/).'"
-- **[Interruption](/en/post/interruption/)**: "[He](/en/post/he/) interrupted [his](/en/post/his/) [lecture](/en/post/lecture/) [with](/en/post/with/) [a](/en/post/a/) [quick](/en/post/quick/) 'ahem' [particle](/en/post/particle/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) prepositional [particle](/post/particle/) '[in](/post/in/)' indicates [location](/post/location/) [in](/post/in/) [this](/post/this/) [sentence](/post/sentence/): 'I [left](/post/left/) [my](/post/my/) keys [in](/post/in/) [the](/post/the/) [car](/post/car/).'"
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sentence's [emphasis](/post/emphasis/) shifted [with](/post/with/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [the](/post/the/) [particle](/post/particle/) '[indeed](/post/indeed/).'"
+- **[Interruption](/post/interruption/)**: "[He](/post/he/) interrupted [his](/post/his/) [lecture](/post/lecture/) [with](/post/with/) [a](/post/a/) [quick](/post/quick/) 'ahem' [particle](/post/particle/)."
 
 ## Synonyms
-- [None](/en/post/none/) ([since](/en/post/since/) particles are [specific](/en/post/specific/) types [of](/en/post/of/) words [with](/en/post/with/) [unique](/en/post/unique/) functions)
-- [Grammatical](/en/post/grammatical/) marker
-- [Structural](/en/post/structural/) [element](/en/post/element/)
-- [Function](/en/post/function/) [word](/en/post/word/)
+- [None](/post/none/) ([since](/post/since/) particles are [specific](/post/specific/) types [of](/post/of/) words [with](/post/with/) [unique](/post/unique/) functions)
+- [Grammatical](/post/grammatical/) marker
+- [Structural](/post/structural/) [element](/post/element/)
+- [Function](/post/function/) [word](/post/word/)
 
 ## Notes
-Particles are [often](/en/post/often/) considered [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [grammar](/en/post/grammar/) [rather](/en/post/rather/) [than](/en/post/than/) standalone [vocabulary](/en/post/vocabulary/) items, [as](/en/post/as/) [they](/en/post/they/) [primarily](/en/post/primarily/) [serve](/en/post/serve/) [to](/en/post/to/) [connect](/en/post/connect/) [or](/en/post/or/) [modify](/en/post/modify/) [other](/en/post/other/) parts [of](/en/post/of/) [a](/en/post/a/) [sentence](/en/post/sentence/). [They](/en/post/they/) are [not](/en/post/not/) [easily](/en/post/easily/) replaced [by](/en/post/by/) synonyms [because](/en/post/because/) [their](/en/post/their/) [function](/en/post/function/) is integral [to](/en/post/to/) [the](/en/post/the/) [sentence](/en/post/sentence/) [structure](/en/post/structure/).
+Particles are [often](/post/often/) considered [a](/post/a/) [part](/post/part/) [of](/post/of/) [grammar](/post/grammar/) [rather](/post/rather/) [than](/post/than/) standalone [vocabulary](/post/vocabulary/) items, [as](/post/as/) [they](/post/they/) [primarily](/post/primarily/) [serve](/post/serve/) [to](/post/to/) [connect](/post/connect/) [or](/post/or/) [modify](/post/modify/) [other](/post/other/) parts [of](/post/of/) [a](/post/a/) [sentence](/post/sentence/). [They](/post/they/) are [not](/post/not/) [easily](/post/easily/) replaced [by](/post/by/) synonyms [because](/post/because/) [their](/post/their/) [function](/post/function/) is integral [to](/post/to/) [the](/post/the/) [sentence](/post/sentence/) [structure](/post/structure/).

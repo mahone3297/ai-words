@@ -11,20 +11,20 @@ keywords = ['ai words', 'dawn']
 /ˈdɔːn/
 
 ## 释义
-- **名词**: 天刚亮的时候，黎明。例如: "[The](/post/the/) birds started singing [at](/post/at/) [dawn](/post/dawn/)."
-- **动词**: 开始，曙光出现，开始理解（某事）。例如: "[The](/post/the/) [day](/post/day/) dawned [bright](/post/bright/) [and](/post/and/) [clear](/post/clear/)."，"[It](/post/it/) dawned [on](/post/on/) [her](/post/her/) [that](/post/that/) [she](/post/she/) had made [a](/post/a/) [mistake](/post/mistake/)."
+- **名词**: 天刚亮的时候，黎明。例如: "[The](/zh/post/the/) birds started singing [at](/zh/post/at/) [dawn](/zh/post/dawn/)."
+- **动词**: 开始，曙光出现，开始理解（某事）。例如: "[The](/zh/post/the/) [day](/zh/post/day/) dawned [bright](/zh/post/bright/) [and](/zh/post/and/) [clear](/zh/post/clear/)."，"[It](/zh/post/it/) dawned [on](/zh/post/on/) [her](/zh/post/her/) [that](/zh/post/that/) [she](/zh/post/she/) had made [a](/zh/post/a/) [mistake](/zh/post/mistake/)."
 
 ## 短语
-- "[at](/post/at/) [dawn](/post/dawn/)" 在黎明时分。
-- "[dawn](/post/dawn/) [of](/post/of/) [something](/post/something/)" 某事物的初期或开始阶段。例如: "[the](/post/the/) [dawn](/post/dawn/) [of](/post/of/) [civilization](/post/civilization/)"
+- "[at](/zh/post/at/) [dawn](/zh/post/dawn/)" 在黎明时分。
+- "[dawn](/zh/post/dawn/) [of](/zh/post/of/) [something](/zh/post/something/)" 某事物的初期或开始阶段。例如: "[the](/zh/post/the/) [dawn](/zh/post/dawn/) [of](/zh/post/of/) [civilization](/zh/post/civilization/)"
 
 ## 例句
-- 名词: "[We](/post/we/) went [for](/post/for/) [a](/post/a/) [walk](/post/walk/) [at](/post/at/) [dawn](/post/dawn/) [to](/post/to/) [enjoy](/post/enjoy/) [the](/post/the/) [fresh](/post/fresh/) [air](/post/air/)."
-- 动词: "[It](/post/it/) dawned [on](/post/on/) [him](/post/him/) [that](/post/that/) [he](/post/he/) had [left](/post/left/) [his](/post/his/) keys [inside](/post/inside/) [the](/post/the/) [house](/post/house/)."
+- 名词: "[We](/zh/post/we/) went [for](/zh/post/for/) [a](/zh/post/a/) [walk](/zh/post/walk/) [at](/zh/post/at/) [dawn](/zh/post/dawn/) [to](/zh/post/to/) [enjoy](/zh/post/enjoy/) [the](/zh/post/the/) [fresh](/zh/post/fresh/) [air](/zh/post/air/)."
+- 动词: "[It](/zh/post/it/) dawned [on](/zh/post/on/) [him](/zh/post/him/) [that](/zh/post/that/) [he](/zh/post/he/) had [left](/zh/post/left/) [his](/zh/post/his/) keys [inside](/zh/post/inside/) [the](/zh/post/the/) [house](/zh/post/house/)."
 
 ## 同义词
-- [sunrise](/post/sunrise/)
-- [first](/post/first/) [light](/post/light/)
-- [break](/post/break/) [of](/post/of/) [day](/post/day/)
+- [sunrise](/zh/post/sunrise/)
+- [first](/zh/post/first/) [light](/zh/post/light/)
+- [break](/zh/post/break/) [of](/zh/post/of/) [day](/zh/post/day/)
 - daybreak
 - aurora

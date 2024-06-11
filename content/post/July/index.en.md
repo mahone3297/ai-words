@@ -7,27 +7,27 @@ description = '[dʒu(ː)ˈlai] n.七月'
 keywords = ['ai words', 'July']
 +++
 
-## [Word](/en/post/word/): July
+## [Word](/post/word/): July
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dʒuˈlaɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [seventh](/en/post/seventh/) [month](/en/post/month/) [of](/en/post/of/) [the](/en/post/the/) Gregorian [calendar](/en/post/calendar/), [usually](/en/post/usually/) consisting [of](/en/post/of/) 31 days. It's named [after](/en/post/after/) Julius Caesar [in](/en/post/in/) [the](/en/post/the/) Roman [calendar](/en/post/calendar/) [reform](/en/post/reform/).
+- **[Noun](/post/noun/)**: [The](/post/the/) [seventh](/post/seventh/) [month](/post/month/) [of](/post/of/) [the](/post/the/) Gregorian [calendar](/post/calendar/), [usually](/post/usually/) consisting [of](/post/of/) 31 days. It's named [after](/post/after/) Julius Caesar [in](/post/in/) [the](/post/the/) Roman [calendar](/post/calendar/) [reform](/post/reform/).
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- "We're planning [to](/en/post/to/) [have](/en/post/have/) [our](/en/post/our/) [annual](/en/post/annual/) [family](/en/post/family/) reunion [in](/en/post/in/) July [this](/en/post/this/) [year](/en/post/year/)."
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- "We're planning [to](/post/to/) [have](/post/have/) [our](/post/our/) [annual](/post/annual/) [family](/post/family/) reunion [in](/post/in/) July [this](/post/this/) [year](/post/year/)."
 
 ## Phrases
-- "Mid-July" refers [to](/en/post/to/) [the](/en/post/the/) [middle](/en/post/middle/) [of](/en/post/of/) [the](/en/post/the/) [month](/en/post/month/) [of](/en/post/of/) July.
-- "July 4th" specifically denotes [Independence](/en/post/independence/) [Day](/en/post/day/) [in](/en/post/in/) [the](/en/post/the/) United States.
-- "[Dog](/en/post/dog/) days [of](/en/post/of/) [summer](/en/post/summer/)" [often](/en/post/often/) refers [to](/en/post/to/) [the](/en/post/the/) [hot](/en/post/hot/), sultry [period](/en/post/period/) occurring [in](/en/post/in/) [late](/en/post/late/) July [and](/en/post/and/) [early](/en/post/early/) [August](/en/post/august/).
+- "Mid-July" refers [to](/post/to/) [the](/post/the/) [middle](/post/middle/) [of](/post/of/) [the](/post/the/) [month](/post/month/) [of](/post/of/) July.
+- "July 4th" specifically denotes [Independence](/post/independence/) [Day](/post/day/) [in](/post/in/) [the](/post/the/) United States.
+- "[Dog](/post/dog/) days [of](/post/of/) [summer](/post/summer/)" [often](/post/often/) refers [to](/post/to/) [the](/post/the/) [hot](/post/hot/), sultry [period](/post/period/) occurring [in](/post/in/) [late](/post/late/) July [and](/post/and/) [early](/post/early/) [August](/post/august/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "July is [the](/en/post/the/) [peak](/en/post/peak/) [season](/en/post/season/) [for](/en/post/for/) tourism [in](/en/post/in/) [many](/en/post/many/) Mediterranean countries."
-- "[Her](/en/post/her/) [birthday](/en/post/birthday/) falls [on](/en/post/on/) [the](/en/post/the/) 27th [of](/en/post/of/) July."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "July is [the](/post/the/) [peak](/post/peak/) [season](/post/season/) [for](/post/for/) tourism [in](/post/in/) [many](/post/many/) Mediterranean countries."
+- "[Her](/post/her/) [birthday](/post/birthday/) falls [on](/post/on/) [the](/post/the/) 27th [of](/post/of/) July."
 
 ## Synonyms
-- ([There](/en/post/there/) are [no](/en/post/no/) [direct](/en/post/direct/) synonyms [for](/en/post/for/) [the](/en/post/the/) [proper](/en/post/proper/) [noun](/en/post/noun/) 'July' [as](/en/post/as/) [it](/en/post/it/) refers [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [month](/en/post/month/). [However](/en/post/however/), [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) replaced contextually [with](/en/post/with/) [other](/en/post/other/) months [in](/en/post/in/) [certain](/en/post/certain/) situations.)
+- ([There](/post/there/) are [no](/post/no/) [direct](/post/direct/) synonyms [for](/post/for/) [the](/post/the/) [proper](/post/proper/) [noun](/post/noun/) 'July' [as](/post/as/) [it](/post/it/) refers [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [month](/post/month/). [However](/post/however/), [it](/post/it/) [can](/post/can/) [be](/post/be/) replaced contextually [with](/post/with/) [other](/post/other/) months [in](/post/in/) [certain](/post/certain/) situations.)
   
-[Note](/en/post/note/): [Unlike](/en/post/unlike/) [the](/en/post/the/) given [example](/en/post/example/) [for](/en/post/for/) "[hello](/en/post/hello/)," July is [a](/en/post/a/) [proper](/en/post/proper/) [noun](/en/post/noun/) (specifically [a](/en/post/a/) [month](/en/post/month/)) [and](/en/post/and/) does [not](/en/post/not/) [have](/en/post/have/) [different](/en/post/different/) parts [of](/en/post/of/) [speech](/en/post/speech/) [or](/en/post/or/) synonyms [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [sense](/en/post/sense/) [that](/en/post/that/) [a](/en/post/a/) [common](/en/post/common/) [noun](/en/post/noun/) [or](/en/post/or/) [verb](/en/post/verb/) [might](/en/post/might/).
+[Note](/post/note/): [Unlike](/post/unlike/) [the](/post/the/) given [example](/post/example/) [for](/post/for/) "[hello](/post/hello/)," July is [a](/post/a/) [proper](/post/proper/) [noun](/post/noun/) (specifically [a](/post/a/) [month](/post/month/)) [and](/post/and/) does [not](/post/not/) [have](/post/have/) [different](/post/different/) parts [of](/post/of/) [speech](/post/speech/) [or](/post/or/) synonyms [in](/post/in/) [the](/post/the/) [same](/post/same/) [sense](/post/sense/) [that](/post/that/) [a](/post/a/) [common](/post/common/) [noun](/post/noun/) [or](/post/or/) [verb](/post/verb/) [might](/post/might/).

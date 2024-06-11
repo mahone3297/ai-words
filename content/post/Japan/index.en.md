@@ -7,28 +7,28 @@ description = '[dʒəˈpæn] n.日本，日本国'
 keywords = ['ai words', 'Japan']
 +++
 
-## [Word](/en/post/word/): Japan
+## [Word](/post/word/): Japan
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dʒəˈpæn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [East](/en/post/east/) [Asian](/en/post/asian/) [country](/en/post/country/) officially known [as](/en/post/as/) Nippon [or](/en/post/or/) Nihon, consisting [of](/en/post/of/) [four](/en/post/four/) [main](/en/post/main/) islands (Honshu, Hokkaido, Kyushu, [and](/en/post/and/) Shikoku) [and](/en/post/and/) [numerous](/en/post/numerous/) smaller ones. [It](/en/post/it/) has [a](/en/post/a/) [rich](/en/post/rich/) cultural heritage [and](/en/post/and/) is [famous](/en/post/famous/) [for](/en/post/for/) [its](/en/post/its/) [technology](/en/post/technology/), [art](/en/post/art/), cuisine, [and](/en/post/and/) automotive [industry](/en/post/industry/). [Example](/en/post/example/): "Japan is known [for](/en/post/for/) [its](/en/post/its/) [advanced](/en/post/advanced/) robotics [technology](/en/post/technology/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) originating [from](/en/post/from/) Japan. [Example](/en/post/example/): "Japanese sushi is renowned worldwide."
+- **[Noun](/post/noun/)**: [The](/post/the/) [East](/post/east/) [Asian](/post/asian/) [country](/post/country/) officially known [as](/post/as/) Nippon [or](/post/or/) Nihon, consisting [of](/post/of/) [four](/post/four/) [main](/post/main/) islands (Honshu, Hokkaido, Kyushu, [and](/post/and/) Shikoku) [and](/post/and/) [numerous](/post/numerous/) smaller ones. [It](/post/it/) has [a](/post/a/) [rich](/post/rich/) cultural heritage [and](/post/and/) is [famous](/post/famous/) [for](/post/for/) [its](/post/its/) [technology](/post/technology/), [art](/post/art/), cuisine, [and](/post/and/) automotive [industry](/post/industry/). [Example](/post/example/): "Japan is known [for](/post/for/) [its](/post/its/) [advanced](/post/advanced/) robotics [technology](/post/technology/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) originating [from](/post/from/) Japan. [Example](/post/example/): "Japanese sushi is renowned worldwide."
 
 ## Phrases
-- "Made [in](/en/post/in/) Japan": Refers [to](/en/post/to/) products manufactured [in](/en/post/in/) Japan, [often](/en/post/often/) associated [with](/en/post/with/) [high](/en/post/high/) [quality](/en/post/quality/) [and](/en/post/and/) [precision](/en/post/precision/).
-- "[The](/en/post/the/) [Land](/en/post/land/) [of](/en/post/of/) [the](/en/post/the/) Rising [Sun](/en/post/sun/)": [A](/en/post/a/) poetic [name](/en/post/name/) [for](/en/post/for/) Japan, reflecting [its](/en/post/its/) geographical [location](/en/post/location/) [east](/en/post/east/) [of](/en/post/of/) [China](/en/post/china/) [where](/en/post/where/) [the](/en/post/the/) [sun](/en/post/sun/) rises.
-- "Japanimation": [A](/en/post/a/) [term](/en/post/term/) referring [to](/en/post/to/) Japanese animation, [commonly](/en/post/commonly/) shortened [to](/en/post/to/) anime.
+- "Made [in](/post/in/) Japan": Refers [to](/post/to/) products manufactured [in](/post/in/) Japan, [often](/post/often/) associated [with](/post/with/) [high](/post/high/) [quality](/post/quality/) [and](/post/and/) [precision](/post/precision/).
+- "[The](/post/the/) [Land](/post/land/) [of](/post/of/) [the](/post/the/) Rising [Sun](/post/sun/)": [A](/post/a/) poetic [name](/post/name/) [for](/post/for/) Japan, reflecting [its](/post/its/) geographical [location](/post/location/) [east](/post/east/) [of](/post/of/) [China](/post/china/) [where](/post/where/) [the](/post/the/) [sun](/post/sun/) rises.
+- "Japanimation": [A](/post/a/) [term](/post/term/) referring [to](/post/to/) Japanese animation, [commonly](/post/commonly/) shortened [to](/post/to/) anime.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) visiting Tokyo, I gained [a](/en/post/a/) [deep](/en/post/deep/) appreciation [for](/en/post/for/) [the](/en/post/the/) [culture](/en/post/culture/) [of](/en/post/of/) Japan."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) collects vintage Japanese kimonos."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) visiting Tokyo, I gained [a](/post/a/) [deep](/post/deep/) appreciation [for](/post/for/) [the](/post/the/) [culture](/post/culture/) [of](/post/of/) Japan."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) collects vintage Japanese kimonos."
 
 ## Synonyms
 - Nippon
 - Nihon
-- Japanese [Empire](/en/post/empire/) ([historical](/en/post/historical/))
-- Japanese Isles (geographical [reference](/en/post/reference/))
+- Japanese [Empire](/post/empire/) ([historical](/post/historical/))
+- Japanese Isles (geographical [reference](/post/reference/))
 
-[Note](/en/post/note/): Japan does [not](/en/post/not/) [have](/en/post/have/) [verb](/en/post/verb/), [adverb](/en/post/adverb/), [or](/en/post/or/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) forms [commonly](/en/post/commonly/) [used](/en/post/used/) [like](/en/post/like/) [the](/en/post/the/) [example](/en/post/example/) [provided](/en/post/provided/) [for](/en/post/for/) "[hello](/en/post/hello/)".
+[Note](/post/note/): Japan does [not](/post/not/) [have](/post/have/) [verb](/post/verb/), [adverb](/post/adverb/), [or](/post/or/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) forms [commonly](/post/commonly/) [used](/post/used/) [like](/post/like/) [the](/post/the/) [example](/post/example/) [provided](/post/provided/) [for](/post/for/) "[hello](/post/hello/)".

@@ -12,21 +12,21 @@ keywords = ['ai words', 'occur']
 
 ## 释义
 - **动词**:
-  - 发生；出现。例如: "An [interesting](/post/interesting/) [idea](/post/idea/) occurred [to](/post/to/) [her](/post/her/)."
-  - 经历；遭遇。例如: "[He](/post/he/) [never](/post/never/) expected [to](/post/to/) [occur](/post/occur/) [such](/post/such/) an [event](/post/event/) [in](/post/in/) [his](/post/his/) [life](/post/life/)."
+  - 发生；出现。例如: "An [interesting](/zh/post/interesting/) [idea](/zh/post/idea/) occurred [to](/zh/post/to/) [her](/zh/post/her/)."
+  - 经历；遭遇。例如: "[He](/zh/post/he/) [never](/zh/post/never/) expected [to](/zh/post/to/) [occur](/zh/post/occur/) [such](/zh/post/such/) an [event](/zh/post/event/) [in](/zh/post/in/) [his](/zh/post/his/) [life](/zh/post/life/)."
 
 ## 短语
-- "[occur](/post/occur/) [to](/post/to/) [someone](/post/someone/)" 意味着某人想到或意识到某事。例如: "[It](/post/it/) didn't [occur](/post/occur/) [to](/post/to/) [him](/post/him/) [that](/post/that/) [he](/post/he/) had forgotten [his](/post/his/) keys."
-- "occurring [at](/post/at/) [regular](/post/regular/) intervals" 表示定期发生。例如: "[The](/post/the/) meetings [occur](/post/occur/) [every](/post/every/) Monday."
+- "[occur](/zh/post/occur/) [to](/zh/post/to/) [someone](/zh/post/someone/)" 意味着某人想到或意识到某事。例如: "[It](/zh/post/it/) didn't [occur](/zh/post/occur/) [to](/zh/post/to/) [him](/zh/post/him/) [that](/zh/post/that/) [he](/zh/post/he/) had forgotten [his](/zh/post/his/) keys."
+- "occurring [at](/zh/post/at/) [regular](/zh/post/regular/) intervals" 表示定期发生。例如: "[The](/zh/post/the/) meetings [occur](/zh/post/occur/) [every](/zh/post/every/) Monday."
 
 ## 例句
-- "[The](/post/the/) [accident](/post/accident/) occurred [at](/post/at/) [a](/post/a/) [busy](/post/busy/) intersection."
-- "[It](/post/it/) [suddenly](/post/suddenly/) occurred [to](/post/to/) [me](/post/me/) [that](/post/that/) [we](/post/we/) hadn't seen John [all](/post/all/) [day](/post/day/)."
-- "[The](/post/the/) [festival](/post/festival/) occurs annually [in](/post/in/) [the](/post/the/) [summer](/post/summer/)."
+- "[The](/zh/post/the/) [accident](/zh/post/accident/) occurred [at](/zh/post/at/) [a](/zh/post/a/) [busy](/zh/post/busy/) intersection."
+- "[It](/zh/post/it/) [suddenly](/zh/post/suddenly/) occurred [to](/zh/post/to/) [me](/zh/post/me/) [that](/zh/post/that/) [we](/zh/post/we/) hadn't seen John [all](/zh/post/all/) [day](/zh/post/day/)."
+- "[The](/zh/post/the/) [festival](/zh/post/festival/) occurs annually [in](/zh/post/in/) [the](/zh/post/the/) [summer](/zh/post/summer/)."
 
 ## 同义词
-- [happen](/post/happen/)
-- [take](/post/take/) [place](/post/place/)
-- [arise](/post/arise/)
+- [happen](/zh/post/happen/)
+- [take](/zh/post/take/) [place](/zh/post/place/)
+- [arise](/zh/post/arise/)
 - materialize
 - transpire

@@ -7,31 +7,31 @@ description = '[zuː] n.动物园'
 keywords = ['ai words', 'zoo']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈzuː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [facility](/en/post/facility/) [where](/en/post/where/) animals are kept [for](/en/post/for/) [public](/en/post/public/) [exhibition](/en/post/exhibition/) [and](/en/post/and/) educational purposes, [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [aim](/en/post/aim/) [of](/en/post/of/) [conservation](/en/post/conservation/) [and](/en/post/and/) [research](/en/post/research/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) kids loved visiting [the](/en/post/the/) [zoo](/en/post/zoo/) [last](/en/post/last/) [weekend](/en/post/weekend/)."
-- **[Noun](/en/post/noun/)**: (informal) [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) gathered [together](/en/post/together/), [often](/en/post/often/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/) [or](/en/post/or/) [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) after-work [zoo](/en/post/zoo/) was [full](/en/post/full/) [of](/en/post/of/) colleagues chatting [and](/en/post/and/) laughing."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [house](/en/post/house/) [or](/en/post/or/) [confine](/en/post/confine/) animals, typically [in](/en/post/in/) [a](/en/post/a/) [zoo](/en/post/zoo/) [setting](/en/post/setting/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) zookeepers are working [hard](/en/post/hard/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [natural](/en/post/natural/) habitat [for](/en/post/for/) [the](/en/post/the/) animals."
+- **[Noun](/post/noun/)**: [A](/post/a/) [facility](/post/facility/) [where](/post/where/) animals are kept [for](/post/for/) [public](/post/public/) [exhibition](/post/exhibition/) [and](/post/and/) educational purposes, [often](/post/often/) [with](/post/with/) [the](/post/the/) [aim](/post/aim/) [of](/post/of/) [conservation](/post/conservation/) [and](/post/and/) [research](/post/research/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) kids loved visiting [the](/post/the/) [zoo](/post/zoo/) [last](/post/last/) [weekend](/post/weekend/)."
+- **[Noun](/post/noun/)**: (informal) [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) gathered [together](/post/together/), [often](/post/often/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/) [or](/post/or/) [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) after-work [zoo](/post/zoo/) was [full](/post/full/) [of](/post/of/) colleagues chatting [and](/post/and/) laughing."
+- **[Verb](/post/verb/)**: [To](/post/to/) [house](/post/house/) [or](/post/or/) [confine](/post/confine/) animals, typically [in](/post/in/) [a](/post/a/) [zoo](/post/zoo/) [setting](/post/setting/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) zookeepers are working [hard](/post/hard/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [natural](/post/natural/) habitat [for](/post/for/) [the](/post/the/) animals."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [trip](/en/post/trip/) [to](/en/post/to/) [the](/en/post/the/) [zoo](/en/post/zoo/)" [means](/en/post/means/) [to](/en/post/to/) [visit](/en/post/visit/) [a](/en/post/a/) [zoo](/en/post/zoo/) [for](/en/post/for/) [leisure](/en/post/leisure/) [or](/en/post/or/) educational purposes.
-- "[A](/en/post/a/) zookeeper's [job](/en/post/job/) is [to](/en/post/to/) [maintain](/en/post/maintain/) [the](/en/post/the/) [zoo](/en/post/zoo/)" highlights [their](/en/post/their/) responsibilities.
-- "Endangered species [at](/en/post/at/) [the](/en/post/the/) [zoo](/en/post/zoo/)" refers [to](/en/post/to/) protected animals [in](/en/post/in/) captivity.
+- "[Take](/post/take/) [a](/post/a/) [trip](/post/trip/) [to](/post/to/) [the](/post/the/) [zoo](/post/zoo/)" [means](/post/means/) [to](/post/to/) [visit](/post/visit/) [a](/post/a/) [zoo](/post/zoo/) [for](/post/for/) [leisure](/post/leisure/) [or](/post/or/) educational purposes.
+- "[A](/post/a/) zookeeper's [job](/post/job/) is [to](/post/to/) [maintain](/post/maintain/) [the](/post/the/) [zoo](/post/zoo/)" highlights [their](/post/their/) responsibilities.
+- "Endangered species [at](/post/at/) [the](/post/the/) [zoo](/post/zoo/)" refers [to](/post/to/) protected animals [in](/post/in/) captivity.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [zoo](/en/post/zoo/) was bustling [with](/en/post/with/) visitors, enjoying [the](/en/post/the/) [various](/en/post/various/) [animal](/en/post/animal/) exhibits."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) [baby](/en/post/baby/) [panda](/en/post/panda/) was [being](/en/post/being/) introduced [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/) [at](/en/post/at/) [the](/en/post/the/) [zoo](/en/post/zoo/) [today](/en/post/today/)."
-- **Informal**: "[After](/en/post/after/) [work](/en/post/work/), [we](/en/post/we/) headed [to](/en/post/to/) [the](/en/post/the/) [zoo](/en/post/zoo/) [for](/en/post/for/) [a](/en/post/a/) relaxed hangout."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [zoo](/post/zoo/) was bustling [with](/post/with/) visitors, enjoying [the](/post/the/) [various](/post/various/) [animal](/post/animal/) exhibits."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) [baby](/post/baby/) [panda](/post/panda/) was [being](/post/being/) introduced [to](/post/to/) [the](/post/the/) [public](/post/public/) [at](/post/at/) [the](/post/the/) [zoo](/post/zoo/) [today](/post/today/)."
+- **Informal**: "[After](/post/after/) [work](/post/work/), [we](/post/we/) headed [to](/post/to/) [the](/post/the/) [zoo](/post/zoo/) [for](/post/for/) [a](/post/a/) relaxed hangout."
 
 ## Synonyms
 - Wildlife sanctuary
-- [Animal](/en/post/animal/) [park](/en/post/park/)
+- [Animal](/post/animal/) [park](/post/park/)
 - Menagerie
-- Wildlife [refuge](/en/post/refuge/)
-- [Exhibit](/en/post/exhibit/)
+- Wildlife [refuge](/post/refuge/)
+- [Exhibit](/post/exhibit/)
 
 ## Antonyms
-- [Wild](/en/post/wild/) ([in](/en/post/in/) [the](/en/post/the/) [natural](/en/post/natural/) [environment](/en/post/environment/))
-- Captivity ([the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) confined)
+- [Wild](/post/wild/) ([in](/post/in/) [the](/post/the/) [natural](/post/natural/) [environment](/post/environment/))
+- Captivity ([the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) confined)

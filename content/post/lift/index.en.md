@@ -7,31 +7,31 @@ description = '[lift] vt.提起，提高 n.电梯'
 keywords = ['ai words', 'lift']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lɪft/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [device](/en/post/device/) [for](/en/post/for/) raising [or](/en/post/or/) lowering [people](/en/post/people/) [or](/en/post/or/) objects [to](/en/post/to/) [different](/en/post/different/) levels, typically consisting [of](/en/post/of/) [a](/en/post/a/) [platform](/en/post/platform/) [or](/en/post/or/) compartment [that](/en/post/that/) moves vertically [in](/en/post/in/) [a](/en/post/a/) shaft. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) took [the](/en/post/the/) [lift](/en/post/lift/) [to](/en/post/to/) [the](/en/post/the/) [top](/en/post/top/) [floor](/en/post/floor/)."
-- **[Verb](/en/post/verb/)**:
-  - **Transitive [Verb](/en/post/verb/)**: [To](/en/post/to/) [raise](/en/post/raise/) [or](/en/post/or/) [move](/en/post/move/) [something](/en/post/something/) [upwards](/en/post/upwards/) using [physical](/en/post/physical/) [force](/en/post/force/) [or](/en/post/or/) [mechanical](/en/post/mechanical/) [means](/en/post/means/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) lifted [the](/en/post/the/) [heavy](/en/post/heavy/) [box](/en/post/box/) [onto](/en/post/onto/) [the](/en/post/the/) [shelf](/en/post/shelf/)."
-  - **Intransitive [Verb](/en/post/verb/)**: [To](/en/post/to/) [rise](/en/post/rise/) [or](/en/post/or/) [move](/en/post/move/) [upwards](/en/post/upwards/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [hot](/en/post/hot/) [air](/en/post/air/) [balloon](/en/post/balloon/) began [to](/en/post/to/) [lift](/en/post/lift/) [off](/en/post/off/) [the](/en/post/the/) [ground](/en/post/ground/)."
-  - **Informal [Verb](/en/post/verb/)**: [To](/en/post/to/) [improve](/en/post/improve/) [or](/en/post/or/) enhance [something](/en/post/something/); [to](/en/post/to/) [make](/en/post/make/) [better](/en/post/better/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) renovation has [really](/en/post/really/) lifted [the](/en/post/the/) [look](/en/post/look/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [device](/post/device/) [for](/post/for/) raising [or](/post/or/) lowering [people](/post/people/) [or](/post/or/) objects [to](/post/to/) [different](/post/different/) levels, typically consisting [of](/post/of/) [a](/post/a/) [platform](/post/platform/) [or](/post/or/) compartment [that](/post/that/) moves vertically [in](/post/in/) [a](/post/a/) shaft. [For](/post/for/) [example](/post/example/): "[They](/post/they/) took [the](/post/the/) [lift](/post/lift/) [to](/post/to/) [the](/post/the/) [top](/post/top/) [floor](/post/floor/)."
+- **[Verb](/post/verb/)**:
+  - **Transitive [Verb](/post/verb/)**: [To](/post/to/) [raise](/post/raise/) [or](/post/or/) [move](/post/move/) [something](/post/something/) [upwards](/post/upwards/) using [physical](/post/physical/) [force](/post/force/) [or](/post/or/) [mechanical](/post/mechanical/) [means](/post/means/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) lifted [the](/post/the/) [heavy](/post/heavy/) [box](/post/box/) [onto](/post/onto/) [the](/post/the/) [shelf](/post/shelf/)."
+  - **Intransitive [Verb](/post/verb/)**: [To](/post/to/) [rise](/post/rise/) [or](/post/or/) [move](/post/move/) [upwards](/post/upwards/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [hot](/post/hot/) [air](/post/air/) [balloon](/post/balloon/) began [to](/post/to/) [lift](/post/lift/) [off](/post/off/) [the](/post/the/) [ground](/post/ground/)."
+  - **Informal [Verb](/post/verb/)**: [To](/post/to/) [improve](/post/improve/) [or](/post/or/) enhance [something](/post/something/); [to](/post/to/) [make](/post/make/) [better](/post/better/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) renovation has [really](/post/really/) lifted [the](/post/the/) [look](/post/look/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
 
 ## Phrases
-- "[Give](/en/post/give/) [someone](/en/post/someone/) [a](/en/post/a/) [lift](/en/post/lift/)": [To](/en/post/to/) [offer](/en/post/offer/) [someone](/en/post/someone/) [a](/en/post/a/) [ride](/en/post/ride/) [in](/en/post/in/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), [especially](/en/post/especially/) [when](/en/post/when/) [they](/en/post/they/) are going [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [direction](/en/post/direction/). [For](/en/post/for/) [example](/en/post/example/): "[Can](/en/post/can/) [you](/en/post/you/) [give](/en/post/give/) [me](/en/post/me/) [a](/en/post/a/) [lift](/en/post/lift/) [to](/en/post/to/) [the](/en/post/the/) [station](/en/post/station/)?"
-- "[Lift](/en/post/lift/) one's spirits": [To](/en/post/to/) [make](/en/post/make/) [someone](/en/post/someone/) [feel](/en/post/feel/) happier [or](/en/post/or/) [more](/en/post/more/) [optimistic](/en/post/optimistic/). [For](/en/post/for/) [example](/en/post/example/): "Listening [to](/en/post/to/) [music](/en/post/music/) [always](/en/post/always/) lifts [my](/en/post/my/) spirits."
-- "[Lift](/en/post/lift/) weights": [To](/en/post/to/) [exercise](/en/post/exercise/) [with](/en/post/with/) weights [to](/en/post/to/) [build](/en/post/build/) [muscle](/en/post/muscle/) [strength](/en/post/strength/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) goes [to](/en/post/to/) [the](/en/post/the/) gym [every](/en/post/every/) [day](/en/post/day/) [to](/en/post/to/) [lift](/en/post/lift/) weights."
+- "[Give](/post/give/) [someone](/post/someone/) [a](/post/a/) [lift](/post/lift/)": [To](/post/to/) [offer](/post/offer/) [someone](/post/someone/) [a](/post/a/) [ride](/post/ride/) [in](/post/in/) [a](/post/a/) [vehicle](/post/vehicle/), [especially](/post/especially/) [when](/post/when/) [they](/post/they/) are going [in](/post/in/) [the](/post/the/) [same](/post/same/) [direction](/post/direction/). [For](/post/for/) [example](/post/example/): "[Can](/post/can/) [you](/post/you/) [give](/post/give/) [me](/post/me/) [a](/post/a/) [lift](/post/lift/) [to](/post/to/) [the](/post/the/) [station](/post/station/)?"
+- "[Lift](/post/lift/) one's spirits": [To](/post/to/) [make](/post/make/) [someone](/post/someone/) [feel](/post/feel/) happier [or](/post/or/) [more](/post/more/) [optimistic](/post/optimistic/). [For](/post/for/) [example](/post/example/): "Listening [to](/post/to/) [music](/post/music/) [always](/post/always/) lifts [my](/post/my/) spirits."
+- "[Lift](/post/lift/) weights": [To](/post/to/) [exercise](/post/exercise/) [with](/post/with/) weights [to](/post/to/) [build](/post/build/) [muscle](/post/muscle/) [strength](/post/strength/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) goes [to](/post/to/) [the](/post/the/) gym [every](/post/every/) [day](/post/day/) [to](/post/to/) [lift](/post/lift/) weights."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [maintenance](/en/post/maintenance/) [team](/en/post/team/) was called [to](/en/post/to/) [fix](/en/post/fix/) [the](/en/post/the/) [broken](/en/post/broken/) [lift](/en/post/lift/) [in](/en/post/in/) [the](/en/post/the/) [office](/en/post/office/) [building](/en/post/building/)."
-- **[Verb](/en/post/verb/) (Transitive)**: "[She](/en/post/she/) carefully lifted [the](/en/post/the/) fragile [vase](/en/post/vase/) [from](/en/post/from/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Verb](/en/post/verb/) (Intransitive)**: "[As](/en/post/as/) [the](/en/post/the/) [sun](/en/post/sun/) [rose](/en/post/rose/), [the](/en/post/the/) [mist](/en/post/mist/) [gradually](/en/post/gradually/) lifted [from](/en/post/from/) [the](/en/post/the/) [valley](/en/post/valley/)."
-- **[Verb](/en/post/verb/) (Informal)**: "[A](/en/post/a/) promotion [at](/en/post/at/) [work](/en/post/work/) [really](/en/post/really/) lifted [her](/en/post/her/) morale."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [maintenance](/post/maintenance/) [team](/post/team/) was called [to](/post/to/) [fix](/post/fix/) [the](/post/the/) [broken](/post/broken/) [lift](/post/lift/) [in](/post/in/) [the](/post/the/) [office](/post/office/) [building](/post/building/)."
+- **[Verb](/post/verb/) (Transitive)**: "[She](/post/she/) carefully lifted [the](/post/the/) fragile [vase](/post/vase/) [from](/post/from/) [the](/post/the/) [table](/post/table/)."
+- **[Verb](/post/verb/) (Intransitive)**: "[As](/post/as/) [the](/post/the/) [sun](/post/sun/) [rose](/post/rose/), [the](/post/the/) [mist](/post/mist/) [gradually](/post/gradually/) lifted [from](/post/from/) [the](/post/the/) [valley](/post/valley/)."
+- **[Verb](/post/verb/) (Informal)**: "[A](/post/a/) promotion [at](/post/at/) [work](/post/work/) [really](/post/really/) lifted [her](/post/her/) morale."
 
 ## Synonyms
-- [Elevator](/en/post/elevator/) ([noun](/en/post/noun/))
-- [Rise](/en/post/rise/) ([verb](/en/post/verb/))
-- Hoist ([verb](/en/post/verb/))
-- Boost ([verb](/en/post/verb/))
-- [Carry](/en/post/carry/) ([verb](/en/post/verb/), informal)
-- [Pick](/en/post/pick/) [up](/en/post/up/) ([verb](/en/post/verb/), informal)
+- [Elevator](/post/elevator/) ([noun](/post/noun/))
+- [Rise](/post/rise/) ([verb](/post/verb/))
+- Hoist ([verb](/post/verb/))
+- Boost ([verb](/post/verb/))
+- [Carry](/post/carry/) ([verb](/post/verb/), informal)
+- [Pick](/post/pick/) [up](/post/up/) ([verb](/post/verb/), informal)

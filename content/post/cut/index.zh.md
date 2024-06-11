@@ -12,31 +12,31 @@ keywords = ['ai words', 'cut']
 
 ## 释义
 - **动词**:
-1. 切割；割开：例如 "[He](/post/he/) [cut](/post/cut/) [the](/post/the/) [paper](/post/paper/) [with](/post/with/) [scissors](/post/scissors/)." 
-2. 削减；减少：例如 "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [cut](/post/cut/) costs [by](/post/by/) laying [off](/post/off/) employees."
-3. 停止；中断：例如 "[The](/post/the/) [performance](/post/performance/) was [cut](/post/cut/) [short](/post/short/) [due](/post/due/) [to](/post/to/) [rain](/post/rain/)."
+1. 切割；割开：例如 "[He](/zh/post/he/) [cut](/zh/post/cut/) [the](/zh/post/the/) [paper](/zh/post/paper/) [with](/zh/post/with/) [scissors](/zh/post/scissors/)." 
+2. 削减；减少：例如 "[The](/zh/post/the/) [company](/zh/post/company/) decided [to](/zh/post/to/) [cut](/zh/post/cut/) costs [by](/zh/post/by/) laying [off](/zh/post/off/) employees."
+3. 停止；中断：例如 "[The](/zh/post/the/) [performance](/zh/post/performance/) was [cut](/zh/post/cut/) [short](/zh/post/short/) [due](/zh/post/due/) [to](/zh/post/to/) [rain](/zh/post/rain/)."
 
 - **名词**:
-1. 切口；割伤：例如 "[She](/post/she/) has [a](/post/a/) [small](/post/small/) [cut](/post/cut/) [on](/post/on/) [her](/post/her/) [finger](/post/finger/)."
-2. （电影、视频的）剪辑：例如 "[The](/post/the/) [editor](/post/editor/) made [some](/post/some/) crucial cuts [to](/post/to/) [the](/post/the/) [film](/post/film/)."
-3. 份额；分成：例如 "[He](/post/he/) gets [a](/post/a/) 10% [cut](/post/cut/) [of](/post/of/) [the](/post/the/) profits."
+1. 切口；割伤：例如 "[She](/zh/post/she/) has [a](/zh/post/a/) [small](/zh/post/small/) [cut](/zh/post/cut/) [on](/zh/post/on/) [her](/zh/post/her/) [finger](/zh/post/finger/)."
+2. （电影、视频的）剪辑：例如 "[The](/zh/post/the/) [editor](/zh/post/editor/) made [some](/zh/post/some/) crucial cuts [to](/zh/post/to/) [the](/zh/post/the/) [film](/zh/post/film/)."
+3. 份额；分成：例如 "[He](/zh/post/he/) gets [a](/zh/post/a/) 10% [cut](/zh/post/cut/) [of](/zh/post/of/) [the](/zh/post/the/) profits."
 
 - **名词（口语）**:
-1. 版本；款式：例如 "[This](/post/this/) [dress](/post/dress/) is [available](/post/available/) [in](/post/in/) [different](/post/different/) cuts."
+1. 版本；款式：例如 "[This](/zh/post/this/) [dress](/zh/post/dress/) is [available](/zh/post/available/) [in](/zh/post/in/) [different](/zh/post/different/) cuts."
 
 ## 短语
-- "[Cut](/post/cut/) [it](/post/it/) [out](/post/out/)" 意为停止做某事，通常带有不耐烦的语气：例如 "[Cut](/post/cut/) [it](/post/it/) [out](/post/out/), I'm trying [to](/post/to/) [concentrate](/post/concentrate/)!"
-- "[Make](/post/make/) [a](/post/a/) [cut](/post/cut/)" 指进行切割动作：例如 "Let's [make](/post/make/) [a](/post/a/) [cut](/post/cut/) [along](/post/along/) [this](/post/this/) [line](/post/line/)."
-- "[On](/post/on/) [the](/post/the/) cutting [edge](/post/edge/)" 指处于最前沿或最新状态：例如 "[Our](/post/our/) [technology](/post/technology/) is [always](/post/always/) [on](/post/on/) [the](/post/the/) cutting [edge](/post/edge/)."
+- "[Cut](/zh/post/cut/) [it](/zh/post/it/) [out](/zh/post/out/)" 意为停止做某事，通常带有不耐烦的语气：例如 "[Cut](/zh/post/cut/) [it](/zh/post/it/) [out](/zh/post/out/), I'm trying [to](/zh/post/to/) [concentrate](/zh/post/concentrate/)!"
+- "[Make](/zh/post/make/) [a](/zh/post/a/) [cut](/zh/post/cut/)" 指进行切割动作：例如 "Let's [make](/zh/post/make/) [a](/zh/post/a/) [cut](/zh/post/cut/) [along](/zh/post/along/) [this](/zh/post/this/) [line](/zh/post/line/)."
+- "[On](/zh/post/on/) [the](/zh/post/the/) cutting [edge](/zh/post/edge/)" 指处于最前沿或最新状态：例如 "[Our](/zh/post/our/) [technology](/zh/post/technology/) is [always](/zh/post/always/) [on](/zh/post/on/) [the](/zh/post/the/) cutting [edge](/zh/post/edge/)."
 
 ## 例句
-- 动词: "[Please](/post/please/) [be](/post/be/) [careful](/post/careful/) [when](/post/when/) [you](/post/you/) [cut](/post/cut/) [the](/post/the/) [cake](/post/cake/)."
-- 名词: "[The](/post/the/) [cut](/post/cut/) [on](/post/on/) [his](/post/his/) [arm](/post/arm/) required stitches."
-- 口语名词: "[This](/post/this/) [new](/post/new/) [car](/post/car/) [model](/post/model/) has [a](/post/a/) sporty [cut](/post/cut/)."
+- 动词: "[Please](/zh/post/please/) [be](/zh/post/be/) [careful](/zh/post/careful/) [when](/zh/post/when/) [you](/zh/post/you/) [cut](/zh/post/cut/) [the](/zh/post/the/) [cake](/zh/post/cake/)."
+- 名词: "[The](/zh/post/the/) [cut](/zh/post/cut/) [on](/zh/post/on/) [his](/zh/post/his/) [arm](/zh/post/arm/) required stitches."
+- 口语名词: "[This](/zh/post/this/) [new](/zh/post/new/) [car](/zh/post/car/) [model](/zh/post/model/) has [a](/zh/post/a/) sporty [cut](/zh/post/cut/)."
 
 ## 同义词
-- [Slice](/post/slice/)
-- [Chop](/post/chop/)
-- [Trim](/post/trim/)
-- [Reduce](/post/reduce/)
+- [Slice](/zh/post/slice/)
+- [Chop](/zh/post/chop/)
+- [Trim](/zh/post/trim/)
+- [Reduce](/zh/post/reduce/)
 - Sever

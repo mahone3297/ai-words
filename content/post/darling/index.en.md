@@ -7,33 +7,33 @@ description = '[ˈdɑːliŋ] n.亲爱的人；宠儿'
 keywords = ['ai words', 'darling']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɑːrliŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [term](/en/post/term/) [of](/en/post/of/) endearment [or](/en/post/or/) [affection](/en/post/affection/), [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [address](/en/post/address/) [a](/en/post/a/) loved [one](/en/post/one/). "[She](/en/post/she/) called [him](/en/post/him/) [her](/en/post/her/) [darling](/en/post/darling/) [son](/en/post/son/)." 2. [A](/en/post/a/) [pet](/en/post/pet/) [name](/en/post/name/), [especially](/en/post/especially/) [for](/en/post/for/) [someone](/en/post/someone/) [dear](/en/post/dear/) [or](/en/post/or/) [special](/en/post/special/). "[He](/en/post/he/) was [her](/en/post/her/) [constant](/en/post/constant/) [darling](/en/post/darling/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/) [with](/en/post/with/) [great](/en/post/great/) [affection](/en/post/affection/) [or](/en/post/or/) fondness. "[She](/en/post/she/) [always](/en/post/always/) calls [her](/en/post/her/) [partner](/en/post/partner/) [her](/en/post/her/) [darling](/en/post/darling/)."
-- **[Adjective](/en/post/adjective/)**: 1. Adored [or](/en/post/or/) [beloved](/en/post/beloved/); cherished. "[He](/en/post/he/) is [the](/en/post/the/) [apple](/en/post/apple/) [of](/en/post/of/) [her](/en/post/her/) [eye](/en/post/eye/), [her](/en/post/her/) [little](/en/post/little/) [darling](/en/post/darling/)." 2. Amusingly [or](/en/post/or/) playfully [charming](/en/post/charming/). "[The](/en/post/the/) baby's antics were [just](/en/post/just/) [darling](/en/post/darling/)."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [term](/post/term/) [of](/post/of/) endearment [or](/post/or/) [affection](/post/affection/), [often](/post/often/) [used](/post/used/) [to](/post/to/) [address](/post/address/) [a](/post/a/) loved [one](/post/one/). "[She](/post/she/) called [him](/post/him/) [her](/post/her/) [darling](/post/darling/) [son](/post/son/)." 2. [A](/post/a/) [pet](/post/pet/) [name](/post/name/), [especially](/post/especially/) [for](/post/for/) [someone](/post/someone/) [dear](/post/dear/) [or](/post/or/) [special](/post/special/). "[He](/post/he/) was [her](/post/her/) [constant](/post/constant/) [darling](/post/darling/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [refer](/post/refer/) [to](/post/to/) [someone](/post/someone/) [with](/post/with/) [great](/post/great/) [affection](/post/affection/) [or](/post/or/) fondness. "[She](/post/she/) [always](/post/always/) calls [her](/post/her/) [partner](/post/partner/) [her](/post/her/) [darling](/post/darling/)."
+- **[Adjective](/post/adjective/)**: 1. Adored [or](/post/or/) [beloved](/post/beloved/); cherished. "[He](/post/he/) is [the](/post/the/) [apple](/post/apple/) [of](/post/of/) [her](/post/her/) [eye](/post/eye/), [her](/post/her/) [little](/post/little/) [darling](/post/darling/)." 2. Amusingly [or](/post/or/) playfully [charming](/post/charming/). "[The](/post/the/) baby's antics were [just](/post/just/) [darling](/post/darling/)."
 
 ## Phrases
-- "[Call](/en/post/call/) [someone](/en/post/someone/) [darling](/en/post/darling/)" [to](/en/post/to/) [express](/en/post/express/) [affection](/en/post/affection/) [or](/en/post/or/) admiration.
-- "[Darling](/en/post/darling/) [this](/en/post/this/)" [or](/en/post/or/) "[darling](/en/post/darling/) [that](/en/post/that/)" [to](/en/post/to/) [show](/en/post/show/) tenderness [or](/en/post/or/) fondness [when](/en/post/when/) addressing [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [object](/en/post/object/).
-- "[Be](/en/post/be/) [a](/en/post/a/) [darling](/en/post/darling/)" [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [request](/en/post/request/) [for](/en/post/for/) cooperation [or](/en/post/or/) politeness.
+- "[Call](/post/call/) [someone](/post/someone/) [darling](/post/darling/)" [to](/post/to/) [express](/post/express/) [affection](/post/affection/) [or](/post/or/) admiration.
+- "[Darling](/post/darling/) [this](/post/this/)" [or](/post/or/) "[darling](/post/darling/) [that](/post/that/)" [to](/post/to/) [show](/post/show/) tenderness [or](/post/or/) fondness [when](/post/when/) addressing [a](/post/a/) [task](/post/task/) [or](/post/or/) [object](/post/object/).
+- "[Be](/post/be/) [a](/post/a/) [darling](/post/darling/)" [can](/post/can/) [be](/post/be/) [a](/post/a/) [request](/post/request/) [for](/post/for/) cooperation [or](/post/or/) politeness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) was [so](/en/post/so/) surprised [when](/en/post/when/) [his](/en/post/his/) [wife](/en/post/wife/) greeted [him](/en/post/him/) [as](/en/post/as/) [her](/en/post/her/) [darling](/en/post/darling/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [always](/en/post/always/) tells [her](/en/post/her/) friends [to](/en/post/to/) [be](/en/post/be/) darlings [and](/en/post/and/) [take](/en/post/take/) [care](/en/post/care/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [little](/en/post/little/) girl's [dress](/en/post/dress/) was [just](/en/post/just/) [darling](/en/post/darling/) [for](/en/post/for/) [the](/en/post/the/) [wedding](/en/post/wedding/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) was [so](/post/so/) surprised [when](/post/when/) [his](/post/his/) [wife](/post/wife/) greeted [him](/post/him/) [as](/post/as/) [her](/post/her/) [darling](/post/darling/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) [always](/post/always/) tells [her](/post/her/) friends [to](/post/to/) [be](/post/be/) darlings [and](/post/and/) [take](/post/take/) [care](/post/care/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [little](/post/little/) girl's [dress](/post/dress/) was [just](/post/just/) [darling](/post/darling/) [for](/post/for/) [the](/post/the/) [wedding](/post/wedding/)."
 
 ## Synonyms
-- [Honey](/en/post/honey/)
+- [Honey](/post/honey/)
 - Sweetheart
-- [Treasure](/en/post/treasure/)
-- [Love](/en/post/love/)
+- [Treasure](/post/treasure/)
+- [Love](/post/love/)
 - Cutie
 
 ## Antonyms
 - Strife
-- [Dislike](/en/post/dislike/)
-- [Enemy](/en/post/enemy/)
-- Heartache ([in](/en/post/in/) [a](/en/post/a/) [negative](/en/post/negative/) context)
+- [Dislike](/post/dislike/)
+- [Enemy](/post/enemy/)
+- Heartache ([in](/post/in/) [a](/post/a/) [negative](/post/negative/) context)

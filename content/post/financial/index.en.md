@@ -7,31 +7,31 @@ description = '[faiˈnæn∫əl] a.财政的，金融的'
 keywords = ['ai words', 'financial']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌfaɪˌnænʃəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [finance](/en/post/finance/) [or](/en/post/or/) [financial](/en/post/financial/) matters; pertaining [to](/en/post/to/) [the](/en/post/the/) [management](/en/post/management/) [of](/en/post/of/) [money](/en/post/money/), [especially](/en/post/especially/) [on](/en/post/on/) [a](/en/post/a/) [large](/en/post/large/) [scale](/en/post/scale/) [or](/en/post/or/) [for](/en/post/for/) governments, businesses, [or](/en/post/or/) organizations. [For](/en/post/for/) [example](/en/post/example/): "[Financial](/en/post/financial/) [stability](/en/post/stability/) is crucial [for](/en/post/for/) [economic](/en/post/economic/) [growth](/en/post/growth/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [finance](/post/finance/) [or](/post/or/) [financial](/post/financial/) matters; pertaining [to](/post/to/) [the](/post/the/) [management](/post/management/) [of](/post/of/) [money](/post/money/), [especially](/post/especially/) [on](/post/on/) [a](/post/a/) [large](/post/large/) [scale](/post/scale/) [or](/post/or/) [for](/post/for/) governments, businesses, [or](/post/or/) organizations. [For](/post/for/) [example](/post/example/): "[Financial](/post/financial/) [stability](/post/stability/) is crucial [for](/post/for/) [economic](/post/economic/) [growth](/post/growth/)."
   
-  > "[The](/en/post/the/) company's [financial](/en/post/financial/) [performance](/en/post/performance/) was [outstanding](/en/post/outstanding/) [last](/en/post/last/) [year](/en/post/year/)."
+  > "[The](/post/the/) company's [financial](/post/financial/) [performance](/post/performance/) was [outstanding](/post/outstanding/) [last](/post/last/) [year](/post/year/)."
   > 
-  > "[She](/en/post/she/) holds [a](/en/post/a/) [position](/en/post/position/) [of](/en/post/of/) [responsibility](/en/post/responsibility/) [in](/en/post/in/) [the](/en/post/the/) [financial](/en/post/financial/) [department](/en/post/department/)."
+  > "[She](/post/she/) holds [a](/post/a/) [position](/post/position/) [of](/post/of/) [responsibility](/post/responsibility/) [in](/post/in/) [the](/post/the/) [financial](/post/financial/) [department](/post/department/)."
 
 ## Phrases
-- "[Financial](/en/post/financial/) [statement](/en/post/statement/)": [A](/en/post/a/) [formal](/en/post/formal/) [record](/en/post/record/) [of](/en/post/of/) [the](/en/post/the/) [financial](/en/post/financial/) activities [and](/en/post/and/) [position](/en/post/position/) [of](/en/post/of/) [a](/en/post/a/) [business](/en/post/business/), [person](/en/post/person/), [or](/en/post/or/) [other](/en/post/other/) entity [over](/en/post/over/) [a](/en/post/a/) given [period](/en/post/period/).
-- "[Financial](/en/post/financial/) advisor": [A](/en/post/a/) [professional](/en/post/professional/) [who](/en/post/who/) gives [guidance](/en/post/guidance/) [on](/en/post/on/) [financial](/en/post/financial/) matters, investments, [tax](/en/post/tax/) planning, [and](/en/post/and/) retirement planning.
-- "[Financial](/en/post/financial/) planning": [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [setting](/en/post/setting/) [financial](/en/post/financial/) goals [and](/en/post/and/) creating [a](/en/post/a/) [strategy](/en/post/strategy/) [to](/en/post/to/) [achieve](/en/post/achieve/) [them](/en/post/them/).
-- "[Financial](/en/post/financial/) [risk](/en/post/risk/)": [The](/en/post/the/) [potential](/en/post/potential/) [loss](/en/post/loss/) [that](/en/post/that/) [may](/en/post/may/) [occur](/en/post/occur/) [due](/en/post/due/) [to](/en/post/to/) [financial](/en/post/financial/) transactions [or](/en/post/or/) unforeseen circumstances.
+- "[Financial](/post/financial/) [statement](/post/statement/)": [A](/post/a/) [formal](/post/formal/) [record](/post/record/) [of](/post/of/) [the](/post/the/) [financial](/post/financial/) activities [and](/post/and/) [position](/post/position/) [of](/post/of/) [a](/post/a/) [business](/post/business/), [person](/post/person/), [or](/post/or/) [other](/post/other/) entity [over](/post/over/) [a](/post/a/) given [period](/post/period/).
+- "[Financial](/post/financial/) advisor": [A](/post/a/) [professional](/post/professional/) [who](/post/who/) gives [guidance](/post/guidance/) [on](/post/on/) [financial](/post/financial/) matters, investments, [tax](/post/tax/) planning, [and](/post/and/) retirement planning.
+- "[Financial](/post/financial/) planning": [The](/post/the/) [process](/post/process/) [of](/post/of/) [setting](/post/setting/) [financial](/post/financial/) goals [and](/post/and/) creating [a](/post/a/) [strategy](/post/strategy/) [to](/post/to/) [achieve](/post/achieve/) [them](/post/them/).
+- "[Financial](/post/financial/) [risk](/post/risk/)": [The](/post/the/) [potential](/post/potential/) [loss](/post/loss/) [that](/post/that/) [may](/post/may/) [occur](/post/occur/) [due](/post/due/) [to](/post/to/) [financial](/post/financial/) transactions [or](/post/or/) unforeseen circumstances.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "They're seeking [financial](/en/post/financial/) assistance [from](/en/post/from/) [the](/en/post/the/) [bank](/en/post/bank/) [to](/en/post/to/) [expand](/en/post/expand/) [their](/en/post/their/) [business](/en/post/business/)."
-- "[A](/en/post/a/) [sound](/en/post/sound/) [financial](/en/post/financial/) [strategy](/en/post/strategy/) is [essential](/en/post/essential/) [for](/en/post/for/) long-term [wealth](/en/post/wealth/) accumulation."
-- "[The](/en/post/the/) [project](/en/post/project/) faced [significant](/en/post/significant/) [financial](/en/post/financial/) constraints [due](/en/post/due/) [to](/en/post/to/) budget cuts."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "They're seeking [financial](/post/financial/) assistance [from](/post/from/) [the](/post/the/) [bank](/post/bank/) [to](/post/to/) [expand](/post/expand/) [their](/post/their/) [business](/post/business/)."
+- "[A](/post/a/) [sound](/post/sound/) [financial](/post/financial/) [strategy](/post/strategy/) is [essential](/post/essential/) [for](/post/for/) long-term [wealth](/post/wealth/) accumulation."
+- "[The](/post/the/) [project](/post/project/) faced [significant](/post/significant/) [financial](/post/financial/) constraints [due](/post/due/) [to](/post/to/) budget cuts."
 
 ## Synonyms
 - Monetary
 - Fiscal
-- [Economic](/en/post/economic/)
+- [Economic](/post/economic/)
 - pecuniary
 - Budgetary
-- Financially ([adverb](/en/post/adverb/))
+- Financially ([adverb](/post/adverb/))

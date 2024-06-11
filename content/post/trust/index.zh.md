@@ -12,26 +12,26 @@ keywords = ['ai words', 'trust']
 
 ## 释义
 - **名词**:
-  - 信任；信赖：例如 "[She](/post/she/) has [a](/post/a/) [deep](/post/deep/) [trust](/post/trust/) [in](/post/in/) [her](/post/her/) friends."
-  - 信心；信念：例如 "[He](/post/he/) acted [with](/post/with/) [great](/post/great/) [trust](/post/trust/) [in](/post/in/) [his](/post/his/) abilities."
-  - 可信赖的人或事物：例如 "[Her](/post/her/) parents are [her](/post/her/) [rock](/post/rock/) [of](/post/of/) [trust](/post/trust/)."
-  - （法律上的）信托；受托管理的财产：例如 "[A](/post/a/) [trust](/post/trust/) [fund](/post/fund/) was [set](/post/set/) [up](/post/up/) [for](/post/for/) [the](/post/the/) child's [education](/post/education/)."
+  - 信任；信赖：例如 "[She](/zh/post/she/) has [a](/zh/post/a/) [deep](/zh/post/deep/) [trust](/zh/post/trust/) [in](/zh/post/in/) [her](/zh/post/her/) friends."
+  - 信心；信念：例如 "[He](/zh/post/he/) acted [with](/zh/post/with/) [great](/zh/post/great/) [trust](/zh/post/trust/) [in](/zh/post/in/) [his](/zh/post/his/) abilities."
+  - 可信赖的人或事物：例如 "[Her](/zh/post/her/) parents are [her](/zh/post/her/) [rock](/zh/post/rock/) [of](/zh/post/of/) [trust](/zh/post/trust/)."
+  - （法律上的）信托；受托管理的财产：例如 "[A](/zh/post/a/) [trust](/zh/post/trust/) [fund](/zh/post/fund/) was [set](/zh/post/set/) [up](/zh/post/up/) [for](/zh/post/for/) [the](/zh/post/the/) child's [education](/zh/post/education/)."
 
 - **动词**:
-  - 信赖；相信：例如 "I [trust](/post/trust/) [that](/post/that/) [he](/post/he/) [will](/post/will/) [do](/post/do/) [the](/post/the/) [right](/post/right/) [thing](/post/thing/)."
-  - 委托；托付：例如 "[She](/post/she/) trusted [him](/post/him/) [with](/post/with/) [her](/post/her/) [secret](/post/secret/)."
+  - 信赖；相信：例如 "I [trust](/zh/post/trust/) [that](/zh/post/that/) [he](/zh/post/he/) [will](/zh/post/will/) [do](/zh/post/do/) [the](/zh/post/the/) [right](/zh/post/right/) [thing](/zh/post/thing/)."
+  - 委托；托付：例如 "[She](/zh/post/she/) trusted [him](/zh/post/him/) [with](/zh/post/with/) [her](/zh/post/her/) [secret](/zh/post/secret/)."
 
 ## 短语
-- "[In](/post/in/) [trust](/post/trust/)" 表示某物被托管或以信托方式持有。
-- "[Trust](/post/trust/) [someone](/post/someone/) [with](/post/with/) [something](/post/something/)" 意味着将某事交给某人处理或保管。
+- "[In](/zh/post/in/) [trust](/zh/post/trust/)" 表示某物被托管或以信托方式持有。
+- "[Trust](/zh/post/trust/) [someone](/zh/post/someone/) [with](/zh/post/with/) [something](/zh/post/something/)" 意味着将某事交给某人处理或保管。
 
 ## 例句
-- 名词: "[Building](/post/building/) [trust](/post/trust/) takes [time](/post/time/) [in](/post/in/) [any](/post/any/) [relationship](/post/relationship/)."
-- 动词: "[She](/post/she/) trusts [him](/post/him/) [completely](/post/completely/), knowing he'll [always](/post/always/) [be](/post/be/) [honest](/post/honest/)."
+- 名词: "[Building](/zh/post/building/) [trust](/zh/post/trust/) takes [time](/zh/post/time/) [in](/zh/post/in/) [any](/zh/post/any/) [relationship](/zh/post/relationship/)."
+- 动词: "[She](/zh/post/she/) trusts [him](/zh/post/him/) [completely](/zh/post/completely/), knowing he'll [always](/zh/post/always/) [be](/zh/post/be/) [honest](/zh/post/honest/)."
 
 ## 同义词
-- [Believe](/post/believe/)
-- [Rely](/post/rely/) [on](/post/on/)
-- [Have](/post/have/) [faith](/post/faith/) [in](/post/in/)
-- [Depend](/post/depend/) [on](/post/on/)
-- [Count](/post/count/) [on](/post/on/)
+- [Believe](/zh/post/believe/)
+- [Rely](/zh/post/rely/) [on](/zh/post/on/)
+- [Have](/zh/post/have/) [faith](/zh/post/faith/) [in](/zh/post/in/)
+- [Depend](/zh/post/depend/) [on](/zh/post/on/)
+- [Count](/zh/post/count/) [on](/zh/post/on/)

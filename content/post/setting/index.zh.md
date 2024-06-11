@@ -12,28 +12,28 @@ keywords = ['ai words', 'setting']
 
 ## 释义
 - **名词**: 
-    - 1. 设定，设置：[the](/post/the/) [arrangement](/post/arrangement/) [or](/post/or/) placement [of](/post/of/) objects [or](/post/or/) elements [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [environment](/post/environment/) [or](/post/or/) [space](/post/space/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [table](/post/table/) [setting](/post/setting/) [for](/post/for/) [a](/post/a/) [meal](/post/meal/).
-    - 2. 情境，背景：[the](/post/the/) context [or](/post/or/) circumstances [in](/post/in/) [which](/post/which/) [something](/post/something/) occurs, [like](/post/like/) [the](/post/the/) [setting](/post/setting/) [of](/post/of/) [a](/post/a/) [story](/post/story/) [or](/post/or/) [a](/post/a/) [scene](/post/scene/) [in](/post/in/) [a](/post/a/) [play](/post/play/).
-    - 3. (时间或地点)环境：[the](/post/the/) [time](/post/time/) [and](/post/and/) [place](/post/place/) [in](/post/in/) [which](/post/which/) [a](/post/a/) [story](/post/story/), [event](/post/event/), [or](/post/or/) [situation](/post/situation/) takes [place](/post/place/).
-    - 4. (电子设备的)设定选项：[the](/post/the/) options [or](/post/or/) adjustments made [on](/post/on/) [a](/post/a/) [device](/post/device/) [or](/post/or/) software.
+    - 1. 设定，设置：[the](/zh/post/the/) [arrangement](/zh/post/arrangement/) [or](/zh/post/or/) placement [of](/zh/post/of/) objects [or](/zh/post/or/) elements [in](/zh/post/in/) [a](/zh/post/a/) [particular](/zh/post/particular/) [environment](/zh/post/environment/) [or](/zh/post/or/) [space](/zh/post/space/), [such](/zh/post/such/) [as](/zh/post/as/) [a](/zh/post/a/) [table](/zh/post/table/) [setting](/zh/post/setting/) [for](/zh/post/for/) [a](/zh/post/a/) [meal](/zh/post/meal/).
+    - 2. 情境，背景：[the](/zh/post/the/) context [or](/zh/post/or/) circumstances [in](/zh/post/in/) [which](/zh/post/which/) [something](/zh/post/something/) occurs, [like](/zh/post/like/) [the](/zh/post/the/) [setting](/zh/post/setting/) [of](/zh/post/of/) [a](/zh/post/a/) [story](/zh/post/story/) [or](/zh/post/or/) [a](/zh/post/a/) [scene](/zh/post/scene/) [in](/zh/post/in/) [a](/zh/post/a/) [play](/zh/post/play/).
+    - 3. (时间或地点)环境：[the](/zh/post/the/) [time](/zh/post/time/) [and](/zh/post/and/) [place](/zh/post/place/) [in](/zh/post/in/) [which](/zh/post/which/) [a](/zh/post/a/) [story](/zh/post/story/), [event](/zh/post/event/), [or](/zh/post/or/) [situation](/zh/post/situation/) takes [place](/zh/post/place/).
+    - 4. (电子设备的)设定选项：[the](/zh/post/the/) options [or](/zh/post/or/) adjustments made [on](/zh/post/on/) [a](/zh/post/a/) [device](/zh/post/device/) [or](/zh/post/or/) software.
 
 - **动词**:
-    - 1. 安置，摆放：[to](/post/to/) [put](/post/put/) [or](/post/or/) [arrange](/post/arrange/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [position](/post/position/) [or](/post/or/) [location](/post/location/).
-    - 2. 设置（时间、日期等）：[to](/post/to/) [establish](/post/establish/) [or](/post/or/) [fix](/post/fix/) [a](/post/a/) [time](/post/time/), [date](/post/date/), [or](/post/or/) [other](/post/other/) parameter.
+    - 1. 安置，摆放：[to](/zh/post/to/) [put](/zh/post/put/) [or](/zh/post/or/) [arrange](/zh/post/arrange/) [something](/zh/post/something/) [in](/zh/post/in/) [a](/zh/post/a/) [particular](/zh/post/particular/) [position](/zh/post/position/) [or](/zh/post/or/) [location](/zh/post/location/).
+    - 2. 设置（时间、日期等）：[to](/zh/post/to/) [establish](/zh/post/establish/) [or](/zh/post/or/) [fix](/zh/post/fix/) [a](/zh/post/a/) [time](/zh/post/time/), [date](/zh/post/date/), [or](/zh/post/or/) [other](/zh/post/other/) parameter.
 
 ## 短语
-- "[Set](/post/set/) [the](/post/the/) [table](/post/table/)" 意为摆放餐桌。
-- "[Setting](/post/setting/) [sun](/post/sun/)" 指落日。
+- "[Set](/zh/post/set/) [the](/zh/post/the/) [table](/zh/post/table/)" 意为摆放餐桌。
+- "[Setting](/zh/post/setting/) [sun](/zh/post/sun/)" 指落日。
 - "Software settings" 指软件的配置或设置。
 
 ## 例句
-- 名词: "[The](/post/the/) [romantic](/post/romantic/) [setting](/post/setting/) [by](/post/by/) [the](/post/the/) candlelight made [the](/post/the/) [dinner](/post/dinner/) [even](/post/even/) [more](/post/more/) [special](/post/special/)."
-- 动词: "[She](/post/she/) [set](/post/set/) [the](/post/the/) [alarm](/post/alarm/) [clock](/post/clock/) [for](/post/for/) 6 am."
-- 环境: "[The](/post/the/) [story](/post/story/) is [set](/post/set/) [in](/post/in/) [a](/post/a/) [small](/post/small/) [village](/post/village/) [in](/post/in/) [the](/post/the/) 1950s."
+- 名词: "[The](/zh/post/the/) [romantic](/zh/post/romantic/) [setting](/zh/post/setting/) [by](/zh/post/by/) [the](/zh/post/the/) candlelight made [the](/zh/post/the/) [dinner](/zh/post/dinner/) [even](/zh/post/even/) [more](/zh/post/more/) [special](/zh/post/special/)."
+- 动词: "[She](/zh/post/she/) [set](/zh/post/set/) [the](/zh/post/the/) [alarm](/zh/post/alarm/) [clock](/zh/post/clock/) [for](/zh/post/for/) 6 am."
+- 环境: "[The](/zh/post/the/) [story](/zh/post/story/) is [set](/zh/post/set/) [in](/zh/post/in/) [a](/zh/post/a/) [small](/zh/post/small/) [village](/zh/post/village/) [in](/zh/post/in/) [the](/zh/post/the/) 1950s."
 
 ## 同义词
-- [Arrangement](/post/arrangement/)
+- [Arrangement](/zh/post/arrangement/)
 - Context
-- [Environment](/post/environment/)
-- [Background](/post/background/)
-- [Scene](/post/scene/)
+- [Environment](/zh/post/environment/)
+- [Background](/zh/post/background/)
+- [Scene](/zh/post/scene/)

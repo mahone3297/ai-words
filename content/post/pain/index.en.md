@@ -7,45 +7,45 @@ description = '[pein] n.痛，疼痛；辛苦'
 keywords = ['ai words', 'pain']
 +++
 
-## [Word](/en/post/word/): [Pain](/en/post/pain/)
+## [Word](/post/word/): [Pain](/post/pain/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /peɪn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [unpleasant](/en/post/unpleasant/) [physical](/en/post/physical/) sensation caused [by](/en/post/by/) [illness](/en/post/illness/) [or](/en/post/or/) [injury](/en/post/injury/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) felt [a](/en/post/a/) [sharp](/en/post/sharp/) [pain](/en/post/pain/) [in](/en/post/in/) [her](/en/post/her/) [side](/en/post/side/) [after](/en/post/after/) [the](/en/post/the/) [fall](/en/post/fall/)."
-- **[Noun](/en/post/noun/) (figurative)**: [Emotional](/en/post/emotional/) [distress](/en/post/distress/) [or](/en/post/or/) suffering. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [loss](/en/post/loss/) [of](/en/post/of/) [his](/en/post/his/) [wife](/en/post/wife/) brought [him](/en/post/him/) [great](/en/post/great/) [pain](/en/post/pain/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cause](/en/post/cause/) [physical](/en/post/physical/) [or](/en/post/or/) [emotional](/en/post/emotional/) [distress](/en/post/distress/) [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [accident](/en/post/accident/) [left](/en/post/left/) [him](/en/post/him/) [badly](/en/post/badly/) pained [and](/en/post/and/) [unable](/en/post/unable/) [to](/en/post/to/) [walk](/en/post/walk/)."
-- **[Verb](/en/post/verb/) (archaic)**: [To](/en/post/to/) [feel](/en/post/feel/) [pain](/en/post/pain/); [experience](/en/post/experience/) discomfort. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) pained [to](/en/post/to/) [hear](/en/post/hear/) [about](/en/post/about/) [his](/en/post/his/) misfortune."
+- **[Noun](/post/noun/)**: An [unpleasant](/post/unpleasant/) [physical](/post/physical/) sensation caused [by](/post/by/) [illness](/post/illness/) [or](/post/or/) [injury](/post/injury/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) felt [a](/post/a/) [sharp](/post/sharp/) [pain](/post/pain/) [in](/post/in/) [her](/post/her/) [side](/post/side/) [after](/post/after/) [the](/post/the/) [fall](/post/fall/)."
+- **[Noun](/post/noun/) (figurative)**: [Emotional](/post/emotional/) [distress](/post/distress/) [or](/post/or/) suffering. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [loss](/post/loss/) [of](/post/of/) [his](/post/his/) [wife](/post/wife/) brought [him](/post/him/) [great](/post/great/) [pain](/post/pain/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [cause](/post/cause/) [physical](/post/physical/) [or](/post/or/) [emotional](/post/emotional/) [distress](/post/distress/) [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [accident](/post/accident/) [left](/post/left/) [him](/post/him/) [badly](/post/badly/) pained [and](/post/and/) [unable](/post/unable/) [to](/post/to/) [walk](/post/walk/)."
+- **[Verb](/post/verb/) (archaic)**: [To](/post/to/) [feel](/post/feel/) [pain](/post/pain/); [experience](/post/experience/) discomfort. [For](/post/for/) [example](/post/example/): "[She](/post/she/) pained [to](/post/to/) [hear](/post/hear/) [about](/post/about/) [his](/post/his/) misfortune."
 
 ## Phrases
-- "[Physical](/en/post/physical/) [pain](/en/post/pain/)" refers [to](/en/post/to/) discomfort felt [in](/en/post/in/) [the](/en/post/the/) [body](/en/post/body/) [due](/en/post/due/) [to](/en/post/to/) [injury](/en/post/injury/) [or](/en/post/or/) [illness](/en/post/illness/).
-- "[Emotional](/en/post/emotional/) [pain](/en/post/pain/)" refers [to](/en/post/to/) [mental](/en/post/mental/) [or](/en/post/or/) [psychological](/en/post/psychological/) [distress](/en/post/distress/).
-- "Painkiller" is [a](/en/post/a/) medication [that](/en/post/that/) alleviates [pain](/en/post/pain/).
-- "[In](/en/post/in/) [pain](/en/post/pain/)" describes [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) experiencing [pain](/en/post/pain/). [Example](/en/post/example/): "[She](/en/post/she/) was [clearly](/en/post/clearly/) [in](/en/post/in/) [pain](/en/post/pain/) [after](/en/post/after/) [the](/en/post/the/) [surgery](/en/post/surgery/)."
-- "[To](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [pain](/en/post/pain/) [in](/en/post/in/) [the](/en/post/the/) [neck](/en/post/neck/) ([or](/en/post/or/) backside)" is an idiomatic [expression](/en/post/expression/) [meaning](/en/post/meaning/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) is causing annoyance [or](/en/post/or/) irritation.
+- "[Physical](/post/physical/) [pain](/post/pain/)" refers [to](/post/to/) discomfort felt [in](/post/in/) [the](/post/the/) [body](/post/body/) [due](/post/due/) [to](/post/to/) [injury](/post/injury/) [or](/post/or/) [illness](/post/illness/).
+- "[Emotional](/post/emotional/) [pain](/post/pain/)" refers [to](/post/to/) [mental](/post/mental/) [or](/post/or/) [psychological](/post/psychological/) [distress](/post/distress/).
+- "Painkiller" is [a](/post/a/) medication [that](/post/that/) alleviates [pain](/post/pain/).
+- "[In](/post/in/) [pain](/post/pain/)" describes [the](/post/the/) [state](/post/state/) [of](/post/of/) experiencing [pain](/post/pain/). [Example](/post/example/): "[She](/post/she/) was [clearly](/post/clearly/) [in](/post/in/) [pain](/post/pain/) [after](/post/after/) [the](/post/the/) [surgery](/post/surgery/)."
+- "[To](/post/to/) [be](/post/be/) [a](/post/a/) [pain](/post/pain/) [in](/post/in/) [the](/post/the/) [neck](/post/neck/) ([or](/post/or/) backside)" is an idiomatic [expression](/post/expression/) [meaning](/post/meaning/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) is causing annoyance [or](/post/or/) irritation.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([physical](/en/post/physical/))**: "[The](/en/post/the/) [doctor](/en/post/doctor/) prescribed [medicine](/en/post/medicine/) [for](/en/post/for/) [his](/en/post/his/) persistent [headache](/en/post/headache/) [and](/en/post/and/) [joint](/en/post/joint/) [pain](/en/post/pain/)."
-- **[Noun](/en/post/noun/) ([emotional](/en/post/emotional/))**: "[The](/en/post/the/) [thought](/en/post/thought/) [of](/en/post/of/) leaving [her](/en/post/her/) hometown brought [her](/en/post/her/) [immense](/en/post/immense/) [pain](/en/post/pain/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [harsh](/en/post/harsh/) words pained [her](/en/post/her/) deeply."
-- **[Verb](/en/post/verb/) (archaic)**: "[He](/en/post/he/) pained [himself](/en/post/himself/) [to](/en/post/to/) [complete](/en/post/complete/) [the](/en/post/the/) marathon [despite](/en/post/despite/) [his](/en/post/his/) injured [leg](/en/post/leg/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([physical](/post/physical/))**: "[The](/post/the/) [doctor](/post/doctor/) prescribed [medicine](/post/medicine/) [for](/post/for/) [his](/post/his/) persistent [headache](/post/headache/) [and](/post/and/) [joint](/post/joint/) [pain](/post/pain/)."
+- **[Noun](/post/noun/) ([emotional](/post/emotional/))**: "[The](/post/the/) [thought](/post/thought/) [of](/post/of/) leaving [her](/post/her/) hometown brought [her](/post/her/) [immense](/post/immense/) [pain](/post/pain/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [harsh](/post/harsh/) words pained [her](/post/her/) deeply."
+- **[Verb](/post/verb/) (archaic)**: "[He](/post/he/) pained [himself](/post/himself/) [to](/post/to/) [complete](/post/complete/) [the](/post/the/) marathon [despite](/post/despite/) [his](/post/his/) injured [leg](/post/leg/)."
 
 ## Synonyms
 - Suffering
-- [Distress](/en/post/distress/)
+- [Distress](/post/distress/)
 - Misery
-- [Hurt](/en/post/hurt/)
-- [Agony](/en/post/agony/)
+- [Hurt](/post/hurt/)
+- [Agony](/post/agony/)
 - Discomfort
 - Anguish
-- [Ache](/en/post/ache/)
+- [Ache](/post/ache/)
 - Torment
-- Woe ([for](/en/post/for/) [emotional](/en/post/emotional/) [pain](/en/post/pain/)) 
+- Woe ([for](/post/for/) [emotional](/post/emotional/) [pain](/post/pain/)) 
 
-(Verbal synonym [for](/en/post/for/) '[to](/en/post/to/) [cause](/en/post/cause/) [pain](/en/post/pain/)'): 
+(Verbal synonym [for](/post/for/) '[to](/post/to/) [cause](/post/cause/) [pain](/post/pain/)'): 
 - Afflict
-- [Injure](/en/post/injure/)
-- [Hurt](/en/post/hurt/)
+- [Injure](/post/injure/)
+- [Hurt](/post/hurt/)
 - Aggravate
-- Irritate ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/))
+- Irritate ([in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/))

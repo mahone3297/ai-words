@@ -7,34 +7,34 @@ description = '[aiˈdentikəl] a.完全相同的；同一的'
 keywords = ['ai words', 'identical']
 +++
 
-## [Word](/en/post/word/): [Identical](/en/post/identical/)
+## [Word](/post/word/): [Identical](/post/identical/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌaɪˈden.tɪ.kəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Exactly](/en/post/exactly/) [alike](/en/post/alike/); [same](/en/post/same/) [in](/en/post/in/) [every](/en/post/every/) [detail](/en/post/detail/) [or](/en/post/or/) [respect](/en/post/respect/). 
+- **[Adjective](/post/adjective/)**: [Exactly](/post/exactly/) [alike](/post/alike/); [same](/post/same/) [in](/post/in/) [every](/post/every/) [detail](/post/detail/) [or](/post/or/) [respect](/post/respect/). 
 
-### [Usage](/en/post/usage/) Examples
-- **[Adjective](/en/post/adjective/)**: Describing [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) things [that](/en/post/that/) are [exactly](/en/post/exactly/) [the](/en/post/the/) [same](/en/post/same/): 
-  - "[The](/en/post/the/) twins were dressed [in](/en/post/in/) [identical](/en/post/identical/) outfits."
-  - "[The](/en/post/the/) [contract](/en/post/contract/) contains [identical](/en/post/identical/) clauses [to](/en/post/to/) [the](/en/post/the/) [previous](/en/post/previous/) [one](/en/post/one/)."
+### [Usage](/post/usage/) Examples
+- **[Adjective](/post/adjective/)**: Describing [two](/post/two/) [or](/post/or/) [more](/post/more/) things [that](/post/that/) are [exactly](/post/exactly/) [the](/post/the/) [same](/post/same/): 
+  - "[The](/post/the/) twins were dressed [in](/post/in/) [identical](/post/identical/) outfits."
+  - "[The](/post/the/) [contract](/post/contract/) contains [identical](/post/identical/) clauses [to](/post/to/) [the](/post/the/) [previous](/post/previous/) [one](/post/one/)."
   
 ## Phrases
-- "[Identical](/en/post/identical/) twins": Twins [who](/en/post/who/) [share](/en/post/share/) [the](/en/post/the/) [same](/en/post/same/) genetic [information](/en/post/information/) [and](/en/post/and/) typically [have](/en/post/have/) [very](/en/post/very/) [similar](/en/post/similar/) [physical](/en/post/physical/) appearances.
-- "[To](/en/post/to/) [be](/en/post/be/) [identical](/en/post/identical/) [with](/en/post/with/)": [To](/en/post/to/) [be](/en/post/be/) [exactly](/en/post/exactly/) [the](/en/post/the/) [same](/en/post/same/) [as](/en/post/as/) [something](/en/post/something/) [else](/en/post/else/); [to](/en/post/to/) [correspond](/en/post/correspond/) [perfectly](/en/post/perfectly/).
-- "[Identical](/en/post/identical/) copies": Replicas [that](/en/post/that/) are [exactly](/en/post/exactly/) [the](/en/post/the/) [same](/en/post/same/) [without](/en/post/without/) [any](/en/post/any/) [variation](/en/post/variation/).
+- "[Identical](/post/identical/) twins": Twins [who](/post/who/) [share](/post/share/) [the](/post/the/) [same](/post/same/) genetic [information](/post/information/) [and](/post/and/) typically [have](/post/have/) [very](/post/very/) [similar](/post/similar/) [physical](/post/physical/) appearances.
+- "[To](/post/to/) [be](/post/be/) [identical](/post/identical/) [with](/post/with/)": [To](/post/to/) [be](/post/be/) [exactly](/post/exactly/) [the](/post/the/) [same](/post/same/) [as](/post/as/) [something](/post/something/) [else](/post/else/); [to](/post/to/) [correspond](/post/correspond/) [perfectly](/post/perfectly/).
+- "[Identical](/post/identical/) copies": Replicas [that](/post/that/) are [exactly](/post/exactly/) [the](/post/the/) [same](/post/same/) [without](/post/without/) [any](/post/any/) [variation](/post/variation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[They](/en/post/they/) discovered [that](/en/post/that/) [the](/en/post/the/) [two](/en/post/two/) paintings were [nearly](/en/post/nearly/) [identical](/en/post/identical/), suggesting [they](/en/post/they/) [might](/en/post/might/) [have](/en/post/have/) been created [by](/en/post/by/) [the](/en/post/the/) [same](/en/post/same/) [artist](/en/post/artist/)."
-- "[The](/en/post/the/) building's blueprint was replicated identically [across](/en/post/across/) [all](/en/post/all/) franchise locations."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[They](/post/they/) discovered [that](/post/that/) [the](/post/the/) [two](/post/two/) paintings were [nearly](/post/nearly/) [identical](/post/identical/), suggesting [they](/post/they/) [might](/post/might/) [have](/post/have/) been created [by](/post/by/) [the](/post/the/) [same](/post/same/) [artist](/post/artist/)."
+- "[The](/post/the/) building's blueprint was replicated identically [across](/post/across/) [all](/post/all/) franchise locations."
 
 ## Synonyms
-- [Same](/en/post/same/)
+- [Same](/post/same/)
 - Matching
-- [Equal](/en/post/equal/)
-- [Equivalent](/en/post/equivalent/)
+- [Equal](/post/equal/)
+- [Equivalent](/post/equivalent/)
 - Replica
 - Duplicate
-- [Exact](/en/post/exact/) duplicate
-- [Mirror](/en/post/mirror/) [image](/en/post/image/) ([in](/en/post/in/) context [of](/en/post/of/) [physical](/en/post/physical/) resemblance)
+- [Exact](/post/exact/) duplicate
+- [Mirror](/post/mirror/) [image](/post/image/) ([in](/post/in/) context [of](/post/of/) [physical](/post/physical/) resemblance)

@@ -11,22 +11,22 @@ keywords = ['ai words', 'warm']
 /wɔːrm/
 
 ## 释义
-- **形容词**: 温暖的；热情的。例如: "[The](/post/the/) [sun](/post/sun/) was shining, [and](/post/and/) [it](/post/it/) felt [warm](/post/warm/) [on](/post/on/) [my](/post/my/) [face](/post/face/)."
-- **动词**: 使温暖；加热。例如: "[She](/post/she/) warmed [her](/post/her/) hands [by](/post/by/) [the](/post/the/) [fire](/post/fire/)."
-- **名词**: 温暖的感觉或气氛。例如: "[The](/post/the/) [warm](/post/warm/) [atmosphere](/post/atmosphere/) made [us](/post/us/) [feel](/post/feel/) [welcome](/post/welcome/)."
+- **形容词**: 温暖的；热情的。例如: "[The](/zh/post/the/) [sun](/zh/post/sun/) was shining, [and](/zh/post/and/) [it](/zh/post/it/) felt [warm](/zh/post/warm/) [on](/zh/post/on/) [my](/zh/post/my/) [face](/zh/post/face/)."
+- **动词**: 使温暖；加热。例如: "[She](/zh/post/she/) warmed [her](/zh/post/her/) hands [by](/zh/post/by/) [the](/zh/post/the/) [fire](/zh/post/fire/)."
+- **名词**: 温暖的感觉或气氛。例如: "[The](/zh/post/the/) [warm](/zh/post/warm/) [atmosphere](/zh/post/atmosphere/) made [us](/zh/post/us/) [feel](/zh/post/feel/) [welcome](/zh/post/welcome/)."
 
 ## 短语
-- "[to](/post/to/) [warm](/post/warm/) [up](/post/up/)" 加热，预热，或者做准备活动。例如: "Let's [warm](/post/warm/) [up](/post/up/) [before](/post/before/) [the](/post/the/) [game](/post/game/)."
-- "warm-hearted" 心地善良，热心肠的。例如: "[She](/post/she/) is [a](/post/a/) [very](/post/very/) warm-hearted [person](/post/person/)."
+- "[to](/zh/post/to/) [warm](/zh/post/warm/) [up](/zh/post/up/)" 加热，预热，或者做准备活动。例如: "Let's [warm](/zh/post/warm/) [up](/zh/post/up/) [before](/zh/post/before/) [the](/zh/post/the/) [game](/zh/post/game/)."
+- "warm-hearted" 心地善良，热心肠的。例如: "[She](/zh/post/she/) is [a](/zh/post/a/) [very](/zh/post/very/) warm-hearted [person](/zh/post/person/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) [warm](/post/warm/) [weather](/post/weather/) encouraged [us](/post/us/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [picnic](/post/picnic/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
-- 动词: "[Can](/post/can/) [you](/post/you/) [warm](/post/warm/) [the](/post/the/) [milk](/post/milk/) [for](/post/for/) [the](/post/the/) [baby](/post/baby/)?"
-- 名词: "[He](/post/he/) welcomed [us](/post/us/) [with](/post/with/) [a](/post/a/) [warm](/post/warm/) [smile](/post/smile/)."
+- 形容词: "[The](/zh/post/the/) [warm](/zh/post/warm/) [weather](/zh/post/weather/) encouraged [us](/zh/post/us/) [to](/zh/post/to/) [have](/zh/post/have/) [a](/zh/post/a/) [picnic](/zh/post/picnic/) [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/)."
+- 动词: "[Can](/zh/post/can/) [you](/zh/post/you/) [warm](/zh/post/warm/) [the](/zh/post/the/) [milk](/zh/post/milk/) [for](/zh/post/for/) [the](/zh/post/the/) [baby](/zh/post/baby/)?"
+- 名词: "[He](/zh/post/he/) welcomed [us](/zh/post/us/) [with](/zh/post/with/) [a](/zh/post/a/) [warm](/zh/post/warm/) [smile](/zh/post/smile/)."
 
 ## 同义词
 - cozy
-- [comfortable](/post/comfortable/)
+- [comfortable](/zh/post/comfortable/)
 - heated
 - genial
 - amiable

@@ -7,43 +7,43 @@ description = '[ˈ∫ædəu] n.阴影，阴，影子'
 keywords = ['ai words', 'shadow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /shəˈdɔʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[shadow](/en/post/shadow/)** is [a](/en/post/a/) [dark](/en/post/dark/) [area](/en/post/area/) [or](/en/post/or/) [shape](/en/post/shape/) [that](/en/post/that/) is [cast](/en/post/cast/) [by](/en/post/by/) an [object](/en/post/object/) blocking [a](/en/post/a/) [source](/en/post/source/) [of](/en/post/of/) [light](/en/post/light/), [often](/en/post/often/) [visible](/en/post/visible/) [on](/en/post/on/) [the](/en/post/the/) [ground](/en/post/ground/) [or](/en/post/or/) [a](/en/post/a/) [surface](/en/post/surface/). [It](/en/post/it/) represents [the](/en/post/the/) [absence](/en/post/absence/) [or](/en/post/or/) obscuration [of](/en/post/of/) [light](/en/post/light/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[shadow](/post/shadow/)** is [a](/post/a/) [dark](/post/dark/) [area](/post/area/) [or](/post/or/) [shape](/post/shape/) [that](/post/that/) is [cast](/post/cast/) [by](/post/by/) an [object](/post/object/) blocking [a](/post/a/) [source](/post/source/) [of](/post/of/) [light](/post/light/), [often](/post/often/) [visible](/post/visible/) [on](/post/on/) [the](/post/the/) [ground](/post/ground/) [or](/post/or/) [a](/post/a/) [surface](/post/surface/). [It](/post/it/) represents [the](/post/the/) [absence](/post/absence/) [or](/post/or/) obscuration [of](/post/of/) [light](/post/light/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[shadow](/en/post/shadow/)** [can](/en/post/can/) [mean](/en/post/mean/):
-1. [To](/en/post/to/) [follow](/en/post/follow/) [or](/en/post/or/) [imitate](/en/post/imitate/) [closely](/en/post/closely/), [often](/en/post/often/) stealthily: "[The](/en/post/the/) detective shadowed [the](/en/post/the/) [suspect](/en/post/suspect/)."
-2. [To](/en/post/to/) [cast](/en/post/cast/) [a](/en/post/a/) [shadow](/en/post/shadow/): "[The](/en/post/the/) [tall](/en/post/tall/) [tree](/en/post/tree/) shadowed [the](/en/post/the/) pathway."
-3. (figurative) [To](/en/post/to/) [influence](/en/post/influence/) [or](/en/post/or/) [affect](/en/post/affect/) [someone](/en/post/someone/) subtly: "[Her](/en/post/her/) words seemed [to](/en/post/to/) [shadow](/en/post/shadow/) [his](/en/post/his/) thoughts."
+### [Verb](/post/verb/)
+[To](/post/to/) **[shadow](/post/shadow/)** [can](/post/can/) [mean](/post/mean/):
+1. [To](/post/to/) [follow](/post/follow/) [or](/post/or/) [imitate](/post/imitate/) [closely](/post/closely/), [often](/post/often/) stealthily: "[The](/post/the/) detective shadowed [the](/post/the/) [suspect](/post/suspect/)."
+2. [To](/post/to/) [cast](/post/cast/) [a](/post/a/) [shadow](/post/shadow/): "[The](/post/the/) [tall](/post/tall/) [tree](/post/tree/) shadowed [the](/post/the/) pathway."
+3. (figurative) [To](/post/to/) [influence](/post/influence/) [or](/post/or/) [affect](/post/affect/) [someone](/post/someone/) subtly: "[Her](/post/her/) words seemed [to](/post/to/) [shadow](/post/shadow/) [his](/post/his/) thoughts."
 
-### [Adjective](/en/post/adjective/)
-**Shadowy** describes [something](/en/post/something/) [that](/en/post/that/) is [vague](/en/post/vague/), indistinct, [or](/en/post/or/) dimly lit: "[The](/en/post/the/) alleyway was filled [with](/en/post/with/) shadowy figures."
+### [Adjective](/post/adjective/)
+**Shadowy** describes [something](/post/something/) [that](/post/that/) is [vague](/post/vague/), indistinct, [or](/post/or/) dimly lit: "[The](/post/the/) alleyway was filled [with](/post/with/) shadowy figures."
 
-### [Adverb](/en/post/adverb/)
-**Shadily** implies done [in](/en/post/in/) [a](/en/post/a/) secretive [or](/en/post/or/) sneaky [manner](/en/post/manner/): "[He](/en/post/he/) spoke shadily [about](/en/post/about/) [his](/en/post/his/) [past](/en/post/past/)."
+### [Adverb](/post/adverb/)
+**Shadily** implies done [in](/post/in/) [a](/post/a/) secretive [or](/post/or/) sneaky [manner](/post/manner/): "[He](/post/he/) spoke shadily [about](/post/about/) [his](/post/his/) [past](/post/past/)."
 
 ## Phrases
-- "[Step](/en/post/step/) [into](/en/post/into/) [the](/en/post/the/) [shadow](/en/post/shadow/)" [means](/en/post/means/) [to](/en/post/to/) [move](/en/post/move/) [into](/en/post/into/) [a](/en/post/a/) darker [area](/en/post/area/) [or](/en/post/or/) [to](/en/post/to/) [avoid](/en/post/avoid/) [detection](/en/post/detection/).
-- "[Shadow](/en/post/shadow/) [play](/en/post/play/)" refers [to](/en/post/to/) [a](/en/post/a/) [traditional](/en/post/traditional/) [form](/en/post/form/) [of](/en/post/of/) theater using puppets projected [onto](/en/post/onto/) [a](/en/post/a/) [screen](/en/post/screen/).
-- "[Out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [shadow](/en/post/shadow/)" signifies coming [out](/en/post/out/) [of](/en/post/of/) obscurity [or](/en/post/or/) [being](/en/post/being/) revealed.
+- "[Step](/post/step/) [into](/post/into/) [the](/post/the/) [shadow](/post/shadow/)" [means](/post/means/) [to](/post/to/) [move](/post/move/) [into](/post/into/) [a](/post/a/) darker [area](/post/area/) [or](/post/or/) [to](/post/to/) [avoid](/post/avoid/) [detection](/post/detection/).
+- "[Shadow](/post/shadow/) [play](/post/play/)" refers [to](/post/to/) [a](/post/a/) [traditional](/post/traditional/) [form](/post/form/) [of](/post/of/) theater using puppets projected [onto](/post/onto/) [a](/post/a/) [screen](/post/screen/).
+- "[Out](/post/out/) [of](/post/of/) [the](/post/the/) [shadow](/post/shadow/)" signifies coming [out](/post/out/) [of](/post/of/) obscurity [or](/post/or/) [being](/post/being/) revealed.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sunlight](/en/post/sunlight/) [cast](/en/post/cast/) [a](/en/post/a/) [long](/en/post/long/) [shadow](/en/post/shadow/) [across](/en/post/across/) [the](/en/post/the/) [grass](/en/post/grass/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [spy](/en/post/spy/) decided [to](/en/post/to/) [shadow](/en/post/shadow/) [the](/en/post/the/) [target](/en/post/target/) [from](/en/post/from/) [a](/en/post/a/) [distance](/en/post/distance/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [room](/en/post/room/) was illuminated [only](/en/post/only/) [by](/en/post/by/) [the](/en/post/the/) flickering candlelight, creating [a](/en/post/a/) shadowy [atmosphere](/en/post/atmosphere/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) moved shadily [through](/en/post/through/) [the](/en/post/the/) [dark](/en/post/dark/) streets, avoiding [detection](/en/post/detection/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sunlight](/post/sunlight/) [cast](/post/cast/) [a](/post/a/) [long](/post/long/) [shadow](/post/shadow/) [across](/post/across/) [the](/post/the/) [grass](/post/grass/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [spy](/post/spy/) decided [to](/post/to/) [shadow](/post/shadow/) [the](/post/the/) [target](/post/target/) [from](/post/from/) [a](/post/a/) [distance](/post/distance/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [room](/post/room/) was illuminated [only](/post/only/) [by](/post/by/) [the](/post/the/) flickering candlelight, creating [a](/post/a/) shadowy [atmosphere](/post/atmosphere/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) moved shadily [through](/post/through/) [the](/post/the/) [dark](/post/dark/) streets, avoiding [detection](/post/detection/)."
 
 ## Synonyms
 - Umbrage
-- [Veil](/en/post/veil/)
+- [Veil](/post/veil/)
 - Obscurity
-- [Faint](/en/post/faint/) [outline](/en/post/outline/)
+- [Faint](/post/faint/) [outline](/post/outline/)
 - Haze
 - Eclipsing
 - Obscure
-- [Conceal](/en/post/conceal/)
-- [Follow](/en/post/follow/) [closely](/en/post/closely/)
+- [Conceal](/post/conceal/)
+- [Follow](/post/follow/) [closely](/post/closely/)

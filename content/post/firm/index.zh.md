@@ -11,22 +11,22 @@ keywords = ['ai words', 'firm']
 /fɜːrm/
 
 ## 释义
-- **名词**: 一家公司或企业，尤其是指规模较大、组织结构稳固的商业实体。例如: "[He](/post/he/) works [at](/post/at/) [a](/post/a/) [law](/post/law/) [firm](/post/firm/)."
-- **形容词**: 坚定的，牢固的，稳定的。例如: "[She](/post/she/) has [a](/post/a/) [firm](/post/firm/) [belief](/post/belief/) [in](/post/in/) [her](/post/her/) abilities."
-- **动词**: 使坚固，巩固。例如: "[The](/post/the/) [exercise](/post/exercise/) helped [firm](/post/firm/) [up](/post/up/) [her](/post/her/) muscles."
+- **名词**: 一家公司或企业，尤其是指规模较大、组织结构稳固的商业实体。例如: "[He](/zh/post/he/) works [at](/zh/post/at/) [a](/zh/post/a/) [law](/zh/post/law/) [firm](/zh/post/firm/)."
+- **形容词**: 坚定的，牢固的，稳定的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [firm](/zh/post/firm/) [belief](/zh/post/belief/) [in](/zh/post/in/) [her](/zh/post/her/) abilities."
+- **动词**: 使坚固，巩固。例如: "[The](/zh/post/the/) [exercise](/zh/post/exercise/) helped [firm](/zh/post/firm/) [up](/zh/post/up/) [her](/zh/post/her/) muscles."
 
 ## 短语
-- "[to](/post/to/) [have](/post/have/) [a](/post/a/) [firm](/post/firm/) [grip](/post/grip/) [on](/post/on/) [something](/post/something/)" 意为对某事有牢固的控制或理解。
-- "[firm](/post/firm/) handshake" 指握手有力，常与自信和专业性相关联。
+- "[to](/zh/post/to/) [have](/zh/post/have/) [a](/zh/post/a/) [firm](/zh/post/firm/) [grip](/zh/post/grip/) [on](/zh/post/on/) [something](/zh/post/something/)" 意为对某事有牢固的控制或理解。
+- "[firm](/zh/post/firm/) handshake" 指握手有力，常与自信和专业性相关联。
 
 ## 例句
-- 名词: "[The](/post/the/) accounting [firm](/post/firm/) specializes [in](/post/in/) [tax](/post/tax/) services [for](/post/for/) [small](/post/small/) businesses."
-- 形容词: "[She](/post/she/) has [a](/post/a/) [firm](/post/firm/) [policy](/post/policy/) [against](/post/against/) tardiness [in](/post/in/) [the](/post/the/) workplace."
-- 动词: "[Their](/post/their/) [friendship](/post/friendship/) has firmed [over](/post/over/) [the](/post/the/) years."
+- 名词: "[The](/zh/post/the/) accounting [firm](/zh/post/firm/) specializes [in](/zh/post/in/) [tax](/zh/post/tax/) services [for](/zh/post/for/) [small](/zh/post/small/) businesses."
+- 形容词: "[She](/zh/post/she/) has [a](/zh/post/a/) [firm](/zh/post/firm/) [policy](/zh/post/policy/) [against](/zh/post/against/) tardiness [in](/zh/post/in/) [the](/zh/post/the/) workplace."
+- 动词: "[Their](/zh/post/their/) [friendship](/zh/post/friendship/) has firmed [over](/zh/post/over/) [the](/zh/post/the/) years."
 
 ## 同义词
-- [Company](/post/company/)
-- [Business](/post/business/)
+- [Company](/zh/post/company/)
+- [Business](/zh/post/business/)
 - Enterprise
-- [Corporation](/post/corporation/)
-- [Solid](/post/solid/)
+- [Corporation](/zh/post/corporation/)
+- [Solid](/zh/post/solid/)

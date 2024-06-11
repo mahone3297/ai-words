@@ -7,39 +7,39 @@ description = '[əˈfeə] n.事情，事件；事务'
 keywords = ['ai words', 'affair']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈfeər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. An [event](/en/post/event/), [especially](/en/post/especially/) [one](/en/post/one/) involving [romantic](/en/post/romantic/) [or](/en/post/or/) sexual involvement: *an extramarital [affair](/en/post/affair/)*
-2. [A](/en/post/a/) [matter](/en/post/matter/) [of](/en/post/of/) [importance](/en/post/importance/) [or](/en/post/or/) [concern](/en/post/concern/): *[a](/en/post/a/) [political](/en/post/political/) scandal* 
-3. [A](/en/post/a/) [social](/en/post/social/) engagement [or](/en/post/or/) [meeting](/en/post/meeting/): *[a](/en/post/a/) [business](/en/post/business/) [dinner](/en/post/dinner/) [affair](/en/post/affair/)*
+### [Noun](/post/noun/)
+1. An [event](/post/event/), [especially](/post/especially/) [one](/post/one/) involving [romantic](/post/romantic/) [or](/post/or/) sexual involvement: *an extramarital [affair](/post/affair/)*
+2. [A](/post/a/) [matter](/post/matter/) [of](/post/of/) [importance](/post/importance/) [or](/post/or/) [concern](/post/concern/): *[a](/post/a/) [political](/post/political/) scandal* 
+3. [A](/post/a/) [social](/post/social/) engagement [or](/post/or/) [meeting](/post/meeting/): *[a](/post/a/) [business](/post/business/) [dinner](/post/dinner/) [affair](/post/affair/)*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [romantic](/en/post/romantic/) [or](/en/post/or/) [secret](/en/post/secret/) [relationship](/en/post/relationship/): *[They](/en/post/they/) were rumored [to](/en/post/to/) [be](/en/post/be/) having an [affair](/en/post/affair/).*
-2. [To](/en/post/to/) [involve](/en/post/involve/) [oneself](/en/post/oneself/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/) [or](/en/post/or/) [project](/en/post/project/): *She's currently involved [in](/en/post/in/) [several](/en/post/several/) charitable affairs.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [romantic](/post/romantic/) [or](/post/or/) [secret](/post/secret/) [relationship](/post/relationship/): *[They](/post/they/) were rumored [to](/post/to/) [be](/post/be/) having an [affair](/post/affair/).*
+2. [To](/post/to/) [involve](/post/involve/) [oneself](/post/oneself/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/) [or](/post/or/) [project](/post/project/): *She's currently involved [in](/post/in/) [several](/post/several/) charitable affairs.*
 
-### [Adjective](/en/post/adjective/)
-1. [Concerning](/en/post/concerning/) [or](/en/post/or/) involving [a](/en/post/a/) [relationship](/en/post/relationship/) [between](/en/post/between/) [two](/en/post/two/) [people](/en/post/people/): *an [affair](/en/post/affair/) [of](/en/post/of/) [the](/en/post/the/) [heart](/en/post/heart/)*
+### [Adjective](/post/adjective/)
+1. [Concerning](/post/concerning/) [or](/post/or/) involving [a](/post/a/) [relationship](/post/relationship/) [between](/post/between/) [two](/post/two/) [people](/post/people/): *an [affair](/post/affair/) [of](/post/of/) [the](/post/the/) [heart](/post/heart/)*
 
 ## Phrases
-- "An [affair](/en/post/affair/) [of](/en/post/of/) [state](/en/post/state/)" refers [to](/en/post/to/) [a](/en/post/a/) [matter](/en/post/matter/) [of](/en/post/of/) [great](/en/post/great/) [importance](/en/post/importance/) [to](/en/post/to/) [government](/en/post/government/).
-- "[A](/en/post/a/) [love](/en/post/love/) [affair](/en/post/affair/)" denotes [a](/en/post/a/) [romantic](/en/post/romantic/) [relationship](/en/post/relationship/).
-- "[In](/en/post/in/) [the](/en/post/the/) [public](/en/post/public/) [eye](/en/post/eye/), [their](/en/post/their/) [affair](/en/post/affair/) ended amicably."
+- "An [affair](/post/affair/) [of](/post/of/) [state](/post/state/)" refers [to](/post/to/) [a](/post/a/) [matter](/post/matter/) [of](/post/of/) [great](/post/great/) [importance](/post/importance/) [to](/post/to/) [government](/post/government/).
+- "[A](/post/a/) [love](/post/love/) [affair](/post/affair/)" denotes [a](/post/a/) [romantic](/post/romantic/) [relationship](/post/relationship/).
+- "[In](/post/in/) [the](/post/the/) [public](/post/public/) [eye](/post/eye/), [their](/post/their/) [affair](/post/affair/) ended amicably."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) [affair](/en/post/affair/) was exposed [by](/en/post/by/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) incriminating emails."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) had an [affair](/en/post/affair/) [with](/en/post/with/) [his](/en/post/his/) [secretary](/en/post/secretary/), [which](/en/post/which/) [ultimately](/en/post/ultimately/) led [to](/en/post/to/) [his](/en/post/his/) downfall."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [personal](/en/post/personal/) [life](/en/post/life/) became an [open](/en/post/open/) [affair](/en/post/affair/) [after](/en/post/after/) [the](/en/post/the/) [divorce](/en/post/divorce/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Their](/post/their/) [affair](/post/affair/) was exposed [by](/post/by/) [a](/post/a/) [series](/post/series/) [of](/post/of/) incriminating emails."
+- **[Verb](/post/verb/)**: "[He](/post/he/) had an [affair](/post/affair/) [with](/post/with/) [his](/post/his/) [secretary](/post/secretary/), [which](/post/which/) [ultimately](/post/ultimately/) led [to](/post/to/) [his](/post/his/) downfall."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [personal](/post/personal/) [life](/post/life/) became an [open](/post/open/) [affair](/post/affair/) [after](/post/after/) [the](/post/the/) [divorce](/post/divorce/)."
 
 ## Synonyms
 - Scandal
-- [Matter](/en/post/matter/)
-- [Incident](/en/post/incident/)
-- [Connection](/en/post/connection/)
-- [Relationship](/en/post/relationship/)
+- [Matter](/post/matter/)
+- [Incident](/post/incident/)
+- [Connection](/post/connection/)
+- [Relationship](/post/relationship/)
 - Episode
-- liaison ([formal](/en/post/formal/))
-- dalliance ([romantic](/en/post/romantic/))
+- liaison ([formal](/post/formal/))
+- dalliance ([romantic](/post/romantic/))
 - intrigue (suspenseful)

@@ -11,21 +11,21 @@ keywords = ['ai words', 'telephone']
 /ˈtɛlɪfəʊn/
 
 ## 释义
-- **名词** (n): 一种电子设备，用于通过电信网络进行语音或其他形式的通信。例如: "I [need](/post/need/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [call](/post/call/) [on](/post/on/) [my](/post/my/) [telephone](/post/telephone/)."
-- **动词** (v): 使用电话进行通话或通讯。例如: "[She](/post/she/) telephoned [her](/post/her/) [friend](/post/friend/) [to](/post/to/) [share](/post/share/) [the](/post/the/) [news](/post/news/)."
+- **名词** (n): 一种电子设备，用于通过电信网络进行语音或其他形式的通信。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) [call](/zh/post/call/) [on](/zh/post/on/) [my](/zh/post/my/) [telephone](/zh/post/telephone/)."
+- **动词** (v): 使用电话进行通话或通讯。例如: "[She](/zh/post/she/) telephoned [her](/zh/post/her/) [friend](/zh/post/friend/) [to](/zh/post/to/) [share](/zh/post/share/) [the](/zh/post/the/) [news](/zh/post/news/)."
 
 ## 短语
-- "[Make](/post/make/) [a](/post/a/) [telephone](/post/telephone/) [call](/post/call/)" 意味着拨打电话与人通话。
-- "[On](/post/on/) [the](/post/the/) [telephone](/post/telephone/)" 表示正在使用电话交谈。
-- "[Phone](/post/phone/) [someone](/post/someone/) [up](/post/up/)" 相当于 "[call](/post/call/) [someone](/post/someone/)"，意思是给某人打电话。
+- "[Make](/zh/post/make/) [a](/zh/post/a/) [telephone](/zh/post/telephone/) [call](/zh/post/call/)" 意味着拨打电话与人通话。
+- "[On](/zh/post/on/) [the](/zh/post/the/) [telephone](/zh/post/telephone/)" 表示正在使用电话交谈。
+- "[Phone](/zh/post/phone/) [someone](/zh/post/someone/) [up](/zh/post/up/)" 相当于 "[call](/zh/post/call/) [someone](/zh/post/someone/)"，意思是给某人打电话。
 
 ## 例句
-- 名词: "[She](/post/she/) was holding [the](/post/the/) old-fashioned [rotary](/post/rotary/) [telephone](/post/telephone/)."
-- 动词: "[He](/post/he/) telephoned [his](/post/his/) parents [every](/post/every/) Sunday [evening](/post/evening/)."
+- 名词: "[She](/zh/post/she/) was holding [the](/zh/post/the/) old-fashioned [rotary](/zh/post/rotary/) [telephone](/zh/post/telephone/)."
+- 动词: "[He](/zh/post/he/) telephoned [his](/zh/post/his/) parents [every](/zh/post/every/) Sunday [evening](/zh/post/evening/)."
 
 ## 同义词
-- [Phone](/post/phone/)
-- [Call](/post/call/)
-- [Ring](/post/ring/)
-- [Dial](/post/dial/)
-- [Connect](/post/connect/)
+- [Phone](/zh/post/phone/)
+- [Call](/zh/post/call/)
+- [Ring](/zh/post/ring/)
+- [Dial](/zh/post/dial/)
+- [Connect](/zh/post/connect/)

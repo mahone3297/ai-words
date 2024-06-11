@@ -7,42 +7,42 @@ description = '[ˈpraivit] a.私人的；私下的'
 keywords = ['ai words', 'private']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪˈvaɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Private](/en/post/private/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [something](/en/post/something/) belonging [to](/en/post/to/) an [individual](/en/post/individual/), [not](/en/post/not/) shared, [or](/en/post/or/) kept confidential. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [private](/en/post/private/) [room](/en/post/room/) had [a](/en/post/a/) [beautiful](/en/post/beautiful/) [view](/en/post/view/)."
-2. **[Private](/en/post/private/) [property](/en/post/property/)**: [Land](/en/post/land/) [or](/en/post/or/) assets [that](/en/post/that/) are owned [by](/en/post/by/) [a](/en/post/a/) [single](/en/post/single/) [person](/en/post/person/) [or](/en/post/or/) entity [and](/en/post/and/) [not](/en/post/not/) [open](/en/post/open/) [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was [a](/en/post/a/) [private](/en/post/private/) oasis."
-3. **[Private](/en/post/private/) sector**: [The](/en/post/the/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [economy](/en/post/economy/) [that](/en/post/that/) consists [of](/en/post/of/) businesses [and](/en/post/and/) organizations [not](/en/post/not/) owned [or](/en/post/or/) controlled [by](/en/post/by/) [the](/en/post/the/) [government](/en/post/government/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [private](/en/post/private/) sector drives innovation [and](/en/post/and/) [employment](/en/post/employment/)."
+### [Noun](/post/noun/)
+1. **[Private](/post/private/)**: [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [something](/post/something/) belonging [to](/post/to/) an [individual](/post/individual/), [not](/post/not/) shared, [or](/post/or/) kept confidential. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [private](/post/private/) [room](/post/room/) had [a](/post/a/) [beautiful](/post/beautiful/) [view](/post/view/)."
+2. **[Private](/post/private/) [property](/post/property/)**: [Land](/post/land/) [or](/post/or/) assets [that](/post/that/) are owned [by](/post/by/) [a](/post/a/) [single](/post/single/) [person](/post/person/) [or](/post/or/) entity [and](/post/and/) [not](/post/not/) [open](/post/open/) [to](/post/to/) [the](/post/the/) [public](/post/public/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was [a](/post/a/) [private](/post/private/) oasis."
+3. **[Private](/post/private/) sector**: [The](/post/the/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [economy](/post/economy/) [that](/post/that/) consists [of](/post/of/) businesses [and](/post/and/) organizations [not](/post/not/) owned [or](/post/or/) controlled [by](/post/by/) [the](/post/the/) [government](/post/government/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [private](/post/private/) sector drives innovation [and](/post/and/) [employment](/post/employment/)."
 
-### [Adjective](/en/post/adjective/)
-1. **[Private](/en/post/private/)**: Designating [ownership](/en/post/ownership/) [by](/en/post/by/) an [individual](/en/post/individual/) [or](/en/post/or/) [family](/en/post/family/), [as](/en/post/as/) opposed [to](/en/post/to/) [public](/en/post/public/) [or](/en/post/or/) communal. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [private](/en/post/private/) [school](/en/post/school/) provides tailored [education](/en/post/education/)."
-2. Confidential: [Concerning](/en/post/concerning/) [or](/en/post/or/) dealing [with](/en/post/with/) matters [not](/en/post/not/) [to](/en/post/to/) [be](/en/post/be/) disclosed [to](/en/post/to/) others. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [meeting](/en/post/meeting/) was held [in](/en/post/in/) [private](/en/post/private/) [to](/en/post/to/) [discuss](/en/post/discuss/) [sensitive](/en/post/sensitive/) [information](/en/post/information/)."
-3. [Personal](/en/post/personal/): Relating [to](/en/post/to/) one's [own](/en/post/own/) affairs, feelings, [or](/en/post/or/) interests. [For](/en/post/for/) [example](/en/post/example/): "It's [a](/en/post/a/) [private](/en/post/private/) [matter](/en/post/matter/); [please](/en/post/please/) [respect](/en/post/respect/) [their](/en/post/their/) privacy."
+### [Adjective](/post/adjective/)
+1. **[Private](/post/private/)**: Designating [ownership](/post/ownership/) [by](/post/by/) an [individual](/post/individual/) [or](/post/or/) [family](/post/family/), [as](/post/as/) opposed [to](/post/to/) [public](/post/public/) [or](/post/or/) communal. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [private](/post/private/) [school](/post/school/) provides tailored [education](/post/education/)."
+2. Confidential: [Concerning](/post/concerning/) [or](/post/or/) dealing [with](/post/with/) matters [not](/post/not/) [to](/post/to/) [be](/post/be/) disclosed [to](/post/to/) others. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [meeting](/post/meeting/) was held [in](/post/in/) [private](/post/private/) [to](/post/to/) [discuss](/post/discuss/) [sensitive](/post/sensitive/) [information](/post/information/)."
+3. [Personal](/post/personal/): Relating [to](/post/to/) one's [own](/post/own/) affairs, feelings, [or](/post/or/) interests. [For](/post/for/) [example](/post/example/): "It's [a](/post/a/) [private](/post/private/) [matter](/post/matter/); [please](/post/please/) [respect](/post/respect/) [their](/post/their/) privacy."
 
-### [Adverb](/en/post/adverb/)
-1. Privately: [In](/en/post/in/) [a](/en/post/a/) [personal](/en/post/personal/) [or](/en/post/or/) [secret](/en/post/secret/) [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke privately [to](/en/post/to/) [her](/en/post/her/) [lawyer](/en/post/lawyer/) [about](/en/post/about/) [the](/en/post/the/) [situation](/en/post/situation/)."
+### [Adverb](/post/adverb/)
+1. Privately: [In](/post/in/) [a](/post/a/) [personal](/post/personal/) [or](/post/or/) [secret](/post/secret/) [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) spoke privately [to](/post/to/) [her](/post/her/) [lawyer](/post/lawyer/) [about](/post/about/) [the](/post/the/) [situation](/post/situation/)."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [it](/en/post/it/) [private](/en/post/private/)" [means](/en/post/means/) [to](/en/post/to/) [keep](/en/post/keep/) [information](/en/post/information/) confidential.
-- "[Private](/en/post/private/) [life](/en/post/life/)" refers [to](/en/post/to/) someone's [personal](/en/post/personal/), non-public aspects.
-- "[Private](/en/post/private/) sector [employment](/en/post/employment/)" denotes jobs [in](/en/post/in/) non-government companies.
+- "[Keep](/post/keep/) [it](/post/it/) [private](/post/private/)" [means](/post/means/) [to](/post/to/) [keep](/post/keep/) [information](/post/information/) confidential.
+- "[Private](/post/private/) [life](/post/life/)" refers [to](/post/to/) someone's [personal](/post/personal/), non-public aspects.
+- "[Private](/post/private/) sector [employment](/post/employment/)" denotes jobs [in](/post/in/) non-government companies.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [private](/en/post/private/) investigator was hired [to](/en/post/to/) [find](/en/post/find/) [missing](/en/post/missing/) documents."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [private](/en/post/private/) [jet](/en/post/jet/) [for](/en/post/for/) [the](/en/post/the/) [vacation](/en/post/vacation/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) chose [to](/en/post/to/) privately [apologize](/en/post/apologize/) [to](/en/post/to/) [his](/en/post/his/) [friend](/en/post/friend/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [private](/post/private/) investigator was hired [to](/post/to/) [find](/post/find/) [missing](/post/missing/) documents."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [private](/post/private/) [jet](/post/jet/) [for](/post/for/) [the](/post/the/) [vacation](/post/vacation/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) chose [to](/post/to/) privately [apologize](/post/apologize/) [to](/post/to/) [his](/post/his/) [friend](/post/friend/)."
 
 ## Synonyms
 - Confidential
 - Exclusive
-- [Personal](/en/post/personal/)
+- [Personal](/post/personal/)
 - Restricted
-- [Sole](/en/post/sole/)
+- [Sole](/post/sole/)
 
 ## Antonyms
-- [Public](/en/post/public/)
+- [Public](/post/public/)
 - Shared
-- [Open](/en/post/open/)
+- [Open](/post/open/)
 - Unrestricted

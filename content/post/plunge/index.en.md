@@ -7,36 +7,36 @@ description = '[plʌndʒ] vt.使投入；使陷入'
 keywords = ['ai words', 'plunge']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /plʌnʤ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (n) [To](/en/post/to/) [drop](/en/post/drop/) [or](/en/post/or/) [fall](/en/post/fall/) [suddenly](/en/post/suddenly/) [or](/en/post/or/) [rapidly](/en/post/rapidly/) [into](/en/post/into/) [a](/en/post/a/) [liquid](/en/post/liquid/) [or](/en/post/or/) [a](/en/post/a/) [hole](/en/post/hole/); [to](/en/post/to/) [descend](/en/post/descend/) [with](/en/post/with/) [force](/en/post/force/) [or](/en/post/or/) momentum. (v) [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [sudden](/en/post/sudden/) [or](/en/post/or/) drastic [change](/en/post/change/) [or](/en/post/or/) [decision](/en/post/decision/). (n) An [act](/en/post/act/) [or](/en/post/or/) [instance](/en/post/instance/) [of](/en/post/of/) plunging.
+- **[Verb](/post/verb/)**: (n) [To](/post/to/) [drop](/post/drop/) [or](/post/or/) [fall](/post/fall/) [suddenly](/post/suddenly/) [or](/post/or/) [rapidly](/post/rapidly/) [into](/post/into/) [a](/post/a/) [liquid](/post/liquid/) [or](/post/or/) [a](/post/a/) [hole](/post/hole/); [to](/post/to/) [descend](/post/descend/) [with](/post/with/) [force](/post/force/) [or](/post/or/) momentum. (v) [To](/post/to/) [make](/post/make/) [a](/post/a/) [sudden](/post/sudden/) [or](/post/or/) drastic [change](/post/change/) [or](/post/or/) [decision](/post/decision/). (n) An [act](/post/act/) [or](/post/or/) [instance](/post/instance/) [of](/post/of/) plunging.
 
 ## Phrases
-- "[Plunge](/en/post/plunge/) [into](/en/post/into/)" [means](/en/post/means/) [to](/en/post/to/) [jump](/en/post/jump/) [or](/en/post/or/) [enter](/en/post/enter/) [something](/en/post/something/) [with](/en/post/with/) [great](/en/post/great/) [enthusiasm](/en/post/enthusiasm/) [or](/en/post/or/) [force](/en/post/force/).
-- "[A](/en/post/a/) [financial](/en/post/financial/) [plunge](/en/post/plunge/)" refers [to](/en/post/to/) [a](/en/post/a/) [sudden](/en/post/sudden/) decline [in](/en/post/in/) [the](/en/post/the/) [stock](/en/post/stock/) [market](/en/post/market/) [or](/en/post/or/) [economy](/en/post/economy/).
-- "[To](/en/post/to/) [take](/en/post/take/) [the](/en/post/the/) [plunge](/en/post/plunge/)" is an idiomatic [expression](/en/post/expression/) [for](/en/post/for/) making [a](/en/post/a/) [bold](/en/post/bold/) [decision](/en/post/decision/) [or](/en/post/or/) starting [something](/en/post/something/) [new](/en/post/new/) [without](/en/post/without/) hesitation.
+- "[Plunge](/post/plunge/) [into](/post/into/)" [means](/post/means/) [to](/post/to/) [jump](/post/jump/) [or](/post/or/) [enter](/post/enter/) [something](/post/something/) [with](/post/with/) [great](/post/great/) [enthusiasm](/post/enthusiasm/) [or](/post/or/) [force](/post/force/).
+- "[A](/post/a/) [financial](/post/financial/) [plunge](/post/plunge/)" refers [to](/post/to/) [a](/post/a/) [sudden](/post/sudden/) decline [in](/post/in/) [the](/post/the/) [stock](/post/stock/) [market](/post/market/) [or](/post/or/) [economy](/post/economy/).
+- "[To](/post/to/) [take](/post/take/) [the](/post/the/) [plunge](/post/plunge/)" is an idiomatic [expression](/post/expression/) [for](/post/for/) making [a](/post/a/) [bold](/post/bold/) [decision](/post/decision/) [or](/post/or/) starting [something](/post/something/) [new](/post/new/) [without](/post/without/) hesitation.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) diver plunged [into](/en/post/into/) [the](/en/post/the/) icy [water](/en/post/water/) [without](/en/post/without/) [a](/en/post/a/) [second](/en/post/second/) [thought](/en/post/thought/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [investment](/en/post/investment/) portfolio took [a](/en/post/a/) [significant](/en/post/significant/) [plunge](/en/post/plunge/) [after](/en/post/after/) [the](/en/post/the/) company's announcement."
-- **Idiomatic**: "[After](/en/post/after/) [much](/en/post/much/) contemplation, [they](/en/post/they/) decided [to](/en/post/to/) [take](/en/post/take/) [the](/en/post/the/) [plunge](/en/post/plunge/) [and](/en/post/and/) [start](/en/post/start/) [their](/en/post/their/) [own](/en/post/own/) [business](/en/post/business/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) diver plunged [into](/post/into/) [the](/post/the/) icy [water](/post/water/) [without](/post/without/) [a](/post/a/) [second](/post/second/) [thought](/post/thought/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [investment](/post/investment/) portfolio took [a](/post/a/) [significant](/post/significant/) [plunge](/post/plunge/) [after](/post/after/) [the](/post/the/) company's announcement."
+- **Idiomatic**: "[After](/post/after/) [much](/post/much/) contemplation, [they](/post/they/) decided [to](/post/to/) [take](/post/take/) [the](/post/the/) [plunge](/post/plunge/) [and](/post/and/) [start](/post/start/) [their](/post/their/) [own](/post/own/) [business](/post/business/)."
 
 ## Synonyms
 - Diving
-- [Descend](/en/post/descend/)
-- [Leap](/en/post/leap/)
-- [Drop](/en/post/drop/)
-- [Fall](/en/post/fall/)
-- [Dash](/en/post/dash/)
-- [Bold](/en/post/bold/) [move](/en/post/move/)
-- [Hasty](/en/post/hasty/) [decision](/en/post/decision/)
+- [Descend](/post/descend/)
+- [Leap](/post/leap/)
+- [Drop](/post/drop/)
+- [Fall](/post/fall/)
+- [Dash](/post/dash/)
+- [Bold](/post/bold/) [move](/post/move/)
+- [Hasty](/post/hasty/) [decision](/post/decision/)
 
 ## Antonyms
-- [Rise](/en/post/rise/)
+- [Rise](/post/rise/)
 - Ascend
-- [Retreat](/en/post/retreat/)
-- [Avoid](/en/post/avoid/)
-- [Slow](/en/post/slow/) descent
-- Cautionary [action](/en/post/action/)
+- [Retreat](/post/retreat/)
+- [Avoid](/post/avoid/)
+- [Slow](/post/slow/) descent
+- Cautionary [action](/post/action/)

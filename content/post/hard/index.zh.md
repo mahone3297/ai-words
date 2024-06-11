@@ -11,21 +11,21 @@ keywords = ['ai words', 'hard']
 /hɑːrd/
 
 ## 释义
-- **形容词**: 硬的，坚固的，困难的。例如: "[This](/post/this/) [rock](/post/rock/) is [very](/post/very/) [hard](/post/hard/)."，"[The](/post/the/) [assignment](/post/assignment/) was [too](/post/too/) [hard](/post/hard/) [for](/post/for/) [most](/post/most/) students."
-- **副词**: 努力地，费劲地。例如: "[He](/post/he/) works [hard](/post/hard/) [to](/post/to/) [achieve](/post/achieve/) [his](/post/his/) goals."
+- **形容词**: 硬的，坚固的，困难的。例如: "[This](/zh/post/this/) [rock](/zh/post/rock/) is [very](/zh/post/very/) [hard](/zh/post/hard/)."，"[The](/zh/post/the/) [assignment](/zh/post/assignment/) was [too](/zh/post/too/) [hard](/zh/post/hard/) [for](/zh/post/for/) [most](/zh/post/most/) students."
+- **副词**: 努力地，费劲地。例如: "[He](/zh/post/he/) works [hard](/zh/post/hard/) [to](/zh/post/to/) [achieve](/zh/post/achieve/) [his](/zh/post/his/) goals."
 
 ## 短语
-- "[Hard](/post/hard/) [work](/post/work/)" 意味着辛勤的努力。
-- "[As](/post/as/) [hard](/post/hard/) [as](/post/as/) nails" 形容人非常坚强或无情。
-- "[Hard](/post/hard/) times" 指艰难时期。
+- "[Hard](/zh/post/hard/) [work](/zh/post/work/)" 意味着辛勤的努力。
+- "[As](/zh/post/as/) [hard](/zh/post/hard/) [as](/zh/post/as/) nails" 形容人非常坚强或无情。
+- "[Hard](/zh/post/hard/) times" 指艰难时期。
 
 ## 例句
-- 形容词: "[The](/post/the/) [wood](/post/wood/) was [so](/post/so/) [hard](/post/hard/) [that](/post/that/) [it](/post/it/) was [difficult](/post/difficult/) [to](/post/to/) [drill](/post/drill/) [through](/post/through/)."
-- 副词: "[She](/post/she/) studied [as](/post/as/) [hard](/post/hard/) [as](/post/as/) [she](/post/she/) [could](/post/could/) [to](/post/to/) [pass](/post/pass/) [the](/post/the/) [exam](/post/exam/)."
+- 形容词: "[The](/zh/post/the/) [wood](/zh/post/wood/) was [so](/zh/post/so/) [hard](/zh/post/hard/) [that](/zh/post/that/) [it](/zh/post/it/) was [difficult](/zh/post/difficult/) [to](/zh/post/to/) [drill](/zh/post/drill/) [through](/zh/post/through/)."
+- 副词: "[She](/zh/post/she/) studied [as](/zh/post/as/) [hard](/zh/post/hard/) [as](/zh/post/as/) [she](/zh/post/she/) [could](/zh/post/could/) [to](/zh/post/to/) [pass](/zh/post/pass/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
 
 ## 同义词
-- [Difficult](/post/difficult/)
-- [Tough](/post/tough/)
+- [Difficult](/zh/post/difficult/)
+- [Tough](/zh/post/tough/)
 - Challenging
-- [Rigid](/post/rigid/)
-- [Severe](/post/severe/)
+- [Rigid](/zh/post/rigid/)
+- [Severe](/zh/post/severe/)

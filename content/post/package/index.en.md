@@ -7,31 +7,31 @@ description = '[ˈpækidʒ] n.包裹，包，捆'
 keywords = ['ai words', 'package']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈpækɪdʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [container](/en/post/container/) [or](/en/post/or/) wrapper made [of](/en/post/of/) [paper](/en/post/paper/), cardboard, [plastic](/en/post/plastic/), [or](/en/post/or/) [other](/en/post/other/) [material](/en/post/material/) [in](/en/post/in/) [which](/en/post/which/) [goods](/en/post/goods/) are packaged [for](/en/post/for/) [storage](/en/post/storage/), [transport](/en/post/transport/), [sale](/en/post/sale/), [or](/en/post/or/) [delivery](/en/post/delivery/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) ordered [several](/en/post/several/) packages [from](/en/post/from/) [the](/en/post/the/) online [store](/en/post/store/)."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) things wrapped [or](/en/post/or/) boxed [together](/en/post/together/); [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) related items [or](/en/post/or/) services offered [as](/en/post/as/) [a](/en/post/a/) [single](/en/post/single/) [unit](/en/post/unit/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [holiday](/en/post/holiday/) [package](/en/post/package/) includes flights, [accommodation](/en/post/accommodation/), [and](/en/post/and/) meals."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [bundle](/en/post/bundle/) [of](/en/post/of/) software programs [or](/en/post/or/) features sold [as](/en/post/as/) [one](/en/post/one/) entity. E.g., "[The](/en/post/the/) operating [system](/en/post/system/) comes [with](/en/post/with/) [a](/en/post/a/) productivity [package](/en/post/package/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [put](/en/post/put/) [something](/en/post/something/) [into](/en/post/into/) [a](/en/post/a/) [package](/en/post/package/) [or](/en/post/or/) [wrap](/en/post/wrap/) [it](/en/post/it/) [up](/en/post/up/) [for](/en/post/for/) [storage](/en/post/storage/), [transportation](/en/post/transportation/), [or](/en/post/or/) [sale](/en/post/sale/). [Example](/en/post/example/): "[She](/en/post/she/) carefully packaged [the](/en/post/the/) fragile [vase](/en/post/vase/) [in](/en/post/in/) [bubble](/en/post/bubble/) [wrap](/en/post/wrap/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [offer](/en/post/offer/) [or](/en/post/or/) [present](/en/post/present/) [something](/en/post/something/) [as](/en/post/as/) [a](/en/post/a/) combined [or](/en/post/or/) organized [set](/en/post/set/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) packages [its](/en/post/its/) products [to](/en/post/to/) [appeal](/en/post/appeal/) [to](/en/post/to/) [different](/en/post/different/) [market](/en/post/market/) segments."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [container](/post/container/) [or](/post/or/) wrapper made [of](/post/of/) [paper](/post/paper/), cardboard, [plastic](/post/plastic/), [or](/post/or/) [other](/post/other/) [material](/post/material/) [in](/post/in/) [which](/post/which/) [goods](/post/goods/) are packaged [for](/post/for/) [storage](/post/storage/), [transport](/post/transport/), [sale](/post/sale/), [or](/post/or/) [delivery](/post/delivery/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) ordered [several](/post/several/) packages [from](/post/from/) [the](/post/the/) online [store](/post/store/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [set](/post/set/) [of](/post/of/) things wrapped [or](/post/or/) boxed [together](/post/together/); [a](/post/a/) [collection](/post/collection/) [of](/post/of/) related items [or](/post/or/) services offered [as](/post/as/) [a](/post/a/) [single](/post/single/) [unit](/post/unit/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [holiday](/post/holiday/) [package](/post/package/) includes flights, [accommodation](/post/accommodation/), [and](/post/and/) meals."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [bundle](/post/bundle/) [of](/post/of/) software programs [or](/post/or/) features sold [as](/post/as/) [one](/post/one/) entity. E.g., "[The](/post/the/) operating [system](/post/system/) comes [with](/post/with/) [a](/post/a/) productivity [package](/post/package/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [put](/post/put/) [something](/post/something/) [into](/post/into/) [a](/post/a/) [package](/post/package/) [or](/post/or/) [wrap](/post/wrap/) [it](/post/it/) [up](/post/up/) [for](/post/for/) [storage](/post/storage/), [transportation](/post/transportation/), [or](/post/or/) [sale](/post/sale/). [Example](/post/example/): "[She](/post/she/) carefully packaged [the](/post/the/) fragile [vase](/post/vase/) [in](/post/in/) [bubble](/post/bubble/) [wrap](/post/wrap/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [offer](/post/offer/) [or](/post/or/) [present](/post/present/) [something](/post/something/) [as](/post/as/) [a](/post/a/) combined [or](/post/or/) organized [set](/post/set/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) packages [its](/post/its/) products [to](/post/to/) [appeal](/post/appeal/) [to](/post/to/) [different](/post/different/) [market](/post/market/) segments."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [package](/en/post/package/)" – referring [to](/en/post/to/) [something](/en/post/something/) [being](/en/post/being/) included [within](/en/post/within/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [set](/en/post/set/).
-- "[Under](/en/post/under/) [the](/en/post/the/) [package](/en/post/package/) [deal](/en/post/deal/)" – [when](/en/post/when/) [multiple](/en/post/multiple/) items [or](/en/post/or/) services are [provided](/en/post/provided/) [together](/en/post/together/) [at](/en/post/at/) [a](/en/post/a/) discounted [price](/en/post/price/).
-- "[Think](/en/post/think/) [outside](/en/post/outside/) [the](/en/post/the/) [box](/en/post/box/)/[package](/en/post/package/)" – [a](/en/post/a/) metaphorical [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [consider](/en/post/consider/) [new](/en/post/new/) [or](/en/post/or/) unconventional ideas.
+- "[In](/post/in/) [the](/post/the/) [package](/post/package/)" – referring [to](/post/to/) [something](/post/something/) [being](/post/being/) included [within](/post/within/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [set](/post/set/).
+- "[Under](/post/under/) [the](/post/the/) [package](/post/package/) [deal](/post/deal/)" – [when](/post/when/) [multiple](/post/multiple/) items [or](/post/or/) services are [provided](/post/provided/) [together](/post/together/) [at](/post/at/) [a](/post/a/) discounted [price](/post/price/).
+- "[Think](/post/think/) [outside](/post/outside/) [the](/post/the/) [box](/post/box/)/[package](/post/package/)" – [a](/post/a/) metaphorical [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [consider](/post/consider/) [new](/post/new/) [or](/post/or/) unconventional ideas.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) courier delivered [a](/en/post/a/) [large](/en/post/large/) [package](/en/post/package/) [this](/en/post/this/) [morning](/en/post/morning/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) had [to](/en/post/to/) [package](/en/post/package/) [the](/en/post/the/) [food](/en/post/food/) [in](/en/post/in/) vacuum-sealed bags [to](/en/post/to/) [maintain](/en/post/maintain/) freshness."
-- **[As](/en/post/as/) [a](/en/post/a/) marketing [concept](/en/post/concept/)**: "[The](/en/post/the/) telecommunications [company](/en/post/company/) offers [a](/en/post/a/) [comprehensive](/en/post/comprehensive/) [package](/en/post/package/) [that](/en/post/that/) combines TV, internet, [and](/en/post/and/) [phone](/en/post/phone/) services."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) courier delivered [a](/post/a/) [large](/post/large/) [package](/post/package/) [this](/post/this/) [morning](/post/morning/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) had [to](/post/to/) [package](/post/package/) [the](/post/the/) [food](/post/food/) [in](/post/in/) vacuum-sealed bags [to](/post/to/) [maintain](/post/maintain/) freshness."
+- **[As](/post/as/) [a](/post/a/) marketing [concept](/post/concept/)**: "[The](/post/the/) telecommunications [company](/post/company/) offers [a](/post/a/) [comprehensive](/post/comprehensive/) [package](/post/package/) [that](/post/that/) combines TV, internet, [and](/post/and/) [phone](/post/phone/) services."
 
 ## Synonyms
-- [Parcel](/en/post/parcel/) ([noun](/en/post/noun/))
-- [Box](/en/post/box/) ([noun](/en/post/noun/))
-- [Bundle](/en/post/bundle/) ([noun](/en/post/noun/))
-- [Wrap](/en/post/wrap/) ([verb](/en/post/verb/))
-- [Package](/en/post/package/) [deal](/en/post/deal/) ([noun](/en/post/noun/))
-- Kit ([noun](/en/post/noun/)) 
-- Offering ([noun](/en/post/noun/))
+- [Parcel](/post/parcel/) ([noun](/post/noun/))
+- [Box](/post/box/) ([noun](/post/noun/))
+- [Bundle](/post/bundle/) ([noun](/post/noun/))
+- [Wrap](/post/wrap/) ([verb](/post/verb/))
+- [Package](/post/package/) [deal](/post/deal/) ([noun](/post/noun/))
+- Kit ([noun](/post/noun/)) 
+- Offering ([noun](/post/noun/))

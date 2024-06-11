@@ -7,43 +7,43 @@ description = '[bəːn] vi.烧，燃烧 n.烧伤'
 keywords = ['ai words', 'burn']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbɜːrn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1** ([noun](/en/post/noun/)): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) causing [heat](/en/post/heat/) [or](/en/post/or/) [light](/en/post/light/) [to](/en/post/to/) [come](/en/post/come/) [from](/en/post/from/) [a](/en/post/a/) [fuel](/en/post/fuel/) [or](/en/post/or/) [material](/en/post/material/), typically [by](/en/post/by/) applying [heat](/en/post/heat/) [or](/en/post/or/) [friction](/en/post/friction/). [Example](/en/post/example/): "[The](/en/post/the/) [wood](/en/post/wood/) was burning brightly [in](/en/post/in/) [the](/en/post/the/) fireplace."
-- **2** ([noun](/en/post/noun/)): [A](/en/post/a/) [mark](/en/post/mark/) [or](/en/post/or/) discoloration [on](/en/post/on/) [the](/en/post/the/) [skin](/en/post/skin/) caused [by](/en/post/by/) [heat](/en/post/heat/), chemicals, [or](/en/post/or/) [radiation](/en/post/radiation/). [Example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [burn](/en/post/burn/) [from](/en/post/from/) touching [the](/en/post/the/) [hot](/en/post/hot/) [pan](/en/post/pan/)."
-- **3** ([noun](/en/post/noun/)): [A](/en/post/a/) sensation [of](/en/post/of/) [intense](/en/post/intense/) [heat](/en/post/heat/) [or](/en/post/or/) discomfort. [Example](/en/post/example/): "[The](/en/post/the/) [burn](/en/post/burn/) [of](/en/post/of/) embarrassment [after](/en/post/after/) [a](/en/post/a/) [public](/en/post/public/) [mistake](/en/post/mistake/)."
+### [Noun](/post/noun/)
+- **1** ([noun](/post/noun/)): [The](/post/the/) [act](/post/act/) [of](/post/of/) causing [heat](/post/heat/) [or](/post/or/) [light](/post/light/) [to](/post/to/) [come](/post/come/) [from](/post/from/) [a](/post/a/) [fuel](/post/fuel/) [or](/post/or/) [material](/post/material/), typically [by](/post/by/) applying [heat](/post/heat/) [or](/post/or/) [friction](/post/friction/). [Example](/post/example/): "[The](/post/the/) [wood](/post/wood/) was burning brightly [in](/post/in/) [the](/post/the/) fireplace."
+- **2** ([noun](/post/noun/)): [A](/post/a/) [mark](/post/mark/) [or](/post/or/) discoloration [on](/post/on/) [the](/post/the/) [skin](/post/skin/) caused [by](/post/by/) [heat](/post/heat/), chemicals, [or](/post/or/) [radiation](/post/radiation/). [Example](/post/example/): "[She](/post/she/) has [a](/post/a/) [burn](/post/burn/) [from](/post/from/) touching [the](/post/the/) [hot](/post/hot/) [pan](/post/pan/)."
+- **3** ([noun](/post/noun/)): [A](/post/a/) sensation [of](/post/of/) [intense](/post/intense/) [heat](/post/heat/) [or](/post/or/) discomfort. [Example](/post/example/): "[The](/post/the/) [burn](/post/burn/) [of](/post/of/) embarrassment [after](/post/after/) [a](/post/a/) [public](/post/public/) [mistake](/post/mistake/)."
 
-### [Verb](/en/post/verb/)
-- **1** ([verb](/en/post/verb/)): [To](/en/post/to/) [cause](/en/post/cause/) [to](/en/post/to/) [be](/en/post/be/) consumed [by](/en/post/by/) [fire](/en/post/fire/), [heat](/en/post/heat/), [or](/en/post/or/) [a](/en/post/a/) [chemical](/en/post/chemical/) [reaction](/en/post/reaction/). [Example](/en/post/example/): "[The](/en/post/the/) chef carefully burned [the](/en/post/the/) onions [until](/en/post/until/) [they](/en/post/they/) caramelized."
-- **2** ([verb](/en/post/verb/)): [To](/en/post/to/) [damage](/en/post/damage/) [or](/en/post/or/) [destroy](/en/post/destroy/) ([a](/en/post/a/) [material](/en/post/material/)) [by](/en/post/by/) [heat](/en/post/heat/), [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) manufacturing [process](/en/post/process/). [Example](/en/post/example/): "[The](/en/post/the/) [paper](/en/post/paper/) [will](/en/post/will/) [burn](/en/post/burn/) [easily](/en/post/easily/) [if](/en/post/if/) exposed [to](/en/post/to/) [flame](/en/post/flame/)."
-- **3** ([verb](/en/post/verb/)): [To](/en/post/to/) [express](/en/post/express/) [strong](/en/post/strong/) [emotion](/en/post/emotion/), [such](/en/post/such/) [as](/en/post/as/) [anger](/en/post/anger/) [or](/en/post/or/) frustration. [Example](/en/post/example/): "[His](/en/post/his/) words [really](/en/post/really/) burned [her](/en/post/her/)."
+### [Verb](/post/verb/)
+- **1** ([verb](/post/verb/)): [To](/post/to/) [cause](/post/cause/) [to](/post/to/) [be](/post/be/) consumed [by](/post/by/) [fire](/post/fire/), [heat](/post/heat/), [or](/post/or/) [a](/post/a/) [chemical](/post/chemical/) [reaction](/post/reaction/). [Example](/post/example/): "[The](/post/the/) chef carefully burned [the](/post/the/) onions [until](/post/until/) [they](/post/they/) caramelized."
+- **2** ([verb](/post/verb/)): [To](/post/to/) [damage](/post/damage/) [or](/post/or/) [destroy](/post/destroy/) ([a](/post/a/) [material](/post/material/)) [by](/post/by/) [heat](/post/heat/), [as](/post/as/) [in](/post/in/) [a](/post/a/) manufacturing [process](/post/process/). [Example](/post/example/): "[The](/post/the/) [paper](/post/paper/) [will](/post/will/) [burn](/post/burn/) [easily](/post/easily/) [if](/post/if/) exposed [to](/post/to/) [flame](/post/flame/)."
+- **3** ([verb](/post/verb/)): [To](/post/to/) [express](/post/express/) [strong](/post/strong/) [emotion](/post/emotion/), [such](/post/such/) [as](/post/as/) [anger](/post/anger/) [or](/post/or/) frustration. [Example](/post/example/): "[His](/post/his/) words [really](/post/really/) burned [her](/post/her/)."
 
-### [Adjective](/en/post/adjective/)
-- **1** ([adjective](/en/post/adjective/)): Experiencing [or](/en/post/or/) producing [heat](/en/post/heat/) [or](/en/post/or/) inflammation. [Example](/en/post/example/): "[A](/en/post/a/) burnt [tongue](/en/post/tongue/) [from](/en/post/from/) eating [too](/en/post/too/) [hot](/en/post/hot/) peppers."
-- **2** ([adjective](/en/post/adjective/)): Marked [by](/en/post/by/) [a](/en/post/a/) [scar](/en/post/scar/) [or](/en/post/or/) discoloration [from](/en/post/from/) [heat](/en/post/heat/) [or](/en/post/or/) [a](/en/post/a/) [chemical](/en/post/chemical/) [reaction](/en/post/reaction/). [Example](/en/post/example/): "[A](/en/post/a/) burnt [patch](/en/post/patch/) [on](/en/post/on/) [her](/en/post/her/) [arm](/en/post/arm/) [from](/en/post/from/) [a](/en/post/a/) sunburn."
+### [Adjective](/post/adjective/)
+- **1** ([adjective](/post/adjective/)): Experiencing [or](/post/or/) producing [heat](/post/heat/) [or](/post/or/) inflammation. [Example](/post/example/): "[A](/post/a/) burnt [tongue](/post/tongue/) [from](/post/from/) eating [too](/post/too/) [hot](/post/hot/) peppers."
+- **2** ([adjective](/post/adjective/)): Marked [by](/post/by/) [a](/post/a/) [scar](/post/scar/) [or](/post/or/) discoloration [from](/post/from/) [heat](/post/heat/) [or](/post/or/) [a](/post/a/) [chemical](/post/chemical/) [reaction](/post/reaction/). [Example](/post/example/): "[A](/post/a/) burnt [patch](/post/patch/) [on](/post/on/) [her](/post/her/) [arm](/post/arm/) [from](/post/from/) [a](/post/a/) sunburn."
 
-### [Adverb](/en/post/adverb/)
-- ([adverb](/en/post/adverb/)): [With](/en/post/with/) [intense](/en/post/intense/) [heat](/en/post/heat/) [or](/en/post/or/) [intensity](/en/post/intensity/). [Example](/en/post/example/): "[She](/en/post/she/) burned [quickly](/en/post/quickly/), finishing [the](/en/post/the/) [task](/en/post/task/) [in](/en/post/in/) [no](/en/post/no/) [time](/en/post/time/)."
+### [Adverb](/post/adverb/)
+- ([adverb](/post/adverb/)): [With](/post/with/) [intense](/post/intense/) [heat](/post/heat/) [or](/post/or/) [intensity](/post/intensity/). [Example](/post/example/): "[She](/post/she/) burned [quickly](/post/quickly/), finishing [the](/post/the/) [task](/post/task/) [in](/post/in/) [no](/post/no/) [time](/post/time/)."
 
 ## Phrases
-- "[Feel](/en/post/feel/) [the](/en/post/the/) [burn](/en/post/burn/)" refers [to](/en/post/to/) [the](/en/post/the/) [physical](/en/post/physical/) exertion [or](/en/post/or/) discomfort [during](/en/post/during/) [exercise](/en/post/exercise/).
-- "[The](/en/post/the/) [burn](/en/post/burn/) [of](/en/post/of/) [defeat](/en/post/defeat/)" describes [the](/en/post/the/) [emotional](/en/post/emotional/) [pain](/en/post/pain/) [after](/en/post/after/) [a](/en/post/a/) [loss](/en/post/loss/).
-- "Don't [burn](/en/post/burn/) [your](/en/post/your/) fingers" is [a](/en/post/a/) warning [to](/en/post/to/) [avoid](/en/post/avoid/) getting [too](/en/post/too/) [close](/en/post/close/) [to](/en/post/to/) [a](/en/post/a/) [hot](/en/post/hot/) [surface](/en/post/surface/).
+- "[Feel](/post/feel/) [the](/post/the/) [burn](/post/burn/)" refers [to](/post/to/) [the](/post/the/) [physical](/post/physical/) exertion [or](/post/or/) discomfort [during](/post/during/) [exercise](/post/exercise/).
+- "[The](/post/the/) [burn](/post/burn/) [of](/post/of/) [defeat](/post/defeat/)" describes [the](/post/the/) [emotional](/post/emotional/) [pain](/post/pain/) [after](/post/after/) [a](/post/a/) [loss](/post/loss/).
+- "Don't [burn](/post/burn/) [your](/post/your/) fingers" is [a](/post/a/) warning [to](/post/to/) [avoid](/post/avoid/) getting [too](/post/too/) [close](/post/close/) [to](/post/to/) [a](/post/a/) [hot](/post/hot/) [surface](/post/surface/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) candle's [flame](/en/post/flame/) was burning [steadily](/en/post/steadily/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) chef carefully burned [the](/en/post/the/) steak [to](/en/post/to/) perfection."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [skin](/en/post/skin/) was burnt [red](/en/post/red/) [from](/en/post/from/) [the](/en/post/the/) [sun](/en/post/sun/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) felt [the](/en/post/the/) [burn](/en/post/burn/) [in](/en/post/in/) [his](/en/post/his/) muscles [as](/en/post/as/) [he](/en/post/he/) pushed harder."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) candle's [flame](/post/flame/) was burning [steadily](/post/steadily/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) chef carefully burned [the](/post/the/) steak [to](/post/to/) perfection."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [skin](/post/skin/) was burnt [red](/post/red/) [from](/post/from/) [the](/post/the/) [sun](/post/sun/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) felt [the](/post/the/) [burn](/post/burn/) [in](/post/in/) [his](/post/his/) muscles [as](/post/as/) [he](/post/he/) pushed harder."
 
 ## Synonyms
 - Scorch
-- [Roast](/en/post/roast/)
+- [Roast](/post/roast/)
 -焦灼
 - Illuminate
-- [Melt](/en/post/melt/)
-- [Sting](/en/post/sting/)
-- Irritate ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) causing discomfort)
+- [Melt](/post/melt/)
+- [Sting](/post/sting/)
+- Irritate ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) causing discomfort)

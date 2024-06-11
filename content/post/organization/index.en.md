@@ -7,39 +7,39 @@ description = '[ˌɔːgənaiˈzei∫ən] n.组织;团体,机构'
 keywords = ['ai words', 'organization']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɔːrɡənaɪˈzeɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) structured [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) united [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [business](/en/post/business/), [society](/en/post/society/), [association](/en/post/association/), [or](/en/post/or/) [government](/en/post/government/) [body](/en/post/body/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) planning [and](/en/post/and/) coordinating resources [and](/en/post/and/) activities effectively [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) [specific](/en/post/specific/) [goal](/en/post/goal/).
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) structured [group](/post/group/) [of](/post/of/) [people](/post/people/) united [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [business](/post/business/), [society](/post/society/), [association](/post/association/), [or](/post/or/) [government](/post/government/) [body](/post/body/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) planning [and](/post/and/) coordinating resources [and](/post/and/) activities effectively [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) [specific](/post/specific/) [goal](/post/goal/).
 
-[Example](/en/post/example/) sentences:
-- *[The](/en/post/the/) United Nations is an [international](/en/post/international/) [organization](/en/post/organization/) [that](/en/post/that/) aims [to](/en/post/to/) [maintain](/en/post/maintain/) global [peace](/en/post/peace/) [and](/en/post/and/) [security](/en/post/security/).*
-- *"She's [in](/en/post/in/) [charge](/en/post/charge/) [of](/en/post/of/) [the](/en/post/the/) organization's fundraising efforts."*
-- *"[Effective](/en/post/effective/) [time](/en/post/time/) [management](/en/post/management/) requires [good](/en/post/good/) [organization](/en/post/organization/) skills."*
+[Example](/post/example/) sentences:
+- *[The](/post/the/) United Nations is an [international](/post/international/) [organization](/post/organization/) [that](/post/that/) aims [to](/post/to/) [maintain](/post/maintain/) global [peace](/post/peace/) [and](/post/and/) [security](/post/security/).*
+- *"She's [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [the](/post/the/) organization's fundraising efforts."*
+- *"[Effective](/post/effective/) [time](/post/time/) [management](/post/management/) requires [good](/post/good/) [organization](/post/organization/) skills."*
 
 ## Phrases
-- "Nonprofit [organization](/en/post/organization/)": [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [organization](/en/post/organization/) [that](/en/post/that/) uses [its](/en/post/its/) surplus revenues [to](/en/post/to/) [further](/en/post/further/) [achieve](/en/post/achieve/) [its](/en/post/its/) [purpose](/en/post/purpose/) [rather](/en/post/rather/) [than](/en/post/than/) distributing [it](/en/post/it/) [as](/en/post/as/) [profit](/en/post/profit/).
-- "Top-down [organization](/en/post/organization/)": [A](/en/post/a/) hierarchical [structure](/en/post/structure/) [where](/en/post/where/) decisions are made [by](/en/post/by/) [upper](/en/post/upper/) [management](/en/post/management/) [and](/en/post/and/) [then](/en/post/then/) implemented [by](/en/post/by/) [lower](/en/post/lower/) levels.
-- "[Join](/en/post/join/) an [organization](/en/post/organization/)": [To](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/) [with](/en/post/with/) [a](/en/post/a/) shared [purpose](/en/post/purpose/) [or](/en/post/or/) [interest](/en/post/interest/).
+- "Nonprofit [organization](/post/organization/)": [A](/post/a/) [type](/post/type/) [of](/post/of/) [organization](/post/organization/) [that](/post/that/) uses [its](/post/its/) surplus revenues [to](/post/to/) [further](/post/further/) [achieve](/post/achieve/) [its](/post/its/) [purpose](/post/purpose/) [rather](/post/rather/) [than](/post/than/) distributing [it](/post/it/) [as](/post/as/) [profit](/post/profit/).
+- "Top-down [organization](/post/organization/)": [A](/post/a/) hierarchical [structure](/post/structure/) [where](/post/where/) decisions are made [by](/post/by/) [upper](/post/upper/) [management](/post/management/) [and](/post/and/) [then](/post/then/) implemented [by](/post/by/) [lower](/post/lower/) levels.
+- "[Join](/post/join/) an [organization](/post/organization/)": [To](/post/to/) [become](/post/become/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [group](/post/group/) [with](/post/with/) [a](/post/a/) shared [purpose](/post/purpose/) [or](/post/or/) [interest](/post/interest/).
 
-## [Example](/en/post/example/) Sentences
-- *[After](/en/post/after/) graduation, [he](/en/post/he/) joined [a](/en/post/a/) [professional](/en/post/professional/) [organization](/en/post/organization/) [to](/en/post/to/) [network](/en/post/network/) [and](/en/post/and/) [advance](/en/post/advance/) [his](/en/post/his/) [career](/en/post/career/).*
-- *"[The](/en/post/the/) [company](/en/post/company/) underwent [a](/en/post/a/) [major](/en/post/major/) organizational restructuring [last](/en/post/last/) [year](/en/post/year/)."*
-- *"[They](/en/post/they/) founded [a](/en/post/a/) [charity](/en/post/charity/) [organization](/en/post/organization/) [to](/en/post/to/) [help](/en/post/help/) underprivileged children [in](/en/post/in/) [their](/en/post/their/) [community](/en/post/community/).*
+## [Example](/post/example/) Sentences
+- *[After](/post/after/) graduation, [he](/post/he/) joined [a](/post/a/) [professional](/post/professional/) [organization](/post/organization/) [to](/post/to/) [network](/post/network/) [and](/post/and/) [advance](/post/advance/) [his](/post/his/) [career](/post/career/).*
+- *"[The](/post/the/) [company](/post/company/) underwent [a](/post/a/) [major](/post/major/) organizational restructuring [last](/post/last/) [year](/post/year/)."*
+- *"[They](/post/they/) founded [a](/post/a/) [charity](/post/charity/) [organization](/post/organization/) [to](/post/to/) [help](/post/help/) underprivileged children [in](/post/in/) [their](/post/their/) [community](/post/community/).*
 
 ## Synonyms
-- [Institution](/en/post/institution/)
-- [Body](/en/post/body/)
-- [Group](/en/post/group/)
-- [Association](/en/post/association/)
-- [Society](/en/post/society/)
-- [Corporation](/en/post/corporation/)
-- [Establishment](/en/post/establishment/)
+- [Institution](/post/institution/)
+- [Body](/post/body/)
+- [Group](/post/group/)
+- [Association](/post/association/)
+- [Society](/post/society/)
+- [Corporation](/post/corporation/)
+- [Establishment](/post/establishment/)
 - Entity
-- [Community](/en/post/community/)
-- [System](/en/post/system/)
-- [Arrangement](/en/post/arrangement/)
+- [Community](/post/community/)
+- [System](/post/system/)
+- [Arrangement](/post/arrangement/)
 - Planning
 - Coordination
 - Structuring

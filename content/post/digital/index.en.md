@@ -7,31 +7,31 @@ description = '[ˈdidʒitl] a.数字的，计数的'
 keywords = ['ai words', 'digital']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈɡɪtəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [form](/en/post/form/) [or](/en/post/or/) [aspect](/en/post/aspect/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) is based [on](/en/post/on/) [or](/en/post/or/) using [digital](/en/post/digital/) [technology](/en/post/technology/), [especially](/en/post/especially/) computers [or](/en/post/or/) [data](/en/post/data/) processing. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [digital](/en/post/digital/) [age](/en/post/age/) has revolutionized [communication](/en/post/communication/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) involving digits (0-9) [or](/en/post/or/) [digital](/en/post/digital/) [technology](/en/post/technology/), [such](/en/post/such/) [as](/en/post/as/) [electronic](/en/post/electronic/) devices [and](/en/post/and/) [data](/en/post/data/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [digital](/en/post/digital/) [camera](/en/post/camera/) captures images electronically."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [convert](/en/post/convert/) [or](/en/post/or/) [represent](/en/post/represent/) ([information](/en/post/information/)) [in](/en/post/in/) [digital](/en/post/digital/) [form](/en/post/form/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) digitize [all](/en/post/all/) [our](/en/post/our/) [old](/en/post/old/) photographs."
+- **[Noun](/post/noun/)**: [A](/post/a/) [form](/post/form/) [or](/post/or/) [aspect](/post/aspect/) [of](/post/of/) [something](/post/something/) [that](/post/that/) is based [on](/post/on/) [or](/post/or/) using [digital](/post/digital/) [technology](/post/technology/), [especially](/post/especially/) computers [or](/post/or/) [data](/post/data/) processing. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [digital](/post/digital/) [age](/post/age/) has revolutionized [communication](/post/communication/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) involving digits (0-9) [or](/post/or/) [digital](/post/digital/) [technology](/post/technology/), [such](/post/such/) [as](/post/as/) [electronic](/post/electronic/) devices [and](/post/and/) [data](/post/data/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [digital](/post/digital/) [camera](/post/camera/) captures images electronically."
+- **[Verb](/post/verb/)**: [To](/post/to/) [convert](/post/convert/) [or](/post/or/) [represent](/post/represent/) ([information](/post/information/)) [in](/post/in/) [digital](/post/digital/) [form](/post/form/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) digitize [all](/post/all/) [our](/post/our/) [old](/post/old/) photographs."
 
 ## Phrases
-- "[Digital](/en/post/digital/) [transformation](/en/post/transformation/)" refers [to](/en/post/to/) [the](/en/post/the/) [change](/en/post/change/) [in](/en/post/in/) [business](/en/post/business/) processes [through](/en/post/through/) [digital](/en/post/digital/) [technology](/en/post/technology/).
-- "Going [digital](/en/post/digital/)" [means](/en/post/means/) moving [from](/en/post/from/) analog [to](/en/post/to/) [digital](/en/post/digital/) formats.
-- "[Digital](/en/post/digital/) [signature](/en/post/signature/)" is an [electronic](/en/post/electronic/) [method](/en/post/method/) [of](/en/post/of/) verifying authenticity.
+- "[Digital](/post/digital/) [transformation](/post/transformation/)" refers [to](/post/to/) [the](/post/the/) [change](/post/change/) [in](/post/in/) [business](/post/business/) processes [through](/post/through/) [digital](/post/digital/) [technology](/post/technology/).
+- "Going [digital](/post/digital/)" [means](/post/means/) moving [from](/post/from/) analog [to](/post/to/) [digital](/post/digital/) formats.
+- "[Digital](/post/digital/) [signature](/post/signature/)" is an [electronic](/post/electronic/) [method](/post/method/) [of](/post/of/) verifying authenticity.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) museum's [collection](/en/post/collection/) includes [both](/en/post/both/) [traditional](/en/post/traditional/) [art](/en/post/art/) [and](/en/post/and/) [digital](/en/post/digital/) installations."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) prefers [the](/en/post/the/) [convenience](/en/post/convenience/) [of](/en/post/of/) [a](/en/post/a/) [digital](/en/post/digital/) [wallet](/en/post/wallet/) [over](/en/post/over/) carrying [cash](/en/post/cash/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) digitized [his](/en/post/his/) handwritten notes [before](/en/post/before/) storing [them](/en/post/them/) [in](/en/post/in/) [the](/en/post/the/) [cloud](/en/post/cloud/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) museum's [collection](/post/collection/) includes [both](/post/both/) [traditional](/post/traditional/) [art](/post/art/) [and](/post/and/) [digital](/post/digital/) installations."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) prefers [the](/post/the/) [convenience](/post/convenience/) [of](/post/of/) [a](/post/a/) [digital](/post/digital/) [wallet](/post/wallet/) [over](/post/over/) carrying [cash](/post/cash/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) digitized [his](/post/his/) handwritten notes [before](/post/before/) storing [them](/post/them/) [in](/post/in/) [the](/post/the/) [cloud](/post/cloud/)."
 
 ## Synonyms
-- [Electronic](/en/post/electronic/)
+- [Electronic](/post/electronic/)
 - Binary
 - Computerized
 - Digitalized
 - Digitally-based
-- [Electronic](/en/post/electronic/) [data](/en/post/data/)
-- Binary [code](/en/post/code/)
+- [Electronic](/post/electronic/) [data](/post/data/)
+- Binary [code](/post/code/)
 - Online
 - Networked

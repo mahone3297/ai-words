@@ -7,40 +7,40 @@ description = '[ˈspirit] n.精神；气魄；情绪'
 keywords = ['ai words', 'spirit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /spɪˈrɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [A](/en/post/a/) non-physical essence [or](/en/post/or/) [force](/en/post/force/) believed [to](/en/post/to/) animate [and](/en/post/and/) [give](/en/post/give/) [life](/en/post/life/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [object](/en/post/object/), [often](/en/post/often/) associated [with](/en/post/with/) beliefs [in](/en/post/in/) [religion](/en/post/religion/) [or](/en/post/or/) spirituality: *[The](/en/post/the/) [building](/en/post/building/) has [a](/en/post/a/) haunted [spirit](/en/post/spirit/).*
-- **2.** [The](/en/post/the/) [mood](/en/post/mood/) [or](/en/post/or/) [atmosphere](/en/post/atmosphere/) [of](/en/post/of/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [event](/en/post/event/): *[The](/en/post/the/) [party](/en/post/party/) had [a](/en/post/a/) [lively](/en/post/lively/) [spirit](/en/post/spirit/).*
-- **3.** [Alcohol](/en/post/alcohol/): *[He](/en/post/he/) ordered [a](/en/post/a/) [glass](/en/post/glass/) [of](/en/post/of/) [red](/en/post/red/) [wine](/en/post/wine/) [to](/en/post/to/) [settle](/en/post/settle/) [his](/en/post/his/) nerves [before](/en/post/before/) [dinner](/en/post/dinner/).*
+### [Noun](/post/noun/)
+- **1.** [A](/post/a/) non-physical essence [or](/post/or/) [force](/post/force/) believed [to](/post/to/) animate [and](/post/and/) [give](/post/give/) [life](/post/life/) [to](/post/to/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [object](/post/object/), [often](/post/often/) associated [with](/post/with/) beliefs [in](/post/in/) [religion](/post/religion/) [or](/post/or/) spirituality: *[The](/post/the/) [building](/post/building/) has [a](/post/a/) haunted [spirit](/post/spirit/).*
+- **2.** [The](/post/the/) [mood](/post/mood/) [or](/post/or/) [atmosphere](/post/atmosphere/) [of](/post/of/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [event](/post/event/): *[The](/post/the/) [party](/post/party/) had [a](/post/a/) [lively](/post/lively/) [spirit](/post/spirit/).*
+- **3.** [Alcohol](/post/alcohol/): *[He](/post/he/) ordered [a](/post/a/) [glass](/post/glass/) [of](/post/of/) [red](/post/red/) [wine](/post/wine/) [to](/post/to/) [settle](/post/settle/) [his](/post/his/) nerves [before](/post/before/) [dinner](/post/dinner/).*
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [inspire](/en/post/inspire/) [or](/en/post/or/) [motivate](/en/post/motivate/) [someone](/en/post/someone/):** *[The](/en/post/the/) coach's words lifted [the](/en/post/the/) team's spirits.*
-- **[To](/en/post/to/) imbue [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [quality](/en/post/quality/) [or](/en/post/or/) [character](/en/post/character/):** *[The](/en/post/the/) [book](/en/post/book/) was written [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [adventure](/en/post/adventure/) [that](/en/post/that/) inspired [the](/en/post/the/) reader's [spirit](/en/post/spirit/).*
+### [Verb](/post/verb/)
+- **[To](/post/to/) [inspire](/post/inspire/) [or](/post/or/) [motivate](/post/motivate/) [someone](/post/someone/):** *[The](/post/the/) coach's words lifted [the](/post/the/) team's spirits.*
+- **[To](/post/to/) imbue [with](/post/with/) [a](/post/a/) [particular](/post/particular/) [quality](/post/quality/) [or](/post/or/) [character](/post/character/):** *[The](/post/the/) [book](/post/book/) was written [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [adventure](/post/adventure/) [that](/post/that/) inspired [the](/post/the/) reader's [spirit](/post/spirit/).*
 
-### [Adjective](/en/post/adjective/)
-- **1.** [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [the](/en/post/the/) [soul](/en/post/soul/) [or](/en/post/or/) [mind](/en/post/mind/); [mental](/en/post/mental/) [or](/en/post/or/) [emotional](/en/post/emotional/): *[A](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [inner](/en/post/inner/) [peace](/en/post/peace/) is [a](/en/post/a/) [spiritual](/en/post/spiritual/) [quality](/en/post/quality/).*
-- **2.** Intoxicated [by](/en/post/by/) [alcohol](/en/post/alcohol/): *[They](/en/post/they/) were having [a](/en/post/a/) [good](/en/post/good/) [time](/en/post/time/), well-spirited [after](/en/post/after/) [a](/en/post/a/) [few](/en/post/few/) drinks.*
-- **3.** [High](/en/post/high/) [or](/en/post/or/) elevated [in](/en/post/in/) [mood](/en/post/mood/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/): *[The](/en/post/the/) children were [full](/en/post/full/) [of](/en/post/of/) [holiday](/en/post/holiday/) [spirit](/en/post/spirit/).*
+### [Adjective](/post/adjective/)
+- **1.** [Characteristic](/post/characteristic/) [of](/post/of/) [the](/post/the/) [soul](/post/soul/) [or](/post/or/) [mind](/post/mind/); [mental](/post/mental/) [or](/post/or/) [emotional](/post/emotional/): *[A](/post/a/) [sense](/post/sense/) [of](/post/of/) [inner](/post/inner/) [peace](/post/peace/) is [a](/post/a/) [spiritual](/post/spiritual/) [quality](/post/quality/).*
+- **2.** Intoxicated [by](/post/by/) [alcohol](/post/alcohol/): *[They](/post/they/) were having [a](/post/a/) [good](/post/good/) [time](/post/time/), well-spirited [after](/post/after/) [a](/post/a/) [few](/post/few/) drinks.*
+- **3.** [High](/post/high/) [or](/post/or/) elevated [in](/post/in/) [mood](/post/mood/) [or](/post/or/) [enthusiasm](/post/enthusiasm/): *[The](/post/the/) children were [full](/post/full/) [of](/post/of/) [holiday](/post/holiday/) [spirit](/post/spirit/).*
 
 ## Phrases
-- "[Keep](/en/post/keep/) [up](/en/post/up/) [your](/en/post/your/) spirits" encourages [someone](/en/post/someone/) [to](/en/post/to/) [maintain](/en/post/maintain/) [their](/en/post/their/) motivation [or](/en/post/or/) positivity.
-- "[In](/en/post/in/) [the](/en/post/the/) [spirit](/en/post/spirit/) [of](/en/post/of/)" implies [something](/en/post/something/) is done [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [attitude](/en/post/attitude/) [or](/en/post/or/) [intention](/en/post/intention/).
-- "[Let](/en/post/let/) [your](/en/post/your/) [spirit](/en/post/spirit/) soar" suggests allowing [oneself](/en/post/oneself/) [to](/en/post/to/) [be](/en/post/be/) [free](/en/post/free/) [and](/en/post/and/) [enthusiastic](/en/post/enthusiastic/).
+- "[Keep](/post/keep/) [up](/post/up/) [your](/post/your/) spirits" encourages [someone](/post/someone/) [to](/post/to/) [maintain](/post/maintain/) [their](/post/their/) motivation [or](/post/or/) positivity.
+- "[In](/post/in/) [the](/post/the/) [spirit](/post/spirit/) [of](/post/of/)" implies [something](/post/something/) is done [with](/post/with/) [a](/post/a/) [particular](/post/particular/) [attitude](/post/attitude/) [or](/post/or/) [intention](/post/intention/).
+- "[Let](/post/let/) [your](/post/your/) [spirit](/post/spirit/) soar" suggests allowing [oneself](/post/oneself/) [to](/post/to/) [be](/post/be/) [free](/post/free/) [and](/post/and/) [enthusiastic](/post/enthusiastic/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) was said [to](/en/post/to/) [be](/en/post/be/) haunted [by](/en/post/by/) [the](/en/post/the/) [ghost](/en/post/ghost/) [of](/en/post/of/) [its](/en/post/its/) [former](/en/post/former/) owner's [spirit](/en/post/spirit/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) coach's pep [talk](/en/post/talk/) [really](/en/post/really/) lifted [the](/en/post/the/) team's spirits [before](/en/post/before/) [the](/en/post/the/) [big](/en/post/big/) [game](/en/post/game/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [spirit](/en/post/spirit/) was lifted [by](/en/post/by/) [the](/en/post/the/) [news](/en/post/news/) [of](/en/post/of/) [her](/en/post/her/) son's [acceptance](/en/post/acceptance/) [to](/en/post/to/) [university](/en/post/university/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [house](/post/house/) was said [to](/post/to/) [be](/post/be/) haunted [by](/post/by/) [the](/post/the/) [ghost](/post/ghost/) [of](/post/of/) [its](/post/its/) [former](/post/former/) owner's [spirit](/post/spirit/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) coach's pep [talk](/post/talk/) [really](/post/really/) lifted [the](/post/the/) team's spirits [before](/post/before/) [the](/post/the/) [big](/post/big/) [game](/post/game/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [spirit](/post/spirit/) was lifted [by](/post/by/) [the](/post/the/) [news](/post/news/) [of](/post/of/) [her](/post/her/) son's [acceptance](/post/acceptance/) [to](/post/to/) [university](/post/university/)."
 
 ## Synonyms
-- [Soul](/en/post/soul/)
+- [Soul](/post/soul/)
 - Essence
-- [Attitude](/en/post/attitude/)
+- [Attitude](/post/attitude/)
 - Temperament
 - Vitality
-- [Enthusiasm](/en/post/enthusiasm/)
+- [Enthusiasm](/post/enthusiasm/)
 -霊 (Japanese: 霊)
 - Spiritus (Latin)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'muscle']
 /mʌs.kl/
 
 ## 释义
-- **名词**: 肌肉；肌；肌肉组织。指生物体内能收缩和舒张的组织，用来运动身体各部位。例如: "[Regular](/post/regular/) [exercise](/post/exercise/) helps [build](/post/build/) [strong](/post/strong/) muscles."
-- **动词**: （非正式）用肌肉力量强迫或影响。例如: "[He](/post/he/) muscled [his](/post/his/) [way](/post/way/) [through](/post/through/) [the](/post/the/) [crowd](/post/crowd/)."
+- **名词**: 肌肉；肌；肌肉组织。指生物体内能收缩和舒张的组织，用来运动身体各部位。例如: "[Regular](/zh/post/regular/) [exercise](/zh/post/exercise/) helps [build](/zh/post/build/) [strong](/zh/post/strong/) muscles."
+- **动词**: （非正式）用肌肉力量强迫或影响。例如: "[He](/zh/post/he/) muscled [his](/zh/post/his/) [way](/zh/post/way/) [through](/zh/post/through/) [the](/zh/post/the/) [crowd](/zh/post/crowd/)."
 
 ## 短语
-- "[muscle](/post/muscle/) [in](/post/in/)/[on](/post/on/) [something](/post/something/)" 意味着强行介入或控制某个情况。
-- "[have](/post/have/) [muscle](/post/muscle/)" 指有影响力或实力。
+- "[muscle](/zh/post/muscle/) [in](/zh/post/in/)/[on](/zh/post/on/) [something](/zh/post/something/)" 意味着强行介入或控制某个情况。
+- "[have](/zh/post/have/) [muscle](/zh/post/muscle/)" 指有影响力或实力。
 
 ## 例句
-- 名词: "[She](/post/she/) works [out](/post/out/) [regularly](/post/regularly/) [to](/post/to/) [tone](/post/tone/) [her](/post/her/) [leg](/post/leg/) muscles."
-- 动词: "[The](/post/the/) gangsters muscled [their](/post/their/) [way](/post/way/) [into](/post/into/) [the](/post/the/) [business](/post/business/) [deal](/post/deal/)."
+- 名词: "[She](/zh/post/she/) works [out](/zh/post/out/) [regularly](/zh/post/regularly/) [to](/zh/post/to/) [tone](/zh/post/tone/) [her](/zh/post/her/) [leg](/zh/post/leg/) muscles."
+- 动词: "[The](/zh/post/the/) gangsters muscled [their](/zh/post/their/) [way](/zh/post/way/) [into](/zh/post/into/) [the](/zh/post/the/) [business](/zh/post/business/) [deal](/zh/post/deal/)."
 
 ## 同义词
 - brawn
-- [strength](/post/strength/)
+- [strength](/zh/post/strength/)
 - sinew
 - vigor
-- [might](/post/might/)
+- [might](/zh/post/might/)

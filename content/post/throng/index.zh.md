@@ -11,20 +11,20 @@ keywords = ['ai words', 'throng']
 /θrɒŋ/
 
 ## 释义
-- **名词**: 一大群人；拥挤的人群。例如: "[The](/post/the/) [throng](/post/throng/) [of](/post/of/) shoppers filled [the](/post/the/) [street](/post/street/)."
-- **动词**: 拥挤，聚集。例如: "[People](/post/people/) thronged [to](/post/to/) [the](/post/the/) [city](/post/city/) center [for](/post/for/) [the](/post/the/) [festival](/post/festival/)."
+- **名词**: 一大群人；拥挤的人群。例如: "[The](/zh/post/the/) [throng](/zh/post/throng/) [of](/zh/post/of/) shoppers filled [the](/zh/post/the/) [street](/zh/post/street/)."
+- **动词**: 拥挤，聚集。例如: "[People](/zh/post/people/) thronged [to](/zh/post/to/) [the](/zh/post/the/) [city](/zh/post/city/) center [for](/zh/post/for/) [the](/zh/post/the/) [festival](/zh/post/festival/)."
 
 ## 短语
-- "[Throng](/post/throng/) [together](/post/together/)" 意味着人群聚集在一起。
-- "[A](/post/a/) [throng](/post/throng/) [of](/post/of/) [people](/post/people/)" 描述大量的人聚集。
+- "[Throng](/zh/post/throng/) [together](/zh/post/together/)" 意味着人群聚集在一起。
+- "[A](/zh/post/a/) [throng](/zh/post/throng/) [of](/zh/post/of/) [people](/zh/post/people/)" 描述大量的人聚集。
 
 ## 例句
-- 名词: "[The](/post/the/) [concert](/post/concert/) attracted [a](/post/a/) [throng](/post/throng/) [of](/post/of/) fans [eager](/post/eager/) [to](/post/to/) [see](/post/see/) [their](/post/their/) favorite [band](/post/band/) [perform](/post/perform/)."
-- 动词: "[The](/post/the/) fans thronged [around](/post/around/) [the](/post/the/) [stage](/post/stage/), hoping [for](/post/for/) [a](/post/a/) [glimpse](/post/glimpse/) [of](/post/of/) [the](/post/the/) musicians."
+- 名词: "[The](/zh/post/the/) [concert](/zh/post/concert/) attracted [a](/zh/post/a/) [throng](/zh/post/throng/) [of](/zh/post/of/) fans [eager](/zh/post/eager/) [to](/zh/post/to/) [see](/zh/post/see/) [their](/zh/post/their/) favorite [band](/zh/post/band/) [perform](/zh/post/perform/)."
+- 动词: "[The](/zh/post/the/) fans thronged [around](/zh/post/around/) [the](/zh/post/the/) [stage](/zh/post/stage/), hoping [for](/zh/post/for/) [a](/zh/post/a/) [glimpse](/zh/post/glimpse/) [of](/zh/post/of/) [the](/zh/post/the/) musicians."
 
 ## 同义词
-- [Crowd](/post/crowd/)
+- [Crowd](/zh/post/crowd/)
 - Mob
-- [Swarm](/post/swarm/)
+- [Swarm](/zh/post/swarm/)
 - Horde
 - multitude

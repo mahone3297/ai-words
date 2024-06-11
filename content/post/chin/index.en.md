@@ -7,34 +7,34 @@ description = '[t∫in] n.颏，下巴'
 keywords = ['ai words', 'chin']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /chɪn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [lower](/en/post/lower/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [face](/en/post/face/), [especially](/en/post/especially/) [the](/en/post/the/) jawline, [below](/en/post/below/) [the](/en/post/the/) [mouth](/en/post/mouth/) [and](/en/post/and/) [above](/en/post/above/) [the](/en/post/the/) [neck](/en/post/neck/). [Example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) [prominent](/en/post/prominent/) [chin](/en/post/chin/)."
-   - **[Verb](/en/post/verb/)**: [To](/en/post/to/) [rest](/en/post/rest/) one's [chin](/en/post/chin/) [on](/en/post/on/) [something](/en/post/something/), typically [in](/en/post/in/) [thought](/en/post/thought/) [or](/en/post/or/) contemplation. [Example](/en/post/example/): "[He](/en/post/he/) leaned [his](/en/post/his/) [chin](/en/post/chin/) [on](/en/post/on/) [his](/en/post/his/) [hand](/en/post/hand/)."
-   - **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) having [a](/en/post/a/) [strong](/en/post/strong/) [or](/en/post/or/) [prominent](/en/post/prominent/) [chin](/en/post/chin/). [Example](/en/post/example/): "[He](/en/post/he/) has [a](/en/post/a/) [square](/en/post/square/) [chin](/en/post/chin/)."
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [lower](/post/lower/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [face](/post/face/), [especially](/post/especially/) [the](/post/the/) jawline, [below](/post/below/) [the](/post/the/) [mouth](/post/mouth/) [and](/post/and/) [above](/post/above/) [the](/post/the/) [neck](/post/neck/). [Example](/post/example/): "[She](/post/she/) had [a](/post/a/) [prominent](/post/prominent/) [chin](/post/chin/)."
+   - **[Verb](/post/verb/)**: [To](/post/to/) [rest](/post/rest/) one's [chin](/post/chin/) [on](/post/on/) [something](/post/something/), typically [in](/post/in/) [thought](/post/thought/) [or](/post/or/) contemplation. [Example](/post/example/): "[He](/post/he/) leaned [his](/post/his/) [chin](/post/chin/) [on](/post/on/) [his](/post/his/) [hand](/post/hand/)."
+   - **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) having [a](/post/a/) [strong](/post/strong/) [or](/post/or/) [prominent](/post/prominent/) [chin](/post/chin/). [Example](/post/example/): "[He](/post/he/) has [a](/post/a/) [square](/post/square/) [chin](/post/chin/)."
 
 ## Phrases
-- "[Run](/en/post/run/) [your](/en/post/your/) fingers [along](/en/post/along/) [your](/en/post/your/) [chin](/en/post/chin/)" (Imagery [of](/en/post/of/) [feeling](/en/post/feeling/) [the](/en/post/the/) texture [of](/en/post/of/) [the](/en/post/the/) [chin](/en/post/chin/))
-- "[Chin](/en/post/chin/) [up](/en/post/up/)" (Encouragement [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [brave](/en/post/brave/) [or](/en/post/or/) [confident](/en/post/confident/) [attitude](/en/post/attitude/))
-- "[A](/en/post/a/) [double](/en/post/double/) [chin](/en/post/chin/)" (Describing [excess](/en/post/excess/) fat [beneath](/en/post/beneath/) [the](/en/post/the/) [chin](/en/post/chin/))
+- "[Run](/post/run/) [your](/post/your/) fingers [along](/post/along/) [your](/post/your/) [chin](/post/chin/)" (Imagery [of](/post/of/) [feeling](/post/feeling/) [the](/post/the/) texture [of](/post/of/) [the](/post/the/) [chin](/post/chin/))
+- "[Chin](/post/chin/) [up](/post/up/)" (Encouragement [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [brave](/post/brave/) [or](/post/or/) [confident](/post/confident/) [attitude](/post/attitude/))
+- "[A](/post/a/) [double](/post/double/) [chin](/post/chin/)" (Describing [excess](/post/excess/) fat [beneath](/post/beneath/) [the](/post/the/) [chin](/post/chin/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) admired [her](/en/post/her/) [reflection](/en/post/reflection/) [in](/en/post/in/) [the](/en/post/the/) [mirror](/en/post/mirror/), examining [her](/en/post/her/) [high](/en/post/high/) cheekbones [and](/en/post/and/) [strong](/en/post/strong/) [chin](/en/post/chin/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [he](/en/post/he/) couldn't [help](/en/post/help/) [but](/en/post/but/) [let](/en/post/let/) [his](/en/post/his/) [chin](/en/post/chin/) [rest](/en/post/rest/) [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) had [a](/en/post/a/) distinguished profile [with](/en/post/with/) [a](/en/post/a/) well-defined [chin](/en/post/chin/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) admired [her](/post/her/) [reflection](/post/reflection/) [in](/post/in/) [the](/post/the/) [mirror](/post/mirror/), examining [her](/post/her/) [high](/post/high/) cheekbones [and](/post/and/) [strong](/post/strong/) [chin](/post/chin/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) couldn't [help](/post/help/) [but](/post/but/) [let](/post/let/) [his](/post/his/) [chin](/post/chin/) [rest](/post/rest/) [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) had [a](/post/a/) distinguished profile [with](/post/with/) [a](/post/a/) well-defined [chin](/post/chin/)."
 
 ## Synonyms
 - Jawline
 - Mentum
 - Chin-up
-- [Prominent](/en/post/prominent/)
+- [Prominent](/post/prominent/)
 - Decisive
-- [Solid](/en/post/solid/)
+- [Solid](/post/solid/)
 
 ## Antonyms
-- [Flat](/en/post/flat/)
-- [Weak](/en/post/weak/)
+- [Flat](/post/flat/)
+- [Weak](/post/weak/)
 - recessed
 - Non-prominent

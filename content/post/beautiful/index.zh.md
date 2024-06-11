@@ -11,20 +11,20 @@ keywords = ['ai words', 'beautiful']
 /ˈbjuːtɪfʊl/
 
 ## 释义
-- **形容词**: 极好的，美丽的，动人的。形容事物在视觉、听觉、情感或概念上的吸引力。例如: "[She](/post/she/) has [a](/post/a/) [beautiful](/post/beautiful/) singing [voice](/post/voice/)."
-- **副词**: 美妙地，极好地。用于强调某事做得非常好或给人深刻印象。例如: "[The](/post/the/) [sunset](/post/sunset/) was painted beautifully [on](/post/on/) [the](/post/the/) [canvas](/post/canvas/)."
+- **形容词**: 极好的，美丽的，动人的。形容事物在视觉、听觉、情感或概念上的吸引力。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) singing [voice](/zh/post/voice/)."
+- **副词**: 美妙地，极好地。用于强调某事做得非常好或给人深刻印象。例如: "[The](/zh/post/the/) [sunset](/zh/post/sunset/) was painted beautifully [on](/zh/post/on/) [the](/zh/post/the/) [canvas](/zh/post/canvas/)."
 
 ## 短语
 - "beautifully done" 表示某事做得非常出色。
-- "[a](/post/a/) [beautiful](/post/beautiful/) [day](/post/day/)" 指天气晴朗或者日子美好。
+- "[a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [day](/zh/post/day/)" 指天气晴朗或者日子美好。
 
 ## 例句
-- 形容词: "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) [beautiful](/post/beautiful/) flowers [of](/post/of/) [various](/post/various/) colors."
-- 副词: "[She](/post/she/) performed [the](/post/the/) [piece](/post/piece/) [of](/post/of/) [music](/post/music/) beautifully, captivating [the](/post/the/) [audience](/post/audience/)."
+- 形容词: "[The](/zh/post/the/) [garden](/zh/post/garden/) was filled [with](/zh/post/with/) [beautiful](/zh/post/beautiful/) flowers [of](/zh/post/of/) [various](/zh/post/various/) colors."
+- 副词: "[She](/zh/post/she/) performed [the](/zh/post/the/) [piece](/zh/post/piece/) [of](/zh/post/of/) [music](/zh/post/music/) beautifully, captivating [the](/zh/post/the/) [audience](/zh/post/audience/)."
 
 ## 同义词
 - Gorgeous
 - Stunning
-- [Attractive](/post/attractive/)
-- [Lovely](/post/lovely/)
-- [Pretty](/post/pretty/)
+- [Attractive](/zh/post/attractive/)
+- [Lovely](/zh/post/lovely/)
+- [Pretty](/zh/post/pretty/)

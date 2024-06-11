@@ -7,41 +7,41 @@ description = '[ikˈstrɔːdəneri] a.非同寻常的，特别的'
 keywords = ['ai words', 'extraordinary']
 +++
 
-## [Word](/en/post/word/): [Extraordinary](/en/post/extraordinary/)
+## [Word](/post/word/): [Extraordinary](/post/extraordinary/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈstrɔːdəneri/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Unusually](/en/post/unusually/) [great](/en/post/great/); exceptionally [good](/en/post/good/) [or](/en/post/or/) [remarkable](/en/post/remarkable/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) going [beyond](/en/post/beyond/) [what](/en/post/what/) is [usual](/en/post/usual/), [regular](/en/post/regular/), [or](/en/post/or/) expected; [unusual](/en/post/unusual/) [or](/en/post/or/) [remarkable](/en/post/remarkable/) [in](/en/post/in/) [degree](/en/post/degree/) [or](/en/post/or/) [quality](/en/post/quality/). 
+- **[Adjective](/post/adjective/)**: [Unusually](/post/unusually/) [great](/post/great/); exceptionally [good](/post/good/) [or](/post/or/) [remarkable](/post/remarkable/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) going [beyond](/post/beyond/) [what](/post/what/) is [usual](/post/usual/), [regular](/post/regular/), [or](/post/or/) expected; [unusual](/post/unusual/) [or](/post/or/) [remarkable](/post/remarkable/) [in](/post/in/) [degree](/post/degree/) [or](/post/or/) [quality](/post/quality/). 
 
-  - _Example 1 ([as](/en/post/as/) describing [a](/en/post/a/) [person](/en/post/person/))_ : "[She](/en/post/she/) displayed [extraordinary](/en/post/extraordinary/) [talent](/en/post/talent/) [during](/en/post/during/) [her](/en/post/her/) [performance](/en/post/performance/)."
-  - _Example 2 ([as](/en/post/as/) describing an [event](/en/post/event/))_ : "[The](/en/post/the/) [company](/en/post/company/) achieved [extraordinary](/en/post/extraordinary/) [growth](/en/post/growth/) [this](/en/post/this/) [quarter](/en/post/quarter/)."
+  - _Example 1 ([as](/post/as/) describing [a](/post/a/) [person](/post/person/))_ : "[She](/post/she/) displayed [extraordinary](/post/extraordinary/) [talent](/post/talent/) [during](/post/during/) [her](/post/her/) [performance](/post/performance/)."
+  - _Example 2 ([as](/post/as/) describing an [event](/post/event/))_ : "[The](/post/the/) [company](/post/company/) achieved [extraordinary](/post/extraordinary/) [growth](/post/growth/) [this](/post/this/) [quarter](/post/quarter/)."
   
-- **[Noun](/en/post/noun/)**: Referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [ordinary](/en/post/ordinary/) [course](/en/post/course/) [or](/en/post/or/) [not](/en/post/not/) [routine](/en/post/routine/); [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) '[extraordinary](/en/post/extraordinary/) circumstances' [or](/en/post/or/) 'an [extraordinary](/en/post/extraordinary/) [session](/en/post/session/)'.
+- **[Noun](/post/noun/)**: Referring [to](/post/to/) [something](/post/something/) [that](/post/that/) is [out](/post/out/) [of](/post/of/) [the](/post/the/) [ordinary](/post/ordinary/) [course](/post/course/) [or](/post/or/) [not](/post/not/) [routine](/post/routine/); [often](/post/often/) [used](/post/used/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) '[extraordinary](/post/extraordinary/) circumstances' [or](/post/or/) 'an [extraordinary](/post/extraordinary/) [session](/post/session/)'.
 
-  - _Example_: "[Due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) pandemic, [the](/en/post/the/) [government](/en/post/government/) called [for](/en/post/for/) an [extraordinary](/en/post/extraordinary/) [session](/en/post/session/) [to](/en/post/to/) [discuss](/en/post/discuss/) [emergency](/en/post/emergency/) measures."
+  - _Example_: "[Due](/post/due/) [to](/post/to/) [the](/post/the/) pandemic, [the](/post/the/) [government](/post/government/) called [for](/post/for/) an [extraordinary](/post/extraordinary/) [session](/post/session/) [to](/post/to/) [discuss](/post/discuss/) [emergency](/post/emergency/) measures."
 
 ## Phrases
-- "[In](/en/post/in/) [extraordinary](/en/post/extraordinary/) circumstances": [This](/en/post/this/) [phrase](/en/post/phrase/) refers [to](/en/post/to/) situations [that](/en/post/that/) are [highly](/en/post/highly/) [unusual](/en/post/unusual/) [or](/en/post/or/) unforeseen, [which](/en/post/which/) [require](/en/post/require/) [special](/en/post/special/) [consideration](/en/post/consideration/) [or](/en/post/or/) [action](/en/post/action/).
-- "[Extraordinary](/en/post/extraordinary/) powers": [This](/en/post/this/) [could](/en/post/could/) [refer](/en/post/refer/) [to](/en/post/to/) exceptional [authority](/en/post/authority/) given [to](/en/post/to/) [someone](/en/post/someone/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/).
-- "[To](/en/post/to/) [go](/en/post/go/) [the](/en/post/the/) [extra](/en/post/extra/) [mile](/en/post/mile/) / [do](/en/post/do/) [something](/en/post/something/) [extraordinary](/en/post/extraordinary/)": [This](/en/post/this/) [means](/en/post/means/) [to](/en/post/to/) [put](/en/post/put/) [in](/en/post/in/) [more](/en/post/more/) [effort](/en/post/effort/) [than](/en/post/than/) is [usual](/en/post/usual/) [or](/en/post/or/) required [to](/en/post/to/) [achieve](/en/post/achieve/) [something](/en/post/something/) [impressive](/en/post/impressive/).
+- "[In](/post/in/) [extraordinary](/post/extraordinary/) circumstances": [This](/post/this/) [phrase](/post/phrase/) refers [to](/post/to/) situations [that](/post/that/) are [highly](/post/highly/) [unusual](/post/unusual/) [or](/post/or/) unforeseen, [which](/post/which/) [require](/post/require/) [special](/post/special/) [consideration](/post/consideration/) [or](/post/or/) [action](/post/action/).
+- "[Extraordinary](/post/extraordinary/) powers": [This](/post/this/) [could](/post/could/) [refer](/post/refer/) [to](/post/to/) exceptional [authority](/post/authority/) given [to](/post/to/) [someone](/post/someone/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/).
+- "[To](/post/to/) [go](/post/go/) [the](/post/the/) [extra](/post/extra/) [mile](/post/mile/) / [do](/post/do/) [something](/post/something/) [extraordinary](/post/extraordinary/)": [This](/post/this/) [means](/post/means/) [to](/post/to/) [put](/post/put/) [in](/post/in/) [more](/post/more/) [effort](/post/effort/) [than](/post/than/) is [usual](/post/usual/) [or](/post/or/) required [to](/post/to/) [achieve](/post/achieve/) [something](/post/something/) [impressive](/post/impressive/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [extraordinary](/en/post/extraordinary/) efforts led [the](/en/post/the/) [team](/en/post/team/) [to](/en/post/to/) [victory](/en/post/victory/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [board](/en/post/board/) held an [extraordinary](/en/post/extraordinary/) [meeting](/en/post/meeting/) [to](/en/post/to/) [address](/en/post/address/) [the](/en/post/the/) [crisis](/en/post/crisis/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [extraordinary](/post/extraordinary/) efforts led [the](/post/the/) [team](/post/team/) [to](/post/to/) [victory](/post/victory/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [board](/post/board/) held an [extraordinary](/post/extraordinary/) [meeting](/post/meeting/) [to](/post/to/) [address](/post/address/) [the](/post/the/) [crisis](/post/crisis/)."
 
 ## Synonyms
 - Exceptional
-- [Unusual](/en/post/unusual/)
-- [Remarkable](/en/post/remarkable/)
-- [Outstanding](/en/post/outstanding/)
+- [Unusual](/post/unusual/)
+- [Remarkable](/post/remarkable/)
+- [Outstanding](/post/outstanding/)
 - Phenomenal
 - Incredible
 - Superlative
-- [Singular](/en/post/singular/)
-- [Unique](/en/post/unique/)
-- [Special](/en/post/special/)
-- [Rare](/en/post/rare/)
+- [Singular](/post/singular/)
+- [Unique](/post/unique/)
+- [Special](/post/special/)
+- [Rare](/post/rare/)
 - Unprecedented
 - Non-routine

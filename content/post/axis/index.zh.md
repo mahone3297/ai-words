@@ -12,19 +12,19 @@ keywords = ['ai words', 'axis']
 
 ## 释义
 - **名词**: 
-   1. 轴线，轴：[A](/post/a/) [straight](/post/straight/) [line](/post/line/) [around](/post/around/) [which](/post/which/) [a](/post/a/) [body](/post/body/) [or](/post/or/) [a](/post/a/) [system](/post/system/) rotates.
-   2. 中心，核心：[The](/post/the/) [central](/post/central/) [point](/post/point/) [or](/post/or/) [line](/post/line/) [of](/post/of/) symmetry [in](/post/in/) [a](/post/a/) [shape](/post/shape/) [or](/post/or/) [object](/post/object/).
+   1. 轴线，轴：[A](/zh/post/a/) [straight](/zh/post/straight/) [line](/zh/post/line/) [around](/zh/post/around/) [which](/zh/post/which/) [a](/zh/post/a/) [body](/zh/post/body/) [or](/zh/post/or/) [a](/zh/post/a/) [system](/zh/post/system/) rotates.
+   2. 中心，核心：[The](/zh/post/the/) [central](/zh/post/central/) [point](/zh/post/point/) [or](/zh/post/or/) [line](/zh/post/line/) [of](/zh/post/of/) symmetry [in](/zh/post/in/) [a](/zh/post/a/) [shape](/zh/post/shape/) [or](/zh/post/or/) [object](/zh/post/object/).
 
 ## 短语
-- "[axis](/post/axis/) [of](/post/of/) [rotation](/post/rotation/)" 指旋转的轴线。
-- "[central](/post/central/) [axis](/post/axis/)" 指物体的中心轴线。
+- "[axis](/zh/post/axis/) [of](/zh/post/of/) [rotation](/zh/post/rotation/)" 指旋转的轴线。
+- "[central](/zh/post/central/) [axis](/zh/post/axis/)" 指物体的中心轴线。
 
 ## 例句
-- "[The](/post/the/) [axis](/post/axis/) [of](/post/of/) [the](/post/the/) [Earth](/post/earth/) is tilted [at](/post/at/) an [angle](/post/angle/) [of](/post/of/) [about](/post/about/) 23.5 degrees."
-- "[The](/post/the/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [building](/post/building/) is symmetrical [around](/post/around/) [its](/post/its/) [central](/post/central/) [axis](/post/axis/)."
+- "[The](/zh/post/the/) [axis](/zh/post/axis/) [of](/zh/post/of/) [the](/zh/post/the/) [Earth](/zh/post/earth/) is tilted [at](/zh/post/at/) an [angle](/zh/post/angle/) [of](/zh/post/of/) [about](/zh/post/about/) 23.5 degrees."
+- "[The](/zh/post/the/) [design](/zh/post/design/) [of](/zh/post/of/) [the](/zh/post/the/) [building](/zh/post/building/) is symmetrical [around](/zh/post/around/) [its](/zh/post/its/) [central](/zh/post/central/) [axis](/zh/post/axis/)."
 
 ## 同义词
-- [Pole](/post/pole/)
+- [Pole](/zh/post/pole/)
 - Meridian
-- [Line](/post/line/) [of](/post/of/) symmetry
-- Spine ([in](/post/in/) [certain](/post/certain/) contexts)
+- [Line](/zh/post/line/) [of](/zh/post/of/) symmetry
+- Spine ([in](/zh/post/in/) [certain](/zh/post/certain/) contexts)

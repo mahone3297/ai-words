@@ -11,22 +11,22 @@ keywords = ['ai words', 'chase']
 /ˈtʃeɪs/
 
 ## 释义
-- **动词**: 追赶，追踪。例如: "[The](/post/the/) [police](/post/police/) chased [the](/post/the/) [suspect](/post/suspect/) [through](/post/through/) [the](/post/the/) streets."
-- **名词**: 追逐，追赶。例如: "[The](/post/the/) [race](/post/race/) was won [by](/post/by/) [the](/post/the/) [athlete](/post/athlete/) [who](/post/who/) crossed [the](/post/the/) [finish](/post/finish/) [line](/post/line/) [after](/post/after/) [a](/post/a/) thrilling [chase](/post/chase/)."
-- **名词**: (猎狐等)狩猎活动。例如: "[They](/post/they/) enjoyed [a](/post/a/) [traditional](/post/traditional/) [fox](/post/fox/) [chase](/post/chase/) [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/)."
+- **动词**: 追赶，追踪。例如: "[The](/zh/post/the/) [police](/zh/post/police/) chased [the](/zh/post/the/) [suspect](/zh/post/suspect/) [through](/zh/post/through/) [the](/zh/post/the/) streets."
+- **名词**: 追逐，追赶。例如: "[The](/zh/post/the/) [race](/zh/post/race/) was won [by](/zh/post/by/) [the](/zh/post/the/) [athlete](/zh/post/athlete/) [who](/zh/post/who/) crossed [the](/zh/post/the/) [finish](/zh/post/finish/) [line](/zh/post/line/) [after](/zh/post/after/) [a](/zh/post/a/) thrilling [chase](/zh/post/chase/)."
+- **名词**: (猎狐等)狩猎活动。例如: "[They](/zh/post/they/) enjoyed [a](/zh/post/a/) [traditional](/zh/post/traditional/) [fox](/zh/post/fox/) [chase](/zh/post/chase/) [in](/zh/post/in/) [the](/zh/post/the/) [countryside](/zh/post/countryside/)."
 
 ## 短语
-- "[give](/post/give/) sb. [a](/post/a/) [chase](/post/chase/)" 意为让某人逃跑或追逐某人。例如: "[The](/post/the/) [dog](/post/dog/) gave [the](/post/the/) [cat](/post/cat/) [a](/post/a/) [chase](/post/chase/) [around](/post/around/) [the](/post/the/) [garden](/post/garden/)."
-- "[on](/post/on/) [the](/post/the/) [chase](/post/chase/)" 表示在寻找或追赶。例如: "[The](/post/the/) detectives were [on](/post/on/) [the](/post/the/) [chase](/post/chase/) [for](/post/for/) [the](/post/the/) [missing](/post/missing/) jewels."
+- "[give](/zh/post/give/) sb. [a](/zh/post/a/) [chase](/zh/post/chase/)" 意为让某人逃跑或追逐某人。例如: "[The](/zh/post/the/) [dog](/zh/post/dog/) gave [the](/zh/post/the/) [cat](/zh/post/cat/) [a](/zh/post/a/) [chase](/zh/post/chase/) [around](/zh/post/around/) [the](/zh/post/the/) [garden](/zh/post/garden/)."
+- "[on](/zh/post/on/) [the](/zh/post/the/) [chase](/zh/post/chase/)" 表示在寻找或追赶。例如: "[The](/zh/post/the/) detectives were [on](/zh/post/on/) [the](/zh/post/the/) [chase](/zh/post/chase/) [for](/zh/post/for/) [the](/zh/post/the/) [missing](/zh/post/missing/) jewels."
 
 ## 例句
-- 动词: "[The](/post/the/) [security](/post/security/) [guard](/post/guard/) chased [the](/post/the/) [thief](/post/thief/) [out](/post/out/) [of](/post/of/) [the](/post/the/) mall."
-- 名词: "[The](/post/the/) [exciting](/post/exciting/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [movie](/post/movie/) was [the](/post/the/) high-speed [car](/post/car/) [chase](/post/chase/)."
-- 狩猎活动: "[The](/post/the/) hunters [set](/post/set/) [off](/post/off/) [on](/post/on/) [a](/post/a/) [morning](/post/morning/) [chase](/post/chase/) [with](/post/with/) [their](/post/their/) hounds."
+- 动词: "[The](/zh/post/the/) [security](/zh/post/security/) [guard](/zh/post/guard/) chased [the](/zh/post/the/) [thief](/zh/post/thief/) [out](/zh/post/out/) [of](/zh/post/of/) [the](/zh/post/the/) mall."
+- 名词: "[The](/zh/post/the/) [exciting](/zh/post/exciting/) [part](/zh/post/part/) [of](/zh/post/of/) [the](/zh/post/the/) [movie](/zh/post/movie/) was [the](/zh/post/the/) high-speed [car](/zh/post/car/) [chase](/zh/post/chase/)."
+- 狩猎活动: "[The](/zh/post/the/) hunters [set](/zh/post/set/) [off](/zh/post/off/) [on](/zh/post/on/) [a](/zh/post/a/) [morning](/zh/post/morning/) [chase](/zh/post/chase/) [with](/zh/post/with/) [their](/zh/post/their/) hounds."
 
 ## 同义词
-- [pursue](/post/pursue/)
-- [follow](/post/follow/)
-- [trail](/post/trail/)
+- [pursue](/zh/post/pursue/)
+- [follow](/zh/post/follow/)
+- [trail](/zh/post/trail/)
 - stalk
-- [hunt](/post/hunt/)
+- [hunt](/zh/post/hunt/)

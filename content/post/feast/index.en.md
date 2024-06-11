@@ -7,31 +7,31 @@ description = '[fiːst] n.盛宴，筵席；节日'
 keywords = ['ai words', 'feast']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fiːst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [large](/en/post/large/), [elaborate](/en/post/elaborate/) [meal](/en/post/meal/) [with](/en/post/with/) [many](/en/post/many/) courses, [often](/en/post/often/) accompanied [by](/en/post/by/) entertainment [or](/en/post/or/) [ceremony](/en/post/ceremony/); [a](/en/post/a/) banquet. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [king](/en/post/king/) hosted [a](/en/post/a/) [grand](/en/post/grand/) [feast](/en/post/feast/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [his](/en/post/his/) [victory](/en/post/victory/)."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [enjoy](/en/post/enjoy/) [a](/en/post/a/) [plentiful](/en/post/plentiful/) [or](/en/post/or/) sumptuous [meal](/en/post/meal/), [especially](/en/post/especially/) [one](/en/post/one/) shared [with](/en/post/with/) others. [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) day's [work](/en/post/work/), [they](/en/post/they/) feasted [on](/en/post/on/) roasted [turkey](/en/post/turkey/) [and](/en/post/and/) [all](/en/post/all/) [the](/en/post/the/) trimmings."
-- **[Noun](/en/post/noun/)**: (figurative) An [abundant](/en/post/abundant/) [supply](/en/post/supply/) [or](/en/post/or/) [source](/en/post/source/) [of](/en/post/of/) [something](/en/post/something/) enjoyable [or](/en/post/or/) [desirable](/en/post/desirable/). [For](/en/post/for/) [instance](/en/post/instance/): "[A](/en/post/a/) [feast](/en/post/feast/) [for](/en/post/for/) [the](/en/post/the/) eyes" [meaning](/en/post/meaning/) [something](/en/post/something/) visually pleasing.
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [large](/post/large/), [elaborate](/post/elaborate/) [meal](/post/meal/) [with](/post/with/) [many](/post/many/) courses, [often](/post/often/) accompanied [by](/post/by/) entertainment [or](/post/or/) [ceremony](/post/ceremony/); [a](/post/a/) banquet. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [king](/post/king/) hosted [a](/post/a/) [grand](/post/grand/) [feast](/post/feast/) [to](/post/to/) [celebrate](/post/celebrate/) [his](/post/his/) [victory](/post/victory/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [enjoy](/post/enjoy/) [a](/post/a/) [plentiful](/post/plentiful/) [or](/post/or/) sumptuous [meal](/post/meal/), [especially](/post/especially/) [one](/post/one/) shared [with](/post/with/) others. [For](/post/for/) [example](/post/example/): "[After](/post/after/) [a](/post/a/) [long](/post/long/) day's [work](/post/work/), [they](/post/they/) feasted [on](/post/on/) roasted [turkey](/post/turkey/) [and](/post/and/) [all](/post/all/) [the](/post/the/) trimmings."
+- **[Noun](/post/noun/)**: (figurative) An [abundant](/post/abundant/) [supply](/post/supply/) [or](/post/or/) [source](/post/source/) [of](/post/of/) [something](/post/something/) enjoyable [or](/post/or/) [desirable](/post/desirable/). [For](/post/for/) [instance](/post/instance/): "[A](/post/a/) [feast](/post/feast/) [for](/post/for/) [the](/post/the/) eyes" [meaning](/post/meaning/) [something](/post/something/) visually pleasing.
 
 ## Phrases
-- "[Feast](/en/post/feast/) [your](/en/post/your/) eyes [on](/en/post/on/)": [To](/en/post/to/) [look](/en/post/look/) [at](/en/post/at/) [or](/en/post/or/) [enjoy](/en/post/enjoy/) [something](/en/post/something/) [that](/en/post/that/) is visually [attractive](/en/post/attractive/) [or](/en/post/or/) [impressive](/en/post/impressive/). [Example](/en/post/example/): "[Come](/en/post/come/) [over](/en/post/over/) [here](/en/post/here/) [and](/en/post/and/) [feast](/en/post/feast/) [your](/en/post/your/) eyes [on](/en/post/on/) [this](/en/post/this/) [masterpiece](/en/post/masterpiece/)!"
-- "[A](/en/post/a/) movable [feast](/en/post/feast/)": [A](/en/post/a/) memorable [experience](/en/post/experience/) [that](/en/post/that/) stays [with](/en/post/with/) [one](/en/post/one/), originally [from](/en/post/from/) Ernest Hemingway's [book](/en/post/book/) [title](/en/post/title/) [about](/en/post/about/) Paris, suggesting experiences [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) revisited mentally.
-- "[Break](/en/post/break/) [bread](/en/post/bread/) [together](/en/post/together/)": [This](/en/post/this/) idiomatic [expression](/en/post/expression/) suggests sharing [a](/en/post/a/) [meal](/en/post/meal/), [often](/en/post/often/) [a](/en/post/a/) [feast](/en/post/feast/), [to](/en/post/to/) [strengthen](/en/post/strengthen/) bonds [or](/en/post/or/) [make](/en/post/make/) [peace](/en/post/peace/) [among](/en/post/among/) [people](/en/post/people/).
+- "[Feast](/post/feast/) [your](/post/your/) eyes [on](/post/on/)": [To](/post/to/) [look](/post/look/) [at](/post/at/) [or](/post/or/) [enjoy](/post/enjoy/) [something](/post/something/) [that](/post/that/) is visually [attractive](/post/attractive/) [or](/post/or/) [impressive](/post/impressive/). [Example](/post/example/): "[Come](/post/come/) [over](/post/over/) [here](/post/here/) [and](/post/and/) [feast](/post/feast/) [your](/post/your/) eyes [on](/post/on/) [this](/post/this/) [masterpiece](/post/masterpiece/)!"
+- "[A](/post/a/) movable [feast](/post/feast/)": [A](/post/a/) memorable [experience](/post/experience/) [that](/post/that/) stays [with](/post/with/) [one](/post/one/), originally [from](/post/from/) Ernest Hemingway's [book](/post/book/) [title](/post/title/) [about](/post/about/) Paris, suggesting experiences [that](/post/that/) [can](/post/can/) [be](/post/be/) revisited mentally.
+- "[Break](/post/break/) [bread](/post/bread/) [together](/post/together/)": [This](/post/this/) idiomatic [expression](/post/expression/) suggests sharing [a](/post/a/) [meal](/post/meal/), [often](/post/often/) [a](/post/a/) [feast](/post/feast/), [to](/post/to/) [strengthen](/post/strengthen/) bonds [or](/post/or/) [make](/post/make/) [peace](/post/peace/) [among](/post/among/) [people](/post/people/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([meal](/en/post/meal/))**: "[The](/en/post/the/) [wedding](/en/post/wedding/) [feast](/en/post/feast/) was held [in](/en/post/in/) [a](/en/post/a/) [grand](/en/post/grand/) [hall](/en/post/hall/) adorned [with](/en/post/with/) flowers [and](/en/post/and/) candles."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [family](/en/post/family/) gathered [around](/en/post/around/) [the](/en/post/the/) [table](/en/post/table/) [to](/en/post/to/) [feast](/en/post/feast/) [on](/en/post/on/) [their](/en/post/their/) Thanksgiving [dinner](/en/post/dinner/)."
-- **Figurative [Noun](/en/post/noun/)**: "[The](/en/post/the/) city's skyline [at](/en/post/at/) [night](/en/post/night/) was [a](/en/post/a/) [visual](/en/post/visual/) [feast](/en/post/feast/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([meal](/post/meal/))**: "[The](/post/the/) [wedding](/post/wedding/) [feast](/post/feast/) was held [in](/post/in/) [a](/post/a/) [grand](/post/grand/) [hall](/post/hall/) adorned [with](/post/with/) flowers [and](/post/and/) candles."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [family](/post/family/) gathered [around](/post/around/) [the](/post/the/) [table](/post/table/) [to](/post/to/) [feast](/post/feast/) [on](/post/on/) [their](/post/their/) Thanksgiving [dinner](/post/dinner/)."
+- **Figurative [Noun](/post/noun/)**: "[The](/post/the/) city's skyline [at](/post/at/) [night](/post/night/) was [a](/post/a/) [visual](/post/visual/) [feast](/post/feast/)."
 
 ## Synonyms
 - Banquet
 - Gala
 - Repast
-- [Meal](/en/post/meal/)
+- [Meal](/post/meal/)
 - Festivity
-- [Spread](/en/post/spread/)
+- [Spread](/post/spread/)
 - Buffet
 - Banqueting
-- Enjoyment ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [sense](/en/post/sense/))
+- Enjoyment ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [sense](/post/sense/))

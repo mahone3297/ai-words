@@ -7,36 +7,36 @@ description = '[tin] n.锡；罐头'
 keywords = ['ai words', 'tin']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Tin](/en/post/tin/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [thin](/en/post/thin/) [sheet](/en/post/sheet/) [or](/en/post/or/) rolled [metal](/en/post/metal/), [usually](/en/post/usually/) aluminum, [used](/en/post/used/) [for](/en/post/for/) making containers, cans, [or](/en/post/or/) [other](/en/post/other/) packaging.
-- **[Tin](/en/post/tin/) [can](/en/post/can/)** (informal): [A](/en/post/a/) [container](/en/post/container/) made [of](/en/post/of/) [tin](/en/post/tin/).
-- **[Tin](/en/post/tin/) [whistle](/en/post/whistle/)** ([music](/en/post/music/)): [A](/en/post/a/) [small](/en/post/small/), [simple](/en/post/simple/) [wind](/en/post/wind/) [instrument](/en/post/instrument/) made [from](/en/post/from/) [a](/en/post/a/) [tin](/en/post/tin/) [tube](/en/post/tube/).
+### [Noun](/post/noun/)
+- **[Tin](/post/tin/)** ([noun](/post/noun/)): [A](/post/a/) [thin](/post/thin/) [sheet](/post/sheet/) [or](/post/or/) rolled [metal](/post/metal/), [usually](/post/usually/) aluminum, [used](/post/used/) [for](/post/for/) making containers, cans, [or](/post/or/) [other](/post/other/) packaging.
+- **[Tin](/post/tin/) [can](/post/can/)** (informal): [A](/post/a/) [container](/post/container/) made [of](/post/of/) [tin](/post/tin/).
+- **[Tin](/post/tin/) [whistle](/post/whistle/)** ([music](/post/music/)): [A](/post/a/) [small](/post/small/), [simple](/post/simple/) [wind](/post/wind/) [instrument](/post/instrument/) made [from](/post/from/) [a](/post/a/) [tin](/post/tin/) [tube](/post/tube/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [tin](/en/post/tin/)** (archaic [or](/en/post/or/) [technical](/en/post/technical/)): [To](/en/post/to/) [cover](/en/post/cover/) [with](/en/post/with/) [tin](/en/post/tin/), [as](/en/post/as/) [in](/en/post/in/) roofing [or](/en/post/or/) coating.
+### [Verb](/post/verb/)
+- **[To](/post/to/) [tin](/post/tin/)** (archaic [or](/post/or/) [technical](/post/technical/)): [To](/post/to/) [cover](/post/cover/) [with](/post/with/) [tin](/post/tin/), [as](/post/as/) [in](/post/in/) roofing [or](/post/or/) coating.
 
-### [Adjective](/en/post/adjective/)
-- **Tinny** ([adjective](/en/post/adjective/)): Having [a](/en/post/a/) [thin](/en/post/thin/), [harsh](/en/post/harsh/), [or](/en/post/or/) metallic [sound](/en/post/sound/); [also](/en/post/also/) referring [to](/en/post/to/) [something](/en/post/something/) made [of](/en/post/of/) [cheap](/en/post/cheap/) [or](/en/post/or/) low-quality [tin](/en/post/tin/).
+### [Adjective](/post/adjective/)
+- **Tinny** ([adjective](/post/adjective/)): Having [a](/post/a/) [thin](/post/thin/), [harsh](/post/harsh/), [or](/post/or/) metallic [sound](/post/sound/); [also](/post/also/) referring [to](/post/to/) [something](/post/something/) made [of](/post/of/) [cheap](/post/cheap/) [or](/post/or/) low-quality [tin](/post/tin/).
 
 ## Phrases
-- "[Tin](/en/post/tin/) foil" [for](/en/post/for/) [the](/en/post/the/) shiny, reflective [metal](/en/post/metal/) [sheet](/en/post/sheet/).
-- "Tin-plated" [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [surface](/en/post/surface/) covered [with](/en/post/with/) [a](/en/post/a/) [thin](/en/post/thin/) [layer](/en/post/layer/) [of](/en/post/of/) [tin](/en/post/tin/).
-- "[Tin](/en/post/tin/) [whistle](/en/post/whistle/) [tune](/en/post/tune/)" [for](/en/post/for/) [a](/en/post/a/) [song](/en/post/song/) played [on](/en/post/on/) [a](/en/post/a/) [tin](/en/post/tin/) [whistle](/en/post/whistle/).
+- "[Tin](/post/tin/) foil" [for](/post/for/) [the](/post/the/) shiny, reflective [metal](/post/metal/) [sheet](/post/sheet/).
+- "Tin-plated" [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [surface](/post/surface/) covered [with](/post/with/) [a](/post/a/) [thin](/post/thin/) [layer](/post/layer/) [of](/post/of/) [tin](/post/tin/).
+- "[Tin](/post/tin/) [whistle](/post/whistle/) [tune](/post/tune/)" [for](/post/for/) [a](/post/a/) [song](/post/song/) played [on](/post/on/) [a](/post/a/) [tin](/post/tin/) [whistle](/post/whistle/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) had [a](/en/post/a/) [roof](/en/post/roof/) made [of](/en/post/of/) galvanized [tin](/en/post/tin/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [artist](/en/post/artist/) carefully tinned [the](/en/post/the/) edges [of](/en/post/of/) [the](/en/post/the/) [canvas](/en/post/canvas/) [to](/en/post/to/) [prevent](/en/post/prevent/) [rust](/en/post/rust/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [radio](/en/post/radio/) sounded tinny [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) worn-out [speaker](/en/post/speaker/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [house](/post/house/) had [a](/post/a/) [roof](/post/roof/) made [of](/post/of/) galvanized [tin](/post/tin/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [artist](/post/artist/) carefully tinned [the](/post/the/) edges [of](/post/of/) [the](/post/the/) [canvas](/post/canvas/) [to](/post/to/) [prevent](/post/prevent/) [rust](/post/rust/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) [radio](/post/radio/) sounded tinny [due](/post/due/) [to](/post/to/) [the](/post/the/) worn-out [speaker](/post/speaker/)."
 
 ## Synonyms
-- Aluminum ([for](/en/post/for/) [the](/en/post/the/) [material](/en/post/material/))
-- Tinplate ([for](/en/post/for/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) covering)
-- Flatware (informal, [for](/en/post/for/) tableware made [of](/en/post/of/) [tin](/en/post/tin/))
+- Aluminum ([for](/post/for/) [the](/post/the/) [material](/post/material/))
+- Tinplate ([for](/post/for/) [the](/post/the/) [process](/post/process/) [of](/post/of/) covering)
+- Flatware (informal, [for](/post/for/) tableware made [of](/post/of/) [tin](/post/tin/))
 
 ## Antonyms
-- [Solid](/en/post/solid/) ([for](/en/post/for/) [the](/en/post/the/) [material](/en/post/material/), contrasting [with](/en/post/with/) [its](/en/post/its/) [thin](/en/post/thin/) [nature](/en/post/nature/))
-- [Warm](/en/post/warm/) ([for](/en/post/for/) [the](/en/post/the/) [adjective](/en/post/adjective/) [sense](/en/post/sense/), contrasting [with](/en/post/with/) tinny [sound](/en/post/sound/))
+- [Solid](/post/solid/) ([for](/post/for/) [the](/post/the/) [material](/post/material/), contrasting [with](/post/with/) [its](/post/its/) [thin](/post/thin/) [nature](/post/nature/))
+- [Warm](/post/warm/) ([for](/post/for/) [the](/post/the/) [adjective](/post/adjective/) [sense](/post/sense/), contrasting [with](/post/with/) tinny [sound](/post/sound/))

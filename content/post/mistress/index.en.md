@@ -7,27 +7,27 @@ description = '[ˈmistris] n.女主人；夫人'
 keywords = ['ai words', 'mistress']
 +++
 
-## [Word](/en/post/word/): [Mistress](/en/post/mistress/)
+## [Word](/post/word/): [Mistress](/post/mistress/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɪstrɪs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [woman](/en/post/woman/) [who](/en/post/who/) has [power](/en/post/power/), [control](/en/post/control/), [or](/en/post/or/) [authority](/en/post/authority/) [over](/en/post/over/) [something](/en/post/something/); [especially](/en/post/especially/) [one](/en/post/one/) [in](/en/post/in/) [charge](/en/post/charge/) [of](/en/post/of/) [a](/en/post/a/) [household](/en/post/household/) [or](/en/post/or/) [establishment](/en/post/establishment/). [Example](/en/post/example/): "[She](/en/post/she/) was [the](/en/post/the/) [mistress](/en/post/mistress/) [of](/en/post/of/) [her](/en/post/her/) [own](/en/post/own/) destiny."
-- **[Noun](/en/post/noun/) (archaic [or](/en/post/or/) informal)**: [A](/en/post/a/) [woman](/en/post/woman/) [with](/en/post/with/) [whom](/en/post/whom/) [a](/en/post/a/) [man](/en/post/man/) has [a](/en/post/a/) long-term extramarital sexual [relationship](/en/post/relationship/), [often](/en/post/often/) maintaining [a](/en/post/a/) continuing [association](/en/post/association/). [Example](/en/post/example/): "[He](/en/post/he/) kept [a](/en/post/a/) [mistress](/en/post/mistress/) [in](/en/post/in/) [a](/en/post/a/) [house](/en/post/house/) [on](/en/post/on/) [the](/en/post/the/) outskirts [of](/en/post/of/) [town](/en/post/town/)."
-- **[Noun](/en/post/noun/) ([historical](/en/post/historical/))**: [A](/en/post/a/) [woman](/en/post/woman/) [who](/en/post/who/) employs servants [or](/en/post/or/) governs [a](/en/post/a/) [household](/en/post/household/). [Example](/en/post/example/): "[The](/en/post/the/) lord's [wife](/en/post/wife/) [and](/en/post/and/) [his](/en/post/his/) [mistress](/en/post/mistress/) [both](/en/post/both/) had [separate](/en/post/separate/) responsibilities [in](/en/post/in/) managing [the](/en/post/the/) manor."
+- **[Noun](/post/noun/)**: [A](/post/a/) [woman](/post/woman/) [who](/post/who/) has [power](/post/power/), [control](/post/control/), [or](/post/or/) [authority](/post/authority/) [over](/post/over/) [something](/post/something/); [especially](/post/especially/) [one](/post/one/) [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [a](/post/a/) [household](/post/household/) [or](/post/or/) [establishment](/post/establishment/). [Example](/post/example/): "[She](/post/she/) was [the](/post/the/) [mistress](/post/mistress/) [of](/post/of/) [her](/post/her/) [own](/post/own/) destiny."
+- **[Noun](/post/noun/) (archaic [or](/post/or/) informal)**: [A](/post/a/) [woman](/post/woman/) [with](/post/with/) [whom](/post/whom/) [a](/post/a/) [man](/post/man/) has [a](/post/a/) long-term extramarital sexual [relationship](/post/relationship/), [often](/post/often/) maintaining [a](/post/a/) continuing [association](/post/association/). [Example](/post/example/): "[He](/post/he/) kept [a](/post/a/) [mistress](/post/mistress/) [in](/post/in/) [a](/post/a/) [house](/post/house/) [on](/post/on/) [the](/post/the/) outskirts [of](/post/of/) [town](/post/town/)."
+- **[Noun](/post/noun/) ([historical](/post/historical/))**: [A](/post/a/) [woman](/post/woman/) [who](/post/who/) employs servants [or](/post/or/) governs [a](/post/a/) [household](/post/household/). [Example](/post/example/): "[The](/post/the/) lord's [wife](/post/wife/) [and](/post/and/) [his](/post/his/) [mistress](/post/mistress/) [both](/post/both/) had [separate](/post/separate/) responsibilities [in](/post/in/) managing [the](/post/the/) manor."
 
 ## Phrases
-- "[Mistress](/en/post/mistress/) [of](/en/post/of/) ceremonies": [A](/en/post/a/) [woman](/en/post/woman/) [who](/en/post/who/) presides [over](/en/post/over/) [a](/en/post/a/) [formal](/en/post/formal/) [event](/en/post/event/), introducing speakers [or](/en/post/or/) performers.
-- "[Love](/en/post/love/) [mistress](/en/post/mistress/)": An archaic [or](/en/post/or/) [literary](/en/post/literary/) [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [woman](/en/post/woman/) [who](/en/post/who/) is [a](/en/post/a/) [lover](/en/post/lover/) [outside](/en/post/outside/) [of](/en/post/of/) [marriage](/en/post/marriage/).
+- "[Mistress](/post/mistress/) [of](/post/of/) ceremonies": [A](/post/a/) [woman](/post/woman/) [who](/post/who/) presides [over](/post/over/) [a](/post/a/) [formal](/post/formal/) [event](/post/event/), introducing speakers [or](/post/or/) performers.
+- "[Love](/post/love/) [mistress](/post/mistress/)": An archaic [or](/post/or/) [literary](/post/literary/) [term](/post/term/) [for](/post/for/) [a](/post/a/) [woman](/post/woman/) [who](/post/who/) is [a](/post/a/) [lover](/post/lover/) [outside](/post/outside/) [of](/post/of/) [marriage](/post/marriage/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([authority](/en/post/authority/))**: "[She](/en/post/she/) became [the](/en/post/the/) [mistress](/en/post/mistress/) [of](/en/post/of/) [the](/en/post/the/) [art](/en/post/art/) [gallery](/en/post/gallery/) [after](/en/post/after/) years [of](/en/post/of/) dedicated [work](/en/post/work/)."
-- **[Noun](/en/post/noun/) (extramarital [relationship](/en/post/relationship/))**: "[Despite](/en/post/despite/) [his](/en/post/his/) [reputation](/en/post/reputation/), [the](/en/post/the/) [affair](/en/post/affair/) [with](/en/post/with/) [his](/en/post/his/) [mistress](/en/post/mistress/) remained [secret](/en/post/secret/) [for](/en/post/for/) [many](/en/post/many/) years."
-- **[Historical](/en/post/historical/) context**: "[The](/en/post/the/) [lady](/en/post/lady/) [of](/en/post/of/) [the](/en/post/the/) manor, acting [as](/en/post/as/) [mistress](/en/post/mistress/), oversaw [the](/en/post/the/) [daily](/en/post/daily/) operations [and](/en/post/and/) [welfare](/en/post/welfare/) [of](/en/post/of/) [her](/en/post/her/) estate's inhabitants."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([authority](/post/authority/))**: "[She](/post/she/) became [the](/post/the/) [mistress](/post/mistress/) [of](/post/of/) [the](/post/the/) [art](/post/art/) [gallery](/post/gallery/) [after](/post/after/) years [of](/post/of/) dedicated [work](/post/work/)."
+- **[Noun](/post/noun/) (extramarital [relationship](/post/relationship/))**: "[Despite](/post/despite/) [his](/post/his/) [reputation](/post/reputation/), [the](/post/the/) [affair](/post/affair/) [with](/post/with/) [his](/post/his/) [mistress](/post/mistress/) remained [secret](/post/secret/) [for](/post/for/) [many](/post/many/) years."
+- **[Historical](/post/historical/) context**: "[The](/post/the/) [lady](/post/lady/) [of](/post/of/) [the](/post/the/) manor, acting [as](/post/as/) [mistress](/post/mistress/), oversaw [the](/post/the/) [daily](/post/daily/) operations [and](/post/and/) [welfare](/post/welfare/) [of](/post/of/) [her](/post/her/) estate's inhabitants."
 
 ## Synonyms
-- Paramour ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) an extramarital [relationship](/en/post/relationship/))
-- [Lover](/en/post/lover/) ([in](/en/post/in/) [a](/en/post/a/) non-marital [romantic](/en/post/romantic/) [relationship](/en/post/relationship/))
-- Governess (historically, [a](/en/post/a/) [woman](/en/post/woman/) [in](/en/post/in/) [charge](/en/post/charge/) [of](/en/post/of/) [a](/en/post/a/) [household](/en/post/household/))
-- [Companion](/en/post/companion/) ([in](/en/post/in/) [some](/en/post/some/) cases, referring [to](/en/post/to/) [a](/en/post/a/) long-term [partner](/en/post/partner/) [outside](/en/post/outside/) [of](/en/post/of/) [marriage](/en/post/marriage/))
+- Paramour ([in](/post/in/) [the](/post/the/) context [of](/post/of/) an extramarital [relationship](/post/relationship/))
+- [Lover](/post/lover/) ([in](/post/in/) [a](/post/a/) non-marital [romantic](/post/romantic/) [relationship](/post/relationship/))
+- Governess (historically, [a](/post/a/) [woman](/post/woman/) [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [a](/post/a/) [household](/post/household/))
+- [Companion](/post/companion/) ([in](/post/in/) [some](/post/some/) cases, referring [to](/post/to/) [a](/post/a/) long-term [partner](/post/partner/) [outside](/post/outside/) [of](/post/of/) [marriage](/post/marriage/))

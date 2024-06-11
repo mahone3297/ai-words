@@ -7,37 +7,37 @@ description = '[ˌdisəˈpiə] vi.不见，失踪；消失'
 keywords = ['ai words', 'disappear']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /disəˈpɪər/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: **v**. [To](/en/post/to/) [vanish](/en/post/vanish/) [or](/en/post/or/) [cease](/en/post/cease/) [to](/en/post/to/) [be](/en/post/be/) seen [or](/en/post/or/) known; [to](/en/post/to/) [go](/en/post/go/) [out](/en/post/out/) [of](/en/post/of/) [sight](/en/post/sight/) [or](/en/post/or/) [existence](/en/post/existence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) children disappeared [into](/en/post/into/) [the](/en/post/the/) [playground](/en/post/playground/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [fact](/en/post/fact/) [of](/en/post/of/) disappearing; vanishing. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [sudden](/en/post/sudden/) disappearance puzzled [everyone](/en/post/everyone/)."
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) [present](/en/post/present/) [or](/en/post/or/) [noticeable](/en/post/noticeable/); hidden [or](/en/post/or/) concealed. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [noise](/en/post/noise/) disappeared [into](/en/post/into/) [the](/en/post/the/) [distance](/en/post/distance/)."
+- **[Verb](/post/verb/)**: **v**. [To](/post/to/) [vanish](/post/vanish/) [or](/post/or/) [cease](/post/cease/) [to](/post/to/) [be](/post/be/) seen [or](/post/or/) known; [to](/post/to/) [go](/post/go/) [out](/post/out/) [of](/post/of/) [sight](/post/sight/) [or](/post/or/) [existence](/post/existence/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) children disappeared [into](/post/into/) [the](/post/the/) [playground](/post/playground/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [fact](/post/fact/) [of](/post/of/) disappearing; vanishing. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [sudden](/post/sudden/) disappearance puzzled [everyone](/post/everyone/)."
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) [present](/post/present/) [or](/post/or/) [noticeable](/post/noticeable/); hidden [or](/post/or/) concealed. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [noise](/post/noise/) disappeared [into](/post/into/) [the](/post/the/) [distance](/post/distance/)."
 
 ## Phrases
-- "[Disappear](/en/post/disappear/) [without](/en/post/without/) [a](/en/post/a/) [trace](/en/post/trace/)" [means](/en/post/means/) [to](/en/post/to/) [vanish](/en/post/vanish/) [completely](/en/post/completely/) [with](/en/post/with/) [no](/en/post/no/) [sign](/en/post/sign/) [or](/en/post/or/) [evidence](/en/post/evidence/) [left](/en/post/left/) [behind](/en/post/behind/).
-- "[Disappear](/en/post/disappear/) [from](/en/post/from/) [sight](/en/post/sight/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) ceasing [to](/en/post/to/) [be](/en/post/be/) [visible](/en/post/visible/).
-- "[Disappear](/en/post/disappear/) [act](/en/post/act/)" is [a](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [for](/en/post/for/) [a](/en/post/a/) [dramatic](/en/post/dramatic/) disappearance [or](/en/post/or/) [performance](/en/post/performance/).
+- "[Disappear](/post/disappear/) [without](/post/without/) [a](/post/a/) [trace](/post/trace/)" [means](/post/means/) [to](/post/to/) [vanish](/post/vanish/) [completely](/post/completely/) [with](/post/with/) [no](/post/no/) [sign](/post/sign/) [or](/post/or/) [evidence](/post/evidence/) [left](/post/left/) [behind](/post/behind/).
+- "[Disappear](/post/disappear/) [from](/post/from/) [sight](/post/sight/)" refers [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) ceasing [to](/post/to/) [be](/post/be/) [visible](/post/visible/).
+- "[Disappear](/post/disappear/) [act](/post/act/)" is [a](/post/a/) [term](/post/term/) [used](/post/used/) [for](/post/for/) [a](/post/a/) [dramatic](/post/dramatic/) disappearance [or](/post/or/) [performance](/post/performance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) magician made [the](/en/post/the/) [rabbit](/en/post/rabbit/) [disappear](/en/post/disappear/) [with](/en/post/with/) [a](/en/post/a/) [wave](/en/post/wave/) [of](/en/post/of/) [his](/en/post/his/) wand."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) heated [argument](/en/post/argument/), [he](/en/post/he/) stormed [out](/en/post/out/), disappearing [into](/en/post/into/) [the](/en/post/the/) [night](/en/post/night/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) was surrounded [by](/en/post/by/) overgrown shrubs, making [it](/en/post/it/) [seem](/en/post/seem/) [almost](/en/post/almost/) [invisible](/en/post/invisible/) [or](/en/post/or/) disappeared."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) magician made [the](/post/the/) [rabbit](/post/rabbit/) [disappear](/post/disappear/) [with](/post/with/) [a](/post/a/) [wave](/post/wave/) [of](/post/of/) [his](/post/his/) wand."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) heated [argument](/post/argument/), [he](/post/he/) stormed [out](/post/out/), disappearing [into](/post/into/) [the](/post/the/) [night](/post/night/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) [house](/post/house/) was surrounded [by](/post/by/) overgrown shrubs, making [it](/post/it/) [seem](/post/seem/) [almost](/post/almost/) [invisible](/post/invisible/) [or](/post/or/) disappeared."
 
 ## Synonyms
-- [Vanish](/en/post/vanish/)
-- [Fade](/en/post/fade/) [away](/en/post/away/)
-- [Evaporate](/en/post/evaporate/)
+- [Vanish](/post/vanish/)
+- [Fade](/post/fade/) [away](/post/away/)
+- [Evaporate](/post/evaporate/)
 - Vanquish
 - Elude
-- [Conceal](/en/post/conceal/)
-- [Withdraw](/en/post/withdraw/)
-- [Vanish](/en/post/vanish/) [into](/en/post/into/) [thin](/en/post/thin/) [air](/en/post/air/)
+- [Conceal](/post/conceal/)
+- [Withdraw](/post/withdraw/)
+- [Vanish](/post/vanish/) [into](/post/into/) [thin](/post/thin/) [air](/post/air/)
 
 ## Antonyms
-- [Appear](/en/post/appear/)
-- [Surface](/en/post/surface/)
+- [Appear](/post/appear/)
+- [Surface](/post/surface/)
 - Reemerge
-- [Become](/en/post/become/) [visible](/en/post/visible/)
-- [Pop](/en/post/pop/) [up](/en/post/up/)
+- [Become](/post/become/) [visible](/post/visible/)
+- [Pop](/post/pop/) [up](/post/up/)

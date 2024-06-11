@@ -7,35 +7,35 @@ description = '[ˈhæŋkət∫iːf] n.手帕'
 keywords = ['ai words', 'handkerchief']
 +++
 
-## [Word](/en/post/word/): [Handkerchief](/en/post/handkerchief/)
+## [Word](/post/word/): [Handkerchief](/post/handkerchief/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhændkərʧɪf/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/) [piece](/en/post/piece/) [of](/en/post/of/) [cloth](/en/post/cloth/), [usually](/en/post/usually/) [square](/en/post/square/) [or](/en/post/or/) rectangular [in](/en/post/in/) [shape](/en/post/shape/), [used](/en/post/used/) [for](/en/post/for/) wiping one's [nose](/en/post/nose/), tears, [or](/en/post/or/) [sweat](/en/post/sweat/), [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) decorative [accessory](/en/post/accessory/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) symbolically, [such](/en/post/such/) [as](/en/post/as/) [in](/en/post/in/) signaling [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) token [of](/en/post/of/) remembrance.
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/) [piece](/post/piece/) [of](/post/of/) [cloth](/post/cloth/), [usually](/post/usually/) [square](/post/square/) [or](/post/or/) rectangular [in](/post/in/) [shape](/post/shape/), [used](/post/used/) [for](/post/for/) wiping one's [nose](/post/nose/), tears, [or](/post/or/) [sweat](/post/sweat/), [or](/post/or/) [as](/post/as/) [a](/post/a/) decorative [accessory](/post/accessory/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) symbolically, [such](/post/such/) [as](/post/as/) [in](/post/in/) signaling [or](/post/or/) [as](/post/as/) [a](/post/a/) token [of](/post/of/) remembrance.
 
-[Example](/en/post/example/) sentences:
-- *[Noun](/en/post/noun/)*: "[She](/en/post/she/) pulled [out](/en/post/out/) [her](/en/post/her/) embroidered [handkerchief](/en/post/handkerchief/) [to](/en/post/to/) dab [away](/en/post/away/) [her](/en/post/her/) tears."
-- "[He](/en/post/he/) offered [his](/en/post/his/) [clean](/en/post/clean/) [handkerchief](/en/post/handkerchief/) [to](/en/post/to/) [the](/en/post/the/) [lady](/en/post/lady/) [when](/en/post/when/) [she](/en/post/she/) sneezed."
-- "[The](/en/post/the/) [old](/en/post/old/) [man](/en/post/man/) kept [a](/en/post/a/) neatly folded [handkerchief](/en/post/handkerchief/) [in](/en/post/in/) [his](/en/post/his/) [pocket](/en/post/pocket/)."
+[Example](/post/example/) sentences:
+- *[Noun](/post/noun/)*: "[She](/post/she/) pulled [out](/post/out/) [her](/post/her/) embroidered [handkerchief](/post/handkerchief/) [to](/post/to/) dab [away](/post/away/) [her](/post/her/) tears."
+- "[He](/post/he/) offered [his](/post/his/) [clean](/post/clean/) [handkerchief](/post/handkerchief/) [to](/post/to/) [the](/post/the/) [lady](/post/lady/) [when](/post/when/) [she](/post/she/) sneezed."
+- "[The](/post/the/) [old](/post/old/) [man](/post/man/) kept [a](/post/a/) neatly folded [handkerchief](/post/handkerchief/) [in](/post/in/) [his](/post/his/) [pocket](/post/pocket/)."
 
 Phrases:
-- "Blew one's [nose](/en/post/nose/) [on](/en/post/on/) [a](/en/post/a/) [handkerchief](/en/post/handkerchief/)": [to](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [handkerchief](/en/post/handkerchief/) [to](/en/post/to/) [clear](/en/post/clear/) one's [nose](/en/post/nose/).
-- "[Wave](/en/post/wave/) [a](/en/post/a/) [handkerchief](/en/post/handkerchief/) [as](/en/post/as/) [a](/en/post/a/) [signal](/en/post/signal/)": [to](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [handkerchief](/en/post/handkerchief/) [to](/en/post/to/) [communicate](/en/post/communicate/) [from](/en/post/from/) [a](/en/post/a/) [distance](/en/post/distance/), typically [in](/en/post/in/) [distress](/en/post/distress/) [or](/en/post/or/) [to](/en/post/to/) [show](/en/post/show/) [recognition](/en/post/recognition/).
-- "[Offer](/en/post/offer/) [someone](/en/post/someone/) [a](/en/post/a/) [handkerchief](/en/post/handkerchief/)": [to](/en/post/to/) [give](/en/post/give/) [someone](/en/post/someone/) [your](/en/post/your/) [handkerchief](/en/post/handkerchief/) [as](/en/post/as/) an [act](/en/post/act/) [of](/en/post/of/) [kindness](/en/post/kindness/) [or](/en/post/or/) courtesy.
+- "Blew one's [nose](/post/nose/) [on](/post/on/) [a](/post/a/) [handkerchief](/post/handkerchief/)": [to](/post/to/) [use](/post/use/) [a](/post/a/) [handkerchief](/post/handkerchief/) [to](/post/to/) [clear](/post/clear/) one's [nose](/post/nose/).
+- "[Wave](/post/wave/) [a](/post/a/) [handkerchief](/post/handkerchief/) [as](/post/as/) [a](/post/a/) [signal](/post/signal/)": [to](/post/to/) [use](/post/use/) [a](/post/a/) [handkerchief](/post/handkerchief/) [to](/post/to/) [communicate](/post/communicate/) [from](/post/from/) [a](/post/a/) [distance](/post/distance/), typically [in](/post/in/) [distress](/post/distress/) [or](/post/or/) [to](/post/to/) [show](/post/show/) [recognition](/post/recognition/).
+- "[Offer](/post/offer/) [someone](/post/someone/) [a](/post/a/) [handkerchief](/post/handkerchief/)": [to](/post/to/) [give](/post/give/) [someone](/post/someone/) [your](/post/your/) [handkerchief](/post/handkerchief/) [as](/post/as/) an [act](/post/act/) [of](/post/of/) [kindness](/post/kindness/) [or](/post/or/) courtesy.
 
 ## Synonyms
 - Hanky
-- [Tissue](/en/post/tissue/)
-- [Pocket](/en/post/pocket/) [square](/en/post/square/)
-- Kleenex ([brand](/en/post/brand/) [name](/en/post/name/))
-- Neckerchief ([can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [scarf](/en/post/scarf/) worn [around](/en/post/around/) [the](/en/post/the/) [neck](/en/post/neck/))
-- Sobriquet (archaic [or](/en/post/or/) [literary](/en/post/literary/) [term](/en/post/term/))
+- [Tissue](/post/tissue/)
+- [Pocket](/post/pocket/) [square](/post/square/)
+- Kleenex ([brand](/post/brand/) [name](/post/name/))
+- Neckerchief ([can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [scarf](/post/scarf/) worn [around](/post/around/) [the](/post/the/) [neck](/post/neck/))
+- Sobriquet (archaic [or](/post/or/) [literary](/post/literary/) [term](/post/term/))
 
-## [Note](/en/post/note/)
-Handkerchiefs [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [part](/en/post/part/) [of](/en/post/of/) idiomatic expressions:
-- "[To](/en/post/to/) [throw](/en/post/throw/) [in](/en/post/in/) [the](/en/post/the/) [towel](/en/post/towel/)" - [meaning](/en/post/meaning/) [to](/en/post/to/) [give](/en/post/give/) [up](/en/post/up/) [or](/en/post/or/) concede [defeat](/en/post/defeat/), derived [from](/en/post/from/) [the](/en/post/the/) [gesture](/en/post/gesture/) [of](/en/post/of/) throwing [down](/en/post/down/) [a](/en/post/a/) [handkerchief](/en/post/handkerchief/) [in](/en/post/in/) [surrender](/en/post/surrender/) [during](/en/post/during/) [a](/en/post/a/) [fight](/en/post/fight/) [or](/en/post/or/) [contest](/en/post/contest/).
-- "[A](/en/post/a/) [red](/en/post/red/) hanky [in](/en/post/in/) [the](/en/post/the/) [left](/en/post/left/) [pocket](/en/post/pocket/)" - [in](/en/post/in/) [some](/en/post/some/) LGBTQ+ communities, [it](/en/post/it/) was [a](/en/post/a/) discreet [signal](/en/post/signal/) indicating [that](/en/post/that/) [the](/en/post/the/) wearer was interested [in](/en/post/in/) same-sex relationships. 
+## [Note](/post/note/)
+Handkerchiefs [can](/post/can/) [also](/post/also/) [be](/post/be/) [part](/post/part/) [of](/post/of/) idiomatic expressions:
+- "[To](/post/to/) [throw](/post/throw/) [in](/post/in/) [the](/post/the/) [towel](/post/towel/)" - [meaning](/post/meaning/) [to](/post/to/) [give](/post/give/) [up](/post/up/) [or](/post/or/) concede [defeat](/post/defeat/), derived [from](/post/from/) [the](/post/the/) [gesture](/post/gesture/) [of](/post/of/) throwing [down](/post/down/) [a](/post/a/) [handkerchief](/post/handkerchief/) [in](/post/in/) [surrender](/post/surrender/) [during](/post/during/) [a](/post/a/) [fight](/post/fight/) [or](/post/or/) [contest](/post/contest/).
+- "[A](/post/a/) [red](/post/red/) hanky [in](/post/in/) [the](/post/the/) [left](/post/left/) [pocket](/post/pocket/)" - [in](/post/in/) [some](/post/some/) LGBTQ+ communities, [it](/post/it/) was [a](/post/a/) discreet [signal](/post/signal/) indicating [that](/post/that/) [the](/post/the/) wearer was interested [in](/post/in/) same-sex relationships. 
 
-[However](/en/post/however/), [these](/en/post/these/) idioms don't [directly](/en/post/directly/) [define](/en/post/define/) [the](/en/post/the/) [word](/en/post/word/) "[handkerchief](/en/post/handkerchief/)"; [they](/en/post/they/) [illustrate](/en/post/illustrate/) [its](/en/post/its/) [usage](/en/post/usage/) [in](/en/post/in/) cultural contexts.
+[However](/post/however/), [these](/post/these/) idioms don't [directly](/post/directly/) [define](/post/define/) [the](/post/the/) [word](/post/word/) "[handkerchief](/post/handkerchief/)"; [they](/post/they/) [illustrate](/post/illustrate/) [its](/post/its/) [usage](/post/usage/) [in](/post/in/) cultural contexts.

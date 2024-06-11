@@ -7,34 +7,34 @@ description = '[griːn] a.绿色的 n.绿色'
 keywords = ['ai words', 'green']
 +++
 
-## [Word](/en/post/word/): [Green](/en/post/green/)
+## [Word](/post/word/): [Green](/post/green/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡriːn/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/) (adj)**: [Of](/en/post/of/) [the](/en/post/the/) [color](/en/post/color/) [between](/en/post/between/) [blue](/en/post/blue/) [and](/en/post/and/) [yellow](/en/post/yellow/) [on](/en/post/on/) [the](/en/post/the/) spectrum [of](/en/post/of/) [visible](/en/post/visible/) [light](/en/post/light/), [which](/en/post/which/) is typically associated [with](/en/post/with/) [grass](/en/post/grass/), leaves, [and](/en/post/and/) [nature](/en/post/nature/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [forest](/en/post/forest/) was [a](/en/post/a/) lush [green](/en/post/green/) [after](/en/post/after/) [the](/en/post/the/) [rain](/en/post/rain/)."
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [color](/en/post/color/) [green](/en/post/green/); [also](/en/post/also/) refers [to](/en/post/to/) vegetation, plants, [or](/en/post/or/) fields. [Example](/en/post/example/): "[Her](/en/post/her/) favorite [color](/en/post/color/) is [green](/en/post/green/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [green](/en/post/green/), [especially](/en/post/especially/) [by](/en/post/by/) growing plants [on](/en/post/on/) [it](/en/post/it/) [or](/en/post/or/) [painting](/en/post/painting/) [it](/en/post/it/) [green](/en/post/green/). [Example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [green](/en/post/green/) [the](/en/post/the/) rooftop [with](/en/post/with/) [a](/en/post/a/) [garden](/en/post/garden/)."
-- **[Adjective](/en/post/adjective/) (adj)** (idiomatic): Referring [to](/en/post/to/) [being](/en/post/being/) environmentally [friendly](/en/post/friendly/) [or](/en/post/or/) sustainable. [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) aims [to](/en/post/to/) [become](/en/post/become/) [more](/en/post/more/) [green](/en/post/green/) [by](/en/post/by/) reducing [its](/en/post/its/) [carbon](/en/post/carbon/) footprint."
+- **[Adjective](/post/adjective/) (adj)**: [Of](/post/of/) [the](/post/the/) [color](/post/color/) [between](/post/between/) [blue](/post/blue/) [and](/post/and/) [yellow](/post/yellow/) [on](/post/on/) [the](/post/the/) spectrum [of](/post/of/) [visible](/post/visible/) [light](/post/light/), [which](/post/which/) is typically associated [with](/post/with/) [grass](/post/grass/), leaves, [and](/post/and/) [nature](/post/nature/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [forest](/post/forest/) was [a](/post/a/) lush [green](/post/green/) [after](/post/after/) [the](/post/the/) [rain](/post/rain/)."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [color](/post/color/) [green](/post/green/); [also](/post/also/) refers [to](/post/to/) vegetation, plants, [or](/post/or/) fields. [Example](/post/example/): "[Her](/post/her/) favorite [color](/post/color/) is [green](/post/green/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [green](/post/green/), [especially](/post/especially/) [by](/post/by/) growing plants [on](/post/on/) [it](/post/it/) [or](/post/or/) [painting](/post/painting/) [it](/post/it/) [green](/post/green/). [Example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [green](/post/green/) [the](/post/the/) rooftop [with](/post/with/) [a](/post/a/) [garden](/post/garden/)."
+- **[Adjective](/post/adjective/) (adj)** (idiomatic): Referring [to](/post/to/) [being](/post/being/) environmentally [friendly](/post/friendly/) [or](/post/or/) sustainable. [Example](/post/example/): "[The](/post/the/) [company](/post/company/) aims [to](/post/to/) [become](/post/become/) [more](/post/more/) [green](/post/green/) [by](/post/by/) reducing [its](/post/its/) [carbon](/post/carbon/) footprint."
 
 ## Phrases
-- "[Green](/en/post/green/) [thumb](/en/post/thumb/)" refers [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [a](/en/post/a/) [talent](/en/post/talent/) [for](/en/post/for/) gardening.
-- "[Green](/en/post/green/) [with](/en/post/with/) [envy](/en/post/envy/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [very](/en/post/very/) [jealous](/en/post/jealous/) [or](/en/post/or/) envious.
-- "Going [green](/en/post/green/)" refers [to](/en/post/to/) adopting environmentally [friendly](/en/post/friendly/) practices.
-- "[The](/en/post/the/) [grass](/en/post/grass/) is [always](/en/post/always/) greener [on](/en/post/on/) [the](/en/post/the/) [other](/en/post/other/) [side](/en/post/side/)" is [a](/en/post/a/) proverb [meaning](/en/post/meaning/) [that](/en/post/that/) [people](/en/post/people/) [often](/en/post/often/) [believe](/en/post/believe/) others [have](/en/post/have/) [better](/en/post/better/) situations [than](/en/post/than/) [their](/en/post/their/) [own](/en/post/own/).
+- "[Green](/post/green/) [thumb](/post/thumb/)" refers [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) has [a](/post/a/) [talent](/post/talent/) [for](/post/for/) gardening.
+- "[Green](/post/green/) [with](/post/with/) [envy](/post/envy/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) [very](/post/very/) [jealous](/post/jealous/) [or](/post/or/) envious.
+- "Going [green](/post/green/)" refers [to](/post/to/) adopting environmentally [friendly](/post/friendly/) practices.
+- "[The](/post/the/) [grass](/post/grass/) is [always](/post/always/) greener [on](/post/on/) [the](/post/the/) [other](/post/other/) [side](/post/side/)" is [a](/post/a/) proverb [meaning](/post/meaning/) [that](/post/that/) [people](/post/people/) [often](/post/often/) [believe](/post/believe/) others [have](/post/have/) [better](/post/better/) situations [than](/post/than/) [their](/post/their/) [own](/post/own/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) walls [of](/en/post/of/) [the](/en/post/the/) [room](/en/post/room/) were painted [a](/en/post/a/) calming [green](/en/post/green/) [shade](/en/post/shade/)."
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) [spring](/en/post/spring/), [the](/en/post/the/) [green](/en/post/green/) [of](/en/post/of/) [the](/en/post/the/) [countryside](/en/post/countryside/) is invigorating."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [city](/en/post/city/) [council](/en/post/council/) plans [to](/en/post/to/) [green](/en/post/green/) urban spaces [through](/en/post/through/) [tree](/en/post/tree/) planting initiatives."
-- **Idiomatic**: "[After](/en/post/after/) seeing [his](/en/post/his/) friend's [new](/en/post/new/) [car](/en/post/car/), [he](/en/post/he/) turned [green](/en/post/green/) [with](/en/post/with/) [envy](/en/post/envy/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) walls [of](/post/of/) [the](/post/the/) [room](/post/room/) were painted [a](/post/a/) calming [green](/post/green/) [shade](/post/shade/)."
+- **[Noun](/post/noun/)**: "[In](/post/in/) [spring](/post/spring/), [the](/post/the/) [green](/post/green/) [of](/post/of/) [the](/post/the/) [countryside](/post/countryside/) is invigorating."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [city](/post/city/) [council](/post/council/) plans [to](/post/to/) [green](/post/green/) urban spaces [through](/post/through/) [tree](/post/tree/) planting initiatives."
+- **Idiomatic**: "[After](/post/after/) seeing [his](/post/his/) friend's [new](/post/new/) [car](/post/car/), [he](/post/he/) turned [green](/post/green/) [with](/post/with/) [envy](/post/envy/)."
 
 ## Synonyms
 - Emerald
 - Verdant
-- [Lime](/en/post/lime/)
-- [Forest](/en/post/forest/) [green](/en/post/green/)
+- [Lime](/post/lime/)
+- [Forest](/post/forest/) [green](/post/green/)
 - Eco-friendly
 - Sustainable
-- Environmentally [sound](/en/post/sound/)
+- Environmentally [sound](/post/sound/)

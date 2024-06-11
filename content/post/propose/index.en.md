@@ -7,35 +7,35 @@ description = '[prəˈpəuz] vt.提议 vi.求婚'
 keywords = ['ai words', 'propose']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /proˈpəʊz/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: n. [To](/en/post/to/) [suggest](/en/post/suggest/) [or](/en/post/or/) [present](/en/post/present/) an [idea](/en/post/idea/), [plan](/en/post/plan/), [or](/en/post/or/) [action](/en/post/action/) [for](/en/post/for/) [consideration](/en/post/consideration/) [or](/en/post/or/) [acceptance](/en/post/acceptance/). "[He](/en/post/he/) proposed [a](/en/post/a/) [new](/en/post/new/) [business](/en/post/business/) [strategy](/en/post/strategy/)."
-- **[Verb](/en/post/verb/)**: v. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [formal](/en/post/formal/) [offer](/en/post/offer/) [to](/en/post/to/) [marry](/en/post/marry/) [someone](/en/post/someone/). "[She](/en/post/she/) proposed [to](/en/post/to/) [her](/en/post/her/) boyfriend [during](/en/post/during/) [a](/en/post/a/) [romantic](/en/post/romantic/) [dinner](/en/post/dinner/)."
+- **[Verb](/post/verb/)**: n. [To](/post/to/) [suggest](/post/suggest/) [or](/post/or/) [present](/post/present/) an [idea](/post/idea/), [plan](/post/plan/), [or](/post/or/) [action](/post/action/) [for](/post/for/) [consideration](/post/consideration/) [or](/post/or/) [acceptance](/post/acceptance/). "[He](/post/he/) proposed [a](/post/a/) [new](/post/new/) [business](/post/business/) [strategy](/post/strategy/)."
+- **[Verb](/post/verb/)**: v. [To](/post/to/) [make](/post/make/) [a](/post/a/) [formal](/post/formal/) [offer](/post/offer/) [to](/post/to/) [marry](/post/marry/) [someone](/post/someone/). "[She](/post/she/) proposed [to](/post/to/) [her](/post/her/) boyfriend [during](/post/during/) [a](/post/a/) [romantic](/post/romantic/) [dinner](/post/dinner/)."
 
 ## Phrases
-- "[Propose](/en/post/propose/) [a](/en/post/a/) [solution](/en/post/solution/)" suggests [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [resolve](/en/post/resolve/) [a](/en/post/a/) [problem](/en/post/problem/).
-- "[To](/en/post/to/) [propose](/en/post/propose/) [marriage](/en/post/marriage/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) asking [for](/en/post/for/) someone's [hand](/en/post/hand/) [in](/en/post/in/) [marriage](/en/post/marriage/).
-- "[He](/en/post/he/) tentatively proposed [a](/en/post/a/) [date](/en/post/date/) [for](/en/post/for/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+- "[Propose](/post/propose/) [a](/post/a/) [solution](/post/solution/)" suggests [a](/post/a/) [way](/post/way/) [to](/post/to/) [resolve](/post/resolve/) [a](/post/a/) [problem](/post/problem/).
+- "[To](/post/to/) [propose](/post/propose/) [marriage](/post/marriage/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) asking [for](/post/for/) someone's [hand](/post/hand/) [in](/post/in/) [marriage](/post/marriage/).
+- "[He](/post/he/) tentatively proposed [a](/post/a/) [date](/post/date/) [for](/post/for/) [the](/post/the/) [meeting](/post/meeting/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([suggestion](/en/post/suggestion/))**: "[The](/en/post/the/) [team](/en/post/team/) [leader](/en/post/leader/) proposed [a](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [the](/en/post/the/) [project](/en/post/project/) timeline."
-- **[Verb](/en/post/verb/) ([marriage](/en/post/marriage/))**: "[After](/en/post/after/) [six](/en/post/six/) months, [they](/en/post/they/) decided [to](/en/post/to/) [propose](/en/post/propose/) [to](/en/post/to/) [each](/en/post/each/) [other](/en/post/other/)."
-- **[Verb](/en/post/verb/) ([offer](/en/post/offer/))**: "[He](/en/post/he/) proposed [a](/en/post/a/) [compromise](/en/post/compromise/) [that](/en/post/that/) [could](/en/post/could/) [satisfy](/en/post/satisfy/) [both](/en/post/both/) parties."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([suggestion](/post/suggestion/))**: "[The](/post/the/) [team](/post/team/) [leader](/post/leader/) proposed [a](/post/a/) [change](/post/change/) [in](/post/in/) [the](/post/the/) [project](/post/project/) timeline."
+- **[Verb](/post/verb/) ([marriage](/post/marriage/))**: "[After](/post/after/) [six](/post/six/) months, [they](/post/they/) decided [to](/post/to/) [propose](/post/propose/) [to](/post/to/) [each](/post/each/) [other](/post/other/)."
+- **[Verb](/post/verb/) ([offer](/post/offer/))**: "[He](/post/he/) proposed [a](/post/a/) [compromise](/post/compromise/) [that](/post/that/) [could](/post/could/) [satisfy](/post/satisfy/) [both](/post/both/) parties."
 
 ## Synonyms
-- [Suggest](/en/post/suggest/)
-- [Recommend](/en/post/recommend/)
-- [Advise](/en/post/advise/)
-- [Put](/en/post/put/) [forward](/en/post/forward/)
-- [Introduce](/en/post/introduce/)
-- [Pitch](/en/post/pitch/)
+- [Suggest](/post/suggest/)
+- [Recommend](/post/recommend/)
+- [Advise](/post/advise/)
+- [Put](/post/put/) [forward](/post/forward/)
+- [Introduce](/post/introduce/)
+- [Pitch](/post/pitch/)
 - Propound
-- [Present](/en/post/present/)
+- [Present](/post/present/)
 
 ## Antonyms
-- [Reject](/en/post/reject/)
-- [Oppose](/en/post/oppose/)
-- [Withdraw](/en/post/withdraw/)
+- [Reject](/post/reject/)
+- [Oppose](/post/oppose/)
+- [Withdraw](/post/withdraw/)
 - Disapprove

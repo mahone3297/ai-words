@@ -7,34 +7,34 @@ description = '[daiˈvəːs] a.不一样的，相异的'
 keywords = ['ai words', 'diverse']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈzaɪər/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [variety](/en/post/variety/), showing [a](/en/post/a/) [wide](/en/post/wide/) [range](/en/post/range/) [of](/en/post/of/) differences [or](/en/post/or/) qualities. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) has [a](/en/post/a/) [diverse](/en/post/diverse/) [set](/en/post/set/) [of](/en/post/of/) skills."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) diversity; [a](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) [different](/en/post/different/) types [or](/en/post/or/) qualities. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) values cultural diversity [in](/en/post/in/) [the](/en/post/the/) workplace."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [variety](/post/variety/), showing [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) differences [or](/post/or/) qualities. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [team](/post/team/) has [a](/post/a/) [diverse](/post/diverse/) [set](/post/set/) [of](/post/of/) skills."
+- **[Noun](/post/noun/)**: [A](/post/a/) diversity; [a](/post/a/) [mixture](/post/mixture/) [of](/post/of/) [different](/post/different/) types [or](/post/or/) qualities. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) values cultural diversity [in](/post/in/) [the](/post/the/) workplace."
 
 ## Phrases
-- "[Diverse](/en/post/diverse/) backgrounds" refers [to](/en/post/to/) [people](/en/post/people/) [from](/en/post/from/) [different](/en/post/different/) origins [or](/en/post/or/) experiences.
-- "[Diverse](/en/post/diverse/) perspectives" [mean](/en/post/mean/) viewpoints [that](/en/post/that/) encompass [a](/en/post/a/) [wide](/en/post/wide/) [range](/en/post/range/) [of](/en/post/of/) opinions.
-- "Diversity [and](/en/post/and/) inclusion" is [a](/en/post/a/) [focus](/en/post/focus/) [on](/en/post/on/) embracing differences [and](/en/post/and/) [equal](/en/post/equal/) opportunities.
+- "[Diverse](/post/diverse/) backgrounds" refers [to](/post/to/) [people](/post/people/) [from](/post/from/) [different](/post/different/) origins [or](/post/or/) experiences.
+- "[Diverse](/post/diverse/) perspectives" [mean](/post/mean/) viewpoints [that](/post/that/) encompass [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) opinions.
+- "Diversity [and](/post/and/) inclusion" is [a](/post/a/) [focus](/post/focus/) [on](/post/on/) embracing differences [and](/post/and/) [equal](/post/equal/) opportunities.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [class](/en/post/class/) was [diverse](/en/post/diverse/), [with](/en/post/with/) students [from](/en/post/from/) [various](/en/post/various/) countries [and](/en/post/and/) cultures."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [organization](/en/post/organization/) strives [to](/en/post/to/) [promote](/en/post/promote/) diversity [in](/en/post/in/) [its](/en/post/its/) hiring practices."
-- **[Verb](/en/post/verb/)**: "[To](/en/post/to/) foster [a](/en/post/a/) [diverse](/en/post/diverse/) [environment](/en/post/environment/) [means](/en/post/means/) encouraging [different](/en/post/different/) ideas [and](/en/post/and/) contributions."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [class](/post/class/) was [diverse](/post/diverse/), [with](/post/with/) students [from](/post/from/) [various](/post/various/) countries [and](/post/and/) cultures."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [organization](/post/organization/) strives [to](/post/to/) [promote](/post/promote/) diversity [in](/post/in/) [its](/post/its/) hiring practices."
+- **[Verb](/post/verb/)**: "[To](/post/to/) foster [a](/post/a/) [diverse](/post/diverse/) [environment](/post/environment/) [means](/post/means/) encouraging [different](/post/different/) ideas [and](/post/and/) contributions."
 
 ## Synonyms
 - Varied
 - Heterogeneous
-- [Different](/en/post/different/)
+- [Different](/post/different/)
 - assorted
-- [Diverse](/en/post/diverse/) [range](/en/post/range/)
+- [Diverse](/post/diverse/) [range](/post/range/)
 - Multifaceted
 
 ## Antonyms
 - Homogeneous
 - Monotonous
-- [Uniform](/en/post/uniform/)
-- [Limited](/en/post/limited/)
-- [Identical](/en/post/identical/)
+- [Uniform](/post/uniform/)
+- [Limited](/post/limited/)
+- [Identical](/post/identical/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'fortunate']
 /ˈfɔːrtʃənət/
 
 ## 释义
-- **形容词**: 幸运的；有幸的。例如: "[She](/post/she/) was [fortunate](/post/fortunate/) [enough](/post/enough/) [to](/post/to/) [win](/post/win/) [the](/post/the/) lottery."
-- **名词**: （常与the连用）好运；幸运。例如: "[The](/post/the/) [fortunate](/post/fortunate/) [few](/post/few/) [who](/post/who/) [escape](/post/escape/) unemployment."
+- **形容词**: 幸运的；有幸的。例如: "[She](/zh/post/she/) was [fortunate](/zh/post/fortunate/) [enough](/zh/post/enough/) [to](/zh/post/to/) [win](/zh/post/win/) [the](/zh/post/the/) lottery."
+- **名词**: （常与the连用）好运；幸运。例如: "[The](/zh/post/the/) [fortunate](/zh/post/fortunate/) [few](/zh/post/few/) [who](/zh/post/who/) [escape](/zh/post/escape/) unemployment."
 
 ## 短语
-- "[Fortune](/post/fortune/) favors [the](/post/the/) [bold](/post/bold/)" 意为“命运眷顾勇敢的人”。
-- "[In](/post/in/) [good](/post/good/) [fortune](/post/fortune/)" 表示在好运时。
+- "[Fortune](/zh/post/fortune/) favors [the](/zh/post/the/) [bold](/zh/post/bold/)" 意为“命运眷顾勇敢的人”。
+- "[In](/zh/post/in/) [good](/zh/post/good/) [fortune](/zh/post/fortune/)" 表示在好运时。
 
 ## 例句
-- 形容词: "[It](/post/it/) was [fortunate](/post/fortunate/) [that](/post/that/) [he](/post/he/) had [a](/post/a/) backup [plan](/post/plan/) [when](/post/when/) [his](/post/his/) [main](/post/main/) [business](/post/business/) failed."
-- 名词: "[She](/post/she/) enjoyed [a](/post/a/) [long](/post/long/) [period](/post/period/) [of](/post/of/) [good](/post/good/) [fortune](/post/fortune/) [after](/post/after/) [her](/post/her/) [career](/post/career/) took [off](/post/off/)."
+- 形容词: "[It](/zh/post/it/) was [fortunate](/zh/post/fortunate/) [that](/zh/post/that/) [he](/zh/post/he/) had [a](/zh/post/a/) backup [plan](/zh/post/plan/) [when](/zh/post/when/) [his](/zh/post/his/) [main](/zh/post/main/) [business](/zh/post/business/) failed."
+- 名词: "[She](/zh/post/she/) enjoyed [a](/zh/post/a/) [long](/zh/post/long/) [period](/zh/post/period/) [of](/zh/post/of/) [good](/zh/post/good/) [fortune](/zh/post/fortune/) [after](/zh/post/after/) [her](/zh/post/her/) [career](/zh/post/career/) took [off](/zh/post/off/)."
 
 ## 同义词
-- [Lucky](/post/lucky/)
+- [Lucky](/zh/post/lucky/)
 - Fortuitous
 - Auspicious
 - Propitious
-- [Happy](/post/happy/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [being](/post/being/) [fortunate](/post/fortunate/))
+- [Happy](/zh/post/happy/) ([in](/zh/post/in/) [the](/zh/post/the/) [sense](/zh/post/sense/) [of](/zh/post/of/) [being](/zh/post/being/) [fortunate](/zh/post/fortunate/))

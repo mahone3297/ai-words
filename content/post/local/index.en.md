@@ -7,30 +7,30 @@ description = '[ˈləukəl] a.地方的；局部的'
 keywords = ['ai words', 'local']
 +++
 
-## [Word](/en/post/word/): [Local](/en/post/local/)
+## [Word](/post/word/): [Local](/post/local/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈloʊkəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) belonging [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/) [or](/en/post/or/) neighborhood; [not](/en/post/not/) [widespread](/en/post/widespread/) [or](/en/post/or/) [distant](/en/post/distant/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [local](/en/post/local/) [library](/en/post/library/) is [just](/en/post/just/) [down](/en/post/down/) [the](/en/post/the/) [street](/en/post/street/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) lives [in](/en/post/in/) [or](/en/post/or/) belongs [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [area](/en/post/area/) [or](/en/post/or/) neighborhood. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) locals [know](/en/post/know/) [the](/en/post/the/) [best](/en/post/best/) places [to](/en/post/to/) [eat](/en/post/eat/) [around](/en/post/around/) [here](/en/post/here/)."
-- **[Adjective](/en/post/adjective/) ([in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [a](/en/post/a/) [product](/en/post/product/))**: Produced [or](/en/post/or/) [available](/en/post/available/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/); [not](/en/post/not/) imported [from](/en/post/from/) [elsewhere](/en/post/elsewhere/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [serve](/en/post/serve/) [only](/en/post/only/) [local](/en/post/local/) [produce](/en/post/produce/) [in](/en/post/in/) [our](/en/post/our/) [restaurant](/en/post/restaurant/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) belonging [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/) [or](/post/or/) neighborhood; [not](/post/not/) [widespread](/post/widespread/) [or](/post/or/) [distant](/post/distant/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [local](/post/local/) [library](/post/library/) is [just](/post/just/) [down](/post/down/) [the](/post/the/) [street](/post/street/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) lives [in](/post/in/) [or](/post/or/) belongs [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [area](/post/area/) [or](/post/or/) neighborhood. [For](/post/for/) [example](/post/example/): "[The](/post/the/) locals [know](/post/know/) [the](/post/the/) [best](/post/best/) places [to](/post/to/) [eat](/post/eat/) [around](/post/around/) [here](/post/here/)."
+- **[Adjective](/post/adjective/) ([in](/post/in/) [reference](/post/reference/) [to](/post/to/) [a](/post/a/) [product](/post/product/))**: Produced [or](/post/or/) [available](/post/available/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/); [not](/post/not/) imported [from](/post/from/) [elsewhere](/post/elsewhere/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [serve](/post/serve/) [only](/post/only/) [local](/post/local/) [produce](/post/produce/) [in](/post/in/) [our](/post/our/) [restaurant](/post/restaurant/)."
 
 ## Phrases
-- "[Local](/en/post/local/) [community](/en/post/community/)": [The](/en/post/the/) [people](/en/post/people/) [living](/en/post/living/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/) [and](/en/post/and/) [their](/en/post/their/) [social](/en/post/social/) interactions.
-- "[Local](/en/post/local/) [government](/en/post/government/)": [The](/en/post/the/) administrative [body](/en/post/body/) [responsible](/en/post/responsible/) [for](/en/post/for/) [a](/en/post/a/) [small](/en/post/small/), designated [area](/en/post/area/) [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [town](/en/post/town/) [or](/en/post/or/) [district](/en/post/district/).
-- "[Go](/en/post/go/) [local](/en/post/local/)": [To](/en/post/to/) [support](/en/post/support/) [or](/en/post/or/) [use](/en/post/use/) products, services, [or](/en/post/or/) businesses [that](/en/post/that/) are [native](/en/post/native/) [or](/en/post/or/) based [in](/en/post/in/) one's [immediate](/en/post/immediate/) [area](/en/post/area/).
+- "[Local](/post/local/) [community](/post/community/)": [The](/post/the/) [people](/post/people/) [living](/post/living/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/) [and](/post/and/) [their](/post/their/) [social](/post/social/) interactions.
+- "[Local](/post/local/) [government](/post/government/)": [The](/post/the/) administrative [body](/post/body/) [responsible](/post/responsible/) [for](/post/for/) [a](/post/a/) [small](/post/small/), designated [area](/post/area/) [such](/post/such/) [as](/post/as/) [a](/post/a/) [town](/post/town/) [or](/post/or/) [district](/post/district/).
+- "[Go](/post/go/) [local](/post/local/)": [To](/post/to/) [support](/post/support/) [or](/post/or/) [use](/post/use/) products, services, [or](/post/or/) businesses [that](/post/that/) are [native](/post/native/) [or](/post/or/) based [in](/post/in/) one's [immediate](/post/immediate/) [area](/post/area/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [local](/en/post/local/) [park](/en/post/park/) has stunning views [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) locals organized [a](/en/post/a/) [festival](/en/post/festival/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [their](/en/post/their/) cultural heritage."
-- **[Adjective](/en/post/adjective/) ([product](/en/post/product/))**: "[The](/en/post/the/) farmer's [market](/en/post/market/) sells [fresh](/en/post/fresh/) fruits [and](/en/post/and/) vegetables [from](/en/post/from/) [local](/en/post/local/) farms."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [local](/post/local/) [park](/post/park/) has stunning views [of](/post/of/) [the](/post/the/) [city](/post/city/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) locals organized [a](/post/a/) [festival](/post/festival/) [to](/post/to/) [celebrate](/post/celebrate/) [their](/post/their/) cultural heritage."
+- **[Adjective](/post/adjective/) ([product](/post/product/))**: "[The](/post/the/) farmer's [market](/post/market/) sells [fresh](/post/fresh/) fruits [and](/post/and/) vegetables [from](/post/from/) [local](/post/local/) farms."
 
 ## Synonyms
 - Regional
 - Neighborhood
 - Community-based
 - Area-specific
-- Homegrown ([when](/en/post/when/) referring [to](/en/post/to/) products)
-- [Native](/en/post/native/) ([for](/en/post/for/) [people](/en/post/people/) [or](/en/post/or/) products)
+- Homegrown ([when](/post/when/) referring [to](/post/to/) products)
+- [Native](/post/native/) ([for](/post/for/) [people](/post/people/) [or](/post/or/) products)

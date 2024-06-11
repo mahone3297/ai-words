@@ -12,24 +12,24 @@ keywords = ['ai words', 'commission']
 
 ## 释义
 - **名词**: 
-   - 委任；委托：如 "[The](/post/the/) [government](/post/government/) has commissioned [a](/post/a/) [new](/post/new/) [report](/post/report/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/)."
-   - 佣金；回扣：如 "Salespeople [often](/post/often/) [receive](/post/receive/) [a](/post/a/) [commission](/post/commission/) [on](/post/on/) [each](/post/each/) [sale](/post/sale/) [they](/post/they/) [make](/post/make/)."
+   - 委任；委托：如 "[The](/zh/post/the/) [government](/zh/post/government/) has commissioned [a](/zh/post/a/) [new](/zh/post/new/) [report](/zh/post/report/) [on](/zh/post/on/) [climate](/zh/post/climate/) [change](/zh/post/change/)."
+   - 佣金；回扣：如 "Salespeople [often](/zh/post/often/) [receive](/zh/post/receive/) [a](/zh/post/a/) [commission](/zh/post/commission/) [on](/zh/post/on/) [each](/zh/post/each/) [sale](/zh/post/sale/) [they](/zh/post/they/) [make](/zh/post/make/)."
 
 - **动词**:
-   - 委派；委托创作：如 "[The](/post/the/) [artist](/post/artist/) was commissioned [to](/post/to/) [paint](/post/paint/) [a](/post/a/) mural [on](/post/on/) [the](/post/the/) building's facade."
-   - 领受佣金：如 "[He](/post/he/) started working [as](/post/as/) [a](/post/a/) [real](/post/real/) estate [agent](/post/agent/), commissioning [from](/post/from/) [each](/post/each/) [sale](/post/sale/)."
+   - 委派；委托创作：如 "[The](/zh/post/the/) [artist](/zh/post/artist/) was commissioned [to](/zh/post/to/) [paint](/zh/post/paint/) [a](/zh/post/a/) mural [on](/zh/post/on/) [the](/zh/post/the/) building's facade."
+   - 领受佣金：如 "[He](/zh/post/he/) started working [as](/zh/post/as/) [a](/zh/post/a/) [real](/zh/post/real/) estate [agent](/zh/post/agent/), commissioning [from](/zh/post/from/) [each](/zh/post/each/) [sale](/zh/post/sale/)."
 
 ## 短语
-- "[on](/post/on/) [commission](/post/commission/)" 指按销售额或完成任务的比例获得报酬。
-- "[commission](/post/commission/) an artwork" 意为委托创作艺术品。
+- "[on](/zh/post/on/) [commission](/zh/post/commission/)" 指按销售额或完成任务的比例获得报酬。
+- "[commission](/zh/post/commission/) an artwork" 意为委托创作艺术品。
 
 ## 例句
-- 名词: "[The](/post/the/) [company](/post/company/) pays [a](/post/a/) 10% [commission](/post/commission/) [on](/post/on/) [all](/post/all/) sales."
-- 动词: "[The](/post/the/) [museum](/post/museum/) commissioned [a](/post/a/) [famous](/post/famous/) sculptor [to](/post/to/) [create](/post/create/) [a](/post/a/) [statue](/post/statue/) [for](/post/for/) [its](/post/its/) [garden](/post/garden/)."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) pays [a](/zh/post/a/) 10% [commission](/zh/post/commission/) [on](/zh/post/on/) [all](/zh/post/all/) sales."
+- 动词: "[The](/zh/post/the/) [museum](/zh/post/museum/) commissioned [a](/zh/post/a/) [famous](/zh/post/famous/) sculptor [to](/zh/post/to/) [create](/zh/post/create/) [a](/zh/post/a/) [statue](/zh/post/statue/) [for](/zh/post/for/) [its](/zh/post/its/) [garden](/zh/post/garden/)."
 
 ## 同义词
-- [Appointment](/post/appointment/)
+- [Appointment](/zh/post/appointment/)
 - Engagement
 - Authorization
 - Instruct
-- [Task](/post/task/)
+- [Task](/zh/post/task/)

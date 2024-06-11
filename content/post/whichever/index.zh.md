@@ -11,19 +11,19 @@ keywords = ['ai words', 'whichever']
 /ˌhwɪtsəˈevər/
 
 ## 释义
-- **代词**: 无论哪个；无论哪一个；任何（用于选择疑问句或条件从句中）。例如: "[Choose](/post/choose/) [whichever](/post/whichever/) [book](/post/book/) [you](/post/you/) [like](/post/like/)." 或 "[You](/post/you/) [can](/post/can/) [have](/post/have/) [whichever](/post/whichever/) [one](/post/one/) [you](/post/you/) [prefer](/post/prefer/)."
-- **连词**: 表示“无论是…还是…”。例如: "[Whichever](/post/whichever/) [way](/post/way/) [you](/post/you/) [turn](/post/turn/), you'll [see](/post/see/) [a](/post/a/) [beautiful](/post/beautiful/) [view](/post/view/)."
+- **代词**: 无论哪个；无论哪一个；任何（用于选择疑问句或条件从句中）。例如: "[Choose](/zh/post/choose/) [whichever](/zh/post/whichever/) [book](/zh/post/book/) [you](/zh/post/you/) [like](/zh/post/like/)." 或 "[You](/zh/post/you/) [can](/zh/post/can/) [have](/zh/post/have/) [whichever](/zh/post/whichever/) [one](/zh/post/one/) [you](/zh/post/you/) [prefer](/zh/post/prefer/)."
+- **连词**: 表示“无论是…还是…”。例如: "[Whichever](/zh/post/whichever/) [way](/zh/post/way/) [you](/zh/post/you/) [turn](/zh/post/turn/), you'll [see](/zh/post/see/) [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [view](/zh/post/view/)."
 
 ## 短语
-- "[Whichever](/post/whichever/) comes [first](/post/first/)" 意为“先发生的那个”。
-- "[Whichever](/post/whichever/) [way](/post/way/)" 指的是“无论向哪边，不管怎样”。
+- "[Whichever](/zh/post/whichever/) comes [first](/zh/post/first/)" 意为“先发生的那个”。
+- "[Whichever](/zh/post/whichever/) [way](/zh/post/way/)" 指的是“无论向哪边，不管怎样”。
 
 ## 例句
-- 代词: "[Take](/post/take/) [whichever](/post/whichever/) [chair](/post/chair/) is [more](/post/more/) [comfortable](/post/comfortable/)."
-- 连词: "[Whichever](/post/whichever/) [team](/post/team/) wins, we'll [be](/post/be/) [happy](/post/happy/) [for](/post/for/) [them](/post/them/)."
+- 代词: "[Take](/zh/post/take/) [whichever](/zh/post/whichever/) [chair](/zh/post/chair/) is [more](/zh/post/more/) [comfortable](/zh/post/comfortable/)."
+- 连词: "[Whichever](/zh/post/whichever/) [team](/zh/post/team/) wins, we'll [be](/zh/post/be/) [happy](/zh/post/happy/) [for](/zh/post/for/) [them](/zh/post/them/)."
 
 ## 同义词
-- [Whatever](/post/whatever/)
-- [Any](/post/any/)
-- [No](/post/no/) [matter](/post/matter/) [which](/post/which/)
+- [Whatever](/zh/post/whatever/)
+- [Any](/zh/post/any/)
+- [No](/zh/post/no/) [matter](/zh/post/matter/) [which](/zh/post/which/)
 - Whomever

@@ -7,39 +7,39 @@ description = '[prəˈpəuzəl] n.提议，建议；求婚'
 keywords = ['ai words', 'proposal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈpəʊzl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [suggestion](/en/post/suggestion/) [or](/en/post/or/) [plan](/en/post/plan/) [put](/en/post/put/) [forward](/en/post/forward/) [for](/en/post/for/) [consideration](/en/post/consideration/) [or](/en/post/or/) [discussion](/en/post/discussion/): *[The](/en/post/the/) [proposal](/en/post/proposal/) was met [with](/en/post/with/) mixed reactions.*
-2. An [offer](/en/post/offer/) [or](/en/post/or/) [request](/en/post/request/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/): *[He](/en/post/he/) made [a](/en/post/a/) [proposal](/en/post/proposal/) [to](/en/post/to/) [marry](/en/post/marry/) [her](/en/post/her/).*
-3. [A](/en/post/a/) [formal](/en/post/formal/) [statement](/en/post/statement/) [or](/en/post/or/) [document](/en/post/document/) outlining [a](/en/post/a/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/): *[The](/en/post/the/) [company](/en/post/company/) received [multiple](/en/post/multiple/) proposals [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [suggestion](/post/suggestion/) [or](/post/or/) [plan](/post/plan/) [put](/post/put/) [forward](/post/forward/) [for](/post/for/) [consideration](/post/consideration/) [or](/post/or/) [discussion](/post/discussion/): *[The](/post/the/) [proposal](/post/proposal/) was met [with](/post/with/) mixed reactions.*
+2. An [offer](/post/offer/) [or](/post/or/) [request](/post/request/) [to](/post/to/) [do](/post/do/) [something](/post/something/): *[He](/post/he/) made [a](/post/a/) [proposal](/post/proposal/) [to](/post/to/) [marry](/post/marry/) [her](/post/her/).*
+3. [A](/post/a/) [formal](/post/formal/) [statement](/post/statement/) [or](/post/or/) [document](/post/document/) outlining [a](/post/a/) [course](/post/course/) [of](/post/of/) [action](/post/action/): *[The](/post/the/) [company](/post/company/) received [multiple](/post/multiple/) proposals [for](/post/for/) [the](/post/the/) [new](/post/new/) [project](/post/project/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [present](/en/post/present/) [or](/en/post/or/) [suggest](/en/post/suggest/) an [idea](/en/post/idea/) [or](/en/post/or/) [plan](/en/post/plan/): *[They](/en/post/they/) [will](/en/post/will/) [propose](/en/post/propose/) [a](/en/post/a/) [new](/en/post/new/) budget [next](/en/post/next/) [week](/en/post/week/).*
-2. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [marriage](/en/post/marriage/) [offer](/en/post/offer/): *[He](/en/post/he/) proposed [to](/en/post/to/) [his](/en/post/his/) girlfriend [during](/en/post/during/) [a](/en/post/a/) [romantic](/en/post/romantic/) [dinner](/en/post/dinner/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [present](/post/present/) [or](/post/or/) [suggest](/post/suggest/) an [idea](/post/idea/) [or](/post/or/) [plan](/post/plan/): *[They](/post/they/) [will](/post/will/) [propose](/post/propose/) [a](/post/a/) [new](/post/new/) budget [next](/post/next/) [week](/post/week/).*
+2. [To](/post/to/) [make](/post/make/) [a](/post/a/) [marriage](/post/marriage/) [offer](/post/offer/): *[He](/post/he/) proposed [to](/post/to/) [his](/post/his/) girlfriend [during](/post/during/) [a](/post/a/) [romantic](/post/romantic/) [dinner](/post/dinner/).*
 
 ## Phrases
-- "[Submit](/en/post/submit/) [a](/en/post/a/) [proposal](/en/post/proposal/)" [means](/en/post/means/) [to](/en/post/to/) [send](/en/post/send/) [or](/en/post/or/) [present](/en/post/present/) [a](/en/post/a/) [suggestion](/en/post/suggestion/) [or](/en/post/or/) [plan](/en/post/plan/).
-- "[Propose](/en/post/propose/) [a](/en/post/a/) [solution](/en/post/solution/)" suggests [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [resolve](/en/post/resolve/) [a](/en/post/a/) [problem](/en/post/problem/).
-- "[She](/en/post/she/) accepted [his](/en/post/his/) [proposal](/en/post/proposal/)" [means](/en/post/means/) [she](/en/post/she/) agreed [to](/en/post/to/) [marry](/en/post/marry/) [him](/en/post/him/).
+- "[Submit](/post/submit/) [a](/post/a/) [proposal](/post/proposal/)" [means](/post/means/) [to](/post/to/) [send](/post/send/) [or](/post/or/) [present](/post/present/) [a](/post/a/) [suggestion](/post/suggestion/) [or](/post/or/) [plan](/post/plan/).
+- "[Propose](/post/propose/) [a](/post/a/) [solution](/post/solution/)" suggests [a](/post/a/) [way](/post/way/) [to](/post/to/) [resolve](/post/resolve/) [a](/post/a/) [problem](/post/problem/).
+- "[She](/post/she/) accepted [his](/post/his/) [proposal](/post/proposal/)" [means](/post/means/) [she](/post/she/) agreed [to](/post/to/) [marry](/post/marry/) [him](/post/him/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [board](/en/post/board/) members reviewed [several](/en/post/several/) proposals [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [building](/en/post/building/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) carefully prepared [a](/en/post/a/) [proposal](/en/post/proposal/) [to](/en/post/to/) [expand](/en/post/expand/) [the](/en/post/the/) marketing [team](/en/post/team/)."
-- **[Verb](/en/post/verb/) (intransitive)**: "[After](/en/post/after/) months [of](/en/post/of/) dating, [he](/en/post/he/) [finally](/en/post/finally/) proposed [to](/en/post/to/) [her](/en/post/her/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [board](/post/board/) members reviewed [several](/post/several/) proposals [for](/post/for/) [the](/post/the/) [new](/post/new/) [building](/post/building/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) carefully prepared [a](/post/a/) [proposal](/post/proposal/) [to](/post/to/) [expand](/post/expand/) [the](/post/the/) marketing [team](/post/team/)."
+- **[Verb](/post/verb/) (intransitive)**: "[After](/post/after/) months [of](/post/of/) dating, [he](/post/he/) [finally](/post/finally/) proposed [to](/post/to/) [her](/post/her/)."
 
 ## Synonyms
-- [Suggestion](/en/post/suggestion/)
-- [Plan](/en/post/plan/)
-- [Idea](/en/post/idea/)
-- [Recommendation](/en/post/recommendation/)
-- [Intention](/en/post/intention/)
-- [Offer](/en/post/offer/)
-- [Request](/en/post/request/)
-- [Proposal](/en/post/proposal/) [draft](/en/post/draft/)
-- [Application](/en/post/application/)
+- [Suggestion](/post/suggestion/)
+- [Plan](/post/plan/)
+- [Idea](/post/idea/)
+- [Recommendation](/post/recommendation/)
+- [Intention](/post/intention/)
+- [Offer](/post/offer/)
+- [Request](/post/request/)
+- [Proposal](/post/proposal/) [draft](/post/draft/)
+- [Application](/post/application/)
 
 ## Antonyms
 - Rejection

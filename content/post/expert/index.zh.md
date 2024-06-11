@@ -11,20 +11,20 @@ keywords = ['ai words', 'expert']
 /ˈekspɜːrt/
 
 ## 释义
-- **名词**: 有特殊技能或知识的人；专家。例如: "[She](/post/she/) is an [expert](/post/expert/) [in](/post/in/) [her](/post/her/) [field](/post/field/) [of](/post/of/) archaeology."
-- **形容词**: 熟练的，精通的。例如: "[He](/post/he/) demonstrated [expert](/post/expert/) cooking skills."
+- **名词**: 有特殊技能或知识的人；专家。例如: "[She](/zh/post/she/) is an [expert](/zh/post/expert/) [in](/zh/post/in/) [her](/zh/post/her/) [field](/zh/post/field/) [of](/zh/post/of/) archaeology."
+- **形容词**: 熟练的，精通的。例如: "[He](/zh/post/he/) demonstrated [expert](/zh/post/expert/) cooking skills."
 
 ## 短语
-- "[Expert](/post/expert/) [advice](/post/advice/)" 意为专业的建议。
-- "[Expert](/post/expert/) [knowledge](/post/knowledge/)" 指在某一领域的专业知识。
+- "[Expert](/zh/post/expert/) [advice](/zh/post/advice/)" 意为专业的建议。
+- "[Expert](/zh/post/expert/) [knowledge](/zh/post/knowledge/)" 指在某一领域的专业知识。
 
 ## 例句
-- 名词: "[We](/post/we/) hired an [expert](/post/expert/) [to](/post/to/) analyze [the](/post/the/) [data](/post/data/)."
-- 形容词: "[The](/post/the/) [athlete](/post/athlete/) performed [with](/post/with/) [expert](/post/expert/) [precision](/post/precision/)."
+- 名词: "[We](/zh/post/we/) hired an [expert](/zh/post/expert/) [to](/zh/post/to/) analyze [the](/zh/post/the/) [data](/zh/post/data/)."
+- 形容词: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) performed [with](/zh/post/with/) [expert](/zh/post/expert/) [precision](/zh/post/precision/)."
 
 ## 同义词
-- [Specialist](/post/specialist/)
-- [Master](/post/master/)
+- [Specialist](/zh/post/specialist/)
+- [Master](/zh/post/master/)
 - Pro
-- [Authority](/post/authority/)
+- [Authority](/zh/post/authority/)
 - Connoisseur

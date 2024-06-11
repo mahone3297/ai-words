@@ -7,44 +7,44 @@ description = '[ræt] n.老鼠，耗子'
 keywords = ['ai words', 'rat']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ræt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [small](/en/post/small/), typically [brown](/en/post/brown/) [or](/en/post/or/) [gray](/en/post/gray/) rodent [with](/en/post/with/) [a](/en/post/a/) pointed snout, [long](/en/post/long/) [tail](/en/post/tail/), [and](/en/post/and/) [sharp](/en/post/sharp/) teeth, [often](/en/post/often/) considered [a](/en/post/a/) pest.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [rat](/en/post/rat/) scurried [across](/en/post/across/) [the](/en/post/the/) [kitchen](/en/post/kitchen/) [floor](/en/post/floor/)."
-   - Synonyms: vermin, rodent, Norway [rat](/en/post/rat/), sewer [rat](/en/post/rat/)
+### [Noun](/post/noun/)
+1. [A](/post/a/) [small](/post/small/), typically [brown](/post/brown/) [or](/post/or/) [gray](/post/gray/) rodent [with](/post/with/) [a](/post/a/) pointed snout, [long](/post/long/) [tail](/post/tail/), [and](/post/and/) [sharp](/post/sharp/) teeth, [often](/post/often/) considered [a](/post/a/) pest.
+   - [Example](/post/example/): "[The](/post/the/) [rat](/post/rat/) scurried [across](/post/across/) [the](/post/the/) [kitchen](/post/kitchen/) [floor](/post/floor/)."
+   - Synonyms: vermin, rodent, Norway [rat](/post/rat/), sewer [rat](/post/rat/)
 
-2. [slang] [A](/en/post/a/) [person](/en/post/person/), [especially](/en/post/especially/) [a](/en/post/a/) [man](/en/post/man/), [who](/en/post/who/) is cowardly [or](/en/post/or/) despicable.
-   - [Example](/en/post/example/): "He's [such](/en/post/such/) [a](/en/post/a/) [rat](/en/post/rat/), [always](/en/post/always/) betraying [his](/en/post/his/) friends."
+2. [slang] [A](/post/a/) [person](/post/person/), [especially](/post/especially/) [a](/post/a/) [man](/post/man/), [who](/post/who/) is cowardly [or](/post/or/) despicable.
+   - [Example](/post/example/): "He's [such](/post/such/) [a](/post/a/) [rat](/post/rat/), [always](/post/always/) betraying [his](/post/his/) friends."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [act](/en/post/act/) [like](/en/post/like/) [a](/en/post/a/) [rat](/en/post/rat/), [betray](/en/post/betray/), [or](/en/post/or/) [be](/en/post/be/) untrustworthy.
-   - [Example](/en/post/example/): "[He](/en/post/he/) ratted [on](/en/post/on/) [his](/en/post/his/) coworker [for](/en/post/for/) taking [the](/en/post/the/) [office](/en/post/office/) supplies [without](/en/post/without/) [permission](/en/post/permission/)."
-   - Synonym: [inform](/en/post/inform/), snitch
+### [Verb](/post/verb/)
+1. [To](/post/to/) [act](/post/act/) [like](/post/like/) [a](/post/a/) [rat](/post/rat/), [betray](/post/betray/), [or](/post/or/) [be](/post/be/) untrustworthy.
+   - [Example](/post/example/): "[He](/post/he/) ratted [on](/post/on/) [his](/post/his/) coworker [for](/post/for/) taking [the](/post/the/) [office](/post/office/) supplies [without](/post/without/) [permission](/post/permission/)."
+   - Synonym: [inform](/post/inform/), snitch
 
-2. [To](/en/post/to/) [escape](/en/post/escape/) [or](/en/post/or/) flee [quickly](/en/post/quickly/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) panic.
-   - [Example](/en/post/example/): "[The](/en/post/the/) rats fled [the](/en/post/the/) burning [building](/en/post/building/)."
+2. [To](/post/to/) [escape](/post/escape/) [or](/post/or/) flee [quickly](/post/quickly/), [often](/post/often/) [in](/post/in/) [a](/post/a/) panic.
+   - [Example](/post/example/): "[The](/post/the/) rats fled [the](/post/the/) burning [building](/post/building/)."
 
-### [Adjective](/en/post/adjective/)
-1. Deceitful [or](/en/post/or/) treacherous.
-   - [Example](/en/post/example/): "[A](/en/post/a/) [rat](/en/post/rat/) [deal](/en/post/deal/) won't [last](/en/post/last/) [long](/en/post/long/)."
+### [Adjective](/post/adjective/)
+1. Deceitful [or](/post/or/) treacherous.
+   - [Example](/post/example/): "[A](/post/a/) [rat](/post/rat/) [deal](/post/deal/) won't [last](/post/last/) [long](/post/long/)."
 
-2. Diseased [or](/en/post/or/) contaminated.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [food](/en/post/food/) was tainted [with](/en/post/with/) [rat](/en/post/rat/) [poison](/en/post/poison/)."
+2. Diseased [or](/post/or/) contaminated.
+   - [Example](/post/example/): "[The](/post/the/) [food](/post/food/) was tainted [with](/post/with/) [rat](/post/rat/) [poison](/post/poison/)."
 
 ## Phrases
-- "[Rat](/en/post/rat/) [race](/en/post/race/)" refers [to](/en/post/to/) [a](/en/post/a/) stressful, competitive lifestyle.
-- "[Get](/en/post/get/) [rid](/en/post/rid/) [of](/en/post/of/) [the](/en/post/the/) [rat](/en/post/rat/) infestation" [means](/en/post/means/) [to](/en/post/to/) [eliminate](/en/post/eliminate/) [a](/en/post/a/) [population](/en/post/population/) [of](/en/post/of/) rats.
-- "Rat-a-tat-tat" is [a](/en/post/a/) [sound](/en/post/sound/) imitating [rapid](/en/post/rapid/) gunfire [or](/en/post/or/) [machine](/en/post/machine/) [gun](/en/post/gun/) [fire](/en/post/fire/).
+- "[Rat](/post/rat/) [race](/post/race/)" refers [to](/post/to/) [a](/post/a/) stressful, competitive lifestyle.
+- "[Get](/post/get/) [rid](/post/rid/) [of](/post/of/) [the](/post/the/) [rat](/post/rat/) infestation" [means](/post/means/) [to](/post/to/) [eliminate](/post/eliminate/) [a](/post/a/) [population](/post/population/) [of](/post/of/) rats.
+- "Rat-a-tat-tat" is [a](/post/a/) [sound](/post/sound/) imitating [rapid](/post/rapid/) gunfire [or](/post/or/) [machine](/post/machine/) [gun](/post/gun/) [fire](/post/fire/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) exterminator was called [to](/en/post/to/) [remove](/en/post/remove/) [the](/en/post/the/) [rat](/en/post/rat/) [nest](/en/post/nest/) [from](/en/post/from/) [the](/en/post/the/) basement."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) ratted [out](/en/post/out/) [his](/en/post/his/) [partner](/en/post/partner/) [to](/en/post/to/) [the](/en/post/the/) [police](/en/post/police/), hoping [to](/en/post/to/) [get](/en/post/get/) [a](/en/post/a/) reduced [sentence](/en/post/sentence/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [damp](/en/post/damp/) conditions [in](/en/post/in/) [the](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) attracted rats."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) exterminator was called [to](/post/to/) [remove](/post/remove/) [the](/post/the/) [rat](/post/rat/) [nest](/post/nest/) [from](/post/from/) [the](/post/the/) basement."
+- **[Verb](/post/verb/)**: "[He](/post/he/) ratted [out](/post/out/) [his](/post/his/) [partner](/post/partner/) [to](/post/to/) [the](/post/the/) [police](/post/police/), hoping [to](/post/to/) [get](/post/get/) [a](/post/a/) reduced [sentence](/post/sentence/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [damp](/post/damp/) conditions [in](/post/in/) [the](/post/the/) [old](/post/old/) [house](/post/house/) attracted rats."
 
-## Synonyms ([adjective](/en/post/adjective/))
+## Synonyms ([adjective](/post/adjective/))
 - Unreliable
 - Underhanded
 - Disloyal

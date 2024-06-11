@@ -11,20 +11,20 @@ keywords = ['ai words', 'cucumber']
 /ˈkjuːkʌmbər/
 
 ## 释义
-- **名词**: 一种长形的绿色蔬菜，属于葫芦科，通常生吃或在烹饪中使用。例如: "I [love](/post/love/) adding cucumbers [to](/post/to/) [my](/post/my/) salads [for](/post/for/) [a](/post/a/) refreshing crunch."
-- **名词 (俚语)**: 有时用来形容一个人很冷静或无动于衷，特别是在面对压力时。例如: "[He](/post/he/) remained [as](/post/as/) [cool](/post/cool/) [as](/post/as/) [a](/post/a/) [cucumber](/post/cucumber/) [under](/post/under/) [pressure](/post/pressure/)."
+- **名词**: 一种长形的绿色蔬菜，属于葫芦科，通常生吃或在烹饪中使用。例如: "I [love](/zh/post/love/) adding cucumbers [to](/zh/post/to/) [my](/zh/post/my/) salads [for](/zh/post/for/) [a](/zh/post/a/) refreshing crunch."
+- **名词 (俚语)**: 有时用来形容一个人很冷静或无动于衷，特别是在面对压力时。例如: "[He](/zh/post/he/) remained [as](/zh/post/as/) [cool](/zh/post/cool/) [as](/zh/post/as/) [a](/zh/post/a/) [cucumber](/zh/post/cucumber/) [under](/zh/post/under/) [pressure](/zh/post/pressure/)."
 
 ## 短语
-- "Pickled [cucumber](/post/cucumber/)" 指的是腌制过的黄瓜，如泡菜。
-- "[Cucumber](/post/cucumber/) [salad](/post/salad/)" 是一道常见的冷盘菜品。
+- "Pickled [cucumber](/zh/post/cucumber/)" 指的是腌制过的黄瓜，如泡菜。
+- "[Cucumber](/zh/post/cucumber/) [salad](/zh/post/salad/)" 是一道常见的冷盘菜品。
 
 ## 例句
-- 名词: "[The](/post/the/) [sandwich](/post/sandwich/) had [thin](/post/thin/) slices [of](/post/of/) [cucumber](/post/cucumber/) [and](/post/and/) [fresh](/post/fresh/) lettuce."
-- 俚语: "[Despite](/post/despite/) [the](/post/the/) [crisis](/post/crisis/), [she](/post/she/) remained [as](/post/as/) [cool](/post/cool/) [as](/post/as/) [a](/post/a/) [cucumber](/post/cucumber/) [and](/post/and/) handled [it](/post/it/) [perfectly](/post/perfectly/)."
+- 名词: "[The](/zh/post/the/) [sandwich](/zh/post/sandwich/) had [thin](/zh/post/thin/) slices [of](/zh/post/of/) [cucumber](/zh/post/cucumber/) [and](/zh/post/and/) [fresh](/zh/post/fresh/) lettuce."
+- 俚语: "[Despite](/zh/post/despite/) [the](/zh/post/the/) [crisis](/zh/post/crisis/), [she](/zh/post/she/) remained [as](/zh/post/as/) [cool](/zh/post/cool/) [as](/zh/post/as/) [a](/zh/post/a/) [cucumber](/zh/post/cucumber/) [and](/zh/post/and/) handled [it](/zh/post/it/) [perfectly](/zh/post/perfectly/)."
 
 ## 同义词
 - Squash
 - Zucchini
 - Courgette
-- [Melon](/post/melon/) (在某些语境下)
+- [Melon](/zh/post/melon/) (在某些语境下)
 - Gherkin (小黄瓜)

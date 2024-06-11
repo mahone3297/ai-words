@@ -11,20 +11,20 @@ keywords = ['ai words', 'paragraph']
 /ˈpærəɡrɑːf/
 
 ## 释义
-- **名词**: 一段文章或写作中的一个自然段落，通常围绕一个主题展开，由一个或多个句子组成。例如: "[The](/post/the/) [first](/post/first/) [paragraph](/post/paragraph/) introduces [the](/post/the/) [main](/post/main/) [idea](/post/idea/) [of](/post/of/) [the](/post/the/) [essay](/post/essay/)."
-- **动词**: 将文字分为段落。例如: "[She](/post/she/) carefully paragraphed [her](/post/her/) [essay](/post/essay/) [for](/post/for/) [better](/post/better/) readability."
+- **名词**: 一段文章或写作中的一个自然段落，通常围绕一个主题展开，由一个或多个句子组成。例如: "[The](/zh/post/the/) [first](/zh/post/first/) [paragraph](/zh/post/paragraph/) introduces [the](/zh/post/the/) [main](/zh/post/main/) [idea](/zh/post/idea/) [of](/zh/post/of/) [the](/zh/post/the/) [essay](/zh/post/essay/)."
+- **动词**: 将文字分为段落。例如: "[She](/zh/post/she/) carefully paragraphed [her](/zh/post/her/) [essay](/zh/post/essay/) [for](/zh/post/for/) [better](/zh/post/better/) readability."
 
 ## 短语
-- "[A](/post/a/) [new](/post/new/) [paragraph](/post/paragraph/)" 指开始一个新的思想或话题的段落。
-- "Indent [the](/post/the/) [first](/post/first/) [line](/post/line/) [of](/post/of/) [each](/post/each/) [paragraph](/post/paragraph/)" 意味着在每个段落的第一行缩进以区分。
+- "[A](/zh/post/a/) [new](/zh/post/new/) [paragraph](/zh/post/paragraph/)" 指开始一个新的思想或话题的段落。
+- "Indent [the](/zh/post/the/) [first](/zh/post/first/) [line](/zh/post/line/) [of](/zh/post/of/) [each](/zh/post/each/) [paragraph](/zh/post/paragraph/)" 意味着在每个段落的第一行缩进以区分。
 
 ## 例句
-- 名词: "[In](/post/in/) [the](/post/the/) [letter](/post/letter/), [there](/post/there/) were [three](/post/three/) well-structured paragraphs discussing [different](/post/different/) aspects [of](/post/of/) [the](/post/the/) [topic](/post/topic/)."
-- 动词: "[Please](/post/please/) [paragraph](/post/paragraph/) [your](/post/your/) [text](/post/text/) [to](/post/to/) [make](/post/make/) [it](/post/it/) [more](/post/more/) organized."
+- 名词: "[In](/zh/post/in/) [the](/zh/post/the/) [letter](/zh/post/letter/), [there](/zh/post/there/) were [three](/zh/post/three/) well-structured paragraphs discussing [different](/zh/post/different/) aspects [of](/zh/post/of/) [the](/zh/post/the/) [topic](/zh/post/topic/)."
+- 动词: "[Please](/zh/post/please/) [paragraph](/zh/post/paragraph/) [your](/zh/post/your/) [text](/zh/post/text/) [to](/zh/post/to/) [make](/zh/post/make/) [it](/zh/post/it/) [more](/zh/post/more/) organized."
 
 ## 同义词
-- [Section](/post/section/)
-- [Part](/post/part/)
+- [Section](/zh/post/section/)
+- [Part](/zh/post/part/)
 - Segment
-- [Division](/post/division/)
+- [Division](/zh/post/division/)
 - Clause (在某些语境下)

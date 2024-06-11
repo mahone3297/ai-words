@@ -7,33 +7,33 @@ description = '[inˈdifərənt] a.冷漠的；不积极的'
 keywords = ['ai words', 'indifferent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈdɪfrənt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) caring [or](/en/post/or/) concerned; showing [no](/en/post/no/) [interest](/en/post/interest/) [or](/en/post/or/) bias; impartial. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [indifferent](/en/post/indifferent/) [to](/en/post/to/) [the](/en/post/the/) opinions [of](/en/post/of/) others [about](/en/post/about/) [her](/en/post/her/) [fashion](/en/post/fashion/) [sense](/en/post/sense/)."
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) caring [or](/post/or/) concerned; showing [no](/post/no/) [interest](/post/interest/) [or](/post/or/) bias; impartial. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [indifferent](/post/indifferent/) [to](/post/to/) [the](/post/the/) opinions [of](/post/of/) others [about](/post/about/) [her](/post/her/) [fashion](/post/fashion/) [sense](/post/sense/)."
 
-  > [Sentence](/en/post/sentence/): "[He](/en/post/he/) maintained an [indifferent](/en/post/indifferent/) [attitude](/en/post/attitude/) towards [the](/en/post/the/) [outcome](/en/post/outcome/) [of](/en/post/of/) [the](/en/post/the/) [election](/en/post/election/)."
+  > [Sentence](/post/sentence/): "[He](/post/he/) maintained an [indifferent](/post/indifferent/) [attitude](/post/attitude/) towards [the](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [the](/post/the/) [election](/post/election/)."
   
-- **[Noun](/en/post/noun/) ([less](/en/post/less/) [common](/en/post/common/) [usage](/en/post/usage/))**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) shows [no](/en/post/no/) [preference](/en/post/preference/) [or](/en/post/or/) bias; [someone](/en/post/someone/) [who](/en/post/who/) is impartial. [Example](/en/post/example/): "[In](/en/post/in/) [this](/en/post/this/) [dispute](/en/post/dispute/), [he](/en/post/he/) was an [indifferent](/en/post/indifferent/), [not](/en/post/not/) taking sides [with](/en/post/with/) [either](/en/post/either/) [party](/en/post/party/)."
+- **[Noun](/post/noun/) ([less](/post/less/) [common](/post/common/) [usage](/post/usage/))**: [A](/post/a/) [person](/post/person/) [who](/post/who/) shows [no](/post/no/) [preference](/post/preference/) [or](/post/or/) bias; [someone](/post/someone/) [who](/post/who/) is impartial. [Example](/post/example/): "[In](/post/in/) [this](/post/this/) [dispute](/post/dispute/), [he](/post/he/) was an [indifferent](/post/indifferent/), [not](/post/not/) taking sides [with](/post/with/) [either](/post/either/) [party](/post/party/)."
 
-  > [Sentence](/en/post/sentence/): "[Both](/en/post/both/) teams viewed [him](/en/post/him/) [as](/en/post/as/) an [indifferent](/en/post/indifferent/) [because](/en/post/because/) [of](/en/post/of/) [his](/en/post/his/) balanced [perspective](/en/post/perspective/)."
+  > [Sentence](/post/sentence/): "[Both](/post/both/) teams viewed [him](/post/him/) [as](/post/as/) an [indifferent](/post/indifferent/) [because](/post/because/) [of](/post/of/) [his](/post/his/) balanced [perspective](/post/perspective/)."
 
 ## Phrases
-- "[To](/en/post/to/) [be](/en/post/be/) [indifferent](/en/post/indifferent/) [to](/en/post/to/) [something](/en/post/something/)": [This](/en/post/this/) [means](/en/post/means/) [to](/en/post/to/) [show](/en/post/show/) [no](/en/post/no/) [particular](/en/post/particular/) [interest](/en/post/interest/), [concern](/en/post/concern/), [or](/en/post/or/) [preference](/en/post/preference/) [for](/en/post/for/) [something](/en/post/something/). [Example](/en/post/example/): "She's [indifferent](/en/post/indifferent/) [to](/en/post/to/) [what](/en/post/what/) others [think](/en/post/think/) [of](/en/post/of/) [her](/en/post/her/) [music](/en/post/music/) [taste](/en/post/taste/)."
+- "[To](/post/to/) [be](/post/be/) [indifferent](/post/indifferent/) [to](/post/to/) [something](/post/something/)": [This](/post/this/) [means](/post/means/) [to](/post/to/) [show](/post/show/) [no](/post/no/) [particular](/post/particular/) [interest](/post/interest/), [concern](/post/concern/), [or](/post/or/) [preference](/post/preference/) [for](/post/for/) [something](/post/something/). [Example](/post/example/): "She's [indifferent](/post/indifferent/) [to](/post/to/) [what](/post/what/) others [think](/post/think/) [of](/post/of/) [her](/post/her/) [music](/post/music/) [taste](/post/taste/)."
   
-- "[Indifferent](/en/post/indifferent/) [to](/en/post/to/) [the](/en/post/the/) suffering": Describing [someone](/en/post/someone/) [who](/en/post/who/) does [not](/en/post/not/) [care](/en/post/care/) [about](/en/post/about/) [the](/en/post/the/) [pain](/en/post/pain/) [or](/en/post/or/) difficulties others are experiencing. [Example](/en/post/example/): "It's heartbreaking [how](/en/post/how/) [many](/en/post/many/) [people](/en/post/people/) [remain](/en/post/remain/) [indifferent](/en/post/indifferent/) [to](/en/post/to/) [the](/en/post/the/) suffering [of](/en/post/of/) [the](/en/post/the/) homeless."
+- "[Indifferent](/post/indifferent/) [to](/post/to/) [the](/post/the/) suffering": Describing [someone](/post/someone/) [who](/post/who/) does [not](/post/not/) [care](/post/care/) [about](/post/about/) [the](/post/the/) [pain](/post/pain/) [or](/post/or/) difficulties others are experiencing. [Example](/post/example/): "It's heartbreaking [how](/post/how/) [many](/post/many/) [people](/post/people/) [remain](/post/remain/) [indifferent](/post/indifferent/) [to](/post/to/) [the](/post/the/) suffering [of](/post/of/) [the](/post/the/) homeless."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [indifferent](/en/post/indifferent/) [response](/en/post/response/) [to](/en/post/to/) [our](/en/post/our/) suggestions indicated [that](/en/post/that/) [she](/en/post/she/) wasn't invested [in](/en/post/in/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) [the](/en/post/the/) [debate](/en/post/debate/) [club](/en/post/club/), [he](/en/post/he/) stood [out](/en/post/out/) [as](/en/post/as/) an [indifferent](/en/post/indifferent/) [who](/en/post/who/) [could](/en/post/could/) objectively [weigh](/en/post/weigh/) [both](/en/post/both/) sides [of](/en/post/of/) [the](/en/post/the/) [argument](/en/post/argument/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [indifferent](/post/indifferent/) [response](/post/response/) [to](/post/to/) [our](/post/our/) suggestions indicated [that](/post/that/) [she](/post/she/) wasn't invested [in](/post/in/) [the](/post/the/) [project](/post/project/)."
+- **[Noun](/post/noun/)**: "[In](/post/in/) [the](/post/the/) [debate](/post/debate/) [club](/post/club/), [he](/post/he/) stood [out](/post/out/) [as](/post/as/) an [indifferent](/post/indifferent/) [who](/post/who/) [could](/post/could/) objectively [weigh](/post/weigh/) [both](/post/both/) sides [of](/post/of/) [the](/post/the/) [argument](/post/argument/)."
 
 ## Synonyms
 - Unconcerned
 - Apathetic
 - Disinterested
 - Nonchalant
-- Indifferentist ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [form](/en/post/form/))
+- Indifferentist ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [form](/post/form/))
 - Impartial
-- [Neutral](/en/post/neutral/)
+- [Neutral](/post/neutral/)
 - Unbiased

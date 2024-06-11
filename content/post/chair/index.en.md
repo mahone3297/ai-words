@@ -7,47 +7,47 @@ description = '[t∫eə] n.椅子；主席'
 keywords = ['ai words', 'chair']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃɛə(r)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [furniture](/en/post/furniture/) [with](/en/post/with/) legs, typically having [a](/en/post/a/) [seat](/en/post/seat/) [for](/en/post/for/) [one](/en/post/one/) [person](/en/post/person/), [used](/en/post/used/) [for](/en/post/for/) sitting, [especially](/en/post/especially/) [at](/en/post/at/) [a](/en/post/a/) [desk](/en/post/desk/) [or](/en/post/or/) [table](/en/post/table/).
-- [A](/en/post/a/) [person](/en/post/person/) occupying [a](/en/post/a/) [position](/en/post/position/) [of](/en/post/of/) [authority](/en/post/authority/) [or](/en/post/or/) [responsibility](/en/post/responsibility/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [meeting](/en/post/meeting/) [or](/en/post/or/) [organization](/en/post/organization/).
-- [A](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) chairperson [or](/en/post/or/) holder [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [office](/en/post/office/).
-- (informal) An occupant [of](/en/post/of/) [a](/en/post/a/) [seat](/en/post/seat/), [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) theater [or](/en/post/or/) [classroom](/en/post/classroom/).
+### [Noun](/post/noun/)
+- [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [furniture](/post/furniture/) [with](/post/with/) legs, typically having [a](/post/a/) [seat](/post/seat/) [for](/post/for/) [one](/post/one/) [person](/post/person/), [used](/post/used/) [for](/post/for/) sitting, [especially](/post/especially/) [at](/post/at/) [a](/post/a/) [desk](/post/desk/) [or](/post/or/) [table](/post/table/).
+- [A](/post/a/) [person](/post/person/) occupying [a](/post/a/) [position](/post/position/) [of](/post/of/) [authority](/post/authority/) [or](/post/or/) [responsibility](/post/responsibility/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [meeting](/post/meeting/) [or](/post/or/) [organization](/post/organization/).
+- [A](/post/a/) [term](/post/term/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) chairperson [or](/post/or/) holder [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [office](/post/office/).
+- (informal) An occupant [of](/post/of/) [a](/post/a/) [seat](/post/seat/), [as](/post/as/) [in](/post/in/) [a](/post/a/) theater [or](/post/or/) [classroom](/post/classroom/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [sit](/en/post/sit/) [down](/en/post/down/) [on](/en/post/on/) [a](/en/post/a/) [chair](/en/post/chair/).
-- [To](/en/post/to/) [assume](/en/post/assume/) [a](/en/post/a/) [position](/en/post/position/) [of](/en/post/of/) [leadership](/en/post/leadership/) [or](/en/post/or/) [responsibility](/en/post/responsibility/) [in](/en/post/in/) [a](/en/post/a/) [meeting](/en/post/meeting/) [or](/en/post/or/) [discussion](/en/post/discussion/).
-- [To](/en/post/to/) [occupy](/en/post/occupy/) [a](/en/post/a/) [seat](/en/post/seat/) [or](/en/post/or/) [chair](/en/post/chair/), [as](/en/post/as/) [in](/en/post/in/) an [event](/en/post/event/) [or](/en/post/or/) [public](/en/post/public/) gathering.
+### [Verb](/post/verb/)
+- [To](/post/to/) [sit](/post/sit/) [down](/post/down/) [on](/post/on/) [a](/post/a/) [chair](/post/chair/).
+- [To](/post/to/) [assume](/post/assume/) [a](/post/a/) [position](/post/position/) [of](/post/of/) [leadership](/post/leadership/) [or](/post/or/) [responsibility](/post/responsibility/) [in](/post/in/) [a](/post/a/) [meeting](/post/meeting/) [or](/post/or/) [discussion](/post/discussion/).
+- [To](/post/to/) [occupy](/post/occupy/) [a](/post/a/) [seat](/post/seat/) [or](/post/or/) [chair](/post/chair/), [as](/post/as/) [in](/post/in/) an [event](/post/event/) [or](/post/or/) [public](/post/public/) gathering.
 
-### [Adjective](/en/post/adjective/)
-- Characterizing [or](/en/post/or/) related [to](/en/post/to/) [a](/en/post/a/) [chair](/en/post/chair/), [as](/en/post/as/) [in](/en/post/in/) "[chair](/en/post/chair/) [design](/en/post/design/)" [or](/en/post/or/) "[chair](/en/post/chair/) [material](/en/post/material/)."
+### [Adjective](/post/adjective/)
+- Characterizing [or](/post/or/) related [to](/post/to/) [a](/post/a/) [chair](/post/chair/), [as](/post/as/) [in](/post/in/) "[chair](/post/chair/) [design](/post/design/)" [or](/post/or/) "[chair](/post/chair/) [material](/post/material/)."
 
-### [Adverb](/en/post/adverb/)
-- (informal) [In](/en/post/in/) [a](/en/post/a/) chair-like [manner](/en/post/manner/), typically [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) relaxed [or](/en/post/or/) seated posture.
+### [Adverb](/post/adverb/)
+- (informal) [In](/post/in/) [a](/post/a/) chair-like [manner](/post/manner/), typically [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) relaxed [or](/post/or/) seated posture.
 
 ## Phrases
-- "[Sit](/en/post/sit/) [in](/en/post/in/) [the](/en/post/the/) [chair](/en/post/chair/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [seat](/en/post/seat/).
-- "[Take](/en/post/take/) [the](/en/post/the/) [chair](/en/post/chair/)" refers [to](/en/post/to/) assuming [the](/en/post/the/) [position](/en/post/position/) [of](/en/post/of/) [leadership](/en/post/leadership/) [or](/en/post/or/) presiding [over](/en/post/over/) [a](/en/post/a/) [meeting](/en/post/meeting/).
-- "[Chair](/en/post/chair/) [the](/en/post/the/) [meeting](/en/post/meeting/)" [means](/en/post/means/) [to](/en/post/to/) [lead](/en/post/lead/) [or](/en/post/or/) facilitate [a](/en/post/a/) [meeting](/en/post/meeting/).
-- "[A](/en/post/a/) [comfortable](/en/post/comfortable/) [chair](/en/post/chair/)" describes [a](/en/post/a/) [chair](/en/post/chair/) [that](/en/post/that/) is cozy [or](/en/post/or/) supportive.
+- "[Sit](/post/sit/) [in](/post/in/) [the](/post/the/) [chair](/post/chair/)" [means](/post/means/) [to](/post/to/) [take](/post/take/) [a](/post/a/) [seat](/post/seat/).
+- "[Take](/post/take/) [the](/post/the/) [chair](/post/chair/)" refers [to](/post/to/) assuming [the](/post/the/) [position](/post/position/) [of](/post/of/) [leadership](/post/leadership/) [or](/post/or/) presiding [over](/post/over/) [a](/post/a/) [meeting](/post/meeting/).
+- "[Chair](/post/chair/) [the](/post/the/) [meeting](/post/meeting/)" [means](/post/means/) [to](/post/to/) [lead](/post/lead/) [or](/post/or/) facilitate [a](/post/a/) [meeting](/post/meeting/).
+- "[A](/post/a/) [comfortable](/post/comfortable/) [chair](/post/chair/)" describes [a](/post/a/) [chair](/post/chair/) [that](/post/that/) is cozy [or](/post/or/) supportive.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [professor](/en/post/professor/) stood [up](/en/post/up/) [from](/en/post/from/) [his](/en/post/his/) [chair](/en/post/chair/) [to](/en/post/to/) [address](/en/post/address/) [the](/en/post/the/) [class](/en/post/class/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [will](/en/post/will/) [chair](/en/post/chair/) [the](/en/post/the/) [board](/en/post/board/) [meeting](/en/post/meeting/) [next](/en/post/next/) [week](/en/post/week/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [leather](/en/post/leather/) armchair was [a](/en/post/a/) centerpiece [in](/en/post/in/) [the](/en/post/the/) [living](/en/post/living/) [room](/en/post/room/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) slumped [back](/en/post/back/) [in](/en/post/in/) [his](/en/post/his/) [chair](/en/post/chair/), exhausted [from](/en/post/from/) [the](/en/post/the/) day's [work](/en/post/work/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [professor](/post/professor/) stood [up](/post/up/) [from](/post/from/) [his](/post/his/) [chair](/post/chair/) [to](/post/to/) [address](/post/address/) [the](/post/the/) [class](/post/class/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) [will](/post/will/) [chair](/post/chair/) [the](/post/the/) [board](/post/board/) [meeting](/post/meeting/) [next](/post/next/) [week](/post/week/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [leather](/post/leather/) armchair was [a](/post/a/) centerpiece [in](/post/in/) [the](/post/the/) [living](/post/living/) [room](/post/room/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) slumped [back](/post/back/) [in](/post/in/) [his](/post/his/) [chair](/post/chair/), exhausted [from](/post/from/) [the](/post/the/) day's [work](/post/work/)."
 
 ## Synonyms
-- [Seat](/en/post/seat/)
-- [Throne](/en/post/throne/)
-- [Bench](/en/post/bench/)
-- [Stool](/en/post/stool/)
+- [Seat](/post/seat/)
+- [Throne](/post/throne/)
+- [Bench](/post/bench/)
+- [Stool](/post/stool/)
 - Recliner
 - Preside
-- [Lead](/en/post/lead/)
-- [Direct](/en/post/direct/)
-- [Guide](/en/post/guide/)
-- [Conduct](/en/post/conduct/)
+- [Lead](/post/lead/)
+- [Direct](/post/direct/)
+- [Guide](/post/guide/)
+- [Conduct](/post/conduct/)

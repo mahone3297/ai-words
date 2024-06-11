@@ -7,34 +7,34 @@ description = '[ˈseilzmən] n.售货员，推销员'
 keywords = ['ai words', 'salesman']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈleɪmən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[salesman](/en/post/salesman/)** is [a](/en/post/a/) [person](/en/post/person/) [whose](/en/post/whose/) [job](/en/post/job/) is [to](/en/post/to/) [sell](/en/post/sell/) [goods](/en/post/goods/) [or](/en/post/or/) services [to](/en/post/to/) customers, [often](/en/post/often/) visiting [their](/en/post/their/) homes [or](/en/post/or/) businesses. [They](/en/post/they/) are typically commission-based [and](/en/post/and/) [responsible](/en/post/responsible/) [for](/en/post/for/) promoting products [and](/en/post/and/) closing deals.
+### [Noun](/post/noun/)
+[A](/post/a/) **[salesman](/post/salesman/)** is [a](/post/a/) [person](/post/person/) [whose](/post/whose/) [job](/post/job/) is [to](/post/to/) [sell](/post/sell/) [goods](/post/goods/) [or](/post/or/) services [to](/post/to/) customers, [often](/post/often/) visiting [their](/post/their/) homes [or](/post/or/) businesses. [They](/post/they/) are typically commission-based [and](/post/and/) [responsible](/post/responsible/) [for](/post/for/) promoting products [and](/post/and/) closing deals.
 
-### [Verb](/en/post/verb/) (informal)
-[To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) [a](/en/post/a/) **[salesman](/en/post/salesman/)** [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [persuade](/en/post/persuade/) [or](/en/post/or/) [convince](/en/post/convince/) [someone](/en/post/someone/) [to](/en/post/to/) [buy](/en/post/buy/) [something](/en/post/something/), [even](/en/post/even/) [if](/en/post/if/) [not](/en/post/not/) officially employed [as](/en/post/as/) [one](/en/post/one/).
+### [Verb](/post/verb/) (informal)
+[To](/post/to/) [act](/post/act/) [as](/post/as/) [a](/post/a/) **[salesman](/post/salesman/)** [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [persuade](/post/persuade/) [or](/post/or/) [convince](/post/convince/) [someone](/post/someone/) [to](/post/to/) [buy](/post/buy/) [something](/post/something/), [even](/post/even/) [if](/post/if/) [not](/post/not/) officially employed [as](/post/as/) [one](/post/one/).
 
 ## Phrases
-- "[Close](/en/post/close/) [a](/en/post/a/) [deal](/en/post/deal/) [with](/en/post/with/) [the](/en/post/the/) [salesman](/en/post/salesman/)"
-- "[Be](/en/post/be/) [a](/en/post/a/) pushy [salesman](/en/post/salesman/)"
-- "[The](/en/post/the/) salesman's [pitch](/en/post/pitch/) was [very](/en/post/very/) convincing"
+- "[Close](/post/close/) [a](/post/a/) [deal](/post/deal/) [with](/post/with/) [the](/post/the/) [salesman](/post/salesman/)"
+- "[Be](/post/be/) [a](/post/a/) pushy [salesman](/post/salesman/)"
+- "[The](/post/the/) salesman's [pitch](/post/pitch/) was [very](/post/very/) convincing"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [salesman](/en/post/salesman/) showed [us](/en/post/us/) [the](/en/post/the/) latest [model](/en/post/model/) [of](/en/post/of/) [the](/en/post/the/) [car](/en/post/car/), highlighting [its](/en/post/its/) features."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [salesman](/en/post/salesman/) [for](/en/post/for/) [his](/en/post/his/) [new](/en/post/new/) startup, [but](/en/post/but/) [no](/en/post/no/) [one](/en/post/one/) seemed interested."
-- **Informal**: "[She](/en/post/she/) acted [like](/en/post/like/) [a](/en/post/a/) [salesman](/en/post/salesman/) [when](/en/post/when/) negotiating [the](/en/post/the/) [price](/en/post/price/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [salesman](/post/salesman/) showed [us](/post/us/) [the](/post/the/) latest [model](/post/model/) [of](/post/of/) [the](/post/the/) [car](/post/car/), highlighting [its](/post/its/) features."
+- **[Verb](/post/verb/)**: "[He](/post/he/) tried [to](/post/to/) [be](/post/be/) [a](/post/a/) [salesman](/post/salesman/) [for](/post/for/) [his](/post/his/) [new](/post/new/) startup, [but](/post/but/) [no](/post/no/) [one](/post/one/) seemed interested."
+- **Informal**: "[She](/post/she/) acted [like](/post/like/) [a](/post/a/) [salesman](/post/salesman/) [when](/post/when/) negotiating [the](/post/the/) [price](/post/price/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
 
 ## Synonyms
 - Salesperson
-- Sales [representative](/en/post/representative/)
+- Sales [representative](/post/representative/)
 - Pusher
 - Closer
 - Persuader
 
 ## Antonyms
-- [Customer](/en/post/customer/)
+- [Customer](/post/customer/)
 - Buyer
-- Advocate ([in](/en/post/in/) [a](/en/post/a/) non-sales context)
+- Advocate ([in](/post/in/) [a](/post/a/) non-sales context)

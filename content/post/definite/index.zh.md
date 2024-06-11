@@ -11,20 +11,20 @@ keywords = ['ai words', 'definite']
 /ˈdɪfɪnɪt/
 
 ## 释义
-- **形容词**: 明确的；确定的；清晰的。例如: "[He](/post/he/) gave [a](/post/a/) [definite](/post/definite/) [answer](/post/answer/) [to](/post/to/) [the](/post/the/) [question](/post/question/)."
-- **副词**: 确定地；无疑地。例如: "[The](/post/the/) results were [definite](/post/definite/); [there](/post/there/) was [no](/post/no/) [room](/post/room/) [for](/post/for/) [doubt](/post/doubt/)."
+- **形容词**: 明确的；确定的；清晰的。例如: "[He](/zh/post/he/) gave [a](/zh/post/a/) [definite](/zh/post/definite/) [answer](/zh/post/answer/) [to](/zh/post/to/) [the](/zh/post/the/) [question](/zh/post/question/)."
+- **副词**: 确定地；无疑地。例如: "[The](/zh/post/the/) results were [definite](/zh/post/definite/); [there](/zh/post/there/) was [no](/zh/post/no/) [room](/zh/post/room/) [for](/zh/post/for/) [doubt](/zh/post/doubt/)."
 
 ## 短语
-- "[definite](/post/definite/) [article](/post/article/)" 指定冠词，如英语中的 "[the](/post/the/)".
-- "[definite](/post/definite/) [purpose](/post/purpose/)" 明确的目标。
+- "[definite](/zh/post/definite/) [article](/zh/post/article/)" 指定冠词，如英语中的 "[the](/zh/post/the/)".
+- "[definite](/zh/post/definite/) [purpose](/zh/post/purpose/)" 明确的目标。
 
 ## 例句
-- 形容词: "[The](/post/the/) [plan](/post/plan/) has [a](/post/a/) [definite](/post/definite/) [start](/post/start/) [and](/post/and/) [end](/post/end/) [date](/post/date/)."
-- 副词: "[She](/post/she/) [definitely](/post/definitely/) wants [to](/post/to/) [pursue](/post/pursue/) [her](/post/her/) studies [further](/post/further/)."
+- 形容词: "[The](/zh/post/the/) [plan](/zh/post/plan/) has [a](/zh/post/a/) [definite](/zh/post/definite/) [start](/zh/post/start/) [and](/zh/post/and/) [end](/zh/post/end/) [date](/zh/post/date/)."
+- 副词: "[She](/zh/post/she/) [definitely](/zh/post/definitely/) wants [to](/zh/post/to/) [pursue](/zh/post/pursue/) [her](/zh/post/her/) studies [further](/zh/post/further/)."
 
 ## 同义词
-- [Certain](/post/certain/)
-- [Clear](/post/clear/)
+- [Certain](/zh/post/certain/)
+- [Clear](/zh/post/clear/)
 - Explicit
-- [Precise](/post/precise/)
+- [Precise](/zh/post/precise/)
 - Unambiguous

@@ -7,27 +7,27 @@ description = '[ˈteligrɑːf] n.电报机；电报'
 keywords = ['ai words', 'telegraph']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /telɪˈɡræf/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. An [early](/en/post/early/) [method](/en/post/method/) [of](/en/post/of/) long-distance [communication](/en/post/communication/) using Morse [code](/en/post/code/) [or](/en/post/or/) [electrical](/en/post/electrical/) signals, [now](/en/post/now/) [mostly](/en/post/mostly/) replaced [by](/en/post/by/) telephones [and](/en/post/and/) computers. 2. [A](/en/post/a/) [system](/en/post/system/) [or](/en/post/or/) [device](/en/post/device/) [for](/en/post/for/) sending messages [over](/en/post/over/) [a](/en/post/a/) [distance](/en/post/distance/), [especially](/en/post/especially/) [one](/en/post/one/) using electromagnetic waves [or](/en/post/or/) cables. 3. (informal) [The](/en/post/the/) [news](/en/post/news/) [or](/en/post/or/) [information](/en/post/information/) transmitted [through](/en/post/through/) [such](/en/post/such/) [a](/en/post/a/) [system](/en/post/system/).
+- **[Noun](/post/noun/)**: 1. An [early](/post/early/) [method](/post/method/) [of](/post/of/) long-distance [communication](/post/communication/) using Morse [code](/post/code/) [or](/post/or/) [electrical](/post/electrical/) signals, [now](/post/now/) [mostly](/post/mostly/) replaced [by](/post/by/) telephones [and](/post/and/) computers. 2. [A](/post/a/) [system](/post/system/) [or](/post/or/) [device](/post/device/) [for](/post/for/) sending messages [over](/post/over/) [a](/post/a/) [distance](/post/distance/), [especially](/post/especially/) [one](/post/one/) using electromagnetic waves [or](/post/or/) cables. 3. (informal) [The](/post/the/) [news](/post/news/) [or](/post/or/) [information](/post/information/) transmitted [through](/post/through/) [such](/post/such/) [a](/post/a/) [system](/post/system/).
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [send](/en/post/send/) [or](/en/post/or/) [transmit](/en/post/transmit/) [a](/en/post/a/) [message](/en/post/message/) using [a](/en/post/a/) [telegraph](/en/post/telegraph/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [send](/post/send/) [or](/post/or/) [transmit](/post/transmit/) [a](/post/a/) [message](/post/message/) using [a](/post/a/) [telegraph](/post/telegraph/).
 
 ## Phrases
-- "[Send](/en/post/send/) [a](/en/post/a/) [telegram](/en/post/telegram/)" [or](/en/post/or/) "[telegraph](/en/post/telegraph/) [a](/en/post/a/) [message](/en/post/message/)" [means](/en/post/means/) [to](/en/post/to/) [communicate](/en/post/communicate/) [via](/en/post/via/) [telegraph](/en/post/telegraph/).
-- "[The](/en/post/the/) [telegraph](/en/post/telegraph/) [operator](/en/post/operator/)" was [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) worked [with](/en/post/with/) [a](/en/post/a/) [telegraph](/en/post/telegraph/) [machine](/en/post/machine/).
-- "[The](/en/post/the/) [birth](/en/post/birth/) [of](/en/post/of/) [the](/en/post/the/) [telegraph](/en/post/telegraph/)" marks [a](/en/post/a/) [significant](/en/post/significant/) [moment](/en/post/moment/) [in](/en/post/in/) [communication](/en/post/communication/) [history](/en/post/history/).
+- "[Send](/post/send/) [a](/post/a/) [telegram](/post/telegram/)" [or](/post/or/) "[telegraph](/post/telegraph/) [a](/post/a/) [message](/post/message/)" [means](/post/means/) [to](/post/to/) [communicate](/post/communicate/) [via](/post/via/) [telegraph](/post/telegraph/).
+- "[The](/post/the/) [telegraph](/post/telegraph/) [operator](/post/operator/)" was [a](/post/a/) [person](/post/person/) [who](/post/who/) worked [with](/post/with/) [a](/post/a/) [telegraph](/post/telegraph/) [machine](/post/machine/).
+- "[The](/post/the/) [birth](/post/birth/) [of](/post/of/) [the](/post/the/) [telegraph](/post/telegraph/)" marks [a](/post/a/) [significant](/post/significant/) [moment](/post/moment/) [in](/post/in/) [communication](/post/communication/) [history](/post/history/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) [the](/en/post/the/) 19th [century](/en/post/century/), [people](/en/post/people/) relied [on](/en/post/on/) [the](/en/post/the/) [telegraph](/en/post/telegraph/) [to](/en/post/to/) [stay](/en/post/stay/) connected [with](/en/post/with/) loved ones [across](/en/post/across/) [long](/en/post/long/) distances."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [journalist](/en/post/journalist/) telegraphed [the](/en/post/the/) breaking [news](/en/post/news/) [to](/en/post/to/) [the](/en/post/the/) newspaper's [headquarters](/en/post/headquarters/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [message](/en/post/message/) was telegraphed [in](/en/post/in/) Morse [code](/en/post/code/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[In](/post/in/) [the](/post/the/) 19th [century](/post/century/), [people](/post/people/) relied [on](/post/on/) [the](/post/the/) [telegraph](/post/telegraph/) [to](/post/to/) [stay](/post/stay/) connected [with](/post/with/) loved ones [across](/post/across/) [long](/post/long/) distances."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [journalist](/post/journalist/) telegraphed [the](/post/the/) breaking [news](/post/news/) [to](/post/to/) [the](/post/the/) newspaper's [headquarters](/post/headquarters/)."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) [message](/post/message/) was telegraphed [in](/post/in/) Morse [code](/post/code/)."
 
 ## Synonyms
-- [Telegram](/en/post/telegram/) ([as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/))
-- Dispatch ([for](/en/post/for/) sending [a](/en/post/a/) [message](/en/post/message/))
-- [Cable](/en/post/cable/) (informal, referring [to](/en/post/to/) [a](/en/post/a/) [telegraph](/en/post/telegraph/) [message](/en/post/message/))
-- [Signal](/en/post/signal/) ([less](/en/post/less/) [formal](/en/post/formal/), broader [meaning](/en/post/meaning/))
-- Relay (implying [transmission](/en/post/transmission/) [of](/en/post/of/) [information](/en/post/information/))
+- [Telegram](/post/telegram/) ([as](/post/as/) [a](/post/a/) [noun](/post/noun/))
+- Dispatch ([for](/post/for/) sending [a](/post/a/) [message](/post/message/))
+- [Cable](/post/cable/) (informal, referring [to](/post/to/) [a](/post/a/) [telegraph](/post/telegraph/) [message](/post/message/))
+- [Signal](/post/signal/) ([less](/post/less/) [formal](/post/formal/), broader [meaning](/post/meaning/))
+- Relay (implying [transmission](/post/transmission/) [of](/post/of/) [information](/post/information/))

@@ -11,21 +11,21 @@ keywords = ['ai words', 'door']
 /ˈdɔːr/
 
 ## 释义
-- **名词**: 门，建筑物或车辆等入口处的可开关装置。例如: "[She](/post/she/) closed [the](/post/the/) [door](/post/door/) [behind](/post/behind/) [her](/post/her/)."
-- **动词**: 关门，进入或离开（房屋、房间等）时通过门。例如: "[Please](/post/please/) [door](/post/door/) [the](/post/the/) [meeting](/post/meeting/) [room](/post/room/) [when](/post/when/) [you](/post/you/) [leave](/post/leave/)."
+- **名词**: 门，建筑物或车辆等入口处的可开关装置。例如: "[She](/zh/post/she/) closed [the](/zh/post/the/) [door](/zh/post/door/) [behind](/zh/post/behind/) [her](/zh/post/her/)."
+- **动词**: 关门，进入或离开（房屋、房间等）时通过门。例如: "[Please](/zh/post/please/) [door](/zh/post/door/) [the](/zh/post/the/) [meeting](/zh/post/meeting/) [room](/zh/post/room/) [when](/zh/post/when/) [you](/zh/post/you/) [leave](/zh/post/leave/)."
 
 ## 短语
-- "[behind](/post/behind/) closed doors" 意为私下地，秘密地。
-- "[knock](/post/knock/) [on](/post/on/) [the](/post/the/) [door](/post/door/)" 敲门。
-- "[open](/post/open/) [the](/post/the/) floodgates" 比喻为问题或情况失控，许多事物蜂拥而至。
+- "[behind](/zh/post/behind/) closed doors" 意为私下地，秘密地。
+- "[knock](/zh/post/knock/) [on](/zh/post/on/) [the](/zh/post/the/) [door](/zh/post/door/)" 敲门。
+- "[open](/zh/post/open/) [the](/zh/post/the/) floodgates" 比喻为问题或情况失控，许多事物蜂拥而至。
 
 ## 例句
-- 名词: "[The](/post/the/) [old](/post/old/) [wooden](/post/wooden/) [door](/post/door/) creaked [as](/post/as/) [he](/post/he/) pushed [it](/post/it/) [open](/post/open/)."
-- 动词: "[She](/post/she/) door'd [the](/post/the/) [car](/post/car/) [and](/post/and/) headed [for](/post/for/) [the](/post/the/) [office](/post/office/)."
+- 名词: "[The](/zh/post/the/) [old](/zh/post/old/) [wooden](/zh/post/wooden/) [door](/zh/post/door/) creaked [as](/zh/post/as/) [he](/zh/post/he/) pushed [it](/zh/post/it/) [open](/zh/post/open/)."
+- 动词: "[She](/zh/post/she/) door'd [the](/zh/post/the/) [car](/zh/post/car/) [and](/zh/post/and/) headed [for](/zh/post/for/) [the](/zh/post/the/) [office](/zh/post/office/)."
 
 ## 同义词
-- [gate](/post/gate/)
-- [entrance](/post/entrance/)
-- [entry](/post/entry/)
+- [gate](/zh/post/gate/)
+- [entrance](/zh/post/entrance/)
+- [entry](/zh/post/entry/)
 - portal
-- [access](/post/access/) [point](/post/point/)
+- [access](/zh/post/access/) [point](/zh/post/point/)

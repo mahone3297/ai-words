@@ -7,35 +7,35 @@ description = '[deθ] n.死，死亡；灭亡'
 keywords = ['ai words', 'death']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /deθ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) [dying](/en/post/dying/); [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [dead](/en/post/dead/). 2. [The](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [life](/en/post/life/) [or](/en/post/or/) [existence](/en/post/existence/). 3. [(pl.) deaths] [The](/en/post/the/) passing [of](/en/post/of/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [from](/en/post/from/) [one](/en/post/one/) [state](/en/post/state/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [such](/en/post/such/) occurrences. 4. [A](/en/post/a/) [cause](/en/post/cause/) [or](/en/post/or/) [agent](/en/post/agent/) [that](/en/post/that/) brings [about](/en/post/about/) [death](/en/post/death/). 5. [figurative] An [unfortunate](/en/post/unfortunate/) [or](/en/post/or/) [severe](/en/post/severe/) [outcome](/en/post/outcome/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) [dying](/post/dying/); [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [dead](/post/dead/). 2. [The](/post/the/) [end](/post/end/) [of](/post/of/) [life](/post/life/) [or](/post/or/) [existence](/post/existence/). 3. [(pl.) deaths] [The](/post/the/) passing [of](/post/of/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [from](/post/from/) [one](/post/one/) [state](/post/state/) [to](/post/to/) [another](/post/another/), [often](/post/often/) referring [to](/post/to/) [a](/post/a/) [series](/post/series/) [of](/post/of/) [such](/post/such/) occurrences. 4. [A](/post/a/) [cause](/post/cause/) [or](/post/or/) [agent](/post/agent/) [that](/post/that/) brings [about](/post/about/) [death](/post/death/). 5. [figurative] An [unfortunate](/post/unfortunate/) [or](/post/or/) [severe](/post/severe/) [outcome](/post/outcome/).
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cause](/en/post/cause/) [the](/en/post/the/) [death](/en/post/death/) [of](/en/post/of/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). 2. [To](/en/post/to/) [experience](/en/post/experience/) [or](/en/post/or/) [face](/en/post/face/) [the](/en/post/the/) [possibility](/en/post/possibility/) [of](/en/post/of/) [death](/en/post/death/). 3. [To](/en/post/to/) signify [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) person's [life](/en/post/life/) (usu. [in](/en/post/in/) [legal](/en/post/legal/) contexts).
+- **[Verb](/post/verb/)**: [To](/post/to/) [cause](/post/cause/) [the](/post/the/) [death](/post/death/) [of](/post/of/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). 2. [To](/post/to/) [experience](/post/experience/) [or](/post/or/) [face](/post/face/) [the](/post/the/) [possibility](/post/possibility/) [of](/post/of/) [death](/post/death/). 3. [To](/post/to/) signify [the](/post/the/) [end](/post/end/) [of](/post/of/) [a](/post/a/) person's [life](/post/life/) (usu. [in](/post/in/) [legal](/post/legal/) contexts).
 
 ## Phrases
-- "[Death](/en/post/death/) [and](/en/post/and/) taxes" is [a](/en/post/a/) [common](/en/post/common/) [expression](/en/post/expression/) referring [to](/en/post/to/) [the](/en/post/the/) inevitability [of](/en/post/of/) [both](/en/post/both/).
-- "[To](/en/post/to/) [die](/en/post/die/) [a](/en/post/a/) hero's [death](/en/post/death/)" implies [a](/en/post/a/) [glorious](/en/post/glorious/) [or](/en/post/or/) [noble](/en/post/noble/) [end](/en/post/end/).
-- "[Death](/en/post/death/) toll" refers [to](/en/post/to/) [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) [have](/en/post/have/) died [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [incident](/en/post/incident/) [or](/en/post/or/) [situation](/en/post/situation/).
+- "[Death](/post/death/) [and](/post/and/) taxes" is [a](/post/a/) [common](/post/common/) [expression](/post/expression/) referring [to](/post/to/) [the](/post/the/) inevitability [of](/post/of/) [both](/post/both/).
+- "[To](/post/to/) [die](/post/die/) [a](/post/a/) hero's [death](/post/death/)" implies [a](/post/a/) [glorious](/post/glorious/) [or](/post/or/) [noble](/post/noble/) [end](/post/end/).
+- "[Death](/post/death/) toll" refers [to](/post/to/) [the](/post/the/) [number](/post/number/) [of](/post/of/) [people](/post/people/) [who](/post/who/) [have](/post/have/) died [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [incident](/post/incident/) [or](/post/or/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [man](/en/post/man/) had accepted [his](/en/post/his/) [own](/en/post/own/) [death](/en/post/death/) [with](/en/post/with/) dignity."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) declared [him](/en/post/him/) [dead](/en/post/dead/) [after](/en/post/after/) performing CPR."
-- **Interjection**: "[She](/en/post/she/) couldn't [believe](/en/post/believe/) [her](/en/post/her/) [father](/en/post/father/) had passed [away](/en/post/away/) [so](/en/post/so/) [suddenly](/en/post/suddenly/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [man](/post/man/) had accepted [his](/post/his/) [own](/post/own/) [death](/post/death/) [with](/post/with/) dignity."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [doctor](/post/doctor/) declared [him](/post/him/) [dead](/post/dead/) [after](/post/after/) performing CPR."
+- **Interjection**: "[She](/post/she/) couldn't [believe](/post/believe/) [her](/post/her/) [father](/post/father/) had passed [away](/post/away/) [so](/post/so/) [suddenly](/post/suddenly/)."
 
 ## Synonyms
 - Passing
 - Demise
-- [End](/en/post/end/)
+- [End](/post/end/)
 - Expiration
 - Perish
 - Extinction
 - Fatality
 
 ## Antonyms
-- [Life](/en/post/life/)
+- [Life](/post/life/)
 - Survival
 - Continuation
 - Resurrection

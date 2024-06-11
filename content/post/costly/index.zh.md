@@ -11,20 +11,20 @@ keywords = ['ai words', 'costly']
 /ˈkɔːstli/
 
 ## 释义
-- **形容词**: 昂贵的，代价高的。例如: "[The](/post/the/) [new](/post/new/) [car](/post/car/) was [too](/post/too/) [costly](/post/costly/) [for](/post/for/) [his](/post/his/) budget."
-- **副词**: 费钱地，代价高地。例如: "[They](/post/they/) had [to](/post/to/) [perform](/post/perform/) [the](/post/the/) [operation](/post/operation/) [costly](/post/costly/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [lack](/post/lack/) [of](/post/of/) [insurance](/post/insurance/)."
+- **形容词**: 昂贵的，代价高的。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [car](/zh/post/car/) was [too](/zh/post/too/) [costly](/zh/post/costly/) [for](/zh/post/for/) [his](/zh/post/his/) budget."
+- **副词**: 费钱地，代价高地。例如: "[They](/zh/post/they/) had [to](/zh/post/to/) [perform](/zh/post/perform/) [the](/zh/post/the/) [operation](/zh/post/operation/) [costly](/zh/post/costly/) [due](/zh/post/due/) [to](/zh/post/to/) [the](/zh/post/the/) [lack](/zh/post/lack/) [of](/zh/post/of/) [insurance](/zh/post/insurance/)."
 
 ## 短语
-- "[Costly](/post/costly/) [mistake](/post/mistake/)" 意为代价高昂的错误。
-- "[Costly](/post/costly/) materials" 指昂贵的材料。
+- "[Costly](/zh/post/costly/) [mistake](/zh/post/mistake/)" 意为代价高昂的错误。
+- "[Costly](/zh/post/costly/) materials" 指昂贵的材料。
 
 ## 例句
-- 形容词: "[The](/post/the/) [diamond](/post/diamond/) [necklace](/post/necklace/) was [a](/post/a/) [costly](/post/costly/) [gift](/post/gift/) [for](/post/for/) [her](/post/her/) [birthday](/post/birthday/)."
-- 副词: "[The](/post/the/) company's [decision](/post/decision/) [to](/post/to/) [expand](/post/expand/) proved [costly](/post/costly/) [in](/post/in/) terms [of](/post/of/) [financial](/post/financial/) losses."
+- 形容词: "[The](/zh/post/the/) [diamond](/zh/post/diamond/) [necklace](/zh/post/necklace/) was [a](/zh/post/a/) [costly](/zh/post/costly/) [gift](/zh/post/gift/) [for](/zh/post/for/) [her](/zh/post/her/) [birthday](/zh/post/birthday/)."
+- 副词: "[The](/zh/post/the/) company's [decision](/zh/post/decision/) [to](/zh/post/to/) [expand](/zh/post/expand/) proved [costly](/zh/post/costly/) [in](/zh/post/in/) terms [of](/zh/post/of/) [financial](/zh/post/financial/) losses."
 
 ## 同义词
-- [Expensive](/post/expensive/)
+- [Expensive](/zh/post/expensive/)
 - Pricy
-- [Inexpensive](/post/inexpensive/)
+- [Inexpensive](/zh/post/inexpensive/)
 - High-priced
-- [Dear](/post/dear/)
+- [Dear](/zh/post/dear/)

@@ -7,38 +7,38 @@ description = '[ˈbɑːgin] n.交易 vi.议价；成交'
 keywords = ['ai words', 'bargain']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bəˈræn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [deal](/en/post/deal/) [in](/en/post/in/) [which](/en/post/which/) [goods](/en/post/goods/) [or](/en/post/or/) services are sold [at](/en/post/at/) [a](/en/post/a/) [lower](/en/post/lower/) [price](/en/post/price/) [than](/en/post/than/) [their](/en/post/their/) [normal](/en/post/normal/) [value](/en/post/value/), [often](/en/post/often/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [special](/en/post/special/) [offer](/en/post/offer/) [or](/en/post/or/) [to](/en/post/to/) [clear](/en/post/clear/) [stock](/en/post/stock/).
-   - "[The](/en/post/the/) [store](/en/post/store/) had [great](/en/post/great/) bargains [on](/en/post/on/) [clothing](/en/post/clothing/) [during](/en/post/during/) [the](/en/post/the/) [sale](/en/post/sale/)."
-2. An [agreement](/en/post/agreement/) [or](/en/post/or/) [arrangement](/en/post/arrangement/) reached [after](/en/post/after/) negotiation [or](/en/post/or/) [compromise](/en/post/compromise/).
-   - "[They](/en/post/they/) struck [a](/en/post/a/) [bargain](/en/post/bargain/) [over](/en/post/over/) [the](/en/post/the/) [price](/en/post/price/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [deal](/post/deal/) [in](/post/in/) [which](/post/which/) [goods](/post/goods/) [or](/post/or/) services are sold [at](/post/at/) [a](/post/a/) [lower](/post/lower/) [price](/post/price/) [than](/post/than/) [their](/post/their/) [normal](/post/normal/) [value](/post/value/), [often](/post/often/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [special](/post/special/) [offer](/post/offer/) [or](/post/or/) [to](/post/to/) [clear](/post/clear/) [stock](/post/stock/).
+   - "[The](/post/the/) [store](/post/store/) had [great](/post/great/) bargains [on](/post/on/) [clothing](/post/clothing/) [during](/post/during/) [the](/post/the/) [sale](/post/sale/)."
+2. An [agreement](/post/agreement/) [or](/post/or/) [arrangement](/post/arrangement/) reached [after](/post/after/) negotiation [or](/post/or/) [compromise](/post/compromise/).
+   - "[They](/post/they/) struck [a](/post/a/) [bargain](/post/bargain/) [over](/post/over/) [the](/post/the/) [price](/post/price/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) negotiate [or](/en/post/or/) [purchase](/en/post/purchase/) [something](/en/post/something/) [at](/en/post/at/) [a](/en/post/a/) [lower](/en/post/lower/) [price](/en/post/price/) [than](/en/post/than/) [usual](/en/post/usual/).
-   - "[She](/en/post/she/) [always](/en/post/always/) manages [to](/en/post/to/) [bargain](/en/post/bargain/) [down](/en/post/down/) [the](/en/post/the/) [cost](/en/post/cost/) [of](/en/post/of/) [her](/en/post/her/) vacations."
-2. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) haggling [or](/en/post/or/) [discussion](/en/post/discussion/) [to](/en/post/to/) [reach](/en/post/reach/) [a](/en/post/a/) favorable [deal](/en/post/deal/).
-   - "Let's [bargain](/en/post/bargain/) [over](/en/post/over/) [the](/en/post/the/) terms [of](/en/post/of/) [this](/en/post/this/) [contract](/en/post/contract/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) negotiate [or](/post/or/) [purchase](/post/purchase/) [something](/post/something/) [at](/post/at/) [a](/post/a/) [lower](/post/lower/) [price](/post/price/) [than](/post/than/) [usual](/post/usual/).
+   - "[She](/post/she/) [always](/post/always/) manages [to](/post/to/) [bargain](/post/bargain/) [down](/post/down/) [the](/post/the/) [cost](/post/cost/) [of](/post/of/) [her](/post/her/) vacations."
+2. [To](/post/to/) [engage](/post/engage/) [in](/post/in/) haggling [or](/post/or/) [discussion](/post/discussion/) [to](/post/to/) [reach](/post/reach/) [a](/post/a/) favorable [deal](/post/deal/).
+   - "Let's [bargain](/post/bargain/) [over](/post/over/) [the](/post/the/) terms [of](/post/of/) [this](/post/this/) [contract](/post/contract/)."
 
 ## Phrases
-- "[Bargain](/en/post/bargain/) hunters" refers [to](/en/post/to/) [people](/en/post/people/) [who](/en/post/who/) actively [search](/en/post/search/) [for](/en/post/for/) deals.
-- "[Bargain](/en/post/bargain/) basement prices" [indicate](/en/post/indicate/) [very](/en/post/very/) [low](/en/post/low/) prices.
-- "[No](/en/post/no/) [hard](/en/post/hard/) feelings; [it](/en/post/it/) was [just](/en/post/just/) [a](/en/post/a/) [business](/en/post/business/) [bargain](/en/post/bargain/)."
+- "[Bargain](/post/bargain/) hunters" refers [to](/post/to/) [people](/post/people/) [who](/post/who/) actively [search](/post/search/) [for](/post/for/) deals.
+- "[Bargain](/post/bargain/) basement prices" [indicate](/post/indicate/) [very](/post/very/) [low](/post/low/) prices.
+- "[No](/post/no/) [hard](/post/hard/) feelings; [it](/post/it/) was [just](/post/just/) [a](/post/a/) [business](/post/business/) [bargain](/post/bargain/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) antique collector [found](/en/post/found/) [a](/en/post/a/) [real](/en/post/real/) [bargain](/en/post/bargain/) [at](/en/post/at/) [the](/en/post/the/) flea [market](/en/post/market/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) hours [of](/en/post/of/) bargaining, [they](/en/post/they/) [finally](/en/post/finally/) agreed [on](/en/post/on/) [a](/en/post/a/) [price](/en/post/price/) [for](/en/post/for/) [the](/en/post/the/) [car](/en/post/car/)."
-- **Negotiating**: "[They](/en/post/they/) were trying [to](/en/post/to/) [bargain](/en/post/bargain/) [with](/en/post/with/) [the](/en/post/the/) [landlord](/en/post/landlord/) [for](/en/post/for/) [a](/en/post/a/) [lower](/en/post/lower/) [rent](/en/post/rent/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) antique collector [found](/post/found/) [a](/post/a/) [real](/post/real/) [bargain](/post/bargain/) [at](/post/at/) [the](/post/the/) flea [market](/post/market/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) hours [of](/post/of/) bargaining, [they](/post/they/) [finally](/post/finally/) agreed [on](/post/on/) [a](/post/a/) [price](/post/price/) [for](/post/for/) [the](/post/the/) [car](/post/car/)."
+- **Negotiating**: "[They](/post/they/) were trying [to](/post/to/) [bargain](/post/bargain/) [with](/post/with/) [the](/post/the/) [landlord](/post/landlord/) [for](/post/for/) [a](/post/a/) [lower](/post/lower/) [rent](/post/rent/)."
 
 ## Synonyms
 - Discount
-- [Deal](/en/post/deal/)
-- [Bargain](/en/post/bargain/) [hunt](/en/post/hunt/)
+- [Deal](/post/deal/)
+- [Bargain](/post/bargain/) [hunt](/post/hunt/)
 - Negotiate
 - Haggle
-- Discount [price](/en/post/price/)
-- Reduced [price](/en/post/price/)
+- Discount [price](/post/price/)
+- Reduced [price](/post/price/)
 - Bargining chip

@@ -7,44 +7,44 @@ description = '[risˈtrein] vt.抑制，遏制；限制'
 keywords = ['ai words', 'restrain']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈstreɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) limiting [or](/en/post/or/) controlling one's actions, emotions, [or](/en/post/or/) desires: *[She](/en/post/she/) had [to](/en/post/to/) [restrain](/en/post/restrain/) [her](/en/post/her/) [laughter](/en/post/laughter/) [when](/en/post/when/) [he](/en/post/he/) told [the](/en/post/the/) [joke](/en/post/joke/).*
-2. [A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) mechanism [that](/en/post/that/) prevents [motion](/en/post/motion/) [or](/en/post/or/) stops [something](/en/post/something/) [from](/en/post/from/) moving: *[The](/en/post/the/) [safety](/en/post/safety/) [restraint](/en/post/restraint/) [in](/en/post/in/) [the](/en/post/the/) [car](/en/post/car/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) limiting [or](/post/or/) controlling one's actions, emotions, [or](/post/or/) desires: *[She](/post/she/) had [to](/post/to/) [restrain](/post/restrain/) [her](/post/her/) [laughter](/post/laughter/) [when](/post/when/) [he](/post/he/) told [the](/post/the/) [joke](/post/joke/).*
+2. [A](/post/a/) [device](/post/device/) [or](/post/or/) mechanism [that](/post/that/) prevents [motion](/post/motion/) [or](/post/or/) stops [something](/post/something/) [from](/post/from/) moving: *[The](/post/the/) [safety](/post/safety/) [restraint](/post/restraint/) [in](/post/in/) [the](/post/the/) [car](/post/car/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [hold](/en/post/hold/) [back](/en/post/back/) [or](/en/post/or/) [control](/en/post/control/) ([oneself](/en/post/oneself/), emotions, [or](/en/post/or/) [a](/en/post/a/) [person](/en/post/person/)): *[He](/en/post/he/) restrained [himself](/en/post/himself/) [from](/en/post/from/) saying [something](/en/post/something/) impulsive.*
-2. [To](/en/post/to/) [fasten](/en/post/fasten/) [or](/en/post/or/) [secure](/en/post/secure/) [with](/en/post/with/) [a](/en/post/a/) [restraint](/en/post/restraint/): *[The](/en/post/the/) [doctor](/en/post/doctor/) restrained [the](/en/post/the/) [patient](/en/post/patient/) [during](/en/post/during/) [the](/en/post/the/) [operation](/en/post/operation/).*
-3. [To](/en/post/to/) [limit](/en/post/limit/) [or](/en/post/or/) [regulate](/en/post/regulate/): *[The](/en/post/the/) [government](/en/post/government/) is trying [to](/en/post/to/) [restrain](/en/post/restrain/) inflation.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [hold](/post/hold/) [back](/post/back/) [or](/post/or/) [control](/post/control/) ([oneself](/post/oneself/), emotions, [or](/post/or/) [a](/post/a/) [person](/post/person/)): *[He](/post/he/) restrained [himself](/post/himself/) [from](/post/from/) saying [something](/post/something/) impulsive.*
+2. [To](/post/to/) [fasten](/post/fasten/) [or](/post/or/) [secure](/post/secure/) [with](/post/with/) [a](/post/a/) [restraint](/post/restraint/): *[The](/post/the/) [doctor](/post/doctor/) restrained [the](/post/the/) [patient](/post/patient/) [during](/post/during/) [the](/post/the/) [operation](/post/operation/).*
+3. [To](/post/to/) [limit](/post/limit/) [or](/post/or/) [regulate](/post/regulate/): *[The](/post/the/) [government](/post/government/) is trying [to](/post/to/) [restrain](/post/restrain/) inflation.*
 
 ## Phrases
-- "[Restrain](/en/post/restrain/) [oneself](/en/post/oneself/)" [means](/en/post/means/) [to](/en/post/to/) [control](/en/post/control/) one's feelings [or](/en/post/or/) [behavior](/en/post/behavior/).
-- "[Physical](/en/post/physical/) [restraint](/en/post/restraint/)" refers [to](/en/post/to/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [force](/en/post/force/) [to](/en/post/to/) [control](/en/post/control/) [someone](/en/post/someone/).
-- "[Emotional](/en/post/emotional/) [restraint](/en/post/restraint/)" is [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [manage](/en/post/manage/) one's emotions.
+- "[Restrain](/post/restrain/) [oneself](/post/oneself/)" [means](/post/means/) [to](/post/to/) [control](/post/control/) one's feelings [or](/post/or/) [behavior](/post/behavior/).
+- "[Physical](/post/physical/) [restraint](/post/restraint/)" refers [to](/post/to/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [force](/post/force/) [to](/post/to/) [control](/post/control/) [someone](/post/someone/).
+- "[Emotional](/post/emotional/) [restraint](/post/restraint/)" is [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [manage](/post/manage/) one's emotions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) students [to](/en/post/to/) [show](/en/post/show/) self-restraint [in](/en/post/in/) [the](/en/post/the/) [library](/en/post/library/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) had [to](/en/post/to/) [restrain](/en/post/restrain/) [his](/en/post/his/) [son](/en/post/son/) [from](/en/post/from/) running [into](/en/post/into/) [the](/en/post/the/) [street](/en/post/street/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [security](/en/post/security/) [guard](/en/post/guard/) restrained [the](/en/post/the/) [suspect](/en/post/suspect/) [until](/en/post/until/) [the](/en/post/the/) [police](/en/post/police/) arrived."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [show](/post/show/) self-restraint [in](/post/in/) [the](/post/the/) [library](/post/library/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) had [to](/post/to/) [restrain](/post/restrain/) [his](/post/his/) [son](/post/son/) [from](/post/from/) running [into](/post/into/) [the](/post/the/) [street](/post/street/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [security](/post/security/) [guard](/post/guard/) restrained [the](/post/the/) [suspect](/post/suspect/) [until](/post/until/) [the](/post/the/) [police](/post/police/) arrived."
 
 ## Synonyms
-- [Control](/en/post/control/)
+- [Control](/post/control/)
 - Suppress
-- [Restrain](/en/post/restrain/) [oneself](/en/post/oneself/)
-- [Hold](/en/post/hold/) [back](/en/post/back/)
+- [Restrain](/post/restrain/) [oneself](/post/oneself/)
+- [Hold](/post/hold/) [back](/post/back/)
 - Constrain
-- [Tame](/en/post/tame/)
-- [Moderate](/en/post/moderate/)
-- [Limit](/en/post/limit/)
+- [Tame](/post/tame/)
+- [Moderate](/post/moderate/)
+- [Limit](/post/limit/)
 - Curb
 
 ## Antonyms
 - Unrestrain
-- [Give](/en/post/give/) [in](/en/post/in/)
-- [Lose](/en/post/lose/) [control](/en/post/control/)
+- [Give](/post/give/) [in](/post/in/)
+- [Lose](/post/lose/) [control](/post/control/)
 - Indulge
 - Escalate
-- [Run](/en/post/run/) [wild](/en/post/wild/)
+- [Run](/post/run/) [wild](/post/wild/)

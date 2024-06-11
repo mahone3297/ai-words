@@ -7,34 +7,34 @@ description = '[ˈinfluəns] n.影响；势力 vt.影响'
 keywords = ['ai words', 'influence']
 +++
 
-## [Word](/en/post/word/): [Influence](/en/post/influence/)
+## [Word](/post/word/): [Influence](/post/influence/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪnfluəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [power](/en/post/power/) [to](/en/post/to/) [affect](/en/post/affect/), [change](/en/post/change/), [or](/en/post/or/) [sway](/en/post/sway/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/), [especially](/en/post/especially/) [the](/en/post/the/) actions, [behavior](/en/post/behavior/), opinions, [or](/en/post/or/) decisions [of](/en/post/of/) others. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) mother's [influence](/en/post/influence/) [on](/en/post/on/) [her](/en/post/her/) [career](/en/post/career/) [choice](/en/post/choice/) was [significant](/en/post/significant/)."
-  - _"[The](/en/post/the/) politician's [influence](/en/post/influence/) [over](/en/post/over/) [his](/en/post/his/) constituents grew stronger [with](/en/post/with/) [each](/en/post/each/) [successful](/en/post/successful/) [policy](/en/post/policy/) initiative."_
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [have](/en/post/have/) an [effect](/en/post/effect/) [on](/en/post/on/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/); [to](/en/post/to/) [cause](/en/post/cause/) changes [without](/en/post/without/) [direct](/en/post/direct/), [apparent](/en/post/apparent/) [force](/en/post/force/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [early](/en/post/early/) experiences influenced [his](/en/post/his/) worldview."
-  - _"[The](/en/post/the/) company's marketing [strategy](/en/post/strategy/) was [heavily](/en/post/heavily/) influenced [by](/en/post/by/) [social](/en/post/social/) media trends."_
+- **[Noun](/post/noun/)**: [The](/post/the/) [power](/post/power/) [to](/post/to/) [affect](/post/affect/), [change](/post/change/), [or](/post/or/) [sway](/post/sway/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/), [especially](/post/especially/) [the](/post/the/) actions, [behavior](/post/behavior/), opinions, [or](/post/or/) decisions [of](/post/of/) others. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) mother's [influence](/post/influence/) [on](/post/on/) [her](/post/her/) [career](/post/career/) [choice](/post/choice/) was [significant](/post/significant/)."
+  - _"[The](/post/the/) politician's [influence](/post/influence/) [over](/post/over/) [his](/post/his/) constituents grew stronger [with](/post/with/) [each](/post/each/) [successful](/post/successful/) [policy](/post/policy/) initiative."_
+- **[Verb](/post/verb/)**: [To](/post/to/) [have](/post/have/) an [effect](/post/effect/) [on](/post/on/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/); [to](/post/to/) [cause](/post/cause/) changes [without](/post/without/) [direct](/post/direct/), [apparent](/post/apparent/) [force](/post/force/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [early](/post/early/) experiences influenced [his](/post/his/) worldview."
+  - _"[The](/post/the/) company's marketing [strategy](/post/strategy/) was [heavily](/post/heavily/) influenced [by](/post/by/) [social](/post/social/) media trends."_
 
 ## Phrases
-- "[Influence](/en/post/influence/) [on](/en/post/on/) [someone](/en/post/someone/)/[something](/en/post/something/)": Refers [to](/en/post/to/) [the](/en/post/the/) [impact](/en/post/impact/) [one](/en/post/one/) has [on](/en/post/on/) [another](/en/post/another/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/). [Example](/en/post/example/): "[His](/en/post/his/) [childhood](/en/post/childhood/) had [a](/en/post/a/) profound [influence](/en/post/influence/) [on](/en/post/on/) [his](/en/post/his/) [writing](/en/post/writing/) [style](/en/post/style/)."
-- "[Under](/en/post/under/) [the](/en/post/the/) [influence](/en/post/influence/)": [This](/en/post/this/) [phrase](/en/post/phrase/) typically implies [being](/en/post/being/) affected [by](/en/post/by/) [alcohol](/en/post/alcohol/) [or](/en/post/or/) drugs [to](/en/post/to/) [the](/en/post/the/) [point](/en/post/point/) [where](/en/post/where/) judgment [or](/en/post/or/) [behavior](/en/post/behavior/) is altered. [Example](/en/post/example/): "[He](/en/post/he/) was arrested [for](/en/post/for/) driving [under](/en/post/under/) [the](/en/post/the/) [influence](/en/post/influence/)."
-- "[Influence](/en/post/influence/) peddling": An [illegal](/en/post/illegal/) [activity](/en/post/activity/) [where](/en/post/where/) [someone](/en/post/someone/) uses [their](/en/post/their/) [position](/en/post/position/) [or](/en/post/or/) connections [to](/en/post/to/) [exert](/en/post/exert/) [influence](/en/post/influence/) [for](/en/post/for/) [personal](/en/post/personal/) [gain](/en/post/gain/).
+- "[Influence](/post/influence/) [on](/post/on/) [someone](/post/someone/)/[something](/post/something/)": Refers [to](/post/to/) [the](/post/the/) [impact](/post/impact/) [one](/post/one/) has [on](/post/on/) [another](/post/another/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/). [Example](/post/example/): "[His](/post/his/) [childhood](/post/childhood/) had [a](/post/a/) profound [influence](/post/influence/) [on](/post/on/) [his](/post/his/) [writing](/post/writing/) [style](/post/style/)."
+- "[Under](/post/under/) [the](/post/the/) [influence](/post/influence/)": [This](/post/this/) [phrase](/post/phrase/) typically implies [being](/post/being/) affected [by](/post/by/) [alcohol](/post/alcohol/) [or](/post/or/) drugs [to](/post/to/) [the](/post/the/) [point](/post/point/) [where](/post/where/) judgment [or](/post/or/) [behavior](/post/behavior/) is altered. [Example](/post/example/): "[He](/post/he/) was arrested [for](/post/for/) driving [under](/post/under/) [the](/post/the/) [influence](/post/influence/)."
+- "[Influence](/post/influence/) peddling": An [illegal](/post/illegal/) [activity](/post/activity/) [where](/post/where/) [someone](/post/someone/) uses [their](/post/their/) [position](/post/position/) [or](/post/or/) connections [to](/post/to/) [exert](/post/exert/) [influence](/post/influence/) [for](/post/for/) [personal](/post/personal/) [gain](/post/gain/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) author's French upbringing had [a](/en/post/a/) [strong](/en/post/strong/) [influence](/en/post/influence/) [on](/en/post/on/) [her](/en/post/her/) [literary](/en/post/literary/) works."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) teacher's [enthusiasm](/en/post/enthusiasm/) influenced [many](/en/post/many/) students [to](/en/post/to/) [pursue](/en/post/pursue/) careers [in](/en/post/in/) [science](/en/post/science/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) author's French upbringing had [a](/post/a/) [strong](/post/strong/) [influence](/post/influence/) [on](/post/on/) [her](/post/her/) [literary](/post/literary/) works."
+- **[Verb](/post/verb/)**: "[The](/post/the/) teacher's [enthusiasm](/post/enthusiasm/) influenced [many](/post/many/) students [to](/post/to/) [pursue](/post/pursue/) careers [in](/post/in/) [science](/post/science/)."
 
 ## Synonyms
-- [Impact](/en/post/impact/)
-- [Effect](/en/post/effect/)
-- [Power](/en/post/power/)
+- [Impact](/post/impact/)
+- [Effect](/post/effect/)
+- [Power](/post/power/)
 - Bearing
-- [Control](/en/post/control/)
-- [Authority](/en/post/authority/)
+- [Control](/post/control/)
+- [Authority](/post/authority/)
 - Persuasion
-- [Sway](/en/post/sway/)
-- [Hold](/en/post/hold/) ([over](/en/post/over/) [someone](/en/post/someone/))
-- [Weight](/en/post/weight/) ([in](/en/post/in/) [a](/en/post/a/) [decision](/en/post/decision/))
+- [Sway](/post/sway/)
+- [Hold](/post/hold/) ([over](/post/over/) [someone](/post/someone/))
+- [Weight](/post/weight/) ([in](/post/in/) [a](/post/a/) [decision](/post/decision/))

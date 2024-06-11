@@ -11,21 +11,21 @@ keywords = ['ai words', 'earth']
 /ɜːθ/
 
 ## 释义
-- **名词**: 地球，指我们居住的行星。例如: "[The](/post/the/) [earth](/post/earth/) revolves [around](/post/around/) [the](/post/the/) [sun](/post/sun/)."
-- **名词**: 土地，土壤，特指地球表面的陆地部分。例如: "Farmers [work](/post/work/) [the](/post/the/) [earth](/post/earth/) [to](/post/to/) [grow](/post/grow/) crops."
-- **形容词**: 地球的，与地球相关的。例如: "Earth-based organisms [rely](/post/rely/) [on](/post/on/) [sunlight](/post/sunlight/) [for](/post/for/) [energy](/post/energy/)."
+- **名词**: 地球，指我们居住的行星。例如: "[The](/zh/post/the/) [earth](/zh/post/earth/) revolves [around](/zh/post/around/) [the](/zh/post/the/) [sun](/zh/post/sun/)."
+- **名词**: 土地，土壤，特指地球表面的陆地部分。例如: "Farmers [work](/zh/post/work/) [the](/zh/post/the/) [earth](/zh/post/earth/) [to](/zh/post/to/) [grow](/zh/post/grow/) crops."
+- **形容词**: 地球的，与地球相关的。例如: "Earth-based organisms [rely](/zh/post/rely/) [on](/zh/post/on/) [sunlight](/zh/post/sunlight/) [for](/zh/post/for/) [energy](/zh/post/energy/)."
 
 ## 短语
-- "[Mother](/post/mother/) [Earth](/post/earth/)" 指被视为生育和滋养所有生命的自然环境。
-- "[Earth](/post/earth/) sciences" 包括地质学、气象学和地理学等研究地球的学科。
+- "[Mother](/zh/post/mother/) [Earth](/zh/post/earth/)" 指被视为生育和滋养所有生命的自然环境。
+- "[Earth](/zh/post/earth/) sciences" 包括地质学、气象学和地理学等研究地球的学科。
 
 ## 例句
-- 名词: "[Our](/post/our/) [planet](/post/planet/), [Earth](/post/earth/), is [the](/post/the/) [third](/post/third/) [planet](/post/planet/) [from](/post/from/) [the](/post/the/) [sun](/post/sun/)."
-- 形容词: "Earth-friendly products are made [with](/post/with/) sustainable materials."
+- 名词: "[Our](/zh/post/our/) [planet](/zh/post/planet/), [Earth](/zh/post/earth/), is [the](/zh/post/the/) [third](/zh/post/third/) [planet](/zh/post/planet/) [from](/zh/post/from/) [the](/zh/post/the/) [sun](/zh/post/sun/)."
+- 形容词: "Earth-friendly products are made [with](/zh/post/with/) sustainable materials."
 
 ## 同义词
-- [Planet](/post/planet/) [Earth](/post/earth/)
+- [Planet](/zh/post/planet/) [Earth](/zh/post/earth/)
 - Terra
-- [Globe](/post/globe/)
-- [World](/post/world/)
-- [Land](/post/land/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) landmass)
+- [Globe](/zh/post/globe/)
+- [World](/zh/post/world/)
+- [Land](/zh/post/land/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) landmass)

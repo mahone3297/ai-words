@@ -11,16 +11,16 @@ keywords = ['ai words', 'dozen']
 /ˈdʌzn/
 
 ## 释义
-- **名词**: 十二个；一打。常与数词连用表示具体数量。例如: "I bought [a](/post/a/) [dozen](/post/dozen/) eggs."
-- **量词**: 用于非正式场合，表示大约十二个。例如: "[There](/post/there/) were dozens [of](/post/of/) [people](/post/people/) [at](/post/at/) [the](/post/the/) [concert](/post/concert/)."
+- **名词**: 十二个；一打。常与数词连用表示具体数量。例如: "I bought [a](/zh/post/a/) [dozen](/zh/post/dozen/) eggs."
+- **量词**: 用于非正式场合，表示大约十二个。例如: "[There](/zh/post/there/) were dozens [of](/zh/post/of/) [people](/zh/post/people/) [at](/zh/post/at/) [the](/zh/post/the/) [concert](/zh/post/concert/)."
 
 ## 短语
-- "[a](/post/a/) [dozen](/post/dozen/) [of](/post/of/)" 用来表示一打或一组物品。例如: "[A](/post/a/) [dozen](/post/dozen/) [of](/post/of/) [my](/post/my/) friends are coming [over](/post/over/) [for](/post/for/) [dinner](/post/dinner/)."
+- "[a](/zh/post/a/) [dozen](/zh/post/dozen/) [of](/zh/post/of/)" 用来表示一打或一组物品。例如: "[A](/zh/post/a/) [dozen](/zh/post/dozen/) [of](/zh/post/of/) [my](/zh/post/my/) friends are coming [over](/zh/post/over/) [for](/zh/post/for/) [dinner](/zh/post/dinner/)."
 
 ## 例句
-- "I [need](/post/need/) [two](/post/two/) [dozen](/post/dozen/) cupcakes [for](/post/for/) [the](/post/the/) [bake](/post/bake/) [sale](/post/sale/)."
-- "[In](/post/in/) [the](/post/the/) [box](/post/box/), [there](/post/there/) are [dozen](/post/dozen/) [small](/post/small/) toys [for](/post/for/) [the](/post/the/) kids."
+- "I [need](/zh/post/need/) [two](/zh/post/two/) [dozen](/zh/post/dozen/) cupcakes [for](/zh/post/for/) [the](/zh/post/the/) [bake](/zh/post/bake/) [sale](/zh/post/sale/)."
+- "[In](/zh/post/in/) [the](/zh/post/the/) [box](/zh/post/box/), [there](/zh/post/there/) are [dozen](/zh/post/dozen/) [small](/zh/post/small/) toys [for](/zh/post/for/) [the](/zh/post/the/) kids."
 
 ## 同义词
-- [twelve](/post/twelve/)
-- [a](/post/a/) [score](/post/score/) (主要用于旧式或文学用语，表示二十)
+- [twelve](/zh/post/twelve/)
+- [a](/zh/post/a/) [score](/zh/post/score/) (主要用于旧式或文学用语，表示二十)

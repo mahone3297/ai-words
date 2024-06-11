@@ -7,35 +7,35 @@ description = '[priˈliminəri] a.预备的，初步的'
 keywords = ['ai words', 'preliminary']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /preˈmiəriəri/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Occurring [before](/en/post/before/) [something](/en/post/something/) [else](/en/post/else/); preparatory. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [preliminary](/en/post/preliminary/) meetings were held [last](/en/post/last/) [week](/en/post/week/)."
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [preliminary](/en/post/preliminary/) [stage](/en/post/stage/) [or](/en/post/or/) [event](/en/post/event/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [preliminary](/en/post/preliminary/) exams are scheduled [for](/en/post/for/) [next](/en/post/next/) [month](/en/post/month/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [prepare](/en/post/prepare/) [or](/en/post/or/) [make](/en/post/make/) [ready](/en/post/ready/) ([usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) [sense](/en/post/sense/)). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [preliminary](/en/post/preliminary/) discussed [the](/en/post/the/) agenda [for](/en/post/for/) [the](/en/post/the/) [conference](/en/post/conference/)."
+- **[Adjective](/post/adjective/)**: 1. Occurring [before](/post/before/) [something](/post/something/) [else](/post/else/); preparatory. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [preliminary](/post/preliminary/) meetings were held [last](/post/last/) [week](/post/week/)."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [preliminary](/post/preliminary/) [stage](/post/stage/) [or](/post/or/) [event](/post/event/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [preliminary](/post/preliminary/) exams are scheduled [for](/post/for/) [next](/post/next/) [month](/post/month/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [prepare](/post/prepare/) [or](/post/or/) [make](/post/make/) [ready](/post/ready/) ([usually](/post/usually/) [in](/post/in/) [a](/post/a/) [formal](/post/formal/) [sense](/post/sense/)). [For](/post/for/) [example](/post/example/): "[They](/post/they/) [preliminary](/post/preliminary/) discussed [the](/post/the/) agenda [for](/post/for/) [the](/post/the/) [conference](/post/conference/)."
 
 ## Phrases
-- "[Preliminary](/en/post/preliminary/) proceedings" refers [to](/en/post/to/) [the](/en/post/the/) [initial](/en/post/initial/) steps [or](/en/post/or/) actions taken [before](/en/post/before/) [the](/en/post/the/) [main](/en/post/main/) [event](/en/post/event/).
-- "[Complete](/en/post/complete/) [the](/en/post/the/) [preliminary](/en/post/preliminary/) tasks" [means](/en/post/means/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) groundwork [before](/en/post/before/) moving [on](/en/post/on/).
-- "[In](/en/post/in/) [preparation](/en/post/preparation/) [for](/en/post/for/) [the](/en/post/the/) [main](/en/post/main/) [event](/en/post/event/), [they](/en/post/they/) held [preliminary](/en/post/preliminary/) [training](/en/post/training/) sessions."
+- "[Preliminary](/post/preliminary/) proceedings" refers [to](/post/to/) [the](/post/the/) [initial](/post/initial/) steps [or](/post/or/) actions taken [before](/post/before/) [the](/post/the/) [main](/post/main/) [event](/post/event/).
+- "[Complete](/post/complete/) [the](/post/the/) [preliminary](/post/preliminary/) tasks" [means](/post/means/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) groundwork [before](/post/before/) moving [on](/post/on/).
+- "[In](/post/in/) [preparation](/post/preparation/) [for](/post/for/) [the](/post/the/) [main](/post/main/) [event](/post/event/), [they](/post/they/) held [preliminary](/post/preliminary/) [training](/post/training/) sessions."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [team](/en/post/team/) is working [on](/en/post/on/) [the](/en/post/the/) [preliminary](/en/post/preliminary/) designs [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/)."
-- **[Noun](/en/post/noun/)**: "Students [must](/en/post/must/) [pass](/en/post/pass/) [their](/en/post/their/) [preliminary](/en/post/preliminary/) exams [to](/en/post/to/) [advance](/en/post/advance/) [to](/en/post/to/) [the](/en/post/the/) [next](/en/post/next/) [level](/en/post/level/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [professor](/en/post/professor/) asked [us](/en/post/us/) [to](/en/post/to/) [preliminary](/en/post/preliminary/) [review](/en/post/review/) [the](/en/post/the/) [course](/en/post/course/) materials."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [team](/post/team/) is working [on](/post/on/) [the](/post/the/) [preliminary](/post/preliminary/) designs [for](/post/for/) [the](/post/the/) [new](/post/new/) [project](/post/project/)."
+- **[Noun](/post/noun/)**: "Students [must](/post/must/) [pass](/post/pass/) [their](/post/their/) [preliminary](/post/preliminary/) exams [to](/post/to/) [advance](/post/advance/) [to](/post/to/) [the](/post/the/) [next](/post/next/) [level](/post/level/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [professor](/post/professor/) asked [us](/post/us/) [to](/post/to/) [preliminary](/post/preliminary/) [review](/post/review/) [the](/post/the/) [course](/post/course/) materials."
 
 ## Synonyms
-- [Initial](/en/post/initial/)
+- [Initial](/post/initial/)
 - Preparatory
 - Introductory
 - Formative
 - Procedural
-- [Basic](/en/post/basic/)
-- [Outline](/en/post/outline/)
+- [Basic](/post/basic/)
+- [Outline](/post/outline/)
 - Antecedent
 
 ## Related Words
-- Antecedent ([noun](/en/post/noun/), referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) comes [before](/en/post/before/))
-- [Advance](/en/post/advance/) ([verb](/en/post/verb/), related [to](/en/post/to/) moving [forward](/en/post/forward/) [after](/en/post/after/) [preliminary](/en/post/preliminary/) steps)
-- [Prepare](/en/post/prepare/) ([verb](/en/post/verb/), [a](/en/post/a/) broader [term](/en/post/term/) [than](/en/post/than/) [preliminary](/en/post/preliminary/) [preparation](/en/post/preparation/))
+- Antecedent ([noun](/post/noun/), referring [to](/post/to/) [something](/post/something/) [that](/post/that/) comes [before](/post/before/))
+- [Advance](/post/advance/) ([verb](/post/verb/), related [to](/post/to/) moving [forward](/post/forward/) [after](/post/after/) [preliminary](/post/preliminary/) steps)
+- [Prepare](/post/prepare/) ([verb](/post/verb/), [a](/post/a/) broader [term](/post/term/) [than](/post/than/) [preliminary](/post/preliminary/) [preparation](/post/preparation/))

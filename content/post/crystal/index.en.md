@@ -7,37 +7,37 @@ description = '[ˈkristl] n.水晶，结晶体；晶粒'
 keywords = ['ai words', 'crystal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /krɪˈstæl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Crystal](/en/post/crystal/)**: [A](/en/post/a/) [solid](/en/post/solid/) [form](/en/post/form/) [of](/en/post/of/) [a](/en/post/a/) [chemical](/en/post/chemical/) [compound](/en/post/compound/) [with](/en/post/with/) [a](/en/post/a/) [highly](/en/post/highly/) ordered [atomic](/en/post/atomic/) [structure](/en/post/structure/), typically having [a](/en/post/a/) repeating [pattern](/en/post/pattern/) [of](/en/post/of/) three-dimensional symmetry, [and](/en/post/and/) [often](/en/post/often/) exhibiting [optical](/en/post/optical/) transparency [or](/en/post/or/) piezoelectric properties. [Example](/en/post/example/): "[The](/en/post/the/) [crystal](/en/post/crystal/) [vase](/en/post/vase/) sparkled [in](/en/post/in/) [the](/en/post/the/) [sunlight](/en/post/sunlight/)."
-2. **Crystalline [structure](/en/post/structure/)**: [A](/en/post/a/) [regular](/en/post/regular/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) atoms [or](/en/post/or/) molecules [in](/en/post/in/) [a](/en/post/a/) [solid](/en/post/solid/). [Example](/en/post/example/): "Quartz has [a](/en/post/a/) hexagonal crystalline [structure](/en/post/structure/)."
-3. **[Crystal](/en/post/crystal/) [ball](/en/post/ball/)**: [A](/en/post/a/) [sphere](/en/post/sphere/) made [of](/en/post/of/) [glass](/en/post/glass/) [or](/en/post/or/) [another](/en/post/another/) [transparent](/en/post/transparent/) [material](/en/post/material/), traditionally [used](/en/post/used/) [for](/en/post/for/) divination [or](/en/post/or/) fortune-telling. [Example](/en/post/example/): "[She](/en/post/she/) gazed [into](/en/post/into/) [her](/en/post/her/) [crystal](/en/post/crystal/) [ball](/en/post/ball/) [for](/en/post/for/) insight."
+### [Noun](/post/noun/)
+1. **[Crystal](/post/crystal/)**: [A](/post/a/) [solid](/post/solid/) [form](/post/form/) [of](/post/of/) [a](/post/a/) [chemical](/post/chemical/) [compound](/post/compound/) [with](/post/with/) [a](/post/a/) [highly](/post/highly/) ordered [atomic](/post/atomic/) [structure](/post/structure/), typically having [a](/post/a/) repeating [pattern](/post/pattern/) [of](/post/of/) three-dimensional symmetry, [and](/post/and/) [often](/post/often/) exhibiting [optical](/post/optical/) transparency [or](/post/or/) piezoelectric properties. [Example](/post/example/): "[The](/post/the/) [crystal](/post/crystal/) [vase](/post/vase/) sparkled [in](/post/in/) [the](/post/the/) [sunlight](/post/sunlight/)."
+2. **Crystalline [structure](/post/structure/)**: [A](/post/a/) [regular](/post/regular/) [arrangement](/post/arrangement/) [of](/post/of/) atoms [or](/post/or/) molecules [in](/post/in/) [a](/post/a/) [solid](/post/solid/). [Example](/post/example/): "Quartz has [a](/post/a/) hexagonal crystalline [structure](/post/structure/)."
+3. **[Crystal](/post/crystal/) [ball](/post/ball/)**: [A](/post/a/) [sphere](/post/sphere/) made [of](/post/of/) [glass](/post/glass/) [or](/post/or/) [another](/post/another/) [transparent](/post/transparent/) [material](/post/material/), traditionally [used](/post/used/) [for](/post/for/) divination [or](/post/or/) fortune-telling. [Example](/post/example/): "[She](/post/she/) gazed [into](/post/into/) [her](/post/her/) [crystal](/post/crystal/) [ball](/post/ball/) [for](/post/for/) insight."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [form](/en/post/form/) [or](/en/post/or/) [be](/en/post/be/) [in](/en/post/in/) [the](/en/post/the/) [form](/en/post/form/) [of](/en/post/of/) [a](/en/post/a/) [crystal](/en/post/crystal/). [Example](/en/post/example/): "[The](/en/post/the/) [water](/en/post/water/) froze, forming [a](/en/post/a/) [beautiful](/en/post/beautiful/) [crystal](/en/post/crystal/) icicle."
-2. (crystallize) [To](/en/post/to/) [clarify](/en/post/clarify/) [or](/en/post/or/) solidify thoughts [or](/en/post/or/) ideas [into](/en/post/into/) [a](/en/post/a/) [clear](/en/post/clear/) [form](/en/post/form/). [Example](/en/post/example/): "[His](/en/post/his/) plans crystallized [after](/en/post/after/) [much](/en/post/much/) contemplation."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [form](/post/form/) [or](/post/or/) [be](/post/be/) [in](/post/in/) [the](/post/the/) [form](/post/form/) [of](/post/of/) [a](/post/a/) [crystal](/post/crystal/). [Example](/post/example/): "[The](/post/the/) [water](/post/water/) froze, forming [a](/post/a/) [beautiful](/post/beautiful/) [crystal](/post/crystal/) icicle."
+2. (crystallize) [To](/post/to/) [clarify](/post/clarify/) [or](/post/or/) solidify thoughts [or](/post/or/) ideas [into](/post/into/) [a](/post/a/) [clear](/post/clear/) [form](/post/form/). [Example](/post/example/): "[His](/post/his/) plans crystallized [after](/post/after/) [much](/post/much/) contemplation."
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [crystal](/en/post/crystal/); having [a](/en/post/a/) crystalline [structure](/en/post/structure/) [or](/en/post/or/) [appearance](/en/post/appearance/). [Example](/en/post/example/): "[Her](/en/post/her/) jewelry was adorned [with](/en/post/with/) [delicate](/en/post/delicate/) [crystal](/en/post/crystal/) accents."
-2. [Transparent](/en/post/transparent/) [and](/en/post/and/) [usually](/en/post/usually/) having [a](/en/post/a/) [smooth](/en/post/smooth/), shining [surface](/en/post/surface/). [Example](/en/post/example/): "[The](/en/post/the/) [clear](/en/post/clear/) [crystal](/en/post/crystal/) [bowl](/en/post/bowl/) reflected [the](/en/post/the/) colorful lights."
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [crystal](/post/crystal/); having [a](/post/a/) crystalline [structure](/post/structure/) [or](/post/or/) [appearance](/post/appearance/). [Example](/post/example/): "[Her](/post/her/) jewelry was adorned [with](/post/with/) [delicate](/post/delicate/) [crystal](/post/crystal/) accents."
+2. [Transparent](/post/transparent/) [and](/post/and/) [usually](/post/usually/) having [a](/post/a/) [smooth](/post/smooth/), shining [surface](/post/surface/). [Example](/post/example/): "[The](/post/the/) [clear](/post/clear/) [crystal](/post/crystal/) [bowl](/post/bowl/) reflected [the](/post/the/) colorful lights."
 
 ## Phrases
-- "[Form](/en/post/form/) [a](/en/post/a/) [crystal](/en/post/crystal/) [structure](/en/post/structure/)"
-- "[A](/en/post/a/) crystal-clear [solution](/en/post/solution/)"
-- "[Grow](/en/post/grow/) crystals [in](/en/post/in/) [a](/en/post/a/) [laboratory](/en/post/laboratory/)"
-- "[A](/en/post/a/) [crystal](/en/post/crystal/) [of](/en/post/of/) [knowledge](/en/post/knowledge/)"
+- "[Form](/post/form/) [a](/post/a/) [crystal](/post/crystal/) [structure](/post/structure/)"
+- "[A](/post/a/) crystal-clear [solution](/post/solution/)"
+- "[Grow](/post/grow/) crystals [in](/post/in/) [a](/post/a/) [laboratory](/post/laboratory/)"
+- "[A](/post/a/) [crystal](/post/crystal/) [of](/post/of/) [knowledge](/post/knowledge/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) geologist studied [the](/en/post/the/) [crystal](/en/post/crystal/) [formation](/en/post/formation/) [in](/en/post/in/) [the](/en/post/the/) [rock](/en/post/rock/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [water](/en/post/water/) [slowly](/en/post/slowly/) crystallized [into](/en/post/into/) [ice](/en/post/ice/) cubes [in](/en/post/in/) [the](/en/post/the/) freezer."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [crystal](/en/post/crystal/) chandelier added elegance [to](/en/post/to/) [the](/en/post/the/) ballroom."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) geologist studied [the](/post/the/) [crystal](/post/crystal/) [formation](/post/formation/) [in](/post/in/) [the](/post/the/) [rock](/post/rock/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [water](/post/water/) [slowly](/post/slowly/) crystallized [into](/post/into/) [ice](/post/ice/) cubes [in](/post/in/) [the](/post/the/) freezer."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [crystal](/post/crystal/) chandelier added elegance [to](/post/to/) [the](/post/the/) ballroom."
 
 ## Synonyms
 - Crystalline
-- [Transparent](/en/post/transparent/)
+- [Transparent](/post/transparent/)
 - Glassy
 - Solidified
 - Crystallization

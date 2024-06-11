@@ -7,32 +7,32 @@ description = '[kjuːb] n.立方形；立方'
 keywords = ['ai words', 'cube']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkjuːb/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [solid](/en/post/solid/) geometric [shape](/en/post/shape/) [with](/en/post/with/) [six](/en/post/six/) [square](/en/post/square/) faces, [usually](/en/post/usually/) [three](/en/post/three/) dimensions, [and](/en/post/and/) [eight](/en/post/eight/) vertices. **[Example](/en/post/example/)**: [The](/en/post/the/) Rubik's [Cube](/en/post/cube/) is [a](/en/post/a/) [popular](/en/post/popular/) [toy](/en/post/toy/) made [up](/en/post/up/) [of](/en/post/of/) smaller cubes.
-2. [A](/en/post/a/) [regular](/en/post/regular/) hexahedron, [the](/en/post/the/) three-dimensional analog [of](/en/post/of/) [a](/en/post/a/) [square](/en/post/square/). **[Example](/en/post/example/)**: [The](/en/post/the/) [volume](/en/post/volume/) [of](/en/post/of/) [a](/en/post/a/) [cube](/en/post/cube/) is calculated [by](/en/post/by/) multiplying [the](/en/post/the/) [length](/en/post/length/) [of](/en/post/of/) [one](/en/post/one/) [side](/en/post/side/) cubed.
+### [Noun](/post/noun/)
+1. [A](/post/a/) [solid](/post/solid/) geometric [shape](/post/shape/) [with](/post/with/) [six](/post/six/) [square](/post/square/) faces, [usually](/post/usually/) [three](/post/three/) dimensions, [and](/post/and/) [eight](/post/eight/) vertices. **[Example](/post/example/)**: [The](/post/the/) Rubik's [Cube](/post/cube/) is [a](/post/a/) [popular](/post/popular/) [toy](/post/toy/) made [up](/post/up/) [of](/post/of/) smaller cubes.
+2. [A](/post/a/) [regular](/post/regular/) hexahedron, [the](/post/the/) three-dimensional analog [of](/post/of/) [a](/post/a/) [square](/post/square/). **[Example](/post/example/)**: [The](/post/the/) [volume](/post/volume/) [of](/post/of/) [a](/post/a/) [cube](/post/cube/) is calculated [by](/post/by/) multiplying [the](/post/the/) [length](/post/length/) [of](/post/of/) [one](/post/one/) [side](/post/side/) cubed.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [form](/en/post/form/) [or](/en/post/or/) [represent](/en/post/represent/) [a](/en/post/a/) [cube](/en/post/cube/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [digital](/en/post/digital/) context. **[Example](/en/post/example/)**: [The](/en/post/the/) software generates [a](/en/post/a/) 3D [cube](/en/post/cube/) [model](/en/post/model/).
-2. [To](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) [present](/en/post/present/) items [in](/en/post/in/) [a](/en/post/a/) [cubic](/en/post/cubic/) [or](/en/post/or/) box-like [formation](/en/post/formation/). **[Example](/en/post/example/)**: [She](/en/post/she/) arranged [the](/en/post/the/) books [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/) [in](/en/post/in/) [neat](/en/post/neat/) cubes.
+### [Verb](/post/verb/)
+1. [To](/post/to/) [form](/post/form/) [or](/post/or/) [represent](/post/represent/) [a](/post/a/) [cube](/post/cube/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [digital](/post/digital/) context. **[Example](/post/example/)**: [The](/post/the/) software generates [a](/post/a/) 3D [cube](/post/cube/) [model](/post/model/).
+2. [To](/post/to/) [arrange](/post/arrange/) [or](/post/or/) [present](/post/present/) items [in](/post/in/) [a](/post/a/) [cubic](/post/cubic/) [or](/post/or/) box-like [formation](/post/formation/). **[Example](/post/example/)**: [She](/post/she/) arranged [the](/post/the/) books [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/) [in](/post/in/) [neat](/post/neat/) cubes.
 
 ## Phrases
-- "Cube-shaped" [or](/en/post/or/) "[cubic](/en/post/cubic/)"
-- "[A](/en/post/a/) [cube](/en/post/cube/) [of](/en/post/of/) [sugar](/en/post/sugar/)" (referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [size](/en/post/size/))
-- "[Cube](/en/post/cube/) [root](/en/post/root/)" ([mathematics](/en/post/mathematics/))
+- "Cube-shaped" [or](/post/or/) "[cubic](/post/cubic/)"
+- "[A](/post/a/) [cube](/post/cube/) [of](/post/of/) [sugar](/post/sugar/)" (referring [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [size](/post/size/))
+- "[Cube](/post/cube/) [root](/post/root/)" ([mathematics](/post/mathematics/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) architect designed [a](/en/post/a/) [modern](/en/post/modern/) [building](/en/post/building/) [with](/en/post/with/) [a](/en/post/a/) distinctive cube-like facade.
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) solved [the](/en/post/the/) [complex](/en/post/complex/) [puzzle](/en/post/puzzle/) [by](/en/post/by/) rotating [the](/en/post/the/) cube's faces.
-- **Phrasal**: [She](/en/post/she/) placed [a](/en/post/a/) [cube](/en/post/cube/) [of](/en/post/of/) [ice](/en/post/ice/) [in](/en/post/in/) [her](/en/post/her/) [drink](/en/post/drink/) [to](/en/post/to/) [keep](/en/post/keep/) [it](/en/post/it/) [cold](/en/post/cold/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) architect designed [a](/post/a/) [modern](/post/modern/) [building](/post/building/) [with](/post/with/) [a](/post/a/) distinctive cube-like facade.
+- **[Verb](/post/verb/)**: [He](/post/he/) solved [the](/post/the/) [complex](/post/complex/) [puzzle](/post/puzzle/) [by](/post/by/) rotating [the](/post/the/) cube's faces.
+- **Phrasal**: [She](/post/she/) placed [a](/post/a/) [cube](/post/cube/) [of](/post/of/) [ice](/post/ice/) [in](/post/in/) [her](/post/her/) [drink](/post/drink/) [to](/post/to/) [keep](/post/keep/) [it](/post/it/) [cold](/post/cold/).
 
 ## Synonyms
-- [Solid](/en/post/solid/)
+- [Solid](/post/solid/)
 - Cuboid
 - Hexahedron
 - Cube-shaped
 - Cubical
-- [Cubic](/en/post/cubic/) [volume](/en/post/volume/)
+- [Cubic](/post/cubic/) [volume](/post/volume/)

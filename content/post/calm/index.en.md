@@ -7,27 +7,27 @@ description = '[kɑːm] a.静的，平静的'
 keywords = ['ai words', 'calm']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kæm/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Free](/en/post/free/) [from](/en/post/from/) agitation, disturbance, [or](/en/post/or/) excitement; [peaceful](/en/post/peaceful/); tranquil. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lake](/en/post/lake/) was [calm](/en/post/calm/) [after](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/)." 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) ([something](/en/post/something/)) [quiet](/en/post/quiet/) [or](/en/post/or/) [still](/en/post/still/); [to](/en/post/to/) subdue. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) tried [to](/en/post/to/) [calm](/en/post/calm/) [her](/en/post/her/) crying [child](/en/post/child/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [peaceful](/en/post/peaceful/) [or](/en/post/or/) [quiet](/en/post/quiet/); serenity. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [calm](/en/post/calm/) descended [upon](/en/post/upon/) [the](/en/post/the/) [room](/en/post/room/)."
+- **[Adjective](/post/adjective/)**: 1. [Free](/post/free/) [from](/post/from/) agitation, disturbance, [or](/post/or/) excitement; [peaceful](/post/peaceful/); tranquil. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lake](/post/lake/) was [calm](/post/calm/) [after](/post/after/) [the](/post/the/) [storm](/post/storm/)." 
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) ([something](/post/something/)) [quiet](/post/quiet/) [or](/post/or/) [still](/post/still/); [to](/post/to/) subdue. [For](/post/for/) [example](/post/example/): "[She](/post/she/) tried [to](/post/to/) [calm](/post/calm/) [her](/post/her/) crying [child](/post/child/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [peaceful](/post/peaceful/) [or](/post/or/) [quiet](/post/quiet/); serenity. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [sense](/post/sense/) [of](/post/of/) [calm](/post/calm/) descended [upon](/post/upon/) [the](/post/the/) [room](/post/room/)."
 
 ## Phrases
-- "[Calm](/en/post/calm/) [down](/en/post/down/)" [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) [less](/en/post/less/) agitated [or](/en/post/or/) [upset](/en/post/upset/).
-- "[Calm](/en/post/calm/) seas" is [a](/en/post/a/) metaphor [for](/en/post/for/) [a](/en/post/a/) [peaceful](/en/post/peaceful/) [situation](/en/post/situation/) [or](/en/post/or/) [environment](/en/post/environment/).
-- "[Calm](/en/post/calm/) [influence](/en/post/influence/)" refers [to](/en/post/to/) [a](/en/post/a/) soothing [or](/en/post/or/) stabilizing [effect](/en/post/effect/).
+- "[Calm](/post/calm/) [down](/post/down/)" [means](/post/means/) [to](/post/to/) [become](/post/become/) [less](/post/less/) agitated [or](/post/or/) [upset](/post/upset/).
+- "[Calm](/post/calm/) seas" is [a](/post/a/) metaphor [for](/post/for/) [a](/post/a/) [peaceful](/post/peaceful/) [situation](/post/situation/) [or](/post/or/) [environment](/post/environment/).
+- "[Calm](/post/calm/) [influence](/post/influence/)" refers [to](/post/to/) [a](/post/a/) soothing [or](/post/or/) stabilizing [effect](/post/effect/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [baby](/en/post/baby/) [finally](/en/post/finally/) fell [asleep](/en/post/asleep/), surrounded [by](/en/post/by/) [a](/en/post/a/) [gentle](/en/post/gentle/) [calm](/en/post/calm/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) therapist guided [her](/en/post/her/) clients [to](/en/post/to/) [find](/en/post/find/) [inner](/en/post/inner/) [calm](/en/post/calm/) [during](/en/post/during/) meditation."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [she](/en/post/she/) craved [a](/en/post/a/) [peaceful](/en/post/peaceful/) [evening](/en/post/evening/) [at](/en/post/at/) [home](/en/post/home/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [baby](/post/baby/) [finally](/post/finally/) fell [asleep](/post/asleep/), surrounded [by](/post/by/) [a](/post/a/) [gentle](/post/gentle/) [calm](/post/calm/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) therapist guided [her](/post/her/) clients [to](/post/to/) [find](/post/find/) [inner](/post/inner/) [calm](/post/calm/) [during](/post/during/) meditation."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [she](/post/she/) craved [a](/post/a/) [peaceful](/post/peaceful/) [evening](/post/evening/) [at](/post/at/) [home](/post/home/)."
 
 ## Synonyms
-- [Quiet](/en/post/quiet/)
-- [Still](/en/post/still/)
+- [Quiet](/post/quiet/)
+- [Still](/post/still/)
 - Serene
 - Tranquil
 - Soothing
@@ -35,7 +35,7 @@ keywords = ['ai words', 'calm']
 
 ## Antonyms
 - Agitated
-- [Turbulent](/en/post/turbulent/)
-- [Restless](/en/post/restless/)
+- [Turbulent](/post/turbulent/)
+- [Restless](/post/restless/)
 - Chaotic
 - Disturbed

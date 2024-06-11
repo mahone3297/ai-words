@@ -7,42 +7,42 @@ description = '[ˈbulit] n.枪弹，子弹，弹丸'
 keywords = ['ai words', 'bullet']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbʌlt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [small](/en/post/small/), [usually](/en/post/usually/) metallic, projectile fired [from](/en/post/from/) [a](/en/post/a/) [gun](/en/post/gun/), typically cylindrical [with](/en/post/with/) [a](/en/post/a/) pointed [head](/en/post/head/) [and](/en/post/and/) [a](/en/post/a/) [tail](/en/post/tail/) fin.
-   - [Definition](/en/post/definition/): [A](/en/post/a/) [missile](/en/post/missile/) [or](/en/post/or/) projectile discharged [from](/en/post/from/) [a](/en/post/a/) firearm.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [soldier](/en/post/soldier/) loaded [his](/en/post/his/) [rifle](/en/post/rifle/) [with](/en/post/with/) bullets."
-2. [A](/en/post/a/) [short](/en/post/short/), concise [statement](/en/post/statement/) [or](/en/post/or/) [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/).
-   - [Definition](/en/post/definition/): [A](/en/post/a/) [brief](/en/post/brief/), [important](/en/post/important/) [point](/en/post/point/) [or](/en/post/or/) [fact](/en/post/fact/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [bullet](/en/post/bullet/) points [in](/en/post/in/) [the](/en/post/the/) [report](/en/post/report/) highlight [key](/en/post/key/) achievements."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [small](/post/small/), [usually](/post/usually/) metallic, projectile fired [from](/post/from/) [a](/post/a/) [gun](/post/gun/), typically cylindrical [with](/post/with/) [a](/post/a/) pointed [head](/post/head/) [and](/post/and/) [a](/post/a/) [tail](/post/tail/) fin.
+   - [Definition](/post/definition/): [A](/post/a/) [missile](/post/missile/) [or](/post/or/) projectile discharged [from](/post/from/) [a](/post/a/) firearm.
+   - [Example](/post/example/): "[The](/post/the/) [soldier](/post/soldier/) loaded [his](/post/his/) [rifle](/post/rifle/) [with](/post/with/) bullets."
+2. [A](/post/a/) [short](/post/short/), concise [statement](/post/statement/) [or](/post/or/) [piece](/post/piece/) [of](/post/of/) [information](/post/information/).
+   - [Definition](/post/definition/): [A](/post/a/) [brief](/post/brief/), [important](/post/important/) [point](/post/point/) [or](/post/or/) [fact](/post/fact/).
+   - [Example](/post/example/): "[The](/post/the/) [bullet](/post/bullet/) points [in](/post/in/) [the](/post/the/) [report](/post/report/) highlight [key](/post/key/) achievements."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [fire](/en/post/fire/) [a](/en/post/a/) [bullet](/en/post/bullet/) [or](/en/post/or/) bullets [from](/en/post/from/) [a](/en/post/a/) [weapon](/en/post/weapon/).
-   - [Definition](/en/post/definition/): [Shoot](/en/post/shoot/) ([a](/en/post/a/) [bullet](/en/post/bullet/)) [from](/en/post/from/) [a](/en/post/a/) [gun](/en/post/gun/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) hunter aimed [and](/en/post/and/) [bullet](/en/post/bullet/) [the](/en/post/the/) [bird](/en/post/bird/) [from](/en/post/from/) [the](/en/post/the/) [tree](/en/post/tree/)."
-2. [To](/en/post/to/) [convey](/en/post/convey/) [or](/en/post/or/) [communicate](/en/post/communicate/) [a](/en/post/a/) [message](/en/post/message/) [or](/en/post/or/) [idea](/en/post/idea/) [in](/en/post/in/) [a](/en/post/a/) [direct](/en/post/direct/) [and](/en/post/and/) forceful [manner](/en/post/manner/).
-   - [Definition](/en/post/definition/): [Express](/en/post/express/) [a](/en/post/a/) [thought](/en/post/thought/) [or](/en/post/or/) [idea](/en/post/idea/) [clearly](/en/post/clearly/) [and](/en/post/and/) concisely.
-   - [Example](/en/post/example/): "[Her](/en/post/her/) words were [like](/en/post/like/) bullets, hitting [the](/en/post/the/) [target](/en/post/target/) [with](/en/post/with/) [precision](/en/post/precision/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [fire](/post/fire/) [a](/post/a/) [bullet](/post/bullet/) [or](/post/or/) bullets [from](/post/from/) [a](/post/a/) [weapon](/post/weapon/).
+   - [Definition](/post/definition/): [Shoot](/post/shoot/) ([a](/post/a/) [bullet](/post/bullet/)) [from](/post/from/) [a](/post/a/) [gun](/post/gun/).
+   - [Example](/post/example/): "[The](/post/the/) hunter aimed [and](/post/and/) [bullet](/post/bullet/) [the](/post/the/) [bird](/post/bird/) [from](/post/from/) [the](/post/the/) [tree](/post/tree/)."
+2. [To](/post/to/) [convey](/post/convey/) [or](/post/or/) [communicate](/post/communicate/) [a](/post/a/) [message](/post/message/) [or](/post/or/) [idea](/post/idea/) [in](/post/in/) [a](/post/a/) [direct](/post/direct/) [and](/post/and/) forceful [manner](/post/manner/).
+   - [Definition](/post/definition/): [Express](/post/express/) [a](/post/a/) [thought](/post/thought/) [or](/post/or/) [idea](/post/idea/) [clearly](/post/clearly/) [and](/post/and/) concisely.
+   - [Example](/post/example/): "[Her](/post/her/) words were [like](/post/like/) bullets, hitting [the](/post/the/) [target](/post/target/) [with](/post/with/) [precision](/post/precision/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [bullet](/en/post/bullet/)" [means](/en/post/means/) [to](/en/post/to/) [endure](/en/post/endure/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/) [or](/en/post/or/) [accept](/en/post/accept/) [a](/en/post/a/) [hardship](/en/post/hardship/).
-- "Bulletproof" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) cannot [be](/en/post/be/) [easily](/en/post/easily/) harmed [or](/en/post/or/) penetrated.
-- "[Get](/en/post/get/) [to](/en/post/to/) [the](/en/post/the/) [point](/en/post/point/)" [or](/en/post/or/) "[cut](/en/post/cut/) [to](/en/post/to/) [the](/en/post/the/) [chase](/en/post/chase/)" [can](/en/post/can/) [imply](/en/post/imply/) delivering [a](/en/post/a/) [bullet](/en/post/bullet/) [point](/en/post/point/) [directly](/en/post/directly/).
+- "[Take](/post/take/) [a](/post/a/) [bullet](/post/bullet/)" [means](/post/means/) [to](/post/to/) [endure](/post/endure/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/) [or](/post/or/) [accept](/post/accept/) [a](/post/a/) [hardship](/post/hardship/).
+- "Bulletproof" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) cannot [be](/post/be/) [easily](/post/easily/) harmed [or](/post/or/) penetrated.
+- "[Get](/post/get/) [to](/post/to/) [the](/post/the/) [point](/post/point/)" [or](/post/or/) "[cut](/post/cut/) [to](/post/to/) [the](/post/the/) [chase](/post/chase/)" [can](/post/can/) [imply](/post/imply/) delivering [a](/post/a/) [bullet](/post/bullet/) [point](/post/point/) [directly](/post/directly/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) [hit](/en/post/hit/) [the](/en/post/the/) [target](/en/post/target/) [with](/en/post/with/) [a](/en/post/a/) [single](/en/post/single/) [bullet](/en/post/bullet/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [police](/en/post/police/) [officer](/en/post/officer/) took [aim](/en/post/aim/) [and](/en/post/and/) [bullet](/en/post/bullet/) [the](/en/post/the/) [suspect](/en/post/suspect/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) delivered [her](/en/post/her/) presentation [with](/en/post/with/) well-aimed bullets, making [her](/en/post/her/) points [clear](/en/post/clear/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) [hit](/post/hit/) [the](/post/the/) [target](/post/target/) [with](/post/with/) [a](/post/a/) [single](/post/single/) [bullet](/post/bullet/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [police](/post/police/) [officer](/post/officer/) took [aim](/post/aim/) [and](/post/and/) [bullet](/post/bullet/) [the](/post/the/) [suspect](/post/suspect/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) delivered [her](/post/her/) presentation [with](/post/with/) well-aimed bullets, making [her](/post/her/) points [clear](/post/clear/)."
 
 ## Synonyms
 - Ammunition
-- [Shot](/en/post/shot/)
-- [Missile](/en/post/missile/)
-- [Point](/en/post/point/)
-- [Statement](/en/post/statement/)
-- [Fact](/en/post/fact/)
+- [Shot](/post/shot/)
+- [Missile](/post/missile/)
+- [Point](/post/point/)
+- [Statement](/post/statement/)
+- [Fact](/post/fact/)
 - Essence
-- [Summary](/en/post/summary/)
+- [Summary](/post/summary/)

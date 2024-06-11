@@ -7,28 +7,28 @@ description = '[bəˈluːn] n.气球，玩具气球'
 keywords = ['ai words', 'balloon']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bəˈluːn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[balloon](/en/post/balloon/)** is [a](/en/post/a/) lightweight, [flexible](/en/post/flexible/) [bag](/en/post/bag/) filled [with](/en/post/with/) [gas](/en/post/gas/) [or](/en/post/or/) [air](/en/post/air/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) inflated [and](/en/post/and/) held aloft, typically [for](/en/post/for/) amusement [or](/en/post/or/) [transportation](/en/post/transportation/) purposes. [It](/en/post/it/) is [often](/en/post/often/) made [of](/en/post/of/) [rubber](/en/post/rubber/) [or](/en/post/or/) [a](/en/post/a/) [synthetic](/en/post/synthetic/) [material](/en/post/material/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[balloon](/post/balloon/)** is [a](/post/a/) lightweight, [flexible](/post/flexible/) [bag](/post/bag/) filled [with](/post/with/) [gas](/post/gas/) [or](/post/or/) [air](/post/air/) [that](/post/that/) [can](/post/can/) [be](/post/be/) inflated [and](/post/and/) held aloft, typically [for](/post/for/) amusement [or](/post/or/) [transportation](/post/transportation/) purposes. [It](/post/it/) is [often](/post/often/) made [of](/post/of/) [rubber](/post/rubber/) [or](/post/or/) [a](/post/a/) [synthetic](/post/synthetic/) [material](/post/material/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **inflate** [a](/en/post/a/) [balloon](/en/post/balloon/) is [to](/en/post/to/) [fill](/en/post/fill/) [it](/en/post/it/) [with](/en/post/with/) [air](/en/post/air/) [or](/en/post/or/) [a](/en/post/a/) [gas](/en/post/gas/) [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) [expand](/en/post/expand/) [and](/en/post/and/) [rise](/en/post/rise/). [In](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [rapidly](/en/post/rapidly/) [increase](/en/post/increase/) [in](/en/post/in/) [size](/en/post/size/), popularity, [or](/en/post/or/) [importance](/en/post/importance/).
+### [Verb](/post/verb/)
+[To](/post/to/) **inflate** [a](/post/a/) [balloon](/post/balloon/) is [to](/post/to/) [fill](/post/fill/) [it](/post/it/) [with](/post/with/) [air](/post/air/) [or](/post/or/) [a](/post/a/) [gas](/post/gas/) [to](/post/to/) [make](/post/make/) [it](/post/it/) [expand](/post/expand/) [and](/post/and/) [rise](/post/rise/). [In](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [rapidly](/post/rapidly/) [increase](/post/increase/) [in](/post/in/) [size](/post/size/), popularity, [or](/post/or/) [importance](/post/importance/).
 
-### [Noun](/en/post/noun/) (pl.) & [Verb](/en/post/verb/) (transitive)
-[To](/en/post/to/) **[go](/en/post/go/) [up](/en/post/up/) [a](/en/post/a/) [balloon](/en/post/balloon/)** [or](/en/post/or/) **[rise](/en/post/rise/) [like](/en/post/like/) [a](/en/post/a/) [balloon](/en/post/balloon/)** [means](/en/post/means/) [to](/en/post/to/) ascend [or](/en/post/or/) [move](/en/post/move/) [quickly](/en/post/quickly/) [in](/en/post/in/) [value](/en/post/value/) [or](/en/post/or/) [status](/en/post/status/).
+### [Noun](/post/noun/) (pl.) & [Verb](/post/verb/) (transitive)
+[To](/post/to/) **[go](/post/go/) [up](/post/up/) [a](/post/a/) [balloon](/post/balloon/)** [or](/post/or/) **[rise](/post/rise/) [like](/post/like/) [a](/post/a/) [balloon](/post/balloon/)** [means](/post/means/) [to](/post/to/) ascend [or](/post/or/) [move](/post/move/) [quickly](/post/quickly/) [in](/post/in/) [value](/post/value/) [or](/post/or/) [status](/post/status/).
 
 ## Phrases
-- "[Let](/en/post/let/) [go](/en/post/go/) [of](/en/post/of/) [the](/en/post/the/) [balloon](/en/post/balloon/)" implies releasing [the](/en/post/the/) [grip](/en/post/grip/) [on](/en/post/on/) [a](/en/post/a/) floating [object](/en/post/object/).
-- "[Balloon](/en/post/balloon/) [festival](/en/post/festival/)" is an [event](/en/post/event/) showcasing [various](/en/post/various/) types [of](/en/post/of/) balloons.
-- "[A](/en/post/a/) [hot](/en/post/hot/) [air](/en/post/air/) [balloon](/en/post/balloon/) [ride](/en/post/ride/)" refers [to](/en/post/to/) [a](/en/post/a/) [leisure](/en/post/leisure/) [activity](/en/post/activity/) [where](/en/post/where/) passengers [float](/en/post/float/) [in](/en/post/in/) [a](/en/post/a/) [basket](/en/post/basket/) attached [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/), heated [balloon](/en/post/balloon/).
+- "[Let](/post/let/) [go](/post/go/) [of](/post/of/) [the](/post/the/) [balloon](/post/balloon/)" implies releasing [the](/post/the/) [grip](/post/grip/) [on](/post/on/) [a](/post/a/) floating [object](/post/object/).
+- "[Balloon](/post/balloon/) [festival](/post/festival/)" is an [event](/post/event/) showcasing [various](/post/various/) types [of](/post/of/) balloons.
+- "[A](/post/a/) [hot](/post/hot/) [air](/post/air/) [balloon](/post/balloon/) [ride](/post/ride/)" refers [to](/post/to/) [a](/post/a/) [leisure](/post/leisure/) [activity](/post/activity/) [where](/post/where/) passengers [float](/post/float/) [in](/post/in/) [a](/post/a/) [basket](/post/basket/) attached [to](/post/to/) [a](/post/a/) [large](/post/large/), heated [balloon](/post/balloon/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children's faces lit [up](/en/post/up/) [when](/en/post/when/) [they](/en/post/they/) [saw](/en/post/saw/) [the](/en/post/the/) colorful balloons floating [in](/en/post/in/) [the](/en/post/the/) [sky](/en/post/sky/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) carefully inflated [the](/en/post/the/) [party](/en/post/party/) balloons [before](/en/post/before/) attaching [them](/en/post/them/) [to](/en/post/to/) [the](/en/post/the/) strings."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [stock](/en/post/stock/) [market](/en/post/market/) went [up](/en/post/up/) [a](/en/post/a/) [balloon](/en/post/balloon/) [after](/en/post/after/) [the](/en/post/the/) [company](/en/post/company/) announced [strong](/en/post/strong/) earnings."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children's faces lit [up](/post/up/) [when](/post/when/) [they](/post/they/) [saw](/post/saw/) [the](/post/the/) colorful balloons floating [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) carefully inflated [the](/post/the/) [party](/post/party/) balloons [before](/post/before/) attaching [them](/post/them/) [to](/post/to/) [the](/post/the/) strings."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [stock](/post/stock/) [market](/post/market/) went [up](/post/up/) [a](/post/a/) [balloon](/post/balloon/) [after](/post/after/) [the](/post/the/) [company](/post/company/) announced [strong](/post/strong/) earnings."
 
 ## Synonyms
 - Airship
@@ -38,6 +38,6 @@ keywords = ['ai words', 'balloon']
 - Ascender
 
 ## Antonyms
-- [Descend](/en/post/descend/)
+- [Descend](/post/descend/)
 - Deflate
-- [Sink](/en/post/sink/)
+- [Sink](/post/sink/)

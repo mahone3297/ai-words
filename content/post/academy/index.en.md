@@ -7,25 +7,25 @@ description = '[əˈkædəmi] n.私立中学；专科院校'
 keywords = ['ai words', 'academy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈkædəmi/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [institution](/en/post/institution/) [where](/en/post/where/) students are trained [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/) [or](/en/post/or/) fields, [often](/en/post/often/) [one](/en/post/one/) offering specialized courses [leading](/en/post/leading/) [to](/en/post/to/) [a](/en/post/a/) [degree](/en/post/degree/) [or](/en/post/or/) [professional](/en/post/professional/) qualification. [For](/en/post/for/) [example](/en/post/example/): "She's attending [a](/en/post/a/) prestigious [drama](/en/post/drama/) [academy](/en/post/academy/) [to](/en/post/to/) hone [her](/en/post/her/) acting skills."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) an [academy](/en/post/academy/) [or](/en/post/or/) [academic](/en/post/academic/) [study](/en/post/study/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) academy's [approach](/en/post/approach/) [to](/en/post/to/) [teaching](/en/post/teaching/) blends [theory](/en/post/theory/) [with](/en/post/with/) [practical](/en/post/practical/) [application](/en/post/application/)."
+- **[Noun](/post/noun/)**: An [institution](/post/institution/) [where](/post/where/) students are trained [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/) [or](/post/or/) fields, [often](/post/often/) [one](/post/one/) offering specialized courses [leading](/post/leading/) [to](/post/to/) [a](/post/a/) [degree](/post/degree/) [or](/post/or/) [professional](/post/professional/) qualification. [For](/post/for/) [example](/post/example/): "She's attending [a](/post/a/) prestigious [drama](/post/drama/) [academy](/post/academy/) [to](/post/to/) hone [her](/post/her/) acting skills."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) an [academy](/post/academy/) [or](/post/or/) [academic](/post/academic/) [study](/post/study/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) academy's [approach](/post/approach/) [to](/post/to/) [teaching](/post/teaching/) blends [theory](/post/theory/) [with](/post/with/) [practical](/post/practical/) [application](/post/application/)."
 
 ## Phrases
-- "[Academy](/en/post/academy/) awards" refers [to](/en/post/to/) [the](/en/post/the/) Oscars, [the](/en/post/the/) [annual](/en/post/annual/) awards [ceremony](/en/post/ceremony/) [for](/en/post/for/) cinematic achievements.
-- "[Academy](/en/post/academy/) [of](/en/post/of/) Sciences" denotes [a](/en/post/a/) [learned](/en/post/learned/) [society](/en/post/society/) [that](/en/post/that/) promotes [scientific](/en/post/scientific/) [research](/en/post/research/) [and](/en/post/and/) [development](/en/post/development/).
-- "[Police](/en/post/police/) [academy](/en/post/academy/)" is [a](/en/post/a/) [training](/en/post/training/) [school](/en/post/school/) [for](/en/post/for/) [police](/en/post/police/) officers.
+- "[Academy](/post/academy/) awards" refers [to](/post/to/) [the](/post/the/) Oscars, [the](/post/the/) [annual](/post/annual/) awards [ceremony](/post/ceremony/) [for](/post/for/) cinematic achievements.
+- "[Academy](/post/academy/) [of](/post/of/) Sciences" denotes [a](/post/a/) [learned](/post/learned/) [society](/post/society/) [that](/post/that/) promotes [scientific](/post/scientific/) [research](/post/research/) [and](/post/and/) [development](/post/development/).
+- "[Police](/post/police/) [academy](/post/academy/)" is [a](/post/a/) [training](/post/training/) [school](/post/school/) [for](/post/for/) [police](/post/police/) officers.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) years [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [he](/en/post/he/) [finally](/en/post/finally/) received [his](/en/post/his/) diploma [from](/en/post/from/) [the](/en/post/the/) [music](/en/post/music/) [academy](/en/post/academy/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [academy](/en/post/academy/) professor's [lecture](/en/post/lecture/) [on](/en/post/on/) quantum [physics](/en/post/physics/) was [both](/en/post/both/) insightful [and](/en/post/and/) challenging."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) years [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) [finally](/post/finally/) received [his](/post/his/) diploma [from](/post/from/) [the](/post/the/) [music](/post/music/) [academy](/post/academy/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [academy](/post/academy/) professor's [lecture](/post/lecture/) [on](/post/on/) quantum [physics](/post/physics/) was [both](/post/both/) insightful [and](/post/and/) challenging."
 
 ## Synonyms
-- [Institute](/en/post/institute/)
-- [School](/en/post/school/)
-- [College](/en/post/college/)
-- [University](/en/post/university/)
-- [Faculty](/en/post/faculty/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- [Institute](/post/institute/)
+- [School](/post/school/)
+- [College](/post/college/)
+- [University](/post/university/)
+- [Faculty](/post/faculty/) ([in](/post/in/) [some](/post/some/) contexts)

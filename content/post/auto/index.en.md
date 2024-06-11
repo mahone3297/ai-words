@@ -7,31 +7,31 @@ description = '[ˈɔːtəu] n.(口语)汽车'
 keywords = ['ai words', 'auto']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈoʊtəʊ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) self-propelled [vehicle](/en/post/vehicle/) [with](/en/post/with/) an [internal](/en/post/internal/) combustion [engine](/en/post/engine/), typically having [four](/en/post/four/) wheels [and](/en/post/and/) powered [by](/en/post/by/) [gasoline](/en/post/gasoline/) [or](/en/post/or/) diesel. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [auto](/en/post/auto/) [industry](/en/post/industry/) is crucial [to](/en/post/to/) [our](/en/post/our/) [economy](/en/post/economy/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [operate](/en/post/operate/) [or](/en/post/or/) [drive](/en/post/drive/) [a](/en/post/a/) [motor](/en/post/motor/) [vehicle](/en/post/vehicle/), [especially](/en/post/especially/) an [automobile](/en/post/automobile/). [For](/en/post/for/) [example](/en/post/example/): "I'll auto-pilot [the](/en/post/the/) [car](/en/post/car/) [on](/en/post/on/) [the](/en/post/the/) [highway](/en/post/highway/)."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) involving [automatic](/en/post/automatic/) [control](/en/post/control/) [or](/en/post/or/) processes. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) auto-reply [feature](/en/post/feature/) is [very](/en/post/very/) [convenient](/en/post/convenient/)."
-- **[Pronoun](/en/post/pronoun/)**: Referring [to](/en/post/to/) [oneself](/en/post/oneself/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) [phrase](/en/post/phrase/) "auto-pilot." [For](/en/post/for/) [example](/en/post/example/): "[When](/en/post/when/) I'm [tired](/en/post/tired/), I [tend](/en/post/tend/) [to](/en/post/to/) [go](/en/post/go/) [on](/en/post/on/) auto-pilot."
+- **[Noun](/post/noun/)**: [A](/post/a/) self-propelled [vehicle](/post/vehicle/) [with](/post/with/) an [internal](/post/internal/) combustion [engine](/post/engine/), typically having [four](/post/four/) wheels [and](/post/and/) powered [by](/post/by/) [gasoline](/post/gasoline/) [or](/post/or/) diesel. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [auto](/post/auto/) [industry](/post/industry/) is crucial [to](/post/to/) [our](/post/our/) [economy](/post/economy/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [operate](/post/operate/) [or](/post/or/) [drive](/post/drive/) [a](/post/a/) [motor](/post/motor/) [vehicle](/post/vehicle/), [especially](/post/especially/) an [automobile](/post/automobile/). [For](/post/for/) [example](/post/example/): "I'll auto-pilot [the](/post/the/) [car](/post/car/) [on](/post/on/) [the](/post/the/) [highway](/post/highway/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) involving [automatic](/post/automatic/) [control](/post/control/) [or](/post/or/) processes. [For](/post/for/) [example](/post/example/): "[The](/post/the/) auto-reply [feature](/post/feature/) is [very](/post/very/) [convenient](/post/convenient/)."
+- **[Pronoun](/post/pronoun/)**: Referring [to](/post/to/) [oneself](/post/oneself/), [often](/post/often/) [used](/post/used/) [in](/post/in/) [the](/post/the/) [phrase](/post/phrase/) "auto-pilot." [For](/post/for/) [example](/post/example/): "[When](/post/when/) I'm [tired](/post/tired/), I [tend](/post/tend/) [to](/post/to/) [go](/post/go/) [on](/post/on/) auto-pilot."
 
 ## Phrases
-- "[Drive](/en/post/drive/) an [auto](/en/post/auto/)" [means](/en/post/means/) [to](/en/post/to/) [operate](/en/post/operate/) [a](/en/post/a/) [car](/en/post/car/).
-- "[Auto](/en/post/auto/) [mode](/en/post/mode/)" refers [to](/en/post/to/) [a](/en/post/a/) [setting](/en/post/setting/) [that](/en/post/that/) functions automatically [without](/en/post/without/) [manual](/en/post/manual/) intervention.
-- "Auto-translate" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) translating [text](/en/post/text/) [or](/en/post/or/) [speech](/en/post/speech/) automatically.
+- "[Drive](/post/drive/) an [auto](/post/auto/)" [means](/post/means/) [to](/post/to/) [operate](/post/operate/) [a](/post/a/) [car](/post/car/).
+- "[Auto](/post/auto/) [mode](/post/mode/)" refers [to](/post/to/) [a](/post/a/) [setting](/post/setting/) [that](/post/that/) functions automatically [without](/post/without/) [manual](/post/manual/) intervention.
+- "Auto-translate" is [the](/post/the/) [process](/post/process/) [of](/post/of/) translating [text](/post/text/) [or](/post/or/) [speech](/post/speech/) automatically.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) bought [a](/en/post/a/) [brand](/en/post/brand/) [new](/en/post/new/) [auto](/en/post/auto/) [last](/en/post/last/) [week](/en/post/week/)."
-- **[Verb](/en/post/verb/)**: "I'll auto-start [the](/en/post/the/) [engine](/en/post/engine/) [when](/en/post/when/) I [arrive](/en/post/arrive/) [home](/en/post/home/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [factory](/en/post/factory/) uses auto-guided robots [for](/en/post/for/) [assembly](/en/post/assembly/)."
-- **[Pronoun](/en/post/pronoun/)**: "[She](/en/post/she/) was [just](/en/post/just/) going [through](/en/post/through/) [the](/en/post/the/) motions [on](/en/post/on/) auto-pilot."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) bought [a](/post/a/) [brand](/post/brand/) [new](/post/new/) [auto](/post/auto/) [last](/post/last/) [week](/post/week/)."
+- **[Verb](/post/verb/)**: "I'll auto-start [the](/post/the/) [engine](/post/engine/) [when](/post/when/) I [arrive](/post/arrive/) [home](/post/home/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [factory](/post/factory/) uses auto-guided robots [for](/post/for/) [assembly](/post/assembly/)."
+- **[Pronoun](/post/pronoun/)**: "[She](/post/she/) was [just](/post/just/) going [through](/post/through/) [the](/post/the/) motions [on](/post/on/) auto-pilot."
 
 ## Synonyms
-- [Car](/en/post/car/)
-- [Vehicle](/en/post/vehicle/)
+- [Car](/post/car/)
+- [Vehicle](/post/vehicle/)
 - Motorcar
 - Auto-mobile
 - Self-driven
 - Automated
-- [Automatic](/en/post/automatic/)
+- [Automatic](/post/automatic/)

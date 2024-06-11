@@ -7,41 +7,41 @@ description = '[ˈsəːfis] n.地面，表面；外表'
 keywords = ['ai words', 'surface']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɜːˈfɪs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Surface](/en/post/surface/)**: [The](/en/post/the/) [outer](/en/post/outer/), [usually](/en/post/usually/) [visible](/en/post/visible/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [solid](/en/post/solid/) [or](/en/post/or/) [the](/en/post/the/) [top](/en/post/top/) [layer](/en/post/layer/) [of](/en/post/of/) [a](/en/post/a/) [material](/en/post/material/). [Example](/en/post/example/): "[The](/en/post/the/) [wooden](/en/post/wooden/) table's [surface](/en/post/surface/) was polished [to](/en/post/to/) [a](/en/post/a/) [shine](/en/post/shine/)."
-2. **Interface**: [The](/en/post/the/) [point](/en/post/point/) [where](/en/post/where/) [two](/en/post/two/) things interact [or](/en/post/or/) [connect](/en/post/connect/), [often](/en/post/often/) [in](/en/post/in/) computing [or](/en/post/or/) [technology](/en/post/technology/). [Example](/en/post/example/): "[The](/en/post/the/) [user](/en/post/user/) interface [of](/en/post/of/) [the](/en/post/the/) software was intuitive [and](/en/post/and/) [easy](/en/post/easy/) [to](/en/post/to/) navigate."
-3. **[Surface](/en/post/surface/) [area](/en/post/area/)**: [The](/en/post/the/) [total](/en/post/total/) [area](/en/post/area/) [that](/en/post/that/) is exposed [on](/en/post/on/) [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [a](/en/post/a/) three-dimensional [object](/en/post/object/). [Example](/en/post/example/): "[The](/en/post/the/) [large](/en/post/large/) [garden](/en/post/garden/) had [a](/en/post/a/) [high](/en/post/high/) [surface](/en/post/surface/) [area](/en/post/area/) [for](/en/post/for/) plants [to](/en/post/to/) [grow](/en/post/grow/)."
-4. **[Physical](/en/post/physical/) [appearance](/en/post/appearance/)**: [The](/en/post/the/) [way](/en/post/way/) [something](/en/post/something/) looks [without](/en/post/without/) going deeper [into](/en/post/into/) [its](/en/post/its/) [structure](/en/post/structure/) [or](/en/post/or/) [nature](/en/post/nature/). [Example](/en/post/example/): "[Her](/en/post/her/) [calm](/en/post/calm/) [surface](/en/post/surface/) hid [the](/en/post/the/) turmoil [she](/en/post/she/) was [feeling](/en/post/feeling/) [inside](/en/post/inside/)."
+### [Noun](/post/noun/)
+1. **[Surface](/post/surface/)**: [The](/post/the/) [outer](/post/outer/), [usually](/post/usually/) [visible](/post/visible/) [part](/post/part/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [solid](/post/solid/) [or](/post/or/) [the](/post/the/) [top](/post/top/) [layer](/post/layer/) [of](/post/of/) [a](/post/a/) [material](/post/material/). [Example](/post/example/): "[The](/post/the/) [wooden](/post/wooden/) table's [surface](/post/surface/) was polished [to](/post/to/) [a](/post/a/) [shine](/post/shine/)."
+2. **Interface**: [The](/post/the/) [point](/post/point/) [where](/post/where/) [two](/post/two/) things interact [or](/post/or/) [connect](/post/connect/), [often](/post/often/) [in](/post/in/) computing [or](/post/or/) [technology](/post/technology/). [Example](/post/example/): "[The](/post/the/) [user](/post/user/) interface [of](/post/of/) [the](/post/the/) software was intuitive [and](/post/and/) [easy](/post/easy/) [to](/post/to/) navigate."
+3. **[Surface](/post/surface/) [area](/post/area/)**: [The](/post/the/) [total](/post/total/) [area](/post/area/) [that](/post/that/) is exposed [on](/post/on/) [the](/post/the/) [surface](/post/surface/) [of](/post/of/) [a](/post/a/) three-dimensional [object](/post/object/). [Example](/post/example/): "[The](/post/the/) [large](/post/large/) [garden](/post/garden/) had [a](/post/a/) [high](/post/high/) [surface](/post/surface/) [area](/post/area/) [for](/post/for/) plants [to](/post/to/) [grow](/post/grow/)."
+4. **[Physical](/post/physical/) [appearance](/post/appearance/)**: [The](/post/the/) [way](/post/way/) [something](/post/something/) looks [without](/post/without/) going deeper [into](/post/into/) [its](/post/its/) [structure](/post/structure/) [or](/post/or/) [nature](/post/nature/). [Example](/post/example/): "[Her](/post/her/) [calm](/post/calm/) [surface](/post/surface/) hid [the](/post/the/) turmoil [she](/post/she/) was [feeling](/post/feeling/) [inside](/post/inside/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [cover](/en/post/cover/) [or](/en/post/or/) [coat](/en/post/coat/) [with](/en/post/with/) [a](/en/post/a/) [surface](/en/post/surface/), [as](/en/post/as/) [in](/en/post/in/) [painting](/en/post/painting/) [or](/en/post/or/) finishing. [Example](/en/post/example/): "[The](/en/post/the/) walls were surfaced [with](/en/post/with/) [a](/en/post/a/) [fresh](/en/post/fresh/) [coat](/en/post/coat/) [of](/en/post/of/) [paint](/en/post/paint/)."
-2. (figurative) [To](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [or](/en/post/or/) [address](/en/post/address/) [the](/en/post/the/) [external](/en/post/external/) aspects [or](/en/post/or/) issues [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [surface](/en/post/surface/) [the](/en/post/the/) underlying problems [before](/en/post/before/) moving [forward](/en/post/forward/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [cover](/post/cover/) [or](/post/or/) [coat](/post/coat/) [with](/post/with/) [a](/post/a/) [surface](/post/surface/), [as](/post/as/) [in](/post/in/) [painting](/post/painting/) [or](/post/or/) finishing. [Example](/post/example/): "[The](/post/the/) walls were surfaced [with](/post/with/) [a](/post/a/) [fresh](/post/fresh/) [coat](/post/coat/) [of](/post/of/) [paint](/post/paint/)."
+2. (figurative) [To](/post/to/) [deal](/post/deal/) [with](/post/with/) [or](/post/or/) [address](/post/address/) [the](/post/the/) [external](/post/external/) aspects [or](/post/or/) issues [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [surface](/post/surface/) [the](/post/the/) underlying problems [before](/post/before/) moving [forward](/post/forward/)."
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) located [on](/en/post/on/) [the](/en/post/the/) [surface](/en/post/surface/). [Example](/en/post/example/): "[A](/en/post/a/) [superficial](/en/post/superficial/) [person](/en/post/person/) shows [only](/en/post/only/) [what](/en/post/what/) [they](/en/post/they/) [want](/en/post/want/) others [to](/en/post/to/) [see](/en/post/see/)."
-2. [Flat](/en/post/flat/) [or](/en/post/or/) [level](/en/post/level/). [Example](/en/post/example/): "[The](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [the](/en/post/the/) [lake](/en/post/lake/) was [smooth](/en/post/smooth/) [as](/en/post/as/) [glass](/en/post/glass/)."
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) located [on](/post/on/) [the](/post/the/) [surface](/post/surface/). [Example](/post/example/): "[A](/post/a/) [superficial](/post/superficial/) [person](/post/person/) shows [only](/post/only/) [what](/post/what/) [they](/post/they/) [want](/post/want/) others [to](/post/to/) [see](/post/see/)."
+2. [Flat](/post/flat/) [or](/post/or/) [level](/post/level/). [Example](/post/example/): "[The](/post/the/) [surface](/post/surface/) [of](/post/of/) [the](/post/the/) [lake](/post/lake/) was [smooth](/post/smooth/) [as](/post/as/) [glass](/post/glass/)."
 
 ## Phrases
-- "[Surface](/en/post/surface/) tension" refers [to](/en/post/to/) [the](/en/post/the/) [force](/en/post/force/) [that](/en/post/that/) keeps [water](/en/post/water/) molecules [together](/en/post/together/).
-- "[Surface](/en/post/surface/) properties" [can](/en/post/can/) [describe](/en/post/describe/) [the](/en/post/the/) [chemical](/en/post/chemical/) [or](/en/post/or/) [physical](/en/post/physical/) attributes [of](/en/post/of/) [a](/en/post/a/) material's [outer](/en/post/outer/) [layer](/en/post/layer/).
-- "[Surface](/en/post/surface/) [work](/en/post/work/)" [might](/en/post/might/) [refer](/en/post/refer/) [to](/en/post/to/) tasks done [on](/en/post/on/) [or](/en/post/or/) [at](/en/post/at/) [the](/en/post/the/) [surface](/en/post/surface/) [level](/en/post/level/), [not](/en/post/not/) requiring [depth](/en/post/depth/).
+- "[Surface](/post/surface/) tension" refers [to](/post/to/) [the](/post/the/) [force](/post/force/) [that](/post/that/) keeps [water](/post/water/) molecules [together](/post/together/).
+- "[Surface](/post/surface/) properties" [can](/post/can/) [describe](/post/describe/) [the](/post/the/) [chemical](/post/chemical/) [or](/post/or/) [physical](/post/physical/) attributes [of](/post/of/) [a](/post/a/) material's [outer](/post/outer/) [layer](/post/layer/).
+- "[Surface](/post/surface/) [work](/post/work/)" [might](/post/might/) [refer](/post/refer/) [to](/post/to/) tasks done [on](/post/on/) [or](/post/or/) [at](/post/at/) [the](/post/the/) [surface](/post/surface/) [level](/post/level/), [not](/post/not/) requiring [depth](/post/depth/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) stone's [surface](/en/post/surface/) was [rough](/en/post/rough/) [to](/en/post/to/) [the](/en/post/the/) [touch](/en/post/touch/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) surfaced [the](/en/post/the/) [old](/en/post/old/) memories [when](/en/post/when/) discussing [their](/en/post/their/) [childhood](/en/post/childhood/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) surface-level [response](/en/post/response/) masked [her](/en/post/her/) [true](/en/post/true/) feelings."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) stone's [surface](/post/surface/) was [rough](/post/rough/) [to](/post/to/) [the](/post/the/) [touch](/post/touch/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) surfaced [the](/post/the/) [old](/post/old/) memories [when](/post/when/) discussing [their](/post/their/) [childhood](/post/childhood/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) surface-level [response](/post/response/) masked [her](/post/her/) [true](/post/true/) feelings."
 
 ## Synonyms
-- [Top](/en/post/top/)
-- [Outer](/en/post/outer/) [layer](/en/post/layer/)
-- [Skin](/en/post/skin/)
+- [Top](/post/top/)
+- [Outer](/post/outer/) [layer](/post/layer/)
+- [Skin](/post/skin/)
 - Expanse
 - Epithet
 - Outermost
-- [Exterior](/en/post/exterior/)
+- [Exterior](/post/exterior/)
 - Facade
-- [Outer](/en/post/outer/) [surface](/en/post/surface/)
+- [Outer](/post/outer/) [surface](/post/surface/)

@@ -7,30 +7,30 @@ description = '[ˈnevjuː] n.侄子，外甥'
 keywords = ['ai words', 'nephew']
 +++
 
-## [Word](/en/post/word/): [Nephew](/en/post/nephew/)
+## [Word](/post/word/): [Nephew](/post/nephew/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnefjuː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [son](/en/post/son/) [of](/en/post/of/) one's [brother](/en/post/brother/) [or](/en/post/or/) [sister](/en/post/sister/), [or](/en/post/or/) [a](/en/post/a/) [son](/en/post/son/) [of](/en/post/of/) one's brother-in-law [or](/en/post/or/) sister-in-law; [a](/en/post/a/) [male](/en/post/male/) descendant [in](/en/post/in/) [the](/en/post/the/) [next](/en/post/next/) [generation](/en/post/generation/) [of](/en/post/of/) one's [family](/en/post/family/), excluding one's [own](/en/post/own/) children.
+- **[Noun](/post/noun/)**: [A](/post/a/) [son](/post/son/) [of](/post/of/) one's [brother](/post/brother/) [or](/post/or/) [sister](/post/sister/), [or](/post/or/) [a](/post/a/) [son](/post/son/) [of](/post/of/) one's brother-in-law [or](/post/or/) sister-in-law; [a](/post/a/) [male](/post/male/) descendant [in](/post/in/) [the](/post/the/) [next](/post/next/) [generation](/post/generation/) [of](/post/of/) one's [family](/post/family/), excluding one's [own](/post/own/) children.
 
-[Example](/en/post/example/) Sentences:
-- **[Noun](/en/post/noun/)**: "I was delighted [to](/en/post/to/) [hear](/en/post/hear/) [that](/en/post/that/) [my](/en/post/my/) [nephew](/en/post/nephew/) got accepted [into](/en/post/into/) [his](/en/post/his/) first-choice [university](/en/post/university/)."
-- "[The](/en/post/the/) [little](/en/post/little/) [boy](/en/post/boy/) playing [with](/en/post/with/) [the](/en/post/the/) [toy](/en/post/toy/) [car](/en/post/car/) is [my](/en/post/my/) [nephew](/en/post/nephew/); he's [the](/en/post/the/) [son](/en/post/son/) [of](/en/post/of/) [my](/en/post/my/) eldest [sister](/en/post/sister/)."
-- "[As](/en/post/as/) [the](/en/post/the/) [only](/en/post/only/) [uncle](/en/post/uncle/), it's [my](/en/post/my/) [duty](/en/post/duty/) [to](/en/post/to/) [teach](/en/post/teach/) [my](/en/post/my/) nephews [how](/en/post/how/) [to](/en/post/to/) [play](/en/post/play/) [football](/en/post/football/)."
+[Example](/post/example/) Sentences:
+- **[Noun](/post/noun/)**: "I was delighted [to](/post/to/) [hear](/post/hear/) [that](/post/that/) [my](/post/my/) [nephew](/post/nephew/) got accepted [into](/post/into/) [his](/post/his/) first-choice [university](/post/university/)."
+- "[The](/post/the/) [little](/post/little/) [boy](/post/boy/) playing [with](/post/with/) [the](/post/the/) [toy](/post/toy/) [car](/post/car/) is [my](/post/my/) [nephew](/post/nephew/); he's [the](/post/the/) [son](/post/son/) [of](/post/of/) [my](/post/my/) eldest [sister](/post/sister/)."
+- "[As](/post/as/) [the](/post/the/) [only](/post/only/) [uncle](/post/uncle/), it's [my](/post/my/) [duty](/post/duty/) [to](/post/to/) [teach](/post/teach/) [my](/post/my/) nephews [how](/post/how/) [to](/post/to/) [play](/post/play/) [football](/post/football/)."
 
 ## Phrases
-- "[My](/en/post/my/) [nephew](/en/post/nephew/) [and](/en/post/and/) [niece](/en/post/niece/)" - Refers [to](/en/post/to/) [both](/en/post/both/) [the](/en/post/the/) [male](/en/post/male/) [and](/en/post/and/) [female](/en/post/female/) children [of](/en/post/of/) [a](/en/post/a/) sibling.
-- "[To](/en/post/to/) [be](/en/post/be/) [like](/en/post/like/) [a](/en/post/a/) [father](/en/post/father/)/[mother](/en/post/mother/) [to](/en/post/to/) one's [nephew](/en/post/nephew/)" - [Meaning](/en/post/meaning/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [significant](/en/post/significant/) [influence](/en/post/influence/) [or](/en/post/or/) [guidance](/en/post/guidance/) [role](/en/post/role/) [in](/en/post/in/) [their](/en/post/their/) [life](/en/post/life/) [due](/en/post/due/) [to](/en/post/to/) [absence](/en/post/absence/) [or](/en/post/or/) [need](/en/post/need/).
+- "[My](/post/my/) [nephew](/post/nephew/) [and](/post/and/) [niece](/post/niece/)" - Refers [to](/post/to/) [both](/post/both/) [the](/post/the/) [male](/post/male/) [and](/post/and/) [female](/post/female/) children [of](/post/of/) [a](/post/a/) sibling.
+- "[To](/post/to/) [be](/post/be/) [like](/post/like/) [a](/post/a/) [father](/post/father/)/[mother](/post/mother/) [to](/post/to/) one's [nephew](/post/nephew/)" - [Meaning](/post/meaning/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [significant](/post/significant/) [influence](/post/influence/) [or](/post/or/) [guidance](/post/guidance/) [role](/post/role/) [in](/post/in/) [their](/post/their/) [life](/post/life/) [due](/post/due/) [to](/post/to/) [absence](/post/absence/) [or](/post/or/) [need](/post/need/).
 
-## [Example](/en/post/example/) Sentences
-- "[Being](/en/post/being/) childless, I've taken [on](/en/post/on/) [a](/en/post/a/) parental [role](/en/post/role/) [for](/en/post/for/) [my](/en/post/my/) [nephew](/en/post/nephew/) [since](/en/post/since/) [he](/en/post/he/) was [young](/en/post/young/)."
-- "I'm babysitting [my](/en/post/my/) [nephew](/en/post/nephew/) [while](/en/post/while/) [his](/en/post/his/) parents are [away](/en/post/away/) [on](/en/post/on/) [vacation](/en/post/vacation/)."
+## [Example](/post/example/) Sentences
+- "[Being](/post/being/) childless, I've taken [on](/post/on/) [a](/post/a/) parental [role](/post/role/) [for](/post/for/) [my](/post/my/) [nephew](/post/nephew/) [since](/post/since/) [he](/post/he/) was [young](/post/young/)."
+- "I'm babysitting [my](/post/my/) [nephew](/post/nephew/) [while](/post/while/) [his](/post/his/) parents are [away](/post/away/) [on](/post/on/) [vacation](/post/vacation/)."
 
 ## Synonyms
-- Nibling (gender-neutral [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [niece](/en/post/niece/) [or](/en/post/or/) [nephew](/en/post/nephew/))
-- Relative's [son](/en/post/son/)
+- Nibling (gender-neutral [term](/post/term/) [for](/post/for/) [a](/post/a/) [niece](/post/niece/) [or](/post/or/) [nephew](/post/nephew/))
+- Relative's [son](/post/son/)
 - Sister's/Sibling's offspring
-- Brother's [son](/en/post/son/)
-- [Family](/en/post/family/) [member](/en/post/member/) ([more](/en/post/more/) [general](/en/post/general/))
+- Brother's [son](/post/son/)
+- [Family](/post/family/) [member](/post/member/) ([more](/post/more/) [general](/post/general/))

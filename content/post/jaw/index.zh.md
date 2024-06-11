@@ -11,22 +11,22 @@ keywords = ['ai words', 'jaw']
 /jɔː/
 
 ## 释义
-- **名词 (n)**: 人类或动物的上下颌骨，尤指其中能开合的部分。例如: "[He](/post/he/) broke [his](/post/his/) [jaw](/post/jaw/) [in](/post/in/) [a](/post/a/) skiing [accident](/post/accident/)."
-- **名词**: 口腔的前部，由下颌骨和上颌骨构成的结构。例如: "[She](/post/she/) felt [a](/post/a/) [sharp](/post/sharp/) [pain](/post/pain/) [in](/post/in/) [her](/post/her/) [jaw](/post/jaw/) [while](/post/while/) eating an [apple](/post/apple/)."
-- **动词 (v)**: 用力咬紧或张开下巴。例如: "[The](/post/the/) [dog](/post/dog/) was jawing [on](/post/on/) [a](/post/a/) [large](/post/large/) [bone](/post/bone/)."
+- **名词 (n)**: 人类或动物的上下颌骨，尤指其中能开合的部分。例如: "[He](/zh/post/he/) broke [his](/zh/post/his/) [jaw](/zh/post/jaw/) [in](/zh/post/in/) [a](/zh/post/a/) skiing [accident](/zh/post/accident/)."
+- **名词**: 口腔的前部，由下颌骨和上颌骨构成的结构。例如: "[She](/zh/post/she/) felt [a](/zh/post/a/) [sharp](/zh/post/sharp/) [pain](/zh/post/pain/) [in](/zh/post/in/) [her](/zh/post/her/) [jaw](/zh/post/jaw/) [while](/zh/post/while/) eating an [apple](/zh/post/apple/)."
+- **动词 (v)**: 用力咬紧或张开下巴。例如: "[The](/zh/post/the/) [dog](/zh/post/dog/) was jawing [on](/zh/post/on/) [a](/zh/post/a/) [large](/zh/post/large/) [bone](/zh/post/bone/)."
 
 ## 短语
-- "[Lock](/post/lock/) jaws" 表示上下颌紧闭，无法开口。
-- "[Drop](/post/drop/) one's [jaw](/post/jaw/)" 意味着惊讶到嘴巴张大。
+- "[Lock](/zh/post/lock/) jaws" 表示上下颌紧闭，无法开口。
+- "[Drop](/zh/post/drop/) one's [jaw](/zh/post/jaw/)" 意味着惊讶到嘴巴张大。
 
 ## 例句
-- 名词: "[The](/post/the/) dentist examined [his](/post/his/) patient's [jaw](/post/jaw/) [for](/post/for/) signs [of](/post/of/) infection."
-- 动词: "[The](/post/the/) [baby](/post/baby/) was jawing [on](/post/on/) [its](/post/its/) teething [ring](/post/ring/)."
-- 惊讶时用法: "[When](/post/when/) [she](/post/she/) [saw](/post/saw/) [the](/post/the/) [surprise](/post/surprise/) [party](/post/party/), [she](/post/she/) literally dropped [her](/post/her/) [jaw](/post/jaw/)."
+- 名词: "[The](/zh/post/the/) dentist examined [his](/zh/post/his/) patient's [jaw](/zh/post/jaw/) [for](/zh/post/for/) signs [of](/zh/post/of/) infection."
+- 动词: "[The](/zh/post/the/) [baby](/zh/post/baby/) was jawing [on](/zh/post/on/) [its](/zh/post/its/) teething [ring](/zh/post/ring/)."
+- 惊讶时用法: "[When](/zh/post/when/) [she](/zh/post/she/) [saw](/zh/post/saw/) [the](/zh/post/the/) [surprise](/zh/post/surprise/) [party](/zh/post/party/), [she](/zh/post/she/) literally dropped [her](/zh/post/her/) [jaw](/zh/post/jaw/)."
 
 ## 同义词
 - Mandible
-- [Mouth](/post/mouth/)
+- [Mouth](/zh/post/mouth/)
 - Teeth
 - Muzzle
-- [Chin](/post/chin/) (在某些上下文中）
+- [Chin](/zh/post/chin/) (在某些上下文中）

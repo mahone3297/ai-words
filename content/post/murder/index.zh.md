@@ -11,20 +11,20 @@ keywords = ['ai words', 'murder']
 /mɜːˈdər/
 
 ## 释义
-- **名词**: 故意非法杀害一个人，尤指有预谋的凶杀。例如: "[The](/post/the/) [murderer](/post/murderer/) was sentenced [to](/post/to/) [life](/post/life/) imprisonment."
-- **动词**: 杀害（某人），尤指非法地或蓄意地。例如: "[He](/post/he/) was murdered [in](/post/in/) [his](/post/his/) [own](/post/own/) [home](/post/home/)."
+- **名词**: 故意非法杀害一个人，尤指有预谋的凶杀。例如: "[The](/zh/post/the/) [murderer](/zh/post/murderer/) was sentenced [to](/zh/post/to/) [life](/zh/post/life/) imprisonment."
+- **动词**: 杀害（某人），尤指非法地或蓄意地。例如: "[He](/zh/post/he/) was murdered [in](/zh/post/in/) [his](/zh/post/his/) [own](/zh/post/own/) [home](/zh/post/home/)."
 
 ## 短语
-- "Cold-blooded [murder](/post/murder/)" 指冷静而有预谋的凶杀。
-- "[Murder](/post/murder/) [trial](/post/trial/)" 是指对被指控杀人的人进行的审判。
+- "Cold-blooded [murder](/zh/post/murder/)" 指冷静而有预谋的凶杀。
+- "[Murder](/zh/post/murder/) [trial](/zh/post/trial/)" 是指对被指控杀人的人进行的审判。
 
 ## 例句
-- 名词: "[The](/post/the/) [police](/post/police/) are investigating [a](/post/a/) [murder](/post/murder/) [that](/post/that/) took [place](/post/place/) [last](/post/last/) [night](/post/night/)."
-- 动词: "[She](/post/she/) was murdered [by](/post/by/) [her](/post/her/) [jealous](/post/jealous/) ex-partner."
+- 名词: "[The](/zh/post/the/) [police](/zh/post/police/) are investigating [a](/zh/post/a/) [murder](/zh/post/murder/) [that](/zh/post/that/) took [place](/zh/post/place/) [last](/zh/post/last/) [night](/zh/post/night/)."
+- 动词: "[She](/zh/post/she/) was murdered [by](/zh/post/by/) [her](/zh/post/her/) [jealous](/zh/post/jealous/) ex-partner."
 
 ## 同义词
-- [Kill](/post/kill/)
+- [Kill](/zh/post/kill/)
 - Assassinate
 - Homicide
 - Slay
-- [Execute](/post/execute/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [illegal](/post/illegal/) killing)
+- [Execute](/zh/post/execute/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [illegal](/zh/post/illegal/) killing)

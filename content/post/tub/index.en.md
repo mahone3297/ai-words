@@ -7,35 +7,35 @@ description = '[tʌb] n.桶，盆，浴缸，浴盆'
 keywords = ['ai words', 'tub']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tʌb/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) bathtub [or](/en/post/or/) bathing [tub](/en/post/tub/)**: [A](/en/post/a/) [container](/en/post/container/) [with](/en/post/with/) [water](/en/post/water/) for洗澡 [or](/en/post/or/) bathing, typically made [of](/en/post/of/) porcelain, [plastic](/en/post/plastic/), [or](/en/post/or/) [metal](/en/post/metal/).
-- **[A](/en/post/a/) [container](/en/post/container/) [or](/en/post/or/) [vessel](/en/post/vessel/)**: An old-fashioned [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [large](/en/post/large/), [often](/en/post/often/) cylindrical receptacle, [as](/en/post/as/) [for](/en/post/for/) holding liquids [or](/en/post/or/) serving [as](/en/post/as/) [a](/en/post/a/) [storage](/en/post/storage/) [space](/en/post/space/).
+### [Noun](/post/noun/)
+- **[A](/post/a/) bathtub [or](/post/or/) bathing [tub](/post/tub/)**: [A](/post/a/) [container](/post/container/) [with](/post/with/) [water](/post/water/) for洗澡 [or](/post/or/) bathing, typically made [of](/post/of/) porcelain, [plastic](/post/plastic/), [or](/post/or/) [metal](/post/metal/).
+- **[A](/post/a/) [container](/post/container/) [or](/post/or/) [vessel](/post/vessel/)**: An old-fashioned [term](/post/term/) [for](/post/for/) [a](/post/a/) [large](/post/large/), [often](/post/often/) cylindrical receptacle, [as](/post/as/) [for](/post/for/) holding liquids [or](/post/or/) serving [as](/post/as/) [a](/post/a/) [storage](/post/storage/) [space](/post/space/).
 
-### [Verb](/en/post/verb/) (informal)
-- **[To](/en/post/to/) [fill](/en/post/fill/) [or](/en/post/or/) [empty](/en/post/empty/) [a](/en/post/a/) bathtub**: "I [need](/en/post/need/) [to](/en/post/to/) [tub](/en/post/tub/) [the](/en/post/the/) [bathroom](/en/post/bathroom/) [before](/en/post/before/) guests [arrive](/en/post/arrive/)."
-- **[To](/en/post/to/) [soak](/en/post/soak/) [in](/en/post/in/) [a](/en/post/a/) [bath](/en/post/bath/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [she](/en/post/she/) likes [to](/en/post/to/) [tub](/en/post/tub/) [to](/en/post/to/) [relax](/en/post/relax/)."
+### [Verb](/post/verb/) (informal)
+- **[To](/post/to/) [fill](/post/fill/) [or](/post/or/) [empty](/post/empty/) [a](/post/a/) bathtub**: "I [need](/post/need/) [to](/post/to/) [tub](/post/tub/) [the](/post/the/) [bathroom](/post/bathroom/) [before](/post/before/) guests [arrive](/post/arrive/)."
+- **[To](/post/to/) [soak](/post/soak/) [in](/post/in/) [a](/post/a/) [bath](/post/bath/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [she](/post/she/) likes [to](/post/to/) [tub](/post/tub/) [to](/post/to/) [relax](/post/relax/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [bath](/en/post/bath/) [in](/en/post/in/) [the](/en/post/the/) [tub](/en/post/tub/)" [means](/en/post/means/) [to](/en/post/to/) [bathe](/en/post/bathe/) using [a](/en/post/a/) bathtub.
-- "[Fill](/en/post/fill/) [up](/en/post/up/) [the](/en/post/the/) [tub](/en/post/tub/)" is an [expression](/en/post/expression/) [to](/en/post/to/) [indicate](/en/post/indicate/) filling [a](/en/post/a/) bathtub [with](/en/post/with/) [water](/en/post/water/).
-- "[The](/en/post/the/) [tub](/en/post/tub/) was overflowing" signifies [that](/en/post/that/) [the](/en/post/the/) [water](/en/post/water/) [level](/en/post/level/) [in](/en/post/in/) [the](/en/post/the/) bathtub was [too](/en/post/too/) [high](/en/post/high/).
+- "[Take](/post/take/) [a](/post/a/) [bath](/post/bath/) [in](/post/in/) [the](/post/the/) [tub](/post/tub/)" [means](/post/means/) [to](/post/to/) [bathe](/post/bathe/) using [a](/post/a/) bathtub.
+- "[Fill](/post/fill/) [up](/post/up/) [the](/post/the/) [tub](/post/tub/)" is an [expression](/post/expression/) [to](/post/to/) [indicate](/post/indicate/) filling [a](/post/a/) bathtub [with](/post/with/) [water](/post/water/).
+- "[The](/post/the/) [tub](/post/tub/) was overflowing" signifies [that](/post/that/) [the](/post/the/) [water](/post/water/) [level](/post/level/) [in](/post/in/) [the](/post/the/) bathtub was [too](/post/too/) [high](/post/high/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) scrubbed [the](/en/post/the/) [tub](/en/post/tub/) [clean](/en/post/clean/) [after](/en/post/after/) [her](/en/post/her/) [bath](/en/post/bath/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) kids were excited [to](/en/post/to/) [play](/en/post/play/) [in](/en/post/in/) [the](/en/post/the/) [newly](/en/post/newly/) installed [tub](/en/post/tub/)."
-- **Informal**: "[He](/en/post/he/) decided [to](/en/post/to/) [tub](/en/post/tub/) [before](/en/post/before/) going [to](/en/post/to/) [bed](/en/post/bed/) [tonight](/en/post/tonight/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) scrubbed [the](/post/the/) [tub](/post/tub/) [clean](/post/clean/) [after](/post/after/) [her](/post/her/) [bath](/post/bath/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) kids were excited [to](/post/to/) [play](/post/play/) [in](/post/in/) [the](/post/the/) [newly](/post/newly/) installed [tub](/post/tub/)."
+- **Informal**: "[He](/post/he/) decided [to](/post/to/) [tub](/post/tub/) [before](/post/before/) going [to](/post/to/) [bed](/post/bed/) [tonight](/post/tonight/)."
 
 ## Synonyms
 - Bathtub
-- Bathing [tub](/en/post/tub/)
-- [Basin](/en/post/basin/)
-- [Container](/en/post/container/)
-- [Vessel](/en/post/vessel/)
+- Bathing [tub](/post/tub/)
+- [Basin](/post/basin/)
+- [Container](/post/container/)
+- [Vessel](/post/vessel/)
 
 ## Antonyms
-- [Shower](/en/post/shower/)
-- [Basin](/en/post/basin/) ([as](/en/post/as/) [a](/en/post/a/) [place](/en/post/place/) [to](/en/post/to/) [wash](/en/post/wash/) hands, [not](/en/post/not/) [a](/en/post/a/) bathtub)
+- [Shower](/post/shower/)
+- [Basin](/post/basin/) ([as](/post/as/) [a](/post/a/) [place](/post/place/) [to](/post/to/) [wash](/post/wash/) hands, [not](/post/not/) [a](/post/a/) bathtub)

@@ -7,45 +7,45 @@ description = '[ˈinwəd] a.里面的 ad.向内'
 keywords = ['ai words', 'inward']
 +++
 
-## [Word](/en/post/word/): [Inward](/en/post/inward/)
+## [Word](/post/word/): [Inward](/post/inward/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪnwərd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Directed [or](/en/post/or/) moving towards [the](/en/post/the/) [inside](/en/post/inside/); [interior](/en/post/interior/) [or](/en/post/or/) [internal](/en/post/internal/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [door](/en/post/door/) opened [inward](/en/post/inward/)."
-- **[Adverb](/en/post/adverb/)**: Towards [the](/en/post/the/) [inside](/en/post/inside/); internally. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) turned [inward](/en/post/inward/), [deep](/en/post/deep/) [in](/en/post/in/) [thought](/en/post/thought/)."
-- **[Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: [The](/en/post/the/) [inner](/en/post/inner/) [part](/en/post/part/) [or](/en/post/or/) [aspect](/en/post/aspect/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [inward](/en/post/inward/) workings [of](/en/post/of/) [the](/en/post/the/) [machine](/en/post/machine/)."
+- **[Adjective](/post/adjective/)**: Directed [or](/post/or/) moving towards [the](/post/the/) [inside](/post/inside/); [interior](/post/interior/) [or](/post/or/) [internal](/post/internal/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [door](/post/door/) opened [inward](/post/inward/)."
+- **[Adverb](/post/adverb/)**: Towards [the](/post/the/) [inside](/post/inside/); internally. [For](/post/for/) [example](/post/example/): "[She](/post/she/) turned [inward](/post/inward/), [deep](/post/deep/) [in](/post/in/) [thought](/post/thought/)."
+- **[Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))**: [The](/post/the/) [inner](/post/inner/) [part](/post/part/) [or](/post/or/) [aspect](/post/aspect/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [inward](/post/inward/) workings [of](/post/of/) [the](/post/the/) [machine](/post/machine/)."
 
-### [Adjective](/en/post/adjective/) Definitions [and](/en/post/and/) Examples
-- Describing [something](/en/post/something/) [that](/en/post/that/) is situated [or](/en/post/or/) directed towards [the](/en/post/the/) [inside](/en/post/inside/): "[He](/en/post/he/) took an [inward](/en/post/inward/) [step](/en/post/step/) [to](/en/post/to/) [avoid](/en/post/avoid/) [the](/en/post/the/) swinging [door](/en/post/door/)."
-  - "[There](/en/post/there/) was an [inward](/en/post/inward/) courtyard [where](/en/post/where/) [we](/en/post/we/) [could](/en/post/could/) [sit](/en/post/sit/) [in](/en/post/in/) privacy."
-- Relating [to](/en/post/to/) one's thoughts [or](/en/post/or/) feelings: "An [inward](/en/post/inward/) [sense](/en/post/sense/) [of](/en/post/of/) [peace](/en/post/peace/) washed [over](/en/post/over/) [her](/en/post/her/)."
-  - "[His](/en/post/his/) [inward](/en/post/inward/) [struggle](/en/post/struggle/) [with](/en/post/with/) depression was [not](/en/post/not/) [apparent](/en/post/apparent/) [to](/en/post/to/) others."
+### [Adjective](/post/adjective/) Definitions [and](/post/and/) Examples
+- Describing [something](/post/something/) [that](/post/that/) is situated [or](/post/or/) directed towards [the](/post/the/) [inside](/post/inside/): "[He](/post/he/) took an [inward](/post/inward/) [step](/post/step/) [to](/post/to/) [avoid](/post/avoid/) [the](/post/the/) swinging [door](/post/door/)."
+  - "[There](/post/there/) was an [inward](/post/inward/) courtyard [where](/post/where/) [we](/post/we/) [could](/post/could/) [sit](/post/sit/) [in](/post/in/) privacy."
+- Relating [to](/post/to/) one's thoughts [or](/post/or/) feelings: "An [inward](/post/inward/) [sense](/post/sense/) [of](/post/of/) [peace](/post/peace/) washed [over](/post/over/) [her](/post/her/)."
+  - "[His](/post/his/) [inward](/post/inward/) [struggle](/post/struggle/) [with](/post/with/) depression was [not](/post/not/) [apparent](/post/apparent/) [to](/post/to/) others."
 
-### [Adverb](/en/post/adverb/) Definitions [and](/en/post/and/) Examples
-- Indicating [movement](/en/post/movement/) [or](/en/post/or/) [direction](/en/post/direction/) towards [the](/en/post/the/) [inside](/en/post/inside/): "[She](/en/post/she/) gazed [inward](/en/post/inward/) [at](/en/post/at/) [the](/en/post/the/) bustling [crowd](/en/post/crowd/)."
-  - "[He](/en/post/he/) sighed deeply [and](/en/post/and/) looked [inward](/en/post/inward/), reflecting [on](/en/post/on/) [his](/en/post/his/) [day](/en/post/day/)."
+### [Adverb](/post/adverb/) Definitions [and](/post/and/) Examples
+- Indicating [movement](/post/movement/) [or](/post/or/) [direction](/post/direction/) towards [the](/post/the/) [inside](/post/inside/): "[She](/post/she/) gazed [inward](/post/inward/) [at](/post/at/) [the](/post/the/) bustling [crowd](/post/crowd/)."
+  - "[He](/post/he/) sighed deeply [and](/post/and/) looked [inward](/post/inward/), reflecting [on](/post/on/) [his](/post/his/) [day](/post/day/)."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) [and](/en/post/and/) [Example](/en/post/example/)
-- Referring [to](/en/post/to/) [the](/en/post/the/) [inner](/en/post/inner/) [part](/en/post/part/) [or](/en/post/or/) essence [of](/en/post/of/) [something](/en/post/something/): "[The](/en/post/the/) [inward](/en/post/inward/) [beauty](/en/post/beauty/) [of](/en/post/of/) [the](/en/post/the/) sculpture was revealed [when](/en/post/when/) [the](/en/post/the/) [light](/en/post/light/) [hit](/en/post/hit/) [it](/en/post/it/) [just](/en/post/just/) [right](/en/post/right/)."
-  - "[Understanding](/en/post/understanding/) [the](/en/post/the/) [inward](/en/post/inward/) complexities [of](/en/post/of/) [the](/en/post/the/) [issue](/en/post/issue/) is crucial."
+### [Noun](/post/noun/) [Usage](/post/usage/) [and](/post/and/) [Example](/post/example/)
+- Referring [to](/post/to/) [the](/post/the/) [inner](/post/inner/) [part](/post/part/) [or](/post/or/) essence [of](/post/of/) [something](/post/something/): "[The](/post/the/) [inward](/post/inward/) [beauty](/post/beauty/) [of](/post/of/) [the](/post/the/) sculpture was revealed [when](/post/when/) [the](/post/the/) [light](/post/light/) [hit](/post/hit/) [it](/post/it/) [just](/post/just/) [right](/post/right/)."
+  - "[Understanding](/post/understanding/) [the](/post/the/) [inward](/post/inward/) complexities [of](/post/of/) [the](/post/the/) [issue](/post/issue/) is crucial."
 
 ## Phrases
-- "[Inward](/en/post/inward/) [reflection](/en/post/reflection/)": Introspection [or](/en/post/or/) contemplation [about](/en/post/about/) one's [own](/en/post/own/) thoughts [or](/en/post/or/) emotions.
-- "[Turn](/en/post/turn/) [inward](/en/post/inward/)": [To](/en/post/to/) [focus](/en/post/focus/) [on](/en/post/on/) one's [own](/en/post/own/) thoughts [or](/en/post/or/) feelings [rather](/en/post/rather/) [than](/en/post/than/) [external](/en/post/external/) [surroundings](/en/post/surroundings/).
-- "[Inward](/en/post/inward/) [investment](/en/post/investment/)": [Money](/en/post/money/) invested [within](/en/post/within/) [a](/en/post/a/) [country](/en/post/country/) [by](/en/post/by/) foreigners [or](/en/post/or/) [its](/en/post/its/) [own](/en/post/own/) citizens.
+- "[Inward](/post/inward/) [reflection](/post/reflection/)": Introspection [or](/post/or/) contemplation [about](/post/about/) one's [own](/post/own/) thoughts [or](/post/or/) emotions.
+- "[Turn](/post/turn/) [inward](/post/inward/)": [To](/post/to/) [focus](/post/focus/) [on](/post/on/) one's [own](/post/own/) thoughts [or](/post/or/) feelings [rather](/post/rather/) [than](/post/than/) [external](/post/external/) [surroundings](/post/surroundings/).
+- "[Inward](/post/inward/) [investment](/post/investment/)": [Money](/post/money/) invested [within](/post/within/) [a](/post/a/) [country](/post/country/) [by](/post/by/) foreigners [or](/post/or/) [its](/post/its/) [own](/post/own/) citizens.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [inward](/en/post/inward/) [smile](/en/post/smile/) showed [she](/en/post/she/) was [happy](/en/post/happy/) [despite](/en/post/despite/) [her](/en/post/her/) [outward](/en/post/outward/) [frown](/en/post/frown/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) moved [the](/en/post/the/) bookshelf [slightly](/en/post/slightly/) [inward](/en/post/inward/) [to](/en/post/to/) [make](/en/post/make/) [space](/en/post/space/) [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [painting](/en/post/painting/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [inward](/en/post/inward/) [strength](/en/post/strength/) [she](/en/post/she/) drew [upon](/en/post/upon/) helped [her](/en/post/her/) [overcome](/en/post/overcome/) [the](/en/post/the/) [challenge](/en/post/challenge/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [inward](/post/inward/) [smile](/post/smile/) showed [she](/post/she/) was [happy](/post/happy/) [despite](/post/despite/) [her](/post/her/) [outward](/post/outward/) [frown](/post/frown/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) moved [the](/post/the/) bookshelf [slightly](/post/slightly/) [inward](/post/inward/) [to](/post/to/) [make](/post/make/) [space](/post/space/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [painting](/post/painting/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [inward](/post/inward/) [strength](/post/strength/) [she](/post/she/) drew [upon](/post/upon/) helped [her](/post/her/) [overcome](/post/overcome/) [the](/post/the/) [challenge](/post/challenge/)."
 
 ## Synonyms
-- [Internal](/en/post/internal/)
-- [Interior](/en/post/interior/)
-- [Inside](/en/post/inside/)
-- [Inner](/en/post/inner/)
-- [Core](/en/post/core/)
-- [Centre](/en/post/centre/)
-- [Heart](/en/post/heart/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- [Internal](/post/internal/)
+- [Interior](/post/interior/)
+- [Inside](/post/inside/)
+- [Inner](/post/inner/)
+- [Core](/post/core/)
+- [Centre](/post/centre/)
+- [Heart](/post/heart/) ([in](/post/in/) [some](/post/some/) contexts)

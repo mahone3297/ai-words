@@ -14,16 +14,16 @@ keywords = ['ai words', 'optimistic']
 - **形容词**: 态度乐观的，抱有希望的。指某人倾向于看到事物的积极面，对未来持正面预期。
 
 ## 短语
-- "[to](/post/to/) [be](/post/be/) [optimistic](/post/optimistic/) [about](/post/about/) [something](/post/something/)" 对某事持乐观态度。
-- "an [optimistic](/post/optimistic/) [outlook](/post/outlook/)" 乐观的看法或前景。
+- "[to](/zh/post/to/) [be](/zh/post/be/) [optimistic](/zh/post/optimistic/) [about](/zh/post/about/) [something](/zh/post/something/)" 对某事持乐观态度。
+- "an [optimistic](/zh/post/optimistic/) [outlook](/zh/post/outlook/)" 乐观的看法或前景。
 
 ## 例句
-- "[Despite](/post/despite/) [the](/post/the/) challenges, [she](/post/she/) remained [optimistic](/post/optimistic/) [about](/post/about/) [the](/post/the/) [future](/post/future/) [of](/post/of/) [the](/post/the/) [project](/post/project/)."
-- "[His](/post/his/) [optimistic](/post/optimistic/) personality lifted everyone's spirits [during](/post/during/) [tough](/post/tough/) times."
+- "[Despite](/zh/post/despite/) [the](/zh/post/the/) challenges, [she](/zh/post/she/) remained [optimistic](/zh/post/optimistic/) [about](/zh/post/about/) [the](/zh/post/the/) [future](/zh/post/future/) [of](/zh/post/of/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- "[His](/zh/post/his/) [optimistic](/zh/post/optimistic/) personality lifted everyone's spirits [during](/zh/post/during/) [tough](/zh/post/tough/) times."
 
 ## 同义词
-- [hopeful](/post/hopeful/)
-- [positive](/post/positive/)
+- [hopeful](/zh/post/hopeful/)
+- [positive](/zh/post/positive/)
 - upbeat
 - cheery
 - sanguine

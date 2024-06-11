@@ -12,21 +12,21 @@ keywords = ['ai words', 'residence']
 
 ## 释义
 - **名词**:
-  - 居住地；住所。例如: "[He](/post/he/) has [a](/post/a/) [large](/post/large/) [residence](/post/residence/) [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/)."
-  - （尤指官员或贵族的）府邸，官邸。例如: "[The](/post/the/) ambassador's [residence](/post/residence/) is [in](/post/in/) [the](/post/the/) [heart](/post/heart/) [of](/post/of/) [the](/post/the/) [city](/post/city/)."
+  - 居住地；住所。例如: "[He](/zh/post/he/) has [a](/zh/post/a/) [large](/zh/post/large/) [residence](/zh/post/residence/) [in](/zh/post/in/) [the](/zh/post/the/) [countryside](/zh/post/countryside/)."
+  - （尤指官员或贵族的）府邸，官邸。例如: "[The](/zh/post/the/) ambassador's [residence](/zh/post/residence/) is [in](/zh/post/in/) [the](/zh/post/the/) [heart](/zh/post/heart/) [of](/zh/post/of/) [the](/zh/post/the/) [city](/zh/post/city/)."
 
 ## 短语
-- "[Permanent](/post/permanent/) [residence](/post/residence/)" 永久居住地。
-- "[Summer](/post/summer/) [residence](/post/residence/)" 夏季别墅。
-- "[Residence](/post/residence/) [permit](/post/permit/)" 居留许可。
+- "[Permanent](/zh/post/permanent/) [residence](/zh/post/residence/)" 永久居住地。
+- "[Summer](/zh/post/summer/) [residence](/zh/post/residence/)" 夏季别墅。
+- "[Residence](/zh/post/residence/) [permit](/zh/post/permit/)" 居留许可。
 
 ## 例句
-- 名词: "[After](/post/after/) years [of](/post/of/) [living](/post/living/) [abroad](/post/abroad/), [she](/post/she/) returned [to](/post/to/) [her](/post/her/) [family](/post/family/) [residence](/post/residence/)."
-- "Students are required [to](/post/to/) [live](/post/live/) [in](/post/in/) [college](/post/college/) [residence](/post/residence/) [during](/post/during/) [their](/post/their/) [first](/post/first/) [year](/post/year/)."
+- 名词: "[After](/zh/post/after/) years [of](/zh/post/of/) [living](/zh/post/living/) [abroad](/zh/post/abroad/), [she](/zh/post/she/) returned [to](/zh/post/to/) [her](/zh/post/her/) [family](/zh/post/family/) [residence](/zh/post/residence/)."
+- "Students are required [to](/zh/post/to/) [live](/zh/post/live/) [in](/zh/post/in/) [college](/zh/post/college/) [residence](/zh/post/residence/) [during](/zh/post/during/) [their](/zh/post/their/) [first](/zh/post/first/) [year](/zh/post/year/)."
 
 ## 同义词
-- [Dwelling](/post/dwelling/)
+- [Dwelling](/zh/post/dwelling/)
 - Abode
-- [Home](/post/home/)
-- [House](/post/house/)
-- [Accommodation](/post/accommodation/)
+- [Home](/zh/post/home/)
+- [House](/zh/post/house/)
+- [Accommodation](/zh/post/accommodation/)

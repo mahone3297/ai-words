@@ -7,21 +7,21 @@ description = 'ad.惊人地'
 keywords = ['ai words', 'surprisingly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sərˈprɪzɪŋli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Expressing [that](/en/post/that/) [something](/en/post/something/) happened [in](/en/post/in/) an [unexpected](/en/post/unexpected/) [or](/en/post/or/) [remarkable](/en/post/remarkable/) [manner](/en/post/manner/). [It](/en/post/it/) modifies [a](/en/post/a/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [or](/en/post/or/) [other](/en/post/other/) adverbs. [For](/en/post/for/) [example](/en/post/example/), "[He](/en/post/he/) arrived [surprisingly](/en/post/surprisingly/) [early](/en/post/early/)."
+- **[Adverb](/post/adverb/)**: Expressing [that](/post/that/) [something](/post/something/) happened [in](/post/in/) an [unexpected](/post/unexpected/) [or](/post/or/) [remarkable](/post/remarkable/) [manner](/post/manner/). [It](/post/it/) modifies [a](/post/a/) [verb](/post/verb/), [adjective](/post/adjective/), [or](/post/or/) [other](/post/other/) adverbs. [For](/post/for/) [example](/post/example/), "[He](/post/he/) arrived [surprisingly](/post/surprisingly/) [early](/post/early/)."
 
 ## Phrases
-- "[Surprisingly](/en/post/surprisingly/) [well](/en/post/well/)" indicates [better](/en/post/better/) [than](/en/post/than/) expected.
-- "[Surprisingly](/en/post/surprisingly/) [few](/en/post/few/)" suggests [a](/en/post/a/) smaller [number](/en/post/number/) [than](/en/post/than/) anticipated.
-- "[Not](/en/post/not/) [surprisingly](/en/post/surprisingly/)" implies [that](/en/post/that/) [the](/en/post/the/) [outcome](/en/post/outcome/) was expected [due](/en/post/due/) [to](/en/post/to/) [prior](/en/post/prior/) circumstances.
+- "[Surprisingly](/post/surprisingly/) [well](/post/well/)" indicates [better](/post/better/) [than](/post/than/) expected.
+- "[Surprisingly](/post/surprisingly/) [few](/post/few/)" suggests [a](/post/a/) smaller [number](/post/number/) [than](/post/than/) anticipated.
+- "[Not](/post/not/) [surprisingly](/post/surprisingly/)" implies [that](/post/that/) [the](/post/the/) [outcome](/post/outcome/) was expected [due](/post/due/) [to](/post/to/) [prior](/post/prior/) circumstances.
 
-## [Example](/en/post/example/) Sentences
-- "[Despite](/en/post/despite/) [the](/en/post/the/) [bad](/en/post/bad/) [weather](/en/post/weather/), [she](/en/post/she/) finished [the](/en/post/the/) marathon [surprisingly](/en/post/surprisingly/) [quickly](/en/post/quickly/)."
-- "[The](/en/post/the/) [old](/en/post/old/) man's memory恢复 [surprisingly](/en/post/surprisingly/) [well](/en/post/well/) [after](/en/post/after/) [the](/en/post/the/) [surgery](/en/post/surgery/)."
-- "[The](/en/post/the/) [news](/en/post/news/) [that](/en/post/that/) [they](/en/post/they/) won [the](/en/post/the/) [competition](/en/post/competition/) came [as](/en/post/as/) [a](/en/post/a/) [surprisingly](/en/post/surprisingly/) [pleasant](/en/post/pleasant/) [surprise](/en/post/surprise/)."
+## [Example](/post/example/) Sentences
+- "[Despite](/post/despite/) [the](/post/the/) [bad](/post/bad/) [weather](/post/weather/), [she](/post/she/) finished [the](/post/the/) marathon [surprisingly](/post/surprisingly/) [quickly](/post/quickly/)."
+- "[The](/post/the/) [old](/post/old/) man's memory恢复 [surprisingly](/post/surprisingly/) [well](/post/well/) [after](/post/after/) [the](/post/the/) [surgery](/post/surgery/)."
+- "[The](/post/the/) [news](/post/news/) [that](/post/that/) [they](/post/they/) won [the](/post/the/) [competition](/post/competition/) came [as](/post/as/) [a](/post/a/) [surprisingly](/post/surprisingly/) [pleasant](/post/pleasant/) [surprise](/post/surprise/)."
 
 ## Synonyms
 - Astonishingly
@@ -34,8 +34,8 @@ keywords = ['ai words', 'surprisingly']
 ## Antonyms
 - Predictably
 - Expectedly
-- [Normally](/en/post/normally/)
-- [Naturally](/en/post/naturally/)
+- [Normally](/post/normally/)
+- [Naturally](/post/naturally/)
 - Ordinarily
 
-[Note](/en/post/note/): [The](/en/post/the/) [last](/en/post/last/) [section](/en/post/section/) typically lists antonyms [rather](/en/post/rather/) [than](/en/post/than/) synonyms, [as](/en/post/as/) adverbs [like](/en/post/like/) "[surprisingly](/en/post/surprisingly/)" [do](/en/post/do/) [not](/en/post/not/) [have](/en/post/have/) [direct](/en/post/direct/) [opposite](/en/post/opposite/) words [that](/en/post/that/) [convey](/en/post/convey/) [the](/en/post/the/) [same](/en/post/same/) [meaning](/en/post/meaning/) [but](/en/post/but/) [describe](/en/post/describe/) [the](/en/post/the/) [opposite](/en/post/opposite/) [situation](/en/post/situation/). [Instead](/en/post/instead/), [they](/en/post/they/) [often](/en/post/often/) [contrast](/en/post/contrast/) [with](/en/post/with/) words [that](/en/post/that/) [imply](/en/post/imply/) predictability [or](/en/post/or/) [routine](/en/post/routine/).
+[Note](/post/note/): [The](/post/the/) [last](/post/last/) [section](/post/section/) typically lists antonyms [rather](/post/rather/) [than](/post/than/) synonyms, [as](/post/as/) adverbs [like](/post/like/) "[surprisingly](/post/surprisingly/)" [do](/post/do/) [not](/post/not/) [have](/post/have/) [direct](/post/direct/) [opposite](/post/opposite/) words [that](/post/that/) [convey](/post/convey/) [the](/post/the/) [same](/post/same/) [meaning](/post/meaning/) [but](/post/but/) [describe](/post/describe/) [the](/post/the/) [opposite](/post/opposite/) [situation](/post/situation/). [Instead](/post/instead/), [they](/post/they/) [often](/post/often/) [contrast](/post/contrast/) [with](/post/with/) words [that](/post/that/) [imply](/post/imply/) predictability [or](/post/or/) [routine](/post/routine/).

@@ -11,20 +11,20 @@ keywords = ['ai words', 'together']
 /toɡeðər/
 
 ## 释义
-- **副词**: 意为“一起”，“共同”，“同时”。表示人或事物在空间或时间上的合并或聚集。例如: "[They](/post/they/) worked [together](/post/together/) [on](/post/on/) [the](/post/the/) [project](/post/project/)."
-- **连词**: 连接两个或多个词或短语，表示“和”或“并且”。例如: "[She](/post/she/) likes [coffee](/post/coffee/) [and](/post/and/) [tea](/post/tea/) [together](/post/together/)."
+- **副词**: 意为“一起”，“共同”，“同时”。表示人或事物在空间或时间上的合并或聚集。例如: "[They](/zh/post/they/) worked [together](/zh/post/together/) [on](/zh/post/on/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- **连词**: 连接两个或多个词或短语，表示“和”或“并且”。例如: "[She](/zh/post/she/) likes [coffee](/zh/post/coffee/) [and](/zh/post/and/) [tea](/zh/post/tea/) [together](/zh/post/together/)."
 
 ## 短语
-- "[get](/post/get/) [together](/post/together/)" 意为聚会或相聚。例如: "Let's [get](/post/get/) [together](/post/together/) [for](/post/for/) [dinner](/post/dinner/) [sometime](/post/sometime/)."
-- "[work](/post/work/) [together](/post/together/)" 意为合作。例如: "[The](/post/the/) [two](/post/two/) companies decided [to](/post/to/) [work](/post/work/) [together](/post/together/) [on](/post/on/) [a](/post/a/) [new](/post/new/) [product](/post/product/)."
+- "[get](/zh/post/get/) [together](/zh/post/together/)" 意为聚会或相聚。例如: "Let's [get](/zh/post/get/) [together](/zh/post/together/) [for](/zh/post/for/) [dinner](/zh/post/dinner/) [sometime](/zh/post/sometime/)."
+- "[work](/zh/post/work/) [together](/zh/post/together/)" 意为合作。例如: "[The](/zh/post/the/) [two](/zh/post/two/) companies decided [to](/zh/post/to/) [work](/zh/post/work/) [together](/zh/post/together/) [on](/zh/post/on/) [a](/zh/post/a/) [new](/zh/post/new/) [product](/zh/post/product/)."
 
 ## 例句
-- 副词: "[The](/post/the/) [whole](/post/whole/) [family](/post/family/) sat [together](/post/together/) [at](/post/at/) [the](/post/the/) [dinner](/post/dinner/) [table](/post/table/)."
-- 连词: "[She](/post/she/) ordered [a](/post/a/) [sandwich](/post/sandwich/) [together](/post/together/) [with](/post/with/) [a](/post/a/) [salad](/post/salad/)."
+- 副词: "[The](/zh/post/the/) [whole](/zh/post/whole/) [family](/zh/post/family/) sat [together](/zh/post/together/) [at](/zh/post/at/) [the](/zh/post/the/) [dinner](/zh/post/dinner/) [table](/zh/post/table/)."
+- 连词: "[She](/zh/post/she/) ordered [a](/zh/post/a/) [sandwich](/zh/post/sandwich/) [together](/zh/post/together/) [with](/zh/post/with/) [a](/zh/post/a/) [salad](/zh/post/salad/)."
 
 ## 同义词
 - jointly
 - concurrently
-- [in](/post/in/) unison
-- [along](/post/along/) [with](/post/with/)
-- [as](/post/as/) [well](/post/well/) [as](/post/as/)
+- [in](/zh/post/in/) unison
+- [along](/zh/post/along/) [with](/zh/post/with/)
+- [as](/zh/post/as/) [well](/zh/post/well/) [as](/zh/post/as/)

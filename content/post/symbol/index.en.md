@@ -7,37 +7,37 @@ description = '[ˈsimbəl] n.象征；符号，记号'
 keywords = ['ai words', 'symbol']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈmɪb(ə)l/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) **[symbol](/en/post/symbol/)** is [a](/en/post/a/) [mark](/en/post/mark/), [sign](/en/post/sign/), [or](/en/post/or/) representation [that](/en/post/that/) stands [for](/en/post/for/), represents, [or](/en/post/or/) expresses an [idea](/en/post/idea/), [concept](/en/post/concept/), [or](/en/post/or/) [thing](/en/post/thing/), [often](/en/post/often/) using [a](/en/post/a/) [conventional](/en/post/conventional/) [or](/en/post/or/) [arbitrary](/en/post/arbitrary/) [association](/en/post/association/).
-   - [Example](/en/post/example/): [The](/en/post/the/) [heart](/en/post/heart/) [symbol](/en/post/symbol/) (❤️) is [a](/en/post/a/) [common](/en/post/common/) representation [of](/en/post/of/) [love](/en/post/love/).
-2. [In](/en/post/in/) [mathematics](/en/post/mathematics/) [or](/en/post/or/) [logic](/en/post/logic/), [a](/en/post/a/) **[mathematical](/en/post/mathematical/) [symbol](/en/post/symbol/)** is [a](/en/post/a/) standardized notation [used](/en/post/used/) [to](/en/post/to/) [represent](/en/post/represent/) operations, relations, [or](/en/post/or/) concepts.
-   - [Example](/en/post/example/): [The](/en/post/the/) [plus](/en/post/plus/) (+) [and](/en/post/and/) [minus](/en/post/minus/) (-) symbols [for](/en/post/for/) [arithmetic](/en/post/arithmetic/) operations.
+### [Noun](/post/noun/)
+1. [A](/post/a/) **[symbol](/post/symbol/)** is [a](/post/a/) [mark](/post/mark/), [sign](/post/sign/), [or](/post/or/) representation [that](/post/that/) stands [for](/post/for/), represents, [or](/post/or/) expresses an [idea](/post/idea/), [concept](/post/concept/), [or](/post/or/) [thing](/post/thing/), [often](/post/often/) using [a](/post/a/) [conventional](/post/conventional/) [or](/post/or/) [arbitrary](/post/arbitrary/) [association](/post/association/).
+   - [Example](/post/example/): [The](/post/the/) [heart](/post/heart/) [symbol](/post/symbol/) (❤️) is [a](/post/a/) [common](/post/common/) representation [of](/post/of/) [love](/post/love/).
+2. [In](/post/in/) [mathematics](/post/mathematics/) [or](/post/or/) [logic](/post/logic/), [a](/post/a/) **[mathematical](/post/mathematical/) [symbol](/post/symbol/)** is [a](/post/a/) standardized notation [used](/post/used/) [to](/post/to/) [represent](/post/represent/) operations, relations, [or](/post/or/) concepts.
+   - [Example](/post/example/): [The](/post/the/) [plus](/post/plus/) (+) [and](/post/and/) [minus](/post/minus/) (-) symbols [for](/post/for/) [arithmetic](/post/arithmetic/) operations.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) **symbolize** [or](/en/post/or/) **[represent](/en/post/represent/)** [something](/en/post/something/) [through](/en/post/through/) [a](/en/post/a/) [symbol](/en/post/symbol/) [or](/en/post/or/) [gesture](/en/post/gesture/).
-   - [Example](/en/post/example/): [The](/en/post/the/) [rainbow](/en/post/rainbow/) is [a](/en/post/a/) [symbol](/en/post/symbol/) [of](/en/post/of/) [hope](/en/post/hope/) [after](/en/post/after/) [a](/en/post/a/) [storm](/en/post/storm/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) **symbolize** [or](/post/or/) **[represent](/post/represent/)** [something](/post/something/) [through](/post/through/) [a](/post/a/) [symbol](/post/symbol/) [or](/post/or/) [gesture](/post/gesture/).
+   - [Example](/post/example/): [The](/post/the/) [rainbow](/post/rainbow/) is [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) [hope](/post/hope/) [after](/post/after/) [a](/post/a/) [storm](/post/storm/).
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) using symbols.
-   - [Example](/en/post/example/): [A](/en/post/a/) symbolic [painting](/en/post/painting/).
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) using symbols.
+   - [Example](/post/example/): [A](/post/a/) symbolic [painting](/post/painting/).
 
 ## Phrases
-- "Symbolic [meaning](/en/post/meaning/)" refers [to](/en/post/to/) [the](/en/post/the/) deeper [significance](/en/post/significance/) [of](/en/post/of/) [a](/en/post/a/) [symbol](/en/post/symbol/).
-- "[Alphabet](/en/post/alphabet/) symbols" denote letters [in](/en/post/in/) written languages.
-- "Logo symbolism" refers [to](/en/post/to/) [the](/en/post/the/) [meaning](/en/post/meaning/) [behind](/en/post/behind/) [a](/en/post/a/) company's logo.
+- "Symbolic [meaning](/post/meaning/)" refers [to](/post/to/) [the](/post/the/) deeper [significance](/post/significance/) [of](/post/of/) [a](/post/a/) [symbol](/post/symbol/).
+- "[Alphabet](/post/alphabet/) symbols" denote letters [in](/post/in/) written languages.
+- "Logo symbolism" refers [to](/post/to/) [the](/post/the/) [meaning](/post/meaning/) [behind](/post/behind/) [a](/post/a/) company's logo.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [ancient](/en/post/ancient/) Egyptian hieroglyphs were [a](/en/post/a/) [complex](/en/post/complex/) [system](/en/post/system/) [of](/en/post/of/) symbols.
-- **[Verb](/en/post/verb/)**: [The](/en/post/the/) Olympic rings symbolize [unity](/en/post/unity/) [among](/en/post/among/) nations.
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) intricate [symbol](/en/post/symbol/) [on](/en/post/on/) [her](/en/post/her/) [necklace](/en/post/necklace/) held [great](/en/post/great/) symbolic [value](/en/post/value/) [to](/en/post/to/) [her](/en/post/her/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [ancient](/post/ancient/) Egyptian hieroglyphs were [a](/post/a/) [complex](/post/complex/) [system](/post/system/) [of](/post/of/) symbols.
+- **[Verb](/post/verb/)**: [The](/post/the/) Olympic rings symbolize [unity](/post/unity/) [among](/post/among/) nations.
+- **[Adjective](/post/adjective/)**: [The](/post/the/) intricate [symbol](/post/symbol/) [on](/post/on/) [her](/post/her/) [necklace](/post/necklace/) held [great](/post/great/) symbolic [value](/post/value/) [to](/post/to/) [her](/post/her/).
 
 ## Synonyms
 - Emblem
 - Emblematic
-- [Representative](/en/post/representative/)
-- Emblematic [sign](/en/post/sign/)
-- Emblem [of](/en/post/of/)
+- [Representative](/post/representative/)
+- Emblematic [sign](/post/sign/)
+- Emblem [of](/post/of/)

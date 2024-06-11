@@ -11,21 +11,21 @@ keywords = ['ai words', 'automobile']
 /ˌɔːtəˈmoʊbiːl/
 
 ## 释义
-- **名词** (n): 一种通常由内燃机驱动的四轮交通工具，用于个人或商业运输。例如: "[She](/post/she/) [just](/post/just/) bought [a](/post/a/) [new](/post/new/) [automobile](/post/automobile/) [for](/post/for/) [her](/post/her/) [daily](/post/daily/) commute."
-- **形容词** (adj): 与汽车或机动车辆相关的。例如: "[The](/post/the/) [automobile](/post/automobile/) [industry](/post/industry/) is [a](/post/a/) [major](/post/major/) contributor [to](/post/to/) [the](/post/the/) country's [economy](/post/economy/)."
+- **名词** (n): 一种通常由内燃机驱动的四轮交通工具，用于个人或商业运输。例如: "[She](/zh/post/she/) [just](/zh/post/just/) bought [a](/zh/post/a/) [new](/zh/post/new/) [automobile](/zh/post/automobile/) [for](/zh/post/for/) [her](/zh/post/her/) [daily](/zh/post/daily/) commute."
+- **形容词** (adj): 与汽车或机动车辆相关的。例如: "[The](/zh/post/the/) [automobile](/zh/post/automobile/) [industry](/zh/post/industry/) is [a](/zh/post/a/) [major](/zh/post/major/) contributor [to](/zh/post/to/) [the](/zh/post/the/) country's [economy](/zh/post/economy/)."
 
 ## 短语
-- "Automotive [industry](/post/industry/)" 指的是制造和销售汽车的行业。
-- "[Automobile](/post/automobile/) parts" 包括汽车的所有组件，如引擎、轮胎等。
-- "Self-driving [automobile](/post/automobile/)" 指的是自动驾驶汽车。
+- "Automotive [industry](/zh/post/industry/)" 指的是制造和销售汽车的行业。
+- "[Automobile](/zh/post/automobile/) parts" 包括汽车的所有组件，如引擎、轮胎等。
+- "Self-driving [automobile](/zh/post/automobile/)" 指的是自动驾驶汽车。
 
 ## 例句
-- 名词: "[He](/post/he/) spent [all](/post/all/) [weekend](/post/weekend/) detailing [his](/post/his/) classic [automobile](/post/automobile/)."
-- 形容词: "[The](/post/the/) [automobile](/post/automobile/) [repair](/post/repair/) [shop](/post/shop/) specializes [in](/post/in/) fixing high-end vehicles."
+- 名词: "[He](/zh/post/he/) spent [all](/zh/post/all/) [weekend](/zh/post/weekend/) detailing [his](/zh/post/his/) classic [automobile](/zh/post/automobile/)."
+- 形容词: "[The](/zh/post/the/) [automobile](/zh/post/automobile/) [repair](/zh/post/repair/) [shop](/zh/post/shop/) specializes [in](/zh/post/in/) fixing high-end vehicles."
 
 ## 同义词
-- [Car](/post/car/)
-- [Vehicle](/post/vehicle/)
+- [Car](/zh/post/car/)
+- [Vehicle](/zh/post/vehicle/)
 - Motorcar
-- [Auto](/post/auto/)
+- [Auto](/zh/post/auto/)
 - Sedan (特指轿车)

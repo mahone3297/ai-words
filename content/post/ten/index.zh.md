@@ -8,19 +8,19 @@ keywords = ['ai words', 'ten']
 +++
 
 ## 读音
-/[ten](/post/ten/)/
+/[ten](/zh/post/ten/)/
 
 ## 释义
-- **数词**: 10，表示数字十。例如: "[There](/post/there/) are [ten](/post/ten/) fingers [on](/post/on/) [one](/post/one/) [hand](/post/hand/)."
+- **数词**: 10，表示数字十。例如: "[There](/zh/post/there/) are [ten](/zh/post/ten/) fingers [on](/zh/post/on/) [one](/zh/post/one/) [hand](/zh/post/hand/)."
 
 ## 短语
-- "[Ten](/post/ten/) [of](/post/of/) [something](/post/something/)" 表示某物中的十个。例如: "I [have](/post/have/) [ten](/post/ten/) apples [in](/post/in/) [my](/post/my/) [basket](/post/basket/)."
-- "[Up](/post/up/) [to](/post/to/) [ten](/post/ten/)" 表示从一到十的范围。例如: "[Count](/post/count/) [from](/post/from/) [one](/post/one/) [to](/post/to/) [ten](/post/ten/)."
+- "[Ten](/zh/post/ten/) [of](/zh/post/of/) [something](/zh/post/something/)" 表示某物中的十个。例如: "I [have](/zh/post/have/) [ten](/zh/post/ten/) apples [in](/zh/post/in/) [my](/zh/post/my/) [basket](/zh/post/basket/)."
+- "[Up](/zh/post/up/) [to](/zh/post/to/) [ten](/zh/post/ten/)" 表示从一到十的范围。例如: "[Count](/zh/post/count/) [from](/zh/post/from/) [one](/zh/post/one/) [to](/zh/post/to/) [ten](/zh/post/ten/)."
 
 ## 例句
-- 数词: "[The](/post/the/) [number](/post/number/) [ten](/post/ten/) is an [even](/post/even/) digit."
-- "[She](/post/she/) scored [ten](/post/ten/) points [in](/post/in/) [the](/post/the/) [basketball](/post/basketball/) [game](/post/game/)."
+- 数词: "[The](/zh/post/the/) [number](/zh/post/number/) [ten](/zh/post/ten/) is an [even](/zh/post/even/) digit."
+- "[She](/zh/post/she/) scored [ten](/zh/post/ten/) points [in](/zh/post/in/) [the](/zh/post/the/) [basketball](/zh/post/basketball/) [game](/zh/post/game/)."
 
 ## 同义词
-- [Ten](/post/ten/) [can](/post/can/) [be](/post/be/) replaced [with](/post/with/) "X" [in](/post/in/) Roman numerals.
-- 在某些语境下，"[a](/post/a/) [dozen](/post/dozen/)" 或 "[twice](/post/twice/) [five](/post/five/)" 可以表示十，但通常不作为直接的同义数词使用。
+- [Ten](/zh/post/ten/) [can](/zh/post/can/) [be](/zh/post/be/) replaced [with](/zh/post/with/) "X" [in](/zh/post/in/) Roman numerals.
+- 在某些语境下，"[a](/zh/post/a/) [dozen](/zh/post/dozen/)" 或 "[twice](/zh/post/twice/) [five](/zh/post/five/)" 可以表示十，但通常不作为直接的同义数词使用。

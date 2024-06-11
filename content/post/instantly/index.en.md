@@ -7,33 +7,33 @@ description = '[ˈinstəntli] ad.立即，即刻'
 keywords = ['ai words', 'instantly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈstæntli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Happening [or](/en/post/or/) done [immediately](/en/post/immediately/), [without](/en/post/without/) [any](/en/post/any/) [delay](/en/post/delay/); occurring [or](/en/post/or/) acting [with](/en/post/with/) [great](/en/post/great/) [speed](/en/post/speed/) [or](/en/post/or/) rapidity. 
+- **[Adverb](/post/adverb/)**: Happening [or](/post/or/) done [immediately](/post/immediately/), [without](/post/without/) [any](/post/any/) [delay](/post/delay/); occurring [or](/post/or/) acting [with](/post/with/) [great](/post/great/) [speed](/post/speed/) [or](/post/or/) rapidity. 
 
-[Example](/en/post/example/) [usage](/en/post/usage/):
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [news](/en/post/news/) [spread](/en/post/spread/) [instantly](/en/post/instantly/) [across](/en/post/across/) [social](/en/post/social/) media."
-- "[She](/en/post/she/) recognized [him](/en/post/him/) [instantly](/en/post/instantly/) [when](/en/post/when/) [he](/en/post/he/) walked [into](/en/post/into/) [the](/en/post/the/) [room](/en/post/room/)."
-- "[He](/en/post/he/) responded [instantly](/en/post/instantly/) [to](/en/post/to/) [the](/en/post/the/) [emergency](/en/post/emergency/) [call](/en/post/call/)."
+[Example](/post/example/) [usage](/post/usage/):
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [news](/post/news/) [spread](/post/spread/) [instantly](/post/instantly/) [across](/post/across/) [social](/post/social/) media."
+- "[She](/post/she/) recognized [him](/post/him/) [instantly](/post/instantly/) [when](/post/when/) [he](/post/he/) walked [into](/post/into/) [the](/post/the/) [room](/post/room/)."
+- "[He](/post/he/) responded [instantly](/post/instantly/) [to](/post/to/) [the](/post/the/) [emergency](/post/emergency/) [call](/post/call/)."
 
 ## Phrases
-- "[Instantly](/en/post/instantly/) recognizable": Describing [something](/en/post/something/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) identified [immediately](/en/post/immediately/) [upon](/en/post/upon/) seeing [or](/en/post/or/) hearing [it](/en/post/it/).
-- "[To](/en/post/to/) [act](/en/post/act/) [instantly](/en/post/instantly/)": [To](/en/post/to/) [take](/en/post/take/) [action](/en/post/action/) [without](/en/post/without/) hesitation [or](/en/post/or/) [delay](/en/post/delay/).
-- "[Instantly](/en/post/instantly/) regretted": [Feeling](/en/post/feeling/) [regret](/en/post/regret/) [immediately](/en/post/immediately/) [after](/en/post/after/) doing [something](/en/post/something/).
+- "[Instantly](/post/instantly/) recognizable": Describing [something](/post/something/) [that](/post/that/) [can](/post/can/) [be](/post/be/) identified [immediately](/post/immediately/) [upon](/post/upon/) seeing [or](/post/or/) hearing [it](/post/it/).
+- "[To](/post/to/) [act](/post/act/) [instantly](/post/instantly/)": [To](/post/to/) [take](/post/take/) [action](/post/action/) [without](/post/without/) hesitation [or](/post/or/) [delay](/post/delay/).
+- "[Instantly](/post/instantly/) regretted": [Feeling](/post/feeling/) [regret](/post/regret/) [immediately](/post/immediately/) [after](/post/after/) doing [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[As](/en/post/as/) [soon](/en/post/soon/) [as](/en/post/as/) [the](/en/post/the/) [teacher](/en/post/teacher/) entered, [the](/en/post/the/) students quieted [down](/en/post/down/) [instantly](/en/post/instantly/)."
-- "Seeing [her](/en/post/her/) mother's disappointed [face](/en/post/face/), [she](/en/post/she/) [instantly](/en/post/instantly/) knew [she](/en/post/she/) had made [a](/en/post/a/) [mistake](/en/post/mistake/)."
-- "[The](/en/post/the/) [solution](/en/post/solution/) worked [instantly](/en/post/instantly/), solving [the](/en/post/the/) [problem](/en/post/problem/) [within](/en/post/within/) seconds."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[As](/post/as/) [soon](/post/soon/) [as](/post/as/) [the](/post/the/) [teacher](/post/teacher/) entered, [the](/post/the/) students quieted [down](/post/down/) [instantly](/post/instantly/)."
+- "Seeing [her](/post/her/) mother's disappointed [face](/post/face/), [she](/post/she/) [instantly](/post/instantly/) knew [she](/post/she/) had made [a](/post/a/) [mistake](/post/mistake/)."
+- "[The](/post/the/) [solution](/post/solution/) worked [instantly](/post/instantly/), solving [the](/post/the/) [problem](/post/problem/) [within](/post/within/) seconds."
 
 ## Synonyms
-- [Immediately](/en/post/immediately/)
-- [Straight](/en/post/straight/) [away](/en/post/away/)
+- [Immediately](/post/immediately/)
+- [Straight](/post/straight/) [away](/post/away/)
 - Promptly
-- [Quickly](/en/post/quickly/)
-- [Rapidly](/en/post/rapidly/)
-- [At](/en/post/at/) [once](/en/post/once/)
-- [In](/en/post/in/) an [instant](/en/post/instant/)
-- [Without](/en/post/without/) [delay](/en/post/delay/)
+- [Quickly](/post/quickly/)
+- [Rapidly](/post/rapidly/)
+- [At](/post/at/) [once](/post/once/)
+- [In](/post/in/) an [instant](/post/instant/)
+- [Without](/post/without/) [delay](/post/delay/)

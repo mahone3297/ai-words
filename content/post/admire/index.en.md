@@ -7,33 +7,33 @@ description = '[ədˈmaiə] vt.钦佩，羡慕，赞赏'
 keywords = ['ai words', 'admire']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /adˈmɪr/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [respect](/en/post/respect/) [or](/en/post/or/) admiration [for](/en/post/for/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [because](/en/post/because/) [of](/en/post/of/) [their](/en/post/their/) qualities, achievements, [or](/en/post/or/) [appearance](/en/post/appearance/). 
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) admiring; [a](/en/post/a/) favorable [opinion](/en/post/opinion/) [or](/en/post/or/) appreciation. 
+- **[Verb](/post/verb/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [respect](/post/respect/) [or](/post/or/) admiration [for](/post/for/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [because](/post/because/) [of](/post/of/) [their](/post/their/) qualities, achievements, [or](/post/or/) [appearance](/post/appearance/). 
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) admiring; [a](/post/a/) favorable [opinion](/post/opinion/) [or](/post/or/) appreciation. 
 
 ## Phrases
-- "[Admire](/en/post/admire/) someone's [work](/en/post/work/)" [means](/en/post/means/) [to](/en/post/to/) [appreciate](/en/post/appreciate/) [the](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [skill](/en/post/skill/) [of](/en/post/of/) [their](/en/post/their/) creations.
-- "[To](/en/post/to/) [admire](/en/post/admire/) [someone](/en/post/someone/)" reflects [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [respect](/en/post/respect/) [or](/en/post/or/) appreciation [for](/en/post/for/) [that](/en/post/that/) [person](/en/post/person/).
-- "[She](/en/post/she/) admires [his](/en/post/his/) dedication" highlights [her](/en/post/her/) admiration [for](/en/post/for/) [his](/en/post/his/) commitment.
+- "[Admire](/post/admire/) someone's [work](/post/work/)" [means](/post/means/) [to](/post/to/) [appreciate](/post/appreciate/) [the](/post/the/) [quality](/post/quality/) [or](/post/or/) [skill](/post/skill/) [of](/post/of/) [their](/post/their/) creations.
+- "[To](/post/to/) [admire](/post/admire/) [someone](/post/someone/)" reflects [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [respect](/post/respect/) [or](/post/or/) appreciation [for](/post/for/) [that](/post/that/) [person](/post/person/).
+- "[She](/post/she/) admires [his](/post/his/) dedication" highlights [her](/post/her/) admiration [for](/post/for/) [his](/post/his/) commitment.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [admire](/en/post/admire/) [your](/en/post/your/) perseverance [in](/en/post/in/) pursuing [your](/en/post/your/) dreams."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [art](/en/post/art/) [exhibition](/en/post/exhibition/) received [universal](/en/post/universal/) admiration [from](/en/post/from/) critics [and](/en/post/and/) visitors [alike](/en/post/alike/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[He](/en/post/he/) couldn't [help](/en/post/help/) [but](/en/post/but/) [admire](/en/post/admire/) [the](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) the山顶."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [admire](/post/admire/) [your](/post/your/) perseverance [in](/post/in/) pursuing [your](/post/your/) dreams."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [art](/post/art/) [exhibition](/post/exhibition/) received [universal](/post/universal/) admiration [from](/post/from/) critics [and](/post/and/) visitors [alike](/post/alike/)."
+- **Phrasal [Verb](/post/verb/)**: "[He](/post/he/) couldn't [help](/post/help/) [but](/post/but/) [admire](/post/admire/) [the](/post/the/) [view](/post/view/) [from](/post/from/) the山顶."
 
 ## Synonyms
-- [Respect](/en/post/respect/)
-- [Appreciate](/en/post/appreciate/)
+- [Respect](/post/respect/)
+- [Appreciate](/post/appreciate/)
 - Adulate
-- [Celebrate](/en/post/celebrate/)
-- [Praise](/en/post/praise/)
+- [Celebrate](/post/celebrate/)
+- [Praise](/post/praise/)
 
 ## Antonyms
-- [Dislike](/en/post/dislike/)
-- [Contempt](/en/post/contempt/)
-- [Ignore](/en/post/ignore/)
-- [Criticize](/en/post/criticize/)
-- [Despise](/en/post/despise/)
+- [Dislike](/post/dislike/)
+- [Contempt](/post/contempt/)
+- [Ignore](/post/ignore/)
+- [Criticize](/post/criticize/)
+- [Despise](/post/despise/)

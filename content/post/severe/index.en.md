@@ -7,37 +7,37 @@ description = '[siˈviə] a.严格的；严厉的'
 keywords = ['ai words', 'severe']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪˈvɪər/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Severe](/en/post/severe/) refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [very](/en/post/very/) [harsh](/en/post/harsh/), [strict](/en/post/strict/), [or](/en/post/or/) [intense](/en/post/intense/). 2. Medically, [it](/en/post/it/) [can](/en/post/can/) [describe](/en/post/describe/) [a](/en/post/a/) [condition](/en/post/condition/) [that](/en/post/that/) is [serious](/en/post/serious/) [or](/en/post/or/) [critical](/en/post/critical/). 3. [In](/en/post/in/) [a](/en/post/a/) [social](/en/post/social/) context, [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) unfriendly [or](/en/post/or/) [cold](/en/post/cold/).
-- **[Adverb](/en/post/adverb/)**: [Used](/en/post/used/) [to](/en/post/to/) intensify [the](/en/post/the/) [meaning](/en/post/meaning/) [of](/en/post/of/) an [adjective](/en/post/adjective/) [or](/en/post/or/) [verb](/en/post/verb/), expressing [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/) [of](/en/post/of/) severity. [For](/en/post/for/) [example](/en/post/example/), "[He](/en/post/he/) spoke [severely](/en/post/severely/) [about](/en/post/about/) [the](/en/post/the/) [situation](/en/post/situation/)."
+- **[Adjective](/post/adjective/)**: 1. [Severe](/post/severe/) refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is [very](/post/very/) [harsh](/post/harsh/), [strict](/post/strict/), [or](/post/or/) [intense](/post/intense/). 2. Medically, [it](/post/it/) [can](/post/can/) [describe](/post/describe/) [a](/post/a/) [condition](/post/condition/) [that](/post/that/) is [serious](/post/serious/) [or](/post/or/) [critical](/post/critical/). 3. [In](/post/in/) [a](/post/a/) [social](/post/social/) context, [it](/post/it/) [can](/post/can/) [mean](/post/mean/) unfriendly [or](/post/or/) [cold](/post/cold/).
+- **[Adverb](/post/adverb/)**: [Used](/post/used/) [to](/post/to/) intensify [the](/post/the/) [meaning](/post/meaning/) [of](/post/of/) an [adjective](/post/adjective/) [or](/post/or/) [verb](/post/verb/), expressing [a](/post/a/) [high](/post/high/) [degree](/post/degree/) [of](/post/of/) severity. [For](/post/for/) [example](/post/example/), "[He](/post/he/) spoke [severely](/post/severely/) [about](/post/about/) [the](/post/the/) [situation](/post/situation/)."
 
 ## Phrases
-- "[A](/en/post/a/) [severe](/en/post/severe/) [punishment](/en/post/punishment/)" implies [a](/en/post/a/) [harsh](/en/post/harsh/) penalty.
-- "[Severe](/en/post/severe/) [weather](/en/post/weather/) conditions" denote [extreme](/en/post/extreme/) climatic events.
-- "[He](/en/post/he/) had [a](/en/post/a/) [severe](/en/post/severe/) [headache](/en/post/headache/)" [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [strong](/en/post/strong/) [pain](/en/post/pain/).
+- "[A](/post/a/) [severe](/post/severe/) [punishment](/post/punishment/)" implies [a](/post/a/) [harsh](/post/harsh/) penalty.
+- "[Severe](/post/severe/) [weather](/post/weather/) conditions" denote [extreme](/post/extreme/) climatic events.
+- "[He](/post/he/) had [a](/post/a/) [severe](/post/severe/) [headache](/post/headache/)" [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [strong](/post/strong/) [pain](/post/pain/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) gave [them](/en/post/them/) [a](/en/post/a/) [severe](/en/post/severe/) warning [for](/en/post/for/) [their](/en/post/their/) misbehavior."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) looked [at](/en/post/at/) [him](/en/post/him/) [with](/en/post/with/) [a](/en/post/a/) [severe](/en/post/severe/) [expression](/en/post/expression/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) patient's [condition](/en/post/condition/) was considered [severe](/en/post/severe/) [by](/en/post/by/) [the](/en/post/the/) doctors."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [teacher](/post/teacher/) gave [them](/post/them/) [a](/post/a/) [severe](/post/severe/) warning [for](/post/for/) [their](/post/their/) misbehavior."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) looked [at](/post/at/) [him](/post/him/) [with](/post/with/) [a](/post/a/) [severe](/post/severe/) [expression](/post/expression/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) patient's [condition](/post/condition/) was considered [severe](/post/severe/) [by](/post/by/) [the](/post/the/) doctors."
 
 ## Synonyms
 - Stringent
-- [Harsh](/en/post/harsh/)
+- [Harsh](/post/harsh/)
 - Rigorous
-- [Intense](/en/post/intense/)
-- [Critical](/en/post/critical/)
-- [Severe](/en/post/severe/) consequences
-- [Severe](/en/post/severe/) measures
-- [Severe](/en/post/severe/) penalties
+- [Intense](/post/intense/)
+- [Critical](/post/critical/)
+- [Severe](/post/severe/) consequences
+- [Severe](/post/severe/) measures
+- [Severe](/post/severe/) penalties
 
 ## Antonyms
-- [Mild](/en/post/mild/)
-- [Gentle](/en/post/gentle/)
-- [Light](/en/post/light/)
-- [Moderate](/en/post/moderate/)
-- [Indifferent](/en/post/indifferent/)
+- [Mild](/post/mild/)
+- [Gentle](/post/gentle/)
+- [Light](/post/light/)
+- [Moderate](/post/moderate/)
+- [Indifferent](/post/indifferent/)
 - Merciful

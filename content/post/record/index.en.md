@@ -7,40 +7,40 @@ description = '[ˈrekərd] n.记录；履历 vt.记录'
 keywords = ['ai words', 'record']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈkɔːrd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) **[record](/en/post/record/)** is [a](/en/post/a/) [document](/en/post/document/), [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/), [or](/en/post/or/) [item](/en/post/item/) [that](/en/post/that/) serves [as](/en/post/as/) [evidence](/en/post/evidence/) [or](/en/post/or/) documentation, [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is kept [for](/en/post/for/) [reference](/en/post/reference/) [or](/en/post/or/) [historical](/en/post/historical/) purposes.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [school](/en/post/school/) keeps [a](/en/post/a/) [record](/en/post/record/) [of](/en/post/of/) students' grades."
-2. [A](/en/post/a/) **[personal](/en/post/personal/) [best](/en/post/best/) [or](/en/post/or/) [high](/en/post/high/) [score](/en/post/score/)** [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/) [or](/en/post/or/) [activity](/en/post/activity/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) [set](/en/post/set/) [a](/en/post/a/) [new](/en/post/new/) [record](/en/post/record/) [in](/en/post/in/) [the](/en/post/the/) 100-meter [race](/en/post/race/)."
-3. An [instance](/en/post/instance/) [of](/en/post/of/) [something](/en/post/something/) [being](/en/post/being/) recorded, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [music](/en/post/music/) album [or](/en/post/or/) audio [file](/en/post/file/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) band's latest [record](/en/post/record/) has topped [the](/en/post/the/) charts."
+### [Noun](/post/noun/)
+1. [A](/post/a/) **[record](/post/record/)** is [a](/post/a/) [document](/post/document/), [piece](/post/piece/) [of](/post/of/) [information](/post/information/), [or](/post/or/) [item](/post/item/) [that](/post/that/) serves [as](/post/as/) [evidence](/post/evidence/) [or](/post/or/) documentation, [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is kept [for](/post/for/) [reference](/post/reference/) [or](/post/or/) [historical](/post/historical/) purposes.
+   - [Example](/post/example/): "[The](/post/the/) [school](/post/school/) keeps [a](/post/a/) [record](/post/record/) [of](/post/of/) students' grades."
+2. [A](/post/a/) **[personal](/post/personal/) [best](/post/best/) [or](/post/or/) [high](/post/high/) [score](/post/score/)** [in](/post/in/) [a](/post/a/) [competition](/post/competition/) [or](/post/or/) [activity](/post/activity/).
+   - [Example](/post/example/): "[She](/post/she/) [set](/post/set/) [a](/post/a/) [new](/post/new/) [record](/post/record/) [in](/post/in/) [the](/post/the/) 100-meter [race](/post/race/)."
+3. An [instance](/post/instance/) [of](/post/of/) [something](/post/something/) [being](/post/being/) recorded, [such](/post/such/) [as](/post/as/) [a](/post/a/) [music](/post/music/) album [or](/post/or/) audio [file](/post/file/).
+   - [Example](/post/example/): "[The](/post/the/) band's latest [record](/post/record/) has topped [the](/post/the/) charts."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) **[record](/en/post/record/)** [means](/en/post/means/) [to](/en/post/to/) [write](/en/post/write/) [down](/en/post/down/), [register](/en/post/register/), [or](/en/post/or/) [note](/en/post/note/) [information](/en/post/information/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [journalist](/en/post/journalist/) recorded [the](/en/post/the/) details [of](/en/post/of/) [the](/en/post/the/) [interview](/en/post/interview/)."
-2. [To](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [sound](/en/post/sound/) recording, [usually](/en/post/usually/) [on](/en/post/on/) [a](/en/post/a/) [device](/en/post/device/) [like](/en/post/like/) [a](/en/post/a/) phonograph [or](/en/post/or/) [digital](/en/post/digital/) audio [recorder](/en/post/recorder/).
-   - [Example](/en/post/example/): "[They](/en/post/they/) recorded [a](/en/post/a/) [live](/en/post/live/) [concert](/en/post/concert/) [for](/en/post/for/) [a](/en/post/a/) [future](/en/post/future/) [release](/en/post/release/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) **[record](/post/record/)** [means](/post/means/) [to](/post/to/) [write](/post/write/) [down](/post/down/), [register](/post/register/), [or](/post/or/) [note](/post/note/) [information](/post/information/).
+   - [Example](/post/example/): "[The](/post/the/) [journalist](/post/journalist/) recorded [the](/post/the/) details [of](/post/of/) [the](/post/the/) [interview](/post/interview/)."
+2. [To](/post/to/) [create](/post/create/) [a](/post/a/) [sound](/post/sound/) recording, [usually](/post/usually/) [on](/post/on/) [a](/post/a/) [device](/post/device/) [like](/post/like/) [a](/post/a/) phonograph [or](/post/or/) [digital](/post/digital/) audio [recorder](/post/recorder/).
+   - [Example](/post/example/): "[They](/post/they/) recorded [a](/post/a/) [live](/post/live/) [concert](/post/concert/) [for](/post/for/) [a](/post/a/) [future](/post/future/) [release](/post/release/)."
 
 ## Phrases
-- "[Set](/en/post/set/) [a](/en/post/a/) [new](/en/post/new/) [record](/en/post/record/)" signifies achieving [the](/en/post/the/) [best](/en/post/best/) [result](/en/post/result/) [or](/en/post/or/) [score](/en/post/score/) [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/).
-- "[Keep](/en/post/keep/) [a](/en/post/a/) [record](/en/post/record/) [of](/en/post/of/)" implies maintaining documentation [or](/en/post/or/) [a](/en/post/a/) [history](/en/post/history/) [of](/en/post/of/) [something](/en/post/something/).
-- "Recorded [history](/en/post/history/)" refers [to](/en/post/to/) [the](/en/post/the/) written [or](/en/post/or/) documented [past](/en/post/past/).
+- "[Set](/post/set/) [a](/post/a/) [new](/post/new/) [record](/post/record/)" signifies achieving [the](/post/the/) [best](/post/best/) [result](/post/result/) [or](/post/or/) [score](/post/score/) [in](/post/in/) [a](/post/a/) [competition](/post/competition/).
+- "[Keep](/post/keep/) [a](/post/a/) [record](/post/record/) [of](/post/of/)" implies maintaining documentation [or](/post/or/) [a](/post/a/) [history](/post/history/) [of](/post/of/) [something](/post/something/).
+- "Recorded [history](/post/history/)" refers [to](/post/to/) [the](/post/the/) written [or](/post/or/) documented [past](/post/past/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [scientist](/en/post/scientist/) meticulously recorded [all](/en/post/all/) [her](/en/post/her/) observations [in](/en/post/in/) [the](/en/post/the/) [lab](/en/post/lab/) [notebook](/en/post/notebook/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) sports commentator described [how](/en/post/how/) [the](/en/post/the/) [athlete](/en/post/athlete/) broke [the](/en/post/the/) [world](/en/post/world/) [record](/en/post/record/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [record](/en/post/record/) [his](/en/post/his/) thoughts [before](/en/post/before/) forgetting [them](/en/post/them/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [scientist](/post/scientist/) meticulously recorded [all](/post/all/) [her](/post/her/) observations [in](/post/in/) [the](/post/the/) [lab](/post/lab/) [notebook](/post/notebook/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) sports commentator described [how](/post/how/) [the](/post/the/) [athlete](/post/athlete/) broke [the](/post/the/) [world](/post/world/) [record](/post/record/)."
+- **Phrasal [Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [record](/post/record/) [his](/post/his/) thoughts [before](/post/before/) forgetting [them](/post/them/)."
 
 ## Synonyms
 - Documentation
-- [Log](/en/post/log/)
+- [Log](/post/log/)
 - Archive
 - Transcript
-- [Register](/en/post/register/)
+- [Register](/post/register/)
 - Benchmark
 - Milestone
-- [High](/en/post/high/) [score](/en/post/score/)
+- [High](/post/high/) [score](/post/score/)

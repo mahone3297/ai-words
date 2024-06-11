@@ -7,31 +7,31 @@ description = '[əˈpɔintmənt] n.任命;约定,约会'
 keywords = ['ai words', 'appointment']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈpɔɪntmənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) scheduled [meeting](/en/post/meeting/) [or](/en/post/or/) engagement, [usually](/en/post/usually/) [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) [time](/en/post/time/) [and](/en/post/and/) [purpose](/en/post/purpose/). [For](/en/post/for/) [example](/en/post/example/): "I [have](/en/post/have/) [a](/en/post/a/) doctor's [appointment](/en/post/appointment/) [at](/en/post/at/) 3 PM."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [schedule](/en/post/schedule/) [or](/en/post/or/) [make](/en/post/make/) an [arrangement](/en/post/arrangement/) [for](/en/post/for/) [a](/en/post/a/) [meeting](/en/post/meeting/) [or](/en/post/or/) [event](/en/post/event/). [For](/en/post/for/) [example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [appointment](/en/post/appointment/) [a](/en/post/a/) dentist [visit](/en/post/visit/) [for](/en/post/for/) [next](/en/post/next/) [week](/en/post/week/)."
-- **[Verb](/en/post/verb/)**: (informal) [To](/en/post/to/) [confirm](/en/post/confirm/) [or](/en/post/or/) [secure](/en/post/secure/) [a](/en/post/a/) [spot](/en/post/spot/) [in](/en/post/in/) [advance](/en/post/advance/). [For](/en/post/for/) [example](/en/post/example/): "I'll [appointment](/en/post/appointment/) [that](/en/post/that/) [table](/en/post/table/) [for](/en/post/for/) [six](/en/post/six/) o'clock."
+- **[Noun](/post/noun/)**: [A](/post/a/) scheduled [meeting](/post/meeting/) [or](/post/or/) engagement, [usually](/post/usually/) [with](/post/with/) [a](/post/a/) [specific](/post/specific/) [time](/post/time/) [and](/post/and/) [purpose](/post/purpose/). [For](/post/for/) [example](/post/example/): "I [have](/post/have/) [a](/post/a/) doctor's [appointment](/post/appointment/) [at](/post/at/) 3 PM."
+- **[Verb](/post/verb/)**: [To](/post/to/) [schedule](/post/schedule/) [or](/post/or/) [make](/post/make/) an [arrangement](/post/arrangement/) [for](/post/for/) [a](/post/a/) [meeting](/post/meeting/) [or](/post/or/) [event](/post/event/). [For](/post/for/) [example](/post/example/): "I [need](/post/need/) [to](/post/to/) [appointment](/post/appointment/) [a](/post/a/) dentist [visit](/post/visit/) [for](/post/for/) [next](/post/next/) [week](/post/week/)."
+- **[Verb](/post/verb/)**: (informal) [To](/post/to/) [confirm](/post/confirm/) [or](/post/or/) [secure](/post/secure/) [a](/post/a/) [spot](/post/spot/) [in](/post/in/) [advance](/post/advance/). [For](/post/for/) [example](/post/example/): "I'll [appointment](/post/appointment/) [that](/post/that/) [table](/post/table/) [for](/post/for/) [six](/post/six/) o'clock."
 
 ## Phrases
-- "[Keep](/en/post/keep/) an [appointment](/en/post/appointment/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [punctual](/en/post/punctual/) [and](/en/post/and/) [show](/en/post/show/) [up](/en/post/up/) [on](/en/post/on/) [time](/en/post/time/).
-- "[Miss](/en/post/miss/) an [appointment](/en/post/appointment/)" refers [to](/en/post/to/) [not](/en/post/not/) showing [up](/en/post/up/) [for](/en/post/for/) [a](/en/post/a/) scheduled [event](/en/post/event/).
-- "Reschedule an [appointment](/en/post/appointment/)" [means](/en/post/means/) [to](/en/post/to/) [change](/en/post/change/) [the](/en/post/the/) [date](/en/post/date/) [or](/en/post/or/) [time](/en/post/time/) [of](/en/post/of/) [a](/en/post/a/) [previously](/en/post/previously/) planned [meeting](/en/post/meeting/).
+- "[Keep](/post/keep/) an [appointment](/post/appointment/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) [punctual](/post/punctual/) [and](/post/and/) [show](/post/show/) [up](/post/up/) [on](/post/on/) [time](/post/time/).
+- "[Miss](/post/miss/) an [appointment](/post/appointment/)" refers [to](/post/to/) [not](/post/not/) showing [up](/post/up/) [for](/post/for/) [a](/post/a/) scheduled [event](/post/event/).
+- "Reschedule an [appointment](/post/appointment/)" [means](/post/means/) [to](/post/to/) [change](/post/change/) [the](/post/the/) [date](/post/date/) [or](/post/or/) [time](/post/time/) [of](/post/of/) [a](/post/a/) [previously](/post/previously/) planned [meeting](/post/meeting/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) made [several](/en/post/several/) appointments [with](/en/post/with/) [her](/en/post/her/) [lawyer](/en/post/lawyer/) [to](/en/post/to/) [discuss](/en/post/discuss/) [her](/en/post/her/) [case](/en/post/case/)."
-- **[Verb](/en/post/verb/)**: "Don't [forget](/en/post/forget/) [to](/en/post/to/) [appointment](/en/post/appointment/) [your](/en/post/your/) hairdresser [for](/en/post/for/) [next](/en/post/next/) Friday."
-- **Informal [Verb](/en/post/verb/)**: "I accidentally missed [my](/en/post/my/) dentist [appointment](/en/post/appointment/) [this](/en/post/this/) [morning](/en/post/morning/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) made [several](/post/several/) appointments [with](/post/with/) [her](/post/her/) [lawyer](/post/lawyer/) [to](/post/to/) [discuss](/post/discuss/) [her](/post/her/) [case](/post/case/)."
+- **[Verb](/post/verb/)**: "Don't [forget](/post/forget/) [to](/post/to/) [appointment](/post/appointment/) [your](/post/your/) hairdresser [for](/post/for/) [next](/post/next/) Friday."
+- **Informal [Verb](/post/verb/)**: "I accidentally missed [my](/post/my/) dentist [appointment](/post/appointment/) [this](/post/this/) [morning](/post/morning/)."
 
 ## Synonyms
 - Engagement
-- [Appointment](/en/post/appointment/) booking
+- [Appointment](/post/appointment/) booking
 - Scheduling
 - Consultation
 - Engagement slot
-- [Meeting](/en/post/meeting/) [arrangement](/en/post/arrangement/)
+- [Meeting](/post/meeting/) [arrangement](/post/arrangement/)
 
 ## Antonyms
 - Dismissal

@@ -11,18 +11,18 @@ keywords = ['ai words', 'slavery']
 /ˈslavery/
 
 ## 释义
-- **名词**: 1. 制服，奴役；强迫劳动的状态。例如: "[Slavery](/post/slavery/) was abolished [in](/post/in/) [the](/post/the/) United States [in](/post/in/) [the](/post/the/) 19th [century](/post/century/)."
-   2. 奴隶制度。例如: "[The](/post/the/) transatlantic [slave](/post/slave/) [trade](/post/trade/) was [a](/post/a/) [dark](/post/dark/) [chapter](/post/chapter/) [in](/post/in/) [history](/post/history/)."
+- **名词**: 1. 制服，奴役；强迫劳动的状态。例如: "[Slavery](/zh/post/slavery/) was abolished [in](/zh/post/in/) [the](/zh/post/the/) United States [in](/zh/post/in/) [the](/zh/post/the/) 19th [century](/zh/post/century/)."
+   2. 奴隶制度。例如: "[The](/zh/post/the/) transatlantic [slave](/zh/post/slave/) [trade](/zh/post/trade/) was [a](/zh/post/a/) [dark](/zh/post/dark/) [chapter](/zh/post/chapter/) [in](/zh/post/in/) [history](/zh/post/history/)."
 
 ## 短语
-- "Abolition [of](/post/of/) [slavery](/post/slavery/)" 意为废除奴隶制。
-- "[Slave](/post/slave/) [trade](/post/trade/)" 指的是买卖奴隶的行为。
-- "[Life](/post/life/) [under](/post/under/) [slavery](/post/slavery/)" 描述在奴隶制度下的生活状况。
+- "Abolition [of](/zh/post/of/) [slavery](/zh/post/slavery/)" 意为废除奴隶制。
+- "[Slave](/zh/post/slave/) [trade](/zh/post/trade/)" 指的是买卖奴隶的行为。
+- "[Life](/zh/post/life/) [under](/zh/post/under/) [slavery](/zh/post/slavery/)" 描述在奴隶制度下的生活状况。
 
 ## 例句
-- "[The](/post/the/) [fight](/post/fight/) [against](/post/against/) [slavery](/post/slavery/) was [a](/post/a/) [long](/post/long/) [and](/post/and/) [hard](/post/hard/) [struggle](/post/struggle/) [for](/post/for/) [human](/post/human/) rights."
-- "[Many](/post/many/) [historical](/post/historical/) figures were involved [in](/post/in/) [the](/post/the/) [Underground](/post/underground/) [Railroad](/post/railroad/), helping slaves [escape](/post/escape/) [from](/post/from/) [slavery](/post/slavery/)."
-- "[Slavery](/post/slavery/) was [a](/post/a/) [fundamental](/post/fundamental/) [aspect](/post/aspect/) [of](/post/of/) [ancient](/post/ancient/) societies [like](/post/like/) Greece [and](/post/and/) Rome."
+- "[The](/zh/post/the/) [fight](/zh/post/fight/) [against](/zh/post/against/) [slavery](/zh/post/slavery/) was [a](/zh/post/a/) [long](/zh/post/long/) [and](/zh/post/and/) [hard](/zh/post/hard/) [struggle](/zh/post/struggle/) [for](/zh/post/for/) [human](/zh/post/human/) rights."
+- "[Many](/zh/post/many/) [historical](/zh/post/historical/) figures were involved [in](/zh/post/in/) [the](/zh/post/the/) [Underground](/zh/post/underground/) [Railroad](/zh/post/railroad/), helping slaves [escape](/zh/post/escape/) [from](/zh/post/from/) [slavery](/zh/post/slavery/)."
+- "[Slavery](/zh/post/slavery/) was [a](/zh/post/a/) [fundamental](/zh/post/fundamental/) [aspect](/zh/post/aspect/) [of](/zh/post/of/) [ancient](/zh/post/ancient/) societies [like](/zh/post/like/) Greece [and](/zh/post/and/) Rome."
 
 ## 同义词
 - Bondage

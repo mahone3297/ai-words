@@ -7,34 +7,34 @@ description = '[slit] n.裂缝 vt.切开，撕开'
 keywords = ['ai words', 'slit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /slɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [long](/en/post/long/), [narrow](/en/post/narrow/) [cut](/en/post/cut/) made [in](/en/post/in/) [something](/en/post/something/), typically [along](/en/post/along/) [its](/en/post/its/) [length](/en/post/length/). "[The](/en/post/the/) hunter made [a](/en/post/a/) [slit](/en/post/slit/) [in](/en/post/in/) [the](/en/post/the/) deer's [throat](/en/post/throat/)." 2. [A](/en/post/a/) [thin](/en/post/thin/) [opening](/en/post/opening/) [or](/en/post/or/) [gap](/en/post/gap/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [fabric](/en/post/fabric/) [or](/en/post/or/) [material](/en/post/material/). "[The](/en/post/the/) curtains had [a](/en/post/a/) [slit](/en/post/slit/) [at](/en/post/at/) [the](/en/post/the/) [top](/en/post/top/) [for](/en/post/for/) ventilation."
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [long](/en/post/long/), [narrow](/en/post/narrow/) [cut](/en/post/cut/) [or](/en/post/or/) [opening](/en/post/opening/) [in](/en/post/in/) [something](/en/post/something/). "[He](/en/post/he/) [slit](/en/post/slit/) [the](/en/post/the/) [package](/en/post/package/) [open](/en/post/open/) [with](/en/post/with/) [a](/en/post/a/) [knife](/en/post/knife/)." 2. (informal) [To](/en/post/to/) [separate](/en/post/separate/) [or](/en/post/or/) [tear](/en/post/tear/) [something](/en/post/something/) [apart](/en/post/apart/), [usually](/en/post/usually/) [along](/en/post/along/) [a](/en/post/a/) [weak](/en/post/weak/) [point](/en/post/point/). "[The](/en/post/the/) [paper](/en/post/paper/) [easily](/en/post/easily/) [slit](/en/post/slit/) [when](/en/post/when/) folded."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [long](/post/long/), [narrow](/post/narrow/) [cut](/post/cut/) made [in](/post/in/) [something](/post/something/), typically [along](/post/along/) [its](/post/its/) [length](/post/length/). "[The](/post/the/) hunter made [a](/post/a/) [slit](/post/slit/) [in](/post/in/) [the](/post/the/) deer's [throat](/post/throat/)." 2. [A](/post/a/) [thin](/post/thin/) [opening](/post/opening/) [or](/post/or/) [gap](/post/gap/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [fabric](/post/fabric/) [or](/post/or/) [material](/post/material/). "[The](/post/the/) curtains had [a](/post/a/) [slit](/post/slit/) [at](/post/at/) [the](/post/the/) [top](/post/top/) [for](/post/for/) ventilation."
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [make](/post/make/) [a](/post/a/) [long](/post/long/), [narrow](/post/narrow/) [cut](/post/cut/) [or](/post/or/) [opening](/post/opening/) [in](/post/in/) [something](/post/something/). "[He](/post/he/) [slit](/post/slit/) [the](/post/the/) [package](/post/package/) [open](/post/open/) [with](/post/with/) [a](/post/a/) [knife](/post/knife/)." 2. (informal) [To](/post/to/) [separate](/post/separate/) [or](/post/or/) [tear](/post/tear/) [something](/post/something/) [apart](/post/apart/), [usually](/post/usually/) [along](/post/along/) [a](/post/a/) [weak](/post/weak/) [point](/post/point/). "[The](/post/the/) [paper](/post/paper/) [easily](/post/easily/) [slit](/post/slit/) [when](/post/when/) folded."
 
 ## Phrases
-- "[Cut](/en/post/cut/) [a](/en/post/a/) [slit](/en/post/slit/) [in](/en/post/in/)" [or](/en/post/or/) "[make](/en/post/make/) [a](/en/post/a/) [slit](/en/post/slit/)"
-- "[A](/en/post/a/) [vertical](/en/post/vertical/) [slit](/en/post/slit/)" [or](/en/post/or/) "[a](/en/post/a/) [horizontal](/en/post/horizontal/) [slit](/en/post/slit/)"
-- "[Slit](/en/post/slit/) [the](/en/post/the/) seam" (referring [to](/en/post/to/) [a](/en/post/a/) garment)
+- "[Cut](/post/cut/) [a](/post/a/) [slit](/post/slit/) [in](/post/in/)" [or](/post/or/) "[make](/post/make/) [a](/post/a/) [slit](/post/slit/)"
+- "[A](/post/a/) [vertical](/post/vertical/) [slit](/post/slit/)" [or](/post/or/) "[a](/post/a/) [horizontal](/post/horizontal/) [slit](/post/slit/)"
+- "[Slit](/post/slit/) [the](/post/the/) seam" (referring [to](/post/to/) [a](/post/a/) garment)
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) archaeologist carefully examined [the](/en/post/the/) [ancient](/en/post/ancient/) pottery, noting [the](/en/post/the/) [small](/en/post/small/) slits [on](/en/post/on/) [the](/en/post/the/) rim."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [tailor](/en/post/tailor/) [slit](/en/post/slit/) [the](/en/post/the/) [fabric](/en/post/fabric/) [to](/en/post/to/) [let](/en/post/let/) [in](/en/post/in/) [more](/en/post/more/) [light](/en/post/light/)."
-- **Informal**: "[The](/en/post/the/) [old](/en/post/old/) [book](/en/post/book/) had pages [that](/en/post/that/) [easily](/en/post/easily/) [slit](/en/post/slit/) [apart](/en/post/apart/) [from](/en/post/from/) [age](/en/post/age/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) archaeologist carefully examined [the](/post/the/) [ancient](/post/ancient/) pottery, noting [the](/post/the/) [small](/post/small/) slits [on](/post/on/) [the](/post/the/) rim."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [tailor](/post/tailor/) [slit](/post/slit/) [the](/post/the/) [fabric](/post/fabric/) [to](/post/to/) [let](/post/let/) [in](/post/in/) [more](/post/more/) [light](/post/light/)."
+- **Informal**: "[The](/post/the/) [old](/post/old/) [book](/post/book/) had pages [that](/post/that/) [easily](/post/easily/) [slit](/post/slit/) [apart](/post/apart/) [from](/post/from/) [age](/post/age/)."
 
 ## Synonyms
-- Slot (specifically [a](/en/post/a/) [narrow](/en/post/narrow/) [opening](/en/post/opening/))
+- Slot (specifically [a](/post/a/) [narrow](/post/narrow/) [opening](/post/opening/))
 - Gash
 - Cleft
-- [Tear](/en/post/tear/)
+- [Tear](/post/tear/)
 - Incision
 - Rift
 
 ## Antonyms
-- [Sew](/en/post/sew/)
-- [Stitch](/en/post/stitch/)
-- [Seal](/en/post/seal/)
-- [Join](/en/post/join/)
-- [Mend](/en/post/mend/)
+- [Sew](/post/sew/)
+- [Stitch](/post/stitch/)
+- [Seal](/post/seal/)
+- [Join](/post/join/)
+- [Mend](/post/mend/)

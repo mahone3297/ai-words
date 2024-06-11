@@ -7,31 +7,31 @@ description = '[ˈindʒə] vt.伤害，损害，损伤'
 keywords = ['ai words', 'injure']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈdʒʊər/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cause](/en/post/cause/) [physical](/en/post/physical/) [harm](/en/post/harm/) [or](/en/post/or/) [damage](/en/post/damage/) [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/); [to](/en/post/to/) [hurt](/en/post/hurt/) [or](/en/post/or/) [wound](/en/post/wound/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [fall](/en/post/fall/) [from](/en/post/from/) [the](/en/post/the/) [ladder](/en/post/ladder/) [seriously](/en/post/seriously/) injured [his](/en/post/his/) [leg](/en/post/leg/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cause](/en/post/cause/) [damage](/en/post/damage/) [or](/en/post/or/) [harm](/en/post/harm/) [to](/en/post/to/) [something](/en/post/something/) non-physical, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [reputation](/en/post/reputation/) [or](/en/post/or/) [relationship](/en/post/relationship/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) reckless [behavior](/en/post/behavior/) [could](/en/post/could/) [injure](/en/post/injure/) [the](/en/post/the/) company's [reputation](/en/post/reputation/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [cause](/post/cause/) [physical](/post/physical/) [harm](/post/harm/) [or](/post/or/) [damage](/post/damage/) [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/); [to](/post/to/) [hurt](/post/hurt/) [or](/post/or/) [wound](/post/wound/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [fall](/post/fall/) [from](/post/from/) [the](/post/the/) [ladder](/post/ladder/) [seriously](/post/seriously/) injured [his](/post/his/) [leg](/post/leg/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [cause](/post/cause/) [damage](/post/damage/) [or](/post/or/) [harm](/post/harm/) [to](/post/to/) [something](/post/something/) non-physical, [such](/post/such/) [as](/post/as/) [a](/post/a/) [reputation](/post/reputation/) [or](/post/or/) [relationship](/post/relationship/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) reckless [behavior](/post/behavior/) [could](/post/could/) [injure](/post/injure/) [the](/post/the/) company's [reputation](/post/reputation/)."
   
-  > [Injure](/en/post/injure/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) transitively, [meaning](/en/post/meaning/) [it](/en/post/it/) takes an [object](/en/post/object/). E.g., "[The](/en/post/the/) [accident](/en/post/accident/) injured [several](/en/post/several/) passengers."
+  > [Injure](/post/injure/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) transitively, [meaning](/post/meaning/) [it](/post/it/) takes an [object](/post/object/). E.g., "[The](/post/the/) [accident](/post/accident/) injured [several](/post/several/) passengers."
   
 ## Phrases
-- "[Injure](/en/post/injure/) [oneself](/en/post/oneself/)": [To](/en/post/to/) accidentally [hurt](/en/post/hurt/) [oneself](/en/post/oneself/). [Example](/en/post/example/): "[She](/en/post/she/) injured [herself](/en/post/herself/) [while](/en/post/while/) lifting weights."
-- "[Injure](/en/post/injure/) [another](/en/post/another/) [person](/en/post/person/)": [To](/en/post/to/) purposefully [or](/en/post/or/) accidentally [cause](/en/post/cause/) [harm](/en/post/harm/) [to](/en/post/to/) [someone](/en/post/someone/) [else](/en/post/else/). [Example](/en/post/example/): "[The](/en/post/the/) [driver](/en/post/driver/) failed [to](/en/post/to/) [stop](/en/post/stop/) [at](/en/post/at/) [the](/en/post/the/) [red](/en/post/red/) [light](/en/post/light/) [and](/en/post/and/) ended [up](/en/post/up/) injuring [two](/en/post/two/) pedestrians."
+- "[Injure](/post/injure/) [oneself](/post/oneself/)": [To](/post/to/) accidentally [hurt](/post/hurt/) [oneself](/post/oneself/). [Example](/post/example/): "[She](/post/she/) injured [herself](/post/herself/) [while](/post/while/) lifting weights."
+- "[Injure](/post/injure/) [another](/post/another/) [person](/post/person/)": [To](/post/to/) purposefully [or](/post/or/) accidentally [cause](/post/cause/) [harm](/post/harm/) [to](/post/to/) [someone](/post/someone/) [else](/post/else/). [Example](/post/example/): "[The](/post/the/) [driver](/post/driver/) failed [to](/post/to/) [stop](/post/stop/) [at](/post/at/) [the](/post/the/) [red](/post/red/) [light](/post/light/) [and](/post/and/) ended [up](/post/up/) injuring [two](/post/two/) pedestrians."
   
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([physical](/en/post/physical/) [injury](/en/post/injury/))**: "[He](/en/post/he/) was taken [to](/en/post/to/) [the](/en/post/the/) [hospital](/en/post/hospital/) [after](/en/post/after/) [being](/en/post/being/) injured [during](/en/post/during/) [the](/en/post/the/) [football](/en/post/football/) [match](/en/post/match/)."
-- **[Verb](/en/post/verb/) (non-physical [injury](/en/post/injury/))**: "[Her](/en/post/her/) insensitive remarks deeply injured [her](/en/post/her/) friend's feelings."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([physical](/post/physical/) [injury](/post/injury/))**: "[He](/post/he/) was taken [to](/post/to/) [the](/post/the/) [hospital](/post/hospital/) [after](/post/after/) [being](/post/being/) injured [during](/post/during/) [the](/post/the/) [football](/post/football/) [match](/post/match/)."
+- **[Verb](/post/verb/) (non-physical [injury](/post/injury/))**: "[Her](/post/her/) insensitive remarks deeply injured [her](/post/her/) friend's feelings."
 
 ## Synonyms
-- [Wound](/en/post/wound/)
-- [Hurt](/en/post/hurt/)
-- [Damage](/en/post/damage/)
-- [Harm](/en/post/harm/)
-- [Bruise](/en/post/bruise/)
+- [Wound](/post/wound/)
+- [Hurt](/post/hurt/)
+- [Damage](/post/damage/)
+- [Harm](/post/harm/)
+- [Bruise](/post/bruise/)
 - Traumatize
-- Maim ([more](/en/post/more/) [severe](/en/post/severe/) injuries)
+- Maim ([more](/post/more/) [severe](/post/severe/) injuries)
 - Afflict
 - Impair
-- Disfigure ([in](/en/post/in/) cases [of](/en/post/of/) [permanent](/en/post/permanent/) [physical](/en/post/physical/) [damage](/en/post/damage/))
+- Disfigure ([in](/post/in/) cases [of](/post/of/) [permanent](/post/permanent/) [physical](/post/physical/) [damage](/post/damage/))

@@ -7,40 +7,40 @@ description = '[ˈkɔtidʒ] n.村舍，小屋'
 keywords = ['ai words', 'cottage']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɒˈtɪnj/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [small](/en/post/small/), typically [rural](/en/post/rural/), one-story [house](/en/post/house/), [often](/en/post/often/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [vacation](/en/post/vacation/) [home](/en/post/home/) [or](/en/post/or/) [retreat](/en/post/retreat/). 
+### [Noun](/post/noun/)
+[A](/post/a/) [small](/post/small/), typically [rural](/post/rural/), one-story [house](/post/house/), [often](/post/often/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [vacation](/post/vacation/) [home](/post/home/) [or](/post/or/) [retreat](/post/retreat/). 
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/) [or](/en/post/or/) [stay](/en/post/stay/) [in](/en/post/in/) [a](/en/post/a/) [cottage](/en/post/cottage/), [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [holiday](/en/post/holiday/). 
+### [Verb](/post/verb/)
+[To](/post/to/) [spend](/post/spend/) [time](/post/time/) [or](/post/or/) [stay](/post/stay/) [in](/post/in/) [a](/post/a/) [cottage](/post/cottage/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [holiday](/post/holiday/). 
 
-### [Adjective](/en/post/adjective/)
-Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [cottage](/en/post/cottage/), [simple](/en/post/simple/), [or](/en/post/or/) cozy.
+### [Adjective](/post/adjective/)
+Relating [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [cottage](/post/cottage/), [simple](/post/simple/), [or](/post/or/) cozy.
 
 ## Phrases
-- "[Enjoy](/en/post/enjoy/) [your](/en/post/your/) [weekend](/en/post/weekend/) [at](/en/post/at/) [the](/en/post/the/) [cottage](/en/post/cottage/)."
-- "[She](/en/post/she/) decided [to](/en/post/to/) [paint](/en/post/paint/) [her](/en/post/her/) [little](/en/post/little/) [cottage](/en/post/cottage/)."
-- "[The](/en/post/the/) [cottage](/en/post/cottage/) was surrounded [by](/en/post/by/) [a](/en/post/a/) [garden](/en/post/garden/)."
+- "[Enjoy](/post/enjoy/) [your](/post/your/) [weekend](/post/weekend/) [at](/post/at/) [the](/post/the/) [cottage](/post/cottage/)."
+- "[She](/post/she/) decided [to](/post/to/) [paint](/post/paint/) [her](/post/her/) [little](/post/little/) [cottage](/post/cottage/)."
+- "[The](/post/the/) [cottage](/post/cottage/) was surrounded [by](/post/by/) [a](/post/a/) [garden](/post/garden/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) spent [a](/en/post/a/) relaxing [weekend](/en/post/weekend/) [at](/en/post/at/) [our](/en/post/our/) [country](/en/post/country/) [cottage](/en/post/cottage/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [she](/en/post/she/) looked [forward](/en/post/forward/) [to](/en/post/to/) retreating [to](/en/post/to/) [her](/en/post/her/) [cottage](/en/post/cottage/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) quaint [cottage](/en/post/cottage/) had [a](/en/post/a/) rustic charm."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) spent [a](/post/a/) relaxing [weekend](/post/weekend/) [at](/post/at/) [our](/post/our/) [country](/post/country/) [cottage](/post/cottage/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [she](/post/she/) looked [forward](/post/forward/) [to](/post/to/) retreating [to](/post/to/) [her](/post/her/) [cottage](/post/cottage/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) quaint [cottage](/post/cottage/) had [a](/post/a/) rustic charm."
 
 ## Synonyms
-- [Cabin](/en/post/cabin/)
-- [Cottage](/en/post/cottage/) [house](/en/post/house/)
+- [Cabin](/post/cabin/)
+- [Cottage](/post/cottage/) [house](/post/house/)
 - Bungalow
 - Chalet
-- Shingled [retreat](/en/post/retreat/)
-- [Village](/en/post/village/) [cottage](/en/post/cottage/)
+- Shingled [retreat](/post/retreat/)
+- [Village](/post/village/) [cottage](/post/cottage/)
 
 ## Antonyms
 - Mansion
-- [Castle](/en/post/castle/)
-- [Luxury](/en/post/luxury/) villa
-- [City](/en/post/city/) [apartment](/en/post/apartment/)
-- [Modern](/en/post/modern/) [home](/en/post/home/)
+- [Castle](/post/castle/)
+- [Luxury](/post/luxury/) villa
+- [City](/post/city/) [apartment](/post/apartment/)
+- [Modern](/post/modern/) [home](/post/home/)

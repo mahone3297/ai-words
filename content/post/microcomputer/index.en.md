@@ -7,27 +7,27 @@ description = '[ˈmaikrəukəmpjuːtə(r)] n.微型计算机，微机'
 keywords = ['ai words', 'microcomputer']
 +++
 
-## [Word](/en/post/word/): [Microcomputer](/en/post/microcomputer/)
+## [Word](/post/word/): [Microcomputer](/post/microcomputer/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌmaɪkrəʊkəmˈpjuːtər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/), [relatively](/en/post/relatively/) [inexpensive](/en/post/inexpensive/) [computer](/en/post/computer/) designed [for](/en/post/for/) [personal](/en/post/personal/) [use](/en/post/use/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [keyboard](/en/post/keyboard/), [display](/en/post/display/) [screen](/en/post/screen/), [and](/en/post/and/) operating [system](/en/post/system/), [capable](/en/post/capable/) [of](/en/post/of/) running applications [and](/en/post/and/) processing [data](/en/post/data/). Initially coined [in](/en/post/in/) [the](/en/post/the/) 1970s [and](/en/post/and/) 1980s [for](/en/post/for/) computers [that](/en/post/that/) were smaller [than](/en/post/than/) mainframes [or](/en/post/or/) minicomputers.
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/), [relatively](/post/relatively/) [inexpensive](/post/inexpensive/) [computer](/post/computer/) designed [for](/post/for/) [personal](/post/personal/) [use](/post/use/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [keyboard](/post/keyboard/), [display](/post/display/) [screen](/post/screen/), [and](/post/and/) operating [system](/post/system/), [capable](/post/capable/) [of](/post/of/) running applications [and](/post/and/) processing [data](/post/data/). Initially coined [in](/post/in/) [the](/post/the/) 1970s [and](/post/and/) 1980s [for](/post/for/) computers [that](/post/that/) were smaller [than](/post/than/) mainframes [or](/post/or/) minicomputers.
 
-### [Example](/en/post/example/) Sentences
-- _In [the](/en/post/the/) [early](/en/post/early/) days [of](/en/post/of/) [home](/en/post/home/) computing, [the](/en/post/the/) [Apple](/en/post/apple/) II was [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [most](/en/post/most/) [popular](/en/post/popular/) microcomputers._
-- _The Raspberry Pi has [become](/en/post/become/) [a](/en/post/a/) favorite [among](/en/post/among/) hobbyists [for](/en/post/for/) DIY projects [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) compact [size](/en/post/size/) [and](/en/post/and/) affordability, embodying [the](/en/post/the/) [spirit](/en/post/spirit/) [of](/en/post/of/) classic microcomputers._
+### [Example](/post/example/) Sentences
+- _In [the](/post/the/) [early](/post/early/) days [of](/post/of/) [home](/post/home/) computing, [the](/post/the/) [Apple](/post/apple/) II was [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [popular](/post/popular/) microcomputers._
+- _The Raspberry Pi has [become](/post/become/) [a](/post/a/) favorite [among](/post/among/) hobbyists [for](/post/for/) DIY projects [due](/post/due/) [to](/post/to/) [its](/post/its/) compact [size](/post/size/) [and](/post/and/) affordability, embodying [the](/post/the/) [spirit](/post/spirit/) [of](/post/of/) classic microcomputers._
 
 ## Phrases
-- _Home microcomputer_ - Refers [to](/en/post/to/) [a](/en/post/a/) [microcomputer](/en/post/microcomputer/) intended [for](/en/post/for/) [use](/en/post/use/) [in](/en/post/in/) [a](/en/post/a/) [domestic](/en/post/domestic/) [setting](/en/post/setting/).
-- _Educational microcomputer_ - [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [microcomputer](/en/post/microcomputer/) designed specifically [for](/en/post/for/) educational purposes [in](/en/post/in/) schools [and](/en/post/and/) colleges.
+- _Home microcomputer_ - Refers [to](/post/to/) [a](/post/a/) [microcomputer](/post/microcomputer/) intended [for](/post/for/) [use](/post/use/) [in](/post/in/) [a](/post/a/) [domestic](/post/domestic/) [setting](/post/setting/).
+- _Educational microcomputer_ - [A](/post/a/) [type](/post/type/) [of](/post/of/) [microcomputer](/post/microcomputer/) designed specifically [for](/post/for/) educational purposes [in](/post/in/) schools [and](/post/and/) colleges.
 
 ## Synonyms
-- [Personal](/en/post/personal/) [computer](/en/post/computer/) (PC)
-- Desktop [computer](/en/post/computer/)
-- [Home](/en/post/home/) [computer](/en/post/computer/)
-- Mini [computer](/en/post/computer/)
-- Workstation ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- [Personal](/post/personal/) [computer](/post/computer/) (PC)
+- Desktop [computer](/post/computer/)
+- [Home](/post/home/) [computer](/post/computer/)
+- Mini [computer](/post/computer/)
+- Workstation ([in](/post/in/) [some](/post/some/) contexts)
 
-[Note](/en/post/note/): [While](/en/post/while/) [the](/en/post/the/) terms '[microcomputer](/en/post/microcomputer/)' isn't [as](/en/post/as/) [commonly](/en/post/commonly/) [used](/en/post/used/) [today](/en/post/today/) [as](/en/post/as/) [it](/en/post/it/) [once](/en/post/once/) was, having [largely](/en/post/largely/) been replaced [by](/en/post/by/) '[personal](/en/post/personal/) [computer](/en/post/computer/)' [or](/en/post/or/) 'PC', [the](/en/post/the/) [original](/en/post/original/) [concept](/en/post/concept/) refers [to](/en/post/to/) [any](/en/post/any/) [small](/en/post/small/), standalone computing [device](/en/post/device/) [that](/en/post/that/) [can](/en/post/can/) [perform](/en/post/perform/) general-purpose tasks compared [to](/en/post/to/) larger systems.
+[Note](/post/note/): [While](/post/while/) [the](/post/the/) terms '[microcomputer](/post/microcomputer/)' isn't [as](/post/as/) [commonly](/post/commonly/) [used](/post/used/) [today](/post/today/) [as](/post/as/) [it](/post/it/) [once](/post/once/) was, having [largely](/post/largely/) been replaced [by](/post/by/) '[personal](/post/personal/) [computer](/post/computer/)' [or](/post/or/) 'PC', [the](/post/the/) [original](/post/original/) [concept](/post/concept/) refers [to](/post/to/) [any](/post/any/) [small](/post/small/), standalone computing [device](/post/device/) [that](/post/that/) [can](/post/can/) [perform](/post/perform/) general-purpose tasks compared [to](/post/to/) larger systems.

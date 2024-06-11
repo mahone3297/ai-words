@@ -7,27 +7,27 @@ description = '[grəus] a.总的；严重的'
 keywords = ['ai words', 'gross']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡrəʊs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)** (adj): 1. Relating [to](/en/post/to/) [or](/en/post/or/) considered [without](/en/post/without/) deductions; [total](/en/post/total/), [whole](/en/post/whole/), [or](/en/post/or/) [entire](/en/post/entire/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's [gross](/en/post/gross/) [income](/en/post/income/) [before](/en/post/before/) [tax](/en/post/tax/) was $50 [million](/en/post/million/)."
-   - 2. [Large](/en/post/large/) [or](/en/post/or/) [great](/en/post/great/) [in](/en/post/in/) [size](/en/post/size/), [quantity](/en/post/quantity/), [or](/en/post/or/) [extent](/en/post/extent/), [especially](/en/post/especially/) [when](/en/post/when/) unwieldy [or](/en/post/or/) [unpleasant](/en/post/unpleasant/). [Example](/en/post/example/): "[A](/en/post/a/) [gross](/en/post/gross/) oversight."
-   - 3. [Regarding](/en/post/regarding/) [weight](/en/post/weight/) [or](/en/post/or/) [measurement](/en/post/measurement/), denoting [a](/en/post/a/) [unit](/en/post/unit/) [equal](/en/post/equal/) [to](/en/post/to/) 144 [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[A](/en/post/a/) [gross](/en/post/gross/) [of](/en/post/of/) eggs."
-   - 4. Disgusting [or](/en/post/or/) repellent, [especially](/en/post/especially/) [to](/en/post/to/) [the](/en/post/the/) senses [or](/en/post/or/) [moral](/en/post/moral/) feelings. [Example](/en/post/example/): "[Gross](/en/post/gross/) [body](/en/post/body/) odor."
+- **[Adjective](/post/adjective/)** (adj): 1. Relating [to](/post/to/) [or](/post/or/) considered [without](/post/without/) deductions; [total](/post/total/), [whole](/post/whole/), [or](/post/or/) [entire](/post/entire/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's [gross](/post/gross/) [income](/post/income/) [before](/post/before/) [tax](/post/tax/) was $50 [million](/post/million/)."
+   - 2. [Large](/post/large/) [or](/post/or/) [great](/post/great/) [in](/post/in/) [size](/post/size/), [quantity](/post/quantity/), [or](/post/or/) [extent](/post/extent/), [especially](/post/especially/) [when](/post/when/) unwieldy [or](/post/or/) [unpleasant](/post/unpleasant/). [Example](/post/example/): "[A](/post/a/) [gross](/post/gross/) oversight."
+   - 3. [Regarding](/post/regarding/) [weight](/post/weight/) [or](/post/or/) [measurement](/post/measurement/), denoting [a](/post/a/) [unit](/post/unit/) [equal](/post/equal/) [to](/post/to/) 144 [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[A](/post/a/) [gross](/post/gross/) [of](/post/of/) eggs."
+   - 4. Disgusting [or](/post/or/) repellent, [especially](/post/especially/) [to](/post/to/) [the](/post/the/) senses [or](/post/or/) [moral](/post/moral/) feelings. [Example](/post/example/): "[Gross](/post/gross/) [body](/post/body/) odor."
 
-- **[Noun](/en/post/noun/)** (n): 1. [The](/en/post/the/) [total](/en/post/total/) [amount](/en/post/amount/) [before](/en/post/before/) [any](/en/post/any/) deductions [or](/en/post/or/) allowances. [Example](/en/post/example/): "[The](/en/post/the/) [gross](/en/post/gross/) sales figures were [impressive](/en/post/impressive/)."
-   - 2. [A](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [set](/en/post/set/) [of](/en/post/of/) 144 items. [Example](/en/post/example/): "[They](/en/post/they/) ordered [a](/en/post/a/) [gross](/en/post/gross/) [of](/en/post/of/) pencils [for](/en/post/for/) [the](/en/post/the/) [school](/en/post/school/)."
+- **[Noun](/post/noun/)** (n): 1. [The](/post/the/) [total](/post/total/) [amount](/post/amount/) [before](/post/before/) [any](/post/any/) deductions [or](/post/or/) allowances. [Example](/post/example/): "[The](/post/the/) [gross](/post/gross/) sales figures were [impressive](/post/impressive/)."
+   - 2. [A](/post/a/) [group](/post/group/) [or](/post/or/) [set](/post/set/) [of](/post/of/) 144 items. [Example](/post/example/): "[They](/post/they/) ordered [a](/post/a/) [gross](/post/gross/) [of](/post/of/) pencils [for](/post/for/) [the](/post/the/) [school](/post/school/)."
 
 ## Phrases
-- "[Gross](/en/post/gross/) [profit](/en/post/profit/)" refers [to](/en/post/to/) [the](/en/post/the/) [profit](/en/post/profit/) earned [after](/en/post/after/) subtracting [the](/en/post/the/) [cost](/en/post/cost/) [of](/en/post/of/) [goods](/en/post/goods/) sold [from](/en/post/from/) revenue.
-- "[Gross](/en/post/gross/) misconduct" is [severe](/en/post/severe/) wrongdoing [by](/en/post/by/) an [employee](/en/post/employee/) [that](/en/post/that/) [could](/en/post/could/) [justify](/en/post/justify/) [instant](/en/post/instant/) dismissal.
-- "[Gross](/en/post/gross/) [domestic](/en/post/domestic/) [product](/en/post/product/) (GDP)" is [the](/en/post/the/) [total](/en/post/total/) [value](/en/post/value/) [of](/en/post/of/) [goods](/en/post/goods/) produced [and](/en/post/and/) services [provided](/en/post/provided/) [in](/en/post/in/) [a](/en/post/a/) [country](/en/post/country/) [during](/en/post/during/) [a](/en/post/a/) [specific](/en/post/specific/) [period](/en/post/period/).
+- "[Gross](/post/gross/) [profit](/post/profit/)" refers [to](/post/to/) [the](/post/the/) [profit](/post/profit/) earned [after](/post/after/) subtracting [the](/post/the/) [cost](/post/cost/) [of](/post/of/) [goods](/post/goods/) sold [from](/post/from/) revenue.
+- "[Gross](/post/gross/) misconduct" is [severe](/post/severe/) wrongdoing [by](/post/by/) an [employee](/post/employee/) [that](/post/that/) [could](/post/could/) [justify](/post/justify/) [instant](/post/instant/) dismissal.
+- "[Gross](/post/gross/) [domestic](/post/domestic/) [product](/post/product/) (GDP)" is [the](/post/the/) [total](/post/total/) [value](/post/value/) [of](/post/of/) [goods](/post/goods/) produced [and](/post/and/) services [provided](/post/provided/) [in](/post/in/) [a](/post/a/) [country](/post/country/) [during](/post/during/) [a](/post/a/) [specific](/post/specific/) [period](/post/period/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) restaurant's [gross](/en/post/gross/) earnings included [both](/en/post/both/) [food](/en/post/food/) [and](/en/post/and/) [drink](/en/post/drink/) sales."
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) ordered [a](/en/post/a/) [gross](/en/post/gross/) [of](/en/post/of/) t-shirts [for](/en/post/for/) [our](/en/post/our/) promotional [event](/en/post/event/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) restaurant's [gross](/post/gross/) earnings included [both](/post/both/) [food](/post/food/) [and](/post/and/) [drink](/post/drink/) sales."
+- **[Noun](/post/noun/)**: "[We](/post/we/) ordered [a](/post/a/) [gross](/post/gross/) [of](/post/of/) t-shirts [for](/post/for/) [our](/post/our/) promotional [event](/post/event/)."
 
 ## Synonyms
-- [Adjective](/en/post/adjective/): [Total](/en/post/total/), [whole](/en/post/whole/), [entire](/en/post/entire/), [complete](/en/post/complete/), [net](/en/post/net/), disgusting, repulsive
-- [Noun](/en/post/noun/): Totality, aggregate, [sum](/en/post/sum/), entirety, magnitude, hoard ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [large](/en/post/large/) [number](/en/post/number/) [of](/en/post/of/) items)
+- [Adjective](/post/adjective/): [Total](/post/total/), [whole](/post/whole/), [entire](/post/entire/), [complete](/post/complete/), [net](/post/net/), disgusting, repulsive
+- [Noun](/post/noun/): Totality, aggregate, [sum](/post/sum/), entirety, magnitude, hoard ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [large](/post/large/) [number](/post/number/) [of](/post/of/) items)

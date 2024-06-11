@@ -7,39 +7,39 @@ description = '[ˈvaitəmin] n.维生素，维他命'
 keywords = ['ai words', 'vitamin']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vɪˈtaɪmɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[vitamin](/en/post/vitamin/)** is [a](/en/post/a/) [organic](/en/post/organic/) [substance](/en/post/substance/) [that](/en/post/that/) is [essential](/en/post/essential/) [for](/en/post/for/) maintaining [good](/en/post/good/) [health](/en/post/health/) [and](/en/post/and/) [proper](/en/post/proper/) bodily [function](/en/post/function/), [but](/en/post/but/) cannot [be](/en/post/be/) synthesized [by](/en/post/by/) [the](/en/post/the/) [body](/en/post/body/) [in](/en/post/in/) [sufficient](/en/post/sufficient/) quantities [and](/en/post/and/) [must](/en/post/must/) [be](/en/post/be/) obtained [through](/en/post/through/) diet.
+### [Noun](/post/noun/)
+[A](/post/a/) **[vitamin](/post/vitamin/)** is [a](/post/a/) [organic](/post/organic/) [substance](/post/substance/) [that](/post/that/) is [essential](/post/essential/) [for](/post/for/) maintaining [good](/post/good/) [health](/post/health/) [and](/post/and/) [proper](/post/proper/) bodily [function](/post/function/), [but](/post/but/) cannot [be](/post/be/) synthesized [by](/post/by/) [the](/post/the/) [body](/post/body/) [in](/post/in/) [sufficient](/post/sufficient/) quantities [and](/post/and/) [must](/post/must/) [be](/post/be/) obtained [through](/post/through/) diet.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[take](/en/post/take/) vitamins** [or](/en/post/or/) **[consume](/en/post/consume/) vitamins** refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) ingesting [vitamin](/en/post/vitamin/) supplements [or](/en/post/or/) incorporating [them](/en/post/them/) [into](/en/post/into/) one's [daily](/en/post/daily/) [routine](/en/post/routine/) [to](/en/post/to/) [maintain](/en/post/maintain/) [health](/en/post/health/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[take](/post/take/) vitamins** [or](/post/or/) **[consume](/post/consume/) vitamins** refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) ingesting [vitamin](/post/vitamin/) supplements [or](/post/or/) incorporating [them](/post/them/) [into](/post/into/) one's [daily](/post/daily/) [routine](/post/routine/) [to](/post/to/) [maintain](/post/maintain/) [health](/post/health/).
 
-### [Adjective](/en/post/adjective/)
-"Vitamin-rich" describes [food](/en/post/food/) [or](/en/post/or/) products [that](/en/post/that/) are [high](/en/post/high/) [in](/en/post/in/) [essential](/en/post/essential/) vitamins.
+### [Adjective](/post/adjective/)
+"Vitamin-rich" describes [food](/post/food/) [or](/post/or/) products [that](/post/that/) are [high](/post/high/) [in](/post/in/) [essential](/post/essential/) vitamins.
 
 ## Phrases
-- "[A](/en/post/a/) [daily](/en/post/daily/) multivitamin" is [a](/en/post/a/) [supplement](/en/post/supplement/) containing [various](/en/post/various/) vitamins.
-- "[Get](/en/post/get/) [your](/en/post/your/) [daily](/en/post/daily/) [dose](/en/post/dose/) [of](/en/post/of/) vitamins" is [a](/en/post/a/) reminder [to](/en/post/to/) [consume](/en/post/consume/) [necessary](/en/post/necessary/) vitamins.
-- "[Vitamin](/en/post/vitamin/) C is [essential](/en/post/essential/) [for](/en/post/for/) [a](/en/post/a/) [healthy](/en/post/healthy/) immune [system](/en/post/system/)."
+- "[A](/post/a/) [daily](/post/daily/) multivitamin" is [a](/post/a/) [supplement](/post/supplement/) containing [various](/post/various/) vitamins.
+- "[Get](/post/get/) [your](/post/your/) [daily](/post/daily/) [dose](/post/dose/) [of](/post/of/) vitamins" is [a](/post/a/) reminder [to](/post/to/) [consume](/post/consume/) [necessary](/post/necessary/) vitamins.
+- "[Vitamin](/post/vitamin/) C is [essential](/post/essential/) [for](/post/for/) [a](/post/a/) [healthy](/post/healthy/) immune [system](/post/system/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) takes [a](/en/post/a/) [daily](/en/post/daily/) [vitamin](/en/post/vitamin/) [to](/en/post/to/) [support](/en/post/support/) [her](/en/post/her/) [overall](/en/post/overall/) well-being."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) recommended [he](/en/post/he/) [increase](/en/post/increase/) [his](/en/post/his/) [vitamin](/en/post/vitamin/) D intake."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [fruit](/en/post/fruit/) [salad](/en/post/salad/) is packed [with](/en/post/with/) [vitamin](/en/post/vitamin/) C."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) takes [a](/post/a/) [daily](/post/daily/) [vitamin](/post/vitamin/) [to](/post/to/) [support](/post/support/) [her](/post/her/) [overall](/post/overall/) well-being."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [doctor](/post/doctor/) recommended [he](/post/he/) [increase](/post/increase/) [his](/post/his/) [vitamin](/post/vitamin/) D intake."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [fruit](/post/fruit/) [salad](/post/salad/) is packed [with](/post/with/) [vitamin](/post/vitamin/) C."
 
 ## Synonyms
 - Nutrient
-- [Mineral](/en/post/mineral/) [supplement](/en/post/supplement/)
-- [Essential](/en/post/essential/) nutrient
+- [Mineral](/post/mineral/) [supplement](/post/supplement/)
+- [Essential](/post/essential/) nutrient
 - Antioxidant
 - Micronutrient
 
 ## Related Words
-- **[Vitamin](/en/post/vitamin/) [A](/en/post/a/)**: Aids [in](/en/post/in/) [vision](/en/post/vision/) [and](/en/post/and/) [skin](/en/post/skin/) [health](/en/post/health/).
-- **[Vitamin](/en/post/vitamin/) B [complex](/en/post/complex/)**: Includes [several](/en/post/several/) B vitamins involved [in](/en/post/in/) [energy](/en/post/energy/) metabolism.
-- **[Vitamin](/en/post/vitamin/) D**: Helps [with](/en/post/with/) calcium absorption [for](/en/post/for/) [strong](/en/post/strong/) bones.
-- **[Vitamin](/en/post/vitamin/) E**: An antioxidant protecting cells [from](/en/post/from/) [damage](/en/post/damage/).
-- **[Vitamin](/en/post/vitamin/) C**: Crucial [for](/en/post/for/) collagen [production](/en/post/production/) [and](/en/post/and/) immune [function](/en/post/function/).
+- **[Vitamin](/post/vitamin/) [A](/post/a/)**: Aids [in](/post/in/) [vision](/post/vision/) [and](/post/and/) [skin](/post/skin/) [health](/post/health/).
+- **[Vitamin](/post/vitamin/) B [complex](/post/complex/)**: Includes [several](/post/several/) B vitamins involved [in](/post/in/) [energy](/post/energy/) metabolism.
+- **[Vitamin](/post/vitamin/) D**: Helps [with](/post/with/) calcium absorption [for](/post/for/) [strong](/post/strong/) bones.
+- **[Vitamin](/post/vitamin/) E**: An antioxidant protecting cells [from](/post/from/) [damage](/post/damage/).
+- **[Vitamin](/post/vitamin/) C**: Crucial [for](/post/for/) collagen [production](/post/production/) [and](/post/and/) immune [function](/post/function/).

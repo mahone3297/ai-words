@@ -7,45 +7,45 @@ description = '[ˈbɔtl] n.瓶，酒瓶；一瓶'
 keywords = ['ai words', 'bottle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bəˈtɑːl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [container](/en/post/container/) made [of](/en/post/of/) [glass](/en/post/glass/), [plastic](/en/post/plastic/), [or](/en/post/or/) [other](/en/post/other/) [material](/en/post/material/), [with](/en/post/with/) [a](/en/post/a/) [neck](/en/post/neck/) [and](/en/post/and/) [a](/en/post/a/) stopper [or](/en/post/or/) [lid](/en/post/lid/), [used](/en/post/used/) [for](/en/post/for/) holding liquids.**
-- **[A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [quantity](/en/post/quantity/) [for](/en/post/for/) [a](/en/post/a/) [certain](/en/post/certain/) [amount](/en/post/amount/) [of](/en/post/of/) [a](/en/post/a/) [liquid](/en/post/liquid/), typically measured [by](/en/post/by/) [capacity](/en/post/capacity/).**
-- **An old-fashioned [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [person](/en/post/person/), [often](/en/post/often/) [used](/en/post/used/) affectionately [or](/en/post/or/) humorously.**
+### [Noun](/post/noun/)
+- **[A](/post/a/) [container](/post/container/) made [of](/post/of/) [glass](/post/glass/), [plastic](/post/plastic/), [or](/post/or/) [other](/post/other/) [material](/post/material/), [with](/post/with/) [a](/post/a/) [neck](/post/neck/) [and](/post/and/) [a](/post/a/) stopper [or](/post/or/) [lid](/post/lid/), [used](/post/used/) [for](/post/for/) holding liquids.**
+- **[A](/post/a/) [unit](/post/unit/) [of](/post/of/) [quantity](/post/quantity/) [for](/post/for/) [a](/post/a/) [certain](/post/certain/) [amount](/post/amount/) [of](/post/of/) [a](/post/a/) [liquid](/post/liquid/), typically measured [by](/post/by/) [capacity](/post/capacity/).**
+- **An old-fashioned [term](/post/term/) [for](/post/for/) [a](/post/a/) [person](/post/person/), [often](/post/often/) [used](/post/used/) affectionately [or](/post/or/) humorously.**
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [transfer](/en/post/transfer/) [a](/en/post/a/) [liquid](/en/post/liquid/) [from](/en/post/from/) [one](/en/post/one/) [container](/en/post/container/) [to](/en/post/to/) [another](/en/post/another/), [especially](/en/post/especially/) [by](/en/post/by/) pouring.**
-- **[To](/en/post/to/) [serve](/en/post/serve/) ([a](/en/post/a/) [drink](/en/post/drink/)) [in](/en/post/in/) [a](/en/post/a/) [bottle](/en/post/bottle/).**
-- **[To](/en/post/to/) [express](/en/post/express/) [or](/en/post/or/) [communicate](/en/post/communicate/) [a](/en/post/a/) [message](/en/post/message/) [or](/en/post/or/) [idea](/en/post/idea/) [in](/en/post/in/) [a](/en/post/a/) concise [form](/en/post/form/), [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) software update.**
+### [Verb](/post/verb/)
+- **[To](/post/to/) [transfer](/post/transfer/) [a](/post/a/) [liquid](/post/liquid/) [from](/post/from/) [one](/post/one/) [container](/post/container/) [to](/post/to/) [another](/post/another/), [especially](/post/especially/) [by](/post/by/) pouring.**
+- **[To](/post/to/) [serve](/post/serve/) ([a](/post/a/) [drink](/post/drink/)) [in](/post/in/) [a](/post/a/) [bottle](/post/bottle/).**
+- **[To](/post/to/) [express](/post/express/) [or](/post/or/) [communicate](/post/communicate/) [a](/post/a/) [message](/post/message/) [or](/post/or/) [idea](/post/idea/) [in](/post/in/) [a](/post/a/) concise [form](/post/form/), [as](/post/as/) [in](/post/in/) [a](/post/a/) software update.**
 
-### [Adjective](/en/post/adjective/)
-- **[In](/en/post/in/) [the](/en/post/the/) [shape](/en/post/shape/) [of](/en/post/of/) [a](/en/post/a/) [bottle](/en/post/bottle/), having [a](/en/post/a/) cylindrical [body](/en/post/body/) [and](/en/post/and/) [a](/en/post/a/) [neck](/en/post/neck/).**
-- **Related [to](/en/post/to/) [alcohol](/en/post/alcohol/) [or](/en/post/or/) bottles, [especially](/en/post/especially/) alcoholic beverages.**
+### [Adjective](/post/adjective/)
+- **[In](/post/in/) [the](/post/the/) [shape](/post/shape/) [of](/post/of/) [a](/post/a/) [bottle](/post/bottle/), having [a](/post/a/) cylindrical [body](/post/body/) [and](/post/and/) [a](/post/a/) [neck](/post/neck/).**
+- **Related [to](/post/to/) [alcohol](/post/alcohol/) [or](/post/or/) bottles, [especially](/post/especially/) alcoholic beverages.**
 
-### [Noun](/en/post/noun/) ([plural](/en/post/plural/))
-- **Bottles, [the](/en/post/the/) [plural](/en/post/plural/) [form](/en/post/form/) [of](/en/post/of/) [the](/en/post/the/) [noun](/en/post/noun/).**
+### [Noun](/post/noun/) ([plural](/post/plural/))
+- **Bottles, [the](/post/the/) [plural](/post/plural/) [form](/post/form/) [of](/post/of/) [the](/post/the/) [noun](/post/noun/).**
 
 ## Phrases
-- "[Pour](/en/post/pour/) [a](/en/post/a/) [bottle](/en/post/bottle/) [of](/en/post/of/) [wine](/en/post/wine/)" [or](/en/post/or/) "[Fill](/en/post/fill/) [a](/en/post/a/) [bottle](/en/post/bottle/)"
-- "[Keep](/en/post/keep/) [a](/en/post/a/) [spare](/en/post/spare/) [bottle](/en/post/bottle/) [on](/en/post/on/) [hand](/en/post/hand/)"
-- "Recycle [the](/en/post/the/) [empty](/en/post/empty/) [bottle](/en/post/bottle/)"
-- "[The](/en/post/the/) [bottle](/en/post/bottle/) [cap](/en/post/cap/) popped [off](/en/post/off/)"
-- "[A](/en/post/a/) [bottle](/en/post/bottle/) [of](/en/post/of/) [water](/en/post/water/)"
+- "[Pour](/post/pour/) [a](/post/a/) [bottle](/post/bottle/) [of](/post/of/) [wine](/post/wine/)" [or](/post/or/) "[Fill](/post/fill/) [a](/post/a/) [bottle](/post/bottle/)"
+- "[Keep](/post/keep/) [a](/post/a/) [spare](/post/spare/) [bottle](/post/bottle/) [on](/post/on/) [hand](/post/hand/)"
+- "Recycle [the](/post/the/) [empty](/post/empty/) [bottle](/post/bottle/)"
+- "[The](/post/the/) [bottle](/post/bottle/) [cap](/post/cap/) popped [off](/post/off/)"
+- "[A](/post/a/) [bottle](/post/bottle/) [of](/post/of/) [water](/post/water/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) unscrewed [the](/en/post/the/) [bottle](/en/post/bottle/) [and](/en/post/and/) took [a](/en/post/a/) sip [of](/en/post/of/) [water](/en/post/water/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) bartender filled [each](/en/post/each/) customer's [glass](/en/post/glass/) [from](/en/post/from/) [a](/en/post/a/) [large](/en/post/large/) [bottle](/en/post/bottle/) [of](/en/post/of/) whiskey."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) antique [shop](/en/post/shop/) had [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) beautifully decorated [glass](/en/post/glass/) bottles."
-- **[Plural](/en/post/plural/)**: "[She](/en/post/she/) bought [several](/en/post/several/) bottles [of](/en/post/of/) [shampoo](/en/post/shampoo/) [at](/en/post/at/) [the](/en/post/the/) [store](/en/post/store/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) unscrewed [the](/post/the/) [bottle](/post/bottle/) [and](/post/and/) took [a](/post/a/) sip [of](/post/of/) [water](/post/water/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) bartender filled [each](/post/each/) customer's [glass](/post/glass/) [from](/post/from/) [a](/post/a/) [large](/post/large/) [bottle](/post/bottle/) [of](/post/of/) whiskey."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) antique [shop](/post/shop/) had [a](/post/a/) [collection](/post/collection/) [of](/post/of/) beautifully decorated [glass](/post/glass/) bottles."
+- **[Plural](/post/plural/)**: "[She](/post/she/) bought [several](/post/several/) bottles [of](/post/of/) [shampoo](/post/shampoo/) [at](/post/at/) [the](/post/the/) [store](/post/store/)."
 
 ## Synonyms
 - Flask
 - Jug
 - Cask
 - Vial
-- Flask ([for](/en/post/for/) [a](/en/post/a/) smaller, [portable](/en/post/portable/) [version](/en/post/version/))
-- [Container](/en/post/container/)
--酒精瓶 (alcoholic beverage [bottle](/en/post/bottle/), Chinese)
+- Flask ([for](/post/for/) [a](/post/a/) smaller, [portable](/post/portable/) [version](/post/version/))
+- [Container](/post/container/)
+-酒精瓶 (alcoholic beverage [bottle](/post/bottle/), Chinese)

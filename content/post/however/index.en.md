@@ -7,33 +7,33 @@ description = '[hauˈevə] ad.然而；不管怎样'
 keywords = ['ai words', 'however']
 +++
 
-## [Word](/en/post/word/): [However](/en/post/however/)
+## [Word](/post/word/): [However](/post/however/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌhauˈevər/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [statement](/en/post/statement/) [that](/en/post/that/) contrasts [with](/en/post/with/) [or](/en/post/or/) seems [to](/en/post/to/) contradict [something](/en/post/something/) [that](/en/post/that/) has been [previously](/en/post/previously/) stated, [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [what](/en/post/what/) follows is [unexpected](/en/post/unexpected/) [or](/en/post/or/) [surprising](/en/post/surprising/). [For](/en/post/for/) [example](/en/post/example/): "I tried [to](/en/post/to/) [convince](/en/post/convince/) [him](/en/post/him/); [however](/en/post/however/), [he](/en/post/he/) wouldn't [listen](/en/post/listen/)."
+- **[Adverb](/post/adverb/)**: [Used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [statement](/post/statement/) [that](/post/that/) contrasts [with](/post/with/) [or](/post/or/) seems [to](/post/to/) contradict [something](/post/something/) [that](/post/that/) has been [previously](/post/previously/) stated, [often](/post/often/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [what](/post/what/) follows is [unexpected](/post/unexpected/) [or](/post/or/) [surprising](/post/surprising/). [For](/post/for/) [example](/post/example/): "I tried [to](/post/to/) [convince](/post/convince/) [him](/post/him/); [however](/post/however/), [he](/post/he/) wouldn't [listen](/post/listen/)."
   
-  > "[We](/en/post/we/) [thought](/en/post/thought/) [it](/en/post/it/) [would](/en/post/would/) [rain](/en/post/rain/) [today](/en/post/today/); [however](/en/post/however/), [the](/en/post/the/) [sun](/en/post/sun/) is shining brightly."
+  > "[We](/post/we/) [thought](/post/thought/) [it](/post/it/) [would](/post/would/) [rain](/post/rain/) [today](/post/today/); [however](/post/however/), [the](/post/the/) [sun](/post/sun/) is shining brightly."
   
-- **[Conjunction](/en/post/conjunction/)**: Serving [to](/en/post/to/) [connect](/en/post/connect/) contrasting ideas [or](/en/post/or/) clauses, typically [between](/en/post/between/) [independent](/en/post/independent/) clauses. [It](/en/post/it/) introduces [a](/en/post/a/) clause [that](/en/post/that/) contrasts [with](/en/post/with/) [the](/en/post/the/) [preceding](/en/post/preceding/) clause. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [tired](/en/post/tired/); [however](/en/post/however/), [she](/en/post/she/) stayed [up](/en/post/up/) [late](/en/post/late/) [to](/en/post/to/) [finish](/en/post/finish/) [her](/en/post/her/) [project](/en/post/project/)."
+- **[Conjunction](/post/conjunction/)**: Serving [to](/post/to/) [connect](/post/connect/) contrasting ideas [or](/post/or/) clauses, typically [between](/post/between/) [independent](/post/independent/) clauses. [It](/post/it/) introduces [a](/post/a/) clause [that](/post/that/) contrasts [with](/post/with/) [the](/post/the/) [preceding](/post/preceding/) clause. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [tired](/post/tired/); [however](/post/however/), [she](/post/she/) stayed [up](/post/up/) [late](/post/late/) [to](/post/to/) [finish](/post/finish/) [her](/post/her/) [project](/post/project/)."
 
-  > "[The](/en/post/the/) hike was exhausting; [however](/en/post/however/), [the](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) summit made [it](/en/post/it/) [all](/en/post/all/) [worthwhile](/en/post/worthwhile/)."
+  > "[The](/post/the/) hike was exhausting; [however](/post/however/), [the](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) summit made [it](/post/it/) [all](/post/all/) [worthwhile](/post/worthwhile/)."
 
 ## Phrases
-- "[However](/en/post/however/) [much](/en/post/much/)/[many](/en/post/many/)": Indicating [no](/en/post/no/) [matter](/en/post/matter/) [how](/en/post/how/) [great](/en/post/great/) [the](/en/post/the/) [quantity](/en/post/quantity/) [or](/en/post/or/) [extent](/en/post/extent/). [For](/en/post/for/) [example](/en/post/example/): "[However](/en/post/however/) [much](/en/post/much/) [they](/en/post/they/) [try](/en/post/try/), [they](/en/post/they/) can't [seem](/en/post/seem/) [to](/en/post/to/) [agree](/en/post/agree/) [on](/en/post/on/) [anything](/en/post/anything/)."
-- "[However](/en/post/however/) [that](/en/post/that/) [may](/en/post/may/) [be](/en/post/be/)": Expressing [the](/en/post/the/) [fact](/en/post/fact/) [that](/en/post/that/) [something](/en/post/something/) is [true](/en/post/true/) [despite](/en/post/despite/) [any](/en/post/any/) [possible](/en/post/possible/) objections. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) claimed [he](/en/post/he/) was [innocent](/en/post/innocent/); [however](/en/post/however/) [that](/en/post/that/) [may](/en/post/may/) [be](/en/post/be/), [he](/en/post/he/) [still](/en/post/still/) had [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [court](/en/post/court/)."
+- "[However](/post/however/) [much](/post/much/)/[many](/post/many/)": Indicating [no](/post/no/) [matter](/post/matter/) [how](/post/how/) [great](/post/great/) [the](/post/the/) [quantity](/post/quantity/) [or](/post/or/) [extent](/post/extent/). [For](/post/for/) [example](/post/example/): "[However](/post/however/) [much](/post/much/) [they](/post/they/) [try](/post/try/), [they](/post/they/) can't [seem](/post/seem/) [to](/post/to/) [agree](/post/agree/) [on](/post/on/) [anything](/post/anything/)."
+- "[However](/post/however/) [that](/post/that/) [may](/post/may/) [be](/post/be/)": Expressing [the](/post/the/) [fact](/post/fact/) [that](/post/that/) [something](/post/something/) is [true](/post/true/) [despite](/post/despite/) [any](/post/any/) [possible](/post/possible/) objections. [For](/post/for/) [example](/post/example/): "[He](/post/he/) claimed [he](/post/he/) was [innocent](/post/innocent/); [however](/post/however/) [that](/post/that/) [may](/post/may/) [be](/post/be/), [he](/post/he/) [still](/post/still/) had [to](/post/to/) [go](/post/go/) [to](/post/to/) [court](/post/court/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) said [he](/en/post/he/) disliked hiking; [however](/en/post/however/), [he](/en/post/he/) agreed [to](/en/post/to/) [join](/en/post/join/) [us](/en/post/us/) [on](/en/post/on/) [this](/en/post/this/) [trip](/en/post/trip/)."
-- **[Conjunction](/en/post/conjunction/)**: "[She](/en/post/she/) had studied [hard](/en/post/hard/) [for](/en/post/for/) [the](/en/post/the/) [exam](/en/post/exam/); [however](/en/post/however/), [she](/en/post/she/) [still](/en/post/still/) [found](/en/post/found/) [the](/en/post/the/) questions challenging."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) said [he](/post/he/) disliked hiking; [however](/post/however/), [he](/post/he/) agreed [to](/post/to/) [join](/post/join/) [us](/post/us/) [on](/post/on/) [this](/post/this/) [trip](/post/trip/)."
+- **[Conjunction](/post/conjunction/)**: "[She](/post/she/) had studied [hard](/post/hard/) [for](/post/for/) [the](/post/the/) [exam](/post/exam/); [however](/post/however/), [she](/post/she/) [still](/post/still/) [found](/post/found/) [the](/post/the/) questions challenging."
 
 ## Synonyms
-- [Nevertheless](/en/post/nevertheless/)
+- [Nevertheless](/post/nevertheless/)
 - Nonetheless
-- [Despite](/en/post/despite/) [that](/en/post/that/)
-- [In](/en/post/in/) spite [of](/en/post/of/) [that](/en/post/that/)
-- [Still](/en/post/still/)
-- [Yet](/en/post/yet/)
-- [Even](/en/post/even/) [so](/en/post/so/)
+- [Despite](/post/despite/) [that](/post/that/)
+- [In](/post/in/) spite [of](/post/of/) [that](/post/that/)
+- [Still](/post/still/)
+- [Yet](/post/yet/)
+- [Even](/post/even/) [so](/post/so/)

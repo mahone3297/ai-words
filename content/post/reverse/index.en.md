@@ -7,22 +7,22 @@ description = '[riˈvəːs] vt.颠倒，翻转 n.背面'
 keywords = ['ai words', 'reverse']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈvɜːrs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) [turning](/en/post/turning/) [something](/en/post/something/) [back](/en/post/back/) [to](/en/post/to/) [its](/en/post/its/) [original](/en/post/original/) [position](/en/post/position/) [or](/en/post/or/) orientation; reversal. 2. An [opposite](/en/post/opposite/) [or](/en/post/or/) [reverse](/en/post/reverse/) [order](/en/post/order/) [or](/en/post/or/) [arrangement](/en/post/arrangement/). 3. (Computing) [The](/en/post/the/) [operation](/en/post/operation/) [of](/en/post/of/) undoing [a](/en/post/a/) [previous](/en/post/previous/) [action](/en/post/action/) [or](/en/post/or/) [step](/en/post/step/). 4. [A](/en/post/a/) person's [opinion](/en/post/opinion/) [or](/en/post/or/) [attitude](/en/post/attitude/) towards [something](/en/post/something/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is [contrary](/en/post/contrary/) [to](/en/post/to/) [what](/en/post/what/) is expected [or](/en/post/or/) considered [normal](/en/post/normal/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [turn](/en/post/turn/) [or](/en/post/or/) [place](/en/post/place/) [something](/en/post/something/) [backward](/en/post/backward/), upside [down](/en/post/down/), [or](/en/post/or/) [in](/en/post/in/) [the](/en/post/the/) [opposite](/en/post/opposite/) [direction](/en/post/direction/). 2. [To](/en/post/to/) [reverse](/en/post/reverse/) [the](/en/post/the/) [order](/en/post/order/) [or](/en/post/or/) [sequence](/en/post/sequence/) [of](/en/post/of/) [something](/en/post/something/). 3. ([Business](/en/post/business/)) [To](/en/post/to/) [change](/en/post/change/) [the](/en/post/the/) [ownership](/en/post/ownership/) [or](/en/post/or/) [control](/en/post/control/) [of](/en/post/of/) [a](/en/post/a/) [company](/en/post/company/), [usually](/en/post/usually/) [through](/en/post/through/) [a](/en/post/a/) [financial](/en/post/financial/) transaction.
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) [turning](/post/turning/) [something](/post/something/) [back](/post/back/) [to](/post/to/) [its](/post/its/) [original](/post/original/) [position](/post/position/) [or](/post/or/) orientation; reversal. 2. An [opposite](/post/opposite/) [or](/post/or/) [reverse](/post/reverse/) [order](/post/order/) [or](/post/or/) [arrangement](/post/arrangement/). 3. (Computing) [The](/post/the/) [operation](/post/operation/) [of](/post/of/) undoing [a](/post/a/) [previous](/post/previous/) [action](/post/action/) [or](/post/or/) [step](/post/step/). 4. [A](/post/a/) person's [opinion](/post/opinion/) [or](/post/or/) [attitude](/post/attitude/) towards [something](/post/something/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is [contrary](/post/contrary/) [to](/post/to/) [what](/post/what/) is expected [or](/post/or/) considered [normal](/post/normal/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [turn](/post/turn/) [or](/post/or/) [place](/post/place/) [something](/post/something/) [backward](/post/backward/), upside [down](/post/down/), [or](/post/or/) [in](/post/in/) [the](/post/the/) [opposite](/post/opposite/) [direction](/post/direction/). 2. [To](/post/to/) [reverse](/post/reverse/) [the](/post/the/) [order](/post/order/) [or](/post/or/) [sequence](/post/sequence/) [of](/post/of/) [something](/post/something/). 3. ([Business](/post/business/)) [To](/post/to/) [change](/post/change/) [the](/post/the/) [ownership](/post/ownership/) [or](/post/or/) [control](/post/control/) [of](/post/of/) [a](/post/a/) [company](/post/company/), [usually](/post/usually/) [through](/post/through/) [a](/post/a/) [financial](/post/financial/) transaction.
 
 ## Phrases
-- "[Reverse](/en/post/reverse/) [course](/en/post/course/)" [means](/en/post/means/) [to](/en/post/to/) [change](/en/post/change/) [direction](/en/post/direction/) [or](/en/post/or/) [strategy](/en/post/strategy/).
-- "[Reverse](/en/post/reverse/) gears" refers [to](/en/post/to/) shifting [a](/en/post/a/) [vehicle](/en/post/vehicle/) [backward](/en/post/backward/).
-- "[Reverse](/en/post/reverse/) psychology" is [a](/en/post/a/) [technique](/en/post/technique/) [used](/en/post/used/) [to](/en/post/to/) [influence](/en/post/influence/) [someone](/en/post/someone/) [by](/en/post/by/) suggesting [the](/en/post/the/) [opposite](/en/post/opposite/) [of](/en/post/of/) [what](/en/post/what/) [they](/en/post/they/) [want](/en/post/want/).
+- "[Reverse](/post/reverse/) [course](/post/course/)" [means](/post/means/) [to](/post/to/) [change](/post/change/) [direction](/post/direction/) [or](/post/or/) [strategy](/post/strategy/).
+- "[Reverse](/post/reverse/) gears" refers [to](/post/to/) shifting [a](/post/a/) [vehicle](/post/vehicle/) [backward](/post/backward/).
+- "[Reverse](/post/reverse/) psychology" is [a](/post/a/) [technique](/post/technique/) [used](/post/used/) [to](/post/to/) [influence](/post/influence/) [someone](/post/someone/) [by](/post/by/) suggesting [the](/post/the/) [opposite](/post/opposite/) [of](/post/of/) [what](/post/what/) [they](/post/they/) [want](/post/want/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) car's [engine](/en/post/engine/) has been reversed [for](/en/post/for/) [better](/en/post/better/) [fuel](/en/post/fuel/) [efficiency](/en/post/efficiency/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) reversed [the](/en/post/the/) [direction](/en/post/direction/) [of](/en/post/of/) [her](/en/post/her/) [bicycle](/en/post/bicycle/) [to](/en/post/to/) [avoid](/en/post/avoid/) hitting [a](/en/post/a/) pedestrian."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) [customer](/en/post/customer/) [feedback](/en/post/feedback/), [the](/en/post/the/) [company](/en/post/company/) reversed [its](/en/post/its/) [decision](/en/post/decision/) [on](/en/post/on/) [the](/en/post/the/) [product](/en/post/product/) pricing."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) car's [engine](/post/engine/) has been reversed [for](/post/for/) [better](/post/better/) [fuel](/post/fuel/) [efficiency](/post/efficiency/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) reversed [the](/post/the/) [direction](/post/direction/) [of](/post/of/) [her](/post/her/) [bicycle](/post/bicycle/) [to](/post/to/) [avoid](/post/avoid/) hitting [a](/post/a/) pedestrian."
+- **[Verb](/post/verb/)**: "[In](/post/in/) [response](/post/response/) [to](/post/to/) [customer](/post/customer/) [feedback](/post/feedback/), [the](/post/the/) [company](/post/company/) reversed [its](/post/its/) [decision](/post/decision/) [on](/post/on/) [the](/post/the/) [product](/post/product/) pricing."
 
 ## Synonyms
 - Flip
@@ -30,12 +30,12 @@ keywords = ['ai words', 'reverse']
 - Invert
 - Reversal
 - U-turn
-- [Reverse](/en/post/reverse/) [order](/en/post/order/)
-- [Opposite](/en/post/opposite/) [direction](/en/post/direction/)
+- [Reverse](/post/reverse/) [order](/post/order/)
+- [Opposite](/post/opposite/) [direction](/post/direction/)
 
 ## Antonyms
-- [Forward](/en/post/forward/)
-- [Direct](/en/post/direct/)
-- [Progress](/en/post/progress/)
-- [Advance](/en/post/advance/)
-- Enhance ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [improvement](/en/post/improvement/))
+- [Forward](/post/forward/)
+- [Direct](/post/direct/)
+- [Progress](/post/progress/)
+- [Advance](/post/advance/)
+- Enhance ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [improvement](/post/improvement/))

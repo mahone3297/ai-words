@@ -7,37 +7,37 @@ description = '[praim] a.首要的 n.春，青春'
 keywords = ['ai words', 'prime']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-    - [A](/en/post/a/) [primary](/en/post/primary/) [or](/en/post/or/) [most](/en/post/most/) [important](/en/post/important/) [quality](/en/post/quality/) [or](/en/post/or/) [characteristic](/en/post/characteristic/); [a](/en/post/a/) [leading](/en/post/leading/) [or](/en/post/or/) [outstanding](/en/post/outstanding/) [feature](/en/post/feature/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [prime](/en/post/prime/) [factor](/en/post/factor/) [of](/en/post/of/) 15 is 3."
-    - [The](/en/post/the/) [first](/en/post/first/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) [sequence](/en/post/sequence/); [a](/en/post/a/) [principal](/en/post/principal/) [or](/en/post/or/) [chief](/en/post/chief/). [For](/en/post/for/) [example](/en/post/example/): "London is [the](/en/post/the/) [prime](/en/post/prime/) minister's [residence](/en/post/residence/)."
-    - [In](/en/post/in/) [mathematics](/en/post/mathematics/), [a](/en/post/a/) [prime](/en/post/prime/) [number](/en/post/number/) is [a](/en/post/a/) [natural](/en/post/natural/) [number](/en/post/number/) greater [than](/en/post/than/) 1 [that](/en/post/that/) has [no](/en/post/no/) divisors [other](/en/post/other/) [than](/en/post/than/) 1 [and](/en/post/and/) [itself](/en/post/itself/). [For](/en/post/for/) [example](/en/post/example/): "2, 3, [and](/en/post/and/) 5 are [prime](/en/post/prime/) numbers."
-- **[Adjective](/en/post/adjective/)**: 
-    - [Most](/en/post/most/) [significant](/en/post/significant/) [or](/en/post/or/) [important](/en/post/important/); top-ranking. [For](/en/post/for/) [example](/en/post/example/): "[Prime](/en/post/prime/) [time](/en/post/time/) is [when](/en/post/when/) [television](/en/post/television/) ratings are highest."
-    - [Directly](/en/post/directly/) affecting [or](/en/post/or/) producing [a](/en/post/a/) [result](/en/post/result/); [essential](/en/post/essential/). [For](/en/post/for/) [example](/en/post/example/): "[Physical](/en/post/physical/) [exercise](/en/post/exercise/) is [prime](/en/post/prime/) [for](/en/post/for/) maintaining [good](/en/post/good/) [health](/en/post/health/)."
-- **[Verb](/en/post/verb/)**: 
-    - [To](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [best](/en/post/best/) [or](/en/post/or/) [most](/en/post/most/) [suitable](/en/post/suitable/) [choice](/en/post/choice/) [or](/en/post/or/) [candidate](/en/post/candidate/) [for](/en/post/for/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [house](/en/post/house/) is [prime](/en/post/prime/) [location](/en/post/location/) [for](/en/post/for/) [a](/en/post/a/) [family](/en/post/family/)."
-    - [To](/en/post/to/) [cut](/en/post/cut/) [or](/en/post/or/) [shape](/en/post/shape/) ([a](/en/post/a/) [surface](/en/post/surface/)) [into](/en/post/into/) [a](/en/post/a/) [regular](/en/post/regular/) [pattern](/en/post/pattern/), [especially](/en/post/especially/) [with](/en/post/with/) [a](/en/post/a/) [circular](/en/post/circular/) [saw](/en/post/saw/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [carpenter](/en/post/carpenter/) primed [the](/en/post/the/) [wood](/en/post/wood/) [before](/en/post/before/) nailing [it](/en/post/it/)."
+- **[Noun](/post/noun/)**: 
+    - [A](/post/a/) [primary](/post/primary/) [or](/post/or/) [most](/post/most/) [important](/post/important/) [quality](/post/quality/) [or](/post/or/) [characteristic](/post/characteristic/); [a](/post/a/) [leading](/post/leading/) [or](/post/or/) [outstanding](/post/outstanding/) [feature](/post/feature/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [prime](/post/prime/) [factor](/post/factor/) [of](/post/of/) 15 is 3."
+    - [The](/post/the/) [first](/post/first/) [in](/post/in/) [a](/post/a/) [series](/post/series/) [or](/post/or/) [sequence](/post/sequence/); [a](/post/a/) [principal](/post/principal/) [or](/post/or/) [chief](/post/chief/). [For](/post/for/) [example](/post/example/): "London is [the](/post/the/) [prime](/post/prime/) minister's [residence](/post/residence/)."
+    - [In](/post/in/) [mathematics](/post/mathematics/), [a](/post/a/) [prime](/post/prime/) [number](/post/number/) is [a](/post/a/) [natural](/post/natural/) [number](/post/number/) greater [than](/post/than/) 1 [that](/post/that/) has [no](/post/no/) divisors [other](/post/other/) [than](/post/than/) 1 [and](/post/and/) [itself](/post/itself/). [For](/post/for/) [example](/post/example/): "2, 3, [and](/post/and/) 5 are [prime](/post/prime/) numbers."
+- **[Adjective](/post/adjective/)**: 
+    - [Most](/post/most/) [significant](/post/significant/) [or](/post/or/) [important](/post/important/); top-ranking. [For](/post/for/) [example](/post/example/): "[Prime](/post/prime/) [time](/post/time/) is [when](/post/when/) [television](/post/television/) ratings are highest."
+    - [Directly](/post/directly/) affecting [or](/post/or/) producing [a](/post/a/) [result](/post/result/); [essential](/post/essential/). [For](/post/for/) [example](/post/example/): "[Physical](/post/physical/) [exercise](/post/exercise/) is [prime](/post/prime/) [for](/post/for/) maintaining [good](/post/good/) [health](/post/health/)."
+- **[Verb](/post/verb/)**: 
+    - [To](/post/to/) [be](/post/be/) [the](/post/the/) [best](/post/best/) [or](/post/or/) [most](/post/most/) [suitable](/post/suitable/) [choice](/post/choice/) [or](/post/or/) [candidate](/post/candidate/) [for](/post/for/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [house](/post/house/) is [prime](/post/prime/) [location](/post/location/) [for](/post/for/) [a](/post/a/) [family](/post/family/)."
+    - [To](/post/to/) [cut](/post/cut/) [or](/post/or/) [shape](/post/shape/) ([a](/post/a/) [surface](/post/surface/)) [into](/post/into/) [a](/post/a/) [regular](/post/regular/) [pattern](/post/pattern/), [especially](/post/especially/) [with](/post/with/) [a](/post/a/) [circular](/post/circular/) [saw](/post/saw/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [carpenter](/post/carpenter/) primed [the](/post/the/) [wood](/post/wood/) [before](/post/before/) nailing [it](/post/it/)."
 
 ## Phrases
-- "[Prime](/en/post/prime/) [number](/en/post/number/)" refers [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [type](/en/post/type/) [of](/en/post/of/) integer.
-- "[Prime](/en/post/prime/) [time](/en/post/time/)" refers [to](/en/post/to/) [the](/en/post/the/) [most](/en/post/most/) [popular](/en/post/popular/) hours [for](/en/post/for/) TV viewing.
-- "[Prime](/en/post/prime/) factorization" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) breaking [down](/en/post/down/) [a](/en/post/a/) [number](/en/post/number/) [into](/en/post/into/) [its](/en/post/its/) [prime](/en/post/prime/) factors.
+- "[Prime](/post/prime/) [number](/post/number/)" refers [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [type](/post/type/) [of](/post/of/) integer.
+- "[Prime](/post/prime/) [time](/post/time/)" refers [to](/post/to/) [the](/post/the/) [most](/post/most/) [popular](/post/popular/) hours [for](/post/for/) TV viewing.
+- "[Prime](/post/prime/) factorization" is [the](/post/the/) [process](/post/process/) [of](/post/of/) breaking [down](/post/down/) [a](/post/a/) [number](/post/number/) [into](/post/into/) [its](/post/its/) [prime](/post/prime/) factors.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [prime](/en/post/prime/) [factor](/en/post/factor/) [of](/en/post/of/) 36 is 2 [and](/en/post/and/) 3."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) chose [the](/en/post/the/) [prime](/en/post/prime/) [location](/en/post/location/) [for](/en/post/for/) [his](/en/post/his/) [new](/en/post/new/) [business](/en/post/business/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) contractor primed [the](/en/post/the/) walls [before](/en/post/before/) [painting](/en/post/painting/) [them](/en/post/them/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [prime](/post/prime/) [factor](/post/factor/) [of](/post/of/) 36 is 2 [and](/post/and/) 3."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) chose [the](/post/the/) [prime](/post/prime/) [location](/post/location/) [for](/post/for/) [his](/post/his/) [new](/post/new/) [business](/post/business/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) contractor primed [the](/post/the/) walls [before](/post/before/) [painting](/post/painting/) [them](/post/them/)."
 
 ## Synonyms
-- [Primary](/en/post/primary/)
-- [Chief](/en/post/chief/)
-- [Fundamental](/en/post/fundamental/)
-- [Essential](/en/post/essential/)
+- [Primary](/post/primary/)
+- [Chief](/post/chief/)
+- [Fundamental](/post/fundamental/)
+- [Essential](/post/essential/)
 - Top-notch
-- [Key](/en/post/key/)
+- [Key](/post/key/)
 - Primeval
-- Prime-time ([as](/en/post/as/) an [adjective](/en/post/adjective/))
+- Prime-time ([as](/post/as/) an [adjective](/post/adjective/))

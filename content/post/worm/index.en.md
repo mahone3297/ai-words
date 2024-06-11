@@ -7,36 +7,36 @@ description = '[wəːm] n.虫，蠕虫'
 keywords = ['ai words', 'worm']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɜːrm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/).** [A](/en/post/a/) [small](/en/post/small/), [thin](/en/post/thin/), cylindrical, often蠕动的 [animal](/en/post/animal/), typically having [a](/en/post/a/) [long](/en/post/long/), [flexible](/en/post/flexible/) [body](/en/post/body/) with环节 [and](/en/post/and/) [a](/en/post/a/) tubular digestive [system](/en/post/system/), [found](/en/post/found/) [in](/en/post/in/) [various](/en/post/various/) habitats [such](/en/post/such/) [as](/en/post/as/) [soil](/en/post/soil/), [water](/en/post/water/), [or](/en/post/or/) [on](/en/post/on/) plants (e.g., earthworms, roundworms).
-- **B.** [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) software [that](/en/post/that/) creates [security](/en/post/security/) vulnerabilities [in](/en/post/in/) [a](/en/post/a/) [computer](/en/post/computer/) [system](/en/post/system/) [by](/en/post/by/) inserting malicious [code](/en/post/code/) [into](/en/post/into/) [another](/en/post/another/) [program](/en/post/program/).
+### [Noun](/post/noun/)
+- **[A](/post/a/).** [A](/post/a/) [small](/post/small/), [thin](/post/thin/), cylindrical, often蠕动的 [animal](/post/animal/), typically having [a](/post/a/) [long](/post/long/), [flexible](/post/flexible/) [body](/post/body/) with环节 [and](/post/and/) [a](/post/a/) tubular digestive [system](/post/system/), [found](/post/found/) [in](/post/in/) [various](/post/various/) habitats [such](/post/such/) [as](/post/as/) [soil](/post/soil/), [water](/post/water/), [or](/post/or/) [on](/post/on/) plants (e.g., earthworms, roundworms).
+- **B.** [A](/post/a/) [type](/post/type/) [of](/post/of/) software [that](/post/that/) creates [security](/post/security/) vulnerabilities [in](/post/in/) [a](/post/a/) [computer](/post/computer/) [system](/post/system/) [by](/post/by/) inserting malicious [code](/post/code/) [into](/post/into/) [another](/post/another/) [program](/post/program/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) infest [or](/en/post/or/) [damage](/en/post/damage/) [with](/en/post/with/) worms.
-- [To](/en/post/to/) [cause](/en/post/cause/) [distress](/en/post/distress/) [or](/en/post/or/) discomfort, [often](/en/post/often/) figuratively.
+### [Verb](/post/verb/)
+- [To](/post/to/) infest [or](/post/or/) [damage](/post/damage/) [with](/post/with/) worms.
+- [To](/post/to/) [cause](/post/cause/) [distress](/post/distress/) [or](/post/or/) discomfort, [often](/post/often/) figuratively.
 
-### [Adjective](/en/post/adjective/)
-- Describing [something](/en/post/something/) [long](/en/post/long/), [narrow](/en/post/narrow/), [and](/en/post/and/) typically [soft](/en/post/soft/) [or](/en/post/or/) slimy, [like](/en/post/like/) [a](/en/post/a/) [worm](/en/post/worm/).
+### [Adjective](/post/adjective/)
+- Describing [something](/post/something/) [long](/post/long/), [narrow](/post/narrow/), [and](/post/and/) typically [soft](/post/soft/) [or](/post/or/) slimy, [like](/post/like/) [a](/post/a/) [worm](/post/worm/).
 
 ## Phrases
-- "[Worm](/en/post/worm/) [your](/en/post/your/) [way](/en/post/way/) [into](/en/post/into/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [gradually](/en/post/gradually/) [gain](/en/post/gain/) [influence](/en/post/influence/) [or](/en/post/or/) [acceptance](/en/post/acceptance/).
-- "[Rotten](/en/post/rotten/) [to](/en/post/to/) [the](/en/post/the/) [core](/en/post/core/)" [can](/en/post/can/) [imply](/en/post/imply/) [that](/en/post/that/) [something](/en/post/something/) is corrupt [or](/en/post/or/) [full](/en/post/full/) [of](/en/post/of/) worms (metaphorically).
+- "[Worm](/post/worm/) [your](/post/your/) [way](/post/way/) [into](/post/into/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [gradually](/post/gradually/) [gain](/post/gain/) [influence](/post/influence/) [or](/post/or/) [acceptance](/post/acceptance/).
+- "[Rotten](/post/rotten/) [to](/post/to/) [the](/post/the/) [core](/post/core/)" [can](/post/can/) [imply](/post/imply/) [that](/post/that/) [something](/post/something/) is corrupt [or](/post/or/) [full](/post/full/) [of](/post/of/) worms (metaphorically).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [garden](/en/post/garden/) was overrun [with](/en/post/with/) earthworms [after](/en/post/after/) [the](/en/post/the/) [rain](/en/post/rain/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) noticed [a](/en/post/a/) [worm](/en/post/worm/) infestation [in](/en/post/in/) [the](/en/post/the/) [fruit](/en/post/fruit/), [so](/en/post/so/) [she](/en/post/she/) threw [it](/en/post/it/) [away](/en/post/away/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [snake](/en/post/snake/) had [a](/en/post/a/) shiny, worm-like [appearance](/en/post/appearance/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [garden](/post/garden/) was overrun [with](/post/with/) earthworms [after](/post/after/) [the](/post/the/) [rain](/post/rain/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) noticed [a](/post/a/) [worm](/post/worm/) infestation [in](/post/in/) [the](/post/the/) [fruit](/post/fruit/), [so](/post/so/) [she](/post/she/) threw [it](/post/it/) [away](/post/away/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [snake](/post/snake/) had [a](/post/a/) shiny, worm-like [appearance](/post/appearance/)."
 
 ## Synonyms
 - Nematode
-- Vermiform [creature](/en/post/creature/)
-- Infesting [insect](/en/post/insect/)
+- Vermiform [creature](/post/creature/)
+- Infesting [insect](/post/insect/)
 - Crawler
 - Parasite
 
-### [Worm](/en/post/worm/) ([as](/en/post/as/) [a](/en/post/a/) [greeting](/en/post/greeting/))
-- "[Greet](/en/post/greet/) [someone](/en/post/someone/) [with](/en/post/with/) [a](/en/post/a/) [worm](/en/post/worm/)" (informal, [not](/en/post/not/) [a](/en/post/a/) literal [greeting](/en/post/greeting/))
+### [Worm](/post/worm/) ([as](/post/as/) [a](/post/a/) [greeting](/post/greeting/))
+- "[Greet](/post/greet/) [someone](/post/someone/) [with](/post/with/) [a](/post/a/) [worm](/post/worm/)" (informal, [not](/post/not/) [a](/post/a/) literal [greeting](/post/greeting/))

@@ -7,34 +7,34 @@ description = '[ˌiːkəˈnɔmikəl] a.节约的;经济学的'
 keywords = ['ai words', 'economical']
 +++
 
-## [Word](/en/post/word/): [Economical](/en/post/economical/)
+## [Word](/post/word/): [Economical](/post/economical/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌiːkəˈnɑːmɪkəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: ([of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [their](/en/post/their/) actions) Showing [careful](/en/post/careful/) [management](/en/post/management/) [of](/en/post/of/) resources, [especially](/en/post/especially/) [money](/en/post/money/); thrifty.
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[She](/en/post/she/) was [very](/en/post/very/) [economical](/en/post/economical/) [with](/en/post/with/) [her](/en/post/her/) [time](/en/post/time/) [and](/en/post/and/) managed [to](/en/post/to/) [complete](/en/post/complete/) [all](/en/post/all/) tasks efficiently."
+- **[Adjective](/post/adjective/)**: ([of](/post/of/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [their](/post/their/) actions) Showing [careful](/post/careful/) [management](/post/management/) [of](/post/of/) resources, [especially](/post/especially/) [money](/post/money/); thrifty.
+  - [Example](/post/example/) [Sentence](/post/sentence/): "[She](/post/she/) was [very](/post/very/) [economical](/post/economical/) [with](/post/with/) [her](/post/her/) [time](/post/time/) [and](/post/and/) managed [to](/post/to/) [complete](/post/complete/) [all](/post/all/) tasks efficiently."
   
-  - [Also](/en/post/also/) [means](/en/post/means/) ([of](/en/post/of/) [a](/en/post/a/) [product](/en/post/product/), [process](/en/post/process/), [or](/en/post/or/) [system](/en/post/system/)) achieving [maximum](/en/post/maximum/) productivity [with](/en/post/with/) [minimum](/en/post/minimum/) wasted [effort](/en/post/effort/) [or](/en/post/or/) [expense](/en/post/expense/).
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [new](/en/post/new/) [car](/en/post/car/) [model](/en/post/model/) is [both](/en/post/both/) [economical](/en/post/economical/) [and](/en/post/and/) environmentally [friendly](/en/post/friendly/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [fuel](/en/post/fuel/) [efficiency](/en/post/efficiency/)."
+  - [Also](/post/also/) [means](/post/means/) ([of](/post/of/) [a](/post/a/) [product](/post/product/), [process](/post/process/), [or](/post/or/) [system](/post/system/)) achieving [maximum](/post/maximum/) productivity [with](/post/with/) [minimum](/post/minimum/) wasted [effort](/post/effort/) [or](/post/or/) [expense](/post/expense/).
+  - [Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) [new](/post/new/) [car](/post/car/) [model](/post/model/) is [both](/post/both/) [economical](/post/economical/) [and](/post/and/) environmentally [friendly](/post/friendly/) [due](/post/due/) [to](/post/to/) [its](/post/its/) [fuel](/post/fuel/) [efficiency](/post/efficiency/)."
 
 ## Phrases
-- "[To](/en/post/to/) [be](/en/post/be/) [economical](/en/post/economical/) [with](/en/post/with/) [the](/en/post/the/) [truth](/en/post/truth/)": [To](/en/post/to/) [not](/en/post/not/) [reveal](/en/post/reveal/) [all](/en/post/all/) [the](/en/post/the/) [relevant](/en/post/relevant/) [information](/en/post/information/) [or](/en/post/or/) facts, [often](/en/post/often/) deliberately withholding [some](/en/post/some/) details.
-- "[Economical](/en/post/economical/) [living](/en/post/living/)": [A](/en/post/a/) lifestyle characterized [by](/en/post/by/) frugality [and](/en/post/and/) minimal [waste](/en/post/waste/).
+- "[To](/post/to/) [be](/post/be/) [economical](/post/economical/) [with](/post/with/) [the](/post/the/) [truth](/post/truth/)": [To](/post/to/) [not](/post/not/) [reveal](/post/reveal/) [all](/post/all/) [the](/post/the/) [relevant](/post/relevant/) [information](/post/information/) [or](/post/or/) facts, [often](/post/often/) deliberately withholding [some](/post/some/) details.
+- "[Economical](/post/economical/) [living](/post/living/)": [A](/post/a/) lifestyle characterized [by](/post/by/) frugality [and](/post/and/) minimal [waste](/post/waste/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) chose [the](/en/post/the/) [more](/en/post/more/) [economical](/en/post/economical/) [option](/en/post/option/) [for](/en/post/for/) [his](/en/post/his/) [holiday](/en/post/holiday/) [travel](/en/post/travel/) [by](/en/post/by/) taking [the](/en/post/the/) [train](/en/post/train/) [instead](/en/post/instead/) [of](/en/post/of/) flying."
-- "[Her](/en/post/her/) [economical](/en/post/economical/) [use](/en/post/use/) [of](/en/post/of/) materials allowed [her](/en/post/her/) [to](/en/post/to/) [create](/en/post/create/) [several](/en/post/several/) outfits [from](/en/post/from/) [just](/en/post/just/) [one](/en/post/one/) [dress](/en/post/dress/) [pattern](/en/post/pattern/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) chose [the](/post/the/) [more](/post/more/) [economical](/post/economical/) [option](/post/option/) [for](/post/for/) [his](/post/his/) [holiday](/post/holiday/) [travel](/post/travel/) [by](/post/by/) taking [the](/post/the/) [train](/post/train/) [instead](/post/instead/) [of](/post/of/) flying."
+- "[Her](/post/her/) [economical](/post/economical/) [use](/post/use/) [of](/post/of/) materials allowed [her](/post/her/) [to](/post/to/) [create](/post/create/) [several](/post/several/) outfits [from](/post/from/) [just](/post/just/) [one](/post/one/) [dress](/post/dress/) [pattern](/post/pattern/)."
 
 ## Synonyms
 - Thrifty
 - Frugal
 - Cost-effective
-- [Efficient](/en/post/efficient/)
-- [Inexpensive](/en/post/inexpensive/)
+- [Efficient](/post/efficient/)
+- [Inexpensive](/post/inexpensive/)
 - Budget-friendly
 - Money-saving
 - Prudent
-- [Conservative](/en/post/conservative/) ([with](/en/post/with/) resources)
+- [Conservative](/post/conservative/) ([with](/post/with/) resources)
 - Penny-wise

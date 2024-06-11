@@ -11,18 +11,18 @@ keywords = ['ai words', 'seven']
 /ˈsɛvən/
 
 ## 释义
-- **数词**: 表示数字7，基数词。例如: "[There](/post/there/) are [seven](/post/seven/) days [in](/post/in/) [a](/post/a/) [week](/post/week/)."
-- **名词**: 在某些上下文中，可以指第七个事物或顺序。例如: "[The](/post/the/) [seventh](/post/seventh/) [player](/post/player/) [on](/post/on/) [the](/post/the/) [team](/post/team/)."
+- **数词**: 表示数字7，基数词。例如: "[There](/zh/post/there/) are [seven](/zh/post/seven/) days [in](/zh/post/in/) [a](/zh/post/a/) [week](/zh/post/week/)."
+- **名词**: 在某些上下文中，可以指第七个事物或顺序。例如: "[The](/zh/post/the/) [seventh](/zh/post/seventh/) [player](/zh/post/player/) [on](/zh/post/on/) [the](/zh/post/the/) [team](/zh/post/team/)."
 
 ## 短语
-- "[Seven](/post/seven/) seas" 通常指世界各地的所有海洋。
-- "[Seven](/post/seven/) wonders [of](/post/of/) [the](/post/the/) [world](/post/world/)" 指古代世界的七大奇迹。
+- "[Seven](/zh/post/seven/) seas" 通常指世界各地的所有海洋。
+- "[Seven](/zh/post/seven/) wonders [of](/zh/post/of/) [the](/zh/post/the/) [world](/zh/post/world/)" 指古代世界的七大奇迹。
 
 ## 例句
-- 数词: "[The](/post/the/) [number](/post/number/) [seven](/post/seven/) is considered [lucky](/post/lucky/) [in](/post/in/) [many](/post/many/) cultures."
-- 名词: "[This](/post/this/) is [my](/post/my/) [seventh](/post/seventh/) [book](/post/book/) [this](/post/this/) [year](/post/year/)."
+- 数词: "[The](/zh/post/the/) [number](/zh/post/number/) [seven](/zh/post/seven/) is considered [lucky](/zh/post/lucky/) [in](/zh/post/in/) [many](/zh/post/many/) cultures."
+- 名词: "[This](/zh/post/this/) is [my](/zh/post/my/) [seventh](/zh/post/seventh/) [book](/zh/post/book/) [this](/zh/post/this/) [year](/zh/post/year/)."
 
 ## 同义词
-- [Six](/post/six/) [and](/post/and/) [one](/post/one/)
-- [A](/post/a/) [week](/post/week/) has [seven](/post/seven/) days
-- [The](/post/the/) [number](/post/number/) [following](/post/following/) [six](/post/six/) [and](/post/and/) [preceding](/post/preceding/) [eight](/post/eight/)
+- [Six](/zh/post/six/) [and](/zh/post/and/) [one](/zh/post/one/)
+- [A](/zh/post/a/) [week](/zh/post/week/) has [seven](/zh/post/seven/) days
+- [The](/zh/post/the/) [number](/zh/post/number/) [following](/zh/post/following/) [six](/zh/post/six/) [and](/zh/post/and/) [preceding](/zh/post/preceding/) [eight](/zh/post/eight/)

@@ -7,37 +7,37 @@ description = '[vein] a.徒劳的；自负的'
 keywords = ['ai words', 'vain']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vəɪn/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Self-centered; concerned excessively [with](/en/post/with/) one's [appearance](/en/post/appearance/) [or](/en/post/or/) [status](/en/post/status/). [Example](/en/post/example/): "[She](/en/post/she/) was [vain](/en/post/vain/) [about](/en/post/about/) [her](/en/post/her/) [beauty](/en/post/beauty/)."
-- 2. [Proud](/en/post/proud/) [or](/en/post/or/) conceited; having an [excessive](/en/post/excessive/) [belief](/en/post/belief/) [in](/en/post/in/) one's [own](/en/post/own/) abilities [or](/en/post/or/) qualities. [Example](/en/post/example/): "[His](/en/post/his/) [vanity](/en/post/vanity/) [often](/en/post/often/) led [him](/en/post/him/) [to](/en/post/to/) [take](/en/post/take/) [unnecessary](/en/post/unnecessary/) risks."
-- 3. Falsely [confident](/en/post/confident/); based [on](/en/post/on/) an illusion [or](/en/post/or/) misunderstanding. [Example](/en/post/example/): "[Her](/en/post/her/) [vain](/en/post/vain/) [hope](/en/post/hope/) [that](/en/post/that/) [he](/en/post/he/) [would](/en/post/would/) [return](/en/post/return/) was unfounded."
+- **[Adjective](/post/adjective/)**: 1. Self-centered; concerned excessively [with](/post/with/) one's [appearance](/post/appearance/) [or](/post/or/) [status](/post/status/). [Example](/post/example/): "[She](/post/she/) was [vain](/post/vain/) [about](/post/about/) [her](/post/her/) [beauty](/post/beauty/)."
+- 2. [Proud](/post/proud/) [or](/post/or/) conceited; having an [excessive](/post/excessive/) [belief](/post/belief/) [in](/post/in/) one's [own](/post/own/) abilities [or](/post/or/) qualities. [Example](/post/example/): "[His](/post/his/) [vanity](/post/vanity/) [often](/post/often/) led [him](/post/him/) [to](/post/to/) [take](/post/take/) [unnecessary](/post/unnecessary/) risks."
+- 3. Falsely [confident](/post/confident/); based [on](/post/on/) an illusion [or](/post/or/) misunderstanding. [Example](/post/example/): "[Her](/post/her/) [vain](/post/vain/) [hope](/post/hope/) [that](/post/that/) [he](/post/he/) [would](/post/would/) [return](/post/return/) was unfounded."
 
-**[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [vain](/en/post/vain/) [in](/en/post/in/) one's thoughts [or](/en/post/or/) actions; [to](/en/post/to/) [display](/en/post/display/) [excessive](/en/post/excessive/) [pride](/en/post/pride/) [or](/en/post/or/) self-importance. [Example](/en/post/example/): "[He](/en/post/he/) was [vain](/en/post/vain/) [about](/en/post/about/) [his](/en/post/his/) accomplishments."
+**[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) [vain](/post/vain/) [in](/post/in/) one's thoughts [or](/post/or/) actions; [to](/post/to/) [display](/post/display/) [excessive](/post/excessive/) [pride](/post/pride/) [or](/post/or/) self-importance. [Example](/post/example/): "[He](/post/he/) was [vain](/post/vain/) [about](/post/about/) [his](/post/his/) accomplishments."
 
 ## Phrases
-- "[Be](/en/post/be/) [vain](/en/post/vain/) [about](/en/post/about/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) an [excessive](/en/post/excessive/) [pride](/en/post/pride/) [or](/en/post/or/) admiration [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [aspect](/en/post/aspect/) [of](/en/post/of/) [oneself](/en/post/oneself/) [or](/en/post/or/) others.
-- "[Vain](/en/post/vain/) [glory](/en/post/glory/)" refers [to](/en/post/to/) [excessive](/en/post/excessive/) [pride](/en/post/pride/) [in](/en/post/in/) one's achievements.
-- "[A](/en/post/a/) [vain](/en/post/vain/) [attempt](/en/post/attempt/)" describes [a](/en/post/a/) futile [or](/en/post/or/) unsuccessful [effort](/en/post/effort/).
+- "[Be](/post/be/) [vain](/post/vain/) [about](/post/about/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) an [excessive](/post/excessive/) [pride](/post/pride/) [or](/post/or/) admiration [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [aspect](/post/aspect/) [of](/post/of/) [oneself](/post/oneself/) [or](/post/or/) others.
+- "[Vain](/post/vain/) [glory](/post/glory/)" refers [to](/post/to/) [excessive](/post/excessive/) [pride](/post/pride/) [in](/post/in/) one's achievements.
+- "[A](/post/a/) [vain](/post/vain/) [attempt](/post/attempt/)" describes [a](/post/a/) futile [or](/post/or/) unsuccessful [effort](/post/effort/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) couldn't [help](/en/post/help/) [but](/en/post/but/) [feel](/en/post/feel/) [vain](/en/post/vain/) [when](/en/post/when/) [all](/en/post/all/) eyes were [on](/en/post/on/) [her](/en/post/her/) [during](/en/post/during/) [the](/en/post/the/) [fashion](/en/post/fashion/) [show](/en/post/show/)."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [vain](/en/post/vain/) boasting [only](/en/post/only/) made [his](/en/post/his/) teammates [lose](/en/post/lose/) [respect](/en/post/respect/) [for](/en/post/for/) [him](/en/post/him/)."
-- **[Adjective](/en/post/adjective/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/)**: "[The](/en/post/the/) [book](/en/post/book/) delved [into](/en/post/into/) [the](/en/post/the/) [vanity](/en/post/vanity/) [of](/en/post/of/) [human](/en/post/human/) desires."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) couldn't [help](/post/help/) [but](/post/but/) [feel](/post/feel/) [vain](/post/vain/) [when](/post/when/) [all](/post/all/) eyes were [on](/post/on/) [her](/post/her/) [during](/post/during/) [the](/post/the/) [fashion](/post/fashion/) [show](/post/show/)."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [vain](/post/vain/) boasting [only](/post/only/) made [his](/post/his/) teammates [lose](/post/lose/) [respect](/post/respect/) [for](/post/for/) [him](/post/him/)."
+- **[Adjective](/post/adjective/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/)**: "[The](/post/the/) [book](/post/book/) delved [into](/post/into/) [the](/post/the/) [vanity](/post/vanity/) [of](/post/of/) [human](/post/human/) desires."
 
 ## Synonyms
 - Arrogant
 - Conceited
 - Self-important
-- [Proud](/en/post/proud/)
+- [Proud](/post/proud/)
 - Overconfident
 - Self-absorbed
 
 ## Antonyms
-- [Humble](/en/post/humble/)
-- [Modest](/en/post/modest/)
+- [Humble](/post/humble/)
+- [Modest](/post/modest/)
 - Unassuming
 - Self-effacing
 - Humble-minded

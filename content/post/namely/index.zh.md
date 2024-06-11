@@ -11,17 +11,17 @@ keywords = ['ai words', 'namely']
 /ˈneɪmli/
 
 ## 释义
-- **副词**: 意为“也就是”，“换句话说”，用来强调或解释前面提到的人或事物。例如: "John is [a](/post/a/) [physicist](/post/physicist/), [namely](/post/namely/), [he](/post/he/) studies [the](/post/the/) [behavior](/post/behavior/) [of](/post/of/) [matter](/post/matter/) [and](/post/and/) [energy](/post/energy/)."
+- **副词**: 意为“也就是”，“换句话说”，用来强调或解释前面提到的人或事物。例如: "John is [a](/zh/post/a/) [physicist](/zh/post/physicist/), [namely](/zh/post/namely/), [he](/zh/post/he/) studies [the](/zh/post/the/) [behavior](/zh/post/behavior/) [of](/zh/post/of/) [matter](/zh/post/matter/) [and](/zh/post/and/) [energy](/zh/post/energy/)."
 
 ## 短语
-- "[namely](/post/namely/)" 常常用来引入对前文的详细说明或具体列举。
+- "[namely](/zh/post/namely/)" 常常用来引入对前文的详细说明或具体列举。
 
 ## 例句
-- "[Our](/post/our/) [team](/post/team/) consists [of](/post/of/) [three](/post/three/) members, [namely](/post/namely/), Tom, Mary, [and](/post/and/) [myself](/post/myself/)."
+- "[Our](/zh/post/our/) [team](/zh/post/team/) consists [of](/zh/post/of/) [three](/zh/post/three/) members, [namely](/zh/post/namely/), Tom, Mary, [and](/zh/post/and/) [myself](/zh/post/myself/)."
 
 ## 同义词
-- [that](/post/that/) is
+- [that](/zh/post/that/) is
 - i.e.
-- [in](/post/in/) [other](/post/other/) words
+- [in](/zh/post/in/) [other](/zh/post/other/) words
 - specifically
-- [put](/post/put/) differently
+- [put](/zh/post/put/) differently

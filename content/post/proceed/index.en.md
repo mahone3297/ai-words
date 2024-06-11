@@ -7,35 +7,35 @@ description = '[prəˈsiːd] vi.进行；继续进行'
 keywords = ['ai words', 'proceed']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /proʊˈsiːd/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (n) [To](/en/post/to/) [begin](/en/post/begin/) [or](/en/post/or/) [continue](/en/post/continue/) an [action](/en/post/action/) [in](/en/post/in/) [a](/en/post/a/) planned [or](/en/post/or/) organized [manner](/en/post/manner/); [advance](/en/post/advance/) [or](/en/post/or/) [proceed](/en/post/proceed/) [with](/en/post/with/) [something](/en/post/something/). (v) [To](/en/post/to/) [carry](/en/post/carry/) [out](/en/post/out/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [step](/en/post/step/), [often](/en/post/often/) [after](/en/post/after/) [another](/en/post/another/) has been completed. (adj) Characterizing [or](/en/post/or/) relating [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) proceeding [or](/en/post/or/) progression.
+- **[Verb](/post/verb/)**: (n) [To](/post/to/) [begin](/post/begin/) [or](/post/or/) [continue](/post/continue/) an [action](/post/action/) [in](/post/in/) [a](/post/a/) planned [or](/post/or/) organized [manner](/post/manner/); [advance](/post/advance/) [or](/post/or/) [proceed](/post/proceed/) [with](/post/with/) [something](/post/something/). (v) [To](/post/to/) [carry](/post/carry/) [out](/post/out/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [step](/post/step/), [often](/post/often/) [after](/post/after/) [another](/post/another/) has been completed. (adj) Characterizing [or](/post/or/) relating [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) proceeding [or](/post/or/) progression.
 
 ## Phrases
-- "[Proceed](/en/post/proceed/) [with](/en/post/with/) caution" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [careful](/en/post/careful/) [when](/en/post/when/) continuing.
-- "[Proceed](/en/post/proceed/) [to](/en/post/to/) [the](/en/post/the/) [next](/en/post/next/) [step](/en/post/step/)" indicates moving [on](/en/post/on/) [in](/en/post/in/) [a](/en/post/a/) [sequence](/en/post/sequence/).
-- "[In](/en/post/in/) [due](/en/post/due/) [course](/en/post/course/), [we](/en/post/we/) [will](/en/post/will/) [proceed](/en/post/proceed/)" signifies [that](/en/post/that/) [something](/en/post/something/) [will](/en/post/will/) [happen](/en/post/happen/) [at](/en/post/at/) an [appropriate](/en/post/appropriate/) [time](/en/post/time/).
+- "[Proceed](/post/proceed/) [with](/post/with/) caution" [means](/post/means/) [to](/post/to/) [be](/post/be/) [careful](/post/careful/) [when](/post/when/) continuing.
+- "[Proceed](/post/proceed/) [to](/post/to/) [the](/post/the/) [next](/post/next/) [step](/post/step/)" indicates moving [on](/post/on/) [in](/post/in/) [a](/post/a/) [sequence](/post/sequence/).
+- "[In](/post/in/) [due](/post/due/) [course](/post/course/), [we](/post/we/) [will](/post/will/) [proceed](/post/proceed/)" signifies [that](/post/that/) [something](/post/something/) [will](/post/will/) [happen](/post/happen/) [at](/post/at/) an [appropriate](/post/appropriate/) [time](/post/time/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [her](/en/post/her/) homework, [she](/en/post/she/) proceeded [to](/en/post/to/) [clean](/en/post/clean/) [her](/en/post/her/) [room](/en/post/room/)."
-- **Adj**: "[The](/en/post/the/) [meeting](/en/post/meeting/) proceeded [smoothly](/en/post/smoothly/), [without](/en/post/without/) [any](/en/post/any/) interruptions."
-- **Adv**: "[Please](/en/post/please/) [proceed](/en/post/proceed/) [to](/en/post/to/) [the](/en/post/the/) registration [desk](/en/post/desk/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) finishing [her](/post/her/) homework, [she](/post/she/) proceeded [to](/post/to/) [clean](/post/clean/) [her](/post/her/) [room](/post/room/)."
+- **Adj**: "[The](/post/the/) [meeting](/post/meeting/) proceeded [smoothly](/post/smoothly/), [without](/post/without/) [any](/post/any/) interruptions."
+- **Adv**: "[Please](/post/please/) [proceed](/post/proceed/) [to](/post/to/) [the](/post/the/) registration [desk](/post/desk/)."
 
 ## Synonyms
-- [Advance](/en/post/advance/)
-- [Move](/en/post/move/) [forward](/en/post/forward/)
-- [Continue](/en/post/continue/)
+- [Advance](/post/advance/)
+- [Move](/post/move/) [forward](/post/forward/)
+- [Continue](/post/continue/)
 - Commence
-- [Progress](/en/post/progress/)
-- [Begin](/en/post/begin/)
-- [Go](/en/post/go/) [ahead](/en/post/ahead/)
-- [Carry](/en/post/carry/) [on](/en/post/on/)
+- [Progress](/post/progress/)
+- [Begin](/post/begin/)
+- [Go](/post/go/) [ahead](/post/ahead/)
+- [Carry](/post/carry/) [on](/post/on/)
 
 ## Antonyms
-- [Retreat](/en/post/retreat/)
-- [Stop](/en/post/stop/)
-- [Delay](/en/post/delay/)
-- [Interrupt](/en/post/interrupt/)
-- [Halt](/en/post/halt/)
+- [Retreat](/post/retreat/)
+- [Stop](/post/stop/)
+- [Delay](/post/delay/)
+- [Interrupt](/post/interrupt/)
+- [Halt](/post/halt/)

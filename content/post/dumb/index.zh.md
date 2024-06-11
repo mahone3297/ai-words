@@ -12,21 +12,21 @@ keywords = ['ai words', 'dumb']
 
 ## 释义
 - **形容词**: 
-    - 傻的，愚蠢的。例如: "[He](/post/he/) acted [so](/post/so/) [dumb](/post/dumb/) [that](/post/that/) [nobody](/post/nobody/) believed [him](/post/him/)."
-    - 不能说话的，哑的。例如: "[The](/post/the/) [character](/post/character/) [in](/post/in/) [the](/post/the/) [movie](/post/movie/) is [dumb](/post/dumb/) [but](/post/but/) [can](/post/can/) [understand](/post/understand/) [everything](/post/everything/) [around](/post/around/) [him](/post/him/)."
-    - 不发声的，沉默的。例如: "[The](/post/the/) [room](/post/room/) was [dumb](/post/dumb/) [with](/post/with/) [silence](/post/silence/)."
+    - 傻的，愚蠢的。例如: "[He](/zh/post/he/) acted [so](/zh/post/so/) [dumb](/zh/post/dumb/) [that](/zh/post/that/) [nobody](/zh/post/nobody/) believed [him](/zh/post/him/)."
+    - 不能说话的，哑的。例如: "[The](/zh/post/the/) [character](/zh/post/character/) [in](/zh/post/in/) [the](/zh/post/the/) [movie](/zh/post/movie/) is [dumb](/zh/post/dumb/) [but](/zh/post/but/) [can](/zh/post/can/) [understand](/zh/post/understand/) [everything](/zh/post/everything/) [around](/zh/post/around/) [him](/zh/post/him/)."
+    - 不发声的，沉默的。例如: "[The](/zh/post/the/) [room](/zh/post/room/) was [dumb](/zh/post/dumb/) [with](/zh/post/with/) [silence](/zh/post/silence/)."
 
 ## 短语
 - "Dumbstruck" 意为因震惊或困惑而说不出话来。
-- "[Dumb](/post/dumb/) [luck](/post/luck/)" 指意外的好运或偶然的成功。
+- "[Dumb](/zh/post/dumb/) [luck](/zh/post/luck/)" 指意外的好运或偶然的成功。
 
 ## 例句
-- 形容词: "Don't [be](/post/be/) [so](/post/so/) [dumb](/post/dumb/), [read](/post/read/) [the](/post/the/) instructions carefully."
-- "[The](/post/the/) [dog](/post/dog/) looked [at](/post/at/) [us](/post/us/) [with](/post/with/) [dumb](/post/dumb/) innocence."
+- 形容词: "Don't [be](/zh/post/be/) [so](/zh/post/so/) [dumb](/zh/post/dumb/), [read](/zh/post/read/) [the](/zh/post/the/) instructions carefully."
+- "[The](/zh/post/the/) [dog](/zh/post/dog/) looked [at](/zh/post/at/) [us](/zh/post/us/) [with](/zh/post/with/) [dumb](/zh/post/dumb/) innocence."
 
 ## 同义词
-- [Stupid](/post/stupid/)
-- [Foolish](/post/foolish/)
-- [Ignorant](/post/ignorant/)
-- [Silent](/post/silent/)
-- [Mute](/post/mute/)
+- [Stupid](/zh/post/stupid/)
+- [Foolish](/zh/post/foolish/)
+- [Ignorant](/zh/post/ignorant/)
+- [Silent](/zh/post/silent/)
+- [Mute](/zh/post/mute/)

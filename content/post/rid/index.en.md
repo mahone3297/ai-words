@@ -7,44 +7,44 @@ description = '[rid] vt.使摆脱，使去掉'
 keywords = ['ai words', 'rid']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) getting [rid](/en/post/rid/) [of](/en/post/of/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/), [usually](/en/post/usually/) [permanently](/en/post/permanently/). "[The](/en/post/the/) [farmer](/en/post/farmer/) was [rid](/en/post/rid/) [of](/en/post/of/) pests [with](/en/post/with/) [the](/en/post/the/) [help](/en/post/help/) [of](/en/post/of/) [a](/en/post/a/) pesticide."
-2. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [free](/en/post/free/) [from](/en/post/from/) [something](/en/post/something/) unwanted [or](/en/post/or/) [troublesome](/en/post/troublesome/). "[After](/en/post/after/) months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [she](/en/post/she/) [finally](/en/post/finally/) felt [rid](/en/post/rid/) [of](/en/post/of/) [her](/en/post/her/) [debt](/en/post/debt/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) getting [rid](/post/rid/) [of](/post/of/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/), [usually](/post/usually/) [permanently](/post/permanently/). "[The](/post/the/) [farmer](/post/farmer/) was [rid](/post/rid/) [of](/post/of/) pests [with](/post/with/) [the](/post/the/) [help](/post/help/) [of](/post/of/) [a](/post/a/) pesticide."
+2. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [free](/post/free/) [from](/post/from/) [something](/post/something/) unwanted [or](/post/or/) [troublesome](/post/troublesome/). "[After](/post/after/) months [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [she](/post/she/) [finally](/post/finally/) felt [rid](/post/rid/) [of](/post/of/) [her](/post/her/) [debt](/post/debt/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [remove](/en/post/remove/) [or](/en/post/or/) [dispose](/en/post/dispose/) [of](/en/post/of/) ([something](/en/post/something/)) [completely](/en/post/completely/). "[She](/en/post/she/) [rid](/en/post/rid/) [the](/en/post/the/) [kitchen](/en/post/kitchen/) [of](/en/post/of/) clutter [by](/en/post/by/) donating [old](/en/post/old/) appliances."
-2. [To](/en/post/to/) [free](/en/post/free/) [oneself](/en/post/oneself/) [or](/en/post/or/) [someone](/en/post/someone/) [else](/en/post/else/) [from](/en/post/from/) [a](/en/post/a/) [burden](/en/post/burden/), [problem](/en/post/problem/), [or](/en/post/or/) [influence](/en/post/influence/). "[He](/en/post/he/) tried [to](/en/post/to/) [rid](/en/post/rid/) [himself](/en/post/himself/) [of](/en/post/of/) [his](/en/post/his/) addiction."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [remove](/post/remove/) [or](/post/or/) [dispose](/post/dispose/) [of](/post/of/) ([something](/post/something/)) [completely](/post/completely/). "[She](/post/she/) [rid](/post/rid/) [the](/post/the/) [kitchen](/post/kitchen/) [of](/post/of/) clutter [by](/post/by/) donating [old](/post/old/) appliances."
+2. [To](/post/to/) [free](/post/free/) [oneself](/post/oneself/) [or](/post/or/) [someone](/post/someone/) [else](/post/else/) [from](/post/from/) [a](/post/a/) [burden](/post/burden/), [problem](/post/problem/), [or](/post/or/) [influence](/post/influence/). "[He](/post/he/) tried [to](/post/to/) [rid](/post/rid/) [himself](/post/himself/) [of](/post/of/) [his](/post/his/) addiction."
 
-### [Adjective](/en/post/adjective/)
-1. [Free](/en/post/free/) [from](/en/post/from/) [something](/en/post/something/); unburdened. "[The](/en/post/the/) [garden](/en/post/garden/) was [rid](/en/post/rid/) [of](/en/post/of/) weeds [after](/en/post/after/) [a](/en/post/a/) [thorough](/en/post/thorough/) weeding [session](/en/post/session/)."
+### [Adjective](/post/adjective/)
+1. [Free](/post/free/) [from](/post/from/) [something](/post/something/); unburdened. "[The](/post/the/) [garden](/post/garden/) was [rid](/post/rid/) [of](/post/of/) weeds [after](/post/after/) [a](/post/a/) [thorough](/post/thorough/) weeding [session](/post/session/)."
 
 ## Phrases
-- "[Get](/en/post/get/) [rid](/en/post/rid/) [of](/en/post/of/)" implies removing [something](/en/post/something/) unwanted.
-- "[Be](/en/post/be/) [rid](/en/post/rid/) [of](/en/post/of/)" suggests [liberation](/en/post/liberation/) [from](/en/post/from/) [a](/en/post/a/) [negative](/en/post/negative/) [situation](/en/post/situation/).
-- "[Rid](/en/post/rid/) [oneself](/en/post/oneself/) [of](/en/post/of/)" refers [to](/en/post/to/) overcoming [or](/en/post/or/) eliminating [a](/en/post/a/) [habit](/en/post/habit/), [emotion](/en/post/emotion/), [or](/en/post/or/) [possession](/en/post/possession/).
+- "[Get](/post/get/) [rid](/post/rid/) [of](/post/of/)" implies removing [something](/post/something/) unwanted.
+- "[Be](/post/be/) [rid](/post/rid/) [of](/post/of/)" suggests [liberation](/post/liberation/) [from](/post/from/) [a](/post/a/) [negative](/post/negative/) [situation](/post/situation/).
+- "[Rid](/post/rid/) [oneself](/post/oneself/) [of](/post/of/)" refers [to](/post/to/) overcoming [or](/post/or/) eliminating [a](/post/a/) [habit](/post/habit/), [emotion](/post/emotion/), [or](/post/or/) [possession](/post/possession/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) [successfully](/en/post/successfully/) [rid](/en/post/rid/) [the](/en/post/the/) [garden](/en/post/garden/) [of](/en/post/of/) invasive plants."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) procrastination, [he](/en/post/he/) decided [to](/en/post/to/) [rid](/en/post/rid/) [his](/en/post/his/) [life](/en/post/life/) [of](/en/post/of/) [bad](/en/post/bad/) habits."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) felt [so](/en/post/so/) [much](/en/post/much/) lighter [once](/en/post/once/) [we](/en/post/we/) were [rid](/en/post/rid/) [of](/en/post/of/) [all](/en/post/all/) [the](/en/post/the/) [furniture](/en/post/furniture/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [gardener](/post/gardener/) [successfully](/post/successfully/) [rid](/post/rid/) [the](/post/the/) [garden](/post/garden/) [of](/post/of/) invasive plants."
+- **[Verb](/post/verb/)**: "[After](/post/after/) years [of](/post/of/) procrastination, [he](/post/he/) decided [to](/post/to/) [rid](/post/rid/) [his](/post/his/) [life](/post/life/) [of](/post/of/) [bad](/post/bad/) habits."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) felt [so](/post/so/) [much](/post/much/) lighter [once](/post/once/) [we](/post/we/) were [rid](/post/rid/) [of](/post/of/) [all](/post/all/) [the](/post/the/) [furniture](/post/furniture/)."
 
 ## Synonyms
-- [Eliminate](/en/post/eliminate/)
-- [Clear](/en/post/clear/)
-- [Dispose](/en/post/dispose/)
-- [Remove](/en/post/remove/)
+- [Eliminate](/post/eliminate/)
+- [Clear](/post/clear/)
+- [Dispose](/post/dispose/)
+- [Remove](/post/remove/)
 - Eradicate
 - Unburden
 - Detach
 - Dislodge
 
 ## Antonyms
-- [Acquire](/en/post/acquire/)
-- [Maintain](/en/post/maintain/)
-- [Keep](/en/post/keep/)
-- [Accumulate](/en/post/accumulate/)
-- [Invite](/en/post/invite/)
+- [Acquire](/post/acquire/)
+- [Maintain](/post/maintain/)
+- [Keep](/post/keep/)
+- [Accumulate](/post/accumulate/)
+- [Invite](/post/invite/)

@@ -7,32 +7,32 @@ description = '[ˈtraiæŋgl] n.三角(形)'
 keywords = ['ai words', 'triangle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /trɪˈæŋɡl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [triangle](/en/post/triangle/) is [a](/en/post/a/) three-sided polygon [with](/en/post/with/) [three](/en/post/three/) vertices (corners) [and](/en/post/and/) [three](/en/post/three/) edges. [It](/en/post/it/) is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [basic](/en/post/basic/) shapes [in](/en/post/in/) [geometry](/en/post/geometry/) [and](/en/post/and/) has [various](/en/post/various/) types, [such](/en/post/such/) [as](/en/post/as/) equilateral, isosceles, scalene, right-angled, acute-angled, [and](/en/post/and/) obtuse-angled.
+### [Noun](/post/noun/)
+[A](/post/a/) [triangle](/post/triangle/) is [a](/post/a/) three-sided polygon [with](/post/with/) [three](/post/three/) vertices (corners) [and](/post/and/) [three](/post/three/) edges. [It](/post/it/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) [basic](/post/basic/) shapes [in](/post/in/) [geometry](/post/geometry/) [and](/post/and/) has [various](/post/various/) types, [such](/post/such/) [as](/post/as/) equilateral, isosceles, scalene, right-angled, acute-angled, [and](/post/and/) obtuse-angled.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [describe](/en/post/describe/) [or](/en/post/or/) [form](/en/post/form/) [a](/en/post/a/) [triangle](/en/post/triangle/) is [often](/en/post/often/) [used](/en/post/used/) metaphorically, referring [to](/en/post/to/) creating [a](/en/post/a/) triangular [relationship](/en/post/relationship/) [or](/en/post/or/) [structure](/en/post/structure/).
+### [Verb](/post/verb/)
+[To](/post/to/) [describe](/post/describe/) [or](/post/or/) [form](/post/form/) [a](/post/a/) [triangle](/post/triangle/) is [often](/post/often/) [used](/post/used/) metaphorically, referring [to](/post/to/) creating [a](/post/a/) triangular [relationship](/post/relationship/) [or](/post/or/) [structure](/post/structure/).
 
-### [Adjective](/en/post/adjective/)
-[A](/en/post/a/) [triangle](/en/post/triangle/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) having [a](/en/post/a/) three-part [arrangement](/en/post/arrangement/) [or](/en/post/or/) [shape](/en/post/shape/).
+### [Adjective](/post/adjective/)
+[A](/post/a/) [triangle](/post/triangle/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) having [a](/post/a/) three-part [arrangement](/post/arrangement/) [or](/post/or/) [shape](/post/shape/).
 
 ## Phrases
-- "[Form](/en/post/form/) [a](/en/post/a/) [triangle](/en/post/triangle/)" [means](/en/post/means/) [to](/en/post/to/) [arrange](/en/post/arrange/) objects [or](/en/post/or/) [people](/en/post/people/) [in](/en/post/in/) [a](/en/post/a/) triangular [pattern](/en/post/pattern/).
-- "[Triangle](/en/post/triangle/) [formation](/en/post/formation/)" refers [to](/en/post/to/) [a](/en/post/a/) strategic [position](/en/post/position/) [in](/en/post/in/) sports [or](/en/post/or/) [military](/en/post/military/) formations.
-- "[A](/en/post/a/) geometric [triangle](/en/post/triangle/)" specifies [the](/en/post/the/) [mathematical](/en/post/mathematical/) [shape](/en/post/shape/).
+- "[Form](/post/form/) [a](/post/a/) [triangle](/post/triangle/)" [means](/post/means/) [to](/post/to/) [arrange](/post/arrange/) objects [or](/post/or/) [people](/post/people/) [in](/post/in/) [a](/post/a/) triangular [pattern](/post/pattern/).
+- "[Triangle](/post/triangle/) [formation](/post/formation/)" refers [to](/post/to/) [a](/post/a/) strategic [position](/post/position/) [in](/post/in/) sports [or](/post/or/) [military](/post/military/) formations.
+- "[A](/post/a/) geometric [triangle](/post/triangle/)" specifies [the](/post/the/) [mathematical](/post/mathematical/) [shape](/post/shape/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) pyramid was built [with](/en/post/with/) [large](/en/post/large/) triangular stones."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) arranged [the](/en/post/the/) chairs [in](/en/post/in/) [a](/en/post/a/) [triangle](/en/post/triangle/) [around](/en/post/around/) [the](/en/post/the/) [fire](/en/post/fire/) [pit](/en/post/pit/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [laughter](/en/post/laughter/) created [a](/en/post/a/) harmonious [triangle](/en/post/triangle/) [with](/en/post/with/) [her](/en/post/her/) friends' voices."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) pyramid was built [with](/post/with/) [large](/post/large/) triangular stones."
+- **[Verb](/post/verb/)**: "[They](/post/they/) arranged [the](/post/the/) chairs [in](/post/in/) [a](/post/a/) [triangle](/post/triangle/) [around](/post/around/) [the](/post/the/) [fire](/post/fire/) [pit](/post/pit/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [laughter](/post/laughter/) created [a](/post/a/) harmonious [triangle](/post/triangle/) [with](/post/with/) [her](/post/her/) friends' voices."
 
 ## Synonyms
 - Triangular
 - Three-sided
 - Polygonal
-- Isosceles [or](/en/post/or/) equilateral (referring [to](/en/post/to/) [specific](/en/post/specific/) types)
-- Right-angled, [acute](/en/post/acute/), obtuse (depending [on](/en/post/on/) [angle](/en/post/angle/) [type](/en/post/type/))
+- Isosceles [or](/post/or/) equilateral (referring [to](/post/to/) [specific](/post/specific/) types)
+- Right-angled, [acute](/post/acute/), obtuse (depending [on](/post/on/) [angle](/post/angle/) [type](/post/type/))

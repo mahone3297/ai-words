@@ -11,20 +11,20 @@ keywords = ['ai words', 'faulty']
 /fɔːlti/
 
 ## 释义
-- **形容词**: 有错误的；有缺陷的；不正确的。例如: "[The](/post/the/) [manufacturer](/post/manufacturer/) admitted [that](/post/that/) [there](/post/there/) was [a](/post/a/) [faulty](/post/faulty/) [design](/post/design/) [in](/post/in/) [their](/post/their/) [product](/post/product/)."
-- **名词**: 缺陷；故障。例如: "[The](/post/the/) [mechanic](/post/mechanic/) [found](/post/found/) [several](/post/several/) [faulty](/post/faulty/) parts [in](/post/in/) [the](/post/the/) [engine](/post/engine/)."
+- **形容词**: 有错误的；有缺陷的；不正确的。例如: "[The](/zh/post/the/) [manufacturer](/zh/post/manufacturer/) admitted [that](/zh/post/that/) [there](/zh/post/there/) was [a](/zh/post/a/) [faulty](/zh/post/faulty/) [design](/zh/post/design/) [in](/zh/post/in/) [their](/zh/post/their/) [product](/zh/post/product/)."
+- **名词**: 缺陷；故障。例如: "[The](/zh/post/the/) [mechanic](/zh/post/mechanic/) [found](/zh/post/found/) [several](/zh/post/several/) [faulty](/zh/post/faulty/) parts [in](/zh/post/in/) [the](/zh/post/the/) [engine](/zh/post/engine/)."
 
 ## 短语
-- "[faulty](/post/faulty/) [logic](/post/logic/)" 指推理或论证中的错误。
-- "[due](/post/due/) [to](/post/to/) [faulty](/post/faulty/) [equipment](/post/equipment/)" 归因于设备故障。
+- "[faulty](/zh/post/faulty/) [logic](/zh/post/logic/)" 指推理或论证中的错误。
+- "[due](/zh/post/due/) [to](/zh/post/to/) [faulty](/zh/post/faulty/) [equipment](/zh/post/equipment/)" 归因于设备故障。
 
 ## 例句
-- 形容词: "[The](/post/the/) [calculator](/post/calculator/) gave [me](/post/me/) [wrong](/post/wrong/) answers [because](/post/because/) [it](/post/it/) was [faulty](/post/faulty/)."
-- 名词: "[The](/post/the/) [company](/post/company/) offered [to](/post/to/) [replace](/post/replace/) [the](/post/the/) [faulty](/post/faulty/) [appliance](/post/appliance/) [free](/post/free/) [of](/post/of/) [charge](/post/charge/)."
+- 形容词: "[The](/zh/post/the/) [calculator](/zh/post/calculator/) gave [me](/zh/post/me/) [wrong](/zh/post/wrong/) answers [because](/zh/post/because/) [it](/zh/post/it/) was [faulty](/zh/post/faulty/)."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) offered [to](/zh/post/to/) [replace](/zh/post/replace/) [the](/zh/post/the/) [faulty](/zh/post/faulty/) [appliance](/zh/post/appliance/) [free](/zh/post/free/) [of](/zh/post/of/) [charge](/zh/post/charge/)."
 
 ## 同义词
 - defective
 - flawed
 - imperfect
-- [incorrect](/post/incorrect/)
+- [incorrect](/zh/post/incorrect/)
 - malfunctioning

@@ -7,33 +7,33 @@ description = '[lɔːd] n.贵族；上帝，基督'
 keywords = ['ai words', 'lord']
 +++
 
-## [Word](/en/post/word/): [Lord](/en/post/lord/)
+## [Word](/post/word/): [Lord](/post/lord/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lɔːrd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [with](/en/post/with/) [power](/en/post/power/), [authority](/en/post/authority/), [or](/en/post/or/) [influence](/en/post/influence/), typically [one](/en/post/one/) [who](/en/post/who/) holds [a](/en/post/a/) hereditary [title](/en/post/title/) [or](/en/post/or/) [position](/en/post/position/) [of](/en/post/of/) nobility. [Example](/en/post/example/): "[The](/en/post/the/) [lord](/en/post/lord/) [of](/en/post/of/) [the](/en/post/the/) manor presided [over](/en/post/over/) [the](/en/post/the/) [village](/en/post/village/)."
-- **[Noun](/en/post/noun/) ([religious](/en/post/religious/))**: [A](/en/post/a/) reverent [or](/en/post/or/) [respectful](/en/post/respectful/) [form](/en/post/form/) [of](/en/post/of/) [address](/en/post/address/) [for](/en/post/for/) God. [Example](/en/post/example/): "[The](/en/post/the/) [Lord](/en/post/lord/) is [my](/en/post/my/) [shepherd](/en/post/shepherd/); I [shall](/en/post/shall/) [not](/en/post/not/) [want](/en/post/want/)."
-- **[Noun](/en/post/noun/) (Christianity)**: Jesus Christ regarded [as](/en/post/as/) [the](/en/post/the/) [ruler](/en/post/ruler/) [of](/en/post/of/) [the](/en/post/the/) [universe](/en/post/universe/). [Example](/en/post/example/): "[Through](/en/post/through/) [faith](/en/post/faith/) [in](/en/post/in/) [the](/en/post/the/) [Lord](/en/post/lord/), [we](/en/post/we/) [receive](/en/post/receive/) salvation."
-- **[Noun](/en/post/noun/) (Hinduism)**: [A](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) deity [or](/en/post/or/) [a](/en/post/a/) [highly](/en/post/highly/) revered [spiritual](/en/post/spiritual/) [teacher](/en/post/teacher/). [Example](/en/post/example/): "[The](/en/post/the/) devotees worshipped [the](/en/post/the/) [lord](/en/post/lord/) [of](/en/post/of/) creation."
-- **[Verb](/en/post/verb/)**: (archaic [or](/en/post/or/) [literary](/en/post/literary/)) [To](/en/post/to/) [exercise](/en/post/exercise/) mastery [or](/en/post/or/) dominion [over](/en/post/over/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [Example](/en/post/example/): "[The](/en/post/the/) [king](/en/post/king/) lorded [over](/en/post/over/) [his](/en/post/his/) [vast](/en/post/vast/) [empire](/en/post/empire/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [with](/post/with/) [power](/post/power/), [authority](/post/authority/), [or](/post/or/) [influence](/post/influence/), typically [one](/post/one/) [who](/post/who/) holds [a](/post/a/) hereditary [title](/post/title/) [or](/post/or/) [position](/post/position/) [of](/post/of/) nobility. [Example](/post/example/): "[The](/post/the/) [lord](/post/lord/) [of](/post/of/) [the](/post/the/) manor presided [over](/post/over/) [the](/post/the/) [village](/post/village/)."
+- **[Noun](/post/noun/) ([religious](/post/religious/))**: [A](/post/a/) reverent [or](/post/or/) [respectful](/post/respectful/) [form](/post/form/) [of](/post/of/) [address](/post/address/) [for](/post/for/) God. [Example](/post/example/): "[The](/post/the/) [Lord](/post/lord/) is [my](/post/my/) [shepherd](/post/shepherd/); I [shall](/post/shall/) [not](/post/not/) [want](/post/want/)."
+- **[Noun](/post/noun/) (Christianity)**: Jesus Christ regarded [as](/post/as/) [the](/post/the/) [ruler](/post/ruler/) [of](/post/of/) [the](/post/the/) [universe](/post/universe/). [Example](/post/example/): "[Through](/post/through/) [faith](/post/faith/) [in](/post/in/) [the](/post/the/) [Lord](/post/lord/), [we](/post/we/) [receive](/post/receive/) salvation."
+- **[Noun](/post/noun/) (Hinduism)**: [A](/post/a/) [term](/post/term/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) deity [or](/post/or/) [a](/post/a/) [highly](/post/highly/) revered [spiritual](/post/spiritual/) [teacher](/post/teacher/). [Example](/post/example/): "[The](/post/the/) devotees worshipped [the](/post/the/) [lord](/post/lord/) [of](/post/of/) creation."
+- **[Verb](/post/verb/)**: (archaic [or](/post/or/) [literary](/post/literary/)) [To](/post/to/) [exercise](/post/exercise/) mastery [or](/post/or/) dominion [over](/post/over/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [Example](/post/example/): "[The](/post/the/) [king](/post/king/) lorded [over](/post/over/) [his](/post/his/) [vast](/post/vast/) [empire](/post/empire/)."
 
 ## Phrases
-- "[Lord](/en/post/lord/) [it](/en/post/it/) [over](/en/post/over/) [someone](/en/post/someone/)": [To](/en/post/to/) dominate [or](/en/post/or/) [control](/en/post/control/) [someone](/en/post/someone/) [in](/en/post/in/) an arrogant [or](/en/post/or/) oppressive [manner](/en/post/manner/). [Example](/en/post/example/): "[He](/en/post/he/) liked [to](/en/post/to/) [lord](/en/post/lord/) [it](/en/post/it/) [over](/en/post/over/) [his](/en/post/his/) subordinates."
-- "[My](/en/post/my/) [lord](/en/post/lord/)": [A](/en/post/a/) [formal](/en/post/formal/) [or](/en/post/or/) archaic [way](/en/post/way/) [to](/en/post/to/) [address](/en/post/address/) [a](/en/post/a/) [man](/en/post/man/) [of](/en/post/of/) [high](/en/post/high/) [rank](/en/post/rank/) [or](/en/post/or/) [a](/en/post/a/) [judge](/en/post/judge/). [Example](/en/post/example/): "[Your](/en/post/your/) [Honour](/en/post/honour/), [my](/en/post/my/) [lord](/en/post/lord/), [may](/en/post/may/) I [present](/en/post/present/) [the](/en/post/the/) [evidence](/en/post/evidence/)?"
-- "Lords [of](/en/post/of/) [the](/en/post/the/) Manor": Refers [to](/en/post/to/) [the](/en/post/the/) [historical](/en/post/historical/) landowners [with](/en/post/with/) feudal rights [and](/en/post/and/) responsibilities.
+- "[Lord](/post/lord/) [it](/post/it/) [over](/post/over/) [someone](/post/someone/)": [To](/post/to/) dominate [or](/post/or/) [control](/post/control/) [someone](/post/someone/) [in](/post/in/) an arrogant [or](/post/or/) oppressive [manner](/post/manner/). [Example](/post/example/): "[He](/post/he/) liked [to](/post/to/) [lord](/post/lord/) [it](/post/it/) [over](/post/over/) [his](/post/his/) subordinates."
+- "[My](/post/my/) [lord](/post/lord/)": [A](/post/a/) [formal](/post/formal/) [or](/post/or/) archaic [way](/post/way/) [to](/post/to/) [address](/post/address/) [a](/post/a/) [man](/post/man/) [of](/post/of/) [high](/post/high/) [rank](/post/rank/) [or](/post/or/) [a](/post/a/) [judge](/post/judge/). [Example](/post/example/): "[Your](/post/your/) [Honour](/post/honour/), [my](/post/my/) [lord](/post/lord/), [may](/post/may/) I [present](/post/present/) [the](/post/the/) [evidence](/post/evidence/)?"
+- "Lords [of](/post/of/) [the](/post/the/) Manor": Refers [to](/post/to/) [the](/post/the/) [historical](/post/historical/) landowners [with](/post/with/) feudal rights [and](/post/and/) responsibilities.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (nobility)**: "[The](/en/post/the/) [lord](/en/post/lord/) [and](/en/post/and/) [lady](/en/post/lady/) attended [the](/en/post/the/) [royal](/en/post/royal/) [ball](/en/post/ball/)."
-- **[Noun](/en/post/noun/) ([religion](/en/post/religion/))**: "[They](/en/post/they/) sang hymns praising [the](/en/post/the/) [name](/en/post/name/) [of](/en/post/of/) [the](/en/post/the/) [Lord](/en/post/lord/)."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) medieval times, barons [would](/en/post/would/) [often](/en/post/often/) [lord](/en/post/lord/) [their](/en/post/their/) [power](/en/post/power/) [over](/en/post/over/) [the](/en/post/the/) [local](/en/post/local/) peasantry."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (nobility)**: "[The](/post/the/) [lord](/post/lord/) [and](/post/and/) [lady](/post/lady/) attended [the](/post/the/) [royal](/post/royal/) [ball](/post/ball/)."
+- **[Noun](/post/noun/) ([religion](/post/religion/))**: "[They](/post/they/) sang hymns praising [the](/post/the/) [name](/post/name/) [of](/post/of/) [the](/post/the/) [Lord](/post/lord/)."
+- **[Verb](/post/verb/)**: "[In](/post/in/) medieval times, barons [would](/post/would/) [often](/post/often/) [lord](/post/lord/) [their](/post/their/) [power](/post/power/) [over](/post/over/) [the](/post/the/) [local](/post/local/) peasantry."
 
 ## Synonyms
-- [Master](/en/post/master/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) nobility [or](/en/post/or/) dominance)
-- [Ruler](/en/post/ruler/)
-- [Superior](/en/post/superior/)
+- [Master](/post/master/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) nobility [or](/post/or/) dominance)
+- [Ruler](/post/ruler/)
+- [Superior](/post/superior/)
 - Sovereign
-- Deity ([in](/en/post/in/) [religious](/en/post/religious/) contexts)
-- Divine (referring [to](/en/post/to/) God)
-- [Sir](/en/post/sir/) ([in](/en/post/in/) addressing [a](/en/post/a/) nobleman [or](/en/post/or/) [judge](/en/post/judge/))
+- Deity ([in](/post/in/) [religious](/post/religious/) contexts)
+- Divine (referring [to](/post/to/) God)
+- [Sir](/post/sir/) ([in](/post/in/) addressing [a](/post/a/) nobleman [or](/post/or/) [judge](/post/judge/))

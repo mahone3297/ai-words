@@ -14,16 +14,16 @@ keywords = ['ai words', 'hillside']
 - **名词**: 山坡；山脚。指的是山的斜坡或者山与平地相接的地方。
 
 ## 短语
-- "[on](/post/on/) [the](/post/the/) [hillside](/post/hillside/)" 在山坡上
-- "[hillside](/post/hillside/) vineyards" 山坡葡萄园
+- "[on](/zh/post/on/) [the](/zh/post/the/) [hillside](/zh/post/hillside/)" 在山坡上
+- "[hillside](/zh/post/hillside/) vineyards" 山坡葡萄园
 
 ## 例句
-- "[The](/post/the/) [house](/post/house/) is nestled [on](/post/on/) [a](/post/a/) [peaceful](/post/peaceful/) [hillside](/post/hillside/) overlooking [the](/post/the/) [valley](/post/valley/)."
-- "[We](/post/we/) went [for](/post/for/) [a](/post/a/) hike [along](/post/along/) [the](/post/the/) scenic [hillside](/post/hillside/) trails."
-- "[The](/post/the/) [hillside](/post/hillside/) was covered [in](/post/in/) blooming wildflowers [during](/post/during/) [spring](/post/spring/)."
+- "[The](/zh/post/the/) [house](/zh/post/house/) is nestled [on](/zh/post/on/) [a](/zh/post/a/) [peaceful](/zh/post/peaceful/) [hillside](/zh/post/hillside/) overlooking [the](/zh/post/the/) [valley](/zh/post/valley/)."
+- "[We](/zh/post/we/) went [for](/zh/post/for/) [a](/zh/post/a/) hike [along](/zh/post/along/) [the](/zh/post/the/) scenic [hillside](/zh/post/hillside/) trails."
+- "[The](/zh/post/the/) [hillside](/zh/post/hillside/) was covered [in](/zh/post/in/) blooming wildflowers [during](/zh/post/during/) [spring](/zh/post/spring/)."
 
 ## 同义词
-- [Slope](/post/slope/)
+- [Slope](/zh/post/slope/)
 - Mountainside
 -崖边
 - Ridgetop

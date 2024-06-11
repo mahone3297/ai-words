@@ -7,27 +7,27 @@ description = '[ˈdʒænjuəri] n.一月'
 keywords = ['ai words', 'January']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒænjuˌeri/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [first](/en/post/first/) [month](/en/post/month/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/) [in](/en/post/in/) [the](/en/post/the/) Gregorian [calendar](/en/post/calendar/), having [either](/en/post/either/) 30 [or](/en/post/or/) 31 days. [It](/en/post/it/) is named [after](/en/post/after/) Janus, [the](/en/post/the/) Roman god [of](/en/post/of/) gates, doors, [and](/en/post/and/) beginnings.
+- **[Noun](/post/noun/)**: [The](/post/the/) [first](/post/first/) [month](/post/month/) [of](/post/of/) [the](/post/the/) [year](/post/year/) [in](/post/in/) [the](/post/the/) Gregorian [calendar](/post/calendar/), having [either](/post/either/) 30 [or](/post/or/) 31 days. [It](/post/it/) is named [after](/post/after/) Janus, [the](/post/the/) Roman god [of](/post/of/) gates, doors, [and](/post/and/) beginnings.
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- _The [new](/en/post/new/) [project](/en/post/project/) [will](/en/post/will/) commence [on](/en/post/on/) [the](/en/post/the/) [first](/en/post/first/) [day](/en/post/day/) [of](/en/post/of/) January._
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- _The [new](/post/new/) [project](/post/project/) [will](/post/will/) commence [on](/post/on/) [the](/post/the/) [first](/post/first/) [day](/post/day/) [of](/post/of/) January._
 
 Phrases:
-- "January blues": [A](/en/post/a/) [mood](/en/post/mood/) [of](/en/post/of/) depression [or](/en/post/or/) [low](/en/post/low/) spirits [often](/en/post/often/) experienced [by](/en/post/by/) [people](/en/post/people/) [during](/en/post/during/) [the](/en/post/the/) [month](/en/post/month/) [of](/en/post/of/) January, [possibly](/en/post/possibly/) [due](/en/post/due/) [to](/en/post/to/) post-holiday [season](/en/post/season/) letdown [or](/en/post/or/) [cold](/en/post/cold/) [weather](/en/post/weather/).
-- "January sales": [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [significant](/en/post/significant/) discounts [and](/en/post/and/) promotions [in](/en/post/in/) retail stores [that](/en/post/that/) typically begins [after](/en/post/after/) [the](/en/post/the/) [holiday](/en/post/holiday/) [season](/en/post/season/) [in](/en/post/in/) [many](/en/post/many/) countries.
+- "January blues": [A](/post/a/) [mood](/post/mood/) [of](/post/of/) depression [or](/post/or/) [low](/post/low/) spirits [often](/post/often/) experienced [by](/post/by/) [people](/post/people/) [during](/post/during/) [the](/post/the/) [month](/post/month/) [of](/post/of/) January, [possibly](/post/possibly/) [due](/post/due/) [to](/post/to/) post-holiday [season](/post/season/) letdown [or](/post/or/) [cold](/post/cold/) [weather](/post/weather/).
+- "January sales": [A](/post/a/) [period](/post/period/) [of](/post/of/) [significant](/post/significant/) discounts [and](/post/and/) promotions [in](/post/in/) retail stores [that](/post/that/) typically begins [after](/post/after/) [the](/post/the/) [holiday](/post/holiday/) [season](/post/season/) [in](/post/in/) [many](/post/many/) countries.
 
-## [Example](/en/post/example/) Sentences
-- _We're planning [a](/en/post/a/) [trip](/en/post/trip/) [to](/en/post/to/) [the](/en/post/the/) mountains [this](/en/post/this/) coming January._
-- _January is typically [the](/en/post/the/) coldest [month](/en/post/month/) [in](/en/post/in/) [most](/en/post/most/) parts [of](/en/post/of/) [the](/en/post/the/) [Northern](/en/post/northern/) Hemisphere._
+## [Example](/post/example/) Sentences
+- _We're planning [a](/post/a/) [trip](/post/trip/) [to](/post/to/) [the](/post/the/) mountains [this](/post/this/) coming January._
+- _January is typically [the](/post/the/) coldest [month](/post/month/) [in](/post/in/) [most](/post/most/) parts [of](/post/of/) [the](/post/the/) [Northern](/post/northern/) Hemisphere._
 
 ## Synonyms
-- [New](/en/post/new/) Year's [Month](/en/post/month/)
-- [First](/en/post/first/) [Month](/en/post/month/)
+- [New](/post/new/) Year's [Month](/post/month/)
+- [First](/post/first/) [Month](/post/month/)
 - Jan (informal abbreviation)
-- [In](/en/post/in/) [other](/en/post/other/) languages, [it](/en/post/it/) has [different](/en/post/different/) names [such](/en/post/such/) [as](/en/post/as/) "janvier" (French), "enero" (Spanish), "gennaio" (Italian), etc. 
+- [In](/post/in/) [other](/post/other/) languages, [it](/post/it/) has [different](/post/different/) names [such](/post/such/) [as](/post/as/) "janvier" (French), "enero" (Spanish), "gennaio" (Italian), etc. 
 
-[Note](/en/post/note/): [Unlike](/en/post/unlike/) "[hello](/en/post/hello/)", [which](/en/post/which/) [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [verb](/en/post/verb/), [and](/en/post/and/) interjection, "January" [primarily](/en/post/primarily/) functions [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), specifically [a](/en/post/a/) [proper](/en/post/proper/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [month](/en/post/month/).
+[Note](/post/note/): [Unlike](/post/unlike/) "[hello](/post/hello/)", [which](/post/which/) [can](/post/can/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [verb](/post/verb/), [and](/post/and/) interjection, "January" [primarily](/post/primarily/) functions [as](/post/as/) [a](/post/a/) [noun](/post/noun/), specifically [a](/post/a/) [proper](/post/proper/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [month](/post/month/).

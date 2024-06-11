@@ -7,36 +7,36 @@ description = '[ˈautwədz] ad.向外，往海外'
 keywords = ['ai words', 'outwards']
 +++
 
-## [Word](/en/post/word/): [Outwards](/en/post/outwards/)
+## [Word](/post/word/): [Outwards](/post/outwards/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌaʊtˈwərdz/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [direction](/en/post/direction/) [away](/en/post/away/) [from](/en/post/from/) [the](/en/post/the/) center [or](/en/post/or/) [inside](/en/post/inside/); towards [the](/en/post/the/) [outside](/en/post/outside/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [indicate](/en/post/indicate/) [movement](/en/post/movement/) [or](/en/post/or/) [extension](/en/post/extension/) [to](/en/post/to/) [the](/en/post/the/) [exterior](/en/post/exterior/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) petals [of](/en/post/of/) [the](/en/post/the/) [flower](/en/post/flower/) opened [outwards](/en/post/outwards/)."
-- **[Adjective](/en/post/adjective/)**: Directed [or](/en/post/or/) facing towards [the](/en/post/the/) [outside](/en/post/outside/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) windows [on](/en/post/on/) [the](/en/post/the/) [house](/en/post/house/) [open](/en/post/open/) [outwards](/en/post/outwards/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [direction](/post/direction/) [away](/post/away/) [from](/post/from/) [the](/post/the/) center [or](/post/or/) [inside](/post/inside/); towards [the](/post/the/) [outside](/post/outside/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [indicate](/post/indicate/) [movement](/post/movement/) [or](/post/or/) [extension](/post/extension/) [to](/post/to/) [the](/post/the/) [exterior](/post/exterior/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) petals [of](/post/of/) [the](/post/the/) [flower](/post/flower/) opened [outwards](/post/outwards/)."
+- **[Adjective](/post/adjective/)**: Directed [or](/post/or/) facing towards [the](/post/the/) [outside](/post/outside/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) windows [on](/post/on/) [the](/post/the/) [house](/post/house/) [open](/post/open/) [outwards](/post/outwards/)."
 
-### Adverbial [Usage](/en/post/usage/) Examples
-- [The](/en/post/the/) [explosion](/en/post/explosion/) propelled debris [outwards](/en/post/outwards/).
-- [She](/en/post/she/) turned [her](/en/post/her/) [gaze](/en/post/gaze/) [outwards](/en/post/outwards/), looking towards [the](/en/post/the/) [horizon](/en/post/horizon/).
-- [The](/en/post/the/) [force](/en/post/force/) [of](/en/post/of/) [the](/en/post/the/) [wind](/en/post/wind/) pushed [the](/en/post/the/) [door](/en/post/door/) [outwards](/en/post/outwards/).
+### Adverbial [Usage](/post/usage/) Examples
+- [The](/post/the/) [explosion](/post/explosion/) propelled debris [outwards](/post/outwards/).
+- [She](/post/she/) turned [her](/post/her/) [gaze](/post/gaze/) [outwards](/post/outwards/), looking towards [the](/post/the/) [horizon](/post/horizon/).
+- [The](/post/the/) [force](/post/force/) [of](/post/of/) [the](/post/the/) [wind](/post/wind/) pushed [the](/post/the/) [door](/post/door/) [outwards](/post/outwards/).
 
-### Adjectival [Usage](/en/post/usage/) Examples
-- [The](/en/post/the/) balcony had [a](/en/post/a/) railing [that](/en/post/that/) extended [outwards](/en/post/outwards/).
-- [Make](/en/post/make/) [sure](/en/post/sure/) [the](/en/post/the/) [arrow](/en/post/arrow/) points [outwards](/en/post/outwards/) [when](/en/post/when/) [you](/en/post/you/) [place](/en/post/place/) [the](/en/post/the/) [sign](/en/post/sign/).
+### Adjectival [Usage](/post/usage/) Examples
+- [The](/post/the/) balcony had [a](/post/a/) railing [that](/post/that/) extended [outwards](/post/outwards/).
+- [Make](/post/make/) [sure](/post/sure/) [the](/post/the/) [arrow](/post/arrow/) points [outwards](/post/outwards/) [when](/post/when/) [you](/post/you/) [place](/post/place/) [the](/post/the/) [sign](/post/sign/).
 
 ## Phrases
-- "[Move](/en/post/move/) [outwards](/en/post/outwards/)" - [To](/en/post/to/) [go](/en/post/go/) [or](/en/post/or/) [extend](/en/post/extend/) [further](/en/post/further/) [away](/en/post/away/) [from](/en/post/from/) [the](/en/post/the/) center.
-- "[Radiate](/en/post/radiate/) [outwards](/en/post/outwards/)" - [To](/en/post/to/) [spread](/en/post/spread/) [or](/en/post/or/) [extend](/en/post/extend/) [in](/en/post/in/) [all](/en/post/all/) directions [from](/en/post/from/) [a](/en/post/a/) [central](/en/post/central/) [point](/en/post/point/).
-- "[Expand](/en/post/expand/) [outwards](/en/post/outwards/)" - [To](/en/post/to/) [grow](/en/post/grow/) [or](/en/post/or/) [increase](/en/post/increase/) [in](/en/post/in/) [size](/en/post/size/) [by](/en/post/by/) moving [beyond](/en/post/beyond/) [current](/en/post/current/) boundaries.
+- "[Move](/post/move/) [outwards](/post/outwards/)" - [To](/post/to/) [go](/post/go/) [or](/post/or/) [extend](/post/extend/) [further](/post/further/) [away](/post/away/) [from](/post/from/) [the](/post/the/) center.
+- "[Radiate](/post/radiate/) [outwards](/post/outwards/)" - [To](/post/to/) [spread](/post/spread/) [or](/post/or/) [extend](/post/extend/) [in](/post/in/) [all](/post/all/) directions [from](/post/from/) [a](/post/a/) [central](/post/central/) [point](/post/point/).
+- "[Expand](/post/expand/) [outwards](/post/outwards/)" - [To](/post/to/) [grow](/post/grow/) [or](/post/or/) [increase](/post/increase/) [in](/post/in/) [size](/post/size/) [by](/post/by/) moving [beyond](/post/beyond/) [current](/post/current/) boundaries.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[As](/en/post/as/) [the](/en/post/the/) [balloon](/en/post/balloon/) filled [with](/en/post/with/) [air](/en/post/air/), [it](/en/post/it/) expanded [outwards](/en/post/outwards/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) branches [of](/en/post/of/) [the](/en/post/the/) [tree](/en/post/tree/) grew [outwards](/en/post/outwards/), providing [shade](/en/post/shade/) [for](/en/post/for/) [the](/en/post/the/) [garden](/en/post/garden/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[As](/post/as/) [the](/post/the/) [balloon](/post/balloon/) filled [with](/post/with/) [air](/post/air/), [it](/post/it/) expanded [outwards](/post/outwards/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) branches [of](/post/of/) [the](/post/the/) [tree](/post/tree/) grew [outwards](/post/outwards/), providing [shade](/post/shade/) [for](/post/for/) [the](/post/the/) [garden](/post/garden/)."
 
 ## Synonyms
 - Outwardly (adv.)
-- [Away](/en/post/away/) [from](/en/post/from/) [the](/en/post/the/) center
+- [Away](/post/away/) [from](/post/from/) [the](/post/the/) center
 - Exteriorly
 - Externally
-- Towards [the](/en/post/the/) [outside](/en/post/outside/)
+- Towards [the](/post/the/) [outside](/post/outside/)

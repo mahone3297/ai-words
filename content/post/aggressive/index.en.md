@@ -7,53 +7,53 @@ description = '[əˈgresiv] a.侵略的；好斗的'
 keywords = ['ai words', 'aggressive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈɡresɪv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Aggression**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [tendency](/en/post/tendency/) [to](/en/post/to/) [behave](/en/post/behave/) aggressively, [often](/en/post/often/) characterized [by](/en/post/by/) [hostile](/en/post/hostile/) [or](/en/post/or/) forceful [behavior](/en/post/behavior/).
-- **[Aggressive](/en/post/aggressive/) [behavior](/en/post/behavior/)**: Forceful [or](/en/post/or/) assertive actions, typically [with](/en/post/with/) [the](/en/post/the/) intent [to](/en/post/to/) [harm](/en/post/harm/), dominate, [or](/en/post/or/) intimidate others.
-- **[Aggressive](/en/post/aggressive/) personality**: [A](/en/post/a/) disposition characterized [by](/en/post/by/) assertiveness, competitiveness, [and](/en/post/and/) [a](/en/post/a/) readiness [to](/en/post/to/) [challenge](/en/post/challenge/) [or](/en/post/or/) defy [authority](/en/post/authority/).
+### [Noun](/post/noun/)
+- **Aggression**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [tendency](/post/tendency/) [to](/post/to/) [behave](/post/behave/) aggressively, [often](/post/often/) characterized [by](/post/by/) [hostile](/post/hostile/) [or](/post/or/) forceful [behavior](/post/behavior/).
+- **[Aggressive](/post/aggressive/) [behavior](/post/behavior/)**: Forceful [or](/post/or/) assertive actions, typically [with](/post/with/) [the](/post/the/) intent [to](/post/to/) [harm](/post/harm/), dominate, [or](/post/or/) intimidate others.
+- **[Aggressive](/post/aggressive/) personality**: [A](/post/a/) disposition characterized [by](/post/by/) assertiveness, competitiveness, [and](/post/and/) [a](/post/a/) readiness [to](/post/to/) [challenge](/post/challenge/) [or](/post/or/) defy [authority](/post/authority/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [be](/en/post/be/) [aggressive](/en/post/aggressive/)**: [To](/en/post/to/) [exhibit](/en/post/exhibit/) [or](/en/post/or/) [display](/en/post/display/) an [aggressive](/en/post/aggressive/) [attitude](/en/post/attitude/) [or](/en/post/or/) [behavior](/en/post/behavior/) towards others.
-- **[To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) aggression**: [To](/en/post/to/) initiate [or](/en/post/or/) [participate](/en/post/participate/) [in](/en/post/in/) confrontational [or](/en/post/or/) [hostile](/en/post/hostile/) actions.
+### [Verb](/post/verb/)
+- **[To](/post/to/) [be](/post/be/) [aggressive](/post/aggressive/)**: [To](/post/to/) [exhibit](/post/exhibit/) [or](/post/or/) [display](/post/display/) an [aggressive](/post/aggressive/) [attitude](/post/attitude/) [or](/post/or/) [behavior](/post/behavior/) towards others.
+- **[To](/post/to/) [engage](/post/engage/) [in](/post/in/) aggression**: [To](/post/to/) initiate [or](/post/or/) [participate](/post/participate/) [in](/post/in/) confrontational [or](/post/or/) [hostile](/post/hostile/) actions.
 
-### [Adjective](/en/post/adjective/)
-- **[Aggressive](/en/post/aggressive/)**: Displaying [or](/en/post/or/) characterized [by](/en/post/by/) [a](/en/post/a/) readiness [to](/en/post/to/) [attack](/en/post/attack/), dominate, [or](/en/post/or/) assert [oneself](/en/post/oneself/) forcefully.
-- **Assertive**: [Confident](/en/post/confident/) [and](/en/post/and/) forceful [in](/en/post/in/) expressing one's opinions [or](/en/post/or/) desires.
+### [Adjective](/post/adjective/)
+- **[Aggressive](/post/aggressive/)**: Displaying [or](/post/or/) characterized [by](/post/by/) [a](/post/a/) readiness [to](/post/to/) [attack](/post/attack/), dominate, [or](/post/or/) assert [oneself](/post/oneself/) forcefully.
+- **Assertive**: [Confident](/post/confident/) [and](/post/and/) forceful [in](/post/in/) expressing one's opinions [or](/post/or/) desires.
 
-### [Adverb](/en/post/adverb/)
-- **Aggressively**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) is forceful, confrontational, [or](/en/post/or/) dominant.
+### [Adverb](/post/adverb/)
+- **Aggressively**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) is forceful, confrontational, [or](/post/or/) dominant.
 
 ## Phrases
-- "[Display](/en/post/display/) [aggressive](/en/post/aggressive/) [behavior](/en/post/behavior/)"
-- "[React](/en/post/react/) aggressively [to](/en/post/to/) [a](/en/post/a/) [situation](/en/post/situation/)"
-- "[Speak](/en/post/speak/) aggressively [to](/en/post/to/) [defend](/en/post/defend/) one's [point](/en/post/point/)"
+- "[Display](/post/display/) [aggressive](/post/aggressive/) [behavior](/post/behavior/)"
+- "[React](/post/react/) aggressively [to](/post/to/) [a](/post/a/) [situation](/post/situation/)"
+- "[Speak](/post/speak/) aggressively [to](/post/to/) [defend](/post/defend/) one's [point](/post/point/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) team's [aggressive](/en/post/aggressive/) [play](/en/post/play/) [style](/en/post/style/) helped [them](/en/post/them/) [win](/en/post/win/) [the](/en/post/the/) championship."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) became [aggressive](/en/post/aggressive/) [when](/en/post/when/) defending [his](/en/post/his/) [position](/en/post/position/) [on](/en/post/on/) [the](/en/post/the/) [issue](/en/post/issue/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [dog](/en/post/dog/) approached [the](/en/post/the/) [stranger](/en/post/stranger/) [in](/en/post/in/) an [aggressive](/en/post/aggressive/) [manner](/en/post/manner/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) spoke aggressively [to](/en/post/to/) [silence](/en/post/silence/) [the](/en/post/the/) [crowd](/en/post/crowd/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) team's [aggressive](/post/aggressive/) [play](/post/play/) [style](/post/style/) helped [them](/post/them/) [win](/post/win/) [the](/post/the/) championship."
+- **[Verb](/post/verb/)**: "[He](/post/he/) became [aggressive](/post/aggressive/) [when](/post/when/) defending [his](/post/his/) [position](/post/position/) [on](/post/on/) [the](/post/the/) [issue](/post/issue/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [dog](/post/dog/) approached [the](/post/the/) [stranger](/post/stranger/) [in](/post/in/) an [aggressive](/post/aggressive/) [manner](/post/manner/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) spoke aggressively [to](/post/to/) [silence](/post/silence/) [the](/post/the/) [crowd](/post/crowd/)."
 
 ## Synonyms
-- [Hostile](/en/post/hostile/)
+- [Hostile](/post/hostile/)
 - Assertive
 - Intimidating
 - Forceful
 - Competitive
-- [Bold](/en/post/bold/)
+- [Bold](/post/bold/)
 - Pushy
 - Robust
 - Strong-willed
 
 ## Antonyms
-- [Passive](/en/post/passive/)
+- [Passive](/post/passive/)
 - Non-confrontational
-- [Gentle](/en/post/gentle/)
-- [Tame](/en/post/tame/)
+- [Gentle](/post/gentle/)
+- [Tame](/post/tame/)
 - Submissive
 - meek
 - docile

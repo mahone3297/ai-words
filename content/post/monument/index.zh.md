@@ -11,20 +11,20 @@ keywords = ['ai words', 'monument']
 /ˈmɒnjʊmənt/
 
 ## 释义
-- **名词**: 巨大的建筑物或纪念物，通常为了纪念重要事件、人物或历史而建。例如: "[The](/post/the/) [Statue](/post/statue/) [of](/post/of/) [Liberty](/post/liberty/) is an iconic [monument](/post/monument/) [in](/post/in/) [New](/post/new/) York [City](/post/city/)."
-- **名词**: 重要的事件或成就，尤指在历史上的。例如: "[His](/post/his/) [victory](/post/victory/) [in](/post/in/) [the](/post/the/) [battle](/post/battle/) was considered [a](/post/a/) [monument](/post/monument/) [to](/post/to/) [his](/post/his/) bravery."
+- **名词**: 巨大的建筑物或纪念物，通常为了纪念重要事件、人物或历史而建。例如: "[The](/zh/post/the/) [Statue](/zh/post/statue/) [of](/zh/post/of/) [Liberty](/zh/post/liberty/) is an iconic [monument](/zh/post/monument/) [in](/zh/post/in/) [New](/zh/post/new/) York [City](/zh/post/city/)."
+- **名词**: 重要的事件或成就，尤指在历史上的。例如: "[His](/zh/post/his/) [victory](/zh/post/victory/) [in](/zh/post/in/) [the](/zh/post/the/) [battle](/zh/post/battle/) was considered [a](/zh/post/a/) [monument](/zh/post/monument/) [to](/zh/post/to/) [his](/zh/post/his/) bravery."
 
 ## 短语
-- "[Monument](/post/monument/) [to](/post/to/)" 用于描述为纪念某人或某事而建立的建筑。例如: "There's [a](/post/a/) [monument](/post/monument/) [to](/post/to/) [the](/post/the/) [war](/post/war/) heroes [in](/post/in/) [the](/post/the/) [city](/post/city/) [square](/post/square/)."
-- "Monumental [task](/post/task/)" 表示极其艰巨的任务。例如: "[Building](/post/building/) [a](/post/a/) [new](/post/new/) [highway](/post/highway/) [across](/post/across/) [the](/post/the/) mountains was [a](/post/a/) monumental [task](/post/task/)."
+- "[Monument](/zh/post/monument/) [to](/zh/post/to/)" 用于描述为纪念某人或某事而建立的建筑。例如: "There's [a](/zh/post/a/) [monument](/zh/post/monument/) [to](/zh/post/to/) [the](/zh/post/the/) [war](/zh/post/war/) heroes [in](/zh/post/in/) [the](/zh/post/the/) [city](/zh/post/city/) [square](/zh/post/square/)."
+- "Monumental [task](/zh/post/task/)" 表示极其艰巨的任务。例如: "[Building](/zh/post/building/) [a](/zh/post/a/) [new](/zh/post/new/) [highway](/zh/post/highway/) [across](/zh/post/across/) [the](/zh/post/the/) mountains was [a](/zh/post/a/) monumental [task](/zh/post/task/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [ancient](/post/ancient/) [monument](/post/monument/) [still](/post/still/) stands [tall](/post/tall/) [after](/post/after/) thousands [of](/post/of/) years."
-- 名词: "[The](/post/the/) dedication [ceremony](/post/ceremony/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [monument](/post/monument/) took [place](/post/place/) [last](/post/last/) [week](/post/week/)."
+- 名词: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) [monument](/zh/post/monument/) [still](/zh/post/still/) stands [tall](/zh/post/tall/) [after](/zh/post/after/) thousands [of](/zh/post/of/) years."
+- 名词: "[The](/zh/post/the/) dedication [ceremony](/zh/post/ceremony/) [for](/zh/post/for/) [the](/zh/post/the/) [new](/zh/post/new/) [monument](/zh/post/monument/) took [place](/zh/post/place/) [last](/zh/post/last/) [week](/zh/post/week/)."
 
 ## 同义词
-- [Memorial](/post/memorial/)
+- [Memorial](/zh/post/memorial/)
 - Shrine
 - Tribute
-- [Structure](/post/structure/)
+- [Structure](/zh/post/structure/)
 - Landmark

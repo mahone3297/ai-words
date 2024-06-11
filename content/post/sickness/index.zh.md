@@ -11,20 +11,20 @@ keywords = ['ai words', 'sickness']
 /sɪkˈnəs/
 
 ## 释义
-- **名词**: 疾病，病态；不适。例如: "He's been suffering [from](/post/from/) [a](/post/a/) [severe](/post/severe/) [sickness](/post/sickness/) [since](/post/since/) [last](/post/last/) [week](/post/week/)."
-- **形容词**: 病态的，恶心的。例如: "[The](/post/the/) [smell](/post/smell/) made [me](/post/me/) [feel](/post/feel/) [sickness](/post/sickness/)."
+- **名词**: 疾病，病态；不适。例如: "He's been suffering [from](/zh/post/from/) [a](/zh/post/a/) [severe](/zh/post/severe/) [sickness](/zh/post/sickness/) [since](/zh/post/since/) [last](/zh/post/last/) [week](/zh/post/week/)."
+- **形容词**: 病态的，恶心的。例如: "[The](/zh/post/the/) [smell](/zh/post/smell/) made [me](/zh/post/me/) [feel](/zh/post/feel/) [sickness](/zh/post/sickness/)."
 
 ## 短语
-- "[Sickness](/post/sickness/) [benefit](/post/benefit/)" 指的是因疾病而获得的福利或补偿。
-- "[Sickness](/post/sickness/) [absence](/post/absence/)" 意为因病缺勤。
+- "[Sickness](/zh/post/sickness/) [benefit](/zh/post/benefit/)" 指的是因疾病而获得的福利或补偿。
+- "[Sickness](/zh/post/sickness/) [absence](/zh/post/absence/)" 意为因病缺勤。
 
 ## 例句
-- 名词: "[She](/post/she/) had [to](/post/to/) [take](/post/take/) [a](/post/a/) [day](/post/day/) [off](/post/off/) [work](/post/work/) [due](/post/due/) [to](/post/to/) [sickness](/post/sickness/)."
-- 形容词: "[The](/post/the/) patient's [sickness](/post/sickness/) [left](/post/left/) [her](/post/her/) [weak](/post/weak/) [and](/post/and/) [unable](/post/unable/) [to](/post/to/) [eat](/post/eat/)."
+- 名词: "[She](/zh/post/she/) had [to](/zh/post/to/) [take](/zh/post/take/) [a](/zh/post/a/) [day](/zh/post/day/) [off](/zh/post/off/) [work](/zh/post/work/) [due](/zh/post/due/) [to](/zh/post/to/) [sickness](/zh/post/sickness/)."
+- 形容词: "[The](/zh/post/the/) patient's [sickness](/zh/post/sickness/) [left](/zh/post/left/) [her](/zh/post/her/) [weak](/zh/post/weak/) [and](/zh/post/and/) [unable](/zh/post/unable/) [to](/zh/post/to/) [eat](/zh/post/eat/)."
 
 ## 同义词
-- [Illness](/post/illness/)
-- [Disease](/post/disease/)
+- [Illness](/zh/post/illness/)
+- [Disease](/zh/post/disease/)
 - Malady
 - Unwellness
 - Ailment

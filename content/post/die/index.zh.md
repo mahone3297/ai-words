@@ -12,26 +12,26 @@ keywords = ['ai words', 'die']
 
 ## 释义
 - **动词**:
-  - (死亡) [to](/post/to/) [cease](/post/cease/) [to](/post/to/) [be](/post/be/) [alive](/post/alive/); [become](/post/become/) [dead](/post/dead/). 例如: "[The](/post/the/) [old](/post/old/) [tree](/post/tree/) [finally](/post/finally/) died [in](/post/in/) [the](/post/the/) [winter](/post/winter/)."
-  - (逐渐消失) [to](/post/to/) [fade](/post/fade/) [away](/post/away/) [or](/post/or/) [become](/post/become/) extinguished. 例如: "[The](/post/the/) [light](/post/light/) died [slowly](/post/slowly/) [as](/post/as/) [the](/post/the/) [sun](/post/sun/) [set](/post/set/)."
-  - (终止) [to](/post/to/) [come](/post/come/) [to](/post/to/) an [end](/post/end/); [stop](/post/stop/) existing. 例如: "[Their](/post/their/) [friendship](/post/friendship/) died [a](/post/a/) [natural](/post/natural/) [death](/post/death/) [over](/post/over/) [time](/post/time/)."
+  - (死亡) [to](/zh/post/to/) [cease](/zh/post/cease/) [to](/zh/post/to/) [be](/zh/post/be/) [alive](/zh/post/alive/); [become](/zh/post/become/) [dead](/zh/post/dead/). 例如: "[The](/zh/post/the/) [old](/zh/post/old/) [tree](/zh/post/tree/) [finally](/zh/post/finally/) died [in](/zh/post/in/) [the](/zh/post/the/) [winter](/zh/post/winter/)."
+  - (逐渐消失) [to](/zh/post/to/) [fade](/zh/post/fade/) [away](/zh/post/away/) [or](/zh/post/or/) [become](/zh/post/become/) extinguished. 例如: "[The](/zh/post/the/) [light](/zh/post/light/) died [slowly](/zh/post/slowly/) [as](/zh/post/as/) [the](/zh/post/the/) [sun](/zh/post/sun/) [set](/zh/post/set/)."
+  - (终止) [to](/zh/post/to/) [come](/zh/post/come/) [to](/zh/post/to/) an [end](/zh/post/end/); [stop](/zh/post/stop/) existing. 例如: "[Their](/zh/post/their/) [friendship](/zh/post/friendship/) died [a](/zh/post/a/) [natural](/zh/post/natural/) [death](/zh/post/death/) [over](/zh/post/over/) [time](/zh/post/time/)."
 
 - **名词**:
-  - (死亡) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [dead](/post/dead/); demise. 例如: "[She](/post/she/) passed [away](/post/away/) peacefully [in](/post/in/) [her](/post/her/) [sleep](/post/sleep/), leaving [behind](/post/behind/) [a](/post/a/) legacy [that](/post/that/) [would](/post/would/) [never](/post/never/) [die](/post/die/)."
-  - (死亡的人) [a](/post/a/) deceased [person](/post/person/). 例如: "[They](/post/they/) held [a](/post/a/) [ceremony](/post/ceremony/) [to](/post/to/) honor [the](/post/the/) [memory](/post/memory/) [of](/post/of/) [the](/post/the/) fallen soldiers."
-  - (灭绝) [the](/post/the/) [complete](/post/complete/) disappearance [of](/post/of/) [a](/post/a/) species. 例如: "[Many](/post/many/) scientists [believe](/post/believe/) [that](/post/that/) dinosaurs [have](/post/have/) died [out](/post/out/) millions [of](/post/of/) years [ago](/post/ago/)."
+  - (死亡) [the](/zh/post/the/) [state](/zh/post/state/) [of](/zh/post/of/) [being](/zh/post/being/) [dead](/zh/post/dead/); demise. 例如: "[She](/zh/post/she/) passed [away](/zh/post/away/) peacefully [in](/zh/post/in/) [her](/zh/post/her/) [sleep](/zh/post/sleep/), leaving [behind](/zh/post/behind/) [a](/zh/post/a/) legacy [that](/zh/post/that/) [would](/zh/post/would/) [never](/zh/post/never/) [die](/zh/post/die/)."
+  - (死亡的人) [a](/zh/post/a/) deceased [person](/zh/post/person/). 例如: "[They](/zh/post/they/) held [a](/zh/post/a/) [ceremony](/zh/post/ceremony/) [to](/zh/post/to/) honor [the](/zh/post/the/) [memory](/zh/post/memory/) [of](/zh/post/of/) [the](/zh/post/the/) fallen soldiers."
+  - (灭绝) [the](/zh/post/the/) [complete](/zh/post/complete/) disappearance [of](/zh/post/of/) [a](/zh/post/a/) species. 例如: "[Many](/zh/post/many/) scientists [believe](/zh/post/believe/) [that](/zh/post/that/) dinosaurs [have](/zh/post/have/) died [out](/zh/post/out/) millions [of](/zh/post/of/) years [ago](/zh/post/ago/)."
 
 ## 短语
-- "[die](/post/die/) [out](/post/out/)" 意味着灭绝或逐渐消失。例如: "[Some](/post/some/) species [of](/post/of/) birds are [in](/post/in/) [danger](/post/danger/) [of](/post/of/) [dying](/post/dying/) [out](/post/out/) [due](/post/due/) [to](/post/to/) habitat [loss](/post/loss/)."
-- "[die](/post/die/) [down](/post/down/)" 表示减弱或平息。例如: "[The](/post/the/) [noise](/post/noise/) [from](/post/from/) [the](/post/the/) [street](/post/street/) [gradually](/post/gradually/) died [down](/post/down/) [as](/post/as/) [night](/post/night/) fell."
+- "[die](/zh/post/die/) [out](/zh/post/out/)" 意味着灭绝或逐渐消失。例如: "[Some](/zh/post/some/) species [of](/zh/post/of/) birds are [in](/zh/post/in/) [danger](/zh/post/danger/) [of](/zh/post/of/) [dying](/zh/post/dying/) [out](/zh/post/out/) [due](/zh/post/due/) [to](/zh/post/to/) habitat [loss](/zh/post/loss/)."
+- "[die](/zh/post/die/) [down](/zh/post/down/)" 表示减弱或平息。例如: "[The](/zh/post/the/) [noise](/zh/post/noise/) [from](/zh/post/from/) [the](/zh/post/the/) [street](/zh/post/street/) [gradually](/zh/post/gradually/) died [down](/zh/post/down/) [as](/zh/post/as/) [night](/zh/post/night/) fell."
 
 ## 例句
-- 动词: "[The](/post/the/) patient's [heart](/post/heart/) stopped beating, [and](/post/and/) [he](/post/he/) died [on](/post/on/) [the](/post/the/) operating [table](/post/table/)."
-- 名词: "[The](/post/the/) [news](/post/news/) [of](/post/of/) [his](/post/his/) untimely [death](/post/death/) shocked [the](/post/the/) [whole](/post/whole/) [community](/post/community/)."
+- 动词: "[The](/zh/post/the/) patient's [heart](/zh/post/heart/) stopped beating, [and](/zh/post/and/) [he](/zh/post/he/) died [on](/zh/post/on/) [the](/zh/post/the/) operating [table](/zh/post/table/)."
+- 名词: "[The](/zh/post/the/) [news](/zh/post/news/) [of](/zh/post/of/) [his](/zh/post/his/) untimely [death](/zh/post/death/) shocked [the](/zh/post/the/) [whole](/zh/post/whole/) [community](/zh/post/community/)."
 
 ## 同义词
-- [pass](/post/pass/) [away](/post/away/)
+- [pass](/zh/post/pass/) [away](/zh/post/away/)
 - perish
-- [depart](/post/depart/)
+- [depart](/zh/post/depart/)
 - expire
-- [cease](/post/cease/) [to](/post/to/) [live](/post/live/)
+- [cease](/zh/post/cease/) [to](/zh/post/to/) [live](/zh/post/live/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'before']
 /bɪˈfɔːr/
 
 ## 释义
-- **介词**: 表示在时间或顺序上的先于。例如: "I [need](/post/need/) [to](/post/to/) [finish](/post/finish/) [this](/post/this/) [task](/post/task/) [before](/post/before/) going [home](/post/home/)."
-- **连词**: 引导从句，表示在…之前。例如: "[She](/post/she/) [will](/post/will/) [leave](/post/leave/) [once](/post/once/) [she](/post/she/) finishes [her](/post/her/) [work](/post/work/), [but](/post/but/) I'll [be](/post/be/) gone [before](/post/before/) [that](/post/that/)."
+- **介词**: 表示在时间或顺序上的先于。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [finish](/zh/post/finish/) [this](/zh/post/this/) [task](/zh/post/task/) [before](/zh/post/before/) going [home](/zh/post/home/)."
+- **连词**: 引导从句，表示在…之前。例如: "[She](/zh/post/she/) [will](/zh/post/will/) [leave](/zh/post/leave/) [once](/zh/post/once/) [she](/zh/post/she/) finishes [her](/zh/post/her/) [work](/zh/post/work/), [but](/zh/post/but/) I'll [be](/zh/post/be/) gone [before](/zh/post/before/) [that](/zh/post/that/)."
 
 ## 短语
-- "[Before](/post/before/) [long](/post/long/)" 意为不久之后。例如: "[Before](/post/before/) [long](/post/long/), [the](/post/the/) [sun](/post/sun/) [will](/post/will/) [set](/post/set/)."
-- "[In](/post/in/) [the](/post/the/) [presence](/post/presence/) [of](/post/of/) sb [before](/post/before/)" 表示在某人面前。例如: "[He](/post/he/) was [too](/post/too/) [nervous](/post/nervous/) [to](/post/to/) [speak](/post/speak/) [in](/post/in/) [front](/post/front/) [of](/post/of/) [her](/post/her/) [before](/post/before/)."
+- "[Before](/zh/post/before/) [long](/zh/post/long/)" 意为不久之后。例如: "[Before](/zh/post/before/) [long](/zh/post/long/), [the](/zh/post/the/) [sun](/zh/post/sun/) [will](/zh/post/will/) [set](/zh/post/set/)."
+- "[In](/zh/post/in/) [the](/zh/post/the/) [presence](/zh/post/presence/) [of](/zh/post/of/) sb [before](/zh/post/before/)" 表示在某人面前。例如: "[He](/zh/post/he/) was [too](/zh/post/too/) [nervous](/zh/post/nervous/) [to](/zh/post/to/) [speak](/zh/post/speak/) [in](/zh/post/in/) [front](/zh/post/front/) [of](/zh/post/of/) [her](/zh/post/her/) [before](/zh/post/before/)."
 
 ## 例句
-- 介词: "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) groceries [before](/post/before/) [we](/post/we/) [can](/post/can/) [cook](/post/cook/) [dinner](/post/dinner/)."
-- 连词: "I'll [call](/post/call/) [you](/post/you/) [back](/post/back/) [before](/post/before/) I [leave](/post/leave/) [the](/post/the/) [office](/post/office/)."
+- 介词: "I [need](/zh/post/need/) [to](/zh/post/to/) [buy](/zh/post/buy/) groceries [before](/zh/post/before/) [we](/zh/post/we/) [can](/zh/post/can/) [cook](/zh/post/cook/) [dinner](/zh/post/dinner/)."
+- 连词: "I'll [call](/zh/post/call/) [you](/zh/post/you/) [back](/zh/post/back/) [before](/zh/post/before/) I [leave](/zh/post/leave/) [the](/zh/post/the/) [office](/zh/post/office/)."
 
 ## 同义词
-- [Prior](/post/prior/) [to](/post/to/)
-- [Ahead](/post/ahead/) [of](/post/of/)
-- [Preceding](/post/preceding/)
-- Earlier [than](/post/than/)
-- [Until](/post/until/)
+- [Prior](/zh/post/prior/) [to](/zh/post/to/)
+- [Ahead](/zh/post/ahead/) [of](/zh/post/of/)
+- [Preceding](/zh/post/preceding/)
+- Earlier [than](/zh/post/than/)
+- [Until](/zh/post/until/)

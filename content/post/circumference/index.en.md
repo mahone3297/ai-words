@@ -7,34 +7,34 @@ description = '[səˈkʌmfərəns] n.圆周，周长，圆周线'
 keywords = ['ai words', 'circumference']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsɜːrkmɪfr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[Circumference](/en/post/circumference/) refers [to](/en/post/to/) [the](/en/post/the/) [complete](/en/post/complete/) [distance](/en/post/distance/) [around](/en/post/around/) [the](/en/post/the/) [edge](/en/post/edge/) [or](/en/post/or/) [boundary](/en/post/boundary/) [of](/en/post/of/) [a](/en/post/a/) [circular](/en/post/circular/) [object](/en/post/object/) [or](/en/post/or/) [shape](/en/post/shape/). [It](/en/post/it/) is measured [along](/en/post/along/) [the](/en/post/the/) perimeter.
+### [Noun](/post/noun/)
+[Circumference](/post/circumference/) refers [to](/post/to/) [the](/post/the/) [complete](/post/complete/) [distance](/post/distance/) [around](/post/around/) [the](/post/the/) [edge](/post/edge/) [or](/post/or/) [boundary](/post/boundary/) [of](/post/of/) [a](/post/a/) [circular](/post/circular/) [object](/post/object/) [or](/post/or/) [shape](/post/shape/). [It](/post/it/) is measured [along](/post/along/) [the](/post/the/) perimeter.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) '[circumference](/en/post/circumference/)' [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) surrounding [or](/en/post/or/) encircling [something](/en/post/something/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/).
+### [Verb](/post/verb/)
+[To](/post/to/) '[circumference](/post/circumference/)' [can](/post/can/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [act](/post/act/) [of](/post/of/) surrounding [or](/post/or/) encircling [something](/post/something/), [often](/post/often/) [in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/).
 
 ## Phrases
-- "[Measure](/en/post/measure/) [the](/en/post/the/) [circumference](/en/post/circumference/) [of](/en/post/of/) [a](/en/post/a/) [circle](/en/post/circle/)"
-- "[Go](/en/post/go/) [around](/en/post/around/) [the](/en/post/the/) [circumference](/en/post/circumference/) [of](/en/post/of/) [the](/en/post/the/) [track](/en/post/track/)"
-- "[The](/en/post/the/) [total](/en/post/total/) [circumference](/en/post/circumference/) [of](/en/post/of/) [the](/en/post/the/) [Earth](/en/post/earth/)"
+- "[Measure](/post/measure/) [the](/post/the/) [circumference](/post/circumference/) [of](/post/of/) [a](/post/a/) [circle](/post/circle/)"
+- "[Go](/post/go/) [around](/post/around/) [the](/post/the/) [circumference](/post/circumference/) [of](/post/of/) [the](/post/the/) [track](/post/track/)"
+- "[The](/post/the/) [total](/post/total/) [circumference](/post/circumference/) [of](/post/of/) [the](/post/the/) [Earth](/post/earth/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) tree's [trunk](/en/post/trunk/) had [a](/en/post/a/) [circumference](/en/post/circumference/) [of](/en/post/of/) 8 feet."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) hiker circled [the](/en/post/the/) [mountain](/en/post/mountain/), taking [note](/en/post/note/) [of](/en/post/of/) [the](/en/post/the/) changing vegetation [as](/en/post/as/) [they](/en/post/they/) circumferenced [the](/en/post/the/) [peak](/en/post/peak/)."
-- **Metaphorical**: "[Her](/en/post/her/) thoughts seemed [to](/en/post/to/) [circle](/en/post/circle/) [around](/en/post/around/) [the](/en/post/the/) [problem](/en/post/problem/), [never](/en/post/never/) [quite](/en/post/quite/) reaching [a](/en/post/a/) [solution](/en/post/solution/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) tree's [trunk](/post/trunk/) had [a](/post/a/) [circumference](/post/circumference/) [of](/post/of/) 8 feet."
+- **[Verb](/post/verb/)**: "[The](/post/the/) hiker circled [the](/post/the/) [mountain](/post/mountain/), taking [note](/post/note/) [of](/post/of/) [the](/post/the/) changing vegetation [as](/post/as/) [they](/post/they/) circumferenced [the](/post/the/) [peak](/post/peak/)."
+- **Metaphorical**: "[Her](/post/her/) thoughts seemed [to](/post/to/) [circle](/post/circle/) [around](/post/around/) [the](/post/the/) [problem](/post/problem/), [never](/post/never/) [quite](/post/quite/) reaching [a](/post/a/) [solution](/post/solution/)."
 
 ## Synonyms
 - Perimeter
-- [Outline](/en/post/outline/)
-- [Border](/en/post/border/)
+- [Outline](/post/outline/)
+- [Border](/post/border/)
 - Contour
-- Arc [length](/en/post/length/)
+- Arc [length](/post/length/)
 
 ## Antonyms
-- [Interior](/en/post/interior/)
+- [Interior](/post/interior/)
 - Center
-- [Diameter](/en/post/diameter/) ([the](/en/post/the/) [straight](/en/post/straight/) [line](/en/post/line/) passing [through](/en/post/through/) [the](/en/post/the/) center, [not](/en/post/not/) [the](/en/post/the/) [distance](/en/post/distance/) [around](/en/post/around/))
+- [Diameter](/post/diameter/) ([the](/post/the/) [straight](/post/straight/) [line](/post/line/) passing [through](/post/through/) [the](/post/the/) center, [not](/post/not/) [the](/post/the/) [distance](/post/distance/) [around](/post/around/))

@@ -7,44 +7,44 @@ description = '[diˈlivəri] n.投递；交付；分娩'
 keywords = ['ai words', 'delivery']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈlɪvəri/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) bringing [something](/en/post/something/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [place](/en/post/place/) [or](/en/post/or/) [person](/en/post/person/): *[The](/en/post/the/) deliveryman arrived [with](/en/post/with/) [the](/en/post/the/) [package](/en/post/package/).*
-2. [The](/en/post/the/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/) [provided](/en/post/provided/) [after](/en/post/after/) an [order](/en/post/order/) [or](/en/post/or/) [request](/en/post/request/): *[We](/en/post/we/) [offer](/en/post/offer/) same-day [delivery](/en/post/delivery/) [for](/en/post/for/) [fresh](/en/post/fresh/) flowers.*
-3. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [birth](/en/post/birth/): *[She](/en/post/she/) had [a](/en/post/a/) [successful](/en/post/successful/) [delivery](/en/post/delivery/) [of](/en/post/of/) twins.*
-4. [A](/en/post/a/) [performance](/en/post/performance/) [or](/en/post/or/) presentation: *[The](/en/post/the/) comedian's stand-up comedy was [a](/en/post/a/) [real](/en/post/real/) crowd-pleaser [during](/en/post/during/) [the](/en/post/the/) [delivery](/en/post/delivery/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) bringing [something](/post/something/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [place](/post/place/) [or](/post/or/) [person](/post/person/): *[The](/post/the/) deliveryman arrived [with](/post/with/) [the](/post/the/) [package](/post/package/).*
+2. [The](/post/the/) [product](/post/product/) [or](/post/or/) [service](/post/service/) [provided](/post/provided/) [after](/post/after/) an [order](/post/order/) [or](/post/or/) [request](/post/request/): *[We](/post/we/) [offer](/post/offer/) same-day [delivery](/post/delivery/) [for](/post/for/) [fresh](/post/fresh/) flowers.*
+3. [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [birth](/post/birth/): *[She](/post/she/) had [a](/post/a/) [successful](/post/successful/) [delivery](/post/delivery/) [of](/post/of/) twins.*
+4. [A](/post/a/) [performance](/post/performance/) [or](/post/or/) presentation: *[The](/post/the/) comedian's stand-up comedy was [a](/post/a/) [real](/post/real/) crowd-pleaser [during](/post/during/) [the](/post/the/) [delivery](/post/delivery/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [bring](/en/post/bring/) [something](/en/post/something/) [to](/en/post/to/) [a](/en/post/a/) recipient [or](/en/post/or/) [location](/en/post/location/): *[The](/en/post/the/) [post](/en/post/post/) [office](/en/post/office/) [will](/en/post/will/) [deliver](/en/post/deliver/) [your](/en/post/your/) [mail](/en/post/mail/) [daily](/en/post/daily/).*
-2. [To](/en/post/to/) [convey](/en/post/convey/) [or](/en/post/or/) [send](/en/post/send/) ([a](/en/post/a/) [message](/en/post/message/), [information](/en/post/information/), [or](/en/post/or/) [goods](/en/post/goods/)) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [person](/en/post/person/) [or](/en/post/or/) [place](/en/post/place/): *I'll [deliver](/en/post/deliver/) [the](/en/post/the/) [news](/en/post/news/) [to](/en/post/to/) [her](/en/post/her/) [office](/en/post/office/).*
-3. [To](/en/post/to/) [complete](/en/post/complete/) [or](/en/post/or/) [accomplish](/en/post/accomplish/) [something](/en/post/something/): *[He](/en/post/he/) delivered [a](/en/post/a/) [powerful](/en/post/powerful/) [speech](/en/post/speech/) [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/).*
-4. [To](/en/post/to/) [hand](/en/post/hand/) [over](/en/post/over/) [or](/en/post/or/) [pass](/en/post/pass/) [something](/en/post/something/) [to](/en/post/to/) [someone](/en/post/someone/): *[She](/en/post/she/) delivered [the](/en/post/the/) keys [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) [car](/en/post/car/) [to](/en/post/to/) [her](/en/post/her/) [son](/en/post/son/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [bring](/post/bring/) [something](/post/something/) [to](/post/to/) [a](/post/a/) recipient [or](/post/or/) [location](/post/location/): *[The](/post/the/) [post](/post/post/) [office](/post/office/) [will](/post/will/) [deliver](/post/deliver/) [your](/post/your/) [mail](/post/mail/) [daily](/post/daily/).*
+2. [To](/post/to/) [convey](/post/convey/) [or](/post/or/) [send](/post/send/) ([a](/post/a/) [message](/post/message/), [information](/post/information/), [or](/post/or/) [goods](/post/goods/)) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [person](/post/person/) [or](/post/or/) [place](/post/place/): *I'll [deliver](/post/deliver/) [the](/post/the/) [news](/post/news/) [to](/post/to/) [her](/post/her/) [office](/post/office/).*
+3. [To](/post/to/) [complete](/post/complete/) [or](/post/or/) [accomplish](/post/accomplish/) [something](/post/something/): *[He](/post/he/) delivered [a](/post/a/) [powerful](/post/powerful/) [speech](/post/speech/) [at](/post/at/) [the](/post/the/) [conference](/post/conference/).*
+4. [To](/post/to/) [hand](/post/hand/) [over](/post/over/) [or](/post/or/) [pass](/post/pass/) [something](/post/something/) [to](/post/to/) [someone](/post/someone/): *[She](/post/she/) delivered [the](/post/the/) keys [to](/post/to/) [the](/post/the/) [new](/post/new/) [car](/post/car/) [to](/post/to/) [her](/post/her/) [son](/post/son/).*
 
 ## Phrases
-- "On-time [delivery](/en/post/delivery/)" refers [to](/en/post/to/) [punctual](/en/post/punctual/) fulfillment [of](/en/post/of/) an [order](/en/post/order/).
-- "[No](/en/post/no/) [signature](/en/post/signature/) required [delivery](/en/post/delivery/)" [means](/en/post/means/) [the](/en/post/the/) [package](/en/post/package/) [can](/en/post/can/) [be](/en/post/be/) [left](/en/post/left/) unattended.
-- "Door-to-door [delivery](/en/post/delivery/)" indicates [direct](/en/post/direct/) [delivery](/en/post/delivery/) [to](/en/post/to/) [the](/en/post/the/) customer's [home](/en/post/home/).
+- "On-time [delivery](/post/delivery/)" refers [to](/post/to/) [punctual](/post/punctual/) fulfillment [of](/post/of/) an [order](/post/order/).
+- "[No](/post/no/) [signature](/post/signature/) required [delivery](/post/delivery/)" [means](/post/means/) [the](/post/the/) [package](/post/package/) [can](/post/can/) [be](/post/be/) [left](/post/left/) unattended.
+- "Door-to-door [delivery](/post/delivery/)" indicates [direct](/post/direct/) [delivery](/post/delivery/) [to](/post/to/) [the](/post/the/) customer's [home](/post/home/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[The](/en/post/the/) pizza [delivery](/en/post/delivery/) arrived [just](/en/post/just/) [as](/en/post/as/) [we](/en/post/we/) were getting [ready](/en/post/ready/) [for](/en/post/for/) [dinner](/en/post/dinner/).*
-- **[Verb](/en/post/verb/)**: *[The](/en/post/the/) chef personally delivers [the](/en/post/the/) dishes [to](/en/post/to/) [each](/en/post/each/) [table](/en/post/table/) [in](/en/post/in/) [the](/en/post/the/) [restaurant](/en/post/restaurant/).*
-- **[Verb](/en/post/verb/)**: *[She](/en/post/she/) delivered [a](/en/post/a/) [lecture](/en/post/lecture/) [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/) [to](/en/post/to/) [the](/en/post/the/) [school](/en/post/school/) [assembly](/en/post/assembly/).*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[The](/post/the/) pizza [delivery](/post/delivery/) arrived [just](/post/just/) [as](/post/as/) [we](/post/we/) were getting [ready](/post/ready/) [for](/post/for/) [dinner](/post/dinner/).*
+- **[Verb](/post/verb/)**: *[The](/post/the/) chef personally delivers [the](/post/the/) dishes [to](/post/to/) [each](/post/each/) [table](/post/table/) [in](/post/in/) [the](/post/the/) [restaurant](/post/restaurant/).*
+- **[Verb](/post/verb/)**: *[She](/post/she/) delivered [a](/post/a/) [lecture](/post/lecture/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/) [to](/post/to/) [the](/post/the/) [school](/post/school/) [assembly](/post/assembly/).*
 
 ## Synonyms
 - Dispatch
 - Handover
-- [Transmission](/en/post/transmission/)
+- [Transmission](/post/transmission/)
 - Conveyance
-- [Supply](/en/post/supply/)
-- [Bring](/en/post/bring/)
-- [Present](/en/post/present/)
+- [Supply](/post/supply/)
+- [Bring](/post/bring/)
+- [Present](/post/present/)
 
 ## Antonyms
 - Retrieval
-- [Collection](/en/post/collection/)
-- [Absence](/en/post/absence/)
-- [Failure](/en/post/failure/)
+- [Collection](/post/collection/)
+- [Absence](/post/absence/)
+- [Failure](/post/failure/)
 - Non-delivery

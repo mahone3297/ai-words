@@ -11,20 +11,20 @@ keywords = ['ai words', 'determination']
 /dɪˌtɜːrmɪˈneɪʃn/
 
 ## 释义
-- **名词**: 决心，决定，确定性。例如: "[She](/post/she/) showed [great](/post/great/) [determination](/post/determination/) [in](/post/in/) overcoming [her](/post/her/) [illness](/post/illness/)."
-- **动词**: 决定，确定。例如: "[The](/post/the/) [outcome](/post/outcome/) was determined [by](/post/by/) [the](/post/the/) judges."
+- **名词**: 决心，决定，确定性。例如: "[She](/zh/post/she/) showed [great](/zh/post/great/) [determination](/zh/post/determination/) [in](/zh/post/in/) overcoming [her](/zh/post/her/) [illness](/zh/post/illness/)."
+- **动词**: 决定，确定。例如: "[The](/zh/post/the/) [outcome](/zh/post/outcome/) was determined [by](/zh/post/by/) [the](/zh/post/the/) judges."
 
 ## 短语
-- "[make](/post/make/) [a](/post/a/) [determination](/post/determination/)" 做出决定。
-- "[determination](/post/determination/) [of](/post/of/) [fate](/post/fate/)" 命运的决定。
+- "[make](/zh/post/make/) [a](/zh/post/a/) [determination](/zh/post/determination/)" 做出决定。
+- "[determination](/zh/post/determination/) [of](/zh/post/of/) [fate](/zh/post/fate/)" 命运的决定。
 
 ## 例句
-- 名词: "[His](/post/his/) [strong](/post/strong/) [determination](/post/determination/) inspired others [to](/post/to/) [work](/post/work/) harder."
-- 动词: "[The](/post/the/) [doctor](/post/doctor/) determined [that](/post/that/) [the](/post/the/) [patient](/post/patient/) needed [surgery](/post/surgery/)."
+- 名词: "[His](/zh/post/his/) [strong](/zh/post/strong/) [determination](/zh/post/determination/) inspired others [to](/zh/post/to/) [work](/zh/post/work/) harder."
+- 动词: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) determined [that](/zh/post/that/) [the](/zh/post/the/) [patient](/zh/post/patient/) needed [surgery](/zh/post/surgery/)."
 
 ## 同义词
-- [Resolution](/post/resolution/)
+- [Resolution](/zh/post/resolution/)
 -毅力
-- [Resolve](/post/resolve/)
+- [Resolve](/zh/post/resolve/)
 - Firmness
-- [Decision](/post/decision/)
+- [Decision](/zh/post/decision/)

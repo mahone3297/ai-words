@@ -7,41 +7,41 @@ description = '[sməuk] n.烟；抽烟 vi.冒烟'
 keywords = ['ai words', 'smoke']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sməʊk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[smoke](/en/post/smoke/)**: [The](/en/post/the/) [visible](/en/post/visible/) suspension [of](/en/post/of/) particles, [often](/en/post/often/) [from](/en/post/from/) burning substances, [like](/en/post/like/) [wood](/en/post/wood/), [tobacco](/en/post/tobacco/), [or](/en/post/or/) [fuel](/en/post/fuel/). ([Example](/en/post/example/): "[The](/en/post/the/) [chimney](/en/post/chimney/) was emitting [thick](/en/post/thick/) [smoke](/en/post/smoke/).")
-- **smokestack**: [A](/en/post/a/) [tall](/en/post/tall/) [structure](/en/post/structure/) [where](/en/post/where/) [smoke](/en/post/smoke/) is released [from](/en/post/from/) [industrial](/en/post/industrial/) processes. ([Example](/en/post/example/): "[The](/en/post/the/) factory's smokestack billowed [with](/en/post/with/) [dark](/en/post/dark/) [smoke](/en/post/smoke/).")
+### [Noun](/post/noun/)
+- **[smoke](/post/smoke/)**: [The](/post/the/) [visible](/post/visible/) suspension [of](/post/of/) particles, [often](/post/often/) [from](/post/from/) burning substances, [like](/post/like/) [wood](/post/wood/), [tobacco](/post/tobacco/), [or](/post/or/) [fuel](/post/fuel/). ([Example](/post/example/): "[The](/post/the/) [chimney](/post/chimney/) was emitting [thick](/post/thick/) [smoke](/post/smoke/).")
+- **smokestack**: [A](/post/a/) [tall](/post/tall/) [structure](/post/structure/) [where](/post/where/) [smoke](/post/smoke/) is released [from](/post/from/) [industrial](/post/industrial/) processes. ([Example](/post/example/): "[The](/post/the/) factory's smokestack billowed [with](/post/with/) [dark](/post/dark/) [smoke](/post/smoke/).")
 
-### [Verb](/en/post/verb/)
-- **[smoke](/en/post/smoke/)**: [To](/en/post/to/) [burn](/en/post/burn/) [something](/en/post/something/), causing [it](/en/post/it/) [to](/en/post/to/) [produce](/en/post/produce/) [smoke](/en/post/smoke/). ([Example](/en/post/example/): "[He](/en/post/he/) likes [to](/en/post/to/) [smoke](/en/post/smoke/) cigarettes.")
-- **[to](/en/post/to/) [smoke](/en/post/smoke/)**: [To](/en/post/to/) inhale [the](/en/post/the/) fumes [from](/en/post/from/) burning [tobacco](/en/post/tobacco/), marijuana, [or](/en/post/or/) [other](/en/post/other/) substances. ([Example](/en/post/example/): "[She](/en/post/she/) [quit](/en/post/quit/) smoking [after](/en/post/after/) [a](/en/post/a/) [health](/en/post/health/) [scare](/en/post/scare/).")
+### [Verb](/post/verb/)
+- **[smoke](/post/smoke/)**: [To](/post/to/) [burn](/post/burn/) [something](/post/something/), causing [it](/post/it/) [to](/post/to/) [produce](/post/produce/) [smoke](/post/smoke/). ([Example](/post/example/): "[He](/post/he/) likes [to](/post/to/) [smoke](/post/smoke/) cigarettes.")
+- **[to](/post/to/) [smoke](/post/smoke/)**: [To](/post/to/) inhale [the](/post/the/) fumes [from](/post/from/) burning [tobacco](/post/tobacco/), marijuana, [or](/post/or/) [other](/post/other/) substances. ([Example](/post/example/): "[She](/post/she/) [quit](/post/quit/) smoking [after](/post/after/) [a](/post/a/) [health](/post/health/) [scare](/post/scare/).")
 
-### [Adjective](/en/post/adjective/)
-- **smoky**: Characterized [by](/en/post/by/) [the](/en/post/the/) [presence](/en/post/presence/) [of](/en/post/of/) [smoke](/en/post/smoke/); hazy [or](/en/post/or/) having [a](/en/post/a/) [strong](/en/post/strong/) [smell](/en/post/smell/) [of](/en/post/of/) [smoke](/en/post/smoke/). ([Example](/en/post/example/): "[The](/en/post/the/) [air](/en/post/air/) [in](/en/post/in/) [the](/en/post/the/) [room](/en/post/room/) was smoky [from](/en/post/from/) [the](/en/post/the/) fireplace.")
-- **smoke-filled**: Filled [with](/en/post/with/) [smoke](/en/post/smoke/), obstructing visibility. ([Example](/en/post/example/): "[The](/en/post/the/) lounge was smoke-filled, making [it](/en/post/it/) [difficult](/en/post/difficult/) [to](/en/post/to/) [see](/en/post/see/).")
+### [Adjective](/post/adjective/)
+- **smoky**: Characterized [by](/post/by/) [the](/post/the/) [presence](/post/presence/) [of](/post/of/) [smoke](/post/smoke/); hazy [or](/post/or/) having [a](/post/a/) [strong](/post/strong/) [smell](/post/smell/) [of](/post/of/) [smoke](/post/smoke/). ([Example](/post/example/): "[The](/post/the/) [air](/post/air/) [in](/post/in/) [the](/post/the/) [room](/post/room/) was smoky [from](/post/from/) [the](/post/the/) fireplace.")
+- **smoke-filled**: Filled [with](/post/with/) [smoke](/post/smoke/), obstructing visibility. ([Example](/post/example/): "[The](/post/the/) lounge was smoke-filled, making [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [see](/post/see/).")
 
-### [Adverb](/en/post/adverb/)
-- **smokily**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) characterized [by](/en/post/by/) [smoke](/en/post/smoke/) [or](/en/post/or/) [with](/en/post/with/) [a](/en/post/a/) smoky [quality](/en/post/quality/). ([Example](/en/post/example/): "[The](/en/post/the/) [sunset](/en/post/sunset/) was smokily [beautiful](/en/post/beautiful/).")
+### [Adverb](/post/adverb/)
+- **smokily**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) characterized [by](/post/by/) [smoke](/post/smoke/) [or](/post/or/) [with](/post/with/) [a](/post/a/) smoky [quality](/post/quality/). ([Example](/post/example/): "[The](/post/the/) [sunset](/post/sunset/) was smokily [beautiful](/post/beautiful/).")
 
 ## Phrases
-- "[Draw](/en/post/draw/) [on](/en/post/on/) [a](/en/post/a/) [cigarette](/en/post/cigarette/)" [means](/en/post/means/) [to](/en/post/to/) [smoke](/en/post/smoke/) [it](/en/post/it/).
-- "[Clear](/en/post/clear/) [the](/en/post/the/) [smoke](/en/post/smoke/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) ventilating [a](/en/post/a/) [space](/en/post/space/) [after](/en/post/after/) smoking [or](/en/post/or/) clearing [away](/en/post/away/) [the](/en/post/the/) haze.
-- "[Smoke](/en/post/smoke/) signals" historically communicated messages using [visible](/en/post/visible/) [smoke](/en/post/smoke/) patterns.
+- "[Draw](/post/draw/) [on](/post/on/) [a](/post/a/) [cigarette](/post/cigarette/)" [means](/post/means/) [to](/post/to/) [smoke](/post/smoke/) [it](/post/it/).
+- "[Clear](/post/clear/) [the](/post/the/) [smoke](/post/smoke/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) ventilating [a](/post/a/) [space](/post/space/) [after](/post/after/) smoking [or](/post/or/) clearing [away](/post/away/) [the](/post/the/) haze.
+- "[Smoke](/post/smoke/) signals" historically communicated messages using [visible](/post/visible/) [smoke](/post/smoke/) patterns.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) campfire sent [up](/en/post/up/) [a](/en/post/a/) plume [of](/en/post/of/) [smoke](/en/post/smoke/) [into](/en/post/into/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) sat [outside](/en/post/outside/), smoking [a](/en/post/a/) cigar leisurely."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) had [a](/en/post/a/) musty, smoky [smell](/en/post/smell/) [from](/en/post/from/) [the](/en/post/the/) years [of](/en/post/of/) [neglect](/en/post/neglect/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) puffed [his](/en/post/his/) [pipe](/en/post/pipe/) smokily, lost [in](/en/post/in/) [thought](/en/post/thought/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) campfire sent [up](/post/up/) [a](/post/a/) plume [of](/post/of/) [smoke](/post/smoke/) [into](/post/into/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) sat [outside](/post/outside/), smoking [a](/post/a/) cigar leisurely."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) [house](/post/house/) had [a](/post/a/) musty, smoky [smell](/post/smell/) [from](/post/from/) [the](/post/the/) years [of](/post/of/) [neglect](/post/neglect/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) puffed [his](/post/his/) [pipe](/post/pipe/) smokily, lost [in](/post/in/) [thought](/post/thought/)."
 
 ## Synonyms
 - Fumes
 - Soot
 - Ashes
-- [Puff](/en/post/puff/)
-- [Light](/en/post/light/) [a](/en/post/a/) [cigarette](/en/post/cigarette/)
-- Inhale ([tobacco](/en/post/tobacco/) [smoke](/en/post/smoke/))
-- Exhale ([tobacco](/en/post/tobacco/) [smoke](/en/post/smoke/))
+- [Puff](/post/puff/)
+- [Light](/post/light/) [a](/post/a/) [cigarette](/post/cigarette/)
+- Inhale ([tobacco](/post/tobacco/) [smoke](/post/smoke/))
+- Exhale ([tobacco](/post/tobacco/) [smoke](/post/smoke/))

@@ -7,39 +7,39 @@ description = '[diˈteil] n.细节；枝节；零件'
 keywords = ['ai words', 'detail']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈteɪl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [particular](/en/post/particular/) [fact](/en/post/fact/) [or](/en/post/or/) [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/) [about](/en/post/about/) [something](/en/post/something/), [often](/en/post/often/) [in](/en/post/in/) [detail](/en/post/detail/). *[For](/en/post/for/) [example](/en/post/example/): [The](/en/post/the/) recipe [provided](/en/post/provided/) [many](/en/post/many/) details [on](/en/post/on/) [how](/en/post/how/) [to](/en/post/to/) [prepare](/en/post/prepare/) [the](/en/post/the/) [dish](/en/post/dish/).*
-2. Finer aspects [or](/en/post/or/) characteristics [of](/en/post/of/) [a](/en/post/a/) [subject](/en/post/subject/). *[In](/en/post/in/) [the](/en/post/the/) [art](/en/post/art/) [class](/en/post/class/), [we](/en/post/we/) discussed [the](/en/post/the/) intricate details [of](/en/post/of/) [the](/en/post/the/) [painting](/en/post/painting/).*
-3. [Attention](/en/post/attention/) [to](/en/post/to/) [detail](/en/post/detail/), showing thoroughness [or](/en/post/or/) [care](/en/post/care/). *[His](/en/post/his/) [work](/en/post/work/) is known [for](/en/post/for/) [its](/en/post/its/) meticulous [attention](/en/post/attention/) [to](/en/post/to/) [detail](/en/post/detail/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [particular](/post/particular/) [fact](/post/fact/) [or](/post/or/) [piece](/post/piece/) [of](/post/of/) [information](/post/information/) [about](/post/about/) [something](/post/something/), [often](/post/often/) [in](/post/in/) [detail](/post/detail/). *[For](/post/for/) [example](/post/example/): [The](/post/the/) recipe [provided](/post/provided/) [many](/post/many/) details [on](/post/on/) [how](/post/how/) [to](/post/to/) [prepare](/post/prepare/) [the](/post/the/) [dish](/post/dish/).*
+2. Finer aspects [or](/post/or/) characteristics [of](/post/of/) [a](/post/a/) [subject](/post/subject/). *[In](/post/in/) [the](/post/the/) [art](/post/art/) [class](/post/class/), [we](/post/we/) discussed [the](/post/the/) intricate details [of](/post/of/) [the](/post/the/) [painting](/post/painting/).*
+3. [Attention](/post/attention/) [to](/post/to/) [detail](/post/detail/), showing thoroughness [or](/post/or/) [care](/post/care/). *[His](/post/his/) [work](/post/work/) is known [for](/post/for/) [its](/post/its/) meticulous [attention](/post/attention/) [to](/post/to/) [detail](/post/detail/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [specify](/en/post/specify/) [or](/en/post/or/) [give](/en/post/give/) [a](/en/post/a/) [full](/en/post/full/) [description](/en/post/description/) [of](/en/post/of/) [something](/en/post/something/). *[She](/en/post/she/) detailed [her](/en/post/her/) plans [for](/en/post/for/) [the](/en/post/the/) upcoming [project](/en/post/project/).*
-2. [To](/en/post/to/) [examine](/en/post/examine/) carefully [or](/en/post/or/) [go](/en/post/go/) [through](/en/post/through/) [the](/en/post/the/) parts [of](/en/post/of/) ([a](/en/post/a/) [task](/en/post/task/)). *It's [important](/en/post/important/) [to](/en/post/to/) [detail](/en/post/detail/) [the](/en/post/the/) [car](/en/post/car/) [regularly](/en/post/regularly/) [to](/en/post/to/) [maintain](/en/post/maintain/) [it](/en/post/it/) [well](/en/post/well/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [specify](/post/specify/) [or](/post/or/) [give](/post/give/) [a](/post/a/) [full](/post/full/) [description](/post/description/) [of](/post/of/) [something](/post/something/). *[She](/post/she/) detailed [her](/post/her/) plans [for](/post/for/) [the](/post/the/) upcoming [project](/post/project/).*
+2. [To](/post/to/) [examine](/post/examine/) carefully [or](/post/or/) [go](/post/go/) [through](/post/through/) [the](/post/the/) parts [of](/post/of/) ([a](/post/a/) [task](/post/task/)). *It's [important](/post/important/) [to](/post/to/) [detail](/post/detail/) [the](/post/the/) [car](/post/car/) [regularly](/post/regularly/) [to](/post/to/) [maintain](/post/maintain/) [it](/post/it/) [well](/post/well/).*
 
-### [Adjective](/en/post/adjective/)
-1. Characterized [by](/en/post/by/) [a](/en/post/a/) thoroughness [or](/en/post/or/) [precision](/en/post/precision/) [in](/en/post/in/) describing [or](/en/post/or/) presenting [something](/en/post/something/). *[The](/en/post/the/) historian [provided](/en/post/provided/) [a](/en/post/a/) [highly](/en/post/highly/) detailed [account](/en/post/account/) [of](/en/post/of/) [the](/en/post/the/) events.*
-2. Showing [great](/en/post/great/) [care](/en/post/care/) [or](/en/post/or/) [concern](/en/post/concern/) [for](/en/post/for/) [small](/en/post/small/) matters. *[Her](/en/post/her/) organizational skills are [evident](/en/post/evident/) [in](/en/post/in/) [her](/en/post/her/) [highly](/en/post/highly/) detailed planning.*
+### [Adjective](/post/adjective/)
+1. Characterized [by](/post/by/) [a](/post/a/) thoroughness [or](/post/or/) [precision](/post/precision/) [in](/post/in/) describing [or](/post/or/) presenting [something](/post/something/). *[The](/post/the/) historian [provided](/post/provided/) [a](/post/a/) [highly](/post/highly/) detailed [account](/post/account/) [of](/post/of/) [the](/post/the/) events.*
+2. Showing [great](/post/great/) [care](/post/care/) [or](/post/or/) [concern](/post/concern/) [for](/post/for/) [small](/post/small/) matters. *[Her](/post/her/) organizational skills are [evident](/post/evident/) [in](/post/in/) [her](/post/her/) [highly](/post/highly/) detailed planning.*
 
 ## Phrases
-- "[Provide](/en/post/provide/) details" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [full](/en/post/full/) [explanation](/en/post/explanation/) [or](/en/post/or/) specification.
-- "[In](/en/post/in/) [great](/en/post/great/) [detail](/en/post/detail/)" describes [something](/en/post/something/) [with](/en/post/with/) [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) thoroughness.
-- "忽视细节" ([to](/en/post/to/) [overlook](/en/post/overlook/) details) is [the](/en/post/the/) [opposite](/en/post/opposite/), referring [to](/en/post/to/) [not](/en/post/not/) paying [close](/en/post/close/) [attention](/en/post/attention/).
+- "[Provide](/post/provide/) details" [means](/post/means/) [to](/post/to/) [give](/post/give/) [a](/post/a/) [full](/post/full/) [explanation](/post/explanation/) [or](/post/or/) specification.
+- "[In](/post/in/) [great](/post/great/) [detail](/post/detail/)" describes [something](/post/something/) [with](/post/with/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) thoroughness.
+- "忽视细节" ([to](/post/to/) [overlook](/post/overlook/) details) is [the](/post/the/) [opposite](/post/opposite/), referring [to](/post/to/) [not](/post/not/) paying [close](/post/close/) [attention](/post/attention/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) requested [additional](/en/post/additional/) details [about](/en/post/about/) [the](/en/post/the/) project's timeline."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) detailed [the](/en/post/the/) steps [for](/en/post/for/) assembling [the](/en/post/the/) [furniture](/en/post/furniture/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [report](/en/post/report/) was [full](/en/post/full/) [of](/en/post/of/) detailed [analysis](/en/post/analysis/) [of](/en/post/of/) [market](/en/post/market/) trends."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) requested [additional](/post/additional/) details [about](/post/about/) [the](/post/the/) project's timeline."
+- **[Verb](/post/verb/)**: "[He](/post/he/) detailed [the](/post/the/) steps [for](/post/for/) assembling [the](/post/the/) [furniture](/post/furniture/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [report](/post/report/) was [full](/post/full/) [of](/post/of/) detailed [analysis](/post/analysis/) [of](/post/of/) [market](/post/market/) trends."
 
 ## Synonyms
-- [Comprehensive](/en/post/comprehensive/)
-- [Elaborate](/en/post/elaborate/)
-- [Comprehensive](/en/post/comprehensive/)
-- [Thorough](/en/post/thorough/)
+- [Comprehensive](/post/comprehensive/)
+- [Elaborate](/post/elaborate/)
+- [Comprehensive](/post/comprehensive/)
+- [Thorough](/post/thorough/)
 - Rigorous
-- [Precise](/en/post/precise/)
+- [Precise](/post/precise/)
 - Fined-grained
 - Elaborative

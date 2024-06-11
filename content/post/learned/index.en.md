@@ -7,30 +7,30 @@ description = '[ˈləːnid] a.有学问的；学术上的'
 keywords = ['ai words', 'learned']
 +++
 
-## [Word](/en/post/word/): [Learned](/en/post/learned/)
+## [Word](/post/word/): [Learned](/post/learned/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɜːrnd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having acquired [knowledge](/en/post/knowledge/) [through](/en/post/through/) [study](/en/post/study/) [or](/en/post/or/) [experience](/en/post/experience/); well-informed [or](/en/post/or/) educated. [For](/en/post/for/) [example](/en/post/example/): "He's [a](/en/post/a/) [learned](/en/post/learned/) [scholar](/en/post/scholar/) [who](/en/post/who/) specializes [in](/en/post/in/) [ancient](/en/post/ancient/) [history](/en/post/history/)."
-- **[Past](/en/post/past/) participle [Verb](/en/post/verb/)**: ([of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/)) having gained [knowledge](/en/post/knowledge/) [or](/en/post/or/) [skill](/en/post/skill/) [by](/en/post/by/) studying [or](/en/post/or/) [being](/en/post/being/) taught. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [learned](/en/post/learned/) [several](/en/post/several/) languages [during](/en/post/during/) [her](/en/post/her/) travels [abroad](/en/post/abroad/)."
+- **[Adjective](/post/adjective/)**: Having acquired [knowledge](/post/knowledge/) [through](/post/through/) [study](/post/study/) [or](/post/or/) [experience](/post/experience/); well-informed [or](/post/or/) educated. [For](/post/for/) [example](/post/example/): "He's [a](/post/a/) [learned](/post/learned/) [scholar](/post/scholar/) [who](/post/who/) specializes [in](/post/in/) [ancient](/post/ancient/) [history](/post/history/)."
+- **[Past](/post/past/) participle [Verb](/post/verb/)**: ([of](/post/of/) [a](/post/a/) [person](/post/person/)) having gained [knowledge](/post/knowledge/) [or](/post/or/) [skill](/post/skill/) [by](/post/by/) studying [or](/post/or/) [being](/post/being/) taught. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [learned](/post/learned/) [several](/post/several/) languages [during](/post/during/) [her](/post/her/) travels [abroad](/post/abroad/)."
 
-### [Adjective](/en/post/adjective/) [Usage](/en/post/usage/)
-- "[The](/en/post/the/) [professor](/en/post/professor/) is [a](/en/post/a/) [very](/en/post/very/) [learned](/en/post/learned/) [man](/en/post/man/) [with](/en/post/with/) [a](/en/post/a/) [vast](/en/post/vast/) [understanding](/en/post/understanding/) [of](/en/post/of/) [literature](/en/post/literature/)."
-- "[Through](/en/post/through/) years [of](/en/post/of/) [practice](/en/post/practice/), [she](/en/post/she/) became [a](/en/post/a/) [learned](/en/post/learned/) [musician](/en/post/musician/) [familiar](/en/post/familiar/) [with](/en/post/with/) [various](/en/post/various/) instruments."
+### [Adjective](/post/adjective/) [Usage](/post/usage/)
+- "[The](/post/the/) [professor](/post/professor/) is [a](/post/a/) [very](/post/very/) [learned](/post/learned/) [man](/post/man/) [with](/post/with/) [a](/post/a/) [vast](/post/vast/) [understanding](/post/understanding/) [of](/post/of/) [literature](/post/literature/)."
+- "[Through](/post/through/) years [of](/post/of/) [practice](/post/practice/), [she](/post/she/) became [a](/post/a/) [learned](/post/learned/) [musician](/post/musician/) [familiar](/post/familiar/) [with](/post/with/) [various](/post/various/) instruments."
 
-### [Past](/en/post/past/) Participle [Verb](/en/post/verb/) [Usage](/en/post/usage/)
-- "[By](/en/post/by/) [the](/en/post/the/) [time](/en/post/time/) [he](/en/post/he/) graduated, [he](/en/post/he/) had [learned](/en/post/learned/) [how](/en/post/how/) [to](/en/post/to/) [code](/en/post/code/) [complex](/en/post/complex/) algorithms."
-- "[Over](/en/post/over/) [the](/en/post/the/) [summer](/en/post/summer/), [they](/en/post/they/) [learned](/en/post/learned/) [how](/en/post/how/) [to](/en/post/to/) [cook](/en/post/cook/) [traditional](/en/post/traditional/) French cuisine."
+### [Past](/post/past/) Participle [Verb](/post/verb/) [Usage](/post/usage/)
+- "[By](/post/by/) [the](/post/the/) [time](/post/time/) [he](/post/he/) graduated, [he](/post/he/) had [learned](/post/learned/) [how](/post/how/) [to](/post/to/) [code](/post/code/) [complex](/post/complex/) algorithms."
+- "[Over](/post/over/) [the](/post/the/) [summer](/post/summer/), [they](/post/they/) [learned](/post/learned/) [how](/post/how/) [to](/post/to/) [cook](/post/cook/) [traditional](/post/traditional/) French cuisine."
 
 ## Phrases
-- "[Learned](/en/post/learned/) [behavior](/en/post/behavior/)": Actions [that](/en/post/that/) are acquired [through](/en/post/through/) [experience](/en/post/experience/) [rather](/en/post/rather/) [than](/en/post/than/) [instinct](/en/post/instinct/).
-- "[Learned](/en/post/learned/) helplessness": [A](/en/post/a/) [psychological](/en/post/psychological/) [state](/en/post/state/) [where](/en/post/where/) an [individual](/en/post/individual/) feels [unable](/en/post/unable/) [to](/en/post/to/) [control](/en/post/control/) [their](/en/post/their/) circumstances, [even](/en/post/even/) [when](/en/post/when/) [they](/en/post/they/) [have](/en/post/have/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [do](/en/post/do/) [so](/en/post/so/).
+- "[Learned](/post/learned/) [behavior](/post/behavior/)": Actions [that](/post/that/) are acquired [through](/post/through/) [experience](/post/experience/) [rather](/post/rather/) [than](/post/than/) [instinct](/post/instinct/).
+- "[Learned](/post/learned/) helplessness": [A](/post/a/) [psychological](/post/psychological/) [state](/post/state/) [where](/post/where/) an [individual](/post/individual/) feels [unable](/post/unable/) [to](/post/to/) [control](/post/control/) [their](/post/their/) circumstances, [even](/post/even/) [when](/post/when/) [they](/post/they/) [have](/post/have/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [do](/post/do/) [so](/post/so/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [learned](/en/post/learned/) [discussion](/en/post/discussion/) [among](/en/post/among/) [the](/en/post/the/) panelists was [impressive](/en/post/impressive/)."
-- **[Past](/en/post/past/) Participle [Verb](/en/post/verb/)**: "[Throughout](/en/post/throughout/) [his](/en/post/his/) [lifetime](/en/post/lifetime/), [he](/en/post/he/) [learned](/en/post/learned/) [from](/en/post/from/) [every](/en/post/every/) [challenge](/en/post/challenge/) [he](/en/post/he/) faced."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [learned](/post/learned/) [discussion](/post/discussion/) [among](/post/among/) [the](/post/the/) panelists was [impressive](/post/impressive/)."
+- **[Past](/post/past/) Participle [Verb](/post/verb/)**: "[Throughout](/post/throughout/) [his](/post/his/) [lifetime](/post/lifetime/), [he](/post/he/) [learned](/post/learned/) [from](/post/from/) [every](/post/every/) [challenge](/post/challenge/) [he](/post/he/) faced."
 
 ## Synonyms
 - Educated

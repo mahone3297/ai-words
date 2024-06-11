@@ -12,27 +12,27 @@ keywords = ['ai words', 'authority']
 
 ## 释义
 - **名词**:
-  - 权威；权力：[The](/post/the/) [government](/post/government/) is [the](/post/the/) [ultimate](/post/ultimate/) [authority](/post/authority/) [on](/post/on/) [law](/post/law/) [in](/post/in/) [the](/post/the/) [country](/post/country/).
-  - 机构；官方：[He](/post/he/) works [at](/post/at/) [a](/post/a/) [local](/post/local/) [authority](/post/authority/) [responsible](/post/responsible/) [for](/post/for/) housing.
-  - 专家；权威人士：[She](/post/she/) is an [authority](/post/authority/) [on](/post/on/) [ancient](/post/ancient/) Greek [history](/post/history/).
-  - 许可；授权：[You](/post/you/) [need](/post/need/) written [authority](/post/authority/) [to](/post/to/) [access](/post/access/) [this](/post/this/) [area](/post/area/).
+  - 权威；权力：[The](/zh/post/the/) [government](/zh/post/government/) is [the](/zh/post/the/) [ultimate](/zh/post/ultimate/) [authority](/zh/post/authority/) [on](/zh/post/on/) [law](/zh/post/law/) [in](/zh/post/in/) [the](/zh/post/the/) [country](/zh/post/country/).
+  - 机构；官方：[He](/zh/post/he/) works [at](/zh/post/at/) [a](/zh/post/a/) [local](/zh/post/local/) [authority](/zh/post/authority/) [responsible](/zh/post/responsible/) [for](/zh/post/for/) housing.
+  - 专家；权威人士：[She](/zh/post/she/) is an [authority](/zh/post/authority/) [on](/zh/post/on/) [ancient](/zh/post/ancient/) Greek [history](/zh/post/history/).
+  - 许可；授权：[You](/zh/post/you/) [need](/zh/post/need/) written [authority](/zh/post/authority/) [to](/zh/post/to/) [access](/zh/post/access/) [this](/zh/post/this/) [area](/zh/post/area/).
 
 - **动词**:
-  - 给予权威或批准：[The](/post/the/) manager authorized [the](/post/the/) [purchase](/post/purchase/) [of](/post/of/) [new](/post/new/) [equipment](/post/equipment/).
+  - 给予权威或批准：[The](/zh/post/the/) manager authorized [the](/zh/post/the/) [purchase](/zh/post/purchase/) [of](/zh/post/of/) [new](/zh/post/new/) [equipment](/zh/post/equipment/).
 
 ## 短语
-- "[Exercise](/post/exercise/) [authority](/post/authority/) [over](/post/over/)" 表示对某人行使权力或控制。
-- "[Have](/post/have/) [authority](/post/authority/) [for](/post/for/)" 表示有根据或理由支持某个说法或行动。
-- "[Be](/post/be/) [the](/post/the/) [authority](/post/authority/) [on](/post/on/)" 意味着在某一领域是公认的专家。
+- "[Exercise](/zh/post/exercise/) [authority](/zh/post/authority/) [over](/zh/post/over/)" 表示对某人行使权力或控制。
+- "[Have](/zh/post/have/) [authority](/zh/post/authority/) [for](/zh/post/for/)" 表示有根据或理由支持某个说法或行动。
+- "[Be](/zh/post/be/) [the](/zh/post/the/) [authority](/zh/post/authority/) [on](/zh/post/on/)" 意味着在某一领域是公认的专家。
 
 ## 例句
-- 名词: "[The](/post/the/) [police](/post/police/) [have](/post/have/) [the](/post/the/) [authority](/post/authority/) [to](/post/to/) [arrest](/post/arrest/) [anyone](/post/anyone/) breaking [the](/post/the/) [law](/post/law/)."
-- 动词: "[The](/post/the/) [principal](/post/principal/) authorized [the](/post/the/) [field](/post/field/) [trip](/post/trip/) [to](/post/to/) [the](/post/the/) [museum](/post/museum/)."
-- 专家: "[He](/post/he/) is considered [the](/post/the/) [leading](/post/leading/) [authority](/post/authority/) [on](/post/on/) quantum [physics](/post/physics/)."
+- 名词: "[The](/zh/post/the/) [police](/zh/post/police/) [have](/zh/post/have/) [the](/zh/post/the/) [authority](/zh/post/authority/) [to](/zh/post/to/) [arrest](/zh/post/arrest/) [anyone](/zh/post/anyone/) breaking [the](/zh/post/the/) [law](/zh/post/law/)."
+- 动词: "[The](/zh/post/the/) [principal](/zh/post/principal/) authorized [the](/zh/post/the/) [field](/zh/post/field/) [trip](/zh/post/trip/) [to](/zh/post/to/) [the](/zh/post/the/) [museum](/zh/post/museum/)."
+- 专家: "[He](/zh/post/he/) is considered [the](/zh/post/the/) [leading](/zh/post/leading/) [authority](/zh/post/authority/) [on](/zh/post/on/) quantum [physics](/zh/post/physics/)."
 
 ## 同义词
-- [Power](/post/power/)
-- [Control](/post/control/)
+- [Power](/zh/post/power/)
+- [Control](/zh/post/control/)
 - Domination
-- [Influence](/post/influence/)
+- [Influence](/zh/post/influence/)
 - Jurisdiction

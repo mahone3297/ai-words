@@ -11,23 +11,23 @@ keywords = ['ai words', 'hazard']
 /hæzɑːd/
 
 ## 释义
-- **名词**: 危险；风险。例如: "Driving [in](/post/in/) [heavy](/post/heavy/) [rain](/post/rain/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [serious](/post/serious/) [hazard](/post/hazard/)."
-- **名词**: 不可预知的事件或情况。例如: "[The](/post/the/) [project](/post/project/) was delayed [due](/post/due/) [to](/post/to/) unforeseen hazards."
-- **动词**: 冒险；拿...冒险。例如: "[He](/post/he/) hazarded [a](/post/a/) [guess](/post/guess/) [at](/post/at/) [the](/post/the/) [answer](/post/answer/)."
-- **名词 (在某些游戏中)**: 障碍或难关。例如: "[In](/post/in/) [chess](/post/chess/), [the](/post/the/) opponent's [queen](/post/queen/) is [a](/post/a/) [major](/post/major/) [hazard](/post/hazard/) [to](/post/to/) [your](/post/your/) pawn."
+- **名词**: 危险；风险。例如: "Driving [in](/zh/post/in/) [heavy](/zh/post/heavy/) [rain](/zh/post/rain/) [can](/zh/post/can/) [be](/zh/post/be/) [a](/zh/post/a/) [serious](/zh/post/serious/) [hazard](/zh/post/hazard/)."
+- **名词**: 不可预知的事件或情况。例如: "[The](/zh/post/the/) [project](/zh/post/project/) was delayed [due](/zh/post/due/) [to](/zh/post/to/) unforeseen hazards."
+- **动词**: 冒险；拿...冒险。例如: "[He](/zh/post/he/) hazarded [a](/zh/post/a/) [guess](/zh/post/guess/) [at](/zh/post/at/) [the](/zh/post/the/) [answer](/zh/post/answer/)."
+- **名词 (在某些游戏中)**: 障碍或难关。例如: "[In](/zh/post/in/) [chess](/zh/post/chess/), [the](/zh/post/the/) opponent's [queen](/zh/post/queen/) is [a](/zh/post/a/) [major](/zh/post/major/) [hazard](/zh/post/hazard/) [to](/zh/post/to/) [your](/zh/post/your/) pawn."
 
 ## 短语
-- "[At](/post/at/) one's [own](/post/own/) [hazard](/post/hazard/)" 意味着承担全部风险。
-- "[To](/post/to/) [take](/post/take/) [a](/post/a/) [hazard](/post/hazard/)" 是指接受或面临可能的危险。
+- "[At](/zh/post/at/) one's [own](/zh/post/own/) [hazard](/zh/post/hazard/)" 意味着承担全部风险。
+- "[To](/zh/post/to/) [take](/zh/post/take/) [a](/zh/post/a/) [hazard](/zh/post/hazard/)" 是指接受或面临可能的危险。
 
 ## 例句
-- 名词: "[The](/post/the/) [oil](/post/oil/) [spill](/post/spill/) posed [a](/post/a/) [significant](/post/significant/) environmental [hazard](/post/hazard/)."
-- 动词: "[He](/post/he/) hazarded [a](/post/a/) [journey](/post/journey/) [through](/post/through/) [the](/post/the/) [stormy](/post/stormy/) [weather](/post/weather/)."
-- 名词 (在游戏中): "[The](/post/the/) players had [to](/post/to/) navigate [through](/post/through/) [various](/post/various/) hazards [on](/post/on/) [the](/post/the/) [golf](/post/golf/) [course](/post/course/)."
+- 名词: "[The](/zh/post/the/) [oil](/zh/post/oil/) [spill](/zh/post/spill/) posed [a](/zh/post/a/) [significant](/zh/post/significant/) environmental [hazard](/zh/post/hazard/)."
+- 动词: "[He](/zh/post/he/) hazarded [a](/zh/post/a/) [journey](/zh/post/journey/) [through](/zh/post/through/) [the](/zh/post/the/) [stormy](/zh/post/stormy/) [weather](/zh/post/weather/)."
+- 名词 (在游戏中): "[The](/zh/post/the/) players had [to](/zh/post/to/) navigate [through](/zh/post/through/) [various](/zh/post/various/) hazards [on](/zh/post/on/) [the](/zh/post/the/) [golf](/zh/post/golf/) [course](/zh/post/course/)."
 
 ## 同义词
-- [Risk](/post/risk/)
+- [Risk](/zh/post/risk/)
 - Peril
-- [DANGER](/post/danger/)
-- [Threat](/post/threat/)
+- [DANGER](/zh/post/danger/)
+- [Threat](/zh/post/threat/)
 - Gamble

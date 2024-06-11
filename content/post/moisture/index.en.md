@@ -7,29 +7,29 @@ description = '[ˈmɔist∫ə] n.潮湿，湿气；温度'
 keywords = ['ai words', 'moisture']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɔɪsʧər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [presence](/en/post/presence/) [of](/en/post/of/) [water](/en/post/water/) [in](/en/post/in/) [the](/en/post/the/) [air](/en/post/air/) [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) [substance](/en/post/substance/), [usually](/en/post/usually/) [in](/en/post/in/) [minute](/en/post/minute/) quantities, [often](/en/post/often/) referring [to](/en/post/to/) [the](/en/post/the/) dampness [or](/en/post/or/) wetness [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [high](/en/post/high/) [moisture](/en/post/moisture/) [content](/en/post/content/) [in](/en/post/in/) [the](/en/post/the/) [air](/en/post/air/) made [it](/en/post/it/) [feel](/en/post/feel/) [humid](/en/post/humid/)."
-  - "[Moisture](/en/post/moisture/) [on](/en/post/on/) [her](/en/post/her/) [brow](/en/post/brow/) indicated [that](/en/post/that/) [she](/en/post/she/) had been exercising."
-- **[Verb](/en/post/verb/) (Infinitive [Form](/en/post/form/): moisten)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [slightly](/en/post/slightly/) [wet](/en/post/wet/) [or](/en/post/or/) [damp](/en/post/damp/), [or](/en/post/or/) [to](/en/post/to/) [become](/en/post/become/) [slightly](/en/post/slightly/) [wet](/en/post/wet/) [or](/en/post/or/) [damp](/en/post/damp/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) rising [temperature](/en/post/temperature/) caused [the](/en/post/the/) [ground](/en/post/ground/) [to](/en/post/to/) [moisture](/en/post/moisture/) [with](/en/post/with/) [dew](/en/post/dew/)."
-  - "[She](/en/post/she/) moistened [her](/en/post/her/) lips [before](/en/post/before/) speaking."
+- **[Noun](/post/noun/)**: [The](/post/the/) [presence](/post/presence/) [of](/post/of/) [water](/post/water/) [in](/post/in/) [the](/post/the/) [air](/post/air/) [or](/post/or/) [in](/post/in/) [a](/post/a/) [substance](/post/substance/), [usually](/post/usually/) [in](/post/in/) [minute](/post/minute/) quantities, [often](/post/often/) referring [to](/post/to/) [the](/post/the/) dampness [or](/post/or/) wetness [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [high](/post/high/) [moisture](/post/moisture/) [content](/post/content/) [in](/post/in/) [the](/post/the/) [air](/post/air/) made [it](/post/it/) [feel](/post/feel/) [humid](/post/humid/)."
+  - "[Moisture](/post/moisture/) [on](/post/on/) [her](/post/her/) [brow](/post/brow/) indicated [that](/post/that/) [she](/post/she/) had been exercising."
+- **[Verb](/post/verb/) (Infinitive [Form](/post/form/): moisten)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [slightly](/post/slightly/) [wet](/post/wet/) [or](/post/or/) [damp](/post/damp/), [or](/post/or/) [to](/post/to/) [become](/post/become/) [slightly](/post/slightly/) [wet](/post/wet/) [or](/post/or/) [damp](/post/damp/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) rising [temperature](/post/temperature/) caused [the](/post/the/) [ground](/post/ground/) [to](/post/to/) [moisture](/post/moisture/) [with](/post/with/) [dew](/post/dew/)."
+  - "[She](/post/she/) moistened [her](/post/her/) lips [before](/post/before/) speaking."
 
 ## Phrases
-- "[Moisture](/en/post/moisture/) retention" refers [to](/en/post/to/) [the](/en/post/the/) [ability](/en/post/ability/) [of](/en/post/of/) [a](/en/post/a/) [material](/en/post/material/) [to](/en/post/to/) [hold](/en/post/hold/) [or](/en/post/or/) [absorb](/en/post/absorb/) [moisture](/en/post/moisture/).
-- "Moisture-wicking" describes fabrics [that](/en/post/that/) [draw](/en/post/draw/) [sweat](/en/post/sweat/) [away](/en/post/away/) [from](/en/post/from/) [the](/en/post/the/) [skin](/en/post/skin/) [to](/en/post/to/) [keep](/en/post/keep/) [the](/en/post/the/) wearer [dry](/en/post/dry/).
-- "[Moisture](/en/post/moisture/) [content](/en/post/content/)" is [the](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [water](/en/post/water/) [present](/en/post/present/) [in](/en/post/in/) [a](/en/post/a/) given [substance](/en/post/substance/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) contexts [like](/en/post/like/) [food](/en/post/food/), [soil](/en/post/soil/), [or](/en/post/or/) [wood](/en/post/wood/).
+- "[Moisture](/post/moisture/) retention" refers [to](/post/to/) [the](/post/the/) [ability](/post/ability/) [of](/post/of/) [a](/post/a/) [material](/post/material/) [to](/post/to/) [hold](/post/hold/) [or](/post/or/) [absorb](/post/absorb/) [moisture](/post/moisture/).
+- "Moisture-wicking" describes fabrics [that](/post/that/) [draw](/post/draw/) [sweat](/post/sweat/) [away](/post/away/) [from](/post/from/) [the](/post/the/) [skin](/post/skin/) [to](/post/to/) [keep](/post/keep/) [the](/post/the/) wearer [dry](/post/dry/).
+- "[Moisture](/post/moisture/) [content](/post/content/)" is [the](/post/the/) [amount](/post/amount/) [of](/post/of/) [water](/post/water/) [present](/post/present/) [in](/post/in/) [a](/post/a/) given [substance](/post/substance/), [often](/post/often/) [used](/post/used/) [in](/post/in/) contexts [like](/post/like/) [food](/post/food/), [soil](/post/soil/), [or](/post/or/) [wood](/post/wood/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Too](/en/post/too/) [much](/en/post/much/) [moisture](/en/post/moisture/) [in](/en/post/in/) [the](/en/post/the/) basement [can](/en/post/can/) [lead](/en/post/lead/) [to](/en/post/to/) mold [growth](/en/post/growth/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) took [a](/en/post/a/) sip [of](/en/post/of/) [water](/en/post/water/) [to](/en/post/to/) moisten [her](/en/post/her/) parched [throat](/en/post/throat/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Too](/post/too/) [much](/post/much/) [moisture](/post/moisture/) [in](/post/in/) [the](/post/the/) basement [can](/post/can/) [lead](/post/lead/) [to](/post/to/) mold [growth](/post/growth/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) took [a](/post/a/) sip [of](/post/of/) [water](/post/water/) [to](/post/to/) moisten [her](/post/her/) parched [throat](/post/throat/)."
 
 ## Synonyms
 - Humidity
 - Dampness
 - Wetness
-- [Moisture](/en/post/moisture/) [level](/en/post/level/)
+- [Moisture](/post/moisture/) [level](/post/level/)
 - Hydration
 - Condensation
 
@@ -38,4 +38,4 @@ keywords = ['ai words', 'moisture']
 - Aridity
 - Dehydration
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) "moisten" does [not](/en/post/not/) [have](/en/post/have/) [many](/en/post/many/) [direct](/en/post/direct/) synonyms [as](/en/post/as/) it's [a](/en/post/a/) [specific](/en/post/specific/) [action](/en/post/action/); [however](/en/post/however/), related verbs [could](/en/post/could/) [include](/en/post/include/) 'dampen', 'hydrate', [or](/en/post/or/) '[wet](/en/post/wet/)'.
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) "moisten" does [not](/post/not/) [have](/post/have/) [many](/post/many/) [direct](/post/direct/) synonyms [as](/post/as/) it's [a](/post/a/) [specific](/post/specific/) [action](/post/action/); [however](/post/however/), related verbs [could](/post/could/) [include](/post/include/) 'dampen', 'hydrate', [or](/post/or/) '[wet](/post/wet/)'.

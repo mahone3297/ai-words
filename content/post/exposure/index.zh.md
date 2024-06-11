@@ -12,23 +12,23 @@ keywords = ['ai words', 'exposure']
 
 ## 释义
 - **名词**: 
-   - 公开露面；展示： "[The](/post/the/) artist's [new](/post/new/) [work](/post/work/) is currently [on](/post/on/) [exposure](/post/exposure/) [in](/post/in/) [a](/post/a/) [local](/post/local/) [gallery](/post/gallery/)."
-   - 曝光（摄影）： "[The](/post/the/) [camera](/post/camera/) needs [the](/post/the/) [right](/post/right/) [exposure](/post/exposure/) [time](/post/time/) [for](/post/for/) [a](/post/a/) [perfect](/post/perfect/) [shot](/post/shot/)."
-   - 风险；暴露： "Children [need](/post/need/) [to](/post/to/) [have](/post/have/) [some](/post/some/) [exposure](/post/exposure/) [to](/post/to/) germs [to](/post/to/) [build](/post/build/) [their](/post/their/) immune [system](/post/system/)."
-   - 影响；接触： "[Regular](/post/regular/) [exposure](/post/exposure/) [to](/post/to/) [sunlight](/post/sunlight/) [can](/post/can/) [improve](/post/improve/) [your](/post/your/) [mood](/post/mood/)."
+   - 公开露面；展示： "[The](/zh/post/the/) artist's [new](/zh/post/new/) [work](/zh/post/work/) is currently [on](/zh/post/on/) [exposure](/zh/post/exposure/) [in](/zh/post/in/) [a](/zh/post/a/) [local](/zh/post/local/) [gallery](/zh/post/gallery/)."
+   - 曝光（摄影）： "[The](/zh/post/the/) [camera](/zh/post/camera/) needs [the](/zh/post/the/) [right](/zh/post/right/) [exposure](/zh/post/exposure/) [time](/zh/post/time/) [for](/zh/post/for/) [a](/zh/post/a/) [perfect](/zh/post/perfect/) [shot](/zh/post/shot/)."
+   - 风险；暴露： "Children [need](/zh/post/need/) [to](/zh/post/to/) [have](/zh/post/have/) [some](/zh/post/some/) [exposure](/zh/post/exposure/) [to](/zh/post/to/) germs [to](/zh/post/to/) [build](/zh/post/build/) [their](/zh/post/their/) immune [system](/zh/post/system/)."
+   - 影响；接触： "[Regular](/zh/post/regular/) [exposure](/zh/post/exposure/) [to](/zh/post/to/) [sunlight](/zh/post/sunlight/) [can](/zh/post/can/) [improve](/zh/post/improve/) [your](/zh/post/your/) [mood](/zh/post/mood/)."
 
 ## 短语
-- "[exposure](/post/exposure/) [to](/post/to/) [something](/post/something/)" 指接触或体验某事物： "[They](/post/they/) had [little](/post/little/) [exposure](/post/exposure/) [to](/post/to/) [foreign](/post/foreign/) cultures growing [up](/post/up/)."
-- "[risk](/post/risk/) [exposure](/post/exposure/)" 指面临的风险程度： "[The](/post/the/) [company](/post/company/) needs [to](/post/to/) minimize [its](/post/its/) [financial](/post/financial/) [risk](/post/risk/) [exposure](/post/exposure/)."
+- "[exposure](/zh/post/exposure/) [to](/zh/post/to/) [something](/zh/post/something/)" 指接触或体验某事物： "[They](/zh/post/they/) had [little](/zh/post/little/) [exposure](/zh/post/exposure/) [to](/zh/post/to/) [foreign](/zh/post/foreign/) cultures growing [up](/zh/post/up/)."
+- "[risk](/zh/post/risk/) [exposure](/zh/post/exposure/)" 指面临的风险程度： "[The](/zh/post/the/) [company](/zh/post/company/) needs [to](/zh/post/to/) minimize [its](/zh/post/its/) [financial](/zh/post/financial/) [risk](/zh/post/risk/) [exposure](/zh/post/exposure/)."
 
 ## 例句
-- 名词: "[Her](/post/her/) [poetry](/post/poetry/) received [widespread](/post/widespread/) [exposure](/post/exposure/) [after](/post/after/) winning [the](/post/the/) [literary](/post/literary/) [prize](/post/prize/)."
-- 动词（短语用法）: "[The](/post/the/) [experiment](/post/experiment/) exposed [the](/post/the/) plants [to](/post/to/) [different](/post/different/) temperatures [to](/post/to/) [study](/post/study/) [their](/post/their/) [growth](/post/growth/) patterns."
-- 风险： "[The](/post/the/) building's [structural](/post/structural/) weaknesses [increase](/post/increase/) [its](/post/its/) [exposure](/post/exposure/) [to](/post/to/) earthquakes."
+- 名词: "[Her](/zh/post/her/) [poetry](/zh/post/poetry/) received [widespread](/zh/post/widespread/) [exposure](/zh/post/exposure/) [after](/zh/post/after/) winning [the](/zh/post/the/) [literary](/zh/post/literary/) [prize](/zh/post/prize/)."
+- 动词（短语用法）: "[The](/zh/post/the/) [experiment](/zh/post/experiment/) exposed [the](/zh/post/the/) plants [to](/zh/post/to/) [different](/zh/post/different/) temperatures [to](/zh/post/to/) [study](/zh/post/study/) [their](/zh/post/their/) [growth](/zh/post/growth/) patterns."
+- 风险： "[The](/zh/post/the/) building's [structural](/zh/post/structural/) weaknesses [increase](/zh/post/increase/) [its](/zh/post/its/) [exposure](/zh/post/exposure/) [to](/zh/post/to/) earthquakes."
 
 ## 同义词
 - Revelation
-- [Display](/post/display/)
+- [Display](/zh/post/display/)
 - Showcase
 - Uncovering
 - Exposition

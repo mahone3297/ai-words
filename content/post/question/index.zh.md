@@ -11,23 +11,23 @@ keywords = ['ai words', 'question']
 /ˈkwestʃən/
 
 ## 释义
-- **名词**: 问题，疑问。询问或讨论中的一个点或主题。例如: "[She](/post/she/) asked [him](/post/him/) [a](/post/a/) [difficult](/post/difficult/) [question](/post/question/) [about](/post/about/) [his](/post/his/) [past](/post/past/)."
-- **动词**: 提问，质询。提出疑问或要求解释。例如: "[The](/post/the/) [teacher](/post/teacher/) questioned [the](/post/the/) [student](/post/student/) [about](/post/about/) [her](/post/her/) homework."
-- **形容词**: 可疑的，不确定的。表示对某事有疑问。例如: "[The](/post/the/) authenticity [of](/post/of/) [the](/post/the/) [painting](/post/painting/) is [still](/post/still/) [very](/post/very/) [much](/post/much/) [in](/post/in/) [question](/post/question/)."
+- **名词**: 问题，疑问。询问或讨论中的一个点或主题。例如: "[She](/zh/post/she/) asked [him](/zh/post/him/) [a](/zh/post/a/) [difficult](/zh/post/difficult/) [question](/zh/post/question/) [about](/zh/post/about/) [his](/zh/post/his/) [past](/zh/post/past/)."
+- **动词**: 提问，质询。提出疑问或要求解释。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) questioned [the](/zh/post/the/) [student](/zh/post/student/) [about](/zh/post/about/) [her](/zh/post/her/) homework."
+- **形容词**: 可疑的，不确定的。表示对某事有疑问。例如: "[The](/zh/post/the/) authenticity [of](/zh/post/of/) [the](/zh/post/the/) [painting](/zh/post/painting/) is [still](/zh/post/still/) [very](/zh/post/very/) [much](/zh/post/much/) [in](/zh/post/in/) [question](/zh/post/question/)."
 
 ## 短语
-- "[To](/post/to/) [raise](/post/raise/) [a](/post/a/) [question](/post/question/)" 提出问题。
-- "[Question](/post/question/) [mark](/post/mark/)" 问号，表示疑问的符号。
-- "[Without](/post/without/) [question](/post/question/)" 毫无疑问，肯定地。
+- "[To](/zh/post/to/) [raise](/zh/post/raise/) [a](/zh/post/a/) [question](/zh/post/question/)" 提出问题。
+- "[Question](/zh/post/question/) [mark](/zh/post/mark/)" 问号，表示疑问的符号。
+- "[Without](/zh/post/without/) [question](/zh/post/question/)" 毫无疑问，肯定地。
 
 ## 例句
-- 名词: "[The](/post/the/) [debate](/post/debate/) focused [on](/post/on/) [several](/post/several/) [key](/post/key/) questions."
-- 动词: "[The](/post/the/) interviewer questioned [him](/post/him/) [about](/post/about/) [his](/post/his/) qualifications."
-- 形容词: "[The](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [the](/post/the/) [election](/post/election/) is [still](/post/still/) [very](/post/very/) [much](/post/much/) [in](/post/in/) [question](/post/question/)."
+- 名词: "[The](/zh/post/the/) [debate](/zh/post/debate/) focused [on](/zh/post/on/) [several](/zh/post/several/) [key](/zh/post/key/) questions."
+- 动词: "[The](/zh/post/the/) interviewer questioned [him](/zh/post/him/) [about](/zh/post/about/) [his](/zh/post/his/) qualifications."
+- 形容词: "[The](/zh/post/the/) [outcome](/zh/post/outcome/) [of](/zh/post/of/) [the](/zh/post/the/) [election](/zh/post/election/) is [still](/zh/post/still/) [very](/zh/post/very/) [much](/zh/post/much/) [in](/zh/post/in/) [question](/zh/post/question/)."
 
 ## 同义词
-- [Inquiry](/post/inquiry/)
+- [Inquiry](/zh/post/inquiry/)
 - Query
-- [Doubt](/post/doubt/)
-- [Concern](/post/concern/)
-- [Problem](/post/problem/)
+- [Doubt](/zh/post/doubt/)
+- [Concern](/zh/post/concern/)
+- [Problem](/zh/post/problem/)

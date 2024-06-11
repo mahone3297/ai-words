@@ -7,38 +7,38 @@ description = '[ˈjuːnifɔːm] a.一样的 n.制服'
 keywords = ['ai words', 'uniform']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unɪˈfɔːrm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [uniform](/en/post/uniform/)** is [a](/en/post/a/) standardized outfit worn [by](/en/post/by/) members [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [organization](/en/post/organization/), [group](/en/post/group/), [or](/en/post/or/) [profession](/en/post/profession/), [often](/en/post/often/) indicating [rank](/en/post/rank/) [or](/en/post/or/) affiliation. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) soldiers wore [their](/en/post/their/) uniforms [with](/en/post/with/) [pride](/en/post/pride/)."
-2. **([Military](/en/post/military/)) [A](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) [clothes](/en/post/clothes/) [that](/en/post/that/) [all](/en/post/all/) soldiers [wear](/en/post/wear/)**. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) recruits were issued [their](/en/post/their/) uniforms [on](/en/post/on/) [their](/en/post/their/) [first](/en/post/first/) [day](/en/post/day/)."
-3. **([Education](/en/post/education/)) [A](/en/post/a/) [school](/en/post/school/) [uniform](/en/post/uniform/), [which](/en/post/which/) students are expected [to](/en/post/to/) [wear](/en/post/wear/)**. [For](/en/post/for/) [example](/en/post/example/): "[Every](/en/post/every/) [student](/en/post/student/) [at](/en/post/at/) [the](/en/post/the/) [academy](/en/post/academy/) wore [a](/en/post/a/) crisp [navy](/en/post/navy/) [uniform](/en/post/uniform/)."
-4. **([Simplicity](/en/post/simplicity/)) Uniformity [or](/en/post/or/) sameness [in](/en/post/in/) [appearance](/en/post/appearance/) [or](/en/post/or/) [design](/en/post/design/).** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) had [a](/en/post/a/) [uniform](/en/post/uniform/) [row](/en/post/row/) [of](/en/post/of/) flowers."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [uniform](/post/uniform/)** is [a](/post/a/) standardized outfit worn [by](/post/by/) members [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [organization](/post/organization/), [group](/post/group/), [or](/post/or/) [profession](/post/profession/), [often](/post/often/) indicating [rank](/post/rank/) [or](/post/or/) affiliation. [For](/post/for/) [example](/post/example/): "[The](/post/the/) soldiers wore [their](/post/their/) uniforms [with](/post/with/) [pride](/post/pride/)."
+2. **([Military](/post/military/)) [A](/post/a/) [set](/post/set/) [of](/post/of/) [clothes](/post/clothes/) [that](/post/that/) [all](/post/all/) soldiers [wear](/post/wear/)**. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) recruits were issued [their](/post/their/) uniforms [on](/post/on/) [their](/post/their/) [first](/post/first/) [day](/post/day/)."
+3. **([Education](/post/education/)) [A](/post/a/) [school](/post/school/) [uniform](/post/uniform/), [which](/post/which/) students are expected [to](/post/to/) [wear](/post/wear/)**. [For](/post/for/) [example](/post/example/): "[Every](/post/every/) [student](/post/student/) [at](/post/at/) [the](/post/the/) [academy](/post/academy/) wore [a](/post/a/) crisp [navy](/post/navy/) [uniform](/post/uniform/)."
+4. **([Simplicity](/post/simplicity/)) Uniformity [or](/post/or/) sameness [in](/post/in/) [appearance](/post/appearance/) [or](/post/or/) [design](/post/design/).** [For](/post/for/) [example](/post/example/): "[The](/post/the/) [garden](/post/garden/) had [a](/post/a/) [uniform](/post/uniform/) [row](/post/row/) [of](/post/of/) flowers."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [dress](/en/post/dress/) [in](/en/post/in/) [a](/en/post/a/) [uniform](/en/post/uniform/) [or](/en/post/or/) [put](/en/post/put/) [on](/en/post/on/) [a](/en/post/a/) [uniform](/en/post/uniform/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [security](/en/post/security/) guards [must](/en/post/must/) [uniform](/en/post/uniform/) [themselves](/en/post/themselves/) [before](/en/post/before/) starting [their](/en/post/their/) [shift](/en/post/shift/)."
-2. [To](/en/post/to/) [adopt](/en/post/adopt/) [a](/en/post/a/) [consistent](/en/post/consistent/) [style](/en/post/style/) [or](/en/post/or/) [approach](/en/post/approach/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) decided [to](/en/post/to/) [uniform](/en/post/uniform/) [their](/en/post/their/) marketing [strategy](/en/post/strategy/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [dress](/post/dress/) [in](/post/in/) [a](/post/a/) [uniform](/post/uniform/) [or](/post/or/) [put](/post/put/) [on](/post/on/) [a](/post/a/) [uniform](/post/uniform/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [security](/post/security/) guards [must](/post/must/) [uniform](/post/uniform/) [themselves](/post/themselves/) [before](/post/before/) starting [their](/post/their/) [shift](/post/shift/)."
+2. [To](/post/to/) [adopt](/post/adopt/) [a](/post/a/) [consistent](/post/consistent/) [style](/post/style/) [or](/post/or/) [approach](/post/approach/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [team](/post/team/) decided [to](/post/to/) [uniform](/post/uniform/) [their](/post/their/) marketing [strategy](/post/strategy/)."
 
 ## Phrases
-- "[Wear](/en/post/wear/) [a](/en/post/a/) [uniform](/en/post/uniform/)" [or](/en/post/or/) "[be](/en/post/be/) [in](/en/post/in/) [uniform](/en/post/uniform/)"
-- "[Uniform](/en/post/uniform/) attire"
-- "[Standard](/en/post/standard/) [issue](/en/post/issue/) [uniform](/en/post/uniform/)"
-- "[Uniform](/en/post/uniform/) [behavior](/en/post/behavior/)"
+- "[Wear](/post/wear/) [a](/post/a/) [uniform](/post/uniform/)" [or](/post/or/) "[be](/post/be/) [in](/post/in/) [uniform](/post/uniform/)"
+- "[Uniform](/post/uniform/) attire"
+- "[Standard](/post/standard/) [issue](/post/issue/) [uniform](/post/uniform/)"
+- "[Uniform](/post/uniform/) [behavior](/post/behavior/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children looked adorable [in](/en/post/in/) [their](/en/post/their/) matching [school](/en/post/school/) uniforms."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) had [to](/en/post/to/) [uniform](/en/post/uniform/) [his](/en/post/his/) thoughts [before](/en/post/before/) giving [a](/en/post/a/) presentation."
-- **[Uniform](/en/post/uniform/) attire**: "[All](/en/post/all/) employees were expected [to](/en/post/to/) adhere [to](/en/post/to/) [the](/en/post/the/) company's [uniform](/en/post/uniform/) [policy](/en/post/policy/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children looked adorable [in](/post/in/) [their](/post/their/) matching [school](/post/school/) uniforms."
+- **[Verb](/post/verb/)**: "[He](/post/he/) had [to](/post/to/) [uniform](/post/uniform/) [his](/post/his/) thoughts [before](/post/before/) giving [a](/post/a/) presentation."
+- **[Uniform](/post/uniform/) attire**: "[All](/post/all/) employees were expected [to](/post/to/) adhere [to](/post/to/) [the](/post/the/) company's [uniform](/post/uniform/) [policy](/post/policy/)."
 
 ## Synonyms
 - Ensemble
 - Garb
 - Outfit
-- [Dress](/en/post/dress/)
+- [Dress](/post/dress/)
 - Attire
-- [Robe](/en/post/robe/) ([religious](/en/post/religious/) [or](/en/post/or/) [academic](/en/post/academic/))
-- Kit (sports [or](/en/post/or/) [work](/en/post/work/))
-- [Standard](/en/post/standard/) [issue](/en/post/issue/)
-- Homogeneous ([in](/en/post/in/) [appearance](/en/post/appearance/))
+- [Robe](/post/robe/) ([religious](/post/religious/) [or](/post/or/) [academic](/post/academic/))
+- Kit (sports [or](/post/or/) [work](/post/work/))
+- [Standard](/post/standard/) [issue](/post/issue/)
+- Homogeneous ([in](/post/in/) [appearance](/post/appearance/))

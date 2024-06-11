@@ -7,43 +7,43 @@ description = '[ˈregjulə] a.规则的；整齐的'
 keywords = ['ai words', 'regular']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈrɛgjələr/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Following](/en/post/following/) [a](/en/post/a/) fixed [pattern](/en/post/pattern/) [or](/en/post/or/) occurring [at](/en/post/at/) [regular](/en/post/regular/) intervals; periodic. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [regular](/en/post/regular/) [exercise](/en/post/exercise/) [routine](/en/post/routine/)."
-- 2. [Familiar](/en/post/familiar/) [or](/en/post/or/) customary; [not](/en/post/not/) [unusual](/en/post/unusual/) [or](/en/post/or/) exceptional. [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) is [a](/en/post/a/) [regular](/en/post/regular/) [meeting](/en/post/meeting/) [spot](/en/post/spot/) [for](/en/post/for/) [us](/en/post/us/)."
-- 3. [Characteristic](/en/post/characteristic/) [or](/en/post/or/) [typical](/en/post/typical/); [normal](/en/post/normal/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [hair](/en/post/hair/) is [usually](/en/post/usually/) styled [in](/en/post/in/) [a](/en/post/a/) [regular](/en/post/regular/) bun."
-- 4. Lawful [or](/en/post/or/) [in](/en/post/in/) [accordance](/en/post/accordance/) [with](/en/post/with/) rules [or](/en/post/or/) regulations. [For](/en/post/for/) [example](/en/post/example/): "[Regular](/en/post/regular/) customers [get](/en/post/get/) [a](/en/post/a/) discount."
+- **[Adjective](/post/adjective/)**: 1. [Following](/post/following/) [a](/post/a/) fixed [pattern](/post/pattern/) [or](/post/or/) occurring [at](/post/at/) [regular](/post/regular/) intervals; periodic. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [regular](/post/regular/) [exercise](/post/exercise/) [routine](/post/routine/)."
+- 2. [Familiar](/post/familiar/) [or](/post/or/) customary; [not](/post/not/) [unusual](/post/unusual/) [or](/post/or/) exceptional. [For](/post/for/) [example](/post/example/): "[This](/post/this/) is [a](/post/a/) [regular](/post/regular/) [meeting](/post/meeting/) [spot](/post/spot/) [for](/post/for/) [us](/post/us/)."
+- 3. [Characteristic](/post/characteristic/) [or](/post/or/) [typical](/post/typical/); [normal](/post/normal/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [hair](/post/hair/) is [usually](/post/usually/) styled [in](/post/in/) [a](/post/a/) [regular](/post/regular/) bun."
+- 4. Lawful [or](/post/or/) [in](/post/in/) [accordance](/post/accordance/) [with](/post/with/) rules [or](/post/or/) regulations. [For](/post/for/) [example](/post/example/): "[Regular](/post/regular/) customers [get](/post/get/) [a](/post/a/) discount."
 
-## [Noun](/en/post/noun/) (colloquial):
-- [In](/en/post/in/) [some](/en/post/some/) cases, "[regular](/en/post/regular/)" [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [frequent](/en/post/frequent/) [or](/en/post/or/) [habitual](/en/post/habitual/) [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/), [like](/en/post/like/) [a](/en/post/a/) [coffee](/en/post/coffee/) [shop](/en/post/shop/) [or](/en/post/or/) [a](/en/post/a/) [bar](/en/post/bar/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) barista knows [her](/en/post/her/) regulars [by](/en/post/by/) [name](/en/post/name/)."
+## [Noun](/post/noun/) (colloquial):
+- [In](/post/in/) [some](/post/some/) cases, "[regular](/post/regular/)" [can](/post/can/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) is [frequent](/post/frequent/) [or](/post/or/) [habitual](/post/habitual/) [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/), [like](/post/like/) [a](/post/a/) [coffee](/post/coffee/) [shop](/post/shop/) [or](/post/or/) [a](/post/a/) [bar](/post/bar/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) barista knows [her](/post/her/) regulars [by](/post/by/) [name](/post/name/)."
 
-## [Verb](/en/post/verb/):
-- [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [regular](/en/post/regular/) [or](/en/post/or/) [establish](/en/post/establish/) [a](/en/post/a/) [routine](/en/post/routine/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [should](/en/post/should/) regularize [our](/en/post/our/) [study](/en/post/study/) sessions."
-- [To](/en/post/to/) [attend](/en/post/attend/) [or](/en/post/or/) [participate](/en/post/participate/) [in](/en/post/in/) [something](/en/post/something/) [on](/en/post/on/) [a](/en/post/a/) [regular](/en/post/regular/) [basis](/en/post/basis/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [regularly](/en/post/regularly/) attends yoga classes."
+## [Verb](/post/verb/):
+- [To](/post/to/) [make](/post/make/) [something](/post/something/) [regular](/post/regular/) [or](/post/or/) [establish](/post/establish/) [a](/post/a/) [routine](/post/routine/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [should](/post/should/) regularize [our](/post/our/) [study](/post/study/) sessions."
+- [To](/post/to/) [attend](/post/attend/) [or](/post/or/) [participate](/post/participate/) [in](/post/in/) [something](/post/something/) [on](/post/on/) [a](/post/a/) [regular](/post/regular/) [basis](/post/basis/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) [regularly](/post/regularly/) attends yoga classes."
 
-## [Adverb](/en/post/adverb/):
-- [Used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) actions [that](/en/post/that/) [happen](/en/post/happen/) [frequently](/en/post/frequently/) [or](/en/post/or/) consistently. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) studies [regularly](/en/post/regularly/) [every](/en/post/every/) [evening](/en/post/evening/)."
+## [Adverb](/post/adverb/):
+- [Used](/post/used/) [to](/post/to/) [describe](/post/describe/) actions [that](/post/that/) [happen](/post/happen/) [frequently](/post/frequently/) [or](/post/or/) consistently. [For](/post/for/) [example](/post/example/): "[She](/post/she/) studies [regularly](/post/regularly/) [every](/post/every/) [evening](/post/evening/)."
 
 ## Phrases:
-- "[Keep](/en/post/keep/) [up](/en/post/up/) [with](/en/post/with/) [your](/en/post/your/) [regular](/en/post/regular/) [schedule](/en/post/schedule/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) [your](/en/post/your/) [usual](/en/post/usual/) [routine](/en/post/routine/).
-- "[Be](/en/post/be/) [on](/en/post/on/) [time](/en/post/time/) [for](/en/post/for/) [your](/en/post/your/) [regular](/en/post/regular/) [appointment](/en/post/appointment/)" implies [being](/en/post/being/) [punctual](/en/post/punctual/) [for](/en/post/for/) [a](/en/post/a/) scheduled [event](/en/post/event/).
-- "[Regular](/en/post/regular/) [season](/en/post/season/)" refers [to](/en/post/to/) [the](/en/post/the/) [standard](/en/post/standard/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) sports [competition](/en/post/competition/).
+- "[Keep](/post/keep/) [up](/post/up/) [with](/post/with/) [your](/post/your/) [regular](/post/regular/) [schedule](/post/schedule/)" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) [your](/post/your/) [usual](/post/usual/) [routine](/post/routine/).
+- "[Be](/post/be/) [on](/post/on/) [time](/post/time/) [for](/post/for/) [your](/post/your/) [regular](/post/regular/) [appointment](/post/appointment/)" implies [being](/post/being/) [punctual](/post/punctual/) [for](/post/for/) [a](/post/a/) scheduled [event](/post/event/).
+- "[Regular](/post/regular/) [season](/post/season/)" refers [to](/post/to/) [the](/post/the/) [standard](/post/standard/) [part](/post/part/) [of](/post/of/) [a](/post/a/) sports [competition](/post/competition/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) had [a](/en/post/a/) [regular](/en/post/regular/) check-up [at](/en/post/at/) [the](/en/post/the/) doctor's."
-- **[Noun](/en/post/noun/)**: "She's [a](/en/post/a/) [regular](/en/post/regular/) [at](/en/post/at/) [this](/en/post/this/) diner, [always](/en/post/always/) ordering [the](/en/post/the/) [same](/en/post/same/) [breakfast](/en/post/breakfast/)."
-- **[Verb](/en/post/verb/)**: "Let's regularize [our](/en/post/our/) [team](/en/post/team/) meetings [to](/en/post/to/) [twice](/en/post/twice/) [a](/en/post/a/) [week](/en/post/week/)."
-- **[Adverb](/en/post/adverb/)**: "She's been exercising [regularly](/en/post/regularly/) [since](/en/post/since/) January."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) had [a](/post/a/) [regular](/post/regular/) check-up [at](/post/at/) [the](/post/the/) doctor's."
+- **[Noun](/post/noun/)**: "She's [a](/post/a/) [regular](/post/regular/) [at](/post/at/) [this](/post/this/) diner, [always](/post/always/) ordering [the](/post/the/) [same](/post/same/) [breakfast](/post/breakfast/)."
+- **[Verb](/post/verb/)**: "Let's regularize [our](/post/our/) [team](/post/team/) meetings [to](/post/to/) [twice](/post/twice/) [a](/post/a/) [week](/post/week/)."
+- **[Adverb](/post/adverb/)**: "She's been exercising [regularly](/post/regularly/) [since](/post/since/) January."
 
 ## Synonyms
-- [Routine](/en/post/routine/)
-- [Standard](/en/post/standard/)
+- [Routine](/post/routine/)
+- [Standard](/post/standard/)
 - Scheduled
-- [Consistent](/en/post/consistent/)
-- [Habitual](/en/post/habitual/)
-- [Familiar](/en/post/familiar/)
+- [Consistent](/post/consistent/)
+- [Habitual](/post/habitual/)
+- [Familiar](/post/familiar/)
 - Expected
-- [Normal](/en/post/normal/)
+- [Normal](/post/normal/)
 - Lawful

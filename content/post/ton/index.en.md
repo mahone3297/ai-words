@@ -7,42 +7,42 @@ description = '[tʌn] n.吨；大量'
 keywords = ['ai words', 'ton']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Mass](/en/post/mass/) [noun](/en/post/noun/)**: [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [weight](/en/post/weight/) [or](/en/post/or/) [volume](/en/post/volume/) [equal](/en/post/equal/) [to](/en/post/to/) 2000 pounds ([or](/en/post/or/) [about](/en/post/about/) 1000 kilograms) [in](/en/post/in/) [the](/en/post/the/) United States [and](/en/post/and/) [the](/en/post/the/) UK.
-- **Slang**: [A](/en/post/a/) person's [body](/en/post/body/) [weight](/en/post/weight/), [often](/en/post/often/) [used](/en/post/used/) affectionately [or](/en/post/or/) colloquially.
-- **[Music](/en/post/music/)**: [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) notes forming [a](/en/post/a/) chord [or](/en/post/or/) [scale](/en/post/scale/), typically [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [pitch](/en/post/pitch/) [or](/en/post/or/) [key](/en/post/key/).
+### [Noun](/post/noun/)
+- **[Mass](/post/mass/) [noun](/post/noun/)**: [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [weight](/post/weight/) [or](/post/or/) [volume](/post/volume/) [equal](/post/equal/) [to](/post/to/) 2000 pounds ([or](/post/or/) [about](/post/about/) 1000 kilograms) [in](/post/in/) [the](/post/the/) United States [and](/post/and/) [the](/post/the/) UK.
+- **Slang**: [A](/post/a/) person's [body](/post/body/) [weight](/post/weight/), [often](/post/often/) [used](/post/used/) affectionately [or](/post/or/) colloquially.
+- **[Music](/post/music/)**: [A](/post/a/) [series](/post/series/) [of](/post/of/) notes forming [a](/post/a/) chord [or](/post/or/) [scale](/post/scale/), typically [with](/post/with/) [a](/post/a/) [particular](/post/particular/) [pitch](/post/pitch/) [or](/post/or/) [key](/post/key/).
 
-### [Verb](/en/post/verb/)
-- **Transitive [verb](/en/post/verb/)**: [To](/en/post/to/) [lift](/en/post/lift/) [or](/en/post/or/) [move](/en/post/move/) [something](/en/post/something/) [with](/en/post/with/) [a](/en/post/a/) [considerable](/en/post/considerable/) [weight](/en/post/weight/), [often](/en/post/often/) using [mechanical](/en/post/mechanical/) assistance.
-- **Intransitive [verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) transported [or](/en/post/or/) moved [in](/en/post/in/) [large](/en/post/large/) quantities, [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) shipment [of](/en/post/of/) [goods](/en/post/goods/).
+### [Verb](/post/verb/)
+- **Transitive [verb](/post/verb/)**: [To](/post/to/) [lift](/post/lift/) [or](/post/or/) [move](/post/move/) [something](/post/something/) [with](/post/with/) [a](/post/a/) [considerable](/post/considerable/) [weight](/post/weight/), [often](/post/often/) using [mechanical](/post/mechanical/) assistance.
+- **Intransitive [verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) transported [or](/post/or/) moved [in](/post/in/) [large](/post/large/) quantities, [as](/post/as/) [in](/post/in/) [a](/post/a/) shipment [of](/post/of/) [goods](/post/goods/).
 
-### [Adjective](/en/post/adjective/)
-- Describing [a](/en/post/a/) [large](/en/post/large/) [quantity](/en/post/quantity/), [especially](/en/post/especially/) [of](/en/post/of/) [something](/en/post/something/) [heavy](/en/post/heavy/) [or](/en/post/or/) measured [in](/en/post/in/) tons.
+### [Adjective](/post/adjective/)
+- Describing [a](/post/a/) [large](/post/large/) [quantity](/post/quantity/), [especially](/post/especially/) [of](/post/of/) [something](/post/something/) [heavy](/post/heavy/) [or](/post/or/) measured [in](/post/in/) tons.
 
-### [Adverb](/en/post/adverb/)
-- ([rarely](/en/post/rarely/) [used](/en/post/used/)) [In](/en/post/in/) [a](/en/post/a/) [large](/en/post/large/) [or](/en/post/or/) [significant](/en/post/significant/) [amount](/en/post/amount/).
+### [Adverb](/post/adverb/)
+- ([rarely](/post/rarely/) [used](/post/used/)) [In](/post/in/) [a](/post/a/) [large](/post/large/) [or](/post/or/) [significant](/post/significant/) [amount](/post/amount/).
 
 ## Phrases
-- "[A](/en/post/a/) [ton](/en/post/ton/) [of](/en/post/of/) [work](/en/post/work/)" [means](/en/post/means/) [a](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) [work](/en/post/work/).
-- "[It](/en/post/it/) weighs [a](/en/post/a/) [ton](/en/post/ton/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) something's heaviness.
-- "[Ship](/en/post/ship/) [a](/en/post/a/) [ton](/en/post/ton/) [of](/en/post/of/) [goods](/en/post/goods/)" refers [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) shipment.
+- "[A](/post/a/) [ton](/post/ton/) [of](/post/of/) [work](/post/work/)" [means](/post/means/) [a](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) [work](/post/work/).
+- "[It](/post/it/) weighs [a](/post/a/) [ton](/post/ton/)" is [a](/post/a/) colloquial [expression](/post/expression/) [to](/post/to/) [emphasize](/post/emphasize/) something's heaviness.
+- "[Ship](/post/ship/) [a](/post/a/) [ton](/post/ton/) [of](/post/of/) [goods](/post/goods/)" refers [to](/post/to/) [a](/post/a/) [large](/post/large/) shipment.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [truck](/en/post/truck/) loaded [a](/en/post/a/) [ton](/en/post/ton/) [of](/en/post/of/) gravel [for](/en/post/for/) [the](/en/post/the/) [construction](/en/post/construction/) [site](/en/post/site/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) had [to](/en/post/to/) [hire](/en/post/hire/) [a](/en/post/a/) [crane](/en/post/crane/) [to](/en/post/to/) [ton](/en/post/ton/) [the](/en/post/the/) [heavy](/en/post/heavy/) machinery."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) felt [like](/en/post/like/) [she](/en/post/she/) had [a](/en/post/a/) [ton](/en/post/ton/) [on](/en/post/on/) [her](/en/post/her/) [mind](/en/post/mind/) [lately](/en/post/lately/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [concert](/en/post/concert/) tickets sold [out](/en/post/out/) [in](/en/post/in/) [a](/en/post/a/) [ton](/en/post/ton/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [truck](/post/truck/) loaded [a](/post/a/) [ton](/post/ton/) [of](/post/of/) gravel [for](/post/for/) [the](/post/the/) [construction](/post/construction/) [site](/post/site/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) had [to](/post/to/) [hire](/post/hire/) [a](/post/a/) [crane](/post/crane/) [to](/post/to/) [ton](/post/ton/) [the](/post/the/) [heavy](/post/heavy/) machinery."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) felt [like](/post/like/) [she](/post/she/) had [a](/post/a/) [ton](/post/ton/) [on](/post/on/) [her](/post/her/) [mind](/post/mind/) [lately](/post/lately/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [concert](/post/concert/) tickets sold [out](/post/out/) [in](/post/in/) [a](/post/a/) [ton](/post/ton/)."
 
 ## Synonyms
 - Tonnes (UK)
-- Tons ([US](/en/post/us/))
+- Tons ([US](/post/us/))
 - Massive
-- [Huge](/en/post/huge/)
+- [Huge](/post/huge/)
 - Gigantic
-- [Immense](/en/post/immense/)
-- [Enormous](/en/post/enormous/)
+- [Immense](/post/immense/)
+- [Enormous](/post/enormous/)
 -海量的 (hǎilǐ de) (Chinese)

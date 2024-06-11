@@ -12,25 +12,25 @@ keywords = ['ai words', 'hole']
 
 ## 释义
 - **名词**:
-  - 孔；洞：例如 "There's [a](/post/a/) [hole](/post/hole/) [in](/post/in/) [my](/post/my/) [sock](/post/sock/)."
-  - 地点；位置：例如 "[The](/post/the/) [rabbit](/post/rabbit/) [found](/post/found/) [a](/post/a/) cozy [hole](/post/hole/) [to](/post/to/) [hide](/post/hide/) [in](/post/in/)."
-  - 缺陷；漏洞：例如 "[There](/post/there/) are [some](/post/some/) holes [in](/post/in/) [your](/post/your/) [argument](/post/argument/)."
+  - 孔；洞：例如 "There's [a](/zh/post/a/) [hole](/zh/post/hole/) [in](/zh/post/in/) [my](/zh/post/my/) [sock](/zh/post/sock/)."
+  - 地点；位置：例如 "[The](/zh/post/the/) [rabbit](/zh/post/rabbit/) [found](/zh/post/found/) [a](/zh/post/a/) cozy [hole](/zh/post/hole/) [to](/zh/post/to/) [hide](/zh/post/hide/) [in](/zh/post/in/)."
+  - 缺陷；漏洞：例如 "[There](/zh/post/there/) are [some](/zh/post/some/) holes [in](/zh/post/in/) [your](/zh/post/your/) [argument](/zh/post/argument/)."
 
 - **动词**:
-  - 打洞；挖洞：例如 "[The](/post/the/) woodpecker holes [the](/post/the/) [tree](/post/tree/) [to](/post/to/) [make](/post/make/) [its](/post/its/) [nest](/post/nest/)."
+  - 打洞；挖洞：例如 "[The](/zh/post/the/) woodpecker holes [the](/zh/post/the/) [tree](/zh/post/tree/) [to](/zh/post/to/) [make](/zh/post/make/) [its](/zh/post/its/) [nest](/zh/post/nest/)."
 
 ## 短语
-- "[fall](/post/fall/) [through](/post/through/) [the](/post/the/) [hole](/post/hole/)" 意为掉进洞里。
-- "[make](/post/make/) [a](/post/a/) [hole](/post/hole/) [in](/post/in/) [something](/post/something/)" 表示在某物上打洞或造成空洞。
+- "[fall](/zh/post/fall/) [through](/zh/post/through/) [the](/zh/post/the/) [hole](/zh/post/hole/)" 意为掉进洞里。
+- "[make](/zh/post/make/) [a](/zh/post/a/) [hole](/zh/post/hole/) [in](/zh/post/in/) [something](/zh/post/something/)" 表示在某物上打洞或造成空洞。
 
 ## 例句
-- 名词: "[The](/post/the/) golfer aimed [for](/post/for/) [the](/post/the/) flagstick, hoping [to](/post/to/) [land](/post/land/) [the](/post/the/) [ball](/post/ball/) [in](/post/in/) [the](/post/the/) [hole](/post/hole/)."
-- 动词: "[The](/post/the/) [drill](/post/drill/) [can](/post/can/) [hole](/post/hole/) [through](/post/through/) [concrete](/post/concrete/) [easily](/post/easily/)."
-- 缺陷: "[The](/post/the/) [contract](/post/contract/) has [some](/post/some/) [legal](/post/legal/) holes [that](/post/that/) [need](/post/need/) [to](/post/to/) [be](/post/be/) addressed."
+- 名词: "[The](/zh/post/the/) golfer aimed [for](/zh/post/for/) [the](/zh/post/the/) flagstick, hoping [to](/zh/post/to/) [land](/zh/post/land/) [the](/zh/post/the/) [ball](/zh/post/ball/) [in](/zh/post/in/) [the](/zh/post/the/) [hole](/zh/post/hole/)."
+- 动词: "[The](/zh/post/the/) [drill](/zh/post/drill/) [can](/zh/post/can/) [hole](/zh/post/hole/) [through](/zh/post/through/) [concrete](/zh/post/concrete/) [easily](/zh/post/easily/)."
+- 缺陷: "[The](/zh/post/the/) [contract](/zh/post/contract/) has [some](/zh/post/some/) [legal](/zh/post/legal/) holes [that](/zh/post/that/) [need](/zh/post/need/) [to](/zh/post/to/) [be](/zh/post/be/) addressed."
 
 ## 同义词
-- [Gap](/post/gap/)
-- [Opening](/post/opening/)
+- [Gap](/zh/post/gap/)
+- [Opening](/zh/post/opening/)
 - Cavity
 - Puncture
 - Dent

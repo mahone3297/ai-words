@@ -11,16 +11,16 @@ keywords = ['ai words', 'traitor']
 /trəɪˈɔːtər/
 
 ## 释义
-- **名词**: 背叛者；叛徒。例如: "[He](/post/he/) was considered [a](/post/a/) [traitor](/post/traitor/) [for](/post/for/) collaborating [with](/post/with/) [the](/post/the/) [enemy](/post/enemy/)."
-- **形容词**: 表示背叛或不忠的。例如: "[The](/post/the/) traitorous [act](/post/act/) [of](/post/of/) deserting one's [country](/post/country/)."
+- **名词**: 背叛者；叛徒。例如: "[He](/zh/post/he/) was considered [a](/zh/post/a/) [traitor](/zh/post/traitor/) [for](/zh/post/for/) collaborating [with](/zh/post/with/) [the](/zh/post/the/) [enemy](/zh/post/enemy/)."
+- **形容词**: 表示背叛或不忠的。例如: "[The](/zh/post/the/) traitorous [act](/zh/post/act/) [of](/zh/post/of/) deserting one's [country](/zh/post/country/)."
 
 ## 短语
-- "traitorous [behavior](/post/behavior/)" 指的是背叛的行为。
-- "[a](/post/a/) [traitor](/post/traitor/) [to](/post/to/) [the](/post/the/) [cause](/post/cause/)" 指对某个事业或信念的背叛者。
+- "traitorous [behavior](/zh/post/behavior/)" 指的是背叛的行为。
+- "[a](/zh/post/a/) [traitor](/zh/post/traitor/) [to](/zh/post/to/) [the](/zh/post/the/) [cause](/zh/post/cause/)" 指对某个事业或信念的背叛者。
 
 ## 例句
-- 名词: "[The](/post/the/) traitor's [capture](/post/capture/) brought [relief](/post/relief/) [to](/post/to/) [the](/post/the/) citizens."
-- 形容词: "[His](/post/his/) traitorous actions led [to](/post/to/) [the](/post/the/) downfall [of](/post/of/) [the](/post/the/) [rebellion](/post/rebellion/)."
+- 名词: "[The](/zh/post/the/) traitor's [capture](/zh/post/capture/) brought [relief](/zh/post/relief/) [to](/zh/post/to/) [the](/zh/post/the/) citizens."
+- 形容词: "[His](/zh/post/his/) traitorous actions led [to](/zh/post/to/) [the](/zh/post/the/) downfall [of](/zh/post/of/) [the](/zh/post/the/) [rebellion](/zh/post/rebellion/)."
 
 ## 同义词
 - betrayer

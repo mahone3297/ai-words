@@ -7,37 +7,37 @@ description = '[ˈkʌntri] n.国家，国土；农村'
 keywords = ['ai words', 'country']
 +++
 
-## [Word](/en/post/word/): [Country](/en/post/country/)
+## [Word](/post/word/): [Country](/post/country/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkʌntri/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [nation](/en/post/nation/) [with](/en/post/with/) [its](/en/post/its/) [own](/en/post/own/) [government](/en/post/government/), occupying [a](/en/post/a/) [particular](/en/post/particular/) [territory](/en/post/territory/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [land](/en/post/land/) [itself](/en/post/itself/) [or](/en/post/or/) [to](/en/post/to/) [the](/en/post/the/) [people](/en/post/people/) inhabiting [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) moved [from](/en/post/from/) [her](/en/post/her/) [home](/en/post/home/) [country](/en/post/country/) [to](/en/post/to/) [pursue](/en/post/pursue/) higher [education](/en/post/education/)."
-  - "[They](/en/post/they/) explored [the](/en/post/the/) [beautiful](/en/post/beautiful/) [countryside](/en/post/countryside/) dotted [with](/en/post/with/) farms [and](/en/post/and/) [small](/en/post/small/) towns."
-  - "[The](/en/post/the/) country's [culture](/en/post/culture/) is [rich](/en/post/rich/) [in](/en/post/in/) [tradition](/en/post/tradition/) [and](/en/post/and/) [history](/en/post/history/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [nation](/post/nation/) [with](/post/with/) [its](/post/its/) [own](/post/own/) [government](/post/government/), occupying [a](/post/a/) [particular](/post/particular/) [territory](/post/territory/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [land](/post/land/) [itself](/post/itself/) [or](/post/or/) [to](/post/to/) [the](/post/the/) [people](/post/people/) inhabiting [it](/post/it/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) moved [from](/post/from/) [her](/post/her/) [home](/post/home/) [country](/post/country/) [to](/post/to/) [pursue](/post/pursue/) higher [education](/post/education/)."
+  - "[They](/post/they/) explored [the](/post/the/) [beautiful](/post/beautiful/) [countryside](/post/countryside/) dotted [with](/post/with/) farms [and](/post/and/) [small](/post/small/) towns."
+  - "[The](/post/the/) country's [culture](/post/culture/) is [rich](/post/rich/) [in](/post/in/) [tradition](/post/tradition/) [and](/post/and/) [history](/post/history/)."
 
-[Example](/en/post/example/) sentences:
-- **[As](/en/post/as/) [a](/en/post/a/) geographical [area](/en/post/area/)**: "[The](/en/post/the/) country's landscape varies [from](/en/post/from/) rugged mountains [to](/en/post/to/) [vast](/en/post/vast/) plains."
-- **[As](/en/post/as/) [a](/en/post/a/) [political](/en/post/political/) entity**: "[The](/en/post/the/) [new](/en/post/new/) [prime](/en/post/prime/) [minister](/en/post/minister/) promised [to](/en/post/to/) [strengthen](/en/post/strengthen/) [the](/en/post/the/) country's [economy](/en/post/economy/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [reference](/en/post/reference/) [to](/en/post/to/) [people](/en/post/people/)**: "[The](/en/post/the/) country's populace took [to](/en/post/to/) [the](/en/post/the/) streets [in](/en/post/in/) celebration."
+[Example](/post/example/) sentences:
+- **[As](/post/as/) [a](/post/a/) geographical [area](/post/area/)**: "[The](/post/the/) country's landscape varies [from](/post/from/) rugged mountains [to](/post/to/) [vast](/post/vast/) plains."
+- **[As](/post/as/) [a](/post/a/) [political](/post/political/) entity**: "[The](/post/the/) [new](/post/new/) [prime](/post/prime/) [minister](/post/minister/) promised [to](/post/to/) [strengthen](/post/strengthen/) [the](/post/the/) country's [economy](/post/economy/)."
+- **[As](/post/as/) [a](/post/a/) [reference](/post/reference/) [to](/post/to/) [people](/post/people/)**: "[The](/post/the/) country's populace took [to](/post/to/) [the](/post/the/) streets [in](/post/in/) celebration."
 
 ## Phrases
-- "[Mother](/en/post/mother/) [country](/en/post/country/)": [The](/en/post/the/) [original](/en/post/original/) [country](/en/post/country/) [from](/en/post/from/) [which](/en/post/which/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [their](/en/post/their/) ancestors originated.
-- "[In](/en/post/in/) [the](/en/post/the/) [country](/en/post/country/)": [Away](/en/post/away/) [from](/en/post/from/) cities [or](/en/post/or/) towns, typically [in](/en/post/in/) [rural](/en/post/rural/) areas.
-- "[Country](/en/post/country/) [music](/en/post/music/)": [A](/en/post/a/) genre [of](/en/post/of/) [American](/en/post/american/) [popular](/en/post/popular/) [music](/en/post/music/) [with](/en/post/with/) roots [in](/en/post/in/) [Southern](/en/post/southern/) U.S. [folk](/en/post/folk/) [music](/en/post/music/).
+- "[Mother](/post/mother/) [country](/post/country/)": [The](/post/the/) [original](/post/original/) [country](/post/country/) [from](/post/from/) [which](/post/which/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [their](/post/their/) ancestors originated.
+- "[In](/post/in/) [the](/post/the/) [country](/post/country/)": [Away](/post/away/) [from](/post/from/) cities [or](/post/or/) towns, typically [in](/post/in/) [rural](/post/rural/) areas.
+- "[Country](/post/country/) [music](/post/music/)": [A](/post/a/) genre [of](/post/of/) [American](/post/american/) [popular](/post/popular/) [music](/post/music/) [with](/post/with/) roots [in](/post/in/) [Southern](/post/southern/) U.S. [folk](/post/folk/) [music](/post/music/).
 
-## [Example](/en/post/example/) Sentences
-- **Using '[country](/en/post/country/)' [as](/en/post/as/) [a](/en/post/a/) geographical [area](/en/post/area/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [buy](/en/post/buy/) [a](/en/post/a/) [house](/en/post/house/) [in](/en/post/in/) [the](/en/post/the/) [country](/en/post/country/) [where](/en/post/where/) [they](/en/post/they/) [could](/en/post/could/) [enjoy](/en/post/enjoy/) [nature](/en/post/nature/) [more](/en/post/more/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [political](/en/post/political/) entity**: "[He](/en/post/he/) served [his](/en/post/his/) [country](/en/post/country/) [with](/en/post/with/) [distinction](/en/post/distinction/) [during](/en/post/during/) [the](/en/post/the/) [war](/en/post/war/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [collective](/en/post/collective/) [for](/en/post/for/) [the](/en/post/the/) [people](/en/post/people/)**: "[The](/en/post/the/) [country](/en/post/country/) rallied [together](/en/post/together/) [after](/en/post/after/) [the](/en/post/the/) [natural](/en/post/natural/) [disaster](/en/post/disaster/)."
+## [Example](/post/example/) Sentences
+- **Using '[country](/post/country/)' [as](/post/as/) [a](/post/a/) geographical [area](/post/area/)**: "[They](/post/they/) decided [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [house](/post/house/) [in](/post/in/) [the](/post/the/) [country](/post/country/) [where](/post/where/) [they](/post/they/) [could](/post/could/) [enjoy](/post/enjoy/) [nature](/post/nature/) [more](/post/more/)."
+- **[As](/post/as/) [a](/post/a/) [political](/post/political/) entity**: "[He](/post/he/) served [his](/post/his/) [country](/post/country/) [with](/post/with/) [distinction](/post/distinction/) [during](/post/during/) [the](/post/the/) [war](/post/war/)."
+- **[As](/post/as/) [a](/post/a/) [collective](/post/collective/) [for](/post/for/) [the](/post/the/) [people](/post/people/)**: "[The](/post/the/) [country](/post/country/) rallied [together](/post/together/) [after](/post/after/) [the](/post/the/) [natural](/post/natural/) [disaster](/post/disaster/)."
 
 ## Synonyms
-- [Nation](/en/post/nation/)
-- [State](/en/post/state/)
-- [Land](/en/post/land/)
-- [Territory](/en/post/territory/)
+- [Nation](/post/nation/)
+- [State](/post/state/)
+- [Land](/post/land/)
+- [Territory](/post/territory/)
 - Homeland
-- Sovereign [state](/en/post/state/)
+- Sovereign [state](/post/state/)
 - Dominion
-- [Realm](/en/post/realm/)
+- [Realm](/post/realm/)

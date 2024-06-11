@@ -11,23 +11,23 @@ keywords = ['ai words', 'finance']
 /ˈfaɪnəns/
 
 ## 释义
-- **名词**: 财政，金融；资金管理。例如: "[The](/post/the/) company's [finance](/post/finance/) [department](/post/department/) handles [all](/post/all/) [financial](/post/financial/) transactions."
-- **动词**: 为...提供资金；筹措资金。例如: "[The](/post/the/) [government](/post/government/) [will](/post/will/) [finance](/post/finance/) [new](/post/new/) infrastructure projects."
-- **形容词**: 与财务或金融相关的。例如: "[She](/post/she/) has [a](/post/a/) [finance](/post/finance/) [background](/post/background/) [and](/post/and/) specializes [in](/post/in/) corporate investments."
+- **名词**: 财政，金融；资金管理。例如: "[The](/zh/post/the/) company's [finance](/zh/post/finance/) [department](/zh/post/department/) handles [all](/zh/post/all/) [financial](/zh/post/financial/) transactions."
+- **动词**: 为...提供资金；筹措资金。例如: "[The](/zh/post/the/) [government](/zh/post/government/) [will](/zh/post/will/) [finance](/zh/post/finance/) [new](/zh/post/new/) infrastructure projects."
+- **形容词**: 与财务或金融相关的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [finance](/zh/post/finance/) [background](/zh/post/background/) [and](/zh/post/and/) specializes [in](/zh/post/in/) corporate investments."
 
 ## 短语
-- "[Financial](/post/financial/) planning" 指财务规划。
-- "[Finance](/post/finance/) [industry](/post/industry/)" 指金融业。
-- "[Personal](/post/personal/) [finance](/post/finance/)" 指个人理财。
+- "[Financial](/zh/post/financial/) planning" 指财务规划。
+- "[Finance](/zh/post/finance/) [industry](/zh/post/industry/)" 指金融业。
+- "[Personal](/zh/post/personal/) [finance](/zh/post/finance/)" 指个人理财。
 
 ## 例句
-- 名词: "[He](/post/he/) has [a](/post/a/) [degree](/post/degree/) [in](/post/in/) [finance](/post/finance/) [and](/post/and/) works [for](/post/for/) [a](/post/a/) [major](/post/major/) [bank](/post/bank/)."
-- 动词: "[The](/post/the/) startup was [able](/post/able/) [to](/post/to/) [finance](/post/finance/) [its](/post/its/) [growth](/post/growth/) [through](/post/through/) [venture](/post/venture/) [capital](/post/capital/) investments."
-- 形容词: "[The](/post/the/) [finance](/post/finance/) [minister](/post/minister/) presented [the](/post/the/) [annual](/post/annual/) budget [to](/post/to/) [the](/post/the/) [parliament](/post/parliament/)."
+- 名词: "[He](/zh/post/he/) has [a](/zh/post/a/) [degree](/zh/post/degree/) [in](/zh/post/in/) [finance](/zh/post/finance/) [and](/zh/post/and/) works [for](/zh/post/for/) [a](/zh/post/a/) [major](/zh/post/major/) [bank](/zh/post/bank/)."
+- 动词: "[The](/zh/post/the/) startup was [able](/zh/post/able/) [to](/zh/post/to/) [finance](/zh/post/finance/) [its](/zh/post/its/) [growth](/zh/post/growth/) [through](/zh/post/through/) [venture](/zh/post/venture/) [capital](/zh/post/capital/) investments."
+- 形容词: "[The](/zh/post/the/) [finance](/zh/post/finance/) [minister](/zh/post/minister/) presented [the](/zh/post/the/) [annual](/zh/post/annual/) budget [to](/zh/post/to/) [the](/zh/post/the/) [parliament](/zh/post/parliament/)."
 
 ## 同义词
-- [Money](/post/money/) [management](/post/management/)
+- [Money](/zh/post/money/) [management](/zh/post/management/)
 - Accounting
 - Banking
-- [Investment](/post/investment/)
+- [Investment](/zh/post/investment/)
 - Economics

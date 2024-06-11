@@ -7,28 +7,28 @@ description = '[ˈθauzənd] num.千，千个 n.无数'
 keywords = ['ai words', 'thousand']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /thˈauzənd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (countable) [A](/en/post/a/) [large](/en/post/large/) [number](/en/post/number/) representing [a](/en/post/a/) [multiple](/en/post/multiple/) [of](/en/post/of/) 1,000, [usually](/en/post/usually/) denoted [with](/en/post/with/) [the](/en/post/the/) abbreviation 'k'. [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) are thousands [of](/en/post/of/) stars [in](/en/post/in/) [the](/en/post/the/) galaxy."
-- **[Adjective](/en/post/adjective/)**: Designating [a](/en/post/a/) [quantity](/en/post/quantity/) [that](/en/post/that/) is [a](/en/post/a/) [multiple](/en/post/multiple/) [of](/en/post/of/) 1,000. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) [will](/en/post/will/) [require](/en/post/require/) [several](/en/post/several/) [thousand](/en/post/thousand/) dollars."
+- **[Noun](/post/noun/)**: (countable) [A](/post/a/) [large](/post/large/) [number](/post/number/) representing [a](/post/a/) [multiple](/post/multiple/) [of](/post/of/) 1,000, [usually](/post/usually/) denoted [with](/post/with/) [the](/post/the/) abbreviation 'k'. [For](/post/for/) [example](/post/example/): "[There](/post/there/) are thousands [of](/post/of/) stars [in](/post/in/) [the](/post/the/) galaxy."
+- **[Adjective](/post/adjective/)**: Designating [a](/post/a/) [quantity](/post/quantity/) [that](/post/that/) is [a](/post/a/) [multiple](/post/multiple/) [of](/post/of/) 1,000. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) [will](/post/will/) [require](/post/require/) [several](/post/several/) [thousand](/post/thousand/) dollars."
 
 ## Phrases
-- "[A](/en/post/a/) [thousand](/en/post/thousand/) times [over](/en/post/over/)" expresses [emphasis](/en/post/emphasis/) [or](/en/post/or/) [repetition](/en/post/repetition/).
-- "[In](/en/post/in/) [the](/en/post/the/) thousands" indicates [a](/en/post/a/) [very](/en/post/very/) [large](/en/post/large/) [quantity](/en/post/quantity/).
-- "[Ten](/en/post/ten/) [thousand](/en/post/thousand/) miles" is [a](/en/post/a/) [common](/en/post/common/) idiomatic [expression](/en/post/expression/) [for](/en/post/for/) [a](/en/post/a/) [long](/en/post/long/) [distance](/en/post/distance/).
+- "[A](/post/a/) [thousand](/post/thousand/) times [over](/post/over/)" expresses [emphasis](/post/emphasis/) [or](/post/or/) [repetition](/post/repetition/).
+- "[In](/post/in/) [the](/post/the/) thousands" indicates [a](/post/a/) [very](/post/very/) [large](/post/large/) [quantity](/post/quantity/).
+- "[Ten](/post/ten/) [thousand](/post/thousand/) miles" is [a](/post/a/) [common](/post/common/) idiomatic [expression](/post/expression/) [for](/post/for/) [a](/post/a/) [long](/post/long/) [distance](/post/distance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) saved [up](/en/post/up/) [ten](/en/post/ten/) [thousand](/en/post/thousand/) dollars [for](/en/post/for/) [her](/en/post/her/) [dream](/en/post/dream/) [vacation](/en/post/vacation/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) auditorium [can](/en/post/can/) [seat](/en/post/seat/) thousands [of](/en/post/of/) [people](/en/post/people/)."
-- "[There](/en/post/there/) were thousands [of](/en/post/of/) spectators [at](/en/post/at/) [the](/en/post/the/) sports [event](/en/post/event/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) saved [up](/post/up/) [ten](/post/ten/) [thousand](/post/thousand/) dollars [for](/post/for/) [her](/post/her/) [dream](/post/dream/) [vacation](/post/vacation/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) auditorium [can](/post/can/) [seat](/post/seat/) thousands [of](/post/of/) [people](/post/people/)."
+- "[There](/post/there/) were thousands [of](/post/of/) spectators [at](/post/at/) [the](/post/the/) sports [event](/post/event/)."
 
 ## Synonyms
-- [Many](/en/post/many/)
+- [Many](/post/many/)
 - Scores
 - Countless
-- [Numerous](/en/post/numerous/)
-- [Several](/en/post/several/) [thousand](/en/post/thousand/)
+- [Numerous](/post/numerous/)
+- [Several](/post/several/) [thousand](/post/thousand/)
 
-## [Note](/en/post/note/): [Thousand](/en/post/thousand/) is [not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [its](/en/post/its/) [basic](/en/post/basic/) [form](/en/post/form/) [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [compound](/en/post/compound/) verbs [like](/en/post/like/) "thousand-fold [increase](/en/post/increase/)" [or](/en/post/or/) "thousands [of](/en/post/of/)" [when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [quantity](/en/post/quantity/).
+## [Note](/post/note/): [Thousand](/post/thousand/) is [not](/post/not/) typically [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [its](/post/its/) [basic](/post/basic/) [form](/post/form/) [but](/post/but/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [compound](/post/compound/) verbs [like](/post/like/) "thousand-fold [increase](/post/increase/)" [or](/post/or/) "thousands [of](/post/of/)" [when](/post/when/) referring [to](/post/to/) [a](/post/a/) [large](/post/large/) [quantity](/post/quantity/).

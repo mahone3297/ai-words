@@ -7,37 +7,37 @@ description = '[ˈfəutəgrɑːf;(US)-græf] n.照/相片'
 keywords = ['ai words', 'photograph']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfəʊtəgraʊp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [photograph](/en/post/photograph/) is [a](/en/post/a/) **[noun](/en/post/noun/)** [that](/en/post/that/) refers [to](/en/post/to/) [a](/en/post/a/) [still](/en/post/still/) [image](/en/post/image/) captured using [a](/en/post/a/) [camera](/en/post/camera/), typically consisting [of](/en/post/of/) light-sensitive chemicals [on](/en/post/on/) [film](/en/post/film/) [or](/en/post/or/) digitally recorded [on](/en/post/on/) [a](/en/post/a/) [storage](/en/post/storage/) [device](/en/post/device/). [It](/en/post/it/) represents [a](/en/post/a/) [visual](/en/post/visual/) [record](/en/post/record/) [of](/en/post/of/) [a](/en/post/a/) [scene](/en/post/scene/), [person](/en/post/person/), [or](/en/post/or/) [object](/en/post/object/) [at](/en/post/at/) [a](/en/post/a/) [specific](/en/post/specific/) [moment](/en/post/moment/) [in](/en/post/in/) [time](/en/post/time/).
+### [Noun](/post/noun/)
+[A](/post/a/) [photograph](/post/photograph/) is [a](/post/a/) **[noun](/post/noun/)** [that](/post/that/) refers [to](/post/to/) [a](/post/a/) [still](/post/still/) [image](/post/image/) captured using [a](/post/a/) [camera](/post/camera/), typically consisting [of](/post/of/) light-sensitive chemicals [on](/post/on/) [film](/post/film/) [or](/post/or/) digitally recorded [on](/post/on/) [a](/post/a/) [storage](/post/storage/) [device](/post/device/). [It](/post/it/) represents [a](/post/a/) [visual](/post/visual/) [record](/post/record/) [of](/post/of/) [a](/post/a/) [scene](/post/scene/), [person](/post/person/), [or](/post/or/) [object](/post/object/) [at](/post/at/) [a](/post/a/) [specific](/post/specific/) [moment](/post/moment/) [in](/post/in/) [time](/post/time/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [photograph](/en/post/photograph/) is [the](/en/post/the/) **[verb](/en/post/verb/)** [meaning](/en/post/meaning/) [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [photograph](/en/post/photograph/), [capture](/en/post/capture/) [a](/en/post/a/) [picture](/en/post/picture/) using [a](/en/post/a/) [camera](/en/post/camera/) [or](/en/post/or/) [other](/en/post/other/) imaging [device](/en/post/device/).
+### [Verb](/post/verb/)
+[To](/post/to/) [photograph](/post/photograph/) is [the](/post/the/) **[verb](/post/verb/)** [meaning](/post/meaning/) [to](/post/to/) [take](/post/take/) [a](/post/a/) [photograph](/post/photograph/), [capture](/post/capture/) [a](/post/a/) [picture](/post/picture/) using [a](/post/a/) [camera](/post/camera/) [or](/post/or/) [other](/post/other/) imaging [device](/post/device/).
 
-### [Adjective](/en/post/adjective/)
-[Photographic](/en/post/photographic/) is an **[adjective](/en/post/adjective/)** describing [something](/en/post/something/) related [to](/en/post/to/) photography, having [the](/en/post/the/) [appearance](/en/post/appearance/) [or](/en/post/or/) characteristics [of](/en/post/of/) [a](/en/post/a/) [photograph](/en/post/photograph/).
+### [Adjective](/post/adjective/)
+[Photographic](/post/photographic/) is an **[adjective](/post/adjective/)** describing [something](/post/something/) related [to](/post/to/) photography, having [the](/post/the/) [appearance](/post/appearance/) [or](/post/or/) characteristics [of](/post/of/) [a](/post/a/) [photograph](/post/photograph/).
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [photograph](/en/post/photograph/)" [means](/en/post/means/) [to](/en/post/to/) [capture](/en/post/capture/) an [image](/en/post/image/) [with](/en/post/with/) [a](/en/post/a/) [camera](/en/post/camera/).
-- "[Develop](/en/post/develop/) [a](/en/post/a/) [photograph](/en/post/photograph/)" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [turning](/en/post/turning/) [a](/en/post/a/) [negative](/en/post/negative/) [or](/en/post/or/) [digital](/en/post/digital/) [image](/en/post/image/) [into](/en/post/into/) [a](/en/post/a/) [print](/en/post/print/).
-- "[Old](/en/post/old/) photographs" evoke nostalgia [for](/en/post/for/) [past](/en/post/past/) times.
+- "[Take](/post/take/) [a](/post/a/) [photograph](/post/photograph/)" [means](/post/means/) [to](/post/to/) [capture](/post/capture/) an [image](/post/image/) [with](/post/with/) [a](/post/a/) [camera](/post/camera/).
+- "[Develop](/post/develop/) [a](/post/a/) [photograph](/post/photograph/)" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) [turning](/post/turning/) [a](/post/a/) [negative](/post/negative/) [or](/post/or/) [digital](/post/digital/) [image](/post/image/) [into](/post/into/) [a](/post/a/) [print](/post/print/).
+- "[Old](/post/old/) photographs" evoke nostalgia [for](/post/for/) [past](/post/past/) times.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) displayed [her](/en/post/her/) [collection](/en/post/collection/) [of](/en/post/of/) vintage photographs [in](/en/post/in/) [the](/en/post/the/) [gallery](/en/post/gallery/)."
-- **[Verb](/en/post/verb/)**: "I'm going [to](/en/post/to/) [photograph](/en/post/photograph/) [the](/en/post/the/) [sunset](/en/post/sunset/) [tonight](/en/post/tonight/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [room](/en/post/room/) had [a](/en/post/a/) [photographic](/en/post/photographic/) [memory](/en/post/memory/) [of](/en/post/of/) [their](/en/post/their/) [childhood](/en/post/childhood/) [vacation](/en/post/vacation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) displayed [her](/post/her/) [collection](/post/collection/) [of](/post/of/) vintage photographs [in](/post/in/) [the](/post/the/) [gallery](/post/gallery/)."
+- **[Verb](/post/verb/)**: "I'm going [to](/post/to/) [photograph](/post/photograph/) [the](/post/the/) [sunset](/post/sunset/) [tonight](/post/tonight/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [room](/post/room/) had [a](/post/a/) [photographic](/post/photographic/) [memory](/post/memory/) [of](/post/of/) [their](/post/their/) [childhood](/post/childhood/) [vacation](/post/vacation/)."
 
 ## Synonyms
-- [Picture](/en/post/picture/)
+- [Picture](/post/picture/)
 - Snapshot
-- [Image](/en/post/image/)
+- [Image](/post/image/)
 - Portraiture
-- [Shot](/en/post/shot/)
+- [Shot](/post/shot/)
 
 ## Antonyms
 - Blurry
 - Outdated
-- Unseen ([as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) non-existent [photograph](/en/post/photograph/))
+- Unseen ([as](/post/as/) [in](/post/in/) [a](/post/a/) non-existent [photograph](/post/photograph/))

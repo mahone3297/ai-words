@@ -7,35 +7,35 @@ description = '[ˈriːsəntli] ad.最近，新近'
 keywords = ['ai words', 'recently']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /reɪsntlɪ/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Referring [to](/en/post/to/) [a](/en/post/a/) [time](/en/post/time/) [or](/en/post/or/) [period](/en/post/period/) [not](/en/post/not/) [long](/en/post/long/) [ago](/en/post/ago/), [lately](/en/post/lately/), [or](/en/post/or/) [recently](/en/post/recently/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [modify](/en/post/modify/) verbs, indicating [that](/en/post/that/) an [action](/en/post/action/) occurred [recently](/en/post/recently/). [For](/en/post/for/) [example](/en/post/example/): "I've been working [recently](/en/post/recently/) [on](/en/post/on/) [a](/en/post/a/) [new](/en/post/new/) [project](/en/post/project/)."
+- **[Adverb](/post/adverb/)**: Referring [to](/post/to/) [a](/post/a/) [time](/post/time/) [or](/post/or/) [period](/post/period/) [not](/post/not/) [long](/post/long/) [ago](/post/ago/), [lately](/post/lately/), [or](/post/or/) [recently](/post/recently/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [modify](/post/modify/) verbs, indicating [that](/post/that/) an [action](/post/action/) occurred [recently](/post/recently/). [For](/post/for/) [example](/post/example/): "I've been working [recently](/post/recently/) [on](/post/on/) [a](/post/a/) [new](/post/new/) [project](/post/project/)."
 
 ## Phrases
-- "[Recently](/en/post/recently/), there's been [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [change](/en/post/change/)."
-- "She's been traveling [recently](/en/post/recently/)."
-- "[The](/en/post/the/) [weather](/en/post/weather/) has been [unusually](/en/post/unusually/) [warm](/en/post/warm/) [recently](/en/post/recently/)."
+- "[Recently](/post/recently/), there's been [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [change](/post/change/)."
+- "She's been traveling [recently](/post/recently/)."
+- "[The](/post/the/) [weather](/post/weather/) has been [unusually](/post/unusually/) [warm](/post/warm/) [recently](/post/recently/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/) modifying [verb](/en/post/verb/)**: "I haven't seen [her](/en/post/her/) [recently](/en/post/recently/), [so](/en/post/so/) I'm surprised [to](/en/post/to/) [find](/en/post/find/) [her](/en/post/her/) [here](/en/post/here/)."
-- "He's been working [out](/en/post/out/) [recently](/en/post/recently/), [which](/en/post/which/) has [really](/en/post/really/) improved [his](/en/post/his/) fitness."
-- "[The](/en/post/the/) [company](/en/post/company/) has [recently](/en/post/recently/) launched [a](/en/post/a/) [new](/en/post/new/) [product](/en/post/product/) [line](/en/post/line/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/) modifying [verb](/post/verb/)**: "I haven't seen [her](/post/her/) [recently](/post/recently/), [so](/post/so/) I'm surprised [to](/post/to/) [find](/post/find/) [her](/post/her/) [here](/post/here/)."
+- "He's been working [out](/post/out/) [recently](/post/recently/), [which](/post/which/) has [really](/post/really/) improved [his](/post/his/) fitness."
+- "[The](/post/the/) [company](/post/company/) has [recently](/post/recently/) launched [a](/post/a/) [new](/post/new/) [product](/post/product/) [line](/post/line/)."
 
 ## Synonyms
-- [Lately](/en/post/lately/)
-- [Just](/en/post/just/) [now](/en/post/now/)
-- [Not](/en/post/not/) [long](/en/post/long/) [ago](/en/post/ago/)
-- [Recently](/en/post/recently/) [past](/en/post/past/)
+- [Lately](/post/lately/)
+- [Just](/post/just/) [now](/post/now/)
+- [Not](/post/not/) [long](/post/long/) [ago](/post/ago/)
+- [Recently](/post/recently/) [past](/post/past/)
 - Up-to-the-minute
-- [Presently](/en/post/presently/)
-- [Late](/en/post/late/)
+- [Presently](/post/presently/)
+- [Late](/post/late/)
 - Freshly
 
 ## Antonyms
 - Earlier
-- [Previously](/en/post/previously/)
-- [Long](/en/post/long/) [ago](/en/post/ago/)
+- [Previously](/post/previously/)
+- [Long](/post/long/) [ago](/post/ago/)
 - Historically
-- [Once](/en/post/once/) [upon](/en/post/upon/) [a](/en/post/a/) [time](/en/post/time/)
+- [Once](/post/once/) [upon](/post/upon/) [a](/post/a/) [time](/post/time/)

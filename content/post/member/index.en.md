@@ -7,33 +7,33 @@ description = '[ˈmembə] n.成员，会员'
 keywords = ['ai words', 'member']
 +++
 
-## [Word](/en/post/word/): [Member](/en/post/member/)
+## [Word](/post/word/): [Member](/post/member/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmembər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) belongs [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [organization](/en/post/organization/); [a](/en/post/a/) constituent [part](/en/post/part/) [or](/en/post/or/) [element](/en/post/element/) [of](/en/post/of/) [something](/en/post/something/) larger. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is an [active](/en/post/active/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) [local](/en/post/local/) [book](/en/post/book/) [club](/en/post/club/)."
-- **[Noun](/en/post/noun/)**: [In](/en/post/in/) anatomy, [a](/en/post/a/) [limb](/en/post/limb/) [or](/en/post/or/) [organ](/en/post/organ/) [that](/en/post/that/) is [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [body](/en/post/body/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [leg](/en/post/leg/) is [a](/en/post/a/) [lower](/en/post/lower/) [limb](/en/post/limb/) [member](/en/post/member/)."
-- **[Noun](/en/post/noun/)**: [In](/en/post/in/) [mathematics](/en/post/mathematics/) [or](/en/post/or/) [logic](/en/post/logic/), an [element](/en/post/element/) [of](/en/post/of/) [a](/en/post/a/) [set](/en/post/set/) [or](/en/post/or/) [class](/en/post/class/). [Example](/en/post/example/): "[Each](/en/post/each/) [number](/en/post/number/) [in](/en/post/in/) [the](/en/post/the/) [sequence](/en/post/sequence/) is [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) [set](/en/post/set/) [of](/en/post/of/) [real](/en/post/real/) numbers."
-- **[Verb](/en/post/verb/) ([used](/en/post/used/) [with](/en/post/with/) '[be](/en/post/be/)')**: [To](/en/post/to/) [belong](/en/post/belong/) [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/), [organization](/en/post/organization/), [or](/en/post/or/) category. [Example](/en/post/example/): "[He](/en/post/he/) is [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) [Senate](/en/post/senate/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) belongs [to](/post/to/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [organization](/post/organization/); [a](/post/a/) constituent [part](/post/part/) [or](/post/or/) [element](/post/element/) [of](/post/of/) [something](/post/something/) larger. [For](/post/for/) [example](/post/example/): "[She](/post/she/) is an [active](/post/active/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [local](/post/local/) [book](/post/book/) [club](/post/club/)."
+- **[Noun](/post/noun/)**: [In](/post/in/) anatomy, [a](/post/a/) [limb](/post/limb/) [or](/post/or/) [organ](/post/organ/) [that](/post/that/) is [part](/post/part/) [of](/post/of/) [the](/post/the/) [body](/post/body/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [leg](/post/leg/) is [a](/post/a/) [lower](/post/lower/) [limb](/post/limb/) [member](/post/member/)."
+- **[Noun](/post/noun/)**: [In](/post/in/) [mathematics](/post/mathematics/) [or](/post/or/) [logic](/post/logic/), an [element](/post/element/) [of](/post/of/) [a](/post/a/) [set](/post/set/) [or](/post/or/) [class](/post/class/). [Example](/post/example/): "[Each](/post/each/) [number](/post/number/) [in](/post/in/) [the](/post/the/) [sequence](/post/sequence/) is [a](/post/a/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [set](/post/set/) [of](/post/of/) [real](/post/real/) numbers."
+- **[Verb](/post/verb/) ([used](/post/used/) [with](/post/with/) '[be](/post/be/)')**: [To](/post/to/) [belong](/post/belong/) [to](/post/to/) [a](/post/a/) [group](/post/group/), [organization](/post/organization/), [or](/post/or/) category. [Example](/post/example/): "[He](/post/he/) is [a](/post/a/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [Senate](/post/senate/)."
 
 ## Phrases
-- "[Full](/en/post/full/) [member](/en/post/member/)": [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [full](/en/post/full/) rights [and](/en/post/and/) privileges [within](/en/post/within/) [a](/en/post/a/) [group](/en/post/group/).
-- "Honorary [member](/en/post/member/)": [A](/en/post/a/) [title](/en/post/title/) given [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is [not](/en/post/not/) [a](/en/post/a/) [regular](/en/post/regular/) [member](/en/post/member/) [but](/en/post/but/) is recognized [for](/en/post/for/) [their](/en/post/their/) contributions.
-- "Membership dues": [The](/en/post/the/) fees paid [by](/en/post/by/) members [to](/en/post/to/) [join](/en/post/join/) [or](/en/post/or/) [maintain](/en/post/maintain/) [their](/en/post/their/) [status](/en/post/status/) [in](/en/post/in/) [a](/en/post/a/) [club](/en/post/club/) [or](/en/post/or/) [organization](/en/post/organization/).
-- "[Member](/en/post/member/) [state](/en/post/state/)/[country](/en/post/country/)": [A](/en/post/a/) [nation](/en/post/nation/) [that](/en/post/that/) is [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) larger [organization](/en/post/organization/) [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) European [Union](/en/post/union/).
+- "[Full](/post/full/) [member](/post/member/)": [A](/post/a/) [person](/post/person/) [who](/post/who/) has [full](/post/full/) rights [and](/post/and/) privileges [within](/post/within/) [a](/post/a/) [group](/post/group/).
+- "Honorary [member](/post/member/)": [A](/post/a/) [title](/post/title/) given [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is [not](/post/not/) [a](/post/a/) [regular](/post/regular/) [member](/post/member/) [but](/post/but/) is recognized [for](/post/for/) [their](/post/their/) contributions.
+- "Membership dues": [The](/post/the/) fees paid [by](/post/by/) members [to](/post/to/) [join](/post/join/) [or](/post/or/) [maintain](/post/maintain/) [their](/post/their/) [status](/post/status/) [in](/post/in/) [a](/post/a/) [club](/post/club/) [or](/post/or/) [organization](/post/organization/).
+- "[Member](/post/member/) [state](/post/state/)/[country](/post/country/)": [A](/post/a/) [nation](/post/nation/) [that](/post/that/) is [part](/post/part/) [of](/post/of/) [a](/post/a/) larger [organization](/post/organization/) [such](/post/such/) [as](/post/as/) [the](/post/the/) European [Union](/post/union/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([organization](/en/post/organization/))**: "[As](/en/post/as/) [a](/en/post/a/) [new](/en/post/new/) [member](/en/post/member/), [he](/en/post/he/) attended [his](/en/post/his/) [first](/en/post/first/) [meeting](/en/post/meeting/) [of](/en/post/of/) [the](/en/post/the/) [chess](/en/post/chess/) [club](/en/post/club/)."
-- **[Noun](/en/post/noun/) (anatomy)**: "[The](/en/post/the/) injured [member](/en/post/member/) required [immediate](/en/post/immediate/) [medical](/en/post/medical/) [attention](/en/post/attention/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) has been [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) choir [since](/en/post/since/) [childhood](/en/post/childhood/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([organization](/post/organization/))**: "[As](/post/as/) [a](/post/a/) [new](/post/new/) [member](/post/member/), [he](/post/he/) attended [his](/post/his/) [first](/post/first/) [meeting](/post/meeting/) [of](/post/of/) [the](/post/the/) [chess](/post/chess/) [club](/post/club/)."
+- **[Noun](/post/noun/) (anatomy)**: "[The](/post/the/) injured [member](/post/member/) required [immediate](/post/immediate/) [medical](/post/medical/) [attention](/post/attention/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) has been [a](/post/a/) [member](/post/member/) [of](/post/of/) [the](/post/the/) choir [since](/post/since/) [childhood](/post/childhood/)."
 
 ## Synonyms
 - Affiliate
-- [Associate](/en/post/associate/)
+- [Associate](/post/associate/)
 - Participant
 - Constituent
-- [Component](/en/post/component/)
-- [Member](/en/post/member/) [of](/en/post/of/) [staff](/en/post/staff/) ([in](/en/post/in/) an organizational context)
-- [Limb](/en/post/limb/) ([in](/en/post/in/) an anatomical context)
+- [Component](/post/component/)
+- [Member](/post/member/) [of](/post/of/) [staff](/post/staff/) ([in](/post/in/) an organizational context)
+- [Limb](/post/limb/) ([in](/post/in/) an anatomical context)

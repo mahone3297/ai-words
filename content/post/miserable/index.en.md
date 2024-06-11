@@ -7,40 +7,40 @@ description = '[ˈmizərəbl] a.痛苦的，悲惨的'
 keywords = ['ai words', 'miserable']
 +++
 
-## [Word](/en/post/word/): [Miserable](/en/post/miserable/)
+## [Word](/post/word/): [Miserable](/post/miserable/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɪzərəbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (Adj) Experiencing [extreme](/en/post/extreme/) unhappiness, discomfort, [or](/en/post/or/) [poverty](/en/post/poverty/); wretched [or](/en/post/or/) [unhappy](/en/post/unhappy/). [Example](/en/post/example/): "[She](/en/post/she/) felt [miserable](/en/post/miserable/) [after](/en/post/after/) [her](/en/post/her/) breakup."
-  - *[Physical](/en/post/physical/) [state](/en/post/state/)*: Describing [someone](/en/post/someone/) [who](/en/post/who/) is suffering [from](/en/post/from/) [physical](/en/post/physical/) discomfort [or](/en/post/or/) [pain](/en/post/pain/). [Example](/en/post/example/): "[He](/en/post/he/) was miserably [cold](/en/post/cold/) [without](/en/post/without/) [a](/en/post/a/) [coat](/en/post/coat/)."
-  - *[Emotional](/en/post/emotional/) [state](/en/post/state/)*: Characterizing [a](/en/post/a/) person's [deep](/en/post/deep/) [emotional](/en/post/emotional/) [distress](/en/post/distress/) [or](/en/post/or/) dissatisfaction. [Example](/en/post/example/): "[Her](/en/post/her/) [life](/en/post/life/) had [become](/en/post/become/) [miserable](/en/post/miserable/) [due](/en/post/due/) [to](/en/post/to/) [constant](/en/post/constant/) [stress](/en/post/stress/) [at](/en/post/at/) [work](/en/post/work/)."
-  - *Conditions*: Referring [to](/en/post/to/) conditions [that](/en/post/that/) are [very](/en/post/very/) [poor](/en/post/poor/) [or](/en/post/or/) [unpleasant](/en/post/unpleasant/). [Example](/en/post/example/): "[The](/en/post/the/) [living](/en/post/living/) conditions were [absolutely](/en/post/absolutely/) [miserable](/en/post/miserable/) [in](/en/post/in/) [the](/en/post/the/) slums."
+- **[Adjective](/post/adjective/)**: (Adj) Experiencing [extreme](/post/extreme/) unhappiness, discomfort, [or](/post/or/) [poverty](/post/poverty/); wretched [or](/post/or/) [unhappy](/post/unhappy/). [Example](/post/example/): "[She](/post/she/) felt [miserable](/post/miserable/) [after](/post/after/) [her](/post/her/) breakup."
+  - *[Physical](/post/physical/) [state](/post/state/)*: Describing [someone](/post/someone/) [who](/post/who/) is suffering [from](/post/from/) [physical](/post/physical/) discomfort [or](/post/or/) [pain](/post/pain/). [Example](/post/example/): "[He](/post/he/) was miserably [cold](/post/cold/) [without](/post/without/) [a](/post/a/) [coat](/post/coat/)."
+  - *[Emotional](/post/emotional/) [state](/post/state/)*: Characterizing [a](/post/a/) person's [deep](/post/deep/) [emotional](/post/emotional/) [distress](/post/distress/) [or](/post/or/) dissatisfaction. [Example](/post/example/): "[Her](/post/her/) [life](/post/life/) had [become](/post/become/) [miserable](/post/miserable/) [due](/post/due/) [to](/post/to/) [constant](/post/constant/) [stress](/post/stress/) [at](/post/at/) [work](/post/work/)."
+  - *Conditions*: Referring [to](/post/to/) conditions [that](/post/that/) are [very](/post/very/) [poor](/post/poor/) [or](/post/or/) [unpleasant](/post/unpleasant/). [Example](/post/example/): "[The](/post/the/) [living](/post/living/) conditions were [absolutely](/post/absolutely/) [miserable](/post/miserable/) [in](/post/in/) [the](/post/the/) slums."
 
 ## Phrases
-- "[Lead](/en/post/lead/) [a](/en/post/a/) [miserable](/en/post/miserable/) [existence](/en/post/existence/)": [This](/en/post/this/) [means](/en/post/means/) [to](/en/post/to/) [live](/en/post/live/) [a](/en/post/a/) [life](/en/post/life/) filled [with](/en/post/with/) [hardship](/en/post/hardship/) [and](/en/post/and/) unhappiness.
-- "[Miserable](/en/post/miserable/) [failure](/en/post/failure/)": [A](/en/post/a/) [complete](/en/post/complete/) [and](/en/post/and/) [utter](/en/post/utter/) [failure](/en/post/failure/), [often](/en/post/often/) [used](/en/post/used/) hyperbolically.
-- "[A](/en/post/a/) [miserable](/en/post/miserable/) [day](/en/post/day/)": [A](/en/post/a/) [day](/en/post/day/) characterized [by](/en/post/by/) gloominess, [rain](/en/post/rain/), [or](/en/post/or/) [other](/en/post/other/) disagreeable circumstances.
+- "[Lead](/post/lead/) [a](/post/a/) [miserable](/post/miserable/) [existence](/post/existence/)": [This](/post/this/) [means](/post/means/) [to](/post/to/) [live](/post/live/) [a](/post/a/) [life](/post/life/) filled [with](/post/with/) [hardship](/post/hardship/) [and](/post/and/) unhappiness.
+- "[Miserable](/post/miserable/) [failure](/post/failure/)": [A](/post/a/) [complete](/post/complete/) [and](/post/and/) [utter](/post/utter/) [failure](/post/failure/), [often](/post/often/) [used](/post/used/) hyperbolically.
+- "[A](/post/a/) [miserable](/post/miserable/) [day](/post/day/)": [A](/post/a/) [day](/post/day/) characterized [by](/post/by/) gloominess, [rain](/post/rain/), [or](/post/or/) [other](/post/other/) disagreeable circumstances.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) ([emotional](/en/post/emotional/))**: "[After](/en/post/after/) [his](/en/post/his/) [best](/en/post/best/) [friend](/en/post/friend/) moved [away](/en/post/away/), [he](/en/post/he/) felt [completely](/en/post/completely/) [miserable](/en/post/miserable/)."
-- **[Adjective](/en/post/adjective/) ([physical](/en/post/physical/))**: "[The](/en/post/the/) hiker looked [miserable](/en/post/miserable/), drenched [to](/en/post/to/) [the](/en/post/the/) [bone](/en/post/bone/) [from](/en/post/from/) [the](/en/post/the/) [heavy](/en/post/heavy/) [rain](/en/post/rain/)."
-- **[Adjective](/en/post/adjective/) (conditions)**: "[The](/en/post/the/) [apartment](/en/post/apartment/) was [small](/en/post/small/), [dark](/en/post/dark/), [and](/en/post/and/) miserably [hot](/en/post/hot/) [during](/en/post/during/) [summer](/en/post/summer/) months."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) ([emotional](/post/emotional/))**: "[After](/post/after/) [his](/post/his/) [best](/post/best/) [friend](/post/friend/) moved [away](/post/away/), [he](/post/he/) felt [completely](/post/completely/) [miserable](/post/miserable/)."
+- **[Adjective](/post/adjective/) ([physical](/post/physical/))**: "[The](/post/the/) hiker looked [miserable](/post/miserable/), drenched [to](/post/to/) [the](/post/the/) [bone](/post/bone/) [from](/post/from/) [the](/post/the/) [heavy](/post/heavy/) [rain](/post/rain/)."
+- **[Adjective](/post/adjective/) (conditions)**: "[The](/post/the/) [apartment](/post/apartment/) was [small](/post/small/), [dark](/post/dark/), [and](/post/and/) miserably [hot](/post/hot/) [during](/post/during/) [summer](/post/summer/) months."
 
 ## Synonyms
 - Wretched
-- [Unhappy](/en/post/unhappy/)
+- [Unhappy](/post/unhappy/)
 - Discontented
 - Suffering
-- [Sad](/en/post/sad/)
-- [Gloomy](/en/post/gloomy/)
+- [Sad](/post/sad/)
+- [Gloomy](/post/gloomy/)
 - Depressed
-- [Desperate](/en/post/desperate/)
+- [Desperate](/post/desperate/)
 - Pitiful
 - Tormented
 - Agonized
-- [Uncomfortable](/en/post/uncomfortable/)
+- [Uncomfortable](/post/uncomfortable/)
 - Dejected
 - Distressed
 - Harassed

@@ -11,21 +11,21 @@ keywords = ['ai words', 'contest']
 /ˈkɑːntest/
 
 ## 释义
-- **名词**: 竞赛，比赛。例如: "[The](/post/the/) [school](/post/school/) is holding an [art](/post/art/) [contest](/post/contest/) [next](/post/next/) [week](/post/week/)."
-- **动词**: 参加竞赛；竞争。例如: "[Several](/post/several/) teams [will](/post/will/) [contest](/post/contest/) [the](/post/the/) championship [title](/post/title/)."
+- **名词**: 竞赛，比赛。例如: "[The](/zh/post/the/) [school](/zh/post/school/) is holding an [art](/zh/post/art/) [contest](/zh/post/contest/) [next](/zh/post/next/) [week](/zh/post/week/)."
+- **动词**: 参加竞赛；竞争。例如: "[Several](/zh/post/several/) teams [will](/zh/post/will/) [contest](/zh/post/contest/) [the](/zh/post/the/) championship [title](/zh/post/title/)."
 
 ## 短语
-- "[Win](/post/win/) [the](/post/the/) [contest](/post/contest/)" 赢得比赛。
-- "[Enter](/post/enter/) [a](/post/a/) [contest](/post/contest/)" 参加比赛。
-- "[Contest](/post/contest/) [the](/post/the/) results" 对结果提出异议。
+- "[Win](/zh/post/win/) [the](/zh/post/the/) [contest](/zh/post/contest/)" 赢得比赛。
+- "[Enter](/zh/post/enter/) [a](/zh/post/a/) [contest](/zh/post/contest/)" 参加比赛。
+- "[Contest](/zh/post/contest/) [the](/zh/post/the/) results" 对结果提出异议。
 
 ## 例句
-- 名词: "[She](/post/she/) was thrilled [to](/post/to/) [win](/post/win/) [the](/post/the/) [poetry](/post/poetry/) [contest](/post/contest/)."
-- 动词: "[They](/post/they/) decided [to](/post/to/) [contest](/post/contest/) [the](/post/the/) [election](/post/election/) [for](/post/for/) [the](/post/the/) [student](/post/student/) [council](/post/council/) presidency."
+- 名词: "[She](/zh/post/she/) was thrilled [to](/zh/post/to/) [win](/zh/post/win/) [the](/zh/post/the/) [poetry](/zh/post/poetry/) [contest](/zh/post/contest/)."
+- 动词: "[They](/zh/post/they/) decided [to](/zh/post/to/) [contest](/zh/post/contest/) [the](/zh/post/the/) [election](/zh/post/election/) [for](/zh/post/for/) [the](/zh/post/the/) [student](/zh/post/student/) [council](/zh/post/council/) presidency."
   
 ## 同义词
-- [Competition](/post/competition/)
+- [Competition](/zh/post/competition/)
 - Rivalry
 - Tournament
-- [Match](/post/match/)
+- [Match](/zh/post/match/)
 - Showdown

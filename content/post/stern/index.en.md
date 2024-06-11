@@ -7,37 +7,37 @@ description = '[stəːn] a.严厉的；坚定的'
 keywords = ['ai words', 'stern']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stɜrn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [The](/en/post/the/) [rear](/en/post/rear/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [ship](/en/post/ship/) [or](/en/post/or/) [boat](/en/post/boat/), [especially](/en/post/especially/) [the](/en/post/the/) [part](/en/post/part/) [below](/en/post/below/) [the](/en/post/the/) [deck](/en/post/deck/): *[The](/en/post/the/) ship's [stern](/en/post/stern/) was elegantly designed.*
-- **2.** (informal) [A](/en/post/a/) [strict](/en/post/strict/) [or](/en/post/or/) [severe](/en/post/severe/) [attitude](/en/post/attitude/) [or](/en/post/or/) [manner](/en/post/manner/): *[She](/en/post/she/) had [a](/en/post/a/) no-nonsense [stern](/en/post/stern/) demeanor.*
-- **3.** (figurative) [The](/en/post/the/) [direction](/en/post/direction/) [or](/en/post/or/) [focus](/en/post/focus/) [of](/en/post/of/) one's [authority](/en/post/authority/) [or](/en/post/or/) [control](/en/post/control/): *[The](/en/post/the/) [captain](/en/post/captain/) took [command](/en/post/command/) [from](/en/post/from/) [the](/en/post/the/) [stern](/en/post/stern/) [of](/en/post/of/) [the](/en/post/the/) [situation](/en/post/situation/).*
+### [Noun](/post/noun/)
+- **1.** [The](/post/the/) [rear](/post/rear/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [ship](/post/ship/) [or](/post/or/) [boat](/post/boat/), [especially](/post/especially/) [the](/post/the/) [part](/post/part/) [below](/post/below/) [the](/post/the/) [deck](/post/deck/): *[The](/post/the/) ship's [stern](/post/stern/) was elegantly designed.*
+- **2.** (informal) [A](/post/a/) [strict](/post/strict/) [or](/post/or/) [severe](/post/severe/) [attitude](/post/attitude/) [or](/post/or/) [manner](/post/manner/): *[She](/post/she/) had [a](/post/a/) no-nonsense [stern](/post/stern/) demeanor.*
+- **3.** (figurative) [The](/post/the/) [direction](/post/direction/) [or](/post/or/) [focus](/post/focus/) [of](/post/of/) one's [authority](/post/authority/) [or](/post/or/) [control](/post/control/): *[The](/post/the/) [captain](/post/captain/) took [command](/post/command/) [from](/post/from/) [the](/post/the/) [stern](/post/stern/) [of](/post/of/) [the](/post/the/) [situation](/post/situation/).*
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [stern](/en/post/stern/)**: [To](/en/post/to/) [direct](/en/post/direct/) [or](/en/post/or/) [guide](/en/post/guide/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [with](/en/post/with/) [authority](/en/post/authority/) [or](/en/post/or/) severity; [to](/en/post/to/) [enforce](/en/post/enforce/) [discipline](/en/post/discipline/): *[The](/en/post/the/) [teacher](/en/post/teacher/) sternly corrected [the](/en/post/the/) students' [behavior](/en/post/behavior/).*
+### [Verb](/post/verb/)
+- **[To](/post/to/) [stern](/post/stern/)**: [To](/post/to/) [direct](/post/direct/) [or](/post/or/) [guide](/post/guide/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [with](/post/with/) [authority](/post/authority/) [or](/post/or/) severity; [to](/post/to/) [enforce](/post/enforce/) [discipline](/post/discipline/): *[The](/post/the/) [teacher](/post/teacher/) sternly corrected [the](/post/the/) students' [behavior](/post/behavior/).*
 
-### [Adjective](/en/post/adjective/)
-- **[Stiff](/en/post/stiff/)**: Having [a](/en/post/a/) [firm](/en/post/firm/), unyielding [quality](/en/post/quality/); [strict](/en/post/strict/) [or](/en/post/or/) [severe](/en/post/severe/): *[A](/en/post/a/) [stern](/en/post/stern/) disciplinarian.*
-- **Impenetrable**: Unyielding [or](/en/post/or/) unapproachable; [difficult](/en/post/difficult/) [to](/en/post/to/) [penetrate](/en/post/penetrate/) [or](/en/post/or/) [understand](/en/post/understand/): *[The](/en/post/the/) professor's [stern](/en/post/stern/) [gaze](/en/post/gaze/) was impenetrable.*
+### [Adjective](/post/adjective/)
+- **[Stiff](/post/stiff/)**: Having [a](/post/a/) [firm](/post/firm/), unyielding [quality](/post/quality/); [strict](/post/strict/) [or](/post/or/) [severe](/post/severe/): *[A](/post/a/) [stern](/post/stern/) disciplinarian.*
+- **Impenetrable**: Unyielding [or](/post/or/) unapproachable; [difficult](/post/difficult/) [to](/post/to/) [penetrate](/post/penetrate/) [or](/post/or/) [understand](/post/understand/): *[The](/post/the/) professor's [stern](/post/stern/) [gaze](/post/gaze/) was impenetrable.*
 
 ## Phrases
-- "[Keep](/en/post/keep/) [to](/en/post/to/) [the](/en/post/the/) [stern](/en/post/stern/)" [means](/en/post/means/) [to](/en/post/to/) [stay](/en/post/stay/) [on](/en/post/on/) [course](/en/post/course/) [or](/en/post/or/) [maintain](/en/post/maintain/) [focus](/en/post/focus/).
-- "[Deal](/en/post/deal/) [with](/en/post/with/) matters sternly" implies [a](/en/post/a/) [serious](/en/post/serious/) [and](/en/post/and/) [strict](/en/post/strict/) [approach](/en/post/approach/).
-- "[Stern](/en/post/stern/) warning" signifies [a](/en/post/a/) [strong](/en/post/strong/), authoritative caution.
+- "[Keep](/post/keep/) [to](/post/to/) [the](/post/the/) [stern](/post/stern/)" [means](/post/means/) [to](/post/to/) [stay](/post/stay/) [on](/post/on/) [course](/post/course/) [or](/post/or/) [maintain](/post/maintain/) [focus](/post/focus/).
+- "[Deal](/post/deal/) [with](/post/with/) matters sternly" implies [a](/post/a/) [serious](/post/serious/) [and](/post/and/) [strict](/post/strict/) [approach](/post/approach/).
+- "[Stern](/post/stern/) warning" signifies [a](/post/a/) [strong](/post/strong/), authoritative caution.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sailor](/en/post/sailor/) grasped [the](/en/post/the/) tiller, guiding [the](/en/post/the/) ship's [stern](/en/post/stern/) [through](/en/post/through/) [the](/en/post/the/) [stormy](/en/post/stormy/) waters."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [captain](/en/post/captain/) sternly instructed [the](/en/post/the/) [crew](/en/post/crew/) [to](/en/post/to/) [follow](/en/post/follow/) [safety](/en/post/safety/) protocols."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [stern](/en/post/stern/) [expression](/en/post/expression/) indicated [that](/en/post/that/) [there](/en/post/there/) [would](/en/post/would/) [be](/en/post/be/) [no](/en/post/no/) leniency [for](/en/post/for/) tardiness."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sailor](/post/sailor/) grasped [the](/post/the/) tiller, guiding [the](/post/the/) ship's [stern](/post/stern/) [through](/post/through/) [the](/post/the/) [stormy](/post/stormy/) waters."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [captain](/post/captain/) sternly instructed [the](/post/the/) [crew](/post/crew/) [to](/post/to/) [follow](/post/follow/) [safety](/post/safety/) protocols."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [stern](/post/stern/) [expression](/post/expression/) indicated [that](/post/that/) [there](/post/there/) [would](/post/would/) [be](/post/be/) [no](/post/no/) leniency [for](/post/for/) tardiness."
 
 ## Synonyms
-- [Strict](/en/post/strict/)
-- [Severe](/en/post/severe/)
-- [Rigid](/en/post/rigid/)
+- [Strict](/post/strict/)
+- [Severe](/post/severe/)
+- [Rigid](/post/rigid/)
 -严峻
 - Authoritative
-- [Firm](/en/post/firm/)
+- [Firm](/post/firm/)
 - Uncompromising

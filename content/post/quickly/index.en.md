@@ -7,25 +7,25 @@ description = '[ˈkwikli] ad.快，迅速'
 keywords = ['ai words', 'quickly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkwɪkli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Characterizing [or](/en/post/or/) describing [the](/en/post/the/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) an [action](/en/post/action/) is performed. [It](/en/post/it/) indicates [speed](/en/post/speed/) [or](/en/post/or/) rapidity.
-- **[Adjective](/en/post/adjective/)**: [Fast](/en/post/fast/) [or](/en/post/or/) promptly; [swift](/en/post/swift/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [quickly](/en/post/quickly/) finished [her](/en/post/her/) [work](/en/post/work/)."
+- **[Adverb](/post/adverb/)**: Characterizing [or](/post/or/) describing [the](/post/the/) [manner](/post/manner/) [in](/post/in/) [which](/post/which/) an [action](/post/action/) is performed. [It](/post/it/) indicates [speed](/post/speed/) [or](/post/or/) rapidity.
+- **[Adjective](/post/adjective/)**: [Fast](/post/fast/) [or](/post/or/) promptly; [swift](/post/swift/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [quickly](/post/quickly/) finished [her](/post/her/) [work](/post/work/)."
 
 ## Phrases
-- "[Quickly](/en/post/quickly/) [run](/en/post/run/) [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [bus](/en/post/bus/)"
-- "[He](/en/post/he/) reacted [quickly](/en/post/quickly/) [to](/en/post/to/) [avoid](/en/post/avoid/) [the](/en/post/the/) [accident](/en/post/accident/)"
-- "[She](/en/post/she/) ate [her](/en/post/her/) [breakfast](/en/post/breakfast/) [quickly](/en/post/quickly/) [so](/en/post/so/) [she](/en/post/she/) [could](/en/post/could/) [leave](/en/post/leave/) [on](/en/post/on/) [time](/en/post/time/)"
+- "[Quickly](/post/quickly/) [run](/post/run/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [bus](/post/bus/)"
+- "[He](/post/he/) reacted [quickly](/post/quickly/) [to](/post/to/) [avoid](/post/avoid/) [the](/post/the/) [accident](/post/accident/)"
+- "[She](/post/she/) ate [her](/post/her/) [breakfast](/post/breakfast/) [quickly](/post/quickly/) [so](/post/so/) [she](/post/she/) [could](/post/could/) [leave](/post/leave/) [on](/post/on/) [time](/post/time/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) answered [the](/en/post/the/) [phone](/en/post/phone/) [quickly](/en/post/quickly/), [not](/en/post/not/) wanting [to](/en/post/to/) [miss](/en/post/miss/) [the](/en/post/the/) [call](/en/post/call/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [athlete](/en/post/athlete/) completed [the](/en/post/the/) [race](/en/post/race/) [in](/en/post/in/) [record](/en/post/record/) [time](/en/post/time/), running [quickly](/en/post/quickly/) [across](/en/post/across/) [the](/en/post/the/) [finish](/en/post/finish/) [line](/en/post/line/)."
-- **[Comparative](/en/post/comparative/)**: "[She](/en/post/she/) is quicker [than](/en/post/than/) [her](/en/post/her/) [sister](/en/post/sister/) [at](/en/post/at/) solving math problems."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) answered [the](/post/the/) [phone](/post/phone/) [quickly](/post/quickly/), [not](/post/not/) wanting [to](/post/to/) [miss](/post/miss/) [the](/post/the/) [call](/post/call/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [athlete](/post/athlete/) completed [the](/post/the/) [race](/post/race/) [in](/post/in/) [record](/post/record/) [time](/post/time/), running [quickly](/post/quickly/) [across](/post/across/) [the](/post/the/) [finish](/post/finish/) [line](/post/line/)."
+- **[Comparative](/post/comparative/)**: "[She](/post/she/) is quicker [than](/post/than/) [her](/post/her/) [sister](/post/sister/) [at](/post/at/) solving math problems."
 
 ## Synonyms
-- [Rapidly](/en/post/rapidly/)
+- [Rapidly](/post/rapidly/)
 - Swiftly
 - Promptly
 - Hastily
@@ -33,8 +33,8 @@ keywords = ['ai words', 'quickly']
 - Efficiently
 
 ## Antonyms
-- [Slowly](/en/post/slowly/)
-- [Gradually](/en/post/gradually/)
+- [Slowly](/post/slowly/)
+- [Gradually](/post/gradually/)
 - Leisurely
 - Deliberately
-- Carefully ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- Carefully ([in](/post/in/) [some](/post/some/) contexts)

@@ -7,32 +7,32 @@ description = '[mein] a.主要的，最重要的'
 keywords = ['ai words', 'main']
 +++
 
-## [Word](/en/post/word/): [Main](/en/post/main/)
+## [Word](/post/word/): [Main](/post/main/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /meɪn/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Principal](/en/post/principal/), [most](/en/post/most/) [important](/en/post/important/), [or](/en/post/or/) [essential](/en/post/essential/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [main](/en/post/main/) [entrance](/en/post/entrance/) [to](/en/post/to/) [the](/en/post/the/) [building](/en/post/building/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [principal](/en/post/principal/) [or](/en/post/or/) [most](/en/post/most/) [significant](/en/post/significant/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [main](/en/post/main/) [course](/en/post/course/) [of](/en/post/of/) [the](/en/post/the/) [meal](/en/post/meal/) was [a](/en/post/a/) roasted [turkey](/en/post/turkey/)."
-- **[Noun](/en/post/noun/) ([also](/en/post/also/) '[Main](/en/post/main/) [Street](/en/post/street/)')**: [A](/en/post/a/) [central](/en/post/central/) [or](/en/post/or/) [principal](/en/post/principal/) [street](/en/post/street/) [in](/en/post/in/) [a](/en/post/a/) [town](/en/post/town/) [or](/en/post/or/) [city](/en/post/city/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is [wide](/en/post/wide/) [and](/en/post/and/)/[or](/en/post/or/) has [many](/en/post/many/) shops [and](/en/post/and/) businesses. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [parade](/en/post/parade/) [will](/en/post/will/) [march](/en/post/march/) [down](/en/post/down/) [Main](/en/post/main/) [Street](/en/post/street/)."
+- **[Adjective](/post/adjective/)**: [Principal](/post/principal/), [most](/post/most/) [important](/post/important/), [or](/post/or/) [essential](/post/essential/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [main](/post/main/) [entrance](/post/entrance/) [to](/post/to/) [the](/post/the/) [building](/post/building/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [principal](/post/principal/) [or](/post/or/) [most](/post/most/) [significant](/post/significant/) [part](/post/part/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [main](/post/main/) [course](/post/course/) [of](/post/of/) [the](/post/the/) [meal](/post/meal/) was [a](/post/a/) roasted [turkey](/post/turkey/)."
+- **[Noun](/post/noun/) ([also](/post/also/) '[Main](/post/main/) [Street](/post/street/)')**: [A](/post/a/) [central](/post/central/) [or](/post/or/) [principal](/post/principal/) [street](/post/street/) [in](/post/in/) [a](/post/a/) [town](/post/town/) [or](/post/or/) [city](/post/city/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is [wide](/post/wide/) [and](/post/and/)/[or](/post/or/) has [many](/post/many/) shops [and](/post/and/) businesses. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [parade](/post/parade/) [will](/post/will/) [march](/post/march/) [down](/post/down/) [Main](/post/main/) [Street](/post/street/)."
 
 ## Phrases
-- "[The](/en/post/the/) [main](/en/post/main/) [event](/en/post/event/)": [The](/en/post/the/) [most](/en/post/most/) [important](/en/post/important/) [or](/en/post/or/) [exciting](/en/post/exciting/) [activity](/en/post/activity/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) events. [Example](/en/post/example/): "[The](/en/post/the/) boxing [match](/en/post/match/) was [the](/en/post/the/) [main](/en/post/main/) [event](/en/post/event/) [of](/en/post/of/) [the](/en/post/the/) [evening](/en/post/evening/)."
-- "[Off](/en/post/off/) [the](/en/post/the/) [main](/en/post/main/) [drag](/en/post/drag/)": [Away](/en/post/away/) [from](/en/post/from/) [the](/en/post/the/) [main](/en/post/main/) [or](/en/post/or/) [busy](/en/post/busy/) streets. [Example](/en/post/example/): "[We](/en/post/we/) [found](/en/post/found/) [a](/en/post/a/) [quiet](/en/post/quiet/) café [off](/en/post/off/) [the](/en/post/the/) [main](/en/post/main/) [drag](/en/post/drag/)."
-- "[Main](/en/post/main/) [course](/en/post/course/)": [The](/en/post/the/) [primary](/en/post/primary/) [or](/en/post/or/) heaviest [dish](/en/post/dish/) served [during](/en/post/during/) [a](/en/post/a/) [meal](/en/post/meal/), [usually](/en/post/usually/) [following](/en/post/following/) appetizers [and](/en/post/and/) [before](/en/post/before/) dessert. [Example](/en/post/example/): "[She](/en/post/she/) prepared [a](/en/post/a/) [delicious](/en/post/delicious/) [chicken](/en/post/chicken/) [dish](/en/post/dish/) [as](/en/post/as/) [the](/en/post/the/) [main](/en/post/main/) [course](/en/post/course/)."
+- "[The](/post/the/) [main](/post/main/) [event](/post/event/)": [The](/post/the/) [most](/post/most/) [important](/post/important/) [or](/post/or/) [exciting](/post/exciting/) [activity](/post/activity/) [in](/post/in/) [a](/post/a/) [series](/post/series/) [of](/post/of/) events. [Example](/post/example/): "[The](/post/the/) boxing [match](/post/match/) was [the](/post/the/) [main](/post/main/) [event](/post/event/) [of](/post/of/) [the](/post/the/) [evening](/post/evening/)."
+- "[Off](/post/off/) [the](/post/the/) [main](/post/main/) [drag](/post/drag/)": [Away](/post/away/) [from](/post/from/) [the](/post/the/) [main](/post/main/) [or](/post/or/) [busy](/post/busy/) streets. [Example](/post/example/): "[We](/post/we/) [found](/post/found/) [a](/post/a/) [quiet](/post/quiet/) café [off](/post/off/) [the](/post/the/) [main](/post/main/) [drag](/post/drag/)."
+- "[Main](/post/main/) [course](/post/course/)": [The](/post/the/) [primary](/post/primary/) [or](/post/or/) heaviest [dish](/post/dish/) served [during](/post/during/) [a](/post/a/) [meal](/post/meal/), [usually](/post/usually/) [following](/post/following/) appetizers [and](/post/and/) [before](/post/before/) dessert. [Example](/post/example/): "[She](/post/she/) prepared [a](/post/a/) [delicious](/post/delicious/) [chicken](/post/chicken/) [dish](/post/dish/) [as](/post/as/) [the](/post/the/) [main](/post/main/) [course](/post/course/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [main](/en/post/main/) [reason](/en/post/reason/) [for](/en/post/for/) [his](/en/post/his/) [success](/en/post/success/) is [his](/en/post/his/) dedication [to](/en/post/to/) [hard](/en/post/hard/) [work](/en/post/work/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [main](/en/post/main/) [objective](/en/post/objective/) [of](/en/post/of/) [the](/en/post/the/) [project](/en/post/project/) is [to](/en/post/to/) [increase](/en/post/increase/) [efficiency](/en/post/efficiency/)."
-- **[Noun](/en/post/noun/) ([Main](/en/post/main/) [Street](/en/post/street/))**: "[The](/en/post/the/) [old](/en/post/old/) [cinema](/en/post/cinema/) was located [on](/en/post/on/) [Main](/en/post/main/) [Street](/en/post/street/) [where](/en/post/where/) [all](/en/post/all/) [the](/en/post/the/) [action](/en/post/action/) happened."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [main](/post/main/) [reason](/post/reason/) [for](/post/for/) [his](/post/his/) [success](/post/success/) is [his](/post/his/) dedication [to](/post/to/) [hard](/post/hard/) [work](/post/work/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [main](/post/main/) [objective](/post/objective/) [of](/post/of/) [the](/post/the/) [project](/post/project/) is [to](/post/to/) [increase](/post/increase/) [efficiency](/post/efficiency/)."
+- **[Noun](/post/noun/) ([Main](/post/main/) [Street](/post/street/))**: "[The](/post/the/) [old](/post/old/) [cinema](/post/cinema/) was located [on](/post/on/) [Main](/post/main/) [Street](/post/street/) [where](/post/where/) [all](/post/all/) [the](/post/the/) [action](/post/action/) happened."
 
 ## Synonyms
-- [Chief](/en/post/chief/)
-- [Principal](/en/post/principal/)
-- [Leading](/en/post/leading/)
-- [Prime](/en/post/prime/)
-- [Central](/en/post/central/)
-- [Primary](/en/post/primary/)
-- [Foremost](/en/post/foremost/)
-- [Main](/en/post/main/) artery ([when](/en/post/when/) referring [to](/en/post/to/) roads/streets)
+- [Chief](/post/chief/)
+- [Principal](/post/principal/)
+- [Leading](/post/leading/)
+- [Prime](/post/prime/)
+- [Central](/post/central/)
+- [Primary](/post/primary/)
+- [Foremost](/post/foremost/)
+- [Main](/post/main/) artery ([when](/post/when/) referring [to](/post/to/) roads/streets)

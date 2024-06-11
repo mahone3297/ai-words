@@ -11,20 +11,20 @@ keywords = ['ai words', 'solution']
 /səˈluːʃ(ə)n/
 
 ## 释义
-- **名词**: 解决方法；解答；方案。例如: "[They](/post/they/) came [up](/post/up/) [with](/post/with/) [a](/post/a/) [creative](/post/creative/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/)."
-- **名词**: 溶液；溶剂。例如: "[The](/post/the/) [chemical](/post/chemical/) was [completely](/post/completely/) dissolved [in](/post/in/) [the](/post/the/) [solution](/post/solution/)."
+- **名词**: 解决方法；解答；方案。例如: "[They](/zh/post/they/) came [up](/zh/post/up/) [with](/zh/post/with/) [a](/zh/post/a/) [creative](/zh/post/creative/) [solution](/zh/post/solution/) [to](/zh/post/to/) [the](/zh/post/the/) [problem](/zh/post/problem/)."
+- **名词**: 溶液；溶剂。例如: "[The](/zh/post/the/) [chemical](/zh/post/chemical/) was [completely](/zh/post/completely/) dissolved [in](/zh/post/in/) [the](/zh/post/the/) [solution](/zh/post/solution/)."
 
 ## 短语
-- "[A](/post/a/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/)" 指的是问题的解决办法。
-- "[In](/post/in/) [a](/post/a/) [solution](/post/solution/)" 表示某物在溶液中。
+- "[A](/zh/post/a/) [solution](/zh/post/solution/) [to](/zh/post/to/) [the](/zh/post/the/) [problem](/zh/post/problem/)" 指的是问题的解决办法。
+- "[In](/zh/post/in/) [a](/zh/post/a/) [solution](/zh/post/solution/)" 表示某物在溶液中。
 
 ## 例句
-- 名词: "[The](/post/the/) [engineer](/post/engineer/) [provided](/post/provided/) [a](/post/a/) detailed [solution](/post/solution/) [to](/post/to/) [fix](/post/fix/) [the](/post/the/) malfunctioning software."
-- 名词: "[The](/post/the/) [chemist](/post/chemist/) mixed [salt](/post/salt/) [and](/post/and/) [water](/post/water/) [to](/post/to/) [create](/post/create/) [a](/post/a/) saline [solution](/post/solution/)."
+- 名词: "[The](/zh/post/the/) [engineer](/zh/post/engineer/) [provided](/zh/post/provided/) [a](/zh/post/a/) detailed [solution](/zh/post/solution/) [to](/zh/post/to/) [fix](/zh/post/fix/) [the](/zh/post/the/) malfunctioning software."
+- 名词: "[The](/zh/post/the/) [chemist](/zh/post/chemist/) mixed [salt](/zh/post/salt/) [and](/zh/post/and/) [water](/zh/post/water/) [to](/zh/post/to/) [create](/zh/post/create/) [a](/zh/post/a/) saline [solution](/zh/post/solution/)."
 
 ## 同义词
-- [Answer](/post/answer/)
-- [Remedy](/post/remedy/)
-- [Fix](/post/fix/)
-- [Cure](/post/cure/)
-- [Resolution](/post/resolution/)
+- [Answer](/zh/post/answer/)
+- [Remedy](/zh/post/remedy/)
+- [Fix](/zh/post/fix/)
+- [Cure](/zh/post/cure/)
+- [Resolution](/zh/post/resolution/)

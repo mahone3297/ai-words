@@ -7,33 +7,33 @@ description = '[sit] vi.坐，就坐 vt.使坐'
 keywords = ['ai words', 'sit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (n) [To](/en/post/to/) [place](/en/post/place/) [oneself](/en/post/oneself/) [in](/en/post/in/) [a](/en/post/a/) seated [position](/en/post/position/) [on](/en/post/on/) [a](/en/post/a/) [chair](/en/post/chair/), [bench](/en/post/bench/), [or](/en/post/or/) [other](/en/post/other/) [surface](/en/post/surface/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [have](/en/post/have/) [a](/en/post/a/) [seat](/en/post/seat/)."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [occupy](/en/post/occupy/) [oneself](/en/post/oneself/) [in](/en/post/in/) an [activity](/en/post/activity/) [or](/en/post/or/) [wait](/en/post/wait/) [for](/en/post/for/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/), [often](/en/post/often/) passively. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sat quietly [reading](/en/post/reading/) [a](/en/post/a/) [book](/en/post/book/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) sitting [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) seated. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) children were sitting [around](/en/post/around/) [the](/en/post/the/) [table](/en/post/table/)."
+- **[Verb](/post/verb/)**: (n) [To](/post/to/) [place](/post/place/) [oneself](/post/oneself/) [in](/post/in/) [a](/post/a/) seated [position](/post/position/) [on](/post/on/) [a](/post/a/) [chair](/post/chair/), [bench](/post/bench/), [or](/post/or/) [other](/post/other/) [surface](/post/surface/). [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [have](/post/have/) [a](/post/a/) [seat](/post/seat/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [occupy](/post/occupy/) [oneself](/post/oneself/) [in](/post/in/) an [activity](/post/activity/) [or](/post/or/) [wait](/post/wait/) [for](/post/for/) [something](/post/something/) [to](/post/to/) [happen](/post/happen/), [often](/post/often/) passively. [For](/post/for/) [example](/post/example/): "[She](/post/she/) sat quietly [reading](/post/reading/) [a](/post/a/) [book](/post/book/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) sitting [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) seated. [For](/post/for/) [example](/post/example/): "[The](/post/the/) children were sitting [around](/post/around/) [the](/post/the/) [table](/post/table/)."
 
 ## Phrases
-- "[Sit](/en/post/sit/) [down](/en/post/down/)" is an [instruction](/en/post/instruction/) [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [seat](/en/post/seat/).
-- "Sitting hours" refers [to](/en/post/to/) [the](/en/post/the/) [time](/en/post/time/) spent [in](/en/post/in/) [a](/en/post/a/) seated [position](/en/post/position/), [often](/en/post/often/) [at](/en/post/at/) [work](/en/post/work/).
-- "[To](/en/post/to/) [sit](/en/post/sit/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) abstain [from](/en/post/from/) participating [in](/en/post/in/) an [activity](/en/post/activity/).
+- "[Sit](/post/sit/) [down](/post/down/)" is an [instruction](/post/instruction/) [to](/post/to/) [take](/post/take/) [a](/post/a/) [seat](/post/seat/).
+- "Sitting hours" refers [to](/post/to/) [the](/post/the/) [time](/post/time/) spent [in](/post/in/) [a](/post/a/) seated [position](/post/position/), [often](/post/often/) [at](/post/at/) [work](/post/work/).
+- "[To](/post/to/) [sit](/post/sit/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) abstain [from](/post/from/) participating [in](/post/in/) an [activity](/post/activity/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [he](/en/post/he/) collapsed [onto](/en/post/onto/) [the](/en/post/the/) couch [and](/en/post/and/) sat."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [park](/en/post/park/) was filled [with](/en/post/with/) [people](/en/post/people/) sitting [on](/en/post/on/) benches, enjoying [the](/en/post/the/) [sunshine](/en/post/sunshine/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [sit](/en/post/sit/) [out](/en/post/out/) [the](/en/post/the/) [game](/en/post/game/) [due](/en/post/due/) [to](/en/post/to/) an [injury](/en/post/injury/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) collapsed [onto](/post/onto/) [the](/post/the/) couch [and](/post/and/) sat."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [park](/post/park/) was filled [with](/post/with/) [people](/post/people/) sitting [on](/post/on/) benches, enjoying [the](/post/the/) [sunshine](/post/sunshine/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [sit](/post/sit/) [out](/post/out/) [the](/post/the/) [game](/post/game/) [due](/post/due/) [to](/post/to/) an [injury](/post/injury/)."
 
 ## Synonyms
-- [Seat](/en/post/seat/) [oneself](/en/post/oneself/)
-- [Rest](/en/post/rest/)
+- [Seat](/post/seat/) [oneself](/post/oneself/)
+- [Rest](/post/rest/)
 - Lounge
 - Perch
-- [Occupy](/en/post/occupy/)
+- [Occupy](/post/occupy/)
 
 ## Antonyms
-- [Stand](/en/post/stand/)
-- [Rise](/en/post/rise/)
+- [Stand](/post/stand/)
+- [Rise](/post/rise/)
 - Ascend
-- [Rise](/en/post/rise/) [up](/en/post/up/)
+- [Rise](/post/rise/) [up](/post/up/)

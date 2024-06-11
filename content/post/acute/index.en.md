@@ -7,38 +7,38 @@ description = '[əˈkjuːt] a.尖的，锐的；敏锐的'
 keywords = ['ai words', 'acute']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæktuː/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Severe](/en/post/severe/) [or](/en/post/or/) [intense](/en/post/intense/); [sharp](/en/post/sharp/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [pain](/en/post/pain/) was [so](/en/post/so/) [acute](/en/post/acute/) [that](/en/post/that/) [he](/en/post/he/) couldn't [bear](/en/post/bear/) [it](/en/post/it/) anymore."
-   - **[Noun](/en/post/noun/)**: 1. ([Medicine](/en/post/medicine/)) [A](/en/post/a/) [severe](/en/post/severe/) [or](/en/post/or/) [sudden](/en/post/sudden/) [illness](/en/post/illness/) [or](/en/post/or/) [condition](/en/post/condition/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was diagnosed [with](/en/post/with/) an [acute](/en/post/acute/) [case](/en/post/case/) [of](/en/post/of/) influenza."
-   - **[Adverb](/en/post/adverb/)**: 1. [In](/en/post/in/) [a](/en/post/a/) [sharp](/en/post/sharp/) [or](/en/post/or/) pointed [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [observation](/en/post/observation/) was [acute](/en/post/acute/) [and](/en/post/and/) insightful."
+- **[Adjective](/post/adjective/)**: 1. [Severe](/post/severe/) [or](/post/or/) [intense](/post/intense/); [sharp](/post/sharp/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [pain](/post/pain/) was [so](/post/so/) [acute](/post/acute/) [that](/post/that/) [he](/post/he/) couldn't [bear](/post/bear/) [it](/post/it/) anymore."
+   - **[Noun](/post/noun/)**: 1. ([Medicine](/post/medicine/)) [A](/post/a/) [severe](/post/severe/) [or](/post/or/) [sudden](/post/sudden/) [illness](/post/illness/) [or](/post/or/) [condition](/post/condition/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was diagnosed [with](/post/with/) an [acute](/post/acute/) [case](/post/case/) [of](/post/of/) influenza."
+   - **[Adverb](/post/adverb/)**: 1. [In](/post/in/) [a](/post/a/) [sharp](/post/sharp/) [or](/post/or/) pointed [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [observation](/post/observation/) was [acute](/post/acute/) [and](/post/and/) insightful."
 
 ## Phrases
-- "[Acute](/en/post/acute/) [problem](/en/post/problem/)" refers [to](/en/post/to/) [a](/en/post/a/) [severe](/en/post/severe/) [or](/en/post/or/) pressing [issue](/en/post/issue/).
-- "[Acute](/en/post/acute/) [sense](/en/post/sense/)" implies heightened awareness [or](/en/post/or/) perception.
-- "[Acute](/en/post/acute/) [angle](/en/post/angle/)" describes [a](/en/post/a/) [small](/en/post/small/) [angle](/en/post/angle/) [between](/en/post/between/) [two](/en/post/two/) lines [or](/en/post/or/) rays.
+- "[Acute](/post/acute/) [problem](/post/problem/)" refers [to](/post/to/) [a](/post/a/) [severe](/post/severe/) [or](/post/or/) pressing [issue](/post/issue/).
+- "[Acute](/post/acute/) [sense](/post/sense/)" implies heightened awareness [or](/post/or/) perception.
+- "[Acute](/post/acute/) [angle](/post/angle/)" describes [a](/post/a/) [small](/post/small/) [angle](/post/angle/) [between](/post/between/) [two](/post/two/) lines [or](/post/or/) rays.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) patient's symptoms were [extremely](/en/post/extremely/) [acute](/en/post/acute/), requiring [immediate](/en/post/immediate/) [medical](/en/post/medical/) [attention](/en/post/attention/)."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [accident](/en/post/accident/), [he](/en/post/he/) developed an [acute](/en/post/acute/) [memory](/en/post/memory/) [loss](/en/post/loss/)."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) [analysis](/en/post/analysis/) was [particularly](/en/post/particularly/) [acute](/en/post/acute/), uncovering details others had overlooked."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) patient's symptoms were [extremely](/post/extremely/) [acute](/post/acute/), requiring [immediate](/post/immediate/) [medical](/post/medical/) [attention](/post/attention/)."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [accident](/post/accident/), [he](/post/he/) developed an [acute](/post/acute/) [memory](/post/memory/) [loss](/post/loss/)."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) [analysis](/post/analysis/) was [particularly](/post/particularly/) [acute](/post/acute/), uncovering details others had overlooked."
 
 ## Synonyms
-- [Severe](/en/post/severe/)
-- [Intense](/en/post/intense/)
-- [Sharp](/en/post/sharp/)
-- [Sudden](/en/post/sudden/)
+- [Severe](/post/severe/)
+- [Intense](/post/intense/)
+- [Sharp](/post/sharp/)
+- [Sudden](/post/sudden/)
 - Prolonged
-- [Critical](/en/post/critical/)
-- [Noticeable](/en/post/noticeable/)
+- [Critical](/post/critical/)
+- [Noticeable](/post/noticeable/)
 - Perceptive
 
 ## Antonyms
-- [Mild](/en/post/mild/)
-- [Gentle](/en/post/gentle/)
+- [Mild](/post/mild/)
+- [Gentle](/post/gentle/)
 - Subtle
 - Chronic
-- [Indifferent](/en/post/indifferent/)
+- [Indifferent](/post/indifferent/)
 - Insensitive

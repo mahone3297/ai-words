@@ -7,32 +7,32 @@ description = 'prep.像，如；像要'
 keywords = ['ai words', 'like']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /laɪk/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [preference](/en/post/preference/) [or](/en/post/or/) inclination towards [something](/en/post/something/); [to](/en/post/to/) [enjoy](/en/post/enjoy/) [or](/en/post/or/) [approve](/en/post/approve/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "I [like](/en/post/like/) pizza."
-  - [Also](/en/post/also/) [used](/en/post/used/) transitively [to](/en/post/to/) [express](/en/post/express/) similarity: "[This](/en/post/this/) [painting](/en/post/painting/) looks [like](/en/post/like/) [a](/en/post/a/) Monet."
-- **[Preposition](/en/post/preposition/) (prep)**: [In](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) '[such](/en/post/such/) [as](/en/post/as/)' [or](/en/post/or/) '[for](/en/post/for/) [example](/en/post/example/)'. [Example](/en/post/example/): "Fruits [like](/en/post/like/) apples [and](/en/post/and/) bananas are [good](/en/post/good/) [for](/en/post/for/) [health](/en/post/health/)."
-- **[Adjective](/en/post/adjective/) (adj)**: [Similar](/en/post/similar/) [to](/en/post/to/), resembling. [Example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) like-minded [friend](/en/post/friend/) [who](/en/post/who/) shares [her](/en/post/her/) [passion](/en/post/passion/) [for](/en/post/for/) [travel](/en/post/travel/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [preference](/post/preference/) [or](/post/or/) inclination towards [something](/post/something/); [to](/post/to/) [enjoy](/post/enjoy/) [or](/post/or/) [approve](/post/approve/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "I [like](/post/like/) pizza."
+  - [Also](/post/also/) [used](/post/used/) transitively [to](/post/to/) [express](/post/express/) similarity: "[This](/post/this/) [painting](/post/painting/) looks [like](/post/like/) [a](/post/a/) Monet."
+- **[Preposition](/post/preposition/) (prep)**: [In](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) '[such](/post/such/) [as](/post/as/)' [or](/post/or/) '[for](/post/for/) [example](/post/example/)'. [Example](/post/example/): "Fruits [like](/post/like/) apples [and](/post/and/) bananas are [good](/post/good/) [for](/post/for/) [health](/post/health/)."
+- **[Adjective](/post/adjective/) (adj)**: [Similar](/post/similar/) [to](/post/to/), resembling. [Example](/post/example/): "[She](/post/she/) has [a](/post/a/) like-minded [friend](/post/friend/) [who](/post/who/) shares [her](/post/her/) [passion](/post/passion/) [for](/post/for/) [travel](/post/travel/)."
   
 ## Phrases
-- "[Like](/en/post/like/) [so](/en/post/so/)": Demonstrating [how](/en/post/how/) [something](/en/post/something/) [should](/en/post/should/) [be](/en/post/be/) done [or](/en/post/or/) positioned.
-- "[Be](/en/post/be/) [like](/en/post/like/)": [Used](/en/post/used/) informally [to](/en/post/to/) [quote](/en/post/quote/) [or](/en/post/or/) [imitate](/en/post/imitate/) someone's words [or](/en/post/or/) [behavior](/en/post/behavior/). [Example](/en/post/example/): "[She](/en/post/she/) was [all](/en/post/all/) [like](/en/post/like/), 'I can't [believe](/en/post/believe/) [this](/en/post/this/) happened!'"
-- "[As](/en/post/as/) likes [go](/en/post/go/)": Referring [to](/en/post/to/) [the](/en/post/the/) [standard](/en/post/standard/) [or](/en/post/or/) [typical](/en/post/typical/) features [of](/en/post/of/) [something](/en/post/something/) [within](/en/post/within/) [its](/en/post/its/) category. [Example](/en/post/example/): "[As](/en/post/as/) pets [go](/en/post/go/), dogs are [generally](/en/post/generally/) [more](/en/post/more/) [loyal](/en/post/loyal/) [than](/en/post/than/) cats."
+- "[Like](/post/like/) [so](/post/so/)": Demonstrating [how](/post/how/) [something](/post/something/) [should](/post/should/) [be](/post/be/) done [or](/post/or/) positioned.
+- "[Be](/post/be/) [like](/post/like/)": [Used](/post/used/) informally [to](/post/to/) [quote](/post/quote/) [or](/post/or/) [imitate](/post/imitate/) someone's words [or](/post/or/) [behavior](/post/behavior/). [Example](/post/example/): "[She](/post/she/) was [all](/post/all/) [like](/post/like/), 'I can't [believe](/post/believe/) [this](/post/this/) happened!'"
+- "[As](/post/as/) likes [go](/post/go/)": Referring [to](/post/to/) [the](/post/the/) [standard](/post/standard/) [or](/post/or/) [typical](/post/typical/) features [of](/post/of/) [something](/post/something/) [within](/post/within/) [its](/post/its/) category. [Example](/post/example/): "[As](/post/as/) pets [go](/post/go/), dogs are [generally](/post/generally/) [more](/post/more/) [loyal](/post/loyal/) [than](/post/than/) cats."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[Do](/en/post/do/) [you](/en/post/you/) [like](/en/post/like/) playing [football](/en/post/football/)?"
-- **[Preposition](/en/post/preposition/)**: "[She](/en/post/she/) bought books [on](/en/post/on/) [various](/en/post/various/) topics, [like](/en/post/like/) [history](/en/post/history/) [and](/en/post/and/) astronomy."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [dress](/en/post/dress/) is [very](/en/post/very/) [much](/en/post/much/) [like](/en/post/like/) [the](/en/post/the/) [one](/en/post/one/) [she](/en/post/she/) wore [yesterday](/en/post/yesterday/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[Do](/post/do/) [you](/post/you/) [like](/post/like/) playing [football](/post/football/)?"
+- **[Preposition](/post/preposition/)**: "[She](/post/she/) bought books [on](/post/on/) [various](/post/various/) topics, [like](/post/like/) [history](/post/history/) [and](/post/and/) astronomy."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [dress](/post/dress/) is [very](/post/very/) [much](/post/much/) [like](/post/like/) [the](/post/the/) [one](/post/one/) [she](/post/she/) wore [yesterday](/post/yesterday/)."
 
 ## Synonyms
-- [Enjoy](/en/post/enjoy/)
-- [Love](/en/post/love/)
-- [Prefer](/en/post/prefer/)
+- [Enjoy](/post/enjoy/)
+- [Love](/post/love/)
+- [Prefer](/post/prefer/)
 - Adore
-- [Approve](/en/post/approve/)
-- [Resemble](/en/post/resemble/)
-- [Similar](/en/post/similar/) [to](/en/post/to/)
+- [Approve](/post/approve/)
+- [Resemble](/post/resemble/)
+- [Similar](/post/similar/) [to](/post/to/)
 
-[Note](/en/post/note/) [that](/en/post/that/) "[like](/en/post/like/)" [also](/en/post/also/) [commonly](/en/post/commonly/) functions [as](/en/post/as/) [a](/en/post/a/) discourse marker [in](/en/post/in/) informal [conversation](/en/post/conversation/), [often](/en/post/often/) [to](/en/post/to/) [introduce](/en/post/introduce/) examples [or](/en/post/or/) [to](/en/post/to/) [indicate](/en/post/indicate/) uncertainty ("I'm, [like](/en/post/like/), [really](/en/post/really/) [tired](/en/post/tired/)"), [but](/en/post/but/) [this](/en/post/this/) [usage](/en/post/usage/) is [not](/en/post/not/) considered [standard](/en/post/standard/) [in](/en/post/in/) [formal](/en/post/formal/) [writing](/en/post/writing/) [or](/en/post/or/) [speech](/en/post/speech/).
+[Note](/post/note/) [that](/post/that/) "[like](/post/like/)" [also](/post/also/) [commonly](/post/commonly/) functions [as](/post/as/) [a](/post/a/) discourse marker [in](/post/in/) informal [conversation](/post/conversation/), [often](/post/often/) [to](/post/to/) [introduce](/post/introduce/) examples [or](/post/or/) [to](/post/to/) [indicate](/post/indicate/) uncertainty ("I'm, [like](/post/like/), [really](/post/really/) [tired](/post/tired/)"), [but](/post/but/) [this](/post/this/) [usage](/post/usage/) is [not](/post/not/) considered [standard](/post/standard/) [in](/post/in/) [formal](/post/formal/) [writing](/post/writing/) [or](/post/or/) [speech](/post/speech/).

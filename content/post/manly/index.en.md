@@ -7,32 +7,32 @@ description = '[ˈmænli] a.男子气概的，果断的'
 keywords = ['ai words', 'manly']
 +++
 
-## [Word](/en/post/word/): [Manly](/en/post/manly/)
+## [Word](/post/word/): [Manly](/post/manly/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmænli/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having qualities traditionally associated [with](/en/post/with/) men, [such](/en/post/such/) [as](/en/post/as/) [strength](/en/post/strength/), [courage](/en/post/courage/), [and](/en/post/and/) [confidence](/en/post/confidence/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) exhibited [a](/en/post/a/) [manly](/en/post/manly/) demeanor [during](/en/post/during/) [the](/en/post/the/) [difficult](/en/post/difficult/) [situation](/en/post/situation/)."
-- **Relating [to](/en/post/to/) Men**: Pertaining [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) men, [especially](/en/post/especially/) [in](/en/post/in/) [contrast](/en/post/contrast/) [to](/en/post/to/) women [or](/en/post/or/) children. [Example](/en/post/example/): "[The](/en/post/the/) [manly](/en/post/manly/) [clothing](/en/post/clothing/) [section](/en/post/section/) [of](/en/post/of/) [the](/en/post/the/) [store](/en/post/store/) had suits [and](/en/post/and/) ties."
+- **[Adjective](/post/adjective/)**: Having qualities traditionally associated [with](/post/with/) men, [such](/post/such/) [as](/post/as/) [strength](/post/strength/), [courage](/post/courage/), [and](/post/and/) [confidence](/post/confidence/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) exhibited [a](/post/a/) [manly](/post/manly/) demeanor [during](/post/during/) [the](/post/the/) [difficult](/post/difficult/) [situation](/post/situation/)."
+- **Relating [to](/post/to/) Men**: Pertaining [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) men, [especially](/post/especially/) [in](/post/in/) [contrast](/post/contrast/) [to](/post/to/) women [or](/post/or/) children. [Example](/post/example/): "[The](/post/the/) [manly](/post/manly/) [clothing](/post/clothing/) [section](/post/section/) [of](/post/of/) [the](/post/the/) [store](/post/store/) had suits [and](/post/and/) ties."
 
 ### Phrases
-- "[Manly](/en/post/manly/) virtues": Refers [to](/en/post/to/) characteristics [like](/en/post/like/) bravery, self-reliance, [and](/en/post/and/) resilience typically considered [desirable](/en/post/desirable/) [in](/en/post/in/) men.
-- "[Manly](/en/post/manly/) tears": Tears [shed](/en/post/shed/) [by](/en/post/by/) men, [often](/en/post/often/) [in](/en/post/in/) moments [of](/en/post/of/) [intense](/en/post/intense/) [emotion](/en/post/emotion/) [or](/en/post/or/) [pride](/en/post/pride/), [that](/en/post/that/) [do](/en/post/do/) [not](/en/post/not/) detract [from](/en/post/from/) [their](/en/post/their/) masculinity.
+- "[Manly](/post/manly/) virtues": Refers [to](/post/to/) characteristics [like](/post/like/) bravery, self-reliance, [and](/post/and/) resilience typically considered [desirable](/post/desirable/) [in](/post/in/) men.
+- "[Manly](/post/manly/) tears": Tears [shed](/post/shed/) [by](/post/by/) men, [often](/post/often/) [in](/post/in/) moments [of](/post/of/) [intense](/post/intense/) [emotion](/post/emotion/) [or](/post/or/) [pride](/post/pride/), [that](/post/that/) [do](/post/do/) [not](/post/not/) detract [from](/post/from/) [their](/post/their/) masculinity.
   
-### [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [manly](/en/post/manly/) [voice](/en/post/voice/) boomed [across](/en/post/across/) [the](/en/post/the/) [room](/en/post/room/), capturing everyone's [attention](/en/post/attention/)."
-- "[The](/en/post/the/) [boy](/en/post/boy/) was trying [to](/en/post/to/) [act](/en/post/act/) [manly](/en/post/manly/), standing [tall](/en/post/tall/) [and](/en/post/and/) speaking assertively."
+### [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [manly](/post/manly/) [voice](/post/voice/) boomed [across](/post/across/) [the](/post/the/) [room](/post/room/), capturing everyone's [attention](/post/attention/)."
+- "[The](/post/the/) [boy](/post/boy/) was trying [to](/post/to/) [act](/post/act/) [manly](/post/manly/), standing [tall](/post/tall/) [and](/post/and/) speaking assertively."
 
 ## Synonyms
 - Masculine
 - Virile
-- [Strong](/en/post/strong/)
+- [Strong](/post/strong/)
 - Robust
 - Courageous
 - Stalwart
-- [Bold](/en/post/bold/)
-- [Brave](/en/post/brave/)
+- [Bold](/post/bold/)
+- [Brave](/post/brave/)
 - Valiant
 - Manful
 - Resolute

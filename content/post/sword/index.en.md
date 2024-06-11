@@ -7,37 +7,37 @@ description = '[sɔːd] n.剑，刀'
 keywords = ['ai words', 'sword']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɔːrd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[sword](/en/post/sword/)** is [a](/en/post/a/) [long](/en/post/long/), bladed [weapon](/en/post/weapon/) [with](/en/post/with/) [a](/en/post/a/) hilt, typically made [of](/en/post/of/) [metal](/en/post/metal/) [and](/en/post/and/) designed [for](/en/post/for/) slashing [and](/en/post/and/) thrusting. [It](/en/post/it/) was [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) medieval times [and](/en/post/and/) is [often](/en/post/often/) associated [with](/en/post/with/) knights [and](/en/post/and/) combat.
+### [Noun](/post/noun/)
+[A](/post/a/) **[sword](/post/sword/)** is [a](/post/a/) [long](/post/long/), bladed [weapon](/post/weapon/) [with](/post/with/) [a](/post/a/) hilt, typically made [of](/post/of/) [metal](/post/metal/) [and](/post/and/) designed [for](/post/for/) slashing [and](/post/and/) thrusting. [It](/post/it/) was [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) medieval times [and](/post/and/) is [often](/post/often/) associated [with](/post/with/) knights [and](/post/and/) combat.
 
-### [Verb](/en/post/verb/) (transitive)
-[To](/en/post/to/) **brandish** [or](/en/post/or/) **wield** [a](/en/post/a/) [sword](/en/post/sword/), [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [symbol](/en/post/symbol/) [of](/en/post/of/) [power](/en/post/power/) [or](/en/post/or/) [in](/en/post/in/) combat. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) warrior brandished [his](/en/post/his/) [sword](/en/post/sword/) [in](/en/post/in/) defiance."
+### [Verb](/post/verb/) (transitive)
+[To](/post/to/) **brandish** [or](/post/or/) **wield** [a](/post/a/) [sword](/post/sword/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) [power](/post/power/) [or](/post/or/) [in](/post/in/) combat. [For](/post/for/) [example](/post/example/): "[The](/post/the/) warrior brandished [his](/post/his/) [sword](/post/sword/) [in](/post/in/) defiance."
 
-### [Adjective](/en/post/adjective/)
-- **Sword-like**: Referring [to](/en/post/to/) [the](/en/post/the/) [shape](/en/post/shape/) [or](/en/post/or/) [appearance](/en/post/appearance/) [of](/en/post/of/) [a](/en/post/a/) [sword](/en/post/sword/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) sculpture had [a](/en/post/a/) [graceful](/en/post/graceful/), sword-like [curve](/en/post/curve/)."
+### [Adjective](/post/adjective/)
+- **Sword-like**: Referring [to](/post/to/) [the](/post/the/) [shape](/post/shape/) [or](/post/or/) [appearance](/post/appearance/) [of](/post/of/) [a](/post/a/) [sword](/post/sword/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) sculpture had [a](/post/a/) [graceful](/post/graceful/), sword-like [curve](/post/curve/)."
 
 ## Phrases
-- "[Draw](/en/post/draw/) [your](/en/post/your/) [sword](/en/post/sword/)" [means](/en/post/means/) [to](/en/post/to/) unsheath [and](/en/post/and/) [prepare](/en/post/prepare/) [a](/en/post/a/) [sword](/en/post/sword/) [for](/en/post/for/) [use](/en/post/use/).
-- "[A](/en/post/a/) [sword](/en/post/sword/) [fight](/en/post/fight/)" refers [to](/en/post/to/) [a](/en/post/a/) duel using swords.
-- "Sheathed [his](/en/post/his/) [sword](/en/post/sword/)" denotes [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) putting [away](/en/post/away/) [a](/en/post/a/) [sword](/en/post/sword/) [after](/en/post/after/) [use](/en/post/use/).
+- "[Draw](/post/draw/) [your](/post/your/) [sword](/post/sword/)" [means](/post/means/) [to](/post/to/) unsheath [and](/post/and/) [prepare](/post/prepare/) [a](/post/a/) [sword](/post/sword/) [for](/post/for/) [use](/post/use/).
+- "[A](/post/a/) [sword](/post/sword/) [fight](/post/fight/)" refers [to](/post/to/) [a](/post/a/) duel using swords.
+- "Sheathed [his](/post/his/) [sword](/post/sword/)" denotes [the](/post/the/) [act](/post/act/) [of](/post/of/) putting [away](/post/away/) [a](/post/a/) [sword](/post/sword/) [after](/post/after/) [use](/post/use/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [museum](/en/post/museum/) displayed an [impressive](/en/post/impressive/) [collection](/en/post/collection/) [of](/en/post/of/) [ancient](/en/post/ancient/) swords."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) [the](/en/post/the/) reenactment, [the](/en/post/the/) knight expertly wielded [his](/en/post/his/) longsword."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sword's [blade](/en/post/blade/) shone brightly [in](/en/post/in/) [the](/en/post/the/) [sunlight](/en/post/sunlight/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [museum](/post/museum/) displayed an [impressive](/post/impressive/) [collection](/post/collection/) [of](/post/of/) [ancient](/post/ancient/) swords."
+- **[Verb](/post/verb/)**: "[In](/post/in/) [the](/post/the/) reenactment, [the](/post/the/) knight expertly wielded [his](/post/his/) longsword."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sword's [blade](/post/blade/) shone brightly [in](/post/in/) [the](/post/the/) [sunlight](/post/sunlight/)."
 
 ## Synonyms
 - Sabre
 -刀剑 (dāo jiàn) (Chinese)
 - Katana (Japanese)
 - Claymore (Scottish longsword)
-- Rapier ([a](/en/post/a/) [slender](/en/post/slender/), [flexible](/en/post/flexible/) [sword](/en/post/sword/))
-- broadsword ([a](/en/post/a/) [heavy](/en/post/heavy/), double-edged [sword](/en/post/sword/))
+- Rapier ([a](/post/a/) [slender](/post/slender/), [flexible](/post/flexible/) [sword](/post/sword/))
+- broadsword ([a](/post/a/) [heavy](/post/heavy/), double-edged [sword](/post/sword/))
 
 ## Antonyms
-- Dagger ([a](/en/post/a/) shorter, [more](/en/post/more/) versatile [blade](/en/post/blade/))
-- [Shield](/en/post/shield/) ([a](/en/post/a/) defensive [weapon](/en/post/weapon/), [not](/en/post/not/) [a](/en/post/a/) [sword](/en/post/sword/))
+- Dagger ([a](/post/a/) shorter, [more](/post/more/) versatile [blade](/post/blade/))
+- [Shield](/post/shield/) ([a](/post/a/) defensive [weapon](/post/weapon/), [not](/post/not/) [a](/post/a/) [sword](/post/sword/))

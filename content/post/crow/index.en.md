@@ -7,31 +7,31 @@ description = '[krəu] n.鸦，乌鸦 vi.啼'
 keywords = ['ai words', 'crow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kraʊ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [bird](/en/post/bird/) [of](/en/post/of/) [the](/en/post/the/) corvid [family](/en/post/family/), known [for](/en/post/for/) [its](/en/post/its/) [black](/en/post/black/) feathers, cawing [sound](/en/post/sound/), [and](/en/post/and/) scavenging habits. 2. [A](/en/post/a/) [person](/en/post/person/) speaking [in](/en/post/in/) [a](/en/post/a/) [harsh](/en/post/harsh/) [or](/en/post/or/) gruff [manner](/en/post/manner/). 3. (informal) [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) gathered [together](/en/post/together/), [often](/en/post/often/) informally.
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [utter](/en/post/utter/) [a](/en/post/a/) caw [or](/en/post/or/) [make](/en/post/make/) [a](/en/post/a/) [loud](/en/post/loud/), [harsh](/en/post/harsh/) [noise](/en/post/noise/); [to](/en/post/to/) [gather](/en/post/gather/) [or](/en/post/or/) congregate [in](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/). 4. (figurative) [To](/en/post/to/) [criticize](/en/post/criticize/) [or](/en/post/or/) mock [someone](/en/post/someone/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [bird](/post/bird/) [of](/post/of/) [the](/post/the/) corvid [family](/post/family/), known [for](/post/for/) [its](/post/its/) [black](/post/black/) feathers, cawing [sound](/post/sound/), [and](/post/and/) scavenging habits. 2. [A](/post/a/) [person](/post/person/) speaking [in](/post/in/) [a](/post/a/) [harsh](/post/harsh/) [or](/post/or/) gruff [manner](/post/manner/). 3. (informal) [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) gathered [together](/post/together/), [often](/post/often/) informally.
+- **[Verb](/post/verb/)**: [To](/post/to/) [utter](/post/utter/) [a](/post/a/) caw [or](/post/or/) [make](/post/make/) [a](/post/a/) [loud](/post/loud/), [harsh](/post/harsh/) [noise](/post/noise/); [to](/post/to/) [gather](/post/gather/) [or](/post/or/) congregate [in](/post/in/) [a](/post/a/) [group](/post/group/). 4. (figurative) [To](/post/to/) [criticize](/post/criticize/) [or](/post/or/) mock [someone](/post/someone/).
 
 ## Phrases
-- "Caw [of](/en/post/of/) [a](/en/post/a/) [crow](/en/post/crow/)" refers [to](/en/post/to/) [the](/en/post/the/) bird's distinctive [call](/en/post/call/).
-- "[Crowd](/en/post/crowd/) [of](/en/post/of/) [people](/en/post/people/)" denotes [a](/en/post/a/) [large](/en/post/large/) gathering.
-- "[A](/en/post/a/) lone [crow](/en/post/crow/) [on](/en/post/on/) [a](/en/post/a/) [branch](/en/post/branch/)" is [a](/en/post/a/) [common](/en/post/common/) [description](/en/post/description/).
+- "Caw [of](/post/of/) [a](/post/a/) [crow](/post/crow/)" refers [to](/post/to/) [the](/post/the/) bird's distinctive [call](/post/call/).
+- "[Crowd](/post/crowd/) [of](/post/of/) [people](/post/people/)" denotes [a](/post/a/) [large](/post/large/) gathering.
+- "[A](/post/a/) lone [crow](/post/crow/) [on](/post/on/) [a](/post/a/) [branch](/post/branch/)" is [a](/post/a/) [common](/post/common/) [description](/post/description/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [crow](/en/post/crow/) perched [on](/en/post/on/) [a](/en/post/a/) [nearby](/en/post/nearby/) [tree](/en/post/tree/), surveying [the](/en/post/the/) [area](/en/post/area/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [crowd](/en/post/crowd/) [of](/en/post/of/) protesters loudly crowed [their](/en/post/their/) slogans."
-- **Figurative**: "[His](/en/post/his/) words were [like](/en/post/like/) [a](/en/post/a/) crowing [over](/en/post/over/) [my](/en/post/my/) mistakes."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [crow](/post/crow/) perched [on](/post/on/) [a](/post/a/) [nearby](/post/nearby/) [tree](/post/tree/), surveying [the](/post/the/) [area](/post/area/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [crowd](/post/crowd/) [of](/post/of/) protesters loudly crowed [their](/post/their/) slogans."
+- **Figurative**: "[His](/post/his/) words were [like](/post/like/) [a](/post/a/) crowing [over](/post/over/) [my](/post/my/) mistakes."
 
 ## Synonyms
 - Roost
 - Caw
--集群 ([in](/en/post/in/) Chinese, referring [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) crows)
+-集群 ([in](/post/in/) Chinese, referring [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) crows)
 - Grumble
-- Quack ([used](/en/post/used/) metaphorically [for](/en/post/for/) [a](/en/post/a/) [harsh](/en/post/harsh/) [voice](/en/post/voice/))
+- Quack ([used](/post/used/) metaphorically [for](/post/for/) [a](/post/a/) [harsh](/post/harsh/) [voice](/post/voice/))
 
 ## Antonyms
-- [Silence](/en/post/silence/)
+- [Silence](/post/silence/)
 - Serenity
-- Politeness ([in](/en/post/in/) [the](/en/post/the/) [case](/en/post/case/) [of](/en/post/of/) [a](/en/post/a/) [harsh](/en/post/harsh/) [or](/en/post/or/) gruff [manner](/en/post/manner/))
+- Politeness ([in](/post/in/) [the](/post/the/) [case](/post/case/) [of](/post/of/) [a](/post/a/) [harsh](/post/harsh/) [or](/post/or/) gruff [manner](/post/manner/))

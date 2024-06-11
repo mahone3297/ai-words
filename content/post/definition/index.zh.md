@@ -11,21 +11,21 @@ keywords = ['ai words', 'definition']
 /həˈloʊ/
 
 ## 释义
-- **名词**: 无特定含义，通常作为打招呼的表达。例如: "[He](/post/he/) gave [me](/post/me/) [a](/post/a/) [friendly](/post/friendly/) [hello](/post/hello/)."
-- **动词**: 问候，向某人说“你好”。例如: "[She](/post/she/) helloed [her](/post/her/) [friend](/post/friend/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [her](/post/her/) [in](/post/in/) [the](/post/the/) [street](/post/street/)."
-- **感叹词**: 用于打招呼或引起注意。例如: "[Hello](/post/hello/)! [Can](/post/can/) [you](/post/you/) [hear](/post/hear/) [me](/post/me/)?"，"[Hello](/post/hello/), is [anyone](/post/anyone/) [there](/post/there/)?"
+- **名词**: 无特定含义，通常作为打招呼的表达。例如: "[He](/zh/post/he/) gave [me](/zh/post/me/) [a](/zh/post/a/) [friendly](/zh/post/friendly/) [hello](/zh/post/hello/)."
+- **动词**: 问候，向某人说“你好”。例如: "[She](/zh/post/she/) helloed [her](/zh/post/her/) [friend](/zh/post/friend/) [when](/zh/post/when/) [she](/zh/post/she/) [saw](/zh/post/saw/) [her](/zh/post/her/) [in](/zh/post/in/) [the](/zh/post/the/) [street](/zh/post/street/)."
+- **感叹词**: 用于打招呼或引起注意。例如: "[Hello](/zh/post/hello/)! [Can](/zh/post/can/) [you](/zh/post/you/) [hear](/zh/post/hear/) [me](/zh/post/me/)?"，"[Hello](/zh/post/hello/), is [anyone](/zh/post/anyone/) [there](/zh/post/there/)?"
 
 ## 短语
-- "[Hello](/post/hello/), [my](/post/my/) [dear](/post/dear/)" 用来亲切地问候熟人。
-- "[Hello](/post/hello/), [hello](/post/hello/)" 用于强调或确认对方是否在听。
+- "[Hello](/zh/post/hello/), [my](/zh/post/my/) [dear](/zh/post/dear/)" 用来亲切地问候熟人。
+- "[Hello](/zh/post/hello/), [hello](/zh/post/hello/)" 用于强调或确认对方是否在听。
 
 ## 例句
-- 名词: "[The](/post/the/) [phone](/post/phone/) rang, [and](/post/and/) I answered [with](/post/with/) [a](/post/a/) [cheerful](/post/cheerful/) [hello](/post/hello/)."
-- 动词: "Don't [forget](/post/forget/) [to](/post/to/) [hello](/post/hello/) [your](/post/your/) grandparents [when](/post/when/) [you](/post/you/) [visit](/post/visit/) [them](/post/them/)."
-- 感叹词: "[Hello](/post/hello/)! Who's [that](/post/that/) knocking [at](/post/at/) [the](/post/the/) [door](/post/door/)?"
+- 名词: "[The](/zh/post/the/) [phone](/zh/post/phone/) rang, [and](/zh/post/and/) I answered [with](/zh/post/with/) [a](/zh/post/a/) [cheerful](/zh/post/cheerful/) [hello](/zh/post/hello/)."
+- 动词: "Don't [forget](/zh/post/forget/) [to](/zh/post/to/) [hello](/zh/post/hello/) [your](/zh/post/your/) grandparents [when](/zh/post/when/) [you](/zh/post/you/) [visit](/zh/post/visit/) [them](/zh/post/them/)."
+- 感叹词: "[Hello](/zh/post/hello/)! Who's [that](/zh/post/that/) knocking [at](/zh/post/at/) [the](/zh/post/the/) [door](/zh/post/door/)?"
 
 ## 同义词
-- [Hi](/post/hi/)
+- [Hi](/zh/post/hi/)
 - Hey
 - Greetings
 - Hullo

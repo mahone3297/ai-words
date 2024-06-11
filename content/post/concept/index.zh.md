@@ -11,20 +11,20 @@ keywords = ['ai words', 'concept']
 /kənˈsɛpt/
 
 ## 释义
-- **名词 (n)**: 一个想法，观念，或理论，通常抽象且涉及某种原理或计划。例如: "[The](/post/the/) [concept](/post/concept/) [of](/post/of/) [time](/post/time/) [travel](/post/travel/) fascinates [many](/post/many/) [people](/post/people/)."
-- **动词 (v)**: 构想，形成或提出一个概念或想法。例如: "[She](/post/she/) concepted [a](/post/a/) [new](/post/new/) marketing [strategy](/post/strategy/) [for](/post/for/) [the](/post/the/) [product](/post/product/)."
+- **名词 (n)**: 一个想法，观念，或理论，通常抽象且涉及某种原理或计划。例如: "[The](/zh/post/the/) [concept](/zh/post/concept/) [of](/zh/post/of/) [time](/zh/post/time/) [travel](/zh/post/travel/) fascinates [many](/zh/post/many/) [people](/zh/post/people/)."
+- **动词 (v)**: 构想，形成或提出一个概念或想法。例如: "[She](/zh/post/she/) concepted [a](/zh/post/a/) [new](/zh/post/new/) marketing [strategy](/zh/post/strategy/) [for](/zh/post/for/) [the](/zh/post/the/) [product](/zh/post/product/)."
 
 ## 短语
-- "[Basic](/post/basic/) [concept](/post/concept/)" 基本概念，指事物的核心思想。
-- "[New](/post/new/) [concept](/post/concept/)" 新概念，指的是新颖或未被广泛接受的想法。
+- "[Basic](/zh/post/basic/) [concept](/zh/post/concept/)" 基本概念，指事物的核心思想。
+- "[New](/zh/post/new/) [concept](/zh/post/concept/)" 新概念，指的是新颖或未被广泛接受的想法。
 
 ## 例句
-- 名词: "[The](/post/the/) artist's [work](/post/work/) explores [the](/post/the/) [concept](/post/concept/) [of](/post/of/) identity [in](/post/in/) [a](/post/a/) [digital](/post/digital/) [age](/post/age/)."
-- 动词: "[They](/post/they/) are [still](/post/still/) concepting [the](/post/the/) [design](/post/design/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [office](/post/office/) [building](/post/building/)."
+- 名词: "[The](/zh/post/the/) artist's [work](/zh/post/work/) explores [the](/zh/post/the/) [concept](/zh/post/concept/) [of](/zh/post/of/) identity [in](/zh/post/in/) [a](/zh/post/a/) [digital](/zh/post/digital/) [age](/zh/post/age/)."
+- 动词: "[They](/zh/post/they/) are [still](/zh/post/still/) concepting [the](/zh/post/the/) [design](/zh/post/design/) [for](/zh/post/for/) [the](/zh/post/the/) [new](/zh/post/new/) [office](/zh/post/office/) [building](/zh/post/building/)."
 
 ## 同义词
-- [Idea](/post/idea/)
+- [Idea](/zh/post/idea/)
 - Notion
-- [Theory](/post/theory/)
-- [Principle](/post/principle/)
-- [Plan](/post/plan/)
+- [Theory](/zh/post/theory/)
+- [Principle](/zh/post/principle/)
+- [Plan](/zh/post/plan/)

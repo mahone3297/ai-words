@@ -7,39 +7,39 @@ description = '[ˈklærifai] vt.澄清，阐明'
 keywords = ['ai words', 'clarify']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈklærəfaɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) clarification [or](/en/post/or/) [act](/en/post/act/) [of](/en/post/of/) making [something](/en/post/something/) [clear](/en/post/clear/) [or](/en/post/or/) easier [to](/en/post/to/) [understand](/en/post/understand/). [Example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) [lecture](/en/post/lecture/), [the](/en/post/the/) [professor](/en/post/professor/) [provided](/en/post/provided/) [some](/en/post/some/) [additional](/en/post/additional/) clarification [on](/en/post/on/) [the](/en/post/the/) [topic](/en/post/topic/)."
+### [Noun](/post/noun/)
+[A](/post/a/) clarification [or](/post/or/) [act](/post/act/) [of](/post/of/) making [something](/post/something/) [clear](/post/clear/) [or](/post/or/) easier [to](/post/to/) [understand](/post/understand/). [Example](/post/example/): "[After](/post/after/) [the](/post/the/) [lecture](/post/lecture/), [the](/post/the/) [professor](/post/professor/) [provided](/post/provided/) [some](/post/some/) [additional](/post/additional/) clarification [on](/post/on/) [the](/post/the/) [topic](/post/topic/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) clearer [or](/en/post/or/) [more](/en/post/more/) understandable; [to](/en/post/to/) [remove](/en/post/remove/) [confusion](/en/post/confusion/) [or](/en/post/or/) obscurity. [Example](/en/post/example/): "[She](/en/post/she/) asked [the](/en/post/the/) [teacher](/en/post/teacher/) [to](/en/post/to/) [clarify](/en/post/clarify/) [the](/en/post/the/) instructions [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/)."
+### [Verb](/post/verb/)
+[To](/post/to/) [make](/post/make/) [something](/post/something/) clearer [or](/post/or/) [more](/post/more/) understandable; [to](/post/to/) [remove](/post/remove/) [confusion](/post/confusion/) [or](/post/or/) obscurity. [Example](/post/example/): "[She](/post/she/) asked [the](/post/the/) [teacher](/post/teacher/) [to](/post/to/) [clarify](/post/clarify/) [the](/post/the/) instructions [for](/post/for/) [the](/post/the/) [project](/post/project/)."
 
-### [Adjective](/en/post/adjective/)
-[Clear](/en/post/clear/) [and](/en/post/and/) [easy](/en/post/easy/) [to](/en/post/to/) [understand](/en/post/understand/). [Example](/en/post/example/): "[The](/en/post/the/) instructions were written [in](/en/post/in/) [a](/en/post/a/) [very](/en/post/very/) [clear](/en/post/clear/) [and](/en/post/and/) concise [manner](/en/post/manner/)."
+### [Adjective](/post/adjective/)
+[Clear](/post/clear/) [and](/post/and/) [easy](/post/easy/) [to](/post/to/) [understand](/post/understand/). [Example](/post/example/): "[The](/post/the/) instructions were written [in](/post/in/) [a](/post/a/) [very](/post/very/) [clear](/post/clear/) [and](/post/and/) concise [manner](/post/manner/)."
 
 ## Phrases
-- "[Clarify](/en/post/clarify/) [your](/en/post/your/) [point](/en/post/point/)" [means](/en/post/means/) [to](/en/post/to/) [express](/en/post/express/) [something](/en/post/something/) [more](/en/post/more/) explicitly.
-- "[Request](/en/post/request/) [a](/en/post/a/) clarification" is [when](/en/post/when/) [someone](/en/post/someone/) asks [for](/en/post/for/) an [explanation](/en/post/explanation/).
-- "[A](/en/post/a/) clarification is needed" indicates [that](/en/post/that/) there's [confusion](/en/post/confusion/) [that](/en/post/that/) needs [to](/en/post/to/) [be](/en/post/be/) addressed.
+- "[Clarify](/post/clarify/) [your](/post/your/) [point](/post/point/)" [means](/post/means/) [to](/post/to/) [express](/post/express/) [something](/post/something/) [more](/post/more/) explicitly.
+- "[Request](/post/request/) [a](/post/a/) clarification" is [when](/post/when/) [someone](/post/someone/) asks [for](/post/for/) an [explanation](/post/explanation/).
+- "[A](/post/a/) clarification is needed" indicates [that](/post/that/) there's [confusion](/post/confusion/) [that](/post/that/) needs [to](/post/to/) [be](/post/be/) addressed.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [scientist](/en/post/scientist/) [provided](/en/post/provided/) [a](/en/post/a/) clarification [on](/en/post/on/) [the](/en/post/the/) [complex](/en/post/complex/) [theory](/en/post/theory/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [some](/en/post/some/) [discussion](/en/post/discussion/), [we](/en/post/we/) managed [to](/en/post/to/) [clarify](/en/post/clarify/) [our](/en/post/our/) misunderstandings."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) presentation was well-organized, [with](/en/post/with/) [each](/en/post/each/) [point](/en/post/point/) [clearly](/en/post/clearly/) clarified."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [scientist](/post/scientist/) [provided](/post/provided/) [a](/post/a/) clarification [on](/post/on/) [the](/post/the/) [complex](/post/complex/) [theory](/post/theory/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [some](/post/some/) [discussion](/post/discussion/), [we](/post/we/) managed [to](/post/to/) [clarify](/post/clarify/) [our](/post/our/) misunderstandings."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) presentation was well-organized, [with](/post/with/) [each](/post/each/) [point](/post/point/) [clearly](/post/clearly/) clarified."
 
 ## Synonyms
 - Elucidate
-- [Explain](/en/post/explain/)
+- [Explain](/post/explain/)
 - Hone
-- Unambiguously [express](/en/post/express/)
-- [Make](/en/post/make/) explicit
+- Unambiguously [express](/post/express/)
+- [Make](/post/make/) explicit
 
 ## Antonyms
 - Obscure
-- [Confuse](/en/post/confuse/)
-- [Vague](/en/post/vague/)
-- [Muddy](/en/post/muddy/)
-- [Complicate](/en/post/complicate/)
+- [Confuse](/post/confuse/)
+- [Vague](/post/vague/)
+- [Muddy](/post/muddy/)
+- [Complicate](/post/complicate/)

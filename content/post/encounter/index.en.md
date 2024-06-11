@@ -7,31 +7,31 @@ description = '[inˈkauntə] vt.遭遇，遇到 n.遭遇'
 keywords = ['ai words', 'encounter']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈkɑːntər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [unexpected](/en/post/unexpected/) [meeting](/en/post/meeting/) [or](/en/post/or/) confrontation; [a](/en/post/a/) face-to-face [meeting](/en/post/meeting/) [with](/en/post/with/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) had [a](/en/post/a/) [chance](/en/post/chance/) [encounter](/en/post/encounter/) [at](/en/post/at/) [the](/en/post/the/) [airport](/en/post/airport/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) an [experience](/en/post/experience/) [or](/en/post/or/) [event](/en/post/event/), [often](/en/post/often/) [difficult](/en/post/difficult/) [or](/en/post/or/) challenging: "[Their](/en/post/their/) [encounter](/en/post/encounter/) [with](/en/post/with/) [the](/en/post/the/) [harsh](/en/post/harsh/) [weather](/en/post/weather/) tested [their](/en/post/their/) survival skills."
+- **[Noun](/post/noun/)**: An [unexpected](/post/unexpected/) [meeting](/post/meeting/) [or](/post/or/) confrontation; [a](/post/a/) face-to-face [meeting](/post/meeting/) [with](/post/with/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) had [a](/post/a/) [chance](/post/chance/) [encounter](/post/encounter/) [at](/post/at/) [the](/post/the/) [airport](/post/airport/)."
+  - [Also](/post/also/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) an [experience](/post/experience/) [or](/post/or/) [event](/post/event/), [often](/post/often/) [difficult](/post/difficult/) [or](/post/or/) challenging: "[Their](/post/their/) [encounter](/post/encounter/) [with](/post/with/) [the](/post/the/) [harsh](/post/harsh/) [weather](/post/weather/) tested [their](/post/their/) survival skills."
   
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [meet](/en/post/meet/) [or](/en/post/or/) [come](/en/post/come/) [across](/en/post/across/) ([someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/)) unexpectedly [or](/en/post/or/) [by](/en/post/by/) [chance](/en/post/chance/); [to](/en/post/to/) [experience](/en/post/experience/) [or](/en/post/or/) [have](/en/post/have/) dealings [with](/en/post/with/) ([a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [thing](/en/post/thing/)). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) explorers encountered [many](/en/post/many/) obstacles [on](/en/post/on/) [their](/en/post/their/) [journey](/en/post/journey/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [meet](/post/meet/) [or](/post/or/) [come](/post/come/) [across](/post/across/) ([someone](/post/someone/) [or](/post/or/) [something](/post/something/)) unexpectedly [or](/post/or/) [by](/post/by/) [chance](/post/chance/); [to](/post/to/) [experience](/post/experience/) [or](/post/or/) [have](/post/have/) dealings [with](/post/with/) ([a](/post/a/) [situation](/post/situation/) [or](/post/or/) [thing](/post/thing/)). [For](/post/for/) [example](/post/example/): "[The](/post/the/) explorers encountered [many](/post/many/) obstacles [on](/post/on/) [their](/post/their/) [journey](/post/journey/)."
 
 ## Phrases
-- "[Encounter](/en/post/encounter/) [with](/en/post/with/)": [To](/en/post/to/) [meet](/en/post/meet/) [or](/en/post/or/) [experience](/en/post/experience/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/), [often](/en/post/often/) unexpectedly. [Example](/en/post/example/): "An [encounter](/en/post/encounter/) [with](/en/post/with/) [a](/en/post/a/) grizzly [bear](/en/post/bear/) [in](/en/post/in/) [the](/en/post/the/) woods."
-- "[Run](/en/post/run/) [into](/en/post/into/) (an [encounter](/en/post/encounter/))": [To](/en/post/to/) [meet](/en/post/meet/) [someone](/en/post/someone/) unexpectedly. [Example](/en/post/example/): "I ran [into](/en/post/into/) [my](/en/post/my/) [old](/en/post/old/) [teacher](/en/post/teacher/) [at](/en/post/at/) [the](/en/post/the/) [grocery](/en/post/grocery/) [store](/en/post/store/)."
-- "[Have](/en/post/have/) [a](/en/post/a/) [close](/en/post/close/) [encounter](/en/post/encounter/)": [To](/en/post/to/) narrowly [avoid](/en/post/avoid/) an [accident](/en/post/accident/) [or](/en/post/or/) [danger](/en/post/danger/), [or](/en/post/or/) [to](/en/post/to/) [experience](/en/post/experience/) [something](/en/post/something/) [extraordinary](/en/post/extraordinary/) ([usually](/en/post/usually/) [in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) UFOs). [Example](/en/post/example/): "[He](/en/post/he/) claimed [to](/en/post/to/) [have](/en/post/have/) had [a](/en/post/a/) [close](/en/post/close/) [encounter](/en/post/encounter/) [with](/en/post/with/) [a](/en/post/a/) UFO."
+- "[Encounter](/post/encounter/) [with](/post/with/)": [To](/post/to/) [meet](/post/meet/) [or](/post/or/) [experience](/post/experience/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/), [often](/post/often/) unexpectedly. [Example](/post/example/): "An [encounter](/post/encounter/) [with](/post/with/) [a](/post/a/) grizzly [bear](/post/bear/) [in](/post/in/) [the](/post/the/) woods."
+- "[Run](/post/run/) [into](/post/into/) (an [encounter](/post/encounter/))": [To](/post/to/) [meet](/post/meet/) [someone](/post/someone/) unexpectedly. [Example](/post/example/): "I ran [into](/post/into/) [my](/post/my/) [old](/post/old/) [teacher](/post/teacher/) [at](/post/at/) [the](/post/the/) [grocery](/post/grocery/) [store](/post/store/)."
+- "[Have](/post/have/) [a](/post/a/) [close](/post/close/) [encounter](/post/encounter/)": [To](/post/to/) narrowly [avoid](/post/avoid/) an [accident](/post/accident/) [or](/post/or/) [danger](/post/danger/), [or](/post/or/) [to](/post/to/) [experience](/post/experience/) [something](/post/something/) [extraordinary](/post/extraordinary/) ([usually](/post/usually/) [in](/post/in/) [reference](/post/reference/) [to](/post/to/) UFOs). [Example](/post/example/): "[He](/post/he/) claimed [to](/post/to/) [have](/post/have/) had [a](/post/a/) [close](/post/close/) [encounter](/post/encounter/) [with](/post/with/) [a](/post/a/) UFO."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) [encounter](/en/post/encounter/) [with](/en/post/with/) [the](/en/post/the/) [famous](/en/post/famous/) [author](/en/post/author/) was [a](/en/post/a/) highlight [of](/en/post/of/) [the](/en/post/the/) [conference](/en/post/conference/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) encountered [numerous](/en/post/numerous/) problems [while](/en/post/while/) [setting](/en/post/setting/) [up](/en/post/up/) [her](/en/post/her/) [new](/en/post/new/) [business](/en/post/business/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Their](/post/their/) [encounter](/post/encounter/) [with](/post/with/) [the](/post/the/) [famous](/post/famous/) [author](/post/author/) was [a](/post/a/) highlight [of](/post/of/) [the](/post/the/) [conference](/post/conference/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) encountered [numerous](/post/numerous/) problems [while](/post/while/) [setting](/post/setting/) [up](/post/up/) [her](/post/her/) [new](/post/new/) [business](/post/business/)."
 
 ## Synonyms
-- [Meeting](/en/post/meeting/)
+- [Meeting](/post/meeting/)
 - Confrontation
 - Encounterment
-- [Brush](/en/post/brush/) [with](/en/post/with/)
+- [Brush](/post/brush/) [with](/post/with/)
 - Run-in
-- [Meeting](/en/post/meeting/) [with](/en/post/with/)
-- [Experience](/en/post/experience/)
-- Face-off ([in](/en/post/in/) [a](/en/post/a/) confrontational [sense](/en/post/sense/))
-- [Interaction](/en/post/interaction/) ([in](/en/post/in/) [a](/en/post/a/) broader context)
+- [Meeting](/post/meeting/) [with](/post/with/)
+- [Experience](/post/experience/)
+- Face-off ([in](/post/in/) [a](/post/a/) confrontational [sense](/post/sense/))
+- [Interaction](/post/interaction/) ([in](/post/in/) [a](/post/a/) broader context)

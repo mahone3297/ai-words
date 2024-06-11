@@ -7,35 +7,35 @@ description = '[fut] n.脚；最下部；英尺'
 keywords = ['ai words', 'foot']
 +++
 
-## [Word](/en/post/word/): [Foot](/en/post/foot/)
+## [Word](/post/word/): [Foot](/post/foot/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fʊt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [lower](/en/post/lower/) extremity [of](/en/post/of/) [the](/en/post/the/) [leg](/en/post/leg/) [below](/en/post/below/) [the](/en/post/the/) [ankle](/en/post/ankle/), [on](/en/post/on/) [which](/en/post/which/) [a](/en/post/a/) [person](/en/post/person/) stands [or](/en/post/or/) walks. [Example](/en/post/example/): "[She](/en/post/she/) [put](/en/post/put/) [her](/en/post/her/) feet [up](/en/post/up/) [on](/en/post/on/) [the](/en/post/the/) [coffee](/en/post/coffee/) [table](/en/post/table/)."
-- **[Noun](/en/post/noun/) (figurative)**: [The](/en/post/the/) [base](/en/post/base/) [or](/en/post/or/) [bottom](/en/post/bottom/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) referring [to](/en/post/to/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) an [object](/en/post/object/) [that](/en/post/that/) touches [the](/en/post/the/) [ground](/en/post/ground/) [or](/en/post/or/) serves [as](/en/post/as/) [support](/en/post/support/). [Example](/en/post/example/): "[The](/en/post/the/) [foot](/en/post/foot/) [of](/en/post/of/) [the](/en/post/the/) [bed](/en/post/bed/) was [against](/en/post/against/) [the](/en/post/the/) [wall](/en/post/wall/)."
-- **[Noun](/en/post/noun/) ([measurement](/en/post/measurement/))**: [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [length](/en/post/length/) [equal](/en/post/equal/) [to](/en/post/to/) one-sixth [of](/en/post/of/) [a](/en/post/a/) [yard](/en/post/yard/) [or](/en/post/or/) [about](/en/post/about/) 30.48 centimeters. [Example](/en/post/example/): "[The](/en/post/the/) [room](/en/post/room/) was [ten](/en/post/ten/) feet [by](/en/post/by/) [twelve](/en/post/twelve/) feet."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [step](/en/post/step/) [or](/en/post/or/) [walk](/en/post/walk/) [with](/en/post/with/) [the](/en/post/the/) [foot](/en/post/foot/); [to](/en/post/to/) [place](/en/post/place/) [the](/en/post/the/) [foot](/en/post/foot/) [on](/en/post/on/) [something](/en/post/something/). [Example](/en/post/example/): "[He](/en/post/he/) footed [the](/en/post/the/) stairs [to](/en/post/to/) [the](/en/post/the/) [top](/en/post/top/) [floor](/en/post/floor/)."
-- **[Verb](/en/post/verb/) (idiomatic)**: [To](/en/post/to/) [pay](/en/post/pay/) [or](/en/post/or/) [bear](/en/post/bear/) [the](/en/post/the/) [cost](/en/post/cost/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "I'll [foot](/en/post/foot/) [the](/en/post/the/) [bill](/en/post/bill/) [for](/en/post/for/) [dinner](/en/post/dinner/) [tonight](/en/post/tonight/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [lower](/post/lower/) extremity [of](/post/of/) [the](/post/the/) [leg](/post/leg/) [below](/post/below/) [the](/post/the/) [ankle](/post/ankle/), [on](/post/on/) [which](/post/which/) [a](/post/a/) [person](/post/person/) stands [or](/post/or/) walks. [Example](/post/example/): "[She](/post/she/) [put](/post/put/) [her](/post/her/) feet [up](/post/up/) [on](/post/on/) [the](/post/the/) [coffee](/post/coffee/) [table](/post/table/)."
+- **[Noun](/post/noun/) (figurative)**: [The](/post/the/) [base](/post/base/) [or](/post/or/) [bottom](/post/bottom/) [part](/post/part/) [of](/post/of/) [something](/post/something/), [often](/post/often/) referring [to](/post/to/) [the](/post/the/) [end](/post/end/) [of](/post/of/) an [object](/post/object/) [that](/post/that/) touches [the](/post/the/) [ground](/post/ground/) [or](/post/or/) serves [as](/post/as/) [support](/post/support/). [Example](/post/example/): "[The](/post/the/) [foot](/post/foot/) [of](/post/of/) [the](/post/the/) [bed](/post/bed/) was [against](/post/against/) [the](/post/the/) [wall](/post/wall/)."
+- **[Noun](/post/noun/) ([measurement](/post/measurement/))**: [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [length](/post/length/) [equal](/post/equal/) [to](/post/to/) one-sixth [of](/post/of/) [a](/post/a/) [yard](/post/yard/) [or](/post/or/) [about](/post/about/) 30.48 centimeters. [Example](/post/example/): "[The](/post/the/) [room](/post/room/) was [ten](/post/ten/) feet [by](/post/by/) [twelve](/post/twelve/) feet."
+- **[Verb](/post/verb/)**: [To](/post/to/) [step](/post/step/) [or](/post/or/) [walk](/post/walk/) [with](/post/with/) [the](/post/the/) [foot](/post/foot/); [to](/post/to/) [place](/post/place/) [the](/post/the/) [foot](/post/foot/) [on](/post/on/) [something](/post/something/). [Example](/post/example/): "[He](/post/he/) footed [the](/post/the/) stairs [to](/post/to/) [the](/post/the/) [top](/post/top/) [floor](/post/floor/)."
+- **[Verb](/post/verb/) (idiomatic)**: [To](/post/to/) [pay](/post/pay/) [or](/post/or/) [bear](/post/bear/) [the](/post/the/) [cost](/post/cost/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "I'll [foot](/post/foot/) [the](/post/the/) [bill](/post/bill/) [for](/post/for/) [dinner](/post/dinner/) [tonight](/post/tonight/)."
   
 ## Phrases
-- "[Put](/en/post/put/) [your](/en/post/your/) [best](/en/post/best/) [foot](/en/post/foot/) [forward](/en/post/forward/)": [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [strong](/en/post/strong/) [effort](/en/post/effort/), [especially](/en/post/especially/) [when](/en/post/when/) starting [something](/en/post/something/) [new](/en/post/new/).
-- "[On](/en/post/on/) [foot](/en/post/foot/)": traveling [by](/en/post/by/) walking [rather](/en/post/rather/) [than](/en/post/than/) using [a](/en/post/a/) [vehicle](/en/post/vehicle/).
-- "Underfoot": [in](/en/post/in/) [a](/en/post/a/) [position](/en/post/position/) [where](/en/post/where/) [someone](/en/post/someone/) [might](/en/post/might/) [trip](/en/post/trip/) [over](/en/post/over/) [or](/en/post/or/) [be](/en/post/be/) hindered [by](/en/post/by/) [it](/en/post/it/).
-- "[At](/en/post/at/) [the](/en/post/the/) [foot](/en/post/foot/) [of](/en/post/of/)": located [immediately](/en/post/immediately/) [below](/en/post/below/) [or](/en/post/or/) [at](/en/post/at/) [the](/en/post/the/) [bottom](/en/post/bottom/) [of](/en/post/of/) [something](/en/post/something/).
-- "[To](/en/post/to/) [have](/en/post/have/) [two](/en/post/two/) [left](/en/post/left/) feet": [to](/en/post/to/) [be](/en/post/be/) [very](/en/post/very/) [clumsy](/en/post/clumsy/) [or](/en/post/or/) [awkward](/en/post/awkward/), [especially](/en/post/especially/) [in](/en/post/in/) dancing.
+- "[Put](/post/put/) [your](/post/your/) [best](/post/best/) [foot](/post/foot/) [forward](/post/forward/)": [to](/post/to/) [make](/post/make/) [a](/post/a/) [strong](/post/strong/) [effort](/post/effort/), [especially](/post/especially/) [when](/post/when/) starting [something](/post/something/) [new](/post/new/).
+- "[On](/post/on/) [foot](/post/foot/)": traveling [by](/post/by/) walking [rather](/post/rather/) [than](/post/than/) using [a](/post/a/) [vehicle](/post/vehicle/).
+- "Underfoot": [in](/post/in/) [a](/post/a/) [position](/post/position/) [where](/post/where/) [someone](/post/someone/) [might](/post/might/) [trip](/post/trip/) [over](/post/over/) [or](/post/or/) [be](/post/be/) hindered [by](/post/by/) [it](/post/it/).
+- "[At](/post/at/) [the](/post/the/) [foot](/post/foot/) [of](/post/of/)": located [immediately](/post/immediately/) [below](/post/below/) [or](/post/or/) [at](/post/at/) [the](/post/the/) [bottom](/post/bottom/) [of](/post/of/) [something](/post/something/).
+- "[To](/post/to/) [have](/post/have/) [two](/post/two/) [left](/post/left/) feet": [to](/post/to/) [be](/post/be/) [very](/post/very/) [clumsy](/post/clumsy/) [or](/post/or/) [awkward](/post/awkward/), [especially](/post/especially/) [in](/post/in/) dancing.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([body](/en/post/body/) [part](/en/post/part/))**: "[He](/en/post/he/) had [a](/en/post/a/) blister [on](/en/post/on/) [his](/en/post/his/) [heel](/en/post/heel/) [from](/en/post/from/) wearing [new](/en/post/new/) shoes [without](/en/post/without/) breaking [them](/en/post/them/) [in](/en/post/in/) [properly](/en/post/properly/)."
-- **[Noun](/en/post/noun/) ([measurement](/en/post/measurement/))**: "[The](/en/post/the/) [boat](/en/post/boat/) was [about](/en/post/about/) 30 feet [long](/en/post/long/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) carefully footed [around](/en/post/around/) [the](/en/post/the/) [broken](/en/post/broken/) [glass](/en/post/glass/)."
-- **[Verb](/en/post/verb/) (idiomatic)**: "[She](/en/post/she/) offered [to](/en/post/to/) [foot](/en/post/foot/) [the](/en/post/the/) [cost](/en/post/cost/) [of](/en/post/of/) [the](/en/post/the/) renovation [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([body](/post/body/) [part](/post/part/))**: "[He](/post/he/) had [a](/post/a/) blister [on](/post/on/) [his](/post/his/) [heel](/post/heel/) [from](/post/from/) wearing [new](/post/new/) shoes [without](/post/without/) breaking [them](/post/them/) [in](/post/in/) [properly](/post/properly/)."
+- **[Noun](/post/noun/) ([measurement](/post/measurement/))**: "[The](/post/the/) [boat](/post/boat/) was [about](/post/about/) 30 feet [long](/post/long/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) carefully footed [around](/post/around/) [the](/post/the/) [broken](/post/broken/) [glass](/post/glass/)."
+- **[Verb](/post/verb/) (idiomatic)**: "[She](/post/she/) offered [to](/post/to/) [foot](/post/foot/) [the](/post/the/) [cost](/post/cost/) [of](/post/of/) [the](/post/the/) renovation [project](/post/project/)."
 
 ## Synonyms
-- Leg's [end](/en/post/end/)
-- [Sole](/en/post/sole/)
-- [Step](/en/post/step/)
-- [Measure](/en/post/measure/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [measurement](/en/post/measurement/))
-- [Pay](/en/post/pay/) ([in](/en/post/in/) [the](/en/post/the/) idiomatic [sense](/en/post/sense/))
-- Tread ([when](/en/post/when/) referring [to](/en/post/to/) walking)
+- Leg's [end](/post/end/)
+- [Sole](/post/sole/)
+- [Step](/post/step/)
+- [Measure](/post/measure/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [measurement](/post/measurement/))
+- [Pay](/post/pay/) ([in](/post/in/) [the](/post/the/) idiomatic [sense](/post/sense/))
+- Tread ([when](/post/when/) referring [to](/post/to/) walking)

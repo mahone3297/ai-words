@@ -11,20 +11,20 @@ keywords = ['ai words', 'seldom']
 /səˈlʌdli/
 
 ## 释义
-- **副词**: 很少，不常，罕有。表示频率较低的情况。例如: "I [seldom](/post/seldom/) [go](/post/go/) [out](/post/out/) [on](/post/on/) weekdays."
-- **形容词**: 不常有的，罕见的。例如: "It's [a](/post/a/) seldom-seen species [of](/post/of/) [bird](/post/bird/)."
+- **副词**: 很少，不常，罕有。表示频率较低的情况。例如: "I [seldom](/zh/post/seldom/) [go](/zh/post/go/) [out](/zh/post/out/) [on](/zh/post/on/) weekdays."
+- **形容词**: 不常有的，罕见的。例如: "It's [a](/zh/post/a/) seldom-seen species [of](/zh/post/of/) [bird](/zh/post/bird/)."
 
 ## 短语
-- "[seldom](/post/seldom/) [or](/post/or/) [never](/post/never/)" 表示几乎从不。
-- "[seldom](/post/seldom/) [without](/post/without/)" 表示几乎总是伴随着。
+- "[seldom](/zh/post/seldom/) [or](/zh/post/or/) [never](/zh/post/never/)" 表示几乎从不。
+- "[seldom](/zh/post/seldom/) [without](/zh/post/without/)" 表示几乎总是伴随着。
 
 ## 例句
-- 副词: "I [seldom](/post/seldom/) [have](/post/have/) [time](/post/time/) [to](/post/to/) [read](/post/read/) books [during](/post/during/) [the](/post/the/) workweek."
-- 形容词: "[This](/post/this/) is [a](/post/a/) seldom-discussed [topic](/post/topic/) [in](/post/in/) [our](/post/our/) [field](/post/field/)."
+- 副词: "I [seldom](/zh/post/seldom/) [have](/zh/post/have/) [time](/zh/post/time/) [to](/zh/post/to/) [read](/zh/post/read/) books [during](/zh/post/during/) [the](/zh/post/the/) workweek."
+- 形容词: "[This](/zh/post/this/) is [a](/zh/post/a/) seldom-discussed [topic](/zh/post/topic/) [in](/zh/post/in/) [our](/zh/post/our/) [field](/zh/post/field/)."
 
 ## 同义词
-- [rarely](/post/rarely/)
+- [rarely](/zh/post/rarely/)
 - infrequently
-- [occasionally](/post/occasionally/)
-- [from](/post/from/) [time](/post/time/) [to](/post/to/) [time](/post/time/)
-- [now](/post/now/) [and](/post/and/) [then](/post/then/)
+- [occasionally](/zh/post/occasionally/)
+- [from](/zh/post/from/) [time](/zh/post/time/) [to](/zh/post/to/) [time](/zh/post/time/)
+- [now](/zh/post/now/) [and](/zh/post/and/) [then](/zh/post/then/)

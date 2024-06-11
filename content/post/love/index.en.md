@@ -7,36 +7,36 @@ description = '[lʌv] vt.爱，喜欢 n.爱'
 keywords = ['ai words', 'love']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lʌv/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [strong](/en/post/strong/) [feeling](/en/post/feeling/) [of](/en/post/of/) [affection](/en/post/affection/), [warmth](/en/post/warmth/), [and](/en/post/and/) [regard](/en/post/regard/) towards [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/); an [intense](/en/post/intense/) [emotional](/en/post/emotional/) attachment. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) mother's [love](/en/post/love/) [for](/en/post/for/) [her](/en/post/her/) [child](/en/post/child/) was boundless."
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [deep](/en/post/deep/) [romantic](/en/post/romantic/) [or](/en/post/or/) sexual [affection](/en/post/affection/) [for](/en/post/for/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) loves [him](/en/post/him/) [with](/en/post/with/) [all](/en/post/all/) [her](/en/post/her/) [heart](/en/post/heart/)."
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) liking [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/) [for](/en/post/for/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) loves playing [football](/en/post/football/) [on](/en/post/on/) weekends."
-- **[Verb](/en/post/verb/)**: (intransitive) [To](/en/post/to/) [be](/en/post/be/) [very](/en/post/very/) [fond](/en/post/fond/) [of](/en/post/of/) [or](/en/post/or/) [enjoy](/en/post/enjoy/) [something](/en/post/something/) [greatly](/en/post/greatly/). [For](/en/post/for/) [example](/en/post/example/): "I [just](/en/post/just/) [love](/en/post/love/) [reading](/en/post/reading/) books [in](/en/post/in/) [my](/en/post/my/) [free](/en/post/free/) [time](/en/post/time/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [strong](/post/strong/) [feeling](/post/feeling/) [of](/post/of/) [affection](/post/affection/), [warmth](/post/warmth/), [and](/post/and/) [regard](/post/regard/) towards [someone](/post/someone/) [or](/post/or/) [something](/post/something/); an [intense](/post/intense/) [emotional](/post/emotional/) attachment. [For](/post/for/) [example](/post/example/): "[The](/post/the/) mother's [love](/post/love/) [for](/post/for/) [her](/post/her/) [child](/post/child/) was boundless."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [have](/post/have/) [a](/post/a/) [deep](/post/deep/) [romantic](/post/romantic/) [or](/post/or/) sexual [affection](/post/affection/) [for](/post/for/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) loves [him](/post/him/) [with](/post/with/) [all](/post/all/) [her](/post/her/) [heart](/post/heart/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) liking [or](/post/or/) [enthusiasm](/post/enthusiasm/) [for](/post/for/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) loves playing [football](/post/football/) [on](/post/on/) weekends."
+- **[Verb](/post/verb/)**: (intransitive) [To](/post/to/) [be](/post/be/) [very](/post/very/) [fond](/post/fond/) [of](/post/of/) [or](/post/or/) [enjoy](/post/enjoy/) [something](/post/something/) [greatly](/post/greatly/). [For](/post/for/) [example](/post/example/): "I [just](/post/just/) [love](/post/love/) [reading](/post/reading/) books [in](/post/in/) [my](/post/my/) [free](/post/free/) [time](/post/time/)."
 
 ## Phrases
-- "[Fall](/en/post/fall/) [in](/en/post/in/) [love](/en/post/love/)": [to](/en/post/to/) [start](/en/post/start/) having [strong](/en/post/strong/) [romantic](/en/post/romantic/) feelings [for](/en/post/for/) [someone](/en/post/someone/).
-- "[Love](/en/post/love/) [at](/en/post/at/) [first](/en/post/first/) [sight](/en/post/sight/)": [to](/en/post/to/) [immediately](/en/post/immediately/) [feel](/en/post/feel/) deeply attracted [to](/en/post/to/) [someone](/en/post/someone/) [upon](/en/post/upon/) [first](/en/post/first/) seeing [them](/en/post/them/).
-- "[Make](/en/post/make/) [love](/en/post/love/)": [to](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [intimate](/en/post/intimate/) [physical](/en/post/physical/) [affection](/en/post/affection/).
-- "[Love](/en/post/love/) [life](/en/post/life/)": one's [personal](/en/post/personal/) experiences [and](/en/post/and/) relationships [regarding](/en/post/regarding/) [romantic](/en/post/romantic/) [love](/en/post/love/).
-- "[All](/en/post/all/) [you](/en/post/you/) [need](/en/post/need/) is [love](/en/post/love/)": emphasizes [that](/en/post/that/) [love](/en/post/love/) is [the](/en/post/the/) [most](/en/post/most/) [important](/en/post/important/) [thing](/en/post/thing/) [in](/en/post/in/) [life](/en/post/life/), [often](/en/post/often/) associated [with](/en/post/with/) [a](/en/post/a/) [song](/en/post/song/) [by](/en/post/by/) [The](/en/post/the/) Beatles.
+- "[Fall](/post/fall/) [in](/post/in/) [love](/post/love/)": [to](/post/to/) [start](/post/start/) having [strong](/post/strong/) [romantic](/post/romantic/) feelings [for](/post/for/) [someone](/post/someone/).
+- "[Love](/post/love/) [at](/post/at/) [first](/post/first/) [sight](/post/sight/)": [to](/post/to/) [immediately](/post/immediately/) [feel](/post/feel/) deeply attracted [to](/post/to/) [someone](/post/someone/) [upon](/post/upon/) [first](/post/first/) seeing [them](/post/them/).
+- "[Make](/post/make/) [love](/post/love/)": [to](/post/to/) [engage](/post/engage/) [in](/post/in/) [intimate](/post/intimate/) [physical](/post/physical/) [affection](/post/affection/).
+- "[Love](/post/love/) [life](/post/life/)": one's [personal](/post/personal/) experiences [and](/post/and/) relationships [regarding](/post/regarding/) [romantic](/post/romantic/) [love](/post/love/).
+- "[All](/post/all/) [you](/post/you/) [need](/post/need/) is [love](/post/love/)": emphasizes [that](/post/that/) [love](/post/love/) is [the](/post/the/) [most](/post/most/) [important](/post/important/) [thing](/post/thing/) [in](/post/in/) [life](/post/life/), [often](/post/often/) associated [with](/post/with/) [a](/post/a/) [song](/post/song/) [by](/post/by/) [The](/post/the/) Beatles.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) [bond](/en/post/bond/) grew stronger [through](/en/post/through/) [the](/en/post/the/) years, [and](/en/post/and/) [their](/en/post/their/) [love](/en/post/love/) remained unbreakable."
-- **[Verb](/en/post/verb/) ([romantic](/en/post/romantic/))**: "[They](/en/post/they/) met [in](/en/post/in/) [college](/en/post/college/) [and](/en/post/and/) [have](/en/post/have/) been [in](/en/post/in/) [love](/en/post/love/) [ever](/en/post/ever/) [since](/en/post/since/)."
-- **[Verb](/en/post/verb/) (liking/enjoyment)**: "[He](/en/post/he/) loves spending [his](/en/post/his/) afternoons [painting](/en/post/painting/) landscapes [by](/en/post/by/) [the](/en/post/the/) [river](/en/post/river/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Their](/post/their/) [bond](/post/bond/) grew stronger [through](/post/through/) [the](/post/the/) years, [and](/post/and/) [their](/post/their/) [love](/post/love/) remained unbreakable."
+- **[Verb](/post/verb/) ([romantic](/post/romantic/))**: "[They](/post/they/) met [in](/post/in/) [college](/post/college/) [and](/post/and/) [have](/post/have/) been [in](/post/in/) [love](/post/love/) [ever](/post/ever/) [since](/post/since/)."
+- **[Verb](/post/verb/) (liking/enjoyment)**: "[He](/post/he/) loves spending [his](/post/his/) afternoons [painting](/post/painting/) landscapes [by](/post/by/) [the](/post/the/) [river](/post/river/)."
 
 ## Synonyms
-- [Affection](/en/post/affection/)
+- [Affection](/post/affection/)
 - Adoration
 - Devotion
-- [Passion](/en/post/passion/)
+- [Passion](/post/passion/)
 - Attachment
 - Fondness
 - Romance
 - Admiration
 - Esteem
-- Infatuation ([when](/en/post/when/) referring [to](/en/post/to/) [romantic](/en/post/romantic/) [love](/en/post/love/))
-- Enjoyment ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) non-romantic [interest](/en/post/interest/))
+- Infatuation ([when](/post/when/) referring [to](/post/to/) [romantic](/post/romantic/) [love](/post/love/))
+- Enjoyment ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) non-romantic [interest](/post/interest/))

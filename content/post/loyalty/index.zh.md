@@ -11,16 +11,16 @@ keywords = ['ai words', 'loyalty']
 /ˈlɔɪəlti/
 
 ## 释义
-- **名词**: 忠诚，忠心；坚定的支持或服从。例如: "[His](/post/his/) [loyalty](/post/loyalty/) [to](/post/to/) [his](/post/his/) [country](/post/country/) is unwavering."
-- **形容词**: 忠诚的，忠实的。例如: "[She](/post/she/) demonstrated [great](/post/great/) [loyalty](/post/loyalty/) [to](/post/to/) [her](/post/her/) [employer](/post/employer/)."
+- **名词**: 忠诚，忠心；坚定的支持或服从。例如: "[His](/zh/post/his/) [loyalty](/zh/post/loyalty/) [to](/zh/post/to/) [his](/zh/post/his/) [country](/zh/post/country/) is unwavering."
+- **形容词**: 忠诚的，忠实的。例如: "[She](/zh/post/she/) demonstrated [great](/zh/post/great/) [loyalty](/zh/post/loyalty/) [to](/zh/post/to/) [her](/zh/post/her/) [employer](/zh/post/employer/)."
 
 ## 短语
-- "[Loyalty](/post/loyalty/) [test](/post/test/)" 检验或评估某人忠诚度的过程。
-- "[Customer](/post/customer/) [loyalty](/post/loyalty/) [program](/post/program/)" 顾客忠诚度计划，商家用来奖励常客的策略。
+- "[Loyalty](/zh/post/loyalty/) [test](/zh/post/test/)" 检验或评估某人忠诚度的过程。
+- "[Customer](/zh/post/customer/) [loyalty](/zh/post/loyalty/) [program](/zh/post/program/)" 顾客忠诚度计划，商家用来奖励常客的策略。
 
 ## 例句
-- 名词: "[The](/post/the/) [king](/post/king/) was known [for](/post/for/) rewarding [the](/post/the/) [loyalty](/post/loyalty/) [of](/post/of/) [his](/post/his/) subjects."
-- 形容词: "[Their](/post/their/) employees are fiercely [loyal](/post/loyal/) [to](/post/to/) [the](/post/the/) company's [mission](/post/mission/)."
+- 名词: "[The](/zh/post/the/) [king](/zh/post/king/) was known [for](/zh/post/for/) rewarding [the](/zh/post/the/) [loyalty](/zh/post/loyalty/) [of](/zh/post/of/) [his](/zh/post/his/) subjects."
+- 形容词: "[Their](/zh/post/their/) employees are fiercely [loyal](/zh/post/loyal/) [to](/zh/post/to/) [the](/zh/post/the/) company's [mission](/zh/post/mission/)."
 
 ## 同义词
 - Faithfulness

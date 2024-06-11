@@ -7,22 +7,22 @@ description = '[ˈdeindʒrəs] a.危险的，不安全的'
 keywords = ['ai words', 'dangerous']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dənˈgeɪrəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterizing [or](/en/post/or/) involving [risk](/en/post/risk/) [or](/en/post/or/) [danger](/en/post/danger/); perilous. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) hike is considered [dangerous](/en/post/dangerous/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [steep](/en/post/steep/) terrain."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is potentially [harmful](/en/post/harmful/) [or](/en/post/or/) risky. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) warned [her](/en/post/her/) [about](/en/post/about/) [the](/en/post/the/) dangers [of](/en/post/of/) driving [too](/en/post/too/) [fast](/en/post/fast/)."
+- **[Adjective](/post/adjective/)**: Characterizing [or](/post/or/) involving [risk](/post/risk/) [or](/post/or/) [danger](/post/danger/); perilous. [For](/post/for/) [example](/post/example/): "[The](/post/the/) hike is considered [dangerous](/post/dangerous/) [due](/post/due/) [to](/post/to/) [its](/post/its/) [steep](/post/steep/) terrain."
+- **[Noun](/post/noun/)**: [A](/post/a/) [situation](/post/situation/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is potentially [harmful](/post/harmful/) [or](/post/or/) risky. [For](/post/for/) [example](/post/example/): "[He](/post/he/) warned [her](/post/her/) [about](/post/about/) [the](/post/the/) dangers [of](/post/of/) driving [too](/post/too/) [fast](/post/fast/)."
 
 ## Phrases
-- "[At](/en/post/at/) [great](/en/post/great/) [risk](/en/post/risk/)" indicates [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) [danger](/en/post/danger/).
-- "[Be](/en/post/be/) [careful](/en/post/careful/) [of](/en/post/of/) [the](/en/post/the/) [dangerous](/en/post/dangerous/) animals" serves [as](/en/post/as/) [a](/en/post/a/) warning.
-- "[Take](/en/post/take/) precautions [against](/en/post/against/) [dangerous](/en/post/dangerous/) situations" advises [on](/en/post/on/) guarding [against](/en/post/against/) risks.
+- "[At](/post/at/) [great](/post/great/) [risk](/post/risk/)" indicates [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) [danger](/post/danger/).
+- "[Be](/post/be/) [careful](/post/careful/) [of](/post/of/) [the](/post/the/) [dangerous](/post/dangerous/) animals" serves [as](/post/as/) [a](/post/a/) warning.
+- "[Take](/post/take/) precautions [against](/post/against/) [dangerous](/post/dangerous/) situations" advises [on](/post/on/) guarding [against](/post/against/) risks.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) felt [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [danger](/en/post/danger/) lurking [in](/en/post/in/) [the](/en/post/the/) [dark](/en/post/dark/) alley."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) climbers were faced [with](/en/post/with/) [a](/en/post/a/) [dangerous](/en/post/dangerous/) [climb](/en/post/climb/) [up](/en/post/up/) [the](/en/post/the/) [mountain](/en/post/mountain/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) drove cautiously [to](/en/post/to/) [avoid](/en/post/avoid/) [the](/en/post/the/) [dangerous](/en/post/dangerous/) curves [on](/en/post/on/) [the](/en/post/the/) [road](/en/post/road/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) felt [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [danger](/post/danger/) lurking [in](/post/in/) [the](/post/the/) [dark](/post/dark/) alley."
+- **[Noun](/post/noun/)**: "[The](/post/the/) climbers were faced [with](/post/with/) [a](/post/a/) [dangerous](/post/dangerous/) [climb](/post/climb/) [up](/post/up/) [the](/post/the/) [mountain](/post/mountain/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) drove cautiously [to](/post/to/) [avoid](/post/avoid/) [the](/post/the/) [dangerous](/post/dangerous/) curves [on](/post/on/) [the](/post/the/) [road](/post/road/)."
 
 ## Synonyms
 - Hazardous
@@ -32,8 +32,8 @@ keywords = ['ai words', 'dangerous']
 - Threatening
 
 ## Antonyms
-- [Safe](/en/post/safe/)
-- [Secure](/en/post/secure/)
+- [Safe](/post/safe/)
+- [Secure](/post/secure/)
 - Insecure
 - Unthreatening
-- [Calm](/en/post/calm/)
+- [Calm](/post/calm/)

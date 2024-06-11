@@ -7,33 +7,33 @@ description = '[ˈdʒəːnl] n.日报，杂志；日志'
 keywords = ['ai words', 'journal']
 +++
 
-## [Word](/en/post/word/): [Journal](/en/post/journal/)
+## [Word](/post/word/): [Journal](/post/journal/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒɜːrnəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [daily](/en/post/daily/) [or](/en/post/or/) [weekly](/en/post/weekly/) [publication](/en/post/publication/) containing [news](/en/post/news/), articles, [and](/en/post/and/) [other](/en/post/other/) informative pieces, [often](/en/post/often/) [on](/en/post/on/) [a](/en/post/a/) [specific](/en/post/specific/) [subject](/en/post/subject/) [or](/en/post/or/) [profession](/en/post/profession/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) writes [a](/en/post/a/) [column](/en/post/column/) [for](/en/post/for/) [a](/en/post/a/) [popular](/en/post/popular/) [science](/en/post/science/) [journal](/en/post/journal/)."
-  - _Also_: [A](/en/post/a/) [book](/en/post/book/) [or](/en/post/or/) [notebook](/en/post/notebook/) [in](/en/post/in/) [which](/en/post/which/) [one](/en/post/one/) keeps [a](/en/post/a/) [record](/en/post/record/) [of](/en/post/of/) [daily](/en/post/daily/) events [or](/en/post/or/) [personal](/en/post/personal/) reflections, thoughts, [or](/en/post/or/) feelings; [a](/en/post/a/) [diary](/en/post/diary/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) maintained [a](/en/post/a/) [travel](/en/post/travel/) [journal](/en/post/journal/) [during](/en/post/during/) [his](/en/post/his/) [trip](/en/post/trip/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [daily](/post/daily/) [or](/post/or/) [weekly](/post/weekly/) [publication](/post/publication/) containing [news](/post/news/), articles, [and](/post/and/) [other](/post/other/) informative pieces, [often](/post/often/) [on](/post/on/) [a](/post/a/) [specific](/post/specific/) [subject](/post/subject/) [or](/post/or/) [profession](/post/profession/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) writes [a](/post/a/) [column](/post/column/) [for](/post/for/) [a](/post/a/) [popular](/post/popular/) [science](/post/science/) [journal](/post/journal/)."
+  - _Also_: [A](/post/a/) [book](/post/book/) [or](/post/or/) [notebook](/post/notebook/) [in](/post/in/) [which](/post/which/) [one](/post/one/) keeps [a](/post/a/) [record](/post/record/) [of](/post/of/) [daily](/post/daily/) events [or](/post/or/) [personal](/post/personal/) reflections, thoughts, [or](/post/or/) feelings; [a](/post/a/) [diary](/post/diary/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) maintained [a](/post/a/) [travel](/post/travel/) [journal](/post/journal/) [during](/post/during/) [his](/post/his/) [trip](/post/trip/) [around](/post/around/) [the](/post/the/) [world](/post/world/)."
   
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [record](/en/post/record/) [something](/en/post/something/) systematically, [especially](/en/post/especially/) [on](/en/post/on/) [a](/en/post/a/) [regular](/en/post/regular/) [basis](/en/post/basis/), [in](/en/post/in/) [a](/en/post/a/) [journal](/en/post/journal/) [or](/en/post/or/) [diary](/en/post/diary/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) journals [every](/en/post/every/) [day](/en/post/day/) [to](/en/post/to/) [reflect](/en/post/reflect/) [on](/en/post/on/) [her](/en/post/her/) experiences."
+- **[Verb](/post/verb/)**: [To](/post/to/) [record](/post/record/) [something](/post/something/) systematically, [especially](/post/especially/) [on](/post/on/) [a](/post/a/) [regular](/post/regular/) [basis](/post/basis/), [in](/post/in/) [a](/post/a/) [journal](/post/journal/) [or](/post/or/) [diary](/post/diary/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) journals [every](/post/every/) [day](/post/day/) [to](/post/to/) [reflect](/post/reflect/) [on](/post/on/) [her](/post/her/) experiences."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [a](/en/post/a/) [journal](/en/post/journal/)" [means](/en/post/means/) [to](/en/post/to/) [regularly](/en/post/regularly/) [write](/en/post/write/) [down](/en/post/down/) one's thoughts [or](/en/post/or/) activities [in](/en/post/in/) [a](/en/post/a/) [diary](/en/post/diary/).
-- "[Journal](/en/post/journal/) [entry](/en/post/entry/)" refers [to](/en/post/to/) [a](/en/post/a/) [single](/en/post/single/) recorded [item](/en/post/item/) [in](/en/post/in/) [a](/en/post/a/) [journal](/en/post/journal/) [or](/en/post/or/) [diary](/en/post/diary/).
-- "[Academic](/en/post/academic/) [journal](/en/post/journal/)" refers [to](/en/post/to/) [a](/en/post/a/) periodical [that](/en/post/that/) publishes scholarly articles, typically [after](/en/post/after/) [a](/en/post/a/) peer-review [process](/en/post/process/).
+- "[Keep](/post/keep/) [a](/post/a/) [journal](/post/journal/)" [means](/post/means/) [to](/post/to/) [regularly](/post/regularly/) [write](/post/write/) [down](/post/down/) one's thoughts [or](/post/or/) activities [in](/post/in/) [a](/post/a/) [diary](/post/diary/).
+- "[Journal](/post/journal/) [entry](/post/entry/)" refers [to](/post/to/) [a](/post/a/) [single](/post/single/) recorded [item](/post/item/) [in](/post/in/) [a](/post/a/) [journal](/post/journal/) [or](/post/or/) [diary](/post/diary/).
+- "[Academic](/post/academic/) [journal](/post/journal/)" refers [to](/post/to/) [a](/post/a/) periodical [that](/post/that/) publishes scholarly articles, typically [after](/post/after/) [a](/post/a/) peer-review [process](/post/process/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([publication](/en/post/publication/))**: "[The](/en/post/the/) latest [issue](/en/post/issue/) [of](/en/post/of/) [the](/en/post/the/) [medical](/en/post/medical/) [journal](/en/post/journal/) includes groundbreaking [research](/en/post/research/) [on](/en/post/on/) [cancer](/en/post/cancer/) [treatment](/en/post/treatment/)."
-- **[Noun](/en/post/noun/) ([diary](/en/post/diary/))**: "[Reading](/en/post/reading/) [her](/en/post/her/) [old](/en/post/old/) [journal](/en/post/journal/) brought [back](/en/post/back/) [many](/en/post/many/) [fond](/en/post/fond/) memories [of](/en/post/of/) [childhood](/en/post/childhood/) adventures."
-- **[Verb](/en/post/verb/)**: "[As](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [her](/en/post/her/) therapy, [she](/en/post/she/) journaled [about](/en/post/about/) [her](/en/post/her/) emotions [each](/en/post/each/) [night](/en/post/night/) [before](/en/post/before/) [bed](/en/post/bed/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([publication](/post/publication/))**: "[The](/post/the/) latest [issue](/post/issue/) [of](/post/of/) [the](/post/the/) [medical](/post/medical/) [journal](/post/journal/) includes groundbreaking [research](/post/research/) [on](/post/on/) [cancer](/post/cancer/) [treatment](/post/treatment/)."
+- **[Noun](/post/noun/) ([diary](/post/diary/))**: "[Reading](/post/reading/) [her](/post/her/) [old](/post/old/) [journal](/post/journal/) brought [back](/post/back/) [many](/post/many/) [fond](/post/fond/) memories [of](/post/of/) [childhood](/post/childhood/) adventures."
+- **[Verb](/post/verb/)**: "[As](/post/as/) [part](/post/part/) [of](/post/of/) [her](/post/her/) therapy, [she](/post/she/) journaled [about](/post/about/) [her](/post/her/) emotions [each](/post/each/) [night](/post/night/) [before](/post/before/) [bed](/post/bed/)."
 
 ## Synonyms
-- [Diary](/en/post/diary/)
+- [Diary](/post/diary/)
 - Logbook
 - Ledger
-- [Notebook](/en/post/notebook/)
-- Periodical ([for](/en/post/for/) [the](/en/post/the/) [publication](/en/post/publication/) context)
+- [Notebook](/post/notebook/)
+- Periodical ([for](/post/for/) [the](/post/the/) [publication](/post/publication/) context)
 - Chronicle
-- [Record](/en/post/record/)
-- [Register](/en/post/register/) ([for](/en/post/for/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) recording)
+- [Record](/post/record/)
+- [Register](/post/register/) ([for](/post/for/) [the](/post/the/) [action](/post/action/) [of](/post/of/) recording)

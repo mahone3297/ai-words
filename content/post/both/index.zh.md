@@ -11,20 +11,20 @@ keywords = ['ai words', 'both']
 /bəʊθ/
 
 ## 释义
-- **代词**: 两者都，双方。例如: "[Both](/post/both/) [of](/post/of/) [them](/post/them/) are [excellent](/post/excellent/) musicians."
-- **形容词**: 两个的，成对的。例如: "[We](/post/we/) [need](/post/need/) [two](/post/two/) chairs, [one](/post/one/) [for](/post/for/) [each](/post/each/) [of](/post/of/) [us](/post/us/), [so](/post/so/) we'll [take](/post/take/) [both](/post/both/)."
+- **代词**: 两者都，双方。例如: "[Both](/zh/post/both/) [of](/zh/post/of/) [them](/zh/post/them/) are [excellent](/zh/post/excellent/) musicians."
+- **形容词**: 两个的，成对的。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [two](/zh/post/two/) chairs, [one](/zh/post/one/) [for](/zh/post/for/) [each](/zh/post/each/) [of](/zh/post/of/) [us](/zh/post/us/), [so](/zh/post/so/) we'll [take](/zh/post/take/) [both](/zh/post/both/)."
 
 ## 短语
-- "[Both](/post/both/) ways" 意为两个方向或方面。
-- "[Both](/post/both/) [of](/post/of/) [us](/post/us/)" 或 "[Both](/post/both/) [of](/post/of/) [them](/post/them/)" 用于指代两个人或物。
+- "[Both](/zh/post/both/) ways" 意为两个方向或方面。
+- "[Both](/zh/post/both/) [of](/zh/post/of/) [us](/zh/post/us/)" 或 "[Both](/zh/post/both/) [of](/zh/post/of/) [them](/zh/post/them/)" 用于指代两个人或物。
 
 ## 例句
-- 代词: "[Both](/post/both/) John [and](/post/and/) Mary [can](/post/can/) [play](/post/play/) [the](/post/the/) [piano](/post/piano/) fluently."
-- 形容词: "[The](/post/the/) [dress](/post/dress/) comes [in](/post/in/) [both](/post/both/) [black](/post/black/) [and](/post/and/) [red](/post/red/)."
+- 代词: "[Both](/zh/post/both/) John [and](/zh/post/and/) Mary [can](/zh/post/can/) [play](/zh/post/play/) [the](/zh/post/the/) [piano](/zh/post/piano/) fluently."
+- 形容词: "[The](/zh/post/the/) [dress](/zh/post/dress/) comes [in](/zh/post/in/) [both](/zh/post/both/) [black](/zh/post/black/) [and](/zh/post/and/) [red](/zh/post/red/)."
 
 ## 同义词
-- [Each](/post/each/)
-- [Either](/post/either/)
-- [Neither](/post/neither/)
+- [Each](/zh/post/each/)
+- [Either](/zh/post/either/)
+- [Neither](/zh/post/neither/)
 - Dual
 - Paired

@@ -7,27 +7,27 @@ description = '[ˌkɔmpriˈhensiv] a.广泛的；理解的'
 keywords = ['ai words', 'comprehensive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈprensɪv/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Covering [a](/en/post/a/) [wide](/en/post/wide/) [range](/en/post/range/) [or](/en/post/or/) [extent](/en/post/extent/); [thorough](/en/post/thorough/); inclusive. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) curriculum is [quite](/en/post/quite/) [comprehensive](/en/post/comprehensive/)."
-- **[Adverb](/en/post/adverb/)**: Extensively [or](/en/post/or/) [completely](/en/post/completely/); thoroughly. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) studied comprehensively [for](/en/post/for/) [her](/en/post/her/) exams."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [comprehensive](/en/post/comprehensive/) [review](/en/post/review/) [or](/en/post/or/) [summary](/en/post/summary/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [report](/en/post/report/) [provided](/en/post/provided/) [a](/en/post/a/) [comprehensive](/en/post/comprehensive/) [analysis](/en/post/analysis/) [of](/en/post/of/) [the](/en/post/the/) [situation](/en/post/situation/)."
+- **[Adjective](/post/adjective/)**: Covering [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [or](/post/or/) [extent](/post/extent/); [thorough](/post/thorough/); inclusive. [For](/post/for/) [example](/post/example/): "[The](/post/the/) curriculum is [quite](/post/quite/) [comprehensive](/post/comprehensive/)."
+- **[Adverb](/post/adverb/)**: Extensively [or](/post/or/) [completely](/post/completely/); thoroughly. [For](/post/for/) [example](/post/example/): "[She](/post/she/) studied comprehensively [for](/post/for/) [her](/post/her/) exams."
+- **[Noun](/post/noun/)**: [A](/post/a/) [comprehensive](/post/comprehensive/) [review](/post/review/) [or](/post/or/) [summary](/post/summary/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [report](/post/report/) [provided](/post/provided/) [a](/post/a/) [comprehensive](/post/comprehensive/) [analysis](/post/analysis/) [of](/post/of/) [the](/post/the/) [situation](/post/situation/)."
 
 ## Phrases
-- "[Comprehensive](/en/post/comprehensive/) [understanding](/en/post/understanding/)" [means](/en/post/means/) [a](/en/post/a/) [thorough](/en/post/thorough/) [grasp](/en/post/grasp/) [or](/en/post/or/) [knowledge](/en/post/knowledge/) [of](/en/post/of/) [a](/en/post/a/) [subject](/en/post/subject/).
-- "[A](/en/post/a/) [comprehensive](/en/post/comprehensive/) [approach](/en/post/approach/)" indicates [a](/en/post/a/) [method](/en/post/method/) [that](/en/post/that/) addresses [all](/en/post/all/) aspects.
-- "Comprehensively explained" refers [to](/en/post/to/) [a](/en/post/a/) [clear](/en/post/clear/) [and](/en/post/and/) [thorough](/en/post/thorough/) [explanation](/en/post/explanation/).
+- "[Comprehensive](/post/comprehensive/) [understanding](/post/understanding/)" [means](/post/means/) [a](/post/a/) [thorough](/post/thorough/) [grasp](/post/grasp/) [or](/post/or/) [knowledge](/post/knowledge/) [of](/post/of/) [a](/post/a/) [subject](/post/subject/).
+- "[A](/post/a/) [comprehensive](/post/comprehensive/) [approach](/post/approach/)" indicates [a](/post/a/) [method](/post/method/) [that](/post/that/) addresses [all](/post/all/) aspects.
+- "Comprehensively explained" refers [to](/post/to/) [a](/post/a/) [clear](/post/clear/) [and](/post/and/) [thorough](/post/thorough/) [explanation](/post/explanation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) designed [a](/en/post/a/) [comprehensive](/en/post/comprehensive/) [lesson](/en/post/lesson/) [plan](/en/post/plan/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) prepared comprehensively [for](/en/post/for/) [her](/en/post/her/) presentation, researching [every](/en/post/every/) [detail](/en/post/detail/)."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [comprehensive](/en/post/comprehensive/) [report](/en/post/report/), [the](/en/post/the/) [team](/en/post/team/) had [a](/en/post/a/) [better](/en/post/better/) [grasp](/en/post/grasp/) [of](/en/post/of/) [the](/en/post/the/) project's challenges."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [teacher](/post/teacher/) designed [a](/post/a/) [comprehensive](/post/comprehensive/) [lesson](/post/lesson/) [plan](/post/plan/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) prepared comprehensively [for](/post/for/) [her](/post/her/) presentation, researching [every](/post/every/) [detail](/post/detail/)."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [comprehensive](/post/comprehensive/) [report](/post/report/), [the](/post/the/) [team](/post/team/) had [a](/post/a/) [better](/post/better/) [grasp](/post/grasp/) [of](/post/of/) [the](/post/the/) project's challenges."
 
 ## Synonyms
-- [Thorough](/en/post/thorough/)
-- [Complete](/en/post/complete/)
+- [Thorough](/post/thorough/)
+- [Complete](/post/complete/)
 - Exhaustive
 - In-depth
 - All-inclusive
@@ -35,9 +35,9 @@ keywords = ['ai words', 'comprehensive']
 - Systematic
 
 ## Antonyms
-- [Narrow](/en/post/narrow/)
-- [Limited](/en/post/limited/)
-- [Partial](/en/post/partial/)
-- [Summary](/en/post/summary/)
-- [Brief](/en/post/brief/)
+- [Narrow](/post/narrow/)
+- [Limited](/post/limited/)
+- [Partial](/post/partial/)
+- [Summary](/post/summary/)
+- [Brief](/post/brief/)
 - Surface-level

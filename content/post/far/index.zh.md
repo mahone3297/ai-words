@@ -11,22 +11,22 @@ keywords = ['ai words', 'far']
 /fɑːr/
 
 ## 释义
-- **形容词**: 远的，遥远的。例如: "[The](/post/the/) [mountain](/post/mountain/) is [too](/post/too/) [far](/post/far/) [to](/post/to/) [climb](/post/climb/) [in](/post/in/) [a](/post/a/) [day](/post/day/)."
-- **副词**: 远，远离。例如: "[She](/post/she/) lives [far](/post/far/) [from](/post/from/) [the](/post/the/) [city](/post/city/) center."
-- **名词**: （与from连用）远处，远方。例如: "I [could](/post/could/) [see](/post/see/) [something](/post/something/) moving [in](/post/in/) [the](/post/the/) [far](/post/far/)."
+- **形容词**: 远的，遥远的。例如: "[The](/zh/post/the/) [mountain](/zh/post/mountain/) is [too](/zh/post/too/) [far](/zh/post/far/) [to](/zh/post/to/) [climb](/zh/post/climb/) [in](/zh/post/in/) [a](/zh/post/a/) [day](/zh/post/day/)."
+- **副词**: 远，远离。例如: "[She](/zh/post/she/) lives [far](/zh/post/far/) [from](/zh/post/from/) [the](/zh/post/the/) [city](/zh/post/city/) center."
+- **名词**: （与from连用）远处，远方。例如: "I [could](/zh/post/could/) [see](/zh/post/see/) [something](/zh/post/something/) moving [in](/zh/post/in/) [the](/zh/post/the/) [far](/zh/post/far/)."
 
 ## 短语
-- "[far](/post/far/) [and](/post/and/) [wide](/post/wide/)" 意为到处，广泛。例如: "[Search](/post/search/) [far](/post/far/) [and](/post/and/) [wide](/post/wide/) [for](/post/for/) [the](/post/the/) lost [treasure](/post/treasure/)."
-- "[as](/post/as/) [far](/post/far/) [as](/post/as/) I [know](/post/know/)" 意为据我所知。例如: "[As](/post/as/) [far](/post/far/) [as](/post/as/) I [know](/post/know/), [they](/post/they/) haven't made [a](/post/a/) [decision](/post/decision/) [yet](/post/yet/)."
+- "[far](/zh/post/far/) [and](/zh/post/and/) [wide](/zh/post/wide/)" 意为到处，广泛。例如: "[Search](/zh/post/search/) [far](/zh/post/far/) [and](/zh/post/and/) [wide](/zh/post/wide/) [for](/zh/post/for/) [the](/zh/post/the/) lost [treasure](/zh/post/treasure/)."
+- "[as](/zh/post/as/) [far](/zh/post/far/) [as](/zh/post/as/) I [know](/zh/post/know/)" 意为据我所知。例如: "[As](/zh/post/as/) [far](/zh/post/far/) [as](/zh/post/as/) I [know](/zh/post/know/), [they](/zh/post/they/) haven't made [a](/zh/post/a/) [decision](/zh/post/decision/) [yet](/zh/post/yet/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) [airport](/post/airport/) is located [far](/post/far/) [from](/post/from/) [the](/post/the/) downtown [area](/post/area/)."
-- 副词: "[He](/post/he/) ran [so](/post/so/) [fast](/post/fast/) [that](/post/that/) [he](/post/he/) was [soon](/post/soon/) [far](/post/far/) [ahead](/post/ahead/) [of](/post/of/) [us](/post/us/)."
-- 名词: "[We](/post/we/) [can](/post/can/) [only](/post/only/) speculate [about](/post/about/) [what](/post/what/) lies [in](/post/in/) [the](/post/the/) [far](/post/far/)."
+- 形容词: "[The](/zh/post/the/) [airport](/zh/post/airport/) is located [far](/zh/post/far/) [from](/zh/post/from/) [the](/zh/post/the/) downtown [area](/zh/post/area/)."
+- 副词: "[He](/zh/post/he/) ran [so](/zh/post/so/) [fast](/zh/post/fast/) [that](/zh/post/that/) [he](/zh/post/he/) was [soon](/zh/post/soon/) [far](/zh/post/far/) [ahead](/zh/post/ahead/) [of](/zh/post/of/) [us](/zh/post/us/)."
+- 名词: "[We](/zh/post/we/) [can](/zh/post/can/) [only](/zh/post/only/) speculate [about](/zh/post/about/) [what](/zh/post/what/) lies [in](/zh/post/in/) [the](/zh/post/the/) [far](/zh/post/far/)."
 
 ## 同义词
-- [distant](/post/distant/)
-- [remote](/post/remote/)
-- [away](/post/away/)
+- [distant](/zh/post/distant/)
+- [remote](/zh/post/remote/)
+- [away](/zh/post/away/)
 - out-of-the-way
 - long-distance

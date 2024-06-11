@@ -7,48 +7,48 @@ description = '[bəut] n.小船，艇；渔船'
 keywords = ['ai words', 'boat']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈboʊt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [A](/en/post/a/) [small](/en/post/small/), [usually](/en/post/usually/) waterborne [vessel](/en/post/vessel/) [for](/en/post/for/) [transport](/en/post/transport/), fishing, [or](/en/post/or/) recreation, typically having [a](/en/post/a/) [single](/en/post/single/) mast [and](/en/post/and/) [sail](/en/post/sail/) [or](/en/post/or/) oars.
-   - [Example](/en/post/example/): "[We](/en/post/we/) decided [to](/en/post/to/) [rent](/en/post/rent/) [a](/en/post/a/) [boat](/en/post/boat/) [for](/en/post/for/) [the](/en/post/the/) [day](/en/post/day/) [and](/en/post/and/) [go](/en/post/go/) sailing."
-- **2.** [A](/en/post/a/) [vehicle](/en/post/vehicle/) [that](/en/post/that/) moves [on](/en/post/on/) [water](/en/post/water/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) motorboat [or](/en/post/or/) [a](/en/post/a/) rowboat.
-   - [Example](/en/post/example/): "[The](/en/post/the/) ferry was waiting [at](/en/post/at/) [the](/en/post/the/) [dock](/en/post/dock/) [with](/en/post/with/) [its](/en/post/its/) passengers [and](/en/post/and/) [their](/en/post/their/) boats."
+### [Noun](/post/noun/)
+- **1.** [A](/post/a/) [small](/post/small/), [usually](/post/usually/) waterborne [vessel](/post/vessel/) [for](/post/for/) [transport](/post/transport/), fishing, [or](/post/or/) recreation, typically having [a](/post/a/) [single](/post/single/) mast [and](/post/and/) [sail](/post/sail/) [or](/post/or/) oars.
+   - [Example](/post/example/): "[We](/post/we/) decided [to](/post/to/) [rent](/post/rent/) [a](/post/a/) [boat](/post/boat/) [for](/post/for/) [the](/post/the/) [day](/post/day/) [and](/post/and/) [go](/post/go/) sailing."
+- **2.** [A](/post/a/) [vehicle](/post/vehicle/) [that](/post/that/) moves [on](/post/on/) [water](/post/water/), [such](/post/such/) [as](/post/as/) [a](/post/a/) motorboat [or](/post/or/) [a](/post/a/) rowboat.
+   - [Example](/post/example/): "[The](/post/the/) ferry was waiting [at](/post/at/) [the](/post/the/) [dock](/post/dock/) [with](/post/with/) [its](/post/its/) passengers [and](/post/and/) [their](/post/their/) boats."
 
-### [Verb](/en/post/verb/)
-- **1.** (transitive) [To](/en/post/to/) [travel](/en/post/travel/) [or](/en/post/or/) [move](/en/post/move/) [in](/en/post/in/) [or](/en/post/or/) [on](/en/post/on/) [a](/en/post/a/) [boat](/en/post/boat/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) sailors navigated [the](/en/post/the/) [boat](/en/post/boat/) [through](/en/post/through/) [the](/en/post/the/) [stormy](/en/post/stormy/) waters."
-- **2.** (intransitive) [To](/en/post/to/) embark [or](/en/post/or/) [get](/en/post/get/) [into](/en/post/into/) [a](/en/post/a/) [boat](/en/post/boat/) [for](/en/post/for/) [transportation](/en/post/transportation/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) tourists boarded [the](/en/post/the/) cruise [ship](/en/post/ship/)."
+### [Verb](/post/verb/)
+- **1.** (transitive) [To](/post/to/) [travel](/post/travel/) [or](/post/or/) [move](/post/move/) [in](/post/in/) [or](/post/or/) [on](/post/on/) [a](/post/a/) [boat](/post/boat/).
+   - [Example](/post/example/): "[The](/post/the/) sailors navigated [the](/post/the/) [boat](/post/boat/) [through](/post/through/) [the](/post/the/) [stormy](/post/stormy/) waters."
+- **2.** (intransitive) [To](/post/to/) embark [or](/post/or/) [get](/post/get/) [into](/post/into/) [a](/post/a/) [boat](/post/boat/) [for](/post/for/) [transportation](/post/transportation/).
+   - [Example](/post/example/): "[The](/post/the/) tourists boarded [the](/post/the/) cruise [ship](/post/ship/)."
 
-### [Adjective](/en/post/adjective/)
-- Referring [to](/en/post/to/) [a](/en/post/a/) [mode](/en/post/mode/) [of](/en/post/of/) [transportation](/en/post/transportation/) [or](/en/post/or/) [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [craft](/en/post/craft/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [wooden](/en/post/wooden/) sailboat was [a](/en/post/a/) classic [example](/en/post/example/) [of](/en/post/of/) [traditional](/en/post/traditional/) [design](/en/post/design/)."
+### [Adjective](/post/adjective/)
+- Referring [to](/post/to/) [a](/post/a/) [mode](/post/mode/) [of](/post/of/) [transportation](/post/transportation/) [or](/post/or/) [a](/post/a/) [type](/post/type/) [of](/post/of/) [craft](/post/craft/).
+   - [Example](/post/example/): "[The](/post/the/) [wooden](/post/wooden/) sailboat was [a](/post/a/) classic [example](/post/example/) [of](/post/of/) [traditional](/post/traditional/) [design](/post/design/)."
 
-### [Adverb](/en/post/adverb/)
-- [Used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) [something](/en/post/something/) is done [on](/en/post/on/) [a](/en/post/a/) [boat](/en/post/boat/), [like](/en/post/like/) navigating [or](/en/post/or/) maneuvering.
-   - [Example](/en/post/example/): "[She](/en/post/she/) expertly steered [the](/en/post/the/) [boat](/en/post/boat/) [around](/en/post/around/) [the](/en/post/the/) rocks."
+### [Adverb](/post/adverb/)
+- [Used](/post/used/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [manner](/post/manner/) [in](/post/in/) [which](/post/which/) [something](/post/something/) is done [on](/post/on/) [a](/post/a/) [boat](/post/boat/), [like](/post/like/) navigating [or](/post/or/) maneuvering.
+   - [Example](/post/example/): "[She](/post/she/) expertly steered [the](/post/the/) [boat](/post/boat/) [around](/post/around/) [the](/post/the/) rocks."
 
 ## Phrases
-- "[Take](/en/post/take/) [the](/en/post/the/) [boat](/en/post/boat/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [for](/en/post/for/) [a](/en/post/a/) [ride](/en/post/ride/) [in](/en/post/in/) [a](/en/post/a/) [boat](/en/post/boat/).
-- "[Row](/en/post/row/) [boat](/en/post/boat/)" [or](/en/post/or/) "sailboat" are [specific](/en/post/specific/) types [of](/en/post/of/) boats.
-- "[Life](/en/post/life/) jackets [on](/en/post/on/) [board](/en/post/board/)" is [a](/en/post/a/) [safety](/en/post/safety/) [precaution](/en/post/precaution/) [for](/en/post/for/) boating.
+- "[Take](/post/take/) [the](/post/the/) [boat](/post/boat/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) [go](/post/go/) [for](/post/for/) [a](/post/a/) [ride](/post/ride/) [in](/post/in/) [a](/post/a/) [boat](/post/boat/).
+- "[Row](/post/row/) [boat](/post/boat/)" [or](/post/or/) "sailboat" are [specific](/post/specific/) types [of](/post/of/) boats.
+- "[Life](/post/life/) jackets [on](/post/on/) [board](/post/board/)" is [a](/post/a/) [safety](/post/safety/) [precaution](/post/precaution/) [for](/post/for/) boating.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) spent [the](/en/post/the/) [weekend](/en/post/weekend/) [on](/en/post/on/) [our](/en/post/our/) sailboat, enjoying [the](/en/post/the/) [lake](/en/post/lake/) views."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [captain](/en/post/captain/) skillfully boatied [the](/en/post/the/) [ship](/en/post/ship/) [through](/en/post/through/) [the](/en/post/the/) [narrow](/en/post/narrow/) [canal](/en/post/canal/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sleek speedboat was [a](/en/post/a/) [sight](/en/post/sight/) [to](/en/post/to/) behold [on](/en/post/on/) [the](/en/post/the/) [water](/en/post/water/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) navigated [the](/en/post/the/) [boat](/en/post/boat/) deftly, avoiding [other](/en/post/other/) vessels."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) spent [the](/post/the/) [weekend](/post/weekend/) [on](/post/on/) [our](/post/our/) sailboat, enjoying [the](/post/the/) [lake](/post/lake/) views."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [captain](/post/captain/) skillfully boatied [the](/post/the/) [ship](/post/ship/) [through](/post/through/) [the](/post/the/) [narrow](/post/narrow/) [canal](/post/canal/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sleek speedboat was [a](/post/a/) [sight](/post/sight/) [to](/post/to/) behold [on](/post/on/) [the](/post/the/) [water](/post/water/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) navigated [the](/post/the/) [boat](/post/boat/) deftly, avoiding [other](/post/other/) vessels."
 
 ## Synonyms
-- [Vessel](/en/post/vessel/)
-- [Craft](/en/post/craft/)
+- [Vessel](/post/vessel/)
+- [Craft](/post/craft/)
 - Watercraft
 - Seafaring
 - Barge
 - Yacht
 - Raft
-- [Canoe](/en/post/canoe/)
+- [Canoe](/post/canoe/)
 - Kayak

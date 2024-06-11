@@ -7,28 +7,28 @@ description = '[səkˈsesful] a.成功的，结果良好的'
 keywords = ['ai words', 'successful']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səkˈsesfl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Achieving [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) proficiency, [success](/en/post/success/), [or](/en/post/or/) accomplishment. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is [a](/en/post/a/) [successful](/en/post/successful/) entrepreneur."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has achieved [a](/en/post/a/) [significant](/en/post/significant/) [level](/en/post/level/) [of](/en/post/of/) [success](/en/post/success/) [or](/en/post/or/) is characterized [by](/en/post/by/) [success](/en/post/success/). [For](/en/post/for/) [example](/en/post/example/): "[Many](/en/post/many/) [successful](/en/post/successful/) [people](/en/post/people/) [attribute](/en/post/attribute/) [their](/en/post/their/) achievements [to](/en/post/to/) [hard](/en/post/hard/) [work](/en/post/work/)."
+- **[Adjective](/post/adjective/)**: Achieving [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) proficiency, [success](/post/success/), [or](/post/or/) accomplishment. [For](/post/for/) [example](/post/example/): "[She](/post/she/) is [a](/post/a/) [successful](/post/successful/) entrepreneur."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) has achieved [a](/post/a/) [significant](/post/significant/) [level](/post/level/) [of](/post/of/) [success](/post/success/) [or](/post/or/) is characterized [by](/post/by/) [success](/post/success/). [For](/post/for/) [example](/post/example/): "[Many](/post/many/) [successful](/post/successful/) [people](/post/people/) [attribute](/post/attribute/) [their](/post/their/) achievements [to](/post/to/) [hard](/post/hard/) [work](/post/work/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [successful](/en/post/successful/) [in](/en/post/in/)" [means](/en/post/means/) [to](/en/post/to/) [achieve](/en/post/achieve/) [success](/en/post/success/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) endeavor.
-- "[A](/en/post/a/) [successful](/en/post/successful/) [career](/en/post/career/)" refers [to](/en/post/to/) [a](/en/post/a/) long-term, [prosperous](/en/post/prosperous/) [professional](/en/post/professional/) [life](/en/post/life/).
-- "She's had [several](/en/post/several/) [successful](/en/post/successful/) projects [in](/en/post/in/) [a](/en/post/a/) [row](/en/post/row/)."
+- "[Be](/post/be/) [successful](/post/successful/) [in](/post/in/)" [means](/post/means/) [to](/post/to/) [achieve](/post/achieve/) [success](/post/success/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) endeavor.
+- "[A](/post/a/) [successful](/post/successful/) [career](/post/career/)" refers [to](/post/to/) [a](/post/a/) long-term, [prosperous](/post/prosperous/) [professional](/post/professional/) [life](/post/life/).
+- "She's had [several](/post/several/) [successful](/post/successful/) projects [in](/post/in/) [a](/post/a/) [row](/post/row/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) innovative marketing [strategy](/en/post/strategy/) led [to](/en/post/to/) [a](/en/post/a/) [successful](/en/post/successful/) [product](/en/post/product/) [launch](/en/post/launch/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [successful](/en/post/successful/) CEO shared [her](/en/post/her/) insights [during](/en/post/during/) [the](/en/post/the/) [conference](/en/post/conference/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) studied tirelessly [to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) [successful](/en/post/successful/) [doctor](/en/post/doctor/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) innovative marketing [strategy](/post/strategy/) led [to](/post/to/) [a](/post/a/) [successful](/post/successful/) [product](/post/product/) [launch](/post/launch/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [successful](/post/successful/) CEO shared [her](/post/her/) insights [during](/post/during/) [the](/post/the/) [conference](/post/conference/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) studied tirelessly [to](/post/to/) [become](/post/become/) [a](/post/a/) [successful](/post/successful/) [doctor](/post/doctor/)."
 
 ## Synonyms
 - Accomplished
 - Profitable
 - Flourishing
-- [Victorious](/en/post/victorious/)
+- [Victorious](/post/victorious/)
 - Prevailing
 
 ## Antonyms
@@ -36,4 +36,4 @@ keywords = ['ai words', 'successful']
 - Failing
 - Disastrous
 - Unproductive
-- [Unfortunate](/en/post/unfortunate/)
+- [Unfortunate](/post/unfortunate/)

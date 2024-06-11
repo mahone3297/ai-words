@@ -7,36 +7,36 @@ description = '[əbˈdʒek∫ən] n.反对,异议;不喜欢'
 keywords = ['ai words', 'objection']
 +++
 
-## [Word](/en/post/word/): [Objection](/en/post/objection/)
+## [Word](/post/word/): [Objection](/post/objection/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əbˈdʒekʃn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [reason](/en/post/reason/) [or](/en/post/or/) [argument](/en/post/argument/) expressing disapproval, disagreement, [or](/en/post/or/) opposition [to](/en/post/to/) [something](/en/post/something/); typically [a](/en/post/a/) [formal](/en/post/formal/) [protest](/en/post/protest/) [against](/en/post/against/) an [idea](/en/post/idea/), [proposal](/en/post/proposal/), [or](/en/post/or/) [decision](/en/post/decision/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) raised [several](/en/post/several/) objections [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [reason](/post/reason/) [or](/post/or/) [argument](/post/argument/) expressing disapproval, disagreement, [or](/post/or/) opposition [to](/post/to/) [something](/post/something/); typically [a](/post/a/) [formal](/post/formal/) [protest](/post/protest/) [against](/post/against/) an [idea](/post/idea/), [proposal](/post/proposal/), [or](/post/or/) [decision](/post/decision/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) raised [several](/post/several/) objections [to](/post/to/) [the](/post/the/) [new](/post/new/) [policy](/post/policy/) [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _"[The](/en/post/the/) defense attorney presented [multiple](/en/post/multiple/) objections [to](/en/post/to/) [the](/en/post/the/) prosecutor's [line](/en/post/line/) [of](/en/post/of/) questioning."_
+[Example](/post/example/) [sentence](/post/sentence/): _"[The](/post/the/) defense attorney presented [multiple](/post/multiple/) objections [to](/post/to/) [the](/post/the/) prosecutor's [line](/post/line/) [of](/post/of/) questioning."_
 
-- **[Verb](/en/post/verb/)**: ([object](/en/post/object/)) [To](/en/post/to/) [express](/en/post/express/) opposition, disapproval, [or](/en/post/or/) dissent, [especially](/en/post/especially/) formally [or](/en/post/or/) explicitly. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) objected strenuously [to](/en/post/to/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [his](/en/post/his/) [image](/en/post/image/) [without](/en/post/without/) [permission](/en/post/permission/)."
+- **[Verb](/post/verb/)**: ([object](/post/object/)) [To](/post/to/) [express](/post/express/) opposition, disapproval, [or](/post/or/) dissent, [especially](/post/especially/) formally [or](/post/or/) explicitly. [For](/post/for/) [example](/post/example/): "[He](/post/he/) objected strenuously [to](/post/to/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [his](/post/his/) [image](/post/image/) [without](/post/without/) [permission](/post/permission/)."
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _"[If](/en/post/if/) [you](/en/post/you/) [object](/en/post/object/) [to](/en/post/to/) [any](/en/post/any/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [contract](/en/post/contract/), [you](/en/post/you/) [should](/en/post/should/) [discuss](/en/post/discuss/) [it](/en/post/it/) [with](/en/post/with/) [your](/en/post/your/) [lawyer](/en/post/lawyer/) [before](/en/post/before/) signing."_
+[Example](/post/example/) [sentence](/post/sentence/): _"[If](/post/if/) [you](/post/you/) [object](/post/object/) [to](/post/to/) [any](/post/any/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [contract](/post/contract/), [you](/post/you/) [should](/post/should/) [discuss](/post/discuss/) [it](/post/it/) [with](/post/with/) [your](/post/your/) [lawyer](/post/lawyer/) [before](/post/before/) signing."_
 
 ## Phrases
-- "[Objection](/en/post/objection/) overruled": [A](/en/post/a/) [statement](/en/post/statement/) made [by](/en/post/by/) [a](/en/post/a/) [judge](/en/post/judge/) [in](/en/post/in/) [a](/en/post/a/) [legal](/en/post/legal/) context [when](/en/post/when/) rejecting [a](/en/post/a/) party's [objection](/en/post/objection/).
-- "[Without](/en/post/without/) [objection](/en/post/objection/)": [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [no](/en/post/no/) [one](/en/post/one/) [present](/en/post/present/) has [any](/en/post/any/) opposing views [or](/en/post/or/) arguments [regarding](/en/post/regarding/) [a](/en/post/a/) [motion](/en/post/motion/) [or](/en/post/or/) [suggestion](/en/post/suggestion/).
-- "[Take](/en/post/take/) [no](/en/post/no/) [objection](/en/post/objection/)": [To](/en/post/to/) [have](/en/post/have/) [no](/en/post/no/) [issue](/en/post/issue/) [with](/en/post/with/) [or](/en/post/or/) [not](/en/post/not/) [oppose](/en/post/oppose/) [something](/en/post/something/).
+- "[Objection](/post/objection/) overruled": [A](/post/a/) [statement](/post/statement/) made [by](/post/by/) [a](/post/a/) [judge](/post/judge/) [in](/post/in/) [a](/post/a/) [legal](/post/legal/) context [when](/post/when/) rejecting [a](/post/a/) party's [objection](/post/objection/).
+- "[Without](/post/without/) [objection](/post/objection/)": [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [no](/post/no/) [one](/post/one/) [present](/post/present/) has [any](/post/any/) opposing views [or](/post/or/) arguments [regarding](/post/regarding/) [a](/post/a/) [motion](/post/motion/) [or](/post/or/) [suggestion](/post/suggestion/).
+- "[Take](/post/take/) [no](/post/no/) [objection](/post/objection/)": [To](/post/to/) [have](/post/have/) [no](/post/no/) [issue](/post/issue/) [with](/post/with/) [or](/post/or/) [not](/post/not/) [oppose](/post/oppose/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [customer](/en/post/customer/) lodged an [objection](/en/post/objection/) [about](/en/post/about/) [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [service](/en/post/service/) [provided](/en/post/provided/)."
-- **[Verb](/en/post/verb/)**: "I [must](/en/post/must/) [object](/en/post/object/) [to](/en/post/to/) [being](/en/post/being/) blamed [for](/en/post/for/) [something](/en/post/something/) [that](/en/post/that/) was [clearly](/en/post/clearly/) [not](/en/post/not/) [my](/en/post/my/) [fault](/en/post/fault/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [customer](/post/customer/) lodged an [objection](/post/objection/) [about](/post/about/) [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [service](/post/service/) [provided](/post/provided/)."
+- **[Verb](/post/verb/)**: "I [must](/post/must/) [object](/post/object/) [to](/post/to/) [being](/post/being/) blamed [for](/post/for/) [something](/post/something/) [that](/post/that/) was [clearly](/post/clearly/) [not](/post/not/) [my](/post/my/) [fault](/post/fault/)."
 
 ## Synonyms
-- [Protest](/en/post/protest/)
+- [Protest](/post/protest/)
 - Dissent
-- [Dispute](/en/post/dispute/)
-- [Challenge](/en/post/challenge/)
+- [Dispute](/post/dispute/)
+- [Challenge](/post/challenge/)
 - Grievance
-- [Complaint](/en/post/complaint/)
+- [Complaint](/post/complaint/)
 - Reservation
 - Opposition
 - Counterargument

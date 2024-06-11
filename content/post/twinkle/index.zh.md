@@ -11,20 +11,20 @@ keywords = ['ai words', 'twinkle']
 /twɪŋk(ə)l/
 
 ## 释义
-- **动词**: 闪烁；闪耀。例如: "[The](/post/the/) stars twinkled [in](/post/in/) [the](/post/the/) [clear](/post/clear/) [night](/post/night/) [sky](/post/sky/)."
-- **名词**: (尤指眼睛的)闪烁，闪耀。例如: "[Her](/post/her/) eyes twinkled [with](/post/with/) amusement."
+- **动词**: 闪烁；闪耀。例如: "[The](/zh/post/the/) stars twinkled [in](/zh/post/in/) [the](/zh/post/the/) [clear](/zh/post/clear/) [night](/zh/post/night/) [sky](/zh/post/sky/)."
+- **名词**: (尤指眼睛的)闪烁，闪耀。例如: "[Her](/zh/post/her/) eyes twinkled [with](/zh/post/with/) amusement."
 
 ## 短语
-- "[twinkle](/post/twinkle/) [in](/post/in/) one's [eye](/post/eye/)" 指某人心中的计划或秘密喜悦。例如: "[There](/post/there/) was [a](/post/a/) mischievous [twinkle](/post/twinkle/) [in](/post/in/) [his](/post/his/) [eye](/post/eye/) [when](/post/when/) [he](/post/he/) suggested [the](/post/the/) prank."
-- "[twinkle](/post/twinkle/), [twinkle](/post/twinkle/), [little](/post/little/) [star](/post/star/)" 是一首著名的儿童歌曲。
+- "[twinkle](/zh/post/twinkle/) [in](/zh/post/in/) one's [eye](/zh/post/eye/)" 指某人心中的计划或秘密喜悦。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) mischievous [twinkle](/zh/post/twinkle/) [in](/zh/post/in/) [his](/zh/post/his/) [eye](/zh/post/eye/) [when](/zh/post/when/) [he](/zh/post/he/) suggested [the](/zh/post/the/) prank."
+- "[twinkle](/zh/post/twinkle/), [twinkle](/zh/post/twinkle/), [little](/zh/post/little/) [star](/zh/post/star/)" 是一首著名的儿童歌曲。
 
 ## 例句
-- 动词: "[The](/post/the/) Christmas lights [on](/post/on/) [the](/post/the/) [tree](/post/tree/) twinkled merrily."
-- 名词: "[There](/post/there/) was [a](/post/a/) [twinkle](/post/twinkle/) [in](/post/in/) [her](/post/her/) [eye](/post/eye/) [as](/post/as/) [she](/post/she/) told [the](/post/the/) [joke](/post/joke/)."
+- 动词: "[The](/zh/post/the/) Christmas lights [on](/zh/post/on/) [the](/zh/post/the/) [tree](/zh/post/tree/) twinkled merrily."
+- 名词: "[There](/zh/post/there/) was [a](/zh/post/a/) [twinkle](/zh/post/twinkle/) [in](/zh/post/in/) [her](/zh/post/her/) [eye](/zh/post/eye/) [as](/zh/post/as/) [she](/zh/post/she/) told [the](/zh/post/the/) [joke](/zh/post/joke/)."
 
 ## 同义词
 - shimmer
-- [glitter](/post/glitter/)
-- [sparkle](/post/sparkle/)
+- [glitter](/zh/post/glitter/)
+- [sparkle](/zh/post/sparkle/)
 - glisten
 - flicker

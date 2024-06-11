@@ -7,29 +7,29 @@ description = '[ˈfiːmeil] n.雌性的动物；女子'
 keywords = ['ai words', 'female']
 +++
 
-## [Word](/en/post/word/): [Female](/en/post/female/)
+## [Word](/post/word/): [Female](/post/female/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfiːmeɪl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [adult](/en/post/adult/) [human](/en/post/human/) [being](/en/post/being/) [who](/en/post/who/) is biologically [female](/en/post/female/), typically having [the](/en/post/the/) reproductive organs [and](/en/post/and/) [secondary](/en/post/secondary/) [sex](/en/post/sex/) characteristics [of](/en/post/of/) [a](/en/post/a/) [woman](/en/post/woman/). [Example](/en/post/example/): "[The](/en/post/the/) [class](/en/post/class/) consisted [of](/en/post/of/) 20 males [and](/en/post/and/) 15 females."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) denoting [the](/en/post/the/) [sex](/en/post/sex/) [that](/en/post/that/) [can](/en/post/can/) [bear](/en/post/bear/) offspring [or](/en/post/or/) [produce](/en/post/produce/) eggs, [especially](/en/post/especially/) [in](/en/post/in/) animals [and](/en/post/and/) plants. [Example](/en/post/example/): "[Female](/en/post/female/) mammals [have](/en/post/have/) mammary glands [that](/en/post/that/) [produce](/en/post/produce/) [milk](/en/post/milk/) [for](/en/post/for/) [their](/en/post/their/) [young](/en/post/young/)."
-- [In](/en/post/in/) [some](/en/post/some/) contexts, [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) gender identity [of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) identifies [as](/en/post/as/) [a](/en/post/a/) [woman](/en/post/woman/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) is [a](/en/post/a/) [proud](/en/post/proud/) transgender [female](/en/post/female/) [and](/en/post/and/) activist [for](/en/post/for/) LGBTQ+ rights."
+- **[Noun](/post/noun/)**: An [adult](/post/adult/) [human](/post/human/) [being](/post/being/) [who](/post/who/) is biologically [female](/post/female/), typically having [the](/post/the/) reproductive organs [and](/post/and/) [secondary](/post/secondary/) [sex](/post/sex/) characteristics [of](/post/of/) [a](/post/a/) [woman](/post/woman/). [Example](/post/example/): "[The](/post/the/) [class](/post/class/) consisted [of](/post/of/) 20 males [and](/post/and/) 15 females."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) denoting [the](/post/the/) [sex](/post/sex/) [that](/post/that/) [can](/post/can/) [bear](/post/bear/) offspring [or](/post/or/) [produce](/post/produce/) eggs, [especially](/post/especially/) [in](/post/in/) animals [and](/post/and/) plants. [Example](/post/example/): "[Female](/post/female/) mammals [have](/post/have/) mammary glands [that](/post/that/) [produce](/post/produce/) [milk](/post/milk/) [for](/post/for/) [their](/post/their/) [young](/post/young/)."
+- [In](/post/in/) [some](/post/some/) contexts, [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) gender identity [of](/post/of/) [a](/post/a/) [person](/post/person/) [who](/post/who/) identifies [as](/post/as/) [a](/post/a/) [woman](/post/woman/).
+   - [Example](/post/example/): "[She](/post/she/) is [a](/post/a/) [proud](/post/proud/) transgender [female](/post/female/) [and](/post/and/) activist [for](/post/for/) LGBTQ+ rights."
 
 ## Phrases
-- "[Opposite](/en/post/opposite/) [sex](/en/post/sex/)": Refers [to](/en/post/to/) [the](/en/post/the/) [fact](/en/post/fact/) [that](/en/post/that/) [female](/en/post/female/) is [the](/en/post/the/) [opposite](/en/post/opposite/) [sex](/en/post/sex/) [to](/en/post/to/) [male](/en/post/male/).
-- "[Female](/en/post/female/) [lead](/en/post/lead/)/[male](/en/post/male/) [lead](/en/post/lead/)": [In](/en/post/in/) entertainment, [this](/en/post/this/) [phrase](/en/post/phrase/) denotes [the](/en/post/the/) [main](/en/post/main/) [character](/en/post/character/) [who](/en/post/who/) is [female](/en/post/female/)/[male](/en/post/male/).
-- "[Female](/en/post/female/) counterpart": [The](/en/post/the/) [corresponding](/en/post/corresponding/) [female](/en/post/female/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [pair](/en/post/pair/) [or](/en/post/or/) [group](/en/post/group/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [comparison](/en/post/comparison/) [with](/en/post/with/) [a](/en/post/a/) [male](/en/post/male/) [equivalent](/en/post/equivalent/).
+- "[Opposite](/post/opposite/) [sex](/post/sex/)": Refers [to](/post/to/) [the](/post/the/) [fact](/post/fact/) [that](/post/that/) [female](/post/female/) is [the](/post/the/) [opposite](/post/opposite/) [sex](/post/sex/) [to](/post/to/) [male](/post/male/).
+- "[Female](/post/female/) [lead](/post/lead/)/[male](/post/male/) [lead](/post/lead/)": [In](/post/in/) entertainment, [this](/post/this/) [phrase](/post/phrase/) denotes [the](/post/the/) [main](/post/main/) [character](/post/character/) [who](/post/who/) is [female](/post/female/)/[male](/post/male/).
+- "[Female](/post/female/) counterpart": [The](/post/the/) [corresponding](/post/corresponding/) [female](/post/female/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [pair](/post/pair/) [or](/post/or/) [group](/post/group/), [often](/post/often/) [used](/post/used/) [in](/post/in/) [comparison](/post/comparison/) [with](/post/with/) [a](/post/a/) [male](/post/male/) [equivalent](/post/equivalent/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) zookeepers were [able](/en/post/able/) [to](/en/post/to/) [identify](/en/post/identify/) [the](/en/post/the/) new-born giraffe [as](/en/post/as/) [a](/en/post/a/) [female](/en/post/female/) [by](/en/post/by/) [its](/en/post/its/) anatomy."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [plant](/en/post/plant/) has [both](/en/post/both/) [male](/en/post/male/) [and](/en/post/and/) [female](/en/post/female/) flowers [on](/en/post/on/) [the](/en/post/the/) [same](/en/post/same/) [tree](/en/post/tree/) [for](/en/post/for/) pollination."
-- "[In](/en/post/in/) [many](/en/post/many/) species, [the](/en/post/the/) [female](/en/post/female/) is larger [than](/en/post/than/) [the](/en/post/the/) [male](/en/post/male/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) zookeepers were [able](/post/able/) [to](/post/to/) [identify](/post/identify/) [the](/post/the/) new-born giraffe [as](/post/as/) [a](/post/a/) [female](/post/female/) [by](/post/by/) [its](/post/its/) anatomy."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [plant](/post/plant/) has [both](/post/both/) [male](/post/male/) [and](/post/and/) [female](/post/female/) flowers [on](/post/on/) [the](/post/the/) [same](/post/same/) [tree](/post/tree/) [for](/post/for/) pollination."
+- "[In](/post/in/) [many](/post/many/) species, [the](/post/the/) [female](/post/female/) is larger [than](/post/than/) [the](/post/the/) [male](/post/male/)."
 
 ## Synonyms
-- [Woman](/en/post/woman/) ([in](/en/post/in/) [human](/en/post/human/) context)
-- [Female](/en/post/female/) gender
-- Feminine ([in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) qualities [or](/en/post/or/) attributes)
-- Distaff (archaic [or](/en/post/or/) [literary](/en/post/literary/))
+- [Woman](/post/woman/) ([in](/post/in/) [human](/post/human/) context)
+- [Female](/post/female/) gender
+- Feminine ([in](/post/in/) [reference](/post/reference/) [to](/post/to/) qualities [or](/post/or/) attributes)
+- Distaff (archaic [or](/post/or/) [literary](/post/literary/))

@@ -7,47 +7,47 @@ description = '[ˈtenis] n.网球，网球运动'
 keywords = ['ai words', 'tennis']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtenɪs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Tennis](/en/post/tennis/)**: [A](/en/post/a/) [sport](/en/post/sport/) played [with](/en/post/with/) [a](/en/post/a/) [small](/en/post/small/) [ball](/en/post/ball/) [and](/en/post/and/) rackets, typically [on](/en/post/on/) [a](/en/post/a/) [court](/en/post/court/) [with](/en/post/with/) [a](/en/post/a/) [net](/en/post/net/), [where](/en/post/where/) players [hit](/en/post/hit/) [the](/en/post/the/) [ball](/en/post/ball/) [back](/en/post/back/) [and](/en/post/and/) [forth](/en/post/forth/) [over](/en/post/over/) [the](/en/post/the/) [net](/en/post/net/) [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [score](/en/post/score/) points.
-- **[Tennis](/en/post/tennis/) [match](/en/post/match/)**: [A](/en/post/a/) [game](/en/post/game/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) games played [by](/en/post/by/) [two](/en/post/two/) [or](/en/post/or/) [four](/en/post/four/) players, depending [on](/en/post/on/) [the](/en/post/the/) format (singles [or](/en/post/or/) doubles).
-- **[Tennis](/en/post/tennis/) [court](/en/post/court/)**: [The](/en/post/the/) [surface](/en/post/surface/) [and](/en/post/and/) boundaries [where](/en/post/where/) [the](/en/post/the/) [game](/en/post/game/) [of](/en/post/of/) [tennis](/en/post/tennis/) is played.
+### [Noun](/post/noun/)
+- **[Tennis](/post/tennis/)**: [A](/post/a/) [sport](/post/sport/) played [with](/post/with/) [a](/post/a/) [small](/post/small/) [ball](/post/ball/) [and](/post/and/) rackets, typically [on](/post/on/) [a](/post/a/) [court](/post/court/) [with](/post/with/) [a](/post/a/) [net](/post/net/), [where](/post/where/) players [hit](/post/hit/) [the](/post/the/) [ball](/post/ball/) [back](/post/back/) [and](/post/and/) [forth](/post/forth/) [over](/post/over/) [the](/post/the/) [net](/post/net/) [in](/post/in/) [order](/post/order/) [to](/post/to/) [score](/post/score/) points.
+- **[Tennis](/post/tennis/) [match](/post/match/)**: [A](/post/a/) [game](/post/game/) [or](/post/or/) [series](/post/series/) [of](/post/of/) games played [by](/post/by/) [two](/post/two/) [or](/post/or/) [four](/post/four/) players, depending [on](/post/on/) [the](/post/the/) format (singles [or](/post/or/) doubles).
+- **[Tennis](/post/tennis/) [court](/post/court/)**: [The](/post/the/) [surface](/post/surface/) [and](/post/and/) boundaries [where](/post/where/) [the](/post/the/) [game](/post/game/) [of](/post/of/) [tennis](/post/tennis/) is played.
 
-### [Verb](/en/post/verb/)
-- **[Play](/en/post/play/) [tennis](/en/post/tennis/)**: [To](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [the](/en/post/the/) [sport](/en/post/sport/) [of](/en/post/of/) [tennis](/en/post/tennis/), [either](/en/post/either/) competitively [or](/en/post/or/) recreationally.
-- **[Learn](/en/post/learn/) [tennis](/en/post/tennis/)**: [To](/en/post/to/) [acquire](/en/post/acquire/) [the](/en/post/the/) skills [necessary](/en/post/necessary/) [to](/en/post/to/) [play](/en/post/play/) [the](/en/post/the/) [sport](/en/post/sport/).
+### [Verb](/post/verb/)
+- **[Play](/post/play/) [tennis](/post/tennis/)**: [To](/post/to/) [participate](/post/participate/) [in](/post/in/) [the](/post/the/) [sport](/post/sport/) [of](/post/of/) [tennis](/post/tennis/), [either](/post/either/) competitively [or](/post/or/) recreationally.
+- **[Learn](/post/learn/) [tennis](/post/tennis/)**: [To](/post/to/) [acquire](/post/acquire/) [the](/post/the/) skills [necessary](/post/necessary/) [to](/post/to/) [play](/post/play/) [the](/post/the/) [sport](/post/sport/).
 
-### [Adjective](/en/post/adjective/)
-- **Tennissic**: Relating [to](/en/post/to/) [or](/en/post/or/) characterized [by](/en/post/by/) [the](/en/post/the/) [sport](/en/post/sport/) [of](/en/post/of/) [tennis](/en/post/tennis/).
+### [Adjective](/post/adjective/)
+- **Tennissic**: Relating [to](/post/to/) [or](/post/or/) characterized [by](/post/by/) [the](/post/the/) [sport](/post/sport/) [of](/post/of/) [tennis](/post/tennis/).
 
-### [Noun](/en/post/noun/) ([plural](/en/post/plural/))
-- **[Tennis](/en/post/tennis/) balls**: [The](/en/post/the/) [small](/en/post/small/), [hollow](/en/post/hollow/) [rubber](/en/post/rubber/) balls [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) [game](/en/post/game/).
+### [Noun](/post/noun/) ([plural](/post/plural/))
+- **[Tennis](/post/tennis/) balls**: [The](/post/the/) [small](/post/small/), [hollow](/post/hollow/) [rubber](/post/rubber/) balls [used](/post/used/) [in](/post/in/) [the](/post/the/) [game](/post/game/).
 
 ## Phrases
-- "[Play](/en/post/play/) [a](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) [tennis](/en/post/tennis/)"
-- "[Serve](/en/post/serve/) an ace [in](/en/post/in/) [tennis](/en/post/tennis/)"
-- "Ace [of](/en/post/of/) serves" ([a](/en/post/a/) [player](/en/post/player/) [who](/en/post/who/) consistently serves [well](/en/post/well/))
-- "Backhand [stroke](/en/post/stroke/)" ([a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [shot](/en/post/shot/) [in](/en/post/in/) [tennis](/en/post/tennis/))
-- "Forehand [winner](/en/post/winner/)" ([a](/en/post/a/) [successful](/en/post/successful/) [shot](/en/post/shot/) [from](/en/post/from/) [the](/en/post/the/) forehand [side](/en/post/side/))
+- "[Play](/post/play/) [a](/post/a/) [set](/post/set/) [of](/post/of/) [tennis](/post/tennis/)"
+- "[Serve](/post/serve/) an ace [in](/post/in/) [tennis](/post/tennis/)"
+- "Ace [of](/post/of/) serves" ([a](/post/a/) [player](/post/player/) [who](/post/who/) consistently serves [well](/post/well/))
+- "Backhand [stroke](/post/stroke/)" ([a](/post/a/) [type](/post/type/) [of](/post/of/) [shot](/post/shot/) [in](/post/in/) [tennis](/post/tennis/))
+- "Forehand [winner](/post/winner/)" ([a](/post/a/) [successful](/post/successful/) [shot](/post/shot/) [from](/post/from/) [the](/post/the/) forehand [side](/post/side/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was an avid [tennis](/en/post/tennis/) [player](/en/post/player/), [often](/en/post/often/) spending weekends [at](/en/post/at/) [the](/en/post/the/) [local](/en/post/local/) courts."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [couple](/en/post/couple/) decided [to](/en/post/to/) [play](/en/post/play/) [a](/en/post/a/) [friendly](/en/post/friendly/) [tennis](/en/post/tennis/) [match](/en/post/match/) [after](/en/post/after/) [work](/en/post/work/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) Tennissic [club](/en/post/club/) hosted [a](/en/post/a/) tournament [for](/en/post/for/) beginners [and](/en/post/and/) experts [alike](/en/post/alike/)."
-- **[Noun](/en/post/noun/) ([plural](/en/post/plural/))**: "[They](/en/post/they/) purchased [a](/en/post/a/) canister [of](/en/post/of/) [new](/en/post/new/) [tennis](/en/post/tennis/) balls [for](/en/post/for/) [their](/en/post/their/) [next](/en/post/next/) [game](/en/post/game/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was an avid [tennis](/post/tennis/) [player](/post/player/), [often](/post/often/) spending weekends [at](/post/at/) [the](/post/the/) [local](/post/local/) courts."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [couple](/post/couple/) decided [to](/post/to/) [play](/post/play/) [a](/post/a/) [friendly](/post/friendly/) [tennis](/post/tennis/) [match](/post/match/) [after](/post/after/) [work](/post/work/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) Tennissic [club](/post/club/) hosted [a](/post/a/) tournament [for](/post/for/) beginners [and](/post/and/) experts [alike](/post/alike/)."
+- **[Noun](/post/noun/) ([plural](/post/plural/))**: "[They](/post/they/) purchased [a](/post/a/) canister [of](/post/of/) [new](/post/new/) [tennis](/post/tennis/) balls [for](/post/for/) [their](/post/their/) [next](/post/next/) [game](/post/game/)."
 
 ## Synonyms
-- [Lawn](/en/post/lawn/) [tennis](/en/post/tennis/)
-- [Racket](/en/post/racket/) [sport](/en/post/sport/)
-- [Court](/en/post/court/) [game](/en/post/game/)
-- [Game](/en/post/game/) [of](/en/post/of/) rally
-- Rally [play](/en/post/play/)
+- [Lawn](/post/lawn/) [tennis](/post/tennis/)
+- [Racket](/post/racket/) [sport](/post/sport/)
+- [Court](/post/court/) [game](/post/game/)
+- [Game](/post/game/) [of](/post/of/) rally
+- Rally [play](/post/play/)
 
 ## Related Terms
-- **[Net](/en/post/net/)**: [The](/en/post/the/) dividing [line](/en/post/line/) [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) halves [of](/en/post/of/) [a](/en/post/a/) [tennis](/en/post/tennis/) [court](/en/post/court/).
-- **[Serve](/en/post/serve/)**: [The](/en/post/the/) [initial](/en/post/initial/) [action](/en/post/action/) [of](/en/post/of/) starting [a](/en/post/a/) [point](/en/post/point/) [by](/en/post/by/) hitting [the](/en/post/the/) [ball](/en/post/ball/) towards [the](/en/post/the/) opponent's [side](/en/post/side/) [of](/en/post/of/) [the](/en/post/the/) [court](/en/post/court/).
-- **[Return](/en/post/return/)**: Hitting [the](/en/post/the/) [ball](/en/post/ball/) [back](/en/post/back/) [after](/en/post/after/) [it](/en/post/it/) has been served [or](/en/post/or/) lobbed.
-- **[Set](/en/post/set/)**: [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) games won consecutively [by](/en/post/by/) [one](/en/post/one/) [player](/en/post/player/), typically required [to](/en/post/to/) [win](/en/post/win/) [a](/en/post/a/) [match](/en/post/match/).
+- **[Net](/post/net/)**: [The](/post/the/) dividing [line](/post/line/) [between](/post/between/) [the](/post/the/) [two](/post/two/) halves [of](/post/of/) [a](/post/a/) [tennis](/post/tennis/) [court](/post/court/).
+- **[Serve](/post/serve/)**: [The](/post/the/) [initial](/post/initial/) [action](/post/action/) [of](/post/of/) starting [a](/post/a/) [point](/post/point/) [by](/post/by/) hitting [the](/post/the/) [ball](/post/ball/) towards [the](/post/the/) opponent's [side](/post/side/) [of](/post/of/) [the](/post/the/) [court](/post/court/).
+- **[Return](/post/return/)**: Hitting [the](/post/the/) [ball](/post/ball/) [back](/post/back/) [after](/post/after/) [it](/post/it/) has been served [or](/post/or/) lobbed.
+- **[Set](/post/set/)**: [A](/post/a/) [group](/post/group/) [of](/post/of/) games won consecutively [by](/post/by/) [one](/post/one/) [player](/post/player/), typically required [to](/post/to/) [win](/post/win/) [a](/post/a/) [match](/post/match/).

@@ -11,20 +11,20 @@ keywords = ['ai words', 'vigorous']
 /vɪrˈdʒinəs/
 
 ## 释义
-- **形容词**: 充满活力的；精力充沛的；强烈的。例如: "[She](/post/she/) has [a](/post/a/) [vigorous](/post/vigorous/) lifestyle, exercising [every](/post/every/) [day](/post/day/)."
-- **名词**: （常与the连用）青春，旺盛时期。例如: "[In](/post/in/) [the](/post/the/) [prime](/post/prime/) [of](/post/of/) [his](/post/his/) [life](/post/life/), [he](/post/he/) was known [for](/post/for/) [his](/post/his/) [vigorous](/post/vigorous/) [spirit](/post/spirit/)."
+- **形容词**: 充满活力的；精力充沛的；强烈的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [vigorous](/zh/post/vigorous/) lifestyle, exercising [every](/zh/post/every/) [day](/zh/post/day/)."
+- **名词**: （常与the连用）青春，旺盛时期。例如: "[In](/zh/post/in/) [the](/zh/post/the/) [prime](/zh/post/prime/) [of](/zh/post/of/) [his](/zh/post/his/) [life](/zh/post/life/), [he](/zh/post/he/) was known [for](/zh/post/for/) [his](/zh/post/his/) [vigorous](/zh/post/vigorous/) [spirit](/zh/post/spirit/)."
 
 ## 短语
-- "vigorously [healthy](/post/healthy/)" 意为非常健康，充满活力。
-- "vigorously [defend](/post/defend/)" 表示坚决捍卫或辩护。
+- "vigorously [healthy](/zh/post/healthy/)" 意为非常健康，充满活力。
+- "vigorously [defend](/zh/post/defend/)" 表示坚决捍卫或辩护。
 
 ## 例句
-- 形容词: "[The](/post/the/) athlete's [vigorous](/post/vigorous/) [training](/post/training/) regime helped [him](/post/him/) [win](/post/win/) [the](/post/the/) [gold](/post/gold/) [medal](/post/medal/)."
-- 名词: "[At](/post/at/) [the](/post/the/) [age](/post/age/) [of](/post/of/) 70, [she](/post/she/) [still](/post/still/) had [the](/post/the/) vigor [of](/post/of/) [someone](/post/someone/) [much](/post/much/) younger."
+- 形容词: "[The](/zh/post/the/) athlete's [vigorous](/zh/post/vigorous/) [training](/zh/post/training/) regime helped [him](/zh/post/him/) [win](/zh/post/win/) [the](/zh/post/the/) [gold](/zh/post/gold/) [medal](/zh/post/medal/)."
+- 名词: "[At](/zh/post/at/) [the](/zh/post/the/) [age](/zh/post/age/) [of](/zh/post/of/) 70, [she](/zh/post/she/) [still](/zh/post/still/) had [the](/zh/post/the/) vigor [of](/zh/post/of/) [someone](/zh/post/someone/) [much](/zh/post/much/) younger."
 
 ## 同义词
-- [Dynamic](/post/dynamic/)
+- [Dynamic](/zh/post/dynamic/)
 - Energetic
 - Robust
-- [Lively](/post/lively/)
-- [Strong](/post/strong/)
+- [Lively](/zh/post/lively/)
+- [Strong](/zh/post/strong/)

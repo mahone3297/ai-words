@@ -7,33 +7,33 @@ description = '[ˈglitə] vi.闪闪发光 n.闪光'
 keywords = ['ai words', 'glitter']
 +++
 
-## [Word](/en/post/word/): [Glitter](/en/post/glitter/)
+## [Word](/post/word/): [Glitter](/post/glitter/)
 
-### [Pronunciation](/en/post/pronunciation/)
+### [Pronunciation](/post/pronunciation/)
 /ˈɡlɪtər/
 
 ### Definitions
-- **[Noun](/en/post/noun/)**: [Small](/en/post/small/), shining particles [or](/en/post/or/) pieces [that](/en/post/that/) [reflect](/en/post/reflect/) [light](/en/post/light/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) decoration. [Example](/en/post/example/): "[The](/en/post/the/) dancer's costume was adorned [with](/en/post/with/) sparkling [glitter](/en/post/glitter/)."
-  - [Also](/en/post/also/), [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [off](/en/post/off/) [a](/en/post/a/) [bright](/en/post/bright/), sparkling [light](/en/post/light/): "[The](/en/post/the/) diamonds glinted [and](/en/post/and/) glittered [under](/en/post/under/) [the](/en/post/the/) chandelier."
+- **[Noun](/post/noun/)**: [Small](/post/small/), shining particles [or](/post/or/) pieces [that](/post/that/) [reflect](/post/reflect/) [light](/post/light/), [often](/post/often/) [used](/post/used/) [for](/post/for/) decoration. [Example](/post/example/): "[The](/post/the/) dancer's costume was adorned [with](/post/with/) sparkling [glitter](/post/glitter/)."
+  - [Also](/post/also/), [the](/post/the/) [act](/post/act/) [of](/post/of/) giving [off](/post/off/) [a](/post/a/) [bright](/post/bright/), sparkling [light](/post/light/): "[The](/post/the/) diamonds glinted [and](/post/and/) glittered [under](/post/under/) [the](/post/the/) chandelier."
   
-- **[Verb](/en/post/verb/)**: (intransitive) [To](/en/post/to/) [shine](/en/post/shine/) [with](/en/post/with/) [a](/en/post/a/) [bright](/en/post/bright/), shimmering [light](/en/post/light/) [due](/en/post/due/) [to](/en/post/to/) [reflection](/en/post/reflection/) [from](/en/post/from/) [small](/en/post/small/) particles [or](/en/post/or/) facets. [Example](/en/post/example/): "Stars glittered [in](/en/post/in/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/)."
-  - (transitive) [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [shine](/en/post/shine/) brightly [or](/en/post/or/) [sparkle](/en/post/sparkle/). [Example](/en/post/example/): "[She](/en/post/she/) glittered [her](/en/post/her/) nails [with](/en/post/with/) [silver](/en/post/silver/) [polish](/en/post/polish/)."
+- **[Verb](/post/verb/)**: (intransitive) [To](/post/to/) [shine](/post/shine/) [with](/post/with/) [a](/post/a/) [bright](/post/bright/), shimmering [light](/post/light/) [due](/post/due/) [to](/post/to/) [reflection](/post/reflection/) [from](/post/from/) [small](/post/small/) particles [or](/post/or/) facets. [Example](/post/example/): "Stars glittered [in](/post/in/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/)."
+  - (transitive) [To](/post/to/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [shine](/post/shine/) brightly [or](/post/or/) [sparkle](/post/sparkle/). [Example](/post/example/): "[She](/post/she/) glittered [her](/post/her/) nails [with](/post/with/) [silver](/post/silver/) [polish](/post/polish/)."
 
 ### Phrases
-- "[Glitter](/en/post/glitter/) [and](/en/post/and/) glamor" refers [to](/en/post/to/) an [atmosphere](/en/post/atmosphere/) [or](/en/post/or/) [style](/en/post/style/) characterized [by](/en/post/by/) showy [or](/en/post/or/) ostentatious [display](/en/post/display/).
-- "[All](/en/post/all/) [that](/en/post/that/) glitters is [not](/en/post/not/) [gold](/en/post/gold/)" is [a](/en/post/a/) proverb suggesting [that](/en/post/that/) things [may](/en/post/may/) [not](/en/post/not/) [be](/en/post/be/) [as](/en/post/as/) [valuable](/en/post/valuable/) [or](/en/post/or/) [genuine](/en/post/genuine/) [as](/en/post/as/) [they](/en/post/they/) initially [appear](/en/post/appear/).
+- "[Glitter](/post/glitter/) [and](/post/and/) glamor" refers [to](/post/to/) an [atmosphere](/post/atmosphere/) [or](/post/or/) [style](/post/style/) characterized [by](/post/by/) showy [or](/post/or/) ostentatious [display](/post/display/).
+- "[All](/post/all/) [that](/post/that/) glitters is [not](/post/not/) [gold](/post/gold/)" is [a](/post/a/) proverb suggesting [that](/post/that/) things [may](/post/may/) [not](/post/not/) [be](/post/be/) [as](/post/as/) [valuable](/post/valuable/) [or](/post/or/) [genuine](/post/genuine/) [as](/post/as/) [they](/post/they/) initially [appear](/post/appear/).
 
-### [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children loved decorating [their](/en/post/their/) Christmas cards [with](/en/post/with/) colorful [glitter](/en/post/glitter/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) sequins [on](/en/post/on/) [her](/en/post/her/) [dress](/en/post/dress/) glittered [under](/en/post/under/) [the](/en/post/the/) spotlight."
+### [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children loved decorating [their](/post/their/) Christmas cards [with](/post/with/) colorful [glitter](/post/glitter/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) sequins [on](/post/on/) [her](/post/her/) [dress](/post/dress/) glittered [under](/post/under/) [the](/post/the/) spotlight."
 
 ### Synonyms
-- [Sparkle](/en/post/sparkle/)
-- [Shine](/en/post/shine/)
+- [Sparkle](/post/sparkle/)
+- [Shine](/post/shine/)
 - Dazzle
-- [Twinkle](/en/post/twinkle/)
+- [Twinkle](/post/twinkle/)
 - Glimmer
 - Shimmer
 - Gleam
-- [Flash](/en/post/flash/)
+- [Flash](/post/flash/)
 - Scintillate

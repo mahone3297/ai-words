@@ -7,37 +7,37 @@ description = '[əːn] vt.赚得，挣得；获得'
 keywords = ['ai words', 'earn']
 +++
 
-## [Word](/en/post/word/): [Earn](/en/post/earn/)
+## [Word](/post/word/): [Earn](/post/earn/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɜːrn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [acquire](/en/post/acquire/) ([money](/en/post/money/), [respect](/en/post/respect/), qualifications, etc.) [by](/en/post/by/) working, performing [a](/en/post/a/) [service](/en/post/service/), [or](/en/post/or/) achieving [something](/en/post/something/). [It](/en/post/it/) [often](/en/post/often/) implies [that](/en/post/that/) [the](/en/post/the/) acquisition involves [effort](/en/post/effort/) [or](/en/post/or/) [time](/en/post/time/) [over](/en/post/over/) [a](/en/post/a/) [period](/en/post/period/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [acquire](/post/acquire/) ([money](/post/money/), [respect](/post/respect/), qualifications, etc.) [by](/post/by/) working, performing [a](/post/a/) [service](/post/service/), [or](/post/or/) achieving [something](/post/something/). [It](/post/it/) [often](/post/often/) implies [that](/post/that/) [the](/post/the/) acquisition involves [effort](/post/effort/) [or](/post/or/) [time](/post/time/) [over](/post/over/) [a](/post/a/) [period](/post/period/).
 
-  - _Example Sentence_: [She](/en/post/she/) earns [a](/en/post/a/) [good](/en/post/good/) [salary](/en/post/salary/) [through](/en/post/through/) [her](/en/post/her/) [hard](/en/post/hard/) [work](/en/post/work/) [at](/en/post/at/) [the](/en/post/the/) [law](/en/post/law/) [firm](/en/post/firm/).
+  - _Example Sentence_: [She](/post/she/) earns [a](/post/a/) [good](/post/good/) [salary](/post/salary/) [through](/post/through/) [her](/post/her/) [hard](/post/hard/) [work](/post/work/) [at](/post/at/) [the](/post/the/) [law](/post/law/) [firm](/post/firm/).
   
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [deserve](/en/post/deserve/) [or](/en/post/or/) [be](/en/post/be/) entitled [to](/en/post/to/) ([a](/en/post/a/) [reward](/en/post/reward/), [praise](/en/post/praise/), [punishment](/en/post/punishment/), etc.) [because](/en/post/because/) [of](/en/post/of/) one's actions [or](/en/post/or/) qualities.
+- **[Verb](/post/verb/)**: [To](/post/to/) [deserve](/post/deserve/) [or](/post/or/) [be](/post/be/) entitled [to](/post/to/) ([a](/post/a/) [reward](/post/reward/), [praise](/post/praise/), [punishment](/post/punishment/), etc.) [because](/post/because/) [of](/post/of/) one's actions [or](/post/or/) qualities.
 
-  - _Example Sentence_: [His](/en/post/his/) dedication [to](/en/post/to/) [the](/en/post/the/) [project](/en/post/project/) earned [him](/en/post/him/) [a](/en/post/a/) promotion.
+  - _Example Sentence_: [His](/post/his/) dedication [to](/post/to/) [the](/post/the/) [project](/post/project/) earned [him](/post/him/) [a](/post/a/) promotion.
 
 ## Phrases
-- "[Earn](/en/post/earn/) [a](/en/post/a/) [living](/en/post/living/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [money](/en/post/money/) [to](/en/post/to/) [support](/en/post/support/) [oneself](/en/post/oneself/) [through](/en/post/through/) [work](/en/post/work/) [or](/en/post/or/) [other](/en/post/other/) activities.
-- "[Earn](/en/post/earn/) one's stripes" refers [to](/en/post/to/) gaining [experience](/en/post/experience/) [or](/en/post/or/) proving [oneself](/en/post/oneself/) [worthy](/en/post/worthy/) [of](/en/post/of/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [role](/en/post/role/).
-- "[Earn](/en/post/earn/) [respect](/en/post/respect/)" suggests [that](/en/post/that/) [someone](/en/post/someone/) has gained admiration [or](/en/post/or/) esteem [through](/en/post/through/) [their](/en/post/their/) [behavior](/en/post/behavior/) [or](/en/post/or/) achievements.
+- "[Earn](/post/earn/) [a](/post/a/) [living](/post/living/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [money](/post/money/) [to](/post/to/) [support](/post/support/) [oneself](/post/oneself/) [through](/post/through/) [work](/post/work/) [or](/post/or/) [other](/post/other/) activities.
+- "[Earn](/post/earn/) one's stripes" refers [to](/post/to/) gaining [experience](/post/experience/) [or](/post/or/) proving [oneself](/post/oneself/) [worthy](/post/worthy/) [of](/post/of/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [role](/post/role/).
+- "[Earn](/post/earn/) [respect](/post/respect/)" suggests [that](/post/that/) [someone](/post/someone/) has gained admiration [or](/post/or/) esteem [through](/post/through/) [their](/post/their/) [behavior](/post/behavior/) [or](/post/or/) achievements.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) earns [extra](/en/post/extra/) [income](/en/post/income/) [by](/en/post/by/) tutoring students [on](/en/post/on/) weekends.
-- **[Verb](/en/post/verb/)**: [Her](/en/post/her/) tireless efforts [in](/en/post/in/) [community](/en/post/community/) [service](/en/post/service/) [have](/en/post/have/) earned [her](/en/post/her/) [widespread](/en/post/widespread/) [recognition](/en/post/recognition/) [and](/en/post/and/) accolades.
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: [He](/post/he/) earns [extra](/post/extra/) [income](/post/income/) [by](/post/by/) tutoring students [on](/post/on/) weekends.
+- **[Verb](/post/verb/)**: [Her](/post/her/) tireless efforts [in](/post/in/) [community](/post/community/) [service](/post/service/) [have](/post/have/) earned [her](/post/her/) [widespread](/post/widespread/) [recognition](/post/recognition/) [and](/post/and/) accolades.
 
 ## Synonyms
-- [Gain](/en/post/gain/)
-- [Make](/en/post/make/)
-- [Receive](/en/post/receive/)
-- [Attain](/en/post/attain/)
+- [Gain](/post/gain/)
+- [Make](/post/make/)
+- [Receive](/post/receive/)
+- [Attain](/post/attain/)
 - Procure
-- [Deserve](/en/post/deserve/)
-- [Merit](/en/post/merit/)
+- [Deserve](/post/deserve/)
+- [Merit](/post/merit/)
 - Accrue
-- [Win](/en/post/win/)
-- [Collect](/en/post/collect/)
+- [Win](/post/win/)
+- [Collect](/post/collect/)

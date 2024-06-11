@@ -7,42 +7,42 @@ description = '[kɔːs] a.粗的，粗糙的'
 keywords = ['ai words', 'coarse']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɔːs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [Coarse](/en/post/coarse/): [adjective](/en/post/adjective/) referring [to](/en/post/to/) [something](/en/post/something/) having [a](/en/post/a/) [rough](/en/post/rough/) texture, lacking refinement, [or](/en/post/or/) [being](/en/post/being/) [crude](/en/post/crude/) [in](/en/post/in/) [nature](/en/post/nature/).
-- [Course](/en/post/course/): [noun](/en/post/noun/), [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [food](/en/post/food/) served [in](/en/post/in/) [large](/en/post/large/) quantities, [often](/en/post/often/) [at](/en/post/at/) [a](/en/post/a/) [meal](/en/post/meal/).
+### [Noun](/post/noun/)
+- [Coarse](/post/coarse/): [adjective](/post/adjective/) referring [to](/post/to/) [something](/post/something/) having [a](/post/a/) [rough](/post/rough/) texture, lacking refinement, [or](/post/or/) [being](/post/being/) [crude](/post/crude/) [in](/post/in/) [nature](/post/nature/).
+- [Course](/post/course/): [noun](/post/noun/), [a](/post/a/) [type](/post/type/) [of](/post/of/) [food](/post/food/) served [in](/post/in/) [large](/post/large/) quantities, [often](/post/often/) [at](/post/at/) [a](/post/a/) [meal](/post/meal/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) coarseen: [to](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) coarser [or](/en/post/or/) [less](/en/post/less/) refined [in](/en/post/in/) [quality](/en/post/quality/).
-- [To](/en/post/to/) [handle](/en/post/handle/) [roughly](/en/post/roughly/): [to](/en/post/to/) [treat](/en/post/treat/) [roughly](/en/post/roughly/) [or](/en/post/or/) carelessly [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) perceived coarseness.
+### [Verb](/post/verb/)
+- [To](/post/to/) coarseen: [to](/post/to/) [make](/post/make/) [something](/post/something/) coarser [or](/post/or/) [less](/post/less/) refined [in](/post/in/) [quality](/post/quality/).
+- [To](/post/to/) [handle](/post/handle/) [roughly](/post/roughly/): [to](/post/to/) [treat](/post/treat/) [roughly](/post/roughly/) [or](/post/or/) carelessly [due](/post/due/) [to](/post/to/) [its](/post/its/) perceived coarseness.
 
-### [Adjective](/en/post/adjective/)
-- Coarsely: [as](/en/post/as/) an [adverb](/en/post/adverb/), indicating [a](/en/post/a/) [rough](/en/post/rough/) [or](/en/post/or/) [crude](/en/post/crude/) [manner](/en/post/manner/).
+### [Adjective](/post/adjective/)
+- Coarsely: [as](/post/as/) an [adverb](/post/adverb/), indicating [a](/post/a/) [rough](/post/rough/) [or](/post/or/) [crude](/post/crude/) [manner](/post/manner/).
 
 ## Phrases
-- "[A](/en/post/a/) [coarse](/en/post/coarse/) [fabric](/en/post/fabric/)"
-- "[A](/en/post/a/) [course](/en/post/course/) [meal](/en/post/meal/)"
-- "[His](/en/post/his/) [language](/en/post/language/) was unnecessarily [coarse](/en/post/coarse/)."
-- "[Roughly](/en/post/roughly/) speaking, [the](/en/post/the/) [soil](/en/post/soil/) is [quite](/en/post/quite/) [coarse](/en/post/coarse/)."
+- "[A](/post/a/) [coarse](/post/coarse/) [fabric](/post/fabric/)"
+- "[A](/post/a/) [course](/post/course/) [meal](/post/meal/)"
+- "[His](/post/his/) [language](/post/language/) was unnecessarily [coarse](/post/coarse/)."
+- "[Roughly](/post/roughly/) speaking, [the](/post/the/) [soil](/post/soil/) is [quite](/post/quite/) [coarse](/post/coarse/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) tablecloth had [a](/en/post/a/) [coarse](/en/post/coarse/) [weave](/en/post/weave/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) chef tried [to](/en/post/to/) coarseen [the](/en/post/the/) [sauce](/en/post/sauce/) [by](/en/post/by/) adding [more](/en/post/more/) spices."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) spoke coarsely, shocking [those](/en/post/those/) [around](/en/post/around/) [him](/en/post/him/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) tablecloth had [a](/post/a/) [coarse](/post/coarse/) [weave](/post/weave/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) chef tried [to](/post/to/) coarseen [the](/post/the/) [sauce](/post/sauce/) [by](/post/by/) adding [more](/post/more/) spices."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) spoke coarsely, shocking [those](/post/those/) [around](/post/around/) [him](/post/him/)."
 
 ## Synonyms
 - Rugged
-- [Crude](/en/post/crude/)
+- [Crude](/post/crude/)
 - Unrefined
 - Coarse-grained
 - Primal
 
 ## Antonyms
-- [Fine](/en/post/fine/)
-- [Smooth](/en/post/smooth/)
+- [Fine](/post/fine/)
+- [Smooth](/post/smooth/)
 - Polished
-- [Delicate](/en/post/delicate/)
+- [Delicate](/post/delicate/)
 - Refined

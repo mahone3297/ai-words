@@ -11,19 +11,19 @@ keywords = ['ai words', 'overcoat']
 /ˈoʊvərkoʊt/
 
 ## 释义
-- **名词**: 一种长及膝盖的厚重外套，通常在冬季或寒冷天气中穿着。例如: "[He](/post/he/) [put](/post/put/) [on](/post/on/) [his](/post/his/) [overcoat](/post/overcoat/) [before](/post/before/) stepping [out](/post/out/) [into](/post/into/) [the](/post/the/) [snow](/post/snow/)."
+- **名词**: 一种长及膝盖的厚重外套，通常在冬季或寒冷天气中穿着。例如: "[He](/zh/post/he/) [put](/zh/post/put/) [on](/zh/post/on/) [his](/zh/post/his/) [overcoat](/zh/post/overcoat/) [before](/zh/post/before/) stepping [out](/zh/post/out/) [into](/zh/post/into/) [the](/zh/post/the/) [snow](/zh/post/snow/)."
 
 ## 短语
-- "[Wear](/post/wear/) an [overcoat](/post/overcoat/)" 意思是穿上大衣。
-- "[Take](/post/take/) [off](/post/off/) [your](/post/your/) [overcoat](/post/overcoat/)" 是指脱下大衣。
+- "[Wear](/zh/post/wear/) an [overcoat](/zh/post/overcoat/)" 意思是穿上大衣。
+- "[Take](/zh/post/take/) [off](/zh/post/off/) [your](/zh/post/your/) [overcoat](/zh/post/overcoat/)" 是指脱下大衣。
 
 ## 例句
-- "[She](/post/she/) wore [a](/post/a/) stylish [overcoat](/post/overcoat/) [to](/post/to/) [keep](/post/keep/) [her](/post/her/) [warm](/post/warm/) [during](/post/during/) [the](/post/the/) [cold](/post/cold/) [winter](/post/winter/) nights."
-- "[The](/post/the/) [old](/post/old/) [man](/post/man/) buttoned [up](/post/up/) [his](/post/his/) [overcoat](/post/overcoat/) tightly [against](/post/against/) [the](/post/the/) biting [wind](/post/wind/)."
+- "[She](/zh/post/she/) wore [a](/zh/post/a/) stylish [overcoat](/zh/post/overcoat/) [to](/zh/post/to/) [keep](/zh/post/keep/) [her](/zh/post/her/) [warm](/zh/post/warm/) [during](/zh/post/during/) [the](/zh/post/the/) [cold](/zh/post/cold/) [winter](/zh/post/winter/) nights."
+- "[The](/zh/post/the/) [old](/zh/post/old/) [man](/zh/post/man/) buttoned [up](/zh/post/up/) [his](/zh/post/his/) [overcoat](/zh/post/overcoat/) tightly [against](/zh/post/against/) [the](/zh/post/the/) biting [wind](/zh/post/wind/)."
 
 ## 同义词
-- [Coat](/post/coat/)
-- [Jacket](/post/jacket/)
+- [Coat](/zh/post/coat/)
+- [Jacket](/zh/post/jacket/)
 - Parka
-- Trench [coat](/post/coat/)
+- Trench [coat](/zh/post/coat/)
 - Raincoat

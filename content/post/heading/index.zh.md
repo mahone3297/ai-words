@@ -12,22 +12,22 @@ keywords = ['ai words', 'heading']
 
 ## 释义
 - **名词**: 
-   - 头衔；标题：例如 "[The](/post/the/) [heading](/post/heading/) [of](/post/of/) [the](/post/the/) [article](/post/article/) is '[Climate](/post/climate/) [Change](/post/change/) [and](/post/and/) [Its](/post/its/) [Impact](/post/impact/)'."
-   - 航向；方向：例如 "[Keep](/post/keep/) [the](/post/the/) [boat](/post/boat/) [on](/post/on/) [a](/post/a/) northerly [heading](/post/heading/)."
-   - 章节标题：例如 "[Please](/post/please/) [write](/post/write/) [a](/post/a/) [creative](/post/creative/) [heading](/post/heading/) [for](/post/for/) [this](/post/this/) [section](/post/section/)."
+   - 头衔；标题：例如 "[The](/zh/post/the/) [heading](/zh/post/heading/) [of](/zh/post/of/) [the](/zh/post/the/) [article](/zh/post/article/) is '[Climate](/zh/post/climate/) [Change](/zh/post/change/) [and](/zh/post/and/) [Its](/zh/post/its/) [Impact](/zh/post/impact/)'."
+   - 航向；方向：例如 "[Keep](/zh/post/keep/) [the](/zh/post/the/) [boat](/zh/post/boat/) [on](/zh/post/on/) [a](/zh/post/a/) northerly [heading](/zh/post/heading/)."
+   - 章节标题：例如 "[Please](/zh/post/please/) [write](/zh/post/write/) [a](/zh/post/a/) [creative](/zh/post/creative/) [heading](/zh/post/heading/) [for](/zh/post/for/) [this](/zh/post/this/) [section](/zh/post/section/)."
 
 ## 短语
-- "[Page](/post/page/) [heading](/post/heading/)" 指页面的标题或顶部标识。
-- "[Flight](/post/flight/) [heading](/post/heading/)" 在航空中指的是飞机的飞行方向。
+- "[Page](/zh/post/page/) [heading](/zh/post/heading/)" 指页面的标题或顶部标识。
+- "[Flight](/zh/post/flight/) [heading](/zh/post/heading/)" 在航空中指的是飞机的飞行方向。
 
 ## 例句
-- 名词: "[The](/post/the/) [heading](/post/heading/) [of](/post/of/) [the](/post/the/) email was '[Urgent](/post/urgent/) [Business](/post/business/) [Proposal](/post/proposal/)'."
-- 航向: "[The](/post/the/) [pilot](/post/pilot/) adjusted [the](/post/the/) plane's [heading](/post/heading/) [to](/post/to/) [avoid](/post/avoid/) [storm](/post/storm/) clouds."
-- 章节标题: "[The](/post/the/) [heading](/post/heading/) '[History](/post/history/) [and](/post/and/) [Origin](/post/origin/)' introduced [the](/post/the/) [topic](/post/topic/) [well](/post/well/)."
+- 名词: "[The](/zh/post/the/) [heading](/zh/post/heading/) [of](/zh/post/of/) [the](/zh/post/the/) email was '[Urgent](/zh/post/urgent/) [Business](/zh/post/business/) [Proposal](/zh/post/proposal/)'."
+- 航向: "[The](/zh/post/the/) [pilot](/zh/post/pilot/) adjusted [the](/zh/post/the/) plane's [heading](/zh/post/heading/) [to](/zh/post/to/) [avoid](/zh/post/avoid/) [storm](/zh/post/storm/) clouds."
+- 章节标题: "[The](/zh/post/the/) [heading](/zh/post/heading/) '[History](/zh/post/history/) [and](/zh/post/and/) [Origin](/zh/post/origin/)' introduced [the](/zh/post/the/) [topic](/zh/post/topic/) [well](/zh/post/well/)."
 
 ## 同义词
-- [Title](/post/title/)
+- [Title](/zh/post/title/)
 - Caption
-- [Label](/post/label/)
+- [Label](/zh/post/label/)
 - Prefix
-- [Topic](/post/topic/)
+- [Topic](/zh/post/topic/)

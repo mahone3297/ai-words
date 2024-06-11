@@ -7,41 +7,41 @@ description = '[ˈkɔmprəmaiz] n.妥协，和解'
 keywords = ['ai words', 'compromise']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈprəɪzm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[compromise](/en/post/compromise/)** is [a](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) parties [come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) [mutual](/en/post/mutual/) [agreement](/en/post/agreement/), [usually](/en/post/usually/) [after](/en/post/after/) [each](/en/post/each/) has made concessions, [on](/en/post/on/) [a](/en/post/a/) [matter](/en/post/matter/) [that](/en/post/that/) [they](/en/post/they/) [might](/en/post/might/) [not](/en/post/not/) [otherwise](/en/post/otherwise/) [agree](/en/post/agree/) [upon](/en/post/upon/). [It](/en/post/it/) [often](/en/post/often/) involves [a](/en/post/a/) trade-off [or](/en/post/or/) [a](/en/post/a/) [middle](/en/post/middle/) [ground](/en/post/ground/) [between](/en/post/between/) [different](/en/post/different/) positions [or](/en/post/or/) desires.
+### [Noun](/post/noun/)
+[A](/post/a/) **[compromise](/post/compromise/)** is [a](/post/a/) [situation](/post/situation/) [where](/post/where/) [two](/post/two/) [or](/post/or/) [more](/post/more/) parties [come](/post/come/) [to](/post/to/) [a](/post/a/) [mutual](/post/mutual/) [agreement](/post/agreement/), [usually](/post/usually/) [after](/post/after/) [each](/post/each/) has made concessions, [on](/post/on/) [a](/post/a/) [matter](/post/matter/) [that](/post/that/) [they](/post/they/) [might](/post/might/) [not](/post/not/) [otherwise](/post/otherwise/) [agree](/post/agree/) [upon](/post/upon/). [It](/post/it/) [often](/post/often/) involves [a](/post/a/) trade-off [or](/post/or/) [a](/post/a/) [middle](/post/middle/) [ground](/post/ground/) [between](/post/between/) [different](/post/different/) positions [or](/post/or/) desires.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[compromise](/en/post/compromise/)** [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) concession [or](/en/post/or/) [give](/en/post/give/) [in](/en/post/in/) [to](/en/post/to/) another's demands [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [reach](/en/post/reach/) [a](/en/post/a/) [settlement](/en/post/settlement/) [or](/en/post/or/) [resolution](/en/post/resolution/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) compromised, [as](/en/post/as/) [in](/en/post/in/) having one's integrity [or](/en/post/or/) principles [at](/en/post/at/) [risk](/en/post/risk/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[compromise](/post/compromise/)** [means](/post/means/) [to](/post/to/) [make](/post/make/) [a](/post/a/) concession [or](/post/or/) [give](/post/give/) [in](/post/in/) [to](/post/to/) another's demands [in](/post/in/) [order](/post/order/) [to](/post/to/) [reach](/post/reach/) [a](/post/a/) [settlement](/post/settlement/) [or](/post/or/) [resolution](/post/resolution/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) [being](/post/being/) compromised, [as](/post/as/) [in](/post/in/) having one's integrity [or](/post/or/) principles [at](/post/at/) [risk](/post/risk/).
 
 ## Phrases
-- "[Come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) [compromise](/en/post/compromise/)" signifies [finding](/en/post/finding/) [a](/en/post/a/) mutually [acceptable](/en/post/acceptable/) [solution](/en/post/solution/).
-- "[Compromise](/en/post/compromise/) one's principles" implies giving [up](/en/post/up/) [on](/en/post/on/) values [for](/en/post/for/) [the](/en/post/the/) [sake](/en/post/sake/) [of](/en/post/of/) an [agreement](/en/post/agreement/).
-- "Avoiding [a](/en/post/a/) [compromise](/en/post/compromise/)" suggests refusing [to](/en/post/to/) [settle](/en/post/settle/) [for](/en/post/for/) [a](/en/post/a/) less-than-ideal [solution](/en/post/solution/).
+- "[Come](/post/come/) [to](/post/to/) [a](/post/a/) [compromise](/post/compromise/)" signifies [finding](/post/finding/) [a](/post/a/) mutually [acceptable](/post/acceptable/) [solution](/post/solution/).
+- "[Compromise](/post/compromise/) one's principles" implies giving [up](/post/up/) [on](/post/on/) values [for](/post/for/) [the](/post/the/) [sake](/post/sake/) [of](/post/of/) an [agreement](/post/agreement/).
+- "Avoiding [a](/post/a/) [compromise](/post/compromise/)" suggests refusing [to](/post/to/) [settle](/post/settle/) [for](/post/for/) [a](/post/a/) less-than-ideal [solution](/post/solution/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) months [of](/en/post/of/) negotiations, [both](/en/post/both/) sides [finally](/en/post/finally/) reached [a](/en/post/a/) [compromise](/en/post/compromise/) [on](/en/post/on/) [the](/en/post/the/) budget [proposal](/en/post/proposal/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [compromise](/en/post/compromise/) [on](/en/post/on/) [the](/en/post/the/) [color](/en/post/color/) [of](/en/post/of/) [the](/en/post/the/) [living](/en/post/living/) [room](/en/post/room/) [to](/en/post/to/) [maintain](/en/post/maintain/) [harmony](/en/post/harmony/) [in](/en/post/in/) [their](/en/post/their/) [marriage](/en/post/marriage/)."
-- **Intransitive**: "[His](/en/post/his/) [reputation](/en/post/reputation/) was compromised [when](/en/post/when/) [he](/en/post/he/) refused [to](/en/post/to/) [admit](/en/post/admit/) [his](/en/post/his/) mistakes."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) months [of](/post/of/) negotiations, [both](/post/both/) sides [finally](/post/finally/) reached [a](/post/a/) [compromise](/post/compromise/) [on](/post/on/) [the](/post/the/) budget [proposal](/post/proposal/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) decided [to](/post/to/) [compromise](/post/compromise/) [on](/post/on/) [the](/post/the/) [color](/post/color/) [of](/post/of/) [the](/post/the/) [living](/post/living/) [room](/post/room/) [to](/post/to/) [maintain](/post/maintain/) [harmony](/post/harmony/) [in](/post/in/) [their](/post/their/) [marriage](/post/marriage/)."
+- **Intransitive**: "[His](/post/his/) [reputation](/post/reputation/) was compromised [when](/post/when/) [he](/post/he/) refused [to](/post/to/) [admit](/post/admit/) [his](/post/his/) mistakes."
 
 ## Synonyms
-- [Accommodate](/en/post/accommodate/)
+- [Accommodate](/post/accommodate/)
 - Concede
 - Mediate
 - Negotiate
-- [Compromise](/en/post/compromise/) [oneself](/en/post/oneself/)
-- [Yield](/en/post/yield/)
-- [Make](/en/post/make/) an [agreement](/en/post/agreement/)
-- [Reach](/en/post/reach/) [a](/en/post/a/) [settlement](/en/post/settlement/)
+- [Compromise](/post/compromise/) [oneself](/post/oneself/)
+- [Yield](/post/yield/)
+- [Make](/post/make/) an [agreement](/post/agreement/)
+- [Reach](/post/reach/) [a](/post/a/) [settlement](/post/settlement/)
 
 ## Antonyms
-- [Stand](/en/post/stand/) [firm](/en/post/firm/)
-- [Insist](/en/post/insist/)
-- [Resist](/en/post/resist/)
-- [Oppose](/en/post/oppose/)
-- [Refuse](/en/post/refuse/)
-- [Hold](/en/post/hold/) [out](/en/post/out/)
-- [Stick](/en/post/stick/) [to](/en/post/to/) one's guns
+- [Stand](/post/stand/) [firm](/post/firm/)
+- [Insist](/post/insist/)
+- [Resist](/post/resist/)
+- [Oppose](/post/oppose/)
+- [Refuse](/post/refuse/)
+- [Hold](/post/hold/) [out](/post/out/)
+- [Stick](/post/stick/) [to](/post/to/) one's guns

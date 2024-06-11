@@ -11,20 +11,20 @@ keywords = ['ai words', 'less']
 /lez/
 
 ## 释义
-- **形容词**: 较少的，较小的，不及…那么多的。例如: "[He](/post/he/) wants [to](/post/to/) [eat](/post/eat/) [less](/post/less/) [sugar](/post/sugar/) [to](/post/to/) [stay](/post/stay/) [healthy](/post/healthy/)."
-- **副词**: 更少地，较少。例如: "[She](/post/she/) exercises [less](/post/less/) [frequently](/post/frequently/) [than](/post/than/) [before](/post/before/)."
+- **形容词**: 较少的，较小的，不及…那么多的。例如: "[He](/zh/post/he/) wants [to](/zh/post/to/) [eat](/zh/post/eat/) [less](/zh/post/less/) [sugar](/zh/post/sugar/) [to](/zh/post/to/) [stay](/zh/post/stay/) [healthy](/zh/post/healthy/)."
+- **副词**: 更少地，较少。例如: "[She](/zh/post/she/) exercises [less](/zh/post/less/) [frequently](/zh/post/frequently/) [than](/zh/post/than/) [before](/zh/post/before/)."
 
 ## 短语
-- "[Less](/post/less/) is [more](/post/more/)" 意味着简洁或适度往往更好。
-- "[No](/post/no/) [less](/post/less/) [than](/post/than/)..." 表示不少于，不亚于。例如: "[He](/post/he/) scored [no](/post/no/) [less](/post/less/) [than](/post/than/) 90 points [in](/post/in/) [the](/post/the/) [exam](/post/exam/)."
+- "[Less](/zh/post/less/) is [more](/zh/post/more/)" 意味着简洁或适度往往更好。
+- "[No](/zh/post/no/) [less](/zh/post/less/) [than](/zh/post/than/)..." 表示不少于，不亚于。例如: "[He](/zh/post/he/) scored [no](/zh/post/no/) [less](/zh/post/less/) [than](/zh/post/than/) 90 points [in](/zh/post/in/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
 
 ## 例句
-- 形容词: "[To](/post/to/) [save](/post/save/) [money](/post/money/), [we](/post/we/) [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [less](/post/less/) [expensive](/post/expensive/) items."
-- 副词: "[She](/post/she/) practices [less](/post/less/) diligently [now](/post/now/) compared [to](/post/to/) [when](/post/when/) [she](/post/she/) [first](/post/first/) started."
+- 形容词: "[To](/zh/post/to/) [save](/zh/post/save/) [money](/zh/post/money/), [we](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [buy](/zh/post/buy/) [less](/zh/post/less/) [expensive](/zh/post/expensive/) items."
+- 副词: "[She](/zh/post/she/) practices [less](/zh/post/less/) diligently [now](/zh/post/now/) compared [to](/zh/post/to/) [when](/zh/post/when/) [she](/zh/post/she/) [first](/zh/post/first/) started."
 
 ## 同义词
 - Fewer (用于可数名词)
 - Smaller
-- [Not](/post/not/) [as](/post/as/) [much](/post/much/)
+- [Not](/zh/post/not/) [as](/zh/post/as/) [much](/zh/post/much/)
 - Decreased
 - Reduced

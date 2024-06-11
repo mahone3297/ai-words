@@ -7,30 +7,30 @@ description = '[ˈkæfei] n.咖啡馆；小餐厅'
 keywords = ['ai words', 'cafe']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kæˈfeɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **café** ([also](/en/post/also/) spelled [cafe](/en/post/cafe/)) is [a](/en/post/a/) [small](/en/post/small/) [establishment](/en/post/establishment/) serving [light](/en/post/light/) meals, refreshments, [and](/en/post/and/) beverages, typically [with](/en/post/with/) [a](/en/post/a/) [casual](/en/post/casual/) [atmosphere](/en/post/atmosphere/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) sitting [or](/en/post/or/) spending [time](/en/post/time/) [in](/en/post/in/) [such](/en/post/such/) [a](/en/post/a/) [place](/en/post/place/). Examples [include](/en/post/include/) [a](/en/post/a/) [coffee](/en/post/coffee/) [shop](/en/post/shop/) [or](/en/post/or/) bistro.
+### [Noun](/post/noun/)
+[A](/post/a/) **café** ([also](/post/also/) spelled [cafe](/post/cafe/)) is [a](/post/a/) [small](/post/small/) [establishment](/post/establishment/) serving [light](/post/light/) meals, refreshments, [and](/post/and/) beverages, typically [with](/post/with/) [a](/post/a/) [casual](/post/casual/) [atmosphere](/post/atmosphere/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) sitting [or](/post/or/) spending [time](/post/time/) [in](/post/in/) [such](/post/such/) [a](/post/a/) [place](/post/place/). Examples [include](/post/include/) [a](/post/a/) [coffee](/post/coffee/) [shop](/post/shop/) [or](/post/or/) bistro.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[cafe](/en/post/cafe/)** (informal) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [meal](/en/post/meal/) [or](/en/post/or/) [drink](/en/post/drink/) [at](/en/post/at/) [a](/en/post/a/) café, [or](/en/post/or/) [to](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/) casually [in](/en/post/in/) [one](/en/post/one/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[cafe](/post/cafe/)** (informal) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [meal](/post/meal/) [or](/post/or/) [drink](/post/drink/) [at](/post/at/) [a](/post/a/) café, [or](/post/or/) [to](/post/to/) [spend](/post/spend/) [time](/post/time/) casually [in](/post/in/) [one](/post/one/).
 
 ## Phrases
-- "Grab [a](/en/post/a/) [quick](/en/post/quick/) [coffee](/en/post/coffee/) [at](/en/post/at/) [the](/en/post/the/) [local](/en/post/local/) café"
-- "[Meet](/en/post/meet/) [me](/en/post/me/) [at](/en/post/at/) [the](/en/post/the/) café [after](/en/post/after/) [work](/en/post/work/)"
-- "[The](/en/post/the/) café is [a](/en/post/a/) [popular](/en/post/popular/) [spot](/en/post/spot/) [for](/en/post/for/) students [to](/en/post/to/) [study](/en/post/study/)"
+- "Grab [a](/post/a/) [quick](/post/quick/) [coffee](/post/coffee/) [at](/post/at/) [the](/post/the/) [local](/post/local/) café"
+- "[Meet](/post/meet/) [me](/post/me/) [at](/post/at/) [the](/post/the/) café [after](/post/after/) [work](/post/work/)"
+- "[The](/post/the/) café is [a](/post/a/) [popular](/post/popular/) [spot](/post/spot/) [for](/post/for/) students [to](/post/to/) [study](/post/study/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [usually](/en/post/usually/) grab [breakfast](/en/post/breakfast/) [at](/en/post/at/) [the](/en/post/the/) cozy [little](/en/post/little/) café [down](/en/post/down/) [the](/en/post/the/) [street](/en/post/street/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) decided [to](/en/post/to/) café [and](/en/post/and/) [catch](/en/post/catch/) [up](/en/post/up/) [over](/en/post/over/) [a](/en/post/a/) [cup](/en/post/cup/) [of](/en/post/of/) [coffee](/en/post/coffee/)."
-- **Informal**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [she](/en/post/she/) [often](/en/post/often/) café [to](/en/post/to/) unwind."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [usually](/post/usually/) grab [breakfast](/post/breakfast/) [at](/post/at/) [the](/post/the/) cozy [little](/post/little/) café [down](/post/down/) [the](/post/the/) [street](/post/street/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) decided [to](/post/to/) café [and](/post/and/) [catch](/post/catch/) [up](/post/up/) [over](/post/over/) [a](/post/a/) [cup](/post/cup/) [of](/post/of/) [coffee](/post/coffee/)."
+- **Informal**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [she](/post/she/) [often](/post/often/) café [to](/post/to/) unwind."
 
 ## Synonyms
 - Coffeehouse
 - Bistro
-- [Tea](/en/post/tea/) [room](/en/post/room/)
+- [Tea](/post/tea/) [room](/post/room/)
 - Diner
 - Eatery
 - Hangout
@@ -43,5 +43,5 @@ keywords = ['ai words', 'cafe']
 - Baguette
 - Croissant
 - Pastel de Nata (Portuguese custard tart)
-- [Morning](/en/post/morning/) [routine](/en/post/routine/)
-- Café [culture](/en/post/culture/)
+- [Morning](/post/morning/) [routine](/post/routine/)
+- Café [culture](/post/culture/)

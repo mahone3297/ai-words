@@ -7,29 +7,29 @@ description = '[hɔːk] n.鹰，隼'
 keywords = ['ai words', 'hawk']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /haʊk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) 1. [A](/en/post/a/) [bird](/en/post/bird/) [of](/en/post/of/) prey [with](/en/post/with/) [broad](/en/post/broad/) wings [and](/en/post/and/) [a](/en/post/a/) [long](/en/post/long/) [tail](/en/post/tail/), typically taking birds [and](/en/post/and/) [small](/en/post/small/) mammals [as](/en/post/as/) [its](/en/post/its/) prey. [Example](/en/post/example/): "[A](/en/post/a/) red-tailed [hawk](/en/post/hawk/) soared [overhead](/en/post/overhead/)."
-2. (n) [The](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) selling [goods](/en/post/goods/) [or](/en/post/or/) services energetically [and](/en/post/and/) aggressively. [Example](/en/post/example/): "[He](/en/post/he/) engaged [in](/en/post/in/) high-pressure hawking [to](/en/post/to/) [sell](/en/post/sell/) [his](/en/post/his/) products."
-3. (n) [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) sells things [in](/en/post/in/) [public](/en/post/public/) places [by](/en/post/by/) shouting [out](/en/post/out/) [what](/en/post/what/) [they](/en/post/they/) are selling. [Example](/en/post/example/): "[The](/en/post/the/) [street](/en/post/street/) hawkers were selling souvenirs [to](/en/post/to/) tourists."
+- **[Noun](/post/noun/)**: (n) 1. [A](/post/a/) [bird](/post/bird/) [of](/post/of/) prey [with](/post/with/) [broad](/post/broad/) wings [and](/post/and/) [a](/post/a/) [long](/post/long/) [tail](/post/tail/), typically taking birds [and](/post/and/) [small](/post/small/) mammals [as](/post/as/) [its](/post/its/) prey. [Example](/post/example/): "[A](/post/a/) red-tailed [hawk](/post/hawk/) soared [overhead](/post/overhead/)."
+2. (n) [The](/post/the/) [action](/post/action/) [of](/post/of/) selling [goods](/post/goods/) [or](/post/or/) services energetically [and](/post/and/) aggressively. [Example](/post/example/): "[He](/post/he/) engaged [in](/post/in/) high-pressure hawking [to](/post/to/) [sell](/post/sell/) [his](/post/his/) products."
+3. (n) [A](/post/a/) [person](/post/person/) [who](/post/who/) sells things [in](/post/in/) [public](/post/public/) places [by](/post/by/) shouting [out](/post/out/) [what](/post/what/) [they](/post/they/) are selling. [Example](/post/example/): "[The](/post/the/) [street](/post/street/) hawkers were selling souvenirs [to](/post/to/) tourists."
 
-- **[Verb](/en/post/verb/)**: (v) 1. [To](/en/post/to/) [sell](/en/post/sell/) [something](/en/post/something/), [especially](/en/post/especially/) [by](/en/post/by/) calling [out](/en/post/out/) [to](/en/post/to/) [people](/en/post/people/) [in](/en/post/in/) [the](/en/post/the/) [street](/en/post/street/) [or](/en/post/or/) [by](/en/post/by/) going [from](/en/post/from/) [door](/en/post/door/) [to](/en/post/to/) [door](/en/post/door/). [Example](/en/post/example/): "[He](/en/post/he/) hawked newspapers [on](/en/post/on/) [street](/en/post/street/) corners [when](/en/post/when/) [he](/en/post/he/) was [young](/en/post/young/)."
-2. [To](/en/post/to/) [clear](/en/post/clear/) one's [throat](/en/post/throat/) noisily [by](/en/post/by/) expelling mucus. [Example](/en/post/example/): "[He](/en/post/he/) hawked [and](/en/post/and/) spat [into](/en/post/into/) [the](/en/post/the/) bushes."
+- **[Verb](/post/verb/)**: (v) 1. [To](/post/to/) [sell](/post/sell/) [something](/post/something/), [especially](/post/especially/) [by](/post/by/) calling [out](/post/out/) [to](/post/to/) [people](/post/people/) [in](/post/in/) [the](/post/the/) [street](/post/street/) [or](/post/or/) [by](/post/by/) going [from](/post/from/) [door](/post/door/) [to](/post/to/) [door](/post/door/). [Example](/post/example/): "[He](/post/he/) hawked newspapers [on](/post/on/) [street](/post/street/) corners [when](/post/when/) [he](/post/he/) was [young](/post/young/)."
+2. [To](/post/to/) [clear](/post/clear/) one's [throat](/post/throat/) noisily [by](/post/by/) expelling mucus. [Example](/post/example/): "[He](/post/he/) hawked [and](/post/and/) spat [into](/post/into/) [the](/post/the/) bushes."
 
 ## Phrases
-- "[To](/en/post/to/) [hawk](/en/post/hawk/) one's wares" [means](/en/post/means/) [to](/en/post/to/) actively [promote](/en/post/promote/) [and](/en/post/and/) [sell](/en/post/sell/) [goods](/en/post/goods/) [or](/en/post/or/) services.
-- "Hawk-eyed" describes [someone](/en/post/someone/) [who](/en/post/who/) has [very](/en/post/very/) [sharp](/en/post/sharp/) [vision](/en/post/vision/) [or](/en/post/or/) pays [great](/en/post/great/) [attention](/en/post/attention/) [to](/en/post/to/) [detail](/en/post/detail/).
+- "[To](/post/to/) [hawk](/post/hawk/) one's wares" [means](/post/means/) [to](/post/to/) actively [promote](/post/promote/) [and](/post/and/) [sell](/post/sell/) [goods](/post/goods/) [or](/post/or/) services.
+- "Hawk-eyed" describes [someone](/post/someone/) [who](/post/who/) has [very](/post/very/) [sharp](/post/sharp/) [vision](/post/vision/) [or](/post/or/) pays [great](/post/great/) [attention](/post/attention/) [to](/post/to/) [detail](/post/detail/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([bird](/en/post/bird/))**: "[The](/en/post/the/) majestic [hawk](/en/post/hawk/) perched atop [a](/en/post/a/) [tall](/en/post/tall/) [tree](/en/post/tree/) scanning [for](/en/post/for/) prey."
-- **[Noun](/en/post/noun/) ([seller](/en/post/seller/))**: "[In](/en/post/in/) [the](/en/post/the/) bustling [market](/en/post/market/), [the](/en/post/the/) [fruit](/en/post/fruit/) hawkers' cries filled [the](/en/post/the/) [air](/en/post/air/)."
-- **[Verb](/en/post/verb/) (selling)**: "[During](/en/post/during/) [the](/en/post/the/) [festival](/en/post/festival/), vendors hawked [their](/en/post/their/) handmade crafts [to](/en/post/to/) [eager](/en/post/eager/) shoppers."
-- **[Verb](/en/post/verb/) (clearing [throat](/en/post/throat/))**: "[After](/en/post/after/) [the](/en/post/the/) [cold](/en/post/cold/), [he](/en/post/he/) had [to](/en/post/to/) constantly [hawk](/en/post/hawk/) [and](/en/post/and/) [spit](/en/post/spit/) [to](/en/post/to/) [relieve](/en/post/relieve/) [his](/en/post/his/) congested [chest](/en/post/chest/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([bird](/post/bird/))**: "[The](/post/the/) majestic [hawk](/post/hawk/) perched atop [a](/post/a/) [tall](/post/tall/) [tree](/post/tree/) scanning [for](/post/for/) prey."
+- **[Noun](/post/noun/) ([seller](/post/seller/))**: "[In](/post/in/) [the](/post/the/) bustling [market](/post/market/), [the](/post/the/) [fruit](/post/fruit/) hawkers' cries filled [the](/post/the/) [air](/post/air/)."
+- **[Verb](/post/verb/) (selling)**: "[During](/post/during/) [the](/post/the/) [festival](/post/festival/), vendors hawked [their](/post/their/) handmade crafts [to](/post/to/) [eager](/post/eager/) shoppers."
+- **[Verb](/post/verb/) (clearing [throat](/post/throat/))**: "[After](/post/after/) [the](/post/the/) [cold](/post/cold/), [he](/post/he/) had [to](/post/to/) constantly [hawk](/post/hawk/) [and](/post/and/) [spit](/post/spit/) [to](/post/to/) [relieve](/post/relieve/) [his](/post/his/) congested [chest](/post/chest/)."
 
 ## Synonyms
-- ([noun](/en/post/noun/) - [bird](/en/post/bird/)) Falcon, [eagle](/en/post/eagle/), buzzard
-- ([noun](/en/post/noun/) - [seller](/en/post/seller/)) Peddler, vendor, [street](/en/post/street/) [seller](/en/post/seller/)
-- ([verb](/en/post/verb/) - selling) [Sell](/en/post/sell/), tout, peddle
-- ([verb](/en/post/verb/) - clearing [throat](/en/post/throat/)) [Clear](/en/post/clear/), [spit](/en/post/spit/), expectorate
+- ([noun](/post/noun/) - [bird](/post/bird/)) Falcon, [eagle](/post/eagle/), buzzard
+- ([noun](/post/noun/) - [seller](/post/seller/)) Peddler, vendor, [street](/post/street/) [seller](/post/seller/)
+- ([verb](/post/verb/) - selling) [Sell](/post/sell/), tout, peddle
+- ([verb](/post/verb/) - clearing [throat](/post/throat/)) [Clear](/post/clear/), [spit](/post/spit/), expectorate

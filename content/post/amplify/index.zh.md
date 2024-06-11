@@ -11,20 +11,20 @@ keywords = ['ai words', 'amplify']
 /əˈmɪplɪfaɪ/
 
 ## 释义
-- **动词**: 增大；增强。例如: "[The](/post/the/) amplifier amplified [the](/post/the/) [sound](/post/sound/) [so](/post/so/) [that](/post/that/) [everyone](/post/everyone/) [could](/post/could/) [hear](/post/hear/) [it](/post/it/)."
-- **名词**: 放大器；增益器。例如: "[He](/post/he/) [used](/post/used/) an [electronic](/post/electronic/) amplifier [to](/post/to/) boost [the](/post/the/) [signal](/post/signal/)."
+- **动词**: 增大；增强。例如: "[The](/zh/post/the/) amplifier amplified [the](/zh/post/the/) [sound](/zh/post/sound/) [so](/zh/post/so/) [that](/zh/post/that/) [everyone](/zh/post/everyone/) [could](/zh/post/could/) [hear](/zh/post/hear/) [it](/zh/post/it/)."
+- **名词**: 放大器；增益器。例如: "[He](/zh/post/he/) [used](/zh/post/used/) an [electronic](/zh/post/electronic/) amplifier [to](/zh/post/to/) boost [the](/zh/post/the/) [signal](/zh/post/signal/)."
 
 ## 短语
-- "[Amplify](/post/amplify/) [the](/post/the/) [volume](/post/volume/)" 意为提高音量。
-- "[Amplify](/post/amplify/) [a](/post/a/) [message](/post/message/)" 指的是加强信息的影响力或传达力。
+- "[Amplify](/zh/post/amplify/) [the](/zh/post/the/) [volume](/zh/post/volume/)" 意为提高音量。
+- "[Amplify](/zh/post/amplify/) [a](/zh/post/a/) [message](/zh/post/message/)" 指的是加强信息的影响力或传达力。
 
 ## 例句
-- 动词: "[The](/post/the/) [microphone](/post/microphone/) amplified [her](/post/her/) [voice](/post/voice/) [so](/post/so/) [that](/post/that/) [it](/post/it/) echoed [through](/post/through/) [the](/post/the/) [hall](/post/hall/)."
-- 名词: "[The](/post/the/) audio [system](/post/system/) includes [a](/post/a/) [powerful](/post/powerful/) amplifier [for](/post/for/) [clear](/post/clear/) [sound](/post/sound/) reproduction."
+- 动词: "[The](/zh/post/the/) [microphone](/zh/post/microphone/) amplified [her](/zh/post/her/) [voice](/zh/post/voice/) [so](/zh/post/so/) [that](/zh/post/that/) [it](/zh/post/it/) echoed [through](/zh/post/through/) [the](/zh/post/the/) [hall](/zh/post/hall/)."
+- 名词: "[The](/zh/post/the/) audio [system](/zh/post/system/) includes [a](/zh/post/a/) [powerful](/zh/post/powerful/) amplifier [for](/zh/post/for/) [clear](/zh/post/clear/) [sound](/zh/post/sound/) reproduction."
 
 ## 同义词
-- [Increase](/post/increase/)
+- [Increase](/zh/post/increase/)
 - Boost
-- [Strengthen](/post/strengthen/)
+- [Strengthen](/zh/post/strengthen/)
 - Enhance
-- [Enlarge](/post/enlarge/)
+- [Enlarge](/zh/post/enlarge/)

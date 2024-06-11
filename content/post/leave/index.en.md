@@ -7,40 +7,40 @@ description = '[liːv] vi.离去 vt.离开'
 keywords = ['ai words', 'leave']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /liːv/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [go](/en/post/go/) [away](/en/post/away/) [from](/en/post/from/) [a](/en/post/a/) [place](/en/post/place/), [especially](/en/post/especially/) one's [current](/en/post/current/) [location](/en/post/location/) [or](/en/post/or/) [a](/en/post/a/) [building](/en/post/building/), [area](/en/post/area/), [organization](/en/post/organization/), [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "I [have](/en/post/have/) [to](/en/post/to/) [leave](/en/post/leave/) [early](/en/post/early/) [today](/en/post/today/)."
-  - *[Also](/en/post/also/) transitive*: [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [to](/en/post/to/) [remain](/en/post/remain/) [behind](/en/post/behind/); [abandon](/en/post/abandon/) [or](/en/post/or/) [depart](/en/post/depart/) [from](/en/post/from/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [left](/en/post/left/) [her](/en/post/her/) keys [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
-  - [To](/en/post/to/) [allow](/en/post/allow/) [or](/en/post/or/) [give](/en/post/give/) [permission](/en/post/permission/) [for](/en/post/for/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/) [without](/en/post/without/) [interference](/en/post/interference/). [For](/en/post/for/) [example](/en/post/example/): "[Leave](/en/post/leave/) [the](/en/post/the/) [door](/en/post/door/) [open](/en/post/open/)."
-  - [To](/en/post/to/) [stop](/en/post/stop/) doing [something](/en/post/something/); [cease](/en/post/cease/) participation [or](/en/post/or/) engagement. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) decided [to](/en/post/to/) [leave](/en/post/leave/) [the](/en/post/the/) [project](/en/post/project/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [go](/post/go/) [away](/post/away/) [from](/post/from/) [a](/post/a/) [place](/post/place/), [especially](/post/especially/) one's [current](/post/current/) [location](/post/location/) [or](/post/or/) [a](/post/a/) [building](/post/building/), [area](/post/area/), [organization](/post/organization/), [or](/post/or/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "I [have](/post/have/) [to](/post/to/) [leave](/post/leave/) [early](/post/early/) [today](/post/today/)."
+  - *[Also](/post/also/) transitive*: [To](/post/to/) [cause](/post/cause/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [to](/post/to/) [remain](/post/remain/) [behind](/post/behind/); [abandon](/post/abandon/) [or](/post/or/) [depart](/post/depart/) [from](/post/from/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [left](/post/left/) [her](/post/her/) keys [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+  - [To](/post/to/) [allow](/post/allow/) [or](/post/or/) [give](/post/give/) [permission](/post/permission/) [for](/post/for/) [something](/post/something/) [to](/post/to/) [happen](/post/happen/) [without](/post/without/) [interference](/post/interference/). [For](/post/for/) [example](/post/example/): "[Leave](/post/leave/) [the](/post/the/) [door](/post/door/) [open](/post/open/)."
+  - [To](/post/to/) [stop](/post/stop/) doing [something](/post/something/); [cease](/post/cease/) participation [or](/post/or/) engagement. [For](/post/for/) [example](/post/example/): "[We](/post/we/) decided [to](/post/to/) [leave](/post/leave/) [the](/post/the/) [project](/post/project/)."
   
-- **[Noun](/en/post/noun/) (n)**: [Permission](/en/post/permission/) [or](/en/post/or/) [time](/en/post/time/) [off](/en/post/off/) [work](/en/post/work/) granted [by](/en/post/by/) an [employer](/en/post/employer/). [For](/en/post/for/) [instance](/en/post/instance/): "[He](/en/post/he/) requested [two](/en/post/two/) weeks' [leave](/en/post/leave/)."
-  - [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) going [away](/en/post/away/) [or](/en/post/or/) departing [from](/en/post/from/) [somewhere](/en/post/somewhere/). [Example](/en/post/example/): "[His](/en/post/his/) [sudden](/en/post/sudden/) [leave](/en/post/leave/) surprised [everyone](/en/post/everyone/)."
-  - [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [absent](/en/post/absent/) [or](/en/post/or/) [not](/en/post/not/) [present](/en/post/present/). [Example](/en/post/example/): "[In](/en/post/in/) [his](/en/post/his/) [absence](/en/post/absence/), I took [charge](/en/post/charge/) [during](/en/post/during/) [his](/en/post/his/) [leave](/en/post/leave/)."
+- **[Noun](/post/noun/) (n)**: [Permission](/post/permission/) [or](/post/or/) [time](/post/time/) [off](/post/off/) [work](/post/work/) granted [by](/post/by/) an [employer](/post/employer/). [For](/post/for/) [instance](/post/instance/): "[He](/post/he/) requested [two](/post/two/) weeks' [leave](/post/leave/)."
+  - [The](/post/the/) [act](/post/act/) [of](/post/of/) going [away](/post/away/) [or](/post/or/) departing [from](/post/from/) [somewhere](/post/somewhere/). [Example](/post/example/): "[His](/post/his/) [sudden](/post/sudden/) [leave](/post/leave/) surprised [everyone](/post/everyone/)."
+  - [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [absent](/post/absent/) [or](/post/or/) [not](/post/not/) [present](/post/present/). [Example](/post/example/): "[In](/post/in/) [his](/post/his/) [absence](/post/absence/), I took [charge](/post/charge/) [during](/post/during/) [his](/post/his/) [leave](/post/leave/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [leave](/en/post/leave/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [away](/en/post/away/), [usually](/en/post/usually/) temporarily, [from](/en/post/from/) one's [job](/en/post/job/) [or](/en/post/or/) [duty](/en/post/duty/).
-- "[On](/en/post/on/) [leave](/en/post/leave/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is currently [absent](/en/post/absent/) [from](/en/post/from/) [work](/en/post/work/) [due](/en/post/due/) [to](/en/post/to/) approved [vacation](/en/post/vacation/) [or](/en/post/or/) [other](/en/post/other/) reasons.
-- "[Leave](/en/post/leave/) [of](/en/post/of/) [absence](/en/post/absence/)" is [a](/en/post/a/) [formal](/en/post/formal/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [away](/en/post/away/) [from](/en/post/from/) [work](/en/post/work/) [or](/en/post/or/) [school](/en/post/school/) [that](/en/post/that/) has been granted.
-- "[Leave](/en/post/leave/) [no](/en/post/no/) [stone](/en/post/stone/) unturned" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [every](/en/post/every/) [possible](/en/post/possible/) [effort](/en/post/effort/) [to](/en/post/to/) [find](/en/post/find/) [or](/en/post/or/) [achieve](/en/post/achieve/) [something](/en/post/something/).
+- "[Take](/post/take/) [leave](/post/leave/)" [means](/post/means/) [to](/post/to/) [go](/post/go/) [away](/post/away/), [usually](/post/usually/) temporarily, [from](/post/from/) one's [job](/post/job/) [or](/post/or/) [duty](/post/duty/).
+- "[On](/post/on/) [leave](/post/leave/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is currently [absent](/post/absent/) [from](/post/from/) [work](/post/work/) [due](/post/due/) [to](/post/to/) approved [vacation](/post/vacation/) [or](/post/or/) [other](/post/other/) reasons.
+- "[Leave](/post/leave/) [of](/post/of/) [absence](/post/absence/)" is [a](/post/a/) [formal](/post/formal/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [away](/post/away/) [from](/post/from/) [work](/post/work/) [or](/post/or/) [school](/post/school/) [that](/post/that/) has been granted.
+- "[Leave](/post/leave/) [no](/post/no/) [stone](/post/stone/) unturned" [means](/post/means/) [to](/post/to/) [make](/post/make/) [every](/post/every/) [possible](/post/possible/) [effort](/post/effort/) [to](/post/to/) [find](/post/find/) [or](/post/or/) [achieve](/post/achieve/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "Don't [forget](/en/post/forget/) [to](/en/post/to/) [leave](/en/post/leave/) [a](/en/post/a/) [note](/en/post/note/) [before](/en/post/before/) [you](/en/post/you/) [leave](/en/post/leave/) [the](/en/post/the/) [house](/en/post/house/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) submitted [her](/en/post/her/) [application](/en/post/application/) [for](/en/post/for/) maternity [leave](/en/post/leave/) [yesterday](/en/post/yesterday/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "Don't [forget](/post/forget/) [to](/post/to/) [leave](/post/leave/) [a](/post/a/) [note](/post/note/) [before](/post/before/) [you](/post/you/) [leave](/post/leave/) [the](/post/the/) [house](/post/house/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) submitted [her](/post/her/) [application](/post/application/) [for](/post/for/) maternity [leave](/post/leave/) [yesterday](/post/yesterday/)."
 
 ## Synonyms
-- [Depart](/en/post/depart/) (v)
-- [Exit](/en/post/exit/) (v)
-- [Abandon](/en/post/abandon/) (v)
+- [Depart](/post/depart/) (v)
+- [Exit](/post/exit/) (v)
+- [Abandon](/post/abandon/) (v)
 - Vacate (v)
-- [Absence](/en/post/absence/) (n)
-- [Vacation](/en/post/vacation/) (n)
-- [Holiday](/en/post/holiday/) (n) 
+- [Absence](/post/absence/) (n)
+- [Vacation](/post/vacation/) (n)
+- [Holiday](/post/holiday/) (n) 
 
-[For](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [sense](/en/post/sense/) related [to](/en/post/to/) [permission](/en/post/permission/) [to](/en/post/to/) [be](/en/post/be/) [away](/en/post/away/), synonyms [include](/en/post/include/):
-- [Vacation](/en/post/vacation/) [time](/en/post/time/)
-- [Time](/en/post/time/) [off](/en/post/off/)
+[For](/post/for/) [the](/post/the/) [noun](/post/noun/) [sense](/post/sense/) related [to](/post/to/) [permission](/post/permission/) [to](/post/to/) [be](/post/be/) [away](/post/away/), synonyms [include](/post/include/):
+- [Vacation](/post/vacation/) [time](/post/time/)
+- [Time](/post/time/) [off](/post/off/)
 - Recess
 - Sabbatical

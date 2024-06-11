@@ -7,26 +7,26 @@ description = '[west] n.西；西洋 a.西方的'
 keywords = ['ai words', 'west']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[west](/en/post/west/)/
+## [Pronunciation](/post/pronunciation/)
+/[west](/post/west/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [western](/en/post/western/) [direction](/en/post/direction/) [or](/en/post/or/) [side](/en/post/side/), [opposite](/en/post/opposite/) [east](/en/post/east/). 2. [A](/en/post/a/) geographical [region](/en/post/region/), [often](/en/post/often/) characterized [by](/en/post/by/) [dry](/en/post/dry/) [climate](/en/post/climate/) [and](/en/post/and/) cowboy [culture](/en/post/culture/). 3. (U.S.) [The](/en/post/the/) [western](/en/post/western/) United States. 4. (Brit./Austral.) [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) country's [mainland](/en/post/mainland/) towards [the](/en/post/the/) [west](/en/post/west/) [coast](/en/post/coast/), e.g., "[the](/en/post/the/) [West](/en/post/west/) Midlands."
-- **[Adjective](/en/post/adjective/)**: [Western](/en/post/western/); located [or](/en/post/or/) situated [in](/en/post/in/) [the](/en/post/the/) [west](/en/post/west/). 3. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [the](/en/post/the/) [west](/en/post/west/); pertaining [to](/en/post/to/) [western](/en/post/western/) customs [or](/en/post/or/) traditions.
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [western](/post/western/) [direction](/post/direction/) [or](/post/or/) [side](/post/side/), [opposite](/post/opposite/) [east](/post/east/). 2. [A](/post/a/) geographical [region](/post/region/), [often](/post/often/) characterized [by](/post/by/) [dry](/post/dry/) [climate](/post/climate/) [and](/post/and/) cowboy [culture](/post/culture/). 3. (U.S.) [The](/post/the/) [western](/post/western/) United States. 4. (Brit./Austral.) [A](/post/a/) [part](/post/part/) [of](/post/of/) [a](/post/a/) country's [mainland](/post/mainland/) towards [the](/post/the/) [west](/post/west/) [coast](/post/coast/), e.g., "[the](/post/the/) [West](/post/west/) Midlands."
+- **[Adjective](/post/adjective/)**: [Western](/post/western/); located [or](/post/or/) situated [in](/post/in/) [the](/post/the/) [west](/post/west/). 3. [Characteristic](/post/characteristic/) [of](/post/of/) [the](/post/the/) [west](/post/west/); pertaining [to](/post/to/) [western](/post/western/) customs [or](/post/or/) traditions.
 
 ## Phrases
-- "[Go](/en/post/go/) [west](/en/post/west/)" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [travel](/en/post/travel/) [or](/en/post/or/) [move](/en/post/move/) towards [the](/en/post/the/) [west](/en/post/west/) [or](/en/post/or/) [pursue](/en/post/pursue/) [new](/en/post/new/) opportunities.
-- "[The](/en/post/the/) [Wild](/en/post/wild/) [West](/en/post/west/)" refers [to](/en/post/to/) [the](/en/post/the/) [period](/en/post/period/) [in](/en/post/in/) U.S. [history](/en/post/history/) marked [by](/en/post/by/) lawlessness [and](/en/post/and/) [frontier](/en/post/frontier/) [life](/en/post/life/).
-- "[Western](/en/post/western/) [front](/en/post/front/)" is [a](/en/post/a/) [military](/en/post/military/) [term](/en/post/term/) referring [to](/en/post/to/) [a](/en/post/a/) [line](/en/post/line/) [of](/en/post/of/) [battle](/en/post/battle/), [particularly](/en/post/particularly/) [in](/en/post/in/) [World](/en/post/world/) [War](/en/post/war/) I [and](/en/post/and/) II.
+- "[Go](/post/go/) [west](/post/west/)" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [travel](/post/travel/) [or](/post/or/) [move](/post/move/) towards [the](/post/the/) [west](/post/west/) [or](/post/or/) [pursue](/post/pursue/) [new](/post/new/) opportunities.
+- "[The](/post/the/) [Wild](/post/wild/) [West](/post/west/)" refers [to](/post/to/) [the](/post/the/) [period](/post/period/) [in](/post/in/) U.S. [history](/post/history/) marked [by](/post/by/) lawlessness [and](/post/and/) [frontier](/post/frontier/) [life](/post/life/).
+- "[Western](/post/western/) [front](/post/front/)" is [a](/post/a/) [military](/post/military/) [term](/post/term/) referring [to](/post/to/) [a](/post/a/) [line](/post/line/) [of](/post/of/) [battle](/post/battle/), [particularly](/post/particularly/) [in](/post/in/) [World](/post/world/) [War](/post/war/) I [and](/post/and/) II.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [road](/en/post/road/) [trip](/en/post/trip/) [across](/en/post/across/) [the](/en/post/the/) [American](/en/post/american/) [West](/en/post/west/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sun](/en/post/sun/) sets [in](/en/post/in/) [the](/en/post/the/) [west](/en/post/west/), casting [a](/en/post/a/) [warm](/en/post/warm/) [glow](/en/post/glow/) [over](/en/post/over/) [the](/en/post/the/) landscape."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) cowboy rode towards [the](/en/post/the/) [west](/en/post/west/), [following](/en/post/following/) [the](/en/post/the/) [sun](/en/post/sun/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [road](/post/road/) [trip](/post/trip/) [across](/post/across/) [the](/post/the/) [American](/post/american/) [West](/post/west/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sun](/post/sun/) sets [in](/post/in/) [the](/post/the/) [west](/post/west/), casting [a](/post/a/) [warm](/post/warm/) [glow](/post/glow/) [over](/post/over/) [the](/post/the/) landscape."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) cowboy rode towards [the](/post/the/) [west](/post/west/), [following](/post/following/) [the](/post/the/) [sun](/post/sun/)."
 
 ## Synonyms
-- [Western](/en/post/western/)
+- [Western](/post/western/)
 - Westernized
 - Occidental
-- Wasteland ([in](/en/post/in/) [a](/en/post/a/) metaphorical [sense](/en/post/sense/))
+- Wasteland ([in](/post/in/) [a](/post/a/) metaphorical [sense](/post/sense/))
 - Outwest (informal)

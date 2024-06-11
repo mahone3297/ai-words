@@ -7,23 +7,23 @@ description = '[ruːd] a.加工粗糙的；粗野的'
 keywords = ['ai words', 'rude']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rʌd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [or](/en/post/or/) showing [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) politeness, [consideration](/en/post/consideration/), [or](/en/post/or/) [respect](/en/post/respect/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [behavior](/en/post/behavior/) was considered [rude](/en/post/rude/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [treat](/en/post/treat/) [or](/en/post/or/) [speak](/en/post/speak/) [to](/en/post/to/) [someone](/en/post/someone/) [in](/en/post/in/) [a](/en/post/a/) disrespectful [or](/en/post/or/) impolite [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) rudely interrupted [the](/en/post/the/) [speaker](/en/post/speaker/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [rude](/en/post/rude/) [or](/en/post/or/) disrespectful [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) slammed [the](/en/post/the/) [door](/en/post/door/) rudely."
+- **[Adjective](/post/adjective/)**: Having [or](/post/or/) showing [a](/post/a/) [lack](/post/lack/) [of](/post/of/) politeness, [consideration](/post/consideration/), [or](/post/or/) [respect](/post/respect/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [behavior](/post/behavior/) was considered [rude](/post/rude/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [treat](/post/treat/) [or](/post/or/) [speak](/post/speak/) [to](/post/to/) [someone](/post/someone/) [in](/post/in/) [a](/post/a/) disrespectful [or](/post/or/) impolite [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) rudely interrupted [the](/post/the/) [speaker](/post/speaker/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [rude](/post/rude/) [or](/post/or/) disrespectful [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) slammed [the](/post/the/) [door](/post/door/) rudely."
 
 ## Phrases
-- "[Be](/en/post/be/) [rude](/en/post/rude/) [to](/en/post/to/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [treat](/en/post/treat/) [them](/en/post/them/) disrespectfully.
-- "That's [rude](/en/post/rude/)!" [can](/en/post/can/) [be](/en/post/be/) an exclamation expressing disapproval.
-- "Don't [be](/en/post/be/) [so](/en/post/so/) [rude](/en/post/rude/)!" is [a](/en/post/a/) [request](/en/post/request/) [to](/en/post/to/) [stop](/en/post/stop/) [being](/en/post/being/) impolite.
+- "[Be](/post/be/) [rude](/post/rude/) [to](/post/to/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [treat](/post/treat/) [them](/post/them/) disrespectfully.
+- "That's [rude](/post/rude/)!" [can](/post/can/) [be](/post/be/) an exclamation expressing disapproval.
+- "Don't [be](/post/be/) [so](/post/so/) [rude](/post/rude/)!" is [a](/post/a/) [request](/post/request/) [to](/post/to/) [stop](/post/stop/) [being](/post/being/) impolite.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [rude](/en/post/rude/) comments made [everyone](/en/post/everyone/) [uncomfortable](/en/post/uncomfortable/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [waiter](/en/post/waiter/) was [rude](/en/post/rude/) [to](/en/post/to/) [the](/en/post/the/) [customer](/en/post/customer/), [which](/en/post/which/) led [to](/en/post/to/) [a](/en/post/a/) [complaint](/en/post/complaint/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) entered [the](/en/post/the/) [room](/en/post/room/) rudely, [not](/en/post/not/) acknowledging [anyone](/en/post/anyone/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [rude](/post/rude/) comments made [everyone](/post/everyone/) [uncomfortable](/post/uncomfortable/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [waiter](/post/waiter/) was [rude](/post/rude/) [to](/post/to/) [the](/post/the/) [customer](/post/customer/), [which](/post/which/) led [to](/post/to/) [a](/post/a/) [complaint](/post/complaint/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) entered [the](/post/the/) [room](/post/room/) rudely, [not](/post/not/) acknowledging [anyone](/post/anyone/)."
 
 ## Synonyms
 - Rudest (superlative)
@@ -33,8 +33,8 @@ keywords = ['ai words', 'rude']
 - Boorish
 
 ## Antonyms
-- [Polite](/en/post/polite/)
+- [Polite](/post/polite/)
 - Courteous
-- [Friendly](/en/post/friendly/)
-- [Kind](/en/post/kind/)
-- [Considerate](/en/post/considerate/)
+- [Friendly](/post/friendly/)
+- [Kind](/post/kind/)
+- [Considerate](/post/considerate/)

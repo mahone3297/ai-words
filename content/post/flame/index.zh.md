@@ -12,24 +12,24 @@ keywords = ['ai words', 'flame']
 
 ## 释义
 - **名词**:
-1. 火焰，火苗。例如: "[The](/post/the/) [candle](/post/candle/) produced [a](/post/a/) [gentle](/post/gentle/) [flame](/post/flame/)."
-2. 热情，激情。例如: "[Their](/post/their/) [artistic](/post/artistic/) [flame](/post/flame/) burned brightly [throughout](/post/throughout/) [their](/post/their/) lives."
+1. 火焰，火苗。例如: "[The](/zh/post/the/) [candle](/zh/post/candle/) produced [a](/zh/post/a/) [gentle](/zh/post/gentle/) [flame](/zh/post/flame/)."
+2. 热情，激情。例如: "[Their](/zh/post/their/) [artistic](/zh/post/artistic/) [flame](/zh/post/flame/) burned brightly [throughout](/zh/post/throughout/) [their](/zh/post/their/) lives."
 
 - **动词**:
-1. 燃烧，发出火焰。例如: "[The](/post/the/) [match](/post/match/) flamed [up](/post/up/) [when](/post/when/) struck."
-2. 在互联网上激烈地批评或攻击（某人）。例如: "[He](/post/he/) was flamed [for](/post/for/) [his](/post/his/) controversial [opinion](/post/opinion/) online."
+1. 燃烧，发出火焰。例如: "[The](/zh/post/the/) [match](/zh/post/match/) flamed [up](/zh/post/up/) [when](/zh/post/when/) struck."
+2. 在互联网上激烈地批评或攻击（某人）。例如: "[He](/zh/post/he/) was flamed [for](/zh/post/for/) [his](/zh/post/his/) controversial [opinion](/zh/post/opinion/) online."
 
 ## 短语
-- "[Flame](/post/flame/) [war](/post/war/)" 指网络上的激烈争论或互相攻击。
-- "[Flame](/post/flame/) [out](/post/out/)" 指（飞机、火箭等）突然熄火或停止运行。
+- "[Flame](/zh/post/flame/) [war](/zh/post/war/)" 指网络上的激烈争论或互相攻击。
+- "[Flame](/zh/post/flame/) [out](/zh/post/out/)" 指（飞机、火箭等）突然熄火或停止运行。
 
 ## 例句
-- 名词: "[The](/post/the/) fireplace was filled [with](/post/with/) dancing flames."
-- 动词: "[The](/post/the/) [rocket](/post/rocket/) flamed [out](/post/out/) [just](/post/just/) seconds [after](/post/after/) lift-off."
+- 名词: "[The](/zh/post/the/) fireplace was filled [with](/zh/post/with/) dancing flames."
+- 动词: "[The](/zh/post/the/) [rocket](/zh/post/rocket/) flamed [out](/zh/post/out/) [just](/zh/post/just/) seconds [after](/zh/post/after/) lift-off."
 
 ## 同义词
-- [Fire](/post/fire/)
-- [Blaze](/post/blaze/)
-- [Spark](/post/spark/)
-- [Glow](/post/glow/)
+- [Fire](/zh/post/fire/)
+- [Blaze](/zh/post/blaze/)
+- [Spark](/zh/post/spark/)
+- [Glow](/zh/post/glow/)
 - Ember

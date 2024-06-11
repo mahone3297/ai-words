@@ -11,20 +11,20 @@ keywords = ['ai words', 'imagine']
 /ɪˈmædʒɪn/
 
 ## 释义
-- **动词**: 想象；设想。例如: "I [can](/post/can/) [imagine](/post/imagine/) [living](/post/living/) [in](/post/in/) [a](/post/a/) [peaceful](/post/peaceful/) [countryside](/post/countryside/)."
-- **名词**: 想象力；创造力。例如: "Children [have](/post/have/) [rich](/post/rich/) imaginations."
+- **动词**: 想象；设想。例如: "I [can](/zh/post/can/) [imagine](/zh/post/imagine/) [living](/zh/post/living/) [in](/zh/post/in/) [a](/zh/post/a/) [peaceful](/zh/post/peaceful/) [countryside](/zh/post/countryside/)."
+- **名词**: 想象力；创造力。例如: "Children [have](/zh/post/have/) [rich](/zh/post/rich/) imaginations."
 
 ## 短语
-- "[Let](/post/let/) [your](/post/your/) [imagination](/post/imagination/) [run](/post/run/) [wild](/post/wild/)" 意为让想象力自由发挥。
-- "[Beyond](/post/beyond/) one's [imagination](/post/imagination/)" 意为超出某人的想象。
+- "[Let](/zh/post/let/) [your](/zh/post/your/) [imagination](/zh/post/imagination/) [run](/zh/post/run/) [wild](/zh/post/wild/)" 意为让想象力自由发挥。
+- "[Beyond](/zh/post/beyond/) one's [imagination](/zh/post/imagination/)" 意为超出某人的想象。
 
 ## 例句
-- 动词: "[He](/post/he/) imagined [himself](/post/himself/) [as](/post/as/) [a](/post/a/) [successful](/post/successful/) [writer](/post/writer/)."
-- 名词: "[The](/post/the/) [story](/post/story/) was created [purely](/post/purely/) [from](/post/from/) [the](/post/the/) author's [imagination](/post/imagination/)."
+- 动词: "[He](/zh/post/he/) imagined [himself](/zh/post/himself/) [as](/zh/post/as/) [a](/zh/post/a/) [successful](/zh/post/successful/) [writer](/zh/post/writer/)."
+- 名词: "[The](/zh/post/the/) [story](/zh/post/story/) was created [purely](/zh/post/purely/) [from](/zh/post/from/) [the](/zh/post/the/) author's [imagination](/zh/post/imagination/)."
 
 ## 同义词
 - Visualize
 - Envision
 - Conceive
-- [Dream](/post/dream/) [up](/post/up/)
-- [Picture](/post/picture/)
+- [Dream](/zh/post/dream/) [up](/zh/post/up/)
+- [Picture](/zh/post/picture/)

@@ -12,20 +12,20 @@ keywords = ['ai words', 'industrialize']
 
 ## 释义
 - **动词**: 
-    - 将（国家、地区或行业）工业化；发展（经济）以依赖制造业和机器生产。例如: "[The](/post/the/) [government](/post/government/) plans [to](/post/to/) [industrialize](/post/industrialize/) [the](/post/the/) [rural](/post/rural/) areas."
-    - 使（工厂、生产过程等）现代化，采用工业生产方法。例如: "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [industrialize](/post/industrialize/) [its](/post/its/) manufacturing [process](/post/process/) [to](/post/to/) [increase](/post/increase/) [efficiency](/post/efficiency/)."
+    - 将（国家、地区或行业）工业化；发展（经济）以依赖制造业和机器生产。例如: "[The](/zh/post/the/) [government](/zh/post/government/) plans [to](/zh/post/to/) [industrialize](/zh/post/industrialize/) [the](/zh/post/the/) [rural](/zh/post/rural/) areas."
+    - 使（工厂、生产过程等）现代化，采用工业生产方法。例如: "[The](/zh/post/the/) [company](/zh/post/company/) decided [to](/zh/post/to/) [industrialize](/zh/post/industrialize/) [its](/zh/post/its/) manufacturing [process](/zh/post/process/) [to](/zh/post/to/) [increase](/zh/post/increase/) [efficiency](/zh/post/efficiency/)."
 
 ## 短语
-- "Industrialization [of](/post/of/) [agriculture](/post/agriculture/)" 农业工业化
-- "[To](/post/to/) [industrialize](/post/industrialize/) [a](/post/a/) [country](/post/country/)" 使一个国家工业化
+- "Industrialization [of](/zh/post/of/) [agriculture](/zh/post/agriculture/)" 农业工业化
+- "[To](/zh/post/to/) [industrialize](/zh/post/industrialize/) [a](/zh/post/a/) [country](/zh/post/country/)" 使一个国家工业化
 
 ## 例句
-- "[The](/post/the/) [rapid](/post/rapid/) industrialization [of](/post/of/) [China](/post/china/) has transformed [its](/post/its/) [economy](/post/economy/) [over](/post/over/) [the](/post/the/) [past](/post/past/) [few](/post/few/) decades."
-- "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) aims [to](/post/to/) [industrialize](/post/industrialize/) [the](/post/the/) [region](/post/region/) [by](/post/by/) attracting [foreign](/post/foreign/) [investment](/post/investment/)."
+- "[The](/zh/post/the/) [rapid](/zh/post/rapid/) industrialization [of](/zh/post/of/) [China](/zh/post/china/) has transformed [its](/zh/post/its/) [economy](/zh/post/economy/) [over](/zh/post/over/) [the](/zh/post/the/) [past](/zh/post/past/) [few](/zh/post/few/) decades."
+- "[The](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/) aims [to](/zh/post/to/) [industrialize](/zh/post/industrialize/) [the](/zh/post/the/) [region](/zh/post/region/) [by](/zh/post/by/) attracting [foreign](/zh/post/foreign/) [investment](/zh/post/investment/)."
 
 ## 同义词
 - Modernize
 - Mechanize
-- [Develop](/post/develop/) industrially
+- [Develop](/zh/post/develop/) industrially
 - Urbanize
-- [Economical](/post/economical/) [development](/post/development/)
+- [Economical](/zh/post/economical/) [development](/zh/post/development/)

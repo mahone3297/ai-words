@@ -11,21 +11,21 @@ keywords = ['ai words', 'wealthy']
 /ˈwelθi/
 
 ## 释义
-- **形容词**: 富有的，富裕的，有大量财富的。例如: "[She](/post/she/) comes [from](/post/from/) [a](/post/a/) [wealthy](/post/wealthy/) [family](/post/family/)."
-- **名词**: 财富，富裕状态。例如: "[He](/post/he/) has accumulated [a](/post/a/) [great](/post/great/) [deal](/post/deal/) [of](/post/of/) [wealth](/post/wealth/) [over](/post/over/) [the](/post/the/) years."
+- **形容词**: 富有的，富裕的，有大量财富的。例如: "[She](/zh/post/she/) comes [from](/zh/post/from/) [a](/zh/post/a/) [wealthy](/zh/post/wealthy/) [family](/zh/post/family/)."
+- **名词**: 财富，富裕状态。例如: "[He](/zh/post/he/) has accumulated [a](/zh/post/a/) [great](/zh/post/great/) [deal](/zh/post/deal/) [of](/zh/post/of/) [wealth](/zh/post/wealth/) [over](/zh/post/over/) [the](/zh/post/the/) years."
 
 ## 短语
-- "[wealthy](/post/wealthy/) [individual](/post/individual/)" 指的是有钱的个人。
-- "[wealthy](/post/wealthy/) elite" 指的是富裕阶层或精英人士。
-- "[live](/post/live/) [a](/post/a/) [wealthy](/post/wealthy/) [life](/post/life/)" 意味着过着富裕的生活。
+- "[wealthy](/zh/post/wealthy/) [individual](/zh/post/individual/)" 指的是有钱的个人。
+- "[wealthy](/zh/post/wealthy/) elite" 指的是富裕阶层或精英人士。
+- "[live](/zh/post/live/) [a](/zh/post/a/) [wealthy](/zh/post/wealthy/) [life](/zh/post/life/)" 意味着过着富裕的生活。
 
 ## 例句
-- 形容词: "[The](/post/the/) [wealthy](/post/wealthy/) businessman donated [a](/post/a/) [large](/post/large/) [sum](/post/sum/) [to](/post/to/) [charity](/post/charity/)."
-- 名词: "[Their](/post/their/) [wealth](/post/wealth/) allowed [them](/post/them/) [to](/post/to/) [travel](/post/travel/) [the](/post/the/) [world](/post/world/) [in](/post/in/) [luxury](/post/luxury/)."
+- 形容词: "[The](/zh/post/the/) [wealthy](/zh/post/wealthy/) businessman donated [a](/zh/post/a/) [large](/zh/post/large/) [sum](/zh/post/sum/) [to](/zh/post/to/) [charity](/zh/post/charity/)."
+- 名词: "[Their](/zh/post/their/) [wealth](/zh/post/wealth/) allowed [them](/zh/post/them/) [to](/zh/post/to/) [travel](/zh/post/travel/) [the](/zh/post/the/) [world](/zh/post/world/) [in](/zh/post/in/) [luxury](/zh/post/luxury/)."
 
 ## 同义词
-- [rich](/post/rich/)
+- [rich](/zh/post/rich/)
 - affluent
-- [prosperous](/post/prosperous/)
+- [prosperous](/zh/post/prosperous/)
 - well-off
 - moneyed

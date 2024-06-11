@@ -11,21 +11,21 @@ keywords = ['ai words', 'sugar']
 /ˈʃʊɡər/
 
 ## 释义
-- **名词 (n)**: 一种甜味物质，通常从甘蔗或甜菜中提取，常用于烹饪和饮料中增加甜味。例如: "[She](/post/she/) added [a](/post/a/) spoonful [of](/post/of/) [sugar](/post/sugar/) [to](/post/to/) [her](/post/her/) [coffee](/post/coffee/)."
-- **形容词 (adj)**: 指事物具有过分讨好或不直接说出真实情况的性质。例如: "Don't [give](/post/give/) [me](/post/me/) [that](/post/that/) sugary [talk](/post/talk/), I [want](/post/want/) [to](/post/to/) [know](/post/know/) [the](/post/the/) [truth](/post/truth/)."
+- **名词 (n)**: 一种甜味物质，通常从甘蔗或甜菜中提取，常用于烹饪和饮料中增加甜味。例如: "[She](/zh/post/she/) added [a](/zh/post/a/) spoonful [of](/zh/post/of/) [sugar](/zh/post/sugar/) [to](/zh/post/to/) [her](/zh/post/her/) [coffee](/zh/post/coffee/)."
+- **形容词 (adj)**: 指事物具有过分讨好或不直接说出真实情况的性质。例如: "Don't [give](/zh/post/give/) [me](/zh/post/me/) [that](/zh/post/that/) sugary [talk](/zh/post/talk/), I [want](/zh/post/want/) [to](/zh/post/to/) [know](/zh/post/know/) [the](/zh/post/the/) [truth](/zh/post/truth/)."
 
 ## 短语
-- "[Sugar](/post/sugar/) [rush](/post/rush/)" 指食用大量糖后引起的短暂能量激增和随后的疲劳。
-- "[Sugar](/post/sugar/) daddy" 指经济条件较好的老年男子，通常与年轻女性有财务上的关系。
-- "[Sugar](/post/sugar/) [high](/post/high/)" 指因摄入过多糖分而产生的兴奋状态。
+- "[Sugar](/zh/post/sugar/) [rush](/zh/post/rush/)" 指食用大量糖后引起的短暂能量激增和随后的疲劳。
+- "[Sugar](/zh/post/sugar/) daddy" 指经济条件较好的老年男子，通常与年轻女性有财务上的关系。
+- "[Sugar](/zh/post/sugar/) [high](/zh/post/high/)" 指因摄入过多糖分而产生的兴奋状态。
 
 ## 例句
-- 名词: "[The](/post/the/) [baby](/post/baby/) likes [to](/post/to/) [eat](/post/eat/) [sugar](/post/sugar/) cubes [as](/post/as/) [a](/post/a/) [treat](/post/treat/)."
-- 形容词: "[His](/post/his/) compliments were [so](/post/so/) sugary [that](/post/that/) I suspected [he](/post/he/) was hiding [something](/post/something/)."
+- 名词: "[The](/zh/post/the/) [baby](/zh/post/baby/) likes [to](/zh/post/to/) [eat](/zh/post/eat/) [sugar](/zh/post/sugar/) cubes [as](/zh/post/as/) [a](/zh/post/a/) [treat](/zh/post/treat/)."
+- 形容词: "[His](/zh/post/his/) compliments were [so](/zh/post/so/) sugary [that](/zh/post/that/) I suspected [he](/zh/post/he/) was hiding [something](/zh/post/something/)."
 
 ## 同义词
 - Sweetener
-- [Honey](/post/honey/)
+- [Honey](/zh/post/honey/)
 - Syrup
 - Molasses
-- Cane [sugar](/post/sugar/)
+- Cane [sugar](/zh/post/sugar/)

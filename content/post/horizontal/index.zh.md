@@ -11,20 +11,20 @@ keywords = ['ai words', 'horizontal']
 /həˈrɑːzəntl/
 
 ## 释义
-- **形容词**: 与地平线平行的；水平的，横向的。例如: "[The](/post/the/) [painting](/post/painting/) features [a](/post/a/) [horizontal](/post/horizontal/) [line](/post/line/) [across](/post/across/) [the](/post/the/) [middle](/post/middle/)."
-- **名词**: 水平面，水平位置。例如: "[The](/post/the/) [table](/post/table/) is [set](/post/set/) [at](/post/at/) [a](/post/a/) [horizontal](/post/horizontal/) [position](/post/position/)."
+- **形容词**: 与地平线平行的；水平的，横向的。例如: "[The](/zh/post/the/) [painting](/zh/post/painting/) features [a](/zh/post/a/) [horizontal](/zh/post/horizontal/) [line](/zh/post/line/) [across](/zh/post/across/) [the](/zh/post/the/) [middle](/zh/post/middle/)."
+- **名词**: 水平面，水平位置。例如: "[The](/zh/post/the/) [table](/zh/post/table/) is [set](/zh/post/set/) [at](/zh/post/at/) [a](/zh/post/a/) [horizontal](/zh/post/horizontal/) [position](/zh/post/position/)."
 
 ## 短语
-- "[Horizontal](/post/horizontal/) [bar](/post/bar/)" 指的是横杆，常用于体操或运动设备。
-- "[Horizontal](/post/horizontal/) scrolling" 在计算机界面中是指左右移动浏览内容。
+- "[Horizontal](/zh/post/horizontal/) [bar](/zh/post/bar/)" 指的是横杆，常用于体操或运动设备。
+- "[Horizontal](/zh/post/horizontal/) scrolling" 在计算机界面中是指左右移动浏览内容。
 
 ## 例句
-- 形容词: "[The](/post/the/) [new](/post/new/) bookshelf has [several](/post/several/) [horizontal](/post/horizontal/) shelves [for](/post/for/) storing books."
-- 名词: "[The](/post/the/) gymnast jumped [over](/post/over/) [the](/post/the/) [horizontal](/post/horizontal/) [bar](/post/bar/) [with](/post/with/) [ease](/post/ease/)."
+- 形容词: "[The](/zh/post/the/) [new](/zh/post/new/) bookshelf has [several](/zh/post/several/) [horizontal](/zh/post/horizontal/) shelves [for](/zh/post/for/) storing books."
+- 名词: "[The](/zh/post/the/) gymnast jumped [over](/zh/post/over/) [the](/zh/post/the/) [horizontal](/zh/post/horizontal/) [bar](/zh/post/bar/) [with](/zh/post/with/) [ease](/zh/post/ease/)."
 
 ## 同义词
-- [Level](/post/level/)
-- [Flat](/post/flat/)
-- [Even](/post/even/)
+- [Level](/zh/post/level/)
+- [Flat](/zh/post/flat/)
+- [Even](/zh/post/even/)
 - Side-to-side
-- [Parallel](/post/parallel/)
+- [Parallel](/zh/post/parallel/)

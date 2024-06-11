@@ -7,40 +7,40 @@ description = '[ˈdʒenəˌreit] vt.发生；引起；生殖'
 keywords = ['ai words', 'generate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒenəreɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [produce](/en/post/produce/) [or](/en/post/or/) [create](/en/post/create/) [something](/en/post/something/), [often](/en/post/often/) [by](/en/post/by/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [from](/en/post/from/) [various](/en/post/various/) components. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) scientists generated [electricity](/en/post/electricity/) using [solar](/en/post/solar/) panels."
-  - *Derivatives*: [generation](/en/post/generation/) (n), generative (adj)
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [produce](/post/produce/) [or](/post/or/) [create](/post/create/) [something](/post/something/), [often](/post/often/) [by](/post/by/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [from](/post/from/) [various](/post/various/) components. [For](/post/for/) [example](/post/example/): "[The](/post/the/) scientists generated [electricity](/post/electricity/) using [solar](/post/solar/) panels."
+  - *Derivatives*: [generation](/post/generation/) (n), generative (adj)
   
-  > "*[The](/en/post/the/) [power](/en/post/power/) [plant](/en/post/plant/) generates [enough](/en/post/enough/) [energy](/en/post/energy/) [to](/en/post/to/) [supply](/en/post/supply/) [the](/en/post/the/) [entire](/en/post/entire/) [city](/en/post/city/).*"
+  > "*[The](/post/the/) [power](/post/power/) [plant](/post/plant/) generates [enough](/post/enough/) [energy](/post/energy/) [to](/post/to/) [supply](/post/supply/) [the](/post/the/) [entire](/post/entire/) [city](/post/city/).*"
   
-  - [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/) [or](/en/post/or/) [come](/en/post/come/) [about](/en/post/about/); [to](/en/post/to/) [give](/en/post/give/) [rise](/en/post/rise/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [condition](/en/post/condition/) [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [debate](/en/post/debate/) generated [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [interest](/en/post/interest/) [among](/en/post/among/) [the](/en/post/the/) students."
+  - [To](/post/to/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [happen](/post/happen/) [or](/post/or/) [come](/post/come/) [about](/post/about/); [to](/post/to/) [give](/post/give/) [rise](/post/rise/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [condition](/post/condition/) [or](/post/or/) [situation](/post/situation/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [debate](/post/debate/) generated [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [interest](/post/interest/) [among](/post/among/) [the](/post/the/) students."
   
-  > "*[This](/en/post/this/) [new](/en/post/new/) [project](/en/post/project/) is expected [to](/en/post/to/) [generate](/en/post/generate/) [numerous](/en/post/numerous/) [job](/en/post/job/) opportunities.*"
+  > "*[This](/post/this/) [new](/post/new/) [project](/post/project/) is expected [to](/post/to/) [generate](/post/generate/) [numerous](/post/numerous/) [job](/post/job/) opportunities.*"
 
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) producing [or](/en/post/or/) creating [something](/en/post/something/); [also](/en/post/also/), [the](/en/post/the/) [amount](/en/post/amount/) [or](/en/post/or/) [quantity](/en/post/quantity/) produced. [Example](/en/post/example/): "[The](/en/post/the/) [report](/en/post/report/) analyzed [the](/en/post/the/) [monthly](/en/post/monthly/) [energy](/en/post/energy/) [generation](/en/post/generation/) figures."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) producing [or](/post/or/) creating [something](/post/something/); [also](/post/also/), [the](/post/the/) [amount](/post/amount/) [or](/post/or/) [quantity](/post/quantity/) produced. [Example](/post/example/): "[The](/post/the/) [report](/post/report/) analyzed [the](/post/the/) [monthly](/post/monthly/) [energy](/post/energy/) [generation](/post/generation/) figures."
   
-  > "*Increasing [their](/en/post/their/) [efficiency](/en/post/efficiency/) has led [to](/en/post/to/) [a](/en/post/a/) [significant](/en/post/significant/) boost [in](/en/post/in/) [their](/en/post/their/) [power](/en/post/power/) [generation](/en/post/generation/) [capacity](/en/post/capacity/).*"
+  > "*Increasing [their](/post/their/) [efficiency](/post/efficiency/) has led [to](/post/to/) [a](/post/a/) [significant](/post/significant/) boost [in](/post/in/) [their](/post/their/) [power](/post/power/) [generation](/post/generation/) [capacity](/post/capacity/).*"
 
 ## Phrases
-- "[Generate](/en/post/generate/) ideas" [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [come](/en/post/come/) [up](/en/post/up/) [with](/en/post/with/) [new](/en/post/new/) thoughts [or](/en/post/or/) concepts.
-- "[Generate](/en/post/generate/) revenue" refers [to](/en/post/to/) making [money](/en/post/money/), [usually](/en/post/usually/) [through](/en/post/through/) [business](/en/post/business/) activities.
-- "Randomly generated" describes [something](/en/post/something/) [that](/en/post/that/) is created [without](/en/post/without/) predetermined patterns [or](/en/post/or/) outcomes.
+- "[Generate](/post/generate/) ideas" [means](/post/means/) [to](/post/to/) [create](/post/create/) [or](/post/or/) [come](/post/come/) [up](/post/up/) [with](/post/with/) [new](/post/new/) thoughts [or](/post/or/) concepts.
+- "[Generate](/post/generate/) revenue" refers [to](/post/to/) making [money](/post/money/), [usually](/post/usually/) [through](/post/through/) [business](/post/business/) activities.
+- "Randomly generated" describes [something](/post/something/) [that](/post/that/) is created [without](/post/without/) predetermined patterns [or](/post/or/) outcomes.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [wind](/en/post/wind/) [turbine](/en/post/turbine/) generates [clean](/en/post/clean/) [energy](/en/post/energy/) [from](/en/post/from/) [the](/en/post/the/) [movement](/en/post/movement/) [of](/en/post/of/) [its](/en/post/its/) blades."
-- **[Noun](/en/post/noun/)**: "[Our](/en/post/our/) company's [main](/en/post/main/) [goal](/en/post/goal/) is [to](/en/post/to/) [increase](/en/post/increase/) [our](/en/post/our/) renewable [energy](/en/post/energy/) [generation](/en/post/generation/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [wind](/post/wind/) [turbine](/post/turbine/) generates [clean](/post/clean/) [energy](/post/energy/) [from](/post/from/) [the](/post/the/) [movement](/post/movement/) [of](/post/of/) [its](/post/its/) blades."
+- **[Noun](/post/noun/)**: "[Our](/post/our/) company's [main](/post/main/) [goal](/post/goal/) is [to](/post/to/) [increase](/post/increase/) [our](/post/our/) renewable [energy](/post/energy/) [generation](/post/generation/)."
 
 ## Synonyms
-- [Produce](/en/post/produce/)
-- [Create](/en/post/create/)
+- [Produce](/post/produce/)
+- [Create](/post/create/)
 - Spawn
-- [Cause](/en/post/cause/)
+- [Cause](/post/cause/)
 - Evoke
-- [Yield](/en/post/yield/)
+- [Yield](/post/yield/)
 - Fabricate
 - Procreate
 - Originate
-- [Bring](/en/post/bring/) [about](/en/post/about/)
+- [Bring](/post/bring/) [about](/post/about/)

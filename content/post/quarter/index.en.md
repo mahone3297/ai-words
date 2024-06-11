@@ -7,38 +7,38 @@ description = '[ˈkwɔːtə] n.四分之一；一刻钟'
 keywords = ['ai words', 'quarter']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkwɔːrtər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/)** ([used](/en/post/used/) [with](/en/post/with/) countable nouns): [A](/en/post/a/) [quarter](/en/post/quarter/) [of](/en/post/of/) [a](/en/post/a/) [dollar](/en/post/dollar/), [a](/en/post/a/) [quarter](/en/post/quarter/) [of](/en/post/of/) an [hour](/en/post/hour/).
-   [Example](/en/post/example/): "[The](/en/post/the/) pizza was [cut](/en/post/cut/) [into](/en/post/into/) [four](/en/post/four/) [equal](/en/post/equal/) quarters."
-2. **[One](/en/post/one/) [of](/en/post/of/) [four](/en/post/four/) [equal](/en/post/equal/) parts** [of](/en/post/of/) [something](/en/post/something/), typically [a](/en/post/a/) [circular](/en/post/circular/) [shape](/en/post/shape/) [or](/en/post/or/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/): [The](/en/post/the/) [top](/en/post/top/) [quarter](/en/post/quarter/) [of](/en/post/of/) [the](/en/post/the/) [field](/en/post/field/), [the](/en/post/the/) [first](/en/post/first/) [quarter](/en/post/quarter/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/).
-   [Example](/en/post/example/): "[She](/en/post/she/) finished [the](/en/post/the/) [first](/en/post/first/) [quarter](/en/post/quarter/) [of](/en/post/of/) [the](/en/post/the/) marathon [in](/en/post/in/) [record](/en/post/record/) [time](/en/post/time/)."
-3. **[A](/en/post/a/) person's [share](/en/post/share/)** [in](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [team](/en/post/team/): [Each](/en/post/each/) [player](/en/post/player/) gets [one](/en/post/one/) [quarter](/en/post/quarter/) [of](/en/post/of/) [the](/en/post/the/) [ball](/en/post/ball/).
-   [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is divided [into](/en/post/into/) [four](/en/post/four/) quarters, [with](/en/post/with/) [each](/en/post/each/) manager [responsible](/en/post/responsible/) [for](/en/post/for/) [their](/en/post/their/) [respective](/en/post/respective/) teams."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/)** ([used](/post/used/) [with](/post/with/) countable nouns): [A](/post/a/) [quarter](/post/quarter/) [of](/post/of/) [a](/post/a/) [dollar](/post/dollar/), [a](/post/a/) [quarter](/post/quarter/) [of](/post/of/) an [hour](/post/hour/).
+   [Example](/post/example/): "[The](/post/the/) pizza was [cut](/post/cut/) [into](/post/into/) [four](/post/four/) [equal](/post/equal/) quarters."
+2. **[One](/post/one/) [of](/post/of/) [four](/post/four/) [equal](/post/equal/) parts** [of](/post/of/) [something](/post/something/), typically [a](/post/a/) [circular](/post/circular/) [shape](/post/shape/) [or](/post/or/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/): [The](/post/the/) [top](/post/top/) [quarter](/post/quarter/) [of](/post/of/) [the](/post/the/) [field](/post/field/), [the](/post/the/) [first](/post/first/) [quarter](/post/quarter/) [of](/post/of/) [the](/post/the/) [year](/post/year/).
+   [Example](/post/example/): "[She](/post/she/) finished [the](/post/the/) [first](/post/first/) [quarter](/post/quarter/) [of](/post/of/) [the](/post/the/) marathon [in](/post/in/) [record](/post/record/) [time](/post/time/)."
+3. **[A](/post/a/) person's [share](/post/share/)** [in](/post/in/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [team](/post/team/): [Each](/post/each/) [player](/post/player/) gets [one](/post/one/) [quarter](/post/quarter/) [of](/post/of/) [the](/post/the/) [ball](/post/ball/).
+   [Example](/post/example/): "[The](/post/the/) [company](/post/company/) is divided [into](/post/into/) [four](/post/four/) quarters, [with](/post/with/) [each](/post/each/) manager [responsible](/post/responsible/) [for](/post/for/) [their](/post/their/) [respective](/post/respective/) teams."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [divide](/en/post/divide/) [something](/en/post/something/) [into](/en/post/into/) [four](/en/post/four/) [equal](/en/post/equal/) parts**.
-   [Example](/en/post/example/): "[They](/en/post/they/) quartered [the](/en/post/the/) [land](/en/post/land/) [among](/en/post/among/) [the](/en/post/the/) [four](/en/post/four/) sons."
-2. **[To](/en/post/to/) allocate [or](/en/post/or/) [distribute](/en/post/distribute/) [something](/en/post/something/) equally [among](/en/post/among/) [four](/en/post/four/) [people](/en/post/people/) [or](/en/post/or/) groups**.
-   [Example](/en/post/example/): "[The](/en/post/the/) [cake](/en/post/cake/) was quartered [among](/en/post/among/) [the](/en/post/the/) guests."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [divide](/post/divide/) [something](/post/something/) [into](/post/into/) [four](/post/four/) [equal](/post/equal/) parts**.
+   [Example](/post/example/): "[They](/post/they/) quartered [the](/post/the/) [land](/post/land/) [among](/post/among/) [the](/post/the/) [four](/post/four/) sons."
+2. **[To](/post/to/) allocate [or](/post/or/) [distribute](/post/distribute/) [something](/post/something/) equally [among](/post/among/) [four](/post/four/) [people](/post/people/) [or](/post/or/) groups**.
+   [Example](/post/example/): "[The](/post/the/) [cake](/post/cake/) was quartered [among](/post/among/) [the](/post/the/) guests."
 
 ## Phrases
-- "[Quarter](/en/post/quarter/) [of](/en/post/of/) an [hour](/en/post/hour/)" refers [to](/en/post/to/) 15 minutes.
-- "Quarterfinals" are [the](/en/post/the/) [last](/en/post/last/) [eight](/en/post/eight/) teams competing [in](/en/post/in/) [a](/en/post/a/) tournament, [before](/en/post/before/) [the](/en/post/the/) semifinals.
-- "Quarterback" is [the](/en/post/the/) [leader](/en/post/leader/) [of](/en/post/of/) [the](/en/post/the/) offensive [team](/en/post/team/) [in](/en/post/in/) [American](/en/post/american/) [football](/en/post/football/).
+- "[Quarter](/post/quarter/) [of](/post/of/) an [hour](/post/hour/)" refers [to](/post/to/) 15 minutes.
+- "Quarterfinals" are [the](/post/the/) [last](/post/last/) [eight](/post/eight/) teams competing [in](/post/in/) [a](/post/a/) tournament, [before](/post/before/) [the](/post/the/) semifinals.
+- "Quarterback" is [the](/post/the/) [leader](/post/leader/) [of](/post/of/) [the](/post/the/) offensive [team](/post/team/) [in](/post/in/) [American](/post/american/) [football](/post/football/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) saved [a](/en/post/a/) [quarter](/en/post/quarter/) [of](/en/post/of/) [her](/en/post/her/) [monthly](/en/post/monthly/) [salary](/en/post/salary/) [for](/en/post/for/) emergencies."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) students [to](/en/post/to/) [quarter](/en/post/quarter/) [the](/en/post/the/) apples [before](/en/post/before/) eating [them](/en/post/them/)."
-- **[Noun](/en/post/noun/) [as](/en/post/as/) [verb](/en/post/verb/)**: "We'll [meet](/en/post/meet/) [in](/en/post/in/) [the](/en/post/the/) [middle](/en/post/middle/) [of](/en/post/of/) [the](/en/post/the/) [playground](/en/post/playground/), [near](/en/post/near/) [the](/en/post/the/) [quarter](/en/post/quarter/) [pole](/en/post/pole/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) saved [a](/post/a/) [quarter](/post/quarter/) [of](/post/of/) [her](/post/her/) [monthly](/post/monthly/) [salary](/post/salary/) [for](/post/for/) emergencies."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [quarter](/post/quarter/) [the](/post/the/) apples [before](/post/before/) eating [them](/post/them/)."
+- **[Noun](/post/noun/) [as](/post/as/) [verb](/post/verb/)**: "We'll [meet](/post/meet/) [in](/post/in/) [the](/post/the/) [middle](/post/middle/) [of](/post/of/) [the](/post/the/) [playground](/post/playground/), [near](/post/near/) [the](/post/the/) [quarter](/post/quarter/) [pole](/post/pole/)."
 
 ## Synonyms
-- [Fourth](/en/post/fourth/)
+- [Fourth](/post/fourth/)
 - One-fourth
-- [A](/en/post/a/) [fourth](/en/post/fourth/)
-- [A](/en/post/a/) [piece](/en/post/piece/)
-- [Portion](/en/post/portion/)
-- [Share](/en/post/share/)
+- [A](/post/a/) [fourth](/post/fourth/)
+- [A](/post/a/) [piece](/post/piece/)
+- [Portion](/post/portion/)
+- [Share](/post/share/)

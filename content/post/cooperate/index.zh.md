@@ -12,21 +12,21 @@ keywords = ['ai words', 'cooperate']
 
 ## 释义
 - **动词**: 
-    - 与他人协同工作；合作。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [cooperate](/post/cooperate/) [with](/post/with/) [each](/post/each/) [other](/post/other/) [to](/post/to/) [finish](/post/finish/) [this](/post/this/) [project](/post/project/)."
-    - 配合；顺从。例如: "[The](/post/the/) [patient](/post/patient/) cooperated fully [with](/post/with/) [the](/post/the/) [doctor](/post/doctor/) [during](/post/during/) [the](/post/the/) [examination](/post/examination/)."
+    - 与他人协同工作；合作。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [cooperate](/zh/post/cooperate/) [with](/zh/post/with/) [each](/zh/post/each/) [other](/zh/post/other/) [to](/zh/post/to/) [finish](/zh/post/finish/) [this](/zh/post/this/) [project](/zh/post/project/)."
+    - 配合；顺从。例如: "[The](/zh/post/the/) [patient](/zh/post/patient/) cooperated fully [with](/zh/post/with/) [the](/zh/post/the/) [doctor](/zh/post/doctor/) [during](/zh/post/during/) [the](/zh/post/the/) [examination](/zh/post/examination/)."
 
 ## 短语
-- "[Cooperate](/post/cooperate/) [with](/post/with/) sb." 意味着和某人一起工作或共同行动。
-- "[In](/post/in/) cooperation [with](/post/with/)" 表示与…合作。例如: "[The](/post/the/) [two](/post/two/) companies are working [in](/post/in/) cooperation [with](/post/with/) [each](/post/each/) [other](/post/other/) [on](/post/on/) [a](/post/a/) [new](/post/new/) [product](/post/product/)."
+- "[Cooperate](/zh/post/cooperate/) [with](/zh/post/with/) sb." 意味着和某人一起工作或共同行动。
+- "[In](/zh/post/in/) cooperation [with](/zh/post/with/)" 表示与…合作。例如: "[The](/zh/post/the/) [two](/zh/post/two/) companies are working [in](/zh/post/in/) cooperation [with](/zh/post/with/) [each](/zh/post/each/) [other](/zh/post/other/) [on](/zh/post/on/) [a](/zh/post/a/) [new](/zh/post/new/) [product](/zh/post/product/)."
 
 ## 例句
-- "[To](/post/to/) [achieve](/post/achieve/) [success](/post/success/), it's [essential](/post/essential/) [to](/post/to/) [cooperate](/post/cooperate/) effectively [as](/post/as/) [a](/post/a/) [team](/post/team/)."
-- "[The](/post/the/) [police](/post/police/) are asking [for](/post/for/) [the](/post/the/) public's cooperation [in](/post/in/) solving [the](/post/the/) [crime](/post/crime/)."
-- "[She](/post/she/) cooperated [with](/post/with/) [her](/post/her/) colleagues [to](/post/to/) [present](/post/present/) [a](/post/a/) well-researched [report](/post/report/)."
+- "[To](/zh/post/to/) [achieve](/zh/post/achieve/) [success](/zh/post/success/), it's [essential](/zh/post/essential/) [to](/zh/post/to/) [cooperate](/zh/post/cooperate/) effectively [as](/zh/post/as/) [a](/zh/post/a/) [team](/zh/post/team/)."
+- "[The](/zh/post/the/) [police](/zh/post/police/) are asking [for](/zh/post/for/) [the](/zh/post/the/) public's cooperation [in](/zh/post/in/) solving [the](/zh/post/the/) [crime](/zh/post/crime/)."
+- "[She](/zh/post/she/) cooperated [with](/zh/post/with/) [her](/zh/post/her/) colleagues [to](/zh/post/to/) [present](/zh/post/present/) [a](/zh/post/a/) well-researched [report](/zh/post/report/)."
 
 ## 同义词
 - Collaborate
-- [Work](/post/work/) [together](/post/together/)
-- [Team](/post/team/) [up](/post/up/)
-- [Associate](/post/associate/)
+- [Work](/zh/post/work/) [together](/zh/post/together/)
+- [Team](/zh/post/team/) [up](/zh/post/up/)
+- [Associate](/zh/post/associate/)
 - Jointly

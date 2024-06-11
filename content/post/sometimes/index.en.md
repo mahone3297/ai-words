@@ -7,31 +7,31 @@ description = '[ˈsʌmtaimz] ad.不时，有时'
 keywords = ['ai words', 'sometimes']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səmˈtaɪmz/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [frequency](/en/post/frequency/) [or](/en/post/or/) [occasional](/en/post/occasional/) [occurrence](/en/post/occurrence/), [meaning](/en/post/meaning/) "[occasionally](/en/post/occasionally/)" [or](/en/post/or/) "[at](/en/post/at/) times". [It](/en/post/it/) modifies verbs, adjectives, [or](/en/post/or/) [other](/en/post/other/) adverbs. [For](/en/post/for/) [example](/en/post/example/), "[She](/en/post/she/) studies [sometimes](/en/post/sometimes/)" [or](/en/post/or/) "[He](/en/post/he/) comes [sometimes](/en/post/sometimes/) [on](/en/post/on/) weekends."
+- **[Adverb](/post/adverb/)**: [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [frequency](/post/frequency/) [or](/post/or/) [occasional](/post/occasional/) [occurrence](/post/occurrence/), [meaning](/post/meaning/) "[occasionally](/post/occasionally/)" [or](/post/or/) "[at](/post/at/) times". [It](/post/it/) modifies verbs, adjectives, [or](/post/or/) [other](/post/other/) adverbs. [For](/post/for/) [example](/post/example/), "[She](/post/she/) studies [sometimes](/post/sometimes/)" [or](/post/or/) "[He](/post/he/) comes [sometimes](/post/sometimes/) [on](/post/on/) weekends."
 
 ## Phrases
-- "[From](/en/post/from/) [time](/en/post/time/) [to](/en/post/to/) [time](/en/post/time/)" refers [to](/en/post/to/) [occasionally](/en/post/occasionally/) [or](/en/post/or/) [at](/en/post/at/) [irregular](/en/post/irregular/) intervals.
-- "[Somewhat](/en/post/somewhat/)" indicates [a](/en/post/a/) [degree](/en/post/degree/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [positive](/en/post/positive/) [or](/en/post/or/) [negative](/en/post/negative/) connotation.
-- "Sometexts" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) colloquial [way](/en/post/way/) [to](/en/post/to/) [express](/en/post/express/) [occasional](/en/post/occasional/) messages [or](/en/post/or/) interactions.
+- "[From](/post/from/) [time](/post/time/) [to](/post/to/) [time](/post/time/)" refers [to](/post/to/) [occasionally](/post/occasionally/) [or](/post/or/) [at](/post/at/) [irregular](/post/irregular/) intervals.
+- "[Somewhat](/post/somewhat/)" indicates [a](/post/a/) [degree](/post/degree/) [of](/post/of/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [positive](/post/positive/) [or](/post/or/) [negative](/post/negative/) connotation.
+- "Sometexts" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) colloquial [way](/post/way/) [to](/post/to/) [express](/post/express/) [occasional](/post/occasional/) messages [or](/post/or/) interactions.
 
-## [Example](/en/post/example/) Sentences
-- "I [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) gym [sometimes](/en/post/sometimes/) [when](/en/post/when/) I [have](/en/post/have/) [free](/en/post/free/) [time](/en/post/time/)."
-- "[She](/en/post/she/) sings [sometimes](/en/post/sometimes/), [but](/en/post/but/) [not](/en/post/not/) [as](/en/post/as/) professionally [as](/en/post/as/) [her](/en/post/her/) [sister](/en/post/sister/)."
-- "[The](/en/post/the/) [weather](/en/post/weather/) changes [sometimes](/en/post/sometimes/), [so](/en/post/so/) it's [hard](/en/post/hard/) [to](/en/post/to/) [plan](/en/post/plan/) [outdoor](/en/post/outdoor/) activities."
+## [Example](/post/example/) Sentences
+- "I [go](/post/go/) [to](/post/to/) [the](/post/the/) gym [sometimes](/post/sometimes/) [when](/post/when/) I [have](/post/have/) [free](/post/free/) [time](/post/time/)."
+- "[She](/post/she/) sings [sometimes](/post/sometimes/), [but](/post/but/) [not](/post/not/) [as](/post/as/) professionally [as](/post/as/) [her](/post/her/) [sister](/post/sister/)."
+- "[The](/post/the/) [weather](/post/weather/) changes [sometimes](/post/sometimes/), [so](/post/so/) it's [hard](/post/hard/) [to](/post/to/) [plan](/post/plan/) [outdoor](/post/outdoor/) activities."
 
 ## Synonyms
-- [Occasionally](/en/post/occasionally/)
-- [Now](/en/post/now/) [and](/en/post/and/) [then](/en/post/then/)
+- [Occasionally](/post/occasionally/)
+- [Now](/post/now/) [and](/post/and/) [then](/post/then/)
 - Periodically
-- [At](/en/post/at/) times
-- [From](/en/post/from/) [time](/en/post/time/) [to](/en/post/to/) [time](/en/post/time/)
+- [At](/post/at/) times
+- [From](/post/from/) [time](/post/time/) [to](/post/to/) [time](/post/time/)
 
 ## Antonyms
-- [Always](/en/post/always/)
-- [Frequently](/en/post/frequently/)
-- [Regularly](/en/post/regularly/)
+- [Always](/post/always/)
+- [Frequently](/post/frequently/)
+- [Regularly](/post/regularly/)
 - Constantly

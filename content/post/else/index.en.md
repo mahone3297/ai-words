@@ -7,29 +7,29 @@ description = '[els] ad.其它，另外 a.别的'
 keywords = ['ai words', 'else']
 +++
 
-## [Word](/en/post/word/): [Else](/en/post/else/)
+## [Word](/post/word/): [Else](/post/else/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /els/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Different](/en/post/different/); [other](/en/post/other/) [than](/en/post/than/) [what](/en/post/what/) has been mentioned [or](/en/post/or/) specified. [For](/en/post/for/) [example](/en/post/example/): "There's [no](/en/post/no/) [one](/en/post/one/) [else](/en/post/else/) [in](/en/post/in/) [the](/en/post/the/) [room](/en/post/room/)."
-- **[Pronoun](/en/post/pronoun/)**: [Someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [different](/en/post/different/); [another](/en/post/another/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/). [For](/en/post/for/) [example](/en/post/example/): "[If](/en/post/if/) [you](/en/post/you/) don't [want](/en/post/want/) [to](/en/post/to/) [go](/en/post/go/), [who](/en/post/who/) [else](/en/post/else/) [will](/en/post/will/)?"
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [addition](/en/post/addition/); [otherwise](/en/post/otherwise/); [under](/en/post/under/) [other](/en/post/other/) circumstances. [For](/en/post/for/) [example](/en/post/example/): "I [have](/en/post/have/) [no](/en/post/no/) [choice](/en/post/choice/); I [must](/en/post/must/) [do](/en/post/do/) [this](/en/post/this/), [or](/en/post/or/) [else](/en/post/else/) [suffer](/en/post/suffer/) [the](/en/post/the/) consequences."
+- **[Adjective](/post/adjective/)**: [Different](/post/different/); [other](/post/other/) [than](/post/than/) [what](/post/what/) has been mentioned [or](/post/or/) specified. [For](/post/for/) [example](/post/example/): "There's [no](/post/no/) [one](/post/one/) [else](/post/else/) [in](/post/in/) [the](/post/the/) [room](/post/room/)."
+- **[Pronoun](/post/pronoun/)**: [Someone](/post/someone/) [or](/post/or/) [something](/post/something/) [different](/post/different/); [another](/post/another/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/). [For](/post/for/) [example](/post/example/): "[If](/post/if/) [you](/post/you/) don't [want](/post/want/) [to](/post/to/) [go](/post/go/), [who](/post/who/) [else](/post/else/) [will](/post/will/)?"
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [addition](/post/addition/); [otherwise](/post/otherwise/); [under](/post/under/) [other](/post/other/) circumstances. [For](/post/for/) [example](/post/example/): "I [have](/post/have/) [no](/post/no/) [choice](/post/choice/); I [must](/post/must/) [do](/post/do/) [this](/post/this/), [or](/post/or/) [else](/post/else/) [suffer](/post/suffer/) [the](/post/the/) consequences."
 
 ## Phrases
-- "[What](/en/post/what/) [else](/en/post/else/)?" implies asking [if](/en/post/if/) [there](/en/post/there/) is [anything](/en/post/anything/) [additional](/en/post/additional/) [or](/en/post/or/) [different](/en/post/different/).
-- "[Elsewhere](/en/post/elsewhere/)" [means](/en/post/means/) [in](/en/post/in/) [or](/en/post/or/) [to](/en/post/to/) [a](/en/post/a/) [different](/en/post/different/) [place](/en/post/place/); [somewhere](/en/post/somewhere/) [else](/en/post/else/).
-- "[If](/en/post/if/) [not](/en/post/not/)... [then](/en/post/then/) [what](/en/post/what/) [else](/en/post/else/)?" is [a](/en/post/a/) [question](/en/post/question/) [often](/en/post/often/) posed [when](/en/post/when/) exploring [alternative](/en/post/alternative/) possibilities.
+- "[What](/post/what/) [else](/post/else/)?" implies asking [if](/post/if/) [there](/post/there/) is [anything](/post/anything/) [additional](/post/additional/) [or](/post/or/) [different](/post/different/).
+- "[Elsewhere](/post/elsewhere/)" [means](/post/means/) [in](/post/in/) [or](/post/or/) [to](/post/to/) [a](/post/a/) [different](/post/different/) [place](/post/place/); [somewhere](/post/somewhere/) [else](/post/else/).
+- "[If](/post/if/) [not](/post/not/)... [then](/post/then/) [what](/post/what/) [else](/post/else/)?" is [a](/post/a/) [question](/post/question/) [often](/post/often/) posed [when](/post/when/) exploring [alternative](/post/alternative/) possibilities.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Do](/en/post/do/) [you](/en/post/you/) [have](/en/post/have/) [any](/en/post/any/) [other](/en/post/other/) plans [for](/en/post/for/) [the](/en/post/the/) [weekend](/en/post/weekend/), [or](/en/post/or/) is [that](/en/post/that/) [it](/en/post/it/)?"
-- **[Pronoun](/en/post/pronoun/)**: "[She](/en/post/she/) couldn't [think](/en/post/think/) [of](/en/post/of/) [anyone](/en/post/anyone/) [else](/en/post/else/) [who](/en/post/who/) [could](/en/post/could/) [help](/en/post/help/) [her](/en/post/her/) [with](/en/post/with/) [the](/en/post/the/) [problem](/en/post/problem/)."
-- **[Adverb](/en/post/adverb/)**: "[Finish](/en/post/finish/) [your](/en/post/your/) homework [now](/en/post/now/); [you](/en/post/you/) won't [get](/en/post/get/) [to](/en/post/to/) [play](/en/post/play/) [video](/en/post/video/) games [otherwise](/en/post/otherwise/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Do](/post/do/) [you](/post/you/) [have](/post/have/) [any](/post/any/) [other](/post/other/) plans [for](/post/for/) [the](/post/the/) [weekend](/post/weekend/), [or](/post/or/) is [that](/post/that/) [it](/post/it/)?"
+- **[Pronoun](/post/pronoun/)**: "[She](/post/she/) couldn't [think](/post/think/) [of](/post/of/) [anyone](/post/anyone/) [else](/post/else/) [who](/post/who/) [could](/post/could/) [help](/post/help/) [her](/post/her/) [with](/post/with/) [the](/post/the/) [problem](/post/problem/)."
+- **[Adverb](/post/adverb/)**: "[Finish](/post/finish/) [your](/post/your/) homework [now](/post/now/); [you](/post/you/) won't [get](/post/get/) [to](/post/to/) [play](/post/play/) [video](/post/video/) games [otherwise](/post/otherwise/)."
 
 ## Synonyms
-- [Alternative](/en/post/alternative/) ([adjective](/en/post/adjective/))
-- [Another](/en/post/another/) ([adjective](/en/post/adjective/) [and](/en/post/and/) [pronoun](/en/post/pronoun/))
-- [Otherwise](/en/post/otherwise/) ([adverb](/en/post/adverb/))
-- [Different](/en/post/different/) ([adjective](/en/post/adjective/))
-- [Additional](/en/post/additional/) ([adjective](/en/post/adjective/))
+- [Alternative](/post/alternative/) ([adjective](/post/adjective/))
+- [Another](/post/another/) ([adjective](/post/adjective/) [and](/post/and/) [pronoun](/post/pronoun/))
+- [Otherwise](/post/otherwise/) ([adverb](/post/adverb/))
+- [Different](/post/different/) ([adjective](/post/adjective/))
+- [Additional](/post/additional/) ([adjective](/post/adjective/))

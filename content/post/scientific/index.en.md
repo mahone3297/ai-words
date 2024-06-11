@@ -7,40 +7,40 @@ description = '[saiənˈtifik] a.科学(上)的'
 keywords = ['ai words', 'scientific']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /scɪəntɪfɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Scientific](/en/post/scientific/)**: 1. Pertaining [to](/en/post/to/) [or](/en/post/or/) characterized [by](/en/post/by/) [the](/en/post/the/) methods, principles, [and](/en/post/and/) practices [of](/en/post/of/) [science](/en/post/science/); systematic [and](/en/post/and/) evidence-based. 2. [Of](/en/post/of/), [about](/en/post/about/), [or](/en/post/or/) dealing [with](/en/post/with/) [scientific](/en/post/scientific/) subjects [or](/en/post/or/) [research](/en/post/research/). 3. [Scientific](/en/post/scientific/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) discoveries.
+### [Noun](/post/noun/)
+**[Scientific](/post/scientific/)**: 1. Pertaining [to](/post/to/) [or](/post/or/) characterized [by](/post/by/) [the](/post/the/) methods, principles, [and](/post/and/) practices [of](/post/of/) [science](/post/science/); systematic [and](/post/and/) evidence-based. 2. [Of](/post/of/), [about](/post/about/), [or](/post/or/) dealing [with](/post/with/) [scientific](/post/scientific/) subjects [or](/post/or/) [research](/post/research/). 3. [Scientific](/post/scientific/) [knowledge](/post/knowledge/) [or](/post/or/) discoveries.
 
-### [Verb](/en/post/verb/)
-**[To](/en/post/to/) [be](/en/post/be/) [scientific](/en/post/scientific/)**: [To](/en/post/to/) [approach](/en/post/approach/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) methodical, systematic, [and](/en/post/and/) empirical [manner](/en/post/manner/), typically [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) [understanding](/en/post/understanding/) [or](/en/post/or/) explaining [natural](/en/post/natural/) phenomena.
+### [Verb](/post/verb/)
+**[To](/post/to/) [be](/post/be/) [scientific](/post/scientific/)**: [To](/post/to/) [approach](/post/approach/) [something](/post/something/) [in](/post/in/) [a](/post/a/) methodical, systematic, [and](/post/and/) empirical [manner](/post/manner/), typically [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) [understanding](/post/understanding/) [or](/post/or/) explaining [natural](/post/natural/) phenomena.
 
-### [Adjective](/en/post/adjective/)
-**[Scientific](/en/post/scientific/)**: 1. Based [on](/en/post/on/) [scientific](/en/post/scientific/) [study](/en/post/study/) [or](/en/post/or/) [knowledge](/en/post/knowledge/). 2. Belonging [to](/en/post/to/) [or](/en/post/or/) using [the](/en/post/the/) methods [of](/en/post/of/) [science](/en/post/science/).
+### [Adjective](/post/adjective/)
+**[Scientific](/post/scientific/)**: 1. Based [on](/post/on/) [scientific](/post/scientific/) [study](/post/study/) [or](/post/or/) [knowledge](/post/knowledge/). 2. Belonging [to](/post/to/) [or](/post/or/) using [the](/post/the/) methods [of](/post/of/) [science](/post/science/).
 
-### [Adjective](/en/post/adjective/) (qualified)
-**Scientifically**: [In](/en/post/in/) [a](/en/post/a/) [scientific](/en/post/scientific/) [manner](/en/post/manner/) [or](/en/post/or/) according [to](/en/post/to/) [scientific](/en/post/scientific/) principles.
+### [Adjective](/post/adjective/) (qualified)
+**Scientifically**: [In](/post/in/) [a](/post/a/) [scientific](/post/scientific/) [manner](/post/manner/) [or](/post/or/) according [to](/post/to/) [scientific](/post/scientific/) principles.
 
 ## Phrases
-- "[Scientific](/en/post/scientific/) [inquiry](/en/post/inquiry/)" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) asking questions [and](/en/post/and/) seeking answers [through](/en/post/through/) [observation](/en/post/observation/) [and](/en/post/and/) experimentation.
-- "[Scientific](/en/post/scientific/) [community](/en/post/community/)" denotes [the](/en/post/the/) [group](/en/post/group/) [of](/en/post/of/) scientists [and](/en/post/and/) researchers working [together](/en/post/together/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/).
-- "[Apply](/en/post/apply/) [scientific](/en/post/scientific/) methods" implies using systematic approaches [to](/en/post/to/) [solve](/en/post/solve/) problems [or](/en/post/or/) [investigate](/en/post/investigate/) phenomena.
+- "[Scientific](/post/scientific/) [inquiry](/post/inquiry/)" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) asking questions [and](/post/and/) seeking answers [through](/post/through/) [observation](/post/observation/) [and](/post/and/) experimentation.
+- "[Scientific](/post/scientific/) [community](/post/community/)" denotes [the](/post/the/) [group](/post/group/) [of](/post/of/) scientists [and](/post/and/) researchers working [together](/post/together/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/).
+- "[Apply](/post/apply/) [scientific](/post/scientific/) methods" implies using systematic approaches [to](/post/to/) [solve](/post/solve/) problems [or](/post/or/) [investigate](/post/investigate/) phenomena.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [scientific](/en/post/scientific/) [community](/en/post/community/) is divided [over](/en/post/over/) [the](/en/post/the/) [best](/en/post/best/) [way](/en/post/way/) [to](/en/post/to/) combat [climate](/en/post/climate/) [change](/en/post/change/).
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) conducted [a](/en/post/a/) [scientific](/en/post/scientific/) [experiment](/en/post/experiment/) [to](/en/post/to/) [test](/en/post/test/) [his](/en/post/his/) hypothesis.
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [new](/en/post/new/) [technology](/en/post/technology/) is scientifically [advanced](/en/post/advanced/), offering unprecedented [accuracy](/en/post/accuracy/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [scientific](/post/scientific/) [community](/post/community/) is divided [over](/post/over/) [the](/post/the/) [best](/post/best/) [way](/post/way/) [to](/post/to/) combat [climate](/post/climate/) [change](/post/change/).
+- **[Verb](/post/verb/)**: [He](/post/he/) conducted [a](/post/a/) [scientific](/post/scientific/) [experiment](/post/experiment/) [to](/post/to/) [test](/post/test/) [his](/post/his/) hypothesis.
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [new](/post/new/) [technology](/post/technology/) is scientifically [advanced](/post/advanced/), offering unprecedented [accuracy](/post/accuracy/).
 
 ## Synonyms
-- [Academic](/en/post/academic/)
+- [Academic](/post/academic/)
 - Scholarly
 - Empirical
-- [Rational](/en/post/rational/)
+- [Rational](/post/rational/)
 - Evidence-based
 - Methodical
-- [Logical](/en/post/logical/)
+- [Logical](/post/logical/)
 - Investigative
 
 ## Antonyms
@@ -49,4 +49,4 @@ keywords = ['ai words', 'scientific']
 - Hypothetical
 - Superstitious
 - Illogical
-- Empiricist ([limited](/en/post/limited/) [to](/en/post/to/) relying [solely](/en/post/solely/) [on](/en/post/on/) [experience](/en/post/experience/))
+- Empiricist ([limited](/post/limited/) [to](/post/to/) relying [solely](/post/solely/) [on](/post/on/) [experience](/post/experience/))

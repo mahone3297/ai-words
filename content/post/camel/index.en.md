@@ -7,38 +7,38 @@ description = '[ˈkæməl] n.骆驼'
 keywords = ['ai words', 'camel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kæməl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Camel](/en/post/camel/)** ([noun](/en/post/noun/), [plural](/en/post/plural/): camels): [A](/en/post/a/) [large](/en/post/large/), long-necked, hump-backed, [and](/en/post/and/) long-limbed mammal [native](/en/post/native/) [to](/en/post/to/) arid regions, [particularly](/en/post/particularly/) [Africa](/en/post/africa/) [and](/en/post/and/) [Asia](/en/post/asia/). [It](/en/post/it/) is known [for](/en/post/for/) [its](/en/post/its/) [ability](/en/post/ability/) [to](/en/post/to/) [store](/en/post/store/) fat [in](/en/post/in/) [its](/en/post/its/) humps [and](/en/post/and/) [tolerate](/en/post/tolerate/) [long](/en/post/long/) periods [without](/en/post/without/) [water](/en/post/water/).
-2. [CamelCase](https://en.wikipedia.org/wiki/CamelCase) (computing): [A](/en/post/a/) [writing](/en/post/writing/) [style](/en/post/style/) [in](/en/post/in/) [which](/en/post/which/) words are connected [without](/en/post/without/) spaces, [with](/en/post/with/) [the](/en/post/the/) [first](/en/post/first/) [letter](/en/post/letter/) [of](/en/post/of/) [each](/en/post/each/) [word](/en/post/word/) capitalized, e.g., "ThisIsACamelCaseExample".
+### [Noun](/post/noun/)
+1. **[Camel](/post/camel/)** ([noun](/post/noun/), [plural](/post/plural/): camels): [A](/post/a/) [large](/post/large/), long-necked, hump-backed, [and](/post/and/) long-limbed mammal [native](/post/native/) [to](/post/to/) arid regions, [particularly](/post/particularly/) [Africa](/post/africa/) [and](/post/and/) [Asia](/post/asia/). [It](/post/it/) is known [for](/post/for/) [its](/post/its/) [ability](/post/ability/) [to](/post/to/) [store](/post/store/) fat [in](/post/in/) [its](/post/its/) humps [and](/post/and/) [tolerate](/post/tolerate/) [long](/post/long/) periods [without](/post/without/) [water](/post/water/).
+2. [CamelCase](https://en.wikipedia.org/wiki/CamelCase) (computing): [A](/post/a/) [writing](/post/writing/) [style](/post/style/) [in](/post/in/) [which](/post/which/) words are connected [without](/post/without/) spaces, [with](/post/with/) [the](/post/the/) [first](/post/first/) [letter](/post/letter/) [of](/post/of/) [each](/post/each/) [word](/post/word/) capitalized, e.g., "ThisIsACamelCaseExample".
 
-### [Verb](/en/post/verb/)
-- [Not](/en/post/not/) [directly](/en/post/directly/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [standard](/en/post/standard/) English, [but](/en/post/but/) "[to](/en/post/to/) [ride](/en/post/ride/) [a](/en/post/a/) [camel](/en/post/camel/)" is [a](/en/post/a/) [common](/en/post/common/) [phrase](/en/post/phrase/).
+### [Verb](/post/verb/)
+- [Not](/post/not/) [directly](/post/directly/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [standard](/post/standard/) English, [but](/post/but/) "[to](/post/to/) [ride](/post/ride/) [a](/post/a/) [camel](/post/camel/)" is [a](/post/a/) [common](/post/common/) [phrase](/post/phrase/).
 
-### [Adjective](/en/post/adjective/)
-- [Not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [in](/en/post/in/) English.
+### [Adjective](/post/adjective/)
+- [Not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [in](/post/in/) English.
 
 ## Phrases
-- "[Ride](/en/post/ride/) [a](/en/post/a/) [camel](/en/post/camel/)" [or](/en/post/or/) "[ride](/en/post/ride/) [on](/en/post/on/) [a](/en/post/a/) camel's [back](/en/post/back/)"
-- "[A](/en/post/a/) dromedary [camel](/en/post/camel/)" (referring [to](/en/post/to/) [the](/en/post/the/) one-humped [variety](/en/post/variety/))
-- "Bactrian [camel](/en/post/camel/)" (referring [to](/en/post/to/) [the](/en/post/the/) two-humped [variety](/en/post/variety/))
+- "[Ride](/post/ride/) [a](/post/a/) [camel](/post/camel/)" [or](/post/or/) "[ride](/post/ride/) [on](/post/on/) [a](/post/a/) camel's [back](/post/back/)"
+- "[A](/post/a/) dromedary [camel](/post/camel/)" (referring [to](/post/to/) [the](/post/the/) one-humped [variety](/post/variety/))
+- "Bactrian [camel](/post/camel/)" (referring [to](/post/to/) [the](/post/the/) two-humped [variety](/post/variety/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) nomads relied [heavily](/en/post/heavily/) [on](/en/post/on/) [their](/en/post/their/) camels [for](/en/post/for/) [transportation](/en/post/transportation/) [across](/en/post/across/) [the](/en/post/the/) [desert](/en/post/desert/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) dromedary camel's [unique](/en/post/unique/) features [make](/en/post/make/) [it](/en/post/it/) well-suited [to](/en/post/to/) [its](/en/post/its/) [harsh](/en/post/harsh/) [environment](/en/post/environment/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) tourists took turns riding [the](/en/post/the/) camels [through](/en/post/through/) [the](/en/post/the/) Sahara [Desert](/en/post/desert/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) nomads relied [heavily](/post/heavily/) [on](/post/on/) [their](/post/their/) camels [for](/post/for/) [transportation](/post/transportation/) [across](/post/across/) [the](/post/the/) [desert](/post/desert/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) dromedary camel's [unique](/post/unique/) features [make](/post/make/) [it](/post/it/) well-suited [to](/post/to/) [its](/post/its/) [harsh](/post/harsh/) [environment](/post/environment/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) tourists took turns riding [the](/post/the/) camels [through](/post/through/) [the](/post/the/) Sahara [Desert](/post/desert/)."
 
 ## Synonyms
-- Dromedary ([for](/en/post/for/) [the](/en/post/the/) single-humped [variety](/en/post/variety/))
-- Bactrian ([for](/en/post/for/) [the](/en/post/the/) double-humped [variety](/en/post/variety/))
-- Camelus (Latin [term](/en/post/term/) [for](/en/post/for/) [the](/en/post/the/) [animal](/en/post/animal/))
-- Caravan [beast](/en/post/beast/) (informal)
+- Dromedary ([for](/post/for/) [the](/post/the/) single-humped [variety](/post/variety/))
+- Bactrian ([for](/post/for/) [the](/post/the/) double-humped [variety](/post/variety/))
+- Camelus (Latin [term](/post/term/) [for](/post/for/) [the](/post/the/) [animal](/post/animal/))
+- Caravan [beast](/post/beast/) (informal)
 
 ## Related Words
 - Hump
-- Camelopard (archaic [name](/en/post/name/) [for](/en/post/for/) [the](/en/post/the/) giraffe)
-- Camelot ([a](/en/post/a/) legendary [place](/en/post/place/) associated [with](/en/post/with/) [King](/en/post/king/) Arthur)
-- Camelskin ([material](/en/post/material/) derived [from](/en/post/from/) [a](/en/post/a/) camel's [hide](/en/post/hide/))
+- Camelopard (archaic [name](/post/name/) [for](/post/for/) [the](/post/the/) giraffe)
+- Camelot ([a](/post/a/) legendary [place](/post/place/) associated [with](/post/with/) [King](/post/king/) Arthur)
+- Camelskin ([material](/post/material/) derived [from](/post/from/) [a](/post/a/) camel's [hide](/post/hide/))

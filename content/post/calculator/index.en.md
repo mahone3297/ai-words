@@ -7,39 +7,39 @@ description = '[ˈkælkjuleitə] n.计算器，计算者'
 keywords = ['ai words', 'calculator']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈleɪkʃər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[calculator](/en/post/calculator/)** is [a](/en/post/a/) [small](/en/post/small/) [electronic](/en/post/electronic/) [device](/en/post/device/) [or](/en/post/or/) software [program](/en/post/program/) [that](/en/post/that/) performs [mathematical](/en/post/mathematical/) calculations, [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [store](/en/post/store/) [and](/en/post/and/) manipulate numbers [and](/en/post/and/) [perform](/en/post/perform/) [various](/en/post/various/) [arithmetic](/en/post/arithmetic/) operations.
+### [Noun](/post/noun/)
+[A](/post/a/) **[calculator](/post/calculator/)** is [a](/post/a/) [small](/post/small/) [electronic](/post/electronic/) [device](/post/device/) [or](/post/or/) software [program](/post/program/) [that](/post/that/) performs [mathematical](/post/mathematical/) calculations, [often](/post/often/) [with](/post/with/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [store](/post/store/) [and](/post/and/) manipulate numbers [and](/post/and/) [perform](/post/perform/) [various](/post/various/) [arithmetic](/post/arithmetic/) operations.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[calculate](/en/post/calculate/)** [means](/en/post/means/) [to](/en/post/to/) [determine](/en/post/determine/) [or](/en/post/or/) [find](/en/post/find/) [a](/en/post/a/) numerical [value](/en/post/value/) [or](/en/post/or/) [solution](/en/post/solution/) [by](/en/post/by/) performing [mental](/en/post/mental/) [arithmetic](/en/post/arithmetic/) [or](/en/post/or/) using [a](/en/post/a/) computing [device](/en/post/device/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[calculate](/post/calculate/)** [means](/post/means/) [to](/post/to/) [determine](/post/determine/) [or](/post/or/) [find](/post/find/) [a](/post/a/) numerical [value](/post/value/) [or](/post/or/) [solution](/post/solution/) [by](/post/by/) performing [mental](/post/mental/) [arithmetic](/post/arithmetic/) [or](/post/or/) using [a](/post/a/) computing [device](/post/device/).
 
 ## Phrases
-- "[Perform](/en/post/perform/) [a](/en/post/a/) [calculation](/en/post/calculation/)" [means](/en/post/means/) [to](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [calculator](/en/post/calculator/) [or](/en/post/or/) [mental](/en/post/mental/) [arithmetic](/en/post/arithmetic/) [to](/en/post/to/) [find](/en/post/find/) [a](/en/post/a/) [result](/en/post/result/).
-- "[Financial](/en/post/financial/) [calculator](/en/post/calculator/)" refers [to](/en/post/to/) [a](/en/post/a/) specialized [device](/en/post/device/) [for](/en/post/for/) [financial](/en/post/financial/) calculations.
-- "[Scientific](/en/post/scientific/) [calculator](/en/post/calculator/)" is [one](/en/post/one/) designed [for](/en/post/for/) [advanced](/en/post/advanced/) [mathematical](/en/post/mathematical/) functions.
+- "[Perform](/post/perform/) [a](/post/a/) [calculation](/post/calculation/)" [means](/post/means/) [to](/post/to/) [use](/post/use/) [a](/post/a/) [calculator](/post/calculator/) [or](/post/or/) [mental](/post/mental/) [arithmetic](/post/arithmetic/) [to](/post/to/) [find](/post/find/) [a](/post/a/) [result](/post/result/).
+- "[Financial](/post/financial/) [calculator](/post/calculator/)" refers [to](/post/to/) [a](/post/a/) specialized [device](/post/device/) [for](/post/for/) [financial](/post/financial/) calculations.
+- "[Scientific](/post/scientific/) [calculator](/post/calculator/)" is [one](/post/one/) designed [for](/post/for/) [advanced](/post/advanced/) [mathematical](/post/mathematical/) functions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) [used](/en/post/used/) [her](/en/post/her/) [calculator](/en/post/calculator/) [to](/en/post/to/) [compute](/en/post/compute/) [the](/en/post/the/) [total](/en/post/total/) [cost](/en/post/cost/) [of](/en/post/of/) [the](/en/post/the/) [trip](/en/post/trip/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [engineer](/en/post/engineer/) calculated [the](/en/post/the/) [force](/en/post/force/) required [to](/en/post/to/) [lift](/en/post/lift/) [the](/en/post/the/) [heavy](/en/post/heavy/) [object](/en/post/object/)."
-- **[In](/en/post/in/) [Action](/en/post/action/)**: "Students [often](/en/post/often/) [calculate](/en/post/calculate/) [their](/en/post/their/) grades [after](/en/post/after/) completing assignments."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) [used](/post/used/) [her](/post/her/) [calculator](/post/calculator/) [to](/post/to/) [compute](/post/compute/) [the](/post/the/) [total](/post/total/) [cost](/post/cost/) [of](/post/of/) [the](/post/the/) [trip](/post/trip/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [engineer](/post/engineer/) calculated [the](/post/the/) [force](/post/force/) required [to](/post/to/) [lift](/post/lift/) [the](/post/the/) [heavy](/post/heavy/) [object](/post/object/)."
+- **[In](/post/in/) [Action](/post/action/)**: "Students [often](/post/often/) [calculate](/post/calculate/) [their](/post/their/) grades [after](/post/after/) completing assignments."
 
 ## Synonyms
-- [Compute](/en/post/compute/)
-- [Evaluate](/en/post/evaluate/)
-- [Determine](/en/post/determine/)
-- [Work](/en/post/work/) [out](/en/post/out/)
-- [Estimate](/en/post/estimate/)
+- [Compute](/post/compute/)
+- [Evaluate](/post/evaluate/)
+- [Determine](/post/determine/)
+- [Work](/post/work/) [out](/post/out/)
+- [Estimate](/post/estimate/)
 - reckon
 
 ## Antonyms
-- [Guess](/en/post/guess/)
-- [Estimate](/en/post/estimate/) (imprecise)
+- [Guess](/post/guess/)
+- [Estimate](/post/estimate/) (imprecise)
 - Miscount
 - Underestimate/Overestimate
 
-## [Usage](/en/post/usage/)
-[Calculator](/en/post/calculator/) is [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [various](/en/post/various/) contexts, [from](/en/post/from/) [basic](/en/post/basic/) [arithmetic](/en/post/arithmetic/) [to](/en/post/to/) [complex](/en/post/complex/) [scientific](/en/post/scientific/) [or](/en/post/or/) [financial](/en/post/financial/) calculations. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) figuring [something](/en/post/something/) [out](/en/post/out/) mentally, [as](/en/post/as/) [in](/en/post/in/) "[He](/en/post/he/) [quickly](/en/post/quickly/) calculated [the](/en/post/the/) [tip](/en/post/tip/)."
+## [Usage](/post/usage/)
+[Calculator](/post/calculator/) is [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [various](/post/various/) contexts, [from](/post/from/) [basic](/post/basic/) [arithmetic](/post/arithmetic/) [to](/post/to/) [complex](/post/complex/) [scientific](/post/scientific/) [or](/post/or/) [financial](/post/financial/) calculations. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) figuring [something](/post/something/) [out](/post/out/) mentally, [as](/post/as/) [in](/post/in/) "[He](/post/he/) [quickly](/post/quickly/) calculated [the](/post/the/) [tip](/post/tip/)."

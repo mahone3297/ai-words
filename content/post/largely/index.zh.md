@@ -11,20 +11,20 @@ keywords = ['ai words', 'largely']
 /lɑːrɡli/
 
 ## 释义
-- **副词**: 大部分地，主要地，广泛地。例如: "[The](/post/the/) [project](/post/project/) was completed [largely](/post/largely/) [due](/post/due/) [to](/post/to/) [his](/post/his/) efforts."
-- **形容词**: 很大程度上的，大规模的。例如: "[The](/post/the/) [company](/post/company/) has [largely](/post/largely/) increased [its](/post/its/) profits [this](/post/this/) [year](/post/year/)."
+- **副词**: 大部分地，主要地，广泛地。例如: "[The](/zh/post/the/) [project](/zh/post/project/) was completed [largely](/zh/post/largely/) [due](/zh/post/due/) [to](/zh/post/to/) [his](/zh/post/his/) efforts."
+- **形容词**: 很大程度上的，大规模的。例如: "[The](/zh/post/the/) [company](/zh/post/company/) has [largely](/zh/post/largely/) increased [its](/zh/post/its/) profits [this](/zh/post/this/) [year](/zh/post/year/)."
 
 ## 短语
-- "[Largely](/post/largely/) unaffected" 意为基本上没有受到影响。
-- "[Largely](/post/largely/) [successful](/post/successful/)" 表示大部分成功的。
+- "[Largely](/zh/post/largely/) unaffected" 意为基本上没有受到影响。
+- "[Largely](/zh/post/largely/) [successful](/zh/post/successful/)" 表示大部分成功的。
 
 ## 例句
-- 副词: "[The](/post/the/) [town](/post/town/) [remains](/post/remains/) [largely](/post/largely/) unchanged [since](/post/since/) I [last](/post/last/) visited."
-- 形容词: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) has been [largely](/post/largely/) welcomed [by](/post/by/) [the](/post/the/) [public](/post/public/)."
+- 副词: "[The](/zh/post/the/) [town](/zh/post/town/) [remains](/zh/post/remains/) [largely](/zh/post/largely/) unchanged [since](/zh/post/since/) I [last](/zh/post/last/) visited."
+- 形容词: "[The](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/) has been [largely](/zh/post/largely/) welcomed [by](/zh/post/by/) [the](/zh/post/the/) [public](/zh/post/public/)."
 
 ## 同义词
-- [Mainly](/post/mainly/)
-- [Primarily](/post/primarily/)
-- [Mostly](/post/mostly/)
+- [Mainly](/zh/post/mainly/)
+- [Primarily](/zh/post/primarily/)
+- [Mostly](/zh/post/mostly/)
 - Chiefly
 - predominantly

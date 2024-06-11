@@ -7,32 +7,32 @@ description = '[ˈsaiəntist] n.(自然)科学家'
 keywords = ['ai words', 'scientist']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /scɪəntɪst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [scientist](/en/post/scientist/) is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) studies [or](/en/post/or/) practices [science](/en/post/science/), typically [by](/en/post/by/) conducting experiments, analyzing [data](/en/post/data/), [and](/en/post/and/) making observations [to](/en/post/to/) [advance](/en/post/advance/) [knowledge](/en/post/knowledge/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/) [or](/en/post/or/) [branch](/en/post/branch/) [of](/en/post/of/) [science](/en/post/science/). [They](/en/post/they/) [often](/en/post/often/) [engage](/en/post/engage/) [in](/en/post/in/) [research](/en/post/research/) [and](/en/post/and/) [seek](/en/post/seek/) [to](/en/post/to/) [understand](/en/post/understand/) [natural](/en/post/natural/) phenomena [or](/en/post/or/) [develop](/en/post/develop/) [new](/en/post/new/) technologies.
+### [Noun](/post/noun/)
+[A](/post/a/) [scientist](/post/scientist/) is [a](/post/a/) [person](/post/person/) [who](/post/who/) studies [or](/post/or/) practices [science](/post/science/), typically [by](/post/by/) conducting experiments, analyzing [data](/post/data/), [and](/post/and/) making observations [to](/post/to/) [advance](/post/advance/) [knowledge](/post/knowledge/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/) [or](/post/or/) [branch](/post/branch/) [of](/post/of/) [science](/post/science/). [They](/post/they/) [often](/post/often/) [engage](/post/engage/) [in](/post/in/) [research](/post/research/) [and](/post/and/) [seek](/post/seek/) [to](/post/to/) [understand](/post/understand/) [natural](/post/natural/) phenomena [or](/post/or/) [develop](/post/develop/) [new](/post/new/) technologies.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) [a](/en/post/a/) [scientist](/en/post/scientist/), [meaning](/en/post/meaning/) [to](/en/post/to/) [employ](/en/post/employ/) [scientific](/en/post/scientific/) methods [or](/en/post/or/) [knowledge](/en/post/knowledge/) [to](/en/post/to/) [investigate](/en/post/investigate/), [discover](/en/post/discover/), [or](/en/post/or/) innovate.
+### [Verb](/post/verb/)
+[To](/post/to/) [act](/post/act/) [as](/post/as/) [a](/post/a/) [scientist](/post/scientist/), [meaning](/post/meaning/) [to](/post/to/) [employ](/post/employ/) [scientific](/post/scientific/) methods [or](/post/or/) [knowledge](/post/knowledge/) [to](/post/to/) [investigate](/post/investigate/), [discover](/post/discover/), [or](/post/or/) innovate.
 
 ## Phrases
-- "[Conduct](/en/post/conduct/) [scientific](/en/post/scientific/) [research](/en/post/research/)"
-- "[A](/en/post/a/) renowned biologist [as](/en/post/as/) [a](/en/post/a/) [scientist](/en/post/scientist/)"
-- "[Scientific](/en/post/scientific/) [inquiry](/en/post/inquiry/)"
+- "[Conduct](/post/conduct/) [scientific](/post/scientific/) [research](/post/research/)"
+- "[A](/post/a/) renowned biologist [as](/post/as/) [a](/post/a/) [scientist](/post/scientist/)"
+- "[Scientific](/post/scientific/) [inquiry](/post/inquiry/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) renowned [scientist](/en/post/scientist/) presented [her](/en/post/her/) groundbreaking findings [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) [scientific](/en/post/scientific/) [study](/en/post/study/), [they](/en/post/they/) developed [a](/en/post/a/) [new](/en/post/new/) [method](/en/post/method/) [to](/en/post/to/) [purify](/en/post/purify/) [water](/en/post/water/)."
-- "[As](/en/post/as/) [a](/en/post/a/) [scientist](/en/post/scientist/), [he](/en/post/he/) spends [most](/en/post/most/) [of](/en/post/of/) [his](/en/post/his/) [time](/en/post/time/) [in](/en/post/in/) [the](/en/post/the/) [laboratory](/en/post/laboratory/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) renowned [scientist](/post/scientist/) presented [her](/post/her/) groundbreaking findings [at](/post/at/) [the](/post/the/) [conference](/post/conference/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) years [of](/post/of/) [scientific](/post/scientific/) [study](/post/study/), [they](/post/they/) developed [a](/post/a/) [new](/post/new/) [method](/post/method/) [to](/post/to/) [purify](/post/purify/) [water](/post/water/)."
+- "[As](/post/as/) [a](/post/a/) [scientist](/post/scientist/), [he](/post/he/) spends [most](/post/most/) [of](/post/of/) [his](/post/his/) [time](/post/time/) [in](/post/in/) [the](/post/the/) [laboratory](/post/laboratory/)."
 
 ## Synonyms
-- [Researcher](/en/post/researcher/)
-- [Scholar](/en/post/scholar/)
-- [Expert](/en/post/expert/)
+- [Researcher](/post/researcher/)
+- [Scholar](/post/scholar/)
+- [Expert](/post/expert/)
 - Investigator
-- [Scientist](/en/post/scientist/) laureate
+- [Scientist](/post/scientist/) laureate
 
 ## Antonyms
 - Layperson
@@ -40,6 +40,6 @@ keywords = ['ai words', 'scientist']
 - Amateur
 
 ## Related Terms
-- [Natural](/en/post/natural/) [philosopher](/en/post/philosopher/)
-- [Engineer](/en/post/engineer/) ([in](/en/post/in/) [a](/en/post/a/) broader [sense](/en/post/sense/))
-- Mathematician (specifically [in](/en/post/in/) [a](/en/post/a/) [scientific](/en/post/scientific/) context)
+- [Natural](/post/natural/) [philosopher](/post/philosopher/)
+- [Engineer](/post/engineer/) ([in](/post/in/) [a](/post/a/) broader [sense](/post/sense/))
+- Mathematician (specifically [in](/post/in/) [a](/post/a/) [scientific](/post/scientific/) context)

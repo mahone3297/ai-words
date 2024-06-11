@@ -7,30 +7,30 @@ description = '[wiðˈdrɔː] vt.收回；撤回 vi.撤退'
 keywords = ['ai words', 'withdraw']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɪðˈdrɔː/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-    - **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) removing [oneself](/en/post/oneself/) [from](/en/post/from/) [a](/en/post/a/) [location](/en/post/location/), [group](/en/post/group/), [or](/en/post/or/) engagement; [to](/en/post/to/) [pull](/en/post/pull/) [back](/en/post/back/) [or](/en/post/or/) [draw](/en/post/draw/) [back](/en/post/back/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [withdraw](/en/post/withdraw/) [her](/en/post/her/) savings [from](/en/post/from/) [the](/en/post/the/) [bank](/en/post/bank/)."
-    - **[Verb](/en/post/verb/)**: [To](/en/post/to/) [reduce](/en/post/reduce/) one's involvement [or](/en/post/or/) [support](/en/post/support/) [in](/en/post/in/) [something](/en/post/something/); to撤回. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [withdraw](/en/post/withdraw/) [from](/en/post/from/) [the](/en/post/the/) [project](/en/post/project/) [due](/en/post/due/) [to](/en/post/to/) [financial](/en/post/financial/) constraints."
-    - **[Noun](/en/post/noun/)**: [A](/en/post/a/) [right](/en/post/right/) [or](/en/post/or/) [privilege](/en/post/privilege/) [to](/en/post/to/) [withdraw](/en/post/withdraw/), [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [pension](/en/post/pension/) [or](/en/post/or/) [share](/en/post/share/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) exercised [his](/en/post/his/) [right](/en/post/right/) [to](/en/post/to/) [withdraw](/en/post/withdraw/) [his](/en/post/his/) shares [from](/en/post/from/) [the](/en/post/the/) [company](/en/post/company/)."
+- **[Verb](/post/verb/)**: 
+    - **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) removing [oneself](/post/oneself/) [from](/post/from/) [a](/post/a/) [location](/post/location/), [group](/post/group/), [or](/post/or/) engagement; [to](/post/to/) [pull](/post/pull/) [back](/post/back/) [or](/post/or/) [draw](/post/draw/) [back](/post/back/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [withdraw](/post/withdraw/) [her](/post/her/) savings [from](/post/from/) [the](/post/the/) [bank](/post/bank/)."
+    - **[Verb](/post/verb/)**: [To](/post/to/) [reduce](/post/reduce/) one's involvement [or](/post/or/) [support](/post/support/) [in](/post/in/) [something](/post/something/); to撤回. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [withdraw](/post/withdraw/) [from](/post/from/) [the](/post/the/) [project](/post/project/) [due](/post/due/) [to](/post/to/) [financial](/post/financial/) constraints."
+    - **[Noun](/post/noun/)**: [A](/post/a/) [right](/post/right/) [or](/post/or/) [privilege](/post/privilege/) [to](/post/to/) [withdraw](/post/withdraw/), [as](/post/as/) [in](/post/in/) [a](/post/a/) [pension](/post/pension/) [or](/post/or/) [share](/post/share/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) exercised [his](/post/his/) [right](/post/right/) [to](/post/to/) [withdraw](/post/withdraw/) [his](/post/his/) shares [from](/post/from/) [the](/post/the/) [company](/post/company/)."
 
 ## Phrases
-- "[Withdraw](/en/post/withdraw/) funds" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [out](/en/post/out/) [money](/en/post/money/) [from](/en/post/from/) [a](/en/post/a/) [bank](/en/post/bank/) [account](/en/post/account/).
-- "[Withdraw](/en/post/withdraw/) [consent](/en/post/consent/)" signifies revoking [approval](/en/post/approval/) [or](/en/post/or/) [agreement](/en/post/agreement/).
-- "Withdrawal symptoms" [describe](/en/post/describe/) [the](/en/post/the/) [physical](/en/post/physical/) [or](/en/post/or/) [emotional](/en/post/emotional/) reactions [when](/en/post/when/) stopping [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [a](/en/post/a/) [substance](/en/post/substance/), [like](/en/post/like/) caffeine [or](/en/post/or/) [a](/en/post/a/) medication.
+- "[Withdraw](/post/withdraw/) funds" [means](/post/means/) [to](/post/to/) [take](/post/take/) [out](/post/out/) [money](/post/money/) [from](/post/from/) [a](/post/a/) [bank](/post/bank/) [account](/post/account/).
+- "[Withdraw](/post/withdraw/) [consent](/post/consent/)" signifies revoking [approval](/post/approval/) [or](/post/or/) [agreement](/post/agreement/).
+- "Withdrawal symptoms" [describe](/post/describe/) [the](/post/the/) [physical](/post/physical/) [or](/post/or/) [emotional](/post/emotional/) reactions [when](/post/when/) stopping [the](/post/the/) [use](/post/use/) [of](/post/of/) [a](/post/a/) [substance](/post/substance/), [like](/post/like/) caffeine [or](/post/or/) [a](/post/a/) medication.
 
-## [Example](/en/post/example/) Sentences
-- **Withdrawal**: "[The](/en/post/the/) [soldier](/en/post/soldier/) experienced withdrawal [after](/en/post/after/) months [of](/en/post/of/) combat."
-- **Withdrawal [from](/en/post/from/) [a](/en/post/a/) [club](/en/post/club/)**: "[The](/en/post/the/) [member](/en/post/member/) decided [to](/en/post/to/) [withdraw](/en/post/withdraw/) [from](/en/post/from/) [the](/en/post/the/) club's membership."
-- **[Withdraw](/en/post/withdraw/) savings**: "[She](/en/post/she/) planned [to](/en/post/to/) [withdraw](/en/post/withdraw/) [her](/en/post/her/) savings [to](/en/post/to/) [pay](/en/post/pay/) [off](/en/post/off/) [her](/en/post/her/) debts."
+## [Example](/post/example/) Sentences
+- **Withdrawal**: "[The](/post/the/) [soldier](/post/soldier/) experienced withdrawal [after](/post/after/) months [of](/post/of/) combat."
+- **Withdrawal [from](/post/from/) [a](/post/a/) [club](/post/club/)**: "[The](/post/the/) [member](/post/member/) decided [to](/post/to/) [withdraw](/post/withdraw/) [from](/post/from/) [the](/post/the/) club's membership."
+- **[Withdraw](/post/withdraw/) savings**: "[She](/post/she/) planned [to](/post/to/) [withdraw](/post/withdraw/) [her](/post/her/) savings [to](/post/to/) [pay](/post/pay/) [off](/post/off/) [her](/post/her/) debts."
 
 ## Synonyms
-- [Pull](/en/post/pull/) [back](/en/post/back/)
-- [Retreat](/en/post/retreat/)
-- [Remove](/en/post/remove/)
-- Withdrawal ([noun](/en/post/noun/), [financial](/en/post/financial/))
+- [Pull](/post/pull/) [back](/post/back/)
+- [Retreat](/post/retreat/)
+- [Remove](/post/remove/)
+- Withdrawal ([noun](/post/noun/), [financial](/post/financial/))
 - Rescind
 - Relinquish
-- [Quit](/en/post/quit/)
+- [Quit](/post/quit/)

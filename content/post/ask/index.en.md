@@ -7,38 +7,38 @@ description = '[ɑːsk] vt.问；要求；邀请'
 keywords = ['ai words', 'ask']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /æsk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [question](/en/post/question/) [or](/en/post/or/) [inquiry](/en/post/inquiry/) [put](/en/post/put/) [to](/en/post/to/) [someone](/en/post/someone/) [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [obtain](/en/post/obtain/) [information](/en/post/information/) [or](/en/post/or/) [to](/en/post/to/) [request](/en/post/request/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) asked [her](/en/post/her/) [about](/en/post/about/) [her](/en/post/her/) [day](/en/post/day/)."
-- [A](/en/post/a/) [request](/en/post/request/) [for](/en/post/for/) assistance [or](/en/post/or/) [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) asked [him](/en/post/him/) [to](/en/post/to/) [pass](/en/post/pass/) [the](/en/post/the/) [salt](/en/post/salt/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) [question](/post/question/) [or](/post/or/) [inquiry](/post/inquiry/) [put](/post/put/) [to](/post/to/) [someone](/post/someone/) [in](/post/in/) [order](/post/order/) [to](/post/to/) [obtain](/post/obtain/) [information](/post/information/) [or](/post/or/) [to](/post/to/) [request](/post/request/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) asked [her](/post/her/) [about](/post/about/) [her](/post/her/) [day](/post/day/)."
+- [A](/post/a/) [request](/post/request/) [for](/post/for/) assistance [or](/post/or/) [action](/post/action/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) asked [him](/post/him/) [to](/post/to/) [pass](/post/pass/) [the](/post/the/) [salt](/post/salt/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [inquire](/en/post/inquire/) [about](/en/post/about/) [something](/en/post/something/); [make](/en/post/make/) [a](/en/post/a/) [request](/en/post/request/) [or](/en/post/or/) query. [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [ask](/en/post/ask/) [me](/en/post/me/) [how](/en/post/how/) [you](/en/post/you/) [can](/en/post/can/) [help](/en/post/help/)."
-- [To](/en/post/to/) [put](/en/post/put/) [a](/en/post/a/) [question](/en/post/question/) [to](/en/post/to/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) students [a](/en/post/a/) [difficult](/en/post/difficult/) [question](/en/post/question/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [inquire](/post/inquire/) [about](/post/about/) [something](/post/something/); [make](/post/make/) [a](/post/a/) [request](/post/request/) [or](/post/or/) query. [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [ask](/post/ask/) [me](/post/me/) [how](/post/how/) [you](/post/you/) [can](/post/can/) [help](/post/help/)."
+- [To](/post/to/) [put](/post/put/) [a](/post/a/) [question](/post/question/) [to](/post/to/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [a](/post/a/) [difficult](/post/difficult/) [question](/post/question/)."
 
-### [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) questioning [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) asked [softly](/en/post/softly/) [if](/en/post/if/) [anyone](/en/post/anyone/) knew [the](/en/post/the/) [answer](/en/post/answer/)."
-- Seeking [permission](/en/post/permission/) [or](/en/post/or/) [agreement](/en/post/agreement/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) asked politely [if](/en/post/if/) [she](/en/post/she/) [could](/en/post/could/) [use](/en/post/use/) [your](/en/post/your/) [phone](/en/post/phone/)."
+### [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) questioning [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) asked [softly](/post/softly/) [if](/post/if/) [anyone](/post/anyone/) knew [the](/post/the/) [answer](/post/answer/)."
+- Seeking [permission](/post/permission/) [or](/post/or/) [agreement](/post/agreement/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) asked politely [if](/post/if/) [she](/post/she/) [could](/post/could/) [use](/post/use/) [your](/post/your/) [phone](/post/phone/)."
 
 ## Phrases
-- "[Ask](/en/post/ask/) [for](/en/post/for/) [help](/en/post/help/)" [means](/en/post/means/) [to](/en/post/to/) [request](/en/post/request/) assistance.
-- "[Ask](/en/post/ask/) [around](/en/post/around/)" [means](/en/post/means/) [to](/en/post/to/) [inquire](/en/post/inquire/) [about](/en/post/about/) [information](/en/post/information/) [from](/en/post/from/) others.
-- "[Ask](/en/post/ask/) forgiveness, [not](/en/post/not/) [permission](/en/post/permission/)" is [a](/en/post/a/) saying [that](/en/post/that/) encourages taking initiative [before](/en/post/before/) seeking [approval](/en/post/approval/).
+- "[Ask](/post/ask/) [for](/post/for/) [help](/post/help/)" [means](/post/means/) [to](/post/to/) [request](/post/request/) assistance.
+- "[Ask](/post/ask/) [around](/post/around/)" [means](/post/means/) [to](/post/to/) [inquire](/post/inquire/) [about](/post/about/) [information](/post/information/) [from](/post/from/) others.
+- "[Ask](/post/ask/) forgiveness, [not](/post/not/) [permission](/post/permission/)" is [a](/post/a/) saying [that](/post/that/) encourages taking initiative [before](/post/before/) seeking [approval](/post/approval/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) asked [her](/en/post/her/) friends [for](/en/post/for/) [advice](/en/post/advice/) [on](/en/post/on/) [her](/en/post/her/) [career](/en/post/career/) [choice](/en/post/choice/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) asked [his](/en/post/his/) [boss](/en/post/boss/) [if](/en/post/if/) [he](/en/post/he/) [could](/en/post/could/) [take](/en/post/take/) [a](/en/post/a/) [sick](/en/post/sick/) [day](/en/post/day/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) asked [gently](/en/post/gently/) [if](/en/post/if/) [the](/en/post/the/) [noise](/en/post/noise/) was bothering [anyone](/en/post/anyone/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) asked [her](/post/her/) friends [for](/post/for/) [advice](/post/advice/) [on](/post/on/) [her](/post/her/) [career](/post/career/) [choice](/post/choice/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) asked [his](/post/his/) [boss](/post/boss/) [if](/post/if/) [he](/post/he/) [could](/post/could/) [take](/post/take/) [a](/post/a/) [sick](/post/sick/) [day](/post/day/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) asked [gently](/post/gently/) [if](/post/if/) [the](/post/the/) [noise](/post/noise/) was bothering [anyone](/post/anyone/)."
 
 ## Synonyms
-- [Request](/en/post/request/)
-- [Inquire](/en/post/inquire/)
+- [Request](/post/request/)
+- [Inquire](/post/inquire/)
 - Enquire
 - Query
-- [Seek](/en/post/seek/)
-- [Demand](/en/post/demand/)
-- Pester (informal, [slightly](/en/post/slightly/) [negative](/en/post/negative/) connotation)
-- [Invite](/en/post/invite/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- [Seek](/post/seek/)
+- [Demand](/post/demand/)
+- Pester (informal, [slightly](/post/slightly/) [negative](/post/negative/) connotation)
+- [Invite](/post/invite/) ([in](/post/in/) [certain](/post/certain/) contexts)

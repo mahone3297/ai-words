@@ -7,32 +7,32 @@ description = '[əˈgəu] ad.以前'
 keywords = ['ai words', 'ago']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈɡoʊ/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Refers [to](/en/post/to/) [a](/en/post/a/) [period](/en/post/period/) [in](/en/post/in/) [the](/en/post/the/) [past](/en/post/past/), expressing [a](/en/post/a/) [duration](/en/post/duration/) [or](/en/post/or/) [a](/en/post/a/) [point](/en/post/point/) [relative](/en/post/relative/) [to](/en/post/to/) [now](/en/post/now/). [It](/en/post/it/) is [used](/en/post/used/) [with](/en/post/with/) verbs [of](/en/post/of/) [motion](/en/post/motion/), [existence](/en/post/existence/), [or](/en/post/or/) completion. [For](/en/post/for/) [example](/en/post/example/):
-   - "I [saw](/en/post/saw/) [him](/en/post/him/) [two](/en/post/two/) days [ago](/en/post/ago/)."
-   - "[She](/en/post/she/) [learned](/en/post/learned/) [to](/en/post/to/) [swim](/en/post/swim/) [five](/en/post/five/) years [ago](/en/post/ago/)."
+- **[Adverb](/post/adverb/)**: Refers [to](/post/to/) [a](/post/a/) [period](/post/period/) [in](/post/in/) [the](/post/the/) [past](/post/past/), expressing [a](/post/a/) [duration](/post/duration/) [or](/post/or/) [a](/post/a/) [point](/post/point/) [relative](/post/relative/) [to](/post/to/) [now](/post/now/). [It](/post/it/) is [used](/post/used/) [with](/post/with/) verbs [of](/post/of/) [motion](/post/motion/), [existence](/post/existence/), [or](/post/or/) completion. [For](/post/for/) [example](/post/example/):
+   - "I [saw](/post/saw/) [him](/post/him/) [two](/post/two/) days [ago](/post/ago/)."
+   - "[She](/post/she/) [learned](/post/learned/) [to](/post/to/) [swim](/post/swim/) [five](/post/five/) years [ago](/post/ago/)."
 
 ## Phrases
-- "[A](/en/post/a/) [while](/en/post/while/) [ago](/en/post/ago/)" indicates [a](/en/post/a/) [specific](/en/post/specific/) [point](/en/post/point/) [in](/en/post/in/) [the](/en/post/the/) [past](/en/post/past/).
-- "[Not](/en/post/not/) [long](/en/post/long/) [ago](/en/post/ago/)" suggests [a](/en/post/a/) [relatively](/en/post/relatively/) [recent](/en/post/recent/) [time](/en/post/time/).
-- "[In](/en/post/in/) [the](/en/post/the/) [past](/en/post/past/)" is [a](/en/post/a/) [more](/en/post/more/) [general](/en/post/general/) [term](/en/post/term/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [previous](/en/post/previous/) [time](/en/post/time/).
+- "[A](/post/a/) [while](/post/while/) [ago](/post/ago/)" indicates [a](/post/a/) [specific](/post/specific/) [point](/post/point/) [in](/post/in/) [the](/post/the/) [past](/post/past/).
+- "[Not](/post/not/) [long](/post/long/) [ago](/post/ago/)" suggests [a](/post/a/) [relatively](/post/relatively/) [recent](/post/recent/) [time](/post/time/).
+- "[In](/post/in/) [the](/post/the/) [past](/post/past/)" is [a](/post/a/) [more](/post/more/) [general](/post/general/) [term](/post/term/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [previous](/post/previous/) [time](/post/time/).
 
-## [Example](/en/post/example/) Sentences
-- "I [remember](/en/post/remember/) [meeting](/en/post/meeting/) [her](/en/post/her/) [for](/en/post/for/) [the](/en/post/the/) [first](/en/post/first/) [time](/en/post/time/) [a](/en/post/a/) [month](/en/post/month/) [ago](/en/post/ago/)."
-- "[The](/en/post/the/) [restaurant](/en/post/restaurant/) has changed [ownership](/en/post/ownership/) [since](/en/post/since/) I [last](/en/post/last/) visited, [which](/en/post/which/) was [three](/en/post/three/) years [ago](/en/post/ago/)."
-- "[They](/en/post/they/) discussed [the](/en/post/the/) [issue](/en/post/issue/) [yesterday](/en/post/yesterday/), [but](/en/post/but/) [it](/en/post/it/) came [up](/en/post/up/) [again](/en/post/again/) [today](/en/post/today/) [because](/en/post/because/) [they](/en/post/they/) hadn't resolved [it](/en/post/it/) [since](/en/post/since/) [then](/en/post/then/)."
+## [Example](/post/example/) Sentences
+- "I [remember](/post/remember/) [meeting](/post/meeting/) [her](/post/her/) [for](/post/for/) [the](/post/the/) [first](/post/first/) [time](/post/time/) [a](/post/a/) [month](/post/month/) [ago](/post/ago/)."
+- "[The](/post/the/) [restaurant](/post/restaurant/) has changed [ownership](/post/ownership/) [since](/post/since/) I [last](/post/last/) visited, [which](/post/which/) was [three](/post/three/) years [ago](/post/ago/)."
+- "[They](/post/they/) discussed [the](/post/the/) [issue](/post/issue/) [yesterday](/post/yesterday/), [but](/post/but/) [it](/post/it/) came [up](/post/up/) [again](/post/again/) [today](/post/today/) [because](/post/because/) [they](/post/they/) hadn't resolved [it](/post/it/) [since](/post/since/) [then](/post/then/)."
 
 ## Synonyms
 - Formerly
-- [Previously](/en/post/previously/)
+- [Previously](/post/previously/)
 - Earlier
-- [Back](/en/post/back/) [then](/en/post/then/)
-- [Past](/en/post/past/)
+- [Back](/post/back/) [then](/post/then/)
+- [Past](/post/past/)
 
 ## Antonyms
-- [Now](/en/post/now/)
-- [Present](/en/post/present/)
-- [Recently](/en/post/recently/)
+- [Now](/post/now/)
+- [Present](/post/present/)
+- [Recently](/post/recently/)

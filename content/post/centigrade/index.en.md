@@ -7,27 +7,27 @@ description = '[ˈsentigreid] a.百分度的'
 keywords = ['ai words', 'centigrade']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsɛntɪɡreɪd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [temperature](/en/post/temperature/) [measurement](/en/post/measurement/) [in](/en/post/in/) [the](/en/post/the/) Celsius [scale](/en/post/scale/), [where](/en/post/where/) 0°C is [the](/en/post/the/) freezing [point](/en/post/point/) [of](/en/post/of/) [water](/en/post/water/) [and](/en/post/and/) 100°C is [its](/en/post/its/) boiling [point](/en/post/point/) [at](/en/post/at/) [standard](/en/post/standard/) [atmospheric](/en/post/atmospheric/) [pressure](/en/post/pressure/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [thermometer](/en/post/thermometer/) [read](/en/post/read/) 25 degrees [centigrade](/en/post/centigrade/)."
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [or](/en/post/or/) denoting [the](/en/post/the/) Celsius [temperature](/en/post/temperature/) [scale](/en/post/scale/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [experiment](/en/post/experiment/) uses measurements [in](/en/post/in/) [centigrade](/en/post/centigrade/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [temperature](/post/temperature/) [measurement](/post/measurement/) [in](/post/in/) [the](/post/the/) Celsius [scale](/post/scale/), [where](/post/where/) 0°C is [the](/post/the/) freezing [point](/post/point/) [of](/post/of/) [water](/post/water/) [and](/post/and/) 100°C is [its](/post/its/) boiling [point](/post/point/) [at](/post/at/) [standard](/post/standard/) [atmospheric](/post/atmospheric/) [pressure](/post/pressure/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [thermometer](/post/thermometer/) [read](/post/read/) 25 degrees [centigrade](/post/centigrade/)."
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [or](/post/or/) denoting [the](/post/the/) Celsius [temperature](/post/temperature/) [scale](/post/scale/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [experiment](/post/experiment/) uses measurements [in](/post/in/) [centigrade](/post/centigrade/)."
 
 ## Phrases
-- "Recorded [in](/en/post/in/) centigrades" [means](/en/post/means/) measured using [the](/en/post/the/) Celsius [scale](/en/post/scale/).
-- "[A](/en/post/a/) [temperature](/en/post/temperature/) [of](/en/post/of/) 37°C is considered [normal](/en/post/normal/) [for](/en/post/for/) humans."
-- "[The](/en/post/the/) [weather](/en/post/weather/) [forecast](/en/post/forecast/) predicts [a](/en/post/a/) [drop](/en/post/drop/) [in](/en/post/in/) [temperature](/en/post/temperature/) [from](/en/post/from/) [centigrade](/en/post/centigrade/) [to](/en/post/to/) Fahrenheit."
+- "Recorded [in](/post/in/) centigrades" [means](/post/means/) measured using [the](/post/the/) Celsius [scale](/post/scale/).
+- "[A](/post/a/) [temperature](/post/temperature/) [of](/post/of/) 37°C is considered [normal](/post/normal/) [for](/post/for/) humans."
+- "[The](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/) predicts [a](/post/a/) [drop](/post/drop/) [in](/post/in/) [temperature](/post/temperature/) [from](/post/from/) [centigrade](/post/centigrade/) [to](/post/to/) Fahrenheit."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) scientists compared [their](/en/post/their/) results [in](/en/post/in/) [both](/en/post/both/) Celsius ([centigrade](/en/post/centigrade/)) [and](/en/post/and/) Fahrenheit."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [thermometer](/en/post/thermometer/) displays [both](/en/post/both/) Fahrenheit [and](/en/post/and/) [centigrade](/en/post/centigrade/) readings."
-- **Phrasal [Usage](/en/post/usage/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) took [my](/en/post/my/) [temperature](/en/post/temperature/), [which](/en/post/which/) was 38.5 [centigrade](/en/post/centigrade/), indicating [a](/en/post/a/) [mild](/en/post/mild/) [fever](/en/post/fever/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) scientists compared [their](/post/their/) results [in](/post/in/) [both](/post/both/) Celsius ([centigrade](/post/centigrade/)) [and](/post/and/) Fahrenheit."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [thermometer](/post/thermometer/) displays [both](/post/both/) Fahrenheit [and](/post/and/) [centigrade](/post/centigrade/) readings."
+- **Phrasal [Usage](/post/usage/)**: "[The](/post/the/) [doctor](/post/doctor/) took [my](/post/my/) [temperature](/post/temperature/), [which](/post/which/) was 38.5 [centigrade](/post/centigrade/), indicating [a](/post/a/) [mild](/post/mild/) [fever](/post/fever/)."
 
 ## Synonyms
 - Celsius
-- Kelvin ([but](/en/post/but/) [not](/en/post/not/) [equivalent](/en/post/equivalent/); 1°C = 273.15 K)
-- Fahrenheit ([but](/en/post/but/) [not](/en/post/not/) [directly](/en/post/directly/) comparable; [conversion](/en/post/conversion/) required)
+- Kelvin ([but](/post/but/) [not](/post/not/) [equivalent](/post/equivalent/); 1°C = 273.15 K)
+- Fahrenheit ([but](/post/but/) [not](/post/not/) [directly](/post/directly/) comparable; [conversion](/post/conversion/) required)
 
-## [Note](/en/post/note/)
-[Centigrade](/en/post/centigrade/) is an outdated [term](/en/post/term/) [and](/en/post/and/) is [now](/en/post/now/) replaced [by](/en/post/by/) Celsius [in](/en/post/in/) [scientific](/en/post/scientific/) [and](/en/post/and/) [modern](/en/post/modern/) [usage](/en/post/usage/). [However](/en/post/however/), [the](/en/post/the/) [term](/en/post/term/) is [still](/en/post/still/) [occasionally](/en/post/occasionally/) [found](/en/post/found/) [in](/en/post/in/) older texts [or](/en/post/or/) informal [conversation](/en/post/conversation/).
+## [Note](/post/note/)
+[Centigrade](/post/centigrade/) is an outdated [term](/post/term/) [and](/post/and/) is [now](/post/now/) replaced [by](/post/by/) Celsius [in](/post/in/) [scientific](/post/scientific/) [and](/post/and/) [modern](/post/modern/) [usage](/post/usage/). [However](/post/however/), [the](/post/the/) [term](/post/term/) is [still](/post/still/) [occasionally](/post/occasionally/) [found](/post/found/) [in](/post/in/) older texts [or](/post/or/) informal [conversation](/post/conversation/).

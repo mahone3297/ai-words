@@ -7,43 +7,43 @@ description = '[ˈpræktis] n.实践；练习；业务'
 keywords = ['ai words', 'practice']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈsæktɪs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) performing an [activity](/en/post/activity/) [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [improve](/en/post/improve/) one's skills [or](/en/post/or/) [gain](/en/post/gain/) [experience](/en/post/experience/)**: *[She](/en/post/she/) spends hours [every](/en/post/every/) [day](/en/post/day/) practicing [her](/en/post/her/) [piano](/en/post/piano/).* 
-2. [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [one](/en/post/one/) engages [in](/en/post/in/) [such](/en/post/such/) activities, [often](/en/post/often/) [with](/en/post/with/) an instructor [or](/en/post/or/) [coach](/en/post/coach/): *[The](/en/post/the/) gym is [a](/en/post/a/) [popular](/en/post/popular/) [practice](/en/post/practice/) [facility](/en/post/facility/) [for](/en/post/for/) [local](/en/post/local/) athletes.*
-3. [A](/en/post/a/) [drill](/en/post/drill/) [or](/en/post/or/) [exercise](/en/post/exercise/), [especially](/en/post/especially/) [in](/en/post/in/) sports: *[The](/en/post/the/) [football](/en/post/football/) [team](/en/post/team/) had [a](/en/post/a/) rigorous [practice](/en/post/practice/) [session](/en/post/session/) [this](/en/post/this/) [morning](/en/post/morning/).*
+### [Noun](/post/noun/)
+1. **[The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) performing an [activity](/post/activity/) [in](/post/in/) [order](/post/order/) [to](/post/to/) [improve](/post/improve/) one's skills [or](/post/or/) [gain](/post/gain/) [experience](/post/experience/)**: *[She](/post/she/) spends hours [every](/post/every/) [day](/post/day/) practicing [her](/post/her/) [piano](/post/piano/).* 
+2. [A](/post/a/) [place](/post/place/) [where](/post/where/) [one](/post/one/) engages [in](/post/in/) [such](/post/such/) activities, [often](/post/often/) [with](/post/with/) an instructor [or](/post/or/) [coach](/post/coach/): *[The](/post/the/) gym is [a](/post/a/) [popular](/post/popular/) [practice](/post/practice/) [facility](/post/facility/) [for](/post/for/) [local](/post/local/) athletes.*
+3. [A](/post/a/) [drill](/post/drill/) [or](/post/or/) [exercise](/post/exercise/), [especially](/post/especially/) [in](/post/in/) sports: *[The](/post/the/) [football](/post/football/) [team](/post/team/) had [a](/post/a/) rigorous [practice](/post/practice/) [session](/post/session/) [this](/post/this/) [morning](/post/morning/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [perform](/en/post/perform/) [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) an [activity](/en/post/activity/) [repeatedly](/en/post/repeatedly/) [to](/en/post/to/) [become](/en/post/become/) proficient [or](/en/post/or/) [better](/en/post/better/) [at](/en/post/at/) [it](/en/post/it/): *[He](/en/post/he/) practices [his](/en/post/his/) guitar [every](/en/post/every/) [evening](/en/post/evening/).*
-2. [To](/en/post/to/) rehearse [or](/en/post/or/) [prepare](/en/post/prepare/) [for](/en/post/for/) [a](/en/post/a/) [performance](/en/post/performance/) [or](/en/post/or/) [event](/en/post/event/): *They're going [to](/en/post/to/) [practice](/en/post/practice/) [their](/en/post/their/) [play](/en/post/play/) [before](/en/post/before/) [the](/en/post/the/) [opening](/en/post/opening/) [night](/en/post/night/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [perform](/post/perform/) [or](/post/or/) [engage](/post/engage/) [in](/post/in/) an [activity](/post/activity/) [repeatedly](/post/repeatedly/) [to](/post/to/) [become](/post/become/) proficient [or](/post/or/) [better](/post/better/) [at](/post/at/) [it](/post/it/): *[He](/post/he/) practices [his](/post/his/) guitar [every](/post/every/) [evening](/post/evening/).*
+2. [To](/post/to/) rehearse [or](/post/or/) [prepare](/post/prepare/) [for](/post/for/) [a](/post/a/) [performance](/post/performance/) [or](/post/or/) [event](/post/event/): *They're going [to](/post/to/) [practice](/post/practice/) [their](/post/their/) [play](/post/play/) [before](/post/before/) [the](/post/the/) [opening](/post/opening/) [night](/post/night/).*
 
-### [Adjective](/en/post/adjective/)
-1. [Concerning](/en/post/concerning/) [or](/en/post/or/) relating [to](/en/post/to/) [practice](/en/post/practice/): *[The](/en/post/the/) [practice](/en/post/practice/) [of](/en/post/of/) mindfulness is becoming [more](/en/post/more/) [popular](/en/post/popular/).*
+### [Adjective](/post/adjective/)
+1. [Concerning](/post/concerning/) [or](/post/or/) relating [to](/post/to/) [practice](/post/practice/): *[The](/post/the/) [practice](/post/practice/) [of](/post/of/) mindfulness is becoming [more](/post/more/) [popular](/post/popular/).*
 
 ## Phrases
-- "[Practice](/en/post/practice/) makes [perfect](/en/post/perfect/)"
-- "[Get](/en/post/get/) [some](/en/post/some/) [extra](/en/post/extra/) [practice](/en/post/practice/)"
-- "Practicing [safe](/en/post/safe/) habits"
-- "On-the-job [training](/en/post/training/)"
+- "[Practice](/post/practice/) makes [perfect](/post/perfect/)"
+- "[Get](/post/get/) [some](/post/some/) [extra](/post/extra/) [practice](/post/practice/)"
+- "Practicing [safe](/post/safe/) habits"
+- "On-the-job [training](/post/training/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[She](/en/post/she/) dedicated [several](/en/post/several/) hours [a](/en/post/a/) [week](/en/post/week/) [to](/en/post/to/) [her](/en/post/her/) [painting](/en/post/painting/) [practice](/en/post/practice/).*
-- **[Verb](/en/post/verb/)**: *[Before](/en/post/before/) [the](/en/post/the/) [big](/en/post/big/) [game](/en/post/game/), [the](/en/post/the/) [team](/en/post/team/) practiced [their](/en/post/their/) formations extensively.*
-- **[Adjective](/en/post/adjective/)**: *[The](/en/post/the/) [new](/en/post/new/) [employee](/en/post/employee/) was praised [for](/en/post/for/) [her](/en/post/her/) [excellent](/en/post/excellent/) [practice](/en/post/practice/) [in](/en/post/in/) handling [customer](/en/post/customer/) complaints.*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[She](/post/she/) dedicated [several](/post/several/) hours [a](/post/a/) [week](/post/week/) [to](/post/to/) [her](/post/her/) [painting](/post/painting/) [practice](/post/practice/).*
+- **[Verb](/post/verb/)**: *[Before](/post/before/) [the](/post/the/) [big](/post/big/) [game](/post/game/), [the](/post/the/) [team](/post/team/) practiced [their](/post/their/) formations extensively.*
+- **[Adjective](/post/adjective/)**: *[The](/post/the/) [new](/post/new/) [employee](/post/employee/) was praised [for](/post/for/) [her](/post/her/) [excellent](/post/excellent/) [practice](/post/practice/) [in](/post/in/) handling [customer](/post/customer/) complaints.*
 
 ## Synonyms
-- [Training](/en/post/training/)
-- [Exercise](/en/post/exercise/)
-- [Drill](/en/post/drill/)
-- [Rehearsal](/en/post/rehearsal/)
-- [repetition](/en/post/repetition/)
-- [tuition](/en/post/tuition/)
+- [Training](/post/training/)
+- [Exercise](/post/exercise/)
+- [Drill](/post/drill/)
+- [Rehearsal](/post/rehearsal/)
+- [repetition](/post/repetition/)
+- [tuition](/post/tuition/)
 - workout
 
 ## Antonyms
 - Inexperience
 - Disregard
-- [Theory](/en/post/theory/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [not](/en/post/not/) putting [into](/en/post/into/) [practical](/en/post/practical/) [use](/en/post/use/))
+- [Theory](/post/theory/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [not](/post/not/) putting [into](/post/into/) [practical](/post/practical/) [use](/post/use/))

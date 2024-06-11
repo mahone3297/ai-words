@@ -11,20 +11,20 @@ keywords = ['ai words', 'mention']
 /ˈmenʃən/
 
 ## 释义
-- **名词**: 提到，提及，说起。例如: "[She](/post/she/) made [no](/post/no/) [mention](/post/mention/) [of](/post/of/) [the](/post/the/) [problem](/post/problem/) [in](/post/in/) [her](/post/her/) [report](/post/report/)."
-- **动词**: 提及，说到，提到。例如: "[He](/post/he/) mentioned [his](/post/his/) [recent](/post/recent/) [trip](/post/trip/) [to](/post/to/) Paris [in](/post/in/) passing."
+- **名词**: 提到，提及，说起。例如: "[She](/zh/post/she/) made [no](/zh/post/no/) [mention](/zh/post/mention/) [of](/zh/post/of/) [the](/zh/post/the/) [problem](/zh/post/problem/) [in](/zh/post/in/) [her](/zh/post/her/) [report](/zh/post/report/)."
+- **动词**: 提及，说到，提到。例如: "[He](/zh/post/he/) mentioned [his](/zh/post/his/) [recent](/zh/post/recent/) [trip](/zh/post/trip/) [to](/zh/post/to/) Paris [in](/zh/post/in/) passing."
 
 ## 短语
-- "[make](/post/make/) [no](/post/no/) [mention](/post/mention/) [of](/post/of/)" 不提，不谈及。例如: "[In](/post/in/) [his](/post/his/) [speech](/post/speech/), [he](/post/he/) made [no](/post/no/) [mention](/post/mention/) [of](/post/of/) [the](/post/the/) controversy."
-- "[mention](/post/mention/) [something](/post/something/) [to](/post/to/) [someone](/post/someone/)" 向某人提起某事。例如: "I mentioned [the](/post/the/) [issue](/post/issue/) [to](/post/to/) [my](/post/my/) [boss](/post/boss/) [during](/post/during/) [our](/post/our/) [meeting](/post/meeting/)."
+- "[make](/zh/post/make/) [no](/zh/post/no/) [mention](/zh/post/mention/) [of](/zh/post/of/)" 不提，不谈及。例如: "[In](/zh/post/in/) [his](/zh/post/his/) [speech](/zh/post/speech/), [he](/zh/post/he/) made [no](/zh/post/no/) [mention](/zh/post/mention/) [of](/zh/post/of/) [the](/zh/post/the/) controversy."
+- "[mention](/zh/post/mention/) [something](/zh/post/something/) [to](/zh/post/to/) [someone](/zh/post/someone/)" 向某人提起某事。例如: "I mentioned [the](/zh/post/the/) [issue](/zh/post/issue/) [to](/zh/post/to/) [my](/zh/post/my/) [boss](/zh/post/boss/) [during](/zh/post/during/) [our](/zh/post/our/) [meeting](/zh/post/meeting/)."
 
 ## 例句
-- 名词: "[There](/post/there/) was [no](/post/no/) [mention](/post/mention/) [of](/post/of/) [the](/post/the/) budget cuts [in](/post/in/) [the](/post/the/) [news](/post/news/)."
-- 动词: "[She](/post/she/) casually mentioned [her](/post/her/) plans [to](/post/to/) [travel](/post/travel/) [next](/post/next/) [summer](/post/summer/)."
+- 名词: "[There](/zh/post/there/) was [no](/zh/post/no/) [mention](/zh/post/mention/) [of](/zh/post/of/) [the](/zh/post/the/) budget cuts [in](/zh/post/in/) [the](/zh/post/the/) [news](/zh/post/news/)."
+- 动词: "[She](/zh/post/she/) casually mentioned [her](/zh/post/her/) plans [to](/zh/post/to/) [travel](/zh/post/travel/) [next](/zh/post/next/) [summer](/zh/post/summer/)."
 
 ## 同义词
-- [refer](/post/refer/) [to](/post/to/)
-- [bring](/post/bring/) [up](/post/up/)
-- allude [to](/post/to/)
+- [refer](/zh/post/refer/) [to](/zh/post/to/)
+- [bring](/zh/post/bring/) [up](/zh/post/up/)
+- allude [to](/zh/post/to/)
 - cite
-- [discuss](/post/discuss/)
+- [discuss](/zh/post/discuss/)

@@ -7,36 +7,36 @@ description = '[ɔːf] prep.…的；由于'
 keywords = ['ai words', 'of']
 +++
 
-## [Word](/en/post/word/): [of](/en/post/of/)
+## [Word](/post/word/): [of](/post/of/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əv/, /ɒv/
 
 ## Definitions
-- **[Preposition](/en/post/preposition/)**: Expressing [the](/en/post/the/) [relationship](/en/post/relationship/) [between](/en/post/between/) [a](/en/post/a/) [part](/en/post/part/) [and](/en/post/and/) [a](/en/post/a/) [whole](/en/post/whole/), [origin](/en/post/origin/), [cause](/en/post/cause/), [purpose](/en/post/purpose/), [or](/en/post/or/) [possession](/en/post/possession/). [For](/en/post/for/) [example](/en/post/example/):
-  - _Part [of](/en/post/of/) [a](/en/post/a/) whole_: "[A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [cake](/en/post/cake/)."
-  - _Origin [or](/en/post/or/) source_: "[The](/en/post/the/) [city](/en/post/city/) [of](/en/post/of/) Rome."
-  - _Cause [or](/en/post/or/) reason_: "[Because](/en/post/because/) [of](/en/post/of/) [the](/en/post/the/) [rain](/en/post/rain/), [we](/en/post/we/) stayed [indoors](/en/post/indoors/)."
-  - _Purpose [or](/en/post/or/) function_: "[A](/en/post/a/) [key](/en/post/key/) [to](/en/post/to/) [the](/en/post/the/) [door](/en/post/door/)."
-  - _Possession [or](/en/post/or/) association_: "[The](/en/post/the/) [book](/en/post/book/) [of](/en/post/of/) Shakespeare."
+- **[Preposition](/post/preposition/)**: Expressing [the](/post/the/) [relationship](/post/relationship/) [between](/post/between/) [a](/post/a/) [part](/post/part/) [and](/post/and/) [a](/post/a/) [whole](/post/whole/), [origin](/post/origin/), [cause](/post/cause/), [purpose](/post/purpose/), [or](/post/or/) [possession](/post/possession/). [For](/post/for/) [example](/post/example/):
+  - _Part [of](/post/of/) [a](/post/a/) whole_: "[A](/post/a/) [piece](/post/piece/) [of](/post/of/) [cake](/post/cake/)."
+  - _Origin [or](/post/or/) source_: "[The](/post/the/) [city](/post/city/) [of](/post/of/) Rome."
+  - _Cause [or](/post/or/) reason_: "[Because](/post/because/) [of](/post/of/) [the](/post/the/) [rain](/post/rain/), [we](/post/we/) stayed [indoors](/post/indoors/)."
+  - _Purpose [or](/post/or/) function_: "[A](/post/a/) [key](/post/key/) [to](/post/to/) [the](/post/the/) [door](/post/door/)."
+  - _Possession [or](/post/or/) association_: "[The](/post/the/) [book](/post/book/) [of](/post/of/) Shakespeare."
 
-- **[Conjunction](/en/post/conjunction/)**: [Used](/en/post/used/) [after](/en/post/after/) [certain](/en/post/certain/) expressions [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) subordinate clause expressing [reason](/en/post/reason/) [or](/en/post/or/) [cause](/en/post/cause/). [For](/en/post/for/) [example](/en/post/example/): "[Regardless](/en/post/regardless/) [of](/en/post/of/) [the](/en/post/the/) [weather](/en/post/weather/), [the](/en/post/the/) [event](/en/post/event/) [will](/en/post/will/) [proceed](/en/post/proceed/)."
+- **[Conjunction](/post/conjunction/)**: [Used](/post/used/) [after](/post/after/) [certain](/post/certain/) expressions [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) subordinate clause expressing [reason](/post/reason/) [or](/post/or/) [cause](/post/cause/). [For](/post/for/) [example](/post/example/): "[Regardless](/post/regardless/) [of](/post/of/) [the](/post/the/) [weather](/post/weather/), [the](/post/the/) [event](/post/event/) [will](/post/will/) [proceed](/post/proceed/)."
 
 ## Phrases
-- "[A](/en/post/a/) [matter](/en/post/matter/) [of](/en/post/of/)": Referring [to](/en/post/to/) something's [nature](/en/post/nature/) [or](/en/post/or/) essence. [Example](/en/post/example/): "It's [a](/en/post/a/) [matter](/en/post/matter/) [of](/en/post/of/) [principle](/en/post/principle/)."
-- "[Out](/en/post/out/) [of](/en/post/of/)": Indicating [movement](/en/post/movement/) [from](/en/post/from/) [within](/en/post/within/) [or](/en/post/or/) [origin](/en/post/origin/). [Example](/en/post/example/): "[She](/en/post/she/) came [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
-- "[Due](/en/post/due/) [to](/en/post/to/)": Expressing causation. [Example](/en/post/example/): "[The](/en/post/the/) [game](/en/post/game/) was cancelled [due](/en/post/due/) [to](/en/post/to/) [rain](/en/post/rain/)."
-- "[In](/en/post/in/) [the](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/)": [Meaning](/en/post/meaning/) [when](/en/post/when/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) is [not](/en/post/not/) [present](/en/post/present/). [Example](/en/post/example/): "[In](/en/post/in/) [the](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/) [the](/en/post/the/) manager, [the](/en/post/the/) [assistant](/en/post/assistant/) took [charge](/en/post/charge/)."
+- "[A](/post/a/) [matter](/post/matter/) [of](/post/of/)": Referring [to](/post/to/) something's [nature](/post/nature/) [or](/post/or/) essence. [Example](/post/example/): "It's [a](/post/a/) [matter](/post/matter/) [of](/post/of/) [principle](/post/principle/)."
+- "[Out](/post/out/) [of](/post/of/)": Indicating [movement](/post/movement/) [from](/post/from/) [within](/post/within/) [or](/post/or/) [origin](/post/origin/). [Example](/post/example/): "[She](/post/she/) came [out](/post/out/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
+- "[Due](/post/due/) [to](/post/to/)": Expressing causation. [Example](/post/example/): "[The](/post/the/) [game](/post/game/) was cancelled [due](/post/due/) [to](/post/to/) [rain](/post/rain/)."
+- "[In](/post/in/) [the](/post/the/) [absence](/post/absence/) [of](/post/of/)": [Meaning](/post/meaning/) [when](/post/when/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) is [not](/post/not/) [present](/post/present/). [Example](/post/example/): "[In](/post/in/) [the](/post/the/) [absence](/post/absence/) [of](/post/of/) [the](/post/the/) manager, [the](/post/the/) [assistant](/post/assistant/) took [charge](/post/charge/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Preposition](/en/post/preposition/)**: "[She](/en/post/she/) is [the](/en/post/the/) [daughter](/en/post/daughter/) [of](/en/post/of/) [the](/en/post/the/) CEO."
-- **[Conjunction](/en/post/conjunction/)**: "[Despite](/en/post/despite/) [being](/en/post/being/) [tired](/en/post/tired/), [he](/en/post/he/) continued working [because](/en/post/because/) [of](/en/post/of/) [his](/en/post/his/) dedication."
+## [Example](/post/example/) Sentences
+- **[Preposition](/post/preposition/)**: "[She](/post/she/) is [the](/post/the/) [daughter](/post/daughter/) [of](/post/of/) [the](/post/the/) CEO."
+- **[Conjunction](/post/conjunction/)**: "[Despite](/post/despite/) [being](/post/being/) [tired](/post/tired/), [he](/post/he/) continued working [because](/post/because/) [of](/post/of/) [his](/post/his/) dedication."
 
-## Synonyms ([for](/en/post/for/) [its](/en/post/its/) [use](/en/post/use/) [as](/en/post/as/) [a](/en/post/a/) [preposition](/en/post/preposition/))
-- [From](/en/post/from/)
-- [Of](/en/post/of/)
-- [By](/en/post/by/)
-- [With](/en/post/with/)
-- [In](/en/post/in/) (depending [on](/en/post/on/) context)
+## Synonyms ([for](/post/for/) [its](/post/its/) [use](/post/use/) [as](/post/as/) [a](/post/a/) [preposition](/post/preposition/))
+- [From](/post/from/)
+- [Of](/post/of/)
+- [By](/post/by/)
+- [With](/post/with/)
+- [In](/post/in/) (depending [on](/post/on/) context)
   
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) '[of](/en/post/of/)' does [not](/en/post/not/) [have](/en/post/have/) [direct](/en/post/direct/) synonyms [as](/en/post/as/) it's [a](/en/post/a/) [fundamental](/en/post/fundamental/) [and](/en/post/and/) versatile [preposition](/en/post/preposition/) [with](/en/post/with/) [various](/en/post/various/) uses, [many](/en/post/many/) [of](/en/post/of/) [which](/en/post/which/) cannot [be](/en/post/be/) replaced [by](/en/post/by/) [a](/en/post/a/) [single](/en/post/single/) [word](/en/post/word/). [The](/en/post/the/) [provided](/en/post/provided/) synonyms [represent](/en/post/represent/) [only](/en/post/only/) [some](/en/post/some/) [of](/en/post/of/) [the](/en/post/the/) contexts [in](/en/post/in/) [which](/en/post/which/) '[of](/en/post/of/)' [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/).
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) '[of](/post/of/)' does [not](/post/not/) [have](/post/have/) [direct](/post/direct/) synonyms [as](/post/as/) it's [a](/post/a/) [fundamental](/post/fundamental/) [and](/post/and/) versatile [preposition](/post/preposition/) [with](/post/with/) [various](/post/various/) uses, [many](/post/many/) [of](/post/of/) [which](/post/which/) cannot [be](/post/be/) replaced [by](/post/by/) [a](/post/a/) [single](/post/single/) [word](/post/word/). [The](/post/the/) [provided](/post/provided/) synonyms [represent](/post/represent/) [only](/post/only/) [some](/post/some/) [of](/post/of/) [the](/post/the/) contexts [in](/post/in/) [which](/post/which/) '[of](/post/of/)' [can](/post/can/) [be](/post/be/) [used](/post/used/).

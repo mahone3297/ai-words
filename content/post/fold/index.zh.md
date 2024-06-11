@@ -11,22 +11,22 @@ keywords = ['ai words', 'fold']
 /fəʊld/
 
 ## 释义
-- **动词**: 折叠；把（纸、衣物等）对折。例如: "[He](/post/he/) folded [the](/post/the/) [letter](/post/letter/) [and](/post/and/) [put](/post/put/) [it](/post/it/) [in](/post/in/) [the](/post/the/) [envelope](/post/envelope/)."
-- **名词**: 折痕；折叠的部分。例如: "[The](/post/the/) [book](/post/book/) had [many](/post/many/) folds [on](/post/on/) [its](/post/its/) [cover](/post/cover/)."
-- **名词**: （双手）合掌；交叉相握。例如: "[They](/post/they/) held [their](/post/their/) hands [in](/post/in/) [a](/post/a/) [fold](/post/fold/) [of](/post/of/) [prayer](/post/prayer/)."
+- **动词**: 折叠；把（纸、衣物等）对折。例如: "[He](/zh/post/he/) folded [the](/zh/post/the/) [letter](/zh/post/letter/) [and](/zh/post/and/) [put](/zh/post/put/) [it](/zh/post/it/) [in](/zh/post/in/) [the](/zh/post/the/) [envelope](/zh/post/envelope/)."
+- **名词**: 折痕；折叠的部分。例如: "[The](/zh/post/the/) [book](/zh/post/book/) had [many](/zh/post/many/) folds [on](/zh/post/on/) [its](/zh/post/its/) [cover](/zh/post/cover/)."
+- **名词**: （双手）合掌；交叉相握。例如: "[They](/zh/post/they/) held [their](/zh/post/their/) hands [in](/zh/post/in/) [a](/zh/post/a/) [fold](/zh/post/fold/) [of](/zh/post/of/) [prayer](/zh/post/prayer/)."
 
 ## 短语
-- "[fold](/post/fold/) [up](/post/up/)" 意为折叠起来，收起。例如: "[Can](/post/can/) [you](/post/you/) [fold](/post/fold/) [up](/post/up/) [the](/post/the/) sofa [bed](/post/bed/) [when](/post/when/) you're done using [it](/post/it/)?"
-- "[fold](/post/fold/) [your](/post/your/) arms" 表示交叉双臂。例如: "[She](/post/she/) folded [her](/post/her/) arms [and](/post/and/) listened attentively."
+- "[fold](/zh/post/fold/) [up](/zh/post/up/)" 意为折叠起来，收起。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [fold](/zh/post/fold/) [up](/zh/post/up/) [the](/zh/post/the/) sofa [bed](/zh/post/bed/) [when](/zh/post/when/) you're done using [it](/zh/post/it/)?"
+- "[fold](/zh/post/fold/) [your](/zh/post/your/) arms" 表示交叉双臂。例如: "[She](/zh/post/she/) folded [her](/zh/post/her/) arms [and](/zh/post/and/) listened attentively."
 
 ## 例句
-- 动词: "[She](/post/she/) carefully folded [the](/post/the/) [delicate](/post/delicate/) [silk](/post/silk/) [scarf](/post/scarf/) [and](/post/and/) placed [it](/post/it/) [in](/post/in/) [the](/post/the/) [drawer](/post/drawer/)."
-- 名词: "[The](/post/the/) [map](/post/map/) had [a](/post/a/) [clear](/post/clear/) [fold](/post/fold/) [down](/post/down/) [the](/post/the/) [middle](/post/middle/) [from](/post/from/) [where](/post/where/) [it](/post/it/) was [frequently](/post/frequently/) [used](/post/used/)."
-- 名词: "[He](/post/he/) rested [his](/post/his/) elbows [on](/post/on/) [the](/post/the/) [table](/post/table/) [and](/post/and/) folded [his](/post/his/) hands."
+- 动词: "[She](/zh/post/she/) carefully folded [the](/zh/post/the/) [delicate](/zh/post/delicate/) [silk](/zh/post/silk/) [scarf](/zh/post/scarf/) [and](/zh/post/and/) placed [it](/zh/post/it/) [in](/zh/post/in/) [the](/zh/post/the/) [drawer](/zh/post/drawer/)."
+- 名词: "[The](/zh/post/the/) [map](/zh/post/map/) had [a](/zh/post/a/) [clear](/zh/post/clear/) [fold](/zh/post/fold/) [down](/zh/post/down/) [the](/zh/post/the/) [middle](/zh/post/middle/) [from](/zh/post/from/) [where](/zh/post/where/) [it](/zh/post/it/) was [frequently](/zh/post/frequently/) [used](/zh/post/used/)."
+- 名词: "[He](/zh/post/he/) rested [his](/zh/post/his/) elbows [on](/zh/post/on/) [the](/zh/post/the/) [table](/zh/post/table/) [and](/zh/post/and/) folded [his](/zh/post/his/) hands."
 
 ## 同义词
-- [Bend](/post/bend/)
+- [Bend](/zh/post/bend/)
 - Crease
-- [Collapse](/post/collapse/)
+- [Collapse](/zh/post/collapse/)
 - Refold
-- [Double](/post/double/)
+- [Double](/zh/post/double/)

@@ -7,34 +7,34 @@ description = '[kriːp] vi.爬行；缓慢地行进'
 keywords = ['ai words', 'creep']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kriːp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Creep](/en/post/creep/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [slow](/en/post/slow/), stealthy [movement](/en/post/movement/) [or](/en/post/or/) [someone](/en/post/someone/) [who](/en/post/who/) moves [or](/en/post/or/) acts [in](/en/post/in/) [a](/en/post/a/) furtive [or](/en/post/or/) unsettling [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [spider](/en/post/spider/) crept [across](/en/post/across/) [the](/en/post/the/) [ceiling](/en/post/ceiling/)."
-- **Creepiness**: [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) eerie, unsettling, [or](/en/post/or/) creepy. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) abandoned [house](/en/post/house/) had an eerie creepiness [about](/en/post/about/) [it](/en/post/it/)."
+### [Noun](/post/noun/)
+- **[Creep](/post/creep/)**: [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [slow](/post/slow/), stealthy [movement](/post/movement/) [or](/post/or/) [someone](/post/someone/) [who](/post/who/) moves [or](/post/or/) acts [in](/post/in/) [a](/post/a/) furtive [or](/post/or/) unsettling [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [spider](/post/spider/) crept [across](/post/across/) [the](/post/the/) [ceiling](/post/ceiling/)."
+- **Creepiness**: [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) eerie, unsettling, [or](/post/or/) creepy. [For](/post/for/) [example](/post/example/): "[The](/post/the/) abandoned [house](/post/house/) had an eerie creepiness [about](/post/about/) [it](/post/it/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [creep](/en/post/creep/)**: [To](/en/post/to/) [move](/en/post/move/) [slowly](/en/post/slowly/), silently, [or](/en/post/or/) secretly, [often](/en/post/often/) causing discomfort [or](/en/post/or/) [fear](/en/post/fear/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [thief](/en/post/thief/) crept [up](/en/post/up/) [behind](/en/post/behind/) [the](/en/post/the/) [guard](/en/post/guard/)."
-- **Creeping [feeling](/en/post/feeling/)**: An informal [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) unease [or](/en/post/or/) [anxiety](/en/post/anxiety/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) got [a](/en/post/a/) creeping [feeling](/en/post/feeling/) [when](/en/post/when/) [she](/en/post/she/) heard [a](/en/post/a/) [noise](/en/post/noise/) [in](/en/post/in/) [the](/en/post/the/) [dark](/en/post/dark/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [creep](/post/creep/)**: [To](/post/to/) [move](/post/move/) [slowly](/post/slowly/), silently, [or](/post/or/) secretly, [often](/post/often/) causing discomfort [or](/post/or/) [fear](/post/fear/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [thief](/post/thief/) crept [up](/post/up/) [behind](/post/behind/) [the](/post/the/) [guard](/post/guard/)."
+- **Creeping [feeling](/post/feeling/)**: An informal [term](/post/term/) [for](/post/for/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) unease [or](/post/or/) [anxiety](/post/anxiety/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) got [a](/post/a/) creeping [feeling](/post/feeling/) [when](/post/when/) [she](/post/she/) heard [a](/post/a/) [noise](/post/noise/) [in](/post/in/) [the](/post/the/) [dark](/post/dark/)."
 
-### [Adjective](/en/post/adjective/)
-- **Creepy**: Describing [something](/en/post/something/) [that](/en/post/that/) is unsettling, [strange](/en/post/strange/), [or](/en/post/or/) giving [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) discomfort. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) abandoned [house](/en/post/house/) had [a](/en/post/a/) creepy [atmosphere](/en/post/atmosphere/)."
-- **Creepily**: [Adverb](/en/post/adverb/) [form](/en/post/form/), describing [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) is creepy [or](/en/post/or/) unnerving. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) spoke creepily [to](/en/post/to/) [the](/en/post/the/) [child](/en/post/child/)."
+### [Adjective](/post/adjective/)
+- **Creepy**: Describing [something](/post/something/) [that](/post/that/) is unsettling, [strange](/post/strange/), [or](/post/or/) giving [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) discomfort. [For](/post/for/) [example](/post/example/): "[The](/post/the/) abandoned [house](/post/house/) had [a](/post/a/) creepy [atmosphere](/post/atmosphere/)."
+- **Creepily**: [Adverb](/post/adverb/) [form](/post/form/), describing [a](/post/a/) [way](/post/way/) [that](/post/that/) is creepy [or](/post/or/) unnerving. [For](/post/for/) [example](/post/example/): "[He](/post/he/) spoke creepily [to](/post/to/) [the](/post/the/) [child](/post/child/)."
 
 ## Phrases
-- "Creeping [up](/en/post/up/) [on](/en/post/on/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [approach](/en/post/approach/) [them](/en/post/them/) stealthily.
-- "[A](/en/post/a/) creepy [crawl](/en/post/crawl/)" refers [to](/en/post/to/) [a](/en/post/a/) [slow](/en/post/slow/), unnerving [movement](/en/post/movement/).
-- "[Creep](/en/post/creep/) [factor](/en/post/factor/)" is [a](/en/post/a/) [humorous](/en/post/humorous/) [way](/en/post/way/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) that's unexpectedly [strange](/en/post/strange/) [or](/en/post/or/) unsettling.
+- "Creeping [up](/post/up/) [on](/post/on/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [approach](/post/approach/) [them](/post/them/) stealthily.
+- "[A](/post/a/) creepy [crawl](/post/crawl/)" refers [to](/post/to/) [a](/post/a/) [slow](/post/slow/), unnerving [movement](/post/movement/).
+- "[Creep](/post/creep/) [factor](/post/factor/)" is [a](/post/a/) [humorous](/post/humorous/) [way](/post/way/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) that's unexpectedly [strange](/post/strange/) [or](/post/or/) unsettling.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [child](/en/post/child/) was [afraid](/en/post/afraid/) [of](/en/post/of/) [the](/en/post/the/) [dark](/en/post/dark/) [because](/en/post/because/) [of](/en/post/of/) [the](/en/post/the/) shadows [that](/en/post/that/) crept [along](/en/post/along/) [the](/en/post/the/) walls."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) crept [into](/en/post/into/) [the](/en/post/the/) [room](/en/post/room/) [to](/en/post/to/) [avoid](/en/post/avoid/) waking [his](/en/post/his/) roommate."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [voice](/en/post/voice/) was [surprisingly](/en/post/surprisingly/) creepy, [despite](/en/post/despite/) [her](/en/post/her/) [sweet](/en/post/sweet/) [appearance](/en/post/appearance/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [child](/post/child/) was [afraid](/post/afraid/) [of](/post/of/) [the](/post/the/) [dark](/post/dark/) [because](/post/because/) [of](/post/of/) [the](/post/the/) shadows [that](/post/that/) crept [along](/post/along/) [the](/post/the/) walls."
+- **[Verb](/post/verb/)**: "[He](/post/he/) crept [into](/post/into/) [the](/post/the/) [room](/post/room/) [to](/post/to/) [avoid](/post/avoid/) waking [his](/post/his/) roommate."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [voice](/post/voice/) was [surprisingly](/post/surprisingly/) creepy, [despite](/post/despite/) [her](/post/her/) [sweet](/post/sweet/) [appearance](/post/appearance/)."
 
 ## Synonyms
-- [Slowly](/en/post/slowly/)
+- [Slowly](/post/slowly/)
 - Stealthily
 - Sinister
 - Unsettling

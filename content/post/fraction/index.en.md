@@ -7,38 +7,38 @@ description = '[ˈfræk∫ən] n.小部分；片断；分数'
 keywords = ['ai words', 'fraction']
 +++
 
-## [Word](/en/post/word/): [Fraction](/en/post/fraction/)
+## [Word](/post/word/): [Fraction](/post/fraction/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfrækʃən/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-- [A](/en/post/a/) numerical [quantity](/en/post/quantity/) [that](/en/post/that/) is [not](/en/post/not/) [a](/en/post/a/) [whole](/en/post/whole/) [number](/en/post/number/) [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) expressed [as](/en/post/as/) [the](/en/post/the/) quotient [of](/en/post/of/) [two](/en/post/two/) numbers, typically integers; [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [whole](/en/post/whole/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) understood fractions [after](/en/post/after/) [her](/en/post/her/) [teacher](/en/post/teacher/) explained [it](/en/post/it/) [with](/en/post/with/) [pie](/en/post/pie/) charts."
-- [A](/en/post/a/) [small](/en/post/small/) [part](/en/post/part/) [or](/en/post/or/) [section](/en/post/section/) [of](/en/post/of/) [something](/en/post/something/) larger. [Example](/en/post/example/): "[A](/en/post/a/) [fraction](/en/post/fraction/) [of](/en/post/of/) [the](/en/post/the/) [crowd](/en/post/crowd/) turned [up](/en/post/up/) [for](/en/post/for/) [the](/en/post/the/) [event](/en/post/event/)."
-- [In](/en/post/in/) [mathematics](/en/post/mathematics/), [a](/en/post/a/) [ratio](/en/post/ratio/) [of](/en/post/of/) [two](/en/post/two/) quantities having [the](/en/post/the/) [same](/en/post/same/) units [where](/en/post/where/) [the](/en/post/the/) numerator is [less](/en/post/less/) [than](/en/post/than/) [the](/en/post/the/) denominator.
+### [Noun](/post/noun/) (n)
+- [A](/post/a/) numerical [quantity](/post/quantity/) [that](/post/that/) is [not](/post/not/) [a](/post/a/) [whole](/post/whole/) [number](/post/number/) [but](/post/but/) [can](/post/can/) [be](/post/be/) expressed [as](/post/as/) [the](/post/the/) quotient [of](/post/of/) [two](/post/two/) numbers, typically integers; [a](/post/a/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [whole](/post/whole/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) understood fractions [after](/post/after/) [her](/post/her/) [teacher](/post/teacher/) explained [it](/post/it/) [with](/post/with/) [pie](/post/pie/) charts."
+- [A](/post/a/) [small](/post/small/) [part](/post/part/) [or](/post/or/) [section](/post/section/) [of](/post/of/) [something](/post/something/) larger. [Example](/post/example/): "[A](/post/a/) [fraction](/post/fraction/) [of](/post/of/) [the](/post/the/) [crowd](/post/crowd/) turned [up](/post/up/) [for](/post/for/) [the](/post/the/) [event](/post/event/)."
+- [In](/post/in/) [mathematics](/post/mathematics/), [a](/post/a/) [ratio](/post/ratio/) [of](/post/of/) [two](/post/two/) quantities having [the](/post/the/) [same](/post/same/) units [where](/post/where/) [the](/post/the/) numerator is [less](/post/less/) [than](/post/than/) [the](/post/the/) denominator.
 
-### [Verb](/en/post/verb/) (v)
-- [To](/en/post/to/) [divide](/en/post/divide/) [into](/en/post/into/) [or](/en/post/or/) [consider](/en/post/consider/) [as](/en/post/as/) parts [or](/en/post/or/) fractions. [Example](/en/post/example/): "[The](/en/post/the/) [land](/en/post/land/) was fractioned [among](/en/post/among/) [the](/en/post/the/) heirs."
+### [Verb](/post/verb/) (v)
+- [To](/post/to/) [divide](/post/divide/) [into](/post/into/) [or](/post/or/) [consider](/post/consider/) [as](/post/as/) parts [or](/post/or/) fractions. [Example](/post/example/): "[The](/post/the/) [land](/post/land/) was fractioned [among](/post/among/) [the](/post/the/) heirs."
 
-### [Adjective](/en/post/adjective/) (adj)
-- [Not](/en/post/not/) [complete](/en/post/complete/) [or](/en/post/or/) [whole](/en/post/whole/); [partial](/en/post/partial/). [Example](/en/post/example/): "fractional [ownership](/en/post/ownership/) [of](/en/post/of/) [a](/en/post/a/) [holiday](/en/post/holiday/) [home](/en/post/home/)"
+### [Adjective](/post/adjective/) (adj)
+- [Not](/post/not/) [complete](/post/complete/) [or](/post/or/) [whole](/post/whole/); [partial](/post/partial/). [Example](/post/example/): "fractional [ownership](/post/ownership/) [of](/post/of/) [a](/post/a/) [holiday](/post/holiday/) [home](/post/home/)"
 
 ## Phrases
-- "[A](/en/post/a/) [fraction](/en/post/fraction/) [of](/en/post/of/) [the](/en/post/the/) [time](/en/post/time/)": Signifying [a](/en/post/a/) [very](/en/post/very/) [short](/en/post/short/) [amount](/en/post/amount/) [of](/en/post/of/) [time](/en/post/time/) [or](/en/post/or/) [a](/en/post/a/) smaller [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [total](/en/post/total/) [time](/en/post/time/) needed. [Example](/en/post/example/): "[We](/en/post/we/) finished [the](/en/post/the/) [project](/en/post/project/) [in](/en/post/in/) [a](/en/post/a/) [fraction](/en/post/fraction/) [of](/en/post/of/) [the](/en/post/the/) [time](/en/post/time/) [we](/en/post/we/) anticipated."
-- "[A](/en/post/a/) [fraction](/en/post/fraction/) [off](/en/post/off/)": Indicating [a](/en/post/a/) [small](/en/post/small/) [reduction](/en/post/reduction/) [in](/en/post/in/) [price](/en/post/price/) [or](/en/post/or/) [value](/en/post/value/). [Example](/en/post/example/): "[The](/en/post/the/) [store](/en/post/store/) is offering 10% [off](/en/post/off/), [which](/en/post/which/) is [just](/en/post/just/) [a](/en/post/a/) [fraction](/en/post/fraction/) [off](/en/post/off/) [the](/en/post/the/) [original](/en/post/original/) [price](/en/post/price/)."
+- "[A](/post/a/) [fraction](/post/fraction/) [of](/post/of/) [the](/post/the/) [time](/post/time/)": Signifying [a](/post/a/) [very](/post/very/) [short](/post/short/) [amount](/post/amount/) [of](/post/of/) [time](/post/time/) [or](/post/or/) [a](/post/a/) smaller [part](/post/part/) [of](/post/of/) [the](/post/the/) [total](/post/total/) [time](/post/time/) needed. [Example](/post/example/): "[We](/post/we/) finished [the](/post/the/) [project](/post/project/) [in](/post/in/) [a](/post/a/) [fraction](/post/fraction/) [of](/post/of/) [the](/post/the/) [time](/post/time/) [we](/post/we/) anticipated."
+- "[A](/post/a/) [fraction](/post/fraction/) [off](/post/off/)": Indicating [a](/post/a/) [small](/post/small/) [reduction](/post/reduction/) [in](/post/in/) [price](/post/price/) [or](/post/or/) [value](/post/value/). [Example](/post/example/): "[The](/post/the/) [store](/post/store/) is offering 10% [off](/post/off/), [which](/post/which/) is [just](/post/just/) [a](/post/a/) [fraction](/post/fraction/) [off](/post/off/) [the](/post/the/) [original](/post/original/) [price](/post/price/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Understanding](/en/post/understanding/) fractions is crucial [for](/en/post/for/) [advanced](/en/post/advanced/) math problems."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [property](/en/post/property/) was fractioned equally [between](/en/post/between/) [the](/en/post/the/) [three](/en/post/three/) siblings."
-- **[Adjective](/en/post/adjective/)**: "Fractional investments [allow](/en/post/allow/) [people](/en/post/people/) [to](/en/post/to/) [buy](/en/post/buy/) [a](/en/post/a/) [portion](/en/post/portion/) [of](/en/post/of/) [a](/en/post/a/) [valuable](/en/post/valuable/) asset."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Understanding](/post/understanding/) fractions is crucial [for](/post/for/) [advanced](/post/advanced/) math problems."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [property](/post/property/) was fractioned equally [between](/post/between/) [the](/post/the/) [three](/post/three/) siblings."
+- **[Adjective](/post/adjective/)**: "Fractional investments [allow](/post/allow/) [people](/post/people/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [portion](/post/portion/) [of](/post/of/) [a](/post/a/) [valuable](/post/valuable/) asset."
 
 ## Synonyms
-- [Portion](/en/post/portion/)
+- [Portion](/post/portion/)
 - Segment
-- [Share](/en/post/share/)
-- [Piece](/en/post/piece/)
-- [Part](/en/post/part/)
-- [Division](/en/post/division/)
-- [Ratio](/en/post/ratio/)
-- [Percentage](/en/post/percentage/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- [Share](/post/share/)
+- [Piece](/post/piece/)
+- [Part](/post/part/)
+- [Division](/post/division/)
+- [Ratio](/post/ratio/)
+- [Percentage](/post/percentage/) ([in](/post/in/) [certain](/post/certain/) contexts)

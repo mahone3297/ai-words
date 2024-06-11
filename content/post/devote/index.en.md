@@ -7,32 +7,32 @@ description = '[diˈvəut] vt.将…奉献，致力于'
 keywords = ['ai words', 'devote']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈvəʊt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Devotion**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [feeling](/en/post/feeling/) [of](/en/post/of/) giving one's [heart](/en/post/heart/), [time](/en/post/time/), [or](/en/post/or/) [energy](/en/post/energy/) entirely [to](/en/post/to/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/), [often](/en/post/often/) [religious](/en/post/religious/) [or](/en/post/or/) [spiritual](/en/post/spiritual/) [in](/en/post/in/) [nature](/en/post/nature/).
-- **Devotee**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is devoted [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/), [belief](/en/post/belief/), [or](/en/post/or/) [cause](/en/post/cause/).
+### [Noun](/post/noun/)
+- **Devotion**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [feeling](/post/feeling/) [of](/post/of/) giving one's [heart](/post/heart/), [time](/post/time/), [or](/post/or/) [energy](/post/energy/) entirely [to](/post/to/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/), [often](/post/often/) [religious](/post/religious/) [or](/post/or/) [spiritual](/post/spiritual/) [in](/post/in/) [nature](/post/nature/).
+- **Devotee**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is devoted [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/), [belief](/post/belief/), [or](/post/or/) [cause](/post/cause/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [devote](/en/post/devote/)**: [To](/en/post/to/) [give](/en/post/give/) one's [attention](/en/post/attention/), [effort](/en/post/effort/), [or](/en/post/or/) [time](/en/post/time/) [completely](/en/post/completely/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/), [interest](/en/post/interest/), [or](/en/post/or/) [person](/en/post/person/).
-- **[To](/en/post/to/) [be](/en/post/be/) devoted [to](/en/post/to/)**: [To](/en/post/to/) [be](/en/post/be/) dedicated [or](/en/post/or/) [loyal](/en/post/loyal/) [to](/en/post/to/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [devote](/post/devote/)**: [To](/post/to/) [give](/post/give/) one's [attention](/post/attention/), [effort](/post/effort/), [or](/post/or/) [time](/post/time/) [completely](/post/completely/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/), [interest](/post/interest/), [or](/post/or/) [person](/post/person/).
+- **[To](/post/to/) [be](/post/be/) devoted [to](/post/to/)**: [To](/post/to/) [be](/post/be/) dedicated [or](/post/or/) [loyal](/post/loyal/) [to](/post/to/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/).
 
 ## Phrases
-- "[Devote](/en/post/devote/) [oneself](/en/post/oneself/) [to](/en/post/to/) [a](/en/post/a/) [cause](/en/post/cause/)" [means](/en/post/means/) [to](/en/post/to/) [commit](/en/post/commit/) fully [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [goal](/en/post/goal/) [or](/en/post/or/) [belief](/en/post/belief/).
-- "[A](/en/post/a/) [life](/en/post/life/) devoted [to](/en/post/to/) [service](/en/post/service/)" describes [someone](/en/post/someone/) [who](/en/post/who/) has made [their](/en/post/their/) life's [work](/en/post/work/) [about](/en/post/about/) helping others.
-- "Devoted [partner](/en/post/partner/)" refers [to](/en/post/to/) [a](/en/post/a/) spouse [or](/en/post/or/) [significant](/en/post/significant/) [other](/en/post/other/) [who](/en/post/who/) is deeply committed.
+- "[Devote](/post/devote/) [oneself](/post/oneself/) [to](/post/to/) [a](/post/a/) [cause](/post/cause/)" [means](/post/means/) [to](/post/to/) [commit](/post/commit/) fully [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [goal](/post/goal/) [or](/post/or/) [belief](/post/belief/).
+- "[A](/post/a/) [life](/post/life/) devoted [to](/post/to/) [service](/post/service/)" describes [someone](/post/someone/) [who](/post/who/) has made [their](/post/their/) life's [work](/post/work/) [about](/post/about/) helping others.
+- "Devoted [partner](/post/partner/)" refers [to](/post/to/) [a](/post/a/) spouse [or](/post/or/) [significant](/post/significant/) [other](/post/other/) [who](/post/who/) is deeply committed.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) devotion [to](/en/post/to/) [her](/en/post/her/) [art](/en/post/art/) was unwavering, [even](/en/post/even/) [through](/en/post/through/) [difficult](/en/post/difficult/) times."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [devote](/en/post/devote/) [her](/en/post/her/) weekends [to](/en/post/to/) [learning](/en/post/learning/) [a](/en/post/a/) [new](/en/post/new/) [language](/en/post/language/)."
-- **[To](/en/post/to/) [be](/en/post/be/) devoted [to](/en/post/to/)**: "[He](/en/post/he/) is deeply devoted [to](/en/post/to/) [his](/en/post/his/) [family](/en/post/family/) [and](/en/post/and/) [career](/en/post/career/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) devotion [to](/post/to/) [her](/post/her/) [art](/post/art/) was unwavering, [even](/post/even/) [through](/post/through/) [difficult](/post/difficult/) times."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [devote](/post/devote/) [her](/post/her/) weekends [to](/post/to/) [learning](/post/learning/) [a](/post/a/) [new](/post/new/) [language](/post/language/)."
+- **[To](/post/to/) [be](/post/be/) devoted [to](/post/to/)**: "[He](/post/he/) is deeply devoted [to](/post/to/) [his](/post/his/) [family](/post/family/) [and](/post/and/) [career](/post/career/)."
 
 ## Synonyms
 - Commitment
 - Dedication
-- [Loyalty](/en/post/loyalty/)
+- [Loyalty](/post/loyalty/)
 - Engagement
 - Entrustment
 
@@ -40,5 +40,5 @@ keywords = ['ai words', 'devote']
 - Disinterest
 - Indifference
 - Detachment
-- [Neglect](/en/post/neglect/)
+- [Neglect](/post/neglect/)
 - Disloyalty

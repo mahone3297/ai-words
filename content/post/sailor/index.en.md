@@ -7,35 +7,35 @@ description = '[ˈseilə] n.水手，海员，水兵'
 keywords = ['ai words', 'sailor']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈleɪər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[sailor](/en/post/sailor/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) works [on](/en/post/on/) [a](/en/post/a/) [ship](/en/post/ship/), typically [as](/en/post/as/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) [crew](/en/post/crew/), [and](/en/post/and/) is trained [in](/en/post/in/) [navigation](/en/post/navigation/), seamanship, [and](/en/post/and/) handling sails [or](/en/post/or/) [other](/en/post/other/) forms [of](/en/post/of/) propulsion. [In](/en/post/in/) [naval](/en/post/naval/) contexts, [it](/en/post/it/) [may](/en/post/may/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [professional](/en/post/professional/) [military](/en/post/military/) [personnel](/en/post/personnel/) serving [on](/en/post/on/) [a](/en/post/a/) [ship](/en/post/ship/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[sailor](/post/sailor/)** is [a](/post/a/) [person](/post/person/) [who](/post/who/) works [on](/post/on/) [a](/post/a/) [ship](/post/ship/), typically [as](/post/as/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [crew](/post/crew/), [and](/post/and/) is trained [in](/post/in/) [navigation](/post/navigation/), seamanship, [and](/post/and/) handling sails [or](/post/or/) [other](/post/other/) forms [of](/post/of/) propulsion. [In](/post/in/) [naval](/post/naval/) contexts, [it](/post/it/) [may](/post/may/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [professional](/post/professional/) [military](/post/military/) [personnel](/post/personnel/) serving [on](/post/on/) [a](/post/a/) [ship](/post/ship/).
 
-### [Verb](/en/post/verb/) (transitive)
-[To](/en/post/to/) **[sail](/en/post/sail/)** is [to](/en/post/to/) navigate [a](/en/post/a/) [ship](/en/post/ship/) using [wind](/en/post/wind/) [power](/en/post/power/) [or](/en/post/or/), metaphorically, [to](/en/post/to/) embark [on](/en/post/on/) [a](/en/post/a/) [journey](/en/post/journey/) [or](/en/post/or/) [career](/en/post/career/) [with](/en/post/with/) [confidence](/en/post/confidence/) [and](/en/post/and/) [determination](/en/post/determination/).
+### [Verb](/post/verb/) (transitive)
+[To](/post/to/) **[sail](/post/sail/)** is [to](/post/to/) navigate [a](/post/a/) [ship](/post/ship/) using [wind](/post/wind/) [power](/post/power/) [or](/post/or/), metaphorically, [to](/post/to/) embark [on](/post/on/) [a](/post/a/) [journey](/post/journey/) [or](/post/or/) [career](/post/career/) [with](/post/with/) [confidence](/post/confidence/) [and](/post/and/) [determination](/post/determination/).
 
-### [Adjective](/en/post/adjective/)
-Sailing [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [activity](/en/post/activity/) [or](/en/post/or/) [practice](/en/post/practice/) [of](/en/post/of/) using sails [for](/en/post/for/) propulsion, [as](/en/post/as/) [in](/en/post/in/) "sailing boats" [or](/en/post/or/) "sailing competitions."
+### [Adjective](/post/adjective/)
+Sailing [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [activity](/post/activity/) [or](/post/or/) [practice](/post/practice/) [of](/post/of/) using sails [for](/post/for/) propulsion, [as](/post/as/) [in](/post/in/) "sailing boats" [or](/post/or/) "sailing competitions."
 
 ## Phrases
-- "[Set](/en/post/set/) [sail](/en/post/sail/)" [means](/en/post/means/) [to](/en/post/to/) [begin](/en/post/begin/) [a](/en/post/a/) [voyage](/en/post/voyage/).
-- "[Sail](/en/post/sail/) [the](/en/post/the/) [seven](/en/post/seven/) seas" is [a](/en/post/a/) metaphor [for](/en/post/for/) exploring [various](/en/post/various/) parts [of](/en/post/of/) [life](/en/post/life/) [or](/en/post/or/) [the](/en/post/the/) [world](/en/post/world/).
-- "[A](/en/post/a/) sailor's [life](/en/post/life/)" refers [to](/en/post/to/) [the](/en/post/the/) adventurous [or](/en/post/or/) challenging [nature](/en/post/nature/) [of](/en/post/of/) [a](/en/post/a/) seafarer's [existence](/en/post/existence/).
+- "[Set](/post/set/) [sail](/post/sail/)" [means](/post/means/) [to](/post/to/) [begin](/post/begin/) [a](/post/a/) [voyage](/post/voyage/).
+- "[Sail](/post/sail/) [the](/post/the/) [seven](/post/seven/) seas" is [a](/post/a/) metaphor [for](/post/for/) exploring [various](/post/various/) parts [of](/post/of/) [life](/post/life/) [or](/post/or/) [the](/post/the/) [world](/post/world/).
+- "[A](/post/a/) sailor's [life](/post/life/)" refers [to](/post/to/) [the](/post/the/) adventurous [or](/post/or/) challenging [nature](/post/nature/) [of](/post/of/) [a](/post/a/) seafarer's [existence](/post/existence/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sailor](/en/post/sailor/) navigated [the](/en/post/the/) [stormy](/en/post/stormy/) waters [with](/en/post/with/) [skill](/en/post/skill/) [and](/en/post/and/) [courage](/en/post/courage/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [at](/en/post/at/) [sea](/en/post/sea/), [the](/en/post/the/) sailors [finally](/en/post/finally/) [set](/en/post/set/) [sail](/en/post/sail/) [for](/en/post/for/) [home](/en/post/home/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sailing [festival](/en/post/festival/) attracted enthusiasts [from](/en/post/from/) [all](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [country](/en/post/country/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sailor](/post/sailor/) navigated [the](/post/the/) [stormy](/post/stormy/) waters [with](/post/with/) [skill](/post/skill/) [and](/post/and/) [courage](/post/courage/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [at](/post/at/) [sea](/post/sea/), [the](/post/the/) sailors [finally](/post/finally/) [set](/post/set/) [sail](/post/sail/) [for](/post/for/) [home](/post/home/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sailing [festival](/post/festival/) attracted enthusiasts [from](/post/from/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [country](/post/country/)."
 
 ## Synonyms
-- [Seaman](/en/post/seaman/)
-- [Marine](/en/post/marine/)
+- [Seaman](/post/seaman/)
+- [Marine](/post/marine/)
 - Deckhand
 - Oceanic voyager
-- Nautical [professional](/en/post/professional/)
+- Nautical [professional](/post/professional/)
 
 ## Antonyms
-- Landlubber ([a](/en/post/a/) [person](/en/post/person/) [not](/en/post/not/) [familiar](/en/post/familiar/) [with](/en/post/with/) [or](/en/post/or/) [skilled](/en/post/skilled/) [at](/en/post/at/) sailing)
+- Landlubber ([a](/post/a/) [person](/post/person/) [not](/post/not/) [familiar](/post/familiar/) [with](/post/with/) [or](/post/or/) [skilled](/post/skilled/) [at](/post/at/) sailing)

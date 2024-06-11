@@ -7,45 +7,45 @@ description = '[sain] n.符号；招牌 n.签名'
 keywords = ['ai words', 'sign']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪɡ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [visible](/en/post/visible/) [symbol](/en/post/symbol/), [mark](/en/post/mark/), [or](/en/post/or/) [gesture](/en/post/gesture/) [that](/en/post/that/) communicates [a](/en/post/a/) [particular](/en/post/particular/) [meaning](/en/post/meaning/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) identification [or](/en/post/or/) [communication](/en/post/communication/).
-- [In](/en/post/in/) [a](/en/post/a/) [legal](/en/post/legal/) context, [a](/en/post/a/) [document](/en/post/document/) indicating [agreement](/en/post/agreement/) [or](/en/post/or/) [acceptance](/en/post/acceptance/).
-- [In](/en/post/in/) [mathematics](/en/post/mathematics/) [or](/en/post/or/) [science](/en/post/science/), [a](/en/post/a/) [shape](/en/post/shape/) [or](/en/post/or/) [pattern](/en/post/pattern/) [that](/en/post/that/) represents [a](/en/post/a/) [concept](/en/post/concept/) [or](/en/post/or/) [idea](/en/post/idea/).
+### [Noun](/post/noun/)
+- [A](/post/a/) [visible](/post/visible/) [symbol](/post/symbol/), [mark](/post/mark/), [or](/post/or/) [gesture](/post/gesture/) [that](/post/that/) communicates [a](/post/a/) [particular](/post/particular/) [meaning](/post/meaning/), [often](/post/often/) [used](/post/used/) [for](/post/for/) identification [or](/post/or/) [communication](/post/communication/).
+- [In](/post/in/) [a](/post/a/) [legal](/post/legal/) context, [a](/post/a/) [document](/post/document/) indicating [agreement](/post/agreement/) [or](/post/or/) [acceptance](/post/acceptance/).
+- [In](/post/in/) [mathematics](/post/mathematics/) [or](/post/or/) [science](/post/science/), [a](/post/a/) [shape](/post/shape/) [or](/post/or/) [pattern](/post/pattern/) [that](/post/that/) represents [a](/post/a/) [concept](/post/concept/) [or](/post/or/) [idea](/post/idea/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [show](/en/post/show/) [or](/en/post/or/) [indicate](/en/post/indicate/) [by](/en/post/by/) [a](/en/post/a/) [sign](/en/post/sign/) [or](/en/post/or/) [gesture](/en/post/gesture/).
-- [To](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [sign](/en/post/sign/) [to](/en/post/to/) [communicate](/en/post/communicate/) [or](/en/post/or/) [convey](/en/post/convey/) [information](/en/post/information/).
-- [To](/en/post/to/) [give](/en/post/give/) [notice](/en/post/notice/) [or](/en/post/or/) [indication](/en/post/indication/) [of](/en/post/of/) [something](/en/post/something/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [show](/post/show/) [or](/post/or/) [indicate](/post/indicate/) [by](/post/by/) [a](/post/a/) [sign](/post/sign/) [or](/post/or/) [gesture](/post/gesture/).
+- [To](/post/to/) [use](/post/use/) [a](/post/a/) [sign](/post/sign/) [to](/post/to/) [communicate](/post/communicate/) [or](/post/or/) [convey](/post/convey/) [information](/post/information/).
+- [To](/post/to/) [give](/post/give/) [notice](/post/notice/) [or](/post/or/) [indication](/post/indication/) [of](/post/of/) [something](/post/something/).
 
-### [Adjective](/en/post/adjective/)
-- [Characteristic](/en/post/characteristic/) [or](/en/post/or/) indicative [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [quality](/en/post/quality/) [or](/en/post/or/) [feature](/en/post/feature/).
-- Designating [something](/en/post/something/) [as](/en/post/as/) having [a](/en/post/a/) [particular](/en/post/particular/) [meaning](/en/post/meaning/) [or](/en/post/or/) [function](/en/post/function/).
+### [Adjective](/post/adjective/)
+- [Characteristic](/post/characteristic/) [or](/post/or/) indicative [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [quality](/post/quality/) [or](/post/or/) [feature](/post/feature/).
+- Designating [something](/post/something/) [as](/post/as/) having [a](/post/a/) [particular](/post/particular/) [meaning](/post/meaning/) [or](/post/or/) [function](/post/function/).
 
-### [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) is symbolic [or](/en/post/or/) expressive.
-- [By](/en/post/by/) [means](/en/post/means/) [of](/en/post/of/) [a](/en/post/a/) [sign](/en/post/sign/) [or](/en/post/or/) [gesture](/en/post/gesture/).
+### [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) is symbolic [or](/post/or/) expressive.
+- [By](/post/by/) [means](/post/means/) [of](/post/of/) [a](/post/a/) [sign](/post/sign/) [or](/post/or/) [gesture](/post/gesture/).
 
 ## Phrases
-- "[Hold](/en/post/hold/) [up](/en/post/up/) [a](/en/post/a/) [sign](/en/post/sign/)" asks [someone](/en/post/someone/) [to](/en/post/to/) [display](/en/post/display/) [a](/en/post/a/) [message](/en/post/message/) [or](/en/post/or/) [signal](/en/post/signal/).
-- "[A](/en/post/a/) [traffic](/en/post/traffic/) [sign](/en/post/sign/) warns drivers [of](/en/post/of/) upcoming hazards."
-- "[A](/en/post/a/) [smile](/en/post/smile/) is [a](/en/post/a/) [universal](/en/post/universal/) [sign](/en/post/sign/) [of](/en/post/of/) friendliness."
+- "[Hold](/post/hold/) [up](/post/up/) [a](/post/a/) [sign](/post/sign/)" asks [someone](/post/someone/) [to](/post/to/) [display](/post/display/) [a](/post/a/) [message](/post/message/) [or](/post/or/) [signal](/post/signal/).
+- "[A](/post/a/) [traffic](/post/traffic/) [sign](/post/sign/) warns drivers [of](/post/of/) upcoming hazards."
+- "[A](/post/a/) [smile](/post/smile/) is [a](/post/a/) [universal](/post/universal/) [sign](/post/sign/) [of](/post/of/) friendliness."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [museum](/en/post/museum/) had [a](/en/post/a/) [special](/en/post/special/) [exhibit](/en/post/exhibit/) featuring [historical](/en/post/historical/) signs [from](/en/post/from/) [different](/en/post/different/) eras."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) signaled [for](/en/post/for/) [help](/en/post/help/) [by](/en/post/by/) raising [her](/en/post/her/) arms."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [shop](/en/post/shop/) displayed [a](/en/post/a/) 'closed' [sign](/en/post/sign/) [on](/en/post/on/) [the](/en/post/the/) [door](/en/post/door/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) silently signed [his](/en/post/his/) [name](/en/post/name/) [on](/en/post/on/) [the](/en/post/the/) [contract](/en/post/contract/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [museum](/post/museum/) had [a](/post/a/) [special](/post/special/) [exhibit](/post/exhibit/) featuring [historical](/post/historical/) signs [from](/post/from/) [different](/post/different/) eras."
+- **[Verb](/post/verb/)**: "[She](/post/she/) signaled [for](/post/for/) [help](/post/help/) [by](/post/by/) raising [her](/post/her/) arms."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [shop](/post/shop/) displayed [a](/post/a/) 'closed' [sign](/post/sign/) [on](/post/on/) [the](/post/the/) [door](/post/door/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) silently signed [his](/post/his/) [name](/post/name/) [on](/post/on/) [the](/post/the/) [contract](/post/contract/)."
 
 ## Synonyms
-- [Signal](/en/post/signal/)
+- [Signal](/post/signal/)
 - Emblem
-- [Mark](/en/post/mark/)
+- [Mark](/post/mark/)
 - Indicator
-- [Gesture](/en/post/gesture/)
+- [Gesture](/post/gesture/)
 - Token
 - Cue
-- [Sigh](/en/post/sigh/) (informal, [when](/en/post/when/) expressing [relief](/en/post/relief/))
+- [Sigh](/post/sigh/) (informal, [when](/post/when/) expressing [relief](/post/relief/))

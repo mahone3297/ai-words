@@ -11,20 +11,20 @@ keywords = ['ai words', 'accuse']
 /əˈkjuːz/
 
 ## 释义
-- **动词**: 指控，指责，归咎于。例如: "[The](/post/the/) [witness](/post/witness/) accused [him](/post/him/) [of](/post/of/) theft."
-- **名词**: 控诉，指控。例如: "[The](/post/the/) defense [lawyer](/post/lawyer/) refuted [the](/post/the/) plaintiff's accusations."
+- **动词**: 指控，指责，归咎于。例如: "[The](/zh/post/the/) [witness](/zh/post/witness/) accused [him](/zh/post/him/) [of](/zh/post/of/) theft."
+- **名词**: 控诉，指控。例如: "[The](/zh/post/the/) defense [lawyer](/zh/post/lawyer/) refuted [the](/zh/post/the/) plaintiff's accusations."
 
 ## 短语
-- "[accuse](/post/accuse/) [someone](/post/someone/) [of](/post/of/) [something](/post/something/)" 指责某人做了某事。例如: "[She](/post/she/) accused [him](/post/him/) [of](/post/of/) lying [about](/post/about/) [the](/post/the/) [incident](/post/incident/)."
-- "[to](/post/to/) [be](/post/be/) accused [of](/post/of/)" 被指控。例如: "[He](/post/he/) was accused [of](/post/of/) embezzlement."
+- "[accuse](/zh/post/accuse/) [someone](/zh/post/someone/) [of](/zh/post/of/) [something](/zh/post/something/)" 指责某人做了某事。例如: "[She](/zh/post/she/) accused [him](/zh/post/him/) [of](/zh/post/of/) lying [about](/zh/post/about/) [the](/zh/post/the/) [incident](/zh/post/incident/)."
+- "[to](/zh/post/to/) [be](/zh/post/be/) accused [of](/zh/post/of/)" 被指控。例如: "[He](/zh/post/he/) was accused [of](/zh/post/of/) embezzlement."
 
 ## 例句
-- 动词: "[The](/post/the/) [police](/post/police/) accused [the](/post/the/) [suspect](/post/suspect/) [of](/post/of/) involvement [in](/post/in/) [the](/post/the/) [robbery](/post/robbery/)."
-- 名词: "[The](/post/the/) [politician](/post/politician/) faced [numerous](/post/numerous/) accusations [of](/post/of/) corruption."
+- 动词: "[The](/zh/post/the/) [police](/zh/post/police/) accused [the](/zh/post/the/) [suspect](/zh/post/suspect/) [of](/zh/post/of/) involvement [in](/zh/post/in/) [the](/zh/post/the/) [robbery](/zh/post/robbery/)."
+- 名词: "[The](/zh/post/the/) [politician](/zh/post/politician/) faced [numerous](/zh/post/numerous/) accusations [of](/zh/post/of/) corruption."
 
 ## 同义词
-- [charge](/post/charge/)
-- [blame](/post/blame/)
+- [charge](/zh/post/charge/)
+- [blame](/zh/post/blame/)
 - implicate
-- [fault](/post/fault/)
+- [fault](/zh/post/fault/)
 - denounce

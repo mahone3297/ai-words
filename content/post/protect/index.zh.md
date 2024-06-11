@@ -11,20 +11,20 @@ keywords = ['ai words', 'protect']
 /prəˈtekt/
 
 ## 释义
-- **动词**: 保护；防御。例如: "[The](/post/the/) [helmet](/post/helmet/) protects [your](/post/your/) [head](/post/head/) [during](/post/during/) [a](/post/a/) [fall](/post/fall/)."
-- **名词**: （尤指法律、政策等的）保护；保护措施。例如: "[The](/post/the/) [new](/post/new/) [law](/post/law/) provides [protect](/post/protect/) [for](/post/for/) wildlife habitats."
+- **动词**: 保护；防御。例如: "[The](/zh/post/the/) [helmet](/zh/post/helmet/) protects [your](/zh/post/your/) [head](/zh/post/head/) [during](/zh/post/during/) [a](/zh/post/a/) [fall](/zh/post/fall/)."
+- **名词**: （尤指法律、政策等的）保护；保护措施。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [law](/zh/post/law/) provides [protect](/zh/post/protect/) [for](/zh/post/for/) wildlife habitats."
 
 ## 短语
-- "[protect](/post/protect/) [against](/post/against/)" 防止，保护免受。例如: "[This](/post/this/) antivirus software protects [against](/post/against/) malware."
-- "[in](/post/in/) [protection](/post/protection/) [of](/post/of/)" 为了保护。例如: "[The](/post/the/) soldiers stood [in](/post/in/) [protection](/post/protection/) [of](/post/of/) [the](/post/the/) civilians."
+- "[protect](/zh/post/protect/) [against](/zh/post/against/)" 防止，保护免受。例如: "[This](/zh/post/this/) antivirus software protects [against](/zh/post/against/) malware."
+- "[in](/zh/post/in/) [protection](/zh/post/protection/) [of](/zh/post/of/)" 为了保护。例如: "[The](/zh/post/the/) soldiers stood [in](/zh/post/in/) [protection](/zh/post/protection/) [of](/zh/post/of/) [the](/zh/post/the/) civilians."
 
 ## 例句
-- 动词: "[The](/post/the/) sunscreen protects [your](/post/your/) [skin](/post/skin/) [from](/post/from/) [harmful](/post/harmful/) UV rays."
-- 名词: "[The](/post/the/) [government](/post/government/) has introduced [new](/post/new/) measures [for](/post/for/) consumer [protect](/post/protect/)."
+- 动词: "[The](/zh/post/the/) sunscreen protects [your](/zh/post/your/) [skin](/zh/post/skin/) [from](/zh/post/from/) [harmful](/zh/post/harmful/) UV rays."
+- 名词: "[The](/zh/post/the/) [government](/zh/post/government/) has introduced [new](/zh/post/new/) measures [for](/zh/post/for/) consumer [protect](/zh/post/protect/)."
 
 ## 同义词
-- [defend](/post/defend/)
-- [shield](/post/shield/)
+- [defend](/zh/post/defend/)
+- [shield](/zh/post/shield/)
 - safeguard
-- [guard](/post/guard/)
-- [cover](/post/cover/)
+- [guard](/zh/post/guard/)
+- [cover](/zh/post/cover/)

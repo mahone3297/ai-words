@@ -11,20 +11,20 @@ keywords = ['ai words', 'carpet']
 /ˈkɑːrpɪt/
 
 ## 释义
-- **名词**: 一种覆盖在地板上的织物，通常用于室内装饰，提供保暖和舒适。例如: "[She](/post/she/) chose [a](/post/a/) plush [red](/post/red/) [carpet](/post/carpet/) [for](/post/for/) [her](/post/her/) [living](/post/living/) [room](/post/room/)."
-- **动词**: （非标准用法）指铺地毯的行为。例如: "[They](/post/they/) [will](/post/will/) [carpet](/post/carpet/) [the](/post/the/) [entire](/post/entire/) [house](/post/house/) [this](/post/this/) [weekend](/post/weekend/)."
+- **名词**: 一种覆盖在地板上的织物，通常用于室内装饰，提供保暖和舒适。例如: "[She](/zh/post/she/) chose [a](/zh/post/a/) plush [red](/zh/post/red/) [carpet](/zh/post/carpet/) [for](/zh/post/for/) [her](/zh/post/her/) [living](/zh/post/living/) [room](/zh/post/room/)."
+- **动词**: （非标准用法）指铺地毯的行为。例如: "[They](/zh/post/they/) [will](/zh/post/will/) [carpet](/zh/post/carpet/) [the](/zh/post/the/) [entire](/zh/post/entire/) [house](/zh/post/house/) [this](/zh/post/this/) [weekend](/zh/post/weekend/)."
 
 ## 短语
-- "[Carpet](/post/carpet/) bombing" 指大面积、无差别轰炸。
-- "[Carpet](/post/carpet/) cleaner" 指清洁地毯的机器或服务。
+- "[Carpet](/zh/post/carpet/) bombing" 指大面积、无差别轰炸。
+- "[Carpet](/zh/post/carpet/) cleaner" 指清洁地毯的机器或服务。
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [carpet](/post/carpet/) felt [soft](/post/soft/) underfoot."
-- 动词: "[The](/post/the/) [company](/post/company/) specializes [in](/post/in/) carpeting [commercial](/post/commercial/) buildings."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [carpet](/zh/post/carpet/) felt [soft](/zh/post/soft/) underfoot."
+- 动词: "[The](/zh/post/the/) [company](/zh/post/company/) specializes [in](/zh/post/in/) carpeting [commercial](/zh/post/commercial/) buildings."
 
 ## 同义词
-- [Rug](/post/rug/)
-- [Floor](/post/floor/) covering
-- [Mat](/post/mat/)
+- [Rug](/zh/post/rug/)
+- [Floor](/zh/post/floor/) covering
+- [Mat](/zh/post/mat/)
 - Tapestry
 - Upholstery (在某些语境下可作为同义词)

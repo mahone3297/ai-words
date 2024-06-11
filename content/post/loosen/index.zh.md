@@ -11,20 +11,20 @@ keywords = ['ai words', 'loosen']
 /ˈluːzn/
 
 ## 释义
-- **动词**: 使变得宽松；解开，放松。例如: "[Loosen](/post/loosen/) [the](/post/the/) [knot](/post/knot/) [before](/post/before/) [it](/post/it/) becomes [too](/post/too/) [tight](/post/tight/)."
-- **形容词**: 宽松的，不紧的。例如: "[The](/post/the/) [collar](/post/collar/) [of](/post/of/) [his](/post/his/) [shirt](/post/shirt/) was [loosen](/post/loosen/), [so](/post/so/) [he](/post/he/) adjusted [it](/post/it/)."
+- **动词**: 使变得宽松；解开，放松。例如: "[Loosen](/zh/post/loosen/) [the](/zh/post/the/) [knot](/zh/post/knot/) [before](/zh/post/before/) [it](/zh/post/it/) becomes [too](/zh/post/too/) [tight](/zh/post/tight/)."
+- **形容词**: 宽松的，不紧的。例如: "[The](/zh/post/the/) [collar](/zh/post/collar/) [of](/zh/post/of/) [his](/zh/post/his/) [shirt](/zh/post/shirt/) was [loosen](/zh/post/loosen/), [so](/zh/post/so/) [he](/zh/post/he/) adjusted [it](/zh/post/it/)."
 
 ## 短语
-- "[loosen](/post/loosen/) [up](/post/up/)" 意味着放松，不那么紧张。例如: "[Before](/post/before/) [the](/post/the/) [performance](/post/performance/), [they](/post/they/) did [some](/post/some/) stretches [to](/post/to/) [loosen](/post/loosen/) [up](/post/up/)."
-- "[loosen](/post/loosen/) one's [grip](/post/grip/)" 表示放宽控制或减弱影响力。例如: "[To](/post/to/) [improve](/post/improve/) creativity, [the](/post/the/) manager needs [to](/post/to/) [loosen](/post/loosen/) [their](/post/their/) [grip](/post/grip/) [on](/post/on/) [the](/post/the/) [team](/post/team/)."
+- "[loosen](/zh/post/loosen/) [up](/zh/post/up/)" 意味着放松，不那么紧张。例如: "[Before](/zh/post/before/) [the](/zh/post/the/) [performance](/zh/post/performance/), [they](/zh/post/they/) did [some](/zh/post/some/) stretches [to](/zh/post/to/) [loosen](/zh/post/loosen/) [up](/zh/post/up/)."
+- "[loosen](/zh/post/loosen/) one's [grip](/zh/post/grip/)" 表示放宽控制或减弱影响力。例如: "[To](/zh/post/to/) [improve](/zh/post/improve/) creativity, [the](/zh/post/the/) manager needs [to](/zh/post/to/) [loosen](/zh/post/loosen/) [their](/zh/post/their/) [grip](/zh/post/grip/) [on](/zh/post/on/) [the](/zh/post/the/) [team](/zh/post/team/)."
 
 ## 例句
-- 动词: "[Please](/post/please/) [loosen](/post/loosen/) [the](/post/the/) [screw](/post/screw/) [with](/post/with/) [a](/post/a/) wrench."
-- 形容词: "[The](/post/the/) [newly](/post/newly/) designed [dress](/post/dress/) has [a](/post/a/) [loosen](/post/loosen/) [fit](/post/fit/) [for](/post/for/) added [comfort](/post/comfort/)."
+- 动词: "[Please](/zh/post/please/) [loosen](/zh/post/loosen/) [the](/zh/post/the/) [screw](/zh/post/screw/) [with](/zh/post/with/) [a](/zh/post/a/) wrench."
+- 形容词: "[The](/zh/post/the/) [newly](/zh/post/newly/) designed [dress](/zh/post/dress/) has [a](/zh/post/a/) [loosen](/zh/post/loosen/) [fit](/zh/post/fit/) [for](/zh/post/for/) added [comfort](/zh/post/comfort/)."
 
 ## 同义词
-- [Relax](/post/relax/)
+- [Relax](/zh/post/relax/)
 - Untighten
 - Unfasten
-- [Ease](/post/ease/) [up](/post/up/)
-- [Make](/post/make/) [more](/post/more/) slack
+- [Ease](/zh/post/ease/) [up](/zh/post/up/)
+- [Make](/zh/post/make/) [more](/zh/post/more/) slack

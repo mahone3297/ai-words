@@ -11,20 +11,20 @@ keywords = ['ai words', 'concert']
 /ˈkɑːnsərt/
 
 ## 释义
-- **名词 (n)**: 公开演奏会或演唱会，通常由多位音乐家或一个乐团表演。例如: "I'm going [to](/post/to/) [a](/post/a/) [classical](/post/classical/) [concert](/post/concert/) [this](/post/this/) [weekend](/post/weekend/)."
-- **名词 (n)**: 聚集讨论特定主题的会议或集会。例如: "[The](/post/the/) environmental [conference](/post/conference/) featured [several](/post/several/) [expert](/post/expert/) concerts."
+- **名词 (n)**: 公开演奏会或演唱会，通常由多位音乐家或一个乐团表演。例如: "I'm going [to](/zh/post/to/) [a](/zh/post/a/) [classical](/zh/post/classical/) [concert](/zh/post/concert/) [this](/zh/post/this/) [weekend](/zh/post/weekend/)."
+- **名词 (n)**: 聚集讨论特定主题的会议或集会。例如: "[The](/zh/post/the/) environmental [conference](/zh/post/conference/) featured [several](/zh/post/several/) [expert](/zh/post/expert/) concerts."
 
 ## 短语
-- "[Concert](/post/concert/) [hall](/post/hall/)" 是举行音乐会的场所。
-- "[Concert](/post/concert/) [tour](/post/tour/)" 是音乐家或乐队在多个地点进行的一系列演出。
+- "[Concert](/zh/post/concert/) [hall](/zh/post/hall/)" 是举行音乐会的场所。
+- "[Concert](/zh/post/concert/) [tour](/zh/post/tour/)" 是音乐家或乐队在多个地点进行的一系列演出。
 
 ## 例句
-- 名词: "[We](/post/we/) bought tickets [for](/post/for/) [the](/post/the/) [jazz](/post/jazz/) [concert](/post/concert/) [at](/post/at/) [the](/post/the/) [city](/post/city/) auditorium."
-- 名词: "[The](/post/the/) [band](/post/band/) is [on](/post/on/) [a](/post/a/) [world](/post/world/) [concert](/post/concert/) [tour](/post/tour/) promoting [their](/post/their/) [new](/post/new/) album."
+- 名词: "[We](/zh/post/we/) bought tickets [for](/zh/post/for/) [the](/zh/post/the/) [jazz](/zh/post/jazz/) [concert](/zh/post/concert/) [at](/zh/post/at/) [the](/zh/post/the/) [city](/zh/post/city/) auditorium."
+- 名词: "[The](/zh/post/the/) [band](/zh/post/band/) is [on](/zh/post/on/) [a](/zh/post/a/) [world](/zh/post/world/) [concert](/zh/post/concert/) [tour](/zh/post/tour/) promoting [their](/zh/post/their/) [new](/zh/post/new/) album."
 
 ## 同义词
-- [Performance](/post/performance/)
-- [Show](/post/show/)
+- [Performance](/zh/post/performance/)
+- [Show](/zh/post/show/)
 - Recital
-- [Event](/post/event/)
-- [Festival](/post/festival/)
+- [Event](/zh/post/event/)
+- [Festival](/zh/post/festival/)

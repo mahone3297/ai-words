@@ -11,22 +11,22 @@ keywords = ['ai words', 'curl']
 /ˈkɜːrl/
 
 ## 释义
-- **名词**: 卷曲；卷状物；波浪形。例如: "[She](/post/she/) had [beautiful](/post/beautiful/) curls [in](/post/in/) [her](/post/her/) [hair](/post/hair/)."
-- **动词**: 使卷曲；卷起。例如: "[He](/post/he/) curled [his](/post/his/) [hair](/post/hair/) [with](/post/with/) [a](/post/a/) curling [iron](/post/iron/)."
-- **形容词**: 卷曲的；呈螺旋状的。例如: "[The](/post/the/) puppy had curly [fur](/post/fur/)."
+- **名词**: 卷曲；卷状物；波浪形。例如: "[She](/zh/post/she/) had [beautiful](/zh/post/beautiful/) curls [in](/zh/post/in/) [her](/zh/post/her/) [hair](/zh/post/hair/)."
+- **动词**: 使卷曲；卷起。例如: "[He](/zh/post/he/) curled [his](/zh/post/his/) [hair](/zh/post/hair/) [with](/zh/post/with/) [a](/zh/post/a/) curling [iron](/zh/post/iron/)."
+- **形容词**: 卷曲的；呈螺旋状的。例如: "[The](/zh/post/the/) puppy had curly [fur](/zh/post/fur/)."
 
 ## 短语
-- "[curl](/post/curl/) [up](/post/up/)" 意为蜷缩，如 "[She](/post/she/) curled [up](/post/up/) [on](/post/on/) [the](/post/the/) couch [with](/post/with/) [a](/post/a/) [good](/post/good/) [book](/post/book/)."
-- "[curl](/post/curl/) one's [hair](/post/hair/)" 可以表示令人震惊或兴奋，如 "[The](/post/the/) [news](/post/news/) [about](/post/about/) [the](/post/the/) [stock](/post/stock/) [market](/post/market/) curled [my](/post/my/) [hair](/post/hair/)."
+- "[curl](/zh/post/curl/) [up](/zh/post/up/)" 意为蜷缩，如 "[She](/zh/post/she/) curled [up](/zh/post/up/) [on](/zh/post/on/) [the](/zh/post/the/) couch [with](/zh/post/with/) [a](/zh/post/a/) [good](/zh/post/good/) [book](/zh/post/book/)."
+- "[curl](/zh/post/curl/) one's [hair](/zh/post/hair/)" 可以表示令人震惊或兴奋，如 "[The](/zh/post/the/) [news](/zh/post/news/) [about](/zh/post/about/) [the](/zh/post/the/) [stock](/zh/post/stock/) [market](/zh/post/market/) curled [my](/zh/post/my/) [hair](/zh/post/hair/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [little](/post/little/) [girl](/post/girl/) had [golden](/post/golden/) curls [that](/post/that/) reached [her](/post/her/) shoulders."
-- 动词: "[She](/post/she/) carefully curled [the](/post/the/) [ribbon](/post/ribbon/) [around](/post/around/) [the](/post/the/) [gift](/post/gift/) [box](/post/box/)."
-- 形容词: "[The](/post/the/) [sheep](/post/sheep/) had [naturally](/post/naturally/) curly [wool](/post/wool/)."
+- 名词: "[The](/zh/post/the/) [little](/zh/post/little/) [girl](/zh/post/girl/) had [golden](/zh/post/golden/) curls [that](/zh/post/that/) reached [her](/zh/post/her/) shoulders."
+- 动词: "[She](/zh/post/she/) carefully curled [the](/zh/post/the/) [ribbon](/zh/post/ribbon/) [around](/zh/post/around/) [the](/zh/post/the/) [gift](/zh/post/gift/) [box](/zh/post/box/)."
+- 形容词: "[The](/zh/post/the/) [sheep](/zh/post/sheep/) had [naturally](/zh/post/naturally/) curly [wool](/zh/post/wool/)."
 
 ## 同义词
-- [coil](/post/coil/)
-- [bend](/post/bend/)
-- [twist](/post/twist/)
-- [wrap](/post/wrap/)
-- [form](/post/form/) [into](/post/into/) [a](/post/a/) [curl](/post/curl/)
+- [coil](/zh/post/coil/)
+- [bend](/zh/post/bend/)
+- [twist](/zh/post/twist/)
+- [wrap](/zh/post/wrap/)
+- [form](/zh/post/form/) [into](/zh/post/into/) [a](/zh/post/a/) [curl](/zh/post/curl/)

@@ -7,30 +7,30 @@ description = '[left] a.左边的 ad.在左边'
 keywords = ['ai words', 'left']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lɛft/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Situated [on](/en/post/on/) [the](/en/post/the/) [side](/en/post/side/) [that](/en/post/that/) is [usually](/en/post/usually/) [opposite](/en/post/opposite/) [to](/en/post/to/) [the](/en/post/the/) [right](/en/post/right/) [hand](/en/post/hand/); toward [the](/en/post/the/) [west](/en/post/west/) [when](/en/post/when/) [one](/en/post/one/) is facing [north](/en/post/north/). [Example](/en/post/example/): "[The](/en/post/the/) [door](/en/post/door/) is [on](/en/post/on/) [the](/en/post/the/) [left](/en/post/left/) [side](/en/post/side/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [direction](/en/post/direction/) [or](/en/post/or/) [position](/en/post/position/) [on](/en/post/on/) [the](/en/post/the/) [left](/en/post/left/) [side](/en/post/side/). [Example](/en/post/example/): "[Stay](/en/post/stay/) [to](/en/post/to/) [the](/en/post/the/) [left](/en/post/left/) [on](/en/post/on/) [this](/en/post/this/) [path](/en/post/path/)."
-- **[Verb](/en/post/verb/)**: [Past](/en/post/past/) [tense](/en/post/tense/) [and](/en/post/and/) [past](/en/post/past/) participle [of](/en/post/of/) [leave](/en/post/leave/); [to](/en/post/to/) [go](/en/post/go/) [away](/en/post/away/) [from](/en/post/from/) [or](/en/post/or/) [abandon](/en/post/abandon/). [Example](/en/post/example/): "[She](/en/post/she/) [left](/en/post/left/) [her](/en/post/her/) keys [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Preposition](/en/post/preposition/)**: Indicating [movement](/en/post/movement/) [or](/en/post/or/) [direction](/en/post/direction/) [to](/en/post/to/) [the](/en/post/the/) [left](/en/post/left/) [side](/en/post/side/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[Turn](/en/post/turn/) [left](/en/post/left/) [at](/en/post/at/) [the](/en/post/the/) [next](/en/post/next/) intersection."
-- **[Noun](/en/post/noun/) (informal)**: [The](/en/post/the/) [political](/en/post/political/) [left](/en/post/left/), referring [to](/en/post/to/) [liberal](/en/post/liberal/) [or](/en/post/or/) [socialist](/en/post/socialist/) ideologies. [Example](/en/post/example/): "[His](/en/post/his/) views are firmly [on](/en/post/on/) [the](/en/post/the/) [left](/en/post/left/)."
+- **[Adjective](/post/adjective/)**: Situated [on](/post/on/) [the](/post/the/) [side](/post/side/) [that](/post/that/) is [usually](/post/usually/) [opposite](/post/opposite/) [to](/post/to/) [the](/post/the/) [right](/post/right/) [hand](/post/hand/); toward [the](/post/the/) [west](/post/west/) [when](/post/when/) [one](/post/one/) is facing [north](/post/north/). [Example](/post/example/): "[The](/post/the/) [door](/post/door/) is [on](/post/on/) [the](/post/the/) [left](/post/left/) [side](/post/side/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [direction](/post/direction/) [or](/post/or/) [position](/post/position/) [on](/post/on/) [the](/post/the/) [left](/post/left/) [side](/post/side/). [Example](/post/example/): "[Stay](/post/stay/) [to](/post/to/) [the](/post/the/) [left](/post/left/) [on](/post/on/) [this](/post/this/) [path](/post/path/)."
+- **[Verb](/post/verb/)**: [Past](/post/past/) [tense](/post/tense/) [and](/post/and/) [past](/post/past/) participle [of](/post/of/) [leave](/post/leave/); [to](/post/to/) [go](/post/go/) [away](/post/away/) [from](/post/from/) [or](/post/or/) [abandon](/post/abandon/). [Example](/post/example/): "[She](/post/she/) [left](/post/left/) [her](/post/her/) keys [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+- **[Preposition](/post/preposition/)**: Indicating [movement](/post/movement/) [or](/post/or/) [direction](/post/direction/) [to](/post/to/) [the](/post/the/) [left](/post/left/) [side](/post/side/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[Turn](/post/turn/) [left](/post/left/) [at](/post/at/) [the](/post/the/) [next](/post/next/) intersection."
+- **[Noun](/post/noun/) (informal)**: [The](/post/the/) [political](/post/political/) [left](/post/left/), referring [to](/post/to/) [liberal](/post/liberal/) [or](/post/or/) [socialist](/post/socialist/) ideologies. [Example](/post/example/): "[His](/post/his/) views are firmly [on](/post/on/) [the](/post/the/) [left](/post/left/)."
 
 ## Phrases
-- "[On](/en/post/on/) [the](/en/post/the/) [left](/en/post/left/)": Referring [to](/en/post/to/) [the](/en/post/the/) [position](/en/post/position/) [or](/en/post/or/) [direction](/en/post/direction/).
-- "[To](/en/post/to/) [the](/en/post/the/) [left](/en/post/left/) [of](/en/post/of/)": Indicating something's [location](/en/post/location/) [relative](/en/post/relative/) [to](/en/post/to/) [another](/en/post/another/) [object](/en/post/object/).
-- "[Left](/en/post/left/) [behind](/en/post/behind/)": [To](/en/post/to/) [be](/en/post/be/) forgotten [or](/en/post/or/) [not](/en/post/not/) taken [along](/en/post/along/) [with](/en/post/with/) others; [also](/en/post/also/) metaphorically [meaning](/en/post/meaning/) [being](/en/post/being/) outdated [or](/en/post/or/) surpassed.
+- "[On](/post/on/) [the](/post/the/) [left](/post/left/)": Referring [to](/post/to/) [the](/post/the/) [position](/post/position/) [or](/post/or/) [direction](/post/direction/).
+- "[To](/post/to/) [the](/post/the/) [left](/post/left/) [of](/post/of/)": Indicating something's [location](/post/location/) [relative](/post/relative/) [to](/post/to/) [another](/post/another/) [object](/post/object/).
+- "[Left](/post/left/) [behind](/post/behind/)": [To](/post/to/) [be](/post/be/) forgotten [or](/post/or/) [not](/post/not/) taken [along](/post/along/) [with](/post/with/) others; [also](/post/also/) metaphorically [meaning](/post/meaning/) [being](/post/being/) outdated [or](/post/or/) surpassed.
   
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Please](/en/post/please/) [sit](/en/post/sit/) [on](/en/post/on/) [the](/en/post/the/) [left](/en/post/left/) [side](/en/post/side/) [of](/en/post/of/) [the](/en/post/the/) auditorium."
-- **[Noun](/en/post/noun/)**: "[Keep](/en/post/keep/) going [straight](/en/post/straight/) [until](/en/post/until/) [you](/en/post/you/) [reach](/en/post/reach/) [the](/en/post/the/) [fork](/en/post/fork/) [in](/en/post/in/) [the](/en/post/the/) [road](/en/post/road/), [then](/en/post/then/) [take](/en/post/take/) [a](/en/post/a/) [left](/en/post/left/)."
-- **[Verb](/en/post/verb/)**: "I [left](/en/post/left/) [my](/en/post/my/) [phone](/en/post/phone/) charger [at](/en/post/at/) [home](/en/post/home/)."
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) [post](/en/post/post/) [office](/en/post/office/) is [just](/en/post/just/) [left](/en/post/left/) [of](/en/post/of/) [the](/en/post/the/) [library](/en/post/library/)."
-- **[Noun](/en/post/noun/) (informal)**: "[The](/en/post/the/) candidate's policies [appeal](/en/post/appeal/) [to](/en/post/to/) [those](/en/post/those/) [on](/en/post/on/) [the](/en/post/the/) [political](/en/post/political/) [left](/en/post/left/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Please](/post/please/) [sit](/post/sit/) [on](/post/on/) [the](/post/the/) [left](/post/left/) [side](/post/side/) [of](/post/of/) [the](/post/the/) auditorium."
+- **[Noun](/post/noun/)**: "[Keep](/post/keep/) going [straight](/post/straight/) [until](/post/until/) [you](/post/you/) [reach](/post/reach/) [the](/post/the/) [fork](/post/fork/) [in](/post/in/) [the](/post/the/) [road](/post/road/), [then](/post/then/) [take](/post/take/) [a](/post/a/) [left](/post/left/)."
+- **[Verb](/post/verb/)**: "I [left](/post/left/) [my](/post/my/) [phone](/post/phone/) charger [at](/post/at/) [home](/post/home/)."
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) [post](/post/post/) [office](/post/office/) is [just](/post/just/) [left](/post/left/) [of](/post/of/) [the](/post/the/) [library](/post/library/)."
+- **[Noun](/post/noun/) (informal)**: "[The](/post/the/) candidate's policies [appeal](/post/appeal/) [to](/post/to/) [those](/post/those/) [on](/post/on/) [the](/post/the/) [political](/post/political/) [left](/post/left/)."
 
 ## Synonyms
-- [Adjective](/en/post/adjective/): [Southern](/en/post/southern/), [port](/en/post/port/) ([when](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) sides [of](/en/post/of/) [a](/en/post/a/) [ship](/en/post/ship/)), sinistral
-- [Noun](/en/post/noun/) ([direction](/en/post/direction/)): Portside ([in](/en/post/in/) maritime context)
-- [Verb](/en/post/verb/) ([past](/en/post/past/) [tense](/en/post/tense/) [of](/en/post/of/) [leave](/en/post/leave/)): Departed, exited
-- [Preposition](/en/post/preposition/): [To](/en/post/to/) [the](/en/post/the/) [port](/en/post/port/) ([in](/en/post/in/) maritime [navigation](/en/post/navigation/))
+- [Adjective](/post/adjective/): [Southern](/post/southern/), [port](/post/port/) ([when](/post/when/) referring [to](/post/to/) [the](/post/the/) sides [of](/post/of/) [a](/post/a/) [ship](/post/ship/)), sinistral
+- [Noun](/post/noun/) ([direction](/post/direction/)): Portside ([in](/post/in/) maritime context)
+- [Verb](/post/verb/) ([past](/post/past/) [tense](/post/tense/) [of](/post/of/) [leave](/post/leave/)): Departed, exited
+- [Preposition](/post/preposition/): [To](/post/to/) [the](/post/the/) [port](/post/port/) ([in](/post/in/) maritime [navigation](/post/navigation/))

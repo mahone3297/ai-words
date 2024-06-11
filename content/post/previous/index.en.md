@@ -7,33 +7,33 @@ description = '[ˈpriːviəs] a.先的；前的 ad.在前'
 keywords = ['ai words', 'previous']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪˈviːəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Occurring [or](/en/post/or/) coming [before](/en/post/before/) [in](/en/post/in/) [time](/en/post/time/), [order](/en/post/order/), [or](/en/post/or/) [sequence](/en/post/sequence/); [preceding](/en/post/preceding/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [previous](/en/post/previous/) year's sales figures."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [preceding](/en/post/preceding/) [manner](/en/post/manner/); [previously](/en/post/previously/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) had [already](/en/post/already/) discussed [the](/en/post/the/) [topic](/en/post/topic/) [with](/en/post/with/) [her](/en/post/her/) [colleague](/en/post/colleague/) [previously](/en/post/previously/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [former](/en/post/former/) [time](/en/post/time/) [or](/en/post/or/) [event](/en/post/event/); [something](/en/post/something/) [that](/en/post/that/) happened earlier. [For](/en/post/for/) [example](/en/post/example/): "I [remember](/en/post/remember/) [the](/en/post/the/) [previous](/en/post/previous/) [meeting](/en/post/meeting/)."
+- **[Adjective](/post/adjective/)**: Occurring [or](/post/or/) coming [before](/post/before/) [in](/post/in/) [time](/post/time/), [order](/post/order/), [or](/post/or/) [sequence](/post/sequence/); [preceding](/post/preceding/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [previous](/post/previous/) year's sales figures."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [preceding](/post/preceding/) [manner](/post/manner/); [previously](/post/previously/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) had [already](/post/already/) discussed [the](/post/the/) [topic](/post/topic/) [with](/post/with/) [her](/post/her/) [colleague](/post/colleague/) [previously](/post/previously/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [former](/post/former/) [time](/post/time/) [or](/post/or/) [event](/post/event/); [something](/post/something/) [that](/post/that/) happened earlier. [For](/post/for/) [example](/post/example/): "I [remember](/post/remember/) [the](/post/the/) [previous](/post/previous/) [meeting](/post/meeting/)."
 
 ## Phrases
-- "[Previous](/en/post/previous/) [experience](/en/post/experience/)" refers [to](/en/post/to/) [past](/en/post/past/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) skills [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/).
-- "[Previous](/en/post/previous/) [to](/en/post/to/) [that](/en/post/that/)" indicates [something](/en/post/something/) [that](/en/post/that/) happened [before](/en/post/before/) [another](/en/post/another/) [event](/en/post/event/).
-- "[Previous](/en/post/previous/) [work](/en/post/work/)" denotes [work](/en/post/work/) done [before](/en/post/before/) [the](/en/post/the/) [current](/en/post/current/) [project](/en/post/project/) [or](/en/post/or/) [task](/en/post/task/).
+- "[Previous](/post/previous/) [experience](/post/experience/)" refers [to](/post/to/) [past](/post/past/) [knowledge](/post/knowledge/) [or](/post/or/) skills [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/).
+- "[Previous](/post/previous/) [to](/post/to/) [that](/post/that/)" indicates [something](/post/something/) [that](/post/that/) happened [before](/post/before/) [another](/post/another/) [event](/post/event/).
+- "[Previous](/post/previous/) [work](/post/work/)" denotes [work](/post/work/) done [before](/post/before/) [the](/post/the/) [current](/post/current/) [project](/post/project/) [or](/post/or/) [task](/post/task/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [previous](/en/post/previous/) applicant had [more](/en/post/more/) [relevant](/en/post/relevant/) qualifications."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) mentioned [the](/en/post/the/) [previous](/en/post/previous/) [discussion](/en/post/discussion/) [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **[Noun](/en/post/noun/)**: "[Can](/en/post/can/) [you](/en/post/you/) [review](/en/post/review/) [the](/en/post/the/) [previous](/en/post/previous/) decisions made [by](/en/post/by/) [the](/en/post/the/) [committee](/en/post/committee/)?"
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [previous](/post/previous/) applicant had [more](/post/more/) [relevant](/post/relevant/) qualifications."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) mentioned [the](/post/the/) [previous](/post/previous/) [discussion](/post/discussion/) [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
+- **[Noun](/post/noun/)**: "[Can](/post/can/) [you](/post/you/) [review](/post/review/) [the](/post/the/) [previous](/post/previous/) decisions made [by](/post/by/) [the](/post/the/) [committee](/post/committee/)?"
 
 ## Synonyms
-- [Former](/en/post/former/)
-- [Past](/en/post/past/)
+- [Former](/post/former/)
+- [Past](/post/past/)
 - Earlier
-- [Prior](/en/post/prior/)
+- [Prior](/post/prior/)
 - Antecedent
-- [Preceding](/en/post/preceding/)
+- [Preceding](/post/preceding/)
 - Formerly
 
-## [Usage](/en/post/usage/) Notes
-- "[Previous](/en/post/previous/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [comparative](/en/post/comparative/) [form](/en/post/form/) [of](/en/post/of/) [the](/en/post/the/) [adjective](/en/post/adjective/) "[more](/en/post/more/) [previous](/en/post/previous/)" [or](/en/post/or/) superlative "[most](/en/post/most/) [previous](/en/post/previous/)," [meaning](/en/post/meaning/) "earlier" [or](/en/post/or/) "[more](/en/post/more/) [preceding](/en/post/preceding/)."
-- [When](/en/post/when/) referring [to](/en/post/to/) [people](/en/post/people/), "[previous](/en/post/previous/)" [may](/en/post/may/) [imply](/en/post/imply/) [a](/en/post/a/) [specific](/en/post/specific/) [individual](/en/post/individual/) [rather](/en/post/rather/) [than](/en/post/than/) [a](/en/post/a/) [general](/en/post/general/) [sense](/en/post/sense/) [of](/en/post/of/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/), "[My](/en/post/my/) [previous](/en/post/previous/) [boss](/en/post/boss/) was [very](/en/post/very/) [strict](/en/post/strict/)."
+## [Usage](/post/usage/) Notes
+- "[Previous](/post/previous/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [comparative](/post/comparative/) [form](/post/form/) [of](/post/of/) [the](/post/the/) [adjective](/post/adjective/) "[more](/post/more/) [previous](/post/previous/)" [or](/post/or/) superlative "[most](/post/most/) [previous](/post/previous/)," [meaning](/post/meaning/) "earlier" [or](/post/or/) "[more](/post/more/) [preceding](/post/preceding/)."
+- [When](/post/when/) referring [to](/post/to/) [people](/post/people/), "[previous](/post/previous/)" [may](/post/may/) [imply](/post/imply/) [a](/post/a/) [specific](/post/specific/) [individual](/post/individual/) [rather](/post/rather/) [than](/post/than/) [a](/post/a/) [general](/post/general/) [sense](/post/sense/) [of](/post/of/) [time](/post/time/). [For](/post/for/) [example](/post/example/), "[My](/post/my/) [previous](/post/previous/) [boss](/post/boss/) was [very](/post/very/) [strict](/post/strict/)."

@@ -7,29 +7,29 @@ description = '[ˈsəuldʒə] n.(陆军)士兵，军人'
 keywords = ['ai words', 'soldier']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈləʊdr/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) serves [as](/en/post/as/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) armed forces, typically [a](/en/post/a/) land-based combatant. **[countable]**
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) [a](/en/post/a/) [soldier](/en/post/soldier/), [often](/en/post/often/) [by](/en/post/by/) enlisting [or](/en/post/or/) [being](/en/post/being/) conscripted. **[transitive]**
-- **[Adjective](/en/post/adjective/)**: Characterizing [or](/en/post/or/) relating [to](/en/post/to/) [a](/en/post/a/) [soldier](/en/post/soldier/), [military](/en/post/military/), [or](/en/post/or/) warfare. **[[adjective](/en/post/adjective/), [usually](/en/post/usually/) [before](/en/post/before/) [a](/en/post/a/) [noun](/en/post/noun/)]**
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) serves [as](/post/as/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [the](/post/the/) armed forces, typically [a](/post/a/) land-based combatant. **[countable]**
+- **[Verb](/post/verb/)**: [To](/post/to/) [serve](/post/serve/) [as](/post/as/) [a](/post/a/) [soldier](/post/soldier/), [often](/post/often/) [by](/post/by/) enlisting [or](/post/or/) [being](/post/being/) conscripted. **[transitive]**
+- **[Adjective](/post/adjective/)**: Characterizing [or](/post/or/) relating [to](/post/to/) [a](/post/a/) [soldier](/post/soldier/), [military](/post/military/), [or](/post/or/) warfare. **[[adjective](/post/adjective/), [usually](/post/usually/) [before](/post/before/) [a](/post/a/) [noun](/post/noun/)]**
 
 ## Phrases
-- "[Join](/en/post/join/) [the](/en/post/the/) ranks [of](/en/post/of/) soldiers" [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [military](/en/post/military/) [force](/en/post/force/).
-- "[A](/en/post/a/) soldier's [life](/en/post/life/)" refers [to](/en/post/to/) [the](/en/post/the/) experiences [and](/en/post/and/) duties [of](/en/post/of/) [a](/en/post/a/) [military](/en/post/military/) [personnel](/en/post/personnel/).
-- "[The](/en/post/the/) [soldier](/en/post/soldier/) fought bravely" describes valorous combat.
+- "[Join](/post/join/) [the](/post/the/) ranks [of](/post/of/) soldiers" [means](/post/means/) [to](/post/to/) [become](/post/become/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [military](/post/military/) [force](/post/force/).
+- "[A](/post/a/) soldier's [life](/post/life/)" refers [to](/post/to/) [the](/post/the/) experiences [and](/post/and/) duties [of](/post/of/) [a](/post/a/) [military](/post/military/) [personnel](/post/personnel/).
+- "[The](/post/the/) [soldier](/post/soldier/) fought bravely" describes valorous combat.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [soldier](/en/post/soldier/) was awarded [a](/en/post/a/) [medal](/en/post/medal/) [for](/en/post/for/) [his](/en/post/his/) bravery [in](/en/post/in/) [battle](/en/post/battle/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [basic](/en/post/basic/) [training](/en/post/training/), [he](/en/post/he/) proudly became [a](/en/post/a/) [soldier](/en/post/soldier/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) soldier's [uniform](/en/post/uniform/) was crisp [and](/en/post/and/) [clean](/en/post/clean/), reflecting [his](/en/post/his/) dedication."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [soldier](/post/soldier/) was awarded [a](/post/a/) [medal](/post/medal/) [for](/post/for/) [his](/post/his/) bravery [in](/post/in/) [battle](/post/battle/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) finishing [basic](/post/basic/) [training](/post/training/), [he](/post/he/) proudly became [a](/post/a/) [soldier](/post/soldier/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) soldier's [uniform](/post/uniform/) was crisp [and](/post/and/) [clean](/post/clean/), reflecting [his](/post/his/) dedication."
 
 ## Synonyms
 - Trooper
 - Warrior
-- [Military](/en/post/military/) [personnel](/en/post/personnel/)
--GI (Gee-Oh-Why, referring [to](/en/post/to/) U.S. [Army](/en/post/army/))
-- Warrior (informal, [especially](/en/post/especially/) [in](/en/post/in/) British English)
+- [Military](/post/military/) [personnel](/post/personnel/)
+-GI (Gee-Oh-Why, referring [to](/post/to/) U.S. [Army](/post/army/))
+- Warrior (informal, [especially](/post/especially/) [in](/post/in/) British English)
 - Fighter
-- Reconnaissance ([when](/en/post/when/) describing [a](/en/post/a/) soldier's [role](/en/post/role/))
+- Reconnaissance ([when](/post/when/) describing [a](/post/a/) soldier's [role](/post/role/))

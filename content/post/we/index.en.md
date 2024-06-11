@@ -7,38 +7,38 @@ description = '[wiː] pron.(主格)我们'
 keywords = ['ai words', 'we']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[we](/en/post/we/)/
+## [Pronunciation](/post/pronunciation/)
+/[we](/post/we/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [collective](/en/post/collective/) [pronoun](/en/post/pronoun/)** [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [people](/en/post/people/) collectively [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [group](/en/post/group/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [discuss](/en/post/discuss/) [the](/en/post/the/) [plan](/en/post/plan/) [as](/en/post/as/) [a](/en/post/a/) [team](/en/post/team/)."
-- **Refers [to](/en/post/to/) [the](/en/post/the/) first-person [plural](/en/post/plural/) [pronoun](/en/post/pronoun/)** [in](/en/post/in/) English, indicating [that](/en/post/that/) [the](/en/post/the/) [speaker](/en/post/speaker/) [and](/en/post/and/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) others are included. [For](/en/post/for/) [example](/en/post/example/): "We're going [to](/en/post/to/) [the](/en/post/the/) movies [tonight](/en/post/tonight/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [collective](/post/collective/) [pronoun](/post/pronoun/)** [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [people](/post/people/) collectively [or](/post/or/) [as](/post/as/) [a](/post/a/) [group](/post/group/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) [plan](/post/plan/) [as](/post/as/) [a](/post/a/) [team](/post/team/)."
+- **Refers [to](/post/to/) [the](/post/the/) first-person [plural](/post/plural/) [pronoun](/post/pronoun/)** [in](/post/in/) English, indicating [that](/post/that/) [the](/post/the/) [speaker](/post/speaker/) [and](/post/and/) [one](/post/one/) [or](/post/or/) [more](/post/more/) others are included. [For](/post/for/) [example](/post/example/): "We're going [to](/post/to/) [the](/post/the/) movies [tonight](/post/tonight/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [indicate](/en/post/indicate/) shared membership [or](/en/post/or/) involvement**. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) agreed [to](/en/post/to/) [take](/en/post/take/) [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/) [together](/en/post/together/)."
-- **[To](/en/post/to/) [express](/en/post/express/) [unity](/en/post/unity/) [or](/en/post/or/) [agreement](/en/post/agreement/) [with](/en/post/with/) [a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [idea](/en/post/idea/)**. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [all](/en/post/all/) [think](/en/post/think/) [the](/en/post/the/) [solution](/en/post/solution/) is [to](/en/post/to/) [start](/en/post/start/) [early](/en/post/early/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [indicate](/post/indicate/) shared membership [or](/post/or/) involvement**. [For](/post/for/) [example](/post/example/): "[We](/post/we/) agreed [to](/post/to/) [take](/post/take/) [on](/post/on/) [the](/post/the/) [project](/post/project/) [together](/post/together/)."
+- **[To](/post/to/) [express](/post/express/) [unity](/post/unity/) [or](/post/or/) [agreement](/post/agreement/) [with](/post/with/) [a](/post/a/) [statement](/post/statement/) [or](/post/or/) [idea](/post/idea/)**. [For](/post/for/) [example](/post/example/): "[We](/post/we/) [all](/post/all/) [think](/post/think/) [the](/post/the/) [solution](/post/solution/) is [to](/post/to/) [start](/post/start/) [early](/post/early/)."
 
-### [Pronoun](/en/post/pronoun/)
-- Refers [to](/en/post/to/) [the](/en/post/the/) [speaker](/en/post/speaker/) [and](/en/post/and/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) [other](/en/post/other/) individuals, functioning [as](/en/post/as/) [a](/en/post/a/) [subject](/en/post/subject/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) are [responsible](/en/post/responsible/) [for](/en/post/for/) cleaning [up](/en/post/up/) [the](/en/post/the/) [mess](/en/post/mess/)."
+### [Pronoun](/post/pronoun/)
+- Refers [to](/post/to/) [the](/post/the/) [speaker](/post/speaker/) [and](/post/and/) [one](/post/one/) [or](/post/or/) [more](/post/more/) [other](/post/other/) individuals, functioning [as](/post/as/) [a](/post/a/) [subject](/post/subject/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) are [responsible](/post/responsible/) [for](/post/for/) cleaning [up](/post/up/) [the](/post/the/) [mess](/post/mess/)."
 
 ## Phrases
-- "[We](/en/post/we/) [three](/en/post/three/)" denotes [a](/en/post/a/) [group](/en/post/group/) consisting [of](/en/post/of/) [three](/en/post/three/) individuals.
-- "[In](/en/post/in/) [our](/en/post/our/) [opinion](/en/post/opinion/)" expresses [the](/en/post/the/) [collective](/en/post/collective/) [view](/en/post/view/) [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/).
-- "It's [just](/en/post/just/) [us](/en/post/us/)" signifies [that](/en/post/that/) [there](/en/post/there/) are [only](/en/post/only/) [two](/en/post/two/) [people](/en/post/people/) involved.
+- "[We](/post/we/) [three](/post/three/)" denotes [a](/post/a/) [group](/post/group/) consisting [of](/post/of/) [three](/post/three/) individuals.
+- "[In](/post/in/) [our](/post/our/) [opinion](/post/opinion/)" expresses [the](/post/the/) [collective](/post/collective/) [view](/post/view/) [of](/post/of/) [a](/post/a/) [group](/post/group/).
+- "It's [just](/post/just/) [us](/post/us/)" signifies [that](/post/that/) [there](/post/there/) are [only](/post/only/) [two](/post/two/) [people](/post/people/) involved.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [whole](/en/post/whole/) [class](/en/post/class/) is going [on](/en/post/on/) [a](/en/post/a/) [field](/en/post/field/) [trip](/en/post/trip/) [we](/en/post/we/)."
-- **[Verb](/en/post/verb/)**: "Let's [decide](/en/post/decide/) [on](/en/post/on/) [a](/en/post/a/) [meeting](/en/post/meeting/) [time](/en/post/time/) [we](/en/post/we/) [can](/en/post/can/) [all](/en/post/all/) [attend](/en/post/attend/)."
-- **[Pronoun](/en/post/pronoun/)**: "It's [up](/en/post/up/) [to](/en/post/to/) [we](/en/post/we/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [decision](/en/post/decision/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [whole](/post/whole/) [class](/post/class/) is going [on](/post/on/) [a](/post/a/) [field](/post/field/) [trip](/post/trip/) [we](/post/we/)."
+- **[Verb](/post/verb/)**: "Let's [decide](/post/decide/) [on](/post/on/) [a](/post/a/) [meeting](/post/meeting/) [time](/post/time/) [we](/post/we/) [can](/post/can/) [all](/post/all/) [attend](/post/attend/)."
+- **[Pronoun](/post/pronoun/)**: "It's [up](/post/up/) [to](/post/to/) [we](/post/we/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [decision](/post/decision/)."
 
 ## Synonyms
-- [Us](/en/post/us/)
-- [Our](/en/post/our/)
-- [Ourselves](/en/post/ourselves/)
-- We'll (contraction [of](/en/post/of/) "[we](/en/post/we/) [will](/en/post/will/)")
-- [Team](/en/post/team/)
-- [Group](/en/post/group/)
-- [Collective](/en/post/collective/)
+- [Us](/post/us/)
+- [Our](/post/our/)
+- [Ourselves](/post/ourselves/)
+- We'll (contraction [of](/post/of/) "[we](/post/we/) [will](/post/will/)")
+- [Team](/post/team/)
+- [Group](/post/group/)
+- [Collective](/post/collective/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) "[we](/en/post/we/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [to](/en/post/to/) [mean](/en/post/mean/) "[to](/en/post/to/) [greet](/en/post/greet/)" is [less](/en/post/less/) [common](/en/post/common/) [in](/en/post/in/) [modern](/en/post/modern/) English, [but](/en/post/but/) [it](/en/post/it/) is [still](/en/post/still/) recognized [in](/en/post/in/) [some](/en/post/some/) informal contexts. [The](/en/post/the/) [main](/en/post/main/) [usage](/en/post/usage/) [of](/en/post/of/) "[we](/en/post/we/)" is [as](/en/post/as/) [a](/en/post/a/) [pronoun](/en/post/pronoun/) [and](/en/post/and/) [noun](/en/post/noun/).
+[Note](/post/note/): [The](/post/the/) [use](/post/use/) [of](/post/of/) "[we](/post/we/)" [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [to](/post/to/) [mean](/post/mean/) "[to](/post/to/) [greet](/post/greet/)" is [less](/post/less/) [common](/post/common/) [in](/post/in/) [modern](/post/modern/) English, [but](/post/but/) [it](/post/it/) is [still](/post/still/) recognized [in](/post/in/) [some](/post/some/) informal contexts. [The](/post/the/) [main](/post/main/) [usage](/post/usage/) [of](/post/of/) "[we](/post/we/)" is [as](/post/as/) [a](/post/a/) [pronoun](/post/pronoun/) [and](/post/and/) [noun](/post/noun/).

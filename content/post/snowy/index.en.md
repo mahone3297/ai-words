@@ -7,22 +7,22 @@ description = '[ˈsnəui] a.雪的，下雪的'
 keywords = ['ai words', 'snowy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /nəʊˈsi/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [the](/en/post/the/) [presence](/en/post/presence/) [of](/en/post/of/) [snow](/en/post/snow/); having [a](/en/post/a/) covering [or](/en/post/or/) accumulation [of](/en/post/of/) [snow](/en/post/snow/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [snowy](/en/post/snowy/) landscape was breathtaking."
-- **[Noun](/en/post/noun/)**: Snowfall [or](/en/post/or/) [a](/en/post/a/) [layer](/en/post/layer/) [of](/en/post/of/) [snow](/en/post/snow/) [on](/en/post/on/) [a](/en/post/a/) [surface](/en/post/surface/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/), [the](/en/post/the/) [ground](/en/post/ground/) was covered [in](/en/post/in/) [a](/en/post/a/) [thick](/en/post/thick/) [layer](/en/post/layer/) [of](/en/post/of/) [snowy](/en/post/snowy/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [the](/post/the/) [presence](/post/presence/) [of](/post/of/) [snow](/post/snow/); having [a](/post/a/) covering [or](/post/or/) accumulation [of](/post/of/) [snow](/post/snow/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [snowy](/post/snowy/) landscape was breathtaking."
+- **[Noun](/post/noun/)**: Snowfall [or](/post/or/) [a](/post/a/) [layer](/post/layer/) [of](/post/of/) [snow](/post/snow/) [on](/post/on/) [a](/post/a/) [surface](/post/surface/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) [the](/post/the/) [storm](/post/storm/), [the](/post/the/) [ground](/post/ground/) was covered [in](/post/in/) [a](/post/a/) [thick](/post/thick/) [layer](/post/layer/) [of](/post/of/) [snowy](/post/snowy/)."
 
 ## Phrases
-- "[A](/en/post/a/) [snowy](/en/post/snowy/) [day](/en/post/day/)" describes [a](/en/post/a/) [day](/en/post/day/) [with](/en/post/with/) falling [or](/en/post/or/) existing [snow](/en/post/snow/).
-- "[Under](/en/post/under/) [a](/en/post/a/) [snowy](/en/post/snowy/) [sky](/en/post/sky/)" implies [a](/en/post/a/) [scene](/en/post/scene/) [with](/en/post/with/) snowflakes falling [or](/en/post/or/) [a](/en/post/a/) [white](/en/post/white/) overcast.
-- "[Snowy](/en/post/snowy/) slopes" are hills [or](/en/post/or/) mountains covered [in](/en/post/in/) [snow](/en/post/snow/) [for](/en/post/for/) skiing [or](/en/post/or/) [winter](/en/post/winter/) sports.
+- "[A](/post/a/) [snowy](/post/snowy/) [day](/post/day/)" describes [a](/post/a/) [day](/post/day/) [with](/post/with/) falling [or](/post/or/) existing [snow](/post/snow/).
+- "[Under](/post/under/) [a](/post/a/) [snowy](/post/snowy/) [sky](/post/sky/)" implies [a](/post/a/) [scene](/post/scene/) [with](/post/with/) snowflakes falling [or](/post/or/) [a](/post/a/) [white](/post/white/) overcast.
+- "[Snowy](/post/snowy/) slopes" are hills [or](/post/or/) mountains covered [in](/post/in/) [snow](/post/snow/) [for](/post/for/) skiing [or](/post/or/) [winter](/post/winter/) sports.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [snowy](/en/post/snowy/) [path](/en/post/path/) led [to](/en/post/to/) [the](/en/post/the/) [cabin](/en/post/cabin/) [in](/en/post/in/) [the](/en/post/the/) woods."
-- **[Noun](/en/post/noun/)**: "Children built [a](/en/post/a/) snowman [in](/en/post/in/) [the](/en/post/the/) [snowy](/en/post/snowy/) backyard."
-- "[It](/en/post/it/) was [a](/en/post/a/) [snowy](/en/post/snowy/) Christmas [Eve](/en/post/eve/), filled [with](/en/post/with/) festive [cheer](/en/post/cheer/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [snowy](/post/snowy/) [path](/post/path/) led [to](/post/to/) [the](/post/the/) [cabin](/post/cabin/) [in](/post/in/) [the](/post/the/) woods."
+- **[Noun](/post/noun/)**: "Children built [a](/post/a/) snowman [in](/post/in/) [the](/post/the/) [snowy](/post/snowy/) backyard."
+- "[It](/post/it/) was [a](/post/a/) [snowy](/post/snowy/) Christmas [Eve](/post/eve/), filled [with](/post/with/) festive [cheer](/post/cheer/)."
 
 ## Synonyms
 - Whiteout
@@ -32,8 +32,8 @@ keywords = ['ai words', 'snowy']
 - Winter-white
 
 ## Antonyms
-- [Sunny](/en/post/sunny/)
-- [Rainy](/en/post/rainy/)
-- [Clear](/en/post/clear/)
-- [Bare](/en/post/bare/)
+- [Sunny](/post/sunny/)
+- [Rainy](/post/rainy/)
+- [Clear](/post/clear/)
+- [Bare](/post/bare/)
 - Ice-free

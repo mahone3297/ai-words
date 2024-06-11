@@ -7,34 +7,34 @@ description = '[ˈlibəti] n.自由；释放；许可'
 keywords = ['ai words', 'liberty']
 +++
 
-## [Word](/en/post/word/): [Liberty](/en/post/liberty/)
+## [Word](/post/word/): [Liberty](/post/liberty/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɪbərti/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-1. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [free](/en/post/free/) [within](/en/post/within/) [society](/en/post/society/) [from](/en/post/from/) oppressive restrictions imposed [by](/en/post/by/) [authority](/en/post/authority/) [on](/en/post/on/) one's [way](/en/post/way/) [of](/en/post/of/) [life](/en/post/life/), [behavior](/en/post/behavior/), [or](/en/post/or/) [political](/en/post/political/) views. [Example](/en/post/example/): "[The](/en/post/the/) [people](/en/post/people/) demanded [liberty](/en/post/liberty/) [and](/en/post/and/) [the](/en/post/the/) [right](/en/post/right/) [to](/en/post/to/) self-governance."
-2. [A](/en/post/a/) [specific](/en/post/specific/) [right](/en/post/right/) [or](/en/post/or/) [privilege](/en/post/privilege/), [especially](/en/post/especially/) [one](/en/post/one/) considered [to](/en/post/to/) [be](/en/post/be/) [fundamental](/en/post/fundamental/). [Example](/en/post/example/): "[Freedom](/en/post/freedom/) [of](/en/post/of/) [speech](/en/post/speech/) is [a](/en/post/a/) cherished [liberty](/en/post/liberty/) [in](/en/post/in/) [democratic](/en/post/democratic/) societies."
-3. [A](/en/post/a/) [period](/en/post/period/) allowed [for](/en/post/for/) [leave](/en/post/leave/) [from](/en/post/from/) [a](/en/post/a/) [place](/en/post/place/) [of](/en/post/of/) confinement, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [prison](/en/post/prison/) [or](/en/post/or/) [military](/en/post/military/) [service](/en/post/service/). [Example](/en/post/example/): "[The](/en/post/the/) [prisoner](/en/post/prisoner/) was granted [a](/en/post/a/) day's [liberty](/en/post/liberty/) [to](/en/post/to/) [visit](/en/post/visit/) [his](/en/post/his/) [family](/en/post/family/)."
-4. [A](/en/post/a/) [female](/en/post/female/) personification [of](/en/post/of/) [freedom](/en/post/freedom/), [often](/en/post/often/) depicted [as](/en/post/as/) [a](/en/post/a/) [figure](/en/post/figure/) holding [a](/en/post/a/) [torch](/en/post/torch/), [as](/en/post/as/) [in](/en/post/in/) [the](/en/post/the/) [Statue](/en/post/statue/) [of](/en/post/of/) [Liberty](/en/post/liberty/).
+### [Noun](/post/noun/) (n)
+1. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [free](/post/free/) [within](/post/within/) [society](/post/society/) [from](/post/from/) oppressive restrictions imposed [by](/post/by/) [authority](/post/authority/) [on](/post/on/) one's [way](/post/way/) [of](/post/of/) [life](/post/life/), [behavior](/post/behavior/), [or](/post/or/) [political](/post/political/) views. [Example](/post/example/): "[The](/post/the/) [people](/post/people/) demanded [liberty](/post/liberty/) [and](/post/and/) [the](/post/the/) [right](/post/right/) [to](/post/to/) self-governance."
+2. [A](/post/a/) [specific](/post/specific/) [right](/post/right/) [or](/post/or/) [privilege](/post/privilege/), [especially](/post/especially/) [one](/post/one/) considered [to](/post/to/) [be](/post/be/) [fundamental](/post/fundamental/). [Example](/post/example/): "[Freedom](/post/freedom/) [of](/post/of/) [speech](/post/speech/) is [a](/post/a/) cherished [liberty](/post/liberty/) [in](/post/in/) [democratic](/post/democratic/) societies."
+3. [A](/post/a/) [period](/post/period/) allowed [for](/post/for/) [leave](/post/leave/) [from](/post/from/) [a](/post/a/) [place](/post/place/) [of](/post/of/) confinement, [such](/post/such/) [as](/post/as/) [a](/post/a/) [prison](/post/prison/) [or](/post/or/) [military](/post/military/) [service](/post/service/). [Example](/post/example/): "[The](/post/the/) [prisoner](/post/prisoner/) was granted [a](/post/a/) day's [liberty](/post/liberty/) [to](/post/to/) [visit](/post/visit/) [his](/post/his/) [family](/post/family/)."
+4. [A](/post/a/) [female](/post/female/) personification [of](/post/of/) [freedom](/post/freedom/), [often](/post/often/) depicted [as](/post/as/) [a](/post/a/) [figure](/post/figure/) holding [a](/post/a/) [torch](/post/torch/), [as](/post/as/) [in](/post/in/) [the](/post/the/) [Statue](/post/statue/) [of](/post/of/) [Liberty](/post/liberty/).
 
-### [Adjective](/en/post/adjective/) (adj)
-1. [Not](/en/post/not/) [under](/en/post/under/) [the](/en/post/the/) [control](/en/post/control/) [or](/en/post/or/) [in](/en/post/in/) [the](/en/post/the/) [power](/en/post/power/) [of](/en/post/of/) [another](/en/post/another/); [able](/en/post/able/) [to](/en/post/to/) [act](/en/post/act/) [or](/en/post/or/) [be](/en/post/be/) done [as](/en/post/as/) [one](/en/post/one/) wishes. [Example](/en/post/example/): "[They](/en/post/they/) took [the](/en/post/the/) [liberty](/en/post/liberty/) [to](/en/post/to/) rearrange [the](/en/post/the/) [furniture](/en/post/furniture/) [in](/en/post/in/) [the](/en/post/the/) [room](/en/post/room/)."
+### [Adjective](/post/adjective/) (adj)
+1. [Not](/post/not/) [under](/post/under/) [the](/post/the/) [control](/post/control/) [or](/post/or/) [in](/post/in/) [the](/post/the/) [power](/post/power/) [of](/post/of/) [another](/post/another/); [able](/post/able/) [to](/post/to/) [act](/post/act/) [or](/post/or/) [be](/post/be/) done [as](/post/as/) [one](/post/one/) wishes. [Example](/post/example/): "[They](/post/they/) took [the](/post/the/) [liberty](/post/liberty/) [to](/post/to/) rearrange [the](/post/the/) [furniture](/post/furniture/) [in](/post/in/) [the](/post/the/) [room](/post/room/)."
 
 ## Phrases
-- "[Liberty](/en/post/liberty/) [Bell](/en/post/bell/)" - An iconic [symbol](/en/post/symbol/) [of](/en/post/of/) [American](/en/post/american/) [independence](/en/post/independence/), located [in](/en/post/in/) Philadelphia.
-- "[At](/en/post/at/) [liberty](/en/post/liberty/)" - [Being](/en/post/being/) [free](/en/post/free/) [to](/en/post/to/) [do](/en/post/do/) [as](/en/post/as/) [one](/en/post/one/) chooses [or](/en/post/or/) [not](/en/post/not/) [under](/en/post/under/) [any](/en/post/any/) obligation. [Example](/en/post/example/): "[After](/en/post/after/) finishing [her](/en/post/her/) [work](/en/post/work/), [she](/en/post/she/) was [at](/en/post/at/) [liberty](/en/post/liberty/) [to](/en/post/to/) [spend](/en/post/spend/) [the](/en/post/the/) [evening](/en/post/evening/) [as](/en/post/as/) [she](/en/post/she/) pleased."
-- "[Take](/en/post/take/) liberties [with](/en/post/with/)" - [To](/en/post/to/) [treat](/en/post/treat/) [something](/en/post/something/) carelessly [or](/en/post/or/) disrespectfully, [often](/en/post/often/) [by](/en/post/by/) altering [it](/en/post/it/) [without](/en/post/without/) [permission](/en/post/permission/). [Example](/en/post/example/): "[The](/en/post/the/) [film](/en/post/film/) [director](/en/post/director/) took liberties [with](/en/post/with/) [the](/en/post/the/) [original](/en/post/original/) novel's [plot](/en/post/plot/)."
+- "[Liberty](/post/liberty/) [Bell](/post/bell/)" - An iconic [symbol](/post/symbol/) [of](/post/of/) [American](/post/american/) [independence](/post/independence/), located [in](/post/in/) Philadelphia.
+- "[At](/post/at/) [liberty](/post/liberty/)" - [Being](/post/being/) [free](/post/free/) [to](/post/to/) [do](/post/do/) [as](/post/as/) [one](/post/one/) chooses [or](/post/or/) [not](/post/not/) [under](/post/under/) [any](/post/any/) obligation. [Example](/post/example/): "[After](/post/after/) finishing [her](/post/her/) [work](/post/work/), [she](/post/she/) was [at](/post/at/) [liberty](/post/liberty/) [to](/post/to/) [spend](/post/spend/) [the](/post/the/) [evening](/post/evening/) [as](/post/as/) [she](/post/she/) pleased."
+- "[Take](/post/take/) liberties [with](/post/with/)" - [To](/post/to/) [treat](/post/treat/) [something](/post/something/) carelessly [or](/post/or/) disrespectfully, [often](/post/often/) [by](/post/by/) altering [it](/post/it/) [without](/post/without/) [permission](/post/permission/). [Example](/post/example/): "[The](/post/the/) [film](/post/film/) [director](/post/director/) took liberties [with](/post/with/) [the](/post/the/) [original](/post/original/) novel's [plot](/post/plot/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [pursuit](/en/post/pursuit/) [of](/en/post/of/) [liberty](/en/post/liberty/) has been [a](/en/post/a/) driving [force](/en/post/force/) [throughout](/en/post/throughout/) [human](/en/post/human/) [history](/en/post/history/)."
-- **[Adjective](/en/post/adjective/)**: "[Although](/en/post/although/) [they](/en/post/they/) were guests, [they](/en/post/they/) felt [quite](/en/post/quite/) [at](/en/post/at/) [liberty](/en/post/liberty/) [to](/en/post/to/) [help](/en/post/help/) [themselves](/en/post/themselves/) [to](/en/post/to/) [food](/en/post/food/) [from](/en/post/from/) [the](/en/post/the/) [fridge](/en/post/fridge/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [pursuit](/post/pursuit/) [of](/post/of/) [liberty](/post/liberty/) has been [a](/post/a/) driving [force](/post/force/) [throughout](/post/throughout/) [human](/post/human/) [history](/post/history/)."
+- **[Adjective](/post/adjective/)**: "[Although](/post/although/) [they](/post/they/) were guests, [they](/post/they/) felt [quite](/post/quite/) [at](/post/at/) [liberty](/post/liberty/) [to](/post/to/) [help](/post/help/) [themselves](/post/themselves/) [to](/post/to/) [food](/post/food/) [from](/post/from/) [the](/post/the/) [fridge](/post/fridge/)."
 
 ## Synonyms
-- [Freedom](/en/post/freedom/)
-- [Independence](/en/post/independence/)
+- [Freedom](/post/freedom/)
+- [Independence](/post/independence/)
 - Autonomy
 - Unfetteredness
 - Self-determination
-- [Free](/en/post/free/) [will](/en/post/will/)
+- [Free](/post/free/) [will](/post/will/)

@@ -7,29 +7,29 @@ description = '[ˈlæbərətəri] n.实验室，研究室'
 keywords = ['ai words', 'laboratory']
 +++
 
-## [Word](/en/post/word/): [Laboratory](/en/post/laboratory/)
+## [Word](/post/word/): [Laboratory](/post/laboratory/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlæbrətəri/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [room](/en/post/room/) [or](/en/post/or/) [building](/en/post/building/) equipped [for](/en/post/for/) [scientific](/en/post/scientific/) [research](/en/post/research/), experimentation, [or](/en/post/or/) [analysis](/en/post/analysis/). [It](/en/post/it/) typically contains specialized [equipment](/en/post/equipment/) [and](/en/post/and/) facilities, [such](/en/post/such/) [as](/en/post/as/) workbenches, fume hoods, [and](/en/post/and/) [safety](/en/post/safety/) gear. [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [chemist](/en/post/chemist/) spent [most](/en/post/most/) [of](/en/post/of/) [her](/en/post/her/) [day](/en/post/day/) [in](/en/post/in/) [the](/en/post/the/) [laboratory](/en/post/laboratory/) conducting experiments."
+- **[Noun](/post/noun/)**: [A](/post/a/) [room](/post/room/) [or](/post/or/) [building](/post/building/) equipped [for](/post/for/) [scientific](/post/scientific/) [research](/post/research/), experimentation, [or](/post/or/) [analysis](/post/analysis/). [It](/post/it/) typically contains specialized [equipment](/post/equipment/) [and](/post/and/) facilities, [such](/post/such/) [as](/post/as/) workbenches, fume hoods, [and](/post/and/) [safety](/post/safety/) gear. [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [chemist](/post/chemist/) spent [most](/post/most/) [of](/post/of/) [her](/post/her/) [day](/post/day/) [in](/post/in/) [the](/post/the/) [laboratory](/post/laboratory/) conducting experiments."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- "[The](/en/post/the/) students were fascinated [by](/en/post/by/) [the](/en/post/the/) array [of](/en/post/of/) microscopes [in](/en/post/in/) [the](/en/post/the/) [biology](/en/post/biology/) [laboratory](/en/post/laboratory/)."
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- "[The](/post/the/) students were fascinated [by](/post/by/) [the](/post/the/) array [of](/post/of/) microscopes [in](/post/in/) [the](/post/the/) [biology](/post/biology/) [laboratory](/post/laboratory/)."
 
 ## Phrases
-- "[Laboratory](/en/post/laboratory/) [experiment](/en/post/experiment/)": [A](/en/post/a/) [scientific](/en/post/scientific/) [procedure](/en/post/procedure/) carried [out](/en/post/out/) [in](/en/post/in/) [a](/en/post/a/) [lab](/en/post/lab/) [to](/en/post/to/) [test](/en/post/test/) [a](/en/post/a/) hypothesis [or](/en/post/or/) [demonstrate](/en/post/demonstrate/) [a](/en/post/a/) known [fact](/en/post/fact/).
-- "[Medical](/en/post/medical/) [laboratory](/en/post/laboratory/)": [A](/en/post/a/) [facility](/en/post/facility/) [where](/en/post/where/) clinical tests are performed [on](/en/post/on/) biological specimens [to](/en/post/to/) [obtain](/en/post/obtain/) [information](/en/post/information/) [about](/en/post/about/) [a](/en/post/a/) patient's [health](/en/post/health/).
-- "[Research](/en/post/research/) [laboratory](/en/post/laboratory/)": [A](/en/post/a/) [space](/en/post/space/) dedicated [to](/en/post/to/) conducting [original](/en/post/original/) [research](/en/post/research/) [in](/en/post/in/) [various](/en/post/various/) fields, [like](/en/post/like/) [physics](/en/post/physics/), [chemistry](/en/post/chemistry/), [or](/en/post/or/) [biology](/en/post/biology/).
+- "[Laboratory](/post/laboratory/) [experiment](/post/experiment/)": [A](/post/a/) [scientific](/post/scientific/) [procedure](/post/procedure/) carried [out](/post/out/) [in](/post/in/) [a](/post/a/) [lab](/post/lab/) [to](/post/to/) [test](/post/test/) [a](/post/a/) hypothesis [or](/post/or/) [demonstrate](/post/demonstrate/) [a](/post/a/) known [fact](/post/fact/).
+- "[Medical](/post/medical/) [laboratory](/post/laboratory/)": [A](/post/a/) [facility](/post/facility/) [where](/post/where/) clinical tests are performed [on](/post/on/) biological specimens [to](/post/to/) [obtain](/post/obtain/) [information](/post/information/) [about](/post/about/) [a](/post/a/) patient's [health](/post/health/).
+- "[Research](/post/research/) [laboratory](/post/laboratory/)": [A](/post/a/) [space](/post/space/) dedicated [to](/post/to/) conducting [original](/post/original/) [research](/post/research/) [in](/post/in/) [various](/post/various/) fields, [like](/post/like/) [physics](/post/physics/), [chemistry](/post/chemistry/), [or](/post/or/) [biology](/post/biology/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [team](/en/post/team/) conducted [their](/en/post/their/) groundbreaking [research](/en/post/research/) [in](/en/post/in/) [the](/en/post/the/) state-of-the-art [laboratory](/en/post/laboratory/)."
-- "[After](/en/post/after/) donning [protective](/en/post/protective/) gear, [they](/en/post/they/) entered [the](/en/post/the/) microbiology [laboratory](/en/post/laboratory/) [to](/en/post/to/) [culture](/en/post/culture/) [bacteria](/en/post/bacteria/) samples."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [team](/post/team/) conducted [their](/post/their/) groundbreaking [research](/post/research/) [in](/post/in/) [the](/post/the/) state-of-the-art [laboratory](/post/laboratory/)."
+- "[After](/post/after/) donning [protective](/post/protective/) gear, [they](/post/they/) entered [the](/post/the/) microbiology [laboratory](/post/laboratory/) [to](/post/to/) [culture](/post/culture/) [bacteria](/post/bacteria/) samples."
 
 ## Synonyms
-- [Lab](/en/post/lab/)
-- [Research](/en/post/research/) [facility](/en/post/facility/)
+- [Lab](/post/lab/)
+- [Research](/post/research/) [facility](/post/facility/)
 - Testing center
-- [Experiment](/en/post/experiment/) [station](/en/post/station/)
-- [Workshop](/en/post/workshop/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- [Experiment](/post/experiment/) [station](/post/station/)
+- [Workshop](/post/workshop/) ([in](/post/in/) [certain](/post/certain/) contexts)

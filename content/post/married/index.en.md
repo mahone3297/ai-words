@@ -7,37 +7,37 @@ description = '[ˈmærid] a.已婚的；婚姻的'
 keywords = ['ai words', 'married']
 +++
 
-## [Word](/en/post/word/): [Married](/en/post/married/)
+## [Word](/post/word/): [Married](/post/married/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmærɪd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (mar·ried / adj) Legally united [in](/en/post/in/) [marriage](/en/post/marriage/); having [a](/en/post/a/) [husband](/en/post/husband/) [or](/en/post/or/) [wife](/en/post/wife/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has been happily [married](/en/post/married/) [for](/en/post/for/) [ten](/en/post/ten/) years."
-- **[Verb](/en/post/verb/)**: (mar·ry / v) [To](/en/post/to/) [take](/en/post/take/) [someone](/en/post/someone/) [as](/en/post/as/) one's [husband](/en/post/husband/) [or](/en/post/or/) [wife](/en/post/wife/), [or](/en/post/or/) [to](/en/post/to/) [perform](/en/post/perform/) [a](/en/post/a/) [ceremony](/en/post/ceremony/) [that](/en/post/that/) unites [two](/en/post/two/) [people](/en/post/people/) [in](/en/post/in/) [marriage](/en/post/marriage/). [Example](/en/post/example/): "[They](/en/post/they/) got [married](/en/post/married/) [in](/en/post/in/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) [outdoor](/en/post/outdoor/) [ceremony](/en/post/ceremony/) [last](/en/post/last/) [summer](/en/post/summer/)."
+- **[Adjective](/post/adjective/)**: (mar·ried / adj) Legally united [in](/post/in/) [marriage](/post/marriage/); having [a](/post/a/) [husband](/post/husband/) [or](/post/or/) [wife](/post/wife/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has been happily [married](/post/married/) [for](/post/for/) [ten](/post/ten/) years."
+- **[Verb](/post/verb/)**: (mar·ry / v) [To](/post/to/) [take](/post/take/) [someone](/post/someone/) [as](/post/as/) one's [husband](/post/husband/) [or](/post/or/) [wife](/post/wife/), [or](/post/or/) [to](/post/to/) [perform](/post/perform/) [a](/post/a/) [ceremony](/post/ceremony/) [that](/post/that/) unites [two](/post/two/) [people](/post/people/) [in](/post/in/) [marriage](/post/marriage/). [Example](/post/example/): "[They](/post/they/) got [married](/post/married/) [in](/post/in/) [a](/post/a/) [beautiful](/post/beautiful/) [outdoor](/post/outdoor/) [ceremony](/post/ceremony/) [last](/post/last/) [summer](/post/summer/)."
 
-### [As](/en/post/as/) an [Adjective](/en/post/adjective/):
-- Describing [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [in](/en/post/in/) [a](/en/post/a/) legally recognized marital [relationship](/en/post/relationship/). [Example](/en/post/example/): "[He](/en/post/he/) introduced [his](/en/post/his/) [married](/en/post/married/) friends [at](/en/post/at/) [the](/en/post/the/) [dinner](/en/post/dinner/) [party](/en/post/party/)."
-- Referring [to](/en/post/to/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [married](/en/post/married/). [Example](/en/post/example/): "[They](/en/post/they/) [have](/en/post/have/) been [living](/en/post/living/) [a](/en/post/a/) [married](/en/post/married/) [life](/en/post/life/) [since](/en/post/since/) [their](/en/post/their/) [wedding](/en/post/wedding/) [day](/en/post/day/)."
+### [As](/post/as/) an [Adjective](/post/adjective/):
+- Describing [a](/post/a/) [person](/post/person/) [who](/post/who/) is [in](/post/in/) [a](/post/a/) legally recognized marital [relationship](/post/relationship/). [Example](/post/example/): "[He](/post/he/) introduced [his](/post/his/) [married](/post/married/) friends [at](/post/at/) [the](/post/the/) [dinner](/post/dinner/) [party](/post/party/)."
+- Referring [to](/post/to/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [married](/post/married/). [Example](/post/example/): "[They](/post/they/) [have](/post/have/) been [living](/post/living/) [a](/post/a/) [married](/post/married/) [life](/post/life/) [since](/post/since/) [their](/post/their/) [wedding](/post/wedding/) [day](/post/day/)."
 
-### [As](/en/post/as/) [a](/en/post/a/) [Verb](/en/post/verb/):
-- [To](/en/post/to/) [unite](/en/post/unite/) [in](/en/post/in/) [marriage](/en/post/marriage/). [Example](/en/post/example/): "[The](/en/post/the/) [couple](/en/post/couple/) decided [to](/en/post/to/) [marry](/en/post/marry/) [on](/en/post/on/) [their](/en/post/their/) [tenth](/en/post/tenth/) anniversary [of](/en/post/of/) dating."
-- [To](/en/post/to/) [join](/en/post/join/) [or](/en/post/or/) [combine](/en/post/combine/) [closely](/en/post/closely/) [or](/en/post/or/) intimately. (figurative [usage](/en/post/usage/)) [Example](/en/post/example/): "[Her](/en/post/her/) [love](/en/post/love/) [for](/en/post/for/) [painting](/en/post/painting/) [married](/en/post/married/) [well](/en/post/well/) [with](/en/post/with/) [her](/en/post/her/) [passion](/en/post/passion/) [for](/en/post/for/) [teaching](/en/post/teaching/)."
+### [As](/post/as/) [a](/post/a/) [Verb](/post/verb/):
+- [To](/post/to/) [unite](/post/unite/) [in](/post/in/) [marriage](/post/marriage/). [Example](/post/example/): "[The](/post/the/) [couple](/post/couple/) decided [to](/post/to/) [marry](/post/marry/) [on](/post/on/) [their](/post/their/) [tenth](/post/tenth/) anniversary [of](/post/of/) dating."
+- [To](/post/to/) [join](/post/join/) [or](/post/or/) [combine](/post/combine/) [closely](/post/closely/) [or](/post/or/) intimately. (figurative [usage](/post/usage/)) [Example](/post/example/): "[Her](/post/her/) [love](/post/love/) [for](/post/for/) [painting](/post/painting/) [married](/post/married/) [well](/post/well/) [with](/post/with/) [her](/post/her/) [passion](/post/passion/) [for](/post/for/) [teaching](/post/teaching/)."
 
 ## Phrases
-- "[Get](/en/post/get/) [married](/en/post/married/)": [To](/en/post/to/) [enter](/en/post/enter/) [into](/en/post/into/) [a](/en/post/a/) [marriage](/en/post/marriage/) [with](/en/post/with/) [someone](/en/post/someone/). [Example](/en/post/example/): "[They](/en/post/they/) [plan](/en/post/plan/) [to](/en/post/to/) [get](/en/post/get/) [married](/en/post/married/) [next](/en/post/next/) [year](/en/post/year/)."
-- "[Be](/en/post/be/) [married](/en/post/married/) [to](/en/post/to/)": [To](/en/post/to/) [be](/en/post/be/) wedded [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) committed [to](/en/post/to/) [something](/en/post/something/). [Example](/en/post/example/): "She's been [married](/en/post/married/) [to](/en/post/to/) [her](/en/post/her/) [job](/en/post/job/) [for](/en/post/for/) [the](/en/post/the/) [past](/en/post/past/) [five](/en/post/five/) years."
-- "[Marriage](/en/post/marriage/) [certificate](/en/post/certificate/)": An [official](/en/post/official/) [document](/en/post/document/) [that](/en/post/that/) proves [a](/en/post/a/) [couple](/en/post/couple/) is [married](/en/post/married/).
+- "[Get](/post/get/) [married](/post/married/)": [To](/post/to/) [enter](/post/enter/) [into](/post/into/) [a](/post/a/) [marriage](/post/marriage/) [with](/post/with/) [someone](/post/someone/). [Example](/post/example/): "[They](/post/they/) [plan](/post/plan/) [to](/post/to/) [get](/post/get/) [married](/post/married/) [next](/post/next/) [year](/post/year/)."
+- "[Be](/post/be/) [married](/post/married/) [to](/post/to/)": [To](/post/to/) [be](/post/be/) wedded [to](/post/to/) [someone](/post/someone/) [or](/post/or/) committed [to](/post/to/) [something](/post/something/). [Example](/post/example/): "She's been [married](/post/married/) [to](/post/to/) [her](/post/her/) [job](/post/job/) [for](/post/for/) [the](/post/the/) [past](/post/past/) [five](/post/five/) years."
+- "[Marriage](/post/marriage/) [certificate](/post/certificate/)": An [official](/post/official/) [document](/post/document/) [that](/post/that/) proves [a](/post/a/) [couple](/post/couple/) is [married](/post/married/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[After](/en/post/after/) [they](/en/post/they/) were [both](/en/post/both/) [married](/en/post/married/), [they](/en/post/they/) moved [into](/en/post/into/) [a](/en/post/a/) [new](/en/post/new/) [house](/en/post/house/) [together](/en/post/together/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) [married](/en/post/married/) [in](/en/post/in/) [a](/en/post/a/) [small](/en/post/small/) [ceremony](/en/post/ceremony/) attended [by](/en/post/by/) [close](/en/post/close/) [family](/en/post/family/) [and](/en/post/and/) friends."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[After](/post/after/) [they](/post/they/) were [both](/post/both/) [married](/post/married/), [they](/post/they/) moved [into](/post/into/) [a](/post/a/) [new](/post/new/) [house](/post/house/) [together](/post/together/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) [married](/post/married/) [in](/post/in/) [a](/post/a/) [small](/post/small/) [ceremony](/post/ceremony/) attended [by](/post/by/) [close](/post/close/) [family](/post/family/) [and](/post/and/) friends."
 
 ## Synonyms
 - Wedded
 - Hitched
 - United
 - Espoused
-- Tied [the](/en/post/the/) [knot](/en/post/knot/)
+- Tied [the](/post/the/) [knot](/post/knot/)
 - Taken (informal)
-- Partnered ([in](/en/post/in/) [a](/en/post/a/) [legal](/en/post/legal/) [sense](/en/post/sense/))
+- Partnered ([in](/post/in/) [a](/post/a/) [legal](/post/legal/) [sense](/post/sense/))

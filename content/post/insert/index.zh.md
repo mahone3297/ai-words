@@ -12,22 +12,22 @@ keywords = ['ai words', 'insert']
 
 ## 释义
 - **动词**:
-1. 插入，放进。例如: "[Please](/post/please/) [insert](/post/insert/) [the](/post/the/) CD [into](/post/into/) [the](/post/the/) [player](/post/player/)."
-2. 在文章、文本中加入（内容）。例如: "[She](/post/she/) inserted [a](/post/a/) [new](/post/new/) [paragraph](/post/paragraph/) [in](/post/in/) [her](/post/her/) [essay](/post/essay/)."
-3. （在数据库或计算机程序中）添加数据。例如: "[The](/post/the/) [program](/post/program/) [will](/post/will/) automatically [insert](/post/insert/) [new](/post/new/) records [into](/post/into/) [the](/post/the/) database."
+1. 插入，放进。例如: "[Please](/zh/post/please/) [insert](/zh/post/insert/) [the](/zh/post/the/) CD [into](/zh/post/into/) [the](/zh/post/the/) [player](/zh/post/player/)."
+2. 在文章、文本中加入（内容）。例如: "[She](/zh/post/she/) inserted [a](/zh/post/a/) [new](/zh/post/new/) [paragraph](/zh/post/paragraph/) [in](/zh/post/in/) [her](/zh/post/her/) [essay](/zh/post/essay/)."
+3. （在数据库或计算机程序中）添加数据。例如: "[The](/zh/post/the/) [program](/zh/post/program/) [will](/zh/post/will/) automatically [insert](/zh/post/insert/) [new](/zh/post/new/) records [into](/zh/post/into/) [the](/zh/post/the/) database."
 
 ## 短语
-- "[Insert](/post/insert/) [after](/post/after/)/[before](/post/before/)" 意为在...之后/之前插入。
-- "[Insert](/post/insert/) [key](/post/key/)" 在计算机术语中指的是用于插入文本的键盘键。
+- "[Insert](/zh/post/insert/) [after](/zh/post/after/)/[before](/zh/post/before/)" 意为在...之后/之前插入。
+- "[Insert](/zh/post/insert/) [key](/zh/post/key/)" 在计算机术语中指的是用于插入文本的键盘键。
 
 ## 例句
-- "[Insert](/post/insert/) [your](/post/your/) [credit](/post/credit/) [card](/post/card/) [into](/post/into/) [the](/post/the/) [machine](/post/machine/) [to](/post/to/) [start](/post/start/) [the](/post/the/) transaction."
-- "[Please](/post/please/) [insert](/post/insert/) [the](/post/the/) SIM [card](/post/card/) [into](/post/into/) [your](/post/your/) [phone](/post/phone/) correctly."
-- "[The](/post/the/) [editor](/post/editor/) inserted [a](/post/a/) [correction](/post/correction/) [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [sentence](/post/sentence/)."
+- "[Insert](/zh/post/insert/) [your](/zh/post/your/) [credit](/zh/post/credit/) [card](/zh/post/card/) [into](/zh/post/into/) [the](/zh/post/the/) [machine](/zh/post/machine/) [to](/zh/post/to/) [start](/zh/post/start/) [the](/zh/post/the/) transaction."
+- "[Please](/zh/post/please/) [insert](/zh/post/insert/) [the](/zh/post/the/) SIM [card](/zh/post/card/) [into](/zh/post/into/) [your](/zh/post/your/) [phone](/zh/post/phone/) correctly."
+- "[The](/zh/post/the/) [editor](/zh/post/editor/) inserted [a](/zh/post/a/) [correction](/zh/post/correction/) [at](/zh/post/at/) [the](/zh/post/the/) [end](/zh/post/end/) [of](/zh/post/of/) [the](/zh/post/the/) [sentence](/zh/post/sentence/)."
 
 ## 同义词
-- [Add](/post/add/)
+- [Add](/zh/post/add/)
 - Incorporate
-- [Introduce](/post/introduce/)
-- [Place](/post/place/)
+- [Introduce](/zh/post/introduce/)
+- [Place](/zh/post/place/)
 - Embed

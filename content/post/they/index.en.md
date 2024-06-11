@@ -7,30 +7,30 @@ description = '[ðei] pron.(主格)他(她)们'
 keywords = ['ai words', 'they']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ðeɪ/
 
 ## Definitions
-- **[Pronoun](/en/post/pronoun/)**: Refers [to](/en/post/to/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) [people](/en/post/people/), [often](/en/post/often/) [used](/en/post/used/) [when](/en/post/when/) [the](/en/post/the/) gender is [unknown](/en/post/unknown/) [or](/en/post/or/) unimportant. [Can](/en/post/can/) [be](/en/post/be/) [singular](/en/post/singular/) ([they](/en/post/they/)) [or](/en/post/or/) [plural](/en/post/plural/) ([they](/en/post/they/)/[them](/en/post/them/)). [Can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) impersonally [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) an [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) are coming [soon](/en/post/soon/)."
-- **[Subject](/en/post/subject/) [pronoun](/en/post/pronoun/)**: Acts [as](/en/post/as/) [the](/en/post/the/) [subject](/en/post/subject/) [of](/en/post/of/) [a](/en/post/a/) [sentence](/en/post/sentence/), taking [the](/en/post/the/) [place](/en/post/place/) [of](/en/post/of/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [noun](/en/post/noun/) [phrase](/en/post/phrase/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [will](/en/post/will/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [by](/en/post/by/) Friday."
-- **Reflexive [pronoun](/en/post/pronoun/)**: [Used](/en/post/used/) [when](/en/post/when/) [the](/en/post/the/) [subject](/en/post/subject/) [and](/en/post/and/) [object](/en/post/object/) [of](/en/post/of/) [the](/en/post/the/) [verb](/en/post/verb/) are [the](/en/post/the/) [same](/en/post/same/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) were looking [at](/en/post/at/) [themselves](/en/post/themselves/) [in](/en/post/in/) [the](/en/post/the/) [mirror](/en/post/mirror/)."
+- **[Pronoun](/post/pronoun/)**: Refers [to](/post/to/) [one](/post/one/) [or](/post/or/) [more](/post/more/) [people](/post/people/), [often](/post/often/) [used](/post/used/) [when](/post/when/) [the](/post/the/) gender is [unknown](/post/unknown/) [or](/post/or/) unimportant. [Can](/post/can/) [be](/post/be/) [singular](/post/singular/) ([they](/post/they/)) [or](/post/or/) [plural](/post/plural/) ([they](/post/they/)/[them](/post/them/)). [Can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) impersonally [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [group](/post/group/) [or](/post/or/) an [action](/post/action/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) are coming [soon](/post/soon/)."
+- **[Subject](/post/subject/) [pronoun](/post/pronoun/)**: Acts [as](/post/as/) [the](/post/the/) [subject](/post/subject/) [of](/post/of/) [a](/post/a/) [sentence](/post/sentence/), taking [the](/post/the/) [place](/post/place/) [of](/post/of/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [noun](/post/noun/) [phrase](/post/phrase/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) [will](/post/will/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [by](/post/by/) Friday."
+- **Reflexive [pronoun](/post/pronoun/)**: [Used](/post/used/) [when](/post/when/) [the](/post/the/) [subject](/post/subject/) [and](/post/and/) [object](/post/object/) [of](/post/of/) [the](/post/the/) [verb](/post/verb/) are [the](/post/the/) [same](/post/same/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) were looking [at](/post/at/) [themselves](/post/themselves/) [in](/post/in/) [the](/post/the/) [mirror](/post/mirror/)."
 
 ## Phrases
-- "They're coming" indicates [that](/en/post/that/) [a](/en/post/a/) [group](/en/post/group/) is [on](/en/post/on/) [their](/en/post/their/) [way](/en/post/way/).
-- "It's [up](/en/post/up/) [to](/en/post/to/) [them](/en/post/them/)" [means](/en/post/means/) [the](/en/post/the/) [decision](/en/post/decision/) [or](/en/post/or/) [responsibility](/en/post/responsibility/) lies [with](/en/post/with/) [the](/en/post/the/) mentioned [group](/en/post/group/).
-- "[Each](/en/post/each/) [other](/en/post/other/)" is [a](/en/post/a/) [common](/en/post/common/) [usage](/en/post/usage/) [to](/en/post/to/) [indicate](/en/post/indicate/) [mutual](/en/post/mutual/) [action](/en/post/action/) [between](/en/post/between/) [two](/en/post/two/) individuals.
+- "They're coming" indicates [that](/post/that/) [a](/post/a/) [group](/post/group/) is [on](/post/on/) [their](/post/their/) [way](/post/way/).
+- "It's [up](/post/up/) [to](/post/to/) [them](/post/them/)" [means](/post/means/) [the](/post/the/) [decision](/post/decision/) [or](/post/or/) [responsibility](/post/responsibility/) lies [with](/post/with/) [the](/post/the/) mentioned [group](/post/group/).
+- "[Each](/post/each/) [other](/post/other/)" is [a](/post/a/) [common](/post/common/) [usage](/post/usage/) [to](/post/to/) [indicate](/post/indicate/) [mutual](/post/mutual/) [action](/post/action/) [between](/post/between/) [two](/post/two/) individuals.
 
-## [Example](/en/post/example/) Sentences
-- **[Subject](/en/post/subject/) [pronoun](/en/post/pronoun/)**: "[The](/en/post/the/) [team](/en/post/team/) decided [that](/en/post/that/) [they](/en/post/they/) [would](/en/post/would/) [take](/en/post/take/) [a](/en/post/a/) [break](/en/post/break/)."
-- **Reflexive [pronoun](/en/post/pronoun/)**: "[The](/en/post/the/) children taught [themselves](/en/post/themselves/) [how](/en/post/how/) [to](/en/post/to/) [ride](/en/post/ride/) [a](/en/post/a/) [bike](/en/post/bike/)."
-- **Impersonal [use](/en/post/use/)**: "[Everyone](/en/post/everyone/), [please](/en/post/please/) [take](/en/post/take/) [your](/en/post/your/) seats; they're [about](/en/post/about/) [to](/en/post/to/) [start](/en/post/start/) [the](/en/post/the/) presentation."
+## [Example](/post/example/) Sentences
+- **[Subject](/post/subject/) [pronoun](/post/pronoun/)**: "[The](/post/the/) [team](/post/team/) decided [that](/post/that/) [they](/post/they/) [would](/post/would/) [take](/post/take/) [a](/post/a/) [break](/post/break/)."
+- **Reflexive [pronoun](/post/pronoun/)**: "[The](/post/the/) children taught [themselves](/post/themselves/) [how](/post/how/) [to](/post/to/) [ride](/post/ride/) [a](/post/a/) [bike](/post/bike/)."
+- **Impersonal [use](/post/use/)**: "[Everyone](/post/everyone/), [please](/post/please/) [take](/post/take/) [your](/post/your/) seats; they're [about](/post/about/) [to](/post/to/) [start](/post/start/) [the](/post/the/) presentation."
 
 ## Synonyms
-- [We](/en/post/we/)
-- [You](/en/post/you/) ([plural](/en/post/plural/))
-- [Us](/en/post/us/)
-- [Them](/en/post/them/)
+- [We](/post/we/)
+- [You](/post/you/) ([plural](/post/plural/))
+- [Us](/post/us/)
+- [Them](/post/them/)
 - Folks
-- [Crowd](/en/post/crowd/)
+- [Crowd](/post/crowd/)
 
-## [Note](/en/post/note/): [The](/en/post/the/) [usage](/en/post/usage/) [of](/en/post/of/) "[they](/en/post/they/)" [as](/en/post/as/) [a](/en/post/a/) [singular](/en/post/singular/) gender-neutral [pronoun](/en/post/pronoun/) is becoming [increasingly](/en/post/increasingly/) [common](/en/post/common/) [in](/en/post/in/) [modern](/en/post/modern/) English, [especially](/en/post/especially/) [in](/en/post/in/) non-binary contexts.
+## [Note](/post/note/): [The](/post/the/) [usage](/post/usage/) [of](/post/of/) "[they](/post/they/)" [as](/post/as/) [a](/post/a/) [singular](/post/singular/) gender-neutral [pronoun](/post/pronoun/) is becoming [increasingly](/post/increasingly/) [common](/post/common/) [in](/post/in/) [modern](/post/modern/) English, [especially](/post/especially/) [in](/post/in/) non-binary contexts.

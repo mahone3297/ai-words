@@ -7,32 +7,32 @@ description = '[ˈtrædʒidi] n.悲剧；惨事，惨案'
 keywords = ['ai words', 'tragedy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /trædʒɪˈdeɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [dramatic](/en/post/dramatic/) [work](/en/post/work/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) depicts [a](/en/post/a/) [serious](/en/post/serious/) [or](/en/post/or/) disastrous [event](/en/post/event/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) tragic [ending](/en/post/ending/). **[Example](/en/post/example/)**: "[The](/en/post/the/) [play](/en/post/play/) was [a](/en/post/a/) tragic portrayal [of](/en/post/of/) [love](/en/post/love/) [and](/en/post/and/) [loss](/en/post/loss/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [experience](/en/post/experience/) [or](/en/post/or/) [witness](/en/post/witness/) [a](/en/post/a/) [tragedy](/en/post/tragedy/), typically involving [a](/en/post/a/) [sad](/en/post/sad/) [or](/en/post/or/) [unfortunate](/en/post/unfortunate/) [event](/en/post/event/). **[Example](/en/post/example/)**: "[The](/en/post/the/) [family](/en/post/family/) tragically lost [their](/en/post/their/) [home](/en/post/home/) [in](/en/post/in/) [a](/en/post/a/) [fire](/en/post/fire/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) causing [great](/en/post/great/) [sorrow](/en/post/sorrow/) [or](/en/post/or/) misfortune; disastrous. **[Example](/en/post/example/)**: "[The](/en/post/the/) tragic consequences [of](/en/post/of/) [their](/en/post/their/) [decision](/en/post/decision/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [dramatic](/post/dramatic/) [work](/post/work/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) depicts [a](/post/a/) [serious](/post/serious/) [or](/post/or/) disastrous [event](/post/event/), [often](/post/often/) [with](/post/with/) [a](/post/a/) tragic [ending](/post/ending/). **[Example](/post/example/)**: "[The](/post/the/) [play](/post/play/) was [a](/post/a/) tragic portrayal [of](/post/of/) [love](/post/love/) [and](/post/and/) [loss](/post/loss/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [experience](/post/experience/) [or](/post/or/) [witness](/post/witness/) [a](/post/a/) [tragedy](/post/tragedy/), typically involving [a](/post/a/) [sad](/post/sad/) [or](/post/or/) [unfortunate](/post/unfortunate/) [event](/post/event/). **[Example](/post/example/)**: "[The](/post/the/) [family](/post/family/) tragically lost [their](/post/their/) [home](/post/home/) [in](/post/in/) [a](/post/a/) [fire](/post/fire/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) causing [great](/post/great/) [sorrow](/post/sorrow/) [or](/post/or/) misfortune; disastrous. **[Example](/post/example/)**: "[The](/post/the/) tragic consequences [of](/post/of/) [their](/post/their/) [decision](/post/decision/)."
 
 ## Phrases
-- "[A](/en/post/a/) tragic [tale](/en/post/tale/)" refers [to](/en/post/to/) [a](/en/post/a/) [story](/en/post/story/) [with](/en/post/with/) [a](/en/post/a/) [sad](/en/post/sad/) [or](/en/post/or/) [unfortunate](/en/post/unfortunate/) [outcome](/en/post/outcome/).
-- "Tragic [hero](/en/post/hero/)" describes [a](/en/post/a/) protagonist [who](/en/post/who/), [despite](/en/post/despite/) flaws, experiences [a](/en/post/a/) downfall [due](/en/post/due/) [to](/en/post/to/) circumstances [beyond](/en/post/beyond/) [their](/en/post/their/) [control](/en/post/control/).
-- "[Avoid](/en/post/avoid/) [a](/en/post/a/) tragic [mistake](/en/post/mistake/)" [means](/en/post/means/) [to](/en/post/to/) [prevent](/en/post/prevent/) [a](/en/post/a/) [disaster](/en/post/disaster/) [from](/en/post/from/) occurring.
+- "[A](/post/a/) tragic [tale](/post/tale/)" refers [to](/post/to/) [a](/post/a/) [story](/post/story/) [with](/post/with/) [a](/post/a/) [sad](/post/sad/) [or](/post/or/) [unfortunate](/post/unfortunate/) [outcome](/post/outcome/).
+- "Tragic [hero](/post/hero/)" describes [a](/post/a/) protagonist [who](/post/who/), [despite](/post/despite/) flaws, experiences [a](/post/a/) downfall [due](/post/due/) [to](/post/to/) circumstances [beyond](/post/beyond/) [their](/post/their/) [control](/post/control/).
+- "[Avoid](/post/avoid/) [a](/post/a/) tragic [mistake](/post/mistake/)" [means](/post/means/) [to](/post/to/) [prevent](/post/prevent/) [a](/post/a/) [disaster](/post/disaster/) [from](/post/from/) occurring.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) classic [tragedy](/en/post/tragedy/) 'Romeo [and](/en/post/and/) Juliet' tells [the](/en/post/the/) [story](/en/post/story/) [of](/en/post/of/) [two](/en/post/two/) star-crossed lovers."
-- **[Verb](/en/post/verb/)**: "[Their](/en/post/their/) lives were [forever](/en/post/forever/) changed [after](/en/post/after/) witnessing [the](/en/post/the/) tragic [car](/en/post/car/) [accident](/en/post/accident/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) city's skyline [will](/en/post/will/) [always](/en/post/always/) [be](/en/post/be/) [a](/en/post/a/) tragic reminder [of](/en/post/of/) [the](/en/post/the/) devastating [earthquake](/en/post/earthquake/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) classic [tragedy](/post/tragedy/) 'Romeo [and](/post/and/) Juliet' tells [the](/post/the/) [story](/post/story/) [of](/post/of/) [two](/post/two/) star-crossed lovers."
+- **[Verb](/post/verb/)**: "[Their](/post/their/) lives were [forever](/post/forever/) changed [after](/post/after/) witnessing [the](/post/the/) tragic [car](/post/car/) [accident](/post/accident/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) city's skyline [will](/post/will/) [always](/post/always/) [be](/post/be/) [a](/post/a/) tragic reminder [of](/post/of/) [the](/post/the/) devastating [earthquake](/post/earthquake/)."
 
 ## Synonyms
-- [Tragedy](/en/post/tragedy/)
+- [Tragedy](/post/tragedy/)
 - Calamity
 - Catastrophe
 - Misfortune
-- [Disaster](/en/post/disaster/)
+- [Disaster](/post/disaster/)
 - Pitiful
-- [Unfortunate](/en/post/unfortunate/)
-- [Sad](/en/post/sad/)
+- [Unfortunate](/post/unfortunate/)
+- [Sad](/post/sad/)
 - Heart-wrenching
 - Disastrous

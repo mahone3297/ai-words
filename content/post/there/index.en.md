@@ -7,30 +7,30 @@ description = '[ðeə] ad.在那里；在那点上'
 keywords = ['ai words', 'there']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ðeə/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [place](/en/post/place/) [or](/en/post/or/) [position](/en/post/position/) [of](/en/post/of/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) is [there](/en/post/there/) [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
-- **Existential [particle](/en/post/particle/)**: Indicates [the](/en/post/the/) [presence](/en/post/presence/) [or](/en/post/or/) [existence](/en/post/existence/) [of](/en/post/of/) [something](/en/post/something/) [without](/en/post/without/) specifying [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "There's [a](/en/post/a/) [car](/en/post/car/) [outside](/en/post/outside/)."
-- **[Relative](/en/post/relative/) [pronoun](/en/post/pronoun/)**: [In](/en/post/in/) [a](/en/post/a/) [relative](/en/post/relative/) clause, "[there](/en/post/there/)" introduces [the](/en/post/the/) [subject](/en/post/subject/), [often](/en/post/often/) referring [to](/en/post/to/) [something](/en/post/something/) [previously](/en/post/previously/) mentioned. [For](/en/post/for/) [example](/en/post/example/): "That's [the](/en/post/the/) [house](/en/post/house/) [where](/en/post/where/) [we](/en/post/we/) lived."
+- **[Adverb](/post/adverb/)**: [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [place](/post/place/) [or](/post/or/) [position](/post/position/) [of](/post/of/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) is [there](/post/there/) [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+- **Existential [particle](/post/particle/)**: Indicates [the](/post/the/) [presence](/post/presence/) [or](/post/or/) [existence](/post/existence/) [of](/post/of/) [something](/post/something/) [without](/post/without/) specifying [it](/post/it/). [For](/post/for/) [example](/post/example/): "There's [a](/post/a/) [car](/post/car/) [outside](/post/outside/)."
+- **[Relative](/post/relative/) [pronoun](/post/pronoun/)**: [In](/post/in/) [a](/post/a/) [relative](/post/relative/) clause, "[there](/post/there/)" introduces [the](/post/the/) [subject](/post/subject/), [often](/post/often/) referring [to](/post/to/) [something](/post/something/) [previously](/post/previously/) mentioned. [For](/post/for/) [example](/post/example/): "That's [the](/post/the/) [house](/post/house/) [where](/post/where/) [we](/post/we/) lived."
 
 ## Phrases
-- "[There](/en/post/there/) [it](/en/post/it/) is" points [out](/en/post/out/) [the](/en/post/the/) [location](/en/post/location/) [of](/en/post/of/) [something](/en/post/something/).
-- "[Over](/en/post/over/) [there](/en/post/there/)" indicates [a](/en/post/a/) [specific](/en/post/specific/) [distance](/en/post/distance/) [away](/en/post/away/).
-- "[Somewhere](/en/post/somewhere/) [there](/en/post/there/)" implies [a](/en/post/a/) [vague](/en/post/vague/) [but](/en/post/but/) known [location](/en/post/location/).
+- "[There](/post/there/) [it](/post/it/) is" points [out](/post/out/) [the](/post/the/) [location](/post/location/) [of](/post/of/) [something](/post/something/).
+- "[Over](/post/over/) [there](/post/there/)" indicates [a](/post/a/) [specific](/post/specific/) [distance](/post/distance/) [away](/post/away/).
+- "[Somewhere](/post/somewhere/) [there](/post/there/)" implies [a](/post/a/) [vague](/post/vague/) [but](/post/but/) known [location](/post/location/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I [left](/en/post/left/) [my](/en/post/my/) keys [right](/en/post/right/) [there](/en/post/there/) [on](/en/post/on/) [the](/en/post/the/) [kitchen](/en/post/kitchen/) [counter](/en/post/counter/)."
-- **Existential [particle](/en/post/particle/)**: "[There](/en/post/there/) seems [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) misunderstanding."
-- **[Relative](/en/post/relative/) [pronoun](/en/post/pronoun/)**: "[The](/en/post/the/) [dog](/en/post/dog/) [that](/en/post/that/) was barking belongs [to](/en/post/to/) [the](/en/post/the/) [family](/en/post/family/) [over](/en/post/over/) [there](/en/post/there/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I [left](/post/left/) [my](/post/my/) keys [right](/post/right/) [there](/post/there/) [on](/post/on/) [the](/post/the/) [kitchen](/post/kitchen/) [counter](/post/counter/)."
+- **Existential [particle](/post/particle/)**: "[There](/post/there/) seems [to](/post/to/) [be](/post/be/) [a](/post/a/) misunderstanding."
+- **[Relative](/post/relative/) [pronoun](/post/pronoun/)**: "[The](/post/the/) [dog](/post/dog/) [that](/post/that/) was barking belongs [to](/post/to/) [the](/post/the/) [family](/post/family/) [over](/post/over/) [there](/post/there/)."
 
 ## Synonyms
-- **[None](/en/post/none/) [specific](/en/post/specific/) [to](/en/post/to/) "[there](/en/post/there/)" [as](/en/post/as/) an [adverb](/en/post/adverb/); [it](/en/post/it/) is [unique](/en/post/unique/) [in](/en/post/in/) [its](/en/post/its/) [usage](/en/post/usage/).**
+- **[None](/post/none/) [specific](/post/specific/) [to](/post/to/) "[there](/post/there/)" [as](/post/as/) an [adverb](/post/adverb/); [it](/post/it/) is [unique](/post/unique/) [in](/post/in/) [its](/post/its/) [usage](/post/usage/).**
 
 ## Antonyms
-- [None](/en/post/none/) ([as](/en/post/as/) "[there](/en/post/there/)" does [not](/en/post/not/) [have](/en/post/have/) [a](/en/post/a/) [direct](/en/post/direct/) [opposite](/en/post/opposite/) [in](/en/post/in/) terms [of](/en/post/of/) [meaning](/en/post/meaning/))
+- [None](/post/none/) ([as](/post/as/) "[there](/post/there/)" does [not](/post/not/) [have](/post/have/) [a](/post/a/) [direct](/post/direct/) [opposite](/post/opposite/) [in](/post/in/) terms [of](/post/of/) [meaning](/post/meaning/))
 
-## [Usage](/en/post/usage/) Notes
-- "[There](/en/post/there/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [of](/en/post/of/) [place](/en/post/place/), [similar](/en/post/similar/) [to](/en/post/to/) "[here](/en/post/here/)," [but](/en/post/but/) [with](/en/post/with/) [a](/en/post/a/) [focus](/en/post/focus/) [on](/en/post/on/) [a](/en/post/a/) [specific](/en/post/specific/) [point](/en/post/point/) [rather](/en/post/rather/) [than](/en/post/than/) proximity.
-- [It](/en/post/it/) is [not](/en/post/not/) [a](/en/post/a/) standalone [sentence](/en/post/sentence/) [unless](/en/post/unless/) functioning [as](/en/post/as/) [a](/en/post/a/) [relative](/en/post/relative/) [pronoun](/en/post/pronoun/).
+## [Usage](/post/usage/) Notes
+- "[There](/post/there/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/) [of](/post/of/) [place](/post/place/), [similar](/post/similar/) [to](/post/to/) "[here](/post/here/)," [but](/post/but/) [with](/post/with/) [a](/post/a/) [focus](/post/focus/) [on](/post/on/) [a](/post/a/) [specific](/post/specific/) [point](/post/point/) [rather](/post/rather/) [than](/post/than/) proximity.
+- [It](/post/it/) is [not](/post/not/) [a](/post/a/) standalone [sentence](/post/sentence/) [unless](/post/unless/) functioning [as](/post/as/) [a](/post/a/) [relative](/post/relative/) [pronoun](/post/pronoun/).

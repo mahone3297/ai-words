@@ -7,38 +7,38 @@ description = '[tɔːs] vt.&vi.扔，抛，掷'
 keywords = ['ai words', 'toss']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɒs/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-  - **[Noun](/en/post/noun/)**: [A](/en/post/a/) [light](/en/post/light/), [upward](/en/post/upward/) [movement](/en/post/movement/) [of](/en/post/of/) [something](/en/post/something/), typically [a](/en/post/a/) [small](/en/post/small/) [object](/en/post/object/), [with](/en/post/with/) one's [hand](/en/post/hand/) [or](/en/post/or/) [a](/en/post/a/) throwing [motion](/en/post/motion/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) tossed [the](/en/post/the/) [coin](/en/post/coin/) [into](/en/post/into/) [the](/en/post/the/) [air](/en/post/air/)."
-  - **Transitive [verb](/en/post/verb/)**: [To](/en/post/to/) [throw](/en/post/throw/) [or](/en/post/or/) propel (an [object](/en/post/object/)) [with](/en/post/with/) [a](/en/post/a/) [light](/en/post/light/), [casual](/en/post/casual/) [motion](/en/post/motion/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) tossed [the](/en/post/the/) [ball](/en/post/ball/) [to](/en/post/to/) [her](/en/post/her/) [friend](/en/post/friend/)."
-  - **Intransitive [verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) jolt [suddenly](/en/post/suddenly/) [or](/en/post/or/) [roughly](/en/post/roughly/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [car](/en/post/car/) was tossed [around](/en/post/around/) [on](/en/post/on/) [the](/en/post/the/) [rough](/en/post/rough/) [road](/en/post/road/)."
+- **[Verb](/post/verb/)**: 
+  - **[Noun](/post/noun/)**: [A](/post/a/) [light](/post/light/), [upward](/post/upward/) [movement](/post/movement/) [of](/post/of/) [something](/post/something/), typically [a](/post/a/) [small](/post/small/) [object](/post/object/), [with](/post/with/) one's [hand](/post/hand/) [or](/post/or/) [a](/post/a/) throwing [motion](/post/motion/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) tossed [the](/post/the/) [coin](/post/coin/) [into](/post/into/) [the](/post/the/) [air](/post/air/)."
+  - **Transitive [verb](/post/verb/)**: [To](/post/to/) [throw](/post/throw/) [or](/post/or/) propel (an [object](/post/object/)) [with](/post/with/) [a](/post/a/) [light](/post/light/), [casual](/post/casual/) [motion](/post/motion/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) tossed [the](/post/the/) [ball](/post/ball/) [to](/post/to/) [her](/post/her/) [friend](/post/friend/)."
+  - **Intransitive [verb](/post/verb/)**: [To](/post/to/) [move](/post/move/) [or](/post/or/) jolt [suddenly](/post/suddenly/) [or](/post/or/) [roughly](/post/roughly/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [car](/post/car/) was tossed [around](/post/around/) [on](/post/on/) [the](/post/the/) [rough](/post/rough/) [road](/post/road/)."
 
 ## Phrases
-- "[Toss](/en/post/toss/) [a](/en/post/a/) [coin](/en/post/coin/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [decision](/en/post/decision/) [by](/en/post/by/) flipping [a](/en/post/a/) [coin](/en/post/coin/).
-- "[Toss](/en/post/toss/) [and](/en/post/and/) [turn](/en/post/turn/)" refers [to](/en/post/to/) [the](/en/post/the/) [restless](/en/post/restless/) [movement](/en/post/movement/) [of](/en/post/of/) [turning](/en/post/turning/) [over](/en/post/over/) [due](/en/post/due/) [to](/en/post/to/) sleeplessness.
-- "[Toss](/en/post/toss/) [salad](/en/post/salad/)" is [a](/en/post/a/) culinary [term](/en/post/term/) [for](/en/post/for/) mixing [salad](/en/post/salad/) ingredients [together](/en/post/together/).
+- "[Toss](/post/toss/) [a](/post/a/) [coin](/post/coin/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [decision](/post/decision/) [by](/post/by/) flipping [a](/post/a/) [coin](/post/coin/).
+- "[Toss](/post/toss/) [and](/post/and/) [turn](/post/turn/)" refers [to](/post/to/) [the](/post/the/) [restless](/post/restless/) [movement](/post/movement/) [of](/post/of/) [turning](/post/turning/) [over](/post/over/) [due](/post/due/) [to](/post/to/) sleeplessness.
+- "[Toss](/post/toss/) [salad](/post/salad/)" is [a](/post/a/) culinary [term](/post/term/) [for](/post/for/) mixing [salad](/post/salad/) ingredients [together](/post/together/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (n.):** "[He](/en/post/he/) tossed [the](/en/post/the/) keys [onto](/en/post/onto/) [the](/en/post/the/) [table](/en/post/table/) [when](/en/post/when/) [he](/en/post/he/) came [home](/en/post/home/)."
-- **[Verb](/en/post/verb/) (transitive):** "[She](/en/post/she/) tossed [the](/en/post/the/) [clothes](/en/post/clothes/) [into](/en/post/into/) [the](/en/post/the/) washing [machine](/en/post/machine/)."
-- **[Verb](/en/post/verb/) (intransitive):** "[The](/en/post/the/) [wind](/en/post/wind/) tossed [the](/en/post/the/) leaves [off](/en/post/off/) [the](/en/post/the/) trees."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (n.):** "[He](/post/he/) tossed [the](/post/the/) keys [onto](/post/onto/) [the](/post/the/) [table](/post/table/) [when](/post/when/) [he](/post/he/) came [home](/post/home/)."
+- **[Verb](/post/verb/) (transitive):** "[She](/post/she/) tossed [the](/post/the/) [clothes](/post/clothes/) [into](/post/into/) [the](/post/the/) washing [machine](/post/machine/)."
+- **[Verb](/post/verb/) (intransitive):** "[The](/post/the/) [wind](/post/wind/) tossed [the](/post/the/) leaves [off](/post/off/) [the](/post/the/) trees."
 
 ## Synonyms
 -甩 (shuǎi)
--[Throw](/en/post/throw/) ([throw](/en/post/throw/))
+-[Throw](/post/throw/) ([throw](/post/throw/))
 -Fling
 -Hurl
 -Skewer (informal)
 
 ## Antonyms
-- [Catch](/en/post/catch/)
-- [Hold](/en/post/hold/)
-- [Receive](/en/post/receive/)
-- [Keep](/en/post/keep/)
+- [Catch](/post/catch/)
+- [Hold](/post/hold/)
+- [Receive](/post/receive/)
+- [Keep](/post/keep/)
 
 ## Idioms
-- [Toss](/en/post/toss/) [a](/en/post/a/) curveball: [To](/en/post/to/) [present](/en/post/present/) [something](/en/post/something/) [unexpected](/en/post/unexpected/) [or](/en/post/or/) [difficult](/en/post/difficult/).
-- [Toss](/en/post/toss/) [out](/en/post/out/) [a](/en/post/a/) [theory](/en/post/theory/): [To](/en/post/to/) [propose](/en/post/propose/) an [idea](/en/post/idea/) [without](/en/post/without/) [much](/en/post/much/) [evidence](/en/post/evidence/) [or](/en/post/or/) [foundation](/en/post/foundation/).
+- [Toss](/post/toss/) [a](/post/a/) curveball: [To](/post/to/) [present](/post/present/) [something](/post/something/) [unexpected](/post/unexpected/) [or](/post/or/) [difficult](/post/difficult/).
+- [Toss](/post/toss/) [out](/post/out/) [a](/post/a/) [theory](/post/theory/): [To](/post/to/) [propose](/post/propose/) an [idea](/post/idea/) [without](/post/without/) [much](/post/much/) [evidence](/post/evidence/) [or](/post/or/) [foundation](/post/foundation/).

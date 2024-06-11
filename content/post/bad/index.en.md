@@ -7,42 +7,42 @@ description = '[bæd] a.坏的，恶的；严重的'
 keywords = ['ai words', 'bad']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bæd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Bad](/en/post/bad/)**: 1. [Of](/en/post/of/) [poor](/en/post/poor/) [quality](/en/post/quality/) [or](/en/post/or/) [unsatisfactory](/en/post/unsatisfactory/). "[The](/en/post/the/) [weather](/en/post/weather/) was [really](/en/post/really/) [bad](/en/post/bad/) [that](/en/post/that/) [day](/en/post/day/)."
-- 2. Unfavorable; adverse. "[His](/en/post/his/) [health](/en/post/health/) has been [bad](/en/post/bad/) [lately](/en/post/lately/)."
-- 3. [Unlucky](/en/post/unlucky/) [or](/en/post/or/) [unfortunate](/en/post/unfortunate/). "[She](/en/post/she/) had [a](/en/post/a/) [bad](/en/post/bad/) [run](/en/post/run/) [of](/en/post/of/) [luck](/en/post/luck/)."
+### [Noun](/post/noun/)
+- **[Bad](/post/bad/)**: 1. [Of](/post/of/) [poor](/post/poor/) [quality](/post/quality/) [or](/post/or/) [unsatisfactory](/post/unsatisfactory/). "[The](/post/the/) [weather](/post/weather/) was [really](/post/really/) [bad](/post/bad/) [that](/post/that/) [day](/post/day/)."
+- 2. Unfavorable; adverse. "[His](/post/his/) [health](/post/health/) has been [bad](/post/bad/) [lately](/post/lately/)."
+- 3. [Unlucky](/post/unlucky/) [or](/post/or/) [unfortunate](/post/unfortunate/). "[She](/post/she/) had [a](/post/a/) [bad](/post/bad/) [run](/post/run/) [of](/post/of/) [luck](/post/luck/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [be](/en/post/be/) [bad](/en/post/bad/)**: [To](/en/post/to/) [be](/en/post/be/) [of](/en/post/of/) [poor](/en/post/poor/) [quality](/en/post/quality/) [or](/en/post/or/) [condition](/en/post/condition/). "[This](/en/post/this/) [cake](/en/post/cake/) doesn't [taste](/en/post/taste/) [good](/en/post/good/); it's [bad](/en/post/bad/)."
-- 2. [To](/en/post/to/) [cause](/en/post/cause/) [harm](/en/post/harm/) [or](/en/post/or/) [damage](/en/post/damage/). "[His](/en/post/his/) actions had [bad](/en/post/bad/) consequences."
-- 3. [To](/en/post/to/) [behave](/en/post/behave/) poorly [or](/en/post/or/) morally [wrong](/en/post/wrong/). "Don't [be](/en/post/be/) [bad](/en/post/bad/) [to](/en/post/to/) [your](/en/post/your/) [little](/en/post/little/) [sister](/en/post/sister/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [be](/post/be/) [bad](/post/bad/)**: [To](/post/to/) [be](/post/be/) [of](/post/of/) [poor](/post/poor/) [quality](/post/quality/) [or](/post/or/) [condition](/post/condition/). "[This](/post/this/) [cake](/post/cake/) doesn't [taste](/post/taste/) [good](/post/good/); it's [bad](/post/bad/)."
+- 2. [To](/post/to/) [cause](/post/cause/) [harm](/post/harm/) [or](/post/or/) [damage](/post/damage/). "[His](/post/his/) actions had [bad](/post/bad/) consequences."
+- 3. [To](/post/to/) [behave](/post/behave/) poorly [or](/post/or/) morally [wrong](/post/wrong/). "Don't [be](/post/be/) [bad](/post/bad/) [to](/post/to/) [your](/post/your/) [little](/post/little/) [sister](/post/sister/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Bad](/en/post/bad/)**: 1. [Opposite](/en/post/opposite/) [of](/en/post/of/) [good](/en/post/good/). "[A](/en/post/a/) [bad](/en/post/bad/) [grade](/en/post/grade/) [on](/en/post/on/) [the](/en/post/the/) [exam](/en/post/exam/)."
-- 2. [Wicked](/en/post/wicked/) [or](/en/post/or/) immoral. "He's [a](/en/post/a/) [bad](/en/post/bad/) [person](/en/post/person/)."
-- 3. [Intense](/en/post/intense/) [or](/en/post/or/) [severe](/en/post/severe/). "[A](/en/post/a/) [bad](/en/post/bad/) [headache](/en/post/headache/)."
+### [Adjective](/post/adjective/)
+- **[Bad](/post/bad/)**: 1. [Opposite](/post/opposite/) [of](/post/of/) [good](/post/good/). "[A](/post/a/) [bad](/post/bad/) [grade](/post/grade/) [on](/post/on/) [the](/post/the/) [exam](/post/exam/)."
+- 2. [Wicked](/post/wicked/) [or](/post/or/) immoral. "He's [a](/post/a/) [bad](/post/bad/) [person](/post/person/)."
+- 3. [Intense](/post/intense/) [or](/post/or/) [severe](/post/severe/). "[A](/post/a/) [bad](/post/bad/) [headache](/post/headache/)."
 
-### [Adverb](/en/post/adverb/)
-- **[Badly](/en/post/badly/)**: [In](/en/post/in/) [a](/en/post/a/) [poor](/en/post/poor/) [manner](/en/post/manner/) [or](/en/post/or/) [to](/en/post/to/) an [extent](/en/post/extent/). "[He](/en/post/he/) performed [badly](/en/post/badly/) [in](/en/post/in/) [the](/en/post/the/) [race](/en/post/race/)."
+### [Adverb](/post/adverb/)
+- **[Badly](/post/badly/)**: [In](/post/in/) [a](/post/a/) [poor](/post/poor/) [manner](/post/manner/) [or](/post/or/) [to](/post/to/) an [extent](/post/extent/). "[He](/post/he/) performed [badly](/post/badly/) [in](/post/in/) [the](/post/the/) [race](/post/race/)."
 
 ## Phrases
-- "[Feel](/en/post/feel/) [bad](/en/post/bad/) [about](/en/post/about/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [feel](/en/post/feel/) remorse [or](/en/post/or/) [regret](/en/post/regret/).
-- "[Be](/en/post/be/) [bad](/en/post/bad/) [for](/en/post/for/) [you](/en/post/you/)" implies [that](/en/post/that/) [something](/en/post/something/) is [harmful](/en/post/harmful/) [or](/en/post/or/) detrimental [to](/en/post/to/) [health](/en/post/health/).
-- "[Worse](/en/post/worse/) [than](/en/post/than/) [bad](/en/post/bad/)" describes [something](/en/post/something/) [extremely](/en/post/extremely/) [negative](/en/post/negative/).
+- "[Feel](/post/feel/) [bad](/post/bad/) [about](/post/about/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [feel](/post/feel/) remorse [or](/post/or/) [regret](/post/regret/).
+- "[Be](/post/be/) [bad](/post/bad/) [for](/post/for/) [you](/post/you/)" implies [that](/post/that/) [something](/post/something/) is [harmful](/post/harmful/) [or](/post/or/) detrimental [to](/post/to/) [health](/post/health/).
+- "[Worse](/post/worse/) [than](/post/than/) [bad](/post/bad/)" describes [something](/post/something/) [extremely](/post/extremely/) [negative](/post/negative/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [food](/en/post/food/) poisoning made [him](/en/post/him/) [feel](/en/post/feel/) [really](/en/post/really/) [bad](/en/post/bad/) [all](/en/post/all/) [day](/en/post/day/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) behaved [badly](/en/post/badly/) [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/), [which](/en/post/which/) led [to](/en/post/to/) [his](/en/post/his/) suspension."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) wore [a](/en/post/a/) [bad](/en/post/bad/) [haircut](/en/post/haircut/), [which](/en/post/which/) [she](/en/post/she/) regretted."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) [badly](/en/post/badly/) needed [a](/en/post/a/) [break](/en/post/break/) [after](/en/post/after/) working [for](/en/post/for/) hours [straight](/en/post/straight/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [food](/post/food/) poisoning made [him](/post/him/) [feel](/post/feel/) [really](/post/really/) [bad](/post/bad/) [all](/post/all/) [day](/post/day/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) behaved [badly](/post/badly/) [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/), [which](/post/which/) led [to](/post/to/) [his](/post/his/) suspension."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) wore [a](/post/a/) [bad](/post/bad/) [haircut](/post/haircut/), [which](/post/which/) [she](/post/she/) regretted."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) [badly](/post/badly/) needed [a](/post/a/) [break](/post/break/) [after](/post/after/) working [for](/post/for/) hours [straight](/post/straight/)."
 
 ## Synonyms
-- [Poor](/en/post/poor/)
-- [Terrible](/en/post/terrible/)
-- [Awful](/en/post/awful/)
-- [Unpleasant](/en/post/unpleasant/)
+- [Poor](/post/poor/)
+- [Terrible](/post/terrible/)
+- [Awful](/post/awful/)
+- [Unpleasant](/post/unpleasant/)
 - Deplorable

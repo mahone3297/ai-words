@@ -11,20 +11,20 @@ keywords = ['ai words', 'recently']
 /rɪˈsntli/
 
 ## 释义
-- **副词**: 近来，最近，不久前。例如: "I've been [busy](/post/busy/) [recently](/post/recently/) [and](/post/and/) haven't had [time](/post/time/) [to](/post/to/) [visit](/post/visit/) [my](/post/my/) parents."
-- **形容词**: 最近的，新近的。例如: "[The](/post/the/) [recently](/post/recently/) released [movie](/post/movie/) has received [great](/post/great/) reviews."
+- **副词**: 近来，最近，不久前。例如: "I've been [busy](/zh/post/busy/) [recently](/zh/post/recently/) [and](/zh/post/and/) haven't had [time](/zh/post/time/) [to](/zh/post/to/) [visit](/zh/post/visit/) [my](/zh/post/my/) parents."
+- **形容词**: 最近的，新近的。例如: "[The](/zh/post/the/) [recently](/zh/post/recently/) released [movie](/zh/post/movie/) has received [great](/zh/post/great/) reviews."
 
 ## 短语
-- "[recently](/post/recently/) arrived" 意为最近到达的。
-- "[in](/post/in/) [recent](/post/recent/) times" 表示在最近的时期。
+- "[recently](/zh/post/recently/) arrived" 意为最近到达的。
+- "[in](/zh/post/in/) [recent](/zh/post/recent/) times" 表示在最近的时期。
 
 ## 例句
-- 副词: "[She](/post/she/) has [recently](/post/recently/) started working [at](/post/at/) [a](/post/a/) [new](/post/new/) [company](/post/company/)."
-- 形容词: "[The](/post/the/) [recently](/post/recently/) discovered [evidence](/post/evidence/) changed [the](/post/the/) [course](/post/course/) [of](/post/of/) [the](/post/the/) [investigation](/post/investigation/)."
+- 副词: "[She](/zh/post/she/) has [recently](/zh/post/recently/) started working [at](/zh/post/at/) [a](/zh/post/a/) [new](/zh/post/new/) [company](/zh/post/company/)."
+- 形容词: "[The](/zh/post/the/) [recently](/zh/post/recently/) discovered [evidence](/zh/post/evidence/) changed [the](/zh/post/the/) [course](/zh/post/course/) [of](/zh/post/of/) [the](/zh/post/the/) [investigation](/zh/post/investigation/)."
 
 ## 同义词
-- [Lately](/post/lately/)
-- [Recently](/post/recently/)
-- [Of](/post/of/) [late](/post/late/)
-- [In](/post/in/) [the](/post/the/) [past](/post/past/) [few](/post/few/) days/weeks/months
-- [Not](/post/not/) [long](/post/long/) [ago](/post/ago/)
+- [Lately](/zh/post/lately/)
+- [Recently](/zh/post/recently/)
+- [Of](/zh/post/of/) [late](/zh/post/late/)
+- [In](/zh/post/in/) [the](/zh/post/the/) [past](/zh/post/past/) [few](/zh/post/few/) days/weeks/months
+- [Not](/zh/post/not/) [long](/zh/post/long/) [ago](/zh/post/ago/)

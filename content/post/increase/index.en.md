@@ -7,49 +7,49 @@ description = '[inˈkriːs] vt.&vi.&n.增加'
 keywords = ['ai words', 'increase']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈkriːs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [growth](/en/post/growth/) [in](/en/post/in/) [size](/en/post/size/), [amount](/en/post/amount/), [degree](/en/post/degree/), [or](/en/post/or/) [value](/en/post/value/); augmentation [or](/en/post/or/) [rise](/en/post/rise/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) reported [a](/en/post/a/) [significant](/en/post/significant/) [increase](/en/post/increase/) [in](/en/post/in/) profits [this](/en/post/this/) [quarter](/en/post/quarter/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [become](/en/post/become/) greater [in](/en/post/in/) [size](/en/post/size/), [amount](/en/post/amount/), [degree](/en/post/degree/), [or](/en/post/or/) [value](/en/post/value/); [to](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) greater. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [plan](/en/post/plan/) [to](/en/post/to/) [increase](/en/post/increase/) [production](/en/post/production/) [by](/en/post/by/) 20% [next](/en/post/next/) [year](/en/post/year/)." 
+- **[Noun](/post/noun/)**: [A](/post/a/) [growth](/post/growth/) [in](/post/in/) [size](/post/size/), [amount](/post/amount/), [degree](/post/degree/), [or](/post/or/) [value](/post/value/); augmentation [or](/post/or/) [rise](/post/rise/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) reported [a](/post/a/) [significant](/post/significant/) [increase](/post/increase/) [in](/post/in/) profits [this](/post/this/) [quarter](/post/quarter/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [become](/post/become/) greater [in](/post/in/) [size](/post/size/), [amount](/post/amount/), [degree](/post/degree/), [or](/post/or/) [value](/post/value/); [to](/post/to/) [make](/post/make/) [something](/post/something/) greater. [For](/post/for/) [example](/post/example/): "[They](/post/they/) [plan](/post/plan/) [to](/post/to/) [increase](/post/increase/) [production](/post/production/) [by](/post/by/) 20% [next](/post/next/) [year](/post/year/)." 
 
-### [Noun](/en/post/noun/) [usage](/en/post/usage/) examples:
-- "[There](/en/post/there/) has been [a](/en/post/a/) [noticeable](/en/post/noticeable/) [increase](/en/post/increase/) [in](/en/post/in/) [traffic](/en/post/traffic/) [since](/en/post/since/) [the](/en/post/the/) [new](/en/post/new/) [shopping](/en/post/shopping/) mall opened."
-- "[Regular](/en/post/regular/) [exercise](/en/post/exercise/) [can](/en/post/can/) [lead](/en/post/lead/) [to](/en/post/to/) an [increase](/en/post/increase/) [in](/en/post/in/) [muscle](/en/post/muscle/) [mass](/en/post/mass/)."
+### [Noun](/post/noun/) [usage](/post/usage/) examples:
+- "[There](/post/there/) has been [a](/post/a/) [noticeable](/post/noticeable/) [increase](/post/increase/) [in](/post/in/) [traffic](/post/traffic/) [since](/post/since/) [the](/post/the/) [new](/post/new/) [shopping](/post/shopping/) mall opened."
+- "[Regular](/post/regular/) [exercise](/post/exercise/) [can](/post/can/) [lead](/post/lead/) [to](/post/to/) an [increase](/post/increase/) [in](/post/in/) [muscle](/post/muscle/) [mass](/post/mass/)."
 
-### [Verb](/en/post/verb/) [usage](/en/post/usage/) examples:
-- "[Management](/en/post/management/) decided [to](/en/post/to/) [increase](/en/post/increase/) [employee](/en/post/employee/) salaries [to](/en/post/to/) [improve](/en/post/improve/) morale."
-- "[By](/en/post/by/) [saving](/en/post/saving/) [money](/en/post/money/) [each](/en/post/each/) [month](/en/post/month/), [she](/en/post/she/) increased [her](/en/post/her/) savings [account](/en/post/account/) [balance](/en/post/balance/)."
+### [Verb](/post/verb/) [usage](/post/usage/) examples:
+- "[Management](/post/management/) decided [to](/post/to/) [increase](/post/increase/) [employee](/post/employee/) salaries [to](/post/to/) [improve](/post/improve/) morale."
+- "[By](/post/by/) [saving](/post/saving/) [money](/post/money/) [each](/post/each/) [month](/post/month/), [she](/post/she/) increased [her](/post/her/) savings [account](/post/account/) [balance](/post/balance/)."
 
 ## Phrases
-- "[Increase](/en/post/increase/) [in](/en/post/in/)": Refers [to](/en/post/to/) [the](/en/post/the/) [growth](/en/post/growth/) [or](/en/post/or/) [addition](/en/post/addition/) [within](/en/post/within/) [a](/en/post/a/) [specific](/en/post/specific/) [area](/en/post/area/). [Example](/en/post/example/): "[There](/en/post/there/) has been an [increase](/en/post/increase/) [in](/en/post/in/) [demand](/en/post/demand/) [for](/en/post/for/) sustainable products."
-- "[Increase](/en/post/increase/) [by](/en/post/by/)": Indicates [the](/en/post/the/) magnitude [of](/en/post/of/) [the](/en/post/the/) [growth](/en/post/growth/). [Example](/en/post/example/): "Sales [have](/en/post/have/) increased [by](/en/post/by/) 50% compared [to](/en/post/to/) [last](/en/post/last/) [year](/en/post/year/)."
-- "[On](/en/post/on/) [the](/en/post/the/) [increase](/en/post/increase/)": [This](/en/post/this/) [means](/en/post/means/) [that](/en/post/that/) [something](/en/post/something/) is growing [or](/en/post/or/) becoming [more](/en/post/more/) [frequent](/en/post/frequent/). [Example](/en/post/example/): "[Crime](/en/post/crime/) rates [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/) are [on](/en/post/on/) [the](/en/post/the/) [increase](/en/post/increase/)."
+- "[Increase](/post/increase/) [in](/post/in/)": Refers [to](/post/to/) [the](/post/the/) [growth](/post/growth/) [or](/post/or/) [addition](/post/addition/) [within](/post/within/) [a](/post/a/) [specific](/post/specific/) [area](/post/area/). [Example](/post/example/): "[There](/post/there/) has been an [increase](/post/increase/) [in](/post/in/) [demand](/post/demand/) [for](/post/for/) sustainable products."
+- "[Increase](/post/increase/) [by](/post/by/)": Indicates [the](/post/the/) magnitude [of](/post/of/) [the](/post/the/) [growth](/post/growth/). [Example](/post/example/): "Sales [have](/post/have/) increased [by](/post/by/) 50% compared [to](/post/to/) [last](/post/last/) [year](/post/year/)."
+- "[On](/post/on/) [the](/post/the/) [increase](/post/increase/)": [This](/post/this/) [means](/post/means/) [that](/post/that/) [something](/post/something/) is growing [or](/post/or/) becoming [more](/post/more/) [frequent](/post/frequent/). [Example](/post/example/): "[Crime](/post/crime/) rates [in](/post/in/) [the](/post/the/) [city](/post/city/) are [on](/post/on/) [the](/post/the/) [increase](/post/increase/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [population](/en/post/population/) [increase](/en/post/increase/) [in](/en/post/in/) [our](/en/post/our/) [town](/en/post/town/) necessitates [the](/en/post/the/) [construction](/en/post/construction/) [of](/en/post/of/) [more](/en/post/more/) schools."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [increase](/en/post/increase/) [our](/en/post/our/) marketing efforts [if](/en/post/if/) [we](/en/post/we/) [want](/en/post/want/) [to](/en/post/to/) boost sales."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [population](/post/population/) [increase](/post/increase/) [in](/post/in/) [our](/post/our/) [town](/post/town/) necessitates [the](/post/the/) [construction](/post/construction/) [of](/post/of/) [more](/post/more/) schools."
+- **[Verb](/post/verb/)**: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [increase](/post/increase/) [our](/post/our/) marketing efforts [if](/post/if/) [we](/post/we/) [want](/post/want/) [to](/post/to/) boost sales."
 
 ## Synonyms
-- [Growth](/en/post/growth/)
-- [Rise](/en/post/rise/)
+- [Growth](/post/growth/)
+- [Rise](/post/rise/)
 - Boost
-- [Gain](/en/post/gain/)
-- [Advance](/en/post/advance/)
-- [Expansion](/en/post/expansion/)
-- [Development](/en/post/development/)
+- [Gain](/post/gain/)
+- [Advance](/post/advance/)
+- [Expansion](/post/expansion/)
+- [Development](/post/development/)
 - Upsurge
 - Augmentation
 - Enlargement
-- [Improvement](/en/post/improvement/)
+- [Improvement](/post/improvement/)
 
-[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), synonyms [may](/en/post/may/) [include](/en/post/include/):
+[As](/post/as/) [a](/post/a/) [verb](/post/verb/), synonyms [may](/post/may/) [include](/post/include/):
 - Enhance
 - Elevate
-- [Amplify](/en/post/amplify/)
-- [Multiply](/en/post/multiply/)
+- [Amplify](/post/amplify/)
+- [Multiply](/post/multiply/)
 - Magnify
-- [Raise](/en/post/raise/)
+- [Raise](/post/raise/)
 - Hike
 - Inflate

@@ -7,32 +7,32 @@ description = '[baiˈɔlədʒi] n.生物学；生态学'
 keywords = ['ai words', 'biology']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈɒlədʒi/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [scientific](/en/post/scientific/) [study](/en/post/study/) [of](/en/post/of/) [living](/en/post/living/) organisms, [their](/en/post/their/) [structure](/en/post/structure/), [function](/en/post/function/), [growth](/en/post/growth/), [evolution](/en/post/evolution/), [distribution](/en/post/distribution/), [and](/en/post/and/) interactions [with](/en/post/with/) [their](/en/post/their/) [environment](/en/post/environment/). **[Example](/en/post/example/)**: "[Biology](/en/post/biology/) is [a](/en/post/a/) fascinating [subject](/en/post/subject/) [that](/en/post/that/) explores生命的 mysteries."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [study](/en/post/study/) [or](/en/post/or/) [deal](/en/post/deal/) [with](/en/post/with/) [the](/en/post/the/) biological aspects [of](/en/post/of/) [something](/en/post/something/). **[Example](/en/post/example/)**: "[She](/en/post/she/) is majoring [in](/en/post/in/) [biology](/en/post/biology/) [to](/en/post/to/) [understand](/en/post/understand/) [the](/en/post/the/) complexities [of](/en/post/of/) ecosystems."
+- **[Noun](/post/noun/)**: [The](/post/the/) [scientific](/post/scientific/) [study](/post/study/) [of](/post/of/) [living](/post/living/) organisms, [their](/post/their/) [structure](/post/structure/), [function](/post/function/), [growth](/post/growth/), [evolution](/post/evolution/), [distribution](/post/distribution/), [and](/post/and/) interactions [with](/post/with/) [their](/post/their/) [environment](/post/environment/). **[Example](/post/example/)**: "[Biology](/post/biology/) is [a](/post/a/) fascinating [subject](/post/subject/) [that](/post/that/) explores生命的 mysteries."
+- **[Verb](/post/verb/)**: [To](/post/to/) [study](/post/study/) [or](/post/or/) [deal](/post/deal/) [with](/post/with/) [the](/post/the/) biological aspects [of](/post/of/) [something](/post/something/). **[Example](/post/example/)**: "[She](/post/she/) is majoring [in](/post/in/) [biology](/post/biology/) [to](/post/to/) [understand](/post/understand/) [the](/post/the/) complexities [of](/post/of/) ecosystems."
 
 ## Phrases
-- "[Biology](/en/post/biology/) [class](/en/post/class/)" refers [to](/en/post/to/) [a](/en/post/a/) [school](/en/post/school/) [course](/en/post/course/) [that](/en/post/that/) teaches [about](/en/post/about/) [life](/en/post/life/) sciences.
-- "Microbiology deals [with](/en/post/with/) [tiny](/en/post/tiny/) organisms." 
-- "Biodiversity is crucial [for](/en/post/for/) [the](/en/post/the/) planet's [health](/en/post/health/)."
+- "[Biology](/post/biology/) [class](/post/class/)" refers [to](/post/to/) [a](/post/a/) [school](/post/school/) [course](/post/course/) [that](/post/that/) teaches [about](/post/about/) [life](/post/life/) sciences.
+- "Microbiology deals [with](/post/with/) [tiny](/post/tiny/) organisms." 
+- "Biodiversity is crucial [for](/post/for/) [the](/post/the/) planet's [health](/post/health/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) biologist observed [various](/en/post/various/) species [in](/en/post/in/) [the](/en/post/the/) rainforest."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [pursue](/en/post/pursue/) [biology](/en/post/biology/) [to](/en/post/to/) [learn](/en/post/learn/) [more](/en/post/more/) [about](/en/post/about/) genetics."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [research](/en/post/research/) [in](/en/post/in/) biochemistry led [to](/en/post/to/) groundbreaking discoveries."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) biologist observed [various](/post/various/) species [in](/post/in/) [the](/post/the/) rainforest."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [pursue](/post/pursue/) [biology](/post/biology/) [to](/post/to/) [learn](/post/learn/) [more](/post/more/) [about](/post/about/) genetics."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [research](/post/research/) [in](/post/in/) biochemistry led [to](/post/to/) groundbreaking discoveries."
 
 ## Synonyms
-- [Biology](/en/post/biology/) studies
-- [Life](/en/post/life/) sciences
+- [Biology](/post/biology/) studies
+- [Life](/post/life/) sciences
 - Organismology
 - Biophysics
-- Zoology ([for](/en/post/for/) [the](/en/post/the/) [study](/en/post/study/) [of](/en/post/of/) animals)
-- Botany ([for](/en/post/for/) [the](/en/post/the/) [study](/en/post/study/) [of](/en/post/of/) plants)
-- Ecology ([for](/en/post/for/) [the](/en/post/the/) [study](/en/post/study/) [of](/en/post/of/) ecosystems)
+- Zoology ([for](/post/for/) [the](/post/the/) [study](/post/study/) [of](/post/of/) animals)
+- Botany ([for](/post/for/) [the](/post/the/) [study](/post/study/) [of](/post/of/) plants)
+- Ecology ([for](/post/for/) [the](/post/the/) [study](/post/study/) [of](/post/of/) ecosystems)
 
 ## Antonyms
-- Non-biological (pertaining [to](/en/post/to/) things [not](/en/post/not/) [living](/en/post/living/))
-- Inorganic [chemistry](/en/post/chemistry/) ([for](/en/post/for/) non-living [matter](/en/post/matter/))
+- Non-biological (pertaining [to](/post/to/) things [not](/post/not/) [living](/post/living/))
+- Inorganic [chemistry](/post/chemistry/) ([for](/post/for/) non-living [matter](/post/matter/))

@@ -7,26 +7,26 @@ description = 'pron.(主格)我'
 keywords = ['ai words', 'I']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /aɪ/
 
 ## Definitions
-- **[Pronoun](/en/post/pronoun/)**: [The](/en/post/the/) [personal](/en/post/personal/) [pronoun](/en/post/pronoun/) 'I' is [used](/en/post/used/) [by](/en/post/by/) [a](/en/post/a/) [speaker](/en/post/speaker/) [or](/en/post/or/) [writer](/en/post/writer/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [themselves](/en/post/themselves/) [as](/en/post/as/) [the](/en/post/the/) [subject](/en/post/subject/) [of](/en/post/of/) [a](/en/post/a/) [sentence](/en/post/sentence/). [For](/en/post/for/) [example](/en/post/example/): "I am going [to](/en/post/to/) [the](/en/post/the/) [store](/en/post/store/)." 
-- **[Noun](/en/post/noun/)**: [In](/en/post/in/) [philosophy](/en/post/philosophy/) [and](/en/post/and/) psychology, 'I' [can](/en/post/can/) [also](/en/post/also/) denote [the](/en/post/the/) [self](/en/post/self/) [or](/en/post/or/) ego; [the](/en/post/the/) individual's [sense](/en/post/sense/) [of](/en/post/of/) [personal](/en/post/personal/) identity. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) [the](/en/post/the/) 'I' [in](/en/post/in/) [modern](/en/post/modern/) psychology explores [the](/en/post/the/) [nature](/en/post/nature/) [of](/en/post/of/) self-awareness."
+- **[Pronoun](/post/pronoun/)**: [The](/post/the/) [personal](/post/personal/) [pronoun](/post/pronoun/) 'I' is [used](/post/used/) [by](/post/by/) [a](/post/a/) [speaker](/post/speaker/) [or](/post/or/) [writer](/post/writer/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [themselves](/post/themselves/) [as](/post/as/) [the](/post/the/) [subject](/post/subject/) [of](/post/of/) [a](/post/a/) [sentence](/post/sentence/). [For](/post/for/) [example](/post/example/): "I am going [to](/post/to/) [the](/post/the/) [store](/post/store/)." 
+- **[Noun](/post/noun/)**: [In](/post/in/) [philosophy](/post/philosophy/) [and](/post/and/) psychology, 'I' [can](/post/can/) [also](/post/also/) denote [the](/post/the/) [self](/post/self/) [or](/post/or/) ego; [the](/post/the/) individual's [sense](/post/sense/) [of](/post/of/) [personal](/post/personal/) identity. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [concept](/post/concept/) [of](/post/of/) [the](/post/the/) 'I' [in](/post/in/) [modern](/post/modern/) psychology explores [the](/post/the/) [nature](/post/nature/) [of](/post/of/) self-awareness."
 
 ## Phrases
-- "I am" is [used](/en/post/used/) [to](/en/post/to/) assert one's identity [or](/en/post/or/) [state](/en/post/state/).
-- "It's [me](/en/post/me/)/I" is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [identify](/en/post/identify/) [oneself](/en/post/oneself/) [over](/en/post/over/) [the](/en/post/the/) [phone](/en/post/phone/) [or](/en/post/or/) [when](/en/post/when/) [surprising](/en/post/surprising/) [someone](/en/post/someone/).
-- "[To](/en/post/to/) [be](/en/post/be/) [oneself](/en/post/oneself/)" implies [being](/en/post/being/) [true](/en/post/true/) [to](/en/post/to/) one's [own](/en/post/own/) personality [or](/en/post/or/) [character](/en/post/character/).
+- "I am" is [used](/post/used/) [to](/post/to/) assert one's identity [or](/post/or/) [state](/post/state/).
+- "It's [me](/post/me/)/I" is [often](/post/often/) [used](/post/used/) [to](/post/to/) [identify](/post/identify/) [oneself](/post/oneself/) [over](/post/over/) [the](/post/the/) [phone](/post/phone/) [or](/post/or/) [when](/post/when/) [surprising](/post/surprising/) [someone](/post/someone/).
+- "[To](/post/to/) [be](/post/be/) [oneself](/post/oneself/)" implies [being](/post/being/) [true](/post/true/) [to](/post/to/) one's [own](/post/own/) personality [or](/post/or/) [character](/post/character/).
 
-## [Example](/en/post/example/) Sentences
-- **[Pronoun](/en/post/pronoun/) ([Subject](/en/post/subject/))**: "I finished [my](/en/post/my/) homework [before](/en/post/before/) [dinner](/en/post/dinner/)."
-- **[Pronoun](/en/post/pronoun/) (Reflexive)**: "I [hurt](/en/post/hurt/) [myself](/en/post/myself/) [while](/en/post/while/) playing [football](/en/post/football/)."
-- **[Noun](/en/post/noun/) (Philosophical/[psychological](/en/post/psychological/) context)**: "[Understanding](/en/post/understanding/) [the](/en/post/the/) complexities [of](/en/post/of/) [the](/en/post/the/) [human](/en/post/human/) 'I' is crucial [in](/en/post/in/) [understanding](/en/post/understanding/) [behavior](/en/post/behavior/)."
+## [Example](/post/example/) Sentences
+- **[Pronoun](/post/pronoun/) ([Subject](/post/subject/))**: "I finished [my](/post/my/) homework [before](/post/before/) [dinner](/post/dinner/)."
+- **[Pronoun](/post/pronoun/) (Reflexive)**: "I [hurt](/post/hurt/) [myself](/post/myself/) [while](/post/while/) playing [football](/post/football/)."
+- **[Noun](/post/noun/) (Philosophical/[psychological](/post/psychological/) context)**: "[Understanding](/post/understanding/) [the](/post/the/) complexities [of](/post/of/) [the](/post/the/) [human](/post/human/) 'I' is crucial [in](/post/in/) [understanding](/post/understanding/) [behavior](/post/behavior/)."
 
 ## Synonyms
-- [Me](/en/post/me/) ([used](/en/post/used/) [as](/en/post/as/) [the](/en/post/the/) [object](/en/post/object/) [of](/en/post/of/) [a](/en/post/a/) [verb](/en/post/verb/) [or](/en/post/or/) [preposition](/en/post/preposition/))
-- [Myself](/en/post/myself/) (reflexive [form](/en/post/form/))
-- [Self](/en/post/self/) ([in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) one's [own](/en/post/own/) identity)
+- [Me](/post/me/) ([used](/post/used/) [as](/post/as/) [the](/post/the/) [object](/post/object/) [of](/post/of/) [a](/post/a/) [verb](/post/verb/) [or](/post/or/) [preposition](/post/preposition/))
+- [Myself](/post/myself/) (reflexive [form](/post/form/))
+- [Self](/post/self/) ([in](/post/in/) [reference](/post/reference/) [to](/post/to/) one's [own](/post/own/) identity)
 
-[Note](/en/post/note/): [While](/en/post/while/) "I" doesn't [have](/en/post/have/) [direct](/en/post/direct/) synonyms [in](/en/post/in/) [its](/en/post/its/) [use](/en/post/use/) [as](/en/post/as/) [a](/en/post/a/) [pronoun](/en/post/pronoun/) referring [to](/en/post/to/) [oneself](/en/post/oneself/), [other](/en/post/other/) forms [such](/en/post/such/) [as](/en/post/as/) "[me](/en/post/me/)" [and](/en/post/and/) "[myself](/en/post/myself/)" [serve](/en/post/serve/) related [grammatical](/en/post/grammatical/) functions [within](/en/post/within/) sentences. [However](/en/post/however/), [no](/en/post/no/) [single](/en/post/single/) [word](/en/post/word/) [can](/en/post/can/) [directly](/en/post/directly/) [replace](/en/post/replace/) "I" [as](/en/post/as/) [the](/en/post/the/) [subject](/en/post/subject/) [of](/en/post/of/) [a](/en/post/a/) [sentence](/en/post/sentence/).
+[Note](/post/note/): [While](/post/while/) "I" doesn't [have](/post/have/) [direct](/post/direct/) synonyms [in](/post/in/) [its](/post/its/) [use](/post/use/) [as](/post/as/) [a](/post/a/) [pronoun](/post/pronoun/) referring [to](/post/to/) [oneself](/post/oneself/), [other](/post/other/) forms [such](/post/such/) [as](/post/as/) "[me](/post/me/)" [and](/post/and/) "[myself](/post/myself/)" [serve](/post/serve/) related [grammatical](/post/grammatical/) functions [within](/post/within/) sentences. [However](/post/however/), [no](/post/no/) [single](/post/single/) [word](/post/word/) [can](/post/can/) [directly](/post/directly/) [replace](/post/replace/) "I" [as](/post/as/) [the](/post/the/) [subject](/post/subject/) [of](/post/of/) [a](/post/a/) [sentence](/post/sentence/).

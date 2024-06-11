@@ -12,20 +12,20 @@ keywords = ['ai words', 'compile']
 
 ## 释义
 - **动词**:
-  - 将源代码转换成可执行程序或库。例如: "I [need](/post/need/) [to](/post/to/) [compile](/post/compile/) [the](/post/the/) [code](/post/code/) [before](/post/before/) running [it](/post/it/)."
-  - 收集并组织信息或资料。例如: "[The](/post/the/) [editor](/post/editor/) is compiling [a](/post/a/) [new](/post/new/) anthology [of](/post/of/) [short](/post/short/) stories."
+  - 将源代码转换成可执行程序或库。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [compile](/zh/post/compile/) [the](/zh/post/the/) [code](/zh/post/code/) [before](/zh/post/before/) running [it](/zh/post/it/)."
+  - 收集并组织信息或资料。例如: "[The](/zh/post/the/) [editor](/zh/post/editor/) is compiling [a](/zh/post/a/) [new](/zh/post/new/) anthology [of](/zh/post/of/) [short](/zh/post/short/) stories."
 
 ## 短语
-- "[Compile](/post/compile/) errors" 指在编译过程中遇到的错误。
-- "[To](/post/to/) [compile](/post/compile/) [a](/post/a/) [program](/post/program/)" 是指将编程语言写的源代码转化为机器可以理解的二进制代码。
+- "[Compile](/zh/post/compile/) errors" 指在编译过程中遇到的错误。
+- "[To](/zh/post/to/) [compile](/zh/post/compile/) [a](/zh/post/a/) [program](/zh/post/program/)" 是指将编程语言写的源代码转化为机器可以理解的二进制代码。
 
 ## 例句
-- 动词: "[The](/post/the/) developer spent hours compiling [the](/post/the/) software [to](/post/to/) [fix](/post/fix/) [the](/post/the/) bugs."
-- 动词: "She's compiling [a](/post/a/) [list](/post/list/) [of](/post/of/) recipes [for](/post/for/) [her](/post/her/) cookbook."
+- 动词: "[The](/zh/post/the/) developer spent hours compiling [the](/zh/post/the/) software [to](/zh/post/to/) [fix](/zh/post/fix/) [the](/zh/post/the/) bugs."
+- 动词: "She's compiling [a](/zh/post/a/) [list](/zh/post/list/) [of](/zh/post/of/) recipes [for](/zh/post/for/) [her](/zh/post/her/) cookbook."
 
 ## 同义词
-- [Assemble](/post/assemble/)
-- [Gather](/post/gather/)
-- [Compile](/post/compile/) [together](/post/together/)
-- [Put](/post/put/) [together](/post/together/)
-- [Construct](/post/construct/)
+- [Assemble](/zh/post/assemble/)
+- [Gather](/zh/post/gather/)
+- [Compile](/zh/post/compile/) [together](/zh/post/together/)
+- [Put](/zh/post/put/) [together](/zh/post/together/)
+- [Construct](/zh/post/construct/)

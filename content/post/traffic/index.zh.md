@@ -11,23 +11,23 @@ keywords = ['ai words', 'traffic']
 /ˈtræfɪk/
 
 ## 释义
-- **名词**: 路上的车辆流动；交通（量）。例如: "[There](/post/there/) was [heavy](/post/heavy/) [traffic](/post/traffic/) [on](/post/on/) [the](/post/the/) [highway](/post/highway/) [during](/post/during/) [rush](/post/rush/) [hour](/post/hour/)."
-- **名词**: 交易；商业活动。例如: "[The](/post/the/) city's [port](/post/port/) handles [a](/post/a/) [large](/post/large/) [volume](/post/volume/) [of](/post/of/) [international](/post/international/) [trade](/post/trade/) [traffic](/post/traffic/)."
-- **动词**: 在网络上访问或浏览（网站）。例如: "[The](/post/the/) [new](/post/new/) website has been getting [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [traffic](/post/traffic/) [since](/post/since/) [its](/post/its/) [launch](/post/launch/)."
+- **名词**: 路上的车辆流动；交通（量）。例如: "[There](/zh/post/there/) was [heavy](/zh/post/heavy/) [traffic](/zh/post/traffic/) [on](/zh/post/on/) [the](/zh/post/the/) [highway](/zh/post/highway/) [during](/zh/post/during/) [rush](/zh/post/rush/) [hour](/zh/post/hour/)."
+- **名词**: 交易；商业活动。例如: "[The](/zh/post/the/) city's [port](/zh/post/port/) handles [a](/zh/post/a/) [large](/zh/post/large/) [volume](/zh/post/volume/) [of](/zh/post/of/) [international](/zh/post/international/) [trade](/zh/post/trade/) [traffic](/zh/post/traffic/)."
+- **动词**: 在网络上访问或浏览（网站）。例如: "[The](/zh/post/the/) [new](/zh/post/new/) website has been getting [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) [traffic](/zh/post/traffic/) [since](/zh/post/since/) [its](/zh/post/its/) [launch](/zh/post/launch/)."
 
 ## 短语
-- "[Traffic](/post/traffic/) [jam](/post/jam/)" 表示交通堵塞。
-- "[Heavy](/post/heavy/) [traffic](/post/traffic/)" 指交通繁忙或拥挤。
-- "[Traffic](/post/traffic/) [flow](/post/flow/)" 指交通的流动情况。
+- "[Traffic](/zh/post/traffic/) [jam](/zh/post/jam/)" 表示交通堵塞。
+- "[Heavy](/zh/post/heavy/) [traffic](/zh/post/traffic/)" 指交通繁忙或拥挤。
+- "[Traffic](/zh/post/traffic/) [flow](/zh/post/flow/)" 指交通的流动情况。
 
 ## 例句
-- 名词: "[The](/post/the/) [accident](/post/accident/) caused [a](/post/a/) [traffic](/post/traffic/) [jam](/post/jam/) [that](/post/that/) lasted [for](/post/for/) hours."
-- 名词: "[The](/post/the/) [company](/post/company/) relies [heavily](/post/heavily/) [on](/post/on/) internet [traffic](/post/traffic/) [to](/post/to/) [generate](/post/generate/) sales."
-- 动词: "[The](/post/the/) influencer's latest [post](/post/post/) attracted [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [traffic](/post/traffic/) [to](/post/to/) [their](/post/their/) blog."
+- 名词: "[The](/zh/post/the/) [accident](/zh/post/accident/) caused [a](/zh/post/a/) [traffic](/zh/post/traffic/) [jam](/zh/post/jam/) [that](/zh/post/that/) lasted [for](/zh/post/for/) hours."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) relies [heavily](/zh/post/heavily/) [on](/zh/post/on/) internet [traffic](/zh/post/traffic/) [to](/zh/post/to/) [generate](/zh/post/generate/) sales."
+- 动词: "[The](/zh/post/the/) influencer's latest [post](/zh/post/post/) attracted [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) [traffic](/zh/post/traffic/) [to](/zh/post/to/) [their](/zh/post/their/) blog."
 
 ## 同义词
-- Vehicular [movement](/post/movement/)
-- [Flow](/post/flow/)
+- Vehicular [movement](/zh/post/movement/)
+- [Flow](/zh/post/flow/)
 - Commute
-- [Movement](/post/movement/)
-- [Stream](/post/stream/)
+- [Movement](/zh/post/movement/)
+- [Stream](/zh/post/stream/)

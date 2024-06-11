@@ -7,32 +7,32 @@ description = '[ˌinfluˈen∫əl] a.有影响的；有权势的'
 keywords = ['ai words', 'influential']
 +++
 
-## [Word](/en/post/word/): [Influential](/en/post/influential/)
+## [Word](/post/word/): [Influential](/post/influential/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈflʊənʃənl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [the](/en/post/the/) [power](/en/post/power/) [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) [affect](/en/post/affect/) [or](/en/post/or/) [change](/en/post/change/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/); having [a](/en/post/a/) [strong](/en/post/strong/) [effect](/en/post/effect/) [on](/en/post/on/) someone's [behavior](/en/post/behavior/), opinions, [or](/en/post/or/) actions. 
+- **[Adjective](/post/adjective/)**: Having [the](/post/the/) [power](/post/power/) [or](/post/or/) [ability](/post/ability/) [to](/post/to/) [affect](/post/affect/) [or](/post/or/) [change](/post/change/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/); having [a](/post/a/) [strong](/post/strong/) [effect](/post/effect/) [on](/post/on/) someone's [behavior](/post/behavior/), opinions, [or](/post/or/) actions. 
 
 ### Examples
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) has [become](/en/post/become/) [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [most](/en/post/most/) [influential](/en/post/influential/) figures [in](/en/post/in/) [the](/en/post/the/) [fashion](/en/post/fashion/) [industry](/en/post/industry/)."
-  - "[His](/en/post/his/) [work](/en/post/work/) was [highly](/en/post/highly/) [influential](/en/post/influential/) [in](/en/post/in/) shaping [modern](/en/post/modern/) [literature](/en/post/literature/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) has [become](/post/become/) [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [influential](/post/influential/) figures [in](/post/in/) [the](/post/the/) [fashion](/post/fashion/) [industry](/post/industry/)."
+  - "[His](/post/his/) [work](/post/work/) was [highly](/post/highly/) [influential](/post/influential/) [in](/post/in/) shaping [modern](/post/modern/) [literature](/post/literature/)."
   
 ## Phrases
-- "An [influential](/en/post/influential/) [person](/en/post/person/)": Refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) holds [sway](/en/post/sway/) [over](/en/post/over/) others [or](/en/post/or/) [whose](/en/post/whose/) ideas [have](/en/post/have/) [a](/en/post/a/) [significant](/en/post/significant/) [impact](/en/post/impact/) [on](/en/post/on/) [their](/en/post/their/) [field](/en/post/field/) [or](/en/post/or/) [society](/en/post/society/).
-- "[Influential](/en/post/influential/) factors": [These](/en/post/these/) are elements [that](/en/post/that/) [play](/en/post/play/) [a](/en/post/a/) decisive [role](/en/post/role/) [or](/en/post/or/) [exert](/en/post/exert/) [considerable](/en/post/considerable/) [impact](/en/post/impact/) [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [outcome](/en/post/outcome/) [or](/en/post/or/) [decision](/en/post/decision/).
+- "An [influential](/post/influential/) [person](/post/person/)": Refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) holds [sway](/post/sway/) [over](/post/over/) others [or](/post/or/) [whose](/post/whose/) ideas [have](/post/have/) [a](/post/a/) [significant](/post/significant/) [impact](/post/impact/) [on](/post/on/) [their](/post/their/) [field](/post/field/) [or](/post/or/) [society](/post/society/).
+- "[Influential](/post/influential/) factors": [These](/post/these/) are elements [that](/post/that/) [play](/post/play/) [a](/post/a/) decisive [role](/post/role/) [or](/post/or/) [exert](/post/exert/) [considerable](/post/considerable/) [impact](/post/impact/) [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [outcome](/post/outcome/) [or](/post/or/) [decision](/post/decision/).
   
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [influential](/en/post/influential/) [speaker](/en/post/speaker/) captivated [the](/en/post/the/) [audience](/en/post/audience/) [with](/en/post/with/) [his](/en/post/his/) inspiring words."
-- "[Her](/en/post/her/) latest [book](/en/post/book/) became an [influential](/en/post/influential/) [text](/en/post/text/) [among](/en/post/among/) students studying environmental [science](/en/post/science/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [influential](/post/influential/) [speaker](/post/speaker/) captivated [the](/post/the/) [audience](/post/audience/) [with](/post/with/) [his](/post/his/) inspiring words."
+- "[Her](/post/her/) latest [book](/post/book/) became an [influential](/post/influential/) [text](/post/text/) [among](/post/among/) students studying environmental [science](/post/science/)."
 
 ## Synonyms
 - Impactful
 - Persuasive
-- [Powerful](/en/post/powerful/)
+- [Powerful](/post/powerful/)
 - Pivotal
-- [Significant](/en/post/significant/)
+- [Significant](/post/significant/)
 - Weighty
 - Authoritative
 - Potent

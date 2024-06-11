@@ -7,38 +7,38 @@ description = '[wəːst] a.最坏的 ad.最坏地'
 keywords = ['ai words', 'worst']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwɜːrst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) lowest [point](/en/post/point/) [or](/en/post/or/) [degree](/en/post/degree/) [of](/en/post/of/) [quality](/en/post/quality/), [quantity](/en/post/quantity/), [or](/en/post/or/) [value](/en/post/value/) [among](/en/post/among/) others; [the](/en/post/the/) [most](/en/post/most/) unfavorable [or](/en/post/or/) [unsatisfactory](/en/post/unsatisfactory/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) was [the](/en/post/the/) [worst](/en/post/worst/) [performance](/en/post/performance/) I've [ever](/en/post/ever/) seen."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [the](/en/post/the/) [most](/en/post/most/) unfavorable [manner](/en/post/manner/) [or](/en/post/or/) [to](/en/post/to/) [the](/en/post/the/) greatest [extent](/en/post/extent/); [extremely](/en/post/extremely/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) felt [the](/en/post/the/) [worst](/en/post/worst/) [after](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [journey](/en/post/journey/)."
+### [Noun](/post/noun/)
+- **[Adjective](/post/adjective/)**: [The](/post/the/) lowest [point](/post/point/) [or](/post/or/) [degree](/post/degree/) [of](/post/of/) [quality](/post/quality/), [quantity](/post/quantity/), [or](/post/or/) [value](/post/value/) [among](/post/among/) others; [the](/post/the/) [most](/post/most/) unfavorable [or](/post/or/) [unsatisfactory](/post/unsatisfactory/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) was [the](/post/the/) [worst](/post/worst/) [performance](/post/performance/) I've [ever](/post/ever/) seen."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [the](/post/the/) [most](/post/most/) unfavorable [manner](/post/manner/) [or](/post/or/) [to](/post/to/) [the](/post/the/) greatest [extent](/post/extent/); [extremely](/post/extremely/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) felt [the](/post/the/) [worst](/post/worst/) [after](/post/after/) [the](/post/the/) [long](/post/long/) [journey](/post/journey/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [consider](/en/post/consider/) [or](/en/post/or/) [regard](/en/post/regard/) [something](/en/post/something/) [as](/en/post/as/) [the](/en/post/the/) [worst](/en/post/worst/); [to](/en/post/to/) [judge](/en/post/judge/) negatively. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) critics panned [the](/en/post/the/) [movie](/en/post/movie/) [as](/en/post/as/) [the](/en/post/the/) [worst](/en/post/worst/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/)."
-- [To](/en/post/to/) [experience](/en/post/experience/) [the](/en/post/the/) [least](/en/post/least/) favorable [outcome](/en/post/outcome/) [or](/en/post/or/) consequences. [For](/en/post/for/) [example](/en/post/example/): "I feared [the](/en/post/the/) [worst](/en/post/worst/) [when](/en/post/when/) I [saw](/en/post/saw/) [the](/en/post/the/) [storm](/en/post/storm/) approaching."
+### [Verb](/post/verb/)
+- [To](/post/to/) [consider](/post/consider/) [or](/post/or/) [regard](/post/regard/) [something](/post/something/) [as](/post/as/) [the](/post/the/) [worst](/post/worst/); [to](/post/to/) [judge](/post/judge/) negatively. [For](/post/for/) [example](/post/example/): "[The](/post/the/) critics panned [the](/post/the/) [movie](/post/movie/) [as](/post/as/) [the](/post/the/) [worst](/post/worst/) [of](/post/of/) [the](/post/the/) [year](/post/year/)."
+- [To](/post/to/) [experience](/post/experience/) [the](/post/the/) [least](/post/least/) favorable [outcome](/post/outcome/) [or](/post/or/) consequences. [For](/post/for/) [example](/post/example/): "I feared [the](/post/the/) [worst](/post/worst/) [when](/post/when/) I [saw](/post/saw/) [the](/post/the/) [storm](/post/storm/) approaching."
 
 ## Phrases
-- "Worst-case scenario" refers [to](/en/post/to/) [the](/en/post/the/) [most](/en/post/most/) [pessimistic](/en/post/pessimistic/) [or](/en/post/or/) unfavorable [situation](/en/post/situation/).
-- "[Not](/en/post/not/) [the](/en/post/the/) [worst](/en/post/worst/) [thing](/en/post/thing/) [that](/en/post/that/) [could](/en/post/could/) [happen](/en/post/happen/)" implies [a](/en/post/a/) [slightly](/en/post/slightly/) [less](/en/post/less/) [severe](/en/post/severe/) [situation](/en/post/situation/).
-- "[Better](/en/post/better/) [than](/en/post/than/) [the](/en/post/the/) [worst](/en/post/worst/)" suggests [a](/en/post/a/) [comparative](/en/post/comparative/) [improvement](/en/post/improvement/).
+- "Worst-case scenario" refers [to](/post/to/) [the](/post/the/) [most](/post/most/) [pessimistic](/post/pessimistic/) [or](/post/or/) unfavorable [situation](/post/situation/).
+- "[Not](/post/not/) [the](/post/the/) [worst](/post/worst/) [thing](/post/thing/) [that](/post/that/) [could](/post/could/) [happen](/post/happen/)" implies [a](/post/a/) [slightly](/post/slightly/) [less](/post/less/) [severe](/post/severe/) [situation](/post/situation/).
+- "[Better](/post/better/) [than](/post/than/) [the](/post/the/) [worst](/post/worst/)" suggests [a](/post/a/) [comparative](/post/comparative/) [improvement](/post/improvement/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [weather](/en/post/weather/) turned [out](/en/post/out/) [to](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [worst](/en/post/worst/) [they](/en/post/they/) had predicted."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) was relieved [that](/en/post/that/) [the](/en/post/the/) [exam](/en/post/exam/) wasn't [as](/en/post/as/) [bad](/en/post/bad/) [as](/en/post/as/) [she](/en/post/she/) had feared."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) acted [the](/en/post/the/) [worst](/en/post/worst/) [when](/en/post/when/) [he](/en/post/he/) lost [the](/en/post/the/) [game](/en/post/game/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [weather](/post/weather/) turned [out](/post/out/) [to](/post/to/) [be](/post/be/) [the](/post/the/) [worst](/post/worst/) [they](/post/they/) had predicted."
+- **[Verb](/post/verb/)**: "[She](/post/she/) was relieved [that](/post/that/) [the](/post/the/) [exam](/post/exam/) wasn't [as](/post/as/) [bad](/post/bad/) [as](/post/as/) [she](/post/she/) had feared."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) acted [the](/post/the/) [worst](/post/worst/) [when](/post/when/) [he](/post/he/) lost [the](/post/the/) [game](/post/game/)."
 
 ## Synonyms
-- [Terrible](/en/post/terrible/)
-- [Awful](/en/post/awful/)
+- [Terrible](/post/terrible/)
+- [Awful](/post/awful/)
 - Dreadful
 - Excruciating
 - Disastrous
 
 ## Antonyms
-- [Best](/en/post/best/)
-- [Excellent](/en/post/excellent/)
-- [Good](/en/post/good/)
-- [Fine](/en/post/fine/)
+- [Best](/post/best/)
+- [Excellent](/post/excellent/)
+- [Good](/post/good/)
+- [Fine](/post/fine/)
 - Optimal

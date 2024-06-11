@@ -7,37 +7,37 @@ description = '[ˈlitərəri] a.文学(上)的'
 keywords = ['ai words', 'literary']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɪtərəri/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [literature](/en/post/literature/), books, [or](/en/post/or/) [writing](/en/post/writing/), [often](/en/post/often/) implying [a](/en/post/a/) [concern](/en/post/concern/) [with](/en/post/with/) [artistic](/en/post/artistic/) [or](/en/post/or/) scholarly aspects. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [degree](/en/post/degree/) [in](/en/post/in/) [literary](/en/post/literary/) studies."
-  - *[Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) is [characteristic](/en/post/characteristic/) [of](/en/post/of/) [literature](/en/post/literature/) [or](/en/post/or/) written works*: "[The](/en/post/the/) [novel](/en/post/novel/) contains [many](/en/post/many/) [literary](/en/post/literary/) allusions."
-- **[Noun](/en/post/noun/) ([plural](/en/post/plural/) [form](/en/post/form/) 'literaries')**: Refers [to](/en/post/to/) [literary](/en/post/literary/) works [or](/en/post/or/) writings collectively; [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [literary](/en/post/literary/) [people](/en/post/people/) [or](/en/post/or/) activities. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) interests [include](/en/post/include/) attending [literary](/en/post/literary/) events [and](/en/post/and/) [reading](/en/post/reading/) [the](/en/post/the/) latest literaries."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [literature](/post/literature/), books, [or](/post/or/) [writing](/post/writing/), [often](/post/often/) implying [a](/post/a/) [concern](/post/concern/) [with](/post/with/) [artistic](/post/artistic/) [or](/post/or/) scholarly aspects. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [degree](/post/degree/) [in](/post/in/) [literary](/post/literary/) studies."
+  - *[Also](/post/also/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) is [characteristic](/post/characteristic/) [of](/post/of/) [literature](/post/literature/) [or](/post/or/) written works*: "[The](/post/the/) [novel](/post/novel/) contains [many](/post/many/) [literary](/post/literary/) allusions."
+- **[Noun](/post/noun/) ([plural](/post/plural/) [form](/post/form/) 'literaries')**: Refers [to](/post/to/) [literary](/post/literary/) works [or](/post/or/) writings collectively; [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [literary](/post/literary/) [people](/post/people/) [or](/post/or/) activities. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) interests [include](/post/include/) attending [literary](/post/literary/) events [and](/post/and/) [reading](/post/reading/) [the](/post/the/) latest literaries."
 
 ## Phrases
-- "[Literary](/en/post/literary/) canon": [The](/en/post/the/) [body](/en/post/body/) [of](/en/post/of/) works considered [to](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [most](/en/post/most/) [important](/en/post/important/) [and](/en/post/and/) [influential](/en/post/influential/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [culture](/en/post/culture/) [or](/en/post/or/) genre.
-- "[Literary](/en/post/literary/) [analysis](/en/post/analysis/)": [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) examining [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [literature](/en/post/literature/) [to](/en/post/to/) [understand](/en/post/understand/) [its](/en/post/its/) [meaning](/en/post/meaning/), themes, [and](/en/post/and/) techniques [used](/en/post/used/) [by](/en/post/by/) [the](/en/post/the/) [author](/en/post/author/).
-- "[Literary](/en/post/literary/) devices": Techniques [used](/en/post/used/) [by](/en/post/by/) authors [to](/en/post/to/) [convey](/en/post/convey/) [meaning](/en/post/meaning/), [such](/en/post/such/) [as](/en/post/as/) metaphor, simile, personification, etc.
+- "[Literary](/post/literary/) canon": [The](/post/the/) [body](/post/body/) [of](/post/of/) works considered [to](/post/to/) [be](/post/be/) [the](/post/the/) [most](/post/most/) [important](/post/important/) [and](/post/and/) [influential](/post/influential/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [culture](/post/culture/) [or](/post/or/) genre.
+- "[Literary](/post/literary/) [analysis](/post/analysis/)": [The](/post/the/) [process](/post/process/) [of](/post/of/) examining [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [literature](/post/literature/) [to](/post/to/) [understand](/post/understand/) [its](/post/its/) [meaning](/post/meaning/), themes, [and](/post/and/) techniques [used](/post/used/) [by](/post/by/) [the](/post/the/) [author](/post/author/).
+- "[Literary](/post/literary/) devices": Techniques [used](/post/used/) [by](/post/by/) authors [to](/post/to/) [convey](/post/convey/) [meaning](/post/meaning/), [such](/post/such/) [as](/post/as/) metaphor, simile, personification, etc.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) author's [use](/en/post/use/) [of](/en/post/of/) metaphors is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [literary](/en/post/literary/) highlights [of](/en/post/of/) [the](/en/post/the/) [book](/en/post/book/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) immersed [herself](/en/post/herself/) [in](/en/post/in/) [the](/en/post/the/) [literary](/en/post/literary/) circles [of](/en/post/of/) [New](/en/post/new/) York [City](/en/post/city/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) author's [use](/post/use/) [of](/post/of/) metaphors is [one](/post/one/) [of](/post/of/) [the](/post/the/) [literary](/post/literary/) highlights [of](/post/of/) [the](/post/the/) [book](/post/book/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) immersed [herself](/post/herself/) [in](/post/in/) [the](/post/the/) [literary](/post/literary/) circles [of](/post/of/) [New](/post/new/) York [City](/post/city/)."
 
 ## Synonyms
 - Bookish
 - Scholarly
 - Literary-minded
 - Poetic
-- [Intellectual](/en/post/intellectual/)
+- [Intellectual](/post/intellectual/)
 
-[For](/en/post/for/) [the](/en/post/the/) [aspect](/en/post/aspect/) [of](/en/post/of/) [being](/en/post/being/) related [to](/en/post/to/) [literature](/en/post/literature/):
+[For](/post/for/) [the](/post/the/) [aspect](/post/aspect/) [of](/post/of/) [being](/post/being/) related [to](/post/to/) [literature](/post/literature/):
 - Erudite
-- [Learned](/en/post/learned/)
+- [Learned](/post/learned/)
 - Cultured
 
-[For](/en/post/for/) [the](/en/post/the/) [collective](/en/post/collective/) [sense](/en/post/sense/) [of](/en/post/of/) [literary](/en/post/literary/) works:
-- [Literature](/en/post/literature/)
+[For](/post/for/) [the](/post/the/) [collective](/post/collective/) [sense](/post/sense/) [of](/post/of/) [literary](/post/literary/) works:
+- [Literature](/post/literature/)
 - Writings
-- Works [of](/en/post/of/) [fiction](/en/post/fiction/) [or](/en/post/or/) non-fiction
-- Prose [or](/en/post/or/) [poetry](/en/post/poetry/)
+- Works [of](/post/of/) [fiction](/post/fiction/) [or](/post/or/) non-fiction
+- Prose [or](/post/or/) [poetry](/post/poetry/)

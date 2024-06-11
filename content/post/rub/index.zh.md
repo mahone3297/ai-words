@@ -12,21 +12,21 @@ keywords = ['ai words', 'rub']
 
 ## 释义
 - **动词**:
-    - 摩擦: 用物体的表面接触并移动以产生摩擦力。例如: "[He](/post/he/) rubbed [his](/post/his/) hands [together](/post/together/) [to](/post/to/) [warm](/post/warm/) [them](/post/them/) [up](/post/up/)."
-    - 揉搓: 在身体的某个部位施加压力并来回移动。例如: "[She](/post/she/) rubbed [her](/post/her/) temples [to](/post/to/) [ease](/post/ease/) [the](/post/the/) [headache](/post/headache/)."
-    - 擦拭: 用布或其他工具清洁或擦拭物体。例如: "I rubbed [the](/post/the/) [table](/post/table/) [with](/post/with/) [a](/post/a/) [damp](/post/damp/) [cloth](/post/cloth/) [to](/post/to/) [remove](/post/remove/) [the](/post/the/) [dirt](/post/dirt/)."
+    - 摩擦: 用物体的表面接触并移动以产生摩擦力。例如: "[He](/zh/post/he/) rubbed [his](/zh/post/his/) hands [together](/zh/post/together/) [to](/zh/post/to/) [warm](/zh/post/warm/) [them](/zh/post/them/) [up](/zh/post/up/)."
+    - 揉搓: 在身体的某个部位施加压力并来回移动。例如: "[She](/zh/post/she/) rubbed [her](/zh/post/her/) temples [to](/zh/post/to/) [ease](/zh/post/ease/) [the](/zh/post/the/) [headache](/zh/post/headache/)."
+    - 擦拭: 用布或其他工具清洁或擦拭物体。例如: "I rubbed [the](/zh/post/the/) [table](/zh/post/table/) [with](/zh/post/with/) [a](/zh/post/a/) [damp](/zh/post/damp/) [cloth](/zh/post/cloth/) [to](/zh/post/to/) [remove](/zh/post/remove/) [the](/zh/post/the/) [dirt](/zh/post/dirt/)."
 
 ## 短语
-- "[Rub](/post/rub/) [against](/post/against/) [something](/post/something/)" 意味着与某物摩擦。例如: "[The](/post/the/) [cat](/post/cat/) rubbed [against](/post/against/) [my](/post/my/) [leg](/post/leg/), seeking [attention](/post/attention/)."
-- "[Rub](/post/rub/) [it](/post/it/) [in](/post/in/)" 表示过分强调或让人感到不舒服的事情。例如: "Don't [rub](/post/rub/) [it](/post/it/) [in](/post/in/) [that](/post/that/) [you](/post/you/) passed [the](/post/the/) [exam](/post/exam/) [and](/post/and/) I didn't."
+- "[Rub](/zh/post/rub/) [against](/zh/post/against/) [something](/zh/post/something/)" 意味着与某物摩擦。例如: "[The](/zh/post/the/) [cat](/zh/post/cat/) rubbed [against](/zh/post/against/) [my](/zh/post/my/) [leg](/zh/post/leg/), seeking [attention](/zh/post/attention/)."
+- "[Rub](/zh/post/rub/) [it](/zh/post/it/) [in](/zh/post/in/)" 表示过分强调或让人感到不舒服的事情。例如: "Don't [rub](/zh/post/rub/) [it](/zh/post/it/) [in](/zh/post/in/) [that](/zh/post/that/) [you](/zh/post/you/) passed [the](/zh/post/the/) [exam](/zh/post/exam/) [and](/zh/post/and/) I didn't."
 
 ## 例句
-- 动词: "[She](/post/she/) rubbed [the](/post/the/) [cream](/post/cream/) [gently](/post/gently/) [onto](/post/onto/) [her](/post/her/) [skin](/post/skin/)."
-- 揉搓: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) rubbed [his](/post/his/) [sore](/post/sore/) muscles."
+- 动词: "[She](/zh/post/she/) rubbed [the](/zh/post/the/) [cream](/zh/post/cream/) [gently](/zh/post/gently/) [onto](/zh/post/onto/) [her](/zh/post/her/) [skin](/zh/post/skin/)."
+- 揉搓: "[After](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [day](/zh/post/day/), [he](/zh/post/he/) rubbed [his](/zh/post/his/) [sore](/zh/post/sore/) muscles."
 
 ## 同义词
 - Massage
-- [Stroke](/post/stroke/)
-- [Friction](/post/friction/)
+- [Stroke](/zh/post/stroke/)
+- [Friction](/zh/post/friction/)
 - Scrub
 - Buff

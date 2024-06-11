@@ -7,35 +7,35 @@ description = '[steil] n.陈腐的；走了气的'
 keywords = ['ai words', 'stale']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Not](/en/post/not/) [fresh](/en/post/fresh/) [or](/en/post/or/) [lively](/en/post/lively/); lacking [in](/en/post/in/) novelty [or](/en/post/or/) [interest](/en/post/interest/). "[The](/en/post/the/) [air](/en/post/air/) [in](/en/post/in/) [the](/en/post/the/) [room](/en/post/room/) felt [stale](/en/post/stale/) [after](/en/post/after/) hours [without](/en/post/without/) ventilation."
-   - **[Noun](/en/post/noun/)**: [A](/en/post/a/) [stale](/en/post/stale/) [item](/en/post/item/), [such](/en/post/such/) [as](/en/post/as/) [bread](/en/post/bread/) [or](/en/post/or/) [air](/en/post/air/). "[The](/en/post/the/) [bread](/en/post/bread/) had [become](/en/post/become/) [stale](/en/post/stale/) [after](/en/post/after/) [a](/en/post/a/) [few](/en/post/few/) days."
+- **[Adjective](/post/adjective/)**: 1. [Not](/post/not/) [fresh](/post/fresh/) [or](/post/or/) [lively](/post/lively/); lacking [in](/post/in/) novelty [or](/post/or/) [interest](/post/interest/). "[The](/post/the/) [air](/post/air/) [in](/post/in/) [the](/post/the/) [room](/post/room/) felt [stale](/post/stale/) [after](/post/after/) hours [without](/post/without/) ventilation."
+   - **[Noun](/post/noun/)**: [A](/post/a/) [stale](/post/stale/) [item](/post/item/), [such](/post/such/) [as](/post/as/) [bread](/post/bread/) [or](/post/or/) [air](/post/air/). "[The](/post/the/) [bread](/post/bread/) had [become](/post/become/) [stale](/post/stale/) [after](/post/after/) [a](/post/a/) [few](/post/few/) days."
 
 ## Phrases
-- "Stalemate" ([noun](/en/post/noun/)) - [a](/en/post/a/) [situation](/en/post/situation/) [in](/en/post/in/) [a](/en/post/a/) [game](/en/post/game/) [where](/en/post/where/) [neither](/en/post/neither/) [player](/en/post/player/) [can](/en/post/can/) [make](/en/post/make/) [a](/en/post/a/) [move](/en/post/move/) [without](/en/post/without/) [their](/en/post/their/) [own](/en/post/own/) [piece](/en/post/piece/) [being](/en/post/being/) captured.
-- "[Grow](/en/post/grow/) [stale](/en/post/stale/)" ([phrase](/en/post/phrase/)) - [to](/en/post/to/) [become](/en/post/become/) uninteresting [or](/en/post/or/) predictable [over](/en/post/over/) [time](/en/post/time/).
-- "[Avoid](/en/post/avoid/) [a](/en/post/a/) [stale](/en/post/stale/) [conversation](/en/post/conversation/)" ([idiom](/en/post/idiom/)) - [prevent](/en/post/prevent/) [a](/en/post/a/) [discussion](/en/post/discussion/) [from](/en/post/from/) becoming [dull](/en/post/dull/) [or](/en/post/or/) repetitive.
+- "Stalemate" ([noun](/post/noun/)) - [a](/post/a/) [situation](/post/situation/) [in](/post/in/) [a](/post/a/) [game](/post/game/) [where](/post/where/) [neither](/post/neither/) [player](/post/player/) [can](/post/can/) [make](/post/make/) [a](/post/a/) [move](/post/move/) [without](/post/without/) [their](/post/their/) [own](/post/own/) [piece](/post/piece/) [being](/post/being/) captured.
+- "[Grow](/post/grow/) [stale](/post/stale/)" ([phrase](/post/phrase/)) - [to](/post/to/) [become](/post/become/) uninteresting [or](/post/or/) predictable [over](/post/over/) [time](/post/time/).
+- "[Avoid](/post/avoid/) [a](/post/a/) [stale](/post/stale/) [conversation](/post/conversation/)" ([idiom](/post/idiom/)) - [prevent](/post/prevent/) [a](/post/a/) [discussion](/post/discussion/) [from](/post/from/) becoming [dull](/post/dull/) [or](/post/or/) repetitive.
 
-## [Example](/en/post/example/) Sentences
-- "[The](/en/post/the/) [air](/en/post/air/) [in](/en/post/in/) [the](/en/post/the/) basement was [stale](/en/post/stale/) [from](/en/post/from/) [lack](/en/post/lack/) [of](/en/post/of/) circulation."
-- "[Their](/en/post/their/) [relationship](/en/post/relationship/) had grown [stale](/en/post/stale/) [after](/en/post/after/) years [of](/en/post/of/) [routine](/en/post/routine/)."
-- "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [the](/en/post/the/) [smell](/en/post/smell/) [of](/en/post/of/) [the](/en/post/the/) [stale](/en/post/stale/) pizza [still](/en/post/still/) lingered [in](/en/post/in/) [the](/en/post/the/) [office](/en/post/office/)."
+## [Example](/post/example/) Sentences
+- "[The](/post/the/) [air](/post/air/) [in](/post/in/) [the](/post/the/) basement was [stale](/post/stale/) [from](/post/from/) [lack](/post/lack/) [of](/post/of/) circulation."
+- "[Their](/post/their/) [relationship](/post/relationship/) had grown [stale](/post/stale/) [after](/post/after/) years [of](/post/of/) [routine](/post/routine/)."
+- "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [the](/post/the/) [smell](/post/smell/) [of](/post/of/) [the](/post/the/) [stale](/post/stale/) pizza [still](/post/still/) lingered [in](/post/in/) [the](/post/the/) [office](/post/office/)."
 
 ## Synonyms
-- [Dull](/en/post/dull/)
-- [Flat](/en/post/flat/)
+- [Dull](/post/dull/)
+- [Flat](/post/flat/)
 - Monotonous
 - Unfresh
 - Stale-smelling
 - Bland
 
 ## Antonyms
-- [Fresh](/en/post/fresh/)
+- [Fresh](/post/fresh/)
 - Invigorating
-- [Lively](/en/post/lively/)
-- [Exciting](/en/post/exciting/)
-- [New](/en/post/new/)
+- [Lively](/post/lively/)
+- [Exciting](/post/exciting/)
+- [New](/post/new/)
 - Novelty

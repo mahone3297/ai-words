@@ -7,33 +7,33 @@ description = '[ˈɑːftə] prep.在…以后；次于'
 keywords = ['ai words', 'after']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaftə(r)/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Following](/en/post/following/) [or](/en/post/or/) [subsequent](/en/post/subsequent/) [to](/en/post/to/) [something](/en/post/something/) [else](/en/post/else/) [in](/en/post/in/) [time](/en/post/time/) [or](/en/post/or/) [sequence](/en/post/sequence/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) [meeting](/en/post/meeting/), we'll [have](/en/post/have/) [a](/en/post/a/) [break](/en/post/break/)."
-- **[Preposition](/en/post/preposition/)**: Expressing [the](/en/post/the/) [relationship](/en/post/relationship/) [of](/en/post/of/) [one](/en/post/one/) [noun](/en/post/noun/) [or](/en/post/or/) [pronoun](/en/post/pronoun/) [to](/en/post/to/) [another](/en/post/another/) [in](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/), [often](/en/post/often/) followed [by](/en/post/by/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [pronoun](/en/post/pronoun/) (e.g., "[after](/en/post/after/) [the](/en/post/the/) [party](/en/post/party/)"). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [will](/en/post/will/) [meet](/en/post/meet/) [after](/en/post/after/) [school](/en/post/school/)."
-- **[Verb](/en/post/verb/)**: Occurring [or](/en/post/or/) happening [subsequent](/en/post/subsequent/) [to](/en/post/to/) [something](/en/post/something/) [else](/en/post/else/); [following](/en/post/following/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) finishing [her](/en/post/her/) homework, [she](/en/post/she/) went [to](/en/post/to/) [bed](/en/post/bed/)."
-- **[Adjective](/en/post/adjective/)**: Designating [or](/en/post/or/) denoting [something](/en/post/something/) [that](/en/post/that/) comes [or](/en/post/or/) is placed [after](/en/post/after/) [something](/en/post/something/) [else](/en/post/else/) [in](/en/post/in/) [time](/en/post/time/) [or](/en/post/or/) [order](/en/post/order/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [next](/en/post/next/) [event](/en/post/event/) is scheduled [for](/en/post/for/) [after](/en/post/after/) [the](/en/post/the/) [lunch](/en/post/lunch/) [break](/en/post/break/)."
+- **[Adverb](/post/adverb/)**: [Following](/post/following/) [or](/post/or/) [subsequent](/post/subsequent/) [to](/post/to/) [something](/post/something/) [else](/post/else/) [in](/post/in/) [time](/post/time/) [or](/post/or/) [sequence](/post/sequence/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) [the](/post/the/) [meeting](/post/meeting/), we'll [have](/post/have/) [a](/post/a/) [break](/post/break/)."
+- **[Preposition](/post/preposition/)**: Expressing [the](/post/the/) [relationship](/post/relationship/) [of](/post/of/) [one](/post/one/) [noun](/post/noun/) [or](/post/or/) [pronoun](/post/pronoun/) [to](/post/to/) [another](/post/another/) [in](/post/in/) [a](/post/a/) [sentence](/post/sentence/), [often](/post/often/) followed [by](/post/by/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [pronoun](/post/pronoun/) (e.g., "[after](/post/after/) [the](/post/the/) [party](/post/party/)"). [For](/post/for/) [example](/post/example/): "[They](/post/they/) [will](/post/will/) [meet](/post/meet/) [after](/post/after/) [school](/post/school/)."
+- **[Verb](/post/verb/)**: Occurring [or](/post/or/) happening [subsequent](/post/subsequent/) [to](/post/to/) [something](/post/something/) [else](/post/else/); [following](/post/following/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) finishing [her](/post/her/) homework, [she](/post/she/) went [to](/post/to/) [bed](/post/bed/)."
+- **[Adjective](/post/adjective/)**: Designating [or](/post/or/) denoting [something](/post/something/) [that](/post/that/) comes [or](/post/or/) is placed [after](/post/after/) [something](/post/something/) [else](/post/else/) [in](/post/in/) [time](/post/time/) [or](/post/or/) [order](/post/order/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [next](/post/next/) [event](/post/event/) is scheduled [for](/post/for/) [after](/post/after/) [the](/post/the/) [lunch](/post/lunch/) [break](/post/break/)."
 
 ## Phrases
-- "Afterwards" [or](/en/post/or/) "[Later](/en/post/later/) [on](/en/post/on/)" implies [a](/en/post/a/) [point](/en/post/point/) [in](/en/post/in/) [time](/en/post/time/) [following](/en/post/following/) an [event](/en/post/event/).
-- "[In](/en/post/in/) [after](/en/post/after/) years" refers [to](/en/post/to/) [a](/en/post/a/) [later](/en/post/later/) [period](/en/post/period/) [in](/en/post/in/) [time](/en/post/time/).
-- "Aftermath" refers [to](/en/post/to/) [the](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) consequences [following](/en/post/following/) [a](/en/post/a/) [significant](/en/post/significant/) [event](/en/post/event/).
+- "Afterwards" [or](/post/or/) "[Later](/post/later/) [on](/post/on/)" implies [a](/post/a/) [point](/post/point/) [in](/post/in/) [time](/post/time/) [following](/post/following/) an [event](/post/event/).
+- "[In](/post/in/) [after](/post/after/) years" refers [to](/post/to/) [a](/post/a/) [later](/post/later/) [period](/post/period/) [in](/post/in/) [time](/post/time/).
+- "Aftermath" refers [to](/post/to/) [the](/post/the/) [state](/post/state/) [or](/post/or/) consequences [following](/post/following/) [a](/post/a/) [significant](/post/significant/) [event](/post/event/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I'll [call](/en/post/call/) [you](/en/post/you/) [after](/en/post/after/) I [finish](/en/post/finish/) [my](/en/post/my/) [work](/en/post/work/)."
-- **[Preposition](/en/post/preposition/)**: "[She](/en/post/she/) [left](/en/post/left/) [her](/en/post/her/) keys [under](/en/post/under/) [the](/en/post/the/) [mat](/en/post/mat/) [after](/en/post/after/) [she](/en/post/she/) locked [the](/en/post/the/) [door](/en/post/door/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) discussed [the](/en/post/the/) [plan](/en/post/plan/) [after](/en/post/after/) [the](/en/post/the/) presentation."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) project's after-effects were carefully analyzed."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I'll [call](/post/call/) [you](/post/you/) [after](/post/after/) I [finish](/post/finish/) [my](/post/my/) [work](/post/work/)."
+- **[Preposition](/post/preposition/)**: "[She](/post/she/) [left](/post/left/) [her](/post/her/) keys [under](/post/under/) [the](/post/the/) [mat](/post/mat/) [after](/post/after/) [she](/post/she/) locked [the](/post/the/) [door](/post/door/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) discussed [the](/post/the/) [plan](/post/plan/) [after](/post/after/) [the](/post/the/) presentation."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) project's after-effects were carefully analyzed."
 
 ## Synonyms
 - Subsequently
-- [Consequently](/en/post/consequently/)
+- [Consequently](/post/consequently/)
 - Post-event
-- [Following](/en/post/following/)
-- [Later](/en/post/later/)
+- [Following](/post/following/)
+- [Later](/post/later/)
 - Successively
-- [Afterward](/en/post/afterward/)
-- [Then](/en/post/then/)
-- [When](/en/post/when/) [it](/en/post/it/) comes ([as](/en/post/as/) [in](/en/post/in/) "[When](/en/post/when/) [it](/en/post/it/) comes [after](/en/post/after/) [that](/en/post/that/)...")
+- [Afterward](/post/afterward/)
+- [Then](/post/then/)
+- [When](/post/when/) [it](/post/it/) comes ([as](/post/as/) [in](/post/in/) "[When](/post/when/) [it](/post/it/) comes [after](/post/after/) [that](/post/that/)...")

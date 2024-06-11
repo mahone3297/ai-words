@@ -7,52 +7,52 @@ description = '[drɔː] vt.画，划；拖；拨出'
 keywords = ['ai words', 'draw']
 +++
 
-## [Word](/en/post/word/): [Draw](/en/post/draw/)
+## [Word](/post/word/): [Draw](/post/draw/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /draʊ/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: 
-    - [To](/en/post/to/) [pull](/en/post/pull/) [or](/en/post/or/) [drag](/en/post/drag/) [something](/en/post/something/) towards [oneself](/en/post/oneself/) [or](/en/post/or/) [along](/en/post/along/) [a](/en/post/a/) [surface](/en/post/surface/) using [physical](/en/post/physical/) [force](/en/post/force/). [Example](/en/post/example/): "[She](/en/post/she/) drew [the](/en/post/the/) curtains [open](/en/post/open/) [to](/en/post/to/) [let](/en/post/let/) [in](/en/post/in/) [some](/en/post/some/) [light](/en/post/light/)."
-    - [To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [guide](/en/post/guide/) [something](/en/post/something/) [by](/en/post/by/) pulling [steadily](/en/post/steadily/). [Example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) drew [the](/en/post/the/) [pencil](/en/post/pencil/) [across](/en/post/across/) [the](/en/post/the/) [paper](/en/post/paper/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [sketch](/en/post/sketch/)."
-    - [To](/en/post/to/) extract [or](/en/post/or/) [remove](/en/post/remove/) [from](/en/post/from/) [a](/en/post/a/) [container](/en/post/container/) [or](/en/post/or/) [source](/en/post/source/). [Example](/en/post/example/): "[He](/en/post/he/) drew [a](/en/post/a/) [deep](/en/post/deep/) [breath](/en/post/breath/) [before](/en/post/before/) speaking."
-    - [To](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [produce](/en/post/produce/) [by](/en/post/by/) making lines [or](/en/post/or/) marks [on](/en/post/on/) [a](/en/post/a/) [surface](/en/post/surface/), [usually](/en/post/usually/) [with](/en/post/with/) [a](/en/post/a/) [pen](/en/post/pen/), [pencil](/en/post/pencil/), [or](/en/post/or/) [brush](/en/post/brush/). [Example](/en/post/example/): "[She](/en/post/she/) drew [a](/en/post/a/) [beautiful](/en/post/beautiful/) landscape [picture](/en/post/picture/)."
-    - [To](/en/post/to/) [attract](/en/post/attract/) [or](/en/post/or/) [bring](/en/post/bring/) [in](/en/post/in/) [a](/en/post/a/) [large](/en/post/large/) [number](/en/post/number/) [or](/en/post/or/) [variety](/en/post/variety/) [of](/en/post/of/) [people](/en/post/people/). [Example](/en/post/example/): "[The](/en/post/the/) [concert](/en/post/concert/) drew [a](/en/post/a/) [huge](/en/post/huge/) [crowd](/en/post/crowd/)."
-    - [In](/en/post/in/) [card](/en/post/card/) games, [to](/en/post/to/) [select](/en/post/select/) cards [from](/en/post/from/) [a](/en/post/a/) [deck](/en/post/deck/). [Example](/en/post/example/): "[Each](/en/post/each/) [player](/en/post/player/) drew [five](/en/post/five/) cards."
+- **[Verb](/post/verb/) (v)**: 
+    - [To](/post/to/) [pull](/post/pull/) [or](/post/or/) [drag](/post/drag/) [something](/post/something/) towards [oneself](/post/oneself/) [or](/post/or/) [along](/post/along/) [a](/post/a/) [surface](/post/surface/) using [physical](/post/physical/) [force](/post/force/). [Example](/post/example/): "[She](/post/she/) drew [the](/post/the/) curtains [open](/post/open/) [to](/post/to/) [let](/post/let/) [in](/post/in/) [some](/post/some/) [light](/post/light/)."
+    - [To](/post/to/) [move](/post/move/) [or](/post/or/) [guide](/post/guide/) [something](/post/something/) [by](/post/by/) pulling [steadily](/post/steadily/). [Example](/post/example/): "[The](/post/the/) [artist](/post/artist/) drew [the](/post/the/) [pencil](/post/pencil/) [across](/post/across/) [the](/post/the/) [paper](/post/paper/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [sketch](/post/sketch/)."
+    - [To](/post/to/) extract [or](/post/or/) [remove](/post/remove/) [from](/post/from/) [a](/post/a/) [container](/post/container/) [or](/post/or/) [source](/post/source/). [Example](/post/example/): "[He](/post/he/) drew [a](/post/a/) [deep](/post/deep/) [breath](/post/breath/) [before](/post/before/) speaking."
+    - [To](/post/to/) [create](/post/create/) [or](/post/or/) [produce](/post/produce/) [by](/post/by/) making lines [or](/post/or/) marks [on](/post/on/) [a](/post/a/) [surface](/post/surface/), [usually](/post/usually/) [with](/post/with/) [a](/post/a/) [pen](/post/pen/), [pencil](/post/pencil/), [or](/post/or/) [brush](/post/brush/). [Example](/post/example/): "[She](/post/she/) drew [a](/post/a/) [beautiful](/post/beautiful/) landscape [picture](/post/picture/)."
+    - [To](/post/to/) [attract](/post/attract/) [or](/post/or/) [bring](/post/bring/) [in](/post/in/) [a](/post/a/) [large](/post/large/) [number](/post/number/) [or](/post/or/) [variety](/post/variety/) [of](/post/of/) [people](/post/people/). [Example](/post/example/): "[The](/post/the/) [concert](/post/concert/) drew [a](/post/a/) [huge](/post/huge/) [crowd](/post/crowd/)."
+    - [In](/post/in/) [card](/post/card/) games, [to](/post/to/) [select](/post/select/) cards [from](/post/from/) [a](/post/a/) [deck](/post/deck/). [Example](/post/example/): "[Each](/post/each/) [player](/post/player/) drew [five](/post/five/) cards."
 
-- **[Noun](/en/post/noun/) (n)**:
-    - [A](/en/post/a/) [contest](/en/post/contest/) [in](/en/post/in/) [which](/en/post/which/) lots are drawn [to](/en/post/to/) [determine](/en/post/determine/) [the](/en/post/the/) [winner](/en/post/winner/) [or](/en/post/or/) losers; [a](/en/post/a/) lottery [or](/en/post/or/) raffle. [Example](/en/post/example/): "[There](/en/post/there/) was [a](/en/post/a/) [draw](/en/post/draw/) [to](/en/post/to/) [decide](/en/post/decide/) [who](/en/post/who/) [would](/en/post/would/) [win](/en/post/win/) [the](/en/post/the/) [prize](/en/post/prize/)."
-    - [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) pulling [back](/en/post/back/) [a](/en/post/a/) bowstring [to](/en/post/to/) [shoot](/en/post/shoot/) an [arrow](/en/post/arrow/). [Example](/en/post/example/): "[His](/en/post/his/) [draw](/en/post/draw/) was [strong](/en/post/strong/) [and](/en/post/and/) [precise](/en/post/precise/)."
-    - [A](/en/post/a/) [tie](/en/post/tie/) [or](/en/post/or/) [even](/en/post/even/) [result](/en/post/result/) [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/) [where](/en/post/where/) [neither](/en/post/neither/) [side](/en/post/side/) wins. [Example](/en/post/example/): "[The](/en/post/the/) [match](/en/post/match/) ended [in](/en/post/in/) [a](/en/post/a/) [draw](/en/post/draw/)."
-    - [The](/en/post/the/) [characteristic](/en/post/characteristic/) [curve](/en/post/curve/) [or](/en/post/or/) [angle](/en/post/angle/) made [when](/en/post/when/) [a](/en/post/a/) bowstring is pulled [back](/en/post/back/) [in](/en/post/in/) archery. [Example](/en/post/example/): "[He](/en/post/he/) adjusted [his](/en/post/his/) bow's [draw](/en/post/draw/) [weight](/en/post/weight/)."
-    - [A](/en/post/a/) graphic representation [or](/en/post/or/) [sketch](/en/post/sketch/). [Example](/en/post/example/): "[She](/en/post/she/) showed [us](/en/post/us/) [her](/en/post/her/) latest watercolor [draw](/en/post/draw/)."
+- **[Noun](/post/noun/) (n)**:
+    - [A](/post/a/) [contest](/post/contest/) [in](/post/in/) [which](/post/which/) lots are drawn [to](/post/to/) [determine](/post/determine/) [the](/post/the/) [winner](/post/winner/) [or](/post/or/) losers; [a](/post/a/) lottery [or](/post/or/) raffle. [Example](/post/example/): "[There](/post/there/) was [a](/post/a/) [draw](/post/draw/) [to](/post/to/) [decide](/post/decide/) [who](/post/who/) [would](/post/would/) [win](/post/win/) [the](/post/the/) [prize](/post/prize/)."
+    - [The](/post/the/) [act](/post/act/) [of](/post/of/) pulling [back](/post/back/) [a](/post/a/) bowstring [to](/post/to/) [shoot](/post/shoot/) an [arrow](/post/arrow/). [Example](/post/example/): "[His](/post/his/) [draw](/post/draw/) was [strong](/post/strong/) [and](/post/and/) [precise](/post/precise/)."
+    - [A](/post/a/) [tie](/post/tie/) [or](/post/or/) [even](/post/even/) [result](/post/result/) [in](/post/in/) [a](/post/a/) [competition](/post/competition/) [where](/post/where/) [neither](/post/neither/) [side](/post/side/) wins. [Example](/post/example/): "[The](/post/the/) [match](/post/match/) ended [in](/post/in/) [a](/post/a/) [draw](/post/draw/)."
+    - [The](/post/the/) [characteristic](/post/characteristic/) [curve](/post/curve/) [or](/post/or/) [angle](/post/angle/) made [when](/post/when/) [a](/post/a/) bowstring is pulled [back](/post/back/) [in](/post/in/) archery. [Example](/post/example/): "[He](/post/he/) adjusted [his](/post/his/) bow's [draw](/post/draw/) [weight](/post/weight/)."
+    - [A](/post/a/) graphic representation [or](/post/or/) [sketch](/post/sketch/). [Example](/post/example/): "[She](/post/she/) showed [us](/post/us/) [her](/post/her/) latest watercolor [draw](/post/draw/)."
 
 ## Phrases
-- "[Draw](/en/post/draw/) [a](/en/post/a/) [conclusion](/en/post/conclusion/)": [To](/en/post/to/) [reach](/en/post/reach/) [a](/en/post/a/) [decision](/en/post/decision/) based [on](/en/post/on/) [available](/en/post/available/) [information](/en/post/information/).
-- "[Draw](/en/post/draw/) [the](/en/post/the/) [line](/en/post/line/)": [To](/en/post/to/) [set](/en/post/set/) [a](/en/post/a/) [limit](/en/post/limit/) [or](/en/post/or/) [boundary](/en/post/boundary/) [beyond](/en/post/beyond/) [which](/en/post/which/) [one](/en/post/one/) [will](/en/post/will/) [not](/en/post/not/) [go](/en/post/go/).
-- "[Draw](/en/post/draw/) [attention](/en/post/attention/) [to](/en/post/to/)": [To](/en/post/to/) [cause](/en/post/cause/) [people](/en/post/people/) [to](/en/post/to/) [notice](/en/post/notice/) [or](/en/post/or/) [focus](/en/post/focus/) [on](/en/post/on/) [something](/en/post/something/).
-- "[Draw](/en/post/draw/) [out](/en/post/out/)": [To](/en/post/to/) elicit [or](/en/post/or/) coax [information](/en/post/information/) [or](/en/post/or/) [a](/en/post/a/) [response](/en/post/response/) [from](/en/post/from/) [someone](/en/post/someone/).
-- "[A](/en/post/a/) [blank](/en/post/blank/) [draw](/en/post/draw/)": [When](/en/post/when/) [no](/en/post/no/) numbers [or](/en/post/or/) prizes are won [in](/en/post/in/) [a](/en/post/a/) lottery.
+- "[Draw](/post/draw/) [a](/post/a/) [conclusion](/post/conclusion/)": [To](/post/to/) [reach](/post/reach/) [a](/post/a/) [decision](/post/decision/) based [on](/post/on/) [available](/post/available/) [information](/post/information/).
+- "[Draw](/post/draw/) [the](/post/the/) [line](/post/line/)": [To](/post/to/) [set](/post/set/) [a](/post/a/) [limit](/post/limit/) [or](/post/or/) [boundary](/post/boundary/) [beyond](/post/beyond/) [which](/post/which/) [one](/post/one/) [will](/post/will/) [not](/post/not/) [go](/post/go/).
+- "[Draw](/post/draw/) [attention](/post/attention/) [to](/post/to/)": [To](/post/to/) [cause](/post/cause/) [people](/post/people/) [to](/post/to/) [notice](/post/notice/) [or](/post/or/) [focus](/post/focus/) [on](/post/on/) [something](/post/something/).
+- "[Draw](/post/draw/) [out](/post/out/)": [To](/post/to/) elicit [or](/post/or/) coax [information](/post/information/) [or](/post/or/) [a](/post/a/) [response](/post/response/) [from](/post/from/) [someone](/post/someone/).
+- "[A](/post/a/) [blank](/post/blank/) [draw](/post/draw/)": [When](/post/when/) [no](/post/no/) numbers [or](/post/or/) prizes are won [in](/post/in/) [a](/post/a/) lottery.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) drew [a](/en/post/a/) [map](/en/post/map/) [to](/en/post/to/) [help](/en/post/help/) visitors navigate [around](/en/post/around/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) [the](/en/post/the/) [final](/en/post/final/) [game](/en/post/game/), [both](/en/post/both/) teams played [so](/en/post/so/) [well](/en/post/well/) [that](/en/post/that/) [it](/en/post/it/) resulted [in](/en/post/in/) [a](/en/post/a/) [draw](/en/post/draw/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[She](/post/she/) drew [a](/post/a/) [map](/post/map/) [to](/post/to/) [help](/post/help/) visitors navigate [around](/post/around/) [the](/post/the/) [city](/post/city/)."
+- **[Noun](/post/noun/)**: "[In](/post/in/) [the](/post/the/) [final](/post/final/) [game](/post/game/), [both](/post/both/) teams played [so](/post/so/) [well](/post/well/) [that](/post/that/) [it](/post/it/) resulted [in](/post/in/) [a](/post/a/) [draw](/post/draw/)."
 
 ## Synonyms
-- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**:
-    - [Pull](/en/post/pull/)
-    - [Drag](/en/post/drag/)
-    - [Sketch](/en/post/sketch/)
-    - [Attract](/en/post/attract/)
+- **[As](/post/as/) [a](/post/a/) [verb](/post/verb/)**:
+    - [Pull](/post/pull/)
+    - [Drag](/post/drag/)
+    - [Sketch](/post/sketch/)
+    - [Attract](/post/attract/)
     - Extract
-    - [Select](/en/post/select/) ([in](/en/post/in/) [card](/en/post/card/) games)
+    - [Select](/post/select/) ([in](/post/in/) [card](/post/card/) games)
 
-- **[As](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/)**:
+- **[As](/post/as/) [a](/post/a/) [noun](/post/noun/)**:
     - Lottery
     - Raffle
-    - [Tie](/en/post/tie/)
+    - [Tie](/post/tie/)
     - Sketching
     - Representation
-    - [Conclusion](/en/post/conclusion/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [drawing](/en/post/drawing/) conclusions)
-    - [Line](/en/post/line/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [setting](/en/post/setting/) boundaries)
+    - [Conclusion](/post/conclusion/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [drawing](/post/drawing/) conclusions)
+    - [Line](/post/line/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [setting](/post/setting/) boundaries)

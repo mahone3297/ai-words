@@ -7,41 +7,41 @@ description = '[ˈsjuːpə] a.极好的，超级的'
 keywords = ['ai words', 'super']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈpɜːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. Superlative [form](/en/post/form/) [of](/en/post/of/) '[good](/en/post/good/)' [or](/en/post/or/) '[excellent](/en/post/excellent/)', [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) superiority [or](/en/post/or/) greatness. [Example](/en/post/example/): "[This](/en/post/this/) [cake](/en/post/cake/) is [the](/en/post/the/) [most](/en/post/most/) [delicious](/en/post/delicious/); it's [super](/en/post/super/) tasty."
-2. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has exceptional abilities [or](/en/post/or/) skills [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/). [Example](/en/post/example/): "[She](/en/post/she/) is [a](/en/post/a/) [super](/en/post/super/) [athlete](/en/post/athlete/), winning [every](/en/post/every/) [race](/en/post/race/) [she](/en/post/she/) enters."
-3. [A](/en/post/a/) superhero [or](/en/post/or/) [a](/en/post/a/) [character](/en/post/character/) [with](/en/post/with/) [extraordinary](/en/post/extraordinary/) powers. [Example](/en/post/example/): "[The](/en/post/the/) superhero saved [the](/en/post/the/) [day](/en/post/day/); he's [a](/en/post/a/) [true](/en/post/true/) [super](/en/post/super/)."
+### [Noun](/post/noun/)
+1. Superlative [form](/post/form/) [of](/post/of/) '[good](/post/good/)' [or](/post/or/) '[excellent](/post/excellent/)', [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) superiority [or](/post/or/) greatness. [Example](/post/example/): "[This](/post/this/) [cake](/post/cake/) is [the](/post/the/) [most](/post/most/) [delicious](/post/delicious/); it's [super](/post/super/) tasty."
+2. [A](/post/a/) [person](/post/person/) [who](/post/who/) has exceptional abilities [or](/post/or/) skills [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/). [Example](/post/example/): "[She](/post/she/) is [a](/post/a/) [super](/post/super/) [athlete](/post/athlete/), winning [every](/post/every/) [race](/post/race/) [she](/post/she/) enters."
+3. [A](/post/a/) superhero [or](/post/or/) [a](/post/a/) [character](/post/character/) [with](/post/with/) [extraordinary](/post/extraordinary/) powers. [Example](/post/example/): "[The](/post/the/) superhero saved [the](/post/the/) [day](/post/day/); he's [a](/post/a/) [true](/post/true/) [super](/post/super/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [be](/en/post/be/) [extremely](/en/post/extremely/) [good](/en/post/good/) [or](/en/post/or/) [excellent](/en/post/excellent/) [at](/en/post/at/) [something](/en/post/something/). [Example](/en/post/example/): "He's [super](/en/post/super/) talented [at](/en/post/at/) playing [the](/en/post/the/) [piano](/en/post/piano/)."
-2. (informal) [To](/en/post/to/) [assist](/en/post/assist/) [or](/en/post/or/) [help](/en/post/help/) [in](/en/post/in/) [a](/en/post/a/) [remarkable](/en/post/remarkable/) [way](/en/post/way/). [Example](/en/post/example/): "[She](/en/post/she/) supercharges [the](/en/post/the/) team's productivity."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [be](/post/be/) [extremely](/post/extremely/) [good](/post/good/) [or](/post/or/) [excellent](/post/excellent/) [at](/post/at/) [something](/post/something/). [Example](/post/example/): "He's [super](/post/super/) talented [at](/post/at/) playing [the](/post/the/) [piano](/post/piano/)."
+2. (informal) [To](/post/to/) [assist](/post/assist/) [or](/post/or/) [help](/post/help/) [in](/post/in/) [a](/post/a/) [remarkable](/post/remarkable/) [way](/post/way/). [Example](/post/example/): "[She](/post/she/) supercharges [the](/post/the/) team's productivity."
 
-### [Adjective](/en/post/adjective/)
-1. [Beyond](/en/post/beyond/) [ordinary](/en/post/ordinary/) [or](/en/post/or/) exceptional. [Example](/en/post/example/): "[The](/en/post/the/) [super](/en/post/super/) [fast](/en/post/fast/) [car](/en/post/car/) reached [top](/en/post/top/) speeds [in](/en/post/in/) seconds."
-2. [Extremely](/en/post/extremely/) [good](/en/post/good/) [or](/en/post/or/) [impressive](/en/post/impressive/). [Example](/en/post/example/): "[The](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) [top](/en/post/top/) was [absolutely](/en/post/absolutely/) [super](/en/post/super/)."
+### [Adjective](/post/adjective/)
+1. [Beyond](/post/beyond/) [ordinary](/post/ordinary/) [or](/post/or/) exceptional. [Example](/post/example/): "[The](/post/the/) [super](/post/super/) [fast](/post/fast/) [car](/post/car/) reached [top](/post/top/) speeds [in](/post/in/) seconds."
+2. [Extremely](/post/extremely/) [good](/post/good/) [or](/post/or/) [impressive](/post/impressive/). [Example](/post/example/): "[The](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) [top](/post/top/) was [absolutely](/post/absolutely/) [super](/post/super/)."
 
 ## Phrases
 - "Superhuman abilities"
-- "[Superior](/en/post/superior/) [performance](/en/post/performance/)"
-- "Superstar [athlete](/en/post/athlete/)"
-- "[Supermarket](/en/post/supermarket/) [shopping](/en/post/shopping/)"
-- "Supercharge [your](/en/post/your/) [day](/en/post/day/)"
+- "[Superior](/post/superior/) [performance](/post/performance/)"
+- "Superstar [athlete](/post/athlete/)"
+- "[Supermarket](/post/supermarket/) [shopping](/post/shopping/)"
+- "Supercharge [your](/post/your/) [day](/post/day/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) superhero's superpowers made [him](/en/post/him/) invincible."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) super-edited [the](/en/post/the/) [document](/en/post/document/), making [it](/en/post/it/) error-free."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) smartphone has [a](/en/post/a/) [super](/en/post/super/) [camera](/en/post/camera/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) superhero's superpowers made [him](/post/him/) invincible."
+- **[Verb](/post/verb/)**: "[She](/post/she/) super-edited [the](/post/the/) [document](/post/document/), making [it](/post/it/) error-free."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) smartphone has [a](/post/a/) [super](/post/super/) [camera](/post/camera/)."
 
 ## Synonyms
-- [Excellent](/en/post/excellent/)
-- [Outstanding](/en/post/outstanding/)
+- [Excellent](/post/excellent/)
+- [Outstanding](/post/outstanding/)
 - Incredible
 - Exceptional
-- [Marvelous](/en/post/marvelous/)
+- [Marvelous](/post/marvelous/)
 - Unparalleled
 - Unmatched
 - Phenomenal

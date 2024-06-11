@@ -7,21 +7,21 @@ description = '[ˈfrend∫ip] n.友谊，友好'
 keywords = ['ai words', 'friendship']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfrendʃɪp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) friends; [a](/en/post/a/) [close](/en/post/close/) [relationship](/en/post/relationship/) [between](/en/post/between/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) [people](/en/post/people/) characterized [by](/en/post/by/) [mutual](/en/post/mutual/) [trust](/en/post/trust/), [support](/en/post/support/), [affection](/en/post/affection/), [and](/en/post/and/) [loyalty](/en/post/loyalty/). [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) [friendship](/en/post/friendship/) has lasted [since](/en/post/since/) [childhood](/en/post/childhood/)."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [friendly](/en/post/friendly/) [relationship](/en/post/relationship/) [between](/en/post/between/) countries, organizations, [or](/en/post/or/) groups. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [two](/en/post/two/) nations [have](/en/post/have/) [a](/en/post/a/) [long](/en/post/long/) [history](/en/post/history/) [of](/en/post/of/) [friendship](/en/post/friendship/) [and](/en/post/and/) cooperation."
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) friends; [a](/post/a/) [close](/post/close/) [relationship](/post/relationship/) [between](/post/between/) [two](/post/two/) [or](/post/or/) [more](/post/more/) [people](/post/people/) characterized [by](/post/by/) [mutual](/post/mutual/) [trust](/post/trust/), [support](/post/support/), [affection](/post/affection/), [and](/post/and/) [loyalty](/post/loyalty/). [For](/post/for/) [example](/post/example/): "[Their](/post/their/) [friendship](/post/friendship/) has lasted [since](/post/since/) [childhood](/post/childhood/)."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [friendly](/post/friendly/) [relationship](/post/relationship/) [between](/post/between/) countries, organizations, [or](/post/or/) groups. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [two](/post/two/) nations [have](/post/have/) [a](/post/a/) [long](/post/long/) [history](/post/history/) [of](/post/of/) [friendship](/post/friendship/) [and](/post/and/) cooperation."
 
 ## Phrases
-- "[Friendship](/en/post/friendship/) bracelet": [a](/en/post/a/) decorative bracelet [often](/en/post/often/) handmade [and](/en/post/and/) given [as](/en/post/as/) [a](/en/post/a/) token [of](/en/post/of/) [friendship](/en/post/friendship/).
-- "[Make](/en/post/make/) friends / [become](/en/post/become/) friends": [to](/en/post/to/) [start](/en/post/start/) [a](/en/post/a/) [friendship](/en/post/friendship/) [with](/en/post/with/) [someone](/en/post/someone/), e.g., "[They](/en/post/they/) made friends [during](/en/post/during/) [their](/en/post/their/) [first](/en/post/first/) [year](/en/post/year/) [at](/en/post/at/) [college](/en/post/college/)."
-- "[In](/en/post/in/) [the](/en/post/the/) [spirit](/en/post/spirit/) [of](/en/post/of/) [friendship](/en/post/friendship/)": indicating [that](/en/post/that/) an [action](/en/post/action/) is motivated [by](/en/post/by/) goodwill [or](/en/post/or/) amity, e.g., "[We](/en/post/we/) shared [our](/en/post/our/) resources [in](/en/post/in/) [the](/en/post/the/) [spirit](/en/post/spirit/) [of](/en/post/of/) [friendship](/en/post/friendship/)."
+- "[Friendship](/post/friendship/) bracelet": [a](/post/a/) decorative bracelet [often](/post/often/) handmade [and](/post/and/) given [as](/post/as/) [a](/post/a/) token [of](/post/of/) [friendship](/post/friendship/).
+- "[Make](/post/make/) friends / [become](/post/become/) friends": [to](/post/to/) [start](/post/start/) [a](/post/a/) [friendship](/post/friendship/) [with](/post/with/) [someone](/post/someone/), e.g., "[They](/post/they/) made friends [during](/post/during/) [their](/post/their/) [first](/post/first/) [year](/post/year/) [at](/post/at/) [college](/post/college/)."
+- "[In](/post/in/) [the](/post/the/) [spirit](/post/spirit/) [of](/post/of/) [friendship](/post/friendship/)": indicating [that](/post/that/) an [action](/post/action/) is motivated [by](/post/by/) goodwill [or](/post/or/) amity, e.g., "[We](/post/we/) shared [our](/post/our/) resources [in](/post/in/) [the](/post/the/) [spirit](/post/spirit/) [of](/post/of/) [friendship](/post/friendship/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [bond](/en/post/bond/) [of](/en/post/of/) [friendship](/en/post/friendship/) [between](/en/post/between/) [them](/en/post/them/) grew stronger [over](/en/post/over/) [time](/en/post/time/)."
-- "[International](/en/post/international/) friendships [can](/en/post/can/) [help](/en/post/help/) [promote](/en/post/promote/) [peace](/en/post/peace/) [and](/en/post/and/) [understanding](/en/post/understanding/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [bond](/post/bond/) [of](/post/of/) [friendship](/post/friendship/) [between](/post/between/) [them](/post/them/) grew stronger [over](/post/over/) [time](/post/time/)."
+- "[International](/post/international/) friendships [can](/post/can/) [help](/post/help/) [promote](/post/promote/) [peace](/post/peace/) [and](/post/and/) [understanding](/post/understanding/)."
   
 ## Synonyms
 - Companionship
@@ -31,7 +31,7 @@ keywords = ['ai words', 'friendship']
 - Fellowship
 - Alliance
 - Rapport
-- [Mutual](/en/post/mutual/) [affection](/en/post/affection/)
+- [Mutual](/post/mutual/) [affection](/post/affection/)
 - Brotherhood
 - Sisterhood
 
@@ -43,7 +43,7 @@ keywords = ['ai words', 'friendship']
 - Alienation
 
 ## Derived Forms
-- Friendliness ([noun](/en/post/noun/)): [the](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [friendly](/en/post/friendly/).
-- [Friendly](/en/post/friendly/) ([adjective](/en/post/adjective/)): showing friendliness; [kind](/en/post/kind/) [and](/en/post/and/) [pleasant](/en/post/pleasant/).
-- Unfriend ([verb](/en/post/verb/), informal): [to](/en/post/to/) [remove](/en/post/remove/) [someone](/en/post/someone/) [as](/en/post/as/) [a](/en/post/a/) [friend](/en/post/friend/) [on](/en/post/on/) [a](/en/post/a/) [social](/en/post/social/) networking [site](/en/post/site/) [or](/en/post/or/) [to](/en/post/to/) [end](/en/post/end/) [a](/en/post/a/) [friendship](/en/post/friendship/).
-- Reconciliation ([noun](/en/post/noun/)): [the](/en/post/the/) restoration [of](/en/post/of/) [friendly](/en/post/friendly/) relations [after](/en/post/after/) [a](/en/post/a/) disagreement [or](/en/post/or/) [conflict](/en/post/conflict/).
+- Friendliness ([noun](/post/noun/)): [the](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [friendly](/post/friendly/).
+- [Friendly](/post/friendly/) ([adjective](/post/adjective/)): showing friendliness; [kind](/post/kind/) [and](/post/and/) [pleasant](/post/pleasant/).
+- Unfriend ([verb](/post/verb/), informal): [to](/post/to/) [remove](/post/remove/) [someone](/post/someone/) [as](/post/as/) [a](/post/a/) [friend](/post/friend/) [on](/post/on/) [a](/post/a/) [social](/post/social/) networking [site](/post/site/) [or](/post/or/) [to](/post/to/) [end](/post/end/) [a](/post/a/) [friendship](/post/friendship/).
+- Reconciliation ([noun](/post/noun/)): [the](/post/the/) restoration [of](/post/of/) [friendly](/post/friendly/) relations [after](/post/after/) [a](/post/a/) disagreement [or](/post/or/) [conflict](/post/conflict/).

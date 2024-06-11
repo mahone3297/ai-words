@@ -11,22 +11,22 @@ keywords = ['ai words', 'hi']
 /haɪ/
 
 ## 释义
-- **名词**: 通常用作非正式的问候或打招呼。例如: "[She](/post/she/) gave [him](/post/him/) [a](/post/a/) [friendly](/post/friendly/) [hi](/post/hi/) [as](/post/as/) [he](/post/he/) entered [the](/post/the/) [room](/post/room/)."
-- **动词**: 用"[hi](/post/hi/)"来打招呼或问候。例如: "[He](/post/he/) hi-ed [his](/post/his/) neighbor [while](/post/while/) walking [past](/post/past/)."
-- **感叹词**: 用于打招呼或引起注意。例如: "[Hi](/post/hi/) [there](/post/there/)! [How](/post/how/) [have](/post/have/) [you](/post/you/) been?"，"[Hi](/post/hi/)! [Can](/post/can/) [you](/post/you/) [hear](/post/hear/) [me](/post/me/)?"
+- **名词**: 通常用作非正式的问候或打招呼。例如: "[She](/zh/post/she/) gave [him](/zh/post/him/) [a](/zh/post/a/) [friendly](/zh/post/friendly/) [hi](/zh/post/hi/) [as](/zh/post/as/) [he](/zh/post/he/) entered [the](/zh/post/the/) [room](/zh/post/room/)."
+- **动词**: 用"[hi](/zh/post/hi/)"来打招呼或问候。例如: "[He](/zh/post/he/) hi-ed [his](/zh/post/his/) neighbor [while](/zh/post/while/) walking [past](/zh/post/past/)."
+- **感叹词**: 用于打招呼或引起注意。例如: "[Hi](/zh/post/hi/) [there](/zh/post/there/)! [How](/zh/post/how/) [have](/zh/post/have/) [you](/zh/post/you/) been?"，"[Hi](/zh/post/hi/)! [Can](/zh/post/can/) [you](/zh/post/you/) [hear](/zh/post/hear/) [me](/zh/post/me/)?"
 
 ## 短语
-- "[Hi](/post/hi/) [there](/post/there/)" 是一种常见的非正式打招呼方式。
-- "[Hi](/post/hi/), [how](/post/how/) are [you](/post/you/)?" 是询问别人近况的表达。
+- "[Hi](/zh/post/hi/) [there](/zh/post/there/)" 是一种常见的非正式打招呼方式。
+- "[Hi](/zh/post/hi/), [how](/zh/post/how/) are [you](/zh/post/you/)?" 是询问别人近况的表达。
 
 ## 例句
-- 名词: "[The](/post/the/) kids waved [and](/post/and/) said [hi](/post/hi/) [to](/post/to/) [their](/post/their/) [teacher](/post/teacher/)."
-- 动词: "[He](/post/he/) started [the](/post/the/) [conversation](/post/conversation/) [by](/post/by/) hi-ing [his](/post/his/) [colleague](/post/colleague/)."
-- 感叹词: "[Hi](/post/hi/)! [Long](/post/long/) [time](/post/time/) [no](/post/no/) [see](/post/see/)."
+- 名词: "[The](/zh/post/the/) kids waved [and](/zh/post/and/) said [hi](/zh/post/hi/) [to](/zh/post/to/) [their](/zh/post/their/) [teacher](/zh/post/teacher/)."
+- 动词: "[He](/zh/post/he/) started [the](/zh/post/the/) [conversation](/zh/post/conversation/) [by](/zh/post/by/) hi-ing [his](/zh/post/his/) [colleague](/zh/post/colleague/)."
+- 感叹词: "[Hi](/zh/post/hi/)! [Long](/zh/post/long/) [time](/zh/post/time/) [no](/zh/post/no/) [see](/zh/post/see/)."
 
 ## 同义词
-- [Hello](/post/hello/)
+- [Hello](/zh/post/hello/)
 - Hey
 - Greetings
 - Yo
-- [Hi](/post/hi/) [there](/post/there/)
+- [Hi](/zh/post/hi/) [there](/zh/post/there/)

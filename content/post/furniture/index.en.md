@@ -7,26 +7,26 @@ description = '[ˈfəːnit∫ə] n.家具；装置，设备'
 keywords = ['ai words', 'furniture']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɜːrnɪtʃər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) movable articles [that](/en/post/that/) are intended [to](/en/post/to/) [support](/en/post/support/) [various](/en/post/various/) [human](/en/post/human/) activities [such](/en/post/such/) [as](/en/post/as/) seating (e.g., chairs, sofas, stools), eating (tables), [and](/en/post/and/) sleeping (beds). [It](/en/post/it/) [also](/en/post/also/) includes [storage](/en/post/storage/) furnishings (cupboards, shelves) [and](/en/post/and/) decorative elements (lamps, mirrors).
+- **[Noun](/post/noun/)**: [The](/post/the/) movable articles [that](/post/that/) are intended [to](/post/to/) [support](/post/support/) [various](/post/various/) [human](/post/human/) activities [such](/post/such/) [as](/post/as/) seating (e.g., chairs, sofas, stools), eating (tables), [and](/post/and/) sleeping (beds). [It](/post/it/) [also](/post/also/) includes [storage](/post/storage/) furnishings (cupboards, shelves) [and](/post/and/) decorative elements (lamps, mirrors).
 
-[Example](/en/post/example/) Sentences:
-- _The [new](/en/post/new/) [furniture](/en/post/furniture/) transformed [the](/en/post/the/) [living](/en/post/living/) [room](/en/post/room/) [into](/en/post/into/) [a](/en/post/a/) cozy [space](/en/post/space/)._
-- _We [need](/en/post/need/) [to](/en/post/to/) [buy](/en/post/buy/) [some](/en/post/some/) [outdoor](/en/post/outdoor/) [furniture](/en/post/furniture/) [for](/en/post/for/) [our](/en/post/our/) patio._
-- _Her antique [furniture](/en/post/furniture/) [collection](/en/post/collection/) was [quite](/en/post/quite/) [impressive](/en/post/impressive/)._
+[Example](/post/example/) Sentences:
+- _The [new](/post/new/) [furniture](/post/furniture/) transformed [the](/post/the/) [living](/post/living/) [room](/post/room/) [into](/post/into/) [a](/post/a/) cozy [space](/post/space/)._
+- _We [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [some](/post/some/) [outdoor](/post/outdoor/) [furniture](/post/furniture/) [for](/post/for/) [our](/post/our/) patio._
+- _Her antique [furniture](/post/furniture/) [collection](/post/collection/) was [quite](/post/quite/) [impressive](/post/impressive/)._
 
 ## Phrases
-- "[Household](/en/post/household/) [furniture](/en/post/furniture/)" refers [to](/en/post/to/) [all](/en/post/all/) [the](/en/post/the/) items [that](/en/post/that/) [furnish](/en/post/furnish/) [a](/en/post/a/) [house](/en/post/house/).
-- "[Office](/en/post/office/) [furniture](/en/post/furniture/)" includes desks, chairs, [and](/en/post/and/) [other](/en/post/other/) [equipment](/en/post/equipment/) [used](/en/post/used/) [in](/en/post/in/) an [office](/en/post/office/) [setting](/en/post/setting/).
-- "[Furniture](/en/post/furniture/) [polish](/en/post/polish/)" is [a](/en/post/a/) [substance](/en/post/substance/) [used](/en/post/used/) [to](/en/post/to/) [clean](/en/post/clean/) [and](/en/post/and/) [shine](/en/post/shine/) [wooden](/en/post/wooden/) [furniture](/en/post/furniture/).
+- "[Household](/post/household/) [furniture](/post/furniture/)" refers [to](/post/to/) [all](/post/all/) [the](/post/the/) items [that](/post/that/) [furnish](/post/furnish/) [a](/post/a/) [house](/post/house/).
+- "[Office](/post/office/) [furniture](/post/furniture/)" includes desks, chairs, [and](/post/and/) [other](/post/other/) [equipment](/post/equipment/) [used](/post/used/) [in](/post/in/) an [office](/post/office/) [setting](/post/setting/).
+- "[Furniture](/post/furniture/) [polish](/post/polish/)" is [a](/post/a/) [substance](/post/substance/) [used](/post/used/) [to](/post/to/) [clean](/post/clean/) [and](/post/and/) [shine](/post/shine/) [wooden](/post/wooden/) [furniture](/post/furniture/).
 
-## [Example](/en/post/example/) Sentences
-- _The moving [company](/en/post/company/) [will](/en/post/will/) [transport](/en/post/transport/) [all](/en/post/all/) [our](/en/post/our/) [household](/en/post/household/) [furniture](/en/post/furniture/) [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) [home](/en/post/home/)._
-- _The ergonomic [office](/en/post/office/) [furniture](/en/post/furniture/) helped [improve](/en/post/improve/) productivity [among](/en/post/among/) employees._
-- _I [used](/en/post/used/) [a](/en/post/a/) lemon-scented [furniture](/en/post/furniture/) [polish](/en/post/polish/) [to](/en/post/to/) revive [the](/en/post/the/) [old](/en/post/old/) dresser._
+## [Example](/post/example/) Sentences
+- _The moving [company](/post/company/) [will](/post/will/) [transport](/post/transport/) [all](/post/all/) [our](/post/our/) [household](/post/household/) [furniture](/post/furniture/) [to](/post/to/) [the](/post/the/) [new](/post/new/) [home](/post/home/)._
+- _The ergonomic [office](/post/office/) [furniture](/post/furniture/) helped [improve](/post/improve/) productivity [among](/post/among/) employees._
+- _I [used](/post/used/) [a](/post/a/) lemon-scented [furniture](/post/furniture/) [polish](/post/polish/) [to](/post/to/) revive [the](/post/the/) [old](/post/old/) dresser._
 
 ## Synonyms
 - Furnishings
@@ -38,4 +38,4 @@ keywords = ['ai words', 'furniture']
 - Pieces
 - Cabinetry
 
-[Note](/en/post/note/): [Furniture](/en/post/furniture/) does [not](/en/post/not/) [have](/en/post/have/) [verb](/en/post/verb/) [or](/en/post/or/) [adjective](/en/post/adjective/) forms [commonly](/en/post/commonly/) [used](/en/post/used/), [nor](/en/post/nor/) is [it](/en/post/it/) typically [used](/en/post/used/) [as](/en/post/as/) an interjection, [pronoun](/en/post/pronoun/), numeral, [or](/en/post/or/) [conjunction](/en/post/conjunction/). [Therefore](/en/post/therefore/), [no](/en/post/no/) examples are [provided](/en/post/provided/) [for](/en/post/for/) [those](/en/post/those/) parts [of](/en/post/of/) [speech](/en/post/speech/).
+[Note](/post/note/): [Furniture](/post/furniture/) does [not](/post/not/) [have](/post/have/) [verb](/post/verb/) [or](/post/or/) [adjective](/post/adjective/) forms [commonly](/post/commonly/) [used](/post/used/), [nor](/post/nor/) is [it](/post/it/) typically [used](/post/used/) [as](/post/as/) an interjection, [pronoun](/post/pronoun/), numeral, [or](/post/or/) [conjunction](/post/conjunction/). [Therefore](/post/therefore/), [no](/post/no/) examples are [provided](/post/provided/) [for](/post/for/) [those](/post/those/) parts [of](/post/of/) [speech](/post/speech/).

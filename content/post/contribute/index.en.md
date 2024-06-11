@@ -7,41 +7,41 @@ description = '[kənˈtribjuːt] vt.捐献，捐助；投稿'
 keywords = ['ai words', 'contribute']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈtrɪbjuːt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **contribution** [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/):
-1. An [act](/en/post/act/) [of](/en/post/of/) giving [or](/en/post/or/) offering [something](/en/post/something/) ([usually](/en/post/usually/) [money](/en/post/money/) [or](/en/post/or/) [effort](/en/post/effort/)) [to](/en/post/to/) [a](/en/post/a/) [cause](/en/post/cause/), [project](/en/post/project/), [or](/en/post/or/) [organization](/en/post/organization/): "[His](/en/post/his/) [generous](/en/post/generous/) contribution helped [fund](/en/post/fund/) [the](/en/post/the/) [charity](/en/post/charity/) [event](/en/post/event/)."
-2. [A](/en/post/a/) [part](/en/post/part/) [or](/en/post/or/) [share](/en/post/share/) [in](/en/post/in/) [something](/en/post/something/): "[Each](/en/post/each/) [team](/en/post/team/) member's contribution was [vital](/en/post/vital/) [to](/en/post/to/) [the](/en/post/the/) [success](/en/post/success/) [of](/en/post/of/) [the](/en/post/the/) [project](/en/post/project/)."
+### [Noun](/post/noun/)
+[A](/post/a/) **contribution** [can](/post/can/) [refer](/post/refer/) [to](/post/to/):
+1. An [act](/post/act/) [of](/post/of/) giving [or](/post/or/) offering [something](/post/something/) ([usually](/post/usually/) [money](/post/money/) [or](/post/or/) [effort](/post/effort/)) [to](/post/to/) [a](/post/a/) [cause](/post/cause/), [project](/post/project/), [or](/post/or/) [organization](/post/organization/): "[His](/post/his/) [generous](/post/generous/) contribution helped [fund](/post/fund/) [the](/post/the/) [charity](/post/charity/) [event](/post/event/)."
+2. [A](/post/a/) [part](/post/part/) [or](/post/or/) [share](/post/share/) [in](/post/in/) [something](/post/something/): "[Each](/post/each/) [team](/post/team/) member's contribution was [vital](/post/vital/) [to](/post/to/) [the](/post/the/) [success](/post/success/) [of](/post/of/) [the](/post/the/) [project](/post/project/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[contribute](/en/post/contribute/)** [means](/en/post/means/):
-1. [To](/en/post/to/) [give](/en/post/give/) [or](/en/post/or/) [supply](/en/post/supply/) [something](/en/post/something/) ([money](/en/post/money/), ideas, [effort](/en/post/effort/)) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/): "[She](/en/post/she/) contributes articles [to](/en/post/to/) [the](/en/post/the/) [local](/en/post/local/) [newspaper](/en/post/newspaper/)."
-2. [To](/en/post/to/) [have](/en/post/have/) an [effect](/en/post/effect/) [or](/en/post/or/) [play](/en/post/play/) [a](/en/post/a/) [role](/en/post/role/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [outcome](/en/post/outcome/): "[His](/en/post/his/) [input](/en/post/input/) contributed [to](/en/post/to/) [the](/en/post/the/) [final](/en/post/final/) [decision](/en/post/decision/)."
+### [Verb](/post/verb/)
+[To](/post/to/) **[contribute](/post/contribute/)** [means](/post/means/):
+1. [To](/post/to/) [give](/post/give/) [or](/post/or/) [supply](/post/supply/) [something](/post/something/) ([money](/post/money/), ideas, [effort](/post/effort/)) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/): "[She](/post/she/) contributes articles [to](/post/to/) [the](/post/the/) [local](/post/local/) [newspaper](/post/newspaper/)."
+2. [To](/post/to/) [have](/post/have/) an [effect](/post/effect/) [or](/post/or/) [play](/post/play/) [a](/post/a/) [role](/post/role/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [outcome](/post/outcome/): "[His](/post/his/) [input](/post/input/) contributed [to](/post/to/) [the](/post/the/) [final](/post/final/) [decision](/post/decision/)."
 
-### [Adjective](/en/post/adjective/)
-- *Contributory* describes [something](/en/post/something/) [that](/en/post/that/) aids [or](/en/post/or/) contributes [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [result](/en/post/result/): "[The](/en/post/the/) contributory factors [in](/en/post/in/) [the](/en/post/the/) [accident](/en/post/accident/) were [poor](/en/post/poor/) [weather](/en/post/weather/) [and](/en/post/and/) [driver](/en/post/driver/) [fatigue](/en/post/fatigue/)."
+### [Adjective](/post/adjective/)
+- *Contributory* describes [something](/post/something/) [that](/post/that/) aids [or](/post/or/) contributes [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [result](/post/result/): "[The](/post/the/) contributory factors [in](/post/in/) [the](/post/the/) [accident](/post/accident/) were [poor](/post/poor/) [weather](/post/weather/) [and](/post/and/) [driver](/post/driver/) [fatigue](/post/fatigue/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [significant](/en/post/significant/) contribution" implies [a](/en/post/a/) notable [impact](/en/post/impact/).
-- "[Contribute](/en/post/contribute/) [to](/en/post/to/) [the](/en/post/the/) [discussion](/en/post/discussion/)" [means](/en/post/means/) [to](/en/post/to/) [participate](/en/post/participate/) [and](/en/post/and/) [offer](/en/post/offer/) thoughts.
-- "[Voluntary](/en/post/voluntary/) contributions" are given willingly [by](/en/post/by/) individuals.
+- "[Make](/post/make/) [a](/post/a/) [significant](/post/significant/) contribution" implies [a](/post/a/) notable [impact](/post/impact/).
+- "[Contribute](/post/contribute/) [to](/post/to/) [the](/post/the/) [discussion](/post/discussion/)" [means](/post/means/) [to](/post/to/) [participate](/post/participate/) [and](/post/and/) [offer](/post/offer/) thoughts.
+- "[Voluntary](/post/voluntary/) contributions" are given willingly [by](/post/by/) individuals.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [museum](/en/post/museum/) relies [on](/en/post/on/) donations [to](/en/post/to/) [make](/en/post/make/) [their](/en/post/their/) exhibits accessible [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/)."
-- **[Verb](/en/post/verb/)**: "[Many](/en/post/many/) students [contribute](/en/post/contribute/) [to](/en/post/to/) [the](/en/post/the/) school's fundraising efforts [every](/en/post/every/) [year](/en/post/year/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's contributory [pension](/en/post/pension/) [scheme](/en/post/scheme/) is [popular](/en/post/popular/) [among](/en/post/among/) [its](/en/post/its/) employees."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [museum](/post/museum/) relies [on](/post/on/) donations [to](/post/to/) [make](/post/make/) [their](/post/their/) exhibits accessible [to](/post/to/) [the](/post/the/) [public](/post/public/)."
+- **[Verb](/post/verb/)**: "[Many](/post/many/) students [contribute](/post/contribute/) [to](/post/to/) [the](/post/the/) school's fundraising efforts [every](/post/every/) [year](/post/year/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) company's contributory [pension](/post/pension/) [scheme](/post/scheme/) is [popular](/post/popular/) [among](/post/among/) [its](/post/its/) employees."
 
 ## Synonyms
 - Donate
-- [Offer](/en/post/offer/)
-- [Provide](/en/post/provide/)
-- [Give](/en/post/give/)
-- [Supply](/en/post/supply/)
-- [Add](/en/post/add/)
+- [Offer](/post/offer/)
+- [Provide](/post/provide/)
+- [Give](/post/give/)
+- [Supply](/post/supply/)
+- [Add](/post/add/)
 - Contributee
-- Donor ([when](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) [person](/en/post/person/) giving)
+- Donor ([when](/post/when/) referring [to](/post/to/) [the](/post/the/) [person](/post/person/) giving)
 
-### [Note](/en/post/note/): "Contributee" is [less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/) [and](/en/post/and/) refers [to](/en/post/to/) [the](/en/post/the/) recipient [of](/en/post/of/) [a](/en/post/a/) contribution, [while](/en/post/while/) "donor" is typically [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) giver.
+### [Note](/post/note/): "Contributee" is [less](/post/less/) [commonly](/post/commonly/) [used](/post/used/) [and](/post/and/) refers [to](/post/to/) [the](/post/the/) recipient [of](/post/of/) [a](/post/a/) contribution, [while](/post/while/) "donor" is typically [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) giver.

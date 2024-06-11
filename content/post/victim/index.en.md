@@ -7,34 +7,34 @@ description = '[ˈviktim] n.牺牲者，受害者'
 keywords = ['ai words', 'victim']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vɪktɪm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has suffered [harm](/en/post/harm/), [injury](/en/post/injury/), [or](/en/post/or/) [loss](/en/post/loss/) [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) an [accident](/en/post/accident/), [crime](/en/post/crime/), [or](/en/post/or/) [other](/en/post/other/) [unfortunate](/en/post/unfortunate/) [event](/en/post/event/).
-   - "[The](/en/post/the/) [victim](/en/post/victim/) [of](/en/post/of/) [the](/en/post/the/) [car](/en/post/car/) [crash](/en/post/crash/) was rushed [to](/en/post/to/) [the](/en/post/the/) [hospital](/en/post/hospital/)."
-2. [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is subjected [or](/en/post/or/) affected [by](/en/post/by/) [something](/en/post/something/): 
-   - "[The](/en/post/the/) [victim](/en/post/victim/) [of](/en/post/of/) discrimination [often](/en/post/often/) feels powerless."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [person](/post/person/) [who](/post/who/) has suffered [harm](/post/harm/), [injury](/post/injury/), [or](/post/or/) [loss](/post/loss/) [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) an [accident](/post/accident/), [crime](/post/crime/), [or](/post/or/) [other](/post/other/) [unfortunate](/post/unfortunate/) [event](/post/event/).
+   - "[The](/post/the/) [victim](/post/victim/) [of](/post/of/) [the](/post/the/) [car](/post/car/) [crash](/post/crash/) was rushed [to](/post/to/) [the](/post/the/) [hospital](/post/hospital/)."
+2. [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is subjected [or](/post/or/) affected [by](/post/by/) [something](/post/something/): 
+   - "[The](/post/the/) [victim](/post/victim/) [of](/post/of/) discrimination [often](/post/often/) feels powerless."
 
-### [Verb](/en/post/verb/)
-- ([Rarely](/en/post/rarely/) [used](/en/post/used/)) [To](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [target](/en/post/target/) [or](/en/post/or/) [suffer](/en/post/suffer/) [harm](/en/post/harm/): "[The](/en/post/the/) [company](/en/post/company/) became [a](/en/post/a/) [victim](/en/post/victim/) [of](/en/post/of/) fraud."
+### [Verb](/post/verb/)
+- ([Rarely](/post/rarely/) [used](/post/used/)) [To](/post/to/) [be](/post/be/) [the](/post/the/) [target](/post/target/) [or](/post/or/) [suffer](/post/suffer/) [harm](/post/harm/): "[The](/post/the/) [company](/post/company/) became [a](/post/a/) [victim](/post/victim/) [of](/post/of/) fraud."
 
 ## Phrases
-- "[Crime](/en/post/crime/) [victim](/en/post/victim/) [support](/en/post/support/) services"
-- "[Victim](/en/post/victim/) [impact](/en/post/impact/) [statement](/en/post/statement/)"
-- "Becoming [a](/en/post/a/) [victim](/en/post/victim/) [of](/en/post/of/) cyberbullying"
+- "[Crime](/post/crime/) [victim](/post/victim/) [support](/post/support/) services"
+- "[Victim](/post/victim/) [impact](/post/impact/) [statement](/post/statement/)"
+- "Becoming [a](/post/a/) [victim](/post/victim/) [of](/post/of/) cyberbullying"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [police](/en/post/police/) were investigating [the](/en/post/the/) [murder](/en/post/murder/) victim's [background](/en/post/background/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) couldn't comprehend [how](/en/post/how/) [she](/en/post/she/) had [become](/en/post/become/) [a](/en/post/a/) [victim](/en/post/victim/) [of](/en/post/of/) [such](/en/post/such/) [a](/en/post/a/) scam."
-- "[The](/en/post/the/) victim's [family](/en/post/family/) was devastated [by](/en/post/by/) [the](/en/post/the/) [news](/en/post/news/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [police](/post/police/) were investigating [the](/post/the/) [murder](/post/murder/) victim's [background](/post/background/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) couldn't comprehend [how](/post/how/) [she](/post/she/) had [become](/post/become/) [a](/post/a/) [victim](/post/victim/) [of](/post/of/) [such](/post/such/) [a](/post/a/) scam."
+- "[The](/post/the/) victim's [family](/post/family/) was devastated [by](/post/by/) [the](/post/the/) [news](/post/news/)."
 
 ## Synonyms
 - Victimize
 - Sufferer
 - Casualty
-- [Target](/en/post/target/)
+- [Target](/post/target/)
 - Experiencer
 - Afflicted
 

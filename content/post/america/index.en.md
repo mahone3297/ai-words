@@ -7,38 +7,38 @@ description = '[əˈmerikə] n.美洲；美国'
 keywords = ['ai words', 'america']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈmɛrɪkə/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Country](/en/post/country/)**: [A](/en/post/a/) [continent](/en/post/continent/) located [in](/en/post/in/) [the](/en/post/the/) [Western](/en/post/western/) Hemisphere, consisting [of](/en/post/of/) 50 states, [a](/en/post/a/) [federal](/en/post/federal/) [district](/en/post/district/) ([District](/en/post/district/) [of](/en/post/of/) Columbia), [and](/en/post/and/) [five](/en/post/five/) territories. [The](/en/post/the/) United States is [often](/en/post/often/) referred [to](/en/post/to/) colloquially [as](/en/post/as/) "[America](/en/post/america/)." [Example](/en/post/example/): "[The](/en/post/the/) [Statue](/en/post/statue/) [of](/en/post/of/) [Liberty](/en/post/liberty/) stands [as](/en/post/as/) [a](/en/post/a/) [symbol](/en/post/symbol/) [of](/en/post/of/) America's [freedom](/en/post/freedom/)."
-2. **Federation**: [A](/en/post/a/) [collective](/en/post/collective/) [of](/en/post/of/) nations [or](/en/post/or/) states [that](/en/post/that/) [form](/en/post/form/) [a](/en/post/a/) [political](/en/post/political/) [union](/en/post/union/), [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) United States [of](/en/post/of/) [America](/en/post/america/). [Example](/en/post/example/): "[America](/en/post/america/) is known [for](/en/post/for/) [its](/en/post/its/) [diverse](/en/post/diverse/) cultural melting [pot](/en/post/pot/)."
-3. **[Continent](/en/post/continent/)**: [One](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [seven](/en/post/seven/) [large](/en/post/large/) landmasses [on](/en/post/on/) [Earth](/en/post/earth/), including [North](/en/post/north/) [and](/en/post/and/) [South](/en/post/south/) [America](/en/post/america/). [Example](/en/post/example/): "[South](/en/post/south/) [America](/en/post/america/) is [home](/en/post/home/) [to](/en/post/to/) [the](/en/post/the/) Amazon rainforest."
+### [Noun](/post/noun/)
+1. **[Country](/post/country/)**: [A](/post/a/) [continent](/post/continent/) located [in](/post/in/) [the](/post/the/) [Western](/post/western/) Hemisphere, consisting [of](/post/of/) 50 states, [a](/post/a/) [federal](/post/federal/) [district](/post/district/) ([District](/post/district/) [of](/post/of/) Columbia), [and](/post/and/) [five](/post/five/) territories. [The](/post/the/) United States is [often](/post/often/) referred [to](/post/to/) colloquially [as](/post/as/) "[America](/post/america/)." [Example](/post/example/): "[The](/post/the/) [Statue](/post/statue/) [of](/post/of/) [Liberty](/post/liberty/) stands [as](/post/as/) [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) America's [freedom](/post/freedom/)."
+2. **Federation**: [A](/post/a/) [collective](/post/collective/) [of](/post/of/) nations [or](/post/or/) states [that](/post/that/) [form](/post/form/) [a](/post/a/) [political](/post/political/) [union](/post/union/), [such](/post/such/) [as](/post/as/) [the](/post/the/) United States [of](/post/of/) [America](/post/america/). [Example](/post/example/): "[America](/post/america/) is known [for](/post/for/) [its](/post/its/) [diverse](/post/diverse/) cultural melting [pot](/post/pot/)."
+3. **[Continent](/post/continent/)**: [One](/post/one/) [of](/post/of/) [the](/post/the/) [seven](/post/seven/) [large](/post/large/) landmasses [on](/post/on/) [Earth](/post/earth/), including [North](/post/north/) [and](/post/and/) [South](/post/south/) [America](/post/america/). [Example](/post/example/): "[South](/post/south/) [America](/post/america/) is [home](/post/home/) [to](/post/to/) [the](/post/the/) Amazon rainforest."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [or](/en/post/or/) affiliate [with](/en/post/with/) [the](/en/post/the/) United States [or](/en/post/or/) [its](/en/post/its/) [people](/en/post/people/). [Example](/en/post/example/): "[She](/en/post/she/) proudly declared [herself](/en/post/herself/) an [American](/en/post/american/) [citizen](/en/post/citizen/)."
-2. [To](/en/post/to/) acknowledge [or](/en/post/or/) [recognize](/en/post/recognize/) [someone](/en/post/someone/) [from](/en/post/from/) [a](/en/post/a/) geographical [region](/en/post/region/). [Example](/en/post/example/): "[He](/en/post/he/) waved [at](/en/post/at/) [the](/en/post/the/) Americans [on](/en/post/on/) [the](/en/post/the/) [beach](/en/post/beach/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [refer](/post/refer/) [to](/post/to/) [or](/post/or/) affiliate [with](/post/with/) [the](/post/the/) United States [or](/post/or/) [its](/post/its/) [people](/post/people/). [Example](/post/example/): "[She](/post/she/) proudly declared [herself](/post/herself/) an [American](/post/american/) [citizen](/post/citizen/)."
+2. [To](/post/to/) acknowledge [or](/post/or/) [recognize](/post/recognize/) [someone](/post/someone/) [from](/post/from/) [a](/post/a/) geographical [region](/post/region/). [Example](/post/example/): "[He](/post/he/) waved [at](/post/at/) [the](/post/the/) Americans [on](/post/on/) [the](/post/the/) [beach](/post/beach/)."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [the](/en/post/the/) United States [or](/en/post/or/) [its](/en/post/its/) inhabitants. [Example](/en/post/example/): "[American](/en/post/american/) cuisine varies [widely](/en/post/widely/) [across](/en/post/across/) [the](/en/post/the/) [country](/en/post/country/)."
-2. [Of](/en/post/of/) [or](/en/post/or/) [from](/en/post/from/) [the](/en/post/the/) Americas. [Example](/en/post/example/): "[This](/en/post/this/) [bird](/en/post/bird/) is an [American](/en/post/american/) species."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [the](/post/the/) United States [or](/post/or/) [its](/post/its/) inhabitants. [Example](/post/example/): "[American](/post/american/) cuisine varies [widely](/post/widely/) [across](/post/across/) [the](/post/the/) [country](/post/country/)."
+2. [Of](/post/of/) [or](/post/or/) [from](/post/from/) [the](/post/the/) Americas. [Example](/post/example/): "[This](/post/this/) [bird](/post/bird/) is an [American](/post/american/) species."
 
 ## Phrases
-- "[Welcome](/en/post/welcome/) [to](/en/post/to/) [America](/en/post/america/)"
-- "[American](/en/post/american/) [Dream](/en/post/dream/)"
-- "[Land](/en/post/land/) [of](/en/post/of/) [the](/en/post/the/) [free](/en/post/free/), [home](/en/post/home/) [of](/en/post/of/) [the](/en/post/the/) [brave](/en/post/brave/)"
-- "[From](/en/post/from/) [sea](/en/post/sea/) [to](/en/post/to/) shining [sea](/en/post/sea/)"
+- "[Welcome](/post/welcome/) [to](/post/to/) [America](/post/america/)"
+- "[American](/post/american/) [Dream](/post/dream/)"
+- "[Land](/post/land/) [of](/post/of/) [the](/post/the/) [free](/post/free/), [home](/post/home/) [of](/post/of/) [the](/post/the/) [brave](/post/brave/)"
+- "[From](/post/from/) [sea](/post/sea/) [to](/post/to/) shining [sea](/post/sea/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) immigrants arrived [in](/en/post/in/) [America](/en/post/america/) seeking [a](/en/post/a/) [better](/en/post/better/) [life](/en/post/life/)."
-- **[Verb](/en/post/verb/)**: "I'm planning [a](/en/post/a/) [road](/en/post/road/) [trip](/en/post/trip/) [across](/en/post/across/) [America](/en/post/america/) [this](/en/post/this/) [summer](/en/post/summer/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [American](/en/post/american/) [flag](/en/post/flag/) flies [high](/en/post/high/) [over](/en/post/over/) [the](/en/post/the/) [White](/en/post/white/) [House](/en/post/house/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) immigrants arrived [in](/post/in/) [America](/post/america/) seeking [a](/post/a/) [better](/post/better/) [life](/post/life/)."
+- **[Verb](/post/verb/)**: "I'm planning [a](/post/a/) [road](/post/road/) [trip](/post/trip/) [across](/post/across/) [America](/post/america/) [this](/post/this/) [summer](/post/summer/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [American](/post/american/) [flag](/post/flag/) flies [high](/post/high/) [over](/post/over/) [the](/post/the/) [White](/post/white/) [House](/post/house/)."
 
 ## Synonyms
 - United States
 - USA
 - U.S.
 - States
-- [American](/en/post/american/) [nation](/en/post/nation/)
-- [American](/en/post/american/) [republic](/en/post/republic/)
+- [American](/post/american/) [nation](/post/nation/)
+- [American](/post/american/) [republic](/post/republic/)

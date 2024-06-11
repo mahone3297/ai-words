@@ -7,30 +7,30 @@ description = '[kəmˈpliːt] a.完整的；完成的'
 keywords = ['ai words', 'complete']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈpliːt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Having [all](/en/post/all/) [the](/en/post/the/) [necessary](/en/post/necessary/) parts [or](/en/post/or/) elements; fully formed [or](/en/post/or/) finished. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) is [now](/en/post/now/) [complete](/en/post/complete/)."
-   - **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) finishing [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) finished; completion. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) celebrated [the](/en/post/the/) completion [of](/en/post/of/) [the](/en/post/the/) [building](/en/post/building/)."
-   - **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [complete](/en/post/complete/) [or](/en/post/or/) [finish](/en/post/finish/) [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) completed [the](/en/post/the/) [puzzle](/en/post/puzzle/) [in](/en/post/in/) [record](/en/post/record/) [time](/en/post/time/)."
+- **[Adjective](/post/adjective/)**: 1. Having [all](/post/all/) [the](/post/the/) [necessary](/post/necessary/) parts [or](/post/or/) elements; fully formed [or](/post/or/) finished. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) is [now](/post/now/) [complete](/post/complete/)."
+   - **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) finishing [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) finished; completion. [For](/post/for/) [example](/post/example/): "[We](/post/we/) celebrated [the](/post/the/) completion [of](/post/of/) [the](/post/the/) [building](/post/building/)."
+   - **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [complete](/post/complete/) [or](/post/or/) [finish](/post/finish/) [it](/post/it/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) completed [the](/post/the/) [puzzle](/post/puzzle/) [in](/post/in/) [record](/post/record/) [time](/post/time/)."
 
 ## Phrases
-- "[Bring](/en/post/bring/) [something](/en/post/something/) [to](/en/post/to/) completion" [means](/en/post/means/) [to](/en/post/to/) [finish](/en/post/finish/) [it](/en/post/it/).
-- "[Complete](/en/post/complete/) [a](/en/post/a/) [task](/en/post/task/)" [means](/en/post/means/) [to](/en/post/to/) [finish](/en/post/finish/) [a](/en/post/a/) [job](/en/post/job/) [or](/en/post/or/) [assignment](/en/post/assignment/).
-- "[In](/en/post/in/) [its](/en/post/its/) entirety" refers [to](/en/post/to/) [the](/en/post/the/) [whole](/en/post/whole/) [thing](/en/post/thing/), [without](/en/post/without/) [any](/en/post/any/) omissions.
+- "[Bring](/post/bring/) [something](/post/something/) [to](/post/to/) completion" [means](/post/means/) [to](/post/to/) [finish](/post/finish/) [it](/post/it/).
+- "[Complete](/post/complete/) [a](/post/a/) [task](/post/task/)" [means](/post/means/) [to](/post/to/) [finish](/post/finish/) [a](/post/a/) [job](/post/job/) [or](/post/or/) [assignment](/post/assignment/).
+- "[In](/post/in/) [its](/post/its/) entirety" refers [to](/post/to/) [the](/post/the/) [whole](/post/whole/) [thing](/post/thing/), [without](/post/without/) [any](/post/any/) omissions.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [kitchen](/en/post/kitchen/) is [completely](/en/post/completely/) renovated [with](/en/post/with/) [new](/en/post/new/) appliances."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) years [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [he](/en/post/he/) [finally](/en/post/finally/) achieved [his](/en/post/his/) [goal](/en/post/goal/) [of](/en/post/of/) completing [the](/en/post/the/) marathon."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) completed [the](/en/post/the/) [report](/en/post/report/) [just](/en/post/just/) [before](/en/post/before/) [the](/en/post/the/) deadline."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [kitchen](/post/kitchen/) is [completely](/post/completely/) renovated [with](/post/with/) [new](/post/new/) appliances."
+- **[Noun](/post/noun/)**: "[After](/post/after/) years [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) [finally](/post/finally/) achieved [his](/post/his/) [goal](/post/goal/) [of](/post/of/) completing [the](/post/the/) marathon."
+- **[Verb](/post/verb/)**: "[He](/post/he/) completed [the](/post/the/) [report](/post/report/) [just](/post/just/) [before](/post/before/) [the](/post/the/) deadline."
 
 ## Synonyms
 - Finished
 - Done
 - Ended
 - Concluded
-- [Perfect](/en/post/perfect/)
-- [Total](/en/post/total/)
-- [Entire](/en/post/entire/)
+- [Perfect](/post/perfect/)
+- [Total](/post/total/)
+- [Entire](/post/entire/)
 - Completeful (informal)

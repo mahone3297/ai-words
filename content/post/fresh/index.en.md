@@ -7,39 +7,39 @@ description = '[fre∫] a.新的；新鲜的'
 keywords = ['ai words', 'fresh']
 +++
 
-## [Word](/en/post/word/): [Fresh](/en/post/fresh/)
+## [Word](/post/word/): [Fresh](/post/fresh/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /freʃ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/) (adj)**: [Recently](/en/post/recently/) made, obtained, [or](/en/post/or/) created; [not](/en/post/not/) [stale](/en/post/stale/) [or](/en/post/or/) [old](/en/post/old/). [For](/en/post/for/) [example](/en/post/example/): "I [just](/en/post/just/) baked [some](/en/post/some/) [fresh](/en/post/fresh/) [bread](/en/post/bread/) [for](/en/post/for/) [breakfast](/en/post/breakfast/)."
-- **[Adjective](/en/post/adjective/) (adj)**: [New](/en/post/new/) [or](/en/post/or/) unused; [not](/en/post/not/) [previously](/en/post/previously/) experienced [or](/en/post/or/) encountered. [Example](/en/post/example/): "[The](/en/post/the/) [hotel](/en/post/hotel/) offers [fresh](/en/post/fresh/) towels [daily](/en/post/daily/)."
-- **[Adjective](/en/post/adjective/) (adj)**: [Cool](/en/post/cool/), crisp, [and](/en/post/and/) invigorating, [especially](/en/post/especially/) [with](/en/post/with/) [reference](/en/post/reference/) [to](/en/post/to/) [air](/en/post/air/) [or](/en/post/or/) [water](/en/post/water/). [Example](/en/post/example/): "[The](/en/post/the/) [fresh](/en/post/fresh/) [mountain](/en/post/mountain/) [air](/en/post/air/) was [a](/en/post/a/) [welcome](/en/post/welcome/) [change](/en/post/change/) [from](/en/post/from/) [the](/en/post/the/) [city](/en/post/city/) [smog](/en/post/smog/)."
-- **[Adjective](/en/post/adjective/) (adj)**: Unspoiled, [clean](/en/post/clean/), [or](/en/post/or/) [pure](/en/post/pure/); [not](/en/post/not/) contaminated. [Example](/en/post/example/): "[Fresh](/en/post/fresh/) [spring](/en/post/spring/) [water](/en/post/water/) is [the](/en/post/the/) [best](/en/post/best/) [choice](/en/post/choice/) [for](/en/post/for/) drinking."
-- **[Adjective](/en/post/adjective/) (adj)**: Having [a](/en/post/a/) [strong](/en/post/strong/), [lively](/en/post/lively/) flavor [or](/en/post/or/) [scent](/en/post/scent/) [due](/en/post/due/) [to](/en/post/to/) [being](/en/post/being/) [recently](/en/post/recently/) made [or](/en/post/or/) gathered. [Example](/en/post/example/): "[Fresh](/en/post/fresh/) herbs [add](/en/post/add/) [a](/en/post/a/) [burst](/en/post/burst/) [of](/en/post/of/) flavor [to](/en/post/to/) [any](/en/post/any/) [dish](/en/post/dish/)."
-- **[Adjective](/en/post/adjective/) (adj)**: [Recently](/en/post/recently/) arrived [or](/en/post/or/) appearing; [new](/en/post/new/) [to](/en/post/to/) [a](/en/post/a/) [situation](/en/post/situation/). [Example](/en/post/example/): "She's [a](/en/post/a/) [fresh](/en/post/fresh/) [face](/en/post/face/) [on](/en/post/on/) [the](/en/post/the/) [political](/en/post/political/) [scene](/en/post/scene/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [fresh](/en/post/fresh/) [again](/en/post/again/) [by](/en/post/by/) cleaning, renewing, [or](/en/post/or/) replacing [it](/en/post/it/). [Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) freshen [up](/en/post/up/) [the](/en/post/the/) [paint](/en/post/paint/) [job](/en/post/job/) [in](/en/post/in/) [the](/en/post/the/) [living](/en/post/living/) [room](/en/post/room/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [become](/en/post/become/) [or](/en/post/or/) [appear](/en/post/appear/) [fresh](/en/post/fresh/) [or](/en/post/or/) refreshed. [Example](/en/post/example/): "[After](/en/post/after/) [a](/en/post/a/) [shower](/en/post/shower/), [he](/en/post/he/) felt fully freshened [up](/en/post/up/)."
+- **[Adjective](/post/adjective/) (adj)**: [Recently](/post/recently/) made, obtained, [or](/post/or/) created; [not](/post/not/) [stale](/post/stale/) [or](/post/or/) [old](/post/old/). [For](/post/for/) [example](/post/example/): "I [just](/post/just/) baked [some](/post/some/) [fresh](/post/fresh/) [bread](/post/bread/) [for](/post/for/) [breakfast](/post/breakfast/)."
+- **[Adjective](/post/adjective/) (adj)**: [New](/post/new/) [or](/post/or/) unused; [not](/post/not/) [previously](/post/previously/) experienced [or](/post/or/) encountered. [Example](/post/example/): "[The](/post/the/) [hotel](/post/hotel/) offers [fresh](/post/fresh/) towels [daily](/post/daily/)."
+- **[Adjective](/post/adjective/) (adj)**: [Cool](/post/cool/), crisp, [and](/post/and/) invigorating, [especially](/post/especially/) [with](/post/with/) [reference](/post/reference/) [to](/post/to/) [air](/post/air/) [or](/post/or/) [water](/post/water/). [Example](/post/example/): "[The](/post/the/) [fresh](/post/fresh/) [mountain](/post/mountain/) [air](/post/air/) was [a](/post/a/) [welcome](/post/welcome/) [change](/post/change/) [from](/post/from/) [the](/post/the/) [city](/post/city/) [smog](/post/smog/)."
+- **[Adjective](/post/adjective/) (adj)**: Unspoiled, [clean](/post/clean/), [or](/post/or/) [pure](/post/pure/); [not](/post/not/) contaminated. [Example](/post/example/): "[Fresh](/post/fresh/) [spring](/post/spring/) [water](/post/water/) is [the](/post/the/) [best](/post/best/) [choice](/post/choice/) [for](/post/for/) drinking."
+- **[Adjective](/post/adjective/) (adj)**: Having [a](/post/a/) [strong](/post/strong/), [lively](/post/lively/) flavor [or](/post/or/) [scent](/post/scent/) [due](/post/due/) [to](/post/to/) [being](/post/being/) [recently](/post/recently/) made [or](/post/or/) gathered. [Example](/post/example/): "[Fresh](/post/fresh/) herbs [add](/post/add/) [a](/post/a/) [burst](/post/burst/) [of](/post/of/) flavor [to](/post/to/) [any](/post/any/) [dish](/post/dish/)."
+- **[Adjective](/post/adjective/) (adj)**: [Recently](/post/recently/) arrived [or](/post/or/) appearing; [new](/post/new/) [to](/post/to/) [a](/post/a/) [situation](/post/situation/). [Example](/post/example/): "She's [a](/post/a/) [fresh](/post/fresh/) [face](/post/face/) [on](/post/on/) [the](/post/the/) [political](/post/political/) [scene](/post/scene/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [fresh](/post/fresh/) [again](/post/again/) [by](/post/by/) cleaning, renewing, [or](/post/or/) replacing [it](/post/it/). [Example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) freshen [up](/post/up/) [the](/post/the/) [paint](/post/paint/) [job](/post/job/) [in](/post/in/) [the](/post/the/) [living](/post/living/) [room](/post/room/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [become](/post/become/) [or](/post/or/) [appear](/post/appear/) [fresh](/post/fresh/) [or](/post/or/) refreshed. [Example](/post/example/): "[After](/post/after/) [a](/post/a/) [shower](/post/shower/), [he](/post/he/) felt fully freshened [up](/post/up/)."
 
 ## Phrases
-- "[Fresh](/en/post/fresh/) [off](/en/post/off/) [the](/en/post/the/) [boat](/en/post/boat/)": [Recently](/en/post/recently/) arrived, [especially](/en/post/especially/) referring [to](/en/post/to/) immigrants [or](/en/post/or/) [new](/en/post/new/) arrivals.
-- "[Fresh](/en/post/fresh/) [start](/en/post/start/)": [A](/en/post/a/) [new](/en/post/new/) [beginning](/en/post/beginning/) [without](/en/post/without/) [the](/en/post/the/) [burden](/en/post/burden/) [of](/en/post/of/) [past](/en/post/past/) mistakes [or](/en/post/or/) problems.
-- "[A](/en/post/a/) [breath](/en/post/breath/) [of](/en/post/of/) [fresh](/en/post/fresh/) [air](/en/post/air/)": [Something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [that](/en/post/that/) brings [new](/en/post/new/) [energy](/en/post/energy/), ideas, [or](/en/post/or/) [a](/en/post/a/) [positive](/en/post/positive/) [change](/en/post/change/) [to](/en/post/to/) [a](/en/post/a/) [situation](/en/post/situation/).
-- "[Keep](/en/post/keep/) [it](/en/post/it/) [fresh](/en/post/fresh/)": [To](/en/post/to/) [maintain](/en/post/maintain/) novelty [or](/en/post/or/) [interest](/en/post/interest/), [often](/en/post/often/) referring [to](/en/post/to/) relationships [or](/en/post/or/) [creative](/en/post/creative/) [work](/en/post/work/).
+- "[Fresh](/post/fresh/) [off](/post/off/) [the](/post/the/) [boat](/post/boat/)": [Recently](/post/recently/) arrived, [especially](/post/especially/) referring [to](/post/to/) immigrants [or](/post/or/) [new](/post/new/) arrivals.
+- "[Fresh](/post/fresh/) [start](/post/start/)": [A](/post/a/) [new](/post/new/) [beginning](/post/beginning/) [without](/post/without/) [the](/post/the/) [burden](/post/burden/) [of](/post/of/) [past](/post/past/) mistakes [or](/post/or/) problems.
+- "[A](/post/a/) [breath](/post/breath/) [of](/post/of/) [fresh](/post/fresh/) [air](/post/air/)": [Something](/post/something/) [or](/post/or/) [someone](/post/someone/) [that](/post/that/) brings [new](/post/new/) [energy](/post/energy/), ideas, [or](/post/or/) [a](/post/a/) [positive](/post/positive/) [change](/post/change/) [to](/post/to/) [a](/post/a/) [situation](/post/situation/).
+- "[Keep](/post/keep/) [it](/post/it/) [fresh](/post/fresh/)": [To](/post/to/) [maintain](/post/maintain/) novelty [or](/post/or/) [interest](/post/interest/), [often](/post/often/) referring [to](/post/to/) relationships [or](/post/or/) [creative](/post/creative/) [work](/post/work/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) farmer's [market](/en/post/market/) sells [the](/en/post/the/) freshest [produce](/en/post/produce/) [every](/en/post/every/) [weekend](/en/post/weekend/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) freshen [up](/en/post/up/) [her](/en/post/her/) wardrobe [with](/en/post/with/) [some](/en/post/some/) trendy [new](/en/post/new/) pieces."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) farmer's [market](/post/market/) sells [the](/post/the/) freshest [produce](/post/produce/) [every](/post/every/) [weekend](/post/weekend/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) freshen [up](/post/up/) [her](/post/her/) wardrobe [with](/post/with/) [some](/post/some/) trendy [new](/post/new/) pieces."
 
 ## Synonyms
-- [New](/en/post/new/)
-- [Recent](/en/post/recent/)
+- [New](/post/new/)
+- [Recent](/post/recent/)
 - Unspoiled
 - Untouched
 - Unused
 - Crisp
-- [Cool](/en/post/cool/)
+- [Cool](/post/cool/)
 - Invigorating
 - Renewed
-- [Up-to-date](/en/post/up-to-date/)
+- [Up-to-date](/post/up-to-date/)

@@ -7,48 +7,48 @@ description = '[brein] n.脑，脑髓；脑力'
 keywords = ['ai words', 'brain']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbreɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [The](/en/post/the/) [main](/en/post/main/) [organ](/en/post/organ/) [of](/en/post/of/) [the](/en/post/the/) [central](/en/post/central/) [nervous](/en/post/nervous/) [system](/en/post/system/) [in](/en/post/in/) animals, [especially](/en/post/especially/) mammals, controlling [thought](/en/post/thought/), [memory](/en/post/memory/), [and](/en/post/and/) [voluntary](/en/post/voluntary/) [movement](/en/post/movement/).
-   - [Definition](/en/post/definition/): [The](/en/post/the/) [part](/en/post/part/) [of](/en/post/of/) an animal's [body](/en/post/body/) [that](/en/post/that/) controls [its](/en/post/its/) [mind](/en/post/mind/) [and](/en/post/and/) senses, allowing [it](/en/post/it/) [to](/en/post/to/) [learn](/en/post/learn/), [think](/en/post/think/), [and](/en/post/and/) [feel](/en/post/feel/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [brain](/en/post/brain/) is [the](/en/post/the/) [most](/en/post/most/) [complex](/en/post/complex/) [organ](/en/post/organ/) [in](/en/post/in/) [the](/en/post/the/) [human](/en/post/human/) [body](/en/post/body/)."
+### [Noun](/post/noun/)
+- **1.** [The](/post/the/) [main](/post/main/) [organ](/post/organ/) [of](/post/of/) [the](/post/the/) [central](/post/central/) [nervous](/post/nervous/) [system](/post/system/) [in](/post/in/) animals, [especially](/post/especially/) mammals, controlling [thought](/post/thought/), [memory](/post/memory/), [and](/post/and/) [voluntary](/post/voluntary/) [movement](/post/movement/).
+   - [Definition](/post/definition/): [The](/post/the/) [part](/post/part/) [of](/post/of/) an animal's [body](/post/body/) [that](/post/that/) controls [its](/post/its/) [mind](/post/mind/) [and](/post/and/) senses, allowing [it](/post/it/) [to](/post/to/) [learn](/post/learn/), [think](/post/think/), [and](/post/and/) [feel](/post/feel/).
+   - [Example](/post/example/): "[The](/post/the/) [brain](/post/brain/) is [the](/post/the/) [most](/post/most/) [complex](/post/complex/) [organ](/post/organ/) [in](/post/in/) [the](/post/the/) [human](/post/human/) [body](/post/body/)."
    
-- **2.** (figurative) [Mental](/en/post/mental/) [ability](/en/post/ability/) [or](/en/post/or/) [capacity](/en/post/capacity/); [intelligence](/en/post/intelligence/).
-   - [Definition](/en/post/definition/): [The](/en/post/the/) [mental](/en/post/mental/) capabilities [and](/en/post/and/) functions [that](/en/post/that/) [enable](/en/post/enable/) [one](/en/post/one/) [to](/en/post/to/) [think](/en/post/think/), [reason](/en/post/reason/), [and](/en/post/and/) [learn](/en/post/learn/).
-   - [Example](/en/post/example/): "[He](/en/post/he/) has an exceptional [brain](/en/post/brain/) [for](/en/post/for/) [mathematics](/en/post/mathematics/)."
+- **2.** (figurative) [Mental](/post/mental/) [ability](/post/ability/) [or](/post/or/) [capacity](/post/capacity/); [intelligence](/post/intelligence/).
+   - [Definition](/post/definition/): [The](/post/the/) [mental](/post/mental/) capabilities [and](/post/and/) functions [that](/post/that/) [enable](/post/enable/) [one](/post/one/) [to](/post/to/) [think](/post/think/), [reason](/post/reason/), [and](/post/and/) [learn](/post/learn/).
+   - [Example](/post/example/): "[He](/post/he/) has an exceptional [brain](/post/brain/) [for](/post/for/) [mathematics](/post/mathematics/)."
 
-### [Verb](/en/post/verb/)
-- **1.** [To](/en/post/to/) [think](/en/post/think/) [or](/en/post/or/) [consider](/en/post/consider/) [something](/en/post/something/) carefully.
-   - [Definition](/en/post/definition/): [To](/en/post/to/) [use](/en/post/use/) one's [mental](/en/post/mental/) faculties [to](/en/post/to/) analyze [or](/en/post/or/) contemplate.
-   - [Example](/en/post/example/): "[She](/en/post/she/) spent hours brain-storming ideas [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/)."
+### [Verb](/post/verb/)
+- **1.** [To](/post/to/) [think](/post/think/) [or](/post/or/) [consider](/post/consider/) [something](/post/something/) carefully.
+   - [Definition](/post/definition/): [To](/post/to/) [use](/post/use/) one's [mental](/post/mental/) faculties [to](/post/to/) analyze [or](/post/or/) contemplate.
+   - [Example](/post/example/): "[She](/post/she/) spent hours brain-storming ideas [for](/post/for/) [the](/post/the/) [project](/post/project/)."
 
-- **2.** (informal) [To](/en/post/to/) ponder [or](/en/post/or/) [reflect](/en/post/reflect/) [on](/en/post/on/) [something](/en/post/something/).
-   - [Definition](/en/post/definition/): [To](/en/post/to/) [think](/en/post/think/) deeply [about](/en/post/about/) [a](/en/post/a/) [topic](/en/post/topic/) [or](/en/post/or/) [problem](/en/post/problem/).
-   - [Example](/en/post/example/): "[He](/en/post/he/) was [just](/en/post/just/) brain-washing [himself](/en/post/himself/) [with](/en/post/with/) [positive](/en/post/positive/) affirmations."
+- **2.** (informal) [To](/post/to/) ponder [or](/post/or/) [reflect](/post/reflect/) [on](/post/on/) [something](/post/something/).
+   - [Definition](/post/definition/): [To](/post/to/) [think](/post/think/) deeply [about](/post/about/) [a](/post/a/) [topic](/post/topic/) [or](/post/or/) [problem](/post/problem/).
+   - [Example](/post/example/): "[He](/post/he/) was [just](/post/just/) brain-washing [himself](/post/himself/) [with](/post/with/) [positive](/post/positive/) affirmations."
 
-### [Adjective](/en/post/adjective/)
-- (informal) Referring [to](/en/post/to/) [mental](/en/post/mental/) abilities [or](/en/post/or/) [intelligence](/en/post/intelligence/).
-   - [Definition](/en/post/definition/): Demonstrating [or](/en/post/or/) characterized [by](/en/post/by/) [intelligence](/en/post/intelligence/) [or](/en/post/or/) cognitive skills.
-   - [Example](/en/post/example/): "[A](/en/post/a/) brainy [solution](/en/post/solution/) [to](/en/post/to/) [the](/en/post/the/) [problem](/en/post/problem/)."
+### [Adjective](/post/adjective/)
+- (informal) Referring [to](/post/to/) [mental](/post/mental/) abilities [or](/post/or/) [intelligence](/post/intelligence/).
+   - [Definition](/post/definition/): Demonstrating [or](/post/or/) characterized [by](/post/by/) [intelligence](/post/intelligence/) [or](/post/or/) cognitive skills.
+   - [Example](/post/example/): "[A](/post/a/) brainy [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/)."
 
 ## Phrases
-- "[Think](/en/post/think/) [with](/en/post/with/) [your](/en/post/your/) [brain](/en/post/brain/)" implies using [logic](/en/post/logic/) [and](/en/post/and/) reasoning.
-- "[Train](/en/post/train/) [your](/en/post/your/) [brain](/en/post/brain/)" refers [to](/en/post/to/) activities [that](/en/post/that/) [improve](/en/post/improve/) [mental](/en/post/mental/) agility.
-- "Brainstorming [session](/en/post/session/)" is [a](/en/post/a/) [group](/en/post/group/) [discussion](/en/post/discussion/) [to](/en/post/to/) [generate](/en/post/generate/) ideas.
+- "[Think](/post/think/) [with](/post/with/) [your](/post/your/) [brain](/post/brain/)" implies using [logic](/post/logic/) [and](/post/and/) reasoning.
+- "[Train](/post/train/) [your](/post/your/) [brain](/post/brain/)" refers [to](/post/to/) activities [that](/post/that/) [improve](/post/improve/) [mental](/post/mental/) agility.
+- "Brainstorming [session](/post/session/)" is [a](/post/a/) [group](/post/group/) [discussion](/post/discussion/) [to](/post/to/) [generate](/post/generate/) ideas.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) neurosurgeon carefully removed [the](/en/post/the/) tumor [from](/en/post/from/) [her](/en/post/her/) patient's [brain](/en/post/brain/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) spent [the](/en/post/the/) [morning](/en/post/morning/) brain-storming [new](/en/post/new/) marketing strategies."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) brainy comments [during](/en/post/during/) [the](/en/post/the/) [debate](/en/post/debate/) impressed [everyone](/en/post/everyone/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) neurosurgeon carefully removed [the](/post/the/) tumor [from](/post/from/) [her](/post/her/) patient's [brain](/post/brain/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) spent [the](/post/the/) [morning](/post/morning/) brain-storming [new](/post/new/) marketing strategies."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) brainy comments [during](/post/during/) [the](/post/the/) [debate](/post/debate/) impressed [everyone](/post/everyone/)."
 
 ## Synonyms
-- [Mind](/en/post/mind/)
+- [Mind](/post/mind/)
 - Intellect
-- [Intelligence](/en/post/intelligence/)
+- [Intelligence](/post/intelligence/)
 - Cerebrum
-- [Wit](/en/post/wit/)
+- [Wit](/post/wit/)
 - Acumen
 - Sagacity

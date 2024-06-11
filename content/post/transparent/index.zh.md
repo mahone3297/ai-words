@@ -17,17 +17,17 @@ keywords = ['ai words', 'transparent']
     - 3. 不做掩饰的；坦率的：如透明的政治意图。
 
 ## 短语
-- "[transparent](/post/transparent/) [material](/post/material/)" 指的是能透过光线的材料。
-- "[transparent](/post/transparent/) [policy](/post/policy/)" 指的是公开且容易理解的政策。
+- "[transparent](/zh/post/transparent/) [material](/zh/post/material/)" 指的是能透过光线的材料。
+- "[transparent](/zh/post/transparent/) [policy](/zh/post/policy/)" 指的是公开且容易理解的政策。
 
 ## 例句
-- 形容词: "[The](/post/the/) [glass](/post/glass/) is [transparent](/post/transparent/), [so](/post/so/) [we](/post/we/) [can](/post/can/) [see](/post/see/) [through](/post/through/) [it](/post/it/)."
-- "[Her](/post/her/) [explanation](/post/explanation/) was [transparent](/post/transparent/), leaving [no](/post/no/) [room](/post/room/) [for](/post/for/) [confusion](/post/confusion/)."
-- "[Their](/post/their/) intentions were [anything](/post/anything/) [but](/post/but/) [transparent](/post/transparent/)."
+- 形容词: "[The](/zh/post/the/) [glass](/zh/post/glass/) is [transparent](/zh/post/transparent/), [so](/zh/post/so/) [we](/zh/post/we/) [can](/zh/post/can/) [see](/zh/post/see/) [through](/zh/post/through/) [it](/zh/post/it/)."
+- "[Her](/zh/post/her/) [explanation](/zh/post/explanation/) was [transparent](/zh/post/transparent/), leaving [no](/zh/post/no/) [room](/zh/post/room/) [for](/zh/post/for/) [confusion](/zh/post/confusion/)."
+- "[Their](/zh/post/their/) intentions were [anything](/zh/post/anything/) [but](/zh/post/but/) [transparent](/zh/post/transparent/)."
 
 ## 同义词
 - See-through
-- [Clear](/post/clear/)
+- [Clear](/zh/post/clear/)
 - Opaque (反义词)
 - Lucid
 - Candid

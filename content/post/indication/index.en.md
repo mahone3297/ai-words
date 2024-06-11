@@ -7,29 +7,29 @@ description = '[ˌindiˈkei∫ən] n.指示;表示；表明'
 keywords = ['ai words', 'indication']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɪndɪˈkeɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [signal](/en/post/signal/), [sign](/en/post/sign/), [or](/en/post/or/) [hint](/en/post/hint/) pointing towards [something](/en/post/something/); [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/) [that](/en/post/that/) suggests [or](/en/post/or/) indicates [a](/en/post/a/) [fact](/en/post/fact/) [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) were [several](/en/post/several/) indications [that](/en/post/that/) [the](/en/post/the/) [project](/en/post/project/) was going [off](/en/post/off/) [track](/en/post/track/)."
-  - [Medical](/en/post/medical/) context: [A](/en/post/a/) [physical](/en/post/physical/) symptom [or](/en/post/or/) [a](/en/post/a/) [change](/en/post/change/) [that](/en/post/that/) [may](/en/post/may/) [suggest](/en/post/suggest/) [the](/en/post/the/) [presence](/en/post/presence/) [of](/en/post/of/) [a](/en/post/a/) [disease](/en/post/disease/) [or](/en/post/or/) [condition](/en/post/condition/). [Example](/en/post/example/): "[The](/en/post/the/) patient's [high](/en/post/high/) [fever](/en/post/fever/) is an [indication](/en/post/indication/) [for](/en/post/for/) [further](/en/post/further/) testing."
-- **[Verb](/en/post/verb/)**: ([indicate](/en/post/indicate/)) [To](/en/post/to/) [point](/en/post/point/) [out](/en/post/out/), [show](/en/post/show/), [or](/en/post/or/) [make](/en/post/make/) known indirectly [or](/en/post/or/) suggestively. [Example](/en/post/example/): "[The](/en/post/the/) sales figures [indicate](/en/post/indicate/) [a](/en/post/a/) [significant](/en/post/significant/) [increase](/en/post/increase/) [in](/en/post/in/) [demand](/en/post/demand/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [signal](/post/signal/), [sign](/post/sign/), [or](/post/or/) [hint](/post/hint/) pointing towards [something](/post/something/); [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [information](/post/information/) [that](/post/that/) suggests [or](/post/or/) indicates [a](/post/a/) [fact](/post/fact/) [or](/post/or/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[There](/post/there/) were [several](/post/several/) indications [that](/post/that/) [the](/post/the/) [project](/post/project/) was going [off](/post/off/) [track](/post/track/)."
+  - [Medical](/post/medical/) context: [A](/post/a/) [physical](/post/physical/) symptom [or](/post/or/) [a](/post/a/) [change](/post/change/) [that](/post/that/) [may](/post/may/) [suggest](/post/suggest/) [the](/post/the/) [presence](/post/presence/) [of](/post/of/) [a](/post/a/) [disease](/post/disease/) [or](/post/or/) [condition](/post/condition/). [Example](/post/example/): "[The](/post/the/) patient's [high](/post/high/) [fever](/post/fever/) is an [indication](/post/indication/) [for](/post/for/) [further](/post/further/) testing."
+- **[Verb](/post/verb/)**: ([indicate](/post/indicate/)) [To](/post/to/) [point](/post/point/) [out](/post/out/), [show](/post/show/), [or](/post/or/) [make](/post/make/) known indirectly [or](/post/or/) suggestively. [Example](/post/example/): "[The](/post/the/) sales figures [indicate](/post/indicate/) [a](/post/a/) [significant](/post/significant/) [increase](/post/increase/) [in](/post/in/) [demand](/post/demand/)."
 
 ## Phrases
-- "[Give](/en/post/give/) an [indication](/en/post/indication/)": [To](/en/post/to/) [provide](/en/post/provide/) [some](/en/post/some/) [information](/en/post/information/) [or](/en/post/or/) [a](/en/post/a/) [clue](/en/post/clue/) [about](/en/post/about/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [survey](/en/post/survey/) results [will](/en/post/will/) [give](/en/post/give/) an [indication](/en/post/indication/) [of](/en/post/of/) [public](/en/post/public/) [opinion](/en/post/opinion/)."
-- "[No](/en/post/no/) [indication](/en/post/indication/) [of](/en/post/of/)": [To](/en/post/to/) [not](/en/post/not/) [have](/en/post/have/) [any](/en/post/any/) [sign](/en/post/sign/) [or](/en/post/or/) [evidence](/en/post/evidence/) suggesting [something](/en/post/something/) exists [or](/en/post/or/) [will](/en/post/will/) [happen](/en/post/happen/). [Example](/en/post/example/): "There's [no](/en/post/no/) [indication](/en/post/indication/) [of](/en/post/of/) foul [play](/en/post/play/) [in](/en/post/in/) [the](/en/post/the/) [incident](/en/post/incident/)."
+- "[Give](/post/give/) an [indication](/post/indication/)": [To](/post/to/) [provide](/post/provide/) [some](/post/some/) [information](/post/information/) [or](/post/or/) [a](/post/a/) [clue](/post/clue/) [about](/post/about/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [survey](/post/survey/) results [will](/post/will/) [give](/post/give/) an [indication](/post/indication/) [of](/post/of/) [public](/post/public/) [opinion](/post/opinion/)."
+- "[No](/post/no/) [indication](/post/indication/) [of](/post/of/)": [To](/post/to/) [not](/post/not/) [have](/post/have/) [any](/post/any/) [sign](/post/sign/) [or](/post/or/) [evidence](/post/evidence/) suggesting [something](/post/something/) exists [or](/post/or/) [will](/post/will/) [happen](/post/happen/). [Example](/post/example/): "There's [no](/post/no/) [indication](/post/indication/) [of](/post/of/) foul [play](/post/play/) [in](/post/in/) [the](/post/the/) [incident](/post/incident/)."
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [silence](/en/post/silence/) was an [indication](/en/post/indication/) [of](/en/post/of/) [her](/en/post/her/) disapproval."
-- "[His](/en/post/his/) elevated [heart](/en/post/heart/) [rate](/en/post/rate/) was [a](/en/post/a/) [clear](/en/post/clear/) [indication](/en/post/indication/) [that](/en/post/that/) [he](/en/post/he/) had been exercising."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [report](/en/post/report/) indicates [that](/en/post/that/) consumer [confidence](/en/post/confidence/) has improved [this](/en/post/this/) [quarter](/en/post/quarter/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [silence](/post/silence/) was an [indication](/post/indication/) [of](/post/of/) [her](/post/her/) disapproval."
+- "[His](/post/his/) elevated [heart](/post/heart/) [rate](/post/rate/) was [a](/post/a/) [clear](/post/clear/) [indication](/post/indication/) [that](/post/that/) [he](/post/he/) had been exercising."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [report](/post/report/) indicates [that](/post/that/) consumer [confidence](/post/confidence/) has improved [this](/post/this/) [quarter](/post/quarter/)."
 
 ## Synonyms
-- [Signal](/en/post/signal/)
-- [Sign](/en/post/sign/)
-- [Hint](/en/post/hint/)
-- [Clue](/en/post/clue/)
+- [Signal](/post/signal/)
+- [Sign](/post/sign/)
+- [Hint](/post/hint/)
+- [Clue](/post/clue/)
 - Token
 - Pointer
-- [Suggestion](/en/post/suggestion/)
-- [Indication](/en/post/indication/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) synonym [for](/en/post/for/) words [like](/en/post/like/) [suggest](/en/post/suggest/), [imply](/en/post/imply/), [or](/en/post/or/) denote.
+- [Suggestion](/post/suggestion/)
+- [Indication](/post/indication/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) synonym [for](/post/for/) words [like](/post/like/) [suggest](/post/suggest/), [imply](/post/imply/), [or](/post/or/) denote.

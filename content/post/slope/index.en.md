@@ -7,37 +7,37 @@ description = '[sləup] n.倾斜；斜面 vi.倾斜'
 keywords = ['ai words', 'slope']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sloʊp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) sloping [surface](/en/post/surface/) [or](/en/post/or/) [incline](/en/post/incline/)**: [A](/en/post/a/) [gentle](/en/post/gentle/) [slope](/en/post/slope/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [on](/en/post/on/) [a](/en/post/a/) [hillside](/en/post/hillside/). *[Example](/en/post/example/)*: [The](/en/post/the/) [garden](/en/post/garden/) had [a](/en/post/a/) [gradual](/en/post/gradual/) [slope](/en/post/slope/) [from](/en/post/from/) [the](/en/post/the/) [front](/en/post/front/) [door](/en/post/door/) [to](/en/post/to/) [the](/en/post/the/) [back](/en/post/back/).
-- **[Grade](/en/post/grade/) [or](/en/post/or/) inclination [of](/en/post/of/) [a](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) [surface](/en/post/surface/)**: [The](/en/post/the/) [slope](/en/post/slope/) [of](/en/post/of/) [the](/en/post/the/) [roof](/en/post/roof/) is [important](/en/post/important/) [for](/en/post/for/) drainage.
-- **[Rate](/en/post/rate/) [of](/en/post/of/) [change](/en/post/change/) [over](/en/post/over/) [a](/en/post/a/) [particular](/en/post/particular/) [interval](/en/post/interval/)**: [The](/en/post/the/) [slope](/en/post/slope/) [of](/en/post/of/) [a](/en/post/a/) [function](/en/post/function/) represents [how](/en/post/how/) [quickly](/en/post/quickly/) it's changing.
+### [Noun](/post/noun/)
+- **[A](/post/a/) sloping [surface](/post/surface/) [or](/post/or/) [incline](/post/incline/)**: [A](/post/a/) [gentle](/post/gentle/) [slope](/post/slope/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [on](/post/on/) [a](/post/a/) [hillside](/post/hillside/). *[Example](/post/example/)*: [The](/post/the/) [garden](/post/garden/) had [a](/post/a/) [gradual](/post/gradual/) [slope](/post/slope/) [from](/post/from/) [the](/post/the/) [front](/post/front/) [door](/post/door/) [to](/post/to/) [the](/post/the/) [back](/post/back/).
+- **[Grade](/post/grade/) [or](/post/or/) inclination [of](/post/of/) [a](/post/a/) [line](/post/line/) [or](/post/or/) [surface](/post/surface/)**: [The](/post/the/) [slope](/post/slope/) [of](/post/of/) [the](/post/the/) [roof](/post/roof/) is [important](/post/important/) [for](/post/for/) drainage.
+- **[Rate](/post/rate/) [of](/post/of/) [change](/post/change/) [over](/post/over/) [a](/post/a/) [particular](/post/particular/) [interval](/post/interval/)**: [The](/post/the/) [slope](/post/slope/) [of](/post/of/) [a](/post/a/) [function](/post/function/) represents [how](/post/how/) [quickly](/post/quickly/) it's changing.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [descend](/en/post/descend/) [or](/en/post/or/) [incline](/en/post/incline/) [in](/en/post/in/) [a](/en/post/a/) slanted [manner](/en/post/manner/)**: [The](/en/post/the/) [path](/en/post/path/) sloped [downward](/en/post/downward/) towards [the](/en/post/the/) [river](/en/post/river/).
-- **[To](/en/post/to/) [describe](/en/post/describe/) [or](/en/post/or/) [determine](/en/post/determine/) [the](/en/post/the/) [slope](/en/post/slope/) [of](/en/post/of/) [something](/en/post/something/)**: [We](/en/post/we/) measured [the](/en/post/the/) [slope](/en/post/slope/) [of](/en/post/of/) [the](/en/post/the/) [road](/en/post/road/) [to](/en/post/to/) [ensure](/en/post/ensure/) [it](/en/post/it/) meets [safety](/en/post/safety/) standards.
+### [Verb](/post/verb/)
+- **[To](/post/to/) [descend](/post/descend/) [or](/post/or/) [incline](/post/incline/) [in](/post/in/) [a](/post/a/) slanted [manner](/post/manner/)**: [The](/post/the/) [path](/post/path/) sloped [downward](/post/downward/) towards [the](/post/the/) [river](/post/river/).
+- **[To](/post/to/) [describe](/post/describe/) [or](/post/or/) [determine](/post/determine/) [the](/post/the/) [slope](/post/slope/) [of](/post/of/) [something](/post/something/)**: [We](/post/we/) measured [the](/post/the/) [slope](/post/slope/) [of](/post/of/) [the](/post/the/) [road](/post/road/) [to](/post/to/) [ensure](/post/ensure/) [it](/post/it/) meets [safety](/post/safety/) standards.
 
-### [Adjective](/en/post/adjective/)
-- **Having [a](/en/post/a/) slant [or](/en/post/or/) [incline](/en/post/incline/)**: [The](/en/post/the/) [slope](/en/post/slope/) [of](/en/post/of/) [the](/en/post/the/) [hill](/en/post/hill/) made hiking challenging.
+### [Adjective](/post/adjective/)
+- **Having [a](/post/a/) slant [or](/post/or/) [incline](/post/incline/)**: [The](/post/the/) [slope](/post/slope/) [of](/post/of/) [the](/post/the/) [hill](/post/hill/) made hiking challenging.
 
 ## Phrases
-- "[A](/en/post/a/) [steep](/en/post/steep/) [slope](/en/post/slope/)" indicates [a](/en/post/a/) [significant](/en/post/significant/) [incline](/en/post/incline/).
-- "[Slope](/en/post/slope/) [away](/en/post/away/) [from](/en/post/from/)" describes moving [in](/en/post/in/) [a](/en/post/a/) descending [direction](/en/post/direction/).
-- "[Positive](/en/post/positive/) [slope](/en/post/slope/)" refers [to](/en/post/to/) an [upward](/en/post/upward/) [incline](/en/post/incline/), [while](/en/post/while/) "[negative](/en/post/negative/) [slope](/en/post/slope/)" signifies [a](/en/post/a/) [downward](/en/post/downward/) [one](/en/post/one/).
+- "[A](/post/a/) [steep](/post/steep/) [slope](/post/slope/)" indicates [a](/post/a/) [significant](/post/significant/) [incline](/post/incline/).
+- "[Slope](/post/slope/) [away](/post/away/) [from](/post/from/)" describes moving [in](/post/in/) [a](/post/a/) descending [direction](/post/direction/).
+- "[Positive](/post/positive/) [slope](/post/slope/)" refers [to](/post/to/) an [upward](/post/upward/) [incline](/post/incline/), [while](/post/while/) "[negative](/post/negative/) [slope](/post/slope/)" signifies [a](/post/a/) [downward](/post/downward/) [one](/post/one/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [gardener](/en/post/gardener/) created terraced slopes [to](/en/post/to/) [grow](/en/post/grow/) [different](/en/post/different/) plants.
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) carefully walked [down](/en/post/down/) [the](/en/post/the/) [slope](/en/post/slope/), holding [onto](/en/post/onto/) [the](/en/post/the/) [rope](/en/post/rope/) [for](/en/post/for/) [support](/en/post/support/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) wheelchair ramp had [a](/en/post/a/) manageable [slope](/en/post/slope/) [for](/en/post/for/) accessibility.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [gardener](/post/gardener/) created terraced slopes [to](/post/to/) [grow](/post/grow/) [different](/post/different/) plants.
+- **[Verb](/post/verb/)**: [He](/post/he/) carefully walked [down](/post/down/) [the](/post/the/) [slope](/post/slope/), holding [onto](/post/onto/) [the](/post/the/) [rope](/post/rope/) [for](/post/for/) [support](/post/support/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) wheelchair ramp had [a](/post/a/) manageable [slope](/post/slope/) [for](/post/for/) accessibility.
 
 ## Synonyms
 - Gradient
-- [Incline](/en/post/incline/)
-- [Grade](/en/post/grade/)
-- [Pitch](/en/post/pitch/)
+- [Incline](/post/incline/)
+- [Grade](/post/grade/)
+- [Pitch](/post/pitch/)
 - Decline
-- Ascent ([opposite](/en/post/opposite/) [of](/en/post/of/) [slope](/en/post/slope/), [when](/en/post/when/) going [up](/en/post/up/))
-- Descent ([opposite](/en/post/opposite/) [of](/en/post/of/) [slope](/en/post/slope/), [when](/en/post/when/) going [down](/en/post/down/))
+- Ascent ([opposite](/post/opposite/) [of](/post/of/) [slope](/post/slope/), [when](/post/when/) going [up](/post/up/))
+- Descent ([opposite](/post/opposite/) [of](/post/of/) [slope](/post/slope/), [when](/post/when/) going [down](/post/down/))

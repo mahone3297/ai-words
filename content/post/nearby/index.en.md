@@ -7,35 +7,35 @@ description = '[ˈniəbai] a.附近的 ad.在附近'
 keywords = ['ai words', 'nearby']
 +++
 
-## [Word](/en/post/word/): [Nearby](/en/post/nearby/)
+## [Word](/post/word/): [Nearby](/post/nearby/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌnɛər ˈbaɪ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Situated [close](/en/post/close/) [by](/en/post/by/); [not](/en/post/not/) [far](/en/post/far/) [away](/en/post/away/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) nearest [grocery](/en/post/grocery/) [store](/en/post/store/) is [nearby](/en/post/nearby/)."
+- **[Adjective](/post/adjective/)**: Situated [close](/post/close/) [by](/post/by/); [not](/post/not/) [far](/post/far/) [away](/post/away/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) nearest [grocery](/post/grocery/) [store](/post/store/) is [nearby](/post/nearby/)."
   
-  > "[They](/en/post/they/) chose [a](/en/post/a/) [hotel](/en/post/hotel/) [nearby](/en/post/nearby/) [so](/en/post/so/) [they](/en/post/they/) [could](/en/post/could/) [easily](/en/post/easily/) [walk](/en/post/walk/) [to](/en/post/to/) [the](/en/post/the/) [conference](/en/post/conference/) center."
+  > "[They](/post/they/) chose [a](/post/a/) [hotel](/post/hotel/) [nearby](/post/nearby/) [so](/post/so/) [they](/post/they/) [could](/post/could/) [easily](/post/easily/) [walk](/post/walk/) [to](/post/to/) [the](/post/the/) [conference](/post/conference/) center."
   
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [close](/en/post/close/) proximity; [not](/en/post/not/) [far](/en/post/far/) [off](/en/post/off/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [dog](/en/post/dog/) barked loudly [from](/en/post/from/) [nearby](/en/post/nearby/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [close](/post/close/) proximity; [not](/post/not/) [far](/post/far/) [off](/post/off/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [dog](/post/dog/) barked loudly [from](/post/from/) [nearby](/post/nearby/)."
 
-  > "[The](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) children playing [nearby](/en/post/nearby/) filled [the](/en/post/the/) [air](/en/post/air/) [with](/en/post/with/) [joy](/en/post/joy/)."
+  > "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) children playing [nearby](/post/nearby/) filled [the](/post/the/) [air](/post/air/) [with](/post/with/) [joy](/post/joy/)."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [nearby](/en/post/nearby/) [area](/en/post/area/)": Referring [to](/en/post/to/) [a](/en/post/a/) [location](/en/post/location/) that's [close](/en/post/close/) [to](/en/post/to/) [another](/en/post/another/) [place](/en/post/place/). [Example](/en/post/example/): "[There](/en/post/there/) are [several](/en/post/several/) [good](/en/post/good/) restaurants [in](/en/post/in/) [the](/en/post/the/) [nearby](/en/post/nearby/) [area](/en/post/area/)."
-- "[Within](/en/post/within/) walking [distance](/en/post/distance/) [nearby](/en/post/nearby/)": Signifying [something](/en/post/something/) is [close](/en/post/close/) [enough](/en/post/enough/) [to](/en/post/to/) [reach](/en/post/reach/) [on](/en/post/on/) [foot](/en/post/foot/). [Example](/en/post/example/): "[The](/en/post/the/) [park](/en/post/park/) is [within](/en/post/within/) walking [distance](/en/post/distance/) [nearby](/en/post/nearby/) [our](/en/post/our/) [house](/en/post/house/)."
-- "[Stay](/en/post/stay/) [nearby](/en/post/nearby/)": [To](/en/post/to/) [remain](/en/post/remain/) [in](/en/post/in/) [close](/en/post/close/) proximity. [Example](/en/post/example/): "[She](/en/post/she/) asked [her](/en/post/her/) friends [to](/en/post/to/) [stay](/en/post/stay/) [nearby](/en/post/nearby/) [while](/en/post/while/) [she](/en/post/she/) tried [out](/en/post/out/) [the](/en/post/the/) [new](/en/post/new/) skateboard [trick](/en/post/trick/)."
+- "[In](/post/in/) [the](/post/the/) [nearby](/post/nearby/) [area](/post/area/)": Referring [to](/post/to/) [a](/post/a/) [location](/post/location/) that's [close](/post/close/) [to](/post/to/) [another](/post/another/) [place](/post/place/). [Example](/post/example/): "[There](/post/there/) are [several](/post/several/) [good](/post/good/) restaurants [in](/post/in/) [the](/post/the/) [nearby](/post/nearby/) [area](/post/area/)."
+- "[Within](/post/within/) walking [distance](/post/distance/) [nearby](/post/nearby/)": Signifying [something](/post/something/) is [close](/post/close/) [enough](/post/enough/) [to](/post/to/) [reach](/post/reach/) [on](/post/on/) [foot](/post/foot/). [Example](/post/example/): "[The](/post/the/) [park](/post/park/) is [within](/post/within/) walking [distance](/post/distance/) [nearby](/post/nearby/) [our](/post/our/) [house](/post/house/)."
+- "[Stay](/post/stay/) [nearby](/post/nearby/)": [To](/post/to/) [remain](/post/remain/) [in](/post/in/) [close](/post/close/) proximity. [Example](/post/example/): "[She](/post/she/) asked [her](/post/her/) friends [to](/post/to/) [stay](/post/stay/) [nearby](/post/nearby/) [while](/post/while/) [she](/post/she/) tried [out](/post/out/) [the](/post/the/) [new](/post/new/) skateboard [trick](/post/trick/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[We](/en/post/we/) [found](/en/post/found/) [a](/en/post/a/) cozy café [nearby](/en/post/nearby/) [where](/en/post/where/) [we](/en/post/we/) [could](/en/post/could/) grab [a](/en/post/a/) [quick](/en/post/quick/) [bite](/en/post/bite/)."
-- **[Adverb](/en/post/adverb/)**: "I heard footsteps [nearby](/en/post/nearby/) [just](/en/post/just/) [before](/en/post/before/) [the](/en/post/the/) [door](/en/post/door/) opened."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[We](/post/we/) [found](/post/found/) [a](/post/a/) cozy café [nearby](/post/nearby/) [where](/post/where/) [we](/post/we/) [could](/post/could/) grab [a](/post/a/) [quick](/post/quick/) [bite](/post/bite/)."
+- **[Adverb](/post/adverb/)**: "I heard footsteps [nearby](/post/nearby/) [just](/post/just/) [before](/post/before/) [the](/post/the/) [door](/post/door/) opened."
 
 ## Synonyms
-- [Close](/en/post/close/) [by](/en/post/by/)
+- [Close](/post/close/) [by](/post/by/)
 - Adjacent
 - Neighboring
 - Proximate
-- [Near](/en/post/near/)
-- [Close](/en/post/close/) [to](/en/post/to/)
-- [In](/en/post/in/) [the](/en/post/the/) vicinity
-- [Not](/en/post/not/) [far](/en/post/far/) [away](/en/post/away/)
+- [Near](/post/near/)
+- [Close](/post/close/) [to](/post/to/)
+- [In](/post/in/) [the](/post/the/) vicinity
+- [Not](/post/not/) [far](/post/far/) [away](/post/away/)

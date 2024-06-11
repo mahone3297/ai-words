@@ -11,35 +11,35 @@ keywords = ['ai words', 'load']
 /loʊd/
 
 ## 释义
-- **名词**: 重物；负荷；装载量。例如: "[The](/post/the/) [truck](/post/truck/) [can](/post/can/) [carry](/post/carry/) [a](/post/a/) [heavy](/post/heavy/) [load](/post/load/) [of](/post/of/) [goods](/post/goods/)."
-- **动词**: 装载；装入。例如: "[Please](/post/please/) [load](/post/load/) [the](/post/the/) dishwasher [with](/post/with/) [the](/post/the/) [dirty](/post/dirty/) dishes."
-- **形容词**: 响亮的；大声的。例如: "[She](/post/she/) sang [with](/post/with/) [a](/post/a/) [load](/post/load/) [voice](/post/voice/) [that](/post/that/) echoed [through](/post/through/) [the](/post/the/) [hall](/post/hall/)."
-- **副词**: 大声地；响亮地。例如: "[He](/post/he/) answered [the](/post/the/) [phone](/post/phone/) [load](/post/load/) [so](/post/so/) [everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) [office](/post/office/) [could](/post/could/) [hear](/post/hear/)."
+- **名词**: 重物；负荷；装载量。例如: "[The](/zh/post/the/) [truck](/zh/post/truck/) [can](/zh/post/can/) [carry](/zh/post/carry/) [a](/zh/post/a/) [heavy](/zh/post/heavy/) [load](/zh/post/load/) [of](/zh/post/of/) [goods](/zh/post/goods/)."
+- **动词**: 装载；装入。例如: "[Please](/zh/post/please/) [load](/zh/post/load/) [the](/zh/post/the/) dishwasher [with](/zh/post/with/) [the](/zh/post/the/) [dirty](/zh/post/dirty/) dishes."
+- **形容词**: 响亮的；大声的。例如: "[She](/zh/post/she/) sang [with](/zh/post/with/) [a](/zh/post/a/) [load](/zh/post/load/) [voice](/zh/post/voice/) [that](/zh/post/that/) echoed [through](/zh/post/through/) [the](/zh/post/the/) [hall](/zh/post/hall/)."
+- **副词**: 大声地；响亮地。例如: "[He](/zh/post/he/) answered [the](/zh/post/the/) [phone](/zh/post/phone/) [load](/zh/post/load/) [so](/zh/post/so/) [everyone](/zh/post/everyone/) [in](/zh/post/in/) [the](/zh/post/the/) [office](/zh/post/office/) [could](/zh/post/could/) [hear](/zh/post/hear/)."
 
 ## 短语
-- "[Load](/post/load/) [up](/post/up/)" 意味着装满或装载。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [load](/post/load/) [up](/post/up/) [the](/post/the/) [car](/post/car/) [with](/post/with/) camping gear."
-- "[Under](/post/under/) [load](/post/load/)" 表示在承受压力或负荷的状态下。例如: "[The](/post/the/) [engine](/post/engine/) performs [well](/post/well/) [even](/post/even/) [under](/post/under/) [load](/post/load/)."
+- "[Load](/zh/post/load/) [up](/zh/post/up/)" 意味着装满或装载。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [load](/zh/post/load/) [up](/zh/post/up/) [the](/zh/post/the/) [car](/zh/post/car/) [with](/zh/post/with/) camping gear."
+- "[Under](/zh/post/under/) [load](/zh/post/load/)" 表示在承受压力或负荷的状态下。例如: "[The](/zh/post/the/) [engine](/zh/post/engine/) performs [well](/zh/post/well/) [even](/zh/post/even/) [under](/zh/post/under/) [load](/zh/post/load/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [ship](/post/ship/) was loaded [with](/post/with/) [cargo](/post/cargo/) [bound](/post/bound/) [for](/post/for/) Europe."
-- 动词: "[He](/post/he/) started loading [the](/post/the/) groceries [into](/post/into/) [the](/post/the/) [trunk](/post/trunk/) [of](/post/of/) [his](/post/his/) [car](/post/car/)."
-- 形容词: "[The](/post/the/) speaker's [load](/post/load/) [voice](/post/voice/) made [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [concentrate](/post/concentrate/) [on](/post/on/) [the](/post/the/) [lecture](/post/lecture/)."
-- 副词: "[She](/post/she/) shouted [load](/post/load/) [enough](/post/enough/) [for](/post/for/) [everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) [park](/post/park/) [to](/post/to/) [hear](/post/hear/) [her](/post/her/)."
+- 名词: "[The](/zh/post/the/) [ship](/zh/post/ship/) was loaded [with](/zh/post/with/) [cargo](/zh/post/cargo/) [bound](/zh/post/bound/) [for](/zh/post/for/) Europe."
+- 动词: "[He](/zh/post/he/) started loading [the](/zh/post/the/) groceries [into](/zh/post/into/) [the](/zh/post/the/) [trunk](/zh/post/trunk/) [of](/zh/post/of/) [his](/zh/post/his/) [car](/zh/post/car/)."
+- 形容词: "[The](/zh/post/the/) speaker's [load](/zh/post/load/) [voice](/zh/post/voice/) made [it](/zh/post/it/) [difficult](/zh/post/difficult/) [to](/zh/post/to/) [concentrate](/zh/post/concentrate/) [on](/zh/post/on/) [the](/zh/post/the/) [lecture](/zh/post/lecture/)."
+- 副词: "[She](/zh/post/she/) shouted [load](/zh/post/load/) [enough](/zh/post/enough/) [for](/zh/post/for/) [everyone](/zh/post/everyone/) [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/) [to](/zh/post/to/) [hear](/zh/post/hear/) [her](/zh/post/her/)."
 
 ## 同义词
-- [Noun](/post/noun/):
-  - [Weight](/post/weight/)
-  - [Burden](/post/burden/)
-  - [Quantity](/post/quantity/)
-- [Verb](/post/verb/):
-  - [Fill](/post/fill/)
-  - [Stuff](/post/stuff/)
-  - [Charge](/post/charge/)
-- [Adjective](/post/adjective/):
-  - [Loud](/post/loud/)
+- [Noun](/zh/post/noun/):
+  - [Weight](/zh/post/weight/)
+  - [Burden](/zh/post/burden/)
+  - [Quantity](/zh/post/quantity/)
+- [Verb](/zh/post/verb/):
+  - [Fill](/zh/post/fill/)
+  - [Stuff](/zh/post/stuff/)
+  - [Charge](/zh/post/charge/)
+- [Adjective](/zh/post/adjective/):
+  - [Loud](/zh/post/loud/)
   - Forceful
   - Boisterous
-- [Adverb](/post/adverb/):
+- [Adverb](/zh/post/adverb/):
   - Loudly
   - Noisily
   - Amplified

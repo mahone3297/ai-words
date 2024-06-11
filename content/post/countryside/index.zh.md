@@ -14,16 +14,16 @@ keywords = ['ai words', 'countryside']
 - **名词**: 农村，乡村。通常指城市以外的地区，有农田、自然景观和较少的人口密度。
 
 ## 短语
-- "[the](/post/the/) [beauty](/post/beauty/) [of](/post/of/) [the](/post/the/) [countryside](/post/countryside/)" 描述乡村的美景。
-- "[rural](/post/rural/) [countryside](/post/countryside/)" 特指偏远的乡村地区。
+- "[the](/zh/post/the/) [beauty](/zh/post/beauty/) [of](/zh/post/of/) [the](/zh/post/the/) [countryside](/zh/post/countryside/)" 描述乡村的美景。
+- "[rural](/zh/post/rural/) [countryside](/zh/post/countryside/)" 特指偏远的乡村地区。
 
 ## 例句
-- "[We](/post/we/) spent [our](/post/our/) [summer](/post/summer/) holidays exploring [the](/post/the/) picturesque [countryside](/post/countryside/)."
-- "[She](/post/she/) grew [up](/post/up/) [in](/post/in/) [the](/post/the/) [peaceful](/post/peaceful/) [countryside](/post/countryside/), surrounded [by](/post/by/) fields [and](/post/and/) forests."
+- "[We](/zh/post/we/) spent [our](/zh/post/our/) [summer](/zh/post/summer/) holidays exploring [the](/zh/post/the/) picturesque [countryside](/zh/post/countryside/)."
+- "[She](/zh/post/she/) grew [up](/zh/post/up/) [in](/zh/post/in/) [the](/zh/post/the/) [peaceful](/zh/post/peaceful/) [countryside](/zh/post/countryside/), surrounded [by](/zh/post/by/) fields [and](/zh/post/and/) forests."
 
 ## 同义词
-- [rural](/post/rural/) [area](/post/area/)
-- [village](/post/village/)
+- [rural](/zh/post/rural/) [area](/zh/post/area/)
+- [village](/zh/post/village/)
 - farmland
 -田野
 -乡间

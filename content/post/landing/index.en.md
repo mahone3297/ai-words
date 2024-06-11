@@ -7,31 +7,31 @@ description = '[ˈlændiŋ] n.上岸，登陆，着陆'
 keywords = ['ai words', 'landing']
 +++
 
-## [Word](/en/post/word/): [Landing](/en/post/landing/)
+## [Word](/post/word/): [Landing](/post/landing/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlændɪŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) descending [from](/en/post/from/) an [aircraft](/en/post/aircraft/), [spacecraft](/en/post/spacecraft/), [or](/en/post/or/) stairs, [especially](/en/post/especially/) [after](/en/post/after/) [a](/en/post/a/) [flight](/en/post/flight/) [or](/en/post/or/) [when](/en/post/when/) arriving [at](/en/post/at/) [a](/en/post/a/) [new](/en/post/new/) [level](/en/post/level/) [of](/en/post/of/) [a](/en/post/a/) [building](/en/post/building/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) passengers prepared [for](/en/post/for/) [landing](/en/post/landing/) [at](/en/post/at/) [the](/en/post/the/) [airport](/en/post/airport/)."
-  - [Also](/en/post/also/), [a](/en/post/a/) [platform](/en/post/platform/) [or](/en/post/or/) [area](/en/post/area/) [where](/en/post/where/) [people](/en/post/people/) alight [or](/en/post/or/) disembark [from](/en/post/from/) [such](/en/post/such/) vehicles: "[The](/en/post/the/) [plane](/en/post/plane/) made [a](/en/post/a/) [smooth](/en/post/smooth/) [landing](/en/post/landing/) [on](/en/post/on/) [the](/en/post/the/) runway."
-  - [In](/en/post/in/) [architecture](/en/post/architecture/), [it](/en/post/it/) refers [to](/en/post/to/) [a](/en/post/a/) [space](/en/post/space/) [or](/en/post/or/) [room](/en/post/room/) [at](/en/post/at/) [the](/en/post/the/) [top](/en/post/top/) [or](/en/post/or/) [bottom](/en/post/bottom/) [of](/en/post/of/) [a](/en/post/a/) [staircase](/en/post/staircase/), [or](/en/post/or/) [between](/en/post/between/) flights [of](/en/post/of/) stairs. [Example](/en/post/example/): "[They](/en/post/they/) reached [the](/en/post/the/) [top](/en/post/top/) [landing](/en/post/landing/) [and](/en/post/and/) turned [left](/en/post/left/) towards [their](/en/post/their/) bedroom."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) descending [from](/post/from/) an [aircraft](/post/aircraft/), [spacecraft](/post/spacecraft/), [or](/post/or/) stairs, [especially](/post/especially/) [after](/post/after/) [a](/post/a/) [flight](/post/flight/) [or](/post/or/) [when](/post/when/) arriving [at](/post/at/) [a](/post/a/) [new](/post/new/) [level](/post/level/) [of](/post/of/) [a](/post/a/) [building](/post/building/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) passengers prepared [for](/post/for/) [landing](/post/landing/) [at](/post/at/) [the](/post/the/) [airport](/post/airport/)."
+  - [Also](/post/also/), [a](/post/a/) [platform](/post/platform/) [or](/post/or/) [area](/post/area/) [where](/post/where/) [people](/post/people/) alight [or](/post/or/) disembark [from](/post/from/) [such](/post/such/) vehicles: "[The](/post/the/) [plane](/post/plane/) made [a](/post/a/) [smooth](/post/smooth/) [landing](/post/landing/) [on](/post/on/) [the](/post/the/) runway."
+  - [In](/post/in/) [architecture](/post/architecture/), [it](/post/it/) refers [to](/post/to/) [a](/post/a/) [space](/post/space/) [or](/post/or/) [room](/post/room/) [at](/post/at/) [the](/post/the/) [top](/post/top/) [or](/post/or/) [bottom](/post/bottom/) [of](/post/of/) [a](/post/a/) [staircase](/post/staircase/), [or](/post/or/) [between](/post/between/) flights [of](/post/of/) stairs. [Example](/post/example/): "[They](/post/they/) reached [the](/post/the/) [top](/post/top/) [landing](/post/landing/) [and](/post/and/) turned [left](/post/left/) towards [their](/post/their/) bedroom."
 
-- **[Verb](/en/post/verb/)**: ([usually](/en/post/usually/) [as](/en/post/as/) '[land](/en/post/land/)' [in](/en/post/in/) [this](/en/post/this/) context) [To](/en/post/to/) [descend](/en/post/descend/) [and](/en/post/and/) [come](/en/post/come/) [to](/en/post/to/) [rest](/en/post/rest/) [on](/en/post/on/) [the](/en/post/the/) [ground](/en/post/ground/) [or](/en/post/or/) [a](/en/post/a/) [surface](/en/post/surface/) [after](/en/post/after/) flying [or](/en/post/or/) falling. [Example](/en/post/example/): "[The](/en/post/the/) [pilot](/en/post/pilot/) managed [to](/en/post/to/) [land](/en/post/land/) [the](/en/post/the/) [plane](/en/post/plane/) [safely](/en/post/safely/) [despite](/en/post/despite/) adverse [weather](/en/post/weather/) conditions."
-  - Alternatively, [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) bringing [something](/en/post/something/) [down](/en/post/down/) [to](/en/post/to/) [rest](/en/post/rest/) [on](/en/post/on/) [a](/en/post/a/) [surface](/en/post/surface/), [like](/en/post/like/) [a](/en/post/a/) [fisherman](/en/post/fisherman/) [landing](/en/post/landing/) [a](/en/post/a/) [fish](/en/post/fish/). [Example](/en/post/example/): "[He](/en/post/he/) landed [the](/en/post/the/) [large](/en/post/large/) marlin [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [struggle](/en/post/struggle/)."
+- **[Verb](/post/verb/)**: ([usually](/post/usually/) [as](/post/as/) '[land](/post/land/)' [in](/post/in/) [this](/post/this/) context) [To](/post/to/) [descend](/post/descend/) [and](/post/and/) [come](/post/come/) [to](/post/to/) [rest](/post/rest/) [on](/post/on/) [the](/post/the/) [ground](/post/ground/) [or](/post/or/) [a](/post/a/) [surface](/post/surface/) [after](/post/after/) flying [or](/post/or/) falling. [Example](/post/example/): "[The](/post/the/) [pilot](/post/pilot/) managed [to](/post/to/) [land](/post/land/) [the](/post/the/) [plane](/post/plane/) [safely](/post/safely/) [despite](/post/despite/) adverse [weather](/post/weather/) conditions."
+  - Alternatively, [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) bringing [something](/post/something/) [down](/post/down/) [to](/post/to/) [rest](/post/rest/) [on](/post/on/) [a](/post/a/) [surface](/post/surface/), [like](/post/like/) [a](/post/a/) [fisherman](/post/fisherman/) [landing](/post/landing/) [a](/post/a/) [fish](/post/fish/). [Example](/post/example/): "[He](/post/he/) landed [the](/post/the/) [large](/post/large/) marlin [after](/post/after/) [a](/post/a/) [long](/post/long/) [struggle](/post/struggle/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [landing](/en/post/landing/)" – [to](/en/post/to/) [arrive](/en/post/arrive/) [at](/en/post/at/) [a](/en/post/a/) [destination](/en/post/destination/) [by](/en/post/by/) [air](/en/post/air/) [or](/en/post/or/) [sea](/en/post/sea/).
-- "[Landing](/en/post/landing/) [page](/en/post/page/)" – [in](/en/post/in/) web [design](/en/post/design/), it's [the](/en/post/the/) [first](/en/post/first/) webpage [that](/en/post/that/) visitors [encounter](/en/post/encounter/) [upon](/en/post/upon/) clicking [a](/en/post/a/) [link](/en/post/link/) [or](/en/post/or/) [advertisement](/en/post/advertisement/).
+- "[Make](/post/make/) [a](/post/a/) [landing](/post/landing/)" – [to](/post/to/) [arrive](/post/arrive/) [at](/post/at/) [a](/post/a/) [destination](/post/destination/) [by](/post/by/) [air](/post/air/) [or](/post/or/) [sea](/post/sea/).
+- "[Landing](/post/landing/) [page](/post/page/)" – [in](/post/in/) web [design](/post/design/), it's [the](/post/the/) [first](/post/first/) webpage [that](/post/that/) visitors [encounter](/post/encounter/) [upon](/post/upon/) clicking [a](/post/a/) [link](/post/link/) [or](/post/or/) [advertisement](/post/advertisement/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Passengers were instructed [to](/en/post/to/) [remain](/en/post/remain/) seated [until](/en/post/until/) [the](/en/post/the/) [plane](/en/post/plane/) had [come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) [complete](/en/post/complete/) [stop](/en/post/stop/) [at](/en/post/at/) [the](/en/post/the/) [landing](/en/post/landing/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) birds landed gracefully [on](/en/post/on/) [the](/en/post/the/) water's [surface](/en/post/surface/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Passengers were instructed [to](/post/to/) [remain](/post/remain/) seated [until](/post/until/) [the](/post/the/) [plane](/post/plane/) had [come](/post/come/) [to](/post/to/) [a](/post/a/) [complete](/post/complete/) [stop](/post/stop/) [at](/post/at/) [the](/post/the/) [landing](/post/landing/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) birds landed gracefully [on](/post/on/) [the](/post/the/) water's [surface](/post/surface/)."
 
 ## Synonyms
-- [Arrival](/en/post/arrival/) ([noun](/en/post/noun/))
-- Alighting ([noun](/en/post/noun/))
-- Touchdown ([noun](/en/post/noun/), specifically [for](/en/post/for/) [aircraft](/en/post/aircraft/))
-- Descending ([verb](/en/post/verb/))
-- Coming [to](/en/post/to/) [rest](/en/post/rest/) ([verb](/en/post/verb/))
-- Disembarking ([verb](/en/post/verb/))
+- [Arrival](/post/arrival/) ([noun](/post/noun/))
+- Alighting ([noun](/post/noun/))
+- Touchdown ([noun](/post/noun/), specifically [for](/post/for/) [aircraft](/post/aircraft/))
+- Descending ([verb](/post/verb/))
+- Coming [to](/post/to/) [rest](/post/rest/) ([verb](/post/verb/))
+- Disembarking ([verb](/post/verb/))

@@ -11,19 +11,19 @@ keywords = ['ai words', 'weary']
 /ˈwɪri/
 
 ## 释义
-- **形容词**: 疲倦的，厌倦的。例如: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [of](/post/of/) [work](/post/work/), I [feel](/post/feel/) [quite](/post/quite/) [weary](/post/weary/)."
-- **动词**: 使疲劳，使厌倦。例如: "[The](/post/the/) [constant](/post/constant/) [noise](/post/noise/) began [to](/post/to/) [weary](/post/weary/) [her](/post/her/)."
+- **形容词**: 疲倦的，厌倦的。例如: "[After](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [day](/zh/post/day/) [of](/zh/post/of/) [work](/zh/post/work/), I [feel](/zh/post/feel/) [quite](/zh/post/quite/) [weary](/zh/post/weary/)."
+- **动词**: 使疲劳，使厌倦。例如: "[The](/zh/post/the/) [constant](/zh/post/constant/) [noise](/zh/post/noise/) began [to](/zh/post/to/) [weary](/zh/post/weary/) [her](/zh/post/her/)."
 
 ## 短语
-- "[Weary](/post/weary/) [of](/post/of/) [something](/post/something/)" 表示对某事感到厌倦。例如: "[She](/post/she/) was [weary](/post/weary/) [of](/post/of/) [the](/post/the/) [endless](/post/endless/) arguments."
-- "[Weary](/post/weary/) traveler" 指长途跋涉后疲惫的旅行者。
+- "[Weary](/zh/post/weary/) [of](/zh/post/of/) [something](/zh/post/something/)" 表示对某事感到厌倦。例如: "[She](/zh/post/she/) was [weary](/zh/post/weary/) [of](/zh/post/of/) [the](/zh/post/the/) [endless](/zh/post/endless/) arguments."
+- "[Weary](/zh/post/weary/) traveler" 指长途跋涉后疲惫的旅行者。
 
 ## 例句
-- 形容词: "[The](/post/the/) [weary](/post/weary/) traveler sought [a](/post/a/) [place](/post/place/) [to](/post/to/) [rest](/post/rest/) [for](/post/for/) [the](/post/the/) [night](/post/night/)."
-- 动词: "[She](/post/she/) was [beginning](/post/beginning/) [to](/post/to/) [weary](/post/weary/) [from](/post/from/) [the](/post/the/) [long](/post/long/) [flight](/post/flight/)."
+- 形容词: "[The](/zh/post/the/) [weary](/zh/post/weary/) traveler sought [a](/zh/post/a/) [place](/zh/post/place/) [to](/zh/post/to/) [rest](/zh/post/rest/) [for](/zh/post/for/) [the](/zh/post/the/) [night](/zh/post/night/)."
+- 动词: "[She](/zh/post/she/) was [beginning](/zh/post/beginning/) [to](/zh/post/to/) [weary](/zh/post/weary/) [from](/zh/post/from/) [the](/zh/post/the/) [long](/zh/post/long/) [flight](/zh/post/flight/)."
 
 ## 同义词
-- [Tired](/post/tired/)
+- [Tired](/zh/post/tired/)
 - Exhausted
 - Fatigued
 - Jaded

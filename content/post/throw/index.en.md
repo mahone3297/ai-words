@@ -7,40 +7,40 @@ description = '[θrəu] vt.投，掷，抛，扔'
 keywords = ['ai words', 'throw']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /θruː/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) casting, sending, [or](/en/post/or/) propelling [something](/en/post/something/) [with](/en/post/with/) [force](/en/post/force/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [direction](/en/post/direction/); (v) [To](/en/post/to/) [dispose](/en/post/dispose/) [of](/en/post/of/) [or](/en/post/or/) [give](/en/post/give/) [away](/en/post/away/) ([something](/en/post/something/), typically [a](/en/post/a/) [possession](/en/post/possession/) [or](/en/post/or/) [responsibility](/en/post/responsibility/)); (n) An [act](/en/post/act/) [or](/en/post/or/) [instance](/en/post/instance/) [of](/en/post/of/) throwing.
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) throwing [something](/en/post/something/); [a](/en/post/a/) [gesture](/en/post/gesture/) [or](/en/post/or/) [motion](/en/post/motion/) made [when](/en/post/when/) throwing.
-- **[Adjective](/en/post/adjective/)**: Intended [or](/en/post/or/) directed; [as](/en/post/as/) [in](/en/post/in/) "throwing [a](/en/post/a/) [ball](/en/post/ball/) [to](/en/post/to/) [a](/en/post/a/) [friend](/en/post/friend/)."
+- **[Verb](/post/verb/)**: (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) casting, sending, [or](/post/or/) propelling [something](/post/something/) [with](/post/with/) [force](/post/force/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [direction](/post/direction/); (v) [To](/post/to/) [dispose](/post/dispose/) [of](/post/of/) [or](/post/or/) [give](/post/give/) [away](/post/away/) ([something](/post/something/), typically [a](/post/a/) [possession](/post/possession/) [or](/post/or/) [responsibility](/post/responsibility/)); (n) An [act](/post/act/) [or](/post/or/) [instance](/post/instance/) [of](/post/of/) throwing.
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) throwing [something](/post/something/); [a](/post/a/) [gesture](/post/gesture/) [or](/post/or/) [motion](/post/motion/) made [when](/post/when/) throwing.
+- **[Adjective](/post/adjective/)**: Intended [or](/post/or/) directed; [as](/post/as/) [in](/post/in/) "throwing [a](/post/a/) [ball](/post/ball/) [to](/post/to/) [a](/post/a/) [friend](/post/friend/)."
 
 ## Phrases
-- "[Throw](/en/post/throw/) [something](/en/post/something/) [at](/en/post/at/)/[to](/en/post/to/) [someone](/en/post/someone/)" ([to](/en/post/to/) [aim](/en/post/aim/) [and](/en/post/and/) propel an [object](/en/post/object/) towards [someone](/en/post/someone/))
-- "[Throw](/en/post/throw/) [in](/en/post/in/) [the](/en/post/the/) [towel](/en/post/towel/)" ([to](/en/post/to/) [give](/en/post/give/) [up](/en/post/up/))
-- "[Throw](/en/post/throw/) [a](/en/post/a/) [party](/en/post/party/)" ([to](/en/post/to/) [organize](/en/post/organize/) [a](/en/post/a/) [social](/en/post/social/) [event](/en/post/event/))
+- "[Throw](/post/throw/) [something](/post/something/) [at](/post/at/)/[to](/post/to/) [someone](/post/someone/)" ([to](/post/to/) [aim](/post/aim/) [and](/post/and/) propel an [object](/post/object/) towards [someone](/post/someone/))
+- "[Throw](/post/throw/) [in](/post/in/) [the](/post/the/) [towel](/post/towel/)" ([to](/post/to/) [give](/post/give/) [up](/post/up/))
+- "[Throw](/post/throw/) [a](/post/a/) [party](/post/party/)" ([to](/post/to/) [organize](/post/organize/) [a](/post/a/) [social](/post/social/) [event](/post/event/))
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) threw [the](/en/post/the/) [ball](/en/post/ball/) [to](/en/post/to/) [her](/en/post/her/) teammate, [who](/en/post/who/) caught [it](/en/post/it/) [easily](/en/post/easily/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were playing [a](/en/post/a/) [game](/en/post/game/) [of](/en/post/of/) [catch](/en/post/catch/), throwing [the](/en/post/the/) [ball](/en/post/ball/) [back](/en/post/back/) [and](/en/post/and/) [forth](/en/post/forth/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [strong](/en/post/strong/) throwing [arm](/en/post/arm/) allowed [him](/en/post/him/) [to](/en/post/to/) dominate [the](/en/post/the/) pitching [position](/en/post/position/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[She](/post/she/) threw [the](/post/the/) [ball](/post/ball/) [to](/post/to/) [her](/post/her/) teammate, [who](/post/who/) caught [it](/post/it/) [easily](/post/easily/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were playing [a](/post/a/) [game](/post/game/) [of](/post/of/) [catch](/post/catch/), throwing [the](/post/the/) [ball](/post/ball/) [back](/post/back/) [and](/post/and/) [forth](/post/forth/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [strong](/post/strong/) throwing [arm](/post/arm/) allowed [him](/post/him/) [to](/post/to/) dominate [the](/post/the/) pitching [position](/post/position/)."
 
 ## Synonyms
-- [Toss](/en/post/toss/)
+- [Toss](/post/toss/)
 - hurl
--甩 ([in](/en/post/in/) Chinese)
-- [toss](/en/post/toss/)
+-甩 ([in](/post/in/) Chinese)
+- [toss](/post/toss/)
 - fling
-- [pitch](/en/post/pitch/) ([for](/en/post/for/) sports)
-- [discharge](/en/post/discharge/) ([responsibility](/en/post/responsibility/))
-- [abandon](/en/post/abandon/) ([idea](/en/post/idea/) [or](/en/post/or/) [plan](/en/post/plan/))
+- [pitch](/post/pitch/) ([for](/post/for/) sports)
+- [discharge](/post/discharge/) ([responsibility](/post/responsibility/))
+- [abandon](/post/abandon/) ([idea](/post/idea/) [or](/post/or/) [plan](/post/plan/))
 
 ## Antonyms
-- [Catch](/en/post/catch/)
-- [Receive](/en/post/receive/)
-- [Keep](/en/post/keep/)
+- [Catch](/post/catch/)
+- [Receive](/post/receive/)
+- [Keep](/post/keep/)
 
 ## Idiomatic expressions
-- "[Throw](/en/post/throw/) caution [to](/en/post/to/) [the](/en/post/the/) [wind](/en/post/wind/)" ([to](/en/post/to/) [take](/en/post/take/) risks [without](/en/post/without/) [concern](/en/post/concern/) [for](/en/post/for/) consequences)
-- "[Throw](/en/post/throw/) [oneself](/en/post/oneself/) [on](/en/post/on/) one's [sword](/en/post/sword/)" ([to](/en/post/to/) [accept](/en/post/accept/) [defeat](/en/post/defeat/) gracefully)
-- "[Throw](/en/post/throw/) [a](/en/post/a/) curveball" ([to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [unexpected](/en/post/unexpected/) [or](/en/post/or/) confusing)
+- "[Throw](/post/throw/) caution [to](/post/to/) [the](/post/the/) [wind](/post/wind/)" ([to](/post/to/) [take](/post/take/) risks [without](/post/without/) [concern](/post/concern/) [for](/post/for/) consequences)
+- "[Throw](/post/throw/) [oneself](/post/oneself/) [on](/post/on/) one's [sword](/post/sword/)" ([to](/post/to/) [accept](/post/accept/) [defeat](/post/defeat/) gracefully)
+- "[Throw](/post/throw/) [a](/post/a/) curveball" ([to](/post/to/) [do](/post/do/) [something](/post/something/) [unexpected](/post/unexpected/) [or](/post/or/) confusing)

@@ -11,19 +11,19 @@ keywords = ['ai words', 'besides']
 /bɪˈsaɪdz/
 
 ## 释义
-- **介词**: 意为“除…之外”，表示除了某个情况或事物外还有其他。例如: "[Besides](/post/besides/) studying, [he](/post/he/) [also](/post/also/) works part-time."
-- **副词**: 相当于“此外”，表示额外的信息或论点。例如: "[The](/post/the/) [book](/post/book/) is [interesting](/post/interesting/); [besides](/post/besides/), it's [very](/post/very/) informative."
+- **介词**: 意为“除…之外”，表示除了某个情况或事物外还有其他。例如: "[Besides](/zh/post/besides/) studying, [he](/zh/post/he/) [also](/zh/post/also/) works part-time."
+- **副词**: 相当于“此外”，表示额外的信息或论点。例如: "[The](/zh/post/the/) [book](/zh/post/book/) is [interesting](/zh/post/interesting/); [besides](/zh/post/besides/), it's [very](/zh/post/very/) informative."
 
 ## 短语
-- "[Apart](/post/apart/) [from](/post/from/)" 或 "[In](/post/in/) [addition](/post/addition/) [to](/post/to/)" 可以作为 "[besides](/post/besides/)" 的同义短语使用，表示“除了...之外”。
+- "[Apart](/zh/post/apart/) [from](/zh/post/from/)" 或 "[In](/zh/post/in/) [addition](/zh/post/addition/) [to](/zh/post/to/)" 可以作为 "[besides](/zh/post/besides/)" 的同义短语使用，表示“除了...之外”。
 
 ## 例句
-- 介词: "[Besides](/post/besides/) Spanish, [she](/post/she/) [also](/post/also/) speaks French [and](/post/and/) German."
-- 副词: "[The](/post/the/) [restaurant](/post/restaurant/) has [good](/post/good/) [food](/post/food/), [and](/post/and/) [besides](/post/besides/), [it](/post/it/) has [a](/post/a/) [great](/post/great/) [atmosphere](/post/atmosphere/)."
+- 介词: "[Besides](/zh/post/besides/) Spanish, [she](/zh/post/she/) [also](/zh/post/also/) speaks French [and](/zh/post/and/) German."
+- 副词: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) has [good](/zh/post/good/) [food](/zh/post/food/), [and](/zh/post/and/) [besides](/zh/post/besides/), [it](/zh/post/it/) has [a](/zh/post/a/) [great](/zh/post/great/) [atmosphere](/zh/post/atmosphere/)."
 
 ## 同义词
-- [In](/post/in/) [addition](/post/addition/)
-- [Moreover](/post/moreover/)
-- [Furthermore](/post/furthermore/)
+- [In](/zh/post/in/) [addition](/zh/post/addition/)
+- [Moreover](/zh/post/moreover/)
+- [Furthermore](/zh/post/furthermore/)
 - Additionally
-- [Apart](/post/apart/) [from](/post/from/)
+- [Apart](/zh/post/apart/) [from](/zh/post/from/)

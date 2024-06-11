@@ -7,38 +7,38 @@ description = '[kəmˈpærisn] n.比较，对照；比似'
 keywords = ['ai words', 'comparison']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈpærəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) comparing [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) things [to](/en/post/to/) [determine](/en/post/determine/) [their](/en/post/their/) similarities [or](/en/post/or/) differences. *[Example](/en/post/example/)*: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) students [to](/en/post/to/) [compare](/en/post/compare/) [their](/en/post/their/) essays."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [examine](/en/post/examine/), [contrast](/en/post/contrast/), [or](/en/post/or/) [evaluate](/en/post/evaluate/) ([two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) things) [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [establish](/en/post/establish/) similarities [or](/en/post/or/) differences. *[Example](/en/post/example/)*: "I'll [compare](/en/post/compare/) [these](/en/post/these/) [two](/en/post/two/) paintings [to](/en/post/to/) [see](/en/post/see/) [which](/en/post/which/) [one](/en/post/one/) I [like](/en/post/like/) [better](/en/post/better/)."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [comparison](/en/post/comparison/); [comparative](/en/post/comparative/). *[Example](/en/post/example/)*: "[A](/en/post/a/) [comparative](/en/post/comparative/) [analysis](/en/post/analysis/) [of](/en/post/of/) languages is [quite](/en/post/quite/) fascinating."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) comparing [two](/post/two/) [or](/post/or/) [more](/post/more/) things [to](/post/to/) [determine](/post/determine/) [their](/post/their/) similarities [or](/post/or/) differences. *[Example](/post/example/)*: "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [compare](/post/compare/) [their](/post/their/) essays."
+- **[Verb](/post/verb/)**: [To](/post/to/) [examine](/post/examine/), [contrast](/post/contrast/), [or](/post/or/) [evaluate](/post/evaluate/) ([two](/post/two/) [or](/post/or/) [more](/post/more/) things) [in](/post/in/) [order](/post/order/) [to](/post/to/) [establish](/post/establish/) similarities [or](/post/or/) differences. *[Example](/post/example/)*: "I'll [compare](/post/compare/) [these](/post/these/) [two](/post/two/) paintings [to](/post/to/) [see](/post/see/) [which](/post/which/) [one](/post/one/) I [like](/post/like/) [better](/post/better/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [comparison](/post/comparison/); [comparative](/post/comparative/). *[Example](/post/example/)*: "[A](/post/a/) [comparative](/post/comparative/) [analysis](/post/analysis/) [of](/post/of/) languages is [quite](/post/quite/) fascinating."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [comparison](/en/post/comparison/)" [means](/en/post/means/) [to](/en/post/to/) [evaluate](/en/post/evaluate/) [or](/en/post/or/) [contrast](/en/post/contrast/) items.
-- "[Draw](/en/post/draw/) [a](/en/post/a/) [comparison](/en/post/comparison/)" involves contrasting [or](/en/post/or/) likening [one](/en/post/one/) [thing](/en/post/thing/) [to](/en/post/to/) [another](/en/post/another/).
-- "[In](/en/post/in/) [comparison](/en/post/comparison/) [to](/en/post/to/)" is [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [a](/en/post/a/) [contrast](/en/post/contrast/) [between](/en/post/between/) [two](/en/post/two/) entities.
+- "[Make](/post/make/) [a](/post/a/) [comparison](/post/comparison/)" [means](/post/means/) [to](/post/to/) [evaluate](/post/evaluate/) [or](/post/or/) [contrast](/post/contrast/) items.
+- "[Draw](/post/draw/) [a](/post/a/) [comparison](/post/comparison/)" involves contrasting [or](/post/or/) likening [one](/post/one/) [thing](/post/thing/) [to](/post/to/) [another](/post/another/).
+- "[In](/post/in/) [comparison](/post/comparison/) [to](/post/to/)" is [used](/post/used/) [to](/post/to/) [express](/post/express/) [a](/post/a/) [contrast](/post/contrast/) [between](/post/between/) [two](/post/two/) entities.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Students were asked [to](/en/post/to/) [draw](/en/post/draw/) [a](/en/post/a/) [comparison](/en/post/comparison/) [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) [historical](/en/post/historical/) periods."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) compared [the](/en/post/the/) nutrition labels [on](/en/post/on/) [the](/en/post/the/) [breakfast](/en/post/breakfast/) cereals [before](/en/post/before/) buying."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [model](/en/post/model/) is [more](/en/post/more/) [efficient](/en/post/efficient/) [in](/en/post/in/) [comparison](/en/post/comparison/) [to](/en/post/to/) [its](/en/post/its/) predecessor."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Students were asked [to](/post/to/) [draw](/post/draw/) [a](/post/a/) [comparison](/post/comparison/) [between](/post/between/) [the](/post/the/) [two](/post/two/) [historical](/post/historical/) periods."
+- **[Verb](/post/verb/)**: "[She](/post/she/) compared [the](/post/the/) nutrition labels [on](/post/on/) [the](/post/the/) [breakfast](/post/breakfast/) cereals [before](/post/before/) buying."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [model](/post/model/) is [more](/post/more/) [efficient](/post/efficient/) [in](/post/in/) [comparison](/post/comparison/) [to](/post/to/) [its](/post/its/) predecessor."
 
 ## Synonyms
-- [Comparison](/en/post/comparison/)
-- [Contrast](/en/post/contrast/)
+- [Comparison](/post/comparison/)
+- [Contrast](/post/contrast/)
 - Evaluation
-- [Comparative](/en/post/comparative/) [study](/en/post/study/)
-- Side-by-side [examination](/en/post/examination/)
-- Contrastive [analysis](/en/post/analysis/)
+- [Comparative](/post/comparative/) [study](/post/study/)
+- Side-by-side [examination](/post/examination/)
+- Contrastive [analysis](/post/analysis/)
 - Parallels
 - Differences
 
 ## Antonyms
-- [Agreement](/en/post/agreement/)
+- [Agreement](/post/agreement/)
 - Similarity
-- [Identical](/en/post/identical/)
+- [Identical](/post/identical/)
 - Unison
 - Uniformity
 - Indistinguishable

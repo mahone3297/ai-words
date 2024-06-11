@@ -11,23 +11,23 @@ keywords = ['ai words', 'flow']
 /fləʊ/
 
 ## 释义
-- **名词**: 液体、气体或人流的平稳移动；流动。例如: "[The](/post/the/) [river](/post/river/) flowed [gently](/post/gently/) [through](/post/through/) [the](/post/the/) [valley](/post/valley/)."
-- **动词**: 流动；川流不息。例如: "[Water](/post/water/) flows [from](/post/from/) [the](/post/the/) [tap](/post/tap/)."
-- **形容词**: 自然流畅的；连续不断的。例如: "[She](/post/she/) has [a](/post/a/) [smooth](/post/smooth/) [and](/post/and/) flowing [dance](/post/dance/) [style](/post/style/)."
+- **名词**: 液体、气体或人流的平稳移动；流动。例如: "[The](/zh/post/the/) [river](/zh/post/river/) flowed [gently](/zh/post/gently/) [through](/zh/post/through/) [the](/zh/post/the/) [valley](/zh/post/valley/)."
+- **动词**: 流动；川流不息。例如: "[Water](/zh/post/water/) flows [from](/zh/post/from/) [the](/zh/post/the/) [tap](/zh/post/tap/)."
+- **形容词**: 自然流畅的；连续不断的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [smooth](/zh/post/smooth/) [and](/zh/post/and/) flowing [dance](/zh/post/dance/) [style](/zh/post/style/)."
 
 ## 短语
-- "[Flow](/post/flow/) [of](/post/of/) [traffic](/post/traffic/)" 指交通的流动。
+- "[Flow](/zh/post/flow/) [of](/zh/post/of/) [traffic](/zh/post/traffic/)" 指交通的流动。
 - "Flowchart" 是流程图，用于表示程序或工作流程。
-- "[Flow](/post/flow/) [state](/post/state/)" 或 "[being](/post/being/) [in](/post/in/) [the](/post/the/) [zone](/post/zone/)" 指完全投入并忘我地进行某项活动的状态。
+- "[Flow](/zh/post/flow/) [state](/zh/post/state/)" 或 "[being](/zh/post/being/) [in](/zh/post/in/) [the](/zh/post/the/) [zone](/zh/post/zone/)" 指完全投入并忘我地进行某项活动的状态。
 
 ## 例句
-- 名词: "[The](/post/the/) [waterfall](/post/waterfall/) created [a](/post/a/) [beautiful](/post/beautiful/) [flow](/post/flow/) [of](/post/of/) [water](/post/water/) [over](/post/over/) [the](/post/the/) rocks."
-- 动词: "[Blood](/post/blood/) flows [through](/post/through/) [the](/post/the/) veins [and](/post/and/) arteries."
-- 形容词: "[Her](/post/her/) [speech](/post/speech/) had [a](/post/a/) [natural](/post/natural/) [and](/post/and/) flowing [rhythm](/post/rhythm/)."
+- 名词: "[The](/zh/post/the/) [waterfall](/zh/post/waterfall/) created [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [flow](/zh/post/flow/) [of](/zh/post/of/) [water](/zh/post/water/) [over](/zh/post/over/) [the](/zh/post/the/) rocks."
+- 动词: "[Blood](/zh/post/blood/) flows [through](/zh/post/through/) [the](/zh/post/the/) veins [and](/zh/post/and/) arteries."
+- 形容词: "[Her](/zh/post/her/) [speech](/zh/post/speech/) had [a](/zh/post/a/) [natural](/zh/post/natural/) [and](/zh/post/and/) flowing [rhythm](/zh/post/rhythm/)."
 
 ## 同义词
-- [Stream](/post/stream/)
-- [Current](/post/current/)
-- [Movement](/post/movement/)
+- [Stream](/zh/post/stream/)
+- [Current](/zh/post/current/)
+- [Movement](/zh/post/movement/)
 - Circulation
-- [Drift](/post/drift/)
+- [Drift](/zh/post/drift/)

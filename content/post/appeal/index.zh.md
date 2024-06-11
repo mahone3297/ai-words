@@ -12,26 +12,26 @@ keywords = ['ai words', 'appeal']
 
 ## 释义
 - **名词**: 
-    - 吸引力；魅力：[This](/post/this/) [new](/post/new/) [design](/post/design/) has [a](/post/a/) [great](/post/great/) [appeal](/post/appeal/) [to](/post/to/) [young](/post/young/) [people](/post/people/).
-    - 上诉；请求：[The](/post/the/) defendant decided [to](/post/to/) [make](/post/make/) an [appeal](/post/appeal/) [against](/post/against/) [the](/post/the/) verdict.
-    - 恳求；呼吁：[The](/post/the/) [charity](/post/charity/) made an [appeal](/post/appeal/) [for](/post/for/) donations [to](/post/to/) [help](/post/help/) [those](/post/those/) [in](/post/in/) [need](/post/need/).
+    - 吸引力；魅力：[This](/zh/post/this/) [new](/zh/post/new/) [design](/zh/post/design/) has [a](/zh/post/a/) [great](/zh/post/great/) [appeal](/zh/post/appeal/) [to](/zh/post/to/) [young](/zh/post/young/) [people](/zh/post/people/).
+    - 上诉；请求：[The](/zh/post/the/) defendant decided [to](/zh/post/to/) [make](/zh/post/make/) an [appeal](/zh/post/appeal/) [against](/zh/post/against/) [the](/zh/post/the/) verdict.
+    - 恳求；呼吁：[The](/zh/post/the/) [charity](/zh/post/charity/) made an [appeal](/zh/post/appeal/) [for](/zh/post/for/) donations [to](/zh/post/to/) [help](/zh/post/help/) [those](/zh/post/those/) [in](/zh/post/in/) [need](/zh/post/need/).
 
 - **动词**:
-    - 向…上诉：[The](/post/the/) [case](/post/case/) was appealed [to](/post/to/) [a](/post/a/) higher [court](/post/court/).
-    - 吸引；引起兴趣：[The](/post/the/) [movie](/post/movie/) appealed [to](/post/to/) [a](/post/a/) [wide](/post/wide/) [audience](/post/audience/).
+    - 向…上诉：[The](/zh/post/the/) [case](/zh/post/case/) was appealed [to](/zh/post/to/) [a](/zh/post/a/) higher [court](/zh/post/court/).
+    - 吸引；引起兴趣：[The](/zh/post/the/) [movie](/zh/post/movie/) appealed [to](/zh/post/to/) [a](/zh/post/a/) [wide](/zh/post/wide/) [audience](/zh/post/audience/).
 
 ## 短语
-- "[appeal](/post/appeal/) [to](/post/to/) sb." 向某人呼吁或恳求
-- "[have](/post/have/) an [appeal](/post/appeal/) [for](/post/for/) sb." 对某人有吸引力
+- "[appeal](/zh/post/appeal/) [to](/zh/post/to/) sb." 向某人呼吁或恳求
+- "[have](/zh/post/have/) an [appeal](/zh/post/appeal/) [for](/zh/post/for/) sb." 对某人有吸引力
 
 ## 例句
-- 名词: "[The](/post/the/) [campaign](/post/campaign/) had [a](/post/a/) [strong](/post/strong/) [emotional](/post/emotional/) [appeal](/post/appeal/)."
-- 动词: "[They](/post/they/) appealed [to](/post/to/) [the](/post/the/) [public](/post/public/) [for](/post/for/) [information](/post/information/) [about](/post/about/) [the](/post/the/) [missing](/post/missing/) [child](/post/child/)."
+- 名词: "[The](/zh/post/the/) [campaign](/zh/post/campaign/) had [a](/zh/post/a/) [strong](/zh/post/strong/) [emotional](/zh/post/emotional/) [appeal](/zh/post/appeal/)."
+- 动词: "[They](/zh/post/they/) appealed [to](/zh/post/to/) [the](/zh/post/the/) [public](/zh/post/public/) [for](/zh/post/for/) [information](/zh/post/information/) [about](/zh/post/about/) [the](/zh/post/the/) [missing](/zh/post/missing/) [child](/zh/post/child/)."
 - 感叹词: (无作为感叹词用法)
 
 ## 同义词
 - Attractiveness
-- [Request](/post/request/)
+- [Request](/zh/post/request/)
 - Plea
 - Solicitation
 - Entreaty

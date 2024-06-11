@@ -11,20 +11,20 @@ keywords = ['ai words', 'rural']
 /ˈrʊrəl/
 
 ## 释义
-- **形容词**: 与乡村、农村或非城市地区相关联的。例如: "[They](/post/they/) [live](/post/live/) [in](/post/in/) [a](/post/a/) [quiet](/post/quiet/) [rural](/post/rural/) [area](/post/area/)."
-- **名词**: 在某些语境下，指乡村地区或农村生活。例如: "[Rural](/post/rural/) [life](/post/life/) [often](/post/often/) involves farming [and](/post/and/) [agriculture](/post/agriculture/)."
+- **形容词**: 与乡村、农村或非城市地区相关联的。例如: "[They](/zh/post/they/) [live](/zh/post/live/) [in](/zh/post/in/) [a](/zh/post/a/) [quiet](/zh/post/quiet/) [rural](/zh/post/rural/) [area](/zh/post/area/)."
+- **名词**: 在某些语境下，指乡村地区或农村生活。例如: "[Rural](/zh/post/rural/) [life](/zh/post/life/) [often](/zh/post/often/) involves farming [and](/zh/post/and/) [agriculture](/zh/post/agriculture/)."
 
 ## 短语
-- "[Rural](/post/rural/) [community](/post/community/)" 指乡村社区。
-- "[Rural](/post/rural/) [development](/post/development/)" 涉及乡村地区的经济发展和改善。
+- "[Rural](/zh/post/rural/) [community](/zh/post/community/)" 指乡村社区。
+- "[Rural](/zh/post/rural/) [development](/zh/post/development/)" 涉及乡村地区的经济发展和改善。
 
 ## 例句
-- 形容词: "[The](/post/the/) [scenery](/post/scenery/) was breathtakingly [beautiful](/post/beautiful/) [in](/post/in/) [the](/post/the/) [rural](/post/rural/) parts [of](/post/of/) [the](/post/the/) [country](/post/country/)."
-- 名词: "[The](/post/the/) [government](/post/government/) has launched [a](/post/a/) [program](/post/program/) [for](/post/for/) [rural](/post/rural/) [development](/post/development/)."
+- 形容词: "[The](/zh/post/the/) [scenery](/zh/post/scenery/) was breathtakingly [beautiful](/zh/post/beautiful/) [in](/zh/post/in/) [the](/zh/post/the/) [rural](/zh/post/rural/) parts [of](/zh/post/of/) [the](/zh/post/the/) [country](/zh/post/country/)."
+- 名词: "[The](/zh/post/the/) [government](/zh/post/government/) has launched [a](/zh/post/a/) [program](/zh/post/program/) [for](/zh/post/for/) [rural](/zh/post/rural/) [development](/zh/post/development/)."
 
 ## 同义词
-- [Country](/post/country/)
+- [Country](/zh/post/country/)
 - Villager
 - Agricultural
 - Rustic
-- [Countryside](/post/countryside/)
+- [Countryside](/zh/post/countryside/)

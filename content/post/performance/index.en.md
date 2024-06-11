@@ -7,32 +7,32 @@ description = '[pəˈfɔːməns] n.履行；演出；行为'
 keywords = ['ai words', 'performance']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /perfərˈməns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) performing, [especially](/en/post/especially/) [a](/en/post/a/) [skill](/en/post/skill/), [act](/en/post/act/), [or](/en/post/or/) [show](/en/post/show/); execution. 2. [A](/en/post/a/) [display](/en/post/display/) [or](/en/post/or/) [exhibition](/en/post/exhibition/) [of](/en/post/of/) one's abilities [or](/en/post/or/) skills. 3. [[Music](/en/post/music/)] [A](/en/post/a/) [composition](/en/post/composition/) [or](/en/post/or/) [piece](/en/post/piece/) performed [by](/en/post/by/) [a](/en/post/a/) [musician](/en/post/musician/) [or](/en/post/or/) [group](/en/post/group/). 4. [Theater] [A](/en/post/a/) [play](/en/post/play/) [or](/en/post/or/) [show](/en/post/show/) [put](/en/post/put/) [on](/en/post/on/) [for](/en/post/for/) an [audience](/en/post/audience/). 5. [Sports] [The](/en/post/the/) [result](/en/post/result/) [or](/en/post/or/) [outcome](/en/post/outcome/) [of](/en/post/of/) [a](/en/post/a/) [game](/en/post/game/) [or](/en/post/or/) [event](/en/post/event/). 6. [Psychology] [The](/en/post/the/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) [someone](/en/post/someone/) behaves [or](/en/post/or/) functions [under](/en/post/under/) [specific](/en/post/specific/) conditions.
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) performing, [especially](/post/especially/) [a](/post/a/) [skill](/post/skill/), [act](/post/act/), [or](/post/or/) [show](/post/show/); execution. 2. [A](/post/a/) [display](/post/display/) [or](/post/or/) [exhibition](/post/exhibition/) [of](/post/of/) one's abilities [or](/post/or/) skills. 3. [[Music](/post/music/)] [A](/post/a/) [composition](/post/composition/) [or](/post/or/) [piece](/post/piece/) performed [by](/post/by/) [a](/post/a/) [musician](/post/musician/) [or](/post/or/) [group](/post/group/). 4. [Theater] [A](/post/a/) [play](/post/play/) [or](/post/or/) [show](/post/show/) [put](/post/put/) [on](/post/on/) [for](/post/for/) an [audience](/post/audience/). 5. [Sports] [The](/post/the/) [result](/post/result/) [or](/post/or/) [outcome](/post/outcome/) [of](/post/of/) [a](/post/a/) [game](/post/game/) [or](/post/or/) [event](/post/event/). 6. [Psychology] [The](/post/the/) [manner](/post/manner/) [in](/post/in/) [which](/post/which/) [someone](/post/someone/) behaves [or](/post/or/) functions [under](/post/under/) [specific](/post/specific/) conditions.
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [carry](/en/post/carry/) [out](/en/post/out/) [or](/en/post/or/) [execute](/en/post/execute/) [a](/en/post/a/) [task](/en/post/task/), [skill](/en/post/skill/), [or](/en/post/or/) [activity](/en/post/activity/). [To](/en/post/to/) [perform](/en/post/perform/) [a](/en/post/a/) [role](/en/post/role/) [or](/en/post/or/) [function](/en/post/function/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [carry](/post/carry/) [out](/post/out/) [or](/post/or/) [execute](/post/execute/) [a](/post/a/) [task](/post/task/), [skill](/post/skill/), [or](/post/or/) [activity](/post/activity/). [To](/post/to/) [perform](/post/perform/) [a](/post/a/) [role](/post/role/) [or](/post/or/) [function](/post/function/).
 
 ## Phrases
-- "[Perform](/en/post/perform/) [a](/en/post/a/) [task](/en/post/task/)" [means](/en/post/means/) [to](/en/post/to/) [complete](/en/post/complete/) [a](/en/post/a/) [job](/en/post/job/) [or](/en/post/or/) [duty](/en/post/duty/).
-- "[Performance](/en/post/performance/) [review](/en/post/review/)" is [a](/en/post/a/) [formal](/en/post/formal/) evaluation [of](/en/post/of/) an employee's [work](/en/post/work/).
-- "Theatrical [performance](/en/post/performance/)" refers [to](/en/post/to/) [a](/en/post/a/) [live](/en/post/live/) acting [show](/en/post/show/).
+- "[Perform](/post/perform/) [a](/post/a/) [task](/post/task/)" [means](/post/means/) [to](/post/to/) [complete](/post/complete/) [a](/post/a/) [job](/post/job/) [or](/post/or/) [duty](/post/duty/).
+- "[Performance](/post/performance/) [review](/post/review/)" is [a](/post/a/) [formal](/post/formal/) evaluation [of](/post/of/) an employee's [work](/post/work/).
+- "Theatrical [performance](/post/performance/)" refers [to](/post/to/) [a](/post/a/) [live](/post/live/) acting [show](/post/show/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) gave [a](/en/post/a/) [brilliant](/en/post/brilliant/) [performance](/en/post/performance/) [at](/en/post/at/) [the](/en/post/the/) [concert](/en/post/concert/)."
-- **[Verb](/en/post/verb/)**: "It's [important](/en/post/important/) [to](/en/post/to/) [practice](/en/post/practice/) [regularly](/en/post/regularly/) [to](/en/post/to/) [improve](/en/post/improve/) [your](/en/post/your/) [performance](/en/post/performance/)."
-- **[Performance](/en/post/performance/)**: "[The](/en/post/the/) team's [recent](/en/post/recent/) [performance](/en/post/performance/) has been [impressive](/en/post/impressive/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) gave [a](/post/a/) [brilliant](/post/brilliant/) [performance](/post/performance/) [at](/post/at/) [the](/post/the/) [concert](/post/concert/)."
+- **[Verb](/post/verb/)**: "It's [important](/post/important/) [to](/post/to/) [practice](/post/practice/) [regularly](/post/regularly/) [to](/post/to/) [improve](/post/improve/) [your](/post/your/) [performance](/post/performance/)."
+- **[Performance](/post/performance/)**: "[The](/post/the/) team's [recent](/post/recent/) [performance](/post/performance/) has been [impressive](/post/impressive/)."
 
 ## Synonyms
 - Execution
-- [Display](/en/post/display/)
+- [Display](/post/display/)
 - Showcasing
 - Demonstration
 - Execution
 - Representation
-- [Act](/en/post/act/)
+- [Act](/post/act/)
 - Debut
 - Presentation
 - Realization

@@ -11,17 +11,17 @@ keywords = ['ai words', 'historical']
 /hɪˈstɒrɪkl/
 
 ## 释义
-- **形容词**: 关于历史的，有历史意义的，来源于历史的。例如: "[The](/post/the/) [historical](/post/historical/) [museum](/post/museum/) displays artefacts [from](/post/from/) [various](/post/various/) epochs."
-- **名词**: 史诗般的，具有历史感的事物。例如: "[The](/post/the/) film's [historical](/post/historical/) [setting](/post/setting/) was vividly recreated."
+- **形容词**: 关于历史的，有历史意义的，来源于历史的。例如: "[The](/zh/post/the/) [historical](/zh/post/historical/) [museum](/zh/post/museum/) displays artefacts [from](/zh/post/from/) [various](/zh/post/various/) epochs."
+- **名词**: 史诗般的，具有历史感的事物。例如: "[The](/zh/post/the/) film's [historical](/zh/post/historical/) [setting](/zh/post/setting/) was vividly recreated."
 
 ## 短语
-- "[Historical](/post/historical/) figures" 指历史人物。
-- "[Historical](/post/historical/) [accuracy](/post/accuracy/)" 强调对历史事件的精确描述。
-- "[A](/post/a/) [historical](/post/historical/) [novel](/post/novel/)" 是以历史时期为背景的小说。
+- "[Historical](/zh/post/historical/) figures" 指历史人物。
+- "[Historical](/zh/post/historical/) [accuracy](/zh/post/accuracy/)" 强调对历史事件的精确描述。
+- "[A](/zh/post/a/) [historical](/zh/post/historical/) [novel](/zh/post/novel/)" 是以历史时期为背景的小说。
 
 ## 例句
-- 形容词: "[The](/post/the/) [book](/post/book/) provides [a](/post/a/) detailed [account](/post/account/) [of](/post/of/) [the](/post/the/) city's [historical](/post/historical/) landmarks."
-- 名词: "[The](/post/the/) [castle](/post/castle/) is [a](/post/a/) [significant](/post/significant/) [historical](/post/historical/) [monument](/post/monument/) [in](/post/in/) [the](/post/the/) [region](/post/region/)."
+- 形容词: "[The](/zh/post/the/) [book](/zh/post/book/) provides [a](/zh/post/a/) detailed [account](/zh/post/account/) [of](/zh/post/of/) [the](/zh/post/the/) city's [historical](/zh/post/historical/) landmarks."
+- 名词: "[The](/zh/post/the/) [castle](/zh/post/castle/) is [a](/zh/post/a/) [significant](/zh/post/significant/) [historical](/zh/post/historical/) [monument](/zh/post/monument/) [in](/zh/post/in/) [the](/zh/post/the/) [region](/zh/post/region/)."
 
 ## 同义词
 - Past-related

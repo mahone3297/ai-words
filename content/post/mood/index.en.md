@@ -7,44 +7,44 @@ description = '[muːd] n.心情，情绪；语气'
 keywords = ['ai words', 'mood']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[mood](/en/post/mood/)/
+## [Pronunciation](/post/pronunciation/)
+/[mood](/post/mood/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) prevailing [emotional](/en/post/emotional/) [state](/en/post/state/) [or](/en/post/or/) [atmosphere](/en/post/atmosphere/), [often](/en/post/often/) influencing one's thoughts [and](/en/post/and/) [behavior](/en/post/behavior/); [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) person's [temporary](/en/post/temporary/) disposition [or](/en/post/or/) [feeling](/en/post/feeling/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [gloomy](/en/post/gloomy/) [weather](/en/post/weather/) [put](/en/post/put/) [me](/en/post/me/) [in](/en/post/in/) [a](/en/post/a/) [bad](/en/post/bad/) [mood](/en/post/mood/)."
-  - _Psychology_: [In](/en/post/in/) psychology, [mood](/en/post/mood/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) long-lasting affective [state](/en/post/state/) [that](/en/post/that/) influences [a](/en/post/a/) person's perception [and](/en/post/and/) actions.
+- **[Noun](/post/noun/)**: [A](/post/a/) prevailing [emotional](/post/emotional/) [state](/post/state/) [or](/post/or/) [atmosphere](/post/atmosphere/), [often](/post/often/) influencing one's thoughts [and](/post/and/) [behavior](/post/behavior/); [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) person's [temporary](/post/temporary/) disposition [or](/post/or/) [feeling](/post/feeling/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [gloomy](/post/gloomy/) [weather](/post/weather/) [put](/post/put/) [me](/post/me/) [in](/post/in/) [a](/post/a/) [bad](/post/bad/) [mood](/post/mood/)."
+  - _Psychology_: [In](/post/in/) psychology, [mood](/post/mood/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) long-lasting affective [state](/post/state/) [that](/post/that/) influences [a](/post/a/) person's perception [and](/post/and/) actions.
   
-- **[Noun](/en/post/noun/) ([Grammar](/en/post/grammar/))**: [In](/en/post/in/) linguistics, [mood](/en/post/mood/) is [a](/en/post/a/) [grammatical](/en/post/grammatical/) [feature](/en/post/feature/) [that](/en/post/that/) indicates [the](/en/post/the/) speaker's [attitude](/en/post/attitude/) towards [the](/en/post/the/) [action](/en/post/action/) [or](/en/post/or/) [state](/en/post/state/) expressed [by](/en/post/by/) [the](/en/post/the/) [verb](/en/post/verb/), [such](/en/post/such/) [as](/en/post/as/) [whether](/en/post/whether/) [it](/en/post/it/) is [a](/en/post/a/) [fact](/en/post/fact/), [intention](/en/post/intention/), [possibility](/en/post/possibility/), [or](/en/post/or/) [wish](/en/post/wish/). [For](/en/post/for/) [example](/en/post/example/): "I [will](/en/post/will/) [go](/en/post/go/)" expresses [future](/en/post/future/) [intention](/en/post/intention/) [while](/en/post/while/) "[If](/en/post/if/) I were [you](/en/post/you/)" uses [the](/en/post/the/) subjunctive [mood](/en/post/mood/) [to](/en/post/to/) [express](/en/post/express/) [a](/en/post/a/) contrary-to-fact [condition](/en/post/condition/).
+- **[Noun](/post/noun/) ([Grammar](/post/grammar/))**: [In](/post/in/) linguistics, [mood](/post/mood/) is [a](/post/a/) [grammatical](/post/grammatical/) [feature](/post/feature/) [that](/post/that/) indicates [the](/post/the/) speaker's [attitude](/post/attitude/) towards [the](/post/the/) [action](/post/action/) [or](/post/or/) [state](/post/state/) expressed [by](/post/by/) [the](/post/the/) [verb](/post/verb/), [such](/post/such/) [as](/post/as/) [whether](/post/whether/) [it](/post/it/) is [a](/post/a/) [fact](/post/fact/), [intention](/post/intention/), [possibility](/post/possibility/), [or](/post/or/) [wish](/post/wish/). [For](/post/for/) [example](/post/example/): "I [will](/post/will/) [go](/post/go/)" expresses [future](/post/future/) [intention](/post/intention/) [while](/post/while/) "[If](/post/if/) I were [you](/post/you/)" uses [the](/post/the/) subjunctive [mood](/post/mood/) [to](/post/to/) [express](/post/express/) [a](/post/a/) contrary-to-fact [condition](/post/condition/).
 
 ## Phrases
-- "[In](/en/post/in/) [a](/en/post/a/) [good](/en/post/good/)/[bad](/en/post/bad/) [mood](/en/post/mood/)": Describes [someone](/en/post/someone/) [who](/en/post/who/) is currently experiencing [positive](/en/post/positive/)/[negative](/en/post/negative/) emotions.
-- "[Change](/en/post/change/) [of](/en/post/of/) [mood](/en/post/mood/)": [A](/en/post/a/) [sudden](/en/post/sudden/) [shift](/en/post/shift/) [in](/en/post/in/) one's [emotional](/en/post/emotional/) [state](/en/post/state/).
-- "[Reflect](/en/post/reflect/) [the](/en/post/the/) [mood](/en/post/mood/)": [To](/en/post/to/) [mirror](/en/post/mirror/) [or](/en/post/or/) [convey](/en/post/convey/) [a](/en/post/a/) [particular](/en/post/particular/) [emotion](/en/post/emotion/) [or](/en/post/or/) [atmosphere](/en/post/atmosphere/).
-- "[Set](/en/post/set/) [the](/en/post/the/) [mood](/en/post/mood/)": [To](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [specific](/en/post/specific/) [emotional](/en/post/emotional/) [environment](/en/post/environment/), [often](/en/post/often/) [through](/en/post/through/) lighting, [music](/en/post/music/), [or](/en/post/or/) ambiance.
+- "[In](/post/in/) [a](/post/a/) [good](/post/good/)/[bad](/post/bad/) [mood](/post/mood/)": Describes [someone](/post/someone/) [who](/post/who/) is currently experiencing [positive](/post/positive/)/[negative](/post/negative/) emotions.
+- "[Change](/post/change/) [of](/post/of/) [mood](/post/mood/)": [A](/post/a/) [sudden](/post/sudden/) [shift](/post/shift/) [in](/post/in/) one's [emotional](/post/emotional/) [state](/post/state/).
+- "[Reflect](/post/reflect/) [the](/post/the/) [mood](/post/mood/)": [To](/post/to/) [mirror](/post/mirror/) [or](/post/or/) [convey](/post/convey/) [a](/post/a/) [particular](/post/particular/) [emotion](/post/emotion/) [or](/post/or/) [atmosphere](/post/atmosphere/).
+- "[Set](/post/set/) [the](/post/the/) [mood](/post/mood/)": [To](/post/to/) [create](/post/create/) [a](/post/a/) [specific](/post/specific/) [emotional](/post/emotional/) [environment](/post/environment/), [often](/post/often/) [through](/post/through/) lighting, [music](/post/music/), [or](/post/or/) ambiance.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([Emotion](/en/post/emotion/))**: "[Her](/en/post/her/) [happy](/en/post/happy/) [mood](/en/post/mood/) was contagious, spreading [cheer](/en/post/cheer/) [throughout](/en/post/throughout/) [the](/en/post/the/) [group](/en/post/group/)."
-- **[Noun](/en/post/noun/) ([Grammar](/en/post/grammar/))**: "[The](/en/post/the/) indicative [mood](/en/post/mood/) is [used](/en/post/used/) [to](/en/post/to/) [make](/en/post/make/) statements [about](/en/post/about/) facts."
-- **[Verb](/en/post/verb/) ([Usage](/en/post/usage/) [in](/en/post/in/) Psychology)**: "[The](/en/post/the/) medication helped stabilize [his](/en/post/his/) moods."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([Emotion](/post/emotion/))**: "[Her](/post/her/) [happy](/post/happy/) [mood](/post/mood/) was contagious, spreading [cheer](/post/cheer/) [throughout](/post/throughout/) [the](/post/the/) [group](/post/group/)."
+- **[Noun](/post/noun/) ([Grammar](/post/grammar/))**: "[The](/post/the/) indicative [mood](/post/mood/) is [used](/post/used/) [to](/post/to/) [make](/post/make/) statements [about](/post/about/) facts."
+- **[Verb](/post/verb/) ([Usage](/post/usage/) [in](/post/in/) Psychology)**: "[The](/post/the/) medication helped stabilize [his](/post/his/) moods."
 
 ## Synonyms
-- [Emotion](/en/post/emotion/)
-- [Feeling](/en/post/feeling/)
+- [Emotion](/post/emotion/)
+- [Feeling](/post/feeling/)
 - Sentiment
-- [Attitude](/en/post/attitude/)
+- [Attitude](/post/attitude/)
 - Disposition
 - Temperament
-- [Atmosphere](/en/post/atmosphere/)
+- [Atmosphere](/post/atmosphere/)
 - Vibe
-- Stimmung ([in](/en/post/in/) German) 
-- Humor ([in](/en/post/in/) Spanish, [also](/en/post/also/) [used](/en/post/used/) [in](/en/post/in/) [some](/en/post/some/) contexts [in](/en/post/in/) English)
-- Esprit ([in](/en/post/in/) French) 
+- Stimmung ([in](/post/in/) German) 
+- Humor ([in](/post/in/) Spanish, [also](/post/also/) [used](/post/used/) [in](/post/in/) [some](/post/some/) contexts [in](/post/in/) English)
+- Esprit ([in](/post/in/) French) 
 
-[For](/en/post/for/) [grammar](/en/post/grammar/) context:
-- Modal ([as](/en/post/as/) [in](/en/post/in/) modal verbs [which](/en/post/which/) are [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [different](/en/post/different/) moods [in](/en/post/in/) English)
+[For](/post/for/) [grammar](/post/grammar/) context:
+- Modal ([as](/post/as/) [in](/post/in/) modal verbs [which](/post/which/) are [often](/post/often/) [used](/post/used/) [to](/post/to/) [express](/post/express/) [different](/post/different/) moods [in](/post/in/) English)
 - Indicative
 - Subjunctive
 - Imperative
 - Conditional
 
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) synonyms [may](/en/post/may/) [vary](/en/post/vary/) depending [on](/en/post/on/) [whether](/en/post/whether/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) "[mood](/en/post/mood/)" refers [to](/en/post/to/) an [emotional](/en/post/emotional/) [state](/en/post/state/) [or](/en/post/or/) [a](/en/post/a/) [grammatical](/en/post/grammatical/) [term](/en/post/term/).
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) synonyms [may](/post/may/) [vary](/post/vary/) depending [on](/post/on/) [whether](/post/whether/) [the](/post/the/) [use](/post/use/) [of](/post/of/) "[mood](/post/mood/)" refers [to](/post/to/) an [emotional](/post/emotional/) [state](/post/state/) [or](/post/or/) [a](/post/a/) [grammatical](/post/grammatical/) [term](/post/term/).

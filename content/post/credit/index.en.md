@@ -7,39 +7,39 @@ description = '[ˈkredit] n.信用贷款；信用'
 keywords = ['ai words', 'credit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kredɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [financial](/en/post/financial/) [resource](/en/post/resource/)**: [The](/en/post/the/) [trust](/en/post/trust/) placed [in](/en/post/in/) someone's [ability](/en/post/ability/) [to](/en/post/to/) [pay](/en/post/pay/) [back](/en/post/back/) [debt](/en/post/debt/) [or](/en/post/or/) fulfill [financial](/en/post/financial/) obligations. [Example](/en/post/example/): "[She](/en/post/she/) applied [for](/en/post/for/) [a](/en/post/a/) [credit](/en/post/credit/) [card](/en/post/card/) [to](/en/post/to/) [build](/en/post/build/) [her](/en/post/her/) [credit](/en/post/credit/) [history](/en/post/history/)."
-- **[Score](/en/post/score/) [or](/en/post/or/) rating**: [A](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) one's trustworthiness [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) [meet](/en/post/meet/) [financial](/en/post/financial/) commitments. [Example](/en/post/example/): "[Her](/en/post/her/) [credit](/en/post/credit/) [score](/en/post/score/) was [excellent](/en/post/excellent/), [so](/en/post/so/) [she](/en/post/she/) [easily](/en/post/easily/) got approved [for](/en/post/for/) [the](/en/post/the/) [loan](/en/post/loan/)."
-- **Acknowledgment [or](/en/post/or/) [praise](/en/post/praise/)**: [Recognition](/en/post/recognition/) given [for](/en/post/for/) an [action](/en/post/action/) [or](/en/post/or/) [achievement](/en/post/achievement/). [Example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) received [credit](/en/post/credit/) [for](/en/post/for/) [their](/en/post/their/) [hard](/en/post/hard/) [work](/en/post/work/) [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [financial](/post/financial/) [resource](/post/resource/)**: [The](/post/the/) [trust](/post/trust/) placed [in](/post/in/) someone's [ability](/post/ability/) [to](/post/to/) [pay](/post/pay/) [back](/post/back/) [debt](/post/debt/) [or](/post/or/) fulfill [financial](/post/financial/) obligations. [Example](/post/example/): "[She](/post/she/) applied [for](/post/for/) [a](/post/a/) [credit](/post/credit/) [card](/post/card/) [to](/post/to/) [build](/post/build/) [her](/post/her/) [credit](/post/credit/) [history](/post/history/)."
+- **[Score](/post/score/) [or](/post/or/) rating**: [A](/post/a/) [measure](/post/measure/) [of](/post/of/) one's trustworthiness [or](/post/or/) [ability](/post/ability/) [to](/post/to/) [meet](/post/meet/) [financial](/post/financial/) commitments. [Example](/post/example/): "[Her](/post/her/) [credit](/post/credit/) [score](/post/score/) was [excellent](/post/excellent/), [so](/post/so/) [she](/post/she/) [easily](/post/easily/) got approved [for](/post/for/) [the](/post/the/) [loan](/post/loan/)."
+- **Acknowledgment [or](/post/or/) [praise](/post/praise/)**: [Recognition](/post/recognition/) given [for](/post/for/) an [action](/post/action/) [or](/post/or/) [achievement](/post/achievement/). [Example](/post/example/): "[The](/post/the/) [team](/post/team/) received [credit](/post/credit/) [for](/post/for/) [their](/post/their/) [hard](/post/hard/) [work](/post/work/) [on](/post/on/) [the](/post/the/) [project](/post/project/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [assign](/en/post/assign/) [or](/en/post/or/) [give](/en/post/give/)**: [To](/en/post/to/) [attribute](/en/post/attribute/) [something](/en/post/something/) [to](/en/post/to/) someone's [account](/en/post/account/) [or](/en/post/or/) [record](/en/post/record/) [it](/en/post/it/) [as](/en/post/as/) [their](/en/post/their/) [responsibility](/en/post/responsibility/) [or](/en/post/or/) [achievement](/en/post/achievement/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) credited [the](/en/post/the/) customer's [account](/en/post/account/) [for](/en/post/for/) [the](/en/post/the/) returned merchandise."
-- **[To](/en/post/to/) [recognize](/en/post/recognize/) [or](/en/post/or/) acknowledge**: [To](/en/post/to/) [give](/en/post/give/) [credit](/en/post/credit/) [for](/en/post/for/) [a](/en/post/a/) contribution [or](/en/post/or/) accomplishment. [Example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) credited [the](/en/post/the/) students [with](/en/post/with/) coming [up](/en/post/up/) [with](/en/post/with/) [a](/en/post/a/) [creative](/en/post/creative/) [solution](/en/post/solution/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [assign](/post/assign/) [or](/post/or/) [give](/post/give/)**: [To](/post/to/) [attribute](/post/attribute/) [something](/post/something/) [to](/post/to/) someone's [account](/post/account/) [or](/post/or/) [record](/post/record/) [it](/post/it/) [as](/post/as/) [their](/post/their/) [responsibility](/post/responsibility/) [or](/post/or/) [achievement](/post/achievement/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) credited [the](/post/the/) customer's [account](/post/account/) [for](/post/for/) [the](/post/the/) returned merchandise."
+- **[To](/post/to/) [recognize](/post/recognize/) [or](/post/or/) acknowledge**: [To](/post/to/) [give](/post/give/) [credit](/post/credit/) [for](/post/for/) [a](/post/a/) contribution [or](/post/or/) accomplishment. [Example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) credited [the](/post/the/) students [with](/post/with/) coming [up](/post/up/) [with](/post/with/) [a](/post/a/) [creative](/post/creative/) [solution](/post/solution/)."
 
-### [Adjective](/en/post/adjective/)
-- **Belonging [to](/en/post/to/)**: [Something](/en/post/something/) [that](/en/post/that/) is owed [or](/en/post/or/) [due](/en/post/due/) [to](/en/post/to/) [someone](/en/post/someone/). [Example](/en/post/example/): "[The](/en/post/the/) [credit](/en/post/credit/) [for](/en/post/for/) [the](/en/post/the/) [invention](/en/post/invention/) goes [to](/en/post/to/) [the](/en/post/the/) [scientist](/en/post/scientist/)."
-- **[Relevant](/en/post/relevant/) [or](/en/post/or/) [beneficial](/en/post/beneficial/)**: Having [a](/en/post/a/) [positive](/en/post/positive/) [impact](/en/post/impact/) [or](/en/post/or/) [value](/en/post/value/). [Example](/en/post/example/): "[The](/en/post/the/) [credit](/en/post/credit/) [system](/en/post/system/) encourages [responsible](/en/post/responsible/) spending."
+### [Adjective](/post/adjective/)
+- **Belonging [to](/post/to/)**: [Something](/post/something/) [that](/post/that/) is owed [or](/post/or/) [due](/post/due/) [to](/post/to/) [someone](/post/someone/). [Example](/post/example/): "[The](/post/the/) [credit](/post/credit/) [for](/post/for/) [the](/post/the/) [invention](/post/invention/) goes [to](/post/to/) [the](/post/the/) [scientist](/post/scientist/)."
+- **[Relevant](/post/relevant/) [or](/post/or/) [beneficial](/post/beneficial/)**: Having [a](/post/a/) [positive](/post/positive/) [impact](/post/impact/) [or](/post/or/) [value](/post/value/). [Example](/post/example/): "[The](/post/the/) [credit](/post/credit/) [system](/post/system/) encourages [responsible](/post/responsible/) spending."
 
 ## Phrases
-- "[Pay](/en/post/pay/) [off](/en/post/off/) [your](/en/post/your/) [credit](/en/post/credit/) [card](/en/post/card/)" [means](/en/post/means/) [to](/en/post/to/) [settle](/en/post/settle/) [the](/en/post/the/) [balance](/en/post/balance/) owed [on](/en/post/on/) [a](/en/post/a/) [credit](/en/post/credit/) [card](/en/post/card/).
-- "[Good](/en/post/good/) [credit](/en/post/credit/) [history](/en/post/history/)" refers [to](/en/post/to/) [a](/en/post/a/) person's [track](/en/post/track/) [record](/en/post/record/) [of](/en/post/of/) responsibly managing [their](/en/post/their/) finances.
-- "[Credit](/en/post/credit/) [limit](/en/post/limit/)" is [the](/en/post/the/) [maximum](/en/post/maximum/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) [a](/en/post/a/) [credit](/en/post/credit/) cardholder [can](/en/post/can/) [owe](/en/post/owe/).
+- "[Pay](/post/pay/) [off](/post/off/) [your](/post/your/) [credit](/post/credit/) [card](/post/card/)" [means](/post/means/) [to](/post/to/) [settle](/post/settle/) [the](/post/the/) [balance](/post/balance/) owed [on](/post/on/) [a](/post/a/) [credit](/post/credit/) [card](/post/card/).
+- "[Good](/post/good/) [credit](/post/credit/) [history](/post/history/)" refers [to](/post/to/) [a](/post/a/) person's [track](/post/track/) [record](/post/record/) [of](/post/of/) responsibly managing [their](/post/their/) finances.
+- "[Credit](/post/credit/) [limit](/post/limit/)" is [the](/post/the/) [maximum](/post/maximum/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) [a](/post/a/) [credit](/post/credit/) cardholder [can](/post/can/) [owe](/post/owe/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) made [sure](/en/post/sure/) [to](/en/post/to/) [pay](/en/post/pay/) [her](/en/post/her/) [credit](/en/post/credit/) [card](/en/post/card/) [bill](/en/post/bill/) [on](/en/post/on/) [time](/en/post/time/) [each](/en/post/each/) [month](/en/post/month/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) credited [the](/en/post/the/) client's [account](/en/post/account/) [after](/en/post/after/) resolving [the](/en/post/the/) [dispute](/en/post/dispute/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [business](/en/post/business/) [idea](/en/post/idea/) received [widespread](/en/post/widespread/) [credit](/en/post/credit/) [for](/en/post/for/) [its](/en/post/its/) innovative [approach](/en/post/approach/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) made [sure](/post/sure/) [to](/post/to/) [pay](/post/pay/) [her](/post/her/) [credit](/post/credit/) [card](/post/card/) [bill](/post/bill/) [on](/post/on/) [time](/post/time/) [each](/post/each/) [month](/post/month/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [company](/post/company/) credited [the](/post/the/) client's [account](/post/account/) [after](/post/after/) resolving [the](/post/the/) [dispute](/post/dispute/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [business](/post/business/) [idea](/post/idea/) received [widespread](/post/widespread/) [credit](/post/credit/) [for](/post/for/) [its](/post/its/) innovative [approach](/post/approach/)."
 
 ## Synonyms
-- [Debt](/en/post/debt/)
+- [Debt](/post/debt/)
 - Acknowledgement
-- [Recognition](/en/post/recognition/)
+- [Recognition](/post/recognition/)
 - Appreciation
-- [Reputation](/en/post/reputation/)
-- [Trust](/en/post/trust/)
-- [Score](/en/post/score/)
+- [Reputation](/post/reputation/)
+- [Trust](/post/trust/)
+- [Score](/post/score/)
 - Standing

@@ -7,35 +7,35 @@ description = '[help] vt.帮助；援助 n.帮手'
 keywords = ['ai words', 'help']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[help](/en/post/help/)/
+## [Pronunciation](/post/pronunciation/)
+/[help](/post/help/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (uncountable) [Aid](/en/post/aid/) [or](/en/post/or/) assistance given [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) needs [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [charity](/en/post/charity/) [organization](/en/post/organization/) [provided](/en/post/provided/) [food](/en/post/food/) [and](/en/post/and/) [shelter](/en/post/shelter/) [to](/en/post/to/) [those](/en/post/those/) [in](/en/post/in/) [need](/en/post/need/) [as](/en/post/as/) [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [help](/en/post/help/)."
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [assist](/en/post/assist/), [support](/en/post/support/), [or](/en/post/or/) [make](/en/post/make/) [it](/en/post/it/) easier [for](/en/post/for/) [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) helped [her](/en/post/her/) [friend](/en/post/friend/) [move](/en/post/move/) [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [apartment](/en/post/apartment/)."
-- (intransitive) [To](/en/post/to/) [be](/en/post/be/) [of](/en/post/of/) [use](/en/post/use/) [or](/en/post/or/) [service](/en/post/service/); [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [beneficial](/en/post/beneficial/) [effect](/en/post/effect/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [medicine](/en/post/medicine/) [will](/en/post/will/) [help](/en/post/help/) [relieve](/en/post/relieve/) [your](/en/post/your/) [headache](/en/post/headache/)."
-- **[Adjective](/en/post/adjective/)**: (attributive) [Of](/en/post/of/) [or](/en/post/or/) relating [to](/en/post/to/) providing [aid](/en/post/aid/) [or](/en/post/or/) assistance. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) helping [hand](/en/post/hand/) is [always](/en/post/always/) appreciated."
+- **[Noun](/post/noun/)**: (uncountable) [Aid](/post/aid/) [or](/post/or/) assistance given [to](/post/to/) [someone](/post/someone/) [who](/post/who/) needs [it](/post/it/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [charity](/post/charity/) [organization](/post/organization/) [provided](/post/provided/) [food](/post/food/) [and](/post/and/) [shelter](/post/shelter/) [to](/post/to/) [those](/post/those/) [in](/post/in/) [need](/post/need/) [as](/post/as/) [a](/post/a/) [form](/post/form/) [of](/post/of/) [help](/post/help/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [assist](/post/assist/), [support](/post/support/), [or](/post/or/) [make](/post/make/) [it](/post/it/) easier [for](/post/for/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) helped [her](/post/her/) [friend](/post/friend/) [move](/post/move/) [to](/post/to/) [a](/post/a/) [new](/post/new/) [apartment](/post/apartment/)."
+- (intransitive) [To](/post/to/) [be](/post/be/) [of](/post/of/) [use](/post/use/) [or](/post/or/) [service](/post/service/); [to](/post/to/) [have](/post/have/) [a](/post/a/) [beneficial](/post/beneficial/) [effect](/post/effect/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [medicine](/post/medicine/) [will](/post/will/) [help](/post/help/) [relieve](/post/relieve/) [your](/post/your/) [headache](/post/headache/)."
+- **[Adjective](/post/adjective/)**: (attributive) [Of](/post/of/) [or](/post/or/) relating [to](/post/to/) providing [aid](/post/aid/) [or](/post/or/) assistance. [For](/post/for/) [example](/post/example/): "[A](/post/a/) helping [hand](/post/hand/) is [always](/post/always/) appreciated."
 
 ## Phrases
-- "[Give](/en/post/give/) [help](/en/post/help/) [to](/en/post/to/) [someone](/en/post/someone/)": [Provide](/en/post/provide/) assistance [to](/en/post/to/) [someone](/en/post/someone/) [in](/en/post/in/) [need](/en/post/need/).
-- "[Can](/en/post/can/) / [Could](/en/post/could/) [you](/en/post/you/) [help](/en/post/help/) [me](/en/post/me/)?": Asking [for](/en/post/for/) assistance [from](/en/post/from/) [someone](/en/post/someone/).
-- "[Help](/en/post/help/) [yourself](/en/post/yourself/)": [Permission](/en/post/permission/) [to](/en/post/to/) [serve](/en/post/serve/) [oneself](/en/post/oneself/), [often](/en/post/often/) [used](/en/post/used/) [when](/en/post/when/) offering [food](/en/post/food/) [or](/en/post/or/) [drink](/en/post/drink/).
-- "[With](/en/post/with/) [the](/en/post/the/) [help](/en/post/help/) [of](/en/post/of/)": Acknowledging [the](/en/post/the/) contribution [or](/en/post/or/) [support](/en/post/support/) received [from](/en/post/from/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [in](/en/post/in/) achieving [something](/en/post/something/).
+- "[Give](/post/give/) [help](/post/help/) [to](/post/to/) [someone](/post/someone/)": [Provide](/post/provide/) assistance [to](/post/to/) [someone](/post/someone/) [in](/post/in/) [need](/post/need/).
+- "[Can](/post/can/) / [Could](/post/could/) [you](/post/you/) [help](/post/help/) [me](/post/me/)?": Asking [for](/post/for/) assistance [from](/post/from/) [someone](/post/someone/).
+- "[Help](/post/help/) [yourself](/post/yourself/)": [Permission](/post/permission/) [to](/post/to/) [serve](/post/serve/) [oneself](/post/oneself/), [often](/post/often/) [used](/post/used/) [when](/post/when/) offering [food](/post/food/) [or](/post/or/) [drink](/post/drink/).
+- "[With](/post/with/) [the](/post/the/) [help](/post/help/) [of](/post/of/)": Acknowledging [the](/post/the/) contribution [or](/post/or/) [support](/post/support/) received [from](/post/from/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [in](/post/in/) achieving [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) dedication [and](/en/post/and/) [help](/en/post/help/) were instrumental [in](/en/post/in/) [the](/en/post/the/) [success](/en/post/success/) [of](/en/post/of/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Verb](/en/post/verb/)**: "I couldn't [finish](/en/post/finish/) [the](/en/post/the/) [task](/en/post/task/) [on](/en/post/on/) [time](/en/post/time/) [without](/en/post/without/) [his](/en/post/his/) [help](/en/post/help/)."
-- **[Adjective](/en/post/adjective/)**: "We're looking [for](/en/post/for/) volunteers [to](/en/post/to/) [provide](/en/post/provide/) [some](/en/post/some/) much-needed [help](/en/post/help/) [around](/en/post/around/) [the](/en/post/the/) [community](/en/post/community/) center."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) dedication [and](/post/and/) [help](/post/help/) were instrumental [in](/post/in/) [the](/post/the/) [success](/post/success/) [of](/post/of/) [the](/post/the/) [project](/post/project/)."
+- **[Verb](/post/verb/)**: "I couldn't [finish](/post/finish/) [the](/post/the/) [task](/post/task/) [on](/post/on/) [time](/post/time/) [without](/post/without/) [his](/post/his/) [help](/post/help/)."
+- **[Adjective](/post/adjective/)**: "We're looking [for](/post/for/) volunteers [to](/post/to/) [provide](/post/provide/) [some](/post/some/) much-needed [help](/post/help/) [around](/post/around/) [the](/post/the/) [community](/post/community/) center."
 
 ## Synonyms
-- [Aid](/en/post/aid/)
+- [Aid](/post/aid/)
 - Assistance
-- [Support](/en/post/support/)
-- [Relief](/en/post/relief/)
-- [Service](/en/post/service/)
-- [Guidance](/en/post/guidance/)
+- [Support](/post/support/)
+- [Relief](/post/relief/)
+- [Service](/post/service/)
+- [Guidance](/post/guidance/)
 - Backup
-- Succor ([formal](/en/post/formal/))
-- [Benefit](/en/post/benefit/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
-- [Assist](/en/post/assist/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
+- Succor ([formal](/post/formal/))
+- [Benefit](/post/benefit/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))
+- [Assist](/post/assist/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))
 - Aidance (archaic)

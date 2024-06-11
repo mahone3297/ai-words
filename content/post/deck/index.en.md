@@ -7,37 +7,37 @@ description = '[dek] n.甲板；舱面；层面'
 keywords = ['ai words', 'deck']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /diːk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Deck](/en/post/deck/) ([noun](/en/post/noun/))**: [A](/en/post/a/) [platform](/en/post/platform/) [or](/en/post/or/) [level](/en/post/level/) [of](/en/post/of/) [a](/en/post/a/) [ship](/en/post/ship/) [or](/en/post/or/) [building](/en/post/building/), typically [one](/en/post/one/) [above](/en/post/above/) [another](/en/post/another/), [used](/en/post/used/) [for](/en/post/for/) [outdoor](/en/post/outdoor/) activities [or](/en/post/or/) [storage](/en/post/storage/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) children played [on](/en/post/on/) [the](/en/post/the/) [upper](/en/post/upper/) [deck](/en/post/deck/) [of](/en/post/of/) [the](/en/post/the/) [ship](/en/post/ship/)."
-2. **[Card](/en/post/card/) [Deck](/en/post/deck/)**: [A](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) playing cards, [usually](/en/post/usually/) arranged [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [order](/en/post/order/).
-   - [Example](/en/post/example/): "[He](/en/post/he/) shuffled [the](/en/post/the/) [deck](/en/post/deck/) [before](/en/post/before/) dealing [the](/en/post/the/) cards."
-3. **[House](/en/post/house/) [Deck](/en/post/deck/)**: [A](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) cards [used](/en/post/used/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [game](/en/post/game/), [often](/en/post/often/) marked [with](/en/post/with/) symbols [or](/en/post/or/) values.
-4. **Fishing [Deck](/en/post/deck/)**: [The](/en/post/the/) [area](/en/post/area/) [of](/en/post/of/) [a](/en/post/a/) [boat](/en/post/boat/) designated [for](/en/post/for/) fishing.
-5. **Verandah [Deck](/en/post/deck/)**: An [outdoor](/en/post/outdoor/) [platform](/en/post/platform/) surrounding [a](/en/post/a/) [house](/en/post/house/), typically elevated.
+### [Noun](/post/noun/)
+1. **[Deck](/post/deck/) ([noun](/post/noun/))**: [A](/post/a/) [platform](/post/platform/) [or](/post/or/) [level](/post/level/) [of](/post/of/) [a](/post/a/) [ship](/post/ship/) [or](/post/or/) [building](/post/building/), typically [one](/post/one/) [above](/post/above/) [another](/post/another/), [used](/post/used/) [for](/post/for/) [outdoor](/post/outdoor/) activities [or](/post/or/) [storage](/post/storage/).
+   - [Example](/post/example/): "[The](/post/the/) children played [on](/post/on/) [the](/post/the/) [upper](/post/upper/) [deck](/post/deck/) [of](/post/of/) [the](/post/the/) [ship](/post/ship/)."
+2. **[Card](/post/card/) [Deck](/post/deck/)**: [A](/post/a/) [collection](/post/collection/) [of](/post/of/) playing cards, [usually](/post/usually/) arranged [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [order](/post/order/).
+   - [Example](/post/example/): "[He](/post/he/) shuffled [the](/post/the/) [deck](/post/deck/) [before](/post/before/) dealing [the](/post/the/) cards."
+3. **[House](/post/house/) [Deck](/post/deck/)**: [A](/post/a/) [set](/post/set/) [of](/post/of/) cards [used](/post/used/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [game](/post/game/), [often](/post/often/) marked [with](/post/with/) symbols [or](/post/or/) values.
+4. **Fishing [Deck](/post/deck/)**: [The](/post/the/) [area](/post/area/) [of](/post/of/) [a](/post/a/) [boat](/post/boat/) designated [for](/post/for/) fishing.
+5. **Verandah [Deck](/post/deck/)**: An [outdoor](/post/outdoor/) [platform](/post/platform/) surrounding [a](/post/a/) [house](/post/house/), typically elevated.
 
-### [Verb](/en/post/verb/)
-- [Not](/en/post/not/) [a](/en/post/a/) [common](/en/post/common/) [verb](/en/post/verb/) [in](/en/post/in/) [its](/en/post/its/) [own](/en/post/own/) [right](/en/post/right/), [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) arranging [or](/en/post/or/) organizing [something](/en/post/something/) [like](/en/post/like/) cards.
-   - [Example](/en/post/example/): "[She](/en/post/she/) carefully decked [the](/en/post/the/) shelves [with](/en/post/with/) [her](/en/post/her/) [collection](/en/post/collection/) [of](/en/post/of/) books."
+### [Verb](/post/verb/)
+- [Not](/post/not/) [a](/post/a/) [common](/post/common/) [verb](/post/verb/) [in](/post/in/) [its](/post/its/) [own](/post/own/) [right](/post/right/), [but](/post/but/) [can](/post/can/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) arranging [or](/post/or/) organizing [something](/post/something/) [like](/post/like/) cards.
+   - [Example](/post/example/): "[She](/post/she/) carefully decked [the](/post/the/) shelves [with](/post/with/) [her](/post/her/) [collection](/post/collection/) [of](/post/of/) books."
 
 ## Phrases
-- "[Deal](/en/post/deal/) [a](/en/post/a/) [deck](/en/post/deck/)": [To](/en/post/to/) [distribute](/en/post/distribute/) [a](/en/post/a/) [full](/en/post/full/) [set](/en/post/set/) [of](/en/post/of/) cards [to](/en/post/to/) players.
-- "[On](/en/post/on/) [the](/en/post/the/) [deck](/en/post/deck/)": [In](/en/post/in/) an [active](/en/post/active/) [position](/en/post/position/) [or](/en/post/or/) [about](/en/post/about/) [to](/en/post/to/) [participate](/en/post/participate/), [especially](/en/post/especially/) [in](/en/post/in/) sports.
-- "[Clear](/en/post/clear/) [the](/en/post/the/) decks": [To](/en/post/to/) [prepare](/en/post/prepare/) [or](/en/post/or/) [tidy](/en/post/tidy/) [up](/en/post/up/) [before](/en/post/before/) starting [a](/en/post/a/) [new](/en/post/new/) [task](/en/post/task/) [or](/en/post/or/) [project](/en/post/project/).
+- "[Deal](/post/deal/) [a](/post/a/) [deck](/post/deck/)": [To](/post/to/) [distribute](/post/distribute/) [a](/post/a/) [full](/post/full/) [set](/post/set/) [of](/post/of/) cards [to](/post/to/) players.
+- "[On](/post/on/) [the](/post/the/) [deck](/post/deck/)": [In](/post/in/) an [active](/post/active/) [position](/post/position/) [or](/post/or/) [about](/post/about/) [to](/post/to/) [participate](/post/participate/), [especially](/post/especially/) [in](/post/in/) sports.
+- "[Clear](/post/clear/) [the](/post/the/) decks": [To](/post/to/) [prepare](/post/prepare/) [or](/post/or/) [tidy](/post/tidy/) [up](/post/up/) [before](/post/before/) starting [a](/post/a/) [new](/post/new/) [task](/post/task/) [or](/post/or/) [project](/post/project/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) sailors were [busy](/en/post/busy/) securing [the](/en/post/the/) [deck](/en/post/deck/) [before](/en/post/before/) [the](/en/post/the/) [storm](/en/post/storm/) arrived."
-- **Metaphorical [Verb](/en/post/verb/)**: "[He](/en/post/he/) had [to](/en/post/to/) [clear](/en/post/clear/) [the](/en/post/the/) decks [before](/en/post/before/) starting [his](/en/post/his/) [new](/en/post/new/) [job](/en/post/job/)."
-- **Phrasal**: "[After](/en/post/after/) winning [the](/en/post/the/) [match](/en/post/match/), [he](/en/post/he/) was [on](/en/post/on/) [the](/en/post/the/) [top](/en/post/top/) [deck](/en/post/deck/) celebrating."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) sailors were [busy](/post/busy/) securing [the](/post/the/) [deck](/post/deck/) [before](/post/before/) [the](/post/the/) [storm](/post/storm/) arrived."
+- **Metaphorical [Verb](/post/verb/)**: "[He](/post/he/) had [to](/post/to/) [clear](/post/clear/) [the](/post/the/) decks [before](/post/before/) starting [his](/post/his/) [new](/post/new/) [job](/post/job/)."
+- **Phrasal**: "[After](/post/after/) winning [the](/post/the/) [match](/post/match/), [he](/post/he/) was [on](/post/on/) [the](/post/the/) [top](/post/top/) [deck](/post/deck/) celebrating."
 
 ## Synonyms
-- [Floor](/en/post/floor/) (informal, specifically [in](/en/post/in/) [a](/en/post/a/) [building](/en/post/building/) context)
-- [Level](/en/post/level/) ([in](/en/post/in/) [a](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) [structure](/en/post/structure/))
-- [Platform](/en/post/platform/)
-- [Collection](/en/post/collection/) ([of](/en/post/of/) cards)
-- [Set](/en/post/set/) ([of](/en/post/of/) playing cards)
-- [Framework](/en/post/framework/) ([less](/en/post/less/) [common](/en/post/common/))
+- [Floor](/post/floor/) (informal, specifically [in](/post/in/) [a](/post/a/) [building](/post/building/) context)
+- [Level](/post/level/) ([in](/post/in/) [a](/post/a/) [building](/post/building/) [or](/post/or/) [structure](/post/structure/))
+- [Platform](/post/platform/)
+- [Collection](/post/collection/) ([of](/post/of/) cards)
+- [Set](/post/set/) ([of](/post/of/) playing cards)
+- [Framework](/post/framework/) ([less](/post/less/) [common](/post/common/))

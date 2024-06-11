@@ -11,16 +11,16 @@ keywords = ['ai words', 'childish']
 /ˈtʃaɪl.dɪʃ/
 
 ## 释义
-- **形容词**: 像孩子一样的；幼稚的；天真的。例如: "[She](/post/she/) has [a](/post/a/) [childish](/post/childish/) [enthusiasm](/post/enthusiasm/) [for](/post/for/) collecting stamps."
-- **名词**: 孩子气的行为或特征。例如: "[His](/post/his/) tantrums are [a](/post/a/) [sign](/post/sign/) [of](/post/of/) [childish](/post/childish/) [behavior](/post/behavior/)."
+- **形容词**: 像孩子一样的；幼稚的；天真的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [childish](/zh/post/childish/) [enthusiasm](/zh/post/enthusiasm/) [for](/zh/post/for/) collecting stamps."
+- **名词**: 孩子气的行为或特征。例如: "[His](/zh/post/his/) tantrums are [a](/zh/post/a/) [sign](/zh/post/sign/) [of](/zh/post/of/) [childish](/zh/post/childish/) [behavior](/zh/post/behavior/)."
 
 ## 短语
-- "[childish](/post/childish/) antics" 指幼稚的行为或举动。
-- "[childish](/post/childish/) drawings" 指儿童画作。
+- "[childish](/zh/post/childish/) antics" 指幼稚的行为或举动。
+- "[childish](/zh/post/childish/) drawings" 指儿童画作。
 
 ## 例句
-- 形容词: "[Despite](/post/despite/) [his](/post/his/) [age](/post/age/), [he](/post/he/) [still](/post/still/) has [a](/post/a/) [childish](/post/childish/) [love](/post/love/) [for](/post/for/) superhero comics."
-- 名词: "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [leave](/post/leave/) [their](/post/their/) [childish](/post/childish/) games [outside](/post/outside/) [the](/post/the/) [classroom](/post/classroom/)."
+- 形容词: "[Despite](/zh/post/despite/) [his](/zh/post/his/) [age](/zh/post/age/), [he](/zh/post/he/) [still](/zh/post/still/) has [a](/zh/post/a/) [childish](/zh/post/childish/) [love](/zh/post/love/) [for](/zh/post/for/) superhero comics."
+- 名词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) asked [the](/zh/post/the/) students [to](/zh/post/to/) [leave](/zh/post/leave/) [their](/zh/post/their/) [childish](/zh/post/childish/) games [outside](/zh/post/outside/) [the](/zh/post/the/) [classroom](/zh/post/classroom/)."
 
 ## 同义词
 - Juvenile

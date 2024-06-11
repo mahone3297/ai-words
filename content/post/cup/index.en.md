@@ -7,41 +7,41 @@ description = '[kʌp] n.杯子；(一)杯；奖杯'
 keywords = ['ai words', 'cup']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkʌp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [container](/en/post/container/) [usually](/en/post/usually/) made [of](/en/post/of/) ceramic, [glass](/en/post/glass/), [or](/en/post/or/) [plastic](/en/post/plastic/), [with](/en/post/with/) [a](/en/post/a/) [handle](/en/post/handle/), [used](/en/post/used/) [for](/en/post/for/) drinking [liquid](/en/post/liquid/), [especially](/en/post/especially/) [hot](/en/post/hot/) beverages [like](/en/post/like/) [tea](/en/post/tea/) [or](/en/post/or/) [coffee](/en/post/coffee/).
-2. [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/), typically 8 [fluid](/en/post/fluid/) ounces [in](/en/post/in/) [the](/en/post/the/) United States [or](/en/post/or/) 10 [in](/en/post/in/) [the](/en/post/the/) United [Kingdom](/en/post/kingdom/), [used](/en/post/used/) [to](/en/post/to/) [measure](/en/post/measure/) [volume](/en/post/volume/) [of](/en/post/of/) liquids.
-3. [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) sports team's [uniform](/en/post/uniform/) [that](/en/post/that/) covers [the](/en/post/the/) [arm](/en/post/arm/) [and](/en/post/and/) protects [the](/en/post/the/) [elbow](/en/post/elbow/), [often](/en/post/often/) referred [to](/en/post/to/) [as](/en/post/as/) [a](/en/post/a/) batting [or](/en/post/or/) goalkeeping [cup](/en/post/cup/).
+### [Noun](/post/noun/)
+1. [A](/post/a/) [container](/post/container/) [usually](/post/usually/) made [of](/post/of/) ceramic, [glass](/post/glass/), [or](/post/or/) [plastic](/post/plastic/), [with](/post/with/) [a](/post/a/) [handle](/post/handle/), [used](/post/used/) [for](/post/for/) drinking [liquid](/post/liquid/), [especially](/post/especially/) [hot](/post/hot/) beverages [like](/post/like/) [tea](/post/tea/) [or](/post/or/) [coffee](/post/coffee/).
+2. [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/), typically 8 [fluid](/post/fluid/) ounces [in](/post/in/) [the](/post/the/) United States [or](/post/or/) 10 [in](/post/in/) [the](/post/the/) United [Kingdom](/post/kingdom/), [used](/post/used/) [to](/post/to/) [measure](/post/measure/) [volume](/post/volume/) [of](/post/of/) liquids.
+3. [A](/post/a/) [part](/post/part/) [of](/post/of/) [a](/post/a/) sports team's [uniform](/post/uniform/) [that](/post/that/) covers [the](/post/the/) [arm](/post/arm/) [and](/post/and/) protects [the](/post/the/) [elbow](/post/elbow/), [often](/post/often/) referred [to](/post/to/) [as](/post/as/) [a](/post/a/) batting [or](/post/or/) goalkeeping [cup](/post/cup/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [pour](/en/post/pour/) [or](/en/post/or/) [hold](/en/post/hold/) [liquid](/en/post/liquid/) [in](/en/post/in/) [a](/en/post/a/) [cup](/en/post/cup/), typically [for](/en/post/for/) drinking.
+### [Verb](/post/verb/)
+[To](/post/to/) [pour](/post/pour/) [or](/post/or/) [hold](/post/hold/) [liquid](/post/liquid/) [in](/post/in/) [a](/post/a/) [cup](/post/cup/), typically [for](/post/for/) drinking.
 
-### [Adjective](/en/post/adjective/)
-- Cup-like: Having [a](/en/post/a/) [shape](/en/post/shape/) resembling [a](/en/post/a/) [cup](/en/post/cup/).
-- Insulated [cup](/en/post/cup/): [A](/en/post/a/) [cup](/en/post/cup/) designed [to](/en/post/to/) [keep](/en/post/keep/) beverages [hot](/en/post/hot/) [or](/en/post/or/) [cold](/en/post/cold/).
+### [Adjective](/post/adjective/)
+- Cup-like: Having [a](/post/a/) [shape](/post/shape/) resembling [a](/post/a/) [cup](/post/cup/).
+- Insulated [cup](/post/cup/): [A](/post/a/) [cup](/post/cup/) designed [to](/post/to/) [keep](/post/keep/) beverages [hot](/post/hot/) [or](/post/or/) [cold](/post/cold/).
 
 ## Phrases
-- "[Drink](/en/post/drink/) [from](/en/post/from/) [a](/en/post/a/) [cup](/en/post/cup/)" [or](/en/post/or/) "[take](/en/post/take/) [a](/en/post/a/) sip [from](/en/post/from/) [a](/en/post/a/) [cup](/en/post/cup/)"
-- "[Keep](/en/post/keep/) [your](/en/post/your/) [coffee](/en/post/coffee/) [in](/en/post/in/) [a](/en/post/a/) [travel](/en/post/travel/) [cup](/en/post/cup/)" [for](/en/post/for/) [portable](/en/post/portable/) containers
-- "[Fill](/en/post/fill/) [up](/en/post/up/) [your](/en/post/your/) [cup](/en/post/cup/)" [to](/en/post/to/) [encourage](/en/post/encourage/) [someone](/en/post/someone/) [to](/en/post/to/) [have](/en/post/have/) [more](/en/post/more/) [of](/en/post/of/) [something](/en/post/something/)
+- "[Drink](/post/drink/) [from](/post/from/) [a](/post/a/) [cup](/post/cup/)" [or](/post/or/) "[take](/post/take/) [a](/post/a/) sip [from](/post/from/) [a](/post/a/) [cup](/post/cup/)"
+- "[Keep](/post/keep/) [your](/post/your/) [coffee](/post/coffee/) [in](/post/in/) [a](/post/a/) [travel](/post/travel/) [cup](/post/cup/)" [for](/post/for/) [portable](/post/portable/) containers
+- "[Fill](/post/fill/) [up](/post/up/) [your](/post/your/) [cup](/post/cup/)" [to](/post/to/) [encourage](/post/encourage/) [someone](/post/someone/) [to](/post/to/) [have](/post/have/) [more](/post/more/) [of](/post/of/) [something](/post/something/)
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I placed [my](/en/post/my/) [morning](/en/post/morning/) [coffee](/en/post/coffee/) [in](/en/post/in/) [a](/en/post/a/) ceramic [cup](/en/post/cup/) [before](/en/post/before/) [heading](/en/post/heading/) [to](/en/post/to/) [work](/en/post/work/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully filled [her](/en/post/her/) [cup](/en/post/cup/) [with](/en/post/with/) steaming [tea](/en/post/tea/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) insulated [cup](/en/post/cup/) kept [the](/en/post/the/) [hot](/en/post/hot/) [chocolate](/en/post/chocolate/) [warm](/en/post/warm/) [on](/en/post/on/) [a](/en/post/a/) chilly [day](/en/post/day/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I placed [my](/post/my/) [morning](/post/morning/) [coffee](/post/coffee/) [in](/post/in/) [a](/post/a/) ceramic [cup](/post/cup/) [before](/post/before/) [heading](/post/heading/) [to](/post/to/) [work](/post/work/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully filled [her](/post/her/) [cup](/post/cup/) [with](/post/with/) steaming [tea](/post/tea/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) insulated [cup](/post/cup/) kept [the](/post/the/) [hot](/post/hot/) [chocolate](/post/chocolate/) [warm](/post/warm/) [on](/post/on/) [a](/post/a/) chilly [day](/post/day/)."
 
 ## Synonyms
-- [Mug](/en/post/mug/)
+- [Mug](/post/mug/)
 - Tumbler
-- [Saucer](/en/post/saucer/)
+- [Saucer](/post/saucer/)
 - Beaker
-- Goblet ([in](/en/post/in/) [a](/en/post/a/) larger, [often](/en/post/often/) ceremonial context)
-- [Cupboard](/en/post/cupboard/) ([a](/en/post/a/) [storage](/en/post/storage/) [place](/en/post/place/) [for](/en/post/for/) cups)
+- Goblet ([in](/post/in/) [a](/post/a/) larger, [often](/post/often/) ceremonial context)
+- [Cupboard](/post/cupboard/) ([a](/post/a/) [storage](/post/storage/) [place](/post/place/) [for](/post/for/) cups)
 
 ## Antonyms
-- [Bowl](/en/post/bowl/)
+- [Bowl](/post/bowl/)
 - Jug
-- Pitcher (larger containers [for](/en/post/for/) holding [liquid](/en/post/liquid/))
+- Pitcher (larger containers [for](/post/for/) holding [liquid](/post/liquid/))

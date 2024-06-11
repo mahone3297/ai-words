@@ -7,31 +7,31 @@ description = '[kud] aux.v.(can 的过去式)'
 keywords = ['ai words', 'could']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kʊd/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [have](/en/post/have/) [the](/en/post/the/) [ability](/en/post/ability/) [or](/en/post/or/) [possibility](/en/post/possibility/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/); [to](/en/post/to/) [be](/en/post/be/) [capable](/en/post/capable/) [or](/en/post/or/) [able](/en/post/able/) [to](/en/post/to/). [For](/en/post/for/) [example](/en/post/example/): "I [could](/en/post/could/) [swim](/en/post/swim/) [when](/en/post/when/) I was [five](/en/post/five/) years [old](/en/post/old/)."
-- **Modal [verb](/en/post/verb/)**: [Used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [ability](/en/post/ability/), [permission](/en/post/permission/), [possibility](/en/post/possibility/), [or](/en/post/or/) contingency. [It](/en/post/it/) [often](/en/post/often/) follows [the](/en/post/the/) [auxiliary](/en/post/auxiliary/) [verb](/en/post/verb/) "[can](/en/post/can/)." [For](/en/post/for/) [example](/en/post/example/): "[You](/en/post/you/) [could](/en/post/could/) [try](/en/post/try/) [that](/en/post/that/) [approach](/en/post/approach/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [have](/post/have/) [the](/post/the/) [ability](/post/ability/) [or](/post/or/) [possibility](/post/possibility/) [to](/post/to/) [do](/post/do/) [something](/post/something/); [to](/post/to/) [be](/post/be/) [capable](/post/capable/) [or](/post/or/) [able](/post/able/) [to](/post/to/). [For](/post/for/) [example](/post/example/): "I [could](/post/could/) [swim](/post/swim/) [when](/post/when/) I was [five](/post/five/) years [old](/post/old/)."
+- **Modal [verb](/post/verb/)**: [Used](/post/used/) [to](/post/to/) [express](/post/express/) [ability](/post/ability/), [permission](/post/permission/), [possibility](/post/possibility/), [or](/post/or/) contingency. [It](/post/it/) [often](/post/often/) follows [the](/post/the/) [auxiliary](/post/auxiliary/) [verb](/post/verb/) "[can](/post/can/)." [For](/post/for/) [example](/post/example/): "[You](/post/you/) [could](/post/could/) [try](/post/try/) [that](/post/that/) [approach](/post/approach/)."
 
 ## Phrases
-- "[Could](/en/post/could/) [you](/en/post/you/) [please](/en/post/please/)...?" is [a](/en/post/a/) [polite](/en/post/polite/) [request](/en/post/request/).
-- "I [could](/en/post/could/) [care](/en/post/care/) [less](/en/post/less/)" [means](/en/post/means/) [one](/en/post/one/) does [not](/en/post/not/) [care](/en/post/care/) [about](/en/post/about/) [something](/en/post/something/).
-- "[She](/en/post/she/) couldn't [have](/en/post/have/) known" implies impossibility [of](/en/post/of/) [knowledge](/en/post/knowledge/).
+- "[Could](/post/could/) [you](/post/you/) [please](/post/please/)...?" is [a](/post/a/) [polite](/post/polite/) [request](/post/request/).
+- "I [could](/post/could/) [care](/post/care/) [less](/post/less/)" [means](/post/means/) [one](/post/one/) does [not](/post/not/) [care](/post/care/) [about](/post/about/) [something](/post/something/).
+- "[She](/post/she/) couldn't [have](/post/have/) known" implies impossibility [of](/post/of/) [knowledge](/post/knowledge/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [could](/en/post/could/) [finish](/en/post/finish/) [this](/en/post/this/) [project](/en/post/project/) [by](/en/post/by/) [tomorrow](/en/post/tomorrow/) [if](/en/post/if/) I [work](/en/post/work/) [overtime](/en/post/overtime/)."
-- **Modal [verb](/en/post/verb/)**: "[You](/en/post/you/) [could](/en/post/could/) [ask](/en/post/ask/) [your](/en/post/your/) [teacher](/en/post/teacher/) [for](/en/post/for/) [help](/en/post/help/) [with](/en/post/with/) [the](/en/post/the/) math [problem](/en/post/problem/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [could](/post/could/) [finish](/post/finish/) [this](/post/this/) [project](/post/project/) [by](/post/by/) [tomorrow](/post/tomorrow/) [if](/post/if/) I [work](/post/work/) [overtime](/post/overtime/)."
+- **Modal [verb](/post/verb/)**: "[You](/post/you/) [could](/post/could/) [ask](/post/ask/) [your](/post/your/) [teacher](/post/teacher/) [for](/post/for/) [help](/post/help/) [with](/post/with/) [the](/post/the/) math [problem](/post/problem/)."
 
 ## Synonyms
-- [Can](/en/post/can/)
-- [Might](/en/post/might/)
-- [Be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/)
-- [Have](/en/post/have/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/)
-- [May](/en/post/may/)
+- [Can](/post/can/)
+- [Might](/post/might/)
+- [Be](/post/be/) [able](/post/able/) [to](/post/to/)
+- [Have](/post/have/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/)
+- [May](/post/may/)
 
 ## Antonyms
 - Cannot
 - Couldn't
-- [Lack](/en/post/lack/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/)
-- [Be](/en/post/be/) [unable](/en/post/unable/) [to](/en/post/to/)
+- [Lack](/post/lack/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/)
+- [Be](/post/be/) [unable](/post/unable/) [to](/post/to/)

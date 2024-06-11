@@ -11,21 +11,21 @@ keywords = ['ai words', 'affection']
 /əˈfekʃən/
 
 ## 释义
-- **名词**: 情感，感情；爱慕，喜爱。例如: "[She](/post/she/) has [deep](/post/deep/) [affection](/post/affection/) [for](/post/for/) [her](/post/her/) grandchildren."
-- **动词**: 影响，感动。例如: "[His](/post/his/) words affected [her](/post/her/) deeply."
+- **名词**: 情感，感情；爱慕，喜爱。例如: "[She](/zh/post/she/) has [deep](/zh/post/deep/) [affection](/zh/post/affection/) [for](/zh/post/for/) [her](/zh/post/her/) grandchildren."
+- **动词**: 影响，感动。例如: "[His](/zh/post/his/) words affected [her](/zh/post/her/) deeply."
 
 ## 短语
-- "[affection](/post/affection/) [for](/post/for/) [someone](/post/someone/)" 对某人的喜爱或情感。
-- "[show](/post/show/) [affection](/post/affection/)" 表现出爱意或关心。
-- "affectionate [gesture](/post/gesture/)" 表达关爱的动作，如拥抱或亲吻。
+- "[affection](/zh/post/affection/) [for](/zh/post/for/) [someone](/zh/post/someone/)" 对某人的喜爱或情感。
+- "[show](/zh/post/show/) [affection](/zh/post/affection/)" 表现出爱意或关心。
+- "affectionate [gesture](/zh/post/gesture/)" 表达关爱的动作，如拥抱或亲吻。
 
 ## 例句
-- 名词: "[The](/post/the/) child's [affection](/post/affection/) [for](/post/for/) [his](/post/his/) [dog](/post/dog/) is [evident](/post/evident/) [in](/post/in/) [the](/post/the/) [way](/post/way/) [he](/post/he/) plays [with](/post/with/) [it](/post/it/)."
-- 动词: "[Her](/post/her/) [speech](/post/speech/) affectioned [many](/post/many/) listeners [with](/post/with/) [its](/post/its/) sincerity."
+- 名词: "[The](/zh/post/the/) child's [affection](/zh/post/affection/) [for](/zh/post/for/) [his](/zh/post/his/) [dog](/zh/post/dog/) is [evident](/zh/post/evident/) [in](/zh/post/in/) [the](/zh/post/the/) [way](/zh/post/way/) [he](/zh/post/he/) plays [with](/zh/post/with/) [it](/zh/post/it/)."
+- 动词: "[Her](/zh/post/her/) [speech](/zh/post/speech/) affectioned [many](/zh/post/many/) listeners [with](/zh/post/with/) [its](/zh/post/its/) sincerity."
 
 ## 同义词
-- [Love](/post/love/)
+- [Love](/zh/post/love/)
 - Fondness
 - Attachment
 - Devotion
-- Affectionate [feeling](/post/feeling/)
+- Affectionate [feeling](/zh/post/feeling/)

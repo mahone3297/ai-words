@@ -11,20 +11,20 @@ keywords = ['ai words', 'deceive']
 / dɪˈsiːv /
 
 ## 释义
-- **动词**: 欺骗，误导，使上当。例如: "[He](/post/he/) deceived [her](/post/her/) [by](/post/by/) pretending [to](/post/to/) [be](/post/be/) [someone](/post/someone/) [else](/post/else/)."
-- **名词**: 欺骗的行为或事实。例如: "[The](/post/the/) [act](/post/act/) [of](/post/of/) [deceive](/post/deceive/) [can](/post/can/) [cause](/post/cause/) [deep](/post/deep/) [emotional](/post/emotional/) [pain](/post/pain/)."
+- **动词**: 欺骗，误导，使上当。例如: "[He](/zh/post/he/) deceived [her](/zh/post/her/) [by](/zh/post/by/) pretending [to](/zh/post/to/) [be](/zh/post/be/) [someone](/zh/post/someone/) [else](/zh/post/else/)."
+- **名词**: 欺骗的行为或事实。例如: "[The](/zh/post/the/) [act](/zh/post/act/) [of](/zh/post/of/) [deceive](/zh/post/deceive/) [can](/zh/post/can/) [cause](/zh/post/cause/) [deep](/zh/post/deep/) [emotional](/zh/post/emotional/) [pain](/zh/post/pain/)."
 
 ## 短语
-- "[deceive](/post/deceive/) [oneself](/post/oneself/)" 意为欺骗自己，自欺欺人。
-- "[to](/post/to/) [deceive](/post/deceive/) sb [into](/post/into/) doing sth" 表示诱使某人做某事。
+- "[deceive](/zh/post/deceive/) [oneself](/zh/post/oneself/)" 意为欺骗自己，自欺欺人。
+- "[to](/zh/post/to/) [deceive](/zh/post/deceive/) sb [into](/zh/post/into/) doing sth" 表示诱使某人做某事。
 
 ## 例句
-- 动词: "[The](/post/the/) con [artist](/post/artist/) deceived [several](/post/several/) [people](/post/people/) [out](/post/out/) [of](/post/of/) [their](/post/their/) [life](/post/life/) savings."
-- 名词: "[His](/post/his/) [deceit](/post/deceit/) [eventually](/post/eventually/) led [to](/post/to/) [his](/post/his/) downfall."
+- 动词: "[The](/zh/post/the/) con [artist](/zh/post/artist/) deceived [several](/zh/post/several/) [people](/zh/post/people/) [out](/zh/post/out/) [of](/zh/post/of/) [their](/zh/post/their/) [life](/zh/post/life/) savings."
+- 名词: "[His](/zh/post/his/) [deceit](/zh/post/deceit/) [eventually](/zh/post/eventually/) led [to](/zh/post/to/) [his](/zh/post/his/) downfall."
 
 ## 同义词
-- [fool](/post/fool/)
-- [trick](/post/trick/)
+- [fool](/zh/post/fool/)
+- [trick](/zh/post/trick/)
 - dupe
-- [mislead](/post/mislead/)
+- [mislead](/zh/post/mislead/)
 - hoodwink

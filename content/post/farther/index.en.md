@@ -7,33 +7,33 @@ description = '[ˈfɑːðə] ad.更远地 a.更远的'
 keywords = ['ai words', 'farther']
 +++
 
-## [Word](/en/post/word/): [Farther](/en/post/farther/)
+## [Word](/post/word/): [Farther](/post/farther/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɑːðər/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Comparative](/en/post/comparative/) [form](/en/post/form/) [of](/en/post/of/) '[far](/en/post/far/)', [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) greater [distance](/en/post/distance/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [park](/en/post/park/) is [farther](/en/post/farther/) [down](/en/post/down/) [this](/en/post/this/) [road](/en/post/road/)."
-  - "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [walk](/en/post/walk/) [farther](/en/post/farther/) [to](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) [lake](/en/post/lake/)."
+- **[Adjective](/post/adjective/)**: [Comparative](/post/comparative/) [form](/post/form/) [of](/post/of/) '[far](/post/far/)', [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) greater [distance](/post/distance/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [park](/post/park/) is [farther](/post/farther/) [down](/post/down/) [this](/post/this/) [road](/post/road/)."
+  - "[We](/post/we/) [need](/post/need/) [to](/post/to/) [walk](/post/walk/) [farther](/post/farther/) [to](/post/to/) [reach](/post/reach/) [the](/post/the/) [lake](/post/lake/)."
   
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) greater [distance](/en/post/distance/); [to](/en/post/to/) [or](/en/post/or/) [at](/en/post/at/) [a](/en/post/a/) greater [distance](/en/post/distance/). [For](/en/post/for/) [example](/en/post/example/): "I [can](/en/post/can/) [throw](/en/post/throw/) [the](/en/post/the/) [ball](/en/post/ball/) [farther](/en/post/farther/) [than](/en/post/than/) [you](/en/post/you/)."
-  - "[She](/en/post/she/) decided [to](/en/post/to/) [travel](/en/post/travel/) [farther](/en/post/farther/) [abroad](/en/post/abroad/) [for](/en/post/for/) [her](/en/post/her/) studies."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) greater [distance](/post/distance/); [to](/post/to/) [or](/post/or/) [at](/post/at/) [a](/post/a/) greater [distance](/post/distance/). [For](/post/for/) [example](/post/example/): "I [can](/post/can/) [throw](/post/throw/) [the](/post/the/) [ball](/post/ball/) [farther](/post/farther/) [than](/post/than/) [you](/post/you/)."
+  - "[She](/post/she/) decided [to](/post/to/) [travel](/post/travel/) [farther](/post/farther/) [abroad](/post/abroad/) [for](/post/for/) [her](/post/her/) studies."
 
 ## Phrases
-- "[Go](/en/post/go/) [farther](/en/post/farther/)": [To](/en/post/to/) [progress](/en/post/progress/) [or](/en/post/or/) [advance](/en/post/advance/) [to](/en/post/to/) [a](/en/post/a/) greater [distance](/en/post/distance/) [or](/en/post/or/) [extent](/en/post/extent/).
-  - "[To](/en/post/to/) [understand](/en/post/understand/) [the](/en/post/the/) [concept](/en/post/concept/) fully, [we](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [go](/en/post/go/) [farther](/en/post/farther/) [than](/en/post/than/) [just](/en/post/just/) [the](/en/post/the/) basics."
-- "[Farther](/en/post/farther/) [along](/en/post/along/)": [At](/en/post/at/) [a](/en/post/a/) [more](/en/post/more/) [advanced](/en/post/advanced/) [stage](/en/post/stage/) [or](/en/post/or/) [point](/en/post/point/) [in](/en/post/in/) [time](/en/post/time/).
-  - "We'll [discuss](/en/post/discuss/) [that](/en/post/that/) [topic](/en/post/topic/) [farther](/en/post/farther/) [along](/en/post/along/) [in](/en/post/in/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+- "[Go](/post/go/) [farther](/post/farther/)": [To](/post/to/) [progress](/post/progress/) [or](/post/or/) [advance](/post/advance/) [to](/post/to/) [a](/post/a/) greater [distance](/post/distance/) [or](/post/or/) [extent](/post/extent/).
+  - "[To](/post/to/) [understand](/post/understand/) [the](/post/the/) [concept](/post/concept/) fully, [we](/post/we/) [need](/post/need/) [to](/post/to/) [go](/post/go/) [farther](/post/farther/) [than](/post/than/) [just](/post/just/) [the](/post/the/) basics."
+- "[Farther](/post/farther/) [along](/post/along/)": [At](/post/at/) [a](/post/a/) [more](/post/more/) [advanced](/post/advanced/) [stage](/post/stage/) [or](/post/or/) [point](/post/point/) [in](/post/in/) [time](/post/time/).
+  - "We'll [discuss](/post/discuss/) [that](/post/that/) [topic](/post/topic/) [farther](/post/farther/) [along](/post/along/) [in](/post/in/) [the](/post/the/) [meeting](/post/meeting/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [train](/en/post/train/) [station](/en/post/station/) is [farther](/en/post/farther/) [from](/en/post/from/) [my](/en/post/my/) [house](/en/post/house/) [than](/en/post/than/) [the](/en/post/the/) [previous](/en/post/previous/) [one](/en/post/one/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) ran [farther](/en/post/farther/) [than](/en/post/than/) [any](/en/post/any/) [other](/en/post/other/) contestant [in](/en/post/in/) [the](/en/post/the/) marathon."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [train](/post/train/) [station](/post/station/) is [farther](/post/farther/) [from](/post/from/) [my](/post/my/) [house](/post/house/) [than](/post/than/) [the](/post/the/) [previous](/post/previous/) [one](/post/one/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) ran [farther](/post/farther/) [than](/post/than/) [any](/post/any/) [other](/post/other/) contestant [in](/post/in/) [the](/post/the/) marathon."
 
 ## Synonyms
-- [Further](/en/post/further/) ([in](/en/post/in/) [some](/en/post/some/) contexts, [further](/en/post/further/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) interchangeably [with](/en/post/with/) [farther](/en/post/farther/) [when](/en/post/when/) referring [to](/en/post/to/) [distance](/en/post/distance/))
-- [More](/en/post/more/) [distant](/en/post/distant/)
-- [Beyond](/en/post/beyond/)
-- [Additional](/en/post/additional/) [distance](/en/post/distance/)
+- [Further](/post/further/) ([in](/post/in/) [some](/post/some/) contexts, [further](/post/further/) [can](/post/can/) [be](/post/be/) [used](/post/used/) interchangeably [with](/post/with/) [farther](/post/farther/) [when](/post/when/) referring [to](/post/to/) [distance](/post/distance/))
+- [More](/post/more/) [distant](/post/distant/)
+- [Beyond](/post/beyond/)
+- [Additional](/post/additional/) [distance](/post/distance/)
 - Remoter
 
-[Note](/en/post/note/): [The](/en/post/the/) [choice](/en/post/choice/) [between](/en/post/between/) "[farther](/en/post/farther/)" [and](/en/post/and/) "[further](/en/post/further/)" [can](/en/post/can/) [sometimes](/en/post/sometimes/) [be](/en/post/be/) regional [or](/en/post/or/) stylistic, [but](/en/post/but/) [generally](/en/post/generally/), "[farther](/en/post/farther/)" is [used](/en/post/used/) [for](/en/post/for/) [physical](/en/post/physical/) distances [while](/en/post/while/) "[further](/en/post/further/)" is [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) metaphorical [or](/en/post/or/) figurative distances. [However](/en/post/however/), [this](/en/post/this/) [distinction](/en/post/distinction/) isn't [always](/en/post/always/) [strictly](/en/post/strictly/) maintained [in](/en/post/in/) [everyday](/en/post/everyday/) [usage](/en/post/usage/).
+[Note](/post/note/): [The](/post/the/) [choice](/post/choice/) [between](/post/between/) "[farther](/post/farther/)" [and](/post/and/) "[further](/post/further/)" [can](/post/can/) [sometimes](/post/sometimes/) [be](/post/be/) regional [or](/post/or/) stylistic, [but](/post/but/) [generally](/post/generally/), "[farther](/post/farther/)" is [used](/post/used/) [for](/post/for/) [physical](/post/physical/) distances [while](/post/while/) "[further](/post/further/)" is [often](/post/often/) [used](/post/used/) [for](/post/for/) metaphorical [or](/post/or/) figurative distances. [However](/post/however/), [this](/post/this/) [distinction](/post/distinction/) isn't [always](/post/always/) [strictly](/post/strictly/) maintained [in](/post/in/) [everyday](/post/everyday/) [usage](/post/usage/).

@@ -7,42 +7,42 @@ description = '[ˈtræfik] n.交通，通行；交通量'
 keywords = ['ai words', 'traffic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtræfɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Traffic](/en/post/traffic/)**: (1) [The](/en/post/the/) [flow](/en/post/flow/) [of](/en/post/of/) [people](/en/post/people/), vehicles, [or](/en/post/or/) [goods](/en/post/goods/) [along](/en/post/along/) [a](/en/post/a/) [road](/en/post/road/), [street](/en/post/street/), [or](/en/post/or/) [network](/en/post/network/), [especially](/en/post/especially/) [during](/en/post/during/) [rush](/en/post/rush/) hours. (2) [A](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) [data](/en/post/data/) transmitted [over](/en/post/over/) [a](/en/post/a/) [network](/en/post/network/). (3) [The](/en/post/the/) [movement](/en/post/movement/) [of](/en/post/of/) [financial](/en/post/financial/) transactions [in](/en/post/in/) [a](/en/post/a/) [market](/en/post/market/). (4) [Air](/en/post/air/) [traffic](/en/post/traffic/), [particularly](/en/post/particularly/) airplanes flying [through](/en/post/through/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/).
+### [Noun](/post/noun/)
+- **[Traffic](/post/traffic/)**: (1) [The](/post/the/) [flow](/post/flow/) [of](/post/of/) [people](/post/people/), vehicles, [or](/post/or/) [goods](/post/goods/) [along](/post/along/) [a](/post/a/) [road](/post/road/), [street](/post/street/), [or](/post/or/) [network](/post/network/), [especially](/post/especially/) [during](/post/during/) [rush](/post/rush/) hours. (2) [A](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) [data](/post/data/) transmitted [over](/post/over/) [a](/post/a/) [network](/post/network/). (3) [The](/post/the/) [movement](/post/movement/) [of](/post/of/) [financial](/post/financial/) transactions [in](/post/in/) [a](/post/a/) [market](/post/market/). (4) [Air](/post/air/) [traffic](/post/traffic/), [particularly](/post/particularly/) airplanes flying [through](/post/through/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [traffic](/en/post/traffic/)**: (1) [To](/en/post/to/) [transport](/en/post/transport/) [goods](/en/post/goods/) [or](/en/post/or/) [people](/en/post/people/) [between](/en/post/between/) places, [often](/en/post/often/) illegally. (2) [To](/en/post/to/) facilitate [or](/en/post/or/) [control](/en/post/control/) [the](/en/post/the/) [movement](/en/post/movement/) [of](/en/post/of/) [goods](/en/post/goods/) [or](/en/post/or/) [people](/en/post/people/), typically [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [business](/en/post/business/) [operation](/en/post/operation/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [traffic](/post/traffic/)**: (1) [To](/post/to/) [transport](/post/transport/) [goods](/post/goods/) [or](/post/or/) [people](/post/people/) [between](/post/between/) places, [often](/post/often/) illegally. (2) [To](/post/to/) facilitate [or](/post/or/) [control](/post/control/) [the](/post/the/) [movement](/post/movement/) [of](/post/of/) [goods](/post/goods/) [or](/post/or/) [people](/post/people/), typically [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [business](/post/business/) [operation](/post/operation/).
 
 ## Phrases
-- "[Heavy](/en/post/heavy/) [traffic](/en/post/traffic/)" indicates [a](/en/post/a/) congested [state](/en/post/state/).
-- "[Traffic](/en/post/traffic/) [jam](/en/post/jam/)" refers [to](/en/post/to/) [a](/en/post/a/) blockage [of](/en/post/of/) vehicles.
-- "Internet [traffic](/en/post/traffic/)" is [the](/en/post/the/) [flow](/en/post/flow/) [of](/en/post/of/) [data](/en/post/data/) [on](/en/post/on/) [the](/en/post/the/) web.
-- "[Air](/en/post/air/) [traffic](/en/post/traffic/) [control](/en/post/control/)" manages [the](/en/post/the/) [movement](/en/post/movement/) [of](/en/post/of/) [aircraft](/en/post/aircraft/).
+- "[Heavy](/post/heavy/) [traffic](/post/traffic/)" indicates [a](/post/a/) congested [state](/post/state/).
+- "[Traffic](/post/traffic/) [jam](/post/jam/)" refers [to](/post/to/) [a](/post/a/) blockage [of](/post/of/) vehicles.
+- "Internet [traffic](/post/traffic/)" is [the](/post/the/) [flow](/post/flow/) [of](/post/of/) [data](/post/data/) [on](/post/on/) [the](/post/the/) web.
+- "[Air](/post/air/) [traffic](/post/traffic/) [control](/post/control/)" manages [the](/post/the/) [movement](/post/movement/) [of](/post/of/) [aircraft](/post/aircraft/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [morning](/en/post/morning/) commute was plagued [by](/en/post/by/) [heavy](/en/post/heavy/) [traffic](/en/post/traffic/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) smugglers were caught trafficking drugs [across](/en/post/across/) [the](/en/post/the/) [border](/en/post/border/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) optimizes internet [traffic](/en/post/traffic/) [to](/en/post/to/) [improve](/en/post/improve/) website [performance](/en/post/performance/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [morning](/post/morning/) commute was plagued [by](/post/by/) [heavy](/post/heavy/) [traffic](/post/traffic/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) smugglers were caught trafficking drugs [across](/post/across/) [the](/post/the/) [border](/post/border/)."
+- **[As](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "[The](/post/the/) [company](/post/company/) optimizes internet [traffic](/post/traffic/) [to](/post/to/) [improve](/post/improve/) website [performance](/post/performance/)."
 
 ## Synonyms
-- [Flow](/en/post/flow/)
-- [Movement](/en/post/movement/)
+- [Flow](/post/flow/)
+- [Movement](/post/movement/)
 - Circulation
 - Congestion
-- [Volume](/en/post/volume/) ([traffic](/en/post/traffic/))
-- [Exchange](/en/post/exchange/) ([financial](/en/post/financial/))
-- Airflow ([aviation](/en/post/aviation/))
-- [Transportation](/en/post/transportation/)
-- [Stream](/en/post/stream/) ([data](/en/post/data/))
+- [Volume](/post/volume/) ([traffic](/post/traffic/))
+- [Exchange](/post/exchange/) ([financial](/post/financial/))
+- Airflow ([aviation](/post/aviation/))
+- [Transportation](/post/transportation/)
+- [Stream](/post/stream/) ([data](/post/data/))
 
 ## Antonyms
-- [Empty](/en/post/empty/)
+- [Empty](/post/empty/)
 - Sparse
-- [Clear](/en/post/clear/)
-- [Smooth](/en/post/smooth/) ([traffic](/en/post/traffic/))
-- [Static](/en/post/static/) ([data](/en/post/data/))
-- [Calm](/en/post/calm/) ([aviation](/en/post/aviation/))
+- [Clear](/post/clear/)
+- [Smooth](/post/smooth/) ([traffic](/post/traffic/))
+- [Static](/post/static/) ([data](/post/data/))
+- [Calm](/post/calm/) ([aviation](/post/aviation/))

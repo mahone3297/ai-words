@@ -7,27 +7,27 @@ description = '[ˈpiːsful] a.和平的；安静的'
 keywords = ['ai words', 'peaceful']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /piːˈsfʊl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) disturbance, [conflict](/en/post/conflict/), [or](/en/post/or/) [violence](/en/post/violence/); [calm](/en/post/calm/) [and](/en/post/and/) tranquil. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [peaceful](/en/post/peaceful/) [countryside](/en/post/countryside/) [provided](/en/post/provided/) [a](/en/post/a/) [welcome](/en/post/welcome/) respite [from](/en/post/from/) [the](/en/post/the/) [city](/en/post/city/) [noise](/en/post/noise/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [peaceful](/en/post/peaceful/) [state](/en/post/state/) [or](/en/post/or/) [atmosphere](/en/post/atmosphere/); tranquility. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [park](/en/post/park/) was filled [with](/en/post/with/) [a](/en/post/a/) serene [and](/en/post/and/) [peaceful](/en/post/peaceful/) [atmosphere](/en/post/atmosphere/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [peaceful](/en/post/peaceful/) [manner](/en/post/manner/); [without](/en/post/without/) causing [trouble](/en/post/trouble/) [or](/en/post/or/) disturbance. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) slept peacefully [throughout](/en/post/throughout/) [the](/en/post/the/) [night](/en/post/night/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) disturbance, [conflict](/post/conflict/), [or](/post/or/) [violence](/post/violence/); [calm](/post/calm/) [and](/post/and/) tranquil. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [peaceful](/post/peaceful/) [countryside](/post/countryside/) [provided](/post/provided/) [a](/post/a/) [welcome](/post/welcome/) respite [from](/post/from/) [the](/post/the/) [city](/post/city/) [noise](/post/noise/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [peaceful](/post/peaceful/) [state](/post/state/) [or](/post/or/) [atmosphere](/post/atmosphere/); tranquility. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [park](/post/park/) was filled [with](/post/with/) [a](/post/a/) serene [and](/post/and/) [peaceful](/post/peaceful/) [atmosphere](/post/atmosphere/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [peaceful](/post/peaceful/) [manner](/post/manner/); [without](/post/without/) causing [trouble](/post/trouble/) [or](/post/or/) disturbance. [For](/post/for/) [example](/post/example/): "[She](/post/she/) slept peacefully [throughout](/post/throughout/) [the](/post/the/) [night](/post/night/)."
 
 ## Phrases
-- "[Live](/en/post/live/) [in](/en/post/in/) [peace](/en/post/peace/)" [means](/en/post/means/) [to](/en/post/to/) [live](/en/post/live/) [without](/en/post/without/) [conflict](/en/post/conflict/) [or](/en/post/or/) strife.
-- "[Seek](/en/post/seek/) [peaceful](/en/post/peaceful/) [resolution](/en/post/resolution/)" refers [to](/en/post/to/) [finding](/en/post/finding/) [a](/en/post/a/) non-violent [solution](/en/post/solution/) [to](/en/post/to/) [a](/en/post/a/) disagreement.
-- "[Peaceful](/en/post/peaceful/) coexistence" denotes harmonious [living](/en/post/living/) alongside others.
+- "[Live](/post/live/) [in](/post/in/) [peace](/post/peace/)" [means](/post/means/) [to](/post/to/) [live](/post/live/) [without](/post/without/) [conflict](/post/conflict/) [or](/post/or/) strife.
+- "[Seek](/post/seek/) [peaceful](/post/peaceful/) [resolution](/post/resolution/)" refers [to](/post/to/) [finding](/post/finding/) [a](/post/a/) non-violent [solution](/post/solution/) [to](/post/to/) [a](/post/a/) disagreement.
+- "[Peaceful](/post/peaceful/) coexistence" denotes harmonious [living](/post/living/) alongside others.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) children enjoyed playing [in](/en/post/in/) [the](/en/post/the/) [peaceful](/en/post/peaceful/) [garden](/en/post/garden/)."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [she](/en/post/she/) craved [a](/en/post/a/) [peaceful](/en/post/peaceful/) [evening](/en/post/evening/) [at](/en/post/at/) [home](/en/post/home/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) negotiations were conducted peacefully, [with](/en/post/with/) [both](/en/post/both/) sides showing [mutual](/en/post/mutual/) [respect](/en/post/respect/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) children enjoyed playing [in](/post/in/) [the](/post/the/) [peaceful](/post/peaceful/) [garden](/post/garden/)."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [she](/post/she/) craved [a](/post/a/) [peaceful](/post/peaceful/) [evening](/post/evening/) [at](/post/at/) [home](/post/home/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) negotiations were conducted peacefully, [with](/post/with/) [both](/post/both/) sides showing [mutual](/post/mutual/) [respect](/post/respect/)."
 
 ## Synonyms
-- [Calm](/en/post/calm/)
-- [Quiet](/en/post/quiet/)
+- [Calm](/post/calm/)
+- [Quiet](/post/quiet/)
 - Serene
 - Tranquil
 - Non-violent
@@ -38,9 +38,9 @@ keywords = ['ai words', 'peaceful']
 ## Antonyms
 - Warlike
 - Agitated
-- [Turbulent](/en/post/turbulent/)
-- [Hostile](/en/post/hostile/)
+- [Turbulent](/post/turbulent/)
+- [Hostile](/post/hostile/)
 - Discordant
-- [Violent](/en/post/violent/)
-- [Stormy](/en/post/stormy/)
+- [Violent](/post/violent/)
+- [Stormy](/post/stormy/)
 - Unsettling

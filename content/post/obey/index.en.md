@@ -7,36 +7,36 @@ description = '[əuˈbei] vt.顺从 vi.服从'
 keywords = ['ai words', 'obey']
 +++
 
-## [Word](/en/post/word/): [Obey](/en/post/obey/)
+## [Word](/post/word/): [Obey](/post/obey/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈbeɪ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) comply [with](/en/post/with/) [or](/en/post/or/) [follow](/en/post/follow/) [the](/en/post/the/) orders, rules, instructions, [or](/en/post/or/) wishes [of](/en/post/of/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) submitting [oneself](/en/post/oneself/) [to](/en/post/to/) [a](/en/post/a/) recognized [authority](/en/post/authority/) [or](/en/post/or/) [law](/en/post/law/).
+- **[Verb](/post/verb/)**: [To](/post/to/) comply [with](/post/with/) [or](/post/or/) [follow](/post/follow/) [the](/post/the/) orders, rules, instructions, [or](/post/or/) wishes [of](/post/of/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) submitting [oneself](/post/oneself/) [to](/post/to/) [a](/post/a/) recognized [authority](/post/authority/) [or](/post/or/) [law](/post/law/).
 
-[Example](/en/post/example/) sentences:
-- **[Verb](/en/post/verb/)**: "Children [must](/en/post/must/) [obey](/en/post/obey/) [their](/en/post/their/) parents."
-- "[The](/en/post/the/) soldiers were trained [to](/en/post/to/) [immediately](/en/post/immediately/) [obey](/en/post/obey/) commands."
-- "[She](/en/post/she/) promised [to](/en/post/to/) [obey](/en/post/obey/) [her](/en/post/her/) doctor's [advice](/en/post/advice/) [on](/en/post/on/) diet [and](/en/post/and/) [exercise](/en/post/exercise/)."
+[Example](/post/example/) sentences:
+- **[Verb](/post/verb/)**: "Children [must](/post/must/) [obey](/post/obey/) [their](/post/their/) parents."
+- "[The](/post/the/) soldiers were trained [to](/post/to/) [immediately](/post/immediately/) [obey](/post/obey/) commands."
+- "[She](/post/she/) promised [to](/post/to/) [obey](/post/obey/) [her](/post/her/) doctor's [advice](/post/advice/) [on](/post/on/) diet [and](/post/and/) [exercise](/post/exercise/)."
 
 ### Phrases
-- "[To](/en/post/to/) [obey](/en/post/obey/) one's [conscience](/en/post/conscience/)" [means](/en/post/means/) [to](/en/post/to/) [act](/en/post/act/) according [to](/en/post/to/) [what](/en/post/what/) [one](/en/post/one/) believes is morally [right](/en/post/right/).
-- "[Obey](/en/post/obey/) [the](/en/post/the/) [law](/en/post/law/)" refers [to](/en/post/to/) adhering [to](/en/post/to/) [the](/en/post/the/) rules [and](/en/post/and/) regulations [set](/en/post/set/) [by](/en/post/by/) [the](/en/post/the/) [government](/en/post/government/).
-- "[Obey](/en/post/obey/) [the](/en/post/the/) [call](/en/post/call/)" [could](/en/post/could/) [mean](/en/post/mean/) responding positively [to](/en/post/to/) [a](/en/post/a/) summons, [invitation](/en/post/invitation/), [or](/en/post/or/) [inner](/en/post/inner/) prompting.
+- "[To](/post/to/) [obey](/post/obey/) one's [conscience](/post/conscience/)" [means](/post/means/) [to](/post/to/) [act](/post/act/) according [to](/post/to/) [what](/post/what/) [one](/post/one/) believes is morally [right](/post/right/).
+- "[Obey](/post/obey/) [the](/post/the/) [law](/post/law/)" refers [to](/post/to/) adhering [to](/post/to/) [the](/post/the/) rules [and](/post/and/) regulations [set](/post/set/) [by](/post/by/) [the](/post/the/) [government](/post/government/).
+- "[Obey](/post/obey/) [the](/post/the/) [call](/post/call/)" [could](/post/could/) [mean](/post/mean/) responding positively [to](/post/to/) [a](/post/a/) summons, [invitation](/post/invitation/), [or](/post/or/) [inner](/post/inner/) prompting.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [will](/en/post/will/) [obey](/en/post/obey/) [your](/en/post/your/) instructions carefully [to](/en/post/to/) [avoid](/en/post/avoid/) [any](/en/post/any/) mistakes."
-- "[They](/en/post/they/) had [no](/en/post/no/) [choice](/en/post/choice/) [but](/en/post/but/) [to](/en/post/to/) [obey](/en/post/obey/) [the](/en/post/the/) [court](/en/post/court/) [order](/en/post/order/)."
-- "[He](/en/post/he/) was praised [for](/en/post/for/) [his](/en/post/his/) willingness [to](/en/post/to/) [obey](/en/post/obey/) [without](/en/post/without/) [question](/en/post/question/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [will](/post/will/) [obey](/post/obey/) [your](/post/your/) instructions carefully [to](/post/to/) [avoid](/post/avoid/) [any](/post/any/) mistakes."
+- "[They](/post/they/) had [no](/post/no/) [choice](/post/choice/) [but](/post/but/) [to](/post/to/) [obey](/post/obey/) [the](/post/the/) [court](/post/court/) [order](/post/order/)."
+- "[He](/post/he/) was praised [for](/post/for/) [his](/post/his/) willingness [to](/post/to/) [obey](/post/obey/) [without](/post/without/) [question](/post/question/)."
 
 ## Synonyms
-- [Follow](/en/post/follow/)
-- Comply [with](/en/post/with/)
-- [Submit](/en/post/submit/) [to](/en/post/to/)
-- [Yield](/en/post/yield/) [to](/en/post/to/)
-- Adhere [to](/en/post/to/)
-- Abide [by](/en/post/by/)
-- Conform [to](/en/post/to/)
+- [Follow](/post/follow/)
+- Comply [with](/post/with/)
+- [Submit](/post/submit/) [to](/post/to/)
+- [Yield](/post/yield/) [to](/post/to/)
+- Adhere [to](/post/to/)
+- Abide [by](/post/by/)
+- Conform [to](/post/to/)
 - Heed
-- [Respect](/en/post/respect/)
+- [Respect](/post/respect/)

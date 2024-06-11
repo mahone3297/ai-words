@@ -11,27 +11,27 @@ keywords = ['ai words', 'down']
 /daʊn/
 
 ## 释义
-- **副词**: 向下，朝下。例如: "[Please](/post/please/) [put](/post/put/) [the](/post/the/) [book](/post/book/) [down](/post/down/) [on](/post/on/) [the](/post/the/) [table](/post/table/)."
-- **形容词**: 下方的，下降的。例如: "[The](/post/the/) [stock](/post/stock/) [market](/post/market/) is [down](/post/down/) [today](/post/today/)."
-- **动词**: 放下，降低。例如: "I [need](/post/need/) [to](/post/to/) [down](/post/down/) [my](/post/my/) [luggage](/post/luggage/) [before](/post/before/) boarding [the](/post/the/) [plane](/post/plane/)."
-- **名词**: (计算机)关闭，断电。例如: "[The](/post/the/) server went [down](/post/down/) [for](/post/for/) [maintenance](/post/maintenance/)."
-- **介词**: 沿着，朝向。例如: "[We](/post/we/) drove [down](/post/down/) [the](/post/the/) [hill](/post/hill/)."
+- **副词**: 向下，朝下。例如: "[Please](/zh/post/please/) [put](/zh/post/put/) [the](/zh/post/the/) [book](/zh/post/book/) [down](/zh/post/down/) [on](/zh/post/on/) [the](/zh/post/the/) [table](/zh/post/table/)."
+- **形容词**: 下方的，下降的。例如: "[The](/zh/post/the/) [stock](/zh/post/stock/) [market](/zh/post/market/) is [down](/zh/post/down/) [today](/zh/post/today/)."
+- **动词**: 放下，降低。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [down](/zh/post/down/) [my](/zh/post/my/) [luggage](/zh/post/luggage/) [before](/zh/post/before/) boarding [the](/zh/post/the/) [plane](/zh/post/plane/)."
+- **名词**: (计算机)关闭，断电。例如: "[The](/zh/post/the/) server went [down](/zh/post/down/) [for](/zh/post/for/) [maintenance](/zh/post/maintenance/)."
+- **介词**: 沿着，朝向。例如: "[We](/zh/post/we/) drove [down](/zh/post/down/) [the](/zh/post/the/) [hill](/zh/post/hill/)."
 
 ## 短语
-- "[Sit](/post/sit/) [down](/post/down/)" 意为坐下。
-- "[Put](/post/put/) [something](/post/something/) [down](/post/down/)" 意为放下某物。
-- "[Turn](/post/turn/) [down](/post/down/)" 可以指拒绝或调低音量。
+- "[Sit](/zh/post/sit/) [down](/zh/post/down/)" 意为坐下。
+- "[Put](/zh/post/put/) [something](/zh/post/something/) [down](/zh/post/down/)" 意为放下某物。
+- "[Turn](/zh/post/turn/) [down](/zh/post/down/)" 可以指拒绝或调低音量。
 
 ## 例句
-- 副词: "[The](/post/the/) [bird](/post/bird/) flew [down](/post/down/) [from](/post/from/) [the](/post/the/) [tree](/post/tree/)."
-- 形容词: "[Her](/post/her/) [mood](/post/mood/) was [down](/post/down/) [after](/post/after/) [the](/post/the/) disappointing [news](/post/news/)."
-- 动词: "[He](/post/he/) downed [his](/post/his/) [glass](/post/glass/) [of](/post/of/) [water](/post/water/) [in](/post/in/) [one](/post/one/) gulp."
-- 名词: "[The](/post/the/) [power](/post/power/) went [down](/post/down/) [at](/post/at/) [midnight](/post/midnight/)."
-- 介词: "[She](/post/she/) walked [down](/post/down/) [the](/post/the/) aisle."
+- 副词: "[The](/zh/post/the/) [bird](/zh/post/bird/) flew [down](/zh/post/down/) [from](/zh/post/from/) [the](/zh/post/the/) [tree](/zh/post/tree/)."
+- 形容词: "[Her](/zh/post/her/) [mood](/zh/post/mood/) was [down](/zh/post/down/) [after](/zh/post/after/) [the](/zh/post/the/) disappointing [news](/zh/post/news/)."
+- 动词: "[He](/zh/post/he/) downed [his](/zh/post/his/) [glass](/zh/post/glass/) [of](/zh/post/of/) [water](/zh/post/water/) [in](/zh/post/in/) [one](/zh/post/one/) gulp."
+- 名词: "[The](/zh/post/the/) [power](/zh/post/power/) went [down](/zh/post/down/) [at](/zh/post/at/) [midnight](/zh/post/midnight/)."
+- 介词: "[She](/zh/post/she/) walked [down](/zh/post/down/) [the](/zh/post/the/) aisle."
 
 ## 同义词
-- [Downward](/post/downward/)
-- [Lower](/post/lower/)
-- [Descend](/post/descend/)
-- [Decrease](/post/decrease/)
-- [Off](/post/off/)
+- [Downward](/zh/post/downward/)
+- [Lower](/zh/post/lower/)
+- [Descend](/zh/post/descend/)
+- [Decrease](/zh/post/decrease/)
+- [Off](/zh/post/off/)

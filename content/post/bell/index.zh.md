@@ -12,20 +12,20 @@ keywords = ['ai words', 'bell']
 
 ## 释义
 - **名词**:
-  - 一个发出响声的装置，通常由金属制成，用于通知、警告或召集。例如: "[The](/post/the/) [church](/post/church/) [bell](/post/bell/) rang [to](/post/to/) [signal](/post/signal/) [the](/post/the/) [start](/post/start/) [of](/post/of/) [the](/post/the/) [service](/post/service/)."
-  - 电话或电子设备上的铃声。例如: "I heard [my](/post/my/) phone's [bell](/post/bell/) [when](/post/when/) I received [a](/post/a/) [text](/post/text/) [message](/post/message/)."
+  - 一个发出响声的装置，通常由金属制成，用于通知、警告或召集。例如: "[The](/zh/post/the/) [church](/zh/post/church/) [bell](/zh/post/bell/) rang [to](/zh/post/to/) [signal](/zh/post/signal/) [the](/zh/post/the/) [start](/zh/post/start/) [of](/zh/post/of/) [the](/zh/post/the/) [service](/zh/post/service/)."
+  - 电话或电子设备上的铃声。例如: "I heard [my](/zh/post/my/) phone's [bell](/zh/post/bell/) [when](/zh/post/when/) I received [a](/zh/post/a/) [text](/zh/post/text/) [message](/zh/post/message/)."
 
 ## 短语
-- "[Ring](/post/ring/) [the](/post/the/) [bell](/post/bell/)" 意为敲钟或使铃声响起。
-- "[Bell](/post/bell/) [the](/post/the/) [cat](/post/cat/)" 是一个成语，意为采取勇敢行动对付强大的敌人或困难。
+- "[Ring](/zh/post/ring/) [the](/zh/post/the/) [bell](/zh/post/bell/)" 意为敲钟或使铃声响起。
+- "[Bell](/zh/post/bell/) [the](/zh/post/the/) [cat](/zh/post/cat/)" 是一个成语，意为采取勇敢行动对付强大的敌人或困难。
 
 ## 例句
-- 名词: "[The](/post/the/) [fire](/post/fire/) [alarm](/post/alarm/) sounded, [and](/post/and/) [we](/post/we/) knew [it](/post/it/) was [time](/post/time/) [to](/post/to/) evacuate [because](/post/because/) [of](/post/of/) [the](/post/the/) [bell](/post/bell/)."
-- 动词（非标准用法）: "[He](/post/he/) [bell](/post/bell/) [the](/post/the/) doorbell, [but](/post/but/) [nobody](/post/nobody/) answered."
+- 名词: "[The](/zh/post/the/) [fire](/zh/post/fire/) [alarm](/zh/post/alarm/) sounded, [and](/zh/post/and/) [we](/zh/post/we/) knew [it](/zh/post/it/) was [time](/zh/post/time/) [to](/zh/post/to/) evacuate [because](/zh/post/because/) [of](/zh/post/of/) [the](/zh/post/the/) [bell](/zh/post/bell/)."
+- 动词（非标准用法）: "[He](/zh/post/he/) [bell](/zh/post/bell/) [the](/zh/post/the/) doorbell, [but](/zh/post/but/) [nobody](/zh/post/nobody/) answered."
 
 ## 同义词
 - Chime
 - Gong
-- [Tone](/post/tone/)
-- [Signal](/post/signal/)
+- [Tone](/zh/post/tone/)
+- [Signal](/zh/post/signal/)
 - Sounder

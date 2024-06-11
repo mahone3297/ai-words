@@ -7,41 +7,41 @@ description = '[∫uːt] vt.发射；射中 n.发芽'
 keywords = ['ai words', 'shoot']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /shuːt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) shooting, releasing [a](/en/post/a/) projectile [from](/en/post/from/) [a](/en/post/a/) [weapon](/en/post/weapon/) [or](/en/post/or/) [camera](/en/post/camera/): *[The](/en/post/the/) hunter aimed [and](/en/post/and/) [shot](/en/post/shot/) [at](/en/post/at/) [the](/en/post/the/) [target](/en/post/target/).*
-2. [A](/en/post/a/) [photograph](/en/post/photograph/) [or](/en/post/or/) [film](/en/post/film/) taken [with](/en/post/with/) [a](/en/post/a/) [camera](/en/post/camera/): *[He](/en/post/he/) took [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) shots [of](/en/post/of/) [the](/en/post/the/) [sunset](/en/post/sunset/).*
-3. An [attempt](/en/post/attempt/) [or](/en/post/or/) [attempt](/en/post/attempt/) [to](/en/post/to/) [achieve](/en/post/achieve/) [something](/en/post/something/): *[She](/en/post/she/) made [a](/en/post/a/) last-minute [shot](/en/post/shot/) [at](/en/post/at/) [the](/en/post/the/) championship [title](/en/post/title/).*
-4. [A](/en/post/a/) [sudden](/en/post/sudden/) [or](/en/post/or/) [violent](/en/post/violent/) [event](/en/post/event/): *[The](/en/post/the/) [explosion](/en/post/explosion/) caused [a](/en/post/a/) [shock](/en/post/shock/) [wave](/en/post/wave/) [that](/en/post/that/) [shot](/en/post/shot/) [through](/en/post/through/) [the](/en/post/the/) [building](/en/post/building/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) shooting, releasing [a](/post/a/) projectile [from](/post/from/) [a](/post/a/) [weapon](/post/weapon/) [or](/post/or/) [camera](/post/camera/): *[The](/post/the/) hunter aimed [and](/post/and/) [shot](/post/shot/) [at](/post/at/) [the](/post/the/) [target](/post/target/).*
+2. [A](/post/a/) [photograph](/post/photograph/) [or](/post/or/) [film](/post/film/) taken [with](/post/with/) [a](/post/a/) [camera](/post/camera/): *[He](/post/he/) took [a](/post/a/) [series](/post/series/) [of](/post/of/) shots [of](/post/of/) [the](/post/the/) [sunset](/post/sunset/).*
+3. An [attempt](/post/attempt/) [or](/post/or/) [attempt](/post/attempt/) [to](/post/to/) [achieve](/post/achieve/) [something](/post/something/): *[She](/post/she/) made [a](/post/a/) last-minute [shot](/post/shot/) [at](/post/at/) [the](/post/the/) championship [title](/post/title/).*
+4. [A](/post/a/) [sudden](/post/sudden/) [or](/post/or/) [violent](/post/violent/) [event](/post/event/): *[The](/post/the/) [explosion](/post/explosion/) caused [a](/post/a/) [shock](/post/shock/) [wave](/post/wave/) [that](/post/that/) [shot](/post/shot/) [through](/post/through/) [the](/post/the/) [building](/post/building/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [fire](/en/post/fire/) [a](/en/post/a/) [weapon](/en/post/weapon/) [or](/en/post/or/) [discharge](/en/post/discharge/) [a](/en/post/a/) projectile: *[The](/en/post/the/) [soldier](/en/post/soldier/) [shot](/en/post/shot/) [at](/en/post/at/) [the](/en/post/the/) [enemy](/en/post/enemy/).*
-2. [To](/en/post/to/) [press](/en/post/press/) [a](/en/post/a/) [button](/en/post/button/) [or](/en/post/or/) [lever](/en/post/lever/) [to](/en/post/to/) [release](/en/post/release/) [a](/en/post/a/) [substance](/en/post/substance/) [or](/en/post/or/) [energy](/en/post/energy/): *I [shot](/en/post/shot/) [the](/en/post/the/) syringe [into](/en/post/into/) [the](/en/post/the/) patient's [arm](/en/post/arm/).*
-3. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [rapid](/en/post/rapid/) [movement](/en/post/movement/) [or](/en/post/or/) [action](/en/post/action/): *[He](/en/post/he/) [quickly](/en/post/quickly/) [shot](/en/post/shot/) [up](/en/post/up/) [from](/en/post/from/) [his](/en/post/his/) [chair](/en/post/chair/).*
-4. [To](/en/post/to/) [express](/en/post/express/) [or](/en/post/or/) [convey](/en/post/convey/) an [emotion](/en/post/emotion/) [or](/en/post/or/) [feeling](/en/post/feeling/): *[Her](/en/post/her/) eyes [shot](/en/post/shot/) daggers [at](/en/post/at/) [him](/en/post/him/) [when](/en/post/when/) [he](/en/post/he/) criticized [her](/en/post/her/) [work](/en/post/work/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [fire](/post/fire/) [a](/post/a/) [weapon](/post/weapon/) [or](/post/or/) [discharge](/post/discharge/) [a](/post/a/) projectile: *[The](/post/the/) [soldier](/post/soldier/) [shot](/post/shot/) [at](/post/at/) [the](/post/the/) [enemy](/post/enemy/).*
+2. [To](/post/to/) [press](/post/press/) [a](/post/a/) [button](/post/button/) [or](/post/or/) [lever](/post/lever/) [to](/post/to/) [release](/post/release/) [a](/post/a/) [substance](/post/substance/) [or](/post/or/) [energy](/post/energy/): *I [shot](/post/shot/) [the](/post/the/) syringe [into](/post/into/) [the](/post/the/) patient's [arm](/post/arm/).*
+3. [To](/post/to/) [make](/post/make/) [a](/post/a/) [rapid](/post/rapid/) [movement](/post/movement/) [or](/post/or/) [action](/post/action/): *[He](/post/he/) [quickly](/post/quickly/) [shot](/post/shot/) [up](/post/up/) [from](/post/from/) [his](/post/his/) [chair](/post/chair/).*
+4. [To](/post/to/) [express](/post/express/) [or](/post/or/) [convey](/post/convey/) an [emotion](/post/emotion/) [or](/post/or/) [feeling](/post/feeling/): *[Her](/post/her/) eyes [shot](/post/shot/) daggers [at](/post/at/) [him](/post/him/) [when](/post/when/) [he](/post/he/) criticized [her](/post/her/) [work](/post/work/).*
 
-### [Adjective](/en/post/adjective/)
-1. Directed [or](/en/post/or/) aimed: *[The](/en/post/the/) [laser](/en/post/laser/) [beam](/en/post/beam/) was [shot](/en/post/shot/) [straight](/en/post/straight/) [ahead](/en/post/ahead/).*
-2. [Fast](/en/post/fast/) [or](/en/post/or/) [rapid](/en/post/rapid/): *[The](/en/post/the/) [bullet](/en/post/bullet/) [shot](/en/post/shot/) [through](/en/post/through/) [the](/en/post/the/) [air](/en/post/air/) [in](/en/post/in/) seconds.*
-3. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [sharp](/en/post/sharp/), [quick](/en/post/quick/) [movement](/en/post/movement/): *[Her](/en/post/her/) [hair](/en/post/hair/) had [a](/en/post/a/) shiny, [shot](/en/post/shot/) [look](/en/post/look/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [sun](/en/post/sun/) [exposure](/en/post/exposure/).*
+### [Adjective](/post/adjective/)
+1. Directed [or](/post/or/) aimed: *[The](/post/the/) [laser](/post/laser/) [beam](/post/beam/) was [shot](/post/shot/) [straight](/post/straight/) [ahead](/post/ahead/).*
+2. [Fast](/post/fast/) [or](/post/or/) [rapid](/post/rapid/): *[The](/post/the/) [bullet](/post/bullet/) [shot](/post/shot/) [through](/post/through/) [the](/post/the/) [air](/post/air/) [in](/post/in/) seconds.*
+3. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [sharp](/post/sharp/), [quick](/post/quick/) [movement](/post/movement/): *[Her](/post/her/) [hair](/post/hair/) had [a](/post/a/) shiny, [shot](/post/shot/) [look](/post/look/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [sun](/post/sun/) [exposure](/post/exposure/).*
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [shot](/en/post/shot/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) an [attempt](/en/post/attempt/) [or](/en/post/or/) [try](/en/post/try/) [something](/en/post/something/).
-- "[Shot](/en/post/shot/) [glass](/en/post/glass/)" is [a](/en/post/a/) [small](/en/post/small/), [usually](/en/post/usually/) stemmed [glass](/en/post/glass/) [used](/en/post/used/) [for](/en/post/for/) shots.
-- "[In](/en/post/in/) [one](/en/post/one/) [shot](/en/post/shot/)" describes completing [something](/en/post/something/) [without](/en/post/without/) [interruption](/en/post/interruption/).
+- "[Take](/post/take/) [a](/post/a/) [shot](/post/shot/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) an [attempt](/post/attempt/) [or](/post/or/) [try](/post/try/) [something](/post/something/).
+- "[Shot](/post/shot/) [glass](/post/glass/)" is [a](/post/a/) [small](/post/small/), [usually](/post/usually/) stemmed [glass](/post/glass/) [used](/post/used/) [for](/post/for/) shots.
+- "[In](/post/in/) [one](/post/one/) [shot](/post/shot/)" describes completing [something](/post/something/) [without](/post/without/) [interruption](/post/interruption/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[The](/en/post/the/) photographer snapped [a](/en/post/a/) [few](/en/post/few/) shots [of](/en/post/of/) [the](/en/post/the/) bride [and](/en/post/and/) groom.*
-- **[Verb](/en/post/verb/)**: *[He](/en/post/he/) [shot](/en/post/shot/) [the](/en/post/the/) [basketball](/en/post/basketball/) [through](/en/post/through/) [the](/en/post/the/) hoop [with](/en/post/with/) [ease](/en/post/ease/).*
-- **[Adjective](/en/post/adjective/)**: *[The](/en/post/the/) [arrow](/en/post/arrow/) [shot](/en/post/shot/) [through](/en/post/through/) [the](/en/post/the/) [target](/en/post/target/) [with](/en/post/with/) [precision](/en/post/precision/).*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[The](/post/the/) photographer snapped [a](/post/a/) [few](/post/few/) shots [of](/post/of/) [the](/post/the/) bride [and](/post/and/) groom.*
+- **[Verb](/post/verb/)**: *[He](/post/he/) [shot](/post/shot/) [the](/post/the/) [basketball](/post/basketball/) [through](/post/through/) [the](/post/the/) hoop [with](/post/with/) [ease](/post/ease/).*
+- **[Adjective](/post/adjective/)**: *[The](/post/the/) [arrow](/post/arrow/) [shot](/post/shot/) [through](/post/through/) [the](/post/the/) [target](/post/target/) [with](/post/with/) [precision](/post/precision/).*
 
 ## Synonyms
-- [Fire](/en/post/fire/)
-- [Launch](/en/post/launch/)
+- [Fire](/post/fire/)
+- [Launch](/post/launch/)
 - Dispatch
-- [Release](/en/post/release/)
-- [Aim](/en/post/aim/)
-- [Express](/en/post/express/) (emotionally)
+- [Release](/post/release/)
+- [Aim](/post/aim/)
+- [Express](/post/express/) (emotionally)

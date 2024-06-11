@@ -11,22 +11,22 @@ keywords = ['ai words', 'elaborate']
 /eləˈbeɪtər/
 
 ## 释义
-- **形容词**: 详尽的，复杂的；精心制作的。例如: "[The](/post/the/) [elaborate](/post/elaborate/) [design](/post/design/) took hours [to](/post/to/) [complete](/post/complete/)."
-- **动词**: 详细阐述，详尽说明。例如: "[He](/post/he/) elaborated [on](/post/on/) [his](/post/his/) plans [for](/post/for/) [the](/post/the/) [project](/post/project/)."
-- **名词**: （复杂或精致的）作品，设计。例如: "[The](/post/the/) [wedding](/post/wedding/) [cake](/post/cake/) was an [elaborate](/post/elaborate/) [masterpiece](/post/masterpiece/)."
+- **形容词**: 详尽的，复杂的；精心制作的。例如: "[The](/zh/post/the/) [elaborate](/zh/post/elaborate/) [design](/zh/post/design/) took hours [to](/zh/post/to/) [complete](/zh/post/complete/)."
+- **动词**: 详细阐述，详尽说明。例如: "[He](/zh/post/he/) elaborated [on](/zh/post/on/) [his](/zh/post/his/) plans [for](/zh/post/for/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- **名词**: （复杂或精致的）作品，设计。例如: "[The](/zh/post/the/) [wedding](/zh/post/wedding/) [cake](/zh/post/cake/) was an [elaborate](/zh/post/elaborate/) [masterpiece](/zh/post/masterpiece/)."
 
 ## 短语
-- "[Elaborate](/post/elaborate/) plans" 指精心策划的计划。
-- "[Elaborate](/post/elaborate/) [on](/post/on/) [something](/post/something/)" 是对某事进行更详细的解释。
+- "[Elaborate](/zh/post/elaborate/) plans" 指精心策划的计划。
+- "[Elaborate](/zh/post/elaborate/) [on](/zh/post/on/) [something](/zh/post/something/)" 是对某事进行更详细的解释。
 
 ## 例句
-- 形容词: "[The](/post/the/) artist's [elaborate](/post/elaborate/) costume caught everyone's [attention](/post/attention/)."
-- 动词: "[She](/post/she/) elaborated [her](/post/her/) [argument](/post/argument/) [with](/post/with/) [several](/post/several/) examples."
-- 名词: "[The](/post/the/) symphony's [opening](/post/opening/) [performance](/post/performance/) featured an [elaborate](/post/elaborate/) [light](/post/light/) [show](/post/show/)."
+- 形容词: "[The](/zh/post/the/) artist's [elaborate](/zh/post/elaborate/) costume caught everyone's [attention](/zh/post/attention/)."
+- 动词: "[She](/zh/post/she/) elaborated [her](/zh/post/her/) [argument](/zh/post/argument/) [with](/zh/post/with/) [several](/zh/post/several/) examples."
+- 名词: "[The](/zh/post/the/) symphony's [opening](/zh/post/opening/) [performance](/zh/post/performance/) featured an [elaborate](/zh/post/elaborate/) [light](/zh/post/light/) [show](/zh/post/show/)."
 
 ## 同义词
 - Detailed
-- [Complex](/post/complex/)
+- [Complex](/zh/post/complex/)
 - Intricate
 - Detailed
-- [Comprehensive](/post/comprehensive/)
+- [Comprehensive](/zh/post/comprehensive/)

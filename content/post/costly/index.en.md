@@ -7,26 +7,26 @@ description = '[ˈkɔstli] a.昂贵的；价值高的'
 keywords = ['ai words', 'costly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈstəli/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **[Costly](/en/post/costly/)**: [Expensive](/en/post/expensive/); requiring [a](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) [or](/en/post/or/) resources. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [surgery](/en/post/surgery/) was [very](/en/post/very/) [costly](/en/post/costly/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [advanced](/en/post/advanced/) [medical](/en/post/medical/) [technology](/en/post/technology/) involved."
-- **Time-consuming**: Taking [a](/en/post/a/) [significant](/en/post/significant/) [amount](/en/post/amount/) [of](/en/post/of/) [time](/en/post/time/) [or](/en/post/or/) [effort](/en/post/effort/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) was [both](/en/post/both/) [costly](/en/post/costly/) [and](/en/post/and/) time-consuming."
+### [Adjective](/post/adjective/)
+- **[Costly](/post/costly/)**: [Expensive](/post/expensive/); requiring [a](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) [or](/post/or/) resources. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [surgery](/post/surgery/) was [very](/post/very/) [costly](/post/costly/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [advanced](/post/advanced/) [medical](/post/medical/) [technology](/post/technology/) involved."
+- **Time-consuming**: Taking [a](/post/a/) [significant](/post/significant/) [amount](/post/amount/) [of](/post/of/) [time](/post/time/) [or](/post/or/) [effort](/post/effort/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) was [both](/post/both/) [costly](/post/costly/) [and](/post/and/) time-consuming."
 
 ## Phrases
-- "[A](/en/post/a/) [costly](/en/post/costly/) [mistake](/en/post/mistake/)"
-- "[A](/en/post/a/) [costly](/en/post/costly/) [affair](/en/post/affair/)"
-- "[Costly](/en/post/costly/) consequences"
+- "[A](/post/a/) [costly](/post/costly/) [mistake](/post/mistake/)"
+- "[A](/post/a/) [costly](/post/costly/) [affair](/post/affair/)"
+- "[Costly](/post/costly/) consequences"
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) designer [dress](/en/post/dress/) was [too](/en/post/too/) [costly](/en/post/costly/) [for](/en/post/for/) [her](/en/post/her/) budget."
-- **[Adjective](/en/post/adjective/) (time-consuming)**: "Running [a](/en/post/a/) [small](/en/post/small/) [business](/en/post/business/) [can](/en/post/can/) [be](/en/post/be/) [both](/en/post/both/) financially [and](/en/post/and/) time-costly."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) expedition's [high](/en/post/high/) costs strained [the](/en/post/the/) team's finances."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) designer [dress](/post/dress/) was [too](/post/too/) [costly](/post/costly/) [for](/post/for/) [her](/post/her/) budget."
+- **[Adjective](/post/adjective/) (time-consuming)**: "Running [a](/post/a/) [small](/post/small/) [business](/post/business/) [can](/post/can/) [be](/post/be/) [both](/post/both/) financially [and](/post/and/) time-costly."
+- **[Noun](/post/noun/)**: "[The](/post/the/) expedition's [high](/post/high/) costs strained [the](/post/the/) team's finances."
 
 ## Synonyms
-- [Expensive](/en/post/expensive/)
+- [Expensive](/post/expensive/)
 - Pricy
 - Exorbitant
 - Hefty
@@ -34,8 +34,8 @@ keywords = ['ai words', 'costly']
 - Onerous
 
 ## Antonyms
-- [Inexpensive](/en/post/inexpensive/)
+- [Inexpensive](/post/inexpensive/)
 - Affordable
-- [Reasonable](/en/post/reasonable/)
+- [Reasonable](/post/reasonable/)
 - Budget-friendly
-- [Economical](/en/post/economical/)
+- [Economical](/post/economical/)

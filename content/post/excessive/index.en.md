@@ -7,29 +7,29 @@ description = '[ikˈsesiv] a.过多的，极度的'
 keywords = ['ai words', 'excessive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈsesɪv/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Exceeding [what](/en/post/what/) is [usual](/en/post/usual/), [normal](/en/post/normal/), [necessary](/en/post/necessary/), [or](/en/post/or/) [desirable](/en/post/desirable/); [too](/en/post/too/) [much](/en/post/much/) [or](/en/post/or/) [too](/en/post/too/) [great](/en/post/great/). [It](/en/post/it/) [often](/en/post/often/) implies [that](/en/post/that/) [something](/en/post/something/) is unwarranted [or](/en/post/or/) inappropriate [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [quantity](/en/post/quantity/) [or](/en/post/or/) [degree](/en/post/degree/). 
+- **[Adjective](/post/adjective/)**: Exceeding [what](/post/what/) is [usual](/post/usual/), [normal](/post/normal/), [necessary](/post/necessary/), [or](/post/or/) [desirable](/post/desirable/); [too](/post/too/) [much](/post/much/) [or](/post/or/) [too](/post/too/) [great](/post/great/). [It](/post/it/) [often](/post/often/) implies [that](/post/that/) [something](/post/something/) is unwarranted [or](/post/or/) inappropriate [due](/post/due/) [to](/post/to/) [its](/post/its/) [quantity](/post/quantity/) [or](/post/or/) [degree](/post/degree/). 
 
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): _The patient's [recovery](/en/post/recovery/) was hindered [by](/en/post/by/) [their](/en/post/their/) [excessive](/en/post/excessive/) [consumption](/en/post/consumption/) [of](/en/post/of/) [alcohol](/en/post/alcohol/)._
+  - [Example](/post/example/) [Sentence](/post/sentence/): _The patient's [recovery](/post/recovery/) was hindered [by](/post/by/) [their](/post/their/) [excessive](/post/excessive/) [consumption](/post/consumption/) [of](/post/of/) [alcohol](/post/alcohol/)._
   
-- **[Noun](/en/post/noun/) ([in](/en/post/in/) [a](/en/post/a/) [less](/en/post/less/) [common](/en/post/common/) [usage](/en/post/usage/))**: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [excessive](/en/post/excessive/). 
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): _His [behavior](/en/post/behavior/) demonstrated an excessiveness [that](/en/post/that/) concerned [his](/en/post/his/) friends._
+- **[Noun](/post/noun/) ([in](/post/in/) [a](/post/a/) [less](/post/less/) [common](/post/common/) [usage](/post/usage/))**: [The](/post/the/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [excessive](/post/excessive/). 
+  - [Example](/post/example/) [Sentence](/post/sentence/): _His [behavior](/post/behavior/) demonstrated an excessiveness [that](/post/that/) concerned [his](/post/his/) friends._
 
 ## Phrases
-- "[Excessive](/en/post/excessive/) [use](/en/post/use/)": Refers [to](/en/post/to/) using [something](/en/post/something/) [more](/en/post/more/) [than](/en/post/than/) [necessary](/en/post/necessary/) [or](/en/post/or/) recommended. [Example](/en/post/example/): "Doctors warned [against](/en/post/against/) [excessive](/en/post/excessive/) [use](/en/post/use/) [of](/en/post/of/) painkillers."
-- "[Excessive](/en/post/excessive/) [speed](/en/post/speed/)": Traveling [at](/en/post/at/) [a](/en/post/a/) [rate](/en/post/rate/) faster [than](/en/post/than/) is [safe](/en/post/safe/) [or](/en/post/or/) [legal](/en/post/legal/). [Example](/en/post/example/): "[He](/en/post/he/) was ticketed [for](/en/post/for/) driving [at](/en/post/at/) [excessive](/en/post/excessive/) [speed](/en/post/speed/)."
-- "[Excessive](/en/post/excessive/) [force](/en/post/force/)": [More](/en/post/more/) [strength](/en/post/strength/) [or](/en/post/or/) [power](/en/post/power/) [than](/en/post/than/) is required [or](/en/post/or/) justified. [Example](/en/post/example/): "[The](/en/post/the/) [police](/en/post/police/) [officer](/en/post/officer/) was accused [of](/en/post/of/) using [excessive](/en/post/excessive/) [force](/en/post/force/) [during](/en/post/during/) [the](/en/post/the/) [arrest](/en/post/arrest/)."
+- "[Excessive](/post/excessive/) [use](/post/use/)": Refers [to](/post/to/) using [something](/post/something/) [more](/post/more/) [than](/post/than/) [necessary](/post/necessary/) [or](/post/or/) recommended. [Example](/post/example/): "Doctors warned [against](/post/against/) [excessive](/post/excessive/) [use](/post/use/) [of](/post/of/) painkillers."
+- "[Excessive](/post/excessive/) [speed](/post/speed/)": Traveling [at](/post/at/) [a](/post/a/) [rate](/post/rate/) faster [than](/post/than/) is [safe](/post/safe/) [or](/post/or/) [legal](/post/legal/). [Example](/post/example/): "[He](/post/he/) was ticketed [for](/post/for/) driving [at](/post/at/) [excessive](/post/excessive/) [speed](/post/speed/)."
+- "[Excessive](/post/excessive/) [force](/post/force/)": [More](/post/more/) [strength](/post/strength/) [or](/post/or/) [power](/post/power/) [than](/post/than/) is required [or](/post/or/) justified. [Example](/post/example/): "[The](/post/the/) [police](/post/police/) [officer](/post/officer/) was accused [of](/post/of/) using [excessive](/post/excessive/) [force](/post/force/) [during](/post/during/) [the](/post/the/) [arrest](/post/arrest/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: _She had [to](/en/post/to/) [cut](/en/post/cut/) [back](/en/post/back/) [on](/en/post/on/) [her](/en/post/her/) [excessive](/en/post/excessive/) spending [to](/en/post/to/) [save](/en/post/save/) [money](/en/post/money/)._
-- **[Noun](/en/post/noun/)**: _His [excessive](/en/post/excessive/) indulgence [in](/en/post/in/) [work](/en/post/work/) [left](/en/post/left/) [no](/en/post/no/) [time](/en/post/time/) [for](/en/post/for/) [personal](/en/post/personal/) [life](/en/post/life/)._
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: _She had [to](/post/to/) [cut](/post/cut/) [back](/post/back/) [on](/post/on/) [her](/post/her/) [excessive](/post/excessive/) spending [to](/post/to/) [save](/post/save/) [money](/post/money/)._
+- **[Noun](/post/noun/)**: _His [excessive](/post/excessive/) indulgence [in](/post/in/) [work](/post/work/) [left](/post/left/) [no](/post/no/) [time](/post/time/) [for](/post/for/) [personal](/post/personal/) [life](/post/life/)._
 
 ## Synonyms
 - Overwhelming
-- [Unnecessary](/en/post/unnecessary/)
+- [Unnecessary](/post/unnecessary/)
 - Immoderate
 - Extravagant
 - Exorbitant

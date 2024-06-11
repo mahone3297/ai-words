@@ -7,36 +7,36 @@ description = '[pɔːk] n.猪肉'
 keywords = ['ai words', 'pork']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pɔːrk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Pork](/en/post/pork/)**: [The](/en/post/the/) [meat](/en/post/meat/) [from](/en/post/from/) [a](/en/post/a/) [pig](/en/post/pig/), typically slaughtered [for](/en/post/for/) [food](/en/post/food/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [various](/en/post/various/) cuts [like](/en/post/like/) bacon, ham, [or](/en/post/or/) [sausage](/en/post/sausage/). [Example](/en/post/example/): "[The](/en/post/the/) [main](/en/post/main/) [course](/en/post/course/) was [a](/en/post/a/) [delicious](/en/post/delicious/) roasted [pork](/en/post/pork/) [chop](/en/post/chop/)."
-2. **[Pork](/en/post/pork/) [product](/en/post/product/)**: [A](/en/post/a/) [food](/en/post/food/) [item](/en/post/item/) derived [from](/en/post/from/) pigs, [such](/en/post/such/) [as](/en/post/as/) bacon, sausages, [or](/en/post/or/) cured hams. [Example](/en/post/example/): "[She](/en/post/she/) bought [some](/en/post/some/) [pork](/en/post/pork/) products [from](/en/post/from/) [the](/en/post/the/) [local](/en/post/local/) [butcher](/en/post/butcher/) [shop](/en/post/shop/)."
+### [Noun](/post/noun/)
+1. **[Pork](/post/pork/)**: [The](/post/the/) [meat](/post/meat/) [from](/post/from/) [a](/post/a/) [pig](/post/pig/), typically slaughtered [for](/post/for/) [food](/post/food/). [It](/post/it/) [can](/post/can/) [be](/post/be/) [various](/post/various/) cuts [like](/post/like/) bacon, ham, [or](/post/or/) [sausage](/post/sausage/). [Example](/post/example/): "[The](/post/the/) [main](/post/main/) [course](/post/course/) was [a](/post/a/) [delicious](/post/delicious/) roasted [pork](/post/pork/) [chop](/post/chop/)."
+2. **[Pork](/post/pork/) [product](/post/product/)**: [A](/post/a/) [food](/post/food/) [item](/post/item/) derived [from](/post/from/) pigs, [such](/post/such/) [as](/post/as/) bacon, sausages, [or](/post/or/) cured hams. [Example](/post/example/): "[She](/post/she/) bought [some](/post/some/) [pork](/post/pork/) products [from](/post/from/) [the](/post/the/) [local](/post/local/) [butcher](/post/butcher/) [shop](/post/shop/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [consume](/en/post/consume/) [or](/en/post/or/) [eat](/en/post/eat/) [pork](/en/post/pork/). [Example](/en/post/example/): "I [often](/en/post/often/) [have](/en/post/have/) [pork](/en/post/pork/) [for](/en/post/for/) [dinner](/en/post/dinner/) [on](/en/post/on/) Sundays."
-2. Informal [term](/en/post/term/) [for](/en/post/for/) engaging [in](/en/post/in/) [something](/en/post/something/) considered indulgent [or](/en/post/or/) sinful. [Example](/en/post/example/): "Don't [judge](/en/post/judge/) [him](/en/post/him/) [for](/en/post/for/) [his](/en/post/his/) [occasional](/en/post/occasional/) porking [out](/en/post/out/) [on](/en/post/on/) weekends."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [consume](/post/consume/) [or](/post/or/) [eat](/post/eat/) [pork](/post/pork/). [Example](/post/example/): "I [often](/post/often/) [have](/post/have/) [pork](/post/pork/) [for](/post/for/) [dinner](/post/dinner/) [on](/post/on/) Sundays."
+2. Informal [term](/post/term/) [for](/post/for/) engaging [in](/post/in/) [something](/post/something/) considered indulgent [or](/post/or/) sinful. [Example](/post/example/): "Don't [judge](/post/judge/) [him](/post/him/) [for](/post/for/) [his](/post/his/) [occasional](/post/occasional/) porking [out](/post/out/) [on](/post/on/) weekends."
 
-### [Adjective](/en/post/adjective/)
-1. Describing [meat](/en/post/meat/) [from](/en/post/from/) [a](/en/post/a/) [pig](/en/post/pig/). [Example](/en/post/example/): "[The](/en/post/the/) [pork](/en/post/pork/) tenderloin was incredibly [tender](/en/post/tender/)."
-2. (Informal) Characterizing overindulgence [or](/en/post/or/) [excessive](/en/post/excessive/) [behavior](/en/post/behavior/). [Example](/en/post/example/): "[His](/en/post/his/) [weekend](/en/post/weekend/) was [a](/en/post/a/) [real](/en/post/real/) [pork](/en/post/pork/) fest."
+### [Adjective](/post/adjective/)
+1. Describing [meat](/post/meat/) [from](/post/from/) [a](/post/a/) [pig](/post/pig/). [Example](/post/example/): "[The](/post/the/) [pork](/post/pork/) tenderloin was incredibly [tender](/post/tender/)."
+2. (Informal) Characterizing overindulgence [or](/post/or/) [excessive](/post/excessive/) [behavior](/post/behavior/). [Example](/post/example/): "[His](/post/his/) [weekend](/post/weekend/) was [a](/post/a/) [real](/post/real/) [pork](/post/pork/) fest."
 
 ## Phrases
-- "[Enjoy](/en/post/enjoy/) [a](/en/post/a/) [pork](/en/post/pork/) [roast](/en/post/roast/)" is [a](/en/post/a/) [common](/en/post/common/) [expression](/en/post/expression/) [to](/en/post/to/) [invite](/en/post/invite/) [someone](/en/post/someone/) [to](/en/post/to/) [a](/en/post/a/) [meal](/en/post/meal/) [with](/en/post/with/) [pork](/en/post/pork/).
-- "[Pork](/en/post/pork/) belly" is [often](/en/post/often/) referred [to](/en/post/to/) [as](/en/post/as/) "[the](/en/post/the/) fatty [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) hog."
-- "[Pork](/en/post/pork/) [out](/en/post/out/)" is slang [for](/en/post/for/) having [a](/en/post/a/) [large](/en/post/large/), indulgent [meal](/en/post/meal/).
+- "[Enjoy](/post/enjoy/) [a](/post/a/) [pork](/post/pork/) [roast](/post/roast/)" is [a](/post/a/) [common](/post/common/) [expression](/post/expression/) [to](/post/to/) [invite](/post/invite/) [someone](/post/someone/) [to](/post/to/) [a](/post/a/) [meal](/post/meal/) [with](/post/with/) [pork](/post/pork/).
+- "[Pork](/post/pork/) belly" is [often](/post/often/) referred [to](/post/to/) [as](/post/as/) "[the](/post/the/) fatty [part](/post/part/) [of](/post/of/) [the](/post/the/) hog."
+- "[Pork](/post/pork/) [out](/post/out/)" is slang [for](/post/for/) having [a](/post/a/) [large](/post/large/), indulgent [meal](/post/meal/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [try](/en/post/try/) [a](/en/post/a/) [new](/en/post/new/) [pork](/en/post/pork/) recipe [for](/en/post/for/) [dinner](/en/post/dinner/) [tonight](/en/post/tonight/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [he](/en/post/he/) treated [himself](/en/post/himself/) [to](/en/post/to/) [a](/en/post/a/) juicy [pork](/en/post/pork/) [chop](/en/post/chop/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [pork](/en/post/pork/) was [so](/en/post/so/) flavorful, [it](/en/post/it/) melted [in](/en/post/in/) [my](/en/post/my/) [mouth](/en/post/mouth/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) decided [to](/post/to/) [try](/post/try/) [a](/post/a/) [new](/post/new/) [pork](/post/pork/) recipe [for](/post/for/) [dinner](/post/dinner/) [tonight](/post/tonight/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) treated [himself](/post/himself/) [to](/post/to/) [a](/post/a/) juicy [pork](/post/pork/) [chop](/post/chop/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [pork](/post/pork/) was [so](/post/so/) flavorful, [it](/post/it/) melted [in](/post/in/) [my](/post/my/) [mouth](/post/mouth/)."
 
 ## Synonyms
 - Ham
 - Bacon
-- [Sausage](/en/post/sausage/)
-- [Meat](/en/post/meat/) [from](/en/post/from/) [a](/en/post/a/) [pig](/en/post/pig/)
+- [Sausage](/post/sausage/)
+- [Meat](/post/meat/) [from](/post/from/) [a](/post/a/) [pig](/post/pig/)
 - Gluttony (informal)
 - Indulgence (informal)

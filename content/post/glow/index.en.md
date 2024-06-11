@@ -7,33 +7,33 @@ description = '[gləu] n.白热光 vi.发白热光'
 keywords = ['ai words', 'glow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡloʊ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [soft](/en/post/soft/), radiant [light](/en/post/light/) emitted [by](/en/post/by/) [something](/en/post/something/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is [not](/en/post/not/) intensely [bright](/en/post/bright/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) embers gave [off](/en/post/off/) [a](/en/post/a/) [warm](/en/post/warm/) [glow](/en/post/glow/)."
-  - [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) excited, [happy](/en/post/happy/), [or](/en/post/or/) [healthy](/en/post/healthy/) [which](/en/post/which/) shows [in](/en/post/in/) [a](/en/post/a/) person's [expression](/en/post/expression/) [or](/en/post/or/) [appearance](/en/post/appearance/). [For](/en/post/for/) [instance](/en/post/instance/): "[Her](/en/post/her/) [face](/en/post/face/) had [a](/en/post/a/) [happy](/en/post/happy/) [glow](/en/post/glow/) [after](/en/post/after/) receiving [the](/en/post/the/) [good](/en/post/good/) [news](/en/post/news/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [soft](/post/soft/), radiant [light](/post/light/) emitted [by](/post/by/) [something](/post/something/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is [not](/post/not/) intensely [bright](/post/bright/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) embers gave [off](/post/off/) [a](/post/a/) [warm](/post/warm/) [glow](/post/glow/)."
+  - [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) excited, [happy](/post/happy/), [or](/post/or/) [healthy](/post/healthy/) [which](/post/which/) shows [in](/post/in/) [a](/post/a/) person's [expression](/post/expression/) [or](/post/or/) [appearance](/post/appearance/). [For](/post/for/) [instance](/post/instance/): "[Her](/post/her/) [face](/post/face/) had [a](/post/a/) [happy](/post/happy/) [glow](/post/glow/) [after](/post/after/) receiving [the](/post/the/) [good](/post/good/) [news](/post/news/)."
 
-- **[Verb](/en/post/verb/)**: (glows) Emitting [or](/en/post/or/) giving [off](/en/post/off/) [a](/en/post/a/) [steady](/en/post/steady/), [soft](/en/post/soft/) [light](/en/post/light/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) fireplace glowed warmly [throughout](/en/post/throughout/) [the](/en/post/the/) [night](/en/post/night/)."
-  - [To](/en/post/to/) [shine](/en/post/shine/) [with](/en/post/with/) [a](/en/post/a/) [soft](/en/post/soft/), [warm](/en/post/warm/) [light](/en/post/light/) [due](/en/post/due/) [to](/en/post/to/) [heat](/en/post/heat/) [or](/en/post/or/) [inner](/en/post/inner/) [happiness](/en/post/happiness/). [Example](/en/post/example/): "[The](/en/post/the/) candles [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/) glowed [softly](/en/post/softly/)."
-  - [To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [happiness](/en/post/happiness/), [satisfaction](/en/post/satisfaction/), [or](/en/post/or/) [health](/en/post/health/) [that](/en/post/that/) radiates [from](/en/post/from/) one's [appearance](/en/post/appearance/) [or](/en/post/or/) demeanor. [Example](/en/post/example/): "[She](/en/post/she/) glowed [with](/en/post/with/) [pride](/en/post/pride/) [after](/en/post/after/) winning [the](/en/post/the/) [award](/en/post/award/)."
+- **[Verb](/post/verb/)**: (glows) Emitting [or](/post/or/) giving [off](/post/off/) [a](/post/a/) [steady](/post/steady/), [soft](/post/soft/) [light](/post/light/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) fireplace glowed warmly [throughout](/post/throughout/) [the](/post/the/) [night](/post/night/)."
+  - [To](/post/to/) [shine](/post/shine/) [with](/post/with/) [a](/post/a/) [soft](/post/soft/), [warm](/post/warm/) [light](/post/light/) [due](/post/due/) [to](/post/to/) [heat](/post/heat/) [or](/post/or/) [inner](/post/inner/) [happiness](/post/happiness/). [Example](/post/example/): "[The](/post/the/) candles [on](/post/on/) [the](/post/the/) [table](/post/table/) glowed [softly](/post/softly/)."
+  - [To](/post/to/) [be](/post/be/) [in](/post/in/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [happiness](/post/happiness/), [satisfaction](/post/satisfaction/), [or](/post/or/) [health](/post/health/) [that](/post/that/) radiates [from](/post/from/) one's [appearance](/post/appearance/) [or](/post/or/) demeanor. [Example](/post/example/): "[She](/post/she/) glowed [with](/post/with/) [pride](/post/pride/) [after](/post/after/) winning [the](/post/the/) [award](/post/award/)."
 
 ## Phrases
-- "Glowing [with](/en/post/with/) [pride](/en/post/pride/)" implies [someone](/en/post/someone/) is visibly filled [with](/en/post/with/) [happiness](/en/post/happiness/) [and](/en/post/and/) [satisfaction](/en/post/satisfaction/).
-- "[Glow](/en/post/glow/) [in](/en/post/in/) [the](/en/post/the/) [dark](/en/post/dark/)" refers [to](/en/post/to/) objects [that](/en/post/that/) [emit](/en/post/emit/) [light](/en/post/light/) [after](/en/post/after/) [exposure](/en/post/exposure/) [to](/en/post/to/) [a](/en/post/a/) [light](/en/post/light/) [source](/en/post/source/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) toys [or](/en/post/or/) signs.
-- "[A](/en/post/a/) pregnancy [glow](/en/post/glow/)" describes [the](/en/post/the/) radiant [appearance](/en/post/appearance/) [some](/en/post/some/) women [have](/en/post/have/) [during](/en/post/during/) pregnancy.
+- "Glowing [with](/post/with/) [pride](/post/pride/)" implies [someone](/post/someone/) is visibly filled [with](/post/with/) [happiness](/post/happiness/) [and](/post/and/) [satisfaction](/post/satisfaction/).
+- "[Glow](/post/glow/) [in](/post/in/) [the](/post/the/) [dark](/post/dark/)" refers [to](/post/to/) objects [that](/post/that/) [emit](/post/emit/) [light](/post/light/) [after](/post/after/) [exposure](/post/exposure/) [to](/post/to/) [a](/post/a/) [light](/post/light/) [source](/post/source/), [often](/post/often/) [used](/post/used/) [in](/post/in/) toys [or](/post/or/) signs.
+- "[A](/post/a/) pregnancy [glow](/post/glow/)" describes [the](/post/the/) radiant [appearance](/post/appearance/) [some](/post/some/) women [have](/post/have/) [during](/post/during/) pregnancy.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) stars [provided](/en/post/provided/) [just](/en/post/just/) [enough](/en/post/enough/) [glow](/en/post/glow/) [for](/en/post/for/) [us](/en/post/us/) [to](/en/post/to/) navigate [through](/en/post/through/) [the](/en/post/the/) [forest](/en/post/forest/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) applying [the](/en/post/the/) highlighter, [her](/en/post/her/) cheeks glowed [in](/en/post/in/) [the](/en/post/the/) candlelight."
-- "[His](/en/post/his/) eyes glowed [with](/en/post/with/) excitement [as](/en/post/as/) [he](/en/post/he/) talked [about](/en/post/about/) [his](/en/post/his/) upcoming [adventure](/en/post/adventure/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) stars [provided](/post/provided/) [just](/post/just/) [enough](/post/enough/) [glow](/post/glow/) [for](/post/for/) [us](/post/us/) [to](/post/to/) navigate [through](/post/through/) [the](/post/the/) [forest](/post/forest/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) applying [the](/post/the/) highlighter, [her](/post/her/) cheeks glowed [in](/post/in/) [the](/post/the/) candlelight."
+- "[His](/post/his/) eyes glowed [with](/post/with/) excitement [as](/post/as/) [he](/post/he/) talked [about](/post/about/) [his](/post/his/) upcoming [adventure](/post/adventure/)."
 
 ## Synonyms
 - Radiance
-- [Shine](/en/post/shine/)
+- [Shine](/post/shine/)
 - Dazzle
 - Illumination
 - Incandescence
-- Resplendence ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [meaning](/en/post/meaning/) [a](/en/post/a/) shining [light](/en/post/light/))
-- Thriving ([for](/en/post/for/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [a](/en/post/a/) [positive](/en/post/positive/) [emotional](/en/post/emotional/) [or](/en/post/or/) [physical](/en/post/physical/) [state](/en/post/state/))
-- [Radiate](/en/post/radiate/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
+- Resplendence ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [meaning](/post/meaning/) [a](/post/a/) shining [light](/post/light/))
+- Thriving ([for](/post/for/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [a](/post/a/) [positive](/post/positive/) [emotional](/post/emotional/) [or](/post/or/) [physical](/post/physical/) [state](/post/state/))
+- [Radiate](/post/radiate/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))

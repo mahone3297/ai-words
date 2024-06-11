@@ -7,23 +7,23 @@ description = '[diˈsiːt] n.欺骗，欺诈'
 keywords = ['ai words', 'deceit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /deɪsɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) deceiving [or](/en/post/or/) misleading; dishonesty. 2. [False](/en/post/false/) [appearance](/en/post/appearance/) [or](/en/post/or/) pretense. 3. An [instance](/en/post/instance/) [of](/en/post/of/) deception. (adj) Dishonest [or](/en/post/or/) misleading [behavior](/en/post/behavior/). (v) [To](/en/post/to/) [deceive](/en/post/deceive/) [or](/en/post/or/) [mislead](/en/post/mislead/) [someone](/en/post/someone/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [deceive](/en/post/deceive/) [or](/en/post/or/) manipulate [someone](/en/post/someone/) [through](/en/post/through/) [false](/en/post/false/) [information](/en/post/information/) [or](/en/post/or/) actions. [To](/en/post/to/) [practice](/en/post/practice/) [deceit](/en/post/deceit/) [on](/en/post/on/) [someone](/en/post/someone/).
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [deceit](/en/post/deceit/) [or](/en/post/or/) dishonesty; treacherous.
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) deceiving [or](/post/or/) misleading; dishonesty. 2. [False](/post/false/) [appearance](/post/appearance/) [or](/post/or/) pretense. 3. An [instance](/post/instance/) [of](/post/of/) deception. (adj) Dishonest [or](/post/or/) misleading [behavior](/post/behavior/). (v) [To](/post/to/) [deceive](/post/deceive/) [or](/post/or/) [mislead](/post/mislead/) [someone](/post/someone/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [deceive](/post/deceive/) [or](/post/or/) manipulate [someone](/post/someone/) [through](/post/through/) [false](/post/false/) [information](/post/information/) [or](/post/or/) actions. [To](/post/to/) [practice](/post/practice/) [deceit](/post/deceit/) [on](/post/on/) [someone](/post/someone/).
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [deceit](/post/deceit/) [or](/post/or/) dishonesty; treacherous.
 
 ## Phrases
-- "[Practice](/en/post/practice/) [deceit](/en/post/deceit/)" [means](/en/post/means/) [to](/en/post/to/) deliberately [lie](/en/post/lie/) [or](/en/post/or/) [deceive](/en/post/deceive/).
-- "[In](/en/post/in/) deceitful ways" describes actions done [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [to](/en/post/to/) [mislead](/en/post/mislead/).
-- "Caught [in](/en/post/in/) [a](/en/post/a/) web [of](/en/post/of/) [deceit](/en/post/deceit/)" implies [being](/en/post/being/) trapped [in](/en/post/in/) [a](/en/post/a/) [situation](/en/post/situation/) involving lies.
+- "[Practice](/post/practice/) [deceit](/post/deceit/)" [means](/post/means/) [to](/post/to/) deliberately [lie](/post/lie/) [or](/post/or/) [deceive](/post/deceive/).
+- "[In](/post/in/) deceitful ways" describes actions done [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [to](/post/to/) [mislead](/post/mislead/).
+- "Caught [in](/post/in/) [a](/post/a/) web [of](/post/of/) [deceit](/post/deceit/)" implies [being](/post/being/) trapped [in](/post/in/) [a](/post/a/) [situation](/post/situation/) involving lies.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) deceitful actions led [to](/en/post/to/) [the](/en/post/the/) breakdown [of](/en/post/of/) [their](/en/post/their/) [trust](/en/post/trust/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) deceitfully [hide](/en/post/hide/) [his](/en/post/his/) [true](/en/post/true/) intentions [from](/en/post/from/) [his](/en/post/his/) [boss](/en/post/boss/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) deceitful [smile](/en/post/smile/) masked [her](/en/post/her/) malicious thoughts."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) deceitful actions led [to](/post/to/) [the](/post/the/) breakdown [of](/post/of/) [their](/post/their/) [trust](/post/trust/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) tried [to](/post/to/) deceitfully [hide](/post/hide/) [his](/post/his/) [true](/post/true/) intentions [from](/post/from/) [his](/post/his/) [boss](/post/boss/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) deceitful [smile](/post/smile/) masked [her](/post/her/) malicious thoughts."
 
 ## Synonyms
 - Deception
@@ -34,7 +34,7 @@ keywords = ['ai words', 'deceit']
 
 ## Antonyms
 - Truthfulness
-- [Honesty](/en/post/honesty/)
+- [Honesty](/post/honesty/)
 - Integrity
 - Transparency
 - Candidness

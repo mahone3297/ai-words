@@ -7,31 +7,31 @@ description = '[ˈməːt∫ənt] n.商人；零售商'
 keywords = ['ai words', 'merchant']
 +++
 
-## [Word](/en/post/word/): [Merchant](/en/post/merchant/)
+## [Word](/post/word/): [Merchant](/post/merchant/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɜːrʧənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) buys [or](/en/post/or/) sells [goods](/en/post/goods/) [in](/en/post/in/) [large](/en/post/large/) quantities, [especially](/en/post/especially/) [one](/en/post/one/) [who](/en/post/who/) trades [with](/en/post/with/) [foreign](/en/post/foreign/) countries [or](/en/post/or/) supplies merchandise [to](/en/post/to/) retailers. [Example](/en/post/example/): "[The](/en/post/the/) spice [merchant](/en/post/merchant/) traveled [from](/en/post/from/) [port](/en/post/port/) [to](/en/post/to/) [port](/en/post/port/) [to](/en/post/to/) [sell](/en/post/sell/) [his](/en/post/his/) exotic wares."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) buys [or](/post/or/) sells [goods](/post/goods/) [in](/post/in/) [large](/post/large/) quantities, [especially](/post/especially/) [one](/post/one/) [who](/post/who/) trades [with](/post/with/) [foreign](/post/foreign/) countries [or](/post/or/) supplies merchandise [to](/post/to/) retailers. [Example](/post/example/): "[The](/post/the/) spice [merchant](/post/merchant/) traveled [from](/post/from/) [port](/post/port/) [to](/post/to/) [port](/post/port/) [to](/post/to/) [sell](/post/sell/) [his](/post/his/) exotic wares."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- "[The](/en/post/the/) [wealthy](/en/post/wealthy/) [silk](/en/post/silk/) [merchant](/en/post/merchant/) was renowned [for](/en/post/for/) [his](/en/post/his/) [fair](/en/post/fair/) [trade](/en/post/trade/) practices [throughout](/en/post/throughout/) [the](/en/post/the/) [region](/en/post/region/)."
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- "[The](/post/the/) [wealthy](/post/wealthy/) [silk](/post/silk/) [merchant](/post/merchant/) was renowned [for](/post/for/) [his](/post/his/) [fair](/post/fair/) [trade](/post/trade/) practices [throughout](/post/throughout/) [the](/post/the/) [region](/post/region/)."
 
 Phrases:
-- "[Merchant](/en/post/merchant/) [navy](/en/post/navy/)": [The](/en/post/the/) [commercial](/en/post/commercial/) [fleet](/en/post/fleet/) [of](/en/post/of/) ships [that](/en/post/that/) carries [cargo](/en/post/cargo/) [and](/en/post/and/) passengers internationally.
-- "[Merchant](/en/post/merchant/) [bank](/en/post/bank/)": [A](/en/post/a/) [financial](/en/post/financial/) [institution](/en/post/institution/) [that](/en/post/that/) deals [with](/en/post/with/) underwriting, issuing, [and](/en/post/and/) trading securities [for](/en/post/for/) corporations [and](/en/post/and/) governments.
-- "[Merchant](/en/post/merchant/) [of](/en/post/of/) Venice": [A](/en/post/a/) [famous](/en/post/famous/) [play](/en/post/play/) [by](/en/post/by/) William Shakespeare [about](/en/post/about/) [a](/en/post/a/) [Jewish](/en/post/jewish/) moneylender named Shylock.
+- "[Merchant](/post/merchant/) [navy](/post/navy/)": [The](/post/the/) [commercial](/post/commercial/) [fleet](/post/fleet/) [of](/post/of/) ships [that](/post/that/) carries [cargo](/post/cargo/) [and](/post/and/) passengers internationally.
+- "[Merchant](/post/merchant/) [bank](/post/bank/)": [A](/post/a/) [financial](/post/financial/) [institution](/post/institution/) [that](/post/that/) deals [with](/post/with/) underwriting, issuing, [and](/post/and/) trading securities [for](/post/for/) corporations [and](/post/and/) governments.
+- "[Merchant](/post/merchant/) [of](/post/of/) Venice": [A](/post/a/) [famous](/post/famous/) [play](/post/play/) [by](/post/by/) William Shakespeare [about](/post/about/) [a](/post/a/) [Jewish](/post/jewish/) moneylender named Shylock.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[During](/en/post/during/) [the](/en/post/the/) Renaissance, Italian merchants played [a](/en/post/a/) [significant](/en/post/significant/) [role](/en/post/role/) [in](/en/post/in/) [the](/en/post/the/) [economic](/en/post/economic/) [growth](/en/post/growth/) [of](/en/post/of/) [their](/en/post/their/) cities."
-- "[She](/en/post/she/) decided [to](/en/post/to/) [open](/en/post/open/) [her](/en/post/her/) [own](/en/post/own/) boutique, becoming [a](/en/post/a/) [merchant](/en/post/merchant/) [of](/en/post/of/) [unique](/en/post/unique/) handmade jewelry."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[During](/post/during/) [the](/post/the/) Renaissance, Italian merchants played [a](/post/a/) [significant](/post/significant/) [role](/post/role/) [in](/post/in/) [the](/post/the/) [economic](/post/economic/) [growth](/post/growth/) [of](/post/of/) [their](/post/their/) cities."
+- "[She](/post/she/) decided [to](/post/to/) [open](/post/open/) [her](/post/her/) [own](/post/own/) boutique, becoming [a](/post/a/) [merchant](/post/merchant/) [of](/post/of/) [unique](/post/unique/) handmade jewelry."
 
 ## Synonyms
 - Trader
 - Dealer
-- [Seller](/en/post/seller/)
-- [Shopkeeper](/en/post/shopkeeper/)
+- [Seller](/post/seller/)
+- [Shopkeeper](/post/shopkeeper/)
 - Businessman/Businesswoman
 - Retailer
 - Entrepreneur

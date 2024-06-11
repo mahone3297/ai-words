@@ -11,20 +11,20 @@ keywords = ['ai words', 'eager']
 /ˈiːɡər/
 
 ## 释义
-- **形容词**: 表示热切、渴望或急切的心情。例如: "[She](/post/she/) was [eager](/post/eager/) [to](/post/to/) [start](/post/start/) [her](/post/her/) [new](/post/new/) [job](/post/job/)."
-- **动词**: 表示非常愿意或渴望做某事。例如: "I'm [eager](/post/eager/) [to](/post/to/) [learn](/post/learn/) [more](/post/more/) [about](/post/about/) [this](/post/this/) [subject](/post/subject/)."
+- **形容词**: 表示热切、渴望或急切的心情。例如: "[She](/zh/post/she/) was [eager](/zh/post/eager/) [to](/zh/post/to/) [start](/zh/post/start/) [her](/zh/post/her/) [new](/zh/post/new/) [job](/zh/post/job/)."
+- **动词**: 表示非常愿意或渴望做某事。例如: "I'm [eager](/zh/post/eager/) [to](/zh/post/to/) [learn](/zh/post/learn/) [more](/zh/post/more/) [about](/zh/post/about/) [this](/zh/post/this/) [subject](/zh/post/subject/)."
 
 ## 短语
-- "[eager](/post/eager/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" 表示非常想做某事。例如: "[He](/post/he/) was [eager](/post/eager/) [to](/post/to/) [prove](/post/prove/) [himself](/post/himself/) [in](/post/in/) [the](/post/the/) [competition](/post/competition/)."
-- "[eager](/post/eager/) anticipation" 指热切的期待。例如: "[The](/post/the/) fans were filled [with](/post/with/) [eager](/post/eager/) anticipation [for](/post/for/) [the](/post/the/) [concert](/post/concert/)."
+- "[eager](/zh/post/eager/) [to](/zh/post/to/) [do](/zh/post/do/) [something](/zh/post/something/)" 表示非常想做某事。例如: "[He](/zh/post/he/) was [eager](/zh/post/eager/) [to](/zh/post/to/) [prove](/zh/post/prove/) [himself](/zh/post/himself/) [in](/zh/post/in/) [the](/zh/post/the/) [competition](/zh/post/competition/)."
+- "[eager](/zh/post/eager/) anticipation" 指热切的期待。例如: "[The](/zh/post/the/) fans were filled [with](/zh/post/with/) [eager](/zh/post/eager/) anticipation [for](/zh/post/for/) [the](/zh/post/the/) [concert](/zh/post/concert/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) children were [eager](/post/eager/) [to](/post/to/) [open](/post/open/) [their](/post/their/) Christmas presents."
-- 动词: "She's [eager](/post/eager/) [to](/post/to/) [hear](/post/hear/) [from](/post/from/) [him](/post/him/) [after](/post/after/) [their](/post/their/) [first](/post/first/) [date](/post/date/)."
+- 形容词: "[The](/zh/post/the/) children were [eager](/zh/post/eager/) [to](/zh/post/to/) [open](/zh/post/open/) [their](/zh/post/their/) Christmas presents."
+- 动词: "She's [eager](/zh/post/eager/) [to](/zh/post/to/) [hear](/zh/post/hear/) [from](/zh/post/from/) [him](/zh/post/him/) [after](/zh/post/after/) [their](/zh/post/their/) [first](/zh/post/first/) [date](/zh/post/date/)."
 
 ## 同义词
-- [enthusiastic](/post/enthusiastic/)
-- [keen](/post/keen/)
-- [anxious](/post/anxious/) ([in](/post/in/) [a](/post/a/) [positive](/post/positive/) context)
+- [enthusiastic](/zh/post/enthusiastic/)
+- [keen](/zh/post/keen/)
+- [anxious](/zh/post/anxious/) ([in](/zh/post/in/) [a](/zh/post/a/) [positive](/zh/post/positive/) context)
 - excited
-- [zealous](/post/zealous/)
+- [zealous](/zh/post/zealous/)

@@ -11,22 +11,22 @@ keywords = ['ai words', 'angle']
 /ˈæŋɡl/
 
 ## 释义
-- **名词**: 角度；角。指两条射线或直线在一个点上的相交形成的角度。例如: "[The](/post/the/) [angle](/post/angle/) [of](/post/of/) [the](/post/the/) [roof](/post/roof/) is [quite](/post/quite/) [steep](/post/steep/)."
-- **名词**: 方位；观点。例如: "[She](/post/she/) looked [at](/post/at/) [the](/post/the/) [situation](/post/situation/) [from](/post/from/) [a](/post/a/) [different](/post/different/) [angle](/post/angle/)."
-- **名词**: 拍摄角度。在摄影或电影制作中指相机对拍摄对象的位置。例如: "[The](/post/the/) [director](/post/director/) chose [a](/post/a/) low-angle [shot](/post/shot/) [for](/post/for/) [this](/post/this/) [scene](/post/scene/)."
+- **名词**: 角度；角。指两条射线或直线在一个点上的相交形成的角度。例如: "[The](/zh/post/the/) [angle](/zh/post/angle/) [of](/zh/post/of/) [the](/zh/post/the/) [roof](/zh/post/roof/) is [quite](/zh/post/quite/) [steep](/zh/post/steep/)."
+- **名词**: 方位；观点。例如: "[She](/zh/post/she/) looked [at](/zh/post/at/) [the](/zh/post/the/) [situation](/zh/post/situation/) [from](/zh/post/from/) [a](/zh/post/a/) [different](/zh/post/different/) [angle](/zh/post/angle/)."
+- **名词**: 拍摄角度。在摄影或电影制作中指相机对拍摄对象的位置。例如: "[The](/zh/post/the/) [director](/zh/post/director/) chose [a](/zh/post/a/) low-angle [shot](/zh/post/shot/) [for](/zh/post/for/) [this](/zh/post/this/) [scene](/zh/post/scene/)."
 
 ## 短语
-- "[at](/post/at/) an [angle](/post/angle/)" 意为成一定角度，不垂直或平行。例如: "[The](/post/the/) [table](/post/table/) was placed [at](/post/at/) an [angle](/post/angle/) [to](/post/to/) [the](/post/the/) [wall](/post/wall/)."
-- "[angle](/post/angle/) [for](/post/for/) [something](/post/something/)" 试图获得或争取。例如: "He's angling [for](/post/for/) [a](/post/a/) promotion."
+- "[at](/zh/post/at/) an [angle](/zh/post/angle/)" 意为成一定角度，不垂直或平行。例如: "[The](/zh/post/the/) [table](/zh/post/table/) was placed [at](/zh/post/at/) an [angle](/zh/post/angle/) [to](/zh/post/to/) [the](/zh/post/the/) [wall](/zh/post/wall/)."
+- "[angle](/zh/post/angle/) [for](/zh/post/for/) [something](/zh/post/something/)" 试图获得或争取。例如: "He's angling [for](/zh/post/for/) [a](/zh/post/a/) promotion."
 
 ## 例句
-- 名词: "[The](/post/the/) [carpenter](/post/carpenter/) measured [the](/post/the/) [angle](/post/angle/) carefully [before](/post/before/) cutting [the](/post/the/) [wood](/post/wood/)."
-- 名词: "[From](/post/from/) [her](/post/her/) [angle](/post/angle/), [she](/post/she/) [could](/post/could/) [see](/post/see/) [the](/post/the/) [whole](/post/whole/) [garden](/post/garden/)."
-- 名词: "[The](/post/the/) [camera](/post/camera/) [angle](/post/angle/) made [the](/post/the/) [room](/post/room/) [appear](/post/appear/) larger [than](/post/than/) [it](/post/it/) [actually](/post/actually/) was."
+- 名词: "[The](/zh/post/the/) [carpenter](/zh/post/carpenter/) measured [the](/zh/post/the/) [angle](/zh/post/angle/) carefully [before](/zh/post/before/) cutting [the](/zh/post/the/) [wood](/zh/post/wood/)."
+- 名词: "[From](/zh/post/from/) [her](/zh/post/her/) [angle](/zh/post/angle/), [she](/zh/post/she/) [could](/zh/post/could/) [see](/zh/post/see/) [the](/zh/post/the/) [whole](/zh/post/whole/) [garden](/zh/post/garden/)."
+- 名词: "[The](/zh/post/the/) [camera](/zh/post/camera/) [angle](/zh/post/angle/) made [the](/zh/post/the/) [room](/zh/post/room/) [appear](/zh/post/appear/) larger [than](/zh/post/than/) [it](/zh/post/it/) [actually](/zh/post/actually/) was."
 
 ## 同义词
-- [Perspective](/post/perspective/)
-- [Point](/post/point/) [of](/post/of/) [view](/post/view/)
-- [Aspect](/post/aspect/)
-- [Direction](/post/direction/)
-- [Position](/post/position/)
+- [Perspective](/zh/post/perspective/)
+- [Point](/zh/post/point/) [of](/zh/post/of/) [view](/zh/post/view/)
+- [Aspect](/zh/post/aspect/)
+- [Direction](/zh/post/direction/)
+- [Position](/zh/post/position/)

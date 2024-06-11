@@ -7,32 +7,32 @@ description = '[nainθ] num.第九；九分之一'
 keywords = ['ai words', 'ninth']
 +++
 
-## [Word](/en/post/word/): [Ninth](/en/post/ninth/)
+## [Word](/post/word/): [Ninth](/post/ninth/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /naɪnθ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [the](/en/post/the/) ordinal [number](/en/post/number/) [that](/en/post/that/) indicates [the](/en/post/the/) [position](/en/post/position/) [of](/en/post/of/) [something](/en/post/something/) [as](/en/post/as/) [being](/en/post/being/) [the](/en/post/the/) [ninth](/en/post/ninth/) [in](/en/post/in/) [a](/en/post/a/) [sequence](/en/post/sequence/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) finished [in](/en/post/in/) [the](/en/post/the/) [ninth](/en/post/ninth/) [place](/en/post/place/)."
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [the](/post/the/) ordinal [number](/post/number/) [that](/post/that/) indicates [the](/post/the/) [position](/post/position/) [of](/post/of/) [something](/post/something/) [as](/post/as/) [being](/post/being/) [the](/post/the/) [ninth](/post/ninth/) [in](/post/in/) [a](/post/a/) [sequence](/post/sequence/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) finished [in](/post/in/) [the](/post/the/) [ninth](/post/ninth/) [place](/post/place/)."
 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): [In](/en/post/in/) [the](/en/post/the/) marathon, [he](/en/post/he/) crossed [the](/en/post/the/) [finish](/en/post/finish/) [line](/en/post/line/) [in](/en/post/in/) [the](/en/post/the/) [ninth](/en/post/ninth/) [position](/en/post/position/).
+  > [Example](/post/example/) [Sentence](/post/sentence/): [In](/post/in/) [the](/post/the/) marathon, [he](/post/he/) crossed [the](/post/the/) [finish](/post/finish/) [line](/post/line/) [in](/post/in/) [the](/post/the/) [ninth](/post/ninth/) [position](/post/position/).
 
-- **Numeral**: Denoting [the](/en/post/the/) [number](/en/post/number/) [nine](/en/post/nine/) [when](/en/post/when/) [used](/en/post/used/) [in](/en/post/in/) counting [or](/en/post/or/) indicating [a](/en/post/a/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[On](/en/post/on/) [the](/en/post/the/) [ninth](/en/post/ninth/) [day](/en/post/day/) [of](/en/post/of/) Christmas."
+- **Numeral**: Denoting [the](/post/the/) [number](/post/number/) [nine](/post/nine/) [when](/post/when/) [used](/post/used/) [in](/post/in/) counting [or](/post/or/) indicating [a](/post/a/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[On](/post/on/) [the](/post/the/) [ninth](/post/ninth/) [day](/post/day/) [of](/post/of/) Christmas."
 
 ## Phrases
-- "[The](/en/post/the/) [ninth](/en/post/ninth/) [hour](/en/post/hour/)" refers [to](/en/post/to/) [the](/en/post/the/) [ninth](/en/post/ninth/) [hour](/en/post/hour/) [of](/en/post/of/) [the](/en/post/the/) [day](/en/post/day/) [in](/en/post/in/) [some](/en/post/some/) systems [of](/en/post/of/) timekeeping, [especially](/en/post/especially/) [in](/en/post/in/) [religious](/en/post/religious/) contexts.
+- "[The](/post/the/) [ninth](/post/ninth/) [hour](/post/hour/)" refers [to](/post/to/) [the](/post/the/) [ninth](/post/ninth/) [hour](/post/hour/) [of](/post/of/) [the](/post/the/) [day](/post/day/) [in](/post/in/) [some](/post/some/) systems [of](/post/of/) timekeeping, [especially](/post/especially/) [in](/post/in/) [religious](/post/religious/) contexts.
   
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): [He](/en/post/he/) prayed [at](/en/post/at/) [the](/en/post/the/) [ninth](/en/post/ninth/) [hour](/en/post/hour/) [every](/en/post/every/) [day](/en/post/day/).
+  > [Example](/post/example/) [Sentence](/post/sentence/): [He](/post/he/) prayed [at](/post/at/) [the](/post/the/) [ninth](/post/ninth/) [hour](/post/hour/) [every](/post/every/) [day](/post/day/).
 
-- "[Ninth](/en/post/ninth/) inning" is [a](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [in](/en/post/in/) baseball, referring [to](/en/post/to/) [the](/en/post/the/) [final](/en/post/final/) inning [of](/en/post/of/) [a](/en/post/a/) [regulation](/en/post/regulation/) [game](/en/post/game/) [if](/en/post/if/) [the](/en/post/the/) [home](/en/post/home/) [team](/en/post/team/) is [leading](/en/post/leading/).
+- "[Ninth](/post/ninth/) inning" is [a](/post/a/) [term](/post/term/) [used](/post/used/) [in](/post/in/) baseball, referring [to](/post/to/) [the](/post/the/) [final](/post/final/) inning [of](/post/of/) [a](/post/a/) [regulation](/post/regulation/) [game](/post/game/) [if](/post/if/) [the](/post/the/) [home](/post/home/) [team](/post/team/) is [leading](/post/leading/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [ninth](/en/post/ninth/) [chapter](/en/post/chapter/) delves deeper [into](/en/post/into/) [the](/en/post/the/) protagonist's backstory.
-- **Numeral**: [We](/en/post/we/) [will](/en/post/will/) [celebrate](/en/post/celebrate/) [our](/en/post/our/) [ninth](/en/post/ninth/) [wedding](/en/post/wedding/) anniversary [next](/en/post/next/) [month](/en/post/month/).
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [ninth](/post/ninth/) [chapter](/post/chapter/) delves deeper [into](/post/into/) [the](/post/the/) protagonist's backstory.
+- **Numeral**: [We](/post/we/) [will](/post/will/) [celebrate](/post/celebrate/) [our](/post/our/) [ninth](/post/ninth/) [wedding](/post/wedding/) anniversary [next](/post/next/) [month](/post/month/).
 
 ## Synonyms
 - Ninthly (adv.)
-- [Nine](/en/post/nine/) (numeral)
-- Ninthly (ordinal [form](/en/post/form/)): Coming [after](/en/post/after/) [the](/en/post/the/) [eighth](/en/post/eighth/) [in](/en/post/in/) numbering [or](/en/post/or/) [order](/en/post/order/); [being](/en/post/being/) [one](/en/post/one/) [of](/en/post/of/) [nine](/en/post/nine/) [equal](/en/post/equal/) parts [into](/en/post/into/) [which](/en/post/which/) [a](/en/post/a/) [whole](/en/post/whole/) is divided. 
+- [Nine](/post/nine/) (numeral)
+- Ninthly (ordinal [form](/post/form/)): Coming [after](/post/after/) [the](/post/the/) [eighth](/post/eighth/) [in](/post/in/) numbering [or](/post/or/) [order](/post/order/); [being](/post/being/) [one](/post/one/) [of](/post/of/) [nine](/post/nine/) [equal](/post/equal/) parts [into](/post/into/) [which](/post/which/) [a](/post/a/) [whole](/post/whole/) is divided. 
 
-[Note](/en/post/note/): [Unlike](/en/post/unlike/) [some](/en/post/some/) [other](/en/post/other/) words, '[ninth](/en/post/ninth/)' does [not](/en/post/not/) [have](/en/post/have/) [multiple](/en/post/multiple/) part-of-speech usages [like](/en/post/like/) nouns, verbs, [or](/en/post/or/) interjections. [It](/en/post/it/) [primarily](/en/post/primarily/) functions [as](/en/post/as/) an [adjective](/en/post/adjective/) [and](/en/post/and/) [a](/en/post/a/) numeral.
+[Note](/post/note/): [Unlike](/post/unlike/) [some](/post/some/) [other](/post/other/) words, '[ninth](/post/ninth/)' does [not](/post/not/) [have](/post/have/) [multiple](/post/multiple/) part-of-speech usages [like](/post/like/) nouns, verbs, [or](/post/or/) interjections. [It](/post/it/) [primarily](/post/primarily/) functions [as](/post/as/) an [adjective](/post/adjective/) [and](/post/and/) [a](/post/a/) numeral.

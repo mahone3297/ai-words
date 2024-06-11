@@ -12,23 +12,23 @@ keywords = ['ai words', 'reinforce']
 
 ## 释义
 - **动词**:
-  1. 加强，增强。例如: "[The](/post/the/) [addition](/post/addition/) [of](/post/of/) [steel](/post/steel/) beams reinforces [the](/post/the/) building's [structure](/post/structure/)."
-  2. 增援，支援。例如: "[The](/post/the/) [army](/post/army/) reinforced [the](/post/the/) troops [at](/post/at/) [the](/post/the/) [front](/post/front/) [line](/post/line/)."
-  3. 巩固，强化（信念、观点等）。例如: "[Reading](/post/reading/) [more](/post/more/) books reinforces one's [knowledge](/post/knowledge/) [on](/post/on/) [the](/post/the/) [subject](/post/subject/)."
+  1. 加强，增强。例如: "[The](/zh/post/the/) [addition](/zh/post/addition/) [of](/zh/post/of/) [steel](/zh/post/steel/) beams reinforces [the](/zh/post/the/) building's [structure](/zh/post/structure/)."
+  2. 增援，支援。例如: "[The](/zh/post/the/) [army](/zh/post/army/) reinforced [the](/zh/post/the/) troops [at](/zh/post/at/) [the](/zh/post/the/) [front](/zh/post/front/) [line](/zh/post/line/)."
+  3. 巩固，强化（信念、观点等）。例如: "[Reading](/zh/post/reading/) [more](/zh/post/more/) books reinforces one's [knowledge](/zh/post/knowledge/) [on](/zh/post/on/) [the](/zh/post/the/) [subject](/zh/post/subject/)."
 
 ## 短语
-- "[reinforce](/post/reinforce/) one's [position](/post/position/)" 表示加强自己的立场或观点。
-- "[reinforce](/post/reinforce/) troops" 意味着增派军队或兵力。
-- "[reinforce](/post/reinforce/) [learning](/post/learning/)" 指通过重复或实践来巩固学习。
+- "[reinforce](/zh/post/reinforce/) one's [position](/zh/post/position/)" 表示加强自己的立场或观点。
+- "[reinforce](/zh/post/reinforce/) troops" 意味着增派军队或兵力。
+- "[reinforce](/zh/post/reinforce/) [learning](/zh/post/learning/)" 指通过重复或实践来巩固学习。
 
 ## 例句
-- 动词: "[The](/post/the/) engineers decided [to](/post/to/) [reinforce](/post/reinforce/) [the](/post/the/) [bridge](/post/bridge/) [to](/post/to/) [ensure](/post/ensure/) [its](/post/its/) [safety](/post/safety/)."
-- 动词: "[The](/post/the/) [company](/post/company/) reinforced [its](/post/its/) marketing [strategy](/post/strategy/) [with](/post/with/) [a](/post/a/) [new](/post/new/) advertising [campaign](/post/campaign/)."
-- 动词: "[His](/post/his/) [speech](/post/speech/) reinforced [his](/post/his/) commitment [to](/post/to/) environmental issues."
+- 动词: "[The](/zh/post/the/) engineers decided [to](/zh/post/to/) [reinforce](/zh/post/reinforce/) [the](/zh/post/the/) [bridge](/zh/post/bridge/) [to](/zh/post/to/) [ensure](/zh/post/ensure/) [its](/zh/post/its/) [safety](/zh/post/safety/)."
+- 动词: "[The](/zh/post/the/) [company](/zh/post/company/) reinforced [its](/zh/post/its/) marketing [strategy](/zh/post/strategy/) [with](/zh/post/with/) [a](/zh/post/a/) [new](/zh/post/new/) advertising [campaign](/zh/post/campaign/)."
+- 动词: "[His](/zh/post/his/) [speech](/zh/post/speech/) reinforced [his](/zh/post/his/) commitment [to](/zh/post/to/) environmental issues."
 
 ## 同义词
-- [strengthen](/post/strengthen/)
+- [strengthen](/zh/post/strengthen/)
 - fortify
-- [support](/post/support/)
+- [support](/zh/post/support/)
 - boost
 - augment

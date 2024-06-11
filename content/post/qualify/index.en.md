@@ -7,31 +7,31 @@ description = '[ˈkwɔlifai] vt.使具有资格'
 keywords = ['ai words', 'qualify']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkwɒlɪfaɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Qualification**: [A](/en/post/a/) [standard](/en/post/standard/) [or](/en/post/or/) [requirement](/en/post/requirement/) [that](/en/post/that/) [must](/en/post/must/) [be](/en/post/be/) met [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [be](/en/post/be/) considered [suitable](/en/post/suitable/) [or](/en/post/or/) [acceptable](/en/post/acceptable/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/) [or](/en/post/or/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [degree](/en/post/degree/) is [a](/en/post/a/) [necessary](/en/post/necessary/) qualification [for](/en/post/for/) [this](/en/post/this/) [job](/en/post/job/)."
-- **Qualified**: Having [the](/en/post/the/) [necessary](/en/post/necessary/) skills, [knowledge](/en/post/knowledge/), [or](/en/post/or/) [experience](/en/post/experience/) [to](/en/post/to/) [perform](/en/post/perform/) [a](/en/post/a/) [task](/en/post/task/) adequately. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is [a](/en/post/a/) qualified [teacher](/en/post/teacher/) [with](/en/post/with/) years [of](/en/post/of/) [experience](/en/post/experience/)."
+### [Noun](/post/noun/)
+- **Qualification**: [A](/post/a/) [standard](/post/standard/) [or](/post/or/) [requirement](/post/requirement/) [that](/post/that/) [must](/post/must/) [be](/post/be/) met [in](/post/in/) [order](/post/order/) [to](/post/to/) [be](/post/be/) considered [suitable](/post/suitable/) [or](/post/or/) [acceptable](/post/acceptable/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/) [or](/post/or/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [degree](/post/degree/) is [a](/post/a/) [necessary](/post/necessary/) qualification [for](/post/for/) [this](/post/this/) [job](/post/job/)."
+- **Qualified**: Having [the](/post/the/) [necessary](/post/necessary/) skills, [knowledge](/post/knowledge/), [or](/post/or/) [experience](/post/experience/) [to](/post/to/) [perform](/post/perform/) [a](/post/a/) [task](/post/task/) adequately. [For](/post/for/) [example](/post/example/): "[She](/post/she/) is [a](/post/a/) qualified [teacher](/post/teacher/) [with](/post/with/) years [of](/post/of/) [experience](/post/experience/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [qualify](/en/post/qualify/)**: [To](/en/post/to/) [meet](/en/post/meet/) [the](/en/post/the/) conditions [or](/en/post/or/) requirements needed [for](/en/post/for/) [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [job](/en/post/job/), certification, [or](/en/post/or/) eligibility. [For](/en/post/for/) [example](/en/post/example/): "[Many](/en/post/many/) candidates [will](/en/post/will/) [need](/en/post/need/) [to](/en/post/to/) [qualify](/en/post/qualify/) [for](/en/post/for/) [the](/en/post/the/) [scholarship](/en/post/scholarship/) [after](/en/post/after/) submitting [their](/en/post/their/) applications."
-- **[To](/en/post/to/) [qualify](/en/post/qualify/) [for](/en/post/for/)**: [Be](/en/post/be/) eligible [to](/en/post/to/) [receive](/en/post/receive/) [or](/en/post/or/) [participate](/en/post/participate/) [in](/en/post/in/) [something](/en/post/something/) based [on](/en/post/on/) [specific](/en/post/specific/) criteria. [For](/en/post/for/) [example](/en/post/example/): "Employees [who](/en/post/who/) [work](/en/post/work/) [over](/en/post/over/) 40 hours [per](/en/post/per/) [week](/en/post/week/) [may](/en/post/may/) [qualify](/en/post/qualify/) [for](/en/post/for/) [overtime](/en/post/overtime/) [pay](/en/post/pay/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [qualify](/post/qualify/)**: [To](/post/to/) [meet](/post/meet/) [the](/post/the/) conditions [or](/post/or/) requirements needed [for](/post/for/) [something](/post/something/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [job](/post/job/), certification, [or](/post/or/) eligibility. [For](/post/for/) [example](/post/example/): "[Many](/post/many/) candidates [will](/post/will/) [need](/post/need/) [to](/post/to/) [qualify](/post/qualify/) [for](/post/for/) [the](/post/the/) [scholarship](/post/scholarship/) [after](/post/after/) submitting [their](/post/their/) applications."
+- **[To](/post/to/) [qualify](/post/qualify/) [for](/post/for/)**: [Be](/post/be/) eligible [to](/post/to/) [receive](/post/receive/) [or](/post/or/) [participate](/post/participate/) [in](/post/in/) [something](/post/something/) based [on](/post/on/) [specific](/post/specific/) criteria. [For](/post/for/) [example](/post/example/): "Employees [who](/post/who/) [work](/post/work/) [over](/post/over/) 40 hours [per](/post/per/) [week](/post/week/) [may](/post/may/) [qualify](/post/qualify/) [for](/post/for/) [overtime](/post/overtime/) [pay](/post/pay/)."
 
 ## Phrases
-- "[Qualify](/en/post/qualify/) [for](/en/post/for/) promotion" [means](/en/post/means/) [to](/en/post/to/) [meet](/en/post/meet/) [the](/en/post/the/) criteria [for](/en/post/for/) advancing [to](/en/post/to/) [a](/en/post/a/) higher [position](/en/post/position/).
-- "Qualifying [exam](/en/post/exam/)" is an assessment [that](/en/post/that/) [one](/en/post/one/) [must](/en/post/must/) [pass](/en/post/pass/) [to](/en/post/to/) [become](/en/post/become/) eligible [for](/en/post/for/) [a](/en/post/a/) [certain](/en/post/certain/) [status](/en/post/status/) [or](/en/post/or/) [opportunity](/en/post/opportunity/).
-- "[Lack](/en/post/lack/) [of](/en/post/of/) qualifications" refers [to](/en/post/to/) [not](/en/post/not/) having [the](/en/post/the/) [necessary](/en/post/necessary/) skills [or](/en/post/or/) credentials [for](/en/post/for/) [a](/en/post/a/) [role](/en/post/role/).
+- "[Qualify](/post/qualify/) [for](/post/for/) promotion" [means](/post/means/) [to](/post/to/) [meet](/post/meet/) [the](/post/the/) criteria [for](/post/for/) advancing [to](/post/to/) [a](/post/a/) higher [position](/post/position/).
+- "Qualifying [exam](/post/exam/)" is an assessment [that](/post/that/) [one](/post/one/) [must](/post/must/) [pass](/post/pass/) [to](/post/to/) [become](/post/become/) eligible [for](/post/for/) [a](/post/a/) [certain](/post/certain/) [status](/post/status/) [or](/post/or/) [opportunity](/post/opportunity/).
+- "[Lack](/post/lack/) [of](/post/of/) qualifications" refers [to](/post/to/) [not](/post/not/) having [the](/post/the/) [necessary](/post/necessary/) skills [or](/post/or/) credentials [for](/post/for/) [a](/post/a/) [role](/post/role/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was [proud](/en/post/proud/) [to](/en/post/to/) [have](/en/post/have/) earned [her](/en/post/her/) master's [degree](/en/post/degree/), [which](/en/post/which/) was [a](/en/post/a/) [significant](/en/post/significant/) qualification [for](/en/post/for/) [her](/en/post/her/) [career](/en/post/career/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [he](/en/post/he/) [finally](/en/post/finally/) qualified [for](/en/post/for/) [the](/en/post/the/) marathon."
-- **Interjection**: "Congratulations, you've qualified [for](/en/post/for/) [the](/en/post/the/) [final](/en/post/final/) [round](/en/post/round/)!"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was [proud](/post/proud/) [to](/post/to/) [have](/post/have/) earned [her](/post/her/) master's [degree](/post/degree/), [which](/post/which/) was [a](/post/a/) [significant](/post/significant/) qualification [for](/post/for/) [her](/post/her/) [career](/post/career/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) [finally](/post/finally/) qualified [for](/post/for/) [the](/post/the/) marathon."
+- **Interjection**: "Congratulations, you've qualified [for](/post/for/) [the](/post/the/) [final](/post/final/) [round](/post/round/)!"
 
 ## Synonyms
-- [Meet](/en/post/meet/) [the](/en/post/the/) requirements
-- [Be](/en/post/be/) eligible
-- [Be](/en/post/be/) suited
-- [Be](/en/post/be/) [competent](/en/post/competent/)
-- [Be](/en/post/be/) proficient
+- [Meet](/post/meet/) [the](/post/the/) requirements
+- [Be](/post/be/) eligible
+- [Be](/post/be/) suited
+- [Be](/post/be/) [competent](/post/competent/)
+- [Be](/post/be/) proficient

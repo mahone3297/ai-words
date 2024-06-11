@@ -7,39 +7,39 @@ description = '[kəˈpæsiti] n.容量；能力；能量'
 keywords = ['ai words', 'capacity']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈpæsəti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [contain](/en/post/contain/), [hold](/en/post/hold/), [or](/en/post/or/) [accommodate](/en/post/accommodate/) [a](/en/post/a/) [certain](/en/post/certain/) [amount](/en/post/amount/) [or](/en/post/or/) [number](/en/post/number/): *[The](/en/post/the/) [room](/en/post/room/) has [a](/en/post/a/) [large](/en/post/large/) [capacity](/en/post/capacity/).*
-2. [Maximum](/en/post/maximum/) [capacity](/en/post/capacity/) [or](/en/post/or/) [potential](/en/post/potential/): *[The](/en/post/the/) stadium's [capacity](/en/post/capacity/) is 50,000 spectators.*
-3. [Mental](/en/post/mental/) [or](/en/post/or/) [emotional](/en/post/emotional/) [ability](/en/post/ability/) [to](/en/post/to/) [absorb](/en/post/absorb/), [understand](/en/post/understand/), [or](/en/post/or/) [deal](/en/post/deal/) [with](/en/post/with/) [something](/en/post/something/): *[She](/en/post/she/) has [a](/en/post/a/) [great](/en/post/great/) [capacity](/en/post/capacity/) [for](/en/post/for/) empathy.*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [contain](/post/contain/), [hold](/post/hold/), [or](/post/or/) [accommodate](/post/accommodate/) [a](/post/a/) [certain](/post/certain/) [amount](/post/amount/) [or](/post/or/) [number](/post/number/): *[The](/post/the/) [room](/post/room/) has [a](/post/a/) [large](/post/large/) [capacity](/post/capacity/).*
+2. [Maximum](/post/maximum/) [capacity](/post/capacity/) [or](/post/or/) [potential](/post/potential/): *[The](/post/the/) stadium's [capacity](/post/capacity/) is 50,000 spectators.*
+3. [Mental](/post/mental/) [or](/post/or/) [emotional](/post/emotional/) [ability](/post/ability/) [to](/post/to/) [absorb](/post/absorb/), [understand](/post/understand/), [or](/post/or/) [deal](/post/deal/) [with](/post/with/) [something](/post/something/): *[She](/post/she/) has [a](/post/a/) [great](/post/great/) [capacity](/post/capacity/) [for](/post/for/) empathy.*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [fill](/en/post/fill/) [to](/en/post/to/) [its](/en/post/its/) [maximum](/en/post/maximum/) [capacity](/en/post/capacity/): *[The](/en/post/the/) [reservoir](/en/post/reservoir/) [quickly](/en/post/quickly/) filled [with](/en/post/with/) rainwater.*
-2. [To](/en/post/to/) [have](/en/post/have/) [or](/en/post/or/) [show](/en/post/show/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/): *[He](/en/post/he/) has [a](/en/post/a/) [capacity](/en/post/capacity/) [for](/en/post/for/) [learning](/en/post/learning/) [new](/en/post/new/) languages.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [fill](/post/fill/) [to](/post/to/) [its](/post/its/) [maximum](/post/maximum/) [capacity](/post/capacity/): *[The](/post/the/) [reservoir](/post/reservoir/) [quickly](/post/quickly/) filled [with](/post/with/) rainwater.*
+2. [To](/post/to/) [have](/post/have/) [or](/post/or/) [show](/post/show/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [do](/post/do/) [something](/post/something/): *[He](/post/he/) has [a](/post/a/) [capacity](/post/capacity/) [for](/post/for/) [learning](/post/learning/) [new](/post/new/) languages.*
 
 ## Phrases
-- "[Hold](/en/post/hold/) [capacity](/en/post/capacity/)" [means](/en/post/means/) [the](/en/post/the/) [maximum](/en/post/maximum/) [amount](/en/post/amount/) [something](/en/post/something/) [can](/en/post/can/) [hold](/en/post/hold/) [at](/en/post/at/) [any](/en/post/any/) given [time](/en/post/time/).
-- "[Below](/en/post/below/) [capacity](/en/post/capacity/)" refers [to](/en/post/to/) [not](/en/post/not/) [being](/en/post/being/) [full](/en/post/full/) [or](/en/post/or/) operating [at](/en/post/at/) [maximum](/en/post/maximum/) [efficiency](/en/post/efficiency/).
-- "[Expand](/en/post/expand/) [capacity](/en/post/capacity/)" is [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) increasing one's [ability](/en/post/ability/) [to](/en/post/to/) [handle](/en/post/handle/) [more](/en/post/more/).
+- "[Hold](/post/hold/) [capacity](/post/capacity/)" [means](/post/means/) [the](/post/the/) [maximum](/post/maximum/) [amount](/post/amount/) [something](/post/something/) [can](/post/can/) [hold](/post/hold/) [at](/post/at/) [any](/post/any/) given [time](/post/time/).
+- "[Below](/post/below/) [capacity](/post/capacity/)" refers [to](/post/to/) [not](/post/not/) [being](/post/being/) [full](/post/full/) [or](/post/or/) operating [at](/post/at/) [maximum](/post/maximum/) [efficiency](/post/efficiency/).
+- "[Expand](/post/expand/) [capacity](/post/capacity/)" is [the](/post/the/) [action](/post/action/) [of](/post/of/) increasing one's [ability](/post/ability/) [to](/post/to/) [handle](/post/handle/) [more](/post/more/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) server reached [its](/en/post/its/) [capacity](/en/post/capacity/) [and](/en/post/and/) crashed [during](/en/post/during/) [the](/en/post/the/) [peak](/en/post/peak/) hours."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) is working [on](/en/post/on/) expanding [their](/en/post/their/) manufacturing [capacity](/en/post/capacity/) [to](/en/post/to/) [meet](/en/post/meet/) [demand](/en/post/demand/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [phrase](/en/post/phrase/)**: "[She](/en/post/she/) has [the](/en/post/the/) [capacity](/en/post/capacity/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [on](/en/post/on/) [her](/en/post/her/) [own](/en/post/own/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) server reached [its](/post/its/) [capacity](/post/capacity/) [and](/post/and/) crashed [during](/post/during/) [the](/post/the/) [peak](/post/peak/) hours."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [company](/post/company/) is working [on](/post/on/) expanding [their](/post/their/) manufacturing [capacity](/post/capacity/) [to](/post/to/) [meet](/post/meet/) [demand](/post/demand/)."
+- **[As](/post/as/) [a](/post/a/) [verb](/post/verb/) [phrase](/post/phrase/)**: "[She](/post/she/) has [the](/post/the/) [capacity](/post/capacity/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [on](/post/on/) [her](/post/her/) [own](/post/own/)."
 
 ## Synonyms
 - Capability
-- [Capacity](/en/post/capacity/) [to](/en/post/to/) [hold](/en/post/hold/)
+- [Capacity](/post/capacity/) [to](/post/to/) [hold](/post/hold/)
 - Endurance
 - Resilience
-- [Accommodation](/en/post/accommodation/)
+- [Accommodation](/post/accommodation/)
 
 ## Antonyms
 - Insufficiency
 - Limitedness
 - Inadequacy
 - Constraint
-- [Restriction](/en/post/restriction/)
+- [Restriction](/post/restriction/)

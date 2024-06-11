@@ -7,34 +7,34 @@ description = '[ˈveri] ad.很；完全 a.真的'
 keywords = ['ai words', 'very']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈvɛri/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: 1. [To](/en/post/to/) [a](/en/post/a/) [great](/en/post/great/) [extent](/en/post/extent/); [extremely](/en/post/extremely/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [very](/en/post/very/) [tired](/en/post/tired/) [after](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [journey](/en/post/journey/)."
-- **[Adjective](/en/post/adjective/)**: 1. Having [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [quality](/en/post/quality/); [extremely](/en/post/extremely/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [cake](/en/post/cake/) was [very](/en/post/very/) [delicious](/en/post/delicious/)."
-- **[Adjective](/en/post/adjective/)**: 2. ([used](/en/post/used/) [with](/en/post/with/) [comparative](/en/post/comparative/) adjectives) [More](/en/post/more/) [so](/en/post/so/) [than](/en/post/than/) [usual](/en/post/usual/) [or](/en/post/or/) expected. [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [book](/en/post/book/) is [much](/en/post/much/) [more](/en/post/more/) [interesting](/en/post/interesting/) [than](/en/post/than/) [the](/en/post/the/) [previous](/en/post/previous/) [one](/en/post/one/)."
+- **[Adverb](/post/adverb/)**: 1. [To](/post/to/) [a](/post/a/) [great](/post/great/) [extent](/post/extent/); [extremely](/post/extremely/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [very](/post/very/) [tired](/post/tired/) [after](/post/after/) [the](/post/the/) [long](/post/long/) [journey](/post/journey/)."
+- **[Adjective](/post/adjective/)**: 1. Having [a](/post/a/) [high](/post/high/) [degree](/post/degree/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [quality](/post/quality/); [extremely](/post/extremely/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [cake](/post/cake/) was [very](/post/very/) [delicious](/post/delicious/)."
+- **[Adjective](/post/adjective/)**: 2. ([used](/post/used/) [with](/post/with/) [comparative](/post/comparative/) adjectives) [More](/post/more/) [so](/post/so/) [than](/post/than/) [usual](/post/usual/) [or](/post/or/) expected. [For](/post/for/) [example](/post/example/): "[This](/post/this/) [book](/post/book/) is [much](/post/much/) [more](/post/more/) [interesting](/post/interesting/) [than](/post/than/) [the](/post/the/) [previous](/post/previous/) [one](/post/one/)."
 
 ## Phrases
-- "[Very](/en/post/very/) [well](/en/post/well/)" [means](/en/post/means/) [in](/en/post/in/) [excellent](/en/post/excellent/) [condition](/en/post/condition/) [or](/en/post/or/) [state](/en/post/state/).
-- "[Very](/en/post/very/) [good](/en/post/good/)" is [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [approval](/en/post/approval/) [or](/en/post/or/) [satisfaction](/en/post/satisfaction/).
-- "[Not](/en/post/not/) [very](/en/post/very/)" is [a](/en/post/a/) negation indicating [something](/en/post/something/) is [not](/en/post/not/) [extreme](/en/post/extreme/) [or](/en/post/or/) [significant](/en/post/significant/).
+- "[Very](/post/very/) [well](/post/well/)" [means](/post/means/) [in](/post/in/) [excellent](/post/excellent/) [condition](/post/condition/) [or](/post/or/) [state](/post/state/).
+- "[Very](/post/very/) [good](/post/good/)" is [used](/post/used/) [to](/post/to/) [express](/post/express/) [approval](/post/approval/) [or](/post/or/) [satisfaction](/post/satisfaction/).
+- "[Not](/post/not/) [very](/post/very/)" is [a](/post/a/) negation indicating [something](/post/something/) is [not](/post/not/) [extreme](/post/extreme/) [or](/post/or/) [significant](/post/significant/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) worked [very](/en/post/very/) [hard](/en/post/hard/) [on](/en/post/on/) [her](/en/post/her/) [project](/en/post/project/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [weather](/en/post/weather/) was [very](/en/post/very/) [cold](/en/post/cold/) [that](/en/post/that/) [day](/en/post/day/)."
-- **[Adjective](/en/post/adjective/) ([comparative](/en/post/comparative/))**: "I'm [feeling](/en/post/feeling/) [very](/en/post/very/) [happy](/en/post/happy/) [today](/en/post/today/) compared [to](/en/post/to/) [yesterday](/en/post/yesterday/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) worked [very](/post/very/) [hard](/post/hard/) [on](/post/on/) [her](/post/her/) [project](/post/project/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [weather](/post/weather/) was [very](/post/very/) [cold](/post/cold/) [that](/post/that/) [day](/post/day/)."
+- **[Adjective](/post/adjective/) ([comparative](/post/comparative/))**: "I'm [feeling](/post/feeling/) [very](/post/very/) [happy](/post/happy/) [today](/post/today/) compared [to](/post/to/) [yesterday](/post/yesterday/)."
 
 ## Synonyms
-- [Extremely](/en/post/extremely/)
-- [Highly](/en/post/highly/)
+- [Extremely](/post/extremely/)
+- [Highly](/post/highly/)
 - Positively
-- [Absolutely](/en/post/absolutely/)
-- [Exceedingly](/en/post/exceedingly/)
+- [Absolutely](/post/absolutely/)
+- [Exceedingly](/post/exceedingly/)
 
 ## Antonyms
-- [Slightly](/en/post/slightly/)
+- [Slightly](/post/slightly/)
 - Moderately
 - Barely
-- [Not](/en/post/not/) [at](/en/post/at/) [all](/en/post/all/)
+- [Not](/post/not/) [at](/post/at/) [all](/post/all/)
 - Indifferently

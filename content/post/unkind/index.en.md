@@ -7,33 +7,33 @@ description = '[ʌnˈkaind] a.不仁慈的，不和善的'
 keywords = ['ai words', 'unkind']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ʌnˈkaɪnd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [or](/en/post/or/) showing [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [kindness](/en/post/kindness/) [or](/en/post/or/) [consideration](/en/post/consideration/) towards others. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [unkind](/en/post/unkind/) words [hurt](/en/post/hurt/) [his](/en/post/his/) feelings."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [act](/en/post/act/) [in](/en/post/in/) [a](/en/post/a/) [mean](/en/post/mean/) [or](/en/post/or/) [cruel](/en/post/cruel/) [manner](/en/post/manner/) towards [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "Don't [be](/en/post/be/) [unkind](/en/post/unkind/) [to](/en/post/to/) [your](/en/post/your/) [little](/en/post/little/) [sister](/en/post/sister/)."
+- **[Adjective](/post/adjective/)**: Having [or](/post/or/) showing [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [kindness](/post/kindness/) [or](/post/or/) [consideration](/post/consideration/) towards others. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [unkind](/post/unkind/) words [hurt](/post/hurt/) [his](/post/his/) feelings."
+- **[Verb](/post/verb/)**: [To](/post/to/) [act](/post/act/) [in](/post/in/) [a](/post/a/) [mean](/post/mean/) [or](/post/or/) [cruel](/post/cruel/) [manner](/post/manner/) towards [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "Don't [be](/post/be/) [unkind](/post/unkind/) [to](/post/to/) [your](/post/your/) [little](/post/little/) [sister](/post/sister/)."
 
 ## Phrases
-- "An [unkind](/en/post/unkind/) [remark](/en/post/remark/)" refers [to](/en/post/to/) [a](/en/post/a/) hurtful [comment](/en/post/comment/).
-- "[Be](/en/post/be/) [unkind](/en/post/unkind/) [to](/en/post/to/)" implies treating [someone](/en/post/someone/) [badly](/en/post/badly/).
-- "Unkindness [can](/en/post/can/) [have](/en/post/have/) lasting effects" highlights [the](/en/post/the/) [negative](/en/post/negative/) consequences [of](/en/post/of/) [being](/en/post/being/) [unkind](/en/post/unkind/).
+- "An [unkind](/post/unkind/) [remark](/post/remark/)" refers [to](/post/to/) [a](/post/a/) hurtful [comment](/post/comment/).
+- "[Be](/post/be/) [unkind](/post/unkind/) [to](/post/to/)" implies treating [someone](/post/someone/) [badly](/post/badly/).
+- "Unkindness [can](/post/can/) [have](/post/have/) lasting effects" highlights [the](/post/the/) [negative](/post/negative/) consequences [of](/post/of/) [being](/post/being/) [unkind](/post/unkind/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) teacher's [unkind](/en/post/unkind/) [tone](/en/post/tone/) discouraged [the](/en/post/the/) [shy](/en/post/shy/) [student](/en/post/student/) [from](/en/post/from/) participating."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [unkind](/en/post/unkind/) [behavior](/en/post/behavior/) towards [the](/en/post/the/) elderly was [widely](/en/post/widely/) condemned."
-- "[Her](/en/post/her/) unkindness towards [her](/en/post/her/) friends was [surprising](/en/post/surprising/), given [her](/en/post/her/) [usually](/en/post/usually/) [gentle](/en/post/gentle/) [nature](/en/post/nature/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) teacher's [unkind](/post/unkind/) [tone](/post/tone/) discouraged [the](/post/the/) [shy](/post/shy/) [student](/post/student/) [from](/post/from/) participating."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [unkind](/post/unkind/) [behavior](/post/behavior/) towards [the](/post/the/) elderly was [widely](/post/widely/) condemned."
+- "[Her](/post/her/) unkindness towards [her](/post/her/) friends was [surprising](/post/surprising/), given [her](/post/her/) [usually](/post/usually/) [gentle](/post/gentle/) [nature](/post/nature/)."
 
 ## Synonyms
-- [Cruel](/en/post/cruel/)
-- [Harsh](/en/post/harsh/)
+- [Cruel](/post/cruel/)
+- [Harsh](/post/harsh/)
 - Unfriendly
-- [Rude](/en/post/rude/)
-- [Nasty](/en/post/nasty/)
+- [Rude](/post/rude/)
+- [Nasty](/post/nasty/)
 
 ## Antonyms
-- [Kind](/en/post/kind/)
-- [Considerate](/en/post/considerate/)
-- [Gentle](/en/post/gentle/)
-- [Friendly](/en/post/friendly/)
+- [Kind](/post/kind/)
+- [Considerate](/post/considerate/)
+- [Gentle](/post/gentle/)
+- [Friendly](/post/friendly/)
 - Courteous

@@ -11,19 +11,19 @@ keywords = ['ai words', 'certain']
 /ˈsɜːrtn/
 
 ## 释义
-- **形容词**: 确定的，肯定的。例如: "I am [certain](/post/certain/) [that](/post/that/) [he](/post/he/) [will](/post/will/) [come](/post/come/)."
-- **名词**: (常与不定冠词"[a](/post/a/)"连用)某一特定的事物或人。例如: "There's [a](/post/a/) [certain](/post/certain/) charm [about](/post/about/) [the](/post/the/) [old](/post/old/) [town](/post/town/)."
+- **形容词**: 确定的，肯定的。例如: "I am [certain](/zh/post/certain/) [that](/zh/post/that/) [he](/zh/post/he/) [will](/zh/post/will/) [come](/zh/post/come/)."
+- **名词**: (常与不定冠词"[a](/zh/post/a/)"连用)某一特定的事物或人。例如: "There's [a](/zh/post/a/) [certain](/zh/post/certain/) charm [about](/zh/post/about/) [the](/zh/post/the/) [old](/zh/post/old/) [town](/zh/post/town/)."
 
 ## 短语
-- "[certainly](/post/certainly/)" 作为副词，意思是“当然”，“无疑地”。
+- "[certainly](/zh/post/certainly/)" 作为副词，意思是“当然”，“无疑地”。
 
 ## 例句
-- 形容词: "[She](/post/she/) was [certain](/post/certain/) [of](/post/of/) [her](/post/her/) [success](/post/success/) [in](/post/in/) [the](/post/the/) [exam](/post/exam/)."
-- 名词: "[There](/post/there/) is [a](/post/a/) [certain](/post/certain/) [way](/post/way/) [he](/post/he/) smiles [that](/post/that/) [always](/post/always/) makes [me](/post/me/) [smile](/post/smile/) [too](/post/too/)."
+- 形容词: "[She](/zh/post/she/) was [certain](/zh/post/certain/) [of](/zh/post/of/) [her](/zh/post/her/) [success](/zh/post/success/) [in](/zh/post/in/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
+- 名词: "[There](/zh/post/there/) is [a](/zh/post/a/) [certain](/zh/post/certain/) [way](/zh/post/way/) [he](/zh/post/he/) smiles [that](/zh/post/that/) [always](/zh/post/always/) makes [me](/zh/post/me/) [smile](/zh/post/smile/) [too](/zh/post/too/)."
 
 ## 同义词
-- [sure](/post/sure/)
-- [definite](/post/definite/)
-- [positive](/post/positive/)
+- [sure](/zh/post/sure/)
+- [definite](/zh/post/definite/)
+- [positive](/zh/post/positive/)
 - assured
-- [confident](/post/confident/)
+- [confident](/zh/post/confident/)

@@ -7,32 +7,32 @@ description = '[ˈfeəˈwel] int.再会 n.告别'
 keywords = ['ai words', 'farewell']
 +++
 
-## [Word](/en/post/word/): [Farewell](/en/post/farewell/)
+## [Word](/post/word/): [Farewell](/post/farewell/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌfeə(r)ˈwel/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) spoken [expression](/en/post/expression/) [of](/en/post/of/) [good](/en/post/good/) wishes [upon](/en/post/upon/) [departure](/en/post/departure/); [a](/en/post/a/) [goodbye](/en/post/goodbye/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) exchanged farewells [before](/en/post/before/) [he](/en/post/he/) boarded [the](/en/post/the/) [train](/en/post/train/)."
-- **[Verb](/en/post/verb/)**: ([farewell](/en/post/farewell/) [something](/en/post/something/)/[someone](/en/post/someone/)) [To](/en/post/to/) [say](/en/post/say/) [goodbye](/en/post/goodbye/) [or](/en/post/or/) [express](/en/post/express/) [good](/en/post/good/) wishes [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is leaving. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [family](/en/post/family/) gathered [to](/en/post/to/) [farewell](/en/post/farewell/) [their](/en/post/their/) [son](/en/post/son/) [as](/en/post/as/) [he](/en/post/he/) [left](/en/post/left/) [for](/en/post/for/) [college](/en/post/college/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) spoken [expression](/post/expression/) [of](/post/of/) [good](/post/good/) wishes [upon](/post/upon/) [departure](/post/departure/); [a](/post/a/) [goodbye](/post/goodbye/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) exchanged farewells [before](/post/before/) [he](/post/he/) boarded [the](/post/the/) [train](/post/train/)."
+- **[Verb](/post/verb/)**: ([farewell](/post/farewell/) [something](/post/something/)/[someone](/post/someone/)) [To](/post/to/) [say](/post/say/) [goodbye](/post/goodbye/) [or](/post/or/) [express](/post/express/) [good](/post/good/) wishes [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is leaving. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [family](/post/family/) gathered [to](/post/to/) [farewell](/post/farewell/) [their](/post/their/) [son](/post/son/) [as](/post/as/) [he](/post/he/) [left](/post/left/) [for](/post/for/) [college](/post/college/)."
 
 ## Phrases
-- "Bid [farewell](/en/post/farewell/)": [To](/en/post/to/) [say](/en/post/say/) [goodbye](/en/post/goodbye/) [or](/en/post/or/) [take](/en/post/take/) [leave](/en/post/leave/) [from](/en/post/from/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) bid [farewell](/en/post/farewell/) [to](/en/post/to/) [our](/en/post/our/) [summer](/en/post/summer/) [home](/en/post/home/) [until](/en/post/until/) [next](/en/post/next/) [year](/en/post/year/)."
-- "[Farewell](/en/post/farewell/) [party](/en/post/party/)": [A](/en/post/a/) [social](/en/post/social/) gathering held [to](/en/post/to/) [celebrate](/en/post/celebrate/) [and](/en/post/and/) [say](/en/post/say/) [goodbye](/en/post/goodbye/) [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is [about](/en/post/about/) [to](/en/post/to/) [depart](/en/post/depart/) [or](/en/post/or/) [leave](/en/post/leave/) [a](/en/post/a/) [job](/en/post/job/), [school](/en/post/school/), [or](/en/post/or/) [place](/en/post/place/).
-- "[Fare](/en/post/fare/) thee [well](/en/post/well/)": An archaic [but](/en/post/but/) poetic [form](/en/post/form/) [of](/en/post/of/) saying [goodbye](/en/post/goodbye/), expressing one's [hope](/en/post/hope/) [that](/en/post/that/) [the](/en/post/the/) [person](/en/post/person/) [will](/en/post/will/) [do](/en/post/do/) [well](/en/post/well/) [in](/en/post/in/) [their](/en/post/their/) [future](/en/post/future/) endeavors.
+- "Bid [farewell](/post/farewell/)": [To](/post/to/) [say](/post/say/) [goodbye](/post/goodbye/) [or](/post/or/) [take](/post/take/) [leave](/post/leave/) [from](/post/from/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) bid [farewell](/post/farewell/) [to](/post/to/) [our](/post/our/) [summer](/post/summer/) [home](/post/home/) [until](/post/until/) [next](/post/next/) [year](/post/year/)."
+- "[Farewell](/post/farewell/) [party](/post/party/)": [A](/post/a/) [social](/post/social/) gathering held [to](/post/to/) [celebrate](/post/celebrate/) [and](/post/and/) [say](/post/say/) [goodbye](/post/goodbye/) [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is [about](/post/about/) [to](/post/to/) [depart](/post/depart/) [or](/post/or/) [leave](/post/leave/) [a](/post/a/) [job](/post/job/), [school](/post/school/), [or](/post/or/) [place](/post/place/).
+- "[Fare](/post/fare/) thee [well](/post/well/)": An archaic [but](/post/but/) poetic [form](/post/form/) [of](/post/of/) saying [goodbye](/post/goodbye/), expressing one's [hope](/post/hope/) [that](/post/that/) [the](/post/the/) [person](/post/person/) [will](/post/will/) [do](/post/do/) [well](/post/well/) [in](/post/in/) [their](/post/their/) [future](/post/future/) endeavors.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) couldn't [hold](/en/post/hold/) [back](/en/post/back/) tears [during](/en/post/during/) [her](/en/post/her/) [final](/en/post/final/) [farewell](/en/post/farewell/) [to](/en/post/to/) [her](/en/post/her/) colleagues."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [captain](/en/post/captain/) came [on](/en/post/on/) [the](/en/post/the/) intercom [to](/en/post/to/) [farewell](/en/post/farewell/) [the](/en/post/the/) passengers disembarking [at](/en/post/at/) Heathrow [Airport](/en/post/airport/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) couldn't [hold](/post/hold/) [back](/post/back/) tears [during](/post/during/) [her](/post/her/) [final](/post/final/) [farewell](/post/farewell/) [to](/post/to/) [her](/post/her/) colleagues."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [captain](/post/captain/) came [on](/post/on/) [the](/post/the/) intercom [to](/post/to/) [farewell](/post/farewell/) [the](/post/the/) passengers disembarking [at](/post/at/) Heathrow [Airport](/post/airport/)."
 
 ## Synonyms
-- [Goodbye](/en/post/goodbye/)
+- [Goodbye](/post/goodbye/)
 - Adieu
 - Good-bye
 - Bye-bye
-- [Take](/en/post/take/) [care](/en/post/care/)
-- [See](/en/post/see/) [you](/en/post/you/) [later](/en/post/later/)
+- [Take](/post/take/) [care](/post/care/)
+- [See](/post/see/) [you](/post/you/) [later](/post/later/)
 - Godspeed
-- Bon [voyage](/en/post/voyage/)
+- Bon [voyage](/post/voyage/)
 - Adios
 - Cheerio (informal British English)

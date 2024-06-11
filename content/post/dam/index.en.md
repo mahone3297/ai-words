@@ -7,32 +7,32 @@ description = '[dæm] n.水坝，水堤；障碍物'
 keywords = ['ai words', 'dam']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dæm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Dam](/en/post/dam/)** (n): [A](/en/post/a/) [structure](/en/post/structure/) built [across](/en/post/across/) [a](/en/post/a/) [river](/en/post/river/) [or](/en/post/or/) [other](/en/post/other/) waterway [to](/en/post/to/) [hold](/en/post/hold/) [back](/en/post/back/) [water](/en/post/water/) [and](/en/post/and/) [create](/en/post/create/) [a](/en/post/a/) [reservoir](/en/post/reservoir/) [or](/en/post/or/) [control](/en/post/control/) [its](/en/post/its/) [flow](/en/post/flow/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) hydroelectric [dam](/en/post/dam/) produces [clean](/en/post/clean/) [energy](/en/post/energy/) [for](/en/post/for/) [the](/en/post/the/) [city](/en/post/city/)."
-2. **[Dam](/en/post/dam/)** (n, pl. dams): [A](/en/post/a/) [barrier](/en/post/barrier/) [or](/en/post/or/) obstruction, [often](/en/post/often/) [emotional](/en/post/emotional/), [that](/en/post/that/) prevents [something](/en/post/something/) [from](/en/post/from/) flowing [or](/en/post/or/) expressing [itself](/en/post/itself/).
-   - [Example](/en/post/example/): "[Her](/en/post/her/) [silence](/en/post/silence/) was [a](/en/post/a/) [dam](/en/post/dam/) [against](/en/post/against/) [her](/en/post/her/) feelings."
+### [Noun](/post/noun/)
+1. **[Dam](/post/dam/)** (n): [A](/post/a/) [structure](/post/structure/) built [across](/post/across/) [a](/post/a/) [river](/post/river/) [or](/post/or/) [other](/post/other/) waterway [to](/post/to/) [hold](/post/hold/) [back](/post/back/) [water](/post/water/) [and](/post/and/) [create](/post/create/) [a](/post/a/) [reservoir](/post/reservoir/) [or](/post/or/) [control](/post/control/) [its](/post/its/) [flow](/post/flow/).
+   - [Example](/post/example/): "[The](/post/the/) hydroelectric [dam](/post/dam/) produces [clean](/post/clean/) [energy](/post/energy/) [for](/post/for/) [the](/post/the/) [city](/post/city/)."
+2. **[Dam](/post/dam/)** (n, pl. dams): [A](/post/a/) [barrier](/post/barrier/) [or](/post/or/) obstruction, [often](/post/often/) [emotional](/post/emotional/), [that](/post/that/) prevents [something](/post/something/) [from](/post/from/) flowing [or](/post/or/) expressing [itself](/post/itself/).
+   - [Example](/post/example/): "[Her](/post/her/) [silence](/post/silence/) was [a](/post/a/) [dam](/post/dam/) [against](/post/against/) [her](/post/her/) feelings."
 
-### [Verb](/en/post/verb/)
-- [Not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [on](/en/post/on/) [its](/en/post/its/) [own](/en/post/own/) [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [compound](/en/post/compound/) forms [like](/en/post/like/) "[to](/en/post/to/) [dam](/en/post/dam/) [up](/en/post/up/)" [or](/en/post/or/) "[to](/en/post/to/) impound."
-   - [Example](/en/post/example/) (informal): "[He](/en/post/he/) tried [to](/en/post/to/) [dam](/en/post/dam/) [up](/en/post/up/) [his](/en/post/his/) emotions [during](/en/post/during/) [the](/en/post/the/) presentation."
+### [Verb](/post/verb/)
+- [Not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [on](/post/on/) [its](/post/its/) [own](/post/own/) [but](/post/but/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [compound](/post/compound/) forms [like](/post/like/) "[to](/post/to/) [dam](/post/dam/) [up](/post/up/)" [or](/post/or/) "[to](/post/to/) impound."
+   - [Example](/post/example/) (informal): "[He](/post/he/) tried [to](/post/to/) [dam](/post/dam/) [up](/post/up/) [his](/post/his/) emotions [during](/post/during/) [the](/post/the/) presentation."
 
 ## Phrases
-- "[Control](/en/post/control/) [the](/en/post/the/) [flow](/en/post/flow/) [of](/en/post/of/) [a](/en/post/a/) [river](/en/post/river/) [with](/en/post/with/) [a](/en/post/a/) [dam](/en/post/dam/)"
-- "Impound [water](/en/post/water/) [behind](/en/post/behind/) [a](/en/post/a/) [dam](/en/post/dam/)"
-- "[Emotional](/en/post/emotional/) [dam](/en/post/dam/) breaking"
+- "[Control](/post/control/) [the](/post/the/) [flow](/post/flow/) [of](/post/of/) [a](/post/a/) [river](/post/river/) [with](/post/with/) [a](/post/a/) [dam](/post/dam/)"
+- "Impound [water](/post/water/) [behind](/post/behind/) [a](/post/a/) [dam](/post/dam/)"
+- "[Emotional](/post/emotional/) [dam](/post/dam/) breaking"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) engineers are constructing [a](/en/post/a/) [new](/en/post/new/) [dam](/en/post/dam/) [to](/en/post/to/) [prevent](/en/post/prevent/) flooding [in](/en/post/in/) [the](/en/post/the/) [valley](/en/post/valley/)."
-- **[Emotional](/en/post/emotional/)**: "[After](/en/post/after/) years [of](/en/post/of/) holding [back](/en/post/back/), [she](/en/post/she/) [finally](/en/post/finally/) allowed [her](/en/post/her/) emotions [to](/en/post/to/) [dam](/en/post/dam/) [to](/en/post/to/) [break](/en/post/break/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) engineers are constructing [a](/post/a/) [new](/post/new/) [dam](/post/dam/) [to](/post/to/) [prevent](/post/prevent/) flooding [in](/post/in/) [the](/post/the/) [valley](/post/valley/)."
+- **[Emotional](/post/emotional/)**: "[After](/post/after/) years [of](/post/of/) holding [back](/post/back/), [she](/post/she/) [finally](/post/finally/) allowed [her](/post/her/) emotions [to](/post/to/) [dam](/post/dam/) [to](/post/to/) [break](/post/break/)."
 
 ## Synonyms
-- [Flood](/en/post/flood/) [barrier](/en/post/barrier/)
+- [Flood](/post/flood/) [barrier](/post/barrier/)
 - Dike
 - Weir
 - Embankment
-- Checkpoint ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) controlling [water](/en/post/water/) [flow](/en/post/flow/))
+- Checkpoint ([in](/post/in/) [the](/post/the/) context [of](/post/of/) controlling [water](/post/water/) [flow](/post/flow/))

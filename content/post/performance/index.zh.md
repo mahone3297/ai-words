@@ -12,28 +12,28 @@ keywords = ['ai words', 'performance']
 
 ## 释义
 - **名词 n**:
-  - 表演；演出：[The](/post/the/) theater group's [performance](/post/performance/) [of](/post/of/) Hamlet was [excellent](/post/excellent/).
-  - 执行；表现：[The](/post/the/) car's [performance](/post/performance/) [on](/post/on/) [the](/post/the/) [track](/post/track/) was [impressive](/post/impressive/).
-  - 成绩；成果：[Her](/post/her/) [performance](/post/performance/) [in](/post/in/) [the](/post/the/) [exam](/post/exam/) was [outstanding](/post/outstanding/).
-  - 展示；展现：[The](/post/the/) athlete's [performance](/post/performance/) [in](/post/in/) [the](/post/the/) [high](/post/high/) [jump](/post/jump/) was [a](/post/a/) [spectacle](/post/spectacle/).
+  - 表演；演出：[The](/zh/post/the/) theater group's [performance](/zh/post/performance/) [of](/zh/post/of/) Hamlet was [excellent](/zh/post/excellent/).
+  - 执行；表现：[The](/zh/post/the/) car's [performance](/zh/post/performance/) [on](/zh/post/on/) [the](/zh/post/the/) [track](/zh/post/track/) was [impressive](/zh/post/impressive/).
+  - 成绩；成果：[Her](/zh/post/her/) [performance](/zh/post/performance/) [in](/zh/post/in/) [the](/zh/post/the/) [exam](/zh/post/exam/) was [outstanding](/zh/post/outstanding/).
+  - 展示；展现：[The](/zh/post/the/) athlete's [performance](/zh/post/performance/) [in](/zh/post/in/) [the](/zh/post/the/) [high](/zh/post/high/) [jump](/zh/post/jump/) was [a](/zh/post/a/) [spectacle](/zh/post/spectacle/).
 
 - **动词 v**:
-  - 表演；执行：[The](/post/the/) [band](/post/band/) [will](/post/will/) [perform](/post/perform/) [live](/post/live/) [tonight](/post/tonight/).
-  - 实施；完成：[The](/post/the/) [project](/post/project/) is [being](/post/being/) performed according [to](/post/to/) [plan](/post/plan/).
+  - 表演；执行：[The](/zh/post/the/) [band](/zh/post/band/) [will](/zh/post/will/) [perform](/zh/post/perform/) [live](/zh/post/live/) [tonight](/zh/post/tonight/).
+  - 实施；完成：[The](/zh/post/the/) [project](/zh/post/project/) is [being](/zh/post/being/) performed according [to](/zh/post/to/) [plan](/zh/post/plan/).
 
 ## 短语
-- "[Give](/post/give/) [a](/post/a/) [performance](/post/performance/)" 意为进行一次表演。
-- "[Performance](/post/performance/) [review](/post/review/)" 是对员工工作表现的评估。
-- "[Performance](/post/performance/) [art](/post/art/)" 指以行为作为艺术表达形式的表演。
+- "[Give](/zh/post/give/) [a](/zh/post/a/) [performance](/zh/post/performance/)" 意为进行一次表演。
+- "[Performance](/zh/post/performance/) [review](/zh/post/review/)" 是对员工工作表现的评估。
+- "[Performance](/zh/post/performance/) [art](/zh/post/art/)" 指以行为作为艺术表达形式的表演。
 
 ## 例句
-- 名词: "[The](/post/the/) [dance](/post/dance/) troupe's [performance](/post/performance/) was [the](/post/the/) highlight [of](/post/of/) [the](/post/the/) [festival](/post/festival/)."
-- 动词: "[The](/post/the/) magician performed [several](/post/several/) tricks [for](/post/for/) [the](/post/the/) [audience](/post/audience/)."
-- 介词短语: "[Their](/post/their/) team's [performance](/post/performance/) [in](/post/in/) [the](/post/the/) [last](/post/last/) [season](/post/season/) was disappointing."
+- 名词: "[The](/zh/post/the/) [dance](/zh/post/dance/) troupe's [performance](/zh/post/performance/) was [the](/zh/post/the/) highlight [of](/zh/post/of/) [the](/zh/post/the/) [festival](/zh/post/festival/)."
+- 动词: "[The](/zh/post/the/) magician performed [several](/zh/post/several/) tricks [for](/zh/post/for/) [the](/zh/post/the/) [audience](/zh/post/audience/)."
+- 介词短语: "[Their](/zh/post/their/) team's [performance](/zh/post/performance/) [in](/zh/post/in/) [the](/zh/post/the/) [last](/zh/post/last/) [season](/zh/post/season/) was disappointing."
 
 ## 同义词
-- [Show](/post/show/)
-- [Display](/post/display/)
-- [Exhibition](/post/exhibition/)
+- [Show](/zh/post/show/)
+- [Display](/zh/post/display/)
+- [Exhibition](/zh/post/exhibition/)
 - Rendering
-- [Act](/post/act/)
+- [Act](/zh/post/act/)

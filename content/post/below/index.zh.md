@@ -11,23 +11,23 @@ keywords = ['ai words', 'below']
 /bɪˈləʊ/
 
 ## 释义
-- **介词**: 在...下面；低于...。例如: "[The](/post/the/) [table](/post/table/) is [below](/post/below/) [the](/post/the/) [window](/post/window/)." 
-- **副词**: 在下面；向下。例如: "[Please](/post/please/) [put](/post/put/) [the](/post/the/) [book](/post/book/) [below](/post/below/) [the](/post/the/) [desk](/post/desk/)."
-- **形容词**: 下方的；在下面的。例如: "There's [a](/post/a/) [note](/post/note/) written [below](/post/below/) [the](/post/the/) [signature](/post/signature/)."
+- **介词**: 在...下面；低于...。例如: "[The](/zh/post/the/) [table](/zh/post/table/) is [below](/zh/post/below/) [the](/zh/post/the/) [window](/zh/post/window/)." 
+- **副词**: 在下面；向下。例如: "[Please](/zh/post/please/) [put](/zh/post/put/) [the](/zh/post/the/) [book](/zh/post/book/) [below](/zh/post/below/) [the](/zh/post/the/) [desk](/zh/post/desk/)."
+- **形容词**: 下方的；在下面的。例如: "There's [a](/zh/post/a/) [note](/zh/post/note/) written [below](/zh/post/below/) [the](/zh/post/the/) [signature](/zh/post/signature/)."
 
 ## 短语
-- "[below](/post/below/) [average](/post/average/)" 表示低于平均水平。
-- "[below](/post/below/) freezing" 指温度在冰点以下。
-- "[fall](/post/fall/) [below](/post/below/)" 意味着下降到某个标准或水平之下。
+- "[below](/zh/post/below/) [average](/zh/post/average/)" 表示低于平均水平。
+- "[below](/zh/post/below/) freezing" 指温度在冰点以下。
+- "[fall](/zh/post/fall/) [below](/zh/post/below/)" 意味着下降到某个标准或水平之下。
 
 ## 例句
-- 介词: "[The](/post/the/) [temperature](/post/temperature/) has dropped [below](/post/below/) [zero](/post/zero/) degrees Celsius."
-- 副词: "[She](/post/she/) looked [down](/post/down/), [and](/post/and/) [saw](/post/saw/) [a](/post/a/) [small](/post/small/) [dog](/post/dog/) [below](/post/below/) [her](/post/her/)."
-- 形容词: "[The](/post/the/) basement is [usually](/post/usually/) colder [because](/post/because/) it's [below](/post/below/) [ground](/post/ground/) [level](/post/level/)."
+- 介词: "[The](/zh/post/the/) [temperature](/zh/post/temperature/) has dropped [below](/zh/post/below/) [zero](/zh/post/zero/) degrees Celsius."
+- 副词: "[She](/zh/post/she/) looked [down](/zh/post/down/), [and](/zh/post/and/) [saw](/zh/post/saw/) [a](/zh/post/a/) [small](/zh/post/small/) [dog](/zh/post/dog/) [below](/zh/post/below/) [her](/zh/post/her/)."
+- 形容词: "[The](/zh/post/the/) basement is [usually](/zh/post/usually/) colder [because](/zh/post/because/) it's [below](/zh/post/below/) [ground](/zh/post/ground/) [level](/zh/post/level/)."
 
 ## 同义词
-- [Beneath](/post/beneath/)
-- [Underneath](/post/underneath/)
-- [Lower](/post/lower/) [than](/post/than/)
-- [Down](/post/down/) [below](/post/below/)
-- [At](/post/at/) [a](/post/a/) [lower](/post/lower/) [level](/post/level/)
+- [Beneath](/zh/post/beneath/)
+- [Underneath](/zh/post/underneath/)
+- [Lower](/zh/post/lower/) [than](/zh/post/than/)
+- [Down](/zh/post/down/) [below](/zh/post/below/)
+- [At](/zh/post/at/) [a](/zh/post/a/) [lower](/zh/post/lower/) [level](/zh/post/level/)

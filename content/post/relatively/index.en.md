@@ -7,33 +7,33 @@ description = '[ˈrelətivli] ad.相对地，比较地'
 keywords = ['ai words', 'relatively']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈlaɪtli/
 
 ## Definitions
-### [Adverb](/en/post/adverb/)
-- [Used](/en/post/used/) [to](/en/post/to/) [modify](/en/post/modify/) verbs, adjectives, [or](/en/post/or/) [other](/en/post/other/) adverbs, indicating [the](/en/post/the/) [degree](/en/post/degree/) [to](/en/post/to/) [which](/en/post/which/) [something](/en/post/something/) is [true](/en/post/true/) [or](/en/post/or/) occurs. [It](/en/post/it/) suggests [a](/en/post/a/) [comparison](/en/post/comparison/) [or](/en/post/or/) [measurement](/en/post/measurement/) [with](/en/post/with/) [respect](/en/post/respect/) [to](/en/post/to/) [some](/en/post/some/) [standard](/en/post/standard/).
+### [Adverb](/post/adverb/)
+- [Used](/post/used/) [to](/post/to/) [modify](/post/modify/) verbs, adjectives, [or](/post/or/) [other](/post/other/) adverbs, indicating [the](/post/the/) [degree](/post/degree/) [to](/post/to/) [which](/post/which/) [something](/post/something/) is [true](/post/true/) [or](/post/or/) occurs. [It](/post/it/) suggests [a](/post/a/) [comparison](/post/comparison/) [or](/post/or/) [measurement](/post/measurement/) [with](/post/with/) [respect](/post/respect/) [to](/post/to/) [some](/post/some/) [standard](/post/standard/).
 
 ## Phrases
-- "[Relatively](/en/post/relatively/) speaking" introduces [a](/en/post/a/) [comparison](/en/post/comparison/) [or](/en/post/or/) qualification.
-- "He's [quite](/en/post/quite/) [fit](/en/post/fit/), [relatively](/en/post/relatively/) speaking."
-- "[Her](/en/post/her/) [work](/en/post/work/) is [good](/en/post/good/), considering [the](/en/post/the/) [short](/en/post/short/) [time](/en/post/time/) [frame](/en/post/frame/), [relatively](/en/post/relatively/)."
+- "[Relatively](/post/relatively/) speaking" introduces [a](/post/a/) [comparison](/post/comparison/) [or](/post/or/) qualification.
+- "He's [quite](/post/quite/) [fit](/post/fit/), [relatively](/post/relatively/) speaking."
+- "[Her](/post/her/) [work](/post/work/) is [good](/post/good/), considering [the](/post/the/) [short](/post/short/) [time](/post/time/) [frame](/post/frame/), [relatively](/post/relatively/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [project](/en/post/project/) was completed [relatively](/en/post/relatively/) [quickly](/en/post/quickly/) compared [to](/en/post/to/) [previous](/en/post/previous/) ones."
-- "[She](/en/post/she/) is doing [well](/en/post/well/), [relatively](/en/post/relatively/), given [her](/en/post/her/) circumstances."
-- "[Their](/en/post/their/) [income](/en/post/income/) is [above](/en/post/above/) [average](/en/post/average/), [relatively](/en/post/relatively/) speaking."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [project](/post/project/) was completed [relatively](/post/relatively/) [quickly](/post/quickly/) compared [to](/post/to/) [previous](/post/previous/) ones."
+- "[She](/post/she/) is doing [well](/post/well/), [relatively](/post/relatively/), given [her](/post/her/) circumstances."
+- "[Their](/post/their/) [income](/post/income/) is [above](/post/above/) [average](/post/average/), [relatively](/post/relatively/) speaking."
 
 ## Synonyms
-- [Fairly](/en/post/fairly/)
-- [Approximately](/en/post/approximately/)
+- [Fairly](/post/fairly/)
+- [Approximately](/post/approximately/)
 - Comparatively
-- [To](/en/post/to/) [some](/en/post/some/) [extent](/en/post/extent/)
-- [In](/en/post/in/) [a](/en/post/a/) [comparative](/en/post/comparative/) [manner](/en/post/manner/)
+- [To](/post/to/) [some](/post/some/) [extent](/post/extent/)
+- [In](/post/in/) [a](/post/a/) [comparative](/post/comparative/) [manner](/post/manner/)
 
 ## Antonyms
-- [Absolutely](/en/post/absolutely/)
-- [Completely](/en/post/completely/)
+- [Absolutely](/post/absolutely/)
+- [Completely](/post/completely/)
 - Unconditionally
-- [Exclusively](/en/post/exclusively/)
-- Literally ([when](/en/post/when/) emphasizing an [absolute](/en/post/absolute/) [truth](/en/post/truth/))
+- [Exclusively](/post/exclusively/)
+- Literally ([when](/post/when/) emphasizing an [absolute](/post/absolute/) [truth](/post/truth/))

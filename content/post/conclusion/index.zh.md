@@ -12,20 +12,20 @@ keywords = ['ai words', 'conclusion']
 
 ## 释义
 - **名词**:
-    - 结论；推论：在论证或讨论后得出的最后观点或决定。例如: "[The](/post/the/) [conclusion](/post/conclusion/) [of](/post/of/) [the](/post/the/) [debate](/post/debate/) was [that](/post/that/) [the](/post/the/) [proposal](/post/proposal/) [should](/post/should/) [be](/post/be/) accepted."
-    - （报告、论文等的）结尾部分：通常包含对主要观点的总结和概括。例如: "[In](/post/in/) [the](/post/the/) [conclusion](/post/conclusion/) [of](/post/of/) [his](/post/his/) [essay](/post/essay/), [he](/post/he/) summarized [the](/post/the/) [main](/post/main/) arguments."
+    - 结论；推论：在论证或讨论后得出的最后观点或决定。例如: "[The](/zh/post/the/) [conclusion](/zh/post/conclusion/) [of](/zh/post/of/) [the](/zh/post/the/) [debate](/zh/post/debate/) was [that](/zh/post/that/) [the](/zh/post/the/) [proposal](/zh/post/proposal/) [should](/zh/post/should/) [be](/zh/post/be/) accepted."
+    - （报告、论文等的）结尾部分：通常包含对主要观点的总结和概括。例如: "[In](/zh/post/in/) [the](/zh/post/the/) [conclusion](/zh/post/conclusion/) [of](/zh/post/of/) [his](/zh/post/his/) [essay](/zh/post/essay/), [he](/zh/post/he/) summarized [the](/zh/post/the/) [main](/zh/post/main/) arguments."
 
 ## 短语
-- "[draw](/post/draw/) [a](/post/a/) [conclusion](/post/conclusion/)" 意为得出结论，例如: "[After](/post/after/) analyzing [the](/post/the/) [data](/post/data/), [they](/post/they/) drew [the](/post/the/) [conclusion](/post/conclusion/) [that](/post/that/) [the](/post/the/) [treatment](/post/treatment/) was [effective](/post/effective/)."
-- "[final](/post/final/) [conclusion](/post/conclusion/)" 指最终的结论，例如: "It's [too](/post/too/) [early](/post/early/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [final](/post/final/) [conclusion](/post/conclusion/) [about](/post/about/) [the](/post/the/) project's [outcome](/post/outcome/)."
+- "[draw](/zh/post/draw/) [a](/zh/post/a/) [conclusion](/zh/post/conclusion/)" 意为得出结论，例如: "[After](/zh/post/after/) analyzing [the](/zh/post/the/) [data](/zh/post/data/), [they](/zh/post/they/) drew [the](/zh/post/the/) [conclusion](/zh/post/conclusion/) [that](/zh/post/that/) [the](/zh/post/the/) [treatment](/zh/post/treatment/) was [effective](/zh/post/effective/)."
+- "[final](/zh/post/final/) [conclusion](/zh/post/conclusion/)" 指最终的结论，例如: "It's [too](/zh/post/too/) [early](/zh/post/early/) [to](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) [final](/zh/post/final/) [conclusion](/zh/post/conclusion/) [about](/zh/post/about/) [the](/zh/post/the/) project's [outcome](/zh/post/outcome/)."
 
 ## 例句
-- 名词: "[The](/post/the/) speaker's [conclusion](/post/conclusion/) [left](/post/left/) [the](/post/the/) [audience](/post/audience/) [with](/post/with/) [much](/post/much/) [to](/post/to/) [think](/post/think/) [about](/post/about/)."
-- 动词（非标准用法，多见于口语）: "[We](/post/we/) [can](/post/can/) [conclude](/post/conclude/) [from](/post/from/) [the](/post/the/) [evidence](/post/evidence/) [that](/post/that/) [the](/post/the/) [suspect](/post/suspect/) was [present](/post/present/) [at](/post/at/) [the](/post/the/) [scene](/post/scene/)."
+- 名词: "[The](/zh/post/the/) speaker's [conclusion](/zh/post/conclusion/) [left](/zh/post/left/) [the](/zh/post/the/) [audience](/zh/post/audience/) [with](/zh/post/with/) [much](/zh/post/much/) [to](/zh/post/to/) [think](/zh/post/think/) [about](/zh/post/about/)."
+- 动词（非标准用法，多见于口语）: "[We](/zh/post/we/) [can](/zh/post/can/) [conclude](/zh/post/conclude/) [from](/zh/post/from/) [the](/zh/post/the/) [evidence](/zh/post/evidence/) [that](/zh/post/that/) [the](/zh/post/the/) [suspect](/zh/post/suspect/) was [present](/zh/post/present/) [at](/zh/post/at/) [the](/zh/post/the/) [scene](/zh/post/scene/)."
 
 ## 同义词
-- [Result](/post/result/)
-- [Outcome](/post/outcome/)
-- [End](/post/end/)
-- [Summary](/post/summary/)
+- [Result](/zh/post/result/)
+- [Outcome](/zh/post/outcome/)
+- [End](/zh/post/end/)
+- [Summary](/zh/post/summary/)
 - Judgment

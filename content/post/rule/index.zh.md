@@ -12,26 +12,26 @@ keywords = ['ai words', 'rule']
 
 ## 释义
 - **名词**:
-  - 规则，规定：[A](/post/a/) [principle](/post/principle/) [or](/post/or/) [regulation](/post/regulation/) [that](/post/that/) governs [behavior](/post/behavior/) [or](/post/or/) [procedure](/post/procedure/). 例如: "[The](/post/the/) [school](/post/school/) has [strict](/post/strict/) rules [about](/post/about/) [uniform](/post/uniform/)."
-  - 标准，准则：[A](/post/a/) [principle](/post/principle/) [or](/post/or/) [standard](/post/standard/) [by](/post/by/) [which](/post/which/) [something](/post/something/) is judged [or](/post/or/) assessed. 例如: "[Her](/post/her/) [work](/post/work/) is measured [against](/post/against/) [industry](/post/industry/) rules."
-  - 裁判（尤指体育比赛）：An [official](/post/official/) [in](/post/in/) [charge](/post/charge/) [of](/post/of/) supervising [a](/post/a/) [game](/post/game/) [or](/post/or/) [match](/post/match/). 例如: "[The](/post/the/) referee blew [the](/post/the/) [whistle](/post/whistle/) [to](/post/to/) [start](/post/start/) [the](/post/the/) [game](/post/game/)."
-  - 条纹，斑纹：[A](/post/a/) [line](/post/line/) [or](/post/or/) [stripe](/post/stripe/), [especially](/post/especially/) [one](/post/one/) [of](/post/of/) [a](/post/a/) [different](/post/different/) [color](/post/color/) [or](/post/or/) texture [from](/post/from/) [the](/post/the/) surrounding [surface](/post/surface/). 例如: "[The](/post/the/) zebra's distinctive [black](/post/black/) [and](/post/and/) [white](/post/white/) stripes."
+  - 规则，规定：[A](/zh/post/a/) [principle](/zh/post/principle/) [or](/zh/post/or/) [regulation](/zh/post/regulation/) [that](/zh/post/that/) governs [behavior](/zh/post/behavior/) [or](/zh/post/or/) [procedure](/zh/post/procedure/). 例如: "[The](/zh/post/the/) [school](/zh/post/school/) has [strict](/zh/post/strict/) rules [about](/zh/post/about/) [uniform](/zh/post/uniform/)."
+  - 标准，准则：[A](/zh/post/a/) [principle](/zh/post/principle/) [or](/zh/post/or/) [standard](/zh/post/standard/) [by](/zh/post/by/) [which](/zh/post/which/) [something](/zh/post/something/) is judged [or](/zh/post/or/) assessed. 例如: "[Her](/zh/post/her/) [work](/zh/post/work/) is measured [against](/zh/post/against/) [industry](/zh/post/industry/) rules."
+  - 裁判（尤指体育比赛）：An [official](/zh/post/official/) [in](/zh/post/in/) [charge](/zh/post/charge/) [of](/zh/post/of/) supervising [a](/zh/post/a/) [game](/zh/post/game/) [or](/zh/post/or/) [match](/zh/post/match/). 例如: "[The](/zh/post/the/) referee blew [the](/zh/post/the/) [whistle](/zh/post/whistle/) [to](/zh/post/to/) [start](/zh/post/start/) [the](/zh/post/the/) [game](/zh/post/game/)."
+  - 条纹，斑纹：[A](/zh/post/a/) [line](/zh/post/line/) [or](/zh/post/or/) [stripe](/zh/post/stripe/), [especially](/zh/post/especially/) [one](/zh/post/one/) [of](/zh/post/of/) [a](/zh/post/a/) [different](/zh/post/different/) [color](/zh/post/color/) [or](/zh/post/or/) texture [from](/zh/post/from/) [the](/zh/post/the/) surrounding [surface](/zh/post/surface/). 例如: "[The](/zh/post/the/) zebra's distinctive [black](/zh/post/black/) [and](/zh/post/and/) [white](/zh/post/white/) stripes."
 
 - **动词**:
-  - 统治，管理：[To](/post/to/) [exercise](/post/exercise/) [authority](/post/authority/) [or](/post/or/) [control](/post/control/) [over](/post/over/); [govern](/post/govern/). 例如: "[The](/post/the/) [queen](/post/queen/) ruled [the](/post/the/) [kingdom](/post/kingdom/) [with](/post/with/) [wisdom](/post/wisdom/) [and](/post/and/) fairness."
-  - 划线，标出：[To](/post/to/) [draw](/post/draw/) [a](/post/a/) [line](/post/line/) [or](/post/or/) lines [on](/post/on/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [guide](/post/guide/) [for](/post/for/) cutting [or](/post/or/) marking [out](/post/out/). 例如: "[He](/post/he/) ruled [the](/post/the/) [paper](/post/paper/) [before](/post/before/) [writing](/post/writing/)."
+  - 统治，管理：[To](/zh/post/to/) [exercise](/zh/post/exercise/) [authority](/zh/post/authority/) [or](/zh/post/or/) [control](/zh/post/control/) [over](/zh/post/over/); [govern](/zh/post/govern/). 例如: "[The](/zh/post/the/) [queen](/zh/post/queen/) ruled [the](/zh/post/the/) [kingdom](/zh/post/kingdom/) [with](/zh/post/with/) [wisdom](/zh/post/wisdom/) [and](/zh/post/and/) fairness."
+  - 划线，标出：[To](/zh/post/to/) [draw](/zh/post/draw/) [a](/zh/post/a/) [line](/zh/post/line/) [or](/zh/post/or/) lines [on](/zh/post/on/), [especially](/zh/post/especially/) [as](/zh/post/as/) [a](/zh/post/a/) [guide](/zh/post/guide/) [for](/zh/post/for/) cutting [or](/zh/post/or/) marking [out](/zh/post/out/). 例如: "[He](/zh/post/he/) ruled [the](/zh/post/the/) [paper](/zh/post/paper/) [before](/zh/post/before/) [writing](/zh/post/writing/)."
 
 ## 短语
-- "[Follow](/post/follow/) [the](/post/the/) rules" 遵守规则。
-- "[Break](/post/break/) [the](/post/the/) [rule](/post/rule/)" 违反规则。
-- "[Set](/post/set/) [a](/post/a/) [rule](/post/rule/)" 制定规则。
+- "[Follow](/zh/post/follow/) [the](/zh/post/the/) rules" 遵守规则。
+- "[Break](/zh/post/break/) [the](/zh/post/the/) [rule](/zh/post/rule/)" 违反规则。
+- "[Set](/zh/post/set/) [a](/zh/post/a/) [rule](/zh/post/rule/)" 制定规则。
 
 ## 例句
-- 名词: "[The](/post/the/) company's [dress](/post/dress/) [code](/post/code/) states [that](/post/that/) employees [must](/post/must/) [follow](/post/follow/) [the](/post/the/) [dress](/post/dress/) rules."
-- 动词: "[She](/post/she/) ruled [the](/post/the/) [page](/post/page/) [with](/post/with/) [a](/post/a/) [ruler](/post/ruler/) [to](/post/to/) [make](/post/make/) [straight](/post/straight/) lines."
+- 名词: "[The](/zh/post/the/) company's [dress](/zh/post/dress/) [code](/zh/post/code/) states [that](/zh/post/that/) employees [must](/zh/post/must/) [follow](/zh/post/follow/) [the](/zh/post/the/) [dress](/zh/post/dress/) rules."
+- 动词: "[She](/zh/post/she/) ruled [the](/zh/post/the/) [page](/zh/post/page/) [with](/zh/post/with/) [a](/zh/post/a/) [ruler](/zh/post/ruler/) [to](/zh/post/to/) [make](/zh/post/make/) [straight](/zh/post/straight/) lines."
   
 ## 同义词
-- [Regulation](/post/regulation/)
+- [Regulation](/zh/post/regulation/)
 - Guideline
 - Ordinance
 - Directive

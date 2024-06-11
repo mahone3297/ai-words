@@ -7,37 +7,37 @@ description = '[əˈpriː∫ieit] vt.欣赏；领会；感谢'
 keywords = ['ai words', 'appreciate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /apprɪˈteɪʃn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) recognizing [the](/en/post/the/) [value](/en/post/value/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [something](/en/post/something/), expressing [gratitude](/en/post/gratitude/), [or](/en/post/or/) showing [respect](/en/post/respect/). 2. An [understanding](/en/post/understanding/) [or](/en/post/or/) [recognition](/en/post/recognition/) [of](/en/post/of/) something's [worth](/en/post/worth/). 3. (informal) An [expression](/en/post/expression/) [of](/en/post/of/) liking [or](/en/post/or/) enjoyment. 4. [A](/en/post/a/) [formal](/en/post/formal/) assessment [of](/en/post/of/) [artistic](/en/post/artistic/), [academic](/en/post/academic/), [or](/en/post/or/) [professional](/en/post/professional/) [work](/en/post/work/).
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [recognize](/en/post/recognize/) [and](/en/post/and/) [value](/en/post/value/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [gratitude](/en/post/gratitude/). 2. [To](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) realization [about](/en/post/about/). 3. [To](/en/post/to/) [increase](/en/post/increase/) [in](/en/post/in/) appreciation [or](/en/post/or/) [understanding](/en/post/understanding/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) recognizing [the](/post/the/) [value](/post/value/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [something](/post/something/), expressing [gratitude](/post/gratitude/), [or](/post/or/) showing [respect](/post/respect/). 2. An [understanding](/post/understanding/) [or](/post/or/) [recognition](/post/recognition/) [of](/post/of/) something's [worth](/post/worth/). 3. (informal) An [expression](/post/expression/) [of](/post/of/) liking [or](/post/or/) enjoyment. 4. [A](/post/a/) [formal](/post/formal/) assessment [of](/post/of/) [artistic](/post/artistic/), [academic](/post/academic/), [or](/post/or/) [professional](/post/professional/) [work](/post/work/).
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [recognize](/post/recognize/) [and](/post/and/) [value](/post/value/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [gratitude](/post/gratitude/). 2. [To](/post/to/) [understand](/post/understand/) [or](/post/or/) [come](/post/come/) [to](/post/to/) [a](/post/a/) realization [about](/post/about/). 3. [To](/post/to/) [increase](/post/increase/) [in](/post/in/) appreciation [or](/post/or/) [understanding](/post/understanding/).
 
 ## Phrases
-- "[Appreciate](/en/post/appreciate/) [your](/en/post/your/) [help](/en/post/help/)"
-- "I [really](/en/post/really/) [appreciate](/en/post/appreciate/) [your](/en/post/your/) [support](/en/post/support/)"
-- "Appreciation is [the](/en/post/the/) [key](/en/post/key/) [to](/en/post/to/) [happiness](/en/post/happiness/)"
-- "[Show](/en/post/show/) [your](/en/post/your/) appreciation [by](/en/post/by/) leaving [a](/en/post/a/) [review](/en/post/review/)"
+- "[Appreciate](/post/appreciate/) [your](/post/your/) [help](/post/help/)"
+- "I [really](/post/really/) [appreciate](/post/appreciate/) [your](/post/your/) [support](/post/support/)"
+- "Appreciation is [the](/post/the/) [key](/post/key/) [to](/post/to/) [happiness](/post/happiness/)"
+- "[Show](/post/show/) [your](/post/your/) appreciation [by](/post/by/) leaving [a](/post/a/) [review](/post/review/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) deeply appreciated [the](/en/post/the/) [kindness](/en/post/kindness/) shown [to](/en/post/to/) [her](/en/post/her/) [during](/en/post/during/) [her](/en/post/her/) [time](/en/post/time/) [of](/en/post/of/) [need](/en/post/need/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [concert](/en/post/concert/), [the](/en/post/the/) [audience](/en/post/audience/) warmly appreciated [the](/en/post/the/) musicians' [performance](/en/post/performance/)."
-- **Expressing [gratitude](/en/post/gratitude/)**: "I'd [like](/en/post/like/) [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [moment](/en/post/moment/) [to](/en/post/to/) [appreciate](/en/post/appreciate/) [all](/en/post/all/) [the](/en/post/the/) [hard](/en/post/hard/) [work](/en/post/work/) [put](/en/post/put/) [into](/en/post/into/) [this](/en/post/this/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) deeply appreciated [the](/post/the/) [kindness](/post/kindness/) shown [to](/post/to/) [her](/post/her/) [during](/post/during/) [her](/post/her/) [time](/post/time/) [of](/post/of/) [need](/post/need/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [concert](/post/concert/), [the](/post/the/) [audience](/post/audience/) warmly appreciated [the](/post/the/) musicians' [performance](/post/performance/)."
+- **Expressing [gratitude](/post/gratitude/)**: "I'd [like](/post/like/) [to](/post/to/) [take](/post/take/) [a](/post/a/) [moment](/post/moment/) [to](/post/to/) [appreciate](/post/appreciate/) [all](/post/all/) [the](/post/the/) [hard](/post/hard/) [work](/post/work/) [put](/post/put/) [into](/post/into/) [this](/post/this/) [project](/post/project/)."
 
 ## Synonyms
 - Acknowledge
-- [Recognize](/en/post/recognize/)
-- [Value](/en/post/value/)
-- [Admire](/en/post/admire/)
+- [Recognize](/post/recognize/)
+- [Value](/post/value/)
+- [Admire](/post/admire/)
 - Esteem
-- [Thank](/en/post/thank/)
-- [Gratitude](/en/post/gratitude/)
+- [Thank](/post/thank/)
+- [Gratitude](/post/gratitude/)
 - Appreciable
 
 ## Antonyms
 - Disregard
 - Undervalue
-- [Neglect](/en/post/neglect/)
+- [Neglect](/post/neglect/)
 - Detest
-- [Ignore](/en/post/ignore/)
+- [Ignore](/post/ignore/)

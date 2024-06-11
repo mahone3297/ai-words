@@ -7,37 +7,37 @@ description = '[sinˈθeti] a.综合的；合成的'
 keywords = ['ai words', 'synthetic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪnˈθetɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [synthetic](/en/post/synthetic/) [substance](/en/post/substance/) [or](/en/post/or/) [material](/en/post/material/) is artificially produced using [chemical](/en/post/chemical/) processes, [not](/en/post/not/) [found](/en/post/found/) [naturally](/en/post/naturally/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) car's [body](/en/post/body/) is made [of](/en/post/of/) [a](/en/post/a/) lightweight [synthetic](/en/post/synthetic/) [material](/en/post/material/)."
-- [In](/en/post/in/) [chemistry](/en/post/chemistry/), [a](/en/post/a/) [synthetic](/en/post/synthetic/) [compound](/en/post/compound/) differs [from](/en/post/from/) an [organic](/en/post/organic/) [compound](/en/post/compound/) occurring [in](/en/post/in/) [nature](/en/post/nature/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [drug](/en/post/drug/) was developed [through](/en/post/through/) [synthetic](/en/post/synthetic/) [chemistry](/en/post/chemistry/)."
-- [A](/en/post/a/) [synthetic](/en/post/synthetic/) [sound](/en/post/sound/) [or](/en/post/or/) [style](/en/post/style/), [often](/en/post/often/) [in](/en/post/in/) [music](/en/post/music/) [or](/en/post/or/) [art](/en/post/art/), imitating [something](/en/post/something/) [real](/en/post/real/) [or](/en/post/or/) [natural](/en/post/natural/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [synthetic](/en/post/synthetic/) [voice](/en/post/voice/) [in](/en/post/in/) [the](/en/post/the/) [advertisement](/en/post/advertisement/) sounded robotic."
+### [Noun](/post/noun/)
+- [A](/post/a/) [synthetic](/post/synthetic/) [substance](/post/substance/) [or](/post/or/) [material](/post/material/) is artificially produced using [chemical](/post/chemical/) processes, [not](/post/not/) [found](/post/found/) [naturally](/post/naturally/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) car's [body](/post/body/) is made [of](/post/of/) [a](/post/a/) lightweight [synthetic](/post/synthetic/) [material](/post/material/)."
+- [In](/post/in/) [chemistry](/post/chemistry/), [a](/post/a/) [synthetic](/post/synthetic/) [compound](/post/compound/) differs [from](/post/from/) an [organic](/post/organic/) [compound](/post/compound/) occurring [in](/post/in/) [nature](/post/nature/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [drug](/post/drug/) was developed [through](/post/through/) [synthetic](/post/synthetic/) [chemistry](/post/chemistry/)."
+- [A](/post/a/) [synthetic](/post/synthetic/) [sound](/post/sound/) [or](/post/or/) [style](/post/style/), [often](/post/often/) [in](/post/in/) [music](/post/music/) [or](/post/or/) [art](/post/art/), imitating [something](/post/something/) [real](/post/real/) [or](/post/or/) [natural](/post/natural/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [synthetic](/post/synthetic/) [voice](/post/voice/) [in](/post/in/) [the](/post/the/) [advertisement](/post/advertisement/) sounded robotic."
 
-### [Adjective](/en/post/adjective/)
-- Made [or](/en/post/or/) produced artificially [rather](/en/post/rather/) [than](/en/post/than/) occurring [naturally](/en/post/naturally/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [synthetic](/en/post/synthetic/) fiber is stronger [than](/en/post/than/) [cotton](/en/post/cotton/)."
-- [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [being](/en/post/being/) [artificial](/en/post/artificial/) [or](/en/post/or/) contrived. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) acting [style](/en/post/style/) was overly [synthetic](/en/post/synthetic/)."
+### [Adjective](/post/adjective/)
+- Made [or](/post/or/) produced artificially [rather](/post/rather/) [than](/post/than/) occurring [naturally](/post/naturally/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [synthetic](/post/synthetic/) fiber is stronger [than](/post/than/) [cotton](/post/cotton/)."
+- [Characteristic](/post/characteristic/) [of](/post/of/) [being](/post/being/) [artificial](/post/artificial/) [or](/post/or/) contrived. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) acting [style](/post/style/) was overly [synthetic](/post/synthetic/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [produce](/en/post/produce/) synthetically. [For](/en/post/for/) [example](/en/post/example/): "Scientists [have](/en/post/have/) [learned](/en/post/learned/) [to](/en/post/to/) synthesize vitamins."
-- [To](/en/post/to/) [imitate](/en/post/imitate/) [or](/en/post/or/) emulate [something](/en/post/something/) artificially. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) synthesized [the](/en/post/the/) colors [of](/en/post/of/) [the](/en/post/the/) [sunset](/en/post/sunset/) [in](/en/post/in/) [her](/en/post/her/) [painting](/en/post/painting/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [create](/post/create/) [or](/post/or/) [produce](/post/produce/) synthetically. [For](/post/for/) [example](/post/example/): "Scientists [have](/post/have/) [learned](/post/learned/) [to](/post/to/) synthesize vitamins."
+- [To](/post/to/) [imitate](/post/imitate/) [or](/post/or/) emulate [something](/post/something/) artificially. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [artist](/post/artist/) synthesized [the](/post/the/) colors [of](/post/of/) [the](/post/the/) [sunset](/post/sunset/) [in](/post/in/) [her](/post/her/) [painting](/post/painting/)."
 
 ## Phrases
-- "[Synthetic](/en/post/synthetic/) fibers" are materials [like](/en/post/like/) polyester [that](/en/post/that/) are [not](/en/post/not/) derived [from](/en/post/from/) [natural](/en/post/natural/) sources.
-- "Artificially synthesized" describes [something](/en/post/something/) [that](/en/post/that/) has been created [through](/en/post/through/) [chemical](/en/post/chemical/) processes.
-- "[Synthetic](/en/post/synthetic/) [leather](/en/post/leather/)" is [a](/en/post/a/) [substitute](/en/post/substitute/) [for](/en/post/for/) [genuine](/en/post/genuine/) [leather](/en/post/leather/), typically made [from](/en/post/from/) [plastic](/en/post/plastic/) [or](/en/post/or/) [rubber](/en/post/rubber/).
+- "[Synthetic](/post/synthetic/) fibers" are materials [like](/post/like/) polyester [that](/post/that/) are [not](/post/not/) derived [from](/post/from/) [natural](/post/natural/) sources.
+- "Artificially synthesized" describes [something](/post/something/) [that](/post/that/) has been created [through](/post/through/) [chemical](/post/chemical/) processes.
+- "[Synthetic](/post/synthetic/) [leather](/post/leather/)" is [a](/post/a/) [substitute](/post/substitute/) [for](/post/for/) [genuine](/post/genuine/) [leather](/post/leather/), typically made [from](/post/from/) [plastic](/post/plastic/) [or](/post/or/) [rubber](/post/rubber/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [synthetic](/en/post/synthetic/) fibers [in](/en/post/in/) [the](/en/post/the/) [carpet](/en/post/carpet/) are [durable](/en/post/durable/) [and](/en/post/and/) [easy](/en/post/easy/) [to](/en/post/to/) [clean](/en/post/clean/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [synthetic](/en/post/synthetic/) dyes [give](/en/post/give/) [the](/en/post/the/) [fabric](/en/post/fabric/) an unnatural vibrant [color](/en/post/color/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [chemist](/en/post/chemist/) synthesized [a](/en/post/a/) [new](/en/post/new/) [compound](/en/post/compound/) [with](/en/post/with/) [potential](/en/post/potential/) [medical](/en/post/medical/) applications."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [synthetic](/post/synthetic/) fibers [in](/post/in/) [the](/post/the/) [carpet](/post/carpet/) are [durable](/post/durable/) [and](/post/and/) [easy](/post/easy/) [to](/post/to/) [clean](/post/clean/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [synthetic](/post/synthetic/) dyes [give](/post/give/) [the](/post/the/) [fabric](/post/fabric/) an unnatural vibrant [color](/post/color/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [chemist](/post/chemist/) synthesized [a](/post/a/) [new](/post/new/) [compound](/post/compound/) [with](/post/with/) [potential](/post/potential/) [medical](/post/medical/) applications."
 
 ## Synonyms
-- [Artificial](/en/post/artificial/)
+- [Artificial](/post/artificial/)
 - Artificially produced
 - Man-made
-- Created [by](/en/post/by/) synthesis
+- Created [by](/post/by/) synthesis
 - Engineered
-- Counterfeit ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) imitation)
+- Counterfeit ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) imitation)

@@ -7,27 +7,27 @@ description = '[ˈfeiərəbl] a.有利的；赞成的'
 keywords = ['ai words', 'favourable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfeɪvərəbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: ([favourable](/en/post/favourable/)) Describing [something](/en/post/something/) [that](/en/post/that/) is supportive, encouraging, [or](/en/post/or/) approving; expressing [a](/en/post/a/) [positive](/en/post/positive/) inclination [or](/en/post/or/) [opinion](/en/post/opinion/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) [forecast](/en/post/forecast/) was [favourable](/en/post/favourable/) [for](/en/post/for/) [the](/en/post/the/) [outdoor](/en/post/outdoor/) [event](/en/post/event/)."
-- **[Adjective](/en/post/adjective/)**: (favorable - [American](/en/post/american/) English [spelling](/en/post/spelling/)) Denoting circumstances [or](/en/post/or/) conditions [that](/en/post/that/) are advantageous [or](/en/post/or/) [beneficial](/en/post/beneficial/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's [financial](/en/post/financial/) [position](/en/post/position/) is favorable [for](/en/post/for/) [expansion](/en/post/expansion/)."
+- **[Adjective](/post/adjective/)**: ([favourable](/post/favourable/)) Describing [something](/post/something/) [that](/post/that/) is supportive, encouraging, [or](/post/or/) approving; expressing [a](/post/a/) [positive](/post/positive/) inclination [or](/post/or/) [opinion](/post/opinion/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/) was [favourable](/post/favourable/) [for](/post/for/) [the](/post/the/) [outdoor](/post/outdoor/) [event](/post/event/)."
+- **[Adjective](/post/adjective/)**: (favorable - [American](/post/american/) English [spelling](/post/spelling/)) Denoting circumstances [or](/post/or/) conditions [that](/post/that/) are advantageous [or](/post/or/) [beneficial](/post/beneficial/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's [financial](/post/financial/) [position](/post/position/) is favorable [for](/post/for/) [expansion](/post/expansion/)."
 
 ## Phrases
-- "[Favourable](/en/post/favourable/) [outcome](/en/post/outcome/)": [A](/en/post/a/) [result](/en/post/result/) [that](/en/post/that/) is [desirable](/en/post/desirable/) [or](/en/post/or/) advantageous.
-- "[Favourable](/en/post/favourable/) [review](/en/post/review/)": [A](/en/post/a/) [positive](/en/post/positive/) evaluation [or](/en/post/or/) critique [of](/en/post/of/) [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [book](/en/post/book/), [movie](/en/post/movie/), [or](/en/post/or/) [product](/en/post/product/).
-- "[Under](/en/post/under/) [favourable](/en/post/favourable/) circumstances": [When](/en/post/when/) conditions are [right](/en/post/right/) [or](/en/post/or/) conducive [to](/en/post/to/) [success](/en/post/success/).
+- "[Favourable](/post/favourable/) [outcome](/post/outcome/)": [A](/post/a/) [result](/post/result/) [that](/post/that/) is [desirable](/post/desirable/) [or](/post/or/) advantageous.
+- "[Favourable](/post/favourable/) [review](/post/review/)": [A](/post/a/) [positive](/post/positive/) evaluation [or](/post/or/) critique [of](/post/of/) [something](/post/something/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [book](/post/book/), [movie](/post/movie/), [or](/post/or/) [product](/post/product/).
+- "[Under](/post/under/) [favourable](/post/favourable/) circumstances": [When](/post/when/) conditions are [right](/post/right/) [or](/post/or/) conducive [to](/post/to/) [success](/post/success/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [team](/en/post/team/) has [a](/en/post/a/) [favourable](/en/post/favourable/) [chance](/en/post/chance/) [of](/en/post/of/) winning [the](/en/post/the/) [match](/en/post/match/) given [their](/en/post/their/) [recent](/en/post/recent/) [form](/en/post/form/)."
-- "[She](/en/post/she/) received [a](/en/post/a/) [favourable](/en/post/favourable/) [response](/en/post/response/) [from](/en/post/from/) [her](/en/post/her/) [boss](/en/post/boss/) [about](/en/post/about/) [the](/en/post/the/) [proposal](/en/post/proposal/)."
-- "[With](/en/post/with/) [the](/en/post/the/) [economy](/en/post/economy/) showing signs [of](/en/post/of/) [recovery](/en/post/recovery/), [now](/en/post/now/) seems [a](/en/post/a/) [favourable](/en/post/favourable/) [time](/en/post/time/) [to](/en/post/to/) [invest](/en/post/invest/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [team](/post/team/) has [a](/post/a/) [favourable](/post/favourable/) [chance](/post/chance/) [of](/post/of/) winning [the](/post/the/) [match](/post/match/) given [their](/post/their/) [recent](/post/recent/) [form](/post/form/)."
+- "[She](/post/she/) received [a](/post/a/) [favourable](/post/favourable/) [response](/post/response/) [from](/post/from/) [her](/post/her/) [boss](/post/boss/) [about](/post/about/) [the](/post/the/) [proposal](/post/proposal/)."
+- "[With](/post/with/) [the](/post/the/) [economy](/post/economy/) showing signs [of](/post/of/) [recovery](/post/recovery/), [now](/post/now/) seems [a](/post/a/) [favourable](/post/favourable/) [time](/post/time/) [to](/post/to/) [invest](/post/invest/)."
 
 ## Synonyms
 - Advantageous
-- [Promising](/en/post/promising/)
-- [Positive](/en/post/positive/)
+- [Promising](/post/promising/)
+- [Positive](/post/positive/)
 - Supportive
 - Encouraging
 - Propitious
@@ -35,4 +35,4 @@ keywords = ['ai words', 'favourable']
 - Complimentary
 - Endorsing
 
-[Note](/en/post/note/): [While](/en/post/while/) "[favourable](/en/post/favourable/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [some](/en/post/some/) contexts [where](/en/post/where/) [it](/en/post/it/) implies [greeting](/en/post/greeting/), [its](/en/post/its/) [primary](/en/post/primary/) [use](/en/post/use/) is [as](/en/post/as/) an [adjective](/en/post/adjective/) describing [a](/en/post/a/) [positive](/en/post/positive/) disposition, [preference](/en/post/preference/), [or](/en/post/or/) [situation](/en/post/situation/). [It](/en/post/it/) does [not](/en/post/not/) typically [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [verb](/en/post/verb/), [or](/en/post/or/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) associated [with](/en/post/with/) greetings.
+[Note](/post/note/): [While](/post/while/) "[favourable](/post/favourable/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [some](/post/some/) contexts [where](/post/where/) [it](/post/it/) implies [greeting](/post/greeting/), [its](/post/its/) [primary](/post/primary/) [use](/post/use/) is [as](/post/as/) an [adjective](/post/adjective/) describing [a](/post/a/) [positive](/post/positive/) disposition, [preference](/post/preference/), [or](/post/or/) [situation](/post/situation/). [It](/post/it/) does [not](/post/not/) typically [function](/post/function/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [verb](/post/verb/), [or](/post/or/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) associated [with](/post/with/) greetings.

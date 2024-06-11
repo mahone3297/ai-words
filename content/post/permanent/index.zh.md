@@ -11,19 +11,19 @@ keywords = ['ai words', 'permanent']
 /ˈpɜːrmənənt/
 
 ## 释义
-- **形容词**: 永久的，持续不变的。例如: "[He](/post/he/) has [a](/post/a/) [permanent](/post/permanent/) [job](/post/job/) [with](/post/with/) [the](/post/the/) [company](/post/company/)."
-- **名词**: 永久的事物或状态。例如: "[She](/post/she/) got [a](/post/a/) [permanent](/post/permanent/) [residence](/post/residence/) [permit](/post/permit/)."
-- **动词**: 使永久化。例如: "[The](/post/the/) [treaty](/post/treaty/) aims [to](/post/to/) [permanent](/post/permanent/) [the](/post/the/) [peace](/post/peace/) [between](/post/between/) [the](/post/the/) [two](/post/two/) countries."
+- **形容词**: 永久的，持续不变的。例如: "[He](/zh/post/he/) has [a](/zh/post/a/) [permanent](/zh/post/permanent/) [job](/zh/post/job/) [with](/zh/post/with/) [the](/zh/post/the/) [company](/zh/post/company/)."
+- **名词**: 永久的事物或状态。例如: "[She](/zh/post/she/) got [a](/zh/post/a/) [permanent](/zh/post/permanent/) [residence](/zh/post/residence/) [permit](/zh/post/permit/)."
+- **动词**: 使永久化。例如: "[The](/zh/post/the/) [treaty](/zh/post/treaty/) aims [to](/zh/post/to/) [permanent](/zh/post/permanent/) [the](/zh/post/the/) [peace](/zh/post/peace/) [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) countries."
 
 ## 短语
-- "[permanent](/post/permanent/) [residence](/post/residence/)" 指长期居住权。
-- "[permanent](/post/permanent/) marker" 是一种墨水不易褪色的马克笔。
-- "[permanent](/post/permanent/) [wave](/post/wave/)" 指烫发，使头发保持卷曲。
+- "[permanent](/zh/post/permanent/) [residence](/zh/post/residence/)" 指长期居住权。
+- "[permanent](/zh/post/permanent/) marker" 是一种墨水不易褪色的马克笔。
+- "[permanent](/zh/post/permanent/) [wave](/zh/post/wave/)" 指烫发，使头发保持卷曲。
 
 ## 例句
-- 形容词: "[The](/post/the/) [contract](/post/contract/) is [now](/post/now/) [permanent](/post/permanent/), [so](/post/so/) [he](/post/he/) doesn't [have](/post/have/) [to](/post/to/) [worry](/post/worry/) [about](/post/about/) [being](/post/being/) laid [off](/post/off/)."
-- 名词: "[She](/post/she/) decided [to](/post/to/) [get](/post/get/) [a](/post/a/) [permanent](/post/permanent/) [to](/post/to/) [save](/post/save/) [time](/post/time/) [on](/post/on/) styling [her](/post/her/) [hair](/post/hair/) [every](/post/every/) [day](/post/day/)."
-- 动词: "[The](/post/the/) [new](/post/new/) [law](/post/law/) [will](/post/will/) [permanent](/post/permanent/) [the](/post/the/) ban [on](/post/on/) [plastic](/post/plastic/) bags [in](/post/in/) [the](/post/the/) [city](/post/city/)."
+- 形容词: "[The](/zh/post/the/) [contract](/zh/post/contract/) is [now](/zh/post/now/) [permanent](/zh/post/permanent/), [so](/zh/post/so/) [he](/zh/post/he/) doesn't [have](/zh/post/have/) [to](/zh/post/to/) [worry](/zh/post/worry/) [about](/zh/post/about/) [being](/zh/post/being/) laid [off](/zh/post/off/)."
+- 名词: "[She](/zh/post/she/) decided [to](/zh/post/to/) [get](/zh/post/get/) [a](/zh/post/a/) [permanent](/zh/post/permanent/) [to](/zh/post/to/) [save](/zh/post/save/) [time](/zh/post/time/) [on](/zh/post/on/) styling [her](/zh/post/her/) [hair](/zh/post/hair/) [every](/zh/post/every/) [day](/zh/post/day/)."
+- 动词: "[The](/zh/post/the/) [new](/zh/post/new/) [law](/zh/post/law/) [will](/zh/post/will/) [permanent](/zh/post/permanent/) [the](/zh/post/the/) ban [on](/zh/post/on/) [plastic](/zh/post/plastic/) bags [in](/zh/post/in/) [the](/zh/post/the/) [city](/zh/post/city/)."
 
 ## 同义词
 - eternal

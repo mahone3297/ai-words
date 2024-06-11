@@ -7,40 +7,40 @@ description = '[kəmˈpleint] n.抱怨；怨言；控告'
 keywords = ['ai words', 'complaint']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈpleɪnt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [statement](/en/post/statement/) expressing dissatisfaction, unhappiness, [or](/en/post/or/) [a](/en/post/a/) grievance. 2. [countable] [A](/en/post/a/) [formal](/en/post/formal/) [expression](/en/post/expression/) [of](/en/post/of/) [such](/en/post/such/) dissatisfaction, typically made [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [in](/en/post/in/) [authority](/en/post/authority/). 3. [uncountable] [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) complaining [or](/en/post/or/) [the](/en/post/the/) [habit](/en/post/habit/) [of](/en/post/of/) complaining.
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [express](/en/post/express/) dissatisfaction [or](/en/post/or/) [complain](/en/post/complain/) [about](/en/post/about/) [something](/en/post/something/). 2. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [formal](/en/post/formal/) [complaint](/en/post/complaint/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [statement](/post/statement/) expressing dissatisfaction, unhappiness, [or](/post/or/) [a](/post/a/) grievance. 2. [countable] [A](/post/a/) [formal](/post/formal/) [expression](/post/expression/) [of](/post/of/) [such](/post/such/) dissatisfaction, typically made [to](/post/to/) [a](/post/a/) [person](/post/person/) [in](/post/in/) [authority](/post/authority/). 3. [uncountable] [The](/post/the/) [act](/post/act/) [of](/post/of/) complaining [or](/post/or/) [the](/post/the/) [habit](/post/habit/) [of](/post/of/) complaining.
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [express](/post/express/) dissatisfaction [or](/post/or/) [complain](/post/complain/) [about](/post/about/) [something](/post/something/). 2. [To](/post/to/) [make](/post/make/) [a](/post/a/) [formal](/post/formal/) [complaint](/post/complaint/).
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [complaint](/en/post/complaint/)" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) formally expressing dissatisfaction.
-- "[Bring](/en/post/bring/) [up](/en/post/up/) [a](/en/post/a/) [complaint](/en/post/complaint/)" [means](/en/post/means/) [to](/en/post/to/) [mention](/en/post/mention/) [or](/en/post/or/) [discuss](/en/post/discuss/) an [issue](/en/post/issue/) [that](/en/post/that/) [you](/en/post/you/) are [unhappy](/en/post/unhappy/) [with](/en/post/with/).
-- "[No](/en/post/no/) complaints" signifies [that](/en/post/that/) [there](/en/post/there/) are [no](/en/post/no/) issues [or](/en/post/or/) disagreements.
+- "[Make](/post/make/) [a](/post/a/) [complaint](/post/complaint/)" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) formally expressing dissatisfaction.
+- "[Bring](/post/bring/) [up](/post/up/) [a](/post/a/) [complaint](/post/complaint/)" [means](/post/means/) [to](/post/to/) [mention](/post/mention/) [or](/post/or/) [discuss](/post/discuss/) an [issue](/post/issue/) [that](/post/that/) [you](/post/you/) are [unhappy](/post/unhappy/) [with](/post/with/).
+- "[No](/post/no/) complaints" signifies [that](/post/that/) [there](/post/there/) are [no](/post/no/) issues [or](/post/or/) disagreements.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) filed [a](/en/post/a/) [complaint](/en/post/complaint/) [against](/en/post/against/) [her](/en/post/her/) [landlord](/en/post/landlord/) [for](/en/post/for/) [the](/en/post/the/) [poor](/en/post/poor/) [maintenance](/en/post/maintenance/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [wait](/en/post/wait/), [he](/en/post/he/) [finally](/en/post/finally/) complained [to](/en/post/to/) [the](/en/post/the/) [customer](/en/post/customer/) [service](/en/post/service/)."
-- "I [have](/en/post/have/) [no](/en/post/no/) complaints [about](/en/post/about/) [the](/en/post/the/) [food](/en/post/food/); [it](/en/post/it/) was [delicious](/en/post/delicious/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) filed [a](/post/a/) [complaint](/post/complaint/) [against](/post/against/) [her](/post/her/) [landlord](/post/landlord/) [for](/post/for/) [the](/post/the/) [poor](/post/poor/) [maintenance](/post/maintenance/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [long](/post/long/) [wait](/post/wait/), [he](/post/he/) [finally](/post/finally/) complained [to](/post/to/) [the](/post/the/) [customer](/post/customer/) [service](/post/service/)."
+- "I [have](/post/have/) [no](/post/no/) complaints [about](/post/about/) [the](/post/the/) [food](/post/food/); [it](/post/it/) was [delicious](/post/delicious/)."
 
 ## Synonyms
 - Grievance
 - Complaints
 - Grievance
 - Gripe
-- [Issue](/en/post/issue/)
-- [Fault](/en/post/fault/)
-- [Complain](/en/post/complain/)
+- [Issue](/post/issue/)
+- [Fault](/post/fault/)
+- [Complain](/post/complain/)
 
 ## Antonyms
-- [Satisfaction](/en/post/satisfaction/)
-- [Approval](/en/post/approval/)
-- [Acceptance](/en/post/acceptance/)
+- [Satisfaction](/post/satisfaction/)
+- [Approval](/post/approval/)
+- [Acceptance](/post/acceptance/)
 - Contentment
 - Endorsement
 
 ## Related Words
-- Whine ([verb](/en/post/verb/), [similar](/en/post/similar/) [to](/en/post/to/) [complain](/en/post/complain/) [but](/en/post/but/) [with](/en/post/with/) [a](/en/post/a/) [negative](/en/post/negative/) connotation)
-- Grievable ([adjective](/en/post/adjective/), describing [a](/en/post/a/) [complaint](/en/post/complaint/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) justified)
-- Petition ([noun](/en/post/noun/), [a](/en/post/a/) [formal](/en/post/formal/) [request](/en/post/request/) [or](/en/post/or/) [complaint](/en/post/complaint/))
+- Whine ([verb](/post/verb/), [similar](/post/similar/) [to](/post/to/) [complain](/post/complain/) [but](/post/but/) [with](/post/with/) [a](/post/a/) [negative](/post/negative/) connotation)
+- Grievable ([adjective](/post/adjective/), describing [a](/post/a/) [complaint](/post/complaint/) [that](/post/that/) [can](/post/can/) [be](/post/be/) justified)
+- Petition ([noun](/post/noun/), [a](/post/a/) [formal](/post/formal/) [request](/post/request/) [or](/post/or/) [complaint](/post/complaint/))

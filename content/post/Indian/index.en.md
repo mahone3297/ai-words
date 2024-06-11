@@ -7,31 +7,31 @@ description = '[ˈindjən] a.印度的 n.印度人'
 keywords = ['ai words', 'Indian']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪndiən/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [a](/en/post/a/) [native](/en/post/native/) [or](/en/post/or/) [inhabitant](/en/post/inhabitant/) [of](/en/post/of/) India, [or](/en/post/or/) [who](/en/post/who/) is descended [from](/en/post/from/) [such](/en/post/such/) [people](/en/post/people/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) Indian cuisine is known [for](/en/post/for/) [its](/en/post/its/) [rich](/en/post/rich/) flavors [and](/en/post/and/) spices."
-- **[Adjective](/en/post/adjective/) (adj)**: Relating [to](/en/post/to/) India, [its](/en/post/its/) [people](/en/post/people/), [or](/en/post/or/) [their](/en/post/their/) languages, cultures, [or](/en/post/or/) customs. [Example](/en/post/example/): "Indian [art](/en/post/art/) is [famous](/en/post/famous/) [for](/en/post/for/) [its](/en/post/its/) intricate designs [and](/en/post/and/) vibrant colors."
-- **[Historical](/en/post/historical/) [Noun](/en/post/noun/)**: Refers [to](/en/post/to/) [the](/en/post/the/) indigenous peoples [of](/en/post/of/) [the](/en/post/the/) Americas, [often](/en/post/often/) [now](/en/post/now/) considered outdated [or](/en/post/or/) potentially offensive; [modern](/en/post/modern/) terms [include](/en/post/include/) [Native](/en/post/native/) [American](/en/post/american/) [or](/en/post/or/) [American](/en/post/american/) Indian. [Example](/en/post/example/): "[The](/en/post/the/) [early](/en/post/early/) European settlers encountered [diverse](/en/post/diverse/) Indian tribes [across](/en/post/across/) [North](/en/post/north/) [America](/en/post/america/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [a](/post/a/) [native](/post/native/) [or](/post/or/) [inhabitant](/post/inhabitant/) [of](/post/of/) India, [or](/post/or/) [who](/post/who/) is descended [from](/post/from/) [such](/post/such/) [people](/post/people/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) Indian cuisine is known [for](/post/for/) [its](/post/its/) [rich](/post/rich/) flavors [and](/post/and/) spices."
+- **[Adjective](/post/adjective/) (adj)**: Relating [to](/post/to/) India, [its](/post/its/) [people](/post/people/), [or](/post/or/) [their](/post/their/) languages, cultures, [or](/post/or/) customs. [Example](/post/example/): "Indian [art](/post/art/) is [famous](/post/famous/) [for](/post/for/) [its](/post/its/) intricate designs [and](/post/and/) vibrant colors."
+- **[Historical](/post/historical/) [Noun](/post/noun/)**: Refers [to](/post/to/) [the](/post/the/) indigenous peoples [of](/post/of/) [the](/post/the/) Americas, [often](/post/often/) [now](/post/now/) considered outdated [or](/post/or/) potentially offensive; [modern](/post/modern/) terms [include](/post/include/) [Native](/post/native/) [American](/post/american/) [or](/post/or/) [American](/post/american/) Indian. [Example](/post/example/): "[The](/post/the/) [early](/post/early/) European settlers encountered [diverse](/post/diverse/) Indian tribes [across](/post/across/) [North](/post/north/) [America](/post/america/)."
 
 ## Phrases
-- "Indian subcontinent" refers [to](/en/post/to/) [the](/en/post/the/) [large](/en/post/large/) [land](/en/post/land/) [mass](/en/post/mass/) [in](/en/post/in/) [South](/en/post/south/) [Asia](/en/post/asia/) [that](/en/post/that/) includes India, Pakistan, Bangladesh, Nepal, Bhutan, [and](/en/post/and/) Sri Lanka.
-- "Indian [summer](/en/post/summer/)" is [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) unseasonably [warm](/en/post/warm/) [weather](/en/post/weather/) occurring [in](/en/post/in/) [late](/en/post/late/) [autumn](/en/post/autumn/).
-- "Indian giver" (offensive) is [a](/en/post/a/) dated [term](/en/post/term/) referring [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) gives [something](/en/post/something/) [but](/en/post/but/) [later](/en/post/later/) takes [it](/en/post/it/) [back](/en/post/back/); [this](/en/post/this/) [term](/en/post/term/) is considered derogatory [and](/en/post/and/) [should](/en/post/should/) [be](/en/post/be/) avoided.
+- "Indian subcontinent" refers [to](/post/to/) [the](/post/the/) [large](/post/large/) [land](/post/land/) [mass](/post/mass/) [in](/post/in/) [South](/post/south/) [Asia](/post/asia/) [that](/post/that/) includes India, Pakistan, Bangladesh, Nepal, Bhutan, [and](/post/and/) Sri Lanka.
+- "Indian [summer](/post/summer/)" is [a](/post/a/) [period](/post/period/) [of](/post/of/) unseasonably [warm](/post/warm/) [weather](/post/weather/) occurring [in](/post/in/) [late](/post/late/) [autumn](/post/autumn/).
+- "Indian giver" (offensive) is [a](/post/a/) dated [term](/post/term/) referring [to](/post/to/) [someone](/post/someone/) [who](/post/who/) gives [something](/post/something/) [but](/post/but/) [later](/post/later/) takes [it](/post/it/) [back](/post/back/); [this](/post/this/) [term](/post/term/) is considered derogatory [and](/post/and/) [should](/post/should/) [be](/post/be/) avoided.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) Indian [delegation](/en/post/delegation/) presented [a](/en/post/a/) [comprehensive](/en/post/comprehensive/) [plan](/en/post/plan/) [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/)."
-- **[Adjective](/en/post/adjective/)**: "She's [fond](/en/post/fond/) [of](/en/post/of/) wearing [traditional](/en/post/traditional/) Indian saris [on](/en/post/on/) [special](/en/post/special/) occasions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) Indian [delegation](/post/delegation/) presented [a](/post/a/) [comprehensive](/post/comprehensive/) [plan](/post/plan/) [at](/post/at/) [the](/post/the/) [conference](/post/conference/)."
+- **[Adjective](/post/adjective/)**: "She's [fond](/post/fond/) [of](/post/of/) wearing [traditional](/post/traditional/) Indian saris [on](/post/on/) [special](/post/special/) occasions."
 
 ## Synonyms
-- ([for](/en/post/for/) [the](/en/post/the/) '[noun](/en/post/noun/)' [sense](/en/post/sense/) referring [to](/en/post/to/) [people](/en/post/people/) [from](/en/post/from/) India)
-  - Indian [national](/en/post/national/)
-  - Indian [citizen](/en/post/citizen/)
+- ([for](/post/for/) [the](/post/the/) '[noun](/post/noun/)' [sense](/post/sense/) referring [to](/post/to/) [people](/post/people/) [from](/post/from/) India)
+  - Indian [national](/post/national/)
+  - Indian [citizen](/post/citizen/)
   - Desi (informal)
 
-- ([for](/en/post/for/) [the](/en/post/the/) '[adjective](/en/post/adjective/)' [sense](/en/post/sense/) relating [to](/en/post/to/) India)
-  - Hindustani (specifically [for](/en/post/for/) cultural aspects shared [by](/en/post/by/) India [and](/en/post/and/) Pakistan)
+- ([for](/post/for/) [the](/post/the/) '[adjective](/post/adjective/)' [sense](/post/sense/) relating [to](/post/to/) India)
+  - Hindustani (specifically [for](/post/for/) cultural aspects shared [by](/post/by/) India [and](/post/and/) Pakistan)
   - Indo-Asian
 
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) [when](/en/post/when/) referring [to](/en/post/to/) indigenous peoples [of](/en/post/of/) [the](/en/post/the/) Americas, synonyms [should](/en/post/should/) [be](/en/post/be/) [used](/en/post/used/) [with](/en/post/with/) cultural sensitivity, [such](/en/post/such/) [as](/en/post/as/) "[Native](/en/post/native/) [American](/en/post/american/)" [or](/en/post/or/) specifying [the](/en/post/the/) [specific](/en/post/specific/) [tribe](/en/post/tribe/) [or](/en/post/or/) [nation](/en/post/nation/).
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) [when](/post/when/) referring [to](/post/to/) indigenous peoples [of](/post/of/) [the](/post/the/) Americas, synonyms [should](/post/should/) [be](/post/be/) [used](/post/used/) [with](/post/with/) cultural sensitivity, [such](/post/such/) [as](/post/as/) "[Native](/post/native/) [American](/post/american/)" [or](/post/or/) specifying [the](/post/the/) [specific](/post/specific/) [tribe](/post/tribe/) [or](/post/or/) [nation](/post/nation/).

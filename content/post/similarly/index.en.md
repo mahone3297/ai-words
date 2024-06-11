@@ -7,25 +7,25 @@ description = '[ˈsimiləli] ad.类似地，相似地'
 keywords = ['ai words', 'similarly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪməˈlərli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [similar](/en/post/similar/) [manner](/en/post/manner/); [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [way](/en/post/way/) [or](/en/post/or/) [to](/en/post/to/) [the](/en/post/the/) [same](/en/post/same/) [degree](/en/post/degree/). [It](/en/post/it/) is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [compare](/en/post/compare/) [or](/en/post/or/) [contrast](/en/post/contrast/) [two](/en/post/two/) things.
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [similar](/post/similar/) [manner](/post/manner/); [in](/post/in/) [the](/post/the/) [same](/post/same/) [way](/post/way/) [or](/post/or/) [to](/post/to/) [the](/post/the/) [same](/post/same/) [degree](/post/degree/). [It](/post/it/) is [often](/post/often/) [used](/post/used/) [to](/post/to/) [compare](/post/compare/) [or](/post/or/) [contrast](/post/contrast/) [two](/post/two/) things.
 
 ## Phrases
-- "[Similarly](/en/post/similarly/) [to](/en/post/to/) [how](/en/post/how/)..."
-- "[He](/en/post/he/) behaved [similarly](/en/post/similarly/) [to](/en/post/to/) [his](/en/post/his/) [brother](/en/post/brother/)."
-- "[Their](/en/post/their/) experiences were [similarly](/en/post/similarly/) disappointing."
+- "[Similarly](/post/similarly/) [to](/post/to/) [how](/post/how/)..."
+- "[He](/post/he/) behaved [similarly](/post/similarly/) [to](/post/to/) [his](/post/his/) [brother](/post/brother/)."
+- "[Their](/post/their/) experiences were [similarly](/post/similarly/) disappointing."
 
-## [Example](/en/post/example/) Sentences
-- "[She](/en/post/she/) studied [both](/en/post/both/) subjects diligently, [similarly](/en/post/similarly/) showing dedication [to](/en/post/to/) [each](/en/post/each/)."
-- "[The](/en/post/the/) [two](/en/post/two/) projects had [similarly](/en/post/similarly/) [complex](/en/post/complex/) structures."
-- "[Their](/en/post/their/) reactions [to](/en/post/to/) [the](/en/post/the/) [news](/en/post/news/) were [similarly](/en/post/similarly/) muted."
+## [Example](/post/example/) Sentences
+- "[She](/post/she/) studied [both](/post/both/) subjects diligently, [similarly](/post/similarly/) showing dedication [to](/post/to/) [each](/post/each/)."
+- "[The](/post/the/) [two](/post/two/) projects had [similarly](/post/similarly/) [complex](/post/complex/) structures."
+- "[Their](/post/their/) reactions [to](/post/to/) [the](/post/the/) [news](/post/news/) were [similarly](/post/similarly/) muted."
 
 ## Synonyms
-- [Likewise](/en/post/likewise/)
-- [In](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [way](/en/post/way/)
+- [Likewise](/post/likewise/)
+- [In](/post/in/) [the](/post/the/) [same](/post/same/) [way](/post/way/)
 - Identically
 - Equally
 - Comparable
@@ -35,5 +35,5 @@ keywords = ['ai words', 'similarly']
 - Differently
 - Unsimilarly
 
-## [Usage](/en/post/usage/) Notes
-- "[Similarly](/en/post/similarly/)" is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [parallel](/en/post/parallel/) [comparison](/en/post/comparison/) [or](/en/post/or/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [that](/en/post/that/) [two](/en/post/two/) things [have](/en/post/have/) [the](/en/post/the/) [same](/en/post/same/) [quality](/en/post/quality/) [or](/en/post/or/) [characteristic](/en/post/characteristic/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [a](/en/post/a/) [pattern](/en/post/pattern/) [or](/en/post/or/) [sequence](/en/post/sequence/) continues [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [manner](/en/post/manner/).
+## [Usage](/post/usage/) Notes
+- "[Similarly](/post/similarly/)" is [often](/post/often/) [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [parallel](/post/parallel/) [comparison](/post/comparison/) [or](/post/or/) [to](/post/to/) [emphasize](/post/emphasize/) [that](/post/that/) [two](/post/two/) things [have](/post/have/) [the](/post/the/) [same](/post/same/) [quality](/post/quality/) [or](/post/or/) [characteristic](/post/characteristic/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [situation](/post/situation/) [where](/post/where/) [a](/post/a/) [pattern](/post/pattern/) [or](/post/or/) [sequence](/post/sequence/) continues [in](/post/in/) [the](/post/the/) [same](/post/same/) [manner](/post/manner/).

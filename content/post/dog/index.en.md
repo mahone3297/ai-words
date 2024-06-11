@@ -7,41 +7,41 @@ description = '[dɔg] n.狗，犬，犬科动物'
 keywords = ['ai words', 'dog']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɒɡ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [dog](/en/post/dog/)** is [a](/en/post/a/) domesticated mammal, scientifically known [as](/en/post/as/) Canis lupus familiaris, belonging [to](/en/post/to/) [the](/en/post/the/) [family](/en/post/family/) Canidae. [It](/en/post/it/) is [often](/en/post/often/) kept [as](/en/post/as/) [a](/en/post/a/) [pet](/en/post/pet/) [and](/en/post/and/) is known [for](/en/post/for/) [its](/en/post/its/) [loyalty](/en/post/loyalty/), companionship, [and](/en/post/and/) [various](/en/post/various/) breeds [with](/en/post/with/) [distinct](/en/post/distinct/) characteristics.
-- **[Breed](/en/post/breed/)**: [A](/en/post/a/) [specific](/en/post/specific/) [variety](/en/post/variety/) [of](/en/post/of/) [dog](/en/post/dog/), [such](/en/post/such/) [as](/en/post/as/) Labrador Retriever, German [Shepherd](/en/post/shepherd/), [or](/en/post/or/) Poodle.
-- **Fido**: [A](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [pet](/en/post/pet/) [dog](/en/post/dog/), [often](/en/post/often/) [used](/en/post/used/) affectionately.
+### [Noun](/post/noun/)
+- **[A](/post/a/) [dog](/post/dog/)** is [a](/post/a/) domesticated mammal, scientifically known [as](/post/as/) Canis lupus familiaris, belonging [to](/post/to/) [the](/post/the/) [family](/post/family/) Canidae. [It](/post/it/) is [often](/post/often/) kept [as](/post/as/) [a](/post/a/) [pet](/post/pet/) [and](/post/and/) is known [for](/post/for/) [its](/post/its/) [loyalty](/post/loyalty/), companionship, [and](/post/and/) [various](/post/various/) breeds [with](/post/with/) [distinct](/post/distinct/) characteristics.
+- **[Breed](/post/breed/)**: [A](/post/a/) [specific](/post/specific/) [variety](/post/variety/) [of](/post/of/) [dog](/post/dog/), [such](/post/such/) [as](/post/as/) Labrador Retriever, German [Shepherd](/post/shepherd/), [or](/post/or/) Poodle.
+- **Fido**: [A](/post/a/) colloquial [term](/post/term/) [for](/post/for/) [a](/post/a/) [pet](/post/pet/) [dog](/post/dog/), [often](/post/often/) [used](/post/used/) affectionately.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [dog](/en/post/dog/)**: [Follow](/en/post/follow/) [or](/en/post/or/) [pursue](/en/post/pursue/) [closely](/en/post/closely/) ([usually](/en/post/usually/) negatively), [as](/en/post/as/) [in](/en/post/in/) "[The](/en/post/the/) dogged [pursuit](/en/post/pursuit/) [of](/en/post/of/) [justice](/en/post/justice/)."
-- **[To](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [dog](/en/post/dog/)**: [To](/en/post/to/) [experience](/en/post/experience/) an [unpleasant](/en/post/unpleasant/) [situation](/en/post/situation/) [or](/en/post/or/) [have](/en/post/have/) [a](/en/post/a/) [difficult](/en/post/difficult/) [time](/en/post/time/), [as](/en/post/as/) [in](/en/post/in/) "[Life](/en/post/life/) has been [a](/en/post/a/) [dog](/en/post/dog/) [lately](/en/post/lately/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [dog](/post/dog/)**: [Follow](/post/follow/) [or](/post/or/) [pursue](/post/pursue/) [closely](/post/closely/) ([usually](/post/usually/) negatively), [as](/post/as/) [in](/post/in/) "[The](/post/the/) dogged [pursuit](/post/pursuit/) [of](/post/of/) [justice](/post/justice/)."
+- **[To](/post/to/) [be](/post/be/) [a](/post/a/) [dog](/post/dog/)**: [To](/post/to/) [experience](/post/experience/) an [unpleasant](/post/unpleasant/) [situation](/post/situation/) [or](/post/or/) [have](/post/have/) [a](/post/a/) [difficult](/post/difficult/) [time](/post/time/), [as](/post/as/) [in](/post/in/) "[Life](/post/life/) has been [a](/post/a/) [dog](/post/dog/) [lately](/post/lately/)."
 
-### [Noun](/en/post/noun/) (slang)
-- **[Dog](/en/post/dog/) days**: [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [hot](/en/post/hot/), [humid](/en/post/humid/) [weather](/en/post/weather/), typically associated [with](/en/post/with/) [the](/en/post/the/) hottest [part](/en/post/part/) [of](/en/post/of/) [summer](/en/post/summer/).
+### [Noun](/post/noun/) (slang)
+- **[Dog](/post/dog/) days**: [A](/post/a/) [period](/post/period/) [of](/post/of/) [hot](/post/hot/), [humid](/post/humid/) [weather](/post/weather/), typically associated [with](/post/with/) [the](/post/the/) hottest [part](/post/part/) [of](/post/of/) [summer](/post/summer/).
 
 ## Phrases
-- "[A](/en/post/a/) [loyal](/en/post/loyal/) [dog](/en/post/dog/)" refers [to](/en/post/to/) [a](/en/post/a/) [faithful](/en/post/faithful/) [companion](/en/post/companion/).
-- "[A](/en/post/a/) watchdog" is [a](/en/post/a/) [dog](/en/post/dog/) [that](/en/post/that/) guards [a](/en/post/a/) [property](/en/post/property/) [or](/en/post/or/) alerts [its](/en/post/its/) [owner](/en/post/owner/) [to](/en/post/to/) [potential](/en/post/potential/) [danger](/en/post/danger/).
-- "[To](/en/post/to/) [let](/en/post/let/) [the](/en/post/the/) [dog](/en/post/dog/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) [allow](/en/post/allow/) [a](/en/post/a/) [pet](/en/post/pet/) [to](/en/post/to/) [go](/en/post/go/) [outside](/en/post/outside/) [for](/en/post/for/) [exercise](/en/post/exercise/) [or](/en/post/or/) [relief](/en/post/relief/).
+- "[A](/post/a/) [loyal](/post/loyal/) [dog](/post/dog/)" refers [to](/post/to/) [a](/post/a/) [faithful](/post/faithful/) [companion](/post/companion/).
+- "[A](/post/a/) watchdog" is [a](/post/a/) [dog](/post/dog/) [that](/post/that/) guards [a](/post/a/) [property](/post/property/) [or](/post/or/) alerts [its](/post/its/) [owner](/post/owner/) [to](/post/to/) [potential](/post/potential/) [danger](/post/danger/).
+- "[To](/post/to/) [let](/post/let/) [the](/post/the/) [dog](/post/dog/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) [allow](/post/allow/) [a](/post/a/) [pet](/post/pet/) [to](/post/to/) [go](/post/go/) [outside](/post/outside/) [for](/post/for/) [exercise](/post/exercise/) [or](/post/or/) [relief](/post/relief/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [golden](/en/post/golden/) retriever wagged [its](/en/post/its/) [tail](/en/post/tail/) happily [when](/en/post/when/) [it](/en/post/it/) [saw](/en/post/saw/) [its](/en/post/its/) [owner](/en/post/owner/) [come](/en/post/come/) [home](/en/post/home/).**
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) hound doggedly chased [the](/en/post/the/) [scent](/en/post/scent/) [across](/en/post/across/) [the](/en/post/the/) [field](/en/post/field/)."
-- **Slang**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [he](/en/post/he/) [just](/en/post/just/) wanted [to](/en/post/to/) [crawl](/en/post/crawl/) [into](/en/post/into/) [bed](/en/post/bed/) [and](/en/post/and/) [let](/en/post/let/) [the](/en/post/the/) [dog](/en/post/dog/) [out](/en/post/out/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [golden](/post/golden/) retriever wagged [its](/post/its/) [tail](/post/tail/) happily [when](/post/when/) [it](/post/it/) [saw](/post/saw/) [its](/post/its/) [owner](/post/owner/) [come](/post/come/) [home](/post/home/).**
+- **[Verb](/post/verb/)**: "[The](/post/the/) hound doggedly chased [the](/post/the/) [scent](/post/scent/) [across](/post/across/) [the](/post/the/) [field](/post/field/)."
+- **Slang**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [he](/post/he/) [just](/post/just/) wanted [to](/post/to/) [crawl](/post/crawl/) [into](/post/into/) [bed](/post/bed/) [and](/post/and/) [let](/post/let/) [the](/post/the/) [dog](/post/dog/) [out](/post/out/)."
 
 ## Synonyms
 - Canine
 - Pooch
 - Hound
-- Furry [friend](/en/post/friend/)
+- Furry [friend](/post/friend/)
 - Pal
-- [Companion](/en/post/companion/)
+- [Companion](/post/companion/)
 
 ## Antonyms
-- [Cat](/en/post/cat/) ([as](/en/post/as/) [a](/en/post/a/) [common](/en/post/common/) [contrast](/en/post/contrast/))
+- [Cat](/post/cat/) ([as](/post/as/) [a](/post/a/) [common](/post/common/) [contrast](/post/contrast/))
 - Predator
-- Vermin (informal, [negative](/en/post/negative/) [term](/en/post/term/))
+- Vermin (informal, [negative](/post/negative/) [term](/post/term/))

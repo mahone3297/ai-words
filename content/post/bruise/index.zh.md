@@ -11,20 +11,20 @@ keywords = ['ai words', 'bruise']
 /bruːz/
 
 ## 释义
-- **名词**: 伤痕，瘀伤；挫伤。例如: "I [have](/post/have/) [a](/post/a/) [bad](/post/bad/) [bruise](/post/bruise/) [on](/post/on/) [my](/post/my/) [knee](/post/knee/) [from](/post/from/) falling [off](/post/off/) [my](/post/my/) [bike](/post/bike/)."
-- **动词**: 使受伤，挫伤。例如: "[She](/post/she/) accidentally bruised [her](/post/her/) [arm](/post/arm/) [when](/post/when/) [she](/post/she/) [hit](/post/hit/) [it](/post/it/) [against](/post/against/) [the](/post/the/) [door](/post/door/)."
+- **名词**: 伤痕，瘀伤；挫伤。例如: "I [have](/zh/post/have/) [a](/zh/post/a/) [bad](/zh/post/bad/) [bruise](/zh/post/bruise/) [on](/zh/post/on/) [my](/zh/post/my/) [knee](/zh/post/knee/) [from](/zh/post/from/) falling [off](/zh/post/off/) [my](/zh/post/my/) [bike](/zh/post/bike/)."
+- **动词**: 使受伤，挫伤。例如: "[She](/zh/post/she/) accidentally bruised [her](/zh/post/her/) [arm](/zh/post/arm/) [when](/zh/post/when/) [she](/zh/post/she/) [hit](/zh/post/hit/) [it](/zh/post/it/) [against](/zh/post/against/) [the](/zh/post/the/) [door](/zh/post/door/)."
 
 ## 短语
-- "[bruise](/post/bruise/) [easily](/post/easily/)" 指容易留下瘀伤。
-- "[bruise](/post/bruise/) one's ego" 比喻伤害某人的自尊心。
+- "[bruise](/zh/post/bruise/) [easily](/zh/post/easily/)" 指容易留下瘀伤。
+- "[bruise](/zh/post/bruise/) one's ego" 比喻伤害某人的自尊心。
 
 ## 例句
-- 名词: "[The](/post/the/) [doctor](/post/doctor/) examined [the](/post/the/) [bruise](/post/bruise/) [on](/post/on/) [my](/post/my/) [arm](/post/arm/) [to](/post/to/) [check](/post/check/) [if](/post/if/) [it](/post/it/) was [serious](/post/serious/)."
-- 动词: "[He](/post/he/) bruised [his](/post/his/) shin [during](/post/during/) [the](/post/the/) [soccer](/post/soccer/) [match](/post/match/)."
+- 名词: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) examined [the](/zh/post/the/) [bruise](/zh/post/bruise/) [on](/zh/post/on/) [my](/zh/post/my/) [arm](/zh/post/arm/) [to](/zh/post/to/) [check](/zh/post/check/) [if](/zh/post/if/) [it](/zh/post/it/) was [serious](/zh/post/serious/)."
+- 动词: "[He](/zh/post/he/) bruised [his](/zh/post/his/) shin [during](/zh/post/during/) [the](/zh/post/the/) [soccer](/zh/post/soccer/) [match](/zh/post/match/)."
 
 ## 同义词
 - Contusion
 - Bump
-- [Black](/post/black/) [eye](/post/eye/)
+- [Black](/zh/post/black/) [eye](/zh/post/eye/)
 - Tenderness
-- [Painful](/post/painful/) swelling
+- [Painful](/zh/post/painful/) swelling

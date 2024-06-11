@@ -7,34 +7,34 @@ description = 'n.秒'
 keywords = ['ai words', 'second']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɛkənd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [number](/en/post/number/) [that](/en/post/that/) comes [after](/en/post/after/) [the](/en/post/the/) [first](/en/post/first/) [and](/en/post/and/) [before](/en/post/before/) [the](/en/post/the/) [third](/en/post/third/) [in](/en/post/in/) [the](/en/post/the/) [order](/en/post/order/) [of](/en/post/of/) counting: *[The](/en/post/the/) [second](/en/post/second/) [child](/en/post/child/) [in](/en/post/in/) [line](/en/post/line/).*
-2. [The](/en/post/the/) [position](/en/post/position/) [or](/en/post/or/) [rank](/en/post/rank/) [as](/en/post/as/) [the](/en/post/the/) [next](/en/post/next/) [one](/en/post/one/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/): *[He](/en/post/he/) finished [second](/en/post/second/) [in](/en/post/in/) [the](/en/post/the/) [race](/en/post/race/).*
-3. [A](/en/post/a/) [second](/en/post/second/) [unit](/en/post/unit/) [or](/en/post/or/) [portion](/en/post/portion/) [of](/en/post/of/) [something](/en/post/something/): *[A](/en/post/a/) [glass](/en/post/glass/) [of](/en/post/of/) [water](/en/post/water/), [please](/en/post/please/), [just](/en/post/just/) [a](/en/post/a/) [second](/en/post/second/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [number](/post/number/) [that](/post/that/) comes [after](/post/after/) [the](/post/the/) [first](/post/first/) [and](/post/and/) [before](/post/before/) [the](/post/the/) [third](/post/third/) [in](/post/in/) [the](/post/the/) [order](/post/order/) [of](/post/of/) counting: *[The](/post/the/) [second](/post/second/) [child](/post/child/) [in](/post/in/) [line](/post/line/).*
+2. [The](/post/the/) [position](/post/position/) [or](/post/or/) [rank](/post/rank/) [as](/post/as/) [the](/post/the/) [next](/post/next/) [one](/post/one/) [in](/post/in/) [a](/post/a/) [series](/post/series/): *[He](/post/he/) finished [second](/post/second/) [in](/post/in/) [the](/post/the/) [race](/post/race/).*
+3. [A](/post/a/) [second](/post/second/) [unit](/post/unit/) [or](/post/or/) [portion](/post/portion/) [of](/post/of/) [something](/post/something/): *[A](/post/a/) [glass](/post/glass/) [of](/post/of/) [water](/post/water/), [please](/post/please/), [just](/post/just/) [a](/post/a/) [second](/post/second/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [occupy](/en/post/occupy/) [the](/en/post/the/) [place](/en/post/place/) [or](/en/post/or/) [rank](/en/post/rank/) [as](/en/post/as/) [the](/en/post/the/) [second](/en/post/second/): *[She](/en/post/she/) secured [second](/en/post/second/) [place](/en/post/place/) [in](/en/post/in/) [the](/en/post/the/) [competition](/en/post/competition/).*
-2. [To](/en/post/to/) [come](/en/post/come/) [or](/en/post/or/) [be](/en/post/be/) [after](/en/post/after/) [the](/en/post/the/) [first](/en/post/first/): *[He](/en/post/he/) [will](/en/post/will/) [speak](/en/post/speak/) [second](/en/post/second/) [on](/en/post/on/) [the](/en/post/the/) agenda.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [occupy](/post/occupy/) [the](/post/the/) [place](/post/place/) [or](/post/or/) [rank](/post/rank/) [as](/post/as/) [the](/post/the/) [second](/post/second/): *[She](/post/she/) secured [second](/post/second/) [place](/post/place/) [in](/post/in/) [the](/post/the/) [competition](/post/competition/).*
+2. [To](/post/to/) [come](/post/come/) [or](/post/or/) [be](/post/be/) [after](/post/after/) [the](/post/the/) [first](/post/first/): *[He](/post/he/) [will](/post/will/) [speak](/post/speak/) [second](/post/second/) [on](/post/on/) [the](/post/the/) agenda.*
 
 ## Phrases
-- "[In](/en/post/in/) [second](/en/post/second/) [place](/en/post/place/)" denotes [not](/en/post/not/) [the](/en/post/the/) [top](/en/post/top/) [spot](/en/post/spot/).
-- "[The](/en/post/the/) [second](/en/post/second/) [time](/en/post/time/)" refers [to](/en/post/to/) [a](/en/post/a/) [repetition](/en/post/repetition/) [or](/en/post/or/) [subsequent](/en/post/subsequent/) [occurrence](/en/post/occurrence/).
-- "[Wait](/en/post/wait/) [a](/en/post/a/) [second](/en/post/second/)" is [used](/en/post/used/) [to](/en/post/to/) [request](/en/post/request/) [a](/en/post/a/) moment's [pause](/en/post/pause/).
+- "[In](/post/in/) [second](/post/second/) [place](/post/place/)" denotes [not](/post/not/) [the](/post/the/) [top](/post/top/) [spot](/post/spot/).
+- "[The](/post/the/) [second](/post/second/) [time](/post/time/)" refers [to](/post/to/) [a](/post/a/) [repetition](/post/repetition/) [or](/post/or/) [subsequent](/post/subsequent/) [occurrence](/post/occurrence/).
+- "[Wait](/post/wait/) [a](/post/a/) [second](/post/second/)" is [used](/post/used/) [to](/post/to/) [request](/post/request/) [a](/post/a/) moment's [pause](/post/pause/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [second](/en/post/second/) [book](/en/post/book/) [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/) is [the](/en/post/the/) [one](/en/post/one/) I [want](/en/post/want/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) was [second](/en/post/second/) [to](/en/post/to/) [cross](/en/post/cross/) [the](/en/post/the/) [finish](/en/post/finish/) [line](/en/post/line/)."
-- **Phrasal**: "I [need](/en/post/need/) [to](/en/post/to/) [think](/en/post/think/) [about](/en/post/about/) [it](/en/post/it/) [for](/en/post/for/) [a](/en/post/a/) [second](/en/post/second/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [second](/post/second/) [book](/post/book/) [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/) is [the](/post/the/) [one](/post/one/) I [want](/post/want/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) was [second](/post/second/) [to](/post/to/) [cross](/post/cross/) [the](/post/the/) [finish](/post/finish/) [line](/post/line/)."
+- **Phrasal**: "I [need](/post/need/) [to](/post/to/) [think](/post/think/) [about](/post/about/) [it](/post/it/) [for](/post/for/) [a](/post/a/) [second](/post/second/)."
 
 ## Synonyms
-- [First](/en/post/first/) ([in](/en/post/in/) [order](/en/post/order/))
-- [Next](/en/post/next/)
-- [Subsequent](/en/post/subsequent/)
-- [Following](/en/post/following/)
-- [Successive](/en/post/successive/)
+- [First](/post/first/) ([in](/post/in/) [order](/post/order/))
+- [Next](/post/next/)
+- [Subsequent](/post/subsequent/)
+- [Following](/post/following/)
+- [Successive](/post/successive/)
 - Second-best
 - Runner-up

@@ -7,33 +7,33 @@ description = '[ˈvizəbl] a.可见的，看得见的'
 keywords = ['ai words', 'visible']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vɪˈzəbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) seen [or](/en/post/or/) perceived [by](/en/post/by/) [the](/en/post/the/) [eye](/en/post/eye/) [or](/en/post/or/) senses; perceivable. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sunset](/en/post/sunset/) was [a](/en/post/a/) [beautiful](/en/post/beautiful/) [visible](/en/post/visible/) [display](/en/post/display/) [of](/en/post/of/) colors."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [visible](/en/post/visible/); visibility. [For](/en/post/for/) [example](/en/post/example/): "[Good](/en/post/good/) lighting is [essential](/en/post/essential/) [for](/en/post/for/) [visible](/en/post/visible/) [detail](/en/post/detail/) [in](/en/post/in/) artwork."
+- **[Adjective](/post/adjective/)**: [Capable](/post/capable/) [of](/post/of/) [being](/post/being/) seen [or](/post/or/) perceived [by](/post/by/) [the](/post/the/) [eye](/post/eye/) [or](/post/or/) senses; perceivable. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sunset](/post/sunset/) was [a](/post/a/) [beautiful](/post/beautiful/) [visible](/post/visible/) [display](/post/display/) [of](/post/of/) colors."
+- **[Noun](/post/noun/)**: [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [visible](/post/visible/); visibility. [For](/post/for/) [example](/post/example/): "[Good](/post/good/) lighting is [essential](/post/essential/) [for](/post/for/) [visible](/post/visible/) [detail](/post/detail/) [in](/post/in/) artwork."
 
 ## Phrases
-- "[Be](/en/post/be/) [visible](/en/post/visible/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [noticeable](/en/post/noticeable/) [or](/en/post/or/) [apparent](/en/post/apparent/).
-- "[Make](/en/post/make/) [oneself](/en/post/oneself/) [visible](/en/post/visible/)" refers [to](/en/post/to/) [drawing](/en/post/drawing/) [attention](/en/post/attention/) [or](/en/post/or/) appearing [noticeable](/en/post/noticeable/).
-- "[Invisible](/en/post/invisible/) vs. [visible](/en/post/visible/)" is [a](/en/post/a/) [contrast](/en/post/contrast/) [between](/en/post/between/) things [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) seen [and](/en/post/and/) [those](/en/post/those/) [that](/en/post/that/) cannot.
+- "[Be](/post/be/) [visible](/post/visible/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) [noticeable](/post/noticeable/) [or](/post/or/) [apparent](/post/apparent/).
+- "[Make](/post/make/) [oneself](/post/oneself/) [visible](/post/visible/)" refers [to](/post/to/) [drawing](/post/drawing/) [attention](/post/attention/) [or](/post/or/) appearing [noticeable](/post/noticeable/).
+- "[Invisible](/post/invisible/) vs. [visible](/post/visible/)" is [a](/post/a/) [contrast](/post/contrast/) [between](/post/between/) things [that](/post/that/) [can](/post/can/) [be](/post/be/) seen [and](/post/and/) [those](/post/those/) [that](/post/that/) cannot.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [visible](/en/post/visible/) changes [in](/en/post/in/) [the](/en/post/the/) [sky](/en/post/sky/) indicated an approaching [storm](/en/post/storm/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) made [sure](/en/post/sure/) [to](/en/post/to/) [wear](/en/post/wear/) [a](/en/post/a/) [bright](/en/post/bright/) outfit [so](/en/post/so/) [she](/en/post/she/) [would](/en/post/would/) [be](/en/post/be/) [visible](/en/post/visible/) [in](/en/post/in/) [the](/en/post/the/) [crowd](/en/post/crowd/)."
-- **[Adverb](/en/post/adverb/)**: "[His](/en/post/his/) actions were [clearly](/en/post/clearly/) [visible](/en/post/visible/) [to](/en/post/to/) [everyone](/en/post/everyone/) [around](/en/post/around/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [visible](/post/visible/) changes [in](/post/in/) [the](/post/the/) [sky](/post/sky/) indicated an approaching [storm](/post/storm/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) made [sure](/post/sure/) [to](/post/to/) [wear](/post/wear/) [a](/post/a/) [bright](/post/bright/) outfit [so](/post/so/) [she](/post/she/) [would](/post/would/) [be](/post/be/) [visible](/post/visible/) [in](/post/in/) [the](/post/the/) [crowd](/post/crowd/)."
+- **[Adverb](/post/adverb/)**: "[His](/post/his/) actions were [clearly](/post/clearly/) [visible](/post/visible/) [to](/post/to/) [everyone](/post/everyone/) [around](/post/around/)."
 
 ## Synonyms
 - Perceptible
 - Observable
-- [Apparent](/en/post/apparent/)
-- [Noticeable](/en/post/noticeable/)
+- [Apparent](/post/apparent/)
+- [Noticeable](/post/noticeable/)
 - Seemingly
 - Viewable
 
 ## Antonyms
-- [Invisible](/en/post/invisible/)
+- [Invisible](/post/invisible/)
 - Concealed
 - Occluded
 - Hidden

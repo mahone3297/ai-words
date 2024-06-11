@@ -11,24 +11,24 @@ keywords = ['ai words', 'relief']
 /rɪˈliːf/
 
 ## 释义
-- **名词**: 减轻，解除（痛苦、忧虑或负担）。例如: "[The](/post/the/) [medicine](/post/medicine/) brought [instant](/post/instant/) [relief](/post/relief/) [from](/post/from/) [her](/post/her/) [headache](/post/headache/)."
-- **名词**: 宽慰，安慰。例如: "Knowing [that](/post/that/) [help](/post/help/) was [on](/post/on/) [the](/post/the/) [way](/post/way/) was [a](/post/a/) [great](/post/great/) [relief](/post/relief/) [to](/post/to/) [her](/post/her/)."
-- **名词**: （艺术作品中的）浮雕，凸起部分。例如: "[The](/post/the/) [ancient](/post/ancient/) sculpture had intricate [relief](/post/relief/) carvings."
-- **动词**: 减轻，解除（痛苦、压力等）。例如: "[The](/post/the/) [charity](/post/charity/) aims [to](/post/to/) [relieve](/post/relieve/) [poverty](/post/poverty/) [in](/post/in/) developing countries."
-- **动词**: 替换，接替（某人的职位或工作）。例如: "[He](/post/he/) came [on](/post/on/) [as](/post/as/) [a](/post/a/) [substitute](/post/substitute/) [to](/post/to/) [relieve](/post/relieve/) [the](/post/the/) [tired](/post/tired/) striker."
+- **名词**: 减轻，解除（痛苦、忧虑或负担）。例如: "[The](/zh/post/the/) [medicine](/zh/post/medicine/) brought [instant](/zh/post/instant/) [relief](/zh/post/relief/) [from](/zh/post/from/) [her](/zh/post/her/) [headache](/zh/post/headache/)."
+- **名词**: 宽慰，安慰。例如: "Knowing [that](/zh/post/that/) [help](/zh/post/help/) was [on](/zh/post/on/) [the](/zh/post/the/) [way](/zh/post/way/) was [a](/zh/post/a/) [great](/zh/post/great/) [relief](/zh/post/relief/) [to](/zh/post/to/) [her](/zh/post/her/)."
+- **名词**: （艺术作品中的）浮雕，凸起部分。例如: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) sculpture had intricate [relief](/zh/post/relief/) carvings."
+- **动词**: 减轻，解除（痛苦、压力等）。例如: "[The](/zh/post/the/) [charity](/zh/post/charity/) aims [to](/zh/post/to/) [relieve](/zh/post/relieve/) [poverty](/zh/post/poverty/) [in](/zh/post/in/) developing countries."
+- **动词**: 替换，接替（某人的职位或工作）。例如: "[He](/zh/post/he/) came [on](/zh/post/on/) [as](/zh/post/as/) [a](/zh/post/a/) [substitute](/zh/post/substitute/) [to](/zh/post/to/) [relieve](/zh/post/relieve/) [the](/zh/post/the/) [tired](/zh/post/tired/) striker."
 
 ## 短语
-- "[in](/post/in/) [relief](/post/relief/)" 表示如释重负。例如: "[She](/post/she/) sighed [in](/post/in/) [relief](/post/relief/) [when](/post/when/) [she](/post/she/) [found](/post/found/) [her](/post/her/) keys."
-- "[financial](/post/financial/) [relief](/post/relief/)" 指经济上的援助。例如: "[The](/post/the/) [government](/post/government/) offered [financial](/post/financial/) [relief](/post/relief/) [to](/post/to/) [small](/post/small/) businesses affected [by](/post/by/) [the](/post/the/) pandemic."
+- "[in](/zh/post/in/) [relief](/zh/post/relief/)" 表示如释重负。例如: "[She](/zh/post/she/) sighed [in](/zh/post/in/) [relief](/zh/post/relief/) [when](/zh/post/when/) [she](/zh/post/she/) [found](/zh/post/found/) [her](/zh/post/her/) keys."
+- "[financial](/zh/post/financial/) [relief](/zh/post/relief/)" 指经济上的援助。例如: "[The](/zh/post/the/) [government](/zh/post/government/) offered [financial](/zh/post/financial/) [relief](/zh/post/relief/) [to](/zh/post/to/) [small](/zh/post/small/) businesses affected [by](/zh/post/by/) [the](/zh/post/the/) pandemic."
 
 ## 例句
-- 名词: "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) [the](/post/the/) [rain](/post/rain/) [provided](/post/provided/) [relief](/post/relief/) [from](/post/from/) [the](/post/the/) [heat](/post/heat/)."
-- 动词: "[The](/post/the/) volunteer [work](/post/work/) relieves [the](/post/the/) [burden](/post/burden/) [on](/post/on/) [the](/post/the/) [local](/post/local/) [community](/post/community/)."
-- 动词: "[She](/post/she/) was relieved [of](/post/of/) [her](/post/her/) duties [due](/post/due/) [to](/post/to/) [illness](/post/illness/)."
+- 名词: "[The](/zh/post/the/) [sound](/zh/post/sound/) [of](/zh/post/of/) [the](/zh/post/the/) [rain](/zh/post/rain/) [provided](/zh/post/provided/) [relief](/zh/post/relief/) [from](/zh/post/from/) [the](/zh/post/the/) [heat](/zh/post/heat/)."
+- 动词: "[The](/zh/post/the/) volunteer [work](/zh/post/work/) relieves [the](/zh/post/the/) [burden](/zh/post/burden/) [on](/zh/post/on/) [the](/zh/post/the/) [local](/zh/post/local/) [community](/zh/post/community/)."
+- 动词: "[She](/zh/post/she/) was relieved [of](/zh/post/of/) [her](/zh/post/her/) duties [due](/zh/post/due/) [to](/zh/post/to/) [illness](/zh/post/illness/)."
 
 ## 同义词
 - Alleviation
-- [Comfort](/post/comfort/)
-- [Release](/post/release/)
+- [Comfort](/zh/post/comfort/)
+- [Release](/zh/post/release/)
 - Easing
 - Respite

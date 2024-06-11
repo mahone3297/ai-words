@@ -7,29 +7,29 @@ description = '[əˈpruːvəl] n.赞成，同意；批准'
 keywords = ['ai words', 'approval']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈvɔːl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [or](/en/post/or/) expressing [agreement](/en/post/agreement/), [acceptance](/en/post/acceptance/), [or](/en/post/or/) [satisfaction](/en/post/satisfaction/) [with](/en/post/with/) [something](/en/post/something/). 2. [A](/en/post/a/) [formal](/en/post/formal/) [or](/en/post/or/) informal [expression](/en/post/expression/) [of](/en/post/of/) [approval](/en/post/approval/) [or](/en/post/or/) [consent](/en/post/consent/). 3. An [official](/en/post/official/) endorsement [or](/en/post/or/) authorization. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [proposal](/en/post/proposal/) received unanimous [approval](/en/post/approval/) [from](/en/post/from/) [the](/en/post/the/) [board](/en/post/board/)."
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [give](/en/post/give/) one's [agreement](/en/post/agreement/) [or](/en/post/or/) [support](/en/post/support/) [to](/en/post/to/) [a](/en/post/a/) [plan](/en/post/plan/), [idea](/en/post/idea/), [or](/en/post/or/) [action](/en/post/action/). 2. [To](/en/post/to/) officially endorse [or](/en/post/or/) [approve](/en/post/approve/) ([a](/en/post/a/) [person](/en/post/person/), [policy](/en/post/policy/), [or](/en/post/or/) [decision](/en/post/decision/)). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) manager approved [the](/en/post/the/) [new](/en/post/new/) employee's [request](/en/post/request/) [for](/en/post/for/) [a](/en/post/a/) promotion."
-- **[Adjective](/en/post/adjective/)**: Expressing [or](/en/post/or/) reflecting [approval](/en/post/approval/) [or](/en/post/or/) [acceptance](/en/post/acceptance/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [smile](/en/post/smile/) conveyed [her](/en/post/her/) [approval](/en/post/approval/) [of](/en/post/of/) [the](/en/post/the/) [plan](/en/post/plan/)."
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [or](/post/or/) expressing [agreement](/post/agreement/), [acceptance](/post/acceptance/), [or](/post/or/) [satisfaction](/post/satisfaction/) [with](/post/with/) [something](/post/something/). 2. [A](/post/a/) [formal](/post/formal/) [or](/post/or/) informal [expression](/post/expression/) [of](/post/of/) [approval](/post/approval/) [or](/post/or/) [consent](/post/consent/). 3. An [official](/post/official/) endorsement [or](/post/or/) authorization. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [proposal](/post/proposal/) received unanimous [approval](/post/approval/) [from](/post/from/) [the](/post/the/) [board](/post/board/)."
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [give](/post/give/) one's [agreement](/post/agreement/) [or](/post/or/) [support](/post/support/) [to](/post/to/) [a](/post/a/) [plan](/post/plan/), [idea](/post/idea/), [or](/post/or/) [action](/post/action/). 2. [To](/post/to/) officially endorse [or](/post/or/) [approve](/post/approve/) ([a](/post/a/) [person](/post/person/), [policy](/post/policy/), [or](/post/or/) [decision](/post/decision/)). [For](/post/for/) [example](/post/example/): "[The](/post/the/) manager approved [the](/post/the/) [new](/post/new/) employee's [request](/post/request/) [for](/post/for/) [a](/post/a/) promotion."
+- **[Adjective](/post/adjective/)**: Expressing [or](/post/or/) reflecting [approval](/post/approval/) [or](/post/or/) [acceptance](/post/acceptance/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [smile](/post/smile/) conveyed [her](/post/her/) [approval](/post/approval/) [of](/post/of/) [the](/post/the/) [plan](/post/plan/)."
 
 ## Phrases
-- "[Seek](/en/post/seek/) [approval](/en/post/approval/)" [means](/en/post/means/) [to](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) [permission](/en/post/permission/) [or](/en/post/or/) validation.
-- "[With](/en/post/with/) [approval](/en/post/approval/)" indicates [that](/en/post/that/) [something](/en/post/something/) is done [after](/en/post/after/) receiving [permission](/en/post/permission/) [or](/en/post/or/) [acceptance](/en/post/acceptance/).
-- "[Approval](/en/post/approval/) [process](/en/post/process/)" refers [to](/en/post/to/) [the](/en/post/the/) steps taken [to](/en/post/to/) [gain](/en/post/gain/) authorization [or](/en/post/or/) [acceptance](/en/post/acceptance/).
+- "[Seek](/post/seek/) [approval](/post/approval/)" [means](/post/means/) [to](/post/to/) [ask](/post/ask/) [for](/post/for/) [permission](/post/permission/) [or](/post/or/) validation.
+- "[With](/post/with/) [approval](/post/approval/)" indicates [that](/post/that/) [something](/post/something/) is done [after](/post/after/) receiving [permission](/post/permission/) [or](/post/or/) [acceptance](/post/acceptance/).
+- "[Approval](/post/approval/) [process](/post/process/)" refers [to](/post/to/) [the](/post/the/) steps taken [to](/post/to/) [gain](/post/gain/) authorization [or](/post/or/) [acceptance](/post/acceptance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [project](/en/post/project/) was approved [by](/en/post/by/) [the](/en/post/the/) [committee](/en/post/committee/) [without](/en/post/without/) [any](/en/post/any/) objections."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [careful](/en/post/careful/) [consideration](/en/post/consideration/), [he](/en/post/he/) approved [the](/en/post/the/) [purchase](/en/post/purchase/) [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) [equipment](/en/post/equipment/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [design](/en/post/design/) received [high](/en/post/high/) [approval](/en/post/approval/) ratings [from](/en/post/from/) [the](/en/post/the/) customers."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [project](/post/project/) was approved [by](/post/by/) [the](/post/the/) [committee](/post/committee/) [without](/post/without/) [any](/post/any/) objections."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [careful](/post/careful/) [consideration](/post/consideration/), [he](/post/he/) approved [the](/post/the/) [purchase](/post/purchase/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [equipment](/post/equipment/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [design](/post/design/) received [high](/post/high/) [approval](/post/approval/) ratings [from](/post/from/) [the](/post/the/) customers."
 
 ## Synonyms
-- [Agreement](/en/post/agreement/)
+- [Agreement](/post/agreement/)
 - Assent
 - Endorsement
-- [Acceptance](/en/post/acceptance/)
+- [Acceptance](/post/acceptance/)
 - Sanction
 - Favor
 - Acknowledgment

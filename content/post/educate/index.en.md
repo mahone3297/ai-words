@@ -7,32 +7,32 @@ description = '[ˈedju(ː)keit] vt.教育；培养；训练'
 keywords = ['ai words', 'educate']
 +++
 
-## [Word](/en/post/word/): [Educate](/en/post/educate/)
+## [Word](/post/word/): [Educate](/post/educate/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɛdjʊkeɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [provide](/en/post/provide/) [knowledge](/en/post/knowledge/), skills, [and](/en/post/and/) [understanding](/en/post/understanding/) [to](/en/post/to/) ([someone](/en/post/someone/)) [by](/en/post/by/) [teaching](/en/post/teaching/) [them](/en/post/them/), [usually](/en/post/usually/) [over](/en/post/over/) [a](/en/post/a/) prolonged [period](/en/post/period/); [to](/en/post/to/) instruct [or](/en/post/or/) [train](/en/post/train/) ([a](/en/post/a/) [person](/en/post/person/)). [Example](/en/post/example/): "[The](/en/post/the/) [school](/en/post/school/) educates children [from](/en/post/from/) [the](/en/post/the/) [age](/en/post/age/) [of](/en/post/of/) [five](/en/post/five/) [to](/en/post/to/) [eighteen](/en/post/eighteen/)."
-  - *[Educate](/en/post/educate/) [oneself](/en/post/oneself/)*: [To](/en/post/to/) [acquire](/en/post/acquire/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) skills [through](/en/post/through/) one's [own](/en/post/own/) efforts [rather](/en/post/rather/) [than](/en/post/than/) [formal](/en/post/formal/) [instruction](/en/post/instruction/). [Example](/en/post/example/): "[He](/en/post/he/) educated [himself](/en/post/himself/) [on](/en/post/on/) quantum [physics](/en/post/physics/) [through](/en/post/through/) online courses [and](/en/post/and/) books."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) receiving [or](/en/post/or/) giving systematic [instruction](/en/post/instruction/), [especially](/en/post/especially/) [at](/en/post/at/) [a](/en/post/a/) [school](/en/post/school/) [or](/en/post/or/) [university](/en/post/university/); an [instance](/en/post/instance/) [of](/en/post/of/) [this](/en/post/this/). [Example](/en/post/example/): "[A](/en/post/a/) [good](/en/post/good/) [education](/en/post/education/) prepares students [for](/en/post/for/) [life](/en/post/life/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [provide](/post/provide/) [knowledge](/post/knowledge/), skills, [and](/post/and/) [understanding](/post/understanding/) [to](/post/to/) ([someone](/post/someone/)) [by](/post/by/) [teaching](/post/teaching/) [them](/post/them/), [usually](/post/usually/) [over](/post/over/) [a](/post/a/) prolonged [period](/post/period/); [to](/post/to/) instruct [or](/post/or/) [train](/post/train/) ([a](/post/a/) [person](/post/person/)). [Example](/post/example/): "[The](/post/the/) [school](/post/school/) educates children [from](/post/from/) [the](/post/the/) [age](/post/age/) [of](/post/of/) [five](/post/five/) [to](/post/to/) [eighteen](/post/eighteen/)."
+  - *[Educate](/post/educate/) [oneself](/post/oneself/)*: [To](/post/to/) [acquire](/post/acquire/) [knowledge](/post/knowledge/) [or](/post/or/) skills [through](/post/through/) one's [own](/post/own/) efforts [rather](/post/rather/) [than](/post/than/) [formal](/post/formal/) [instruction](/post/instruction/). [Example](/post/example/): "[He](/post/he/) educated [himself](/post/himself/) [on](/post/on/) quantum [physics](/post/physics/) [through](/post/through/) online courses [and](/post/and/) books."
+- **[Noun](/post/noun/)**: [The](/post/the/) [process](/post/process/) [of](/post/of/) receiving [or](/post/or/) giving systematic [instruction](/post/instruction/), [especially](/post/especially/) [at](/post/at/) [a](/post/a/) [school](/post/school/) [or](/post/or/) [university](/post/university/); an [instance](/post/instance/) [of](/post/of/) [this](/post/this/). [Example](/post/example/): "[A](/post/a/) [good](/post/good/) [education](/post/education/) prepares students [for](/post/for/) [life](/post/life/)."
 
 ## Phrases
-- "[To](/en/post/to/) [educate](/en/post/educate/) [someone](/en/post/someone/) [about](/en/post/about/) [something](/en/post/something/)": [To](/en/post/to/) [inform](/en/post/inform/) [or](/en/post/or/) [teach](/en/post/teach/) [someone](/en/post/someone/) [about](/en/post/about/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/). [Example](/en/post/example/): "[The](/en/post/the/) seminar was designed [to](/en/post/to/) [educate](/en/post/educate/) attendees [about](/en/post/about/) sustainable [living](/en/post/living/) practices."
-- "[Educate](/en/post/educate/) [for](/en/post/for/)": [To](/en/post/to/) [prepare](/en/post/prepare/) [or](/en/post/or/) [train](/en/post/train/) [someone](/en/post/someone/) [with](/en/post/with/) [specific](/en/post/specific/) aims [or](/en/post/or/) values [in](/en/post/in/) [mind](/en/post/mind/). [Example](/en/post/example/): "[The](/en/post/the/) curriculum is designed [to](/en/post/to/) [educate](/en/post/educate/) [for](/en/post/for/) [critical](/en/post/critical/) thinking [and](/en/post/and/) problem-solving skills."
-- "[Get](/en/post/get/) an [education](/en/post/education/)": [To](/en/post/to/) [gain](/en/post/gain/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) schooling [through](/en/post/through/) attending [a](/en/post/a/) [school](/en/post/school/) [or](/en/post/or/) [other](/en/post/other/) educational [institution](/en/post/institution/). [Example](/en/post/example/): "[She](/en/post/she/) moved [to](/en/post/to/) [the](/en/post/the/) [city](/en/post/city/) [to](/en/post/to/) [get](/en/post/get/) [a](/en/post/a/) [better](/en/post/better/) [education](/en/post/education/)."
+- "[To](/post/to/) [educate](/post/educate/) [someone](/post/someone/) [about](/post/about/) [something](/post/something/)": [To](/post/to/) [inform](/post/inform/) [or](/post/or/) [teach](/post/teach/) [someone](/post/someone/) [about](/post/about/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/). [Example](/post/example/): "[The](/post/the/) seminar was designed [to](/post/to/) [educate](/post/educate/) attendees [about](/post/about/) sustainable [living](/post/living/) practices."
+- "[Educate](/post/educate/) [for](/post/for/)": [To](/post/to/) [prepare](/post/prepare/) [or](/post/or/) [train](/post/train/) [someone](/post/someone/) [with](/post/with/) [specific](/post/specific/) aims [or](/post/or/) values [in](/post/in/) [mind](/post/mind/). [Example](/post/example/): "[The](/post/the/) curriculum is designed [to](/post/to/) [educate](/post/educate/) [for](/post/for/) [critical](/post/critical/) thinking [and](/post/and/) problem-solving skills."
+- "[Get](/post/get/) an [education](/post/education/)": [To](/post/to/) [gain](/post/gain/) [knowledge](/post/knowledge/) [or](/post/or/) schooling [through](/post/through/) attending [a](/post/a/) [school](/post/school/) [or](/post/or/) [other](/post/other/) educational [institution](/post/institution/). [Example](/post/example/): "[She](/post/she/) moved [to](/post/to/) [the](/post/the/) [city](/post/city/) [to](/post/to/) [get](/post/get/) [a](/post/a/) [better](/post/better/) [education](/post/education/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "Parents [have](/en/post/have/) [the](/en/post/the/) [primary](/en/post/primary/) [responsibility](/en/post/responsibility/) [to](/en/post/to/) [educate](/en/post/educate/) [their](/en/post/their/) children [about](/en/post/about/) [right](/en/post/right/) [and](/en/post/and/) [wrong](/en/post/wrong/)."
-- **[Noun](/en/post/noun/)**: "Higher [education](/en/post/education/) plays [a](/en/post/a/) crucial [role](/en/post/role/) [in](/en/post/in/) shaping an individual's [career](/en/post/career/) [path](/en/post/path/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "Parents [have](/post/have/) [the](/post/the/) [primary](/post/primary/) [responsibility](/post/responsibility/) [to](/post/to/) [educate](/post/educate/) [their](/post/their/) children [about](/post/about/) [right](/post/right/) [and](/post/and/) [wrong](/post/wrong/)."
+- **[Noun](/post/noun/)**: "Higher [education](/post/education/) plays [a](/post/a/) crucial [role](/post/role/) [in](/post/in/) shaping an individual's [career](/post/career/) [path](/post/path/)."
 
 ## Synonyms
-- [Train](/en/post/train/)
+- [Train](/post/train/)
 - Instruct
-- [Teach](/en/post/teach/)
-- [School](/en/post/school/)
-- [Discipline](/en/post/discipline/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) imparting [knowledge](/en/post/knowledge/))
+- [Teach](/post/teach/)
+- [School](/post/school/)
+- [Discipline](/post/discipline/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) imparting [knowledge](/post/knowledge/))
 - Enlighten
-- [Tutor](/en/post/tutor/)
+- [Tutor](/post/tutor/)
 - Mentor
-- [Cultivate](/en/post/cultivate/) ([knowledge](/en/post/knowledge/) [or](/en/post/or/) abilities)
+- [Cultivate](/post/cultivate/) ([knowledge](/post/knowledge/) [or](/post/or/) abilities)

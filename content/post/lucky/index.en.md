@@ -7,33 +7,33 @@ description = '[ˈlʌki] a.幸运的；吉祥的'
 keywords = ['ai words', 'lucky']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlʌki/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [good](/en/post/good/) [fortune](/en/post/fortune/); receiving [or](/en/post/or/) resulting [from](/en/post/from/) [good](/en/post/good/) [luck](/en/post/luck/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) considers [herself](/en/post/herself/) [lucky](/en/post/lucky/) [to](/en/post/to/) [have](/en/post/have/) [such](/en/post/such/) supportive friends."
+- **[Adjective](/post/adjective/)**: Having [good](/post/good/) [fortune](/post/fortune/); receiving [or](/post/or/) resulting [from](/post/from/) [good](/post/good/) [luck](/post/luck/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) considers [herself](/post/herself/) [lucky](/post/lucky/) [to](/post/to/) [have](/post/have/) [such](/post/such/) supportive friends."
 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): He's [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [lucky](/en/post/lucky/) [few](/en/post/few/) [who](/en/post/who/) won [the](/en/post/the/) lottery.
+  > [Example](/post/example/) [Sentence](/post/sentence/): He's [one](/post/one/) [of](/post/of/) [the](/post/the/) [lucky](/post/lucky/) [few](/post/few/) [who](/post/who/) won [the](/post/the/) lottery.
   
-- **[Noun](/en/post/noun/)**: (informal) [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is [fortunate](/en/post/fortunate/) [or](/en/post/or/) [successful](/en/post/successful/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [this](/en/post/this/) [game](/en/post/game/), [the](/en/post/the/) underdog turned [out](/en/post/out/) [to](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [lucky](/en/post/lucky/)."
+- **[Noun](/post/noun/)**: (informal) [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is [fortunate](/post/fortunate/) [or](/post/or/) [successful](/post/successful/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) [this](/post/this/) [game](/post/game/), [the](/post/the/) underdog turned [out](/post/out/) [to](/post/to/) [be](/post/be/) [the](/post/the/) [lucky](/post/lucky/)."
 
 ## Phrases
-- "[Feeling](/en/post/feeling/) [lucky](/en/post/lucky/)": Experiencing [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) optimism [about](/en/post/about/) [the](/en/post/the/) likelihood [of](/en/post/of/) [success](/en/post/success/) [or](/en/post/or/) [positive](/en/post/positive/) outcomes.
-- "[As](/en/post/as/) [lucky](/en/post/lucky/) [as](/en/post/as/) [a](/en/post/a/) four-leaf clover": Describing [someone](/en/post/someone/) [who](/en/post/who/) experiences an [extraordinary](/en/post/extraordinary/) [amount](/en/post/amount/) [of](/en/post/of/) [good](/en/post/good/) [luck](/en/post/luck/).
-- "[Lucky](/en/post/lucky/) charm": An [object](/en/post/object/) believed [to](/en/post/to/) [bring](/en/post/bring/) [good](/en/post/good/) [luck](/en/post/luck/) [to](/en/post/to/) [its](/en/post/its/) possessor.
+- "[Feeling](/post/feeling/) [lucky](/post/lucky/)": Experiencing [a](/post/a/) [sense](/post/sense/) [of](/post/of/) optimism [about](/post/about/) [the](/post/the/) likelihood [of](/post/of/) [success](/post/success/) [or](/post/or/) [positive](/post/positive/) outcomes.
+- "[As](/post/as/) [lucky](/post/lucky/) [as](/post/as/) [a](/post/a/) four-leaf clover": Describing [someone](/post/someone/) [who](/post/who/) experiences an [extraordinary](/post/extraordinary/) [amount](/post/amount/) [of](/post/of/) [good](/post/good/) [luck](/post/luck/).
+- "[Lucky](/post/lucky/) charm": An [object](/post/object/) believed [to](/post/to/) [bring](/post/bring/) [good](/post/good/) [luck](/post/luck/) [to](/post/to/) [its](/post/its/) possessor.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[It](/en/post/it/) was [pure](/en/post/pure/) [luck](/en/post/luck/) [that](/en/post/that/) [he](/en/post/he/) [found](/en/post/found/) [his](/en/post/his/) lost [wallet](/en/post/wallet/) [on](/en/post/on/) [the](/en/post/the/) [street](/en/post/street/)."
-- "[The](/en/post/the/) [lucky](/en/post/lucky/) [winner](/en/post/winner/) received [a](/en/post/a/) [trip](/en/post/trip/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) grandmother's [necklace](/en/post/necklace/) was [her](/en/post/her/) [lucky](/en/post/lucky/) charm [for](/en/post/for/) interviews."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[It](/post/it/) was [pure](/post/pure/) [luck](/post/luck/) [that](/post/that/) [he](/post/he/) [found](/post/found/) [his](/post/his/) lost [wallet](/post/wallet/) [on](/post/on/) [the](/post/the/) [street](/post/street/)."
+- "[The](/post/the/) [lucky](/post/lucky/) [winner](/post/winner/) received [a](/post/a/) [trip](/post/trip/) [around](/post/around/) [the](/post/the/) [world](/post/world/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) grandmother's [necklace](/post/necklace/) was [her](/post/her/) [lucky](/post/lucky/) charm [for](/post/for/) interviews."
 
 ## Synonyms
-- [Fortunate](/en/post/fortunate/)
+- [Fortunate](/post/fortunate/)
 - Blessed
 - Charmed
 - Serendipitous
 - Auspicious
 - Thriving
-- [Prosperous](/en/post/prosperous/)
+- [Prosperous](/post/prosperous/)
 - Favoured
 - Chance-favoured

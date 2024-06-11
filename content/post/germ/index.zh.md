@@ -11,20 +11,20 @@ keywords = ['ai words', 'germ']
 /ɡɜːrm/
 
 ## 释义
-- **名词**: 微生物；细菌。例如: "[Bacteria](/post/bacteria/) are germs [that](/post/that/) [can](/post/can/) [cause](/post/cause/) [illness](/post/illness/)."
-- **名词**: 种子；萌芽。例如: "[The](/post/the/) [seed](/post/seed/) [of](/post/of/) an [idea](/post/idea/) is [often](/post/often/) [the](/post/the/) [germ](/post/germ/) [of](/post/of/) [a](/post/a/) [great](/post/great/) [invention](/post/invention/)."
+- **名词**: 微生物；细菌。例如: "[Bacteria](/zh/post/bacteria/) are germs [that](/zh/post/that/) [can](/zh/post/can/) [cause](/zh/post/cause/) [illness](/zh/post/illness/)."
+- **名词**: 种子；萌芽。例如: "[The](/zh/post/the/) [seed](/zh/post/seed/) [of](/zh/post/of/) an [idea](/zh/post/idea/) is [often](/zh/post/often/) [the](/zh/post/the/) [germ](/zh/post/germ/) [of](/zh/post/of/) [a](/zh/post/a/) [great](/zh/post/great/) [invention](/zh/post/invention/)."
 
 ## 短语
-- "[germ](/post/germ/) [theory](/post/theory/) [of](/post/of/) [disease](/post/disease/)" 指的是疾病由微生物引起的理论。
-- "germicidal [agent](/post/agent/)" 指的是杀菌剂或消毒剂。
+- "[germ](/zh/post/germ/) [theory](/zh/post/theory/) [of](/zh/post/of/) [disease](/zh/post/disease/)" 指的是疾病由微生物引起的理论。
+- "germicidal [agent](/zh/post/agent/)" 指的是杀菌剂或消毒剂。
 
 ## 例句
-- 名词: "Antibiotics are [used](/post/used/) [to](/post/to/) [fight](/post/fight/) [harmful](/post/harmful/) germs [in](/post/in/) [the](/post/the/) [body](/post/body/)."
-- 名词: "[The](/post/the/) [scientist](/post/scientist/) studied [the](/post/the/) germs [responsible](/post/responsible/) [for](/post/for/) [the](/post/the/) [flu](/post/flu/) virus."
+- 名词: "Antibiotics are [used](/zh/post/used/) [to](/zh/post/to/) [fight](/zh/post/fight/) [harmful](/zh/post/harmful/) germs [in](/zh/post/in/) [the](/zh/post/the/) [body](/zh/post/body/)."
+- 名词: "[The](/zh/post/the/) [scientist](/zh/post/scientist/) studied [the](/zh/post/the/) germs [responsible](/zh/post/responsible/) [for](/zh/post/for/) [the](/zh/post/the/) [flu](/zh/post/flu/) virus."
 
 ## 同义词
 - Microbe
 - Bacterium
 - Pathogen
 - Virus
-- Infection [agent](/post/agent/)
+- Infection [agent](/zh/post/agent/)

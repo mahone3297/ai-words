@@ -7,27 +7,27 @@ description = '[ʌs] pron.(宾格)我们'
 keywords = ['ai words', 'us']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[us](/en/post/us/)/
+## [Pronunciation](/post/pronunciation/)
+/[us](/post/us/)/
 
 ## Definitions
-- **[Pronoun](/en/post/pronoun/)**: [A](/en/post/a/) [personal](/en/post/personal/) [pronoun](/en/post/pronoun/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [speaker](/en/post/speaker/) [and](/en/post/and/) [their](/en/post/their/) [group](/en/post/group/) [or](/en/post/or/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [second](/en/post/second/) [person](/en/post/person/) ([plural](/en/post/plural/)) [being](/en/post/being/) addressed. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [should](/en/post/should/) [go](/en/post/go/) [together](/en/post/together/)."
-- **[Object](/en/post/object/) [pronoun](/en/post/pronoun/)**: [Us](/en/post/us/) [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) an [object](/en/post/object/) [in](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/), receiving [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) [the](/en/post/the/) [verb](/en/post/verb/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) gave [the](/en/post/the/) [book](/en/post/book/) [to](/en/post/to/) [us](/en/post/us/)."
-- **Prepositional [pronoun](/en/post/pronoun/)**: [In](/en/post/in/) [some](/en/post/some/) cases, [us](/en/post/us/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) prepositional [pronoun](/en/post/pronoun/), indicating [a](/en/post/a/) [relationship](/en/post/relationship/) [with](/en/post/with/) [another](/en/post/another/) [noun](/en/post/noun/) [or](/en/post/or/) [pronoun](/en/post/pronoun/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) finishing [the](/en/post/the/) [project](/en/post/project/), [it](/en/post/it/) was shared [with](/en/post/with/) [us](/en/post/us/)."
+- **[Pronoun](/post/pronoun/)**: [A](/post/a/) [personal](/post/personal/) [pronoun](/post/pronoun/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [speaker](/post/speaker/) [and](/post/and/) [their](/post/their/) [group](/post/group/) [or](/post/or/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [second](/post/second/) [person](/post/person/) ([plural](/post/plural/)) [being](/post/being/) addressed. [For](/post/for/) [example](/post/example/): "[We](/post/we/) [should](/post/should/) [go](/post/go/) [together](/post/together/)."
+- **[Object](/post/object/) [pronoun](/post/pronoun/)**: [Us](/post/us/) [can](/post/can/) [function](/post/function/) [as](/post/as/) an [object](/post/object/) [in](/post/in/) [a](/post/a/) [sentence](/post/sentence/), receiving [the](/post/the/) [action](/post/action/) [of](/post/of/) [the](/post/the/) [verb](/post/verb/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) gave [the](/post/the/) [book](/post/book/) [to](/post/to/) [us](/post/us/)."
+- **Prepositional [pronoun](/post/pronoun/)**: [In](/post/in/) [some](/post/some/) cases, [us](/post/us/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) prepositional [pronoun](/post/pronoun/), indicating [a](/post/a/) [relationship](/post/relationship/) [with](/post/with/) [another](/post/another/) [noun](/post/noun/) [or](/post/or/) [pronoun](/post/pronoun/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) finishing [the](/post/the/) [project](/post/project/), [it](/post/it/) was shared [with](/post/with/) [us](/post/us/)."
 
 ## Phrases
-- "[Give](/en/post/give/) [it](/en/post/it/) [to](/en/post/to/) [us](/en/post/us/)" [means](/en/post/means/) [to](/en/post/to/) [hand](/en/post/hand/) [something](/en/post/something/) [over](/en/post/over/) [to](/en/post/to/) [the](/en/post/the/) [speaker](/en/post/speaker/) [and](/en/post/and/) [their](/en/post/their/) [group](/en/post/group/).
-- "It's [up](/en/post/up/) [to](/en/post/to/) [us](/en/post/us/)" signifies [that](/en/post/that/) [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [responsibility](/en/post/responsibility/) lies [with](/en/post/with/) [the](/en/post/the/) [speaker](/en/post/speaker/) [and](/en/post/and/) [their](/en/post/their/) companions.
-- "We'll [take](/en/post/take/) [care](/en/post/care/) [of](/en/post/of/) [it](/en/post/it/) [for](/en/post/for/) [us](/en/post/us/)" implies [that](/en/post/that/) [the](/en/post/the/) [speaker](/en/post/speaker/) [and](/en/post/and/) [their](/en/post/their/) [group](/en/post/group/) [will](/en/post/will/) [handle](/en/post/handle/) [a](/en/post/a/) [task](/en/post/task/).
+- "[Give](/post/give/) [it](/post/it/) [to](/post/to/) [us](/post/us/)" [means](/post/means/) [to](/post/to/) [hand](/post/hand/) [something](/post/something/) [over](/post/over/) [to](/post/to/) [the](/post/the/) [speaker](/post/speaker/) [and](/post/and/) [their](/post/their/) [group](/post/group/).
+- "It's [up](/post/up/) [to](/post/to/) [us](/post/us/)" signifies [that](/post/that/) [a](/post/a/) [decision](/post/decision/) [or](/post/or/) [responsibility](/post/responsibility/) lies [with](/post/with/) [the](/post/the/) [speaker](/post/speaker/) [and](/post/and/) [their](/post/their/) companions.
+- "We'll [take](/post/take/) [care](/post/care/) [of](/post/of/) [it](/post/it/) [for](/post/for/) [us](/post/us/)" implies [that](/post/that/) [the](/post/the/) [speaker](/post/speaker/) [and](/post/and/) [their](/post/their/) [group](/post/group/) [will](/post/will/) [handle](/post/handle/) [a](/post/a/) [task](/post/task/).
 
-## [Example](/en/post/example/) Sentences
-- **[Pronoun](/en/post/pronoun/)**: "Let's [discuss](/en/post/discuss/) [the](/en/post/the/) [plan](/en/post/plan/); [what](/en/post/what/) [do](/en/post/do/) [you](/en/post/you/) [think](/en/post/think/), guys?"
-- **[Object](/en/post/object/) [pronoun](/en/post/pronoun/)**: "[They](/en/post/they/) handed [the](/en/post/the/) keys [to](/en/post/to/) [us](/en/post/us/) [after](/en/post/after/) [we](/en/post/we/) completed [the](/en/post/the/) [work](/en/post/work/)."
-- **Prepositional [pronoun](/en/post/pronoun/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) assigned [the](/en/post/the/) [project](/en/post/project/), [so](/en/post/so/) we'll [have](/en/post/have/) [to](/en/post/to/) [work](/en/post/work/) [on](/en/post/on/) [it](/en/post/it/) [for](/en/post/for/) [ourselves](/en/post/ourselves/)."
+## [Example](/post/example/) Sentences
+- **[Pronoun](/post/pronoun/)**: "Let's [discuss](/post/discuss/) [the](/post/the/) [plan](/post/plan/); [what](/post/what/) [do](/post/do/) [you](/post/you/) [think](/post/think/), guys?"
+- **[Object](/post/object/) [pronoun](/post/pronoun/)**: "[They](/post/they/) handed [the](/post/the/) keys [to](/post/to/) [us](/post/us/) [after](/post/after/) [we](/post/we/) completed [the](/post/the/) [work](/post/work/)."
+- **Prepositional [pronoun](/post/pronoun/)**: "[The](/post/the/) [teacher](/post/teacher/) assigned [the](/post/the/) [project](/post/project/), [so](/post/so/) we'll [have](/post/have/) [to](/post/to/) [work](/post/work/) [on](/post/on/) [it](/post/it/) [for](/post/for/) [ourselves](/post/ourselves/)."
 
 ## Synonyms
-- [We](/en/post/we/)
-- [Ourselves](/en/post/ourselves/)
-- [Me](/en/post/me/) [and](/en/post/and/) [mine](/en/post/mine/)
-- [You](/en/post/you/) [all](/en/post/all/)
-- [Them](/en/post/them/) ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/))
+- [We](/post/we/)
+- [Ourselves](/post/ourselves/)
+- [Me](/post/me/) [and](/post/and/) [mine](/post/mine/)
+- [You](/post/you/) [all](/post/all/)
+- [Them](/post/them/) ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) [group](/post/group/))

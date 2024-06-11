@@ -7,36 +7,36 @@ description = '[ˈwelfeə] n.幸福，福利'
 keywords = ['ai words', 'welfare']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /welfɛr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Welfare](/en/post/welfare/)** is [a](/en/post/a/) [noun](/en/post/noun/) [that](/en/post/that/) refers [to](/en/post/to/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) physically, mentally, [or](/en/post/or/) socially [healthy](/en/post/healthy/) [and](/en/post/and/) [prosperous](/en/post/prosperous/), [especially](/en/post/especially/) [as](/en/post/as/) [it](/en/post/it/) relates [to](/en/post/to/) [public](/en/post/public/) [support](/en/post/support/) systems [and](/en/post/and/) [government](/en/post/government/) programs aimed [at](/en/post/at/) improving [the](/en/post/the/) well-being [of](/en/post/of/) citizens. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [general](/en/post/general/) [quality](/en/post/quality/) [of](/en/post/of/) [life](/en/post/life/) [or](/en/post/or/) [standard](/en/post/standard/) [of](/en/post/of/) [living](/en/post/living/).
+### [Noun](/post/noun/)
+**[Welfare](/post/welfare/)** is [a](/post/a/) [noun](/post/noun/) [that](/post/that/) refers [to](/post/to/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) physically, mentally, [or](/post/or/) socially [healthy](/post/healthy/) [and](/post/and/) [prosperous](/post/prosperous/), [especially](/post/especially/) [as](/post/as/) [it](/post/it/) relates [to](/post/to/) [public](/post/public/) [support](/post/support/) systems [and](/post/and/) [government](/post/government/) programs aimed [at](/post/at/) improving [the](/post/the/) well-being [of](/post/of/) citizens. [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [general](/post/general/) [quality](/post/quality/) [of](/post/of/) [life](/post/life/) [or](/post/or/) [standard](/post/standard/) [of](/post/of/) [living](/post/living/).
 
-### [Verb](/en/post/verb/)
-[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), "[to](/en/post/to/) [welfare](/en/post/welfare/)" is [not](/en/post/not/) [a](/en/post/a/) [common](/en/post/common/) [term](/en/post/term/) [in](/en/post/in/) [the](/en/post/the/) English [language](/en/post/language/). [However](/en/post/however/), [one](/en/post/one/) [might](/en/post/might/) [use](/en/post/use/) [the](/en/post/the/) [phrase](/en/post/phrase/) "[to](/en/post/to/) [promote](/en/post/promote/) [welfare](/en/post/welfare/)" [or](/en/post/or/) "[to](/en/post/to/) advocate [for](/en/post/for/) [welfare](/en/post/welfare/) programs."
+### [Verb](/post/verb/)
+[As](/post/as/) [a](/post/a/) [verb](/post/verb/), "[to](/post/to/) [welfare](/post/welfare/)" is [not](/post/not/) [a](/post/a/) [common](/post/common/) [term](/post/term/) [in](/post/in/) [the](/post/the/) English [language](/post/language/). [However](/post/however/), [one](/post/one/) [might](/post/might/) [use](/post/use/) [the](/post/the/) [phrase](/post/phrase/) "[to](/post/to/) [promote](/post/promote/) [welfare](/post/welfare/)" [or](/post/or/) "[to](/post/to/) advocate [for](/post/for/) [welfare](/post/welfare/) programs."
 
-### [Adjective](/en/post/adjective/)
-"[Welfare](/en/post/welfare/)" [can](/en/post/can/) [also](/en/post/also/) [function](/en/post/function/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) services [or](/en/post/or/) policies designed [to](/en/post/to/) [benefit](/en/post/benefit/) people's well-being.
+### [Adjective](/post/adjective/)
+"[Welfare](/post/welfare/)" [can](/post/can/) [also](/post/also/) [function](/post/function/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) services [or](/post/or/) policies designed [to](/post/to/) [benefit](/post/benefit/) people's well-being.
 
 ## Phrases
-- "[Promote](/en/post/promote/) [welfare](/en/post/welfare/)" indicates supporting [or](/en/post/or/) advancing [the](/en/post/the/) well-being [of](/en/post/of/) [a](/en/post/a/) [community](/en/post/community/) [or](/en/post/or/) [group](/en/post/group/).
-- "[Welfare](/en/post/welfare/) benefits" are [the](/en/post/the/) [financial](/en/post/financial/) assistance [provided](/en/post/provided/) [by](/en/post/by/) governments [to](/en/post/to/) [those](/en/post/those/) [in](/en/post/in/) [need](/en/post/need/).
-- "[Welfare](/en/post/welfare/) [state](/en/post/state/)" refers [to](/en/post/to/) [a](/en/post/a/) [society](/en/post/society/) [where](/en/post/where/) [the](/en/post/the/) [government](/en/post/government/) plays [a](/en/post/a/) [significant](/en/post/significant/) [role](/en/post/role/) [in](/en/post/in/) providing [social](/en/post/social/) services [and](/en/post/and/) [support](/en/post/support/).
+- "[Promote](/post/promote/) [welfare](/post/welfare/)" indicates supporting [or](/post/or/) advancing [the](/post/the/) well-being [of](/post/of/) [a](/post/a/) [community](/post/community/) [or](/post/or/) [group](/post/group/).
+- "[Welfare](/post/welfare/) benefits" are [the](/post/the/) [financial](/post/financial/) assistance [provided](/post/provided/) [by](/post/by/) governments [to](/post/to/) [those](/post/those/) [in](/post/in/) [need](/post/need/).
+- "[Welfare](/post/welfare/) [state](/post/state/)" refers [to](/post/to/) [a](/post/a/) [society](/post/society/) [where](/post/where/) [the](/post/the/) [government](/post/government/) plays [a](/post/a/) [significant](/post/significant/) [role](/post/role/) [in](/post/in/) providing [social](/post/social/) services [and](/post/and/) [support](/post/support/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [government](/en/post/government/) has implemented [various](/en/post/various/) [welfare](/en/post/welfare/) programs [to](/en/post/to/) alleviate [poverty](/en/post/poverty/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [welfare](/en/post/welfare/) [system](/en/post/system/) ensures [basic](/en/post/basic/) necessities [for](/en/post/for/) vulnerable families."
-- **Implied [Verb](/en/post/verb/)**: "[The](/en/post/the/) [government](/en/post/government/) aims [to](/en/post/to/) [improve](/en/post/improve/) [the](/en/post/the/) [welfare](/en/post/welfare/) [of](/en/post/of/) [its](/en/post/its/) citizens [through](/en/post/through/) healthcare reforms."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [government](/post/government/) has implemented [various](/post/various/) [welfare](/post/welfare/) programs [to](/post/to/) alleviate [poverty](/post/poverty/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [welfare](/post/welfare/) [system](/post/system/) ensures [basic](/post/basic/) necessities [for](/post/for/) vulnerable families."
+- **Implied [Verb](/post/verb/)**: "[The](/post/the/) [government](/post/government/) aims [to](/post/to/) [improve](/post/improve/) [the](/post/the/) [welfare](/post/welfare/) [of](/post/of/) [its](/post/its/) citizens [through](/post/through/) healthcare reforms."
 
 ## Synonyms
 - Well-being
-- [Prosperity](/en/post/prosperity/)
-- [Support](/en/post/support/)
+- [Prosperity](/post/prosperity/)
+- [Support](/post/support/)
 - Assistance
-- [Security](/en/post/security/)
-- [Public](/en/post/public/) assistance
-- [Social](/en/post/social/) services
+- [Security](/post/security/)
+- [Public](/post/public/) assistance
+- [Social](/post/social/) services
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) "[to](/en/post/to/) [welfare](/en/post/welfare/)" is [not](/en/post/not/) [a](/en/post/a/) [widely](/en/post/widely/) recognized [or](/en/post/or/) [common](/en/post/common/) [usage](/en/post/usage/), [so](/en/post/so/) [the](/en/post/the/) examples [with](/en/post/with/) "[welfare](/en/post/welfare/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) are [less](/en/post/less/) [common](/en/post/common/) [and](/en/post/and/) [may](/en/post/may/) [not](/en/post/not/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [everyday](/en/post/everyday/) [conversation](/en/post/conversation/).
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) "[to](/post/to/) [welfare](/post/welfare/)" is [not](/post/not/) [a](/post/a/) [widely](/post/widely/) recognized [or](/post/or/) [common](/post/common/) [usage](/post/usage/), [so](/post/so/) [the](/post/the/) examples [with](/post/with/) "[welfare](/post/welfare/)" [as](/post/as/) [a](/post/a/) [verb](/post/verb/) are [less](/post/less/) [common](/post/common/) [and](/post/and/) [may](/post/may/) [not](/post/not/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [everyday](/post/everyday/) [conversation](/post/conversation/).

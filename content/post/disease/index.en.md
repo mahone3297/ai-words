@@ -7,39 +7,39 @@ description = '[diˈziːz] n.病，疾病；病害'
 keywords = ['ai words', 'disease']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈziːz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[disease](/en/post/disease/)** is [a](/en/post/a/) [condition](/en/post/condition/) [that](/en/post/that/) causes [harm](/en/post/harm/) [to](/en/post/to/) an [organism](/en/post/organism/), typically characterized [by](/en/post/by/) [specific](/en/post/specific/) symptoms, [often](/en/post/often/) affecting [multiple](/en/post/multiple/) [organ](/en/post/organ/) systems, [and](/en/post/and/) [often](/en/post/often/) caused [by](/en/post/by/) pathogens, genetics, [or](/en/post/or/) environmental factors. [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) contagious [or](/en/post/or/) non-contagious.
+### [Noun](/post/noun/)
+[A](/post/a/) **[disease](/post/disease/)** is [a](/post/a/) [condition](/post/condition/) [that](/post/that/) causes [harm](/post/harm/) [to](/post/to/) an [organism](/post/organism/), typically characterized [by](/post/by/) [specific](/post/specific/) symptoms, [often](/post/often/) affecting [multiple](/post/multiple/) [organ](/post/organ/) systems, [and](/post/and/) [often](/post/often/) caused [by](/post/by/) pathogens, genetics, [or](/post/or/) environmental factors. [It](/post/it/) [can](/post/can/) [be](/post/be/) contagious [or](/post/or/) non-contagious.
 
-### [Verb](/en/post/verb/) (Informal)
-[To](/en/post/to/) **[fall](/en/post/fall/) [ill](/en/post/ill/)** [or](/en/post/or/) **[develop](/en/post/develop/) [a](/en/post/a/) [disease](/en/post/disease/)** [means](/en/post/means/) [to](/en/post/to/) [contract](/en/post/contract/) [a](/en/post/a/) [sickness](/en/post/sickness/) [or](/en/post/or/) [health](/en/post/health/) [issue](/en/post/issue/).
+### [Verb](/post/verb/) (Informal)
+[To](/post/to/) **[fall](/post/fall/) [ill](/post/ill/)** [or](/post/or/) **[develop](/post/develop/) [a](/post/a/) [disease](/post/disease/)** [means](/post/means/) [to](/post/to/) [contract](/post/contract/) [a](/post/a/) [sickness](/post/sickness/) [or](/post/or/) [health](/post/health/) [issue](/post/issue/).
 
-### [Adjective](/en/post/adjective/)
-Diseased [or](/en/post/or/) diseaseful [can](/en/post/can/) [describe](/en/post/describe/) [something](/en/post/something/) related [to](/en/post/to/) [or](/en/post/or/) affected [by](/en/post/by/) [a](/en/post/a/) [disease](/en/post/disease/).
+### [Adjective](/post/adjective/)
+Diseased [or](/post/or/) diseaseful [can](/post/can/) [describe](/post/describe/) [something](/post/something/) related [to](/post/to/) [or](/post/or/) affected [by](/post/by/) [a](/post/a/) [disease](/post/disease/).
 
 ## Phrases
-- "[Suffer](/en/post/suffer/) [from](/en/post/from/) [a](/en/post/a/) [disease](/en/post/disease/)"
-- "[Prevent](/en/post/prevent/) [the](/en/post/the/) [spread](/en/post/spread/) [of](/en/post/of/) [disease](/en/post/disease/)"
-- "[Undergo](/en/post/undergo/) [treatment](/en/post/treatment/) [for](/en/post/for/) [a](/en/post/a/) [disease](/en/post/disease/)"
+- "[Suffer](/post/suffer/) [from](/post/from/) [a](/post/a/) [disease](/post/disease/)"
+- "[Prevent](/post/prevent/) [the](/post/the/) [spread](/post/spread/) [of](/post/of/) [disease](/post/disease/)"
+- "[Undergo](/post/undergo/) [treatment](/post/treatment/) [for](/post/for/) [a](/post/a/) [disease](/post/disease/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was diagnosed [with](/en/post/with/) [a](/en/post/a/) [rare](/en/post/rare/) genetic [disease](/en/post/disease/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [week](/en/post/week/) [of](/en/post/of/) [exposure](/en/post/exposure/) [to](/en/post/to/) [the](/en/post/the/) [cold](/en/post/cold/), [he](/en/post/he/) developed [a](/en/post/a/) [severe](/en/post/severe/) [disease](/en/post/disease/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) polluted [water](/en/post/water/) had [a](/en/post/a/) diseaseful [quality](/en/post/quality/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was diagnosed [with](/post/with/) [a](/post/a/) [rare](/post/rare/) genetic [disease](/post/disease/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [week](/post/week/) [of](/post/of/) [exposure](/post/exposure/) [to](/post/to/) [the](/post/the/) [cold](/post/cold/), [he](/post/he/) developed [a](/post/a/) [severe](/post/severe/) [disease](/post/disease/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) polluted [water](/post/water/) had [a](/post/a/) diseaseful [quality](/post/quality/)."
 
 ## Synonyms
-- [Illness](/en/post/illness/)
+- [Illness](/post/illness/)
 - Affliction
-- [Condition](/en/post/condition/)
+- [Condition](/post/condition/)
 - Malady
 - Ailment
-- [Sickness](/en/post/sickness/)
+- [Sickness](/post/sickness/)
 
 ## Antonyms
-- [Health](/en/post/health/)
+- [Health](/post/health/)
 - Wellness
 - Soundness
 - Robustness

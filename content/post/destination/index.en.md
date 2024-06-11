@@ -7,53 +7,53 @@ description = '[ˌdestiˈnei∫ən] n.目的地,终点；目标'
 keywords = ['ai words', 'destination']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈstɪnəʃ(ə)n/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [place](/en/post/place/) [or](/en/post/or/) [goal](/en/post/goal/) towards [which](/en/post/which/) [one](/en/post/one/) is traveling [or](/en/post/or/) moving; [a](/en/post/a/) [final](/en/post/final/) [destination](/en/post/destination/).
-   - "[The](/en/post/the/) plane's [destination](/en/post/destination/) was Paris."
-2. [The](/en/post/the/) intended [or](/en/post/or/) desired [end](/en/post/end/) [result](/en/post/result/) [or](/en/post/or/) [outcome](/en/post/outcome/).
-   - "[His](/en/post/his/) [ultimate](/en/post/ultimate/) [destination](/en/post/destination/) was [a](/en/post/a/) [successful](/en/post/successful/) [career](/en/post/career/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [place](/post/place/) [or](/post/or/) [goal](/post/goal/) towards [which](/post/which/) [one](/post/one/) is traveling [or](/post/or/) moving; [a](/post/a/) [final](/post/final/) [destination](/post/destination/).
+   - "[The](/post/the/) plane's [destination](/post/destination/) was Paris."
+2. [The](/post/the/) intended [or](/post/or/) desired [end](/post/end/) [result](/post/result/) [or](/post/or/) [outcome](/post/outcome/).
+   - "[His](/post/his/) [ultimate](/post/ultimate/) [destination](/post/destination/) was [a](/post/a/) [successful](/post/successful/) [career](/post/career/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [travel](/en/post/travel/) [or](/en/post/or/) [go](/en/post/go/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [as](/en/post/as/) one's [destination](/en/post/destination/).
-   - "We're planning [to](/en/post/to/) [destination](/en/post/destination/) Hawaii [this](/en/post/this/) [summer](/en/post/summer/)."
-2. [To](/en/post/to/) [point](/en/post/point/) [or](/en/post/or/) [aim](/en/post/aim/) ([oneself](/en/post/oneself/)) [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [outcome](/en/post/outcome/) [or](/en/post/or/) [result](/en/post/result/).
-   - "[She](/en/post/she/) [set](/en/post/set/) [her](/en/post/her/) sights [on](/en/post/on/) [a](/en/post/a/) [destination](/en/post/destination/) [of](/en/post/of/) [financial](/en/post/financial/) [independence](/en/post/independence/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [travel](/post/travel/) [or](/post/or/) [go](/post/go/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/) [as](/post/as/) one's [destination](/post/destination/).
+   - "We're planning [to](/post/to/) [destination](/post/destination/) Hawaii [this](/post/this/) [summer](/post/summer/)."
+2. [To](/post/to/) [point](/post/point/) [or](/post/or/) [aim](/post/aim/) ([oneself](/post/oneself/)) [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [outcome](/post/outcome/) [or](/post/or/) [result](/post/result/).
+   - "[She](/post/she/) [set](/post/set/) [her](/post/her/) sights [on](/post/on/) [a](/post/a/) [destination](/post/destination/) [of](/post/of/) [financial](/post/financial/) [independence](/post/independence/)."
 
-### [Adjective](/en/post/adjective/)
-1. Designating [the](/en/post/the/) [purpose](/en/post/purpose/) [or](/en/post/or/) [aim](/en/post/aim/) [of](/en/post/of/) [something](/en/post/something/).
-   - "[A](/en/post/a/) [destination](/en/post/destination/) [wedding](/en/post/wedding/) [on](/en/post/on/) [the](/en/post/the/) [beach](/en/post/beach/)."
+### [Adjective](/post/adjective/)
+1. Designating [the](/post/the/) [purpose](/post/purpose/) [or](/post/or/) [aim](/post/aim/) [of](/post/of/) [something](/post/something/).
+   - "[A](/post/a/) [destination](/post/destination/) [wedding](/post/wedding/) [on](/post/on/) [the](/post/the/) [beach](/post/beach/)."
 
 ## Phrases
-- "[Final](/en/post/final/) [destination](/en/post/destination/)"
-- "[Reach](/en/post/reach/) one's [destination](/en/post/destination/)"
-- "[Set](/en/post/set/) [a](/en/post/a/) [destination](/en/post/destination/)"
-- "[Travel](/en/post/travel/) [to](/en/post/to/) [a](/en/post/a/) [destination](/en/post/destination/)"
-- "[Destination](/en/post/destination/) marketing"
+- "[Final](/post/final/) [destination](/post/destination/)"
+- "[Reach](/post/reach/) one's [destination](/post/destination/)"
+- "[Set](/post/set/) [a](/post/a/) [destination](/post/destination/)"
+- "[Travel](/post/travel/) [to](/post/to/) [a](/post/a/) [destination](/post/destination/)"
+- "[Destination](/post/destination/) marketing"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [journey](/en/post/journey/), [they](/en/post/they/) [finally](/en/post/finally/) arrived [at](/en/post/at/) [their](/en/post/their/) [destination](/en/post/destination/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [destination](/en/post/destination/) [the](/en/post/the/) supplies [to](/en/post/to/) [the](/en/post/the/) [remote](/en/post/remote/) [village](/en/post/village/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [resort](/en/post/resort/) offers [a](/en/post/a/) [range](/en/post/range/) [of](/en/post/of/) activities [for](/en/post/for/) [destination](/en/post/destination/) vacationers."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [journey](/post/journey/), [they](/post/they/) [finally](/post/finally/) arrived [at](/post/at/) [their](/post/their/) [destination](/post/destination/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [destination](/post/destination/) [the](/post/the/) supplies [to](/post/to/) [the](/post/the/) [remote](/post/remote/) [village](/post/village/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [resort](/post/resort/) offers [a](/post/a/) [range](/post/range/) [of](/post/of/) activities [for](/post/for/) [destination](/post/destination/) vacationers."
 
 ## Synonyms
-- [Goal](/en/post/goal/)
-- [Target](/en/post/target/)
-- [Aim](/en/post/aim/)
-- [Point](/en/post/point/)
+- [Goal](/post/goal/)
+- [Target](/post/target/)
+- [Aim](/post/aim/)
+- [Point](/post/point/)
 - Endpoint
-- [Finish](/en/post/finish/)
-- [Result](/en/post/result/)
-- [Outcome](/en/post/outcome/)
-- [Place](/en/post/place/)
+- [Finish](/post/finish/)
+- [Result](/post/result/)
+- [Outcome](/post/outcome/)
+- [Place](/post/place/)
 
 ## Antonyms
-- [Origin](/en/post/origin/)
-- [Source](/en/post/source/)
-- [Departure](/en/post/departure/)
-- [Start](/en/post/start/)
-- [Beginning](/en/post/beginning/)
-- [Arrival](/en/post/arrival/)
+- [Origin](/post/origin/)
+- [Source](/post/source/)
+- [Departure](/post/departure/)
+- [Start](/post/start/)
+- [Beginning](/post/beginning/)
+- [Arrival](/post/arrival/)

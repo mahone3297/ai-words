@@ -7,40 +7,40 @@ description = '[ˈbærəl] n.桶；圆筒；枪管'
 keywords = ['ai words', 'barrel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /barəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [container](/en/post/container/) made [of](/en/post/of/) [wood](/en/post/wood/), [metal](/en/post/metal/), [or](/en/post/or/) [plastic](/en/post/plastic/), [usually](/en/post/usually/) cylindrical [with](/en/post/with/) [a](/en/post/a/) [wide](/en/post/wide/) [mouth](/en/post/mouth/) [and](/en/post/and/) [a](/en/post/a/) tightly fitting [lid](/en/post/lid/), [used](/en/post/used/) [for](/en/post/for/) storing [and](/en/post/and/) transporting liquids, [food](/en/post/food/), [or](/en/post/or/) [other](/en/post/other/) items.**
-2. **An [amount](/en/post/amount/) [or](/en/post/or/) [supply](/en/post/supply/) [of](/en/post/of/) [something](/en/post/something/) measured [in](/en/post/in/) units [similar](/en/post/similar/) [to](/en/post/to/) [a](/en/post/a/) [gallon](/en/post/gallon/) [or](/en/post/or/) [a](/en/post/a/) [barrel](/en/post/barrel/) (e.g., [a](/en/post/a/) [barrel](/en/post/barrel/) [of](/en/post/of/) [oil](/en/post/oil/)).**
-3. **[A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/) [for](/en/post/for/) [beer](/en/post/beer/) [or](/en/post/or/) [wine](/en/post/wine/), [equivalent](/en/post/equivalent/) [to](/en/post/to/) 31.5 gallons ([approximately](/en/post/approximately/) 124 liters).**
-4. **[In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) firearms, [a](/en/post/a/) [long](/en/post/long/) [gun](/en/post/gun/) [with](/en/post/with/) [a](/en/post/a/) tubular [stock](/en/post/stock/) [and](/en/post/and/) smoothbore [barrel](/en/post/barrel/).**
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [container](/post/container/) made [of](/post/of/) [wood](/post/wood/), [metal](/post/metal/), [or](/post/or/) [plastic](/post/plastic/), [usually](/post/usually/) cylindrical [with](/post/with/) [a](/post/a/) [wide](/post/wide/) [mouth](/post/mouth/) [and](/post/and/) [a](/post/a/) tightly fitting [lid](/post/lid/), [used](/post/used/) [for](/post/for/) storing [and](/post/and/) transporting liquids, [food](/post/food/), [or](/post/or/) [other](/post/other/) items.**
+2. **An [amount](/post/amount/) [or](/post/or/) [supply](/post/supply/) [of](/post/of/) [something](/post/something/) measured [in](/post/in/) units [similar](/post/similar/) [to](/post/to/) [a](/post/a/) [gallon](/post/gallon/) [or](/post/or/) [a](/post/a/) [barrel](/post/barrel/) (e.g., [a](/post/a/) [barrel](/post/barrel/) [of](/post/of/) [oil](/post/oil/)).**
+3. **[A](/post/a/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/) [for](/post/for/) [beer](/post/beer/) [or](/post/or/) [wine](/post/wine/), [equivalent](/post/equivalent/) [to](/post/to/) 31.5 gallons ([approximately](/post/approximately/) 124 liters).**
+4. **[In](/post/in/) [the](/post/the/) context [of](/post/of/) firearms, [a](/post/a/) [long](/post/long/) [gun](/post/gun/) [with](/post/with/) [a](/post/a/) tubular [stock](/post/stock/) [and](/post/and/) smoothbore [barrel](/post/barrel/).**
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [load](/en/post/load/) [or](/en/post/or/) [fill](/en/post/fill/) [a](/en/post/a/) [barrel](/en/post/barrel/) [with](/en/post/with/) [a](/en/post/a/) [substance](/en/post/substance/).**
-2. **[To](/en/post/to/) [transport](/en/post/transport/) [or](/en/post/or/) [store](/en/post/store/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [barrel](/en/post/barrel/).**
-3. **[To](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [or](/en/post/or/) denote [a](/en/post/a/) [quantity](/en/post/quantity/) measured [in](/en/post/in/) barrels (e.g., "[a](/en/post/a/) [barrel](/en/post/barrel/) [of](/en/post/of/) laughs").**
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [load](/post/load/) [or](/post/or/) [fill](/post/fill/) [a](/post/a/) [barrel](/post/barrel/) [with](/post/with/) [a](/post/a/) [substance](/post/substance/).**
+2. **[To](/post/to/) [transport](/post/transport/) [or](/post/or/) [store](/post/store/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [barrel](/post/barrel/).**
+3. **[To](/post/to/) [refer](/post/refer/) [to](/post/to/) [or](/post/or/) denote [a](/post/a/) [quantity](/post/quantity/) measured [in](/post/in/) barrels (e.g., "[a](/post/a/) [barrel](/post/barrel/) [of](/post/of/) laughs").**
 
-### [Adjective](/en/post/adjective/)
-1. **[Large](/en/post/large/) [and](/en/post/and/) cylindrical, typically referring [to](/en/post/to/) [a](/en/post/a/) [storage](/en/post/storage/) [container](/en/post/container/).**
-2. **Related [to](/en/post/to/) [or](/en/post/or/) characterized [by](/en/post/by/) [a](/en/post/a/) [barrel](/en/post/barrel/) [shape](/en/post/shape/) [or](/en/post/or/) [structure](/en/post/structure/).**
+### [Adjective](/post/adjective/)
+1. **[Large](/post/large/) [and](/post/and/) cylindrical, typically referring [to](/post/to/) [a](/post/a/) [storage](/post/storage/) [container](/post/container/).**
+2. **Related [to](/post/to/) [or](/post/or/) characterized [by](/post/by/) [a](/post/a/) [barrel](/post/barrel/) [shape](/post/shape/) [or](/post/or/) [structure](/post/structure/).**
 
 ## Phrases
-- "[Barrel](/en/post/barrel/) [up](/en/post/up/)" [or](/en/post/or/) "[Barrel](/en/post/barrel/) [down](/en/post/down/)" ([to](/en/post/to/) [move](/en/post/move/) [quickly](/en/post/quickly/))
-- "[Drain](/en/post/drain/) [a](/en/post/a/) [barrel](/en/post/barrel/)" ([to](/en/post/to/) [finish](/en/post/finish/) [a](/en/post/a/) [large](/en/post/large/) [drink](/en/post/drink/) [or](/en/post/or/) [quantity](/en/post/quantity/))
-- "[Roll](/en/post/roll/) [a](/en/post/a/) [barrel](/en/post/barrel/)" ([a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) moving [or](/en/post/or/) handling [a](/en/post/a/) [heavy](/en/post/heavy/) [barrel](/en/post/barrel/))
+- "[Barrel](/post/barrel/) [up](/post/up/)" [or](/post/or/) "[Barrel](/post/barrel/) [down](/post/down/)" ([to](/post/to/) [move](/post/move/) [quickly](/post/quickly/))
+- "[Drain](/post/drain/) [a](/post/a/) [barrel](/post/barrel/)" ([to](/post/to/) [finish](/post/finish/) [a](/post/a/) [large](/post/large/) [drink](/post/drink/) [or](/post/or/) [quantity](/post/quantity/))
+- "[Roll](/post/roll/) [a](/post/a/) [barrel](/post/barrel/)" ([a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) moving [or](/post/or/) handling [a](/post/a/) [heavy](/post/heavy/) [barrel](/post/barrel/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) winery stored [the](/en/post/the/) vintage [wine](/en/post/wine/) [in](/en/post/in/) [oak](/en/post/oak/) barrels [to](/en/post/to/) enhance [its](/en/post/its/) flavor."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) workers were [busy](/en/post/busy/) unloading barrels [of](/en/post/of/) [flour](/en/post/flour/) [from](/en/post/from/) [the](/en/post/the/) [ship](/en/post/ship/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) had [a](/en/post/a/) barrel-vaulted [ceiling](/en/post/ceiling/) [in](/en/post/in/) [the](/en/post/the/) entryway."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) winery stored [the](/post/the/) vintage [wine](/post/wine/) [in](/post/in/) [oak](/post/oak/) barrels [to](/post/to/) enhance [its](/post/its/) flavor."
+- **[Verb](/post/verb/)**: "[The](/post/the/) workers were [busy](/post/busy/) unloading barrels [of](/post/of/) [flour](/post/flour/) [from](/post/from/) [the](/post/the/) [ship](/post/ship/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) [house](/post/house/) had [a](/post/a/) barrel-vaulted [ceiling](/post/ceiling/) [in](/post/in/) [the](/post/the/) entryway."
 
 ## Synonyms
 - Cask
 - Hogshead
-- [Ton](/en/post/ton/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [a](/en/post/a/) [large](/en/post/large/) [quantity](/en/post/quantity/), [not](/en/post/not/) [a](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [weight](/en/post/weight/))
+- [Ton](/post/ton/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [a](/post/a/) [large](/post/large/) [quantity](/post/quantity/), [not](/post/not/) [a](/post/a/) [unit](/post/unit/) [of](/post/of/) [weight](/post/weight/))
 - Keg
-- Cistern ([for](/en/post/for/) larger containers)
-- [Reservoir](/en/post/reservoir/) ([for](/en/post/for/) holding liquids)
-- [Stock](/en/post/stock/) ([as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [supply](/en/post/supply/) [of](/en/post/of/) [something](/en/post/something/))
+- Cistern ([for](/post/for/) larger containers)
+- [Reservoir](/post/reservoir/) ([for](/post/for/) holding liquids)
+- [Stock](/post/stock/) ([as](/post/as/) [in](/post/in/) [a](/post/a/) [supply](/post/supply/) [of](/post/of/) [something](/post/something/))

@@ -11,20 +11,20 @@ keywords = ['ai words', 'nasty']
 /næs.ti/
 
 ## 释义
-- **形容词**: 恶心的，令人不悦的。例如: "[The](/post/the/) [smell](/post/smell/) [from](/post/from/) [the](/post/the/) [garbage](/post/garbage/) [can](/post/can/) was [really](/post/really/) [nasty](/post/nasty/)."
-- **形容词**: 粗野的，无礼的。例如: "[He](/post/he/) made [a](/post/a/) [nasty](/post/nasty/) [comment](/post/comment/) [about](/post/about/) [her](/post/her/) [appearance](/post/appearance/)."
+- **形容词**: 恶心的，令人不悦的。例如: "[The](/zh/post/the/) [smell](/zh/post/smell/) [from](/zh/post/from/) [the](/zh/post/the/) [garbage](/zh/post/garbage/) [can](/zh/post/can/) was [really](/zh/post/really/) [nasty](/zh/post/nasty/)."
+- **形容词**: 粗野的，无礼的。例如: "[He](/zh/post/he/) made [a](/zh/post/a/) [nasty](/zh/post/nasty/) [comment](/zh/post/comment/) [about](/zh/post/about/) [her](/zh/post/her/) [appearance](/zh/post/appearance/)."
 
 ## 短语
-- "[Nasty](/post/nasty/) habits" 指不良的习惯或行为。
-- "[A](/post/a/) [nasty](/post/nasty/) [temper](/post/temper/)" 指一个人脾气很坏。
+- "[Nasty](/zh/post/nasty/) habits" 指不良的习惯或行为。
+- "[A](/zh/post/a/) [nasty](/zh/post/nasty/) [temper](/zh/post/temper/)" 指一个人脾气很坏。
 
 ## 例句
-- 形容词: "[The](/post/the/) [food](/post/food/) had gone [bad](/post/bad/) [and](/post/and/) tasted [really](/post/really/) [nasty](/post/nasty/)."
-- 形容词: "[She](/post/she/) was surprised [by](/post/by/) [his](/post/his/) [nasty](/post/nasty/) [remark](/post/remark/)."
+- 形容词: "[The](/zh/post/the/) [food](/zh/post/food/) had gone [bad](/zh/post/bad/) [and](/zh/post/and/) tasted [really](/zh/post/really/) [nasty](/zh/post/nasty/)."
+- 形容词: "[She](/zh/post/she/) was surprised [by](/zh/post/by/) [his](/zh/post/his/) [nasty](/zh/post/nasty/) [remark](/zh/post/remark/)."
 
 ## 同义词
 - Disgusting
 - Repulsive
-- [Unpleasant](/post/unpleasant/)
+- [Unpleasant](/zh/post/unpleasant/)
 - Offensive
 - Vulgar

@@ -7,37 +7,37 @@ description = '[ˌʌndəˈstændiŋ] n.理解；理解力；协定'
 keywords = ['ai words', 'understanding']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌʌndərˈstændɪŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Understanding](/en/post/understanding/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) comprehend [or](/en/post/or/) [grasp](/en/post/grasp/) [the](/en/post/the/) [meaning](/en/post/meaning/), [purpose](/en/post/purpose/), [or](/en/post/or/) [intention](/en/post/intention/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) including empathy [and](/en/post/and/) [the](/en/post/the/) [capacity](/en/post/capacity/) [to](/en/post/to/) [share](/en/post/share/) [someone](/en/post/someone/) else's thoughts [or](/en/post/or/) feelings. [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) [deep](/en/post/deep/) [understanding](/en/post/understanding/) [of](/en/post/of/) [each](/en/post/each/) other's perspectives made [their](/en/post/their/) collaboration [successful](/en/post/successful/)."
+### [Noun](/post/noun/)
+**[Understanding](/post/understanding/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [ability](/post/ability/) [to](/post/to/) comprehend [or](/post/or/) [grasp](/post/grasp/) [the](/post/the/) [meaning](/post/meaning/), [purpose](/post/purpose/), [or](/post/or/) [intention](/post/intention/) [of](/post/of/) [something](/post/something/), [often](/post/often/) including empathy [and](/post/and/) [the](/post/the/) [capacity](/post/capacity/) [to](/post/to/) [share](/post/share/) [someone](/post/someone/) else's thoughts [or](/post/or/) feelings. [For](/post/for/) [example](/post/example/): "[Their](/post/their/) [deep](/post/deep/) [understanding](/post/understanding/) [of](/post/of/) [each](/post/each/) other's perspectives made [their](/post/their/) collaboration [successful](/post/successful/)."
 
-### [Verb](/en/post/verb/)
-**[To](/en/post/to/) [understand](/en/post/understand/)**: [To](/en/post/to/) [perceive](/en/post/perceive/) [or](/en/post/or/) [grasp](/en/post/grasp/) [the](/en/post/the/) [meaning](/en/post/meaning/), [logic](/en/post/logic/), [or](/en/post/or/) [significance](/en/post/significance/) [of](/en/post/of/) [a](/en/post/a/) [concept](/en/post/concept/), [idea](/en/post/idea/), [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "I'm trying [to](/en/post/to/) [understand](/en/post/understand/) [the](/en/post/the/) [complex](/en/post/complex/) math [problem](/en/post/problem/)."
+### [Verb](/post/verb/)
+**[To](/post/to/) [understand](/post/understand/)**: [To](/post/to/) [perceive](/post/perceive/) [or](/post/or/) [grasp](/post/grasp/) [the](/post/the/) [meaning](/post/meaning/), [logic](/post/logic/), [or](/post/or/) [significance](/post/significance/) [of](/post/of/) [a](/post/a/) [concept](/post/concept/), [idea](/post/idea/), [or](/post/or/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "I'm trying [to](/post/to/) [understand](/post/understand/) [the](/post/the/) [complex](/post/complex/) math [problem](/post/problem/)."
 
-### [Adjective](/en/post/adjective/)
-**Understandable**: [Easy](/en/post/easy/) [to](/en/post/to/) comprehend [or](/en/post/or/) [follow](/en/post/follow/); [clear](/en/post/clear/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) instructions were written [in](/en/post/in/) an understandable [manner](/en/post/manner/)."
+### [Adjective](/post/adjective/)
+**Understandable**: [Easy](/post/easy/) [to](/post/to/) comprehend [or](/post/or/) [follow](/post/follow/); [clear](/post/clear/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) instructions were written [in](/post/in/) an understandable [manner](/post/manner/)."
 
 ## Phrases
-- "[Gain](/en/post/gain/) [a](/en/post/a/) [better](/en/post/better/) [understanding](/en/post/understanding/)" [means](/en/post/means/) [to](/en/post/to/) [improve](/en/post/improve/) one's [comprehension](/en/post/comprehension/) [or](/en/post/or/) [knowledge](/en/post/knowledge/).
-- "[Lack](/en/post/lack/) [of](/en/post/of/) [understanding](/en/post/understanding/)" refers [to](/en/post/to/) [a](/en/post/a/) deficiency [in](/en/post/in/) grasping [a](/en/post/a/) [concept](/en/post/concept/).
-- "[Mutual](/en/post/mutual/) [understanding](/en/post/understanding/)" indicates shared [comprehension](/en/post/comprehension/) [between](/en/post/between/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) parties.
+- "[Gain](/post/gain/) [a](/post/a/) [better](/post/better/) [understanding](/post/understanding/)" [means](/post/means/) [to](/post/to/) [improve](/post/improve/) one's [comprehension](/post/comprehension/) [or](/post/or/) [knowledge](/post/knowledge/).
+- "[Lack](/post/lack/) [of](/post/of/) [understanding](/post/understanding/)" refers [to](/post/to/) [a](/post/a/) deficiency [in](/post/in/) grasping [a](/post/a/) [concept](/post/concept/).
+- "[Mutual](/post/mutual/) [understanding](/post/understanding/)" indicates shared [comprehension](/post/comprehension/) [between](/post/between/) [two](/post/two/) [or](/post/or/) [more](/post/more/) parties.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [several](/en/post/several/) discussions, [they](/en/post/they/) [finally](/en/post/finally/) reached [a](/en/post/a/) [mutual](/en/post/mutual/) [understanding](/en/post/understanding/)."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [take](/en/post/take/) [some](/en/post/some/) [time](/en/post/time/) [to](/en/post/to/) [understand](/en/post/understand/) [your](/en/post/your/) [perspective](/en/post/perspective/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) explained [the](/en/post/the/) [lesson](/en/post/lesson/) [in](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) made [it](/en/post/it/) [easily](/en/post/easily/) understandable."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [several](/post/several/) discussions, [they](/post/they/) [finally](/post/finally/) reached [a](/post/a/) [mutual](/post/mutual/) [understanding](/post/understanding/)."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [take](/post/take/) [some](/post/some/) [time](/post/time/) [to](/post/to/) [understand](/post/understand/) [your](/post/your/) [perspective](/post/perspective/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [teacher](/post/teacher/) explained [the](/post/the/) [lesson](/post/lesson/) [in](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) made [it](/post/it/) [easily](/post/easily/) understandable."
 
 ## Synonyms
-- [Comprehension](/en/post/comprehension/)
+- [Comprehension](/post/comprehension/)
 - Perception
 - Insight
 - Appreciation
-- [Recognition](/en/post/recognition/)
-- [Interpretation](/en/post/interpretation/)
+- [Recognition](/post/recognition/)
+- [Interpretation](/post/interpretation/)
 - Familiarity
-- [Knowledge](/en/post/knowledge/)
-- [Sense](/en/post/sense/)
-- [Grasp](/en/post/grasp/)
+- [Knowledge](/post/knowledge/)
+- [Sense](/post/sense/)
+- [Grasp](/post/grasp/)

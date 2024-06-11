@@ -7,31 +7,31 @@ description = '[ˈmjuːtjuəl] a.相互的；共同的'
 keywords = ['ai words', 'mutual']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmjuːtʃuəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) involving [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) parties, [with](/en/post/with/) [each](/en/post/each/) having [equal](/en/post/equal/) [or](/en/post/or/) reciprocal rights [and](/en/post/and/) obligations. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [have](/en/post/have/) [a](/en/post/a/) [mutual](/en/post/mutual/) [understanding](/en/post/understanding/) [about](/en/post/about/) [their](/en/post/their/) roles [in](/en/post/in/) [the](/en/post/the/) [project](/en/post/project/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) involving [two](/post/two/) [or](/post/or/) [more](/post/more/) parties, [with](/post/with/) [each](/post/each/) having [equal](/post/equal/) [or](/post/or/) reciprocal rights [and](/post/and/) obligations. [For](/post/for/) [example](/post/example/): "[They](/post/they/) [have](/post/have/) [a](/post/a/) [mutual](/post/mutual/) [understanding](/post/understanding/) [about](/post/about/) [their](/post/their/) roles [in](/post/in/) [the](/post/the/) [project](/post/project/)."
 
-  - **[Mutual](/en/post/mutual/) [respect](/en/post/respect/)**: [A](/en/post/a/) shared [recognition](/en/post/recognition/) [and](/en/post/and/) admiration [between](/en/post/between/) [people](/en/post/people/).
-  - **[Mutual](/en/post/mutual/) [fund](/en/post/fund/)**: An [investment](/en/post/investment/) [vehicle](/en/post/vehicle/) [that](/en/post/that/) pools [money](/en/post/money/) [from](/en/post/from/) [many](/en/post/many/) investors [to](/en/post/to/) [purchase](/en/post/purchase/) [a](/en/post/a/) [diverse](/en/post/diverse/) portfolio [of](/en/post/of/) stocks, bonds, [or](/en/post/or/) [other](/en/post/other/) assets.
-  - **[Mutual](/en/post/mutual/) [friend](/en/post/friend/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [a](/en/post/a/) [friend](/en/post/friend/) [to](/en/post/to/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) individuals.
+  - **[Mutual](/post/mutual/) [respect](/post/respect/)**: [A](/post/a/) shared [recognition](/post/recognition/) [and](/post/and/) admiration [between](/post/between/) [people](/post/people/).
+  - **[Mutual](/post/mutual/) [fund](/post/fund/)**: An [investment](/post/investment/) [vehicle](/post/vehicle/) [that](/post/that/) pools [money](/post/money/) [from](/post/from/) [many](/post/many/) investors [to](/post/to/) [purchase](/post/purchase/) [a](/post/a/) [diverse](/post/diverse/) portfolio [of](/post/of/) stocks, bonds, [or](/post/or/) [other](/post/other/) assets.
+  - **[Mutual](/post/mutual/) [friend](/post/friend/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [a](/post/a/) [friend](/post/friend/) [to](/post/to/) [two](/post/two/) [or](/post/or/) [more](/post/more/) individuals.
 
 ## Phrases
-- **[Mutual](/en/post/mutual/) [agreement](/en/post/agreement/)**: [When](/en/post/when/) [both](/en/post/both/) parties [consent](/en/post/consent/) [to](/en/post/to/) [the](/en/post/the/) [same](/en/post/same/) terms [or](/en/post/or/) conditions.
-- **[Mutual](/en/post/mutual/) [benefit](/en/post/benefit/)**: [A](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [both](/en/post/both/) sides [gain](/en/post/gain/) [something](/en/post/something/) [from](/en/post/from/) an [interaction](/en/post/interaction/) [or](/en/post/or/) [relationship](/en/post/relationship/).
-- **[Mutual](/en/post/mutual/) [trust](/en/post/trust/)**: [The](/en/post/the/) [reliance](/en/post/reliance/) [and](/en/post/and/) [confidence](/en/post/confidence/) [that](/en/post/that/) exists [between](/en/post/between/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) [people](/en/post/people/).
+- **[Mutual](/post/mutual/) [agreement](/post/agreement/)**: [When](/post/when/) [both](/post/both/) parties [consent](/post/consent/) [to](/post/to/) [the](/post/the/) [same](/post/same/) terms [or](/post/or/) conditions.
+- **[Mutual](/post/mutual/) [benefit](/post/benefit/)**: [A](/post/a/) [situation](/post/situation/) [where](/post/where/) [both](/post/both/) sides [gain](/post/gain/) [something](/post/something/) [from](/post/from/) an [interaction](/post/interaction/) [or](/post/or/) [relationship](/post/relationship/).
+- **[Mutual](/post/mutual/) [trust](/post/trust/)**: [The](/post/the/) [reliance](/post/reliance/) [and](/post/and/) [confidence](/post/confidence/) [that](/post/that/) exists [between](/post/between/) [two](/post/two/) [or](/post/or/) [more](/post/more/) [people](/post/people/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Their](/en/post/their/) [mutual](/en/post/mutual/) [love](/en/post/love/) [for](/en/post/for/) books sparked [a](/en/post/a/) [strong](/en/post/strong/) [friendship](/en/post/friendship/)."
-- "[After](/en/post/after/) [some](/en/post/some/) [discussion](/en/post/discussion/), [they](/en/post/they/) reached [a](/en/post/a/) [mutual](/en/post/mutual/) [agreement](/en/post/agreement/) [on](/en/post/on/) [how](/en/post/how/) [to](/en/post/to/) [divide](/en/post/divide/) [the](/en/post/the/) workload."
-- "Investing [in](/en/post/in/) [a](/en/post/a/) [mutual](/en/post/mutual/) [fund](/en/post/fund/) [can](/en/post/can/) [help](/en/post/help/) diversify [your](/en/post/your/) [financial](/en/post/financial/) portfolio."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Their](/post/their/) [mutual](/post/mutual/) [love](/post/love/) [for](/post/for/) books sparked [a](/post/a/) [strong](/post/strong/) [friendship](/post/friendship/)."
+- "[After](/post/after/) [some](/post/some/) [discussion](/post/discussion/), [they](/post/they/) reached [a](/post/a/) [mutual](/post/mutual/) [agreement](/post/agreement/) [on](/post/on/) [how](/post/how/) [to](/post/to/) [divide](/post/divide/) [the](/post/the/) workload."
+- "Investing [in](/post/in/) [a](/post/a/) [mutual](/post/mutual/) [fund](/post/fund/) [can](/post/can/) [help](/post/help/) diversify [your](/post/your/) [financial](/post/financial/) portfolio."
 
 ## Synonyms
 - Shared
-- [Common](/en/post/common/)
+- [Common](/post/common/)
 - Reciprocal
 - Bilateral
-- [Joint](/en/post/joint/)
+- [Joint](/post/joint/)
 - Co-operative
 - Interdependent

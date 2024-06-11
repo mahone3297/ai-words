@@ -7,33 +7,33 @@ description = '[gɑːsp] vi.气喘，喘息'
 keywords = ['ai words', 'gasp']
 +++
 
-## [Word](/en/post/word/): Gasping
+## [Word](/post/word/): Gasping
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡæsp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [sudden](/en/post/sudden/) intake [of](/en/post/of/) [breath](/en/post/breath/), [especially](/en/post/especially/) [when](/en/post/when/) [one](/en/post/one/) is surprised, shocked, [or](/en/post/or/) experiencing [physical](/en/post/physical/) exertion. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [gasp](/en/post/gasp/) escaped [his](/en/post/his/) lips [when](/en/post/when/) [he](/en/post/he/) heard [the](/en/post/the/) [news](/en/post/news/)."
-- **[Verb](/en/post/verb/)**: (intransitive) [To](/en/post/to/) [breathe](/en/post/breathe/) [suddenly](/en/post/suddenly/) [and](/en/post/and/) audibly [due](/en/post/due/) [to](/en/post/to/) [shock](/en/post/shock/), [fear](/en/post/fear/), [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [air](/en/post/air/). [For](/en/post/for/) [instance](/en/post/instance/): "[She](/en/post/she/) gasped [when](/en/post/when/) [she](/en/post/she/) [saw](/en/post/saw/) [the](/en/post/the/) [snake](/en/post/snake/)."
-  - (transitive) [To](/en/post/to/) [grasp](/en/post/grasp/) [or](/en/post/or/) [seize](/en/post/seize/) [with](/en/post/with/) [a](/en/post/a/) [sudden](/en/post/sudden/) [effort](/en/post/effort/), [often](/en/post/often/) metaphorically. E.g., "[He](/en/post/he/) gasped [at](/en/post/at/) [the](/en/post/the/) [opportunity](/en/post/opportunity/) [to](/en/post/to/) [travel](/en/post/travel/) [abroad](/en/post/abroad/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [sudden](/post/sudden/) intake [of](/post/of/) [breath](/post/breath/), [especially](/post/especially/) [when](/post/when/) [one](/post/one/) is surprised, shocked, [or](/post/or/) experiencing [physical](/post/physical/) exertion. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [gasp](/post/gasp/) escaped [his](/post/his/) lips [when](/post/when/) [he](/post/he/) heard [the](/post/the/) [news](/post/news/)."
+- **[Verb](/post/verb/)**: (intransitive) [To](/post/to/) [breathe](/post/breathe/) [suddenly](/post/suddenly/) [and](/post/and/) audibly [due](/post/due/) [to](/post/to/) [shock](/post/shock/), [fear](/post/fear/), [or](/post/or/) [lack](/post/lack/) [of](/post/of/) [air](/post/air/). [For](/post/for/) [instance](/post/instance/): "[She](/post/she/) gasped [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [the](/post/the/) [snake](/post/snake/)."
+  - (transitive) [To](/post/to/) [grasp](/post/grasp/) [or](/post/or/) [seize](/post/seize/) [with](/post/with/) [a](/post/a/) [sudden](/post/sudden/) [effort](/post/effort/), [often](/post/often/) metaphorically. E.g., "[He](/post/he/) gasped [at](/post/at/) [the](/post/the/) [opportunity](/post/opportunity/) [to](/post/to/) [travel](/post/travel/) [abroad](/post/abroad/)."
 
 ### Examples
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [audience](/en/post/audience/) [let](/en/post/let/) [out](/en/post/out/) [a](/en/post/a/) [collective](/en/post/collective/) [gasp](/en/post/gasp/) [at](/en/post/at/) [the](/en/post/the/) climax [of](/en/post/of/) [the](/en/post/the/) [movie](/en/post/movie/)."
-- **[Verb](/en/post/verb/)**: "[Upon](/en/post/upon/) hearing [the](/en/post/the/) [terrible](/en/post/terrible/) [news](/en/post/news/), [she](/en/post/she/) gasped [for](/en/post/for/) [air](/en/post/air/), [her](/en/post/her/) hands flying [to](/en/post/to/) [her](/en/post/her/) [mouth](/en/post/mouth/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [audience](/post/audience/) [let](/post/let/) [out](/post/out/) [a](/post/a/) [collective](/post/collective/) [gasp](/post/gasp/) [at](/post/at/) [the](/post/the/) climax [of](/post/of/) [the](/post/the/) [movie](/post/movie/)."
+- **[Verb](/post/verb/)**: "[Upon](/post/upon/) hearing [the](/post/the/) [terrible](/post/terrible/) [news](/post/news/), [she](/post/she/) gasped [for](/post/for/) [air](/post/air/), [her](/post/her/) hands flying [to](/post/to/) [her](/post/her/) [mouth](/post/mouth/)."
 
 ## Phrases
-- "[Gasp](/en/post/gasp/) [for](/en/post/for/) [breath](/en/post/breath/)": Describes [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) struggling [to](/en/post/to/) [breathe](/en/post/breathe/), [often](/en/post/often/) [due](/en/post/due/) [to](/en/post/to/) exhaustion [or](/en/post/or/) suffocation.
-- "[A](/en/post/a/) [sight](/en/post/sight/) [that](/en/post/that/) leaves [one](/en/post/one/) gasping": Refers [to](/en/post/to/) [something](/en/post/something/) [so](/en/post/so/) [surprising](/en/post/surprising/) [or](/en/post/or/) stunning [that](/en/post/that/) [it](/en/post/it/) causes [a](/en/post/a/) [strong](/en/post/strong/) [emotional](/en/post/emotional/) [reaction](/en/post/reaction/).
+- "[Gasp](/post/gasp/) [for](/post/for/) [breath](/post/breath/)": Describes [the](/post/the/) [act](/post/act/) [of](/post/of/) struggling [to](/post/to/) [breathe](/post/breathe/), [often](/post/often/) [due](/post/due/) [to](/post/to/) exhaustion [or](/post/or/) suffocation.
+- "[A](/post/a/) [sight](/post/sight/) [that](/post/that/) leaves [one](/post/one/) gasping": Refers [to](/post/to/) [something](/post/something/) [so](/post/so/) [surprising](/post/surprising/) [or](/post/or/) stunning [that](/post/that/) [it](/post/it/) causes [a](/post/a/) [strong](/post/strong/) [emotional](/post/emotional/) [reaction](/post/reaction/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [final](/en/post/final/), [desperate](/en/post/desperate/) [gasp](/en/post/gasp/) marked [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [his](/en/post/his/) [struggle](/en/post/struggle/)."
-- **[Verb](/en/post/verb/)**: "[When](/en/post/when/) [he](/en/post/he/) reached [the](/en/post/the/) summit [after](/en/post/after/) [a](/en/post/a/) grueling [climb](/en/post/climb/), [he](/en/post/he/) was gasping [for](/en/post/for/) oxygen."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [final](/post/final/), [desperate](/post/desperate/) [gasp](/post/gasp/) marked [the](/post/the/) [end](/post/end/) [of](/post/of/) [his](/post/his/) [struggle](/post/struggle/)."
+- **[Verb](/post/verb/)**: "[When](/post/when/) [he](/post/he/) reached [the](/post/the/) summit [after](/post/after/) [a](/post/a/) grueling [climb](/post/climb/), [he](/post/he/) was gasping [for](/post/for/) oxygen."
 
 ## Synonyms
-- [Sigh](/en/post/sigh/)
+- [Sigh](/post/sigh/)
 - Inhalation
 - Wheeze
-- [Catch](/en/post/catch/) one's [breath](/en/post/breath/)
-- Snatch ([as](/en/post/as/) [in](/en/post/in/) 'snatch [a](/en/post/a/) [breath](/en/post/breath/)')
-- [Seize](/en/post/seize/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) seizing an [opportunity](/en/post/opportunity/))
+- [Catch](/post/catch/) one's [breath](/post/breath/)
+- Snatch ([as](/post/as/) [in](/post/in/) 'snatch [a](/post/a/) [breath](/post/breath/)')
+- [Seize](/post/seize/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) seizing an [opportunity](/post/opportunity/))
 - Recoil (emotionally)

@@ -7,37 +7,37 @@ description = '[ˈindeks] n.索引；指数；指标'
 keywords = ['ai words', 'index']
 +++
 
-## [Word](/en/post/word/): [Index](/en/post/index/)
+## [Word](/post/word/): [Index](/post/index/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪndɛks/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - [A](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) items systematically arranged, typically [in](/en/post/in/) alphabetical [or](/en/post/or/) numerical [order](/en/post/order/), [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) [index](/en/post/index/) [of](/en/post/of/) [a](/en/post/a/) [book](/en/post/book/) [which](/en/post/which/) lists [the](/en/post/the/) subjects [or](/en/post/or/) names [with](/en/post/with/) references [to](/en/post/to/) [where](/en/post/where/) [they](/en/post/they/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [the](/en/post/the/) [text](/en/post/text/). [Example](/en/post/example/): "[The](/en/post/the/) [index](/en/post/index/) [of](/en/post/of/) [this](/en/post/this/) [novel](/en/post/novel/) includes [all](/en/post/all/) [the](/en/post/the/) characters [and](/en/post/and/) [key](/en/post/key/) events."
-  - [In](/en/post/in/) [mathematics](/en/post/mathematics/) [and](/en/post/and/) computing, [it](/en/post/it/) refers [to](/en/post/to/) [a](/en/post/a/) numerical [value](/en/post/value/) [or](/en/post/or/) [label](/en/post/label/) [that](/en/post/that/) identifies [a](/en/post/a/) [position](/en/post/position/) [within](/en/post/within/) [a](/en/post/a/) [sequence](/en/post/sequence/), array, [or](/en/post/or/) [table](/en/post/table/). [Example](/en/post/example/): "[In](/en/post/in/) Python, [you](/en/post/you/) [can](/en/post/can/) [access](/en/post/access/) an [element](/en/post/element/) [in](/en/post/in/) [a](/en/post/a/) [list](/en/post/list/) using [its](/en/post/its/) [index](/en/post/index/)."
-  - [In](/en/post/in/) [finance](/en/post/finance/), an [index](/en/post/index/) represents [a](/en/post/a/) [statistical](/en/post/statistical/) [measure](/en/post/measure/) [of](/en/post/of/) [change](/en/post/change/) [in](/en/post/in/) [a](/en/post/a/) securities [market](/en/post/market/) [or](/en/post/or/) [economy](/en/post/economy/), [often](/en/post/often/) calculated [from](/en/post/from/) [a](/en/post/a/) weighted [average](/en/post/average/) [of](/en/post/of/) prices [or](/en/post/or/) values. [Example](/en/post/example/): "[The](/en/post/the/) Dow Jones [Industrial](/en/post/industrial/) [Average](/en/post/average/) is [a](/en/post/a/) [stock](/en/post/stock/) [market](/en/post/market/) [index](/en/post/index/)."
+- **[Noun](/post/noun/)**: 
+  - [A](/post/a/) [list](/post/list/) [of](/post/of/) items systematically arranged, typically [in](/post/in/) alphabetical [or](/post/or/) numerical [order](/post/order/), [such](/post/such/) [as](/post/as/) [the](/post/the/) [index](/post/index/) [of](/post/of/) [a](/post/a/) [book](/post/book/) [which](/post/which/) lists [the](/post/the/) subjects [or](/post/or/) names [with](/post/with/) references [to](/post/to/) [where](/post/where/) [they](/post/they/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [the](/post/the/) [text](/post/text/). [Example](/post/example/): "[The](/post/the/) [index](/post/index/) [of](/post/of/) [this](/post/this/) [novel](/post/novel/) includes [all](/post/all/) [the](/post/the/) characters [and](/post/and/) [key](/post/key/) events."
+  - [In](/post/in/) [mathematics](/post/mathematics/) [and](/post/and/) computing, [it](/post/it/) refers [to](/post/to/) [a](/post/a/) numerical [value](/post/value/) [or](/post/or/) [label](/post/label/) [that](/post/that/) identifies [a](/post/a/) [position](/post/position/) [within](/post/within/) [a](/post/a/) [sequence](/post/sequence/), array, [or](/post/or/) [table](/post/table/). [Example](/post/example/): "[In](/post/in/) Python, [you](/post/you/) [can](/post/can/) [access](/post/access/) an [element](/post/element/) [in](/post/in/) [a](/post/a/) [list](/post/list/) using [its](/post/its/) [index](/post/index/)."
+  - [In](/post/in/) [finance](/post/finance/), an [index](/post/index/) represents [a](/post/a/) [statistical](/post/statistical/) [measure](/post/measure/) [of](/post/of/) [change](/post/change/) [in](/post/in/) [a](/post/a/) securities [market](/post/market/) [or](/post/or/) [economy](/post/economy/), [often](/post/often/) calculated [from](/post/from/) [a](/post/a/) weighted [average](/post/average/) [of](/post/of/) prices [or](/post/or/) values. [Example](/post/example/): "[The](/post/the/) Dow Jones [Industrial](/post/industrial/) [Average](/post/average/) is [a](/post/a/) [stock](/post/stock/) [market](/post/market/) [index](/post/index/)."
 
-- **[Verb](/en/post/verb/)**:
-  - [To](/en/post/to/) [provide](/en/post/provide/) an [index](/en/post/index/) [for](/en/post/for/) [something](/en/post/something/); [to](/en/post/to/) [compile](/en/post/compile/) [and](/en/post/and/) [arrange](/en/post/arrange/) [in](/en/post/in/) an [orderly](/en/post/orderly/) [manner](/en/post/manner/) [for](/en/post/for/) [reference](/en/post/reference/). [Example](/en/post/example/): "[The](/en/post/the/) [author](/en/post/author/) indexed [her](/en/post/her/) [previous](/en/post/previous/) works [to](/en/post/to/) [make](/en/post/make/) [them](/en/post/them/) [more](/en/post/more/) accessible [to](/en/post/to/) researchers."
-  - [To](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) an indicator [or](/en/post/or/) [gauge](/en/post/gauge/). [Example](/en/post/example/): "[Interest](/en/post/interest/) rates [often](/en/post/often/) [index](/en/post/index/) inflation levels."
+- **[Verb](/post/verb/)**:
+  - [To](/post/to/) [provide](/post/provide/) an [index](/post/index/) [for](/post/for/) [something](/post/something/); [to](/post/to/) [compile](/post/compile/) [and](/post/and/) [arrange](/post/arrange/) [in](/post/in/) an [orderly](/post/orderly/) [manner](/post/manner/) [for](/post/for/) [reference](/post/reference/). [Example](/post/example/): "[The](/post/the/) [author](/post/author/) indexed [her](/post/her/) [previous](/post/previous/) works [to](/post/to/) [make](/post/make/) [them](/post/them/) [more](/post/more/) accessible [to](/post/to/) researchers."
+  - [To](/post/to/) [serve](/post/serve/) [as](/post/as/) an indicator [or](/post/or/) [gauge](/post/gauge/). [Example](/post/example/): "[Interest](/post/interest/) rates [often](/post/often/) [index](/post/index/) inflation levels."
 
 ## Phrases
-- "[Index](/en/post/index/) [finger](/en/post/finger/)" refers [to](/en/post/to/) [the](/en/post/the/) [first](/en/post/first/) [finger](/en/post/finger/) [on](/en/post/on/) [your](/en/post/your/) [hand](/en/post/hand/), [next](/en/post/next/) [to](/en/post/to/) [the](/en/post/the/) [thumb](/en/post/thumb/).
-- "Indexed annuity" is an [investment](/en/post/investment/) [product](/en/post/product/) [whose](/en/post/whose/) returns are linked [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [market](/en/post/market/) [index](/en/post/index/).
-- "Indexed [search](/en/post/search/)" is [when](/en/post/when/) [a](/en/post/a/) [search](/en/post/search/) [engine](/en/post/engine/) uses an [index](/en/post/index/) [to](/en/post/to/) [quickly](/en/post/quickly/) [find](/en/post/find/) [relevant](/en/post/relevant/) [information](/en/post/information/).
+- "[Index](/post/index/) [finger](/post/finger/)" refers [to](/post/to/) [the](/post/the/) [first](/post/first/) [finger](/post/finger/) [on](/post/on/) [your](/post/your/) [hand](/post/hand/), [next](/post/next/) [to](/post/to/) [the](/post/the/) [thumb](/post/thumb/).
+- "Indexed annuity" is an [investment](/post/investment/) [product](/post/product/) [whose](/post/whose/) returns are linked [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [market](/post/market/) [index](/post/index/).
+- "Indexed [search](/post/search/)" is [when](/post/when/) [a](/post/a/) [search](/post/search/) [engine](/post/engine/) uses an [index](/post/index/) [to](/post/to/) [quickly](/post/quickly/) [find](/post/find/) [relevant](/post/relevant/) [information](/post/information/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [index](/en/post/index/) [in](/en/post/in/) [the](/en/post/the/) [back](/en/post/back/) [of](/en/post/of/) [the](/en/post/the/) cookbook [will](/en/post/will/) [help](/en/post/help/) [you](/en/post/you/) [locate](/en/post/locate/) recipes [easily](/en/post/easily/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) indexer meticulously indexed [every](/en/post/every/) [chapter](/en/post/chapter/) [and](/en/post/and/) footnote [for](/en/post/for/) [easy](/en/post/easy/) [reference](/en/post/reference/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [index](/post/index/) [in](/post/in/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [the](/post/the/) cookbook [will](/post/will/) [help](/post/help/) [you](/post/you/) [locate](/post/locate/) recipes [easily](/post/easily/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) indexer meticulously indexed [every](/post/every/) [chapter](/post/chapter/) [and](/post/and/) footnote [for](/post/for/) [easy](/post/easy/) [reference](/post/reference/)."
 
 ## Synonyms
-- [Table](/en/post/table/) [of](/en/post/of/) contents ([noun](/en/post/noun/))
-- Pointer ([noun](/en/post/noun/), [in](/en/post/in/) [some](/en/post/some/) contexts)
-- Indicator ([noun](/en/post/noun/), [in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- [Catalog](/en/post/catalog/) ([noun](/en/post/noun/))
-- [Reference](/en/post/reference/) ([noun](/en/post/noun/))
-- [List](/en/post/list/) ([noun](/en/post/noun/))
-- [Guide](/en/post/guide/) ([noun](/en/post/noun/))
-- [Compile](/en/post/compile/) ([verb](/en/post/verb/))
-- Categorize ([verb](/en/post/verb/))
+- [Table](/post/table/) [of](/post/of/) contents ([noun](/post/noun/))
+- Pointer ([noun](/post/noun/), [in](/post/in/) [some](/post/some/) contexts)
+- Indicator ([noun](/post/noun/), [in](/post/in/) [certain](/post/certain/) contexts)
+- [Catalog](/post/catalog/) ([noun](/post/noun/))
+- [Reference](/post/reference/) ([noun](/post/noun/))
+- [List](/post/list/) ([noun](/post/noun/))
+- [Guide](/post/guide/) ([noun](/post/noun/))
+- [Compile](/post/compile/) ([verb](/post/verb/))
+- Categorize ([verb](/post/verb/))

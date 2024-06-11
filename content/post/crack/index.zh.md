@@ -12,28 +12,28 @@ keywords = ['ai words', 'crack']
 
 ## 释义
 - **名词**:
-  - 裂缝；裂痕。例如: "There's [a](/post/a/) [small](/post/small/) [crack](/post/crack/) [in](/post/in/) [the](/post/the/) [vase](/post/vase/)."
-  - （声音的）破裂，爆裂。例如: "[The](/post/the/) [ice](/post/ice/) cracked [under](/post/under/) [his](/post/his/) feet."
-  - 贩毒者，尤指可卡因使用者。例如: "[The](/post/the/) [police](/post/police/) arrested [a](/post/a/) notorious [crack](/post/crack/) dealer."
+  - 裂缝；裂痕。例如: "There's [a](/zh/post/a/) [small](/zh/post/small/) [crack](/zh/post/crack/) [in](/zh/post/in/) [the](/zh/post/the/) [vase](/zh/post/vase/)."
+  - （声音的）破裂，爆裂。例如: "[The](/zh/post/the/) [ice](/zh/post/ice/) cracked [under](/zh/post/under/) [his](/zh/post/his/) feet."
+  - 贩毒者，尤指可卡因使用者。例如: "[The](/zh/post/the/) [police](/zh/post/police/) arrested [a](/zh/post/a/) notorious [crack](/zh/post/crack/) dealer."
 
 - **动词**:
-  - 使破裂；弄破。例如: "Don't [crack](/post/crack/) [the](/post/the/) eggshell [before](/post/before/) [you](/post/you/) [cook](/post/cook/) [it](/post/it/)."
-  - 打破；破解。例如: "[They](/post/they/) managed [to](/post/to/) [crack](/post/crack/) [the](/post/the/) [code](/post/code/) [within](/post/within/) hours."
-  - 发出破裂声。例如: "[The](/post/the/) [whip](/post/whip/) cracked loudly."
+  - 使破裂；弄破。例如: "Don't [crack](/zh/post/crack/) [the](/zh/post/the/) eggshell [before](/zh/post/before/) [you](/zh/post/you/) [cook](/zh/post/cook/) [it](/zh/post/it/)."
+  - 打破；破解。例如: "[They](/zh/post/they/) managed [to](/zh/post/to/) [crack](/zh/post/crack/) [the](/zh/post/the/) [code](/zh/post/code/) [within](/zh/post/within/) hours."
+  - 发出破裂声。例如: "[The](/zh/post/the/) [whip](/zh/post/whip/) cracked loudly."
 
 ## 短语
-- "[crack](/post/crack/) [a](/post/a/) [joke](/post/joke/)" 讲笑话。
-- "[crack](/post/crack/) [under](/post/under/) [pressure](/post/pressure/)" 在压力下崩溃或失败。
-- "[crack](/post/crack/) [the](/post/the/) [whip](/post/whip/)" 加紧工作进度，严厉督促。
+- "[crack](/zh/post/crack/) [a](/zh/post/a/) [joke](/zh/post/joke/)" 讲笑话。
+- "[crack](/zh/post/crack/) [under](/zh/post/under/) [pressure](/zh/post/pressure/)" 在压力下崩溃或失败。
+- "[crack](/zh/post/crack/) [the](/zh/post/the/) [whip](/zh/post/whip/)" 加紧工作进度，严厉督促。
 
 ## 例句
-- 名词: "[The](/post/the/) [old](/post/old/) [building](/post/building/) had [visible](/post/visible/) cracks [in](/post/in/) [its](/post/its/) walls."
-- 动词: "[The](/post/the/) [safe](/post/safe/) crackers managed [to](/post/to/) [crack](/post/crack/) [the](/post/the/) [combination](/post/combination/) [in](/post/in/) minutes."
-- 感叹词: "[Crack](/post/crack/)! [The](/post/the/) [bat](/post/bat/) [hit](/post/hit/) [the](/post/the/) [ball](/post/ball/) [with](/post/with/) [great](/post/great/) [force](/post/force/)."
+- 名词: "[The](/zh/post/the/) [old](/zh/post/old/) [building](/zh/post/building/) had [visible](/zh/post/visible/) cracks [in](/zh/post/in/) [its](/zh/post/its/) walls."
+- 动词: "[The](/zh/post/the/) [safe](/zh/post/safe/) crackers managed [to](/zh/post/to/) [crack](/zh/post/crack/) [the](/zh/post/the/) [combination](/zh/post/combination/) [in](/zh/post/in/) minutes."
+- 感叹词: "[Crack](/zh/post/crack/)! [The](/zh/post/the/) [bat](/zh/post/bat/) [hit](/zh/post/hit/) [the](/zh/post/the/) [ball](/zh/post/ball/) [with](/zh/post/with/) [great](/zh/post/great/) [force](/zh/post/force/)."
 
 ## 同义词
-- [Split](/post/split/)
-- [Break](/post/break/)
+- [Split](/zh/post/split/)
+- [Break](/zh/post/break/)
 - Fracture
 - Breach
-- [Gap](/post/gap/)
+- [Gap](/zh/post/gap/)

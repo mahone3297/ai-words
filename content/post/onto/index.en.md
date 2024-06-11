@@ -7,29 +7,29 @@ description = '[ˈɔntu] prep.到…上'
 keywords = ['ai words', 'onto']
 +++
 
-## [Word](/en/post/word/): [Onto](/en/post/onto/)
+## [Word](/post/word/): [Onto](/post/onto/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɒntoʊ/
 
 ## Definitions
-**[Preposition](/en/post/preposition/)**: Expressing [movement](/en/post/movement/) [or](/en/post/or/) [direction](/en/post/direction/) [so](/en/post/so/) [as](/en/post/as/) [to](/en/post/to/) [be](/en/post/be/) [on](/en/post/on/) [or](/en/post/or/) [in](/en/post/in/) [contact](/en/post/contact/) [with](/en/post/with/) ([a](/en/post/a/) [surface](/en/post/surface/)), [or](/en/post/or/) [arrival](/en/post/arrival/) [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [point](/en/post/point/) [or](/en/post/or/) [stage](/en/post/stage/).
-- **[Onto](/en/post/onto/) [something](/en/post/something/)**: [Upon](/en/post/upon/) [it](/en/post/it/); [on](/en/post/on/) [top](/en/post/top/) [of](/en/post/of/) [it](/en/post/it/). [Example](/en/post/example/): "[He](/en/post/he/) climbed [onto](/en/post/onto/) [the](/en/post/the/) [roof](/en/post/roof/)."
-- **[Onto](/en/post/onto/) [something](/en/post/something/) [else](/en/post/else/)**: Moving [from](/en/post/from/) [one](/en/post/one/) [thing](/en/post/thing/) [to](/en/post/to/) [another](/en/post/another/), [understanding](/en/post/understanding/) [or](/en/post/or/) grasping [a](/en/post/a/) [concept](/en/post/concept/) thoroughly. [Example](/en/post/example/): "[The](/en/post/the/) detective was [finally](/en/post/finally/) [onto](/en/post/onto/) [the](/en/post/the/) suspect's [trail](/en/post/trail/)."
-- **[Onto](/en/post/onto/) [a](/en/post/a/) [subject](/en/post/subject/)**: [Understanding](/en/post/understanding/) [or](/en/post/or/) focusing [on](/en/post/on/) [a](/en/post/a/) [topic](/en/post/topic/). [Example](/en/post/example/): "[She](/en/post/she/) [quickly](/en/post/quickly/) got [onto](/en/post/onto/) [the](/en/post/the/) [subject](/en/post/subject/) [of](/en/post/of/) [her](/en/post/her/) [research](/en/post/research/)."
+**[Preposition](/post/preposition/)**: Expressing [movement](/post/movement/) [or](/post/or/) [direction](/post/direction/) [so](/post/so/) [as](/post/as/) [to](/post/to/) [be](/post/be/) [on](/post/on/) [or](/post/or/) [in](/post/in/) [contact](/post/contact/) [with](/post/with/) ([a](/post/a/) [surface](/post/surface/)), [or](/post/or/) [arrival](/post/arrival/) [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [point](/post/point/) [or](/post/or/) [stage](/post/stage/).
+- **[Onto](/post/onto/) [something](/post/something/)**: [Upon](/post/upon/) [it](/post/it/); [on](/post/on/) [top](/post/top/) [of](/post/of/) [it](/post/it/). [Example](/post/example/): "[He](/post/he/) climbed [onto](/post/onto/) [the](/post/the/) [roof](/post/roof/)."
+- **[Onto](/post/onto/) [something](/post/something/) [else](/post/else/)**: Moving [from](/post/from/) [one](/post/one/) [thing](/post/thing/) [to](/post/to/) [another](/post/another/), [understanding](/post/understanding/) [or](/post/or/) grasping [a](/post/a/) [concept](/post/concept/) thoroughly. [Example](/post/example/): "[The](/post/the/) detective was [finally](/post/finally/) [onto](/post/onto/) [the](/post/the/) suspect's [trail](/post/trail/)."
+- **[Onto](/post/onto/) [a](/post/a/) [subject](/post/subject/)**: [Understanding](/post/understanding/) [or](/post/or/) focusing [on](/post/on/) [a](/post/a/) [topic](/post/topic/). [Example](/post/example/): "[She](/post/she/) [quickly](/post/quickly/) got [onto](/post/onto/) [the](/post/the/) [subject](/post/subject/) [of](/post/of/) [her](/post/her/) [research](/post/research/)."
 
 ## Phrases
-- **[Get](/en/post/get/) [onto](/en/post/onto/) [something](/en/post/something/)**: [Start](/en/post/start/) dealing [with](/en/post/with/) [or](/en/post/or/) investigating [something](/en/post/something/). [Example](/en/post/example/): "It's [time](/en/post/time/) [we](/en/post/we/) [get](/en/post/get/) [onto](/en/post/onto/) solving [this](/en/post/this/) [problem](/en/post/problem/)."
-- **[Lift](/en/post/lift/) [something](/en/post/something/) [onto](/en/post/onto/) [something](/en/post/something/)**: [Move](/en/post/move/) [something](/en/post/something/) [up](/en/post/up/) [and](/en/post/and/) [place](/en/post/place/) [it](/en/post/it/) [on](/en/post/on/) [something](/en/post/something/) [else](/en/post/else/). [Example](/en/post/example/): "[He](/en/post/he/) lifted [the](/en/post/the/) [box](/en/post/box/) [onto](/en/post/onto/) [the](/en/post/the/) [shelf](/en/post/shelf/)."
-- **[Onto](/en/post/onto/) [the](/en/post/the/) [next](/en/post/next/) [phase](/en/post/phase/)**: Moving [from](/en/post/from/) [one](/en/post/one/) [stage](/en/post/stage/) [to](/en/post/to/) [another](/en/post/another/) [in](/en/post/in/) [a](/en/post/a/) [process](/en/post/process/). [Example](/en/post/example/): "[After](/en/post/after/) completing [that](/en/post/that/) [task](/en/post/task/), we're [now](/en/post/now/) [onto](/en/post/onto/) [the](/en/post/the/) [next](/en/post/next/) [phase](/en/post/phase/)."
+- **[Get](/post/get/) [onto](/post/onto/) [something](/post/something/)**: [Start](/post/start/) dealing [with](/post/with/) [or](/post/or/) investigating [something](/post/something/). [Example](/post/example/): "It's [time](/post/time/) [we](/post/we/) [get](/post/get/) [onto](/post/onto/) solving [this](/post/this/) [problem](/post/problem/)."
+- **[Lift](/post/lift/) [something](/post/something/) [onto](/post/onto/) [something](/post/something/)**: [Move](/post/move/) [something](/post/something/) [up](/post/up/) [and](/post/and/) [place](/post/place/) [it](/post/it/) [on](/post/on/) [something](/post/something/) [else](/post/else/). [Example](/post/example/): "[He](/post/he/) lifted [the](/post/the/) [box](/post/box/) [onto](/post/onto/) [the](/post/the/) [shelf](/post/shelf/)."
+- **[Onto](/post/onto/) [the](/post/the/) [next](/post/next/) [phase](/post/phase/)**: Moving [from](/post/from/) [one](/post/one/) [stage](/post/stage/) [to](/post/to/) [another](/post/another/) [in](/post/in/) [a](/post/a/) [process](/post/process/). [Example](/post/example/): "[After](/post/after/) completing [that](/post/that/) [task](/post/task/), we're [now](/post/now/) [onto](/post/onto/) [the](/post/the/) [next](/post/next/) [phase](/post/phase/)."
 
-## [Example](/en/post/example/) Sentences
-- **[As](/en/post/as/) [a](/en/post/a/) [preposition](/en/post/preposition/)**: "[She](/en/post/she/) carefully placed [the](/en/post/the/) [vase](/en/post/vase/) [onto](/en/post/onto/) [the](/en/post/the/) mantelpiece."
-- **[Understanding](/en/post/understanding/)/grasping**: "[Once](/en/post/once/) [he](/en/post/he/) [read](/en/post/read/) [the](/en/post/the/) [report](/en/post/report/), [he](/en/post/he/) was fully [onto](/en/post/onto/) [the](/en/post/the/) complexities [of](/en/post/of/) [the](/en/post/the/) [issue](/en/post/issue/)."
-- **Transitioning**: "Having completed [his](/en/post/his/) studies [in](/en/post/in/) [medicine](/en/post/medicine/), [he](/en/post/he/) moved [onto](/en/post/onto/) [a](/en/post/a/) residency [program](/en/post/program/)."
+## [Example](/post/example/) Sentences
+- **[As](/post/as/) [a](/post/a/) [preposition](/post/preposition/)**: "[She](/post/she/) carefully placed [the](/post/the/) [vase](/post/vase/) [onto](/post/onto/) [the](/post/the/) mantelpiece."
+- **[Understanding](/post/understanding/)/grasping**: "[Once](/post/once/) [he](/post/he/) [read](/post/read/) [the](/post/the/) [report](/post/report/), [he](/post/he/) was fully [onto](/post/onto/) [the](/post/the/) complexities [of](/post/of/) [the](/post/the/) [issue](/post/issue/)."
+- **Transitioning**: "Having completed [his](/post/his/) studies [in](/post/in/) [medicine](/post/medicine/), [he](/post/he/) moved [onto](/post/onto/) [a](/post/a/) residency [program](/post/program/)."
 
 ## Synonyms
-- [Upon](/en/post/upon/)
-- [On](/en/post/on/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- [Up](/en/post/up/) [to](/en/post/to/) ([in](/en/post/in/) terms [of](/en/post/of/) [understanding](/en/post/understanding/) [or](/en/post/or/) [being](/en/post/being/) [aware](/en/post/aware/))
-- [Over](/en/post/over/) ([when](/en/post/when/) indicating [movement](/en/post/movement/) [onto](/en/post/onto/) [a](/en/post/a/) [surface](/en/post/surface/))
+- [Upon](/post/upon/)
+- [On](/post/on/) ([in](/post/in/) [certain](/post/certain/) contexts)
+- [Up](/post/up/) [to](/post/to/) ([in](/post/in/) terms [of](/post/of/) [understanding](/post/understanding/) [or](/post/or/) [being](/post/being/) [aware](/post/aware/))
+- [Over](/post/over/) ([when](/post/when/) indicating [movement](/post/movement/) [onto](/post/onto/) [a](/post/a/) [surface](/post/surface/))

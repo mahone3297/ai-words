@@ -11,17 +11,17 @@ keywords = ['ai words', 'Portuguese']
 /ˌpɔːrtʃuˈgeɪz/
 
 ## 释义
-- **形容词**: 葡萄牙的，与葡萄牙有关的。例如: "[She](/post/she/) speaks [fluent](/post/fluent/) Portuguese."
-- **名词**: 葡萄牙人，葡萄牙语。例如: "[The](/post/the/) Portuguese explorer Vasco da Gama discovered [the](/post/the/) [sea](/post/sea/) [route](/post/route/) [to](/post/to/) India."
+- **形容词**: 葡萄牙的，与葡萄牙有关的。例如: "[She](/zh/post/she/) speaks [fluent](/zh/post/fluent/) Portuguese."
+- **名词**: 葡萄牙人，葡萄牙语。例如: "[The](/zh/post/the/) Portuguese explorer Vasco da Gama discovered [the](/zh/post/the/) [sea](/zh/post/sea/) [route](/zh/post/route/) [to](/zh/post/to/) India."
 
 ## 短语
 - "Portuguese cuisine" 指葡萄牙的烹饪风格。
 - "Portuguese colonies" 指葡萄牙的殖民地。
-- "Portuguese [grammar](/post/grammar/)" 指葡萄牙语的语法结构。
+- "Portuguese [grammar](/zh/post/grammar/)" 指葡萄牙语的语法结构。
 
 ## 例句
-- 形容词: "[The](/post/the/) [restaurant](/post/restaurant/) serves [traditional](/post/traditional/) Portuguese dishes."
-- 名词: "[He](/post/he/) is [learning](/post/learning/) Portuguese [to](/post/to/) [communicate](/post/communicate/) [with](/post/with/) [his](/post/his/) in-laws."
+- 形容词: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) serves [traditional](/zh/post/traditional/) Portuguese dishes."
+- 名词: "[He](/zh/post/he/) is [learning](/zh/post/learning/) Portuguese [to](/zh/post/to/) [communicate](/zh/post/communicate/) [with](/zh/post/with/) [his](/zh/post/his/) in-laws."
 
 ## 同义词
 - Lusitanian (形容词，古代对葡萄牙人的称呼)

@@ -7,40 +7,40 @@ description = '[tɔi] n.玩具，玩物'
 keywords = ['ai words', 'toy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /toʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[toy](/en/post/toy/)** is an [object](/en/post/object/) designed [for](/en/post/for/) children [to](/en/post/to/) [play](/en/post/play/) [with](/en/post/with/), [often](/en/post/often/) imitating real-life objects [or](/en/post/or/) characters, providing entertainment [and](/en/post/and/) [learning](/en/post/learning/) opportunities.
+### [Noun](/post/noun/)
+[A](/post/a/) **[toy](/post/toy/)** is an [object](/post/object/) designed [for](/post/for/) children [to](/post/to/) [play](/post/play/) [with](/post/with/), [often](/post/often/) imitating real-life objects [or](/post/or/) characters, providing entertainment [and](/post/and/) [learning](/post/learning/) opportunities.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[play](/en/post/play/) [with](/en/post/with/) toys** [or](/en/post/or/) **[engage](/en/post/engage/) [in](/en/post/in/) [toy](/en/post/toy/) [play](/en/post/play/)** refers [to](/en/post/to/) [the](/en/post/the/) [activity](/en/post/activity/) [of](/en/post/of/) using toys [for](/en/post/for/) amusement.
+### [Verb](/post/verb/)
+[To](/post/to/) **[play](/post/play/) [with](/post/with/) toys** [or](/post/or/) **[engage](/post/engage/) [in](/post/in/) [toy](/post/toy/) [play](/post/play/)** refers [to](/post/to/) [the](/post/the/) [activity](/post/activity/) [of](/post/of/) using toys [for](/post/for/) amusement.
 
-### [Adjective](/en/post/adjective/)
-* Toy-like* describes [something](/en/post/something/) [that](/en/post/that/) resembles [or](/en/post/or/) has [the](/en/post/the/) [appearance](/en/post/appearance/) [of](/en/post/of/) [a](/en/post/a/) [toy](/en/post/toy/).
+### [Adjective](/post/adjective/)
+* Toy-like* describes [something](/post/something/) [that](/post/that/) resembles [or](/post/or/) has [the](/post/the/) [appearance](/post/appearance/) [of](/post/of/) [a](/post/a/) [toy](/post/toy/).
 
-### [Noun](/en/post/noun/) ([plural](/en/post/plural/))
-Toys [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [collection](/en/post/collection/) [or](/en/post/or/) assortment [of](/en/post/of/) [such](/en/post/such/) items.
+### [Noun](/post/noun/) ([plural](/post/plural/))
+Toys [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [collection](/post/collection/) [or](/post/or/) assortment [of](/post/of/) [such](/post/such/) items.
 
 ## Phrases
-- "[Play](/en/post/play/) [with](/en/post/with/) [your](/en/post/your/) toys" [for](/en/post/for/) children's activities.
-- "Collectible toys" [for](/en/post/for/) items [that](/en/post/that/) are collected [as](/en/post/as/) hobbies.
-- "[Toy](/en/post/toy/) [store](/en/post/store/)" [or](/en/post/or/) "[toy](/en/post/toy/) [section](/en/post/section/)" refers [to](/en/post/to/) [a](/en/post/a/) retail [location](/en/post/location/) [or](/en/post/or/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [store](/en/post/store/) dedicated [to](/en/post/to/) selling toys.
+- "[Play](/post/play/) [with](/post/with/) [your](/post/your/) toys" [for](/post/for/) children's activities.
+- "Collectible toys" [for](/post/for/) items [that](/post/that/) are collected [as](/post/as/) hobbies.
+- "[Toy](/post/toy/) [store](/post/store/)" [or](/post/or/) "[toy](/post/toy/) [section](/post/section/)" refers [to](/post/to/) [a](/post/a/) retail [location](/post/location/) [or](/post/or/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [store](/post/store/) dedicated [to](/post/to/) selling toys.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [child](/en/post/child/) was engrossed [in](/en/post/in/) playing [with](/en/post/with/) [her](/en/post/her/) [new](/en/post/new/) [toy](/en/post/toy/) [car](/en/post/car/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [work](/en/post/work/), [he](/en/post/he/) spent hours playing [with](/en/post/with/) [his](/en/post/his/) [collection](/en/post/collection/) [of](/en/post/of/) [action](/en/post/action/) figures."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) toy-like [robot](/en/post/robot/) fascinated [the](/en/post/the/) kids [at](/en/post/at/) [the](/en/post/the/) [science](/en/post/science/) [fair](/en/post/fair/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [child](/post/child/) was engrossed [in](/post/in/) playing [with](/post/with/) [her](/post/her/) [new](/post/new/) [toy](/post/toy/) [car](/post/car/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [work](/post/work/), [he](/post/he/) spent hours playing [with](/post/with/) [his](/post/his/) [collection](/post/collection/) [of](/post/of/) [action](/post/action/) figures."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) toy-like [robot](/post/robot/) fascinated [the](/post/the/) kids [at](/post/at/) [the](/post/the/) [science](/post/science/) [fair](/post/fair/)."
 
 ## Synonyms
 - Plaything
 - Doll
-- [Action](/en/post/action/) [figure](/en/post/figure/)
-- [Puzzle](/en/post/puzzle/)
-- [Game](/en/post/game/)
+- [Action](/post/action/) [figure](/post/figure/)
+- [Puzzle](/post/puzzle/)
+- [Game](/post/game/)
 - Miniature
 - Amusement
 - Entertainment
-- [Pastime](/en/post/pastime/)
-- Novelty [item](/en/post/item/)
+- [Pastime](/post/pastime/)
+- Novelty [item](/post/item/)

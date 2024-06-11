@@ -7,39 +7,39 @@ description = '[ˌrevəˈluː∫ən] n.革命；旋转，绕转'
 keywords = ['ai words', 'revolution']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˌvəˈluːʃən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [sudden](/en/post/sudden/), [complete](/en/post/complete/), [or](/en/post/or/) radical [change](/en/post/change/) [in](/en/post/in/) [the](/en/post/the/) [political](/en/post/political/), [social](/en/post/social/), [or](/en/post/or/) [economic](/en/post/economic/) [structure](/en/post/structure/) [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) involves replacing [one](/en/post/one/) [form](/en/post/form/) [of](/en/post/of/) [government](/en/post/government/) [with](/en/post/with/) [another](/en/post/another/).
-   - [Example](/en/post/example/): [The](/en/post/the/) French [Revolution](/en/post/revolution/) marked [a](/en/post/a/) [significant](/en/post/significant/) [turning](/en/post/turning/) [point](/en/post/point/) [in](/en/post/in/) French [history](/en/post/history/).
-2. [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [rapid](/en/post/rapid/) [and](/en/post/and/) [dramatic](/en/post/dramatic/) changes, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/) [or](/en/post/or/) [industry](/en/post/industry/).
-   - [Example](/en/post/example/): [The](/en/post/the/) [digital](/en/post/digital/) [revolution](/en/post/revolution/) transformed [the](/en/post/the/) [way](/en/post/way/) [we](/en/post/we/) [communicate](/en/post/communicate/) [and](/en/post/and/) [work](/en/post/work/).
+### [Noun](/post/noun/)
+1. [A](/post/a/) [sudden](/post/sudden/), [complete](/post/complete/), [or](/post/or/) radical [change](/post/change/) [in](/post/in/) [the](/post/the/) [political](/post/political/), [social](/post/social/), [or](/post/or/) [economic](/post/economic/) [structure](/post/structure/) [of](/post/of/) [a](/post/a/) [country](/post/country/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) involves replacing [one](/post/one/) [form](/post/form/) [of](/post/of/) [government](/post/government/) [with](/post/with/) [another](/post/another/).
+   - [Example](/post/example/): [The](/post/the/) French [Revolution](/post/revolution/) marked [a](/post/a/) [significant](/post/significant/) [turning](/post/turning/) [point](/post/point/) [in](/post/in/) French [history](/post/history/).
+2. [A](/post/a/) [series](/post/series/) [of](/post/of/) [rapid](/post/rapid/) [and](/post/and/) [dramatic](/post/dramatic/) changes, [often](/post/often/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/) [or](/post/or/) [industry](/post/industry/).
+   - [Example](/post/example/): [The](/post/the/) [digital](/post/digital/) [revolution](/post/revolution/) transformed [the](/post/the/) [way](/post/way/) [we](/post/we/) [communicate](/post/communicate/) [and](/post/and/) [work](/post/work/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [bring](/en/post/bring/) [about](/en/post/about/) [or](/en/post/or/) [undergo](/en/post/undergo/) [a](/en/post/a/) [fundamental](/en/post/fundamental/) [change](/en/post/change/), typically [a](/en/post/a/) [social](/en/post/social/) [or](/en/post/or/) [political](/en/post/political/) [one](/en/post/one/).
-   - [Example](/en/post/example/): [The](/en/post/the/) [society](/en/post/society/) is striving [for](/en/post/for/) [a](/en/post/a/) [peaceful](/en/post/peaceful/) [revolution](/en/post/revolution/) [to](/en/post/to/) [address](/en/post/address/) [social](/en/post/social/) inequalities.
-2. [To](/en/post/to/) [cause](/en/post/cause/) [a](/en/post/a/) [sudden](/en/post/sudden/) [and](/en/post/and/) [dramatic](/en/post/dramatic/) [change](/en/post/change/) [in](/en/post/in/) [a](/en/post/a/) [system](/en/post/system/) [or](/en/post/or/) [process](/en/post/process/).
-   - [Example](/en/post/example/): [The](/en/post/the/) [new](/en/post/new/) [technology](/en/post/technology/) revolutionized [the](/en/post/the/) manufacturing [industry](/en/post/industry/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [bring](/post/bring/) [about](/post/about/) [or](/post/or/) [undergo](/post/undergo/) [a](/post/a/) [fundamental](/post/fundamental/) [change](/post/change/), typically [a](/post/a/) [social](/post/social/) [or](/post/or/) [political](/post/political/) [one](/post/one/).
+   - [Example](/post/example/): [The](/post/the/) [society](/post/society/) is striving [for](/post/for/) [a](/post/a/) [peaceful](/post/peaceful/) [revolution](/post/revolution/) [to](/post/to/) [address](/post/address/) [social](/post/social/) inequalities.
+2. [To](/post/to/) [cause](/post/cause/) [a](/post/a/) [sudden](/post/sudden/) [and](/post/and/) [dramatic](/post/dramatic/) [change](/post/change/) [in](/post/in/) [a](/post/a/) [system](/post/system/) [or](/post/or/) [process](/post/process/).
+   - [Example](/post/example/): [The](/post/the/) [new](/post/new/) [technology](/post/technology/) revolutionized [the](/post/the/) manufacturing [industry](/post/industry/).
 
-### [Adjective](/en/post/adjective/)
-1. Characterized [by](/en/post/by/) [or](/en/post/or/) causing [a](/en/post/a/) [revolution](/en/post/revolution/); [revolutionary](/en/post/revolutionary/).
-   - [Example](/en/post/example/): [A](/en/post/a/) [revolutionary](/en/post/revolutionary/) [new](/en/post/new/) [approach](/en/post/approach/) [to](/en/post/to/) [education](/en/post/education/)
+### [Adjective](/post/adjective/)
+1. Characterized [by](/post/by/) [or](/post/or/) causing [a](/post/a/) [revolution](/post/revolution/); [revolutionary](/post/revolutionary/).
+   - [Example](/post/example/): [A](/post/a/) [revolutionary](/post/revolutionary/) [new](/post/new/) [approach](/post/approach/) [to](/post/to/) [education](/post/education/)
 
 ## Phrases
-- "[Bring](/en/post/bring/) [about](/en/post/about/) [a](/en/post/a/) [revolution](/en/post/revolution/)" [means](/en/post/means/) [to](/en/post/to/) initiate [a](/en/post/a/) [major](/en/post/major/) [change](/en/post/change/).
-- "[Social](/en/post/social/) [revolution](/en/post/revolution/)" refers [to](/en/post/to/) [a](/en/post/a/) [transformation](/en/post/transformation/) [in](/en/post/in/) societal structures.
-- "Technological [revolution](/en/post/revolution/)" denotes [a](/en/post/a/) [rapid](/en/post/rapid/) advancement [in](/en/post/in/) [technology](/en/post/technology/).
+- "[Bring](/post/bring/) [about](/post/about/) [a](/post/a/) [revolution](/post/revolution/)" [means](/post/means/) [to](/post/to/) initiate [a](/post/a/) [major](/post/major/) [change](/post/change/).
+- "[Social](/post/social/) [revolution](/post/revolution/)" refers [to](/post/to/) [a](/post/a/) [transformation](/post/transformation/) [in](/post/in/) societal structures.
+- "Technological [revolution](/post/revolution/)" denotes [a](/post/a/) [rapid](/post/rapid/) advancement [in](/post/in/) [technology](/post/technology/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [Industrial](/en/post/industrial/) [Revolution](/en/post/revolution/) sparked [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) unprecedented [economic](/en/post/economic/) [growth](/en/post/growth/).
-- **[Verb](/en/post/verb/)**: [She](/en/post/she/) believes [that](/en/post/that/) [this](/en/post/this/) [policy](/en/post/policy/) [will](/en/post/will/) revolutionize healthcare [access](/en/post/access/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [green](/en/post/green/) [energy](/en/post/energy/) [movement](/en/post/movement/) is [a](/en/post/a/) [revolutionary](/en/post/revolutionary/) [shift](/en/post/shift/) [in](/en/post/in/) [our](/en/post/our/) [energy](/en/post/energy/) [production](/en/post/production/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [Industrial](/post/industrial/) [Revolution](/post/revolution/) sparked [a](/post/a/) [period](/post/period/) [of](/post/of/) unprecedented [economic](/post/economic/) [growth](/post/growth/).
+- **[Verb](/post/verb/)**: [She](/post/she/) believes [that](/post/that/) [this](/post/this/) [policy](/post/policy/) [will](/post/will/) revolutionize healthcare [access](/post/access/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [green](/post/green/) [energy](/post/energy/) [movement](/post/movement/) is [a](/post/a/) [revolutionary](/post/revolutionary/) [shift](/post/shift/) [in](/post/in/) [our](/post/our/) [energy](/post/energy/) [production](/post/production/).
 
 ## Synonyms
 - Upheaval
-- [Transformation](/en/post/transformation/)
+- [Transformation](/post/transformation/)
 - Overthrow
 - Reformation
 - Breakthrough

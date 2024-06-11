@@ -11,16 +11,16 @@ keywords = ['ai words', 'learned']
 /ˈlɜːrnɪd/
 
 ## 释义
-- **形容词**: 已经学习过的；有学问的；博学的。例如: "[He](/post/he/) is [a](/post/a/) [learned](/post/learned/) [scholar](/post/scholar/) [with](/post/with/) [extensive](/post/extensive/) [knowledge](/post/knowledge/) [in](/post/in/) [ancient](/post/ancient/) [history](/post/history/)."
-- **过去分词**: [learn](/post/learn/) 的过去分词，表示动作已经完成。例如: "[She](/post/she/) has [learned](/post/learned/) [to](/post/to/) [play](/post/play/) [the](/post/the/) [piano](/post/piano/) [since](/post/since/) [childhood](/post/childhood/)."
+- **形容词**: 已经学习过的；有学问的；博学的。例如: "[He](/zh/post/he/) is [a](/zh/post/a/) [learned](/zh/post/learned/) [scholar](/zh/post/scholar/) [with](/zh/post/with/) [extensive](/zh/post/extensive/) [knowledge](/zh/post/knowledge/) [in](/zh/post/in/) [ancient](/zh/post/ancient/) [history](/zh/post/history/)."
+- **过去分词**: [learn](/zh/post/learn/) 的过去分词，表示动作已经完成。例如: "[She](/zh/post/she/) has [learned](/zh/post/learned/) [to](/zh/post/to/) [play](/zh/post/play/) [the](/zh/post/the/) [piano](/zh/post/piano/) [since](/zh/post/since/) [childhood](/zh/post/childhood/)."
 
 ## 短语
-- "[a](/post/a/) [learned](/post/learned/) [person](/post/person/)" 指知识渊博的人。
-- "[to](/post/to/) [have](/post/have/) [learned](/post/learned/) [from](/post/from/) one's mistakes" 意味着从错误中吸取教训。
+- "[a](/zh/post/a/) [learned](/zh/post/learned/) [person](/zh/post/person/)" 指知识渊博的人。
+- "[to](/zh/post/to/) [have](/zh/post/have/) [learned](/zh/post/learned/) [from](/zh/post/from/) one's mistakes" 意味着从错误中吸取教训。
 
 ## 例句
-- 形容词: "[The](/post/the/) [learned](/post/learned/) [professor](/post/professor/) delivered an insightful [lecture](/post/lecture/) [on](/post/on/) quantum [physics](/post/physics/)."
-- 过去分词: "[By](/post/by/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [course](/post/course/), [they](/post/they/) had [learned](/post/learned/) [a](/post/a/) [new](/post/new/) [language](/post/language/)."
+- 形容词: "[The](/zh/post/the/) [learned](/zh/post/learned/) [professor](/zh/post/professor/) delivered an insightful [lecture](/zh/post/lecture/) [on](/zh/post/on/) quantum [physics](/zh/post/physics/)."
+- 过去分词: "[By](/zh/post/by/) [the](/zh/post/the/) [end](/zh/post/end/) [of](/zh/post/of/) [the](/zh/post/the/) [course](/zh/post/course/), [they](/zh/post/they/) had [learned](/zh/post/learned/) [a](/zh/post/a/) [new](/zh/post/new/) [language](/zh/post/language/)."
 
 ## 同义词
 - educated

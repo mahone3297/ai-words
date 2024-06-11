@@ -7,43 +7,43 @@ description = '[riˈviːl] vt.展现；揭示，揭露'
 keywords = ['ai words', 'reveal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈvɪl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) disclosure [or](/en/post/or/) revelation [of](/en/post/of/) [information](/en/post/information/), secrets, [or](/en/post/or/) [something](/en/post/something/) hidden: *[The](/en/post/the/) [big](/en/post/big/) [reveal](/en/post/reveal/) was [a](/en/post/a/) [major](/en/post/major/) [plot](/en/post/plot/) [twist](/en/post/twist/) [in](/en/post/in/) [the](/en/post/the/) [movie](/en/post/movie/).*
-- An [act](/en/post/act/) [of](/en/post/of/) disclosing [or](/en/post/or/) exposing [something](/en/post/something/): *[Her](/en/post/her/) [reveal](/en/post/reveal/) [of](/en/post/of/) [her](/en/post/her/) [true](/en/post/true/) identity stunned [everyone](/en/post/everyone/).*
+### [Noun](/post/noun/)
+- [A](/post/a/) disclosure [or](/post/or/) revelation [of](/post/of/) [information](/post/information/), secrets, [or](/post/or/) [something](/post/something/) hidden: *[The](/post/the/) [big](/post/big/) [reveal](/post/reveal/) was [a](/post/a/) [major](/post/major/) [plot](/post/plot/) [twist](/post/twist/) [in](/post/in/) [the](/post/the/) [movie](/post/movie/).*
+- An [act](/post/act/) [of](/post/of/) disclosing [or](/post/or/) exposing [something](/post/something/): *[Her](/post/her/) [reveal](/post/reveal/) [of](/post/of/) [her](/post/her/) [true](/post/true/) identity stunned [everyone](/post/everyone/).*
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [disclose](/en/post/disclose/) [or](/en/post/or/) [make](/en/post/make/) known; [uncover](/en/post/uncover/): *[The](/en/post/the/) detective revealed [the](/en/post/the/) murderer's identity.*
-- [To](/en/post/to/) [expose](/en/post/expose/) [or](/en/post/or/) [show](/en/post/show/) ([something](/en/post/something/)) [to](/en/post/to/) [view](/en/post/view/) [or](/en/post/or/) [inspection](/en/post/inspection/): *[She](/en/post/she/) revealed [the](/en/post/the/) contents [of](/en/post/of/) [the](/en/post/the/) [box](/en/post/box/) [to](/en/post/to/) [her](/en/post/her/) friends.*
-- [To](/en/post/to/) [disclose](/en/post/disclose/) [or](/en/post/or/) [share](/en/post/share/) [information](/en/post/information/): *[He](/en/post/he/) revealed [some](/en/post/some/) confidential details [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/).*
+### [Verb](/post/verb/)
+- [To](/post/to/) [disclose](/post/disclose/) [or](/post/or/) [make](/post/make/) known; [uncover](/post/uncover/): *[The](/post/the/) detective revealed [the](/post/the/) murderer's identity.*
+- [To](/post/to/) [expose](/post/expose/) [or](/post/or/) [show](/post/show/) ([something](/post/something/)) [to](/post/to/) [view](/post/view/) [or](/post/or/) [inspection](/post/inspection/): *[She](/post/she/) revealed [the](/post/the/) contents [of](/post/of/) [the](/post/the/) [box](/post/box/) [to](/post/to/) [her](/post/her/) friends.*
+- [To](/post/to/) [disclose](/post/disclose/) [or](/post/or/) [share](/post/share/) [information](/post/information/): *[He](/post/he/) revealed [some](/post/some/) confidential details [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/).*
 
-### [Adjective](/en/post/adjective/)
-- Showing [or](/en/post/or/) revealing: *[A](/en/post/a/) revealing [look](/en/post/look/) [on](/en/post/on/) [her](/en/post/her/) [face](/en/post/face/) told [him](/en/post/him/) [everything](/en/post/everything/).*
-- Disclosing [or](/en/post/or/) uncovering: *[The](/en/post/the/) [reveal](/en/post/reveal/) [of](/en/post/of/) [new](/en/post/new/) [evidence](/en/post/evidence/) led [to](/en/post/to/) [a](/en/post/a/) breakthrough [in](/en/post/in/) [the](/en/post/the/) [case](/en/post/case/).*
+### [Adjective](/post/adjective/)
+- Showing [or](/post/or/) revealing: *[A](/post/a/) revealing [look](/post/look/) [on](/post/on/) [her](/post/her/) [face](/post/face/) told [him](/post/him/) [everything](/post/everything/).*
+- Disclosing [or](/post/or/) uncovering: *[The](/post/the/) [reveal](/post/reveal/) [of](/post/of/) [new](/post/new/) [evidence](/post/evidence/) led [to](/post/to/) [a](/post/a/) breakthrough [in](/post/in/) [the](/post/the/) [case](/post/case/).*
 
-### [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) revealing [manner](/en/post/manner/): *[His](/en/post/his/) [explanation](/en/post/explanation/) was [a](/en/post/a/) tell-all, [with](/en/post/with/) [many](/en/post/many/) revealing details.*
+### [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) revealing [manner](/post/manner/): *[His](/post/his/) [explanation](/post/explanation/) was [a](/post/a/) tell-all, [with](/post/with/) [many](/post/many/) revealing details.*
 
 ## Phrases
-- "[Reveal](/en/post/reveal/) [a](/en/post/a/) [secret](/en/post/secret/)" [means](/en/post/means/) [to](/en/post/to/) [disclose](/en/post/disclose/) [or](/en/post/or/) [disclose](/en/post/disclose/) [a](/en/post/a/) [previously](/en/post/previously/) [unknown](/en/post/unknown/) [fact](/en/post/fact/).
-- "[The](/en/post/the/) [big](/en/post/big/) [reveal](/en/post/reveal/)" is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) climactic [moment](/en/post/moment/) [where](/en/post/where/) [something](/en/post/something/) is disclosed.
-- "[Reveal](/en/post/reveal/) [oneself](/en/post/oneself/)" [means](/en/post/means/) [to](/en/post/to/) [show](/en/post/show/) one's [true](/en/post/true/) [nature](/en/post/nature/) [or](/en/post/or/) identity.
+- "[Reveal](/post/reveal/) [a](/post/a/) [secret](/post/secret/)" [means](/post/means/) [to](/post/to/) [disclose](/post/disclose/) [or](/post/or/) [disclose](/post/disclose/) [a](/post/a/) [previously](/post/previously/) [unknown](/post/unknown/) [fact](/post/fact/).
+- "[The](/post/the/) [big](/post/big/) [reveal](/post/reveal/)" is [often](/post/often/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) climactic [moment](/post/moment/) [where](/post/where/) [something](/post/something/) is disclosed.
+- "[Reveal](/post/reveal/) [oneself](/post/oneself/)" [means](/post/means/) [to](/post/to/) [show](/post/show/) one's [true](/post/true/) [nature](/post/nature/) [or](/post/or/) identity.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) historian's latest [book](/en/post/book/) delves [into](/en/post/into/) [the](/en/post/the/) [reveal](/en/post/reveal/) [of](/en/post/of/) long-forgotten [historical](/en/post/historical/) events."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) weeks [of](/en/post/of/) speculation, [the](/en/post/the/) CEO [finally](/en/post/finally/) revealed [their](/en/post/their/) plans [for](/en/post/for/) [the](/en/post/the/) company's [future](/en/post/future/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) revealing outfit sparked [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [conversation](/en/post/conversation/) [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) spoke candidly, giving [a](/en/post/a/) revealing [account](/en/post/account/) [of](/en/post/of/) [his](/en/post/his/) experiences."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) historian's latest [book](/post/book/) delves [into](/post/into/) [the](/post/the/) [reveal](/post/reveal/) [of](/post/of/) long-forgotten [historical](/post/historical/) events."
+- **[Verb](/post/verb/)**: "[After](/post/after/) weeks [of](/post/of/) speculation, [the](/post/the/) CEO [finally](/post/finally/) revealed [their](/post/their/) plans [for](/post/for/) [the](/post/the/) company's [future](/post/future/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) revealing outfit sparked [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [conversation](/post/conversation/) [at](/post/at/) [the](/post/the/) [party](/post/party/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) spoke candidly, giving [a](/post/a/) revealing [account](/post/account/) [of](/post/of/) [his](/post/his/) experiences."
 
 ## Synonyms
-- [Uncover](/en/post/uncover/)
-- [Disclose](/en/post/disclose/)
-- [Expose](/en/post/expose/)
-- [Reveal](/en/post/reveal/) [all](/en/post/all/)
-- [Reveal](/en/post/reveal/) facts
-- [Disclose](/en/post/disclose/) secrets
-- [Lay](/en/post/lay/) [bare](/en/post/bare/)
+- [Uncover](/post/uncover/)
+- [Disclose](/post/disclose/)
+- [Expose](/post/expose/)
+- [Reveal](/post/reveal/) [all](/post/all/)
+- [Reveal](/post/reveal/) facts
+- [Disclose](/post/disclose/) secrets
+- [Lay](/post/lay/) [bare](/post/bare/)
 - Unveil

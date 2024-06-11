@@ -7,33 +7,33 @@ description = '[əˈdɔpt] vt.收养；采用；采取'
 keywords = ['ai words', 'adopt']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈdɑpt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Adoption**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) formally accepting [or](/en/post/or/) receiving [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) ([usually](/en/post/usually/) [a](/en/post/a/) [child](/en/post/child/) [or](/en/post/or/) [new](/en/post/new/) [idea](/en/post/idea/)) [into](/en/post/into/) one's [family](/en/post/family/) [or](/en/post/or/) [system](/en/post/system/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) adoption [process](/en/post/process/) [can](/en/post/can/) [be](/en/post/be/) [long](/en/post/long/) [and](/en/post/and/) [complicated](/en/post/complicated/)."
-- **[Adopt](/en/post/adopt/)**: [A](/en/post/a/) [verb](/en/post/verb/) [meaning](/en/post/meaning/) [to](/en/post/to/) [take](/en/post/take/) [on](/en/post/on/), [receive](/en/post/receive/), [or](/en/post/or/) [assume](/en/post/assume/) [the](/en/post/the/) characteristics, practices, [or](/en/post/or/) beliefs [of](/en/post/of/) [another](/en/post/another/) [person](/en/post/person/) [or](/en/post/or/) [group](/en/post/group/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) adopted [a](/en/post/a/) vegan lifestyle [after](/en/post/after/) [reading](/en/post/reading/) [about](/en/post/about/) [its](/en/post/its/) environmental benefits."
+### [Noun](/post/noun/)
+- **Adoption**: [The](/post/the/) [act](/post/act/) [of](/post/of/) formally accepting [or](/post/or/) receiving [someone](/post/someone/) [or](/post/or/) [something](/post/something/) ([usually](/post/usually/) [a](/post/a/) [child](/post/child/) [or](/post/or/) [new](/post/new/) [idea](/post/idea/)) [into](/post/into/) one's [family](/post/family/) [or](/post/or/) [system](/post/system/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) adoption [process](/post/process/) [can](/post/can/) [be](/post/be/) [long](/post/long/) [and](/post/and/) [complicated](/post/complicated/)."
+- **[Adopt](/post/adopt/)**: [A](/post/a/) [verb](/post/verb/) [meaning](/post/meaning/) [to](/post/to/) [take](/post/take/) [on](/post/on/), [receive](/post/receive/), [or](/post/or/) [assume](/post/assume/) [the](/post/the/) characteristics, practices, [or](/post/or/) beliefs [of](/post/of/) [another](/post/another/) [person](/post/person/) [or](/post/or/) [group](/post/group/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) adopted [a](/post/a/) vegan lifestyle [after](/post/after/) [reading](/post/reading/) [about](/post/about/) [its](/post/its/) environmental benefits."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) formally [take](/en/post/take/) [in](/en/post/in/) [or](/en/post/or/) [accept](/en/post/accept/) ([a](/en/post/a/) [child](/en/post/child/)) [as](/en/post/as/) one's [own](/en/post/own/) [child](/en/post/child/), [usually](/en/post/usually/) [through](/en/post/through/) [legal](/en/post/legal/) [means](/en/post/means/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [couple](/en/post/couple/) decided [to](/en/post/to/) [adopt](/en/post/adopt/) [a](/en/post/a/) [child](/en/post/child/) [from](/en/post/from/) an orphanage."
-- [To](/en/post/to/) [take](/en/post/take/) [on](/en/post/on/) [or](/en/post/or/) incorporate (an [idea](/en/post/idea/), [technology](/en/post/technology/), [or](/en/post/or/) [custom](/en/post/custom/)). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) adopted [a](/en/post/a/) [new](/en/post/new/) software [system](/en/post/system/) [to](/en/post/to/) [improve](/en/post/improve/) [efficiency](/en/post/efficiency/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) formally [take](/post/take/) [in](/post/in/) [or](/post/or/) [accept](/post/accept/) ([a](/post/a/) [child](/post/child/)) [as](/post/as/) one's [own](/post/own/) [child](/post/child/), [usually](/post/usually/) [through](/post/through/) [legal](/post/legal/) [means](/post/means/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [couple](/post/couple/) decided [to](/post/to/) [adopt](/post/adopt/) [a](/post/a/) [child](/post/child/) [from](/post/from/) an orphanage."
+- [To](/post/to/) [take](/post/take/) [on](/post/on/) [or](/post/or/) incorporate (an [idea](/post/idea/), [technology](/post/technology/), [or](/post/or/) [custom](/post/custom/)). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) adopted [a](/post/a/) [new](/post/new/) software [system](/post/system/) [to](/post/to/) [improve](/post/improve/) [efficiency](/post/efficiency/)."
 
 ## Phrases
-- "[Adopt](/en/post/adopt/) [a](/en/post/a/) [pet](/en/post/pet/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [responsibility](/en/post/responsibility/) [for](/en/post/for/) [a](/en/post/a/) [domestic](/en/post/domestic/) [animal](/en/post/animal/) [as](/en/post/as/) [your](/en/post/your/) [own](/en/post/own/).
-- "[Adopt](/en/post/adopt/) [a](/en/post/a/) [policy](/en/post/policy/)" signifies adopting [a](/en/post/a/) [new](/en/post/new/) [rule](/en/post/rule/) [or](/en/post/or/) guideline [within](/en/post/within/) an [organization](/en/post/organization/).
-- "Adoptive parents" refers [to](/en/post/to/) [people](/en/post/people/) [who](/en/post/who/) legally [become](/en/post/become/) [the](/en/post/the/) parents [of](/en/post/of/) [a](/en/post/a/) [child](/en/post/child/) [they](/en/post/they/) did [not](/en/post/not/) [give](/en/post/give/) [birth](/en/post/birth/) [to](/en/post/to/).
+- "[Adopt](/post/adopt/) [a](/post/a/) [pet](/post/pet/)" [means](/post/means/) [to](/post/to/) [take](/post/take/) [responsibility](/post/responsibility/) [for](/post/for/) [a](/post/a/) [domestic](/post/domestic/) [animal](/post/animal/) [as](/post/as/) [your](/post/your/) [own](/post/own/).
+- "[Adopt](/post/adopt/) [a](/post/a/) [policy](/post/policy/)" signifies adopting [a](/post/a/) [new](/post/new/) [rule](/post/rule/) [or](/post/or/) guideline [within](/post/within/) an [organization](/post/organization/).
+- "Adoptive parents" refers [to](/post/to/) [people](/post/people/) [who](/post/who/) legally [become](/post/become/) [the](/post/the/) parents [of](/post/of/) [a](/post/a/) [child](/post/child/) [they](/post/they/) did [not](/post/not/) [give](/post/give/) [birth](/post/birth/) [to](/post/to/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Many](/en/post/many/) children [grow](/en/post/grow/) [up](/en/post/up/) [with](/en/post/with/) [a](/en/post/a/) [love](/en/post/love/) [for](/en/post/for/) [their](/en/post/their/) adoptive parents' [culture](/en/post/culture/) [and](/en/post/and/) traditions."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) losing [her](/en/post/her/) [job](/en/post/job/), [she](/en/post/she/) decided [to](/en/post/to/) [adopt](/en/post/adopt/) [a](/en/post/a/) [more](/en/post/more/) [flexible](/en/post/flexible/) [work](/en/post/work/) [approach](/en/post/approach/)."
-- **Adoptive**: "[The](/en/post/the/) [new](/en/post/new/) manager brought an adoptive [sense](/en/post/sense/) [of](/en/post/of/) humor [to](/en/post/to/) [the](/en/post/the/) [office](/en/post/office/), making [it](/en/post/it/) [a](/en/post/a/) [more](/en/post/more/) enjoyable [place](/en/post/place/) [to](/en/post/to/) [work](/en/post/work/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Many](/post/many/) children [grow](/post/grow/) [up](/post/up/) [with](/post/with/) [a](/post/a/) [love](/post/love/) [for](/post/for/) [their](/post/their/) adoptive parents' [culture](/post/culture/) [and](/post/and/) traditions."
+- **[Verb](/post/verb/)**: "[After](/post/after/) losing [her](/post/her/) [job](/post/job/), [she](/post/she/) decided [to](/post/to/) [adopt](/post/adopt/) [a](/post/a/) [more](/post/more/) [flexible](/post/flexible/) [work](/post/work/) [approach](/post/approach/)."
+- **Adoptive**: "[The](/post/the/) [new](/post/new/) manager brought an adoptive [sense](/post/sense/) [of](/post/of/) humor [to](/post/to/) [the](/post/the/) [office](/post/office/), making [it](/post/it/) [a](/post/a/) [more](/post/more/) enjoyable [place](/post/place/) [to](/post/to/) [work](/post/work/)."
 
 ## Synonyms
-- [Receive](/en/post/receive/)
-- [Take](/en/post/take/) [in](/en/post/in/)
-- [Embrace](/en/post/embrace/)
+- [Receive](/post/receive/)
+- [Take](/post/take/) [in](/post/in/)
+- [Embrace](/post/embrace/)
 - Incorporate
-- [Adapt](/en/post/adapt/)
-- Adoptive ([as](/en/post/as/) [in](/en/post/in/) referring [to](/en/post/to/) an adopted [child](/en/post/child/))
+- [Adapt](/post/adapt/)
+- Adoptive ([as](/post/as/) [in](/post/in/) referring [to](/post/to/) an adopted [child](/post/child/))
 - Assimilate

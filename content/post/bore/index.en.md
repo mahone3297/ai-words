@@ -7,34 +7,34 @@ description = '[bɔː] vt.使厌烦；钻，挖'
 keywords = ['ai words', 'bore']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɔr/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) causes boredom [or](/en/post/or/) tedium [due](/en/post/due/) [to](/en/post/to/) [their](/en/post/their/) dullness [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [interest](/en/post/interest/). 2. An [activity](/en/post/activity/) [or](/en/post/or/) [experience](/en/post/experience/) [that](/en/post/that/) is uninteresting [or](/en/post/or/) [tedious](/en/post/tedious/). 3. (informal) [A](/en/post/a/) [gun](/en/post/gun/) [or](/en/post/or/) firearm.
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cause](/en/post/cause/) boredom [or](/en/post/or/) [be](/en/post/be/) uninteresting [to](/en/post/to/) [someone](/en/post/someone/). "[The](/en/post/the/) [lecture](/en/post/lecture/) bored [the](/en/post/the/) [audience](/en/post/audience/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) causing boredom; [tedious](/en/post/tedious/). "[A](/en/post/a/) [bore](/en/post/bore/) [of](/en/post/of/) [a](/en/post/a/) [story](/en/post/story/)"
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [person](/post/person/) [who](/post/who/) causes boredom [or](/post/or/) tedium [due](/post/due/) [to](/post/to/) [their](/post/their/) dullness [or](/post/or/) [lack](/post/lack/) [of](/post/of/) [interest](/post/interest/). 2. An [activity](/post/activity/) [or](/post/or/) [experience](/post/experience/) [that](/post/that/) is uninteresting [or](/post/or/) [tedious](/post/tedious/). 3. (informal) [A](/post/a/) [gun](/post/gun/) [or](/post/or/) firearm.
+- **[Verb](/post/verb/)**: [To](/post/to/) [cause](/post/cause/) boredom [or](/post/or/) [be](/post/be/) uninteresting [to](/post/to/) [someone](/post/someone/). "[The](/post/the/) [lecture](/post/lecture/) bored [the](/post/the/) [audience](/post/audience/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) causing boredom; [tedious](/post/tedious/). "[A](/post/a/) [bore](/post/bore/) [of](/post/of/) [a](/post/a/) [story](/post/story/)"
 
 ## Phrases
-- "Boredom sets [in](/en/post/in/)" indicates [a](/en/post/a/) [loss](/en/post/loss/) [of](/en/post/of/) [interest](/en/post/interest/) [or](/en/post/or/) excitement.
-- "She's [such](/en/post/such/) [a](/en/post/a/) [bore](/en/post/bore/) [at](/en/post/at/) parties" expresses disapproval [of](/en/post/of/) someone's [dull](/en/post/dull/) personality.
-- "Avoiding [the](/en/post/the/) [bore](/en/post/bore/)" [means](/en/post/means/) steering [clear](/en/post/clear/) [of](/en/post/of/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) uninteresting.
+- "Boredom sets [in](/post/in/)" indicates [a](/post/a/) [loss](/post/loss/) [of](/post/of/) [interest](/post/interest/) [or](/post/or/) excitement.
+- "She's [such](/post/such/) [a](/post/a/) [bore](/post/bore/) [at](/post/at/) parties" expresses disapproval [of](/post/of/) someone's [dull](/post/dull/) personality.
+- "Avoiding [the](/post/the/) [bore](/post/bore/)" [means](/post/means/) steering [clear](/post/clear/) [of](/post/of/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) uninteresting.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [party](/en/post/party/) was filled [with](/en/post/with/) [conversation](/en/post/conversation/), [but](/en/post/but/) [the](/en/post/the/) [host](/en/post/host/) was [a](/en/post/a/) [real](/en/post/real/) [bore](/en/post/bore/)."
-- **[Verb](/en/post/verb/)**: "Listening [to](/en/post/to/) [her](/en/post/her/) ramble [on](/en/post/on/) [about](/en/post/about/) [her](/en/post/her/) [vacation](/en/post/vacation/) was [a](/en/post/a/) [bore](/en/post/bore/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [bore](/en/post/bore/) [of](/en/post/of/) [his](/en/post/his/) [speech](/en/post/speech/) made [it](/en/post/it/) [hard](/en/post/hard/) [for](/en/post/for/) [people](/en/post/people/) [to](/en/post/to/) [stay](/en/post/stay/) focused."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [party](/post/party/) was filled [with](/post/with/) [conversation](/post/conversation/), [but](/post/but/) [the](/post/the/) [host](/post/host/) was [a](/post/a/) [real](/post/real/) [bore](/post/bore/)."
+- **[Verb](/post/verb/)**: "Listening [to](/post/to/) [her](/post/her/) ramble [on](/post/on/) [about](/post/about/) [her](/post/her/) [vacation](/post/vacation/) was [a](/post/a/) [bore](/post/bore/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [bore](/post/bore/) [of](/post/of/) [his](/post/his/) [speech](/post/speech/) made [it](/post/it/) [hard](/post/hard/) [for](/post/for/) [people](/post/people/) [to](/post/to/) [stay](/post/stay/) focused."
 
 ## Synonyms
-- [Tedious](/en/post/tedious/)
-- [Dull](/en/post/dull/)
+- [Tedious](/post/tedious/)
+- [Dull](/post/dull/)
 - Monotonous
 - Unengaging
 - Bland
 
 ## Antonyms
 - Engaging
-- [Exciting](/en/post/exciting/)
+- [Exciting](/post/exciting/)
 - Entertaining
-- [Lively](/en/post/lively/)
+- [Lively](/post/lively/)
 - Stimulating

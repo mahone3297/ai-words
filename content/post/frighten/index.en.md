@@ -7,34 +7,34 @@ description = '[ˈfraitn] vt.使惊恐，吓唬'
 keywords = ['ai words', 'frighten']
 +++
 
-## [Word](/en/post/word/): [Frighten](/en/post/frighten/)
+## [Word](/post/word/): [Frighten](/post/frighten/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfraɪtn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [cause](/en/post/cause/) [fear](/en/post/fear/) [or](/en/post/or/) [terror](/en/post/terror/) [in](/en/post/in/) [someone](/en/post/someone/); [to](/en/post/to/) [scare](/en/post/scare/) [or](/en/post/or/) [alarm](/en/post/alarm/). 
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [cause](/post/cause/) [fear](/post/fear/) [or](/post/or/) [terror](/post/terror/) [in](/post/in/) [someone](/post/someone/); [to](/post/to/) [scare](/post/scare/) [or](/post/or/) [alarm](/post/alarm/). 
 
-  - _Example Sentence_: [The](/en/post/the/) [sudden](/en/post/sudden/) [loud](/en/post/loud/) [noise](/en/post/noise/) frightened [the](/en/post/the/) children.
+  - _Example Sentence_: [The](/post/the/) [sudden](/post/sudden/) [loud](/post/loud/) [noise](/post/noise/) frightened [the](/post/the/) children.
   
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [fear](/en/post/fear/) [or](/en/post/or/) [terror](/en/post/terror/) induced [by](/en/post/by/) [something](/en/post/something/).
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [fear](/post/fear/) [or](/post/or/) [terror](/post/terror/) induced [by](/post/by/) [something](/post/something/).
   
-  - _Example Sentence_: [She](/en/post/she/) [still](/en/post/still/) has [a](/en/post/a/) [frighten](/en/post/frighten/) [from](/en/post/from/) [the](/en/post/the/) nightmare [last](/en/post/last/) [night](/en/post/night/).
+  - _Example Sentence_: [She](/post/she/) [still](/post/still/) has [a](/post/a/) [frighten](/post/frighten/) [from](/post/from/) [the](/post/the/) nightmare [last](/post/last/) [night](/post/night/).
 
 ## Phrases
-- "[Frighten](/en/post/frighten/) [away](/en/post/away/)": [To](/en/post/to/) [cause](/en/post/cause/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [to](/en/post/to/) [go](/en/post/go/) [away](/en/post/away/) [due](/en/post/due/) [to](/en/post/to/) [fear](/en/post/fear/). E.g., "[The](/en/post/the/) [loud](/en/post/loud/) [noise](/en/post/noise/) frightened [the](/en/post/the/) birds [away](/en/post/away/)."
-- "[Frighten](/en/post/frighten/) [off](/en/post/off/)": [To](/en/post/to/) [discourage](/en/post/discourage/) [or](/en/post/or/) [drive](/en/post/drive/) [someone](/en/post/someone/) [away](/en/post/away/) [through](/en/post/through/) intimidation [or](/en/post/or/) [fear](/en/post/fear/). E.g., "[The](/en/post/the/) [guard](/en/post/guard/) [dog](/en/post/dog/) frightened [off](/en/post/off/) [the](/en/post/the/) intruders."
-- "[To](/en/post/to/) [be](/en/post/be/) frightened [out](/en/post/out/) [of](/en/post/of/) one's wits": [To](/en/post/to/) [be](/en/post/be/) [extremely](/en/post/extremely/) scared [or](/en/post/or/) terrified. E.g., "[The](/en/post/the/) [unexpected](/en/post/unexpected/) [sight](/en/post/sight/) [of](/en/post/of/) [the](/en/post/the/) ghostly [figure](/en/post/figure/) frightened [him](/en/post/him/) [out](/en/post/out/) [of](/en/post/of/) [his](/en/post/his/) wits."
+- "[Frighten](/post/frighten/) [away](/post/away/)": [To](/post/to/) [cause](/post/cause/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [to](/post/to/) [go](/post/go/) [away](/post/away/) [due](/post/due/) [to](/post/to/) [fear](/post/fear/). E.g., "[The](/post/the/) [loud](/post/loud/) [noise](/post/noise/) frightened [the](/post/the/) birds [away](/post/away/)."
+- "[Frighten](/post/frighten/) [off](/post/off/)": [To](/post/to/) [discourage](/post/discourage/) [or](/post/or/) [drive](/post/drive/) [someone](/post/someone/) [away](/post/away/) [through](/post/through/) intimidation [or](/post/or/) [fear](/post/fear/). E.g., "[The](/post/the/) [guard](/post/guard/) [dog](/post/dog/) frightened [off](/post/off/) [the](/post/the/) intruders."
+- "[To](/post/to/) [be](/post/be/) frightened [out](/post/out/) [of](/post/of/) one's wits": [To](/post/to/) [be](/post/be/) [extremely](/post/extremely/) scared [or](/post/or/) terrified. E.g., "[The](/post/the/) [unexpected](/post/unexpected/) [sight](/post/sight/) [of](/post/of/) [the](/post/the/) ghostly [figure](/post/figure/) frightened [him](/post/him/) [out](/post/out/) [of](/post/of/) [his](/post/his/) wits."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [dark](/en/post/dark/) alleyways [at](/en/post/at/) [night](/en/post/night/) [can](/en/post/can/) [really](/en/post/really/) [frighten](/en/post/frighten/) [people](/en/post/people/) [who](/en/post/who/) aren't [familiar](/en/post/familiar/) [with](/en/post/with/) [the](/en/post/the/) [area](/en/post/area/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [mere](/en/post/mere/) [mention](/en/post/mention/) [of](/en/post/of/) snakes sends [a](/en/post/a/) [frighten](/en/post/frighten/) [through](/en/post/through/) [her](/en/post/her/) [heart](/en/post/heart/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [dark](/post/dark/) alleyways [at](/post/at/) [night](/post/night/) [can](/post/can/) [really](/post/really/) [frighten](/post/frighten/) [people](/post/people/) [who](/post/who/) aren't [familiar](/post/familiar/) [with](/post/with/) [the](/post/the/) [area](/post/area/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [mere](/post/mere/) [mention](/post/mention/) [of](/post/of/) snakes sends [a](/post/a/) [frighten](/post/frighten/) [through](/post/through/) [her](/post/her/) [heart](/post/heart/)."
 
 ## Synonyms
 - Terrify
-- [Scare](/en/post/scare/)
-- [Startle](/en/post/startle/)
-- [Alarm](/en/post/alarm/)
+- [Scare](/post/scare/)
+- [Startle](/post/startle/)
+- [Alarm](/post/alarm/)
 - Intimidate
 - horrify
 - daunt

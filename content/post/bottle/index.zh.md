@@ -11,20 +11,20 @@ keywords = ['ai words', 'bottle']
 /bəˈtl/
 
 ## 释义
-- **名词 (n)**: 一种通常由玻璃、塑料或金属制成的容器，用于装液体，尤指饮料。例如: "[He](/post/he/) drank [from](/post/from/) [his](/post/his/) [water](/post/water/) [bottle](/post/bottle/)."
-- **动词 (v)**: 将液体装入瓶中。例如: "[She](/post/she/) bottled [the](/post/the/) freshly squeezed [juice](/post/juice/)."
+- **名词 (n)**: 一种通常由玻璃、塑料或金属制成的容器，用于装液体，尤指饮料。例如: "[He](/zh/post/he/) drank [from](/zh/post/from/) [his](/zh/post/his/) [water](/zh/post/water/) [bottle](/zh/post/bottle/)."
+- **动词 (v)**: 将液体装入瓶中。例如: "[She](/zh/post/she/) bottled [the](/zh/post/the/) freshly squeezed [juice](/zh/post/juice/)."
 
 ## 短语
-- "[bottle](/post/bottle/) [feed](/post/feed/)" 意为用瓶子喂养，常用于婴儿或动物。例如: "[The](/post/the/) [mother](/post/mother/) couldn't breastfeed, [so](/post/so/) [the](/post/the/) [baby](/post/baby/) was bottle-fed."
-- "[bottle](/post/bottle/) [up](/post/up/)" 表示抑制或隐藏感情。例如: "Don't [bottle](/post/bottle/) [up](/post/up/) [your](/post/your/) emotions; it's [not](/post/not/) [healthy](/post/healthy/)."
+- "[bottle](/zh/post/bottle/) [feed](/zh/post/feed/)" 意为用瓶子喂养，常用于婴儿或动物。例如: "[The](/zh/post/the/) [mother](/zh/post/mother/) couldn't breastfeed, [so](/zh/post/so/) [the](/zh/post/the/) [baby](/zh/post/baby/) was bottle-fed."
+- "[bottle](/zh/post/bottle/) [up](/zh/post/up/)" 表示抑制或隐藏感情。例如: "Don't [bottle](/zh/post/bottle/) [up](/zh/post/up/) [your](/zh/post/your/) emotions; it's [not](/zh/post/not/) [healthy](/zh/post/healthy/)."
 
 ## 例句
-- 名词: "[She](/post/she/) carried [a](/post/a/) reusable [bottle](/post/bottle/) [to](/post/to/) [reduce](/post/reduce/) [plastic](/post/plastic/) [waste](/post/waste/)."
-- 动词: "[The](/post/the/) winery bottles [its](/post/its/) premium [wine](/post/wine/) [every](/post/every/) [year](/post/year/)."
+- 名词: "[She](/zh/post/she/) carried [a](/zh/post/a/) reusable [bottle](/zh/post/bottle/) [to](/zh/post/to/) [reduce](/zh/post/reduce/) [plastic](/zh/post/plastic/) [waste](/zh/post/waste/)."
+- 动词: "[The](/zh/post/the/) winery bottles [its](/zh/post/its/) premium [wine](/zh/post/wine/) [every](/zh/post/every/) [year](/zh/post/year/)."
 
 ## 同义词
-- [Vessel](/post/vessel/)
-- [Container](/post/container/)
+- [Vessel](/zh/post/vessel/)
+- [Container](/zh/post/container/)
 - Flask
-- [Jar](/post/jar/)
+- [Jar](/zh/post/jar/)
 - Canister

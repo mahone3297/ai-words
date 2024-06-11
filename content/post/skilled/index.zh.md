@@ -11,20 +11,20 @@ keywords = ['ai words', 'skilled']
 /skɪld/
 
 ## 释义
-- **形容词**: 具有某种技能或技术的，熟练的。例如: "[She](/post/she/) is [a](/post/a/) [skilled](/post/skilled/) programmer [with](/post/with/) years [of](/post/of/) [experience](/post/experience/)."
-- **名词**: （尤指通过训练获得的）技能，才能。例如: "[The](/post/the/) [company](/post/company/) is looking [for](/post/for/) candidates [with](/post/with/) [relevant](/post/relevant/) [skilled](/post/skilled/)."
+- **形容词**: 具有某种技能或技术的，熟练的。例如: "[She](/zh/post/she/) is [a](/zh/post/a/) [skilled](/zh/post/skilled/) programmer [with](/zh/post/with/) years [of](/zh/post/of/) [experience](/zh/post/experience/)."
+- **名词**: （尤指通过训练获得的）技能，才能。例如: "[The](/zh/post/the/) [company](/zh/post/company/) is looking [for](/zh/post/for/) candidates [with](/zh/post/with/) [relevant](/zh/post/relevant/) [skilled](/zh/post/skilled/)."
 
 ## 短语
-- "[skilled](/post/skilled/) [worker](/post/worker/)" 指受过专业训练或有特定技术的工人。
-- "[skilled](/post/skilled/) [trade](/post/trade/)" 指需要特殊技能或手艺的职业。
+- "[skilled](/zh/post/skilled/) [worker](/zh/post/worker/)" 指受过专业训练或有特定技术的工人。
+- "[skilled](/zh/post/skilled/) [trade](/zh/post/trade/)" 指需要特殊技能或手艺的职业。
 
 ## 例句
-- 形容词: "[His](/post/his/) [skilled](/post/skilled/) [performance](/post/performance/) [on](/post/on/) [the](/post/the/) [piano](/post/piano/) impressed [the](/post/the/) [audience](/post/audience/)."
-- 名词: "[The](/post/the/) [program](/post/program/) aims [to](/post/to/) [provide](/post/provide/) vocational [training](/post/training/) [for](/post/for/) unskilled workers [to](/post/to/) [acquire](/post/acquire/) [new](/post/new/) [skilled](/post/skilled/)."
+- 形容词: "[His](/zh/post/his/) [skilled](/zh/post/skilled/) [performance](/zh/post/performance/) [on](/zh/post/on/) [the](/zh/post/the/) [piano](/zh/post/piano/) impressed [the](/zh/post/the/) [audience](/zh/post/audience/)."
+- 名词: "[The](/zh/post/the/) [program](/zh/post/program/) aims [to](/zh/post/to/) [provide](/zh/post/provide/) vocational [training](/zh/post/training/) [for](/zh/post/for/) unskilled workers [to](/zh/post/to/) [acquire](/zh/post/acquire/) [new](/zh/post/new/) [skilled](/zh/post/skilled/)."
 
 ## 同义词
 - proficient
 - adept
-- [competent](/post/competent/)
-- [expert](/post/expert/)
+- [competent](/zh/post/competent/)
+- [expert](/zh/post/expert/)
 - talented

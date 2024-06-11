@@ -7,36 +7,36 @@ description = '[ˈkæbinit] n.橱，柜；内阁'
 keywords = ['ai words', 'cabinet']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈbɪnət/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-    1. [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [furniture](/en/post/furniture/) [with](/en/post/with/) doors [and](/en/post/and/) shelves [for](/en/post/for/) storing objects, [often](/en/post/often/) [found](/en/post/found/) [in](/en/post/in/) [a](/en/post/a/) [kitchen](/en/post/kitchen/) [or](/en/post/or/) [office](/en/post/office/), [especially](/en/post/especially/) [one](/en/post/one/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) workspace [or](/en/post/or/) [storage](/en/post/storage/) [space](/en/post/space/).
-    2. [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) [advise](/en/post/advise/) [or](/en/post/or/) [assist](/en/post/assist/) [a](/en/post/a/) [government](/en/post/government/) [or](/en/post/or/) [organization](/en/post/organization/), typically consisting [of](/en/post/of/) ministers [or](/en/post/or/) [other](/en/post/other/) high-ranking officials.
-    3. (informal) [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) [work](/en/post/work/) [together](/en/post/together/) [on](/en/post/on/) [a](/en/post/a/) [project](/en/post/project/) [or](/en/post/or/) [issue](/en/post/issue/).
+- **[Noun](/post/noun/)**: 
+    1. [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [furniture](/post/furniture/) [with](/post/with/) doors [and](/post/and/) shelves [for](/post/for/) storing objects, [often](/post/often/) [found](/post/found/) [in](/post/in/) [a](/post/a/) [kitchen](/post/kitchen/) [or](/post/or/) [office](/post/office/), [especially](/post/especially/) [one](/post/one/) [used](/post/used/) [as](/post/as/) [a](/post/a/) workspace [or](/post/or/) [storage](/post/storage/) [space](/post/space/).
+    2. [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [who](/post/who/) [advise](/post/advise/) [or](/post/or/) [assist](/post/assist/) [a](/post/a/) [government](/post/government/) [or](/post/or/) [organization](/post/organization/), typically consisting [of](/post/of/) ministers [or](/post/or/) [other](/post/other/) high-ranking officials.
+    3. (informal) [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [who](/post/who/) [work](/post/work/) [together](/post/together/) [on](/post/on/) [a](/post/a/) [project](/post/project/) [or](/post/or/) [issue](/post/issue/).
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [store](/en/post/store/) items [in](/en/post/in/) [a](/en/post/a/) [cabinet](/en/post/cabinet/) [or](/en/post/or/) [place](/en/post/place/) [them](/en/post/them/) neatly.
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [role](/en/post/role/) [in](/en/post/in/) [a](/en/post/a/) [cabinet](/en/post/cabinet/) [or](/en/post/or/) advisory [group](/en/post/group/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [store](/post/store/) items [in](/post/in/) [a](/post/a/) [cabinet](/post/cabinet/) [or](/post/or/) [place](/post/place/) [them](/post/them/) neatly.
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [role](/post/role/) [in](/post/in/) [a](/post/a/) [cabinet](/post/cabinet/) [or](/post/or/) advisory [group](/post/group/).
 
 ## Phrases
-- "[Store](/en/post/store/) items [in](/en/post/in/) [the](/en/post/the/) [cabinet](/en/post/cabinet/)"
-- "[Cabinet](/en/post/cabinet/) [meeting](/en/post/meeting/)" ([a](/en/post/a/) [formal](/en/post/formal/) gathering [of](/en/post/of/) [cabinet](/en/post/cabinet/) members)
-- "Cabinet-level [post](/en/post/post/)" ([a](/en/post/a/) [significant](/en/post/significant/) [role](/en/post/role/) [in](/en/post/in/) [a](/en/post/a/) [government](/en/post/government/) [or](/en/post/or/) [organization](/en/post/organization/))
+- "[Store](/post/store/) items [in](/post/in/) [the](/post/the/) [cabinet](/post/cabinet/)"
+- "[Cabinet](/post/cabinet/) [meeting](/post/meeting/)" ([a](/post/a/) [formal](/post/formal/) gathering [of](/post/of/) [cabinet](/post/cabinet/) members)
+- "Cabinet-level [post](/post/post/)" ([a](/post/a/) [significant](/post/significant/) [role](/post/role/) [in](/post/in/) [a](/post/a/) [government](/post/government/) [or](/post/or/) [organization](/post/organization/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: 
-    1. [She](/en/post/she/) organized [her](/en/post/her/) books [on](/en/post/on/) [the](/en/post/the/) [new](/en/post/new/) [cabinet](/en/post/cabinet/) [in](/en/post/in/) [her](/en/post/her/) [study](/en/post/study/).
-    2. [The](/en/post/the/) [prime](/en/post/prime/) [minister](/en/post/minister/) held [a](/en/post/a/) [cabinet](/en/post/cabinet/) [meeting](/en/post/meeting/) [to](/en/post/to/) [discuss](/en/post/discuss/) [the](/en/post/the/) upcoming budget.
-    3. [He](/en/post/he/) has been appointed [to](/en/post/to/) [a](/en/post/a/) cabinet-level [position](/en/post/position/) [in](/en/post/in/) [the](/en/post/the/) [administration](/en/post/administration/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: 
+    1. [She](/post/she/) organized [her](/post/her/) books [on](/post/on/) [the](/post/the/) [new](/post/new/) [cabinet](/post/cabinet/) [in](/post/in/) [her](/post/her/) [study](/post/study/).
+    2. [The](/post/the/) [prime](/post/prime/) [minister](/post/minister/) held [a](/post/a/) [cabinet](/post/cabinet/) [meeting](/post/meeting/) [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) upcoming budget.
+    3. [He](/post/he/) has been appointed [to](/post/to/) [a](/post/a/) cabinet-level [position](/post/position/) [in](/post/in/) [the](/post/the/) [administration](/post/administration/).
 
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) decided [to](/en/post/to/) [cabinet](/en/post/cabinet/) [the](/en/post/the/) [old](/en/post/old/) documents [to](/en/post/to/) [keep](/en/post/keep/) [them](/en/post/them/) [safe](/en/post/safe/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [president](/en/post/president/) appointed [a](/en/post/a/) [new](/en/post/new/) [cabinet](/en/post/cabinet/) [of](/en/post/of/) experienced advisors.
+- **[Verb](/post/verb/)**: [He](/post/he/) decided [to](/post/to/) [cabinet](/post/cabinet/) [the](/post/the/) [old](/post/old/) documents [to](/post/to/) [keep](/post/keep/) [them](/post/them/) [safe](/post/safe/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [president](/post/president/) appointed [a](/post/a/) [new](/post/new/) [cabinet](/post/cabinet/) [of](/post/of/) experienced advisors.
 
 ## Synonyms
-- Filing [cabinet](/en/post/cabinet/)
-- Ministerial [cabinet](/en/post/cabinet/)
-- [Committee](/en/post/committee/)
-- [Team](/en/post/team/)
-- [Group](/en/post/group/)
+- Filing [cabinet](/post/cabinet/)
+- Ministerial [cabinet](/post/cabinet/)
+- [Committee](/post/committee/)
+- [Team](/post/team/)
+- [Group](/post/group/)
 - Ensemble

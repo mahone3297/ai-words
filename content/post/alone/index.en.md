@@ -7,27 +7,27 @@ description = '[əˈləun] a.单独的 ad.单独地'
 keywords = ['ai words', 'alone']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæləʊn/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Existing [or](/en/post/or/) situated [on](/en/post/on/) [your](/en/post/your/) [own](/en/post/own/); [separate](/en/post/separate/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) lone [tree](/en/post/tree/) stood [alone](/en/post/alone/) [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/)."
-- **[Adjective](/en/post/adjective/)**: 2. Unaccompanied [or](/en/post/or/) [without](/en/post/without/) [company](/en/post/company/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [spend](/en/post/spend/) [her](/en/post/her/) [birthday](/en/post/birthday/) [alone](/en/post/alone/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) solitary [manner](/en/post/manner/); [by](/en/post/by/) [oneself](/en/post/oneself/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) works [alone](/en/post/alone/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/)."
+- **[Adjective](/post/adjective/)**: 1. Existing [or](/post/or/) situated [on](/post/on/) [your](/post/your/) [own](/post/own/); [separate](/post/separate/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) lone [tree](/post/tree/) stood [alone](/post/alone/) [in](/post/in/) [the](/post/the/) [field](/post/field/)."
+- **[Adjective](/post/adjective/)**: 2. Unaccompanied [or](/post/or/) [without](/post/without/) [company](/post/company/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [spend](/post/spend/) [her](/post/her/) [birthday](/post/birthday/) [alone](/post/alone/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) solitary [manner](/post/manner/); [by](/post/by/) [oneself](/post/oneself/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) works [alone](/post/alone/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [alone](/en/post/alone/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [by](/en/post/by/) [oneself](/en/post/oneself/), undisturbed.
-- "[She](/en/post/she/) prefers [to](/en/post/to/) [spend](/en/post/spend/) [her](/en/post/her/) weekends [alone](/en/post/alone/)."
-- "[He](/en/post/he/) likes [to](/en/post/to/) [work](/en/post/work/) [alone](/en/post/alone/), [but](/en/post/but/) [sometimes](/en/post/sometimes/) [he](/en/post/he/) collaborates [with](/en/post/with/) others."
+- "[Be](/post/be/) [alone](/post/alone/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) [by](/post/by/) [oneself](/post/oneself/), undisturbed.
+- "[She](/post/she/) prefers [to](/post/to/) [spend](/post/spend/) [her](/post/her/) weekends [alone](/post/alone/)."
+- "[He](/post/he/) likes [to](/post/to/) [work](/post/work/) [alone](/post/alone/), [but](/post/but/) [sometimes](/post/sometimes/) [he](/post/he/) collaborates [with](/post/with/) others."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [cat](/en/post/cat/) curled [up](/en/post/up/) [alone](/en/post/alone/) [on](/en/post/on/) [the](/en/post/the/) windowsill."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) solo [trip](/en/post/trip/) [to](/en/post/to/) Europe."
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) solitude, [he](/en/post/he/) [found](/en/post/found/) [peace](/en/post/peace/) [within](/en/post/within/) [himself](/en/post/himself/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [cat](/post/cat/) curled [up](/post/up/) [alone](/post/alone/) [on](/post/on/) [the](/post/the/) windowsill."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) solo [trip](/post/trip/) [to](/post/to/) Europe."
+- **[Noun](/post/noun/)**: "[In](/post/in/) solitude, [he](/post/he/) [found](/post/found/) [peace](/post/peace/) [within](/post/within/) [himself](/post/himself/)."
 
 ## Synonyms
-- [Single](/en/post/single/)
+- [Single](/post/single/)
 - Solitary
 - Lonesome
 - Unaccompanied
-- [Independent](/en/post/independent/)
+- [Independent](/post/independent/)

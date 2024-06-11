@@ -11,23 +11,23 @@ keywords = ['ai words', 'rush']
 /rʌʃ/
 
 ## 释义
-- **动词**: 匆忙，迅速行动。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [rush](/post/rush/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [train](/post/train/)."
-- **名词**: 匆忙，匆促。例如: "[There](/post/there/) was [a](/post/a/) [rush](/post/rush/) [to](/post/to/) [get](/post/get/) [everything](/post/everything/) done [on](/post/on/) [time](/post/time/)."
-- **名词**: 潮流，高峰期。例如: "[The](/post/the/) [morning](/post/morning/) [rush](/post/rush/) [hour](/post/hour/) is [always](/post/always/) [busy](/post/busy/) [on](/post/on/) [the](/post/the/) roads."
-- **名词**: 大量，蜂拥而至。例如: "[The](/post/the/) [store](/post/store/) had [a](/post/a/) [rush](/post/rush/) [of](/post/of/) customers [after](/post/after/) [the](/post/the/) [sale](/post/sale/) started."
+- **动词**: 匆忙，迅速行动。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [rush](/zh/post/rush/) [to](/zh/post/to/) [catch](/zh/post/catch/) [the](/zh/post/the/) [train](/zh/post/train/)."
+- **名词**: 匆忙，匆促。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [rush](/zh/post/rush/) [to](/zh/post/to/) [get](/zh/post/get/) [everything](/zh/post/everything/) done [on](/zh/post/on/) [time](/zh/post/time/)."
+- **名词**: 潮流，高峰期。例如: "[The](/zh/post/the/) [morning](/zh/post/morning/) [rush](/zh/post/rush/) [hour](/zh/post/hour/) is [always](/zh/post/always/) [busy](/zh/post/busy/) [on](/zh/post/on/) [the](/zh/post/the/) roads."
+- **名词**: 大量，蜂拥而至。例如: "[The](/zh/post/the/) [store](/zh/post/store/) had [a](/zh/post/a/) [rush](/zh/post/rush/) [of](/zh/post/of/) customers [after](/zh/post/after/) [the](/zh/post/the/) [sale](/zh/post/sale/) started."
 
 ## 短语
-- "[rush](/post/rush/) [hour](/post/hour/)" 指交通或其他地方的高峰时段。
-- "[in](/post/in/) [a](/post/a/) [rush](/post/rush/)" 表示很匆忙，没有时间。例如: "I'm [in](/post/in/) [a](/post/a/) [rush](/post/rush/), [so](/post/so/) I can't [talk](/post/talk/) [long](/post/long/)."
+- "[rush](/zh/post/rush/) [hour](/zh/post/hour/)" 指交通或其他地方的高峰时段。
+- "[in](/zh/post/in/) [a](/zh/post/a/) [rush](/zh/post/rush/)" 表示很匆忙，没有时间。例如: "I'm [in](/zh/post/in/) [a](/zh/post/a/) [rush](/zh/post/rush/), [so](/zh/post/so/) I can't [talk](/zh/post/talk/) [long](/zh/post/long/)."
 
 ## 例句
-- 动词: "[He](/post/he/) rushed [out](/post/out/) [of](/post/of/) [the](/post/the/) [door](/post/door/) [when](/post/when/) [he](/post/he/) heard [the](/post/the/) [phone](/post/phone/) ringing."
-- 名词: "[During](/post/during/) [the](/post/the/) Christmas [season](/post/season/), [the](/post/the/) [post](/post/post/) [office](/post/office/) experiences [a](/post/a/) [rush](/post/rush/) [of](/post/of/) packages [to](/post/to/) [deliver](/post/deliver/)."
-- 名词: "[The](/post/the/) [restaurant](/post/restaurant/) gets [a](/post/a/) [rush](/post/rush/) [of](/post/of/) diners [around](/post/around/) lunchtime."
+- 动词: "[He](/zh/post/he/) rushed [out](/zh/post/out/) [of](/zh/post/of/) [the](/zh/post/the/) [door](/zh/post/door/) [when](/zh/post/when/) [he](/zh/post/he/) heard [the](/zh/post/the/) [phone](/zh/post/phone/) ringing."
+- 名词: "[During](/zh/post/during/) [the](/zh/post/the/) Christmas [season](/zh/post/season/), [the](/zh/post/the/) [post](/zh/post/post/) [office](/zh/post/office/) experiences [a](/zh/post/a/) [rush](/zh/post/rush/) [of](/zh/post/of/) packages [to](/zh/post/to/) [deliver](/zh/post/deliver/)."
+- 名词: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) gets [a](/zh/post/a/) [rush](/zh/post/rush/) [of](/zh/post/of/) diners [around](/zh/post/around/) lunchtime."
 
 ## 同义词
-- [hurry](/post/hurry/)
-- [hasten](/post/hasten/)
-- [speed](/post/speed/)
+- [hurry](/zh/post/hurry/)
+- [hasten](/zh/post/hasten/)
+- [speed](/zh/post/speed/)
 - dart
 - scamper

@@ -7,33 +7,33 @@ description = '[ˈsevərəl] a.几个，数个'
 keywords = ['ai words', 'several']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sevrəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [More](/en/post/more/) [than](/en/post/than/) [two](/en/post/two/) [but](/en/post/but/) [not](/en/post/not/) [many](/en/post/many/); [a](/en/post/a/) [few](/en/post/few/) [but](/en/post/but/) [not](/en/post/not/) [all](/en/post/all/). [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) were [several](/en/post/several/) [people](/en/post/people/) waiting [for](/en/post/for/) [us](/en/post/us/)."
-- **Determiner**: [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) an [indefinite](/en/post/indefinite/) [number](/en/post/number/), typically [more](/en/post/more/) [than](/en/post/than/) [one](/en/post/one/). [For](/en/post/for/) [example](/en/post/example/): "[Several](/en/post/several/) books are [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [quantity](/en/post/quantity/) [or](/en/post/or/) [number](/en/post/number/) [that](/en/post/that/) is [not](/en/post/not/) specified; [a](/en/post/a/) [few](/en/post/few/) [or](/en/post/or/) [various](/en/post/various/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) ate [several](/en/post/several/) cookies."
+- **[Adjective](/post/adjective/)**: 1. [More](/post/more/) [than](/post/than/) [two](/post/two/) [but](/post/but/) [not](/post/not/) [many](/post/many/); [a](/post/a/) [few](/post/few/) [but](/post/but/) [not](/post/not/) [all](/post/all/). [For](/post/for/) [example](/post/example/): "[There](/post/there/) were [several](/post/several/) [people](/post/people/) waiting [for](/post/for/) [us](/post/us/)."
+- **Determiner**: [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) an [indefinite](/post/indefinite/) [number](/post/number/), typically [more](/post/more/) [than](/post/than/) [one](/post/one/). [For](/post/for/) [example](/post/example/): "[Several](/post/several/) books are [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [quantity](/post/quantity/) [or](/post/or/) [number](/post/number/) [that](/post/that/) is [not](/post/not/) specified; [a](/post/a/) [few](/post/few/) [or](/post/or/) [various](/post/various/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) ate [several](/post/several/) cookies."
 
 ## Phrases
-- "[Several](/en/post/several/) days [later](/en/post/later/)" refers [to](/en/post/to/) [a](/en/post/a/) [period](/en/post/period/) [after](/en/post/after/) [some](/en/post/some/) [time](/en/post/time/) has passed.
-- "[Several](/en/post/several/) attempts" [means](/en/post/means/) [multiple](/en/post/multiple/) tries.
-- "[Several](/en/post/several/) reasons" implies [multiple](/en/post/multiple/) causes [or](/en/post/or/) explanations.
+- "[Several](/post/several/) days [later](/post/later/)" refers [to](/post/to/) [a](/post/a/) [period](/post/period/) [after](/post/after/) [some](/post/some/) [time](/post/time/) has passed.
+- "[Several](/post/several/) attempts" [means](/post/means/) [multiple](/post/multiple/) tries.
+- "[Several](/post/several/) reasons" implies [multiple](/post/multiple/) causes [or](/post/or/) explanations.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "I bought [several](/en/post/several/) [new](/en/post/new/) books [for](/en/post/for/) [my](/en/post/my/) [book](/en/post/book/) [club](/en/post/club/)."
-- **Determiner**: "[There](/en/post/there/) were [several](/en/post/several/) ideas discussed [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) made [several](/en/post/several/) [phone](/en/post/phone/) calls [before](/en/post/before/) [finding](/en/post/finding/) [the](/en/post/the/) [right](/en/post/right/) [contact](/en/post/contact/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "I bought [several](/post/several/) [new](/post/new/) books [for](/post/for/) [my](/post/my/) [book](/post/book/) [club](/post/club/)."
+- **Determiner**: "[There](/post/there/) were [several](/post/several/) ideas discussed [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) made [several](/post/several/) [phone](/post/phone/) calls [before](/post/before/) [finding](/post/finding/) [the](/post/the/) [right](/post/right/) [contact](/post/contact/)."
 
 ## Synonyms
-- [A](/en/post/a/) [few](/en/post/few/)
-- [Several](/en/post/several/) [dozen](/en/post/dozen/) ([to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [specific](/en/post/specific/), [approximate](/en/post/approximate/) [number](/en/post/number/))
-- [A](/en/post/a/) [number](/en/post/number/) [of](/en/post/of/)
-- [Multiple](/en/post/multiple/)
-- [Some](/en/post/some/)
-- [A](/en/post/a/) [couple](/en/post/couple/)
+- [A](/post/a/) [few](/post/few/)
+- [Several](/post/several/) [dozen](/post/dozen/) ([to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [specific](/post/specific/), [approximate](/post/approximate/) [number](/post/number/))
+- [A](/post/a/) [number](/post/number/) [of](/post/of/)
+- [Multiple](/post/multiple/)
+- [Some](/post/some/)
+- [A](/post/a/) [couple](/post/couple/)
 
 ## Antonyms
-- [One](/en/post/one/)
-- [None](/en/post/none/)
-- [Few](/en/post/few/) (implying [only](/en/post/only/) [a](/en/post/a/) [small](/en/post/small/) [number](/en/post/number/))
+- [One](/post/one/)
+- [None](/post/none/)
+- [Few](/post/few/) (implying [only](/post/only/) [a](/post/a/) [small](/post/small/) [number](/post/number/))

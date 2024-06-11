@@ -7,42 +7,42 @@ description = '[ˈpɔːtəbl] a.轻便的；手提的'
 keywords = ['ai words', 'portable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /portərəbl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Portable](/en/post/portable/)**: An [object](/en/post/object/) [or](/en/post/or/) [device](/en/post/device/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) [easily](/en/post/easily/) moved [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/) [without](/en/post/without/) losing [its](/en/post/its/) functionality. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) laptop is [a](/en/post/a/) [highly](/en/post/highly/) [portable](/en/post/portable/) [computer](/en/post/computer/)."
-- **[Portable](/en/post/portable/) [generator](/en/post/generator/)**: [A](/en/post/a/) compact, self-contained [power](/en/post/power/) [source](/en/post/source/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) transported [and](/en/post/and/) [used](/en/post/used/) [on](/en/post/on/) [the](/en/post/the/) [go](/en/post/go/).
+### [Noun](/post/noun/)
+- **[Portable](/post/portable/)**: An [object](/post/object/) [or](/post/or/) [device](/post/device/) [that](/post/that/) [can](/post/can/) [be](/post/be/) [easily](/post/easily/) moved [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/) [without](/post/without/) losing [its](/post/its/) functionality. [For](/post/for/) [example](/post/example/): "[A](/post/a/) laptop is [a](/post/a/) [highly](/post/highly/) [portable](/post/portable/) [computer](/post/computer/)."
+- **[Portable](/post/portable/) [generator](/post/generator/)**: [A](/post/a/) compact, self-contained [power](/post/power/) [source](/post/source/) [that](/post/that/) [can](/post/can/) [be](/post/be/) transported [and](/post/and/) [used](/post/used/) [on](/post/on/) [the](/post/the/) [go](/post/go/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [portable](/en/post/portable/): [The](/en/post/the/) [manufacturer](/en/post/manufacturer/) designed [the](/en/post/the/) [product](/en/post/product/) [to](/en/post/to/) [be](/en/post/be/) [easily](/en/post/easily/) [portable](/en/post/portable/). 
-- [To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [carry](/en/post/carry/) [something](/en/post/something/) portably: [She](/en/post/she/) carried [her](/en/post/her/) backpack portably [across](/en/post/across/) [the](/en/post/the/) [park](/en/post/park/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [make](/post/make/) [something](/post/something/) [portable](/post/portable/): [The](/post/the/) [manufacturer](/post/manufacturer/) designed [the](/post/the/) [product](/post/product/) [to](/post/to/) [be](/post/be/) [easily](/post/easily/) [portable](/post/portable/). 
+- [To](/post/to/) [move](/post/move/) [or](/post/or/) [carry](/post/carry/) [something](/post/something/) portably: [She](/post/she/) carried [her](/post/her/) backpack portably [across](/post/across/) [the](/post/the/) [park](/post/park/).
 
-### [Adjective](/en/post/adjective/)
-- Referring [to](/en/post/to/) [the](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [ability](/en/post/ability/) [of](/en/post/of/) [something](/en/post/something/) [to](/en/post/to/) [be](/en/post/be/) moved [or](/en/post/or/) carried conveniently: [The](/en/post/the/) camping [stove](/en/post/stove/) is [a](/en/post/a/) [highly](/en/post/highly/) [portable](/en/post/portable/) [option](/en/post/option/).
+### [Adjective](/post/adjective/)
+- Referring [to](/post/to/) [the](/post/the/) [quality](/post/quality/) [or](/post/or/) [ability](/post/ability/) [of](/post/of/) [something](/post/something/) [to](/post/to/) [be](/post/be/) moved [or](/post/or/) carried conveniently: [The](/post/the/) camping [stove](/post/stove/) is [a](/post/a/) [highly](/post/highly/) [portable](/post/portable/) [option](/post/option/).
 
 ## Phrases
-- "Portability is [key](/en/post/key/)" emphasizes [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) [being](/en/post/being/) [able](/en/post/able/) [to](/en/post/to/) [move](/en/post/move/) [something](/en/post/something/) [easily](/en/post/easily/).
-- "[A](/en/post/a/) [portable](/en/post/portable/) charger allows [you](/en/post/you/) [to](/en/post/to/) [stay](/en/post/stay/) connected [on](/en/post/on/) [the](/en/post/the/) [go](/en/post/go/)."
-- "[The](/en/post/the/) [portable](/en/post/portable/) [fridge](/en/post/fridge/) keeps [food](/en/post/food/) [and](/en/post/and/) drinks [cool](/en/post/cool/) [during](/en/post/during/) [outdoor](/en/post/outdoor/) activities."
+- "Portability is [key](/post/key/)" emphasizes [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [being](/post/being/) [able](/post/able/) [to](/post/to/) [move](/post/move/) [something](/post/something/) [easily](/post/easily/).
+- "[A](/post/a/) [portable](/post/portable/) charger allows [you](/post/you/) [to](/post/to/) [stay](/post/stay/) connected [on](/post/on/) [the](/post/the/) [go](/post/go/)."
+- "[The](/post/the/) [portable](/post/portable/) [fridge](/post/fridge/) keeps [food](/post/food/) [and](/post/and/) drinks [cool](/post/cool/) [during](/post/during/) [outdoor](/post/outdoor/) activities."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) folding [table](/en/post/table/) is [very](/en/post/very/) [portable](/en/post/portable/) [and](/en/post/and/) [easy](/en/post/easy/) [to](/en/post/to/) [store](/en/post/store/)."
-- **[Verb](/en/post/verb/)**: "I packed [my](/en/post/my/) [portable](/en/post/portable/) [keyboard](/en/post/keyboard/) [so](/en/post/so/) I [could](/en/post/could/) [work](/en/post/work/) remotely [during](/en/post/during/) [the](/en/post/the/) [trip](/en/post/trip/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's [new](/en/post/new/) smartphone has [excellent](/en/post/excellent/) portability, [with](/en/post/with/) [a](/en/post/a/) lightweight [design](/en/post/design/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) folding [table](/post/table/) is [very](/post/very/) [portable](/post/portable/) [and](/post/and/) [easy](/post/easy/) [to](/post/to/) [store](/post/store/)."
+- **[Verb](/post/verb/)**: "I packed [my](/post/my/) [portable](/post/portable/) [keyboard](/post/keyboard/) [so](/post/so/) I [could](/post/could/) [work](/post/work/) remotely [during](/post/during/) [the](/post/the/) [trip](/post/trip/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) company's [new](/post/new/) smartphone has [excellent](/post/excellent/) portability, [with](/post/with/) [a](/post/a/) lightweight [design](/post/design/)."
 
 ## Synonyms
 - Light-weight
 - Carry-on
 - Transportable
-- [Mobile](/en/post/mobile/)
+- [Mobile](/post/mobile/)
 - Handheld
-- [Convenient](/en/post/convenient/)
-- [Easily](/en/post/easily/) moved
+- [Convenient](/post/convenient/)
+- [Easily](/post/easily/) moved
 
 ## Antonyms
-- [Heavy](/en/post/heavy/)
+- [Heavy](/post/heavy/)
 - Immovable
 - Fixed
 - Stationary

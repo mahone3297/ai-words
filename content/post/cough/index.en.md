@@ -7,23 +7,23 @@ description = '[kɔːf] vi.咳，咳嗽 n.咳嗽'
 keywords = ['ai words', 'cough']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɒf/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [sudden](/en/post/sudden/), involuntary contraction [of](/en/post/of/) [the](/en/post/the/) [chest](/en/post/chest/) muscles, causing [one](/en/post/one/) [to](/en/post/to/) expel [air](/en/post/air/) [from](/en/post/from/) [the](/en/post/the/) lungs [through](/en/post/through/) [the](/en/post/the/) [throat](/en/post/throat/), typically accompanied [by](/en/post/by/) [a](/en/post/a/) [sound](/en/post/sound/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) patient's persistent [cough](/en/post/cough/) indicated [a](/en/post/a/) respiratory infection."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [produce](/en/post/produce/) [a](/en/post/a/) [cough](/en/post/cough/), [often](/en/post/often/) [as](/en/post/as/) [a](/en/post/a/) reflex [or](/en/post/or/) [response](/en/post/response/) [to](/en/post/to/) irritation [in](/en/post/in/) [the](/en/post/the/) [throat](/en/post/throat/) [or](/en/post/or/) lungs. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) coughed [to](/en/post/to/) [clear](/en/post/clear/) [her](/en/post/her/) [throat](/en/post/throat/) [before](/en/post/before/) speaking."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) indicating [a](/en/post/a/) [cough](/en/post/cough/), [as](/en/post/as/) [in](/en/post/in/) "[cough](/en/post/cough/) [medicine](/en/post/medicine/)" [or](/en/post/or/) "[a](/en/post/a/) coughing [fit](/en/post/fit/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [sudden](/post/sudden/), involuntary contraction [of](/post/of/) [the](/post/the/) [chest](/post/chest/) muscles, causing [one](/post/one/) [to](/post/to/) expel [air](/post/air/) [from](/post/from/) [the](/post/the/) lungs [through](/post/through/) [the](/post/the/) [throat](/post/throat/), typically accompanied [by](/post/by/) [a](/post/a/) [sound](/post/sound/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) patient's persistent [cough](/post/cough/) indicated [a](/post/a/) respiratory infection."
+- **[Verb](/post/verb/)**: [To](/post/to/) [produce](/post/produce/) [a](/post/a/) [cough](/post/cough/), [often](/post/often/) [as](/post/as/) [a](/post/a/) reflex [or](/post/or/) [response](/post/response/) [to](/post/to/) irritation [in](/post/in/) [the](/post/the/) [throat](/post/throat/) [or](/post/or/) lungs. [For](/post/for/) [example](/post/example/): "[She](/post/she/) coughed [to](/post/to/) [clear](/post/clear/) [her](/post/her/) [throat](/post/throat/) [before](/post/before/) speaking."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) indicating [a](/post/a/) [cough](/post/cough/), [as](/post/as/) [in](/post/in/) "[cough](/post/cough/) [medicine](/post/medicine/)" [or](/post/or/) "[a](/post/a/) coughing [fit](/post/fit/)."
 
 ## Phrases
-- "[Cough](/en/post/cough/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) [bring](/en/post/bring/) [up](/en/post/up/) phlegm [or](/en/post/or/) mucus [from](/en/post/from/) [the](/en/post/the/) lungs.
-- "[Cough](/en/post/cough/) reflex" refers [to](/en/post/to/) [the](/en/post/the/) [automatic](/en/post/automatic/) [response](/en/post/response/) [to](/en/post/to/) irritants [in](/en/post/in/) [the](/en/post/the/) respiratory tract.
-- "[Cough](/en/post/cough/) suppressant" is [a](/en/post/a/) medication [that](/en/post/that/) helps [reduce](/en/post/reduce/) [or](/en/post/or/) [prevent](/en/post/prevent/) coughing.
+- "[Cough](/post/cough/) [up](/post/up/)" [means](/post/means/) [to](/post/to/) [bring](/post/bring/) [up](/post/up/) phlegm [or](/post/or/) mucus [from](/post/from/) [the](/post/the/) lungs.
+- "[Cough](/post/cough/) reflex" refers [to](/post/to/) [the](/post/the/) [automatic](/post/automatic/) [response](/post/response/) [to](/post/to/) irritants [in](/post/in/) [the](/post/the/) respiratory tract.
+- "[Cough](/post/cough/) suppressant" is [a](/post/a/) medication [that](/post/that/) helps [reduce](/post/reduce/) [or](/post/or/) [prevent](/post/prevent/) coughing.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [baby](/en/post/baby/) was coughing [up](/en/post/up/) phlegm [all](/en/post/all/) [night](/en/post/night/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) inhaling [the](/en/post/the/) [dust](/en/post/dust/), [he](/en/post/he/) started [to](/en/post/to/) [cough](/en/post/cough/) uncontrollably."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [constant](/en/post/constant/) coughing made [it](/en/post/it/) [difficult](/en/post/difficult/) [for](/en/post/for/) [her](/en/post/her/) [to](/en/post/to/) [sleep](/en/post/sleep/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [baby](/post/baby/) was coughing [up](/post/up/) phlegm [all](/post/all/) [night](/post/night/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) inhaling [the](/post/the/) [dust](/post/dust/), [he](/post/he/) started [to](/post/to/) [cough](/post/cough/) uncontrollably."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [constant](/post/constant/) coughing made [it](/post/it/) [difficult](/post/difficult/) [for](/post/for/) [her](/post/her/) [to](/post/to/) [sleep](/post/sleep/)."
 
 ## Synonyms
 - Sneeze
@@ -33,6 +33,6 @@ keywords = ['ai words', 'cough']
 - Hoarse
 
 ## Antonyms
-- [Silence](/en/post/silence/)
-- [Peace](/en/post/peace/)
-- [Calm](/en/post/calm/) ([in](/en/post/in/) terms [of](/en/post/of/) respiratory sounds)
+- [Silence](/post/silence/)
+- [Peace](/post/peace/)
+- [Calm](/post/calm/) ([in](/post/in/) terms [of](/post/of/) respiratory sounds)

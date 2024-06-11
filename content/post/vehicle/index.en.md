@@ -7,47 +7,47 @@ description = '[ˈviːikl] n.车辆，机动车'
 keywords = ['ai words', 'vehicle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈvɪkəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Vehicle](/en/post/vehicle/)**: [A](/en/post/a/) [machine](/en/post/machine/) [or](/en/post/or/) contraption designed [for](/en/post/for/) [transport](/en/post/transport/), typically [with](/en/post/with/) wheels, powered [by](/en/post/by/) an [engine](/en/post/engine/) [or](/en/post/or/) [motor](/en/post/motor/), [and](/en/post/and/) [used](/en/post/used/) [for](/en/post/for/) [personal](/en/post/personal/) [or](/en/post/or/) [commercial](/en/post/commercial/) purposes.
-   - [A](/en/post/a/) [car](/en/post/car/), [truck](/en/post/truck/), [or](/en/post/or/) [bus](/en/post/bus/) are examples [of](/en/post/of/) vehicles.
-2. **[Means](/en/post/means/) [of](/en/post/of/) [transportation](/en/post/transportation/)**: [Any](/en/post/any/) [mode](/en/post/mode/) [by](/en/post/by/) [which](/en/post/which/) [people](/en/post/people/) [or](/en/post/or/) [goods](/en/post/goods/) are conveyed [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/).
-3. **[Abstract](/en/post/abstract/) [concept](/en/post/concept/)**: [A](/en/post/a/) metaphorical [or](/en/post/or/) symbolic representation [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [idea](/en/post/idea/) [that](/en/post/that/) moves [or](/en/post/or/) facilitates [progress](/en/post/progress/).
+### [Noun](/post/noun/)
+1. **[Vehicle](/post/vehicle/)**: [A](/post/a/) [machine](/post/machine/) [or](/post/or/) contraption designed [for](/post/for/) [transport](/post/transport/), typically [with](/post/with/) wheels, powered [by](/post/by/) an [engine](/post/engine/) [or](/post/or/) [motor](/post/motor/), [and](/post/and/) [used](/post/used/) [for](/post/for/) [personal](/post/personal/) [or](/post/or/) [commercial](/post/commercial/) purposes.
+   - [A](/post/a/) [car](/post/car/), [truck](/post/truck/), [or](/post/or/) [bus](/post/bus/) are examples [of](/post/of/) vehicles.
+2. **[Means](/post/means/) [of](/post/of/) [transportation](/post/transportation/)**: [Any](/post/any/) [mode](/post/mode/) [by](/post/by/) [which](/post/which/) [people](/post/people/) [or](/post/or/) [goods](/post/goods/) are conveyed [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/).
+3. **[Abstract](/post/abstract/) [concept](/post/concept/)**: [A](/post/a/) metaphorical [or](/post/or/) symbolic representation [of](/post/of/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [idea](/post/idea/) [that](/post/that/) moves [or](/post/or/) facilitates [progress](/post/progress/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [travel](/en/post/travel/) [or](/en/post/or/) [move](/en/post/move/) using [a](/en/post/a/) [vehicle](/en/post/vehicle/).
-2. [To](/en/post/to/) [convey](/en/post/convey/) [or](/en/post/or/) [transport](/en/post/transport/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) using [a](/en/post/a/) [vehicle](/en/post/vehicle/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [travel](/post/travel/) [or](/post/or/) [move](/post/move/) using [a](/post/a/) [vehicle](/post/vehicle/).
+2. [To](/post/to/) [convey](/post/convey/) [or](/post/or/) [transport](/post/transport/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) using [a](/post/a/) [vehicle](/post/vehicle/).
 
 ## Phrases
-- "[Drive](/en/post/drive/) [a](/en/post/a/) [vehicle](/en/post/vehicle/)"
-- "[Use](/en/post/use/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [for](/en/post/for/) commuting"
-- "[Take](/en/post/take/) [the](/en/post/the/) [vehicle](/en/post/vehicle/) [on](/en/post/on/) [a](/en/post/a/) [road](/en/post/road/) [trip](/en/post/trip/)"
-- "Operating [a](/en/post/a/) [vehicle](/en/post/vehicle/) [safely](/en/post/safely/)"
+- "[Drive](/post/drive/) [a](/post/a/) [vehicle](/post/vehicle/)"
+- "[Use](/post/use/) [a](/post/a/) [vehicle](/post/vehicle/) [for](/post/for/) commuting"
+- "[Take](/post/take/) [the](/post/the/) [vehicle](/post/vehicle/) [on](/post/on/) [a](/post/a/) [road](/post/road/) [trip](/post/trip/)"
+- "Operating [a](/post/a/) [vehicle](/post/vehicle/) [safely](/post/safely/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) bought [a](/en/post/a/) [new](/en/post/new/) [vehicle](/en/post/vehicle/) [to](/en/post/to/) commute [to](/en/post/to/) [work](/en/post/work/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [delivery](/en/post/delivery/) [driver](/en/post/driver/) arrived [in](/en/post/in/) [his](/en/post/his/) [large](/en/post/large/) [delivery](/en/post/delivery/) [vehicle](/en/post/vehicle/)."
-- **[Abstract](/en/post/abstract/) [concept](/en/post/concept/)**: "[The](/en/post/the/) internet has [become](/en/post/become/) an [essential](/en/post/essential/) [vehicle](/en/post/vehicle/) [for](/en/post/for/) global [communication](/en/post/communication/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) bought [a](/post/a/) [new](/post/new/) [vehicle](/post/vehicle/) [to](/post/to/) commute [to](/post/to/) [work](/post/work/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [delivery](/post/delivery/) [driver](/post/driver/) arrived [in](/post/in/) [his](/post/his/) [large](/post/large/) [delivery](/post/delivery/) [vehicle](/post/vehicle/)."
+- **[Abstract](/post/abstract/) [concept](/post/concept/)**: "[The](/post/the/) internet has [become](/post/become/) an [essential](/post/essential/) [vehicle](/post/vehicle/) [for](/post/for/) global [communication](/post/communication/)."
 
 ## Synonyms
-- [Carriage](/en/post/carriage/)
-- [Auto](/en/post/auto/)
-- [Machine](/en/post/machine/)
-- [Transport](/en/post/transport/)
-- [Motor](/en/post/motor/) [vehicle](/en/post/vehicle/)
-- [Car](/en/post/car/)
-- [Truck](/en/post/truck/)
-- [Bicycle](/en/post/bicycle/)
-- [Train](/en/post/train/)
-- [Plane](/en/post/plane/)
-- [Boat](/en/post/boat/)
+- [Carriage](/post/carriage/)
+- [Auto](/post/auto/)
+- [Machine](/post/machine/)
+- [Transport](/post/transport/)
+- [Motor](/post/motor/) [vehicle](/post/vehicle/)
+- [Car](/post/car/)
+- [Truck](/post/truck/)
+- [Bicycle](/post/bicycle/)
+- [Train](/post/train/)
+- [Plane](/post/plane/)
+- [Boat](/post/boat/)
 
 ## Antonyms
 - Inactive
-- [Static](/en/post/static/)
+- [Static](/post/static/)
 - Stationary
 - Non-motorized
-- Unmoved ([in](/en/post/in/) terms [of](/en/post/of/) [transport](/en/post/transport/))
+- Unmoved ([in](/post/in/) terms [of](/post/of/) [transport](/post/transport/))

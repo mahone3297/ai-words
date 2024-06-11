@@ -7,46 +7,46 @@ description = '[speə] vt.节约 a.多余的'
 keywords = ['ai words', 'spare']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /speə/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Spare](/en/post/spare/) ([noun](/en/post/noun/))**: 1. An [extra](/en/post/extra/) [or](/en/post/or/) [additional](/en/post/additional/) [item](/en/post/item/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [reserve](/en/post/reserve/) [or](/en/post/or/) [not](/en/post/not/) currently needed. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) kept [a](/en/post/a/) [spare](/en/post/spare/) [key](/en/post/key/) [under](/en/post/under/) [the](/en/post/the/) doormat."
-- 2. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [not](/en/post/not/) fully occupied [or](/en/post/or/) engaged; [a](/en/post/a/) [reserve](/en/post/reserve/) [player](/en/post/player/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) had [several](/en/post/several/) spares [on](/en/post/on/) [the](/en/post/the/) [bench](/en/post/bench/) [for](/en/post/for/) emergencies."
-- 3. [A](/en/post/a/) [room](/en/post/room/) [or](/en/post/or/) [space](/en/post/space/) [set](/en/post/set/) [aside](/en/post/aside/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [spare](/en/post/spare/) bedroom [or](/en/post/or/) [a](/en/post/a/) [spare](/en/post/spare/) [tire](/en/post/tire/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) had [a](/en/post/a/) [small](/en/post/small/) [spare](/en/post/spare/) [room](/en/post/room/) [for](/en/post/for/) guests."
+### [Noun](/post/noun/)
+- **[Spare](/post/spare/) ([noun](/post/noun/))**: 1. An [extra](/post/extra/) [or](/post/or/) [additional](/post/additional/) [item](/post/item/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [reserve](/post/reserve/) [or](/post/or/) [not](/post/not/) currently needed. [For](/post/for/) [example](/post/example/): "[She](/post/she/) kept [a](/post/a/) [spare](/post/spare/) [key](/post/key/) [under](/post/under/) [the](/post/the/) doormat."
+- 2. [A](/post/a/) [person](/post/person/) [who](/post/who/) is [not](/post/not/) fully occupied [or](/post/or/) engaged; [a](/post/a/) [reserve](/post/reserve/) [player](/post/player/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [team](/post/team/) had [several](/post/several/) spares [on](/post/on/) [the](/post/the/) [bench](/post/bench/) [for](/post/for/) emergencies."
+- 3. [A](/post/a/) [room](/post/room/) [or](/post/or/) [space](/post/space/) [set](/post/set/) [aside](/post/aside/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [spare](/post/spare/) bedroom [or](/post/or/) [a](/post/a/) [spare](/post/spare/) [tire](/post/tire/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [house](/post/house/) had [a](/post/a/) [small](/post/small/) [spare](/post/spare/) [room](/post/room/) [for](/post/for/) guests."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [spare](/en/post/spare/)** ([verb](/en/post/verb/)): 1. [To](/en/post/to/) [save](/en/post/save/) [or](/en/post/or/) [reserve](/en/post/reserve/) [something](/en/post/something/) [for](/en/post/for/) [later](/en/post/later/) [use](/en/post/use/) [or](/en/post/or/) [to](/en/post/to/) [avoid](/en/post/avoid/) using. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) spared [some](/en/post/some/) [of](/en/post/of/) [his](/en/post/his/) crops [for](/en/post/for/) [the](/en/post/the/) [winter](/en/post/winter/)."
-- 2. [To](/en/post/to/) refrain [from](/en/post/from/) harming [or](/en/post/or/) causing [damage](/en/post/damage/) [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [judge](/en/post/judge/) decided [to](/en/post/to/) [spare](/en/post/spare/) [the](/en/post/the/) defendant [from](/en/post/from/) [a](/en/post/a/) [harsh](/en/post/harsh/) [sentence](/en/post/sentence/)."
-- 3. (informal) [To](/en/post/to/) [leave](/en/post/leave/) [or](/en/post/or/) [set](/en/post/set/) [aside](/en/post/aside/) [time](/en/post/time/) [for](/en/post/for/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "I'll [spare](/en/post/spare/) [half](/en/post/half/) an [hour](/en/post/hour/) [for](/en/post/for/) [your](/en/post/your/) [meeting](/en/post/meeting/) [tomorrow](/en/post/tomorrow/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [spare](/post/spare/)** ([verb](/post/verb/)): 1. [To](/post/to/) [save](/post/save/) [or](/post/or/) [reserve](/post/reserve/) [something](/post/something/) [for](/post/for/) [later](/post/later/) [use](/post/use/) [or](/post/or/) [to](/post/to/) [avoid](/post/avoid/) using. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) spared [some](/post/some/) [of](/post/of/) [his](/post/his/) crops [for](/post/for/) [the](/post/the/) [winter](/post/winter/)."
+- 2. [To](/post/to/) refrain [from](/post/from/) harming [or](/post/or/) causing [damage](/post/damage/) [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [judge](/post/judge/) decided [to](/post/to/) [spare](/post/spare/) [the](/post/the/) defendant [from](/post/from/) [a](/post/a/) [harsh](/post/harsh/) [sentence](/post/sentence/)."
+- 3. (informal) [To](/post/to/) [leave](/post/leave/) [or](/post/or/) [set](/post/set/) [aside](/post/aside/) [time](/post/time/) [for](/post/for/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "I'll [spare](/post/spare/) [half](/post/half/) an [hour](/post/hour/) [for](/post/for/) [your](/post/your/) [meeting](/post/meeting/) [tomorrow](/post/tomorrow/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Spare](/en/post/spare/)** ([adjective](/en/post/adjective/)): 1. [Not](/en/post/not/) [excessive](/en/post/excessive/) [or](/en/post/or/) [unnecessary](/en/post/unnecessary/); [simple](/en/post/simple/) [or](/en/post/or/) minimal. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [spare](/en/post/spare/), no-frills [apartment](/en/post/apartment/) suited [her](/en/post/her/) lifestyle."
-- 2. Unused [or](/en/post/or/) [available](/en/post/available/) [for](/en/post/for/) [use](/en/post/use/) [when](/en/post/when/) needed. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [car](/en/post/car/) had [a](/en/post/a/) [spare](/en/post/spare/) [tire](/en/post/tire/) [in](/en/post/in/) [the](/en/post/the/) [trunk](/en/post/trunk/)."
+### [Adjective](/post/adjective/)
+- **[Spare](/post/spare/)** ([adjective](/post/adjective/)): 1. [Not](/post/not/) [excessive](/post/excessive/) [or](/post/or/) [unnecessary](/post/unnecessary/); [simple](/post/simple/) [or](/post/or/) minimal. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [spare](/post/spare/), no-frills [apartment](/post/apartment/) suited [her](/post/her/) lifestyle."
+- 2. Unused [or](/post/or/) [available](/post/available/) [for](/post/for/) [use](/post/use/) [when](/post/when/) needed. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [car](/post/car/) had [a](/post/a/) [spare](/post/spare/) [tire](/post/tire/) [in](/post/in/) [the](/post/the/) [trunk](/post/trunk/)."
 
-### [Adverb](/en/post/adverb/)
-- **Sparingly** ([adverb](/en/post/adverb/)): [In](/en/post/in/) moderation [or](/en/post/or/) sparingly. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [used](/en/post/used/) [the](/en/post/the/) [paint](/en/post/paint/) sparingly [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) subtle [effect](/en/post/effect/)."
+### [Adverb](/post/adverb/)
+- **Sparingly** ([adverb](/post/adverb/)): [In](/post/in/) moderation [or](/post/or/) sparingly. [For](/post/for/) [example](/post/example/): "[She](/post/she/) [used](/post/used/) [the](/post/the/) [paint](/post/paint/) sparingly [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) subtle [effect](/post/effect/)."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [a](/en/post/a/) [spare](/en/post/spare/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) an [extra](/en/post/extra/) [item](/en/post/item/) [available](/en/post/available/).
-- "[Use](/en/post/use/) [the](/en/post/the/) [spare](/en/post/spare/) parts" refers [to](/en/post/to/) utilizing backup components.
-- "[Spare](/en/post/spare/) [no](/en/post/no/) [effort](/en/post/effort/)" implies going [all](/en/post/all/) [out](/en/post/out/) [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) [goal](/en/post/goal/).
+- "[Keep](/post/keep/) [a](/post/a/) [spare](/post/spare/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) an [extra](/post/extra/) [item](/post/item/) [available](/post/available/).
+- "[Use](/post/use/) [the](/post/the/) [spare](/post/spare/) parts" refers [to](/post/to/) utilizing backup components.
+- "[Spare](/post/spare/) [no](/post/no/) [effort](/post/effort/)" implies going [all](/post/all/) [out](/post/out/) [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) [goal](/post/goal/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) [found](/en/post/found/) [a](/en/post/a/) [spare](/en/post/spare/) [room](/en/post/room/) [to](/en/post/to/) [rent](/en/post/rent/) [out](/en/post/out/) [on](/en/post/on/) Airbnb."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [spare](/en/post/spare/) [himself](/en/post/himself/) [the](/en/post/the/) [trouble](/en/post/trouble/) [and](/en/post/and/) [hire](/en/post/hire/) [a](/en/post/a/) [professional](/en/post/professional/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) had [a](/en/post/a/) [spare](/en/post/spare/) bedroom [with](/en/post/with/) [a](/en/post/a/) [simple](/en/post/simple/), minimalist [design](/en/post/design/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) dressed sparsely [for](/en/post/for/) [the](/en/post/the/) [cold](/en/post/cold/) [weather](/en/post/weather/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) [found](/post/found/) [a](/post/a/) [spare](/post/spare/) [room](/post/room/) [to](/post/to/) [rent](/post/rent/) [out](/post/out/) [on](/post/on/) Airbnb."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [spare](/post/spare/) [himself](/post/himself/) [the](/post/the/) [trouble](/post/trouble/) [and](/post/and/) [hire](/post/hire/) [a](/post/a/) [professional](/post/professional/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) had [a](/post/a/) [spare](/post/spare/) bedroom [with](/post/with/) [a](/post/a/) [simple](/post/simple/), minimalist [design](/post/design/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) dressed sparsely [for](/post/for/) [the](/post/the/) [cold](/post/cold/) [weather](/post/weather/)."
 
 ## Synonyms
-- [Additional](/en/post/additional/)
+- [Additional](/post/additional/)
 - Backup
-- [Extra](/en/post/extra/)
+- [Extra](/post/extra/)
 - Unoccupied
 - Uncommitted
 - Unused
 - Minimal
-- [Economical](/en/post/economical/)
-- [Indispensable](/en/post/indispensable/)
-- [Reserve](/en/post/reserve/)
+- [Economical](/post/economical/)
+- [Indispensable](/post/indispensable/)
+- [Reserve](/post/reserve/)

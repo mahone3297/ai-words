@@ -7,32 +7,32 @@ description = '[autˈstændiŋ] a.突出的，杰出的'
 keywords = ['ai words', 'outstanding']
 +++
 
-## [Word](/en/post/word/): [Outstanding](/en/post/outstanding/)
+## [Word](/post/word/): [Outstanding](/post/outstanding/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌaʊtˈstændɪŋ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Exceptionally [good](/en/post/good/) [or](/en/post/or/) [excellent](/en/post/excellent/); [superior](/en/post/superior/) [in](/en/post/in/) [quality](/en/post/quality/) [or](/en/post/or/) [performance](/en/post/performance/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has an [outstanding](/en/post/outstanding/) [academic](/en/post/academic/) [record](/en/post/record/)."
-- **[Adjective](/en/post/adjective/)**: Unpaid [or](/en/post/or/) unsettled; remaining [to](/en/post/to/) [be](/en/post/be/) paid, dealt [with](/en/post/with/), [or](/en/post/or/) answered; [not](/en/post/not/) [yet](/en/post/yet/) resolved. [For](/en/post/for/) [example](/en/post/example/): "There's an [outstanding](/en/post/outstanding/) [balance](/en/post/balance/) [on](/en/post/on/) [your](/en/post/your/) [account](/en/post/account/)."
+- **[Adjective](/post/adjective/)**: Exceptionally [good](/post/good/) [or](/post/or/) [excellent](/post/excellent/); [superior](/post/superior/) [in](/post/in/) [quality](/post/quality/) [or](/post/or/) [performance](/post/performance/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has an [outstanding](/post/outstanding/) [academic](/post/academic/) [record](/post/record/)."
+- **[Adjective](/post/adjective/)**: Unpaid [or](/post/or/) unsettled; remaining [to](/post/to/) [be](/post/be/) paid, dealt [with](/post/with/), [or](/post/or/) answered; [not](/post/not/) [yet](/post/yet/) resolved. [For](/post/for/) [example](/post/example/): "There's an [outstanding](/post/outstanding/) [balance](/post/balance/) [on](/post/on/) [your](/post/your/) [account](/post/account/)."
 
-### [Phrase](/en/post/phrase/) ([adjective](/en/post/adjective/) - [excellent](/en/post/excellent/))
-- **[Outstanding](/en/post/outstanding/) [achievement](/en/post/achievement/)**: An [especially](/en/post/especially/) noteworthy accomplishment.
-- **[Outstanding](/en/post/outstanding/) [debt](/en/post/debt/)**: [Debt](/en/post/debt/) [that](/en/post/that/) [remains](/en/post/remains/) unpaid [or](/en/post/or/) unsettled.
-- **[Outstanding](/en/post/outstanding/) warrant**: [A](/en/post/a/) warrant [that](/en/post/that/) is [still](/en/post/still/) [valid](/en/post/valid/) [and](/en/post/and/) has [not](/en/post/not/) been executed [by](/en/post/by/) [the](/en/post/the/) [police](/en/post/police/).
+### [Phrase](/post/phrase/) ([adjective](/post/adjective/) - [excellent](/post/excellent/))
+- **[Outstanding](/post/outstanding/) [achievement](/post/achievement/)**: An [especially](/post/especially/) noteworthy accomplishment.
+- **[Outstanding](/post/outstanding/) [debt](/post/debt/)**: [Debt](/post/debt/) [that](/post/that/) [remains](/post/remains/) unpaid [or](/post/or/) unsettled.
+- **[Outstanding](/post/outstanding/) warrant**: [A](/post/a/) warrant [that](/post/that/) is [still](/post/still/) [valid](/post/valid/) [and](/post/and/) has [not](/post/not/) been executed [by](/post/by/) [the](/post/the/) [police](/post/police/).
 
-### [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) ([excellent](/en/post/excellent/))**: "[His](/en/post/his/) [outstanding](/en/post/outstanding/) [performance](/en/post/performance/) [in](/en/post/in/) [the](/en/post/the/) [play](/en/post/play/) earned [him](/en/post/him/) [a](/en/post/a/) standing ovation."
-- **[Adjective](/en/post/adjective/) (unpaid)**: "[The](/en/post/the/) [company](/en/post/company/) [must](/en/post/must/) [settle](/en/post/settle/) [all](/en/post/all/) [its](/en/post/its/) [outstanding](/en/post/outstanding/) invoices [before](/en/post/before/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [financial](/en/post/financial/) [year](/en/post/year/)."
+### [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) ([excellent](/post/excellent/))**: "[His](/post/his/) [outstanding](/post/outstanding/) [performance](/post/performance/) [in](/post/in/) [the](/post/the/) [play](/post/play/) earned [him](/post/him/) [a](/post/a/) standing ovation."
+- **[Adjective](/post/adjective/) (unpaid)**: "[The](/post/the/) [company](/post/company/) [must](/post/must/) [settle](/post/settle/) [all](/post/all/) [its](/post/its/) [outstanding](/post/outstanding/) invoices [before](/post/before/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [financial](/post/financial/) [year](/post/year/)."
 
 ## Synonyms
-- [Excellent](/en/post/excellent/) ([for](/en/post/for/) [the](/en/post/the/) [meaning](/en/post/meaning/) [of](/en/post/of/) [superior](/en/post/superior/) [quality](/en/post/quality/))
-- [Remarkable](/en/post/remarkable/)
-- [Impressive](/en/post/impressive/)
-- [Extraordinary](/en/post/extraordinary/)
+- [Excellent](/post/excellent/) ([for](/post/for/) [the](/post/the/) [meaning](/post/meaning/) [of](/post/of/) [superior](/post/superior/) [quality](/post/quality/))
+- [Remarkable](/post/remarkable/)
+- [Impressive](/post/impressive/)
+- [Extraordinary](/post/extraordinary/)
 - Superb
-- Unpaid ([for](/en/post/for/) [the](/en/post/the/) [meaning](/en/post/meaning/) [of](/en/post/of/) unsettled [debt](/en/post/debt/))
+- Unpaid ([for](/post/for/) [the](/post/the/) [meaning](/post/meaning/) [of](/post/of/) unsettled [debt](/post/debt/))
 - Remaining
 - Unsettled
-- [Due](/en/post/due/)
+- [Due](/post/due/)
 - Unresolved

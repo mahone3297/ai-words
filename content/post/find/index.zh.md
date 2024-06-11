@@ -12,22 +12,22 @@ keywords = ['ai words', 'find']
 
 ## 释义
 - **动词**:
-    - 发现；找到。例如: "I [finally](/post/finally/) [found](/post/found/) [my](/post/my/) lost keys [in](/post/in/) [the](/post/the/) sofa cushions."
-    - 意识到，发现（事实、情况）。例如: "[She](/post/she/) [found](/post/found/) [out](/post/out/) [that](/post/that/) [her](/post/her/) [friend](/post/friend/) had moved [away](/post/away/)."
-    - 找到（某人或某事物）。例如: "[We](/post/we/) [found](/post/found/) [a](/post/a/) [great](/post/great/) Italian [restaurant](/post/restaurant/) [nearby](/post/nearby/)."
-    - 认为，觉得。例如: "[He](/post/he/) finds [the](/post/the/) [new](/post/new/) [job](/post/job/) challenging [but](/post/but/) rewarding."
+    - 发现；找到。例如: "I [finally](/zh/post/finally/) [found](/zh/post/found/) [my](/zh/post/my/) lost keys [in](/zh/post/in/) [the](/zh/post/the/) sofa cushions."
+    - 意识到，发现（事实、情况）。例如: "[She](/zh/post/she/) [found](/zh/post/found/) [out](/zh/post/out/) [that](/zh/post/that/) [her](/zh/post/her/) [friend](/zh/post/friend/) had moved [away](/zh/post/away/)."
+    - 找到（某人或某事物）。例如: "[We](/zh/post/we/) [found](/zh/post/found/) [a](/zh/post/a/) [great](/zh/post/great/) Italian [restaurant](/zh/post/restaurant/) [nearby](/zh/post/nearby/)."
+    - 认为，觉得。例如: "[He](/zh/post/he/) finds [the](/zh/post/the/) [new](/zh/post/new/) [job](/zh/post/job/) challenging [but](/zh/post/but/) rewarding."
 
 ## 短语
-- "[find](/post/find/) one's [way](/post/way/)" 意味着成功地到达目的地或解决问题。例如: "[After](/post/after/) getting lost, [he](/post/he/) managed [to](/post/to/) [find](/post/find/) [his](/post/his/) [way](/post/way/) [back](/post/back/) [home](/post/home/)."
-- "[find](/post/find/) [fault](/post/fault/) [with](/post/with/)" 指挑毛病或找缺点。例如: "[She](/post/she/) is [always](/post/always/) [finding](/post/finding/) [fault](/post/fault/) [with](/post/with/) [everything](/post/everything/) I [do](/post/do/)."
+- "[find](/zh/post/find/) one's [way](/zh/post/way/)" 意味着成功地到达目的地或解决问题。例如: "[After](/zh/post/after/) getting lost, [he](/zh/post/he/) managed [to](/zh/post/to/) [find](/zh/post/find/) [his](/zh/post/his/) [way](/zh/post/way/) [back](/zh/post/back/) [home](/zh/post/home/)."
+- "[find](/zh/post/find/) [fault](/zh/post/fault/) [with](/zh/post/with/)" 指挑毛病或找缺点。例如: "[She](/zh/post/she/) is [always](/zh/post/always/) [finding](/zh/post/finding/) [fault](/zh/post/fault/) [with](/zh/post/with/) [everything](/zh/post/everything/) I [do](/zh/post/do/)."
 
 ## 例句
-- 动词: "[He](/post/he/) was relieved [to](/post/to/) [find](/post/find/) [his](/post/his/) [wallet](/post/wallet/) [still](/post/still/) [in](/post/in/) [his](/post/his/) [pocket](/post/pocket/)."
-- 意识到: "[She](/post/she/) [found](/post/found/) [herself](/post/herself/) [alone](/post/alone/) [in](/post/in/) [the](/post/the/) [big](/post/big/) [city](/post/city/) [for](/post/for/) [the](/post/the/) [first](/post/first/) [time](/post/time/)."
+- 动词: "[He](/zh/post/he/) was relieved [to](/zh/post/to/) [find](/zh/post/find/) [his](/zh/post/his/) [wallet](/zh/post/wallet/) [still](/zh/post/still/) [in](/zh/post/in/) [his](/zh/post/his/) [pocket](/zh/post/pocket/)."
+- 意识到: "[She](/zh/post/she/) [found](/zh/post/found/) [herself](/zh/post/herself/) [alone](/zh/post/alone/) [in](/zh/post/in/) [the](/zh/post/the/) [big](/zh/post/big/) [city](/zh/post/city/) [for](/zh/post/for/) [the](/zh/post/the/) [first](/zh/post/first/) [time](/zh/post/time/)."
 
 ## 同义词
-- [locate](/post/locate/)
-- [discover](/post/discover/)
-- [stumble](/post/stumble/) [upon](/post/upon/)
-- [come](/post/come/) [across](/post/across/)
+- [locate](/zh/post/locate/)
+- [discover](/zh/post/discover/)
+- [stumble](/zh/post/stumble/) [upon](/zh/post/upon/)
+- [come](/zh/post/come/) [across](/zh/post/across/)
 - unearth

@@ -11,22 +11,22 @@ keywords = ['ai words', 'relationship']
 /riːˈleɪʃnʃɪp/
 
 ## 释义
-- **名词**: 人际关系，联系，关系。例如: "[They](/post/they/) [have](/post/have/) [a](/post/a/) [close](/post/close/) [relationship](/post/relationship/) [with](/post/with/) [their](/post/their/) neighbors."
-- **名词**: 关联，相互作用。例如: "[The](/post/the/) [relationship](/post/relationship/) [between](/post/between/) [exercise](/post/exercise/) [and](/post/and/) [health](/post/health/) is [well](/post/well/) documented."
+- **名词**: 人际关系，联系，关系。例如: "[They](/zh/post/they/) [have](/zh/post/have/) [a](/zh/post/a/) [close](/zh/post/close/) [relationship](/zh/post/relationship/) [with](/zh/post/with/) [their](/zh/post/their/) neighbors."
+- **名词**: 关联，相互作用。例如: "[The](/zh/post/the/) [relationship](/zh/post/relationship/) [between](/zh/post/between/) [exercise](/zh/post/exercise/) [and](/zh/post/and/) [health](/zh/post/health/) is [well](/zh/post/well/) documented."
 
 ## 短语
-- "[Personal](/post/personal/) [relationship](/post/relationship/)" 指私人关系，如朋友或伴侣关系。
-- "[Business](/post/business/) [relationship](/post/relationship/)" 指商业或职业上的联系。
-- "[In](/post/in/) [a](/post/a/) [relationship](/post/relationship/)" 指处于恋爱关系中。
+- "[Personal](/zh/post/personal/) [relationship](/zh/post/relationship/)" 指私人关系，如朋友或伴侣关系。
+- "[Business](/zh/post/business/) [relationship](/zh/post/relationship/)" 指商业或职业上的联系。
+- "[In](/zh/post/in/) [a](/zh/post/a/) [relationship](/zh/post/relationship/)" 指处于恋爱关系中。
 
 ## 例句
-- "[The](/post/the/) [relationship](/post/relationship/) [between](/post/between/) [the](/post/the/) [two](/post/two/) countries has been strained [recently](/post/recently/)."
-- "[Building](/post/building/) [a](/post/a/) [good](/post/good/) working [relationship](/post/relationship/) [with](/post/with/) colleagues is [essential](/post/essential/) [for](/post/for/) [success](/post/success/)."
-- "[They](/post/they/) announced [that](/post/that/) [they](/post/they/) are [no](/post/no/) longer [in](/post/in/) [a](/post/a/) [relationship](/post/relationship/)."
+- "[The](/zh/post/the/) [relationship](/zh/post/relationship/) [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) countries has been strained [recently](/zh/post/recently/)."
+- "[Building](/zh/post/building/) [a](/zh/post/a/) [good](/zh/post/good/) working [relationship](/zh/post/relationship/) [with](/zh/post/with/) colleagues is [essential](/zh/post/essential/) [for](/zh/post/for/) [success](/zh/post/success/)."
+- "[They](/zh/post/they/) announced [that](/zh/post/that/) [they](/zh/post/they/) are [no](/zh/post/no/) longer [in](/zh/post/in/) [a](/zh/post/a/) [relationship](/zh/post/relationship/)."
 
 ## 同义词
-- [Connection](/post/connection/)
-- [Association](/post/association/)
-- [Tie](/post/tie/)
-- [Bond](/post/bond/)
-- [Link](/post/link/)
+- [Connection](/zh/post/connection/)
+- [Association](/zh/post/association/)
+- [Tie](/zh/post/tie/)
+- [Bond](/zh/post/bond/)
+- [Link](/zh/post/link/)

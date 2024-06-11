@@ -12,20 +12,20 @@ keywords = ['ai words', 'footstep']
 
 ## 释义
 - **名词**:
-   脚步；足迹。例如: "[Follow](/post/follow/) [in](/post/in/) [my](/post/my/) [footstep](/post/footstep/) [and](/post/and/) you'll [find](/post/find/) [the](/post/the/) hidden [path](/post/path/)."
-   步态；步伐。例如: "[She](/post/she/) walked [with](/post/with/) [a](/post/a/) [confident](/post/confident/) [footstep](/post/footstep/)."
+   脚步；足迹。例如: "[Follow](/zh/post/follow/) [in](/zh/post/in/) [my](/zh/post/my/) [footstep](/zh/post/footstep/) [and](/zh/post/and/) you'll [find](/zh/post/find/) [the](/zh/post/the/) hidden [path](/zh/post/path/)."
+   步态；步伐。例如: "[She](/zh/post/she/) walked [with](/zh/post/with/) [a](/zh/post/a/) [confident](/zh/post/confident/) [footstep](/zh/post/footstep/)."
 
 ## 短语
-- "[in](/post/in/) someone's [footstep](/post/footstep/)" 表示模仿或遵循某人的行为或路径。例如: "I [hope](/post/hope/) [to](/post/to/) [follow](/post/follow/) [in](/post/in/) [my](/post/my/) father's footsteps [and](/post/and/) [become](/post/become/) [a](/post/a/) [doctor](/post/doctor/)."
-- "[leave](/post/leave/) footprints/footsteps" 意味着留下痕迹或影响。例如: "[The](/post/the/) [first](/post/first/) explorers [left](/post/left/) [their](/post/their/) footprints [on](/post/on/) [the](/post/the/) untouched [land](/post/land/)."
+- "[in](/zh/post/in/) someone's [footstep](/zh/post/footstep/)" 表示模仿或遵循某人的行为或路径。例如: "I [hope](/zh/post/hope/) [to](/zh/post/to/) [follow](/zh/post/follow/) [in](/zh/post/in/) [my](/zh/post/my/) father's footsteps [and](/zh/post/and/) [become](/zh/post/become/) [a](/zh/post/a/) [doctor](/zh/post/doctor/)."
+- "[leave](/zh/post/leave/) footprints/footsteps" 意味着留下痕迹或影响。例如: "[The](/zh/post/the/) [first](/zh/post/first/) explorers [left](/zh/post/left/) [their](/zh/post/their/) footprints [on](/zh/post/on/) [the](/zh/post/the/) untouched [land](/zh/post/land/)."
 
 ## 例句
-- 作为名词: "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) [her](/post/her/) [footstep](/post/footstep/) echoed [through](/post/through/) [the](/post/the/) [empty](/post/empty/) hallway."
-- 作为名词在短语中: "[He](/post/he/) dreams [of](/post/of/) walking [in](/post/in/) [his](/post/his/) idol's [footstep](/post/footstep/) [and](/post/and/) becoming [a](/post/a/) [successful](/post/successful/) [athlete](/post/athlete/)."
+- 作为名词: "[The](/zh/post/the/) [sound](/zh/post/sound/) [of](/zh/post/of/) [her](/zh/post/her/) [footstep](/zh/post/footstep/) echoed [through](/zh/post/through/) [the](/zh/post/the/) [empty](/zh/post/empty/) hallway."
+- 作为名词在短语中: "[He](/zh/post/he/) dreams [of](/zh/post/of/) walking [in](/zh/post/in/) [his](/zh/post/his/) idol's [footstep](/zh/post/footstep/) [and](/zh/post/and/) becoming [a](/zh/post/a/) [successful](/zh/post/successful/) [athlete](/zh/post/athlete/)."
 
 ## 同义词
-- [track](/post/track/)
+- [track](/zh/post/track/)
 - tread
-- [step](/post/step/)
-- [mark](/post/mark/)
-- [trace](/post/trace/)
+- [step](/zh/post/step/)
+- [mark](/zh/post/mark/)
+- [trace](/zh/post/trace/)

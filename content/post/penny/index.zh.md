@@ -11,20 +11,20 @@ keywords = ['ai words', 'penny']
 /ˈpɛni/
 
 ## 释义
-- **名词**: 英镑中的最小货币单位，1便士等于0.01英镑。例如: "I [have](/post/have/) [a](/post/a/) [few](/post/few/) pennies [in](/post/in/) [my](/post/my/) [pocket](/post/pocket/)."
-- **名词**: 美元中的最小货币单位，1美分等于0.01美元（主要在美国使用）。例如: "[The](/post/the/) [price](/post/price/) is 59 cents, [not](/post/not/) 60."
+- **名词**: 英镑中的最小货币单位，1便士等于0.01英镑。例如: "I [have](/zh/post/have/) [a](/zh/post/a/) [few](/zh/post/few/) pennies [in](/zh/post/in/) [my](/zh/post/my/) [pocket](/zh/post/pocket/)."
+- **名词**: 美元中的最小货币单位，1美分等于0.01美元（主要在美国使用）。例如: "[The](/zh/post/the/) [price](/zh/post/price/) is 59 cents, [not](/zh/post/not/) 60."
 
 ## 短语
-- "[A](/post/a/) [penny](/post/penny/) [for](/post/for/) [your](/post/your/) thoughts" 意思是询问对方的想法或意见。
-- "[Not](/post/not/) [worth](/post/worth/) [a](/post/a/) [penny](/post/penny/)" 表示毫无价值。
+- "[A](/zh/post/a/) [penny](/zh/post/penny/) [for](/zh/post/for/) [your](/zh/post/your/) thoughts" 意思是询问对方的想法或意见。
+- "[Not](/zh/post/not/) [worth](/zh/post/worth/) [a](/zh/post/a/) [penny](/zh/post/penny/)" 表示毫无价值。
 
 ## 例句
-- 名词: "[She](/post/she/) counted [out](/post/out/) [the](/post/the/) [exact](/post/exact/) [change](/post/change/), including [two](/post/two/) pennies."
-- 美元表述: "[The](/post/the/) vending [machine](/post/machine/) [only](/post/only/) accepts coins, [so](/post/so/) I had [to](/post/to/) [find](/post/find/) [some](/post/some/) pennies."
+- 名词: "[She](/zh/post/she/) counted [out](/zh/post/out/) [the](/zh/post/the/) [exact](/zh/post/exact/) [change](/zh/post/change/), including [two](/zh/post/two/) pennies."
+- 美元表述: "[The](/zh/post/the/) vending [machine](/zh/post/machine/) [only](/zh/post/only/) accepts coins, [so](/zh/post/so/) I had [to](/zh/post/to/) [find](/zh/post/find/) [some](/zh/post/some/) pennies."
 
 ## 同义词
-- [Cent](/post/cent/) (美国)
-- [Penny](/post/penny/) (英国)
-- [Coin](/post/coin/)
+- [Cent](/zh/post/cent/) (美国)
+- [Penny](/zh/post/penny/) (英国)
+- [Coin](/zh/post/coin/)
 - Fractional currency
-- [Small](/post/small/) [change](/post/change/)
+- [Small](/zh/post/small/) [change](/zh/post/change/)

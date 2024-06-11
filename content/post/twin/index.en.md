@@ -7,35 +7,35 @@ description = '[twin] a.孪生的 n.孪生儿'
 keywords = ['ai words', 'twin']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tuːn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Twin](/en/post/twin/)** (countable): [A](/en/post/a/) [pair](/en/post/pair/) [of](/en/post/of/) children [or](/en/post/or/) animals [born](/en/post/born/) [at](/en/post/at/) [the](/en/post/the/) [same](/en/post/same/) [time](/en/post/time/) [from](/en/post/from/) [the](/en/post/the/) [same](/en/post/same/) pregnancy, [usually](/en/post/usually/) having [similar](/en/post/similar/) characteristics. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [identical](/en/post/identical/) twins looked [almost](/en/post/almost/) [identical](/en/post/identical/)."
-2. **[Twin](/en/post/twin/) [bed](/en/post/bed/)**: [A](/en/post/a/) [single](/en/post/single/) [bed](/en/post/bed/) designed [for](/en/post/for/) [two](/en/post/two/) [people](/en/post/people/), [often](/en/post/often/) sharing [a](/en/post/a/) [frame](/en/post/frame/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [share](/en/post/share/) [a](/en/post/a/) [twin](/en/post/twin/) [room](/en/post/room/) [during](/en/post/during/) [their](/en/post/their/) [vacation](/en/post/vacation/)."
-3. **[Twin](/en/post/twin/) [flame](/en/post/flame/)**: (Slang) [A](/en/post/a/) deeply connected soulmate [or](/en/post/or/) [ideal](/en/post/ideal/) [partner](/en/post/partner/), [often](/en/post/often/) believed [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) counterpart [in](/en/post/in/) [a](/en/post/a/) metaphysical [sense](/en/post/sense/). [For](/en/post/for/) [example](/en/post/example/): "[Many](/en/post/many/) [people](/en/post/people/) [believe](/en/post/believe/) they've [found](/en/post/found/) [their](/en/post/their/) [twin](/en/post/twin/) [flame](/en/post/flame/) [after](/en/post/after/) years [of](/en/post/of/) searching."
+### [Noun](/post/noun/)
+1. **[Twin](/post/twin/)** (countable): [A](/post/a/) [pair](/post/pair/) [of](/post/of/) children [or](/post/or/) animals [born](/post/born/) [at](/post/at/) [the](/post/the/) [same](/post/same/) [time](/post/time/) [from](/post/from/) [the](/post/the/) [same](/post/same/) pregnancy, [usually](/post/usually/) having [similar](/post/similar/) characteristics. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [identical](/post/identical/) twins looked [almost](/post/almost/) [identical](/post/identical/)."
+2. **[Twin](/post/twin/) [bed](/post/bed/)**: [A](/post/a/) [single](/post/single/) [bed](/post/bed/) designed [for](/post/for/) [two](/post/two/) [people](/post/people/), [often](/post/often/) sharing [a](/post/a/) [frame](/post/frame/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [share](/post/share/) [a](/post/a/) [twin](/post/twin/) [room](/post/room/) [during](/post/during/) [their](/post/their/) [vacation](/post/vacation/)."
+3. **[Twin](/post/twin/) [flame](/post/flame/)**: (Slang) [A](/post/a/) deeply connected soulmate [or](/post/or/) [ideal](/post/ideal/) [partner](/post/partner/), [often](/post/often/) believed [to](/post/to/) [be](/post/be/) [a](/post/a/) counterpart [in](/post/in/) [a](/post/a/) metaphysical [sense](/post/sense/). [For](/post/for/) [example](/post/example/): "[Many](/post/many/) [people](/post/people/) [believe](/post/believe/) they've [found](/post/found/) [their](/post/their/) [twin](/post/twin/) [flame](/post/flame/) [after](/post/after/) years [of](/post/of/) searching."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [twin](/en/post/twin/)** ([with](/en/post/with/)): [To](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) matching [or](/en/post/or/) coordinated [appearance](/en/post/appearance/) [with](/en/post/with/) [another](/en/post/another/) [person](/en/post/person/), [place](/en/post/place/), [or](/en/post/or/) [thing](/en/post/thing/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) sisters [often](/en/post/often/) twinned [their](/en/post/their/) outfits [for](/en/post/for/) [special](/en/post/special/) events."
-2. **[To](/en/post/to/) [be](/en/post/be/) twinned [with](/en/post/with/)**: [To](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) partnership [or](/en/post/or/) [association](/en/post/association/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) context. [For](/en/post/for/) [example](/en/post/example/): "[Our](/en/post/our/) cities were twinned [to](/en/post/to/) [promote](/en/post/promote/) cultural [exchange](/en/post/exchange/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [twin](/post/twin/)** ([with](/post/with/)): [To](/post/to/) [create](/post/create/) [a](/post/a/) matching [or](/post/or/) coordinated [appearance](/post/appearance/) [with](/post/with/) [another](/post/another/) [person](/post/person/), [place](/post/place/), [or](/post/or/) [thing](/post/thing/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) sisters [often](/post/often/) twinned [their](/post/their/) outfits [for](/post/for/) [special](/post/special/) events."
+2. **[To](/post/to/) [be](/post/be/) twinned [with](/post/with/)**: [To](/post/to/) [form](/post/form/) [a](/post/a/) partnership [or](/post/or/) [association](/post/association/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [formal](/post/formal/) context. [For](/post/for/) [example](/post/example/): "[Our](/post/our/) cities were twinned [to](/post/to/) [promote](/post/promote/) cultural [exchange](/post/exchange/)."
 
 ## Phrases
-- "[Identical](/en/post/identical/) twins" [or](/en/post/or/) "fraternal twins"
-- "[Born](/en/post/born/) [a](/en/post/a/) [twin](/en/post/twin/)" [or](/en/post/or/) "raised [as](/en/post/as/) twins"
-- "Twinning phenomena" (referring [to](/en/post/to/) [natural](/en/post/natural/) [or](/en/post/or/) [scientific](/en/post/scientific/) similarities)
+- "[Identical](/post/identical/) twins" [or](/post/or/) "fraternal twins"
+- "[Born](/post/born/) [a](/post/a/) [twin](/post/twin/)" [or](/post/or/) "raised [as](/post/as/) twins"
+- "Twinning phenomena" (referring [to](/post/to/) [natural](/post/natural/) [or](/post/or/) [scientific](/post/scientific/) similarities)
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [identical](/en/post/identical/) twins were [so](/en/post/so/) [alike](/en/post/alike/) [that](/en/post/that/) [it](/en/post/it/) was [hard](/en/post/hard/) [to](/en/post/to/) [tell](/en/post/tell/) [them](/en/post/them/) [apart](/en/post/apart/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) twins decided [to](/en/post/to/) [twin](/en/post/twin/) [their](/en/post/their/) [study](/en/post/study/) spaces [with](/en/post/with/) desks facing [each](/en/post/each/) [other](/en/post/other/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[The](/en/post/the/) buildings [across](/en/post/across/) [the](/en/post/the/) [street](/en/post/street/) were twinned [in](/en/post/in/) architectural [style](/en/post/style/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [identical](/post/identical/) twins were [so](/post/so/) [alike](/post/alike/) [that](/post/that/) [it](/post/it/) was [hard](/post/hard/) [to](/post/to/) [tell](/post/tell/) [them](/post/them/) [apart](/post/apart/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) twins decided [to](/post/to/) [twin](/post/twin/) [their](/post/their/) [study](/post/study/) spaces [with](/post/with/) desks facing [each](/post/each/) [other](/post/other/)."
+- **[As](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "[The](/post/the/) buildings [across](/post/across/) [the](/post/the/) [street](/post/street/) were twinned [in](/post/in/) architectural [style](/post/style/)."
 
 ## Synonyms
 - Sibling
 - Duo
-- [Pair](/en/post/pair/)
-- [Match](/en/post/match/)
+- [Pair](/post/pair/)
+- [Match](/post/match/)
 - Counterpart
-- [Companion](/en/post/companion/)
+- [Companion](/post/companion/)
 
-### [Note](/en/post/note/): [The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) "[twin](/en/post/twin/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [greeting](/en/post/greeting/) [or](/en/post/or/) addressing is [less](/en/post/less/) [common](/en/post/common/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) informally [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) saying "[hello](/en/post/hello/)" [or](/en/post/or/) acknowledging [someone](/en/post/someone/). [However](/en/post/however/), "[greet](/en/post/greet/)" [or](/en/post/or/) "acknowledge" [would](/en/post/would/) [be](/en/post/be/) [more](/en/post/more/) [standard](/en/post/standard/) [in](/en/post/in/) [such](/en/post/such/) cases.
+### [Note](/post/note/): [The](/post/the/) [use](/post/use/) [of](/post/of/) "[twin](/post/twin/)" [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) [greeting](/post/greeting/) [or](/post/or/) addressing is [less](/post/less/) [common](/post/common/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) informally [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) saying "[hello](/post/hello/)" [or](/post/or/) acknowledging [someone](/post/someone/). [However](/post/however/), "[greet](/post/greet/)" [or](/post/or/) "acknowledge" [would](/post/would/) [be](/post/be/) [more](/post/more/) [standard](/post/standard/) [in](/post/in/) [such](/post/such/) cases.

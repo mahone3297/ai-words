@@ -7,44 +7,44 @@ description = '[əˈtempt] vt.尝试，试图 n.企图'
 keywords = ['ai words', 'attempt']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈtʌmənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- An [effort](/en/post/effort/) [or](/en/post/or/) [trial](/en/post/trial/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) succeeding: *[He](/en/post/he/) made [several](/en/post/several/) attempts [to](/en/post/to/) [solve](/en/post/solve/) [the](/en/post/the/) math [problem](/en/post/problem/).*
-- An [instance](/en/post/instance/) [or](/en/post/or/) [act](/en/post/act/) [of](/en/post/of/) trying: *[Her](/en/post/her/) [first](/en/post/first/) [attempt](/en/post/attempt/) [at](/en/post/at/) [public](/en/post/public/) speaking was [quite](/en/post/quite/) [successful](/en/post/successful/).*
+### [Noun](/post/noun/)
+- An [effort](/post/effort/) [or](/post/or/) [trial](/post/trial/) [to](/post/to/) [do](/post/do/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) succeeding: *[He](/post/he/) made [several](/post/several/) attempts [to](/post/to/) [solve](/post/solve/) [the](/post/the/) math [problem](/post/problem/).*
+- An [instance](/post/instance/) [or](/post/or/) [act](/post/act/) [of](/post/of/) trying: *[Her](/post/her/) [first](/post/first/) [attempt](/post/attempt/) [at](/post/at/) [public](/post/public/) speaking was [quite](/post/quite/) [successful](/post/successful/).*
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [try](/en/post/try/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [especially](/en/post/especially/) [with](/en/post/with/) [some](/en/post/some/) [difficulty](/en/post/difficulty/) [or](/en/post/or/) uncertainty: *I'm going [to](/en/post/to/) [attempt](/en/post/attempt/) [the](/en/post/the/) marathon [this](/en/post/this/) [year](/en/post/year/).*
-- [To](/en/post/to/) [make](/en/post/make/) an [effort](/en/post/effort/) [or](/en/post/or/) [proposal](/en/post/proposal/): *[He](/en/post/he/) attempted [to](/en/post/to/) negotiate [a](/en/post/a/) [better](/en/post/better/) [deal](/en/post/deal/).*
+### [Verb](/post/verb/)
+- [To](/post/to/) [try](/post/try/) [to](/post/to/) [do](/post/do/) [something](/post/something/), [especially](/post/especially/) [with](/post/with/) [some](/post/some/) [difficulty](/post/difficulty/) [or](/post/or/) uncertainty: *I'm going [to](/post/to/) [attempt](/post/attempt/) [the](/post/the/) marathon [this](/post/this/) [year](/post/year/).*
+- [To](/post/to/) [make](/post/make/) an [effort](/post/effort/) [or](/post/or/) [proposal](/post/proposal/): *[He](/post/he/) attempted [to](/post/to/) negotiate [a](/post/a/) [better](/post/better/) [deal](/post/deal/).*
 
-### [Adjective](/en/post/adjective/)
-- Characterizing [or](/en/post/or/) involving an [attempt](/en/post/attempt/): *[The](/en/post/the/) [attempt](/en/post/attempt/) [to](/en/post/to/) [simplify](/en/post/simplify/) [the](/en/post/the/) [process](/en/post/process/) was appreciated.*
+### [Adjective](/post/adjective/)
+- Characterizing [or](/post/or/) involving an [attempt](/post/attempt/): *[The](/post/the/) [attempt](/post/attempt/) [to](/post/to/) [simplify](/post/simplify/) [the](/post/the/) [process](/post/process/) was appreciated.*
 
 ## Phrases
-- "[Make](/en/post/make/) an [attempt](/en/post/attempt/)" [means](/en/post/means/) [to](/en/post/to/) [try](/en/post/try/) [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [task](/en/post/task/).
-- "Failed [attempt](/en/post/attempt/)" refers [to](/en/post/to/) [a](/en/post/a/) unsuccessful endeavor.
-- "[Without](/en/post/without/) [even](/en/post/even/) attempting" [means](/en/post/means/) [not](/en/post/not/) [even](/en/post/even/) trying.
+- "[Make](/post/make/) an [attempt](/post/attempt/)" [means](/post/means/) [to](/post/to/) [try](/post/try/) [or](/post/or/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [task](/post/task/).
+- "Failed [attempt](/post/attempt/)" refers [to](/post/to/) [a](/post/a/) unsuccessful endeavor.
+- "[Without](/post/without/) [even](/post/even/) attempting" [means](/post/means/) [not](/post/not/) [even](/post/even/) trying.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [several](/en/post/several/) failed attempts, [he](/en/post/he/) [finally](/en/post/finally/) solved [the](/en/post/the/) [puzzle](/en/post/puzzle/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [attempt](/en/post/attempt/) [a](/en/post/a/) [new](/en/post/new/) diet [to](/en/post/to/) [improve](/en/post/improve/) [his](/en/post/his/) [health](/en/post/health/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [attempt](/en/post/attempt/) [to](/en/post/to/) [bridge](/en/post/bridge/) [the](/en/post/the/) [gap](/en/post/gap/) [between](/en/post/between/) cultures was well-received."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [several](/post/several/) failed attempts, [he](/post/he/) [finally](/post/finally/) solved [the](/post/the/) [puzzle](/post/puzzle/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [attempt](/post/attempt/) [a](/post/a/) [new](/post/new/) diet [to](/post/to/) [improve](/post/improve/) [his](/post/his/) [health](/post/health/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [attempt](/post/attempt/) [to](/post/to/) [bridge](/post/bridge/) [the](/post/the/) [gap](/post/gap/) [between](/post/between/) cultures was well-received."
 
 ## Synonyms
-- [Effort](/en/post/effort/)
-- [Try](/en/post/try/)
+- [Effort](/post/effort/)
+- [Try](/post/try/)
 - Endeavor
-- [Shot](/en/post/shot/)
-- [Go](/en/post/go/)
-- [Pursuit](/en/post/pursuit/)
-- [Struggle](/en/post/struggle/)
-- Expenditure [of](/en/post/of/) [effort](/en/post/effort/)
+- [Shot](/post/shot/)
+- [Go](/post/go/)
+- [Pursuit](/post/pursuit/)
+- [Struggle](/post/struggle/)
+- Expenditure [of](/post/of/) [effort](/post/effort/)
 
 ## Antonyms
-- [Failure](/en/post/failure/)
+- [Failure](/post/failure/)
 - Abandonment
-- [Surrender](/en/post/surrender/)
-- [Lack](/en/post/lack/) [of](/en/post/of/) [effort](/en/post/effort/)
+- [Surrender](/post/surrender/)
+- [Lack](/post/lack/) [of](/post/of/) [effort](/post/effort/)
 - Inaction

@@ -7,41 +7,41 @@ description = '[ˈtemprit∫ə(r)] n.温度；体温'
 keywords = ['ai words', 'temperature']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɛmˈpərətʃər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Temperature](/en/post/temperature/)**: [The](/en/post/the/) [degree](/en/post/degree/) [of](/en/post/of/) hotness [or](/en/post/or/) coldness [of](/en/post/of/) [a](/en/post/a/) [substance](/en/post/substance/), measured [on](/en/post/on/) [a](/en/post/a/) [scale](/en/post/scale/), [such](/en/post/such/) [as](/en/post/as/) Celsius (°C) [or](/en/post/or/) Fahrenheit (°F).
-- **Ambient [temperature](/en/post/temperature/)**: [The](/en/post/the/) [general](/en/post/general/) [air](/en/post/air/) [temperature](/en/post/temperature/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [environment](/en/post/environment/).
-- **Thermal [comfort](/en/post/comfort/)**: [The](/en/post/the/) [condition](/en/post/condition/) [of](/en/post/of/) [being](/en/post/being/) [neither](/en/post/neither/) [too](/en/post/too/) [hot](/en/post/hot/) [nor](/en/post/nor/) [too](/en/post/too/) [cold](/en/post/cold/), considered [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [pleasant](/en/post/pleasant/) [level](/en/post/level/) [of](/en/post/of/) [temperature](/en/post/temperature/) [for](/en/post/for/) [human](/en/post/human/) [comfort](/en/post/comfort/).
+### [Noun](/post/noun/)
+- **[Temperature](/post/temperature/)**: [The](/post/the/) [degree](/post/degree/) [of](/post/of/) hotness [or](/post/or/) coldness [of](/post/of/) [a](/post/a/) [substance](/post/substance/), measured [on](/post/on/) [a](/post/a/) [scale](/post/scale/), [such](/post/such/) [as](/post/as/) Celsius (°C) [or](/post/or/) Fahrenheit (°F).
+- **Ambient [temperature](/post/temperature/)**: [The](/post/the/) [general](/post/general/) [air](/post/air/) [temperature](/post/temperature/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [environment](/post/environment/).
+- **Thermal [comfort](/post/comfort/)**: [The](/post/the/) [condition](/post/condition/) [of](/post/of/) [being](/post/being/) [neither](/post/neither/) [too](/post/too/) [hot](/post/hot/) [nor](/post/nor/) [too](/post/too/) [cold](/post/cold/), considered [to](/post/to/) [be](/post/be/) [a](/post/a/) [pleasant](/post/pleasant/) [level](/post/level/) [of](/post/of/) [temperature](/post/temperature/) [for](/post/for/) [human](/post/human/) [comfort](/post/comfort/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [measure](/en/post/measure/) [temperature](/en/post/temperature/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) determining [the](/en/post/the/) [heat](/en/post/heat/) [or](/en/post/or/) coldness [of](/en/post/of/) [something](/en/post/something/).
-- **[To](/en/post/to/) [regulate](/en/post/regulate/) [temperature](/en/post/temperature/)**: Adjusting [a](/en/post/a/) [system](/en/post/system/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) desired [level](/en/post/level/) [of](/en/post/of/) [warmth](/en/post/warmth/) [or](/en/post/or/) coolness.
+### [Verb](/post/verb/)
+- **[To](/post/to/) [measure](/post/measure/) [temperature](/post/temperature/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) determining [the](/post/the/) [heat](/post/heat/) [or](/post/or/) coldness [of](/post/of/) [something](/post/something/).
+- **[To](/post/to/) [regulate](/post/regulate/) [temperature](/post/temperature/)**: Adjusting [a](/post/a/) [system](/post/system/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) desired [level](/post/level/) [of](/post/of/) [warmth](/post/warmth/) [or](/post/or/) coolness.
 
 ## Phrases
-- "[Check](/en/post/check/) [the](/en/post/the/) [room](/en/post/room/) [temperature](/en/post/temperature/)" [to](/en/post/to/) [monitor](/en/post/monitor/) [the](/en/post/the/) ambient [temperature](/en/post/temperature/).
-- "[Keep](/en/post/keep/) [the](/en/post/the/) [temperature](/en/post/temperature/) [steady](/en/post/steady/)" [for](/en/post/for/) maintaining [a](/en/post/a/) [constant](/en/post/constant/) [level](/en/post/level/).
-- "[The](/en/post/the/) [thermometer](/en/post/thermometer/) [hit](/en/post/hit/) 100°F" [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [high](/en/post/high/) [temperature](/en/post/temperature/) [reading](/en/post/reading/).
+- "[Check](/post/check/) [the](/post/the/) [room](/post/room/) [temperature](/post/temperature/)" [to](/post/to/) [monitor](/post/monitor/) [the](/post/the/) ambient [temperature](/post/temperature/).
+- "[Keep](/post/keep/) [the](/post/the/) [temperature](/post/temperature/) [steady](/post/steady/)" [for](/post/for/) maintaining [a](/post/a/) [constant](/post/constant/) [level](/post/level/).
+- "[The](/post/the/) [thermometer](/post/thermometer/) [hit](/post/hit/) 100°F" [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [high](/post/high/) [temperature](/post/temperature/) [reading](/post/reading/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [temperature](/en/post/temperature/) [outside](/en/post/outside/) dropped significantly [overnight](/en/post/overnight/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) thermostat regulates [the](/en/post/the/) [temperature](/en/post/temperature/) [inside](/en/post/inside/) [the](/en/post/the/) [house](/en/post/house/)."
-- **Phrasal**: "[The](/en/post/the/) plants [require](/en/post/require/) [a](/en/post/a/) [consistent](/en/post/consistent/) [temperature](/en/post/temperature/) [to](/en/post/to/) [thrive](/en/post/thrive/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [temperature](/post/temperature/) [outside](/post/outside/) dropped significantly [overnight](/post/overnight/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) thermostat regulates [the](/post/the/) [temperature](/post/temperature/) [inside](/post/inside/) [the](/post/the/) [house](/post/house/)."
+- **Phrasal**: "[The](/post/the/) plants [require](/post/require/) [a](/post/a/) [consistent](/post/consistent/) [temperature](/post/temperature/) [to](/post/to/) [thrive](/post/thrive/)."
 
 ## Synonyms
-- [Heat](/en/post/heat/)
+- [Heat](/post/heat/)
 - Coldness
-- [Climate](/en/post/climate/)
-- [Temper](/en/post/temper/)
-- [Atmospheric](/en/post/atmospheric/) conditions
-- Thermal [range](/en/post/range/)
+- [Climate](/post/climate/)
+- [Temper](/post/temper/)
+- [Atmospheric](/post/atmospheric/) conditions
+- Thermal [range](/post/range/)
 
 ## Antonyms
-- [Cold](/en/post/cold/)
-- [Hot](/en/post/hot/)
-- [Warmth](/en/post/warmth/)
-- [Chill](/en/post/chill/)
+- [Cold](/post/cold/)
+- [Hot](/post/hot/)
+- [Warmth](/post/warmth/)
+- [Chill](/post/chill/)
 - Coolness
-- Frostbite ([for](/en/post/for/) [very](/en/post/very/) [low](/en/post/low/) temperatures)
+- Frostbite ([for](/post/for/) [very](/post/very/) [low](/post/low/) temperatures)

@@ -11,21 +11,21 @@ keywords = ['ai words', 'competition']
 /ˌkɒmpəˈtɪʃn/
 
 ## 释义
-- **名词**: 竞争；比赛；对抗。例如: "[The](/post/the/) [company](/post/company/) faces [strong](/post/strong/) [competition](/post/competition/) [in](/post/in/) [the](/post/the/) [market](/post/market/)."
-- **动词**: 与…竞争。例如: "[She](/post/she/) competes [with](/post/with/) [her](/post/her/) [sister](/post/sister/) [for](/post/for/) [their](/post/their/) parents' [attention](/post/attention/)."
+- **名词**: 竞争；比赛；对抗。例如: "[The](/zh/post/the/) [company](/zh/post/company/) faces [strong](/zh/post/strong/) [competition](/zh/post/competition/) [in](/zh/post/in/) [the](/zh/post/the/) [market](/zh/post/market/)."
+- **动词**: 与…竞争。例如: "[She](/zh/post/she/) competes [with](/zh/post/with/) [her](/zh/post/her/) [sister](/zh/post/sister/) [for](/zh/post/for/) [their](/zh/post/their/) parents' [attention](/zh/post/attention/)."
 
 ## 短语
-- "[Competition](/post/competition/) is [fierce](/post/fierce/)" 表示竞争非常激烈。
-- "[Participate](/post/participate/) [in](/post/in/) [a](/post/a/) [competition](/post/competition/)" 意为参加比赛。
-- "[Fair](/post/fair/) [competition](/post/competition/)" 指公正的竞争。
+- "[Competition](/zh/post/competition/) is [fierce](/zh/post/fierce/)" 表示竞争非常激烈。
+- "[Participate](/zh/post/participate/) [in](/zh/post/in/) [a](/zh/post/a/) [competition](/zh/post/competition/)" 意为参加比赛。
+- "[Fair](/zh/post/fair/) [competition](/zh/post/competition/)" 指公正的竞争。
 
 ## 例句
-- 名词: "[The](/post/the/) [local](/post/local/) businesses [struggle](/post/struggle/) [due](/post/due/) [to](/post/to/) [the](/post/the/) increasing [competition](/post/competition/) [from](/post/from/) online retailers."
-- 动词: "[He](/post/he/) competes [in](/post/in/) triathlons [regularly](/post/regularly/) [to](/post/to/) [keep](/post/keep/) [himself](/post/himself/) [fit](/post/fit/)."
+- 名词: "[The](/zh/post/the/) [local](/zh/post/local/) businesses [struggle](/zh/post/struggle/) [due](/zh/post/due/) [to](/zh/post/to/) [the](/zh/post/the/) increasing [competition](/zh/post/competition/) [from](/zh/post/from/) online retailers."
+- 动词: "[He](/zh/post/he/) competes [in](/zh/post/in/) triathlons [regularly](/zh/post/regularly/) [to](/zh/post/to/) [keep](/zh/post/keep/) [himself](/zh/post/himself/) [fit](/zh/post/fit/)."
 
 ## 同义词
-- [Contest](/post/contest/)
+- [Contest](/zh/post/contest/)
 - Rivalry
-- [Battle](/post/battle/)
-- [Match](/post/match/)
+- [Battle](/zh/post/battle/)
+- [Match](/zh/post/match/)
 - Tussle

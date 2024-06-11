@@ -11,19 +11,19 @@ keywords = ['ai words', 'sensitive']
 /ˈsɛnsətɪv/
 
 ## 释义
-- **形容词**: 敏感的；易受伤害的；有感觉的；灵敏的；对…有反应的。例如: "[She](/post/she/) is [sensitive](/post/sensitive/) [to](/post/to/) [other](/post/other/) people's feelings." 
-- **名词**: 敏感的人或事物。例如: "[He](/post/he/) has [a](/post/a/) [sensitive](/post/sensitive/) [nature](/post/nature/)."
+- **形容词**: 敏感的；易受伤害的；有感觉的；灵敏的；对…有反应的。例如: "[She](/zh/post/she/) is [sensitive](/zh/post/sensitive/) [to](/zh/post/to/) [other](/zh/post/other/) people's feelings." 
+- **名词**: 敏感的人或事物。例如: "[He](/zh/post/he/) has [a](/zh/post/a/) [sensitive](/zh/post/sensitive/) [nature](/zh/post/nature/)."
 
 ## 短语
-- "[be](/post/be/) [sensitive](/post/sensitive/) [about](/post/about/)" 意为对…敏感或在意，例如: "[She](/post/she/) is [very](/post/very/) [sensitive](/post/sensitive/) [about](/post/about/) [her](/post/her/) [weight](/post/weight/)."
-- "[sensitive](/post/sensitive/) [information](/post/information/)" 指的是需要保密的信息。
+- "[be](/zh/post/be/) [sensitive](/zh/post/sensitive/) [about](/zh/post/about/)" 意为对…敏感或在意，例如: "[She](/zh/post/she/) is [very](/zh/post/very/) [sensitive](/zh/post/sensitive/) [about](/zh/post/about/) [her](/zh/post/her/) [weight](/zh/post/weight/)."
+- "[sensitive](/zh/post/sensitive/) [information](/zh/post/information/)" 指的是需要保密的信息。
 
 ## 例句
-- 形容词: "[The](/post/the/) baby's [skin](/post/skin/) is [so](/post/so/) [sensitive](/post/sensitive/) [that](/post/that/) [it](/post/it/) [easily](/post/easily/) gets irritated."
-- 名词: "[The](/post/the/) [artist](/post/artist/) is known [for](/post/for/) [his](/post/his/) [sensitive](/post/sensitive/) portrayal [of](/post/of/) [human](/post/human/) emotions."
+- 形容词: "[The](/zh/post/the/) baby's [skin](/zh/post/skin/) is [so](/zh/post/so/) [sensitive](/zh/post/sensitive/) [that](/zh/post/that/) [it](/zh/post/it/) [easily](/zh/post/easily/) gets irritated."
+- 名词: "[The](/zh/post/the/) [artist](/zh/post/artist/) is known [for](/zh/post/for/) [his](/zh/post/his/) [sensitive](/zh/post/sensitive/) portrayal [of](/zh/post/of/) [human](/zh/post/human/) emotions."
 
 ## 同义词
-- [Delicate](/post/delicate/)
+- [Delicate](/zh/post/delicate/)
 - Touchy
 - Responsive
 - Perceptive

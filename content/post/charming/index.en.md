@@ -7,22 +7,22 @@ description = '[ˈt∫ɑːmiŋ] a.迷人的，可爱的'
 keywords = ['ai words', 'charming']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃɑːrmɪŋ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Attractively pleasing; delightful [or](/en/post/or/) endearing [in](/en/post/in/) [appearance](/en/post/appearance/), [manner](/en/post/manner/), [or](/en/post/or/) [character](/en/post/character/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) had [a](/en/post/a/) [charming](/en/post/charming/) [garden](/en/post/garden/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [charming](/en/post/charming/) [manner](/en/post/manner/); delightfully. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke [in](/en/post/in/) [a](/en/post/a/) charmingly [polite](/en/post/polite/) [way](/en/post/way/)."
+- **[Adjective](/post/adjective/)**: Attractively pleasing; delightful [or](/post/or/) endearing [in](/post/in/) [appearance](/post/appearance/), [manner](/post/manner/), [or](/post/or/) [character](/post/character/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [old](/post/old/) [house](/post/house/) had [a](/post/a/) [charming](/post/charming/) [garden](/post/garden/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [charming](/post/charming/) [manner](/post/manner/); delightfully. [For](/post/for/) [example](/post/example/): "[She](/post/she/) spoke [in](/post/in/) [a](/post/a/) charmingly [polite](/post/polite/) [way](/post/way/)."
 
 ## Phrases
-- "[Charming](/en/post/charming/) [smile](/en/post/smile/)" refers [to](/en/post/to/) [a](/en/post/a/) pleasing [and](/en/post/and/) [attractive](/en/post/attractive/) [smile](/en/post/smile/).
-- "[Charming](/en/post/charming/) personality" describes [someone](/en/post/someone/) [with](/en/post/with/) an appealing [and](/en/post/and/) likable disposition.
-- "[Charming](/en/post/charming/) locale" is [a](/en/post/a/) picturesque [or](/en/post/or/) delightful [location](/en/post/location/).
+- "[Charming](/post/charming/) [smile](/post/smile/)" refers [to](/post/to/) [a](/post/a/) pleasing [and](/post/and/) [attractive](/post/attractive/) [smile](/post/smile/).
+- "[Charming](/post/charming/) personality" describes [someone](/post/someone/) [with](/post/with/) an appealing [and](/post/and/) likable disposition.
+- "[Charming](/post/charming/) locale" is [a](/post/a/) picturesque [or](/post/or/) delightful [location](/post/location/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [little](/en/post/little/) [girl](/en/post/girl/) wore [a](/en/post/a/) [charming](/en/post/charming/) [dress](/en/post/dress/) [for](/en/post/for/) [the](/en/post/the/) [wedding](/en/post/wedding/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) host's charmingly informal [welcome](/en/post/welcome/) made [everyone](/en/post/everyone/) [feel](/en/post/feel/) [at](/en/post/at/) [ease](/en/post/ease/)."
-- "[The](/en/post/the/) [book](/en/post/book/) had [a](/en/post/a/) [charming](/en/post/charming/) storyline [that](/en/post/that/) captivated readers."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [little](/post/little/) [girl](/post/girl/) wore [a](/post/a/) [charming](/post/charming/) [dress](/post/dress/) [for](/post/for/) [the](/post/the/) [wedding](/post/wedding/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) host's charmingly informal [welcome](/post/welcome/) made [everyone](/post/everyone/) [feel](/post/feel/) [at](/post/at/) [ease](/post/ease/)."
+- "[The](/post/the/) [book](/post/book/) had [a](/post/a/) [charming](/post/charming/) storyline [that](/post/that/) captivated readers."
 
 ## Synonyms
 - Enchanting
@@ -32,8 +32,8 @@ keywords = ['ai words', 'charming']
 - Agreeable
 
 ## Antonyms
-- [Ugly](/en/post/ugly/)
-- [Dull](/en/post/dull/)
+- [Ugly](/post/ugly/)
+- [Dull](/post/dull/)
 - Unappealing
 - Repulsive
 - Unlikable

@@ -7,29 +7,29 @@ description = '[hiː] pron.(主格)他'
 keywords = ['ai words', 'he']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[hi](/en/post/hi/)/
+## [Pronunciation](/post/pronunciation/)
+/[hi](/post/hi/)/
 
 ## Definitions
-- **[Pronoun](/en/post/pronoun/)**: [The](/en/post/the/) third-person [singular](/en/post/singular/) masculine [personal](/en/post/personal/) [pronoun](/en/post/pronoun/), [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [male](/en/post/male/) [person](/en/post/person/) [or](/en/post/or/) [animal](/en/post/animal/) [previously](/en/post/previously/) mentioned [or](/en/post/or/) [easily](/en/post/easily/) identified. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) went [to](/en/post/to/) [the](/en/post/the/) [store](/en/post/store/)."
-- **[Subject](/en/post/subject/) [Pronoun](/en/post/pronoun/)**: [As](/en/post/as/) [a](/en/post/a/) [subject](/en/post/subject/) [pronoun](/en/post/pronoun/), it's [used](/en/post/used/) [as](/en/post/as/) [the](/en/post/the/) [subject](/en/post/subject/) [of](/en/post/of/) [a](/en/post/a/) [sentence](/en/post/sentence/) [to](/en/post/to/) [indicate](/en/post/indicate/) [who](/en/post/who/) [or](/en/post/or/) [what](/en/post/what/) performs [the](/en/post/the/) [action](/en/post/action/). [Example](/en/post/example/): "[He](/en/post/he/) loves playing [football](/en/post/football/)."
-- **[Object](/en/post/object/) [Pronoun](/en/post/pronoun/)**: [As](/en/post/as/) an [object](/en/post/object/) [pronoun](/en/post/pronoun/), it's [used](/en/post/used/) [as](/en/post/as/) [the](/en/post/the/) [direct](/en/post/direct/) [object](/en/post/object/) ([receiver](/en/post/receiver/) [of](/en/post/of/) [the](/en/post/the/) [action](/en/post/action/)) [or](/en/post/or/) [indirect](/en/post/indirect/) [object](/en/post/object/) ([receiver](/en/post/receiver/) [of](/en/post/of/) [the](/en/post/the/) [direct](/en/post/direct/) [object](/en/post/object/)). [Example](/en/post/example/): "I [saw](/en/post/saw/) [him](/en/post/him/) [yesterday](/en/post/yesterday/)." [or](/en/post/or/) "[She](/en/post/she/) gave [him](/en/post/him/) [the](/en/post/the/) [book](/en/post/book/)."
+- **[Pronoun](/post/pronoun/)**: [The](/post/the/) third-person [singular](/post/singular/) masculine [personal](/post/personal/) [pronoun](/post/pronoun/), [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [male](/post/male/) [person](/post/person/) [or](/post/or/) [animal](/post/animal/) [previously](/post/previously/) mentioned [or](/post/or/) [easily](/post/easily/) identified. [For](/post/for/) [example](/post/example/): "[He](/post/he/) went [to](/post/to/) [the](/post/the/) [store](/post/store/)."
+- **[Subject](/post/subject/) [Pronoun](/post/pronoun/)**: [As](/post/as/) [a](/post/a/) [subject](/post/subject/) [pronoun](/post/pronoun/), it's [used](/post/used/) [as](/post/as/) [the](/post/the/) [subject](/post/subject/) [of](/post/of/) [a](/post/a/) [sentence](/post/sentence/) [to](/post/to/) [indicate](/post/indicate/) [who](/post/who/) [or](/post/or/) [what](/post/what/) performs [the](/post/the/) [action](/post/action/). [Example](/post/example/): "[He](/post/he/) loves playing [football](/post/football/)."
+- **[Object](/post/object/) [Pronoun](/post/pronoun/)**: [As](/post/as/) an [object](/post/object/) [pronoun](/post/pronoun/), it's [used](/post/used/) [as](/post/as/) [the](/post/the/) [direct](/post/direct/) [object](/post/object/) ([receiver](/post/receiver/) [of](/post/of/) [the](/post/the/) [action](/post/action/)) [or](/post/or/) [indirect](/post/indirect/) [object](/post/object/) ([receiver](/post/receiver/) [of](/post/of/) [the](/post/the/) [direct](/post/direct/) [object](/post/object/)). [Example](/post/example/): "I [saw](/post/saw/) [him](/post/him/) [yesterday](/post/yesterday/)." [or](/post/or/) "[She](/post/she/) gave [him](/post/him/) [the](/post/the/) [book](/post/book/)."
 
 ## Phrases
-- "It's [up](/en/post/up/) [to](/en/post/to/) [him](/en/post/him/)": [Meaning](/en/post/meaning/) [the](/en/post/the/) [responsibility](/en/post/responsibility/) lies [with](/en/post/with/) [the](/en/post/the/) [male](/en/post/male/) [individual](/en/post/individual/) [being](/en/post/being/) referred [to](/en/post/to/).
-- "He's got [it](/en/post/it/)": Expressing [that](/en/post/that/) [the](/en/post/the/) [person](/en/post/person/) possesses [something](/en/post/something/) [or](/en/post/or/) has achieved [something](/en/post/something/).
-- "[He](/en/post/he/) said/[she](/en/post/she/) said": Refers [to](/en/post/to/) conflicting accounts [from](/en/post/from/) [two](/en/post/two/) [people](/en/post/people/).
+- "It's [up](/post/up/) [to](/post/to/) [him](/post/him/)": [Meaning](/post/meaning/) [the](/post/the/) [responsibility](/post/responsibility/) lies [with](/post/with/) [the](/post/the/) [male](/post/male/) [individual](/post/individual/) [being](/post/being/) referred [to](/post/to/).
+- "He's got [it](/post/it/)": Expressing [that](/post/that/) [the](/post/the/) [person](/post/person/) possesses [something](/post/something/) [or](/post/or/) has achieved [something](/post/something/).
+- "[He](/post/he/) said/[she](/post/she/) said": Refers [to](/post/to/) conflicting accounts [from](/post/from/) [two](/post/two/) [people](/post/people/).
 
-## [Example](/en/post/example/) Sentences
-- **[Subject](/en/post/subject/) [Pronoun](/en/post/pronoun/)**: "[He](/en/post/he/) is [the](/en/post/the/) [one](/en/post/one/) [who](/en/post/who/) fixed [the](/en/post/the/) [computer](/en/post/computer/)."
-- **[Object](/en/post/object/) [Pronoun](/en/post/pronoun/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [him](/en/post/him/) [to](/en/post/to/) [answer](/en/post/answer/) [the](/en/post/the/) [question](/en/post/question/)."
-- **Possessive [Form](/en/post/form/)**: "[His](/en/post/his/) [dog](/en/post/dog/) chased [the](/en/post/the/) [cat](/en/post/cat/)."
+## [Example](/post/example/) Sentences
+- **[Subject](/post/subject/) [Pronoun](/post/pronoun/)**: "[He](/post/he/) is [the](/post/the/) [one](/post/one/) [who](/post/who/) fixed [the](/post/the/) [computer](/post/computer/)."
+- **[Object](/post/object/) [Pronoun](/post/pronoun/)**: "[The](/post/the/) [teacher](/post/teacher/) asked [him](/post/him/) [to](/post/to/) [answer](/post/answer/) [the](/post/the/) [question](/post/question/)."
+- **Possessive [Form](/post/form/)**: "[His](/post/his/) [dog](/post/dog/) chased [the](/post/the/) [cat](/post/cat/)."
 
 ## Synonyms
-- [Him](/en/post/him/)
-- [Himself](/en/post/himself/)
-- [The](/en/post/the/) [man](/en/post/man/)
-- [That](/en/post/that/) [man](/en/post/man/)
-- [This](/en/post/this/) [man](/en/post/man/)
+- [Him](/post/him/)
+- [Himself](/post/himself/)
+- [The](/post/the/) [man](/post/man/)
+- [That](/post/that/) [man](/post/man/)
+- [This](/post/this/) [man](/post/man/)
 
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) "[he](/en/post/he/)" doesn't [have](/en/post/have/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) [apart](/en/post/apart/) [from](/en/post/from/) [being](/en/post/being/) [a](/en/post/a/) [pronoun](/en/post/pronoun/). [It](/en/post/it/) [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [subject](/en/post/subject/) [or](/en/post/or/) [object](/en/post/object/) [pronoun](/en/post/pronoun/) [but](/en/post/but/) does [not](/en/post/not/) [have](/en/post/have/) [noun](/en/post/noun/), [verb](/en/post/verb/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), [preposition](/en/post/preposition/), [conjunction](/en/post/conjunction/), numeral, [or](/en/post/or/) interjection uses.
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) "[he](/post/he/)" doesn't [have](/post/have/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) [apart](/post/apart/) [from](/post/from/) [being](/post/being/) [a](/post/a/) [pronoun](/post/pronoun/). [It](/post/it/) [can](/post/can/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [subject](/post/subject/) [or](/post/or/) [object](/post/object/) [pronoun](/post/pronoun/) [but](/post/but/) does [not](/post/not/) [have](/post/have/) [noun](/post/noun/), [verb](/post/verb/), [adjective](/post/adjective/), [adverb](/post/adverb/), [preposition](/post/preposition/), [conjunction](/post/conjunction/), numeral, [or](/post/or/) interjection uses.

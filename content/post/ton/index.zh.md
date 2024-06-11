@@ -11,21 +11,21 @@ keywords = ['ai words', 'ton']
 /tɒn/
 
 ## 释义
-- **名词**: 重量单位，通常指2000磅（约907公斤）；大量，许多。例如: "[The](/post/the/) [truck](/post/truck/) [can](/post/can/) [carry](/post/carry/) [several](/post/several/) tons [of](/post/of/) [cargo](/post/cargo/)."，"[She](/post/she/) received tons [of](/post/of/) messages [after](/post/after/) posting [the](/post/the/) [news](/post/news/) online."
-- **形容词**: 大量的，很多的。例如: "[He](/post/he/) has [a](/post/a/) [ton](/post/ton/) [of](/post/of/) [work](/post/work/) [to](/post/to/) [do](/post/do/) [before](/post/before/) [the](/post/the/) deadline."
+- **名词**: 重量单位，通常指2000磅（约907公斤）；大量，许多。例如: "[The](/zh/post/the/) [truck](/zh/post/truck/) [can](/zh/post/can/) [carry](/zh/post/carry/) [several](/zh/post/several/) tons [of](/zh/post/of/) [cargo](/zh/post/cargo/)."，"[She](/zh/post/she/) received tons [of](/zh/post/of/) messages [after](/zh/post/after/) posting [the](/zh/post/the/) [news](/zh/post/news/) online."
+- **形容词**: 大量的，很多的。例如: "[He](/zh/post/he/) has [a](/zh/post/a/) [ton](/zh/post/ton/) [of](/zh/post/of/) [work](/zh/post/work/) [to](/zh/post/to/) [do](/zh/post/do/) [before](/zh/post/before/) [the](/zh/post/the/) deadline."
 
 ## 短语
-- "tons [of](/post/of/)" 表示大量的，许多的。例如: "[They](/post/they/) [have](/post/have/) tons [of](/post/of/) [experience](/post/experience/) [in](/post/in/) [this](/post/this/) [field](/post/field/)."
-- "[a](/post/a/) tonne [of](/post/of/)" 在某些地区，特别是欧洲，用来表示公吨（1000公斤）。
+- "tons [of](/zh/post/of/)" 表示大量的，许多的。例如: "[They](/zh/post/they/) [have](/zh/post/have/) tons [of](/zh/post/of/) [experience](/zh/post/experience/) [in](/zh/post/in/) [this](/zh/post/this/) [field](/zh/post/field/)."
+- "[a](/zh/post/a/) tonne [of](/zh/post/of/)" 在某些地区，特别是欧洲，用来表示公吨（1000公斤）。
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [bridge](/post/bridge/) is designed [to](/post/to/) [hold](/post/hold/) [up](/post/up/) [to](/post/to/) [fifty](/post/fifty/) tons."
-- 形容词: "[She](/post/she/) [learned](/post/learned/) [a](/post/a/) [ton](/post/ton/) [about](/post/about/) gardening [from](/post/from/) [her](/post/her/) [grandmother](/post/grandmother/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [bridge](/zh/post/bridge/) is designed [to](/zh/post/to/) [hold](/zh/post/hold/) [up](/zh/post/up/) [to](/zh/post/to/) [fifty](/zh/post/fifty/) tons."
+- 形容词: "[She](/zh/post/she/) [learned](/zh/post/learned/) [a](/zh/post/a/) [ton](/zh/post/ton/) [about](/zh/post/about/) gardening [from](/zh/post/from/) [her](/zh/post/her/) [grandmother](/zh/post/grandmother/)."
 
 ## 同义词
-- (表示数量大) [plenty](/post/plenty/) [of](/post/of/)
-- loads [of](/post/of/)
-- masses [of](/post/of/)
-- heaps [of](/post/of/)
-- [a](/post/a/) [great](/post/great/) [deal](/post/deal/) [of](/post/of/)
-- [a](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/)
+- (表示数量大) [plenty](/zh/post/plenty/) [of](/zh/post/of/)
+- loads [of](/zh/post/of/)
+- masses [of](/zh/post/of/)
+- heaps [of](/zh/post/of/)
+- [a](/zh/post/a/) [great](/zh/post/great/) [deal](/zh/post/deal/) [of](/zh/post/of/)
+- [a](/zh/post/a/) [large](/zh/post/large/) [amount](/zh/post/amount/) [of](/zh/post/of/)

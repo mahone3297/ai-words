@@ -7,34 +7,34 @@ description = '[ˈmeni] a.许多的 pron.许多人'
 keywords = ['ai words', 'many']
 +++
 
-## [Word](/en/post/word/): [Many](/en/post/many/)
+## [Word](/post/word/): [Many](/post/many/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmeni/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Denoting [a](/en/post/a/) [large](/en/post/large/) [but](/en/post/but/) unspecified [number](/en/post/number/) [of](/en/post/of/) [people](/en/post/people/) [or](/en/post/or/) things. [For](/en/post/for/) [example](/en/post/example/):
-  - _There were [many](/en/post/many/) [people](/en/post/people/) [at](/en/post/at/) [the](/en/post/the/) [concert](/en/post/concert/)._
-  - _I [have](/en/post/have/) [many](/en/post/many/) books [on](/en/post/on/) [this](/en/post/this/) [topic](/en/post/topic/)._
+- **[Adjective](/post/adjective/)**: Denoting [a](/post/a/) [large](/post/large/) [but](/post/but/) unspecified [number](/post/number/) [of](/post/of/) [people](/post/people/) [or](/post/or/) things. [For](/post/for/) [example](/post/example/):
+  - _There were [many](/post/many/) [people](/post/people/) [at](/post/at/) [the](/post/the/) [concert](/post/concert/)._
+  - _I [have](/post/have/) [many](/post/many/) books [on](/post/on/) [this](/post/this/) [topic](/post/topic/)._
 
 ## Phrases
-- "[Many](/en/post/many/) [a](/en/post/a/)/an": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [before](/en/post/before/) [a](/en/post/a/) [singular](/en/post/singular/) countable [noun](/en/post/noun/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [that](/en/post/that/) [something](/en/post/something/) happens [frequently](/en/post/frequently/) [or](/en/post/or/) applies [to](/en/post/to/) [numerous](/en/post/numerous/) instances. [Example](/en/post/example/): _Many [a](/en/post/a/) [night](/en/post/night/) was spent [under](/en/post/under/) [the](/en/post/the/) stars._
-- "[Many](/en/post/many/) [of](/en/post/of/)": It's [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [large](/en/post/large/) [number](/en/post/number/) [within](/en/post/within/) [a](/en/post/a/) [particular](/en/post/particular/) [group](/en/post/group/). [Example](/en/post/example/): _Many [of](/en/post/of/) [his](/en/post/his/) friends attended [the](/en/post/the/) [event](/en/post/event/)._
-- "[As](/en/post/as/) [many](/en/post/many/) [as](/en/post/as/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [to](/en/post/to/) [compare](/en/post/compare/) quantities, [often](/en/post/often/) suggesting [a](/en/post/a/) [surprising](/en/post/surprising/) [or](/en/post/or/) [impressive](/en/post/impressive/) [amount](/en/post/amount/). [Example](/en/post/example/): _The [stadium](/en/post/stadium/) [can](/en/post/can/) [hold](/en/post/hold/) [as](/en/post/as/) [many](/en/post/many/) [as](/en/post/as/) 80,000 [people](/en/post/people/)._
+- "[Many](/post/many/) [a](/post/a/)/an": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [before](/post/before/) [a](/post/a/) [singular](/post/singular/) countable [noun](/post/noun/) [to](/post/to/) [emphasize](/post/emphasize/) [that](/post/that/) [something](/post/something/) happens [frequently](/post/frequently/) [or](/post/or/) applies [to](/post/to/) [numerous](/post/numerous/) instances. [Example](/post/example/): _Many [a](/post/a/) [night](/post/night/) was spent [under](/post/under/) [the](/post/the/) stars._
+- "[Many](/post/many/) [of](/post/of/)": It's [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [large](/post/large/) [number](/post/number/) [within](/post/within/) [a](/post/a/) [particular](/post/particular/) [group](/post/group/). [Example](/post/example/): _Many [of](/post/of/) [his](/post/his/) friends attended [the](/post/the/) [event](/post/event/)._
+- "[As](/post/as/) [many](/post/many/) [as](/post/as/)": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [to](/post/to/) [compare](/post/compare/) quantities, [often](/post/often/) suggesting [a](/post/a/) [surprising](/post/surprising/) [or](/post/or/) [impressive](/post/impressive/) [amount](/post/amount/). [Example](/post/example/): _The [stadium](/post/stadium/) [can](/post/can/) [hold](/post/hold/) [as](/post/as/) [many](/post/many/) [as](/post/as/) 80,000 [people](/post/people/)._
 
-## [Example](/en/post/example/) Sentences
-- _Many students decided [to](/en/post/to/) [attend](/en/post/attend/) [the](/en/post/the/) [optional](/en/post/optional/) [class](/en/post/class/)._
-- _She has [many](/en/post/many/) hobbies, including [painting](/en/post/painting/) [and](/en/post/and/) photography._
-- _In [ancient](/en/post/ancient/) times, [many](/en/post/many/) cultures believed [in](/en/post/in/) [multiple](/en/post/multiple/) gods._
+## [Example](/post/example/) Sentences
+- _Many students decided [to](/post/to/) [attend](/post/attend/) [the](/post/the/) [optional](/post/optional/) [class](/post/class/)._
+- _She has [many](/post/many/) hobbies, including [painting](/post/painting/) [and](/post/and/) photography._
+- _In [ancient](/post/ancient/) times, [many](/post/many/) cultures believed [in](/post/in/) [multiple](/post/multiple/) gods._
 
 ## Synonyms
-- [Numerous](/en/post/numerous/)
-- [Plenty](/en/post/plenty/)
-- [Several](/en/post/several/)
+- [Numerous](/post/numerous/)
+- [Plenty](/post/plenty/)
+- [Several](/post/several/)
 - Countless
 - Multitudinous
-- [Abundant](/en/post/abundant/)
+- [Abundant](/post/abundant/)
 - Numerousness
-- [A](/en/post/a/) [lot](/en/post/lot/) (informal)
-- [A](/en/post/a/) [great](/en/post/great/) [number](/en/post/number/) [of](/en/post/of/)
-- [A](/en/post/a/) multitude [of](/en/post/of/)
+- [A](/post/a/) [lot](/post/lot/) (informal)
+- [A](/post/a/) [great](/post/great/) [number](/post/number/) [of](/post/of/)
+- [A](/post/a/) multitude [of](/post/of/)

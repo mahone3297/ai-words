@@ -7,32 +7,32 @@ description = '[ˈmeinli] ad.主要地，大体上'
 keywords = ['ai words', 'mainly']
 +++
 
-## [Word](/en/post/word/): [Mainly](/en/post/mainly/)
+## [Word](/post/word/): [Mainly](/post/mainly/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmeɪnli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Predominantly; [mostly](/en/post/mostly/); [primarily](/en/post/primarily/); [for](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/). [It](/en/post/it/) is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is [the](/en/post/the/) [chief](/en/post/chief/) [or](/en/post/or/) [principal](/en/post/principal/) [element](/en/post/element/), [factor](/en/post/factor/), [or](/en/post/or/) [cause](/en/post/cause/).
+- **[Adverb](/post/adverb/)**: Predominantly; [mostly](/post/mostly/); [primarily](/post/primarily/); [for](/post/for/) [the](/post/the/) [most](/post/most/) [part](/post/part/). [It](/post/it/) is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is [the](/post/the/) [chief](/post/chief/) [or](/post/or/) [principal](/post/principal/) [element](/post/element/), [factor](/post/factor/), [or](/post/or/) [cause](/post/cause/).
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _The project's [success](/en/post/success/) was [mainly](/en/post/mainly/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) team's [hard](/en/post/hard/) [work](/en/post/work/)._
+[Example](/post/example/) [sentence](/post/sentence/): _The project's [success](/post/success/) was [mainly](/post/mainly/) [due](/post/due/) [to](/post/to/) [the](/post/the/) team's [hard](/post/hard/) [work](/post/work/)._
 
 ## Phrases
-- **[Mainly](/en/post/mainly/) [because](/en/post/because/)**: Indicates [the](/en/post/the/) [primary](/en/post/primary/) [reason](/en/post/reason/) [behind](/en/post/behind/) [something](/en/post/something/). [Example](/en/post/example/): "I chose [this](/en/post/this/) [university](/en/post/university/) [mainly](/en/post/mainly/) [because](/en/post/because/) [of](/en/post/of/) [its](/en/post/its/) [excellent](/en/post/excellent/) [academic](/en/post/academic/) [reputation](/en/post/reputation/)."
-- **[Mainly](/en/post/mainly/) [consist](/en/post/consist/) [of](/en/post/of/)**: Implies [that](/en/post/that/) [something](/en/post/something/) is [primarily](/en/post/primarily/) made [up](/en/post/up/) [of](/en/post/of/) [certain](/en/post/certain/) elements. [Example](/en/post/example/): "[Her](/en/post/her/) diet [mainly](/en/post/mainly/) consists [of](/en/post/of/) fruits [and](/en/post/and/) vegetables."
-- **[For](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/)/[mainly](/en/post/mainly/)**: [Both](/en/post/both/) expressions [mean](/en/post/mean/) [largely](/en/post/largely/) [or](/en/post/or/) predominantly. [Example](/en/post/example/): "[For](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/)/[mainly](/en/post/mainly/), [the](/en/post/the/) [conference](/en/post/conference/) attendees were [from](/en/post/from/) Europe."
+- **[Mainly](/post/mainly/) [because](/post/because/)**: Indicates [the](/post/the/) [primary](/post/primary/) [reason](/post/reason/) [behind](/post/behind/) [something](/post/something/). [Example](/post/example/): "I chose [this](/post/this/) [university](/post/university/) [mainly](/post/mainly/) [because](/post/because/) [of](/post/of/) [its](/post/its/) [excellent](/post/excellent/) [academic](/post/academic/) [reputation](/post/reputation/)."
+- **[Mainly](/post/mainly/) [consist](/post/consist/) [of](/post/of/)**: Implies [that](/post/that/) [something](/post/something/) is [primarily](/post/primarily/) made [up](/post/up/) [of](/post/of/) [certain](/post/certain/) elements. [Example](/post/example/): "[Her](/post/her/) diet [mainly](/post/mainly/) consists [of](/post/of/) fruits [and](/post/and/) vegetables."
+- **[For](/post/for/) [the](/post/the/) [most](/post/most/) [part](/post/part/)/[mainly](/post/mainly/)**: [Both](/post/both/) expressions [mean](/post/mean/) [largely](/post/largely/) [or](/post/or/) predominantly. [Example](/post/example/): "[For](/post/for/) [the](/post/the/) [most](/post/most/) [part](/post/part/)/[mainly](/post/mainly/), [the](/post/the/) [conference](/post/conference/) attendees were [from](/post/from/) Europe."
 
-## [Example](/en/post/example/) Sentences
-- _She spends [her](/en/post/her/) [free](/en/post/free/) [time](/en/post/time/) [mainly](/en/post/mainly/) [reading](/en/post/reading/) [and](/en/post/and/) [painting](/en/post/painting/)._
-- _Rainfall [in](/en/post/in/) [this](/en/post/this/) [region](/en/post/region/) is [mainly](/en/post/mainly/) [during](/en/post/during/) [the](/en/post/the/) monsoon [season](/en/post/season/)._
-- _His [income](/en/post/income/) [mainly](/en/post/mainly/) comes [from](/en/post/from/) [his](/en/post/his/) investments._
+## [Example](/post/example/) Sentences
+- _She spends [her](/post/her/) [free](/post/free/) [time](/post/time/) [mainly](/post/mainly/) [reading](/post/reading/) [and](/post/and/) [painting](/post/painting/)._
+- _Rainfall [in](/post/in/) [this](/post/this/) [region](/post/region/) is [mainly](/post/mainly/) [during](/post/during/) [the](/post/the/) monsoon [season](/post/season/)._
+- _His [income](/post/income/) [mainly](/post/mainly/) comes [from](/post/from/) [his](/post/his/) investments._
 
 ## Synonyms
-- [Primarily](/en/post/primarily/)
+- [Primarily](/post/primarily/)
 - Chiefly
 - Predominantly
-- [Largely](/en/post/largely/)
+- [Largely](/post/largely/)
 - Essentially
-- [Mostly](/en/post/mostly/)
-- [For](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/)
-- [In](/en/post/in/) [the](/en/post/the/) [main](/en/post/main/)
+- [Mostly](/post/mostly/)
+- [For](/post/for/) [the](/post/the/) [most](/post/most/) [part](/post/part/)
+- [In](/post/in/) [the](/post/the/) [main](/post/main/)

@@ -11,22 +11,22 @@ keywords = ['ai words', 'capital']
 /kæpɪˈtɑːl/
 
 ## 释义
-- **名词**: 1. 首都；省会。例如: "Paris is [the](/post/the/) [capital](/post/capital/) [of](/post/of/) France."
-       2. 资本；资金。例如: "[They](/post/they/) [need](/post/need/) [to](/post/to/) [raise](/post/raise/) [more](/post/more/) [capital](/post/capital/) [for](/post/for/) [their](/post/their/) [new](/post/new/) [business](/post/business/) [venture](/post/venture/)."
-       3. 大写字母。例如: "[In](/post/in/) English, [proper](/post/proper/) nouns [start](/post/start/) [with](/post/with/) [a](/post/a/) [capital](/post/capital/) [letter](/post/letter/)."
+- **名词**: 1. 首都；省会。例如: "Paris is [the](/zh/post/the/) [capital](/zh/post/capital/) [of](/zh/post/of/) France."
+       2. 资本；资金。例如: "[They](/zh/post/they/) [need](/zh/post/need/) [to](/zh/post/to/) [raise](/zh/post/raise/) [more](/zh/post/more/) [capital](/zh/post/capital/) [for](/zh/post/for/) [their](/zh/post/their/) [new](/zh/post/new/) [business](/zh/post/business/) [venture](/zh/post/venture/)."
+       3. 大写字母。例如: "[In](/zh/post/in/) English, [proper](/zh/post/proper/) nouns [start](/zh/post/start/) [with](/zh/post/with/) [a](/zh/post/a/) [capital](/zh/post/capital/) [letter](/zh/post/letter/)."
 
-- **形容词**: 重要的；主要的。例如: "[This](/post/this/) is [a](/post/a/) [capital](/post/capital/) [idea](/post/idea/) [for](/post/for/) [our](/post/our/) [project](/post/project/)."
+- **形容词**: 重要的；主要的。例如: "[This](/zh/post/this/) is [a](/zh/post/a/) [capital](/zh/post/capital/) [idea](/zh/post/idea/) [for](/zh/post/for/) [our](/zh/post/our/) [project](/zh/post/project/)."
 
 ## 短语
-- "[Political](/post/political/) [capital](/post/capital/)" 指政治影响力或信誉。
-- "[Financial](/post/financial/) [capital](/post/capital/)" 指金融资产或金钱。
-- "[Human](/post/human/) [capital](/post/capital/)" 指人力资本，即个人的知识、技能和能力。
+- "[Political](/zh/post/political/) [capital](/zh/post/capital/)" 指政治影响力或信誉。
+- "[Financial](/zh/post/financial/) [capital](/zh/post/capital/)" 指金融资产或金钱。
+- "[Human](/zh/post/human/) [capital](/zh/post/capital/)" 指人力资本，即个人的知识、技能和能力。
 
 ## 例句
-- 名词: "Beijing is [a](/post/a/) bustling [and](/post/and/) culturally [rich](/post/rich/) [capital](/post/capital/) [city](/post/city/)."
-- 形容词: "[The](/post/the/) company's [capital](/post/capital/) [investment](/post/investment/) [in](/post/in/) [research](/post/research/) has paid [off](/post/off/) handsomely."
+- 名词: "Beijing is [a](/zh/post/a/) bustling [and](/zh/post/and/) culturally [rich](/zh/post/rich/) [capital](/zh/post/capital/) [city](/zh/post/city/)."
+- 形容词: "[The](/zh/post/the/) company's [capital](/zh/post/capital/) [investment](/zh/post/investment/) [in](/zh/post/in/) [research](/zh/post/research/) has paid [off](/zh/post/off/) handsomely."
 
 ## 同义词
-- 首都：[Capital](/post/capital/) [city](/post/city/), [seat](/post/seat/) [of](/post/of/) [government](/post/government/)
-- 资本：[Money](/post/money/), funds
-- 重要的：[Key](/post/key/), [major](/post/major/), [principal](/post/principal/)
+- 首都：[Capital](/zh/post/capital/) [city](/zh/post/city/), [seat](/zh/post/seat/) [of](/zh/post/of/) [government](/zh/post/government/)
+- 资本：[Money](/zh/post/money/), funds
+- 重要的：[Key](/zh/post/key/), [major](/zh/post/major/), [principal](/zh/post/principal/)

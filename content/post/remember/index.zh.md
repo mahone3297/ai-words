@@ -12,23 +12,23 @@ keywords = ['ai words', 'remember']
 
 ## 释义
 - **动词**:
-  - 记住；回忆。例如: "I'll [try](/post/try/) [to](/post/to/) [remember](/post/remember/) [your](/post/your/) [name](/post/name/)."
-  - 提醒；使想起。例如: "[The](/post/the/) [smell](/post/smell/) [of](/post/of/) [pine](/post/pine/) trees [always](/post/always/) reminds [me](/post/me/) [of](/post/of/) Christmas."
+  - 记住；回忆。例如: "I'll [try](/zh/post/try/) [to](/zh/post/to/) [remember](/zh/post/remember/) [your](/zh/post/your/) [name](/zh/post/name/)."
+  - 提醒；使想起。例如: "[The](/zh/post/the/) [smell](/zh/post/smell/) [of](/zh/post/of/) [pine](/zh/post/pine/) trees [always](/zh/post/always/) reminds [me](/zh/post/me/) [of](/zh/post/of/) Christmas."
 
 - **名词**:
-  - 回忆；记忆。例如: "[Those](/post/those/) [old](/post/old/) photos are [precious](/post/precious/) memories."
+  - 回忆；记忆。例如: "[Those](/zh/post/those/) [old](/zh/post/old/) photos are [precious](/zh/post/precious/) memories."
 
 ## 短语
-- "[Remember](/post/remember/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" 表示要记住做某事。例如: "[Remember](/post/remember/) [to](/post/to/) [lock](/post/lock/) [the](/post/the/) [door](/post/door/) [when](/post/when/) [you](/post/you/) [leave](/post/leave/)."
-- "[In](/post/in/) [memory](/post/memory/) [of](/post/of/)" 用于纪念某人或某事。例如: "There's [a](/post/a/) [statue](/post/statue/) [in](/post/in/) [the](/post/the/) [park](/post/park/) [in](/post/in/) [memory](/post/memory/) [of](/post/of/) [the](/post/the/) [war](/post/war/) heroes."
+- "[Remember](/zh/post/remember/) [to](/zh/post/to/) [do](/zh/post/do/) [something](/zh/post/something/)" 表示要记住做某事。例如: "[Remember](/zh/post/remember/) [to](/zh/post/to/) [lock](/zh/post/lock/) [the](/zh/post/the/) [door](/zh/post/door/) [when](/zh/post/when/) [you](/zh/post/you/) [leave](/zh/post/leave/)."
+- "[In](/zh/post/in/) [memory](/zh/post/memory/) [of](/zh/post/of/)" 用于纪念某人或某事。例如: "There's [a](/zh/post/a/) [statue](/zh/post/statue/) [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/) [in](/zh/post/in/) [memory](/zh/post/memory/) [of](/zh/post/of/) [the](/zh/post/the/) [war](/zh/post/war/) heroes."
 
 ## 例句
-- 动词: "[Can](/post/can/) [you](/post/you/) [remember](/post/remember/) [where](/post/where/) [we](/post/we/) parked [the](/post/the/) [car](/post/car/)?"
-- 名词: "[The](/post/the/) [old](/post/old/) [song](/post/song/) brought [back](/post/back/) [many](/post/many/) [fond](/post/fond/) memories."
+- 动词: "[Can](/zh/post/can/) [you](/zh/post/you/) [remember](/zh/post/remember/) [where](/zh/post/where/) [we](/zh/post/we/) parked [the](/zh/post/the/) [car](/zh/post/car/)?"
+- 名词: "[The](/zh/post/the/) [old](/zh/post/old/) [song](/zh/post/song/) brought [back](/zh/post/back/) [many](/zh/post/many/) [fond](/zh/post/fond/) memories."
 
 ## 同义词
-- [Recall](/post/recall/)
-- [Retain](/post/retain/)
-- [Bear](/post/bear/) [in](/post/in/) [mind](/post/mind/)
-- Don't [forget](/post/forget/)
+- [Recall](/zh/post/recall/)
+- [Retain](/zh/post/retain/)
+- [Bear](/zh/post/bear/) [in](/zh/post/in/) [mind](/zh/post/mind/)
+- Don't [forget](/zh/post/forget/)
 - Memorize

@@ -7,23 +7,23 @@ description = '[ˈtenənt] n.承担人，房客，佃户'
 keywords = ['ai words', 'tenant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtɛnənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) occupies [or](/en/post/or/) rents [a](/en/post/a/) [house](/en/post/house/), [apartment](/en/post/apartment/), [or](/en/post/or/) [other](/en/post/other/) [living](/en/post/living/) [space](/en/post/space/) [from](/en/post/from/) [its](/en/post/its/) [owner](/en/post/owner/) [or](/en/post/or/) [landlord](/en/post/landlord/), typically [on](/en/post/on/) [a](/en/post/a/) long-term [basis](/en/post/basis/).
-- [In](/en/post/in/) British English, [a](/en/post/a/) [tenant](/en/post/tenant/) [may](/en/post/may/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) occupying agricultural [land](/en/post/land/) [or](/en/post/or/) [business](/en/post/business/) premises [as](/en/post/as/) [a](/en/post/a/) lessee.
+### [Noun](/post/noun/)
+- [A](/post/a/) [person](/post/person/) [who](/post/who/) occupies [or](/post/or/) rents [a](/post/a/) [house](/post/house/), [apartment](/post/apartment/), [or](/post/or/) [other](/post/other/) [living](/post/living/) [space](/post/space/) [from](/post/from/) [its](/post/its/) [owner](/post/owner/) [or](/post/or/) [landlord](/post/landlord/), typically [on](/post/on/) [a](/post/a/) long-term [basis](/post/basis/).
+- [In](/post/in/) British English, [a](/post/a/) [tenant](/post/tenant/) [may](/post/may/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [person](/post/person/) occupying agricultural [land](/post/land/) [or](/post/or/) [business](/post/business/) premises [as](/post/as/) [a](/post/a/) lessee.
 
 ## Phrases
-- "[Tenant](/en/post/tenant/) rights" refers [to](/en/post/to/) [the](/en/post/the/) [legal](/en/post/legal/) protections [and](/en/post/and/) obligations [that](/en/post/that/) [a](/en/post/a/) [tenant](/en/post/tenant/) has [regarding](/en/post/regarding/) [their](/en/post/their/) rental [property](/en/post/property/).
-- "Subtenant" is [a](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [for](/en/post/for/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) rents [a](/en/post/a/) [living](/en/post/living/) [space](/en/post/space/) [from](/en/post/from/) [a](/en/post/a/) [tenant](/en/post/tenant/), [not](/en/post/not/) [directly](/en/post/directly/) [from](/en/post/from/) [the](/en/post/the/) [landlord](/en/post/landlord/).
-- "Leasehold [tenant](/en/post/tenant/)" is [one](/en/post/one/) [who](/en/post/who/) holds [a](/en/post/a/) lease, [a](/en/post/a/) [contract](/en/post/contract/) giving [them](/en/post/them/) exclusive rights [to](/en/post/to/) [use](/en/post/use/) [the](/en/post/the/) [property](/en/post/property/) [for](/en/post/for/) [a](/en/post/a/) specified [period](/en/post/period/).
+- "[Tenant](/post/tenant/) rights" refers [to](/post/to/) [the](/post/the/) [legal](/post/legal/) protections [and](/post/and/) obligations [that](/post/that/) [a](/post/a/) [tenant](/post/tenant/) has [regarding](/post/regarding/) [their](/post/their/) rental [property](/post/property/).
+- "Subtenant" is [a](/post/a/) [term](/post/term/) [used](/post/used/) [for](/post/for/) [a](/post/a/) [person](/post/person/) [who](/post/who/) rents [a](/post/a/) [living](/post/living/) [space](/post/space/) [from](/post/from/) [a](/post/a/) [tenant](/post/tenant/), [not](/post/not/) [directly](/post/directly/) [from](/post/from/) [the](/post/the/) [landlord](/post/landlord/).
+- "Leasehold [tenant](/post/tenant/)" is [one](/post/one/) [who](/post/who/) holds [a](/post/a/) lease, [a](/post/a/) [contract](/post/contract/) giving [them](/post/them/) exclusive rights [to](/post/to/) [use](/post/use/) [the](/post/the/) [property](/post/property/) [for](/post/for/) [a](/post/a/) specified [period](/post/period/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [tenant](/en/post/tenant/) was [responsible](/en/post/responsible/) [for](/en/post/for/) maintaining [the](/en/post/the/) [garden](/en/post/garden/) according [to](/en/post/to/) [the](/en/post/the/) terms [of](/en/post/of/) [their](/en/post/their/) [agreement](/en/post/agreement/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [landlord](/en/post/landlord/) was discussing [maintenance](/en/post/maintenance/) issues [with](/en/post/with/) [his](/en/post/his/) [new](/en/post/new/) [tenant](/en/post/tenant/) [over](/en/post/over/) [the](/en/post/the/) [phone](/en/post/phone/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [landlord](/en/post/landlord/) evicted [the](/en/post/the/) [tenant](/en/post/tenant/) [for](/en/post/for/) non-payment [of](/en/post/of/) [rent](/en/post/rent/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [tenant](/post/tenant/) was [responsible](/post/responsible/) [for](/post/for/) maintaining [the](/post/the/) [garden](/post/garden/) according [to](/post/to/) [the](/post/the/) terms [of](/post/of/) [their](/post/their/) [agreement](/post/agreement/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [landlord](/post/landlord/) was discussing [maintenance](/post/maintenance/) issues [with](/post/with/) [his](/post/his/) [new](/post/new/) [tenant](/post/tenant/) [over](/post/over/) [the](/post/the/) [phone](/post/phone/)."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) [landlord](/post/landlord/) evicted [the](/post/the/) [tenant](/post/tenant/) [for](/post/for/) non-payment [of](/post/of/) [rent](/post/rent/)."
 
 ## Synonyms
 - Renter
@@ -33,6 +33,6 @@ keywords = ['ai words', 'tenant']
 - Tenant-in-common (UK)
 
 ## Antonyms
-- [Landlord](/en/post/landlord/)
-- [Owner](/en/post/owner/)
+- [Landlord](/post/landlord/)
+- [Owner](/post/owner/)
 - Freeholder (UK)

@@ -7,38 +7,38 @@ description = '[kɔmpiˈti∫ən] n.竞争，比赛'
 keywords = ['ai words', 'competition']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌkɑːmpəˈtɪʃn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Competition](/en/post/competition/)**: [A](/en/post/a/) [contest](/en/post/contest/) [or](/en/post/or/) rivalry [in](/en/post/in/) [which](/en/post/which/) [people](/en/post/people/) [or](/en/post/or/) teams [try](/en/post/try/) [to](/en/post/to/) outdo [each](/en/post/each/) [other](/en/post/other/) [by](/en/post/by/) achieving [a](/en/post/a/) [particular](/en/post/particular/) [goal](/en/post/goal/) [or](/en/post/or/) finishing [first](/en/post/first/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) athletes were competing [in](/en/post/in/) [the](/en/post/the/) marathon."
-- **[Contest](/en/post/contest/)**: An [event](/en/post/event/) [or](/en/post/or/) [game](/en/post/game/) [where](/en/post/where/) participants strive [to](/en/post/to/) [win](/en/post/win/) [a](/en/post/a/) [prize](/en/post/prize/) [or](/en/post/or/) [recognition](/en/post/recognition/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) baking [contest](/en/post/contest/) was [a](/en/post/a/) [hit](/en/post/hit/) [at](/en/post/at/) [the](/en/post/the/) [community](/en/post/community/) [fair](/en/post/fair/)."
+### [Noun](/post/noun/)
+- **[Competition](/post/competition/)**: [A](/post/a/) [contest](/post/contest/) [or](/post/or/) rivalry [in](/post/in/) [which](/post/which/) [people](/post/people/) [or](/post/or/) teams [try](/post/try/) [to](/post/to/) outdo [each](/post/each/) [other](/post/other/) [by](/post/by/) achieving [a](/post/a/) [particular](/post/particular/) [goal](/post/goal/) [or](/post/or/) finishing [first](/post/first/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) athletes were competing [in](/post/in/) [the](/post/the/) marathon."
+- **[Contest](/post/contest/)**: An [event](/post/event/) [or](/post/or/) [game](/post/game/) [where](/post/where/) participants strive [to](/post/to/) [win](/post/win/) [a](/post/a/) [prize](/post/prize/) [or](/post/or/) [recognition](/post/recognition/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) baking [contest](/post/contest/) was [a](/post/a/) [hit](/post/hit/) [at](/post/at/) [the](/post/the/) [community](/post/community/) [fair](/post/fair/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [compete](/en/post/compete/): [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [contest](/en/post/contest/) [or](/en/post/or/) rivalry [with](/en/post/with/) others. [For](/en/post/for/) [example](/en/post/example/): "Companies [often](/en/post/often/) [compete](/en/post/compete/) [for](/en/post/for/) [market](/en/post/market/) [share](/en/post/share/)."
-- [To](/en/post/to/) contend: [To](/en/post/to/) vie [for](/en/post/for/) superiority [or](/en/post/or/) [victory](/en/post/victory/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) contends [for](/en/post/for/) [the](/en/post/the/) [top](/en/post/top/) [position](/en/post/position/) [in](/en/post/in/) [her](/en/post/her/) [field](/en/post/field/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [compete](/post/compete/): [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [contest](/post/contest/) [or](/post/or/) rivalry [with](/post/with/) others. [For](/post/for/) [example](/post/example/): "Companies [often](/post/often/) [compete](/post/compete/) [for](/post/for/) [market](/post/market/) [share](/post/share/)."
+- [To](/post/to/) contend: [To](/post/to/) vie [for](/post/for/) superiority [or](/post/or/) [victory](/post/victory/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) contends [for](/post/for/) [the](/post/the/) [top](/post/top/) [position](/post/position/) [in](/post/in/) [her](/post/her/) [field](/post/field/)."
 
-### [Adjective](/en/post/adjective/)
-- Competitive: Characterized [by](/en/post/by/) striving [to](/en/post/to/) [win](/en/post/win/) [or](/en/post/or/) [do](/en/post/do/) [better](/en/post/better/) [than](/en/post/than/) others. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) competitive [spirit](/en/post/spirit/) drives [many](/en/post/many/) athletes [to](/en/post/to/) [push](/en/post/push/) [their](/en/post/their/) limits."
+### [Adjective](/post/adjective/)
+- Competitive: Characterized [by](/post/by/) striving [to](/post/to/) [win](/post/win/) [or](/post/or/) [do](/post/do/) [better](/post/better/) [than](/post/than/) others. [For](/post/for/) [example](/post/example/): "[A](/post/a/) competitive [spirit](/post/spirit/) drives [many](/post/many/) athletes [to](/post/to/) [push](/post/push/) [their](/post/their/) limits."
 
-### [Adverb](/en/post/adverb/)
-- Competitively: [In](/en/post/in/) [a](/en/post/a/) competitive [manner](/en/post/manner/); striving [to](/en/post/to/) [win](/en/post/win/). [For](/en/post/for/) [example](/en/post/example/): "Teams [will](/en/post/will/) [compete](/en/post/compete/) competitively [in](/en/post/in/) [the](/en/post/the/) championship [game](/en/post/game/)."
+### [Adverb](/post/adverb/)
+- Competitively: [In](/post/in/) [a](/post/a/) competitive [manner](/post/manner/); striving [to](/post/to/) [win](/post/win/). [For](/post/for/) [example](/post/example/): "Teams [will](/post/will/) [compete](/post/compete/) competitively [in](/post/in/) [the](/post/the/) championship [game](/post/game/)."
 
 ## Phrases
-- "[Participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/)" [means](/en/post/means/) [to](/en/post/to/) [enter](/en/post/enter/) [and](/en/post/and/) [take](/en/post/take/) [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [contest](/en/post/contest/).
-- "[In](/en/post/in/) [a](/en/post/a/) [friendly](/en/post/friendly/) [competition](/en/post/competition/)" implies [a](/en/post/a/) non-hostile [or](/en/post/or/) lighthearted [contest](/en/post/contest/).
-- "Winning competitions" signifies achieving [victory](/en/post/victory/) [in](/en/post/in/) contests.
+- "[Participate](/post/participate/) [in](/post/in/) [a](/post/a/) [competition](/post/competition/)" [means](/post/means/) [to](/post/to/) [enter](/post/enter/) [and](/post/and/) [take](/post/take/) [part](/post/part/) [in](/post/in/) [a](/post/a/) [contest](/post/contest/).
+- "[In](/post/in/) [a](/post/a/) [friendly](/post/friendly/) [competition](/post/competition/)" implies [a](/post/a/) non-hostile [or](/post/or/) lighthearted [contest](/post/contest/).
+- "Winning competitions" signifies achieving [victory](/post/victory/) [in](/post/in/) contests.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were excited [about](/en/post/about/) [the](/en/post/the/) upcoming [science](/en/post/science/) [competition](/en/post/competition/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [training](/en/post/training/), [he](/en/post/he/) [finally](/en/post/finally/) competed [in](/en/post/in/) [the](/en/post/the/) Olympics."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) thrives [in](/en/post/in/) [a](/en/post/a/) competitive [work](/en/post/work/) [environment](/en/post/environment/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) athletes trained competitively [to](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) [the](/en/post/the/) [race](/en/post/race/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were excited [about](/post/about/) [the](/post/the/) upcoming [science](/post/science/) [competition](/post/competition/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) [training](/post/training/), [he](/post/he/) [finally](/post/finally/) competed [in](/post/in/) [the](/post/the/) Olympics."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) thrives [in](/post/in/) [a](/post/a/) competitive [work](/post/work/) [environment](/post/environment/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) athletes trained competitively [to](/post/to/) [prepare](/post/prepare/) [for](/post/for/) [the](/post/the/) [race](/post/race/)."
 
 ## Synonyms
-- [Contest](/en/post/contest/)
+- [Contest](/post/contest/)
 - Rivalry
-- [Struggle](/en/post/struggle/)
+- [Struggle](/post/struggle/)
 - Duel
-- [Battle](/en/post/battle/) (informal)
+- [Battle](/post/battle/) (informal)

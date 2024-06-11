@@ -7,34 +7,34 @@ description = '[fəːm] n.商行，商号，公司'
 keywords = ['ai words', 'firm']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɜːrm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [business](/en/post/business/) [organization](/en/post/organization/), typically [a](/en/post/a/) [company](/en/post/company/) [or](/en/post/or/) partnership, [that](/en/post/that/) carries [out](/en/post/out/) [industrial](/en/post/industrial/) [or](/en/post/or/) [commercial](/en/post/commercial/) activities. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) started [her](/en/post/her/) [own](/en/post/own/) [law](/en/post/law/) [firm](/en/post/firm/) [last](/en/post/last/) [year](/en/post/year/)."
-  - [Also](/en/post/also/), [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) lawyers practicing [together](/en/post/together/) [under](/en/post/under/) [one](/en/post/one/) [name](/en/post/name/).
-  - [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) fixed, [stable](/en/post/stable/), [or](/en/post/or/) [strong](/en/post/strong/); solidity [or](/en/post/or/) [strength](/en/post/strength/). [Example](/en/post/example/): "[The](/en/post/the/) [building](/en/post/building/) has [a](/en/post/a/) [firm](/en/post/firm/) [foundation](/en/post/foundation/)."
-  - [A](/en/post/a/) fixed [or](/en/post/or/) settled [quality](/en/post/quality/); [determination](/en/post/determination/) [or](/en/post/or/) [resolution](/en/post/resolution/) [not](/en/post/not/) [to](/en/post/to/) [change](/en/post/change/). [Example](/en/post/example/): "[He](/en/post/he/) spoke [with](/en/post/with/) firmness [about](/en/post/about/) [his](/en/post/his/) [decision](/en/post/decision/) [to](/en/post/to/) [quit](/en/post/quit/) smoking."
+- **[Noun](/post/noun/)**: [A](/post/a/) [business](/post/business/) [organization](/post/organization/), typically [a](/post/a/) [company](/post/company/) [or](/post/or/) partnership, [that](/post/that/) carries [out](/post/out/) [industrial](/post/industrial/) [or](/post/or/) [commercial](/post/commercial/) activities. [For](/post/for/) [example](/post/example/): "[She](/post/she/) started [her](/post/her/) [own](/post/own/) [law](/post/law/) [firm](/post/firm/) [last](/post/last/) [year](/post/year/)."
+  - [Also](/post/also/), [a](/post/a/) [group](/post/group/) [of](/post/of/) lawyers practicing [together](/post/together/) [under](/post/under/) [one](/post/one/) [name](/post/name/).
+  - [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) fixed, [stable](/post/stable/), [or](/post/or/) [strong](/post/strong/); solidity [or](/post/or/) [strength](/post/strength/). [Example](/post/example/): "[The](/post/the/) [building](/post/building/) has [a](/post/a/) [firm](/post/firm/) [foundation](/post/foundation/)."
+  - [A](/post/a/) fixed [or](/post/or/) settled [quality](/post/quality/); [determination](/post/determination/) [or](/post/or/) [resolution](/post/resolution/) [not](/post/not/) [to](/post/to/) [change](/post/change/). [Example](/post/example/): "[He](/post/he/) spoke [with](/post/with/) firmness [about](/post/about/) [his](/post/his/) [decision](/post/decision/) [to](/post/to/) [quit](/post/quit/) smoking."
 
-- **[Adjective](/en/post/adjective/)**: [Strongly](/en/post/strongly/) fixed, [not](/en/post/not/) shaking [or](/en/post/or/) moving; [steady](/en/post/steady/). [Example](/en/post/example/): "[She](/en/post/she/) held [the](/en/post/the/) [ladder](/en/post/ladder/) firmly [against](/en/post/against/) [the](/en/post/the/) [wall](/en/post/wall/)."
-  - Resolute, unyielding, [or](/en/post/or/) determined. [Example](/en/post/example/): "[His](/en/post/his/) stance [on](/en/post/on/) [the](/en/post/the/) [issue](/en/post/issue/) was [firm](/en/post/firm/) [and](/en/post/and/) unwavering."
-  - [Solid](/en/post/solid/), [strong](/en/post/strong/), [and](/en/post/and/) robust [in](/en/post/in/) [constitution](/en/post/constitution/) [or](/en/post/or/) [structure](/en/post/structure/). [Example](/en/post/example/): "[The](/en/post/the/) handshake was [firm](/en/post/firm/) [and](/en/post/and/) [confident](/en/post/confident/)."
+- **[Adjective](/post/adjective/)**: [Strongly](/post/strongly/) fixed, [not](/post/not/) shaking [or](/post/or/) moving; [steady](/post/steady/). [Example](/post/example/): "[She](/post/she/) held [the](/post/the/) [ladder](/post/ladder/) firmly [against](/post/against/) [the](/post/the/) [wall](/post/wall/)."
+  - Resolute, unyielding, [or](/post/or/) determined. [Example](/post/example/): "[His](/post/his/) stance [on](/post/on/) [the](/post/the/) [issue](/post/issue/) was [firm](/post/firm/) [and](/post/and/) unwavering."
+  - [Solid](/post/solid/), [strong](/post/strong/), [and](/post/and/) robust [in](/post/in/) [constitution](/post/constitution/) [or](/post/or/) [structure](/post/structure/). [Example](/post/example/): "[The](/post/the/) handshake was [firm](/post/firm/) [and](/post/and/) [confident](/post/confident/)."
   
-- **[Verb](/en/post/verb/) ([firm](/en/post/firm/) [up](/en/post/up/))**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) stronger [or](/en/post/or/) [more](/en/post/more/) [solid](/en/post/solid/); [to](/en/post/to/) [strengthen](/en/post/strengthen/) [or](/en/post/or/) stabilize. [Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [firm](/en/post/firm/) [up](/en/post/up/) [our](/en/post/our/) plans [before](/en/post/before/) [we](/en/post/we/) [announce](/en/post/announce/) [them](/en/post/them/) publicly."
+- **[Verb](/post/verb/) ([firm](/post/firm/) [up](/post/up/))**: [To](/post/to/) [make](/post/make/) [something](/post/something/) stronger [or](/post/or/) [more](/post/more/) [solid](/post/solid/); [to](/post/to/) [strengthen](/post/strengthen/) [or](/post/or/) stabilize. [Example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [firm](/post/firm/) [up](/post/up/) [our](/post/our/) plans [before](/post/before/) [we](/post/we/) [announce](/post/announce/) [them](/post/them/) publicly."
 
 ## Phrases
-- "[Firm](/en/post/firm/) commitment": [A](/en/post/a/) [strong](/en/post/strong/) [promise](/en/post/promise/) [or](/en/post/or/) pledge [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/).
-- "[Firm](/en/post/firm/) believer": [Someone](/en/post/someone/) [who](/en/post/who/) [strongly](/en/post/strongly/) adheres [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [belief](/en/post/belief/) [or](/en/post/or/) [philosophy](/en/post/philosophy/).
-- "[Firm](/en/post/firm/) [ground](/en/post/ground/)": [A](/en/post/a/) [secure](/en/post/secure/) [or](/en/post/or/) [stable](/en/post/stable/) [position](/en/post/position/), physically [or](/en/post/or/) metaphorically.
+- "[Firm](/post/firm/) commitment": [A](/post/a/) [strong](/post/strong/) [promise](/post/promise/) [or](/post/or/) pledge [to](/post/to/) [do](/post/do/) [something](/post/something/).
+- "[Firm](/post/firm/) believer": [Someone](/post/someone/) [who](/post/who/) [strongly](/post/strongly/) adheres [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [belief](/post/belief/) [or](/post/or/) [philosophy](/post/philosophy/).
+- "[Firm](/post/firm/) [ground](/post/ground/)": [A](/post/a/) [secure](/post/secure/) [or](/post/or/) [stable](/post/stable/) [position](/post/position/), physically [or](/post/or/) metaphorically.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) graduating, [he](/en/post/he/) secured [a](/en/post/a/) [job](/en/post/job/) [at](/en/post/at/) [a](/en/post/a/) prestigious accounting [firm](/en/post/firm/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [grip](/en/post/grip/) [on](/en/post/on/) [the](/en/post/the/) handlebars needs [to](/en/post/to/) [be](/en/post/be/) [firm](/en/post/firm/) [to](/en/post/to/) [maintain](/en/post/maintain/) [control](/en/post/control/) [of](/en/post/of/) [the](/en/post/the/) [bicycle](/en/post/bicycle/)."
-- **[Verb](/en/post/verb/)**: "[With](/en/post/with/) [regular](/en/post/regular/) [exercise](/en/post/exercise/), [she](/en/post/she/) hoped [to](/en/post/to/) [firm](/en/post/firm/) [up](/en/post/up/) [her](/en/post/her/) muscles."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) graduating, [he](/post/he/) secured [a](/post/a/) [job](/post/job/) [at](/post/at/) [a](/post/a/) prestigious accounting [firm](/post/firm/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [grip](/post/grip/) [on](/post/on/) [the](/post/the/) handlebars needs [to](/post/to/) [be](/post/be/) [firm](/post/firm/) [to](/post/to/) [maintain](/post/maintain/) [control](/post/control/) [of](/post/of/) [the](/post/the/) [bicycle](/post/bicycle/)."
+- **[Verb](/post/verb/)**: "[With](/post/with/) [regular](/post/regular/) [exercise](/post/exercise/), [she](/post/she/) hoped [to](/post/to/) [firm](/post/firm/) [up](/post/up/) [her](/post/her/) muscles."
 
 ## Synonyms
-- Enterprise ([noun](/en/post/noun/))
-- [Steady](/en/post/steady/) ([adjective](/en/post/adjective/))
-- [Strengthen](/en/post/strengthen/) ([verb](/en/post/verb/))
-- [Stable](/en/post/stable/) ([adjective](/en/post/adjective/))
-- Solidify ([verb](/en/post/verb/))
+- Enterprise ([noun](/post/noun/))
+- [Steady](/post/steady/) ([adjective](/post/adjective/))
+- [Strengthen](/post/strengthen/) ([verb](/post/verb/))
+- [Stable](/post/stable/) ([adjective](/post/adjective/))
+- Solidify ([verb](/post/verb/))

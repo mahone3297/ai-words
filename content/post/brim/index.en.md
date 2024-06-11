@@ -7,39 +7,39 @@ description = '[brim] n.边，边缘；帽沿'
 keywords = ['ai words', 'brim']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /brɪm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Brim](/en/post/brim/)** (n): [The](/en/post/the/) [outer](/en/post/outer/) [edge](/en/post/edge/) [or](/en/post/or/) [border](/en/post/border/) [of](/en/post/of/) [a](/en/post/a/) [container](/en/post/container/), [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) [top](/en/post/top/) [of](/en/post/of/) [a](/en/post/a/) [hat](/en/post/hat/) [or](/en/post/or/) [the](/en/post/the/) rim [of](/en/post/of/) [a](/en/post/a/) [cup](/en/post/cup/). [Example](/en/post/example/): "[The](/en/post/the/) bucket's [brim](/en/post/brim/) was overflowing [with](/en/post/with/) [water](/en/post/water/)."
-- **Brimming** (v): [To](/en/post/to/) [be](/en/post/be/) filled [or](/en/post/or/) overflow [with](/en/post/with/) [something](/en/post/something/), [often](/en/post/often/) [emotion](/en/post/emotion/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/). [Example](/en/post/example/): "[Her](/en/post/her/) eyes were brimming [with](/en/post/with/) [joy](/en/post/joy/) [when](/en/post/when/) [she](/en/post/she/) received [the](/en/post/the/) [news](/en/post/news/)."
+### [Noun](/post/noun/)
+- **[Brim](/post/brim/)** (n): [The](/post/the/) [outer](/post/outer/) [edge](/post/edge/) [or](/post/or/) [border](/post/border/) [of](/post/of/) [a](/post/a/) [container](/post/container/), [such](/post/such/) [as](/post/as/) [the](/post/the/) [top](/post/top/) [of](/post/of/) [a](/post/a/) [hat](/post/hat/) [or](/post/or/) [the](/post/the/) rim [of](/post/of/) [a](/post/a/) [cup](/post/cup/). [Example](/post/example/): "[The](/post/the/) bucket's [brim](/post/brim/) was overflowing [with](/post/with/) [water](/post/water/)."
+- **Brimming** (v): [To](/post/to/) [be](/post/be/) filled [or](/post/or/) overflow [with](/post/with/) [something](/post/something/), [often](/post/often/) [emotion](/post/emotion/) [or](/post/or/) [enthusiasm](/post/enthusiasm/). [Example](/post/example/): "[Her](/post/her/) eyes were brimming [with](/post/with/) [joy](/post/joy/) [when](/post/when/) [she](/post/she/) received [the](/post/the/) [news](/post/news/)."
 
-### [Verb](/en/post/verb/)
-- (Informal) **[To](/en/post/to/) [brim](/en/post/brim/) [over](/en/post/over/)** [or](/en/post/or/) **[to](/en/post/to/) [brim](/en/post/brim/)** (v): [To](/en/post/to/) [be](/en/post/be/) filled [to](/en/post/to/) [the](/en/post/the/) [point](/en/post/point/) [of](/en/post/of/) spilling, [especially](/en/post/especially/) [with](/en/post/with/) [emotion](/en/post/emotion/) [or](/en/post/or/) [a](/en/post/a/) [substance](/en/post/substance/). [Example](/en/post/example/): "[His](/en/post/his/) [laughter](/en/post/laughter/) brimmed [over](/en/post/over/) [as](/en/post/as/) [he](/en/post/he/) recalled [the](/en/post/the/) [funny](/en/post/funny/) [story](/en/post/story/)."
+### [Verb](/post/verb/)
+- (Informal) **[To](/post/to/) [brim](/post/brim/) [over](/post/over/)** [or](/post/or/) **[to](/post/to/) [brim](/post/brim/)** (v): [To](/post/to/) [be](/post/be/) filled [to](/post/to/) [the](/post/the/) [point](/post/point/) [of](/post/of/) spilling, [especially](/post/especially/) [with](/post/with/) [emotion](/post/emotion/) [or](/post/or/) [a](/post/a/) [substance](/post/substance/). [Example](/post/example/): "[His](/post/his/) [laughter](/post/laughter/) brimmed [over](/post/over/) [as](/post/as/) [he](/post/he/) recalled [the](/post/the/) [funny](/post/funny/) [story](/post/story/)."
 
 ## Phrases
-- "Brimmed [with](/en/post/with/) [knowledge](/en/post/knowledge/)" describes [someone](/en/post/someone/) [who](/en/post/who/) is [full](/en/post/full/) [of](/en/post/of/) [information](/en/post/information/).
-- "Brimming [with](/en/post/with/) excitement" indicates [great](/en/post/great/) anticipation [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/).
-- "Barely [able](/en/post/able/) [to](/en/post/to/) [contain](/en/post/contain/) one's [brim](/en/post/brim/)" suggests [being](/en/post/being/) [on](/en/post/on/) [the](/en/post/the/) verge [of](/en/post/of/) expressing [a](/en/post/a/) [strong](/en/post/strong/) [emotion](/en/post/emotion/).
+- "Brimmed [with](/post/with/) [knowledge](/post/knowledge/)" describes [someone](/post/someone/) [who](/post/who/) is [full](/post/full/) [of](/post/of/) [information](/post/information/).
+- "Brimming [with](/post/with/) excitement" indicates [great](/post/great/) anticipation [or](/post/or/) [enthusiasm](/post/enthusiasm/).
+- "Barely [able](/post/able/) [to](/post/to/) [contain](/post/contain/) one's [brim](/post/brim/)" suggests [being](/post/being/) [on](/post/on/) [the](/post/the/) verge [of](/post/of/) expressing [a](/post/a/) [strong](/post/strong/) [emotion](/post/emotion/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [pot](/en/post/pot/) was brimming [with](/en/post/with/) [hot](/en/post/hot/) [soup](/en/post/soup/), [ready](/en/post/ready/) [to](/en/post/to/) [be](/en/post/be/) served."
-- **[Verb](/en/post/verb/)**: "[Her](/en/post/her/) [heart](/en/post/heart/) swelled [as](/en/post/as/) [her](/en/post/her/) [gratitude](/en/post/gratitude/) brimmed [over](/en/post/over/) [for](/en/post/for/) [her](/en/post/her/) friend's [help](/en/post/help/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [little](/en/post/little/) [boy](/en/post/boy/) couldn't [contain](/en/post/contain/) [his](/en/post/his/) [laughter](/en/post/laughter/), [it](/en/post/it/) brimmed [over](/en/post/over/) [at](/en/post/at/) [the](/en/post/the/) [silly](/en/post/silly/) [joke](/en/post/joke/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [pot](/post/pot/) was brimming [with](/post/with/) [hot](/post/hot/) [soup](/post/soup/), [ready](/post/ready/) [to](/post/to/) [be](/post/be/) served."
+- **[Verb](/post/verb/)**: "[Her](/post/her/) [heart](/post/heart/) swelled [as](/post/as/) [her](/post/her/) [gratitude](/post/gratitude/) brimmed [over](/post/over/) [for](/post/for/) [her](/post/her/) friend's [help](/post/help/)."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) [little](/post/little/) [boy](/post/boy/) couldn't [contain](/post/contain/) [his](/post/his/) [laughter](/post/laughter/), [it](/post/it/) brimmed [over](/post/over/) [at](/post/at/) [the](/post/the/) [silly](/post/silly/) [joke](/post/joke/)."
 
 ## Synonyms
-- [Edge](/en/post/edge/)
+- [Edge](/post/edge/)
 - Rim
-- [Margin](/en/post/margin/)
-- [Outline](/en/post/outline/)
-- [Border](/en/post/border/)
+- [Margin](/post/margin/)
+- [Outline](/post/outline/)
+- [Border](/post/border/)
 
-### [Adjective](/en/post/adjective/)
-- **Brim-full** (adj): [Completely](/en/post/completely/) filled [or](/en/post/or/) saturated, [as](/en/post/as/) [in](/en/post/in/) "[The](/en/post/the/) [vase](/en/post/vase/) was brim-full [of](/en/post/of/) flowers." Synonyms: brimming, saturated,满满的
+### [Adjective](/post/adjective/)
+- **Brim-full** (adj): [Completely](/post/completely/) filled [or](/post/or/) saturated, [as](/post/as/) [in](/post/in/) "[The](/post/the/) [vase](/post/vase/) was brim-full [of](/post/of/) flowers." Synonyms: brimming, saturated,满满的
 
 ## Antonyms
-- [Empty](/en/post/empty/)
-- [Bare](/en/post/bare/)
-- [Hollow](/en/post/hollow/)
-- [Thin](/en/post/thin/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) container's [depth](/en/post/depth/))
+- [Empty](/post/empty/)
+- [Bare](/post/bare/)
+- [Hollow](/post/hollow/)
+- [Thin](/post/thin/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) container's [depth](/post/depth/))

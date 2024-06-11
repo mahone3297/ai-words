@@ -7,36 +7,36 @@ description = '[griːt] vt.问候，招呼；反应'
 keywords = ['ai words', 'greet']
 +++
 
-## [Word](/en/post/word/): [Greet](/en/post/greet/)
+## [Word](/post/word/): [Greet](/post/greet/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡriːt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) acknowledge someone's [presence](/en/post/presence/) [with](/en/post/with/) [a](/en/post/a/) [gesture](/en/post/gesture/) [or](/en/post/or/) words, typically [upon](/en/post/upon/) [meeting](/en/post/meeting/) [them](/en/post/them/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) acknowledging an [occasion](/en/post/occasion/) [or](/en/post/or/) [event](/en/post/event/) [with](/en/post/with/) [a](/en/post/a/) [suitable](/en/post/suitable/) [expression](/en/post/expression/) [or](/en/post/or/) [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) greeted [his](/en/post/his/) guests [with](/en/post/with/) [a](/en/post/a/) [warm](/en/post/warm/) [smile](/en/post/smile/) [and](/en/post/and/) handshake." "[They](/en/post/they/) greeted [the](/en/post/the/) [New](/en/post/new/) [Year](/en/post/year/) [with](/en/post/with/) fireworks."
+- **[Verb](/post/verb/)**: [To](/post/to/) acknowledge someone's [presence](/post/presence/) [with](/post/with/) [a](/post/a/) [gesture](/post/gesture/) [or](/post/or/) words, typically [upon](/post/upon/) [meeting](/post/meeting/) [them](/post/them/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) acknowledging an [occasion](/post/occasion/) [or](/post/or/) [event](/post/event/) [with](/post/with/) [a](/post/a/) [suitable](/post/suitable/) [expression](/post/expression/) [or](/post/or/) [action](/post/action/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) greeted [his](/post/his/) guests [with](/post/with/) [a](/post/a/) [warm](/post/warm/) [smile](/post/smile/) [and](/post/and/) handshake." "[They](/post/they/) greeted [the](/post/the/) [New](/post/new/) [Year](/post/year/) [with](/post/with/) fireworks."
 
-[Example](/en/post/example/) sentences:
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) greeted [her](/en/post/her/) [teacher](/en/post/teacher/) [with](/en/post/with/) [a](/en/post/a/) [respectful](/en/post/respectful/) '[Good](/en/post/good/) [morning](/en/post/morning/)'."
-- "[The](/en/post/the/) [royal](/en/post/royal/) [couple](/en/post/couple/) greeted [the](/en/post/the/) cheering [crowd](/en/post/crowd/) [from](/en/post/from/) [the](/en/post/the/) balcony."
+[Example](/post/example/) sentences:
+- **[Verb](/post/verb/)**: "[She](/post/she/) greeted [her](/post/her/) [teacher](/post/teacher/) [with](/post/with/) [a](/post/a/) [respectful](/post/respectful/) '[Good](/post/good/) [morning](/post/morning/)'."
+- "[The](/post/the/) [royal](/post/royal/) [couple](/post/couple/) greeted [the](/post/the/) cheering [crowd](/post/crowd/) [from](/post/from/) [the](/post/the/) balcony."
 
 ## Phrases
-- "[Greet](/en/post/greet/) [someone](/en/post/someone/) warmly": [To](/en/post/to/) [welcome](/en/post/welcome/) [someone](/en/post/someone/) affectionately [or](/en/post/or/) enthusiastically.
-- "[Greet](/en/post/greet/) [the](/en/post/the/) [day](/en/post/day/)": [To](/en/post/to/) [start](/en/post/start/) [the](/en/post/the/) [day](/en/post/day/) positively, [often](/en/post/often/) [by](/en/post/by/) waking [up](/en/post/up/) [early](/en/post/early/) [or](/en/post/or/) engaging [in](/en/post/in/) [a](/en/post/a/) [pleasant](/en/post/pleasant/) [activity](/en/post/activity/).
-- "[Greet](/en/post/greet/) [news](/en/post/news/) [with](/en/post/with/) skepticism": [To](/en/post/to/) [respond](/en/post/respond/) [to](/en/post/to/) [news](/en/post/news/) [or](/en/post/or/) [information](/en/post/information/) [with](/en/post/with/) [doubt](/en/post/doubt/) [or](/en/post/or/) mistrust.
+- "[Greet](/post/greet/) [someone](/post/someone/) warmly": [To](/post/to/) [welcome](/post/welcome/) [someone](/post/someone/) affectionately [or](/post/or/) enthusiastically.
+- "[Greet](/post/greet/) [the](/post/the/) [day](/post/day/)": [To](/post/to/) [start](/post/start/) [the](/post/the/) [day](/post/day/) positively, [often](/post/often/) [by](/post/by/) waking [up](/post/up/) [early](/post/early/) [or](/post/or/) engaging [in](/post/in/) [a](/post/a/) [pleasant](/post/pleasant/) [activity](/post/activity/).
+- "[Greet](/post/greet/) [news](/post/news/) [with](/post/with/) skepticism": [To](/post/to/) [respond](/post/respond/) [to](/post/to/) [news](/post/news/) [or](/post/or/) [information](/post/information/) [with](/post/with/) [doubt](/post/doubt/) [or](/post/or/) mistrust.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[When](/en/post/when/) [we](/en/post/we/) entered [the](/en/post/the/) [shop](/en/post/shop/), [the](/en/post/the/) [shopkeeper](/en/post/shopkeeper/) greeted [us](/en/post/us/) cheerfully."
-- "[As](/en/post/as/) [they](/en/post/they/) entered [the](/en/post/the/) [conference](/en/post/conference/) [hall](/en/post/hall/), [each](/en/post/each/) delegate greeted [their](/en/post/their/) colleagues."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[When](/post/when/) [we](/post/we/) entered [the](/post/the/) [shop](/post/shop/), [the](/post/the/) [shopkeeper](/post/shopkeeper/) greeted [us](/post/us/) cheerfully."
+- "[As](/post/as/) [they](/post/they/) entered [the](/post/the/) [conference](/post/conference/) [hall](/post/hall/), [each](/post/each/) delegate greeted [their](/post/their/) colleagues."
 
 ## Synonyms
-- [Welcome](/en/post/welcome/)
-- [Salute](/en/post/salute/)
+- [Welcome](/post/welcome/)
+- [Salute](/post/salute/)
 - Acknowledge
 - Hail
-- [Hello](/en/post/hello/)
-- [Hi](/en/post/hi/)
+- [Hello](/post/hello/)
+- [Hi](/post/hi/)
 - Hey
-- [Good](/en/post/good/) [day](/en/post/day/)
+- [Good](/post/good/) [day](/post/day/)
 - Howdy (informal)
 - Greetings
-- Compliments ([formal](/en/post/formal/))
+- Compliments ([formal](/post/formal/))

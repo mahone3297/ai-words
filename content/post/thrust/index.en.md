@@ -7,48 +7,48 @@ description = '[θrʌst] vt.插，刺 n.插；讽刺'
 keywords = ['ai words', 'thrust']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /θrʌst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[thrust](/en/post/thrust/)** is [a](/en/post/a/) [noun](/en/post/noun/) [that](/en/post/that/) refers [to](/en/post/to/):
-1. An impulsive [force](/en/post/force/) applied [to](/en/post/to/) [something](/en/post/something/), pushing [it](/en/post/it/) [forward](/en/post/forward/) [or](/en/post/or/) [with](/en/post/with/) [great](/en/post/great/) [intensity](/en/post/intensity/): "[The](/en/post/the/) [athlete](/en/post/athlete/) delivered [a](/en/post/a/) [powerful](/en/post/powerful/) [thrust](/en/post/thrust/) [with](/en/post/with/) [his](/en/post/his/) javelin."
-2. [A](/en/post/a/) [sudden](/en/post/sudden/), forceful [action](/en/post/action/) [or](/en/post/or/) [movement](/en/post/movement/): "[The](/en/post/the/) actor's [dramatic](/en/post/dramatic/) [thrust](/en/post/thrust/) [of](/en/post/of/) [emotion](/en/post/emotion/) captivated [the](/en/post/the/) [audience](/en/post/audience/)."
-3. An [attempt](/en/post/attempt/) [or](/en/post/or/) [effort](/en/post/effort/): "[He](/en/post/he/) made [a](/en/post/a/) last-minute [thrust](/en/post/thrust/) [to](/en/post/to/) [finish](/en/post/finish/) [his](/en/post/his/) [project](/en/post/project/)."
+### [Noun](/post/noun/)
+[A](/post/a/) **[thrust](/post/thrust/)** is [a](/post/a/) [noun](/post/noun/) [that](/post/that/) refers [to](/post/to/):
+1. An impulsive [force](/post/force/) applied [to](/post/to/) [something](/post/something/), pushing [it](/post/it/) [forward](/post/forward/) [or](/post/or/) [with](/post/with/) [great](/post/great/) [intensity](/post/intensity/): "[The](/post/the/) [athlete](/post/athlete/) delivered [a](/post/a/) [powerful](/post/powerful/) [thrust](/post/thrust/) [with](/post/with/) [his](/post/his/) javelin."
+2. [A](/post/a/) [sudden](/post/sudden/), forceful [action](/post/action/) [or](/post/or/) [movement](/post/movement/): "[The](/post/the/) actor's [dramatic](/post/dramatic/) [thrust](/post/thrust/) [of](/post/of/) [emotion](/post/emotion/) captivated [the](/post/the/) [audience](/post/audience/)."
+3. An [attempt](/post/attempt/) [or](/post/or/) [effort](/post/effort/): "[He](/post/he/) made [a](/post/a/) last-minute [thrust](/post/thrust/) [to](/post/to/) [finish](/post/finish/) [his](/post/his/) [project](/post/project/)."
 
-### [Verb](/en/post/verb/)
-[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), **[thrust](/en/post/thrust/)** [means](/en/post/means/):
-1. [To](/en/post/to/) [push](/en/post/push/) forcefully [or](/en/post/or/) [quickly](/en/post/quickly/): "[He](/en/post/he/) [thrust](/en/post/thrust/) [the](/en/post/the/) [knife](/en/post/knife/) [into](/en/post/into/) [the](/en/post/the/) [block](/en/post/block/)."
-2. [To](/en/post/to/) [insert](/en/post/insert/) [or](/en/post/or/) [place](/en/post/place/) [something](/en/post/something/) forcibly: "[She](/en/post/she/) [thrust](/en/post/thrust/) [her](/en/post/her/) opinions [into](/en/post/into/) [the](/en/post/the/) [conversation](/en/post/conversation/)."
-3. [To](/en/post/to/) [thrust](/en/post/thrust/) [oneself](/en/post/oneself/) [forward](/en/post/forward/) [or](/en/post/or/) [into](/en/post/into/) [a](/en/post/a/) [situation](/en/post/situation/): "[He](/en/post/he/) [thrust](/en/post/thrust/) [himself](/en/post/himself/) [into](/en/post/into/) [the](/en/post/the/) [leadership](/en/post/leadership/) [role](/en/post/role/)."
+### [Verb](/post/verb/)
+[As](/post/as/) [a](/post/a/) [verb](/post/verb/), **[thrust](/post/thrust/)** [means](/post/means/):
+1. [To](/post/to/) [push](/post/push/) forcefully [or](/post/or/) [quickly](/post/quickly/): "[He](/post/he/) [thrust](/post/thrust/) [the](/post/the/) [knife](/post/knife/) [into](/post/into/) [the](/post/the/) [block](/post/block/)."
+2. [To](/post/to/) [insert](/post/insert/) [or](/post/or/) [place](/post/place/) [something](/post/something/) forcibly: "[She](/post/she/) [thrust](/post/thrust/) [her](/post/her/) opinions [into](/post/into/) [the](/post/the/) [conversation](/post/conversation/)."
+3. [To](/post/to/) [thrust](/post/thrust/) [oneself](/post/oneself/) [forward](/post/forward/) [or](/post/or/) [into](/post/into/) [a](/post/a/) [situation](/post/situation/): "[He](/post/he/) [thrust](/post/thrust/) [himself](/post/himself/) [into](/post/into/) [the](/post/the/) [leadership](/post/leadership/) [role](/post/role/)."
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) [some](/en/post/some/) cases, "thrusting" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/), describing [something](/en/post/something/) characterized [by](/en/post/by/) [force](/en/post/force/) [or](/en/post/or/) [intensity](/en/post/intensity/): "[A](/en/post/a/) thrusting [growth](/en/post/growth/) [pattern](/en/post/pattern/) [in](/en/post/in/) plants."
+### [Adjective](/post/adjective/)
+[In](/post/in/) [some](/post/some/) cases, "thrusting" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/), describing [something](/post/something/) characterized [by](/post/by/) [force](/post/force/) [or](/post/or/) [intensity](/post/intensity/): "[A](/post/a/) thrusting [growth](/post/growth/) [pattern](/post/pattern/) [in](/post/in/) plants."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [thrust](/en/post/thrust/)" implies [a](/en/post/a/) [sudden](/en/post/sudden/), [aggressive](/en/post/aggressive/) [move](/en/post/move/).
-- "Thrusting [motion](/en/post/motion/)" describes [a](/en/post/a/) forceful, [continuous](/en/post/continuous/) [movement](/en/post/movement/).
-- "[A](/en/post/a/) [thrust](/en/post/thrust/) [of](/en/post/of/) creativity" signifies [a](/en/post/a/) [burst](/en/post/burst/) [of](/en/post/of/) imaginative [energy](/en/post/energy/).
+- "[Make](/post/make/) [a](/post/a/) [thrust](/post/thrust/)" implies [a](/post/a/) [sudden](/post/sudden/), [aggressive](/post/aggressive/) [move](/post/move/).
+- "Thrusting [motion](/post/motion/)" describes [a](/post/a/) forceful, [continuous](/post/continuous/) [movement](/post/movement/).
+- "[A](/post/a/) [thrust](/post/thrust/) [of](/post/of/) creativity" signifies [a](/post/a/) [burst](/post/burst/) [of](/post/of/) imaginative [energy](/post/energy/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) engine's [powerful](/en/post/powerful/) [thrust](/en/post/thrust/) propelled [the](/en/post/the/) [airplane](/en/post/airplane/) [forward](/en/post/forward/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) dancer executed [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [fluid](/en/post/fluid/) thrusts [during](/en/post/during/) [the](/en/post/the/) [performance](/en/post/performance/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [mountain](/en/post/mountain/) [range](/en/post/range/) exhibits [a](/en/post/a/) jagged, thrusting skyline."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) engine's [powerful](/post/powerful/) [thrust](/post/thrust/) propelled [the](/post/the/) [airplane](/post/airplane/) [forward](/post/forward/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) dancer executed [a](/post/a/) [series](/post/series/) [of](/post/of/) [fluid](/post/fluid/) thrusts [during](/post/during/) [the](/post/the/) [performance](/post/performance/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [mountain](/post/mountain/) [range](/post/range/) exhibits [a](/post/a/) jagged, thrusting skyline."
 
 ## Synonyms
-- [Push](/en/post/push/)
+- [Push](/post/push/)
 - Impulse
 - Jolt
 - Jab
 - Pushforward
 - Propel
-- [Insert](/en/post/insert/)
-- [Force](/en/post/force/)
+- [Insert](/post/insert/)
+- [Force](/post/force/)
 
 ## Antonyms
-- [Pull](/en/post/pull/)
-- [Withdraw](/en/post/withdraw/)
-- [Ease](/en/post/ease/)
-- [Relax](/en/post/relax/)
-- [Retreat](/en/post/retreat/)
+- [Pull](/post/pull/)
+- [Withdraw](/post/withdraw/)
+- [Ease](/post/ease/)
+- [Relax](/post/relax/)
+- [Retreat](/post/retreat/)

@@ -12,23 +12,23 @@ keywords = ['ai words', 'outlet']
 
 ## 释义
 - **名词**:
-  1. 出口；排出口：例如 "[The](/post/the/) [river](/post/river/) flows [through](/post/through/) [a](/post/a/) [series](/post/series/) [of](/post/of/) outlets [before](/post/before/) reaching [the](/post/the/) [sea](/post/sea/)."
-  2. 发泄途径；释放渠道：例如 "[Exercise](/post/exercise/) is [a](/post/a/) [great](/post/great/) [stress](/post/stress/) [outlet](/post/outlet/) [for](/post/for/) [many](/post/many/) [people](/post/people/)."
-  3. 销售点；分店：例如 "[They](/post/they/) [have](/post/have/) [several](/post/several/) [clothing](/post/clothing/) outlets [across](/post/across/) [the](/post/the/) [city](/post/city/)."
-  4. （电器）插座：例如 "[Plug](/post/plug/) [the](/post/the/) [device](/post/device/) [into](/post/into/) [the](/post/the/) [electrical](/post/electrical/) [outlet](/post/outlet/)."
+  1. 出口；排出口：例如 "[The](/zh/post/the/) [river](/zh/post/river/) flows [through](/zh/post/through/) [a](/zh/post/a/) [series](/zh/post/series/) [of](/zh/post/of/) outlets [before](/zh/post/before/) reaching [the](/zh/post/the/) [sea](/zh/post/sea/)."
+  2. 发泄途径；释放渠道：例如 "[Exercise](/zh/post/exercise/) is [a](/zh/post/a/) [great](/zh/post/great/) [stress](/zh/post/stress/) [outlet](/zh/post/outlet/) [for](/zh/post/for/) [many](/zh/post/many/) [people](/zh/post/people/)."
+  3. 销售点；分店：例如 "[They](/zh/post/they/) [have](/zh/post/have/) [several](/zh/post/several/) [clothing](/zh/post/clothing/) outlets [across](/zh/post/across/) [the](/zh/post/the/) [city](/zh/post/city/)."
+  4. （电器）插座：例如 "[Plug](/zh/post/plug/) [the](/zh/post/the/) [device](/zh/post/device/) [into](/zh/post/into/) [the](/zh/post/the/) [electrical](/zh/post/electrical/) [outlet](/zh/post/outlet/)."
 
 ## 短语
-- "[Power](/post/power/) [outlet](/post/outlet/)" 指的是电源插座。
-- "Retail [outlet](/post/outlet/)" 指的是零售商店或专卖店。
+- "[Power](/zh/post/power/) [outlet](/zh/post/outlet/)" 指的是电源插座。
+- "Retail [outlet](/zh/post/outlet/)" 指的是零售商店或专卖店。
 
 ## 例句
-- 名词: "[Please](/post/please/) [locate](/post/locate/) [the](/post/the/) nearest [power](/post/power/) [outlet](/post/outlet/) [to](/post/to/) [charge](/post/charge/) [your](/post/your/) [phone](/post/phone/)."
-- 名词: "[The](/post/the/) [new](/post/new/) mall has an [outlet](/post/outlet/) [for](/post/for/) [every](/post/every/) [major](/post/major/) [brand](/post/brand/)."
-- 名词: "[Writing](/post/writing/) serves [as](/post/as/) an [emotional](/post/emotional/) [outlet](/post/outlet/) [for](/post/for/) [her](/post/her/)."
+- 名词: "[Please](/zh/post/please/) [locate](/zh/post/locate/) [the](/zh/post/the/) nearest [power](/zh/post/power/) [outlet](/zh/post/outlet/) [to](/zh/post/to/) [charge](/zh/post/charge/) [your](/zh/post/your/) [phone](/zh/post/phone/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) mall has an [outlet](/zh/post/outlet/) [for](/zh/post/for/) [every](/zh/post/every/) [major](/zh/post/major/) [brand](/zh/post/brand/)."
+- 名词: "[Writing](/zh/post/writing/) serves [as](/zh/post/as/) an [emotional](/zh/post/emotional/) [outlet](/zh/post/outlet/) [for](/zh/post/for/) [her](/zh/post/her/)."
 
 ## 同义词
-- [Exit](/post/exit/)
+- [Exit](/zh/post/exit/)
 - Vent
-- [Release](/post/release/)
-- [Shop](/post/shop/)
+- [Release](/zh/post/release/)
+- [Shop](/zh/post/shop/)
 - Socket

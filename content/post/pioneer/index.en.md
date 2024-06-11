@@ -7,23 +7,23 @@ description = '[ˌpaiəˈniə] n.拓荒者；先驱者'
 keywords = ['ai words', 'pioneer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /piːˈɔɪnər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [among](/en/post/among/) [the](/en/post/the/) [first](/en/post/first/) [to](/en/post/to/) [explore](/en/post/explore/) [or](/en/post/or/) [settle](/en/post/settle/) [in](/en/post/in/) [a](/en/post/a/) [new](/en/post/new/) [area](/en/post/area/), [introduce](/en/post/introduce/) [a](/en/post/a/) [new](/en/post/new/) [idea](/en/post/idea/), [or](/en/post/or/) [develop](/en/post/develop/) [a](/en/post/a/) [new](/en/post/new/) [field](/en/post/field/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [early](/en/post/early/) pioneers cleared [the](/en/post/the/) [land](/en/post/land/) [for](/en/post/for/) [settlement](/en/post/settlement/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [pioneer](/en/post/pioneer/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/) [or](/en/post/or/) [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [a](/en/post/a/) [pioneer](/en/post/pioneer/) [in](/en/post/in/) women's rights."
-- **[Adjective](/en/post/adjective/)**: Characterizing [or](/en/post/or/) related [to](/en/post/to/) [a](/en/post/a/) [pioneer](/en/post/pioneer/), [especially](/en/post/especially/) [in](/en/post/in/) terms [of](/en/post/of/) innovation [or](/en/post/or/) pioneering [work](/en/post/work/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) had [a](/en/post/a/) pioneering [approach](/en/post/approach/) [to](/en/post/to/) renewable [energy](/en/post/energy/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [among](/post/among/) [the](/post/the/) [first](/post/first/) [to](/post/to/) [explore](/post/explore/) [or](/post/or/) [settle](/post/settle/) [in](/post/in/) [a](/post/a/) [new](/post/new/) [area](/post/area/), [introduce](/post/introduce/) [a](/post/a/) [new](/post/new/) [idea](/post/idea/), [or](/post/or/) [develop](/post/develop/) [a](/post/a/) [new](/post/new/) [field](/post/field/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [early](/post/early/) pioneers cleared [the](/post/the/) [land](/post/land/) [for](/post/for/) [settlement](/post/settlement/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) [a](/post/a/) [pioneer](/post/pioneer/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/) [or](/post/or/) [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [a](/post/a/) [pioneer](/post/pioneer/) [in](/post/in/) women's rights."
+- **[Adjective](/post/adjective/)**: Characterizing [or](/post/or/) related [to](/post/to/) [a](/post/a/) [pioneer](/post/pioneer/), [especially](/post/especially/) [in](/post/in/) terms [of](/post/of/) innovation [or](/post/or/) pioneering [work](/post/work/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) had [a](/post/a/) pioneering [approach](/post/approach/) [to](/post/to/) renewable [energy](/post/energy/)."
 
 ## Phrases
-- "[Pioneer](/en/post/pioneer/) [work](/en/post/work/)" refers [to](/en/post/to/) [the](/en/post/the/) [initial](/en/post/initial/) [and](/en/post/and/) groundbreaking efforts [in](/en/post/in/) [a](/en/post/a/) [field](/en/post/field/).
-- "Trailblazer" [or](/en/post/or/) "pathfinder" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [pioneer](/en/post/pioneer/) [in](/en/post/in/) [a](/en/post/a/) [similar](/en/post/similar/) [sense](/en/post/sense/).
-- "[Pioneer](/en/post/pioneer/) [spirit](/en/post/spirit/)" denotes [the](/en/post/the/) [determination](/en/post/determination/) [and](/en/post/and/) [courage](/en/post/courage/) shown [by](/en/post/by/) [early](/en/post/early/) explorers.
+- "[Pioneer](/post/pioneer/) [work](/post/work/)" refers [to](/post/to/) [the](/post/the/) [initial](/post/initial/) [and](/post/and/) groundbreaking efforts [in](/post/in/) [a](/post/a/) [field](/post/field/).
+- "Trailblazer" [or](/post/or/) "pathfinder" [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [pioneer](/post/pioneer/) [in](/post/in/) [a](/post/a/) [similar](/post/similar/) [sense](/post/sense/).
+- "[Pioneer](/post/pioneer/) [spirit](/post/spirit/)" denotes [the](/post/the/) [determination](/post/determination/) [and](/post/and/) [courage](/post/courage/) shown [by](/post/by/) [early](/post/early/) explorers.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [family](/en/post/family/) was [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [original](/en/post/original/) [group](/en/post/group/) [of](/en/post/of/) pioneers [who](/en/post/who/) settled [this](/en/post/this/) [region](/en/post/region/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) is [a](/en/post/a/) [pioneer](/en/post/pioneer/) [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/) [of](/en/post/of/) [artificial](/en/post/artificial/) [intelligence](/en/post/intelligence/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) pioneering [research](/en/post/research/) changed [the](/en/post/the/) [course](/en/post/course/) [of](/en/post/of/) [medicine](/en/post/medicine/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [family](/post/family/) was [part](/post/part/) [of](/post/of/) [the](/post/the/) [original](/post/original/) [group](/post/group/) [of](/post/of/) pioneers [who](/post/who/) settled [this](/post/this/) [region](/post/region/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) is [a](/post/a/) [pioneer](/post/pioneer/) [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [artificial](/post/artificial/) [intelligence](/post/intelligence/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) pioneering [research](/post/research/) changed [the](/post/the/) [course](/post/course/) [of](/post/of/) [medicine](/post/medicine/)."
 
 ## Synonyms
 - Innovator
@@ -39,4 +39,4 @@ keywords = ['ai words', 'pioneer']
 - Traditionalist
 - Copycat
 - Laggard
--保守者 ([conservative](/en/post/conservative/))
+-保守者 ([conservative](/post/conservative/))

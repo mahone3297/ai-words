@@ -11,20 +11,20 @@ keywords = ['ai words', 'carve']
 /kɑːrv/
 
 ## 释义
-- **动词**: 刻，雕刻。例如: "[The](/post/the/) [artist](/post/artist/) carved [a](/post/a/) [beautiful](/post/beautiful/) [statue](/post/statue/) [from](/post/from/) [marble](/post/marble/)."
-- **名词**: 雕刻，切口。例如: "[There](/post/there/) was [a](/post/a/) [deep](/post/deep/) [carve](/post/carve/) [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+- **动词**: 刻，雕刻。例如: "[The](/zh/post/the/) [artist](/zh/post/artist/) carved [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [statue](/zh/post/statue/) [from](/zh/post/from/) [marble](/zh/post/marble/)."
+- **名词**: 雕刻，切口。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [deep](/zh/post/deep/) [carve](/zh/post/carve/) [on](/zh/post/on/) [the](/zh/post/the/) [table](/zh/post/table/)."
 
 ## 短语
-- "[carve](/post/carve/) [out](/post/out/)" 意味着开辟或塑造。例如: "[She](/post/she/) carved [out](/post/out/) [a](/post/a/) [successful](/post/successful/) [career](/post/career/) [in](/post/in/) [business](/post/business/)."
-- "[carve](/post/carve/) one's [name](/post/name/)" 指在历史上或某领域留下自己的名字。例如: "[He](/post/he/) hoped [to](/post/to/) [carve](/post/carve/) [his](/post/his/) [name](/post/name/) [in](/post/in/) [the](/post/the/) annals [of](/post/of/) sports."
+- "[carve](/zh/post/carve/) [out](/zh/post/out/)" 意味着开辟或塑造。例如: "[She](/zh/post/she/) carved [out](/zh/post/out/) [a](/zh/post/a/) [successful](/zh/post/successful/) [career](/zh/post/career/) [in](/zh/post/in/) [business](/zh/post/business/)."
+- "[carve](/zh/post/carve/) one's [name](/zh/post/name/)" 指在历史上或某领域留下自己的名字。例如: "[He](/zh/post/he/) hoped [to](/zh/post/to/) [carve](/zh/post/carve/) [his](/zh/post/his/) [name](/zh/post/name/) [in](/zh/post/in/) [the](/zh/post/the/) annals [of](/zh/post/of/) sports."
 
 ## 例句
-- 动词: "[He](/post/he/) skillfully carved [a](/post/a/) pumpkin [for](/post/for/) Halloween."
-- 名词: "[The](/post/the/) [turkey](/post/turkey/) had [beautiful](/post/beautiful/) carves made [by](/post/by/) [the](/post/the/) chef."
+- 动词: "[He](/zh/post/he/) skillfully carved [a](/zh/post/a/) pumpkin [for](/zh/post/for/) Halloween."
+- 名词: "[The](/zh/post/the/) [turkey](/zh/post/turkey/) had [beautiful](/zh/post/beautiful/) carves made [by](/zh/post/by/) [the](/zh/post/the/) chef."
 
 ## 同义词
 - engrave
 - etch
 - sculpt
 - chisel
-- [cut](/post/cut/)
+- [cut](/zh/post/cut/)

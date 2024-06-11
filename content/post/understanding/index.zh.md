@@ -11,20 +11,20 @@ keywords = ['ai words', 'understanding']
 /ˌʌndərˈstændɪŋ/
 
 ## 释义
-- **名词**: 理解，领悟，认识。例如: "[She](/post/she/) has [a](/post/a/) [deep](/post/deep/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [subject](/post/subject/)."
-- **动词**: 理解，明白。例如: "I don't [understand](/post/understand/) [what](/post/what/) you're trying [to](/post/to/) [say](/post/say/)."
+- **名词**: 理解，领悟，认识。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [deep](/zh/post/deep/) [understanding](/zh/post/understanding/) [of](/zh/post/of/) [the](/zh/post/the/) [subject](/zh/post/subject/)."
+- **动词**: 理解，明白。例如: "I don't [understand](/zh/post/understand/) [what](/zh/post/what/) you're trying [to](/zh/post/to/) [say](/zh/post/say/)."
 
 ## 短语
-- "[Mutual](/post/mutual/) [understanding](/post/understanding/)" 意为互相理解。
-- "[Lack](/post/lack/) [of](/post/of/) [understanding](/post/understanding/)" 表示理解不足或误解。
+- "[Mutual](/zh/post/mutual/) [understanding](/zh/post/understanding/)" 意为互相理解。
+- "[Lack](/zh/post/lack/) [of](/zh/post/of/) [understanding](/zh/post/understanding/)" 表示理解不足或误解。
 
 ## 例句
-- 名词: "[His](/post/his/) [extensive](/post/extensive/) [reading](/post/reading/) has given [him](/post/him/) [a](/post/a/) [broad](/post/broad/) [understanding](/post/understanding/) [of](/post/of/) [history](/post/history/)."
-- 动词: "[Can](/post/can/) [you](/post/you/) [explain](/post/explain/) [it](/post/it/) [again](/post/again/)? I'm [afraid](/post/afraid/) I don't fully [understand](/post/understand/)."
+- 名词: "[His](/zh/post/his/) [extensive](/zh/post/extensive/) [reading](/zh/post/reading/) has given [him](/zh/post/him/) [a](/zh/post/a/) [broad](/zh/post/broad/) [understanding](/zh/post/understanding/) [of](/zh/post/of/) [history](/zh/post/history/)."
+- 动词: "[Can](/zh/post/can/) [you](/zh/post/you/) [explain](/zh/post/explain/) [it](/zh/post/it/) [again](/zh/post/again/)? I'm [afraid](/zh/post/afraid/) I don't fully [understand](/zh/post/understand/)."
 
 ## 同义词
-- [Comprehension](/post/comprehension/)
-- [Grasp](/post/grasp/)
-- [Knowledge](/post/knowledge/)
+- [Comprehension](/zh/post/comprehension/)
+- [Grasp](/zh/post/grasp/)
+- [Knowledge](/zh/post/knowledge/)
 - Perception
 - Insight

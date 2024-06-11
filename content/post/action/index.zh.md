@@ -12,25 +12,25 @@ keywords = ['ai words', 'action']
 
 ## 释义
 - **名词**:
-  1. 行动；行为：[The](/post/the/) [success](/post/success/) [of](/post/of/) [the](/post/the/) [plan](/post/plan/) depends [on](/post/on/) [your](/post/your/) actions.
-  2. 表演；动作：[The](/post/the/) actor's [stage](/post/stage/) [action](/post/action/) was convincing.
-  3. （尤指戏剧、电影的）场景：[The](/post/the/) [fight](/post/fight/) [scene](/post/scene/) was [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [exciting](/post/exciting/) actions [in](/post/in/) [the](/post/the/) [movie](/post/movie/).
-  4. 法律诉讼：[They](/post/they/) decided [to](/post/to/) [take](/post/take/) [legal](/post/legal/) [action](/post/action/) [against](/post/against/) [the](/post/the/) [company](/post/company/).
+  1. 行动；行为：[The](/zh/post/the/) [success](/zh/post/success/) [of](/zh/post/of/) [the](/zh/post/the/) [plan](/zh/post/plan/) depends [on](/zh/post/on/) [your](/zh/post/your/) actions.
+  2. 表演；动作：[The](/zh/post/the/) actor's [stage](/zh/post/stage/) [action](/zh/post/action/) was convincing.
+  3. （尤指戏剧、电影的）场景：[The](/zh/post/the/) [fight](/zh/post/fight/) [scene](/zh/post/scene/) was [one](/zh/post/one/) [of](/zh/post/of/) [the](/zh/post/the/) [most](/zh/post/most/) [exciting](/zh/post/exciting/) actions [in](/zh/post/in/) [the](/zh/post/the/) [movie](/zh/post/movie/).
+  4. 法律诉讼：[They](/zh/post/they/) decided [to](/zh/post/to/) [take](/zh/post/take/) [legal](/zh/post/legal/) [action](/zh/post/action/) [against](/zh/post/against/) [the](/zh/post/the/) [company](/zh/post/company/).
 
 - **动词**:
-  采取行动；做事：It's [time](/post/time/) [for](/post/for/) [us](/post/us/) [to](/post/to/) [take](/post/take/) [action](/post/action/) [against](/post/against/) [pollution](/post/pollution/).
+  采取行动；做事：It's [time](/zh/post/time/) [for](/zh/post/for/) [us](/zh/post/us/) [to](/zh/post/to/) [take](/zh/post/take/) [action](/zh/post/action/) [against](/zh/post/against/) [pollution](/zh/post/pollution/).
 
 ## 短语
-- "[In](/post/in/) [action](/post/action/)" 表示在进行中或处于活动状态：[The](/post/the/) firefighters were [in](/post/in/) [action](/post/action/) [immediately](/post/immediately/) [after](/post/after/) [the](/post/the/) [alarm](/post/alarm/) sounded.
-- "[Call](/post/call/) [to](/post/to/) [action](/post/action/)" 在广告或演讲中鼓励人们采取特定行动的呼吁：[The](/post/the/) [speech](/post/speech/) ended [with](/post/with/) [a](/post/a/) [powerful](/post/powerful/) [call](/post/call/) [to](/post/to/) [action](/post/action/).
+- "[In](/zh/post/in/) [action](/zh/post/action/)" 表示在进行中或处于活动状态：[The](/zh/post/the/) firefighters were [in](/zh/post/in/) [action](/zh/post/action/) [immediately](/zh/post/immediately/) [after](/zh/post/after/) [the](/zh/post/the/) [alarm](/zh/post/alarm/) sounded.
+- "[Call](/zh/post/call/) [to](/zh/post/to/) [action](/zh/post/action/)" 在广告或演讲中鼓励人们采取特定行动的呼吁：[The](/zh/post/the/) [speech](/zh/post/speech/) ended [with](/zh/post/with/) [a](/zh/post/a/) [powerful](/zh/post/powerful/) [call](/zh/post/call/) [to](/zh/post/to/) [action](/zh/post/action/).
 
 ## 例句
-- 名词: "[The](/post/the/) movie's [intense](/post/intense/) [action](/post/action/) scenes kept [the](/post/the/) [audience](/post/audience/) [on](/post/on/) [the](/post/the/) [edge](/post/edge/) [of](/post/of/) [their](/post/their/) seats."
-- 动词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [action](/post/action/) [our](/post/our/) [plan](/post/plan/) [before](/post/before/) [the](/post/the/) [competition](/post/competition/) beats [us](/post/us/) [to](/post/to/) [it](/post/it/)."
+- 名词: "[The](/zh/post/the/) movie's [intense](/zh/post/intense/) [action](/zh/post/action/) scenes kept [the](/zh/post/the/) [audience](/zh/post/audience/) [on](/zh/post/on/) [the](/zh/post/the/) [edge](/zh/post/edge/) [of](/zh/post/of/) [their](/zh/post/their/) seats."
+- 动词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [action](/zh/post/action/) [our](/zh/post/our/) [plan](/zh/post/plan/) [before](/zh/post/before/) [the](/zh/post/the/) [competition](/zh/post/competition/) beats [us](/zh/post/us/) [to](/zh/post/to/) [it](/zh/post/it/)."
 
 ## 同义词
-- [Act](/post/act/)
-- [Move](/post/move/)
-- [Operation](/post/operation/)
-- [Activity](/post/activity/)
-- [Deed](/post/deed/)
+- [Act](/zh/post/act/)
+- [Move](/zh/post/move/)
+- [Operation](/zh/post/operation/)
+- [Activity](/zh/post/activity/)
+- [Deed](/zh/post/deed/)

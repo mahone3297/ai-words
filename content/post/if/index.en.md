@@ -7,28 +7,28 @@ description = '[if] conj.假如，如果'
 keywords = ['ai words', 'if']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪf/
 
 ## Definitions
-- **[Conjunction](/en/post/conjunction/)**: [A](/en/post/a/) [word](/en/post/word/) [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) conditional clause, expressing [a](/en/post/a/) [possible](/en/post/possible/) [condition](/en/post/condition/) [or](/en/post/or/) [consequence](/en/post/consequence/). [For](/en/post/for/) [example](/en/post/example/): "[If](/en/post/if/) [it](/en/post/it/) rains, I'll [stay](/en/post/stay/) [at](/en/post/at/) [home](/en/post/home/)."
-  - *[Definition](/en/post/definition/) in-depth*: [The](/en/post/the/) [word](/en/post/word/) "[if](/en/post/if/)" is [used](/en/post/used/) [to](/en/post/to/) [join](/en/post/join/) [two](/en/post/two/) clauses [where](/en/post/where/) [the](/en/post/the/) [first](/en/post/first/) clause (protasis) typically presents [a](/en/post/a/) hypothetical [situation](/en/post/situation/), [and](/en/post/and/) [the](/en/post/the/) [second](/en/post/second/) clause (apodosis) describes [the](/en/post/the/) [outcome](/en/post/outcome/) [that](/en/post/that/) [would](/en/post/would/) [follow](/en/post/follow/) [if](/en/post/if/) [that](/en/post/that/) [situation](/en/post/situation/) were [true](/en/post/true/). 
+- **[Conjunction](/post/conjunction/)**: [A](/post/a/) [word](/post/word/) [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) conditional clause, expressing [a](/post/a/) [possible](/post/possible/) [condition](/post/condition/) [or](/post/or/) [consequence](/post/consequence/). [For](/post/for/) [example](/post/example/): "[If](/post/if/) [it](/post/it/) rains, I'll [stay](/post/stay/) [at](/post/at/) [home](/post/home/)."
+  - *[Definition](/post/definition/) in-depth*: [The](/post/the/) [word](/post/word/) "[if](/post/if/)" is [used](/post/used/) [to](/post/to/) [join](/post/join/) [two](/post/two/) clauses [where](/post/where/) [the](/post/the/) [first](/post/first/) clause (protasis) typically presents [a](/post/a/) hypothetical [situation](/post/situation/), [and](/post/and/) [the](/post/the/) [second](/post/second/) clause (apodosis) describes [the](/post/the/) [outcome](/post/outcome/) [that](/post/that/) [would](/post/would/) [follow](/post/follow/) [if](/post/if/) [that](/post/that/) [situation](/post/situation/) were [true](/post/true/). 
 
-- **[Preposition](/en/post/preposition/)**: [In](/en/post/in/) [some](/en/post/some/) cases, "[if](/en/post/if/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [mean](/en/post/mean/) "[whether](/en/post/whether/)." [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) asked [me](/en/post/me/) [if](/en/post/if/) [he](/en/post/he/) was coming."
+- **[Preposition](/post/preposition/)**: [In](/post/in/) [some](/post/some/) cases, "[if](/post/if/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [mean](/post/mean/) "[whether](/post/whether/)." [For](/post/for/) [example](/post/example/): "[She](/post/she/) asked [me](/post/me/) [if](/post/if/) [he](/post/he/) was coming."
 
 ## Phrases
-- "[If](/en/post/if/) [and](/en/post/and/) [when](/en/post/when/)" is [used](/en/post/used/) [to](/en/post/to/) [suggest](/en/post/suggest/) [that](/en/post/that/) [something](/en/post/something/) [might](/en/post/might/) [happen](/en/post/happen/) [at](/en/post/at/) [some](/en/post/some/) [future](/en/post/future/) [time](/en/post/time/) [or](/en/post/or/) [under](/en/post/under/) [certain](/en/post/certain/) conditions.
-- "[If](/en/post/if/) [only](/en/post/only/)" introduces [a](/en/post/a/) [wish](/en/post/wish/) [or](/en/post/or/) [regret](/en/post/regret/) [about](/en/post/about/) [something](/en/post/something/) [that](/en/post/that/) is [not](/en/post/not/) [true](/en/post/true/) [or](/en/post/or/) cannot [be](/en/post/be/) changed. [For](/en/post/for/) [example](/en/post/example/): "[If](/en/post/if/) [only](/en/post/only/) I had studied harder."
-- "[If](/en/post/if/) [so](/en/post/so/)" is [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [statement](/en/post/statement/) [that](/en/post/that/) is [likely](/en/post/likely/) [to](/en/post/to/) [be](/en/post/be/) [true](/en/post/true/) based [on](/en/post/on/) [what](/en/post/what/) has been [previously](/en/post/previously/) mentioned. [Example](/en/post/example/): "Are [you](/en/post/you/) going [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/) [tonight](/en/post/tonight/)? [If](/en/post/if/) [so](/en/post/so/), I'll [see](/en/post/see/) [you](/en/post/you/) [there](/en/post/there/)."
+- "[If](/post/if/) [and](/post/and/) [when](/post/when/)" is [used](/post/used/) [to](/post/to/) [suggest](/post/suggest/) [that](/post/that/) [something](/post/something/) [might](/post/might/) [happen](/post/happen/) [at](/post/at/) [some](/post/some/) [future](/post/future/) [time](/post/time/) [or](/post/or/) [under](/post/under/) [certain](/post/certain/) conditions.
+- "[If](/post/if/) [only](/post/only/)" introduces [a](/post/a/) [wish](/post/wish/) [or](/post/or/) [regret](/post/regret/) [about](/post/about/) [something](/post/something/) [that](/post/that/) is [not](/post/not/) [true](/post/true/) [or](/post/or/) cannot [be](/post/be/) changed. [For](/post/for/) [example](/post/example/): "[If](/post/if/) [only](/post/only/) I had studied harder."
+- "[If](/post/if/) [so](/post/so/)" is [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [statement](/post/statement/) [that](/post/that/) is [likely](/post/likely/) [to](/post/to/) [be](/post/be/) [true](/post/true/) based [on](/post/on/) [what](/post/what/) has been [previously](/post/previously/) mentioned. [Example](/post/example/): "Are [you](/post/you/) going [to](/post/to/) [the](/post/the/) [party](/post/party/) [tonight](/post/tonight/)? [If](/post/if/) [so](/post/so/), I'll [see](/post/see/) [you](/post/you/) [there](/post/there/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Conjunction](/en/post/conjunction/)**: "[If](/en/post/if/) [you](/en/post/you/) [study](/en/post/study/) [hard](/en/post/hard/), [you](/en/post/you/) [will](/en/post/will/) [pass](/en/post/pass/) [the](/en/post/the/) [exam](/en/post/exam/)."
-- **[Preposition](/en/post/preposition/)**: "I'm [not](/en/post/not/) [sure](/en/post/sure/) [if](/en/post/if/) he's coming [to](/en/post/to/) [the](/en/post/the/) [meeting](/en/post/meeting/) [today](/en/post/today/)."
+## [Example](/post/example/) Sentences
+- **[Conjunction](/post/conjunction/)**: "[If](/post/if/) [you](/post/you/) [study](/post/study/) [hard](/post/hard/), [you](/post/you/) [will](/post/will/) [pass](/post/pass/) [the](/post/the/) [exam](/post/exam/)."
+- **[Preposition](/post/preposition/)**: "I'm [not](/post/not/) [sure](/post/sure/) [if](/post/if/) he's coming [to](/post/to/) [the](/post/the/) [meeting](/post/meeting/) [today](/post/today/)."
 
 ## Synonyms
-- [Whether](/en/post/whether/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- [Whether](/post/whether/) ([in](/post/in/) [some](/post/some/) contexts)
 - Supposing
-- [Provided](/en/post/provided/) [that](/en/post/that/)
-- Given [that](/en/post/that/)
-- [In](/en/post/in/) [case](/en/post/case/)
-- [Should](/en/post/should/) ([in](/en/post/in/) [certain](/en/post/certain/) conditional sentences)
+- [Provided](/post/provided/) [that](/post/that/)
+- Given [that](/post/that/)
+- [In](/post/in/) [case](/post/case/)
+- [Should](/post/should/) ([in](/post/in/) [certain](/post/certain/) conditional sentences)

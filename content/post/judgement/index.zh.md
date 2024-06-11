@@ -11,20 +11,20 @@ keywords = ['ai words', 'judgement']
 /ˈdʒʌdgmənt/
 
 ## 释义
-- **名词 (n)**: 对事物的评价、判断或决定。例如: "[She](/post/she/) made [a](/post/a/) [wise](/post/wise/) [judgement](/post/judgement/) [about](/post/about/) [the](/post/the/) [situation](/post/situation/)."
-- **动词 (v)**: 形成或做出判断。例如: "[The](/post/the/) [judge](/post/judge/) [will](/post/will/) [judgement](/post/judgement/) [on](/post/on/) [the](/post/the/) [case](/post/case/) [tomorrow](/post/tomorrow/)."
+- **名词 (n)**: 对事物的评价、判断或决定。例如: "[She](/zh/post/she/) made [a](/zh/post/a/) [wise](/zh/post/wise/) [judgement](/zh/post/judgement/) [about](/zh/post/about/) [the](/zh/post/the/) [situation](/zh/post/situation/)."
+- **动词 (v)**: 形成或做出判断。例如: "[The](/zh/post/the/) [judge](/zh/post/judge/) [will](/zh/post/will/) [judgement](/zh/post/judgement/) [on](/zh/post/on/) [the](/zh/post/the/) [case](/zh/post/case/) [tomorrow](/zh/post/tomorrow/)."
 
 ## 短语
-- "[make](/post/make/) [a](/post/a/) [judgement](/post/judgement/)" 意为做出判断。
-- "[in](/post/in/) [the](/post/the/) [judgement](/post/judgement/) [of](/post/of/)" 表示在某人的判断下。例如: "[In](/post/in/) [the](/post/the/) [judgement](/post/judgement/) [of](/post/of/) [most](/post/most/) experts, [the](/post/the/) [policy](/post/policy/) was [a](/post/a/) [failure](/post/failure/)."
+- "[make](/zh/post/make/) [a](/zh/post/a/) [judgement](/zh/post/judgement/)" 意为做出判断。
+- "[in](/zh/post/in/) [the](/zh/post/the/) [judgement](/zh/post/judgement/) [of](/zh/post/of/)" 表示在某人的判断下。例如: "[In](/zh/post/in/) [the](/zh/post/the/) [judgement](/zh/post/judgement/) [of](/zh/post/of/) [most](/zh/post/most/) experts, [the](/zh/post/the/) [policy](/zh/post/policy/) was [a](/zh/post/a/) [failure](/zh/post/failure/)."
 
 ## 例句
-- 名词: "[His](/post/his/) [initial](/post/initial/) [judgement](/post/judgement/) [of](/post/of/) [the](/post/the/) [situation](/post/situation/) proved [to](/post/to/) [be](/post/be/) [correct](/post/correct/)."
-- 动词: "[The](/post/the/) [jury](/post/jury/) [will](/post/will/) [judgement](/post/judgement/) [after](/post/after/) hearing [all](/post/all/) [the](/post/the/) [evidence](/post/evidence/)."
+- 名词: "[His](/zh/post/his/) [initial](/zh/post/initial/) [judgement](/zh/post/judgement/) [of](/zh/post/of/) [the](/zh/post/the/) [situation](/zh/post/situation/) proved [to](/zh/post/to/) [be](/zh/post/be/) [correct](/zh/post/correct/)."
+- 动词: "[The](/zh/post/the/) [jury](/zh/post/jury/) [will](/zh/post/will/) [judgement](/zh/post/judgement/) [after](/zh/post/after/) hearing [all](/zh/post/all/) [the](/zh/post/the/) [evidence](/zh/post/evidence/)."
 
 ## 同义词
-- [Opinion](/post/opinion/)
+- [Opinion](/zh/post/opinion/)
 - Evaluation
-- [Decision](/post/decision/)
-- [Conclusion](/post/conclusion/)
+- [Decision](/zh/post/decision/)
+- [Conclusion](/zh/post/conclusion/)
 - Verdict

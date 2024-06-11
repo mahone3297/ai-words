@@ -7,24 +7,24 @@ description = '[ˈfɔːt∫ənətli] ad.幸运地，幸亏'
 keywords = ['ai words', 'fortunately']
 +++
 
-## [Word](/en/post/word/): [Fortunately](/en/post/fortunately/)
+## [Word](/post/word/): [Fortunately](/post/fortunately/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɔːtʃənətli/
 
-## [Definition](/en/post/definition/)
-**[Adverb](/en/post/adverb/)**: Happening [by](/en/post/by/) [good](/en/post/good/) [fortune](/en/post/fortune/); [with](/en/post/with/) [luck](/en/post/luck/) [or](/en/post/or/) [good](/en/post/good/) [luck](/en/post/luck/). It's [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [positive](/en/post/positive/) [statement](/en/post/statement/) [that](/en/post/that/) counters [a](/en/post/a/) [negative](/en/post/negative/) [expectation](/en/post/expectation/) [or](/en/post/or/) [situation](/en/post/situation/).
+## [Definition](/post/definition/)
+**[Adverb](/post/adverb/)**: Happening [by](/post/by/) [good](/post/good/) [fortune](/post/fortune/); [with](/post/with/) [luck](/post/luck/) [or](/post/or/) [good](/post/good/) [luck](/post/luck/). It's [often](/post/often/) [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [positive](/post/positive/) [statement](/post/statement/) [that](/post/that/) counters [a](/post/a/) [negative](/post/negative/) [expectation](/post/expectation/) [or](/post/or/) [situation](/post/situation/).
 
-- **[Meaning](/en/post/meaning/)**: Expressing [relief](/en/post/relief/) [or](/en/post/or/) [happiness](/en/post/happiness/) [about](/en/post/about/) [something](/en/post/something/) [unexpected](/en/post/unexpected/) [but](/en/post/but/) favorable.
+- **[Meaning](/post/meaning/)**: Expressing [relief](/post/relief/) [or](/post/or/) [happiness](/post/happiness/) [about](/post/about/) [something](/post/something/) [unexpected](/post/unexpected/) [but](/post/but/) favorable.
   
-## [Example](/en/post/example/) Sentences
-- _Fortunately_, [the](/en/post/the/) [storm](/en/post/storm/) passed [over](/en/post/over/) [without](/en/post/without/) causing [any](/en/post/any/) [damage](/en/post/damage/) [to](/en/post/to/) [our](/en/post/our/) [house](/en/post/house/).
-- [Despite](/en/post/despite/) [being](/en/post/being/) lost, _fortunately_ [we](/en/post/we/) stumbled [upon](/en/post/upon/) [a](/en/post/a/) [helpful](/en/post/helpful/) [local](/en/post/local/) [who](/en/post/who/) showed [us](/en/post/us/) [the](/en/post/the/) [way](/en/post/way/) [back](/en/post/back/).
-- [We](/en/post/we/) were worried [about](/en/post/about/) finances, [but](/en/post/but/) _fortunately_ [my](/en/post/my/) bonus came [through](/en/post/through/) [just](/en/post/just/) [in](/en/post/in/) [time](/en/post/time/).
+## [Example](/post/example/) Sentences
+- _Fortunately_, [the](/post/the/) [storm](/post/storm/) passed [over](/post/over/) [without](/post/without/) causing [any](/post/any/) [damage](/post/damage/) [to](/post/to/) [our](/post/our/) [house](/post/house/).
+- [Despite](/post/despite/) [being](/post/being/) lost, _fortunately_ [we](/post/we/) stumbled [upon](/post/upon/) [a](/post/a/) [helpful](/post/helpful/) [local](/post/local/) [who](/post/who/) showed [us](/post/us/) [the](/post/the/) [way](/post/way/) [back](/post/back/).
+- [We](/post/we/) were worried [about](/post/about/) finances, [but](/post/but/) _fortunately_ [my](/post/my/) bonus came [through](/post/through/) [just](/post/just/) [in](/post/in/) [time](/post/time/).
 
 ## Phrases
-- _Fortunately enough_, [the](/en/post/the/) [package](/en/post/package/) arrived [just](/en/post/just/) [before](/en/post/before/) [the](/en/post/the/) deadline.
-- _Fortunately [for](/en/post/for/) us_, [the](/en/post/the/) [traffic](/en/post/traffic/) cleared [up](/en/post/up/) [quickly](/en/post/quickly/) [and](/en/post/and/) [we](/en/post/we/) made [it](/en/post/it/) [to](/en/post/to/) [the](/en/post/the/) [airport](/en/post/airport/) [on](/en/post/on/) [time](/en/post/time/).
+- _Fortunately enough_, [the](/post/the/) [package](/post/package/) arrived [just](/post/just/) [before](/post/before/) [the](/post/the/) deadline.
+- _Fortunately [for](/post/for/) us_, [the](/post/the/) [traffic](/post/traffic/) cleared [up](/post/up/) [quickly](/post/quickly/) [and](/post/and/) [we](/post/we/) made [it](/post/it/) [to](/post/to/) [the](/post/the/) [airport](/post/airport/) [on](/post/on/) [time](/post/time/).
 
 ## Synonyms
 - Luckily
@@ -32,5 +32,5 @@ keywords = ['ai words', 'fortunately']
 - Fortuitously
 - Providentially
 - Serendipitously
-- [By](/en/post/by/) [good](/en/post/good/) [fortune](/en/post/fortune/)
-- [With](/en/post/with/) [good](/en/post/good/) [luck](/en/post/luck/)
+- [By](/post/by/) [good](/post/good/) [fortune](/post/fortune/)
+- [With](/post/with/) [good](/post/good/) [luck](/post/luck/)

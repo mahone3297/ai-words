@@ -11,20 +11,20 @@ keywords = ['ai words', 'announce']
 /əˈnau̯ns/
 
 ## 释义
-- **动词**: 公开宣布；宣告。例如: "[The](/post/the/) [company](/post/company/) [will](/post/will/) [announce](/post/announce/) [its](/post/its/) [new](/post/new/) CEO [tomorrow](/post/tomorrow/)."
-- **名词**: 宣布的消息或公告。例如: "[The](/post/the/) [official](/post/official/) announcement was made [in](/post/in/) [the](/post/the/) [evening](/post/evening/) [news](/post/news/)."
+- **动词**: 公开宣布；宣告。例如: "[The](/zh/post/the/) [company](/zh/post/company/) [will](/zh/post/will/) [announce](/zh/post/announce/) [its](/zh/post/its/) [new](/zh/post/new/) CEO [tomorrow](/zh/post/tomorrow/)."
+- **名词**: 宣布的消息或公告。例如: "[The](/zh/post/the/) [official](/zh/post/official/) announcement was made [in](/zh/post/in/) [the](/zh/post/the/) [evening](/zh/post/evening/) [news](/zh/post/news/)."
 
 ## 短语
-- "[announce](/post/announce/) one's [arrival](/post/arrival/)" 宣布自己的到来。
-- "[make](/post/make/) an announcement" 做一个通告。
+- "[announce](/zh/post/announce/) one's [arrival](/zh/post/arrival/)" 宣布自己的到来。
+- "[make](/zh/post/make/) an announcement" 做一个通告。
 
 ## 例句
-- 动词: "[The](/post/the/) [mayor](/post/mayor/) announced [a](/post/a/) [new](/post/new/) [policy](/post/policy/) [to](/post/to/) combat [pollution](/post/pollution/)."
-- 名词: "[They](/post/they/) eagerly awaited [the](/post/the/) [wedding](/post/wedding/) announcement [in](/post/in/) [the](/post/the/) [newspaper](/post/newspaper/)."
+- 动词: "[The](/zh/post/the/) [mayor](/zh/post/mayor/) announced [a](/zh/post/a/) [new](/zh/post/new/) [policy](/zh/post/policy/) [to](/zh/post/to/) combat [pollution](/zh/post/pollution/)."
+- 名词: "[They](/zh/post/they/) eagerly awaited [the](/zh/post/the/) [wedding](/zh/post/wedding/) announcement [in](/zh/post/in/) [the](/zh/post/the/) [newspaper](/zh/post/newspaper/)."
 
 ## 同义词
-- [declare](/post/declare/)
-- [proclaim](/post/proclaim/)
-- [state](/post/state/)
-- [inform](/post/inform/)
-- [reveal](/post/reveal/)
+- [declare](/zh/post/declare/)
+- [proclaim](/zh/post/proclaim/)
+- [state](/zh/post/state/)
+- [inform](/zh/post/inform/)
+- [reveal](/zh/post/reveal/)

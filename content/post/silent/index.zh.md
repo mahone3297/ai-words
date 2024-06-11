@@ -11,20 +11,20 @@ keywords = ['ai words', 'silent']
 /ˈsaɪlənt/
 
 ## 释义
-- **形容词**: 没有声音的，寂静的。例如: "[The](/post/the/) [library](/post/library/) was [completely](/post/completely/) [silent](/post/silent/)."
-- **副词**: 安静地，无声地。例如: "[She](/post/she/) whispered [the](/post/the/) [answer](/post/answer/) silently."
+- **形容词**: 没有声音的，寂静的。例如: "[The](/zh/post/the/) [library](/zh/post/library/) was [completely](/zh/post/completely/) [silent](/zh/post/silent/)."
+- **副词**: 安静地，无声地。例如: "[She](/zh/post/she/) whispered [the](/zh/post/the/) [answer](/zh/post/answer/) silently."
 
 ## 短语
-- "[in](/post/in/) [silence](/post/silence/)" 表示在没有声音或安静的状态下。
-- "[to](/post/to/) [keep](/post/keep/) [silent](/post/silent/)" 意味着保持沉默，不说话。
+- "[in](/zh/post/in/) [silence](/zh/post/silence/)" 表示在没有声音或安静的状态下。
+- "[to](/zh/post/to/) [keep](/zh/post/keep/) [silent](/zh/post/silent/)" 意味着保持沉默，不说话。
 
 ## 例句
-- 形容词: "[The](/post/the/) [movie](/post/movie/) theater was [so](/post/so/) [silent](/post/silent/) [that](/post/that/) [you](/post/you/) [could](/post/could/) [hear](/post/hear/) [a](/post/a/) [pin](/post/pin/) [drop](/post/drop/)."
-- 副词: "[He](/post/he/) listened [to](/post/to/) [the](/post/the/) recording silently, trying [to](/post/to/) [catch](/post/catch/) [every](/post/every/) [detail](/post/detail/)."
+- 形容词: "[The](/zh/post/the/) [movie](/zh/post/movie/) theater was [so](/zh/post/so/) [silent](/zh/post/silent/) [that](/zh/post/that/) [you](/zh/post/you/) [could](/zh/post/could/) [hear](/zh/post/hear/) [a](/zh/post/a/) [pin](/zh/post/pin/) [drop](/zh/post/drop/)."
+- 副词: "[He](/zh/post/he/) listened [to](/zh/post/to/) [the](/zh/post/the/) recording silently, trying [to](/zh/post/to/) [catch](/zh/post/catch/) [every](/zh/post/every/) [detail](/zh/post/detail/)."
 
 ## 同义词
-- [Quiet](/post/quiet/)
-- [Still](/post/still/)
-- [Mute](/post/mute/)
+- [Quiet](/zh/post/quiet/)
+- [Still](/zh/post/still/)
+- [Mute](/zh/post/mute/)
 - Hushed
 - Unvoiced

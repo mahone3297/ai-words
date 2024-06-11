@@ -11,17 +11,17 @@ keywords = ['ai words', 'nineteen']
 /naɪnˈtiːn/
 
 ## 释义
-- **数词**: 表示数字19，十九。例如: "[There](/post/there/) are [nineteen](/post/nineteen/) students [in](/post/in/) [this](/post/this/) [class](/post/class/)."
+- **数词**: 表示数字19，十九。例如: "[There](/zh/post/there/) are [nineteen](/zh/post/nineteen/) students [in](/zh/post/in/) [this](/zh/post/this/) [class](/zh/post/class/)."
 
 ## 短语
-- "[Nineteen](/post/nineteen/) years [old](/post/old/)" 表示一个人19岁。
-- "[The](/post/the/) nineteenth [century](/post/century/)" 指的是19世纪。
+- "[Nineteen](/zh/post/nineteen/) years [old](/zh/post/old/)" 表示一个人19岁。
+- "[The](/zh/post/the/) nineteenth [century](/zh/post/century/)" 指的是19世纪。
 
 ## 例句
-- "[She](/post/she/) turned [nineteen](/post/nineteen/) [on](/post/on/) [her](/post/her/) [last](/post/last/) [birthday](/post/birthday/)."
-- "[It](/post/it/) was [the](/post/the/) nineteenth [time](/post/time/) [he](/post/he/) had won [the](/post/the/) [race](/post/race/)."
+- "[She](/zh/post/she/) turned [nineteen](/zh/post/nineteen/) [on](/zh/post/on/) [her](/zh/post/her/) [last](/zh/post/last/) [birthday](/zh/post/birthday/)."
+- "[It](/zh/post/it/) was [the](/zh/post/the/) nineteenth [time](/zh/post/time/) [he](/zh/post/he/) had won [the](/zh/post/the/) [race](/zh/post/race/)."
 
 ## 同义词
 - Nineteenth (序数词形式)
-- [One](/post/one/) [more](/post/more/) [than](/post/than/) [eighteen](/post/eighteen/)
-- [Less](/post/less/) [than](/post/than/) [twenty](/post/twenty/)
+- [One](/zh/post/one/) [more](/zh/post/more/) [than](/zh/post/than/) [eighteen](/zh/post/eighteen/)
+- [Less](/zh/post/less/) [than](/zh/post/than/) [twenty](/zh/post/twenty/)

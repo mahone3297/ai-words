@@ -11,20 +11,20 @@ keywords = ['ai words', 'congratulate']
 /kənˈgrætʃuˈleɪt/
 
 ## 释义
-- **动词**: 庆祝；祝贺。例如: "[We](/post/we/) congratulated [her](/post/her/) [on](/post/on/) [her](/post/her/) promotion."
-- **名词**: 祝贺；恭喜。例如: "[He](/post/he/) received [many](/post/many/) congratulations [on](/post/on/) [his](/post/his/) [wedding](/post/wedding/) [day](/post/day/)."
+- **动词**: 庆祝；祝贺。例如: "[We](/zh/post/we/) congratulated [her](/zh/post/her/) [on](/zh/post/on/) [her](/zh/post/her/) promotion."
+- **名词**: 祝贺；恭喜。例如: "[He](/zh/post/he/) received [many](/zh/post/many/) congratulations [on](/zh/post/on/) [his](/zh/post/his/) [wedding](/zh/post/wedding/) [day](/zh/post/day/)."
 
 ## 短语
-- "[Offer](/post/offer/) one's congratulations" 意思是表达对某人的祝贺。
-- " [Extend](/post/extend/) congratulations" 指将祝贺传递给某人。
+- "[Offer](/zh/post/offer/) one's congratulations" 意思是表达对某人的祝贺。
+- " [Extend](/zh/post/extend/) congratulations" 指将祝贺传递给某人。
 
 ## 例句
-- 动词: "[They](/post/they/) [all](/post/all/) congratulated [him](/post/him/) [on](/post/on/) winning [the](/post/the/) [prize](/post/prize/)."
-- 名词: "[She](/post/she/) sent [a](/post/a/) [card](/post/card/) [with](/post/with/) [her](/post/her/) congratulations."
+- 动词: "[They](/zh/post/they/) [all](/zh/post/all/) congratulated [him](/zh/post/him/) [on](/zh/post/on/) winning [the](/zh/post/the/) [prize](/zh/post/prize/)."
+- 名词: "[She](/zh/post/she/) sent [a](/zh/post/a/) [card](/zh/post/card/) [with](/zh/post/with/) [her](/zh/post/her/) congratulations."
 
 ## 同义词
-- [Congratulate](/post/congratulate/) [oneself](/post/oneself/) ([on](/post/on/) [something](/post/something/)) = [Be](/post/be/) pleased [with](/post/with/) one's [achievement](/post/achievement/)
-- Compliment = [Praise](/post/praise/) [or](/post/or/) [admire](/post/admire/) [someone](/post/someone/)
-- Felicitate = [Express](/post/express/) [good](/post/good/) wishes [for](/post/for/) an [achievement](/post/achievement/)
-- [Salute](/post/salute/) = [Greet](/post/greet/) [or](/post/or/) honor [someone](/post/someone/) [in](/post/in/) an [official](/post/official/) [or](/post/or/) [formal](/post/formal/) [way](/post/way/)
-- Commend = [Express](/post/express/) [praise](/post/praise/) [and](/post/and/) admiration [for](/post/for/) someone's actions [or](/post/or/) qualities
+- [Congratulate](/zh/post/congratulate/) [oneself](/zh/post/oneself/) ([on](/zh/post/on/) [something](/zh/post/something/)) = [Be](/zh/post/be/) pleased [with](/zh/post/with/) one's [achievement](/zh/post/achievement/)
+- Compliment = [Praise](/zh/post/praise/) [or](/zh/post/or/) [admire](/zh/post/admire/) [someone](/zh/post/someone/)
+- Felicitate = [Express](/zh/post/express/) [good](/zh/post/good/) wishes [for](/zh/post/for/) an [achievement](/zh/post/achievement/)
+- [Salute](/zh/post/salute/) = [Greet](/zh/post/greet/) [or](/zh/post/or/) honor [someone](/zh/post/someone/) [in](/zh/post/in/) an [official](/zh/post/official/) [or](/zh/post/or/) [formal](/zh/post/formal/) [way](/zh/post/way/)
+- Commend = [Express](/zh/post/express/) [praise](/zh/post/praise/) [and](/zh/post/and/) admiration [for](/zh/post/for/) someone's actions [or](/zh/post/or/) qualities

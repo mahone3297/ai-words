@@ -7,42 +7,42 @@ description = '[inˈtelidʒəns] n.智力；理解力；情报'
 keywords = ['ai words', 'intelligence']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈtelɪdʒəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [acquire](/en/post/acquire/) [and](/en/post/and/) [apply](/en/post/apply/) [knowledge](/en/post/knowledge/) [and](/en/post/and/) skills; [the](/en/post/the/) [capacity](/en/post/capacity/) [for](/en/post/for/) [learning](/en/post/learning/), reasoning, [understanding](/en/post/understanding/), problem-solving, decision-making, [and](/en/post/and/) creativity. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) possesses [a](/en/post/a/) [remarkable](/en/post/remarkable/) [intelligence](/en/post/intelligence/) [that](/en/post/that/) allows [her](/en/post/her/) [to](/en/post/to/) excel [in](/en/post/in/) [complex](/en/post/complex/) tasks."
-  - *[In](/en/post/in/) [a](/en/post/a/) [more](/en/post/more/) [specific](/en/post/specific/) context*, [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [information](/en/post/information/) gathered [through](/en/post/through/) espionage [or](/en/post/or/) surveillance activities. [Example](/en/post/example/): "[The](/en/post/the/) [intelligence](/en/post/intelligence/) [report](/en/post/report/) suggested [a](/en/post/a/) [possible](/en/post/possible/) [threat](/en/post/threat/) [from](/en/post/from/) [the](/en/post/the/) [enemy](/en/post/enemy/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [acquire](/post/acquire/) [and](/post/and/) [apply](/post/apply/) [knowledge](/post/knowledge/) [and](/post/and/) skills; [the](/post/the/) [capacity](/post/capacity/) [for](/post/for/) [learning](/post/learning/), reasoning, [understanding](/post/understanding/), problem-solving, decision-making, [and](/post/and/) creativity. [For](/post/for/) [example](/post/example/): "[She](/post/she/) possesses [a](/post/a/) [remarkable](/post/remarkable/) [intelligence](/post/intelligence/) [that](/post/that/) allows [her](/post/her/) [to](/post/to/) excel [in](/post/in/) [complex](/post/complex/) tasks."
+  - *[In](/post/in/) [a](/post/a/) [more](/post/more/) [specific](/post/specific/) context*, [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [information](/post/information/) gathered [through](/post/through/) espionage [or](/post/or/) surveillance activities. [Example](/post/example/): "[The](/post/the/) [intelligence](/post/intelligence/) [report](/post/report/) suggested [a](/post/a/) [possible](/post/possible/) [threat](/post/threat/) [from](/post/from/) [the](/post/the/) [enemy](/post/enemy/)."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/) ([as](/en/post/as/) [a](/en/post/a/) [Noun](/en/post/noun/)):
-- "[Artificial](/en/post/artificial/) [intelligence](/en/post/intelligence/) has transformed [the](/en/post/the/) [way](/en/post/way/) [we](/en/post/we/) interact [with](/en/post/with/) [technology](/en/post/technology/)."
+[Example](/post/example/) [Sentence](/post/sentence/) ([as](/post/as/) [a](/post/a/) [Noun](/post/noun/)):
+- "[Artificial](/post/artificial/) [intelligence](/post/intelligence/) has transformed [the](/post/the/) [way](/post/way/) [we](/post/we/) interact [with](/post/with/) [technology](/post/technology/)."
 
 ## Phrases
-- "[Emotional](/en/post/emotional/) [intelligence](/en/post/intelligence/)" refers [to](/en/post/to/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [identify](/en/post/identify/), [assess](/en/post/assess/), [and](/en/post/and/) [control](/en/post/control/) one's [own](/en/post/own/) emotions [and](/en/post/and/) [the](/en/post/the/) emotions [of](/en/post/of/) others.
-- "[Intelligence](/en/post/intelligence/) quotient (IQ)" is [a](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [a](/en/post/a/) person's [intellectual](/en/post/intellectual/) abilities [relative](/en/post/relative/) [to](/en/post/to/) others.
-- "[Military](/en/post/military/) [intelligence](/en/post/intelligence/)" involves gathering, analyzing, [and](/en/post/and/) utilizing [information](/en/post/information/) [for](/en/post/for/) [military](/en/post/military/) purposes.
+- "[Emotional](/post/emotional/) [intelligence](/post/intelligence/)" refers [to](/post/to/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [identify](/post/identify/), [assess](/post/assess/), [and](/post/and/) [control](/post/control/) one's [own](/post/own/) emotions [and](/post/and/) [the](/post/the/) emotions [of](/post/of/) others.
+- "[Intelligence](/post/intelligence/) quotient (IQ)" is [a](/post/a/) [measure](/post/measure/) [of](/post/of/) [a](/post/a/) person's [intellectual](/post/intellectual/) abilities [relative](/post/relative/) [to](/post/to/) others.
+- "[Military](/post/military/) [intelligence](/post/intelligence/)" involves gathering, analyzing, [and](/post/and/) utilizing [information](/post/information/) [for](/post/for/) [military](/post/military/) purposes.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) exceptional [emotional](/en/post/emotional/) [intelligence](/en/post/intelligence/) made [her](/en/post/her/) an [effective](/en/post/effective/) [leader](/en/post/leader/)."
-- "[Through](/en/post/through/) [his](/en/post/his/) [training](/en/post/training/), [he](/en/post/he/) developed [strong](/en/post/strong/) analytical [intelligence](/en/post/intelligence/) [which](/en/post/which/) helped [him](/en/post/him/) [solve](/en/post/solve/) intricate problems."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) exceptional [emotional](/post/emotional/) [intelligence](/post/intelligence/) made [her](/post/her/) an [effective](/post/effective/) [leader](/post/leader/)."
+- "[Through](/post/through/) [his](/post/his/) [training](/post/training/), [he](/post/he/) developed [strong](/post/strong/) analytical [intelligence](/post/intelligence/) [which](/post/which/) helped [him](/post/him/) [solve](/post/solve/) intricate problems."
 
 ## Synonyms
-- [Wisdom](/en/post/wisdom/)
+- [Wisdom](/post/wisdom/)
 - Cognition
 - Acumen
 - Brainpower
-- [Intellectual](/en/post/intellectual/) [ability](/en/post/ability/)
+- [Intellectual](/post/intellectual/) [ability](/post/ability/)
 - Insight
-- Reasoning [power](/en/post/power/)
+- Reasoning [power](/post/power/)
 - Aptitude
-- [Learning](/en/post/learning/) [ability](/en/post/ability/)
+- [Learning](/post/learning/) [ability](/post/ability/)
 
 ## Derived Forms & Related Terms
-- [Adjective](/en/post/adjective/): [Intelligent](/en/post/intelligent/) / ɪnˈtelɪdʒənt/
-  - [Example](/en/post/example/): "[He](/en/post/he/) is an [intelligent](/en/post/intelligent/) [student](/en/post/student/) [who](/en/post/who/) consistently tops [his](/en/post/his/) [class](/en/post/class/)."
-- [Verb](/en/post/verb/) (Derived [Form](/en/post/form/)): Intelligize ([rarely](/en/post/rarely/) [used](/en/post/used/)) / ɪnˈtelɪdʒaɪz/
-  - [Example](/en/post/example/): "[This](/en/post/this/) [course](/en/post/course/) aims [to](/en/post/to/) intelligize students [on](/en/post/on/) [the](/en/post/the/) latest advancements [in](/en/post/in/) AI." 
-- [Noun](/en/post/noun/) [Phrase](/en/post/phrase/): [Artificial](/en/post/artificial/) [Intelligence](/en/post/intelligence/) (AI)
-  - [Example](/en/post/example/): "[Artificial](/en/post/artificial/) [intelligence](/en/post/intelligence/) is reshaping industries worldwide." 
+- [Adjective](/post/adjective/): [Intelligent](/post/intelligent/) / ɪnˈtelɪdʒənt/
+  - [Example](/post/example/): "[He](/post/he/) is an [intelligent](/post/intelligent/) [student](/post/student/) [who](/post/who/) consistently tops [his](/post/his/) [class](/post/class/)."
+- [Verb](/post/verb/) (Derived [Form](/post/form/)): Intelligize ([rarely](/post/rarely/) [used](/post/used/)) / ɪnˈtelɪdʒaɪz/
+  - [Example](/post/example/): "[This](/post/this/) [course](/post/course/) aims [to](/post/to/) intelligize students [on](/post/on/) [the](/post/the/) latest advancements [in](/post/in/) AI." 
+- [Noun](/post/noun/) [Phrase](/post/phrase/): [Artificial](/post/artificial/) [Intelligence](/post/intelligence/) (AI)
+  - [Example](/post/example/): "[Artificial](/post/artificial/) [intelligence](/post/intelligence/) is reshaping industries worldwide." 
 
-[Note](/en/post/note/): '[Intelligence](/en/post/intelligence/)' does [not](/en/post/not/) typically [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), [preposition](/en/post/preposition/), [conjunction](/en/post/conjunction/), [pronoun](/en/post/pronoun/), numeral, [or](/en/post/or/) interjection [in](/en/post/in/) [standard](/en/post/standard/) English [usage](/en/post/usage/).
+[Note](/post/note/): '[Intelligence](/post/intelligence/)' does [not](/post/not/) typically [function](/post/function/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [adjective](/post/adjective/), [adverb](/post/adverb/), [preposition](/post/preposition/), [conjunction](/post/conjunction/), [pronoun](/post/pronoun/), numeral, [or](/post/or/) interjection [in](/post/in/) [standard](/post/standard/) English [usage](/post/usage/).

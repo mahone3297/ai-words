@@ -7,38 +7,38 @@ description = '[ˌmænjuˈfækt∫ə] vt.制造 n.制造；产品'
 keywords = ['ai words', 'manufacture']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌmænjuːˈfækʧər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) making [goods](/en/post/goods/) [or](/en/post/or/) products using tools, machinery, [and](/en/post/and/) labor; [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) producing [something](/en/post/something/) [on](/en/post/on/) [a](/en/post/a/) [large](/en/post/large/) [scale](/en/post/scale/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) specializes [in](/en/post/in/) [the](/en/post/the/) [manufacture](/en/post/manufacture/) [of](/en/post/of/) [electronic](/en/post/electronic/) devices."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) ([something](/en/post/something/)) [by](/en/post/by/) combining [raw](/en/post/raw/) materials [through](/en/post/through/) [mechanical](/en/post/mechanical/), [chemical](/en/post/chemical/), [or](/en/post/or/) [other](/en/post/other/) [industrial](/en/post/industrial/) processes; [to](/en/post/to/) [produce](/en/post/produce/) [on](/en/post/on/) [a](/en/post/a/) [large](/en/post/large/) [scale](/en/post/scale/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [manufacture](/en/post/manufacture/) high-quality [furniture](/en/post/furniture/) [in](/en/post/in/) [their](/en/post/their/) [local](/en/post/local/) [factory](/en/post/factory/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [process](/post/process/) [of](/post/of/) making [goods](/post/goods/) [or](/post/or/) products using tools, machinery, [and](/post/and/) labor; [the](/post/the/) [act](/post/act/) [of](/post/of/) producing [something](/post/something/) [on](/post/on/) [a](/post/a/) [large](/post/large/) [scale](/post/scale/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) specializes [in](/post/in/) [the](/post/the/) [manufacture](/post/manufacture/) [of](/post/of/) [electronic](/post/electronic/) devices."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) ([something](/post/something/)) [by](/post/by/) combining [raw](/post/raw/) materials [through](/post/through/) [mechanical](/post/mechanical/), [chemical](/post/chemical/), [or](/post/or/) [other](/post/other/) [industrial](/post/industrial/) processes; [to](/post/to/) [produce](/post/produce/) [on](/post/on/) [a](/post/a/) [large](/post/large/) [scale](/post/scale/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) [manufacture](/post/manufacture/) high-quality [furniture](/post/furniture/) [in](/post/in/) [their](/post/their/) [local](/post/local/) [factory](/post/factory/)."
 
-### [Noun](/en/post/noun/) [usage](/en/post/usage/) examples
-- "[The](/en/post/the/) [automobile](/en/post/automobile/) [industry](/en/post/industry/) involves [the](/en/post/the/) [manufacture](/en/post/manufacture/) [of](/en/post/of/) vehicles [and](/en/post/and/) parts."
-- "Improving [the](/en/post/the/) [efficiency](/en/post/efficiency/) [of](/en/post/of/) [the](/en/post/the/) manufacturing [process](/en/post/process/) [can](/en/post/can/) [reduce](/en/post/reduce/) costs."
+### [Noun](/post/noun/) [usage](/post/usage/) examples
+- "[The](/post/the/) [automobile](/post/automobile/) [industry](/post/industry/) involves [the](/post/the/) [manufacture](/post/manufacture/) [of](/post/of/) vehicles [and](/post/and/) parts."
+- "Improving [the](/post/the/) [efficiency](/post/efficiency/) [of](/post/of/) [the](/post/the/) manufacturing [process](/post/process/) [can](/post/can/) [reduce](/post/reduce/) costs."
 
-### [Verb](/en/post/verb/) [usage](/en/post/usage/) examples
-- "[Several](/en/post/several/) countries [have](/en/post/have/) started [to](/en/post/to/) [manufacture](/en/post/manufacture/) vaccines domestically."
-- "[The](/en/post/the/) [company](/en/post/company/) manufactures [a](/en/post/a/) [wide](/en/post/wide/) [range](/en/post/range/) [of](/en/post/of/) consumer products."
+### [Verb](/post/verb/) [usage](/post/usage/) examples
+- "[Several](/post/several/) countries [have](/post/have/) started [to](/post/to/) [manufacture](/post/manufacture/) vaccines domestically."
+- "[The](/post/the/) [company](/post/company/) manufactures [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) consumer products."
 
 ## Phrases
-- "Manufacturing sector": refers [to](/en/post/to/) [the](/en/post/the/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [economy](/en/post/economy/) [that](/en/post/that/) deals [with](/en/post/with/) [the](/en/post/the/) [production](/en/post/production/) [of](/en/post/of/) [goods](/en/post/goods/).
-- "[Mass](/en/post/mass/) [manufacture](/en/post/manufacture/)": [the](/en/post/the/) [production](/en/post/production/) [of](/en/post/of/) [goods](/en/post/goods/) [in](/en/post/in/) [large](/en/post/large/) quantities [often](/en/post/often/) using assembly-line techniques.
-- "[Custom](/en/post/custom/) [manufacture](/en/post/manufacture/)": creating [goods](/en/post/goods/) according [to](/en/post/to/) [specific](/en/post/specific/) [customer](/en/post/customer/) requirements.
+- "Manufacturing sector": refers [to](/post/to/) [the](/post/the/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [economy](/post/economy/) [that](/post/that/) deals [with](/post/with/) [the](/post/the/) [production](/post/production/) [of](/post/of/) [goods](/post/goods/).
+- "[Mass](/post/mass/) [manufacture](/post/manufacture/)": [the](/post/the/) [production](/post/production/) [of](/post/of/) [goods](/post/goods/) [in](/post/in/) [large](/post/large/) quantities [often](/post/often/) using assembly-line techniques.
+- "[Custom](/post/custom/) [manufacture](/post/manufacture/)": creating [goods](/post/goods/) according [to](/post/to/) [specific](/post/specific/) [customer](/post/customer/) requirements.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [manufacture](/en/post/manufacture/) [of](/en/post/of/) textiles was [once](/en/post/once/) [a](/en/post/a/) dominant [industry](/en/post/industry/) [in](/en/post/in/) [this](/en/post/this/) [region](/en/post/region/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) [will](/en/post/will/) [be](/en/post/be/) [responsible](/en/post/responsible/) [for](/en/post/for/) designing [and](/en/post/and/) manufacturing [the](/en/post/the/) [new](/en/post/new/) [product](/en/post/product/) [line](/en/post/line/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [manufacture](/post/manufacture/) [of](/post/of/) textiles was [once](/post/once/) [a](/post/a/) dominant [industry](/post/industry/) [in](/post/in/) [this](/post/this/) [region](/post/region/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) [will](/post/will/) [be](/post/be/) [responsible](/post/responsible/) [for](/post/for/) designing [and](/post/and/) manufacturing [the](/post/the/) [new](/post/new/) [product](/post/product/) [line](/post/line/)."
 
 ## Synonyms
-- [Production](/en/post/production/)
+- [Production](/post/production/)
 - Making
 - Fabrication
-- [Assembly](/en/post/assembly/)
+- [Assembly](/post/assembly/)
 - Creation
-- [Building](/en/post/building/)
-- [Construction](/en/post/construction/)
+- [Building](/post/building/)
+- [Construction](/post/construction/)
 - Processing
-- [Output](/en/post/output/)
-- [Manufacture](/en/post/manufacture/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) synonymous [with](/en/post/with/) [its](/en/post/its/) [noun](/en/post/noun/) [form](/en/post/form/))
+- [Output](/post/output/)
+- [Manufacture](/post/manufacture/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/) [can](/post/can/) [also](/post/also/) [be](/post/be/) synonymous [with](/post/with/) [its](/post/its/) [noun](/post/noun/) [form](/post/form/))

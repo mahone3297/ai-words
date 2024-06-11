@@ -7,43 +7,43 @@ description = '[ˈpɔsəbl] a.可能的；可能存在的'
 keywords = ['ai words', 'possible']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈsəb(ə)l/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Adjective](/en/post/adjective/)**: [Capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) done; [feasible](/en/post/feasible/); doable. [Example](/en/post/example/): "It's [possible](/en/post/possible/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [on](/en/post/on/) [time](/en/post/time/)."
-2. **[Adjective](/en/post/adjective/)**: [Probable](/en/post/probable/) [or](/en/post/or/) [likely](/en/post/likely/) [to](/en/post/to/) [happen](/en/post/happen/); [feasible](/en/post/feasible/). [Example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) [forecast](/en/post/forecast/) predicts [a](/en/post/a/) [possible](/en/post/possible/) [storm](/en/post/storm/) [later](/en/post/later/) [today](/en/post/today/)."
+### [Noun](/post/noun/)
+1. **[Adjective](/post/adjective/)**: [Capable](/post/capable/) [of](/post/of/) [being](/post/being/) done; [feasible](/post/feasible/); doable. [Example](/post/example/): "It's [possible](/post/possible/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [on](/post/on/) [time](/post/time/)."
+2. **[Adjective](/post/adjective/)**: [Probable](/post/probable/) [or](/post/or/) [likely](/post/likely/) [to](/post/to/) [happen](/post/happen/); [feasible](/post/feasible/). [Example](/post/example/): "[The](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/) predicts [a](/post/a/) [possible](/post/possible/) [storm](/post/storm/) [later](/post/later/) [today](/post/today/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [be](/en/post/be/) [capable](/en/post/capable/) [or](/en/post/or/) [able](/en/post/able/) [to](/en/post/to/) [occur](/en/post/occur/); [have](/en/post/have/) [the](/en/post/the/) [potential](/en/post/potential/). [Example](/en/post/example/): "[It](/en/post/it/) is [possible](/en/post/possible/) [that](/en/post/that/) [he](/en/post/he/) [will](/en/post/will/) [arrive](/en/post/arrive/) [soon](/en/post/soon/)."
-2. [To](/en/post/to/) [think](/en/post/think/) [or](/en/post/or/) [consider](/en/post/consider/) [something](/en/post/something/) [as](/en/post/as/) [feasible](/en/post/feasible/) [or](/en/post/or/) [likely](/en/post/likely/). [Example](/en/post/example/): "[We](/en/post/we/) [must](/en/post/must/) [consider](/en/post/consider/) [all](/en/post/all/) [possible](/en/post/possible/) solutions."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [be](/post/be/) [capable](/post/capable/) [or](/post/or/) [able](/post/able/) [to](/post/to/) [occur](/post/occur/); [have](/post/have/) [the](/post/the/) [potential](/post/potential/). [Example](/post/example/): "[It](/post/it/) is [possible](/post/possible/) [that](/post/that/) [he](/post/he/) [will](/post/will/) [arrive](/post/arrive/) [soon](/post/soon/)."
+2. [To](/post/to/) [think](/post/think/) [or](/post/or/) [consider](/post/consider/) [something](/post/something/) [as](/post/as/) [feasible](/post/feasible/) [or](/post/or/) [likely](/post/likely/). [Example](/post/example/): "[We](/post/we/) [must](/post/must/) [consider](/post/consider/) [all](/post/all/) [possible](/post/possible/) solutions."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) [could](/en/post/could/) [be](/en/post/be/) accomplished [or](/en/post/or/) realized. [Example](/en/post/example/): "[She](/en/post/she/) acted [as](/en/post/as/) [if](/en/post/if/) [it](/en/post/it/) were [completely](/en/post/completely/) [possible](/en/post/possible/)."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) [could](/post/could/) [be](/post/be/) accomplished [or](/post/or/) realized. [Example](/post/example/): "[She](/post/she/) acted [as](/post/as/) [if](/post/if/) [it](/post/it/) were [completely](/post/completely/) [possible](/post/possible/)."
 
 ## Phrases
-- "[Possible](/en/post/possible/) outcomes" refers [to](/en/post/to/) [the](/en/post/the/) [different](/en/post/different/) results [that](/en/post/that/) [can](/en/post/can/) [occur](/en/post/occur/).
-- "[A](/en/post/a/) [remote](/en/post/remote/) [possibility](/en/post/possibility/)" indicates [a](/en/post/a/) [very](/en/post/very/) [low](/en/post/low/) likelihood.
-- "It's [not](/en/post/not/) [impossible](/en/post/impossible/)" suggests [that](/en/post/that/) there's [a](/en/post/a/) [small](/en/post/small/) [chance](/en/post/chance/) [something](/en/post/something/) [might](/en/post/might/) [happen](/en/post/happen/).
+- "[Possible](/post/possible/) outcomes" refers [to](/post/to/) [the](/post/the/) [different](/post/different/) results [that](/post/that/) [can](/post/can/) [occur](/post/occur/).
+- "[A](/post/a/) [remote](/post/remote/) [possibility](/post/possibility/)" indicates [a](/post/a/) [very](/post/very/) [low](/post/low/) likelihood.
+- "It's [not](/post/not/) [impossible](/post/impossible/)" suggests [that](/post/that/) there's [a](/post/a/) [small](/post/small/) [chance](/post/chance/) [something](/post/something/) [might](/post/might/) [happen](/post/happen/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[There](/en/post/there/) are [several](/en/post/several/) [possible](/en/post/possible/) explanations [for](/en/post/for/) [the](/en/post/the/) [error](/en/post/error/)."
-- **[Verb](/en/post/verb/)**: "I [find](/en/post/find/) [it](/en/post/it/) [possible](/en/post/possible/) [to](/en/post/to/) [learn](/en/post/learn/) [a](/en/post/a/) [new](/en/post/new/) [language](/en/post/language/) [with](/en/post/with/) dedication."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) considered [every](/en/post/every/) [possible](/en/post/possible/) [angle](/en/post/angle/) [before](/en/post/before/) making [a](/en/post/a/) [decision](/en/post/decision/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[There](/post/there/) are [several](/post/several/) [possible](/post/possible/) explanations [for](/post/for/) [the](/post/the/) [error](/post/error/)."
+- **[Verb](/post/verb/)**: "I [find](/post/find/) [it](/post/it/) [possible](/post/possible/) [to](/post/to/) [learn](/post/learn/) [a](/post/a/) [new](/post/new/) [language](/post/language/) [with](/post/with/) dedication."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) considered [every](/post/every/) [possible](/post/possible/) [angle](/post/angle/) [before](/post/before/) making [a](/post/a/) [decision](/post/decision/)."
 
 ## Synonyms
-- [Feasible](/en/post/feasible/)
+- [Feasible](/post/feasible/)
 - Doable
-- [Probable](/en/post/probable/)
-- [Likely](/en/post/likely/)
+- [Probable](/post/probable/)
+- [Likely](/post/likely/)
 - Contingent
 - Conceivable
 - Thinkable
 
 ## Antonyms
-- [Impossible](/en/post/impossible/)
-- [Unlikely](/en/post/unlikely/)
+- [Impossible](/post/impossible/)
+- [Unlikely](/post/unlikely/)
 - Implausible
 - Unattainable
 - Infeasible

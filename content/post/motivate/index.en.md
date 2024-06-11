@@ -7,38 +7,38 @@ description = '[ˈməutiveit] vt.促动；激励，激发'
 keywords = ['ai words', 'motivate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmoʊtɪveɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [stimulate](/en/post/stimulate/) [interest](/en/post/interest/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/) [in](/en/post/in/) [someone](/en/post/someone/) [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) encouraging [action](/en/post/action/) [or](/en/post/or/) productivity. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [promise](/en/post/promise/) [of](/en/post/of/) [a](/en/post/a/) promotion motivated [him](/en/post/him/) [to](/en/post/to/) [work](/en/post/work/) harder."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [reason](/en/post/reason/) [or](/en/post/or/) incentive [behind](/en/post/behind/) one's actions [or](/en/post/or/) [behavior](/en/post/behavior/); [something](/en/post/something/) [that](/en/post/that/) incites [or](/en/post/or/) drives [a](/en/post/a/) [person](/en/post/person/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [passion](/en/post/passion/) [for](/en/post/for/) [music](/en/post/music/) was [his](/en/post/his/) [main](/en/post/main/) motivation [to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) performer."
+- **[Verb](/post/verb/)**: [To](/post/to/) [stimulate](/post/stimulate/) [interest](/post/interest/) [or](/post/or/) [enthusiasm](/post/enthusiasm/) [in](/post/in/) [someone](/post/someone/) [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) encouraging [action](/post/action/) [or](/post/or/) productivity. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [promise](/post/promise/) [of](/post/of/) [a](/post/a/) promotion motivated [him](/post/him/) [to](/post/to/) [work](/post/work/) harder."
+- **[Noun](/post/noun/)**: [The](/post/the/) [reason](/post/reason/) [or](/post/or/) incentive [behind](/post/behind/) one's actions [or](/post/or/) [behavior](/post/behavior/); [something](/post/something/) [that](/post/that/) incites [or](/post/or/) drives [a](/post/a/) [person](/post/person/) [to](/post/to/) [do](/post/do/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [passion](/post/passion/) [for](/post/for/) [music](/post/music/) was [his](/post/his/) [main](/post/main/) motivation [to](/post/to/) [become](/post/become/) [a](/post/a/) performer."
 
-### [Verb](/en/post/verb/) [Usage](/en/post/usage/) Examples
-- "[The](/en/post/the/) [teacher](/en/post/teacher/) tried [various](/en/post/various/) methods [to](/en/post/to/) [motivate](/en/post/motivate/) [her](/en/post/her/) students [to](/en/post/to/) [study](/en/post/study/) harder."
-- "[A](/en/post/a/) [healthy](/en/post/healthy/) [competition](/en/post/competition/) [can](/en/post/can/) [often](/en/post/often/) [motivate](/en/post/motivate/) athletes [to](/en/post/to/) [push](/en/post/push/) [their](/en/post/their/) limits."
+### [Verb](/post/verb/) [Usage](/post/usage/) Examples
+- "[The](/post/the/) [teacher](/post/teacher/) tried [various](/post/various/) methods [to](/post/to/) [motivate](/post/motivate/) [her](/post/her/) students [to](/post/to/) [study](/post/study/) harder."
+- "[A](/post/a/) [healthy](/post/healthy/) [competition](/post/competition/) [can](/post/can/) [often](/post/often/) [motivate](/post/motivate/) athletes [to](/post/to/) [push](/post/push/) [their](/post/their/) limits."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- "[Financial](/en/post/financial/) [gain](/en/post/gain/) was [the](/en/post/the/) [primary](/en/post/primary/) motivation [for](/en/post/for/) starting [the](/en/post/the/) [business](/en/post/business/)."
-- "[Her](/en/post/her/) [desire](/en/post/desire/) [to](/en/post/to/) [help](/en/post/help/) others is [a](/en/post/a/) [strong](/en/post/strong/) motivating [factor](/en/post/factor/) [in](/en/post/in/) [her](/en/post/her/) [career](/en/post/career/) [choice](/en/post/choice/)."
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- "[Financial](/post/financial/) [gain](/post/gain/) was [the](/post/the/) [primary](/post/primary/) motivation [for](/post/for/) starting [the](/post/the/) [business](/post/business/)."
+- "[Her](/post/her/) [desire](/post/desire/) [to](/post/to/) [help](/post/help/) others is [a](/post/a/) [strong](/post/strong/) motivating [factor](/post/factor/) [in](/post/in/) [her](/post/her/) [career](/post/career/) [choice](/post/choice/)."
 
 ## Phrases
-- "[Motivate](/en/post/motivate/) [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/)" - [To](/en/post/to/) [inspire](/en/post/inspire/) [or](/en/post/or/) [encourage](/en/post/encourage/) [someone](/en/post/someone/) [to](/en/post/to/) [take](/en/post/take/) [action](/en/post/action/) [or](/en/post/or/) [achieve](/en/post/achieve/) [a](/en/post/a/) [goal](/en/post/goal/).
-- "[Lack](/en/post/lack/) [of](/en/post/of/) motivation" - [When](/en/post/when/) [a](/en/post/a/) [person](/en/post/person/) doesn't [have](/en/post/have/) [the](/en/post/the/) [drive](/en/post/drive/) [or](/en/post/or/) incentive [to](/en/post/to/) [act](/en/post/act/) [or](/en/post/or/) [accomplish](/en/post/accomplish/) [something](/en/post/something/).
-- "Intrinsic motivation" - Motivation [that](/en/post/that/) comes [from](/en/post/from/) [within](/en/post/within/) [a](/en/post/a/) [person](/en/post/person/), [such](/en/post/such/) [as](/en/post/as/) [personal](/en/post/personal/) enjoyment [or](/en/post/or/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) accomplishment.
+- "[Motivate](/post/motivate/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" - [To](/post/to/) [inspire](/post/inspire/) [or](/post/or/) [encourage](/post/encourage/) [someone](/post/someone/) [to](/post/to/) [take](/post/take/) [action](/post/action/) [or](/post/or/) [achieve](/post/achieve/) [a](/post/a/) [goal](/post/goal/).
+- "[Lack](/post/lack/) [of](/post/of/) motivation" - [When](/post/when/) [a](/post/a/) [person](/post/person/) doesn't [have](/post/have/) [the](/post/the/) [drive](/post/drive/) [or](/post/or/) incentive [to](/post/to/) [act](/post/act/) [or](/post/or/) [accomplish](/post/accomplish/) [something](/post/something/).
+- "Intrinsic motivation" - Motivation [that](/post/that/) comes [from](/post/from/) [within](/post/within/) [a](/post/a/) [person](/post/person/), [such](/post/such/) [as](/post/as/) [personal](/post/personal/) enjoyment [or](/post/or/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) accomplishment.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) manager motivated [the](/en/post/the/) [team](/en/post/team/) [with](/en/post/with/) [a](/en/post/a/) rewards [program](/en/post/program/) [for](/en/post/for/) [meeting](/en/post/meeting/) sales targets."
-- **[Noun](/en/post/noun/)**: "[Understanding](/en/post/understanding/) [your](/en/post/your/) [core](/en/post/core/) motivations [can](/en/post/can/) [lead](/en/post/lead/) [to](/en/post/to/) [a](/en/post/a/) [more](/en/post/more/) fulfilling [life](/en/post/life/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) manager motivated [the](/post/the/) [team](/post/team/) [with](/post/with/) [a](/post/a/) rewards [program](/post/program/) [for](/post/for/) [meeting](/post/meeting/) sales targets."
+- **[Noun](/post/noun/)**: "[Understanding](/post/understanding/) [your](/post/your/) [core](/post/core/) motivations [can](/post/can/) [lead](/post/lead/) [to](/post/to/) [a](/post/a/) [more](/post/more/) fulfilling [life](/post/life/)."
 
 ## Synonyms
-- [Encourage](/en/post/encourage/) (v)
-- [Inspire](/en/post/inspire/) (v)
-- [Stimulate](/en/post/stimulate/) (v)
-- [Drive](/en/post/drive/) (v)
+- [Encourage](/post/encourage/) (v)
+- [Inspire](/post/inspire/) (v)
+- [Stimulate](/post/stimulate/) (v)
+- [Drive](/post/drive/) (v)
 - Incentivize (v)
-- [Spur](/en/post/spur/) (v)
-- [Urge](/en/post/urge/) (v)
+- [Spur](/post/spur/) (v)
+- [Urge](/post/urge/) (v)
 - Aspiration (n)
 - Impetus (n)
 - Inspiration (n)

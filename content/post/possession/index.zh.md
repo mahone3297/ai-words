@@ -14,18 +14,18 @@ keywords = ['ai words', 'possession']
 - **名词**: 所有物，财产；拥有，占有；控制，支配；（精神上的）着迷，痴迷。
 
 ## 短语
-- "[in](/post/in/) [possession](/post/possession/) [of](/post/of/) [something](/post/something/)" 拥有某物，掌握某物。
-- "[take](/post/take/) [possession](/post/possession/) [of](/post/of/)" 占领，接管，取得控制。
-- "[out](/post/out/) [of](/post/of/) one's [possession](/post/possession/)" 不在某人的控制或拥有之下。
+- "[in](/zh/post/in/) [possession](/zh/post/possession/) [of](/zh/post/of/) [something](/zh/post/something/)" 拥有某物，掌握某物。
+- "[take](/zh/post/take/) [possession](/zh/post/possession/) [of](/zh/post/of/)" 占领，接管，取得控制。
+- "[out](/zh/post/out/) [of](/zh/post/of/) one's [possession](/zh/post/possession/)" 不在某人的控制或拥有之下。
 
 ## 例句
-- 名词: "[He](/post/he/) is [in](/post/in/) [possession](/post/possession/) [of](/post/of/) [a](/post/a/) [valuable](/post/valuable/) antique."
-- 名词: "[The](/post/the/) [company](/post/company/) took [possession](/post/possession/) [of](/post/of/) [the](/post/the/) [building](/post/building/) [after](/post/after/) [the](/post/the/) [contract](/post/contract/) was signed."
-- 名词: "[She](/post/she/) felt [a](/post/a/) [strange](/post/strange/) [possession](/post/possession/) [when](/post/when/) [she](/post/she/) started collecting [rare](/post/rare/) books."
+- 名词: "[He](/zh/post/he/) is [in](/zh/post/in/) [possession](/zh/post/possession/) [of](/zh/post/of/) [a](/zh/post/a/) [valuable](/zh/post/valuable/) antique."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) took [possession](/zh/post/possession/) [of](/zh/post/of/) [the](/zh/post/the/) [building](/zh/post/building/) [after](/zh/post/after/) [the](/zh/post/the/) [contract](/zh/post/contract/) was signed."
+- 名词: "[She](/zh/post/she/) felt [a](/zh/post/a/) [strange](/zh/post/strange/) [possession](/zh/post/possession/) [when](/zh/post/when/) [she](/zh/post/she/) started collecting [rare](/zh/post/rare/) books."
 
 ## 同义词
-- [ownership](/post/ownership/)
+- [ownership](/zh/post/ownership/)
 - belongings
 - assets
-- [property](/post/property/)
+- [property](/zh/post/property/)
 - holdings

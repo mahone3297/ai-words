@@ -7,37 +7,37 @@ description = '[diˈlei] vt.推迟；耽搁；延误'
 keywords = ['ai words', 'delay']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈleɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) postponing [or](/en/post/or/) delaying [something](/en/post/something/); suspension [or](/en/post/or/) postponement [of](/en/post/of/) an [event](/en/post/event/) [or](/en/post/or/) [action](/en/post/action/). 2. [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) spent waiting [or](/en/post/or/) delayed. 3. An [instance](/en/post/instance/) [of](/en/post/of/) [being](/en/post/being/) [late](/en/post/late/) [or](/en/post/or/) tardy. 
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [postpone](/en/post/postpone/) [or](/en/post/or/) [put](/en/post/put/) [off](/en/post/off/) [the](/en/post/the/) [occurrence](/en/post/occurrence/) [of](/en/post/of/) [something](/en/post/something/). 2. [To](/en/post/to/) [cause](/en/post/cause/) [a](/en/post/a/) [delay](/en/post/delay/) [or](/en/post/or/) [make](/en/post/make/) [something](/en/post/something/) [happen](/en/post/happen/) [later](/en/post/later/) [than](/en/post/than/) planned.
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) postponing [or](/post/or/) delaying [something](/post/something/); suspension [or](/post/or/) postponement [of](/post/of/) an [event](/post/event/) [or](/post/or/) [action](/post/action/). 2. [A](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/) spent waiting [or](/post/or/) delayed. 3. An [instance](/post/instance/) [of](/post/of/) [being](/post/being/) [late](/post/late/) [or](/post/or/) tardy. 
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [postpone](/post/postpone/) [or](/post/or/) [put](/post/put/) [off](/post/off/) [the](/post/the/) [occurrence](/post/occurrence/) [of](/post/of/) [something](/post/something/). 2. [To](/post/to/) [cause](/post/cause/) [a](/post/a/) [delay](/post/delay/) [or](/post/or/) [make](/post/make/) [something](/post/something/) [happen](/post/happen/) [later](/post/later/) [than](/post/than/) planned.
 
 ## Phrases
-- "[Delay](/en/post/delay/) [the](/en/post/the/) [project](/en/post/project/)" [means](/en/post/means/) [to](/en/post/to/) [postpone](/en/post/postpone/) [the](/en/post/the/) [start](/en/post/start/) [or](/en/post/or/) completion [of](/en/post/of/) [a](/en/post/a/) [project](/en/post/project/).
-- "[No](/en/post/no/) [further](/en/post/further/) [delay](/en/post/delay/)" signifies [that](/en/post/that/) [there](/en/post/there/) [should](/en/post/should/) [be](/en/post/be/) [no](/en/post/no/) [more](/en/post/more/) waiting [or](/en/post/or/) postponement.
-- "[Weather](/en/post/weather/) [delay](/en/post/delay/)" refers [to](/en/post/to/) [a](/en/post/a/) [delay](/en/post/delay/) caused [by](/en/post/by/) [bad](/en/post/bad/) [weather](/en/post/weather/) conditions.
+- "[Delay](/post/delay/) [the](/post/the/) [project](/post/project/)" [means](/post/means/) [to](/post/to/) [postpone](/post/postpone/) [the](/post/the/) [start](/post/start/) [or](/post/or/) completion [of](/post/of/) [a](/post/a/) [project](/post/project/).
+- "[No](/post/no/) [further](/post/further/) [delay](/post/delay/)" signifies [that](/post/that/) [there](/post/there/) [should](/post/should/) [be](/post/be/) [no](/post/no/) [more](/post/more/) waiting [or](/post/or/) postponement.
+- "[Weather](/post/weather/) [delay](/post/delay/)" refers [to](/post/to/) [a](/post/a/) [delay](/post/delay/) caused [by](/post/by/) [bad](/post/bad/) [weather](/post/weather/) conditions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [flight](/en/post/flight/) was delayed [due](/en/post/due/) [to](/en/post/to/) [heavy](/en/post/heavy/) [fog](/en/post/fog/)."
-- **[Verb](/en/post/verb/)**: "I had [to](/en/post/to/) [delay](/en/post/delay/) [my](/en/post/my/) presentation [until](/en/post/until/) [next](/en/post/next/) [week](/en/post/week/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) tardiness was causing [constant](/en/post/constant/) delays [in](/en/post/in/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [flight](/post/flight/) was delayed [due](/post/due/) [to](/post/to/) [heavy](/post/heavy/) [fog](/post/fog/)."
+- **[Verb](/post/verb/)**: "I had [to](/post/to/) [delay](/post/delay/) [my](/post/my/) presentation [until](/post/until/) [next](/post/next/) [week](/post/week/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) tardiness was causing [constant](/post/constant/) delays [in](/post/in/) [the](/post/the/) [meeting](/post/meeting/)."
 
 ## Synonyms
-- [Postpone](/en/post/postpone/)
-- [Put](/en/post/put/) [off](/en/post/off/)
-- [Hold](/en/post/hold/) [up](/en/post/up/)
+- [Postpone](/post/postpone/)
+- [Put](/post/put/) [off](/post/off/)
+- [Hold](/post/hold/) [up](/post/up/)
 -拖延
 - Retard
-- [Lag](/en/post/lag/)
+- [Lag](/post/lag/)
 
 ## Antonyms
-- [Advance](/en/post/advance/)
-- [Hasten](/en/post/hasten/)
+- [Advance](/post/advance/)
+- [Hasten](/post/hasten/)
 - Expedite
-- [Rush](/en/post/rush/)
+- [Rush](/post/rush/)
 
 ## Idioms
-- "[Delay](/en/post/delay/) tactics" - Using strategies [to](/en/post/to/) intentionally [slow](/en/post/slow/) [down](/en/post/down/) [or](/en/post/or/) obstruct [progress](/en/post/progress/).
-- "[No](/en/post/no/) [delay](/en/post/delay/) allowed" - [Immediate](/en/post/immediate/) [action](/en/post/action/) is expected [without](/en/post/without/) [any](/en/post/any/) postponement.
+- "[Delay](/post/delay/) tactics" - Using strategies [to](/post/to/) intentionally [slow](/post/slow/) [down](/post/down/) [or](/post/or/) obstruct [progress](/post/progress/).
+- "[No](/post/no/) [delay](/post/delay/) allowed" - [Immediate](/post/immediate/) [action](/post/action/) is expected [without](/post/without/) [any](/post/any/) postponement.

@@ -12,28 +12,28 @@ keywords = ['ai words', 'pool']
 
 ## 释义
 - **名词 n**:
-1. 池塘：[A](/post/a/) [body](/post/body/) [of](/post/of/) [water](/post/water/), [especially](/post/especially/) [a](/post/a/) [small](/post/small/) [one](/post/one/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [pond](/post/pond/) [or](/post/or/) [a](/post/a/) swimming [pool](/post/pool/).
-2. 资金池：[A](/post/a/) [collective](/post/collective/) [fund](/post/fund/) [or](/post/or/) [pool](/post/pool/) [of](/post/of/) [money](/post/money/) contributed [by](/post/by/) [various](/post/various/) sources.
+1. 池塘：[A](/zh/post/a/) [body](/zh/post/body/) [of](/zh/post/of/) [water](/zh/post/water/), [especially](/zh/post/especially/) [a](/zh/post/a/) [small](/zh/post/small/) [one](/zh/post/one/), [such](/zh/post/such/) [as](/zh/post/as/) [a](/zh/post/a/) [pond](/zh/post/pond/) [or](/zh/post/or/) [a](/zh/post/a/) swimming [pool](/zh/post/pool/).
+2. 资金池：[A](/zh/post/a/) [collective](/zh/post/collective/) [fund](/zh/post/fund/) [or](/zh/post/or/) [pool](/zh/post/pool/) [of](/zh/post/of/) [money](/zh/post/money/) contributed [by](/zh/post/by/) [various](/zh/post/various/) sources.
 
 - **动词 v**:
-1. 集结；汇集：[To](/post/to/) [gather](/post/gather/) [or](/post/or/) [collect](/post/collect/) [in](/post/in/) [a](/post/a/) [pool](/post/pool/), [as](/post/as/) [of](/post/of/) resources [or](/post/or/) [people](/post/people/).
+1. 集结；汇集：[To](/zh/post/to/) [gather](/zh/post/gather/) [or](/zh/post/or/) [collect](/zh/post/collect/) [in](/zh/post/in/) [a](/zh/post/a/) [pool](/zh/post/pool/), [as](/zh/post/as/) [of](/zh/post/of/) resources [or](/zh/post/or/) [people](/zh/post/people/).
 
 - **形容词 adj**:
-1. 池边的；游泳池的：Relating [to](/post/to/) [a](/post/a/) [pool](/post/pool/), [especially](/post/especially/) [a](/post/a/) swimming [pool](/post/pool/).
+1. 池边的；游泳池的：Relating [to](/zh/post/to/) [a](/zh/post/a/) [pool](/zh/post/pool/), [especially](/zh/post/especially/) [a](/zh/post/a/) swimming [pool](/zh/post/pool/).
 
 ## 短语
-- "swimming [pool](/post/pool/)" 游泳池
-- "[pool](/post/pool/) [party](/post/party/)" 池畔派对
-- "[pool](/post/pool/) resources" 共享资源
+- "swimming [pool](/zh/post/pool/)" 游泳池
+- "[pool](/zh/post/pool/) [party](/zh/post/party/)" 池畔派对
+- "[pool](/zh/post/pool/) resources" 共享资源
 
 ## 例句
-- 名词: "[The](/post/the/) children were splashing [in](/post/in/) [the](/post/the/) [pool](/post/pool/) [on](/post/on/) [a](/post/a/) [hot](/post/hot/) [summer](/post/summer/) [day](/post/day/)."
-- 动词: "[Several](/post/several/) companies decided [to](/post/to/) [pool](/post/pool/) [their](/post/their/) resources [for](/post/for/) [the](/post/the/) [project](/post/project/)."
-- 形容词: "[The](/post/the/) poolside chairs were arranged [for](/post/for/) sunbathing."
+- 名词: "[The](/zh/post/the/) children were splashing [in](/zh/post/in/) [the](/zh/post/the/) [pool](/zh/post/pool/) [on](/zh/post/on/) [a](/zh/post/a/) [hot](/zh/post/hot/) [summer](/zh/post/summer/) [day](/zh/post/day/)."
+- 动词: "[Several](/zh/post/several/) companies decided [to](/zh/post/to/) [pool](/zh/post/pool/) [their](/zh/post/their/) resources [for](/zh/post/for/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- 形容词: "[The](/zh/post/the/) poolside chairs were arranged [for](/zh/post/for/) sunbathing."
 
 ## 同义词
-- [Pond](/post/pond/)
-- [Lake](/post/lake/) ([for](/post/for/) [a](/post/a/) larger [body](/post/body/) [of](/post/of/) [water](/post/water/))
-- [Gather](/post/gather/)
-- [Combine](/post/combine/)
-- [Collect](/post/collect/)
+- [Pond](/zh/post/pond/)
+- [Lake](/zh/post/lake/) ([for](/zh/post/for/) [a](/zh/post/a/) larger [body](/zh/post/body/) [of](/zh/post/of/) [water](/zh/post/water/))
+- [Gather](/zh/post/gather/)
+- [Combine](/zh/post/combine/)
+- [Collect](/zh/post/collect/)

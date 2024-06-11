@@ -11,19 +11,19 @@ keywords = ['ai words', 'upwards']
 /ˈʌpwərdz/
 
 ## 释义
-- **副词**: 向上，朝上；在上面，向上方。例如: "[The](/post/the/) [bird](/post/bird/) flew [upwards](/post/upwards/) towards [the](/post/the/) [sky](/post/sky/)."
-- **形容词**: 向上的，上升的；朝着上方的。例如: "[The](/post/the/) [upwards](/post/upwards/) [trend](/post/trend/) [in](/post/in/) sales is encouraging."
+- **副词**: 向上，朝上；在上面，向上方。例如: "[The](/zh/post/the/) [bird](/zh/post/bird/) flew [upwards](/zh/post/upwards/) towards [the](/zh/post/the/) [sky](/zh/post/sky/)."
+- **形容词**: 向上的，上升的；朝着上方的。例如: "[The](/zh/post/the/) [upwards](/zh/post/upwards/) [trend](/zh/post/trend/) [in](/zh/post/in/) sales is encouraging."
 
 ## 短语
-- "[upwards](/post/upwards/) [of](/post/of/)" 表示“多于，超过”。例如: "[There](/post/there/) were [upwards](/post/upwards/) [of](/post/of/) 100 [people](/post/people/) [at](/post/at/) [the](/post/the/) [event](/post/event/)."
+- "[upwards](/zh/post/upwards/) [of](/zh/post/of/)" 表示“多于，超过”。例如: "[There](/zh/post/there/) were [upwards](/zh/post/upwards/) [of](/zh/post/of/) 100 [people](/zh/post/people/) [at](/zh/post/at/) [the](/zh/post/the/) [event](/zh/post/event/)."
 
 ## 例句
-- 副词: "[The](/post/the/) [ladder](/post/ladder/) leaned [upwards](/post/upwards/) [against](/post/against/) [the](/post/the/) [wall](/post/wall/)."
-- 形容词: "[The](/post/the/) [upwards](/post/upwards/) [movement](/post/movement/) [in](/post/in/) [the](/post/the/) [stock](/post/stock/) [market](/post/market/) indicates [growth](/post/growth/)."
+- 副词: "[The](/zh/post/the/) [ladder](/zh/post/ladder/) leaned [upwards](/zh/post/upwards/) [against](/zh/post/against/) [the](/zh/post/the/) [wall](/zh/post/wall/)."
+- 形容词: "[The](/zh/post/the/) [upwards](/zh/post/upwards/) [movement](/zh/post/movement/) [in](/zh/post/in/) [the](/zh/post/the/) [stock](/zh/post/stock/) [market](/zh/post/market/) indicates [growth](/zh/post/growth/)."
 
 ## 同义词
-- [Up](/post/up/)
-- [Above](/post/above/)
-- Toward [the](/post/the/) [top](/post/top/)
-- [In](/post/in/) an [upward](/post/upward/) [direction](/post/direction/)
+- [Up](/zh/post/up/)
+- [Above](/zh/post/above/)
+- Toward [the](/zh/post/the/) [top](/zh/post/top/)
+- [In](/zh/post/in/) an [upward](/zh/post/upward/) [direction](/zh/post/direction/)
 - Ascending

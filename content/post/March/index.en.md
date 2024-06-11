@@ -7,31 +7,31 @@ description = 'vi.行军；游行示威'
 keywords = ['ai words', 'march']
 +++
 
-## [Word](/en/post/word/): [March](/en/post/march/)
+## [Word](/post/word/): [March](/post/march/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /mɑːrtʃ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [third](/en/post/third/) [month](/en/post/month/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/) [in](/en/post/in/) [the](/en/post/the/) Gregorian [calendar](/en/post/calendar/), coming [between](/en/post/between/) February [and](/en/post/and/) [April](/en/post/april/). [Example](/en/post/example/): "[The](/en/post/the/) [spring](/en/post/spring/) begins [in](/en/post/in/) [early](/en/post/early/) [March](/en/post/march/)."
-- **[Noun](/en/post/noun/) ([Military](/en/post/military/))**: [A](/en/post/a/) [steady](/en/post/steady/), rhythmic progression [of](/en/post/of/) troops, [usually](/en/post/usually/) [to](/en/post/to/) [music](/en/post/music/), [often](/en/post/often/) performed [as](/en/post/as/) [a](/en/post/a/) [display](/en/post/display/) [of](/en/post/of/) [discipline](/en/post/discipline/) [and](/en/post/and/) [ceremony](/en/post/ceremony/). [Example](/en/post/example/): "[The](/en/post/the/) soldiers marched [in](/en/post/in/) [formation](/en/post/formation/) [down](/en/post/down/) [the](/en/post/the/) [street](/en/post/street/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [walk](/en/post/walk/) [with](/en/post/with/) [a](/en/post/a/) [regular](/en/post/regular/) [and](/en/post/and/) deliberate [pace](/en/post/pace/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/), ceremonial, [or](/en/post/or/) [military](/en/post/military/) [manner](/en/post/manner/). [Example](/en/post/example/): "[The](/en/post/the/) [band](/en/post/band/) was marching [in](/en/post/in/) [the](/en/post/the/) [parade](/en/post/parade/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [advance](/en/post/advance/) [or](/en/post/or/) [proceed](/en/post/proceed/) [steadily](/en/post/steadily/) [or](/en/post/or/) forcibly. [Example](/en/post/example/): "[Time](/en/post/time/) marches [on](/en/post/on/)."
-- **[Noun](/en/post/noun/) ([Weather](/en/post/weather/))**: [A](/en/post/a/) [strong](/en/post/strong/), driving [wind](/en/post/wind/) [or](/en/post/or/) gale, [especially](/en/post/especially/) [one](/en/post/one/) [from](/en/post/from/) [the](/en/post/the/) [northwest](/en/post/northwest/). [Example](/en/post/example/): "[A](/en/post/a/) [cold](/en/post/cold/) [march](/en/post/march/) [wind](/en/post/wind/) blew [across](/en/post/across/) [the](/en/post/the/) fields."
+- **[Noun](/post/noun/)**: [The](/post/the/) [third](/post/third/) [month](/post/month/) [of](/post/of/) [the](/post/the/) [year](/post/year/) [in](/post/in/) [the](/post/the/) Gregorian [calendar](/post/calendar/), coming [between](/post/between/) February [and](/post/and/) [April](/post/april/). [Example](/post/example/): "[The](/post/the/) [spring](/post/spring/) begins [in](/post/in/) [early](/post/early/) [March](/post/march/)."
+- **[Noun](/post/noun/) ([Military](/post/military/))**: [A](/post/a/) [steady](/post/steady/), rhythmic progression [of](/post/of/) troops, [usually](/post/usually/) [to](/post/to/) [music](/post/music/), [often](/post/often/) performed [as](/post/as/) [a](/post/a/) [display](/post/display/) [of](/post/of/) [discipline](/post/discipline/) [and](/post/and/) [ceremony](/post/ceremony/). [Example](/post/example/): "[The](/post/the/) soldiers marched [in](/post/in/) [formation](/post/formation/) [down](/post/down/) [the](/post/the/) [street](/post/street/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [walk](/post/walk/) [with](/post/with/) [a](/post/a/) [regular](/post/regular/) [and](/post/and/) deliberate [pace](/post/pace/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [formal](/post/formal/), ceremonial, [or](/post/or/) [military](/post/military/) [manner](/post/manner/). [Example](/post/example/): "[The](/post/the/) [band](/post/band/) was marching [in](/post/in/) [the](/post/the/) [parade](/post/parade/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [advance](/post/advance/) [or](/post/or/) [proceed](/post/proceed/) [steadily](/post/steadily/) [or](/post/or/) forcibly. [Example](/post/example/): "[Time](/post/time/) marches [on](/post/on/)."
+- **[Noun](/post/noun/) ([Weather](/post/weather/))**: [A](/post/a/) [strong](/post/strong/), driving [wind](/post/wind/) [or](/post/or/) gale, [especially](/post/especially/) [one](/post/one/) [from](/post/from/) [the](/post/the/) [northwest](/post/northwest/). [Example](/post/example/): "[A](/post/a/) [cold](/post/cold/) [march](/post/march/) [wind](/post/wind/) blew [across](/post/across/) [the](/post/the/) fields."
 
 ## Phrases
-- "[In](/en/post/in/) [like](/en/post/like/) [a](/en/post/a/) [lion](/en/post/lion/), [out](/en/post/out/) [like](/en/post/like/) [a](/en/post/a/) [lamb](/en/post/lamb/)" refers [to](/en/post/to/) [the](/en/post/the/) unpredictable [weather](/en/post/weather/) [that](/en/post/that/) characterizes [March](/en/post/march/), [often](/en/post/often/) starting [stormy](/en/post/stormy/) [but](/en/post/but/) [ending](/en/post/ending/) [mild](/en/post/mild/).
-- "[March](/en/post/march/) [forward](/en/post/forward/)" is an [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [move](/en/post/move/) [ahead](/en/post/ahead/) courageously [and](/en/post/and/) purposefully.
-- "[To](/en/post/to/) [take](/en/post/take/) [place](/en/post/place/) [in](/en/post/in/) [March](/en/post/march/)" indicates [that](/en/post/that/) an [event](/en/post/event/) happens [during](/en/post/during/) [this](/en/post/this/) [particular](/en/post/particular/) [month](/en/post/month/).
+- "[In](/post/in/) [like](/post/like/) [a](/post/a/) [lion](/post/lion/), [out](/post/out/) [like](/post/like/) [a](/post/a/) [lamb](/post/lamb/)" refers [to](/post/to/) [the](/post/the/) unpredictable [weather](/post/weather/) [that](/post/that/) characterizes [March](/post/march/), [often](/post/often/) starting [stormy](/post/stormy/) [but](/post/but/) [ending](/post/ending/) [mild](/post/mild/).
+- "[March](/post/march/) [forward](/post/forward/)" is an [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [move](/post/move/) [ahead](/post/ahead/) courageously [and](/post/and/) purposefully.
+- "[To](/post/to/) [take](/post/take/) [place](/post/place/) [in](/post/in/) [March](/post/march/)" indicates [that](/post/that/) an [event](/post/event/) happens [during](/post/during/) [this](/post/this/) [particular](/post/particular/) [month](/post/month/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([Month](/en/post/month/))**: "[Her](/en/post/her/) [birthday](/en/post/birthday/) is [on](/en/post/on/) [March](/en/post/march/) 12th."
-- **[Noun](/en/post/noun/) ([Military](/en/post/military/))**: "[The](/en/post/the/) [army](/en/post/army/) held [its](/en/post/its/) [annual](/en/post/annual/) [March](/en/post/march/) [past](/en/post/past/) [the](/en/post/the/) [city](/en/post/city/) center."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) protesters marched [through](/en/post/through/) [the](/en/post/the/) streets demanding [change](/en/post/change/)."
-- **[Weather](/en/post/weather/) [Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) battened [down](/en/post/down/) [the](/en/post/the/) hatches [against](/en/post/against/) [the](/en/post/the/) biting [March](/en/post/march/) winds."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([Month](/post/month/))**: "[Her](/post/her/) [birthday](/post/birthday/) is [on](/post/on/) [March](/post/march/) 12th."
+- **[Noun](/post/noun/) ([Military](/post/military/))**: "[The](/post/the/) [army](/post/army/) held [its](/post/its/) [annual](/post/annual/) [March](/post/march/) [past](/post/past/) [the](/post/the/) [city](/post/city/) center."
+- **[Verb](/post/verb/)**: "[The](/post/the/) protesters marched [through](/post/through/) [the](/post/the/) streets demanding [change](/post/change/)."
+- **[Weather](/post/weather/) [Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) battened [down](/post/down/) [the](/post/the/) hatches [against](/post/against/) [the](/post/the/) biting [March](/post/march/) winds."
 
 ## Synonyms
-- ([As](/en/post/as/) [a](/en/post/a/) [month](/en/post/month/)) [None](/en/post/none/)
-- ([As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [meaning](/en/post/meaning/) [to](/en/post/to/) [walk](/en/post/walk/) [in](/en/post/in/) [a](/en/post/a/) [steady](/en/post/steady/) [pace](/en/post/pace/)) [Proceed](/en/post/proceed/), [advance](/en/post/advance/), stride, [troop](/en/post/troop/)
-- ([As](/en/post/as/) [a](/en/post/a/) [military](/en/post/military/) [procession](/en/post/procession/)) [Parade](/en/post/parade/), [procession](/en/post/procession/), marchpast
-- ([As](/en/post/as/) [a](/en/post/a/) [weather](/en/post/weather/) [phenomenon](/en/post/phenomenon/)) Gale, nor'wester (specifically [for](/en/post/for/) [the](/en/post/the/) [wind](/en/post/wind/))
+- ([As](/post/as/) [a](/post/a/) [month](/post/month/)) [None](/post/none/)
+- ([As](/post/as/) [a](/post/a/) [verb](/post/verb/), [meaning](/post/meaning/) [to](/post/to/) [walk](/post/walk/) [in](/post/in/) [a](/post/a/) [steady](/post/steady/) [pace](/post/pace/)) [Proceed](/post/proceed/), [advance](/post/advance/), stride, [troop](/post/troop/)
+- ([As](/post/as/) [a](/post/a/) [military](/post/military/) [procession](/post/procession/)) [Parade](/post/parade/), [procession](/post/procession/), marchpast
+- ([As](/post/as/) [a](/post/a/) [weather](/post/weather/) [phenomenon](/post/phenomenon/)) Gale, nor'wester (specifically [for](/post/for/) [the](/post/the/) [wind](/post/wind/))

@@ -11,22 +11,22 @@ keywords = ['ai words', 'extra']
 /ˈekstrə/
 
 ## 释义
-- **形容词**: 额外的，附加的，超出通常的。例如: "[We](/post/we/) [have](/post/have/) [some](/post/some/) [extra](/post/extra/) seats [available](/post/available/) [for](/post/for/) [the](/post/the/) [show](/post/show/)."
-- **名词**: 附加物，额外的东西。例如: "[Can](/post/can/) I [have](/post/have/) an [extra](/post/extra/) cookie, [please](/post/please/)?"
-- **副词**: 非常，特别。例如: "[She](/post/she/) did [extra](/post/extra/) [well](/post/well/) [on](/post/on/) [her](/post/her/) [exam](/post/exam/)."
+- **形容词**: 额外的，附加的，超出通常的。例如: "[We](/zh/post/we/) [have](/zh/post/have/) [some](/zh/post/some/) [extra](/zh/post/extra/) seats [available](/zh/post/available/) [for](/zh/post/for/) [the](/zh/post/the/) [show](/zh/post/show/)."
+- **名词**: 附加物，额外的东西。例如: "[Can](/zh/post/can/) I [have](/zh/post/have/) an [extra](/zh/post/extra/) cookie, [please](/zh/post/please/)?"
+- **副词**: 非常，特别。例如: "[She](/zh/post/she/) did [extra](/zh/post/extra/) [well](/zh/post/well/) [on](/zh/post/on/) [her](/zh/post/her/) [exam](/zh/post/exam/)."
 
 ## 短语
-- "[Extra](/post/extra/) [charge](/post/charge/)" 意为额外费用。
-- "[Extra](/post/extra/) [work](/post/work/)" 指的是额外的工作或加班。
+- "[Extra](/zh/post/extra/) [charge](/zh/post/charge/)" 意为额外费用。
+- "[Extra](/zh/post/extra/) [work](/zh/post/work/)" 指的是额外的工作或加班。
 
 ## 例句
-- 形容词: "[The](/post/the/) [hotel](/post/hotel/) offered [us](/post/us/) an [extra](/post/extra/) [bed](/post/bed/) [for](/post/for/) [our](/post/our/) [child](/post/child/)."
-- 名词: "I ordered an [extra](/post/extra/) [large](/post/large/) pizza [for](/post/for/) [dinner](/post/dinner/)."
-- 副词: "[She](/post/she/) studied [extra](/post/extra/) [hard](/post/hard/) [to](/post/to/) [prepare](/post/prepare/) [for](/post/for/) [the](/post/the/) [test](/post/test/)."
+- 形容词: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) offered [us](/zh/post/us/) an [extra](/zh/post/extra/) [bed](/zh/post/bed/) [for](/zh/post/for/) [our](/zh/post/our/) [child](/zh/post/child/)."
+- 名词: "I ordered an [extra](/zh/post/extra/) [large](/zh/post/large/) pizza [for](/zh/post/for/) [dinner](/zh/post/dinner/)."
+- 副词: "[She](/zh/post/she/) studied [extra](/zh/post/extra/) [hard](/zh/post/hard/) [to](/zh/post/to/) [prepare](/zh/post/prepare/) [for](/zh/post/for/) [the](/zh/post/the/) [test](/zh/post/test/)."
 
 ## 同义词
-- [Additional](/post/additional/)
+- [Additional](/zh/post/additional/)
 - Supplementary
 - Bonus
-- [More](/post/more/)
-- [Over](/post/over/) [and](/post/and/) [above](/post/above/)
+- [More](/zh/post/more/)
+- [Over](/zh/post/over/) [and](/zh/post/and/) [above](/zh/post/above/)

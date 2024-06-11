@@ -12,23 +12,23 @@ keywords = ['ai words', 'fare']
 
 ## 释义
 - **名词**:
-  - 费用，车费，票价。例如: "[The](/post/the/) [bus](/post/bus/) [fare](/post/fare/) [to](/post/to/) [the](/post/the/) [city](/post/city/) center is $2.50."
-  - 餐饮，饭菜。例如: "[The](/post/the/) [hotel](/post/hotel/) offers an all-inclusive [fare](/post/fare/) [with](/post/with/) meals [and](/post/and/) drinks."
+  - 费用，车费，票价。例如: "[The](/zh/post/the/) [bus](/zh/post/bus/) [fare](/zh/post/fare/) [to](/zh/post/to/) [the](/zh/post/the/) [city](/zh/post/city/) center is $2.50."
+  - 餐饮，饭菜。例如: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) offers an all-inclusive [fare](/zh/post/fare/) [with](/zh/post/with/) meals [and](/zh/post/and/) drinks."
 
 - **动词**:
-  - 扑灭（火灾等）。例如: "Firefighters were [able](/post/able/) [to](/post/to/) [quickly](/post/quickly/) [fare](/post/fare/) [the](/post/the/) flames."
+  - 扑灭（火灾等）。例如: "Firefighters were [able](/zh/post/able/) [to](/zh/post/to/) [quickly](/zh/post/quickly/) [fare](/zh/post/fare/) [the](/zh/post/the/) flames."
 
 ## 短语
-- "[Pay](/post/pay/) [the](/post/the/) [fare](/post/fare/)" 意味着支付交通费用。
-- "[The](/post/the/) [food](/post/food/) [fare](/post/fare/)" 指的是某种类型的菜肴或餐饮供应。
+- "[Pay](/zh/post/pay/) [the](/zh/post/the/) [fare](/zh/post/fare/)" 意味着支付交通费用。
+- "[The](/zh/post/the/) [food](/zh/post/food/) [fare](/zh/post/fare/)" 指的是某种类型的菜肴或餐饮供应。
 
 ## 例句
-- 名词: "[Please](/post/please/) [have](/post/have/) [your](/post/your/) [fare](/post/fare/) [ready](/post/ready/) [when](/post/when/) boarding [the](/post/the/) subway."
-- 动词: "[The](/post/the/) firefighters fared [the](/post/the/) [fire](/post/fire/) [within](/post/within/) minutes."
+- 名词: "[Please](/zh/post/please/) [have](/zh/post/have/) [your](/zh/post/your/) [fare](/zh/post/fare/) [ready](/zh/post/ready/) [when](/zh/post/when/) boarding [the](/zh/post/the/) subway."
+- 动词: "[The](/zh/post/the/) firefighters fared [the](/zh/post/the/) [fire](/zh/post/fire/) [within](/zh/post/within/) minutes."
 
 ## 同义词
-- [Cost](/post/cost/)
-- [Charge](/post/charge/)
-- [Ticket](/post/ticket/) [price](/post/price/)
-- [Bill](/post/bill/)
+- [Cost](/zh/post/cost/)
+- [Charge](/zh/post/charge/)
+- [Ticket](/zh/post/ticket/) [price](/zh/post/price/)
+- [Bill](/zh/post/bill/)
 - Expenses

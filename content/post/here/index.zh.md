@@ -11,20 +11,20 @@ keywords = ['ai words', 'here']
 /hiər/
 
 ## 释义
-- **副词**: 在这里；此刻。例如: "[Put](/post/put/) [the](/post/the/) [book](/post/book/) [here](/post/here/) [on](/post/on/) [the](/post/the/) [table](/post/table/)."
-- **介词**: 表示位置，意为“在…这儿”。例如: "I [live](/post/live/) [here](/post/here/) [in](/post/in/) [New](/post/new/) York [City](/post/city/)."
+- **副词**: 在这里；此刻。例如: "[Put](/zh/post/put/) [the](/zh/post/the/) [book](/zh/post/book/) [here](/zh/post/here/) [on](/zh/post/on/) [the](/zh/post/the/) [table](/zh/post/table/)."
+- **介词**: 表示位置，意为“在…这儿”。例如: "I [live](/zh/post/live/) [here](/zh/post/here/) [in](/zh/post/in/) [New](/zh/post/new/) York [City](/zh/post/city/)."
 
 ## 短语
-- "[right](/post/right/) [here](/post/here/)" 表示就在附近或眼前。
-- "[from](/post/from/) [here](/post/here/)" 从这个位置出发或开始。例如: "We'll [start](/post/start/) [our](/post/our/) hike [from](/post/from/) [here](/post/here/)."
+- "[right](/zh/post/right/) [here](/zh/post/here/)" 表示就在附近或眼前。
+- "[from](/zh/post/from/) [here](/zh/post/here/)" 从这个位置出发或开始。例如: "We'll [start](/zh/post/start/) [our](/zh/post/our/) hike [from](/zh/post/from/) [here](/zh/post/here/)."
 
 ## 例句
-- 副词: "[The](/post/the/) [answer](/post/answer/) is [right](/post/right/) [here](/post/here/) [in](/post/in/) [front](/post/front/) [of](/post/of/) [you](/post/you/)."
-- 介词: "[Can](/post/can/) [you](/post/you/) [send](/post/send/) [the](/post/the/) [package](/post/package/) [to](/post/to/) [my](/post/my/) [address](/post/address/) [here](/post/here/)?"
+- 副词: "[The](/zh/post/the/) [answer](/zh/post/answer/) is [right](/zh/post/right/) [here](/zh/post/here/) [in](/zh/post/in/) [front](/zh/post/front/) [of](/zh/post/of/) [you](/zh/post/you/)."
+- 介词: "[Can](/zh/post/can/) [you](/zh/post/you/) [send](/zh/post/send/) [the](/zh/post/the/) [package](/zh/post/package/) [to](/zh/post/to/) [my](/zh/post/my/) [address](/zh/post/address/) [here](/zh/post/here/)?"
 
 ## 同义词
-- [in](/post/in/) [this](/post/this/) [location](/post/location/)
-- [at](/post/at/) [this](/post/this/) [place](/post/place/)
-- [presently](/post/presently/)
+- [in](/zh/post/in/) [this](/zh/post/this/) [location](/zh/post/location/)
+- [at](/zh/post/at/) [this](/zh/post/this/) [place](/zh/post/place/)
+- [presently](/zh/post/presently/)
 - currently
-- [nearby](/post/nearby/)
+- [nearby](/zh/post/nearby/)

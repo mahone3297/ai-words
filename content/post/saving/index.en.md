@@ -7,37 +7,37 @@ description = '[ˈseiviŋ] n.搭救；节约；存款'
 keywords = ['ai words', 'saving']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈveɪɪŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [saving](/en/post/saving/) [or](/en/post/or/) preserving [something](/en/post/something/) [from](/en/post/from/) [harm](/en/post/harm/), [loss](/en/post/loss/), [or](/en/post/or/) [destruction](/en/post/destruction/). "[She](/en/post/she/) saved [her](/en/post/her/) [money](/en/post/money/) [for](/en/post/for/) [a](/en/post/a/) [rainy](/en/post/rainy/) [day](/en/post/day/)."
-2. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) saved; preservation. "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) was saved [from](/en/post/from/) demolition [through](/en/post/through/) [community](/en/post/community/) efforts."
-3. [Financial](/en/post/financial/) reserves kept [for](/en/post/for/) [future](/en/post/future/) [use](/en/post/use/). "[He](/en/post/he/) had [a](/en/post/a/) [good](/en/post/good/) savings [account](/en/post/account/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) [saving](/post/saving/) [or](/post/or/) preserving [something](/post/something/) [from](/post/from/) [harm](/post/harm/), [loss](/post/loss/), [or](/post/or/) [destruction](/post/destruction/). "[She](/post/she/) saved [her](/post/her/) [money](/post/money/) [for](/post/for/) [a](/post/a/) [rainy](/post/rainy/) [day](/post/day/)."
+2. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) saved; preservation. "[The](/post/the/) [old](/post/old/) [house](/post/house/) was saved [from](/post/from/) demolition [through](/post/through/) [community](/post/community/) efforts."
+3. [Financial](/post/financial/) reserves kept [for](/post/for/) [future](/post/future/) [use](/post/use/). "[He](/post/he/) had [a](/post/a/) [good](/post/good/) savings [account](/post/account/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [keep](/en/post/keep/) [or](/en/post/or/) [set](/en/post/set/) [aside](/en/post/aside/) [for](/en/post/for/) [future](/en/post/future/) [use](/en/post/use/), typically [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) using [it](/en/post/it/) [at](/en/post/at/) [a](/en/post/a/) [later](/en/post/later/) [time](/en/post/time/). "I'm [saving](/en/post/saving/) [up](/en/post/up/) [for](/en/post/for/) [a](/en/post/a/) [new](/en/post/new/) [car](/en/post/car/)."
-2. [To](/en/post/to/) [rescue](/en/post/rescue/) [or](/en/post/or/) [protect](/en/post/protect/) [from](/en/post/from/) [danger](/en/post/danger/), [harm](/en/post/harm/), [or](/en/post/or/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/). "[The](/en/post/the/) firefighters saved [the](/en/post/the/) [family](/en/post/family/) [from](/en/post/from/) [the](/en/post/the/) burning [building](/en/post/building/)."
-3. [To](/en/post/to/) [accumulate](/en/post/accumulate/) [or](/en/post/or/) [earn](/en/post/earn/) ([money](/en/post/money/)) [over](/en/post/over/) [time](/en/post/time/). "[She](/en/post/she/) saved $500 [in](/en/post/in/) [just](/en/post/just/) [two](/en/post/two/) months."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [keep](/post/keep/) [or](/post/or/) [set](/post/set/) [aside](/post/aside/) [for](/post/for/) [future](/post/future/) [use](/post/use/), typically [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) using [it](/post/it/) [at](/post/at/) [a](/post/a/) [later](/post/later/) [time](/post/time/). "I'm [saving](/post/saving/) [up](/post/up/) [for](/post/for/) [a](/post/a/) [new](/post/new/) [car](/post/car/)."
+2. [To](/post/to/) [rescue](/post/rescue/) [or](/post/or/) [protect](/post/protect/) [from](/post/from/) [danger](/post/danger/), [harm](/post/harm/), [or](/post/or/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/). "[The](/post/the/) firefighters saved [the](/post/the/) [family](/post/family/) [from](/post/from/) [the](/post/the/) burning [building](/post/building/)."
+3. [To](/post/to/) [accumulate](/post/accumulate/) [or](/post/or/) [earn](/post/earn/) ([money](/post/money/)) [over](/post/over/) [time](/post/time/). "[She](/post/she/) saved $500 [in](/post/in/) [just](/post/just/) [two](/post/two/) months."
 
-### [Adjective](/en/post/adjective/)
-1. Designed [to](/en/post/to/) [save](/en/post/save/) resources [or](/en/post/or/) [energy](/en/post/energy/). "[The](/en/post/the/) energy-efficient [appliance](/en/post/appliance/) is [a](/en/post/a/) [real](/en/post/real/) [saving](/en/post/saving/)."
-2. Intended [to](/en/post/to/) [prevent](/en/post/prevent/) [loss](/en/post/loss/) [or](/en/post/or/) [damage](/en/post/damage/). "[A](/en/post/a/) [fire](/en/post/fire/) [alarm](/en/post/alarm/) is [a](/en/post/a/) [saving](/en/post/saving/) [device](/en/post/device/)."
+### [Adjective](/post/adjective/)
+1. Designed [to](/post/to/) [save](/post/save/) resources [or](/post/or/) [energy](/post/energy/). "[The](/post/the/) energy-efficient [appliance](/post/appliance/) is [a](/post/a/) [real](/post/real/) [saving](/post/saving/)."
+2. Intended [to](/post/to/) [prevent](/post/prevent/) [loss](/post/loss/) [or](/post/or/) [damage](/post/damage/). "[A](/post/a/) [fire](/post/fire/) [alarm](/post/alarm/) is [a](/post/a/) [saving](/post/saving/) [device](/post/device/)."
 
 ## Phrases
-- "[Save](/en/post/save/) [for](/en/post/for/) [later](/en/post/later/)" [means](/en/post/means/) [to](/en/post/to/) [put](/en/post/put/) [something](/en/post/something/) [aside](/en/post/aside/) [for](/en/post/for/) [a](/en/post/a/) [future](/en/post/future/) [time](/en/post/time/).
-- "[Saving](/en/post/saving/) [grace](/en/post/grace/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) saves [or](/en/post/or/) redeems an [otherwise](/en/post/otherwise/) [unsatisfactory](/en/post/unsatisfactory/) [situation](/en/post/situation/).
-- "[Saving](/en/post/saving/) [face](/en/post/face/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) maintaining one's dignity [or](/en/post/or/) [reputation](/en/post/reputation/) [in](/en/post/in/) [a](/en/post/a/) [social](/en/post/social/) [situation](/en/post/situation/).
+- "[Save](/post/save/) [for](/post/for/) [later](/post/later/)" [means](/post/means/) [to](/post/to/) [put](/post/put/) [something](/post/something/) [aside](/post/aside/) [for](/post/for/) [a](/post/a/) [future](/post/future/) [time](/post/time/).
+- "[Saving](/post/saving/) [grace](/post/grace/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) saves [or](/post/or/) redeems an [otherwise](/post/otherwise/) [unsatisfactory](/post/unsatisfactory/) [situation](/post/situation/).
+- "[Saving](/post/saving/) [face](/post/face/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) maintaining one's dignity [or](/post/or/) [reputation](/post/reputation/) [in](/post/in/) [a](/post/a/) [social](/post/social/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) felt [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [relief](/en/post/relief/) knowing [her](/en/post/her/) retirement savings were [secure](/en/post/secure/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) saved [the](/en/post/the/) drowning [child](/en/post/child/) [from](/en/post/from/) [the](/en/post/the/) [river](/en/post/river/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) software has been [a](/en/post/a/) [significant](/en/post/significant/) cost-saving [measure](/en/post/measure/) [for](/en/post/for/) [the](/en/post/the/) [company](/en/post/company/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) felt [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [relief](/post/relief/) knowing [her](/post/her/) retirement savings were [secure](/post/secure/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) saved [the](/post/the/) drowning [child](/post/child/) [from](/post/from/) [the](/post/the/) [river](/post/river/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) software has been [a](/post/a/) [significant](/post/significant/) cost-saving [measure](/post/measure/) [for](/post/for/) [the](/post/the/) [company](/post/company/)."
 
 ## Synonyms
 - Preservation
-- [Conservation](/en/post/conservation/)
+- [Conservation](/post/conservation/)
 - Accumulation
 - Reserves
 - Hoarding
@@ -50,5 +50,5 @@ keywords = ['ai words', 'saving']
 - Wasting
 - Consuming
 - Expenditure
-- [Loss](/en/post/loss/)
-- [Ruin](/en/post/ruin/)
+- [Loss](/post/loss/)
+- [Ruin](/post/ruin/)

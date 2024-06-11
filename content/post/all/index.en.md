@@ -7,31 +7,31 @@ description = '[ɔːl] a.全部的 prep.全部'
 keywords = ['ai words', 'all']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɔːl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Covering [or](/en/post/or/) including [all](/en/post/all/); [universal](/en/post/universal/); [every](/en/post/every/). [For](/en/post/for/) [example](/en/post/example/): "[All](/en/post/all/) [the](/en/post/the/) students passed [the](/en/post/the/) [exam](/en/post/exam/)." 
-- **Determiner**: 2. [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) an undetermined [or](/en/post/or/) unspecified [quantity](/en/post/quantity/) [or](/en/post/or/) [person](/en/post/person/). [For](/en/post/for/) [example](/en/post/example/): "[All](/en/post/all/) [that](/en/post/that/) matters is [your](/en/post/your/) [happiness](/en/post/happiness/)." 
-- **[Adverb](/en/post/adverb/)**: 3. [Completely](/en/post/completely/); [without](/en/post/without/) [exception](/en/post/exception/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) worked [hard](/en/post/hard/) [all](/en/post/all/) [day](/en/post/day/)."
-- **[Pronoun](/en/post/pronoun/)**: 4. Referring [to](/en/post/to/) [everyone](/en/post/everyone/) [or](/en/post/or/) [everything](/en/post/everything/) [in](/en/post/in/) [a](/en/post/a/) specified [group](/en/post/group/) [or](/en/post/or/) [area](/en/post/area/). [For](/en/post/for/) [example](/en/post/example/): "[Everyone](/en/post/everyone/) [should](/en/post/should/) [have](/en/post/have/) [a](/en/post/a/) [chance](/en/post/chance/) [to](/en/post/to/) [speak](/en/post/speak/)."
+- **[Adjective](/post/adjective/)**: 1. Covering [or](/post/or/) including [all](/post/all/); [universal](/post/universal/); [every](/post/every/). [For](/post/for/) [example](/post/example/): "[All](/post/all/) [the](/post/the/) students passed [the](/post/the/) [exam](/post/exam/)." 
+- **Determiner**: 2. [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) an undetermined [or](/post/or/) unspecified [quantity](/post/quantity/) [or](/post/or/) [person](/post/person/). [For](/post/for/) [example](/post/example/): "[All](/post/all/) [that](/post/that/) matters is [your](/post/your/) [happiness](/post/happiness/)." 
+- **[Adverb](/post/adverb/)**: 3. [Completely](/post/completely/); [without](/post/without/) [exception](/post/exception/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) worked [hard](/post/hard/) [all](/post/all/) [day](/post/day/)."
+- **[Pronoun](/post/pronoun/)**: 4. Referring [to](/post/to/) [everyone](/post/everyone/) [or](/post/or/) [everything](/post/everything/) [in](/post/in/) [a](/post/a/) specified [group](/post/group/) [or](/post/or/) [area](/post/area/). [For](/post/for/) [example](/post/example/): "[Everyone](/post/everyone/) [should](/post/should/) [have](/post/have/) [a](/post/a/) [chance](/post/chance/) [to](/post/to/) [speak](/post/speak/)."
 
 ## Phrases
-- "[All](/en/post/all/) [of](/en/post/of/) [a](/en/post/a/) [sudden](/en/post/sudden/)" [means](/en/post/means/) unexpectedly.
-- "[All](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [place](/en/post/place/)" describes [something](/en/post/something/) [being](/en/post/being/) scattered [or](/en/post/or/) disorganized.
-- "[All](/en/post/all/) [aboard](/en/post/aboard/)" is [a](/en/post/a/) [call](/en/post/call/) [to](/en/post/to/) [board](/en/post/board/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), [usually](/en/post/usually/) [a](/en/post/a/) [train](/en/post/train/) [or](/en/post/or/) [bus](/en/post/bus/).
+- "[All](/post/all/) [of](/post/of/) [a](/post/a/) [sudden](/post/sudden/)" [means](/post/means/) unexpectedly.
+- "[All](/post/all/) [over](/post/over/) [the](/post/the/) [place](/post/place/)" describes [something](/post/something/) [being](/post/being/) scattered [or](/post/or/) disorganized.
+- "[All](/post/all/) [aboard](/post/aboard/)" is [a](/post/a/) [call](/post/call/) [to](/post/to/) [board](/post/board/) [a](/post/a/) [vehicle](/post/vehicle/), [usually](/post/usually/) [a](/post/a/) [train](/post/train/) [or](/post/or/) [bus](/post/bus/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) was [grateful](/en/post/grateful/) [for](/en/post/for/) [all](/en/post/all/) [her](/en/post/her/) friends' [support](/en/post/support/)."
-- **Determiner**: "[All](/en/post/all/) [the](/en/post/the/) books [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/) [belong](/en/post/belong/) [to](/en/post/to/) [the](/en/post/the/) [library](/en/post/library/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) studied [all](/en/post/all/) [night](/en/post/night/) [for](/en/post/for/) [the](/en/post/the/) [final](/en/post/final/) [exam](/en/post/exam/)."
-- **[Pronoun](/en/post/pronoun/)**: "[All](/en/post/all/) [the](/en/post/the/) children were excited [about](/en/post/about/) [the](/en/post/the/) [field](/en/post/field/) [trip](/en/post/trip/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) was [grateful](/post/grateful/) [for](/post/for/) [all](/post/all/) [her](/post/her/) friends' [support](/post/support/)."
+- **Determiner**: "[All](/post/all/) [the](/post/the/) books [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/) [belong](/post/belong/) [to](/post/to/) [the](/post/the/) [library](/post/library/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) studied [all](/post/all/) [night](/post/night/) [for](/post/for/) [the](/post/the/) [final](/post/final/) [exam](/post/exam/)."
+- **[Pronoun](/post/pronoun/)**: "[All](/post/all/) [the](/post/the/) children were excited [about](/post/about/) [the](/post/the/) [field](/post/field/) [trip](/post/trip/)."
 
 ## Synonyms
-- [Every](/en/post/every/)
-- [Total](/en/post/total/)
-- [Complete](/en/post/complete/)
-- [Entire](/en/post/entire/)
-- [Universal](/en/post/universal/)
-- [Each](/en/post/each/) [and](/en/post/and/) [every](/en/post/every/)
+- [Every](/post/every/)
+- [Total](/post/total/)
+- [Complete](/post/complete/)
+- [Entire](/post/entire/)
+- [Universal](/post/universal/)
+- [Each](/post/each/) [and](/post/and/) [every](/post/every/)
 - All-encompassing

@@ -11,20 +11,20 @@ keywords = ['ai words', 'season']
 /ˈsiːzn/
 
 ## 释义
-- **名词**: 一年中的一个特定时期，通常与气候、天气或特定活动相关。例如: "[Spring](/post/spring/) is [the](/post/the/) [season](/post/season/) [for](/post/for/) planting flowers."
-- **名词**: 某种活动或事件的时期。例如: "[The](/post/the/) [football](/post/football/) [season](/post/season/) starts [in](/post/in/) September."
+- **名词**: 一年中的一个特定时期，通常与气候、天气或特定活动相关。例如: "[Spring](/zh/post/spring/) is [the](/zh/post/the/) [season](/zh/post/season/) [for](/zh/post/for/) planting flowers."
+- **名词**: 某种活动或事件的时期。例如: "[The](/zh/post/the/) [football](/zh/post/football/) [season](/zh/post/season/) starts [in](/zh/post/in/) September."
 
 ## 短语
-- "[In](/post/in/) [season](/post/season/)" 表示某种食物或活动在最佳或最流行的时候。例如: "Blueberries are [in](/post/in/) [season](/post/season/) [right](/post/right/) [now](/post/now/)."
-- "[Out](/post/out/) [of](/post/of/) [season](/post/season/)" 表示不在最佳或最流行的时候。例如: "It's [out](/post/out/) [of](/post/of/) [season](/post/season/) [to](/post/to/) [go](/post/go/) skiing [now](/post/now/)."
+- "[In](/zh/post/in/) [season](/zh/post/season/)" 表示某种食物或活动在最佳或最流行的时候。例如: "Blueberries are [in](/zh/post/in/) [season](/zh/post/season/) [right](/zh/post/right/) [now](/zh/post/now/)."
+- "[Out](/zh/post/out/) [of](/zh/post/of/) [season](/zh/post/season/)" 表示不在最佳或最流行的时候。例如: "It's [out](/zh/post/out/) [of](/zh/post/of/) [season](/zh/post/season/) [to](/zh/post/to/) [go](/zh/post/go/) skiing [now](/zh/post/now/)."
 
 ## 例句
-- "[My](/post/my/) favorite [season](/post/season/) is [autumn](/post/autumn/) [because](/post/because/) [of](/post/of/) [the](/post/the/) [beautiful](/post/beautiful/) foliage."
-- "[The](/post/the/) [ski](/post/ski/) [resort](/post/resort/) is bustling [during](/post/during/) [the](/post/the/) [winter](/post/winter/) [season](/post/season/)."
+- "[My](/zh/post/my/) favorite [season](/zh/post/season/) is [autumn](/zh/post/autumn/) [because](/zh/post/because/) [of](/zh/post/of/) [the](/zh/post/the/) [beautiful](/zh/post/beautiful/) foliage."
+- "[The](/zh/post/the/) [ski](/zh/post/ski/) [resort](/zh/post/resort/) is bustling [during](/zh/post/during/) [the](/zh/post/the/) [winter](/zh/post/winter/) [season](/zh/post/season/)."
 
 ## 同义词
-- [Time](/post/time/) [of](/post/of/) [year](/post/year/)
-- [Period](/post/period/)
-- [Interval](/post/interval/)
-- Seasonal [interval](/post/interval/)
-- [Stage](/post/stage/)
+- [Time](/zh/post/time/) [of](/zh/post/of/) [year](/zh/post/year/)
+- [Period](/zh/post/period/)
+- [Interval](/zh/post/interval/)
+- Seasonal [interval](/zh/post/interval/)
+- [Stage](/zh/post/stage/)

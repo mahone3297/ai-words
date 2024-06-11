@@ -7,25 +7,25 @@ description = '[ˈælɔi] n.合金；(金属的)成色'
 keywords = ['ai words', 'alloy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeɪləʊ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) metals, [usually](/en/post/usually/) containing [one](/en/post/one/) [metal](/en/post/metal/) [as](/en/post/as/) [the](/en/post/the/) [main](/en/post/main/) [component](/en/post/component/), [that](/en/post/that/) imparts desired properties [to](/en/post/to/) [the](/en/post/the/) [final](/en/post/final/) [product](/en/post/product/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) car's [body](/en/post/body/) is made [of](/en/post/of/) an aluminum [alloy](/en/post/alloy/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [form](/en/post/form/) an [alloy](/en/post/alloy/) [by](/en/post/by/) combining [different](/en/post/different/) metals. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) metallurgist alloyed [copper](/en/post/copper/) [and](/en/post/and/) zinc [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [new](/en/post/new/) [bronze](/en/post/bronze/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [mixture](/post/mixture/) [of](/post/of/) [two](/post/two/) [or](/post/or/) [more](/post/more/) metals, [usually](/post/usually/) containing [one](/post/one/) [metal](/post/metal/) [as](/post/as/) [the](/post/the/) [main](/post/main/) [component](/post/component/), [that](/post/that/) imparts desired properties [to](/post/to/) [the](/post/the/) [final](/post/final/) [product](/post/product/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) car's [body](/post/body/) is made [of](/post/of/) an aluminum [alloy](/post/alloy/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [form](/post/form/) an [alloy](/post/alloy/) [by](/post/by/) combining [different](/post/different/) metals. [For](/post/for/) [example](/post/example/): "[The](/post/the/) metallurgist alloyed [copper](/post/copper/) [and](/post/and/) zinc [to](/post/to/) [create](/post/create/) [a](/post/a/) [new](/post/new/) [bronze](/post/bronze/)."
 
 ## Phrases
-- "An [alloy](/en/post/alloy/) [of](/en/post/of/) [steel](/en/post/steel/) [and](/en/post/and/) nickel" describes [a](/en/post/a/) [specific](/en/post/specific/) [combination](/en/post/combination/) [of](/en/post/of/) metals.
-- "Alloying elements" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) mixing metals [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [new](/en/post/new/) [material](/en/post/material/).
-- "[Alloy](/en/post/alloy/) [composition](/en/post/composition/)" refers [to](/en/post/to/) [the](/en/post/the/) proportions [of](/en/post/of/) metals [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [alloy](/en/post/alloy/).
+- "An [alloy](/post/alloy/) [of](/post/of/) [steel](/post/steel/) [and](/post/and/) nickel" describes [a](/post/a/) [specific](/post/specific/) [combination](/post/combination/) [of](/post/of/) metals.
+- "Alloying elements" is [the](/post/the/) [process](/post/process/) [of](/post/of/) mixing metals [to](/post/to/) [create](/post/create/) [a](/post/a/) [new](/post/new/) [material](/post/material/).
+- "[Alloy](/post/alloy/) [composition](/post/composition/)" refers [to](/post/to/) [the](/post/the/) proportions [of](/post/of/) metals [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [alloy](/post/alloy/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) jewelry designer chose [a](/en/post/a/) platinum-tungsten [alloy](/en/post/alloy/) [for](/en/post/for/) [its](/en/post/its/) durability."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) engineers alloyed titanium [with](/en/post/with/) [carbon](/en/post/carbon/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) lightweight [yet](/en/post/yet/) [strong](/en/post/strong/) [material](/en/post/material/)."
-- **[Abstract](/en/post/abstract/)**: "[The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) alloys has significantly improved [the](/en/post/the/) [performance](/en/post/performance/) [of](/en/post/of/) [many](/en/post/many/) [industrial](/en/post/industrial/) components."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) jewelry designer chose [a](/post/a/) platinum-tungsten [alloy](/post/alloy/) [for](/post/for/) [its](/post/its/) durability."
+- **[Verb](/post/verb/)**: "[The](/post/the/) engineers alloyed titanium [with](/post/with/) [carbon](/post/carbon/) [to](/post/to/) [make](/post/make/) [a](/post/a/) lightweight [yet](/post/yet/) [strong](/post/strong/) [material](/post/material/)."
+- **[Abstract](/post/abstract/)**: "[The](/post/the/) [use](/post/use/) [of](/post/of/) alloys has significantly improved [the](/post/the/) [performance](/post/performance/) [of](/post/of/) [many](/post/many/) [industrial](/post/industrial/) components."
 
 ## Synonyms
-- [Mixture](/en/post/mixture/) ([of](/en/post/of/) metals)
-- [Blend](/en/post/blend/) (metals)
-- Composite ([metal](/en/post/metal/))
-- Alloys [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) referred [to](/en/post/to/) [as](/en/post/as/) metallic alloys, [but](/en/post/but/) [these](/en/post/these/) terms are [less](/en/post/less/) [common](/en/post/common/) [than](/en/post/than/) "[alloy](/en/post/alloy/)" [itself](/en/post/itself/) [when](/en/post/when/) discussing [the](/en/post/the/) [general](/en/post/general/) [concept](/en/post/concept/).
+- [Mixture](/post/mixture/) ([of](/post/of/) metals)
+- [Blend](/post/blend/) (metals)
+- Composite ([metal](/post/metal/))
+- Alloys [can](/post/can/) [also](/post/also/) [be](/post/be/) referred [to](/post/to/) [as](/post/as/) metallic alloys, [but](/post/but/) [these](/post/these/) terms are [less](/post/less/) [common](/post/common/) [than](/post/than/) "[alloy](/post/alloy/)" [itself](/post/itself/) [when](/post/when/) discussing [the](/post/the/) [general](/post/general/) [concept](/post/concept/).

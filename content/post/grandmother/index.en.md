@@ -7,19 +7,19 @@ description = '[ˈgrændˌmʌðə] n.祖母，外祖母'
 keywords = ['ai words', 'grandmother']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡrænˌmʌðər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [mother](/en/post/mother/) [of](/en/post/of/) one's [own](/en/post/own/) [parent](/en/post/parent/); [the](/en/post/the/) [female](/en/post/female/) [ancestor](/en/post/ancestor/) [in](/en/post/in/) [the](/en/post/the/) [next](/en/post/next/) [generation](/en/post/generation/) [above](/en/post/above/) one's parents. [For](/en/post/for/) [example](/en/post/example/): "[My](/en/post/my/) [grandmother](/en/post/grandmother/) taught [me](/en/post/me/) [how](/en/post/how/) [to](/en/post/to/) [knit](/en/post/knit/) [when](/en/post/when/) I was [young](/en/post/young/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [mother](/post/mother/) [of](/post/of/) one's [own](/post/own/) [parent](/post/parent/); [the](/post/the/) [female](/post/female/) [ancestor](/post/ancestor/) [in](/post/in/) [the](/post/the/) [next](/post/next/) [generation](/post/generation/) [above](/post/above/) one's parents. [For](/post/for/) [example](/post/example/): "[My](/post/my/) [grandmother](/post/grandmother/) taught [me](/post/me/) [how](/post/how/) [to](/post/to/) [knit](/post/knit/) [when](/post/when/) I was [young](/post/young/)."
 
-[Example](/en/post/example/) Sentences:
-- "I visited [my](/en/post/my/) [grandmother](/en/post/grandmother/) [every](/en/post/every/) [summer](/en/post/summer/) [during](/en/post/during/) [my](/en/post/my/) [childhood](/en/post/childhood/)."
-- "[Her](/en/post/her/) grandmother's recipes [have](/en/post/have/) been passed [down](/en/post/down/) [through](/en/post/through/) generations."
+[Example](/post/example/) Sentences:
+- "I visited [my](/post/my/) [grandmother](/post/grandmother/) [every](/post/every/) [summer](/post/summer/) [during](/post/during/) [my](/post/my/) [childhood](/post/childhood/)."
+- "[Her](/post/her/) grandmother's recipes [have](/post/have/) been passed [down](/post/down/) [through](/post/through/) generations."
 
 Phrases:
-- "Grandmotherly [love](/en/post/love/)": Refers [to](/en/post/to/) [the](/en/post/the/) affectionate [and](/en/post/and/) nurturing [care](/en/post/care/) [often](/en/post/often/) associated [with](/en/post/with/) grandmothers.
-- "[Grandmother](/en/post/grandmother/) [clock](/en/post/clock/)": [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) longcase [clock](/en/post/clock/) [that](/en/post/that/) is [usually](/en/post/usually/) shorter [than](/en/post/than/) [a](/en/post/a/) [grandfather](/en/post/grandfather/) [clock](/en/post/clock/).
+- "Grandmotherly [love](/post/love/)": Refers [to](/post/to/) [the](/post/the/) affectionate [and](/post/and/) nurturing [care](/post/care/) [often](/post/often/) associated [with](/post/with/) grandmothers.
+- "[Grandmother](/post/grandmother/) [clock](/post/clock/)": [A](/post/a/) [type](/post/type/) [of](/post/of/) longcase [clock](/post/clock/) [that](/post/that/) is [usually](/post/usually/) shorter [than](/post/than/) [a](/post/a/) [grandfather](/post/grandfather/) [clock](/post/clock/).
   
 Synonyms:
 - Granny
@@ -29,11 +29,11 @@ Synonyms:
 - Grandma
 - Grandmum
 
-## [Phrase](/en/post/phrase/) Examples
-- "[She](/en/post/she/) has [her](/en/post/her/) grandmother's eyes."
-- "[The](/en/post/the/) [family](/en/post/family/) [necklace](/en/post/necklace/) was handed [down](/en/post/down/) [from](/en/post/from/) [grandmother](/en/post/grandmother/) [to](/en/post/to/) [granddaughter](/en/post/granddaughter/)."
+## [Phrase](/post/phrase/) Examples
+- "[She](/post/she/) has [her](/post/her/) grandmother's eyes."
+- "[The](/post/the/) [family](/post/family/) [necklace](/post/necklace/) was handed [down](/post/down/) [from](/post/from/) [grandmother](/post/grandmother/) [to](/post/to/) [granddaughter](/post/granddaughter/)."
 
-## [Usage](/en/post/usage/) [in](/en/post/in/) Idioms
-- "[Like](/en/post/like/) [a](/en/post/a/) [cat](/en/post/cat/) [on](/en/post/on/) [a](/en/post/a/) [hot](/en/post/hot/) [tin](/en/post/tin/) [roof](/en/post/roof/)": [This](/en/post/this/) [idiom](/en/post/idiom/) describes [someone](/en/post/someone/) [who](/en/post/who/) is [very](/en/post/very/) [nervous](/en/post/nervous/) [or](/en/post/or/) agitated, [but](/en/post/but/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) humorously [about](/en/post/about/) an [active](/en/post/active/) [or](/en/post/or/) energetic [person](/en/post/person/), [often](/en/post/often/) said [about](/en/post/about/) grandmothers [or](/en/post/or/) elderly individuals [who](/en/post/who/) defy expectations [with](/en/post/with/) [their](/en/post/their/) liveliness.
+## [Usage](/post/usage/) [in](/post/in/) Idioms
+- "[Like](/post/like/) [a](/post/a/) [cat](/post/cat/) [on](/post/on/) [a](/post/a/) [hot](/post/hot/) [tin](/post/tin/) [roof](/post/roof/)": [This](/post/this/) [idiom](/post/idiom/) describes [someone](/post/someone/) [who](/post/who/) is [very](/post/very/) [nervous](/post/nervous/) [or](/post/or/) agitated, [but](/post/but/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) humorously [about](/post/about/) an [active](/post/active/) [or](/post/or/) energetic [person](/post/person/), [often](/post/often/) said [about](/post/about/) grandmothers [or](/post/or/) elderly individuals [who](/post/who/) defy expectations [with](/post/with/) [their](/post/their/) liveliness.
 
-[Note](/en/post/note/): [While](/en/post/while/) [grandmother](/en/post/grandmother/) is typically [a](/en/post/a/) [noun](/en/post/noun/), [it](/en/post/it/) [can](/en/post/can/) [sometimes](/en/post/sometimes/) [function](/en/post/function/) [as](/en/post/as/) an attributive [noun](/en/post/noun/), [such](/en/post/such/) [as](/en/post/as/) [in](/en/post/in/) [the](/en/post/the/) [phrase](/en/post/phrase/) "grandmother's [house](/en/post/house/)," [where](/en/post/where/) [it](/en/post/it/) acts [like](/en/post/like/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [which](/en/post/which/) [house](/en/post/house/) [it](/en/post/it/) is. [However](/en/post/however/), [it](/en/post/it/) does [not](/en/post/not/) [commonly](/en/post/commonly/) [take](/en/post/take/) [on](/en/post/on/) [verb](/en/post/verb/) forms [or](/en/post/or/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) [outside](/en/post/outside/) [of](/en/post/of/) [its](/en/post/its/) [primary](/en/post/primary/) [noun](/en/post/noun/) [usage](/en/post/usage/).
+[Note](/post/note/): [While](/post/while/) [grandmother](/post/grandmother/) is typically [a](/post/a/) [noun](/post/noun/), [it](/post/it/) [can](/post/can/) [sometimes](/post/sometimes/) [function](/post/function/) [as](/post/as/) an attributive [noun](/post/noun/), [such](/post/such/) [as](/post/as/) [in](/post/in/) [the](/post/the/) [phrase](/post/phrase/) "grandmother's [house](/post/house/)," [where](/post/where/) [it](/post/it/) acts [like](/post/like/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [which](/post/which/) [house](/post/house/) [it](/post/it/) is. [However](/post/however/), [it](/post/it/) does [not](/post/not/) [commonly](/post/commonly/) [take](/post/take/) [on](/post/on/) [verb](/post/verb/) forms [or](/post/or/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) [outside](/post/outside/) [of](/post/of/) [its](/post/its/) [primary](/post/primary/) [noun](/post/noun/) [usage](/post/usage/).

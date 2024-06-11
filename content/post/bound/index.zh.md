@@ -12,26 +12,26 @@ keywords = ['ai words', 'bound']
 
 ## 释义
 - **形容词**:
-  - 有限的，受约束的。例如: "[The](/post/the/) [garden](/post/garden/) had [a](/post/a/) [clear](/post/clear/), [bound](/post/bound/) [boundary](/post/boundary/)."
-  - 确定的，预定的。例如: "[The](/post/the/) [train](/post/train/) is [bound](/post/bound/) [for](/post/for/) [New](/post/new/) York."
-  - 跳跃的，弹跳的。例如: "[The](/post/the/) puppy played [with](/post/with/) [a](/post/a/) [bound](/post/bound/) [energy](/post/energy/)."
+  - 有限的，受约束的。例如: "[The](/zh/post/the/) [garden](/zh/post/garden/) had [a](/zh/post/a/) [clear](/zh/post/clear/), [bound](/zh/post/bound/) [boundary](/zh/post/boundary/)."
+  - 确定的，预定的。例如: "[The](/zh/post/the/) [train](/zh/post/train/) is [bound](/zh/post/bound/) [for](/zh/post/for/) [New](/zh/post/new/) York."
+  - 跳跃的，弹跳的。例如: "[The](/zh/post/the/) puppy played [with](/zh/post/with/) [a](/zh/post/a/) [bound](/zh/post/bound/) [energy](/zh/post/energy/)."
 
 - **动词**:
-  - 限制，约束。例如: "[The](/post/the/) [contract](/post/contract/) binds [you](/post/you/) [to](/post/to/) [work](/post/work/) [for](/post/for/) [two](/post/two/) years."
-  - 弹跳，跳跃。例如: "[The](/post/the/) [ball](/post/ball/) bounded [off](/post/off/) [the](/post/the/) [wall](/post/wall/)."
+  - 限制，约束。例如: "[The](/zh/post/the/) [contract](/zh/post/contract/) binds [you](/zh/post/you/) [to](/zh/post/to/) [work](/zh/post/work/) [for](/zh/post/for/) [two](/zh/post/two/) years."
+  - 弹跳，跳跃。例如: "[The](/zh/post/the/) [ball](/zh/post/ball/) bounded [off](/zh/post/off/) [the](/zh/post/the/) [wall](/zh/post/wall/)."
 
 ## 短语
-- "[bound](/post/bound/) [up](/post/up/) [with](/post/with/)" 意味着与...密切相关。例如: "[Her](/post/her/) [happiness](/post/happiness/) was [bound](/post/bound/) [up](/post/up/) [with](/post/with/) [her](/post/her/) children's [success](/post/success/)."
-- "[bound](/post/bound/) [for](/post/for/)" 表示前往或目的是。例如: "We're [bound](/post/bound/) [for](/post/for/) [the](/post/the/) [beach](/post/beach/) [this](/post/this/) [weekend](/post/weekend/)."
+- "[bound](/zh/post/bound/) [up](/zh/post/up/) [with](/zh/post/with/)" 意味着与...密切相关。例如: "[Her](/zh/post/her/) [happiness](/zh/post/happiness/) was [bound](/zh/post/bound/) [up](/zh/post/up/) [with](/zh/post/with/) [her](/zh/post/her/) children's [success](/zh/post/success/)."
+- "[bound](/zh/post/bound/) [for](/zh/post/for/)" 表示前往或目的是。例如: "We're [bound](/zh/post/bound/) [for](/zh/post/for/) [the](/zh/post/the/) [beach](/zh/post/beach/) [this](/zh/post/this/) [weekend](/zh/post/weekend/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) [book](/post/book/) has [a](/post/a/) beautifully [bound](/post/bound/) [leather](/post/leather/) [cover](/post/cover/)."
-- 动词: "[He](/post/he/) [bound](/post/bound/) [the](/post/the/) [package](/post/package/) [with](/post/with/) [string](/post/string/) [before](/post/before/) mailing [it](/post/it/)."
-- 跳跃: "[The](/post/the/) [child](/post/child/) bounded [up](/post/up/) [the](/post/the/) stairs [with](/post/with/) excitement."
+- 形容词: "[The](/zh/post/the/) [book](/zh/post/book/) has [a](/zh/post/a/) beautifully [bound](/zh/post/bound/) [leather](/zh/post/leather/) [cover](/zh/post/cover/)."
+- 动词: "[He](/zh/post/he/) [bound](/zh/post/bound/) [the](/zh/post/the/) [package](/zh/post/package/) [with](/zh/post/with/) [string](/zh/post/string/) [before](/zh/post/before/) mailing [it](/zh/post/it/)."
+- 跳跃: "[The](/zh/post/the/) [child](/zh/post/child/) bounded [up](/zh/post/up/) [the](/zh/post/the/) stairs [with](/zh/post/with/) excitement."
 
 ## 同义词
-- [Limited](/post/limited/)
+- [Limited](/zh/post/limited/)
 - Constrained
 - Restricted
 - Trammelled
-- Leaped ([for](/post/for/) [the](/post/the/) [action](/post/action/) [of](/post/of/) bounding)
+- Leaped ([for](/zh/post/for/) [the](/zh/post/the/) [action](/zh/post/action/) [of](/zh/post/of/) bounding)

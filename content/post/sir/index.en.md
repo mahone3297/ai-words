@@ -7,27 +7,27 @@ description = '[səː(r)] n.先生，阁下；…爵士'
 keywords = ['ai words', 'sir']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɜː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [formal](/en/post/formal/) [or](/en/post/or/) [polite](/en/post/polite/) [title](/en/post/title/) [used](/en/post/used/) [to](/en/post/to/) [address](/en/post/address/) [someone](/en/post/someone/) [with](/en/post/with/) [respect](/en/post/respect/), typically [a](/en/post/a/) [man](/en/post/man/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) addressed [the](/en/post/the/) [crowd](/en/post/crowd/) [as](/en/post/as/) 'Ladies [and](/en/post/and/) gentlemen, [sir](/en/post/sir/).'"
-- **[Adjective](/en/post/adjective/)**: Designating [or](/en/post/or/) [used](/en/post/used/) [to](/en/post/to/) [address](/en/post/address/) [a](/en/post/a/) [male](/en/post/male/) [person](/en/post/person/) [with](/en/post/with/) [respect](/en/post/respect/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) butler bowed [to](/en/post/to/) [his](/en/post/his/) [master](/en/post/master/), addressing [him](/en/post/him/) [as](/en/post/as/) '[Sir](/en/post/sir/).'"
-- **Interjection**: An [expression](/en/post/expression/) [of](/en/post/of/) [respect](/en/post/respect/) [or](/en/post/or/) politeness, [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [start](/en/post/start/) [a](/en/post/a/) [conversation](/en/post/conversation/). [For](/en/post/for/) [example](/en/post/example/): "[May](/en/post/may/) I [have](/en/post/have/) [your](/en/post/your/) [attention](/en/post/attention/), [please](/en/post/please/), [sir](/en/post/sir/)?"
+- **[Noun](/post/noun/)**: [A](/post/a/) [formal](/post/formal/) [or](/post/or/) [polite](/post/polite/) [title](/post/title/) [used](/post/used/) [to](/post/to/) [address](/post/address/) [someone](/post/someone/) [with](/post/with/) [respect](/post/respect/), typically [a](/post/a/) [man](/post/man/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) addressed [the](/post/the/) [crowd](/post/crowd/) [as](/post/as/) 'Ladies [and](/post/and/) gentlemen, [sir](/post/sir/).'"
+- **[Adjective](/post/adjective/)**: Designating [or](/post/or/) [used](/post/used/) [to](/post/to/) [address](/post/address/) [a](/post/a/) [male](/post/male/) [person](/post/person/) [with](/post/with/) [respect](/post/respect/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) butler bowed [to](/post/to/) [his](/post/his/) [master](/post/master/), addressing [him](/post/him/) [as](/post/as/) '[Sir](/post/sir/).'"
+- **Interjection**: An [expression](/post/expression/) [of](/post/of/) [respect](/post/respect/) [or](/post/or/) politeness, [often](/post/often/) [used](/post/used/) [to](/post/to/) [start](/post/start/) [a](/post/a/) [conversation](/post/conversation/). [For](/post/for/) [example](/post/example/): "[May](/post/may/) I [have](/post/have/) [your](/post/your/) [attention](/post/attention/), [please](/post/please/), [sir](/post/sir/)?"
 
 ## Phrases
-- "[Address](/en/post/address/) [someone](/en/post/someone/) [as](/en/post/as/) [sir](/en/post/sir/)" [means](/en/post/means/) [to](/en/post/to/) formally [refer](/en/post/refer/) [to](/en/post/to/) [or](/en/post/or/) [speak](/en/post/speak/) [to](/en/post/to/) [a](/en/post/a/) [man](/en/post/man/) [with](/en/post/with/) [respect](/en/post/respect/).
-- "[Sir](/en/post/sir/), [yes](/en/post/yes/), [sir](/en/post/sir/)" is [a](/en/post/a/) [military](/en/post/military/) [or](/en/post/or/) [formal](/en/post/formal/) [response](/en/post/response/) [to](/en/post/to/) [a](/en/post/a/) [command](/en/post/command/).
-- "[After](/en/post/after/) [you](/en/post/you/), [sir](/en/post/sir/)" is an [expression](/en/post/expression/) [of](/en/post/of/) courtesy, indicating [that](/en/post/that/) [someone](/en/post/someone/) [should](/en/post/should/) [go](/en/post/go/) [first](/en/post/first/).
+- "[Address](/post/address/) [someone](/post/someone/) [as](/post/as/) [sir](/post/sir/)" [means](/post/means/) [to](/post/to/) formally [refer](/post/refer/) [to](/post/to/) [or](/post/or/) [speak](/post/speak/) [to](/post/to/) [a](/post/a/) [man](/post/man/) [with](/post/with/) [respect](/post/respect/).
+- "[Sir](/post/sir/), [yes](/post/yes/), [sir](/post/sir/)" is [a](/post/a/) [military](/post/military/) [or](/post/or/) [formal](/post/formal/) [response](/post/response/) [to](/post/to/) [a](/post/a/) [command](/post/command/).
+- "[After](/post/after/) [you](/post/you/), [sir](/post/sir/)" is an [expression](/post/expression/) [of](/post/of/) courtesy, indicating [that](/post/that/) [someone](/post/someone/) [should](/post/should/) [go](/post/go/) [first](/post/first/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [officer](/en/post/officer/) saluted [the](/en/post/the/) [commander](/en/post/commander/), calling [him](/en/post/him/) '[sir](/en/post/sir/).'"
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) addressed [the](/en/post/the/) [class](/en/post/class/), asking [the](/en/post/the/) [sir](/en/post/sir/) [for](/en/post/for/) [his](/en/post/his/) thoughts."
-- **Interjection**: "[Excuse](/en/post/excuse/) [me](/en/post/me/), [sir](/en/post/sir/), [do](/en/post/do/) [you](/en/post/you/) [know](/en/post/know/) [where](/en/post/where/) [the](/en/post/the/) restroom is?"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [officer](/post/officer/) saluted [the](/post/the/) [commander](/post/commander/), calling [him](/post/him/) '[sir](/post/sir/).'"
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [teacher](/post/teacher/) addressed [the](/post/the/) [class](/post/class/), asking [the](/post/the/) [sir](/post/sir/) [for](/post/for/) [his](/post/his/) thoughts."
+- **Interjection**: "[Excuse](/post/excuse/) [me](/post/me/), [sir](/post/sir/), [do](/post/do/) [you](/post/you/) [know](/post/know/) [where](/post/where/) [the](/post/the/) restroom is?"
 
 ## Synonyms
-- [Gentleman](/en/post/gentleman/)
-- Sirrah (informal, [sometimes](/en/post/sometimes/) disrespectful)
-- Ma'am ([formal](/en/post/formal/), [used](/en/post/used/) [for](/en/post/for/) women)
-- Sirs ([plural](/en/post/plural/), addressing [multiple](/en/post/multiple/) men)
-- Mister ([less](/en/post/less/) [formal](/en/post/formal/) [than](/en/post/than/) [sir](/en/post/sir/))
+- [Gentleman](/post/gentleman/)
+- Sirrah (informal, [sometimes](/post/sometimes/) disrespectful)
+- Ma'am ([formal](/post/formal/), [used](/post/used/) [for](/post/for/) women)
+- Sirs ([plural](/post/plural/), addressing [multiple](/post/multiple/) men)
+- Mister ([less](/post/less/) [formal](/post/formal/) [than](/post/than/) [sir](/post/sir/))

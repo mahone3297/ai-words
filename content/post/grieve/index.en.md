@@ -7,32 +7,32 @@ description = '[griːv] vt.使悲痛 vi.悲痛'
 keywords = ['ai words', 'grieve']
 +++
 
-## [Word](/en/post/word/): [Grieve](/en/post/grieve/)
+## [Word](/post/word/): [Grieve](/post/grieve/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡriːv/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [feel](/en/post/feel/) [deep](/en/post/deep/) [sorrow](/en/post/sorrow/), [emotional](/en/post/emotional/) [pain](/en/post/pain/), [or](/en/post/or/) [sadness](/en/post/sadness/), [especially](/en/post/especially/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [loss](/en/post/loss/) [of](/en/post/of/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [dear](/en/post/dear/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [still](/en/post/still/) grieves [for](/en/post/for/) [her](/en/post/her/) [late](/en/post/late/) [husband](/en/post/husband/)."
-  > "[The](/en/post/the/) [family](/en/post/family/) is grieving [over](/en/post/over/) [their](/en/post/their/) [recent](/en/post/recent/) [loss](/en/post/loss/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) experiencing grief [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [in](/en/post/in/) grief. [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) bereavement involves going [through](/en/post/through/) [various](/en/post/various/) stages [of](/en/post/of/) grief."
-  > "Grief [can](/en/post/can/) manifest [itself](/en/post/itself/) [in](/en/post/in/) [many](/en/post/many/) [different](/en/post/different/) ways."
+- **[Verb](/post/verb/)**: [To](/post/to/) [feel](/post/feel/) [deep](/post/deep/) [sorrow](/post/sorrow/), [emotional](/post/emotional/) [pain](/post/pain/), [or](/post/or/) [sadness](/post/sadness/), [especially](/post/especially/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [loss](/post/loss/) [of](/post/of/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [dear](/post/dear/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [still](/post/still/) grieves [for](/post/for/) [her](/post/her/) [late](/post/late/) [husband](/post/husband/)."
+  > "[The](/post/the/) [family](/post/family/) is grieving [over](/post/over/) [their](/post/their/) [recent](/post/recent/) [loss](/post/loss/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) experiencing grief [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [in](/post/in/) grief. [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [process](/post/process/) [of](/post/of/) bereavement involves going [through](/post/through/) [various](/post/various/) stages [of](/post/of/) grief."
+  > "Grief [can](/post/can/) manifest [itself](/post/itself/) [in](/post/in/) [many](/post/many/) [different](/post/different/) ways."
 
 ## Phrases
-- "[To](/en/post/to/) [grieve](/en/post/grieve/) [for](/en/post/for/) [someone](/en/post/someone/)/[something](/en/post/something/)": [To](/en/post/to/) [experience](/en/post/experience/) [sorrow](/en/post/sorrow/) [because](/en/post/because/) [of](/en/post/of/) [the](/en/post/the/) [death](/en/post/death/) [or](/en/post/or/) [loss](/en/post/loss/) [of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/). [Example](/en/post/example/): "She's been grieving [for](/en/post/for/) [her](/en/post/her/) [mother](/en/post/mother/) [ever](/en/post/ever/) [since](/en/post/since/) [she](/en/post/she/) passed [away](/en/post/away/)."
-- "[Time](/en/post/time/) [to](/en/post/to/) [grieve](/en/post/grieve/)": [A](/en/post/a/) [period](/en/post/period/) [set](/en/post/set/) [aside](/en/post/aside/) [to](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) one's [sorrow](/en/post/sorrow/) [and](/en/post/and/) emotions [after](/en/post/after/) [a](/en/post/a/) [loss](/en/post/loss/). [Example](/en/post/example/): "It's [important](/en/post/important/) [to](/en/post/to/) [give](/en/post/give/) [yourself](/en/post/yourself/) [time](/en/post/time/) [to](/en/post/to/) [grieve](/en/post/grieve/)."
+- "[To](/post/to/) [grieve](/post/grieve/) [for](/post/for/) [someone](/post/someone/)/[something](/post/something/)": [To](/post/to/) [experience](/post/experience/) [sorrow](/post/sorrow/) [because](/post/because/) [of](/post/of/) [the](/post/the/) [death](/post/death/) [or](/post/or/) [loss](/post/loss/) [of](/post/of/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/). [Example](/post/example/): "She's been grieving [for](/post/for/) [her](/post/her/) [mother](/post/mother/) [ever](/post/ever/) [since](/post/since/) [she](/post/she/) passed [away](/post/away/)."
+- "[Time](/post/time/) [to](/post/to/) [grieve](/post/grieve/)": [A](/post/a/) [period](/post/period/) [set](/post/set/) [aside](/post/aside/) [to](/post/to/) [deal](/post/deal/) [with](/post/with/) one's [sorrow](/post/sorrow/) [and](/post/and/) emotions [after](/post/after/) [a](/post/a/) [loss](/post/loss/). [Example](/post/example/): "It's [important](/post/important/) [to](/post/to/) [give](/post/give/) [yourself](/post/yourself/) [time](/post/time/) [to](/post/to/) [grieve](/post/grieve/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was deeply grieved [by](/en/post/by/) [the](/en/post/the/) [sudden](/en/post/sudden/) [departure](/en/post/departure/) [of](/en/post/of/) [his](/en/post/his/) [best](/en/post/best/) [friend](/en/post/friend/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [intensity](/en/post/intensity/) [of](/en/post/of/) [her](/en/post/her/) grief made [it](/en/post/it/) [hard](/en/post/hard/) [for](/en/post/for/) [her](/en/post/her/) [to](/en/post/to/) [function](/en/post/function/) [normally](/en/post/normally/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[He](/post/he/) was deeply grieved [by](/post/by/) [the](/post/the/) [sudden](/post/sudden/) [departure](/post/departure/) [of](/post/of/) [his](/post/his/) [best](/post/best/) [friend](/post/friend/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [intensity](/post/intensity/) [of](/post/of/) [her](/post/her/) grief made [it](/post/it/) [hard](/post/hard/) [for](/post/for/) [her](/post/her/) [to](/post/to/) [function](/post/function/) [normally](/post/normally/)."
 
 ## Synonyms
-- [Mourn](/en/post/mourn/)
-- [Sorrow](/en/post/sorrow/)
+- [Mourn](/post/mourn/)
+- [Sorrow](/post/sorrow/)
 - Lament
-- [Weep](/en/post/weep/)
-- [Mourn](/en/post/mourn/) [over](/en/post/over/)
-- [Feel](/en/post/feel/) [sad](/en/post/sad/) [about](/en/post/about/)
+- [Weep](/post/weep/)
+- [Mourn](/post/mourn/) [over](/post/over/)
+- [Feel](/post/feel/) [sad](/post/sad/) [about](/post/about/)
 - Bereave
-- [Be](/en/post/be/) heartbroken
-- [Be](/en/post/be/) devastated
+- [Be](/post/be/) heartbroken
+- [Be](/post/be/) devastated

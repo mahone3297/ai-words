@@ -7,28 +7,28 @@ description = '[ˈseifli] ad.安全地；可靠地'
 keywords = ['ai words', 'safely']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈfaɪli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) is [safe](/en/post/safe/) [or](/en/post/or/) [without](/en/post/without/) [risk](/en/post/risk/); securely. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) crossed [the](/en/post/the/) [street](/en/post/street/) [safely](/en/post/safely/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [safety](/en/post/safety/) [or](/en/post/or/) [freedom](/en/post/freedom/) [from](/en/post/from/) [danger](/en/post/danger/) [or](/en/post/or/) [harm](/en/post/harm/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) was designed [with](/en/post/with/) [safety](/en/post/safety/) features [in](/en/post/in/) [mind](/en/post/mind/)."
-- **[Noun](/en/post/noun/)**: [Safety](/en/post/safety/) [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [safe](/en/post/safe/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) felt [safe](/en/post/safe/) [in](/en/post/in/) [their](/en/post/their/) parent's arms."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) is [safe](/post/safe/) [or](/post/or/) [without](/post/without/) [risk](/post/risk/); securely. [For](/post/for/) [example](/post/example/): "[She](/post/she/) crossed [the](/post/the/) [street](/post/street/) [safely](/post/safely/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [safety](/post/safety/) [or](/post/or/) [freedom](/post/freedom/) [from](/post/from/) [danger](/post/danger/) [or](/post/or/) [harm](/post/harm/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [house](/post/house/) was designed [with](/post/with/) [safety](/post/safety/) features [in](/post/in/) [mind](/post/mind/)."
+- **[Noun](/post/noun/)**: [Safety](/post/safety/) [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [safe](/post/safe/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [child](/post/child/) felt [safe](/post/safe/) [in](/post/in/) [their](/post/their/) parent's arms."
 
 ## Phrases
-- "[Drive](/en/post/drive/) [safely](/en/post/safely/)" is [a](/en/post/a/) [common](/en/post/common/) [advice](/en/post/advice/) [before](/en/post/before/) [someone](/en/post/someone/) embarks [on](/en/post/on/) [a](/en/post/a/) [journey](/en/post/journey/).
-- "[Safety](/en/post/safety/) [first](/en/post/first/)" is [a](/en/post/a/) [principle](/en/post/principle/) emphasizing [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) [safety](/en/post/safety/) [in](/en/post/in/) [various](/en/post/various/) contexts.
-- "[Safely](/en/post/safely/) tucked [away](/en/post/away/)" [means](/en/post/means/) securely hidden [or](/en/post/or/) protected.
+- "[Drive](/post/drive/) [safely](/post/safely/)" is [a](/post/a/) [common](/post/common/) [advice](/post/advice/) [before](/post/before/) [someone](/post/someone/) embarks [on](/post/on/) [a](/post/a/) [journey](/post/journey/).
+- "[Safety](/post/safety/) [first](/post/first/)" is [a](/post/a/) [principle](/post/principle/) emphasizing [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [safety](/post/safety/) [in](/post/in/) [various](/post/various/) contexts.
+- "[Safely](/post/safely/) tucked [away](/post/away/)" [means](/post/means/) securely hidden [or](/post/or/) protected.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) drove carefully [to](/en/post/to/) [ensure](/en/post/ensure/) [his](/en/post/his/) [journey](/en/post/journey/) was completed [safely](/en/post/safely/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) children were playing [safely](/en/post/safely/) [in](/en/post/in/) [the](/en/post/the/) [playground](/en/post/playground/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) locked [the](/en/post/the/) [door](/en/post/door/) [to](/en/post/to/) [ensure](/en/post/ensure/) [their](/en/post/their/) [safety](/en/post/safety/) [while](/en/post/while/) [they](/en/post/they/) slept."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) drove carefully [to](/post/to/) [ensure](/post/ensure/) [his](/post/his/) [journey](/post/journey/) was completed [safely](/post/safely/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) children were playing [safely](/post/safely/) [in](/post/in/) [the](/post/the/) [playground](/post/playground/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) locked [the](/post/the/) [door](/post/door/) [to](/post/to/) [ensure](/post/ensure/) [their](/post/their/) [safety](/post/safety/) [while](/post/while/) [they](/post/they/) slept."
 
 ## Synonyms
 - Securely
-- [Safely](/en/post/safely/)
-- [Safely](/en/post/safely/) ([as](/en/post/as/) an [adverb](/en/post/adverb/))
+- [Safely](/post/safely/)
+- [Safely](/post/safely/) ([as](/post/as/) an [adverb](/post/adverb/))
 - Protected
 - Safekeeping
 - Secured

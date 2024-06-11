@@ -7,46 +7,46 @@ description = '[ˈkɔment] n.评论，意见；注释'
 keywords = ['ai words', 'comment']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈment/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[noun](/en/post/noun/)** [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) "[comment](/en/post/comment/)" is:
-1. [A](/en/post/a/) [remark](/en/post/remark/), [observation](/en/post/observation/), [or](/en/post/or/) [expression](/en/post/expression/) made [about](/en/post/about/) [something](/en/post/something/), [often](/en/post/often/) expressing an [opinion](/en/post/opinion/) [or](/en/post/or/) judgment.
-2. [Computing] [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [user](/en/post/user/) [input](/en/post/input/), typically [in](/en/post/in/) [the](/en/post/the/) [form](/en/post/form/) [of](/en/post/of/) [text](/en/post/text/), [to](/en/post/to/) [a](/en/post/a/) [computer](/en/post/computer/) [program](/en/post/program/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[noun](/post/noun/)** [in](/post/in/) [the](/post/the/) context [of](/post/of/) "[comment](/post/comment/)" is:
+1. [A](/post/a/) [remark](/post/remark/), [observation](/post/observation/), [or](/post/or/) [expression](/post/expression/) made [about](/post/about/) [something](/post/something/), [often](/post/often/) expressing an [opinion](/post/opinion/) [or](/post/or/) judgment.
+2. [Computing] [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [user](/post/user/) [input](/post/input/), typically [in](/post/in/) [the](/post/the/) [form](/post/form/) [of](/post/of/) [text](/post/text/), [to](/post/to/) [a](/post/a/) [computer](/post/computer/) [program](/post/program/).
 
-### [Verb](/en/post/verb/)
-[As](/en/post/as/) [a](/en/post/a/) **[verb](/en/post/verb/)**, "[comment](/en/post/comment/)" is:
-1. [To](/en/post/to/) [express](/en/post/express/) an [opinion](/en/post/opinion/) [or](/en/post/or/) [make](/en/post/make/) [a](/en/post/a/) [remark](/en/post/remark/) [about](/en/post/about/) [something](/en/post/something/), [usually](/en/post/usually/) [in](/en/post/in/) [response](/en/post/response/) [or](/en/post/or/) [discussion](/en/post/discussion/).
-2. [To](/en/post/to/) annotate [or](/en/post/or/) [add](/en/post/add/) [a](/en/post/a/) [note](/en/post/note/) [to](/en/post/to/) [a](/en/post/a/) written [work](/en/post/work/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [book](/en/post/book/) [or](/en/post/or/) [article](/en/post/article/).
+### [Verb](/post/verb/)
+[As](/post/as/) [a](/post/a/) **[verb](/post/verb/)**, "[comment](/post/comment/)" is:
+1. [To](/post/to/) [express](/post/express/) an [opinion](/post/opinion/) [or](/post/or/) [make](/post/make/) [a](/post/a/) [remark](/post/remark/) [about](/post/about/) [something](/post/something/), [usually](/post/usually/) [in](/post/in/) [response](/post/response/) [or](/post/or/) [discussion](/post/discussion/).
+2. [To](/post/to/) annotate [or](/post/or/) [add](/post/add/) [a](/post/a/) [note](/post/note/) [to](/post/to/) [a](/post/a/) written [work](/post/work/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [book](/post/book/) [or](/post/or/) [article](/post/article/).
 
-### [Adjective](/en/post/adjective/)
-[The](/en/post/the/) [word](/en/post/word/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an **[adjective](/en/post/adjective/)**:
-1. Criticizing [or](/en/post/or/) expressing disapproval: [a](/en/post/a/) [critical](/en/post/critical/) [comment](/en/post/comment/).
+### [Adjective](/post/adjective/)
+[The](/post/the/) [word](/post/word/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an **[adjective](/post/adjective/)**:
+1. Criticizing [or](/post/or/) expressing disapproval: [a](/post/a/) [critical](/post/critical/) [comment](/post/comment/).
 
 ### Interjection
-[Occasionally](/en/post/occasionally/), "[comment](/en/post/comment/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an **interjection** [for](/en/post/for/) [emphasis](/en/post/emphasis/) [or](/en/post/or/) [to](/en/post/to/) [invite](/en/post/invite/) [attention](/en/post/attention/):
-1. "[Comment](/en/post/comment/)!" [to](/en/post/to/) [call](/en/post/call/) someone's [attention](/en/post/attention/) [or](/en/post/or/) [to](/en/post/to/) [pause](/en/post/pause/) [for](/en/post/for/) [a](/en/post/a/) [reaction](/en/post/reaction/).
+[Occasionally](/post/occasionally/), "[comment](/post/comment/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an **interjection** [for](/post/for/) [emphasis](/post/emphasis/) [or](/post/or/) [to](/post/to/) [invite](/post/invite/) [attention](/post/attention/):
+1. "[Comment](/post/comment/)!" [to](/post/to/) [call](/post/call/) someone's [attention](/post/attention/) [or](/post/or/) [to](/post/to/) [pause](/post/pause/) [for](/post/for/) [a](/post/a/) [reaction](/post/reaction/).
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [comment](/en/post/comment/)" [means](/en/post/means/) [to](/en/post/to/) [express](/en/post/express/) an [opinion](/en/post/opinion/) [or](/en/post/or/) [observation](/en/post/observation/).
-- "[No](/en/post/no/) [comment](/en/post/comment/)" is [a](/en/post/a/) [response](/en/post/response/) [when](/en/post/when/) [someone](/en/post/someone/) declines [to](/en/post/to/) [answer](/en/post/answer/) [a](/en/post/a/) [question](/en/post/question/) [or](/en/post/or/) [express](/en/post/express/) an [opinion](/en/post/opinion/).
-- "[Leave](/en/post/leave/) [a](/en/post/a/) [comment](/en/post/comment/)" is [a](/en/post/a/) [request](/en/post/request/) [to](/en/post/to/) [share](/en/post/share/) thoughts [or](/en/post/or/) [feedback](/en/post/feedback/) online.
+- "[Make](/post/make/) [a](/post/a/) [comment](/post/comment/)" [means](/post/means/) [to](/post/to/) [express](/post/express/) an [opinion](/post/opinion/) [or](/post/or/) [observation](/post/observation/).
+- "[No](/post/no/) [comment](/post/comment/)" is [a](/post/a/) [response](/post/response/) [when](/post/when/) [someone](/post/someone/) declines [to](/post/to/) [answer](/post/answer/) [a](/post/a/) [question](/post/question/) [or](/post/or/) [express](/post/express/) an [opinion](/post/opinion/).
+- "[Leave](/post/leave/) [a](/post/a/) [comment](/post/comment/)" is [a](/post/a/) [request](/post/request/) [to](/post/to/) [share](/post/share/) thoughts [or](/post/or/) [feedback](/post/feedback/) online.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [comment](/en/post/comment/) [on](/en/post/on/) [the](/en/post/the/) [painting](/en/post/painting/) was [that](/en/post/that/) [it](/en/post/it/) lacked [depth](/en/post/depth/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) commented [on](/en/post/on/) [how](/en/post/how/) [well](/en/post/well/) [the](/en/post/the/) [team](/en/post/team/) had performed [in](/en/post/in/) [the](/en/post/the/) [match](/en/post/match/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [boss](/en/post/boss/) made [a](/en/post/a/) [comment](/en/post/comment/) [on](/en/post/on/) [the](/en/post/the/) employee's attire."
-- **Interjection**: "[Comment](/en/post/comment/), [everyone](/en/post/everyone/)! [Have](/en/post/have/) [you](/en/post/you/) noticed [the](/en/post/the/) [new](/en/post/new/) [addition](/en/post/addition/) [to](/en/post/to/) [the](/en/post/the/) [office](/en/post/office/)?"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [comment](/post/comment/) [on](/post/on/) [the](/post/the/) [painting](/post/painting/) was [that](/post/that/) [it](/post/it/) lacked [depth](/post/depth/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) commented [on](/post/on/) [how](/post/how/) [well](/post/well/) [the](/post/the/) [team](/post/team/) had performed [in](/post/in/) [the](/post/the/) [match](/post/match/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [boss](/post/boss/) made [a](/post/a/) [comment](/post/comment/) [on](/post/on/) [the](/post/the/) employee's attire."
+- **Interjection**: "[Comment](/post/comment/), [everyone](/post/everyone/)! [Have](/post/have/) [you](/post/you/) noticed [the](/post/the/) [new](/post/new/) [addition](/post/addition/) [to](/post/to/) [the](/post/the/) [office](/post/office/)?"
 
 ## Synonyms
-- [Observation](/en/post/observation/)
-- [Remark](/en/post/remark/)
-- [Feedback](/en/post/feedback/)
+- [Observation](/post/observation/)
+- [Remark](/post/remark/)
+- [Feedback](/post/feedback/)
 - Evaluation
-- [Observation](/en/post/observation/)
-- [Observation](/en/post/observation/)
-- [Note](/en/post/note/)
-- [Opinion](/en/post/opinion/)
+- [Observation](/post/observation/)
+- [Observation](/post/observation/)
+- [Note](/post/note/)
+- [Opinion](/post/opinion/)
 -份额

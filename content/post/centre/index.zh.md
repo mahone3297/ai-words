@@ -11,22 +11,22 @@ keywords = ['ai words', 'centre']
 /ˈsɛntər/
 
 ## 释义
-- **名词**: 中心；中央。例如: "[The](/post/the/) city's [main](/post/main/) [square](/post/square/) is located [in](/post/in/) [the](/post/the/) geographical [centre](/post/centre/) [of](/post/of/) [town](/post/town/)."
-- **动词**: 使集中；居中。例如: "[Please](/post/please/) [centre](/post/centre/) [the](/post/the/) [picture](/post/picture/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/)."
-- **形容词**: 中心的；中央的。例如: "[We](/post/we/) stayed [at](/post/at/) [a](/post/a/) [hotel](/post/hotel/) [in](/post/in/) [the](/post/the/) [centre](/post/centre/) [of](/post/of/) [the](/post/the/) [city](/post/city/)."
+- **名词**: 中心；中央。例如: "[The](/zh/post/the/) city's [main](/zh/post/main/) [square](/zh/post/square/) is located [in](/zh/post/in/) [the](/zh/post/the/) geographical [centre](/zh/post/centre/) [of](/zh/post/of/) [town](/zh/post/town/)."
+- **动词**: 使集中；居中。例如: "[Please](/zh/post/please/) [centre](/zh/post/centre/) [the](/zh/post/the/) [picture](/zh/post/picture/) [on](/zh/post/on/) [the](/zh/post/the/) [wall](/zh/post/wall/)."
+- **形容词**: 中心的；中央的。例如: "[We](/zh/post/we/) stayed [at](/zh/post/at/) [a](/zh/post/a/) [hotel](/zh/post/hotel/) [in](/zh/post/in/) [the](/zh/post/the/) [centre](/zh/post/centre/) [of](/zh/post/of/) [the](/zh/post/the/) [city](/zh/post/city/)."
 
 ## 短语
-- "[at](/post/at/) [the](/post/the/) [centre](/post/centre/) [of](/post/of/)" 意为在...的中心。例如: "[She](/post/she/) is [at](/post/at/) [the](/post/the/) [centre](/post/centre/) [of](/post/of/) [the](/post/the/) [local](/post/local/) [art](/post/art/) [scene](/post/scene/)."
-- "[to](/post/to/) [bring](/post/bring/) sth [to](/post/to/) [the](/post/the/) [centre](/post/centre/)" 意为将某事物引向中心。例如: "[The](/post/the/) [discussion](/post/discussion/) brought [the](/post/the/) [main](/post/main/) [issue](/post/issue/) [to](/post/to/) [the](/post/the/) [centre](/post/centre/)."
+- "[at](/zh/post/at/) [the](/zh/post/the/) [centre](/zh/post/centre/) [of](/zh/post/of/)" 意为在...的中心。例如: "[She](/zh/post/she/) is [at](/zh/post/at/) [the](/zh/post/the/) [centre](/zh/post/centre/) [of](/zh/post/of/) [the](/zh/post/the/) [local](/zh/post/local/) [art](/zh/post/art/) [scene](/zh/post/scene/)."
+- "[to](/zh/post/to/) [bring](/zh/post/bring/) sth [to](/zh/post/to/) [the](/zh/post/the/) [centre](/zh/post/centre/)" 意为将某事物引向中心。例如: "[The](/zh/post/the/) [discussion](/zh/post/discussion/) brought [the](/zh/post/the/) [main](/zh/post/main/) [issue](/zh/post/issue/) [to](/zh/post/to/) [the](/zh/post/the/) [centre](/zh/post/centre/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [shopping](/post/shopping/) mall is [just](/post/just/) [a](/post/a/) [few](/post/few/) blocks [away](/post/away/) [from](/post/from/) [the](/post/the/) [city](/post/city/) [centre](/post/centre/)."
-- 动词: "[She](/post/she/) centred [the](/post/the/) [vase](/post/vase/) [on](/post/on/) [the](/post/the/) [table](/post/table/) [for](/post/for/) [better](/post/better/) [display](/post/display/)."
-- 形容词: "[The](/post/the/) [building](/post/building/) stands proudly [in](/post/in/) [the](/post/the/) [centre](/post/centre/) [of](/post/of/) [the](/post/the/) [park](/post/park/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [shopping](/zh/post/shopping/) mall is [just](/zh/post/just/) [a](/zh/post/a/) [few](/zh/post/few/) blocks [away](/zh/post/away/) [from](/zh/post/from/) [the](/zh/post/the/) [city](/zh/post/city/) [centre](/zh/post/centre/)."
+- 动词: "[She](/zh/post/she/) centred [the](/zh/post/the/) [vase](/zh/post/vase/) [on](/zh/post/on/) [the](/zh/post/the/) [table](/zh/post/table/) [for](/zh/post/for/) [better](/zh/post/better/) [display](/zh/post/display/)."
+- 形容词: "[The](/zh/post/the/) [building](/zh/post/building/) stands proudly [in](/zh/post/in/) [the](/zh/post/the/) [centre](/zh/post/centre/) [of](/zh/post/of/) [the](/zh/post/the/) [park](/zh/post/park/)."
 
 ## 同义词
-- [Middle](/post/middle/)
-- [Core](/post/core/)
-- [Heart](/post/heart/)
+- [Middle](/zh/post/middle/)
+- [Core](/zh/post/core/)
+- [Heart](/zh/post/heart/)
 - Hub
-- [Focus](/post/focus/)
+- [Focus](/zh/post/focus/)

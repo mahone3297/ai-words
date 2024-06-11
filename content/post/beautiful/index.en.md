@@ -7,41 +7,41 @@ description = '[ˈbjuːtəful] a.美的，美丽的'
 keywords = ['ai words', 'beautiful']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /beuˈtɪfl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterizing [something](/en/post/something/) [as](/en/post/as/) having qualities [that](/en/post/that/) are visually, aesthetically, [or](/en/post/or/) emotionally pleasing; [attractive](/en/post/attractive/) [or](/en/post/or/) delightful. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sunset](/en/post/sunset/) was [a](/en/post/a/) [beautiful](/en/post/beautiful/) [sight](/en/post/sight/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [beautiful](/en/post/beautiful/) [thing](/en/post/thing/), [person](/en/post/person/), [or](/en/post/or/) [experience](/en/post/experience/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is known [for](/en/post/for/) [her](/en/post/her/) [beautiful](/en/post/beautiful/) singing [voice](/en/post/voice/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) [manner](/en/post/manner/) [or](/en/post/or/) [to](/en/post/to/) an [extent](/en/post/extent/) [that](/en/post/that/) is [beautiful](/en/post/beautiful/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) danced beautifully [on](/en/post/on/) [stage](/en/post/stage/)."
+- **[Adjective](/post/adjective/)**: Characterizing [something](/post/something/) [as](/post/as/) having qualities [that](/post/that/) are visually, aesthetically, [or](/post/or/) emotionally pleasing; [attractive](/post/attractive/) [or](/post/or/) delightful. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sunset](/post/sunset/) was [a](/post/a/) [beautiful](/post/beautiful/) [sight](/post/sight/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [beautiful](/post/beautiful/) [thing](/post/thing/), [person](/post/person/), [or](/post/or/) [experience](/post/experience/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) is known [for](/post/for/) [her](/post/her/) [beautiful](/post/beautiful/) singing [voice](/post/voice/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [beautiful](/post/beautiful/) [manner](/post/manner/) [or](/post/or/) [to](/post/to/) an [extent](/post/extent/) [that](/post/that/) is [beautiful](/post/beautiful/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) danced beautifully [on](/post/on/) [stage](/post/stage/)."
 
 ## Phrases
-- "[A](/en/post/a/) [beautiful](/en/post/beautiful/) [day](/en/post/day/)" describes [a](/en/post/a/) [pleasant](/en/post/pleasant/) [and](/en/post/and/) enjoyable [day](/en/post/day/).
-- "Beautifully done" is [a](/en/post/a/) compliment [for](/en/post/for/) an [excellent](/en/post/excellent/) [job](/en/post/job/).
-- "[Beautiful](/en/post/beautiful/) memories" evoke cherished recollections.
+- "[A](/post/a/) [beautiful](/post/beautiful/) [day](/post/day/)" describes [a](/post/a/) [pleasant](/post/pleasant/) [and](/post/and/) enjoyable [day](/post/day/).
+- "Beautifully done" is [a](/post/a/) compliment [for](/post/for/) an [excellent](/post/excellent/) [job](/post/job/).
+- "[Beautiful](/post/beautiful/) memories" evoke cherished recollections.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [garden](/en/post/garden/) was filled [with](/en/post/with/) [beautiful](/en/post/beautiful/) flowers [of](/en/post/of/) [every](/en/post/every/) [color](/en/post/color/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) captured [the](/en/post/the/) essence [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) [in](/en/post/in/) [her](/en/post/her/) [beautiful](/en/post/beautiful/) paintings."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) played [the](/en/post/the/) [piano](/en/post/piano/) beautifully, filling [the](/en/post/the/) [room](/en/post/room/) [with](/en/post/with/) [music](/en/post/music/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) [beautiful](/post/beautiful/) flowers [of](/post/of/) [every](/post/every/) [color](/post/color/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) captured [the](/post/the/) essence [of](/post/of/) [the](/post/the/) [city](/post/city/) [in](/post/in/) [her](/post/her/) [beautiful](/post/beautiful/) paintings."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) played [the](/post/the/) [piano](/post/piano/) beautifully, filling [the](/post/the/) [room](/post/room/) [with](/post/with/) [music](/post/music/)."
 
 ## Synonyms
 - Gorgeous
 - Stunning
 - Elegant
-- [Attractive](/en/post/attractive/)
-- [Splendid](/en/post/splendid/)
+- [Attractive](/post/attractive/)
+- [Splendid](/post/splendid/)
 - Exquisite
-- [Pretty](/en/post/pretty/)
+- [Pretty](/post/pretty/)
 - Alluring
-- [Lovely](/en/post/lovely/)
+- [Lovely](/post/lovely/)
 
 ## Antonyms
-- [Ugly](/en/post/ugly/)
-- [Plain](/en/post/plain/)
+- [Ugly](/post/ugly/)
+- [Plain](/post/plain/)
 - Unattractive
 - Unappealing
 - Disgusting
 - Horrible
-- [Awful](/en/post/awful/)
+- [Awful](/post/awful/)
 - Unbeautiful

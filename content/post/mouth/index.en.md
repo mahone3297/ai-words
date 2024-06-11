@@ -7,31 +7,31 @@ description = '[mauθ] n.嘴，口，口腔'
 keywords = ['ai words', 'mouth']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /maʊθ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [opening](/en/post/opening/) [in](/en/post/in/) [the](/en/post/the/) [face](/en/post/face/) [through](/en/post/through/) [which](/en/post/which/) [food](/en/post/food/) is taken [in](/en/post/in/) [and](/en/post/and/) vocal sounds are emitted. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) covered [her](/en/post/her/) [mouth](/en/post/mouth/) [with](/en/post/with/) [her](/en/post/her/) [hand](/en/post/hand/) [when](/en/post/when/) [she](/en/post/she/) yawned."
-- **[Verb](/en/post/verb/)**: ([mouth](/en/post/mouth/) [something](/en/post/something/)) [To](/en/post/to/) [form](/en/post/form/) words silently [with](/en/post/with/) one's lips, [often](/en/post/often/) [while](/en/post/while/) [reading](/en/post/reading/) [or](/en/post/or/) rehearsing lines. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was mouthing [the](/en/post/the/) lyrics [to](/en/post/to/) [the](/en/post/the/) [song](/en/post/song/) [as](/en/post/as/) [he](/en/post/he/) drove."
-- **[Noun](/en/post/noun/)**: (informal) [A](/en/post/a/) person's [speech](/en/post/speech/) [or](/en/post/or/) expressed opinions; [what](/en/post/what/) [someone](/en/post/someone/) says. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [mouth](/en/post/mouth/) got [him](/en/post/him/) [into](/en/post/into/) [trouble](/en/post/trouble/) [again](/en/post/again/)."
-- **[Verb](/en/post/verb/)**: ([mouth](/en/post/mouth/) [off](/en/post/off/)) [To](/en/post/to/) [speak](/en/post/speak/) disrespectfully [or](/en/post/or/) impertinently. [For](/en/post/for/) [example](/en/post/example/): "Don't [you](/en/post/you/) [dare](/en/post/dare/) [mouth](/en/post/mouth/) [off](/en/post/off/) [to](/en/post/to/) [your](/en/post/your/) elders!"
+- **[Noun](/post/noun/)**: [The](/post/the/) [opening](/post/opening/) [in](/post/in/) [the](/post/the/) [face](/post/face/) [through](/post/through/) [which](/post/which/) [food](/post/food/) is taken [in](/post/in/) [and](/post/and/) vocal sounds are emitted. [For](/post/for/) [example](/post/example/): "[She](/post/she/) covered [her](/post/her/) [mouth](/post/mouth/) [with](/post/with/) [her](/post/her/) [hand](/post/hand/) [when](/post/when/) [she](/post/she/) yawned."
+- **[Verb](/post/verb/)**: ([mouth](/post/mouth/) [something](/post/something/)) [To](/post/to/) [form](/post/form/) words silently [with](/post/with/) one's lips, [often](/post/often/) [while](/post/while/) [reading](/post/reading/) [or](/post/or/) rehearsing lines. [For](/post/for/) [example](/post/example/): "[He](/post/he/) was mouthing [the](/post/the/) lyrics [to](/post/to/) [the](/post/the/) [song](/post/song/) [as](/post/as/) [he](/post/he/) drove."
+- **[Noun](/post/noun/)**: (informal) [A](/post/a/) person's [speech](/post/speech/) [or](/post/or/) expressed opinions; [what](/post/what/) [someone](/post/someone/) says. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [mouth](/post/mouth/) got [him](/post/him/) [into](/post/into/) [trouble](/post/trouble/) [again](/post/again/)."
+- **[Verb](/post/verb/)**: ([mouth](/post/mouth/) [off](/post/off/)) [To](/post/to/) [speak](/post/speak/) disrespectfully [or](/post/or/) impertinently. [For](/post/for/) [example](/post/example/): "Don't [you](/post/you/) [dare](/post/dare/) [mouth](/post/mouth/) [off](/post/off/) [to](/post/to/) [your](/post/your/) elders!"
 
 ## Phrases
-- "[Put](/en/post/put/) words [in](/en/post/in/) someone's [mouth](/en/post/mouth/)": [To](/en/post/to/) [attribute](/en/post/attribute/) [a](/en/post/a/) [statement](/en/post/statement/) [to](/en/post/to/) [someone](/en/post/someone/) [that](/en/post/that/) [they](/en/post/they/) did [not](/en/post/not/) [actually](/en/post/actually/) [make](/en/post/make/).
-- "[Keep](/en/post/keep/) [your](/en/post/your/) [mouth](/en/post/mouth/) [shut](/en/post/shut/)": [To](/en/post/to/) [advise](/en/post/advise/) [someone](/en/post/someone/) [to](/en/post/to/) [be](/en/post/be/) [quiet](/en/post/quiet/) [or](/en/post/or/) [not](/en/post/not/) [reveal](/en/post/reveal/) [information](/en/post/information/).
-- "[Out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) mouths [of](/en/post/of/) babes": Expressing [surprise](/en/post/surprise/) [at](/en/post/at/) [wisdom](/en/post/wisdom/) [or](/en/post/or/) insight coming [from](/en/post/from/) [a](/en/post/a/) [child](/en/post/child/).
-- "[Hand](/en/post/hand/) [to](/en/post/to/) [mouth](/en/post/mouth/)": [Living](/en/post/living/) [on](/en/post/on/) [very](/en/post/very/) [little](/en/post/little/), [just](/en/post/just/) [enough](/en/post/enough/) [to](/en/post/to/) [survive](/en/post/survive/) [each](/en/post/each/) [day](/en/post/day/).
+- "[Put](/post/put/) words [in](/post/in/) someone's [mouth](/post/mouth/)": [To](/post/to/) [attribute](/post/attribute/) [a](/post/a/) [statement](/post/statement/) [to](/post/to/) [someone](/post/someone/) [that](/post/that/) [they](/post/they/) did [not](/post/not/) [actually](/post/actually/) [make](/post/make/).
+- "[Keep](/post/keep/) [your](/post/your/) [mouth](/post/mouth/) [shut](/post/shut/)": [To](/post/to/) [advise](/post/advise/) [someone](/post/someone/) [to](/post/to/) [be](/post/be/) [quiet](/post/quiet/) [or](/post/or/) [not](/post/not/) [reveal](/post/reveal/) [information](/post/information/).
+- "[Out](/post/out/) [of](/post/of/) [the](/post/the/) mouths [of](/post/of/) babes": Expressing [surprise](/post/surprise/) [at](/post/at/) [wisdom](/post/wisdom/) [or](/post/or/) insight coming [from](/post/from/) [a](/post/a/) [child](/post/child/).
+- "[Hand](/post/hand/) [to](/post/to/) [mouth](/post/mouth/)": [Living](/post/living/) [on](/post/on/) [very](/post/very/) [little](/post/little/), [just](/post/just/) [enough](/post/enough/) [to](/post/to/) [survive](/post/survive/) [each](/post/each/) [day](/post/day/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) baby's [first](/en/post/first/) teeth began [to](/en/post/to/) [appear](/en/post/appear/) [in](/en/post/in/) [his](/en/post/his/) [tiny](/en/post/tiny/) [mouth](/en/post/mouth/)."
-- **[Verb](/en/post/verb/)**: "[As](/en/post/as/) an [actor](/en/post/actor/), [she](/en/post/she/) practiced [mouth](/en/post/mouth/) movements [to](/en/post/to/) [perfect](/en/post/perfect/) [her](/en/post/her/) [delivery](/en/post/delivery/)."
-- **Informal [Noun](/en/post/noun/)**: "[Be](/en/post/be/) [careful](/en/post/careful/) [what](/en/post/what/) [you](/en/post/you/) [say](/en/post/say/), [because](/en/post/because/) [your](/en/post/your/) [mouth](/en/post/mouth/) [can](/en/post/can/) [get](/en/post/get/) [you](/en/post/you/) [into](/en/post/into/) [trouble](/en/post/trouble/)."
-- **[Verb](/en/post/verb/) ([mouth](/en/post/mouth/) [off](/en/post/off/))**: "[After](/en/post/after/) [he](/en/post/he/) mouthed [off](/en/post/off/) [to](/en/post/to/) [the](/en/post/the/) [teacher](/en/post/teacher/), [he](/en/post/he/) was sent [to](/en/post/to/) [the](/en/post/the/) principal's [office](/en/post/office/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) baby's [first](/post/first/) teeth began [to](/post/to/) [appear](/post/appear/) [in](/post/in/) [his](/post/his/) [tiny](/post/tiny/) [mouth](/post/mouth/)."
+- **[Verb](/post/verb/)**: "[As](/post/as/) an [actor](/post/actor/), [she](/post/she/) practiced [mouth](/post/mouth/) movements [to](/post/to/) [perfect](/post/perfect/) [her](/post/her/) [delivery](/post/delivery/)."
+- **Informal [Noun](/post/noun/)**: "[Be](/post/be/) [careful](/post/careful/) [what](/post/what/) [you](/post/you/) [say](/post/say/), [because](/post/because/) [your](/post/your/) [mouth](/post/mouth/) [can](/post/can/) [get](/post/get/) [you](/post/you/) [into](/post/into/) [trouble](/post/trouble/)."
+- **[Verb](/post/verb/) ([mouth](/post/mouth/) [off](/post/off/))**: "[After](/post/after/) [he](/post/he/) mouthed [off](/post/off/) [to](/post/to/) [the](/post/the/) [teacher](/post/teacher/), [he](/post/he/) was sent [to](/post/to/) [the](/post/the/) principal's [office](/post/office/)."
 
 ## Synonyms
-- [Oral](/en/post/oral/) cavity
+- [Oral](/post/oral/) cavity
 - Lips
-- [Speech](/en/post/speech/)
+- [Speech](/post/speech/)
 - Utterance
-- Verbally ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [usage](/en/post/usage/))
-- [Speak](/en/post/speak/) [out](/en/post/out/) ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) '[mouth](/en/post/mouth/) [off](/en/post/off/)')
+- Verbally ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [usage](/post/usage/))
+- [Speak](/post/speak/) [out](/post/out/) ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) '[mouth](/post/mouth/) [off](/post/off/)')

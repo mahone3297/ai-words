@@ -11,18 +11,18 @@ keywords = ['ai words', 'ninety']
 /nɪnˈti/
 
 ## 释义
-- **数词**: 九十个；第九十。例如: "[There](/post/there/) are [ninety](/post/ninety/) students [in](/post/in/) [this](/post/this/) [class](/post/class/)." 或 "It's [my](/post/my/) ninetieth [birthday](/post/birthday/) [today](/post/today/)."
+- **数词**: 九十个；第九十。例如: "[There](/zh/post/there/) are [ninety](/zh/post/ninety/) students [in](/zh/post/in/) [this](/zh/post/this/) [class](/zh/post/class/)." 或 "It's [my](/zh/post/my/) ninetieth [birthday](/zh/post/birthday/) [today](/zh/post/today/)."
 
 ## 短语
-- "ninety-nine [percent](/post/percent/)" 表示百分之九十九。
-- "[in](/post/in/) [ninety](/post/ninety/) days" 意为在九十天内。
+- "ninety-nine [percent](/zh/post/percent/)" 表示百分之九十九。
+- "[in](/zh/post/in/) [ninety](/zh/post/ninety/) days" 意为在九十天内。
 
 ## 例句
-- "[She](/post/she/) is [ninety](/post/ninety/) years [old](/post/old/) [but](/post/but/) [still](/post/still/) [very](/post/very/) [active](/post/active/)."
-- "[The](/post/the/) [company](/post/company/) has [a](/post/a/) [ninety](/post/ninety/) [percent](/post/percent/) [success](/post/success/) [rate](/post/rate/)."
-- "[We](/post/we/) [have](/post/have/) [ninety](/post/ninety/) minutes [left](/post/left/) [until](/post/until/) [the](/post/the/) [movie](/post/movie/) starts."
+- "[She](/zh/post/she/) is [ninety](/zh/post/ninety/) years [old](/zh/post/old/) [but](/zh/post/but/) [still](/zh/post/still/) [very](/zh/post/very/) [active](/zh/post/active/)."
+- "[The](/zh/post/the/) [company](/zh/post/company/) has [a](/zh/post/a/) [ninety](/zh/post/ninety/) [percent](/zh/post/percent/) [success](/zh/post/success/) [rate](/zh/post/rate/)."
+- "[We](/zh/post/we/) [have](/zh/post/have/) [ninety](/zh/post/ninety/) minutes [left](/zh/post/left/) [until](/zh/post/until/) [the](/zh/post/the/) [movie](/zh/post/movie/) starts."
 
 ## 同义词
-- [ninety](/post/ninety/) = 90 (数字上没有同义词，但可以表达相似概念的词有)
-- three-score [and](/post/and/) [ten](/post/ten/) (旧式表达法，意为90)
+- [ninety](/zh/post/ninety/) = 90 (数字上没有同义词，但可以表达相似概念的词有)
+- three-score [and](/zh/post/and/) [ten](/zh/post/ten/) (旧式表达法，意为90)
 - nonagenary (形容词，指90岁的)

@@ -7,34 +7,34 @@ description = '[sæd] a.悲哀的，令人悲痛的'
 keywords = ['ai words', 'sad']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sæd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Expressing [sorrow](/en/post/sorrow/), unhappiness, [or](/en/post/or/) disappointment; downcast [in](/en/post/in/) [mood](/en/post/mood/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) looked [sad](/en/post/sad/) [after](/en/post/after/) receiving [the](/en/post/the/) [news](/en/post/news/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [sorrow](/en/post/sorrow/) [or](/en/post/or/) unhappiness. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was consumed [by](/en/post/by/) [a](/en/post/a/) [deep](/en/post/deep/) [sadness](/en/post/sadness/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cause](/en/post/cause/) [someone](/en/post/someone/) [to](/en/post/to/) [feel](/en/post/feel/) [sad](/en/post/sad/) [or](/en/post/or/) [unhappy](/en/post/unhappy/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [news](/en/post/news/) saddened [the](/en/post/the/) [entire](/en/post/entire/) [family](/en/post/family/)."
+- **[Adjective](/post/adjective/)**: Expressing [sorrow](/post/sorrow/), unhappiness, [or](/post/or/) disappointment; downcast [in](/post/in/) [mood](/post/mood/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) looked [sad](/post/sad/) [after](/post/after/) receiving [the](/post/the/) [news](/post/news/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [sorrow](/post/sorrow/) [or](/post/or/) unhappiness. [For](/post/for/) [example](/post/example/): "[He](/post/he/) was consumed [by](/post/by/) [a](/post/a/) [deep](/post/deep/) [sadness](/post/sadness/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [cause](/post/cause/) [someone](/post/someone/) [to](/post/to/) [feel](/post/feel/) [sad](/post/sad/) [or](/post/or/) [unhappy](/post/unhappy/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [news](/post/news/) saddened [the](/post/the/) [entire](/post/entire/) [family](/post/family/)."
 
 ## Phrases
-- "[Feel](/en/post/feel/) [sad](/en/post/sad/) [about](/en/post/about/) [something](/en/post/something/)" indicates [regret](/en/post/regret/) [or](/en/post/or/) [sorrow](/en/post/sorrow/) [over](/en/post/over/) [a](/en/post/a/) [situation](/en/post/situation/).
-- "[A](/en/post/a/) [sad](/en/post/sad/) [moment](/en/post/moment/)" refers [to](/en/post/to/) [a](/en/post/a/) sorrowful [or](/en/post/or/) melancholy [occasion](/en/post/occasion/).
-- "[Try](/en/post/try/) [not](/en/post/not/) [to](/en/post/to/) [let](/en/post/let/) [sadness](/en/post/sadness/) [consume](/en/post/consume/) [you](/en/post/you/)" suggests overcoming [or](/en/post/or/) coping [with](/en/post/with/) [negative](/en/post/negative/) emotions.
+- "[Feel](/post/feel/) [sad](/post/sad/) [about](/post/about/) [something](/post/something/)" indicates [regret](/post/regret/) [or](/post/or/) [sorrow](/post/sorrow/) [over](/post/over/) [a](/post/a/) [situation](/post/situation/).
+- "[A](/post/a/) [sad](/post/sad/) [moment](/post/moment/)" refers [to](/post/to/) [a](/post/a/) sorrowful [or](/post/or/) melancholy [occasion](/post/occasion/).
+- "[Try](/post/try/) [not](/post/not/) [to](/post/to/) [let](/post/let/) [sadness](/post/sadness/) [consume](/post/consume/) [you](/post/you/)" suggests overcoming [or](/post/or/) coping [with](/post/with/) [negative](/post/negative/) emotions.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) wore [a](/en/post/a/) [sad](/en/post/sad/) [expression](/en/post/expression/) [on](/en/post/on/) [her](/en/post/her/) [face](/en/post/face/) [all](/en/post/all/) [day](/en/post/day/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children gathered [around](/en/post/around/) [their](/en/post/their/) [mother](/en/post/mother/), sharing [their](/en/post/their/) [sad](/en/post/sad/) stories."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) words saddened [her](/en/post/her/), [and](/en/post/and/) [she](/en/post/she/) couldn't [hold](/en/post/hold/) [back](/en/post/back/) [her](/en/post/her/) tears."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) wore [a](/post/a/) [sad](/post/sad/) [expression](/post/expression/) [on](/post/on/) [her](/post/her/) [face](/post/face/) [all](/post/all/) [day](/post/day/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) children gathered [around](/post/around/) [their](/post/their/) [mother](/post/mother/), sharing [their](/post/their/) [sad](/post/sad/) stories."
+- **[Verb](/post/verb/)**: "[His](/post/his/) words saddened [her](/post/her/), [and](/post/and/) [she](/post/she/) couldn't [hold](/post/hold/) [back](/post/back/) [her](/post/her/) tears."
 
 ## Synonyms
-- [Unhappy](/en/post/unhappy/)
-- [Miserable](/en/post/miserable/)
+- [Unhappy](/post/unhappy/)
+- [Miserable](/post/miserable/)
 - Sorrowful
 - Disheartened
 - Depressed
 
 ## Antonyms
-- [Happy](/en/post/happy/)
-- [Joyful](/en/post/joyful/)
-- [Content](/en/post/content/)
-- [Cheerful](/en/post/cheerful/)
+- [Happy](/post/happy/)
+- [Joyful](/post/joyful/)
+- [Content](/post/content/)
+- [Cheerful](/post/cheerful/)
 - Elated

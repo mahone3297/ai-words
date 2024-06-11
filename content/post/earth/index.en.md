@@ -7,38 +7,38 @@ description = '[əːθ] n.地球；陆地，地面'
 keywords = ['ai words', 'earth']
 +++
 
-## [Word](/en/post/word/): [Earth](/en/post/earth/)
+## [Word](/post/word/): [Earth](/post/earth/)
 
-### [Pronunciation](/en/post/pronunciation/)
+### [Pronunciation](/post/pronunciation/)
 /ɜːθ/
 
 ### Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [planet](/en/post/planet/) [on](/en/post/on/) [which](/en/post/which/) [we](/en/post/we/) [live](/en/post/live/); [the](/en/post/the/) [third](/en/post/third/) [planet](/en/post/planet/) [from](/en/post/from/) [the](/en/post/the/) [sun](/en/post/sun/), characterized [by](/en/post/by/) [its](/en/post/its/) [single](/en/post/single/) [large](/en/post/large/) [natural](/en/post/natural/) [satellite](/en/post/satellite/) ([the](/en/post/the/) [moon](/en/post/moon/)) [and](/en/post/and/) [its](/en/post/its/) [diverse](/en/post/diverse/) [range](/en/post/range/) [of](/en/post/of/) [life](/en/post/life/) forms. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [Earth](/en/post/earth/) rotates [on](/en/post/on/) [its](/en/post/its/) [axis](/en/post/axis/) [once](/en/post/once/) [every](/en/post/every/) 24 hours."
+- **[Noun](/post/noun/)**: [The](/post/the/) [planet](/post/planet/) [on](/post/on/) [which](/post/which/) [we](/post/we/) [live](/post/live/); [the](/post/the/) [third](/post/third/) [planet](/post/planet/) [from](/post/from/) [the](/post/the/) [sun](/post/sun/), characterized [by](/post/by/) [its](/post/its/) [single](/post/single/) [large](/post/large/) [natural](/post/natural/) [satellite](/post/satellite/) ([the](/post/the/) [moon](/post/moon/)) [and](/post/and/) [its](/post/its/) [diverse](/post/diverse/) [range](/post/range/) [of](/post/of/) [life](/post/life/) forms. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [Earth](/post/earth/) rotates [on](/post/on/) [its](/post/its/) [axis](/post/axis/) [once](/post/once/) [every](/post/every/) 24 hours."
   
-  > *[The](/en/post/the/) [blue](/en/post/blue/) [planet](/en/post/planet/), [Earth](/en/post/earth/), is [the](/en/post/the/) [only](/en/post/only/) known celestial [body](/en/post/body/) [to](/en/post/to/) [support](/en/post/support/) [life](/en/post/life/).*
+  > *[The](/post/the/) [blue](/post/blue/) [planet](/post/planet/), [Earth](/post/earth/), is [the](/post/the/) [only](/post/only/) known celestial [body](/post/body/) [to](/post/to/) [support](/post/support/) [life](/post/life/).*
   
-- **[Noun](/en/post/noun/) (figurative)**: [Soil](/en/post/soil/) [or](/en/post/or/) [ground](/en/post/ground/), [especially](/en/post/especially/) [when](/en/post/when/) considered [as](/en/post/as/) [the](/en/post/the/) [dwelling](/en/post/dwelling/) [place](/en/post/place/) [of](/en/post/of/) [human](/en/post/human/) beings. [For](/en/post/for/) [instance](/en/post/instance/): "[Her](/en/post/her/) hands were [dirty](/en/post/dirty/) [from](/en/post/from/) working [in](/en/post/in/) [the](/en/post/the/) [earth](/en/post/earth/)."
+- **[Noun](/post/noun/) (figurative)**: [Soil](/post/soil/) [or](/post/or/) [ground](/post/ground/), [especially](/post/especially/) [when](/post/when/) considered [as](/post/as/) [the](/post/the/) [dwelling](/post/dwelling/) [place](/post/place/) [of](/post/of/) [human](/post/human/) beings. [For](/post/for/) [instance](/post/instance/): "[Her](/post/her/) hands were [dirty](/post/dirty/) [from](/post/from/) working [in](/post/in/) [the](/post/the/) [earth](/post/earth/)."
   
-  > *Farmers [till](/en/post/till/) [the](/en/post/the/) [earth](/en/post/earth/) [to](/en/post/to/) [plant](/en/post/plant/) [their](/en/post/their/) crops.*
+  > *Farmers [till](/post/till/) [the](/post/the/) [earth](/post/earth/) [to](/post/to/) [plant](/post/plant/) [their](/post/their/) crops.*
 
-- **[Noun](/en/post/noun/) ([geography](/en/post/geography/))**: [The](/en/post/the/) [solid](/en/post/solid/) [matter](/en/post/matter/) [of](/en/post/of/) [the](/en/post/the/) earth's [surface](/en/post/surface/); [land](/en/post/land/) [as](/en/post/as/) opposed [to](/en/post/to/) [water](/en/post/water/). [Example](/en/post/example/): "[From](/en/post/from/) [space](/en/post/space/), [one](/en/post/one/) [can](/en/post/can/) [see](/en/post/see/) [the](/en/post/the/) [vast](/en/post/vast/) expanse [of](/en/post/of/) [blue](/en/post/blue/) oceans [and](/en/post/and/) [green](/en/post/green/) [earth](/en/post/earth/)."
+- **[Noun](/post/noun/) ([geography](/post/geography/))**: [The](/post/the/) [solid](/post/solid/) [matter](/post/matter/) [of](/post/of/) [the](/post/the/) earth's [surface](/post/surface/); [land](/post/land/) [as](/post/as/) opposed [to](/post/to/) [water](/post/water/). [Example](/post/example/): "[From](/post/from/) [space](/post/space/), [one](/post/one/) [can](/post/can/) [see](/post/see/) [the](/post/the/) [vast](/post/vast/) expanse [of](/post/of/) [blue](/post/blue/) oceans [and](/post/and/) [green](/post/green/) [earth](/post/earth/)."
 
 ### Phrases
-- "[Mother](/en/post/mother/) [Earth](/en/post/earth/)": [A](/en/post/a/) personification [of](/en/post/of/) [the](/en/post/the/) [planet](/en/post/planet/) [as](/en/post/as/) [a](/en/post/a/) nurturing [mother](/en/post/mother/) [figure](/en/post/figure/).
-- "[Down](/en/post/down/) [to](/en/post/to/) [earth](/en/post/earth/)": Describing [someone](/en/post/someone/) [who](/en/post/who/) is [practical](/en/post/practical/), [sensible](/en/post/sensible/), [and](/en/post/and/) [not](/en/post/not/) influenced [by](/en/post/by/) fantasy [or](/en/post/or/) pretension. [For](/en/post/for/) [example](/en/post/example/): "She's [very](/en/post/very/) [down](/en/post/down/) [to](/en/post/to/) [earth](/en/post/earth/) [despite](/en/post/despite/) [her](/en/post/her/) [fame](/en/post/fame/)."
-- "[Earthquake](/en/post/earthquake/)": [A](/en/post/a/) [sudden](/en/post/sudden/), [violent](/en/post/violent/) shaking [of](/en/post/of/) [the](/en/post/the/) [ground](/en/post/ground/) caused [by](/en/post/by/) [movement](/en/post/movement/) [of](/en/post/of/) tectonic plates [beneath](/en/post/beneath/) [the](/en/post/the/) earth's [surface](/en/post/surface/).
+- "[Mother](/post/mother/) [Earth](/post/earth/)": [A](/post/a/) personification [of](/post/of/) [the](/post/the/) [planet](/post/planet/) [as](/post/as/) [a](/post/a/) nurturing [mother](/post/mother/) [figure](/post/figure/).
+- "[Down](/post/down/) [to](/post/to/) [earth](/post/earth/)": Describing [someone](/post/someone/) [who](/post/who/) is [practical](/post/practical/), [sensible](/post/sensible/), [and](/post/and/) [not](/post/not/) influenced [by](/post/by/) fantasy [or](/post/or/) pretension. [For](/post/for/) [example](/post/example/): "She's [very](/post/very/) [down](/post/down/) [to](/post/to/) [earth](/post/earth/) [despite](/post/despite/) [her](/post/her/) [fame](/post/fame/)."
+- "[Earthquake](/post/earthquake/)": [A](/post/a/) [sudden](/post/sudden/), [violent](/post/violent/) shaking [of](/post/of/) [the](/post/the/) [ground](/post/ground/) caused [by](/post/by/) [movement](/post/movement/) [of](/post/of/) tectonic plates [beneath](/post/beneath/) [the](/post/the/) earth's [surface](/post/surface/).
 
-### [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([planet](/en/post/planet/))**: "[Life](/en/post/life/) [on](/en/post/on/) [Earth](/en/post/earth/) has evolved [over](/en/post/over/) billions [of](/en/post/of/) years."
-- **[Noun](/en/post/noun/) ([soil](/en/post/soil/))**: "[The](/en/post/the/) roots [of](/en/post/of/) [the](/en/post/the/) [tree](/en/post/tree/) sank [deep](/en/post/deep/) [into](/en/post/into/) [the](/en/post/the/) [rich](/en/post/rich/) [earth](/en/post/earth/)."
-- **[Noun](/en/post/noun/) ([geography](/en/post/geography/))**: "[The](/en/post/the/) explorer trekked [across](/en/post/across/) miles [of](/en/post/of/) barren [earth](/en/post/earth/)."
+### [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([planet](/post/planet/))**: "[Life](/post/life/) [on](/post/on/) [Earth](/post/earth/) has evolved [over](/post/over/) billions [of](/post/of/) years."
+- **[Noun](/post/noun/) ([soil](/post/soil/))**: "[The](/post/the/) roots [of](/post/of/) [the](/post/the/) [tree](/post/tree/) sank [deep](/post/deep/) [into](/post/into/) [the](/post/the/) [rich](/post/rich/) [earth](/post/earth/)."
+- **[Noun](/post/noun/) ([geography](/post/geography/))**: "[The](/post/the/) explorer trekked [across](/post/across/) miles [of](/post/of/) barren [earth](/post/earth/)."
 
 ### Synonyms
-- [World](/en/post/world/)
-- [Globe](/en/post/globe/)
+- [World](/post/world/)
+- [Globe](/post/globe/)
 - Terra
-- [Ground](/en/post/ground/)
-- [Land](/en/post/land/)
-- [Soil](/en/post/soil/)
-- [Dirt](/en/post/dirt/)
-- [Planet](/en/post/planet/) [Earth](/en/post/earth/)
+- [Ground](/post/ground/)
+- [Land](/post/land/)
+- [Soil](/post/soil/)
+- [Dirt](/post/dirt/)
+- [Planet](/post/planet/) [Earth](/post/earth/)

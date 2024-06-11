@@ -7,36 +7,36 @@ description = '[θril] n.一阵激动'
 keywords = ['ai words', 'thrill']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /θrɪl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [strong](/en/post/strong/) [feeling](/en/post/feeling/) [of](/en/post/of/) excitement [or](/en/post/or/) [pleasure](/en/post/pleasure/) derived [from](/en/post/from/) [something](/en/post/something/) [new](/en/post/new/), thrilling, [or](/en/post/or/) [dangerous](/en/post/dangerous/).
-- [A](/en/post/a/) [sudden](/en/post/sudden/) [rush](/en/post/rush/) [of](/en/post/of/) [emotion](/en/post/emotion/) [or](/en/post/or/) adrenaline.
-- An [exciting](/en/post/exciting/) [event](/en/post/event/) [or](/en/post/or/) [experience](/en/post/experience/).
+### [Noun](/post/noun/)
+- [A](/post/a/) [strong](/post/strong/) [feeling](/post/feeling/) [of](/post/of/) excitement [or](/post/or/) [pleasure](/post/pleasure/) derived [from](/post/from/) [something](/post/something/) [new](/post/new/), thrilling, [or](/post/or/) [dangerous](/post/dangerous/).
+- [A](/post/a/) [sudden](/post/sudden/) [rush](/post/rush/) [of](/post/of/) [emotion](/post/emotion/) [or](/post/or/) adrenaline.
+- An [exciting](/post/exciting/) [event](/post/event/) [or](/post/or/) [experience](/post/experience/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [experience](/en/post/experience/) [a](/en/post/a/) [thrill](/en/post/thrill/) ([usually](/en/post/usually/) [from](/en/post/from/) an [activity](/en/post/activity/) [or](/en/post/or/) [situation](/en/post/situation/)).
-- [To](/en/post/to/) [arouse](/en/post/arouse/) [or](/en/post/or/) [give](/en/post/give/) [a](/en/post/a/) [thrill](/en/post/thrill/) [to](/en/post/to/) ([someone](/en/post/someone/)).
+### [Verb](/post/verb/)
+- [To](/post/to/) [experience](/post/experience/) [a](/post/a/) [thrill](/post/thrill/) ([usually](/post/usually/) [from](/post/from/) an [activity](/post/activity/) [or](/post/or/) [situation](/post/situation/)).
+- [To](/post/to/) [arouse](/post/arouse/) [or](/post/or/) [give](/post/give/) [a](/post/a/) [thrill](/post/thrill/) [to](/post/to/) ([someone](/post/someone/)).
 
-### [Adjective](/en/post/adjective/)
-- Causing [or](/en/post/or/) giving [a](/en/post/a/) [thrill](/en/post/thrill/).
-- [Exciting](/en/post/exciting/) [or](/en/post/or/) stimulating.
+### [Adjective](/post/adjective/)
+- Causing [or](/post/or/) giving [a](/post/a/) [thrill](/post/thrill/).
+- [Exciting](/post/exciting/) [or](/post/or/) stimulating.
 
-### [Adverb](/en/post/adverb/)
-- Thrillingly, [with](/en/post/with/) excitement.
+### [Adverb](/post/adverb/)
+- Thrillingly, [with](/post/with/) excitement.
 
 ## Phrases
-- "[Get](/en/post/get/) [a](/en/post/a/) [thrill](/en/post/thrill/) [from](/en/post/from/)" refers [to](/en/post/to/) deriving enjoyment [or](/en/post/or/) excitement [from](/en/post/from/) [something](/en/post/something/).
-- "[A](/en/post/a/) [thrill](/en/post/thrill/) [ride](/en/post/ride/)" denotes an [exciting](/en/post/exciting/) [or](/en/post/or/) adventurous [activity](/en/post/activity/).
-- "[She](/en/post/she/) lived [on](/en/post/on/) [a](/en/post/a/) [constant](/en/post/constant/) [thrill](/en/post/thrill/)" implies [a](/en/post/a/) [life](/en/post/life/) filled [with](/en/post/with/) excitement.
+- "[Get](/post/get/) [a](/post/a/) [thrill](/post/thrill/) [from](/post/from/)" refers [to](/post/to/) deriving enjoyment [or](/post/or/) excitement [from](/post/from/) [something](/post/something/).
+- "[A](/post/a/) [thrill](/post/thrill/) [ride](/post/ride/)" denotes an [exciting](/post/exciting/) [or](/post/or/) adventurous [activity](/post/activity/).
+- "[She](/post/she/) lived [on](/post/on/) [a](/post/a/) [constant](/post/constant/) [thrill](/post/thrill/)" implies [a](/post/a/) [life](/post/life/) filled [with](/post/with/) excitement.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [roller](/en/post/roller/) coaster [provided](/en/post/provided/) [a](/en/post/a/) thrilling [rush](/en/post/rush/) [of](/en/post/of/) adrenaline."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [still](/en/post/still/) gets [a](/en/post/a/) [thrill](/en/post/thrill/) [every](/en/post/every/) [time](/en/post/time/) [he](/en/post/he/) skydives."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) thriller [movie](/en/post/movie/) kept [the](/en/post/the/) [audience](/en/post/audience/) [on](/en/post/on/) [the](/en/post/the/) [edge](/en/post/edge/) [of](/en/post/of/) [their](/en/post/their/) seats."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) danced thrillingly [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [roller](/post/roller/) coaster [provided](/post/provided/) [a](/post/a/) thrilling [rush](/post/rush/) [of](/post/of/) adrenaline."
+- **[Verb](/post/verb/)**: "[He](/post/he/) [still](/post/still/) gets [a](/post/a/) [thrill](/post/thrill/) [every](/post/every/) [time](/post/time/) [he](/post/he/) skydives."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) thriller [movie](/post/movie/) kept [the](/post/the/) [audience](/post/audience/) [on](/post/on/) [the](/post/the/) [edge](/post/edge/) [of](/post/of/) [their](/post/their/) seats."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) danced thrillingly [at](/post/at/) [the](/post/the/) [party](/post/party/)."
 
 ## Synonyms
 - Excitement

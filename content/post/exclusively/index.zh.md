@@ -14,17 +14,17 @@ keywords = ['ai words', 'exclusively']
 - **副词**: 独家地，唯一地，专门地。指某事只限于特定的人或情况，不包括其他人或情况在内。
 
 ## 短语
-- "[exclusively](/post/exclusively/) [yours](/post/yours/)" 意味着某物只属于你，不与他人共享。
-- "[exclusively](/post/exclusively/) covered" 表示某个话题或事件被独家报道。
+- "[exclusively](/zh/post/exclusively/) [yours](/zh/post/yours/)" 意味着某物只属于你，不与他人共享。
+- "[exclusively](/zh/post/exclusively/) covered" 表示某个话题或事件被独家报道。
 
 ## 例句
-- "[The](/post/the/) [restaurant](/post/restaurant/) has an exclusive [deal](/post/deal/) [with](/post/with/) [the](/post/the/) [local](/post/local/) winery, serving [their](/post/their/) wines [exclusively](/post/exclusively/)."
-- "[The](/post/the/) VIP guests had [access](/post/access/) [to](/post/to/) [the](/post/the/) [event](/post/event/) [exclusively](/post/exclusively/), [while](/post/while/) others had [to](/post/to/) [watch](/post/watch/) [from](/post/from/) [outside](/post/outside/)."
-- "[The](/post/the/) [magazine](/post/magazine/) offers an [inside](/post/inside/) [look](/post/look/) [at](/post/at/) celebrity lives, [with](/post/with/) interviews conducted [exclusively](/post/exclusively/) [for](/post/for/) [their](/post/their/) readers."
+- "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) has an exclusive [deal](/zh/post/deal/) [with](/zh/post/with/) [the](/zh/post/the/) [local](/zh/post/local/) winery, serving [their](/zh/post/their/) wines [exclusively](/zh/post/exclusively/)."
+- "[The](/zh/post/the/) VIP guests had [access](/zh/post/access/) [to](/zh/post/to/) [the](/zh/post/the/) [event](/zh/post/event/) [exclusively](/zh/post/exclusively/), [while](/zh/post/while/) others had [to](/zh/post/to/) [watch](/zh/post/watch/) [from](/zh/post/from/) [outside](/zh/post/outside/)."
+- "[The](/zh/post/the/) [magazine](/zh/post/magazine/) offers an [inside](/zh/post/inside/) [look](/zh/post/look/) [at](/zh/post/at/) celebrity lives, [with](/zh/post/with/) interviews conducted [exclusively](/zh/post/exclusively/) [for](/zh/post/for/) [their](/zh/post/their/) readers."
 
 ## 同义词
-- [solely](/post/solely/)
-- [only](/post/only/)
+- [solely](/zh/post/solely/)
+- [only](/zh/post/only/)
 - uniquely
-- [solely](/post/solely/) [for](/post/for/) one's [use](/post/use/)
-- [in](/post/in/) isolation
+- [solely](/zh/post/solely/) [for](/zh/post/for/) one's [use](/zh/post/use/)
+- [in](/zh/post/in/) isolation

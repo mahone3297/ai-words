@@ -11,20 +11,20 @@ keywords = ['ai words', 'several']
 /ˈsɛvərəl/
 
 ## 释义
-- **形容词**: 多个的，几个的，若干的。表示数量不确定但多于一个且小于许多。例如: "I [have](/post/have/) [several](/post/several/) books [on](/post/on/) [this](/post/this/) [topic](/post/topic/)." 
-- **代词**: 几个，若干。例如: "[Several](/post/several/) [people](/post/people/) were injured [in](/post/in/) [the](/post/the/) [accident](/post/accident/)."
+- **形容词**: 多个的，几个的，若干的。表示数量不确定但多于一个且小于许多。例如: "I [have](/zh/post/have/) [several](/zh/post/several/) books [on](/zh/post/on/) [this](/zh/post/this/) [topic](/zh/post/topic/)." 
+- **代词**: 几个，若干。例如: "[Several](/zh/post/several/) [people](/zh/post/people/) were injured [in](/zh/post/in/) [the](/zh/post/the/) [accident](/zh/post/accident/)."
 
 ## 短语
-- "[Several](/post/several/) times" 表示多次。
-- "[Several](/post/several/) [different](/post/different/)" 意为几种不同的。
+- "[Several](/zh/post/several/) times" 表示多次。
+- "[Several](/zh/post/several/) [different](/zh/post/different/)" 意为几种不同的。
 
 ## 例句
-- 形容词: "[There](/post/there/) are [several](/post/several/) options [to](/post/to/) [choose](/post/choose/) [from](/post/from/)."
-- 代词: "[Several](/post/several/) [of](/post/of/) [us](/post/us/) [will](/post/will/) [be](/post/be/) attending [the](/post/the/) [meeting](/post/meeting/)."
+- 形容词: "[There](/zh/post/there/) are [several](/zh/post/several/) options [to](/zh/post/to/) [choose](/zh/post/choose/) [from](/zh/post/from/)."
+- 代词: "[Several](/zh/post/several/) [of](/zh/post/of/) [us](/zh/post/us/) [will](/zh/post/will/) [be](/zh/post/be/) attending [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
 
 ## 同义词
-- [A](/post/a/) [few](/post/few/)
-- [Some](/post/some/)
-- [A](/post/a/) [couple](/post/couple/)
-- [A](/post/a/) [number](/post/number/) [of](/post/of/)
-- [Several](/post/several/) [more](/post/more/) (表示比几个还要多一些)
+- [A](/zh/post/a/) [few](/zh/post/few/)
+- [Some](/zh/post/some/)
+- [A](/zh/post/a/) [couple](/zh/post/couple/)
+- [A](/zh/post/a/) [number](/zh/post/number/) [of](/zh/post/of/)
+- [Several](/zh/post/several/) [more](/zh/post/more/) (表示比几个还要多一些)

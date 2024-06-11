@@ -11,16 +11,16 @@ keywords = ['ai words', 'kettle']
 /kəlˈtəl/
 
 ## 释义
-- **名词**: 一种用来烧开水的金属壶，通常有手柄和嘴。例如: "[She](/post/she/) boiled [water](/post/water/) [in](/post/in/) [the](/post/the/) [electric](/post/electric/) [kettle](/post/kettle/) [for](/post/for/) [tea](/post/tea/)."
-- **动词**: 使用水壶烧开水。例如: "I'll [just](/post/just/) [kettle](/post/kettle/) [some](/post/some/) [water](/post/water/) [for](/post/for/) [coffee](/post/coffee/)."
+- **名词**: 一种用来烧开水的金属壶，通常有手柄和嘴。例如: "[She](/zh/post/she/) boiled [water](/zh/post/water/) [in](/zh/post/in/) [the](/zh/post/the/) [electric](/zh/post/electric/) [kettle](/zh/post/kettle/) [for](/zh/post/for/) [tea](/zh/post/tea/)."
+- **动词**: 使用水壶烧开水。例如: "I'll [just](/zh/post/just/) [kettle](/zh/post/kettle/) [some](/zh/post/some/) [water](/zh/post/water/) [for](/zh/post/for/) [coffee](/zh/post/coffee/)."
 
 ## 短语
-- "[kettle](/post/kettle/) [of](/post/of/) [fish](/post/fish/)" 用来描述混乱或复杂的情况。
-- "[to](/post/to/) [make](/post/make/) [a](/post/a/) [kettle](/post/kettle/) [of](/post/of/) ([fish](/post/fish/))" 引起麻烦或混乱。
+- "[kettle](/zh/post/kettle/) [of](/zh/post/of/) [fish](/zh/post/fish/)" 用来描述混乱或复杂的情况。
+- "[to](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) [kettle](/zh/post/kettle/) [of](/zh/post/of/) ([fish](/zh/post/fish/))" 引起麻烦或混乱。
 
 ## 例句
-- 名词: "[The](/post/the/) old-fashioned [kettle](/post/kettle/) [on](/post/on/) [the](/post/the/) [stove](/post/stove/) was whistling loudly."
-- 动词: "[She](/post/she/) kettle-d [some](/post/some/) [water](/post/water/) [before](/post/before/) making [her](/post/her/) [morning](/post/morning/) [cup](/post/cup/) [of](/post/of/) [tea](/post/tea/)."
+- 名词: "[The](/zh/post/the/) old-fashioned [kettle](/zh/post/kettle/) [on](/zh/post/on/) [the](/zh/post/the/) [stove](/zh/post/stove/) was whistling loudly."
+- 动词: "[She](/zh/post/she/) kettle-d [some](/zh/post/some/) [water](/zh/post/water/) [before](/zh/post/before/) making [her](/zh/post/her/) [morning](/zh/post/morning/) [cup](/zh/post/cup/) [of](/zh/post/of/) [tea](/zh/post/tea/)."
 
 ## 同义词
 - Teapot (尤其是指用于泡茶的)

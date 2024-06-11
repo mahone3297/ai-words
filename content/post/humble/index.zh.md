@@ -11,19 +11,19 @@ keywords = ['ai words', 'humble']
 /hʌmbl/
 
 ## 释义
-- **形容词**: 谦虚的，不自大的。例如: "[He](/post/he/) remained [humble](/post/humble/) [despite](/post/despite/) [his](/post/his/) [great](/post/great/) [success](/post/success/)."
-- **动词**: 使变得谦卑，降低身份。例如: "[The](/post/the/) [defeat](/post/defeat/) humbled [the](/post/the/) arrogant [team](/post/team/)."
+- **形容词**: 谦虚的，不自大的。例如: "[He](/zh/post/he/) remained [humble](/zh/post/humble/) [despite](/zh/post/despite/) [his](/zh/post/his/) [great](/zh/post/great/) [success](/zh/post/success/)."
+- **动词**: 使变得谦卑，降低身份。例如: "[The](/zh/post/the/) [defeat](/zh/post/defeat/) humbled [the](/zh/post/the/) arrogant [team](/zh/post/team/)."
 
 ## 短语
-- "[to](/post/to/) [be](/post/be/) [humble](/post/humble/) [about](/post/about/) [something](/post/something/)" 在某事上表现得谦虚。
-- "[to](/post/to/) [humble](/post/humble/) [oneself](/post/oneself/)" 谦逊自己，承认不足。
+- "[to](/zh/post/to/) [be](/zh/post/be/) [humble](/zh/post/humble/) [about](/zh/post/about/) [something](/zh/post/something/)" 在某事上表现得谦虚。
+- "[to](/zh/post/to/) [humble](/zh/post/humble/) [oneself](/zh/post/oneself/)" 谦逊自己，承认不足。
 
 ## 例句
-- 形容词: "[Her](/post/her/) [humble](/post/humble/) origins [never](/post/never/) stopped [her](/post/her/) [from](/post/from/) pursuing [her](/post/her/) dreams."
-- 动词: "[The](/post/the/) [victory](/post/victory/) didn't [humble](/post/humble/) [him](/post/him/); [he](/post/he/) continued [to](/post/to/) [boast](/post/boast/)."
+- 形容词: "[Her](/zh/post/her/) [humble](/zh/post/humble/) origins [never](/zh/post/never/) stopped [her](/zh/post/her/) [from](/zh/post/from/) pursuing [her](/zh/post/her/) dreams."
+- 动词: "[The](/zh/post/the/) [victory](/zh/post/victory/) didn't [humble](/zh/post/humble/) [him](/zh/post/him/); [he](/zh/post/he/) continued [to](/zh/post/to/) [boast](/zh/post/boast/)."
 
 ## 同义词
-- [Modest](/post/modest/)
+- [Modest](/zh/post/modest/)
 - Unassuming
 -谦逊的
 - Self-effacing

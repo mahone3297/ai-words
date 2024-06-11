@@ -12,23 +12,23 @@ keywords = ['ai words', 'gang']
 
 ## 释义
 - **名词**:
-1. 一群有共同目标或兴趣的人，通常指犯罪团伙或帮派。例如: "[The](/post/the/) [police](/post/police/) were keeping an [eye](/post/eye/) [on](/post/on/) [a](/post/a/) [local](/post/local/) [gang](/post/gang/) involved [in](/post/in/) [drug](/post/drug/) trafficking."
-2. 在某些体育运动中，一组队员。例如: "[The](/post/the/) [football](/post/football/) [gang](/post/gang/) worked [together](/post/together/) [to](/post/to/) [score](/post/score/) [a](/post/a/) [goal](/post/goal/)."
+1. 一群有共同目标或兴趣的人，通常指犯罪团伙或帮派。例如: "[The](/zh/post/the/) [police](/zh/post/police/) were keeping an [eye](/zh/post/eye/) [on](/zh/post/on/) [a](/zh/post/a/) [local](/zh/post/local/) [gang](/zh/post/gang/) involved [in](/zh/post/in/) [drug](/zh/post/drug/) trafficking."
+2. 在某些体育运动中，一组队员。例如: "[The](/zh/post/the/) [football](/zh/post/football/) [gang](/zh/post/gang/) worked [together](/zh/post/together/) [to](/zh/post/to/) [score](/zh/post/score/) [a](/zh/post/a/) [goal](/zh/post/goal/)."
 
 - **动词**:
-1. 形成帮派或团伙。例如: "[Some](/post/some/) teenagers started [to](/post/to/) [gang](/post/gang/) [up](/post/up/) [in](/post/in/) [the](/post/the/) neighborhood."
+1. 形成帮派或团伙。例如: "[Some](/zh/post/some/) teenagers started [to](/zh/post/to/) [gang](/zh/post/gang/) [up](/zh/post/up/) [in](/zh/post/in/) [the](/zh/post/the/) neighborhood."
 
 ## 短语
-- "[Gang](/post/gang/) [up](/post/up/) [on](/post/on/) [someone](/post/someone/)" 意味着联合起来对付某人。
-- "[Gang](/post/gang/) [leader](/post/leader/)" 指的是帮派或团伙的首领。
+- "[Gang](/zh/post/gang/) [up](/zh/post/up/) [on](/zh/post/on/) [someone](/zh/post/someone/)" 意味着联合起来对付某人。
+- "[Gang](/zh/post/gang/) [leader](/zh/post/leader/)" 指的是帮派或团伙的首领。
 
 ## 例句
-- 名词: "[The](/post/the/) [gang](/post/gang/) members were known [for](/post/for/) [their](/post/their/) [violent](/post/violent/) [behavior](/post/behavior/)."
-- 动词: "[They](/post/they/) ganged [up](/post/up/) [on](/post/on/) [him](/post/him/) [because](/post/because/) [he](/post/he/) refused [to](/post/to/) [join](/post/join/) [their](/post/their/) activities."
+- 名词: "[The](/zh/post/the/) [gang](/zh/post/gang/) members were known [for](/zh/post/for/) [their](/zh/post/their/) [violent](/zh/post/violent/) [behavior](/zh/post/behavior/)."
+- 动词: "[They](/zh/post/they/) ganged [up](/zh/post/up/) [on](/zh/post/on/) [him](/zh/post/him/) [because](/zh/post/because/) [he](/zh/post/he/) refused [to](/zh/post/to/) [join](/zh/post/join/) [their](/zh/post/their/) activities."
 
 ## 同义词
-- [Crew](/post/crew/)
+- [Crew](/zh/post/crew/)
 - Posse
 - Syndicate
 - Mob
-- [Band](/post/band/) ([of](/post/of/) criminals)
+- [Band](/zh/post/band/) ([of](/zh/post/of/) criminals)

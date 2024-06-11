@@ -11,18 +11,18 @@ keywords = ['ai words', 'breast']
 /brest/
 
 ## 释义
-- **名词**: 胸部；乳房。例如: "[She](/post/she/) held [the](/post/the/) [baby](/post/baby/) [close](/post/close/) [to](/post/to/) [her](/post/her/) [breast](/post/breast/)."
-- **形容词**: 最初的，原始的。例如: "[Breast](/post/breast/) [milk](/post/milk/) is [the](/post/the/) [best](/post/best/) nutrition [for](/post/for/) infants."
+- **名词**: 胸部；乳房。例如: "[She](/zh/post/she/) held [the](/zh/post/the/) [baby](/zh/post/baby/) [close](/zh/post/close/) [to](/zh/post/to/) [her](/zh/post/her/) [breast](/zh/post/breast/)."
+- **形容词**: 最初的，原始的。例如: "[Breast](/zh/post/breast/) [milk](/zh/post/milk/) is [the](/zh/post/the/) [best](/zh/post/best/) nutrition [for](/zh/post/for/) infants."
 
 ## 短语
-- "[Breast](/post/breast/) [cancer](/post/cancer/)" 指乳腺癌。
+- "[Breast](/zh/post/breast/) [cancer](/zh/post/cancer/)" 指乳腺癌。
 - "Breastfeeding" 意为母乳喂养。
 - "Breaststroke" 是游泳的一种方式，也称为蛙泳。
 
 ## 例句
-- 名词: "[She](/post/she/) wore [a](/post/a/) [loose](/post/loose/) [shirt](/post/shirt/) [to](/post/to/) [cover](/post/cover/) [her](/post/her/) injured [breast](/post/breast/)."
-- 形容词: "[The](/post/the/) [breast](/post/breast/) [of](/post/of/) [the](/post/the/) [chicken](/post/chicken/) [should](/post/should/) [be](/post/be/) cooked thoroughly."
+- 名词: "[She](/zh/post/she/) wore [a](/zh/post/a/) [loose](/zh/post/loose/) [shirt](/zh/post/shirt/) [to](/zh/post/to/) [cover](/zh/post/cover/) [her](/zh/post/her/) injured [breast](/zh/post/breast/)."
+- 形容词: "[The](/zh/post/the/) [breast](/zh/post/breast/) [of](/zh/post/of/) [the](/zh/post/the/) [chicken](/zh/post/chicken/) [should](/zh/post/should/) [be](/zh/post/be/) cooked thoroughly."
 
 ## 同义词
-- [Chest](/post/chest/) (名词时)
+- [Chest](/zh/post/chest/) (名词时)
 - Pectoral (名词时)

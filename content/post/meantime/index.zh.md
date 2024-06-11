@@ -11,19 +11,19 @@ keywords = ['ai words', 'meantime']
 /meɪkˈtiːm/
 
 ## 释义
-- **副词**: 暂时；其间；与此同时。例如: "I'll [be](/post/be/) [back](/post/back/) [soon](/post/soon/), [meantime](/post/meantime/), [please](/post/please/) [stay](/post/stay/) [here](/post/here/)."
+- **副词**: 暂时；其间；与此同时。例如: "I'll [be](/zh/post/be/) [back](/zh/post/back/) [soon](/zh/post/soon/), [meantime](/zh/post/meantime/), [please](/zh/post/please/) [stay](/zh/post/stay/) [here](/zh/post/here/)."
 
 ## 短语
-- "[In](/post/in/) [the](/post/the/) [meantime](/post/meantime/)" 表示在一段时间内或某个事件发生之前。例如: "We're waiting [for](/post/for/) [the](/post/the/) results, [in](/post/in/) [the](/post/the/) [meantime](/post/meantime/), let's [continue](/post/continue/) working."
-- "[Meantime](/post/meantime/), [not](/post/not/) [forever](/post/forever/)" 意味着这只是暂时的情况，并非永久如此。
+- "[In](/zh/post/in/) [the](/zh/post/the/) [meantime](/zh/post/meantime/)" 表示在一段时间内或某个事件发生之前。例如: "We're waiting [for](/zh/post/for/) [the](/zh/post/the/) results, [in](/zh/post/in/) [the](/zh/post/the/) [meantime](/zh/post/meantime/), let's [continue](/zh/post/continue/) working."
+- "[Meantime](/zh/post/meantime/), [not](/zh/post/not/) [forever](/zh/post/forever/)" 意味着这只是暂时的情况，并非永久如此。
 
 ## 例句
-- "I [need](/post/need/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [phone](/post/phone/) [call](/post/call/), [meantime](/post/meantime/), [can](/post/can/) [you](/post/you/) [take](/post/take/) [care](/post/care/) [of](/post/of/) [the](/post/the/) kids?"
-- "[The](/post/the/) repairman [will](/post/will/) [arrive](/post/arrive/) [in](/post/in/) an [hour](/post/hour/), [meantime](/post/meantime/), we'll [have](/post/have/) [some](/post/some/) [lunch](/post/lunch/)."
+- "I [need](/zh/post/need/) [to](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) [phone](/zh/post/phone/) [call](/zh/post/call/), [meantime](/zh/post/meantime/), [can](/zh/post/can/) [you](/zh/post/you/) [take](/zh/post/take/) [care](/zh/post/care/) [of](/zh/post/of/) [the](/zh/post/the/) kids?"
+- "[The](/zh/post/the/) repairman [will](/zh/post/will/) [arrive](/zh/post/arrive/) [in](/zh/post/in/) an [hour](/zh/post/hour/), [meantime](/zh/post/meantime/), we'll [have](/zh/post/have/) [some](/zh/post/some/) [lunch](/zh/post/lunch/)."
 
 ## 同义词
-- [Meanwhile](/post/meanwhile/)
-- [In](/post/in/) [the](/post/the/) interim
-- [For](/post/for/) [the](/post/the/) [time](/post/time/) [being](/post/being/)
+- [Meanwhile](/zh/post/meanwhile/)
+- [In](/zh/post/in/) [the](/zh/post/the/) interim
+- [For](/zh/post/for/) [the](/zh/post/the/) [time](/zh/post/time/) [being](/zh/post/being/)
 - Temporarily
-- [During](/post/during/) [that](/post/that/) [time](/post/time/)
+- [During](/zh/post/during/) [that](/zh/post/that/) [time](/zh/post/time/)

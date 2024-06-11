@@ -7,31 +7,31 @@ description = '[inˈvest] vt.投资；投入'
 keywords = ['ai words', 'invest']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈvest/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [commit](/en/post/commit/) [money](/en/post/money/) [or](/en/post/or/) [capital](/en/post/capital/) [to](/en/post/to/) [purchase](/en/post/purchase/) [financial](/en/post/financial/) products, [property](/en/post/property/), [or](/en/post/or/) [a](/en/post/a/) [business](/en/post/business/) [with](/en/post/with/) [the](/en/post/the/) [expectation](/en/post/expectation/) [of](/en/post/of/) obtaining [income](/en/post/income/) [or](/en/post/or/) [profit](/en/post/profit/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [invest](/en/post/invest/) [their](/en/post/their/) savings [in](/en/post/in/) stocks [and](/en/post/and/) shares."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/), [effort](/en/post/effort/), [or](/en/post/or/) resources [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) [benefit](/en/post/benefit/) [or](/en/post/or/) [gain](/en/post/gain/) [in](/en/post/in/) [the](/en/post/the/) [future](/en/post/future/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) invested years [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/) [into](/en/post/into/) [her](/en/post/her/) [education](/en/post/education/)."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) endow [with](/en/post/with/) [a](/en/post/a/) [quality](/en/post/quality/), [character](/en/post/character/), [or](/en/post/or/) [ability](/en/post/ability/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [experience](/en/post/experience/) has invested [him](/en/post/him/) [with](/en/post/with/) [a](/en/post/a/) [deep](/en/post/deep/) [understanding](/en/post/understanding/) [of](/en/post/of/) [the](/en/post/the/) [market](/en/post/market/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [commit](/post/commit/) [money](/post/money/) [or](/post/or/) [capital](/post/capital/) [to](/post/to/) [purchase](/post/purchase/) [financial](/post/financial/) products, [property](/post/property/), [or](/post/or/) [a](/post/a/) [business](/post/business/) [with](/post/with/) [the](/post/the/) [expectation](/post/expectation/) [of](/post/of/) obtaining [income](/post/income/) [or](/post/or/) [profit](/post/profit/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [invest](/post/invest/) [their](/post/their/) savings [in](/post/in/) stocks [and](/post/and/) shares."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [spend](/post/spend/) [time](/post/time/), [effort](/post/effort/), [or](/post/or/) resources [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) [benefit](/post/benefit/) [or](/post/or/) [gain](/post/gain/) [in](/post/in/) [the](/post/the/) [future](/post/future/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) invested years [of](/post/of/) [hard](/post/hard/) [work](/post/work/) [into](/post/into/) [her](/post/her/) [education](/post/education/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) endow [with](/post/with/) [a](/post/a/) [quality](/post/quality/), [character](/post/character/), [or](/post/or/) [ability](/post/ability/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [experience](/post/experience/) has invested [him](/post/him/) [with](/post/with/) [a](/post/a/) [deep](/post/deep/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [market](/post/market/)."
   
 ## Phrases
-- "[Invest](/en/post/invest/) [in](/en/post/in/)": [To](/en/post/to/) [buy](/en/post/buy/) [or](/en/post/or/) [put](/en/post/put/) [money](/en/post/money/) [into](/en/post/into/) [something](/en/post/something/) [with](/en/post/with/) [the](/en/post/the/) [hope](/en/post/hope/) [of](/en/post/of/) making [a](/en/post/a/) [profit](/en/post/profit/) [or](/en/post/or/) gaining [interest](/en/post/interest/). [Example](/en/post/example/): "We're planning [to](/en/post/to/) [invest](/en/post/invest/) [in](/en/post/in/) [some](/en/post/some/) [new](/en/post/new/) [technology](/en/post/technology/) startups."
-- "[Invest](/en/post/invest/) one's [time](/en/post/time/)/[money](/en/post/money/)/efforts": [To](/en/post/to/) [use](/en/post/use/) [these](/en/post/these/) resources [with](/en/post/with/) [the](/en/post/the/) [aim](/en/post/aim/) [of](/en/post/of/) achieving [a](/en/post/a/) [beneficial](/en/post/beneficial/) [outcome](/en/post/outcome/). [Example](/en/post/example/): "[She](/en/post/she/) invested [her](/en/post/her/) [time](/en/post/time/) wisely [by](/en/post/by/) volunteering [for](/en/post/for/) causes [she](/en/post/she/) believed [in](/en/post/in/)."
+- "[Invest](/post/invest/) [in](/post/in/)": [To](/post/to/) [buy](/post/buy/) [or](/post/or/) [put](/post/put/) [money](/post/money/) [into](/post/into/) [something](/post/something/) [with](/post/with/) [the](/post/the/) [hope](/post/hope/) [of](/post/of/) making [a](/post/a/) [profit](/post/profit/) [or](/post/or/) gaining [interest](/post/interest/). [Example](/post/example/): "We're planning [to](/post/to/) [invest](/post/invest/) [in](/post/in/) [some](/post/some/) [new](/post/new/) [technology](/post/technology/) startups."
+- "[Invest](/post/invest/) one's [time](/post/time/)/[money](/post/money/)/efforts": [To](/post/to/) [use](/post/use/) [these](/post/these/) resources [with](/post/with/) [the](/post/the/) [aim](/post/aim/) [of](/post/of/) achieving [a](/post/a/) [beneficial](/post/beneficial/) [outcome](/post/outcome/). [Example](/post/example/): "[She](/post/she/) invested [her](/post/her/) [time](/post/time/) wisely [by](/post/by/) volunteering [for](/post/for/) causes [she](/post/she/) believed [in](/post/in/)."
   
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([financial](/en/post/financial/))**: "[After](/en/post/after/) researching [the](/en/post/the/) [company](/en/post/company/) thoroughly, [he](/en/post/he/) decided [to](/en/post/to/) [invest](/en/post/invest/) [a](/en/post/a/) [substantial](/en/post/substantial/) [amount](/en/post/amount/) [in](/en/post/in/) [its](/en/post/its/) shares."
-- **[Verb](/en/post/verb/) ([time](/en/post/time/)/[effort](/en/post/effort/))**: "[By](/en/post/by/) investing hours [each](/en/post/each/) [day](/en/post/day/) practicing, [the](/en/post/the/) [musician](/en/post/musician/) significantly improved [his](/en/post/his/) skills."
-- **[Verb](/en/post/verb/) (endow)**: "[Her](/en/post/her/) [extensive](/en/post/extensive/) travels [have](/en/post/have/) invested [her](/en/post/her/) [with](/en/post/with/) [a](/en/post/a/) [unique](/en/post/unique/) cultural [perspective](/en/post/perspective/) [that](/en/post/that/) enriches [her](/en/post/her/) [writing](/en/post/writing/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([financial](/post/financial/))**: "[After](/post/after/) researching [the](/post/the/) [company](/post/company/) thoroughly, [he](/post/he/) decided [to](/post/to/) [invest](/post/invest/) [a](/post/a/) [substantial](/post/substantial/) [amount](/post/amount/) [in](/post/in/) [its](/post/its/) shares."
+- **[Verb](/post/verb/) ([time](/post/time/)/[effort](/post/effort/))**: "[By](/post/by/) investing hours [each](/post/each/) [day](/post/day/) practicing, [the](/post/the/) [musician](/post/musician/) significantly improved [his](/post/his/) skills."
+- **[Verb](/post/verb/) (endow)**: "[Her](/post/her/) [extensive](/post/extensive/) travels [have](/post/have/) invested [her](/post/her/) [with](/post/with/) [a](/post/a/) [unique](/post/unique/) cultural [perspective](/post/perspective/) [that](/post/that/) enriches [her](/post/her/) [writing](/post/writing/)."
 
 ## Synonyms
 - Allocate
 - Deploy
-- [Put](/en/post/put/) ([money](/en/post/money/)) [into](/en/post/into/)
-- [Fund](/en/post/fund/)
+- [Put](/post/put/) ([money](/post/money/)) [into](/post/into/)
+- [Fund](/post/fund/)
 - Endow
-- [Commit](/en/post/commit/)
-- [Place](/en/post/place/)
-- [Stake](/en/post/stake/)
-- [Pour](/en/post/pour/) (resources)
-- [Devote](/en/post/devote/) ([time](/en/post/time/)/[effort](/en/post/effort/))
+- [Commit](/post/commit/)
+- [Place](/post/place/)
+- [Stake](/post/stake/)
+- [Pour](/post/pour/) (resources)
+- [Devote](/post/devote/) ([time](/post/time/)/[effort](/post/effort/))

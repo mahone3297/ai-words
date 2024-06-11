@@ -7,28 +7,28 @@ description = '[ˈailənd] n.岛，岛屿'
 keywords = ['ai words', 'island']
 +++
 
-## [Word](/en/post/word/): [Island](/en/post/island/)
+## [Word](/post/word/): [Island](/post/island/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaɪlənd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [land](/en/post/land/) [completely](/en/post/completely/) surrounded [by](/en/post/by/) [water](/en/post/water/), typically smaller [than](/en/post/than/) [a](/en/post/a/) [continent](/en/post/continent/) [and](/en/post/and/) [often](/en/post/often/) located [in](/en/post/in/) [a](/en/post/a/) [river](/en/post/river/), [lake](/en/post/lake/), [or](/en/post/or/) [sea](/en/post/sea/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) spent [their](/en/post/their/) [vacation](/en/post/vacation/) [on](/en/post/on/) [a](/en/post/a/) [tropical](/en/post/tropical/) [island](/en/post/island/)."
-  - _Island [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) an [area](/en/post/area/) [of](/en/post/of/) [land](/en/post/land/) that's isolated [within](/en/post/within/) [a](/en/post/a/) [city](/en/post/city/) [or](/en/post/or/) larger [body](/en/post/body/) [due](/en/post/due/) [to](/en/post/to/) geographical [or](/en/post/or/) infrastructural reasons._ [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [kitchen](/en/post/kitchen/) [island](/en/post/island/) was [the](/en/post/the/) focal [point](/en/post/point/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [land](/post/land/) [completely](/post/completely/) surrounded [by](/post/by/) [water](/post/water/), typically smaller [than](/post/than/) [a](/post/a/) [continent](/post/continent/) [and](/post/and/) [often](/post/often/) located [in](/post/in/) [a](/post/a/) [river](/post/river/), [lake](/post/lake/), [or](/post/or/) [sea](/post/sea/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) spent [their](/post/their/) [vacation](/post/vacation/) [on](/post/on/) [a](/post/a/) [tropical](/post/tropical/) [island](/post/island/)."
+  - _Island [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) an [area](/post/area/) [of](/post/of/) [land](/post/land/) that's isolated [within](/post/within/) [a](/post/a/) [city](/post/city/) [or](/post/or/) larger [body](/post/body/) [due](/post/due/) [to](/post/to/) geographical [or](/post/or/) infrastructural reasons._ [For](/post/for/) [example](/post/example/): "[The](/post/the/) [kitchen](/post/kitchen/) [island](/post/island/) was [the](/post/the/) focal [point](/post/point/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
   
 ## Phrases
-- "[Island](/en/post/island/) [nation](/en/post/nation/)": [A](/en/post/a/) [country](/en/post/country/) consisting [primarily](/en/post/primarily/) [of](/en/post/of/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) islands. [Example](/en/post/example/): "Japan is an [island](/en/post/island/) [nation](/en/post/nation/)."
-- "[Desert](/en/post/desert/) [island](/en/post/island/)": An uninhabited [island](/en/post/island/), [often](/en/post/often/) imagined [as](/en/post/as/) [a](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [someone](/en/post/someone/) is stranded [alone](/en/post/alone/). [Example](/en/post/example/): "[If](/en/post/if/) I were stranded [on](/en/post/on/) [a](/en/post/a/) [desert](/en/post/desert/) [island](/en/post/island/), [what](/en/post/what/) [book](/en/post/book/) [would](/en/post/would/) I [take](/en/post/take/)?"
-- "[Every](/en/post/every/) [man](/en/post/man/) [for](/en/post/for/) [himself](/en/post/himself/)": [A](/en/post/a/) [phrase](/en/post/phrase/) suggesting [that](/en/post/that/) [people](/en/post/people/) [should](/en/post/should/) fend [for](/en/post/for/) [themselves](/en/post/themselves/) [in](/en/post/in/) [difficult](/en/post/difficult/) situations, [often](/en/post/often/) metaphorically referring [to](/en/post/to/) [being](/en/post/being/) stranded [on](/en/post/on/) an [island](/en/post/island/) [with](/en/post/with/) [no](/en/post/no/) [help](/en/post/help/).
+- "[Island](/post/island/) [nation](/post/nation/)": [A](/post/a/) [country](/post/country/) consisting [primarily](/post/primarily/) [of](/post/of/) [one](/post/one/) [or](/post/or/) [more](/post/more/) islands. [Example](/post/example/): "Japan is an [island](/post/island/) [nation](/post/nation/)."
+- "[Desert](/post/desert/) [island](/post/island/)": An uninhabited [island](/post/island/), [often](/post/often/) imagined [as](/post/as/) [a](/post/a/) [place](/post/place/) [where](/post/where/) [someone](/post/someone/) is stranded [alone](/post/alone/). [Example](/post/example/): "[If](/post/if/) I were stranded [on](/post/on/) [a](/post/a/) [desert](/post/desert/) [island](/post/island/), [what](/post/what/) [book](/post/book/) [would](/post/would/) I [take](/post/take/)?"
+- "[Every](/post/every/) [man](/post/man/) [for](/post/for/) [himself](/post/himself/)": [A](/post/a/) [phrase](/post/phrase/) suggesting [that](/post/that/) [people](/post/people/) [should](/post/should/) fend [for](/post/for/) [themselves](/post/themselves/) [in](/post/in/) [difficult](/post/difficult/) situations, [often](/post/often/) metaphorically referring [to](/post/to/) [being](/post/being/) stranded [on](/post/on/) an [island](/post/island/) [with](/post/with/) [no](/post/no/) [help](/post/help/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) crossing [the](/en/post/the/) [bridge](/en/post/bridge/), [we](/en/post/we/) [finally](/en/post/finally/) reached [the](/en/post/the/) [peaceful](/en/post/peaceful/) [island](/en/post/island/)."
-- "[In](/en/post/in/) [the](/en/post/the/) [middle](/en/post/middle/) [of](/en/post/of/) [the](/en/post/the/) bustling [city](/en/post/city/), [Central](/en/post/central/) [Park](/en/post/park/) serves [as](/en/post/as/) [a](/en/post/a/) [green](/en/post/green/) [island](/en/post/island/) amidst [concrete](/en/post/concrete/) buildings."
-- "[He](/en/post/he/) dreamt [of](/en/post/of/) [living](/en/post/living/) [on](/en/post/on/) [a](/en/post/a/) secluded [island](/en/post/island/) [far](/en/post/far/) [from](/en/post/from/) [civilization](/en/post/civilization/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) crossing [the](/post/the/) [bridge](/post/bridge/), [we](/post/we/) [finally](/post/finally/) reached [the](/post/the/) [peaceful](/post/peaceful/) [island](/post/island/)."
+- "[In](/post/in/) [the](/post/the/) [middle](/post/middle/) [of](/post/of/) [the](/post/the/) bustling [city](/post/city/), [Central](/post/central/) [Park](/post/park/) serves [as](/post/as/) [a](/post/a/) [green](/post/green/) [island](/post/island/) amidst [concrete](/post/concrete/) buildings."
+- "[He](/post/he/) dreamt [of](/post/of/) [living](/post/living/) [on](/post/on/) [a](/post/a/) secluded [island](/post/island/) [far](/post/far/) [from](/post/from/) [civilization](/post/civilization/)."
 
 ## Synonyms
 - Isle
-- Archipelago ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) islands)
-- [Key](/en/post/key/) ([in](/en/post/in/) [some](/en/post/some/) geographical contexts, [especially](/en/post/especially/) Florida Keys)
-- [Peninsula](/en/post/peninsula/) (technically [not](/en/post/not/) an [island](/en/post/island/) [but](/en/post/but/) [sometimes](/en/post/sometimes/) referred [to](/en/post/to/) [as](/en/post/as/) [such](/en/post/such/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) isolation)
+- Archipelago ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) islands)
+- [Key](/post/key/) ([in](/post/in/) [some](/post/some/) geographical contexts, [especially](/post/especially/) Florida Keys)
+- [Peninsula](/post/peninsula/) (technically [not](/post/not/) an [island](/post/island/) [but](/post/but/) [sometimes](/post/sometimes/) referred [to](/post/to/) [as](/post/as/) [such](/post/such/) [due](/post/due/) [to](/post/to/) [its](/post/its/) isolation)
 - Landmass

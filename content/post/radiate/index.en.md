@@ -7,41 +7,41 @@ description = '[ˈreidieit] vi.发射光线；辐射'
 keywords = ['ai words', 'radiate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəˈdeɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [emit](/en/post/emit/) [or](/en/post/or/) [send](/en/post/send/) [out](/en/post/out/) rays [or](/en/post/or/) [energy](/en/post/energy/) [in](/en/post/in/) [all](/en/post/all/) directions; [spread](/en/post/spread/) [out](/en/post/out/) [from](/en/post/from/) [a](/en/post/a/) [central](/en/post/central/) [point](/en/post/point/). (n.) [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) emitting [radiation](/en/post/radiation/).
-- **[Adjective](/en/post/adjective/)**: Emitting or散发出 [light](/en/post/light/), [heat](/en/post/heat/), [or](/en/post/or/) [energy](/en/post/energy/); having [a](/en/post/a/) radial [pattern](/en/post/pattern/) [or](/en/post/or/) [distribution](/en/post/distribution/). (n.) [A](/en/post/a/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) emitting [light](/en/post/light/), [as](/en/post/as/) [in](/en/post/in/) "radiant [smile](/en/post/smile/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [emit](/post/emit/) [or](/post/or/) [send](/post/send/) [out](/post/out/) rays [or](/post/or/) [energy](/post/energy/) [in](/post/in/) [all](/post/all/) directions; [spread](/post/spread/) [out](/post/out/) [from](/post/from/) [a](/post/a/) [central](/post/central/) [point](/post/point/). (n.) [The](/post/the/) [act](/post/act/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) emitting [radiation](/post/radiation/).
+- **[Adjective](/post/adjective/)**: Emitting or散发出 [light](/post/light/), [heat](/post/heat/), [or](/post/or/) [energy](/post/energy/); having [a](/post/a/) radial [pattern](/post/pattern/) [or](/post/or/) [distribution](/post/distribution/). (n.) [A](/post/a/) [characteristic](/post/characteristic/) [of](/post/of/) emitting [light](/post/light/), [as](/post/as/) [in](/post/in/) "radiant [smile](/post/smile/)."
 
 ## Phrases
-- "[Radiate](/en/post/radiate/) [heat](/en/post/heat/)" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) [off](/en/post/off/) [heat](/en/post/heat/).
-- "Radiant [energy](/en/post/energy/)" refers [to](/en/post/to/) [energy](/en/post/energy/) [that](/en/post/that/) travels [outward](/en/post/outward/) [in](/en/post/in/) waves.
-- "Radiant personality" describes [someone](/en/post/someone/) [with](/en/post/with/) an appealing, [positive](/en/post/positive/) aura.
+- "[Radiate](/post/radiate/) [heat](/post/heat/)" [means](/post/means/) [to](/post/to/) [give](/post/give/) [off](/post/off/) [heat](/post/heat/).
+- "Radiant [energy](/post/energy/)" refers [to](/post/to/) [energy](/post/energy/) [that](/post/that/) travels [outward](/post/outward/) [in](/post/in/) waves.
+- "Radiant personality" describes [someone](/post/someone/) [with](/post/with/) an appealing, [positive](/post/positive/) aura.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [sun](/en/post/sun/) radiates [warmth](/en/post/warmth/) [on](/en/post/on/) [a](/en/post/a/) [sunny](/en/post/sunny/) [day](/en/post/day/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) eyes had [a](/en/post/a/) radiant [glow](/en/post/glow/) [when](/en/post/when/) [she](/en/post/she/) received [the](/en/post/the/) [good](/en/post/good/) [news](/en/post/news/)."
-- "[The](/en/post/the/) [light](/en/post/light/) bulbs [radiate](/en/post/radiate/) [a](/en/post/a/) [soft](/en/post/soft/), soothing [light](/en/post/light/) [throughout](/en/post/throughout/) [the](/en/post/the/) [room](/en/post/room/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [sun](/post/sun/) radiates [warmth](/post/warmth/) [on](/post/on/) [a](/post/a/) [sunny](/post/sunny/) [day](/post/day/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) eyes had [a](/post/a/) radiant [glow](/post/glow/) [when](/post/when/) [she](/post/she/) received [the](/post/the/) [good](/post/good/) [news](/post/news/)."
+- "[The](/post/the/) [light](/post/light/) bulbs [radiate](/post/radiate/) [a](/post/a/) [soft](/post/soft/), soothing [light](/post/light/) [throughout](/post/throughout/) [the](/post/the/) [room](/post/room/)."
 
 ## Synonyms
-- [Emit](/en/post/emit/)
-- [Scatter](/en/post/scatter/)
-- [Broadcast](/en/post/broadcast/)
-- [Spread](/en/post/spread/)
+- [Emit](/post/emit/)
+- [Scatter](/post/scatter/)
+- [Broadcast](/post/broadcast/)
+- [Spread](/post/spread/)
 - Overflow
 - Gleam
-- [Shine](/en/post/shine/)
+- [Shine](/post/shine/)
 
 ## Antonyms
-- [Absorb](/en/post/absorb/)
-- [Concentrate](/en/post/concentrate/)
-- [Contract](/en/post/contract/)
-- [Gather](/en/post/gather/)
-- [Retain](/en/post/retain/)
+- [Absorb](/post/absorb/)
+- [Concentrate](/post/concentrate/)
+- [Contract](/post/contract/)
+- [Gather](/post/gather/)
+- [Retain](/post/retain/)
 
 ## Related Words
-- [Radiation](/en/post/radiation/) ([noun](/en/post/noun/))
-- Radiant ([adjective](/en/post/adjective/), related [to](/en/post/to/) [light](/en/post/light/) [or](/en/post/or/) [energy](/en/post/energy/))
-- Irradiate ([a](/en/post/a/) [similar](/en/post/similar/) [verb](/en/post/verb/) [meaning](/en/post/meaning/) [to](/en/post/to/) [expose](/en/post/expose/) [to](/en/post/to/) [intense](/en/post/intense/) [radiation](/en/post/radiation/))
-- [Core](/en/post/core/) (related [to](/en/post/to/) [the](/en/post/the/) center [from](/en/post/from/) [which](/en/post/which/) [something](/en/post/something/) radiates)
+- [Radiation](/post/radiation/) ([noun](/post/noun/))
+- Radiant ([adjective](/post/adjective/), related [to](/post/to/) [light](/post/light/) [or](/post/or/) [energy](/post/energy/))
+- Irradiate ([a](/post/a/) [similar](/post/similar/) [verb](/post/verb/) [meaning](/post/meaning/) [to](/post/to/) [expose](/post/expose/) [to](/post/to/) [intense](/post/intense/) [radiation](/post/radiation/))
+- [Core](/post/core/) (related [to](/post/to/) [the](/post/the/) center [from](/post/from/) [which](/post/which/) [something](/post/something/) radiates)

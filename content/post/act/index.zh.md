@@ -12,26 +12,26 @@ keywords = ['ai words', 'act']
 
 ## 释义
 - **名词**:
-  - 表演；演出：如 "[The](/post/the/) [play](/post/play/) was [a](/post/a/) [great](/post/great/) [success](/post/success/) [due](/post/due/) [to](/post/to/) [the](/post/the/) actors' [brilliant](/post/brilliant/) acts."
-  - 法令；行为：如 "[The](/post/the/) [new](/post/new/) [act](/post/act/) aims [to](/post/to/) [reduce](/post/reduce/) [pollution](/post/pollution/)."
-  - （戏剧的）一幕：如 "[Act](/post/act/) [Two](/post/two/) [of](/post/of/) [the](/post/the/) [play](/post/play/) begins [with](/post/with/) [a](/post/a/) [stormy](/post/stormy/) [night](/post/night/)."
+  - 表演；演出：如 "[The](/zh/post/the/) [play](/zh/post/play/) was [a](/zh/post/a/) [great](/zh/post/great/) [success](/zh/post/success/) [due](/zh/post/due/) [to](/zh/post/to/) [the](/zh/post/the/) actors' [brilliant](/zh/post/brilliant/) acts."
+  - 法令；行为：如 "[The](/zh/post/the/) [new](/zh/post/new/) [act](/zh/post/act/) aims [to](/zh/post/to/) [reduce](/zh/post/reduce/) [pollution](/zh/post/pollution/)."
+  - （戏剧的）一幕：如 "[Act](/zh/post/act/) [Two](/zh/post/two/) [of](/zh/post/of/) [the](/zh/post/the/) [play](/zh/post/play/) begins [with](/zh/post/with/) [a](/zh/post/a/) [stormy](/zh/post/stormy/) [night](/zh/post/night/)."
 
 - **动词**:
-  - 表演；假装：如 "[He](/post/he/) acted [out](/post/out/) [the](/post/the/) [story](/post/story/) [for](/post/for/) [the](/post/the/) children."
-  - 行动；做事：如 "[She](/post/she/) decided [to](/post/to/) [act](/post/act/) [on](/post/on/) [her](/post/her/) friend's [advice](/post/advice/)."
+  - 表演；假装：如 "[He](/zh/post/he/) acted [out](/zh/post/out/) [the](/zh/post/the/) [story](/zh/post/story/) [for](/zh/post/for/) [the](/zh/post/the/) children."
+  - 行动；做事：如 "[She](/zh/post/she/) decided [to](/zh/post/to/) [act](/zh/post/act/) [on](/zh/post/on/) [her](/zh/post/her/) friend's [advice](/zh/post/advice/)."
 
 ## 短语
-- "[to](/post/to/) [put](/post/put/) [on](/post/on/) an [act](/post/act/)" 假装，做戏：如 "He's [just](/post/just/) putting [on](/post/on/) an [act](/post/act/) [to](/post/to/) [impress](/post/impress/) [her](/post/her/)."
-- "[to](/post/to/) [act](/post/act/) [out](/post/out/)" 实行，表现出来：如 "Children [often](/post/often/) [act](/post/act/) [out](/post/out/) [their](/post/their/) fears [through](/post/through/) [play](/post/play/)."
+- "[to](/zh/post/to/) [put](/zh/post/put/) [on](/zh/post/on/) an [act](/zh/post/act/)" 假装，做戏：如 "He's [just](/zh/post/just/) putting [on](/zh/post/on/) an [act](/zh/post/act/) [to](/zh/post/to/) [impress](/zh/post/impress/) [her](/zh/post/her/)."
+- "[to](/zh/post/to/) [act](/zh/post/act/) [out](/zh/post/out/)" 实行，表现出来：如 "Children [often](/zh/post/often/) [act](/zh/post/act/) [out](/zh/post/out/) [their](/zh/post/their/) fears [through](/zh/post/through/) [play](/zh/post/play/)."
 
 ## 例句
-- 名词: "[The](/post/the/) circus had [many](/post/many/) [impressive](/post/impressive/) acts, including acrobats [and](/post/and/) clowns."
-- 动词: "[She](/post/she/) acted [so](/post/so/) convincingly [that](/post/that/) [we](/post/we/) [all](/post/all/) believed [her](/post/her/) [story](/post/story/)."
-- 动词短语: "[He](/post/he/) decided [to](/post/to/) [act](/post/act/) [on](/post/on/) [his](/post/his/) [desire](/post/desire/) [to](/post/to/) [change](/post/change/) careers."
+- 名词: "[The](/zh/post/the/) circus had [many](/zh/post/many/) [impressive](/zh/post/impressive/) acts, including acrobats [and](/zh/post/and/) clowns."
+- 动词: "[She](/zh/post/she/) acted [so](/zh/post/so/) convincingly [that](/zh/post/that/) [we](/zh/post/we/) [all](/zh/post/all/) believed [her](/zh/post/her/) [story](/zh/post/story/)."
+- 动词短语: "[He](/zh/post/he/) decided [to](/zh/post/to/) [act](/zh/post/act/) [on](/zh/post/on/) [his](/zh/post/his/) [desire](/zh/post/desire/) [to](/zh/post/to/) [change](/zh/post/change/) careers."
 
 ## 同义词
-- [Perform](/post/perform/)
+- [Perform](/zh/post/perform/)
 - Enact
-- [Pretend](/post/pretend/)
-- [Behave](/post/behave/)
-- [Conduct](/post/conduct/)
+- [Pretend](/zh/post/pretend/)
+- [Behave](/zh/post/behave/)
+- [Conduct](/zh/post/conduct/)

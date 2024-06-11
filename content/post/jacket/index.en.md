@@ -7,36 +7,36 @@ description = '[ˈdʒækit] n.短上衣，茄克衫'
 keywords = ['ai words', 'jacket']
 +++
 
-## [Word](/en/post/word/): [Jacket](/en/post/jacket/)
+## [Word](/post/word/): [Jacket](/post/jacket/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒækɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [clothing](/en/post/clothing/) worn [on](/en/post/on/) [the](/en/post/the/) [upper](/en/post/upper/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [body](/en/post/body/), typically extending [below](/en/post/below/) [the](/en/post/the/) waistline [and](/en/post/and/) [often](/en/post/often/) having sleeves [and](/en/post/and/) [a](/en/post/a/) [collar](/en/post/collar/). It's [usually](/en/post/usually/) worn [over](/en/post/over/) [other](/en/post/other/) [clothes](/en/post/clothes/) [for](/en/post/for/) [warmth](/en/post/warmth/), [protection](/en/post/protection/) [from](/en/post/from/) [the](/en/post/the/) [weather](/en/post/weather/), [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [fashion](/en/post/fashion/) [accessory](/en/post/accessory/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) wore [her](/en/post/her/) favorite denim [jacket](/en/post/jacket/) [to](/en/post/to/) [the](/en/post/the/) [concert](/en/post/concert/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [type](/post/type/) [of](/post/of/) [clothing](/post/clothing/) worn [on](/post/on/) [the](/post/the/) [upper](/post/upper/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [body](/post/body/), typically extending [below](/post/below/) [the](/post/the/) waistline [and](/post/and/) [often](/post/often/) having sleeves [and](/post/and/) [a](/post/a/) [collar](/post/collar/). It's [usually](/post/usually/) worn [over](/post/over/) [other](/post/other/) [clothes](/post/clothes/) [for](/post/for/) [warmth](/post/warmth/), [protection](/post/protection/) [from](/post/from/) [the](/post/the/) [weather](/post/weather/), [or](/post/or/) [as](/post/as/) [a](/post/a/) [fashion](/post/fashion/) [accessory](/post/accessory/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) wore [her](/post/her/) favorite denim [jacket](/post/jacket/) [to](/post/to/) [the](/post/the/) [concert](/post/concert/)."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/) ([as](/en/post/as/) [a](/en/post/a/) [Noun](/en/post/noun/)):
-- "[He](/en/post/he/) [put](/en/post/put/) [on](/en/post/on/) [his](/en/post/his/) [waterproof](/en/post/waterproof/) [jacket](/en/post/jacket/) [before](/en/post/before/) [heading](/en/post/heading/) [out](/en/post/out/) [into](/en/post/into/) [the](/en/post/the/) [rain](/en/post/rain/)."
+[Example](/post/example/) [Sentence](/post/sentence/) ([as](/post/as/) [a](/post/a/) [Noun](/post/noun/)):
+- "[He](/post/he/) [put](/post/put/) [on](/post/on/) [his](/post/his/) [waterproof](/post/waterproof/) [jacket](/post/jacket/) [before](/post/before/) [heading](/post/heading/) [out](/post/out/) [into](/post/into/) [the](/post/the/) [rain](/post/rain/)."
 
 ## Phrases
-- "[A](/en/post/a/) [suit](/en/post/suit/) [jacket](/en/post/jacket/)" refers [to](/en/post/to/) [the](/en/post/the/) tailored [outer](/en/post/outer/) garment [that](/en/post/that/) forms [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) man's [suit](/en/post/suit/).
-- "Wearing one's [heart](/en/post/heart/) [on](/en/post/on/) one's [sleeve](/en/post/sleeve/)" [can](/en/post/can/) metaphorically [refer](/en/post/refer/) [to](/en/post/to/) revealing one's emotions openly, [but](/en/post/but/) literally [may](/en/post/may/) [mean](/en/post/mean/) wearing [a](/en/post/a/) [jacket](/en/post/jacket/) [with](/en/post/with/) an expressive [design](/en/post/design/) [or](/en/post/or/) [patch](/en/post/patch/) [on](/en/post/on/) [the](/en/post/the/) [sleeve](/en/post/sleeve/).
-- "[The](/en/post/the/) [cherry](/en/post/cherry/) [on](/en/post/on/) [top](/en/post/top/)" [could](/en/post/could/) [be](/en/post/be/) [a](/en/post/a/) metaphorical [reference](/en/post/reference/) [to](/en/post/to/) [a](/en/post/a/) [jacket](/en/post/jacket/) [being](/en/post/being/) [the](/en/post/the/) [final](/en/post/final/) [touch](/en/post/touch/) [to](/en/post/to/) [complete](/en/post/complete/) an outfit.
+- "[A](/post/a/) [suit](/post/suit/) [jacket](/post/jacket/)" refers [to](/post/to/) [the](/post/the/) tailored [outer](/post/outer/) garment [that](/post/that/) forms [part](/post/part/) [of](/post/of/) [a](/post/a/) man's [suit](/post/suit/).
+- "Wearing one's [heart](/post/heart/) [on](/post/on/) one's [sleeve](/post/sleeve/)" [can](/post/can/) metaphorically [refer](/post/refer/) [to](/post/to/) revealing one's emotions openly, [but](/post/but/) literally [may](/post/may/) [mean](/post/mean/) wearing [a](/post/a/) [jacket](/post/jacket/) [with](/post/with/) an expressive [design](/post/design/) [or](/post/or/) [patch](/post/patch/) [on](/post/on/) [the](/post/the/) [sleeve](/post/sleeve/).
+- "[The](/post/the/) [cherry](/post/cherry/) [on](/post/on/) [top](/post/top/)" [could](/post/could/) [be](/post/be/) [a](/post/a/) metaphorical [reference](/post/reference/) [to](/post/to/) [a](/post/a/) [jacket](/post/jacket/) [being](/post/being/) [the](/post/the/) [final](/post/final/) [touch](/post/touch/) [to](/post/to/) [complete](/post/complete/) an outfit.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [school](/en/post/school/) [uniform](/en/post/uniform/) requires students [to](/en/post/to/) [wear](/en/post/wear/) [a](/en/post/a/) blazer-style [jacket](/en/post/jacket/)."
-- "[After](/en/post/after/) [the](/en/post/the/) [intense](/en/post/intense/) workout, [he](/en/post/he/) removed [his](/en/post/his/) sweat-soaked running [jacket](/en/post/jacket/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [school](/post/school/) [uniform](/post/uniform/) requires students [to](/post/to/) [wear](/post/wear/) [a](/post/a/) blazer-style [jacket](/post/jacket/)."
+- "[After](/post/after/) [the](/post/the/) [intense](/post/intense/) workout, [he](/post/he/) removed [his](/post/his/) sweat-soaked running [jacket](/post/jacket/)."
 
 ## Synonyms
-- [Coat](/en/post/coat/)
+- [Coat](/post/coat/)
 - Blazer
-- [Vest](/en/post/vest/)
+- [Vest](/post/vest/)
 - Windbreaker
 - Anorak
 - Parka
-- [Sweater](/en/post/sweater/)
+- [Sweater](/post/sweater/)
 - Cardigan
 - Hoodie
-- Waistcoat ([for](/en/post/for/) [a](/en/post/a/) [formal](/en/post/formal/) [jacket](/en/post/jacket/)) 
+- Waistcoat ([for](/post/for/) [a](/post/a/) [formal](/post/formal/) [jacket](/post/jacket/)) 
 
-[Note](/en/post/note/): [The](/en/post/the/) [specific](/en/post/specific/) synonym [might](/en/post/might/) [vary](/en/post/vary/) based [on](/en/post/on/) [the](/en/post/the/) [type](/en/post/type/) [or](/en/post/or/) [style](/en/post/style/) [of](/en/post/of/) [jacket](/en/post/jacket/) referred [to](/en/post/to/) (e.g., bomber [jacket](/en/post/jacket/), varsity [jacket](/en/post/jacket/), [leather](/en/post/leather/) [jacket](/en/post/jacket/), etc.).
+[Note](/post/note/): [The](/post/the/) [specific](/post/specific/) synonym [might](/post/might/) [vary](/post/vary/) based [on](/post/on/) [the](/post/the/) [type](/post/type/) [or](/post/or/) [style](/post/style/) [of](/post/of/) [jacket](/post/jacket/) referred [to](/post/to/) (e.g., bomber [jacket](/post/jacket/), varsity [jacket](/post/jacket/), [leather](/post/leather/) [jacket](/post/jacket/), etc.).

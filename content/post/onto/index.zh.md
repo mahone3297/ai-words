@@ -11,18 +11,18 @@ keywords = ['ai words', 'onto']
 /ˈɒntəʊ/
 
 ## 释义
-- **介词**: 表示“在...上面”或“朝向”。例如: "[Put](/post/put/) [the](/post/the/) [book](/post/book/) [onto](/post/onto/) [the](/post/the/) [table](/post/table/)."，"[She](/post/she/) stepped [onto](/post/onto/) [the](/post/the/) [stage](/post/stage/)."
+- **介词**: 表示“在...上面”或“朝向”。例如: "[Put](/zh/post/put/) [the](/zh/post/the/) [book](/zh/post/book/) [onto](/zh/post/onto/) [the](/zh/post/the/) [table](/zh/post/table/)."，"[She](/zh/post/she/) stepped [onto](/zh/post/onto/) [the](/zh/post/the/) [stage](/zh/post/stage/)."
 
 ## 短语
-- "[onto](/post/onto/) [something](/post/something/)" 意味着了解或涉及到某事。例如: "I'm [onto](/post/onto/) [your](/post/your/) [little](/post/little/) [secret](/post/secret/)."
-- "[get](/post/get/) [onto](/post/onto/) sb" 表示开始关注或处理某人。例如: "[The](/post/the/) [boss](/post/boss/) got [onto](/post/onto/) [him](/post/him/) [about](/post/about/) [the](/post/the/) unfinished [project](/post/project/)."
+- "[onto](/zh/post/onto/) [something](/zh/post/something/)" 意味着了解或涉及到某事。例如: "I'm [onto](/zh/post/onto/) [your](/zh/post/your/) [little](/zh/post/little/) [secret](/zh/post/secret/)."
+- "[get](/zh/post/get/) [onto](/zh/post/onto/) sb" 表示开始关注或处理某人。例如: "[The](/zh/post/the/) [boss](/zh/post/boss/) got [onto](/zh/post/onto/) [him](/zh/post/him/) [about](/zh/post/about/) [the](/zh/post/the/) unfinished [project](/zh/post/project/)."
 
 ## 例句
-- "[She](/post/she/) placed [the](/post/the/) [vase](/post/vase/) [gently](/post/gently/) [onto](/post/onto/) [the](/post/the/) mantelpiece."
-- "[Once](/post/once/) we're [onto](/post/onto/) [this](/post/this/) [new](/post/new/) [project](/post/project/), we'll [have](/post/have/) [more](/post/more/) opportunities."
+- "[She](/zh/post/she/) placed [the](/zh/post/the/) [vase](/zh/post/vase/) [gently](/zh/post/gently/) [onto](/zh/post/onto/) [the](/zh/post/the/) mantelpiece."
+- "[Once](/zh/post/once/) we're [onto](/zh/post/onto/) [this](/zh/post/this/) [new](/zh/post/new/) [project](/zh/post/project/), we'll [have](/zh/post/have/) [more](/zh/post/more/) opportunities."
 
 ## 同义词
-- [on](/post/on/) [top](/post/top/) [of](/post/of/)
-- [upon](/post/upon/)
+- [on](/zh/post/on/) [top](/zh/post/top/) [of](/zh/post/of/)
+- [upon](/zh/post/upon/)
 - toward
-- [against](/post/against/) (在某些情况下可以表示朝向)
+- [against](/zh/post/against/) (在某些情况下可以表示朝向)

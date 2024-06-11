@@ -11,20 +11,20 @@ keywords = ['ai words', 'unpleasant']
 /ʌnˈplezənt/
 
 ## 释义
-- **形容词**: 不愉快的，令人不悦的。例如: "[The](/post/the/) [weather](/post/weather/) was unpleasantly [cold](/post/cold/)."
-- **名词**: 不受欢迎的人或事物。例如: "[She](/post/she/) had [to](/post/to/) [deal](/post/deal/) [with](/post/with/) an [unpleasant](/post/unpleasant/) [customer](/post/customer/)."
+- **形容词**: 不愉快的，令人不悦的。例如: "[The](/zh/post/the/) [weather](/zh/post/weather/) was unpleasantly [cold](/zh/post/cold/)."
+- **名词**: 不受欢迎的人或事物。例如: "[She](/zh/post/she/) had [to](/zh/post/to/) [deal](/zh/post/deal/) [with](/zh/post/with/) an [unpleasant](/zh/post/unpleasant/) [customer](/zh/post/customer/)."
 
 ## 短语
-- "an [unpleasant](/post/unpleasant/) [surprise](/post/surprise/)" 意为不愉快的意外。
-- "[unpleasant](/post/unpleasant/) [news](/post/news/)" 指的是坏消息。
+- "an [unpleasant](/zh/post/unpleasant/) [surprise](/zh/post/surprise/)" 意为不愉快的意外。
+- "[unpleasant](/zh/post/unpleasant/) [news](/zh/post/news/)" 指的是坏消息。
 
 ## 例句
-- 形容词: "[It](/post/it/) was an [unpleasant](/post/unpleasant/) [task](/post/task/) [to](/post/to/) [clean](/post/clean/) [up](/post/up/) [the](/post/the/) [mess](/post/mess/)."
-- 名词: "[He](/post/he/) had [to](/post/to/) [face](/post/face/) [some](/post/some/) [unpleasant](/post/unpleasant/) truths [about](/post/about/) [himself](/post/himself/)."
+- 形容词: "[It](/zh/post/it/) was an [unpleasant](/zh/post/unpleasant/) [task](/zh/post/task/) [to](/zh/post/to/) [clean](/zh/post/clean/) [up](/zh/post/up/) [the](/zh/post/the/) [mess](/zh/post/mess/)."
+- 名词: "[He](/zh/post/he/) had [to](/zh/post/to/) [face](/zh/post/face/) [some](/zh/post/some/) [unpleasant](/zh/post/unpleasant/) truths [about](/zh/post/about/) [himself](/zh/post/himself/)."
 
 ## 同义词
-- [Uncomfortable](/post/uncomfortable/)
+- [Uncomfortable](/zh/post/uncomfortable/)
 - Distasteful
 - Displeasing
 - Unsettling
-- [Awkward](/post/awkward/)
+- [Awkward](/zh/post/awkward/)

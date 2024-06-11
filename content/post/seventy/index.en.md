@@ -7,35 +7,35 @@ description = '[ˈsevənti] num.七十，七十个'
 keywords = ['ai words', 'seventy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[seventy](/en/post/seventy/)/
+## [Pronunciation](/post/pronunciation/)
+/[seventy](/post/seventy/)/
 
 ## Definitions
-- **Numeral**: [A](/en/post/a/) [number](/en/post/number/) representing [the](/en/post/the/) [quantity](/en/post/quantity/) 70 [in](/en/post/in/) [the](/en/post/the/) decimal [system](/en/post/system/).
+- **Numeral**: [A](/post/a/) [number](/post/number/) representing [the](/post/the/) [quantity](/post/quantity/) 70 [in](/post/in/) [the](/post/the/) decimal [system](/post/system/).
 
-## [Usage](/en/post/usage/)
-- **Cardinal**: [In](/en/post/in/) counting [or](/en/post/or/) numerical contexts, [seventy](/en/post/seventy/) refers [to](/en/post/to/) [the](/en/post/the/) [quantity](/en/post/quantity/) [that](/en/post/that/) comes [after](/en/post/after/) sixty-nine [and](/en/post/and/) [before](/en/post/before/) [eighty](/en/post/eighty/).
-- **Ordinal**: [As](/en/post/as/) an ordinal [number](/en/post/number/), [it](/en/post/it/) is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [position](/en/post/position/) [or](/en/post/or/) [rank](/en/post/rank/), [such](/en/post/such/) [as](/en/post/as/) "[the](/en/post/the/) seventy-first" [or](/en/post/or/) "[on](/en/post/on/) [the](/en/post/the/) seventy-fifth [day](/en/post/day/)."
+## [Usage](/post/usage/)
+- **Cardinal**: [In](/post/in/) counting [or](/post/or/) numerical contexts, [seventy](/post/seventy/) refers [to](/post/to/) [the](/post/the/) [quantity](/post/quantity/) [that](/post/that/) comes [after](/post/after/) sixty-nine [and](/post/and/) [before](/post/before/) [eighty](/post/eighty/).
+- **Ordinal**: [As](/post/as/) an ordinal [number](/post/number/), [it](/post/it/) is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [position](/post/position/) [or](/post/or/) [rank](/post/rank/), [such](/post/such/) [as](/post/as/) "[the](/post/the/) seventy-first" [or](/post/or/) "[on](/post/on/) [the](/post/the/) seventy-fifth [day](/post/day/)."
 
 ## Phrases
-- "[Seventy](/en/post/seventy/) [percent](/en/post/percent/)" represents [a](/en/post/a/) [fraction](/en/post/fraction/) [or](/en/post/or/) [ratio](/en/post/ratio/) [of](/en/post/of/) 70 [out](/en/post/out/) [of](/en/post/of/) 100.
-- "[In](/en/post/in/) [her](/en/post/her/) seventies" is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [who](/en/post/who/) is [around](/en/post/around/) 70 years [old](/en/post/old/).
-- "[Seventy](/en/post/seventy/) dollars" is [the](/en/post/the/) monetary [amount](/en/post/amount/).
+- "[Seventy](/post/seventy/) [percent](/post/percent/)" represents [a](/post/a/) [fraction](/post/fraction/) [or](/post/or/) [ratio](/post/ratio/) [of](/post/of/) 70 [out](/post/out/) [of](/post/of/) 100.
+- "[In](/post/in/) [her](/post/her/) seventies" is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [who](/post/who/) is [around](/post/around/) 70 years [old](/post/old/).
+- "[Seventy](/post/seventy/) dollars" is [the](/post/the/) monetary [amount](/post/amount/).
 
-## [Example](/en/post/example/) Sentences
-- "[She](/en/post/she/) [finally](/en/post/finally/) reached [her](/en/post/her/) seventy-fifth [birthday](/en/post/birthday/)."
-- "[The](/en/post/the/) [project](/en/post/project/) took [approximately](/en/post/approximately/) [seventy](/en/post/seventy/) hours [to](/en/post/to/) [complete](/en/post/complete/)."
-- "[There](/en/post/there/) were [seventy](/en/post/seventy/) [people](/en/post/people/) attending [the](/en/post/the/) [meeting](/en/post/meeting/)."
+## [Example](/post/example/) Sentences
+- "[She](/post/she/) [finally](/post/finally/) reached [her](/post/her/) seventy-fifth [birthday](/post/birthday/)."
+- "[The](/post/the/) [project](/post/project/) took [approximately](/post/approximately/) [seventy](/post/seventy/) hours [to](/post/to/) [complete](/post/complete/)."
+- "[There](/post/there/) were [seventy](/post/seventy/) [people](/post/people/) attending [the](/post/the/) [meeting](/post/meeting/)."
 
 ## Synonyms
 - Seventy-five
 - Sixty-nine
 - Sixty-one
-- [Half](/en/post/half/) [a](/en/post/a/) [hundred](/en/post/hundred/)
-- [Three](/en/post/three/) [score](/en/post/score/)
+- [Half](/post/half/) [a](/post/a/) [hundred](/post/hundred/)
+- [Three](/post/three/) [score](/post/score/)
 
 ## Antonyms
-- [Zero](/en/post/zero/)
-- [One](/en/post/one/)
-- [Sixty](/en/post/sixty/) ([lower](/en/post/lower/))
-- [Eighty](/en/post/eighty/) (higher)
+- [Zero](/post/zero/)
+- [One](/post/one/)
+- [Sixty](/post/sixty/) ([lower](/post/lower/))
+- [Eighty](/post/eighty/) (higher)

@@ -7,44 +7,44 @@ description = '[risk] n.风险，危险，冒险'
 keywords = ['ai words', 'risk']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪsk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Risk](/en/post/risk/)**: [A](/en/post/a/) [possibility](/en/post/possibility/) [of](/en/post/of/) [harm](/en/post/harm/), [damage](/en/post/damage/), [or](/en/post/or/) [loss](/en/post/loss/), [especially](/en/post/especially/) [when](/en/post/when/) associated [with](/en/post/with/) [some](/en/post/some/) [action](/en/post/action/) [or](/en/post/or/) [event](/en/post/event/). [[Definition](/en/post/definition/) [source](/en/post/source/): Oxford Dictionaries]
-   - [Example](/en/post/example/): "Taking [on](/en/post/on/) [too](/en/post/too/) [much](/en/post/much/) [financial](/en/post/financial/) [risk](/en/post/risk/) [can](/en/post/can/) [be](/en/post/be/) detrimental [to](/en/post/to/) one's [future](/en/post/future/)."
-2. **Risky [behavior](/en/post/behavior/)**: An [action](/en/post/action/) [that](/en/post/that/) involves [a](/en/post/a/) [high](/en/post/high/) [probability](/en/post/probability/) [of](/en/post/of/) [negative](/en/post/negative/) consequences. [[Definition](/en/post/definition/) [source](/en/post/source/): Merriam-Webster]
+### [Noun](/post/noun/)
+1. **[Risk](/post/risk/)**: [A](/post/a/) [possibility](/post/possibility/) [of](/post/of/) [harm](/post/harm/), [damage](/post/damage/), [or](/post/or/) [loss](/post/loss/), [especially](/post/especially/) [when](/post/when/) associated [with](/post/with/) [some](/post/some/) [action](/post/action/) [or](/post/or/) [event](/post/event/). [[Definition](/post/definition/) [source](/post/source/): Oxford Dictionaries]
+   - [Example](/post/example/): "Taking [on](/post/on/) [too](/post/too/) [much](/post/much/) [financial](/post/financial/) [risk](/post/risk/) [can](/post/can/) [be](/post/be/) detrimental [to](/post/to/) one's [future](/post/future/)."
+2. **Risky [behavior](/post/behavior/)**: An [action](/post/action/) [that](/post/that/) involves [a](/post/a/) [high](/post/high/) [probability](/post/probability/) [of](/post/of/) [negative](/post/negative/) consequences. [[Definition](/post/definition/) [source](/post/source/): Merriam-Webster]
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [risk](/en/post/risk/)**: [To](/en/post/to/) [undertake](/en/post/undertake/) [a](/en/post/a/) potentially [dangerous](/en/post/dangerous/) [or](/en/post/or/) [uncertain](/en/post/uncertain/) [action](/en/post/action/). [[Definition](/en/post/definition/) [source](/en/post/source/): Cambridge [Dictionary](/en/post/dictionary/)]
-   - [Example](/en/post/example/): "[He](/en/post/he/) decided [to](/en/post/to/) [start](/en/post/start/) [his](/en/post/his/) [own](/en/post/own/) [business](/en/post/business/), taking [a](/en/post/a/) [big](/en/post/big/) [risk](/en/post/risk/)."
-2. **[To](/en/post/to/) [assess](/en/post/assess/) [a](/en/post/a/) [risk](/en/post/risk/)**: [To](/en/post/to/) [evaluate](/en/post/evaluate/) [the](/en/post/the/) likelihood [and](/en/post/and/) [potential](/en/post/potential/) consequences [of](/en/post/of/) [a](/en/post/a/) [situation](/en/post/situation/). [[Definition](/en/post/definition/) [source](/en/post/source/): Collins [Dictionary](/en/post/dictionary/)]
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [take](/post/take/) [a](/post/a/) [risk](/post/risk/)**: [To](/post/to/) [undertake](/post/undertake/) [a](/post/a/) potentially [dangerous](/post/dangerous/) [or](/post/or/) [uncertain](/post/uncertain/) [action](/post/action/). [[Definition](/post/definition/) [source](/post/source/): Cambridge [Dictionary](/post/dictionary/)]
+   - [Example](/post/example/): "[He](/post/he/) decided [to](/post/to/) [start](/post/start/) [his](/post/his/) [own](/post/own/) [business](/post/business/), taking [a](/post/a/) [big](/post/big/) [risk](/post/risk/)."
+2. **[To](/post/to/) [assess](/post/assess/) [a](/post/a/) [risk](/post/risk/)**: [To](/post/to/) [evaluate](/post/evaluate/) [the](/post/the/) likelihood [and](/post/and/) [potential](/post/potential/) consequences [of](/post/of/) [a](/post/a/) [situation](/post/situation/). [[Definition](/post/definition/) [source](/post/source/): Collins [Dictionary](/post/dictionary/)]
 
-### [Adjective](/en/post/adjective/)
-1. **Risky**: Characterized [by](/en/post/by/) [the](/en/post/the/) likelihood [of](/en/post/of/) [danger](/en/post/danger/) [or](/en/post/or/) uncertainty. [[Definition](/en/post/definition/) [source](/en/post/source/): Macmillan [Dictionary](/en/post/dictionary/)]
-   - [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/) was considered risky [due](/en/post/due/) [to](/en/post/to/) [market](/en/post/market/) fluctuations."
+### [Adjective](/post/adjective/)
+1. **Risky**: Characterized [by](/post/by/) [the](/post/the/) likelihood [of](/post/of/) [danger](/post/danger/) [or](/post/or/) uncertainty. [[Definition](/post/definition/) [source](/post/source/): Macmillan [Dictionary](/post/dictionary/)]
+   - [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [project](/post/project/) was considered risky [due](/post/due/) [to](/post/to/) [market](/post/market/) fluctuations."
 
 ## Phrases
-- "[Assume](/en/post/assume/) [the](/en/post/the/) [risk](/en/post/risk/)" [means](/en/post/means/) [to](/en/post/to/) [accept](/en/post/accept/) [the](/en/post/the/) [possibility](/en/post/possibility/) [of](/en/post/of/) [danger](/en/post/danger/) [or](/en/post/or/) [loss](/en/post/loss/).
-- "[Manage](/en/post/manage/) [risk](/en/post/risk/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) identifying, evaluating, [and](/en/post/and/) controlling [potential](/en/post/potential/) hazards.
-- "[Risk](/en/post/risk/) aversion" refers [to](/en/post/to/) [a](/en/post/a/) [tendency](/en/post/tendency/) [to](/en/post/to/) [avoid](/en/post/avoid/) actions [with](/en/post/with/) [potential](/en/post/potential/) [negative](/en/post/negative/) outcomes.
+- "[Assume](/post/assume/) [the](/post/the/) [risk](/post/risk/)" [means](/post/means/) [to](/post/to/) [accept](/post/accept/) [the](/post/the/) [possibility](/post/possibility/) [of](/post/of/) [danger](/post/danger/) [or](/post/or/) [loss](/post/loss/).
+- "[Manage](/post/manage/) [risk](/post/risk/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) identifying, evaluating, [and](/post/and/) controlling [potential](/post/potential/) hazards.
+- "[Risk](/post/risk/) aversion" refers [to](/post/to/) [a](/post/a/) [tendency](/post/tendency/) [to](/post/to/) [avoid](/post/avoid/) actions [with](/post/with/) [potential](/post/potential/) [negative](/post/negative/) outcomes.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was [willing](/en/post/willing/) [to](/en/post/to/) [take](/en/post/take/) [the](/en/post/the/) [financial](/en/post/financial/) [risk](/en/post/risk/) [to](/en/post/to/) [invest](/en/post/invest/) [in](/en/post/in/) [her](/en/post/her/) [education](/en/post/education/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [team](/en/post/team/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) calculated [risk](/en/post/risk/) [by](/en/post/by/) launching [a](/en/post/a/) [new](/en/post/new/) [product](/en/post/product/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) adventurer was known [for](/en/post/for/) [his](/en/post/his/) willingness [to](/en/post/to/) [take](/en/post/take/) [on](/en/post/on/) risky challenges."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was [willing](/post/willing/) [to](/post/to/) [take](/post/take/) [the](/post/the/) [financial](/post/financial/) [risk](/post/risk/) [to](/post/to/) [invest](/post/invest/) [in](/post/in/) [her](/post/her/) [education](/post/education/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [team](/post/team/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) calculated [risk](/post/risk/) [by](/post/by/) launching [a](/post/a/) [new](/post/new/) [product](/post/product/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) adventurer was known [for](/post/for/) [his](/post/his/) willingness [to](/post/to/) [take](/post/take/) [on](/post/on/) risky challenges."
 
 ## Synonyms
-- [Hazard](/en/post/hazard/)
+- [Hazard](/post/hazard/)
 - Gamble
 - Uncertainty
 - Peril
-- [Exposure](/en/post/exposure/)
+- [Exposure](/post/exposure/)
 
 ## Antonyms
-- [Safety](/en/post/safety/)
-- [Certainty](/en/post/certainty/)
-- [Stability](/en/post/stability/)
+- [Safety](/post/safety/)
+- [Certainty](/post/certainty/)
+- [Stability](/post/stability/)
 - Assurance
-- [Security](/en/post/security/)
+- [Security](/post/security/)

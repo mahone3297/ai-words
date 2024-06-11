@@ -7,30 +7,30 @@ description = '[ˈmedl] n.奖章，勋章，纪念章'
 keywords = ['ai words', 'medal']
 +++
 
-## [Word](/en/post/word/): [Medal](/en/post/medal/)
+## [Word](/post/word/): [Medal](/post/medal/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmedl/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [small](/en/post/small/), [usually](/en/post/usually/) [metal](/en/post/metal/) [object](/en/post/object/) [that](/en/post/that/) is given [as](/en/post/as/) an [award](/en/post/award/) [for](/en/post/for/) [achievement](/en/post/achievement/), bravery, [or](/en/post/or/) [service](/en/post/service/), [often](/en/post/often/) worn suspended [from](/en/post/from/) [a](/en/post/a/) [ribbon](/en/post/ribbon/) [or](/en/post/or/) [chain](/en/post/chain/) [around](/en/post/around/) [the](/en/post/the/) [neck](/en/post/neck/) [or](/en/post/or/) pinned [onto](/en/post/onto/) [clothing](/en/post/clothing/). [Example](/en/post/example/): "[She](/en/post/she/) received [a](/en/post/a/) [gold](/en/post/gold/) [medal](/en/post/medal/) [for](/en/post/for/) [her](/en/post/her/) exceptional [performance](/en/post/performance/) [in](/en/post/in/) [the](/en/post/the/) Olympics."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [small](/post/small/), [usually](/post/usually/) [metal](/post/metal/) [object](/post/object/) [that](/post/that/) is given [as](/post/as/) an [award](/post/award/) [for](/post/for/) [achievement](/post/achievement/), bravery, [or](/post/or/) [service](/post/service/), [often](/post/often/) worn suspended [from](/post/from/) [a](/post/a/) [ribbon](/post/ribbon/) [or](/post/or/) [chain](/post/chain/) [around](/post/around/) [the](/post/the/) [neck](/post/neck/) [or](/post/or/) pinned [onto](/post/onto/) [clothing](/post/clothing/). [Example](/post/example/): "[She](/post/she/) received [a](/post/a/) [gold](/post/gold/) [medal](/post/medal/) [for](/post/for/) [her](/post/her/) exceptional [performance](/post/performance/) [in](/post/in/) [the](/post/the/) Olympics."
 
 ### Phrases
-- "[Win](/en/post/win/) [a](/en/post/a/) [medal](/en/post/medal/)": [To](/en/post/to/) [be](/en/post/be/) awarded [a](/en/post/a/) [medal](/en/post/medal/) [for](/en/post/for/) one's [performance](/en/post/performance/) [or](/en/post/or/) achievements. [Example](/en/post/example/): "[She](/en/post/she/) trained [hard](/en/post/hard/) [every](/en/post/every/) [day](/en/post/day/) [with](/en/post/with/) [the](/en/post/the/) [hope](/en/post/hope/) [of](/en/post/of/) winning [a](/en/post/a/) [medal](/en/post/medal/) [at](/en/post/at/) [the](/en/post/the/) championships."
-- "[Medal](/en/post/medal/) [ceremony](/en/post/ceremony/)": [A](/en/post/a/) [formal](/en/post/formal/) [event](/en/post/event/) [where](/en/post/where/) medals are presented [to](/en/post/to/) [the](/en/post/the/) winners [or](/en/post/or/) recipients. [Example](/en/post/example/): "[The](/en/post/the/) Olympic Games' [most](/en/post/most/) anticipated moments are [the](/en/post/the/) [medal](/en/post/medal/) ceremonies."
-- "[Medal](/en/post/medal/) [of](/en/post/of/) Honor": [The](/en/post/the/) highest [military](/en/post/military/) decoration awarded [by](/en/post/by/) [the](/en/post/the/) United States [government](/en/post/government/) [for](/en/post/for/) acts [of](/en/post/of/) valor [in](/en/post/in/) combat.
+- "[Win](/post/win/) [a](/post/a/) [medal](/post/medal/)": [To](/post/to/) [be](/post/be/) awarded [a](/post/a/) [medal](/post/medal/) [for](/post/for/) one's [performance](/post/performance/) [or](/post/or/) achievements. [Example](/post/example/): "[She](/post/she/) trained [hard](/post/hard/) [every](/post/every/) [day](/post/day/) [with](/post/with/) [the](/post/the/) [hope](/post/hope/) [of](/post/of/) winning [a](/post/a/) [medal](/post/medal/) [at](/post/at/) [the](/post/the/) championships."
+- "[Medal](/post/medal/) [ceremony](/post/ceremony/)": [A](/post/a/) [formal](/post/formal/) [event](/post/event/) [where](/post/where/) medals are presented [to](/post/to/) [the](/post/the/) winners [or](/post/or/) recipients. [Example](/post/example/): "[The](/post/the/) Olympic Games' [most](/post/most/) anticipated moments are [the](/post/the/) [medal](/post/medal/) ceremonies."
+- "[Medal](/post/medal/) [of](/post/of/) Honor": [The](/post/the/) highest [military](/post/military/) decoration awarded [by](/post/by/) [the](/post/the/) United States [government](/post/government/) [for](/post/for/) acts [of](/post/of/) valor [in](/post/in/) combat.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [veteran](/en/post/veteran/) proudly displayed [his](/en/post/his/) [collection](/en/post/collection/) [of](/en/post/of/) medals [from](/en/post/from/) [his](/en/post/his/) [time](/en/post/time/) [in](/en/post/in/) [the](/en/post/the/) [service](/en/post/service/)."
-- "[After](/en/post/after/) years [of](/en/post/of/) dedication, [he](/en/post/he/) [finally](/en/post/finally/) got [to](/en/post/to/) [stand](/en/post/stand/) [on](/en/post/on/) [the](/en/post/the/) podium [and](/en/post/and/) [receive](/en/post/receive/) [his](/en/post/his/) well-deserved [gold](/en/post/gold/) [medal](/en/post/medal/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [veteran](/post/veteran/) proudly displayed [his](/post/his/) [collection](/post/collection/) [of](/post/of/) medals [from](/post/from/) [his](/post/his/) [time](/post/time/) [in](/post/in/) [the](/post/the/) [service](/post/service/)."
+- "[After](/post/after/) years [of](/post/of/) dedication, [he](/post/he/) [finally](/post/finally/) got [to](/post/to/) [stand](/post/stand/) [on](/post/on/) [the](/post/the/) podium [and](/post/and/) [receive](/post/receive/) [his](/post/his/) well-deserved [gold](/post/gold/) [medal](/post/medal/)."
 
 ## Synonyms
-- [Award](/en/post/award/)
+- [Award](/post/award/)
 - Decoration
-- [Prize](/en/post/prize/)
+- [Prize](/post/prize/)
 - Accolade
 - Citation
-- [Ribbon](/en/post/ribbon/)
+- [Ribbon](/post/ribbon/)
 - Trophy
-- Badge [of](/en/post/of/) honor
+- Badge [of](/post/of/) honor
 - Commemorative plaque

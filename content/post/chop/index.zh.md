@@ -11,20 +11,20 @@ keywords = ['ai words', 'chop']
 /chɒp/
 
 ## 释义
-- **动词**: 用刀用力切，剁。例如: "[He](/post/he/) chopped [the](/post/the/) [wood](/post/wood/) [into](/post/into/) [small](/post/small/) pieces."
-- **名词**: 切下的部分，剁碎的食物。例如: "[She](/post/she/) served [a](/post/a/) [delicious](/post/delicious/) [dish](/post/dish/) [with](/post/with/) [fresh](/post/fresh/) [vegetable](/post/vegetable/) chops."
+- **动词**: 用刀用力切，剁。例如: "[He](/zh/post/he/) chopped [the](/zh/post/the/) [wood](/zh/post/wood/) [into](/zh/post/into/) [small](/zh/post/small/) pieces."
+- **名词**: 切下的部分，剁碎的食物。例如: "[She](/zh/post/she/) served [a](/zh/post/a/) [delicious](/zh/post/delicious/) [dish](/zh/post/dish/) [with](/zh/post/with/) [fresh](/zh/post/fresh/) [vegetable](/zh/post/vegetable/) chops."
 
 ## 短语
-- "[Chop](/post/chop/) [down](/post/down/)" 意为砍倒（树木）。
-- "[Chop](/post/chop/) [up](/post/up/)" 意为切碎，剁细。例如: "[Chop](/post/chop/) [the](/post/the/) [onion](/post/onion/) [and](/post/and/) garlic [before](/post/before/) sautéing [them](/post/them/)."
+- "[Chop](/zh/post/chop/) [down](/zh/post/down/)" 意为砍倒（树木）。
+- "[Chop](/zh/post/chop/) [up](/zh/post/up/)" 意为切碎，剁细。例如: "[Chop](/zh/post/chop/) [the](/zh/post/the/) [onion](/zh/post/onion/) [and](/zh/post/and/) garlic [before](/zh/post/before/) sautéing [them](/zh/post/them/)."
 
 ## 例句
-- 动词: "[The](/post/the/) chef skillfully chopped [the](/post/the/) carrots [into](/post/into/) [uniform](/post/uniform/) pieces."
-- 名词: "[The](/post/the/) [baby](/post/baby/) enjoyed eating [the](/post/the/) [pork](/post/pork/) chops [for](/post/for/) [dinner](/post/dinner/)."
+- 动词: "[The](/zh/post/the/) chef skillfully chopped [the](/zh/post/the/) carrots [into](/zh/post/into/) [uniform](/zh/post/uniform/) pieces."
+- 名词: "[The](/zh/post/the/) [baby](/zh/post/baby/) enjoyed eating [the](/zh/post/the/) [pork](/zh/post/pork/) chops [for](/zh/post/for/) [dinner](/zh/post/dinner/)."
 
 ## 同义词
-- [Cut](/post/cut/)
-- [Slice](/post/slice/)
+- [Cut](/zh/post/cut/)
+- [Slice](/zh/post/slice/)
 - Dice
 - Mince
 - Hack

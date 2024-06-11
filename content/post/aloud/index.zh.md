@@ -11,16 +11,16 @@ keywords = ['ai words', 'aloud']
 /əˈlaʊd/
 
 ## 释义
-- **副词**: 大声地，出声地，让别人能听见。例如: "[Read](/post/read/) [the](/post/the/) [text](/post/text/) [aloud](/post/aloud/) [so](/post/so/) [we](/post/we/) [can](/post/can/) [all](/post/all/) [hear](/post/hear/) [it](/post/it/)."
-- **形容词**: 公开的，大声的。例如: "[The](/post/the/) speaker's [voice](/post/voice/) was [so](/post/so/) [loud](/post/loud/) [that](/post/that/) [it](/post/it/) [could](/post/could/) [be](/post/be/) heard [aloud](/post/aloud/) [in](/post/in/) [the](/post/the/) [next](/post/next/) [room](/post/room/)."
+- **副词**: 大声地，出声地，让别人能听见。例如: "[Read](/zh/post/read/) [the](/zh/post/the/) [text](/zh/post/text/) [aloud](/zh/post/aloud/) [so](/zh/post/so/) [we](/zh/post/we/) [can](/zh/post/can/) [all](/zh/post/all/) [hear](/zh/post/hear/) [it](/zh/post/it/)."
+- **形容词**: 公开的，大声的。例如: "[The](/zh/post/the/) speaker's [voice](/zh/post/voice/) was [so](/zh/post/so/) [loud](/zh/post/loud/) [that](/zh/post/that/) [it](/zh/post/it/) [could](/zh/post/could/) [be](/zh/post/be/) heard [aloud](/zh/post/aloud/) [in](/zh/post/in/) [the](/zh/post/the/) [next](/zh/post/next/) [room](/zh/post/room/)."
 
 ## 短语
-- "[Speak](/post/speak/) [aloud](/post/aloud/)" 意味着说话要让别人能听见。
-- "[Aloud](/post/aloud/) [reading](/post/reading/)" 指大声朗读。
+- "[Speak](/zh/post/speak/) [aloud](/zh/post/aloud/)" 意味着说话要让别人能听见。
+- "[Aloud](/zh/post/aloud/) [reading](/zh/post/reading/)" 指大声朗读。
 
 ## 例句
-- 副词: "[The](/post/the/) [teacher](/post/teacher/) asked [us](/post/us/) [to](/post/to/) [read](/post/read/) [the](/post/the/) [poem](/post/poem/) [aloud](/post/aloud/) [in](/post/in/) [class](/post/class/)."
-- 形容词: "[Her](/post/her/) [laughter](/post/laughter/) was [so](/post/so/) [aloud](/post/aloud/) [that](/post/that/) [it](/post/it/) echoed [through](/post/through/) [the](/post/the/) hallway."
+- 副词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) asked [us](/zh/post/us/) [to](/zh/post/to/) [read](/zh/post/read/) [the](/zh/post/the/) [poem](/zh/post/poem/) [aloud](/zh/post/aloud/) [in](/zh/post/in/) [class](/zh/post/class/)."
+- 形容词: "[Her](/zh/post/her/) [laughter](/zh/post/laughter/) was [so](/zh/post/so/) [aloud](/zh/post/aloud/) [that](/zh/post/that/) [it](/zh/post/it/) echoed [through](/zh/post/through/) [the](/zh/post/the/) hallway."
 
 ## 同义词
 - loudly

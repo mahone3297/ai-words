@@ -8,34 +8,34 @@ keywords = ['ai words', 'step']
 +++
 
 ## 读音
-/[step](/post/step/)/
+/[step](/zh/post/step/)/
 
 ## 释义
 - **名词**:
-  1. 脚步；步子：[A](/post/a/) [movement](/post/movement/) made [by](/post/by/) lifting [one](/post/one/) [foot](/post/foot/) [off](/post/off/) [the](/post/the/) [ground](/post/ground/) [and](/post/and/) [setting](/post/setting/) [it](/post/it/) [down](/post/down/) [again](/post/again/) [in](/post/in/) [a](/post/a/) [new](/post/new/) [position](/post/position/), [as](/post/as/) [in](/post/in/) walking [or](/post/or/) dancing.
-  2. （楼梯的）级：[One](/post/one/) [of](/post/of/) [a](/post/a/) [series](/post/series/) [of](/post/of/) risers [and](/post/and/) treads [that](/post/that/) [form](/post/form/) [a](/post/a/) [flight](/post/flight/) [of](/post/of/) stairs.
+  1. 脚步；步子：[A](/zh/post/a/) [movement](/zh/post/movement/) made [by](/zh/post/by/) lifting [one](/zh/post/one/) [foot](/zh/post/foot/) [off](/zh/post/off/) [the](/zh/post/the/) [ground](/zh/post/ground/) [and](/zh/post/and/) [setting](/zh/post/setting/) [it](/zh/post/it/) [down](/zh/post/down/) [again](/zh/post/again/) [in](/zh/post/in/) [a](/zh/post/a/) [new](/zh/post/new/) [position](/zh/post/position/), [as](/zh/post/as/) [in](/zh/post/in/) walking [or](/zh/post/or/) dancing.
+  2. （楼梯的）级：[One](/zh/post/one/) [of](/zh/post/of/) [a](/zh/post/a/) [series](/zh/post/series/) [of](/zh/post/of/) risers [and](/zh/post/and/) treads [that](/zh/post/that/) [form](/zh/post/form/) [a](/zh/post/a/) [flight](/zh/post/flight/) [of](/zh/post/of/) stairs.
 
 - **动词**:
-  1. 踏出，行走：[To](/post/to/) [move](/post/move/) [by](/post/by/) lifting [and](/post/and/) [setting](/post/setting/) [down](/post/down/) one's [foot](/post/foot/).
-  2. （舞蹈中）迈步，跳：[To](/post/to/) [perform](/post/perform/) [a](/post/a/) [step](/post/step/) [or](/post/or/) [series](/post/series/) [of](/post/of/) steps [in](/post/in/) [a](/post/a/) [dance](/post/dance/).
+  1. 踏出，行走：[To](/zh/post/to/) [move](/zh/post/move/) [by](/zh/post/by/) lifting [and](/zh/post/and/) [setting](/zh/post/setting/) [down](/zh/post/down/) one's [foot](/zh/post/foot/).
+  2. （舞蹈中）迈步，跳：[To](/zh/post/to/) [perform](/zh/post/perform/) [a](/zh/post/a/) [step](/zh/post/step/) [or](/zh/post/or/) [series](/zh/post/series/) [of](/zh/post/of/) steps [in](/zh/post/in/) [a](/zh/post/a/) [dance](/zh/post/dance/).
 
 - **形容词**:
-  1. 步行的，与脚步有关的：Relating [to](/post/to/) [or](/post/or/) involving stepping [or](/post/or/) walking.
-  2. 进行中的，逐步的：Done [or](/post/or/) happening [in](/post/in/) [a](/post/a/) [series](/post/series/) [of](/post/of/) stages.
+  1. 步行的，与脚步有关的：Relating [to](/zh/post/to/) [or](/zh/post/or/) involving stepping [or](/zh/post/or/) walking.
+  2. 进行中的，逐步的：Done [or](/zh/post/or/) happening [in](/zh/post/in/) [a](/zh/post/a/) [series](/zh/post/series/) [of](/zh/post/of/) stages.
 
 ## 短语
-- "[on](/post/on/) [the](/post/the/) [step](/post/step/)" 指台阶上或门口。
-- "[step](/post/step/) [up](/post/up/)" 意为增加努力或提高速度。
-- "[step](/post/step/) [in](/post/in/)" 表示介入或接手某个情况。
+- "[on](/zh/post/on/) [the](/zh/post/the/) [step](/zh/post/step/)" 指台阶上或门口。
+- "[step](/zh/post/step/) [up](/zh/post/up/)" 意为增加努力或提高速度。
+- "[step](/zh/post/step/) [in](/zh/post/in/)" 表示介入或接手某个情况。
 
 ## 例句
-- 名词: "[He](/post/he/) climbed [up](/post/up/) [ten](/post/ten/) steps [before](/post/before/) reaching [the](/post/the/) [landing](/post/landing/)."
-- 动词: "[She](/post/she/) stepped [lightly](/post/lightly/) [across](/post/across/) [the](/post/the/) [room](/post/room/) [to](/post/to/) [avoid](/post/avoid/) waking [the](/post/the/) [baby](/post/baby/)."
-- 形容词: "[The](/post/the/) [project](/post/project/) is [in](/post/in/) [its](/post/its/) [first](/post/first/) [step](/post/step/), [so](/post/so/) [we](/post/we/) [need](/post/need/) [to](/post/to/) [be](/post/be/) [patient](/post/patient/)."
+- 名词: "[He](/zh/post/he/) climbed [up](/zh/post/up/) [ten](/zh/post/ten/) steps [before](/zh/post/before/) reaching [the](/zh/post/the/) [landing](/zh/post/landing/)."
+- 动词: "[She](/zh/post/she/) stepped [lightly](/zh/post/lightly/) [across](/zh/post/across/) [the](/zh/post/the/) [room](/zh/post/room/) [to](/zh/post/to/) [avoid](/zh/post/avoid/) waking [the](/zh/post/the/) [baby](/zh/post/baby/)."
+- 形容词: "[The](/zh/post/the/) [project](/zh/post/project/) is [in](/zh/post/in/) [its](/zh/post/its/) [first](/zh/post/first/) [step](/zh/post/step/), [so](/zh/post/so/) [we](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [be](/zh/post/be/) [patient](/zh/post/patient/)."
 
 ## 同义词
 - Stride
-- [Pace](/post/pace/)
+- [Pace](/zh/post/pace/)
 - Footfall
 - Tread
-- [Movement](/post/movement/) ([in](/post/in/) context [of](/post/of/) walking)
+- [Movement](/zh/post/movement/) ([in](/zh/post/in/) context [of](/zh/post/of/) walking)

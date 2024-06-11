@@ -11,20 +11,20 @@ keywords = ['ai words', 'too']
 /toʊ/
 
 ## 释义
-- **副词**: 表示程度，意为“也，太，非常”。例如: "It's [too](/post/too/) [cold](/post/cold/) [to](/post/to/) [go](/post/go/) [outside](/post/outside/)."（外面太冷了，不能出去。）
-- **连词**: 用于连接两个具有相同成分的句子或短语，表示“也”。例如: "I [like](/post/like/) [coffee](/post/coffee/), [too](/post/too/)."（我也喜欢咖啡。）
+- **副词**: 表示程度，意为“也，太，非常”。例如: "It's [too](/zh/post/too/) [cold](/zh/post/cold/) [to](/zh/post/to/) [go](/zh/post/go/) [outside](/zh/post/outside/)."（外面太冷了，不能出去。）
+- **连词**: 用于连接两个具有相同成分的句子或短语，表示“也”。例如: "I [like](/zh/post/like/) [coffee](/zh/post/coffee/), [too](/zh/post/too/)."（我也喜欢咖啡。）
 
 ## 短语
-- "[too](/post/too/) [much](/post/much/)" 意为“太多”，常用来形容数量或程度超出需要或接受范围。
-- "[too](/post/too/) [little](/post/little/)" 意为“太少”，表示不足或不够。
+- "[too](/zh/post/too/) [much](/zh/post/much/)" 意为“太多”，常用来形容数量或程度超出需要或接受范围。
+- "[too](/zh/post/too/) [little](/zh/post/little/)" 意为“太少”，表示不足或不够。
 
 ## 例句
-- 副词: "[This](/post/this/) [cake](/post/cake/) is [too](/post/too/) [sweet](/post/sweet/) [for](/post/for/) [my](/post/my/) [taste](/post/taste/)."（这蛋糕对我来说太甜了。）
-- 连词: "I [like](/post/like/) [reading](/post/reading/), [too](/post/too/)."（我也喜欢阅读。）
+- 副词: "[This](/zh/post/this/) [cake](/zh/post/cake/) is [too](/zh/post/too/) [sweet](/zh/post/sweet/) [for](/zh/post/for/) [my](/zh/post/my/) [taste](/zh/post/taste/)."（这蛋糕对我来说太甜了。）
+- 连词: "I [like](/zh/post/like/) [reading](/zh/post/reading/), [too](/zh/post/too/)."（我也喜欢阅读。）
 
 ## 同义词
-- [also](/post/also/)
-- [as](/post/as/) [well](/post/well/)
-- [rather](/post/rather/)
+- [also](/zh/post/also/)
+- [as](/zh/post/as/) [well](/zh/post/well/)
+- [rather](/zh/post/rather/)
 - overly
 - excessively

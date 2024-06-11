@@ -7,46 +7,46 @@ description = '[ˈteritəri] n.领土，版图；领域'
 keywords = ['ai words', 'territory']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈterɪtɔri/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [region](/en/post/region/) [or](/en/post/or/) [area](/en/post/area/), [especially](/en/post/especially/) [one](/en/post/one/) controlled [or](/en/post/or/) claimed [by](/en/post/by/) [a](/en/post/a/) [particular](/en/post/particular/) [nation](/en/post/nation/) [or](/en/post/or/) [group](/en/post/group/), [with](/en/post/with/) [its](/en/post/its/) [own](/en/post/own/) [distinct](/en/post/distinct/) boundaries [and](/en/post/and/) characteristics.
-   - [Example](/en/post/example/): "[The](/en/post/the/) Amazon rainforest is [a](/en/post/a/) [vast](/en/post/vast/) [territory](/en/post/territory/) [rich](/en/post/rich/) [in](/en/post/in/) biodiversity."
-2. [The](/en/post/the/) [extent](/en/post/extent/) [or](/en/post/or/) [range](/en/post/range/) [of](/en/post/of/) [power](/en/post/power/) [or](/en/post/or/) [authority](/en/post/authority/) [over](/en/post/over/) [something](/en/post/something/).
-   - [Example](/en/post/example/): "[His](/en/post/his/) diplomatic [territory](/en/post/territory/) extended [beyond](/en/post/beyond/) [the](/en/post/the/) borders [of](/en/post/of/) [his](/en/post/his/) [country](/en/post/country/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [region](/post/region/) [or](/post/or/) [area](/post/area/), [especially](/post/especially/) [one](/post/one/) controlled [or](/post/or/) claimed [by](/post/by/) [a](/post/a/) [particular](/post/particular/) [nation](/post/nation/) [or](/post/or/) [group](/post/group/), [with](/post/with/) [its](/post/its/) [own](/post/own/) [distinct](/post/distinct/) boundaries [and](/post/and/) characteristics.
+   - [Example](/post/example/): "[The](/post/the/) Amazon rainforest is [a](/post/a/) [vast](/post/vast/) [territory](/post/territory/) [rich](/post/rich/) [in](/post/in/) biodiversity."
+2. [The](/post/the/) [extent](/post/extent/) [or](/post/or/) [range](/post/range/) [of](/post/of/) [power](/post/power/) [or](/post/or/) [authority](/post/authority/) [over](/post/over/) [something](/post/something/).
+   - [Example](/post/example/): "[His](/post/his/) diplomatic [territory](/post/territory/) extended [beyond](/post/beyond/) [the](/post/the/) borders [of](/post/of/) [his](/post/his/) [country](/post/country/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [control](/en/post/control/) [or](/en/post/or/) [have](/en/post/have/) dominion [over](/en/post/over/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/) [or](/en/post/or/) [region](/en/post/region/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) explorer charted [new](/en/post/new/) territories [for](/en/post/for/) [the](/en/post/the/) [empire](/en/post/empire/)."
-2. [To](/en/post/to/) [claim](/en/post/claim/) [or](/en/post/or/) [establish](/en/post/establish/) [a](/en/post/a/) [claim](/en/post/claim/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [area](/en/post/area/) [or](/en/post/or/) [subject](/en/post/subject/) [matter](/en/post/matter/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) has been expanding [its](/en/post/its/) territorial [reach](/en/post/reach/) [in](/en/post/in/) [the](/en/post/the/) tech [market](/en/post/market/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [control](/post/control/) [or](/post/or/) [have](/post/have/) dominion [over](/post/over/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/) [or](/post/or/) [region](/post/region/).
+   - [Example](/post/example/): "[The](/post/the/) explorer charted [new](/post/new/) territories [for](/post/for/) [the](/post/the/) [empire](/post/empire/)."
+2. [To](/post/to/) [claim](/post/claim/) [or](/post/or/) [establish](/post/establish/) [a](/post/a/) [claim](/post/claim/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [area](/post/area/) [or](/post/or/) [subject](/post/subject/) [matter](/post/matter/).
+   - [Example](/post/example/): "[The](/post/the/) [company](/post/company/) has been expanding [its](/post/its/) territorial [reach](/post/reach/) [in](/post/in/) [the](/post/the/) tech [market](/post/market/)."
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [region](/en/post/region/) [or](/en/post/or/) [place](/en/post/place/), [often](/en/post/often/) marked [by](/en/post/by/) cultural [or](/en/post/or/) [historical](/en/post/historical/) [significance](/en/post/significance/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [architecture](/en/post/architecture/) [of](/en/post/of/) [the](/en/post/the/) [region](/en/post/region/) is distinctive [and](/en/post/and/) [unique](/en/post/unique/) [to](/en/post/to/) [its](/en/post/its/) [territory](/en/post/territory/)."
-2. Pertaining [to](/en/post/to/) [the](/en/post/the/) rights [or](/en/post/or/) jurisdiction [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) entity.
-   - [Example](/en/post/example/): "[The](/en/post/the/) territorial waters [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/) [extend](/en/post/extend/) [up](/en/post/up/) [to](/en/post/to/) 12 miles [from](/en/post/from/) [its](/en/post/its/) [shore](/en/post/shore/)."
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [region](/post/region/) [or](/post/or/) [place](/post/place/), [often](/post/often/) marked [by](/post/by/) cultural [or](/post/or/) [historical](/post/historical/) [significance](/post/significance/).
+   - [Example](/post/example/): "[The](/post/the/) [architecture](/post/architecture/) [of](/post/of/) [the](/post/the/) [region](/post/region/) is distinctive [and](/post/and/) [unique](/post/unique/) [to](/post/to/) [its](/post/its/) [territory](/post/territory/)."
+2. Pertaining [to](/post/to/) [the](/post/the/) rights [or](/post/or/) jurisdiction [of](/post/of/) [a](/post/a/) [particular](/post/particular/) entity.
+   - [Example](/post/example/): "[The](/post/the/) territorial waters [of](/post/of/) [a](/post/a/) [country](/post/country/) [extend](/post/extend/) [up](/post/up/) [to](/post/to/) 12 miles [from](/post/from/) [its](/post/its/) [shore](/post/shore/)."
 
 ## Phrases
-- "[Secure](/en/post/secure/) [the](/en/post/the/) territorial integrity" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) [the](/en/post/the/) undivided [control](/en/post/control/) [of](/en/post/of/) [a](/en/post/a/) [region](/en/post/region/).
-- "Expanding territorial claims" refers [to](/en/post/to/) [the](/en/post/the/) growing [demand](/en/post/demand/) [for](/en/post/for/) [land](/en/post/land/) [or](/en/post/or/) [territory](/en/post/territory/).
-- "[Historical](/en/post/historical/) territorial disputes" denote disagreements [over](/en/post/over/) [land](/en/post/land/) [ownership](/en/post/ownership/) [or](/en/post/or/) [control](/en/post/control/).
+- "[Secure](/post/secure/) [the](/post/the/) territorial integrity" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) [the](/post/the/) undivided [control](/post/control/) [of](/post/of/) [a](/post/a/) [region](/post/region/).
+- "Expanding territorial claims" refers [to](/post/to/) [the](/post/the/) growing [demand](/post/demand/) [for](/post/for/) [land](/post/land/) [or](/post/or/) [territory](/post/territory/).
+- "[Historical](/post/historical/) territorial disputes" denote disagreements [over](/post/over/) [land](/post/land/) [ownership](/post/ownership/) [or](/post/or/) [control](/post/control/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) country's [northern](/en/post/northern/) [territory](/en/post/territory/) is known [for](/en/post/for/) [its](/en/post/its/) pristine wilderness."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [war](/en/post/war/), [the](/en/post/the/) [victorious](/en/post/victorious/) [side](/en/post/side/) gained [control](/en/post/control/) [of](/en/post/of/) [the](/en/post/the/) enemy's [territory](/en/post/territory/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) territorial [map](/en/post/map/) was updated [to](/en/post/to/) [reflect](/en/post/reflect/) [the](/en/post/the/) [recent](/en/post/recent/) changes."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) country's [northern](/post/northern/) [territory](/post/territory/) is known [for](/post/for/) [its](/post/its/) pristine wilderness."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [war](/post/war/), [the](/post/the/) [victorious](/post/victorious/) [side](/post/side/) gained [control](/post/control/) [of](/post/of/) [the](/post/the/) enemy's [territory](/post/territory/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) territorial [map](/post/map/) was updated [to](/post/to/) [reflect](/post/reflect/) [the](/post/the/) [recent](/post/recent/) changes."
 
 ## Synonyms
 - Domain
 -管辖区域
-- [Territory](/en/post/territory/) (adj.) (British English)
-- [Region](/en/post/region/)
-- [Province](/en/post/province/)
+- [Territory](/post/territory/) (adj.) (British English)
+- [Region](/post/region/)
+- [Province](/post/province/)
 -管辖地
-- [Sphere](/en/post/sphere/) [of](/en/post/of/) [influence](/en/post/influence/)
-- [Control](/en/post/control/)
+- [Sphere](/post/sphere/) [of](/post/of/) [influence](/post/influence/)
+- [Control](/post/control/)
 - Jurisdiction
-- [Realm](/en/post/realm/)
+- [Realm](/post/realm/)

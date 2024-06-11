@@ -7,43 +7,43 @@ description = '[ˈt∫ænl] n.海峡；渠道；频道'
 keywords = ['ai words', 'channel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃænəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [continuous](/en/post/continuous/) [flow](/en/post/flow/) [or](/en/post/or/) [passage](/en/post/passage/), [often](/en/post/often/) [of](/en/post/of/) [water](/en/post/water/), [air](/en/post/air/), [or](/en/post/or/) [communication](/en/post/communication/): "[The](/en/post/the/) [river](/en/post/river/) flows [through](/en/post/through/) [the](/en/post/the/) [narrow](/en/post/narrow/) [channel](/en/post/channel/)."
-2. [A](/en/post/a/) dedicated [path](/en/post/path/) [or](/en/post/or/) [frequency](/en/post/frequency/) [on](/en/post/on/) [a](/en/post/a/) [communication](/en/post/communication/) [system](/en/post/system/): "[The](/en/post/the/) [television](/en/post/television/) [signal](/en/post/signal/) travels [through](/en/post/through/) [satellite](/en/post/satellite/) channels."
-3. [A](/en/post/a/) [channel](/en/post/channel/) [in](/en/post/in/) [a](/en/post/a/) [television](/en/post/television/) [or](/en/post/or/) internet streaming [service](/en/post/service/): "Netflix has [a](/en/post/a/) [wide](/en/post/wide/) [variety](/en/post/variety/) [of](/en/post/of/) [original](/en/post/original/) [content](/en/post/content/) [on](/en/post/on/) [its](/en/post/its/) [platform](/en/post/platform/)."
-4. [A](/en/post/a/) specialized [area](/en/post/area/) [of](/en/post/of/) [interest](/en/post/interest/) [or](/en/post/or/) expertise: "[He](/en/post/he/) has [a](/en/post/a/) [talent](/en/post/talent/) [for](/en/post/for/) marketing [and](/en/post/and/) operates [in](/en/post/in/) [the](/en/post/the/) advertising [channel](/en/post/channel/)."
-5. An [underground](/en/post/underground/) passageway [or](/en/post/or/) [tunnel](/en/post/tunnel/): "Archaeologists discovered an [ancient](/en/post/ancient/) irrigation [channel](/en/post/channel/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [continuous](/post/continuous/) [flow](/post/flow/) [or](/post/or/) [passage](/post/passage/), [often](/post/often/) [of](/post/of/) [water](/post/water/), [air](/post/air/), [or](/post/or/) [communication](/post/communication/): "[The](/post/the/) [river](/post/river/) flows [through](/post/through/) [the](/post/the/) [narrow](/post/narrow/) [channel](/post/channel/)."
+2. [A](/post/a/) dedicated [path](/post/path/) [or](/post/or/) [frequency](/post/frequency/) [on](/post/on/) [a](/post/a/) [communication](/post/communication/) [system](/post/system/): "[The](/post/the/) [television](/post/television/) [signal](/post/signal/) travels [through](/post/through/) [satellite](/post/satellite/) channels."
+3. [A](/post/a/) [channel](/post/channel/) [in](/post/in/) [a](/post/a/) [television](/post/television/) [or](/post/or/) internet streaming [service](/post/service/): "Netflix has [a](/post/a/) [wide](/post/wide/) [variety](/post/variety/) [of](/post/of/) [original](/post/original/) [content](/post/content/) [on](/post/on/) [its](/post/its/) [platform](/post/platform/)."
+4. [A](/post/a/) specialized [area](/post/area/) [of](/post/of/) [interest](/post/interest/) [or](/post/or/) expertise: "[He](/post/he/) has [a](/post/a/) [talent](/post/talent/) [for](/post/for/) marketing [and](/post/and/) operates [in](/post/in/) [the](/post/the/) advertising [channel](/post/channel/)."
+5. An [underground](/post/underground/) passageway [or](/post/or/) [tunnel](/post/tunnel/): "Archaeologists discovered an [ancient](/post/ancient/) irrigation [channel](/post/channel/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [convey](/en/post/convey/) ([information](/en/post/information/)) [through](/en/post/through/) [a](/en/post/a/) [particular](/en/post/particular/) [medium](/en/post/medium/) [or](/en/post/or/) [channel](/en/post/channel/): "[The](/en/post/the/) [news](/en/post/news/) was [broadcast](/en/post/broadcast/) [on](/en/post/on/) [several](/en/post/several/) channels."
-2. [To](/en/post/to/) [direct](/en/post/direct/) [or](/en/post/or/) [guide](/en/post/guide/) [something](/en/post/something/) [along](/en/post/along/) [a](/en/post/a/) [specific](/en/post/specific/) [path](/en/post/path/): "[The](/en/post/the/) [teacher](/en/post/teacher/) helped students [channel](/en/post/channel/) [their](/en/post/their/) creativity."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [convey](/post/convey/) ([information](/post/information/)) [through](/post/through/) [a](/post/a/) [particular](/post/particular/) [medium](/post/medium/) [or](/post/or/) [channel](/post/channel/): "[The](/post/the/) [news](/post/news/) was [broadcast](/post/broadcast/) [on](/post/on/) [several](/post/several/) channels."
+2. [To](/post/to/) [direct](/post/direct/) [or](/post/or/) [guide](/post/guide/) [something](/post/something/) [along](/post/along/) [a](/post/a/) [specific](/post/specific/) [path](/post/path/): "[The](/post/the/) [teacher](/post/teacher/) helped students [channel](/post/channel/) [their](/post/their/) creativity."
 
-### [Adjective](/en/post/adjective/)
-1. Designating [a](/en/post/a/) [means](/en/post/means/) [of](/en/post/of/) [communication](/en/post/communication/) [or](/en/post/or/) [transmission](/en/post/transmission/): "[The](/en/post/the/) [wireless](/en/post/wireless/) [channel](/en/post/channel/) had [a](/en/post/a/) [weak](/en/post/weak/) [signal](/en/post/signal/)."
-2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [medium](/en/post/medium/) [or](/en/post/or/) [method](/en/post/method/): "[A](/en/post/a/) printmaking [channel](/en/post/channel/) is [visible](/en/post/visible/) [on](/en/post/on/) [the](/en/post/the/) artist's [canvas](/en/post/canvas/)."
+### [Adjective](/post/adjective/)
+1. Designating [a](/post/a/) [means](/post/means/) [of](/post/of/) [communication](/post/communication/) [or](/post/or/) [transmission](/post/transmission/): "[The](/post/the/) [wireless](/post/wireless/) [channel](/post/channel/) had [a](/post/a/) [weak](/post/weak/) [signal](/post/signal/)."
+2. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [medium](/post/medium/) [or](/post/or/) [method](/post/method/): "[A](/post/a/) printmaking [channel](/post/channel/) is [visible](/post/visible/) [on](/post/on/) [the](/post/the/) artist's [canvas](/post/canvas/)."
 
 ## Phrases
-- "[Broadcast](/en/post/broadcast/) [through](/en/post/through/) [various](/en/post/various/) channels"
-- "Optimize [your](/en/post/your/) [message](/en/post/message/) [for](/en/post/for/) [social](/en/post/social/) media channels"
-- "[Keep](/en/post/keep/) an [eye](/en/post/eye/) [on](/en/post/on/) [the](/en/post/the/) [weather](/en/post/weather/) [channel](/en/post/channel/)"
+- "[Broadcast](/post/broadcast/) [through](/post/through/) [various](/post/various/) channels"
+- "Optimize [your](/post/your/) [message](/post/message/) [for](/post/for/) [social](/post/social/) media channels"
+- "[Keep](/post/keep/) an [eye](/post/eye/) [on](/post/on/) [the](/post/the/) [weather](/post/weather/) [channel](/post/channel/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [storm](/en/post/storm/) surge created [a](/en/post/a/) [dangerous](/en/post/dangerous/) [channel](/en/post/channel/) [between](/en/post/between/) [the](/en/post/the/) houses."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) chef expertly channelled [the](/en/post/the/) [sauce](/en/post/sauce/) [onto](/en/post/onto/) [the](/en/post/the/) [plate](/en/post/plate/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [radio](/en/post/radio/) station's [signal](/en/post/signal/) was [clear](/en/post/clear/) [on](/en/post/on/) [the](/en/post/the/) FM [channel](/en/post/channel/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [storm](/post/storm/) surge created [a](/post/a/) [dangerous](/post/dangerous/) [channel](/post/channel/) [between](/post/between/) [the](/post/the/) houses."
+- **[Verb](/post/verb/)**: "[The](/post/the/) chef expertly channelled [the](/post/the/) [sauce](/post/sauce/) [onto](/post/onto/) [the](/post/the/) [plate](/post/plate/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [radio](/post/radio/) station's [signal](/post/signal/) was [clear](/post/clear/) [on](/post/on/) [the](/post/the/) FM [channel](/post/channel/)."
 
 ## Synonyms
-- [Tube](/en/post/tube/)
-- [Stream](/en/post/stream/)
-- [Route](/en/post/route/)
-- [Avenue](/en/post/avenue/)
-- [Path](/en/post/path/)
-- [Communication](/en/post/communication/) [link](/en/post/link/)
-- [Transmission](/en/post/transmission/) [medium](/en/post/medium/)
-- [Platform](/en/post/platform/)
-- [Frequency](/en/post/frequency/)
+- [Tube](/post/tube/)
+- [Stream](/post/stream/)
+- [Route](/post/route/)
+- [Avenue](/post/avenue/)
+- [Path](/post/path/)
+- [Communication](/post/communication/) [link](/post/link/)
+- [Transmission](/post/transmission/) [medium](/post/medium/)
+- [Platform](/post/platform/)
+- [Frequency](/post/frequency/)
 - Channelized

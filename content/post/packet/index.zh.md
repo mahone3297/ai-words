@@ -12,20 +12,20 @@ keywords = ['ai words', 'packet']
 
 ## 释义
 - **名词 n**:
-  - 一个小包裹或小袋，通常装有物品或文件。例如: "[She](/post/she/) sent [him](/post/him/) [a](/post/a/) [letter](/post/letter/) [in](/post/in/) [a](/post/a/) [small](/post/small/) [packet](/post/packet/)."
-  - 数据包，在电子通信中，信息被分割成的数据单元。例如: "[The](/post/the/) internet sends [data](/post/data/) [in](/post/in/) packets."
+  - 一个小包裹或小袋，通常装有物品或文件。例如: "[She](/zh/post/she/) sent [him](/zh/post/him/) [a](/zh/post/a/) [letter](/zh/post/letter/) [in](/zh/post/in/) [a](/zh/post/a/) [small](/zh/post/small/) [packet](/zh/post/packet/)."
+  - 数据包，在电子通信中，信息被分割成的数据单元。例如: "[The](/zh/post/the/) internet sends [data](/zh/post/data/) [in](/zh/post/in/) packets."
 
 ## 短语
-- "[data](/post/data/) [packet](/post/packet/)" 在网络通信中指的是数据传输的基本单位。
-- "[packet](/post/packet/) [service](/post/service/)" 提供通过数据包交换网络传输服务。
+- "[data](/zh/post/data/) [packet](/zh/post/packet/)" 在网络通信中指的是数据传输的基本单位。
+- "[packet](/zh/post/packet/) [service](/zh/post/service/)" 提供通过数据包交换网络传输服务。
 
 ## 例句
-- 名词: "[The](/post/the/) [postman](/post/postman/) delivered [a](/post/a/) [packet](/post/packet/) containing [my](/post/my/) [new](/post/new/) shoes."
-- 名词（在网络通信中的用法）: "[The](/post/the/) router handles [the](/post/the/) routing [of](/post/of/) [data](/post/data/) packets [between](/post/between/) networks."
+- 名词: "[The](/zh/post/the/) [postman](/zh/post/postman/) delivered [a](/zh/post/a/) [packet](/zh/post/packet/) containing [my](/zh/post/my/) [new](/zh/post/new/) shoes."
+- 名词（在网络通信中的用法）: "[The](/zh/post/the/) router handles [the](/zh/post/the/) routing [of](/zh/post/of/) [data](/zh/post/data/) packets [between](/zh/post/between/) networks."
 
 ## 同义词
-- [Parcel](/post/parcel/)
-- [Bundle](/post/bundle/)
-- [Container](/post/container/)
-- [Envelope](/post/envelope/) (在邮寄的上下文中)
+- [Parcel](/zh/post/parcel/)
+- [Bundle](/zh/post/bundle/)
+- [Container](/zh/post/container/)
+- [Envelope](/zh/post/envelope/) (在邮寄的上下文中)
 - Datagram (在网络通信中)

@@ -12,20 +12,20 @@ keywords = ['ai words', 'chew']
 
 ## 释义
 - **动词**: 
-    - 咀嚼：将食物在口腔中磨碎。例如: "[He](/post/he/) was chewing [gum](/post/gum/)."
-    - 反复思考，仔细琢磨：对某事深思熟虑。例如: "[She](/post/she/) was chewing [over](/post/over/) [the](/post/the/) [decision](/post/decision/) [all](/post/all/) [day](/post/day/)."
+    - 咀嚼：将食物在口腔中磨碎。例如: "[He](/zh/post/he/) was chewing [gum](/zh/post/gum/)."
+    - 反复思考，仔细琢磨：对某事深思熟虑。例如: "[She](/zh/post/she/) was chewing [over](/zh/post/over/) [the](/zh/post/the/) [decision](/zh/post/decision/) [all](/zh/post/all/) [day](/zh/post/day/)."
 
 ## 短语
-- "[Chew](/post/chew/) [on](/post/on/) [something](/post/something/)" 意味着仔细考虑或反复思考某个问题。
-- "[Chew](/post/chew/) [the](/post/the/) fat" 或 "[Chew](/post/chew/) [the](/post/the/) cud" 是非正式表达，意为闲聊或长时间讨论。
+- "[Chew](/zh/post/chew/) [on](/zh/post/on/) [something](/zh/post/something/)" 意味着仔细考虑或反复思考某个问题。
+- "[Chew](/zh/post/chew/) [the](/zh/post/the/) fat" 或 "[Chew](/zh/post/chew/) [the](/zh/post/the/) cud" 是非正式表达，意为闲聊或长时间讨论。
 
 ## 例句
-- 动词: "[The](/post/the/) [baby](/post/baby/) was [learning](/post/learning/) [how](/post/how/) [to](/post/to/) [chew](/post/chew/) [solid](/post/solid/) [food](/post/food/)."
-- 动词: "[They](/post/they/) spent [the](/post/the/) [evening](/post/evening/) chewing [the](/post/the/) cud, reminiscing [about](/post/about/) [old](/post/old/) times."
+- 动词: "[The](/zh/post/the/) [baby](/zh/post/baby/) was [learning](/zh/post/learning/) [how](/zh/post/how/) [to](/zh/post/to/) [chew](/zh/post/chew/) [solid](/zh/post/solid/) [food](/zh/post/food/)."
+- 动词: "[They](/zh/post/they/) spent [the](/zh/post/the/) [evening](/zh/post/evening/) chewing [the](/zh/post/the/) cud, reminiscing [about](/zh/post/about/) [old](/zh/post/old/) times."
 
 ## 同义词
 - Gnaw
 - Munch
-- [Chew](/post/chew/) [over](/post/over/)
-- [Digest](/post/digest/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) thinking)
-- [Break](/post/break/) [down](/post/down/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [food](/post/food/))
+- [Chew](/zh/post/chew/) [over](/zh/post/over/)
+- [Digest](/zh/post/digest/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) thinking)
+- [Break](/zh/post/break/) [down](/zh/post/down/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [food](/zh/post/food/))

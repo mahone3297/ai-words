@@ -12,27 +12,27 @@ keywords = ['ai words', 'pack']
 
 ## 释义
 - **名词**:
-  - 一包，一捆，一组：[A](/post/a/) [package](/post/package/) [or](/post/or/) [collection](/post/collection/) [of](/post/of/) things wrapped [or](/post/or/) tied [together](/post/together/).
-  - 打包，行李：[The](/post/the/) [act](/post/act/) [of](/post/of/) putting things [into](/post/into/) [a](/post/a/) [bag](/post/bag/) [or](/post/or/) suitcase [for](/post/for/) [travel](/post/travel/).
-  - 产品套装：[A](/post/a/) [set](/post/set/) [of](/post/of/) [goods](/post/goods/) [or](/post/or/) services offered [together](/post/together/) [as](/post/as/) [a](/post/a/) [single](/post/single/) [deal](/post/deal/).
+  - 一包，一捆，一组：[A](/zh/post/a/) [package](/zh/post/package/) [or](/zh/post/or/) [collection](/zh/post/collection/) [of](/zh/post/of/) things wrapped [or](/zh/post/or/) tied [together](/zh/post/together/).
+  - 打包，行李：[The](/zh/post/the/) [act](/zh/post/act/) [of](/zh/post/of/) putting things [into](/zh/post/into/) [a](/zh/post/a/) [bag](/zh/post/bag/) [or](/zh/post/or/) suitcase [for](/zh/post/for/) [travel](/zh/post/travel/).
+  - 产品套装：[A](/zh/post/a/) [set](/zh/post/set/) [of](/zh/post/of/) [goods](/zh/post/goods/) [or](/zh/post/or/) services offered [together](/zh/post/together/) [as](/zh/post/as/) [a](/zh/post/a/) [single](/zh/post/single/) [deal](/zh/post/deal/).
 
 - **动词**:
-  - 打包，装箱：[To](/post/to/) [put](/post/put/) things [into](/post/into/) [a](/post/a/) [container](/post/container/), [especially](/post/especially/) [for](/post/for/) [transport](/post/transport/) [or](/post/or/) [storage](/post/storage/).
-  - 将…做成产品套装：[To](/post/to/) [combine](/post/combine/) items [or](/post/or/) features [into](/post/into/) [a](/post/a/) [single](/post/single/) [product](/post/product/) [or](/post/or/) [offer](/post/offer/).
+  - 打包，装箱：[To](/zh/post/to/) [put](/zh/post/put/) things [into](/zh/post/into/) [a](/zh/post/a/) [container](/zh/post/container/), [especially](/zh/post/especially/) [for](/zh/post/for/) [transport](/zh/post/transport/) [or](/zh/post/or/) [storage](/zh/post/storage/).
+  - 将…做成产品套装：[To](/zh/post/to/) [combine](/zh/post/combine/) items [or](/zh/post/or/) features [into](/zh/post/into/) [a](/zh/post/a/) [single](/zh/post/single/) [product](/zh/post/product/) [or](/zh/post/or/) [offer](/zh/post/offer/).
 
 ## 短语
-- "[pack](/post/pack/) [up](/post/up/)" 意味着收拾行李或整理东西。
-- "[pack](/post/pack/) [a](/post/a/) [punch](/post/punch/)" 表示有力度，影响大：[to](/post/to/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) [effect](/post/effect/) [or](/post/or/) [impact](/post/impact/).
-- "[pack](/post/pack/) [it](/post/it/) [in](/post/in/)" 用于表示放弃或停止做某事：[to](/post/to/) [give](/post/give/) [up](/post/up/) [or](/post/or/) [stop](/post/stop/) doing [something](/post/something/).
+- "[pack](/zh/post/pack/) [up](/zh/post/up/)" 意味着收拾行李或整理东西。
+- "[pack](/zh/post/pack/) [a](/zh/post/a/) [punch](/zh/post/punch/)" 表示有力度，影响大：[to](/zh/post/to/) [have](/zh/post/have/) [a](/zh/post/a/) [strong](/zh/post/strong/) [effect](/zh/post/effect/) [or](/zh/post/or/) [impact](/zh/post/impact/).
+- "[pack](/zh/post/pack/) [it](/zh/post/it/) [in](/zh/post/in/)" 用于表示放弃或停止做某事：[to](/zh/post/to/) [give](/zh/post/give/) [up](/zh/post/up/) [or](/zh/post/or/) [stop](/zh/post/stop/) doing [something](/zh/post/something/).
 
 ## 例句
-- 名词: "I bought [a](/post/a/) software [pack](/post/pack/) [that](/post/that/) included [several](/post/several/) [useful](/post/useful/) programs."
-- 动词: "[Before](/post/before/) leaving [for](/post/for/) [the](/post/the/) [trip](/post/trip/), [she](/post/she/) had [to](/post/to/) [pack](/post/pack/) [all](/post/all/) [her](/post/her/) [clothes](/post/clothes/) [into](/post/into/) [a](/post/a/) suitcase."
-- "[The](/post/the/) [new](/post/new/) smartphone comes [with](/post/with/) [a](/post/a/) [pack](/post/pack/) [of](/post/of/) accessories."
+- 名词: "I bought [a](/zh/post/a/) software [pack](/zh/post/pack/) [that](/zh/post/that/) included [several](/zh/post/several/) [useful](/zh/post/useful/) programs."
+- 动词: "[Before](/zh/post/before/) leaving [for](/zh/post/for/) [the](/zh/post/the/) [trip](/zh/post/trip/), [she](/zh/post/she/) had [to](/zh/post/to/) [pack](/zh/post/pack/) [all](/zh/post/all/) [her](/zh/post/her/) [clothes](/zh/post/clothes/) [into](/zh/post/into/) [a](/zh/post/a/) suitcase."
+- "[The](/zh/post/the/) [new](/zh/post/new/) smartphone comes [with](/zh/post/with/) [a](/zh/post/a/) [pack](/zh/post/pack/) [of](/zh/post/of/) accessories."
 
 ## 同义词
-- [Bundle](/post/bundle/)
+- [Bundle](/zh/post/bundle/)
 - Suite
-- [Collection](/post/collection/)
-- [Set](/post/set/)
+- [Collection](/zh/post/collection/)
+- [Set](/zh/post/set/)
 - Kit

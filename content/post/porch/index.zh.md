@@ -11,16 +11,16 @@ keywords = ['ai words', 'porch']
 /pɔːrtʃ/
 
 ## 释义
-- **名词**: 房屋外部的一个区域，通常是一个有遮盖的前廊或入口，有时会有阶梯通往。例如: "[She](/post/she/) loved sitting [on](/post/on/) [the](/post/the/) [porch](/post/porch/) [in](/post/in/) [the](/post/the/) evenings."
-- **名词**: 在某些交通工具（如火车）上，指连接车厢的开放式平台。例如: "[The](/post/the/) [train](/post/train/) [conductor](/post/conductor/) stood [on](/post/on/) [the](/post/the/) [porch](/post/porch/) [between](/post/between/) [two](/post/two/) cars."
+- **名词**: 房屋外部的一个区域，通常是一个有遮盖的前廊或入口，有时会有阶梯通往。例如: "[She](/zh/post/she/) loved sitting [on](/zh/post/on/) [the](/zh/post/the/) [porch](/zh/post/porch/) [in](/zh/post/in/) [the](/zh/post/the/) evenings."
+- **名词**: 在某些交通工具（如火车）上，指连接车厢的开放式平台。例如: "[The](/zh/post/the/) [train](/zh/post/train/) [conductor](/zh/post/conductor/) stood [on](/zh/post/on/) [the](/zh/post/the/) [porch](/zh/post/porch/) [between](/zh/post/between/) [two](/zh/post/two/) cars."
 
 ## 短语
-- "[On](/post/on/) [the](/post/the/) [porch](/post/porch/)" 指在门廊或入口处。
-- "[Porch](/post/porch/) [light](/post/light/)" 是指门廊上的灯，常用来迎接晚归的人或作为信号。
+- "[On](/zh/post/on/) [the](/zh/post/the/) [porch](/zh/post/porch/)" 指在门廊或入口处。
+- "[Porch](/zh/post/porch/) [light](/zh/post/light/)" 是指门廊上的灯，常用来迎接晚归的人或作为信号。
 
 ## 例句
-- "[The](/post/the/) [old](/post/old/) rocking [chair](/post/chair/) creaked [as](/post/as/) [he](/post/he/) sat [down](/post/down/) [on](/post/on/) [the](/post/the/) [porch](/post/porch/)."
-- "[She](/post/she/) [left](/post/left/) [the](/post/the/) [porch](/post/porch/) [light](/post/light/) [on](/post/on/) [for](/post/for/) [her](/post/her/) children returning [from](/post/from/) [the](/post/the/) [party](/post/party/)."
+- "[The](/zh/post/the/) [old](/zh/post/old/) rocking [chair](/zh/post/chair/) creaked [as](/zh/post/as/) [he](/zh/post/he/) sat [down](/zh/post/down/) [on](/zh/post/on/) [the](/zh/post/the/) [porch](/zh/post/porch/)."
+- "[She](/zh/post/she/) [left](/zh/post/left/) [the](/zh/post/the/) [porch](/zh/post/porch/) [light](/zh/post/light/) [on](/zh/post/on/) [for](/zh/post/for/) [her](/zh/post/her/) children returning [from](/zh/post/from/) [the](/zh/post/the/) [party](/zh/post/party/)."
 
 ## 同义词
 - Veranda

@@ -7,39 +7,39 @@ description = '[ˈætəm] n.原子；微粒；微量'
 keywords = ['ai words', 'atom']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈætəm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [fundamental](/en/post/fundamental/) [unit](/en/post/unit/) [of](/en/post/of/) [matter](/en/post/matter/), consisting [of](/en/post/of/) protons, neutrons, [and](/en/post/and/) electrons, [that](/en/post/that/) cannot [be](/en/post/be/) divided [without](/en/post/without/) changing [the](/en/post/the/) [chemical](/en/post/chemical/) properties [of](/en/post/of/) an [element](/en/post/element/).
-   - [Definition](/en/post/definition/) ([Physics](/en/post/physics/)): [The](/en/post/the/) smallest [component](/en/post/component/) [of](/en/post/of/) an [element](/en/post/element/) [that](/en/post/that/) retains [its](/en/post/its/) [chemical](/en/post/chemical/) identity.
-   - [Definition](/en/post/definition/) ([Chemistry](/en/post/chemistry/)): [A](/en/post/a/) [building](/en/post/building/) [block](/en/post/block/) [of](/en/post/of/) [all](/en/post/all/) elements, consisting [of](/en/post/of/) [a](/en/post/a/) [nucleus](/en/post/nucleus/) surrounded [by](/en/post/by/) electrons.
+### [Noun](/post/noun/)
+1. [A](/post/a/) [fundamental](/post/fundamental/) [unit](/post/unit/) [of](/post/of/) [matter](/post/matter/), consisting [of](/post/of/) protons, neutrons, [and](/post/and/) electrons, [that](/post/that/) cannot [be](/post/be/) divided [without](/post/without/) changing [the](/post/the/) [chemical](/post/chemical/) properties [of](/post/of/) an [element](/post/element/).
+   - [Definition](/post/definition/) ([Physics](/post/physics/)): [The](/post/the/) smallest [component](/post/component/) [of](/post/of/) an [element](/post/element/) [that](/post/that/) retains [its](/post/its/) [chemical](/post/chemical/) identity.
+   - [Definition](/post/definition/) ([Chemistry](/post/chemistry/)): [A](/post/a/) [building](/post/building/) [block](/post/block/) [of](/post/of/) [all](/post/all/) elements, consisting [of](/post/of/) [a](/post/a/) [nucleus](/post/nucleus/) surrounded [by](/post/by/) electrons.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [break](/en/post/break/) [down](/en/post/down/) [into](/en/post/into/) constituent atoms [or](/en/post/or/) molecules.
-2. [To](/en/post/to/) analyze [or](/en/post/or/) decompose [into](/en/post/into/) [basic](/en/post/basic/) components.
-3. [To](/en/post/to/) [perceive](/en/post/perceive/) [or](/en/post/or/) [understand](/en/post/understand/) [something](/en/post/something/) [on](/en/post/on/) [a](/en/post/a/) [fundamental](/en/post/fundamental/) [level](/en/post/level/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [break](/post/break/) [down](/post/down/) [into](/post/into/) constituent atoms [or](/post/or/) molecules.
+2. [To](/post/to/) analyze [or](/post/or/) decompose [into](/post/into/) [basic](/post/basic/) components.
+3. [To](/post/to/) [perceive](/post/perceive/) [or](/post/or/) [understand](/post/understand/) [something](/post/something/) [on](/post/on/) [a](/post/a/) [fundamental](/post/fundamental/) [level](/post/level/).
 
 ## Phrases
-- "[Atomic](/en/post/atomic/) [structure](/en/post/structure/)" refers [to](/en/post/to/) [the](/en/post/the/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) particles [within](/en/post/within/) an [atom](/en/post/atom/).
-- "[Atomic](/en/post/atomic/) [number](/en/post/number/)" denotes [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) protons [in](/en/post/in/) an atom's [nucleus](/en/post/nucleus/).
-- "[Atomic](/en/post/atomic/) [theory](/en/post/theory/)" is [the](/en/post/the/) [scientific](/en/post/scientific/) [understanding](/en/post/understanding/) [of](/en/post/of/) [how](/en/post/how/) atoms [combine](/en/post/combine/) [to](/en/post/to/) [form](/en/post/form/) substances.
+- "[Atomic](/post/atomic/) [structure](/post/structure/)" refers [to](/post/to/) [the](/post/the/) [arrangement](/post/arrangement/) [of](/post/of/) particles [within](/post/within/) an [atom](/post/atom/).
+- "[Atomic](/post/atomic/) [number](/post/number/)" denotes [the](/post/the/) [number](/post/number/) [of](/post/of/) protons [in](/post/in/) an atom's [nucleus](/post/nucleus/).
+- "[Atomic](/post/atomic/) [theory](/post/theory/)" is [the](/post/the/) [scientific](/post/scientific/) [understanding](/post/understanding/) [of](/post/of/) [how](/post/how/) atoms [combine](/post/combine/) [to](/post/to/) [form](/post/form/) substances.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) periodic [table](/en/post/table/) arranges elements based [on](/en/post/on/) [their](/en/post/their/) [atomic](/en/post/atomic/) numbers."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) scientists managed [to](/en/post/to/) atomize [the](/en/post/the/) [metal](/en/post/metal/) [into](/en/post/into/) [its](/en/post/its/) [basic](/en/post/basic/) components."
-- **[Verb](/en/post/verb/)**: "[To](/en/post/to/) [understand](/en/post/understand/) [chemistry](/en/post/chemistry/), [one](/en/post/one/) [must](/en/post/must/) [grasp](/en/post/grasp/) [the](/en/post/the/) [atomic](/en/post/atomic/) principles."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) periodic [table](/post/table/) arranges elements based [on](/post/on/) [their](/post/their/) [atomic](/post/atomic/) numbers."
+- **[Verb](/post/verb/)**: "[The](/post/the/) scientists managed [to](/post/to/) atomize [the](/post/the/) [metal](/post/metal/) [into](/post/into/) [its](/post/its/) [basic](/post/basic/) components."
+- **[Verb](/post/verb/)**: "[To](/post/to/) [understand](/post/understand/) [chemistry](/post/chemistry/), [one](/post/one/) [must](/post/must/) [grasp](/post/grasp/) [the](/post/the/) [atomic](/post/atomic/) principles."
 
 ## Synonyms
 - Protonium
-- [Molecule](/en/post/molecule/)
-- [Particle](/en/post/particle/)
-- Constituent [unit](/en/post/unit/)
-- [Basic](/en/post/basic/) [building](/en/post/building/) [block](/en/post/block/)
+- [Molecule](/post/molecule/)
+- [Particle](/post/particle/)
+- Constituent [unit](/post/unit/)
+- [Basic](/post/basic/) [building](/post/building/) [block](/post/block/)
 
 ## Antonyms
-- [Compound](/en/post/compound/)
+- [Compound](/post/compound/)
 - Molecular
 - Composite
-- [Complex](/en/post/complex/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [structure](/en/post/structure/))
+- [Complex](/post/complex/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [structure](/post/structure/))

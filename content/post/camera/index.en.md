@@ -7,36 +7,36 @@ description = '[ˈkæmərə] n.照相机，摄影机'
 keywords = ['ai words', 'camera']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈmɛrə/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [camera](/en/post/camera/) is [a](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) captures images, [either](/en/post/either/) [still](/en/post/still/) photographs [or](/en/post/or/) [video](/en/post/video/), using [a](/en/post/a/) [lens](/en/post/lens/) [to](/en/post/to/) [focus](/en/post/focus/) [light](/en/post/light/) [onto](/en/post/onto/) an [image](/en/post/image/) sensor [or](/en/post/or/) [film](/en/post/film/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [portable](/en/post/portable/) [electronic](/en/post/electronic/) gadget [or](/en/post/or/) [a](/en/post/a/) [more](/en/post/more/) [traditional](/en/post/traditional/) [mechanical](/en/post/mechanical/) [model](/en/post/model/).
+### [Noun](/post/noun/)
+[A](/post/a/) [camera](/post/camera/) is [a](/post/a/) [device](/post/device/) [that](/post/that/) captures images, [either](/post/either/) [still](/post/still/) photographs [or](/post/or/) [video](/post/video/), using [a](/post/a/) [lens](/post/lens/) [to](/post/to/) [focus](/post/focus/) [light](/post/light/) [onto](/post/onto/) an [image](/post/image/) sensor [or](/post/or/) [film](/post/film/). [It](/post/it/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [portable](/post/portable/) [electronic](/post/electronic/) gadget [or](/post/or/) [a](/post/a/) [more](/post/more/) [traditional](/post/traditional/) [mechanical](/post/mechanical/) [model](/post/model/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [camera](/en/post/camera/) ([also](/en/post/also/) [as](/en/post/as/) '[to](/en/post/to/) [photograph](/en/post/photograph/)') refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) taking [a](/en/post/a/) [photograph](/en/post/photograph/) using [a](/en/post/a/) [camera](/en/post/camera/), capturing [a](/en/post/a/) [scene](/en/post/scene/) [or](/en/post/or/) [subject](/en/post/subject/).
+### [Verb](/post/verb/)
+[To](/post/to/) [camera](/post/camera/) ([also](/post/also/) [as](/post/as/) '[to](/post/to/) [photograph](/post/photograph/)') refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) taking [a](/post/a/) [photograph](/post/photograph/) using [a](/post/a/) [camera](/post/camera/), capturing [a](/post/a/) [scene](/post/scene/) [or](/post/or/) [subject](/post/subject/).
 
-### [Adjective](/en/post/adjective/)
-Cameral [or](/en/post/or/) camera-related [can](/en/post/can/) [describe](/en/post/describe/) [something](/en/post/something/) connected [to](/en/post/to/) cameras [or](/en/post/or/) photography, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) cameral [setting](/en/post/setting/) [or](/en/post/or/) [a](/en/post/a/) [camera](/en/post/camera/) [angle](/en/post/angle/).
+### [Adjective](/post/adjective/)
+Cameral [or](/post/or/) camera-related [can](/post/can/) [describe](/post/describe/) [something](/post/something/) connected [to](/post/to/) cameras [or](/post/or/) photography, [such](/post/such/) [as](/post/as/) [a](/post/a/) cameral [setting](/post/setting/) [or](/post/or/) [a](/post/a/) [camera](/post/camera/) [angle](/post/angle/).
 
-### [Adverb](/en/post/adverb/)
-Cameraman [or](/en/post/or/) [camera](/en/post/camera/) [operator](/en/post/operator/) refers [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) operates [a](/en/post/a/) [camera](/en/post/camera/), [especially](/en/post/especially/) [for](/en/post/for/) [professional](/en/post/professional/) videography [or](/en/post/or/) filmmaking.
+### [Adverb](/post/adverb/)
+Cameraman [or](/post/or/) [camera](/post/camera/) [operator](/post/operator/) refers [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) operates [a](/post/a/) [camera](/post/camera/), [especially](/post/especially/) [for](/post/for/) [professional](/post/professional/) videography [or](/post/or/) filmmaking.
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [picture](/en/post/picture/) [with](/en/post/with/) [a](/en/post/a/) [camera](/en/post/camera/)" [means](/en/post/means/) [to](/en/post/to/) [capture](/en/post/capture/) an [image](/en/post/image/) using [a](/en/post/a/) [camera](/en/post/camera/).
-- "[Point](/en/post/point/) [and](/en/post/and/) [shoot](/en/post/shoot/)" describes [the](/en/post/the/) [simple](/en/post/simple/) [operation](/en/post/operation/) [of](/en/post/of/) [a](/en/post/a/) [camera](/en/post/camera/).
-- "[Behind](/en/post/behind/) [the](/en/post/the/) [camera](/en/post/camera/)" refers [to](/en/post/to/) [the](/en/post/the/) [role](/en/post/role/) [of](/en/post/of/) [a](/en/post/a/) photographer [or](/en/post/or/) filmmaker.
+- "[Take](/post/take/) [a](/post/a/) [picture](/post/picture/) [with](/post/with/) [a](/post/a/) [camera](/post/camera/)" [means](/post/means/) [to](/post/to/) [capture](/post/capture/) an [image](/post/image/) using [a](/post/a/) [camera](/post/camera/).
+- "[Point](/post/point/) [and](/post/and/) [shoot](/post/shoot/)" describes [the](/post/the/) [simple](/post/simple/) [operation](/post/operation/) [of](/post/of/) [a](/post/a/) [camera](/post/camera/).
+- "[Behind](/post/behind/) [the](/post/the/) [camera](/post/camera/)" refers [to](/post/to/) [the](/post/the/) [role](/post/role/) [of](/post/of/) [a](/post/a/) photographer [or](/post/or/) filmmaker.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) carried [her](/en/post/her/) [digital](/en/post/digital/) [camera](/en/post/camera/) [everywhere](/en/post/everywhere/) [to](/en/post/to/) [capture](/en/post/capture/) memories."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) photographer carefully framed [the](/en/post/the/) [shot](/en/post/shot/) [before](/en/post/before/) cameraing [the](/en/post/the/) [subject](/en/post/subject/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) cameral [view](/en/post/view/) was [perfect](/en/post/perfect/) [for](/en/post/for/) showcasing [the](/en/post/the/) [sunset](/en/post/sunset/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) experienced cameraman adjusted [the](/en/post/the/) settings [for](/en/post/for/) [low](/en/post/low/) [light](/en/post/light/) conditions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) carried [her](/post/her/) [digital](/post/digital/) [camera](/post/camera/) [everywhere](/post/everywhere/) [to](/post/to/) [capture](/post/capture/) memories."
+- **[Verb](/post/verb/)**: "[The](/post/the/) photographer carefully framed [the](/post/the/) [shot](/post/shot/) [before](/post/before/) cameraing [the](/post/the/) [subject](/post/subject/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) cameral [view](/post/view/) was [perfect](/post/perfect/) [for](/post/for/) showcasing [the](/post/the/) [sunset](/post/sunset/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) experienced cameraman adjusted [the](/post/the/) settings [for](/post/for/) [low](/post/low/) [light](/post/light/) conditions."
 
 ## Synonyms
-- [Photographic](/en/post/photographic/) [equipment](/en/post/equipment/)
-- Imaging [device](/en/post/device/)
-- [Lens](/en/post/lens/)
-- Videographic [tool](/en/post/tool/)
+- [Photographic](/post/photographic/) [equipment](/post/equipment/)
+- Imaging [device](/post/device/)
+- [Lens](/post/lens/)
+- Videographic [tool](/post/tool/)
 - Picture-taking gadget

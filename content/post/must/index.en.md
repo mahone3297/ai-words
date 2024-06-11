@@ -7,36 +7,36 @@ description = '[mʌst] v.aux.必须；必然要'
 keywords = ['ai words', 'must']
 +++
 
-## [Word](/en/post/word/): [Must](/en/post/must/)
+## [Word](/post/word/): [Must](/post/must/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /mʌst/
 
 ## Definitions
-- **Modal [Verb](/en/post/verb/)**: Expressing [necessity](/en/post/necessity/), obligation, [or](/en/post/or/) [strong](/en/post/strong/) [recommendation](/en/post/recommendation/). It's [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is required [or](/en/post/or/) [should](/en/post/should/) [happen](/en/post/happen/). [For](/en/post/for/) [example](/en/post/example/): "[You](/en/post/you/) _must_ [study](/en/post/study/) [hard](/en/post/hard/) [if](/en/post/if/) [you](/en/post/you/) [want](/en/post/want/) [to](/en/post/to/) [pass](/en/post/pass/) [the](/en/post/the/) [exam](/en/post/exam/)."
+- **Modal [Verb](/post/verb/)**: Expressing [necessity](/post/necessity/), obligation, [or](/post/or/) [strong](/post/strong/) [recommendation](/post/recommendation/). It's [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is required [or](/post/or/) [should](/post/should/) [happen](/post/happen/). [For](/post/for/) [example](/post/example/): "[You](/post/you/) _must_ [study](/post/study/) [hard](/post/hard/) [if](/post/if/) [you](/post/you/) [want](/post/want/) [to](/post/to/) [pass](/post/pass/) [the](/post/the/) [exam](/post/exam/)."
   
-  > *[Example](/en/post/example/) [Sentence](/en/post/sentence/)*: "[In](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [drive](/en/post/drive/) legally, [you](/en/post/you/) [must](/en/post/must/) [have](/en/post/have/) [a](/en/post/a/) [valid](/en/post/valid/) driver's [license](/en/post/license/)."
-- **[Auxiliary](/en/post/auxiliary/) [Verb](/en/post/verb/)**: Forms [the](/en/post/the/) [future](/en/post/future/) [tense](/en/post/tense/) [when](/en/post/when/) combined [with](/en/post/with/) [other](/en/post/other/) verbs [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) prediction based [on](/en/post/on/) [logical](/en/post/logical/) assumption [or](/en/post/or/) deduction. [For](/en/post/for/) [example](/en/post/example/): "[It](/en/post/it/) [must](/en/post/must/) [be](/en/post/be/) raining; I [can](/en/post/can/) [hear](/en/post/hear/) [thunder](/en/post/thunder/)."
+  > *[Example](/post/example/) [Sentence](/post/sentence/)*: "[In](/post/in/) [order](/post/order/) [to](/post/to/) [drive](/post/drive/) legally, [you](/post/you/) [must](/post/must/) [have](/post/have/) [a](/post/a/) [valid](/post/valid/) driver's [license](/post/license/)."
+- **[Auxiliary](/post/auxiliary/) [Verb](/post/verb/)**: Forms [the](/post/the/) [future](/post/future/) [tense](/post/tense/) [when](/post/when/) combined [with](/post/with/) [other](/post/other/) verbs [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) prediction based [on](/post/on/) [logical](/post/logical/) assumption [or](/post/or/) deduction. [For](/post/for/) [example](/post/example/): "[It](/post/it/) [must](/post/must/) [be](/post/be/) raining; I [can](/post/can/) [hear](/post/hear/) [thunder](/post/thunder/)."
   
-  > *[Example](/en/post/example/) [Sentence](/en/post/sentence/)*: "[The](/en/post/the/) keys [must](/en/post/must/) [be](/en/post/be/) [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/); that's [where](/en/post/where/) I [usually](/en/post/usually/) [leave](/en/post/leave/) [them](/en/post/them/)."
+  > *[Example](/post/example/) [Sentence](/post/sentence/)*: "[The](/post/the/) keys [must](/post/must/) [be](/post/be/) [on](/post/on/) [the](/post/the/) [table](/post/table/); that's [where](/post/where/) I [usually](/post/usually/) [leave](/post/leave/) [them](/post/them/)."
   
-- **[Adjective](/en/post/adjective/)**: (chiefly [in](/en/post/in/) compounds [like](/en/post/like/) 'must-do,' 'must-see') Referring [to](/en/post/to/) [something](/en/post/something/) considered [essential](/en/post/essential/) [or](/en/post/or/) [highly](/en/post/highly/) recommended. [For](/en/post/for/) [instance](/en/post/instance/), "[The](/en/post/the/) Eiffel [Tower](/en/post/tower/) is [a](/en/post/a/) must-see [attraction](/en/post/attraction/) [in](/en/post/in/) Paris."
+- **[Adjective](/post/adjective/)**: (chiefly [in](/post/in/) compounds [like](/post/like/) 'must-do,' 'must-see') Referring [to](/post/to/) [something](/post/something/) considered [essential](/post/essential/) [or](/post/or/) [highly](/post/highly/) recommended. [For](/post/for/) [instance](/post/instance/), "[The](/post/the/) Eiffel [Tower](/post/tower/) is [a](/post/a/) must-see [attraction](/post/attraction/) [in](/post/in/) Paris."
 
 ## Phrases
-- "Must-have": Describing [something](/en/post/something/) regarded [as](/en/post/as/) [essential](/en/post/essential/) [or](/en/post/or/) [very](/en/post/very/) [desirable](/en/post/desirable/) [to](/en/post/to/) [own](/en/post/own/) [or](/en/post/or/) [experience](/en/post/experience/).
-- "[You](/en/post/you/) [must](/en/post/must/) [be](/en/post/be/) joking": An [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) [show](/en/post/show/) disbelief [or](/en/post/or/) incredulity [at](/en/post/at/) [what](/en/post/what/) [someone](/en/post/someone/) has [just](/en/post/just/) said.
-- "[If](/en/post/if/) [it](/en/post/it/) [must](/en/post/must/) [be](/en/post/be/) done, [do](/en/post/do/) [it](/en/post/it/) [well](/en/post/well/)": [This](/en/post/this/) proverb suggests [that](/en/post/that/) [when](/en/post/when/) there's [a](/en/post/a/) [task](/en/post/task/) [one](/en/post/one/) is obliged [to](/en/post/to/) [perform](/en/post/perform/), [they](/en/post/they/) [should](/en/post/should/) strive [to](/en/post/to/) [complete](/en/post/complete/) [it](/en/post/it/) [to](/en/post/to/) [the](/en/post/the/) [best](/en/post/best/) [of](/en/post/of/) [their](/en/post/their/) abilities.
+- "Must-have": Describing [something](/post/something/) regarded [as](/post/as/) [essential](/post/essential/) [or](/post/or/) [very](/post/very/) [desirable](/post/desirable/) [to](/post/to/) [own](/post/own/) [or](/post/or/) [experience](/post/experience/).
+- "[You](/post/you/) [must](/post/must/) [be](/post/be/) joking": An [expression](/post/expression/) [used](/post/used/) [to](/post/to/) [show](/post/show/) disbelief [or](/post/or/) incredulity [at](/post/at/) [what](/post/what/) [someone](/post/someone/) has [just](/post/just/) said.
+- "[If](/post/if/) [it](/post/it/) [must](/post/must/) [be](/post/be/) done, [do](/post/do/) [it](/post/it/) [well](/post/well/)": [This](/post/this/) proverb suggests [that](/post/that/) [when](/post/when/) there's [a](/post/a/) [task](/post/task/) [one](/post/one/) is obliged [to](/post/to/) [perform](/post/perform/), [they](/post/they/) [should](/post/should/) strive [to](/post/to/) [complete](/post/complete/) [it](/post/it/) [to](/post/to/) [the](/post/the/) [best](/post/best/) [of](/post/of/) [their](/post/their/) abilities.
 
-## [Example](/en/post/example/) Sentences
-- **Modal [Verb](/en/post/verb/)**: "[Everyone](/en/post/everyone/) [who](/en/post/who/) attends [the](/en/post/the/) [meeting](/en/post/meeting/) [must](/en/post/must/) [sign](/en/post/sign/) [the](/en/post/the/) attendance [sheet](/en/post/sheet/)."
-- **[Auxiliary](/en/post/auxiliary/) [Verb](/en/post/verb/)**: "[This](/en/post/this/) [time](/en/post/time/) [tomorrow](/en/post/tomorrow/), [we](/en/post/we/) [must](/en/post/must/) [be](/en/post/be/) leaving [for](/en/post/for/) [our](/en/post/our/) [holiday](/en/post/holiday/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [city](/en/post/city/) [tour](/en/post/tour/) is [a](/en/post/a/) must-do [activity](/en/post/activity/) [for](/en/post/for/) [anyone](/en/post/anyone/) visiting [New](/en/post/new/) York [City](/en/post/city/) [for](/en/post/for/) [the](/en/post/the/) [first](/en/post/first/) [time](/en/post/time/)."
+## [Example](/post/example/) Sentences
+- **Modal [Verb](/post/verb/)**: "[Everyone](/post/everyone/) [who](/post/who/) attends [the](/post/the/) [meeting](/post/meeting/) [must](/post/must/) [sign](/post/sign/) [the](/post/the/) attendance [sheet](/post/sheet/)."
+- **[Auxiliary](/post/auxiliary/) [Verb](/post/verb/)**: "[This](/post/this/) [time](/post/time/) [tomorrow](/post/tomorrow/), [we](/post/we/) [must](/post/must/) [be](/post/be/) leaving [for](/post/for/) [our](/post/our/) [holiday](/post/holiday/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [city](/post/city/) [tour](/post/tour/) is [a](/post/a/) must-do [activity](/post/activity/) [for](/post/for/) [anyone](/post/anyone/) visiting [New](/post/new/) York [City](/post/city/) [for](/post/for/) [the](/post/the/) [first](/post/first/) [time](/post/time/)."
 
 ## Synonyms
-- [Need](/en/post/need/) [to](/en/post/to/)
-- [Have](/en/post/have/) [to](/en/post/to/)
-- [Ought](/en/post/ought/) [to](/en/post/to/)
-- [Should](/en/post/should/)
-- [Be](/en/post/be/) required [to](/en/post/to/)
-- [Be](/en/post/be/) obliged [to](/en/post/to/)
-- [Be](/en/post/be/) compelled [to](/en/post/to/)
+- [Need](/post/need/) [to](/post/to/)
+- [Have](/post/have/) [to](/post/to/)
+- [Ought](/post/ought/) [to](/post/to/)
+- [Should](/post/should/)
+- [Be](/post/be/) required [to](/post/to/)
+- [Be](/post/be/) obliged [to](/post/to/)
+- [Be](/post/be/) compelled [to](/post/to/)

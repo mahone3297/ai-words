@@ -11,20 +11,20 @@ keywords = ['ai words', 'glare']
 /ɡlɛr/
 
 ## 释义
-- **动词**: 发出强烈的光，眩目地照射。例如: "[The](/post/the/) [sun](/post/sun/) glared brightly [in](/post/in/) [her](/post/her/) eyes."
-- **名词**: 强烈刺眼的光线。例如: "[The](/post/the/) [glare](/post/glare/) [from](/post/from/) [the](/post/the/) headlights made [it](/post/it/) [hard](/post/hard/) [to](/post/to/) [see](/post/see/)."
+- **动词**: 发出强烈的光，眩目地照射。例如: "[The](/zh/post/the/) [sun](/zh/post/sun/) glared brightly [in](/zh/post/in/) [her](/zh/post/her/) eyes."
+- **名词**: 强烈刺眼的光线。例如: "[The](/zh/post/the/) [glare](/zh/post/glare/) [from](/zh/post/from/) [the](/zh/post/the/) headlights made [it](/zh/post/it/) [hard](/zh/post/hard/) [to](/zh/post/to/) [see](/zh/post/see/)."
 
 ## 短语
-- "[glare](/post/glare/) [at](/post/at/) [someone](/post/someone/)" 直勾勾地看着某人，通常带有愤怒或不满的情绪。
-- "[under](/post/under/) [the](/post/the/) [glare](/post/glare/) [of](/post/of/) [the](/post/the/) spotlight" 在聚光灯下，处于众人的关注之下。
+- "[glare](/zh/post/glare/) [at](/zh/post/at/) [someone](/zh/post/someone/)" 直勾勾地看着某人，通常带有愤怒或不满的情绪。
+- "[under](/zh/post/under/) [the](/zh/post/the/) [glare](/zh/post/glare/) [of](/zh/post/of/) [the](/zh/post/the/) spotlight" 在聚光灯下，处于众人的关注之下。
 
 ## 例句
-- 动词: "[The](/post/the/) [camera](/post/camera/) [flash](/post/flash/) glared [so](/post/so/) [much](/post/much/) [that](/post/that/) [she](/post/she/) couldn't [open](/post/open/) [her](/post/her/) eyes."
-- 名词: "[He](/post/he/) squinted [against](/post/against/) [the](/post/the/) [glare](/post/glare/) [of](/post/of/) [the](/post/the/) [afternoon](/post/afternoon/) [sun](/post/sun/)."
+- 动词: "[The](/zh/post/the/) [camera](/zh/post/camera/) [flash](/zh/post/flash/) glared [so](/zh/post/so/) [much](/zh/post/much/) [that](/zh/post/that/) [she](/zh/post/she/) couldn't [open](/zh/post/open/) [her](/zh/post/her/) eyes."
+- 名词: "[He](/zh/post/he/) squinted [against](/zh/post/against/) [the](/zh/post/the/) [glare](/zh/post/glare/) [of](/zh/post/of/) [the](/zh/post/the/) [afternoon](/zh/post/afternoon/) [sun](/zh/post/sun/)."
 
 ## 同义词
-- [shine](/post/shine/) intensely
+- [shine](/zh/post/shine/) intensely
 - dazzle
 - scowl
-- [flash](/post/flash/)
-- [beam](/post/beam/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [intense](/post/intense/) [light](/post/light/))
+- [flash](/zh/post/flash/)
+- [beam](/zh/post/beam/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [intense](/zh/post/intense/) [light](/zh/post/light/))

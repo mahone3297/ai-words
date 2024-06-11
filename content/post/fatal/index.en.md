@@ -7,28 +7,28 @@ description = '[ˈfeitl] a.致命的；命运的'
 keywords = ['ai words', 'fatal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfeɪtəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Causing [death](/en/post/death/); having [a](/en/post/a/) [deadly](/en/post/deadly/) [quality](/en/post/quality/) [or](/en/post/or/) [effect](/en/post/effect/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [fatal](/en/post/fatal/) [accident](/en/post/accident/) claimed [several](/en/post/several/) lives."
-- **[Adjective](/en/post/adjective/)**: ([of](/en/post/of/) [a](/en/post/a/) [decision](/en/post/decision/), [mistake](/en/post/mistake/), [or](/en/post/or/) [situation](/en/post/situation/)) Having [severe](/en/post/severe/), irrevocable consequences. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [fatal](/en/post/fatal/) [mistake](/en/post/mistake/) [cost](/en/post/cost/) [him](/en/post/him/) [the](/en/post/the/) [game](/en/post/game/)."
+- **[Adjective](/post/adjective/)**: Causing [death](/post/death/); having [a](/post/a/) [deadly](/post/deadly/) [quality](/post/quality/) [or](/post/or/) [effect](/post/effect/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [fatal](/post/fatal/) [accident](/post/accident/) claimed [several](/post/several/) lives."
+- **[Adjective](/post/adjective/)**: ([of](/post/of/) [a](/post/a/) [decision](/post/decision/), [mistake](/post/mistake/), [or](/post/or/) [situation](/post/situation/)) Having [severe](/post/severe/), irrevocable consequences. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [fatal](/post/fatal/) [mistake](/post/mistake/) [cost](/post/cost/) [him](/post/him/) [the](/post/the/) [game](/post/game/)."
 
 ## Phrases
-- "[Fatal](/en/post/fatal/) [attraction](/en/post/attraction/)": An irresistible [but](/en/post/but/) [ultimately](/en/post/ultimately/) destructive [force](/en/post/force/) [or](/en/post/or/) [desire](/en/post/desire/).
-- "[Fatal](/en/post/fatal/) [error](/en/post/error/)": [A](/en/post/a/) [serious](/en/post/serious/) [mistake](/en/post/mistake/) [that](/en/post/that/) leads [to](/en/post/to/) [complete](/en/post/complete/) [failure](/en/post/failure/) [or](/en/post/or/) [disaster](/en/post/disaster/).
-- "[Fatal](/en/post/fatal/) flaw": [A](/en/post/a/) [character](/en/post/character/) [defect](/en/post/defect/) [or](/en/post/or/) inherent [weakness](/en/post/weakness/) [that](/en/post/that/) leads [to](/en/post/to/) [the](/en/post/the/) downfall [of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/).
-- "[Fatal](/en/post/fatal/) [disease](/en/post/disease/)": [A](/en/post/a/) [disease](/en/post/disease/) [that](/en/post/that/) results [in](/en/post/in/) [death](/en/post/death/) [if](/en/post/if/) untreated [or](/en/post/or/) incurable.
+- "[Fatal](/post/fatal/) [attraction](/post/attraction/)": An irresistible [but](/post/but/) [ultimately](/post/ultimately/) destructive [force](/post/force/) [or](/post/or/) [desire](/post/desire/).
+- "[Fatal](/post/fatal/) [error](/post/error/)": [A](/post/a/) [serious](/post/serious/) [mistake](/post/mistake/) [that](/post/that/) leads [to](/post/to/) [complete](/post/complete/) [failure](/post/failure/) [or](/post/or/) [disaster](/post/disaster/).
+- "[Fatal](/post/fatal/) flaw": [A](/post/a/) [character](/post/character/) [defect](/post/defect/) [or](/post/or/) inherent [weakness](/post/weakness/) [that](/post/that/) leads [to](/post/to/) [the](/post/the/) downfall [of](/post/of/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/).
+- "[Fatal](/post/fatal/) [disease](/post/disease/)": [A](/post/a/) [disease](/post/disease/) [that](/post/that/) results [in](/post/in/) [death](/post/death/) [if](/post/if/) untreated [or](/post/or/) incurable.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) (causing [death](/en/post/death/))**: "[The](/en/post/the/) [patient](/en/post/patient/) died [from](/en/post/from/) [a](/en/post/a/) [fatal](/en/post/fatal/) overdose [of](/en/post/of/) [the](/en/post/the/) medication."
-- **[Adjective](/en/post/adjective/) (irrevocable consequences)**: "[His](/en/post/his/) [fatal](/en/post/fatal/) misjudgment [in](/en/post/in/) trusting [his](/en/post/his/) [opponent](/en/post/opponent/) led [to](/en/post/to/) [his](/en/post/his/) [political](/en/post/political/) downfall."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) (causing [death](/post/death/))**: "[The](/post/the/) [patient](/post/patient/) died [from](/post/from/) [a](/post/a/) [fatal](/post/fatal/) overdose [of](/post/of/) [the](/post/the/) medication."
+- **[Adjective](/post/adjective/) (irrevocable consequences)**: "[His](/post/his/) [fatal](/post/fatal/) misjudgment [in](/post/in/) trusting [his](/post/his/) [opponent](/post/opponent/) led [to](/post/to/) [his](/post/his/) [political](/post/political/) downfall."
 
 ## Synonyms
-- [Deadly](/en/post/deadly/)
-- [Mortal](/en/post/mortal/)
+- [Deadly](/post/deadly/)
+- [Mortal](/post/mortal/)
 - Lethal
 - Catastrophic
-- [Inevitable](/en/post/inevitable/) ([when](/en/post/when/) referring [to](/en/post/to/) consequences)
-- Irreversible ([when](/en/post/when/) referring [to](/en/post/to/) mistakes [or](/en/post/or/) decisions)
-- [Terminal](/en/post/terminal/) ([especially](/en/post/especially/) [when](/en/post/when/) referring [to](/en/post/to/) illnesses)
+- [Inevitable](/post/inevitable/) ([when](/post/when/) referring [to](/post/to/) consequences)
+- Irreversible ([when](/post/when/) referring [to](/post/to/) mistakes [or](/post/or/) decisions)
+- [Terminal](/post/terminal/) ([especially](/post/especially/) [when](/post/when/) referring [to](/post/to/) illnesses)

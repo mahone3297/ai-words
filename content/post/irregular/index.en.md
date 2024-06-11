@@ -7,32 +7,32 @@ description = '[iˈregjulə] a.不规则的；不整齐的'
 keywords = ['ai words', 'irregular']
 +++
 
-## [Word](/en/post/word/): [Irregular](/en/post/irregular/)
+## [Word](/post/word/): [Irregular](/post/irregular/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈrɛɡjələr/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) conforming [to](/en/post/to/) regularity, uniformity, [or](/en/post/or/) established rules; deviating [from](/en/post/from/) [what](/en/post/what/) is [usual](/en/post/usual/), [normal](/en/post/normal/), [or](/en/post/or/) expected. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [irregular](/en/post/irregular/) heartbeat concerned [the](/en/post/the/) [doctor](/en/post/doctor/)."
-  - [In](/en/post/in/) [grammar](/en/post/grammar/): [Not](/en/post/not/) adhering [to](/en/post/to/) [the](/en/post/the/) [typical](/en/post/typical/) patterns [or](/en/post/or/) rules [of](/en/post/of/) [a](/en/post/a/) [language](/en/post/language/), [such](/en/post/such/) [as](/en/post/as/) verbs [that](/en/post/that/) [do](/en/post/do/) [not](/en/post/not/) [follow](/en/post/follow/) [a](/en/post/a/) [standard](/en/post/standard/) conjugation [pattern](/en/post/pattern/). [Example](/en/post/example/): "[In](/en/post/in/) English, '[go](/en/post/go/)' is an [irregular](/en/post/irregular/) [verb](/en/post/verb/) [because](/en/post/because/) [its](/en/post/its/) [past](/en/post/past/) [tense](/en/post/tense/) [form](/en/post/form/) is 'went', [not](/en/post/not/) 'goed'."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is [not](/en/post/not/) [regular](/en/post/regular/) [or](/en/post/or/) does [not](/en/post/not/) conform [to](/en/post/to/) [a](/en/post/a/) [set](/en/post/set/) [pattern](/en/post/pattern/). [Example](/en/post/example/): "[The](/en/post/the/) soldiers were [on](/en/post/on/) [the](/en/post/the/) lookout [for](/en/post/for/) [any](/en/post/any/) irregulars trying [to](/en/post/to/) [cross](/en/post/cross/) [the](/en/post/the/) [border](/en/post/border/)."
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) conforming [to](/post/to/) regularity, uniformity, [or](/post/or/) established rules; deviating [from](/post/from/) [what](/post/what/) is [usual](/post/usual/), [normal](/post/normal/), [or](/post/or/) expected. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [irregular](/post/irregular/) heartbeat concerned [the](/post/the/) [doctor](/post/doctor/)."
+  - [In](/post/in/) [grammar](/post/grammar/): [Not](/post/not/) adhering [to](/post/to/) [the](/post/the/) [typical](/post/typical/) patterns [or](/post/or/) rules [of](/post/of/) [a](/post/a/) [language](/post/language/), [such](/post/such/) [as](/post/as/) verbs [that](/post/that/) [do](/post/do/) [not](/post/not/) [follow](/post/follow/) [a](/post/a/) [standard](/post/standard/) conjugation [pattern](/post/pattern/). [Example](/post/example/): "[In](/post/in/) English, '[go](/post/go/)' is an [irregular](/post/irregular/) [verb](/post/verb/) [because](/post/because/) [its](/post/its/) [past](/post/past/) [tense](/post/tense/) [form](/post/form/) is 'went', [not](/post/not/) 'goed'."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is [not](/post/not/) [regular](/post/regular/) [or](/post/or/) does [not](/post/not/) conform [to](/post/to/) [a](/post/a/) [set](/post/set/) [pattern](/post/pattern/). [Example](/post/example/): "[The](/post/the/) soldiers were [on](/post/on/) [the](/post/the/) lookout [for](/post/for/) [any](/post/any/) irregulars trying [to](/post/to/) [cross](/post/cross/) [the](/post/the/) [border](/post/border/)."
 
 ## Phrases
-- "[Irregular](/en/post/irregular/) [verb](/en/post/verb/)": [A](/en/post/a/) [verb](/en/post/verb/) [with](/en/post/with/) [a](/en/post/a/) non-standard conjugation [pattern](/en/post/pattern/), e.g., "[be](/en/post/be/)," "[have](/en/post/have/)," "[do](/en/post/do/)," "[go](/en/post/go/)."
-- "[Irregular](/en/post/irregular/) [shape](/en/post/shape/)": Describing [something](/en/post/something/) [that](/en/post/that/) lacks symmetry [or](/en/post/or/) has [no](/en/post/no/) defined geometric [form](/en/post/form/).
-- "[Irregular](/en/post/irregular/) [schedule](/en/post/schedule/)": [A](/en/post/a/) [timetable](/en/post/timetable/) [or](/en/post/or/) [frequency](/en/post/frequency/) [that](/en/post/that/) doesn't [follow](/en/post/follow/) [a](/en/post/a/) [consistent](/en/post/consistent/) [pattern](/en/post/pattern/).
+- "[Irregular](/post/irregular/) [verb](/post/verb/)": [A](/post/a/) [verb](/post/verb/) [with](/post/with/) [a](/post/a/) non-standard conjugation [pattern](/post/pattern/), e.g., "[be](/post/be/)," "[have](/post/have/)," "[do](/post/do/)," "[go](/post/go/)."
+- "[Irregular](/post/irregular/) [shape](/post/shape/)": Describing [something](/post/something/) [that](/post/that/) lacks symmetry [or](/post/or/) has [no](/post/no/) defined geometric [form](/post/form/).
+- "[Irregular](/post/irregular/) [schedule](/post/schedule/)": [A](/post/a/) [timetable](/post/timetable/) [or](/post/or/) [frequency](/post/frequency/) [that](/post/that/) doesn't [follow](/post/follow/) [a](/post/a/) [consistent](/post/consistent/) [pattern](/post/pattern/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [irregular](/en/post/irregular/) [shape](/en/post/shape/), [the](/en/post/the/) [puzzle](/en/post/puzzle/) [piece](/en/post/piece/) wouldn't [fit](/en/post/fit/) [in](/en/post/in/) [the](/en/post/the/) [gap](/en/post/gap/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [army](/en/post/army/) was bolstered [by](/en/post/by/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [irregular](/en/post/irregular/) fighters [who](/en/post/who/) knew [the](/en/post/the/) terrain [well](/en/post/well/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Due](/post/due/) [to](/post/to/) [its](/post/its/) [irregular](/post/irregular/) [shape](/post/shape/), [the](/post/the/) [puzzle](/post/puzzle/) [piece](/post/piece/) wouldn't [fit](/post/fit/) [in](/post/in/) [the](/post/the/) [gap](/post/gap/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [army](/post/army/) was bolstered [by](/post/by/) [a](/post/a/) [group](/post/group/) [of](/post/of/) [irregular](/post/irregular/) fighters [who](/post/who/) knew [the](/post/the/) terrain [well](/post/well/)."
 
 ## Synonyms
-- [Unusual](/en/post/unusual/)
-- [Abnormal](/en/post/abnormal/)
+- [Unusual](/post/unusual/)
+- [Abnormal](/post/abnormal/)
 - Atypical
 - Non-standard
 - Uneven
 - Unpredictable
-- Inconsistent ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) patterns [or](/en/post/or/) schedules)
-- Infrequent ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [occurrence](/en/post/occurrence/))
-- Discordant (specifically [in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [grammar](/en/post/grammar/))
+- Inconsistent ([in](/post/in/) [the](/post/the/) context [of](/post/of/) patterns [or](/post/or/) schedules)
+- Infrequent ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [occurrence](/post/occurrence/))
+- Discordant (specifically [in](/post/in/) [reference](/post/reference/) [to](/post/to/) [grammar](/post/grammar/))

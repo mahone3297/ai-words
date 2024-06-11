@@ -12,24 +12,24 @@ keywords = ['ai words', 'sob']
 
 ## 释义
 - **名词**: 
-    - (尤指因悲伤或感动而发出的)抽泣，啜泣。例如: "[She](/post/she/) couldn't [hold](/post/hold/) [back](/post/back/) [her](/post/her/) sobs [during](/post/during/) [the](/post/the/) [funeral](/post/funeral/)."
-    - (口语)一个爱哭的人，感情脆弱的人。例如: "He's [such](/post/such/) [a](/post/a/) [sob](/post/sob/) [when](/post/when/) [it](/post/it/) comes [to](/post/to/) [sad](/post/sad/) movies."
+    - (尤指因悲伤或感动而发出的)抽泣，啜泣。例如: "[She](/zh/post/she/) couldn't [hold](/zh/post/hold/) [back](/zh/post/back/) [her](/zh/post/her/) sobs [during](/zh/post/during/) [the](/zh/post/the/) [funeral](/zh/post/funeral/)."
+    - (口语)一个爱哭的人，感情脆弱的人。例如: "He's [such](/zh/post/such/) [a](/zh/post/a/) [sob](/zh/post/sob/) [when](/zh/post/when/) [it](/zh/post/it/) comes [to](/zh/post/to/) [sad](/zh/post/sad/) movies."
 
 - **动词**: 
-    - 抽泣，哭泣。例如: "[The](/post/the/) [child](/post/child/) sobbed uncontrollably [after](/post/after/) falling [off](/post/off/) [the](/post/the/) [bike](/post/bike/)."
-    - (非正式)表现出情绪化的行为。例如: "[He](/post/he/) was sobbing [about](/post/about/) [his](/post/his/) [failure](/post/failure/) [in](/post/in/) [the](/post/the/) [exam](/post/exam/)."
+    - 抽泣，哭泣。例如: "[The](/zh/post/the/) [child](/zh/post/child/) sobbed uncontrollably [after](/zh/post/after/) falling [off](/zh/post/off/) [the](/zh/post/the/) [bike](/zh/post/bike/)."
+    - (非正式)表现出情绪化的行为。例如: "[He](/zh/post/he/) was sobbing [about](/zh/post/about/) [his](/zh/post/his/) [failure](/zh/post/failure/) [in](/zh/post/in/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
 
 ## 短语
-- "[Sob](/post/sob/) [story](/post/story/)" 指一个令人同情或悲惨的故事。
-- "[To](/post/to/) [sob](/post/sob/) one's [heart](/post/heart/) [out](/post/out/)" 意味着尽情地哭泣。
+- "[Sob](/zh/post/sob/) [story](/zh/post/story/)" 指一个令人同情或悲惨的故事。
+- "[To](/zh/post/to/) [sob](/zh/post/sob/) one's [heart](/zh/post/heart/) [out](/zh/post/out/)" 意味着尽情地哭泣。
 
 ## 例句
-- 名词: "[Her](/post/her/) sobs echoed [through](/post/through/) [the](/post/the/) [empty](/post/empty/) hallway."
-- 动词: "[He](/post/he/) was [too](/post/too/) [upset](/post/upset/) [to](/post/to/) [speak](/post/speak/), [only](/post/only/) [able](/post/able/) [to](/post/to/) [sob](/post/sob/) quietly."
+- 名词: "[Her](/zh/post/her/) sobs echoed [through](/zh/post/through/) [the](/zh/post/the/) [empty](/zh/post/empty/) hallway."
+- 动词: "[He](/zh/post/he/) was [too](/zh/post/too/) [upset](/zh/post/upset/) [to](/zh/post/to/) [speak](/zh/post/speak/), [only](/zh/post/only/) [able](/zh/post/able/) [to](/zh/post/to/) [sob](/zh/post/sob/) quietly."
 
 ## 同义词
-- [Cry](/post/cry/)
-- [Weep](/post/weep/)
+- [Cry](/zh/post/cry/)
+- [Weep](/zh/post/weep/)
 - sniffle
-- [choke](/post/choke/) [up](/post/up/)
+- [choke](/zh/post/choke/) [up](/zh/post/up/)
 - bawl

@@ -11,23 +11,23 @@ keywords = ['ai words', 'barrier']
 /bəˈriər/
 
 ## 释义
-- **名词**: 障碍物，壁垒；阻止或限制事物通过的东西。例如: "[There](/post/there/) is [a](/post/a/) [language](/post/language/) [barrier](/post/barrier/) [between](/post/between/) [us](/post/us/)."
-- **名词**: 防护措施，屏障。例如: "[The](/post/the/) [safety](/post/safety/) [barrier](/post/barrier/) prevented [the](/post/the/) [car](/post/car/) [from](/post/from/) crashing [into](/post/into/) [the](/post/the/) [crowd](/post/crowd/)."
-- **名词**: （竞赛中的）终点线，分界线。例如: "[The](/post/the/) swimmer reached [the](/post/the/) [final](/post/final/) [barrier](/post/barrier/) [in](/post/in/) [record](/post/record/) [time](/post/time/)."
+- **名词**: 障碍物，壁垒；阻止或限制事物通过的东西。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [language](/zh/post/language/) [barrier](/zh/post/barrier/) [between](/zh/post/between/) [us](/zh/post/us/)."
+- **名词**: 防护措施，屏障。例如: "[The](/zh/post/the/) [safety](/zh/post/safety/) [barrier](/zh/post/barrier/) prevented [the](/zh/post/the/) [car](/zh/post/car/) [from](/zh/post/from/) crashing [into](/zh/post/into/) [the](/zh/post/the/) [crowd](/zh/post/crowd/)."
+- **名词**: （竞赛中的）终点线，分界线。例如: "[The](/zh/post/the/) swimmer reached [the](/zh/post/the/) [final](/zh/post/final/) [barrier](/zh/post/barrier/) [in](/zh/post/in/) [record](/zh/post/record/) [time](/zh/post/time/)."
 
 ## 短语
-- "[break](/post/break/) [down](/post/down/) barriers" 意味着消除障碍或隔阂。
-- "[barrier](/post/barrier/) [to](/post/to/) [entry](/post/entry/)" 在经济中指的是新企业进入市场的困难。
-- "[sound](/post/sound/) [barrier](/post/barrier/)" 指的是音障，即突破音速的界限。
+- "[break](/zh/post/break/) [down](/zh/post/down/) barriers" 意味着消除障碍或隔阂。
+- "[barrier](/zh/post/barrier/) [to](/zh/post/to/) [entry](/zh/post/entry/)" 在经济中指的是新企业进入市场的困难。
+- "[sound](/zh/post/sound/) [barrier](/zh/post/barrier/)" 指的是音障，即突破音速的界限。
 
 ## 例句
-- 名词: "[The](/post/the/) [high](/post/high/) walls served [as](/post/as/) [a](/post/a/) [physical](/post/physical/) [barrier](/post/barrier/) [to](/post/to/) intruders."
-- 名词: "[The](/post/the/) [new](/post/new/) [treaty](/post/treaty/) aims [to](/post/to/) [remove](/post/remove/) [trade](/post/trade/) barriers [between](/post/between/) [the](/post/the/) [two](/post/two/) countries."
-- 名词: "[The](/post/the/) [athlete](/post/athlete/) [successfully](/post/successfully/) broke [the](/post/the/) [sound](/post/sound/) [barrier](/post/barrier/) [during](/post/during/) [his](/post/his/) [flight](/post/flight/)."
+- 名词: "[The](/zh/post/the/) [high](/zh/post/high/) walls served [as](/zh/post/as/) [a](/zh/post/a/) [physical](/zh/post/physical/) [barrier](/zh/post/barrier/) [to](/zh/post/to/) intruders."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [treaty](/zh/post/treaty/) aims [to](/zh/post/to/) [remove](/zh/post/remove/) [trade](/zh/post/trade/) barriers [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) countries."
+- 名词: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) [successfully](/zh/post/successfully/) broke [the](/zh/post/the/) [sound](/zh/post/sound/) [barrier](/zh/post/barrier/) [during](/zh/post/during/) [his](/zh/post/his/) [flight](/zh/post/flight/)."
 
 ## 同义词
-- [obstacle](/post/obstacle/)
+- [obstacle](/zh/post/obstacle/)
 - hindrance
 - blockage
-- [fence](/post/fence/)
+- [fence](/zh/post/fence/)
 - partition

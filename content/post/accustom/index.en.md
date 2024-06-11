@@ -7,35 +7,35 @@ description = '[əˈkʌstəm] vt.使习惯'
 keywords = ['ai words', 'accustom']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈkʌstəm/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: n. (transitive) [To](/en/post/to/) [make](/en/post/make/) [someone](/en/post/someone/) [accustomed](/en/post/accustomed/) [to](/en/post/to/) [something](/en/post/something/) [through](/en/post/through/) [frequent](/en/post/frequent/) [exposure](/en/post/exposure/) [or](/en/post/or/) [repetition](/en/post/repetition/); [to](/en/post/to/) habituate. 
-- **[Verb](/en/post/verb/)**: v. (intransitive) [To](/en/post/to/) [become](/en/post/become/) [accustomed](/en/post/accustomed/) [to](/en/post/to/) [something](/en/post/something/); [to](/en/post/to/) [adopt](/en/post/adopt/) [a](/en/post/a/) [new](/en/post/new/) [habit](/en/post/habit/) [or](/en/post/or/) [routine](/en/post/routine/).
+- **[Verb](/post/verb/)**: n. (transitive) [To](/post/to/) [make](/post/make/) [someone](/post/someone/) [accustomed](/post/accustomed/) [to](/post/to/) [something](/post/something/) [through](/post/through/) [frequent](/post/frequent/) [exposure](/post/exposure/) [or](/post/or/) [repetition](/post/repetition/); [to](/post/to/) habituate. 
+- **[Verb](/post/verb/)**: v. (intransitive) [To](/post/to/) [become](/post/become/) [accustomed](/post/accustomed/) [to](/post/to/) [something](/post/something/); [to](/post/to/) [adopt](/post/adopt/) [a](/post/a/) [new](/post/new/) [habit](/post/habit/) [or](/post/or/) [routine](/post/routine/).
 
 ## Phrases
-- "[Accustom](/en/post/accustom/) [oneself](/en/post/oneself/) [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [environment](/en/post/environment/)"
-- "Accustoming [someone](/en/post/someone/) [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [task](/en/post/task/)"
-- "[Gradually](/en/post/gradually/) accustoming [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) lifestyle"
+- "[Accustom](/post/accustom/) [oneself](/post/oneself/) [to](/post/to/) [a](/post/a/) [new](/post/new/) [environment](/post/environment/)"
+- "Accustoming [someone](/post/someone/) [to](/post/to/) [a](/post/a/) [new](/post/new/) [task](/post/task/)"
+- "[Gradually](/post/gradually/) accustoming [to](/post/to/) [a](/post/a/) [new](/post/new/) lifestyle"
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (transitive)**: "[She](/en/post/she/) had [to](/en/post/to/) [accustom](/en/post/accustom/) [her](/en/post/her/) children [to](/en/post/to/) sleeping [with](/en/post/with/) [the](/en/post/the/) [light](/en/post/light/) [off](/en/post/off/)."
-- **[Verb](/en/post/verb/) (intransitive)**: "[After](/en/post/after/) [a](/en/post/a/) [few](/en/post/few/) weeks, [he](/en/post/he/) [finally](/en/post/finally/) accustoms [himself](/en/post/himself/) [to](/en/post/to/) [the](/en/post/the/) [early](/en/post/early/) [morning](/en/post/morning/) runs."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (transitive)**: "[She](/post/she/) had [to](/post/to/) [accustom](/post/accustom/) [her](/post/her/) children [to](/post/to/) sleeping [with](/post/with/) [the](/post/the/) [light](/post/light/) [off](/post/off/)."
+- **[Verb](/post/verb/) (intransitive)**: "[After](/post/after/) [a](/post/a/) [few](/post/few/) weeks, [he](/post/he/) [finally](/post/finally/) accustoms [himself](/post/himself/) [to](/post/to/) [the](/post/the/) [early](/post/early/) [morning](/post/morning/) runs."
 
 ## Synonyms
-- [Adapt](/en/post/adapt/)
+- [Adapt](/post/adapt/)
 - Acclimate
-- [Get](/en/post/get/) [used](/en/post/used/) [to](/en/post/to/)
-- [Become](/en/post/become/) [accustomed](/en/post/accustomed/) [to](/en/post/to/)
+- [Get](/post/get/) [used](/post/used/) [to](/post/to/)
+- [Become](/post/become/) [accustomed](/post/accustomed/) [to](/post/to/)
 - Habituate
 
 ## Antonyms
 - Unaccustomed
 - Unfamiliar
-- [Reluctant](/en/post/reluctant/)
+- [Reluctant](/post/reluctant/)
 - Unsettled
 
-## [Usage](/en/post/usage/) Notes
-- [Accustom](/en/post/accustom/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [both](/en/post/both/) transitively ([with](/en/post/with/) an [object](/en/post/object/)) [and](/en/post/and/) intransitively ([without](/en/post/without/) an [object](/en/post/object/)), depending [on](/en/post/on/) [the](/en/post/the/) context.
-- [The](/en/post/the/) [noun](/en/post/noun/) [form](/en/post/form/) is [not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/), [but](/en/post/but/) [it](/en/post/it/) refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) [accustomed](/en/post/accustomed/) [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [accustomed](/en/post/accustomed/).
+## [Usage](/post/usage/) Notes
+- [Accustom](/post/accustom/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [both](/post/both/) transitively ([with](/post/with/) an [object](/post/object/)) [and](/post/and/) intransitively ([without](/post/without/) an [object](/post/object/)), depending [on](/post/on/) [the](/post/the/) context.
+- [The](/post/the/) [noun](/post/noun/) [form](/post/form/) is [not](/post/not/) [commonly](/post/commonly/) [used](/post/used/), [but](/post/but/) [it](/post/it/) refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) [being](/post/being/) [accustomed](/post/accustomed/) [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [accustomed](/post/accustomed/).

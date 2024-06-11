@@ -7,32 +7,32 @@ description = '[ˈleibə(r)] n.劳动；工作；劳工'
 keywords = ['ai words', 'labour']
 +++
 
-## [Word](/en/post/word/): [Labour](/en/post/labour/)
+## [Word](/post/word/): [Labour](/post/labour/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈleɪbər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [Physical](/en/post/physical/) [or](/en/post/or/) [mental](/en/post/mental/) [work](/en/post/work/), [especially](/en/post/especially/) [when](/en/post/when/) [it](/en/post/it/) involves [hard](/en/post/hard/) [effort](/en/post/effort/) [or](/en/post/or/) endurance. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [construction](/en/post/construction/) workers engaged [in](/en/post/in/) [heavy](/en/post/heavy/) [labour](/en/post/labour/) [all](/en/post/all/) [day](/en/post/day/)."
-  - *[Economic](/en/post/economic/) context*: [The](/en/post/the/) workforce [or](/en/post/or/) working [class](/en/post/class/), [often](/en/post/often/) considered collectively [with](/en/post/with/) [regard](/en/post/regard/) [to](/en/post/to/) [their](/en/post/their/) rights, conditions, [or](/en/post/or/) [political](/en/post/political/) [power](/en/post/power/). [Example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) aims [to](/en/post/to/) [improve](/en/post/improve/) [the](/en/post/the/) lives [of](/en/post/of/) [the](/en/post/the/) working [class](/en/post/class/) [by](/en/post/by/) creating [more](/en/post/more/) [job](/en/post/job/) opportunities [and](/en/post/and/) [better](/en/post/better/) [labour](/en/post/labour/) laws."
-- **[Verb](/en/post/verb/)**: [Work](/en/post/work/) diligently [or](/en/post/or/) [exert](/en/post/exert/) [oneself](/en/post/oneself/) physically [or](/en/post/or/) mentally, [especially](/en/post/especially/) [at](/en/post/at/) tasks requiring sustained [effort](/en/post/effort/). [Example](/en/post/example/): "[She](/en/post/she/) laboured [for](/en/post/for/) hours [over](/en/post/over/) [her](/en/post/her/) thesis."
-  - *[Specific](/en/post/specific/) [usage](/en/post/usage/)*: [To](/en/post/to/) [experience](/en/post/experience/) [the](/en/post/the/) [physical](/en/post/physical/) [process](/en/post/process/) [of](/en/post/of/) childbirth. [Example](/en/post/example/): "[She](/en/post/she/) laboured [through](/en/post/through/) [the](/en/post/the/) [night](/en/post/night/) [before](/en/post/before/) delivering [her](/en/post/her/) [baby](/en/post/baby/)."
+- **[Noun](/post/noun/)**: [Physical](/post/physical/) [or](/post/or/) [mental](/post/mental/) [work](/post/work/), [especially](/post/especially/) [when](/post/when/) [it](/post/it/) involves [hard](/post/hard/) [effort](/post/effort/) [or](/post/or/) endurance. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [construction](/post/construction/) workers engaged [in](/post/in/) [heavy](/post/heavy/) [labour](/post/labour/) [all](/post/all/) [day](/post/day/)."
+  - *[Economic](/post/economic/) context*: [The](/post/the/) workforce [or](/post/or/) working [class](/post/class/), [often](/post/often/) considered collectively [with](/post/with/) [regard](/post/regard/) [to](/post/to/) [their](/post/their/) rights, conditions, [or](/post/or/) [political](/post/political/) [power](/post/power/). [Example](/post/example/): "[The](/post/the/) [government](/post/government/) aims [to](/post/to/) [improve](/post/improve/) [the](/post/the/) lives [of](/post/of/) [the](/post/the/) working [class](/post/class/) [by](/post/by/) creating [more](/post/more/) [job](/post/job/) opportunities [and](/post/and/) [better](/post/better/) [labour](/post/labour/) laws."
+- **[Verb](/post/verb/)**: [Work](/post/work/) diligently [or](/post/or/) [exert](/post/exert/) [oneself](/post/oneself/) physically [or](/post/or/) mentally, [especially](/post/especially/) [at](/post/at/) tasks requiring sustained [effort](/post/effort/). [Example](/post/example/): "[She](/post/she/) laboured [for](/post/for/) hours [over](/post/over/) [her](/post/her/) thesis."
+  - *[Specific](/post/specific/) [usage](/post/usage/)*: [To](/post/to/) [experience](/post/experience/) [the](/post/the/) [physical](/post/physical/) [process](/post/process/) [of](/post/of/) childbirth. [Example](/post/example/): "[She](/post/she/) laboured [through](/post/through/) [the](/post/the/) [night](/post/night/) [before](/post/before/) delivering [her](/post/her/) [baby](/post/baby/)."
 
 ## Phrases
-- "[Labour](/en/post/labour/) [of](/en/post/of/) [love](/en/post/love/)": [A](/en/post/a/) [task](/en/post/task/) done [not](/en/post/not/) [for](/en/post/for/) [financial](/en/post/financial/) [gain](/en/post/gain/) [but](/en/post/but/) [for](/en/post/for/) [pleasure](/en/post/pleasure/) [or](/en/post/or/) [personal](/en/post/personal/) [satisfaction](/en/post/satisfaction/). [Example](/en/post/example/): "Restoring [the](/en/post/the/) [old](/en/post/old/) [car](/en/post/car/) was [a](/en/post/a/) [labour](/en/post/labour/) [of](/en/post/of/) [love](/en/post/love/) [for](/en/post/for/) [him](/en/post/him/)."
-- "[Manual](/en/post/manual/) [labour](/en/post/labour/)": [Physical](/en/post/physical/) [work](/en/post/work/), typically involving [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) one's hands [or](/en/post/or/) [body](/en/post/body/) [rather](/en/post/rather/) [than](/en/post/than/) machinery. [Example](/en/post/example/): "[Many](/en/post/many/) jobs [in](/en/post/in/) [agriculture](/en/post/agriculture/) [involve](/en/post/involve/) [manual](/en/post/manual/) [labour](/en/post/labour/)."
-- "[In](/en/post/in/) [the](/en/post/the/) [course](/en/post/course/) [of](/en/post/of/) [labour](/en/post/labour/)": [During](/en/post/during/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) giving [birth](/en/post/birth/) [or](/en/post/or/) working strenuously towards [a](/en/post/a/) [goal](/en/post/goal/). [Example](/en/post/example/): "[Throughout](/en/post/throughout/) [the](/en/post/the/) [course](/en/post/course/) [of](/en/post/of/) [labour](/en/post/labour/), [the](/en/post/the/) midwife [provided](/en/post/provided/) [constant](/en/post/constant/) [support](/en/post/support/)."
+- "[Labour](/post/labour/) [of](/post/of/) [love](/post/love/)": [A](/post/a/) [task](/post/task/) done [not](/post/not/) [for](/post/for/) [financial](/post/financial/) [gain](/post/gain/) [but](/post/but/) [for](/post/for/) [pleasure](/post/pleasure/) [or](/post/or/) [personal](/post/personal/) [satisfaction](/post/satisfaction/). [Example](/post/example/): "Restoring [the](/post/the/) [old](/post/old/) [car](/post/car/) was [a](/post/a/) [labour](/post/labour/) [of](/post/of/) [love](/post/love/) [for](/post/for/) [him](/post/him/)."
+- "[Manual](/post/manual/) [labour](/post/labour/)": [Physical](/post/physical/) [work](/post/work/), typically involving [the](/post/the/) [use](/post/use/) [of](/post/of/) one's hands [or](/post/or/) [body](/post/body/) [rather](/post/rather/) [than](/post/than/) machinery. [Example](/post/example/): "[Many](/post/many/) jobs [in](/post/in/) [agriculture](/post/agriculture/) [involve](/post/involve/) [manual](/post/manual/) [labour](/post/labour/)."
+- "[In](/post/in/) [the](/post/the/) [course](/post/course/) [of](/post/of/) [labour](/post/labour/)": [During](/post/during/) [the](/post/the/) [process](/post/process/) [of](/post/of/) giving [birth](/post/birth/) [or](/post/or/) working strenuously towards [a](/post/a/) [goal](/post/goal/). [Example](/post/example/): "[Throughout](/post/throughout/) [the](/post/the/) [course](/post/course/) [of](/post/of/) [labour](/post/labour/), [the](/post/the/) midwife [provided](/post/provided/) [constant](/post/constant/) [support](/post/support/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [of](/en/post/of/) [manual](/en/post/manual/) [labour](/en/post/labour/), [he](/en/post/he/) was exhausted [but](/en/post/but/) satisfied [with](/en/post/with/) [his](/en/post/his/) [progress](/en/post/progress/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) laboured tirelessly [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/) [until](/en/post/until/) [its](/en/post/its/) completion."
-- *Childbirth context*: "[The](/en/post/the/) [mother](/en/post/mother/) laboured [for](/en/post/for/) [several](/en/post/several/) hours [before](/en/post/before/) giving [birth](/en/post/birth/) [to](/en/post/to/) [a](/en/post/a/) [healthy](/en/post/healthy/) [baby](/en/post/baby/) [girl](/en/post/girl/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [of](/post/of/) [manual](/post/manual/) [labour](/post/labour/), [he](/post/he/) was exhausted [but](/post/but/) satisfied [with](/post/with/) [his](/post/his/) [progress](/post/progress/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) laboured tirelessly [on](/post/on/) [the](/post/the/) [project](/post/project/) [until](/post/until/) [its](/post/its/) completion."
+- *Childbirth context*: "[The](/post/the/) [mother](/post/mother/) laboured [for](/post/for/) [several](/post/several/) hours [before](/post/before/) giving [birth](/post/birth/) [to](/post/to/) [a](/post/a/) [healthy](/post/healthy/) [baby](/post/baby/) [girl](/post/girl/)."
 
 ## Synonyms
-- [Work](/en/post/work/) ([noun](/en/post/noun/))
-- [Effort](/en/post/effort/) ([noun](/en/post/noun/))
-- [Struggle](/en/post/struggle/) ([noun](/en/post/noun/))
-- Exertion ([noun](/en/post/noun/))
-- Toil ([verb](/en/post/verb/))
-- [Work](/en/post/work/) [hard](/en/post/hard/) ([verb](/en/post/verb/))
-- Endeavor ([verb](/en/post/verb/))
+- [Work](/post/work/) ([noun](/post/noun/))
+- [Effort](/post/effort/) ([noun](/post/noun/))
+- [Struggle](/post/struggle/) ([noun](/post/noun/))
+- Exertion ([noun](/post/noun/))
+- Toil ([verb](/post/verb/))
+- [Work](/post/work/) [hard](/post/hard/) ([verb](/post/verb/))
+- Endeavor ([verb](/post/verb/))

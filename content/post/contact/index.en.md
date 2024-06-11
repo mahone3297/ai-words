@@ -7,40 +7,40 @@ description = '[ˈkɔntækt] vt.使接触；与…联系'
 keywords = ['ai words', 'contact']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈnʌkt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Contact](/en/post/contact/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [instance](/en/post/instance/) [of](/en/post/of/) touching [or](/en/post/or/) coming [into](/en/post/into/) [physical](/en/post/physical/) [connection](/en/post/connection/); [a](/en/post/a/) [meeting](/en/post/meeting/) [or](/en/post/or/) [encounter](/en/post/encounter/). [For](/en/post/for/) [example](/en/post/example/): "Maintaining [regular](/en/post/regular/) [contact](/en/post/contact/) [with](/en/post/with/) [family](/en/post/family/) is [important](/en/post/important/)."
-2. **[Contact](/en/post/contact/) [information](/en/post/information/)**: Details [that](/en/post/that/) [enable](/en/post/enable/) [communication](/en/post/communication/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [phone](/en/post/phone/) [number](/en/post/number/) [or](/en/post/or/) email [address](/en/post/address/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [provide](/en/post/provide/) [your](/en/post/your/) [contact](/en/post/contact/) details [so](/en/post/so/) [we](/en/post/we/) [can](/en/post/can/) [stay](/en/post/stay/) [in](/en/post/in/) [touch](/en/post/touch/)."
-3. **[Contact](/en/post/contact/) [lens](/en/post/lens/)**: [A](/en/post/a/) [thin](/en/post/thin/), [transparent](/en/post/transparent/) [lens](/en/post/lens/) worn [on](/en/post/on/) [the](/en/post/the/) [eye](/en/post/eye/) [to](/en/post/to/) [correct](/en/post/correct/) [vision](/en/post/vision/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) wears [contact](/en/post/contact/) lenses [instead](/en/post/instead/) [of](/en/post/of/) glasses."
+### [Noun](/post/noun/)
+1. **[Contact](/post/contact/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [instance](/post/instance/) [of](/post/of/) touching [or](/post/or/) coming [into](/post/into/) [physical](/post/physical/) [connection](/post/connection/); [a](/post/a/) [meeting](/post/meeting/) [or](/post/or/) [encounter](/post/encounter/). [For](/post/for/) [example](/post/example/): "Maintaining [regular](/post/regular/) [contact](/post/contact/) [with](/post/with/) [family](/post/family/) is [important](/post/important/)."
+2. **[Contact](/post/contact/) [information](/post/information/)**: Details [that](/post/that/) [enable](/post/enable/) [communication](/post/communication/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [phone](/post/phone/) [number](/post/number/) [or](/post/or/) email [address](/post/address/). [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [provide](/post/provide/) [your](/post/your/) [contact](/post/contact/) details [so](/post/so/) [we](/post/we/) [can](/post/can/) [stay](/post/stay/) [in](/post/in/) [touch](/post/touch/)."
+3. **[Contact](/post/contact/) [lens](/post/lens/)**: [A](/post/a/) [thin](/post/thin/), [transparent](/post/transparent/) [lens](/post/lens/) worn [on](/post/on/) [the](/post/the/) [eye](/post/eye/) [to](/post/to/) [correct](/post/correct/) [vision](/post/vision/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) wears [contact](/post/contact/) lenses [instead](/post/instead/) [of](/post/of/) glasses."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [communicate](/en/post/communicate/) [or](/en/post/or/) interact [with](/en/post/with/) [someone](/en/post/someone/), [often](/en/post/often/) [by](/en/post/by/) [phone](/en/post/phone/) [or](/en/post/or/) email. [For](/en/post/for/) [example](/en/post/example/): "I'll [contact](/en/post/contact/) [the](/en/post/the/) vendor [to](/en/post/to/) [discuss](/en/post/discuss/) [the](/en/post/the/) [delivery](/en/post/delivery/) [schedule](/en/post/schedule/)."
-2. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [connection](/en/post/connection/) [or](/en/post/or/) [establish](/en/post/establish/) rapport. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) therapist helps clients [make](/en/post/make/) [emotional](/en/post/emotional/) [contact](/en/post/contact/) [with](/en/post/with/) [their](/en/post/their/) feelings."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [communicate](/post/communicate/) [or](/post/or/) interact [with](/post/with/) [someone](/post/someone/), [often](/post/often/) [by](/post/by/) [phone](/post/phone/) [or](/post/or/) email. [For](/post/for/) [example](/post/example/): "I'll [contact](/post/contact/) [the](/post/the/) vendor [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) [delivery](/post/delivery/) [schedule](/post/schedule/)."
+2. [To](/post/to/) [make](/post/make/) [a](/post/a/) [connection](/post/connection/) [or](/post/or/) [establish](/post/establish/) rapport. [For](/post/for/) [example](/post/example/): "[The](/post/the/) therapist helps clients [make](/post/make/) [emotional](/post/emotional/) [contact](/post/contact/) [with](/post/with/) [their](/post/their/) feelings."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [touch](/en/post/touch/) [or](/en/post/or/) [connection](/en/post/connection/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) tactile [contact](/en/post/contact/) sensor."
-2. Having [or](/en/post/or/) involving [communication](/en/post/communication/) [or](/en/post/or/) [interaction](/en/post/interaction/). [For](/en/post/for/) [example](/en/post/example/): "[Contact](/en/post/contact/) sports [often](/en/post/often/) [involve](/en/post/involve/) [physical](/en/post/physical/) [contact](/en/post/contact/)."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [touch](/post/touch/) [or](/post/or/) [connection](/post/connection/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) tactile [contact](/post/contact/) sensor."
+2. Having [or](/post/or/) involving [communication](/post/communication/) [or](/post/or/) [interaction](/post/interaction/). [For](/post/for/) [example](/post/example/): "[Contact](/post/contact/) sports [often](/post/often/) [involve](/post/involve/) [physical](/post/physical/) [contact](/post/contact/)."
 
 ## Phrases
-- "[Get](/en/post/get/) [in](/en/post/in/) [touch](/en/post/touch/)" [means](/en/post/means/) [to](/en/post/to/) initiate [communication](/en/post/communication/).
-- "[Out](/en/post/out/) [of](/en/post/of/) [contact](/en/post/contact/)" implies [being](/en/post/being/) unreachable [or](/en/post/or/) disconnected.
-- "Non-contact [sport](/en/post/sport/)" refers [to](/en/post/to/) [a](/en/post/a/) [game](/en/post/game/) played [without](/en/post/without/) [physical](/en/post/physical/) [contact](/en/post/contact/).
+- "[Get](/post/get/) [in](/post/in/) [touch](/post/touch/)" [means](/post/means/) [to](/post/to/) initiate [communication](/post/communication/).
+- "[Out](/post/out/) [of](/post/of/) [contact](/post/contact/)" implies [being](/post/being/) unreachable [or](/post/or/) disconnected.
+- "Non-contact [sport](/post/sport/)" refers [to](/post/to/) [a](/post/a/) [game](/post/game/) played [without](/post/without/) [physical](/post/physical/) [contact](/post/contact/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) reached [out](/en/post/out/) [to](/en/post/to/) [me](/en/post/me/) [after](/en/post/after/) [many](/en/post/many/) years [of](/en/post/of/) [no](/en/post/no/) [contact](/en/post/contact/)."
-- **[Verb](/en/post/verb/)**: "I'll [contact](/en/post/contact/) [the](/en/post/the/) [hotel](/en/post/hotel/) [to](/en/post/to/) [book](/en/post/book/) [a](/en/post/a/) [room](/en/post/room/) [for](/en/post/for/) [our](/en/post/our/) [trip](/en/post/trip/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [device](/en/post/device/) allows hands-free contactless payments."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) reached [out](/post/out/) [to](/post/to/) [me](/post/me/) [after](/post/after/) [many](/post/many/) years [of](/post/of/) [no](/post/no/) [contact](/post/contact/)."
+- **[Verb](/post/verb/)**: "I'll [contact](/post/contact/) [the](/post/the/) [hotel](/post/hotel/) [to](/post/to/) [book](/post/book/) [a](/post/a/) [room](/post/room/) [for](/post/for/) [our](/post/our/) [trip](/post/trip/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [device](/post/device/) allows hands-free contactless payments."
 
 ## Synonyms
-- [Reach](/en/post/reach/) [out](/en/post/out/)
-- [Connect](/en/post/connect/) [with](/en/post/with/)
+- [Reach](/post/reach/) [out](/post/out/)
+- [Connect](/post/connect/) [with](/post/with/)
 - Interact
-- [Communicate](/en/post/communicate/)
-- [Exchange](/en/post/exchange/)
-- [Touch](/en/post/touch/) [base](/en/post/base/)
-- [Engage](/en/post/engage/)
-- [Link](/en/post/link/) [up](/en/post/up/)
+- [Communicate](/post/communicate/)
+- [Exchange](/post/exchange/)
+- [Touch](/post/touch/) [base](/post/base/)
+- [Engage](/post/engage/)
+- [Link](/post/link/) [up](/post/up/)
 - Contactual (informal)

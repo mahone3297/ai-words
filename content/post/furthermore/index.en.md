@@ -7,28 +7,28 @@ description = '[fəːðəˈmɔː(r)] ad.而且，此外'
 keywords = ['ai words', 'furthermore']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɜːrðərˈmɔːr/
 
 ## Definitions
-**[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [addition](/en/post/addition/) [to](/en/post/to/) [what](/en/post/what/) has [already](/en/post/already/) been said [or](/en/post/or/) done; [moreover](/en/post/moreover/). [It](/en/post/it/) is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [additional](/en/post/additional/) [information](/en/post/information/) [or](/en/post/or/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [something](/en/post/something/) [that](/en/post/that/) supports [or](/en/post/or/) strengthens [a](/en/post/a/) [previous](/en/post/previous/) [statement](/en/post/statement/).
+**[Adverb](/post/adverb/)**: [In](/post/in/) [addition](/post/addition/) [to](/post/to/) [what](/post/what/) has [already](/post/already/) been said [or](/post/or/) done; [moreover](/post/moreover/). [It](/post/it/) is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [additional](/post/additional/) [information](/post/information/) [or](/post/or/) [to](/post/to/) [emphasize](/post/emphasize/) [something](/post/something/) [that](/post/that/) supports [or](/post/or/) strengthens [a](/post/a/) [previous](/post/previous/) [statement](/post/statement/).
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _The [weather](/en/post/weather/) was [bad](/en/post/bad/); **[furthermore](/en/post/furthermore/)**, [we](/en/post/we/) were running [late](/en/post/late/)._
+[Example](/post/example/) [sentence](/post/sentence/): _The [weather](/post/weather/) was [bad](/post/bad/); **[furthermore](/post/furthermore/)**, [we](/post/we/) were running [late](/post/late/)._
 
 ## Phrases
-- "[Furthermore](/en/post/furthermore/), [it](/en/post/it/) [should](/en/post/should/) [be](/en/post/be/) noted [that](/en/post/that/)..." ([used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) an [additional](/en/post/additional/) [point](/en/post/point/) [in](/en/post/in/) an [argument](/en/post/argument/))
-- "[Not](/en/post/not/) [only](/en/post/only/) [this](/en/post/this/), [but](/en/post/but/) [furthermore](/en/post/furthermore/)..." (emphasizing [that](/en/post/that/) [another](/en/post/another/) [important](/en/post/important/) [point](/en/post/point/) follows)
+- "[Furthermore](/post/furthermore/), [it](/post/it/) [should](/post/should/) [be](/post/be/) noted [that](/post/that/)..." ([used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) an [additional](/post/additional/) [point](/post/point/) [in](/post/in/) an [argument](/post/argument/))
+- "[Not](/post/not/) [only](/post/only/) [this](/post/this/), [but](/post/but/) [furthermore](/post/furthermore/)..." (emphasizing [that](/post/that/) [another](/post/another/) [important](/post/important/) [point](/post/point/) follows)
 
-## [Example](/en/post/example/) Sentences
-- _She wasn't [just](/en/post/just/) [skilled](/en/post/skilled/); **[furthermore](/en/post/furthermore/)**, [she](/en/post/she/) had years [of](/en/post/of/) [experience](/en/post/experience/)._
-- _The [project](/en/post/project/) was [behind](/en/post/behind/) [schedule](/en/post/schedule/); **[furthermore](/en/post/furthermore/)**, [the](/en/post/the/) budget had been exceeded._
+## [Example](/post/example/) Sentences
+- _She wasn't [just](/post/just/) [skilled](/post/skilled/); **[furthermore](/post/furthermore/)**, [she](/post/she/) had years [of](/post/of/) [experience](/post/experience/)._
+- _The [project](/post/project/) was [behind](/post/behind/) [schedule](/post/schedule/); **[furthermore](/post/furthermore/)**, [the](/post/the/) budget had been exceeded._
 
 ## Synonyms
-- [Moreover](/en/post/moreover/)
+- [Moreover](/post/moreover/)
 - Additionally
-- [Besides](/en/post/besides/)
-- What's [more](/en/post/more/)
-- [In](/en/post/in/) [addition](/en/post/addition/)
-- [Also](/en/post/also/)
-- [Further](/en/post/further/)
-- [To](/en/post/to/) [boot](/en/post/boot/)
+- [Besides](/post/besides/)
+- What's [more](/post/more/)
+- [In](/post/in/) [addition](/post/addition/)
+- [Also](/post/also/)
+- [Further](/post/further/)
+- [To](/post/to/) [boot](/post/boot/)

@@ -7,29 +7,29 @@ description = '[ˈɔːfn] ad.经常，常常'
 keywords = ['ai words', 'often']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːfn/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Frequently](/en/post/frequently/); [many](/en/post/many/) times [at](/en/post/at/) intervals; [regularly](/en/post/regularly/). [For](/en/post/for/) [example](/en/post/example/): "I [often](/en/post/often/) [go](/en/post/go/) [for](/en/post/for/) walks [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Adjective](/en/post/adjective/)**: (archaic) [Frequent](/en/post/frequent/); [common](/en/post/common/); [usual](/en/post/usual/). 
+- **[Adverb](/post/adverb/)**: [Frequently](/post/frequently/); [many](/post/many/) times [at](/post/at/) intervals; [regularly](/post/regularly/). [For](/post/for/) [example](/post/example/): "I [often](/post/often/) [go](/post/go/) [for](/post/for/) walks [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **[Adjective](/post/adjective/)**: (archaic) [Frequent](/post/frequent/); [common](/post/common/); [usual](/post/usual/). 
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) [often](/en/post/often/) reads books [before](/en/post/before/) going [to](/en/post/to/) [bed](/en/post/bed/)."
-- "[They](/en/post/they/) [often](/en/post/often/) [discuss](/en/post/discuss/) [current](/en/post/current/) events [over](/en/post/over/) [dinner](/en/post/dinner/)."
-- "[Do](/en/post/do/) [you](/en/post/you/) [often](/en/post/often/) [travel](/en/post/travel/) [for](/en/post/for/) [work](/en/post/work/)?"
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) [often](/post/often/) reads books [before](/post/before/) going [to](/post/to/) [bed](/post/bed/)."
+- "[They](/post/they/) [often](/post/often/) [discuss](/post/discuss/) [current](/post/current/) events [over](/post/over/) [dinner](/post/dinner/)."
+- "[Do](/post/do/) [you](/post/you/) [often](/post/often/) [travel](/post/travel/) [for](/post/for/) [work](/post/work/)?"
 
 ## Phrases
-- "[As](/en/post/as/) [often](/en/post/often/) [as](/en/post/as/) [not](/en/post/not/)" [means](/en/post/means/) [that](/en/post/that/) [something](/en/post/something/) happens [frequently](/en/post/frequently/) [or](/en/post/or/) equally [as](/en/post/as/) [frequently](/en/post/frequently/) [as](/en/post/as/) [it](/en/post/it/) doesn't [happen](/en/post/happen/). [Example](/en/post/example/): "[As](/en/post/as/) [often](/en/post/often/) [as](/en/post/as/) [not](/en/post/not/), [he](/en/post/he/) forgets [his](/en/post/his/) keys."
-- "[More](/en/post/more/) [often](/en/post/often/) [than](/en/post/than/) [not](/en/post/not/)" implies [that](/en/post/that/) [something](/en/post/something/) [usually](/en/post/usually/) happens. [Example](/en/post/example/): "[More](/en/post/more/) [often](/en/post/often/) [than](/en/post/than/) [not](/en/post/not/), [she](/en/post/she/) arrives [early](/en/post/early/) [for](/en/post/for/) meetings."
+- "[As](/post/as/) [often](/post/often/) [as](/post/as/) [not](/post/not/)" [means](/post/means/) [that](/post/that/) [something](/post/something/) happens [frequently](/post/frequently/) [or](/post/or/) equally [as](/post/as/) [frequently](/post/frequently/) [as](/post/as/) [it](/post/it/) doesn't [happen](/post/happen/). [Example](/post/example/): "[As](/post/as/) [often](/post/often/) [as](/post/as/) [not](/post/not/), [he](/post/he/) forgets [his](/post/his/) keys."
+- "[More](/post/more/) [often](/post/often/) [than](/post/than/) [not](/post/not/)" implies [that](/post/that/) [something](/post/something/) [usually](/post/usually/) happens. [Example](/post/example/): "[More](/post/more/) [often](/post/often/) [than](/post/than/) [not](/post/not/), [she](/post/she/) arrives [early](/post/early/) [for](/post/for/) meetings."
 
 ## Synonyms
-- [Frequently](/en/post/frequently/)
-- [Regularly](/en/post/regularly/)
-- [Commonly](/en/post/commonly/)
+- [Frequently](/post/frequently/)
+- [Regularly](/post/regularly/)
+- [Commonly](/post/commonly/)
 - Habitually
 - Routinely
-- [Repeatedly](/en/post/repeatedly/)
+- [Repeatedly](/post/repeatedly/)
 - Typically
 
-[Note](/en/post/note/): [The](/en/post/the/) [term](/en/post/term/) "[often](/en/post/often/)" does [not](/en/post/not/) [have](/en/post/have/) [direct](/en/post/direct/) synonyms [across](/en/post/across/) [all](/en/post/all/) [its](/en/post/its/) uses [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [verb](/en/post/verb/), [as](/en/post/as/) [it](/en/post/it/) functions [primarily](/en/post/primarily/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [in](/en/post/in/) [modern](/en/post/modern/) English. [However](/en/post/however/), [when](/en/post/when/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [frequency](/en/post/frequency/), [the](/en/post/the/) [above](/en/post/above/) synonyms [apply](/en/post/apply/).
+[Note](/post/note/): [The](/post/the/) [term](/post/term/) "[often](/post/often/)" does [not](/post/not/) [have](/post/have/) [direct](/post/direct/) synonyms [across](/post/across/) [all](/post/all/) [its](/post/its/) uses [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [verb](/post/verb/), [as](/post/as/) [it](/post/it/) functions [primarily](/post/primarily/) [as](/post/as/) an [adverb](/post/adverb/) [in](/post/in/) [modern](/post/modern/) English. [However](/post/however/), [when](/post/when/) [used](/post/used/) [in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [frequency](/post/frequency/), [the](/post/the/) [above](/post/above/) synonyms [apply](/post/apply/).

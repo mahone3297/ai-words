@@ -7,30 +7,30 @@ description = '[kis] vt.吻 vi.接吻 n.吻'
 keywords = ['ai words', 'kiss']
 +++
 
-## [Word](/en/post/word/): [Kiss](/en/post/kiss/)
+## [Word](/post/word/): [Kiss](/post/kiss/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kiːs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [gentle](/en/post/gentle/) [touch](/en/post/touch/) [or](/en/post/or/) pressing [of](/en/post/of/) one's lips [against](/en/post/against/) [another](/en/post/another/) person's [skin](/en/post/skin/), typically [on](/en/post/on/) [the](/en/post/the/) [cheek](/en/post/cheek/) [or](/en/post/or/) lips, [as](/en/post/as/) an [expression](/en/post/expression/) [of](/en/post/of/) [affection](/en/post/affection/), [love](/en/post/love/), [greeting](/en/post/greeting/), [respect](/en/post/respect/), [or](/en/post/or/) [farewell](/en/post/farewell/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) gave [her](/en/post/her/) [mother](/en/post/mother/) [a](/en/post/a/) loving [kiss](/en/post/kiss/) [on](/en/post/on/) [the](/en/post/the/) [cheek](/en/post/cheek/) [before](/en/post/before/) leaving [for](/en/post/for/) [school](/en/post/school/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [touch](/en/post/touch/) [with](/en/post/with/) [the](/en/post/the/) lips, [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [sign](/en/post/sign/) [of](/en/post/of/) [affection](/en/post/affection/), [love](/en/post/love/), reverence, [or](/en/post/or/) [greeting](/en/post/greeting/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) newlyweds kissed [after](/en/post/after/) exchanging [their](/en/post/their/) vows."
+- **[Noun](/post/noun/)**: [A](/post/a/) [gentle](/post/gentle/) [touch](/post/touch/) [or](/post/or/) pressing [of](/post/of/) one's lips [against](/post/against/) [another](/post/another/) person's [skin](/post/skin/), typically [on](/post/on/) [the](/post/the/) [cheek](/post/cheek/) [or](/post/or/) lips, [as](/post/as/) an [expression](/post/expression/) [of](/post/of/) [affection](/post/affection/), [love](/post/love/), [greeting](/post/greeting/), [respect](/post/respect/), [or](/post/or/) [farewell](/post/farewell/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) gave [her](/post/her/) [mother](/post/mother/) [a](/post/a/) loving [kiss](/post/kiss/) [on](/post/on/) [the](/post/the/) [cheek](/post/cheek/) [before](/post/before/) leaving [for](/post/for/) [school](/post/school/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [touch](/post/touch/) [with](/post/with/) [the](/post/the/) lips, [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [sign](/post/sign/) [of](/post/of/) [affection](/post/affection/), [love](/post/love/), reverence, [or](/post/or/) [greeting](/post/greeting/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) newlyweds kissed [after](/post/after/) exchanging [their](/post/their/) vows."
 
 ### Phrases
-- "[Kiss](/en/post/kiss/) [and](/en/post/and/) [make](/en/post/make/) [up](/en/post/up/)" refers [to](/en/post/to/) resolving [a](/en/post/a/) disagreement [or](/en/post/or/) [conflict](/en/post/conflict/) [by](/en/post/by/) showing [affection](/en/post/affection/) [and](/en/post/and/) reconciliation.
-- "[Blow](/en/post/blow/) [a](/en/post/a/) [kiss](/en/post/kiss/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) puckering one's lips [and](/en/post/and/) [then](/en/post/then/) releasing [them](/en/post/them/) [while](/en/post/while/) making [a](/en/post/a/) kissing [sound](/en/post/sound/), [often](/en/post/often/) done playfully [or](/en/post/or/) [to](/en/post/to/) [express](/en/post/express/) [affection](/en/post/affection/) [from](/en/post/from/) [a](/en/post/a/) [distance](/en/post/distance/).
-- "[Kiss](/en/post/kiss/) [goodbye](/en/post/goodbye/)" [means](/en/post/means/) [to](/en/post/to/) [part](/en/post/part/) [from](/en/post/from/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [with](/en/post/with/) [a](/en/post/a/) [final](/en/post/final/) [expression](/en/post/expression/) [of](/en/post/of/) [affection](/en/post/affection/), [or](/en/post/or/) [it](/en/post/it/) [can](/en/post/can/) metaphorically [suggest](/en/post/suggest/) losing [something](/en/post/something/) [permanently](/en/post/permanently/).
-- "French [kiss](/en/post/kiss/)" is [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [kiss](/en/post/kiss/) [where](/en/post/where/) tongues [touch](/en/post/touch/), [often](/en/post/often/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) passionate [or](/en/post/or/) [intimate](/en/post/intimate/) [form](/en/post/form/) [of](/en/post/of/) kissing.
+- "[Kiss](/post/kiss/) [and](/post/and/) [make](/post/make/) [up](/post/up/)" refers [to](/post/to/) resolving [a](/post/a/) disagreement [or](/post/or/) [conflict](/post/conflict/) [by](/post/by/) showing [affection](/post/affection/) [and](/post/and/) reconciliation.
+- "[Blow](/post/blow/) [a](/post/a/) [kiss](/post/kiss/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) puckering one's lips [and](/post/and/) [then](/post/then/) releasing [them](/post/them/) [while](/post/while/) making [a](/post/a/) kissing [sound](/post/sound/), [often](/post/often/) done playfully [or](/post/or/) [to](/post/to/) [express](/post/express/) [affection](/post/affection/) [from](/post/from/) [a](/post/a/) [distance](/post/distance/).
+- "[Kiss](/post/kiss/) [goodbye](/post/goodbye/)" [means](/post/means/) [to](/post/to/) [part](/post/part/) [from](/post/from/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [with](/post/with/) [a](/post/a/) [final](/post/final/) [expression](/post/expression/) [of](/post/of/) [affection](/post/affection/), [or](/post/or/) [it](/post/it/) [can](/post/can/) metaphorically [suggest](/post/suggest/) losing [something](/post/something/) [permanently](/post/permanently/).
+- "French [kiss](/post/kiss/)" is [a](/post/a/) [type](/post/type/) [of](/post/of/) [kiss](/post/kiss/) [where](/post/where/) tongues [touch](/post/touch/), [often](/post/often/) [used](/post/used/) [as](/post/as/) [a](/post/a/) passionate [or](/post/or/) [intimate](/post/intimate/) [form](/post/form/) [of](/post/of/) kissing.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[A](/en/post/a/) peck [on](/en/post/on/) [the](/en/post/the/) [cheek](/en/post/cheek/) was [his](/en/post/his/) [usual](/en/post/usual/) [morning](/en/post/morning/) [kiss](/en/post/kiss/) [to](/en/post/to/) [his](/en/post/his/) [wife](/en/post/wife/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) leaned [in](/en/post/in/) [to](/en/post/to/) [kiss](/en/post/kiss/) [her](/en/post/her/) [forehead](/en/post/forehead/) [as](/en/post/as/) [she](/en/post/she/) fell [asleep](/en/post/asleep/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[A](/post/a/) peck [on](/post/on/) [the](/post/the/) [cheek](/post/cheek/) was [his](/post/his/) [usual](/post/usual/) [morning](/post/morning/) [kiss](/post/kiss/) [to](/post/to/) [his](/post/his/) [wife](/post/wife/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) leaned [in](/post/in/) [to](/post/to/) [kiss](/post/kiss/) [her](/post/her/) [forehead](/post/forehead/) [as](/post/as/) [she](/post/she/) fell [asleep](/post/asleep/)."
 
 ## Synonyms
-- [Embrace](/en/post/embrace/)
+- [Embrace](/post/embrace/)
 - Smooch
 - Peck
 - Liplock
 - Buss
-- osculate ([formal](/en/post/formal/))
-- Caress ([with](/en/post/with/) lips)
+- osculate ([formal](/post/formal/))
+- Caress ([with](/post/with/) lips)

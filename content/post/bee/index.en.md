@@ -7,37 +7,37 @@ description = '[biː] n.蜂，密蜂；忙碌的人'
 keywords = ['ai words', 'bee']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /beɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [bee](/en/post/bee/) is [a](/en/post/a/) [small](/en/post/small/), typically [yellow](/en/post/yellow/) [and](/en/post/and/) [black](/en/post/black/), flying [insect](/en/post/insect/) [that](/en/post/that/) is an [important](/en/post/important/) pollinator [in](/en/post/in/) [many](/en/post/many/) ecosystems. [It](/en/post/it/) belongs [to](/en/post/to/) [the](/en/post/the/) [order](/en/post/order/) Hymenoptera [and](/en/post/and/) [the](/en/post/the/) [family](/en/post/family/) Apidae.
+### [Noun](/post/noun/)
+[A](/post/a/) [bee](/post/bee/) is [a](/post/a/) [small](/post/small/), typically [yellow](/post/yellow/) [and](/post/and/) [black](/post/black/), flying [insect](/post/insect/) [that](/post/that/) is an [important](/post/important/) pollinator [in](/post/in/) [many](/post/many/) ecosystems. [It](/post/it/) belongs [to](/post/to/) [the](/post/the/) [order](/post/order/) Hymenoptera [and](/post/and/) [the](/post/the/) [family](/post/family/) Apidae.
 
-### [Verb](/en/post/verb/) (transitive)
-[To](/en/post/to/) [bee](/en/post/bee/) ([as](/en/post/as/) [in](/en/post/in/) "[be](/en/post/be/)") is [not](/en/post/not/) [a](/en/post/a/) [standard](/en/post/standard/) [verb](/en/post/verb/) [form](/en/post/form/) [for](/en/post/for/) [this](/en/post/this/) [word](/en/post/word/); [however](/en/post/however/), [one](/en/post/one/) [can](/en/post/can/) [use](/en/post/use/) "[to](/en/post/to/) honeybee" [or](/en/post/or/) "[to](/en/post/to/) [imitate](/en/post/imitate/) bees" metaphorically. [For](/en/post/for/) [example](/en/post/example/):
-- "[The](/en/post/the/) bees honeybuned [the](/en/post/the/) flowers, transferring pollen [from](/en/post/from/) [one](/en/post/one/) [plant](/en/post/plant/) [to](/en/post/to/) [another](/en/post/another/)."
-- "[She](/en/post/she/) was [a](/en/post/a/) [busy](/en/post/busy/) [bee](/en/post/bee/), organizing [the](/en/post/the/) [charity](/en/post/charity/) [event](/en/post/event/) [all](/en/post/all/) [day](/en/post/day/)."
+### [Verb](/post/verb/) (transitive)
+[To](/post/to/) [bee](/post/bee/) ([as](/post/as/) [in](/post/in/) "[be](/post/be/)") is [not](/post/not/) [a](/post/a/) [standard](/post/standard/) [verb](/post/verb/) [form](/post/form/) [for](/post/for/) [this](/post/this/) [word](/post/word/); [however](/post/however/), [one](/post/one/) [can](/post/can/) [use](/post/use/) "[to](/post/to/) honeybee" [or](/post/or/) "[to](/post/to/) [imitate](/post/imitate/) bees" metaphorically. [For](/post/for/) [example](/post/example/):
+- "[The](/post/the/) bees honeybuned [the](/post/the/) flowers, transferring pollen [from](/post/from/) [one](/post/one/) [plant](/post/plant/) [to](/post/to/) [another](/post/another/)."
+- "[She](/post/she/) was [a](/post/a/) [busy](/post/busy/) [bee](/post/bee/), organizing [the](/post/the/) [charity](/post/charity/) [event](/post/event/) [all](/post/all/) [day](/post/day/)."
 
-### [Noun](/en/post/noun/) ([collective](/en/post/collective/))
-[Bee](/en/post/bee/) ([plural](/en/post/plural/) bees) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [collective](/en/post/collective/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [these](/en/post/these/) insects, [like](/en/post/like/) "[a](/en/post/a/) [swarm](/en/post/swarm/) [of](/en/post/of/) bees."
+### [Noun](/post/noun/) ([collective](/post/collective/))
+[Bee](/post/bee/) ([plural](/post/plural/) bees) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [collective](/post/collective/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) [these](/post/these/) insects, [like](/post/like/) "[a](/post/a/) [swarm](/post/swarm/) [of](/post/of/) bees."
 
-### [Adjective](/en/post/adjective/)
-"Bee-like" describes [something](/en/post/something/) having qualities [similar](/en/post/similar/) [to](/en/post/to/) bees, [such](/en/post/such/) [as](/en/post/as/) industriousness [or](/en/post/or/) [social](/en/post/social/) [organization](/en/post/organization/).
+### [Adjective](/post/adjective/)
+"Bee-like" describes [something](/post/something/) having qualities [similar](/post/similar/) [to](/post/to/) bees, [such](/post/such/) [as](/post/as/) industriousness [or](/post/or/) [social](/post/social/) [organization](/post/organization/).
 
 ## Phrases
-- "[Follow](/en/post/follow/) [the](/en/post/the/) [lead](/en/post/lead/) [of](/en/post/of/) [the](/en/post/the/) [worker](/en/post/worker/) bees" implies模仿蜜蜂的勤劳。
-- "Beeswax" is [the](/en/post/the/) [natural](/en/post/natural/) [wax](/en/post/wax/) produced [by](/en/post/by/) [worker](/en/post/worker/) bees.
-- "Beekeeping" is [the](/en/post/the/) [practice](/en/post/practice/) [of](/en/post/of/) maintaining [bee](/en/post/bee/) colonies [for](/en/post/for/) [honey](/en/post/honey/) [production](/en/post/production/) [or](/en/post/or/) pollination.
+- "[Follow](/post/follow/) [the](/post/the/) [lead](/post/lead/) [of](/post/of/) [the](/post/the/) [worker](/post/worker/) bees" implies模仿蜜蜂的勤劳。
+- "Beeswax" is [the](/post/the/) [natural](/post/natural/) [wax](/post/wax/) produced [by](/post/by/) [worker](/post/worker/) bees.
+- "Beekeeping" is [the](/post/the/) [practice](/post/practice/) [of](/post/of/) maintaining [bee](/post/bee/) colonies [for](/post/for/) [honey](/post/honey/) [production](/post/production/) [or](/post/or/) pollination.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [garden](/en/post/garden/) was [alive](/en/post/alive/) [with](/en/post/with/) [the](/en/post/the/) buzzing [of](/en/post/of/) bees [on](/en/post/on/) [a](/en/post/a/) [sunny](/en/post/sunny/) [day](/en/post/day/)."
-- **[Collective](/en/post/collective/) [Noun](/en/post/noun/)**: "[The](/en/post/the/) beekeeper had [to](/en/post/to/) shoo [away](/en/post/away/) [the](/en/post/the/) swarming bees [from](/en/post/from/) [his](/en/post/his/) apiary."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) organizational skills were bee-like, [always](/en/post/always/) keeping tasks [in](/en/post/in/) [order](/en/post/order/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [garden](/post/garden/) was [alive](/post/alive/) [with](/post/with/) [the](/post/the/) buzzing [of](/post/of/) bees [on](/post/on/) [a](/post/a/) [sunny](/post/sunny/) [day](/post/day/)."
+- **[Collective](/post/collective/) [Noun](/post/noun/)**: "[The](/post/the/) beekeeper had [to](/post/to/) shoo [away](/post/away/) [the](/post/the/) swarming bees [from](/post/from/) [his](/post/his/) apiary."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) organizational skills were bee-like, [always](/post/always/) keeping tasks [in](/post/in/) [order](/post/order/)."
 
 ## Synonyms
 - Honeybee
 - Honey-maker
 - Pollinator
-- [Worker](/en/post/worker/) ([when](/en/post/when/) referring [to](/en/post/to/) [individual](/en/post/individual/) bees [in](/en/post/in/) [a](/en/post/a/) [colony](/en/post/colony/))
-- [Social](/en/post/social/) [insect](/en/post/insect/) (describing [their](/en/post/their/) [collective](/en/post/collective/) [nature](/en/post/nature/))
+- [Worker](/post/worker/) ([when](/post/when/) referring [to](/post/to/) [individual](/post/individual/) bees [in](/post/in/) [a](/post/a/) [colony](/post/colony/))
+- [Social](/post/social/) [insect](/post/insect/) (describing [their](/post/their/) [collective](/post/collective/) [nature](/post/nature/))

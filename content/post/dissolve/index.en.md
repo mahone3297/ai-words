@@ -7,35 +7,35 @@ description = '[diˈzɔlv] vt.使溶解；解散'
 keywords = ['ai words', 'dissolve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈzɒlvd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) related [to](/en/post/to/) [the](/en/post/the/) [verb](/en/post/verb/) "[dissolve](/en/post/dissolve/)" [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [chemical](/en/post/chemical/) [process](/en/post/process/) [or](/en/post/or/) an [act](/en/post/act/) [of](/en/post/of/) making [something](/en/post/something/) ([such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [mixture](/en/post/mixture/)) [separate](/en/post/separate/) [into](/en/post/into/) [its](/en/post/its/) constituent parts [or](/en/post/or/) [lose](/en/post/lose/) [its](/en/post/its/) [form](/en/post/form/).
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) related [to](/post/to/) [the](/post/the/) [verb](/post/verb/) "[dissolve](/post/dissolve/)" [can](/post/can/) [be](/post/be/) [a](/post/a/) [chemical](/post/chemical/) [process](/post/process/) [or](/post/or/) an [act](/post/act/) [of](/post/of/) making [something](/post/something/) ([such](/post/such/) [as](/post/as/) [a](/post/a/) [mixture](/post/mixture/)) [separate](/post/separate/) [into](/post/into/) [its](/post/its/) constituent parts [or](/post/or/) [lose](/post/lose/) [its](/post/its/) [form](/post/form/).
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [dissolve](/en/post/dissolve/)** (transitive): [To](/en/post/to/) [break](/en/post/break/) [down](/en/post/down/) [or](/en/post/or/) [separate](/en/post/separate/) [into](/en/post/into/) smaller particles, [usually](/en/post/usually/) [by](/en/post/by/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) [a](/en/post/a/) solvent, e.g., [sugar](/en/post/sugar/) dissolves [in](/en/post/in/) [water](/en/post/water/).
-2. **[To](/en/post/to/) [dissolve](/en/post/dissolve/) [a](/en/post/a/) [relationship](/en/post/relationship/) [or](/en/post/or/) [agreement](/en/post/agreement/)**: [To](/en/post/to/) [end](/en/post/end/) [or](/en/post/or/) [cancel](/en/post/cancel/) [a](/en/post/a/) [formal](/en/post/formal/) [connection](/en/post/connection/), e.g., "[The](/en/post/the/) partnership was dissolved [due](/en/post/due/) [to](/en/post/to/) disagreements."
-3. **[To](/en/post/to/) [lose](/en/post/lose/) [focus](/en/post/focus/) [or](/en/post/or/) [attention](/en/post/attention/)**: [To](/en/post/to/) [become](/en/post/become/) distracted [or](/en/post/or/) [fade](/en/post/fade/) [away](/en/post/away/), e.g., "[His](/en/post/his/) words [slowly](/en/post/slowly/) dissolved [into](/en/post/into/) [a](/en/post/a/) [whisper](/en/post/whisper/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [dissolve](/post/dissolve/)** (transitive): [To](/post/to/) [break](/post/break/) [down](/post/down/) [or](/post/or/) [separate](/post/separate/) [into](/post/into/) smaller particles, [usually](/post/usually/) [by](/post/by/) [the](/post/the/) [action](/post/action/) [of](/post/of/) [a](/post/a/) solvent, e.g., [sugar](/post/sugar/) dissolves [in](/post/in/) [water](/post/water/).
+2. **[To](/post/to/) [dissolve](/post/dissolve/) [a](/post/a/) [relationship](/post/relationship/) [or](/post/or/) [agreement](/post/agreement/)**: [To](/post/to/) [end](/post/end/) [or](/post/or/) [cancel](/post/cancel/) [a](/post/a/) [formal](/post/formal/) [connection](/post/connection/), e.g., "[The](/post/the/) partnership was dissolved [due](/post/due/) [to](/post/to/) disagreements."
+3. **[To](/post/to/) [lose](/post/lose/) [focus](/post/focus/) [or](/post/or/) [attention](/post/attention/)**: [To](/post/to/) [become](/post/become/) distracted [or](/post/or/) [fade](/post/fade/) [away](/post/away/), e.g., "[His](/post/his/) words [slowly](/post/slowly/) dissolved [into](/post/into/) [a](/post/a/) [whisper](/post/whisper/)."
 
-### [Adjective](/en/post/adjective/)
-Referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) has been dissolved, e.g., "[a](/en/post/a/) dissolved [corporation](/en/post/corporation/)."
+### [Adjective](/post/adjective/)
+Referring [to](/post/to/) [something](/post/something/) [that](/post/that/) has been dissolved, e.g., "[a](/post/a/) dissolved [corporation](/post/corporation/)."
 
 ## Phrases
-- "[Dissolve](/en/post/dissolve/) [a](/en/post/a/) [conflict](/en/post/conflict/)" [means](/en/post/means/) [to](/en/post/to/) [resolve](/en/post/resolve/) [a](/en/post/a/) disagreement [or](/en/post/or/) [issue](/en/post/issue/).
-- "Dissolved [sugar](/en/post/sugar/)" describes [sugar](/en/post/sugar/) [that](/en/post/that/) has been mixed [with](/en/post/with/) [a](/en/post/a/) [liquid](/en/post/liquid/) [until](/en/post/until/) [it](/en/post/it/) [no](/en/post/no/) longer appears [solid](/en/post/solid/).
-- "Dissolved [government](/en/post/government/)" refers [to](/en/post/to/) [a](/en/post/a/) [government](/en/post/government/) [that](/en/post/that/) has lost [its](/en/post/its/) [authority](/en/post/authority/) [or](/en/post/or/) [function](/en/post/function/).
+- "[Dissolve](/post/dissolve/) [a](/post/a/) [conflict](/post/conflict/)" [means](/post/means/) [to](/post/to/) [resolve](/post/resolve/) [a](/post/a/) disagreement [or](/post/or/) [issue](/post/issue/).
+- "Dissolved [sugar](/post/sugar/)" describes [sugar](/post/sugar/) [that](/post/that/) has been mixed [with](/post/with/) [a](/post/a/) [liquid](/post/liquid/) [until](/post/until/) [it](/post/it/) [no](/post/no/) longer appears [solid](/post/solid/).
+- "Dissolved [government](/post/government/)" refers [to](/post/to/) [a](/post/a/) [government](/post/government/) [that](/post/that/) has lost [its](/post/its/) [authority](/post/authority/) [or](/post/or/) [function](/post/function/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [salt](/en/post/salt/) dissolved [completely](/en/post/completely/) [in](/en/post/in/) [the](/en/post/the/) [warm](/en/post/warm/) [water](/en/post/water/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) shareholders agreed [to](/en/post/to/) [dissolve](/en/post/dissolve/) [the](/en/post/the/) [company](/en/post/company/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) dissolved [fertilizer](/en/post/fertilizer/) is [essential](/en/post/essential/) [for](/en/post/for/) [plant](/en/post/plant/) [growth](/en/post/growth/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [salt](/post/salt/) dissolved [completely](/post/completely/) [in](/post/in/) [the](/post/the/) [warm](/post/warm/) [water](/post/water/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) shareholders agreed [to](/post/to/) [dissolve](/post/dissolve/) [the](/post/the/) [company](/post/company/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) dissolved [fertilizer](/post/fertilizer/) is [essential](/post/essential/) [for](/post/for/) [plant](/post/plant/) [growth](/post/growth/)."
 
 ## Synonyms
 - Disintegrate
-- [Melt](/en/post/melt/)
+- [Melt](/post/melt/)
 -化解
 - Dissociate
-- Liquefy ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [solid](/en/post/solid/) [turning](/en/post/turning/) [into](/en/post/into/) [a](/en/post/a/) [liquid](/en/post/liquid/))
-- Wane ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [decrease](/en/post/decrease/) [in](/en/post/in/) [intensity](/en/post/intensity/) [or](/en/post/or/) [focus](/en/post/focus/))
+- Liquefy ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) [solid](/post/solid/) [turning](/post/turning/) [into](/post/into/) [a](/post/a/) [liquid](/post/liquid/))
+- Wane ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) [decrease](/post/decrease/) [in](/post/in/) [intensity](/post/intensity/) [or](/post/or/) [focus](/post/focus/))

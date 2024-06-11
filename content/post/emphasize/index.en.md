@@ -7,36 +7,36 @@ description = '[ˈemfəsaiz] vt.强调，着重'
 keywords = ['ai words', 'emphasize']
 +++
 
-## [Word](/en/post/word/): [Emphasize](/en/post/emphasize/)
+## [Word](/post/word/): [Emphasize](/post/emphasize/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɛm.fə.sʌɪz/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [give](/en/post/give/) [special](/en/post/special/) [importance](/en/post/importance/) [or](/en/post/or/) prominence [to](/en/post/to/) [something](/en/post/something/); [to](/en/post/to/) [draw](/en/post/draw/) [particular](/en/post/particular/) [attention](/en/post/attention/) [to](/en/post/to/) [a](/en/post/a/) [point](/en/post/point/) [or](/en/post/or/) [fact](/en/post/fact/) [by](/en/post/by/) [dwelling](/en/post/dwelling/) [on](/en/post/on/) [it](/en/post/it/) [or](/en/post/or/) expressing [it](/en/post/it/) forcefully.
+- **[Verb](/post/verb/)**: [To](/post/to/) [give](/post/give/) [special](/post/special/) [importance](/post/importance/) [or](/post/or/) prominence [to](/post/to/) [something](/post/something/); [to](/post/to/) [draw](/post/draw/) [particular](/post/particular/) [attention](/post/attention/) [to](/post/to/) [a](/post/a/) [point](/post/point/) [or](/post/or/) [fact](/post/fact/) [by](/post/by/) [dwelling](/post/dwelling/) [on](/post/on/) [it](/post/it/) [or](/post/or/) expressing [it](/post/it/) forcefully.
 
 ### Examples:
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [speaker](/en/post/speaker/) emphasized [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) teamwork [in](/en/post/in/) [his](/en/post/his/) presentation."
-  - "[In](/en/post/in/) [her](/en/post/her/) [essay](/en/post/essay/), [she](/en/post/she/) emphasized [how](/en/post/how/) crucial [it](/en/post/it/) is [to](/en/post/to/) recycle [for](/en/post/for/) environmental sustainability."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [speaker](/post/speaker/) emphasized [the](/post/the/) [importance](/post/importance/) [of](/post/of/) teamwork [in](/post/in/) [his](/post/his/) presentation."
+  - "[In](/post/in/) [her](/post/her/) [essay](/post/essay/), [she](/post/she/) emphasized [how](/post/how/) crucial [it](/post/it/) is [to](/post/to/) recycle [for](/post/for/) environmental sustainability."
   
 ## Phrases
-- "[To](/en/post/to/) [emphasize](/en/post/emphasize/) [a](/en/post/a/) [point](/en/post/point/)": [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [specific](/en/post/specific/) [detail](/en/post/detail/) [stand](/en/post/stand/) [out](/en/post/out/) [or](/en/post/or/) [be](/en/post/be/) [more](/en/post/more/) memorable.
-- "[Emphasize](/en/post/emphasize/) [on](/en/post/on/) [something](/en/post/something/)": [To](/en/post/to/) [lay](/en/post/lay/) [stress](/en/post/stress/) [upon](/en/post/upon/) [a](/en/post/a/) [particular](/en/post/particular/) [aspect](/en/post/aspect/) [or](/en/post/or/) [feature](/en/post/feature/).
-- "[Put](/en/post/put/) [emphasis](/en/post/emphasis/) [on](/en/post/on/)": [To](/en/post/to/) [give](/en/post/give/) greater [weight](/en/post/weight/) [or](/en/post/or/) [significance](/en/post/significance/) [to](/en/post/to/) [something](/en/post/something/).
+- "[To](/post/to/) [emphasize](/post/emphasize/) [a](/post/a/) [point](/post/point/)": [To](/post/to/) [make](/post/make/) [a](/post/a/) [specific](/post/specific/) [detail](/post/detail/) [stand](/post/stand/) [out](/post/out/) [or](/post/or/) [be](/post/be/) [more](/post/more/) memorable.
+- "[Emphasize](/post/emphasize/) [on](/post/on/) [something](/post/something/)": [To](/post/to/) [lay](/post/lay/) [stress](/post/stress/) [upon](/post/upon/) [a](/post/a/) [particular](/post/particular/) [aspect](/post/aspect/) [or](/post/or/) [feature](/post/feature/).
+- "[Put](/post/put/) [emphasis](/post/emphasis/) [on](/post/on/)": [To](/post/to/) [give](/post/give/) greater [weight](/post/weight/) [or](/post/or/) [significance](/post/significance/) [to](/post/to/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) emphasized [the](/en/post/the/) [need](/en/post/need/) [for](/en/post/for/) students [to](/en/post/to/) [revise](/en/post/revise/) [their](/en/post/their/) notes [regularly](/en/post/regularly/)."
-- "[She](/en/post/she/) emphasized [her](/en/post/her/) words [with](/en/post/with/) [dramatic](/en/post/dramatic/) [hand](/en/post/hand/) gestures [to](/en/post/to/) [ensure](/en/post/ensure/) [everyone](/en/post/everyone/) understood [the](/en/post/the/) [gravity](/en/post/gravity/) [of](/en/post/of/) [the](/en/post/the/) [situation](/en/post/situation/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) emphasized [the](/post/the/) [need](/post/need/) [for](/post/for/) students [to](/post/to/) [revise](/post/revise/) [their](/post/their/) notes [regularly](/post/regularly/)."
+- "[She](/post/she/) emphasized [her](/post/her/) words [with](/post/with/) [dramatic](/post/dramatic/) [hand](/post/hand/) gestures [to](/post/to/) [ensure](/post/ensure/) [everyone](/post/everyone/) understood [the](/post/the/) [gravity](/post/gravity/) [of](/post/of/) [the](/post/the/) [situation](/post/situation/)."
 
 ## Synonyms
-- [Stress](/en/post/stress/)
+- [Stress](/post/stress/)
 - Highlight
 - Accentuate
-- [Draw](/en/post/draw/) [attention](/en/post/attention/) [to](/en/post/to/)
-- [Underline](/en/post/underline/)
-- [Call](/en/post/call/) [attention](/en/post/attention/) [to](/en/post/to/)
+- [Draw](/post/draw/) [attention](/post/attention/) [to](/post/to/)
+- [Underline](/post/underline/)
+- [Call](/post/call/) [attention](/post/attention/) [to](/post/to/)
 - Spotlight
-- [Exaggerate](/en/post/exaggerate/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- [Point](/en/post/point/) [up](/en/post/up/)
-- [Bring](/en/post/bring/) [out](/en/post/out/)
-- [Give](/en/post/give/) prominence [to](/en/post/to/)
+- [Exaggerate](/post/exaggerate/) ([in](/post/in/) [certain](/post/certain/) contexts)
+- [Point](/post/point/) [up](/post/up/)
+- [Bring](/post/bring/) [out](/post/out/)
+- [Give](/post/give/) prominence [to](/post/to/)

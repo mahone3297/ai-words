@@ -7,32 +7,32 @@ description = '[stres] n.压力；重音 vt.着重'
 keywords = ['ai words', 'stress']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stres/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [emphasis](/en/post/emphasis/) placed [on](/en/post/on/) [certain](/en/post/certain/) syllables [in](/en/post/in/) [a](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [phrase](/en/post/phrase/), [often](/en/post/often/) indicating [importance](/en/post/importance/) [or](/en/post/or/) [rhythm](/en/post/rhythm/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) 'redress,' [the](/en/post/the/) [stress](/en/post/stress/) is [on](/en/post/on/) [the](/en/post/the/) [second](/en/post/second/) syllable."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [place](/en/post/place/) [emphasis](/en/post/emphasis/) [or](/en/post/or/) [stress](/en/post/stress/) [on](/en/post/on/) ([a](/en/post/a/) [particular](/en/post/particular/) syllable [or](/en/post/or/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [word](/en/post/word/)). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) stressed [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) [time](/en/post/time/) [management](/en/post/management/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [the](/en/post/the/) [distribution](/en/post/distribution/) [of](/en/post/of/) [stress](/en/post/stress/) [in](/en/post/in/) words [or](/en/post/or/) sounds. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [sentence](/en/post/sentence/) [structure](/en/post/structure/) had [a](/en/post/a/) predictable [stress](/en/post/stress/) [pattern](/en/post/pattern/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [emphasis](/post/emphasis/) placed [on](/post/on/) [certain](/post/certain/) syllables [in](/post/in/) [a](/post/a/) [word](/post/word/) [or](/post/or/) [phrase](/post/phrase/), [often](/post/often/) indicating [importance](/post/importance/) [or](/post/or/) [rhythm](/post/rhythm/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) 'redress,' [the](/post/the/) [stress](/post/stress/) is [on](/post/on/) [the](/post/the/) [second](/post/second/) syllable."
+- **[Verb](/post/verb/)**: [To](/post/to/) [place](/post/place/) [emphasis](/post/emphasis/) [or](/post/or/) [stress](/post/stress/) [on](/post/on/) ([a](/post/a/) [particular](/post/particular/) syllable [or](/post/or/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [word](/post/word/)). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) stressed [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [time](/post/time/) [management](/post/management/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [the](/post/the/) [distribution](/post/distribution/) [of](/post/of/) [stress](/post/stress/) [in](/post/in/) words [or](/post/or/) sounds. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [sentence](/post/sentence/) [structure](/post/structure/) had [a](/post/a/) predictable [stress](/post/stress/) [pattern](/post/pattern/)."
 
 ## Phrases
-- "Stressed syllables" [indicate](/en/post/indicate/) [where](/en/post/where/) [the](/en/post/the/) [emphasis](/en/post/emphasis/) falls [in](/en/post/in/) [a](/en/post/a/) [word](/en/post/word/).
-- "Changing [the](/en/post/the/) [stress](/en/post/stress/) [pattern](/en/post/pattern/)" [can](/en/post/can/) [alter](/en/post/alter/) [the](/en/post/the/) [meaning](/en/post/meaning/) [or](/en/post/or/) [emphasis](/en/post/emphasis/) [of](/en/post/of/) [a](/en/post/a/) [phrase](/en/post/phrase/).
-- "[A](/en/post/a/) [word](/en/post/word/) [with](/en/post/with/) [no](/en/post/no/) [stress](/en/post/stress/)" is [one](/en/post/one/) [where](/en/post/where/) [all](/en/post/all/) syllables are equally weighted.
+- "Stressed syllables" [indicate](/post/indicate/) [where](/post/where/) [the](/post/the/) [emphasis](/post/emphasis/) falls [in](/post/in/) [a](/post/a/) [word](/post/word/).
+- "Changing [the](/post/the/) [stress](/post/stress/) [pattern](/post/pattern/)" [can](/post/can/) [alter](/post/alter/) [the](/post/the/) [meaning](/post/meaning/) [or](/post/or/) [emphasis](/post/emphasis/) [of](/post/of/) [a](/post/a/) [phrase](/post/phrase/).
+- "[A](/post/a/) [word](/post/word/) [with](/post/with/) [no](/post/no/) [stress](/post/stress/)" is [one](/post/one/) [where](/post/where/) [all](/post/all/) syllables are equally weighted.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) pronounced [the](/en/post/the/) [word](/en/post/word/) 'unprecedented' [with](/en/post/with/) [a](/en/post/a/) [strong](/en/post/strong/) [stress](/en/post/stress/) [on](/en/post/on/) [the](/en/post/the/) [second](/en/post/second/) syllable."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [actor](/en/post/actor/) practiced [her](/en/post/her/) lines, placing [extra](/en/post/extra/) [stress](/en/post/stress/) [on](/en/post/on/) [key](/en/post/key/) points."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [language](/en/post/language/) [coach](/en/post/coach/) helped [him](/en/post/him/) [improve](/en/post/improve/) [his](/en/post/his/) [stress](/en/post/stress/) placement [in](/en/post/in/) [foreign](/en/post/foreign/) phrases."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) pronounced [the](/post/the/) [word](/post/word/) 'unprecedented' [with](/post/with/) [a](/post/a/) [strong](/post/strong/) [stress](/post/stress/) [on](/post/on/) [the](/post/the/) [second](/post/second/) syllable."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [actor](/post/actor/) practiced [her](/post/her/) lines, placing [extra](/post/extra/) [stress](/post/stress/) [on](/post/on/) [key](/post/key/) points."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [language](/post/language/) [coach](/post/coach/) helped [him](/post/him/) [improve](/post/improve/) [his](/post/his/) [stress](/post/stress/) placement [in](/post/in/) [foreign](/post/foreign/) phrases."
 
 ## Synonyms
-- [Emphasis](/en/post/emphasis/)
+- [Emphasis](/post/emphasis/)
 - Accentuation
-- Tonal [emphasis](/en/post/emphasis/)
-- Rhythmic [emphasis](/en/post/emphasis/)
+- Tonal [emphasis](/post/emphasis/)
+- Rhythmic [emphasis](/post/emphasis/)
 - Weighting
 
 ## Antonyms
 - Unstressed
 - Tone-deaf
-- [Flat](/en/post/flat/) ([as](/en/post/as/) [in](/en/post/in/) lacking [emphasis](/en/post/emphasis/))
+- [Flat](/post/flat/) ([as](/post/as/) [in](/post/in/) lacking [emphasis](/post/emphasis/))

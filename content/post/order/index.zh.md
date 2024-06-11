@@ -12,28 +12,28 @@ keywords = ['ai words', 'order']
 
 ## 释义
 - **名词**:
-  - 排列，顺序：如 "[Please](/post/please/) [put](/post/put/) [these](/post/these/) books [in](/post/in/) [order](/post/order/)."
-  - 命令，指示：如 "[The](/post/the/) manager gave [us](/post/us/) [clear](/post/clear/) orders [for](/post/for/) [the](/post/the/) [project](/post/project/)."
-  - 订单：如 "I'd [like](/post/like/) [to](/post/to/) [place](/post/place/) an [order](/post/order/) [for](/post/for/) [a](/post/a/) pizza."
-  - 规则，制度：如 "[We](/post/we/) [need](/post/need/) [to](/post/to/) [follow](/post/follow/) [the](/post/the/) school's [dress](/post/dress/) [code](/post/code/) [order](/post/order/)."
+  - 排列，顺序：如 "[Please](/zh/post/please/) [put](/zh/post/put/) [these](/zh/post/these/) books [in](/zh/post/in/) [order](/zh/post/order/)."
+  - 命令，指示：如 "[The](/zh/post/the/) manager gave [us](/zh/post/us/) [clear](/zh/post/clear/) orders [for](/zh/post/for/) [the](/zh/post/the/) [project](/zh/post/project/)."
+  - 订单：如 "I'd [like](/zh/post/like/) [to](/zh/post/to/) [place](/zh/post/place/) an [order](/zh/post/order/) [for](/zh/post/for/) [a](/zh/post/a/) pizza."
+  - 规则，制度：如 "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [follow](/zh/post/follow/) [the](/zh/post/the/) school's [dress](/zh/post/dress/) [code](/zh/post/code/) [order](/zh/post/order/)."
 
 - **动词**:
-  - 安排，整理：如 "[She](/post/she/) ordered [her](/post/her/) books alphabetically."
-  - 预订，点餐：如 "[Can](/post/can/) I [order](/post/order/) [a](/post/a/) [coffee](/post/coffee/), [please](/post/please/)?"
+  - 安排，整理：如 "[She](/zh/post/she/) ordered [her](/zh/post/her/) books alphabetically."
+  - 预订，点餐：如 "[Can](/zh/post/can/) I [order](/zh/post/order/) [a](/zh/post/a/) [coffee](/zh/post/coffee/), [please](/zh/post/please/)?"
 
 ## 短语
-- "[in](/post/in/) [order](/post/order/)" 表示正常、有秩序：如 "[Everything](/post/everything/) is [in](/post/in/) [order](/post/order/) [now](/post/now/)."
-- "[out](/post/out/) [of](/post/of/) [order](/post/order/)" 指出故障或无序：如 "[The](/post/the/) printer is [out](/post/out/) [of](/post/of/) [order](/post/order/)."
-- "[place](/post/place/) an [order](/post/order/)" 下订单：如 "I'm going [to](/post/to/) [place](/post/place/) an [order](/post/order/) [for](/post/for/) [some](/post/some/) [new](/post/new/) [office](/post/office/) supplies."
+- "[in](/zh/post/in/) [order](/zh/post/order/)" 表示正常、有秩序：如 "[Everything](/zh/post/everything/) is [in](/zh/post/in/) [order](/zh/post/order/) [now](/zh/post/now/)."
+- "[out](/zh/post/out/) [of](/zh/post/of/) [order](/zh/post/order/)" 指出故障或无序：如 "[The](/zh/post/the/) printer is [out](/zh/post/out/) [of](/zh/post/of/) [order](/zh/post/order/)."
+- "[place](/zh/post/place/) an [order](/zh/post/order/)" 下订单：如 "I'm going [to](/zh/post/to/) [place](/zh/post/place/) an [order](/zh/post/order/) [for](/zh/post/for/) [some](/zh/post/some/) [new](/zh/post/new/) [office](/zh/post/office/) supplies."
 
 ## 例句
-- 名词: "[The](/post/the/) [library](/post/library/) [staff](/post/staff/) were [busy](/post/busy/) putting [the](/post/the/) returned books [back](/post/back/) [in](/post/in/) [order](/post/order/)."
-- 动词: "[He](/post/he/) ordered [a](/post/a/) steak [and](/post/and/) [a](/post/a/) [glass](/post/glass/) [of](/post/of/) [red](/post/red/) [wine](/post/wine/) [for](/post/for/) [dinner](/post/dinner/)."
-- 情景对话: "[Excuse](/post/excuse/) [me](/post/me/), [can](/post/can/) I [order](/post/order/) dessert [now](/post/now/)?"
+- 名词: "[The](/zh/post/the/) [library](/zh/post/library/) [staff](/zh/post/staff/) were [busy](/zh/post/busy/) putting [the](/zh/post/the/) returned books [back](/zh/post/back/) [in](/zh/post/in/) [order](/zh/post/order/)."
+- 动词: "[He](/zh/post/he/) ordered [a](/zh/post/a/) steak [and](/zh/post/and/) [a](/zh/post/a/) [glass](/zh/post/glass/) [of](/zh/post/of/) [red](/zh/post/red/) [wine](/zh/post/wine/) [for](/zh/post/for/) [dinner](/zh/post/dinner/)."
+- 情景对话: "[Excuse](/zh/post/excuse/) [me](/zh/post/me/), [can](/zh/post/can/) I [order](/zh/post/order/) dessert [now](/zh/post/now/)?"
 
 ## 同义词
-- [arrange](/post/arrange/)
-- [sort](/post/sort/)
-- [request](/post/request/)
-- [command](/post/command/)
+- [arrange](/zh/post/arrange/)
+- [sort](/zh/post/sort/)
+- [request](/zh/post/request/)
+- [command](/zh/post/command/)
 - instruct

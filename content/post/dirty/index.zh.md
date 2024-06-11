@@ -11,20 +11,20 @@ keywords = ['ai words', 'dirty']
 /dɜːrti/
 
 ## 释义
-- **形容词**: 肮脏的，不干净的。例如: "[The](/post/the/) [kitchen](/post/kitchen/) [floor](/post/floor/) was [dirty](/post/dirty/) [after](/post/after/) cooking."
-- **副词**: 肮脏地，污秽地。例如: "[He](/post/he/) cleaned [the](/post/the/) [window](/post/window/) [so](/post/so/) [dirty](/post/dirty/) [that](/post/that/) [it](/post/it/) sparkled [again](/post/again/)."
+- **形容词**: 肮脏的，不干净的。例如: "[The](/zh/post/the/) [kitchen](/zh/post/kitchen/) [floor](/zh/post/floor/) was [dirty](/zh/post/dirty/) [after](/zh/post/after/) cooking."
+- **副词**: 肮脏地，污秽地。例如: "[He](/zh/post/he/) cleaned [the](/zh/post/the/) [window](/zh/post/window/) [so](/zh/post/so/) [dirty](/zh/post/dirty/) [that](/zh/post/that/) [it](/zh/post/it/) sparkled [again](/zh/post/again/)."
 
 ## 短语
-- "[dirty](/post/dirty/) [laundry](/post/laundry/)" 指不可告人的秘密或丑闻。
-- "[get](/post/get/) one's hands [dirty](/post/dirty/)" 意味着参与实际工作或做不道德的事情。
+- "[dirty](/zh/post/dirty/) [laundry](/zh/post/laundry/)" 指不可告人的秘密或丑闻。
+- "[get](/zh/post/get/) one's hands [dirty](/zh/post/dirty/)" 意味着参与实际工作或做不道德的事情。
 
 ## 例句
-- 形容词: "[Please](/post/please/) [wash](/post/wash/) [your](/post/your/) hands, they're [dirty](/post/dirty/)."
-- 副词: "[She](/post/she/) washed [the](/post/the/) dishes [dirty](/post/dirty/) [with](/post/with/) [soap](/post/soap/) [and](/post/and/) [water](/post/water/)."
+- 形容词: "[Please](/zh/post/please/) [wash](/zh/post/wash/) [your](/zh/post/your/) hands, they're [dirty](/zh/post/dirty/)."
+- 副词: "[She](/zh/post/she/) washed [the](/zh/post/the/) dishes [dirty](/zh/post/dirty/) [with](/zh/post/with/) [soap](/zh/post/soap/) [and](/zh/post/and/) [water](/zh/post/water/)."
 
 ## 同义词
 - Filthy
 - Unclean
 - Soiled
 - Grubby
-- [Muddy](/post/muddy/)
+- [Muddy](/zh/post/muddy/)

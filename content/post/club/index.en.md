@@ -7,40 +7,40 @@ description = '[klʌb] n.俱乐部，夜总会'
 keywords = ['ai words', 'club']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /klʌb/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Club](/en/post/club/)**: [A](/en/post/a/) [social](/en/post/social/) [organization](/en/post/organization/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/) [or](/en/post/or/) [interest](/en/post/interest/), [where](/en/post/where/) members [gather](/en/post/gather/) [for](/en/post/for/) activities, meetings, [or](/en/post/or/) events. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) [club](/en/post/club/) meets [every](/en/post/every/) [month](/en/post/month/) [to](/en/post/to/) [discuss](/en/post/discuss/) [their](/en/post/their/) latest [read](/en/post/read/)."
-- **[Social](/en/post/social/) [Club](/en/post/club/)**: [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) [come](/en/post/come/) [together](/en/post/together/) [for](/en/post/for/) [leisure](/en/post/leisure/), networking, [or](/en/post/or/) shared hobbies. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [golf](/en/post/golf/) [club](/en/post/club/) is known [for](/en/post/for/) [its](/en/post/its/) picturesque [course](/en/post/course/) [and](/en/post/and/) [friendly](/en/post/friendly/) [atmosphere](/en/post/atmosphere/)."
-- **Sports [Club](/en/post/club/)**: An [organization](/en/post/organization/) [that](/en/post/that/) focuses [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [sport](/en/post/sport/), providing facilities [and](/en/post/and/) teams [for](/en/post/for/) [its](/en/post/its/) members. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) joined [the](/en/post/the/) [local](/en/post/local/) [tennis](/en/post/tennis/) [club](/en/post/club/) [to](/en/post/to/) [improve](/en/post/improve/) [his](/en/post/his/) [game](/en/post/game/)."
+### [Noun](/post/noun/)
+- **[Club](/post/club/)**: [A](/post/a/) [social](/post/social/) [organization](/post/organization/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/) [or](/post/or/) [interest](/post/interest/), [where](/post/where/) members [gather](/post/gather/) [for](/post/for/) activities, meetings, [or](/post/or/) events. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) [club](/post/club/) meets [every](/post/every/) [month](/post/month/) [to](/post/to/) [discuss](/post/discuss/) [their](/post/their/) latest [read](/post/read/)."
+- **[Social](/post/social/) [Club](/post/club/)**: [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [who](/post/who/) [come](/post/come/) [together](/post/together/) [for](/post/for/) [leisure](/post/leisure/), networking, [or](/post/or/) shared hobbies. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [golf](/post/golf/) [club](/post/club/) is known [for](/post/for/) [its](/post/its/) picturesque [course](/post/course/) [and](/post/and/) [friendly](/post/friendly/) [atmosphere](/post/atmosphere/)."
+- **Sports [Club](/post/club/)**: An [organization](/post/organization/) [that](/post/that/) focuses [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [sport](/post/sport/), providing facilities [and](/post/and/) teams [for](/post/for/) [its](/post/its/) members. [For](/post/for/) [example](/post/example/): "[He](/post/he/) joined [the](/post/the/) [local](/post/local/) [tennis](/post/tennis/) [club](/post/club/) [to](/post/to/) [improve](/post/improve/) [his](/post/his/) [game](/post/game/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [belong](/en/post/belong/) [to](/en/post/to/) [a](/en/post/a/) [club](/en/post/club/)**: [To](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [organization](/en/post/organization/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) belongs [to](/en/post/to/) [several](/en/post/several/) clubs [at](/en/post/at/) [university](/en/post/university/), including [the](/en/post/the/) [debate](/en/post/debate/) [club](/en/post/club/) [and](/en/post/and/) [the](/en/post/the/) [chess](/en/post/chess/) [club](/en/post/club/)."
-- **[To](/en/post/to/) [join](/en/post/join/) [a](/en/post/a/) [club](/en/post/club/)**: [To](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) decided [to](/en/post/to/) [join](/en/post/join/) [the](/en/post/the/) astronomy [club](/en/post/club/) [to](/en/post/to/) [learn](/en/post/learn/) [more](/en/post/more/) [about](/en/post/about/) [space](/en/post/space/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [belong](/post/belong/) [to](/post/to/) [a](/post/a/) [club](/post/club/)**: [To](/post/to/) [be](/post/be/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [organization](/post/organization/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) belongs [to](/post/to/) [several](/post/several/) clubs [at](/post/at/) [university](/post/university/), including [the](/post/the/) [debate](/post/debate/) [club](/post/club/) [and](/post/and/) [the](/post/the/) [chess](/post/chess/) [club](/post/club/)."
+- **[To](/post/to/) [join](/post/join/) [a](/post/a/) [club](/post/club/)**: [To](/post/to/) [become](/post/become/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [group](/post/group/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) decided [to](/post/to/) [join](/post/join/) [the](/post/the/) astronomy [club](/post/club/) [to](/post/to/) [learn](/post/learn/) [more](/post/more/) [about](/post/about/) [space](/post/space/)."
 
-### [Noun](/en/post/noun/) (informal)
-- **Clubbing**: Going [out](/en/post/out/) [to](/en/post/to/) nightclubs [for](/en/post/for/) entertainment, typically dancing [and](/en/post/and/) socializing. [For](/en/post/for/) [example](/en/post/example/): "Saturday nights are [usually](/en/post/usually/) spent clubbing [with](/en/post/with/) friends."
+### [Noun](/post/noun/) (informal)
+- **Clubbing**: Going [out](/post/out/) [to](/post/to/) nightclubs [for](/post/for/) entertainment, typically dancing [and](/post/and/) socializing. [For](/post/for/) [example](/post/example/): "Saturday nights are [usually](/post/usually/) spent clubbing [with](/post/with/) friends."
 
 ## Phrases
-- "[Join](/en/post/join/) [a](/en/post/a/) [club](/en/post/club/)" [means](/en/post/means/) [to](/en/post/to/) enroll [or](/en/post/or/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/).
-- "[Club](/en/post/club/) membership" refers [to](/en/post/to/) [the](/en/post/the/) [status](/en/post/status/) [of](/en/post/of/) [being](/en/post/being/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [club](/en/post/club/).
-- "[Club](/en/post/club/) benefits" are privileges offered [to](/en/post/to/) [club](/en/post/club/) members.
+- "[Join](/post/join/) [a](/post/a/) [club](/post/club/)" [means](/post/means/) [to](/post/to/) enroll [or](/post/or/) [participate](/post/participate/) [in](/post/in/) [a](/post/a/) [group](/post/group/).
+- "[Club](/post/club/) membership" refers [to](/post/to/) [the](/post/the/) [status](/post/status/) [of](/post/of/) [being](/post/being/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [club](/post/club/).
+- "[Club](/post/club/) benefits" are privileges offered [to](/post/to/) [club](/post/club/) members.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) enjoys attending [the](/en/post/the/) [literary](/en/post/literary/) club's [monthly](/en/post/monthly/) discussions."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) signed [up](/en/post/up/) [for](/en/post/for/) [the](/en/post/the/) cycling [club](/en/post/club/) [to](/en/post/to/) [stay](/en/post/stay/) [fit](/en/post/fit/)."
-- **Informal [Noun](/en/post/noun/)**: "[We](/en/post/we/) went clubbing [last](/en/post/last/) Friday [and](/en/post/and/) had [a](/en/post/a/) [great](/en/post/great/) [time](/en/post/time/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) enjoys attending [the](/post/the/) [literary](/post/literary/) club's [monthly](/post/monthly/) discussions."
+- **[Verb](/post/verb/)**: "[He](/post/he/) signed [up](/post/up/) [for](/post/for/) [the](/post/the/) cycling [club](/post/club/) [to](/post/to/) [stay](/post/stay/) [fit](/post/fit/)."
+- **Informal [Noun](/post/noun/)**: "[We](/post/we/) went clubbing [last](/post/last/) Friday [and](/post/and/) had [a](/post/a/) [great](/post/great/) [time](/post/time/)."
 
 ## Synonyms
-- [Society](/en/post/society/)
-- [Association](/en/post/association/)
-- [Organization](/en/post/organization/)
-- [Group](/en/post/group/)
+- [Society](/post/society/)
+- [Association](/post/association/)
+- [Organization](/post/organization/)
+- [Group](/post/group/)
 - Ensemble
 - Fraternity
 - Sorority
-- [Institution](/en/post/institution/)
+- [Institution](/post/institution/)
 
-### [Note](/en/post/note/): [The](/en/post/the/) informal [usage](/en/post/usage/) [of](/en/post/of/) "clubbing" [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) is [not](/en/post/not/) considered [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [standard](/en/post/standard/) English, [but](/en/post/but/) [it](/en/post/it/) is [widely](/en/post/widely/) recognized [in](/en/post/in/) [certain](/en/post/certain/) contexts, [particularly](/en/post/particularly/) referring [to](/en/post/to/) nightlife.
+### [Note](/post/note/): [The](/post/the/) informal [usage](/post/usage/) [of](/post/of/) "clubbing" [as](/post/as/) [a](/post/a/) [noun](/post/noun/) is [not](/post/not/) considered [a](/post/a/) [part](/post/part/) [of](/post/of/) [standard](/post/standard/) English, [but](/post/but/) [it](/post/it/) is [widely](/post/widely/) recognized [in](/post/in/) [certain](/post/certain/) contexts, [particularly](/post/particularly/) referring [to](/post/to/) nightlife.

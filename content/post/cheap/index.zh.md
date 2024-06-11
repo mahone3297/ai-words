@@ -11,20 +11,20 @@ keywords = ['ai words', 'cheap']
 /ʃiːp/
 
 ## 释义
-- **形容词**: 便宜的，不昂贵的。例如: "[This](/post/this/) [dress](/post/dress/) is [very](/post/very/) [cheap](/post/cheap/), [so](/post/so/) I bought [it](/post/it/)."
-- **副词**: 廉价地，不值钱地。例如: "[He](/post/he/) sold [his](/post/his/) [old](/post/old/) [car](/post/car/) [cheap](/post/cheap/)."
+- **形容词**: 便宜的，不昂贵的。例如: "[This](/zh/post/this/) [dress](/zh/post/dress/) is [very](/zh/post/very/) [cheap](/zh/post/cheap/), [so](/zh/post/so/) I bought [it](/zh/post/it/)."
+- **副词**: 廉价地，不值钱地。例如: "[He](/zh/post/he/) sold [his](/zh/post/his/) [old](/zh/post/old/) [car](/zh/post/car/) [cheap](/zh/post/cheap/)."
 
 ## 短语
-- "[Cheap](/post/cheap/) [skate](/post/skate/)" 指吝啬鬼，小气的人。
-- "[Cheap](/post/cheap/) [and](/post/and/) [cheerful](/post/cheerful/)" 表示物美价廉，性价比高。
+- "[Cheap](/zh/post/cheap/) [skate](/zh/post/skate/)" 指吝啬鬼，小气的人。
+- "[Cheap](/zh/post/cheap/) [and](/zh/post/and/) [cheerful](/zh/post/cheerful/)" 表示物美价廉，性价比高。
 
 ## 例句
-- 形容词: "[The](/post/the/) [supermarket](/post/supermarket/) has [some](/post/some/) [really](/post/really/) [cheap](/post/cheap/) vegetables [today](/post/today/)."
-- 副词: "[She](/post/she/) managed [to](/post/to/) [get](/post/get/) [a](/post/a/) [flight](/post/flight/) [to](/post/to/) Paris [cheap](/post/cheap/)."
+- 形容词: "[The](/zh/post/the/) [supermarket](/zh/post/supermarket/) has [some](/zh/post/some/) [really](/zh/post/really/) [cheap](/zh/post/cheap/) vegetables [today](/zh/post/today/)."
+- 副词: "[She](/zh/post/she/) managed [to](/zh/post/to/) [get](/zh/post/get/) [a](/zh/post/a/) [flight](/zh/post/flight/) [to](/zh/post/to/) Paris [cheap](/zh/post/cheap/)."
 
 ## 同义词
-- [Inexpensive](/post/inexpensive/)
+- [Inexpensive](/zh/post/inexpensive/)
 - Affordable
-- [Economical](/post/economical/)
+- [Economical](/zh/post/economical/)
 - Budget
 - Low-priced

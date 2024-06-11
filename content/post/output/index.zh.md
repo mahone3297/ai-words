@@ -12,20 +12,20 @@ keywords = ['ai words', 'output']
 
 ## 释义
 - **名词**:
-  - 输出；出产：指从系统、设备或过程中产生的产品、信息或能量。例如: "[The](/post/the/) computer's [output](/post/output/) is displayed [on](/post/on/) [the](/post/the/) [screen](/post/screen/)."
-  - 生产量；产量：一个国家或地区在一定时期内生产的商品和服务总量。例如: "[The](/post/the/) [factory](/post/factory/) increased [its](/post/its/) [output](/post/output/) [by](/post/by/) 20% [last](/post/last/) [year](/post/year/)."
+  - 输出；出产：指从系统、设备或过程中产生的产品、信息或能量。例如: "[The](/zh/post/the/) computer's [output](/zh/post/output/) is displayed [on](/zh/post/on/) [the](/zh/post/the/) [screen](/zh/post/screen/)."
+  - 生产量；产量：一个国家或地区在一定时期内生产的商品和服务总量。例如: "[The](/zh/post/the/) [factory](/zh/post/factory/) increased [its](/zh/post/its/) [output](/zh/post/output/) [by](/zh/post/by/) 20% [last](/zh/post/last/) [year](/zh/post/year/)."
 
 ## 短语
-- "[Input](/post/input/) vs. [Output](/post/output/)" 在计算机术语中，指的是输入与产生的结果。
-- "[Economic](/post/economic/) [output](/post/output/)" 指的是一个国家或地区的经济产值。
+- "[Input](/zh/post/input/) vs. [Output](/zh/post/output/)" 在计算机术语中，指的是输入与产生的结果。
+- "[Economic](/zh/post/economic/) [output](/zh/post/output/)" 指的是一个国家或地区的经济产值。
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) software has significantly improved [the](/post/the/) system's [output](/post/output/)."
-- "[The](/post/the/) farm's [daily](/post/daily/) [milk](/post/milk/) [output](/post/output/) was recorded [and](/post/and/) analyzed."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) software has significantly improved [the](/zh/post/the/) system's [output](/zh/post/output/)."
+- "[The](/zh/post/the/) farm's [daily](/zh/post/daily/) [milk](/zh/post/milk/) [output](/zh/post/output/) was recorded [and](/zh/post/and/) analyzed."
 
 ## 同义词
-- [Result](/post/result/)
-- [Yield](/post/yield/)
-- [Production](/post/production/)
-- [Outcome](/post/outcome/)
+- [Result](/zh/post/result/)
+- [Yield](/zh/post/yield/)
+- [Production](/zh/post/production/)
+- [Outcome](/zh/post/outcome/)
 - Emission

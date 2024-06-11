@@ -12,20 +12,20 @@ keywords = ['ai words', 'smoothly']
 
 ## 释义
 - **副词**: 平稳地，顺利地，流畅地。描述动作或过程没有阻碍或困难。
-    - 例如: "[The](/post/the/) [car](/post/car/) moved [smoothly](/post/smoothly/) [along](/post/along/) [the](/post/the/) winding [road](/post/road/)."
-    - 例如: "[She](/post/she/) spoke [smoothly](/post/smoothly/) [without](/post/without/) [any](/post/any/) pauses."
+    - 例如: "[The](/zh/post/the/) [car](/zh/post/car/) moved [smoothly](/zh/post/smoothly/) [along](/zh/post/along/) [the](/zh/post/the/) winding [road](/zh/post/road/)."
+    - 例如: "[She](/zh/post/she/) spoke [smoothly](/zh/post/smoothly/) [without](/zh/post/without/) [any](/zh/post/any/) pauses."
 
 ## 短语
-- "[Everything](/post/everything/) went [smoothly](/post/smoothly/)" 意味着事情进展顺利，没有问题。
-- "[Perform](/post/perform/) [a](/post/a/) [task](/post/task/) [smoothly](/post/smoothly/)" 指执行任务时效率高，无中断。
+- "[Everything](/zh/post/everything/) went [smoothly](/zh/post/smoothly/)" 意味着事情进展顺利，没有问题。
+- "[Perform](/zh/post/perform/) [a](/zh/post/a/) [task](/zh/post/task/) [smoothly](/zh/post/smoothly/)" 指执行任务时效率高，无中断。
 
 ## 例句
-- "[The](/post/the/) [dance](/post/dance/) [performance](/post/performance/) was executed [smoothly](/post/smoothly/), [with](/post/with/) [no](/post/no/) mistakes."
-- "[The](/post/the/) [project](/post/project/) was completed [smoothly](/post/smoothly/) [within](/post/within/) [the](/post/the/) deadline."
+- "[The](/zh/post/the/) [dance](/zh/post/dance/) [performance](/zh/post/performance/) was executed [smoothly](/zh/post/smoothly/), [with](/zh/post/with/) [no](/zh/post/no/) mistakes."
+- "[The](/zh/post/the/) [project](/zh/post/project/) was completed [smoothly](/zh/post/smoothly/) [within](/zh/post/within/) [the](/zh/post/the/) deadline."
 
 ## 同义词
 - Gracefully
 - Effortlessly
-- [Without](/post/without/) [difficulty](/post/difficulty/)
+- [Without](/zh/post/without/) [difficulty](/zh/post/difficulty/)
 - Seamlessly
 - Fluently

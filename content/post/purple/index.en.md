@@ -7,36 +7,36 @@ description = '[ˈpəːpl] n.紫色 a.紫的'
 keywords = ['ai words', 'purple']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɜːpl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [A](/en/post/a/) [color](/en/post/color/) [intermediate](/en/post/intermediate/) [between](/en/post/between/) [red](/en/post/red/) [and](/en/post/and/) [blue](/en/post/blue/), having [a](/en/post/a/) bluish-violet hue. (CIE [color](/en/post/color/) [space](/en/post/space/): x ≈ 0.57, y ≈ 0.13)
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [shade](/en/post/shade/) [of](/en/post/of/) [this](/en/post/this/) [color](/en/post/color/), [often](/en/post/often/) associated [with](/en/post/with/) royalty [or](/en/post/or/) [luxury](/en/post/luxury/). ([Example](/en/post/example/): "[The](/en/post/the/) [purple](/en/post/purple/) [velvet](/en/post/velvet/) curtains added elegance [to](/en/post/to/) [the](/en/post/the/) [room](/en/post/room/).")
+- **[Adjective](/post/adjective/)**: [A](/post/a/) [color](/post/color/) [intermediate](/post/intermediate/) [between](/post/between/) [red](/post/red/) [and](/post/and/) [blue](/post/blue/), having [a](/post/a/) bluish-violet hue. (CIE [color](/post/color/) [space](/post/space/): x ≈ 0.57, y ≈ 0.13)
+- **[Noun](/post/noun/)**: [A](/post/a/) [shade](/post/shade/) [of](/post/of/) [this](/post/this/) [color](/post/color/), [often](/post/often/) associated [with](/post/with/) royalty [or](/post/or/) [luxury](/post/luxury/). ([Example](/post/example/): "[The](/post/the/) [purple](/post/purple/) [velvet](/post/velvet/) curtains added elegance [to](/post/to/) [the](/post/the/) [room](/post/room/).")
 
 ## Phrases
-- "[Wear](/en/post/wear/) [purple](/en/post/purple/)" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [choose](/en/post/choose/) [this](/en/post/this/) [color](/en/post/color/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) one's attire.
-- "[A](/en/post/a/) [purple](/en/post/purple/) [sunset](/en/post/sunset/)" describes [a](/en/post/a/) [beautiful](/en/post/beautiful/), colorful [sky](/en/post/sky/) [at](/en/post/at/) [dusk](/en/post/dusk/).
-- "[Purple](/en/post/purple/) prose" is [a](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) overly ornate [or](/en/post/or/) flowery [language](/en/post/language/).
+- "[Wear](/post/wear/) [purple](/post/purple/)" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [choose](/post/choose/) [this](/post/this/) [color](/post/color/) [as](/post/as/) [part](/post/part/) [of](/post/of/) one's attire.
+- "[A](/post/a/) [purple](/post/purple/) [sunset](/post/sunset/)" describes [a](/post/a/) [beautiful](/post/beautiful/), colorful [sky](/post/sky/) [at](/post/at/) [dusk](/post/dusk/).
+- "[Purple](/post/purple/) prose" is [a](/post/a/) [term](/post/term/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) overly ornate [or](/post/or/) flowery [language](/post/language/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) bride wore [a](/en/post/a/) stunning [purple](/en/post/purple/) [gown](/en/post/gown/) [for](/en/post/for/) [her](/en/post/her/) [wedding](/en/post/wedding/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) mixed [various](/en/post/various/) shades [of](/en/post/of/) [purple](/en/post/purple/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) vibrant [abstract](/en/post/abstract/) [painting](/en/post/painting/)."
-- **[Adjective](/en/post/adjective/) [phrase](/en/post/phrase/)**: "[The](/en/post/the/) [purple](/en/post/purple/) mountains majestically [rose](/en/post/rose/) [in](/en/post/in/) [the](/en/post/the/) [distance](/en/post/distance/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) bride wore [a](/post/a/) stunning [purple](/post/purple/) [gown](/post/gown/) [for](/post/for/) [her](/post/her/) [wedding](/post/wedding/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) mixed [various](/post/various/) shades [of](/post/of/) [purple](/post/purple/) [to](/post/to/) [create](/post/create/) [a](/post/a/) vibrant [abstract](/post/abstract/) [painting](/post/painting/)."
+- **[Adjective](/post/adjective/) [phrase](/post/phrase/)**: "[The](/post/the/) [purple](/post/purple/) mountains majestically [rose](/post/rose/) [in](/post/in/) [the](/post/the/) [distance](/post/distance/)."
 
 ## Synonyms
-- [Violet](/en/post/violet/)
+- [Violet](/post/violet/)
 - Lilac
 - Mauve
 - Amethyst
-- [Royal](/en/post/royal/)
+- [Royal](/post/royal/)
 
 ## Antonyms
-- [Red](/en/post/red/)
-- [Blue](/en/post/blue/)
-- [Yellow](/en/post/yellow/)
-- [Green](/en/post/green/)
-- [White](/en/post/white/)
-- [Black](/en/post/black/)
+- [Red](/post/red/)
+- [Blue](/post/blue/)
+- [Yellow](/post/yellow/)
+- [Green](/post/green/)
+- [White](/post/white/)
+- [Black](/post/black/)
 
-## [Note](/en/post/note/): [Purple](/en/post/purple/) is [primarily](/en/post/primarily/) an [adjective](/en/post/adjective/) [and](/en/post/and/) [occasionally](/en/post/occasionally/) [a](/en/post/a/) [noun](/en/post/noun/), [not](/en/post/not/) [a](/en/post/a/) [verb](/en/post/verb/) [or](/en/post/or/) interjection. [The](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) "purple-vining" [or](/en/post/or/) "purple-ing" does [not](/en/post/not/) [exist](/en/post/exist/) [in](/en/post/in/) [common](/en/post/common/) English [usage](/en/post/usage/).
+## [Note](/post/note/): [Purple](/post/purple/) is [primarily](/post/primarily/) an [adjective](/post/adjective/) [and](/post/and/) [occasionally](/post/occasionally/) [a](/post/a/) [noun](/post/noun/), [not](/post/not/) [a](/post/a/) [verb](/post/verb/) [or](/post/or/) interjection. [The](/post/the/) [concept](/post/concept/) [of](/post/of/) "purple-vining" [or](/post/or/) "purple-ing" does [not](/post/not/) [exist](/post/exist/) [in](/post/in/) [common](/post/common/) English [usage](/post/usage/).

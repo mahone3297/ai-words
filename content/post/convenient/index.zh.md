@@ -11,21 +11,21 @@ keywords = ['ai words', 'convenient']
 /ˈkɑːnviːnɪənt/
 
 ## 释义
-- **形容词**: 方便的，便利的，容易使用的。例如: "[The](/post/the/) [hotel](/post/hotel/) is conveniently located [near](/post/near/) [the](/post/the/) [airport](/post/airport/)."
-- **副词**: 方便地，便利地。例如: "[He](/post/he/) lives [close](/post/close/) [by](/post/by/), [so](/post/so/) [he](/post/he/) [can](/post/can/) [come](/post/come/) conveniently anytime."
+- **形容词**: 方便的，便利的，容易使用的。例如: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) is conveniently located [near](/zh/post/near/) [the](/zh/post/the/) [airport](/zh/post/airport/)."
+- **副词**: 方便地，便利地。例如: "[He](/zh/post/he/) lives [close](/zh/post/close/) [by](/zh/post/by/), [so](/zh/post/so/) [he](/zh/post/he/) [can](/zh/post/can/) [come](/zh/post/come/) conveniently anytime."
 
 ## 短语
-- "[for](/post/for/) [your](/post/your/) [convenience](/post/convenience/)" 为了您的方便。
-- "[convenient](/post/convenient/) [store](/post/store/)" 便利店，通常指24小时营业的小超市。
-- "[at](/post/at/) one's [convenience](/post/convenience/)" 在某人方便的时候。
+- "[for](/zh/post/for/) [your](/zh/post/your/) [convenience](/zh/post/convenience/)" 为了您的方便。
+- "[convenient](/zh/post/convenient/) [store](/zh/post/store/)" 便利店，通常指24小时营业的小超市。
+- "[at](/zh/post/at/) one's [convenience](/zh/post/convenience/)" 在某人方便的时候。
 
 ## 例句
-- 形容词: "[The](/post/the/) online [shopping](/post/shopping/) [platform](/post/platform/) is [very](/post/very/) [convenient](/post/convenient/) [for](/post/for/) [busy](/post/busy/) [people](/post/people/)."
-- 副词: "[She](/post/she/) scheduled [the](/post/the/) [meeting](/post/meeting/) [at](/post/at/) [a](/post/a/) [time](/post/time/) [that](/post/that/) was [convenient](/post/convenient/) [for](/post/for/) [everyone](/post/everyone/)."
+- 形容词: "[The](/zh/post/the/) online [shopping](/zh/post/shopping/) [platform](/zh/post/platform/) is [very](/zh/post/very/) [convenient](/zh/post/convenient/) [for](/zh/post/for/) [busy](/zh/post/busy/) [people](/zh/post/people/)."
+- 副词: "[She](/zh/post/she/) scheduled [the](/zh/post/the/) [meeting](/zh/post/meeting/) [at](/zh/post/at/) [a](/zh/post/a/) [time](/zh/post/time/) [that](/zh/post/that/) was [convenient](/zh/post/convenient/) [for](/zh/post/for/) [everyone](/zh/post/everyone/)."
 
 ## 同义词
-- [Easy](/post/easy/)
+- [Easy](/zh/post/easy/)
 - Accessible
 - trouble-free
-- [Suitable](/post/suitable/)
+- [Suitable](/zh/post/suitable/)
 - User-friendly

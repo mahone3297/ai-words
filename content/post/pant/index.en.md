@@ -7,26 +7,26 @@ description = '[pænt] n.气喘；心跳'
 keywords = ['ai words', 'pant']
 +++
 
-## [Word](/en/post/word/): [Pant](/en/post/pant/)
+## [Word](/post/word/): [Pant](/post/pant/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pænt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) garment worn [around](/en/post/around/) [the](/en/post/the/) [waist](/en/post/waist/) [and](/en/post/and/) covering [the](/en/post/the/) [body](/en/post/body/) [from](/en/post/from/) [the](/en/post/the/) [waist](/en/post/waist/) [to](/en/post/to/) [the](/en/post/the/) legs, typically [separate](/en/post/separate/) [from](/en/post/from/) [trousers](/en/post/trousers/) [and](/en/post/and/) [often](/en/post/often/) designed [to](/en/post/to/) [be](/en/post/be/) loose-fitting [or](/en/post/or/) stretchy, [especially](/en/post/especially/) [for](/en/post/for/) [comfort](/en/post/comfort/) [during](/en/post/during/) [exercise](/en/post/exercise/) [or](/en/post/or/) [hot](/en/post/hot/) [weather](/en/post/weather/). [Example](/en/post/example/): "[She](/en/post/she/) [put](/en/post/put/) [on](/en/post/on/) [her](/en/post/her/) running pants [before](/en/post/before/) going [out](/en/post/out/) [for](/en/post/for/) [a](/en/post/a/) jog."
-- **[Verb](/en/post/verb/)**: (intransitive) [To](/en/post/to/) [breathe](/en/post/breathe/) [rapidly](/en/post/rapidly/) [and](/en/post/and/) shallowly, [often](/en/post/often/) [due](/en/post/due/) [to](/en/post/to/) [physical](/en/post/physical/) exertion [or](/en/post/or/) excitement. [Example](/en/post/example/): "[After](/en/post/after/) sprinting [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [bus](/en/post/bus/), [he](/en/post/he/) was panting [heavily](/en/post/heavily/)."
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [utter](/en/post/utter/) breathlessly [or](/en/post/or/) [with](/en/post/with/) [effort](/en/post/effort/); [to](/en/post/to/) [emit](/en/post/emit/) [short](/en/post/short/), [quick](/en/post/quick/) breaths audibly. [Example](/en/post/example/): "[The](/en/post/the/) [dog](/en/post/dog/) panted happily [after](/en/post/after/) fetching [the](/en/post/the/) [ball](/en/post/ball/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) garment worn [around](/post/around/) [the](/post/the/) [waist](/post/waist/) [and](/post/and/) covering [the](/post/the/) [body](/post/body/) [from](/post/from/) [the](/post/the/) [waist](/post/waist/) [to](/post/to/) [the](/post/the/) legs, typically [separate](/post/separate/) [from](/post/from/) [trousers](/post/trousers/) [and](/post/and/) [often](/post/often/) designed [to](/post/to/) [be](/post/be/) loose-fitting [or](/post/or/) stretchy, [especially](/post/especially/) [for](/post/for/) [comfort](/post/comfort/) [during](/post/during/) [exercise](/post/exercise/) [or](/post/or/) [hot](/post/hot/) [weather](/post/weather/). [Example](/post/example/): "[She](/post/she/) [put](/post/put/) [on](/post/on/) [her](/post/her/) running pants [before](/post/before/) going [out](/post/out/) [for](/post/for/) [a](/post/a/) jog."
+- **[Verb](/post/verb/)**: (intransitive) [To](/post/to/) [breathe](/post/breathe/) [rapidly](/post/rapidly/) [and](/post/and/) shallowly, [often](/post/often/) [due](/post/due/) [to](/post/to/) [physical](/post/physical/) exertion [or](/post/or/) excitement. [Example](/post/example/): "[After](/post/after/) sprinting [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [bus](/post/bus/), [he](/post/he/) was panting [heavily](/post/heavily/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [utter](/post/utter/) breathlessly [or](/post/or/) [with](/post/with/) [effort](/post/effort/); [to](/post/to/) [emit](/post/emit/) [short](/post/short/), [quick](/post/quick/) breaths audibly. [Example](/post/example/): "[The](/post/the/) [dog](/post/dog/) panted happily [after](/post/after/) fetching [the](/post/the/) [ball](/post/ball/)."
 
 ## Phrases
-- "[Pant](/en/post/pant/) [leg](/en/post/leg/)" refers [to](/en/post/to/) [one](/en/post/one/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [pair](/en/post/pair/) [of](/en/post/of/) pants [that](/en/post/that/) covers an [individual](/en/post/individual/) [leg](/en/post/leg/).
-- "[Out](/en/post/out/) [of](/en/post/of/) [breath](/en/post/breath/)" describes [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [after](/en/post/after/) panting [due](/en/post/due/) [to](/en/post/to/) exhaustion [or](/en/post/or/) [heavy](/en/post/heavy/) exertion.
+- "[Pant](/post/pant/) [leg](/post/leg/)" refers [to](/post/to/) [one](/post/one/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [pair](/post/pair/) [of](/post/of/) pants [that](/post/that/) covers an [individual](/post/individual/) [leg](/post/leg/).
+- "[Out](/post/out/) [of](/post/of/) [breath](/post/breath/)" describes [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [after](/post/after/) panting [due](/post/due/) [to](/post/to/) exhaustion [or](/post/or/) [heavy](/post/heavy/) exertion.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) wore [his](/en/post/his/) favorite [pair](/en/post/pair/) [of](/en/post/of/) jeans [to](/en/post/to/) [the](/en/post/the/) [concert](/en/post/concert/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [athlete](/en/post/athlete/) was panting [from](/en/post/from/) exhaustion [after](/en/post/after/) finishing [the](/en/post/the/) marathon."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) excited puppy panted [with](/en/post/with/) [its](/en/post/its/) [tongue](/en/post/tongue/) hanging [out](/en/post/out/) [as](/en/post/as/) [it](/en/post/it/) waited [for](/en/post/for/) [its](/en/post/its/) [owner](/en/post/owner/) [to](/en/post/to/) [throw](/en/post/throw/) [the](/en/post/the/) [ball](/en/post/ball/) [again](/en/post/again/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) wore [his](/post/his/) favorite [pair](/post/pair/) [of](/post/of/) jeans [to](/post/to/) [the](/post/the/) [concert](/post/concert/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [athlete](/post/athlete/) was panting [from](/post/from/) exhaustion [after](/post/after/) finishing [the](/post/the/) marathon."
+- **[Verb](/post/verb/)**: "[The](/post/the/) excited puppy panted [with](/post/with/) [its](/post/its/) [tongue](/post/tongue/) hanging [out](/post/out/) [as](/post/as/) [it](/post/it/) waited [for](/post/for/) [its](/post/its/) [owner](/post/owner/) [to](/post/to/) [throw](/post/throw/) [the](/post/the/) [ball](/post/ball/) [again](/post/again/)."
 
 ## Synonyms
-- [Noun](/en/post/noun/) ([for](/en/post/for/) [the](/en/post/the/) garment): [Trousers](/en/post/trousers/), leggings, slacks, shorts, sweatpants, yoga pants
-- [Verb](/en/post/verb/) ([for](/en/post/for/) breathing [rapidly](/en/post/rapidly/)): Gasping, wheezing, puffing, heaving, respiring [heavily](/en/post/heavily/)
-- [Verb](/en/post/verb/) ([for](/en/post/for/) emitting breaths audibly): Huffing, blowing, snorting (informal)
+- [Noun](/post/noun/) ([for](/post/for/) [the](/post/the/) garment): [Trousers](/post/trousers/), leggings, slacks, shorts, sweatpants, yoga pants
+- [Verb](/post/verb/) ([for](/post/for/) breathing [rapidly](/post/rapidly/)): Gasping, wheezing, puffing, heaving, respiring [heavily](/post/heavily/)
+- [Verb](/post/verb/) ([for](/post/for/) emitting breaths audibly): Huffing, blowing, snorting (informal)

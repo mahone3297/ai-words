@@ -11,20 +11,20 @@ keywords = ['ai words', 'indifferent']
 /ɪnˈdɪfrənt/
 
 ## 释义
-- **形容词**: 不关心的，漠不关心的。例如: "[She](/post/she/) was [indifferent](/post/indifferent/) [to](/post/to/) [their](/post/their/) opinions."
-- **副词**: 冷淡地，无所谓地。例如: "[He](/post/he/) answered [my](/post/my/) [question](/post/question/) [indifferent](/post/indifferent/)."
+- **形容词**: 不关心的，漠不关心的。例如: "[She](/zh/post/she/) was [indifferent](/zh/post/indifferent/) [to](/zh/post/to/) [their](/zh/post/their/) opinions."
+- **副词**: 冷淡地，无所谓地。例如: "[He](/zh/post/he/) answered [my](/zh/post/my/) [question](/zh/post/question/) [indifferent](/zh/post/indifferent/)."
 
 ## 短语
-- "[be](/post/be/) [indifferent](/post/indifferent/) [to](/post/to/)" 表示对...不在乎，不感兴趣。例如: "[She](/post/she/) is [indifferent](/post/indifferent/) [to](/post/to/) [fame](/post/fame/) [and](/post/and/) [fortune](/post/fortune/)."
-- "[with](/post/with/) indifference" 以无所谓的态度。例如: "[She](/post/she/) received [the](/post/the/) [news](/post/news/) [with](/post/with/) indifference."
+- "[be](/zh/post/be/) [indifferent](/zh/post/indifferent/) [to](/zh/post/to/)" 表示对...不在乎，不感兴趣。例如: "[She](/zh/post/she/) is [indifferent](/zh/post/indifferent/) [to](/zh/post/to/) [fame](/zh/post/fame/) [and](/zh/post/and/) [fortune](/zh/post/fortune/)."
+- "[with](/zh/post/with/) indifference" 以无所谓的态度。例如: "[She](/zh/post/she/) received [the](/zh/post/the/) [news](/zh/post/news/) [with](/zh/post/with/) indifference."
 
 ## 例句
-- 形容词: "[He](/post/he/) seemed [indifferent](/post/indifferent/) [about](/post/about/) [the](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [the](/post/the/) [game](/post/game/)."
-- 副词: "[She](/post/she/) treated [his](/post/his/) [apology](/post/apology/) [with](/post/with/) indifference."
+- 形容词: "[He](/zh/post/he/) seemed [indifferent](/zh/post/indifferent/) [about](/zh/post/about/) [the](/zh/post/the/) [outcome](/zh/post/outcome/) [of](/zh/post/of/) [the](/zh/post/the/) [game](/zh/post/game/)."
+- 副词: "[She](/zh/post/she/) treated [his](/zh/post/his/) [apology](/zh/post/apology/) [with](/zh/post/with/) indifference."
 
 ## 同义词
 - Unconcerned
 - Disinterested
-- [Indifferent](/post/indifferent/)
+- [Indifferent](/zh/post/indifferent/)
 - Apathetic
 - Unmoved

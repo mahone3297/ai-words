@@ -12,26 +12,26 @@ keywords = ['ai words', 'edge']
 
 ## 释义
 - **名词**:
-  - 边缘，边界：[The](/post/the/) [edge](/post/edge/) [of](/post/of/) [the](/post/the/) [cliff](/post/cliff/) offers [a](/post/a/) stunning [view](/post/view/).
-  - 刀刃，锋利部分：[The](/post/the/) [knife](/post/knife/) has [a](/post/a/) [sharp](/post/sharp/) [edge](/post/edge/).
-  - 优势，有利条件：[He](/post/he/) had an [edge](/post/edge/) [over](/post/over/) [his](/post/his/) opponents [in](/post/in/) [the](/post/the/) [competition](/post/competition/).
+  - 边缘，边界：[The](/zh/post/the/) [edge](/zh/post/edge/) [of](/zh/post/of/) [the](/zh/post/the/) [cliff](/zh/post/cliff/) offers [a](/zh/post/a/) stunning [view](/zh/post/view/).
+  - 刀刃，锋利部分：[The](/zh/post/the/) [knife](/zh/post/knife/) has [a](/zh/post/a/) [sharp](/zh/post/sharp/) [edge](/zh/post/edge/).
+  - 优势，有利条件：[He](/zh/post/he/) had an [edge](/zh/post/edge/) [over](/zh/post/over/) [his](/zh/post/his/) opponents [in](/zh/post/in/) [the](/zh/post/the/) [competition](/zh/post/competition/).
 
 - **动词**:
-  - 逐渐接近：[We](/post/we/) edged closer [to](/post/to/) [the](/post/the/) [exit](/post/exit/) [slowly](/post/slowly/).
-  - 使渐变，磨尖：[The](/post/the/) blacksmith edged [the](/post/the/) [sword](/post/sword/) [to](/post/to/) [make](/post/make/) [it](/post/it/) sharper.
+  - 逐渐接近：[We](/zh/post/we/) edged closer [to](/zh/post/to/) [the](/zh/post/the/) [exit](/zh/post/exit/) [slowly](/zh/post/slowly/).
+  - 使渐变，磨尖：[The](/zh/post/the/) blacksmith edged [the](/zh/post/the/) [sword](/zh/post/sword/) [to](/zh/post/to/) [make](/zh/post/make/) [it](/zh/post/it/) sharper.
 
 ## 短语
-- "[on](/post/on/) [the](/post/the/) [edge](/post/edge/)" 表示在紧张、激动的状态，如：I was [on](/post/on/) [the](/post/the/) [edge](/post/edge/) [of](/post/of/) [my](/post/my/) [seat](/post/seat/) [during](/post/during/) [the](/post/the/) thriller [movie](/post/movie/).
-- "[edge](/post/edge/) [out](/post/out/)" 意为以微弱优势胜出：[She](/post/she/) edged [out](/post/out/) [her](/post/her/) [rival](/post/rival/) [in](/post/in/) [the](/post/the/) [final](/post/final/) sprint.
+- "[on](/zh/post/on/) [the](/zh/post/the/) [edge](/zh/post/edge/)" 表示在紧张、激动的状态，如：I was [on](/zh/post/on/) [the](/zh/post/the/) [edge](/zh/post/edge/) [of](/zh/post/of/) [my](/zh/post/my/) [seat](/zh/post/seat/) [during](/zh/post/during/) [the](/zh/post/the/) thriller [movie](/zh/post/movie/).
+- "[edge](/zh/post/edge/) [out](/zh/post/out/)" 意为以微弱优势胜出：[She](/zh/post/she/) edged [out](/zh/post/out/) [her](/zh/post/her/) [rival](/zh/post/rival/) [in](/zh/post/in/) [the](/zh/post/the/) [final](/zh/post/final/) sprint.
 
 ## 例句
-- 名词: "[Be](/post/be/) [careful](/post/careful/) [not](/post/not/) [to](/post/to/) [touch](/post/touch/) [the](/post/the/) [edge](/post/edge/) [of](/post/of/) [the](/post/the/) [glass](/post/glass/), it's [very](/post/very/) fragile."
-- 动词: "[The](/post/the/) [ice](/post/ice/) skate's [blade](/post/blade/) edges [need](/post/need/) [to](/post/to/) [be](/post/be/) sharpened [regularly](/post/regularly/)."
-- 情态动词+动词: "[He](/post/he/) edged [past](/post/past/) [the](/post/the/) slow-moving [car](/post/car/) [with](/post/with/) caution."
+- 名词: "[Be](/zh/post/be/) [careful](/zh/post/careful/) [not](/zh/post/not/) [to](/zh/post/to/) [touch](/zh/post/touch/) [the](/zh/post/the/) [edge](/zh/post/edge/) [of](/zh/post/of/) [the](/zh/post/the/) [glass](/zh/post/glass/), it's [very](/zh/post/very/) fragile."
+- 动词: "[The](/zh/post/the/) [ice](/zh/post/ice/) skate's [blade](/zh/post/blade/) edges [need](/zh/post/need/) [to](/zh/post/to/) [be](/zh/post/be/) sharpened [regularly](/zh/post/regularly/)."
+- 情态动词+动词: "[He](/zh/post/he/) edged [past](/zh/post/past/) [the](/zh/post/the/) slow-moving [car](/zh/post/car/) [with](/zh/post/with/) caution."
 
 ## 同义词
-- [Margin](/post/margin/)
-- [Border](/post/border/)
+- [Margin](/zh/post/margin/)
+- [Border](/zh/post/border/)
 - Rim
 - Periphery
-- [Boundary](/post/boundary/)
+- [Boundary](/zh/post/boundary/)

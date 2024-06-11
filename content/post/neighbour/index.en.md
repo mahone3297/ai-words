@@ -7,31 +7,31 @@ description = '[ˈneibə] n.邻居，邻国，邻人'
 keywords = ['ai words', 'neighbour']
 +++
 
-## [Word](/en/post/word/): [Neighbour](/en/post/neighbour/)
+## [Word](/post/word/): [Neighbour](/post/neighbour/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈneɪbər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) lives [near](/en/post/near/) [or](/en/post/or/) [next](/en/post/next/) [to](/en/post/to/) [another](/en/post/another/) [person](/en/post/person/). [For](/en/post/for/) [example](/en/post/example/): "I borrowed [a](/en/post/a/) [cup](/en/post/cup/) [of](/en/post/of/) [sugar](/en/post/sugar/) [from](/en/post/from/) [my](/en/post/my/) [neighbour](/en/post/neighbour/) [last](/en/post/last/) [night](/en/post/night/)."
-  - *[Formal](/en/post/formal/) [Definition](/en/post/definition/)*: [A](/en/post/a/) [person](/en/post/person/) [living](/en/post/living/) [or](/en/post/or/) located [near](/en/post/near/) [another](/en/post/another/); [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) lives adjacent [to](/en/post/to/) [or](/en/post/or/) [nearby](/en/post/nearby/) [another](/en/post/another/).
-- **[Verb](/en/post/verb/)**: (chiefly British [spelling](/en/post/spelling/): [neighbour](/en/post/neighbour/)) [To](/en/post/to/) [live](/en/post/live/) [or](/en/post/or/) [be](/en/post/be/) situated [near](/en/post/near/) [or](/en/post/or/) [next](/en/post/next/) [to](/en/post/to/) ([someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/)). [For](/en/post/for/) [example](/en/post/example/): "[Our](/en/post/our/) [house](/en/post/house/) neighbours [the](/en/post/the/) [park](/en/post/park/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) lives [near](/post/near/) [or](/post/or/) [next](/post/next/) [to](/post/to/) [another](/post/another/) [person](/post/person/). [For](/post/for/) [example](/post/example/): "I borrowed [a](/post/a/) [cup](/post/cup/) [of](/post/of/) [sugar](/post/sugar/) [from](/post/from/) [my](/post/my/) [neighbour](/post/neighbour/) [last](/post/last/) [night](/post/night/)."
+  - *[Formal](/post/formal/) [Definition](/post/definition/)*: [A](/post/a/) [person](/post/person/) [living](/post/living/) [or](/post/or/) located [near](/post/near/) [another](/post/another/); [a](/post/a/) [person](/post/person/) [who](/post/who/) lives adjacent [to](/post/to/) [or](/post/or/) [nearby](/post/nearby/) [another](/post/another/).
+- **[Verb](/post/verb/)**: (chiefly British [spelling](/post/spelling/): [neighbour](/post/neighbour/)) [To](/post/to/) [live](/post/live/) [or](/post/or/) [be](/post/be/) situated [near](/post/near/) [or](/post/or/) [next](/post/next/) [to](/post/to/) ([someone](/post/someone/) [or](/post/or/) [something](/post/something/)). [For](/post/for/) [example](/post/example/): "[Our](/post/our/) [house](/post/house/) neighbours [the](/post/the/) [park](/post/park/)."
   
 ## Phrases
-- "[Good](/en/post/good/) [neighbour](/en/post/neighbour/) [policy](/en/post/policy/)": [A](/en/post/a/) diplomatic [approach](/en/post/approach/) emphasizing [friendly](/en/post/friendly/) [and](/en/post/and/) cooperative relations [with](/en/post/with/) neighboring countries.
-- "[Love](/en/post/love/) thy [neighbour](/en/post/neighbour/)": [A](/en/post/a/) biblical [reference](/en/post/reference/) encouraging [people](/en/post/people/) [to](/en/post/to/) [treat](/en/post/treat/) [those](/en/post/those/) [around](/en/post/around/) [them](/en/post/them/) kindly [and](/en/post/and/) compassionately.
-- "[Neighbourhood](/en/post/neighbourhood/) [watch](/en/post/watch/)": [A](/en/post/a/) community-based [crime](/en/post/crime/) prevention [program](/en/post/program/) [where](/en/post/where/) residents [look](/en/post/look/) [out](/en/post/out/) [for](/en/post/for/) [each](/en/post/each/) other's [safety](/en/post/safety/) [and](/en/post/and/) [report](/en/post/report/) suspicious activities.
+- "[Good](/post/good/) [neighbour](/post/neighbour/) [policy](/post/policy/)": [A](/post/a/) diplomatic [approach](/post/approach/) emphasizing [friendly](/post/friendly/) [and](/post/and/) cooperative relations [with](/post/with/) neighboring countries.
+- "[Love](/post/love/) thy [neighbour](/post/neighbour/)": [A](/post/a/) biblical [reference](/post/reference/) encouraging [people](/post/people/) [to](/post/to/) [treat](/post/treat/) [those](/post/those/) [around](/post/around/) [them](/post/them/) kindly [and](/post/and/) compassionately.
+- "[Neighbourhood](/post/neighbourhood/) [watch](/post/watch/)": [A](/post/a/) community-based [crime](/post/crime/) prevention [program](/post/program/) [where](/post/where/) residents [look](/post/look/) [out](/post/out/) [for](/post/for/) [each](/post/each/) other's [safety](/post/safety/) [and](/post/and/) [report](/post/report/) suspicious activities.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) neighbours moved [in](/en/post/in/) [yesterday](/en/post/yesterday/) [and](/en/post/and/) [seem](/en/post/seem/) [very](/en/post/very/) [friendly](/en/post/friendly/)."
-- **[Verb](/en/post/verb/)**: "[Their](/en/post/their/) [house](/en/post/house/) neighbours [ours](/en/post/ours/), [so](/en/post/so/) [we](/en/post/we/) [often](/en/post/often/) [share](/en/post/share/) [the](/en/post/the/) [garden](/en/post/garden/) tools."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) neighbours moved [in](/post/in/) [yesterday](/post/yesterday/) [and](/post/and/) [seem](/post/seem/) [very](/post/very/) [friendly](/post/friendly/)."
+- **[Verb](/post/verb/)**: "[Their](/post/their/) [house](/post/house/) neighbours [ours](/post/ours/), [so](/post/so/) [we](/post/we/) [often](/post/often/) [share](/post/share/) [the](/post/the/) [garden](/post/garden/) tools."
 
 ## Synonyms
-- Neighbor ([American](/en/post/american/) English)
-- Adjacent [resident](/en/post/resident/)
-- [Nearby](/en/post/nearby/) dweller
-- Next-door [inhabitant](/en/post/inhabitant/)
-- [Close](/en/post/close/) [associate](/en/post/associate/) ([in](/en/post/in/) [a](/en/post/a/) broader [sense](/en/post/sense/) [of](/en/post/of/) closeness, [not](/en/post/not/) [necessarily](/en/post/necessarily/) geographic)
-- Compeer ([formal](/en/post/formal/)) 
+- Neighbor ([American](/post/american/) English)
+- Adjacent [resident](/post/resident/)
+- [Nearby](/post/nearby/) dweller
+- Next-door [inhabitant](/post/inhabitant/)
+- [Close](/post/close/) [associate](/post/associate/) ([in](/post/in/) [a](/post/a/) broader [sense](/post/sense/) [of](/post/of/) closeness, [not](/post/not/) [necessarily](/post/necessarily/) geographic)
+- Compeer ([formal](/post/formal/)) 
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) [of](/en/post/of/) "[neighbour](/en/post/neighbour/)" is [less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [American](/en/post/american/) English, [but](/en/post/but/) [still](/en/post/still/) exists [primarily](/en/post/primarily/) [in](/en/post/in/) British English contexts. [In](/en/post/in/) [most](/en/post/most/) cases, Americans [would](/en/post/would/) [use](/en/post/use/) [the](/en/post/the/) phrasal [verb](/en/post/verb/) "[live](/en/post/live/) [near](/en/post/near/)" [or](/en/post/or/) [similar](/en/post/similar/) expressions [instead](/en/post/instead/).
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) [of](/post/of/) "[neighbour](/post/neighbour/)" is [less](/post/less/) [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [American](/post/american/) English, [but](/post/but/) [still](/post/still/) exists [primarily](/post/primarily/) [in](/post/in/) British English contexts. [In](/post/in/) [most](/post/most/) cases, Americans [would](/post/would/) [use](/post/use/) [the](/post/the/) phrasal [verb](/post/verb/) "[live](/post/live/) [near](/post/near/)" [or](/post/or/) [similar](/post/similar/) expressions [instead](/post/instead/).

@@ -7,33 +7,33 @@ description = '[riˈfɔːm] vt.&n.改革，改良'
 keywords = ['ai words', 'reform']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈfɔːrm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) changing [or](/en/post/or/) improving [something](/en/post/something/), [especially](/en/post/especially/) [by](/en/post/by/) making [it](/en/post/it/) [better](/en/post/better/) [or](/en/post/or/) [more](/en/post/more/) [suitable](/en/post/suitable/). 2. [A](/en/post/a/) [law](/en/post/law/), [policy](/en/post/policy/), [or](/en/post/or/) [system](/en/post/system/) [that](/en/post/that/) introduces [such](/en/post/such/) changes. 3. [U.S.] [A](/en/post/a/) [political](/en/post/political/) [movement](/en/post/movement/) advocating [for](/en/post/for/) [social](/en/post/social/), [political](/en/post/political/), [or](/en/post/or/) [economic](/en/post/economic/) [change](/en/post/change/). 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [change](/en/post/change/) [or](/en/post/or/) [improve](/en/post/improve/) [something](/en/post/something/), [often](/en/post/often/) [by](/en/post/by/) making [it](/en/post/it/) [more](/en/post/more/) [efficient](/en/post/efficient/) [or](/en/post/or/) [fair](/en/post/fair/). 
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) changing [or](/post/or/) improving [something](/post/something/), [especially](/post/especially/) [by](/post/by/) making [it](/post/it/) [better](/post/better/) [or](/post/or/) [more](/post/more/) [suitable](/post/suitable/). 2. [A](/post/a/) [law](/post/law/), [policy](/post/policy/), [or](/post/or/) [system](/post/system/) [that](/post/that/) introduces [such](/post/such/) changes. 3. [U.S.] [A](/post/a/) [political](/post/political/) [movement](/post/movement/) advocating [for](/post/for/) [social](/post/social/), [political](/post/political/), [or](/post/or/) [economic](/post/economic/) [change](/post/change/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [change](/post/change/) [or](/post/or/) [improve](/post/improve/) [something](/post/something/), [often](/post/often/) [by](/post/by/) making [it](/post/it/) [more](/post/more/) [efficient](/post/efficient/) [or](/post/or/) [fair](/post/fair/). 
 
 ## Phrases
-- "[Reform](/en/post/reform/) legislation" refers [to](/en/post/to/) proposed laws aiming [to](/en/post/to/) [bring](/en/post/bring/) [about](/en/post/about/) reforms.
-- "[Social](/en/post/social/) [reform](/en/post/reform/)" denotes efforts [to](/en/post/to/) [improve](/en/post/improve/) society's structures [or](/en/post/or/) attitudes.
-- "Educational [reform](/en/post/reform/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) altering [or](/en/post/or/) enhancing [education](/en/post/education/) systems.
+- "[Reform](/post/reform/) legislation" refers [to](/post/to/) proposed laws aiming [to](/post/to/) [bring](/post/bring/) [about](/post/about/) reforms.
+- "[Social](/post/social/) [reform](/post/reform/)" denotes efforts [to](/post/to/) [improve](/post/improve/) society's structures [or](/post/or/) attitudes.
+- "Educational [reform](/post/reform/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) altering [or](/post/or/) enhancing [education](/post/education/) systems.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [government](/en/post/government/) introduced [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) reforms [to](/en/post/to/) streamline [the](/en/post/the/) [tax](/en/post/tax/) [system](/en/post/system/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [organization](/en/post/organization/) decided [to](/en/post/to/) re-form [its](/en/post/its/) [board](/en/post/board/) [to](/en/post/to/) [bring](/en/post/bring/) [in](/en/post/in/) [fresh](/en/post/fresh/) perspectives."
-- "[Many](/en/post/many/) [people](/en/post/people/) [support](/en/post/support/) environmental [reform](/en/post/reform/) [to](/en/post/to/) combat [climate](/en/post/climate/) [change](/en/post/change/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [government](/post/government/) introduced [a](/post/a/) [series](/post/series/) [of](/post/of/) reforms [to](/post/to/) streamline [the](/post/the/) [tax](/post/tax/) [system](/post/system/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [organization](/post/organization/) decided [to](/post/to/) re-form [its](/post/its/) [board](/post/board/) [to](/post/to/) [bring](/post/bring/) [in](/post/in/) [fresh](/post/fresh/) perspectives."
+- "[Many](/post/many/) [people](/post/people/) [support](/post/support/) environmental [reform](/post/reform/) [to](/post/to/) combat [climate](/post/climate/) [change](/post/change/)."
 
 ## Synonyms
 - Revamp
 - Overhaul
-- [Transform](/en/post/transform/)
-- [Adapt](/en/post/adapt/)
-- [Improve](/en/post/improve/)
+- [Transform](/post/transform/)
+- [Adapt](/post/adapt/)
+- [Improve](/post/improve/)
 - Modernize
 
 ## Antonyms
-- [Maintain](/en/post/maintain/)
-- [Resist](/en/post/resist/)
-- [Oppose](/en/post/oppose/)
-- [Preserve](/en/post/preserve/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [not](/en/post/not/) changing [something](/en/post/something/))
+- [Maintain](/post/maintain/)
+- [Resist](/post/resist/)
+- [Oppose](/post/oppose/)
+- [Preserve](/post/preserve/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [not](/post/not/) changing [something](/post/something/))

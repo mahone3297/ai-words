@@ -7,32 +7,32 @@ description = '[fʌn] n.乐趣，娱乐；玩笑'
 keywords = ['ai words', 'fun']
 +++
 
-## [Word](/en/post/word/): [Fun](/en/post/fun/)
+## [Word](/post/word/): [Fun](/post/fun/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fʌn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: Amusement, enjoyment, [or](/en/post/or/) [pleasure](/en/post/pleasure/), [especially](/en/post/especially/) [when](/en/post/when/) derived [from](/en/post/from/) activities [one](/en/post/one/) finds entertaining [or](/en/post/or/) engaging. [For](/en/post/for/) [instance](/en/post/instance/): "[We](/en/post/we/) had [so](/en/post/so/) [much](/en/post/much/) [fun](/en/post/fun/) [at](/en/post/at/) [the](/en/post/the/) amusement [park](/en/post/park/)."
-- **[Adjective](/en/post/adjective/)**: (informal) Causing amusement [or](/en/post/or/) enjoyment; entertaining. [Example](/en/post/example/): "[The](/en/post/the/) clown was [really](/en/post/really/) [fun](/en/post/fun/) [to](/en/post/to/) [watch](/en/post/watch/)."
+- **[Noun](/post/noun/)**: Amusement, enjoyment, [or](/post/or/) [pleasure](/post/pleasure/), [especially](/post/especially/) [when](/post/when/) derived [from](/post/from/) activities [one](/post/one/) finds entertaining [or](/post/or/) engaging. [For](/post/for/) [instance](/post/instance/): "[We](/post/we/) had [so](/post/so/) [much](/post/much/) [fun](/post/fun/) [at](/post/at/) [the](/post/the/) amusement [park](/post/park/)."
+- **[Adjective](/post/adjective/)**: (informal) Causing amusement [or](/post/or/) enjoyment; entertaining. [Example](/post/example/): "[The](/post/the/) clown was [really](/post/really/) [fun](/post/fun/) [to](/post/to/) [watch](/post/watch/)."
 
 ## Phrases
-- "[Have](/en/post/have/) [fun](/en/post/fun/)": [To](/en/post/to/) [enjoy](/en/post/enjoy/) [oneself](/en/post/oneself/), typically [during](/en/post/during/) [a](/en/post/a/) [leisure](/en/post/leisure/) [activity](/en/post/activity/) [or](/en/post/or/) [event](/en/post/event/). [Example](/en/post/example/): "I [hope](/en/post/hope/) [you](/en/post/you/) [have](/en/post/have/) [fun](/en/post/fun/) [at](/en/post/at/) [the](/en/post/the/) [concert](/en/post/concert/) [tonight](/en/post/tonight/)."
-- "[Make](/en/post/make/) [fun](/en/post/fun/) [of](/en/post/of/)": [To](/en/post/to/) mock [or](/en/post/or/) ridicule [someone](/en/post/someone/). [Example](/en/post/example/): "It's [not](/en/post/not/) [nice](/en/post/nice/) [to](/en/post/to/) [make](/en/post/make/) [fun](/en/post/fun/) [of](/en/post/of/) others."
-- "[For](/en/post/for/) [fun](/en/post/fun/)": Done [without](/en/post/without/) [serious](/en/post/serious/) [purpose](/en/post/purpose/), [just](/en/post/just/) [for](/en/post/for/) amusement [or](/en/post/or/) enjoyment. [Example](/en/post/example/): "I took [a](/en/post/a/) pottery [class](/en/post/class/) [for](/en/post/for/) [fun](/en/post/fun/)."
+- "[Have](/post/have/) [fun](/post/fun/)": [To](/post/to/) [enjoy](/post/enjoy/) [oneself](/post/oneself/), typically [during](/post/during/) [a](/post/a/) [leisure](/post/leisure/) [activity](/post/activity/) [or](/post/or/) [event](/post/event/). [Example](/post/example/): "I [hope](/post/hope/) [you](/post/you/) [have](/post/have/) [fun](/post/fun/) [at](/post/at/) [the](/post/the/) [concert](/post/concert/) [tonight](/post/tonight/)."
+- "[Make](/post/make/) [fun](/post/fun/) [of](/post/of/)": [To](/post/to/) mock [or](/post/or/) ridicule [someone](/post/someone/). [Example](/post/example/): "It's [not](/post/not/) [nice](/post/nice/) [to](/post/to/) [make](/post/make/) [fun](/post/fun/) [of](/post/of/) others."
+- "[For](/post/for/) [fun](/post/fun/)": Done [without](/post/without/) [serious](/post/serious/) [purpose](/post/purpose/), [just](/post/just/) [for](/post/for/) amusement [or](/post/or/) enjoyment. [Example](/post/example/): "I took [a](/post/a/) pottery [class](/post/class/) [for](/post/for/) [fun](/post/fun/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Going [on](/en/post/on/) [a](/en/post/a/) [road](/en/post/road/) [trip](/en/post/trip/) [with](/en/post/with/) friends [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [fun](/en/post/fun/)."
-- **[Adjective](/en/post/adjective/)**: "[That](/en/post/that/) [party](/en/post/party/) was [really](/en/post/really/) [fun](/en/post/fun/); [the](/en/post/the/) [music](/en/post/music/) [and](/en/post/and/) dancing were fantastic!"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Going [on](/post/on/) [a](/post/a/) [road](/post/road/) [trip](/post/trip/) [with](/post/with/) friends [can](/post/can/) [be](/post/be/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [fun](/post/fun/)."
+- **[Adjective](/post/adjective/)**: "[That](/post/that/) [party](/post/party/) was [really](/post/really/) [fun](/post/fun/); [the](/post/the/) [music](/post/music/) [and](/post/and/) dancing were fantastic!"
 
 ## Synonyms
 - Enjoyment
 - Entertainment
-- [Pleasure](/en/post/pleasure/)
-- [Delight](/en/post/delight/)
+- [Pleasure](/post/pleasure/)
+- [Delight](/post/delight/)
 - Mirth
 - Amusement
-- [Joy](/en/post/joy/)
+- [Joy](/post/joy/)
 - Excitement
 - Thrills
-- [Laughter](/en/post/laughter/)
+- [Laughter](/post/laughter/)

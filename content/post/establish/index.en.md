@@ -7,41 +7,41 @@ description = '[isˈtæbli∫] vt.建立，设立；确立'
 keywords = ['ai words', 'establish']
 +++
 
-## [Word](/en/post/word/): [Establish](/en/post/establish/)
+## [Word](/post/word/): [Establish](/post/establish/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈstæblɪʃ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [found](/en/post/found/), [set](/en/post/set/) [up](/en/post/up/), [or](/en/post/or/) [create](/en/post/create/) (an [institution](/en/post/institution/), [system](/en/post/system/), [organization](/en/post/organization/), [or](/en/post/or/) [relationship](/en/post/relationship/)) [on](/en/post/on/) [a](/en/post/a/) [firm](/en/post/firm/) [basis](/en/post/basis/) [so](/en/post/so/) [that](/en/post/that/) [it](/en/post/it/) [can](/en/post/can/) [operate](/en/post/operate/) [or](/en/post/or/) [function](/en/post/function/) effectively. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) was established [in](/en/post/in/) 1950."
-  - _To [introduce](/en/post/introduce/) [or](/en/post/or/) [bring](/en/post/bring/) [something](/en/post/something/) [into](/en/post/into/) [use](/en/post/use/) permanently_: "[They](/en/post/they/) established [new](/en/post/new/) [safety](/en/post/safety/) protocols [across](/en/post/across/) [all](/en/post/all/) departments."
-  - _To [prove](/en/post/prove/) [or](/en/post/or/) [show](/en/post/show/) [something](/en/post/something/) [to](/en/post/to/) [be](/en/post/be/) [true](/en/post/true/) [or](/en/post/or/) valid_: "Scientists [have](/en/post/have/) established [a](/en/post/a/) [link](/en/post/link/) [between](/en/post/between/) diet [and](/en/post/and/) [health](/en/post/health/)."
-  - _To [cause](/en/post/cause/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [to](/en/post/to/) [be](/en/post/be/) recognized [and](/en/post/and/) accepted officially [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [or](/en/post/or/) field_: "[She](/en/post/she/) established [herself](/en/post/herself/) [as](/en/post/as/) [a](/en/post/a/) [leading](/en/post/leading/) [expert](/en/post/expert/) [in](/en/post/in/) [her](/en/post/her/) [field](/en/post/field/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [found](/post/found/), [set](/post/set/) [up](/post/up/), [or](/post/or/) [create](/post/create/) (an [institution](/post/institution/), [system](/post/system/), [organization](/post/organization/), [or](/post/or/) [relationship](/post/relationship/)) [on](/post/on/) [a](/post/a/) [firm](/post/firm/) [basis](/post/basis/) [so](/post/so/) [that](/post/that/) [it](/post/it/) [can](/post/can/) [operate](/post/operate/) [or](/post/or/) [function](/post/function/) effectively. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) was established [in](/post/in/) 1950."
+  - _To [introduce](/post/introduce/) [or](/post/or/) [bring](/post/bring/) [something](/post/something/) [into](/post/into/) [use](/post/use/) permanently_: "[They](/post/they/) established [new](/post/new/) [safety](/post/safety/) protocols [across](/post/across/) [all](/post/all/) departments."
+  - _To [prove](/post/prove/) [or](/post/or/) [show](/post/show/) [something](/post/something/) [to](/post/to/) [be](/post/be/) [true](/post/true/) [or](/post/or/) valid_: "Scientists [have](/post/have/) established [a](/post/a/) [link](/post/link/) [between](/post/between/) diet [and](/post/and/) [health](/post/health/)."
+  - _To [cause](/post/cause/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [to](/post/to/) [be](/post/be/) recognized [and](/post/and/) accepted officially [or](/post/or/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/) [or](/post/or/) field_: "[She](/post/she/) established [herself](/post/herself/) [as](/post/as/) [a](/post/a/) [leading](/post/leading/) [expert](/post/expert/) [in](/post/in/) [her](/post/her/) [field](/post/field/)."
 
 ## Phrases
-- "[Establish](/en/post/establish/) [oneself](/en/post/oneself/)": [To](/en/post/to/) [succeed](/en/post/succeed/) [in](/en/post/in/) making [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [reputation](/en/post/reputation/) [for](/en/post/for/) [oneself](/en/post/oneself/), [especially](/en/post/especially/) [over](/en/post/over/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/).
-- "[Establish](/en/post/establish/) [a](/en/post/a/) [connection](/en/post/connection/)/[relationship](/en/post/relationship/)": [To](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [develop](/en/post/develop/) [a](/en/post/a/) [bond](/en/post/bond/) [or](/en/post/or/) [understanding](/en/post/understanding/) [between](/en/post/between/) [people](/en/post/people/) [or](/en/post/or/) things.
-- "[Establish](/en/post/establish/) [the](/en/post/the/) facts/[truth](/en/post/truth/)": [To](/en/post/to/) [determine](/en/post/determine/) [or](/en/post/or/) [confirm](/en/post/confirm/) [what](/en/post/what/) [really](/en/post/really/) happened [or](/en/post/or/) is [true](/en/post/true/).
+- "[Establish](/post/establish/) [oneself](/post/oneself/)": [To](/post/to/) [succeed](/post/succeed/) [in](/post/in/) making [a](/post/a/) [position](/post/position/) [or](/post/or/) [reputation](/post/reputation/) [for](/post/for/) [oneself](/post/oneself/), [especially](/post/especially/) [over](/post/over/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/).
+- "[Establish](/post/establish/) [a](/post/a/) [connection](/post/connection/)/[relationship](/post/relationship/)": [To](/post/to/) [create](/post/create/) [or](/post/or/) [develop](/post/develop/) [a](/post/a/) [bond](/post/bond/) [or](/post/or/) [understanding](/post/understanding/) [between](/post/between/) [people](/post/people/) [or](/post/or/) things.
+- "[Establish](/post/establish/) [the](/post/the/) facts/[truth](/post/truth/)": [To](/post/to/) [determine](/post/determine/) [or](/post/or/) [confirm](/post/confirm/) [what](/post/what/) [really](/post/really/) happened [or](/post/or/) is [true](/post/true/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) [plan](/en/post/plan/) [to](/en/post/to/) [establish](/en/post/establish/) [a](/en/post/a/) [new](/en/post/new/) [branch](/en/post/branch/) [office](/en/post/office/) [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/) center."
-  - "[It](/en/post/it/) took years [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/) [to](/en/post/to/) [establish](/en/post/establish/) [his](/en/post/his/) [reputation](/en/post/reputation/) [as](/en/post/as/) [a](/en/post/a/) [top](/en/post/top/) chef."
-  - "[The](/en/post/the/) [research](/en/post/research/) [team](/en/post/team/) aimed [to](/en/post/to/) [establish](/en/post/establish/) [a](/en/post/a/) causal [relationship](/en/post/relationship/) [between](/en/post/between/) smoking [and](/en/post/and/) [lung](/en/post/lung/) [cancer](/en/post/cancer/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[They](/post/they/) [plan](/post/plan/) [to](/post/to/) [establish](/post/establish/) [a](/post/a/) [new](/post/new/) [branch](/post/branch/) [office](/post/office/) [in](/post/in/) [the](/post/the/) [city](/post/city/) center."
+  - "[It](/post/it/) took years [of](/post/of/) [hard](/post/hard/) [work](/post/work/) [to](/post/to/) [establish](/post/establish/) [his](/post/his/) [reputation](/post/reputation/) [as](/post/as/) [a](/post/a/) [top](/post/top/) chef."
+  - "[The](/post/the/) [research](/post/research/) [team](/post/team/) aimed [to](/post/to/) [establish](/post/establish/) [a](/post/a/) causal [relationship](/post/relationship/) [between](/post/between/) smoking [and](/post/and/) [lung](/post/lung/) [cancer](/post/cancer/)."
 
 ## Synonyms
-- [Found](/en/post/found/)
-- [Set](/en/post/set/) [up](/en/post/up/)
-- [Create](/en/post/create/)
-- [Institute](/en/post/institute/)
-- [Launch](/en/post/launch/)
-- [Establishment](/en/post/establishment/)
+- [Found](/post/found/)
+- [Set](/post/set/) [up](/post/up/)
+- [Create](/post/create/)
+- [Institute](/post/institute/)
+- [Launch](/post/launch/)
+- [Establishment](/post/establishment/)
 - Implement
-- [Introduce](/en/post/introduce/)
-- [Confirm](/en/post/confirm/)
+- [Introduce](/post/introduce/)
+- [Confirm](/post/confirm/)
 - Validate
-- [Prove](/en/post/prove/)
+- [Prove](/post/prove/)
 - Formalize
 - Ratify
-- [Settle](/en/post/settle/)
-- [Secure](/en/post/secure/)
-- [Strengthen](/en/post/strengthen/)
+- [Settle](/post/settle/)
+- [Secure](/post/secure/)
+- [Strengthen](/post/strengthen/)

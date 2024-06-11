@@ -11,21 +11,21 @@ keywords = ['ai words', 'tower']
 /təˈwaːr/
 
 ## 释义
-- **名词**: 高耸的建筑物，尤指有多个楼层的塔状结构。例如: "[The](/post/the/) Eiffel [Tower](/post/tower/) is [a](/post/a/) [famous](/post/famous/) landmark [in](/post/in/) Paris."
-- **动词**: 高高耸立；远远超过。例如: "[The](/post/the/) skyscraper towers [above](/post/above/) [the](/post/the/) surrounding buildings."
+- **名词**: 高耸的建筑物，尤指有多个楼层的塔状结构。例如: "[The](/zh/post/the/) Eiffel [Tower](/zh/post/tower/) is [a](/zh/post/a/) [famous](/zh/post/famous/) landmark [in](/zh/post/in/) Paris."
+- **动词**: 高高耸立；远远超过。例如: "[The](/zh/post/the/) skyscraper towers [above](/zh/post/above/) [the](/zh/post/the/) surrounding buildings."
 
 ## 短语
-- "[Tower](/post/tower/) [block](/post/block/)" 指高层住宅楼。
-- "[Tower](/post/tower/) [crane](/post/crane/)" 是一种大型建筑工地用的起重机。
-- "[To](/post/to/) [be](/post/be/) [in](/post/in/) [seventh](/post/seventh/) [heaven](/post/heaven/) ([from](/post/from/) [the](/post/the/) [tower](/post/tower/))" 意味着极其快乐或满足。
+- "[Tower](/zh/post/tower/) [block](/zh/post/block/)" 指高层住宅楼。
+- "[Tower](/zh/post/tower/) [crane](/zh/post/crane/)" 是一种大型建筑工地用的起重机。
+- "[To](/zh/post/to/) [be](/zh/post/be/) [in](/zh/post/in/) [seventh](/zh/post/seventh/) [heaven](/zh/post/heaven/) ([from](/zh/post/from/) [the](/zh/post/the/) [tower](/zh/post/tower/))" 意味着极其快乐或满足。
 
 ## 例句
-- 名词: "[The](/post/the/) [ancient](/post/ancient/) [tower](/post/tower/) [still](/post/still/) stands [tall](/post/tall/) [in](/post/in/) [the](/post/the/) [heart](/post/heart/) [of](/post/of/) [the](/post/the/) [city](/post/city/)."
-- 动词: "[The](/post/the/) [church](/post/church/) [tower](/post/tower/) dominated [the](/post/the/) skyline, towering [over](/post/over/) [the](/post/the/) [town](/post/town/)."
+- 名词: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) [tower](/zh/post/tower/) [still](/zh/post/still/) stands [tall](/zh/post/tall/) [in](/zh/post/in/) [the](/zh/post/the/) [heart](/zh/post/heart/) [of](/zh/post/of/) [the](/zh/post/the/) [city](/zh/post/city/)."
+- 动词: "[The](/zh/post/the/) [church](/zh/post/church/) [tower](/zh/post/tower/) dominated [the](/zh/post/the/) skyline, towering [over](/zh/post/over/) [the](/zh/post/the/) [town](/zh/post/town/)."
 
 ## 同义词
 - High-rise
 - Spire
-- [Monument](/post/monument/)
-- [Structure](/post/structure/)
+- [Monument](/zh/post/monument/)
+- [Structure](/zh/post/structure/)
 - Edifice

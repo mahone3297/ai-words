@@ -11,20 +11,20 @@ keywords = ['ai words', 'lieutenant']
 /ˈliːfənt/
 
 ## 释义
-- **名词 (n)**: 军衔，少校，通常是军队中的中级军官。例如: "[The](/post/the/) [lieutenant](/post/lieutenant/) commanded [the](/post/the/) platoon."
-- **名词**: 有时也指副手或助理。例如: "[She](/post/she/) was [his](/post/his/) right-hand [lieutenant](/post/lieutenant/) [in](/post/in/) [the](/post/the/) [project](/post/project/)."
+- **名词 (n)**: 军衔，少校，通常是军队中的中级军官。例如: "[The](/zh/post/the/) [lieutenant](/zh/post/lieutenant/) commanded [the](/zh/post/the/) platoon."
+- **名词**: 有时也指副手或助理。例如: "[She](/zh/post/she/) was [his](/zh/post/his/) right-hand [lieutenant](/zh/post/lieutenant/) [in](/zh/post/in/) [the](/zh/post/the/) [project](/zh/post/project/)."
 
 ## 短语
-- "[lieutenant](/post/lieutenant/) [general](/post/general/)" 是将军军衔，高于少校。
-- "[lieutenant](/post/lieutenant/) [governor](/post/governor/)" 在某些州或国家中是副州长或副总督的职位。
+- "[lieutenant](/zh/post/lieutenant/) [general](/zh/post/general/)" 是将军军衔，高于少校。
+- "[lieutenant](/zh/post/lieutenant/) [governor](/zh/post/governor/)" 在某些州或国家中是副州长或副总督的职位。
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [lieutenant](/post/lieutenant/) took [charge](/post/charge/) [of](/post/of/) [the](/post/the/) [unit](/post/unit/) [after](/post/after/) [the](/post/the/) captain's [departure](/post/departure/)."
-- 名词: "[In](/post/in/) [some](/post/some/) states, [the](/post/the/) [lieutenant](/post/lieutenant/) [governor](/post/governor/) assumes [the](/post/the/) [role](/post/role/) [of](/post/of/) [the](/post/the/) [governor](/post/governor/) [if](/post/if/) [the](/post/the/) [latter](/post/latter/) is [unable](/post/unable/) [to](/post/to/) [serve](/post/serve/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [lieutenant](/zh/post/lieutenant/) took [charge](/zh/post/charge/) [of](/zh/post/of/) [the](/zh/post/the/) [unit](/zh/post/unit/) [after](/zh/post/after/) [the](/zh/post/the/) captain's [departure](/zh/post/departure/)."
+- 名词: "[In](/zh/post/in/) [some](/zh/post/some/) states, [the](/zh/post/the/) [lieutenant](/zh/post/lieutenant/) [governor](/zh/post/governor/) assumes [the](/zh/post/the/) [role](/zh/post/role/) [of](/zh/post/of/) [the](/zh/post/the/) [governor](/zh/post/governor/) [if](/zh/post/if/) [the](/zh/post/the/) [latter](/zh/post/latter/) is [unable](/zh/post/unable/) [to](/zh/post/to/) [serve](/zh/post/serve/)."
 
 ## 同义词
-- [Captain](/post/captain/) (上尉)
-- [Commander](/post/commander/)
+- [Captain](/zh/post/captain/) (上尉)
+- [Commander](/zh/post/commander/)
 - Second-in-command
-- [Assistant](/post/assistant/)
+- [Assistant](/zh/post/assistant/)
 - Deputy

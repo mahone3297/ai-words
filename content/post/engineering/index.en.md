@@ -7,33 +7,33 @@ description = '[ˌendʒiˈniəriŋ] n.工程，工程学'
 keywords = ['ai words', 'engineering']
 +++
 
-## [Word](/en/post/word/): [Engineering](/en/post/engineering/)
+## [Word](/post/word/): [Engineering](/post/engineering/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌendʒɪˈnɪərɪŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [application](/en/post/application/) [of](/en/post/of/) [scientific](/en/post/scientific/) [and](/en/post/and/) [mathematical](/en/post/mathematical/) principles [to](/en/post/to/) [solve](/en/post/solve/) problems [and](/en/post/and/) [design](/en/post/design/) [various](/en/post/various/) systems, structures, machines, materials, [and](/en/post/and/) processes. [It](/en/post/it/) encompasses [a](/en/post/a/) [broad](/en/post/broad/) [range](/en/post/range/) [of](/en/post/of/) specialized fields [such](/en/post/such/) [as](/en/post/as/) [civil](/en/post/civil/) [engineering](/en/post/engineering/), [mechanical](/en/post/mechanical/) [engineering](/en/post/engineering/), [electrical](/en/post/electrical/) [engineering](/en/post/engineering/), [and](/en/post/and/) software [engineering](/en/post/engineering/).
+- **[Noun](/post/noun/)**: [The](/post/the/) [application](/post/application/) [of](/post/of/) [scientific](/post/scientific/) [and](/post/and/) [mathematical](/post/mathematical/) principles [to](/post/to/) [solve](/post/solve/) problems [and](/post/and/) [design](/post/design/) [various](/post/various/) systems, structures, machines, materials, [and](/post/and/) processes. [It](/post/it/) encompasses [a](/post/a/) [broad](/post/broad/) [range](/post/range/) [of](/post/of/) specialized fields [such](/post/such/) [as](/post/as/) [civil](/post/civil/) [engineering](/post/engineering/), [mechanical](/post/mechanical/) [engineering](/post/engineering/), [electrical](/post/electrical/) [engineering](/post/engineering/), [and](/post/and/) software [engineering](/post/engineering/).
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): "[She](/en/post/she/) pursued [a](/en/post/a/) [degree](/en/post/degree/) [in](/en/post/in/) aerospace [engineering](/en/post/engineering/) [to](/en/post/to/) [design](/en/post/design/) [and](/en/post/and/) [build](/en/post/build/) [spacecraft](/en/post/spacecraft/)."
+[Example](/post/example/) [sentence](/post/sentence/): "[She](/post/she/) pursued [a](/post/a/) [degree](/post/degree/) [in](/post/in/) aerospace [engineering](/post/engineering/) [to](/post/to/) [design](/post/design/) [and](/post/and/) [build](/post/build/) [spacecraft](/post/spacecraft/)."
 
-- **[Verb](/en/post/verb/) (Derived [form](/en/post/form/) - [Engineer](/en/post/engineer/))**: [To](/en/post/to/) [design](/en/post/design/), [construct](/en/post/construct/), [or](/en/post/or/) [manage](/en/post/manage/) [something](/en/post/something/) using [engineering](/en/post/engineering/) principles, methods, [or](/en/post/or/) techniques.
-[Example](/en/post/example/) [sentence](/en/post/sentence/): "[They](/en/post/they/) engineered [a](/en/post/a/) [new](/en/post/new/) [bridge](/en/post/bridge/) [that](/en/post/that/) [could](/en/post/could/) [withstand](/en/post/withstand/) [extreme](/en/post/extreme/) [weather](/en/post/weather/) conditions."
+- **[Verb](/post/verb/) (Derived [form](/post/form/) - [Engineer](/post/engineer/))**: [To](/post/to/) [design](/post/design/), [construct](/post/construct/), [or](/post/or/) [manage](/post/manage/) [something](/post/something/) using [engineering](/post/engineering/) principles, methods, [or](/post/or/) techniques.
+[Example](/post/example/) [sentence](/post/sentence/): "[They](/post/they/) engineered [a](/post/a/) [new](/post/new/) [bridge](/post/bridge/) [that](/post/that/) [could](/post/could/) [withstand](/post/withstand/) [extreme](/post/extreme/) [weather](/post/weather/) conditions."
 
 ## Phrases
-- "[Engineering](/en/post/engineering/) marvels" refers [to](/en/post/to/) [impressive](/en/post/impressive/) [technical](/en/post/technical/) achievements [or](/en/post/or/) constructions.
-- "[Reverse](/en/post/reverse/) [engineering](/en/post/engineering/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) analyzing [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [system](/en/post/system/) [to](/en/post/to/) [discover](/en/post/discover/) [its](/en/post/its/) [design](/en/post/design/), [construction](/en/post/construction/), [or](/en/post/or/) [operation](/en/post/operation/).
-- "Systems [engineering](/en/post/engineering/)" involves [the](/en/post/the/) [design](/en/post/design/) [and](/en/post/and/) [management](/en/post/management/) [of](/en/post/of/) [complex](/en/post/complex/) interconnected systems.
+- "[Engineering](/post/engineering/) marvels" refers [to](/post/to/) [impressive](/post/impressive/) [technical](/post/technical/) achievements [or](/post/or/) constructions.
+- "[Reverse](/post/reverse/) [engineering](/post/engineering/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) analyzing [a](/post/a/) [product](/post/product/) [or](/post/or/) [system](/post/system/) [to](/post/to/) [discover](/post/discover/) [its](/post/its/) [design](/post/design/), [construction](/post/construction/), [or](/post/or/) [operation](/post/operation/).
+- "Systems [engineering](/post/engineering/)" involves [the](/post/the/) [design](/post/design/) [and](/post/and/) [management](/post/management/) [of](/post/of/) [complex](/post/complex/) interconnected systems.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [development](/en/post/development/) [of](/en/post/of/) [modern](/en/post/modern/) [technology](/en/post/technology/) relies [heavily](/en/post/heavily/) [on](/en/post/on/) advancements [in](/en/post/in/) [engineering](/en/post/engineering/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) engineered [a](/en/post/a/) [solution](/en/post/solution/) [to](/en/post/to/) [improve](/en/post/improve/) [the](/en/post/the/) [efficiency](/en/post/efficiency/) [of](/en/post/of/) [the](/en/post/the/) manufacturing [process](/en/post/process/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [development](/post/development/) [of](/post/of/) [modern](/post/modern/) [technology](/post/technology/) relies [heavily](/post/heavily/) [on](/post/on/) advancements [in](/post/in/) [engineering](/post/engineering/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) engineered [a](/post/a/) [solution](/post/solution/) [to](/post/to/) [improve](/post/improve/) [the](/post/the/) [efficiency](/post/efficiency/) [of](/post/of/) [the](/post/the/) manufacturing [process](/post/process/)."
 
 ## Synonyms
-- [Design](/en/post/design/)
-- [Construction](/en/post/construction/)
-- [Technology](/en/post/technology/)
-- [Invention](/en/post/invention/)
+- [Design](/post/design/)
+- [Construction](/post/construction/)
+- [Technology](/post/technology/)
+- [Invention](/post/invention/)
 - Innovation
-- [Technical](/en/post/technical/) expertise
-- Applied [science](/en/post/science/)
+- [Technical](/post/technical/) expertise
+- Applied [science](/post/science/)

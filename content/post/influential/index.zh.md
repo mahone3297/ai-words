@@ -11,20 +11,20 @@ keywords = ['ai words', 'influential']
 /ɪnfluˈenʃəl/
 
 ## 释义
-- **形容词**: 有影响力的，有支配力的，有说服力的。例如: "[She](/post/she/) is an [influential](/post/influential/) [figure](/post/figure/) [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [politics](/post/politics/)."
-- **名词**: 影响力人物，有影响力的人。例如: "[He](/post/he/) became [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [influential](/post/influential/) [people](/post/people/) [in](/post/in/) [the](/post/the/) [industry](/post/industry/)."
+- **形容词**: 有影响力的，有支配力的，有说服力的。例如: "[She](/zh/post/she/) is an [influential](/zh/post/influential/) [figure](/zh/post/figure/) [in](/zh/post/in/) [the](/zh/post/the/) [field](/zh/post/field/) [of](/zh/post/of/) [politics](/zh/post/politics/)."
+- **名词**: 影响力人物，有影响力的人。例如: "[He](/zh/post/he/) became [one](/zh/post/one/) [of](/zh/post/of/) [the](/zh/post/the/) [most](/zh/post/most/) [influential](/zh/post/influential/) [people](/zh/post/people/) [in](/zh/post/in/) [the](/zh/post/the/) [industry](/zh/post/industry/)."
 
 ## 短语
-- "[have](/post/have/) [influence](/post/influence/) [over](/post/over/) sb" 意味着对某人有影响。
-- "an [influential](/post/influential/) [voice](/post/voice/)" 指的是有重要影响力的言论或观点。
+- "[have](/zh/post/have/) [influence](/zh/post/influence/) [over](/zh/post/over/) sb" 意味着对某人有影响。
+- "an [influential](/zh/post/influential/) [voice](/zh/post/voice/)" 指的是有重要影响力的言论或观点。
 
 ## 例句
-- 形容词: "[His](/post/his/) [influential](/post/influential/) [article](/post/article/) changed [public](/post/public/) [opinion](/post/opinion/) [on](/post/on/) [the](/post/the/) [issue](/post/issue/)."
-- 名词: "[She](/post/she/) was named [one](/post/one/) [of](/post/of/) [Time](/post/time/) Magazine's 100 [most](/post/most/) [influential](/post/influential/) [people](/post/people/)."
+- 形容词: "[His](/zh/post/his/) [influential](/zh/post/influential/) [article](/zh/post/article/) changed [public](/zh/post/public/) [opinion](/zh/post/opinion/) [on](/zh/post/on/) [the](/zh/post/the/) [issue](/zh/post/issue/)."
+- 名词: "[She](/zh/post/she/) was named [one](/zh/post/one/) [of](/zh/post/of/) [Time](/zh/post/time/) Magazine's 100 [most](/zh/post/most/) [influential](/zh/post/influential/) [people](/zh/post/people/)."
 
 ## 同义词
 - impactful
-- [powerful](/post/powerful/)
+- [powerful](/zh/post/powerful/)
 - persuasive
 - authoritative
 - decisive

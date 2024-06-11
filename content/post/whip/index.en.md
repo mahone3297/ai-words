@@ -7,40 +7,40 @@ description = '[(h)wip] vt.鞭笞；搅打 n.鞭子'
 keywords = ['ai words', 'whip']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɪp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [tool](/en/post/tool/) [with](/en/post/with/) [a](/en/post/a/) [long](/en/post/long/), [thin](/en/post/thin/) [handle](/en/post/handle/) [and](/en/post/and/) [a](/en/post/a/) coiled [flexible](/en/post/flexible/) lash, [used](/en/post/used/) [for](/en/post/for/) driving, whipping, [or](/en/post/or/) punishing animals:** *[The](/en/post/the/) [farmer](/en/post/farmer/) was using [a](/en/post/a/) [whip](/en/post/whip/) [to](/en/post/to/) [guide](/en/post/guide/) [his](/en/post/his/) horses.*
-2. **[A](/en/post/a/) [rapid](/en/post/rapid/), forceful [movement](/en/post/movement/) [or](/en/post/or/) [blow](/en/post/blow/):** *[She](/en/post/she/) gave [the](/en/post/the/) [table](/en/post/table/) [a](/en/post/a/) [sharp](/en/post/sharp/) [whip](/en/post/whip/) [of](/en/post/of/) [her](/en/post/her/) [hand](/en/post/hand/), causing [everything](/en/post/everything/) [to](/en/post/to/) [fall](/en/post/fall/) [off](/en/post/off/).*
-3. **[A](/en/post/a/) [severe](/en/post/severe/) [punishment](/en/post/punishment/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) involves [physical](/en/post/physical/) [abuse](/en/post/abuse/):** *[The](/en/post/the/) [child](/en/post/child/) was disciplined [with](/en/post/with/) [a](/en/post/a/) [leather](/en/post/leather/) [whip](/en/post/whip/).*
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [tool](/post/tool/) [with](/post/with/) [a](/post/a/) [long](/post/long/), [thin](/post/thin/) [handle](/post/handle/) [and](/post/and/) [a](/post/a/) coiled [flexible](/post/flexible/) lash, [used](/post/used/) [for](/post/for/) driving, whipping, [or](/post/or/) punishing animals:** *[The](/post/the/) [farmer](/post/farmer/) was using [a](/post/a/) [whip](/post/whip/) [to](/post/to/) [guide](/post/guide/) [his](/post/his/) horses.*
+2. **[A](/post/a/) [rapid](/post/rapid/), forceful [movement](/post/movement/) [or](/post/or/) [blow](/post/blow/):** *[She](/post/she/) gave [the](/post/the/) [table](/post/table/) [a](/post/a/) [sharp](/post/sharp/) [whip](/post/whip/) [of](/post/of/) [her](/post/her/) [hand](/post/hand/), causing [everything](/post/everything/) [to](/post/to/) [fall](/post/fall/) [off](/post/off/).*
+3. **[A](/post/a/) [severe](/post/severe/) [punishment](/post/punishment/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) involves [physical](/post/physical/) [abuse](/post/abuse/):** *[The](/post/the/) [child](/post/child/) was disciplined [with](/post/with/) [a](/post/a/) [leather](/post/leather/) [whip](/post/whip/).*
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [strike](/en/post/strike/) [with](/en/post/with/) [a](/en/post/a/) [whip](/en/post/whip/) [or](/en/post/or/) [similar](/en/post/similar/) [instrument](/en/post/instrument/):** *[He](/en/post/he/) whipped [the](/en/post/the/) [horse](/en/post/horse/) [into](/en/post/into/) [a](/en/post/a/) gallop.*
-2. **[To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [direct](/en/post/direct/) [with](/en/post/with/) [quick](/en/post/quick/), forceful actions:** *[She](/en/post/she/) whipped [up](/en/post/up/) [a](/en/post/a/) frenzy [among](/en/post/among/) [the](/en/post/the/) [crowd](/en/post/crowd/).*
-3. **[To](/en/post/to/) administer [a](/en/post/a/) [severe](/en/post/severe/) [punishment](/en/post/punishment/), [especially](/en/post/especially/) [with](/en/post/with/) [a](/en/post/a/) [whip](/en/post/whip/):** *[The](/en/post/the/) [soldier](/en/post/soldier/) was whipped [for](/en/post/for/) insubordination.*
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [strike](/post/strike/) [with](/post/with/) [a](/post/a/) [whip](/post/whip/) [or](/post/or/) [similar](/post/similar/) [instrument](/post/instrument/):** *[He](/post/he/) whipped [the](/post/the/) [horse](/post/horse/) [into](/post/into/) [a](/post/a/) gallop.*
+2. **[To](/post/to/) [move](/post/move/) [or](/post/or/) [direct](/post/direct/) [with](/post/with/) [quick](/post/quick/), forceful actions:** *[She](/post/she/) whipped [up](/post/up/) [a](/post/a/) frenzy [among](/post/among/) [the](/post/the/) [crowd](/post/crowd/).*
+3. **[To](/post/to/) administer [a](/post/a/) [severe](/post/severe/) [punishment](/post/punishment/), [especially](/post/especially/) [with](/post/with/) [a](/post/a/) [whip](/post/whip/):** *[The](/post/the/) [soldier](/post/soldier/) was whipped [for](/post/for/) insubordination.*
 
-### [Adjective](/en/post/adjective/)
-1. **Characterized [by](/en/post/by/) [speed](/en/post/speed/) [or](/en/post/or/) agility:** *[The](/en/post/the/) athlete's whip-like reflexes saved [him](/en/post/him/) [from](/en/post/from/) [a](/en/post/a/) [fall](/en/post/fall/).*
-2. **[Very](/en/post/very/) energetic [or](/en/post/or/) [lively](/en/post/lively/):** *[The](/en/post/the/) [party](/en/post/party/) had [a](/en/post/a/) whip-fast [pace](/en/post/pace/), [with](/en/post/with/) [everyone](/en/post/everyone/) dancing [until](/en/post/until/) [dawn](/en/post/dawn/).*
+### [Adjective](/post/adjective/)
+1. **Characterized [by](/post/by/) [speed](/post/speed/) [or](/post/or/) agility:** *[The](/post/the/) athlete's whip-like reflexes saved [him](/post/him/) [from](/post/from/) [a](/post/a/) [fall](/post/fall/).*
+2. **[Very](/post/very/) energetic [or](/post/or/) [lively](/post/lively/):** *[The](/post/the/) [party](/post/party/) had [a](/post/a/) whip-fast [pace](/post/pace/), [with](/post/with/) [everyone](/post/everyone/) dancing [until](/post/until/) [dawn](/post/dawn/).*
 
 ## Phrases
-- "[Get](/en/post/get/) [the](/en/post/the/) [whip](/en/post/whip/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) [action](/en/post/action/) [or](/en/post/or/) [to](/en/post/to/) [use](/en/post/use/) [something](/en/post/something/) [quickly](/en/post/quickly/).
-- "[Whip](/en/post/whip/) [through](/en/post/through/)" refers [to](/en/post/to/) moving swiftly [and](/en/post/and/) efficiently.
-- "[Whip](/en/post/whip/) [up](/en/post/up/) [a](/en/post/a/) [storm](/en/post/storm/)" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [create](/en/post/create/) excitement [or](/en/post/or/) controversy.
+- "[Get](/post/get/) [the](/post/the/) [whip](/post/whip/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) [prepare](/post/prepare/) [for](/post/for/) [action](/post/action/) [or](/post/or/) [to](/post/to/) [use](/post/use/) [something](/post/something/) [quickly](/post/quickly/).
+- "[Whip](/post/whip/) [through](/post/through/)" refers [to](/post/to/) moving swiftly [and](/post/and/) efficiently.
+- "[Whip](/post/whip/) [up](/post/up/) [a](/post/a/) [storm](/post/storm/)" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [create](/post/create/) excitement [or](/post/or/) controversy.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) whipcord snapped [tight](/en/post/tight/) [as](/en/post/as/) [he](/en/post/he/) pulled [on](/en/post/on/) [it](/en/post/it/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) chef whipped [the](/en/post/the/) [cream](/en/post/cream/) [into](/en/post/into/) [stiff](/en/post/stiff/) peaks."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) whipcord [dress](/en/post/dress/) hugged [her](/en/post/her/) curves [in](/en/post/in/) [all](/en/post/all/) [the](/en/post/the/) [right](/en/post/right/) places."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) whipcord snapped [tight](/post/tight/) [as](/post/as/) [he](/post/he/) pulled [on](/post/on/) [it](/post/it/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) chef whipped [the](/post/the/) [cream](/post/cream/) [into](/post/into/) [stiff](/post/stiff/) peaks."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) whipcord [dress](/post/dress/) hugged [her](/post/her/) curves [in](/post/in/) [all](/post/all/) [the](/post/the/) [right](/post/right/) places."
 
 ## Synonyms
-- Cane ([for](/en/post/for/) [a](/en/post/a/) [physical](/en/post/physical/) [instrument](/en/post/instrument/))
+- Cane ([for](/post/for/) [a](/post/a/) [physical](/post/physical/) [instrument](/post/instrument/))
 - Lash
 - Snap
 - Scourge
 - Thwack
-- [Swift](/en/post/swift/)
-- [Rapid](/en/post/rapid/)
+- [Swift](/post/swift/)
+- [Rapid](/post/rapid/)
 - Sprightly

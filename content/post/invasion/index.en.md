@@ -7,30 +7,30 @@ description = '[inˈveiʒən] n.入侵，侵略；侵犯'
 keywords = ['ai words', 'invasion']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈveɪʒən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [military](/en/post/military/) assault [or](/en/post/or/) [entrance](/en/post/entrance/) [by](/en/post/by/) [force](/en/post/force/) [into](/en/post/into/) [a](/en/post/a/) [country](/en/post/country/) [or](/en/post/or/) [region](/en/post/region/) [to](/en/post/to/) [conquer](/en/post/conquer/) [or](/en/post/or/) subdue [it](/en/post/it/); [the](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [instance](/en/post/instance/) [of](/en/post/of/) invading. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [enemy](/en/post/enemy/) launched [a](/en/post/a/) [swift](/en/post/swift/) [invasion](/en/post/invasion/), catching [the](/en/post/the/) defenders [off](/en/post/off/) [guard](/en/post/guard/)."
-- **[Noun](/en/post/noun/)**: (figurative) [The](/en/post/the/) [arrival](/en/post/arrival/) [or](/en/post/or/) [spread](/en/post/spread/) [of](/en/post/of/) [something](/en/post/something/) unwanted [or](/en/post/or/) [harmful](/en/post/harmful/) [that](/en/post/that/) disrupts [or](/en/post/or/) takes [over](/en/post/over/) an [area](/en/post/area/) [or](/en/post/or/) [environment](/en/post/environment/). [For](/en/post/for/) [example](/en/post/example/): "An [invasion](/en/post/invasion/) [of](/en/post/of/) privacy"; "[The](/en/post/the/) [forest](/en/post/forest/) suffered [from](/en/post/from/) an [invasion](/en/post/invasion/) [of](/en/post/of/) non-native species."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [military](/post/military/) assault [or](/post/or/) [entrance](/post/entrance/) [by](/post/by/) [force](/post/force/) [into](/post/into/) [a](/post/a/) [country](/post/country/) [or](/post/or/) [region](/post/region/) [to](/post/to/) [conquer](/post/conquer/) [or](/post/or/) subdue [it](/post/it/); [the](/post/the/) [act](/post/act/) [or](/post/or/) [instance](/post/instance/) [of](/post/of/) invading. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [enemy](/post/enemy/) launched [a](/post/a/) [swift](/post/swift/) [invasion](/post/invasion/), catching [the](/post/the/) defenders [off](/post/off/) [guard](/post/guard/)."
+- **[Noun](/post/noun/)**: (figurative) [The](/post/the/) [arrival](/post/arrival/) [or](/post/or/) [spread](/post/spread/) [of](/post/of/) [something](/post/something/) unwanted [or](/post/or/) [harmful](/post/harmful/) [that](/post/that/) disrupts [or](/post/or/) takes [over](/post/over/) an [area](/post/area/) [or](/post/or/) [environment](/post/environment/). [For](/post/for/) [example](/post/example/): "An [invasion](/post/invasion/) [of](/post/of/) privacy"; "[The](/post/the/) [forest](/post/forest/) suffered [from](/post/from/) an [invasion](/post/invasion/) [of](/post/of/) non-native species."
 
 ## Phrases
-- "[Invasion](/en/post/invasion/) [of](/en/post/of/)" is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) denote [the](/en/post/the/) intrusion [or](/en/post/or/) encroachment [upon](/en/post/upon/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "An [invasion](/en/post/invasion/) [of](/en/post/of/) [personal](/en/post/personal/) [space](/en/post/space/)."
-- "[Military](/en/post/military/) [invasion](/en/post/invasion/)" specifically refers [to](/en/post/to/) armed forces entering [another](/en/post/another/) [country](/en/post/country/) [with](/en/post/with/) [hostile](/en/post/hostile/) intent.
-- "[Invasion](/en/post/invasion/) [fleet](/en/post/fleet/)" refers [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) warships sent [to](/en/post/to/) [invade](/en/post/invade/) [a](/en/post/a/) [territory](/en/post/territory/).
+- "[Invasion](/post/invasion/) [of](/post/of/)" is [often](/post/often/) [used](/post/used/) [to](/post/to/) denote [the](/post/the/) intrusion [or](/post/or/) encroachment [upon](/post/upon/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "An [invasion](/post/invasion/) [of](/post/of/) [personal](/post/personal/) [space](/post/space/)."
+- "[Military](/post/military/) [invasion](/post/invasion/)" specifically refers [to](/post/to/) armed forces entering [another](/post/another/) [country](/post/country/) [with](/post/with/) [hostile](/post/hostile/) intent.
+- "[Invasion](/post/invasion/) [fleet](/post/fleet/)" refers [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) warships sent [to](/post/to/) [invade](/post/invade/) [a](/post/a/) [territory](/post/territory/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([military](/en/post/military/))**: "[World](/en/post/world/) [War](/en/post/war/) II began [with](/en/post/with/) [the](/en/post/the/) Nazi [invasion](/en/post/invasion/) [of](/en/post/of/) Poland."
-- **[Noun](/en/post/noun/) (figurative)**: "[The](/en/post/the/) [sudden](/en/post/sudden/) [invasion](/en/post/invasion/) [of](/en/post/of/) [noise](/en/post/noise/) [from](/en/post/from/) [the](/en/post/the/) [street](/en/post/street/) disturbed [the](/en/post/the/) [peaceful](/en/post/peaceful/) neighborhood."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([military](/post/military/))**: "[World](/post/world/) [War](/post/war/) II began [with](/post/with/) [the](/post/the/) Nazi [invasion](/post/invasion/) [of](/post/of/) Poland."
+- **[Noun](/post/noun/) (figurative)**: "[The](/post/the/) [sudden](/post/sudden/) [invasion](/post/invasion/) [of](/post/of/) [noise](/post/noise/) [from](/post/from/) [the](/post/the/) [street](/post/street/) disturbed [the](/post/the/) [peaceful](/post/peaceful/) neighborhood."
 
 ## Synonyms
-- [Attack](/en/post/attack/)
-- [Raid](/en/post/raid/)
+- [Attack](/post/attack/)
+- [Raid](/post/raid/)
 - Assault
 - Incursion
 - Intrusion
-- [Invasion](/en/post/invasion/) [force](/en/post/force/)
-- [Occupation](/en/post/occupation/)
+- [Invasion](/post/invasion/) [force](/post/force/)
+- [Occupation](/post/occupation/)
 - Takeover
-- Infestation ([when](/en/post/when/) referring [to](/en/post/to/) pests [or](/en/post/or/) invasive species)
-- Infiltration ([in](/en/post/in/) [a](/en/post/a/) [more](/en/post/more/) covert context)
+- Infestation ([when](/post/when/) referring [to](/post/to/) pests [or](/post/or/) invasive species)
+- Infiltration ([in](/post/in/) [a](/post/a/) [more](/post/more/) covert context)

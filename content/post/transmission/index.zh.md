@@ -11,24 +11,24 @@ keywords = ['ai words', 'transmission']
 /ˌtrænsˈmɪʃən/
 
 ## 释义
-- **名词**: 传输，传递，传送。例如: "[The](/post/the/) [transmission](/post/transmission/) [of](/post/of/) [electricity](/post/electricity/) is crucial [for](/post/for/) [modern](/post/modern/) [life](/post/life/)."
-- **名词**: (汽车)变速器。例如: "[The](/post/the/) car's [transmission](/post/transmission/) needs [to](/post/to/) [be](/post/be/) repaired."
-- **动词**: 传播，传递。例如: "[The](/post/the/) virus [can](/post/can/) [be](/post/be/) transmitted [through](/post/through/) bodily fluids."
-- **名词**: (广播、电视的)播送，发射。例如: "[The](/post/the/) [radio](/post/radio/) station's [transmission](/post/transmission/) covers [the](/post/the/) [entire](/post/entire/) [city](/post/city/)."
+- **名词**: 传输，传递，传送。例如: "[The](/zh/post/the/) [transmission](/zh/post/transmission/) [of](/zh/post/of/) [electricity](/zh/post/electricity/) is crucial [for](/zh/post/for/) [modern](/zh/post/modern/) [life](/zh/post/life/)."
+- **名词**: (汽车)变速器。例如: "[The](/zh/post/the/) car's [transmission](/zh/post/transmission/) needs [to](/zh/post/to/) [be](/zh/post/be/) repaired."
+- **动词**: 传播，传递。例如: "[The](/zh/post/the/) virus [can](/zh/post/can/) [be](/zh/post/be/) transmitted [through](/zh/post/through/) bodily fluids."
+- **名词**: (广播、电视的)播送，发射。例如: "[The](/zh/post/the/) [radio](/zh/post/radio/) station's [transmission](/zh/post/transmission/) covers [the](/zh/post/the/) [entire](/zh/post/entire/) [city](/zh/post/city/)."
 
 ## 短语
-- "[Transmission](/post/transmission/) [line](/post/line/)" 电线，传输线。
-- "[Automatic](/post/automatic/) [transmission](/post/transmission/)" 自动变速器。
-- "[Radio](/post/radio/) [transmission](/post/transmission/)" 广播发射。
+- "[Transmission](/zh/post/transmission/) [line](/zh/post/line/)" 电线，传输线。
+- "[Automatic](/zh/post/automatic/) [transmission](/zh/post/transmission/)" 自动变速器。
+- "[Radio](/zh/post/radio/) [transmission](/zh/post/transmission/)" 广播发射。
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [satellite](/post/satellite/) [will](/post/will/) [improve](/post/improve/) [the](/post/the/) [transmission](/post/transmission/) [of](/post/of/) [data](/post/data/) [across](/post/across/) [the](/post/the/) [globe](/post/globe/)."
-- 名词: "[My](/post/my/) [car](/post/car/) has [a](/post/a/) [manual](/post/manual/) [transmission](/post/transmission/), [so](/post/so/) I [have](/post/have/) [to](/post/to/) [shift](/post/shift/) gears [myself](/post/myself/)."
-- 动词: "[The](/post/the/) [message](/post/message/) was transmitted [instantly](/post/instantly/) [via](/post/via/) email."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [satellite](/zh/post/satellite/) [will](/zh/post/will/) [improve](/zh/post/improve/) [the](/zh/post/the/) [transmission](/zh/post/transmission/) [of](/zh/post/of/) [data](/zh/post/data/) [across](/zh/post/across/) [the](/zh/post/the/) [globe](/zh/post/globe/)."
+- 名词: "[My](/zh/post/my/) [car](/zh/post/car/) has [a](/zh/post/a/) [manual](/zh/post/manual/) [transmission](/zh/post/transmission/), [so](/zh/post/so/) I [have](/zh/post/have/) [to](/zh/post/to/) [shift](/zh/post/shift/) gears [myself](/zh/post/myself/)."
+- 动词: "[The](/zh/post/the/) [message](/zh/post/message/) was transmitted [instantly](/zh/post/instantly/) [via](/zh/post/via/) email."
 
 ## 同义词
-- [Transfer](/post/transfer/)
+- [Transfer](/zh/post/transfer/)
 - Conveyance
-- [Passage](/post/passage/)
+- [Passage](/zh/post/passage/)
 - Relaying
 - Broadcasting

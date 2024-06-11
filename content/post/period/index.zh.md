@@ -12,23 +12,23 @@ keywords = ['ai words', 'period']
 
 ## 释义
 - **名词**:
-   - 时间的一段；一段时间。例如: "We'll [discuss](/post/discuss/) [this](/post/this/) [matter](/post/matter/) [again](/post/again/) [in](/post/in/) [a](/post/a/) [later](/post/later/) [period](/post/period/)."
-   - 月经周期；月份。例如: "[Her](/post/her/) [period](/post/period/) is [usually](/post/usually/) [very](/post/very/) [regular](/post/regular/)."
-   - 句号；点。在书面语中表示句子的结束。例如: "[The](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [sentence](/post/sentence/) is marked [by](/post/by/) [a](/post/a/) [period](/post/period/)."
-   - （历史上的）时期；时代。例如: "[The](/post/the/) Renaissance was [a](/post/a/) [period](/post/period/) [of](/post/of/) [great](/post/great/) [artistic](/post/artistic/) [achievement](/post/achievement/)."
+   - 时间的一段；一段时间。例如: "We'll [discuss](/zh/post/discuss/) [this](/zh/post/this/) [matter](/zh/post/matter/) [again](/zh/post/again/) [in](/zh/post/in/) [a](/zh/post/a/) [later](/zh/post/later/) [period](/zh/post/period/)."
+   - 月经周期；月份。例如: "[Her](/zh/post/her/) [period](/zh/post/period/) is [usually](/zh/post/usually/) [very](/zh/post/very/) [regular](/zh/post/regular/)."
+   - 句号；点。在书面语中表示句子的结束。例如: "[The](/zh/post/the/) [end](/zh/post/end/) [of](/zh/post/of/) [the](/zh/post/the/) [sentence](/zh/post/sentence/) is marked [by](/zh/post/by/) [a](/zh/post/a/) [period](/zh/post/period/)."
+   - （历史上的）时期；时代。例如: "[The](/zh/post/the/) Renaissance was [a](/zh/post/a/) [period](/zh/post/period/) [of](/zh/post/of/) [great](/zh/post/great/) [artistic](/zh/post/artistic/) [achievement](/zh/post/achievement/)."
 
 ## 短语
-- "[Full](/post/full/) [stop](/post/stop/)" 在英式英语中，[period](/post/period/) 也被称为 [full](/post/full/) [stop](/post/stop/)，表示句子结束的标点符号。
+- "[Full](/zh/post/full/) [stop](/zh/post/stop/)" 在英式英语中，[period](/zh/post/period/) 也被称为 [full](/zh/post/full/) [stop](/zh/post/stop/)，表示句子结束的标点符号。
 - "Periodical" 指定期出版物，如杂志或期刊。
 
 ## 例句
-- 名词: "[The](/post/the/) [ancient](/post/ancient/) Greek [period](/post/period/) was characterized [by](/post/by/) [great](/post/great/) philosophers."
-- 名词（关于月经）: "[She](/post/she/) keeps [track](/post/track/) [of](/post/of/) [her](/post/her/) [period](/post/period/) [to](/post/to/) [know](/post/know/) [when](/post/when/) [to](/post/to/) [expect](/post/expect/) [it](/post/it/)."
-- 名词（关于句号）: "[The](/post/the/) email ended [with](/post/with/) [a](/post/a/) [period](/post/period/), indicating [the](/post/the/) [message](/post/message/) was [complete](/post/complete/)."
+- 名词: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) Greek [period](/zh/post/period/) was characterized [by](/zh/post/by/) [great](/zh/post/great/) philosophers."
+- 名词（关于月经）: "[She](/zh/post/she/) keeps [track](/zh/post/track/) [of](/zh/post/of/) [her](/zh/post/her/) [period](/zh/post/period/) [to](/zh/post/to/) [know](/zh/post/know/) [when](/zh/post/when/) [to](/zh/post/to/) [expect](/zh/post/expect/) [it](/zh/post/it/)."
+- 名词（关于句号）: "[The](/zh/post/the/) email ended [with](/zh/post/with/) [a](/zh/post/a/) [period](/zh/post/period/), indicating [the](/zh/post/the/) [message](/zh/post/message/) was [complete](/zh/post/complete/)."
 
 ## 同义词
-- [Time](/post/time/) [frame](/post/frame/)
-- [Era](/post/era/)
-- [Span](/post/span/)
-- [Phase](/post/phase/)
-- [Interval](/post/interval/)
+- [Time](/zh/post/time/) [frame](/zh/post/frame/)
+- [Era](/zh/post/era/)
+- [Span](/zh/post/span/)
+- [Phase](/zh/post/phase/)
+- [Interval](/zh/post/interval/)

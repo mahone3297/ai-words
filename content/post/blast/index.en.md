@@ -7,33 +7,33 @@ description = '[blɑːst] n.爆炸，冲击波 vt.炸'
 keywords = ['ai words', 'blast']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /blæst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. An [explosion](/en/post/explosion/) [or](/en/post/or/) [loud](/en/post/loud/) [noise](/en/post/noise/). 2. [A](/en/post/a/) [sudden](/en/post/sudden/) [burst](/en/post/burst/) [of](/en/post/of/) [energy](/en/post/energy/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/). 3. [A](/en/post/a/) [powerful](/en/post/powerful/) gust [of](/en/post/of/) [wind](/en/post/wind/). 4. [A](/en/post/a/) [public](/en/post/public/) announcement [or](/en/post/or/) [broadcast](/en/post/broadcast/). 5. [A](/en/post/a/) [social](/en/post/social/) media [post](/en/post/post/) [or](/en/post/or/) online sharing.
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [cause](/en/post/cause/) an [explosion](/en/post/explosion/) [or](/en/post/or/) [burst](/en/post/burst/) [of](/en/post/of/) [sound](/en/post/sound/). 2. [To](/en/post/to/) [criticize](/en/post/criticize/) [or](/en/post/or/) rebuke harshly. 3. [To](/en/post/to/) [send](/en/post/send/) [a](/en/post/a/) [strong](/en/post/strong/) [blast](/en/post/blast/) [of](/en/post/of/) [something](/en/post/something/) ([like](/en/post/like/) [air](/en/post/air/) [or](/en/post/or/) [water](/en/post/water/)). 4. [To](/en/post/to/) [suddenly](/en/post/suddenly/) [share](/en/post/share/) [or](/en/post/or/) [promote](/en/post/promote/) [content](/en/post/content/) online.
+- **[Noun](/post/noun/)**: 1. An [explosion](/post/explosion/) [or](/post/or/) [loud](/post/loud/) [noise](/post/noise/). 2. [A](/post/a/) [sudden](/post/sudden/) [burst](/post/burst/) [of](/post/of/) [energy](/post/energy/) [or](/post/or/) [enthusiasm](/post/enthusiasm/). 3. [A](/post/a/) [powerful](/post/powerful/) gust [of](/post/of/) [wind](/post/wind/). 4. [A](/post/a/) [public](/post/public/) announcement [or](/post/or/) [broadcast](/post/broadcast/). 5. [A](/post/a/) [social](/post/social/) media [post](/post/post/) [or](/post/or/) online sharing.
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [cause](/post/cause/) an [explosion](/post/explosion/) [or](/post/or/) [burst](/post/burst/) [of](/post/of/) [sound](/post/sound/). 2. [To](/post/to/) [criticize](/post/criticize/) [or](/post/or/) rebuke harshly. 3. [To](/post/to/) [send](/post/send/) [a](/post/a/) [strong](/post/strong/) [blast](/post/blast/) [of](/post/of/) [something](/post/something/) ([like](/post/like/) [air](/post/air/) [or](/post/or/) [water](/post/water/)). 4. [To](/post/to/) [suddenly](/post/suddenly/) [share](/post/share/) [or](/post/or/) [promote](/post/promote/) [content](/post/content/) online.
 
 ## Phrases
-- "[Blast](/en/post/blast/) [off](/en/post/off/)" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) [or](/en/post/or/) [begin](/en/post/begin/) abruptly.
-- "[Blast](/en/post/blast/) [through](/en/post/through/)" implies moving [quickly](/en/post/quickly/) [or](/en/post/or/) efficiently.
-- "[Blast](/en/post/blast/) [from](/en/post/from/) [the](/en/post/the/) [past](/en/post/past/)" refers [to](/en/post/to/) [something](/en/post/something/) [unexpected](/en/post/unexpected/) [or](/en/post/or/) long-forgotten [that](/en/post/that/) resurfaces.
+- "[Blast](/post/blast/) [off](/post/off/)" [means](/post/means/) [to](/post/to/) [start](/post/start/) [or](/post/or/) [begin](/post/begin/) abruptly.
+- "[Blast](/post/blast/) [through](/post/through/)" implies moving [quickly](/post/quickly/) [or](/post/or/) efficiently.
+- "[Blast](/post/blast/) [from](/post/from/) [the](/post/the/) [past](/post/past/)" refers [to](/post/to/) [something](/post/something/) [unexpected](/post/unexpected/) [or](/post/or/) long-forgotten [that](/post/that/) resurfaces.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) fireworks [blast](/en/post/blast/) lit [up](/en/post/up/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/) [during](/en/post/during/) [the](/en/post/the/) [festival](/en/post/festival/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) blasted [the](/en/post/the/) car's [horn](/en/post/horn/) [to](/en/post/to/) [get](/en/post/get/) [the](/en/post/the/) driver's [attention](/en/post/attention/)."
-- **[Social](/en/post/social/) media**: "[Her](/en/post/her/) [new](/en/post/new/) blog [post](/en/post/post/) went viral [after](/en/post/after/) [she](/en/post/she/) blasted [out](/en/post/out/) [a](/en/post/a/) [link](/en/post/link/) [on](/en/post/on/) Twitter."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) fireworks [blast](/post/blast/) lit [up](/post/up/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/) [during](/post/during/) [the](/post/the/) [festival](/post/festival/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) blasted [the](/post/the/) car's [horn](/post/horn/) [to](/post/to/) [get](/post/get/) [the](/post/the/) driver's [attention](/post/attention/)."
+- **[Social](/post/social/) media**: "[Her](/post/her/) [new](/post/new/) blog [post](/post/post/) went viral [after](/post/after/) [she](/post/she/) blasted [out](/post/out/) [a](/post/a/) [link](/post/link/) [on](/post/on/) Twitter."
 
 ## Synonyms
-- [Explosion](/en/post/explosion/)
+- [Explosion](/post/explosion/)
 - Blast-off
 - Eruption
 - Outburst
 - Ramrod
 
 ## Antonyms
-- [Calm](/en/post/calm/)
-- [Quiet](/en/post/quiet/)
-- [Gentle](/en/post/gentle/)
+- [Calm](/post/calm/)
+- [Quiet](/post/quiet/)
+- [Gentle](/post/gentle/)
 - Subdued
-- [Soft](/en/post/soft/)
+- [Soft](/post/soft/)

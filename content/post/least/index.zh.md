@@ -11,20 +11,20 @@ keywords = ['ai words', 'least']
 /liːst/
 
 ## 释义
-- **形容词**: 最小的，最少的。例如: "[This](/post/this/) is [the](/post/the/) [least](/post/least/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) I've [ever](/post/ever/) had."
-- **副词**: 最少，最小程度地。例如: "[He](/post/he/) cares [least](/post/least/) [about](/post/about/) [what](/post/what/) others [think](/post/think/)."
+- **形容词**: 最小的，最少的。例如: "[This](/zh/post/this/) is [the](/zh/post/the/) [least](/zh/post/least/) [amount](/zh/post/amount/) [of](/zh/post/of/) [money](/zh/post/money/) I've [ever](/zh/post/ever/) had."
+- **副词**: 最少，最小程度地。例如: "[He](/zh/post/he/) cares [least](/zh/post/least/) [about](/zh/post/about/) [what](/zh/post/what/) others [think](/zh/post/think/)."
 
 ## 短语
-- "[at](/post/at/) [the](/post/the/) [very](/post/very/) [least](/post/least/)" 意为至少，最低限度。例如: "[We](/post/we/) [should](/post/should/) [arrive](/post/arrive/) [at](/post/at/) [the](/post/the/) [meeting](/post/meeting/) [at](/post/at/) [least](/post/least/) [on](/post/on/) [time](/post/time/)."
-- "[do](/post/do/) [something](/post/something/) [to](/post/to/) [the](/post/the/) [least](/post/least/)" 表示尽可能少地做某事。例如: "[Try](/post/try/) [to](/post/to/) [use](/post/use/) [the](/post/the/) [least](/post/least/) [amount](/post/amount/) [of](/post/of/) [water](/post/water/) [when](/post/when/) washing dishes."
+- "[at](/zh/post/at/) [the](/zh/post/the/) [very](/zh/post/very/) [least](/zh/post/least/)" 意为至少，最低限度。例如: "[We](/zh/post/we/) [should](/zh/post/should/) [arrive](/zh/post/arrive/) [at](/zh/post/at/) [the](/zh/post/the/) [meeting](/zh/post/meeting/) [at](/zh/post/at/) [least](/zh/post/least/) [on](/zh/post/on/) [time](/zh/post/time/)."
+- "[do](/zh/post/do/) [something](/zh/post/something/) [to](/zh/post/to/) [the](/zh/post/the/) [least](/zh/post/least/)" 表示尽可能少地做某事。例如: "[Try](/zh/post/try/) [to](/zh/post/to/) [use](/zh/post/use/) [the](/zh/post/the/) [least](/zh/post/least/) [amount](/zh/post/amount/) [of](/zh/post/of/) [water](/zh/post/water/) [when](/zh/post/when/) washing dishes."
 
 ## 例句
-- 形容词: "[This](/post/this/) is [the](/post/the/) [least](/post/least/) [expensive](/post/expensive/) [option](/post/option/) [we](/post/we/) [have](/post/have/)."
-- 副词: "[She](/post/she/) answered [him](/post/him/) [with](/post/with/) [the](/post/the/) [least](/post/least/) [interest](/post/interest/)."
+- 形容词: "[This](/zh/post/this/) is [the](/zh/post/the/) [least](/zh/post/least/) [expensive](/zh/post/expensive/) [option](/zh/post/option/) [we](/zh/post/we/) [have](/zh/post/have/)."
+- 副词: "[She](/zh/post/she/) answered [him](/zh/post/him/) [with](/zh/post/with/) [the](/zh/post/the/) [least](/zh/post/least/) [interest](/zh/post/interest/)."
 
 ## 同义词
 - smallest
-- [minimum](/post/minimum/)
+- [minimum](/zh/post/minimum/)
 - tiniest
 - slightest
 - lowest

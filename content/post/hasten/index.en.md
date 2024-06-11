@@ -7,32 +7,32 @@ description = '[ˈheisn] vt.催促 vi.赶紧'
 keywords = ['ai words', 'hasten']
 +++
 
-## [Word](/en/post/word/): [Hasten](/en/post/hasten/)
+## [Word](/post/word/): [Hasten](/post/hasten/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈheɪstn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [act](/en/post/act/) [quickly](/en/post/quickly/); [to](/en/post/to/) [hurry](/en/post/hurry/); [to](/en/post/to/) [accelerate](/en/post/accelerate/) [the](/en/post/the/) [speed](/en/post/speed/) [or](/en/post/or/) [progress](/en/post/progress/) [of](/en/post/of/) [something](/en/post/something/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [move](/post/move/) [or](/post/or/) [act](/post/act/) [quickly](/post/quickly/); [to](/post/to/) [hurry](/post/hurry/); [to](/post/to/) [accelerate](/post/accelerate/) [the](/post/the/) [speed](/post/speed/) [or](/post/or/) [progress](/post/progress/) [of](/post/of/) [something](/post/something/). 
 
 ### Examples
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) guests hastened [their](/en/post/their/) [departure](/en/post/departure/) [when](/en/post/when/) [they](/en/post/they/) heard [the](/en/post/the/) [first](/en/post/first/) drops [of](/en/post/of/) [rain](/en/post/rain/)." 
-- "Realizing [he](/en/post/he/) was [late](/en/post/late/), [he](/en/post/he/) hastened [his](/en/post/his/) [pace](/en/post/pace/) [to](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) [meeting](/en/post/meeting/) [on](/en/post/on/) [time](/en/post/time/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) guests hastened [their](/post/their/) [departure](/post/departure/) [when](/post/when/) [they](/post/they/) heard [the](/post/the/) [first](/post/first/) drops [of](/post/of/) [rain](/post/rain/)." 
+- "Realizing [he](/post/he/) was [late](/post/late/), [he](/post/he/) hastened [his](/post/his/) [pace](/post/pace/) [to](/post/to/) [reach](/post/reach/) [the](/post/the/) [meeting](/post/meeting/) [on](/post/on/) [time](/post/time/)."
   
 ## Phrases
-- "[Hasten](/en/post/hasten/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/)": [To](/en/post/to/) [act](/en/post/act/) [quickly](/en/post/quickly/) [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [perform](/en/post/perform/) [a](/en/post/a/) [certain](/en/post/certain/) [action](/en/post/action/) promptly. E.g., "[We](/en/post/we/) [must](/en/post/must/) [hasten](/en/post/hasten/) [to](/en/post/to/) [make](/en/post/make/) arrangements [before](/en/post/before/) [the](/en/post/the/) tickets [sell](/en/post/sell/) [out](/en/post/out/)."
-- "[Hasten](/en/post/hasten/) [the](/en/post/the/) [day](/en/post/day/)/[moment](/en/post/moment/)": [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/) sooner. E.g., "[His](/en/post/his/) [hard](/en/post/hard/) [work](/en/post/work/) hastened [the](/en/post/the/) [day](/en/post/day/) [when](/en/post/when/) [he](/en/post/he/) [could](/en/post/could/) [finally](/en/post/finally/) [retire](/en/post/retire/)."
+- "[Hasten](/post/hasten/) [to](/post/to/) [do](/post/do/) [something](/post/something/)": [To](/post/to/) [act](/post/act/) [quickly](/post/quickly/) [in](/post/in/) [order](/post/order/) [to](/post/to/) [perform](/post/perform/) [a](/post/a/) [certain](/post/certain/) [action](/post/action/) promptly. E.g., "[We](/post/we/) [must](/post/must/) [hasten](/post/hasten/) [to](/post/to/) [make](/post/make/) arrangements [before](/post/before/) [the](/post/the/) tickets [sell](/post/sell/) [out](/post/out/)."
+- "[Hasten](/post/hasten/) [the](/post/the/) [day](/post/day/)/[moment](/post/moment/)": [To](/post/to/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [happen](/post/happen/) sooner. E.g., "[His](/post/his/) [hard](/post/hard/) [work](/post/work/) hastened [the](/post/the/) [day](/post/day/) [when](/post/when/) [he](/post/he/) [could](/post/could/) [finally](/post/finally/) [retire](/post/retire/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [hasten](/en/post/hasten/) [their](/en/post/their/) [departure](/en/post/departure/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) impending [storm](/en/post/storm/)."
-- "[She](/en/post/she/) hastened [her](/en/post/her/) steps [when](/en/post/when/) [she](/en/post/she/) realized [she](/en/post/she/) had [left](/en/post/left/) [her](/en/post/her/) keys [behind](/en/post/behind/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[They](/post/they/) decided [to](/post/to/) [hasten](/post/hasten/) [their](/post/their/) [departure](/post/departure/) [due](/post/due/) [to](/post/to/) [the](/post/the/) impending [storm](/post/storm/)."
+- "[She](/post/she/) hastened [her](/post/her/) steps [when](/post/when/) [she](/post/she/) realized [she](/post/she/) had [left](/post/left/) [her](/post/her/) keys [behind](/post/behind/)."
 
 ## Synonyms
-- [Quicken](/en/post/quicken/)
-- [Speed](/en/post/speed/) [up](/en/post/up/)
-- [Rush](/en/post/rush/)
-- [Accelerate](/en/post/accelerate/)
+- [Quicken](/post/quicken/)
+- [Speed](/post/speed/) [up](/post/up/)
+- [Rush](/post/rush/)
+- [Accelerate](/post/accelerate/)
 - Expedite
-- [Hurry](/en/post/hurry/) [up](/en/post/up/)
-- [Press](/en/post/press/) [on](/en/post/on/)
-- [Make](/en/post/make/) [haste](/en/post/haste/)
+- [Hurry](/post/hurry/) [up](/post/up/)
+- [Press](/post/press/) [on](/post/on/)
+- [Make](/post/make/) [haste](/post/haste/)

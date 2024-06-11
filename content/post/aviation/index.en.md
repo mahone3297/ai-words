@@ -7,36 +7,36 @@ description = '[ˌeiviˈei∫ən] n.航空，航空学'
 keywords = ['ai words', 'aviation']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌeɪvəˈteɪʃn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [science](/en/post/science/), [art](/en/post/art/), [or](/en/post/or/) [practice](/en/post/practice/) [of](/en/post/of/) [air](/en/post/air/) [navigation](/en/post/navigation/) [and](/en/post/and/) [flight](/en/post/flight/), [especially](/en/post/especially/) [the](/en/post/the/) [operation](/en/post/operation/) [of](/en/post/of/) [aircraft](/en/post/aircraft/): *[Aviation](/en/post/aviation/) is [a](/en/post/a/) [rapidly](/en/post/rapidly/) advancing [field](/en/post/field/).*
-2. [The](/en/post/the/) [industry](/en/post/industry/) concerned [with](/en/post/with/) [aircraft](/en/post/aircraft/) [manufacture](/en/post/manufacture/), [design](/en/post/design/), [and](/en/post/and/) [operation](/en/post/operation/): *[The](/en/post/the/) [aviation](/en/post/aviation/) sector contributes significantly [to](/en/post/to/) [the](/en/post/the/) [economy](/en/post/economy/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [science](/post/science/), [art](/post/art/), [or](/post/or/) [practice](/post/practice/) [of](/post/of/) [air](/post/air/) [navigation](/post/navigation/) [and](/post/and/) [flight](/post/flight/), [especially](/post/especially/) [the](/post/the/) [operation](/post/operation/) [of](/post/of/) [aircraft](/post/aircraft/): *[Aviation](/post/aviation/) is [a](/post/a/) [rapidly](/post/rapidly/) advancing [field](/post/field/).*
+2. [The](/post/the/) [industry](/post/industry/) concerned [with](/post/with/) [aircraft](/post/aircraft/) [manufacture](/post/manufacture/), [design](/post/design/), [and](/post/and/) [operation](/post/operation/): *[The](/post/the/) [aviation](/post/aviation/) sector contributes significantly [to](/post/to/) [the](/post/the/) [economy](/post/economy/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [or](/en/post/or/) [practice](/en/post/practice/) [aviation](/en/post/aviation/) activities: *[He](/en/post/he/) [learned](/en/post/learned/) [to](/en/post/to/) [fly](/en/post/fly/) [through](/en/post/through/) [aviation](/en/post/aviation/) [school](/en/post/school/).*
-2. [To](/en/post/to/) [transport](/en/post/transport/) [by](/en/post/by/) [air](/en/post/air/), typically using an [aircraft](/en/post/aircraft/): *[Many](/en/post/many/) [people](/en/post/people/) [choose](/en/post/choose/) [aviation](/en/post/aviation/) [for](/en/post/for/) [their](/en/post/their/) long-distance [travel](/en/post/travel/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [or](/post/or/) [practice](/post/practice/) [aviation](/post/aviation/) activities: *[He](/post/he/) [learned](/post/learned/) [to](/post/to/) [fly](/post/fly/) [through](/post/through/) [aviation](/post/aviation/) [school](/post/school/).*
+2. [To](/post/to/) [transport](/post/transport/) [by](/post/by/) [air](/post/air/), typically using an [aircraft](/post/aircraft/): *[Many](/post/many/) [people](/post/people/) [choose](/post/choose/) [aviation](/post/aviation/) [for](/post/for/) [their](/post/their/) long-distance [travel](/post/travel/).*
 
 ## Phrases
-- "[Fly](/en/post/fly/) [by](/en/post/by/) [aviation](/en/post/aviation/)" [means](/en/post/means/) [to](/en/post/to/) [travel](/en/post/travel/) [by](/en/post/by/) [plane](/en/post/plane/).
-- "[Aviation](/en/post/aviation/) regulations" pertain [to](/en/post/to/) rules governing [air](/en/post/air/) [travel](/en/post/travel/).
-- "[Aviation](/en/post/aviation/) enthusiast" is [someone](/en/post/someone/) [who](/en/post/who/) has [a](/en/post/a/) [strong](/en/post/strong/) [interest](/en/post/interest/) [in](/en/post/in/) flying [or](/en/post/or/) [aircraft](/en/post/aircraft/).
+- "[Fly](/post/fly/) [by](/post/by/) [aviation](/post/aviation/)" [means](/post/means/) [to](/post/to/) [travel](/post/travel/) [by](/post/by/) [plane](/post/plane/).
+- "[Aviation](/post/aviation/) regulations" pertain [to](/post/to/) rules governing [air](/post/air/) [travel](/post/travel/).
+- "[Aviation](/post/aviation/) enthusiast" is [someone](/post/someone/) [who](/post/who/) has [a](/post/a/) [strong](/post/strong/) [interest](/post/interest/) [in](/post/in/) flying [or](/post/or/) [aircraft](/post/aircraft/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Aviation](/en/post/aviation/) has revolutionized global [communication](/en/post/communication/) [and](/en/post/and/) [commerce](/en/post/commerce/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) started [her](/en/post/her/) [career](/en/post/career/) [in](/en/post/in/) [aviation](/en/post/aviation/) [as](/en/post/as/) [a](/en/post/a/) [pilot](/en/post/pilot/) [for](/en/post/for/) [a](/en/post/a/) [major](/en/post/major/) [airline](/en/post/airline/)."
-- **[Sentence](/en/post/sentence/)**: "[The](/en/post/the/) [new](/en/post/new/) [aviation](/en/post/aviation/) [museum](/en/post/museum/) showcases [the](/en/post/the/) [history](/en/post/history/) [of](/en/post/of/) [flight](/en/post/flight/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Aviation](/post/aviation/) has revolutionized global [communication](/post/communication/) [and](/post/and/) [commerce](/post/commerce/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) started [her](/post/her/) [career](/post/career/) [in](/post/in/) [aviation](/post/aviation/) [as](/post/as/) [a](/post/a/) [pilot](/post/pilot/) [for](/post/for/) [a](/post/a/) [major](/post/major/) [airline](/post/airline/)."
+- **[Sentence](/post/sentence/)**: "[The](/post/the/) [new](/post/new/) [aviation](/post/aviation/) [museum](/post/museum/) showcases [the](/post/the/) [history](/post/history/) [of](/post/of/) [flight](/post/flight/)."
 
 ## Synonyms
-- [Air](/en/post/air/) [travel](/en/post/travel/)
-- [Flight](/en/post/flight/)
+- [Air](/post/air/) [travel](/post/travel/)
+- [Flight](/post/flight/)
 - Aeronautics
 - Aerospace
-- [Air](/en/post/air/) [navigation](/en/post/navigation/)
+- [Air](/post/air/) [navigation](/post/navigation/)
 
 ## Antonyms
-- [Ground](/en/post/ground/) [travel](/en/post/travel/)
-- [Land](/en/post/land/) [transportation](/en/post/transportation/)
-- Terrestrial [movement](/en/post/movement/)
+- [Ground](/post/ground/) [travel](/post/travel/)
+- [Land](/post/land/) [transportation](/post/transportation/)
+- Terrestrial [movement](/post/movement/)

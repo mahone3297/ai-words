@@ -7,42 +7,42 @@ description = '[əˈplai] vt.应用，实施，使用'
 keywords = ['ai words', 'apply']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈplaɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) using [or](/en/post/or/) applying [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [skill](/en/post/skill/) [or](/en/post/or/) [method](/en/post/method/), [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/) [or](/en/post/or/) [task](/en/post/task/). *[Example](/en/post/example/)*: Applying [for](/en/post/for/) [a](/en/post/a/) [job](/en/post/job/) involves submitting [relevant](/en/post/relevant/) documents.
-2. [A](/en/post/a/) [paste](/en/post/paste/) [or](/en/post/or/) [mixture](/en/post/mixture/) [used](/en/post/used/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/), [such](/en/post/such/) [as](/en/post/as/) [paint](/en/post/paint/) [or](/en/post/or/) adhesive. *[Example](/en/post/example/)*: [The](/en/post/the/) [carpenter](/en/post/carpenter/) smeared [wood](/en/post/wood/) [glue](/en/post/glue/) [on](/en/post/on/) [the](/en/post/the/) [joint](/en/post/joint/) [before](/en/post/before/) applying [it](/en/post/it/).
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) using [or](/post/or/) applying [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [skill](/post/skill/) [or](/post/or/) [method](/post/method/), [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/) [or](/post/or/) [task](/post/task/). *[Example](/post/example/)*: Applying [for](/post/for/) [a](/post/a/) [job](/post/job/) involves submitting [relevant](/post/relevant/) documents.
+2. [A](/post/a/) [paste](/post/paste/) [or](/post/or/) [mixture](/post/mixture/) [used](/post/used/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/), [such](/post/such/) [as](/post/as/) [paint](/post/paint/) [or](/post/or/) adhesive. *[Example](/post/example/)*: [The](/post/the/) [carpenter](/post/carpenter/) smeared [wood](/post/wood/) [glue](/post/glue/) [on](/post/on/) [the](/post/the/) [joint](/post/joint/) [before](/post/before/) applying [it](/post/it/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [use](/en/post/use/), [put](/en/post/put/), [or](/en/post/or/) [place](/en/post/place/) [something](/en/post/something/) [on](/en/post/on/) [or](/en/post/or/) [onto](/en/post/onto/) [something](/en/post/something/) [else](/en/post/else/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) fixing, attaching, [or](/en/post/or/) securing. *[Example](/en/post/example/)*: [Apply](/en/post/apply/) [a](/en/post/a/) [coat](/en/post/coat/) [of](/en/post/of/) [paint](/en/post/paint/) [to](/en/post/to/) [the](/en/post/the/) [wall](/en/post/wall/).
-2. [To](/en/post/to/) [attempt](/en/post/attempt/) [to](/en/post/to/) [gain](/en/post/gain/) [or](/en/post/or/) [secure](/en/post/secure/) [something](/en/post/something/), [like](/en/post/like/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [approval](/en/post/approval/). *[Example](/en/post/example/)*: I'll [apply](/en/post/apply/) [for](/en/post/for/) [a](/en/post/a/) promotion [next](/en/post/next/) [month](/en/post/month/).
-3. [To](/en/post/to/) adhere [or](/en/post/or/) conform [to](/en/post/to/) [a](/en/post/a/) [principle](/en/post/principle/), [rule](/en/post/rule/), [or](/en/post/or/) [standard](/en/post/standard/). *[Example](/en/post/example/)*: [He](/en/post/he/) applied [himself](/en/post/himself/) diligently [to](/en/post/to/) [his](/en/post/his/) studies.
-4. [To](/en/post/to/) [present](/en/post/present/) [oneself](/en/post/oneself/) [or](/en/post/or/) one's [case](/en/post/case/), [usually](/en/post/usually/) formally, [for](/en/post/for/) [consideration](/en/post/consideration/) [or](/en/post/or/) evaluation. *[Example](/en/post/example/)*: [She](/en/post/she/) applied [to](/en/post/to/) [several](/en/post/several/) universities [for](/en/post/for/) [admission](/en/post/admission/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [use](/post/use/), [put](/post/put/), [or](/post/or/) [place](/post/place/) [something](/post/something/) [on](/post/on/) [or](/post/or/) [onto](/post/onto/) [something](/post/something/) [else](/post/else/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) fixing, attaching, [or](/post/or/) securing. *[Example](/post/example/)*: [Apply](/post/apply/) [a](/post/a/) [coat](/post/coat/) [of](/post/of/) [paint](/post/paint/) [to](/post/to/) [the](/post/the/) [wall](/post/wall/).
+2. [To](/post/to/) [attempt](/post/attempt/) [to](/post/to/) [gain](/post/gain/) [or](/post/or/) [secure](/post/secure/) [something](/post/something/), [like](/post/like/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [approval](/post/approval/). *[Example](/post/example/)*: I'll [apply](/post/apply/) [for](/post/for/) [a](/post/a/) promotion [next](/post/next/) [month](/post/month/).
+3. [To](/post/to/) adhere [or](/post/or/) conform [to](/post/to/) [a](/post/a/) [principle](/post/principle/), [rule](/post/rule/), [or](/post/or/) [standard](/post/standard/). *[Example](/post/example/)*: [He](/post/he/) applied [himself](/post/himself/) diligently [to](/post/to/) [his](/post/his/) studies.
+4. [To](/post/to/) [present](/post/present/) [oneself](/post/oneself/) [or](/post/or/) one's [case](/post/case/), [usually](/post/usually/) formally, [for](/post/for/) [consideration](/post/consideration/) [or](/post/or/) evaluation. *[Example](/post/example/)*: [She](/post/she/) applied [to](/post/to/) [several](/post/several/) universities [for](/post/for/) [admission](/post/admission/).
 
-### [Adjective](/en/post/adjective/)
-Referring [to](/en/post/to/) [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [suitable](/en/post/suitable/) [or](/en/post/or/) [appropriate](/en/post/appropriate/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/) [or](/en/post/or/) context. *[Example](/en/post/example/)*: An application-specific software [tool](/en/post/tool/).
+### [Adjective](/post/adjective/)
+Referring [to](/post/to/) [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [suitable](/post/suitable/) [or](/post/or/) [appropriate](/post/appropriate/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/) [or](/post/or/) context. *[Example](/post/example/)*: An application-specific software [tool](/post/tool/).
 
 ## Phrases
-- "[Apply](/en/post/apply/) [for](/en/post/for/) [a](/en/post/a/) [job](/en/post/job/)"
-- "[Apply](/en/post/apply/) [oneself](/en/post/oneself/) [to](/en/post/to/) [a](/en/post/a/) [task](/en/post/task/)"
-- "[Apply](/en/post/apply/) [pressure](/en/post/pressure/) [to](/en/post/to/) [a](/en/post/a/) [wound](/en/post/wound/)"
-- "[Apply](/en/post/apply/) [common](/en/post/common/) [sense](/en/post/sense/)"
-- "[The](/en/post/the/) [application](/en/post/application/) [process](/en/post/process/)"
+- "[Apply](/post/apply/) [for](/post/for/) [a](/post/a/) [job](/post/job/)"
+- "[Apply](/post/apply/) [oneself](/post/oneself/) [to](/post/to/) [a](/post/a/) [task](/post/task/)"
+- "[Apply](/post/apply/) [pressure](/post/pressure/) [to](/post/to/) [a](/post/a/) [wound](/post/wound/)"
+- "[Apply](/post/apply/) [common](/post/common/) [sense](/post/sense/)"
+- "[The](/post/the/) [application](/post/application/) [process](/post/process/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [carpenter](/en/post/carpenter/) carefully measured [and](/en/post/and/) applied [the](/en/post/the/) nails [to](/en/post/to/) [the](/en/post/the/) [frame](/en/post/frame/).
-- **[Verb](/en/post/verb/)**: [She](/en/post/she/) applied [her](/en/post/her/) [new](/en/post/new/) [knowledge](/en/post/knowledge/) [to](/en/post/to/) [solve](/en/post/solve/) [the](/en/post/the/) [complex](/en/post/complex/) [problem](/en/post/problem/).
-- **[Adjective](/en/post/adjective/)**: [This](/en/post/this/) detergent is [specially](/en/post/specially/) designed [for](/en/post/for/) [tough](/en/post/tough/) stains, [so](/en/post/so/) it's [highly](/en/post/highly/) [effective](/en/post/effective/) [when](/en/post/when/) applied correctly.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [carpenter](/post/carpenter/) carefully measured [and](/post/and/) applied [the](/post/the/) nails [to](/post/to/) [the](/post/the/) [frame](/post/frame/).
+- **[Verb](/post/verb/)**: [She](/post/she/) applied [her](/post/her/) [new](/post/new/) [knowledge](/post/knowledge/) [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [complex](/post/complex/) [problem](/post/problem/).
+- **[Adjective](/post/adjective/)**: [This](/post/this/) detergent is [specially](/post/specially/) designed [for](/post/for/) [tough](/post/tough/) stains, [so](/post/so/) it's [highly](/post/highly/) [effective](/post/effective/) [when](/post/when/) applied correctly.
 
 ## Synonyms
-- [Utilize](/en/post/utilize/)
-- [Use](/en/post/use/)
-- [Engage](/en/post/engage/)
+- [Utilize](/post/utilize/)
+- [Use](/post/use/)
+- [Engage](/post/engage/)
 - Implement
-- [Put](/en/post/put/) [into](/en/post/into/) [practice](/en/post/practice/)
-- [Submit](/en/post/submit/)
-- [Request](/en/post/request/)
-- [Seek](/en/post/seek/)
-- [Pursue](/en/post/pursue/)
+- [Put](/post/put/) [into](/post/into/) [practice](/post/practice/)
+- [Submit](/post/submit/)
+- [Request](/post/request/)
+- [Seek](/post/seek/)
+- [Pursue](/post/pursue/)

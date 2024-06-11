@@ -7,37 +7,37 @@ description = '[disˈtəːb] vt.打扰，扰乱；弄乱'
 keywords = ['ai words', 'disturb']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /distərb/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) disturbance [or](/en/post/or/) disruption, [often](/en/post/often/) causing annoyance [or](/en/post/or/) discomfort. [Example](/en/post/example/): "[The](/en/post/the/) [noise](/en/post/noise/) [from](/en/post/from/) [the](/en/post/the/) [construction](/en/post/construction/) [site](/en/post/site/) disturbed [the](/en/post/the/) [peace](/en/post/peace/) [of](/en/post/of/) [the](/en/post/the/) neighborhood."
+### [Noun](/post/noun/)
+[A](/post/a/) disturbance [or](/post/or/) disruption, [often](/post/often/) causing annoyance [or](/post/or/) discomfort. [Example](/post/example/): "[The](/post/the/) [noise](/post/noise/) [from](/post/from/) [the](/post/the/) [construction](/post/construction/) [site](/post/site/) disturbed [the](/post/the/) [peace](/post/peace/) [of](/post/of/) [the](/post/the/) neighborhood."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [upset](/en/post/upset/) [or](/en/post/or/) [bother](/en/post/bother/) someone's tranquility [or](/en/post/or/) [routine](/en/post/routine/). [Example](/en/post/example/): "[The](/en/post/the/) [sudden](/en/post/sudden/) [phone](/en/post/phone/) [call](/en/post/call/) disturbed [her](/en/post/her/) [concentration](/en/post/concentration/)."
-2. [To](/en/post/to/) [cause](/en/post/cause/) [a](/en/post/a/) [change](/en/post/change/) [or](/en/post/or/) [movement](/en/post/movement/) [in](/en/post/in/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [wind](/en/post/wind/) disturbed [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [the](/en/post/the/) [lake](/en/post/lake/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [upset](/post/upset/) [or](/post/or/) [bother](/post/bother/) someone's tranquility [or](/post/or/) [routine](/post/routine/). [Example](/post/example/): "[The](/post/the/) [sudden](/post/sudden/) [phone](/post/phone/) [call](/post/call/) disturbed [her](/post/her/) [concentration](/post/concentration/)."
+2. [To](/post/to/) [cause](/post/cause/) [a](/post/a/) [change](/post/change/) [or](/post/or/) [movement](/post/movement/) [in](/post/in/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [wind](/post/wind/) disturbed [the](/post/the/) [surface](/post/surface/) [of](/post/of/) [the](/post/the/) [lake](/post/lake/)."
 
-### [Adjective](/en/post/adjective/)
-Characterized [by](/en/post/by/) disturbance [or](/en/post/or/) upheaval. [Example](/en/post/example/): "[The](/en/post/the/) [stormy](/en/post/stormy/) [weather](/en/post/weather/) was [highly](/en/post/highly/) disturbing [for](/en/post/for/) [the](/en/post/the/) passengers."
+### [Adjective](/post/adjective/)
+Characterized [by](/post/by/) disturbance [or](/post/or/) upheaval. [Example](/post/example/): "[The](/post/the/) [stormy](/post/stormy/) [weather](/post/weather/) was [highly](/post/highly/) disturbing [for](/post/for/) [the](/post/the/) passengers."
 
 ## Phrases
-- "[Disturb](/en/post/disturb/) one's [sleep](/en/post/sleep/)" [means](/en/post/means/) [to](/en/post/to/) [cause](/en/post/cause/) [someone](/en/post/someone/) [to](/en/post/to/) [have](/en/post/have/) [difficulty](/en/post/difficulty/) sleeping.
-- "[Be](/en/post/be/) disturbed [by](/en/post/by/)" implies [being](/en/post/being/) troubled [or](/en/post/or/) affected [by](/en/post/by/) [something](/en/post/something/).
-- "[Peace](/en/post/peace/) was disturbed [by](/en/post/by/) an [unexpected](/en/post/unexpected/) [event](/en/post/event/)."
+- "[Disturb](/post/disturb/) one's [sleep](/post/sleep/)" [means](/post/means/) [to](/post/to/) [cause](/post/cause/) [someone](/post/someone/) [to](/post/to/) [have](/post/have/) [difficulty](/post/difficulty/) sleeping.
+- "[Be](/post/be/) disturbed [by](/post/by/)" implies [being](/post/being/) troubled [or](/post/or/) affected [by](/post/by/) [something](/post/something/).
+- "[Peace](/post/peace/) was disturbed [by](/post/by/) an [unexpected](/post/unexpected/) [event](/post/event/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [news](/en/post/news/) [of](/en/post/of/) [the](/en/post/the/) [accident](/en/post/accident/) deeply disturbed [the](/en/post/the/) [community](/en/post/community/)."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [calm](/en/post/calm/) was disturbed [by](/en/post/by/) [the](/en/post/the/) [unexpected](/en/post/unexpected/) [news](/en/post/news/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [calm](/en/post/calm/) [atmosphere](/en/post/atmosphere/) was disturbed [by](/en/post/by/) [a](/en/post/a/) [loud](/en/post/loud/) [argument](/en/post/argument/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [news](/post/news/) [of](/post/of/) [the](/post/the/) [accident](/post/accident/) deeply disturbed [the](/post/the/) [community](/post/community/)."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [calm](/post/calm/) was disturbed [by](/post/by/) [the](/post/the/) [unexpected](/post/unexpected/) [news](/post/news/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [calm](/post/calm/) [atmosphere](/post/atmosphere/) was disturbed [by](/post/by/) [a](/post/a/) [loud](/post/loud/) [argument](/post/argument/)."
 
 ## Synonyms
 - Disrupt
-- [Upset](/en/post/upset/)
+- [Upset](/post/upset/)
 - Agitate
 - Intrude
-- [Frighten](/en/post/frighten/)
-- [Alarm](/en/post/alarm/)
-- [Puzzle](/en/post/puzzle/)
+- [Frighten](/post/frighten/)
+- [Alarm](/post/alarm/)
+- [Puzzle](/post/puzzle/)
 - Irritate
-- [Annoy](/en/post/annoy/)
+- [Annoy](/post/annoy/)

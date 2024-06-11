@@ -7,38 +7,38 @@ description = '[ˈtaiəd] a.疲劳的；厌倦的'
 keywords = ['ai words', 'tired']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /taɪərd/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **[Meaning](/en/post/meaning/)**: [Feeling](/en/post/feeling/) physically [or](/en/post/or/) mentally exhausted [due](/en/post/due/) [to](/en/post/to/) [lack](/en/post/lack/) [of](/en/post/of/) [rest](/en/post/rest/) [or](/en/post/or/) [effort](/en/post/effort/).
-- **[Usage](/en/post/usage/)**: Describes [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [weary](/en/post/weary/) [or](/en/post/or/) fatigued [after](/en/post/after/) exertion [or](/en/post/or/) [continuous](/en/post/continuous/) [activity](/en/post/activity/).
+### [Adjective](/post/adjective/)
+- **[Meaning](/post/meaning/)**: [Feeling](/post/feeling/) physically [or](/post/or/) mentally exhausted [due](/post/due/) [to](/post/to/) [lack](/post/lack/) [of](/post/of/) [rest](/post/rest/) [or](/post/or/) [effort](/post/effort/).
+- **[Usage](/post/usage/)**: Describes [a](/post/a/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [weary](/post/weary/) [or](/post/or/) fatigued [after](/post/after/) exertion [or](/post/or/) [continuous](/post/continuous/) [activity](/post/activity/).
 
-### [Verb](/en/post/verb/)
-- **[Meaning](/en/post/meaning/)**: [To](/en/post/to/) [become](/en/post/become/) [tired](/en/post/tired/) [or](/en/post/or/) [feel](/en/post/feel/) [weary](/en/post/weary/), [usually](/en/post/usually/) [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) [physical](/en/post/physical/) [or](/en/post/or/) [mental](/en/post/mental/) exertion.
-- **[Usage](/en/post/usage/)**: Refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) experiencing [fatigue](/en/post/fatigue/) [or](/en/post/or/) [a](/en/post/a/) decline [in](/en/post/in/) [energy](/en/post/energy/) levels.
+### [Verb](/post/verb/)
+- **[Meaning](/post/meaning/)**: [To](/post/to/) [become](/post/become/) [tired](/post/tired/) [or](/post/or/) [feel](/post/feel/) [weary](/post/weary/), [usually](/post/usually/) [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) [physical](/post/physical/) [or](/post/or/) [mental](/post/mental/) exertion.
+- **[Usage](/post/usage/)**: Refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) experiencing [fatigue](/post/fatigue/) [or](/post/or/) [a](/post/a/) decline [in](/post/in/) [energy](/post/energy/) levels.
 
 ## Phrases
-- "[Feeling](/en/post/feeling/) [tired](/en/post/tired/) [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/)"
-- "[Tired](/en/post/tired/) [from](/en/post/from/) running errands"
-- "[She](/en/post/she/) was [too](/en/post/too/) [tired](/en/post/tired/) [to](/en/post/to/) [cook](/en/post/cook/) [dinner](/en/post/dinner/)"
+- "[Feeling](/post/feeling/) [tired](/post/tired/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/)"
+- "[Tired](/post/tired/) [from](/post/from/) running errands"
+- "[She](/post/she/) was [too](/post/too/) [tired](/post/tired/) [to](/post/to/) [cook](/post/cook/) [dinner](/post/dinner/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[After](/en/post/after/) [a](/en/post/a/) marathon, [he](/en/post/he/) felt [extremely](/en/post/extremely/) [tired](/en/post/tired/)."
-- **[Verb](/en/post/verb/)**: "Working [all](/en/post/all/) [night](/en/post/night/), [he](/en/post/he/) [eventually](/en/post/eventually/) became [tired](/en/post/tired/) [and](/en/post/and/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [break](/en/post/break/)."
-- "[She](/en/post/she/) was [so](/en/post/so/) [tired](/en/post/tired/) [that](/en/post/that/) [she](/en/post/she/) fell [asleep](/en/post/asleep/) [on](/en/post/on/) [the](/en/post/the/) couch."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[After](/post/after/) [a](/post/a/) marathon, [he](/post/he/) felt [extremely](/post/extremely/) [tired](/post/tired/)."
+- **[Verb](/post/verb/)**: "Working [all](/post/all/) [night](/post/night/), [he](/post/he/) [eventually](/post/eventually/) became [tired](/post/tired/) [and](/post/and/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [break](/post/break/)."
+- "[She](/post/she/) was [so](/post/so/) [tired](/post/tired/) [that](/post/that/) [she](/post/she/) fell [asleep](/post/asleep/) [on](/post/on/) [the](/post/the/) couch."
 
 ## Synonyms
 - Exhausted
-- [Weary](/en/post/weary/)
+- [Weary](/post/weary/)
 - Fatigued
-- Worn [out](/en/post/out/)
-- [Tired](/en/post/tired/) [out](/en/post/out/)
+- Worn [out](/post/out/)
+- [Tired](/post/tired/) [out](/post/out/)
 
 ## Antonyms
 - Energetic
-- [Fresh](/en/post/fresh/)
+- [Fresh](/post/fresh/)
 - Alert
 - Invigorated
 - Spry

@@ -7,30 +7,30 @@ description = '[frɑːns] n.法国，法兰西'
 keywords = ['ai words', 'France']
 +++
 
-## [Word](/en/post/word/): France
+## [Word](/post/word/): France
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /frɑːns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [country](/en/post/country/) [in](/en/post/in/) [Western](/en/post/western/) Europe known [for](/en/post/for/) [its](/en/post/its/) [rich](/en/post/rich/) [history](/en/post/history/), [culture](/en/post/culture/), [and](/en/post/and/) contributions [to](/en/post/to/) [art](/en/post/art/), [fashion](/en/post/fashion/), [and](/en/post/and/) cuisine. [It](/en/post/it/) is officially called [the](/en/post/the/) French [Republic](/en/post/republic/) (République française) [and](/en/post/and/) has Paris [as](/en/post/as/) [its](/en/post/its/) [capital](/en/post/capital/).
+- **[Noun](/post/noun/)**: [A](/post/a/) [country](/post/country/) [in](/post/in/) [Western](/post/western/) Europe known [for](/post/for/) [its](/post/its/) [rich](/post/rich/) [history](/post/history/), [culture](/post/culture/), [and](/post/and/) contributions [to](/post/to/) [art](/post/art/), [fashion](/post/fashion/), [and](/post/and/) cuisine. [It](/post/it/) is officially called [the](/post/the/) French [Republic](/post/republic/) (République française) [and](/post/and/) has Paris [as](/post/as/) [its](/post/its/) [capital](/post/capital/).
 
 ### Phrases
-- "[The](/en/post/the/) [land](/en/post/land/) [of](/en/post/of/) France" refers [to](/en/post/to/) [the](/en/post/the/) geographical [area](/en/post/area/) [of](/en/post/of/) [the](/en/post/the/) [country](/en/post/country/).
-- "Made [in](/en/post/in/) France" implies [that](/en/post/that/) [a](/en/post/a/) [product](/en/post/product/) was manufactured [or](/en/post/or/) produced [in](/en/post/in/) France.
-- "[To](/en/post/to/) [visit](/en/post/visit/) France" [means](/en/post/means/) [to](/en/post/to/) [travel](/en/post/travel/) [or](/en/post/or/) [tour](/en/post/tour/) [within](/en/post/within/) [the](/en/post/the/) [country](/en/post/country/).
-- "French Riviera" is [a](/en/post/a/) [famous](/en/post/famous/) coastal [region](/en/post/region/) [in](/en/post/in/) southeastern France known [for](/en/post/for/) [its](/en/post/its/) glamorous resorts [and](/en/post/and/) beaches.
-- "La Marseillaise" is [the](/en/post/the/) [national](/en/post/national/) anthem [of](/en/post/of/) France.
+- "[The](/post/the/) [land](/post/land/) [of](/post/of/) France" refers [to](/post/to/) [the](/post/the/) geographical [area](/post/area/) [of](/post/of/) [the](/post/the/) [country](/post/country/).
+- "Made [in](/post/in/) France" implies [that](/post/that/) [a](/post/a/) [product](/post/product/) was manufactured [or](/post/or/) produced [in](/post/in/) France.
+- "[To](/post/to/) [visit](/post/visit/) France" [means](/post/means/) [to](/post/to/) [travel](/post/travel/) [or](/post/or/) [tour](/post/tour/) [within](/post/within/) [the](/post/the/) [country](/post/country/).
+- "French Riviera" is [a](/post/a/) [famous](/post/famous/) coastal [region](/post/region/) [in](/post/in/) southeastern France known [for](/post/for/) [its](/post/its/) glamorous resorts [and](/post/and/) beaches.
+- "La Marseillaise" is [the](/post/the/) [national](/post/national/) anthem [of](/post/of/) France.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[They](/en/post/they/) spent [their](/en/post/their/) [summer](/en/post/summer/) [vacation](/en/post/vacation/) exploring [the](/en/post/the/) picturesque [countryside](/en/post/countryside/) [of](/en/post/of/) France."
-- "France is renowned [for](/en/post/for/) [its](/en/post/its/) [wine](/en/post/wine/) [production](/en/post/production/), [especially](/en/post/especially/) [from](/en/post/from/) regions [like](/en/post/like/) Bordeaux [and](/en/post/and/) Champagne."
-- "[She](/en/post/she/) dreams [of](/en/post/of/) moving [to](/en/post/to/) Paris, [the](/en/post/the/) [city](/en/post/city/) [of](/en/post/of/) lights [and](/en/post/and/) [the](/en/post/the/) [heart](/en/post/heart/) [of](/en/post/of/) France."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[They](/post/they/) spent [their](/post/their/) [summer](/post/summer/) [vacation](/post/vacation/) exploring [the](/post/the/) picturesque [countryside](/post/countryside/) [of](/post/of/) France."
+- "France is renowned [for](/post/for/) [its](/post/its/) [wine](/post/wine/) [production](/post/production/), [especially](/post/especially/) [from](/post/from/) regions [like](/post/like/) Bordeaux [and](/post/and/) Champagne."
+- "[She](/post/she/) dreams [of](/post/of/) moving [to](/post/to/) Paris, [the](/post/the/) [city](/post/city/) [of](/post/of/) lights [and](/post/and/) [the](/post/the/) [heart](/post/heart/) [of](/post/of/) France."
 
 ## Synonyms
-- French [Republic](/en/post/republic/)
+- French [Republic](/post/republic/)
 - Gaul (archaic)
-- [The](/en/post/the/) Hexagon (informal, referring [to](/en/post/to/) [the](/en/post/the/) country's [approximate](/en/post/approximate/) [shape](/en/post/shape/) [on](/en/post/on/) [the](/en/post/the/) [map](/en/post/map/))
-- L'Hexagone (French informal [equivalent](/en/post/equivalent/))
+- [The](/post/the/) Hexagon (informal, referring [to](/post/to/) [the](/post/the/) country's [approximate](/post/approximate/) [shape](/post/shape/) [on](/post/on/) [the](/post/the/) [map](/post/map/))
+- L'Hexagone (French informal [equivalent](/post/equivalent/))
 
-[Note](/en/post/note/): [As](/en/post/as/) France is [primarily](/en/post/primarily/) [a](/en/post/a/) [proper](/en/post/proper/) [noun](/en/post/noun/) denoting [a](/en/post/a/) [specific](/en/post/specific/) [country](/en/post/country/), [it](/en/post/it/) does [not](/en/post/not/) [have](/en/post/have/) [direct](/en/post/direct/) synonyms [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [sense](/en/post/sense/) [as](/en/post/as/) [other](/en/post/other/) [common](/en/post/common/) nouns [might](/en/post/might/). [However](/en/post/however/), [the](/en/post/the/) terms [provided](/en/post/provided/) [above](/en/post/above/) are related [to](/en/post/to/) [or](/en/post/or/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) context [with](/en/post/with/) France.
+[Note](/post/note/): [As](/post/as/) France is [primarily](/post/primarily/) [a](/post/a/) [proper](/post/proper/) [noun](/post/noun/) denoting [a](/post/a/) [specific](/post/specific/) [country](/post/country/), [it](/post/it/) does [not](/post/not/) [have](/post/have/) [direct](/post/direct/) synonyms [in](/post/in/) [the](/post/the/) [same](/post/same/) [sense](/post/sense/) [as](/post/as/) [other](/post/other/) [common](/post/common/) nouns [might](/post/might/). [However](/post/however/), [the](/post/the/) terms [provided](/post/provided/) [above](/post/above/) are related [to](/post/to/) [or](/post/or/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) context [with](/post/with/) France.

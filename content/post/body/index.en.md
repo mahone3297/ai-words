@@ -7,42 +7,42 @@ description = '[ˈbɔdi] n.身体；主体；尸体'
 keywords = ['ai words', 'body']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[body](/en/post/body/)/
+## [Pronunciation](/post/pronunciation/)
+/[body](/post/body/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Body](/en/post/body/)**: [A](/en/post/a/) [physical](/en/post/physical/) [structure](/en/post/structure/) composed [of](/en/post/of/) [various](/en/post/various/) parts [that](/en/post/that/) [make](/en/post/make/) [up](/en/post/up/) an [organism](/en/post/organism/), typically including [the](/en/post/the/) [head](/en/post/head/), [trunk](/en/post/trunk/), [and](/en/post/and/) limbs. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [body](/en/post/body/) is [the](/en/post/the/) [main](/en/post/main/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/), containing [all](/en/post/all/) [their](/en/post/their/) [vital](/en/post/vital/) organs."
-2. **[Physical](/en/post/physical/) [form](/en/post/form/)**: [The](/en/post/the/) [appearance](/en/post/appearance/) [or](/en/post/or/) [shape](/en/post/shape/) [of](/en/post/of/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [in](/en/post/in/) [great](/en/post/great/) [shape](/en/post/shape/), [with](/en/post/with/) [a](/en/post/a/) [strong](/en/post/strong/) [and](/en/post/and/) toned [body](/en/post/body/)."
-3. **[Material](/en/post/material/)**: [Matter](/en/post/matter/) [that](/en/post/that/) makes [up](/en/post/up/) [a](/en/post/a/) [living](/en/post/living/) [creature](/en/post/creature/) [or](/en/post/or/) [object](/en/post/object/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [body](/en/post/body/) [of](/en/post/of/) [the](/en/post/the/) [car](/en/post/car/) was made [of](/en/post/of/) [steel](/en/post/steel/)."
+### [Noun](/post/noun/)
+1. **[Body](/post/body/)**: [A](/post/a/) [physical](/post/physical/) [structure](/post/structure/) composed [of](/post/of/) [various](/post/various/) parts [that](/post/that/) [make](/post/make/) [up](/post/up/) an [organism](/post/organism/), typically including [the](/post/the/) [head](/post/head/), [trunk](/post/trunk/), [and](/post/and/) limbs. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [body](/post/body/) is [the](/post/the/) [main](/post/main/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [person](/post/person/), containing [all](/post/all/) [their](/post/their/) [vital](/post/vital/) organs."
+2. **[Physical](/post/physical/) [form](/post/form/)**: [The](/post/the/) [appearance](/post/appearance/) [or](/post/or/) [shape](/post/shape/) [of](/post/of/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [in](/post/in/) [great](/post/great/) [shape](/post/shape/), [with](/post/with/) [a](/post/a/) [strong](/post/strong/) [and](/post/and/) toned [body](/post/body/)."
+3. **[Material](/post/material/)**: [Matter](/post/matter/) [that](/post/that/) makes [up](/post/up/) [a](/post/a/) [living](/post/living/) [creature](/post/creature/) [or](/post/or/) [object](/post/object/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [body](/post/body/) [of](/post/of/) [the](/post/the/) [car](/post/car/) was made [of](/post/of/) [steel](/post/steel/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) embody**: [To](/en/post/to/) [give](/en/post/give/) [physical](/en/post/physical/) [form](/en/post/form/) [to](/en/post/to/) [or](/en/post/or/) [represent](/en/post/represent/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [character](/en/post/character/) embodies [the](/en/post/the/) [spirit](/en/post/spirit/) [of](/en/post/of/) [adventure](/en/post/adventure/)."
-2. **[To](/en/post/to/) [contain](/en/post/contain/)**: [Body](/en/post/body/) contains [various](/en/post/various/) systems, [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) digestive, circulatory, [and](/en/post/and/) [nervous](/en/post/nervous/) systems.
+### [Verb](/post/verb/)
+1. **[To](/post/to/) embody**: [To](/post/to/) [give](/post/give/) [physical](/post/physical/) [form](/post/form/) [to](/post/to/) [or](/post/or/) [represent](/post/represent/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [character](/post/character/) embodies [the](/post/the/) [spirit](/post/spirit/) [of](/post/of/) [adventure](/post/adventure/)."
+2. **[To](/post/to/) [contain](/post/contain/)**: [Body](/post/body/) contains [various](/post/various/) systems, [such](/post/such/) [as](/post/as/) [the](/post/the/) digestive, circulatory, [and](/post/and/) [nervous](/post/nervous/) systems.
 
-### [Adjective](/en/post/adjective/)
-1. ** Bodily**: Relating [to](/en/post/to/) [the](/en/post/the/) [physical](/en/post/physical/) [body](/en/post/body/). [For](/en/post/for/) [example](/en/post/example/): "Bodily sensations [can](/en/post/can/) [be](/en/post/be/) [important](/en/post/important/) [in](/en/post/in/) meditation."
-2. **[Physical](/en/post/physical/)**: [Concerning](/en/post/concerning/) [or](/en/post/or/) involving [the](/en/post/the/) [body](/en/post/body/). [For](/en/post/for/) [example](/en/post/example/): "[Physical](/en/post/physical/) [exercise](/en/post/exercise/) is crucial [for](/en/post/for/) maintaining [good](/en/post/good/) [health](/en/post/health/)."
+### [Adjective](/post/adjective/)
+1. ** Bodily**: Relating [to](/post/to/) [the](/post/the/) [physical](/post/physical/) [body](/post/body/). [For](/post/for/) [example](/post/example/): "Bodily sensations [can](/post/can/) [be](/post/be/) [important](/post/important/) [in](/post/in/) meditation."
+2. **[Physical](/post/physical/)**: [Concerning](/post/concerning/) [or](/post/or/) involving [the](/post/the/) [body](/post/body/). [For](/post/for/) [example](/post/example/): "[Physical](/post/physical/) [exercise](/post/exercise/) is crucial [for](/post/for/) maintaining [good](/post/good/) [health](/post/health/)."
 
-### [Adverb](/en/post/adverb/)
-1. **Physically**: [With](/en/post/with/) [reference](/en/post/reference/) [to](/en/post/to/) [the](/en/post/the/) [body](/en/post/body/) [or](/en/post/or/) [physical](/en/post/physical/) [nature](/en/post/nature/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was physically exhausted [after](/en/post/after/) [the](/en/post/the/) marathon."
+### [Adverb](/post/adverb/)
+1. **Physically**: [With](/post/with/) [reference](/post/reference/) [to](/post/to/) [the](/post/the/) [body](/post/body/) [or](/post/or/) [physical](/post/physical/) [nature](/post/nature/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was physically exhausted [after](/post/after/) [the](/post/the/) marathon."
 
 ## Phrases
-- "[Take](/en/post/take/) [care](/en/post/care/) [of](/en/post/of/) [your](/en/post/your/) [body](/en/post/body/)" [means](/en/post/means/) [to](/en/post/to/) prioritize one's [health](/en/post/health/).
-- "[Body](/en/post/body/) [language](/en/post/language/)" refers [to](/en/post/to/) non-verbal cues [that](/en/post/that/) [communicate](/en/post/communicate/) [meaning](/en/post/meaning/).
-- "[A](/en/post/a/) [healthy](/en/post/healthy/) [body](/en/post/body/)" denotes [a](/en/post/a/) [fit](/en/post/fit/) [and](/en/post/and/) well-being [state](/en/post/state/).
+- "[Take](/post/take/) [care](/post/care/) [of](/post/of/) [your](/post/your/) [body](/post/body/)" [means](/post/means/) [to](/post/to/) prioritize one's [health](/post/health/).
+- "[Body](/post/body/) [language](/post/language/)" refers [to](/post/to/) non-verbal cues [that](/post/that/) [communicate](/post/communicate/) [meaning](/post/meaning/).
+- "[A](/post/a/) [healthy](/post/healthy/) [body](/post/body/)" denotes [a](/post/a/) [fit](/post/fit/) [and](/post/and/) well-being [state](/post/state/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) yoga [class](/en/post/class/) focused [on](/en/post/on/) strengthening [the](/en/post/the/) [body](/en/post/body/) [and](/en/post/and/) improving flexibility."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [he](/en/post/he/) collapsed [onto](/en/post/onto/) [the](/en/post/the/) couch, [feeling](/en/post/feeling/) [his](/en/post/his/) [body](/en/post/body/) [ache](/en/post/ache/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) bodily exhaustion was [evident](/en/post/evident/) [from](/en/post/from/) [her](/en/post/her/) [pale](/en/post/pale/) complexion."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) understood [the](/en/post/the/) [message](/en/post/message/) physically, [but](/en/post/but/) [not](/en/post/not/) emotionally."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) yoga [class](/post/class/) focused [on](/post/on/) strengthening [the](/post/the/) [body](/post/body/) [and](/post/and/) improving flexibility."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) collapsed [onto](/post/onto/) [the](/post/the/) couch, [feeling](/post/feeling/) [his](/post/his/) [body](/post/body/) [ache](/post/ache/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) bodily exhaustion was [evident](/post/evident/) [from](/post/from/) [her](/post/her/) [pale](/post/pale/) complexion."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) understood [the](/post/the/) [message](/post/message/) physically, [but](/post/but/) [not](/post/not/) emotionally."
 
 ## Synonyms
 - Physique
-- [Frame](/en/post/frame/)
-- [Structure](/en/post/structure/)
-- [Form](/en/post/form/)
-- Corpse ([in](/en/post/in/) [a](/en/post/a/) non-living context)
-- [Substance](/en/post/substance/)
-- Hull ([of](/en/post/of/) [a](/en/post/a/) [vehicle](/en/post/vehicle/))
+- [Frame](/post/frame/)
+- [Structure](/post/structure/)
+- [Form](/post/form/)
+- Corpse ([in](/post/in/) [a](/post/a/) non-living context)
+- [Substance](/post/substance/)
+- Hull ([of](/post/of/) [a](/post/a/) [vehicle](/post/vehicle/))

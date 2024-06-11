@@ -7,27 +7,27 @@ description = '[siks] num.六，六个'
 keywords = ['ai words', 'six']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪks/
 
 ## Definitions
-- **Numeral**: [A](/en/post/a/) numeral [that](/en/post/that/) represents [the](/en/post/the/) [quantity](/en/post/quantity/) [six](/en/post/six/). [It](/en/post/it/) comes [before](/en/post/before/) [a](/en/post/a/) countable [noun](/en/post/noun/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [number](/en/post/number/). [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) are [six](/en/post/six/) apples [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Adjective](/en/post/adjective/)**: Designating [the](/en/post/the/) [position](/en/post/position/) [or](/en/post/or/) [order](/en/post/order/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/), [being](/en/post/being/) [the](/en/post/the/) [sixth](/en/post/sixth/) [in](/en/post/in/) [a](/en/post/a/) [set](/en/post/set/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sixth](/en/post/sixth/) [book](/en/post/book/) [in](/en/post/in/) [the](/en/post/the/) [series](/en/post/series/) is [my](/en/post/my/) favorite."
-- **[Adverb](/en/post/adverb/)**: Expressing [the](/en/post/the/) [quantity](/en/post/quantity/) [or](/en/post/or/) [degree](/en/post/degree/) [of](/en/post/of/) [something](/en/post/something/), [usually](/en/post/usually/) [in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [time](/en/post/time/) [or](/en/post/or/) [frequency](/en/post/frequency/). [For](/en/post/for/) [example](/en/post/example/): "I [visit](/en/post/visit/) [my](/en/post/my/) grandparents [every](/en/post/every/) [six](/en/post/six/) months."
+- **Numeral**: [A](/post/a/) numeral [that](/post/that/) represents [the](/post/the/) [quantity](/post/quantity/) [six](/post/six/). [It](/post/it/) comes [before](/post/before/) [a](/post/a/) countable [noun](/post/noun/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [number](/post/number/). [For](/post/for/) [example](/post/example/): "[There](/post/there/) are [six](/post/six/) apples [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+- **[Adjective](/post/adjective/)**: Designating [the](/post/the/) [position](/post/position/) [or](/post/or/) [order](/post/order/) [in](/post/in/) [a](/post/a/) [series](/post/series/), [being](/post/being/) [the](/post/the/) [sixth](/post/sixth/) [in](/post/in/) [a](/post/a/) [set](/post/set/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sixth](/post/sixth/) [book](/post/book/) [in](/post/in/) [the](/post/the/) [series](/post/series/) is [my](/post/my/) favorite."
+- **[Adverb](/post/adverb/)**: Expressing [the](/post/the/) [quantity](/post/quantity/) [or](/post/or/) [degree](/post/degree/) [of](/post/of/) [something](/post/something/), [usually](/post/usually/) [in](/post/in/) [reference](/post/reference/) [to](/post/to/) [time](/post/time/) [or](/post/or/) [frequency](/post/frequency/). [For](/post/for/) [example](/post/example/): "I [visit](/post/visit/) [my](/post/my/) grandparents [every](/post/every/) [six](/post/six/) months."
 
 ## Phrases
-- "[Every](/en/post/every/) [six](/en/post/six/) hours" refers [to](/en/post/to/) intervals [of](/en/post/of/) [time](/en/post/time/).
-- "[Six](/en/post/six/) [of](/en/post/of/) [one](/en/post/one/), half-dozen [of](/en/post/of/) [the](/en/post/the/) [other](/en/post/other/)" [means](/en/post/means/) [two](/en/post/two/) things are [equal](/en/post/equal/) [or](/en/post/or/) [similar](/en/post/similar/).
-- "[A](/en/post/a/) six-pack" is [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) [six](/en/post/six/) cans [or](/en/post/or/) bottles, [often](/en/post/often/) [beer](/en/post/beer/).
+- "[Every](/post/every/) [six](/post/six/) hours" refers [to](/post/to/) intervals [of](/post/of/) [time](/post/time/).
+- "[Six](/post/six/) [of](/post/of/) [one](/post/one/), half-dozen [of](/post/of/) [the](/post/the/) [other](/post/other/)" [means](/post/means/) [two](/post/two/) things are [equal](/post/equal/) [or](/post/or/) [similar](/post/similar/).
+- "[A](/post/a/) six-pack" is [a](/post/a/) [collection](/post/collection/) [of](/post/of/) [six](/post/six/) cans [or](/post/or/) bottles, [often](/post/often/) [beer](/post/beer/).
 
-## [Example](/en/post/example/) Sentences
-- **Numeral**: "[She](/en/post/she/) scored [six](/en/post/six/) goals [in](/en/post/in/) [the](/en/post/the/) [soccer](/en/post/soccer/) [match](/en/post/match/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [building](/en/post/building/) has [six](/en/post/six/) floors."
-- **[Adverb](/en/post/adverb/)**: "[We](/en/post/we/) [meet](/en/post/meet/) [every](/en/post/every/) [six](/en/post/six/) weeks [for](/en/post/for/) [our](/en/post/our/) [book](/en/post/book/) [club](/en/post/club/)."
+## [Example](/post/example/) Sentences
+- **Numeral**: "[She](/post/she/) scored [six](/post/six/) goals [in](/post/in/) [the](/post/the/) [soccer](/post/soccer/) [match](/post/match/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [building](/post/building/) has [six](/post/six/) floors."
+- **[Adverb](/post/adverb/)**: "[We](/post/we/) [meet](/post/meet/) [every](/post/every/) [six](/post/six/) weeks [for](/post/for/) [our](/post/our/) [book](/post/book/) [club](/post/club/)."
 
 ## Synonyms
 - Half-a-dozen
-- [Sixty](/en/post/sixty/)
-- [Sixth](/en/post/sixth/)
-- [Number](/en/post/number/) [six](/en/post/six/)
-- Quantitative [value](/en/post/value/) [of](/en/post/of/) 6
+- [Sixty](/post/sixty/)
+- [Sixth](/post/sixth/)
+- [Number](/post/number/) [six](/post/six/)
+- Quantitative [value](/post/value/) [of](/post/of/) 6

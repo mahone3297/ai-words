@@ -12,20 +12,20 @@ keywords = ['ai words', 'reaction']
 
 ## 释义
 - **名词 n**:
-  - 反应；回应：对某种刺激或情况的物理、化学或情绪上的响应。例如: "[The](/post/the/) [chemical](/post/chemical/) [reaction](/post/reaction/) produced [heat](/post/heat/) [and](/post/and/) [light](/post/light/)."
-  - 感受；意见：对某一事件或情况的个人看法或评论。例如: "I was interested [in](/post/in/) hearing [her](/post/her/) [reaction](/post/reaction/) [to](/post/to/) [the](/post/the/) [news](/post/news/)."
+  - 反应；回应：对某种刺激或情况的物理、化学或情绪上的响应。例如: "[The](/zh/post/the/) [chemical](/zh/post/chemical/) [reaction](/zh/post/reaction/) produced [heat](/zh/post/heat/) [and](/zh/post/and/) [light](/zh/post/light/)."
+  - 感受；意见：对某一事件或情况的个人看法或评论。例如: "I was interested [in](/zh/post/in/) hearing [her](/zh/post/her/) [reaction](/zh/post/reaction/) [to](/zh/post/to/) [the](/zh/post/the/) [news](/zh/post/news/)."
 
 ## 短语
-- "[chemical](/post/chemical/) [reaction](/post/reaction/)" 指化学变化。
-- "[positive](/post/positive/)/[negative](/post/negative/) [reaction](/post/reaction/)" 表示正面或负面的回应。
+- "[chemical](/zh/post/chemical/) [reaction](/zh/post/reaction/)" 指化学变化。
+- "[positive](/zh/post/positive/)/[negative](/zh/post/negative/) [reaction](/zh/post/reaction/)" 表示正面或负面的回应。
 
 ## 例句
-- 名词: "[The](/post/the/) [patient](/post/patient/) had an allergic [reaction](/post/reaction/) [to](/post/to/) [the](/post/the/) [medicine](/post/medicine/)."
-- 名词: "[His](/post/his/) [reaction](/post/reaction/) [to](/post/to/) [the](/post/the/) [news](/post/news/) was [one](/post/one/) [of](/post/of/) [surprise](/post/surprise/)."
+- 名词: "[The](/zh/post/the/) [patient](/zh/post/patient/) had an allergic [reaction](/zh/post/reaction/) [to](/zh/post/to/) [the](/zh/post/the/) [medicine](/zh/post/medicine/)."
+- 名词: "[His](/zh/post/his/) [reaction](/zh/post/reaction/) [to](/zh/post/to/) [the](/zh/post/the/) [news](/zh/post/news/) was [one](/zh/post/one/) [of](/zh/post/of/) [surprise](/zh/post/surprise/)."
 
 ## 同义词
-- [Response](/post/response/)
-- [Answer](/post/answer/)
-- [Feedback](/post/feedback/)
-- [Reply](/post/reply/)
-- [Effect](/post/effect/)
+- [Response](/zh/post/response/)
+- [Answer](/zh/post/answer/)
+- [Feedback](/zh/post/feedback/)
+- [Reply](/zh/post/reply/)
+- [Effect](/zh/post/effect/)

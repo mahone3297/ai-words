@@ -7,29 +7,29 @@ description = '[ˈpræktikəli] ad.实际上；几乎'
 keywords = ['ai words', 'practically']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈsɪktɪkli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [practically](/en/post/practically/) [or](/en/post/or/) [nearly](/en/post/nearly/) [practical](/en/post/practical/) [manner](/en/post/manner/); [almost](/en/post/almost/) [or](/en/post/or/) effectively. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [without](/en/post/without/) [any](/en/post/any/) [real](/en/post/real/) [change](/en/post/change/) [or](/en/post/or/) [difference](/en/post/difference/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) completed [the](/en/post/the/) [project](/en/post/project/) [practically](/en/post/practically/) [on](/en/post/on/) [time](/en/post/time/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) [being](/en/post/being/) [nearly](/en/post/nearly/) [practical](/en/post/practical/); [feasible](/en/post/feasible/) [or](/en/post/or/) workable. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [solution](/en/post/solution/) was [practically](/en/post/practically/) unattainable."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [practically](/post/practically/) [or](/post/or/) [nearly](/post/nearly/) [practical](/post/practical/) [manner](/post/manner/); [almost](/post/almost/) [or](/post/or/) effectively. [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [without](/post/without/) [any](/post/any/) [real](/post/real/) [change](/post/change/) [or](/post/or/) [difference](/post/difference/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) completed [the](/post/the/) [project](/post/project/) [practically](/post/practically/) [on](/post/on/) [time](/post/time/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) [being](/post/being/) [nearly](/post/nearly/) [practical](/post/practical/); [feasible](/post/feasible/) [or](/post/or/) workable. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [solution](/post/solution/) was [practically](/post/practically/) unattainable."
 
 ## Phrases
-- "[Practically](/en/post/practically/) speaking" is [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [statement](/en/post/statement/) based [on](/en/post/on/) [practical](/en/post/practical/) considerations.
-- "It's [practically](/en/post/practically/) [impossible](/en/post/impossible/)" indicates [that](/en/post/that/) [something](/en/post/something/) is [extremely](/en/post/extremely/) [unlikely](/en/post/unlikely/) [to](/en/post/to/) [happen](/en/post/happen/).
-- "Practicality is [key](/en/post/key/)" emphasizes [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) functionality [or](/en/post/or/) realism.
+- "[Practically](/post/practically/) speaking" is [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [statement](/post/statement/) based [on](/post/on/) [practical](/post/practical/) considerations.
+- "It's [practically](/post/practically/) [impossible](/post/impossible/)" indicates [that](/post/that/) [something](/post/something/) is [extremely](/post/extremely/) [unlikely](/post/unlikely/) [to](/post/to/) [happen](/post/happen/).
+- "Practicality is [key](/post/key/)" emphasizes [the](/post/the/) [importance](/post/importance/) [of](/post/of/) functionality [or](/post/or/) realism.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) [learned](/en/post/learned/) [to](/en/post/to/) [ride](/en/post/ride/) [a](/en/post/a/) [bike](/en/post/bike/) [practically](/en/post/practically/) [without](/en/post/without/) [any](/en/post/any/) [training](/en/post/training/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [plan](/en/post/plan/) was [practically](/en/post/practically/) foolproof, [but](/en/post/but/) [some](/en/post/some/) [unexpected](/en/post/unexpected/) issues arose."
-- "[They](/en/post/they/) were [practically](/en/post/practically/) [out](/en/post/out/) [of](/en/post/of/) [money](/en/post/money/), [so](/en/post/so/) [they](/en/post/they/) had [to](/en/post/to/) [cut](/en/post/cut/) [back](/en/post/back/) [on](/en/post/on/) expenses."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) [learned](/post/learned/) [to](/post/to/) [ride](/post/ride/) [a](/post/a/) [bike](/post/bike/) [practically](/post/practically/) [without](/post/without/) [any](/post/any/) [training](/post/training/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [plan](/post/plan/) was [practically](/post/practically/) foolproof, [but](/post/but/) [some](/post/some/) [unexpected](/post/unexpected/) issues arose."
+- "[They](/post/they/) were [practically](/post/practically/) [out](/post/out/) [of](/post/of/) [money](/post/money/), [so](/post/so/) [they](/post/they/) had [to](/post/to/) [cut](/post/cut/) [back](/post/back/) [on](/post/on/) expenses."
 
 ## Synonyms
-- [Almost](/en/post/almost/)
-- [Nearly](/en/post/nearly/)
+- [Almost](/post/almost/)
+- [Nearly](/post/nearly/)
 - Effectively
-- [Virtually](/en/post/virtually/)
-- [Almost](/en/post/almost/) [practically](/en/post/practically/)
+- [Virtually](/post/virtually/)
+- [Almost](/post/almost/) [practically](/post/practically/)
 - Workably
 
 ## Antonyms

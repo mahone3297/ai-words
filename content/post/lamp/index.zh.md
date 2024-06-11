@@ -11,21 +11,21 @@ keywords = ['ai words', 'lamp']
 /læmp/
 
 ## 释义
-- **名词**: 一种照明设备，通常有灯泡、灯罩和基座组成。例如: "[She](/post/she/) turned [on](/post/on/) [the](/post/the/) [lamp](/post/lamp/) [beside](/post/beside/) [her](/post/her/) [bed](/post/bed/)."
-- **动词**: 照亮，用灯照射。例如: "[The](/post/the/) flashlight lamped [the](/post/the/) [dark](/post/dark/) [corner](/post/corner/)."
+- **名词**: 一种照明设备，通常有灯泡、灯罩和基座组成。例如: "[She](/zh/post/she/) turned [on](/zh/post/on/) [the](/zh/post/the/) [lamp](/zh/post/lamp/) [beside](/zh/post/beside/) [her](/zh/post/her/) [bed](/zh/post/bed/)."
+- **动词**: 照亮，用灯照射。例如: "[The](/zh/post/the/) flashlight lamped [the](/zh/post/the/) [dark](/zh/post/dark/) [corner](/zh/post/corner/)."
 
 ## 短语
 - "Lampshade" 是指灯罩，用来遮挡光线的部分。
-- "[Table](/post/table/) [lamp](/post/lamp/)" 是指放置在桌子上的台灯。
-- "[Floor](/post/floor/) [lamp](/post/lamp/)" 是指立地灯，可以放在地板上提供照明。
+- "[Table](/zh/post/table/) [lamp](/zh/post/lamp/)" 是指放置在桌子上的台灯。
+- "[Floor](/zh/post/floor/) [lamp](/zh/post/lamp/)" 是指立地灯，可以放在地板上提供照明。
 
 ## 例句
-- 名词: "[The](/post/the/) antique [lamp](/post/lamp/) [in](/post/in/) [the](/post/the/) [living](/post/living/) [room](/post/room/) added [a](/post/a/) cozy [touch](/post/touch/) [to](/post/to/) [the](/post/the/) decor."
-- 动词: "[The](/post/the/) [security](/post/security/) [camera](/post/camera/) was [able](/post/able/) [to](/post/to/) [lamp](/post/lamp/) [the](/post/the/) intruder [clearly](/post/clearly/)."
+- 名词: "[The](/zh/post/the/) antique [lamp](/zh/post/lamp/) [in](/zh/post/in/) [the](/zh/post/the/) [living](/zh/post/living/) [room](/zh/post/room/) added [a](/zh/post/a/) cozy [touch](/zh/post/touch/) [to](/zh/post/to/) [the](/zh/post/the/) decor."
+- 动词: "[The](/zh/post/the/) [security](/zh/post/security/) [camera](/zh/post/camera/) was [able](/zh/post/able/) [to](/zh/post/to/) [lamp](/zh/post/lamp/) [the](/zh/post/the/) intruder [clearly](/zh/post/clearly/)."
 
 ## 同义词
-- [Light](/post/light/)
-- [Torch](/post/torch/)
--灯笼 (Chinese [lantern](/post/lantern/))
+- [Light](/zh/post/light/)
+- [Torch](/zh/post/torch/)
+-灯笼 (Chinese [lantern](/zh/post/lantern/))
 - 照明器具
 - 灯具

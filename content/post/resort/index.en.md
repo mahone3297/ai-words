@@ -7,36 +7,36 @@ description = '[riˈzɔːt] vi.&n.求助，凭借'
 keywords = ['ai words', 'resort']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈzɔːrt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [place](/en/post/place/) chosen [as](/en/post/as/) [a](/en/post/a/) [holiday](/en/post/holiday/) [destination](/en/post/destination/), [often](/en/post/often/) [with](/en/post/with/) [leisure](/en/post/leisure/) facilities: *[We](/en/post/we/) decided [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [beach](/en/post/beach/) [resort](/en/post/resort/) [for](/en/post/for/) [our](/en/post/our/) [vacation](/en/post/vacation/).*
-2. [A](/en/post/a/) [resort](/en/post/resort/) [town](/en/post/town/) [or](/en/post/or/) [village](/en/post/village/): *[The](/en/post/the/) [ski](/en/post/ski/) [resort](/en/post/resort/) was bustling [with](/en/post/with/) tourists [during](/en/post/during/) [the](/en/post/the/) [winter](/en/post/winter/) [season](/en/post/season/).*
-3. [A](/en/post/a/) [resort](/en/post/resort/) [to](/en/post/to/): *[In](/en/post/in/) [difficult](/en/post/difficult/) times, [people](/en/post/people/) [often](/en/post/often/) [resort](/en/post/resort/) [to](/en/post/to/) using [their](/en/post/their/) savings.*
-4. (informal) [A](/en/post/a/) [solution](/en/post/solution/) [or](/en/post/or/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/) taken [when](/en/post/when/) faced [with](/en/post/with/) [a](/en/post/a/) [problem](/en/post/problem/): *[Their](/en/post/their/) [only](/en/post/only/) [resort](/en/post/resort/) was [to](/en/post/to/) [seek](/en/post/seek/) [legal](/en/post/legal/) [advice](/en/post/advice/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [place](/post/place/) chosen [as](/post/as/) [a](/post/a/) [holiday](/post/holiday/) [destination](/post/destination/), [often](/post/often/) [with](/post/with/) [leisure](/post/leisure/) facilities: *[We](/post/we/) decided [to](/post/to/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [beach](/post/beach/) [resort](/post/resort/) [for](/post/for/) [our](/post/our/) [vacation](/post/vacation/).*
+2. [A](/post/a/) [resort](/post/resort/) [town](/post/town/) [or](/post/or/) [village](/post/village/): *[The](/post/the/) [ski](/post/ski/) [resort](/post/resort/) was bustling [with](/post/with/) tourists [during](/post/during/) [the](/post/the/) [winter](/post/winter/) [season](/post/season/).*
+3. [A](/post/a/) [resort](/post/resort/) [to](/post/to/): *[In](/post/in/) [difficult](/post/difficult/) times, [people](/post/people/) [often](/post/often/) [resort](/post/resort/) [to](/post/to/) using [their](/post/their/) savings.*
+4. (informal) [A](/post/a/) [solution](/post/solution/) [or](/post/or/) [course](/post/course/) [of](/post/of/) [action](/post/action/) taken [when](/post/when/) faced [with](/post/with/) [a](/post/a/) [problem](/post/problem/): *[Their](/post/their/) [only](/post/only/) [resort](/post/resort/) was [to](/post/to/) [seek](/post/seek/) [legal](/post/legal/) [advice](/post/advice/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [a](/en/post/a/) [resort](/en/post/resort/) [for](/en/post/for/) [vacation](/en/post/vacation/) [or](/en/post/or/) [leisure](/en/post/leisure/): *They're planning [to](/en/post/to/) [resort](/en/post/resort/) [to](/en/post/to/) [the](/en/post/the/) Caribbean [this](/en/post/this/) [summer](/en/post/summer/).*
-2. [To](/en/post/to/) [turn](/en/post/turn/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [resource](/en/post/resource/) [or](/en/post/or/) [strategy](/en/post/strategy/): *Failing [the](/en/post/the/) [exam](/en/post/exam/), [she](/en/post/she/) resorted [to](/en/post/to/) studying harder [for](/en/post/for/) [the](/en/post/the/) retake.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [go](/post/go/) [to](/post/to/) [a](/post/a/) [resort](/post/resort/) [for](/post/for/) [vacation](/post/vacation/) [or](/post/or/) [leisure](/post/leisure/): *They're planning [to](/post/to/) [resort](/post/resort/) [to](/post/to/) [the](/post/the/) Caribbean [this](/post/this/) [summer](/post/summer/).*
+2. [To](/post/to/) [turn](/post/turn/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [resource](/post/resource/) [or](/post/or/) [strategy](/post/strategy/): *Failing [the](/post/the/) [exam](/post/exam/), [she](/post/she/) resorted [to](/post/to/) studying harder [for](/post/for/) [the](/post/the/) retake.*
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [resort](/en/post/resort/) [break](/en/post/break/)" [or](/en/post/or/) "[go](/en/post/go/) [on](/en/post/on/) [a](/en/post/a/) [resort](/en/post/resort/) [vacation](/en/post/vacation/)"
-- "[Resort](/en/post/resort/) [to](/en/post/to/)" ([as](/en/post/as/) [in](/en/post/in/) "[resort](/en/post/resort/) [to](/en/post/to/) [extreme](/en/post/extreme/) measures")
-- "[Have](/en/post/have/) [a](/en/post/a/) resort-style [wedding](/en/post/wedding/)"
+- "[Take](/post/take/) [a](/post/a/) [resort](/post/resort/) [break](/post/break/)" [or](/post/or/) "[go](/post/go/) [on](/post/on/) [a](/post/a/) [resort](/post/resort/) [vacation](/post/vacation/)"
+- "[Resort](/post/resort/) [to](/post/to/)" ([as](/post/as/) [in](/post/in/) "[resort](/post/resort/) [to](/post/to/) [extreme](/post/extreme/) measures")
+- "[Have](/post/have/) [a](/post/a/) resort-style [wedding](/post/wedding/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [week](/en/post/week/) [at](/en/post/at/) [work](/en/post/work/), [they](/en/post/they/) decided [to](/en/post/to/) [spend](/en/post/spend/) [the](/en/post/the/) [weekend](/en/post/weekend/) [at](/en/post/at/) [a](/en/post/a/) [mountain](/en/post/mountain/) [resort](/en/post/resort/)."
-- **[Verb](/en/post/verb/)**: "[When](/en/post/when/) [the](/en/post/the/) [weather](/en/post/weather/) turned [bad](/en/post/bad/), [they](/en/post/they/) had [no](/en/post/no/) [choice](/en/post/choice/) [but](/en/post/but/) [to](/en/post/to/) [resort](/en/post/resort/) [to](/en/post/to/) indoor activities."
-- **Phrasal [Verb](/en/post/verb/)**: "Faced [with](/en/post/with/) [financial](/en/post/financial/) troubles, [they](/en/post/they/) resorted [to](/en/post/to/) selling [some](/en/post/some/) [of](/en/post/of/) [their](/en/post/their/) assets."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [week](/post/week/) [at](/post/at/) [work](/post/work/), [they](/post/they/) decided [to](/post/to/) [spend](/post/spend/) [the](/post/the/) [weekend](/post/weekend/) [at](/post/at/) [a](/post/a/) [mountain](/post/mountain/) [resort](/post/resort/)."
+- **[Verb](/post/verb/)**: "[When](/post/when/) [the](/post/the/) [weather](/post/weather/) turned [bad](/post/bad/), [they](/post/they/) had [no](/post/no/) [choice](/post/choice/) [but](/post/but/) [to](/post/to/) [resort](/post/resort/) [to](/post/to/) indoor activities."
+- **Phrasal [Verb](/post/verb/)**: "Faced [with](/post/with/) [financial](/post/financial/) troubles, [they](/post/they/) resorted [to](/post/to/) selling [some](/post/some/) [of](/post/of/) [their](/post/their/) assets."
 
 ## Synonyms
-- [Holiday](/en/post/holiday/) [destination](/en/post/destination/)
-- [Retreat](/en/post/retreat/)
-- [Vacation](/en/post/vacation/) [spot](/en/post/spot/)
+- [Holiday](/post/holiday/) [destination](/post/destination/)
+- [Retreat](/post/retreat/)
+- [Vacation](/post/vacation/) [spot](/post/spot/)
 - Haven
 - Sanctuary
 -避难所
 
-[Note](/en/post/note/): [The](/en/post/the/) [usage](/en/post/usage/) [of](/en/post/of/) "[resort](/en/post/resort/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [might](/en/post/might/) [be](/en/post/be/) [less](/en/post/less/) [common](/en/post/common/) [than](/en/post/than/) [its](/en/post/its/) [noun](/en/post/noun/) [form](/en/post/form/) [in](/en/post/in/) [some](/en/post/some/) contexts, [but](/en/post/but/) it's [still](/en/post/still/) recognized [in](/en/post/in/) [the](/en/post/the/) [language](/en/post/language/). [The](/en/post/the/) phrasal [verb](/en/post/verb/) "[resort](/en/post/resort/) [to](/en/post/to/)" is [more](/en/post/more/) [specific](/en/post/specific/) [to](/en/post/to/) referring [to](/en/post/to/) [a](/en/post/a/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/).
+[Note](/post/note/): [The](/post/the/) [usage](/post/usage/) [of](/post/of/) "[resort](/post/resort/)" [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [might](/post/might/) [be](/post/be/) [less](/post/less/) [common](/post/common/) [than](/post/than/) [its](/post/its/) [noun](/post/noun/) [form](/post/form/) [in](/post/in/) [some](/post/some/) contexts, [but](/post/but/) it's [still](/post/still/) recognized [in](/post/in/) [the](/post/the/) [language](/post/language/). [The](/post/the/) phrasal [verb](/post/verb/) "[resort](/post/resort/) [to](/post/to/)" is [more](/post/more/) [specific](/post/specific/) [to](/post/to/) referring [to](/post/to/) [a](/post/a/) [course](/post/course/) [of](/post/of/) [action](/post/action/).

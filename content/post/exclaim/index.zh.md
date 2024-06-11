@@ -11,20 +11,20 @@ keywords = ['ai words', 'exclaim']
 /ɪkˈskleɪm/
 
 ## 释义
-- **动词**: 大声说出，呼喊，表示感情或意见。例如: "[He](/post/he/) exclaimed [in](/post/in/) [surprise](/post/surprise/) [when](/post/when/) [he](/post/he/) [saw](/post/saw/) [the](/post/the/) [gift](/post/gift/)."
-- **名词**: 呼喊，惊叹声，表达强烈感情的话语。例如: "[Her](/post/her/) exclamation [of](/post/of/) [joy](/post/joy/) [could](/post/could/) [be](/post/be/) heard [from](/post/from/) [across](/post/across/) [the](/post/the/) [room](/post/room/)."
+- **动词**: 大声说出，呼喊，表示感情或意见。例如: "[He](/zh/post/he/) exclaimed [in](/zh/post/in/) [surprise](/zh/post/surprise/) [when](/zh/post/when/) [he](/zh/post/he/) [saw](/zh/post/saw/) [the](/zh/post/the/) [gift](/zh/post/gift/)."
+- **名词**: 呼喊，惊叹声，表达强烈感情的话语。例如: "[Her](/zh/post/her/) exclamation [of](/zh/post/of/) [joy](/zh/post/joy/) [could](/zh/post/could/) [be](/zh/post/be/) heard [from](/zh/post/from/) [across](/zh/post/across/) [the](/zh/post/the/) [room](/zh/post/room/)."
 
 ## 短语
-- "[to](/post/to/) [let](/post/let/) [out](/post/out/) an exclamation" 意为发出惊叹声。
-- "[in](/post/in/) exclamation" 用于强调情绪的表达，如 "[in](/post/in/) exclamation [of](/post/of/) [delight](/post/delight/)"（在表达喜悦之情时）。
+- "[to](/zh/post/to/) [let](/zh/post/let/) [out](/zh/post/out/) an exclamation" 意为发出惊叹声。
+- "[in](/zh/post/in/) exclamation" 用于强调情绪的表达，如 "[in](/zh/post/in/) exclamation [of](/zh/post/of/) [delight](/zh/post/delight/)"（在表达喜悦之情时）。
 
 ## 例句
-- 动词: "[She](/post/she/) exclaimed [with](/post/with/) excitement [when](/post/when/) [she](/post/she/) won [the](/post/the/) [prize](/post/prize/)."
-- 名词: "[His](/post/his/) exclamation [of](/post/of/) frustration echoed [through](/post/through/) [the](/post/the/) [empty](/post/empty/) [hall](/post/hall/)."
+- 动词: "[She](/zh/post/she/) exclaimed [with](/zh/post/with/) excitement [when](/zh/post/when/) [she](/zh/post/she/) won [the](/zh/post/the/) [prize](/zh/post/prize/)."
+- 名词: "[His](/zh/post/his/) exclamation [of](/zh/post/of/) frustration echoed [through](/zh/post/through/) [the](/zh/post/the/) [empty](/zh/post/empty/) [hall](/zh/post/hall/)."
 
 ## 同义词
-- [Shout](/post/shout/)
-- [Cry](/post/cry/) [out](/post/out/)
-- [Utter](/post/utter/)
-- [Declare](/post/declare/)
+- [Shout](/zh/post/shout/)
+- [Cry](/zh/post/cry/) [out](/zh/post/out/)
+- [Utter](/zh/post/utter/)
+- [Declare](/zh/post/declare/)
 - Assert

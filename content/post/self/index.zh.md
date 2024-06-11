@@ -8,26 +8,26 @@ keywords = ['ai words', 'self']
 +++
 
 ## 读音
-/[self](/post/self/)/
+/[self](/zh/post/self/)/
 
 ## 释义
 - **名词**:
-  自我，自己，自身。指个人的意识、个性或身份。例如: "[She](/post/she/) needs [time](/post/time/) [to](/post/to/) [focus](/post/focus/) [on](/post/on/) [herself](/post/herself/) [and](/post/and/) [her](/post/her/) [own](/post/own/) needs."
+  自我，自己，自身。指个人的意识、个性或身份。例如: "[She](/zh/post/she/) needs [time](/zh/post/time/) [to](/zh/post/to/) [focus](/zh/post/focus/) [on](/zh/post/on/) [herself](/zh/post/herself/) [and](/zh/post/and/) [her](/zh/post/her/) [own](/zh/post/own/) needs."
 - **反身代词**:
-  用作代词，表示动作返回到主语本身。例如: "I taught [myself](/post/myself/) [how](/post/how/) [to](/post/to/) [play](/post/play/) [the](/post/the/) guitar."
+  用作代词，表示动作返回到主语本身。例如: "I taught [myself](/zh/post/myself/) [how](/zh/post/how/) [to](/zh/post/to/) [play](/zh/post/play/) [the](/zh/post/the/) guitar."
 
 ## 短语
-- "[be](/post/be/) [true](/post/true/) [to](/post/to/) [oneself](/post/oneself/)" 意为忠于自己。
-- "[take](/post/take/) [care](/post/care/) [of](/post/of/) [oneself](/post/oneself/)" 意思是照顾自己。
-- "one's [better](/post/better/) [self](/post/self/)" 通常指一个人更好的或高尚的一面。
+- "[be](/zh/post/be/) [true](/zh/post/true/) [to](/zh/post/to/) [oneself](/zh/post/oneself/)" 意为忠于自己。
+- "[take](/zh/post/take/) [care](/zh/post/care/) [of](/zh/post/of/) [oneself](/zh/post/oneself/)" 意思是照顾自己。
+- "one's [better](/zh/post/better/) [self](/zh/post/self/)" 通常指一个人更好的或高尚的一面。
 
 ## 例句
-- 名词: "[He](/post/he/) discovered [a](/post/a/) [new](/post/new/) [side](/post/side/) [of](/post/of/) [himself](/post/himself/) [during](/post/during/) [his](/post/his/) travels."
-- 反身代词: "[She](/post/she/) managed [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [all](/post/all/) [by](/post/by/) [herself](/post/herself/)."
+- 名词: "[He](/zh/post/he/) discovered [a](/zh/post/a/) [new](/zh/post/new/) [side](/zh/post/side/) [of](/zh/post/of/) [himself](/zh/post/himself/) [during](/zh/post/during/) [his](/zh/post/his/) travels."
+- 反身代词: "[She](/zh/post/she/) managed [to](/zh/post/to/) [finish](/zh/post/finish/) [the](/zh/post/the/) [project](/zh/post/project/) [all](/zh/post/all/) [by](/zh/post/by/) [herself](/zh/post/herself/)."
 
 ## 同义词
-- [oneself](/post/oneself/)
-- [yourself](/post/yourself/)
-- [themselves](/post/themselves/)
-- [myself](/post/myself/)
-- [yourself](/post/yourself/)
+- [oneself](/zh/post/oneself/)
+- [yourself](/zh/post/yourself/)
+- [themselves](/zh/post/themselves/)
+- [myself](/zh/post/myself/)
+- [yourself](/zh/post/yourself/)

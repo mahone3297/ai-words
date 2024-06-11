@@ -11,22 +11,22 @@ keywords = ['ai words', 'outcome']
 /ˈaʊtkʌm/
 
 ## 释义
-- **名词**: 结果；后果。例如: "[The](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [the](/post/the/) [election](/post/election/) was [unexpected](/post/unexpected/)."
-- **名词**: 成果；成绩。例如: "[Their](/post/their/) [hard](/post/hard/) [work](/post/work/) led [to](/post/to/) [a](/post/a/) [positive](/post/positive/) [outcome](/post/outcome/)."
+- **名词**: 结果；后果。例如: "[The](/zh/post/the/) [outcome](/zh/post/outcome/) [of](/zh/post/of/) [the](/zh/post/the/) [election](/zh/post/election/) was [unexpected](/zh/post/unexpected/)."
+- **名词**: 成果；成绩。例如: "[Their](/zh/post/their/) [hard](/zh/post/hard/) [work](/zh/post/work/) led [to](/zh/post/to/) [a](/zh/post/a/) [positive](/zh/post/positive/) [outcome](/zh/post/outcome/)."
 
 ## 短语
-- "[positive](/post/positive/) [outcome](/post/outcome/)" 意为积极的结果。
-- "[outcome](/post/outcome/) [measure](/post/measure/)" 在医学或研究中指的是用来评估结果的指标。
-- "unforeseen [outcome](/post/outcome/)" 指的是未预见的结果。
+- "[positive](/zh/post/positive/) [outcome](/zh/post/outcome/)" 意为积极的结果。
+- "[outcome](/zh/post/outcome/) [measure](/zh/post/measure/)" 在医学或研究中指的是用来评估结果的指标。
+- "unforeseen [outcome](/zh/post/outcome/)" 指的是未预见的结果。
 
 ## 例句
-- "We're hoping [for](/post/for/) [a](/post/a/) [good](/post/good/) [outcome](/post/outcome/) [from](/post/from/) [the](/post/the/) negotiations."
-- "[The](/post/the/) patient's [recovery](/post/recovery/) was an [excellent](/post/excellent/) [outcome](/post/outcome/) [for](/post/for/) [the](/post/the/) [medical](/post/medical/) [team](/post/team/)."
-- "[The](/post/the/) [experiment](/post/experiment/) had [a](/post/a/) disappointing [outcome](/post/outcome/), [but](/post/but/) [we](/post/we/) [learned](/post/learned/) [valuable](/post/valuable/) lessons."
+- "We're hoping [for](/zh/post/for/) [a](/zh/post/a/) [good](/zh/post/good/) [outcome](/zh/post/outcome/) [from](/zh/post/from/) [the](/zh/post/the/) negotiations."
+- "[The](/zh/post/the/) patient's [recovery](/zh/post/recovery/) was an [excellent](/zh/post/excellent/) [outcome](/zh/post/outcome/) [for](/zh/post/for/) [the](/zh/post/the/) [medical](/zh/post/medical/) [team](/zh/post/team/)."
+- "[The](/zh/post/the/) [experiment](/zh/post/experiment/) had [a](/zh/post/a/) disappointing [outcome](/zh/post/outcome/), [but](/zh/post/but/) [we](/zh/post/we/) [learned](/zh/post/learned/) [valuable](/zh/post/valuable/) lessons."
 
 ## 同义词
-- [Result](/post/result/)
-- [Consequence](/post/consequence/)
-- [Effect](/post/effect/)
-- [Conclusion](/post/conclusion/)
-- [Achievement](/post/achievement/)
+- [Result](/zh/post/result/)
+- [Consequence](/zh/post/consequence/)
+- [Effect](/zh/post/effect/)
+- [Conclusion](/zh/post/conclusion/)
+- [Achievement](/zh/post/achievement/)

@@ -7,37 +7,37 @@ description = '[riˈkwaiə] vt.需要；要求，命令'
 keywords = ['ai words', 'require']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈkwaɪə(r)/
 
 ## Definitions
-### [Verb](/en/post/verb/)
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [phrase](/en/post/phrase/) [used](/en/post/used/) [to](/en/post/to/) [request](/en/post/request/) [or](/en/post/or/) [demand](/en/post/demand/) [something](/en/post/something/); [a](/en/post/a/) [need](/en/post/need/) [or](/en/post/or/) [necessity](/en/post/necessity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) requires [additional](/en/post/additional/) funding."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) necessitate [or](/en/post/or/) [demand](/en/post/demand/); [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [need](/en/post/need/) [for](/en/post/for/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [job](/en/post/job/) requires [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) [something](/en/post/something/) politely. [For](/en/post/for/) [example](/en/post/example/): "[Could](/en/post/could/) [you](/en/post/you/) [please](/en/post/please/) [require](/en/post/require/) [my](/en/post/my/) assistance?"
+### [Verb](/post/verb/)
+- **[Noun](/post/noun/)**: [A](/post/a/) [word](/post/word/) [or](/post/or/) [phrase](/post/phrase/) [used](/post/used/) [to](/post/to/) [request](/post/request/) [or](/post/or/) [demand](/post/demand/) [something](/post/something/); [a](/post/a/) [need](/post/need/) [or](/post/or/) [necessity](/post/necessity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) requires [additional](/post/additional/) funding."
+- **[Verb](/post/verb/)**: [To](/post/to/) necessitate [or](/post/or/) [demand](/post/demand/); [to](/post/to/) [have](/post/have/) [a](/post/a/) [need](/post/need/) [for](/post/for/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [job](/post/job/) requires [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [hard](/post/hard/) [work](/post/work/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [ask](/post/ask/) [for](/post/for/) [something](/post/something/) politely. [For](/post/for/) [example](/post/example/): "[Could](/post/could/) [you](/post/you/) [please](/post/please/) [require](/post/require/) [my](/post/my/) assistance?"
 
 ## Phrases
-- "[requirement](/en/post/requirement/)" ([noun](/en/post/noun/)) - [a](/en/post/a/) [necessary](/en/post/necessary/) [condition](/en/post/condition/) [or](/en/post/or/) [thing](/en/post/thing/) needed [for](/en/post/for/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/) [or](/en/post/or/) [be](/en/post/be/) done
-- "required skills" - [the](/en/post/the/) abilities [that](/en/post/that/) are [necessary](/en/post/necessary/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [job](/en/post/job/) [or](/en/post/or/) [task](/en/post/task/)
-- "[requirement](/en/post/requirement/) checklist" - [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) tasks [or](/en/post/or/) conditions [that](/en/post/that/) [must](/en/post/must/) [be](/en/post/be/) met
+- "[requirement](/post/requirement/)" ([noun](/post/noun/)) - [a](/post/a/) [necessary](/post/necessary/) [condition](/post/condition/) [or](/post/or/) [thing](/post/thing/) needed [for](/post/for/) [something](/post/something/) [to](/post/to/) [happen](/post/happen/) [or](/post/or/) [be](/post/be/) done
+- "required skills" - [the](/post/the/) abilities [that](/post/that/) are [necessary](/post/necessary/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [job](/post/job/) [or](/post/or/) [task](/post/task/)
+- "[requirement](/post/requirement/) checklist" - [a](/post/a/) [list](/post/list/) [of](/post/of/) tasks [or](/post/or/) conditions [that](/post/that/) [must](/post/must/) [be](/post/be/) met
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [project](/en/post/project/) requirements were [clearly](/en/post/clearly/) outlined [in](/en/post/in/) [the](/en/post/the/) [proposal](/en/post/proposal/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) requires [all](/en/post/all/) employees [to](/en/post/to/) [attend](/en/post/attend/) [training](/en/post/training/) sessions."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) required [a](/en/post/a/) [valid](/en/post/valid/) ID [to](/en/post/to/) [enter](/en/post/enter/) [the](/en/post/the/) [building](/en/post/building/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [project](/post/project/) requirements were [clearly](/post/clearly/) outlined [in](/post/in/) [the](/post/the/) [proposal](/post/proposal/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [company](/post/company/) requires [all](/post/all/) employees [to](/post/to/) [attend](/post/attend/) [training](/post/training/) sessions."
+- **[Verb](/post/verb/)**: "[She](/post/she/) required [a](/post/a/) [valid](/post/valid/) ID [to](/post/to/) [enter](/post/enter/) [the](/post/the/) [building](/post/building/)."
 
 ## Synonyms
-- [Demand](/en/post/demand/)
-- [Need](/en/post/need/)
-- [Request](/en/post/request/)
-- [Demand](/en/post/demand/) [for](/en/post/for/)
-- [Essential](/en/post/essential/)
-- [Necessary](/en/post/necessary/)
+- [Demand](/post/demand/)
+- [Need](/post/need/)
+- [Request](/post/request/)
+- [Demand](/post/demand/) [for](/post/for/)
+- [Essential](/post/essential/)
+- [Necessary](/post/necessary/)
 - Mandate
 
 ## Antonyms
-- [Not](/en/post/not/) [require](/en/post/require/)
-- [Suggest](/en/post/suggest/)
+- [Not](/post/not/) [require](/post/require/)
+- [Suggest](/post/suggest/)
 - Facilitate
-- [Optional](/en/post/optional/)
-- Supersede ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- [Optional](/post/optional/)
+- Supersede ([in](/post/in/) [some](/post/some/) contexts)

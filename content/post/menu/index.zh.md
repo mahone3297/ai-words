@@ -11,20 +11,20 @@ keywords = ['ai words', 'menu']
 /məˈnuː/
 
 ## 释义
-- **名词 (n)**: 餐厅或菜单上的食物选择列表，通常按顺序排列并标有价格。例如: "[Please](/post/please/) [take](/post/take/) [a](/post/a/) [look](/post/look/) [at](/post/at/) [the](/post/the/) [menu](/post/menu/) [and](/post/and/) [choose](/post/choose/) [what](/post/what/) you'd [like](/post/like/) [to](/post/to/) [order](/post/order/)."
-- **名词 (n)**: 在计算机程序或网站上，提供选项或功能的一系列链接或按钮。例如: "Click [on](/post/on/) [the](/post/the/) [top](/post/top/) [menu](/post/menu/) [to](/post/to/) [access](/post/access/) [different](/post/different/) sections [of](/post/of/) [the](/post/the/) website."
+- **名词 (n)**: 餐厅或菜单上的食物选择列表，通常按顺序排列并标有价格。例如: "[Please](/zh/post/please/) [take](/zh/post/take/) [a](/zh/post/a/) [look](/zh/post/look/) [at](/zh/post/at/) [the](/zh/post/the/) [menu](/zh/post/menu/) [and](/zh/post/and/) [choose](/zh/post/choose/) [what](/zh/post/what/) you'd [like](/zh/post/like/) [to](/zh/post/to/) [order](/zh/post/order/)."
+- **名词 (n)**: 在计算机程序或网站上，提供选项或功能的一系列链接或按钮。例如: "Click [on](/zh/post/on/) [the](/zh/post/the/) [top](/zh/post/top/) [menu](/zh/post/menu/) [to](/zh/post/to/) [access](/zh/post/access/) [different](/zh/post/different/) sections [of](/zh/post/of/) [the](/zh/post/the/) website."
 
 ## 短语
-- " À la carte [menu](/post/menu/)" 指顾客可以单独点选菜品的菜单，不包括套餐。
-- "[Set](/post/set/) [menu](/post/menu/)" 或 "Fixed [menu](/post/menu/)" 是指包含一系列固定菜品的套餐。
+- " À la carte [menu](/zh/post/menu/)" 指顾客可以单独点选菜品的菜单，不包括套餐。
+- "[Set](/zh/post/set/) [menu](/zh/post/menu/)" 或 "Fixed [menu](/zh/post/menu/)" 是指包含一系列固定菜品的套餐。
 
 ## 例句
-- 名词: "[The](/post/the/) restaurant's [menu](/post/menu/) offers [a](/post/a/) [variety](/post/variety/) [of](/post/of/) Italian dishes."
-- 名词: "[The](/post/the/) [new](/post/new/) software has an intuitive [menu](/post/menu/) [system](/post/system/) [for](/post/for/) [easy](/post/easy/) [navigation](/post/navigation/)."
+- 名词: "[The](/zh/post/the/) restaurant's [menu](/zh/post/menu/) offers [a](/zh/post/a/) [variety](/zh/post/variety/) [of](/zh/post/of/) Italian dishes."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) software has an intuitive [menu](/zh/post/menu/) [system](/zh/post/system/) [for](/zh/post/for/) [easy](/zh/post/easy/) [navigation](/zh/post/navigation/)."
 
 ## 同义词
-- [Bill](/post/bill/) [of](/post/of/) [fare](/post/fare/)
-- [Food](/post/food/) [list](/post/list/)
-- [Selection](/post/selection/) [list](/post/list/)
+- [Bill](/zh/post/bill/) [of](/zh/post/of/) [fare](/zh/post/fare/)
+- [Food](/zh/post/food/) [list](/zh/post/list/)
+- [Selection](/zh/post/selection/) [list](/zh/post/list/)
 - choices
 - options

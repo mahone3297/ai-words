@@ -11,20 +11,20 @@ keywords = ['ai words', 'evaporate']
 /ɪˈvæpəreɪt/
 
 ## 释义
-- **动词**: 蒸发，挥发；消失。例如: "[The](/post/the/) [water](/post/water/) evaporated [quickly](/post/quickly/) [in](/post/in/) [the](/post/the/) [hot](/post/hot/) [sun](/post/sun/)."
-- **动词**: （使）蒸发，（使）挥发。例如: "[The](/post/the/) solvent evaporates [easily](/post/easily/) [at](/post/at/) [room](/post/room/) [temperature](/post/temperature/)."
+- **动词**: 蒸发，挥发；消失。例如: "[The](/zh/post/the/) [water](/zh/post/water/) evaporated [quickly](/zh/post/quickly/) [in](/zh/post/in/) [the](/zh/post/the/) [hot](/zh/post/hot/) [sun](/zh/post/sun/)."
+- **动词**: （使）蒸发，（使）挥发。例如: "[The](/zh/post/the/) solvent evaporates [easily](/zh/post/easily/) [at](/zh/post/at/) [room](/zh/post/room/) [temperature](/zh/post/temperature/)."
 
 ## 短语
-- "[Evaporate](/post/evaporate/) [completely](/post/completely/)" 完全蒸发。
-- "[The](/post/the/) [liquid](/post/liquid/) evaporates [into](/post/into/) [gas](/post/gas/)" 液体蒸发成气体。
+- "[Evaporate](/zh/post/evaporate/) [completely](/zh/post/completely/)" 完全蒸发。
+- "[The](/zh/post/the/) [liquid](/zh/post/liquid/) evaporates [into](/zh/post/into/) [gas](/zh/post/gas/)" 液体蒸发成气体。
 
 ## 例句
-- "[The](/post/the/) [sweat](/post/sweat/) [on](/post/on/) [my](/post/my/) [forehead](/post/forehead/) evaporated [in](/post/in/) [the](/post/the/) [heat](/post/heat/)." (我额头上的汗水在炎热中蒸发了。)
-- "[The](/post/the/) [medicine](/post/medicine/) [will](/post/will/) [evaporate](/post/evaporate/) [if](/post/if/) [you](/post/you/) [leave](/post/leave/) [it](/post/it/) [open](/post/open/)." (如果你把药瓶开着，药会挥发。)
+- "[The](/zh/post/the/) [sweat](/zh/post/sweat/) [on](/zh/post/on/) [my](/zh/post/my/) [forehead](/zh/post/forehead/) evaporated [in](/zh/post/in/) [the](/zh/post/the/) [heat](/zh/post/heat/)." (我额头上的汗水在炎热中蒸发了。)
+- "[The](/zh/post/the/) [medicine](/zh/post/medicine/) [will](/zh/post/will/) [evaporate](/zh/post/evaporate/) [if](/zh/post/if/) [you](/zh/post/you/) [leave](/zh/post/leave/) [it](/zh/post/it/) [open](/zh/post/open/)." (如果你把药瓶开着，药会挥发。)
 
 ## 同义词
-- [Vanish](/post/vanish/)
+- [Vanish](/zh/post/vanish/)
 - Dissipate
-- [Disappear](/post/disappear/)
-- [Melt](/post/melt/) [away](/post/away/)
-- [Turn](/post/turn/) [into](/post/into/) vapor
+- [Disappear](/zh/post/disappear/)
+- [Melt](/zh/post/melt/) [away](/zh/post/away/)
+- [Turn](/zh/post/turn/) [into](/zh/post/into/) vapor

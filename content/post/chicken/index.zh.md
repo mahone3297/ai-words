@@ -11,21 +11,21 @@ keywords = ['ai words', 'chicken']
 /ˈtʃɪkɪn/
 
 ## 释义
-- **名词 (n)**: 幼小的鸡，通常指未长大的家禽。例如: "[The](/post/the/) [farmer](/post/farmer/) raised chickens [for](/post/for/) [their](/post/their/) eggs."
-- **名词 (n)**: 鸡肉，指鸡的肉。例如: "[Chicken](/post/chicken/) is [a](/post/a/) [popular](/post/popular/) [meat](/post/meat/) [in](/post/in/) [many](/post/many/) cuisines."
-- **名词 (n)**: 指胆小或容易受惊的人。例如: "He's [such](/post/such/) [a](/post/a/) [chicken](/post/chicken/); [he](/post/he/) won't [even](/post/even/) [try](/post/try/) [the](/post/the/) rollercoaster."
-- **形容词 (adj)**: 指与鸡有关的或像鸡的。例如: "[The](/post/the/) [chicken](/post/chicken/) [soup](/post/soup/) was made [from](/post/from/) [scratch](/post/scratch/) [with](/post/with/) [fresh](/post/fresh/) ingredients."
+- **名词 (n)**: 幼小的鸡，通常指未长大的家禽。例如: "[The](/zh/post/the/) [farmer](/zh/post/farmer/) raised chickens [for](/zh/post/for/) [their](/zh/post/their/) eggs."
+- **名词 (n)**: 鸡肉，指鸡的肉。例如: "[Chicken](/zh/post/chicken/) is [a](/zh/post/a/) [popular](/zh/post/popular/) [meat](/zh/post/meat/) [in](/zh/post/in/) [many](/zh/post/many/) cuisines."
+- **名词 (n)**: 指胆小或容易受惊的人。例如: "He's [such](/zh/post/such/) [a](/zh/post/a/) [chicken](/zh/post/chicken/); [he](/zh/post/he/) won't [even](/zh/post/even/) [try](/zh/post/try/) [the](/zh/post/the/) rollercoaster."
+- **形容词 (adj)**: 指与鸡有关的或像鸡的。例如: "[The](/zh/post/the/) [chicken](/zh/post/chicken/) [soup](/zh/post/soup/) was made [from](/zh/post/from/) [scratch](/zh/post/scratch/) [with](/zh/post/with/) [fresh](/zh/post/fresh/) ingredients."
 
 ## 短语
-- "Fried [chicken](/post/chicken/)" 油炸鸡肉。
-- "[Chicken](/post/chicken/) [out](/post/out/)" 指在关键时刻退缩或放弃。
+- "Fried [chicken](/zh/post/chicken/)" 油炸鸡肉。
+- "[Chicken](/zh/post/chicken/) [out](/zh/post/out/)" 指在关键时刻退缩或放弃。
 
 ## 例句
-- 名词: "[We](/post/we/) [have](/post/have/) [a](/post/a/) coop [full](/post/full/) [of](/post/of/) chickens [in](/post/in/) [our](/post/our/) backyard."
-- 形容词: "That's [a](/post/a/) [chicken](/post/chicken/) [way](/post/way/) [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [problem](/post/problem/); [you](/post/you/) [should](/post/should/) [face](/post/face/) [it](/post/it/) head-on."
+- 名词: "[We](/zh/post/we/) [have](/zh/post/have/) [a](/zh/post/a/) coop [full](/zh/post/full/) [of](/zh/post/of/) chickens [in](/zh/post/in/) [our](/zh/post/our/) backyard."
+- 形容词: "That's [a](/zh/post/a/) [chicken](/zh/post/chicken/) [way](/zh/post/way/) [to](/zh/post/to/) [solve](/zh/post/solve/) [the](/zh/post/the/) [problem](/zh/post/problem/); [you](/zh/post/you/) [should](/zh/post/should/) [face](/zh/post/face/) [it](/zh/post/it/) head-on."
 
 ## 同义词
 - Fowl
 - Poultry
-- [Hen](/post/hen/) (特指母鸡)
+- [Hen](/zh/post/hen/) (特指母鸡)
 - Rooster (特指公鸡)

@@ -7,33 +7,33 @@ description = '[ˈhjuːmərəs] a.富于幽默的，诙谐的'
 keywords = ['ai words', 'humorous']
 +++
 
-## [Word](/en/post/word/): [Humorous](/en/post/humorous/)
+## [Word](/post/word/): [Humorous](/post/humorous/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhjuːmərəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) humor; causing [laughter](/en/post/laughter/) [or](/en/post/or/) amusement; comical, witty, [or](/en/post/or/) amusing.
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) humor; causing [laughter](/post/laughter/) [or](/post/or/) amusement; comical, witty, [or](/post/or/) amusing.
 
-### [Definition](/en/post/definition/) Details
-- **[Humorous](/en/post/humorous/) [Style](/en/post/style/)**: Describes [writing](/en/post/writing/), speaking, [or](/en/post/or/) [behavior](/en/post/behavior/) [that](/en/post/that/) has [a](/en/post/a/) light-hearted, amusing [quality](/en/post/quality/) intended [to](/en/post/to/) provoke [laughter](/en/post/laughter/) [or](/en/post/or/) enjoyment. [For](/en/post/for/) [instance](/en/post/instance/), [a](/en/post/a/) [humorous](/en/post/humorous/) [speech](/en/post/speech/) [or](/en/post/or/) [a](/en/post/a/) [humorous](/en/post/humorous/) [story](/en/post/story/).
-- **Personality Trait**: Refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) has [a](/en/post/a/) [good](/en/post/good/) [sense](/en/post/sense/) [of](/en/post/of/) humor [or](/en/post/or/) is inclined [to](/en/post/to/) [find](/en/post/find/) [or](/en/post/or/) [create](/en/post/create/) amusement [in](/en/post/in/) situations.
-- **[Situation](/en/post/situation/) [or](/en/post/or/) [Event](/en/post/event/)**: [Can](/en/post/can/) [describe](/en/post/describe/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [event](/en/post/event/) [that](/en/post/that/) is [funny](/en/post/funny/) [or](/en/post/or/) laughable.
+### [Definition](/post/definition/) Details
+- **[Humorous](/post/humorous/) [Style](/post/style/)**: Describes [writing](/post/writing/), speaking, [or](/post/or/) [behavior](/post/behavior/) [that](/post/that/) has [a](/post/a/) light-hearted, amusing [quality](/post/quality/) intended [to](/post/to/) provoke [laughter](/post/laughter/) [or](/post/or/) enjoyment. [For](/post/for/) [instance](/post/instance/), [a](/post/a/) [humorous](/post/humorous/) [speech](/post/speech/) [or](/post/or/) [a](/post/a/) [humorous](/post/humorous/) [story](/post/story/).
+- **Personality Trait**: Refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) has [a](/post/a/) [good](/post/good/) [sense](/post/sense/) [of](/post/of/) humor [or](/post/or/) is inclined [to](/post/to/) [find](/post/find/) [or](/post/or/) [create](/post/create/) amusement [in](/post/in/) situations.
+- **[Situation](/post/situation/) [or](/post/or/) [Event](/post/event/)**: [Can](/post/can/) [describe](/post/describe/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [event](/post/event/) [that](/post/that/) is [funny](/post/funny/) [or](/post/or/) laughable.
 
 ## Phrases
-- "[A](/en/post/a/) [humorous](/en/post/humorous/) anecdote": [A](/en/post/a/) [short](/en/post/short/) amusing [story](/en/post/story/) [often](/en/post/often/) told [to](/en/post/to/) [entertain](/en/post/entertain/) others.
-- "[Humorous](/en/post/humorous/) [twist](/en/post/twist/)": An [unexpected](/en/post/unexpected/) [and](/en/post/and/) comical [turn](/en/post/turn/) [of](/en/post/of/) events.
-- "[Sense](/en/post/sense/) [of](/en/post/of/) humor": [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [perceive](/en/post/perceive/), [enjoy](/en/post/enjoy/), [or](/en/post/or/) [express](/en/post/express/) [what](/en/post/what/) is comical, amusing, [or](/en/post/or/) absurd.
+- "[A](/post/a/) [humorous](/post/humorous/) anecdote": [A](/post/a/) [short](/post/short/) amusing [story](/post/story/) [often](/post/often/) told [to](/post/to/) [entertain](/post/entertain/) others.
+- "[Humorous](/post/humorous/) [twist](/post/twist/)": An [unexpected](/post/unexpected/) [and](/post/and/) comical [turn](/post/turn/) [of](/post/of/) events.
+- "[Sense](/post/sense/) [of](/post/of/) humor": [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [perceive](/post/perceive/), [enjoy](/post/enjoy/), [or](/post/or/) [express](/post/express/) [what](/post/what/) is comical, amusing, [or](/post/or/) absurd.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) comedian delivered [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [humorous](/en/post/humorous/) jokes [that](/en/post/that/) had [the](/en/post/the/) [audience](/en/post/audience/) [in](/en/post/in/) stitches."
-- "[Her](/en/post/her/) [humorous](/en/post/humorous/) [approach](/en/post/approach/) [to](/en/post/to/) life's challenges helped [her](/en/post/her/) [stay](/en/post/stay/) [positive](/en/post/positive/) [even](/en/post/even/) [during](/en/post/during/) [difficult](/en/post/difficult/) times."
-- "[With](/en/post/with/) [his](/en/post/his/) [quick](/en/post/quick/) [wit](/en/post/wit/) [and](/en/post/and/) [humorous](/en/post/humorous/) quips, [he](/en/post/he/) [easily](/en/post/easily/) became [the](/en/post/the/) [life](/en/post/life/) [of](/en/post/of/) [the](/en/post/the/) [party](/en/post/party/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) comedian delivered [a](/post/a/) [series](/post/series/) [of](/post/of/) [humorous](/post/humorous/) jokes [that](/post/that/) had [the](/post/the/) [audience](/post/audience/) [in](/post/in/) stitches."
+- "[Her](/post/her/) [humorous](/post/humorous/) [approach](/post/approach/) [to](/post/to/) life's challenges helped [her](/post/her/) [stay](/post/stay/) [positive](/post/positive/) [even](/post/even/) [during](/post/during/) [difficult](/post/difficult/) times."
+- "[With](/post/with/) [his](/post/his/) [quick](/post/quick/) [wit](/post/wit/) [and](/post/and/) [humorous](/post/humorous/) quips, [he](/post/he/) [easily](/post/easily/) became [the](/post/the/) [life](/post/life/) [of](/post/of/) [the](/post/the/) [party](/post/party/)."
 
 ## Synonyms
 - Amusing
 - Comical
-- [Funny](/en/post/funny/)
+- [Funny](/post/funny/)
 - Witty
 - Hilarious
 - Jovial

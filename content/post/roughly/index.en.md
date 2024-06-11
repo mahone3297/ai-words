@@ -7,35 +7,35 @@ description = '[ˈrʌfli] ad.粗糙地，粗略地'
 keywords = ['ai words', 'roughly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rʌˈkli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: 1. [With](/en/post/with/) roughness [or](/en/post/or/) [approximate](/en/post/approximate/) [accuracy](/en/post/accuracy/); [not](/en/post/not/) precisely [or](/en/post/or/) [exactly](/en/post/exactly/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) estimated [the](/en/post/the/) [distance](/en/post/distance/) [roughly](/en/post/roughly/)."
-   - **[Adjective](/en/post/adjective/)**: 1. Having [a](/en/post/a/) [general](/en/post/general/) [or](/en/post/or/) [approximate](/en/post/approximate/) [quality](/en/post/quality/); [not](/en/post/not/) [exact](/en/post/exact/) [or](/en/post/or/) [precise](/en/post/precise/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) measurements were [roughly](/en/post/roughly/) [correct](/en/post/correct/)."
-   - **[Adverb](/en/post/adverb/)**: 2. Coarsely; [roughly](/en/post/roughly/) handled [or](/en/post/or/) treated. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) children were [roughly](/en/post/roughly/) handled [by](/en/post/by/) [their](/en/post/their/) parents."
+- **[Adverb](/post/adverb/)**: 1. [With](/post/with/) roughness [or](/post/or/) [approximate](/post/approximate/) [accuracy](/post/accuracy/); [not](/post/not/) precisely [or](/post/or/) [exactly](/post/exactly/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) estimated [the](/post/the/) [distance](/post/distance/) [roughly](/post/roughly/)."
+   - **[Adjective](/post/adjective/)**: 1. Having [a](/post/a/) [general](/post/general/) [or](/post/or/) [approximate](/post/approximate/) [quality](/post/quality/); [not](/post/not/) [exact](/post/exact/) [or](/post/or/) [precise](/post/precise/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) measurements were [roughly](/post/roughly/) [correct](/post/correct/)."
+   - **[Adverb](/post/adverb/)**: 2. Coarsely; [roughly](/post/roughly/) handled [or](/post/or/) treated. [For](/post/for/) [example](/post/example/): "[The](/post/the/) children were [roughly](/post/roughly/) handled [by](/post/by/) [their](/post/their/) parents."
 
 ## Phrases
-- "[Roughly](/en/post/roughly/) speaking" [means](/en/post/means/) [approximately](/en/post/approximately/) [or](/en/post/or/) [generally](/en/post/generally/).
-- "[Roughly](/en/post/roughly/) estimated" indicates [a](/en/post/a/) [calculation](/en/post/calculation/) [or](/en/post/or/) approximation.
-- "[Roughly](/en/post/roughly/) dressed" describes someone's attire [being](/en/post/being/) untidy [or](/en/post/or/) [casual](/en/post/casual/).
+- "[Roughly](/post/roughly/) speaking" [means](/post/means/) [approximately](/post/approximately/) [or](/post/or/) [generally](/post/generally/).
+- "[Roughly](/post/roughly/) estimated" indicates [a](/post/a/) [calculation](/post/calculation/) [or](/post/or/) approximation.
+- "[Roughly](/post/roughly/) dressed" describes someone's attire [being](/post/being/) untidy [or](/post/or/) [casual](/post/casual/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I [can](/en/post/can/) [only](/en/post/only/) [roughly](/en/post/roughly/) [remember](/en/post/remember/) [the](/en/post/the/) details [of](/en/post/of/) [the](/en/post/the/) [event](/en/post/event/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) plans were [roughly](/en/post/roughly/) drawn [on](/en/post/on/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [paper](/en/post/paper/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [construction](/en/post/construction/) workers were [roughly](/en/post/roughly/) moving [heavy](/en/post/heavy/) materials [around](/en/post/around/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I [can](/post/can/) [only](/post/only/) [roughly](/post/roughly/) [remember](/post/remember/) [the](/post/the/) details [of](/post/of/) [the](/post/the/) [event](/post/event/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) plans were [roughly](/post/roughly/) drawn [on](/post/on/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [paper](/post/paper/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [construction](/post/construction/) workers were [roughly](/post/roughly/) moving [heavy](/post/heavy/) materials [around](/post/around/)."
 
 ## Synonyms
-- [Approximately](/en/post/approximately/)
-- [Estimate](/en/post/estimate/)
-- [Approximately](/en/post/approximately/)
+- [Approximately](/post/approximately/)
+- [Estimate](/post/estimate/)
+- [Approximately](/post/approximately/)
 - Coarsely
 - Carelessly
 - Guesstimate
 
 ## Antonyms
 - Precisely
-- [Exactly](/en/post/exactly/)
+- [Exactly](/post/exactly/)
 - Neatly
 - Tidily
 - Delicately

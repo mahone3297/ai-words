@@ -7,30 +7,30 @@ description = '[preə] n.祈祷，祈求'
 keywords = ['ai words', 'prayer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɛə(r)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. An invocation [or](/en/post/or/) [request](/en/post/request/) addressed [to](/en/post/to/) [a](/en/post/a/) deity [or](/en/post/or/) higher [power](/en/post/power/), [often](/en/post/often/) seeking [guidance](/en/post/guidance/), [comfort](/en/post/comfort/), [or](/en/post/or/) assistance. 2. [A](/en/post/a/) [formal](/en/post/formal/) [or](/en/post/or/) [solemn](/en/post/solemn/) [expression](/en/post/expression/) [of](/en/post/of/) thanks, [gratitude](/en/post/gratitude/), [or](/en/post/or/) devotion, typically [in](/en/post/in/) [religious](/en/post/religious/) [or](/en/post/or/) [spiritual](/en/post/spiritual/) contexts. 3. [A](/en/post/a/) [silent](/en/post/silent/) [or](/en/post/or/) [inward](/en/post/inward/) [thought](/en/post/thought/) [or](/en/post/or/) petition, [often](/en/post/often/) directed [to](/en/post/to/) God [or](/en/post/or/) [a](/en/post/a/) divine [being](/en/post/being/).
+- **[Noun](/post/noun/)**: 1. An invocation [or](/post/or/) [request](/post/request/) addressed [to](/post/to/) [a](/post/a/) deity [or](/post/or/) higher [power](/post/power/), [often](/post/often/) seeking [guidance](/post/guidance/), [comfort](/post/comfort/), [or](/post/or/) assistance. 2. [A](/post/a/) [formal](/post/formal/) [or](/post/or/) [solemn](/post/solemn/) [expression](/post/expression/) [of](/post/of/) thanks, [gratitude](/post/gratitude/), [or](/post/or/) devotion, typically [in](/post/in/) [religious](/post/religious/) [or](/post/or/) [spiritual](/post/spiritual/) contexts. 3. [A](/post/a/) [silent](/post/silent/) [or](/post/or/) [inward](/post/inward/) [thought](/post/thought/) [or](/post/or/) petition, [often](/post/often/) directed [to](/post/to/) God [or](/post/or/) [a](/post/a/) divine [being](/post/being/).
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [utter](/en/post/utter/) [or](/en/post/or/) [perform](/en/post/perform/) [a](/en/post/a/) [prayer](/en/post/prayer/), [usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) [religious](/en/post/religious/) [or](/en/post/or/) [spiritual](/en/post/spiritual/) context.
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) expressing prayerful feelings [or](/en/post/or/) thoughts.
+- **[Verb](/post/verb/)**: [To](/post/to/) [utter](/post/utter/) [or](/post/or/) [perform](/post/perform/) [a](/post/a/) [prayer](/post/prayer/), [usually](/post/usually/) [in](/post/in/) [a](/post/a/) [religious](/post/religious/) [or](/post/or/) [spiritual](/post/spiritual/) context.
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) expressing prayerful feelings [or](/post/or/) thoughts.
 
 ## Phrases
-- "[Say](/en/post/say/) [a](/en/post/a/) [prayer](/en/post/prayer/)" ([to](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) divine [help](/en/post/help/) [or](/en/post/or/) intervention)
-- "[Prayer](/en/post/prayer/) [time](/en/post/time/)" ([a](/en/post/a/) designated [period](/en/post/period/) [for](/en/post/for/) [prayer](/en/post/prayer/), [especially](/en/post/especially/) [in](/en/post/in/) [religious](/en/post/religious/) traditions)
-- "Prayerful [silence](/en/post/silence/)" ([a](/en/post/a/) [moment](/en/post/moment/) [of](/en/post/of/) [quiet](/en/post/quiet/) [reflection](/en/post/reflection/) [and](/en/post/and/) meditation)
-- "[Pray](/en/post/pray/) [for](/en/post/for/) [someone](/en/post/someone/)" ([to](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) [their](/en/post/their/) well-being [or](/en/post/or/) [protection](/en/post/protection/))
+- "[Say](/post/say/) [a](/post/a/) [prayer](/post/prayer/)" ([to](/post/to/) [ask](/post/ask/) [for](/post/for/) divine [help](/post/help/) [or](/post/or/) intervention)
+- "[Prayer](/post/prayer/) [time](/post/time/)" ([a](/post/a/) designated [period](/post/period/) [for](/post/for/) [prayer](/post/prayer/), [especially](/post/especially/) [in](/post/in/) [religious](/post/religious/) traditions)
+- "Prayerful [silence](/post/silence/)" ([a](/post/a/) [moment](/post/moment/) [of](/post/of/) [quiet](/post/quiet/) [reflection](/post/reflection/) [and](/post/and/) meditation)
+- "[Pray](/post/pray/) [for](/post/for/) [someone](/post/someone/)" ([to](/post/to/) [ask](/post/ask/) [for](/post/for/) [their](/post/their/) well-being [or](/post/or/) [protection](/post/protection/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) finishing [her](/en/post/her/) [meal](/en/post/meal/), [she](/en/post/she/) took [a](/en/post/a/) [moment](/en/post/moment/) [to](/en/post/to/) silently [pray](/en/post/pray/) [before](/en/post/before/) leaving [the](/en/post/the/) [restaurant](/en/post/restaurant/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [priest](/en/post/priest/) led [the](/en/post/the/) congregation [in](/en/post/in/) reciting [the](/en/post/the/) Lord's [Prayer](/en/post/prayer/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) serene [face](/en/post/face/) reflected [a](/en/post/a/) prayerful calmness [during](/en/post/during/) [the](/en/post/the/) [storm](/en/post/storm/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) finishing [her](/post/her/) [meal](/post/meal/), [she](/post/she/) took [a](/post/a/) [moment](/post/moment/) [to](/post/to/) silently [pray](/post/pray/) [before](/post/before/) leaving [the](/post/the/) [restaurant](/post/restaurant/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [priest](/post/priest/) led [the](/post/the/) congregation [in](/post/in/) reciting [the](/post/the/) Lord's [Prayer](/post/prayer/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) serene [face](/post/face/) reflected [a](/post/a/) prayerful calmness [during](/post/during/) [the](/post/the/) [storm](/post/storm/)."
 
 ## Synonyms
 - Supplication
 - Invocation
 - Devotion
-- Fervent [request](/en/post/request/)
+- Fervent [request](/post/request/)
 - Benediction
-- Amen ([as](/en/post/as/) [a](/en/post/a/) [response](/en/post/response/) [or](/en/post/or/) [conclusion](/en/post/conclusion/) [to](/en/post/to/) [a](/en/post/a/) [prayer](/en/post/prayer/))
+- Amen ([as](/post/as/) [a](/post/a/) [response](/post/response/) [or](/post/or/) [conclusion](/post/conclusion/) [to](/post/to/) [a](/post/a/) [prayer](/post/prayer/))

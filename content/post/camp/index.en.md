@@ -7,48 +7,48 @@ description = '[kæmp] n.野营，营地，兵营'
 keywords = ['ai words', 'camp']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kæmp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [people](/en/post/people/) [stay](/en/post/stay/), [often](/en/post/often/) [during](/en/post/during/) holidays [or](/en/post/or/) [outdoor](/en/post/outdoor/) activities, [usually](/en/post/usually/) [with](/en/post/with/) tents, shelters, [and](/en/post/and/) recreational facilities.
-   [Example](/en/post/example/): "[We](/en/post/we/) went [on](/en/post/on/) [a](/en/post/a/) camping [trip](/en/post/trip/) [in](/en/post/in/) [the](/en/post/the/) mountains."
-2. An organized [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/), [especially](/en/post/especially/) children, participating [in](/en/post/in/) [outdoor](/en/post/outdoor/) activities [or](/en/post/or/) [training](/en/post/training/), [often](/en/post/often/) [during](/en/post/during/) [vacation](/en/post/vacation/).
-   [Example](/en/post/example/): "[The](/en/post/the/) [summer](/en/post/summer/) [camp](/en/post/camp/) was filled [with](/en/post/with/) [fun](/en/post/fun/) games [and](/en/post/and/) [adventure](/en/post/adventure/)."
-3. [Military](/en/post/military/) [or](/en/post/or/) [training](/en/post/training/) quarters, [especially](/en/post/especially/) [for](/en/post/for/) [temporary](/en/post/temporary/) [accommodation](/en/post/accommodation/).
-   [Example](/en/post/example/): "[The](/en/post/the/) soldiers were billeted [in](/en/post/in/) [a](/en/post/a/) [large](/en/post/large/) [camp](/en/post/camp/) [during](/en/post/during/) [their](/en/post/their/) deployment."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [place](/post/place/) [where](/post/where/) [people](/post/people/) [stay](/post/stay/), [often](/post/often/) [during](/post/during/) holidays [or](/post/or/) [outdoor](/post/outdoor/) activities, [usually](/post/usually/) [with](/post/with/) tents, shelters, [and](/post/and/) recreational facilities.
+   [Example](/post/example/): "[We](/post/we/) went [on](/post/on/) [a](/post/a/) camping [trip](/post/trip/) [in](/post/in/) [the](/post/the/) mountains."
+2. An organized [group](/post/group/) [of](/post/of/) [people](/post/people/), [especially](/post/especially/) children, participating [in](/post/in/) [outdoor](/post/outdoor/) activities [or](/post/or/) [training](/post/training/), [often](/post/often/) [during](/post/during/) [vacation](/post/vacation/).
+   [Example](/post/example/): "[The](/post/the/) [summer](/post/summer/) [camp](/post/camp/) was filled [with](/post/with/) [fun](/post/fun/) games [and](/post/and/) [adventure](/post/adventure/)."
+3. [Military](/post/military/) [or](/post/or/) [training](/post/training/) quarters, [especially](/post/especially/) [for](/post/for/) [temporary](/post/temporary/) [accommodation](/post/accommodation/).
+   [Example](/post/example/): "[The](/post/the/) soldiers were billeted [in](/post/in/) [a](/post/a/) [large](/post/large/) [camp](/post/camp/) [during](/post/during/) [their](/post/their/) deployment."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/) [in](/en/post/in/) [a](/en/post/a/) [camp](/en/post/camp/), [often](/en/post/often/) [for](/en/post/for/) recreation [or](/en/post/or/) [training](/en/post/training/).
-   [Example](/en/post/example/): "[The](/en/post/the/) [family](/en/post/family/) decided [to](/en/post/to/) [camp](/en/post/camp/) [out](/en/post/out/) [by](/en/post/by/) [the](/en/post/the/) [lake](/en/post/lake/) [this](/en/post/this/) [weekend](/en/post/weekend/)."
-2. [To](/en/post/to/) [set](/en/post/set/) [up](/en/post/up/) [or](/en/post/or/) [organize](/en/post/organize/) [a](/en/post/a/) campsite.
-   [Example](/en/post/example/): "[They](/en/post/they/) [quickly](/en/post/quickly/) camped [themselves](/en/post/themselves/) [near](/en/post/near/) [the](/en/post/the/) [river](/en/post/river/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [spend](/post/spend/) [time](/post/time/) [in](/post/in/) [a](/post/a/) [camp](/post/camp/), [often](/post/often/) [for](/post/for/) recreation [or](/post/or/) [training](/post/training/).
+   [Example](/post/example/): "[The](/post/the/) [family](/post/family/) decided [to](/post/to/) [camp](/post/camp/) [out](/post/out/) [by](/post/by/) [the](/post/the/) [lake](/post/lake/) [this](/post/this/) [weekend](/post/weekend/)."
+2. [To](/post/to/) [set](/post/set/) [up](/post/up/) [or](/post/or/) [organize](/post/organize/) [a](/post/a/) campsite.
+   [Example](/post/example/): "[They](/post/they/) [quickly](/post/quickly/) camped [themselves](/post/themselves/) [near](/post/near/) [the](/post/the/) [river](/post/river/)."
 
-### [Noun](/en/post/noun/) (informal)
-1. Informal [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) friends [or](/en/post/or/) acquaintances gathered [together](/en/post/together/), [often](/en/post/often/) [for](/en/post/for/) socializing.
-   [Example](/en/post/example/): "[A](/en/post/a/) [bunch](/en/post/bunch/) [of](/en/post/of/) [us](/en/post/us/) camped [out](/en/post/out/) [at](/en/post/at/) [the](/en/post/the/) [park](/en/post/park/) [for](/en/post/for/) [a](/en/post/a/) barbecue."
+### [Noun](/post/noun/) (informal)
+1. Informal [term](/post/term/) [for](/post/for/) [a](/post/a/) [group](/post/group/) [of](/post/of/) friends [or](/post/or/) acquaintances gathered [together](/post/together/), [often](/post/often/) [for](/post/for/) socializing.
+   [Example](/post/example/): "[A](/post/a/) [bunch](/post/bunch/) [of](/post/of/) [us](/post/us/) camped [out](/post/out/) [at](/post/at/) [the](/post/the/) [park](/post/park/) [for](/post/for/) [a](/post/a/) barbecue."
 
-### [Verb](/en/post/verb/) (informal)
-1. [To](/en/post/to/) [hang](/en/post/hang/) [out](/en/post/out/) [or](/en/post/or/) congregate informally [with](/en/post/with/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) friends.
-   [Example](/en/post/example/): "[We](/en/post/we/) camped [at](/en/post/at/) [the](/en/post/the/) [park](/en/post/park/) [to](/en/post/to/) [catch](/en/post/catch/) [up](/en/post/up/) [after](/en/post/after/) [not](/en/post/not/) seeing [each](/en/post/each/) [other](/en/post/other/) [for](/en/post/for/) months."
+### [Verb](/post/verb/) (informal)
+1. [To](/post/to/) [hang](/post/hang/) [out](/post/out/) [or](/post/or/) congregate informally [with](/post/with/) [a](/post/a/) [group](/post/group/) [of](/post/of/) friends.
+   [Example](/post/example/): "[We](/post/we/) camped [at](/post/at/) [the](/post/the/) [park](/post/park/) [to](/post/to/) [catch](/post/catch/) [up](/post/up/) [after](/post/after/) [not](/post/not/) seeing [each](/post/each/) [other](/post/other/) [for](/post/for/) months."
 
 ## Phrases
-- "[Go](/en/post/go/) camping" [or](/en/post/or/) "camping [trip](/en/post/trip/)" refers [to](/en/post/to/) [a](/en/post/a/) [leisure](/en/post/leisure/) [activity](/en/post/activity/) [outdoors](/en/post/outdoors/).
-- "Campsite" is [the](/en/post/the/) designated [area](/en/post/area/) [for](/en/post/for/) [setting](/en/post/setting/) [up](/en/post/up/) [a](/en/post/a/) [camp](/en/post/camp/).
-- "Campfire stories" are tales told [around](/en/post/around/) [a](/en/post/a/) [fire](/en/post/fire/) [during](/en/post/during/) [a](/en/post/a/) camping gathering.
+- "[Go](/post/go/) camping" [or](/post/or/) "camping [trip](/post/trip/)" refers [to](/post/to/) [a](/post/a/) [leisure](/post/leisure/) [activity](/post/activity/) [outdoors](/post/outdoors/).
+- "Campsite" is [the](/post/the/) designated [area](/post/area/) [for](/post/for/) [setting](/post/setting/) [up](/post/up/) [a](/post/a/) [camp](/post/camp/).
+- "Campfire stories" are tales told [around](/post/around/) [a](/post/a/) [fire](/post/fire/) [during](/post/during/) [a](/post/a/) camping gathering.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) [set](/en/post/set/) [up](/en/post/up/) [our](/en/post/our/) [tent](/en/post/tent/) [at](/en/post/at/) [the](/en/post/the/) campsite [and](/en/post/and/) roasted marshmallows [over](/en/post/over/) [the](/en/post/the/) campfire."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [Boy](/en/post/boy/) Scouts [learned](/en/post/learned/) survival skills [during](/en/post/during/) [their](/en/post/their/) week-long [camp](/en/post/camp/)."
-- **Informal [Noun](/en/post/noun/)**: "[A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) friends camped [in](/en/post/in/) [the](/en/post/the/) backyard [to](/en/post/to/) [watch](/en/post/watch/) [the](/en/post/the/) stars."
-- **Informal [Verb](/en/post/verb/)**: "[After](/en/post/after/) [work](/en/post/work/), [we](/en/post/we/) camped [at](/en/post/at/) [the](/en/post/the/) [bar](/en/post/bar/) [to](/en/post/to/) unwind."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) [set](/post/set/) [up](/post/up/) [our](/post/our/) [tent](/post/tent/) [at](/post/at/) [the](/post/the/) campsite [and](/post/and/) roasted marshmallows [over](/post/over/) [the](/post/the/) campfire."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [Boy](/post/boy/) Scouts [learned](/post/learned/) survival skills [during](/post/during/) [their](/post/their/) week-long [camp](/post/camp/)."
+- **Informal [Noun](/post/noun/)**: "[A](/post/a/) [group](/post/group/) [of](/post/of/) friends camped [in](/post/in/) [the](/post/the/) backyard [to](/post/to/) [watch](/post/watch/) [the](/post/the/) stars."
+- **Informal [Verb](/post/verb/)**: "[After](/post/after/) [work](/post/work/), [we](/post/we/) camped [at](/post/at/) [the](/post/the/) [bar](/post/bar/) [to](/post/to/) unwind."
 
 ## Synonyms
-- Tented [accommodation](/en/post/accommodation/)
-- [Outdoor](/en/post/outdoor/) [retreat](/en/post/retreat/)
-- [Retreat](/en/post/retreat/) center
+- Tented [accommodation](/post/accommodation/)
+- [Outdoor](/post/outdoor/) [retreat](/post/retreat/)
+- [Retreat](/post/retreat/) center
 - Encampment
-- [Base](/en/post/base/) [camp](/en/post/camp/)
+- [Base](/post/base/) [camp](/post/camp/)
 - Quarters
-- [Lodge](/en/post/lodge/) (informal)
+- [Lodge](/post/lodge/) (informal)

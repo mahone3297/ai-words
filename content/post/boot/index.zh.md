@@ -11,26 +11,26 @@ keywords = ['ai words', 'boot']
 /buːt/
 
 ## 释义
-- **名词 (n)**: 鞋子，尤指靴子。例如: "[He](/post/he/) [put](/post/put/) [on](/post/on/) [his](/post/his/) [new](/post/new/) [leather](/post/leather/) boots [for](/post/for/) [the](/post/the/) hike."
-- **名词**: 计算机术语，启动。例如: "[The](/post/the/) [computer](/post/computer/) failed [to](/post/to/) [boot](/post/boot/) [up](/post/up/) [properly](/post/properly/)."
-- **动词 (v)**: 穿上（靴子）。例如: "[She](/post/she/) booted [on](/post/on/) [her](/post/her/) [snow](/post/snow/) boots [before](/post/before/) going [outside](/post/outside/)."
-- **动词**: 将（人）踢出或驱逐。例如: "[The](/post/the/) [player](/post/player/) was booted [from](/post/from/) [the](/post/the/) [team](/post/team/) [for](/post/for/) unsportsmanlike [conduct](/post/conduct/)."
-- **名词**: 车辆后备箱。例如: "[We](/post/we/) stored [our](/post/our/) [luggage](/post/luggage/) [in](/post/in/) [the](/post/the/) car's [boot](/post/boot/)."
+- **名词 (n)**: 鞋子，尤指靴子。例如: "[He](/zh/post/he/) [put](/zh/post/put/) [on](/zh/post/on/) [his](/zh/post/his/) [new](/zh/post/new/) [leather](/zh/post/leather/) boots [for](/zh/post/for/) [the](/zh/post/the/) hike."
+- **名词**: 计算机术语，启动。例如: "[The](/zh/post/the/) [computer](/zh/post/computer/) failed [to](/zh/post/to/) [boot](/zh/post/boot/) [up](/zh/post/up/) [properly](/zh/post/properly/)."
+- **动词 (v)**: 穿上（靴子）。例如: "[She](/zh/post/she/) booted [on](/zh/post/on/) [her](/zh/post/her/) [snow](/zh/post/snow/) boots [before](/zh/post/before/) going [outside](/zh/post/outside/)."
+- **动词**: 将（人）踢出或驱逐。例如: "[The](/zh/post/the/) [player](/zh/post/player/) was booted [from](/zh/post/from/) [the](/zh/post/the/) [team](/zh/post/team/) [for](/zh/post/for/) unsportsmanlike [conduct](/zh/post/conduct/)."
+- **名词**: 车辆后备箱。例如: "[We](/zh/post/we/) stored [our](/zh/post/our/) [luggage](/zh/post/luggage/) [in](/zh/post/in/) [the](/zh/post/the/) car's [boot](/zh/post/boot/)."
 
 ## 短语
-- "[Boot](/post/boot/) [up](/post/up/)" 启动（电脑或其他电子设备）。
-- "[Boot](/post/boot/) [out](/post/out/)" 驱逐或赶走某人。
-- "[Boot](/post/boot/) [sale](/post/sale/)" 清仓大甩卖。
+- "[Boot](/zh/post/boot/) [up](/zh/post/up/)" 启动（电脑或其他电子设备）。
+- "[Boot](/zh/post/boot/) [out](/zh/post/out/)" 驱逐或赶走某人。
+- "[Boot](/zh/post/boot/) [sale](/zh/post/sale/)" 清仓大甩卖。
 
 ## 例句
-- 名词: "[The](/post/the/) cowboy wore [a](/post/a/) [pair](/post/pair/) [of](/post/of/) worn-out boots."
-- 动词（穿靴子）: "[He](/post/he/) booted [on](/post/on/) [his](/post/his/) hiking boots [and](/post/and/) started [the](/post/the/) [trail](/post/trail/)."
-- 动词（启动）: "[The](/post/the/) [computer](/post/computer/) took longer [than](/post/than/) [usual](/post/usual/) [to](/post/to/) [boot](/post/boot/)."
-- 动词（驱逐）: "[The](/post/the/) [security](/post/security/) [guard](/post/guard/) booted [the](/post/the/) troublemaker [from](/post/from/) [the](/post/the/) premises."
+- 名词: "[The](/zh/post/the/) cowboy wore [a](/zh/post/a/) [pair](/zh/post/pair/) [of](/zh/post/of/) worn-out boots."
+- 动词（穿靴子）: "[He](/zh/post/he/) booted [on](/zh/post/on/) [his](/zh/post/his/) hiking boots [and](/zh/post/and/) started [the](/zh/post/the/) [trail](/zh/post/trail/)."
+- 动词（启动）: "[The](/zh/post/the/) [computer](/zh/post/computer/) took longer [than](/zh/post/than/) [usual](/zh/post/usual/) [to](/zh/post/to/) [boot](/zh/post/boot/)."
+- 动词（驱逐）: "[The](/zh/post/the/) [security](/zh/post/security/) [guard](/zh/post/guard/) booted [the](/zh/post/the/) troublemaker [from](/zh/post/from/) [the](/zh/post/the/) premises."
 
 ## 同义词
-- [Shoe](/post/shoe/)
+- [Shoe](/zh/post/shoe/)
 - Footwear
-- [Kick](/post/kick/) [out](/post/out/)
+- [Kick](/zh/post/kick/) [out](/zh/post/out/)
 - Expel
 - Eject

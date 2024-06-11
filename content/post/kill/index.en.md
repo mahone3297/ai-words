@@ -7,33 +7,33 @@ description = '[kil] vi.杀死；扼杀；消磨'
 keywords = ['ai words', 'kill']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɪl/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [cause](/en/post/cause/) [the](/en/post/the/) [death](/en/post/death/) [of](/en/post/of/) ([a](/en/post/a/) [person](/en/post/person/), [animal](/en/post/animal/), [or](/en/post/or/) [other](/en/post/other/) [living](/en/post/living/) [thing](/en/post/thing/)) intentionally [or](/en/post/or/) unintentionally; [to](/en/post/to/) [put](/en/post/put/) an [end](/en/post/end/) [to](/en/post/to/) something's [existence](/en/post/existence/) [or](/en/post/or/) functioning. _For [example](/en/post/example/):_ "[The](/en/post/the/) hunter killed [the](/en/post/the/) [deer](/en/post/deer/) [with](/en/post/with/) [a](/en/post/a/) [single](/en/post/single/) [shot](/en/post/shot/)."
-  - _figurative usage_: "[She](/en/post/she/) killed [her](/en/post/her/) chances [of](/en/post/of/) promotion [by](/en/post/by/) making [that](/en/post/that/) [mistake](/en/post/mistake/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [destroy](/en/post/destroy/) [or](/en/post/or/) neutralize [bacteria](/en/post/bacteria/), germs, [or](/en/post/or/) viruses, [often](/en/post/often/) [by](/en/post/by/) [chemical](/en/post/chemical/) [or](/en/post/or/) [heat](/en/post/heat/) [treatment](/en/post/treatment/). _Example:_ "Boiling [water](/en/post/water/) kills [most](/en/post/most/) [harmful](/en/post/harmful/) [bacteria](/en/post/bacteria/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [severely](/en/post/severely/) [affect](/en/post/affect/) [someone](/en/post/someone/) emotionally; [to](/en/post/to/) devastate [or](/en/post/or/) deeply [upset](/en/post/upset/). _Example:_ "[The](/en/post/the/) [news](/en/post/news/) [of](/en/post/of/) [her](/en/post/her/) father's [death](/en/post/death/) killed [her](/en/post/her/) spirits."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) causing [death](/en/post/death/) [or](/en/post/or/) [destruction](/en/post/destruction/); [a](/en/post/a/) killing. _Example:_ "[There](/en/post/there/) was [a](/en/post/a/) brutal [murder](/en/post/murder/), [and](/en/post/and/) [the](/en/post/the/) [police](/en/post/police/) are investigating [the](/en/post/the/) [kill](/en/post/kill/)."
-- **[Noun](/en/post/noun/)** (informal): [A](/en/post/a/) [successful](/en/post/successful/) [or](/en/post/or/) [impressive](/en/post/impressive/) [achievement](/en/post/achievement/). _Example:_ "[That](/en/post/that/) [goal](/en/post/goal/) was an [absolute](/en/post/absolute/) [kill](/en/post/kill/) [in](/en/post/in/) [the](/en/post/the/) [match](/en/post/match/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [cause](/post/cause/) [the](/post/the/) [death](/post/death/) [of](/post/of/) ([a](/post/a/) [person](/post/person/), [animal](/post/animal/), [or](/post/or/) [other](/post/other/) [living](/post/living/) [thing](/post/thing/)) intentionally [or](/post/or/) unintentionally; [to](/post/to/) [put](/post/put/) an [end](/post/end/) [to](/post/to/) something's [existence](/post/existence/) [or](/post/or/) functioning. _For [example](/post/example/):_ "[The](/post/the/) hunter killed [the](/post/the/) [deer](/post/deer/) [with](/post/with/) [a](/post/a/) [single](/post/single/) [shot](/post/shot/)."
+  - _figurative usage_: "[She](/post/she/) killed [her](/post/her/) chances [of](/post/of/) promotion [by](/post/by/) making [that](/post/that/) [mistake](/post/mistake/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [destroy](/post/destroy/) [or](/post/or/) neutralize [bacteria](/post/bacteria/), germs, [or](/post/or/) viruses, [often](/post/often/) [by](/post/by/) [chemical](/post/chemical/) [or](/post/or/) [heat](/post/heat/) [treatment](/post/treatment/). _Example:_ "Boiling [water](/post/water/) kills [most](/post/most/) [harmful](/post/harmful/) [bacteria](/post/bacteria/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [severely](/post/severely/) [affect](/post/affect/) [someone](/post/someone/) emotionally; [to](/post/to/) devastate [or](/post/or/) deeply [upset](/post/upset/). _Example:_ "[The](/post/the/) [news](/post/news/) [of](/post/of/) [her](/post/her/) father's [death](/post/death/) killed [her](/post/her/) spirits."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) causing [death](/post/death/) [or](/post/or/) [destruction](/post/destruction/); [a](/post/a/) killing. _Example:_ "[There](/post/there/) was [a](/post/a/) brutal [murder](/post/murder/), [and](/post/and/) [the](/post/the/) [police](/post/police/) are investigating [the](/post/the/) [kill](/post/kill/)."
+- **[Noun](/post/noun/)** (informal): [A](/post/a/) [successful](/post/successful/) [or](/post/or/) [impressive](/post/impressive/) [achievement](/post/achievement/). _Example:_ "[That](/post/that/) [goal](/post/goal/) was an [absolute](/post/absolute/) [kill](/post/kill/) [in](/post/in/) [the](/post/the/) [match](/post/match/)."
 
 ## Phrases
-- "[Kill](/en/post/kill/) [two](/en/post/two/) birds [with](/en/post/with/) [one](/en/post/one/) [stone](/en/post/stone/)" [means](/en/post/means/) [to](/en/post/to/) [achieve](/en/post/achieve/) [two](/en/post/two/) objectives [with](/en/post/with/) [a](/en/post/a/) [single](/en/post/single/) [action](/en/post/action/).
-- "[Make](/en/post/make/) [a](/en/post/a/) [kill](/en/post/kill/)" refers [to](/en/post/to/) [a](/en/post/a/) [successful](/en/post/successful/) [hunt](/en/post/hunt/) [or](/en/post/or/) accomplishment, [especially](/en/post/especially/) [in](/en/post/in/) [business](/en/post/business/).
-- "[Kill](/en/post/kill/) [time](/en/post/time/)" [means](/en/post/means/) [to](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/) [on](/en/post/on/) unproductive activities [while](/en/post/while/) waiting.
+- "[Kill](/post/kill/) [two](/post/two/) birds [with](/post/with/) [one](/post/one/) [stone](/post/stone/)" [means](/post/means/) [to](/post/to/) [achieve](/post/achieve/) [two](/post/two/) objectives [with](/post/with/) [a](/post/a/) [single](/post/single/) [action](/post/action/).
+- "[Make](/post/make/) [a](/post/a/) [kill](/post/kill/)" refers [to](/post/to/) [a](/post/a/) [successful](/post/successful/) [hunt](/post/hunt/) [or](/post/or/) accomplishment, [especially](/post/especially/) [in](/post/in/) [business](/post/business/).
+- "[Kill](/post/kill/) [time](/post/time/)" [means](/post/means/) [to](/post/to/) [spend](/post/spend/) [time](/post/time/) [on](/post/on/) unproductive activities [while](/post/while/) waiting.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [soldier](/en/post/soldier/) was ordered [to](/en/post/to/) [kill](/en/post/kill/) [the](/en/post/the/) [enemy](/en/post/enemy/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) detective pieced [together](/en/post/together/) [the](/en/post/the/) details [of](/en/post/of/) [the](/en/post/the/) [crime](/en/post/crime/) [scene](/en/post/scene/) [where](/en/post/where/) [the](/en/post/the/) [kill](/en/post/kill/) took [place](/en/post/place/)."
-- _Figurative usage_: "[The](/en/post/the/) [harsh](/en/post/harsh/) words [from](/en/post/from/) [his](/en/post/his/) [boss](/en/post/boss/) killed [any](/en/post/any/) [enthusiasm](/en/post/enthusiasm/) [he](/en/post/he/) had [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [soldier](/post/soldier/) was ordered [to](/post/to/) [kill](/post/kill/) [the](/post/the/) [enemy](/post/enemy/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) detective pieced [together](/post/together/) [the](/post/the/) details [of](/post/of/) [the](/post/the/) [crime](/post/crime/) [scene](/post/scene/) [where](/post/where/) [the](/post/the/) [kill](/post/kill/) took [place](/post/place/)."
+- _Figurative usage_: "[The](/post/the/) [harsh](/post/harsh/) words [from](/post/from/) [his](/post/his/) [boss](/post/boss/) killed [any](/post/any/) [enthusiasm](/post/enthusiasm/) [he](/post/he/) had [for](/post/for/) [the](/post/the/) [project](/post/project/)."
 
 ## Synonyms
-- [Murder](/en/post/murder/)
+- [Murder](/post/murder/)
 - Slay
 - Dispatch
-- [Destroy](/en/post/destroy/)
-- [End](/en/post/end/)
-- [Eliminate](/en/post/eliminate/) ([in](/en/post/in/) non-literal contexts)
-- Neutralize ([for](/en/post/for/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) eliminating germs [or](/en/post/or/) stopping [something](/en/post/something/) [from](/en/post/from/) functioning)
-- Decimate ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/) [of](/en/post/of/) devastating [something](/en/post/something/))
+- [Destroy](/post/destroy/)
+- [End](/post/end/)
+- [Eliminate](/post/eliminate/) ([in](/post/in/) non-literal contexts)
+- Neutralize ([for](/post/for/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) eliminating germs [or](/post/or/) stopping [something](/post/something/) [from](/post/from/) functioning)
+- Decimate ([in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/) [of](/post/of/) devastating [something](/post/something/))

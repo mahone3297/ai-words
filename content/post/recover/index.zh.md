@@ -12,25 +12,25 @@ keywords = ['ai words', 'recover']
 
 ## 释义
 - **动词**:
-  1. 恢复健康：如 "[He](/post/he/) is recovering [from](/post/from/) [a](/post/a/) [cold](/post/cold/)."
-  2. 恢复原状：如 "[The](/post/the/) [market](/post/market/) has recovered [after](/post/after/) [the](/post/the/) [economic](/post/economic/) downturn."
-  3. 找回失去的事物：如 "I managed [to](/post/to/) [recover](/post/recover/) [my](/post/my/) lost [wallet](/post/wallet/)."
-  4. 收回（如说过的话）：如 "[He](/post/he/) [quickly](/post/quickly/) recovered [his](/post/his/) words [after](/post/after/) realizing [his](/post/his/) [mistake](/post/mistake/)."
+  1. 恢复健康：如 "[He](/zh/post/he/) is recovering [from](/zh/post/from/) [a](/zh/post/a/) [cold](/zh/post/cold/)."
+  2. 恢复原状：如 "[The](/zh/post/the/) [market](/zh/post/market/) has recovered [after](/zh/post/after/) [the](/zh/post/the/) [economic](/zh/post/economic/) downturn."
+  3. 找回失去的事物：如 "I managed [to](/zh/post/to/) [recover](/zh/post/recover/) [my](/zh/post/my/) lost [wallet](/zh/post/wallet/)."
+  4. 收回（如说过的话）：如 "[He](/zh/post/he/) [quickly](/zh/post/quickly/) recovered [his](/zh/post/his/) words [after](/zh/post/after/) realizing [his](/zh/post/his/) [mistake](/zh/post/mistake/)."
 
 ## 短语
-- "[recover](/post/recover/) fully" 完全康复
-- "[recover](/post/recover/) one's senses" 恢复理智
-- "[recover](/post/recover/) costs" 回收成本
+- "[recover](/zh/post/recover/) fully" 完全康复
+- "[recover](/zh/post/recover/) one's senses" 恢复理智
+- "[recover](/zh/post/recover/) costs" 回收成本
 
 ## 例句
 - 动词: 
-  - "[After](/post/after/) [a](/post/a/) [week](/post/week/) [of](/post/of/) [rest](/post/rest/), [she](/post/she/) was [finally](/post/finally/) [able](/post/able/) [to](/post/to/) [recover](/post/recover/) [her](/post/her/) [strength](/post/strength/)."
-  - "[The](/post/the/) [company](/post/company/) hopes [to](/post/to/) [recover](/post/recover/) [its](/post/its/) losses [by](/post/by/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [year](/post/year/)."
-  - "[He](/post/he/) managed [to](/post/to/) [recover](/post/recover/) [the](/post/the/) stolen [painting](/post/painting/)."
+  - "[After](/zh/post/after/) [a](/zh/post/a/) [week](/zh/post/week/) [of](/zh/post/of/) [rest](/zh/post/rest/), [she](/zh/post/she/) was [finally](/zh/post/finally/) [able](/zh/post/able/) [to](/zh/post/to/) [recover](/zh/post/recover/) [her](/zh/post/her/) [strength](/zh/post/strength/)."
+  - "[The](/zh/post/the/) [company](/zh/post/company/) hopes [to](/zh/post/to/) [recover](/zh/post/recover/) [its](/zh/post/its/) losses [by](/zh/post/by/) [the](/zh/post/the/) [end](/zh/post/end/) [of](/zh/post/of/) [the](/zh/post/the/) [year](/zh/post/year/)."
+  - "[He](/zh/post/he/) managed [to](/zh/post/to/) [recover](/zh/post/recover/) [the](/zh/post/the/) stolen [painting](/zh/post/painting/)."
 
 ## 同义词
 - regain
-- [restore](/post/restore/)
+- [restore](/zh/post/restore/)
 - recuperate
-- [bounce](/post/bounce/) [back](/post/back/)
-- [come](/post/come/) [back](/post/back/)
+- [bounce](/zh/post/bounce/) [back](/zh/post/back/)
+- [come](/zh/post/come/) [back](/zh/post/back/)

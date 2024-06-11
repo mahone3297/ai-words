@@ -7,40 +7,40 @@ description = '[ˈdʒentli] ad.有礼貌地；柔和地'
 keywords = ['ai words', 'gently']
 +++
 
-## [Word](/en/post/word/): [Gently](/en/post/gently/)
+## [Word](/post/word/): [Gently](/post/gently/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒentli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [soft](/en/post/soft/), [mild](/en/post/mild/), [or](/en/post/or/) [smooth](/en/post/smooth/) [manner](/en/post/manner/); [without](/en/post/without/) roughness, [violence](/en/post/violence/), [or](/en/post/or/) suddenness. [It](/en/post/it/) [often](/en/post/often/) describes actions [that](/en/post/that/) are performed [with](/en/post/with/) [care](/en/post/care/) [or](/en/post/or/) [consideration](/en/post/consideration/).
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [soft](/post/soft/), [mild](/post/mild/), [or](/post/or/) [smooth](/post/smooth/) [manner](/post/manner/); [without](/post/without/) roughness, [violence](/post/violence/), [or](/post/or/) suddenness. [It](/post/it/) [often](/post/often/) describes actions [that](/post/that/) are performed [with](/post/with/) [care](/post/care/) [or](/post/or/) [consideration](/post/consideration/).
 
-[Example](/en/post/example/) [usage](/en/post/usage/):
+[Example](/post/example/) [usage](/post/usage/):
 
-- **Describing [Verb](/en/post/verb/)**: "[The](/en/post/the/) [mother](/en/post/mother/) stroked [her](/en/post/her/) [baby](/en/post/baby/) [gently](/en/post/gently/) [to](/en/post/to/) [sleep](/en/post/sleep/)."
-- "[He](/en/post/he/) closed [the](/en/post/the/) [door](/en/post/door/) [gently](/en/post/gently/) [so](/en/post/so/) [as](/en/post/as/) [not](/en/post/not/) [to](/en/post/to/) [disturb](/en/post/disturb/) [anyone](/en/post/anyone/)."
-- "[The](/en/post/the/) [breeze](/en/post/breeze/) blew [gently](/en/post/gently/) [through](/en/post/through/) [the](/en/post/the/) trees."
+- **Describing [Verb](/post/verb/)**: "[The](/post/the/) [mother](/post/mother/) stroked [her](/post/her/) [baby](/post/baby/) [gently](/post/gently/) [to](/post/to/) [sleep](/post/sleep/)."
+- "[He](/post/he/) closed [the](/post/the/) [door](/post/door/) [gently](/post/gently/) [so](/post/so/) [as](/post/as/) [not](/post/not/) [to](/post/to/) [disturb](/post/disturb/) [anyone](/post/anyone/)."
+- "[The](/post/the/) [breeze](/post/breeze/) blew [gently](/post/gently/) [through](/post/through/) [the](/post/the/) trees."
 
 ## Phrases
-- "[Gently](/en/post/gently/) does [it](/en/post/it/)": An [expression](/en/post/expression/) encouraging [someone](/en/post/someone/) [to](/en/post/to/) [act](/en/post/act/) carefully [or](/en/post/or/) [slowly](/en/post/slowly/).
-- "[Handle](/en/post/handle/) [with](/en/post/with/) [care](/en/post/care/)/gentleness": [To](/en/post/to/) [manage](/en/post/manage/) [or](/en/post/or/) [treat](/en/post/treat/) [something](/en/post/something/) ([or](/en/post/or/) [someone](/en/post/someone/)) [in](/en/post/in/) [a](/en/post/a/) [careful](/en/post/careful/) [and](/en/post/and/) [delicate](/en/post/delicate/) [manner](/en/post/manner/).
-- "[Gently](/en/post/gently/) [persuade](/en/post/persuade/)": [To](/en/post/to/) [convince](/en/post/convince/) [someone](/en/post/someone/) [softly](/en/post/softly/) [and](/en/post/and/) [with](/en/post/with/) sensitivity [rather](/en/post/rather/) [than](/en/post/than/) [force](/en/post/force/).
+- "[Gently](/post/gently/) does [it](/post/it/)": An [expression](/post/expression/) encouraging [someone](/post/someone/) [to](/post/to/) [act](/post/act/) carefully [or](/post/or/) [slowly](/post/slowly/).
+- "[Handle](/post/handle/) [with](/post/with/) [care](/post/care/)/gentleness": [To](/post/to/) [manage](/post/manage/) [or](/post/or/) [treat](/post/treat/) [something](/post/something/) ([or](/post/or/) [someone](/post/someone/)) [in](/post/in/) [a](/post/a/) [careful](/post/careful/) [and](/post/and/) [delicate](/post/delicate/) [manner](/post/manner/).
+- "[Gently](/post/gently/) [persuade](/post/persuade/)": [To](/post/to/) [convince](/post/convince/) [someone](/post/someone/) [softly](/post/softly/) [and](/post/and/) [with](/post/with/) sensitivity [rather](/post/rather/) [than](/post/than/) [force](/post/force/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: 
-  - "[The](/en/post/the/) [teacher](/en/post/teacher/) spoke [to](/en/post/to/) [the](/en/post/the/) [student](/en/post/student/) [gently](/en/post/gently/), trying [not](/en/post/not/) [to](/en/post/to/) [upset](/en/post/upset/) [them](/en/post/them/)."
-  - "[The](/en/post/the/) [surgeon](/en/post/surgeon/) manipulated [the](/en/post/the/) instruments [gently](/en/post/gently/) [during](/en/post/during/) [the](/en/post/the/) [operation](/en/post/operation/)."
-  - "[The](/en/post/the/) pianist played [the](/en/post/the/) melody [gently](/en/post/gently/), creating [a](/en/post/a/) soothing [atmosphere](/en/post/atmosphere/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: 
+  - "[The](/post/the/) [teacher](/post/teacher/) spoke [to](/post/to/) [the](/post/the/) [student](/post/student/) [gently](/post/gently/), trying [not](/post/not/) [to](/post/to/) [upset](/post/upset/) [them](/post/them/)."
+  - "[The](/post/the/) [surgeon](/post/surgeon/) manipulated [the](/post/the/) instruments [gently](/post/gently/) [during](/post/during/) [the](/post/the/) [operation](/post/operation/)."
+  - "[The](/post/the/) pianist played [the](/post/the/) melody [gently](/post/gently/), creating [a](/post/a/) soothing [atmosphere](/post/atmosphere/)."
 
 ## Synonyms
-- [Softly](/en/post/softly/)
+- [Softly](/post/softly/)
 - Mildly
 - Tenderly
 - Carefully
 - Delicately
 - Quietly
 - Calmly
-- [Smoothly](/en/post/smoothly/)
-- [Slowly](/en/post/slowly/)
-- [Easy](/en/post/easy/)
-- [Lightly](/en/post/lightly/)
+- [Smoothly](/post/smoothly/)
+- [Slowly](/post/slowly/)
+- [Easy](/post/easy/)
+- [Lightly](/post/lightly/)

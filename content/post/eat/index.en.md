@@ -7,32 +7,32 @@ description = '[iːt] vt.吃，喝 vi.吃饭'
 keywords = ['ai words', 'eat']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /eɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [consume](/en/post/consume/) [food](/en/post/food/); [to](/en/post/to/) [take](/en/post/take/) [in](/en/post/in/) [solid](/en/post/solid/) [or](/en/post/or/) [liquid](/en/post/liquid/) nourishment [into](/en/post/into/) one's [body](/en/post/body/) [by](/en/post/by/) chewing [and](/en/post/and/) swallowing [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) likes [to](/en/post/to/) [eat](/en/post/eat/) [breakfast](/en/post/breakfast/) [early](/en/post/early/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/)."
-- **[Verb](/en/post/verb/)**: (v) Figuratively, [to](/en/post/to/) devour [or](/en/post/or/) [destroy](/en/post/destroy/) [something](/en/post/something/) metaphorically. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [fire](/en/post/fire/) ate [through](/en/post/through/) [the](/en/post/the/) [wooden](/en/post/wooden/) [house](/en/post/house/)."
-- **[Verb](/en/post/verb/)**: (v) Informal, [to](/en/post/to/) [experience](/en/post/experience/) [defeat](/en/post/defeat/) [or](/en/post/or/) [loss](/en/post/loss/), [often](/en/post/often/) [in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [money](/en/post/money/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [bad](/en/post/bad/) [investment](/en/post/investment/) decisions ate [away](/en/post/away/) [at](/en/post/at/) [his](/en/post/his/) savings."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [consume](/post/consume/) [food](/post/food/); [to](/post/to/) [take](/post/take/) [in](/post/in/) [solid](/post/solid/) [or](/post/or/) [liquid](/post/liquid/) nourishment [into](/post/into/) one's [body](/post/body/) [by](/post/by/) chewing [and](/post/and/) swallowing [it](/post/it/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) likes [to](/post/to/) [eat](/post/eat/) [breakfast](/post/breakfast/) [early](/post/early/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- **[Verb](/post/verb/)**: (v) Figuratively, [to](/post/to/) devour [or](/post/or/) [destroy](/post/destroy/) [something](/post/something/) metaphorically. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [fire](/post/fire/) ate [through](/post/through/) [the](/post/the/) [wooden](/post/wooden/) [house](/post/house/)."
+- **[Verb](/post/verb/)**: (v) Informal, [to](/post/to/) [experience](/post/experience/) [defeat](/post/defeat/) [or](/post/or/) [loss](/post/loss/), [often](/post/often/) [in](/post/in/) [reference](/post/reference/) [to](/post/to/) [money](/post/money/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [bad](/post/bad/) [investment](/post/investment/) decisions ate [away](/post/away/) [at](/post/at/) [his](/post/his/) savings."
 
 ## Phrases
-- "[Eat](/en/post/eat/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) [finish](/en/post/finish/) [all](/en/post/all/) [the](/en/post/the/) [food](/en/post/food/) [on](/en/post/on/) one's [plate](/en/post/plate/) [or](/en/post/or/) [to](/en/post/to/) [encourage](/en/post/encourage/) [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/) [so](/en/post/so/). [Example](/en/post/example/): "[Eat](/en/post/eat/) [up](/en/post/up/) [your](/en/post/your/) vegetables [before](/en/post/before/) [you](/en/post/you/) [leave](/en/post/leave/) [the](/en/post/the/) [table](/en/post/table/)."
-- "[To](/en/post/to/) [have](/en/post/have/) eaten [someone](/en/post/someone/) [out](/en/post/out/) [of](/en/post/of/) [house](/en/post/house/) [and](/en/post/and/) [home](/en/post/home/)" is an idiomatic [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [consume](/en/post/consume/) [so](/en/post/so/) [much](/en/post/much/) [that](/en/post/that/) [it](/en/post/it/) has [a](/en/post/a/) [significant](/en/post/significant/) [impact](/en/post/impact/) [on](/en/post/on/) [the](/en/post/the/) host's resources. [Example](/en/post/example/): "[Their](/en/post/their/) teenage [son](/en/post/son/) had [almost](/en/post/almost/) eaten [them](/en/post/them/) [out](/en/post/out/) [of](/en/post/of/) [house](/en/post/house/) [and](/en/post/and/) [home](/en/post/home/)."
-- "[You](/en/post/you/) are [what](/en/post/what/) [you](/en/post/you/) [eat](/en/post/eat/)" suggests [that](/en/post/that/) one's [health](/en/post/health/) [and](/en/post/and/) well-being are determined [by](/en/post/by/) [the](/en/post/the/) [quality](/en/post/quality/) [and](/en/post/and/) [type](/en/post/type/) [of](/en/post/of/) [food](/en/post/food/) consumed.
+- "[Eat](/post/eat/) [up](/post/up/)" [means](/post/means/) [to](/post/to/) [finish](/post/finish/) [all](/post/all/) [the](/post/the/) [food](/post/food/) [on](/post/on/) one's [plate](/post/plate/) [or](/post/or/) [to](/post/to/) [encourage](/post/encourage/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [so](/post/so/). [Example](/post/example/): "[Eat](/post/eat/) [up](/post/up/) [your](/post/your/) vegetables [before](/post/before/) [you](/post/you/) [leave](/post/leave/) [the](/post/the/) [table](/post/table/)."
+- "[To](/post/to/) [have](/post/have/) eaten [someone](/post/someone/) [out](/post/out/) [of](/post/of/) [house](/post/house/) [and](/post/and/) [home](/post/home/)" is an idiomatic [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [consume](/post/consume/) [so](/post/so/) [much](/post/much/) [that](/post/that/) [it](/post/it/) has [a](/post/a/) [significant](/post/significant/) [impact](/post/impact/) [on](/post/on/) [the](/post/the/) host's resources. [Example](/post/example/): "[Their](/post/their/) teenage [son](/post/son/) had [almost](/post/almost/) eaten [them](/post/them/) [out](/post/out/) [of](/post/of/) [house](/post/house/) [and](/post/and/) [home](/post/home/)."
+- "[You](/post/you/) are [what](/post/what/) [you](/post/you/) [eat](/post/eat/)" suggests [that](/post/that/) one's [health](/post/health/) [and](/post/and/) well-being are determined [by](/post/by/) [the](/post/the/) [quality](/post/quality/) [and](/post/and/) [type](/post/type/) [of](/post/of/) [food](/post/food/) consumed.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([eat](/en/post/eat/) [food](/en/post/food/))**: "[They](/en/post/they/) sat [down](/en/post/down/) [to](/en/post/to/) [eat](/en/post/eat/) [dinner](/en/post/dinner/) [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/)."
-- **[Verb](/en/post/verb/) (figurative [use](/en/post/use/))**: "[Time](/en/post/time/) has eaten [into](/en/post/into/) [our](/en/post/our/) [project](/en/post/project/) deadline; [we](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [speed](/en/post/speed/) [up](/en/post/up/)."
-- **[Verb](/en/post/verb/) (informal [use](/en/post/use/))**: "Gambling losses were eating [into](/en/post/into/) [his](/en/post/his/) finances."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([eat](/post/eat/) [food](/post/food/))**: "[They](/post/they/) sat [down](/post/down/) [to](/post/to/) [eat](/post/eat/) [dinner](/post/dinner/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/)."
+- **[Verb](/post/verb/) (figurative [use](/post/use/))**: "[Time](/post/time/) has eaten [into](/post/into/) [our](/post/our/) [project](/post/project/) deadline; [we](/post/we/) [need](/post/need/) [to](/post/to/) [speed](/post/speed/) [up](/post/up/)."
+- **[Verb](/post/verb/) (informal [use](/post/use/))**: "Gambling losses were eating [into](/post/into/) [his](/post/his/) finances."
 
 ## Synonyms
-- [Consume](/en/post/consume/)
-- [Feast](/en/post/feast/)
+- [Consume](/post/consume/)
+- [Feast](/post/feast/)
 - Dine
 - Nibble
 - Devour
 - Chow (informal)
 - Munch
 - Graze
-- [Feed](/en/post/feed/)
+- [Feed](/post/feed/)
 - Sup (archaic)

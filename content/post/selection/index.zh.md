@@ -12,22 +12,22 @@ keywords = ['ai words', 'selection']
 
 ## 释义
 - **名词 n**:
-  - 选择；挑选：从一系列可能的人、事物或选项中进行的挑选。例如: "[She](/post/she/) made [her](/post/her/) [selection](/post/selection/) [from](/post/from/) [the](/post/the/) [menu](/post/menu/)."
-  - 部分；选集：某一主题或作者的作品精选。例如: "[The](/post/the/) museum's latest [exhibition](/post/exhibition/) is [a](/post/a/) [selection](/post/selection/) [of](/post/of/) Impressionist paintings."
-  - 招聘；选拔：在面试或竞赛中挑选出最佳候选人。例如: "[The](/post/the/) team's [selection](/post/selection/) [process](/post/process/) [for](/post/for/) [new](/post/new/) members is rigorous."
+  - 选择；挑选：从一系列可能的人、事物或选项中进行的挑选。例如: "[She](/zh/post/she/) made [her](/zh/post/her/) [selection](/zh/post/selection/) [from](/zh/post/from/) [the](/zh/post/the/) [menu](/zh/post/menu/)."
+  - 部分；选集：某一主题或作者的作品精选。例如: "[The](/zh/post/the/) museum's latest [exhibition](/zh/post/exhibition/) is [a](/zh/post/a/) [selection](/zh/post/selection/) [of](/zh/post/of/) Impressionist paintings."
+  - 招聘；选拔：在面试或竞赛中挑选出最佳候选人。例如: "[The](/zh/post/the/) team's [selection](/zh/post/selection/) [process](/zh/post/process/) [for](/zh/post/for/) [new](/zh/post/new/) members is rigorous."
 
 ## 短语
-- "[make](/post/make/) [a](/post/a/) [selection](/post/selection/)" 选择或决定一个选项。
-- "[selection](/post/selection/) criteria" 选择标准或准则。
-- "random [selection](/post/selection/)" 随机选择，无特定规律的选取。
+- "[make](/zh/post/make/) [a](/zh/post/a/) [selection](/zh/post/selection/)" 选择或决定一个选项。
+- "[selection](/zh/post/selection/) criteria" 选择标准或准则。
+- "random [selection](/zh/post/selection/)" 随机选择，无特定规律的选取。
 
 ## 例句
-- 名词: "[The](/post/the/) [store](/post/store/) offers [a](/post/a/) [wide](/post/wide/) [selection](/post/selection/) [of](/post/of/) [clothing](/post/clothing/) [for](/post/for/) [all](/post/all/) ages."
-- 名词: "[The](/post/the/) bookshop has [a](/post/a/) [good](/post/good/) [selection](/post/selection/) [of](/post/of/) second-hand books."
+- 名词: "[The](/zh/post/the/) [store](/zh/post/store/) offers [a](/zh/post/a/) [wide](/zh/post/wide/) [selection](/zh/post/selection/) [of](/zh/post/of/) [clothing](/zh/post/clothing/) [for](/zh/post/for/) [all](/zh/post/all/) ages."
+- 名词: "[The](/zh/post/the/) bookshop has [a](/zh/post/a/) [good](/zh/post/good/) [selection](/zh/post/selection/) [of](/zh/post/of/) second-hand books."
 
 ## 同义词
-- [Choice](/post/choice/)
-- [Option](/post/option/)
-- [Pick](/post/pick/)
-- [Alternative](/post/alternative/)
-- [Decision](/post/decision/)
+- [Choice](/zh/post/choice/)
+- [Option](/zh/post/option/)
+- [Pick](/zh/post/pick/)
+- [Alternative](/zh/post/alternative/)
+- [Decision](/zh/post/decision/)

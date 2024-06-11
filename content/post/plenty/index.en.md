@@ -7,32 +7,32 @@ description = '[ˈplenti] n.丰富，充足，大量'
 keywords = ['ai words', 'plenty']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /plenti/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [In](/en/post/in/) [large](/en/post/large/) [quantity](/en/post/quantity/); [abundant](/en/post/abundant/); copious. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was filled [with](/en/post/with/) [plenty](/en/post/plenty/) [of](/en/post/of/) flowers."
-- **[Noun](/en/post/noun/)**: An [adequate](/en/post/adequate/) [or](/en/post/or/) [sufficient](/en/post/sufficient/) [amount](/en/post/amount/) [or](/en/post/or/) [number](/en/post/number/); abundance. [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) was [plenty](/en/post/plenty/) [of](/en/post/of/) [food](/en/post/food/) [for](/en/post/for/) [everyone](/en/post/everyone/)."
+- **[Adjective](/post/adjective/)**: [In](/post/in/) [large](/post/large/) [quantity](/post/quantity/); [abundant](/post/abundant/); copious. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) [plenty](/post/plenty/) [of](/post/of/) flowers."
+- **[Noun](/post/noun/)**: An [adequate](/post/adequate/) [or](/post/or/) [sufficient](/post/sufficient/) [amount](/post/amount/) [or](/post/or/) [number](/post/number/); abundance. [For](/post/for/) [example](/post/example/): "[There](/post/there/) was [plenty](/post/plenty/) [of](/post/of/) [food](/post/food/) [for](/post/for/) [everyone](/post/everyone/)."
 
 ## Phrases
-- "[Plenty](/en/post/plenty/) [of](/en/post/of/)" is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [large](/en/post/large/) [quantity](/en/post/quantity/) [or](/en/post/or/) [many](/en/post/many/) examples. [For](/en/post/for/) [example](/en/post/example/): "[Plenty](/en/post/plenty/) [of](/en/post/of/) [people](/en/post/people/) came [to](/en/post/to/) [the](/en/post/the/) [event](/en/post/event/)."
-- "[In](/en/post/in/) [plenty](/en/post/plenty/)" [means](/en/post/means/) [in](/en/post/in/) [sufficient](/en/post/sufficient/) [supply](/en/post/supply/) [or](/en/post/or/) [quantity](/en/post/quantity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [store](/en/post/store/) had [everything](/en/post/everything/) [in](/en/post/in/) [plenty](/en/post/plenty/)."
+- "[Plenty](/post/plenty/) [of](/post/of/)" is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [large](/post/large/) [quantity](/post/quantity/) [or](/post/or/) [many](/post/many/) examples. [For](/post/for/) [example](/post/example/): "[Plenty](/post/plenty/) [of](/post/of/) [people](/post/people/) came [to](/post/to/) [the](/post/the/) [event](/post/event/)."
+- "[In](/post/in/) [plenty](/post/plenty/)" [means](/post/means/) [in](/post/in/) [sufficient](/post/sufficient/) [supply](/post/supply/) [or](/post/or/) [quantity](/post/quantity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [store](/post/store/) had [everything](/post/everything/) [in](/post/in/) [plenty](/post/plenty/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) had [plenty](/en/post/plenty/) [of](/en/post/of/) [time](/en/post/time/) [to](/en/post/to/) [finish](/en/post/finish/) [her](/en/post/her/) [work](/en/post/work/) [before](/en/post/before/) [the](/en/post/the/) deadline."
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) brought [plenty](/en/post/plenty/) [of](/en/post/of/) [water](/en/post/water/) [for](/en/post/for/) [our](/en/post/our/) hike [in](/en/post/in/) [the](/en/post/the/) mountains."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [restaurant](/en/post/restaurant/) offers [a](/en/post/a/) [wide](/en/post/wide/) [variety](/en/post/variety/) [of](/en/post/of/) dishes, [so](/en/post/so/) there's [plenty](/en/post/plenty/) [to](/en/post/to/) [choose](/en/post/choose/) [from](/en/post/from/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) had [plenty](/post/plenty/) [of](/post/of/) [time](/post/time/) [to](/post/to/) [finish](/post/finish/) [her](/post/her/) [work](/post/work/) [before](/post/before/) [the](/post/the/) deadline."
+- **[Noun](/post/noun/)**: "[We](/post/we/) brought [plenty](/post/plenty/) [of](/post/of/) [water](/post/water/) [for](/post/for/) [our](/post/our/) hike [in](/post/in/) [the](/post/the/) mountains."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) [restaurant](/post/restaurant/) offers [a](/post/a/) [wide](/post/wide/) [variety](/post/variety/) [of](/post/of/) dishes, [so](/post/so/) there's [plenty](/post/plenty/) [to](/post/to/) [choose](/post/choose/) [from](/post/from/)."
 
 ## Synonyms
 - Ample
-- [Abundant](/en/post/abundant/)
-- [Sufficient](/en/post/sufficient/)
+- [Abundant](/post/abundant/)
+- [Sufficient](/post/sufficient/)
 - Copious
-- [Generous](/en/post/generous/)
+- [Generous](/post/generous/)
 - Bountiful
 
 ## Antonyms
-- [Scarce](/en/post/scarce/)
-- [Insufficient](/en/post/insufficient/)
-- [Limited](/en/post/limited/)
+- [Scarce](/post/scarce/)
+- [Insufficient](/post/insufficient/)
+- [Limited](/post/limited/)
 - Sparse

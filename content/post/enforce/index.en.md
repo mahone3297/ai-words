@@ -7,38 +7,38 @@ description = '[inˈfɔːs] vt.实施，执行；强制'
 keywords = ['ai words', 'enforce']
 +++
 
-## [Word](/en/post/word/): [Enforce](/en/post/enforce/)
+## [Word](/post/word/): [Enforce](/post/enforce/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈfɔːrs/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [ensure](/en/post/ensure/) compliance [with](/en/post/with/) [or](/en/post/or/) obedience [to](/en/post/to/) [a](/en/post/a/) [law](/en/post/law/), [rule](/en/post/rule/), [or](/en/post/or/) [order](/en/post/order/) [by](/en/post/by/) exercising [authority](/en/post/authority/) [or](/en/post/or/) applying [pressure](/en/post/pressure/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [ensure](/post/ensure/) compliance [with](/post/with/) [or](/post/or/) obedience [to](/post/to/) [a](/post/a/) [law](/post/law/), [rule](/post/rule/), [or](/post/or/) [order](/post/order/) [by](/post/by/) exercising [authority](/post/authority/) [or](/post/or/) applying [pressure](/post/pressure/). 
 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): [The](/en/post/the/) [police](/en/post/police/) [will](/en/post/will/) [enforce](/en/post/enforce/) [traffic](/en/post/traffic/) regulations [strictly](/en/post/strictly/) [during](/en/post/during/) [the](/en/post/the/) [holiday](/en/post/holiday/) [season](/en/post/season/).
+  > [Example](/post/example/) [Sentence](/post/sentence/): [The](/post/the/) [police](/post/police/) [will](/post/will/) [enforce](/post/enforce/) [traffic](/post/traffic/) regulations [strictly](/post/strictly/) [during](/post/during/) [the](/post/the/) [holiday](/post/holiday/) [season](/post/season/).
   
-  - [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [happen](/en/post/happen/) [or](/en/post/or/) [be](/en/post/be/) [effective](/en/post/effective/) [through](/en/post/through/) determined [action](/en/post/action/) [or](/en/post/or/) insistence.
+  - [To](/post/to/) [make](/post/make/) [something](/post/something/) [happen](/post/happen/) [or](/post/or/) [be](/post/be/) [effective](/post/effective/) [through](/post/through/) determined [action](/post/action/) [or](/post/or/) insistence.
   
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): [The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [enforce](/en/post/enforce/) [a](/en/post/a/) [new](/en/post/new/) [dress](/en/post/dress/) [code](/en/post/code/) [policy](/en/post/policy/) starting [next](/en/post/next/) [month](/en/post/month/).
+  > [Example](/post/example/) [Sentence](/post/sentence/): [The](/post/the/) [company](/post/company/) decided [to](/post/to/) [enforce](/post/enforce/) [a](/post/a/) [new](/post/new/) [dress](/post/dress/) [code](/post/code/) [policy](/post/policy/) starting [next](/post/next/) [month](/post/month/).
 
 ## Phrases
-- "[Enforce](/en/post/enforce/) [the](/en/post/the/) [law](/en/post/law/)": [To](/en/post/to/) [act](/en/post/act/) [in](/en/post/in/) [accordance](/en/post/accordance/) [with](/en/post/with/) [legal](/en/post/legal/) [authority](/en/post/authority/) [to](/en/post/to/) [make](/en/post/make/) [sure](/en/post/sure/) [that](/en/post/that/) [people](/en/post/people/) [obey](/en/post/obey/) laws.
-- "[Enforce](/en/post/enforce/) [a](/en/post/a/) [rule](/en/post/rule/)": [To](/en/post/to/) [require](/en/post/require/) compliance [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [regulation](/en/post/regulation/) [or](/en/post/or/) guideline.
-- "[Enforce](/en/post/enforce/) [payment](/en/post/payment/)": [To](/en/post/to/) [compel](/en/post/compel/) [someone](/en/post/someone/) [to](/en/post/to/) [pay](/en/post/pay/) [what](/en/post/what/) [they](/en/post/they/) [owe](/en/post/owe/), [usually](/en/post/usually/) [through](/en/post/through/) [legal](/en/post/legal/) measures.
+- "[Enforce](/post/enforce/) [the](/post/the/) [law](/post/law/)": [To](/post/to/) [act](/post/act/) [in](/post/in/) [accordance](/post/accordance/) [with](/post/with/) [legal](/post/legal/) [authority](/post/authority/) [to](/post/to/) [make](/post/make/) [sure](/post/sure/) [that](/post/that/) [people](/post/people/) [obey](/post/obey/) laws.
+- "[Enforce](/post/enforce/) [a](/post/a/) [rule](/post/rule/)": [To](/post/to/) [require](/post/require/) compliance [with](/post/with/) [a](/post/a/) [particular](/post/particular/) [regulation](/post/regulation/) [or](/post/or/) guideline.
+- "[Enforce](/post/enforce/) [payment](/post/payment/)": [To](/post/to/) [compel](/post/compel/) [someone](/post/someone/) [to](/post/to/) [pay](/post/pay/) [what](/post/what/) [they](/post/they/) [owe](/post/owe/), [usually](/post/usually/) [through](/post/through/) [legal](/post/legal/) measures.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: [The](/en/post/the/) [school](/en/post/school/) [principal](/en/post/principal/) is enforcing stricter penalties [for](/en/post/for/) bullying [on](/en/post/on/) [campus](/en/post/campus/).
-- [The](/en/post/the/) [judge](/en/post/judge/) enforced [the](/en/post/the/) court's [decision](/en/post/decision/), ordering [the](/en/post/the/) defendant [to](/en/post/to/) [pay](/en/post/pay/) [the](/en/post/the/) damages [immediately](/en/post/immediately/).
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: [The](/post/the/) [school](/post/school/) [principal](/post/principal/) is enforcing stricter penalties [for](/post/for/) bullying [on](/post/on/) [campus](/post/campus/).
+- [The](/post/the/) [judge](/post/judge/) enforced [the](/post/the/) court's [decision](/post/decision/), ordering [the](/post/the/) defendant [to](/post/to/) [pay](/post/pay/) [the](/post/the/) damages [immediately](/post/immediately/).
 
 ## Synonyms
 - Implement
 - Uphold
-- [Apply](/en/post/apply/)
-- [Impose](/en/post/impose/)
-- [Insist](/en/post/insist/) [upon](/en/post/upon/)
+- [Apply](/post/apply/)
+- [Impose](/post/impose/)
+- [Insist](/post/insist/) [upon](/post/upon/)
 - Mandate
-- [Execute](/en/post/execute/)
-- [Police](/en/post/police/)
-- [Maintain](/en/post/maintain/)
-- Comply [with](/en/post/with/)
-- [See](/en/post/see/) [to](/en/post/to/) [it](/en/post/it/) ([that](/en/post/that/))
+- [Execute](/post/execute/)
+- [Police](/post/police/)
+- [Maintain](/post/maintain/)
+- Comply [with](/post/with/)
+- [See](/post/see/) [to](/post/to/) [it](/post/it/) ([that](/post/that/))

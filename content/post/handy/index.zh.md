@@ -11,20 +11,20 @@ keywords = ['ai words', 'handy']
 /hændi/
 
 ## 释义
-- **形容词**: 方便的，易于使用的。例如: "[This](/post/this/) [new](/post/new/) gadget is [really](/post/really/) [handy](/post/handy/) [for](/post/for/) organizing [your](/post/your/) [desk](/post/desk/)."
-- **名词**: 手艺人，技工。例如: "[My](/post/my/) [grandfather](/post/grandfather/) was [a](/post/a/) [skilled](/post/skilled/) handyman [who](/post/who/) [could](/post/could/) [fix](/post/fix/) [anything](/post/anything/)."
+- **形容词**: 方便的，易于使用的。例如: "[This](/zh/post/this/) [new](/zh/post/new/) gadget is [really](/zh/post/really/) [handy](/zh/post/handy/) [for](/zh/post/for/) organizing [your](/zh/post/your/) [desk](/zh/post/desk/)."
+- **名词**: 手艺人，技工。例如: "[My](/zh/post/my/) [grandfather](/zh/post/grandfather/) was [a](/zh/post/a/) [skilled](/zh/post/skilled/) handyman [who](/zh/post/who/) [could](/zh/post/could/) [fix](/zh/post/fix/) [anything](/zh/post/anything/)."
 
 ## 短语
-- "[handy](/post/handy/) [man](/post/man/)/[woman](/post/woman/)" 指擅长修理和做手工活的人。
-- "[at](/post/at/) [hand](/post/hand/)" 表示在附近或可随时使用。例如: "I [always](/post/always/) [keep](/post/keep/) [a](/post/a/) first-aid kit [handy](/post/handy/) [in](/post/in/) [case](/post/case/) [of](/post/of/) emergencies."
+- "[handy](/zh/post/handy/) [man](/zh/post/man/)/[woman](/zh/post/woman/)" 指擅长修理和做手工活的人。
+- "[at](/zh/post/at/) [hand](/zh/post/hand/)" 表示在附近或可随时使用。例如: "I [always](/zh/post/always/) [keep](/zh/post/keep/) [a](/zh/post/a/) first-aid kit [handy](/zh/post/handy/) [in](/zh/post/in/) [case](/zh/post/case/) [of](/zh/post/of/) emergencies."
 
 ## 例句
-- 形容词: "[The](/post/the/) [portable](/post/portable/) charger is [really](/post/really/) [handy](/post/handy/) [when](/post/when/) traveling."
-- 名词: "[She](/post/she/) hired [a](/post/a/) handyman [to](/post/to/) [fix](/post/fix/) [the](/post/the/) leaky faucet."
+- 形容词: "[The](/zh/post/the/) [portable](/zh/post/portable/) charger is [really](/zh/post/really/) [handy](/zh/post/handy/) [when](/zh/post/when/) traveling."
+- 名词: "[She](/zh/post/she/) hired [a](/zh/post/a/) handyman [to](/zh/post/to/) [fix](/zh/post/fix/) [the](/zh/post/the/) leaky faucet."
 
 ## 同义词
-- [Convenient](/post/convenient/)
-- [Practical](/post/practical/)
+- [Convenient](/zh/post/convenient/)
+- [Practical](/zh/post/practical/)
 - User-friendly
 - Accessible
 - Easy-to-use

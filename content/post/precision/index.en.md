@@ -7,40 +7,40 @@ description = '[priˈsiʒən] n.精确，精密，精密度'
 keywords = ['ai words', 'precision']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈriːʃn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Precision](/en/post/precision/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [accuracy](/en/post/accuracy/) [of](/en/post/of/) [being](/en/post/being/) [exact](/en/post/exact/) [or](/en/post/or/) [free](/en/post/free/) [from](/en/post/from/) [error](/en/post/error/), [especially](/en/post/especially/) [in](/en/post/in/) [measurement](/en/post/measurement/) [or](/en/post/or/) manufacturing. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [careful](/en/post/careful/) [attention](/en/post/attention/) [to](/en/post/to/) [detail](/en/post/detail/) [or](/en/post/or/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [perform](/en/post/perform/) tasks [with](/en/post/with/) [great](/en/post/great/) [accuracy](/en/post/accuracy/).
+### [Noun](/post/noun/)
+**[Precision](/post/precision/)** ([noun](/post/noun/)): [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [accuracy](/post/accuracy/) [of](/post/of/) [being](/post/being/) [exact](/post/exact/) [or](/post/or/) [free](/post/free/) [from](/post/from/) [error](/post/error/), [especially](/post/especially/) [in](/post/in/) [measurement](/post/measurement/) [or](/post/or/) manufacturing. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [careful](/post/careful/) [attention](/post/attention/) [to](/post/to/) [detail](/post/detail/) [or](/post/or/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [perform](/post/perform/) tasks [with](/post/with/) [great](/post/great/) [accuracy](/post/accuracy/).
 
-**[Example](/en/post/example/):** "[The](/en/post/the/) laser-guided [missile](/en/post/missile/) demonstrated [remarkable](/en/post/remarkable/) [precision](/en/post/precision/) [in](/en/post/in/) hitting [its](/en/post/its/) [target](/en/post/target/)."
+**[Example](/post/example/):** "[The](/post/the/) laser-guided [missile](/post/missile/) demonstrated [remarkable](/post/remarkable/) [precision](/post/precision/) [in](/post/in/) hitting [its](/post/its/) [target](/post/target/)."
 
-### [Verb](/en/post/verb/)
-**[To](/en/post/to/) [be](/en/post/be/) [precise](/en/post/precise/)** ([phrase](/en/post/phrase/)): [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [clear](/en/post/clear/), [exact](/en/post/exact/), [or](/en/post/or/) [specific](/en/post/specific/) [description](/en/post/description/) [or](/en/post/or/) [statement](/en/post/statement/), [often](/en/post/often/) [to](/en/post/to/) [avoid](/en/post/avoid/) ambiguity.
+### [Verb](/post/verb/)
+**[To](/post/to/) [be](/post/be/) [precise](/post/precise/)** ([phrase](/post/phrase/)): [To](/post/to/) [give](/post/give/) [a](/post/a/) [clear](/post/clear/), [exact](/post/exact/), [or](/post/or/) [specific](/post/specific/) [description](/post/description/) [or](/post/or/) [statement](/post/statement/), [often](/post/often/) [to](/post/to/) [avoid](/post/avoid/) ambiguity.
 
-**[Example](/en/post/example/):** "[In](/en/post/in/) [science](/en/post/science/), it's [essential](/en/post/essential/) [to](/en/post/to/) [be](/en/post/be/) [precise](/en/post/precise/) [when](/en/post/when/) reporting [experimental](/en/post/experimental/) results."
+**[Example](/post/example/):** "[In](/post/in/) [science](/post/science/), it's [essential](/post/essential/) [to](/post/to/) [be](/post/be/) [precise](/post/precise/) [when](/post/when/) reporting [experimental](/post/experimental/) results."
 
-### [Adjective](/en/post/adjective/)
-**Precision-oriented** ([adjective](/en/post/adjective/)): Characterized [by](/en/post/by/) [a](/en/post/a/) [strong](/en/post/strong/) [focus](/en/post/focus/) [on](/en/post/on/) [accuracy](/en/post/accuracy/) [and](/en/post/and/) [attention](/en/post/attention/) [to](/en/post/to/) [detail](/en/post/detail/).
+### [Adjective](/post/adjective/)
+**Precision-oriented** ([adjective](/post/adjective/)): Characterized [by](/post/by/) [a](/post/a/) [strong](/post/strong/) [focus](/post/focus/) [on](/post/on/) [accuracy](/post/accuracy/) [and](/post/and/) [attention](/post/attention/) [to](/post/to/) [detail](/post/detail/).
 
-**[Example](/en/post/example/):** "[This](/en/post/this/) [new](/en/post/new/) manufacturing [process](/en/post/process/) is designed [to](/en/post/to/) [be](/en/post/be/) [highly](/en/post/highly/) precision-oriented."
+**[Example](/post/example/):** "[This](/post/this/) [new](/post/new/) manufacturing [process](/post/process/) is designed [to](/post/to/) [be](/post/be/) [highly](/post/highly/) precision-oriented."
 
 ## Phrases
-- "Achieving [high](/en/post/high/) [precision](/en/post/precision/)" [means](/en/post/means/) reaching [a](/en/post/a/) [level](/en/post/level/) [of](/en/post/of/) [accuracy](/en/post/accuracy/) [that](/en/post/that/) is exceptional.
-- "[Precision](/en/post/precision/) [engineering](/en/post/engineering/)" refers [to](/en/post/to/) [the](/en/post/the/) specialized [design](/en/post/design/) [and](/en/post/and/) [manufacture](/en/post/manufacture/) [of](/en/post/of/) components [with](/en/post/with/) [very](/en/post/very/) [tight](/en/post/tight/) tolerances.
-- "[A](/en/post/a/) [precision](/en/post/precision/) [instrument](/en/post/instrument/)" is [a](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) is [extremely](/en/post/extremely/) [accurate](/en/post/accurate/).
+- "Achieving [high](/post/high/) [precision](/post/precision/)" [means](/post/means/) reaching [a](/post/a/) [level](/post/level/) [of](/post/of/) [accuracy](/post/accuracy/) [that](/post/that/) is exceptional.
+- "[Precision](/post/precision/) [engineering](/post/engineering/)" refers [to](/post/to/) [the](/post/the/) specialized [design](/post/design/) [and](/post/and/) [manufacture](/post/manufacture/) [of](/post/of/) components [with](/post/with/) [very](/post/very/) [tight](/post/tight/) tolerances.
+- "[A](/post/a/) [precision](/post/precision/) [instrument](/post/instrument/)" is [a](/post/a/) [device](/post/device/) [that](/post/that/) is [extremely](/post/extremely/) [accurate](/post/accurate/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [surgeon](/en/post/surgeon/) aimed [for](/en/post/for/) surgical [precision](/en/post/precision/) [to](/en/post/to/) minimize [damage](/en/post/damage/) [to](/en/post/to/) surrounding [tissue](/en/post/tissue/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) explained [the](/en/post/the/) calculations [with](/en/post/with/) [great](/en/post/great/) [precision](/en/post/precision/) [to](/en/post/to/) [ensure](/en/post/ensure/) [everyone](/en/post/everyone/) understood."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) watchmaker prides [himself](/en/post/himself/) [on](/en/post/on/) [the](/en/post/the/) [precision](/en/post/precision/) [of](/en/post/of/) [his](/en/post/his/) timepieces."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [surgeon](/post/surgeon/) aimed [for](/post/for/) surgical [precision](/post/precision/) [to](/post/to/) minimize [damage](/post/damage/) [to](/post/to/) surrounding [tissue](/post/tissue/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) explained [the](/post/the/) calculations [with](/post/with/) [great](/post/great/) [precision](/post/precision/) [to](/post/to/) [ensure](/post/ensure/) [everyone](/post/everyone/) understood."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) watchmaker prides [himself](/post/himself/) [on](/post/on/) [the](/post/the/) [precision](/post/precision/) [of](/post/of/) [his](/post/his/) timepieces."
 
 ## Synonyms
-- [Accuracy](/en/post/accuracy/)
+- [Accuracy](/post/accuracy/)
 - Exactness
 - Finesse
 - Rigor
 - Delicacy
-- [Tolerance](/en/post/tolerance/)
+- [Tolerance](/post/tolerance/)
 - Carefulness

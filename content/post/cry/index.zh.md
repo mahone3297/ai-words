@@ -11,20 +11,20 @@ keywords = ['ai words', 'cry']
 /kaɪ/
 
 ## 释义
-- **动词**: 哭泣；叫喊。例如: "[The](/post/the/) [baby](/post/baby/) was crying [because](/post/because/) [it](/post/it/) was [hungry](/post/hungry/)."
-- **名词**: 哭声；叫声。例如: "I heard [a](/post/a/) [faint](/post/faint/) [cry](/post/cry/) [in](/post/in/) [the](/post/the/) [distance](/post/distance/)."
+- **动词**: 哭泣；叫喊。例如: "[The](/zh/post/the/) [baby](/zh/post/baby/) was crying [because](/zh/post/because/) [it](/zh/post/it/) was [hungry](/zh/post/hungry/)."
+- **名词**: 哭声；叫声。例如: "I heard [a](/zh/post/a/) [faint](/zh/post/faint/) [cry](/zh/post/cry/) [in](/zh/post/in/) [the](/zh/post/the/) [distance](/zh/post/distance/)."
 
 ## 短语
-- "[to](/post/to/) [cry](/post/cry/) [out](/post/out/)" 大声呼喊或哭泣。例如: "[She](/post/she/) cried [out](/post/out/) [for](/post/for/) [help](/post/help/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [the](/post/the/) intruder."
-- "[to](/post/to/) [cry](/post/cry/) one's eyes [out](/post/out/)" 哭得很厉害。例如: "[After](/post/after/) [the](/post/the/) breakup, [she](/post/she/) cried [her](/post/her/) eyes [out](/post/out/) [all](/post/all/) [night](/post/night/)."
+- "[to](/zh/post/to/) [cry](/zh/post/cry/) [out](/zh/post/out/)" 大声呼喊或哭泣。例如: "[She](/zh/post/she/) cried [out](/zh/post/out/) [for](/zh/post/for/) [help](/zh/post/help/) [when](/zh/post/when/) [she](/zh/post/she/) [saw](/zh/post/saw/) [the](/zh/post/the/) intruder."
+- "[to](/zh/post/to/) [cry](/zh/post/cry/) one's eyes [out](/zh/post/out/)" 哭得很厉害。例如: "[After](/zh/post/after/) [the](/zh/post/the/) breakup, [she](/zh/post/she/) cried [her](/zh/post/her/) eyes [out](/zh/post/out/) [all](/zh/post/all/) [night](/zh/post/night/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [child](/post/child/) was crying [because](/post/because/) [he](/post/he/) had fallen [and](/post/and/) [hurt](/post/hurt/) [his](/post/his/) [knee](/post/knee/)."
-- 名词: "[Their](/post/their/) cries [for](/post/for/) [help](/post/help/) [could](/post/could/) [be](/post/be/) heard [from](/post/from/) [the](/post/the/) [other](/post/other/) [side](/post/side/) [of](/post/of/) [the](/post/the/) [street](/post/street/)."
+- 动词: "[The](/zh/post/the/) [child](/zh/post/child/) was crying [because](/zh/post/because/) [he](/zh/post/he/) had fallen [and](/zh/post/and/) [hurt](/zh/post/hurt/) [his](/zh/post/his/) [knee](/zh/post/knee/)."
+- 名词: "[Their](/zh/post/their/) cries [for](/zh/post/for/) [help](/zh/post/help/) [could](/zh/post/could/) [be](/zh/post/be/) heard [from](/zh/post/from/) [the](/zh/post/the/) [other](/zh/post/other/) [side](/zh/post/side/) [of](/zh/post/of/) [the](/zh/post/the/) [street](/zh/post/street/)."
 
 ## 同义词
-- [weep](/post/weep/)
-- [sob](/post/sob/)
-- [shed](/post/shed/) tears
+- [weep](/zh/post/weep/)
+- [sob](/zh/post/sob/)
+- [shed](/zh/post/shed/) tears
 - bawl
 - wail

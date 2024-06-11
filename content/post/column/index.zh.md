@@ -11,22 +11,22 @@ keywords = ['ai words', 'column']
 /ˈkɒləm/
 
 ## 释义
-- **名词 (n)**: 1. 栏，列。例如: "[The](/post/the/) [newspaper](/post/newspaper/) has [several](/post/several/) columns [of](/post/of/) classified ads."  
-2. 柱，圆柱。例如: "[The](/post/the/) [ancient](/post/ancient/) [temple](/post/temple/) is supported [by](/post/by/) massive [stone](/post/stone/) columns."
-3. 栏目，固定专题。例如: "[She](/post/she/) writes [a](/post/a/) [weekly](/post/weekly/) [advice](/post/advice/) [column](/post/column/) [in](/post/in/) [the](/post/the/) [magazine](/post/magazine/)."
+- **名词 (n)**: 1. 栏，列。例如: "[The](/zh/post/the/) [newspaper](/zh/post/newspaper/) has [several](/zh/post/several/) columns [of](/zh/post/of/) classified ads."  
+2. 柱，圆柱。例如: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) [temple](/zh/post/temple/) is supported [by](/zh/post/by/) massive [stone](/zh/post/stone/) columns."
+3. 栏目，固定专题。例如: "[She](/zh/post/she/) writes [a](/zh/post/a/) [weekly](/zh/post/weekly/) [advice](/zh/post/advice/) [column](/zh/post/column/) [in](/zh/post/in/) [the](/zh/post/the/) [magazine](/zh/post/magazine/)."
 
 ## 短语
-- "[Column](/post/column/) [of](/post/of/) [text](/post/text/)" 指一列文字或印刷体。
-- "[Column](/post/column/) [inch](/post/inch/)" 在新闻业中，用来衡量文章长度的单位。
-- "[Support](/post/support/) [column](/post/column/)" 指建筑物中的支撑柱。
+- "[Column](/zh/post/column/) [of](/zh/post/of/) [text](/zh/post/text/)" 指一列文字或印刷体。
+- "[Column](/zh/post/column/) [inch](/zh/post/inch/)" 在新闻业中，用来衡量文章长度的单位。
+- "[Support](/zh/post/support/) [column](/zh/post/column/)" 指建筑物中的支撑柱。
 
 ## 例句
-- 名词: "[The](/post/the/) spreadsheet has [four](/post/four/) columns [for](/post/for/) [different](/post/different/) categories [of](/post/of/) expenses."
-- 名词: "[The](/post/the/) architect designed [a](/post/a/) [grand](/post/grand/) [entrance](/post/entrance/) [with](/post/with/) towering columns."
+- 名词: "[The](/zh/post/the/) spreadsheet has [four](/zh/post/four/) columns [for](/zh/post/for/) [different](/zh/post/different/) categories [of](/zh/post/of/) expenses."
+- 名词: "[The](/zh/post/the/) architect designed [a](/zh/post/a/) [grand](/zh/post/grand/) [entrance](/zh/post/entrance/) [with](/zh/post/with/) towering columns."
 
 ## 同义词
-- [Section](/post/section/)
-- [Division](/post/division/)
+- [Section](/zh/post/section/)
+- [Division](/zh/post/division/)
 - Category
-- [Pane](/post/pane/)
-- [Block](/post/block/)
+- [Pane](/zh/post/pane/)
+- [Block](/zh/post/block/)

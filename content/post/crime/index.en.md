@@ -7,23 +7,23 @@ description = '[kraim] n.罪，罪行；犯罪'
 keywords = ['ai words', 'crime']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kraɪm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. An [act](/en/post/act/) [that](/en/post/that/) violates laws, ethical principles, [or](/en/post/or/) [social](/en/post/social/) norms, [often](/en/post/often/) causing [harm](/en/post/harm/) [or](/en/post/or/) [loss](/en/post/loss/). 2. [A](/en/post/a/) [specific](/en/post/specific/) offense [against](/en/post/against/) [the](/en/post/the/) [law](/en/post/law/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [police](/en/post/police/) investigated [several](/en/post/several/) crimes [in](/en/post/in/) [the](/en/post/the/) neighborhood [last](/en/post/last/) [week](/en/post/week/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [commit](/en/post/commit/) [a](/en/post/a/) [crime](/en/post/crime/); [engage](/en/post/engage/) [in](/en/post/in/) [illegal](/en/post/illegal/) [or](/en/post/or/) unethical [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [thief](/en/post/thief/) was caught red-handed, having [just](/en/post/just/) committed [a](/en/post/a/) [crime](/en/post/crime/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [criminal](/en/post/criminal/) [behavior](/en/post/behavior/) [or](/en/post/or/) wrongdoings. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) has [a](/en/post/a/) [high](/en/post/high/) [crime](/en/post/crime/) [rate](/en/post/rate/)."
+- **[Noun](/post/noun/)**: 1. An [act](/post/act/) [that](/post/that/) violates laws, ethical principles, [or](/post/or/) [social](/post/social/) norms, [often](/post/often/) causing [harm](/post/harm/) [or](/post/or/) [loss](/post/loss/). 2. [A](/post/a/) [specific](/post/specific/) offense [against](/post/against/) [the](/post/the/) [law](/post/law/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [police](/post/police/) investigated [several](/post/several/) crimes [in](/post/in/) [the](/post/the/) neighborhood [last](/post/last/) [week](/post/week/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [commit](/post/commit/) [a](/post/a/) [crime](/post/crime/); [engage](/post/engage/) [in](/post/in/) [illegal](/post/illegal/) [or](/post/or/) unethical [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [thief](/post/thief/) was caught red-handed, having [just](/post/just/) committed [a](/post/a/) [crime](/post/crime/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [criminal](/post/criminal/) [behavior](/post/behavior/) [or](/post/or/) wrongdoings. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [city](/post/city/) has [a](/post/a/) [high](/post/high/) [crime](/post/crime/) [rate](/post/rate/)."
 
 ## Phrases
-- "[Crime](/en/post/crime/) prevention" refers [to](/en/post/to/) measures taken [to](/en/post/to/) [stop](/en/post/stop/) [or](/en/post/or/) [reduce](/en/post/reduce/) [criminal](/en/post/criminal/) [activity](/en/post/activity/).
-- "White-collar [crime](/en/post/crime/)" involves non-violent [financial](/en/post/financial/) offenses, [such](/en/post/such/) [as](/en/post/as/) fraud [or](/en/post/or/) embezzlement.
-- "[Crime](/en/post/crime/) [scene](/en/post/scene/) [investigation](/en/post/investigation/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) examining [a](/en/post/a/) [location](/en/post/location/) [where](/en/post/where/) [a](/en/post/a/) [crime](/en/post/crime/) has occurred.
+- "[Crime](/post/crime/) prevention" refers [to](/post/to/) measures taken [to](/post/to/) [stop](/post/stop/) [or](/post/or/) [reduce](/post/reduce/) [criminal](/post/criminal/) [activity](/post/activity/).
+- "White-collar [crime](/post/crime/)" involves non-violent [financial](/post/financial/) offenses, [such](/post/such/) [as](/post/as/) fraud [or](/post/or/) embezzlement.
+- "[Crime](/post/crime/) [scene](/post/scene/) [investigation](/post/investigation/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) examining [a](/post/a/) [location](/post/location/) [where](/post/where/) [a](/post/a/) [crime](/post/crime/) has occurred.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [bank](/en/post/bank/) [robbery](/en/post/robbery/) was [a](/en/post/a/) [serious](/en/post/serious/) [crime](/en/post/crime/) [that](/en/post/that/) shocked [the](/en/post/the/) [community](/en/post/community/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) criminals tried [to](/en/post/to/) [cover](/en/post/cover/) [their](/en/post/their/) tracks [after](/en/post/after/) committing [the](/en/post/the/) [crime](/en/post/crime/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) neighborhood's crime-ridden streets made residents [feel](/en/post/feel/) unsafe."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [bank](/post/bank/) [robbery](/post/robbery/) was [a](/post/a/) [serious](/post/serious/) [crime](/post/crime/) [that](/post/that/) shocked [the](/post/the/) [community](/post/community/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) criminals tried [to](/post/to/) [cover](/post/cover/) [their](/post/their/) tracks [after](/post/after/) committing [the](/post/the/) [crime](/post/crime/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) neighborhood's crime-ridden streets made residents [feel](/post/feel/) unsafe."
 
 ## Synonyms
 - Offense

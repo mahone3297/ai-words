@@ -7,41 +7,41 @@ description = '[pəˈsjuː] vt.追赶，追踪；进行'
 keywords = ['ai words', 'pursue']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /puːˈsaʊ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [follow](/en/post/follow/), [chase](/en/post/chase/), [or](/en/post/or/) [seek](/en/post/seek/) [after](/en/post/after/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) catching [or](/en/post/or/) obtaining; [to](/en/post/to/) [pursue](/en/post/pursue/) [a](/en/post/a/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/) [or](/en/post/or/) [a](/en/post/a/) [goal](/en/post/goal/). [n. 1] [v. transitive]
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) pursuing, [pursuit](/en/post/pursuit/), [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) pursued. [n. 2]
+- **[Verb](/post/verb/)**: [To](/post/to/) [follow](/post/follow/), [chase](/post/chase/), [or](/post/or/) [seek](/post/seek/) [after](/post/after/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) catching [or](/post/or/) obtaining; [to](/post/to/) [pursue](/post/pursue/) [a](/post/a/) [course](/post/course/) [of](/post/of/) [action](/post/action/) [or](/post/or/) [a](/post/a/) [goal](/post/goal/). [n. 1] [v. transitive]
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) pursuing, [pursuit](/post/pursuit/), [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) pursued. [n. 2]
 
 ## Phrases
-- "[Pursue](/en/post/pursue/) [a](/en/post/a/) [career](/en/post/career/)" [means](/en/post/means/) [to](/en/post/to/) [work](/en/post/work/) towards [a](/en/post/a/) chosen [profession](/en/post/profession/).
-- "[Pursue](/en/post/pursue/) an [education](/en/post/education/)" refers [to](/en/post/to/) continuing one's studies.
-- "[Pursuit](/en/post/pursuit/) [of](/en/post/of/) [happiness](/en/post/happiness/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) [from](/en/post/from/) [the](/en/post/the/) Declaration [of](/en/post/of/) [Independence](/en/post/independence/), referring [to](/en/post/to/) [the](/en/post/the/) [right](/en/post/right/) [to](/en/post/to/) [seek](/en/post/seek/) well-being.
+- "[Pursue](/post/pursue/) [a](/post/a/) [career](/post/career/)" [means](/post/means/) [to](/post/to/) [work](/post/work/) towards [a](/post/a/) chosen [profession](/post/profession/).
+- "[Pursue](/post/pursue/) an [education](/post/education/)" refers [to](/post/to/) continuing one's studies.
+- "[Pursuit](/post/pursuit/) [of](/post/of/) [happiness](/post/happiness/)" is [a](/post/a/) [phrase](/post/phrase/) [from](/post/from/) [the](/post/the/) Declaration [of](/post/of/) [Independence](/post/independence/), referring [to](/post/to/) [the](/post/the/) [right](/post/right/) [to](/post/to/) [seek](/post/seek/) well-being.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) detective decided [to](/en/post/to/) [pursue](/en/post/pursue/) [the](/en/post/the/) [criminal](/en/post/criminal/) [through](/en/post/through/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) lifelong [pursuit](/en/post/pursuit/) [of](/en/post/of/) [knowledge](/en/post/knowledge/) led [him](/en/post/him/) [to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) renowned [scholar](/en/post/scholar/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[After](/en/post/after/) graduating, [she](/en/post/she/) pursued [her](/en/post/her/) [passion](/en/post/passion/) [for](/en/post/for/) [art](/en/post/art/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) detective decided [to](/post/to/) [pursue](/post/pursue/) [the](/post/the/) [criminal](/post/criminal/) [through](/post/through/) [the](/post/the/) [city](/post/city/)."
+- **[Noun](/post/noun/)**: "[His](/post/his/) lifelong [pursuit](/post/pursuit/) [of](/post/of/) [knowledge](/post/knowledge/) led [him](/post/him/) [to](/post/to/) [become](/post/become/) [a](/post/a/) renowned [scholar](/post/scholar/)."
+- **Phrasal [Verb](/post/verb/)**: "[After](/post/after/) graduating, [she](/post/she/) pursued [her](/post/her/) [passion](/post/passion/) [for](/post/for/) [art](/post/art/)."
 
 ## Synonyms
-- [Chase](/en/post/chase/)
-- [Follow](/en/post/follow/)
-- [Hunt](/en/post/hunt/)
-- [Track](/en/post/track/)
-- [Seek](/en/post/seek/)
-- [Go](/en/post/go/) [after](/en/post/after/)
-- [Aim](/en/post/aim/) [for](/en/post/for/)
+- [Chase](/post/chase/)
+- [Follow](/post/follow/)
+- [Hunt](/post/hunt/)
+- [Track](/post/track/)
+- [Seek](/post/seek/)
+- [Go](/post/go/) [after](/post/after/)
+- [Aim](/post/aim/) [for](/post/for/)
 - Strive
 
 ## Antonyms
-- [Abandon](/en/post/abandon/)
+- [Abandon](/post/abandon/)
 - Desist
-- [Retreat](/en/post/retreat/)
-- [Avoid](/en/post/avoid/)
+- [Retreat](/post/retreat/)
+- [Avoid](/post/avoid/)
 - Forsake
 
 ## Idiomatic expressions
-- "[Pursue](/en/post/pursue/) relentlessly" - [to](/en/post/to/) [continue](/en/post/continue/) chasing [without](/en/post/without/) stopping.
-- "[Drop](/en/post/drop/) [pursuit](/en/post/pursuit/)" - [to](/en/post/to/) [stop](/en/post/stop/) actively trying [to](/en/post/to/) [catch](/en/post/catch/) [or](/en/post/or/) [find](/en/post/find/) [something](/en/post/something/).
-- "Lost [in](/en/post/in/) [pursuit](/en/post/pursuit/)" - deeply focused [or](/en/post/or/) absorbed [in](/en/post/in/) [a](/en/post/a/) [pursuit](/en/post/pursuit/).
+- "[Pursue](/post/pursue/) relentlessly" - [to](/post/to/) [continue](/post/continue/) chasing [without](/post/without/) stopping.
+- "[Drop](/post/drop/) [pursuit](/post/pursuit/)" - [to](/post/to/) [stop](/post/stop/) actively trying [to](/post/to/) [catch](/post/catch/) [or](/post/or/) [find](/post/find/) [something](/post/something/).
+- "Lost [in](/post/in/) [pursuit](/post/pursuit/)" - deeply focused [or](/post/or/) absorbed [in](/post/in/) [a](/post/a/) [pursuit](/post/pursuit/).

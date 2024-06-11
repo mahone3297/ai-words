@@ -7,43 +7,43 @@ description = '[beis] n.基础，底层；基地'
 keywords = ['ai words', 'base']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈzeɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Base](/en/post/base/)** ([in](/en/post/in/) [various](/en/post/various/) contexts):
-  - [A](/en/post/a/) [foundation](/en/post/foundation/) [or](/en/post/or/) starting [point](/en/post/point/); [a](/en/post/a/) [basic](/en/post/basic/) [component](/en/post/component/) [or](/en/post/or/) [structure](/en/post/structure/): "[The](/en/post/the/) [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [building](/en/post/building/) is based [on](/en/post/on/) [a](/en/post/a/) [strong](/en/post/strong/) [foundation](/en/post/foundation/)."
-  - [The](/en/post/the/) [bottom](/en/post/bottom/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) serving [as](/en/post/as/) [support](/en/post/support/): "[The](/en/post/the/) table's [base](/en/post/base/) is made [of](/en/post/of/) [solid](/en/post/solid/) [wood](/en/post/wood/)."
-  - [In](/en/post/in/) [chemistry](/en/post/chemistry/), [the](/en/post/the/) simplest [form](/en/post/form/) [of](/en/post/of/) [a](/en/post/a/) [molecule](/en/post/molecule/) [from](/en/post/from/) [which](/en/post/which/) [other](/en/post/other/) compounds [can](/en/post/can/) [be](/en/post/be/) derived: "Ethanol is [a](/en/post/a/) [simple](/en/post/simple/) [organic](/en/post/organic/) [base](/en/post/base/)."
-  - [In](/en/post/in/) sports, [the](/en/post/the/) [position](/en/post/position/) [or](/en/post/or/) [role](/en/post/role/) [a](/en/post/a/) [player](/en/post/player/) occupies: "[He](/en/post/he/) plays [as](/en/post/as/) [the](/en/post/the/) offensive [base](/en/post/base/) [for](/en/post/for/) [the](/en/post/the/) baseball [team](/en/post/team/)."
-  - [A](/en/post/a/) [reference](/en/post/reference/) [point](/en/post/point/) [or](/en/post/or/) benchmark: "[She](/en/post/she/) [set](/en/post/set/) [a](/en/post/a/) [high](/en/post/high/) [base](/en/post/base/) [standard](/en/post/standard/) [for](/en/post/for/) [her](/en/post/her/) students' [performance](/en/post/performance/)."
+### [Noun](/post/noun/)
+- **[Base](/post/base/)** ([in](/post/in/) [various](/post/various/) contexts):
+  - [A](/post/a/) [foundation](/post/foundation/) [or](/post/or/) starting [point](/post/point/); [a](/post/a/) [basic](/post/basic/) [component](/post/component/) [or](/post/or/) [structure](/post/structure/): "[The](/post/the/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [building](/post/building/) is based [on](/post/on/) [a](/post/a/) [strong](/post/strong/) [foundation](/post/foundation/)."
+  - [The](/post/the/) [bottom](/post/bottom/) [part](/post/part/) [of](/post/of/) [something](/post/something/), [often](/post/often/) serving [as](/post/as/) [support](/post/support/): "[The](/post/the/) table's [base](/post/base/) is made [of](/post/of/) [solid](/post/solid/) [wood](/post/wood/)."
+  - [In](/post/in/) [chemistry](/post/chemistry/), [the](/post/the/) simplest [form](/post/form/) [of](/post/of/) [a](/post/a/) [molecule](/post/molecule/) [from](/post/from/) [which](/post/which/) [other](/post/other/) compounds [can](/post/can/) [be](/post/be/) derived: "Ethanol is [a](/post/a/) [simple](/post/simple/) [organic](/post/organic/) [base](/post/base/)."
+  - [In](/post/in/) sports, [the](/post/the/) [position](/post/position/) [or](/post/or/) [role](/post/role/) [a](/post/a/) [player](/post/player/) occupies: "[He](/post/he/) plays [as](/post/as/) [the](/post/the/) offensive [base](/post/base/) [for](/post/for/) [the](/post/the/) baseball [team](/post/team/)."
+  - [A](/post/a/) [reference](/post/reference/) [point](/post/point/) [or](/post/or/) benchmark: "[She](/post/she/) [set](/post/set/) [a](/post/a/) [high](/post/high/) [base](/post/base/) [standard](/post/standard/) [for](/post/for/) [her](/post/her/) students' [performance](/post/performance/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [fix](/en/post/fix/) [as](/en/post/as/) [a](/en/post/a/) [basis](/en/post/basis/) [or](/en/post/or/) [foundation](/en/post/foundation/): "[They](/en/post/they/) based [their](/en/post/their/) [decision](/en/post/decision/) [on](/en/post/on/) [thorough](/en/post/thorough/) [research](/en/post/research/)."
-- [To](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) [the](/en/post/the/) starting [point](/en/post/point/) [or](/en/post/or/) [foundation](/en/post/foundation/) [for](/en/post/for/) [something](/en/post/something/): "[This](/en/post/this/) [project](/en/post/project/) [will](/en/post/will/) [base](/en/post/base/) [its](/en/post/its/) [success](/en/post/success/) [on](/en/post/on/) [user](/en/post/user/) [feedback](/en/post/feedback/)."
-- [To](/en/post/to/) [anchor](/en/post/anchor/) [or](/en/post/or/) [secure](/en/post/secure/) [something](/en/post/something/): "[The](/en/post/the/) [boat](/en/post/boat/) was securely based [on](/en/post/on/) [the](/en/post/the/) rocky [shore](/en/post/shore/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [establish](/post/establish/) [or](/post/or/) [fix](/post/fix/) [as](/post/as/) [a](/post/a/) [basis](/post/basis/) [or](/post/or/) [foundation](/post/foundation/): "[They](/post/they/) based [their](/post/their/) [decision](/post/decision/) [on](/post/on/) [thorough](/post/thorough/) [research](/post/research/)."
+- [To](/post/to/) [serve](/post/serve/) [as](/post/as/) [the](/post/the/) starting [point](/post/point/) [or](/post/or/) [foundation](/post/foundation/) [for](/post/for/) [something](/post/something/): "[This](/post/this/) [project](/post/project/) [will](/post/will/) [base](/post/base/) [its](/post/its/) [success](/post/success/) [on](/post/on/) [user](/post/user/) [feedback](/post/feedback/)."
+- [To](/post/to/) [anchor](/post/anchor/) [or](/post/or/) [secure](/post/secure/) [something](/post/something/): "[The](/post/the/) [boat](/post/boat/) was securely based [on](/post/on/) [the](/post/the/) rocky [shore](/post/shore/)."
 
-### [Adjective](/en/post/adjective/)
-- [Fundamental](/en/post/fundamental/) [or](/en/post/or/) [essential](/en/post/essential/): "[The](/en/post/the/) [base](/en/post/base/) necessities [for](/en/post/for/) survival."
-- [Simple](/en/post/simple/) [or](/en/post/or/) straightforward: "[A](/en/post/a/) [base](/en/post/base/) recipe [for](/en/post/for/) cookies."
+### [Adjective](/post/adjective/)
+- [Fundamental](/post/fundamental/) [or](/post/or/) [essential](/post/essential/): "[The](/post/the/) [base](/post/base/) necessities [for](/post/for/) survival."
+- [Simple](/post/simple/) [or](/post/or/) straightforward: "[A](/post/a/) [base](/post/base/) recipe [for](/post/for/) cookies."
 
 ## Phrases
-- "[Build](/en/post/build/) [upon](/en/post/upon/) [a](/en/post/a/) [solid](/en/post/solid/) [base](/en/post/base/)"
-- "[Establish](/en/post/establish/) [a](/en/post/a/) [base](/en/post/base/) [camp](/en/post/camp/)"
-- "[Start](/en/post/start/) [from](/en/post/from/) [a](/en/post/a/) [base](/en/post/base/) [level](/en/post/level/)"
+- "[Build](/post/build/) [upon](/post/upon/) [a](/post/a/) [solid](/post/solid/) [base](/post/base/)"
+- "[Establish](/post/establish/) [a](/post/a/) [base](/post/base/) [camp](/post/camp/)"
+- "[Start](/post/start/) [from](/post/from/) [a](/post/a/) [base](/post/base/) [level](/post/level/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) sculpture stands atop [a](/en/post/a/) [solid](/en/post/solid/) [stone](/en/post/stone/) [base](/en/post/base/)."
-- **[Verb](/en/post/verb/)**: "Scientists are basing [their](/en/post/their/) [new](/en/post/new/) [theory](/en/post/theory/) [on](/en/post/on/) [experimental](/en/post/experimental/) [data](/en/post/data/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [game](/en/post/game/) has [a](/en/post/a/) [basic](/en/post/basic/) tutorial [for](/en/post/for/) beginners."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) sculpture stands atop [a](/post/a/) [solid](/post/solid/) [stone](/post/stone/) [base](/post/base/)."
+- **[Verb](/post/verb/)**: "Scientists are basing [their](/post/their/) [new](/post/new/) [theory](/post/theory/) [on](/post/on/) [experimental](/post/experimental/) [data](/post/data/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [game](/post/game/) has [a](/post/a/) [basic](/post/basic/) tutorial [for](/post/for/) beginners."
 
 ## Synonyms
-- [Foundation](/en/post/foundation/)
+- [Foundation](/post/foundation/)
 - Underlying
-- [Fundamental](/en/post/fundamental/)
-- [Basic](/en/post/basic/)
+- [Fundamental](/post/fundamental/)
+- [Basic](/post/basic/)
 - Elemental
-- [Simple](/en/post/simple/)
+- [Simple](/post/simple/)
 - Supporting
 - Rooted

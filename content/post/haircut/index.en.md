@@ -7,35 +7,35 @@ description = '[ˈheəkʌt] n.理发'
 keywords = ['ai words', 'haircut']
 +++
 
-## [Word](/en/post/word/): [Haircut](/en/post/haircut/)
+## [Word](/post/word/): [Haircut](/post/haircut/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈheəkʌt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) styling [of](/en/post/of/) [hair](/en/post/hair/), typically involving cutting, trimming, [and](/en/post/and/) shaping [the](/en/post/the/) [hair](/en/post/hair/) [on](/en/post/on/) one's [head](/en/post/head/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) got [a](/en/post/a/) [new](/en/post/new/) [haircut](/en/post/haircut/) [that](/en/post/that/) [really](/en/post/really/) suited [her](/en/post/her/) [face](/en/post/face/) [shape](/en/post/shape/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) styling [of](/post/of/) [hair](/post/hair/), typically involving cutting, trimming, [and](/post/and/) shaping [the](/post/the/) [hair](/post/hair/) [on](/post/on/) one's [head](/post/head/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) got [a](/post/a/) [new](/post/new/) [haircut](/post/haircut/) [that](/post/that/) [really](/post/really/) suited [her](/post/her/) [face](/post/face/) [shape](/post/shape/)."
   
-  > [Sentence](/en/post/sentence/) [example](/en/post/example/): "[After](/en/post/after/) weeks [of](/en/post/of/) growing [it](/en/post/it/) [out](/en/post/out/), [he](/en/post/he/) [finally](/en/post/finally/) decided [to](/en/post/to/) [get](/en/post/get/) [a](/en/post/a/) [haircut](/en/post/haircut/)."
+  > [Sentence](/post/sentence/) [example](/post/example/): "[After](/post/after/) weeks [of](/post/of/) growing [it](/post/it/) [out](/post/out/), [he](/post/he/) [finally](/post/finally/) decided [to](/post/to/) [get](/post/get/) [a](/post/a/) [haircut](/post/haircut/)."
   
-- **[Verb](/en/post/verb/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) cutting someone's [hair](/en/post/hair/) [or](/en/post/or/) [the](/en/post/the/) [experience](/en/post/experience/) [of](/en/post/of/) having one's [hair](/en/post/hair/) [cut](/en/post/cut/). [For](/en/post/for/) [example](/en/post/example/): "She's going [to](/en/post/to/) [the](/en/post/the/) salon [for](/en/post/for/) [a](/en/post/a/) [haircut](/en/post/haircut/) [this](/en/post/this/) [afternoon](/en/post/afternoon/)."
+- **[Verb](/post/verb/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) cutting someone's [hair](/post/hair/) [or](/post/or/) [the](/post/the/) [experience](/post/experience/) [of](/post/of/) having one's [hair](/post/hair/) [cut](/post/cut/). [For](/post/for/) [example](/post/example/): "She's going [to](/post/to/) [the](/post/the/) salon [for](/post/for/) [a](/post/a/) [haircut](/post/haircut/) [this](/post/this/) [afternoon](/post/afternoon/)."
   
-  > [Sentence](/en/post/sentence/) [example](/en/post/example/): "I'm giving [myself](/en/post/myself/) [a](/en/post/a/) [haircut](/en/post/haircut/) [at](/en/post/at/) [home](/en/post/home/) [to](/en/post/to/) [save](/en/post/save/) [some](/en/post/some/) [money](/en/post/money/)."
+  > [Sentence](/post/sentence/) [example](/post/example/): "I'm giving [myself](/post/myself/) [a](/post/a/) [haircut](/post/haircut/) [at](/post/at/) [home](/post/home/) [to](/post/to/) [save](/post/save/) [some](/post/some/) [money](/post/money/)."
 
 ## Phrases
-- "[Get](/en/post/get/) [a](/en/post/a/) [haircut](/en/post/haircut/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [often](/en/post/often/) [used](/en/post/used/) colloquially [to](/en/post/to/) [suggest](/en/post/suggest/) [that](/en/post/that/) someone's [hair](/en/post/hair/) is [too](/en/post/too/) [long](/en/post/long/) [or](/en/post/or/) unkempt [and](/en/post/and/) needs [to](/en/post/to/) [be](/en/post/be/) trimmed.
-- "[A](/en/post/a/) [short](/en/post/short/)/[long](/en/post/long/)/layered [haircut](/en/post/haircut/)": Describing [the](/en/post/the/) [style](/en/post/style/) [of](/en/post/of/) [haircut](/en/post/haircut/) [someone](/en/post/someone/) has [or](/en/post/or/) wants.
-- "[Haircut](/en/post/haircut/) [fund](/en/post/fund/)": [A](/en/post/a/) savings [goal](/en/post/goal/) [set](/en/post/set/) [aside](/en/post/aside/) specifically [for](/en/post/for/) [the](/en/post/the/) [cost](/en/post/cost/) [of](/en/post/of/) getting one's [hair](/en/post/hair/) [cut](/en/post/cut/).
+- "[Get](/post/get/) [a](/post/a/) [haircut](/post/haircut/)": [This](/post/this/) [phrase](/post/phrase/) is [often](/post/often/) [used](/post/used/) colloquially [to](/post/to/) [suggest](/post/suggest/) [that](/post/that/) someone's [hair](/post/hair/) is [too](/post/too/) [long](/post/long/) [or](/post/or/) unkempt [and](/post/and/) needs [to](/post/to/) [be](/post/be/) trimmed.
+- "[A](/post/a/) [short](/post/short/)/[long](/post/long/)/layered [haircut](/post/haircut/)": Describing [the](/post/the/) [style](/post/style/) [of](/post/of/) [haircut](/post/haircut/) [someone](/post/someone/) has [or](/post/or/) wants.
+- "[Haircut](/post/haircut/) [fund](/post/fund/)": [A](/post/a/) savings [goal](/post/goal/) [set](/post/set/) [aside](/post/aside/) specifically [for](/post/for/) [the](/post/the/) [cost](/post/cost/) [of](/post/of/) getting one's [hair](/post/hair/) [cut](/post/cut/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [barber](/en/post/barber/) gave [him](/en/post/him/) [a](/en/post/a/) stylish [haircut](/en/post/haircut/) [that](/en/post/that/) earned [him](/en/post/him/) [many](/en/post/many/) compliments."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) was [quite](/en/post/quite/) [nervous](/en/post/nervous/) [about](/en/post/about/) [the](/en/post/the/) [haircut](/en/post/haircut/) [because](/en/post/because/) [it](/en/post/it/) was [her](/en/post/her/) [first](/en/post/first/) [time](/en/post/time/) trying [a](/en/post/a/) pixie [cut](/en/post/cut/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [barber](/post/barber/) gave [him](/post/him/) [a](/post/a/) stylish [haircut](/post/haircut/) [that](/post/that/) earned [him](/post/him/) [many](/post/many/) compliments."
+- **[Verb](/post/verb/)**: "[She](/post/she/) was [quite](/post/quite/) [nervous](/post/nervous/) [about](/post/about/) [the](/post/the/) [haircut](/post/haircut/) [because](/post/because/) [it](/post/it/) was [her](/post/her/) [first](/post/first/) [time](/post/time/) trying [a](/post/a/) pixie [cut](/post/cut/)."
 
 ## Synonyms
-- [Trim](/en/post/trim/)
+- [Trim](/post/trim/)
 - Cutting
-- [Shear](/en/post/shear/)
-- [Shave](/en/post/shave/) ([for](/en/post/for/) [close](/en/post/close/) cuts)
+- [Shear](/post/shear/)
+- [Shave](/post/shave/) ([for](/post/for/) [close](/post/close/) cuts)
 - Styling
-- Coiffure ([formal](/en/post/formal/))
+- Coiffure ([formal](/post/formal/))
 - Barbering
 - Clippering

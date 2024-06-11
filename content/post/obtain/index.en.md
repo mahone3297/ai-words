@@ -7,34 +7,34 @@ description = '[əbˈtein] vt.获得，得到，买到'
 keywords = ['ai words', 'obtain']
 +++
 
-## [Word](/en/post/word/): [Obtain](/en/post/obtain/)
+## [Word](/post/word/): [Obtain](/post/obtain/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əbˈteɪn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [get](/en/post/get/), [acquire](/en/post/acquire/), [or](/en/post/or/) [secure](/en/post/secure/) [something](/en/post/something/) [through](/en/post/through/) [effort](/en/post/effort/) [or](/en/post/or/) [by](/en/post/by/) [request](/en/post/request/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [imply](/en/post/imply/) gaining [possession](/en/post/possession/) [after](/en/post/after/) overcoming obstacles [or](/en/post/or/) fulfilling requirements.
+- **[Verb](/post/verb/)**: [To](/post/to/) [get](/post/get/), [acquire](/post/acquire/), [or](/post/or/) [secure](/post/secure/) [something](/post/something/) [through](/post/through/) [effort](/post/effort/) [or](/post/or/) [by](/post/by/) [request](/post/request/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [imply](/post/imply/) gaining [possession](/post/possession/) [after](/post/after/) overcoming obstacles [or](/post/or/) fulfilling requirements.
 
-  - _Example Sentence_: "[She](/en/post/she/) [finally](/en/post/finally/) obtained [her](/en/post/her/) driver's [license](/en/post/license/) [after](/en/post/after/) passing [the](/en/post/the/) [test](/en/post/test/)."
-  - _Example Phrase_: "[To](/en/post/to/) [obtain](/en/post/obtain/) [a](/en/post/a/) [loan](/en/post/loan/) [from](/en/post/from/) [the](/en/post/the/) [bank](/en/post/bank/), [one](/en/post/one/) [must](/en/post/must/) [present](/en/post/present/) [sufficient](/en/post/sufficient/) collateral."
+  - _Example Sentence_: "[She](/post/she/) [finally](/post/finally/) obtained [her](/post/her/) driver's [license](/post/license/) [after](/post/after/) passing [the](/post/the/) [test](/post/test/)."
+  - _Example Phrase_: "[To](/post/to/) [obtain](/post/obtain/) [a](/post/a/) [loan](/post/loan/) [from](/post/from/) [the](/post/the/) [bank](/post/bank/), [one](/post/one/) [must](/post/must/) [present](/post/present/) [sufficient](/post/sufficient/) collateral."
 
 ## Phrases
-- "[Obtain](/en/post/obtain/) [information](/en/post/information/)": [To](/en/post/to/) [gather](/en/post/gather/) [or](/en/post/or/) procure [data](/en/post/data/) [or](/en/post/or/) [knowledge](/en/post/knowledge/).
-- "[To](/en/post/to/) [obtain](/en/post/obtain/) [permission](/en/post/permission/)": [To](/en/post/to/) [receive](/en/post/receive/) authorization [or](/en/post/or/) [consent](/en/post/consent/) [for](/en/post/for/) [something](/en/post/something/).
-- "[To](/en/post/to/) [obtain](/en/post/obtain/) [a](/en/post/a/) [degree](/en/post/degree/)": [To](/en/post/to/) [successfully](/en/post/successfully/) [complete](/en/post/complete/) [a](/en/post/a/) [course](/en/post/course/) [of](/en/post/of/) [study](/en/post/study/) [and](/en/post/and/) [be](/en/post/be/) awarded [a](/en/post/a/) [certificate](/en/post/certificate/) [or](/en/post/or/) diploma.
+- "[Obtain](/post/obtain/) [information](/post/information/)": [To](/post/to/) [gather](/post/gather/) [or](/post/or/) procure [data](/post/data/) [or](/post/or/) [knowledge](/post/knowledge/).
+- "[To](/post/to/) [obtain](/post/obtain/) [permission](/post/permission/)": [To](/post/to/) [receive](/post/receive/) authorization [or](/post/or/) [consent](/post/consent/) [for](/post/for/) [something](/post/something/).
+- "[To](/post/to/) [obtain](/post/obtain/) [a](/post/a/) [degree](/post/degree/)": [To](/post/to/) [successfully](/post/successfully/) [complete](/post/complete/) [a](/post/a/) [course](/post/course/) [of](/post/of/) [study](/post/study/) [and](/post/and/) [be](/post/be/) awarded [a](/post/a/) [certificate](/post/certificate/) [or](/post/or/) diploma.
 
-## [Example](/en/post/example/) Sentences
-- _Verb_: "[They](/en/post/they/) managed [to](/en/post/to/) [obtain](/en/post/obtain/) exclusive rights [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) [technology](/en/post/technology/)."
-- _Verb_: "[The](/en/post/the/) detective worked tirelessly [to](/en/post/to/) [obtain](/en/post/obtain/) [evidence](/en/post/evidence/) [that](/en/post/that/) [would](/en/post/would/) [crack](/en/post/crack/) [the](/en/post/the/) [case](/en/post/case/)."
+## [Example](/post/example/) Sentences
+- _Verb_: "[They](/post/they/) managed [to](/post/to/) [obtain](/post/obtain/) exclusive rights [to](/post/to/) [the](/post/the/) [new](/post/new/) [technology](/post/technology/)."
+- _Verb_: "[The](/post/the/) detective worked tirelessly [to](/post/to/) [obtain](/post/obtain/) [evidence](/post/evidence/) [that](/post/that/) [would](/post/would/) [crack](/post/crack/) [the](/post/the/) [case](/post/case/)."
 
 ## Synonyms
-- [Acquire](/en/post/acquire/)
-- [Secure](/en/post/secure/)
-- [Attain](/en/post/attain/)
+- [Acquire](/post/acquire/)
+- [Secure](/post/secure/)
+- [Attain](/post/attain/)
 - Procure
-- [Gain](/en/post/gain/)
-- [Achieve](/en/post/achieve/)
-- [Get](/en/post/get/) [hold](/en/post/hold/) [of](/en/post/of/)
-- [Receive](/en/post/receive/)
-- [Fetch](/en/post/fetch/)
+- [Gain](/post/gain/)
+- [Achieve](/post/achieve/)
+- [Get](/post/get/) [hold](/post/hold/) [of](/post/of/)
+- [Receive](/post/receive/)
+- [Fetch](/post/fetch/)
 - Garner

@@ -7,37 +7,37 @@ description = '[pəˈliːsmən] n.警察'
 keywords = ['ai words', 'policeman']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈlɪsmən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [police](/en/post/police/) [force](/en/post/force/), typically [one](/en/post/one/) [who](/en/post/who/) patrols an [area](/en/post/area/) [to](/en/post/to/) [maintain](/en/post/maintain/) [law](/en/post/law/) [and](/en/post/and/) [order](/en/post/order/). [Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[policeman](/en/post/policeman/))
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) [a](/en/post/a/) [policeman](/en/post/policeman/) [or](/en/post/or/) policewoman, enforcing laws [and](/en/post/and/) maintaining [public](/en/post/public/) [safety](/en/post/safety/). [Cambridge](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[policeman](/en/post/policeman/))
+- **[Noun](/post/noun/)**: [A](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [police](/post/police/) [force](/post/force/), typically [one](/post/one/) [who](/post/who/) patrols an [area](/post/area/) [to](/post/to/) [maintain](/post/maintain/) [law](/post/law/) [and](/post/and/) [order](/post/order/). [Oxford](https://en.oxforddictionaries.com/[definition](/post/definition/)/[policeman](/post/policeman/))
+- **[Verb](/post/verb/)**: [To](/post/to/) [act](/post/act/) [as](/post/as/) [a](/post/a/) [policeman](/post/policeman/) [or](/post/or/) policewoman, enforcing laws [and](/post/and/) maintaining [public](/post/public/) [safety](/post/safety/). [Cambridge](https://[dictionary](/post/dictionary/).cambridge.org/[dictionary](/post/dictionary/)/english/[policeman](/post/policeman/))
 
 ## Phrases
-- "[On](/en/post/on/) [duty](/en/post/duty/) [as](/en/post/as/) [a](/en/post/a/) [policeman](/en/post/policeman/)" refers [to](/en/post/to/) [being](/en/post/being/) actively engaged [in](/en/post/in/) [law](/en/post/law/) enforcement [work](/en/post/work/).
-- "[A](/en/post/a/) [traffic](/en/post/traffic/) [policeman](/en/post/policeman/)" is [a](/en/post/a/) [specialist](/en/post/specialist/) [responsible](/en/post/responsible/) [for](/en/post/for/) [traffic](/en/post/traffic/) [control](/en/post/control/).
-- "Off-duty [policeman](/en/post/policeman/)" indicates [a](/en/post/a/) [police](/en/post/police/) [officer](/en/post/officer/) [not](/en/post/not/) currently [in](/en/post/in/) [uniform](/en/post/uniform/) [or](/en/post/or/) performing [official](/en/post/official/) duties.
+- "[On](/post/on/) [duty](/post/duty/) [as](/post/as/) [a](/post/a/) [policeman](/post/policeman/)" refers [to](/post/to/) [being](/post/being/) actively engaged [in](/post/in/) [law](/post/law/) enforcement [work](/post/work/).
+- "[A](/post/a/) [traffic](/post/traffic/) [policeman](/post/policeman/)" is [a](/post/a/) [specialist](/post/specialist/) [responsible](/post/responsible/) [for](/post/for/) [traffic](/post/traffic/) [control](/post/control/).
+- "Off-duty [policeman](/post/policeman/)" indicates [a](/post/a/) [police](/post/police/) [officer](/post/officer/) [not](/post/not/) currently [in](/post/in/) [uniform](/post/uniform/) [or](/post/or/) performing [official](/post/official/) duties.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [policeman](/en/post/policeman/) [saw](/en/post/saw/) [a](/en/post/a/) suspicious [person](/en/post/person/) lurking [around](/en/post/around/) [the](/en/post/the/) [corner](/en/post/corner/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) retired [policeman](/en/post/policeman/) [now](/en/post/now/) volunteers [at](/en/post/at/) [a](/en/post/a/) [local](/en/post/local/) [community](/en/post/community/) center."
-- **Phrasal [Verb](/en/post/verb/)**: "[He](/en/post/he/) [quickly](/en/post/quickly/) called [for](/en/post/for/) backup [when](/en/post/when/) [he](/en/post/he/) realized [he](/en/post/he/) was dealing [with](/en/post/with/) [a](/en/post/a/) [dangerous](/en/post/dangerous/) [situation](/en/post/situation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [policeman](/post/policeman/) [saw](/post/saw/) [a](/post/a/) suspicious [person](/post/person/) lurking [around](/post/around/) [the](/post/the/) [corner](/post/corner/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) retired [policeman](/post/policeman/) [now](/post/now/) volunteers [at](/post/at/) [a](/post/a/) [local](/post/local/) [community](/post/community/) center."
+- **Phrasal [Verb](/post/verb/)**: "[He](/post/he/) [quickly](/post/quickly/) called [for](/post/for/) backup [when](/post/when/) [he](/post/he/) realized [he](/post/he/) was dealing [with](/post/with/) [a](/post/a/) [dangerous](/post/dangerous/) [situation](/post/situation/)."
 
 ## Synonyms
 - Policewoman
-- [Law](/en/post/law/) enforcement [officer](/en/post/officer/)
+- [Law](/post/law/) enforcement [officer](/post/officer/)
 - Cop
-- [Officer](/en/post/officer/)
+- [Officer](/post/officer/)
 - Constable
 - Patrolman
-- Sheriff ([in](/en/post/in/) [some](/en/post/some/) regions)
+- Sheriff ([in](/post/in/) [some](/post/some/) regions)
 
 ## Antonyms
-- [Criminal](/en/post/criminal/)
-- [Suspect](/en/post/suspect/)
+- [Criminal](/post/criminal/)
+- [Suspect](/post/suspect/)
 - Offender
 - Lawbreaker
 
 ## Notes
-- [The](/en/post/the/) [term](/en/post/term/) "[policeman](/en/post/policeman/)" is [primarily](/en/post/primarily/) [used](/en/post/used/) [in](/en/post/in/) British English, [while](/en/post/while/) "[police](/en/post/police/) [officer](/en/post/officer/)" is [more](/en/post/more/) [common](/en/post/common/) [in](/en/post/in/) [American](/en/post/american/) English.
+- [The](/post/the/) [term](/post/term/) "[policeman](/post/policeman/)" is [primarily](/post/primarily/) [used](/post/used/) [in](/post/in/) British English, [while](/post/while/) "[police](/post/police/) [officer](/post/officer/)" is [more](/post/more/) [common](/post/common/) [in](/post/in/) [American](/post/american/) English.

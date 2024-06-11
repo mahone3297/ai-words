@@ -7,37 +7,37 @@ description = '[ˈdaiəlɔg] n.对话，对白'
 keywords = ['ai words', 'dialog']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈæləɡ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Dialog](/en/post/dialog/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [conversation](/en/post/conversation/) [between](/en/post/between/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) [people](/en/post/people/), [often](/en/post/often/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [play](/en/post/play/), [film](/en/post/film/), [or](/en/post/or/) [discussion](/en/post/discussion/). [It](/en/post/it/) involves back-and-forth exchanges [of](/en/post/of/) thoughts [and](/en/post/and/) ideas.
-   - [Example](/en/post/example/): "[The](/en/post/the/) characters engaged [in](/en/post/in/) [a](/en/post/a/) heated [dialog](/en/post/dialog/) [about](/en/post/about/) [politics](/en/post/politics/)."
+### [Noun](/post/noun/)
+1. **[Dialog](/post/dialog/)** ([noun](/post/noun/)): [A](/post/a/) [conversation](/post/conversation/) [between](/post/between/) [two](/post/two/) [or](/post/or/) [more](/post/more/) [people](/post/people/), [often](/post/often/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [play](/post/play/), [film](/post/film/), [or](/post/or/) [discussion](/post/discussion/). [It](/post/it/) involves back-and-forth exchanges [of](/post/of/) thoughts [and](/post/and/) ideas.
+   - [Example](/post/example/): "[The](/post/the/) characters engaged [in](/post/in/) [a](/post/a/) heated [dialog](/post/dialog/) [about](/post/about/) [politics](/post/politics/)."
 
-2. **Dialogue** ([noun](/en/post/noun/), British [spelling](/en/post/spelling/)): [Same](/en/post/same/) [as](/en/post/as/) [above](/en/post/above/), referring [to](/en/post/to/) [a](/en/post/a/) [conversation](/en/post/conversation/) [in](/en/post/in/) written [form](/en/post/form/) [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) script.
+2. **Dialogue** ([noun](/post/noun/), British [spelling](/post/spelling/)): [Same](/post/same/) [as](/post/as/) [above](/post/above/), referring [to](/post/to/) [a](/post/a/) [conversation](/post/conversation/) [in](/post/in/) written [form](/post/form/) [or](/post/or/) [in](/post/in/) [a](/post/a/) script.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [conversation](/en/post/conversation/) [or](/en/post/or/) [discussion](/en/post/discussion/).
-   - [Example](/en/post/example/): "[They](/en/post/they/) were dialoguing [about](/en/post/about/) [their](/en/post/their/) opinions [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [conversation](/post/conversation/) [or](/post/or/) [discussion](/post/discussion/).
+   - [Example](/post/example/): "[They](/post/they/) were dialoguing [about](/post/about/) [their](/post/their/) opinions [on](/post/on/) [climate](/post/climate/) [change](/post/change/)."
 
-3. **Dialogic** ([adjective](/en/post/adjective/)): Relating [to](/en/post/to/) [or](/en/post/or/) characterized [by](/en/post/by/) dialogue; involving [a](/en/post/a/) [conversation](/en/post/conversation/) [or](/en/post/or/) [exchange](/en/post/exchange/) [of](/en/post/of/) ideas.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) encouraged [a](/en/post/a/) dialogic [classroom](/en/post/classroom/) [environment](/en/post/environment/)."
+3. **Dialogic** ([adjective](/post/adjective/)): Relating [to](/post/to/) [or](/post/or/) characterized [by](/post/by/) dialogue; involving [a](/post/a/) [conversation](/post/conversation/) [or](/post/or/) [exchange](/post/exchange/) [of](/post/of/) ideas.
+   - [Example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) encouraged [a](/post/a/) dialogic [classroom](/post/classroom/) [environment](/post/environment/)."
 
 ## Phrases
-- "Dialogue [with](/en/post/with/) [someone](/en/post/someone/)" implies [a](/en/post/a/) meaningful [conversation](/en/post/conversation/).
-- "[A](/en/post/a/) dialogues [series](/en/post/series/)" refers [to](/en/post/to/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) discussions [or](/en/post/or/) debates.
-- "[Character](/en/post/character/) dialogue" [in](/en/post/in/) [literature](/en/post/literature/) [or](/en/post/or/) [film](/en/post/film/) refers [to](/en/post/to/) [the](/en/post/the/) spoken lines assigned [to](/en/post/to/) characters.
+- "Dialogue [with](/post/with/) [someone](/post/someone/)" implies [a](/post/a/) meaningful [conversation](/post/conversation/).
+- "[A](/post/a/) dialogues [series](/post/series/)" refers [to](/post/to/) [a](/post/a/) [series](/post/series/) [of](/post/of/) discussions [or](/post/or/) debates.
+- "[Character](/post/character/) dialogue" [in](/post/in/) [literature](/post/literature/) [or](/post/or/) [film](/post/film/) refers [to](/post/to/) [the](/post/the/) spoken lines assigned [to](/post/to/) characters.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) movie's [plot](/en/post/plot/) revolves [around](/en/post/around/) [the](/en/post/the/) [complex](/en/post/complex/) dialogues [between](/en/post/between/) [the](/en/post/the/) [main](/en/post/main/) characters."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [professor](/en/post/professor/) facilitated [a](/en/post/a/) [dialog](/en/post/dialog/) [between](/en/post/between/) students [and](/en/post/and/) experts [on](/en/post/on/) [the](/en/post/the/) [topic](/en/post/topic/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) teacher's [teaching](/en/post/teaching/) [style](/en/post/style/) was dialogic, promoting [active](/en/post/active/) participation."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) movie's [plot](/post/plot/) revolves [around](/post/around/) [the](/post/the/) [complex](/post/complex/) dialogues [between](/post/between/) [the](/post/the/) [main](/post/main/) characters."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [professor](/post/professor/) facilitated [a](/post/a/) [dialog](/post/dialog/) [between](/post/between/) students [and](/post/and/) experts [on](/post/on/) [the](/post/the/) [topic](/post/topic/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) teacher's [teaching](/post/teaching/) [style](/post/style/) was dialogic, promoting [active](/post/active/) participation."
 
 ## Synonyms
-- [Conversation](/en/post/conversation/)
-- [Discussion](/en/post/discussion/)
-- [Exchange](/en/post/exchange/)
-- [Debate](/en/post/debate/)
+- [Conversation](/post/conversation/)
+- [Discussion](/post/discussion/)
+- [Exchange](/post/exchange/)
+- [Debate](/post/debate/)
 - Negotiation
-- [Conversation](/en/post/conversation/) [piece](/en/post/piece/) (informal)
+- [Conversation](/post/conversation/) [piece](/post/piece/) (informal)

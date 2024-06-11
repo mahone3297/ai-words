@@ -7,34 +7,34 @@ description = '[ˈlaisəns] n.许可；执照 vt.准许'
 keywords = ['ai words', 'license']
 +++
 
-## [Word](/en/post/word/): [License](/en/post/license/)
+## [Word](/post/word/): [License](/post/license/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlaɪsns/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: An [official](/en/post/official/) [document](/en/post/document/) giving [permission](/en/post/permission/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) legally, [especially](/en/post/especially/) [to](/en/post/to/) [drive](/en/post/drive/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [or](/en/post/or/) [operate](/en/post/operate/) [a](/en/post/a/) [business](/en/post/business/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) had [to](/en/post/to/) [renew](/en/post/renew/) [his](/en/post/his/) driver's [license](/en/post/license/) [every](/en/post/every/) [year](/en/post/year/)."
-  - _Also_ ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/)): [Freedom](/en/post/freedom/) [or](/en/post/or/) [permission](/en/post/permission/) [to](/en/post/to/) [act](/en/post/act/), [speak](/en/post/speak/), [or](/en/post/or/) [think](/en/post/think/) [as](/en/post/as/) [one](/en/post/one/) wants. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) took [her](/en/post/her/) [new](/en/post/new/) [job](/en/post/job/) [as](/en/post/as/) [a](/en/post/a/) [license](/en/post/license/) [to](/en/post/to/) [experiment](/en/post/experiment/) [with](/en/post/with/) [new](/en/post/new/) ideas."
+- **[Noun](/post/noun/) (n)**: An [official](/post/official/) [document](/post/document/) giving [permission](/post/permission/) [to](/post/to/) [do](/post/do/) [something](/post/something/) legally, [especially](/post/especially/) [to](/post/to/) [drive](/post/drive/) [a](/post/a/) [vehicle](/post/vehicle/) [or](/post/or/) [operate](/post/operate/) [a](/post/a/) [business](/post/business/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) had [to](/post/to/) [renew](/post/renew/) [his](/post/his/) driver's [license](/post/license/) [every](/post/every/) [year](/post/year/)."
+  - _Also_ ([in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/)): [Freedom](/post/freedom/) [or](/post/or/) [permission](/post/permission/) [to](/post/to/) [act](/post/act/), [speak](/post/speak/), [or](/post/or/) [think](/post/think/) [as](/post/as/) [one](/post/one/) wants. [For](/post/for/) [example](/post/example/): "[She](/post/she/) took [her](/post/her/) [new](/post/new/) [job](/post/job/) [as](/post/as/) [a](/post/a/) [license](/post/license/) [to](/post/to/) [experiment](/post/experiment/) [with](/post/with/) [new](/post/new/) ideas."
 
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [give](/en/post/give/) [official](/en/post/official/) [permission](/en/post/permission/) [for](/en/post/for/) an [activity](/en/post/activity/) [to](/en/post/to/) [take](/en/post/take/) [place](/en/post/place/), [often](/en/post/often/) [by](/en/post/by/) issuing [a](/en/post/a/) [license](/en/post/license/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) [council](/en/post/council/) licensed [several](/en/post/several/) [new](/en/post/new/) restaurants [last](/en/post/last/) [month](/en/post/month/)."
-  - _Also_ (figuratively): [To](/en/post/to/) [permit](/en/post/permit/) [or](/en/post/or/) authorize ([someone](/en/post/someone/)) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) app [must](/en/post/must/) [be](/en/post/be/) licensed [before](/en/post/before/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) downloaded."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [give](/post/give/) [official](/post/official/) [permission](/post/permission/) [for](/post/for/) an [activity](/post/activity/) [to](/post/to/) [take](/post/take/) [place](/post/place/), [often](/post/often/) [by](/post/by/) issuing [a](/post/a/) [license](/post/license/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [city](/post/city/) [council](/post/council/) licensed [several](/post/several/) [new](/post/new/) restaurants [last](/post/last/) [month](/post/month/)."
+  - _Also_ (figuratively): [To](/post/to/) [permit](/post/permit/) [or](/post/or/) authorize ([someone](/post/someone/)) [to](/post/to/) [do](/post/do/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) app [must](/post/must/) [be](/post/be/) licensed [before](/post/before/) [it](/post/it/) [can](/post/can/) [be](/post/be/) downloaded."
 
 ## Phrases
-- "[License](/en/post/license/) [to](/en/post/to/) [kill](/en/post/kill/)": [A](/en/post/a/) colloquial [expression](/en/post/expression/) ([usually](/en/post/usually/) [from](/en/post/from/) [fiction](/en/post/fiction/)) referring [to](/en/post/to/) [permission](/en/post/permission/) [to](/en/post/to/) [use](/en/post/use/) lethal [force](/en/post/force/).
-- "Licensed [to](/en/post/to/) [practice](/en/post/practice/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [when](/en/post/when/) referring [to](/en/post/to/) professionals [who](/en/post/who/) [have](/en/post/have/) obtained [the](/en/post/the/) [necessary](/en/post/necessary/) qualifications [and](/en/post/and/) permissions [to](/en/post/to/) [work](/en/post/work/) [in](/en/post/in/) [their](/en/post/their/) [field](/en/post/field/), [such](/en/post/such/) [as](/en/post/as/) doctors [or](/en/post/or/) lawyers.
-- "[Under](/en/post/under/) [license](/en/post/license/)": [This](/en/post/this/) indicates [that](/en/post/that/) [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/) is [being](/en/post/being/) produced [or](/en/post/or/) [provided](/en/post/provided/) [with](/en/post/with/) [the](/en/post/the/) authorization [of](/en/post/of/) [the](/en/post/the/) [owner](/en/post/owner/) [or](/en/post/or/) [inventor](/en/post/inventor/).
+- "[License](/post/license/) [to](/post/to/) [kill](/post/kill/)": [A](/post/a/) colloquial [expression](/post/expression/) ([usually](/post/usually/) [from](/post/from/) [fiction](/post/fiction/)) referring [to](/post/to/) [permission](/post/permission/) [to](/post/to/) [use](/post/use/) lethal [force](/post/force/).
+- "Licensed [to](/post/to/) [practice](/post/practice/)": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [when](/post/when/) referring [to](/post/to/) professionals [who](/post/who/) [have](/post/have/) obtained [the](/post/the/) [necessary](/post/necessary/) qualifications [and](/post/and/) permissions [to](/post/to/) [work](/post/work/) [in](/post/in/) [their](/post/their/) [field](/post/field/), [such](/post/such/) [as](/post/as/) doctors [or](/post/or/) lawyers.
+- "[Under](/post/under/) [license](/post/license/)": [This](/post/this/) indicates [that](/post/that/) [a](/post/a/) [product](/post/product/) [or](/post/or/) [service](/post/service/) is [being](/post/being/) produced [or](/post/or/) [provided](/post/provided/) [with](/post/with/) [the](/post/the/) authorization [of](/post/of/) [the](/post/the/) [owner](/post/owner/) [or](/post/or/) [inventor](/post/inventor/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) passing [the](/en/post/the/) [exam](/en/post/exam/), [he](/en/post/he/) [finally](/en/post/finally/) got [his](/en/post/his/) driving [license](/en/post/license/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [government](/en/post/government/) has licensed [the](/en/post/the/) [company](/en/post/company/) [to](/en/post/to/) [import](/en/post/import/) [and](/en/post/and/) [distribute](/en/post/distribute/) pharmaceuticals."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) passing [the](/post/the/) [exam](/post/exam/), [he](/post/he/) [finally](/post/finally/) got [his](/post/his/) driving [license](/post/license/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [government](/post/government/) has licensed [the](/post/the/) [company](/post/company/) [to](/post/to/) [import](/post/import/) [and](/post/and/) [distribute](/post/distribute/) pharmaceuticals."
 
 ## Synonyms
-- [Permit](/en/post/permit/)
+- [Permit](/post/permit/)
 - Authorization
 - Certification
 - Accreditation
-- [Approval](/en/post/approval/)
-- [Consent](/en/post/consent/)
+- [Approval](/post/approval/)
+- [Consent](/post/consent/)
 - Endorsement
-- [Certificate](/en/post/certificate/) ([for](/en/post/for/) [noun](/en/post/noun/) [usage](/en/post/usage/))
-- Authorize ([for](/en/post/for/) [verb](/en/post/verb/) [usage](/en/post/usage/))
+- [Certificate](/post/certificate/) ([for](/post/for/) [noun](/post/noun/) [usage](/post/usage/))
+- Authorize ([for](/post/for/) [verb](/post/verb/) [usage](/post/usage/))

@@ -7,40 +7,40 @@ description = '[əˈdres] n.地址；演说；谈吐'
 keywords = ['ai words', 'address']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈdres/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [or](/en/post/or/) delivering [a](/en/post/a/) [message](/en/post/message/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [organization](/en/post/organization/): *[He](/en/post/he/) typed [out](/en/post/out/) [his](/en/post/his/) [letter](/en/post/letter/) [and](/en/post/and/) addressed [it](/en/post/it/) [to](/en/post/to/) [the](/en/post/the/) [editor](/en/post/editor/).*
-2. [A](/en/post/a/) [location](/en/post/location/) [where](/en/post/where/) [someone](/en/post/someone/) lives [or](/en/post/or/) works: *[The](/en/post/the/) [package](/en/post/package/) was sent [to](/en/post/to/) [her](/en/post/her/) [home](/en/post/home/) [address](/en/post/address/).*
-3. [A](/en/post/a/) [speech](/en/post/speech/) [or](/en/post/or/) [statement](/en/post/statement/) directed [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [person](/en/post/person/) [or](/en/post/or/) [group](/en/post/group/): *[His](/en/post/his/) [address](/en/post/address/) [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/) was well-received.*
-4. [Personal](/en/post/personal/) [information](/en/post/information/), [such](/en/post/such/) [as](/en/post/as/) [name](/en/post/name/) [and](/en/post/and/) [street](/en/post/street/) [address](/en/post/address/): *[Please](/en/post/please/) [fill](/en/post/fill/) [in](/en/post/in/) [your](/en/post/your/) mailing [address](/en/post/address/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [or](/post/or/) delivering [a](/post/a/) [message](/post/message/) [to](/post/to/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [organization](/post/organization/): *[He](/post/he/) typed [out](/post/out/) [his](/post/his/) [letter](/post/letter/) [and](/post/and/) addressed [it](/post/it/) [to](/post/to/) [the](/post/the/) [editor](/post/editor/).*
+2. [A](/post/a/) [location](/post/location/) [where](/post/where/) [someone](/post/someone/) lives [or](/post/or/) works: *[The](/post/the/) [package](/post/package/) was sent [to](/post/to/) [her](/post/her/) [home](/post/home/) [address](/post/address/).*
+3. [A](/post/a/) [speech](/post/speech/) [or](/post/or/) [statement](/post/statement/) directed [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [person](/post/person/) [or](/post/or/) [group](/post/group/): *[His](/post/his/) [address](/post/address/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/) was well-received.*
+4. [Personal](/post/personal/) [information](/post/information/), [such](/post/such/) [as](/post/as/) [name](/post/name/) [and](/post/and/) [street](/post/street/) [address](/post/address/): *[Please](/post/please/) [fill](/post/fill/) [in](/post/in/) [your](/post/your/) mailing [address](/post/address/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [write](/en/post/write/) [or](/en/post/or/) [label](/en/post/label/) [with](/en/post/with/) [the](/en/post/the/) [name](/en/post/name/), [number](/en/post/number/), [or](/en/post/or/) [destination](/en/post/destination/): *I [need](/en/post/need/) [to](/en/post/to/) [address](/en/post/address/) [these](/en/post/these/) envelopes [before](/en/post/before/) I [can](/en/post/can/) [mail](/en/post/mail/) [them](/en/post/them/).*
-2. [To](/en/post/to/) [communicate](/en/post/communicate/) [directly](/en/post/directly/) [to](/en/post/to/) ([a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [group](/en/post/group/)): *[The](/en/post/the/) [mayor](/en/post/mayor/) addressed [the](/en/post/the/) [crowd](/en/post/crowd/) [during](/en/post/during/) [the](/en/post/the/) [ceremony](/en/post/ceremony/).*
-3. [To](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [or](/en/post/or/) [give](/en/post/give/) [attention](/en/post/attention/) [to](/en/post/to/): *[We](/en/post/we/) [should](/en/post/should/) [address](/en/post/address/) [the](/en/post/the/) [issue](/en/post/issue/) [of](/en/post/of/) [poverty](/en/post/poverty/) [in](/en/post/in/) [our](/en/post/our/) [community](/en/post/community/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [write](/post/write/) [or](/post/or/) [label](/post/label/) [with](/post/with/) [the](/post/the/) [name](/post/name/), [number](/post/number/), [or](/post/or/) [destination](/post/destination/): *I [need](/post/need/) [to](/post/to/) [address](/post/address/) [these](/post/these/) envelopes [before](/post/before/) I [can](/post/can/) [mail](/post/mail/) [them](/post/them/).*
+2. [To](/post/to/) [communicate](/post/communicate/) [directly](/post/directly/) [to](/post/to/) ([a](/post/a/) [person](/post/person/) [or](/post/or/) [group](/post/group/)): *[The](/post/the/) [mayor](/post/mayor/) addressed [the](/post/the/) [crowd](/post/crowd/) [during](/post/during/) [the](/post/the/) [ceremony](/post/ceremony/).*
+3. [To](/post/to/) [deal](/post/deal/) [with](/post/with/) [or](/post/or/) [give](/post/give/) [attention](/post/attention/) [to](/post/to/): *[We](/post/we/) [should](/post/should/) [address](/post/address/) [the](/post/the/) [issue](/post/issue/) [of](/post/of/) [poverty](/post/poverty/) [in](/post/in/) [our](/post/our/) [community](/post/community/).*
 
-### [Preposition](/en/post/preposition/)
-[To](/en/post/to/) [direct](/en/post/direct/) [or](/en/post/or/) [point](/en/post/point/) [to](/en/post/to/): *[Point](/en/post/point/) [your](/en/post/your/) [camera](/en/post/camera/) [at](/en/post/at/) [my](/en/post/my/) [address](/en/post/address/) [on](/en/post/on/) [the](/en/post/the/) [board](/en/post/board/).*
+### [Preposition](/post/preposition/)
+[To](/post/to/) [direct](/post/direct/) [or](/post/or/) [point](/post/point/) [to](/post/to/): *[Point](/post/point/) [your](/post/your/) [camera](/post/camera/) [at](/post/at/) [my](/post/my/) [address](/post/address/) [on](/post/on/) [the](/post/the/) [board](/post/board/).*
 
 ## Phrases
-- "[Send](/en/post/send/) an email [to](/en/post/to/) [their](/en/post/their/) [address](/en/post/address/)" [means](/en/post/means/) [to](/en/post/to/) [send](/en/post/send/) [a](/en/post/a/) [message](/en/post/message/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) email [address](/en/post/address/).
-- "[Give](/en/post/give/) [me](/en/post/me/) [your](/en/post/your/) [address](/en/post/address/)" is [a](/en/post/a/) [request](/en/post/request/) [for](/en/post/for/) someone's [contact](/en/post/contact/) details.
-- "[Address](/en/post/address/) [the](/en/post/the/) [envelope](/en/post/envelope/) correctly" is [a](/en/post/a/) reminder [to](/en/post/to/) [put](/en/post/put/) [the](/en/post/the/) [right](/en/post/right/) postal [information](/en/post/information/) [on](/en/post/on/) an [envelope](/en/post/envelope/).
+- "[Send](/post/send/) an email [to](/post/to/) [their](/post/their/) [address](/post/address/)" [means](/post/means/) [to](/post/to/) [send](/post/send/) [a](/post/a/) [message](/post/message/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) email [address](/post/address/).
+- "[Give](/post/give/) [me](/post/me/) [your](/post/your/) [address](/post/address/)" is [a](/post/a/) [request](/post/request/) [for](/post/for/) someone's [contact](/post/contact/) details.
+- "[Address](/post/address/) [the](/post/the/) [envelope](/post/envelope/) correctly" is [a](/post/a/) reminder [to](/post/to/) [put](/post/put/) [the](/post/the/) [right](/post/right/) postal [information](/post/information/) [on](/post/on/) an [envelope](/post/envelope/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) included [his](/en/post/his/) [address](/en/post/address/) [on](/en/post/on/) [the](/en/post/the/) [bottom](/en/post/bottom/) [of](/en/post/of/) [the](/en/post/the/) [letter](/en/post/letter/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) addressed [the](/en/post/the/) [crowd](/en/post/crowd/) [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/), sharing [her](/en/post/her/) thoughts [on](/en/post/on/) [the](/en/post/the/) [topic](/en/post/topic/)."
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) [letter](/en/post/letter/) was addressed [to](/en/post/to/) John Smith [at](/en/post/at/) 123 [Main](/en/post/main/) St."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) included [his](/post/his/) [address](/post/address/) [on](/post/on/) [the](/post/the/) [bottom](/post/bottom/) [of](/post/of/) [the](/post/the/) [letter](/post/letter/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) addressed [the](/post/the/) [crowd](/post/crowd/) [at](/post/at/) [the](/post/the/) [conference](/post/conference/), sharing [her](/post/her/) thoughts [on](/post/on/) [the](/post/the/) [topic](/post/topic/)."
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) [letter](/post/letter/) was addressed [to](/post/to/) John Smith [at](/post/at/) 123 [Main](/post/main/) St."
 
 ## Synonyms
-- [Direct](/en/post/direct/)
-- [Send](/en/post/send/)
-- [Communicate](/en/post/communicate/)
-- [Address](/en/post/address/) [oneself](/en/post/oneself/) [to](/en/post/to/)
-- Adress (informal, British [spelling](/en/post/spelling/))
-- [Target](/en/post/target/)
-- [Deal](/en/post/deal/) [with](/en/post/with/)
-- [Focus](/en/post/focus/) [on](/en/post/on/)
+- [Direct](/post/direct/)
+- [Send](/post/send/)
+- [Communicate](/post/communicate/)
+- [Address](/post/address/) [oneself](/post/oneself/) [to](/post/to/)
+- Adress (informal, British [spelling](/post/spelling/))
+- [Target](/post/target/)
+- [Deal](/post/deal/) [with](/post/with/)
+- [Focus](/post/focus/) [on](/post/on/)

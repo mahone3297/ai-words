@@ -7,33 +7,33 @@ description = '[ˈsimpəθaiz] vi.同情/感，共鸣'
 keywords = ['ai words', 'sympathize']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈmɪθəˌaɪz/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [express](/en/post/express/) [sympathy](/en/post/sympathy/) [or](/en/post/or/) [understanding](/en/post/understanding/) towards [someone](/en/post/someone/) else's feelings [or](/en/post/or/) [situation](/en/post/situation/). (nouns: [sympathy](/en/post/sympathy/))
-- **[Noun](/en/post/noun/)**: [Sympathy](/en/post/sympathy/), [the](/en/post/the/) [feeling](/en/post/feeling/) [of](/en/post/of/) compassion [and](/en/post/and/) [concern](/en/post/concern/) [for](/en/post/for/) others' suffering.
+- **[Verb](/post/verb/)**: [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [express](/post/express/) [sympathy](/post/sympathy/) [or](/post/or/) [understanding](/post/understanding/) towards [someone](/post/someone/) else's feelings [or](/post/or/) [situation](/post/situation/). (nouns: [sympathy](/post/sympathy/))
+- **[Noun](/post/noun/)**: [Sympathy](/post/sympathy/), [the](/post/the/) [feeling](/post/feeling/) [of](/post/of/) compassion [and](/post/and/) [concern](/post/concern/) [for](/post/for/) others' suffering.
 
 ## Phrases
-- "[Sympathize](/en/post/sympathize/) [with](/en/post/with/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [share](/en/post/share/) [or](/en/post/or/) acknowledge [their](/en/post/their/) feelings [of](/en/post/of/) [sorrow](/en/post/sorrow/) [or](/en/post/or/) [pain](/en/post/pain/).
-- "[Show](/en/post/show/) [sympathy](/en/post/sympathy/)" is an [action](/en/post/action/) [to](/en/post/to/) [express](/en/post/express/) one's [understanding](/en/post/understanding/) [and](/en/post/and/) [support](/en/post/support/).
-- "[In](/en/post/in/) [sympathy](/en/post/sympathy/)" describes [being](/en/post/being/) [on](/en/post/on/) [the](/en/post/the/) [same](/en/post/same/) [wavelength](/en/post/wavelength/) emotionally.
+- "[Sympathize](/post/sympathize/) [with](/post/with/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [share](/post/share/) [or](/post/or/) acknowledge [their](/post/their/) feelings [of](/post/of/) [sorrow](/post/sorrow/) [or](/post/or/) [pain](/post/pain/).
+- "[Show](/post/show/) [sympathy](/post/sympathy/)" is an [action](/post/action/) [to](/post/to/) [express](/post/express/) one's [understanding](/post/understanding/) [and](/post/and/) [support](/post/support/).
+- "[In](/post/in/) [sympathy](/post/sympathy/)" describes [being](/post/being/) [on](/post/on/) [the](/post/the/) [same](/post/same/) [wavelength](/post/wavelength/) emotionally.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [could](/en/post/could/) [easily](/en/post/easily/) [sympathize](/en/post/sympathize/) [with](/en/post/with/) [her](/en/post/her/) friend's [loss](/en/post/loss/)."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [kind](/en/post/kind/) words conveyed [a](/en/post/a/) [deep](/en/post/deep/) [sense](/en/post/sense/) [of](/en/post/of/) [sympathy](/en/post/sympathy/) [for](/en/post/for/) [her](/en/post/her/) [situation](/en/post/situation/)."
-- "[The](/en/post/the/) [community](/en/post/community/) came [together](/en/post/together/) [to](/en/post/to/) [sympathize](/en/post/sympathize/) [with](/en/post/with/) [the](/en/post/the/) victims [of](/en/post/of/) [the](/en/post/the/) [disaster](/en/post/disaster/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[She](/post/she/) [could](/post/could/) [easily](/post/easily/) [sympathize](/post/sympathize/) [with](/post/with/) [her](/post/her/) friend's [loss](/post/loss/)."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [kind](/post/kind/) words conveyed [a](/post/a/) [deep](/post/deep/) [sense](/post/sense/) [of](/post/of/) [sympathy](/post/sympathy/) [for](/post/for/) [her](/post/her/) [situation](/post/situation/)."
+- "[The](/post/the/) [community](/post/community/) came [together](/post/together/) [to](/post/to/) [sympathize](/post/sympathize/) [with](/post/with/) [the](/post/the/) victims [of](/post/of/) [the](/post/the/) [disaster](/post/disaster/)."
 
 ## Synonyms
 - Commiserate
-- [Feel](/en/post/feel/) [for](/en/post/for/)
-- [Pity](/en/post/pity/)
-- [Mourn](/en/post/mourn/)
-- [Understand](/en/post/understand/)
+- [Feel](/post/feel/) [for](/post/for/)
+- [Pity](/post/pity/)
+- [Mourn](/post/mourn/)
+- [Understand](/post/understand/)
 
 ## Antonyms
 - Detach
 - Disregard
-- [Lack](/en/post/lack/) empathy
+- [Lack](/post/lack/) empathy
 - Insensitive
-- [Indifferent](/en/post/indifferent/)
+- [Indifferent](/post/indifferent/)

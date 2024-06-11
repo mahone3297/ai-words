@@ -7,33 +7,33 @@ description = '[glɑːs] n.玻璃；玻璃杯'
 keywords = ['ai words', 'glass']
 +++
 
-## [Word](/en/post/word/): [Glass](/en/post/glass/)
+## [Word](/post/word/): [Glass](/post/glass/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡlæs/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [hard](/en/post/hard/), [brittle](/en/post/brittle/), typically [transparent](/en/post/transparent/) [material](/en/post/material/) made [by](/en/post/by/) fusing silica [sand](/en/post/sand/) [with](/en/post/with/) [soda](/en/post/soda/) [and](/en/post/and/) [lime](/en/post/lime/), [widely](/en/post/widely/) [used](/en/post/used/) [in](/en/post/in/) windows, mirrors, bottles, [and](/en/post/and/) [many](/en/post/many/) [other](/en/post/other/) articles. [Example](/en/post/example/): "[The](/en/post/the/) [vase](/en/post/vase/) was made [of](/en/post/of/) [delicate](/en/post/delicate/) [glass](/en/post/glass/)."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) drinking [container](/en/post/container/) made [of](/en/post/of/) [this](/en/post/this/) [material](/en/post/material/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [stem](/en/post/stem/) [and](/en/post/and/) [base](/en/post/base/). [Example](/en/post/example/): "[He](/en/post/he/) raised [his](/en/post/his/) [glass](/en/post/glass/) [in](/en/post/in/) [a](/en/post/a/) [toast](/en/post/toast/)."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [pane](/en/post/pane/) [of](/en/post/of/) [glass](/en/post/glass/) [in](/en/post/in/) [a](/en/post/a/) [window](/en/post/window/), [door](/en/post/door/), [mirror](/en/post/mirror/), [or](/en/post/or/) [similar](/en/post/similar/) [object](/en/post/object/). [Example](/en/post/example/): "[A](/en/post/a/) [bird](/en/post/bird/) flew [into](/en/post/into/) [the](/en/post/the/) [glass](/en/post/glass/) [of](/en/post/of/) [the](/en/post/the/) [window](/en/post/window/)."
-- **[Noun](/en/post/noun/) (n)**: An [optical](/en/post/optical/) [instrument](/en/post/instrument/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [lens](/en/post/lens/) [or](/en/post/or/) [a](/en/post/a/) [telescope](/en/post/telescope/), made [from](/en/post/from/) [glass](/en/post/glass/). [Example](/en/post/example/): "[He](/en/post/he/) looked [through](/en/post/through/) [the](/en/post/the/) [glass](/en/post/glass/) [to](/en/post/to/) [spot](/en/post/spot/) [the](/en/post/the/) constellations."
-- **[Adjective](/en/post/adjective/) (adj)**: Made [of](/en/post/of/) [or](/en/post/or/) relating [to](/en/post/to/) [glass](/en/post/glass/). [Example](/en/post/example/): "[Glass](/en/post/glass/) doors [let](/en/post/let/) [in](/en/post/in/) [plenty](/en/post/plenty/) [of](/en/post/of/) [natural](/en/post/natural/) [light](/en/post/light/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) encase [or](/en/post/or/) [cover](/en/post/cover/) [with](/en/post/with/) [glass](/en/post/glass/). [Example](/en/post/example/): "[The](/en/post/the/) [shopkeeper](/en/post/shopkeeper/) glassed [the](/en/post/the/) [display](/en/post/display/) [cabinet](/en/post/cabinet/) [to](/en/post/to/) [protect](/en/post/protect/) [the](/en/post/the/) antiques."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [hard](/post/hard/), [brittle](/post/brittle/), typically [transparent](/post/transparent/) [material](/post/material/) made [by](/post/by/) fusing silica [sand](/post/sand/) [with](/post/with/) [soda](/post/soda/) [and](/post/and/) [lime](/post/lime/), [widely](/post/widely/) [used](/post/used/) [in](/post/in/) windows, mirrors, bottles, [and](/post/and/) [many](/post/many/) [other](/post/other/) articles. [Example](/post/example/): "[The](/post/the/) [vase](/post/vase/) was made [of](/post/of/) [delicate](/post/delicate/) [glass](/post/glass/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) drinking [container](/post/container/) made [of](/post/of/) [this](/post/this/) [material](/post/material/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [stem](/post/stem/) [and](/post/and/) [base](/post/base/). [Example](/post/example/): "[He](/post/he/) raised [his](/post/his/) [glass](/post/glass/) [in](/post/in/) [a](/post/a/) [toast](/post/toast/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [pane](/post/pane/) [of](/post/of/) [glass](/post/glass/) [in](/post/in/) [a](/post/a/) [window](/post/window/), [door](/post/door/), [mirror](/post/mirror/), [or](/post/or/) [similar](/post/similar/) [object](/post/object/). [Example](/post/example/): "[A](/post/a/) [bird](/post/bird/) flew [into](/post/into/) [the](/post/the/) [glass](/post/glass/) [of](/post/of/) [the](/post/the/) [window](/post/window/)."
+- **[Noun](/post/noun/) (n)**: An [optical](/post/optical/) [instrument](/post/instrument/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [lens](/post/lens/) [or](/post/or/) [a](/post/a/) [telescope](/post/telescope/), made [from](/post/from/) [glass](/post/glass/). [Example](/post/example/): "[He](/post/he/) looked [through](/post/through/) [the](/post/the/) [glass](/post/glass/) [to](/post/to/) [spot](/post/spot/) [the](/post/the/) constellations."
+- **[Adjective](/post/adjective/) (adj)**: Made [of](/post/of/) [or](/post/or/) relating [to](/post/to/) [glass](/post/glass/). [Example](/post/example/): "[Glass](/post/glass/) doors [let](/post/let/) [in](/post/in/) [plenty](/post/plenty/) [of](/post/of/) [natural](/post/natural/) [light](/post/light/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) encase [or](/post/or/) [cover](/post/cover/) [with](/post/with/) [glass](/post/glass/). [Example](/post/example/): "[The](/post/the/) [shopkeeper](/post/shopkeeper/) glassed [the](/post/the/) [display](/post/display/) [cabinet](/post/cabinet/) [to](/post/to/) [protect](/post/protect/) [the](/post/the/) antiques."
 
 ## Phrases
-- "[Through](/en/post/through/) rose-tinted glasses": Seeing things [in](/en/post/in/) an overly [optimistic](/en/post/optimistic/) [or](/en/post/or/) [positive](/en/post/positive/) [light](/en/post/light/), [regardless](/en/post/regardless/) [of](/en/post/of/) [reality](/en/post/reality/).
-- "[Break](/en/post/break/) [the](/en/post/the/) [glass](/en/post/glass/) [ceiling](/en/post/ceiling/)": Overcoming barriers [to](/en/post/to/) [achieve](/en/post/achieve/) [something](/en/post/something/) [that](/en/post/that/) has traditionally been [difficult](/en/post/difficult/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/), [especially](/en/post/especially/) women [in](/en/post/in/) [professional](/en/post/professional/) settings.
-- "[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [glass](/en/post/glass/) [eye](/en/post/eye/)": Referring [to](/en/post/to/) [a](/en/post/a/) prosthetic [eye](/en/post/eye/) made [of](/en/post/of/) [glass](/en/post/glass/) [or](/en/post/or/) [plastic](/en/post/plastic/).
+- "[Through](/post/through/) rose-tinted glasses": Seeing things [in](/post/in/) an overly [optimistic](/post/optimistic/) [or](/post/or/) [positive](/post/positive/) [light](/post/light/), [regardless](/post/regardless/) [of](/post/of/) [reality](/post/reality/).
+- "[Break](/post/break/) [the](/post/the/) [glass](/post/glass/) [ceiling](/post/ceiling/)": Overcoming barriers [to](/post/to/) [achieve](/post/achieve/) [something](/post/something/) [that](/post/that/) has traditionally been [difficult](/post/difficult/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [group](/post/group/) [of](/post/of/) [people](/post/people/), [especially](/post/especially/) women [in](/post/in/) [professional](/post/professional/) settings.
+- "[To](/post/to/) [have](/post/have/) [a](/post/a/) [glass](/post/glass/) [eye](/post/eye/)": Referring [to](/post/to/) [a](/post/a/) prosthetic [eye](/post/eye/) made [of](/post/of/) [glass](/post/glass/) [or](/post/or/) [plastic](/post/plastic/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) glassblower crafted [a](/en/post/a/) [beautiful](/en/post/beautiful/) [vase](/en/post/vase/) [from](/en/post/from/) molten [glass](/en/post/glass/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [glass](/en/post/glass/) tabletop reflected [the](/en/post/the/) [afternoon](/en/post/afternoon/) [sunlight](/en/post/sunlight/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [glass](/en/post/glass/) [the](/en/post/the/) [greenhouse](/en/post/greenhouse/) [roof](/en/post/roof/) [to](/en/post/to/) [allow](/en/post/allow/) [for](/en/post/for/) [better](/en/post/better/) [plant](/en/post/plant/) [growth](/en/post/growth/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) glassblower crafted [a](/post/a/) [beautiful](/post/beautiful/) [vase](/post/vase/) [from](/post/from/) molten [glass](/post/glass/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [glass](/post/glass/) tabletop reflected [the](/post/the/) [afternoon](/post/afternoon/) [sunlight](/post/sunlight/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) decided [to](/post/to/) [glass](/post/glass/) [the](/post/the/) [greenhouse](/post/greenhouse/) [roof](/post/roof/) [to](/post/to/) [allow](/post/allow/) [for](/post/for/) [better](/post/better/) [plant](/post/plant/) [growth](/post/growth/)."
 
 ## Synonyms
-- [Vessel](/en/post/vessel/) ([for](/en/post/for/) drinking [container](/en/post/container/))
-- [Pane](/en/post/pane/) ([for](/en/post/for/) [window](/en/post/window/) [glass](/en/post/glass/))
-- [Lens](/en/post/lens/) ([for](/en/post/for/) [optical](/en/post/optical/) instruments)
-- [Mirror](/en/post/mirror/) ([for](/en/post/for/) reflective [glass](/en/post/glass/) surfaces)
-- Optics ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) lenses [or](/en/post/or/) related [technology](/en/post/technology/)) 
-- Encase ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [meaning](/en/post/meaning/) [to](/en/post/to/) [cover](/en/post/cover/) [with](/en/post/with/) [glass](/en/post/glass/))
+- [Vessel](/post/vessel/) ([for](/post/for/) drinking [container](/post/container/))
+- [Pane](/post/pane/) ([for](/post/for/) [window](/post/window/) [glass](/post/glass/))
+- [Lens](/post/lens/) ([for](/post/for/) [optical](/post/optical/) instruments)
+- [Mirror](/post/mirror/) ([for](/post/for/) reflective [glass](/post/glass/) surfaces)
+- Optics ([in](/post/in/) [the](/post/the/) context [of](/post/of/) lenses [or](/post/or/) related [technology](/post/technology/)) 
+- Encase ([as](/post/as/) [a](/post/a/) [verb](/post/verb/) [meaning](/post/meaning/) [to](/post/to/) [cover](/post/cover/) [with](/post/with/) [glass](/post/glass/))

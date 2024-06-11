@@ -7,47 +7,47 @@ description = '[ˈkɔndʌkt,-dəkt] n.举止，行为；指导'
 keywords = ['ai words', 'conduct']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈdʌkt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Conduct](/en/post/conduct/)**: [The](/en/post/the/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) [someone](/en/post/someone/) behaves [or](/en/post/or/) conducts [themselves](/en/post/themselves/), [often](/en/post/often/) referring [to](/en/post/to/) [proper](/en/post/proper/) [behavior](/en/post/behavior/) [or](/en/post/or/) actions. [Example](/en/post/example/): "[He](/en/post/he/) maintained [a](/en/post/a/) [good](/en/post/good/) [conduct](/en/post/conduct/) [during](/en/post/during/) [the](/en/post/the/) [course](/en/post/course/)."
-2. **Conductance**: [The](/en/post/the/) [ability](/en/post/ability/) [of](/en/post/of/) [a](/en/post/a/) [material](/en/post/material/) [to](/en/post/to/) [allow](/en/post/allow/) [electric](/en/post/electric/) [current](/en/post/current/) [to](/en/post/to/) [flow](/en/post/flow/) [through](/en/post/through/) [it](/en/post/it/). [Example](/en/post/example/): "[The](/en/post/the/) [high](/en/post/high/) conductivity [of](/en/post/of/) [copper](/en/post/copper/) makes [it](/en/post/it/) [ideal](/en/post/ideal/) [for](/en/post/for/) [electrical](/en/post/electrical/) wiring."
-3. **Conductivity**: [The](/en/post/the/) [ease](/en/post/ease/) [with](/en/post/with/) [which](/en/post/which/) [heat](/en/post/heat/) [or](/en/post/or/) [electricity](/en/post/electricity/) [can](/en/post/can/) [be](/en/post/be/) transmitted [through](/en/post/through/) [a](/en/post/a/) [material](/en/post/material/). [Example](/en/post/example/): "Metals [have](/en/post/have/) [high](/en/post/high/) thermal conductivity."
-4. **[A](/en/post/a/) [musical](/en/post/musical/) [performance](/en/post/performance/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) playing [or](/en/post/or/) singing, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [public](/en/post/public/) [or](/en/post/or/) [formal](/en/post/formal/) [setting](/en/post/setting/). [Example](/en/post/example/): "[The](/en/post/the/) orchestra's [concert](/en/post/concert/) was well-received [due](/en/post/due/) [to](/en/post/to/) [their](/en/post/their/) impeccable [conduct](/en/post/conduct/)."
+### [Noun](/post/noun/)
+1. **[Conduct](/post/conduct/)**: [The](/post/the/) [manner](/post/manner/) [in](/post/in/) [which](/post/which/) [someone](/post/someone/) behaves [or](/post/or/) conducts [themselves](/post/themselves/), [often](/post/often/) referring [to](/post/to/) [proper](/post/proper/) [behavior](/post/behavior/) [or](/post/or/) actions. [Example](/post/example/): "[He](/post/he/) maintained [a](/post/a/) [good](/post/good/) [conduct](/post/conduct/) [during](/post/during/) [the](/post/the/) [course](/post/course/)."
+2. **Conductance**: [The](/post/the/) [ability](/post/ability/) [of](/post/of/) [a](/post/a/) [material](/post/material/) [to](/post/to/) [allow](/post/allow/) [electric](/post/electric/) [current](/post/current/) [to](/post/to/) [flow](/post/flow/) [through](/post/through/) [it](/post/it/). [Example](/post/example/): "[The](/post/the/) [high](/post/high/) conductivity [of](/post/of/) [copper](/post/copper/) makes [it](/post/it/) [ideal](/post/ideal/) [for](/post/for/) [electrical](/post/electrical/) wiring."
+3. **Conductivity**: [The](/post/the/) [ease](/post/ease/) [with](/post/with/) [which](/post/which/) [heat](/post/heat/) [or](/post/or/) [electricity](/post/electricity/) [can](/post/can/) [be](/post/be/) transmitted [through](/post/through/) [a](/post/a/) [material](/post/material/). [Example](/post/example/): "Metals [have](/post/have/) [high](/post/high/) thermal conductivity."
+4. **[A](/post/a/) [musical](/post/musical/) [performance](/post/performance/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) playing [or](/post/or/) singing, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [public](/post/public/) [or](/post/or/) [formal](/post/formal/) [setting](/post/setting/). [Example](/post/example/): "[The](/post/the/) orchestra's [concert](/post/concert/) was well-received [due](/post/due/) [to](/post/to/) [their](/post/their/) impeccable [conduct](/post/conduct/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [manage](/en/post/manage/) [or](/en/post/or/) [direct](/en/post/direct/) [the](/en/post/the/) actions [or](/en/post/or/) [behavior](/en/post/behavior/) [of](/en/post/of/) others, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) context. [Example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) conducted [the](/en/post/the/) [class](/en/post/class/) effectively."
-2. [To](/en/post/to/) [perform](/en/post/perform/) [or](/en/post/or/) [execute](/en/post/execute/) ([a](/en/post/a/) [task](/en/post/task/), [experiment](/en/post/experiment/), [or](/en/post/or/) [activity](/en/post/activity/)). [Example](/en/post/example/): "[The](/en/post/the/) scientists conducted [numerous](/en/post/numerous/) experiments [to](/en/post/to/) [test](/en/post/test/) [their](/en/post/their/) hypothesis."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [manage](/post/manage/) [or](/post/or/) [direct](/post/direct/) [the](/post/the/) actions [or](/post/or/) [behavior](/post/behavior/) [of](/post/of/) others, [often](/post/often/) [in](/post/in/) [a](/post/a/) [formal](/post/formal/) context. [Example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) conducted [the](/post/the/) [class](/post/class/) effectively."
+2. [To](/post/to/) [perform](/post/perform/) [or](/post/or/) [execute](/post/execute/) ([a](/post/a/) [task](/post/task/), [experiment](/post/experiment/), [or](/post/or/) [activity](/post/activity/)). [Example](/post/example/): "[The](/post/the/) scientists conducted [numerous](/post/numerous/) experiments [to](/post/to/) [test](/post/test/) [their](/post/their/) hypothesis."
 
-### [Adjective](/en/post/adjective/)
-1. Characterizing [or](/en/post/or/) showing [proper](/en/post/proper/) [behavior](/en/post/behavior/) [or](/en/post/or/) decorum. [Example](/en/post/example/): "[Her](/en/post/her/) [professional](/en/post/professional/) [conduct](/en/post/conduct/) was commendable."
-2. Pertaining [to](/en/post/to/) [the](/en/post/the/) [science](/en/post/science/) [or](/en/post/or/) [study](/en/post/study/) [of](/en/post/of/) [electricity](/en/post/electricity/) [and](/en/post/and/) magnetism. [Example](/en/post/example/): "[The](/en/post/the/) [course](/en/post/course/) focuses [on](/en/post/on/) [electrical](/en/post/electrical/) conductance."
+### [Adjective](/post/adjective/)
+1. Characterizing [or](/post/or/) showing [proper](/post/proper/) [behavior](/post/behavior/) [or](/post/or/) decorum. [Example](/post/example/): "[Her](/post/her/) [professional](/post/professional/) [conduct](/post/conduct/) was commendable."
+2. Pertaining [to](/post/to/) [the](/post/the/) [science](/post/science/) [or](/post/or/) [study](/post/study/) [of](/post/of/) [electricity](/post/electricity/) [and](/post/and/) magnetism. [Example](/post/example/): "[The](/post/the/) [course](/post/course/) focuses [on](/post/on/) [electrical](/post/electrical/) conductance."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) conducting [or](/en/post/or/) directing [manner](/en/post/manner/). [Example](/en/post/example/): "[The](/en/post/the/) [conductor](/en/post/conductor/) led [the](/en/post/the/) choir [with](/en/post/with/) [precision](/en/post/precision/)."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) conducting [or](/post/or/) directing [manner](/post/manner/). [Example](/post/example/): "[The](/post/the/) [conductor](/post/conductor/) led [the](/post/the/) choir [with](/post/with/) [precision](/post/precision/)."
 
 ## Phrases
-- "[Maintain](/en/post/maintain/) [good](/en/post/good/) [conduct](/en/post/conduct/)"
-- "[Electrical](/en/post/electrical/) conductivity"
-- "[Conduct](/en/post/conduct/) [a](/en/post/a/) [meeting](/en/post/meeting/)"
-- "[Conduct](/en/post/conduct/) [research](/en/post/research/)"
-- "[Conduct](/en/post/conduct/) [oneself](/en/post/oneself/) [with](/en/post/with/) dignity"
+- "[Maintain](/post/maintain/) [good](/post/good/) [conduct](/post/conduct/)"
+- "[Electrical](/post/electrical/) conductivity"
+- "[Conduct](/post/conduct/) [a](/post/a/) [meeting](/post/meeting/)"
+- "[Conduct](/post/conduct/) [research](/post/research/)"
+- "[Conduct](/post/conduct/) [oneself](/post/oneself/) [with](/post/with/) dignity"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [conduct](/en/post/conduct/) [in](/en/post/in/) [the](/en/post/the/) workplace has [always](/en/post/always/) been exemplary."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) conducted [the](/en/post/the/) students [through](/en/post/through/) [the](/en/post/the/) [museum](/en/post/museum/) [exhibit](/en/post/exhibit/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [material](/en/post/material/) [with](/en/post/with/) [high](/en/post/high/) [electrical](/en/post/electrical/) conductivity is [ideal](/en/post/ideal/) [for](/en/post/for/) [this](/en/post/this/) [application](/en/post/application/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [orchestra](/en/post/orchestra/) [conductor](/en/post/conductor/) led [the](/en/post/the/) ensemble [with](/en/post/with/) consummate [conduct](/en/post/conduct/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [conduct](/post/conduct/) [in](/post/in/) [the](/post/the/) workplace has [always](/post/always/) been exemplary."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) conducted [the](/post/the/) students [through](/post/through/) [the](/post/the/) [museum](/post/museum/) [exhibit](/post/exhibit/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [material](/post/material/) [with](/post/with/) [high](/post/high/) [electrical](/post/electrical/) conductivity is [ideal](/post/ideal/) [for](/post/for/) [this](/post/this/) [application](/post/application/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [orchestra](/post/orchestra/) [conductor](/post/conductor/) led [the](/post/the/) ensemble [with](/post/with/) consummate [conduct](/post/conduct/)."
 
 ## Synonyms
-- [Behavior](/en/post/behavior/)
-- [Manner](/en/post/manner/)
-- [Performance](/en/post/performance/)
+- [Behavior](/post/behavior/)
+- [Manner](/post/manner/)
+- [Performance](/post/performance/)
 - Execution
-- [Management](/en/post/management/)
-- [Efficiency](/en/post/efficiency/)
+- [Management](/post/management/)
+- [Efficiency](/post/efficiency/)
 - Morality
 - Integrity
 - Compliance

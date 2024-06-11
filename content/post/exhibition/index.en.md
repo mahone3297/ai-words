@@ -7,41 +7,41 @@ description = '[ˌeksiˈbi∫ən] n.展览，陈列；展览会'
 keywords = ['ai words', 'exhibition']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌek.sɪˈbɪʃ.n̩/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-- [A](/en/post/a/) [public](/en/post/public/) [display](/en/post/display/) [or](/en/post/or/) showing [of](/en/post/of/) works [of](/en/post/of/) [art](/en/post/art/), items [of](/en/post/of/) [interest](/en/post/interest/), [or](/en/post/or/) skills, typically held [in](/en/post/in/) [a](/en/post/a/) [museum](/en/post/museum/), [gallery](/en/post/gallery/), [or](/en/post/or/) [other](/en/post/other/) venue [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) [education](/en/post/education/) [or](/en/post/or/) entertainment: _"an [exhibition](/en/post/exhibition/) [of](/en/post/of/) [modern](/en/post/modern/) [art](/en/post/art/)"_.
-- [A](/en/post/a/) [show](/en/post/show/) [or](/en/post/or/) [display](/en/post/display/) [of](/en/post/of/) [behavior](/en/post/behavior/) [or](/en/post/or/) emotions, [often](/en/post/often/) [for](/en/post/for/) [effect](/en/post/effect/) [or](/en/post/or/) [to](/en/post/to/) [gain](/en/post/gain/) [attention](/en/post/attention/): _"[a](/en/post/a/) child's [exhibition](/en/post/exhibition/) [of](/en/post/of/) [temper](/en/post/temper/)"_.
-- [A](/en/post/a/) competitive [event](/en/post/event/) [or](/en/post/or/) [contest](/en/post/contest/) [where](/en/post/where/) participants [demonstrate](/en/post/demonstrate/) [their](/en/post/their/) abilities, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) sports tournament [or](/en/post/or/) [dance](/en/post/dance/) [competition](/en/post/competition/): _"[the](/en/post/the/) [annual](/en/post/annual/) [chess](/en/post/chess/) [exhibition](/en/post/exhibition/)"_.
-- [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) exhibiting [or](/en/post/or/) displaying [something](/en/post/something/): _"[the](/en/post/the/) [exhibition](/en/post/exhibition/) [of](/en/post/of/) [new](/en/post/new/) [technology](/en/post/technology/) [at](/en/post/at/) [the](/en/post/the/) [trade](/en/post/trade/) [fair](/en/post/fair/)"_.
+### [Noun](/post/noun/) (n)
+- [A](/post/a/) [public](/post/public/) [display](/post/display/) [or](/post/or/) showing [of](/post/of/) works [of](/post/of/) [art](/post/art/), items [of](/post/of/) [interest](/post/interest/), [or](/post/or/) skills, typically held [in](/post/in/) [a](/post/a/) [museum](/post/museum/), [gallery](/post/gallery/), [or](/post/or/) [other](/post/other/) venue [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) [education](/post/education/) [or](/post/or/) entertainment: _"an [exhibition](/post/exhibition/) [of](/post/of/) [modern](/post/modern/) [art](/post/art/)"_.
+- [A](/post/a/) [show](/post/show/) [or](/post/or/) [display](/post/display/) [of](/post/of/) [behavior](/post/behavior/) [or](/post/or/) emotions, [often](/post/often/) [for](/post/for/) [effect](/post/effect/) [or](/post/or/) [to](/post/to/) [gain](/post/gain/) [attention](/post/attention/): _"[a](/post/a/) child's [exhibition](/post/exhibition/) [of](/post/of/) [temper](/post/temper/)"_.
+- [A](/post/a/) competitive [event](/post/event/) [or](/post/or/) [contest](/post/contest/) [where](/post/where/) participants [demonstrate](/post/demonstrate/) [their](/post/their/) abilities, [such](/post/such/) [as](/post/as/) [a](/post/a/) sports tournament [or](/post/or/) [dance](/post/dance/) [competition](/post/competition/): _"[the](/post/the/) [annual](/post/annual/) [chess](/post/chess/) [exhibition](/post/exhibition/)"_.
+- [The](/post/the/) [act](/post/act/) [of](/post/of/) exhibiting [or](/post/or/) displaying [something](/post/something/): _"[the](/post/the/) [exhibition](/post/exhibition/) [of](/post/of/) [new](/post/new/) [technology](/post/technology/) [at](/post/at/) [the](/post/the/) [trade](/post/trade/) [fair](/post/fair/)"_.
 
-[Example](/en/post/example/) sentences:
-- **[Noun](/en/post/noun/)**: _"[The](/en/post/the/) [science](/en/post/science/) [museum](/en/post/museum/) hosted [a](/en/post/a/) fascinating [exhibition](/en/post/exhibition/) [on](/en/post/on/) [space](/en/post/space/) exploration."_
-- _"[Her](/en/post/her/) [confident](/en/post/confident/) [exhibition](/en/post/exhibition/) [of](/en/post/of/) [dance](/en/post/dance/) moves won [her](/en/post/her/) [the](/en/post/the/) [first](/en/post/first/) [prize](/en/post/prize/) [in](/en/post/in/) [the](/en/post/the/) [competition](/en/post/competition/)."_
+[Example](/post/example/) sentences:
+- **[Noun](/post/noun/)**: _"[The](/post/the/) [science](/post/science/) [museum](/post/museum/) hosted [a](/post/a/) fascinating [exhibition](/post/exhibition/) [on](/post/on/) [space](/post/space/) exploration."_
+- _"[Her](/post/her/) [confident](/post/confident/) [exhibition](/post/exhibition/) [of](/post/of/) [dance](/post/dance/) moves won [her](/post/her/) [the](/post/the/) [first](/post/first/) [prize](/post/prize/) [in](/post/in/) [the](/post/the/) [competition](/post/competition/)."_
 
 ## Phrases
-- _"[Put](/en/post/put/) [on](/en/post/on/) an [exhibition](/en/post/exhibition/)"_ - [to](/en/post/to/) [organize](/en/post/organize/) [and](/en/post/and/) [host](/en/post/host/) [a](/en/post/a/) [public](/en/post/public/) showing [or](/en/post/or/) [display](/en/post/display/).
-- _"[Participate](/en/post/participate/) [in](/en/post/in/) an [exhibition](/en/post/exhibition/)"_ - [to](/en/post/to/) [take](/en/post/take/) [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [display](/en/post/display/) [or](/en/post/or/) [competition](/en/post/competition/).
-- _"[Exhibition](/en/post/exhibition/) [match](/en/post/match/)"_ - [a](/en/post/a/) non-competitive [game](/en/post/game/) [or](/en/post/or/) [performance](/en/post/performance/) designed [to](/en/post/to/) showcase skills [rather](/en/post/rather/) [than](/en/post/than/) [determine](/en/post/determine/) [a](/en/post/a/) [winner](/en/post/winner/).
+- _"[Put](/post/put/) [on](/post/on/) an [exhibition](/post/exhibition/)"_ - [to](/post/to/) [organize](/post/organize/) [and](/post/and/) [host](/post/host/) [a](/post/a/) [public](/post/public/) showing [or](/post/or/) [display](/post/display/).
+- _"[Participate](/post/participate/) [in](/post/in/) an [exhibition](/post/exhibition/)"_ - [to](/post/to/) [take](/post/take/) [part](/post/part/) [in](/post/in/) [a](/post/a/) [display](/post/display/) [or](/post/or/) [competition](/post/competition/).
+- _"[Exhibition](/post/exhibition/) [match](/post/match/)"_ - [a](/post/a/) non-competitive [game](/post/game/) [or](/post/or/) [performance](/post/performance/) designed [to](/post/to/) showcase skills [rather](/post/rather/) [than](/post/than/) [determine](/post/determine/) [a](/post/a/) [winner](/post/winner/).
 
 ## Synonyms
-- [Show](/en/post/show/)
-- [Display](/en/post/display/)
+- [Show](/post/show/)
+- [Display](/post/display/)
 - Exhibitionism
 - Showcase
-- [Fair](/en/post/fair/)
+- [Fair](/post/fair/)
 - Expo
 - Presentation
 - Demonstration
-- [Spectacle](/en/post/spectacle/)
-- [Event](/en/post/event/)
+- [Spectacle](/post/spectacle/)
+- [Event](/post/event/)
 - Showing
 
-## Derived forms [and](/en/post/and/) related words
-- _Exhibitor_ ([noun](/en/post/noun/)): [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [organization](/en/post/organization/) [that](/en/post/that/) displays items [in](/en/post/in/) an [exhibition](/en/post/exhibition/).
-- _Exhibitory_ ([adjective](/en/post/adjective/)): Relating [to](/en/post/to/) [or](/en/post/or/) serving [as](/en/post/as/) an [exhibition](/en/post/exhibition/).
-- _Exhibit_ ([noun](/en/post/noun/)/[verb](/en/post/verb/)): [Something](/en/post/something/) exhibited; [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) exhibiting. 
+## Derived forms [and](/post/and/) related words
+- _Exhibitor_ ([noun](/post/noun/)): [A](/post/a/) [person](/post/person/) [or](/post/or/) [organization](/post/organization/) [that](/post/that/) displays items [in](/post/in/) an [exhibition](/post/exhibition/).
+- _Exhibitory_ ([adjective](/post/adjective/)): Relating [to](/post/to/) [or](/post/or/) serving [as](/post/as/) an [exhibition](/post/exhibition/).
+- _Exhibit_ ([noun](/post/noun/)/[verb](/post/verb/)): [Something](/post/something/) exhibited; [the](/post/the/) [act](/post/act/) [of](/post/of/) exhibiting. 
 
-[Note](/en/post/note/): '[Exhibition](/en/post/exhibition/)' does [not](/en/post/not/) [have](/en/post/have/) [verb](/en/post/verb/) [or](/en/post/or/) [adjective](/en/post/adjective/) forms [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [sense](/en/post/sense/) [as](/en/post/as/) [the](/en/post/the/) [example](/en/post/example/) [provided](/en/post/provided/) [for](/en/post/for/) '[hello](/en/post/hello/)'. [However](/en/post/however/), [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) attributively [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [to](/en/post/to/) [modify](/en/post/modify/) [another](/en/post/another/) [noun](/en/post/noun/) (e.g., "[exhibition](/en/post/exhibition/) [hall](/en/post/hall/)", "[exhibition](/en/post/exhibition/) [space](/en/post/space/)").
+[Note](/post/note/): '[Exhibition](/post/exhibition/)' does [not](/post/not/) [have](/post/have/) [verb](/post/verb/) [or](/post/or/) [adjective](/post/adjective/) forms [in](/post/in/) [the](/post/the/) [same](/post/same/) [sense](/post/sense/) [as](/post/as/) [the](/post/the/) [example](/post/example/) [provided](/post/provided/) [for](/post/for/) '[hello](/post/hello/)'. [However](/post/however/), [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) attributively [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [to](/post/to/) [modify](/post/modify/) [another](/post/another/) [noun](/post/noun/) (e.g., "[exhibition](/post/exhibition/) [hall](/post/hall/)", "[exhibition](/post/exhibition/) [space](/post/space/)").

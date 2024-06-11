@@ -7,38 +7,38 @@ description = '[kəˈnæl] n.运河；沟渠；管'
 keywords = ['ai words', 'canal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈnæl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[canal](/en/post/canal/)** is:
-1. A人工开凿的水道，通常用于运输或 drainage, [often](/en/post/often/) [with](/en/post/with/) locks [to](/en/post/to/) [allow](/en/post/allow/) boats [to](/en/post/to/) navigate [different](/en/post/different/) [water](/en/post/water/) levels.
-   - [Example](/en/post/example/): "[The](/en/post/the/) Panama [Canal](/en/post/canal/) connects [the](/en/post/the/) [Atlantic](/en/post/atlantic/) [and](/en/post/and/) [Pacific](/en/post/pacific/) Oceans."
-2. [A](/en/post/a/) [narrow](/en/post/narrow/) [strip](/en/post/strip/) [of](/en/post/of/) [land](/en/post/land/) [or](/en/post/or/) [water](/en/post/water/) [that](/en/post/that/) is dug [or](/en/post/or/) [naturally](/en/post/naturally/) occurring, serving [as](/en/post/as/) [a](/en/post/a/) [barrier](/en/post/barrier/) [or](/en/post/or/) dividing [line](/en/post/line/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [Grand](/en/post/grand/) [Canal](/en/post/canal/) divides Venice [into](/en/post/into/) [two](/en/post/two/) [main](/en/post/main/) parts."
+### [Noun](/post/noun/)
+[A](/post/a/) **[canal](/post/canal/)** is:
+1. A人工开凿的水道，通常用于运输或 drainage, [often](/post/often/) [with](/post/with/) locks [to](/post/to/) [allow](/post/allow/) boats [to](/post/to/) navigate [different](/post/different/) [water](/post/water/) levels.
+   - [Example](/post/example/): "[The](/post/the/) Panama [Canal](/post/canal/) connects [the](/post/the/) [Atlantic](/post/atlantic/) [and](/post/and/) [Pacific](/post/pacific/) Oceans."
+2. [A](/post/a/) [narrow](/post/narrow/) [strip](/post/strip/) [of](/post/of/) [land](/post/land/) [or](/post/or/) [water](/post/water/) [that](/post/that/) is dug [or](/post/or/) [naturally](/post/naturally/) occurring, serving [as](/post/as/) [a](/post/a/) [barrier](/post/barrier/) [or](/post/or/) dividing [line](/post/line/).
+   - [Example](/post/example/): "[The](/post/the/) [Grand](/post/grand/) [Canal](/post/canal/) divides Venice [into](/post/into/) [two](/post/two/) [main](/post/main/) parts."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **canalize** ([or](/en/post/or/) [sometimes](/en/post/sometimes/) *[channel](/en/post/channel/)*) [something](/en/post/something/) [means](/en/post/means/) [to](/en/post/to/) [direct](/en/post/direct/) [it](/en/post/it/) [through](/en/post/through/) [a](/en/post/a/) [canal](/en/post/canal/) [or](/en/post/or/) [channel](/en/post/channel/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [river](/en/post/river/) was canalized [to](/en/post/to/) [reduce](/en/post/reduce/) flooding [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/)."
+### [Verb](/post/verb/)
+[To](/post/to/) **canalize** ([or](/post/or/) [sometimes](/post/sometimes/) *[channel](/post/channel/)*) [something](/post/something/) [means](/post/means/) [to](/post/to/) [direct](/post/direct/) [it](/post/it/) [through](/post/through/) [a](/post/a/) [canal](/post/canal/) [or](/post/or/) [channel](/post/channel/).
+   - [Example](/post/example/): "[The](/post/the/) [river](/post/river/) was canalized [to](/post/to/) [reduce](/post/reduce/) flooding [in](/post/in/) [the](/post/the/) [city](/post/city/)."
 
-### [Adjective](/en/post/adjective/)
-- [In](/en/post/in/) [architecture](/en/post/architecture/) [or](/en/post/or/) [engineering](/en/post/engineering/), "canal-like" describes [something](/en/post/something/) resembling [a](/en/post/a/) [canal](/en/post/canal/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [building](/en/post/building/) featured canal-like atriums."
+### [Adjective](/post/adjective/)
+- [In](/post/in/) [architecture](/post/architecture/) [or](/post/or/) [engineering](/post/engineering/), "canal-like" describes [something](/post/something/) resembling [a](/post/a/) [canal](/post/canal/).
+   - [Example](/post/example/): "[The](/post/the/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [building](/post/building/) featured canal-like atriums."
 
 ## Phrases
-- "[Open](/en/post/open/) [a](/en/post/a/) [canal](/en/post/canal/)" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) [or](/en/post/or/) [create](/en/post/create/) [a](/en/post/a/) [passage](/en/post/passage/) [or](/en/post/or/) [communication](/en/post/communication/) [channel](/en/post/channel/).
-- "[A](/en/post/a/) [canal](/en/post/canal/) [system](/en/post/system/)" refers [to](/en/post/to/) [a](/en/post/a/) [network](/en/post/network/) [of](/en/post/of/) interconnected canals [for](/en/post/for/) [transportation](/en/post/transportation/) [or](/en/post/or/) drainage purposes.
-- "[Canal](/en/post/canal/) [lock](/en/post/lock/) gates" are [the](/en/post/the/) barriers controlling [water](/en/post/water/) levels [in](/en/post/in/) [a](/en/post/a/) [canal](/en/post/canal/).
+- "[Open](/post/open/) [a](/post/a/) [canal](/post/canal/)" [means](/post/means/) [to](/post/to/) [start](/post/start/) [or](/post/or/) [create](/post/create/) [a](/post/a/) [passage](/post/passage/) [or](/post/or/) [communication](/post/communication/) [channel](/post/channel/).
+- "[A](/post/a/) [canal](/post/canal/) [system](/post/system/)" refers [to](/post/to/) [a](/post/a/) [network](/post/network/) [of](/post/of/) interconnected canals [for](/post/for/) [transportation](/post/transportation/) [or](/post/or/) drainage purposes.
+- "[Canal](/post/canal/) [lock](/post/lock/) gates" are [the](/post/the/) barriers controlling [water](/post/water/) levels [in](/post/in/) [a](/post/a/) [canal](/post/canal/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [canal](/en/post/canal/) was lined [with](/en/post/with/) lush vegetation [on](/en/post/on/) [either](/en/post/either/) [side](/en/post/side/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) planned [to](/en/post/to/) canalize [the](/en/post/the/) [river](/en/post/river/) [to](/en/post/to/) [improve](/en/post/improve/) [navigation](/en/post/navigation/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) garden's [layout](/en/post/layout/) resembled [a](/en/post/a/) [canal](/en/post/canal/) [system](/en/post/system/), [with](/en/post/with/) winding paths."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [canal](/post/canal/) was lined [with](/post/with/) lush vegetation [on](/post/on/) [either](/post/either/) [side](/post/side/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) planned [to](/post/to/) canalize [the](/post/the/) [river](/post/river/) [to](/post/to/) [improve](/post/improve/) [navigation](/post/navigation/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) garden's [layout](/post/layout/) resembled [a](/post/a/) [canal](/post/canal/) [system](/post/system/), [with](/post/with/) winding paths."
 
 ## Synonyms
 - Waterway
 - Aqueduct
-- [Channel](/en/post/channel/)
-- [Ditch](/en/post/ditch/)
-- [Lane](/en/post/lane/) ([less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/) [for](/en/post/for/) waterways)
+- [Channel](/post/channel/)
+- [Ditch](/post/ditch/)
+- [Lane](/post/lane/) ([less](/post/less/) [commonly](/post/commonly/) [used](/post/used/) [for](/post/for/) waterways)

@@ -7,34 +7,34 @@ description = '[priˈfəː] vt.宁可，宁愿'
 keywords = ['ai words', 'prefer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /preˈfɜːr/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) stronger liking [or](/en/post/or/) [preference](/en/post/preference/) [for](/en/post/for/) [one](/en/post/one/) [thing](/en/post/thing/) [over](/en/post/over/) [another](/en/post/another/); [to](/en/post/to/) [choose](/en/post/choose/) [or](/en/post/or/) opt [for](/en/post/for/). [For](/en/post/for/) [example](/en/post/example/): "I [prefer](/en/post/prefer/) [tea](/en/post/tea/) [over](/en/post/over/) [coffee](/en/post/coffee/)."
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [tendency](/en/post/tendency/) [or](/en/post/or/) inclination towards [a](/en/post/a/) [particular](/en/post/particular/) [choice](/en/post/choice/) [or](/en/post/or/) [option](/en/post/option/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [preference](/en/post/preference/) is [for](/en/post/for/) spicy [food](/en/post/food/)."
-- **[Adjective](/en/post/adjective/)**: (adj) Showing [a](/en/post/a/) [strong](/en/post/strong/) liking [or](/en/post/or/) inclination; favorite. [For](/en/post/for/) [example](/en/post/example/): "That's [his](/en/post/his/) preferred [method](/en/post/method/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [have](/post/have/) [a](/post/a/) stronger liking [or](/post/or/) [preference](/post/preference/) [for](/post/for/) [one](/post/one/) [thing](/post/thing/) [over](/post/over/) [another](/post/another/); [to](/post/to/) [choose](/post/choose/) [or](/post/or/) opt [for](/post/for/). [For](/post/for/) [example](/post/example/): "I [prefer](/post/prefer/) [tea](/post/tea/) [over](/post/over/) [coffee](/post/coffee/)."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [tendency](/post/tendency/) [or](/post/or/) inclination towards [a](/post/a/) [particular](/post/particular/) [choice](/post/choice/) [or](/post/or/) [option](/post/option/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [preference](/post/preference/) is [for](/post/for/) spicy [food](/post/food/)."
+- **[Adjective](/post/adjective/)**: (adj) Showing [a](/post/a/) [strong](/post/strong/) liking [or](/post/or/) inclination; favorite. [For](/post/for/) [example](/post/example/): "That's [his](/post/his/) preferred [method](/post/method/)."
 
 ## Phrases
-- "[Have](/en/post/have/) [a](/en/post/a/) [preference](/en/post/preference/) [for](/en/post/for/)" indicates [a](/en/post/a/) [strong](/en/post/strong/) liking [or](/en/post/or/) inclination.
-- "[Preferable](/en/post/preferable/) [to](/en/post/to/)" suggests [that](/en/post/that/) [one](/en/post/one/) [thing](/en/post/thing/) is [better](/en/post/better/) [or](/en/post/or/) [more](/en/post/more/) [suitable](/en/post/suitable/).
-- "[No](/en/post/no/) [preference](/en/post/preference/)" [means](/en/post/means/) having [no](/en/post/no/) [particular](/en/post/particular/) liking [or](/en/post/or/) [choice](/en/post/choice/).
+- "[Have](/post/have/) [a](/post/a/) [preference](/post/preference/) [for](/post/for/)" indicates [a](/post/a/) [strong](/post/strong/) liking [or](/post/or/) inclination.
+- "[Preferable](/post/preferable/) [to](/post/to/)" suggests [that](/post/that/) [one](/post/one/) [thing](/post/thing/) is [better](/post/better/) [or](/post/or/) [more](/post/more/) [suitable](/post/suitable/).
+- "[No](/post/no/) [preference](/post/preference/)" [means](/post/means/) having [no](/post/no/) [particular](/post/particular/) liking [or](/post/or/) [choice](/post/choice/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I'd [prefer](/en/post/prefer/) [to](/en/post/to/) [stay](/en/post/stay/) [at](/en/post/at/) [home](/en/post/home/) [tonight](/en/post/tonight/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [preference](/en/post/preference/) is [for](/en/post/for/) [reading](/en/post/reading/) books [over](/en/post/over/) watching TV."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [quiet](/en/post/quiet/) [corner](/en/post/corner/) [of](/en/post/of/) [the](/en/post/the/) [library](/en/post/library/) is [his](/en/post/his/) preferred [study](/en/post/study/) [spot](/en/post/spot/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I'd [prefer](/post/prefer/) [to](/post/to/) [stay](/post/stay/) [at](/post/at/) [home](/post/home/) [tonight](/post/tonight/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [preference](/post/preference/) is [for](/post/for/) [reading](/post/reading/) books [over](/post/over/) watching TV."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [quiet](/post/quiet/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [library](/post/library/) is [his](/post/his/) preferred [study](/post/study/) [spot](/post/spot/)."
 
 ## Synonyms
 - Favor
-- [Like](/en/post/like/) [better](/en/post/better/)
-- [Tend](/en/post/tend/) [to](/en/post/to/)
-- Opt [for](/en/post/for/)
-- [Desire](/en/post/desire/)
+- [Like](/post/like/) [better](/post/better/)
+- [Tend](/post/tend/) [to](/post/to/)
+- Opt [for](/post/for/)
+- [Desire](/post/desire/)
 
 ## Antonyms
-- [Dislike](/en/post/dislike/)
-- [Hate](/en/post/hate/)
+- [Dislike](/post/dislike/)
+- [Hate](/post/hate/)
 - Abhor
 - Detest
-- [Have](/en/post/have/) [no](/en/post/no/) liking [for](/en/post/for/)
+- [Have](/post/have/) [no](/post/no/) liking [for](/post/for/)

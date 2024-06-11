@@ -11,26 +11,26 @@ keywords = ['ai words', 'loop']
 /luːp/
 
 ## 释义
-- **名词**: 1. (形状像环的东西) 环, 圈: "[She](/post/she/) wore [a](/post/a/) [silver](/post/silver/) [necklace](/post/necklace/) [with](/post/with/) [a](/post/a/) [small](/post/small/) [loop](/post/loop/)."  
-2. (重复的过程或部分) 循环, 圈套: "[The](/post/the/) [program](/post/program/) has an [infinite](/post/infinite/) [loop](/post/loop/)."
-3. (电路中的回路) 回路, 环线: "[Close](/post/close/) [the](/post/the/) [electrical](/post/electrical/) [loop](/post/loop/) [to](/post/to/) [turn](/post/turn/) [on](/post/on/) [the](/post/the/) [light](/post/light/)."
+- **名词**: 1. (形状像环的东西) 环, 圈: "[She](/zh/post/she/) wore [a](/zh/post/a/) [silver](/zh/post/silver/) [necklace](/zh/post/necklace/) [with](/zh/post/with/) [a](/zh/post/a/) [small](/zh/post/small/) [loop](/zh/post/loop/)."  
+2. (重复的过程或部分) 循环, 圈套: "[The](/zh/post/the/) [program](/zh/post/program/) has an [infinite](/zh/post/infinite/) [loop](/zh/post/loop/)."
+3. (电路中的回路) 回路, 环线: "[Close](/zh/post/close/) [the](/zh/post/the/) [electrical](/zh/post/electrical/) [loop](/zh/post/loop/) [to](/zh/post/to/) [turn](/zh/post/turn/) [on](/zh/post/on/) [the](/zh/post/the/) [light](/zh/post/light/)."
 
-- **动词**: 使成环状; 缠绕: "[Loop](/post/loop/) [the](/post/the/) [rope](/post/rope/) [around](/post/around/) [the](/post/the/) [tree](/post/tree/)."
-- **形容词**: 形成环状的; 环形的: "[a](/post/a/) [loop](/post/loop/) [of](/post/of/) [wire](/post/wire/)"
+- **动词**: 使成环状; 缠绕: "[Loop](/zh/post/loop/) [the](/zh/post/the/) [rope](/zh/post/rope/) [around](/zh/post/around/) [the](/zh/post/the/) [tree](/zh/post/tree/)."
+- **形容词**: 形成环状的; 环形的: "[a](/zh/post/a/) [loop](/zh/post/loop/) [of](/zh/post/of/) [wire](/zh/post/wire/)"
 
 ## 短语
-- "[jump](/post/jump/) [through](/post/through/) loops" 意为经历许多麻烦或困难。
-- "[in](/post/in/) [a](/post/a/) [loop](/post/loop/)" 表示陷入反复无常或无法摆脱的状态。
-- "email [loop](/post/loop/)" 指电子邮件循环，即邮件被不断自动回复。
+- "[jump](/zh/post/jump/) [through](/zh/post/through/) loops" 意为经历许多麻烦或困难。
+- "[in](/zh/post/in/) [a](/zh/post/a/) [loop](/zh/post/loop/)" 表示陷入反复无常或无法摆脱的状态。
+- "email [loop](/zh/post/loop/)" 指电子邮件循环，即邮件被不断自动回复。
 
 ## 例句
-- 名词: "[The](/post/the/) rollercoaster made [a](/post/a/) thrilling [loop](/post/loop/) [in](/post/in/) mid-air."
-- 动词: "[She](/post/she/) looped [the](/post/the/) [scarf](/post/scarf/) [around](/post/around/) [her](/post/her/) [neck](/post/neck/) [for](/post/for/) [warmth](/post/warmth/)."
-- 形容词: "[The](/post/the/) [track](/post/track/) had [several](/post/several/) [loop](/post/loop/) turns [that](/post/that/) made [the](/post/the/) [race](/post/race/) [exciting](/post/exciting/)."
+- 名词: "[The](/zh/post/the/) rollercoaster made [a](/zh/post/a/) thrilling [loop](/zh/post/loop/) [in](/zh/post/in/) mid-air."
+- 动词: "[She](/zh/post/she/) looped [the](/zh/post/the/) [scarf](/zh/post/scarf/) [around](/zh/post/around/) [her](/zh/post/her/) [neck](/zh/post/neck/) [for](/zh/post/for/) [warmth](/zh/post/warmth/)."
+- 形容词: "[The](/zh/post/the/) [track](/zh/post/track/) had [several](/zh/post/several/) [loop](/zh/post/loop/) turns [that](/zh/post/that/) made [the](/zh/post/the/) [race](/zh/post/race/) [exciting](/zh/post/exciting/)."
 
 ## 同义词
-- [Circle](/post/circle/)
-- [Bend](/post/bend/)
-- [Knot](/post/knot/)
-- [Curve](/post/curve/)
-- [Repeat](/post/repeat/)
+- [Circle](/zh/post/circle/)
+- [Bend](/zh/post/bend/)
+- [Knot](/zh/post/knot/)
+- [Curve](/zh/post/curve/)
+- [Repeat](/zh/post/repeat/)

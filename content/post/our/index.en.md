@@ -7,31 +7,31 @@ description = '[ˈauə] pron.我们的'
 keywords = ['ai words', 'our']
 +++
 
-## [Word](/en/post/word/): [Our](/en/post/our/)
+## [Word](/post/word/): [Our](/post/our/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaʊər/
 
 ## Definitions
-**[Pronoun](/en/post/pronoun/)**: Referring [to](/en/post/to/) [a](/en/post/a/) belonging [or](/en/post/or/) [possession](/en/post/possession/) shared [by](/en/post/by/) [the](/en/post/the/) [speaker](/en/post/speaker/) [and](/en/post/and/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) [other](/en/post/other/) [people](/en/post/people/). [It](/en/post/it/) indicates [that](/en/post/that/) [something](/en/post/something/) belongs [to](/en/post/to/) [the](/en/post/the/) [group](/en/post/group/) [that](/en/post/that/) includes [the](/en/post/the/) [speaker](/en/post/speaker/). 
+**[Pronoun](/post/pronoun/)**: Referring [to](/post/to/) [a](/post/a/) belonging [or](/post/or/) [possession](/post/possession/) shared [by](/post/by/) [the](/post/the/) [speaker](/post/speaker/) [and](/post/and/) [one](/post/one/) [or](/post/or/) [more](/post/more/) [other](/post/other/) [people](/post/people/). [It](/post/it/) indicates [that](/post/that/) [something](/post/something/) belongs [to](/post/to/) [the](/post/the/) [group](/post/group/) [that](/post/that/) includes [the](/post/the/) [speaker](/post/speaker/). 
 
-- **[Example](/en/post/example/)**: _Our [house](/en/post/house/) is [on](/en/post/on/) [the](/en/post/the/) [corner](/en/post/corner/)._
-- _We're [proud](/en/post/proud/) [of](/en/post/of/) [our](/en/post/our/) team's [performance](/en/post/performance/)._
+- **[Example](/post/example/)**: _Our [house](/post/house/) is [on](/post/on/) [the](/post/the/) [corner](/post/corner/)._
+- _We're [proud](/post/proud/) [of](/post/of/) [our](/post/our/) team's [performance](/post/performance/)._
 
-## [Usage](/en/post/usage/) [in](/en/post/in/) Phrases
-- **"[Our](/en/post/our/) [mutual](/en/post/mutual/) [friend](/en/post/friend/)"**: [A](/en/post/a/) shared [acquaintance](/en/post/acquaintance/) [between](/en/post/between/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) individuals.
-- **"[Our](/en/post/our/) plans [for](/en/post/for/) [the](/en/post/the/) [future](/en/post/future/)"**: Refers [to](/en/post/to/) plans [that](/en/post/that/) [belong](/en/post/belong/) [to](/en/post/to/) [or](/en/post/or/) [involve](/en/post/involve/) [the](/en/post/the/) [speaker](/en/post/speaker/) [and](/en/post/and/) others.
-- **"[In](/en/post/in/) [our](/en/post/our/) [opinion](/en/post/opinion/)"**: Expresses [a](/en/post/a/) [view](/en/post/view/) held collectively [by](/en/post/by/) [a](/en/post/a/) [group](/en/post/group/) [that](/en/post/that/) includes [the](/en/post/the/) [speaker](/en/post/speaker/).
+## [Usage](/post/usage/) [in](/post/in/) Phrases
+- **"[Our](/post/our/) [mutual](/post/mutual/) [friend](/post/friend/)"**: [A](/post/a/) shared [acquaintance](/post/acquaintance/) [between](/post/between/) [two](/post/two/) [or](/post/or/) [more](/post/more/) individuals.
+- **"[Our](/post/our/) plans [for](/post/for/) [the](/post/the/) [future](/post/future/)"**: Refers [to](/post/to/) plans [that](/post/that/) [belong](/post/belong/) [to](/post/to/) [or](/post/or/) [involve](/post/involve/) [the](/post/the/) [speaker](/post/speaker/) [and](/post/and/) others.
+- **"[In](/post/in/) [our](/post/our/) [opinion](/post/opinion/)"**: Expresses [a](/post/a/) [view](/post/view/) held collectively [by](/post/by/) [a](/post/a/) [group](/post/group/) [that](/post/that/) includes [the](/post/the/) [speaker](/post/speaker/).
 
-## [Example](/en/post/example/) Sentences
-- **[Pronoun](/en/post/pronoun/)**: _Our [car](/en/post/car/) needs [a](/en/post/a/) [wash](/en/post/wash/) [before](/en/post/before/) [the](/en/post/the/) [trip](/en/post/trip/)._
-  - _The children [love](/en/post/love/) playing [in](/en/post/in/) [our](/en/post/our/) backyard._
+## [Example](/post/example/) Sentences
+- **[Pronoun](/post/pronoun/)**: _Our [car](/post/car/) needs [a](/post/a/) [wash](/post/wash/) [before](/post/before/) [the](/post/the/) [trip](/post/trip/)._
+  - _The children [love](/post/love/) playing [in](/post/in/) [our](/post/our/) backyard._
   
 ## Synonyms
-- [Ours](/en/post/ours/) (possessive [form](/en/post/form/))
+- [Ours](/post/ours/) (possessive [form](/post/form/))
 - Shared
-- [Mutual](/en/post/mutual/)
-- [Joint](/en/post/joint/)
-- [Collective](/en/post/collective/)
+- [Mutual](/post/mutual/)
+- [Joint](/post/joint/)
+- [Collective](/post/collective/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [word](/en/post/word/) "[our](/en/post/our/)" does [not](/en/post/not/) [have](/en/post/have/) [alternative](/en/post/alternative/) part-of-speech uses [such](/en/post/such/) [as](/en/post/as/) [noun](/en/post/noun/), [verb](/en/post/verb/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), etc., [as](/en/post/as/) [it](/en/post/it/) is [primarily](/en/post/primarily/) [a](/en/post/a/) possessive [pronoun](/en/post/pronoun/).
+[Note](/post/note/): [The](/post/the/) [word](/post/word/) "[our](/post/our/)" does [not](/post/not/) [have](/post/have/) [alternative](/post/alternative/) part-of-speech uses [such](/post/such/) [as](/post/as/) [noun](/post/noun/), [verb](/post/verb/), [adjective](/post/adjective/), [adverb](/post/adverb/), etc., [as](/post/as/) [it](/post/it/) is [primarily](/post/primarily/) [a](/post/a/) possessive [pronoun](/post/pronoun/).

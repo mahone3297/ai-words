@@ -7,36 +7,36 @@ description = '[ˈskilful] a.灵巧的，娴熟的'
 keywords = ['ai words', 'skillful']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪlˈkʊlfʊl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) having [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/) [of](/en/post/of/) proficiency, dexterity, [or](/en/post/or/) [ability](/en/post/ability/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/) [or](/en/post/or/) [field](/en/post/field/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) chef is [skillful](/en/post/skillful/) [in](/en/post/in/) preparing intricate dishes."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [display](/en/post/display/) [of](/en/post/of/) [skill](/en/post/skill/) [or](/en/post/or/) expertise; [a](/en/post/a/) proficient [or](/en/post/or/) [competent](/en/post/competent/) [performance](/en/post/performance/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [skillful](/en/post/skillful/) [piano](/en/post/piano/) playing impressed [the](/en/post/the/) [audience](/en/post/audience/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) having [a](/post/a/) [high](/post/high/) [degree](/post/degree/) [of](/post/of/) proficiency, dexterity, [or](/post/or/) [ability](/post/ability/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/) [or](/post/or/) [field](/post/field/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) chef is [skillful](/post/skillful/) [in](/post/in/) preparing intricate dishes."
+- **[Noun](/post/noun/)**: [A](/post/a/) [display](/post/display/) [of](/post/of/) [skill](/post/skill/) [or](/post/or/) expertise; [a](/post/a/) proficient [or](/post/or/) [competent](/post/competent/) [performance](/post/performance/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [skillful](/post/skillful/) [piano](/post/piano/) playing impressed [the](/post/the/) [audience](/post/audience/)."
 
 ## Phrases
-- "[Skillful](/en/post/skillful/) craftsmanship" refers [to](/en/post/to/) [excellent](/en/post/excellent/) workmanship.
-- "[A](/en/post/a/) [skillful](/en/post/skillful/) [surgeon](/en/post/surgeon/)" is [a](/en/post/a/) [highly](/en/post/highly/) [competent](/en/post/competent/) [and](/en/post/and/) experienced [doctor](/en/post/doctor/).
-- "[Skillful](/en/post/skillful/) problem-solving" denotes [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [find](/en/post/find/) [effective](/en/post/effective/) solutions.
+- "[Skillful](/post/skillful/) craftsmanship" refers [to](/post/to/) [excellent](/post/excellent/) workmanship.
+- "[A](/post/a/) [skillful](/post/skillful/) [surgeon](/post/surgeon/)" is [a](/post/a/) [highly](/post/highly/) [competent](/post/competent/) [and](/post/and/) experienced [doctor](/post/doctor/).
+- "[Skillful](/post/skillful/) problem-solving" denotes [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [find](/post/find/) [effective](/post/effective/) solutions.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) performed [her](/en/post/her/) [dance](/en/post/dance/) [routine](/en/post/routine/) [with](/en/post/with/) incredible [skillful](/en/post/skillful/) [grace](/en/post/grace/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) architect's [skillful](/en/post/skillful/) [design](/en/post/design/) blended seamlessly [with](/en/post/with/) [the](/en/post/the/) [surroundings](/en/post/surroundings/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) handled [the](/en/post/the/) [situation](/en/post/situation/) [with](/en/post/with/) [remarkable](/en/post/remarkable/) skillfulness."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) performed [her](/post/her/) [dance](/post/dance/) [routine](/post/routine/) [with](/post/with/) incredible [skillful](/post/skillful/) [grace](/post/grace/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) architect's [skillful](/post/skillful/) [design](/post/design/) blended seamlessly [with](/post/with/) [the](/post/the/) [surroundings](/post/surroundings/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) handled [the](/post/the/) [situation](/post/situation/) [with](/post/with/) [remarkable](/post/remarkable/) skillfulness."
 
 ## Synonyms
 - Proficient
 - Talented
-- [Expert](/en/post/expert/)
-- [Skilled](/en/post/skilled/)
+- [Expert](/post/expert/)
+- [Skilled](/post/skilled/)
 - Articulate
-- [Competent](/en/post/competent/)
+- [Competent](/post/competent/)
 - Adroit
 - Astute
 
 ## Antonyms
 - Inexperienced
 - Unskilled
-- [Clumsy](/en/post/clumsy/)
+- [Clumsy](/post/clumsy/)
 - Incompetent
 - Amateurish

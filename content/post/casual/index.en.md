@@ -7,23 +7,23 @@ description = '[ˈkæʒuəl] a.偶然的；随便的'
 keywords = ['ai words', 'casual']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈsæl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Showing [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) formality [or](/en/post/or/) seriousness; relaxed, informal, [or](/en/post/or/) offhand. [Example](/en/post/example/): "[She](/en/post/she/) wore [a](/en/post/a/) [casual](/en/post/casual/) outfit [for](/en/post/for/) [the](/en/post/the/) [beach](/en/post/beach/) [party](/en/post/party/)."
-- **[Adjective](/en/post/adjective/)**: 2. Occurring [or](/en/post/or/) happening [by](/en/post/by/) [chance](/en/post/chance/) [or](/en/post/or/) [without](/en/post/without/) [special](/en/post/special/) [thought](/en/post/thought/) [or](/en/post/or/) [arrangement](/en/post/arrangement/). [Example](/en/post/example/): "[The](/en/post/the/) [meeting](/en/post/meeting/) was [a](/en/post/a/) [casual](/en/post/casual/) get-together."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [casual](/en/post/casual/) [encounter](/en/post/encounter/) [or](/en/post/or/) [relationship](/en/post/relationship/). [Example](/en/post/example/): "[They](/en/post/they/) had [a](/en/post/a/) [casual](/en/post/casual/) [friendship](/en/post/friendship/)."
+- **[Adjective](/post/adjective/)**: 1. Showing [a](/post/a/) [lack](/post/lack/) [of](/post/of/) formality [or](/post/or/) seriousness; relaxed, informal, [or](/post/or/) offhand. [Example](/post/example/): "[She](/post/she/) wore [a](/post/a/) [casual](/post/casual/) outfit [for](/post/for/) [the](/post/the/) [beach](/post/beach/) [party](/post/party/)."
+- **[Adjective](/post/adjective/)**: 2. Occurring [or](/post/or/) happening [by](/post/by/) [chance](/post/chance/) [or](/post/or/) [without](/post/without/) [special](/post/special/) [thought](/post/thought/) [or](/post/or/) [arrangement](/post/arrangement/). [Example](/post/example/): "[The](/post/the/) [meeting](/post/meeting/) was [a](/post/a/) [casual](/post/casual/) get-together."
+- **[Noun](/post/noun/)**: [A](/post/a/) [casual](/post/casual/) [encounter](/post/encounter/) [or](/post/or/) [relationship](/post/relationship/). [Example](/post/example/): "[They](/post/they/) had [a](/post/a/) [casual](/post/casual/) [friendship](/post/friendship/)."
 
 ## Phrases
-- "[Casual](/en/post/casual/) attire" refers [to](/en/post/to/) informal [clothing](/en/post/clothing/).
-- "[Casual](/en/post/casual/) Fridays" is [a](/en/post/a/) workplace [tradition](/en/post/tradition/) [where](/en/post/where/) employees [can](/en/post/can/) [dress](/en/post/dress/) casually [one](/en/post/one/) [day](/en/post/day/) [a](/en/post/a/) [week](/en/post/week/).
-- "[Casual](/en/post/casual/) dating" is [a](/en/post/a/) non-committal [form](/en/post/form/) [of](/en/post/of/) [romantic](/en/post/romantic/) [interaction](/en/post/interaction/).
+- "[Casual](/post/casual/) attire" refers [to](/post/to/) informal [clothing](/post/clothing/).
+- "[Casual](/post/casual/) Fridays" is [a](/post/a/) workplace [tradition](/post/tradition/) [where](/post/where/) employees [can](/post/can/) [dress](/post/dress/) casually [one](/post/one/) [day](/post/day/) [a](/post/a/) [week](/post/week/).
+- "[Casual](/post/casual/) dating" is [a](/post/a/) non-committal [form](/post/form/) [of](/post/of/) [romantic](/post/romantic/) [interaction](/post/interaction/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) prefers [a](/en/post/a/) [casual](/en/post/casual/) lifestyle, [not](/en/post/not/) caring [too](/en/post/too/) [much](/en/post/much/) [about](/en/post/about/) [material](/en/post/material/) possessions."
-- **[Adjective](/en/post/adjective/)**: "[We](/en/post/we/) decided [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [casual](/en/post/casual/) [picnic](/en/post/picnic/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) [casual](/en/post/casual/) [conversation](/en/post/conversation/) turned [into](/en/post/into/) [a](/en/post/a/) [deep](/en/post/deep/) [discussion](/en/post/discussion/) [about](/en/post/about/) [art](/en/post/art/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) prefers [a](/post/a/) [casual](/post/casual/) lifestyle, [not](/post/not/) caring [too](/post/too/) [much](/post/much/) [about](/post/about/) [material](/post/material/) possessions."
+- **[Adjective](/post/adjective/)**: "[We](/post/we/) decided [to](/post/to/) [have](/post/have/) [a](/post/a/) [casual](/post/casual/) [picnic](/post/picnic/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **[Noun](/post/noun/)**: "[Their](/post/their/) [casual](/post/casual/) [conversation](/post/conversation/) turned [into](/post/into/) [a](/post/a/) [deep](/post/deep/) [discussion](/post/discussion/) [about](/post/about/) [art](/post/art/)."
 
 ## Synonyms
 - Informal
@@ -31,13 +31,13 @@ keywords = ['ai words', 'casual']
 - Unformal
 - Easy-going
 - Informal
-- [Loose](/en/post/loose/)
+- [Loose](/post/loose/)
 - Unpretentious
 
 ## Antonyms
-- [Formal](/en/post/formal/)
-- [Stiff](/en/post/stiff/)
+- [Formal](/post/formal/)
+- [Stiff](/post/stiff/)
 - Rigorous
 - Punctilious
-- [Official](/en/post/official/)
-- [Conventional](/en/post/conventional/)
+- [Official](/post/official/)
+- [Conventional](/post/conventional/)

@@ -11,19 +11,19 @@ keywords = ['ai words', 'sixth']
 /sɪxθ/
 
 ## 释义
-- **数词**: 序数词，表示“第六”，在顺序中排在第五之后，第七之前。例如: "[My](/post/my/) [birthday](/post/birthday/) is [on](/post/on/) [the](/post/the/) [sixth](/post/sixth/) [of](/post/of/) June."
+- **数词**: 序数词，表示“第六”，在顺序中排在第五之后，第七之前。例如: "[My](/zh/post/my/) [birthday](/zh/post/birthday/) is [on](/zh/post/on/) [the](/zh/post/the/) [sixth](/zh/post/sixth/) [of](/zh/post/of/) June."
 
 ## 短语
-- "[the](/post/the/) [sixth](/post/sixth/) [sense](/post/sense/)" 指超感知能力或直觉。
-- "[sixth](/post/sixth/) [form](/post/form/)" 在英国教育系统中，指的是高中最后两年。
+- "[the](/zh/post/the/) [sixth](/zh/post/sixth/) [sense](/zh/post/sense/)" 指超感知能力或直觉。
+- "[sixth](/zh/post/sixth/) [form](/zh/post/form/)" 在英国教育系统中，指的是高中最后两年。
 
 ## 例句
-- "[Today](/post/today/) is [my](/post/my/) [sixth](/post/sixth/) [day](/post/day/) [at](/post/at/) [the](/post/the/) [new](/post/new/) [job](/post/job/)."
-- "[She](/post/she/) was chosen [to](/post/to/) [be](/post/be/) [the](/post/the/) [sixth](/post/sixth/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [team](/post/team/)."
+- "[Today](/zh/post/today/) is [my](/zh/post/my/) [sixth](/zh/post/sixth/) [day](/zh/post/day/) [at](/zh/post/at/) [the](/zh/post/the/) [new](/zh/post/new/) [job](/zh/post/job/)."
+- "[She](/zh/post/she/) was chosen [to](/zh/post/to/) [be](/zh/post/be/) [the](/zh/post/the/) [sixth](/zh/post/sixth/) [member](/zh/post/member/) [of](/zh/post/of/) [the](/zh/post/the/) [team](/zh/post/team/)."
 
 ## 同义词
 - 第六
 - 六个中的第二个
 - 廿七分之三
 
-请注意，"[sixth](/post/sixth/)"作为数词，没有名词、动词、形容词、副词等其他词性。在英语中，它主要用作序数词。
+请注意，"[sixth](/zh/post/sixth/)"作为数词，没有名词、动词、形容词、副词等其他词性。在英语中，它主要用作序数词。

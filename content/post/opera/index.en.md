@@ -7,25 +7,25 @@ description = '[ˈɔpərə] n.歌剧'
 keywords = ['ai words', 'opera']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɒprə/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) theatrical [performance](/en/post/performance/) [that](/en/post/that/) combines singing, spoken dialogue, acting, [and](/en/post/and/) [often](/en/post/often/) [dance](/en/post/dance/), [set](/en/post/set/) [to](/en/post/to/) [a](/en/post/a/) [musical](/en/post/musical/) [score](/en/post/score/) [with](/en/post/with/) orchestral accompaniment. [It](/en/post/it/) [usually](/en/post/usually/) features [elaborate](/en/post/elaborate/) costumes, sets, [and](/en/post/and/) [sometimes](/en/post/sometimes/) includes elements [of](/en/post/of/) [spectacle](/en/post/spectacle/) [such](/en/post/such/) [as](/en/post/as/) acrobatics [or](/en/post/or/) pyrotechnics. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) performed [the](/en/post/the/) [lead](/en/post/lead/) [role](/en/post/role/) [in](/en/post/in/) [the](/en/post/the/) [famous](/en/post/famous/) Italian [opera](/en/post/opera/) La Traviata."
-- **[Noun](/en/post/noun/) (informal)**: Referring [to](/en/post/to/) [something](/en/post/something/) [as](/en/post/as/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) relating [to](/en/post/to/) operas, [particularly](/en/post/particularly/) [in](/en/post/in/) terms [of](/en/post/of/) melodrama [or](/en/post/or/) grandeur. [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) [love](/en/post/love/) [story](/en/post/story/) had [all](/en/post/all/) [the](/en/post/the/) [drama](/en/post/drama/) [and](/en/post/and/) [intensity](/en/post/intensity/) [of](/en/post/of/) [a](/en/post/a/) real-life [opera](/en/post/opera/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [form](/post/form/) [of](/post/of/) theatrical [performance](/post/performance/) [that](/post/that/) combines singing, spoken dialogue, acting, [and](/post/and/) [often](/post/often/) [dance](/post/dance/), [set](/post/set/) [to](/post/to/) [a](/post/a/) [musical](/post/musical/) [score](/post/score/) [with](/post/with/) orchestral accompaniment. [It](/post/it/) [usually](/post/usually/) features [elaborate](/post/elaborate/) costumes, sets, [and](/post/and/) [sometimes](/post/sometimes/) includes elements [of](/post/of/) [spectacle](/post/spectacle/) [such](/post/such/) [as](/post/as/) acrobatics [or](/post/or/) pyrotechnics. [For](/post/for/) [example](/post/example/): "[She](/post/she/) performed [the](/post/the/) [lead](/post/lead/) [role](/post/role/) [in](/post/in/) [the](/post/the/) [famous](/post/famous/) Italian [opera](/post/opera/) La Traviata."
+- **[Noun](/post/noun/) (informal)**: Referring [to](/post/to/) [something](/post/something/) [as](/post/as/) [characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) relating [to](/post/to/) operas, [particularly](/post/particularly/) [in](/post/in/) terms [of](/post/of/) melodrama [or](/post/or/) grandeur. [For](/post/for/) [example](/post/example/): "[Their](/post/their/) [love](/post/love/) [story](/post/story/) had [all](/post/all/) [the](/post/the/) [drama](/post/drama/) [and](/post/and/) [intensity](/post/intensity/) [of](/post/of/) [a](/post/a/) real-life [opera](/post/opera/)."
 
 ## Phrases
-- "[Opera](/en/post/opera/) [house](/en/post/house/)": [A](/en/post/a/) [theatre](/en/post/theatre/) designed specifically [for](/en/post/for/) [opera](/en/post/opera/) performances.
-- "[Grand](/en/post/grand/) [opera](/en/post/opera/)": [A](/en/post/a/) genre [of](/en/post/of/) [opera](/en/post/opera/) characterized [by](/en/post/by/) large-scale productions [with](/en/post/with/) [dramatic](/en/post/dramatic/) stories [and](/en/post/and/) [music](/en/post/music/).
-- "[Opera](/en/post/opera/) glasses": [Small](/en/post/small/), [portable](/en/post/portable/) telescopes [used](/en/post/used/) [by](/en/post/by/) [audience](/en/post/audience/) members [to](/en/post/to/) [view](/en/post/view/) details [on](/en/post/on/) [stage](/en/post/stage/) [during](/en/post/during/) [a](/en/post/a/) [performance](/en/post/performance/).
+- "[Opera](/post/opera/) [house](/post/house/)": [A](/post/a/) [theatre](/post/theatre/) designed specifically [for](/post/for/) [opera](/post/opera/) performances.
+- "[Grand](/post/grand/) [opera](/post/opera/)": [A](/post/a/) genre [of](/post/of/) [opera](/post/opera/) characterized [by](/post/by/) large-scale productions [with](/post/with/) [dramatic](/post/dramatic/) stories [and](/post/and/) [music](/post/music/).
+- "[Opera](/post/opera/) glasses": [Small](/post/small/), [portable](/post/portable/) telescopes [used](/post/used/) [by](/post/by/) [audience](/post/audience/) members [to](/post/to/) [view](/post/view/) details [on](/post/on/) [stage](/post/stage/) [during](/post/during/) [a](/post/a/) [performance](/post/performance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (theatrical [performance](/en/post/performance/))**: "[They](/en/post/they/) attended [a](/en/post/a/) [performance](/en/post/performance/) [of](/en/post/of/) Mozart's '[The](/en/post/the/) [Magic](/en/post/magic/) Flute' [at](/en/post/at/) [the](/en/post/the/) [Royal](/en/post/royal/) [Opera](/en/post/opera/) [House](/en/post/house/)."
-- **[Noun](/en/post/noun/) (informal [usage](/en/post/usage/))**: "[Her](/en/post/her/) [life](/en/post/life/) was [like](/en/post/like/) an [opera](/en/post/opera/), filled [with](/en/post/with/) [passion](/en/post/passion/), betrayal, [and](/en/post/and/) redemption."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (theatrical [performance](/post/performance/))**: "[They](/post/they/) attended [a](/post/a/) [performance](/post/performance/) [of](/post/of/) Mozart's '[The](/post/the/) [Magic](/post/magic/) Flute' [at](/post/at/) [the](/post/the/) [Royal](/post/royal/) [Opera](/post/opera/) [House](/post/house/)."
+- **[Noun](/post/noun/) (informal [usage](/post/usage/))**: "[Her](/post/her/) [life](/post/life/) was [like](/post/like/) an [opera](/post/opera/), filled [with](/post/with/) [passion](/post/passion/), betrayal, [and](/post/and/) redemption."
 
 ## Synonyms
-- [Musical](/en/post/musical/) [drama](/en/post/drama/)
-- Operetta ([a](/en/post/a/) [light](/en/post/light/) [form](/en/post/form/) [of](/en/post/of/) [opera](/en/post/opera/))
-- Oratorio ([a](/en/post/a/) large-scale [musical](/en/post/musical/) [work](/en/post/work/) [for](/en/post/for/) voices [and](/en/post/and/) [orchestra](/en/post/orchestra/), typically based [on](/en/post/on/) [a](/en/post/a/) [religious](/en/post/religious/) [text](/en/post/text/))
-- Theatrical [production](/en/post/production/)
-- Melodrama ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [dramatic](/en/post/dramatic/) [story](/en/post/story/) resembling [that](/en/post/that/) [of](/en/post/of/) an [opera](/en/post/opera/))
+- [Musical](/post/musical/) [drama](/post/drama/)
+- Operetta ([a](/post/a/) [light](/post/light/) [form](/post/form/) [of](/post/of/) [opera](/post/opera/))
+- Oratorio ([a](/post/a/) large-scale [musical](/post/musical/) [work](/post/work/) [for](/post/for/) voices [and](/post/and/) [orchestra](/post/orchestra/), typically based [on](/post/on/) [a](/post/a/) [religious](/post/religious/) [text](/post/text/))
+- Theatrical [production](/post/production/)
+- Melodrama ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [dramatic](/post/dramatic/) [story](/post/story/) resembling [that](/post/that/) [of](/post/of/) an [opera](/post/opera/))

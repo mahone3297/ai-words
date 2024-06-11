@@ -7,40 +7,40 @@ description = '[ˈtimbə] n.木材，木料'
 keywords = ['ai words', 'timber']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɪmˈbər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Timber](/en/post/timber/)**: 
-   - 1. [Wood](/en/post/wood/) [cut](/en/post/cut/) [into](/en/post/into/) planks, beams, [or](/en/post/or/) logs [for](/en/post/for/) [construction](/en/post/construction/) [or](/en/post/or/) [other](/en/post/other/) purposes.
-   - 2. (informal) [Large](/en/post/large/) quantities [of](/en/post/of/) [wood](/en/post/wood/), [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [resource](/en/post/resource/) [or](/en/post/or/) [material](/en/post/material/).
-   - 3. ([US](/en/post/us/)) [The](/en/post/the/) [industry](/en/post/industry/) [that](/en/post/that/) deals [with](/en/post/with/) [the](/en/post/the/) [harvest](/en/post/harvest/), processing, [and](/en/post/and/) [distribution](/en/post/distribution/) [of](/en/post/of/) [wood](/en/post/wood/).
+### [Noun](/post/noun/)
+- **[Timber](/post/timber/)**: 
+   - 1. [Wood](/post/wood/) [cut](/post/cut/) [into](/post/into/) planks, beams, [or](/post/or/) logs [for](/post/for/) [construction](/post/construction/) [or](/post/or/) [other](/post/other/) purposes.
+   - 2. (informal) [Large](/post/large/) quantities [of](/post/of/) [wood](/post/wood/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [resource](/post/resource/) [or](/post/or/) [material](/post/material/).
+   - 3. ([US](/post/us/)) [The](/post/the/) [industry](/post/industry/) [that](/post/that/) deals [with](/post/with/) [the](/post/the/) [harvest](/post/harvest/), processing, [and](/post/and/) [distribution](/post/distribution/) [of](/post/of/) [wood](/post/wood/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [timber](/en/post/timber/)**:
-   - (archaic) [To](/en/post/to/) fell [or](/en/post/or/) [cut](/en/post/cut/) [down](/en/post/down/) trees [for](/en/post/for/) [lumber](/en/post/lumber/).
-   - (figurative) [To](/en/post/to/) [supply](/en/post/supply/) [or](/en/post/or/) [stock](/en/post/stock/) [up](/en/post/up/) [with](/en/post/with/) [a](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) [wood](/en/post/wood/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [timber](/post/timber/)**:
+   - (archaic) [To](/post/to/) fell [or](/post/or/) [cut](/post/cut/) [down](/post/down/) trees [for](/post/for/) [lumber](/post/lumber/).
+   - (figurative) [To](/post/to/) [supply](/post/supply/) [or](/post/or/) [stock](/post/stock/) [up](/post/up/) [with](/post/with/) [a](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) [wood](/post/wood/).
 
 ## Phrases
-- "[Timber](/en/post/timber/) [from](/en/post/from/) [old](/en/post/old/) [growth](/en/post/growth/) forests" refers [to](/en/post/to/) [wood](/en/post/wood/) harvested [from](/en/post/from/) [ancient](/en/post/ancient/) trees.
-- "[Building](/en/post/building/) [with](/en/post/with/) [timber](/en/post/timber/)" is [a](/en/post/a/) [traditional](/en/post/traditional/) [method](/en/post/method/) [of](/en/post/of/) [construction](/en/post/construction/) using [wood](/en/post/wood/).
-- "[Timber](/en/post/timber/) [export](/en/post/export/)" denotes [the](/en/post/the/) [trade](/en/post/trade/) [of](/en/post/of/) [wood](/en/post/wood/) products internationally.
+- "[Timber](/post/timber/) [from](/post/from/) [old](/post/old/) [growth](/post/growth/) forests" refers [to](/post/to/) [wood](/post/wood/) harvested [from](/post/from/) [ancient](/post/ancient/) trees.
+- "[Building](/post/building/) [with](/post/with/) [timber](/post/timber/)" is [a](/post/a/) [traditional](/post/traditional/) [method](/post/method/) [of](/post/of/) [construction](/post/construction/) using [wood](/post/wood/).
+- "[Timber](/post/timber/) [export](/post/export/)" denotes [the](/post/the/) [trade](/post/trade/) [of](/post/of/) [wood](/post/wood/) products internationally.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [house](/en/post/house/) was built entirely [of](/en/post/of/) locally sourced [timber](/en/post/timber/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) carpenters had [to](/en/post/to/) [clear](/en/post/clear/) [a](/en/post/a/) [large](/en/post/large/) [area](/en/post/area/) [of](/en/post/of/) [timber](/en/post/timber/) [to](/en/post/to/) [make](/en/post/make/) [way](/en/post/way/) [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [development](/en/post/development/)."
-- **Informal**: "The伐木工人 were [busy](/en/post/busy/) timbering [the](/en/post/the/) [forest](/en/post/forest/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [house](/post/house/) was built entirely [of](/post/of/) locally sourced [timber](/post/timber/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) carpenters had [to](/post/to/) [clear](/post/clear/) [a](/post/a/) [large](/post/large/) [area](/post/area/) [of](/post/of/) [timber](/post/timber/) [to](/post/to/) [make](/post/make/) [way](/post/way/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [development](/post/development/)."
+- **Informal**: "The伐木工人 were [busy](/post/busy/) timbering [the](/post/the/) [forest](/post/forest/)."
 
 ## Synonyms
-- [Lumber](/en/post/lumber/)
+- [Lumber](/post/lumber/)
 - Woodstock
 - Logs
 - Woodpile
 - Stockpile
 
 ## Antonyms
-- [Metal](/en/post/metal/)
-- [Concrete](/en/post/concrete/)
-- [Stone](/en/post/stone/)
-- [Plastic](/en/post/plastic/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [building](/en/post/building/) materials)
+- [Metal](/post/metal/)
+- [Concrete](/post/concrete/)
+- [Stone](/post/stone/)
+- [Plastic](/post/plastic/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [building](/post/building/) materials)

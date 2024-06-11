@@ -8,23 +8,23 @@ keywords = ['ai words', 'not']
 +++
 
 ## 读音
-/[not](/post/not/)/
+/[not](/zh/post/not/)/
 
 ## 释义
-- **副词**: 表示否定或相反的意思。例如: "I am [not](/post/not/) [tired](/post/tired/)."（我不累）
-- **连词**: 用于连接两个相反的观点或句子。例如: "[She](/post/she/) is [happy](/post/happy/), [but](/post/but/) [not](/post/not/) [content](/post/content/)."（她快乐，但并不满足）
+- **副词**: 表示否定或相反的意思。例如: "I am [not](/zh/post/not/) [tired](/zh/post/tired/)."（我不累）
+- **连词**: 用于连接两个相反的观点或句子。例如: "[She](/zh/post/she/) is [happy](/zh/post/happy/), [but](/zh/post/but/) [not](/zh/post/not/) [content](/zh/post/content/)."（她快乐，但并不满足）
 
 ## 短语
-- "[Not](/post/not/) [at](/post/at/) [all](/post/all/)" 用于回答表示感谢或道歉，意为“不用谢”或“不客气”。
-- "[Not](/post/not/) [really](/post/really/)" 表示轻微的否定或不确定，意为“并非真的”或“其实不是”。
+- "[Not](/zh/post/not/) [at](/zh/post/at/) [all](/zh/post/all/)" 用于回答表示感谢或道歉，意为“不用谢”或“不客气”。
+- "[Not](/zh/post/not/) [really](/zh/post/really/)" 表示轻微的否定或不确定，意为“并非真的”或“其实不是”。
 
 ## 例句
-- 副词: "I'm [not](/post/not/) interested [in](/post/in/) [that](/post/that/) [topic](/post/topic/)."
-- 连词: "[He](/post/he/) is [intelligent](/post/intelligent/), [not](/post/not/) [foolish](/post/foolish/)."
+- 副词: "I'm [not](/zh/post/not/) interested [in](/zh/post/in/) [that](/zh/post/that/) [topic](/zh/post/topic/)."
+- 连词: "[He](/zh/post/he/) is [intelligent](/zh/post/intelligent/), [not](/zh/post/not/) [foolish](/zh/post/foolish/)."
 
 ## 同义词
-- [No](/post/no/)
+- [No](/zh/post/no/)
 - Don't
-- [None](/post/none/)
-- [Without](/post/without/)
+- [None](/zh/post/none/)
+- [Without](/zh/post/without/)
 - Disregarding

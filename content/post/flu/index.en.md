@@ -7,32 +7,32 @@ description = '[fluː] n.流行性感冒'
 keywords = ['ai words', 'flu']
 +++
 
-## [Word](/en/post/word/): [Flu](/en/post/flu/)
+## [Word](/post/word/): [Flu](/post/flu/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fluː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An infectious viral [illness](/en/post/illness/) [that](/en/post/that/) affects [the](/en/post/the/) respiratory [system](/en/post/system/), causing [fever](/en/post/fever/), chills, coughing, [sore](/en/post/sore/) [throat](/en/post/throat/), runny [nose](/en/post/nose/), [muscle](/en/post/muscle/) aches, [and](/en/post/and/) [fatigue](/en/post/fatigue/). [It](/en/post/it/) is [commonly](/en/post/commonly/) known [as](/en/post/as/) influenza.
+- **[Noun](/post/noun/)**: An infectious viral [illness](/post/illness/) [that](/post/that/) affects [the](/post/the/) respiratory [system](/post/system/), causing [fever](/post/fever/), chills, coughing, [sore](/post/sore/) [throat](/post/throat/), runny [nose](/post/nose/), [muscle](/post/muscle/) aches, [and](/post/and/) [fatigue](/post/fatigue/). [It](/post/it/) is [commonly](/post/commonly/) known [as](/post/as/) influenza.
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- _"[The](/en/post/the/) [flu](/en/post/flu/) [season](/en/post/season/) has [hit](/en/post/hit/) [our](/en/post/our/) [city](/en/post/city/) [hard](/en/post/hard/), [with](/en/post/with/) [many](/en/post/many/) [people](/en/post/people/) falling [ill](/en/post/ill/)."_
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- _"[The](/post/the/) [flu](/post/flu/) [season](/post/season/) has [hit](/post/hit/) [our](/post/our/) [city](/post/city/) [hard](/post/hard/), [with](/post/with/) [many](/post/many/) [people](/post/people/) falling [ill](/post/ill/)."_
 
 ## Phrases
-- "[Catch](/en/post/catch/) [the](/en/post/the/) [flu](/en/post/flu/)": [To](/en/post/to/) [become](/en/post/become/) infected [with](/en/post/with/) [the](/en/post/the/) influenza virus.
-  - [Example](/en/post/example/): "I caught [the](/en/post/the/) [flu](/en/post/flu/) [last](/en/post/last/) [week](/en/post/week/) [and](/en/post/and/) had [to](/en/post/to/) [stay](/en/post/stay/) [home](/en/post/home/) [from](/en/post/from/) [work](/en/post/work/)."
-- "[Flu](/en/post/flu/) [shot](/en/post/shot/)": [A](/en/post/a/) vaccine given [to](/en/post/to/) [protect](/en/post/protect/) [against](/en/post/against/) [the](/en/post/the/) [flu](/en/post/flu/).
-  - [Example](/en/post/example/): "Getting [a](/en/post/a/) [flu](/en/post/flu/) [shot](/en/post/shot/) [every](/en/post/every/) [year](/en/post/year/) [can](/en/post/can/) significantly [reduce](/en/post/reduce/) [your](/en/post/your/) chances [of](/en/post/of/) getting [the](/en/post/the/) [flu](/en/post/flu/)."
-- "[Flu](/en/post/flu/) symptoms": [The](/en/post/the/) signs [and](/en/post/and/) symptoms associated [with](/en/post/with/) [the](/en/post/the/) [flu](/en/post/flu/).
-  - [Example](/en/post/example/): "[He](/en/post/he/) recognized [the](/en/post/the/) [early](/en/post/early/) [flu](/en/post/flu/) symptoms [and](/en/post/and/) [immediately](/en/post/immediately/) began taking medication."
+- "[Catch](/post/catch/) [the](/post/the/) [flu](/post/flu/)": [To](/post/to/) [become](/post/become/) infected [with](/post/with/) [the](/post/the/) influenza virus.
+  - [Example](/post/example/): "I caught [the](/post/the/) [flu](/post/flu/) [last](/post/last/) [week](/post/week/) [and](/post/and/) had [to](/post/to/) [stay](/post/stay/) [home](/post/home/) [from](/post/from/) [work](/post/work/)."
+- "[Flu](/post/flu/) [shot](/post/shot/)": [A](/post/a/) vaccine given [to](/post/to/) [protect](/post/protect/) [against](/post/against/) [the](/post/the/) [flu](/post/flu/).
+  - [Example](/post/example/): "Getting [a](/post/a/) [flu](/post/flu/) [shot](/post/shot/) [every](/post/every/) [year](/post/year/) [can](/post/can/) significantly [reduce](/post/reduce/) [your](/post/your/) chances [of](/post/of/) getting [the](/post/the/) [flu](/post/flu/)."
+- "[Flu](/post/flu/) symptoms": [The](/post/the/) signs [and](/post/and/) symptoms associated [with](/post/with/) [the](/post/the/) [flu](/post/flu/).
+  - [Example](/post/example/): "[He](/post/he/) recognized [the](/post/the/) [early](/post/early/) [flu](/post/flu/) symptoms [and](/post/and/) [immediately](/post/immediately/) began taking medication."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) diagnosed [her](/en/post/her/) [with](/en/post/with/) [the](/en/post/the/) [flu](/en/post/flu/) [after](/en/post/after/) [she](/en/post/she/) experienced [high](/en/post/high/) [fever](/en/post/fever/) [and](/en/post/and/) [body](/en/post/body/) aches [for](/en/post/for/) [three](/en/post/three/) days."
-- "[She](/en/post/she/) was advised [to](/en/post/to/) [get](/en/post/get/) [plenty](/en/post/plenty/) [of](/en/post/of/) [rest](/en/post/rest/) [and](/en/post/and/) fluids [to](/en/post/to/) [recover](/en/post/recover/) [from](/en/post/from/) [the](/en/post/the/) [flu](/en/post/flu/) [quickly](/en/post/quickly/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [doctor](/post/doctor/) diagnosed [her](/post/her/) [with](/post/with/) [the](/post/the/) [flu](/post/flu/) [after](/post/after/) [she](/post/she/) experienced [high](/post/high/) [fever](/post/fever/) [and](/post/and/) [body](/post/body/) aches [for](/post/for/) [three](/post/three/) days."
+- "[She](/post/she/) was advised [to](/post/to/) [get](/post/get/) [plenty](/post/plenty/) [of](/post/of/) [rest](/post/rest/) [and](/post/and/) fluids [to](/post/to/) [recover](/post/recover/) [from](/post/from/) [the](/post/the/) [flu](/post/flu/) [quickly](/post/quickly/)."
 
 ## Synonyms
 - Influenza
 - Grippe
 - Viral infection
-- Febrile [illness](/en/post/illness/)
-- [Cold](/en/post/cold/) ([Note](/en/post/note/): [While](/en/post/while/) "[cold](/en/post/cold/)" is related, [it](/en/post/it/) typically refers [to](/en/post/to/) [a](/en/post/a/) milder [upper](/en/post/upper/) respiratory infection, [not](/en/post/not/) [the](/en/post/the/) [actual](/en/post/actual/) [flu](/en/post/flu/).)
+- Febrile [illness](/post/illness/)
+- [Cold](/post/cold/) ([Note](/post/note/): [While](/post/while/) "[cold](/post/cold/)" is related, [it](/post/it/) typically refers [to](/post/to/) [a](/post/a/) milder [upper](/post/upper/) respiratory infection, [not](/post/not/) [the](/post/the/) [actual](/post/actual/) [flu](/post/flu/).)

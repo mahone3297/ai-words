@@ -12,22 +12,22 @@ keywords = ['ai words', 'undo']
 
 ## 释义
 - **动词**:
-  - 取消：撤销或取消某事。例如: "I accidentally deleted [the](/post/the/) [file](/post/file/), [but](/post/but/) I managed [to](/post/to/) [undo](/post/undo/) [it](/post/it/)."
-  - 恢复原状：使恢复到先前的状态或位置。例如: "[Can](/post/can/) [you](/post/you/) [undo](/post/undo/) [the](/post/the/) [knot](/post/knot/) [in](/post/in/) [this](/post/this/) [string](/post/string/)?"
-  - 反转：改变或逆转一个动作或过程。例如: "[The](/post/the/) [medicine](/post/medicine/) helped [undo](/post/undo/) [the](/post/the/) effects [of](/post/of/) [the](/post/the/) [headache](/post/headache/)."
+  - 取消：撤销或取消某事。例如: "I accidentally deleted [the](/zh/post/the/) [file](/zh/post/file/), [but](/zh/post/but/) I managed [to](/zh/post/to/) [undo](/zh/post/undo/) [it](/zh/post/it/)."
+  - 恢复原状：使恢复到先前的状态或位置。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [undo](/zh/post/undo/) [the](/zh/post/the/) [knot](/zh/post/knot/) [in](/zh/post/in/) [this](/zh/post/this/) [string](/zh/post/string/)?"
+  - 反转：改变或逆转一个动作或过程。例如: "[The](/zh/post/the/) [medicine](/zh/post/medicine/) helped [undo](/zh/post/undo/) [the](/zh/post/the/) effects [of](/zh/post/of/) [the](/zh/post/the/) [headache](/zh/post/headache/)."
 
 ## 短语
-- "[Undo](/post/undo/) [a](/post/a/) [mistake](/post/mistake/)" 意味着改正错误。
-- "[Undo](/post/undo/) [the](/post/the/) [damage](/post/damage/)" 指的是修复或弥补损失或破坏。
+- "[Undo](/zh/post/undo/) [a](/zh/post/a/) [mistake](/zh/post/mistake/)" 意味着改正错误。
+- "[Undo](/zh/post/undo/) [the](/zh/post/the/) [damage](/zh/post/damage/)" 指的是修复或弥补损失或破坏。
 
 ## 例句
-- "Click '[undo](/post/undo/)' [if](/post/if/) [you](/post/you/) don't [want](/post/want/) [to](/post/to/) [save](/post/save/) [the](/post/the/) changes."
-- "[The](/post/the/) [surgeon](/post/surgeon/) worked carefully [to](/post/to/) [undo](/post/undo/) [the](/post/the/) [damage](/post/damage/) caused [by](/post/by/) [the](/post/the/) [accident](/post/accident/)."
-- "[He](/post/he/) [quickly](/post/quickly/) undid [the](/post/the/) buttons [on](/post/on/) [his](/post/his/) [shirt](/post/shirt/)."
+- "Click '[undo](/zh/post/undo/)' [if](/zh/post/if/) [you](/zh/post/you/) don't [want](/zh/post/want/) [to](/zh/post/to/) [save](/zh/post/save/) [the](/zh/post/the/) changes."
+- "[The](/zh/post/the/) [surgeon](/zh/post/surgeon/) worked carefully [to](/zh/post/to/) [undo](/zh/post/undo/) [the](/zh/post/the/) [damage](/zh/post/damage/) caused [by](/zh/post/by/) [the](/zh/post/the/) [accident](/zh/post/accident/)."
+- "[He](/zh/post/he/) [quickly](/zh/post/quickly/) undid [the](/zh/post/the/) buttons [on](/zh/post/on/) [his](/zh/post/his/) [shirt](/zh/post/shirt/)."
 
 ## 同义词
-- [Reverse](/post/reverse/)
-- [Cancel](/post/cancel/)
+- [Reverse](/zh/post/reverse/)
+- [Cancel](/zh/post/cancel/)
 - Redo
 - Rectify
 - Revert

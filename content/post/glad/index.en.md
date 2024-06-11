@@ -7,38 +7,38 @@ description = '[glæd] a.高兴的；乐意的'
 keywords = ['ai words', 'glad']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡlæd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Feeling](/en/post/feeling/) [or](/en/post/or/) showing [pleasure](/en/post/pleasure/) [or](/en/post/or/) [satisfaction](/en/post/satisfaction/); [joyful](/en/post/joyful/). [For](/en/post/for/) [example](/en/post/example/): "I am [so](/en/post/so/) [glad](/en/post/glad/) [to](/en/post/to/) [see](/en/post/see/) [you](/en/post/you/) [again](/en/post/again/)."
-- **[Noun](/en/post/noun/) (informal)**: [Joy](/en/post/joy/) [or](/en/post/or/) [happiness](/en/post/happiness/); [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [being](/en/post/being/) [glad](/en/post/glad/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [news](/en/post/news/) brought [her](/en/post/her/) [great](/en/post/great/) gladness."
+- **[Adjective](/post/adjective/)**: [Feeling](/post/feeling/) [or](/post/or/) showing [pleasure](/post/pleasure/) [or](/post/or/) [satisfaction](/post/satisfaction/); [joyful](/post/joyful/). [For](/post/for/) [example](/post/example/): "I am [so](/post/so/) [glad](/post/glad/) [to](/post/to/) [see](/post/see/) [you](/post/you/) [again](/post/again/)."
+- **[Noun](/post/noun/) (informal)**: [Joy](/post/joy/) [or](/post/or/) [happiness](/post/happiness/); [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [being](/post/being/) [glad](/post/glad/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [news](/post/news/) brought [her](/post/her/) [great](/post/great/) gladness."
 
-### [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) was genuinely [glad](/en/post/glad/) [when](/en/post/when/) [she](/en/post/she/) heard [that](/en/post/that/) [her](/en/post/her/) [application](/en/post/application/) had been accepted."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [face](/en/post/face/) lit [up](/en/post/up/) [with](/en/post/with/) gladness [upon](/en/post/upon/) receiving [the](/en/post/the/) [unexpected](/en/post/unexpected/) [gift](/en/post/gift/)."
+### [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) was genuinely [glad](/post/glad/) [when](/post/when/) [she](/post/she/) heard [that](/post/that/) [her](/post/her/) [application](/post/application/) had been accepted."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [face](/post/face/) lit [up](/post/up/) [with](/post/with/) gladness [upon](/post/upon/) receiving [the](/post/the/) [unexpected](/post/unexpected/) [gift](/post/gift/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [glad](/en/post/glad/) [to](/en/post/to/)": [Express](/en/post/express/) willingness [or](/en/post/or/) readiness [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "I'd [be](/en/post/be/) [glad](/en/post/glad/) [to](/en/post/to/) [help](/en/post/help/) [you](/en/post/you/) [with](/en/post/with/) [that](/en/post/that/) [project](/en/post/project/)."
-- "[Make](/en/post/make/) [someone](/en/post/someone/) [glad](/en/post/glad/)": [To](/en/post/to/) [cause](/en/post/cause/) [someone](/en/post/someone/) [to](/en/post/to/) [feel](/en/post/feel/) [happy](/en/post/happy/) [or](/en/post/or/) pleased. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [presence](/en/post/presence/) [always](/en/post/always/) made [him](/en/post/him/) [glad](/en/post/glad/)."
+- "[Be](/post/be/) [glad](/post/glad/) [to](/post/to/)": [Express](/post/express/) willingness [or](/post/or/) readiness [to](/post/to/) [do](/post/do/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "I'd [be](/post/be/) [glad](/post/glad/) [to](/post/to/) [help](/post/help/) [you](/post/you/) [with](/post/with/) [that](/post/that/) [project](/post/project/)."
+- "[Make](/post/make/) [someone](/post/someone/) [glad](/post/glad/)": [To](/post/to/) [cause](/post/cause/) [someone](/post/someone/) [to](/post/to/) [feel](/post/feel/) [happy](/post/happy/) [or](/post/or/) pleased. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [presence](/post/presence/) [always](/post/always/) made [him](/post/him/) [glad](/post/glad/)."
 
 ## Synonyms
-- [Happy](/en/post/happy/)
+- [Happy](/post/happy/)
 - Pleased
 - Delighted
-- [Joyful](/en/post/joyful/)
+- [Joyful](/post/joyful/)
 - Thrilled
 - Overjoyed
 - Ecstatic
 
 ## Antonyms
-- [Sad](/en/post/sad/)
-- [Unhappy](/en/post/unhappy/)
+- [Sad](/post/sad/)
+- [Unhappy](/post/unhappy/)
 - Displeased
 - Sorrowful
 - Depressed
 
 ## Derived Phrases & Idioms
-- "I'm [glad](/en/post/glad/) [to](/en/post/to/) [hear](/en/post/hear/) [that](/en/post/that/)": An [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) [show](/en/post/show/) one's [happiness](/en/post/happiness/) [about](/en/post/about/) hearing [good](/en/post/good/) [news](/en/post/news/) [or](/en/post/or/) [information](/en/post/information/).
-- "[Glad](/en/post/glad/) tidings": [Good](/en/post/good/) [news](/en/post/news/) [or](/en/post/or/) [a](/en/post/a/) [joyful](/en/post/joyful/) [message](/en/post/message/).
-- "[Feeling](/en/post/feeling/) [glad](/en/post/glad/) [all](/en/post/all/) [over](/en/post/over/)": Experiencing [happiness](/en/post/happiness/) [throughout](/en/post/throughout/) one's [entire](/en/post/entire/) [being](/en/post/being/).
+- "I'm [glad](/post/glad/) [to](/post/to/) [hear](/post/hear/) [that](/post/that/)": An [expression](/post/expression/) [used](/post/used/) [to](/post/to/) [show](/post/show/) one's [happiness](/post/happiness/) [about](/post/about/) hearing [good](/post/good/) [news](/post/news/) [or](/post/or/) [information](/post/information/).
+- "[Glad](/post/glad/) tidings": [Good](/post/good/) [news](/post/news/) [or](/post/or/) [a](/post/a/) [joyful](/post/joyful/) [message](/post/message/).
+- "[Feeling](/post/feeling/) [glad](/post/glad/) [all](/post/all/) [over](/post/over/)": Experiencing [happiness](/post/happiness/) [throughout](/post/throughout/) one's [entire](/post/entire/) [being](/post/being/).

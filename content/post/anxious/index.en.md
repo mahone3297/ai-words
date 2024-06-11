@@ -7,42 +7,42 @@ description = '[ˈæŋk∫əs] a.忧虑的；渴望的'
 keywords = ['ai words', 'anxious']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæŋkʃəs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[Anxious](/en/post/anxious/) ([noun](/en/post/noun/)) refers [to](/en/post/to/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [feeling](/en/post/feeling/) worried, [nervous](/en/post/nervous/), [or](/en/post/or/) [uneasy](/en/post/uneasy/) [about](/en/post/about/) [something](/en/post/something/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [easily](/en/post/easily/) troubled [by](/en/post/by/) [such](/en/post/such/) feelings.
+### [Noun](/post/noun/)
+[Anxious](/post/anxious/) ([noun](/post/noun/)) refers [to](/post/to/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [feeling](/post/feeling/) worried, [nervous](/post/nervous/), [or](/post/or/) [uneasy](/post/uneasy/) [about](/post/about/) [something](/post/something/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [person](/post/person/) [who](/post/who/) is [easily](/post/easily/) troubled [by](/post/by/) [such](/post/such/) feelings.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [be](/en/post/be/) [anxious](/en/post/anxious/) ([verb](/en/post/verb/)) [means](/en/post/means/) [to](/en/post/to/) [experience](/en/post/experience/) [worry](/en/post/worry/), [concern](/en/post/concern/), [or](/en/post/or/) uneasiness [about](/en/post/about/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/) [or](/en/post/or/) [event](/en/post/event/).
+### [Verb](/post/verb/)
+[To](/post/to/) [be](/post/be/) [anxious](/post/anxious/) ([verb](/post/verb/)) [means](/post/means/) [to](/post/to/) [experience](/post/experience/) [worry](/post/worry/), [concern](/post/concern/), [or](/post/or/) uneasiness [about](/post/about/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/) [or](/post/or/) [event](/post/event/).
 
-### [Adjective](/en/post/adjective/)
-[Anxious](/en/post/anxious/) ([adjective](/en/post/adjective/)) describes [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [that](/en/post/that/) is marked [by](/en/post/by/) [a](/en/post/a/) [strong](/en/post/strong/) [sense](/en/post/sense/) [of](/en/post/of/) unease, apprehension, [or](/en/post/or/) [fear](/en/post/fear/).
+### [Adjective](/post/adjective/)
+[Anxious](/post/anxious/) ([adjective](/post/adjective/)) describes [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [that](/post/that/) is marked [by](/post/by/) [a](/post/a/) [strong](/post/strong/) [sense](/post/sense/) [of](/post/of/) unease, apprehension, [or](/post/or/) [fear](/post/fear/).
 
-### [Adverb](/en/post/adverb/)
-Anxiously ([adverb](/en/post/adverb/)) is [used](/en/post/used/) [to](/en/post/to/) [modify](/en/post/modify/) verbs, expressing [worry](/en/post/worry/), [haste](/en/post/haste/), [or](/en/post/or/) eagerness.
+### [Adverb](/post/adverb/)
+Anxiously ([adverb](/post/adverb/)) is [used](/post/used/) [to](/post/to/) [modify](/post/modify/) verbs, expressing [worry](/post/worry/), [haste](/post/haste/), [or](/post/or/) eagerness.
 
 ## Phrases
-- "[Be](/en/post/be/) [anxious](/en/post/anxious/) [about](/en/post/about/)" expresses [concern](/en/post/concern/) [or](/en/post/or/) [worry](/en/post/worry/) [over](/en/post/over/) [something](/en/post/something/).
-- "[Feel](/en/post/feel/) [anxious](/en/post/anxious/)" denotes [a](/en/post/a/) subjective [emotional](/en/post/emotional/) [response](/en/post/response/).
-- "[Anxious](/en/post/anxious/) [wait](/en/post/wait/)" signifies an [uncomfortable](/en/post/uncomfortable/) anticipation.
-- "[Anxious](/en/post/anxious/) [look](/en/post/look/)" describes [a](/en/post/a/) worried [or](/en/post/or/) [fearful](/en/post/fearful/) facial [expression](/en/post/expression/).
+- "[Be](/post/be/) [anxious](/post/anxious/) [about](/post/about/)" expresses [concern](/post/concern/) [or](/post/or/) [worry](/post/worry/) [over](/post/over/) [something](/post/something/).
+- "[Feel](/post/feel/) [anxious](/post/anxious/)" denotes [a](/post/a/) subjective [emotional](/post/emotional/) [response](/post/response/).
+- "[Anxious](/post/anxious/) [wait](/post/wait/)" signifies an [uncomfortable](/post/uncomfortable/) anticipation.
+- "[Anxious](/post/anxious/) [look](/post/look/)" describes [a](/post/a/) worried [or](/post/or/) [fearful](/post/fearful/) facial [expression](/post/expression/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was [anxious](/en/post/anxious/) [about](/en/post/about/) [the](/en/post/the/) upcoming [exam](/en/post/exam/) results."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [mother](/en/post/mother/) was anxiously waiting [for](/en/post/for/) [her](/en/post/her/) child's [return](/en/post/return/) [from](/en/post/from/) [the](/en/post/the/) doctor's [appointment](/en/post/appointment/)."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) appeared [anxious](/en/post/anxious/) [after](/en/post/after/) hearing [the](/en/post/the/) [news](/en/post/news/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) spoke anxiously, trying [to](/en/post/to/) [convince](/en/post/convince/) [him](/en/post/him/) [of](/en/post/of/) [her](/en/post/her/) [point](/en/post/point/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was [anxious](/post/anxious/) [about](/post/about/) [the](/post/the/) upcoming [exam](/post/exam/) results."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [mother](/post/mother/) was anxiously waiting [for](/post/for/) [her](/post/her/) child's [return](/post/return/) [from](/post/from/) [the](/post/the/) doctor's [appointment](/post/appointment/)."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) appeared [anxious](/post/anxious/) [after](/post/after/) hearing [the](/post/the/) [news](/post/news/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) spoke anxiously, trying [to](/post/to/) [convince](/post/convince/) [him](/post/him/) [of](/post/of/) [her](/post/her/) [point](/post/point/)."
 
 ## Synonyms
 - Worried
-- [Nervous](/en/post/nervous/)
-- [Tense](/en/post/tense/)
+- [Nervous](/post/nervous/)
+- [Tense](/post/tense/)
 - Concerned
 - Apprehensive
-- [Restless](/en/post/restless/)
+- [Restless](/post/restless/)
 - Fretful
-- [Uneasy](/en/post/uneasy/)
+- [Uneasy](/post/uneasy/)
 - Anxiate
 - Worrysome

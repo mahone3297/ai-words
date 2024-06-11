@@ -7,31 +7,31 @@ description = '[fɔːls] a.不真实的；伪造的'
 keywords = ['ai words', 'false']
 +++
 
-## [Word](/en/post/word/): [False](/en/post/false/)
+## [Word](/post/word/): [False](/post/false/)
 
-## [Pronunciation](/en/post/pronunciation/)
-/fôls/ [or](/en/post/or/) /fāls/
+## [Pronunciation](/post/pronunciation/)
+/fôls/ [or](/post/or/) /fāls/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) [genuine](/en/post/genuine/) [or](/en/post/or/) [true](/en/post/true/); untrue, [incorrect](/en/post/incorrect/), [or](/en/post/or/) dishonest. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [claim](/en/post/claim/) turned [out](/en/post/out/) [to](/en/post/to/) [be](/en/post/be/) [false](/en/post/false/)." 
-  - [In](/en/post/in/) [science](/en/post/science/): [Contrary](/en/post/contrary/) [to](/en/post/to/) [fact](/en/post/fact/) [or](/en/post/or/) [reality](/en/post/reality/); [not](/en/post/not/) [accurate](/en/post/accurate/) according- [to](/en/post/to/) [observation](/en/post/observation/) [or](/en/post/or/) [experiment](/en/post/experiment/). "[His](/en/post/his/) [theory](/en/post/theory/) was proven [false](/en/post/false/) [by](/en/post/by/) [later](/en/post/later/) [research](/en/post/research/)."
-  - [In](/en/post/in/) [logic](/en/post/logic/): Denoting [a](/en/post/a/) proposition [that](/en/post/that/) is [not](/en/post/not/) [true](/en/post/true/) [under](/en/post/under/) [any](/en/post/any/) circumstances. "[A](/en/post/a/) [false](/en/post/false/) [statement](/en/post/statement/) contradicts known facts."
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) [genuine](/post/genuine/) [or](/post/or/) [true](/post/true/); untrue, [incorrect](/post/incorrect/), [or](/post/or/) dishonest. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [claim](/post/claim/) turned [out](/post/out/) [to](/post/to/) [be](/post/be/) [false](/post/false/)." 
+  - [In](/post/in/) [science](/post/science/): [Contrary](/post/contrary/) [to](/post/to/) [fact](/post/fact/) [or](/post/or/) [reality](/post/reality/); [not](/post/not/) [accurate](/post/accurate/) according- [to](/post/to/) [observation](/post/observation/) [or](/post/or/) [experiment](/post/experiment/). "[His](/post/his/) [theory](/post/theory/) was proven [false](/post/false/) [by](/post/by/) [later](/post/later/) [research](/post/research/)."
+  - [In](/post/in/) [logic](/post/logic/): Denoting [a](/post/a/) proposition [that](/post/that/) is [not](/post/not/) [true](/post/true/) [under](/post/under/) [any](/post/any/) circumstances. "[A](/post/a/) [false](/post/false/) [statement](/post/statement/) contradicts known facts."
   
-- **[Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: [Something](/en/post/something/) [that](/en/post/that/) is [not](/en/post/not/) [genuine](/en/post/genuine/) [or](/en/post/or/) [real](/en/post/real/); [a](/en/post/a/) counterfeit [or](/en/post/or/) [a](/en/post/a/) [lie](/en/post/lie/). "[His](/en/post/his/) alibi proved [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [false](/en/post/false/)."
+- **[Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))**: [Something](/post/something/) [that](/post/that/) is [not](/post/not/) [genuine](/post/genuine/) [or](/post/or/) [real](/post/real/); [a](/post/a/) counterfeit [or](/post/or/) [a](/post/a/) [lie](/post/lie/). "[His](/post/his/) alibi proved [to](/post/to/) [be](/post/be/) [a](/post/a/) [false](/post/false/)."
 
 ## Phrases
-- "[False](/en/post/false/) [alarm](/en/post/alarm/)": An alert [or](/en/post/or/) warning given [when](/en/post/when/) [there](/en/post/there/) is [no](/en/post/no/) [actual](/en/post/actual/) [danger](/en/post/danger/) [or](/en/post/or/) [emergency](/en/post/emergency/).
-- "[False](/en/post/false/) [start](/en/post/start/)": An [initial](/en/post/initial/) [move](/en/post/move/) [or](/en/post/or/) [action](/en/post/action/) made [before](/en/post/before/) [the](/en/post/the/) [proper](/en/post/proper/) [or](/en/post/or/) intended [time](/en/post/time/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [race](/en/post/race/) [or](/en/post/or/) [other](/en/post/other/) [competition](/en/post/competition/).
-- "[False](/en/post/false/) [hope](/en/post/hope/)": Hopes [or](/en/post/or/) expectations based [on](/en/post/on/) [something](/en/post/something/) [unlikely](/en/post/unlikely/) [or](/en/post/or/) unrealistic.
-- "[False](/en/post/false/) [friend](/en/post/friend/)": [A](/en/post/a/) [word](/en/post/word/) [in](/en/post/in/) [one](/en/post/one/) [language](/en/post/language/) [that](/en/post/that/) looks [or](/en/post/or/) sounds [similar](/en/post/similar/) [to](/en/post/to/) [a](/en/post/a/) [word](/en/post/word/) [in](/en/post/in/) [another](/en/post/another/) [but](/en/post/but/) has [a](/en/post/a/) [different](/en/post/different/) [meaning](/en/post/meaning/).
+- "[False](/post/false/) [alarm](/post/alarm/)": An alert [or](/post/or/) warning given [when](/post/when/) [there](/post/there/) is [no](/post/no/) [actual](/post/actual/) [danger](/post/danger/) [or](/post/or/) [emergency](/post/emergency/).
+- "[False](/post/false/) [start](/post/start/)": An [initial](/post/initial/) [move](/post/move/) [or](/post/or/) [action](/post/action/) made [before](/post/before/) [the](/post/the/) [proper](/post/proper/) [or](/post/or/) intended [time](/post/time/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [race](/post/race/) [or](/post/or/) [other](/post/other/) [competition](/post/competition/).
+- "[False](/post/false/) [hope](/post/hope/)": Hopes [or](/post/or/) expectations based [on](/post/on/) [something](/post/something/) [unlikely](/post/unlikely/) [or](/post/or/) unrealistic.
+- "[False](/post/false/) [friend](/post/friend/)": [A](/post/a/) [word](/post/word/) [in](/post/in/) [one](/post/one/) [language](/post/language/) [that](/post/that/) looks [or](/post/or/) sounds [similar](/post/similar/) [to](/post/to/) [a](/post/a/) [word](/post/word/) [in](/post/in/) [another](/post/another/) [but](/post/but/) has [a](/post/a/) [different](/post/different/) [meaning](/post/meaning/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [belief](/en/post/belief/) [that](/en/post/that/) [the](/en/post/the/) [earth](/en/post/earth/) is [flat](/en/post/flat/) is [a](/en/post/a/) [false](/en/post/false/) assumption."
-- "[He](/en/post/he/) was accused [of](/en/post/of/) giving [false](/en/post/false/) testimony [in](/en/post/in/) [court](/en/post/court/)."
-- **[Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: "[The](/en/post/the/) forgery was [so](/en/post/so/) [good](/en/post/good/) [that](/en/post/that/) [it](/en/post/it/) initially passed [for](/en/post/for/) [the](/en/post/the/) [original](/en/post/original/), [but](/en/post/but/) [it](/en/post/it/) was [soon](/en/post/soon/) revealed [as](/en/post/as/) [a](/en/post/a/) [false](/en/post/false/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [belief](/post/belief/) [that](/post/that/) [the](/post/the/) [earth](/post/earth/) is [flat](/post/flat/) is [a](/post/a/) [false](/post/false/) assumption."
+- "[He](/post/he/) was accused [of](/post/of/) giving [false](/post/false/) testimony [in](/post/in/) [court](/post/court/)."
+- **[Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))**: "[The](/post/the/) forgery was [so](/post/so/) [good](/post/good/) [that](/post/that/) [it](/post/it/) initially passed [for](/post/for/) [the](/post/the/) [original](/post/original/), [but](/post/but/) [it](/post/it/) was [soon](/post/soon/) revealed [as](/post/as/) [a](/post/a/) [false](/post/false/)."
 
 ## Synonyms
-- [Incorrect](/en/post/incorrect/)
+- [Incorrect](/post/incorrect/)
 - Untrue
 - Misleading
 - Bogus

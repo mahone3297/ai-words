@@ -12,28 +12,28 @@ keywords = ['ai words', 'conduct']
 
 ## 释义
 - **名词**:
-  - 行为；举止：[The](/post/the/) students' [conduct](/post/conduct/) was exemplary.
-  - 组织；实施；执行：[The](/post/the/) [event](/post/event/) was conducted [smoothly](/post/smoothly/).
-  - 指挥（音乐）：[The](/post/the/) [conductor](/post/conductor/) led [the](/post/the/) [orchestra](/post/orchestra/) [with](/post/with/) [great](/post/great/) [skill](/post/skill/).
+  - 行为；举止：[The](/zh/post/the/) students' [conduct](/zh/post/conduct/) was exemplary.
+  - 组织；实施；执行：[The](/zh/post/the/) [event](/zh/post/event/) was conducted [smoothly](/zh/post/smoothly/).
+  - 指挥（音乐）：[The](/zh/post/the/) [conductor](/zh/post/conductor/) led [the](/zh/post/the/) [orchestra](/zh/post/orchestra/) [with](/zh/post/with/) [great](/zh/post/great/) [skill](/zh/post/skill/).
 
 - **动词**:
-  - 管理；指导：[conduct](/post/conduct/) [a](/post/a/) [business](/post/business/)
-  - 带领；导游：[conduct](/post/conduct/) [a](/post/a/) [tour](/post/tour/)
-  - 表现；举止：[He](/post/he/) conducted [himself](/post/himself/) [with](/post/with/) dignity.
+  - 管理；指导：[conduct](/zh/post/conduct/) [a](/zh/post/a/) [business](/zh/post/business/)
+  - 带领；导游：[conduct](/zh/post/conduct/) [a](/zh/post/a/) [tour](/zh/post/tour/)
+  - 表现；举止：[He](/zh/post/he/) conducted [himself](/zh/post/himself/) [with](/zh/post/with/) dignity.
 
 ## 短语
-- "[conduct](/post/conduct/) [oneself](/post/oneself/)" 表现自己，举止得体
-- "[conduct](/post/conduct/) [a](/post/a/) [survey](/post/survey/)" 进行调查
-- "[conduct](/post/conduct/) [electricity](/post/electricity/)" 导电
+- "[conduct](/zh/post/conduct/) [oneself](/zh/post/oneself/)" 表现自己，举止得体
+- "[conduct](/zh/post/conduct/) [a](/zh/post/a/) [survey](/zh/post/survey/)" 进行调查
+- "[conduct](/zh/post/conduct/) [electricity](/zh/post/electricity/)" 导电
 
 ## 例句
-- 名词: "[Their](/post/their/) [conduct](/post/conduct/) [on](/post/on/) [the](/post/the/) [field](/post/field/) reflected [the](/post/the/) values [of](/post/of/) [fair](/post/fair/) [play](/post/play/)."
-- 动词: "[The](/post/the/) [teacher](/post/teacher/) [will](/post/will/) [conduct](/post/conduct/) [a](/post/a/) [science](/post/science/) [experiment](/post/experiment/) [in](/post/in/) [class](/post/class/) [tomorrow](/post/tomorrow/)."
-- 感叹词（在某些特定上下文可作为名词的一部分）: "[The](/post/the/) conductor's baton signaled [the](/post/the/) [start](/post/start/) [of](/post/of/) [the](/post/the/) symphony."
+- 名词: "[Their](/zh/post/their/) [conduct](/zh/post/conduct/) [on](/zh/post/on/) [the](/zh/post/the/) [field](/zh/post/field/) reflected [the](/zh/post/the/) values [of](/zh/post/of/) [fair](/zh/post/fair/) [play](/zh/post/play/)."
+- 动词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) [will](/zh/post/will/) [conduct](/zh/post/conduct/) [a](/zh/post/a/) [science](/zh/post/science/) [experiment](/zh/post/experiment/) [in](/zh/post/in/) [class](/zh/post/class/) [tomorrow](/zh/post/tomorrow/)."
+- 感叹词（在某些特定上下文可作为名词的一部分）: "[The](/zh/post/the/) conductor's baton signaled [the](/zh/post/the/) [start](/zh/post/start/) [of](/zh/post/of/) [the](/zh/post/the/) symphony."
 
 ## 同义词
-- [Manage](/post/manage/)
-- [Direct](/post/direct/)
-- [Lead](/post/lead/)
+- [Manage](/zh/post/manage/)
+- [Direct](/zh/post/direct/)
+- [Lead](/zh/post/lead/)
 - Supervise
-- [Govern](/post/govern/)
+- [Govern](/zh/post/govern/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'fate']
 /feɪt/
 
 ## 释义
-- **名词**: 人的命运或注定的结果；预先决定的事情。例如: "[She](/post/she/) believed [in](/post/in/) [fate](/post/fate/) [and](/post/and/) trusted [that](/post/that/) [everything](/post/everything/) [would](/post/would/) [work](/post/work/) [out](/post/out/)."
-- **动词**: 决定（某人的）命运。例如: "[His](/post/his/) actions fated [him](/post/him/) [to](/post/to/) [a](/post/a/) [life](/post/life/) [of](/post/of/) [hardship](/post/hardship/)."
+- **名词**: 人的命运或注定的结果；预先决定的事情。例如: "[She](/zh/post/she/) believed [in](/zh/post/in/) [fate](/zh/post/fate/) [and](/zh/post/and/) trusted [that](/zh/post/that/) [everything](/zh/post/everything/) [would](/zh/post/would/) [work](/zh/post/work/) [out](/zh/post/out/)."
+- **动词**: 决定（某人的）命运。例如: "[His](/zh/post/his/) actions fated [him](/zh/post/him/) [to](/zh/post/to/) [a](/zh/post/a/) [life](/zh/post/life/) [of](/zh/post/of/) [hardship](/zh/post/hardship/)."
 
 ## 短语
-- "[Fate](/post/fate/) has [a](/post/a/) [way](/post/way/) [of](/post/of/) stepping [in](/post/in/)" 意味着命运常常出乎意料地介入。
-- "[In](/post/in/) [the](/post/the/) hands [of](/post/of/) [fate](/post/fate/)" 指由命运主宰，无法改变的情况。
+- "[Fate](/zh/post/fate/) has [a](/zh/post/a/) [way](/zh/post/way/) [of](/zh/post/of/) stepping [in](/zh/post/in/)" 意味着命运常常出乎意料地介入。
+- "[In](/zh/post/in/) [the](/zh/post/the/) hands [of](/zh/post/of/) [fate](/zh/post/fate/)" 指由命运主宰，无法改变的情况。
 
 ## 例句
-- 名词: "[They](/post/they/) met [by](/post/by/) [chance](/post/chance/), [but](/post/but/) [it](/post/it/) felt [like](/post/like/) [it](/post/it/) was meant [to](/post/to/) [be](/post/be/), [as](/post/as/) [if](/post/if/) [it](/post/it/) was [their](/post/their/) [fate](/post/fate/) [to](/post/to/) [be](/post/be/) [together](/post/together/)."
-- 动词: "[His](/post/his/) [decision](/post/decision/) [to](/post/to/) [quit](/post/quit/) [his](/post/his/) [job](/post/job/) fated [him](/post/him/) [to](/post/to/) [explore](/post/explore/) [new](/post/new/) opportunities."
+- 名词: "[They](/zh/post/they/) met [by](/zh/post/by/) [chance](/zh/post/chance/), [but](/zh/post/but/) [it](/zh/post/it/) felt [like](/zh/post/like/) [it](/zh/post/it/) was meant [to](/zh/post/to/) [be](/zh/post/be/), [as](/zh/post/as/) [if](/zh/post/if/) [it](/zh/post/it/) was [their](/zh/post/their/) [fate](/zh/post/fate/) [to](/zh/post/to/) [be](/zh/post/be/) [together](/zh/post/together/)."
+- 动词: "[His](/zh/post/his/) [decision](/zh/post/decision/) [to](/zh/post/to/) [quit](/zh/post/quit/) [his](/zh/post/his/) [job](/zh/post/job/) fated [him](/zh/post/him/) [to](/zh/post/to/) [explore](/zh/post/explore/) [new](/zh/post/new/) opportunities."
 
 ## 同义词
 - Destiny
-- [Lot](/post/lot/)
-- [Fortune](/post/fortune/)
+- [Lot](/zh/post/lot/)
+- [Fortune](/zh/post/fortune/)
 - Doom
 - Predetermination

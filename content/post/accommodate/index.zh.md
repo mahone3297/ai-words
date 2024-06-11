@@ -12,21 +12,21 @@ keywords = ['ai words', 'accommodate']
 
 ## 释义
 - **动词**:
-1. 提供住宿；容纳: 例如: "[The](/post/the/) [hotel](/post/hotel/) [can](/post/can/) [accommodate](/post/accommodate/) 500 guests."
-2. 调整以适应；顺应: 例如: "[The](/post/the/) software [can](/post/can/) [accommodate](/post/accommodate/) [different](/post/different/) [screen](/post/screen/) resolutions."
+1. 提供住宿；容纳: 例如: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) [can](/zh/post/can/) [accommodate](/zh/post/accommodate/) 500 guests."
+2. 调整以适应；顺应: 例如: "[The](/zh/post/the/) software [can](/zh/post/can/) [accommodate](/zh/post/accommodate/) [different](/zh/post/different/) [screen](/zh/post/screen/) resolutions."
 
 ## 短语
-- "[accommodate](/post/accommodate/) [oneself](/post/oneself/) [to](/post/to/)" 意思是使自己适应或习惯于某个情况。
-- "[accommodate](/post/accommodate/) [with](/post/with/)" 表示提供所需的东西，例如住宿或设施。
+- "[accommodate](/zh/post/accommodate/) [oneself](/zh/post/oneself/) [to](/zh/post/to/)" 意思是使自己适应或习惯于某个情况。
+- "[accommodate](/zh/post/accommodate/) [with](/zh/post/with/)" 表示提供所需的东西，例如住宿或设施。
 
 ## 例句
-- "[The](/post/the/) [dormitory](/post/dormitory/) is designed [to](/post/to/) [accommodate](/post/accommodate/) 4 students [per](/post/per/) [room](/post/room/)."
-- "We'll [need](/post/need/) [to](/post/to/) [accommodate](/post/accommodate/) [our](/post/our/) [schedule](/post/schedule/) [to](/post/to/) [meet](/post/meet/) [the](/post/the/) deadline."
-- "[The](/post/the/) [restaurant](/post/restaurant/) [will](/post/will/) [accommodate](/post/accommodate/) [your](/post/your/) dietary requirements."
+- "[The](/zh/post/the/) [dormitory](/zh/post/dormitory/) is designed [to](/zh/post/to/) [accommodate](/zh/post/accommodate/) 4 students [per](/zh/post/per/) [room](/zh/post/room/)."
+- "We'll [need](/zh/post/need/) [to](/zh/post/to/) [accommodate](/zh/post/accommodate/) [our](/zh/post/our/) [schedule](/zh/post/schedule/) [to](/zh/post/to/) [meet](/zh/post/meet/) [the](/zh/post/the/) deadline."
+- "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) [will](/zh/post/will/) [accommodate](/zh/post/accommodate/) [your](/zh/post/your/) dietary requirements."
 
 ## 同义词
-- [provide](/post/provide/) [for](/post/for/)
-- [adjust](/post/adjust/) [to](/post/to/)
-- cater [to](/post/to/)
-- [fit](/post/fit/) [in](/post/in/)
-- [make](/post/make/) allowances [for](/post/for/)
+- [provide](/zh/post/provide/) [for](/zh/post/for/)
+- [adjust](/zh/post/adjust/) [to](/zh/post/to/)
+- cater [to](/zh/post/to/)
+- [fit](/zh/post/fit/) [in](/zh/post/in/)
+- [make](/zh/post/make/) allowances [for](/zh/post/for/)

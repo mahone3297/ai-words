@@ -11,20 +11,20 @@ keywords = ['ai words', 'resemble']
 /rɪˈzəmbl/
 
 ## 释义
-- **动词**: 类似，像，与...相像。例如: "[Their](/post/their/) personalities [resemble](/post/resemble/) [each](/post/each/) [other](/post/other/) [in](/post/in/) [many](/post/many/) ways."
-- **名词**: 相似之处，类似物。例如: "[There](/post/there/) are [remarkable](/post/remarkable/) resemblances [between](/post/between/) [their](/post/their/) works."
+- **动词**: 类似，像，与...相像。例如: "[Their](/zh/post/their/) personalities [resemble](/zh/post/resemble/) [each](/zh/post/each/) [other](/zh/post/other/) [in](/zh/post/in/) [many](/zh/post/many/) ways."
+- **名词**: 相似之处，类似物。例如: "[There](/zh/post/there/) are [remarkable](/zh/post/remarkable/) resemblances [between](/zh/post/between/) [their](/zh/post/their/) works."
 
 ## 短语
-- "[resemble](/post/resemble/) [someone](/post/someone/)/[something](/post/something/) [closely](/post/closely/)" 表示非常相似。
-- "[to](/post/to/) [resemble](/post/resemble/) [someone](/post/someone/) [in](/post/in/) [something](/post/something/)" 指在某个方面像某人。
+- "[resemble](/zh/post/resemble/) [someone](/zh/post/someone/)/[something](/zh/post/something/) [closely](/zh/post/closely/)" 表示非常相似。
+- "[to](/zh/post/to/) [resemble](/zh/post/resemble/) [someone](/zh/post/someone/) [in](/zh/post/in/) [something](/zh/post/something/)" 指在某个方面像某人。
 
 ## 例句
-- 动词: "[The](/post/the/) twins [resemble](/post/resemble/) [each](/post/each/) [other](/post/other/) [so](/post/so/) [much](/post/much/) [that](/post/that/) [people](/post/people/) [often](/post/often/) [mistake](/post/mistake/) [them](/post/them/) [for](/post/for/) [one](/post/one/) [another](/post/another/)."
-- 名词: "[The](/post/the/) [painting](/post/painting/) showed [a](/post/a/) [remarkable](/post/remarkable/) resemblance [to](/post/to/) [the](/post/the/) [actual](/post/actual/) [scene](/post/scene/)."
+- 动词: "[The](/zh/post/the/) twins [resemble](/zh/post/resemble/) [each](/zh/post/each/) [other](/zh/post/other/) [so](/zh/post/so/) [much](/zh/post/much/) [that](/zh/post/that/) [people](/zh/post/people/) [often](/zh/post/often/) [mistake](/zh/post/mistake/) [them](/zh/post/them/) [for](/zh/post/for/) [one](/zh/post/one/) [another](/zh/post/another/)."
+- 名词: "[The](/zh/post/the/) [painting](/zh/post/painting/) showed [a](/zh/post/a/) [remarkable](/zh/post/remarkable/) resemblance [to](/zh/post/to/) [the](/zh/post/the/) [actual](/zh/post/actual/) [scene](/zh/post/scene/)."
 
 ## 同义词
-- [look](/post/look/) [like](/post/like/)
-- [bear](/post/bear/) [a](/post/a/) resemblance [to](/post/to/)
-- [be](/post/be/) [similar](/post/similar/) [to](/post/to/)
-- [have](/post/have/) [a](/post/a/) likeness [to](/post/to/)
-- [correspond](/post/correspond/) [to](/post/to/)
+- [look](/zh/post/look/) [like](/zh/post/like/)
+- [bear](/zh/post/bear/) [a](/zh/post/a/) resemblance [to](/zh/post/to/)
+- [be](/zh/post/be/) [similar](/zh/post/similar/) [to](/zh/post/to/)
+- [have](/zh/post/have/) [a](/zh/post/a/) likeness [to](/zh/post/to/)
+- [correspond](/zh/post/correspond/) [to](/zh/post/to/)

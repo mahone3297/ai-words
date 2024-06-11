@@ -7,31 +7,31 @@ description = '[heit] vt.恨，憎恨；不喜欢'
 keywords = ['ai words', 'hate']
 +++
 
-## [Word](/en/post/word/): [Hate](/en/post/hate/)
+## [Word](/post/word/): [Hate](/post/hate/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /heɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [have](/en/post/have/) [intense](/en/post/intense/) [dislike](/en/post/dislike/) [or](/en/post/or/) hostility towards [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "I [hate](/en/post/hate/) [it](/en/post/it/) [when](/en/post/when/) [people](/en/post/people/) [lie](/en/post/lie/) [to](/en/post/to/) [me](/en/post/me/)."
-  - _Also [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) [continuous](/en/post/continuous/) [form](/en/post/form/):_ "She's been hating [her](/en/post/her/) [job](/en/post/job/) [lately](/en/post/lately/)."
-- **[Noun](/en/post/noun/) (n)**: [Intense](/en/post/intense/) [dislike](/en/post/dislike/) [or](/en/post/or/) hostility; [a](/en/post/a/) [strong](/en/post/strong/) aversion. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [hate](/en/post/hate/) [for](/en/post/for/) [his](/en/post/his/) [rival](/en/post/rival/) was palpable."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [have](/post/have/) [intense](/post/intense/) [dislike](/post/dislike/) [or](/post/or/) hostility towards [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "I [hate](/post/hate/) [it](/post/it/) [when](/post/when/) [people](/post/people/) [lie](/post/lie/) [to](/post/to/) [me](/post/me/)."
+  - _Also [used](/post/used/) [in](/post/in/) [the](/post/the/) [continuous](/post/continuous/) [form](/post/form/):_ "She's been hating [her](/post/her/) [job](/post/job/) [lately](/post/lately/)."
+- **[Noun](/post/noun/) (n)**: [Intense](/post/intense/) [dislike](/post/dislike/) [or](/post/or/) hostility; [a](/post/a/) [strong](/post/strong/) aversion. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [hate](/post/hate/) [for](/post/for/) [his](/post/his/) [rival](/post/rival/) was palpable."
 
 ## Phrases
-- "[Hate](/en/post/hate/) [on](/en/post/on/)": [To](/en/post/to/) [criticize](/en/post/criticize/) [or](/en/post/or/) [express](/en/post/express/) [dislike](/en/post/dislike/) intensely [and](/en/post/and/) [often](/en/post/often/) unfairly. [For](/en/post/for/) [example](/en/post/example/): "[Stop](/en/post/stop/) hating [on](/en/post/on/) [my](/en/post/my/) favorite [band](/en/post/band/)."
-- "[Hatred](/en/post/hatred/) [for](/en/post/for/)": Expressing [a](/en/post/a/) deep-seated [and](/en/post/and/) [intense](/en/post/intense/) [dislike](/en/post/dislike/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [hatred](/en/post/hatred/) [for](/en/post/for/) injustice drove [him](/en/post/him/) [to](/en/post/to/) [become](/en/post/become/) an activist."
+- "[Hate](/post/hate/) [on](/post/on/)": [To](/post/to/) [criticize](/post/criticize/) [or](/post/or/) [express](/post/express/) [dislike](/post/dislike/) intensely [and](/post/and/) [often](/post/often/) unfairly. [For](/post/for/) [example](/post/example/): "[Stop](/post/stop/) hating [on](/post/on/) [my](/post/my/) favorite [band](/post/band/)."
+- "[Hatred](/post/hatred/) [for](/post/for/)": Expressing [a](/post/a/) deep-seated [and](/post/and/) [intense](/post/intense/) [dislike](/post/dislike/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [hatred](/post/hatred/) [for](/post/for/) injustice drove [him](/post/him/) [to](/post/to/) [become](/post/become/) an activist."
   
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [really](/en/post/really/) [hate](/en/post/hate/) broccoli; I [just](/en/post/just/) can't [stand](/en/post/stand/) [the](/en/post/the/) [taste](/en/post/taste/)."
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) [mutual](/en/post/mutual/) [hate](/en/post/hate/) has caused countless conflicts [between](/en/post/between/) [them](/en/post/them/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [really](/post/really/) [hate](/post/hate/) broccoli; I [just](/post/just/) can't [stand](/post/stand/) [the](/post/the/) [taste](/post/taste/)."
+- **[Noun](/post/noun/)**: "[Their](/post/their/) [mutual](/post/mutual/) [hate](/post/hate/) has caused countless conflicts [between](/post/between/) [them](/post/them/)."
 
 ## Synonyms
 - Loathe
 - Detest
 - Abhor
-- [Despise](/en/post/despise/)
-- [Dislike](/en/post/dislike/) vehemently
-- [Have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) aversion [to](/en/post/to/)
-- [Be](/en/post/be/) repelled [by](/en/post/by/)
-- [Bear](/en/post/bear/) [a](/en/post/a/) grudge [against](/en/post/against/)
-- Cannot [stand](/en/post/stand/)
+- [Despise](/post/despise/)
+- [Dislike](/post/dislike/) vehemently
+- [Have](/post/have/) [a](/post/a/) [strong](/post/strong/) aversion [to](/post/to/)
+- [Be](/post/be/) repelled [by](/post/by/)
+- [Bear](/post/bear/) [a](/post/a/) grudge [against](/post/against/)
+- Cannot [stand](/post/stand/)

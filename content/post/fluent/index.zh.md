@@ -12,20 +12,20 @@ keywords = ['ai words', 'fluent']
 
 ## 释义
 - **形容词**: 流利的；熟练的；精通的。表示某人在语言或其他技能方面能够自如地运用。
-    - 例如: "[She](/post/she/) speaks French fluently."
-    - 例如: "[He](/post/he/) is [fluent](/post/fluent/) [in](/post/in/) coding, [able](/post/able/) [to](/post/to/) [write](/post/write/) programs effortlessly."
+    - 例如: "[She](/zh/post/she/) speaks French fluently."
+    - 例如: "[He](/zh/post/he/) is [fluent](/zh/post/fluent/) [in](/zh/post/in/) coding, [able](/zh/post/able/) [to](/zh/post/to/) [write](/zh/post/write/) programs effortlessly."
 
 ## 短语
-- "[be](/post/be/) [fluent](/post/fluent/) [in](/post/in/)" 意味着能流利地说某种语言或做某事。
-- "[fluent](/post/fluent/) [communication](/post/communication/)" 指的是流畅的沟通。
+- "[be](/zh/post/be/) [fluent](/zh/post/fluent/) [in](/zh/post/in/)" 意味着能流利地说某种语言或做某事。
+- "[fluent](/zh/post/fluent/) [communication](/zh/post/communication/)" 指的是流畅的沟通。
 
 ## 例句
-- 形容词: "[Despite](/post/despite/) having [learned](/post/learned/) [it](/post/it/) [recently](/post/recently/), [he](/post/he/) is [already](/post/already/) [fluent](/post/fluent/) [in](/post/in/) Chinese."
-- "[Her](/post/her/) [fluent](/post/fluent/) Spanish impressed [everyone](/post/everyone/) [at](/post/at/) [the](/post/the/) [meeting](/post/meeting/)."
+- 形容词: "[Despite](/zh/post/despite/) having [learned](/zh/post/learned/) [it](/zh/post/it/) [recently](/zh/post/recently/), [he](/zh/post/he/) is [already](/zh/post/already/) [fluent](/zh/post/fluent/) [in](/zh/post/in/) Chinese."
+- "[Her](/zh/post/her/) [fluent](/zh/post/fluent/) Spanish impressed [everyone](/zh/post/everyone/) [at](/zh/post/at/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
 
 ## 同义词
 - Proficient
-- [Skilled](/post/skilled/)
-- [Expert](/post/expert/)
+- [Skilled](/zh/post/skilled/)
+- [Expert](/zh/post/expert/)
 - Articulate
 - Seamless

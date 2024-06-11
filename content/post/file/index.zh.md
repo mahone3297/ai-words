@@ -15,18 +15,18 @@ keywords = ['ai words', 'file']
 - **动词 (v)**: 1. 把（文件）归档，存档。2. 提交，呈递（文件或申请）。3. 使用锉刀锉平或修整。
 
 ## 短语
-- "[file](/post/file/) [away](/post/away/)" 存储或归档文件。
-- "[file](/post/file/) [a](/post/a/) [complaint](/post/complaint/)" 提交或提出投诉。
-- "[file](/post/file/) [for](/post/for/) [divorce](/post/divorce/)" 提交离婚申请。
+- "[file](/zh/post/file/) [away](/zh/post/away/)" 存储或归档文件。
+- "[file](/zh/post/file/) [a](/zh/post/a/) [complaint](/zh/post/complaint/)" 提交或提出投诉。
+- "[file](/zh/post/file/) [for](/zh/post/for/) [divorce](/zh/post/divorce/)" 提交离婚申请。
 
 ## 例句
-- 名词: "I [need](/post/need/) [to](/post/to/) [find](/post/find/) [the](/post/the/) [contract](/post/contract/) [file](/post/file/) [on](/post/on/) [my](/post/my/) [computer](/post/computer/)."
-- 动词: "[She](/post/she/) filed [her](/post/her/) taxes online [this](/post/this/) [year](/post/year/)."
-- 名词（锉刀）: "[The](/post/the/) [carpenter](/post/carpenter/) [used](/post/used/) [a](/post/a/) [file](/post/file/) [to](/post/to/) [smooth](/post/smooth/) [the](/post/the/) edges [of](/post/of/) [the](/post/the/) [wood](/post/wood/)."
+- 名词: "I [need](/zh/post/need/) [to](/zh/post/to/) [find](/zh/post/find/) [the](/zh/post/the/) [contract](/zh/post/contract/) [file](/zh/post/file/) [on](/zh/post/on/) [my](/zh/post/my/) [computer](/zh/post/computer/)."
+- 动词: "[She](/zh/post/she/) filed [her](/zh/post/her/) taxes online [this](/zh/post/this/) [year](/zh/post/year/)."
+- 名词（锉刀）: "[The](/zh/post/the/) [carpenter](/zh/post/carpenter/) [used](/zh/post/used/) [a](/zh/post/a/) [file](/zh/post/file/) [to](/zh/post/to/) [smooth](/zh/post/smooth/) [the](/zh/post/the/) edges [of](/zh/post/of/) [the](/zh/post/the/) [wood](/zh/post/wood/)."
 
 ## 同义词
-- [Document](/post/document/) (名词)
-- [Submit](/post/submit/) (动词)
-- [Record](/post/record/) (名词)
+- [Document](/zh/post/document/) (名词)
+- [Submit](/zh/post/submit/) (动词)
+- [Record](/zh/post/record/) (名词)
 - Archive (动词)
 - Folder (名词)

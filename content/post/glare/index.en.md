@@ -7,25 +7,25 @@ description = '[gleə] vi.瞪眼 n.瞪眼'
 keywords = ['ai words', 'glare']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡlɛər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [strong](/en/post/strong/), [harsh](/en/post/harsh/), [and](/en/post/and/) [often](/en/post/often/) dazzling [light](/en/post/light/) [that](/en/post/that/) shines brightly [and](/en/post/and/) causes [difficulty](/en/post/difficulty/) [in](/en/post/in/) seeing. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) sun's [glare](/en/post/glare/) made [it](/en/post/it/) [hard](/en/post/hard/) [to](/en/post/to/) [see](/en/post/see/) [the](/en/post/the/) [road](/en/post/road/)."
-- **[Verb](/en/post/verb/)**: ([glare](/en/post/glare/) [at](/en/post/at/)) [To](/en/post/to/) [stare](/en/post/stare/) [at](/en/post/at/) [someone](/en/post/someone/) [with](/en/post/with/) an [angry](/en/post/angry/) [or](/en/post/or/) disapproving [expression](/en/post/expression/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) glared [at](/en/post/at/) [him](/en/post/him/) [when](/en/post/when/) [he](/en/post/he/) interrupted [her](/en/post/her/)."
-- **[Adjective](/en/post/adjective/)**: (glaring) Describing [something](/en/post/something/) [that](/en/post/that/) is [very](/en/post/very/) [noticeable](/en/post/noticeable/) [because](/en/post/because/) [it](/en/post/it/) is [bright](/en/post/bright/), [obvious](/en/post/obvious/), [or](/en/post/or/) inappropriate. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) glaring [error](/en/post/error/) [in](/en/post/in/) [the](/en/post/the/) [report](/en/post/report/) was overlooked [by](/en/post/by/) [the](/en/post/the/) [editor](/en/post/editor/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [strong](/post/strong/), [harsh](/post/harsh/), [and](/post/and/) [often](/post/often/) dazzling [light](/post/light/) [that](/post/that/) shines brightly [and](/post/and/) causes [difficulty](/post/difficulty/) [in](/post/in/) seeing. [For](/post/for/) [example](/post/example/): "[The](/post/the/) sun's [glare](/post/glare/) made [it](/post/it/) [hard](/post/hard/) [to](/post/to/) [see](/post/see/) [the](/post/the/) [road](/post/road/)."
+- **[Verb](/post/verb/)**: ([glare](/post/glare/) [at](/post/at/)) [To](/post/to/) [stare](/post/stare/) [at](/post/at/) [someone](/post/someone/) [with](/post/with/) an [angry](/post/angry/) [or](/post/or/) disapproving [expression](/post/expression/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) glared [at](/post/at/) [him](/post/him/) [when](/post/when/) [he](/post/he/) interrupted [her](/post/her/)."
+- **[Adjective](/post/adjective/)**: (glaring) Describing [something](/post/something/) [that](/post/that/) is [very](/post/very/) [noticeable](/post/noticeable/) [because](/post/because/) [it](/post/it/) is [bright](/post/bright/), [obvious](/post/obvious/), [or](/post/or/) inappropriate. [For](/post/for/) [example](/post/example/): "[The](/post/the/) glaring [error](/post/error/) [in](/post/in/) [the](/post/the/) [report](/post/report/) was overlooked [by](/post/by/) [the](/post/the/) [editor](/post/editor/)."
 
 ## Phrases
-- "[In](/en/post/in/) [full](/en/post/full/) [glare](/en/post/glare/)": [In](/en/post/in/) [a](/en/post/a/) [position](/en/post/position/) [where](/en/post/where/) [something](/en/post/something/) is [clearly](/en/post/clearly/) [visible](/en/post/visible/) [or](/en/post/or/) exposed [to](/en/post/to/) [bright](/en/post/bright/) [light](/en/post/light/).
-- "[To](/en/post/to/) [reduce](/en/post/reduce/) [glare](/en/post/glare/)": [To](/en/post/to/) diminish [or](/en/post/or/) minimize [the](/en/post/the/) [intensity](/en/post/intensity/) [of](/en/post/of/) [a](/en/post/a/) [bright](/en/post/bright/) [light](/en/post/light/), [often](/en/post/often/) [for](/en/post/for/) [visual](/en/post/visual/) [comfort](/en/post/comfort/).
-- "[Glare](/en/post/glare/) [off](/en/post/off/)": [The](/en/post/the/) [reflection](/en/post/reflection/) [of](/en/post/of/) [bright](/en/post/bright/) [light](/en/post/light/) [from](/en/post/from/) [a](/en/post/a/) [surface](/en/post/surface/), [which](/en/post/which/) [can](/en/post/can/) [be](/en/post/be/) distracting [or](/en/post/or/) blinding.
+- "[In](/post/in/) [full](/post/full/) [glare](/post/glare/)": [In](/post/in/) [a](/post/a/) [position](/post/position/) [where](/post/where/) [something](/post/something/) is [clearly](/post/clearly/) [visible](/post/visible/) [or](/post/or/) exposed [to](/post/to/) [bright](/post/bright/) [light](/post/light/).
+- "[To](/post/to/) [reduce](/post/reduce/) [glare](/post/glare/)": [To](/post/to/) diminish [or](/post/or/) minimize [the](/post/the/) [intensity](/post/intensity/) [of](/post/of/) [a](/post/a/) [bright](/post/bright/) [light](/post/light/), [often](/post/often/) [for](/post/for/) [visual](/post/visual/) [comfort](/post/comfort/).
+- "[Glare](/post/glare/) [off](/post/off/)": [The](/post/the/) [reflection](/post/reflection/) [of](/post/of/) [bright](/post/bright/) [light](/post/light/) [from](/post/from/) [a](/post/a/) [surface](/post/surface/), [which](/post/which/) [can](/post/can/) [be](/post/be/) distracting [or](/post/or/) blinding.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Drivers [should](/en/post/should/) [wear](/en/post/wear/) sunglasses [to](/en/post/to/) [protect](/en/post/protect/) [their](/en/post/their/) eyes [from](/en/post/from/) [the](/en/post/the/) headlights' [glare](/en/post/glare/)."
-- **[Verb](/en/post/verb/)**: "[When](/en/post/when/) [he](/en/post/he/) [saw](/en/post/saw/) [his](/en/post/his/) [friend](/en/post/friend/) cheating [on](/en/post/on/) [the](/en/post/the/) [exam](/en/post/exam/), [he](/en/post/he/) couldn't [help](/en/post/help/) [but](/en/post/but/) [glare](/en/post/glare/) [at](/en/post/at/) [him](/en/post/him/) [in](/en/post/in/) disbelief."
-- **[Adjective](/en/post/adjective/)**: "[Despite](/en/post/despite/) [the](/en/post/the/) glaring [mistake](/en/post/mistake/), [the](/en/post/the/) [project](/en/post/project/) manager approved [the](/en/post/the/) [proposal](/en/post/proposal/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Drivers [should](/post/should/) [wear](/post/wear/) sunglasses [to](/post/to/) [protect](/post/protect/) [their](/post/their/) eyes [from](/post/from/) [the](/post/the/) headlights' [glare](/post/glare/)."
+- **[Verb](/post/verb/)**: "[When](/post/when/) [he](/post/he/) [saw](/post/saw/) [his](/post/his/) [friend](/post/friend/) cheating [on](/post/on/) [the](/post/the/) [exam](/post/exam/), [he](/post/he/) couldn't [help](/post/help/) [but](/post/but/) [glare](/post/glare/) [at](/post/at/) [him](/post/him/) [in](/post/in/) disbelief."
+- **[Adjective](/post/adjective/)**: "[Despite](/post/despite/) [the](/post/the/) glaring [mistake](/post/mistake/), [the](/post/the/) [project](/post/project/) manager approved [the](/post/the/) [proposal](/post/proposal/)."
 
 ## Synonyms
-- [Noun](/en/post/noun/): [shine](/en/post/shine/), dazzle, brightness, radiance
-- [Verb](/en/post/verb/): scowl, [stare](/en/post/stare/) fiercely, [give](/en/post/give/) [a](/en/post/a/) [stern](/en/post/stern/) [look](/en/post/look/)
-- [Adjective](/en/post/adjective/): conspicuous, [obvious](/en/post/obvious/), blatant, stark, [vivid](/en/post/vivid/)
+- [Noun](/post/noun/): [shine](/post/shine/), dazzle, brightness, radiance
+- [Verb](/post/verb/): scowl, [stare](/post/stare/) fiercely, [give](/post/give/) [a](/post/a/) [stern](/post/stern/) [look](/post/look/)
+- [Adjective](/post/adjective/): conspicuous, [obvious](/post/obvious/), blatant, stark, [vivid](/post/vivid/)

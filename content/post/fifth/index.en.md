@@ -7,35 +7,35 @@ description = '[fifθ] num.第五 n.五分之一'
 keywords = ['ai words', 'fifth']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɪfθ/
 
 ## Definitions
-- **Numeral**: [The](/en/post/the/) [number](/en/post/number/) [that](/en/post/that/) comes [after](/en/post/after/) [four](/en/post/four/) [and](/en/post/and/) [before](/en/post/before/) [six](/en/post/six/) [in](/en/post/in/) counting, typically represented [as](/en/post/as/) "5". It's [used](/en/post/used/) [when](/en/post/when/) referring [to](/en/post/to/) [position](/en/post/position/) [or](/en/post/or/) [order](/en/post/order/) [in](/en/post/in/) [a](/en/post/a/) [sequence](/en/post/sequence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [fifth](/en/post/fifth/) [item](/en/post/item/) [on](/en/post/on/) [the](/en/post/the/) [list](/en/post/list/)."
+- **Numeral**: [The](/post/the/) [number](/post/number/) [that](/post/that/) comes [after](/post/after/) [four](/post/four/) [and](/post/and/) [before](/post/before/) [six](/post/six/) [in](/post/in/) counting, typically represented [as](/post/as/) "5". It's [used](/post/used/) [when](/post/when/) referring [to](/post/to/) [position](/post/position/) [or](/post/or/) [order](/post/order/) [in](/post/in/) [a](/post/a/) [sequence](/post/sequence/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [fifth](/post/fifth/) [item](/post/item/) [on](/post/on/) [the](/post/the/) [list](/post/list/)."
 
-### [Noun](/en/post/noun/) (ordinal [number](/en/post/number/))
-- **[Noun](/en/post/noun/)**: Denoting [a](/en/post/a/) [thing](/en/post/thing/) [which](/en/post/which/) is [number](/en/post/number/) [five](/en/post/five/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) won [fifth](/en/post/fifth/) [place](/en/post/place/) [in](/en/post/in/) [the](/en/post/the/) [race](/en/post/race/)."
+### [Noun](/post/noun/) (ordinal [number](/post/number/))
+- **[Noun](/post/noun/)**: Denoting [a](/post/a/) [thing](/post/thing/) [which](/post/which/) is [number](/post/number/) [five](/post/five/) [in](/post/in/) [a](/post/a/) [series](/post/series/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) won [fifth](/post/fifth/) [place](/post/place/) [in](/post/in/) [the](/post/the/) [race](/post/race/)."
 
-  > "[He](/en/post/he/) lives [on](/en/post/on/) [the](/en/post/the/) [fifth](/en/post/fifth/) [floor](/en/post/floor/)."
-  > "[This](/en/post/this/) is [my](/en/post/my/) [fifth](/en/post/fifth/) [attempt](/en/post/attempt/) [at](/en/post/at/) passing [the](/en/post/the/) [exam](/en/post/exam/)."
+  > "[He](/post/he/) lives [on](/post/on/) [the](/post/the/) [fifth](/post/fifth/) [floor](/post/floor/)."
+  > "[This](/post/this/) is [my](/post/my/) [fifth](/post/fifth/) [attempt](/post/attempt/) [at](/post/at/) passing [the](/post/the/) [exam](/post/exam/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Adjective](/en/post/adjective/)**: Coming [after](/en/post/after/) [the](/en/post/the/) [fourth](/en/post/fourth/) [in](/en/post/in/) numbering [or](/en/post/or/) counting [order](/en/post/order/); [being](/en/post/being/) [the](/en/post/the/) ordinal [number](/en/post/number/) [of](/en/post/of/) [five](/en/post/five/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [fifth](/en/post/fifth/) [chapter](/en/post/chapter/) discusses [advanced](/en/post/advanced/) techniques."
+### [Adjective](/post/adjective/)
+- **[Adjective](/post/adjective/)**: Coming [after](/post/after/) [the](/post/the/) [fourth](/post/fourth/) [in](/post/in/) numbering [or](/post/or/) counting [order](/post/order/); [being](/post/being/) [the](/post/the/) ordinal [number](/post/number/) [of](/post/of/) [five](/post/five/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [fifth](/post/fifth/) [chapter](/post/chapter/) discusses [advanced](/post/advanced/) techniques."
 
-  > "We're celebrating [our](/en/post/our/) [fifth](/en/post/fifth/) [wedding](/en/post/wedding/) anniversary [this](/en/post/this/) [year](/en/post/year/)."
-  > "[The](/en/post/the/) [fifth](/en/post/fifth/) [edition](/en/post/edition/) [of](/en/post/of/) [the](/en/post/the/) [book](/en/post/book/) includes [new](/en/post/new/) chapters."
+  > "We're celebrating [our](/post/our/) [fifth](/post/fifth/) [wedding](/post/wedding/) anniversary [this](/post/this/) [year](/post/year/)."
+  > "[The](/post/the/) [fifth](/post/fifth/) [edition](/post/edition/) [of](/post/of/) [the](/post/the/) [book](/post/book/) includes [new](/post/new/) chapters."
 
 ## Phrases
-- "[Fifth](/en/post/fifth/) [wheel](/en/post/wheel/)": An [unnecessary](/en/post/unnecessary/) [or](/en/post/or/) superfluous [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) causes awkwardness [or](/en/post/or/) discomfort.
-- "[A](/en/post/a/) [fifth](/en/post/fifth/) [of](/en/post/of/) [something](/en/post/something/)": [A](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [alcohol](/en/post/alcohol/), [equivalent](/en/post/equivalent/) [to](/en/post/to/) one-fifth [of](/en/post/of/) [a](/en/post/a/) [gallon](/en/post/gallon/) [or](/en/post/or/) 750 milliliters.
+- "[Fifth](/post/fifth/) [wheel](/post/wheel/)": An [unnecessary](/post/unnecessary/) [or](/post/or/) superfluous [person](/post/person/) [or](/post/or/) [thing](/post/thing/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) causes awkwardness [or](/post/or/) discomfort.
+- "[A](/post/a/) [fifth](/post/fifth/) [of](/post/of/) [something](/post/something/)": [A](/post/a/) [measure](/post/measure/) [of](/post/of/) [alcohol](/post/alcohol/), [equivalent](/post/equivalent/) [to](/post/to/) one-fifth [of](/post/of/) [a](/post/a/) [gallon](/post/gallon/) [or](/post/or/) 750 milliliters.
 
-## [Example](/en/post/example/) Sentences
-- **Numeral**: "[There](/en/post/there/) are [only](/en/post/only/) [five](/en/post/five/) apples [left](/en/post/left/); [please](/en/post/please/) [take](/en/post/take/) [the](/en/post/the/) [fifth](/en/post/fifth/) [one](/en/post/one/) [from](/en/post/from/) [the](/en/post/the/) [basket](/en/post/basket/)."
-- **[Adjective](/en/post/adjective/) (ordinal)**: "[On](/en/post/on/) [the](/en/post/the/) [fifth](/en/post/fifth/) [day](/en/post/day/) [of](/en/post/of/) Christmas, [my](/en/post/my/) [true](/en/post/true/) [love](/en/post/love/) sent [to](/en/post/to/) [me](/en/post/me/), [five](/en/post/five/) [golden](/en/post/golden/) rings."
+## [Example](/post/example/) Sentences
+- **Numeral**: "[There](/post/there/) are [only](/post/only/) [five](/post/five/) apples [left](/post/left/); [please](/post/please/) [take](/post/take/) [the](/post/the/) [fifth](/post/fifth/) [one](/post/one/) [from](/post/from/) [the](/post/the/) [basket](/post/basket/)."
+- **[Adjective](/post/adjective/) (ordinal)**: "[On](/post/on/) [the](/post/the/) [fifth](/post/fifth/) [day](/post/day/) [of](/post/of/) Christmas, [my](/post/my/) [true](/post/true/) [love](/post/love/) sent [to](/post/to/) [me](/post/me/), [five](/post/five/) [golden](/post/golden/) rings."
 
 ## Synonyms
 - Fifthly (adv.)
-- [Five](/en/post/five/) (numeral)
-- Fifthly ([as](/en/post/as/) an [adverb](/en/post/adverb/) [in](/en/post/in/) [a](/en/post/a/) [sequence](/en/post/sequence/)) - "Firstly, [secondly](/en/post/secondly/), [thirdly](/en/post/thirdly/), fourthly, fifthly..." 
+- [Five](/post/five/) (numeral)
+- Fifthly ([as](/post/as/) an [adverb](/post/adverb/) [in](/post/in/) [a](/post/a/) [sequence](/post/sequence/)) - "Firstly, [secondly](/post/secondly/), [thirdly](/post/thirdly/), fourthly, fifthly..." 
 
-[Note](/en/post/note/): [Unlike](/en/post/unlike/) numbers [used](/en/post/used/) [as](/en/post/as/) nouns (e.g., '[five](/en/post/five/)'), '[fifth](/en/post/fifth/)' is [not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [or](/en/post/or/) interjection.
+[Note](/post/note/): [Unlike](/post/unlike/) numbers [used](/post/used/) [as](/post/as/) nouns (e.g., '[five](/post/five/)'), '[fifth](/post/fifth/)' is [not](/post/not/) typically [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [or](/post/or/) interjection.

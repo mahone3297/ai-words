@@ -7,30 +7,30 @@ description = '[naif] n.小刀，刀，餐刀'
 keywords = ['ai words', 'knife']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /naɪf/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) sharp-edged [hand](/en/post/hand/) [tool](/en/post/tool/) [with](/en/post/with/) [a](/en/post/a/) [handle](/en/post/handle/), typically [used](/en/post/used/) [for](/en/post/for/) cutting [or](/en/post/or/) slicing. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) chef expertly handled [the](/en/post/the/) carving [knife](/en/post/knife/) [to](/en/post/to/) [slice](/en/post/slice/) [through](/en/post/through/) [the](/en/post/the/) [roast](/en/post/roast/)."
-- **[Verb](/en/post/verb/) (informal)**: [To](/en/post/to/) [stab](/en/post/stab/) [or](/en/post/or/) [cut](/en/post/cut/) [with](/en/post/with/) [a](/en/post/a/) [knife](/en/post/knife/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) self-defense, [he](/en/post/he/) knifed [the](/en/post/the/) attacker."
+- **[Noun](/post/noun/)**: [A](/post/a/) sharp-edged [hand](/post/hand/) [tool](/post/tool/) [with](/post/with/) [a](/post/a/) [handle](/post/handle/), typically [used](/post/used/) [for](/post/for/) cutting [or](/post/or/) slicing. [For](/post/for/) [example](/post/example/): "[The](/post/the/) chef expertly handled [the](/post/the/) carving [knife](/post/knife/) [to](/post/to/) [slice](/post/slice/) [through](/post/through/) [the](/post/the/) [roast](/post/roast/)."
+- **[Verb](/post/verb/) (informal)**: [To](/post/to/) [stab](/post/stab/) [or](/post/or/) [cut](/post/cut/) [with](/post/with/) [a](/post/a/) [knife](/post/knife/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) self-defense, [he](/post/he/) knifed [the](/post/the/) attacker."
 
 ## Phrases
-- "[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/)/[the](/en/post/the/) [knife](/en/post/knife/) [out](/en/post/out/) [for](/en/post/for/) [someone](/en/post/someone/)": [To](/en/post/to/) [have](/en/post/have/) [ill](/en/post/ill/) intentions towards [someone](/en/post/someone/); [to](/en/post/to/) [be](/en/post/be/) looking [for](/en/post/for/) an [opportunity](/en/post/opportunity/) [to](/en/post/to/) [harm](/en/post/harm/) [or](/en/post/or/) [criticize](/en/post/criticize/) [them](/en/post/them/). [Example](/en/post/example/): "[Ever](/en/post/ever/) [since](/en/post/since/) [the](/en/post/the/) [argument](/en/post/argument/), she's had [the](/en/post/the/) [knife](/en/post/knife/) [out](/en/post/out/) [for](/en/post/for/) [him](/en/post/him/)."
-- "[The](/en/post/the/) [knife](/en/post/knife/) [edge](/en/post/edge/)": Refers [to](/en/post/to/) [a](/en/post/a/) [situation](/en/post/situation/) [that](/en/post/that/) is precarious, [uncertain](/en/post/uncertain/), [or](/en/post/or/) finely balanced. [Example](/en/post/example/): "[The](/en/post/the/) [election](/en/post/election/) [result](/en/post/result/) was [on](/en/post/on/) [a](/en/post/a/) [knife](/en/post/knife/) [edge](/en/post/edge/) [until](/en/post/until/) [the](/en/post/the/) [last](/en/post/last/) votes were counted."
-- "[A](/en/post/a/) double-edged [sword](/en/post/sword/)/[knife](/en/post/knife/)": [Something](/en/post/something/) [that](/en/post/that/) has [both](/en/post/both/) advantages [and](/en/post/and/) disadvantages. [Example](/en/post/example/): "[His](/en/post/his/) [intelligence](/en/post/intelligence/) proved [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) double-edged [knife](/en/post/knife/); [it](/en/post/it/) helped [him](/en/post/him/) excel academically [but](/en/post/but/) [also](/en/post/also/) isolated [him](/en/post/him/) [from](/en/post/from/) [his](/en/post/his/) peers."
+- "[To](/post/to/) [have](/post/have/) [a](/post/a/)/[the](/post/the/) [knife](/post/knife/) [out](/post/out/) [for](/post/for/) [someone](/post/someone/)": [To](/post/to/) [have](/post/have/) [ill](/post/ill/) intentions towards [someone](/post/someone/); [to](/post/to/) [be](/post/be/) looking [for](/post/for/) an [opportunity](/post/opportunity/) [to](/post/to/) [harm](/post/harm/) [or](/post/or/) [criticize](/post/criticize/) [them](/post/them/). [Example](/post/example/): "[Ever](/post/ever/) [since](/post/since/) [the](/post/the/) [argument](/post/argument/), she's had [the](/post/the/) [knife](/post/knife/) [out](/post/out/) [for](/post/for/) [him](/post/him/)."
+- "[The](/post/the/) [knife](/post/knife/) [edge](/post/edge/)": Refers [to](/post/to/) [a](/post/a/) [situation](/post/situation/) [that](/post/that/) is precarious, [uncertain](/post/uncertain/), [or](/post/or/) finely balanced. [Example](/post/example/): "[The](/post/the/) [election](/post/election/) [result](/post/result/) was [on](/post/on/) [a](/post/a/) [knife](/post/knife/) [edge](/post/edge/) [until](/post/until/) [the](/post/the/) [last](/post/last/) votes were counted."
+- "[A](/post/a/) double-edged [sword](/post/sword/)/[knife](/post/knife/)": [Something](/post/something/) [that](/post/that/) has [both](/post/both/) advantages [and](/post/and/) disadvantages. [Example](/post/example/): "[His](/post/his/) [intelligence](/post/intelligence/) proved [to](/post/to/) [be](/post/be/) [a](/post/a/) double-edged [knife](/post/knife/); [it](/post/it/) helped [him](/post/him/) excel academically [but](/post/but/) [also](/post/also/) isolated [him](/post/him/) [from](/post/from/) [his](/post/his/) peers."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Keep](/en/post/keep/) [the](/en/post/the/) [butter](/en/post/butter/) [knife](/en/post/knife/) [away](/en/post/away/) [from](/en/post/from/) [the](/en/post/the/) [edge](/en/post/edge/) [of](/en/post/of/) [the](/en/post/the/) [table](/en/post/table/)."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) [the](/en/post/the/) [heat](/en/post/heat/) [of](/en/post/of/) [the](/en/post/the/) [moment](/en/post/moment/), [he](/en/post/he/) accidentally knifed [the](/en/post/the/) attacker."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Keep](/post/keep/) [the](/post/the/) [butter](/post/butter/) [knife](/post/knife/) [away](/post/away/) [from](/post/from/) [the](/post/the/) [edge](/post/edge/) [of](/post/of/) [the](/post/the/) [table](/post/table/)."
+- **[Verb](/post/verb/)**: "[In](/post/in/) [the](/post/the/) [heat](/post/heat/) [of](/post/of/) [the](/post/the/) [moment](/post/moment/), [he](/post/he/) accidentally knifed [the](/post/the/) attacker."
 
 ## Synonyms
-- [Blade](/en/post/blade/)
+- [Blade](/post/blade/)
 - Dagger
 - Cutter
 - Scalpel
-- [Sword](/en/post/sword/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- [Sword](/post/sword/) ([in](/post/in/) [some](/post/some/) contexts)
 - Pocketknife
-- [Table](/en/post/table/) [knife](/en/post/knife/)
-- Chef's [knife](/en/post/knife/)
+- [Table](/post/table/) [knife](/post/knife/)
+- Chef's [knife](/post/knife/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) [of](/en/post/of/) '[knife](/en/post/knife/)' is informal [and](/en/post/and/) [often](/en/post/often/) associated [with](/en/post/with/) [violent](/en/post/violent/) actions [or](/en/post/or/) slang [usage](/en/post/usage/). [In](/en/post/in/) [formal](/en/post/formal/) [or](/en/post/or/) non-violent contexts, verbs [like](/en/post/like/) '[cut](/en/post/cut/)', '[slice](/en/post/slice/)', [or](/en/post/or/) '[stab](/en/post/stab/)' [might](/en/post/might/) [be](/en/post/be/) [more](/en/post/more/) [appropriate](/en/post/appropriate/).
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) [of](/post/of/) '[knife](/post/knife/)' is informal [and](/post/and/) [often](/post/often/) associated [with](/post/with/) [violent](/post/violent/) actions [or](/post/or/) slang [usage](/post/usage/). [In](/post/in/) [formal](/post/formal/) [or](/post/or/) non-violent contexts, verbs [like](/post/like/) '[cut](/post/cut/)', '[slice](/post/slice/)', [or](/post/or/) '[stab](/post/stab/)' [might](/post/might/) [be](/post/be/) [more](/post/more/) [appropriate](/post/appropriate/).

@@ -7,29 +7,29 @@ description = '[ˈkwɔrəl] n.争吵，吵架，口角'
 keywords = ['ai words', 'quarrel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkwɒrəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) disagreement [or](/en/post/or/) [argument](/en/post/argument/) [between](/en/post/between/) [people](/en/post/people/), [often](/en/post/often/) characterized [by](/en/post/by/) [angry](/en/post/angry/) words [or](/en/post/or/) raised voices. *[Example](/en/post/example/)*: "[Their](/en/post/their/) [constant](/en/post/constant/) quarrels were causing problems [in](/en/post/in/) [the](/en/post/the/) [family](/en/post/family/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [dispute](/en/post/dispute/) [or](/en/post/or/) [argument](/en/post/argument/) [with](/en/post/with/) [someone](/en/post/someone/). *[Example](/en/post/example/)*: "[She](/en/post/she/) decided [to](/en/post/to/) [quarrel](/en/post/quarrel/) [with](/en/post/with/) [her](/en/post/her/) roommate [about](/en/post/about/) [the](/en/post/the/) [mess](/en/post/mess/)."
-- **[Adjective](/en/post/adjective/)**: Causing [or](/en/post/or/) marked [by](/en/post/by/) [conflict](/en/post/conflict/) [or](/en/post/or/) disagreement; contentious. *[Example](/en/post/example/)*: "[The](/en/post/the/) quarrelsome [atmosphere](/en/post/atmosphere/) made [it](/en/post/it/) [hard](/en/post/hard/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [productive](/en/post/productive/) [meeting](/en/post/meeting/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) disagreement [or](/post/or/) [argument](/post/argument/) [between](/post/between/) [people](/post/people/), [often](/post/often/) characterized [by](/post/by/) [angry](/post/angry/) words [or](/post/or/) raised voices. *[Example](/post/example/)*: "[Their](/post/their/) [constant](/post/constant/) quarrels were causing problems [in](/post/in/) [the](/post/the/) [family](/post/family/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [dispute](/post/dispute/) [or](/post/or/) [argument](/post/argument/) [with](/post/with/) [someone](/post/someone/). *[Example](/post/example/)*: "[She](/post/she/) decided [to](/post/to/) [quarrel](/post/quarrel/) [with](/post/with/) [her](/post/her/) roommate [about](/post/about/) [the](/post/the/) [mess](/post/mess/)."
+- **[Adjective](/post/adjective/)**: Causing [or](/post/or/) marked [by](/post/by/) [conflict](/post/conflict/) [or](/post/or/) disagreement; contentious. *[Example](/post/example/)*: "[The](/post/the/) quarrelsome [atmosphere](/post/atmosphere/) made [it](/post/it/) [hard](/post/hard/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [productive](/post/productive/) [meeting](/post/meeting/)."
 
 ## Phrases
-- "[Start](/en/post/start/) [a](/en/post/a/) [quarrel](/en/post/quarrel/)" [means](/en/post/means/) [to](/en/post/to/) initiate an [argument](/en/post/argument/).
-- "[Put](/en/post/put/) an [end](/en/post/end/) [to](/en/post/to/) [the](/en/post/the/) [quarrel](/en/post/quarrel/)" signifies resolving [a](/en/post/a/) disagreement.
-- "[No](/en/post/no/) [more](/en/post/more/) quarrels allowed" is [a](/en/post/a/) [statement](/en/post/statement/) [to](/en/post/to/) [discourage](/en/post/discourage/) arguments.
+- "[Start](/post/start/) [a](/post/a/) [quarrel](/post/quarrel/)" [means](/post/means/) [to](/post/to/) initiate an [argument](/post/argument/).
+- "[Put](/post/put/) an [end](/post/end/) [to](/post/to/) [the](/post/the/) [quarrel](/post/quarrel/)" signifies resolving [a](/post/a/) disagreement.
+- "[No](/post/no/) [more](/post/more/) quarrels allowed" is [a](/post/a/) [statement](/post/statement/) [to](/post/to/) [discourage](/post/discourage/) arguments.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [they](/en/post/they/) couldn't [avoid](/en/post/avoid/) starting [a](/en/post/a/) [quarrel](/en/post/quarrel/) [over](/en/post/over/) [dinner](/en/post/dinner/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) friends had [a](/en/post/a/) [brief](/en/post/brief/) [quarrel](/en/post/quarrel/) [but](/en/post/but/) [quickly](/en/post/quickly/) made [up](/en/post/up/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) manager's quarrelsome [behavior](/en/post/behavior/) led [to](/en/post/to/) tensions [among](/en/post/among/) employees."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [they](/post/they/) couldn't [avoid](/post/avoid/) starting [a](/post/a/) [quarrel](/post/quarrel/) [over](/post/over/) [dinner](/post/dinner/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) friends had [a](/post/a/) [brief](/post/brief/) [quarrel](/post/quarrel/) [but](/post/but/) [quickly](/post/quickly/) made [up](/post/up/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) manager's quarrelsome [behavior](/post/behavior/) led [to](/post/to/) tensions [among](/post/among/) employees."
 
 ## Synonyms
-- [Dispute](/en/post/dispute/)
-- [Argument](/en/post/argument/)
+- [Dispute](/post/dispute/)
+- [Argument](/post/argument/)
 - Tiff
-- [Row](/en/post/row/)
-- [Conflict](/en/post/conflict/)
+- [Row](/post/row/)
+- [Conflict](/post/conflict/)
 - Bickering
 - Discord

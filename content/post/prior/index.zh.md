@@ -11,20 +11,20 @@ keywords = ['ai words', 'prior']
 /prɪˈɔːr/
 
 ## 释义
-- **形容词**: 优先的，较早的，在前的。例如: "[The](/post/the/) [prior](/post/prior/) [experience](/post/experience/) is required [for](/post/for/) [this](/post/this/) [job](/post/job/)."
-- **名词**: 修道院院长（基督教天主教和东正教的僧侣领袖）；在某些组织中的前任或前一任。例如: "[The](/post/the/) [prior](/post/prior/) [of](/post/of/) [the](/post/the/) monastery oversaw [all](/post/all/) [the](/post/the/) monks."
+- **形容词**: 优先的，较早的，在前的。例如: "[The](/zh/post/the/) [prior](/zh/post/prior/) [experience](/zh/post/experience/) is required [for](/zh/post/for/) [this](/zh/post/this/) [job](/zh/post/job/)."
+- **名词**: 修道院院长（基督教天主教和东正教的僧侣领袖）；在某些组织中的前任或前一任。例如: "[The](/zh/post/the/) [prior](/zh/post/prior/) [of](/zh/post/of/) [the](/zh/post/the/) monastery oversaw [all](/zh/post/all/) [the](/zh/post/the/) monks."
 
 ## 短语
-- "[prior](/post/prior/) [to](/post/to/)" 意味着在...之前。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [report](/post/report/) [prior](/post/prior/) [to](/post/to/) [the](/post/the/) [meeting](/post/meeting/)."
-- "[in](/post/in/) priority [order](/post/order/)" 指按优先级顺序。例如: "Tasks [should](/post/should/) [be](/post/be/) completed [in](/post/in/) priority [order](/post/order/)."
+- "[prior](/zh/post/prior/) [to](/zh/post/to/)" 意味着在...之前。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [finish](/zh/post/finish/) [the](/zh/post/the/) [report](/zh/post/report/) [prior](/zh/post/prior/) [to](/zh/post/to/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
+- "[in](/zh/post/in/) priority [order](/zh/post/order/)" 指按优先级顺序。例如: "Tasks [should](/zh/post/should/) [be](/zh/post/be/) completed [in](/zh/post/in/) priority [order](/zh/post/order/)."
 
 ## 例句
-- 形容词: "[He](/post/he/) was given [the](/post/the/) [job](/post/job/) [because](/post/because/) [of](/post/of/) [his](/post/his/) [prior](/post/prior/) [experience](/post/experience/) [in](/post/in/) [the](/post/the/) [field](/post/field/)."
-- 名词: "[The](/post/the/) [new](/post/new/) [prior](/post/prior/) had [a](/post/a/) [different](/post/different/) [approach](/post/approach/) [to](/post/to/) managing [the](/post/the/) abbey."
+- 形容词: "[He](/zh/post/he/) was given [the](/zh/post/the/) [job](/zh/post/job/) [because](/zh/post/because/) [of](/zh/post/of/) [his](/zh/post/his/) [prior](/zh/post/prior/) [experience](/zh/post/experience/) [in](/zh/post/in/) [the](/zh/post/the/) [field](/zh/post/field/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [prior](/zh/post/prior/) had [a](/zh/post/a/) [different](/zh/post/different/) [approach](/zh/post/approach/) [to](/zh/post/to/) managing [the](/zh/post/the/) abbey."
 
 ## 同义词
-- [Previous](/post/previous/)
-- [Former](/post/former/)
+- [Previous](/zh/post/previous/)
+- [Former](/zh/post/former/)
 - Earlier
-- [Preceding](/post/preceding/)
+- [Preceding](/zh/post/preceding/)
 - Anterior

@@ -11,20 +11,20 @@ keywords = ['ai words', 'crude']
 /kruːd/
 
 ## 释义
-- **形容词**: 原始的，未加工的，粗糙的。例如: "[The](/post/the/) [crude](/post/crude/) [oil](/post/oil/) is refined [before](/post/before/) it's [used](/post/used/) [for](/post/for/) [fuel](/post/fuel/)."
-- **名词**: 粗糙的物质，尤指未经提炼的石油。例如: "[They](/post/they/) discovered [a](/post/a/) [new](/post/new/) [crude](/post/crude/) [oil](/post/oil/) [deposit](/post/deposit/) [in](/post/in/) [the](/post/the/) [region](/post/region/)."
+- **形容词**: 原始的，未加工的，粗糙的。例如: "[The](/zh/post/the/) [crude](/zh/post/crude/) [oil](/zh/post/oil/) is refined [before](/zh/post/before/) it's [used](/zh/post/used/) [for](/zh/post/for/) [fuel](/zh/post/fuel/)."
+- **名词**: 粗糙的物质，尤指未经提炼的石油。例如: "[They](/zh/post/they/) discovered [a](/zh/post/a/) [new](/zh/post/new/) [crude](/zh/post/crude/) [oil](/zh/post/oil/) [deposit](/zh/post/deposit/) [in](/zh/post/in/) [the](/zh/post/the/) [region](/zh/post/region/)."
 
 ## 短语
-- "[crude](/post/crude/) [oil](/post/oil/)" 指未精炼的石油。
-- "[crude](/post/crude/) methods" 指原始或简单的办法。
+- "[crude](/zh/post/crude/) [oil](/zh/post/oil/)" 指未精炼的石油。
+- "[crude](/zh/post/crude/) methods" 指原始或简单的办法。
 
 ## 例句
-- 形容词: "[The](/post/the/) [artist](/post/artist/) [used](/post/used/) [crude](/post/crude/) brushstrokes [to](/post/to/) [create](/post/create/) an expressive [painting](/post/painting/)."
-- 名词: "[The](/post/the/) [company](/post/company/) exports [large](/post/large/) quantities [of](/post/of/) [crude](/post/crude/) [oil](/post/oil/) [to](/post/to/) [other](/post/other/) countries."
+- 形容词: "[The](/zh/post/the/) [artist](/zh/post/artist/) [used](/zh/post/used/) [crude](/zh/post/crude/) brushstrokes [to](/zh/post/to/) [create](/zh/post/create/) an expressive [painting](/zh/post/painting/)."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) exports [large](/zh/post/large/) quantities [of](/zh/post/of/) [crude](/zh/post/crude/) [oil](/zh/post/oil/) [to](/zh/post/to/) [other](/zh/post/other/) countries."
 
 ## 同义词
-- [Raw](/post/raw/)
+- [Raw](/zh/post/raw/)
 - Unrefined
-- [Basic](/post/basic/)
-- [Rough](/post/rough/)
-- [Simple](/post/simple/)
+- [Basic](/zh/post/basic/)
+- [Rough](/zh/post/rough/)
+- [Simple](/zh/post/simple/)

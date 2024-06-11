@@ -7,46 +7,46 @@ description = '[daiv] vi.跳水；潜水；俯冲'
 keywords = ['ai words', 'dive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) plunging headfirst [into](/en/post/into/) [water](/en/post/water/), typically [for](/en/post/for/) swimming [or](/en/post/or/) diving purposes.
-- [Example](/en/post/example/): "[The](/en/post/the/) diver executed [a](/en/post/a/) [perfect](/en/post/perfect/) somersault [dive](/en/post/dive/) [from](/en/post/from/) [the](/en/post/the/) [platform](/en/post/platform/)."
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) plunging headfirst [into](/post/into/) [water](/post/water/), typically [for](/post/for/) swimming [or](/post/or/) diving purposes.
+- [Example](/post/example/): "[The](/post/the/) diver executed [a](/post/a/) [perfect](/post/perfect/) somersault [dive](/post/dive/) [from](/post/from/) [the](/post/the/) [platform](/post/platform/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [jump](/en/post/jump/) [or](/en/post/or/) [move](/en/post/move/) [with](/en/post/with/) [a](/en/post/a/) [sudden](/en/post/sudden/) [downward](/en/post/downward/) [motion](/en/post/motion/) [into](/en/post/into/) [water](/en/post/water/) [or](/en/post/or/) [another](/en/post/another/) [liquid](/en/post/liquid/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [dive](/en/post/dive/) [into](/en/post/into/) [the](/en/post/the/) [lake](/en/post/lake/) [on](/en/post/on/) [a](/en/post/a/) [hot](/en/post/hot/) [summer](/en/post/summer/) [day](/en/post/day/)."
-2. (informal) [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/) [without](/en/post/without/) hesitation [or](/en/post/or/) planning.
-   - [Example](/en/post/example/): "[He](/en/post/he/) dove [into](/en/post/into/) [the](/en/post/the/) [project](/en/post/project/) [without](/en/post/without/) [any](/en/post/any/) [prior](/en/post/prior/) [experience](/en/post/experience/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [jump](/post/jump/) [or](/post/or/) [move](/post/move/) [with](/post/with/) [a](/post/a/) [sudden](/post/sudden/) [downward](/post/downward/) [motion](/post/motion/) [into](/post/into/) [water](/post/water/) [or](/post/or/) [another](/post/another/) [liquid](/post/liquid/).
+   - [Example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [dive](/post/dive/) [into](/post/into/) [the](/post/the/) [lake](/post/lake/) [on](/post/on/) [a](/post/a/) [hot](/post/hot/) [summer](/post/summer/) [day](/post/day/)."
+2. (informal) [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/) [without](/post/without/) hesitation [or](/post/or/) planning.
+   - [Example](/post/example/): "[He](/post/he/) dove [into](/post/into/) [the](/post/the/) [project](/post/project/) [without](/post/without/) [any](/post/any/) [prior](/post/prior/) [experience](/post/experience/)."
 
-### [Adjective](/en/post/adjective/)
-Referring [to](/en/post/to/) [something](/en/post/something/) done [with](/en/post/with/) [a](/en/post/a/) [quick](/en/post/quick/), forceful [movement](/en/post/movement/), [often](/en/post/often/) associated [with](/en/post/with/) sports [or](/en/post/or/) underwater exploration.
-- [Example](/en/post/example/): "[The](/en/post/the/) [dive](/en/post/dive/) [watch](/en/post/watch/) is designed [for](/en/post/for/) deep-sea diving."
+### [Adjective](/post/adjective/)
+Referring [to](/post/to/) [something](/post/something/) done [with](/post/with/) [a](/post/a/) [quick](/post/quick/), forceful [movement](/post/movement/), [often](/post/often/) associated [with](/post/with/) sports [or](/post/or/) underwater exploration.
+- [Example](/post/example/): "[The](/post/the/) [dive](/post/dive/) [watch](/post/watch/) is designed [for](/post/for/) deep-sea diving."
 
-### [Adverb](/en/post/adverb/)
-- [Usage](/en/post/usage/) is [less](/en/post/less/) [common](/en/post/common/) [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [manner](/en/post/manner/) [of](/en/post/of/) [a](/en/post/a/) [dive](/en/post/dive/), [such](/en/post/such/) [as](/en/post/as/) [quickly](/en/post/quickly/) [or](/en/post/or/) skillfully.
-   - [Example](/en/post/example/): "[He](/en/post/he/) dived gracefully [into](/en/post/into/) [the](/en/post/the/) [pool](/en/post/pool/)."
+### [Adverb](/post/adverb/)
+- [Usage](/post/usage/) is [less](/post/less/) [common](/post/common/) [but](/post/but/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [manner](/post/manner/) [of](/post/of/) [a](/post/a/) [dive](/post/dive/), [such](/post/such/) [as](/post/as/) [quickly](/post/quickly/) [or](/post/or/) skillfully.
+   - [Example](/post/example/): "[He](/post/he/) dived gracefully [into](/post/into/) [the](/post/the/) [pool](/post/pool/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [the](/en/post/the/) [dive](/en/post/dive/)" implies making [a](/en/post/a/) [decision](/en/post/decision/) [without](/en/post/without/) [much](/en/post/much/) [thought](/en/post/thought/), [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) [financial](/en/post/financial/) commitment.
-- "Diving [board](/en/post/board/)" refers [to](/en/post/to/) [the](/en/post/the/) [structure](/en/post/structure/) [used](/en/post/used/) [for](/en/post/for/) jumping [into](/en/post/into/) [a](/en/post/a/) [pool](/en/post/pool/).
-- "[Deep](/en/post/deep/) [sea](/en/post/sea/) diving" is [the](/en/post/the/) [activity](/en/post/activity/) [of](/en/post/of/) exploring [the](/en/post/the/) ocean's depths.
+- "[Take](/post/take/) [the](/post/the/) [dive](/post/dive/)" implies making [a](/post/a/) [decision](/post/decision/) [without](/post/without/) [much](/post/much/) [thought](/post/thought/), [often](/post/often/) referring [to](/post/to/) [a](/post/a/) [financial](/post/financial/) commitment.
+- "Diving [board](/post/board/)" refers [to](/post/to/) [the](/post/the/) [structure](/post/structure/) [used](/post/used/) [for](/post/for/) jumping [into](/post/into/) [a](/post/a/) [pool](/post/pool/).
+- "[Deep](/post/deep/) [sea](/post/sea/) diving" is [the](/post/the/) [activity](/post/activity/) [of](/post/of/) exploring [the](/post/the/) ocean's depths.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [professional](/en/post/professional/) diver had trained [for](/en/post/for/) years [to](/en/post/to/) [master](/en/post/master/) [the](/en/post/the/) freefall [dive](/en/post/dive/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) children were diving [for](/en/post/for/) treasures [at](/en/post/at/) [the](/en/post/the/) [beach](/en/post/beach/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) athlete's [impressive](/en/post/impressive/) [dive](/en/post/dive/) scored [a](/en/post/a/) [perfect](/en/post/perfect/) 10 [at](/en/post/at/) [the](/en/post/the/) [competition](/en/post/competition/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [professional](/post/professional/) diver had trained [for](/post/for/) years [to](/post/to/) [master](/post/master/) [the](/post/the/) freefall [dive](/post/dive/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) children were diving [for](/post/for/) treasures [at](/post/at/) [the](/post/the/) [beach](/post/beach/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) athlete's [impressive](/post/impressive/) [dive](/post/dive/) scored [a](/post/a/) [perfect](/post/perfect/) 10 [at](/post/at/) [the](/post/the/) [competition](/post/competition/)."
 
 ## Synonyms
-- [Jump](/en/post/jump/)
-- [Leap](/en/post/leap/)
-- [Plunge](/en/post/plunge/)
-- [Submerge](/en/post/submerge/)
-- [Descend](/en/post/descend/)
+- [Jump](/post/jump/)
+- [Leap](/post/leap/)
+- [Plunge](/post/plunge/)
+- [Submerge](/post/submerge/)
+- [Descend](/post/descend/)
 
 ## Antonyms
-- [Rise](/en/post/rise/)
+- [Rise](/post/rise/)
 - Ascend
-- [Surface](/en/post/surface/)
+- [Surface](/post/surface/)

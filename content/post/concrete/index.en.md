@@ -7,39 +7,39 @@ description = '[ˈkɔnkriːt] n.混凝土；具体物'
 keywords = ['ai words', 'concrete']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈkraɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Concrete](/en/post/concrete/)**: [A](/en/post/a/) [building](/en/post/building/) [material](/en/post/material/) made [by](/en/post/by/) mixing [cement](/en/post/cement/), [water](/en/post/water/), [and](/en/post/and/) aggregates ([such](/en/post/such/) [as](/en/post/as/) [sand](/en/post/sand/) [and](/en/post/and/) gravel), forming [a](/en/post/a/) [hard](/en/post/hard/), [durable](/en/post/durable/) [solid](/en/post/solid/).
-   - [Example](/en/post/example/): [The](/en/post/the/) [construction](/en/post/construction/) [site](/en/post/site/) was filled [with](/en/post/with/) piles [of](/en/post/of/) [fresh](/en/post/fresh/) [concrete](/en/post/concrete/).
-2. **[Concrete](/en/post/concrete/) [idea](/en/post/idea/)**: [A](/en/post/a/) [specific](/en/post/specific/), tangible, [or](/en/post/or/) well-defined [concept](/en/post/concept/) [or](/en/post/or/) [plan](/en/post/plan/).
-   - [Example](/en/post/example/): [He](/en/post/he/) had [a](/en/post/a/) [concrete](/en/post/concrete/) [plan](/en/post/plan/) [for](/en/post/for/) improving [the](/en/post/the/) [business](/en/post/business/).
+### [Noun](/post/noun/)
+1. **[Concrete](/post/concrete/)**: [A](/post/a/) [building](/post/building/) [material](/post/material/) made [by](/post/by/) mixing [cement](/post/cement/), [water](/post/water/), [and](/post/and/) aggregates ([such](/post/such/) [as](/post/as/) [sand](/post/sand/) [and](/post/and/) gravel), forming [a](/post/a/) [hard](/post/hard/), [durable](/post/durable/) [solid](/post/solid/).
+   - [Example](/post/example/): [The](/post/the/) [construction](/post/construction/) [site](/post/site/) was filled [with](/post/with/) piles [of](/post/of/) [fresh](/post/fresh/) [concrete](/post/concrete/).
+2. **[Concrete](/post/concrete/) [idea](/post/idea/)**: [A](/post/a/) [specific](/post/specific/), tangible, [or](/post/or/) well-defined [concept](/post/concept/) [or](/post/or/) [plan](/post/plan/).
+   - [Example](/post/example/): [He](/post/he/) had [a](/post/a/) [concrete](/post/concrete/) [plan](/post/plan/) [for](/post/for/) improving [the](/post/the/) [business](/post/business/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [apply](/en/post/apply/) [or](/en/post/or/) [set](/en/post/set/) [concrete](/en/post/concrete/), [usually](/en/post/usually/) [to](/en/post/to/) [a](/en/post/a/) [surface](/en/post/surface/) [or](/en/post/or/) [structure](/en/post/structure/).
-   - [Example](/en/post/example/): [They](/en/post/they/) poured [concrete](/en/post/concrete/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [new](/en/post/new/) driveway.
-2. [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [concrete](/en/post/concrete/) [or](/en/post/or/) [specific](/en/post/specific/).
-   - [Example](/en/post/example/): [She](/en/post/she/) wanted [to](/en/post/to/) [make](/en/post/make/) [her](/en/post/her/) goals [more](/en/post/more/) [concrete](/en/post/concrete/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [apply](/post/apply/) [or](/post/or/) [set](/post/set/) [concrete](/post/concrete/), [usually](/post/usually/) [to](/post/to/) [a](/post/a/) [surface](/post/surface/) [or](/post/or/) [structure](/post/structure/).
+   - [Example](/post/example/): [They](/post/they/) poured [concrete](/post/concrete/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [new](/post/new/) driveway.
+2. [To](/post/to/) [make](/post/make/) [something](/post/something/) [concrete](/post/concrete/) [or](/post/or/) [specific](/post/specific/).
+   - [Example](/post/example/): [She](/post/she/) wanted [to](/post/to/) [make](/post/make/) [her](/post/her/) goals [more](/post/more/) [concrete](/post/concrete/).
 
 ## Phrases
-- "[Pour](/en/post/pour/) [concrete](/en/post/concrete/)" [or](/en/post/or/) "[Set](/en/post/set/) [concrete](/en/post/concrete/)" ([verb](/en/post/verb/))
-- "[Concrete](/en/post/concrete/) [evidence](/en/post/evidence/)" ([noun](/en/post/noun/), referring [to](/en/post/to/) [solid](/en/post/solid/) [proof](/en/post/proof/))
-- "[Concrete](/en/post/concrete/) thinking" ([adjective](/en/post/adjective/), describing [clear](/en/post/clear/) [and](/en/post/and/) [practical](/en/post/practical/) ideas)
+- "[Pour](/post/pour/) [concrete](/post/concrete/)" [or](/post/or/) "[Set](/post/set/) [concrete](/post/concrete/)" ([verb](/post/verb/))
+- "[Concrete](/post/concrete/) [evidence](/post/evidence/)" ([noun](/post/noun/), referring [to](/post/to/) [solid](/post/solid/) [proof](/post/proof/))
+- "[Concrete](/post/concrete/) thinking" ([adjective](/post/adjective/), describing [clear](/post/clear/) [and](/post/and/) [practical](/post/practical/) ideas)
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) workers spent [the](/en/post/the/) [day](/en/post/day/) pouring [concrete](/en/post/concrete/) [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) sidewalk.
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) mixed [the](/en/post/the/) [concrete](/en/post/concrete/) ingredients thoroughly [before](/en/post/before/) casting [the](/en/post/the/) mold.
-- **[Abstract](/en/post/abstract/) [idea](/en/post/idea/)**: It's [hard](/en/post/hard/) [to](/en/post/to/) [explain](/en/post/explain/) [the](/en/post/the/) [abstract](/en/post/abstract/) [concept](/en/post/concept/) [without](/en/post/without/) making [it](/en/post/it/) [more](/en/post/more/) [concrete](/en/post/concrete/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) workers spent [the](/post/the/) [day](/post/day/) pouring [concrete](/post/concrete/) [for](/post/for/) [the](/post/the/) [new](/post/new/) sidewalk.
+- **[Verb](/post/verb/)**: [He](/post/he/) mixed [the](/post/the/) [concrete](/post/concrete/) ingredients thoroughly [before](/post/before/) casting [the](/post/the/) mold.
+- **[Abstract](/post/abstract/) [idea](/post/idea/)**: It's [hard](/post/hard/) [to](/post/to/) [explain](/post/explain/) [the](/post/the/) [abstract](/post/abstract/) [concept](/post/concept/) [without](/post/without/) making [it](/post/it/) [more](/post/more/) [concrete](/post/concrete/).
 
 ## Synonyms
-- [Solid](/en/post/solid/)
+- [Solid](/post/solid/)
 - Concreteness
 - Mortar
-- [Chalk](/en/post/chalk/)
-- [Plaster](/en/post/plaster/)
-- [Real](/en/post/real/)
-- [Practical](/en/post/practical/)
+- [Chalk](/post/chalk/)
+- [Plaster](/post/plaster/)
+- [Real](/post/real/)
+- [Practical](/post/practical/)
 - Tangible
 - Formwork

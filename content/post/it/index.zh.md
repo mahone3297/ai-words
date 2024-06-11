@@ -11,18 +11,18 @@ keywords = ['ai words', 'it']
 /ɪt/
 
 ## 释义
-- **代词**: 1. 代替前文提到的单数可数名词或不可数名词，避免重复。2. 指示无生命的物体或抽象概念。3. 在某些固定搭配中，作为形式主语或宾语，实际意义不明确。例如: "[It](/post/it/) is raining [outside](/post/outside/)."，"[The](/post/the/) [book](/post/book/) is [on](/post/on/) [the](/post/the/) [table](/post/table/)."，"[It](/post/it/) doesn't [matter](/post/matter/)."
+- **代词**: 1. 代替前文提到的单数可数名词或不可数名词，避免重复。2. 指示无生命的物体或抽象概念。3. 在某些固定搭配中，作为形式主语或宾语，实际意义不明确。例如: "[It](/zh/post/it/) is raining [outside](/zh/post/outside/)."，"[The](/zh/post/the/) [book](/zh/post/book/) is [on](/zh/post/on/) [the](/zh/post/the/) [table](/zh/post/table/)."，"[It](/zh/post/it/) doesn't [matter](/zh/post/matter/)."
 
 ## 短语
-- "It's [up](/post/up/) [to](/post/to/) [you](/post/you/)" 意为由你决定。
-- "It's [not](/post/not/) [that](/post/that/) [simple](/post/simple/)" 表示事情没那么单纯或容易。
-- "[It](/post/it/) goes [without](/post/without/) saying" 意为不言而喻。
+- "It's [up](/zh/post/up/) [to](/zh/post/to/) [you](/zh/post/you/)" 意为由你决定。
+- "It's [not](/zh/post/not/) [that](/zh/post/that/) [simple](/zh/post/simple/)" 表示事情没那么单纯或容易。
+- "[It](/zh/post/it/) goes [without](/zh/post/without/) saying" 意为不言而喻。
 
 ## 例句
-- 代词: "I [saw](/post/saw/) [a](/post/a/) [cat](/post/cat/), [and](/post/and/) [it](/post/it/) was [very](/post/very/) cute."
-- 形式主语: "[It](/post/it/) seems [that](/post/that/) [he](/post/he/) [will](/post/will/) [come](/post/come/) [to](/post/to/) [the](/post/the/) [party](/post/party/)."
-- 固定搭配: "It's [time](/post/time/) [for](/post/for/) [dinner](/post/dinner/)."
+- 代词: "I [saw](/zh/post/saw/) [a](/zh/post/a/) [cat](/zh/post/cat/), [and](/zh/post/and/) [it](/zh/post/it/) was [very](/zh/post/very/) cute."
+- 形式主语: "[It](/zh/post/it/) seems [that](/zh/post/that/) [he](/zh/post/he/) [will](/zh/post/will/) [come](/zh/post/come/) [to](/zh/post/to/) [the](/zh/post/the/) [party](/zh/post/party/)."
+- 固定搭配: "It's [time](/zh/post/time/) [for](/zh/post/for/) [dinner](/zh/post/dinner/)."
 
 ## 同义词
-- [That](/post/that/) (在某些情况下可以替代，但不常用)
-- [This](/post/this/) (在某些情况下可以替代，但不常用)
+- [That](/zh/post/that/) (在某些情况下可以替代，但不常用)
+- [This](/zh/post/this/) (在某些情况下可以替代，但不常用)

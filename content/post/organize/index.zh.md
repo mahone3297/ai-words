@@ -11,21 +11,21 @@ keywords = ['ai words', 'organize']
 /ˈɔːrɡənaɪz/
 
 ## 释义
-- **动词**: 把…组织起来；安排；规划。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [organize](/post/organize/) [a](/post/a/) [meeting](/post/meeting/) [for](/post/for/) [next](/post/next/) [week](/post/week/)."
-- **名词**: 组织；团体；机构。例如: "[The](/post/the/) [company](/post/company/) has [several](/post/several/) departments, [each](/post/each/) [with](/post/with/) [its](/post/its/) [own](/post/own/) [organize](/post/organize/)."
+- **动词**: 把…组织起来；安排；规划。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [organize](/zh/post/organize/) [a](/zh/post/a/) [meeting](/zh/post/meeting/) [for](/zh/post/for/) [next](/zh/post/next/) [week](/zh/post/week/)."
+- **名词**: 组织；团体；机构。例如: "[The](/zh/post/the/) [company](/zh/post/company/) has [several](/zh/post/several/) departments, [each](/zh/post/each/) [with](/zh/post/with/) [its](/zh/post/its/) [own](/zh/post/own/) [organize](/zh/post/organize/)."
 
 ## 短语
-- "[organize](/post/organize/) [a](/post/a/) [event](/post/event/)" 意为组织一个活动。
-- "[get](/post/get/) organized" 意味着变得有条理或准备就绪。
-- "[in](/post/in/) ([the](/post/the/)) [organization](/post/organization/)" 通常指在某个机构或团体中。
+- "[organize](/zh/post/organize/) [a](/zh/post/a/) [event](/zh/post/event/)" 意为组织一个活动。
+- "[get](/zh/post/get/) organized" 意味着变得有条理或准备就绪。
+- "[in](/zh/post/in/) ([the](/zh/post/the/)) [organization](/zh/post/organization/)" 通常指在某个机构或团体中。
 
 ## 例句
-- 动词: "She's [in](/post/in/) [charge](/post/charge/) [of](/post/of/) organizing [the](/post/the/) [annual](/post/annual/) [charity](/post/charity/) fundraiser."
-- 名词: "[The](/post/the/) sports [club](/post/club/) is [a](/post/a/) well-organized [group](/post/group/) [with](/post/with/) [clear](/post/clear/) goals [and](/post/and/) objectives."
+- 动词: "She's [in](/zh/post/in/) [charge](/zh/post/charge/) [of](/zh/post/of/) organizing [the](/zh/post/the/) [annual](/zh/post/annual/) [charity](/zh/post/charity/) fundraiser."
+- 名词: "[The](/zh/post/the/) sports [club](/zh/post/club/) is [a](/zh/post/a/) well-organized [group](/zh/post/group/) [with](/zh/post/with/) [clear](/zh/post/clear/) goals [and](/zh/post/and/) objectives."
 
 ## 同义词
-- [arrange](/post/arrange/)
-- [plan](/post/plan/)
-- [structure](/post/structure/)
+- [arrange](/zh/post/arrange/)
+- [plan](/zh/post/plan/)
+- [structure](/zh/post/structure/)
 - systematize
-- [coordinate](/post/coordinate/)
+- [coordinate](/zh/post/coordinate/)

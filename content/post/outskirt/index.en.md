@@ -7,33 +7,33 @@ description = '[ˈautskəːt] n.外边，郊区'
 keywords = ['ai words', 'outskirt']
 +++
 
-## [Word](/en/post/word/): [Outskirt](/en/post/outskirt/)
+## [Word](/post/word/): [Outskirt](/post/outskirt/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaʊtskɜːrt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [outer](/en/post/outer/) [part](/en/post/part/) [or](/en/post/or/) [edge](/en/post/edge/) [of](/en/post/of/) [a](/en/post/a/) [town](/en/post/town/) [or](/en/post/or/) [city](/en/post/city/), [away](/en/post/away/) [from](/en/post/from/) [the](/en/post/the/) [main](/en/post/main/) built-up [area](/en/post/area/). [It](/en/post/it/) [often](/en/post/often/) refers [to](/en/post/to/) areas [that](/en/post/that/) are [less](/en/post/less/) developed [or](/en/post/or/) [less](/en/post/less/) populated [than](/en/post/than/) [the](/en/post/the/) center. 
+- **[Noun](/post/noun/)**: [The](/post/the/) [outer](/post/outer/) [part](/post/part/) [or](/post/or/) [edge](/post/edge/) [of](/post/of/) [a](/post/a/) [town](/post/town/) [or](/post/or/) [city](/post/city/), [away](/post/away/) [from](/post/from/) [the](/post/the/) [main](/post/main/) built-up [area](/post/area/). [It](/post/it/) [often](/post/often/) refers [to](/post/to/) areas [that](/post/that/) are [less](/post/less/) developed [or](/post/or/) [less](/post/less/) populated [than](/post/than/) [the](/post/the/) center. 
 
-  - [Example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [move](/en/post/move/) [to](/en/post/to/) [the](/en/post/the/) [outskirt](/en/post/outskirt/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) [for](/en/post/for/) [a](/en/post/a/) quieter [life](/en/post/life/)."
-  - [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) housing [development](/en/post/development/) is located [on](/en/post/on/) [the](/en/post/the/) outskirts [of](/en/post/of/) [town](/en/post/town/)."
+  - [Example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [move](/post/move/) [to](/post/to/) [the](/post/the/) [outskirt](/post/outskirt/) [of](/post/of/) [the](/post/the/) [city](/post/city/) [for](/post/for/) [a](/post/a/) quieter [life](/post/life/)."
+  - [Example](/post/example/): "[The](/post/the/) [new](/post/new/) housing [development](/post/development/) is located [on](/post/on/) [the](/post/the/) outskirts [of](/post/of/) [town](/post/town/)."
 
 ## Phrases
-- "[On](/en/post/on/) [the](/en/post/the/) outskirts": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) that's situated [at](/en/post/at/) [the](/en/post/the/) margins [or](/en/post/or/) [border](/en/post/border/) [of](/en/post/of/) [a](/en/post/a/) [town](/en/post/town/) [or](/en/post/or/) [city](/en/post/city/). 
-  - [Example](/en/post/example/): "[Their](/en/post/their/) [house](/en/post/house/) was nestled [on](/en/post/on/) [the](/en/post/the/) outskirts [of](/en/post/of/) [the](/en/post/the/) bustling metropolis."
+- "[On](/post/on/) [the](/post/the/) outskirts": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) that's situated [at](/post/at/) [the](/post/the/) margins [or](/post/or/) [border](/post/border/) [of](/post/of/) [a](/post/a/) [town](/post/town/) [or](/post/or/) [city](/post/city/). 
+  - [Example](/post/example/): "[Their](/post/their/) [house](/post/house/) was nestled [on](/post/on/) [the](/post/the/) outskirts [of](/post/of/) [the](/post/the/) bustling metropolis."
   
-- "[Beyond](/en/post/beyond/) [the](/en/post/the/) outskirts": [This](/en/post/this/) implies [a](/en/post/a/) [location](/en/post/location/) [even](/en/post/even/) [further](/en/post/further/) removed [from](/en/post/from/) [the](/en/post/the/) [main](/en/post/main/) urban [area](/en/post/area/).
-  - [Example](/en/post/example/): "[Once](/en/post/once/) [we](/en/post/we/) crossed [beyond](/en/post/beyond/) [the](/en/post/the/) outskirts, [the](/en/post/the/) landscape turned [rural](/en/post/rural/)."
+- "[Beyond](/post/beyond/) [the](/post/the/) outskirts": [This](/post/this/) implies [a](/post/a/) [location](/post/location/) [even](/post/even/) [further](/post/further/) removed [from](/post/from/) [the](/post/the/) [main](/post/main/) urban [area](/post/area/).
+  - [Example](/post/example/): "[Once](/post/once/) [we](/post/we/) crossed [beyond](/post/beyond/) [the](/post/the/) outskirts, [the](/post/the/) landscape turned [rural](/post/rural/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [factory](/en/post/factory/), [now](/en/post/now/) abandoned, [once](/en/post/once/) stood [at](/en/post/at/) [the](/en/post/the/) [northern](/en/post/northern/) [outskirt](/en/post/outskirt/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/)."
-- "[As](/en/post/as/) [they](/en/post/they/) ventured [further](/en/post/further/) [into](/en/post/into/) [the](/en/post/the/) [countryside](/en/post/countryside/), [they](/en/post/they/) [left](/en/post/left/) [behind](/en/post/behind/) [the](/en/post/the/) neon lights [of](/en/post/of/) [the](/en/post/the/) city's outskirts."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [factory](/post/factory/), [now](/post/now/) abandoned, [once](/post/once/) stood [at](/post/at/) [the](/post/the/) [northern](/post/northern/) [outskirt](/post/outskirt/) [of](/post/of/) [the](/post/the/) [city](/post/city/)."
+- "[As](/post/as/) [they](/post/they/) ventured [further](/post/further/) [into](/post/into/) [the](/post/the/) [countryside](/post/countryside/), [they](/post/they/) [left](/post/left/) [behind](/post/behind/) [the](/post/the/) neon lights [of](/post/of/) [the](/post/the/) city's outskirts."
 
 ## Synonyms
 - Periphery
 - Fringe
-- [Border](/en/post/border/)
-- [Edge](/en/post/edge/)
-- [Margin](/en/post/margin/)
-- [Suburb](/en/post/suburb/)
-- [Rural](/en/post/rural/) [area](/en/post/area/) (depending [on](/en/post/on/) context)
+- [Border](/post/border/)
+- [Edge](/post/edge/)
+- [Margin](/post/margin/)
+- [Suburb](/post/suburb/)
+- [Rural](/post/rural/) [area](/post/area/) (depending [on](/post/on/) context)

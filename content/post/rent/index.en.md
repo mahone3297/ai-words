@@ -7,43 +7,43 @@ description = '[rent] n.租金，租 vi.出租'
 keywords = ['ai words', 'rent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪnt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [The](/en/post/the/) [money](/en/post/money/) paid [regularly](/en/post/regularly/) [for](/en/post/for/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [real](/en/post/real/) estate, [as](/en/post/as/) [a](/en/post/a/) [tenant](/en/post/tenant/). [Example](/en/post/example/): "[He](/en/post/he/) was [responsible](/en/post/responsible/) [for](/en/post/for/) paying [rent](/en/post/rent/) [on](/en/post/on/) [the](/en/post/the/) [apartment](/en/post/apartment/)."
-- **2.** (informal) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) hiring [or](/en/post/or/) borrowing [something](/en/post/something/) [for](/en/post/for/) [a](/en/post/a/) [period](/en/post/period/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [agreement](/en/post/agreement/) [to](/en/post/to/) [pay](/en/post/pay/) [a](/en/post/a/) [fee](/en/post/fee/). [Example](/en/post/example/): "[She](/en/post/she/) rented [a](/en/post/a/) [car](/en/post/car/) [for](/en/post/for/) [her](/en/post/her/) [vacation](/en/post/vacation/)."
+### [Noun](/post/noun/)
+- **1.** [The](/post/the/) [money](/post/money/) paid [regularly](/post/regularly/) [for](/post/for/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [real](/post/real/) estate, [as](/post/as/) [a](/post/a/) [tenant](/post/tenant/). [Example](/post/example/): "[He](/post/he/) was [responsible](/post/responsible/) [for](/post/for/) paying [rent](/post/rent/) [on](/post/on/) [the](/post/the/) [apartment](/post/apartment/)."
+- **2.** (informal) [The](/post/the/) [act](/post/act/) [of](/post/of/) hiring [or](/post/or/) borrowing [something](/post/something/) [for](/post/for/) [a](/post/a/) [period](/post/period/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [agreement](/post/agreement/) [to](/post/to/) [pay](/post/pay/) [a](/post/a/) [fee](/post/fee/). [Example](/post/example/): "[She](/post/she/) rented [a](/post/a/) [car](/post/car/) [for](/post/for/) [her](/post/her/) [vacation](/post/vacation/)."
 
-### [Verb](/en/post/verb/)
-- **1.** [To](/en/post/to/) lease [or](/en/post/or/) [hire](/en/post/hire/) [something](/en/post/something/) [for](/en/post/for/) [a](/en/post/a/) specified [period](/en/post/period/), typically [with](/en/post/with/) [regular](/en/post/regular/) payments. [Example](/en/post/example/): "[The](/en/post/the/) [landlord](/en/post/landlord/) agreed [to](/en/post/to/) [rent](/en/post/rent/) [us](/en/post/us/) [the](/en/post/the/) [house](/en/post/house/) [for](/en/post/for/) [a](/en/post/a/) [year](/en/post/year/)."
-- **2.** (informal) [To](/en/post/to/) [hire](/en/post/hire/) [a](/en/post/a/) [person](/en/post/person/) [for](/en/post/for/) [a](/en/post/a/) [short](/en/post/short/) [time](/en/post/time/) [or](/en/post/or/) [on](/en/post/on/) an as-needed [basis](/en/post/basis/). [Example](/en/post/example/): "[They](/en/post/they/) rented [a](/en/post/a/) graphic designer [for](/en/post/for/) [their](/en/post/their/) marketing [campaign](/en/post/campaign/)."
+### [Verb](/post/verb/)
+- **1.** [To](/post/to/) lease [or](/post/or/) [hire](/post/hire/) [something](/post/something/) [for](/post/for/) [a](/post/a/) specified [period](/post/period/), typically [with](/post/with/) [regular](/post/regular/) payments. [Example](/post/example/): "[The](/post/the/) [landlord](/post/landlord/) agreed [to](/post/to/) [rent](/post/rent/) [us](/post/us/) [the](/post/the/) [house](/post/house/) [for](/post/for/) [a](/post/a/) [year](/post/year/)."
+- **2.** (informal) [To](/post/to/) [hire](/post/hire/) [a](/post/a/) [person](/post/person/) [for](/post/for/) [a](/post/a/) [short](/post/short/) [time](/post/time/) [or](/post/or/) [on](/post/on/) an as-needed [basis](/post/basis/). [Example](/post/example/): "[They](/post/they/) rented [a](/post/a/) graphic designer [for](/post/for/) [their](/post/their/) marketing [campaign](/post/campaign/)."
 
-### [Adjective](/en/post/adjective/)
-- Describing [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [suitable](/en/post/suitable/) [for](/en/post/for/) [temporary](/en/post/temporary/) [use](/en/post/use/) [or](/en/post/or/) occupancy [without](/en/post/without/) [ownership](/en/post/ownership/). [Example](/en/post/example/): "[The](/en/post/the/) rental [car](/en/post/car/) was [in](/en/post/in/) [good](/en/post/good/) [condition](/en/post/condition/)."
+### [Adjective](/post/adjective/)
+- Describing [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [suitable](/post/suitable/) [for](/post/for/) [temporary](/post/temporary/) [use](/post/use/) [or](/post/or/) occupancy [without](/post/without/) [ownership](/post/ownership/). [Example](/post/example/): "[The](/post/the/) rental [car](/post/car/) was [in](/post/in/) [good](/post/good/) [condition](/post/condition/)."
 
 ## Phrases
-- "[Pay](/en/post/pay/) [rent](/en/post/rent/) [on](/en/post/on/) [time](/en/post/time/)" [means](/en/post/means/) [to](/en/post/to/) fulfill [the](/en/post/the/) [financial](/en/post/financial/) obligation [of](/en/post/of/) renting [a](/en/post/a/) [property](/en/post/property/).
-- "[Rent](/en/post/rent/) [control](/en/post/control/)" refers [to](/en/post/to/) [government](/en/post/government/) regulations limiting [the](/en/post/the/) [amount](/en/post/amount/) landlords [can](/en/post/can/) [charge](/en/post/charge/) [for](/en/post/for/) [rent](/en/post/rent/).
-- "Rent-to-own" is [a](/en/post/a/) [scheme](/en/post/scheme/) [where](/en/post/where/) [a](/en/post/a/) [tenant](/en/post/tenant/) has [the](/en/post/the/) [option](/en/post/option/) [to](/en/post/to/) [buy](/en/post/buy/) [the](/en/post/the/) [property](/en/post/property/) [after](/en/post/after/) [a](/en/post/a/) [certain](/en/post/certain/) [period](/en/post/period/).
+- "[Pay](/post/pay/) [rent](/post/rent/) [on](/post/on/) [time](/post/time/)" [means](/post/means/) [to](/post/to/) fulfill [the](/post/the/) [financial](/post/financial/) obligation [of](/post/of/) renting [a](/post/a/) [property](/post/property/).
+- "[Rent](/post/rent/) [control](/post/control/)" refers [to](/post/to/) [government](/post/government/) regulations limiting [the](/post/the/) [amount](/post/amount/) landlords [can](/post/can/) [charge](/post/charge/) [for](/post/for/) [rent](/post/rent/).
+- "Rent-to-own" is [a](/post/a/) [scheme](/post/scheme/) [where](/post/where/) [a](/post/a/) [tenant](/post/tenant/) has [the](/post/the/) [option](/post/option/) [to](/post/to/) [buy](/post/buy/) [the](/post/the/) [property](/post/property/) [after](/post/after/) [a](/post/a/) [certain](/post/certain/) [period](/post/period/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) had [to](/en/post/to/) [find](/en/post/find/) [a](/en/post/a/) [new](/en/post/new/) [place](/en/post/place/) [to](/en/post/to/) [rent](/en/post/rent/) [after](/en/post/after/) [his](/en/post/his/) lease expired."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) rents [out](/en/post/out/) [her](/en/post/her/) [spare](/en/post/spare/) [room](/en/post/room/) [to](/en/post/to/) [a](/en/post/a/) [college](/en/post/college/) [student](/en/post/student/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) rental properties [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/) are [usually](/en/post/usually/) well-maintained."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) had [to](/post/to/) [find](/post/find/) [a](/post/a/) [new](/post/new/) [place](/post/place/) [to](/post/to/) [rent](/post/rent/) [after](/post/after/) [his](/post/his/) lease expired."
+- **[Verb](/post/verb/)**: "[She](/post/she/) rents [out](/post/out/) [her](/post/her/) [spare](/post/spare/) [room](/post/room/) [to](/post/to/) [a](/post/a/) [college](/post/college/) [student](/post/student/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) rental properties [in](/post/in/) [the](/post/the/) [city](/post/city/) are [usually](/post/usually/) well-maintained."
 
 ## Synonyms
 - Lease
-- [Hire](/en/post/hire/)
-- [Let](/en/post/let/)
+- [Hire](/post/hire/)
+- [Let](/post/let/)
 - Sublet
-- [Rent](/en/post/rent/) [out](/en/post/out/)
+- [Rent](/post/rent/) [out](/post/out/)
 - Leasehold
 - Tenure
-- [Hire](/en/post/hire/) [purchase](/en/post/purchase/)
+- [Hire](/post/hire/) [purchase](/post/purchase/)
 
 ## Antonyms
-- [Own](/en/post/own/)
-- [Purchase](/en/post/purchase/)
-- [Sell](/en/post/sell/)
+- [Own](/post/own/)
+- [Purchase](/post/purchase/)
+- [Sell](/post/sell/)
 - Freehold

@@ -7,44 +7,44 @@ description = '[ˈkwɔliti] n.质量；品质，特性'
 keywords = ['ai words', 'quality']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkwɒləti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Quality](/en/post/quality/)**: 1. [A](/en/post/a/) [characteristic](/en/post/characteristic/) [or](/en/post/or/) [attribute](/en/post/attribute/) [that](/en/post/that/) determines [the](/en/post/the/) [value](/en/post/value/), excellence, [or](/en/post/or/) desirability [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) hotel's [quality](/en/post/quality/) [of](/en/post/of/) [service](/en/post/service/) was exceptional."
-- 2. [Standard](/en/post/standard/) [or](/en/post/or/) [degree](/en/post/degree/) [of](/en/post/of/) excellence, [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [a](/en/post/a/) [comparative](/en/post/comparative/) [form](/en/post/form/) (e.g., [high](/en/post/high/) [quality](/en/post/quality/), [low](/en/post/low/) [quality](/en/post/quality/)). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [product](/en/post/product/) has [superior](/en/post/superior/) [quality](/en/post/quality/) compared [to](/en/post/to/) others [on](/en/post/on/) [the](/en/post/the/) [market](/en/post/market/)."
+### [Noun](/post/noun/)
+- **[Quality](/post/quality/)**: 1. [A](/post/a/) [characteristic](/post/characteristic/) [or](/post/or/) [attribute](/post/attribute/) [that](/post/that/) determines [the](/post/the/) [value](/post/value/), excellence, [or](/post/or/) desirability [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) hotel's [quality](/post/quality/) [of](/post/of/) [service](/post/service/) was exceptional."
+- 2. [Standard](/post/standard/) [or](/post/or/) [degree](/post/degree/) [of](/post/of/) excellence, [often](/post/often/) [used](/post/used/) [in](/post/in/) [a](/post/a/) [comparative](/post/comparative/) [form](/post/form/) (e.g., [high](/post/high/) [quality](/post/quality/), [low](/post/low/) [quality](/post/quality/)). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [product](/post/product/) has [superior](/post/superior/) [quality](/post/quality/) compared [to](/post/to/) others [on](/post/on/) [the](/post/the/) [market](/post/market/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Of](/en/post/of/) [high](/en/post/high/) [quality](/en/post/quality/)**: Expressing excellence [or](/en/post/or/) superiority [in](/en/post/in/) terms [of](/en/post/of/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) high-quality [piece](/en/post/piece/) [of](/en/post/of/) [furniture](/en/post/furniture/) [will](/en/post/will/) [last](/en/post/last/) [for](/en/post/for/) years."
-- **[Good](/en/post/good/) [quality](/en/post/quality/)**: Demonstrating [satisfactory](/en/post/satisfactory/) [or](/en/post/or/) [desirable](/en/post/desirable/) characteristics. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) ingredients [used](/en/post/used/) [in](/en/post/in/) [this](/en/post/this/) [food](/en/post/food/) are [of](/en/post/of/) [good](/en/post/good/) [quality](/en/post/quality/)."
+### [Adjective](/post/adjective/)
+- **[Of](/post/of/) [high](/post/high/) [quality](/post/quality/)**: Expressing excellence [or](/post/or/) superiority [in](/post/in/) terms [of](/post/of/) [quality](/post/quality/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) high-quality [piece](/post/piece/) [of](/post/of/) [furniture](/post/furniture/) [will](/post/will/) [last](/post/last/) [for](/post/for/) years."
+- **[Good](/post/good/) [quality](/post/quality/)**: Demonstrating [satisfactory](/post/satisfactory/) [or](/post/or/) [desirable](/post/desirable/) characteristics. [For](/post/for/) [example](/post/example/): "[The](/post/the/) ingredients [used](/post/used/) [in](/post/in/) [this](/post/this/) [food](/post/food/) are [of](/post/of/) [good](/post/good/) [quality](/post/quality/)."
 
-### [Adverb](/en/post/adverb/)
-- **Qualitatively**: [In](/en/post/in/) terms [of](/en/post/of/) [quality](/en/post/quality/); [regarding](/en/post/regarding/) [the](/en/post/the/) [nature](/en/post/nature/) [or](/en/post/or/) [character](/en/post/character/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) results improved qualitatively [after](/en/post/after/) implementing [new](/en/post/new/) methods."
+### [Adverb](/post/adverb/)
+- **Qualitatively**: [In](/post/in/) terms [of](/post/of/) [quality](/post/quality/); [regarding](/post/regarding/) [the](/post/the/) [nature](/post/nature/) [or](/post/or/) [character](/post/character/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) results improved qualitatively [after](/post/after/) implementing [new](/post/new/) methods."
 
 ## Phrases
-- "[Maintain](/en/post/maintain/) [quality](/en/post/quality/) [control](/en/post/control/)" [means](/en/post/means/) [to](/en/post/to/) [ensure](/en/post/ensure/) [that](/en/post/that/) products [or](/en/post/or/) services [meet](/en/post/meet/) [a](/en/post/a/) [consistent](/en/post/consistent/) [standard](/en/post/standard/).
-- "[Focus](/en/post/focus/) [on](/en/post/on/) [quality](/en/post/quality/) [over](/en/post/over/) [quantity](/en/post/quantity/)" emphasizes [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) producing well-made items [rather](/en/post/rather/) [than](/en/post/than/) [just](/en/post/just/) producing [many](/en/post/many/).
-- "[A](/en/post/a/) commitment [to](/en/post/to/) [quality](/en/post/quality/)" reflects [a](/en/post/a/) dedication [to](/en/post/to/) excellence [in](/en/post/in/) [all](/en/post/all/) aspects [of](/en/post/of/) [work](/en/post/work/) [or](/en/post/or/) [life](/en/post/life/).
+- "[Maintain](/post/maintain/) [quality](/post/quality/) [control](/post/control/)" [means](/post/means/) [to](/post/to/) [ensure](/post/ensure/) [that](/post/that/) products [or](/post/or/) services [meet](/post/meet/) [a](/post/a/) [consistent](/post/consistent/) [standard](/post/standard/).
+- "[Focus](/post/focus/) [on](/post/on/) [quality](/post/quality/) [over](/post/over/) [quantity](/post/quantity/)" emphasizes [the](/post/the/) [importance](/post/importance/) [of](/post/of/) producing well-made items [rather](/post/rather/) [than](/post/than/) [just](/post/just/) producing [many](/post/many/).
+- "[A](/post/a/) commitment [to](/post/to/) [quality](/post/quality/)" reflects [a](/post/a/) dedication [to](/post/to/) excellence [in](/post/in/) [all](/post/all/) aspects [of](/post/of/) [work](/post/work/) [or](/post/or/) [life](/post/life/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) restaurant's [reputation](/en/post/reputation/) relies [on](/en/post/on/) [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [its](/en/post/its/) cuisine."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) chose [a](/en/post/a/) high-quality [fabric](/en/post/fabric/) [for](/en/post/for/) [her](/en/post/her/) [dress](/en/post/dress/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) praised [the](/en/post/the/) students' [work](/en/post/work/) qualitatively, noting [their](/en/post/their/) [progress](/en/post/progress/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) restaurant's [reputation](/post/reputation/) relies [on](/post/on/) [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [its](/post/its/) cuisine."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) chose [a](/post/a/) high-quality [fabric](/post/fabric/) [for](/post/for/) [her](/post/her/) [dress](/post/dress/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [teacher](/post/teacher/) praised [the](/post/the/) students' [work](/post/work/) qualitatively, noting [their](/post/their/) [progress](/post/progress/)."
 
 ## Synonyms
 - Excellence
-- [Standard](/en/post/standard/)
-- [Condition](/en/post/condition/)
-- [Character](/en/post/character/)
+- [Standard](/post/standard/)
+- [Condition](/post/condition/)
+- [Character](/post/character/)
 - Fitness
 - Integrity
 - Soundness
 - Dependability
-- [Reliability](/en/post/reliability/)
+- [Reliability](/post/reliability/)
 
 ## Antonyms
-- [Poor](/en/post/poor/) [quality](/en/post/quality/)
+- [Poor](/post/poor/) [quality](/post/quality/)
 - Mediocre
 - Flawed
 - Defective

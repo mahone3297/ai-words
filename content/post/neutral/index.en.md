@@ -7,34 +7,34 @@ description = '[ˈnjuːtrəl] a.中立的；中性的'
 keywords = ['ai words', 'neutral']
 +++
 
-## [Word](/en/post/word/): [Neutral](/en/post/neutral/)
+## [Word](/post/word/): [Neutral](/post/neutral/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnjuːtrəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/) (adj)**: [Not](/en/post/not/) taking sides [or](/en/post/or/) [not](/en/post/not/) favoring [one](/en/post/one/) [group](/en/post/group/) [or](/en/post/or/) [opinion](/en/post/opinion/) [over](/en/post/over/) [another](/en/post/another/); impartial [or](/en/post/or/) unbiased. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) mediator acted [as](/en/post/as/) [a](/en/post/a/) [neutral](/en/post/neutral/) [third](/en/post/third/) [party](/en/post/party/) [in](/en/post/in/) [the](/en/post/the/) [dispute](/en/post/dispute/)."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) does [not](/en/post/not/) [take](/en/post/take/) sides [or](/en/post/or/) [support](/en/post/support/) [any](/en/post/any/) [particular](/en/post/particular/) [group](/en/post/group/) [in](/en/post/in/) [a](/en/post/a/) [conflict](/en/post/conflict/) [or](/en/post/or/) [contest](/en/post/contest/). [For](/en/post/for/) [example](/en/post/example/): "Switzerland maintained [its](/en/post/its/) [position](/en/post/position/) [as](/en/post/as/) [a](/en/post/a/) [neutral](/en/post/neutral/) [during](/en/post/during/) [World](/en/post/world/) [War](/en/post/war/) II."
-- **[Adjective](/en/post/adjective/) (adj)**: [In](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) colors, [it](/en/post/it/) [means](/en/post/means/) [without](/en/post/without/) hue [or](/en/post/or/) having [a](/en/post/a/) grayish-white tint. [Example](/en/post/example/): "[The](/en/post/the/) walls were painted [a](/en/post/a/) [neutral](/en/post/neutral/) [color](/en/post/color/) [to](/en/post/to/) [match](/en/post/match/) [any](/en/post/any/) [furniture](/en/post/furniture/)."
-- **[Adjective](/en/post/adjective/) (adj)**: [In](/en/post/in/) [chemistry](/en/post/chemistry/), [it](/en/post/it/) refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [neither](/en/post/neither/) acidic [nor](/en/post/nor/) [basic](/en/post/basic/), having [a](/en/post/a/) pH [of](/en/post/of/) 7. [Example](/en/post/example/): "Distilled [water](/en/post/water/) is [a](/en/post/a/) [neutral](/en/post/neutral/) [substance](/en/post/substance/)."
+- **[Adjective](/post/adjective/) (adj)**: [Not](/post/not/) taking sides [or](/post/or/) [not](/post/not/) favoring [one](/post/one/) [group](/post/group/) [or](/post/or/) [opinion](/post/opinion/) [over](/post/over/) [another](/post/another/); impartial [or](/post/or/) unbiased. [For](/post/for/) [example](/post/example/): "[The](/post/the/) mediator acted [as](/post/as/) [a](/post/a/) [neutral](/post/neutral/) [third](/post/third/) [party](/post/party/) [in](/post/in/) [the](/post/the/) [dispute](/post/dispute/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) does [not](/post/not/) [take](/post/take/) sides [or](/post/or/) [support](/post/support/) [any](/post/any/) [particular](/post/particular/) [group](/post/group/) [in](/post/in/) [a](/post/a/) [conflict](/post/conflict/) [or](/post/or/) [contest](/post/contest/). [For](/post/for/) [example](/post/example/): "Switzerland maintained [its](/post/its/) [position](/post/position/) [as](/post/as/) [a](/post/a/) [neutral](/post/neutral/) [during](/post/during/) [World](/post/world/) [War](/post/war/) II."
+- **[Adjective](/post/adjective/) (adj)**: [In](/post/in/) [reference](/post/reference/) [to](/post/to/) colors, [it](/post/it/) [means](/post/means/) [without](/post/without/) hue [or](/post/or/) having [a](/post/a/) grayish-white tint. [Example](/post/example/): "[The](/post/the/) walls were painted [a](/post/a/) [neutral](/post/neutral/) [color](/post/color/) [to](/post/to/) [match](/post/match/) [any](/post/any/) [furniture](/post/furniture/)."
+- **[Adjective](/post/adjective/) (adj)**: [In](/post/in/) [chemistry](/post/chemistry/), [it](/post/it/) refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is [neither](/post/neither/) acidic [nor](/post/nor/) [basic](/post/basic/), having [a](/post/a/) pH [of](/post/of/) 7. [Example](/post/example/): "Distilled [water](/post/water/) is [a](/post/a/) [neutral](/post/neutral/) [substance](/post/substance/)."
 
 ## Phrases
-- "[Neutral](/en/post/neutral/) [ground](/en/post/ground/)": [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) opposing parties [can](/en/post/can/) [meet](/en/post/meet/) [without](/en/post/without/) giving [either](/en/post/either/) [side](/en/post/side/) an [advantage](/en/post/advantage/).
-- "[Take](/en/post/take/) [a](/en/post/a/) [neutral](/en/post/neutral/) stance": [To](/en/post/to/) [remain](/en/post/remain/) uninvolved [or](/en/post/or/) [not](/en/post/not/) [express](/en/post/express/) an [opinion](/en/post/opinion/) [on](/en/post/on/) [a](/en/post/a/) [matter](/en/post/matter/).
-- "[Neutral](/en/post/neutral/) gear": [In](/en/post/in/) vehicles, it's [the](/en/post/the/) gear [setting](/en/post/setting/) [that](/en/post/that/) disconnects [the](/en/post/the/) [transmission](/en/post/transmission/) [from](/en/post/from/) [the](/en/post/the/) [drive](/en/post/drive/) shaft, allowing [the](/en/post/the/) [car](/en/post/car/) [to](/en/post/to/) [be](/en/post/be/) stationary [without](/en/post/without/) [the](/en/post/the/) [engine](/en/post/engine/) [being](/en/post/being/) turned [off](/en/post/off/).
+- "[Neutral](/post/neutral/) [ground](/post/ground/)": [A](/post/a/) [place](/post/place/) [where](/post/where/) opposing parties [can](/post/can/) [meet](/post/meet/) [without](/post/without/) giving [either](/post/either/) [side](/post/side/) an [advantage](/post/advantage/).
+- "[Take](/post/take/) [a](/post/a/) [neutral](/post/neutral/) stance": [To](/post/to/) [remain](/post/remain/) uninvolved [or](/post/or/) [not](/post/not/) [express](/post/express/) an [opinion](/post/opinion/) [on](/post/on/) [a](/post/a/) [matter](/post/matter/).
+- "[Neutral](/post/neutral/) gear": [In](/post/in/) vehicles, it's [the](/post/the/) gear [setting](/post/setting/) [that](/post/that/) disconnects [the](/post/the/) [transmission](/post/transmission/) [from](/post/from/) [the](/post/the/) [drive](/post/drive/) shaft, allowing [the](/post/the/) [car](/post/car/) [to](/post/to/) [be](/post/be/) stationary [without](/post/without/) [the](/post/the/) [engine](/post/engine/) [being](/post/being/) turned [off](/post/off/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) (impartiality)**: "[The](/en/post/the/) [judge](/en/post/judge/) [must](/en/post/must/) [maintain](/en/post/maintain/) [a](/en/post/a/) [neutral](/en/post/neutral/) stance [when](/en/post/when/) presiding [over](/en/post/over/) [the](/en/post/the/) [trial](/en/post/trial/)."
-- **[Noun](/en/post/noun/) ([person](/en/post/person/))**: "[Many](/en/post/many/) countries declared [themselves](/en/post/themselves/) [as](/en/post/as/) neutrals [in](/en/post/in/) [the](/en/post/the/) [international](/en/post/international/) [conflict](/en/post/conflict/)."
-- **[Adjective](/en/post/adjective/) ([color](/en/post/color/))**: "[They](/en/post/they/) chose [a](/en/post/a/) [neutral](/en/post/neutral/) palette [for](/en/post/for/) [their](/en/post/their/) [living](/en/post/living/) [room](/en/post/room/) decor [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) serene [atmosphere](/en/post/atmosphere/)."
-- **[Adjective](/en/post/adjective/) ([chemistry](/en/post/chemistry/))**: "[Pure](/en/post/pure/) [water](/en/post/water/) is [neutral](/en/post/neutral/) [and](/en/post/and/) has [a](/en/post/a/) pH [value](/en/post/value/) [of](/en/post/of/) 7."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) (impartiality)**: "[The](/post/the/) [judge](/post/judge/) [must](/post/must/) [maintain](/post/maintain/) [a](/post/a/) [neutral](/post/neutral/) stance [when](/post/when/) presiding [over](/post/over/) [the](/post/the/) [trial](/post/trial/)."
+- **[Noun](/post/noun/) ([person](/post/person/))**: "[Many](/post/many/) countries declared [themselves](/post/themselves/) [as](/post/as/) neutrals [in](/post/in/) [the](/post/the/) [international](/post/international/) [conflict](/post/conflict/)."
+- **[Adjective](/post/adjective/) ([color](/post/color/))**: "[They](/post/they/) chose [a](/post/a/) [neutral](/post/neutral/) palette [for](/post/for/) [their](/post/their/) [living](/post/living/) [room](/post/room/) decor [to](/post/to/) [create](/post/create/) [a](/post/a/) serene [atmosphere](/post/atmosphere/)."
+- **[Adjective](/post/adjective/) ([chemistry](/post/chemistry/))**: "[Pure](/post/pure/) [water](/post/water/) is [neutral](/post/neutral/) [and](/post/and/) has [a](/post/a/) pH [value](/post/value/) [of](/post/of/) 7."
 
 ## Synonyms
 - Impartial
 - Unbiased
 - Nonpartisan
 - Detached
-- [Indifferent](/en/post/indifferent/) ([in](/en/post/in/) terms [of](/en/post/of/) [not](/en/post/not/) favoring)
+- [Indifferent](/post/indifferent/) ([in](/post/in/) terms [of](/post/of/) [not](/post/not/) favoring)
 - Middle-of-the-road
-- [Gray](/en/post/gray/) ([for](/en/post/for/) [color](/en/post/color/) neutrality)
-- Balanced ([in](/en/post/in/) context [of](/en/post/of/) opinions [or](/en/post/or/) stances)
+- [Gray](/post/gray/) ([for](/post/for/) [color](/post/color/) neutrality)
+- Balanced ([in](/post/in/) context [of](/post/of/) opinions [or](/post/or/) stances)

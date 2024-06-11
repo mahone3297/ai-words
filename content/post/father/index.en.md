@@ -7,31 +7,31 @@ description = '[ˈfɑːðə] n.父亲；神父；创始人'
 keywords = ['ai words', 'father']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɑːðər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [man](/en/post/man/) [who](/en/post/who/) has [a](/en/post/a/) [child](/en/post/child/) [or](/en/post/or/) children; [the](/en/post/the/) [male](/en/post/male/) [parent](/en/post/parent/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was [a](/en/post/a/) loving [and](/en/post/and/) devoted [father](/en/post/father/) [to](/en/post/to/) [his](/en/post/his/) [two](/en/post/two/) daughters."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) founder, originator, [or](/en/post/or/) creator. [For](/en/post/for/) [example](/en/post/example/): "Henry Ford is considered [the](/en/post/the/) [father](/en/post/father/) [of](/en/post/of/) [the](/en/post/the/) [modern](/en/post/modern/) [assembly](/en/post/assembly/) [line](/en/post/line/)."
-- **[Noun](/en/post/noun/) ([religious](/en/post/religious/))**: God, [especially](/en/post/especially/) [when](/en/post/when/) considered [as](/en/post/as/) [the](/en/post/the/) [first](/en/post/first/) [person](/en/post/person/) [of](/en/post/of/) [the](/en/post/the/) Christian Trinity. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) Lord's [Prayer](/en/post/prayer/) begins [with](/en/post/with/) '[Our](/en/post/our/) [Father](/en/post/father/).'"
-- **[Noun](/en/post/noun/) (honorific [title](/en/post/title/))**: [A](/en/post/a/) [respectful](/en/post/respectful/) [form](/en/post/form/) [of](/en/post/of/) [address](/en/post/address/) [for](/en/post/for/) an older [man](/en/post/man/), [especially](/en/post/especially/) [one](/en/post/one/) [in](/en/post/in/) [authority](/en/post/authority/) [or](/en/post/or/) [with](/en/post/with/) [whom](/en/post/whom/) [one](/en/post/one/) has [a](/en/post/a/) [spiritual](/en/post/spiritual/) [relationship](/en/post/relationship/). [For](/en/post/for/) [example](/en/post/example/): "[Father](/en/post/father/), [can](/en/post/can/) [you](/en/post/you/) [give](/en/post/give/) [us](/en/post/us/) [your](/en/post/your/) [guidance](/en/post/guidance/)?"
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) beget [or](/en/post/or/) sire [a](/en/post/a/) [child](/en/post/child/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) fathered [three](/en/post/three/) sons [during](/en/post/during/) [his](/en/post/his/) [lifetime](/en/post/lifetime/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [man](/post/man/) [who](/post/who/) has [a](/post/a/) [child](/post/child/) [or](/post/or/) children; [the](/post/the/) [male](/post/male/) [parent](/post/parent/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) was [a](/post/a/) loving [and](/post/and/) devoted [father](/post/father/) [to](/post/to/) [his](/post/his/) [two](/post/two/) daughters."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) founder, originator, [or](/post/or/) creator. [For](/post/for/) [example](/post/example/): "Henry Ford is considered [the](/post/the/) [father](/post/father/) [of](/post/of/) [the](/post/the/) [modern](/post/modern/) [assembly](/post/assembly/) [line](/post/line/)."
+- **[Noun](/post/noun/) ([religious](/post/religious/))**: God, [especially](/post/especially/) [when](/post/when/) considered [as](/post/as/) [the](/post/the/) [first](/post/first/) [person](/post/person/) [of](/post/of/) [the](/post/the/) Christian Trinity. [For](/post/for/) [example](/post/example/): "[The](/post/the/) Lord's [Prayer](/post/prayer/) begins [with](/post/with/) '[Our](/post/our/) [Father](/post/father/).'"
+- **[Noun](/post/noun/) (honorific [title](/post/title/))**: [A](/post/a/) [respectful](/post/respectful/) [form](/post/form/) [of](/post/of/) [address](/post/address/) [for](/post/for/) an older [man](/post/man/), [especially](/post/especially/) [one](/post/one/) [in](/post/in/) [authority](/post/authority/) [or](/post/or/) [with](/post/with/) [whom](/post/whom/) [one](/post/one/) has [a](/post/a/) [spiritual](/post/spiritual/) [relationship](/post/relationship/). [For](/post/for/) [example](/post/example/): "[Father](/post/father/), [can](/post/can/) [you](/post/you/) [give](/post/give/) [us](/post/us/) [your](/post/your/) [guidance](/post/guidance/)?"
+- **[Verb](/post/verb/)**: [To](/post/to/) beget [or](/post/or/) sire [a](/post/a/) [child](/post/child/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) fathered [three](/post/three/) sons [during](/post/during/) [his](/post/his/) [lifetime](/post/lifetime/)."
 
 ## Phrases
-- "[Father](/en/post/father/) [figure](/en/post/figure/)": [A](/en/post/a/) [man](/en/post/man/) [who](/en/post/who/) serves [as](/en/post/as/) [a](/en/post/a/) guiding [or](/en/post/or/) [protective](/en/post/protective/) [influence](/en/post/influence/) [in](/en/post/in/) someone's [life](/en/post/life/), [often](/en/post/often/) [in](/en/post/in/) [the](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/) [a](/en/post/a/) biological [father](/en/post/father/).
-- "[Like](/en/post/like/) [father](/en/post/father/), [like](/en/post/like/) [son](/en/post/son/)": [This](/en/post/this/) [phrase](/en/post/phrase/) suggests [that](/en/post/that/) sons [tend](/en/post/tend/) [to](/en/post/to/) [resemble](/en/post/resemble/) [their](/en/post/their/) fathers [in](/en/post/in/) [behavior](/en/post/behavior/) [or](/en/post/or/) [character](/en/post/character/).
-- "[Father](/en/post/father/) [Time](/en/post/time/)": [A](/en/post/a/) metaphorical representation [of](/en/post/of/) [time](/en/post/time/), [often](/en/post/often/) depicted [as](/en/post/as/) an [old](/en/post/old/) [man](/en/post/man/) carrying [a](/en/post/a/) scythe.
+- "[Father](/post/father/) [figure](/post/figure/)": [A](/post/a/) [man](/post/man/) [who](/post/who/) serves [as](/post/as/) [a](/post/a/) guiding [or](/post/or/) [protective](/post/protective/) [influence](/post/influence/) [in](/post/in/) someone's [life](/post/life/), [often](/post/often/) [in](/post/in/) [the](/post/the/) [absence](/post/absence/) [of](/post/of/) [a](/post/a/) biological [father](/post/father/).
+- "[Like](/post/like/) [father](/post/father/), [like](/post/like/) [son](/post/son/)": [This](/post/this/) [phrase](/post/phrase/) suggests [that](/post/that/) sons [tend](/post/tend/) [to](/post/to/) [resemble](/post/resemble/) [their](/post/their/) fathers [in](/post/in/) [behavior](/post/behavior/) [or](/post/or/) [character](/post/character/).
+- "[Father](/post/father/) [Time](/post/time/)": [A](/post/a/) metaphorical representation [of](/post/of/) [time](/post/time/), [often](/post/often/) depicted [as](/post/as/) an [old](/post/old/) [man](/post/man/) carrying [a](/post/a/) scythe.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [father](/en/post/father/) taught [her](/en/post/her/) [how](/en/post/how/) [to](/en/post/to/) [ride](/en/post/ride/) [a](/en/post/a/) [bike](/en/post/bike/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [will](/en/post/will/) [soon](/en/post/soon/) [father](/en/post/father/) [his](/en/post/his/) [first](/en/post/first/) [child](/en/post/child/)."
-- **[Noun](/en/post/noun/) (figurative)**: "[The](/en/post/the/) [author](/en/post/author/) is [widely](/en/post/widely/) regarded [as](/en/post/as/) [the](/en/post/the/) [father](/en/post/father/) [of](/en/post/of/) [science](/en/post/science/) [fiction](/en/post/fiction/)."
-- **[Noun](/en/post/noun/) ([religious](/en/post/religious/))**: "[In](/en/post/in/) [many](/en/post/many/) churches, parishioners [refer](/en/post/refer/) [to](/en/post/to/) [their](/en/post/their/) [priest](/en/post/priest/) [as](/en/post/as/) '[Father](/en/post/father/)'."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [father](/post/father/) taught [her](/post/her/) [how](/post/how/) [to](/post/to/) [ride](/post/ride/) [a](/post/a/) [bike](/post/bike/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) [will](/post/will/) [soon](/post/soon/) [father](/post/father/) [his](/post/his/) [first](/post/first/) [child](/post/child/)."
+- **[Noun](/post/noun/) (figurative)**: "[The](/post/the/) [author](/post/author/) is [widely](/post/widely/) regarded [as](/post/as/) [the](/post/the/) [father](/post/father/) [of](/post/of/) [science](/post/science/) [fiction](/post/fiction/)."
+- **[Noun](/post/noun/) ([religious](/post/religious/))**: "[In](/post/in/) [many](/post/many/) churches, parishioners [refer](/post/refer/) [to](/post/to/) [their](/post/their/) [priest](/post/priest/) [as](/post/as/) '[Father](/post/father/)'."
   
 ## Synonyms
 - Dad
 - Daddy
 - Papa
-- [Parent](/en/post/parent/)
-- sire ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [being](/en/post/being/) [the](/en/post/the/) [male](/en/post/male/) [parent](/en/post/parent/))
-- progenitor ([for](/en/post/for/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [ancestor](/en/post/ancestor/) [or](/en/post/or/) originator)
+- [Parent](/post/parent/)
+- sire ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [being](/post/being/) [the](/post/the/) [male](/post/male/) [parent](/post/parent/))
+- progenitor ([for](/post/for/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [ancestor](/post/ancestor/) [or](/post/or/) originator)

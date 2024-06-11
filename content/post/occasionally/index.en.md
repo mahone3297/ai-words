@@ -7,37 +7,37 @@ description = '[əˈkeiʒənəli] ad.偶然;非经常地'
 keywords = ['ai words', 'occasionally']
 +++
 
-## [Word](/en/post/word/): [Occasionally](/en/post/occasionally/)
+## [Word](/post/word/): [Occasionally](/post/occasionally/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɑːkənˈsɛrəli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [From](/en/post/from/) [time](/en/post/time/) [to](/en/post/to/) [time](/en/post/time/); [now](/en/post/now/) [and](/en/post/and/) [then](/en/post/then/); [not](/en/post/not/) [often](/en/post/often/) [or](/en/post/or/) [regularly](/en/post/regularly/). [It](/en/post/it/) describes [the](/en/post/the/) [frequency](/en/post/frequency/) [or](/en/post/or/) [occurrence](/en/post/occurrence/) [of](/en/post/of/) an [action](/en/post/action/).
+- **[Adverb](/post/adverb/)**: [From](/post/from/) [time](/post/time/) [to](/post/to/) [time](/post/time/); [now](/post/now/) [and](/post/and/) [then](/post/then/); [not](/post/not/) [often](/post/often/) [or](/post/or/) [regularly](/post/regularly/). [It](/post/it/) describes [the](/post/the/) [frequency](/post/frequency/) [or](/post/or/) [occurrence](/post/occurrence/) [of](/post/of/) an [action](/post/action/).
 
 ### Examples
-- **[Adverb](/en/post/adverb/)**: "[Occasionally](/en/post/occasionally/), [he](/en/post/he/) enjoys going [for](/en/post/for/) [long](/en/post/long/) walks [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- "I [like](/en/post/like/) [to](/en/post/to/) [treat](/en/post/treat/) [myself](/en/post/myself/) [to](/en/post/to/) [a](/en/post/a/) [fancy](/en/post/fancy/) [dinner](/en/post/dinner/) [occasionally](/en/post/occasionally/)."
-- "[She](/en/post/she/) checks [her](/en/post/her/) emails [only](/en/post/only/) [occasionally](/en/post/occasionally/) [on](/en/post/on/) [the](/en/post/the/) weekends."
+- **[Adverb](/post/adverb/)**: "[Occasionally](/post/occasionally/), [he](/post/he/) enjoys going [for](/post/for/) [long](/post/long/) walks [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- "I [like](/post/like/) [to](/post/to/) [treat](/post/treat/) [myself](/post/myself/) [to](/post/to/) [a](/post/a/) [fancy](/post/fancy/) [dinner](/post/dinner/) [occasionally](/post/occasionally/)."
+- "[She](/post/she/) checks [her](/post/her/) emails [only](/post/only/) [occasionally](/post/occasionally/) [on](/post/on/) [the](/post/the/) weekends."
 
 ## Phrases
-- "[Occasionally](/en/post/occasionally/) [used](/en/post/used/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [not](/en/post/not/) [frequently](/en/post/frequently/) [or](/en/post/or/) habitually [used](/en/post/used/).
-- "[From](/en/post/from/) [time](/en/post/time/) [to](/en/post/to/) [time](/en/post/time/)" is synonymous [with](/en/post/with/) "[occasionally](/en/post/occasionally/)"; [it](/en/post/it/) [means](/en/post/means/) [something](/en/post/something/) happens irregularly [but](/en/post/but/) [not](/en/post/not/) [never](/en/post/never/).
-- "[On](/en/post/on/) [occasion](/en/post/occasion/)" [also](/en/post/also/) [means](/en/post/means/) [the](/en/post/the/) [same](/en/post/same/) [thing](/en/post/thing/), referring [to](/en/post/to/) [something](/en/post/something/) happening [at](/en/post/at/) [certain](/en/post/certain/) times [but](/en/post/but/) [not](/en/post/not/) [regularly](/en/post/regularly/).
+- "[Occasionally](/post/occasionally/) [used](/post/used/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is [not](/post/not/) [frequently](/post/frequently/) [or](/post/or/) habitually [used](/post/used/).
+- "[From](/post/from/) [time](/post/time/) [to](/post/to/) [time](/post/time/)" is synonymous [with](/post/with/) "[occasionally](/post/occasionally/)"; [it](/post/it/) [means](/post/means/) [something](/post/something/) happens irregularly [but](/post/but/) [not](/post/not/) [never](/post/never/).
+- "[On](/post/on/) [occasion](/post/occasion/)" [also](/post/also/) [means](/post/means/) [the](/post/the/) [same](/post/same/) [thing](/post/thing/), referring [to](/post/to/) [something](/post/something/) happening [at](/post/at/) [certain](/post/certain/) times [but](/post/but/) [not](/post/not/) [regularly](/post/regularly/).
 
-## [Example](/en/post/example/) Sentences
-- "[He](/en/post/he/) [occasionally](/en/post/occasionally/) visits [his](/en/post/his/) hometown [to](/en/post/to/) [see](/en/post/see/) [his](/en/post/his/) parents."
-- "[The](/en/post/the/) [restaurant](/en/post/restaurant/) offers [live](/en/post/live/) [music](/en/post/music/) performances [occasionally](/en/post/occasionally/)."
-- "[We](/en/post/we/) [should](/en/post/should/) [all](/en/post/all/) [take](/en/post/take/) breaks [from](/en/post/from/) [work](/en/post/work/) [occasionally](/en/post/occasionally/) [to](/en/post/to/) [refresh](/en/post/refresh/) [our](/en/post/our/) minds."
+## [Example](/post/example/) Sentences
+- "[He](/post/he/) [occasionally](/post/occasionally/) visits [his](/post/his/) hometown [to](/post/to/) [see](/post/see/) [his](/post/his/) parents."
+- "[The](/post/the/) [restaurant](/post/restaurant/) offers [live](/post/live/) [music](/post/music/) performances [occasionally](/post/occasionally/)."
+- "[We](/post/we/) [should](/post/should/) [all](/post/all/) [take](/post/take/) breaks [from](/post/from/) [work](/post/work/) [occasionally](/post/occasionally/) [to](/post/to/) [refresh](/post/refresh/) [our](/post/our/) minds."
 
 ## Synonyms
 - Periodically
 - Sporadically
 - Infrequently
-- [Sometimes](/en/post/sometimes/)
-- [Now](/en/post/now/) [and](/en/post/and/) [then](/en/post/then/)
-- [At](/en/post/at/) times
-- [From](/en/post/from/) [time](/en/post/time/) [to](/en/post/to/) [time](/en/post/time/)
-- [On](/en/post/on/) [occasion](/en/post/occasion/)
-- [Every](/en/post/every/) [so](/en/post/so/) [often](/en/post/often/)
-- [Once](/en/post/once/) [in](/en/post/in/) [a](/en/post/a/) [while](/en/post/while/)
+- [Sometimes](/post/sometimes/)
+- [Now](/post/now/) [and](/post/and/) [then](/post/then/)
+- [At](/post/at/) times
+- [From](/post/from/) [time](/post/time/) [to](/post/to/) [time](/post/time/)
+- [On](/post/on/) [occasion](/post/occasion/)
+- [Every](/post/every/) [so](/post/so/) [often](/post/often/)
+- [Once](/post/once/) [in](/post/in/) [a](/post/a/) [while](/post/while/)

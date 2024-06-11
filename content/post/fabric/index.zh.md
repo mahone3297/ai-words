@@ -11,22 +11,22 @@ keywords = ['ai words', 'fabric']
 /fəˈbrɪk/
 
 ## 释义
-- **名词**: 织物；布料；构造；结构。例如: "[The](/post/the/) [dress](/post/dress/) is made [of](/post/of/) [a](/post/a/) [beautiful](/post/beautiful/) [silk](/post/silk/) [fabric](/post/fabric/)." 
-- **动词**: 制造；编造；构造。例如: "[They](/post/they/) fabricate machines [in](/post/in/) [their](/post/their/) [factory](/post/factory/)."
+- **名词**: 织物；布料；构造；结构。例如: "[The](/zh/post/the/) [dress](/zh/post/dress/) is made [of](/zh/post/of/) [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [silk](/zh/post/silk/) [fabric](/zh/post/fabric/)." 
+- **动词**: 制造；编造；构造。例如: "[They](/zh/post/they/) fabricate machines [in](/zh/post/in/) [their](/zh/post/their/) [factory](/zh/post/factory/)."
 
 ## 短语
-- "[Wool](/post/wool/) [fabric](/post/fabric/)" 指羊毛织物。
-- "[Cotton](/post/cotton/) [fabric](/post/fabric/)" 指棉布。
-- "[The](/post/the/) [fabric](/post/fabric/) [of](/post/of/) [society](/post/society/)" 指社会的结构或基础。
+- "[Wool](/zh/post/wool/) [fabric](/zh/post/fabric/)" 指羊毛织物。
+- "[Cotton](/zh/post/cotton/) [fabric](/zh/post/fabric/)" 指棉布。
+- "[The](/zh/post/the/) [fabric](/zh/post/fabric/) [of](/zh/post/of/) [society](/zh/post/society/)" 指社会的结构或基础。
 
 ## 例句
-- 名词: "[The](/post/the/) [tailor](/post/tailor/) chose [a](/post/a/) sturdy [fabric](/post/fabric/) [for](/post/for/) [the](/post/the/) [winter](/post/winter/) [coat](/post/coat/)."
-- 动词: "[The](/post/the/) [story](/post/story/) [about](/post/about/) [the](/post/the/) alien visitation was fabricated [by](/post/by/) [the](/post/the/) [boy](/post/boy/)."
-- "[The](/post/the/) building's [architecture](/post/architecture/) reflects [the](/post/the/) [fabric](/post/fabric/) [of](/post/of/) [the](/post/the/) city's [history](/post/history/)."
+- 名词: "[The](/zh/post/the/) [tailor](/zh/post/tailor/) chose [a](/zh/post/a/) sturdy [fabric](/zh/post/fabric/) [for](/zh/post/for/) [the](/zh/post/the/) [winter](/zh/post/winter/) [coat](/zh/post/coat/)."
+- 动词: "[The](/zh/post/the/) [story](/zh/post/story/) [about](/zh/post/about/) [the](/zh/post/the/) alien visitation was fabricated [by](/zh/post/by/) [the](/zh/post/the/) [boy](/zh/post/boy/)."
+- "[The](/zh/post/the/) building's [architecture](/zh/post/architecture/) reflects [the](/zh/post/the/) [fabric](/zh/post/fabric/) [of](/zh/post/of/) [the](/zh/post/the/) city's [history](/zh/post/history/)."
 
 ## 同义词
-- [Material](/post/material/)
-- [Textile](/post/textile/)
-- [Cloth](/post/cloth/)
+- [Material](/zh/post/material/)
+- [Textile](/zh/post/textile/)
+- [Cloth](/zh/post/cloth/)
 - Garment
-- [Substance](/post/substance/)
+- [Substance](/zh/post/substance/)

@@ -7,37 +7,37 @@ description = '[ˌkjuəriˈɔsiti] n.好奇，好奇心；珍品'
 keywords = ['ai words', 'curiosity']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkɜːrɪəsi/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Curiosity](/en/post/curiosity/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [desire](/en/post/desire/) [to](/en/post/to/) [know](/en/post/know/) [or](/en/post/or/) [learn](/en/post/learn/) [about](/en/post/about/) [something](/en/post/something/), [often](/en/post/often/) [out](/en/post/out/) [of](/en/post/of/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [interest](/en/post/interest/) [or](/en/post/or/) inquisitiveness.
-> [Example](/en/post/example/): "[Her](/en/post/her/) [curiosity](/en/post/curiosity/) led [her](/en/post/her/) [to](/en/post/to/) [explore](/en/post/explore/) [every](/en/post/every/) [corner](/en/post/corner/) [of](/en/post/of/) [the](/en/post/the/) [museum](/en/post/museum/)."
+### [Noun](/post/noun/)
+**[Curiosity](/post/curiosity/)** ([noun](/post/noun/)): [The](/post/the/) [desire](/post/desire/) [to](/post/to/) [know](/post/know/) [or](/post/or/) [learn](/post/learn/) [about](/post/about/) [something](/post/something/), [often](/post/often/) [out](/post/out/) [of](/post/of/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [interest](/post/interest/) [or](/post/or/) inquisitiveness.
+> [Example](/post/example/): "[Her](/post/her/) [curiosity](/post/curiosity/) led [her](/post/her/) [to](/post/to/) [explore](/post/explore/) [every](/post/every/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [museum](/post/museum/)."
 
-### [Verb](/en/post/verb/)
-**[To](/en/post/to/) [be](/en/post/be/) [curious](/en/post/curious/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [feel](/en/post/feel/) [a](/en/post/a/) [strong](/en/post/strong/) [interest](/en/post/interest/) [or](/en/post/or/) [desire](/en/post/desire/) [to](/en/post/to/) [know](/en/post/know/) [or](/en/post/or/) [learn](/en/post/learn/) [about](/en/post/about/) [something](/en/post/something/).
-> [Example](/en/post/example/): "[The](/en/post/the/) children were [particularly](/en/post/particularly/) [curious](/en/post/curious/) [about](/en/post/about/) [the](/en/post/the/) [strange](/en/post/strange/) artifact."
+### [Verb](/post/verb/)
+**[To](/post/to/) [be](/post/be/) [curious](/post/curious/)** ([verb](/post/verb/)): [To](/post/to/) [feel](/post/feel/) [a](/post/a/) [strong](/post/strong/) [interest](/post/interest/) [or](/post/or/) [desire](/post/desire/) [to](/post/to/) [know](/post/know/) [or](/post/or/) [learn](/post/learn/) [about](/post/about/) [something](/post/something/).
+> [Example](/post/example/): "[The](/post/the/) children were [particularly](/post/particularly/) [curious](/post/curious/) [about](/post/about/) [the](/post/the/) [strange](/post/strange/) artifact."
 
-### [Adjective](/en/post/adjective/)
-**[Curious](/en/post/curious/)** ([adjective](/en/post/adjective/)): Showing [or](/en/post/or/) characterized [by](/en/post/by/) [a](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [to](/en/post/to/) [know](/en/post/know/) [or](/en/post/or/) [learn](/en/post/learn/); inquisitive.
-> [Example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) had [a](/en/post/a/) [curious](/en/post/curious/) [nature](/en/post/nature/) [and](/en/post/and/) asked [many](/en/post/many/) questions."
+### [Adjective](/post/adjective/)
+**[Curious](/post/curious/)** ([adjective](/post/adjective/)): Showing [or](/post/or/) characterized [by](/post/by/) [a](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [to](/post/to/) [know](/post/know/) [or](/post/or/) [learn](/post/learn/); inquisitive.
+> [Example](/post/example/): "[The](/post/the/) [child](/post/child/) had [a](/post/a/) [curious](/post/curious/) [nature](/post/nature/) [and](/post/and/) asked [many](/post/many/) questions."
 
 ## Phrases
-- "[Curiosity](/en/post/curiosity/) killed [the](/en/post/the/) [cat](/en/post/cat/)" is [a](/en/post/a/) proverb implying [that](/en/post/that/) [excessive](/en/post/excessive/) [curiosity](/en/post/curiosity/) [can](/en/post/can/) [lead](/en/post/lead/) [to](/en/post/to/) [trouble](/en/post/trouble/) [or](/en/post/or/) [harm](/en/post/harm/).
-- "[Feed](/en/post/feed/) [your](/en/post/your/) [curiosity](/en/post/curiosity/)" encourages [someone](/en/post/someone/) [to](/en/post/to/) [seek](/en/post/seek/) [knowledge](/en/post/knowledge/) [and](/en/post/and/) [expand](/en/post/expand/) [their](/en/post/their/) [understanding](/en/post/understanding/).
-- "[A](/en/post/a/) [healthy](/en/post/healthy/) [dose](/en/post/dose/) [of](/en/post/of/) [curiosity](/en/post/curiosity/)" suggests [a](/en/post/a/) balanced [and](/en/post/and/) [productive](/en/post/productive/) [interest](/en/post/interest/) [in](/en/post/in/) [learning](/en/post/learning/).
+- "[Curiosity](/post/curiosity/) killed [the](/post/the/) [cat](/post/cat/)" is [a](/post/a/) proverb implying [that](/post/that/) [excessive](/post/excessive/) [curiosity](/post/curiosity/) [can](/post/can/) [lead](/post/lead/) [to](/post/to/) [trouble](/post/trouble/) [or](/post/or/) [harm](/post/harm/).
+- "[Feed](/post/feed/) [your](/post/your/) [curiosity](/post/curiosity/)" encourages [someone](/post/someone/) [to](/post/to/) [seek](/post/seek/) [knowledge](/post/knowledge/) [and](/post/and/) [expand](/post/expand/) [their](/post/their/) [understanding](/post/understanding/).
+- "[A](/post/a/) [healthy](/post/healthy/) [dose](/post/dose/) [of](/post/of/) [curiosity](/post/curiosity/)" suggests [a](/post/a/) balanced [and](/post/and/) [productive](/post/productive/) [interest](/post/interest/) [in](/post/in/) [learning](/post/learning/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [curiosity](/en/post/curiosity/) was piqued [by](/en/post/by/) [the](/en/post/the/) [mysterious](/en/post/mysterious/) [box](/en/post/box/) [she](/en/post/she/) [found](/en/post/found/) [in](/en/post/in/) [the](/en/post/the/) attic."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) encouraged [the](/en/post/the/) students [to](/en/post/to/) [be](/en/post/be/) [curious](/en/post/curious/) [about](/en/post/about/) [science](/en/post/science/) experiments."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [curious](/en/post/curious/) [gaze](/en/post/gaze/) lingered [on](/en/post/on/) [the](/en/post/the/) [rare](/en/post/rare/) [book](/en/post/book/) displayed [in](/en/post/in/) [the](/en/post/the/) [library](/en/post/library/) [window](/en/post/window/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [curiosity](/post/curiosity/) was piqued [by](/post/by/) [the](/post/the/) [mysterious](/post/mysterious/) [box](/post/box/) [she](/post/she/) [found](/post/found/) [in](/post/in/) [the](/post/the/) attic."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) encouraged [the](/post/the/) students [to](/post/to/) [be](/post/be/) [curious](/post/curious/) [about](/post/about/) [science](/post/science/) experiments."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [curious](/post/curious/) [gaze](/post/gaze/) lingered [on](/post/on/) [the](/post/the/) [rare](/post/rare/) [book](/post/book/) displayed [in](/post/in/) [the](/post/the/) [library](/post/library/) [window](/post/window/)."
 
 ## Synonyms
 - Inquisitive
 - Curiousness
-- [Wonder](/en/post/wonder/)
-- [Inquiry](/en/post/inquiry/)
+- [Wonder](/post/wonder/)
+- [Inquiry](/post/inquiry/)
 -的好奇心
-- [Enthusiasm](/en/post/enthusiasm/)
-- [Desire](/en/post/desire/) [to](/en/post/to/) [know](/en/post/know/)
+- [Enthusiasm](/post/enthusiasm/)
+- [Desire](/post/desire/) [to](/post/to/) [know](/post/know/)

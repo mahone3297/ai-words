@@ -11,20 +11,20 @@ keywords = ['ai words', 'temptation']
 /ˈtɛm.pə.ʃən/
 
 ## 释义
-- **名词**: 引诱，诱惑；吸引人的事物。例如: "[She](/post/she/) resisted [the](/post/the/) [temptation](/post/temptation/) [of](/post/of/) eating [another](/post/another/) [chocolate](/post/chocolate/) [cake](/post/cake/)."
-- **动词**: 引诱，诱惑。例如: "[The](/post/the/) [devil](/post/devil/) tempted [him](/post/him/) [with](/post/with/) promises [of](/post/of/) [wealth](/post/wealth/) [and](/post/and/) [power](/post/power/)."
+- **名词**: 引诱，诱惑；吸引人的事物。例如: "[She](/zh/post/she/) resisted [the](/zh/post/the/) [temptation](/zh/post/temptation/) [of](/zh/post/of/) eating [another](/zh/post/another/) [chocolate](/zh/post/chocolate/) [cake](/zh/post/cake/)."
+- **动词**: 引诱，诱惑。例如: "[The](/zh/post/the/) [devil](/zh/post/devil/) tempted [him](/zh/post/him/) [with](/zh/post/with/) promises [of](/zh/post/of/) [wealth](/zh/post/wealth/) [and](/zh/post/and/) [power](/zh/post/power/)."
 
 ## 短语
-- "[resist](/post/resist/) [temptation](/post/temptation/)" 抵制诱惑。
-- "[yield](/post/yield/) [to](/post/to/) [temptation](/post/temptation/)" 向诱惑屈服。
+- "[resist](/zh/post/resist/) [temptation](/zh/post/temptation/)" 抵制诱惑。
+- "[yield](/zh/post/yield/) [to](/zh/post/to/) [temptation](/zh/post/temptation/)" 向诱惑屈服。
 
 ## 例句
-- 名词: "[The](/post/the/) [smell](/post/smell/) [of](/post/of/) freshly baked cookies was [a](/post/a/) [great](/post/great/) [temptation](/post/temptation/) [for](/post/for/) [the](/post/the/) children."
-- 动词: "[The](/post/the/) [devil](/post/devil/) tempted [Eve](/post/eve/) [with](/post/with/) [the](/post/the/) forbidden [fruit](/post/fruit/) [in](/post/in/) [the](/post/the/) [Garden](/post/garden/) [of](/post/of/) Eden."
+- 名词: "[The](/zh/post/the/) [smell](/zh/post/smell/) [of](/zh/post/of/) freshly baked cookies was [a](/zh/post/a/) [great](/zh/post/great/) [temptation](/zh/post/temptation/) [for](/zh/post/for/) [the](/zh/post/the/) children."
+- 动词: "[The](/zh/post/the/) [devil](/zh/post/devil/) tempted [Eve](/zh/post/eve/) [with](/zh/post/with/) [the](/zh/post/the/) forbidden [fruit](/zh/post/fruit/) [in](/zh/post/in/) [the](/zh/post/the/) [Garden](/zh/post/garden/) [of](/zh/post/of/) Eden."
 
 ## 同义词
 - Enticement
 - Allure
 - Lure
-- [Temptation](/post/temptation/)
+- [Temptation](/zh/post/temptation/)
 - Seduction

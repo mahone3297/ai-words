@@ -11,19 +11,19 @@ keywords = ['ai words', 'american']
 /əˈmerɪkən/
 
 ## 释义
-- **形容词**: 与美国或美国人有关的；美国的。例如: "She's an [American](/post/american/) [citizen](/post/citizen/)."
-- **名词**: 美国人；美国事物。例如: "[The](/post/the/) [American](/post/american/) [culture](/post/culture/) is [diverse](/post/diverse/) [and](/post/and/) vibrant."
+- **形容词**: 与美国或美国人有关的；美国的。例如: "She's an [American](/zh/post/american/) [citizen](/zh/post/citizen/)."
+- **名词**: 美国人；美国事物。例如: "[The](/zh/post/the/) [American](/zh/post/american/) [culture](/zh/post/culture/) is [diverse](/zh/post/diverse/) [and](/zh/post/and/) vibrant."
 
 ## 短语
 - "All-American" 用来描述典型的或代表美国的。
-- "[American](/post/american/) [Dream](/post/dream/)" 指的是美国人民追求自由、平等和幸福生活的理想。
-- "[American](/post/american/) [football](/post/football/)" 美式足球，不同于其他国家的足球（[soccer](/post/soccer/)）。
+- "[American](/zh/post/american/) [Dream](/zh/post/dream/)" 指的是美国人民追求自由、平等和幸福生活的理想。
+- "[American](/zh/post/american/) [football](/zh/post/football/)" 美式足球，不同于其他国家的足球（[soccer](/zh/post/soccer/)）。
 
 ## 例句
-- 形容词: "[He](/post/he/) comes [from](/post/from/) [a](/post/a/) [small](/post/small/) [town](/post/town/) [in](/post/in/) [the](/post/the/) [American](/post/american/) Midwest."
-- 名词: "[The](/post/the/) Americans competing [in](/post/in/) [the](/post/the/) Olympics showed [great](/post/great/) sportsmanship."
+- 形容词: "[He](/zh/post/he/) comes [from](/zh/post/from/) [a](/zh/post/a/) [small](/zh/post/small/) [town](/zh/post/town/) [in](/zh/post/in/) [the](/zh/post/the/) [American](/zh/post/american/) Midwest."
+- 名词: "[The](/zh/post/the/) Americans competing [in](/zh/post/in/) [the](/zh/post/the/) Olympics showed [great](/zh/post/great/) sportsmanship."
 
 ## 同义词
-- United States (公民) - e.g., "She's [a](/post/a/) [citizen](/post/citizen/) [of](/post/of/) [the](/post/the/) United States."
-- U.S. (事物) - e.g., "[The](/post/the/) U.S. [economy](/post/economy/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) largest [in](/post/in/) [the](/post/the/) [world](/post/world/)."
-- Yankee (非正式) - e.g., "[The](/post/the/) British [often](/post/often/) called [early](/post/early/) [American](/post/american/) settlers 'Yankees'."
+- United States (公民) - e.g., "She's [a](/zh/post/a/) [citizen](/zh/post/citizen/) [of](/zh/post/of/) [the](/zh/post/the/) United States."
+- U.S. (事物) - e.g., "[The](/zh/post/the/) U.S. [economy](/zh/post/economy/) is [one](/zh/post/one/) [of](/zh/post/of/) [the](/zh/post/the/) largest [in](/zh/post/in/) [the](/zh/post/the/) [world](/zh/post/world/)."
+- Yankee (非正式) - e.g., "[The](/zh/post/the/) British [often](/zh/post/often/) called [early](/zh/post/early/) [American](/zh/post/american/) settlers 'Yankees'."

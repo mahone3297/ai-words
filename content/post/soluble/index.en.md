@@ -7,31 +7,31 @@ description = '[ˈsɔljubl]a.可溶的；可以解决的'
 keywords = ['ai words', 'soluble']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈluːbəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) dissolved [or](/en/post/or/) suspended [in](/en/post/in/) [a](/en/post/a/) solvent; [capable](/en/post/capable/) [of](/en/post/of/) dissolving [easily](/en/post/easily/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [salt](/en/post/salt/) is [soluble](/en/post/soluble/) [in](/en/post/in/) [water](/en/post/water/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [substance](/en/post/substance/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) dissolved; [a](/en/post/a/) solute. [For](/en/post/for/) [example](/en/post/example/): "[Sugar](/en/post/sugar/) is [a](/en/post/a/) [soluble](/en/post/soluble/) [solid](/en/post/solid/)."
+- **[Adjective](/post/adjective/)**: [Capable](/post/capable/) [of](/post/of/) [being](/post/being/) dissolved [or](/post/or/) suspended [in](/post/in/) [a](/post/a/) solvent; [capable](/post/capable/) [of](/post/of/) dissolving [easily](/post/easily/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [salt](/post/salt/) is [soluble](/post/soluble/) [in](/post/in/) [water](/post/water/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [substance](/post/substance/) [that](/post/that/) [can](/post/can/) [be](/post/be/) dissolved; [a](/post/a/) solute. [For](/post/for/) [example](/post/example/): "[Sugar](/post/sugar/) is [a](/post/a/) [soluble](/post/soluble/) [solid](/post/solid/)."
 
 ## Phrases
-- "[Soluble](/en/post/soluble/) substances" refers [to](/en/post/to/) materials [that](/en/post/that/) [can](/en/post/can/) [dissolve](/en/post/dissolve/) [in](/en/post/in/) [a](/en/post/a/) given [medium](/en/post/medium/).
-- "Insoluble compounds" are [those](/en/post/those/) [that](/en/post/that/) [do](/en/post/do/) [not](/en/post/not/) [dissolve](/en/post/dissolve/) [easily](/en/post/easily/).
-- "[A](/en/post/a/) [soluble](/en/post/soluble/) [compound](/en/post/compound/) forms [a](/en/post/a/) [solution](/en/post/solution/)" [when](/en/post/when/) [it](/en/post/it/) dissolves [completely](/en/post/completely/).
+- "[Soluble](/post/soluble/) substances" refers [to](/post/to/) materials [that](/post/that/) [can](/post/can/) [dissolve](/post/dissolve/) [in](/post/in/) [a](/post/a/) given [medium](/post/medium/).
+- "Insoluble compounds" are [those](/post/those/) [that](/post/that/) [do](/post/do/) [not](/post/not/) [dissolve](/post/dissolve/) [easily](/post/easily/).
+- "[A](/post/a/) [soluble](/post/soluble/) [compound](/post/compound/) forms [a](/post/a/) [solution](/post/solution/)" [when](/post/when/) [it](/post/it/) dissolves [completely](/post/completely/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [soluble](/en/post/soluble/) [dye](/en/post/dye/) mixed [easily](/en/post/easily/) [with](/en/post/with/) [the](/en/post/the/) [water](/en/post/water/) [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) vibrant [color](/en/post/color/)."
-- **[Noun](/en/post/noun/)**: "[Many](/en/post/many/) vitamins are [soluble](/en/post/soluble/) [in](/en/post/in/) fat, [while](/en/post/while/) others are [soluble](/en/post/soluble/) [in](/en/post/in/) [water](/en/post/water/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [soluble](/post/soluble/) [dye](/post/dye/) mixed [easily](/post/easily/) [with](/post/with/) [the](/post/the/) [water](/post/water/) [to](/post/to/) [form](/post/form/) [a](/post/a/) vibrant [color](/post/color/)."
+- **[Noun](/post/noun/)**: "[Many](/post/many/) vitamins are [soluble](/post/soluble/) [in](/post/in/) fat, [while](/post/while/) others are [soluble](/post/soluble/) [in](/post/in/) [water](/post/water/)."
 
 ## Synonyms
 - Dissolvable
-- Hygroscopic (referring [to](/en/post/to/) substances [that](/en/post/that/) [absorb](/en/post/absorb/) [moisture](/en/post/moisture/))
-- Miscible ([able](/en/post/able/) [to](/en/post/to/) [mix](/en/post/mix/) [without](/en/post/without/) [separation](/en/post/separation/))
+- Hygroscopic (referring [to](/post/to/) substances [that](/post/that/) [absorb](/post/absorb/) [moisture](/post/moisture/))
+- Miscible ([able](/post/able/) [to](/post/to/) [mix](/post/mix/) [without](/post/without/) [separation](/post/separation/))
 - Solvent-friendly
-- Water-soluble (specifically referring [to](/en/post/to/) solubility [in](/en/post/in/) [water](/en/post/water/))
+- Water-soluble (specifically referring [to](/post/to/) solubility [in](/post/in/) [water](/post/water/))
 
 ## Antonyms
 - Insoluble
 - Non-dissolvable
 - Inert
-- Immiscible ([unable](/en/post/unable/) [to](/en/post/to/) [mix](/en/post/mix/))
+- Immiscible ([unable](/post/unable/) [to](/post/to/) [mix](/post/mix/))

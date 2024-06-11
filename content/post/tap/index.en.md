@@ -7,42 +7,42 @@ description = 'n.塞子；龙头 vt.开发'
 keywords = ['ai words', 'tap']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tæp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [device](/en/post/device/)**: [A](/en/post/a/) [lever](/en/post/lever/) [or](/en/post/or/) [handle](/en/post/handle/) [that](/en/post/that/), [when](/en/post/when/) turned, opens [or](/en/post/or/) controls [a](/en/post/a/) faucet, valve, [or](/en/post/or/) [similar](/en/post/similar/) mechanism. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) plumber fixed [the](/en/post/the/) leaky [tap](/en/post/tap/) [in](/en/post/in/) [the](/en/post/the/) [sink](/en/post/sink/)."
-- **[Turn](/en/post/turn/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) pressing [or](/en/post/or/) rotating [the](/en/post/the/) [handle](/en/post/handle/) [to](/en/post/to/) [control](/en/post/control/) [water](/en/post/water/) [flow](/en/post/flow/). [For](/en/post/for/) [example](/en/post/example/): "I gave [the](/en/post/the/) [tap](/en/post/tap/) [a](/en/post/a/) [quick](/en/post/quick/) [turn](/en/post/turn/) [to](/en/post/to/) [fill](/en/post/fill/) [the](/en/post/the/) [glass](/en/post/glass/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [device](/post/device/)**: [A](/post/a/) [lever](/post/lever/) [or](/post/or/) [handle](/post/handle/) [that](/post/that/), [when](/post/when/) turned, opens [or](/post/or/) controls [a](/post/a/) faucet, valve, [or](/post/or/) [similar](/post/similar/) mechanism. [For](/post/for/) [example](/post/example/): "[The](/post/the/) plumber fixed [the](/post/the/) leaky [tap](/post/tap/) [in](/post/in/) [the](/post/the/) [sink](/post/sink/)."
+- **[Turn](/post/turn/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) pressing [or](/post/or/) rotating [the](/post/the/) [handle](/post/handle/) [to](/post/to/) [control](/post/control/) [water](/post/water/) [flow](/post/flow/). [For](/post/for/) [example](/post/example/): "I gave [the](/post/the/) [tap](/post/tap/) [a](/post/a/) [quick](/post/quick/) [turn](/post/turn/) [to](/post/to/) [fill](/post/fill/) [the](/post/the/) [glass](/post/glass/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [operate](/en/post/operate/)**: [To](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [tap](/en/post/tap/) [to](/en/post/to/) [control](/en/post/control/) [the](/en/post/the/) [flow](/en/post/flow/) [of](/en/post/of/) [liquid](/en/post/liquid/), typically [water](/en/post/water/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) tapped [the](/en/post/the/) [water](/en/post/water/) [to](/en/post/to/) rinse [her](/en/post/her/) hands."
-- **[To](/en/post/to/) [access](/en/post/access/)**: [To](/en/post/to/) [gain](/en/post/gain/) [entry](/en/post/entry/) [or](/en/post/or/) [information](/en/post/information/) [through](/en/post/through/) [a](/en/post/a/) [computer](/en/post/computer/) interface [or](/en/post/or/) online [service](/en/post/service/). [For](/en/post/for/) [example](/en/post/example/): "I tapped [into](/en/post/into/) [the](/en/post/the/) company's database [to](/en/post/to/) [check](/en/post/check/) [the](/en/post/the/) sales figures."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [operate](/post/operate/)**: [To](/post/to/) [use](/post/use/) [a](/post/a/) [tap](/post/tap/) [to](/post/to/) [control](/post/control/) [the](/post/the/) [flow](/post/flow/) [of](/post/of/) [liquid](/post/liquid/), typically [water](/post/water/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) tapped [the](/post/the/) [water](/post/water/) [to](/post/to/) rinse [her](/post/her/) hands."
+- **[To](/post/to/) [access](/post/access/)**: [To](/post/to/) [gain](/post/gain/) [entry](/post/entry/) [or](/post/or/) [information](/post/information/) [through](/post/through/) [a](/post/a/) [computer](/post/computer/) interface [or](/post/or/) online [service](/post/service/). [For](/post/for/) [example](/post/example/): "I tapped [into](/post/into/) [the](/post/the/) company's database [to](/post/to/) [check](/post/check/) [the](/post/the/) sales figures."
 
-### Transitive [verb](/en/post/verb/)
-- **[To](/en/post/to/) [communicate](/en/post/communicate/)**: [To](/en/post/to/) [convey](/en/post/convey/) [information](/en/post/information/) [or](/en/post/or/) instructions [by](/en/post/by/) tapping [a](/en/post/a/) [code](/en/post/code/), [signal](/en/post/signal/), [or](/en/post/or/) [rhythm](/en/post/rhythm/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) tapped [out](/en/post/out/) Morse [code](/en/post/code/) [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/) [to](/en/post/to/) [send](/en/post/send/) [a](/en/post/a/) [message](/en/post/message/)."
+### Transitive [verb](/post/verb/)
+- **[To](/post/to/) [communicate](/post/communicate/)**: [To](/post/to/) [convey](/post/convey/) [information](/post/information/) [or](/post/or/) instructions [by](/post/by/) tapping [a](/post/a/) [code](/post/code/), [signal](/post/signal/), [or](/post/or/) [rhythm](/post/rhythm/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) tapped [out](/post/out/) Morse [code](/post/code/) [on](/post/on/) [the](/post/the/) [table](/post/table/) [to](/post/to/) [send](/post/send/) [a](/post/a/) [message](/post/message/)."
 
 ### Interjection
-- **[To](/en/post/to/) [express](/en/post/express/) impatience**: [To](/en/post/to/) [urge](/en/post/urge/) [someone](/en/post/someone/) [to](/en/post/to/) [move](/en/post/move/) faster [or](/en/post/or/) [make](/en/post/make/) [a](/en/post/a/) [decision](/en/post/decision/). [For](/en/post/for/) [example](/en/post/example/): "[Tap](/en/post/tap/), [tap](/en/post/tap/), [tap](/en/post/tap/)! [Hurry](/en/post/hurry/) [up](/en/post/up/), we're running [late](/en/post/late/)."
+- **[To](/post/to/) [express](/post/express/) impatience**: [To](/post/to/) [urge](/post/urge/) [someone](/post/someone/) [to](/post/to/) [move](/post/move/) faster [or](/post/or/) [make](/post/make/) [a](/post/a/) [decision](/post/decision/). [For](/post/for/) [example](/post/example/): "[Tap](/post/tap/), [tap](/post/tap/), [tap](/post/tap/)! [Hurry](/post/hurry/) [up](/post/up/), we're running [late](/post/late/)."
 
 ## Phrases
-- "[Turn](/en/post/turn/) [off](/en/post/off/) [the](/en/post/the/) [tap](/en/post/tap/)" [means](/en/post/means/) [to](/en/post/to/) [stop](/en/post/stop/) [the](/en/post/the/) [flow](/en/post/flow/) [of](/en/post/of/) [liquid](/en/post/liquid/) [from](/en/post/from/) [a](/en/post/a/) faucet.
-- "[Under](/en/post/under/) [the](/en/post/the/) [tap](/en/post/tap/)" refers [to](/en/post/to/) [a](/en/post/a/) [source](/en/post/source/) [of](/en/post/of/) [water](/en/post/water/) [or](/en/post/or/) [information](/en/post/information/) [easily](/en/post/easily/) accessible.
-- "[Tap](/en/post/tap/) [dance](/en/post/dance/)" is [a](/en/post/a/) [style](/en/post/style/) [of](/en/post/of/) [dance](/en/post/dance/) characterized [by](/en/post/by/) footwork performed [while](/en/post/while/) tapping shoes.
+- "[Turn](/post/turn/) [off](/post/off/) [the](/post/the/) [tap](/post/tap/)" [means](/post/means/) [to](/post/to/) [stop](/post/stop/) [the](/post/the/) [flow](/post/flow/) [of](/post/of/) [liquid](/post/liquid/) [from](/post/from/) [a](/post/a/) faucet.
+- "[Under](/post/under/) [the](/post/the/) [tap](/post/tap/)" refers [to](/post/to/) [a](/post/a/) [source](/post/source/) [of](/post/of/) [water](/post/water/) [or](/post/or/) [information](/post/information/) [easily](/post/easily/) accessible.
+- "[Tap](/post/tap/) [dance](/post/dance/)" is [a](/post/a/) [style](/post/style/) [of](/post/of/) [dance](/post/dance/) characterized [by](/post/by/) footwork performed [while](/post/while/) tapping shoes.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) plumber installed [a](/en/post/a/) [new](/en/post/new/) [sink](/en/post/sink/) [with](/en/post/with/) [a](/en/post/a/) sleek chrome [tap](/en/post/tap/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) turned [the](/en/post/the/) [tap](/en/post/tap/) [off](/en/post/off/) [after](/en/post/after/) washing [her](/en/post/her/) [face](/en/post/face/)."
-- **Transitive [verb](/en/post/verb/)**: "[He](/en/post/he/) tapped [his](/en/post/his/) [foot](/en/post/foot/) impatiently [while](/en/post/while/) waiting [for](/en/post/for/) [a](/en/post/a/) [response](/en/post/response/)."
-- **Interjection**: "[Tap](/en/post/tap/), [tap](/en/post/tap/), [tap](/en/post/tap/)! It's [time](/en/post/time/) [for](/en/post/for/) [class](/en/post/class/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) plumber installed [a](/post/a/) [new](/post/new/) [sink](/post/sink/) [with](/post/with/) [a](/post/a/) sleek chrome [tap](/post/tap/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) turned [the](/post/the/) [tap](/post/tap/) [off](/post/off/) [after](/post/after/) washing [her](/post/her/) [face](/post/face/)."
+- **Transitive [verb](/post/verb/)**: "[He](/post/he/) tapped [his](/post/his/) [foot](/post/foot/) impatiently [while](/post/while/) waiting [for](/post/for/) [a](/post/a/) [response](/post/response/)."
+- **Interjection**: "[Tap](/post/tap/), [tap](/post/tap/), [tap](/post/tap/)! It's [time](/post/time/) [for](/post/for/) [class](/post/class/)."
 
 ## Synonyms
 - Faucet
-- [Lever](/en/post/lever/)
+- [Lever](/post/lever/)
 - Valve
-- [Handle](/en/post/handle/)
-- [Switch](/en/post/switch/)
-- [Connect](/en/post/connect/)
-- [Access](/en/post/access/)
-- [Signal](/en/post/signal/)
-- Morse [code](/en/post/code/) indicator
+- [Handle](/post/handle/)
+- [Switch](/post/switch/)
+- [Connect](/post/connect/)
+- [Access](/post/access/)
+- [Signal](/post/signal/)
+- Morse [code](/post/code/) indicator

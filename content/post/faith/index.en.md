@@ -7,36 +7,36 @@ description = '[feiθ] n.信任，信心；信仰'
 keywords = ['ai words', 'faith']
 +++
 
-## [Word](/en/post/word/): [Faith](/en/post/faith/)
+## [Word](/post/word/): [Faith](/post/faith/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /feɪθ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [strong](/en/post/strong/) [belief](/en/post/belief/) [in](/en/post/in/) [something](/en/post/something/) [without](/en/post/without/) [proof](/en/post/proof/); [trust](/en/post/trust/) [or](/en/post/or/) [confidence](/en/post/confidence/) [in](/en/post/in/) [a](/en/post/a/) [person](/en/post/person/), [idea](/en/post/idea/), [or](/en/post/or/) [thing](/en/post/thing/). [It](/en/post/it/) [often](/en/post/often/) refers [to](/en/post/to/) [religious](/en/post/religious/) beliefs [but](/en/post/but/) [can](/en/post/can/) [also](/en/post/also/) [apply](/en/post/apply/) [to](/en/post/to/) secular contexts [such](/en/post/such/) [as](/en/post/as/) [trust](/en/post/trust/) [in](/en/post/in/) [a](/en/post/a/) [relationship](/en/post/relationship/) [or](/en/post/or/) [a](/en/post/a/) [system](/en/post/system/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has an unwavering [faith](/en/post/faith/) [in](/en/post/in/) God." "[His](/en/post/his/) [faith](/en/post/faith/) [in](/en/post/in/) [the](/en/post/the/) [justice](/en/post/justice/) [system](/en/post/system/) was restored [after](/en/post/after/) [the](/en/post/the/) [trial](/en/post/trial/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [strong](/post/strong/) [belief](/post/belief/) [in](/post/in/) [something](/post/something/) [without](/post/without/) [proof](/post/proof/); [trust](/post/trust/) [or](/post/or/) [confidence](/post/confidence/) [in](/post/in/) [a](/post/a/) [person](/post/person/), [idea](/post/idea/), [or](/post/or/) [thing](/post/thing/). [It](/post/it/) [often](/post/often/) refers [to](/post/to/) [religious](/post/religious/) beliefs [but](/post/but/) [can](/post/can/) [also](/post/also/) [apply](/post/apply/) [to](/post/to/) secular contexts [such](/post/such/) [as](/post/as/) [trust](/post/trust/) [in](/post/in/) [a](/post/a/) [relationship](/post/relationship/) [or](/post/or/) [a](/post/a/) [system](/post/system/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has an unwavering [faith](/post/faith/) [in](/post/in/) God." "[His](/post/his/) [faith](/post/faith/) [in](/post/in/) [the](/post/the/) [justice](/post/justice/) [system](/post/system/) was restored [after](/post/after/) [the](/post/the/) [trial](/post/trial/)."
   
-  - **[Noun](/en/post/noun/) (figurative)**: [Loyalty](/en/post/loyalty/), allegiance, [or](/en/post/or/) commitment, [especially](/en/post/especially/) [when](/en/post/when/) it's steadfast [despite](/en/post/despite/) challenges. [Example](/en/post/example/): "[He](/en/post/he/) stayed [true](/en/post/true/) [to](/en/post/to/) [his](/en/post/his/) [faith](/en/post/faith/) [in](/en/post/in/) [the](/en/post/the/) [team](/en/post/team/) [even](/en/post/even/) [during](/en/post/during/) [their](/en/post/their/) losing streak."
+  - **[Noun](/post/noun/) (figurative)**: [Loyalty](/post/loyalty/), allegiance, [or](/post/or/) commitment, [especially](/post/especially/) [when](/post/when/) it's steadfast [despite](/post/despite/) challenges. [Example](/post/example/): "[He](/post/he/) stayed [true](/post/true/) [to](/post/to/) [his](/post/his/) [faith](/post/faith/) [in](/post/in/) [the](/post/the/) [team](/post/team/) [even](/post/even/) [during](/post/during/) [their](/post/their/) losing streak."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [the](/en/post/the/) [faith](/en/post/faith/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) one's [loyalty](/en/post/loyalty/), optimism, [or](/en/post/or/) [belief](/en/post/belief/) [in](/en/post/in/) [something](/en/post/something/) [despite](/en/post/despite/) difficulties.
-- "[Leap](/en/post/leap/) [of](/en/post/of/) [faith](/en/post/faith/)" describes taking [a](/en/post/a/) [risk](/en/post/risk/) based [on](/en/post/on/) [trust](/en/post/trust/) [rather](/en/post/rather/) [than](/en/post/than/) [certainty](/en/post/certainty/) [or](/en/post/or/) [evidence](/en/post/evidence/).
-- "[Faith](/en/post/faith/) healer" refers [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) claims [to](/en/post/to/) [cure](/en/post/cure/) [illness](/en/post/illness/) [through](/en/post/through/) [spiritual](/en/post/spiritual/) [means](/en/post/means/) [rather](/en/post/rather/) [than](/en/post/than/) [medical](/en/post/medical/) [treatment](/en/post/treatment/).
+- "[Keep](/post/keep/) [the](/post/the/) [faith](/post/faith/)" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) one's [loyalty](/post/loyalty/), optimism, [or](/post/or/) [belief](/post/belief/) [in](/post/in/) [something](/post/something/) [despite](/post/despite/) difficulties.
+- "[Leap](/post/leap/) [of](/post/of/) [faith](/post/faith/)" describes taking [a](/post/a/) [risk](/post/risk/) based [on](/post/on/) [trust](/post/trust/) [rather](/post/rather/) [than](/post/than/) [certainty](/post/certainty/) [or](/post/or/) [evidence](/post/evidence/).
+- "[Faith](/post/faith/) healer" refers [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) claims [to](/post/to/) [cure](/post/cure/) [illness](/post/illness/) [through](/post/through/) [spiritual](/post/spiritual/) [means](/post/means/) [rather](/post/rather/) [than](/post/than/) [medical](/post/medical/) [treatment](/post/treatment/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([religious](/en/post/religious/) context)**: "[Her](/en/post/her/) [faith](/en/post/faith/) gives [her](/en/post/her/) [strength](/en/post/strength/) [during](/en/post/during/) [difficult](/en/post/difficult/) times."
-- **[Noun](/en/post/noun/) (secular context)**: "[The](/en/post/the/) employees had [complete](/en/post/complete/) [faith](/en/post/faith/) [in](/en/post/in/) [their](/en/post/their/) [new](/en/post/new/) manager's [leadership](/en/post/leadership/) abilities."
-- **Figurative [use](/en/post/use/)**: "Taking [up](/en/post/up/) [this](/en/post/this/) [job](/en/post/job/) [offer](/en/post/offer/) required [a](/en/post/a/) [leap](/en/post/leap/) [of](/en/post/of/) [faith](/en/post/faith/), [but](/en/post/but/) [it](/en/post/it/) [ultimately](/en/post/ultimately/) proved [successful](/en/post/successful/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([religious](/post/religious/) context)**: "[Her](/post/her/) [faith](/post/faith/) gives [her](/post/her/) [strength](/post/strength/) [during](/post/during/) [difficult](/post/difficult/) times."
+- **[Noun](/post/noun/) (secular context)**: "[The](/post/the/) employees had [complete](/post/complete/) [faith](/post/faith/) [in](/post/in/) [their](/post/their/) [new](/post/new/) manager's [leadership](/post/leadership/) abilities."
+- **Figurative [use](/post/use/)**: "Taking [up](/post/up/) [this](/post/this/) [job](/post/job/) [offer](/post/offer/) required [a](/post/a/) [leap](/post/leap/) [of](/post/of/) [faith](/post/faith/), [but](/post/but/) [it](/post/it/) [ultimately](/post/ultimately/) proved [successful](/post/successful/)."
 
 ## Synonyms
-- [Belief](/en/post/belief/)
-- [Trust](/en/post/trust/)
-- [Confidence](/en/post/confidence/)
+- [Belief](/post/belief/)
+- [Trust](/post/trust/)
+- [Confidence](/post/confidence/)
 - Conviction
 - Allegiance
 - Commitment
 - Devotion
-- [Loyalty](/en/post/loyalty/)
-- [Hope](/en/post/hope/)
+- [Loyalty](/post/loyalty/)
+- [Hope](/post/hope/)
 - Creed
 - Doctrine
-- [Religion](/en/post/religion/)
+- [Religion](/post/religion/)

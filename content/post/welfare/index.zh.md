@@ -11,23 +11,23 @@ keywords = ['ai words', 'welfare']
 /wɛlˈfɛr/
 
 ## 释义
-- **名词 (n)**: 1. 福利，福利事业；善事。例如: "[The](/post/the/) [company](/post/company/) provides [good](/post/good/) [welfare](/post/welfare/) [for](/post/for/) [its](/post/its/) employees."
-   2. 幸福，安康。例如: "[The](/post/the/) [main](/post/main/) [goal](/post/goal/) [of](/post/of/) [the](/post/the/) [government](/post/government/) is [to](/post/to/) [improve](/post/improve/) [the](/post/the/) [welfare](/post/welfare/) [of](/post/of/) [its](/post/its/) citizens."
+- **名词 (n)**: 1. 福利，福利事业；善事。例如: "[The](/zh/post/the/) [company](/zh/post/company/) provides [good](/zh/post/good/) [welfare](/zh/post/welfare/) [for](/zh/post/for/) [its](/zh/post/its/) employees."
+   2. 幸福，安康。例如: "[The](/zh/post/the/) [main](/zh/post/main/) [goal](/zh/post/goal/) [of](/zh/post/of/) [the](/zh/post/the/) [government](/zh/post/government/) is [to](/zh/post/to/) [improve](/zh/post/improve/) [the](/zh/post/the/) [welfare](/zh/post/welfare/) [of](/zh/post/of/) [its](/zh/post/its/) citizens."
 
-- **形容词 (adj)**: 有关福利的，福利的。例如: "[welfare](/post/welfare/) programs"（福利计划）
+- **形容词 (adj)**: 有关福利的，福利的。例如: "[welfare](/zh/post/welfare/) programs"（福利计划）
 
 ## 短语
-- "[welfare](/post/welfare/) [state](/post/state/)" 指提供广泛社会福利服务的国家体制。
-- "[child](/post/child/) [welfare](/post/welfare/)" 关注儿童福祉的政策和服务。
-- "[welfare](/post/welfare/) [reform](/post/reform/)" 福利制度改革
+- "[welfare](/zh/post/welfare/) [state](/zh/post/state/)" 指提供广泛社会福利服务的国家体制。
+- "[child](/zh/post/child/) [welfare](/zh/post/welfare/)" 关注儿童福祉的政策和服务。
+- "[welfare](/zh/post/welfare/) [reform](/zh/post/reform/)" 福利制度改革
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) aims [to](/post/to/) enhance [social](/post/social/) [welfare](/post/welfare/) services [for](/post/for/) low-income families."
-- 形容词: "[There](/post/there/) are [various](/post/various/) [welfare](/post/welfare/) organizations working towards [animal](/post/animal/) [protection](/post/protection/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/) aims [to](/zh/post/to/) enhance [social](/zh/post/social/) [welfare](/zh/post/welfare/) services [for](/zh/post/for/) low-income families."
+- 形容词: "[There](/zh/post/there/) are [various](/zh/post/various/) [welfare](/zh/post/welfare/) organizations working towards [animal](/zh/post/animal/) [protection](/zh/post/protection/)."
 
 ## 同义词
 - Well-being
-- [Prosperity](/post/prosperity/)
-- [Happiness](/post/happiness/)
-- [Benefit](/post/benefit/)
-- [Advantage](/post/advantage/)
+- [Prosperity](/zh/post/prosperity/)
+- [Happiness](/zh/post/happiness/)
+- [Benefit](/zh/post/benefit/)
+- [Advantage](/zh/post/advantage/)

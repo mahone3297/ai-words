@@ -7,44 +7,44 @@ description = '[ˈpʌbli∫] vt.公布；发表；出版'
 keywords = ['ai words', 'publish']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈbliʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) making [something](/en/post/something/) [available](/en/post/available/) [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/), [especially](/en/post/especially/) [by](/en/post/by/) printing [or](/en/post/or/) publishing [a](/en/post/a/) [book](/en/post/book/), [newspaper](/en/post/newspaper/), [or](/en/post/or/) [article](/en/post/article/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) author's latest [novel](/en/post/novel/) was published [last](/en/post/last/) [month](/en/post/month/)."
-2. [The](/en/post/the/) [right](/en/post/right/) [or](/en/post/or/) [privilege](/en/post/privilege/) [to](/en/post/to/) [print](/en/post/print/) [or](/en/post/or/) [distribute](/en/post/distribute/) [a](/en/post/a/) [work](/en/post/work/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) holds [the](/en/post/the/) copyright [to](/en/post/to/) [her](/en/post/her/) paintings, giving [her](/en/post/her/) [the](/en/post/the/) [right](/en/post/right/) [to](/en/post/to/) [publish](/en/post/publish/) [them](/en/post/them/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) making [something](/post/something/) [available](/post/available/) [to](/post/to/) [the](/post/the/) [public](/post/public/), [especially](/post/especially/) [by](/post/by/) printing [or](/post/or/) publishing [a](/post/a/) [book](/post/book/), [newspaper](/post/newspaper/), [or](/post/or/) [article](/post/article/).
+   - [Example](/post/example/): "[The](/post/the/) author's latest [novel](/post/novel/) was published [last](/post/last/) [month](/post/month/)."
+2. [The](/post/the/) [right](/post/right/) [or](/post/or/) [privilege](/post/privilege/) [to](/post/to/) [print](/post/print/) [or](/post/or/) [distribute](/post/distribute/) [a](/post/a/) [work](/post/work/).
+   - [Example](/post/example/): "[She](/post/she/) holds [the](/post/the/) copyright [to](/post/to/) [her](/post/her/) paintings, giving [her](/post/her/) [the](/post/the/) [right](/post/right/) [to](/post/to/) [publish](/post/publish/) [them](/post/them/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [issue](/en/post/issue/) ([a](/en/post/a/) [book](/en/post/book/), periodical, [or](/en/post/or/) [other](/en/post/other/) [work](/en/post/work/)) [for](/en/post/for/) [general](/en/post/general/) [distribution](/en/post/distribution/) [or](/en/post/or/) [sale](/en/post/sale/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) publisher decided [to](/en/post/to/) [publish](/en/post/publish/) [the](/en/post/the/) [new](/en/post/new/) cookbook [after](/en/post/after/) [positive](/en/post/positive/) reviews."
-2. [To](/en/post/to/) [make](/en/post/make/) [content](/en/post/content/) accessible [or](/en/post/or/) [visible](/en/post/visible/) online.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) [recently](/en/post/recently/) published [their](/en/post/their/) [annual](/en/post/annual/) [report](/en/post/report/) [on](/en/post/on/) [their](/en/post/their/) website."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [issue](/post/issue/) ([a](/post/a/) [book](/post/book/), periodical, [or](/post/or/) [other](/post/other/) [work](/post/work/)) [for](/post/for/) [general](/post/general/) [distribution](/post/distribution/) [or](/post/or/) [sale](/post/sale/).
+   - [Example](/post/example/): "[The](/post/the/) publisher decided [to](/post/to/) [publish](/post/publish/) [the](/post/the/) [new](/post/new/) cookbook [after](/post/after/) [positive](/post/positive/) reviews."
+2. [To](/post/to/) [make](/post/make/) [content](/post/content/) accessible [or](/post/or/) [visible](/post/visible/) online.
+   - [Example](/post/example/): "[The](/post/the/) [company](/post/company/) [recently](/post/recently/) published [their](/post/their/) [annual](/post/annual/) [report](/post/report/) [on](/post/on/) [their](/post/their/) website."
 
 ## Phrases
-- "[Publish](/en/post/publish/) [a](/en/post/a/) [book](/en/post/book/)" [means](/en/post/means/) [to](/en/post/to/) [release](/en/post/release/) [a](/en/post/a/) written [work](/en/post/work/) [for](/en/post/for/) readers.
-- "Self-publish" refers [to](/en/post/to/) independently producing [and](/en/post/and/) distributing [a](/en/post/a/) [work](/en/post/work/).
-- "Publishing [house](/en/post/house/)" is [a](/en/post/a/) [company](/en/post/company/) [that](/en/post/that/) specializes [in](/en/post/in/) bringing [out](/en/post/out/) books, journals, [or](/en/post/or/) [other](/en/post/other/) printed materials.
+- "[Publish](/post/publish/) [a](/post/a/) [book](/post/book/)" [means](/post/means/) [to](/post/to/) [release](/post/release/) [a](/post/a/) written [work](/post/work/) [for](/post/for/) readers.
+- "Self-publish" refers [to](/post/to/) independently producing [and](/post/and/) distributing [a](/post/a/) [work](/post/work/).
+- "Publishing [house](/post/house/)" is [a](/post/a/) [company](/post/company/) [that](/post/that/) specializes [in](/post/in/) bringing [out](/post/out/) books, journals, [or](/post/or/) [other](/post/other/) printed materials.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) author's debut [novel](/en/post/novel/) was published [with](/en/post/with/) [a](/en/post/a/) prestigious publishing [house](/en/post/house/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [writing](/en/post/writing/) [the](/en/post/the/) thesis, [she](/en/post/she/) submitted [it](/en/post/it/) [to](/en/post/to/) [her](/en/post/her/) [university](/en/post/university/) [for](/en/post/for/) [publication](/en/post/publication/)."
-- **Verbal [Usage](/en/post/usage/)**: "[The](/en/post/the/) blog [post](/en/post/post/) was published [on](/en/post/on/) [the](/en/post/the/) company's [official](/en/post/official/) website [yesterday](/en/post/yesterday/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) author's debut [novel](/post/novel/) was published [with](/post/with/) [a](/post/a/) prestigious publishing [house](/post/house/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [writing](/post/writing/) [the](/post/the/) thesis, [she](/post/she/) submitted [it](/post/it/) [to](/post/to/) [her](/post/her/) [university](/post/university/) [for](/post/for/) [publication](/post/publication/)."
+- **Verbal [Usage](/post/usage/)**: "[The](/post/the/) blog [post](/post/post/) was published [on](/post/on/) [the](/post/the/) company's [official](/post/official/) website [yesterday](/post/yesterday/)."
 
 ## Synonyms
-- [Issue](/en/post/issue/)
-- [Release](/en/post/release/)
-- [Put](/en/post/put/) [out](/en/post/out/)
-- [Print](/en/post/print/)
-- [Distribute](/en/post/distribute/)
-- [Publish](/en/post/publish/) [content](/en/post/content/)
-- [Release](/en/post/release/) [content](/en/post/content/)
-- [Release](/en/post/release/) [a](/en/post/a/) [product](/en/post/product/)
+- [Issue](/post/issue/)
+- [Release](/post/release/)
+- [Put](/post/put/) [out](/post/out/)
+- [Print](/post/print/)
+- [Distribute](/post/distribute/)
+- [Publish](/post/publish/) [content](/post/content/)
+- [Release](/post/release/) [content](/post/content/)
+- [Release](/post/release/) [a](/post/a/) [product](/post/product/)
 
 ## Antonyms
-- [Conceal](/en/post/conceal/)
+- [Conceal](/post/conceal/)
 - Suppress
-- [Withdraw](/en/post/withdraw/)
+- [Withdraw](/post/withdraw/)
 - Censor

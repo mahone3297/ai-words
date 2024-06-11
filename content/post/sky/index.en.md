@@ -7,28 +7,28 @@ description = '[skai] n.天，天空'
 keywords = ['ai words', 'sky']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /skaɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [atmosphere](/en/post/atmosphere/) [or](/en/post/or/) [outer](/en/post/outer/) [space](/en/post/space/) surrounding [the](/en/post/the/) [Earth](/en/post/earth/), characterized [by](/en/post/by/) [air](/en/post/air/) [and](/en/post/and/) clouds; 2. [The](/en/post/the/) [region](/en/post/region/) [of](/en/post/of/) [the](/en/post/the/) [atmosphere](/en/post/atmosphere/) [visible](/en/post/visible/) [from](/en/post/from/) [the](/en/post/the/) [ground](/en/post/ground/), typically [with](/en/post/with/) [its](/en/post/its/) [blue](/en/post/blue/) [color](/en/post/color/) [during](/en/post/during/) [the](/en/post/the/) [day](/en/post/day/) [and](/en/post/and/) stars [at](/en/post/at/) [night](/en/post/night/); 3. [The](/en/post/the/) vault [of](/en/post/of/) [heaven](/en/post/heaven/), considered [as](/en/post/as/) [the](/en/post/the/) celestial expanse; 4. [A](/en/post/a/) [general](/en/post/general/) [or](/en/post/or/) [indefinite](/en/post/indefinite/) [area](/en/post/area/) [or](/en/post/or/) [direction](/en/post/direction/); 5. (slang) [A](/en/post/a/) person's [mood](/en/post/mood/) [or](/en/post/or/) disposition; 6. (figurative) [A](/en/post/a/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [atmosphere](/post/atmosphere/) [or](/post/or/) [outer](/post/outer/) [space](/post/space/) surrounding [the](/post/the/) [Earth](/post/earth/), characterized [by](/post/by/) [air](/post/air/) [and](/post/and/) clouds; 2. [The](/post/the/) [region](/post/region/) [of](/post/of/) [the](/post/the/) [atmosphere](/post/atmosphere/) [visible](/post/visible/) [from](/post/from/) [the](/post/the/) [ground](/post/ground/), typically [with](/post/with/) [its](/post/its/) [blue](/post/blue/) [color](/post/color/) [during](/post/during/) [the](/post/the/) [day](/post/day/) [and](/post/and/) stars [at](/post/at/) [night](/post/night/); 3. [The](/post/the/) vault [of](/post/of/) [heaven](/post/heaven/), considered [as](/post/as/) [the](/post/the/) celestial expanse; 4. [A](/post/a/) [general](/post/general/) [or](/post/or/) [indefinite](/post/indefinite/) [area](/post/area/) [or](/post/or/) [direction](/post/direction/); 5. (slang) [A](/post/a/) person's [mood](/post/mood/) [or](/post/or/) disposition; 6. (figurative) [A](/post/a/) [state](/post/state/) [or](/post/or/) [condition](/post/condition/).
 
-- **[Adjective](/en/post/adjective/)**: 1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [the](/en/post/the/) [sky](/en/post/sky/), [such](/en/post/such/) [as](/en/post/as/) [blue](/en/post/blue/) [or](/en/post/or/) [clear](/en/post/clear/).
+- **[Adjective](/post/adjective/)**: 1. [Characteristic](/post/characteristic/) [of](/post/of/) [the](/post/the/) [sky](/post/sky/), [such](/post/such/) [as](/post/as/) [blue](/post/blue/) [or](/post/or/) [clear](/post/clear/).
 
 ## Phrases
-- "[Under](/en/post/under/) [a](/en/post/a/) [clear](/en/post/clear/) [blue](/en/post/blue/) [sky](/en/post/sky/)" describes [a](/en/post/a/) [beautiful](/en/post/beautiful/) [day](/en/post/day/) [with](/en/post/with/) [no](/en/post/no/) clouds.
-- "[To](/en/post/to/) [gaze](/en/post/gaze/) [at](/en/post/at/) [the](/en/post/the/) [endless](/en/post/endless/) [sky](/en/post/sky/)" [means](/en/post/means/) [to](/en/post/to/) [look](/en/post/look/) [up](/en/post/up/) [at](/en/post/at/) [the](/en/post/the/) [sky](/en/post/sky/) [for](/en/post/for/) [a](/en/post/a/) [long](/en/post/long/) [time](/en/post/time/) [in](/en/post/in/) [wonder](/en/post/wonder/).
-- "Skydiving" is [the](/en/post/the/) [sport](/en/post/sport/) [of](/en/post/of/) jumping [from](/en/post/from/) an [aircraft](/en/post/aircraft/) [and](/en/post/and/) free-falling [before](/en/post/before/) deploying [a](/en/post/a/) parachute.
+- "[Under](/post/under/) [a](/post/a/) [clear](/post/clear/) [blue](/post/blue/) [sky](/post/sky/)" describes [a](/post/a/) [beautiful](/post/beautiful/) [day](/post/day/) [with](/post/with/) [no](/post/no/) clouds.
+- "[To](/post/to/) [gaze](/post/gaze/) [at](/post/at/) [the](/post/the/) [endless](/post/endless/) [sky](/post/sky/)" [means](/post/means/) [to](/post/to/) [look](/post/look/) [up](/post/up/) [at](/post/at/) [the](/post/the/) [sky](/post/sky/) [for](/post/for/) [a](/post/a/) [long](/post/long/) [time](/post/time/) [in](/post/in/) [wonder](/post/wonder/).
+- "Skydiving" is [the](/post/the/) [sport](/post/sport/) [of](/post/of/) jumping [from](/post/from/) an [aircraft](/post/aircraft/) [and](/post/and/) free-falling [before](/post/before/) deploying [a](/post/a/) parachute.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children watched [the](/en/post/the/) colorful balloons [float](/en/post/float/) higher [and](/en/post/and/) higher [into](/en/post/into/) [the](/en/post/the/) [sky](/en/post/sky/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sky](/en/post/sky/) was painted [with](/en/post/with/) hues [of](/en/post/of/) [pink](/en/post/pink/) [and](/en/post/and/) [orange](/en/post/orange/) [during](/en/post/during/) [the](/en/post/the/) [sunset](/en/post/sunset/)."
-- **[Adjective](/en/post/adjective/) (figurative)**: "[Her](/en/post/her/) [mood](/en/post/mood/) swings [could](/en/post/could/) [be](/en/post/be/) [as](/en/post/as/) unpredictable [as](/en/post/as/) [the](/en/post/the/) ever-changing [sky](/en/post/sky/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children watched [the](/post/the/) colorful balloons [float](/post/float/) higher [and](/post/and/) higher [into](/post/into/) [the](/post/the/) [sky](/post/sky/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sky](/post/sky/) was painted [with](/post/with/) hues [of](/post/of/) [pink](/post/pink/) [and](/post/and/) [orange](/post/orange/) [during](/post/during/) [the](/post/the/) [sunset](/post/sunset/)."
+- **[Adjective](/post/adjective/) (figurative)**: "[Her](/post/her/) [mood](/post/mood/) swings [could](/post/could/) [be](/post/be/) [as](/post/as/) unpredictable [as](/post/as/) [the](/post/the/) ever-changing [sky](/post/sky/)."
 
 ## Synonyms
-- [Atmosphere](/en/post/atmosphere/)
+- [Atmosphere](/post/atmosphere/)
 - Firmament
-- [Heaven](/en/post/heaven/)
+- [Heaven](/post/heaven/)
 - Firmament
 - Expanse
 - Heavens
@@ -37,9 +37,9 @@ keywords = ['ai words', 'sky']
 - Serene
 
 ## Antonyms
-- [Ground](/en/post/ground/)
-- [Earth](/en/post/earth/)
-- [Underground](/en/post/underground/)
-- [Below](/en/post/below/)
+- [Ground](/post/ground/)
+- [Earth](/post/earth/)
+- [Underground](/post/underground/)
+- [Below](/post/below/)
 - Dank
-- Overcast ([for](/en/post/for/) [the](/en/post/the/) [weather](/en/post/weather/))
+- Overcast ([for](/post/for/) [the](/post/the/) [weather](/post/weather/))

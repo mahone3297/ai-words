@@ -7,41 +7,41 @@ description = '[biˈtrei] vt.背叛；辜负；泄漏'
 keywords = ['ai words', 'betray']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈtreɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) betrayal is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) breaking [faith](/en/post/faith/) [or](/en/post/or/) [trust](/en/post/trust/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [significant](/en/post/significant/) [relationship](/en/post/relationship/) [or](/en/post/or/) commitment. [It](/en/post/it/) [can](/en/post/can/) [involve](/en/post/involve/) actions [that](/en/post/that/) [go](/en/post/go/) [against](/en/post/against/) one's promises [or](/en/post/or/) obligations.
+### [Noun](/post/noun/)
+[A](/post/a/) betrayal is [the](/post/the/) [act](/post/act/) [of](/post/of/) breaking [faith](/post/faith/) [or](/post/or/) [trust](/post/trust/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [significant](/post/significant/) [relationship](/post/relationship/) [or](/post/or/) commitment. [It](/post/it/) [can](/post/can/) [involve](/post/involve/) actions [that](/post/that/) [go](/post/go/) [against](/post/against/) one's promises [or](/post/or/) obligations.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [betray](/en/post/betray/) is [to](/en/post/to/) [cause](/en/post/cause/) [someone](/en/post/someone/) [to](/en/post/to/) [lose](/en/post/lose/) [trust](/en/post/trust/) [or](/en/post/or/) [confidence](/en/post/confidence/) [by](/en/post/by/) revealing secrets, failing [to](/en/post/to/) fulfill obligations, [or](/en/post/or/) acting [against](/en/post/against/) [their](/en/post/their/) interests. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [deceive](/en/post/deceive/) [or](/en/post/or/) forsake [someone](/en/post/someone/).
+### [Verb](/post/verb/)
+[To](/post/to/) [betray](/post/betray/) is [to](/post/to/) [cause](/post/cause/) [someone](/post/someone/) [to](/post/to/) [lose](/post/lose/) [trust](/post/trust/) [or](/post/or/) [confidence](/post/confidence/) [by](/post/by/) revealing secrets, failing [to](/post/to/) fulfill obligations, [or](/post/or/) acting [against](/post/against/) [their](/post/their/) interests. [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) [deceive](/post/deceive/) [or](/post/or/) forsake [someone](/post/someone/).
 
 ## Phrases
-- "Betraying [a](/en/post/a/) [secret](/en/post/secret/)"
-- "[Being](/en/post/being/) betrayed [by](/en/post/by/) [a](/en/post/a/) [friend](/en/post/friend/)"
-- "Betrayal [of](/en/post/of/) [trust](/en/post/trust/)"
+- "Betraying [a](/post/a/) [secret](/post/secret/)"
+- "[Being](/post/being/) betrayed [by](/post/by/) [a](/post/a/) [friend](/post/friend/)"
+- "Betrayal [of](/post/of/) [trust](/post/trust/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) employee's betrayal [of](/en/post/of/) [the](/en/post/the/) company's confidential [information](/en/post/information/) led [to](/en/post/to/) [severe](/en/post/severe/) consequences."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) couldn't [forgive](/en/post/forgive/) [her](/en/post/her/) [for](/en/post/for/) betraying [their](/en/post/their/) [marriage](/en/post/marriage/) vows."
-- **[Action](/en/post/action/)**: "[He](/en/post/he/) betrayed [his](/en/post/his/) [team](/en/post/team/) [by](/en/post/by/) sharing [their](/en/post/their/) strategies [with](/en/post/with/) [the](/en/post/the/) opposing [side](/en/post/side/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) employee's betrayal [of](/post/of/) [the](/post/the/) company's confidential [information](/post/information/) led [to](/post/to/) [severe](/post/severe/) consequences."
+- **[Verb](/post/verb/)**: "[He](/post/he/) couldn't [forgive](/post/forgive/) [her](/post/her/) [for](/post/for/) betraying [their](/post/their/) [marriage](/post/marriage/) vows."
+- **[Action](/post/action/)**: "[He](/post/he/) betrayed [his](/post/his/) [team](/post/team/) [by](/post/by/) sharing [their](/post/their/) strategies [with](/post/with/) [the](/post/the/) opposing [side](/post/side/)."
 
 ## Synonyms
-- [Desert](/en/post/desert/)
+- [Desert](/post/desert/)
 - Forsake
 - Renounce
-- [Abandon](/en/post/abandon/)
+- [Abandon](/post/abandon/)
 - Violate
 - Flip
-- [Defect](/en/post/defect/)
-- [Turn](/en/post/turn/) [against](/en/post/against/)
+- [Defect](/post/defect/)
+- [Turn](/post/turn/) [against](/post/against/)
 - Double-cross
 
 ## Antonyms
 - Honor
-- [Faithful](/en/post/faithful/)
-- [Loyal](/en/post/loyal/)
-- [Keep](/en/post/keep/) ([a](/en/post/a/) [promise](/en/post/promise/))
-- [Support](/en/post/support/)
+- [Faithful](/post/faithful/)
+- [Loyal](/post/loyal/)
+- [Keep](/post/keep/) ([a](/post/a/) [promise](/post/promise/))
+- [Support](/post/support/)
 - Uphold

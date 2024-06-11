@@ -11,20 +11,20 @@ keywords = ['ai words', 'intention']
 /ɪnˈtenʃən/
 
 ## 释义
-- **名词 (n)**: 意图，目的。例如: "[Her](/post/her/) [intention](/post/intention/) was [to](/post/to/) [help](/post/help/) [him](/post/him/) [succeed](/post/succeed/)."
-- **动词 (v)**: 打算，计划。例如: "I [intend](/post/intend/) [to](/post/to/) [finish](/post/finish/) [this](/post/this/) [project](/post/project/) [by](/post/by/) [tomorrow](/post/tomorrow/)."
+- **名词 (n)**: 意图，目的。例如: "[Her](/zh/post/her/) [intention](/zh/post/intention/) was [to](/zh/post/to/) [help](/zh/post/help/) [him](/zh/post/him/) [succeed](/zh/post/succeed/)."
+- **动词 (v)**: 打算，计划。例如: "I [intend](/zh/post/intend/) [to](/zh/post/to/) [finish](/zh/post/finish/) [this](/zh/post/this/) [project](/zh/post/project/) [by](/zh/post/by/) [tomorrow](/zh/post/tomorrow/)."
 
 ## 短语
-- "[Good](/post/good/) intentions" 好意，善意。例如: "[They](/post/they/) had [good](/post/good/) intentions [but](/post/but/) [their](/post/their/) actions caused [more](/post/more/) [harm](/post/harm/) [than](/post/than/) [good](/post/good/)."
-- "[With](/post/with/) [no](/post/no/) [ill](/post/ill/) [intention](/post/intention/)" 没有恶意。例如: "[He](/post/he/) approached [her](/post/her/) [with](/post/with/) [no](/post/no/) [ill](/post/ill/) [intention](/post/intention/)."
+- "[Good](/zh/post/good/) intentions" 好意，善意。例如: "[They](/zh/post/they/) had [good](/zh/post/good/) intentions [but](/zh/post/but/) [their](/zh/post/their/) actions caused [more](/zh/post/more/) [harm](/zh/post/harm/) [than](/zh/post/than/) [good](/zh/post/good/)."
+- "[With](/zh/post/with/) [no](/zh/post/no/) [ill](/zh/post/ill/) [intention](/zh/post/intention/)" 没有恶意。例如: "[He](/zh/post/he/) approached [her](/zh/post/her/) [with](/zh/post/with/) [no](/zh/post/no/) [ill](/zh/post/ill/) [intention](/zh/post/intention/)."
 
 ## 例句
-- 名词: "[His](/post/his/) [true](/post/true/) [intention](/post/intention/) [behind](/post/behind/) [the](/post/the/) [suggestion](/post/suggestion/) remained unclear."
-- 动词: "[She](/post/she/) intends [to](/post/to/) [study](/post/study/) [abroad](/post/abroad/) [next](/post/next/) [year](/post/year/)."
+- 名词: "[His](/zh/post/his/) [true](/zh/post/true/) [intention](/zh/post/intention/) [behind](/zh/post/behind/) [the](/zh/post/the/) [suggestion](/zh/post/suggestion/) remained unclear."
+- 动词: "[She](/zh/post/she/) intends [to](/zh/post/to/) [study](/zh/post/study/) [abroad](/zh/post/abroad/) [next](/zh/post/next/) [year](/zh/post/year/)."
 
 ## 同义词
-- [Aim](/post/aim/)
-- [Goal](/post/goal/)
-- [Purpose](/post/purpose/)
-- [Desire](/post/desire/)
-- [Objective](/post/objective/)
+- [Aim](/zh/post/aim/)
+- [Goal](/zh/post/goal/)
+- [Purpose](/zh/post/purpose/)
+- [Desire](/zh/post/desire/)
+- [Objective](/zh/post/objective/)

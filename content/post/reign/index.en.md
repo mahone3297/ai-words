@@ -7,41 +7,41 @@ description = '[rein] n.君主统治；支配'
 keywords = ['ai words', 'reign']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈeɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Reign](/en/post/reign/)**: 1. [The](/en/post/the/) [period](/en/post/period/) [during](/en/post/during/) [which](/en/post/which/) [a](/en/post/a/) monarch [or](/en/post/or/) [other](/en/post/other/) [ruler](/en/post/ruler/) holds [power](/en/post/power/), [especially](/en/post/especially/) [their](/en/post/their/) [rule](/en/post/rule/) [over](/en/post/over/) [a](/en/post/a/) [country](/en/post/country/) [or](/en/post/or/) [empire](/en/post/empire/). [Example](/en/post/example/): "[The](/en/post/the/) Tudor dynasty's [long](/en/post/long/) [reign](/en/post/reign/) ended [with](/en/post/with/) [Queen](/en/post/queen/) Elizabeth I's abdication."
-- 2. [A](/en/post/a/) [reign](/en/post/reign/) [of](/en/post/of/) [something](/en/post/something/) ([often](/en/post/often/) [weather](/en/post/weather/)): [a](/en/post/a/) [period](/en/post/period/) [when](/en/post/when/) [a](/en/post/a/) [particular](/en/post/particular/) [condition](/en/post/condition/) [or](/en/post/or/) [phenomenon](/en/post/phenomenon/) dominates, [often](/en/post/often/) [used](/en/post/used/) metaphorically. [Example](/en/post/example/): "[There](/en/post/there/) was [a](/en/post/a/) [long](/en/post/long/) [reign](/en/post/reign/) [of](/en/post/of/) [drought](/en/post/drought/) [in](/en/post/in/) [the](/en/post/the/) [region](/en/post/region/)."
+### [Noun](/post/noun/)
+- **[Reign](/post/reign/)**: 1. [The](/post/the/) [period](/post/period/) [during](/post/during/) [which](/post/which/) [a](/post/a/) monarch [or](/post/or/) [other](/post/other/) [ruler](/post/ruler/) holds [power](/post/power/), [especially](/post/especially/) [their](/post/their/) [rule](/post/rule/) [over](/post/over/) [a](/post/a/) [country](/post/country/) [or](/post/or/) [empire](/post/empire/). [Example](/post/example/): "[The](/post/the/) Tudor dynasty's [long](/post/long/) [reign](/post/reign/) ended [with](/post/with/) [Queen](/post/queen/) Elizabeth I's abdication."
+- 2. [A](/post/a/) [reign](/post/reign/) [of](/post/of/) [something](/post/something/) ([often](/post/often/) [weather](/post/weather/)): [a](/post/a/) [period](/post/period/) [when](/post/when/) [a](/post/a/) [particular](/post/particular/) [condition](/post/condition/) [or](/post/or/) [phenomenon](/post/phenomenon/) dominates, [often](/post/often/) [used](/post/used/) metaphorically. [Example](/post/example/): "[There](/post/there/) was [a](/post/a/) [long](/post/long/) [reign](/post/reign/) [of](/post/of/) [drought](/post/drought/) [in](/post/in/) [the](/post/the/) [region](/post/region/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [reign](/en/post/reign/)**: [To](/en/post/to/) [exercise](/en/post/exercise/) [power](/en/post/power/) [or](/en/post/or/) [rule](/en/post/rule/) [over](/en/post/over/) [a](/en/post/a/) [kingdom](/en/post/kingdom/), [empire](/en/post/empire/), [or](/en/post/or/) [area](/en/post/area/). [Example](/en/post/example/): "[The](/en/post/the/) [king](/en/post/king/) reigned [with](/en/post/with/) [wisdom](/en/post/wisdom/) [and](/en/post/and/) [justice](/en/post/justice/)."
-- (figurative) [To](/en/post/to/) [prevail](/en/post/prevail/) [or](/en/post/or/) dominate [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/) [or](/en/post/or/) [situation](/en/post/situation/). [Example](/en/post/example/): "[Technology](/en/post/technology/) has reigned [supreme](/en/post/supreme/) [in](/en/post/in/) [recent](/en/post/recent/) years."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [reign](/post/reign/)**: [To](/post/to/) [exercise](/post/exercise/) [power](/post/power/) [or](/post/or/) [rule](/post/rule/) [over](/post/over/) [a](/post/a/) [kingdom](/post/kingdom/), [empire](/post/empire/), [or](/post/or/) [area](/post/area/). [Example](/post/example/): "[The](/post/the/) [king](/post/king/) reigned [with](/post/with/) [wisdom](/post/wisdom/) [and](/post/and/) [justice](/post/justice/)."
+- (figurative) [To](/post/to/) [prevail](/post/prevail/) [or](/post/or/) dominate [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/) [or](/post/or/) [situation](/post/situation/). [Example](/post/example/): "[Technology](/post/technology/) has reigned [supreme](/post/supreme/) [in](/post/in/) [recent](/post/recent/) years."
 
 ## Phrases
-- "[Rule](/en/post/rule/) [a](/en/post/a/) [kingdom](/en/post/kingdom/)" [or](/en/post/or/) "[rule](/en/post/rule/) [the](/en/post/the/) roost"
-- "[During](/en/post/during/) [his](/en/post/his/)/[her](/en/post/her/) [reign](/en/post/reign/)"
-- "[A](/en/post/a/) [golden](/en/post/golden/)/[reign](/en/post/reign/) [of](/en/post/of/) [peace](/en/post/peace/)/[prosperity](/en/post/prosperity/)"
+- "[Rule](/post/rule/) [a](/post/a/) [kingdom](/post/kingdom/)" [or](/post/or/) "[rule](/post/rule/) [the](/post/the/) roost"
+- "[During](/post/during/) [his](/post/his/)/[her](/post/her/) [reign](/post/reign/)"
+- "[A](/post/a/) [golden](/post/golden/)/[reign](/post/reign/) [of](/post/of/) [peace](/post/peace/)/[prosperity](/post/prosperity/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) Roman [Empire](/en/post/empire/) experienced [several](/en/post/several/) [distinct](/en/post/distinct/) reigns [under](/en/post/under/) [various](/en/post/various/) emperors."
-- **[Verb](/en/post/verb/)**: "[Queen](/en/post/queen/) Victoria's [reign](/en/post/reign/) lasted [for](/en/post/for/) [over](/en/post/over/) 60 years."
-- **Metaphorical**: "[His](/en/post/his/) ideas [have](/en/post/have/) reigned [supreme](/en/post/supreme/) [in](/en/post/in/) [the](/en/post/the/) [literary](/en/post/literary/) [world](/en/post/world/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) Roman [Empire](/post/empire/) experienced [several](/post/several/) [distinct](/post/distinct/) reigns [under](/post/under/) [various](/post/various/) emperors."
+- **[Verb](/post/verb/)**: "[Queen](/post/queen/) Victoria's [reign](/post/reign/) lasted [for](/post/for/) [over](/post/over/) 60 years."
+- **Metaphorical**: "[His](/post/his/) ideas [have](/post/have/) reigned [supreme](/post/supreme/) [in](/post/in/) [the](/post/the/) [literary](/post/literary/) [world](/post/world/)."
 
 ## Synonyms
-- [Rule](/en/post/rule/)
+- [Rule](/post/rule/)
 - Dominate
-- [Prevail](/en/post/prevail/)
-- [Reign](/en/post/reign/) [supreme](/en/post/supreme/)
+- [Prevail](/post/prevail/)
+- [Reign](/post/reign/) [supreme](/post/supreme/)
 - Sovereignty
 - Monarchy
 - Supremacy
 - Regency
 
 ## Antonyms
-- [Rebel](/en/post/rebel/)
+- [Rebel](/post/rebel/)
 - Oust
 - Overthrow
-- [Challenge](/en/post/challenge/)
-- [End](/en/post/end/) ([of](/en/post/of/) [a](/en/post/a/) [reign](/en/post/reign/))
+- [Challenge](/post/challenge/)
+- [End](/post/end/) ([of](/post/of/) [a](/post/a/) [reign](/post/reign/))

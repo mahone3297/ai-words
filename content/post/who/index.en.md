@@ -7,30 +7,30 @@ description = '[huː] pron.谁；…的人'
 keywords = ['ai words', 'who']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /hoʊ/
 
 ## Definitions
-- **[Pronoun](/en/post/pronoun/)**: Referring [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/), typically [unknown](/en/post/unknown/) [or](/en/post/or/) unspecified. [For](/en/post/for/) [example](/en/post/example/): "[Who](/en/post/who/) [left](/en/post/left/) [the](/en/post/the/) [door](/en/post/door/) [open](/en/post/open/)?"
-- **Determiner**: [Used](/en/post/used/) [before](/en/post/before/) [a](/en/post/a/) [noun](/en/post/noun/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [people](/en/post/people/). [For](/en/post/for/) [example](/en/post/example/): "[Who](/en/post/who/) are [you](/en/post/you/) looking [for](/en/post/for/)?"
-- **[Relative](/en/post/relative/) [Pronoun](/en/post/pronoun/)**: Introduces [a](/en/post/a/) clause [that](/en/post/that/) provides [additional](/en/post/additional/) [information](/en/post/information/) [about](/en/post/about/) [a](/en/post/a/) [noun](/en/post/noun/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [person](/en/post/person/) [who](/en/post/who/) won [the](/en/post/the/) [prize](/en/post/prize/) was [very](/en/post/very/) surprised."
+- **[Pronoun](/post/pronoun/)**: Referring [to](/post/to/) [a](/post/a/) [person](/post/person/), typically [unknown](/post/unknown/) [or](/post/or/) unspecified. [For](/post/for/) [example](/post/example/): "[Who](/post/who/) [left](/post/left/) [the](/post/the/) [door](/post/door/) [open](/post/open/)?"
+- **Determiner**: [Used](/post/used/) [before](/post/before/) [a](/post/a/) [noun](/post/noun/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [people](/post/people/). [For](/post/for/) [example](/post/example/): "[Who](/post/who/) are [you](/post/you/) looking [for](/post/for/)?"
+- **[Relative](/post/relative/) [Pronoun](/post/pronoun/)**: Introduces [a](/post/a/) clause [that](/post/that/) provides [additional](/post/additional/) [information](/post/information/) [about](/post/about/) [a](/post/a/) [noun](/post/noun/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [person](/post/person/) [who](/post/who/) won [the](/post/the/) [prize](/post/prize/) was [very](/post/very/) surprised."
 
 ## Phrases
-- "Who's [that](/en/post/that/)?" is [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) identification [or](/en/post/or/) [introduce](/en/post/introduce/) [someone](/en/post/someone/).
-- "[Whoever](/en/post/whoever/) said [that](/en/post/that/)..." implies uncertainty [about](/en/post/about/) [the](/en/post/the/) [speaker](/en/post/speaker/).
-- "She's [the](/en/post/the/) [one](/en/post/one/) [who](/en/post/who/)..." indicates [the](/en/post/the/) [subject](/en/post/subject/) [responsible](/en/post/responsible/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [action](/en/post/action/).
+- "Who's [that](/post/that/)?" is [a](/post/a/) [way](/post/way/) [to](/post/to/) [ask](/post/ask/) [for](/post/for/) identification [or](/post/or/) [introduce](/post/introduce/) [someone](/post/someone/).
+- "[Whoever](/post/whoever/) said [that](/post/that/)..." implies uncertainty [about](/post/about/) [the](/post/the/) [speaker](/post/speaker/).
+- "She's [the](/post/the/) [one](/post/one/) [who](/post/who/)..." indicates [the](/post/the/) [subject](/post/subject/) [responsible](/post/responsible/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [action](/post/action/).
 
-## [Example](/en/post/example/) Sentences
-- **[Pronoun](/en/post/pronoun/)**: "I don't [know](/en/post/know/) [who](/en/post/who/) took [my](/en/post/my/) [book](/en/post/book/); [can](/en/post/can/) [you](/en/post/you/) [help](/en/post/help/) [me](/en/post/me/) [find](/en/post/find/) [out](/en/post/out/)?"
-- **Determiner**: "[Who](/en/post/who/) are [the](/en/post/the/) [new](/en/post/new/) employees [who](/en/post/who/) [just](/en/post/just/) joined [the](/en/post/the/) [team](/en/post/team/)?"
-- **[Relative](/en/post/relative/) [Pronoun](/en/post/pronoun/)**: "[The](/en/post/the/) [girl](/en/post/girl/) [who](/en/post/who/) won [the](/en/post/the/) [race](/en/post/race/) is [from](/en/post/from/) [a](/en/post/a/) [local](/en/post/local/) sports [club](/en/post/club/)."
+## [Example](/post/example/) Sentences
+- **[Pronoun](/post/pronoun/)**: "I don't [know](/post/know/) [who](/post/who/) took [my](/post/my/) [book](/post/book/); [can](/post/can/) [you](/post/you/) [help](/post/help/) [me](/post/me/) [find](/post/find/) [out](/post/out/)?"
+- **Determiner**: "[Who](/post/who/) are [the](/post/the/) [new](/post/new/) employees [who](/post/who/) [just](/post/just/) joined [the](/post/the/) [team](/post/team/)?"
+- **[Relative](/post/relative/) [Pronoun](/post/pronoun/)**: "[The](/post/the/) [girl](/post/girl/) [who](/post/who/) won [the](/post/the/) [race](/post/race/) is [from](/post/from/) [a](/post/a/) [local](/post/local/) sports [club](/post/club/)."
 
 ## Synonyms
-- [Anyone](/en/post/anyone/)
-- [Somebody](/en/post/somebody/)
-- [Someone](/en/post/someone/)
-- [That](/en/post/that/) [person](/en/post/person/)
-- [The](/en/post/the/) [one](/en/post/one/)
-- [They](/en/post/they/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- [Anyone](/post/anyone/)
+- [Somebody](/post/somebody/)
+- [Someone](/post/someone/)
+- [That](/post/that/) [person](/post/person/)
+- [The](/post/the/) [one](/post/one/)
+- [They](/post/they/) ([in](/post/in/) [some](/post/some/) contexts)
 
-## [Note](/en/post/note/): "[Who](/en/post/who/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [question](/en/post/question/) [word](/en/post/word/), asking [for](/en/post/for/) [the](/en/post/the/) identity [of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/), [but](/en/post/but/) [the](/en/post/the/) examples [provided](/en/post/provided/) [focus](/en/post/focus/) [on](/en/post/on/) [its](/en/post/its/) [usage](/en/post/usage/) [as](/en/post/as/) [a](/en/post/a/) [pronoun](/en/post/pronoun/).
+## [Note](/post/note/): "[Who](/post/who/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [question](/post/question/) [word](/post/word/), asking [for](/post/for/) [the](/post/the/) identity [of](/post/of/) [a](/post/a/) [person](/post/person/), [but](/post/but/) [the](/post/the/) examples [provided](/post/provided/) [focus](/post/focus/) [on](/post/on/) [its](/post/its/) [usage](/post/usage/) [as](/post/as/) [a](/post/a/) [pronoun](/post/pronoun/).

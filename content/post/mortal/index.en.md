@@ -7,29 +7,29 @@ description = '[ˈmɔːtl] a.终有一死的；致死的'
 keywords = ['ai words', 'mortal']
 +++
 
-# [Mortal](/en/post/mortal/)
+# [Mortal](/post/mortal/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɔːrtl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [human](/en/post/human/) beings [as](/en/post/as/) having [limited](/en/post/limited/) [duration](/en/post/duration/) [of](/en/post/of/) [life](/en/post/life/); [subject](/en/post/subject/) [to](/en/post/to/) [death](/en/post/death/). _Example:_ "[Mortal](/en/post/mortal/) beings are destined [to](/en/post/to/) [age](/en/post/age/) [and](/en/post/and/) [eventually](/en/post/eventually/) [pass](/en/post/pass/) [away](/en/post/away/)."
-  - _Also [used](/en/post/used/) metaphorically_ [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [with](/en/post/with/) [deadly](/en/post/deadly/) consequences [or](/en/post/or/) [capable](/en/post/capable/) [of](/en/post/of/) causing [death](/en/post/death/): "[The](/en/post/the/) venom [of](/en/post/of/) [this](/en/post/this/) [snake](/en/post/snake/) is [highly](/en/post/highly/) [mortal](/en/post/mortal/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [human](/post/human/) beings [as](/post/as/) having [limited](/post/limited/) [duration](/post/duration/) [of](/post/of/) [life](/post/life/); [subject](/post/subject/) [to](/post/to/) [death](/post/death/). _Example:_ "[Mortal](/post/mortal/) beings are destined [to](/post/to/) [age](/post/age/) [and](/post/and/) [eventually](/post/eventually/) [pass](/post/pass/) [away](/post/away/)."
+  - _Also [used](/post/used/) metaphorically_ [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [with](/post/with/) [deadly](/post/deadly/) consequences [or](/post/or/) [capable](/post/capable/) [of](/post/of/) causing [death](/post/death/): "[The](/post/the/) venom [of](/post/of/) [this](/post/this/) [snake](/post/snake/) is [highly](/post/highly/) [mortal](/post/mortal/)."
   
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [human](/en/post/human/) [being](/en/post/being/) considered [as](/en/post/as/) [subject](/en/post/subject/) [to](/en/post/to/) [death](/en/post/death/); [a](/en/post/a/) [person](/en/post/person/). _Example:_ "[All](/en/post/all/) mortals [must](/en/post/must/) [face](/en/post/face/) [their](/en/post/their/) mortality someday."
+- **[Noun](/post/noun/)**: [A](/post/a/) [human](/post/human/) [being](/post/being/) considered [as](/post/as/) [subject](/post/subject/) [to](/post/to/) [death](/post/death/); [a](/post/a/) [person](/post/person/). _Example:_ "[All](/post/all/) mortals [must](/post/must/) [face](/post/face/) [their](/post/their/) mortality someday."
 
 ### Phrases
-- "[Mortal](/en/post/mortal/) [enemy](/en/post/enemy/)": An archenemy [or](/en/post/or/) [one](/en/post/one/) [with](/en/post/with/) [whom](/en/post/whom/) [one](/en/post/one/) has irreconcilable differences, [often](/en/post/often/) suggesting [a](/en/post/a/) [conflict](/en/post/conflict/) [that](/en/post/that/) [could](/en/post/could/) [lead](/en/post/lead/) [to](/en/post/to/) [death](/en/post/death/).
-- "[Mortal](/en/post/mortal/) [sin](/en/post/sin/)": [In](/en/post/in/) [religious](/en/post/religious/) contexts, [it](/en/post/it/) refers [to](/en/post/to/) [a](/en/post/a/) gravely sinful [act](/en/post/act/) [that](/en/post/that/) [can](/en/post/can/) [lead](/en/post/lead/) [to](/en/post/to/) damnation [if](/en/post/if/) [not](/en/post/not/) absolved [before](/en/post/before/) [death](/en/post/death/).
-- "[For](/en/post/for/) [all](/en/post/all/) intents [and](/en/post/and/) purposes": [This](/en/post/this/) idiomatic [expression](/en/post/expression/) suggests [something](/en/post/something/) is effectively [true](/en/post/true/), [even](/en/post/even/) [though](/en/post/though/) [it](/en/post/it/) [may](/en/post/may/) [not](/en/post/not/) [be](/en/post/be/) literally [so](/en/post/so/); originally [from](/en/post/from/) [the](/en/post/the/) fuller [form](/en/post/form/) "[for](/en/post/for/) [all](/en/post/all/) intents, constructions, [and](/en/post/and/) purposes," emphasizing [the](/en/post/the/) permanence [of](/en/post/of/) [something](/en/post/something/) [despite](/en/post/despite/) [its](/en/post/its/) [potential](/en/post/potential/) impermanence [due](/en/post/due/) [to](/en/post/to/) [human](/en/post/human/) mortality.
+- "[Mortal](/post/mortal/) [enemy](/post/enemy/)": An archenemy [or](/post/or/) [one](/post/one/) [with](/post/with/) [whom](/post/whom/) [one](/post/one/) has irreconcilable differences, [often](/post/often/) suggesting [a](/post/a/) [conflict](/post/conflict/) [that](/post/that/) [could](/post/could/) [lead](/post/lead/) [to](/post/to/) [death](/post/death/).
+- "[Mortal](/post/mortal/) [sin](/post/sin/)": [In](/post/in/) [religious](/post/religious/) contexts, [it](/post/it/) refers [to](/post/to/) [a](/post/a/) gravely sinful [act](/post/act/) [that](/post/that/) [can](/post/can/) [lead](/post/lead/) [to](/post/to/) damnation [if](/post/if/) [not](/post/not/) absolved [before](/post/before/) [death](/post/death/).
+- "[For](/post/for/) [all](/post/all/) intents [and](/post/and/) purposes": [This](/post/this/) idiomatic [expression](/post/expression/) suggests [something](/post/something/) is effectively [true](/post/true/), [even](/post/even/) [though](/post/though/) [it](/post/it/) [may](/post/may/) [not](/post/not/) [be](/post/be/) literally [so](/post/so/); originally [from](/post/from/) [the](/post/the/) fuller [form](/post/form/) "[for](/post/for/) [all](/post/all/) intents, constructions, [and](/post/and/) purposes," emphasizing [the](/post/the/) permanence [of](/post/of/) [something](/post/something/) [despite](/post/despite/) [its](/post/its/) [potential](/post/potential/) impermanence [due](/post/due/) [to](/post/to/) [human](/post/human/) mortality.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "Fearing [his](/en/post/his/) [own](/en/post/own/) mortality, [he](/en/post/he/) began [to](/en/post/to/) [appreciate](/en/post/appreciate/) [every](/en/post/every/) [moment](/en/post/moment/) [of](/en/post/of/) [life](/en/post/life/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) gods looked [down](/en/post/down/) [upon](/en/post/upon/) [the](/en/post/the/) mortals [with](/en/post/with/) [a](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) [envy](/en/post/envy/) [and](/en/post/and/) [pity](/en/post/pity/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "Fearing [his](/post/his/) [own](/post/own/) mortality, [he](/post/he/) began [to](/post/to/) [appreciate](/post/appreciate/) [every](/post/every/) [moment](/post/moment/) [of](/post/of/) [life](/post/life/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) gods looked [down](/post/down/) [upon](/post/upon/) [the](/post/the/) mortals [with](/post/with/) [a](/post/a/) [mixture](/post/mixture/) [of](/post/of/) [envy](/post/envy/) [and](/post/and/) [pity](/post/pity/)."
 
 ## Synonyms
-- [Human](/en/post/human/) ([as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/))
-- Temporal ([adjective](/en/post/adjective/), referring [to](/en/post/to/) [human](/en/post/human/) [life](/en/post/life/))
-- Earthly ([adjective](/en/post/adjective/), referring [to](/en/post/to/) humans [or](/en/post/or/) things pertaining [to](/en/post/to/) [human](/en/post/human/) [existence](/en/post/existence/))
-- [Deadly](/en/post/deadly/) ([adjective](/en/post/adjective/), [when](/en/post/when/) referring [to](/en/post/to/) [something](/en/post/something/) [capable](/en/post/capable/) [of](/en/post/of/) causing [death](/en/post/death/))
-- Finite ([adjective](/en/post/adjective/), describing [the](/en/post/the/) [limited](/en/post/limited/) lifespan [of](/en/post/of/) humans)
+- [Human](/post/human/) ([as](/post/as/) [a](/post/a/) [noun](/post/noun/))
+- Temporal ([adjective](/post/adjective/), referring [to](/post/to/) [human](/post/human/) [life](/post/life/))
+- Earthly ([adjective](/post/adjective/), referring [to](/post/to/) humans [or](/post/or/) things pertaining [to](/post/to/) [human](/post/human/) [existence](/post/existence/))
+- [Deadly](/post/deadly/) ([adjective](/post/adjective/), [when](/post/when/) referring [to](/post/to/) [something](/post/something/) [capable](/post/capable/) [of](/post/of/) causing [death](/post/death/))
+- Finite ([adjective](/post/adjective/), describing [the](/post/the/) [limited](/post/limited/) lifespan [of](/post/of/) humans)

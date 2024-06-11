@@ -11,15 +11,15 @@ keywords = ['ai words', 'peninsula']
 /pəˈnɪnsjʊlə/
 
 ## 释义
-- **名词**: 伸入海中的大片陆地，三面环水，通常与大陆相连。例如: "[The](/post/the/) Florida [peninsula](/post/peninsula/) is known [for](/post/for/) [its](/post/its/) [sunny](/post/sunny/) beaches."
+- **名词**: 伸入海中的大片陆地，三面环水，通常与大陆相连。例如: "[The](/zh/post/the/) Florida [peninsula](/zh/post/peninsula/) is known [for](/zh/post/for/) [its](/zh/post/its/) [sunny](/zh/post/sunny/) beaches."
 
 ## 短语
 - "Peninsular Malaysia" 指的是马来西亚半岛。
-- "[Tip](/post/tip/) [of](/post/of/) [the](/post/the/) [peninsula](/post/peninsula/)" 指的是半岛的尖端。
+- "[Tip](/zh/post/tip/) [of](/zh/post/of/) [the](/zh/post/the/) [peninsula](/zh/post/peninsula/)" 指的是半岛的尖端。
 
 ## 例句
-- "[The](/post/the/) southernmost [point](/post/point/) [of](/post/of/) [the](/post/the/) Italian [peninsula](/post/peninsula/) is [home](/post/home/) [to](/post/to/) [beautiful](/post/beautiful/) coastal towns."
-- "[We](/post/we/) drove [along](/post/along/) [the](/post/the/) picturesque [coast](/post/coast/) [of](/post/of/) [the](/post/the/) [peninsula](/post/peninsula/), enjoying [the](/post/the/) breathtaking views."
+- "[The](/zh/post/the/) southernmost [point](/zh/post/point/) [of](/zh/post/of/) [the](/zh/post/the/) Italian [peninsula](/zh/post/peninsula/) is [home](/zh/post/home/) [to](/zh/post/to/) [beautiful](/zh/post/beautiful/) coastal towns."
+- "[We](/zh/post/we/) drove [along](/zh/post/along/) [the](/zh/post/the/) picturesque [coast](/zh/post/coast/) [of](/zh/post/of/) [the](/zh/post/the/) [peninsula](/zh/post/peninsula/), enjoying [the](/zh/post/the/) breathtaking views."
 
 ## 同义词
 - Landmass

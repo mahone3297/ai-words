@@ -11,22 +11,22 @@ keywords = ['ai words', 'casual']
 /ˈkæʒuəl/
 
 ## 释义
-- **形容词**: 随便的，非正式的。例如: "[She](/post/she/) was wearing [a](/post/a/) [casual](/post/casual/) [dress](/post/dress/) [for](/post/for/) [the](/post/the/) [weekend](/post/weekend/)."
-- **名词**: 临时工，兼职工作者。例如: "He's been working [as](/post/as/) [a](/post/a/) [casual](/post/casual/) [at](/post/at/) [the](/post/the/) warehouse."
-- **副词**: 偶然地，不经意地。例如: "[We](/post/we/) met [quite](/post/quite/) casually [at](/post/at/) [the](/post/the/) [coffee](/post/coffee/) [shop](/post/shop/)."
+- **形容词**: 随便的，非正式的。例如: "[She](/zh/post/she/) was wearing [a](/zh/post/a/) [casual](/zh/post/casual/) [dress](/zh/post/dress/) [for](/zh/post/for/) [the](/zh/post/the/) [weekend](/zh/post/weekend/)."
+- **名词**: 临时工，兼职工作者。例如: "He's been working [as](/zh/post/as/) [a](/zh/post/a/) [casual](/zh/post/casual/) [at](/zh/post/at/) [the](/zh/post/the/) warehouse."
+- **副词**: 偶然地，不经意地。例如: "[We](/zh/post/we/) met [quite](/zh/post/quite/) casually [at](/zh/post/at/) [the](/zh/post/the/) [coffee](/zh/post/coffee/) [shop](/zh/post/shop/)."
 
 ## 短语
-- "[casual](/post/casual/) [wear](/post/wear/)" 意为休闲装。
-- "[casual](/post/casual/) [encounter](/post/encounter/)" 指偶然的相遇或邂逅。
+- "[casual](/zh/post/casual/) [wear](/zh/post/wear/)" 意为休闲装。
+- "[casual](/zh/post/casual/) [encounter](/zh/post/encounter/)" 指偶然的相遇或邂逅。
 
 ## 例句
-- 形容词: "[He](/post/he/) prefers [to](/post/to/) [keep](/post/keep/) [his](/post/his/) [style](/post/style/) [casual](/post/casual/) [and](/post/and/) [comfortable](/post/comfortable/)."
-- 名词: "[The](/post/the/) [company](/post/company/) hires [casual](/post/casual/) workers [during](/post/during/) [peak](/post/peak/) [season](/post/season/)."
-- 副词: "I [saw](/post/saw/) an [old](/post/old/) [friend](/post/friend/) [from](/post/from/) [school](/post/school/) [quite](/post/quite/) casually [while](/post/while/) running errands."
+- 形容词: "[He](/zh/post/he/) prefers [to](/zh/post/to/) [keep](/zh/post/keep/) [his](/zh/post/his/) [style](/zh/post/style/) [casual](/zh/post/casual/) [and](/zh/post/and/) [comfortable](/zh/post/comfortable/)."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) hires [casual](/zh/post/casual/) workers [during](/zh/post/during/) [peak](/zh/post/peak/) [season](/zh/post/season/)."
+- 副词: "I [saw](/zh/post/saw/) an [old](/zh/post/old/) [friend](/zh/post/friend/) [from](/zh/post/from/) [school](/zh/post/school/) [quite](/zh/post/quite/) casually [while](/zh/post/while/) running errands."
 
 ## 同义词
 - Informal
 - Relaxed
 - Unofficial
-- [Spontaneous](/post/spontaneous/)
+- [Spontaneous](/zh/post/spontaneous/)
 - Unplanned

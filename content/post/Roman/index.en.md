@@ -7,37 +7,37 @@ description = '[ˈrəumən] n.古罗马人 a.罗马的'
 keywords = ['ai words', 'Roman']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəʊˈmæn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
+### [Noun](/post/noun/)
 - **Roman**: 
-   - [A](/en/post/a/) [citizen](/en/post/citizen/) [of](/en/post/of/) [ancient](/en/post/ancient/) Rome, [especially](/en/post/especially/) [one](/en/post/one/) [from](/en/post/from/) [the](/en/post/the/) [period](/en/post/period/) [between](/en/post/between/) [the](/en/post/the/) founding [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) [in](/en/post/in/) 753 BC [and](/en/post/and/) [its](/en/post/its/) [fall](/en/post/fall/) [in](/en/post/in/) 476 [AD](/en/post/ad/).
-   - [The](/en/post/the/) [capital](/en/post/capital/) [city](/en/post/city/) [of](/en/post/of/) Italy, known [for](/en/post/for/) [its](/en/post/its/) [rich](/en/post/rich/) [history](/en/post/history/), [architecture](/en/post/architecture/), [and](/en/post/and/) cultural [influence](/en/post/influence/).
-   - Refers [to](/en/post/to/) [the](/en/post/the/) Roman [Empire](/en/post/empire/) [or](/en/post/or/) [its](/en/post/its/) [civilization](/en/post/civilization/), [which](/en/post/which/) had [a](/en/post/a/) [significant](/en/post/significant/) [impact](/en/post/impact/) [on](/en/post/on/) [Western](/en/post/western/) [civilization](/en/post/civilization/).
-   - [In](/en/post/in/) [music](/en/post/music/) [and](/en/post/and/) [dance](/en/post/dance/), [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [style](/en/post/style/) [or](/en/post/or/) genre associated [with](/en/post/with/) [ancient](/en/post/ancient/) Rome.
+   - [A](/post/a/) [citizen](/post/citizen/) [of](/post/of/) [ancient](/post/ancient/) Rome, [especially](/post/especially/) [one](/post/one/) [from](/post/from/) [the](/post/the/) [period](/post/period/) [between](/post/between/) [the](/post/the/) founding [of](/post/of/) [the](/post/the/) [city](/post/city/) [in](/post/in/) 753 BC [and](/post/and/) [its](/post/its/) [fall](/post/fall/) [in](/post/in/) 476 [AD](/post/ad/).
+   - [The](/post/the/) [capital](/post/capital/) [city](/post/city/) [of](/post/of/) Italy, known [for](/post/for/) [its](/post/its/) [rich](/post/rich/) [history](/post/history/), [architecture](/post/architecture/), [and](/post/and/) cultural [influence](/post/influence/).
+   - Refers [to](/post/to/) [the](/post/the/) Roman [Empire](/post/empire/) [or](/post/or/) [its](/post/its/) [civilization](/post/civilization/), [which](/post/which/) had [a](/post/a/) [significant](/post/significant/) [impact](/post/impact/) [on](/post/on/) [Western](/post/western/) [civilization](/post/civilization/).
+   - [In](/post/in/) [music](/post/music/) [and](/post/and/) [dance](/post/dance/), [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [style](/post/style/) [or](/post/or/) genre associated [with](/post/with/) [ancient](/post/ancient/) Rome.
 
-### [Verb](/en/post/verb/)
-- ([Rarely](/en/post/rarely/) [used](/en/post/used/)) [To](/en/post/to/) [perform](/en/post/perform/) Roman actions [or](/en/post/or/) [adopt](/en/post/adopt/) Roman customs.
+### [Verb](/post/verb/)
+- ([Rarely](/post/rarely/) [used](/post/used/)) [To](/post/to/) [perform](/post/perform/) Roman actions [or](/post/or/) [adopt](/post/adopt/) Roman customs.
 
 ## Phrases
-- "[To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) Roman [fashion](/en/post/fashion/)" implies adhering [to](/en/post/to/) Roman [style](/en/post/style/) [or](/en/post/or/) [design](/en/post/design/).
-- "[Ancient](/en/post/ancient/) Roman [architecture](/en/post/architecture/)" refers [to](/en/post/to/) [the](/en/post/the/) distinctive [style](/en/post/style/) [of](/en/post/of/) buildings [from](/en/post/from/) [the](/en/post/the/) Roman [era](/en/post/era/).
-- "[Speak](/en/post/speak/) [like](/en/post/like/) [a](/en/post/a/) Roman" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [confident](/en/post/confident/) [or](/en/post/or/) commanding [manner](/en/post/manner/).
+- "[To](/post/to/) [be](/post/be/) [in](/post/in/) Roman [fashion](/post/fashion/)" implies adhering [to](/post/to/) Roman [style](/post/style/) [or](/post/or/) [design](/post/design/).
+- "[Ancient](/post/ancient/) Roman [architecture](/post/architecture/)" refers [to](/post/to/) [the](/post/the/) distinctive [style](/post/style/) [of](/post/of/) buildings [from](/post/from/) [the](/post/the/) Roman [era](/post/era/).
+- "[Speak](/post/speak/) [like](/post/like/) [a](/post/a/) Roman" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [confident](/post/confident/) [or](/post/or/) commanding [manner](/post/manner/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) Roman Forum was [once](/en/post/once/) [the](/en/post/the/) center [of](/en/post/of/) [political](/en/post/political/) [and](/en/post/and/) [social](/en/post/social/) [life](/en/post/life/) [in](/en/post/in/) [ancient](/en/post/ancient/) Rome."
-- **[Rare](/en/post/rare/) [Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [live](/en/post/live/) [like](/en/post/like/) [a](/en/post/a/) Roman [during](/en/post/during/) [her](/en/post/her/) [study](/en/post/study/) [abroad](/en/post/abroad/) [in](/en/post/in/) Italy."
-- **Referring [to](/en/post/to/) [Architecture](/en/post/architecture/)**: "[The](/en/post/the/) [grand](/en/post/grand/) arches [of](/en/post/of/) [the](/en/post/the/) Colosseum are [a](/en/post/a/) testament [to](/en/post/to/) Roman [engineering](/en/post/engineering/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) Roman Forum was [once](/post/once/) [the](/post/the/) center [of](/post/of/) [political](/post/political/) [and](/post/and/) [social](/post/social/) [life](/post/life/) [in](/post/in/) [ancient](/post/ancient/) Rome."
+- **[Rare](/post/rare/) [Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [live](/post/live/) [like](/post/like/) [a](/post/a/) Roman [during](/post/during/) [her](/post/her/) [study](/post/study/) [abroad](/post/abroad/) [in](/post/in/) Italy."
+- **Referring [to](/post/to/) [Architecture](/post/architecture/)**: "[The](/post/the/) [grand](/post/grand/) arches [of](/post/of/) [the](/post/the/) Colosseum are [a](/post/a/) testament [to](/post/to/) Roman [engineering](/post/engineering/)."
 
 ## Synonyms
 - Latin
 - Imperial
-- Roman [Empire](/en/post/empire/)
-- [Classical](/en/post/classical/)
+- Roman [Empire](/post/empire/)
+- [Classical](/post/classical/)
 - Roman-style
 
 ## Antonyms
-- Greek (referring [to](/en/post/to/) [the](/en/post/the/) [rival](/en/post/rival/) [civilization](/en/post/civilization/))
-- Barbarian (referring [to](/en/post/to/) non-Roman cultures)
+- Greek (referring [to](/post/to/) [the](/post/the/) [rival](/post/rival/) [civilization](/post/civilization/))
+- Barbarian (referring [to](/post/to/) non-Roman cultures)

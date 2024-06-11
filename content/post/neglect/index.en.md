@@ -7,21 +7,21 @@ description = '[niˈglekt] vt.忽视，忽略；疏忽'
 keywords = ['ai words', 'neglect']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnɛɡlɛkt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [action](/en/post/action/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [not](/en/post/not/) giving [enough](/en/post/enough/) [care](/en/post/care/), [attention](/en/post/attention/), [or](/en/post/or/) [effort](/en/post/effort/) [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) needs [it](/en/post/it/); disregard, omission, [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [care](/en/post/care/). [Example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was [a](/en/post/a/) [victim](/en/post/victim/) [of](/en/post/of/) [neglect](/en/post/neglect/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [fail](/en/post/fail/) [to](/en/post/to/) [give](/en/post/give/) [proper](/en/post/proper/) [care](/en/post/care/), [attention](/en/post/attention/), [or](/en/post/or/) [consideration](/en/post/consideration/) [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [Example](/en/post/example/): "[She](/en/post/she/) neglected [her](/en/post/her/) [health](/en/post/health/) [while](/en/post/while/) focusing [on](/en/post/on/) [her](/en/post/her/) [career](/en/post/career/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [action](/post/action/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [not](/post/not/) giving [enough](/post/enough/) [care](/post/care/), [attention](/post/attention/), [or](/post/or/) [effort](/post/effort/) [to](/post/to/) [something](/post/something/) [that](/post/that/) needs [it](/post/it/); disregard, omission, [or](/post/or/) [lack](/post/lack/) [of](/post/of/) [care](/post/care/). [Example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was [a](/post/a/) [victim](/post/victim/) [of](/post/of/) [neglect](/post/neglect/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [fail](/post/fail/) [to](/post/to/) [give](/post/give/) [proper](/post/proper/) [care](/post/care/), [attention](/post/attention/), [or](/post/or/) [consideration](/post/consideration/) [to](/post/to/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [Example](/post/example/): "[She](/post/she/) neglected [her](/post/her/) [health](/post/health/) [while](/post/while/) focusing [on](/post/on/) [her](/post/her/) [career](/post/career/)."
 
 ### Phrases
-- "[Child](/en/post/child/) [neglect](/en/post/neglect/)" refers [to](/en/post/to/) [the](/en/post/the/) [failure](/en/post/failure/) [of](/en/post/of/) [a](/en/post/a/) [parent](/en/post/parent/) [or](/en/post/or/) guardian [to](/en/post/to/) [provide](/en/post/provide/) [adequate](/en/post/adequate/) [care](/en/post/care/) [for](/en/post/for/) [a](/en/post/a/) child's [physical](/en/post/physical/), [emotional](/en/post/emotional/), [medical](/en/post/medical/), [or](/en/post/or/) educational needs.
-- "[Neglect](/en/post/neglect/) [of](/en/post/of/) [duty](/en/post/duty/)" implies [the](/en/post/the/) [failure](/en/post/failure/) [to](/en/post/to/) fulfill one's responsibilities [or](/en/post/or/) obligations.
-- "Willful [neglect](/en/post/neglect/)" suggests [intentional](/en/post/intentional/) disregard [or](/en/post/or/) indifference.
+- "[Child](/post/child/) [neglect](/post/neglect/)" refers [to](/post/to/) [the](/post/the/) [failure](/post/failure/) [of](/post/of/) [a](/post/a/) [parent](/post/parent/) [or](/post/or/) guardian [to](/post/to/) [provide](/post/provide/) [adequate](/post/adequate/) [care](/post/care/) [for](/post/for/) [a](/post/a/) child's [physical](/post/physical/), [emotional](/post/emotional/), [medical](/post/medical/), [or](/post/or/) educational needs.
+- "[Neglect](/post/neglect/) [of](/post/of/) [duty](/post/duty/)" implies [the](/post/the/) [failure](/post/failure/) [to](/post/to/) fulfill one's responsibilities [or](/post/or/) obligations.
+- "Willful [neglect](/post/neglect/)" suggests [intentional](/post/intentional/) disregard [or](/post/or/) indifference.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Years [of](/en/post/of/) [neglect](/en/post/neglect/) had [left](/en/post/left/) [the](/en/post/the/) [old](/en/post/old/) mansion [in](/en/post/in/) ruins."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) neglected [to](/en/post/to/) [water](/en/post/water/) [the](/en/post/the/) plants, [which](/en/post/which/) led [to](/en/post/to/) [their](/en/post/their/) withering."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Years [of](/post/of/) [neglect](/post/neglect/) had [left](/post/left/) [the](/post/the/) [old](/post/old/) mansion [in](/post/in/) ruins."
+- **[Verb](/post/verb/)**: "[He](/post/he/) neglected [to](/post/to/) [water](/post/water/) [the](/post/the/) plants, [which](/post/which/) led [to](/post/to/) [their](/post/their/) withering."
 
 ## Synonyms
 - Disregard

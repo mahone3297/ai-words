@@ -11,20 +11,20 @@ keywords = ['ai words', 'distinguish']
 /dɪˈstɪŋɡwɪʃ/
 
 ## 释义
-- **动词**: 区分；辨别。例如: "[She](/post/she/) [can](/post/can/) [easily](/post/easily/) [distinguish](/post/distinguish/) [between](/post/between/) [right](/post/right/) [and](/post/and/) [wrong](/post/wrong/)."
-- **名词**: （尤指细微的）区别，差异。例如: "[There](/post/there/) is [a](/post/a/) subtle [distinguish](/post/distinguish/) [between](/post/between/) [these](/post/these/) [two](/post/two/) concepts."
+- **动词**: 区分；辨别。例如: "[She](/zh/post/she/) [can](/zh/post/can/) [easily](/zh/post/easily/) [distinguish](/zh/post/distinguish/) [between](/zh/post/between/) [right](/zh/post/right/) [and](/zh/post/and/) [wrong](/zh/post/wrong/)."
+- **名词**: （尤指细微的）区别，差异。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) subtle [distinguish](/zh/post/distinguish/) [between](/zh/post/between/) [these](/zh/post/these/) [two](/zh/post/two/) concepts."
 
 ## 短语
-- "[Distinguish](/post/distinguish/) [oneself](/post/oneself/)" 表现出众，使自己突出。
-- "[Distinguish](/post/distinguish/) [between](/post/between/)" 区分，辨别两者或多者之间的不同。例如: "It's [important](/post/important/) [to](/post/to/) [distinguish](/post/distinguish/) [between](/post/between/) facts [and](/post/and/) opinions."
+- "[Distinguish](/zh/post/distinguish/) [oneself](/zh/post/oneself/)" 表现出众，使自己突出。
+- "[Distinguish](/zh/post/distinguish/) [between](/zh/post/between/)" 区分，辨别两者或多者之间的不同。例如: "It's [important](/zh/post/important/) [to](/zh/post/to/) [distinguish](/zh/post/distinguish/) [between](/zh/post/between/) facts [and](/zh/post/and/) opinions."
 
 ## 例句
-- 动词: "[The](/post/the/) [expert](/post/expert/) was [able](/post/able/) [to](/post/to/) [distinguish](/post/distinguish/) [the](/post/the/) [genuine](/post/genuine/) [painting](/post/painting/) [from](/post/from/) [the](/post/the/) fake [one](/post/one/)."
-- 名词: "[The](/post/the/) [main](/post/main/) [distinguish](/post/distinguish/) [between](/post/between/) [the](/post/the/) [two](/post/two/) species is [their](/post/their/) coloration."
+- 动词: "[The](/zh/post/the/) [expert](/zh/post/expert/) was [able](/zh/post/able/) [to](/zh/post/to/) [distinguish](/zh/post/distinguish/) [the](/zh/post/the/) [genuine](/zh/post/genuine/) [painting](/zh/post/painting/) [from](/zh/post/from/) [the](/zh/post/the/) fake [one](/zh/post/one/)."
+- 名词: "[The](/zh/post/the/) [main](/zh/post/main/) [distinguish](/zh/post/distinguish/) [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) species is [their](/zh/post/their/) coloration."
 
 ## 同义词
-- [Tell](/post/tell/) [apart](/post/apart/)
+- [Tell](/zh/post/tell/) [apart](/zh/post/apart/)
 - Differentiate
 - Discriminate
-- [Recognize](/post/recognize/)
-- [Identify](/post/identify/)
+- [Recognize](/zh/post/recognize/)
+- [Identify](/zh/post/identify/)

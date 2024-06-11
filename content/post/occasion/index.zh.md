@@ -11,22 +11,22 @@ keywords = ['ai words', 'occasion']
 /əˈkeɪʒən/
 
 ## 释义
-- **名词 (n)**: 特定的时间或场合，事件或庆祝活动。例如: "[The](/post/the/) [wedding](/post/wedding/) was [a](/post/a/) [grand](/post/grand/) [occasion](/post/occasion/)."
-- **名词**: 适当或合适的机会。例如: "[This](/post/this/) is an [occasion](/post/occasion/) [to](/post/to/) [express](/post/express/) [our](/post/our/) [gratitude](/post/gratitude/)."
-- **动词**: 造成或产生（某种情况）。例如: "[His](/post/his/) [absence](/post/absence/) occasions [much](/post/much/) speculation."
+- **名词 (n)**: 特定的时间或场合，事件或庆祝活动。例如: "[The](/zh/post/the/) [wedding](/zh/post/wedding/) was [a](/zh/post/a/) [grand](/zh/post/grand/) [occasion](/zh/post/occasion/)."
+- **名词**: 适当或合适的机会。例如: "[This](/zh/post/this/) is an [occasion](/zh/post/occasion/) [to](/zh/post/to/) [express](/zh/post/express/) [our](/zh/post/our/) [gratitude](/zh/post/gratitude/)."
+- **动词**: 造成或产生（某种情况）。例如: "[His](/zh/post/his/) [absence](/zh/post/absence/) occasions [much](/zh/post/much/) speculation."
 
 ## 短语
-- "[on](/post/on/) [this](/post/this/) [occasion](/post/occasion/)" 在这个特定的情况下
-- "[by](/post/by/) [occasion](/post/occasion/) [of](/post/of/)" 因为，由于
-- "an informal [occasion](/post/occasion/)" 非正式场合
+- "[on](/zh/post/on/) [this](/zh/post/this/) [occasion](/zh/post/occasion/)" 在这个特定的情况下
+- "[by](/zh/post/by/) [occasion](/zh/post/occasion/) [of](/zh/post/of/)" 因为，由于
+- "an informal [occasion](/zh/post/occasion/)" 非正式场合
 
 ## 例句
-- 名词: "[We](/post/we/) [dress](/post/dress/) [up](/post/up/) [for](/post/for/) [formal](/post/formal/) occasions [like](/post/like/) weddings [and](/post/and/) galas."
-- 动词: "[Her](/post/her/) [unexpected](/post/unexpected/) [visit](/post/visit/) occasions [a](/post/a/) [change](/post/change/) [in](/post/in/) [our](/post/our/) plans.
+- 名词: "[We](/zh/post/we/) [dress](/zh/post/dress/) [up](/zh/post/up/) [for](/zh/post/for/) [formal](/zh/post/formal/) occasions [like](/zh/post/like/) weddings [and](/zh/post/and/) galas."
+- 动词: "[Her](/zh/post/her/) [unexpected](/zh/post/unexpected/) [visit](/zh/post/visit/) occasions [a](/zh/post/a/) [change](/zh/post/change/) [in](/zh/post/in/) [our](/zh/post/our/) plans.
 
 ## 同义词
-- [event](/post/event/)
-- [circumstance](/post/circumstance/)
-- [situation](/post/situation/)
-- [opportunity](/post/opportunity/)
-- [time](/post/time/)
+- [event](/zh/post/event/)
+- [circumstance](/zh/post/circumstance/)
+- [situation](/zh/post/situation/)
+- [opportunity](/zh/post/opportunity/)
+- [time](/zh/post/time/)

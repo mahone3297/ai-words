@@ -12,21 +12,21 @@ keywords = ['ai words', 'pin']
 
 ## 释义
 - **名词**:
-1. 别针，大头针。例如: "[She](/post/she/) [used](/post/used/) [a](/post/a/) [pin](/post/pin/) [to](/post/to/) [hold](/post/hold/) [the](/post/the/) [fabric](/post/fabric/) [in](/post/in/) [place](/post/place/)."
-2. (体育)球杆，如保龄球中的木瓶。例如: "[He](/post/he/) knocked [down](/post/down/) [all](/post/all/) [ten](/post/ten/) pins [with](/post/with/) [one](/post/one/) [roll](/post/roll/)."
+1. 别针，大头针。例如: "[She](/zh/post/she/) [used](/zh/post/used/) [a](/zh/post/a/) [pin](/zh/post/pin/) [to](/zh/post/to/) [hold](/zh/post/hold/) [the](/zh/post/the/) [fabric](/zh/post/fabric/) [in](/zh/post/in/) [place](/zh/post/place/)."
+2. (体育)球杆，如保龄球中的木瓶。例如: "[He](/zh/post/he/) knocked [down](/zh/post/down/) [all](/zh/post/all/) [ten](/zh/post/ten/) pins [with](/zh/post/with/) [one](/zh/post/one/) [roll](/zh/post/roll/)."
 
 - **动词**:
-1. 囫囵吞枣；把...钉住。例如: "[The](/post/the/) [child](/post/child/) pinned [the](/post/the/) poster [on](/post/on/) [the](/post/the/) [wall](/post/wall/)."
-2. 在比赛中将对手压在地板上（如摔跤）。例如: "[The](/post/the/) wrestler managed [to](/post/to/) [pin](/post/pin/) [his](/post/his/) [opponent](/post/opponent/) [to](/post/to/) [the](/post/the/) [mat](/post/mat/)."
+1. 囫囵吞枣；把...钉住。例如: "[The](/zh/post/the/) [child](/zh/post/child/) pinned [the](/zh/post/the/) poster [on](/zh/post/on/) [the](/zh/post/the/) [wall](/zh/post/wall/)."
+2. 在比赛中将对手压在地板上（如摔跤）。例如: "[The](/zh/post/the/) wrestler managed [to](/zh/post/to/) [pin](/zh/post/pin/) [his](/zh/post/his/) [opponent](/zh/post/opponent/) [to](/zh/post/to/) [the](/zh/post/the/) [mat](/zh/post/mat/)."
 
 ## 短语
-- "[pin](/post/pin/) [something](/post/something/) [down](/post/down/)" 意味着固定或确定某事。例如: "I [need](/post/need/) [to](/post/to/) [pin](/post/pin/) [down](/post/down/) [the](/post/the/) details [of](/post/of/) [the](/post/the/) [project](/post/project/)."
-- "[pin](/post/pin/) someone's hopes [on](/post/on/) [something](/post/something/)" 表示寄托希望于某事。例如: "[They](/post/they/) pinned [all](/post/all/) [their](/post/their/) hopes [on](/post/on/) winning [the](/post/the/) lottery."
+- "[pin](/zh/post/pin/) [something](/zh/post/something/) [down](/zh/post/down/)" 意味着固定或确定某事。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [pin](/zh/post/pin/) [down](/zh/post/down/) [the](/zh/post/the/) details [of](/zh/post/of/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- "[pin](/zh/post/pin/) someone's hopes [on](/zh/post/on/) [something](/zh/post/something/)" 表示寄托希望于某事。例如: "[They](/zh/post/they/) pinned [all](/zh/post/all/) [their](/zh/post/their/) hopes [on](/zh/post/on/) winning [the](/zh/post/the/) lottery."
 
 ## 例句
-- 名词: "[She](/post/she/) [found](/post/found/) [a](/post/a/) [safety](/post/safety/) [pin](/post/pin/) [in](/post/in/) [her](/post/her/) [purse](/post/purse/) [to](/post/to/) [fix](/post/fix/) [her](/post/her/) [broken](/post/broken/) [necklace](/post/necklace/)."
-- 动词: "[The](/post/the/) wrestler pinned [his](/post/his/) [opponent](/post/opponent/) [to](/post/to/) [the](/post/the/) [mat](/post/mat/) [for](/post/for/) [three](/post/three/) seconds [and](/post/and/) won [the](/post/the/) [match](/post/match/)."
+- 名词: "[She](/zh/post/she/) [found](/zh/post/found/) [a](/zh/post/a/) [safety](/zh/post/safety/) [pin](/zh/post/pin/) [in](/zh/post/in/) [her](/zh/post/her/) [purse](/zh/post/purse/) [to](/zh/post/to/) [fix](/zh/post/fix/) [her](/zh/post/her/) [broken](/zh/post/broken/) [necklace](/zh/post/necklace/)."
+- 动词: "[The](/zh/post/the/) wrestler pinned [his](/zh/post/his/) [opponent](/zh/post/opponent/) [to](/zh/post/to/) [the](/zh/post/the/) [mat](/zh/post/mat/) [for](/zh/post/for/) [three](/zh/post/three/) seconds [and](/zh/post/and/) won [the](/zh/post/the/) [match](/zh/post/match/)."
 
 ## 同义词
-- [noun](/post/noun/): staple, tack, fastener
-- [verb](/post/verb/): [attach](/post/attach/), [secure](/post/secure/), [anchor](/post/anchor/)
+- [noun](/zh/post/noun/): staple, tack, fastener
+- [verb](/zh/post/verb/): [attach](/zh/post/attach/), [secure](/zh/post/secure/), [anchor](/zh/post/anchor/)

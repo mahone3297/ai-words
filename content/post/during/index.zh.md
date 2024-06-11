@@ -11,20 +11,20 @@ keywords = ['ai words', 'during']
 /dɪˈruːrɪŋ/
 
 ## 释义
-- **介词**: 表示在某一时间段内或期间。例如: "I'll [be](/post/be/) working [during](/post/during/) [the](/post/the/) [summer](/post/summer/) [vacation](/post/vacation/)."
-- **副词**: 同上，强调在某个时间段内发生。例如: "[The](/post/the/) [project](/post/project/) progressed [steadily](/post/steadily/) [during](/post/during/) [his](/post/his/) tenure."
+- **介词**: 表示在某一时间段内或期间。例如: "I'll [be](/zh/post/be/) working [during](/zh/post/during/) [the](/zh/post/the/) [summer](/zh/post/summer/) [vacation](/zh/post/vacation/)."
+- **副词**: 同上，强调在某个时间段内发生。例如: "[The](/zh/post/the/) [project](/zh/post/project/) progressed [steadily](/zh/post/steadily/) [during](/zh/post/during/) [his](/zh/post/his/) tenure."
 
 ## 短语
-- "[During](/post/during/) [the](/post/the/) [day](/post/day/)" 意指白天的时间段。
-- "[During](/post/during/) [his](/post/his/) [absence](/post/absence/)" 表示在他不在的期间。
+- "[During](/zh/post/during/) [the](/zh/post/the/) [day](/zh/post/day/)" 意指白天的时间段。
+- "[During](/zh/post/during/) [his](/zh/post/his/) [absence](/zh/post/absence/)" 表示在他不在的期间。
 
 ## 例句
-- 介词: "I'll [visit](/post/visit/) [my](/post/my/) grandparents [during](/post/during/) [the](/post/the/) Christmas [holiday](/post/holiday/)."
-- 副词: "[The](/post/the/) [store](/post/store/) is [usually](/post/usually/) [busy](/post/busy/) [during](/post/during/) [rush](/post/rush/) [hour](/post/hour/)."
+- 介词: "I'll [visit](/zh/post/visit/) [my](/zh/post/my/) grandparents [during](/zh/post/during/) [the](/zh/post/the/) Christmas [holiday](/zh/post/holiday/)."
+- 副词: "[The](/zh/post/the/) [store](/zh/post/store/) is [usually](/zh/post/usually/) [busy](/zh/post/busy/) [during](/zh/post/during/) [rush](/zh/post/rush/) [hour](/zh/post/hour/)."
 
 ## 同义词
-- [Throughout](/post/throughout/)
-- [For](/post/for/)
-- [In](/post/in/) [the](/post/the/) [course](/post/course/) [of](/post/of/)
-- [Over](/post/over/)
-- [Within](/post/within/)
+- [Throughout](/zh/post/throughout/)
+- [For](/zh/post/for/)
+- [In](/zh/post/in/) [the](/zh/post/the/) [course](/zh/post/course/) [of](/zh/post/of/)
+- [Over](/zh/post/over/)
+- [Within](/zh/post/within/)

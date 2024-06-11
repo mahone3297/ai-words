@@ -11,21 +11,21 @@ keywords = ['ai words', 'weapon']
 /wiːˈpɑːn/
 
 ## 释义
-- **名词**: 武器，兵器，用于攻击或防御的工具或装置。例如: "[The](/post/the/) [soldier](/post/soldier/) was trained [in](/post/in/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [various](/post/various/) weapons."
-- **名词**: 任何用来达到目的的手段或工具。例如: "[In](/post/in/) [the](/post/the/) [political](/post/political/) arena, words [can](/post/can/) [be](/post/be/) [powerful](/post/powerful/) weapons."
+- **名词**: 武器，兵器，用于攻击或防御的工具或装置。例如: "[The](/zh/post/the/) [soldier](/zh/post/soldier/) was trained [in](/zh/post/in/) [the](/zh/post/the/) [use](/zh/post/use/) [of](/zh/post/of/) [various](/zh/post/various/) weapons."
+- **名词**: 任何用来达到目的的手段或工具。例如: "[In](/zh/post/in/) [the](/zh/post/the/) [political](/zh/post/political/) arena, words [can](/zh/post/can/) [be](/zh/post/be/) [powerful](/zh/post/powerful/) weapons."
 
 ## 短语
-- "Firearm [weapon](/post/weapon/)" 指的是枪械类武器。
-- "Non-lethal [weapon](/post/weapon/)" 指的是非致命性武器，如电击枪或催泪瓦斯。
-- "[Ancient](/post/ancient/) [weapon](/post/weapon/)" 指的是古代的武器，如剑、弓箭等。
+- "Firearm [weapon](/zh/post/weapon/)" 指的是枪械类武器。
+- "Non-lethal [weapon](/zh/post/weapon/)" 指的是非致命性武器，如电击枪或催泪瓦斯。
+- "[Ancient](/zh/post/ancient/) [weapon](/zh/post/weapon/)" 指的是古代的武器，如剑、弓箭等。
 
 ## 例句
-- 名词: "[The](/post/the/) [museum](/post/museum/) displayed an [impressive](/post/impressive/) [collection](/post/collection/) [of](/post/of/) medieval weapons."
-- 名词: "[The](/post/the/) [new](/post/new/) [treaty](/post/treaty/) aims [to](/post/to/) [reduce](/post/reduce/) [nuclear](/post/nuclear/) weapons worldwide."
+- 名词: "[The](/zh/post/the/) [museum](/zh/post/museum/) displayed an [impressive](/zh/post/impressive/) [collection](/zh/post/collection/) [of](/zh/post/of/) medieval weapons."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [treaty](/zh/post/treaty/) aims [to](/zh/post/to/) [reduce](/zh/post/reduce/) [nuclear](/zh/post/nuclear/) weapons worldwide."
 
 ## 同义词
 - Armament
-- [Tool](/post/tool/)
-- [Instrument](/post/instrument/)
-- [Gun](/post/gun/)
-- [Blade](/post/blade/)
+- [Tool](/zh/post/tool/)
+- [Instrument](/zh/post/instrument/)
+- [Gun](/zh/post/gun/)
+- [Blade](/zh/post/blade/)

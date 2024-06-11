@@ -7,28 +7,28 @@ description = '[ˈsəuviet] n.苏维埃 a.苏维埃的'
 keywords = ['ai words', 'Soviet']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsoʊvɪət/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: ([historical](/en/post/historical/)) [A](/en/post/a/) [former](/en/post/former/) [state](/en/post/state/) [in](/en/post/in/) [Eastern](/en/post/eastern/) Europe [and](/en/post/and/) [Central](/en/post/central/) [Asia](/en/post/asia/) [that](/en/post/that/) existed [from](/en/post/from/) 1922 [to](/en/post/to/) 1991, characterized [by](/en/post/by/) [a](/en/post/a/) single-party [communist](/en/post/communist/) [government](/en/post/government/) led [by](/en/post/by/) [the](/en/post/the/) [Communist](/en/post/communist/) [Party](/en/post/party/). [Also](/en/post/also/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [term](/en/post/term/) [for](/en/post/for/) [the](/en/post/the/) [political](/en/post/political/) ideology [behind](/en/post/behind/) [this](/en/post/this/) [system](/en/post/system/). Synonym: USSR ([Union](/en/post/union/) [of](/en/post/of/) Soviet [Socialist](/en/post/socialist/) Republics).
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [the](/en/post/the/) Soviet [Union](/en/post/union/) [or](/en/post/or/) [its](/en/post/its/) policies. Synonym: [Communist](/en/post/communist/).
+- **[Noun](/post/noun/)**: ([historical](/post/historical/)) [A](/post/a/) [former](/post/former/) [state](/post/state/) [in](/post/in/) [Eastern](/post/eastern/) Europe [and](/post/and/) [Central](/post/central/) [Asia](/post/asia/) [that](/post/that/) existed [from](/post/from/) 1922 [to](/post/to/) 1991, characterized [by](/post/by/) [a](/post/a/) single-party [communist](/post/communist/) [government](/post/government/) led [by](/post/by/) [the](/post/the/) [Communist](/post/communist/) [Party](/post/party/). [Also](/post/also/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [term](/post/term/) [for](/post/for/) [the](/post/the/) [political](/post/political/) ideology [behind](/post/behind/) [this](/post/this/) [system](/post/system/). Synonym: USSR ([Union](/post/union/) [of](/post/of/) Soviet [Socialist](/post/socialist/) Republics).
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [the](/post/the/) Soviet [Union](/post/union/) [or](/post/or/) [its](/post/its/) policies. Synonym: [Communist](/post/communist/).
 
 ## Phrases
-- "Soviet [Union](/en/post/union/)" was [the](/en/post/the/) [official](/en/post/official/) [name](/en/post/name/) [of](/en/post/of/) [the](/en/post/the/) [country](/en/post/country/) [from](/en/post/from/) 1922 [to](/en/post/to/) 1991.
-- "Soviet-style" describes [something](/en/post/something/) influenced [by](/en/post/by/) [the](/en/post/the/) [former](/en/post/former/) Soviet Union's [political](/en/post/political/) [or](/en/post/or/) [economic](/en/post/economic/) [model](/en/post/model/).
-- "Soviets" [could](/en/post/could/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [local](/en/post/local/) self-governing bodies [in](/en/post/in/) [the](/en/post/the/) Soviet [Union](/en/post/union/).
+- "Soviet [Union](/post/union/)" was [the](/post/the/) [official](/post/official/) [name](/post/name/) [of](/post/of/) [the](/post/the/) [country](/post/country/) [from](/post/from/) 1922 [to](/post/to/) 1991.
+- "Soviet-style" describes [something](/post/something/) influenced [by](/post/by/) [the](/post/the/) [former](/post/former/) Soviet Union's [political](/post/political/) [or](/post/or/) [economic](/post/economic/) [model](/post/model/).
+- "Soviets" [could](/post/could/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [local](/post/local/) self-governing bodies [in](/post/in/) [the](/post/the/) Soviet [Union](/post/union/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [collapse](/en/post/collapse/) [of](/en/post/of/) [the](/en/post/the/) Soviet [Union](/en/post/union/) marked [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [Cold](/en/post/cold/) [War](/en/post/war/)."
-- **[Adjective](/en/post/adjective/)**: "[Many](/en/post/many/) buildings [in](/en/post/in/) Moscow [still](/en/post/still/) [bear](/en/post/bear/) [the](/en/post/the/) Soviet-era [architecture](/en/post/architecture/)."
-- "[During](/en/post/during/) [the](/en/post/the/) Soviet [era](/en/post/era/), [access](/en/post/access/) [to](/en/post/to/) [information](/en/post/information/) was [heavily](/en/post/heavily/) controlled."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [collapse](/post/collapse/) [of](/post/of/) [the](/post/the/) Soviet [Union](/post/union/) marked [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [Cold](/post/cold/) [War](/post/war/)."
+- **[Adjective](/post/adjective/)**: "[Many](/post/many/) buildings [in](/post/in/) Moscow [still](/post/still/) [bear](/post/bear/) [the](/post/the/) Soviet-era [architecture](/post/architecture/)."
+- "[During](/post/during/) [the](/post/the/) Soviet [era](/post/era/), [access](/post/access/) [to](/post/to/) [information](/post/information/) was [heavily](/post/heavily/) controlled."
 
 ## Synonyms
-- [Communist](/en/post/communist/)
+- [Communist](/post/communist/)
 - Marxist-Leninist
 - USSR
-- [Red](/en/post/red/)
+- [Red](/post/red/)
 - Bolshevik
 
-[Note](/en/post/note/): [The](/en/post/the/) [term](/en/post/term/) "Soviet" is [now](/en/post/now/) [largely](/en/post/largely/) [historical](/en/post/historical/), [and](/en/post/and/) [its](/en/post/its/) [usage](/en/post/usage/) [may](/en/post/may/) [be](/en/post/be/) outdated [or](/en/post/or/) regional [in](/en/post/in/) [some](/en/post/some/) contexts. It's [more](/en/post/more/) [commonly](/en/post/commonly/) replaced [by](/en/post/by/) [other](/en/post/other/) terms [like](/en/post/like/) "post-Soviet" [or](/en/post/or/) "[former](/en/post/former/) Soviet."
+[Note](/post/note/): [The](/post/the/) [term](/post/term/) "Soviet" is [now](/post/now/) [largely](/post/largely/) [historical](/post/historical/), [and](/post/and/) [its](/post/its/) [usage](/post/usage/) [may](/post/may/) [be](/post/be/) outdated [or](/post/or/) regional [in](/post/in/) [some](/post/some/) contexts. It's [more](/post/more/) [commonly](/post/commonly/) replaced [by](/post/by/) [other](/post/other/) terms [like](/post/like/) "post-Soviet" [or](/post/or/) "[former](/post/former/) Soviet."

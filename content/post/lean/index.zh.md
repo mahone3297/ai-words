@@ -12,29 +12,29 @@ keywords = ['ai words', 'lean']
 
 ## 释义
 - **动词**:
-   - 倾斜，靠：指身体或物体倾向一边。例如: "[He](/post/he/) leaned [against](/post/against/) [the](/post/the/) [wall](/post/wall/)."
-   - 减少，削减：指减少资源、开支等。例如: "[They](/post/they/) had [to](/post/to/) [lean](/post/lean/) [on](/post/on/) [their](/post/their/) savings [during](/post/during/) [tough](/post/tough/) times."
-   - 学习或掌握（技能）：常与介词 "[on](/post/on/)" 或 "[upon](/post/upon/)" 连用，表示依赖学习。例如: "[He](/post/he/) is leaning [on](/post/on/) [his](/post/his/) [new](/post/new/) [language](/post/language/) skills."
+   - 倾斜，靠：指身体或物体倾向一边。例如: "[He](/zh/post/he/) leaned [against](/zh/post/against/) [the](/zh/post/the/) [wall](/zh/post/wall/)."
+   - 减少，削减：指减少资源、开支等。例如: "[They](/zh/post/they/) had [to](/zh/post/to/) [lean](/zh/post/lean/) [on](/zh/post/on/) [their](/zh/post/their/) savings [during](/zh/post/during/) [tough](/zh/post/tough/) times."
+   - 学习或掌握（技能）：常与介词 "[on](/zh/post/on/)" 或 "[upon](/zh/post/upon/)" 连用，表示依赖学习。例如: "[He](/zh/post/he/) is leaning [on](/zh/post/on/) [his](/zh/post/his/) [new](/zh/post/new/) [language](/zh/post/language/) skills."
 
 - **形容词**:
-   - 苗条的，瘦削的：描述人的身材或事物的轻盈。例如: "[She](/post/she/) has [a](/post/a/) [lean](/post/lean/) [figure](/post/figure/)."
-   - 贫瘠的，缺乏的：指资源或营养不足。例如: "[The](/post/the/) [soil](/post/soil/) was [lean](/post/lean/) [and](/post/and/) [unable](/post/unable/) [to](/post/to/) [support](/post/support/) crops."
+   - 苗条的，瘦削的：描述人的身材或事物的轻盈。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [lean](/zh/post/lean/) [figure](/zh/post/figure/)."
+   - 贫瘠的，缺乏的：指资源或营养不足。例如: "[The](/zh/post/the/) [soil](/zh/post/soil/) was [lean](/zh/post/lean/) [and](/zh/post/and/) [unable](/zh/post/unable/) [to](/zh/post/to/) [support](/zh/post/support/) crops."
 
 ## 短语
-- "[lean](/post/lean/) [against](/post/against/)" 靠在...上
-- "[lean](/post/lean/) [on](/post/on/) sb." 依靠，依赖
-- "[be](/post/be/) [lean](/post/lean/) [on](/post/on/) sth." 在某方面短缺或不足
+- "[lean](/zh/post/lean/) [against](/zh/post/against/)" 靠在...上
+- "[lean](/zh/post/lean/) [on](/zh/post/on/) sb." 依靠，依赖
+- "[be](/zh/post/be/) [lean](/zh/post/lean/) [on](/zh/post/on/) sth." 在某方面短缺或不足
 
 ## 例句
-- 动词: "[She](/post/she/) leaned [her](/post/her/) [head](/post/head/) [on](/post/on/) [his](/post/his/) [shoulder](/post/shoulder/) [during](/post/during/) [the](/post/the/) [movie](/post/movie/)."
-- 形容词: "[The](/post/the/) [athlete](/post/athlete/) maintained [a](/post/a/) [lean](/post/lean/) diet [to](/post/to/) [stay](/post/stay/) [in](/post/in/) [top](/post/top/) [shape](/post/shape/)."
+- 动词: "[She](/zh/post/she/) leaned [her](/zh/post/her/) [head](/zh/post/head/) [on](/zh/post/on/) [his](/zh/post/his/) [shoulder](/zh/post/shoulder/) [during](/zh/post/during/) [the](/zh/post/the/) [movie](/zh/post/movie/)."
+- 形容词: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) maintained [a](/zh/post/a/) [lean](/zh/post/lean/) diet [to](/zh/post/to/) [stay](/zh/post/stay/) [in](/zh/post/in/) [top](/zh/post/top/) [shape](/zh/post/shape/)."
 
 ## 同义词
 - 动词:
-  - [incline](/post/incline/)
+  - [incline](/zh/post/incline/)
   - slant
-  - [tip](/post/tip/)
+  - [tip](/zh/post/tip/)
 - 形容词:
-  - [slender](/post/slender/)
-  - [thin](/post/thin/)
+  - [slender](/zh/post/slender/)
+  - [thin](/zh/post/thin/)
   - gaunt

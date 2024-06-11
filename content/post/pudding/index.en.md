@@ -7,36 +7,36 @@ description = '[ˈpudiŋ] n.布丁'
 keywords = ['ai words', 'pudding']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pʊdɪŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [dense](/en/post/dense/), [sweet](/en/post/sweet/) dessert made [from](/en/post/from/) [a](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) [flour](/en/post/flour/), eggs, [milk](/en/post/milk/), [and](/en/post/and/) [often](/en/post/often/) [fruit](/en/post/fruit/) [or](/en/post/or/) spices, typically served [warm](/en/post/warm/) [with](/en/post/with/) custard [or](/en/post/or/) [sauce](/en/post/sauce/).
-   - [Example](/en/post/example/): "[After](/en/post/after/) [dinner](/en/post/dinner/), [we](/en/post/we/) enjoyed [a](/en/post/a/) [rich](/en/post/rich/) plum [pudding](/en/post/pudding/) [for](/en/post/for/) dessert."
-2. [In](/en/post/in/) British English, [a](/en/post/a/) [soft](/en/post/soft/), creamy dessert [similar](/en/post/similar/) [to](/en/post/to/) [rice](/en/post/rice/) [pudding](/en/post/pudding/), [often](/en/post/often/) served [with](/en/post/with/) stewed [fruit](/en/post/fruit/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [traditional](/en/post/traditional/) Christmas [pudding](/en/post/pudding/) was steamed [to](/en/post/to/) perfection."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [dense](/post/dense/), [sweet](/post/sweet/) dessert made [from](/post/from/) [a](/post/a/) [mixture](/post/mixture/) [of](/post/of/) [flour](/post/flour/), eggs, [milk](/post/milk/), [and](/post/and/) [often](/post/often/) [fruit](/post/fruit/) [or](/post/or/) spices, typically served [warm](/post/warm/) [with](/post/with/) custard [or](/post/or/) [sauce](/post/sauce/).
+   - [Example](/post/example/): "[After](/post/after/) [dinner](/post/dinner/), [we](/post/we/) enjoyed [a](/post/a/) [rich](/post/rich/) plum [pudding](/post/pudding/) [for](/post/for/) dessert."
+2. [In](/post/in/) British English, [a](/post/a/) [soft](/post/soft/), creamy dessert [similar](/post/similar/) [to](/post/to/) [rice](/post/rice/) [pudding](/post/pudding/), [often](/post/often/) served [with](/post/with/) stewed [fruit](/post/fruit/).
+   - [Example](/post/example/): "[The](/post/the/) [traditional](/post/traditional/) Christmas [pudding](/post/pudding/) was steamed [to](/post/to/) perfection."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [serve](/en/post/serve/) [or](/en/post/or/) [eat](/en/post/eat/) [pudding](/en/post/pudding/), [particularly](/en/post/particularly/) [as](/en/post/as/) [a](/en/post/a/) dessert.
-   - [Example](/en/post/example/): "Mom [usually](/en/post/usually/) bakes [a](/en/post/a/) [delicious](/en/post/delicious/) [pudding](/en/post/pudding/) [on](/en/post/on/) Sunday evenings."
-2. (Informal) [To](/en/post/to/) indulge [in](/en/post/in/) [or](/en/post/or/) [consume](/en/post/consume/) [a](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) [a](/en/post/a/) [food](/en/post/food/), [often](/en/post/often/) considered unhealthy.
-   - [Example](/en/post/example/): "[He](/en/post/he/) [really](/en/post/really/) puddinged [down](/en/post/down/) [on](/en/post/on/) [the](/en/post/the/) [cake](/en/post/cake/) [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [serve](/post/serve/) [or](/post/or/) [eat](/post/eat/) [pudding](/post/pudding/), [particularly](/post/particularly/) [as](/post/as/) [a](/post/a/) dessert.
+   - [Example](/post/example/): "Mom [usually](/post/usually/) bakes [a](/post/a/) [delicious](/post/delicious/) [pudding](/post/pudding/) [on](/post/on/) Sunday evenings."
+2. (Informal) [To](/post/to/) indulge [in](/post/in/) [or](/post/or/) [consume](/post/consume/) [a](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) [a](/post/a/) [food](/post/food/), [often](/post/often/) considered unhealthy.
+   - [Example](/post/example/): "[He](/post/he/) [really](/post/really/) puddinged [down](/post/down/) [on](/post/on/) [the](/post/the/) [cake](/post/cake/) [at](/post/at/) [the](/post/the/) [party](/post/party/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [pudding](/en/post/pudding/)" refers [to](/en/post/to/) preparing [a](/en/post/a/) dessert.
-- "[Have](/en/post/have/) [some](/en/post/some/) [pudding](/en/post/pudding/)" invites [someone](/en/post/someone/) [to](/en/post/to/) [enjoy](/en/post/enjoy/) dessert.
-- "[Pudding](/en/post/pudding/) is [ready](/en/post/ready/)" indicates [that](/en/post/that/) [a](/en/post/a/) dessert has been cooked [and](/en/post/and/) is [now](/en/post/now/) [available](/en/post/available/).
+- "[Make](/post/make/) [a](/post/a/) [pudding](/post/pudding/)" refers [to](/post/to/) preparing [a](/post/a/) dessert.
+- "[Have](/post/have/) [some](/post/some/) [pudding](/post/pudding/)" invites [someone](/post/someone/) [to](/post/to/) [enjoy](/post/enjoy/) dessert.
+- "[Pudding](/post/pudding/) is [ready](/post/ready/)" indicates [that](/post/that/) [a](/post/a/) dessert has been cooked [and](/post/and/) is [now](/post/now/) [available](/post/available/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were excited [to](/en/post/to/) [dig](/en/post/dig/) [into](/en/post/into/) [their](/en/post/their/) bowls [of](/en/post/of/) vanilla [pudding](/en/post/pudding/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [it](/en/post/it/) felt luxurious [to](/en/post/to/) [pudding](/en/post/pudding/) [on](/en/post/on/) [the](/en/post/the/) couch [with](/en/post/with/) [a](/en/post/a/) [good](/en/post/good/) [book](/en/post/book/)."
-- **Informal**: "[He](/en/post/he/) puddinged [out](/en/post/out/) [after](/en/post/after/) eating [three](/en/post/three/) slices [of](/en/post/of/) pizza."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were excited [to](/post/to/) [dig](/post/dig/) [into](/post/into/) [their](/post/their/) bowls [of](/post/of/) vanilla [pudding](/post/pudding/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [it](/post/it/) felt luxurious [to](/post/to/) [pudding](/post/pudding/) [on](/post/on/) [the](/post/the/) couch [with](/post/with/) [a](/post/a/) [good](/post/good/) [book](/post/book/)."
+- **Informal**: "[He](/post/he/) puddinged [out](/post/out/) [after](/post/after/) eating [three](/post/three/) slices [of](/post/of/) pizza."
 
 ## Synonyms
 - Dessert
-- [Pudding](/en/post/pudding/) [dish](/en/post/dish/)
+- [Pudding](/post/pudding/) [dish](/post/dish/)
 - Custard
-- [Rice](/en/post/rice/) [pudding](/en/post/pudding/) (British [equivalent](/en/post/equivalent/))
-- Baked [pudding](/en/post/pudding/) ([generally](/en/post/generally/))
-- Fruitcake ([less](/en/post/less/) [common](/en/post/common/), [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) considered [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [pudding](/en/post/pudding/))
+- [Rice](/post/rice/) [pudding](/post/pudding/) (British [equivalent](/post/equivalent/))
+- Baked [pudding](/post/pudding/) ([generally](/post/generally/))
+- Fruitcake ([less](/post/less/) [common](/post/common/), [but](/post/but/) [can](/post/can/) [be](/post/be/) considered [a](/post/a/) [type](/post/type/) [of](/post/of/) [pudding](/post/pudding/))

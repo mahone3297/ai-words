@@ -12,31 +12,31 @@ keywords = ['ai words', 'ground']
 
 ## 释义
 - **名词**:
-1. 地面; 地表: [The](/post/the/) [plane](/post/plane/) landed [on](/post/on/) [solid](/post/solid/) [ground](/post/ground/).
-2. 基础; 根据: [Our](/post/our/) [argument](/post/argument/) is firmly grounded [in](/post/in/) facts.
-3. 领地; 场所: [They](/post/they/) marked [out](/post/out/) [their](/post/their/) [territory](/post/territory/) [on](/post/on/) [the](/post/the/) playing [ground](/post/ground/).
+1. 地面; 地表: [The](/zh/post/the/) [plane](/zh/post/plane/) landed [on](/zh/post/on/) [solid](/zh/post/solid/) [ground](/zh/post/ground/).
+2. 基础; 根据: [Our](/zh/post/our/) [argument](/zh/post/argument/) is firmly grounded [in](/zh/post/in/) facts.
+3. 领地; 场所: [They](/zh/post/they/) marked [out](/zh/post/out/) [their](/zh/post/their/) [territory](/zh/post/territory/) [on](/zh/post/on/) [the](/zh/post/the/) playing [ground](/zh/post/ground/).
 
 - **动词**:
-1. 使搁浅: [The](/post/the/) [ship](/post/ship/) grounded [on](/post/on/) [a](/post/a/) hidden reef.
-2. 使停留不动; 禁止飞行: [The](/post/the/) [storm](/post/storm/) grounded [all](/post/all/) flights.
-3. 建立基础: [The](/post/the/) [theory](/post/theory/) is grounded [in](/post/in/) years [of](/post/of/) [research](/post/research/).
+1. 使搁浅: [The](/zh/post/the/) [ship](/zh/post/ship/) grounded [on](/zh/post/on/) [a](/zh/post/a/) hidden reef.
+2. 使停留不动; 禁止飞行: [The](/zh/post/the/) [storm](/zh/post/storm/) grounded [all](/zh/post/all/) flights.
+3. 建立基础: [The](/zh/post/the/) [theory](/zh/post/theory/) is grounded [in](/zh/post/in/) years [of](/zh/post/of/) [research](/zh/post/research/).
 
 - **形容词**:
-1. 实际的; 基本的: [She](/post/she/) [always](/post/always/) stays grounded [and](/post/and/) avoids unrealistic expectations.
+1. 实际的; 基本的: [She](/zh/post/she/) [always](/zh/post/always/) stays grounded [and](/zh/post/and/) avoids unrealistic expectations.
 
 ## 短语
-- "[on](/post/on/) [solid](/post/solid/) [ground](/post/ground/)" 表示在安全或稳固的基础上。
-- "[ground](/post/ground/) rules" 指建立基本的规则或准则。
-- "[to](/post/to/) [get](/post/get/) [back](/post/back/) [on](/post/on/) [solid](/post/solid/) [ground](/post/ground/)" 意味着恢复稳定或安全的状态。
+- "[on](/zh/post/on/) [solid](/zh/post/solid/) [ground](/zh/post/ground/)" 表示在安全或稳固的基础上。
+- "[ground](/zh/post/ground/) rules" 指建立基本的规则或准则。
+- "[to](/zh/post/to/) [get](/zh/post/get/) [back](/zh/post/back/) [on](/zh/post/on/) [solid](/zh/post/solid/) [ground](/zh/post/ground/)" 意味着恢复稳定或安全的状态。
 
 ## 例句
-- 名词: "[The](/post/the/) children played [on](/post/on/) [the](/post/the/) grassy [ground](/post/ground/)."
-- 动词: "[The](/post/the/) [pilot](/post/pilot/) had [to](/post/to/) [ground](/post/ground/) [the](/post/the/) planes [due](/post/due/) [to](/post/to/) [bad](/post/bad/) [weather](/post/weather/)."
-- 形容词: "[Despite](/post/despite/) [his](/post/his/) [fame](/post/fame/), [he](/post/he/) [remains](/post/remains/) [a](/post/a/) grounded [person](/post/person/)."
+- 名词: "[The](/zh/post/the/) children played [on](/zh/post/on/) [the](/zh/post/the/) grassy [ground](/zh/post/ground/)."
+- 动词: "[The](/zh/post/the/) [pilot](/zh/post/pilot/) had [to](/zh/post/to/) [ground](/zh/post/ground/) [the](/zh/post/the/) planes [due](/zh/post/due/) [to](/zh/post/to/) [bad](/zh/post/bad/) [weather](/zh/post/weather/)."
+- 形容词: "[Despite](/zh/post/despite/) [his](/zh/post/his/) [fame](/zh/post/fame/), [he](/zh/post/he/) [remains](/zh/post/remains/) [a](/zh/post/a/) grounded [person](/zh/post/person/)."
 
 ## 同义词
-- [Surface](/post/surface/)
-- [Base](/post/base/)
-- [Foundation](/post/foundation/)
+- [Surface](/zh/post/surface/)
+- [Base](/zh/post/base/)
+- [Foundation](/zh/post/foundation/)
 - footing
-- [Site](/post/site/)
+- [Site](/zh/post/site/)

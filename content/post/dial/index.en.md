@@ -7,35 +7,35 @@ description = '[ˈdaiəl] n.钟面；拨号盘 vt.拨'
 keywords = ['ai words', 'dial']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈeɪl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [device](/en/post/device/) [with](/en/post/with/) numbers, letters, [or](/en/post/or/) symbols [on](/en/post/on/) [its](/en/post/its/) [face](/en/post/face/) [that](/en/post/that/) is [used](/en/post/used/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [telephone](/en/post/telephone/) [call](/en/post/call/) [by](/en/post/by/) selecting [a](/en/post/a/) [specific](/en/post/specific/) [number](/en/post/number/).
-- [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [telephone](/en/post/telephone/) [or](/en/post/or/) [other](/en/post/other/) [communication](/en/post/communication/) [system](/en/post/system/) [where](/en/post/where/) [you](/en/post/you/) [input](/en/post/input/) numbers [or](/en/post/or/) settings.
-- (informal) [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) adjusting [or](/en/post/or/) [setting](/en/post/setting/) [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [clock](/en/post/clock/) [or](/en/post/or/) [radio](/en/post/radio/).
+### [Noun](/post/noun/)
+- [A](/post/a/) [device](/post/device/) [with](/post/with/) numbers, letters, [or](/post/or/) symbols [on](/post/on/) [its](/post/its/) [face](/post/face/) [that](/post/that/) is [used](/post/used/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [telephone](/post/telephone/) [call](/post/call/) [by](/post/by/) selecting [a](/post/a/) [specific](/post/specific/) [number](/post/number/).
+- [A](/post/a/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [telephone](/post/telephone/) [or](/post/or/) [other](/post/other/) [communication](/post/communication/) [system](/post/system/) [where](/post/where/) [you](/post/you/) [input](/post/input/) numbers [or](/post/or/) settings.
+- (informal) [The](/post/the/) [process](/post/process/) [of](/post/of/) adjusting [or](/post/or/) [setting](/post/setting/) [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [clock](/post/clock/) [or](/post/or/) [radio](/post/radio/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [set](/en/post/set/) ([a](/en/post/a/) [clock](/en/post/clock/) [or](/en/post/or/) [other](/en/post/other/) [device](/en/post/device/)) using [the](/en/post/the/) numbers [or](/en/post/or/) controls [on](/en/post/on/) [a](/en/post/a/) [dial](/en/post/dial/).
-- [To](/en/post/to/) [operate](/en/post/operate/) [or](/en/post/or/) manipulate [the](/en/post/the/) [dial](/en/post/dial/) [of](/en/post/of/) [a](/en/post/a/) [device](/en/post/device/) [to](/en/post/to/) [access](/en/post/access/) [or](/en/post/or/) [select](/en/post/select/) options.
-- [To](/en/post/to/) [choose](/en/post/choose/) [or](/en/post/or/) [indicate](/en/post/indicate/) [a](/en/post/a/) [particular](/en/post/particular/) [setting](/en/post/setting/) [or](/en/post/or/) [option](/en/post/option/) using [a](/en/post/a/) [dial](/en/post/dial/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [set](/post/set/) ([a](/post/a/) [clock](/post/clock/) [or](/post/or/) [other](/post/other/) [device](/post/device/)) using [the](/post/the/) numbers [or](/post/or/) controls [on](/post/on/) [a](/post/a/) [dial](/post/dial/).
+- [To](/post/to/) [operate](/post/operate/) [or](/post/or/) manipulate [the](/post/the/) [dial](/post/dial/) [of](/post/of/) [a](/post/a/) [device](/post/device/) [to](/post/to/) [access](/post/access/) [or](/post/or/) [select](/post/select/) options.
+- [To](/post/to/) [choose](/post/choose/) [or](/post/or/) [indicate](/post/indicate/) [a](/post/a/) [particular](/post/particular/) [setting](/post/setting/) [or](/post/or/) [option](/post/option/) using [a](/post/a/) [dial](/post/dial/).
 
 ## Phrases
-- "[Set](/en/post/set/) [the](/en/post/the/) clock's [dial](/en/post/dial/)" [to](/en/post/to/) [adjust](/en/post/adjust/) [the](/en/post/the/) [time](/en/post/time/).
-- "[Turn](/en/post/turn/) [the](/en/post/the/) [dial](/en/post/dial/) [to](/en/post/to/) [channel](/en/post/channel/) 5" [when](/en/post/when/) changing TV channels.
-- "Dialing [a](/en/post/a/) [number](/en/post/number/)" [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [phone](/en/post/phone/) [call](/en/post/call/).
+- "[Set](/post/set/) [the](/post/the/) clock's [dial](/post/dial/)" [to](/post/to/) [adjust](/post/adjust/) [the](/post/the/) [time](/post/time/).
+- "[Turn](/post/turn/) [the](/post/the/) [dial](/post/dial/) [to](/post/to/) [channel](/post/channel/) 5" [when](/post/when/) changing TV channels.
+- "Dialing [a](/post/a/) [number](/post/number/)" [to](/post/to/) [make](/post/make/) [a](/post/a/) [phone](/post/phone/) [call](/post/call/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) adjusted [the](/en/post/the/) [volume](/en/post/volume/) [control](/en/post/control/) [on](/en/post/on/) [his](/en/post/his/) [radio](/en/post/radio/) [by](/en/post/by/) [turning](/en/post/turning/) [the](/en/post/the/) [dial](/en/post/dial/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) dialed [her](/en/post/her/) friend's [number](/en/post/number/) [and](/en/post/and/) pressed [the](/en/post/the/) [call](/en/post/call/) [button](/en/post/button/)."
-- **[Dial](/en/post/dial/) [as](/en/post/as/) [a](/en/post/a/) [process](/en/post/process/)**: "[The](/en/post/the/) old-fashioned [phone](/en/post/phone/) required [you](/en/post/you/) [to](/en/post/to/) physically [dial](/en/post/dial/) [each](/en/post/each/) digit."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) adjusted [the](/post/the/) [volume](/post/volume/) [control](/post/control/) [on](/post/on/) [his](/post/his/) [radio](/post/radio/) [by](/post/by/) [turning](/post/turning/) [the](/post/the/) [dial](/post/dial/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) dialed [her](/post/her/) friend's [number](/post/number/) [and](/post/and/) pressed [the](/post/the/) [call](/post/call/) [button](/post/button/)."
+- **[Dial](/post/dial/) [as](/post/as/) [a](/post/a/) [process](/post/process/)**: "[The](/post/the/) old-fashioned [phone](/post/phone/) required [you](/post/you/) [to](/post/to/) physically [dial](/post/dial/) [each](/post/each/) digit."
 
 ## Synonyms
-- [Rotate](/en/post/rotate/)
-- [Turn](/en/post/turn/)
+- [Rotate](/post/rotate/)
+- [Turn](/post/turn/)
 - Manipulate
-- [Adjust](/en/post/adjust/)
+- [Adjust](/post/adjust/)
 - Calibrate
 
 ## Antonyms

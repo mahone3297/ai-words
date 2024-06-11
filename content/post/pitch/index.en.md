@@ -7,35 +7,35 @@ description = '[pit∫] vt.投，掷 vi.投掷'
 keywords = ['ai words', 'pitch']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ipɪtʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) throwing [or](/en/post/or/) projecting [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [ball](/en/post/ball/), [with](/en/post/with/) [force](/en/post/force/) [to](/en/post/to/) [a](/en/post/a/) [target](/en/post/target/) [or](/en/post/or/) [a](/en/post/a/) [specific](/en/post/specific/) [location](/en/post/location/).** [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) pitched [the](/en/post/the/) [ball](/en/post/ball/) [to](/en/post/to/) [the](/en/post/the/) catcher."
-2. **[A](/en/post/a/) [proposal](/en/post/proposal/) [or](/en/post/or/) [suggestion](/en/post/suggestion/), [often](/en/post/often/) [for](/en/post/for/) [a](/en/post/a/) [business](/en/post/business/) [deal](/en/post/deal/) [or](/en/post/or/) [project](/en/post/project/).** [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) presented [a](/en/post/a/) compelling [pitch](/en/post/pitch/) [for](/en/post/for/) [her](/en/post/her/) [new](/en/post/new/) startup [idea](/en/post/idea/)."
-3. **[A](/en/post/a/) [particular](/en/post/particular/) [sound](/en/post/sound/), [tone](/en/post/tone/), [or](/en/post/or/) [register](/en/post/register/) [of](/en/post/of/) [a](/en/post/a/) [voice](/en/post/voice/), [especially](/en/post/especially/) [when](/en/post/when/) [used](/en/post/used/) [to](/en/post/to/) [convey](/en/post/convey/) [emotion](/en/post/emotion/) [or](/en/post/or/) [persuade](/en/post/persuade/).** [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [deep](/en/post/deep/) [pitch](/en/post/pitch/) captivated [the](/en/post/the/) [audience](/en/post/audience/)."
-4. **[A](/en/post/a/) [level](/en/post/level/) [or](/en/post/or/) [degree](/en/post/degree/) [of](/en/post/of/) acidity, [especially](/en/post/especially/) [of](/en/post/of/) [a](/en/post/a/) [liquid](/en/post/liquid/).** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [coffee](/en/post/coffee/) was [too](/en/post/too/) [strong](/en/post/strong/), [it](/en/post/it/) had [a](/en/post/a/) [high](/en/post/high/) [pitch](/en/post/pitch/)."
+### [Noun](/post/noun/)
+1. **[The](/post/the/) [act](/post/act/) [of](/post/of/) throwing [or](/post/or/) projecting [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [ball](/post/ball/), [with](/post/with/) [force](/post/force/) [to](/post/to/) [a](/post/a/) [target](/post/target/) [or](/post/or/) [a](/post/a/) [specific](/post/specific/) [location](/post/location/).** [For](/post/for/) [example](/post/example/): "[He](/post/he/) pitched [the](/post/the/) [ball](/post/ball/) [to](/post/to/) [the](/post/the/) catcher."
+2. **[A](/post/a/) [proposal](/post/proposal/) [or](/post/or/) [suggestion](/post/suggestion/), [often](/post/often/) [for](/post/for/) [a](/post/a/) [business](/post/business/) [deal](/post/deal/) [or](/post/or/) [project](/post/project/).** [For](/post/for/) [example](/post/example/): "[She](/post/she/) presented [a](/post/a/) compelling [pitch](/post/pitch/) [for](/post/for/) [her](/post/her/) [new](/post/new/) startup [idea](/post/idea/)."
+3. **[A](/post/a/) [particular](/post/particular/) [sound](/post/sound/), [tone](/post/tone/), [or](/post/or/) [register](/post/register/) [of](/post/of/) [a](/post/a/) [voice](/post/voice/), [especially](/post/especially/) [when](/post/when/) [used](/post/used/) [to](/post/to/) [convey](/post/convey/) [emotion](/post/emotion/) [or](/post/or/) [persuade](/post/persuade/).** [For](/post/for/) [example](/post/example/): "[His](/post/his/) [deep](/post/deep/) [pitch](/post/pitch/) captivated [the](/post/the/) [audience](/post/audience/)."
+4. **[A](/post/a/) [level](/post/level/) [or](/post/or/) [degree](/post/degree/) [of](/post/of/) acidity, [especially](/post/especially/) [of](/post/of/) [a](/post/a/) [liquid](/post/liquid/).** [For](/post/for/) [example](/post/example/): "[The](/post/the/) [coffee](/post/coffee/) was [too](/post/too/) [strong](/post/strong/), [it](/post/it/) had [a](/post/a/) [high](/post/high/) [pitch](/post/pitch/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [throw](/en/post/throw/) ([a](/en/post/a/) [ball](/en/post/ball/)) toward [a](/en/post/a/) [target](/en/post/target/) [or](/en/post/or/) recipient.** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) pitcher threw [a](/en/post/a/) fastball."
-2. **[To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [proposal](/en/post/proposal/) [or](/en/post/or/) presentation, typically [to](/en/post/to/) [try](/en/post/try/) [to](/en/post/to/) [sell](/en/post/sell/) [or](/en/post/or/) [convince](/en/post/convince/) [someone](/en/post/someone/).** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) entrepreneur pitched [her](/en/post/her/) [idea](/en/post/idea/) [to](/en/post/to/) [the](/en/post/the/) investors."
-3. **[To](/en/post/to/) [move](/en/post/move/) ([a](/en/post/a/) [vehicle](/en/post/vehicle/)) [forward](/en/post/forward/) [by](/en/post/by/) pressing [down](/en/post/down/) [on](/en/post/on/) [the](/en/post/the/) accelerator.** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [driver](/en/post/driver/) [smoothly](/en/post/smoothly/) pitched [the](/en/post/the/) [car](/en/post/car/) [up](/en/post/up/) [the](/en/post/the/) [hill](/en/post/hill/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [throw](/post/throw/) ([a](/post/a/) [ball](/post/ball/)) toward [a](/post/a/) [target](/post/target/) [or](/post/or/) recipient.** [For](/post/for/) [example](/post/example/): "[The](/post/the/) pitcher threw [a](/post/a/) fastball."
+2. **[To](/post/to/) [make](/post/make/) [a](/post/a/) [proposal](/post/proposal/) [or](/post/or/) presentation, typically [to](/post/to/) [try](/post/try/) [to](/post/to/) [sell](/post/sell/) [or](/post/or/) [convince](/post/convince/) [someone](/post/someone/).** [For](/post/for/) [example](/post/example/): "[The](/post/the/) entrepreneur pitched [her](/post/her/) [idea](/post/idea/) [to](/post/to/) [the](/post/the/) investors."
+3. **[To](/post/to/) [move](/post/move/) ([a](/post/a/) [vehicle](/post/vehicle/)) [forward](/post/forward/) [by](/post/by/) pressing [down](/post/down/) [on](/post/on/) [the](/post/the/) accelerator.** [For](/post/for/) [example](/post/example/): "[The](/post/the/) [driver](/post/driver/) [smoothly](/post/smoothly/) pitched [the](/post/the/) [car](/post/car/) [up](/post/up/) [the](/post/the/) [hill](/post/hill/)."
 
 ## Phrases
-- "[Pitch](/en/post/pitch/) [a](/en/post/a/) [tent](/en/post/tent/)" [means](/en/post/means/) [to](/en/post/to/) [set](/en/post/set/) [up](/en/post/up/) [a](/en/post/a/) [tent](/en/post/tent/).
-- "[Throw](/en/post/throw/) [a](/en/post/a/) [pitch](/en/post/pitch/)" is slang [for](/en/post/for/) making [a](/en/post/a/) verbal [proposal](/en/post/proposal/) [or](/en/post/or/) presentation.
-- "High-pitched [voice](/en/post/voice/)" describes [a](/en/post/a/) [voice](/en/post/voice/) [that](/en/post/that/) is [thin](/en/post/thin/) [and](/en/post/and/) [high](/en/post/high/) [in](/en/post/in/) [tone](/en/post/tone/).
+- "[Pitch](/post/pitch/) [a](/post/a/) [tent](/post/tent/)" [means](/post/means/) [to](/post/to/) [set](/post/set/) [up](/post/up/) [a](/post/a/) [tent](/post/tent/).
+- "[Throw](/post/throw/) [a](/post/a/) [pitch](/post/pitch/)" is slang [for](/post/for/) making [a](/post/a/) verbal [proposal](/post/proposal/) [or](/post/or/) presentation.
+- "High-pitched [voice](/post/voice/)" describes [a](/post/a/) [voice](/post/voice/) [that](/post/that/) is [thin](/post/thin/) [and](/post/and/) [high](/post/high/) [in](/post/in/) [tone](/post/tone/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) batter [hit](/en/post/hit/) [a](/en/post/a/) [home](/en/post/home/) [run](/en/post/run/) [off](/en/post/off/) [the](/en/post/the/) pitcher's [high](/en/post/high/) [pitch](/en/post/pitch/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) CEO [will](/en/post/will/) [be](/en/post/be/) pitching [her](/en/post/her/) [vision](/en/post/vision/) [for](/en/post/for/) [the](/en/post/the/) company's [future](/en/post/future/) [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/)."
-- **Pronounced [Action](/en/post/action/)**: "[He](/en/post/he/) practiced [his](/en/post/his/) pitching [technique](/en/post/technique/) [before](/en/post/before/) [the](/en/post/the/) [game](/en/post/game/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) batter [hit](/post/hit/) [a](/post/a/) [home](/post/home/) [run](/post/run/) [off](/post/off/) [the](/post/the/) pitcher's [high](/post/high/) [pitch](/post/pitch/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) CEO [will](/post/will/) [be](/post/be/) pitching [her](/post/her/) [vision](/post/vision/) [for](/post/for/) [the](/post/the/) company's [future](/post/future/) [at](/post/at/) [the](/post/the/) [conference](/post/conference/)."
+- **Pronounced [Action](/post/action/)**: "[He](/post/he/) practiced [his](/post/his/) pitching [technique](/post/technique/) [before](/post/before/) [the](/post/the/) [game](/post/game/)."
 
 ## Synonyms
 - Threw
 - Tossed
-- Made [a](/en/post/a/) [proposal](/en/post/proposal/)
-- Submitted [a](/en/post/a/) [plan](/en/post/plan/)
+- Made [a](/post/a/) [proposal](/post/proposal/)
+- Submitted [a](/post/a/) [plan](/post/plan/)
 - Proposed
-- Made an [offer](/en/post/offer/)
+- Made an [offer](/post/offer/)

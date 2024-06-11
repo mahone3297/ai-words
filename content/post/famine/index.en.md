@@ -7,28 +7,28 @@ description = '[ˈfæmin] n.饥荒；严重的缺乏'
 keywords = ['ai words', 'famine']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfæmɪn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: ([often](/en/post/often/) [used](/en/post/used/) [with](/en/post/with/) '[a](/en/post/a/)') [A](/en/post/a/) [severe](/en/post/severe/) [shortage](/en/post/shortage/) [of](/en/post/of/) [food](/en/post/food/), caused [by](/en/post/by/) [crop](/en/post/crop/) [failure](/en/post/failure/), [war](/en/post/war/), [or](/en/post/or/) [natural](/en/post/natural/) [disaster](/en/post/disaster/) resulting [in](/en/post/in/) [widespread](/en/post/widespread/) [hunger](/en/post/hunger/) [and](/en/post/and/) starvation. _E.g._ "[The](/en/post/the/) [country](/en/post/country/) suffered [a](/en/post/a/) devastating [famine](/en/post/famine/) [that](/en/post/that/) lasted [for](/en/post/for/) [several](/en/post/several/) years."
+- **[Noun](/post/noun/)**: ([often](/post/often/) [used](/post/used/) [with](/post/with/) '[a](/post/a/)') [A](/post/a/) [severe](/post/severe/) [shortage](/post/shortage/) [of](/post/of/) [food](/post/food/), caused [by](/post/by/) [crop](/post/crop/) [failure](/post/failure/), [war](/post/war/), [or](/post/or/) [natural](/post/natural/) [disaster](/post/disaster/) resulting [in](/post/in/) [widespread](/post/widespread/) [hunger](/post/hunger/) [and](/post/and/) starvation. _E.g._ "[The](/post/the/) [country](/post/country/) suffered [a](/post/a/) devastating [famine](/post/famine/) [that](/post/that/) lasted [for](/post/for/) [several](/post/several/) years."
 
 ### Phrases
-- "[Famine](/en/post/famine/) [relief](/en/post/relief/)": Efforts [to](/en/post/to/) [provide](/en/post/provide/) [food](/en/post/food/) [and](/en/post/and/) [aid](/en/post/aid/) [to](/en/post/to/) areas affected [by](/en/post/by/) [famine](/en/post/famine/).
-- "[Break](/en/post/break/) [the](/en/post/the/) [famine](/en/post/famine/)": [To](/en/post/to/) [end](/en/post/end/) [or](/en/post/or/) alleviate [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [famine](/en/post/famine/).
-- "Drought-induced [famine](/en/post/famine/)": [A](/en/post/a/) [famine](/en/post/famine/) caused [by](/en/post/by/) [a](/en/post/a/) prolonged [absence](/en/post/absence/) [of](/en/post/of/) [rain](/en/post/rain/) [leading](/en/post/leading/) [to](/en/post/to/) [poor](/en/post/poor/) harvests.
+- "[Famine](/post/famine/) [relief](/post/relief/)": Efforts [to](/post/to/) [provide](/post/provide/) [food](/post/food/) [and](/post/and/) [aid](/post/aid/) [to](/post/to/) areas affected [by](/post/by/) [famine](/post/famine/).
+- "[Break](/post/break/) [the](/post/the/) [famine](/post/famine/)": [To](/post/to/) [end](/post/end/) [or](/post/or/) alleviate [a](/post/a/) [period](/post/period/) [of](/post/of/) [famine](/post/famine/).
+- "Drought-induced [famine](/post/famine/)": [A](/post/a/) [famine](/post/famine/) caused [by](/post/by/) [a](/post/a/) prolonged [absence](/post/absence/) [of](/post/of/) [rain](/post/rain/) [leading](/post/leading/) [to](/post/to/) [poor](/post/poor/) harvests.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[During](/en/post/during/) [the](/en/post/the/) [Great](/en/post/great/) [Famine](/en/post/famine/), millions perished [due](/en/post/due/) [to](/en/post/to/) [lack](/en/post/lack/) [of](/en/post/of/) [food](/en/post/food/)."
-- "[The](/en/post/the/) [charity](/en/post/charity/) works tirelessly [to](/en/post/to/) [prevent](/en/post/prevent/) [famine](/en/post/famine/) [in](/en/post/in/) war-torn regions."
-- "[The](/en/post/the/) [government](/en/post/government/) declared [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [emergency](/en/post/emergency/) [during](/en/post/during/) [the](/en/post/the/) [famine](/en/post/famine/) [period](/en/post/period/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[During](/post/during/) [the](/post/the/) [Great](/post/great/) [Famine](/post/famine/), millions perished [due](/post/due/) [to](/post/to/) [lack](/post/lack/) [of](/post/of/) [food](/post/food/)."
+- "[The](/post/the/) [charity](/post/charity/) works tirelessly [to](/post/to/) [prevent](/post/prevent/) [famine](/post/famine/) [in](/post/in/) war-torn regions."
+- "[The](/post/the/) [government](/post/government/) declared [a](/post/a/) [state](/post/state/) [of](/post/of/) [emergency](/post/emergency/) [during](/post/during/) [the](/post/the/) [famine](/post/famine/) [period](/post/period/)."
 
 ## Synonyms
 - Starvation
-- [Hunger](/en/post/hunger/) [crisis](/en/post/crisis/)
-- [Food](/en/post/food/) [shortage](/en/post/shortage/)
+- [Hunger](/post/hunger/) [crisis](/post/crisis/)
+- [Food](/post/food/) [shortage](/post/shortage/)
 - Scarcity
 - dearth
-- [Want](/en/post/want/)
-- Malnutrition [crisis](/en/post/crisis/)
+- [Want](/post/want/)
+- Malnutrition [crisis](/post/crisis/)
 - Pestilence (archaic)

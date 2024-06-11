@@ -11,21 +11,21 @@ keywords = ['ai words', 'hardship']
 /hɑːrdʃɪp/
 
 ## 释义
-- **名词**: 困苦，艰难，困厄。指生活中的困难或挑战。例如: "[They](/post/they/) had [to](/post/to/) [endure](/post/endure/) [many](/post/many/) hardships [during](/post/during/) [the](/post/the/) [war](/post/war/)."
-- **形容词**: （罕见用法）艰苦的，艰难的。例如: "[The](/post/the/) [hardship](/post/hardship/) [of](/post/of/) [the](/post/the/) [journey](/post/journey/) made [them](/post/them/) stronger."
+- **名词**: 困苦，艰难，困厄。指生活中的困难或挑战。例如: "[They](/zh/post/they/) had [to](/zh/post/to/) [endure](/zh/post/endure/) [many](/zh/post/many/) hardships [during](/zh/post/during/) [the](/zh/post/the/) [war](/zh/post/war/)."
+- **形容词**: （罕见用法）艰苦的，艰难的。例如: "[The](/zh/post/the/) [hardship](/zh/post/hardship/) [of](/zh/post/of/) [the](/zh/post/the/) [journey](/zh/post/journey/) made [them](/zh/post/them/) stronger."
 
 ## 短语
-- "[Financial](/post/financial/) [hardship](/post/hardship/)" 指经济困难。
-- "[Endure](/post/endure/) hardships" 意味着忍受艰难困苦。
-- "[Hardship](/post/hardship/) allowance" 是指为在艰苦条件下工作的人提供的额外补贴。
+- "[Financial](/zh/post/financial/) [hardship](/zh/post/hardship/)" 指经济困难。
+- "[Endure](/zh/post/endure/) hardships" 意味着忍受艰难困苦。
+- "[Hardship](/zh/post/hardship/) allowance" 是指为在艰苦条件下工作的人提供的额外补贴。
 
 ## 例句
-- 名词: "[The](/post/the/) refugees faced [numerous](/post/numerous/) hardships [in](/post/in/) [their](/post/their/) [new](/post/new/) [country](/post/country/)."
-- 形容词: "[The](/post/the/) soldiers were trained [to](/post/to/) [survive](/post/survive/) [in](/post/in/) [harsh](/post/harsh/) [and](/post/and/) [hardship](/post/hardship/) conditions."
+- 名词: "[The](/zh/post/the/) refugees faced [numerous](/zh/post/numerous/) hardships [in](/zh/post/in/) [their](/zh/post/their/) [new](/zh/post/new/) [country](/zh/post/country/)."
+- 形容词: "[The](/zh/post/the/) soldiers were trained [to](/zh/post/to/) [survive](/zh/post/survive/) [in](/zh/post/in/) [harsh](/zh/post/harsh/) [and](/zh/post/and/) [hardship](/zh/post/hardship/) conditions."
 
 ## 同义词
 - Difficulties
 - Struggles
 - Suffering
 - Adversity
-- [Trial](/post/trial/)
+- [Trial](/zh/post/trial/)

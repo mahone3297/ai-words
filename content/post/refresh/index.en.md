@@ -7,38 +7,38 @@ description = '[riˈfre∫] vt.使清新 vi.恢复精神'
 keywords = ['ai words', 'refresh']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈfreʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [being](/en/post/being/) revived [or](/en/post/or/) refreshed [after](/en/post/after/) [rest](/en/post/rest/) [or](/en/post/or/) [activity](/en/post/activity/)**. [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [a](/en/post/a/) [cool](/en/post/cool/) [drink](/en/post/drink/) [provided](/en/post/provided/) much-needed [refreshment](/en/post/refreshment/)."
-2. **An [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) making [something](/en/post/something/) [look](/en/post/look/), [feel](/en/post/feel/), [or](/en/post/or/) [smell](/en/post/smell/) [new](/en/post/new/) [or](/en/post/or/) invigorated**. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [scent](/en/post/scent/) [of](/en/post/of/) lemonade brought [a](/en/post/a/) refreshing aroma [to](/en/post/to/) [the](/en/post/the/) [air](/en/post/air/)."
-3. **[A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [system](/en/post/system/) designed [to](/en/post/to/) [supply](/en/post/supply/) [water](/en/post/water/) [or](/en/post/or/) [other](/en/post/other/) substances [for](/en/post/for/) cooling [or](/en/post/or/) hydration**. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [air](/en/post/air/) conditioning [system](/en/post/system/) provides [a](/en/post/a/) refreshing [break](/en/post/break/) [from](/en/post/from/) [the](/en/post/the/) [heat](/en/post/heat/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [being](/post/being/) revived [or](/post/or/) refreshed [after](/post/after/) [rest](/post/rest/) [or](/post/or/) [activity](/post/activity/)**. [For](/post/for/) [example](/post/example/): "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [a](/post/a/) [cool](/post/cool/) [drink](/post/drink/) [provided](/post/provided/) much-needed [refreshment](/post/refreshment/)."
+2. **An [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) making [something](/post/something/) [look](/post/look/), [feel](/post/feel/), [or](/post/or/) [smell](/post/smell/) [new](/post/new/) [or](/post/or/) invigorated**. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [scent](/post/scent/) [of](/post/of/) lemonade brought [a](/post/a/) refreshing aroma [to](/post/to/) [the](/post/the/) [air](/post/air/)."
+3. **[A](/post/a/) [device](/post/device/) [or](/post/or/) [system](/post/system/) designed [to](/post/to/) [supply](/post/supply/) [water](/post/water/) [or](/post/or/) [other](/post/other/) substances [for](/post/for/) cooling [or](/post/or/) hydration**. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [air](/post/air/) conditioning [system](/post/system/) provides [a](/post/a/) refreshing [break](/post/break/) [from](/post/from/) [the](/post/the/) [heat](/post/heat/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [make](/en/post/make/) ([someone](/en/post/someone/)) [feel](/en/post/feel/) revitalized [or](/en/post/or/) invigorated**. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) refreshed [herself](/en/post/herself/) [with](/en/post/with/) [a](/en/post/a/) [cold](/en/post/cold/) [shower](/en/post/shower/) [before](/en/post/before/) leaving [for](/en/post/for/) [work](/en/post/work/)."
-2. **[To](/en/post/to/) update [or](/en/post/or/) replenish ([a](/en/post/a/) [computer](/en/post/computer/) [program](/en/post/program/) [or](/en/post/or/) webpage)**. [For](/en/post/for/) [example](/en/post/example/): "Clicking [the](/en/post/the/) [refresh](/en/post/refresh/) [button](/en/post/button/) updated [the](/en/post/the/) displayed [information](/en/post/information/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [make](/post/make/) ([someone](/post/someone/)) [feel](/post/feel/) revitalized [or](/post/or/) invigorated**. [For](/post/for/) [example](/post/example/): "[She](/post/she/) refreshed [herself](/post/herself/) [with](/post/with/) [a](/post/a/) [cold](/post/cold/) [shower](/post/shower/) [before](/post/before/) leaving [for](/post/for/) [work](/post/work/)."
+2. **[To](/post/to/) update [or](/post/or/) replenish ([a](/post/a/) [computer](/post/computer/) [program](/post/program/) [or](/post/or/) webpage)**. [For](/post/for/) [example](/post/example/): "Clicking [the](/post/the/) [refresh](/post/refresh/) [button](/post/button/) updated [the](/post/the/) displayed [information](/post/information/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Restoring [strength](/en/post/strength/), [energy](/en/post/energy/), [or](/en/post/or/) vitality**. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) garden's greenery offered [a](/en/post/a/) visually refreshing [sight](/en/post/sight/)."
-2. **Having [a](/en/post/a/) cooling [or](/en/post/or/) invigorating [effect](/en/post/effect/)**. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [cool](/en/post/cool/) [breeze](/en/post/breeze/) [provided](/en/post/provided/) [a](/en/post/a/) refreshing [break](/en/post/break/) [from](/en/post/from/) [the](/en/post/the/) [hot](/en/post/hot/) [sun](/en/post/sun/)."
+### [Adjective](/post/adjective/)
+1. **Restoring [strength](/post/strength/), [energy](/post/energy/), [or](/post/or/) vitality**. [For](/post/for/) [example](/post/example/): "[The](/post/the/) garden's greenery offered [a](/post/a/) visually refreshing [sight](/post/sight/)."
+2. **Having [a](/post/a/) cooling [or](/post/or/) invigorating [effect](/post/effect/)**. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [cool](/post/cool/) [breeze](/post/breeze/) [provided](/post/provided/) [a](/post/a/) refreshing [break](/post/break/) [from](/post/from/) [the](/post/the/) [hot](/post/hot/) [sun](/post/sun/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) refreshing [break](/en/post/break/)"
-- "[A](/en/post/a/) refreshing [change](/en/post/change/) [of](/en/post/of/) [scenery](/en/post/scenery/)"
-- "[Refresh](/en/post/refresh/) [your](/en/post/your/) [memory](/en/post/memory/)"
-- "[Refresh](/en/post/refresh/) [your](/en/post/your/) browser"
+- "[Take](/post/take/) [a](/post/a/) refreshing [break](/post/break/)"
+- "[A](/post/a/) refreshing [change](/post/change/) [of](/post/of/) [scenery](/post/scenery/)"
+- "[Refresh](/post/refresh/) [your](/post/your/) [memory](/post/memory/)"
+- "[Refresh](/post/refresh/) [your](/post/your/) browser"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [cool](/en/post/cool/) [breeze](/en/post/breeze/) was [a](/en/post/a/) [welcome](/en/post/welcome/) [refreshment](/en/post/refreshment/) [on](/en/post/on/) [a](/en/post/a/) [hot](/en/post/hot/) [summer](/en/post/summer/) [day](/en/post/day/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) exercising, [he](/en/post/he/) felt [a](/en/post/a/) [rush](/en/post/rush/) [of](/en/post/of/) refreshing [energy](/en/post/energy/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) spa's sauna [provided](/en/post/provided/) [a](/en/post/a/) [truly](/en/post/truly/) invigorating [refresh](/en/post/refresh/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [cool](/post/cool/) [breeze](/post/breeze/) was [a](/post/a/) [welcome](/post/welcome/) [refreshment](/post/refreshment/) [on](/post/on/) [a](/post/a/) [hot](/post/hot/) [summer](/post/summer/) [day](/post/day/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) exercising, [he](/post/he/) felt [a](/post/a/) [rush](/post/rush/) [of](/post/of/) refreshing [energy](/post/energy/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) spa's sauna [provided](/post/provided/) [a](/post/a/) [truly](/post/truly/) invigorating [refresh](/post/refresh/)."
 
 ## Synonyms
 - Revive
 - Rejuvenate
-- [Cool](/en/post/cool/) [off](/en/post/off/)
+- [Cool](/post/cool/) [off](/post/off/)
 - Hydrate
-- [Stimulate](/en/post/stimulate/)
-- [Renew](/en/post/renew/)
+- [Stimulate](/post/stimulate/)
+- [Renew](/post/renew/)

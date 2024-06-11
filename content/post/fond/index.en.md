@@ -7,33 +7,33 @@ description = '[fɔnd] a.喜爱的；溺爱的'
 keywords = ['ai words', 'fond']
 +++
 
-## [Word](/en/post/word/): [Fond](/en/post/fond/)
+## [Word](/post/word/): [Fond](/post/fond/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɒnd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) liking [or](/en/post/or/) [affection](/en/post/affection/) [for](/en/post/for/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/); having [a](/en/post/a/) [strong](/en/post/strong/) [positive](/en/post/positive/) [feeling](/en/post/feeling/) [or](/en/post/or/) attachment. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is [fond](/en/post/fond/) [of](/en/post/of/) animals."
-  - *[Also](/en/post/also/)*, ([formal](/en/post/formal/)) foolishly [or](/en/post/or/) excessively [optimistic](/en/post/optimistic/) [or](/en/post/or/) trusting; [often](/en/post/often/) [used](/en/post/used/) [with](/en/post/with/) '[of](/en/post/of/)': "[He](/en/post/he/) was [fond](/en/post/fond/) [of](/en/post/of/) making grandiose plans."
+- **[Adjective](/post/adjective/)**: Having [a](/post/a/) liking [or](/post/or/) [affection](/post/affection/) [for](/post/for/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/); having [a](/post/a/) [strong](/post/strong/) [positive](/post/positive/) [feeling](/post/feeling/) [or](/post/or/) attachment. [For](/post/for/) [example](/post/example/): "[She](/post/she/) is [fond](/post/fond/) [of](/post/of/) animals."
+  - *[Also](/post/also/)*, ([formal](/post/formal/)) foolishly [or](/post/or/) excessively [optimistic](/post/optimistic/) [or](/post/or/) trusting; [often](/post/often/) [used](/post/used/) [with](/post/with/) '[of](/post/of/)': "[He](/post/he/) was [fond](/post/fond/) [of](/post/of/) making grandiose plans."
 
 ## Phrases
-- "[Be](/en/post/be/) [fond](/en/post/fond/) [of](/en/post/of/)": [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) liking [or](/en/post/or/) [affection](/en/post/affection/) [for](/en/post/for/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [Example](/en/post/example/): "I am [very](/en/post/very/) [fond](/en/post/fond/) [of](/en/post/of/) [chocolate](/en/post/chocolate/)."
-- "[In](/en/post/in/) [fond](/en/post/fond/) [memory](/en/post/memory/)": Remembering [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [with](/en/post/with/) [affection](/en/post/affection/). [Example](/en/post/example/): "[The](/en/post/the/) [park](/en/post/park/) [bench](/en/post/bench/) was dedicated [in](/en/post/in/) [fond](/en/post/fond/) [memory](/en/post/memory/) [of](/en/post/of/) [her](/en/post/her/) [grandmother](/en/post/grandmother/)."
-- "[Fond](/en/post/fond/) hopes/dreams": [Optimistic](/en/post/optimistic/) [or](/en/post/or/) cherished aspirations. [Example](/en/post/example/): "[They](/en/post/they/) had [fond](/en/post/fond/) hopes [of](/en/post/of/) starting [their](/en/post/their/) [own](/en/post/own/) [business](/en/post/business/) someday."
+- "[Be](/post/be/) [fond](/post/fond/) [of](/post/of/)": [To](/post/to/) [have](/post/have/) [a](/post/a/) liking [or](/post/or/) [affection](/post/affection/) [for](/post/for/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). [Example](/post/example/): "I am [very](/post/very/) [fond](/post/fond/) [of](/post/of/) [chocolate](/post/chocolate/)."
+- "[In](/post/in/) [fond](/post/fond/) [memory](/post/memory/)": Remembering [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [with](/post/with/) [affection](/post/affection/). [Example](/post/example/): "[The](/post/the/) [park](/post/park/) [bench](/post/bench/) was dedicated [in](/post/in/) [fond](/post/fond/) [memory](/post/memory/) [of](/post/of/) [her](/post/her/) [grandmother](/post/grandmother/)."
+- "[Fond](/post/fond/) hopes/dreams": [Optimistic](/post/optimistic/) [or](/post/or/) cherished aspirations. [Example](/post/example/): "[They](/post/they/) had [fond](/post/fond/) hopes [of](/post/of/) starting [their](/post/their/) [own](/post/own/) [business](/post/business/) someday."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) is [fond](/en/post/fond/) [of](/en/post/of/) collecting [rare](/en/post/rare/) books."
-- "[Despite](/en/post/despite/) [her](/en/post/her/) [better](/en/post/better/) judgment, [she](/en/post/she/) remained [fond](/en/post/fond/) [of](/en/post/of/) [him](/en/post/him/) [even](/en/post/even/) [after](/en/post/after/) [their](/en/post/their/) breakup."
-- "([Formal](/en/post/formal/)) [The](/en/post/the/) [young](/en/post/young/) entrepreneur was [perhaps](/en/post/perhaps/) [too](/en/post/too/) [fond](/en/post/fond/) [of](/en/post/of/) [his](/en/post/his/) innovative ideas [to](/en/post/to/) [consider](/en/post/consider/) practicality."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) is [fond](/post/fond/) [of](/post/of/) collecting [rare](/post/rare/) books."
+- "[Despite](/post/despite/) [her](/post/her/) [better](/post/better/) judgment, [she](/post/she/) remained [fond](/post/fond/) [of](/post/of/) [him](/post/him/) [even](/post/even/) [after](/post/after/) [their](/post/their/) breakup."
+- "([Formal](/post/formal/)) [The](/post/the/) [young](/post/young/) entrepreneur was [perhaps](/post/perhaps/) [too](/post/too/) [fond](/post/fond/) [of](/post/of/) [his](/post/his/) innovative ideas [to](/post/to/) [consider](/post/consider/) practicality."
 
 ## Synonyms
 - Affectionate towards
 - Liking
 - Loving
-- Attached [to](/en/post/to/)
-- Devoted [to](/en/post/to/)
-- Enamored [of](/en/post/of/)
-- Infatuated [with](/en/post/with/)
+- Attached [to](/post/to/)
+- Devoted [to](/post/to/)
+- Enamored [of](/post/of/)
+- Infatuated [with](/post/with/)
 - Adore
 - Cherish
-- [Appreciate](/en/post/appreciate/)
+- [Appreciate](/post/appreciate/)

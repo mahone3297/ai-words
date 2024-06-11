@@ -7,42 +7,42 @@ description = '[ˈdeəri] n.牛奶场；乳制品'
 keywords = ['ai words', 'dairy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dəˈraɪər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[dairy](/en/post/dairy/)** is [a](/en/post/a/):
-1. [A](/en/post/a/) [facility](/en/post/facility/) [where](/en/post/where/) [milk](/en/post/milk/) [and](/en/post/and/) [other](/en/post/other/) [dairy](/en/post/dairy/) products, [such](/en/post/such/) [as](/en/post/as/) [cheese](/en/post/cheese/) [and](/en/post/and/) yogurt, are produced, processed, [and](/en/post/and/) stored.
-2. [A](/en/post/a/) [store](/en/post/store/) [that](/en/post/that/) sells [milk](/en/post/milk/) [and](/en/post/and/) [other](/en/post/other/) [dairy](/en/post/dairy/) items.
-3. (informal) [A](/en/post/a/) person's [origin](/en/post/origin/) [or](/en/post/or/) ancestry [from](/en/post/from/) farming [or](/en/post/or/) [milk](/en/post/milk/) [production](/en/post/production/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[dairy](/post/dairy/)** is [a](/post/a/):
+1. [A](/post/a/) [facility](/post/facility/) [where](/post/where/) [milk](/post/milk/) [and](/post/and/) [other](/post/other/) [dairy](/post/dairy/) products, [such](/post/such/) [as](/post/as/) [cheese](/post/cheese/) [and](/post/and/) yogurt, are produced, processed, [and](/post/and/) stored.
+2. [A](/post/a/) [store](/post/store/) [that](/post/that/) sells [milk](/post/milk/) [and](/post/and/) [other](/post/other/) [dairy](/post/dairy/) items.
+3. (informal) [A](/post/a/) person's [origin](/post/origin/) [or](/post/or/) ancestry [from](/post/from/) farming [or](/post/or/) [milk](/post/milk/) [production](/post/production/).
 
-[Example](/en/post/example/): "[The](/en/post/the/) [local](/en/post/local/) [dairy](/en/post/dairy/) [provided](/en/post/provided/) [fresh](/en/post/fresh/) [milk](/en/post/milk/) [every](/en/post/every/) [day](/en/post/day/)."
+[Example](/post/example/): "[The](/post/the/) [local](/post/local/) [dairy](/post/dairy/) [provided](/post/provided/) [fresh](/post/fresh/) [milk](/post/milk/) [every](/post/every/) [day](/post/day/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[dairy](/en/post/dairy/)** [can](/en/post/can/) [mean](/en/post/mean/):
-1. [To](/en/post/to/) [maintain](/en/post/maintain/) [or](/en/post/or/) [care](/en/post/care/) [for](/en/post/for/) [dairy](/en/post/dairy/) animals, [especially](/en/post/especially/) cows, [for](/en/post/for/) [milk](/en/post/milk/) [production](/en/post/production/).
-2. [To](/en/post/to/) [process](/en/post/process/) [milk](/en/post/milk/) [into](/en/post/into/) [dairy](/en/post/dairy/) products.
+### [Verb](/post/verb/)
+[To](/post/to/) **[dairy](/post/dairy/)** [can](/post/can/) [mean](/post/mean/):
+1. [To](/post/to/) [maintain](/post/maintain/) [or](/post/or/) [care](/post/care/) [for](/post/for/) [dairy](/post/dairy/) animals, [especially](/post/especially/) cows, [for](/post/for/) [milk](/post/milk/) [production](/post/production/).
+2. [To](/post/to/) [process](/post/process/) [milk](/post/milk/) [into](/post/into/) [dairy](/post/dairy/) products.
 
-[Example](/en/post/example/): "Farmers [dairy](/en/post/dairy/) [their](/en/post/their/) cows [twice](/en/post/twice/) [a](/en/post/a/) [day](/en/post/day/)."
+[Example](/post/example/): "Farmers [dairy](/post/dairy/) [their](/post/their/) cows [twice](/post/twice/) [a](/post/a/) [day](/post/day/)."
 
 ## Phrases
-- "[Dairy](/en/post/dairy/) [farm](/en/post/farm/)" refers [to](/en/post/to/) [a](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) cows [and](/en/post/and/) [other](/en/post/other/) [dairy](/en/post/dairy/) animals are raised.
-- "Non-dairy alternatives" are products made [without](/en/post/without/) using [animal](/en/post/animal/) [milk](/en/post/milk/).
-- "Dairy-free [cheese](/en/post/cheese/)" is [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [cheese](/en/post/cheese/) made [without](/en/post/without/) [milk](/en/post/milk/).
+- "[Dairy](/post/dairy/) [farm](/post/farm/)" refers [to](/post/to/) [a](/post/a/) [place](/post/place/) [where](/post/where/) cows [and](/post/and/) [other](/post/other/) [dairy](/post/dairy/) animals are raised.
+- "Non-dairy alternatives" are products made [without](/post/without/) using [animal](/post/animal/) [milk](/post/milk/).
+- "Dairy-free [cheese](/post/cheese/)" is [a](/post/a/) [type](/post/type/) [of](/post/of/) [cheese](/post/cheese/) made [without](/post/without/) [milk](/post/milk/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) visited [the](/en/post/the/) [nearby](/en/post/nearby/) [dairy](/en/post/dairy/) [to](/en/post/to/) [buy](/en/post/buy/) [some](/en/post/some/) [cream](/en/post/cream/) [for](/en/post/for/) baking."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) was [up](/en/post/up/) [early](/en/post/early/) dairying [his](/en/post/his/) [herd](/en/post/herd/) [before](/en/post/before/) [sunrise](/en/post/sunrise/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) visited [the](/post/the/) [nearby](/post/nearby/) [dairy](/post/dairy/) [to](/post/to/) [buy](/post/buy/) [some](/post/some/) [cream](/post/cream/) [for](/post/for/) baking."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [farmer](/post/farmer/) was [up](/post/up/) [early](/post/early/) dairying [his](/post/his/) [herd](/post/herd/) [before](/post/before/) [sunrise](/post/sunrise/)."
 
 ## Synonyms
-- [Milk](/en/post/milk/) [production](/en/post/production/)
+- [Milk](/post/milk/) [production](/post/production/)
 - Milkhouse
-- [Dairy](/en/post/dairy/) [operation](/en/post/operation/)
-- [Dairy](/en/post/dairy/) products
+- [Dairy](/post/dairy/) [operation](/post/operation/)
+- [Dairy](/post/dairy/) products
 - Cowshed
 
 ## Antonyms
 - Non-dairy
-- Lactose-free ([for](/en/post/for/) products [not](/en/post/not/) containing [milk](/en/post/milk/))
-- Plant-based ([for](/en/post/for/) alternatives [to](/en/post/to/) [dairy](/en/post/dairy/))
+- Lactose-free ([for](/post/for/) products [not](/post/not/) containing [milk](/post/milk/))
+- Plant-based ([for](/post/for/) alternatives [to](/post/to/) [dairy](/post/dairy/))

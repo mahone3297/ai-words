@@ -17,18 +17,18 @@ keywords = ['ai words', 'industry']
     3. **勤劳**: 指人们努力工作和生产的精神或态度。
 
 ## 短语
-- "[Industrial](/post/industrial/) [revolution](/post/revolution/)" 指的是18世纪末到19世纪初的工业化进程。
-- "[Heavy](/post/heavy/) [industry](/post/industry/)" 指的是需要大量资本和能源投入的制造业，如钢铁和化工。
-- "[Service](/post/service/) [industry](/post/industry/)" 包括提供服务而非实物产品的行业，如金融、旅游和教育。
+- "[Industrial](/zh/post/industrial/) [revolution](/zh/post/revolution/)" 指的是18世纪末到19世纪初的工业化进程。
+- "[Heavy](/zh/post/heavy/) [industry](/zh/post/industry/)" 指的是需要大量资本和能源投入的制造业，如钢铁和化工。
+- "[Service](/zh/post/service/) [industry](/zh/post/industry/)" 包括提供服务而非实物产品的行业，如金融、旅游和教育。
 
 ## 例句
-- 名词: "[The](/post/the/) [growth](/post/growth/) [of](/post/of/) [the](/post/the/) automotive [industry](/post/industry/) has [greatly](/post/greatly/) influenced urban [development](/post/development/)."
-- 名词: "[Her](/post/her/) [father](/post/father/) worked [in](/post/in/) [the](/post/the/) [coal](/post/coal/) [industry](/post/industry/) [for](/post/for/) [over](/post/over/) 30 years."
-- 名词: "[The](/post/the/) country's [economy](/post/economy/) is based [on](/post/on/) [a](/post/a/) [mix](/post/mix/) [of](/post/of/) [agriculture](/post/agriculture/) [and](/post/and/) [industry](/post/industry/)."
+- 名词: "[The](/zh/post/the/) [growth](/zh/post/growth/) [of](/zh/post/of/) [the](/zh/post/the/) automotive [industry](/zh/post/industry/) has [greatly](/zh/post/greatly/) influenced urban [development](/zh/post/development/)."
+- 名词: "[Her](/zh/post/her/) [father](/zh/post/father/) worked [in](/zh/post/in/) [the](/zh/post/the/) [coal](/zh/post/coal/) [industry](/zh/post/industry/) [for](/zh/post/for/) [over](/zh/post/over/) 30 years."
+- 名词: "[The](/zh/post/the/) country's [economy](/zh/post/economy/) is based [on](/zh/post/on/) [a](/zh/post/a/) [mix](/zh/post/mix/) [of](/zh/post/of/) [agriculture](/zh/post/agriculture/) [and](/zh/post/and/) [industry](/zh/post/industry/)."
 
 ## 同义词
 - Manufacturing
-- [Production](/post/production/)
+- [Production](/zh/post/production/)
 - Enterprise
 - Sector
-- [Field](/post/field/)
+- [Field](/zh/post/field/)

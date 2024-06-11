@@ -7,25 +7,25 @@ description = '[ˈmainəs] a.负的 prep.减(去)'
 keywords = ['ai words', 'minus']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmaɪnəs/
 
 ## Definitions
-- **[Preposition](/en/post/preposition/)**: Indicating subtraction [or](/en/post/or/) [a](/en/post/a/) deficiency. It's [used](/en/post/used/) [when](/en/post/when/) [finding](/en/post/finding/) [the](/en/post/the/) [difference](/en/post/difference/) [between](/en/post/between/) [two](/en/post/two/) numbers [or](/en/post/or/) amounts. [For](/en/post/for/) [example](/en/post/example/): "5 [minus](/en/post/minus/) 2 equals 3."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [mathematical](/en/post/mathematical/) [operation](/en/post/operation/) [of](/en/post/of/) subtraction; [the](/en/post/the/) [symbol](/en/post/symbol/) representing [this](/en/post/this/) [operation](/en/post/operation/), "-". [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [answer](/en/post/answer/) is [the](/en/post/the/) [result](/en/post/result/) [of](/en/post/of/) adding [the](/en/post/the/) [plus](/en/post/plus/) numbers [and](/en/post/and/) subtracting [the](/en/post/the/) [minus](/en/post/minus/) ones."
-- **[Adjective](/en/post/adjective/)**: [Less](/en/post/less/) [by](/en/post/by/) [a](/en/post/a/) specified [amount](/en/post/amount/) [or](/en/post/or/) [number](/en/post/number/); indicating [a](/en/post/a/) deficit [or](/en/post/or/) [loss](/en/post/loss/). [For](/en/post/for/) [example](/en/post/example/): "[Minus](/en/post/minus/) [ten](/en/post/ten/) degrees Celsius is [very](/en/post/very/) [cold](/en/post/cold/)."
+- **[Preposition](/post/preposition/)**: Indicating subtraction [or](/post/or/) [a](/post/a/) deficiency. It's [used](/post/used/) [when](/post/when/) [finding](/post/finding/) [the](/post/the/) [difference](/post/difference/) [between](/post/between/) [two](/post/two/) numbers [or](/post/or/) amounts. [For](/post/for/) [example](/post/example/): "5 [minus](/post/minus/) 2 equals 3."
+- **[Noun](/post/noun/)**: [The](/post/the/) [mathematical](/post/mathematical/) [operation](/post/operation/) [of](/post/of/) subtraction; [the](/post/the/) [symbol](/post/symbol/) representing [this](/post/this/) [operation](/post/operation/), "-". [For](/post/for/) [example](/post/example/): "[The](/post/the/) [answer](/post/answer/) is [the](/post/the/) [result](/post/result/) [of](/post/of/) adding [the](/post/the/) [plus](/post/plus/) numbers [and](/post/and/) subtracting [the](/post/the/) [minus](/post/minus/) ones."
+- **[Adjective](/post/adjective/)**: [Less](/post/less/) [by](/post/by/) [a](/post/a/) specified [amount](/post/amount/) [or](/post/or/) [number](/post/number/); indicating [a](/post/a/) deficit [or](/post/or/) [loss](/post/loss/). [For](/post/for/) [example](/post/example/): "[Minus](/post/minus/) [ten](/post/ten/) degrees Celsius is [very](/post/very/) [cold](/post/cold/)."
 
 ## Phrases
-- "[Minus](/en/post/minus/) [sign](/en/post/sign/)" refers [to](/en/post/to/) [the](/en/post/the/) [symbol](/en/post/symbol/) (-) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) subtraction [or](/en/post/or/) [a](/en/post/a/) [negative](/en/post/negative/) [value](/en/post/value/).
-- "[Minus](/en/post/minus/) [something](/en/post/something/)" implies [that](/en/post/that/) [something](/en/post/something/) is lacking [or](/en/post/or/) [absent](/en/post/absent/). e.g., "[The](/en/post/the/) [project](/en/post/project/) [would](/en/post/would/) [be](/en/post/be/) [perfect](/en/post/perfect/) [minus](/en/post/minus/) [a](/en/post/a/) [few](/en/post/few/) [minor](/en/post/minor/) errors."
-- "[Temperature](/en/post/temperature/) [minus](/en/post/minus/) [zero](/en/post/zero/)" indicates temperatures [below](/en/post/below/) freezing [point](/en/post/point/).
+- "[Minus](/post/minus/) [sign](/post/sign/)" refers [to](/post/to/) [the](/post/the/) [symbol](/post/symbol/) (-) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) subtraction [or](/post/or/) [a](/post/a/) [negative](/post/negative/) [value](/post/value/).
+- "[Minus](/post/minus/) [something](/post/something/)" implies [that](/post/that/) [something](/post/something/) is lacking [or](/post/or/) [absent](/post/absent/). e.g., "[The](/post/the/) [project](/post/project/) [would](/post/would/) [be](/post/be/) [perfect](/post/perfect/) [minus](/post/minus/) [a](/post/a/) [few](/post/few/) [minor](/post/minor/) errors."
+- "[Temperature](/post/temperature/) [minus](/post/minus/) [zero](/post/zero/)" indicates temperatures [below](/post/below/) freezing [point](/post/point/).
 
-## [Example](/en/post/example/) Sentences
-- **[Preposition](/en/post/preposition/)**: "[If](/en/post/if/) [you](/en/post/you/) [take](/en/post/take/) [away](/en/post/away/) [three](/en/post/three/) [from](/en/post/from/) [seven](/en/post/seven/), [you](/en/post/you/) [get](/en/post/get/) [four](/en/post/four/); [so](/en/post/so/) it's [seven](/en/post/seven/) [minus](/en/post/minus/) [three](/en/post/three/)."
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) [arithmetic](/en/post/arithmetic/), [we](/en/post/we/) [learned](/en/post/learned/) [about](/en/post/about/) [addition](/en/post/addition/), subtraction, multiplication, [and](/en/post/and/) [division](/en/post/division/), [with](/en/post/with/) '[minus](/en/post/minus/)' [being](/en/post/being/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [latter](/en/post/latter/)."
-- **[Adjective](/en/post/adjective/)**: "[After](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/), [the](/en/post/the/) [temperature](/en/post/temperature/) dropped [to](/en/post/to/) [minus](/en/post/minus/) [twenty](/en/post/twenty/) degrees Fahrenheit."
+## [Example](/post/example/) Sentences
+- **[Preposition](/post/preposition/)**: "[If](/post/if/) [you](/post/you/) [take](/post/take/) [away](/post/away/) [three](/post/three/) [from](/post/from/) [seven](/post/seven/), [you](/post/you/) [get](/post/get/) [four](/post/four/); [so](/post/so/) it's [seven](/post/seven/) [minus](/post/minus/) [three](/post/three/)."
+- **[Noun](/post/noun/)**: "[In](/post/in/) [arithmetic](/post/arithmetic/), [we](/post/we/) [learned](/post/learned/) [about](/post/about/) [addition](/post/addition/), subtraction, multiplication, [and](/post/and/) [division](/post/division/), [with](/post/with/) '[minus](/post/minus/)' [being](/post/being/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [latter](/post/latter/)."
+- **[Adjective](/post/adjective/)**: "[After](/post/after/) [the](/post/the/) [storm](/post/storm/), [the](/post/the/) [temperature](/post/temperature/) dropped [to](/post/to/) [minus](/post/minus/) [twenty](/post/twenty/) degrees Fahrenheit."
 
 ## Synonyms
-- [Less](/en/post/less/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [preposition](/en/post/preposition/))
-- [Subtract](/en/post/subtract/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) related [to](/en/post/to/) [the](/en/post/the/) [concept](/en/post/concept/))
-- [Negative](/en/post/negative/) ([for](/en/post/for/) [the](/en/post/the/) [adjective](/en/post/adjective/) [sense](/en/post/sense/) referring [to](/en/post/to/) [a](/en/post/a/) deficit [or](/en/post/or/) [a](/en/post/a/) [negative](/en/post/negative/) [quantity](/en/post/quantity/))
+- [Less](/post/less/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [preposition](/post/preposition/))
+- [Subtract](/post/subtract/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/) related [to](/post/to/) [the](/post/the/) [concept](/post/concept/))
+- [Negative](/post/negative/) ([for](/post/for/) [the](/post/the/) [adjective](/post/adjective/) [sense](/post/sense/) referring [to](/post/to/) [a](/post/a/) deficit [or](/post/or/) [a](/post/a/) [negative](/post/negative/) [quantity](/post/quantity/))

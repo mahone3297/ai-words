@@ -7,32 +7,32 @@ description = '[ˈdrɔːə] n.抽屉'
 keywords = ['ai words', 'drawer']
 +++
 
-## [Word](/en/post/word/): [Drawer](/en/post/drawer/)
+## [Word](/post/word/): [Drawer](/post/drawer/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdrɔːrər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) sliding [container](/en/post/container/), typically made [of](/en/post/of/) [wood](/en/post/wood/), [that](/en/post/that/) fits [into](/en/post/into/) [a](/en/post/a/) [desk](/en/post/desk/), dresser, [or](/en/post/or/) [cabinet](/en/post/cabinet/), [used](/en/post/used/) [for](/en/post/for/) storing items [such](/en/post/such/) [as](/en/post/as/) [clothes](/en/post/clothes/), papers, [or](/en/post/or/) utensils. [For](/en/post/for/) [example](/en/post/example/): "I [found](/en/post/found/) [the](/en/post/the/) [missing](/en/post/missing/) socks [in](/en/post/in/) [the](/en/post/the/) [bottom](/en/post/bottom/) [drawer](/en/post/drawer/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) sliding [container](/post/container/), typically made [of](/post/of/) [wood](/post/wood/), [that](/post/that/) fits [into](/post/into/) [a](/post/a/) [desk](/post/desk/), dresser, [or](/post/or/) [cabinet](/post/cabinet/), [used](/post/used/) [for](/post/for/) storing items [such](/post/such/) [as](/post/as/) [clothes](/post/clothes/), papers, [or](/post/or/) utensils. [For](/post/for/) [example](/post/example/): "I [found](/post/found/) [the](/post/the/) [missing](/post/missing/) socks [in](/post/in/) [the](/post/the/) [bottom](/post/bottom/) [drawer](/post/drawer/)."
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): "[She](/en/post/she/) opened [the](/en/post/the/) [top](/en/post/top/) [drawer](/en/post/drawer/) [to](/en/post/to/) retrieve [a](/en/post/a/) [pen](/en/post/pen/)."
+[Example](/post/example/) [sentence](/post/sentence/): "[She](/post/she/) opened [the](/post/the/) [top](/post/top/) [drawer](/post/drawer/) [to](/post/to/) retrieve [a](/post/a/) [pen](/post/pen/)."
 
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) draws, [especially](/en/post/especially/) [one](/en/post/one/) [with](/en/post/with/) [a](/en/post/a/) specified [talent](/en/post/talent/) [or](/en/post/or/) [role](/en/post/role/). [For](/en/post/for/) [instance](/en/post/instance/), "[The](/en/post/the/) [artist](/en/post/artist/) was [a](/en/post/a/) [skilled](/en/post/skilled/) [drawer](/en/post/drawer/) [of](/en/post/of/) landscapes."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) draws, [especially](/post/especially/) [one](/post/one/) [with](/post/with/) [a](/post/a/) specified [talent](/post/talent/) [or](/post/or/) [role](/post/role/). [For](/post/for/) [instance](/post/instance/), "[The](/post/the/) [artist](/post/artist/) was [a](/post/a/) [skilled](/post/skilled/) [drawer](/post/drawer/) [of](/post/of/) landscapes."
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): "She's [a](/en/post/a/) talented [drawer](/en/post/drawer/); [her](/en/post/her/) sketches are incredibly lifelike."
+[Example](/post/example/) [sentence](/post/sentence/): "She's [a](/post/a/) talented [drawer](/post/drawer/); [her](/post/her/) sketches are incredibly lifelike."
 
 ## Phrases
-- "[To](/en/post/to/) [draw](/en/post/draw/) [someone](/en/post/someone/) [out](/en/post/out/) [of](/en/post/of/) [their](/en/post/their/) [shell](/en/post/shell/)" - [meaning](/en/post/meaning/) [to](/en/post/to/) [encourage](/en/post/encourage/) [a](/en/post/a/) [shy](/en/post/shy/) [or](/en/post/or/) reserved [person](/en/post/person/) [to](/en/post/to/) [be](/en/post/be/) [more](/en/post/more/) [open](/en/post/open/) [and](/en/post/and/) communicative, metaphorically likening [their](/en/post/their/) reticence [to](/en/post/to/) [being](/en/post/being/) [inside](/en/post/inside/) [a](/en/post/a/) [drawer](/en/post/drawer/).
-- "[From](/en/post/from/) [the](/en/post/the/) [same](/en/post/same/) [drawer](/en/post/drawer/)" - [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [two](/en/post/two/) [people](/en/post/people/) [who](/en/post/who/) are [very](/en/post/very/) [similar](/en/post/similar/) [or](/en/post/or/) [have](/en/post/have/) [the](/en/post/the/) [same](/en/post/same/) characteristics.
+- "[To](/post/to/) [draw](/post/draw/) [someone](/post/someone/) [out](/post/out/) [of](/post/of/) [their](/post/their/) [shell](/post/shell/)" - [meaning](/post/meaning/) [to](/post/to/) [encourage](/post/encourage/) [a](/post/a/) [shy](/post/shy/) [or](/post/or/) reserved [person](/post/person/) [to](/post/to/) [be](/post/be/) [more](/post/more/) [open](/post/open/) [and](/post/and/) communicative, metaphorically likening [their](/post/their/) reticence [to](/post/to/) [being](/post/being/) [inside](/post/inside/) [a](/post/a/) [drawer](/post/drawer/).
+- "[From](/post/from/) [the](/post/the/) [same](/post/same/) [drawer](/post/drawer/)" - [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [two](/post/two/) [people](/post/people/) [who](/post/who/) are [very](/post/very/) [similar](/post/similar/) [or](/post/or/) [have](/post/have/) [the](/post/the/) [same](/post/same/) characteristics.
 
-## [Example](/en/post/example/) Sentences
-- **[As](/en/post/as/) [a](/en/post/a/) [container](/en/post/container/)**: "[Make](/en/post/make/) [sure](/en/post/sure/) [to](/en/post/to/) [put](/en/post/put/) [your](/en/post/your/) keys [back](/en/post/back/) [in](/en/post/in/) [the](/en/post/the/) [drawer](/en/post/drawer/) [after](/en/post/after/) [you](/en/post/you/) [use](/en/post/use/) [them](/en/post/them/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [person](/en/post/person/)**: "He's [a](/en/post/a/) [master](/en/post/master/) [drawer](/en/post/drawer/); [his](/en/post/his/) architectural renderings are [precise](/en/post/precise/) [down](/en/post/down/) [to](/en/post/to/) [the](/en/post/the/) [last](/en/post/last/) [detail](/en/post/detail/)."
+## [Example](/post/example/) Sentences
+- **[As](/post/as/) [a](/post/a/) [container](/post/container/)**: "[Make](/post/make/) [sure](/post/sure/) [to](/post/to/) [put](/post/put/) [your](/post/your/) keys [back](/post/back/) [in](/post/in/) [the](/post/the/) [drawer](/post/drawer/) [after](/post/after/) [you](/post/you/) [use](/post/use/) [them](/post/them/)."
+- **[As](/post/as/) [a](/post/a/) [person](/post/person/)**: "He's [a](/post/a/) [master](/post/master/) [drawer](/post/drawer/); [his](/post/his/) architectural renderings are [precise](/post/precise/) [down](/post/down/) [to](/post/to/) [the](/post/the/) [last](/post/last/) [detail](/post/detail/)."
 
 ## Synonyms
-- [Chest](/en/post/chest/)
+- [Chest](/post/chest/)
 - Compartment
-- [Cabinet](/en/post/cabinet/)
-- [Shelf](/en/post/shelf/) ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) pull-out [shelf](/en/post/shelf/))
-- [Slide](/en/post/slide/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [furniture](/en/post/furniture/))
-- [Artist](/en/post/artist/) ([when](/en/post/when/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) draws)
+- [Cabinet](/post/cabinet/)
+- [Shelf](/post/shelf/) ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) pull-out [shelf](/post/shelf/))
+- [Slide](/post/slide/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [furniture](/post/furniture/))
+- [Artist](/post/artist/) ([when](/post/when/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [person](/post/person/) [who](/post/who/) draws)

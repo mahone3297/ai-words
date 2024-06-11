@@ -7,37 +7,37 @@ description = '[səbˈməːdʒ] vt.浸没 vi.潜入水中'
 keywords = ['ai words', 'submerge']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /subˈmɜːrɡ/
 
 ## Definitions
-### [Verb](/en/post/verb/)
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) immerse [completely](/en/post/completely/) [in](/en/post/in/) [a](/en/post/a/) [liquid](/en/post/liquid/), [such](/en/post/such/) [as](/en/post/as/) [water](/en/post/water/), [or](/en/post/or/) [to](/en/post/to/) [bury](/en/post/bury/) [or](/en/post/or/) [cover](/en/post/cover/) [something](/en/post/something/) [under](/en/post/under/) [a](/en/post/a/) [liquid](/en/post/liquid/). "[The](/en/post/the/) diver submersed [herself](/en/post/herself/) [in](/en/post/in/) [the](/en/post/the/) [deep](/en/post/deep/) [ocean](/en/post/ocean/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [absorb](/en/post/absorb/) [or](/en/post/or/) [absorb](/en/post/absorb/) [oneself](/en/post/oneself/) [in](/en/post/in/) an [activity](/en/post/activity/), [emotion](/en/post/emotion/), [or](/en/post/or/) [situation](/en/post/situation/). "[She](/en/post/she/) submerged [herself](/en/post/herself/) [in](/en/post/in/) [her](/en/post/her/) [work](/en/post/work/), ignoring [the](/en/post/the/) [outside](/en/post/outside/) [world](/en/post/world/)."
+### [Verb](/post/verb/)
+- **[Verb](/post/verb/)**: [To](/post/to/) immerse [completely](/post/completely/) [in](/post/in/) [a](/post/a/) [liquid](/post/liquid/), [such](/post/such/) [as](/post/as/) [water](/post/water/), [or](/post/or/) [to](/post/to/) [bury](/post/bury/) [or](/post/or/) [cover](/post/cover/) [something](/post/something/) [under](/post/under/) [a](/post/a/) [liquid](/post/liquid/). "[The](/post/the/) diver submersed [herself](/post/herself/) [in](/post/in/) [the](/post/the/) [deep](/post/deep/) [ocean](/post/ocean/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [absorb](/post/absorb/) [or](/post/or/) [absorb](/post/absorb/) [oneself](/post/oneself/) [in](/post/in/) an [activity](/post/activity/), [emotion](/post/emotion/), [or](/post/or/) [situation](/post/situation/). "[She](/post/she/) submerged [herself](/post/herself/) [in](/post/in/) [her](/post/her/) [work](/post/work/), ignoring [the](/post/the/) [outside](/post/outside/) [world](/post/world/)."
 
 ## Phrases
-- "[Submerge](/en/post/submerge/) underwater" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [beneath](/en/post/beneath/) [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [a](/en/post/a/) [body](/en/post/body/) [of](/en/post/of/) [water](/en/post/water/).
-- "Submerged [car](/en/post/car/)" refers [to](/en/post/to/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [that](/en/post/that/) is fully [or](/en/post/or/) [partially](/en/post/partially/) covered [by](/en/post/by/) [water](/en/post/water/).
-- "[Submerge](/en/post/submerge/) [oneself](/en/post/oneself/) [in](/en/post/in/) [thought](/en/post/thought/)" [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) deeply absorbed [in](/en/post/in/) one's thoughts.
+- "[Submerge](/post/submerge/) underwater" [means](/post/means/) [to](/post/to/) [go](/post/go/) [beneath](/post/beneath/) [the](/post/the/) [surface](/post/surface/) [of](/post/of/) [a](/post/a/) [body](/post/body/) [of](/post/of/) [water](/post/water/).
+- "Submerged [car](/post/car/)" refers [to](/post/to/) [a](/post/a/) [vehicle](/post/vehicle/) [that](/post/that/) is fully [or](/post/or/) [partially](/post/partially/) covered [by](/post/by/) [water](/post/water/).
+- "[Submerge](/post/submerge/) [oneself](/post/oneself/) [in](/post/in/) [thought](/post/thought/)" [means](/post/means/) [to](/post/to/) [become](/post/become/) deeply absorbed [in](/post/in/) one's thoughts.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (immersion)**: "[The](/en/post/the/) [submarine](/en/post/submarine/) submersed [itself](/en/post/itself/) [to](/en/post/to/) [explore](/en/post/explore/) [the](/en/post/the/) [ocean](/en/post/ocean/) [floor](/en/post/floor/)."
-- **[Verb](/en/post/verb/) (absorption)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [she](/en/post/she/) liked [to](/en/post/to/) [submerge](/en/post/submerge/) [herself](/en/post/herself/) [in](/en/post/in/) [a](/en/post/a/) [good](/en/post/good/) [book](/en/post/book/)."
-- **Phrasal [verb](/en/post/verb/)**: "[The](/en/post/the/) hiker had [to](/en/post/to/) [submerge](/en/post/submerge/) [themselves](/en/post/themselves/) [in](/en/post/in/) [the](/en/post/the/) icy [river](/en/post/river/) [to](/en/post/to/) [cross](/en/post/cross/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (immersion)**: "[The](/post/the/) [submarine](/post/submarine/) submersed [itself](/post/itself/) [to](/post/to/) [explore](/post/explore/) [the](/post/the/) [ocean](/post/ocean/) [floor](/post/floor/)."
+- **[Verb](/post/verb/) (absorption)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [she](/post/she/) liked [to](/post/to/) [submerge](/post/submerge/) [herself](/post/herself/) [in](/post/in/) [a](/post/a/) [good](/post/good/) [book](/post/book/)."
+- **Phrasal [verb](/post/verb/)**: "[The](/post/the/) hiker had [to](/post/to/) [submerge](/post/submerge/) [themselves](/post/themselves/) [in](/post/in/) [the](/post/the/) icy [river](/post/river/) [to](/post/to/) [cross](/post/cross/)."
 
 ## Synonyms
-- [Drown](/en/post/drown/)
+- [Drown](/post/drown/)
 - Immerse
-- [Sink](/en/post/sink/)
-- [Penetrate](/en/post/penetrate/)
-- [Plunge](/en/post/plunge/)
+- [Sink](/post/sink/)
+- [Penetrate](/post/penetrate/)
+- [Plunge](/post/plunge/)
 
 ## Antonyms
-- [Surface](/en/post/surface/)
-- [Emerge](/en/post/emerge/)
-- [Rise](/en/post/rise/)
-- [Float](/en/post/float/)
-- [Expose](/en/post/expose/)
+- [Surface](/post/surface/)
+- [Emerge](/post/emerge/)
+- [Rise](/post/rise/)
+- [Float](/post/float/)
+- [Expose](/post/expose/)
 
-## [Usage](/en/post/usage/)
-[In](/en/post/in/) sentences, "[submerge](/en/post/submerge/)" is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [physical](/en/post/physical/) immersion [or](/en/post/or/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) becoming deeply involved [in](/en/post/in/) [something](/en/post/something/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [convey](/en/post/convey/) [the](/en/post/the/) [idea](/en/post/idea/) [of](/en/post/of/) [being](/en/post/being/) absorbed [in](/en/post/in/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [emotion](/en/post/emotion/).
+## [Usage](/post/usage/)
+[In](/post/in/) sentences, "[submerge](/post/submerge/)" is [often](/post/often/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [physical](/post/physical/) immersion [or](/post/or/) [the](/post/the/) [act](/post/act/) [of](/post/of/) becoming deeply involved [in](/post/in/) [something](/post/something/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [convey](/post/convey/) [the](/post/the/) [idea](/post/idea/) [of](/post/of/) [being](/post/being/) absorbed [in](/post/in/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [emotion](/post/emotion/).

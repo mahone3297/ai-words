@@ -11,20 +11,20 @@ keywords = ['ai words', 'century']
 /ˈsɛn.tʃəri/
 
 ## 释义
-- **名词**: 100年的时间段，通常指历史上的百年。例如: "[The](/post/the/) 20th [century](/post/century/) [saw](/post/saw/) [many](/post/many/) technological advancements."
-- **名词**: 一个世纪的计数单位，如21世纪。例如: "[We](/post/we/) are currently [in](/post/in/) [the](/post/the/) 21st [century](/post/century/)."
+- **名词**: 100年的时间段，通常指历史上的百年。例如: "[The](/zh/post/the/) 20th [century](/zh/post/century/) [saw](/zh/post/saw/) [many](/zh/post/many/) technological advancements."
+- **名词**: 一个世纪的计数单位，如21世纪。例如: "[We](/zh/post/we/) are currently [in](/zh/post/in/) [the](/zh/post/the/) 21st [century](/zh/post/century/)."
 
 ## 短语
-- "[At](/post/at/) [the](/post/the/) [turn](/post/turn/) [of](/post/of/) [the](/post/the/) [century](/post/century/)" 指的是一个世纪的开始，如1900年或2000年。
-- "[Century](/post/century/) [mark](/post/mark/)" 可以指达到或超过100年的里程碑或成就。
+- "[At](/zh/post/at/) [the](/zh/post/the/) [turn](/zh/post/turn/) [of](/zh/post/of/) [the](/zh/post/the/) [century](/zh/post/century/)" 指的是一个世纪的开始，如1900年或2000年。
+- "[Century](/zh/post/century/) [mark](/zh/post/mark/)" 可以指达到或超过100年的里程碑或成就。
 
 ## 例句
-- 名词: "[The](/post/the/) 19th [century](/post/century/) was [a](/post/a/) [period](/post/period/) [of](/post/of/) [great](/post/great/) industrialization."
-- 名词: "[She](/post/she/) celebrated [her](/post/her/) 100th [birthday](/post/birthday/), [a](/post/a/) milestone [in](/post/in/) [the](/post/the/) 21st [century](/post/century/)."
+- 名词: "[The](/zh/post/the/) 19th [century](/zh/post/century/) was [a](/zh/post/a/) [period](/zh/post/period/) [of](/zh/post/of/) [great](/zh/post/great/) industrialization."
+- 名词: "[She](/zh/post/she/) celebrated [her](/zh/post/her/) 100th [birthday](/zh/post/birthday/), [a](/zh/post/a/) milestone [in](/zh/post/in/) [the](/zh/post/the/) 21st [century](/zh/post/century/)."
 
 ## 同义词
-- [Century](/post/century/) [can](/post/can/) [be](/post/be/) synonymous [with](/post/with/) "[hundred](/post/hundred/) years" [in](/post/in/) [some](/post/some/) contexts, [but](/post/but/) [there](/post/there/) isn't [a](/post/a/) [direct](/post/direct/) synonym [for](/post/for/) [the](/post/the/) [term](/post/term/) [when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [specific](/post/specific/) [historical](/post/historical/) [era](/post/era/) [or](/post/or/) [century](/post/century/) [number](/post/number/). [However](/post/however/), related terms [include](/post/include/):
+- [Century](/zh/post/century/) [can](/zh/post/can/) [be](/zh/post/be/) synonymous [with](/zh/post/with/) "[hundred](/zh/post/hundred/) years" [in](/zh/post/in/) [some](/zh/post/some/) contexts, [but](/zh/post/but/) [there](/zh/post/there/) isn't [a](/zh/post/a/) [direct](/zh/post/direct/) synonym [for](/zh/post/for/) [the](/zh/post/the/) [term](/zh/post/term/) [when](/zh/post/when/) [used](/zh/post/used/) [as](/zh/post/as/) [a](/zh/post/a/) [specific](/zh/post/specific/) [historical](/zh/post/historical/) [era](/zh/post/era/) [or](/zh/post/or/) [century](/zh/post/century/) [number](/zh/post/number/). [However](/zh/post/however/), related terms [include](/zh/post/include/):
 - Epoch
-- [Era](/post/era/)
-- [Time](/post/time/) [period](/post/period/)
-- Millennium ([for](/post/for/) [a](/post/a/) [period](/post/period/) [of](/post/of/) 1000 years)
+- [Era](/zh/post/era/)
+- [Time](/zh/post/time/) [period](/zh/post/period/)
+- Millennium ([for](/zh/post/for/) [a](/zh/post/a/) [period](/zh/post/period/) [of](/zh/post/of/) 1000 years)

@@ -7,39 +7,39 @@ description = '[ˈkʌstəm] n.习惯，风俗；海关'
 keywords = ['ai words', 'custom']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkʌstəm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [custom](/en/post/custom/)** is [a](/en/post/a/) [traditional](/en/post/traditional/) [practice](/en/post/practice/) [or](/en/post/or/) [behavior](/en/post/behavior/) [that](/en/post/that/) is passed [down](/en/post/down/) [from](/en/post/from/) [one](/en/post/one/) [generation](/en/post/generation/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) [within](/en/post/within/) [a](/en/post/a/) [particular](/en/post/particular/) [society](/en/post/society/) [or](/en/post/or/) [group](/en/post/group/).
-   - [Example](/en/post/example/): [The](/en/post/the/) [custom](/en/post/custom/) [of](/en/post/of/) passing [down](/en/post/down/) [family](/en/post/family/) heirlooms is deeply rooted [in](/en/post/in/) [our](/en/post/our/) [culture](/en/post/culture/).
-2. **[A](/en/post/a/) [customer](/en/post/customer/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) buys [goods](/en/post/goods/) [or](/en/post/or/) services, typically [from](/en/post/from/) [a](/en/post/a/) [store](/en/post/store/) [or](/en/post/or/) [business](/en/post/business/).
-   - [Example](/en/post/example/): [The](/en/post/the/) [coffee](/en/post/coffee/) [shop](/en/post/shop/) welcomed [its](/en/post/its/) [early](/en/post/early/) [morning](/en/post/morning/) customers [with](/en/post/with/) [a](/en/post/a/) [warm](/en/post/warm/) aroma.
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [custom](/post/custom/)** is [a](/post/a/) [traditional](/post/traditional/) [practice](/post/practice/) [or](/post/or/) [behavior](/post/behavior/) [that](/post/that/) is passed [down](/post/down/) [from](/post/from/) [one](/post/one/) [generation](/post/generation/) [to](/post/to/) [another](/post/another/), [often](/post/often/) [within](/post/within/) [a](/post/a/) [particular](/post/particular/) [society](/post/society/) [or](/post/or/) [group](/post/group/).
+   - [Example](/post/example/): [The](/post/the/) [custom](/post/custom/) [of](/post/of/) passing [down](/post/down/) [family](/post/family/) heirlooms is deeply rooted [in](/post/in/) [our](/post/our/) [culture](/post/culture/).
+2. **[A](/post/a/) [customer](/post/customer/)** is [a](/post/a/) [person](/post/person/) [who](/post/who/) buys [goods](/post/goods/) [or](/post/or/) services, typically [from](/post/from/) [a](/post/a/) [store](/post/store/) [or](/post/or/) [business](/post/business/).
+   - [Example](/post/example/): [The](/post/the/) [coffee](/post/coffee/) [shop](/post/shop/) welcomed [its](/post/its/) [early](/post/early/) [morning](/post/morning/) customers [with](/post/with/) [a](/post/a/) [warm](/post/warm/) aroma.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) **[custom](/en/post/custom/)** ([as](/en/post/as/) [in](/en/post/in/) custom-make) [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [something](/en/post/something/) tailored [or](/en/post/or/) personalized according [to](/en/post/to/) [specific](/en/post/specific/) requirements [or](/en/post/or/) preferences.
-   - [Example](/en/post/example/): [The](/en/post/the/) [furniture](/en/post/furniture/) [company](/en/post/company/) offers [custom](/en/post/custom/) designs [to](/en/post/to/) [suit](/en/post/suit/) [individual](/en/post/individual/) tastes.
-2. [To](/en/post/to/) **[observe](/en/post/observe/)** [or](/en/post/or/) **[follow](/en/post/follow/) [a](/en/post/a/) [custom](/en/post/custom/)** is [to](/en/post/to/) adhere [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [tradition](/en/post/tradition/) [or](/en/post/or/) [habit](/en/post/habit/).
-   - [Example](/en/post/example/): It's customary [to](/en/post/to/) [remove](/en/post/remove/) [your](/en/post/your/) shoes [before](/en/post/before/) entering someone's [home](/en/post/home/) [in](/en/post/in/) Japan.
+### [Verb](/post/verb/)
+1. [To](/post/to/) **[custom](/post/custom/)** ([as](/post/as/) [in](/post/in/) custom-make) [means](/post/means/) [to](/post/to/) [create](/post/create/) [something](/post/something/) tailored [or](/post/or/) personalized according [to](/post/to/) [specific](/post/specific/) requirements [or](/post/or/) preferences.
+   - [Example](/post/example/): [The](/post/the/) [furniture](/post/furniture/) [company](/post/company/) offers [custom](/post/custom/) designs [to](/post/to/) [suit](/post/suit/) [individual](/post/individual/) tastes.
+2. [To](/post/to/) **[observe](/post/observe/)** [or](/post/or/) **[follow](/post/follow/) [a](/post/a/) [custom](/post/custom/)** is [to](/post/to/) adhere [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [tradition](/post/tradition/) [or](/post/or/) [habit](/post/habit/).
+   - [Example](/post/example/): It's customary [to](/post/to/) [remove](/post/remove/) [your](/post/your/) shoes [before](/post/before/) entering someone's [home](/post/home/) [in](/post/in/) Japan.
 
 ## Phrases
-- "[Follow](/en/post/follow/) [a](/en/post/a/) [custom](/en/post/custom/)" [means](/en/post/means/) [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [or](/en/post/or/) abide [by](/en/post/by/) [a](/en/post/a/) [particular](/en/post/particular/) cultural [practice](/en/post/practice/).
-- "Custom-made" refers [to](/en/post/to/) [something](/en/post/something/) created specifically [for](/en/post/for/) [a](/en/post/a/) client's needs.
-- "[Old](/en/post/old/) customs [die](/en/post/die/) [hard](/en/post/hard/)" suggests [that](/en/post/that/) long-standing traditions [can](/en/post/can/) [be](/en/post/be/) [difficult](/en/post/difficult/) [to](/en/post/to/) [change](/en/post/change/).
+- "[Follow](/post/follow/) [a](/post/a/) [custom](/post/custom/)" [means](/post/means/) [to](/post/to/) [participate](/post/participate/) [in](/post/in/) [or](/post/or/) abide [by](/post/by/) [a](/post/a/) [particular](/post/particular/) cultural [practice](/post/practice/).
+- "Custom-made" refers [to](/post/to/) [something](/post/something/) created specifically [for](/post/for/) [a](/post/a/) client's needs.
+- "[Old](/post/old/) customs [die](/post/die/) [hard](/post/hard/)" suggests [that](/post/that/) long-standing traditions [can](/post/can/) [be](/post/be/) [difficult](/post/difficult/) [to](/post/to/) [change](/post/change/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [village](/en/post/village/) [still](/en/post/still/) observes [its](/en/post/its/) [ancient](/en/post/ancient/) customs [during](/en/post/during/) [the](/en/post/the/) [annual](/en/post/annual/) [harvest](/en/post/harvest/) [festival](/en/post/festival/).
-- **[Verb](/en/post/verb/)**: [She](/en/post/she/) ordered [a](/en/post/a/) [custom](/en/post/custom/) [dress](/en/post/dress/) [for](/en/post/for/) [her](/en/post/her/) [wedding](/en/post/wedding/), wanting [something](/en/post/something/) [unique](/en/post/unique/).
-- **Observing [a](/en/post/a/) [custom](/en/post/custom/)**: It's customary [for](/en/post/for/) guests [to](/en/post/to/) [bring](/en/post/bring/) [a](/en/post/a/) [small](/en/post/small/) [gift](/en/post/gift/) [when](/en/post/when/) attending [a](/en/post/a/) [dinner](/en/post/dinner/) [party](/en/post/party/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [village](/post/village/) [still](/post/still/) observes [its](/post/its/) [ancient](/post/ancient/) customs [during](/post/during/) [the](/post/the/) [annual](/post/annual/) [harvest](/post/harvest/) [festival](/post/festival/).
+- **[Verb](/post/verb/)**: [She](/post/she/) ordered [a](/post/a/) [custom](/post/custom/) [dress](/post/dress/) [for](/post/for/) [her](/post/her/) [wedding](/post/wedding/), wanting [something](/post/something/) [unique](/post/unique/).
+- **Observing [a](/post/a/) [custom](/post/custom/)**: It's customary [for](/post/for/) guests [to](/post/to/) [bring](/post/bring/) [a](/post/a/) [small](/post/small/) [gift](/post/gift/) [when](/post/when/) attending [a](/post/a/) [dinner](/post/dinner/) [party](/post/party/).
 
 ## Synonyms
-- [Tradition](/en/post/tradition/)
-- [Habit](/en/post/habit/)
-- [Practice](/en/post/practice/)
-- [Routine](/en/post/routine/)
+- [Tradition](/post/tradition/)
+- [Habit](/post/habit/)
+- [Practice](/post/practice/)
+- [Routine](/post/routine/)
 - Customary
-- [Traditional](/en/post/traditional/)
-- [Form](/en/post/form/)
-- [Usage](/en/post/usage/)
+- [Traditional](/post/traditional/)
+- [Form](/post/form/)
+- [Usage](/post/usage/)
 - Ritual

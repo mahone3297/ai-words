@@ -7,36 +7,36 @@ description = 'n.瓷器，瓷料'
 keywords = ['ai words', 'china']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃaɪnə/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[China](/en/post/china/)**: 1. [A](/en/post/a/) [country](/en/post/country/) located [in](/en/post/in/) [East](/en/post/east/) [Asia](/en/post/asia/), officially known [as](/en/post/as/) [the](/en/post/the/) People's [Republic](/en/post/republic/) [of](/en/post/of/) [China](/en/post/china/). [It](/en/post/it/) is [the](/en/post/the/) [most](/en/post/most/) populous [country](/en/post/country/) [and](/en/post/and/) [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) oldest civilizations [in](/en/post/in/) [the](/en/post/the/) [world](/en/post/world/). 2. (pl.) Chinese porcelain [or](/en/post/or/) pottery.
-- **Chinese**: Referring [to](/en/post/to/) [the](/en/post/the/) [people](/en/post/people/), [culture](/en/post/culture/), [language](/en/post/language/), [or](/en/post/or/) [nationality](/en/post/nationality/) [of](/en/post/of/) [China](/en/post/china/).
+### [Noun](/post/noun/)
+- **[China](/post/china/)**: 1. [A](/post/a/) [country](/post/country/) located [in](/post/in/) [East](/post/east/) [Asia](/post/asia/), officially known [as](/post/as/) [the](/post/the/) People's [Republic](/post/republic/) [of](/post/of/) [China](/post/china/). [It](/post/it/) is [the](/post/the/) [most](/post/most/) populous [country](/post/country/) [and](/post/and/) [one](/post/one/) [of](/post/of/) [the](/post/the/) oldest civilizations [in](/post/in/) [the](/post/the/) [world](/post/world/). 2. (pl.) Chinese porcelain [or](/post/or/) pottery.
+- **Chinese**: Referring [to](/post/to/) [the](/post/the/) [people](/post/people/), [culture](/post/culture/), [language](/post/language/), [or](/post/or/) [nationality](/post/nationality/) [of](/post/of/) [China](/post/china/).
 
-### [Adjective](/en/post/adjective/)
-- Chinese: Characterizing [something](/en/post/something/) [from](/en/post/from/) [or](/en/post/or/) related [to](/en/post/to/) [China](/en/post/china/), [its](/en/post/its/) [culture](/en/post/culture/), [or](/en/post/or/) [the](/en/post/the/) Chinese [language](/en/post/language/).
+### [Adjective](/post/adjective/)
+- Chinese: Characterizing [something](/post/something/) [from](/post/from/) [or](/post/or/) related [to](/post/to/) [China](/post/china/), [its](/post/its/) [culture](/post/culture/), [or](/post/or/) [the](/post/the/) Chinese [language](/post/language/).
 
-### [Proper](/en/post/proper/) [noun](/en/post/noun/)
-- *[China](/en/post/china/)* ([the](/en/post/the/) [country](/en/post/country/)): [The](/en/post/the/) [official](/en/post/official/) [name](/en/post/name/) [of](/en/post/of/) [the](/en/post/the/) [nation](/en/post/nation/).
+### [Proper](/post/proper/) [noun](/post/noun/)
+- *[China](/post/china/)* ([the](/post/the/) [country](/post/country/)): [The](/post/the/) [official](/post/official/) [name](/post/name/) [of](/post/of/) [the](/post/the/) [nation](/post/nation/).
 
 ## Phrases
-- "[Welcome](/en/post/welcome/) [to](/en/post/to/) [China](/en/post/china/)" is [a](/en/post/a/) [common](/en/post/common/) [greeting](/en/post/greeting/) [for](/en/post/for/) visitors.
-- "Sino-American relations" refers [to](/en/post/to/) [the](/en/post/the/) diplomatic [relationship](/en/post/relationship/) [between](/en/post/between/) [China](/en/post/china/) [and](/en/post/and/) [the](/en/post/the/) United States.
-- "Mandarin Chinese" is [the](/en/post/the/) [official](/en/post/official/) [language](/en/post/language/) [of](/en/post/of/) [China](/en/post/china/).
+- "[Welcome](/post/welcome/) [to](/post/to/) [China](/post/china/)" is [a](/post/a/) [common](/post/common/) [greeting](/post/greeting/) [for](/post/for/) visitors.
+- "Sino-American relations" refers [to](/post/to/) [the](/post/the/) diplomatic [relationship](/post/relationship/) [between](/post/between/) [China](/post/china/) [and](/post/and/) [the](/post/the/) United States.
+- "Mandarin Chinese" is [the](/post/the/) [official](/post/official/) [language](/post/language/) [of](/post/of/) [China](/post/china/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) artifacts [from](/en/post/from/) [China](/en/post/china/) [date](/en/post/date/) [back](/en/post/back/) thousands [of](/en/post/of/) years."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) intricate Chinese calligraphy was [a](/en/post/a/) [sight](/en/post/sight/) [to](/en/post/to/) behold."
-- **[Proper](/en/post/proper/) [noun](/en/post/noun/)**: "[China](/en/post/china/) has [a](/en/post/a/) [rich](/en/post/rich/) [history](/en/post/history/) [that](/en/post/that/) spans thousands [of](/en/post/of/) years."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ancient](/post/ancient/) artifacts [from](/post/from/) [China](/post/china/) [date](/post/date/) [back](/post/back/) thousands [of](/post/of/) years."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) intricate Chinese calligraphy was [a](/post/a/) [sight](/post/sight/) [to](/post/to/) behold."
+- **[Proper](/post/proper/) [noun](/post/noun/)**: "[China](/post/china/) has [a](/post/a/) [rich](/post/rich/) [history](/post/history/) [that](/post/that/) spans thousands [of](/post/of/) years."
 
 ## Synonyms
-- *PRC* (People's [Republic](/en/post/republic/) [of](/en/post/of/) [China](/en/post/china/))
-- *Han* (referring [to](/en/post/to/) [the](/en/post/the/) Han ethnic [majority](/en/post/majority/))
-- *Sinology* ([the](/en/post/the/) [study](/en/post/study/) [of](/en/post/of/) [China](/en/post/china/) [and](/en/post/and/) [its](/en/post/its/) [culture](/en/post/culture/))
-- *Chinese cuisine* ([food](/en/post/food/) [from](/en/post/from/) [China](/en/post/china/))
+- *PRC* (People's [Republic](/post/republic/) [of](/post/of/) [China](/post/china/))
+- *Han* (referring [to](/post/to/) [the](/post/the/) Han ethnic [majority](/post/majority/))
+- *Sinology* ([the](/post/the/) [study](/post/study/) [of](/post/of/) [China](/post/china/) [and](/post/and/) [its](/post/its/) [culture](/post/culture/))
+- *Chinese cuisine* ([food](/post/food/) [from](/post/from/) [China](/post/china/))
 
-## [Note](/en/post/note/): 
-- [The](/en/post/the/) pronunciations are given [in](/en/post/in/) [the](/en/post/the/) [International](/en/post/international/) Phonetic [Alphabet](/en/post/alphabet/) (IPA) format.
-- [Some](/en/post/some/) examples [may](/en/post/may/) [not](/en/post/not/) [be](/en/post/be/) [specific](/en/post/specific/) [to](/en/post/to/) [the](/en/post/the/) [word](/en/post/word/) "[China](/en/post/china/)" [but](/en/post/but/) [demonstrate](/en/post/demonstrate/) [usage](/en/post/usage/) [in](/en/post/in/) [general](/en/post/general/) context.
+## [Note](/post/note/): 
+- [The](/post/the/) pronunciations are given [in](/post/in/) [the](/post/the/) [International](/post/international/) Phonetic [Alphabet](/post/alphabet/) (IPA) format.
+- [Some](/post/some/) examples [may](/post/may/) [not](/post/not/) [be](/post/be/) [specific](/post/specific/) [to](/post/to/) [the](/post/the/) [word](/post/word/) "[China](/post/china/)" [but](/post/but/) [demonstrate](/post/demonstrate/) [usage](/post/usage/) [in](/post/in/) [general](/post/general/) context.

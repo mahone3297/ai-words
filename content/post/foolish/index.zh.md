@@ -11,19 +11,19 @@ keywords = ['ai words', 'foolish']
 /ˈfʊlɪʃ/
 
 ## 释义
-- **形容词**: 愚蠢的，傻的，缺乏判断力的。例如: "[It](/post/it/) was [foolish](/post/foolish/) [of](/post/of/) [him](/post/him/) [to](/post/to/) [ignore](/post/ignore/) [the](/post/the/) warning signs."
+- **形容词**: 愚蠢的，傻的，缺乏判断力的。例如: "[It](/zh/post/it/) was [foolish](/zh/post/foolish/) [of](/zh/post/of/) [him](/zh/post/him/) [to](/zh/post/to/) [ignore](/zh/post/ignore/) [the](/zh/post/the/) warning signs."
 
 ## 短语
-- "[act](/post/act/) foolishly" 意为行事愚蠢。
-- "[foolish](/post/foolish/) [mistake](/post/mistake/)" 指的是愚蠢的错误。
+- "[act](/zh/post/act/) foolishly" 意为行事愚蠢。
+- "[foolish](/zh/post/foolish/) [mistake](/zh/post/mistake/)" 指的是愚蠢的错误。
 
 ## 例句
-- "[He](/post/he/) [thought](/post/thought/) [it](/post/it/) was [clever](/post/clever/), [but](/post/but/) [his](/post/his/) [decision](/post/decision/) was [actually](/post/actually/) [quite](/post/quite/) [foolish](/post/foolish/)."
-- "Making [such](/post/such/) [a](/post/a/) [basic](/post/basic/) [error](/post/error/) was [rather](/post/rather/) [foolish](/post/foolish/) [on](/post/on/) [her](/post/her/) [part](/post/part/)."
+- "[He](/zh/post/he/) [thought](/zh/post/thought/) [it](/zh/post/it/) was [clever](/zh/post/clever/), [but](/zh/post/but/) [his](/zh/post/his/) [decision](/zh/post/decision/) was [actually](/zh/post/actually/) [quite](/zh/post/quite/) [foolish](/zh/post/foolish/)."
+- "Making [such](/zh/post/such/) [a](/zh/post/a/) [basic](/zh/post/basic/) [error](/zh/post/error/) was [rather](/zh/post/rather/) [foolish](/zh/post/foolish/) [on](/zh/post/on/) [her](/zh/post/her/) [part](/zh/post/part/)."
 
 ## 同义词
-- [Stupid](/post/stupid/)
-- [Silly](/post/silly/)
-- [Dumb](/post/dumb/)
+- [Stupid](/zh/post/stupid/)
+- [Silly](/zh/post/silly/)
+- [Dumb](/zh/post/dumb/)
 - Unwise
-- [Ignorant](/post/ignorant/)
+- [Ignorant](/zh/post/ignorant/)

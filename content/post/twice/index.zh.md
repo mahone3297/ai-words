@@ -11,20 +11,20 @@ keywords = ['ai words', 'twice']
 /twaɪs/
 
 ## 释义
-- **副词**: 两次，两倍地。例如: "I'll [do](/post/do/) [it](/post/it/) [twice](/post/twice/) [to](/post/to/) [make](/post/make/) [sure](/post/sure/) I [get](/post/get/) [it](/post/it/) [right](/post/right/)."
-- **名词**: 一次又一次，重复。例如: "[He](/post/he/) repeated [the](/post/the/) [story](/post/story/) [twice](/post/twice/) [for](/post/for/) [emphasis](/post/emphasis/)."
+- **副词**: 两次，两倍地。例如: "I'll [do](/zh/post/do/) [it](/zh/post/it/) [twice](/zh/post/twice/) [to](/zh/post/to/) [make](/zh/post/make/) [sure](/zh/post/sure/) I [get](/zh/post/get/) [it](/zh/post/it/) [right](/zh/post/right/)."
+- **名词**: 一次又一次，重复。例如: "[He](/zh/post/he/) repeated [the](/zh/post/the/) [story](/zh/post/story/) [twice](/zh/post/twice/) [for](/zh/post/for/) [emphasis](/zh/post/emphasis/)."
 
 ## 短语
-- "[at](/post/at/) [twice](/post/twice/) [the](/post/the/) [speed](/post/speed/)" 表示以两倍的速度。
-- "[twice](/post/twice/) [a](/post/a/) [week](/post/week/)" 意为每周两次。
+- "[at](/zh/post/at/) [twice](/zh/post/twice/) [the](/zh/post/the/) [speed](/zh/post/speed/)" 表示以两倍的速度。
+- "[twice](/zh/post/twice/) [a](/zh/post/a/) [week](/zh/post/week/)" 意为每周两次。
 
 ## 例句
-- 副词: "[She](/post/she/) reads [the](/post/the/) [book](/post/book/) [twice](/post/twice/) [to](/post/to/) fully [understand](/post/understand/) [the](/post/the/) [content](/post/content/)."
-- 名词: "[The](/post/the/) [teacher](/post/teacher/) asked [us](/post/us/) [to](/post/to/) [listen](/post/listen/) carefully, [as](/post/as/) [he](/post/he/) [would](/post/would/) [say](/post/say/) [the](/post/the/) instructions [only](/post/only/) [twice](/post/twice/)."
+- 副词: "[She](/zh/post/she/) reads [the](/zh/post/the/) [book](/zh/post/book/) [twice](/zh/post/twice/) [to](/zh/post/to/) fully [understand](/zh/post/understand/) [the](/zh/post/the/) [content](/zh/post/content/)."
+- 名词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) asked [us](/zh/post/us/) [to](/zh/post/to/) [listen](/zh/post/listen/) carefully, [as](/zh/post/as/) [he](/zh/post/he/) [would](/zh/post/would/) [say](/zh/post/say/) [the](/zh/post/the/) instructions [only](/zh/post/only/) [twice](/zh/post/twice/)."
 
 ## 同义词
-- [two](/post/two/) times
-- [double](/post/double/)
-- [again](/post/again/)
-- [for](/post/for/) [a](/post/a/) [second](/post/second/) [time](/post/time/)
+- [two](/zh/post/two/) times
+- [double](/zh/post/double/)
+- [again](/zh/post/again/)
+- [for](/zh/post/for/) [a](/zh/post/a/) [second](/zh/post/second/) [time](/zh/post/time/)
 - reiteratively

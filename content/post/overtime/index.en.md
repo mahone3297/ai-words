@@ -7,28 +7,28 @@ description = '[ˈəuvətaim] a.超时的，加班的'
 keywords = ['ai words', 'overtime']
 +++
 
-## [Word](/en/post/word/): [Overtime](/en/post/overtime/)
+## [Word](/post/word/): [Overtime](/post/overtime/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈoʊvərˌtaɪm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [Extra](/en/post/extra/) [work](/en/post/work/) hours [beyond](/en/post/beyond/) [the](/en/post/the/) [regular](/en/post/regular/) [schedule](/en/post/schedule/), [usually](/en/post/usually/) [with](/en/post/with/) [additional](/en/post/additional/) [pay](/en/post/pay/). [For](/en/post/for/) [example](/en/post/example/): "Working [overtime](/en/post/overtime/) has [become](/en/post/become/) [a](/en/post/a/) [routine](/en/post/routine/) [for](/en/post/for/) [many](/en/post/many/) employees [during](/en/post/during/) [the](/en/post/the/) [busy](/en/post/busy/) [season](/en/post/season/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) occurring [after](/en/post/after/) [the](/en/post/the/) [normal](/en/post/normal/) working hours. [For](/en/post/for/) [example](/en/post/example/): "[Overtime](/en/post/overtime/) [pay](/en/post/pay/) is calculated based [on](/en/post/on/) [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) hours worked [beyond](/en/post/beyond/) [the](/en/post/the/) [standard](/en/post/standard/) 40-hour [week](/en/post/week/)."
+- **[Noun](/post/noun/)**: [Extra](/post/extra/) [work](/post/work/) hours [beyond](/post/beyond/) [the](/post/the/) [regular](/post/regular/) [schedule](/post/schedule/), [usually](/post/usually/) [with](/post/with/) [additional](/post/additional/) [pay](/post/pay/). [For](/post/for/) [example](/post/example/): "Working [overtime](/post/overtime/) has [become](/post/become/) [a](/post/a/) [routine](/post/routine/) [for](/post/for/) [many](/post/many/) employees [during](/post/during/) [the](/post/the/) [busy](/post/busy/) [season](/post/season/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) occurring [after](/post/after/) [the](/post/the/) [normal](/post/normal/) working hours. [For](/post/for/) [example](/post/example/): "[Overtime](/post/overtime/) [pay](/post/pay/) is calculated based [on](/post/on/) [the](/post/the/) [number](/post/number/) [of](/post/of/) hours worked [beyond](/post/beyond/) [the](/post/the/) [standard](/post/standard/) 40-hour [week](/post/week/)."
 
 ## Phrases
-- "[Work](/en/post/work/) [overtime](/en/post/overtime/)": [To](/en/post/to/) [continue](/en/post/continue/) working [beyond](/en/post/beyond/) one's [regular](/en/post/regular/) hours.
-- "[Overtime](/en/post/overtime/) [pay](/en/post/pay/)": Compensation given [to](/en/post/to/) employees [for](/en/post/for/) hours worked [beyond](/en/post/beyond/) [their](/en/post/their/) [standard](/en/post/standard/) workweek, [often](/en/post/often/) [at](/en/post/at/) an increased [rate](/en/post/rate/).
-- "[In](/en/post/in/) [overtime](/en/post/overtime/)": [In](/en/post/in/) sports, [it](/en/post/it/) refers [to](/en/post/to/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [play](/en/post/play/) [that](/en/post/that/) extends [beyond](/en/post/beyond/) [the](/en/post/the/) scheduled [time](/en/post/time/) [when](/en/post/when/) [the](/en/post/the/) [game](/en/post/game/) ends [in](/en/post/in/) [a](/en/post/a/) [tie](/en/post/tie/); [for](/en/post/for/) [instance](/en/post/instance/), "[The](/en/post/the/) [match](/en/post/match/) went [into](/en/post/into/) [overtime](/en/post/overtime/)."
+- "[Work](/post/work/) [overtime](/post/overtime/)": [To](/post/to/) [continue](/post/continue/) working [beyond](/post/beyond/) one's [regular](/post/regular/) hours.
+- "[Overtime](/post/overtime/) [pay](/post/pay/)": Compensation given [to](/post/to/) employees [for](/post/for/) hours worked [beyond](/post/beyond/) [their](/post/their/) [standard](/post/standard/) workweek, [often](/post/often/) [at](/post/at/) an increased [rate](/post/rate/).
+- "[In](/post/in/) [overtime](/post/overtime/)": [In](/post/in/) sports, [it](/post/it/) refers [to](/post/to/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [play](/post/play/) [that](/post/that/) extends [beyond](/post/beyond/) [the](/post/the/) scheduled [time](/post/time/) [when](/post/when/) [the](/post/the/) [game](/post/game/) ends [in](/post/in/) [a](/post/a/) [tie](/post/tie/); [for](/post/for/) [instance](/post/instance/), "[The](/post/the/) [match](/post/match/) went [into](/post/into/) [overtime](/post/overtime/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[To](/en/post/to/) [meet](/en/post/meet/) [the](/en/post/the/) deadline, [he](/en/post/he/) had [to](/en/post/to/) [put](/en/post/put/) [in](/en/post/in/) [several](/en/post/several/) hours [of](/en/post/of/) [overtime](/en/post/overtime/) [last](/en/post/last/) [night](/en/post/night/)."
-- **[Adjective](/en/post/adjective/)**: "Employees are entitled [to](/en/post/to/) [overtime](/en/post/overtime/) compensation [for](/en/post/for/) [any](/en/post/any/) hours worked [over](/en/post/over/) 40 [in](/en/post/in/) [a](/en/post/a/) [week](/en/post/week/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[To](/post/to/) [meet](/post/meet/) [the](/post/the/) deadline, [he](/post/he/) had [to](/post/to/) [put](/post/put/) [in](/post/in/) [several](/post/several/) hours [of](/post/of/) [overtime](/post/overtime/) [last](/post/last/) [night](/post/night/)."
+- **[Adjective](/post/adjective/)**: "Employees are entitled [to](/post/to/) [overtime](/post/overtime/) compensation [for](/post/for/) [any](/post/any/) hours worked [over](/post/over/) 40 [in](/post/in/) [a](/post/a/) [week](/post/week/)."
 
 ## Synonyms
 - Supplementary hours
 - Extended hours
-- [Additional](/en/post/additional/) hours
-- [Beyond](/en/post/beyond/) [regular](/en/post/regular/) hours
-- Unpaid [overtime](/en/post/overtime/) ([when](/en/post/when/) [extra](/en/post/extra/) hours are worked [without](/en/post/without/) [extra](/en/post/extra/) [pay](/en/post/pay/)) 
-- Time-and-a-half (referring [to](/en/post/to/) [the](/en/post/the/) [common](/en/post/common/) [method](/en/post/method/) [of](/en/post/of/) calculating [overtime](/en/post/overtime/) [pay](/en/post/pay/))
+- [Additional](/post/additional/) hours
+- [Beyond](/post/beyond/) [regular](/post/regular/) hours
+- Unpaid [overtime](/post/overtime/) ([when](/post/when/) [extra](/post/extra/) hours are worked [without](/post/without/) [extra](/post/extra/) [pay](/post/pay/)) 
+- Time-and-a-half (referring [to](/post/to/) [the](/post/the/) [common](/post/common/) [method](/post/method/) [of](/post/of/) calculating [overtime](/post/overtime/) [pay](/post/pay/))

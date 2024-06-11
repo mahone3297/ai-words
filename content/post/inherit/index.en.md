@@ -7,35 +7,35 @@ description = '[inˈherit] vt.继承(传统等)'
 keywords = ['ai words', 'inherit']
 +++
 
-## [Word](/en/post/word/): [Inherit](/en/post/inherit/)
+## [Word](/post/word/): [Inherit](/post/inherit/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈhɛrɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [receive](/en/post/receive/) [or](/en/post/or/) [acquire](/en/post/acquire/) ([property](/en/post/property/), titles, rights, etc.) [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) [a](/en/post/a/) [family](/en/post/family/) member's [death](/en/post/death/), [especially](/en/post/especially/) [from](/en/post/from/) one's parents. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) receiving characteristics [or](/en/post/or/) traits genetically. [For](/en/post/for/) [example](/en/post/example/):
-  - "[She](/en/post/she/) inherited [a](/en/post/a/) [fortune](/en/post/fortune/) [from](/en/post/from/) [her](/en/post/her/) [grandfather](/en/post/grandfather/)."
-  - "[He](/en/post/he/) inherited [his](/en/post/his/) mother's [artistic](/en/post/artistic/) [talent](/en/post/talent/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [receive](/post/receive/) [or](/post/or/) [acquire](/post/acquire/) ([property](/post/property/), titles, rights, etc.) [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) [a](/post/a/) [family](/post/family/) member's [death](/post/death/), [especially](/post/especially/) [from](/post/from/) one's parents. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) receiving characteristics [or](/post/or/) traits genetically. [For](/post/for/) [example](/post/example/):
+  - "[She](/post/she/) inherited [a](/post/a/) [fortune](/post/fortune/) [from](/post/from/) [her](/post/her/) [grandfather](/post/grandfather/)."
+  - "[He](/post/he/) inherited [his](/post/his/) mother's [artistic](/post/artistic/) [talent](/post/talent/)."
 
-- **[Noun](/en/post/noun/)**: (n) [Something](/en/post/something/) [that](/en/post/that/) is passed [down](/en/post/down/) [or](/en/post/or/) received [from](/en/post/from/) ancestors, [such](/en/post/such/) [as](/en/post/as/) [property](/en/post/property/), characteristics, [or](/en/post/or/) [a](/en/post/a/) [title](/en/post/title/). [For](/en/post/for/) [example](/en/post/example/):
-  - "[The](/en/post/the/) [house](/en/post/house/) was [part](/en/post/part/) [of](/en/post/of/) [his](/en/post/his/) inheritance."
-  - "[The](/en/post/the/) [disease](/en/post/disease/) is an [unfortunate](/en/post/unfortunate/) inheritance [from](/en/post/from/) [a](/en/post/a/) [distant](/en/post/distant/) [relative](/en/post/relative/)."
+- **[Noun](/post/noun/)**: (n) [Something](/post/something/) [that](/post/that/) is passed [down](/post/down/) [or](/post/or/) received [from](/post/from/) ancestors, [such](/post/such/) [as](/post/as/) [property](/post/property/), characteristics, [or](/post/or/) [a](/post/a/) [title](/post/title/). [For](/post/for/) [example](/post/example/):
+  - "[The](/post/the/) [house](/post/house/) was [part](/post/part/) [of](/post/of/) [his](/post/his/) inheritance."
+  - "[The](/post/the/) [disease](/post/disease/) is an [unfortunate](/post/unfortunate/) inheritance [from](/post/from/) [a](/post/a/) [distant](/post/distant/) [relative](/post/relative/)."
 
 ## Phrases
-- "[Inherit](/en/post/inherit/) [the](/en/post/the/) [Earth](/en/post/earth/)" refers [to](/en/post/to/) gaining [possession](/en/post/possession/) [or](/en/post/or/) [reward](/en/post/reward/) [in](/en/post/in/) [a](/en/post/a/) [future](/en/post/future/) [life](/en/post/life/), [often](/en/post/often/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [positive](/en/post/positive/) [outcome](/en/post/outcome/) [after](/en/post/after/) persevering [through](/en/post/through/) adversity.
-- "Inheritance [tax](/en/post/tax/)" is [a](/en/post/a/) [tax](/en/post/tax/) paid [on](/en/post/on/) [the](/en/post/the/) [value](/en/post/value/) [of](/en/post/of/) [property](/en/post/property/) [or](/en/post/or/) [money](/en/post/money/) [that](/en/post/that/) [someone](/en/post/someone/) inherits.
-- "[To](/en/post/to/) [inherit](/en/post/inherit/) [something](/en/post/something/) [from](/en/post/from/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) legally [or](/en/post/or/) [naturally](/en/post/naturally/) [obtain](/en/post/obtain/) [it](/en/post/it/) [upon](/en/post/upon/) [their](/en/post/their/) passing [or](/en/post/or/) [due](/en/post/due/) [to](/en/post/to/) [their](/en/post/their/) [will](/en/post/will/).
+- "[Inherit](/post/inherit/) [the](/post/the/) [Earth](/post/earth/)" refers [to](/post/to/) gaining [possession](/post/possession/) [or](/post/or/) [reward](/post/reward/) [in](/post/in/) [a](/post/a/) [future](/post/future/) [life](/post/life/), [often](/post/often/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [positive](/post/positive/) [outcome](/post/outcome/) [after](/post/after/) persevering [through](/post/through/) adversity.
+- "Inheritance [tax](/post/tax/)" is [a](/post/a/) [tax](/post/tax/) paid [on](/post/on/) [the](/post/the/) [value](/post/value/) [of](/post/of/) [property](/post/property/) [or](/post/or/) [money](/post/money/) [that](/post/that/) [someone](/post/someone/) inherits.
+- "[To](/post/to/) [inherit](/post/inherit/) [something](/post/something/) [from](/post/from/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) legally [or](/post/or/) [naturally](/post/naturally/) [obtain](/post/obtain/) [it](/post/it/) [upon](/post/upon/) [their](/post/their/) passing [or](/post/or/) [due](/post/due/) [to](/post/to/) [their](/post/their/) [will](/post/will/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[When](/en/post/when/) [her](/en/post/her/) [father](/en/post/father/) passed [away](/en/post/away/), [she](/en/post/she/) inherited [his](/en/post/his/) [entire](/en/post/entire/) estate."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) antique [furniture](/en/post/furniture/) was [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [family](/en/post/family/) inheritance."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[When](/post/when/) [her](/post/her/) [father](/post/father/) passed [away](/post/away/), [she](/post/she/) inherited [his](/post/his/) [entire](/post/entire/) estate."
+- **[Noun](/post/noun/)**: "[The](/post/the/) antique [furniture](/post/furniture/) was [part](/post/part/) [of](/post/of/) [the](/post/the/) [family](/post/family/) inheritance."
 
 ## Synonyms
 - Bequeath
 - Devolve
-- [Pass](/en/post/pass/) [down](/en/post/down/)
-- [Receive](/en/post/receive/) [by](/en/post/by/) [succession](/en/post/succession/)
-- [Gain](/en/post/gain/) [through](/en/post/through/) heritage
-- [Acquire](/en/post/acquire/) [by](/en/post/by/) inheritance
+- [Pass](/post/pass/) [down](/post/down/)
+- [Receive](/post/receive/) [by](/post/by/) [succession](/post/succession/)
+- [Gain](/post/gain/) [through](/post/through/) heritage
+- [Acquire](/post/acquire/) [by](/post/by/) inheritance
 - Inheritorship
-- Genetic [transmission](/en/post/transmission/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) traits)
+- Genetic [transmission](/post/transmission/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) traits)

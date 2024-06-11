@@ -7,39 +7,39 @@ description = '[prəˈvaid] vt.提供；装备，供给'
 keywords = ['ai words', 'provide']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈvaɪd/
 
 ## Definitions
-### [Verb](/en/post/verb/)
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) giving [or](/en/post/or/) supplying [something](/en/post/something/), typically [something](/en/post/something/) required [or](/en/post/or/) needed. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is asked [to](/en/post/to/) [provide](/en/post/provide/) [financial](/en/post/financial/) assistance."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [supply](/en/post/supply/) [or](/en/post/or/) [make](/en/post/make/) [available](/en/post/available/); [furnish](/en/post/furnish/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [provide](/en/post/provide/) [a](/en/post/a/) [copy](/en/post/copy/) [of](/en/post/of/) [the](/en/post/the/) [report](/en/post/report/) [by](/en/post/by/) [tomorrow](/en/post/tomorrow/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [give](/en/post/give/) [evidence](/en/post/evidence/) [or](/en/post/or/) testimony; [offer](/en/post/offer/) [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [provided](/en/post/provided/) crucial details [about](/en/post/about/) [the](/en/post/the/) [crime](/en/post/crime/)."
+### [Verb](/post/verb/)
+- **[Noun](/post/noun/)**: [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [action](/post/action/) [of](/post/of/) giving [or](/post/or/) supplying [something](/post/something/), typically [something](/post/something/) required [or](/post/or/) needed. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) is asked [to](/post/to/) [provide](/post/provide/) [financial](/post/financial/) assistance."
+- **[Verb](/post/verb/)**: [To](/post/to/) [supply](/post/supply/) [or](/post/or/) [make](/post/make/) [available](/post/available/); [furnish](/post/furnish/). [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [provide](/post/provide/) [a](/post/a/) [copy](/post/copy/) [of](/post/of/) [the](/post/the/) [report](/post/report/) [by](/post/by/) [tomorrow](/post/tomorrow/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [give](/post/give/) [evidence](/post/evidence/) [or](/post/or/) testimony; [offer](/post/offer/) [information](/post/information/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [provided](/post/provided/) crucial details [about](/post/about/) [the](/post/the/) [crime](/post/crime/)."
 
 ## Phrases
-- "[Provide](/en/post/provide/) [for](/en/post/for/)" [means](/en/post/means/) [to](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) [ensure](/en/post/ensure/) [the](/en/post/the/) [supply](/en/post/supply/) [of](/en/post/of/) [something](/en/post/something/) [necessary](/en/post/necessary/).
-- "[Provide](/en/post/provide/) [shelter](/en/post/shelter/)" is [a](/en/post/a/) [common](/en/post/common/) [expression](/en/post/expression/) [for](/en/post/for/) offering [a](/en/post/a/) [place](/en/post/place/) [to](/en/post/to/) [live](/en/post/live/).
-- "[Provide](/en/post/provide/) an [answer](/en/post/answer/)" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [response](/en/post/response/) [or](/en/post/or/) [solution](/en/post/solution/).
+- "[Provide](/post/provide/) [for](/post/for/)" [means](/post/means/) [to](/post/to/) [arrange](/post/arrange/) [or](/post/or/) [ensure](/post/ensure/) [the](/post/the/) [supply](/post/supply/) [of](/post/of/) [something](/post/something/) [necessary](/post/necessary/).
+- "[Provide](/post/provide/) [shelter](/post/shelter/)" is [a](/post/a/) [common](/post/common/) [expression](/post/expression/) [for](/post/for/) offering [a](/post/a/) [place](/post/place/) [to](/post/to/) [live](/post/live/).
+- "[Provide](/post/provide/) an [answer](/post/answer/)" [means](/post/means/) [to](/post/to/) [give](/post/give/) [a](/post/a/) [response](/post/response/) [or](/post/or/) [solution](/post/solution/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [hotel](/en/post/hotel/) offers [various](/en/post/various/) amenities [to](/en/post/to/) [provide](/en/post/provide/) guests [with](/en/post/with/) [comfort](/en/post/comfort/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [organization](/en/post/organization/) provides [free](/en/post/free/) [education](/en/post/education/) [to](/en/post/to/) underprivileged children."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [witness](/en/post/witness/) [provided](/en/post/provided/) [a](/en/post/a/) sworn [statement](/en/post/statement/) [regarding](/en/post/regarding/) [the](/en/post/the/) [incident](/en/post/incident/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [hotel](/post/hotel/) offers [various](/post/various/) amenities [to](/post/to/) [provide](/post/provide/) guests [with](/post/with/) [comfort](/post/comfort/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [organization](/post/organization/) provides [free](/post/free/) [education](/post/education/) [to](/post/to/) underprivileged children."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [witness](/post/witness/) [provided](/post/provided/) [a](/post/a/) sworn [statement](/post/statement/) [regarding](/post/regarding/) [the](/post/the/) [incident](/post/incident/)."
 
 ## Synonyms
-- [Supply](/en/post/supply/)
-- [Offer](/en/post/offer/)
-- [Furnish](/en/post/furnish/)
-- [Give](/en/post/give/)
-- [Supply](/en/post/supply/)
-- [Supply](/en/post/supply/)
-- [Yield](/en/post/yield/)
-- [Contribute](/en/post/contribute/)
-- [Present](/en/post/present/)
+- [Supply](/post/supply/)
+- [Offer](/post/offer/)
+- [Furnish](/post/furnish/)
+- [Give](/post/give/)
+- [Supply](/post/supply/)
+- [Supply](/post/supply/)
+- [Yield](/post/yield/)
+- [Contribute](/post/contribute/)
+- [Present](/post/present/)
 
 ## Antonyms
 - Withhold
-- [Deny](/en/post/deny/)
+- [Deny](/post/deny/)
 - Deprive
-- [Restrict](/en/post/restrict/)
-- [Withdraw](/en/post/withdraw/)
+- [Restrict](/post/restrict/)
+- [Withdraw](/post/withdraw/)

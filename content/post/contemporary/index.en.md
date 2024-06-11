@@ -7,38 +7,38 @@ description = '[kənˈtempərəri] a.当代的，同时代的'
 keywords = ['ai words', 'contemporary']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈtɜːrəpɔːri/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Belonging [to](/en/post/to/) [or](/en/post/or/) occurring [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [period](/en/post/period/) [or](/en/post/or/) [time](/en/post/time/) [as](/en/post/as/) [something](/en/post/something/) [else](/en/post/else/); contemporaneous. [Example](/en/post/example/): "[The](/en/post/the/) building's [design](/en/post/design/) is [contemporary](/en/post/contemporary/) [with](/en/post/with/) [the](/en/post/the/) [rest](/en/post/rest/) [of](/en/post/of/) [the](/en/post/the/) neighborhood."
-- 2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [the](/en/post/the/) [present](/en/post/present/) [time](/en/post/time/) [or](/en/post/or/) [current](/en/post/current/) trends. [Example](/en/post/example/): "[Contemporary](/en/post/contemporary/) [art](/en/post/art/) [often](/en/post/often/) pushes boundaries [and](/en/post/and/) explores [new](/en/post/new/) ideas."
-- 3. [Of](/en/post/of/) [equal](/en/post/equal/) standing [or](/en/post/or/) [quality](/en/post/quality/); comparably [modern](/en/post/modern/). [Example](/en/post/example/): "[Their](/en/post/their/) skills are [quite](/en/post/quite/) [contemporary](/en/post/contemporary/), making [them](/en/post/them/) formidable opponents."
+- **[Adjective](/post/adjective/)**: 1. Belonging [to](/post/to/) [or](/post/or/) occurring [in](/post/in/) [the](/post/the/) [same](/post/same/) [period](/post/period/) [or](/post/or/) [time](/post/time/) [as](/post/as/) [something](/post/something/) [else](/post/else/); contemporaneous. [Example](/post/example/): "[The](/post/the/) building's [design](/post/design/) is [contemporary](/post/contemporary/) [with](/post/with/) [the](/post/the/) [rest](/post/rest/) [of](/post/of/) [the](/post/the/) neighborhood."
+- 2. [Characteristic](/post/characteristic/) [of](/post/of/) [the](/post/the/) [present](/post/present/) [time](/post/time/) [or](/post/or/) [current](/post/current/) trends. [Example](/post/example/): "[Contemporary](/post/contemporary/) [art](/post/art/) [often](/post/often/) pushes boundaries [and](/post/and/) explores [new](/post/new/) ideas."
+- 3. [Of](/post/of/) [equal](/post/equal/) standing [or](/post/or/) [quality](/post/quality/); comparably [modern](/post/modern/). [Example](/post/example/): "[Their](/post/their/) skills are [quite](/post/quite/) [contemporary](/post/contemporary/), making [them](/post/them/) formidable opponents."
 
-## [Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))
-- [In](/en/post/in/) [some](/en/post/some/) cases, "[contemporary](/en/post/contemporary/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [rare](/en/post/rare/) [noun](/en/post/noun/), referring [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is [of](/en/post/of/) [the](/en/post/the/) [same](/en/post/same/) [time](/en/post/time/) [or](/en/post/or/) [generation](/en/post/generation/). [Example](/en/post/example/): "[They](/en/post/they/) were discussing [their](/en/post/their/) [contemporary](/en/post/contemporary/) experiences growing [up](/en/post/up/)."
+## [Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))
+- [In](/post/in/) [some](/post/some/) cases, "[contemporary](/post/contemporary/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [rare](/post/rare/) [noun](/post/noun/), referring [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is [of](/post/of/) [the](/post/the/) [same](/post/same/) [time](/post/time/) [or](/post/or/) [generation](/post/generation/). [Example](/post/example/): "[They](/post/they/) were discussing [their](/post/their/) [contemporary](/post/contemporary/) experiences growing [up](/post/up/)."
 
 ## Phrases
-- "[Contemporary](/en/post/contemporary/) [music](/en/post/music/)" refers [to](/en/post/to/) [music](/en/post/music/) produced [in](/en/post/in/) [recent](/en/post/recent/) times.
-- "[Contemporary](/en/post/contemporary/) [art](/en/post/art/) exhibitions" showcase [the](/en/post/the/) latest works [by](/en/post/by/) artists.
-- "[A](/en/post/a/) [contemporary](/en/post/contemporary/) [perspective](/en/post/perspective/)" [means](/en/post/means/) [a](/en/post/a/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) [current](/en/post/current/) [time](/en/post/time/) [or](/en/post/or/) [era](/en/post/era/).
+- "[Contemporary](/post/contemporary/) [music](/post/music/)" refers [to](/post/to/) [music](/post/music/) produced [in](/post/in/) [recent](/post/recent/) times.
+- "[Contemporary](/post/contemporary/) [art](/post/art/) exhibitions" showcase [the](/post/the/) latest works [by](/post/by/) artists.
+- "[A](/post/a/) [contemporary](/post/contemporary/) [perspective](/post/perspective/)" [means](/post/means/) [a](/post/a/) [view](/post/view/) [from](/post/from/) [the](/post/the/) [current](/post/current/) [time](/post/time/) [or](/post/or/) [era](/post/era/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [artist](/en/post/artist/) drew inspiration [from](/en/post/from/) [both](/en/post/both/) [traditional](/en/post/traditional/) [and](/en/post/and/) [contemporary](/en/post/contemporary/) styles."
-- **[Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: "[Her](/en/post/her/) contemporaries admired [her](/en/post/her/) dedication [to](/en/post/to/) [social](/en/post/social/) [justice](/en/post/justice/)."
-- **Prepositional [phrase](/en/post/phrase/)**: "[The](/en/post/the/) [museum](/en/post/museum/) features [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) [contemporary](/en/post/contemporary/) sculptures."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [artist](/post/artist/) drew inspiration [from](/post/from/) [both](/post/both/) [traditional](/post/traditional/) [and](/post/and/) [contemporary](/post/contemporary/) styles."
+- **[Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))**: "[Her](/post/her/) contemporaries admired [her](/post/her/) dedication [to](/post/to/) [social](/post/social/) [justice](/post/justice/)."
+- **Prepositional [phrase](/post/phrase/)**: "[The](/post/the/) [museum](/post/museum/) features [a](/post/a/) [collection](/post/collection/) [of](/post/of/) [contemporary](/post/contemporary/) sculptures."
 
 ## Synonyms
-- [Modern](/en/post/modern/)
+- [Modern](/post/modern/)
 - Present-day
-- [Up-to-date](/en/post/up-to-date/)
-- [Current](/en/post/current/)
-- [Contemporary](/en/post/contemporary/) works
-- [Contemporary](/en/post/contemporary/) [culture](/en/post/culture/)
+- [Up-to-date](/post/up-to-date/)
+- [Current](/post/current/)
+- [Contemporary](/post/contemporary/) works
+- [Contemporary](/post/contemporary/) [culture](/post/culture/)
 
 ## Antonyms
-- [Historical](/en/post/historical/)
+- [Historical](/post/historical/)
 - Anachronistic
 - Outdated
 - Retro
-- [Ancient](/en/post/ancient/)
+- [Ancient](/post/ancient/)

@@ -7,41 +7,41 @@ description = '[ˈtɑːgit] n.靶，标的；目标'
 keywords = ['ai words', 'target']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɑːrɡɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is [the](/en/post/the/) intended recipient [or](/en/post/or/) [focus](/en/post/focus/) [of](/en/post/of/) an [action](/en/post/action/), [effort](/en/post/effort/), [or](/en/post/or/) [interest](/en/post/interest/): "[The](/en/post/the/) marketing campaign's [main](/en/post/main/) [target](/en/post/target/) [audience](/en/post/audience/) is [young](/en/post/young/) adults."
-2. [The](/en/post/the/) [object](/en/post/object/) [or](/en/post/or/) [goal](/en/post/goal/) [of](/en/post/of/) [a](/en/post/a/) [weapon](/en/post/weapon/) [or](/en/post/or/) [missile](/en/post/missile/): "[The](/en/post/the/) [missile](/en/post/missile/) struck [its](/en/post/its/) [target](/en/post/target/) [with](/en/post/with/) [precision](/en/post/precision/)."
-3. ([Business](/en/post/business/)) [A](/en/post/a/) [specific](/en/post/specific/) [product](/en/post/product/), [service](/en/post/service/), [or](/en/post/or/) [market](/en/post/market/) segment [that](/en/post/that/) [a](/en/post/a/) [company](/en/post/company/) aims [to](/en/post/to/) [serve](/en/post/serve/): "[Our](/en/post/our/) [company](/en/post/company/) has [multiple](/en/post/multiple/) targets [for](/en/post/for/) expanding [our](/en/post/our/) [customer](/en/post/customer/) [base](/en/post/base/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is [the](/post/the/) intended recipient [or](/post/or/) [focus](/post/focus/) [of](/post/of/) an [action](/post/action/), [effort](/post/effort/), [or](/post/or/) [interest](/post/interest/): "[The](/post/the/) marketing campaign's [main](/post/main/) [target](/post/target/) [audience](/post/audience/) is [young](/post/young/) adults."
+2. [The](/post/the/) [object](/post/object/) [or](/post/or/) [goal](/post/goal/) [of](/post/of/) [a](/post/a/) [weapon](/post/weapon/) [or](/post/or/) [missile](/post/missile/): "[The](/post/the/) [missile](/post/missile/) struck [its](/post/its/) [target](/post/target/) [with](/post/with/) [precision](/post/precision/)."
+3. ([Business](/post/business/)) [A](/post/a/) [specific](/post/specific/) [product](/post/product/), [service](/post/service/), [or](/post/or/) [market](/post/market/) segment [that](/post/that/) [a](/post/a/) [company](/post/company/) aims [to](/post/to/) [serve](/post/serve/): "[Our](/post/our/) [company](/post/company/) has [multiple](/post/multiple/) targets [for](/post/for/) expanding [our](/post/our/) [customer](/post/customer/) [base](/post/base/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [aim](/en/post/aim/) [or](/en/post/or/) [direct](/en/post/direct/) [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) an [attack](/en/post/attack/) [or](/en/post/or/) [attention](/en/post/attention/), [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/): "[The](/en/post/the/) [company](/en/post/company/) targeted [their](/en/post/their/) [new](/en/post/new/) [product](/en/post/product/) towards eco-conscious consumers."
-2. [To](/en/post/to/) [set](/en/post/set/) [a](/en/post/a/) [goal](/en/post/goal/) [or](/en/post/or/) [objective](/en/post/objective/) [for](/en/post/for/) [oneself](/en/post/oneself/) [or](/en/post/or/) others: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [target](/en/post/target/) higher sales figures [this](/en/post/this/) [quarter](/en/post/quarter/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [aim](/post/aim/) [or](/post/or/) [direct](/post/direct/) [something](/post/something/), [such](/post/such/) [as](/post/as/) an [attack](/post/attack/) [or](/post/or/) [attention](/post/attention/), [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/): "[The](/post/the/) [company](/post/company/) targeted [their](/post/their/) [new](/post/new/) [product](/post/product/) towards eco-conscious consumers."
+2. [To](/post/to/) [set](/post/set/) [a](/post/a/) [goal](/post/goal/) [or](/post/or/) [objective](/post/objective/) [for](/post/for/) [oneself](/post/oneself/) [or](/post/or/) others: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [target](/post/target/) higher sales figures [this](/post/this/) [quarter](/post/quarter/)."
 
 ## Phrases
-- "[Target](/en/post/target/) [audience](/en/post/audience/)" refers [to](/en/post/to/) [the](/en/post/the/) [specific](/en/post/specific/) [group](/en/post/group/) [a](/en/post/a/) [product](/en/post/product/), [service](/en/post/service/), [or](/en/post/or/) [message](/en/post/message/) is designed [for](/en/post/for/).
-- "[Hit](/en/post/hit/) [the](/en/post/the/) [target](/en/post/target/)" [means](/en/post/means/) [to](/en/post/to/) [achieve](/en/post/achieve/) [the](/en/post/the/) intended [goal](/en/post/goal/) [or](/en/post/or/) [outcome](/en/post/outcome/).
-- "[Set](/en/post/set/) [a](/en/post/a/) [target](/en/post/target/)" implies establishing [a](/en/post/a/) [goal](/en/post/goal/) [or](/en/post/or/) benchmark.
+- "[Target](/post/target/) [audience](/post/audience/)" refers [to](/post/to/) [the](/post/the/) [specific](/post/specific/) [group](/post/group/) [a](/post/a/) [product](/post/product/), [service](/post/service/), [or](/post/or/) [message](/post/message/) is designed [for](/post/for/).
+- "[Hit](/post/hit/) [the](/post/the/) [target](/post/target/)" [means](/post/means/) [to](/post/to/) [achieve](/post/achieve/) [the](/post/the/) intended [goal](/post/goal/) [or](/post/or/) [outcome](/post/outcome/).
+- "[Set](/post/set/) [a](/post/a/) [target](/post/target/)" implies establishing [a](/post/a/) [goal](/post/goal/) [or](/post/or/) benchmark.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) architect designed [the](/en/post/the/) [building](/en/post/building/) [to](/en/post/to/) [be](/en/post/be/) visually appealing [to](/en/post/to/) [its](/en/post/its/) [target](/en/post/target/) demographic."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [athlete](/en/post/athlete/) trained rigorously [to](/en/post/to/) [target](/en/post/target/) [a](/en/post/a/) [world](/en/post/world/) [record](/en/post/record/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) marketing team's [primary](/en/post/primary/) [target](/en/post/target/) is [to](/en/post/to/) [increase](/en/post/increase/) website [traffic](/en/post/traffic/) [by](/en/post/by/) 50%."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) architect designed [the](/post/the/) [building](/post/building/) [to](/post/to/) [be](/post/be/) visually appealing [to](/post/to/) [its](/post/its/) [target](/post/target/) demographic."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [athlete](/post/athlete/) trained rigorously [to](/post/to/) [target](/post/target/) [a](/post/a/) [world](/post/world/) [record](/post/record/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) marketing team's [primary](/post/primary/) [target](/post/target/) is [to](/post/to/) [increase](/post/increase/) website [traffic](/post/traffic/) [by](/post/by/) 50%."
 
 ## Synonyms
-- [Aim](/en/post/aim/)
+- [Aim](/post/aim/)
 - Orient
-- [Focus](/en/post/focus/)
+- [Focus](/post/focus/)
 - Center
-- [Direct](/en/post/direct/)
-- [Pursue](/en/post/pursue/)
-- [Concentrate](/en/post/concentrate/)
+- [Direct](/post/direct/)
+- [Pursue](/post/pursue/)
+- [Concentrate](/post/concentrate/)
 - Orientate
 
 ## Antonyms
 - Misdirect
-- [Miss](/en/post/miss/)
-- [Avoid](/en/post/avoid/)
+- [Miss](/post/miss/)
+- [Avoid](/post/avoid/)
 - Deviate

@@ -11,20 +11,20 @@ keywords = ['ai words', 'silk']
 /ˈsɪlk/
 
 ## 释义
-- **名词**: 一种光滑、柔软且有光泽的天然纤维，由蚕茧抽丝制成。例如: "[She](/post/she/) wore [a](/post/a/) [beautiful](/post/beautiful/) [silk](/post/silk/) [dress](/post/dress/) [to](/post/to/) [the](/post/the/) [party](/post/party/)."
-- **形容词**: 指具有丝绸般光滑或柔软的质地。例如: "[The](/post/the/) sheets were made [of](/post/of/) [soft](/post/soft/), silk-like [fabric](/post/fabric/)."
+- **名词**: 一种光滑、柔软且有光泽的天然纤维，由蚕茧抽丝制成。例如: "[She](/zh/post/she/) wore [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [silk](/zh/post/silk/) [dress](/zh/post/dress/) [to](/zh/post/to/) [the](/zh/post/the/) [party](/zh/post/party/)."
+- **形容词**: 指具有丝绸般光滑或柔软的质地。例如: "[The](/zh/post/the/) sheets were made [of](/zh/post/of/) [soft](/zh/post/soft/), silk-like [fabric](/zh/post/fabric/)."
 
 ## 短语
-- "[Silk](/post/silk/) [road](/post/road/)" 是古代连接中国与欧洲的贸易路线。
-- "[Silk](/post/silk/) pillowcase" 能够减少对头发和皮肤的摩擦。
+- "[Silk](/zh/post/silk/) [road](/zh/post/road/)" 是古代连接中国与欧洲的贸易路线。
+- "[Silk](/zh/post/silk/) pillowcase" 能够减少对头发和皮肤的摩擦。
 
 ## 例句
-- 名词: "[The](/post/the/) merchants traded [valuable](/post/valuable/) [silk](/post/silk/) [on](/post/on/) [the](/post/the/) [ancient](/post/ancient/) [Silk](/post/silk/) [Road](/post/road/)."
-- 形容词: "[The](/post/the/) baby's [skin](/post/skin/) was [as](/post/as/) [smooth](/post/smooth/) [as](/post/as/) [silk](/post/silk/)."
+- 名词: "[The](/zh/post/the/) merchants traded [valuable](/zh/post/valuable/) [silk](/zh/post/silk/) [on](/zh/post/on/) [the](/zh/post/the/) [ancient](/zh/post/ancient/) [Silk](/zh/post/silk/) [Road](/zh/post/road/)."
+- 形容词: "[The](/zh/post/the/) baby's [skin](/zh/post/skin/) was [as](/zh/post/as/) [smooth](/zh/post/smooth/) [as](/zh/post/as/) [silk](/zh/post/silk/)."
 
 ## 同义词
 - Satin (绸缎)
-- [Velvet](/post/velvet/) (天鹅绒)
-- [Smooth](/post/smooth/) (平滑的)
+- [Velvet](/zh/post/velvet/) (天鹅绒)
+- [Smooth](/zh/post/smooth/) (平滑的)
 - Luxurious (奢华的)
 - Lustrous (有光泽的)

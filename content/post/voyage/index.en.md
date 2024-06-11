@@ -7,40 +7,40 @@ description = '[ˈvɔiidʒ] n.&vi.航海，航空'
 keywords = ['ai words', 'voyage']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vɔɪˈɑːʒ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[voyage](/en/post/voyage/)** is [a](/en/post/a/) [journey](/en/post/journey/) [by](/en/post/by/) [sea](/en/post/sea/), [air](/en/post/air/), [or](/en/post/or/) [land](/en/post/land/), typically [one](/en/post/one/) [that](/en/post/that/) involves [travel](/en/post/travel/) [across](/en/post/across/) [a](/en/post/a/) [considerable](/en/post/considerable/) [distance](/en/post/distance/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/), [such](/en/post/such/) [as](/en/post/as/) [trade](/en/post/trade/), exploration, [or](/en/post/or/) [leisure](/en/post/leisure/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[voyage](/post/voyage/)** is [a](/post/a/) [journey](/post/journey/) [by](/post/by/) [sea](/post/sea/), [air](/post/air/), [or](/post/or/) [land](/post/land/), typically [one](/post/one/) [that](/post/that/) involves [travel](/post/travel/) [across](/post/across/) [a](/post/a/) [considerable](/post/considerable/) [distance](/post/distance/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/), [such](/post/such/) [as](/post/as/) [trade](/post/trade/), exploration, [or](/post/or/) [leisure](/post/leisure/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [go](/en/post/go/) [on](/en/post/on/) [a](/en/post/a/) **[voyage](/en/post/voyage/)** [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [undertake](/en/post/undertake/) [a](/en/post/a/) [journey](/en/post/journey/) [or](/en/post/or/) [travel](/en/post/travel/) [by](/en/post/by/) [water](/en/post/water/), [air](/en/post/air/), [or](/en/post/or/) [land](/en/post/land/), [especially](/en/post/especially/) [when](/en/post/when/) it's [a](/en/post/a/) [significant](/en/post/significant/) [trip](/en/post/trip/).
+### [Verb](/post/verb/)
+[To](/post/to/) [go](/post/go/) [on](/post/on/) [a](/post/a/) **[voyage](/post/voyage/)** [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [undertake](/post/undertake/) [a](/post/a/) [journey](/post/journey/) [or](/post/or/) [travel](/post/travel/) [by](/post/by/) [water](/post/water/), [air](/post/air/), [or](/post/or/) [land](/post/land/), [especially](/post/especially/) [when](/post/when/) it's [a](/post/a/) [significant](/post/significant/) [trip](/post/trip/).
 
-### [Adjective](/en/post/adjective/)
-Voyage-related adjectives [might](/en/post/might/) [describe](/en/post/describe/) [a](/en/post/a/) [journey](/en/post/journey/) [or](/en/post/or/) expedition, [like](/en/post/like/) *transoceanic* (crossing an [ocean](/en/post/ocean/)) [or](/en/post/or/) *epic* ([impressive](/en/post/impressive/) [or](/en/post/or/) adventurous).
+### [Adjective](/post/adjective/)
+Voyage-related adjectives [might](/post/might/) [describe](/post/describe/) [a](/post/a/) [journey](/post/journey/) [or](/post/or/) expedition, [like](/post/like/) *transoceanic* (crossing an [ocean](/post/ocean/)) [or](/post/or/) *epic* ([impressive](/post/impressive/) [or](/post/or/) adventurous).
 
 ## Phrases
-- "Embarking [on](/en/post/on/) [a](/en/post/a/) [voyage](/en/post/voyage/)" [to](/en/post/to/) [start](/en/post/start/) [a](/en/post/a/) [journey](/en/post/journey/).
-- "[A](/en/post/a/) [long](/en/post/long/) [sea](/en/post/sea/) [voyage](/en/post/voyage/)" refers [to](/en/post/to/) [a](/en/post/a/) prolonged [journey](/en/post/journey/) [at](/en/post/at/) [sea](/en/post/sea/).
-- "[The](/en/post/the/) [voyage](/en/post/voyage/) [of](/en/post/of/) [discovery](/en/post/discovery/)" symbolizes exploration [and](/en/post/and/) [learning](/en/post/learning/).
+- "Embarking [on](/post/on/) [a](/post/a/) [voyage](/post/voyage/)" [to](/post/to/) [start](/post/start/) [a](/post/a/) [journey](/post/journey/).
+- "[A](/post/a/) [long](/post/long/) [sea](/post/sea/) [voyage](/post/voyage/)" refers [to](/post/to/) [a](/post/a/) prolonged [journey](/post/journey/) [at](/post/at/) [sea](/post/sea/).
+- "[The](/post/the/) [voyage](/post/voyage/) [of](/post/of/) [discovery](/post/discovery/)" symbolizes exploration [and](/post/and/) [learning](/post/learning/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [crew](/en/post/crew/) [set](/en/post/set/) [sail](/en/post/sail/) [on](/en/post/on/) [a](/en/post/a/) [long](/en/post/long/) [voyage](/en/post/voyage/) [to](/en/post/to/) [discover](/en/post/discover/) [new](/en/post/new/) lands."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [at](/en/post/at/) [sea](/en/post/sea/), [they](/en/post/they/) [finally](/en/post/finally/) completed [their](/en/post/their/) transatlantic [voyage](/en/post/voyage/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) epic [voyage](/en/post/voyage/) [through](/en/post/through/) [the](/en/post/the/) Amazon rainforest was filled [with](/en/post/with/) [adventure](/en/post/adventure/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [crew](/post/crew/) [set](/post/set/) [sail](/post/sail/) [on](/post/on/) [a](/post/a/) [long](/post/long/) [voyage](/post/voyage/) [to](/post/to/) [discover](/post/discover/) [new](/post/new/) lands."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [at](/post/at/) [sea](/post/sea/), [they](/post/they/) [finally](/post/finally/) completed [their](/post/their/) transatlantic [voyage](/post/voyage/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) epic [voyage](/post/voyage/) [through](/post/through/) [the](/post/the/) Amazon rainforest was filled [with](/post/with/) [adventure](/post/adventure/)."
 
 ## Synonyms
-- [Journey](/en/post/journey/)
+- [Journey](/post/journey/)
 - Expedition
-- [Sea](/en/post/sea/) [trip](/en/post/trip/)
-- [Voyage](/en/post/voyage/) [of](/en/post/of/) [discovery](/en/post/discovery/)
-- [Travel](/en/post/travel/)
+- [Sea](/post/sea/) [trip](/post/trip/)
+- [Voyage](/post/voyage/) [of](/post/of/) [discovery](/post/discovery/)
+- [Travel](/post/travel/)
 - Cruise
 - Journeying
 
 ## Antonyms
-- [Stay](/en/post/stay/)
-- [Rest](/en/post/rest/)
+- [Stay](/post/stay/)
+- [Rest](/post/rest/)
 - Stationary
-- [Trip](/en/post/trip/) ([less](/en/post/less/) [formal](/en/post/formal/) [than](/en/post/than/) [voyage](/en/post/voyage/))
+- [Trip](/post/trip/) ([less](/post/less/) [formal](/post/formal/) [than](/post/than/) [voyage](/post/voyage/))

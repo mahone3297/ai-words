@@ -14,18 +14,18 @@ keywords = ['ai words', 'readily']
 - **副词**: 容易地；乐意地；迅速地。表示某事可以迅速、无困难或愉快地完成。
 
 ## 短语
-- "[readily](/post/readily/) [available](/post/available/)" 意为容易获取的。
-- "[readily](/post/readily/) [accept](/post/accept/)" 意为欣然接受。
-- "[readily](/post/readily/) adaptable" 意为易于适应的。
+- "[readily](/zh/post/readily/) [available](/zh/post/available/)" 意为容易获取的。
+- "[readily](/zh/post/readily/) [accept](/zh/post/accept/)" 意为欣然接受。
+- "[readily](/zh/post/readily/) adaptable" 意为易于适应的。
 
 ## 例句
-- "[The](/post/the/) [information](/post/information/) is [readily](/post/readily/) accessible [on](/post/on/) [the](/post/the/) internet."
-- "[She](/post/she/) [readily](/post/readily/) agreed [to](/post/to/) [help](/post/help/) [with](/post/with/) [the](/post/the/) [project](/post/project/)."
-- "[He](/post/he/) solved [the](/post/the/) [problem](/post/problem/) [readily](/post/readily/), showing [his](/post/his/) expertise."
+- "[The](/zh/post/the/) [information](/zh/post/information/) is [readily](/zh/post/readily/) accessible [on](/zh/post/on/) [the](/zh/post/the/) internet."
+- "[She](/zh/post/she/) [readily](/zh/post/readily/) agreed [to](/zh/post/to/) [help](/zh/post/help/) [with](/zh/post/with/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- "[He](/zh/post/he/) solved [the](/zh/post/the/) [problem](/zh/post/problem/) [readily](/zh/post/readily/), showing [his](/zh/post/his/) expertise."
 
 ## 同义词
-- [easily](/post/easily/)
+- [easily](/zh/post/easily/)
 - promptly
 - willingly
 - swiftly
-- [without](/post/without/) hesitation
+- [without](/zh/post/without/) hesitation

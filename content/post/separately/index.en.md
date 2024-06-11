@@ -7,30 +7,30 @@ description = '[ˈsepərətli] ad.分离地'
 keywords = ['ai words', 'separately']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /seprəˈleɪtli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [separate](/en/post/separate/) [manner](/en/post/manner/); individually [or](/en/post/or/) distinctively. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) solved [the](/en/post/the/) [problem](/en/post/problem/) [separately](/en/post/separately/)."
-- **[Adjective](/en/post/adjective/)**: Done [or](/en/post/or/) occurring independently; [not](/en/post/not/) [together](/en/post/together/) [or](/en/post/or/) jointly. [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) [student](/en/post/student/) worked [on](/en/post/on/) [their](/en/post/their/) [project](/en/post/project/) [separately](/en/post/separately/)."
-- **[Pronoun](/en/post/pronoun/)**: [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [apart](/en/post/apart/) [from](/en/post/from/) others. [For](/en/post/for/) [example](/en/post/example/): "Let's [discuss](/en/post/discuss/) [this](/en/post/this/) [matter](/en/post/matter/) [separately](/en/post/separately/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [separate](/post/separate/) [manner](/post/manner/); individually [or](/post/or/) distinctively. [For](/post/for/) [example](/post/example/): "[They](/post/they/) solved [the](/post/the/) [problem](/post/problem/) [separately](/post/separately/)."
+- **[Adjective](/post/adjective/)**: Done [or](/post/or/) occurring independently; [not](/post/not/) [together](/post/together/) [or](/post/or/) jointly. [For](/post/for/) [example](/post/example/): "[Each](/post/each/) [student](/post/student/) worked [on](/post/on/) [their](/post/their/) [project](/post/project/) [separately](/post/separately/)."
+- **[Pronoun](/post/pronoun/)**: [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [apart](/post/apart/) [from](/post/from/) others. [For](/post/for/) [example](/post/example/): "Let's [discuss](/post/discuss/) [this](/post/this/) [matter](/post/matter/) [separately](/post/separately/)."
 
 ## Phrases
-- "[Separate](/en/post/separate/) tasks" [means](/en/post/means/) tasks [that](/en/post/that/) are done independently.
-- "[To](/en/post/to/) [work](/en/post/work/) [separately](/en/post/separately/)" implies doing [something](/en/post/something/) [alone](/en/post/alone/).
-- "[She](/en/post/she/) preferred [to](/en/post/to/) [study](/en/post/study/) [separately](/en/post/separately/) [to](/en/post/to/) [avoid](/en/post/avoid/) distractions."
+- "[Separate](/post/separate/) tasks" [means](/post/means/) tasks [that](/post/that/) are done independently.
+- "[To](/post/to/) [work](/post/work/) [separately](/post/separately/)" implies doing [something](/post/something/) [alone](/post/alone/).
+- "[She](/post/she/) preferred [to](/post/to/) [study](/post/study/) [separately](/post/separately/) [to](/post/to/) [avoid](/post/avoid/) distractions."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) children finished [their](/en/post/their/) homework [separately](/en/post/separately/) [after](/en/post/after/) [school](/en/post/school/)."
-- **[Adjective](/en/post/adjective/)**: "[Each](/en/post/each/) [team](/en/post/team/) [member](/en/post/member/) had [to](/en/post/to/) [complete](/en/post/complete/) [their](/en/post/their/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [project](/en/post/project/) [separately](/en/post/separately/)."
-- **[Pronoun](/en/post/pronoun/)**: "We'll [meet](/en/post/meet/) [separately](/en/post/separately/) [to](/en/post/to/) [go](/en/post/go/) [over](/en/post/over/) [our](/en/post/our/) plans."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) children finished [their](/post/their/) homework [separately](/post/separately/) [after](/post/after/) [school](/post/school/)."
+- **[Adjective](/post/adjective/)**: "[Each](/post/each/) [team](/post/team/) [member](/post/member/) had [to](/post/to/) [complete](/post/complete/) [their](/post/their/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [project](/post/project/) [separately](/post/separately/)."
+- **[Pronoun](/post/pronoun/)**: "We'll [meet](/post/meet/) [separately](/post/separately/) [to](/post/to/) [go](/post/go/) [over](/post/over/) [our](/post/our/) plans."
 
 ## Synonyms
 - Individually
-- [Separately](/en/post/separately/)
-- [Apart](/en/post/apart/)
+- [Separately](/post/separately/)
+- [Apart](/post/apart/)
 -独自地
 - Independently
 - Distinctly
 
-## [Note](/en/post/note/): [The](/en/post/the/) [last](/en/post/last/) synonym [provided](/en/post/provided/) is [in](/en/post/in/) Chinese (独自地) [as](/en/post/as/) [it](/en/post/it/) [may](/en/post/may/) [be](/en/post/be/) [helpful](/en/post/helpful/) [for](/en/post/for/) non-native English speakers.
+## [Note](/post/note/): [The](/post/the/) [last](/post/last/) synonym [provided](/post/provided/) is [in](/post/in/) Chinese (独自地) [as](/post/as/) [it](/post/it/) [may](/post/may/) [be](/post/be/) [helpful](/post/helpful/) [for](/post/for/) non-native English speakers.

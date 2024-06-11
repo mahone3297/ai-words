@@ -7,32 +7,32 @@ description = '[kəˈnuː] n.独木舟，皮艇，划子'
 keywords = ['ai words', 'canoe']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈnoʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [canoe](/en/post/canoe/) is [a](/en/post/a/) [small](/en/post/small/), [narrow](/en/post/narrow/) watercraft, traditionally made [of](/en/post/of/) [wood](/en/post/wood/), [but](/en/post/but/) [also](/en/post/also/) [available](/en/post/available/) [in](/en/post/in/) [other](/en/post/other/) materials, [that](/en/post/that/) is paddled [from](/en/post/from/) [either](/en/post/either/) [end](/en/post/end/) [by](/en/post/by/) [one](/en/post/one/) [or](/en/post/or/) [two](/en/post/two/) [people](/en/post/people/). [It](/en/post/it/) is designed [for](/en/post/for/) [use](/en/post/use/) [on](/en/post/on/) [calm](/en/post/calm/) waters, [such](/en/post/such/) [as](/en/post/as/) lakes, rivers, [and](/en/post/and/) canals.
+### [Noun](/post/noun/)
+[A](/post/a/) [canoe](/post/canoe/) is [a](/post/a/) [small](/post/small/), [narrow](/post/narrow/) watercraft, traditionally made [of](/post/of/) [wood](/post/wood/), [but](/post/but/) [also](/post/also/) [available](/post/available/) [in](/post/in/) [other](/post/other/) materials, [that](/post/that/) is paddled [from](/post/from/) [either](/post/either/) [end](/post/end/) [by](/post/by/) [one](/post/one/) [or](/post/or/) [two](/post/two/) [people](/post/people/). [It](/post/it/) is designed [for](/post/for/) [use](/post/use/) [on](/post/on/) [calm](/post/calm/) waters, [such](/post/such/) [as](/post/as/) lakes, rivers, [and](/post/and/) canals.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [canoe](/en/post/canoe/) ([often](/en/post/often/) [as](/en/post/as/) "[to](/en/post/to/) paddle [a](/en/post/a/) [canoe](/en/post/canoe/)") refers [to](/en/post/to/) [the](/en/post/the/) [activity](/en/post/activity/) [of](/en/post/of/) navigating [a](/en/post/a/) [canoe](/en/post/canoe/), typically using [a](/en/post/a/) double-bladed paddle.
+### [Verb](/post/verb/)
+[To](/post/to/) [canoe](/post/canoe/) ([often](/post/often/) [as](/post/as/) "[to](/post/to/) paddle [a](/post/a/) [canoe](/post/canoe/)") refers [to](/post/to/) [the](/post/the/) [activity](/post/activity/) [of](/post/of/) navigating [a](/post/a/) [canoe](/post/canoe/), typically using [a](/post/a/) double-bladed paddle.
 
-### [Adjective](/en/post/adjective/)
-Canoe-shaped [or](/en/post/or/) referring [to](/en/post/to/) [the](/en/post/the/) [sport](/en/post/sport/) [of](/en/post/of/) canoeing.
+### [Adjective](/post/adjective/)
+Canoe-shaped [or](/post/or/) referring [to](/post/to/) [the](/post/the/) [sport](/post/sport/) [of](/post/of/) canoeing.
 
 ## Phrases
-- "[Go](/en/post/go/) canoeing" suggests [the](/en/post/the/) recreational [activity](/en/post/activity/) [of](/en/post/of/) paddling [a](/en/post/a/) [canoe](/en/post/canoe/).
-- "[A](/en/post/a/) [canoe](/en/post/canoe/) [trip](/en/post/trip/)" indicates [a](/en/post/a/) [journey](/en/post/journey/) [or](/en/post/or/) outing [in](/en/post/in/) [a](/en/post/a/) [canoe](/en/post/canoe/).
-- "[Canoe](/en/post/canoe/) camping" is [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [outdoor](/en/post/outdoor/) [adventure](/en/post/adventure/) [where](/en/post/where/) participants [camp](/en/post/camp/) [while](/en/post/while/) using [a](/en/post/a/) [canoe](/en/post/canoe/) [as](/en/post/as/) [their](/en/post/their/) [primary](/en/post/primary/) [mode](/en/post/mode/) [of](/en/post/of/) [transportation](/en/post/transportation/).
+- "[Go](/post/go/) canoeing" suggests [the](/post/the/) recreational [activity](/post/activity/) [of](/post/of/) paddling [a](/post/a/) [canoe](/post/canoe/).
+- "[A](/post/a/) [canoe](/post/canoe/) [trip](/post/trip/)" indicates [a](/post/a/) [journey](/post/journey/) [or](/post/or/) outing [in](/post/in/) [a](/post/a/) [canoe](/post/canoe/).
+- "[Canoe](/post/canoe/) camping" is [a](/post/a/) [type](/post/type/) [of](/post/of/) [outdoor](/post/outdoor/) [adventure](/post/adventure/) [where](/post/where/) participants [camp](/post/camp/) [while](/post/while/) using [a](/post/a/) [canoe](/post/canoe/) [as](/post/as/) [their](/post/their/) [primary](/post/primary/) [mode](/post/mode/) [of](/post/of/) [transportation](/post/transportation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) rented [a](/en/post/a/) [canoe](/en/post/canoe/) [for](/en/post/for/) [our](/en/post/our/) [family](/en/post/family/) [to](/en/post/to/) [explore](/en/post/explore/) [the](/en/post/the/) [lake](/en/post/lake/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) kids were having [fun](/en/post/fun/) canoeing [down](/en/post/down/) [the](/en/post/the/) [river](/en/post/river/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [canoe](/en/post/canoe/) [race](/en/post/race/) attracted [many](/en/post/many/) enthusiasts."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) rented [a](/post/a/) [canoe](/post/canoe/) [for](/post/for/) [our](/post/our/) [family](/post/family/) [to](/post/to/) [explore](/post/explore/) [the](/post/the/) [lake](/post/lake/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) kids were having [fun](/post/fun/) canoeing [down](/post/down/) [the](/post/the/) [river](/post/river/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [canoe](/post/canoe/) [race](/post/race/) attracted [many](/post/many/) enthusiasts."
 
 ## Synonyms
-- Kayak ([but](/en/post/but/) [note](/en/post/note/) [that](/en/post/that/) [a](/en/post/a/) kayak is [a](/en/post/a/) [different](/en/post/different/) [type](/en/post/type/) [of](/en/post/of/) [boat](/en/post/boat/))
+- Kayak ([but](/post/but/) [note](/post/note/) [that](/post/that/) [a](/post/a/) kayak is [a](/post/a/) [different](/post/different/) [type](/post/type/) [of](/post/of/) [boat](/post/boat/))
 - Paddleboat
-- Canoeing ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [form](/en/post/form/))
-- Rowboat ([though](/en/post/though/) [not](/en/post/not/) [as](/en/post/as/) [narrow](/en/post/narrow/) [and](/en/post/and/) [usually](/en/post/usually/) propelled [by](/en/post/by/) oars)
-- Aquatic [vessel](/en/post/vessel/)
+- Canoeing ([as](/post/as/) [a](/post/a/) [verb](/post/verb/) [form](/post/form/))
+- Rowboat ([though](/post/though/) [not](/post/not/) [as](/post/as/) [narrow](/post/narrow/) [and](/post/and/) [usually](/post/usually/) propelled [by](/post/by/) oars)
+- Aquatic [vessel](/post/vessel/)

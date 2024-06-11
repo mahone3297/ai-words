@@ -7,36 +7,36 @@ description = '[kənˈsʌlt] vt.请教，查阅'
 keywords = ['ai words', 'consult']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈsʌlt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Consultation**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) seeking [advice](/en/post/advice/) [or](/en/post/or/) [information](/en/post/information/) [from](/en/post/from/) [someone](/en/post/someone/), [especially](/en/post/especially/) [a](/en/post/a/) [professional](/en/post/professional/). [For](/en/post/for/) [example](/en/post/example/): "[Before](/en/post/before/) making [a](/en/post/a/) [major](/en/post/major/) [decision](/en/post/decision/), [they](/en/post/they/) scheduled [a](/en/post/a/) consultation [with](/en/post/with/) [their](/en/post/their/) [financial](/en/post/financial/) advisor."
-- **Consultant**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) provides [expert](/en/post/expert/) [advice](/en/post/advice/) [or](/en/post/or/) services [to](/en/post/to/) clients [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) consultant was brought [in](/en/post/in/) [to](/en/post/to/) [help](/en/post/help/) [improve](/en/post/improve/) [the](/en/post/the/) company's marketing [strategy](/en/post/strategy/)."
+### [Noun](/post/noun/)
+- **Consultation**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) seeking [advice](/post/advice/) [or](/post/or/) [information](/post/information/) [from](/post/from/) [someone](/post/someone/), [especially](/post/especially/) [a](/post/a/) [professional](/post/professional/). [For](/post/for/) [example](/post/example/): "[Before](/post/before/) making [a](/post/a/) [major](/post/major/) [decision](/post/decision/), [they](/post/they/) scheduled [a](/post/a/) consultation [with](/post/with/) [their](/post/their/) [financial](/post/financial/) advisor."
+- **Consultant**: [A](/post/a/) [person](/post/person/) [who](/post/who/) provides [expert](/post/expert/) [advice](/post/advice/) [or](/post/or/) services [to](/post/to/) clients [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) consultant was brought [in](/post/in/) [to](/post/to/) [help](/post/help/) [improve](/post/improve/) [the](/post/the/) company's marketing [strategy](/post/strategy/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [consult](/en/post/consult/)**: [To](/en/post/to/) [seek](/en/post/seek/) [advice](/en/post/advice/), [information](/en/post/information/), [or](/en/post/or/) [guidance](/en/post/guidance/) [from](/en/post/from/) [someone](/en/post/someone/); [examine](/en/post/examine/) [or](/en/post/or/) [study](/en/post/study/) [something](/en/post/something/) carefully. [For](/en/post/for/) [example](/en/post/example/): "Doctors [often](/en/post/often/) [consult](/en/post/consult/) [medical](/en/post/medical/) [literature](/en/post/literature/) [when](/en/post/when/) faced [with](/en/post/with/) [a](/en/post/a/) [rare](/en/post/rare/) [case](/en/post/case/)."
-- **Consulting**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [or](/en/post/or/) receiving [professional](/en/post/professional/) [advice](/en/post/advice/) [or](/en/post/or/) services, [usually](/en/post/usually/) [on](/en/post/on/) [a](/en/post/a/) [regular](/en/post/regular/) [basis](/en/post/basis/). [For](/en/post/for/) [example](/en/post/example/): "[Many](/en/post/many/) businesses [now](/en/post/now/) [offer](/en/post/offer/) online consulting services."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [consult](/post/consult/)**: [To](/post/to/) [seek](/post/seek/) [advice](/post/advice/), [information](/post/information/), [or](/post/or/) [guidance](/post/guidance/) [from](/post/from/) [someone](/post/someone/); [examine](/post/examine/) [or](/post/or/) [study](/post/study/) [something](/post/something/) carefully. [For](/post/for/) [example](/post/example/): "Doctors [often](/post/often/) [consult](/post/consult/) [medical](/post/medical/) [literature](/post/literature/) [when](/post/when/) faced [with](/post/with/) [a](/post/a/) [rare](/post/rare/) [case](/post/case/)."
+- **Consulting**: [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [or](/post/or/) receiving [professional](/post/professional/) [advice](/post/advice/) [or](/post/or/) services, [usually](/post/usually/) [on](/post/on/) [a](/post/a/) [regular](/post/regular/) [basis](/post/basis/). [For](/post/for/) [example](/post/example/): "[Many](/post/many/) businesses [now](/post/now/) [offer](/post/offer/) online consulting services."
 
 ## Phrases
-- "[Seek](/en/post/seek/) consultation" implies looking [for](/en/post/for/) [advice](/en/post/advice/) [or](/en/post/or/) [input](/en/post/input/).
-- "[Professional](/en/post/professional/) consultation" refers [to](/en/post/to/) [a](/en/post/a/) [meeting](/en/post/meeting/) [with](/en/post/with/) an [expert](/en/post/expert/) [for](/en/post/for/) [guidance](/en/post/guidance/).
-- "Consulting [firm](/en/post/firm/)" is [a](/en/post/a/) [business](/en/post/business/) [that](/en/post/that/) specializes [in](/en/post/in/) providing advisory services.
+- "[Seek](/post/seek/) consultation" implies looking [for](/post/for/) [advice](/post/advice/) [or](/post/or/) [input](/post/input/).
+- "[Professional](/post/professional/) consultation" refers [to](/post/to/) [a](/post/a/) [meeting](/post/meeting/) [with](/post/with/) an [expert](/post/expert/) [for](/post/for/) [guidance](/post/guidance/).
+- "Consulting [firm](/post/firm/)" is [a](/post/a/) [business](/post/business/) [that](/post/that/) specializes [in](/post/in/) providing advisory services.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [patient](/en/post/patient/) was referred [to](/en/post/to/) [a](/en/post/a/) [specialist](/en/post/specialist/) [for](/en/post/for/) [a](/en/post/a/) [second](/en/post/second/) [opinion](/en/post/opinion/) [during](/en/post/during/) [the](/en/post/the/) consultation."
-- **[Verb](/en/post/verb/)**: "[Before](/en/post/before/) launching [the](/en/post/the/) [project](/en/post/project/), [we](/en/post/we/) consulted [with](/en/post/with/) [several](/en/post/several/) experts [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [decision](/en/post/decision/) was based [on](/en/post/on/) [extensive](/en/post/extensive/) [research](/en/post/research/) [and](/en/post/and/) [careful](/en/post/careful/) consultation."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [patient](/post/patient/) was referred [to](/post/to/) [a](/post/a/) [specialist](/post/specialist/) [for](/post/for/) [a](/post/a/) [second](/post/second/) [opinion](/post/opinion/) [during](/post/during/) [the](/post/the/) consultation."
+- **[Verb](/post/verb/)**: "[Before](/post/before/) launching [the](/post/the/) [project](/post/project/), [we](/post/we/) consulted [with](/post/with/) [several](/post/several/) experts [in](/post/in/) [the](/post/the/) [field](/post/field/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [decision](/post/decision/) was based [on](/post/on/) [extensive](/post/extensive/) [research](/post/research/) [and](/post/and/) [careful](/post/careful/) consultation."
 
 ## Synonyms
-- [Seek](/en/post/seek/) [advice](/en/post/advice/)
-- [Advise](/en/post/advise/)
+- [Seek](/post/seek/) [advice](/post/advice/)
+- [Advise](/post/advise/)
 - Consultancy
-- [Seek](/en/post/seek/) counsel
-- [Seek](/en/post/seek/) [guidance](/en/post/guidance/)
-- [Seek](/en/post/seek/) [input](/en/post/input/)
-- [Offer](/en/post/offer/) [advice](/en/post/advice/)
-- [Provide](/en/post/provide/) [guidance](/en/post/guidance/)
+- [Seek](/post/seek/) counsel
+- [Seek](/post/seek/) [guidance](/post/guidance/)
+- [Seek](/post/seek/) [input](/post/input/)
+- [Offer](/post/offer/) [advice](/post/advice/)
+- [Provide](/post/provide/) [guidance](/post/guidance/)
 
-### [Note](/en/post/note/): "[Consult](/en/post/consult/)" [can](/en/post/can/) [also](/en/post/also/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) transitive [verb](/en/post/verb/) (e.g., "[They](/en/post/they/) consulted [the](/en/post/the/) [map](/en/post/map/) [before](/en/post/before/) [setting](/en/post/setting/) [off](/en/post/off/)"), [but](/en/post/but/) [the](/en/post/the/) [noun](/en/post/noun/) [form](/en/post/form/) is [primarily](/en/post/primarily/) [used](/en/post/used/) [for](/en/post/for/) [the](/en/post/the/) [meaning](/en/post/meaning/) described [above](/en/post/above/).
+### [Note](/post/note/): "[Consult](/post/consult/)" [can](/post/can/) [also](/post/also/) [function](/post/function/) [as](/post/as/) [a](/post/a/) transitive [verb](/post/verb/) (e.g., "[They](/post/they/) consulted [the](/post/the/) [map](/post/map/) [before](/post/before/) [setting](/post/setting/) [off](/post/off/)"), [but](/post/but/) [the](/post/the/) [noun](/post/noun/) [form](/post/form/) is [primarily](/post/primarily/) [used](/post/used/) [for](/post/for/) [the](/post/the/) [meaning](/post/meaning/) described [above](/post/above/).

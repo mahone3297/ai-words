@@ -7,33 +7,33 @@ description = '[ʌnˈkʌmfətəbl] a.不舒服的；不自在的'
 keywords = ['ai words', 'uncomfortable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unˈkʌmfərtəbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) uneasiness, discomfort, [or](/en/post/or/) awkwardness; causing uneasiness [or](/en/post/or/) discomfort. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [chair](/en/post/chair/) was [so](/en/post/so/) [uncomfortable](/en/post/uncomfortable/) [that](/en/post/that/) I couldn't [sit](/en/post/sit/) [on](/en/post/on/) [it](/en/post/it/) [for](/en/post/for/) [long](/en/post/long/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) an [uncomfortable](/en/post/uncomfortable/) [manner](/en/post/manner/); uneasily. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) shifted [in](/en/post/in/) [her](/en/post/her/) [seat](/en/post/seat/), looking [extremely](/en/post/extremely/) [uncomfortable](/en/post/uncomfortable/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) uneasiness, discomfort, [or](/post/or/) awkwardness; causing uneasiness [or](/post/or/) discomfort. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [chair](/post/chair/) was [so](/post/so/) [uncomfortable](/post/uncomfortable/) [that](/post/that/) I couldn't [sit](/post/sit/) [on](/post/on/) [it](/post/it/) [for](/post/for/) [long](/post/long/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) an [uncomfortable](/post/uncomfortable/) [manner](/post/manner/); uneasily. [For](/post/for/) [example](/post/example/): "[She](/post/she/) shifted [in](/post/in/) [her](/post/her/) [seat](/post/seat/), looking [extremely](/post/extremely/) [uncomfortable](/post/uncomfortable/)."
 
 ## Phrases
-- "[Feel](/en/post/feel/) [uncomfortable](/en/post/uncomfortable/)" [means](/en/post/means/) [to](/en/post/to/) [experience](/en/post/experience/) [physical](/en/post/physical/) [or](/en/post/or/) [emotional](/en/post/emotional/) discomfort.
-- "[Uncomfortable](/en/post/uncomfortable/) [silence](/en/post/silence/)" refers [to](/en/post/to/) an [awkward](/en/post/awkward/) [pause](/en/post/pause/) [or](/en/post/or/) quietness.
-- "Don't [be](/en/post/be/) [uncomfortable](/en/post/uncomfortable/)" is [a](/en/post/a/) [way](/en/post/way/) [of](/en/post/of/) telling [someone](/en/post/someone/) [not](/en/post/not/) [to](/en/post/to/) [feel](/en/post/feel/) self-conscious [or](/en/post/or/) [uneasy](/en/post/uneasy/).
+- "[Feel](/post/feel/) [uncomfortable](/post/uncomfortable/)" [means](/post/means/) [to](/post/to/) [experience](/post/experience/) [physical](/post/physical/) [or](/post/or/) [emotional](/post/emotional/) discomfort.
+- "[Uncomfortable](/post/uncomfortable/) [silence](/post/silence/)" refers [to](/post/to/) an [awkward](/post/awkward/) [pause](/post/pause/) [or](/post/or/) quietness.
+- "Don't [be](/post/be/) [uncomfortable](/post/uncomfortable/)" is [a](/post/a/) [way](/post/way/) [of](/post/of/) telling [someone](/post/someone/) [not](/post/not/) [to](/post/to/) [feel](/post/feel/) self-conscious [or](/post/or/) [uneasy](/post/uneasy/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [dress](/en/post/dress/) was [too](/en/post/too/) [tight](/en/post/tight/), making [her](/en/post/her/) [feel](/en/post/feel/) [quite](/en/post/quite/) [uncomfortable](/en/post/uncomfortable/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) felt [uncomfortable](/en/post/uncomfortable/) [during](/en/post/during/) [the](/en/post/the/) [public](/en/post/public/) speaking engagement."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) tried [to](/en/post/to/) [break](/en/post/break/) [the](/en/post/the/) [uncomfortable](/en/post/uncomfortable/) tension [between](/en/post/between/) [them](/en/post/them/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [dress](/post/dress/) was [too](/post/too/) [tight](/post/tight/), making [her](/post/her/) [feel](/post/feel/) [quite](/post/quite/) [uncomfortable](/post/uncomfortable/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) felt [uncomfortable](/post/uncomfortable/) [during](/post/during/) [the](/post/the/) [public](/post/public/) speaking engagement."
+- **[Noun](/post/noun/)**: "[She](/post/she/) tried [to](/post/to/) [break](/post/break/) [the](/post/the/) [uncomfortable](/post/uncomfortable/) tension [between](/post/between/) [them](/post/them/)."
 
 ## Synonyms
 - Unsettling
 - Unsettled
-- [Awkward](/en/post/awkward/)
+- [Awkward](/post/awkward/)
 - Discomfited
-- [Uneasy](/en/post/uneasy/)
+- [Uneasy](/post/uneasy/)
 
 ## Antonyms
-- [Comfortable](/en/post/comfortable/)
-- [At](/en/post/at/) [ease](/en/post/ease/)
+- [Comfortable](/post/comfortable/)
+- [At](/post/at/) [ease](/post/ease/)
 - Relaxed
-- [Content](/en/post/content/)
-- [Pleasant](/en/post/pleasant/)
+- [Content](/post/content/)
+- [Pleasant](/post/pleasant/)

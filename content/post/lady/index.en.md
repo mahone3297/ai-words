@@ -7,32 +7,32 @@ description = '[ˈleidi] n.女士，夫人；贵妇人'
 keywords = ['ai words', 'lady']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈleɪdi/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) An [adult](/en/post/adult/) [woman](/en/post/woman/) [who](/en/post/who/) is [polite](/en/post/polite/), well-mannered, [and](/en/post/and/) [usually](/en/post/usually/) [of](/en/post/of/) [high](/en/post/high/) [social](/en/post/social/) standing [or](/en/post/or/) refinement. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lady](/en/post/lady/) [in](/en/post/in/) [the](/en/post/the/) [red](/en/post/red/) [dress](/en/post/dress/) was [the](/en/post/the/) [guest](/en/post/guest/) [of](/en/post/of/) honor [at](/en/post/at/) [the](/en/post/the/) [event](/en/post/event/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) respectfully [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [any](/en/post/any/) [woman](/en/post/woman/): "[Could](/en/post/could/) [the](/en/post/the/) [lady](/en/post/lady/) [please](/en/post/please/) [step](/en/post/step/) [forward](/en/post/forward/)?"
-  - [In](/en/post/in/) [some](/en/post/some/) contexts, [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) formally [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) [job](/en/post/job/) [title](/en/post/title/): "[Lady](/en/post/lady/) Smith is [a](/en/post/a/) renowned archaeologist."
-- **[Pronoun](/en/post/pronoun/)**: (pron) [Sometimes](/en/post/sometimes/) informally [used](/en/post/used/) [to](/en/post/to/) [replace](/en/post/replace/) '[she](/en/post/she/)' [in](/en/post/in/) [certain](/en/post/certain/) expressions: "[The](/en/post/the/) [lady](/en/post/lady/) said she'd [be](/en/post/be/) [back](/en/post/back/) [soon](/en/post/soon/)."
+- **[Noun](/post/noun/)**: (n) An [adult](/post/adult/) [woman](/post/woman/) [who](/post/who/) is [polite](/post/polite/), well-mannered, [and](/post/and/) [usually](/post/usually/) [of](/post/of/) [high](/post/high/) [social](/post/social/) standing [or](/post/or/) refinement. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lady](/post/lady/) [in](/post/in/) [the](/post/the/) [red](/post/red/) [dress](/post/dress/) was [the](/post/the/) [guest](/post/guest/) [of](/post/of/) honor [at](/post/at/) [the](/post/the/) [event](/post/event/)."
+  - [Also](/post/also/) [used](/post/used/) respectfully [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [any](/post/any/) [woman](/post/woman/): "[Could](/post/could/) [the](/post/the/) [lady](/post/lady/) [please](/post/please/) [step](/post/step/) [forward](/post/forward/)?"
+  - [In](/post/in/) [some](/post/some/) contexts, [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) formally [or](/post/or/) [in](/post/in/) [a](/post/a/) [job](/post/job/) [title](/post/title/): "[Lady](/post/lady/) Smith is [a](/post/a/) renowned archaeologist."
+- **[Pronoun](/post/pronoun/)**: (pron) [Sometimes](/post/sometimes/) informally [used](/post/used/) [to](/post/to/) [replace](/post/replace/) '[she](/post/she/)' [in](/post/in/) [certain](/post/certain/) expressions: "[The](/post/the/) [lady](/post/lady/) said she'd [be](/post/be/) [back](/post/back/) [soon](/post/soon/)."
 
 ## Phrases
-- "Ladies [and](/en/post/and/) gentlemen" is [a](/en/post/a/) [formal](/en/post/formal/) [way](/en/post/way/) [to](/en/post/to/) [address](/en/post/address/) [a](/en/post/a/) mixed-gender [audience](/en/post/audience/).
-- "[A](/en/post/a/) [lady](/en/post/lady/) [of](/en/post/of/) [distinction](/en/post/distinction/)" refers [to](/en/post/to/) [a](/en/post/a/) [woman](/en/post/woman/) [with](/en/post/with/) refined manners [and](/en/post/and/) [a](/en/post/a/) [high](/en/post/high/) [social](/en/post/social/) [status](/en/post/status/).
-- "[Lady](/en/post/lady/) [luck](/en/post/luck/)" is [a](/en/post/a/) personification referring [to](/en/post/to/) [good](/en/post/good/) [fortune](/en/post/fortune/) [or](/en/post/or/) [chance](/en/post/chance/).
+- "Ladies [and](/post/and/) gentlemen" is [a](/post/a/) [formal](/post/formal/) [way](/post/way/) [to](/post/to/) [address](/post/address/) [a](/post/a/) mixed-gender [audience](/post/audience/).
+- "[A](/post/a/) [lady](/post/lady/) [of](/post/of/) [distinction](/post/distinction/)" refers [to](/post/to/) [a](/post/a/) [woman](/post/woman/) [with](/post/with/) refined manners [and](/post/and/) [a](/post/a/) [high](/post/high/) [social](/post/social/) [status](/post/status/).
+- "[Lady](/post/lady/) [luck](/post/luck/)" is [a](/post/a/) personification referring [to](/post/to/) [good](/post/good/) [fortune](/post/fortune/) [or](/post/or/) [chance](/post/chance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) opened [the](/en/post/the/) [door](/en/post/door/) [for](/en/post/for/) [the](/en/post/the/) [lady](/en/post/lady/), showcasing [his](/en/post/his/) chivalry."
-- "[In](/en/post/in/) medieval times, [a](/en/post/a/) lady-in-waiting was [a](/en/post/a/) noblewoman [who](/en/post/who/) attended [to](/en/post/to/) [a](/en/post/a/) [queen](/en/post/queen/) [or](/en/post/or/) [princess](/en/post/princess/)."
-- **[Pronoun](/en/post/pronoun/)**: "[When](/en/post/when/) [the](/en/post/the/) [lady](/en/post/lady/) called, [she](/en/post/she/) [left](/en/post/left/) [a](/en/post/a/) [message](/en/post/message/) [about](/en/post/about/) tomorrow's [meeting](/en/post/meeting/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) opened [the](/post/the/) [door](/post/door/) [for](/post/for/) [the](/post/the/) [lady](/post/lady/), showcasing [his](/post/his/) chivalry."
+- "[In](/post/in/) medieval times, [a](/post/a/) lady-in-waiting was [a](/post/a/) noblewoman [who](/post/who/) attended [to](/post/to/) [a](/post/a/) [queen](/post/queen/) [or](/post/or/) [princess](/post/princess/)."
+- **[Pronoun](/post/pronoun/)**: "[When](/post/when/) [the](/post/the/) [lady](/post/lady/) called, [she](/post/she/) [left](/post/left/) [a](/post/a/) [message](/post/message/) [about](/post/about/) tomorrow's [meeting](/post/meeting/)."
 
 ## Synonyms
-- [Woman](/en/post/woman/)
-- [Female](/en/post/female/)
+- [Woman](/post/woman/)
+- [Female](/post/female/)
 - Dame
-- [Madam](/en/post/madam/)
+- [Madam](/post/madam/)
 - Gentlewoman
-- Ladyship ([in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) [or](/en/post/or/) [respectful](/en/post/respectful/) context)
-- Feminine counterpart [to](/en/post/to/) [gentleman](/en/post/gentleman/)
+- Ladyship ([in](/post/in/) [a](/post/a/) [formal](/post/formal/) [or](/post/or/) [respectful](/post/respectful/) context)
+- Feminine counterpart [to](/post/to/) [gentleman](/post/gentleman/)
 
-[Note](/en/post/note/): [While](/en/post/while/) '[lady](/en/post/lady/)' [can](/en/post/can/) [have](/en/post/have/) connotations [of](/en/post/of/) [respect](/en/post/respect/) [and](/en/post/and/) politeness, [its](/en/post/its/) [use](/en/post/use/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) seen [as](/en/post/as/) outdated [or](/en/post/or/) potentially condescending [when](/en/post/when/) applied [generally](/en/post/generally/) [to](/en/post/to/) women, depending [on](/en/post/on/) [the](/en/post/the/) context [and](/en/post/and/) cultural norms. [In](/en/post/in/) [contemporary](/en/post/contemporary/) [language](/en/post/language/), it's [often](/en/post/often/) replaced [by](/en/post/by/) [less](/en/post/less/) hierarchical terms [like](/en/post/like/) '[woman](/en/post/woman/)' [or](/en/post/or/) '[person](/en/post/person/).'
+[Note](/post/note/): [While](/post/while/) '[lady](/post/lady/)' [can](/post/can/) [have](/post/have/) connotations [of](/post/of/) [respect](/post/respect/) [and](/post/and/) politeness, [its](/post/its/) [use](/post/use/) [can](/post/can/) [also](/post/also/) [be](/post/be/) seen [as](/post/as/) outdated [or](/post/or/) potentially condescending [when](/post/when/) applied [generally](/post/generally/) [to](/post/to/) women, depending [on](/post/on/) [the](/post/the/) context [and](/post/and/) cultural norms. [In](/post/in/) [contemporary](/post/contemporary/) [language](/post/language/), it's [often](/post/often/) replaced [by](/post/by/) [less](/post/less/) hierarchical terms [like](/post/like/) '[woman](/post/woman/)' [or](/post/or/) '[person](/post/person/).'

@@ -7,33 +7,33 @@ description = '[ˈfiltə] vt.过滤 n.滤纸'
 keywords = ['ai words', 'filter']
 +++
 
-## [Word](/en/post/word/): [Filter](/en/post/filter/)
+## [Word](/post/word/): [Filter](/post/filter/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɪltər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [system](/en/post/system/) [that](/en/post/that/) separates impurities [or](/en/post/or/) unwanted substances [from](/en/post/from/) [a](/en/post/a/) [fluid](/en/post/fluid/) [or](/en/post/or/) [gas](/en/post/gas/) passing [through](/en/post/through/) [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [coffee](/en/post/coffee/) maker uses [a](/en/post/a/) [paper](/en/post/paper/) [filter](/en/post/filter/) [to](/en/post/to/) [remove](/en/post/remove/) grounds [from](/en/post/from/) [the](/en/post/the/) brew."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [pass](/en/post/pass/) [a](/en/post/a/) [substance](/en/post/substance/) [through](/en/post/through/) [a](/en/post/a/) [filter](/en/post/filter/) [to](/en/post/to/) [remove](/en/post/remove/) impurities [or](/en/post/or/) unwanted elements. [For](/en/post/for/) [instance](/en/post/instance/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [filter](/en/post/filter/) [the](/en/post/the/) [water](/en/post/water/) [before](/en/post/before/) drinking [it](/en/post/it/)."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [process](/en/post/process/) [information](/en/post/information/) [or](/en/post/or/) [data](/en/post/data/), [often](/en/post/often/) [to](/en/post/to/) [select](/en/post/select/) desired items [or](/en/post/or/) [exclude](/en/post/exclude/) unwanted ones. [Example](/en/post/example/): "[The](/en/post/the/) software filters [out](/en/post/out/) spam emails automatically."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [limit](/en/post/limit/) [or](/en/post/or/) [control](/en/post/control/) [the](/en/post/the/) [passage](/en/post/passage/) [of](/en/post/of/) [something](/en/post/something/) based [on](/en/post/on/) [certain](/en/post/certain/) criteria. [Example](/en/post/example/): "[Social](/en/post/social/) media platforms [allow](/en/post/allow/) users [to](/en/post/to/) [filter](/en/post/filter/) [their](/en/post/their/) [feed](/en/post/feed/) [by](/en/post/by/) keywords [or](/en/post/or/) interests."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [device](/post/device/) [or](/post/or/) [system](/post/system/) [that](/post/that/) separates impurities [or](/post/or/) unwanted substances [from](/post/from/) [a](/post/a/) [fluid](/post/fluid/) [or](/post/or/) [gas](/post/gas/) passing [through](/post/through/) [it](/post/it/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [coffee](/post/coffee/) maker uses [a](/post/a/) [paper](/post/paper/) [filter](/post/filter/) [to](/post/to/) [remove](/post/remove/) grounds [from](/post/from/) [the](/post/the/) brew."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [pass](/post/pass/) [a](/post/a/) [substance](/post/substance/) [through](/post/through/) [a](/post/a/) [filter](/post/filter/) [to](/post/to/) [remove](/post/remove/) impurities [or](/post/or/) unwanted elements. [For](/post/for/) [instance](/post/instance/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [filter](/post/filter/) [the](/post/the/) [water](/post/water/) [before](/post/before/) drinking [it](/post/it/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [process](/post/process/) [information](/post/information/) [or](/post/or/) [data](/post/data/), [often](/post/often/) [to](/post/to/) [select](/post/select/) desired items [or](/post/or/) [exclude](/post/exclude/) unwanted ones. [Example](/post/example/): "[The](/post/the/) software filters [out](/post/out/) spam emails automatically."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [limit](/post/limit/) [or](/post/or/) [control](/post/control/) [the](/post/the/) [passage](/post/passage/) [of](/post/of/) [something](/post/something/) based [on](/post/on/) [certain](/post/certain/) criteria. [Example](/post/example/): "[Social](/post/social/) media platforms [allow](/post/allow/) users [to](/post/to/) [filter](/post/filter/) [their](/post/their/) [feed](/post/feed/) [by](/post/by/) keywords [or](/post/or/) interests."
 
 ## Phrases
-- "[Air](/en/post/air/) [filter](/en/post/filter/)": [A](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) removes [dust](/en/post/dust/) [and](/en/post/and/) [other](/en/post/other/) particles [from](/en/post/from/) [the](/en/post/the/) [air](/en/post/air/).
-- "[Filter](/en/post/filter/) [out](/en/post/out/)": [To](/en/post/to/) [eliminate](/en/post/eliminate/) [or](/en/post/or/) [separate](/en/post/separate/) [something](/en/post/something/) [from](/en/post/from/) [a](/en/post/a/) larger [group](/en/post/group/) [or](/en/post/or/) [collection](/en/post/collection/). E.g., "[Filter](/en/post/filter/) [out](/en/post/out/) [the](/en/post/the/) irrelevant [data](/en/post/data/)."
-- "[Filter](/en/post/filter/) [through](/en/post/through/)": [To](/en/post/to/) [gradually](/en/post/gradually/) [become](/en/post/become/) known [or](/en/post/or/) [reach](/en/post/reach/) [a](/en/post/a/) [particular](/en/post/particular/) [point](/en/post/point/) [after](/en/post/after/) [being](/en/post/being/) processed [or](/en/post/or/) sifted. E.g., "[The](/en/post/the/) [news](/en/post/news/) filtered [through](/en/post/through/) [slowly](/en/post/slowly/)."
+- "[Air](/post/air/) [filter](/post/filter/)": [A](/post/a/) [device](/post/device/) [that](/post/that/) removes [dust](/post/dust/) [and](/post/and/) [other](/post/other/) particles [from](/post/from/) [the](/post/the/) [air](/post/air/).
+- "[Filter](/post/filter/) [out](/post/out/)": [To](/post/to/) [eliminate](/post/eliminate/) [or](/post/or/) [separate](/post/separate/) [something](/post/something/) [from](/post/from/) [a](/post/a/) larger [group](/post/group/) [or](/post/or/) [collection](/post/collection/). E.g., "[Filter](/post/filter/) [out](/post/out/) [the](/post/the/) irrelevant [data](/post/data/)."
+- "[Filter](/post/filter/) [through](/post/through/)": [To](/post/to/) [gradually](/post/gradually/) [become](/post/become/) known [or](/post/or/) [reach](/post/reach/) [a](/post/a/) [particular](/post/particular/) [point](/post/point/) [after](/post/after/) [being](/post/being/) processed [or](/post/or/) sifted. E.g., "[The](/post/the/) [news](/post/news/) filtered [through](/post/through/) [slowly](/post/slowly/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) swimming [pool](/en/post/pool/) has [a](/en/post/a/) [sophisticated](/en/post/sophisticated/) filtration [system](/en/post/system/) [to](/en/post/to/) [keep](/en/post/keep/) [the](/en/post/the/) [water](/en/post/water/) [clean](/en/post/clean/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) chef filters [the](/en/post/the/) [oil](/en/post/oil/) [several](/en/post/several/) times [to](/en/post/to/) [ensure](/en/post/ensure/) [its](/en/post/its/) [purity](/en/post/purity/)."
-- **[Verb](/en/post/verb/) ([data](/en/post/data/) processing)**: "[The](/en/post/the/) app allows users [to](/en/post/to/) [filter](/en/post/filter/) [search](/en/post/search/) results [by](/en/post/by/) [price](/en/post/price/) [and](/en/post/and/) [location](/en/post/location/)."
-- **[Verb](/en/post/verb/) ([limitation](/en/post/limitation/))**: "[The](/en/post/the/) website lets [you](/en/post/you/) [filter](/en/post/filter/) [job](/en/post/job/) listings [by](/en/post/by/) [salary](/en/post/salary/) [range](/en/post/range/) [and](/en/post/and/) [experience](/en/post/experience/) [level](/en/post/level/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) swimming [pool](/post/pool/) has [a](/post/a/) [sophisticated](/post/sophisticated/) filtration [system](/post/system/) [to](/post/to/) [keep](/post/keep/) [the](/post/the/) [water](/post/water/) [clean](/post/clean/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) chef filters [the](/post/the/) [oil](/post/oil/) [several](/post/several/) times [to](/post/to/) [ensure](/post/ensure/) [its](/post/its/) [purity](/post/purity/)."
+- **[Verb](/post/verb/) ([data](/post/data/) processing)**: "[The](/post/the/) app allows users [to](/post/to/) [filter](/post/filter/) [search](/post/search/) results [by](/post/by/) [price](/post/price/) [and](/post/and/) [location](/post/location/)."
+- **[Verb](/post/verb/) ([limitation](/post/limitation/))**: "[The](/post/the/) website lets [you](/post/you/) [filter](/post/filter/) [job](/post/job/) listings [by](/post/by/) [salary](/post/salary/) [range](/post/range/) [and](/post/and/) [experience](/post/experience/) [level](/post/level/)."
 
 ## Synonyms
 - Purifier
 - Sieve
 - Strainer
-- [Screen](/en/post/screen/)
-- Refiner ([for](/en/post/for/) [noun](/en/post/noun/) [meaning](/en/post/meaning/))
-- [Remove](/en/post/remove/), sift, [strain](/en/post/strain/), [screen](/en/post/screen/) ([for](/en/post/for/) [verb](/en/post/verb/) meanings related [to](/en/post/to/) separating substances)
-- Cull, [sort](/en/post/sort/), [refine](/en/post/refine/), [select](/en/post/select/) ([for](/en/post/for/) [verb](/en/post/verb/) meanings related [to](/en/post/to/) processing [information](/en/post/information/) [or](/en/post/or/) [data](/en/post/data/))
+- [Screen](/post/screen/)
+- Refiner ([for](/post/for/) [noun](/post/noun/) [meaning](/post/meaning/))
+- [Remove](/post/remove/), sift, [strain](/post/strain/), [screen](/post/screen/) ([for](/post/for/) [verb](/post/verb/) meanings related [to](/post/to/) separating substances)
+- Cull, [sort](/post/sort/), [refine](/post/refine/), [select](/post/select/) ([for](/post/for/) [verb](/post/verb/) meanings related [to](/post/to/) processing [information](/post/information/) [or](/post/or/) [data](/post/data/))

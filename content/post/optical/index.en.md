@@ -7,31 +7,31 @@ description = '[ˈɔptikəl] a.眼的；光学的'
 keywords = ['ai words', 'optical']
 +++
 
-## [Word](/en/post/word/): [Optical](/en/post/optical/)
+## [Word](/post/word/): [Optical](/post/optical/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɑːptɪkl/
 
 ## Definitions
-### [Noun](/en/post/noun/) ([optical](/en/post/optical/))
-- Relating [to](/en/post/to/) [sight](/en/post/sight/) [or](/en/post/or/) [vision](/en/post/vision/); pertaining [to](/en/post/to/) [the](/en/post/the/) eyes [or](/en/post/or/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [sight](/en/post/sight/). [Example](/en/post/example/): "[The](/en/post/the/) [patient](/en/post/patient/) required [optical](/en/post/optical/) assistance [due](/en/post/due/) [to](/en/post/to/) [his](/en/post/his/) deteriorating [eyesight](/en/post/eyesight/)."
-- Referring [to](/en/post/to/) devices [or](/en/post/or/) instruments designed [to](/en/post/to/) [aid](/en/post/aid/) [or](/en/post/or/) [improve](/en/post/improve/) [vision](/en/post/vision/), [such](/en/post/such/) [as](/en/post/as/) glasses, lenses, [or](/en/post/or/) telescopes. [Example](/en/post/example/): "[She](/en/post/she/) purchased [new](/en/post/new/) [optical](/en/post/optical/) [equipment](/en/post/equipment/) [for](/en/post/for/) [her](/en/post/her/) astronomical observations."
+### [Noun](/post/noun/) ([optical](/post/optical/))
+- Relating [to](/post/to/) [sight](/post/sight/) [or](/post/or/) [vision](/post/vision/); pertaining [to](/post/to/) [the](/post/the/) eyes [or](/post/or/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [sight](/post/sight/). [Example](/post/example/): "[The](/post/the/) [patient](/post/patient/) required [optical](/post/optical/) assistance [due](/post/due/) [to](/post/to/) [his](/post/his/) deteriorating [eyesight](/post/eyesight/)."
+- Referring [to](/post/to/) devices [or](/post/or/) instruments designed [to](/post/to/) [aid](/post/aid/) [or](/post/or/) [improve](/post/improve/) [vision](/post/vision/), [such](/post/such/) [as](/post/as/) glasses, lenses, [or](/post/or/) telescopes. [Example](/post/example/): "[She](/post/she/) purchased [new](/post/new/) [optical](/post/optical/) [equipment](/post/equipment/) [for](/post/for/) [her](/post/her/) astronomical observations."
 
-### [Adjective](/en/post/adjective/) ([optical](/en/post/optical/))
-- [Concerning](/en/post/concerning/) [light](/en/post/light/) [or](/en/post/or/) [the](/en/post/the/) properties [of](/en/post/of/) [light](/en/post/light/), [especially](/en/post/especially/) [its](/en/post/its/) [behavior](/en/post/behavior/) [and](/en/post/and/) interactions [with](/en/post/with/) [matter](/en/post/matter/). [Example](/en/post/example/): "[Optical](/en/post/optical/) fibers [transmit](/en/post/transmit/) [data](/en/post/data/) [by](/en/post/by/) using pulses [of](/en/post/of/) [light](/en/post/light/)."
-- [Of](/en/post/of/) [or](/en/post/or/) relating [to](/en/post/to/) optics, [the](/en/post/the/) [branch](/en/post/branch/) [of](/en/post/of/) [physics](/en/post/physics/) [that](/en/post/that/) deals [with](/en/post/with/) [the](/en/post/the/) properties [and](/en/post/and/) [behavior](/en/post/behavior/) [of](/en/post/of/) [light](/en/post/light/). [Example](/en/post/example/): "[His](/en/post/his/) [research](/en/post/research/) focuses [on](/en/post/on/) [the](/en/post/the/) [optical](/en/post/optical/) properties [of](/en/post/of/) [different](/en/post/different/) materials."
+### [Adjective](/post/adjective/) ([optical](/post/optical/))
+- [Concerning](/post/concerning/) [light](/post/light/) [or](/post/or/) [the](/post/the/) properties [of](/post/of/) [light](/post/light/), [especially](/post/especially/) [its](/post/its/) [behavior](/post/behavior/) [and](/post/and/) interactions [with](/post/with/) [matter](/post/matter/). [Example](/post/example/): "[Optical](/post/optical/) fibers [transmit](/post/transmit/) [data](/post/data/) [by](/post/by/) using pulses [of](/post/of/) [light](/post/light/)."
+- [Of](/post/of/) [or](/post/or/) relating [to](/post/to/) optics, [the](/post/the/) [branch](/post/branch/) [of](/post/of/) [physics](/post/physics/) [that](/post/that/) deals [with](/post/with/) [the](/post/the/) properties [and](/post/and/) [behavior](/post/behavior/) [of](/post/of/) [light](/post/light/). [Example](/post/example/): "[His](/post/his/) [research](/post/research/) focuses [on](/post/on/) [the](/post/the/) [optical](/post/optical/) properties [of](/post/of/) [different](/post/different/) materials."
 
 ## Phrases
-- "[Optical](/en/post/optical/) illusion": [A](/en/post/a/) visually perceived [image](/en/post/image/) [that](/en/post/that/) differs [from](/en/post/from/) [reality](/en/post/reality/), [often](/en/post/often/) caused [by](/en/post/by/) [the](/en/post/the/) [visual](/en/post/visual/) system's misinterpretation [of](/en/post/of/) [what](/en/post/what/) [it](/en/post/it/) receives.
-- "[Optical](/en/post/optical/) [device](/en/post/device/)": [A](/en/post/a/) [tool](/en/post/tool/) [or](/en/post/or/) [instrument](/en/post/instrument/) [that](/en/post/that/) works [with](/en/post/with/) [or](/en/post/or/) manipulates [light](/en/post/light/), [such](/en/post/such/) [as](/en/post/as/) microscopes, cameras, [or](/en/post/or/) binoculars.
+- "[Optical](/post/optical/) illusion": [A](/post/a/) visually perceived [image](/post/image/) [that](/post/that/) differs [from](/post/from/) [reality](/post/reality/), [often](/post/often/) caused [by](/post/by/) [the](/post/the/) [visual](/post/visual/) system's misinterpretation [of](/post/of/) [what](/post/what/) [it](/post/it/) receives.
+- "[Optical](/post/optical/) [device](/post/device/)": [A](/post/a/) [tool](/post/tool/) [or](/post/or/) [instrument](/post/instrument/) [that](/post/that/) works [with](/post/with/) [or](/post/or/) manipulates [light](/post/light/), [such](/post/such/) [as](/post/as/) microscopes, cameras, [or](/post/or/) binoculars.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [store](/en/post/store/) specializes [in](/en/post/in/) selling [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) [optical](/en/post/optical/) frames [for](/en/post/for/) prescription glasses."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [advanced](/en/post/advanced/) [camera](/en/post/camera/) has [superior](/en/post/superior/) [optical](/en/post/optical/) zoom capabilities."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [store](/post/store/) specializes [in](/post/in/) selling [a](/post/a/) [variety](/post/variety/) [of](/post/of/) [optical](/post/optical/) frames [for](/post/for/) prescription glasses."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [advanced](/post/advanced/) [camera](/post/camera/) has [superior](/post/superior/) [optical](/post/optical/) zoom capabilities."
 
 ## Synonyms
 - Visional
-- [Visual](/en/post/visual/)
+- [Visual](/post/visual/)
 - Ocular
 - Optic
-- Luminous ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) light-related properties)
+- Luminous ([in](/post/in/) [the](/post/the/) context [of](/post/of/) light-related properties)

@@ -12,20 +12,20 @@ keywords = ['ai words', 'ending']
 
 ## 释义
 - **名词**:
-1. 结束；终止。例如: "[The](/post/the/) [movie](/post/movie/) had [a](/post/a/) satisfying [ending](/post/ending/)."
-2. (动词的)后缀；词尾。例如: "[Many](/post/many/) English verbs [have](/post/have/) [irregular](/post/irregular/) [verb](/post/verb/) endings."
+1. 结束；终止。例如: "[The](/zh/post/the/) [movie](/zh/post/movie/) had [a](/zh/post/a/) satisfying [ending](/zh/post/ending/)."
+2. (动词的)后缀；词尾。例如: "[Many](/zh/post/many/) English verbs [have](/zh/post/have/) [irregular](/zh/post/irregular/) [verb](/zh/post/verb/) endings."
 
 ## 短语
-- "[Without](/post/without/) an [ending](/post/ending/), [there](/post/there/) is [no](/post/no/) [beginning](/post/beginning/)" 意味着没有结束就没有新的开始。
-- "[The](/post/the/) [book](/post/book/) had [a](/post/a/) [happy](/post/happy/)/[sad](/post/sad/)/[unexpected](/post/unexpected/) [ending](/post/ending/)" 描述书的结局。
+- "[Without](/zh/post/without/) an [ending](/zh/post/ending/), [there](/zh/post/there/) is [no](/zh/post/no/) [beginning](/zh/post/beginning/)" 意味着没有结束就没有新的开始。
+- "[The](/zh/post/the/) [book](/zh/post/book/) had [a](/zh/post/a/) [happy](/zh/post/happy/)/[sad](/zh/post/sad/)/[unexpected](/zh/post/unexpected/) [ending](/zh/post/ending/)" 描述书的结局。
 
 ## 例句
-- 名词: "[The](/post/the/) play's [dramatic](/post/dramatic/) [ending](/post/ending/) [left](/post/left/) [the](/post/the/) [audience](/post/audience/) [in](/post/in/) awe."
-- 词尾: "[In](/post/in/) English, [plural](/post/plural/) nouns [often](/post/often/) [end](/post/end/) [with](/post/with/) an -s."
+- 名词: "[The](/zh/post/the/) play's [dramatic](/zh/post/dramatic/) [ending](/zh/post/ending/) [left](/zh/post/left/) [the](/zh/post/the/) [audience](/zh/post/audience/) [in](/zh/post/in/) awe."
+- 词尾: "[In](/zh/post/in/) English, [plural](/zh/post/plural/) nouns [often](/zh/post/often/) [end](/zh/post/end/) [with](/zh/post/with/) an -s."
 
 ## 同义词
-- [Conclusion](/post/conclusion/)
+- [Conclusion](/zh/post/conclusion/)
 - Termination
 - Finale
-- [Close](/post/close/)
+- [Close](/zh/post/close/)
 - Closing

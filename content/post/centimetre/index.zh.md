@@ -11,17 +11,17 @@ keywords = ['ai words', 'centimetre']
 /ˈsɛntɪmiːtər/
 
 ## 释义
-- **名词** (n): 国际单位制中的长度单位，1厘米等于0.01米。例如: "[The](/post/the/) [ruler](/post/ruler/) is marked [in](/post/in/) centimetres [and](/post/and/) millimetres."
+- **名词** (n): 国际单位制中的长度单位，1厘米等于0.01米。例如: "[The](/zh/post/the/) [ruler](/zh/post/ruler/) is marked [in](/zh/post/in/) centimetres [and](/zh/post/and/) millimetres."
 
 ## 短语
-- "[centimetre](/post/centimetre/) [by](/post/by/) [centimetre](/post/centimetre/)" 逐步地，一点一点地。例如: "[The](/post/the/) [plant](/post/plant/) grew [centimetre](/post/centimetre/) [by](/post/by/) [centimetre](/post/centimetre/) [over](/post/over/) [the](/post/the/) [summer](/post/summer/)."
-- "[in](/post/in/) centimetres" 以厘米为单位。例如: "[My](/post/my/) [height](/post/height/) is measured [in](/post/in/) centimetres."
+- "[centimetre](/zh/post/centimetre/) [by](/zh/post/by/) [centimetre](/zh/post/centimetre/)" 逐步地，一点一点地。例如: "[The](/zh/post/the/) [plant](/zh/post/plant/) grew [centimetre](/zh/post/centimetre/) [by](/zh/post/by/) [centimetre](/zh/post/centimetre/) [over](/zh/post/over/) [the](/zh/post/the/) [summer](/zh/post/summer/)."
+- "[in](/zh/post/in/) centimetres" 以厘米为单位。例如: "[My](/zh/post/my/) [height](/zh/post/height/) is measured [in](/zh/post/in/) centimetres."
 
 ## 例句
-- "[The](/post/the/) [distance](/post/distance/) [between](/post/between/) [the](/post/the/) [two](/post/two/) points is [approximately](/post/approximately/) 5 centimetres."
-- "[The](/post/the/) baby's [weight](/post/weight/) [gain](/post/gain/) was recorded [weekly](/post/weekly/) [in](/post/in/) centimetres."
+- "[The](/zh/post/the/) [distance](/zh/post/distance/) [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) points is [approximately](/zh/post/approximately/) 5 centimetres."
+- "[The](/zh/post/the/) baby's [weight](/zh/post/weight/) [gain](/zh/post/gain/) was recorded [weekly](/zh/post/weekly/) [in](/zh/post/in/) centimetres."
 
 ## 同义词
-- [millimetre](/post/millimetre/) (mm)
+- [millimetre](/zh/post/millimetre/) (mm)
 - decimetre (dm)
-- [metre](/post/metre/) (m)
+- [metre](/zh/post/metre/) (m)

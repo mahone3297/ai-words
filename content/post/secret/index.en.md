@@ -7,32 +7,32 @@ description = '[ˈsiːkrit] a.秘密的；隐蔽的'
 keywords = ['ai words', 'secret']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈkrɛt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[secret](/en/post/secret/)** is:
-1. [Something](/en/post/something/) [that](/en/post/that/) is known [only](/en/post/only/) [to](/en/post/to/) [a](/en/post/a/) [few](/en/post/few/) [people](/en/post/people/) [and](/en/post/and/) [not](/en/post/not/) [generally](/en/post/generally/) shared: *She保守了一个秘密 [about](/en/post/about/) [her](/en/post/her/) [vacation](/en/post/vacation/) plans.*
-2. An [important](/en/post/important/) [or](/en/post/or/) confidential [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/): *[The](/en/post/the/) [government](/en/post/government/) has classified [some](/en/post/some/) [military](/en/post/military/) secrets.*
+### [Noun](/post/noun/)
+[A](/post/a/) **[secret](/post/secret/)** is:
+1. [Something](/post/something/) [that](/post/that/) is known [only](/post/only/) [to](/post/to/) [a](/post/a/) [few](/post/few/) [people](/post/people/) [and](/post/and/) [not](/post/not/) [generally](/post/generally/) shared: *She保守了一个秘密 [about](/post/about/) [her](/post/her/) [vacation](/post/vacation/) plans.*
+2. An [important](/post/important/) [or](/post/or/) confidential [piece](/post/piece/) [of](/post/of/) [information](/post/information/): *[The](/post/the/) [government](/post/government/) has classified [some](/post/some/) [military](/post/military/) secrets.*
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[keep](/en/post/keep/) [a](/en/post/a/) [secret](/en/post/secret/)** is [to](/en/post/to/) [maintain](/en/post/maintain/) confidentiality or不说出: *[He](/en/post/he/) promised [to](/en/post/to/) [keep](/en/post/keep/) [the](/en/post/the/) [secret](/en/post/secret/) [to](/en/post/to/) [himself](/en/post/himself/).*
-[To](/en/post/to/) **[reveal](/en/post/reveal/) [a](/en/post/a/) [secret](/en/post/secret/)** is [to](/en/post/to/) [disclose](/en/post/disclose/) [what](/en/post/what/) was [previously](/en/post/previously/) [unknown](/en/post/unknown/): *[She](/en/post/she/) [finally](/en/post/finally/) revealed [her](/en/post/her/) family's [secret](/en/post/secret/).*
+### [Verb](/post/verb/)
+[To](/post/to/) **[keep](/post/keep/) [a](/post/a/) [secret](/post/secret/)** is [to](/post/to/) [maintain](/post/maintain/) confidentiality or不说出: *[He](/post/he/) promised [to](/post/to/) [keep](/post/keep/) [the](/post/the/) [secret](/post/secret/) [to](/post/to/) [himself](/post/himself/).*
+[To](/post/to/) **[reveal](/post/reveal/) [a](/post/a/) [secret](/post/secret/)** is [to](/post/to/) [disclose](/post/disclose/) [what](/post/what/) was [previously](/post/previously/) [unknown](/post/unknown/): *[She](/post/she/) [finally](/post/finally/) revealed [her](/post/her/) family's [secret](/post/secret/).*
 
-### [Adjective](/en/post/adjective/)
-- Secretive (adj): Tending [to](/en/post/to/) [keep](/en/post/keep/) things hidden [or](/en/post/or/) [private](/en/post/private/): *[He](/en/post/he/) was [a](/en/post/a/) [very](/en/post/very/) secretive [person](/en/post/person/).*
-- Confidential (adj): Intended [for](/en/post/for/) [private](/en/post/private/) [communication](/en/post/communication/) [and](/en/post/and/) [not](/en/post/not/) [to](/en/post/to/) [be](/en/post/be/) shared: *[Please](/en/post/please/) [handle](/en/post/handle/) [this](/en/post/this/) [matter](/en/post/matter/) [with](/en/post/with/) [utmost](/en/post/utmost/) confidentiality.*
+### [Adjective](/post/adjective/)
+- Secretive (adj): Tending [to](/post/to/) [keep](/post/keep/) things hidden [or](/post/or/) [private](/post/private/): *[He](/post/he/) was [a](/post/a/) [very](/post/very/) secretive [person](/post/person/).*
+- Confidential (adj): Intended [for](/post/for/) [private](/post/private/) [communication](/post/communication/) [and](/post/and/) [not](/post/not/) [to](/post/to/) [be](/post/be/) shared: *[Please](/post/please/) [handle](/post/handle/) [this](/post/this/) [matter](/post/matter/) [with](/post/with/) [utmost](/post/utmost/) confidentiality.*
 
 ## Phrases
-- "[Keep](/en/post/keep/) [a](/en/post/a/) [secret](/en/post/secret/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) discretion [or](/en/post/or/) [not](/en/post/not/) [disclose](/en/post/disclose/) [information](/en/post/information/).
-- "Letting [the](/en/post/the/) [cat](/en/post/cat/) [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [bag](/en/post/bag/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [for](/en/post/for/) revealing [a](/en/post/a/) [secret](/en/post/secret/).
-- "[Break](/en/post/break/) [a](/en/post/a/) [confidence](/en/post/confidence/)" is [when](/en/post/when/) [someone](/en/post/someone/) shares [a](/en/post/a/) [secret](/en/post/secret/) [they](/en/post/they/) were entrusted [with](/en/post/with/).
+- "[Keep](/post/keep/) [a](/post/a/) [secret](/post/secret/)" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) discretion [or](/post/or/) [not](/post/not/) [disclose](/post/disclose/) [information](/post/information/).
+- "Letting [the](/post/the/) [cat](/post/cat/) [out](/post/out/) [of](/post/of/) [the](/post/the/) [bag](/post/bag/)" is [a](/post/a/) colloquial [expression](/post/expression/) [for](/post/for/) revealing [a](/post/a/) [secret](/post/secret/).
+- "[Break](/post/break/) [a](/post/a/) [confidence](/post/confidence/)" is [when](/post/when/) [someone](/post/someone/) shares [a](/post/a/) [secret](/post/secret/) [they](/post/they/) were entrusted [with](/post/with/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [She](/en/post/she/) was surprised [when](/en/post/when/) [he](/en/post/he/) told [her](/en/post/her/) [the](/en/post/the/) [whole](/en/post/whole/) [story](/en/post/story/), [as](/en/post/as/) [if](/en/post/if/) [he](/en/post/he/) had [let](/en/post/let/) [out](/en/post/out/) [a](/en/post/a/) long-held [secret](/en/post/secret/).
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) swore [to](/en/post/to/) [keep](/en/post/keep/) [the](/en/post/the/) recipe [for](/en/post/for/) [his](/en/post/his/) grandmother's [famous](/en/post/famous/) [cake](/en/post/cake/) [a](/en/post/a/) [secret](/en/post/secret/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [spy](/en/post/spy/) [agency](/en/post/agency/) maintained [a](/en/post/a/) [highly](/en/post/highly/) secretive [network](/en/post/network/) [of](/en/post/of/) agents.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [She](/post/she/) was surprised [when](/post/when/) [he](/post/he/) told [her](/post/her/) [the](/post/the/) [whole](/post/whole/) [story](/post/story/), [as](/post/as/) [if](/post/if/) [he](/post/he/) had [let](/post/let/) [out](/post/out/) [a](/post/a/) long-held [secret](/post/secret/).
+- **[Verb](/post/verb/)**: [He](/post/he/) swore [to](/post/to/) [keep](/post/keep/) [the](/post/the/) recipe [for](/post/for/) [his](/post/his/) grandmother's [famous](/post/famous/) [cake](/post/cake/) [a](/post/a/) [secret](/post/secret/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [spy](/post/spy/) [agency](/post/agency/) maintained [a](/post/a/) [highly](/post/highly/) secretive [network](/post/network/) [of](/post/of/) agents.
 
 ## Synonyms
 - Confidential

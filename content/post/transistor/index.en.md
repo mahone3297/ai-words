@@ -7,39 +7,39 @@ description = '[trænˈsistə] n.晶体管'
 keywords = ['ai words', 'transistor']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /transˈzɪstər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [small](/en/post/small/) [electronic](/en/post/electronic/) [component](/en/post/component/) [that](/en/post/that/) amplifies [or](/en/post/or/) switches [electronic](/en/post/electronic/) signals [and](/en/post/and/) is [widely](/en/post/widely/) [used](/en/post/used/) [in](/en/post/in/) [electronic](/en/post/electronic/) devices, [especially](/en/post/especially/) [in](/en/post/in/) computers [and](/en/post/and/) televisions.
-   - [Definition](/en/post/definition/): [A](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) [can](/en/post/can/) [amplify](/en/post/amplify/) [or](/en/post/or/) [switch](/en/post/switch/) [electrical](/en/post/electrical/) signals [with](/en/post/with/) minimal [power](/en/post/power/) [consumption](/en/post/consumption/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [heart](/en/post/heart/) [of](/en/post/of/) [a](/en/post/a/) computer's processor contains millions [of](/en/post/of/) transistors."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [small](/post/small/) [electronic](/post/electronic/) [component](/post/component/) [that](/post/that/) amplifies [or](/post/or/) switches [electronic](/post/electronic/) signals [and](/post/and/) is [widely](/post/widely/) [used](/post/used/) [in](/post/in/) [electronic](/post/electronic/) devices, [especially](/post/especially/) [in](/post/in/) computers [and](/post/and/) televisions.
+   - [Definition](/post/definition/): [A](/post/a/) [device](/post/device/) [that](/post/that/) [can](/post/can/) [amplify](/post/amplify/) [or](/post/or/) [switch](/post/switch/) [electrical](/post/electrical/) signals [with](/post/with/) minimal [power](/post/power/) [consumption](/post/consumption/).
+   - [Example](/post/example/): "[The](/post/the/) [heart](/post/heart/) [of](/post/of/) [a](/post/a/) computer's processor contains millions [of](/post/of/) transistors."
 
-2. [Obsolete] [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) serves [as](/en/post/as/) an [agent](/en/post/agent/) [or](/en/post/or/) intermediary [between](/en/post/between/) [two](/en/post/two/) parties.
-   - Obsolete [Definition](/en/post/definition/): [A](/en/post/a/) go-between [or](/en/post/or/) intermediary.
-   - [Example](/en/post/example/) (obsolete): "[He](/en/post/he/) acted [as](/en/post/as/) [a](/en/post/a/) [transistor](/en/post/transistor/) [between](/en/post/between/) [the](/en/post/the/) buyer [and](/en/post/and/) [seller](/en/post/seller/)."
+2. [Obsolete] [A](/post/a/) [person](/post/person/) [who](/post/who/) serves [as](/post/as/) an [agent](/post/agent/) [or](/post/or/) intermediary [between](/post/between/) [two](/post/two/) parties.
+   - Obsolete [Definition](/post/definition/): [A](/post/a/) go-between [or](/post/or/) intermediary.
+   - [Example](/post/example/) (obsolete): "[He](/post/he/) acted [as](/post/as/) [a](/post/a/) [transistor](/post/transistor/) [between](/post/between/) [the](/post/the/) buyer [and](/post/and/) [seller](/post/seller/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [control](/en/post/control/) [or](/en/post/or/) [regulate](/en/post/regulate/) [the](/en/post/the/) [flow](/en/post/flow/) [of](/en/post/of/) [electricity](/en/post/electricity/) [through](/en/post/through/) [a](/en/post/a/) [transistor](/en/post/transistor/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [circuit](/en/post/circuit/) was transistorized [to](/en/post/to/) [increase](/en/post/increase/) [efficiency](/en/post/efficiency/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [control](/post/control/) [or](/post/or/) [regulate](/post/regulate/) [the](/post/the/) [flow](/post/flow/) [of](/post/of/) [electricity](/post/electricity/) [through](/post/through/) [a](/post/a/) [transistor](/post/transistor/).
+   - [Example](/post/example/): "[The](/post/the/) [circuit](/post/circuit/) was transistorized [to](/post/to/) [increase](/post/increase/) [efficiency](/post/efficiency/)."
 
-- [To](/en/post/to/) [transfer](/en/post/transfer/) [or](/en/post/or/) [move](/en/post/move/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [or](/en/post/or/) [medium](/en/post/medium/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) metaphorically.
-   - [Example](/en/post/example/): "[New](/en/post/new/) technologies transistorized [information](/en/post/information/) sharing."
+- [To](/post/to/) [transfer](/post/transfer/) [or](/post/or/) [move](/post/move/) [from](/post/from/) [one](/post/one/) [place](/post/place/) [or](/post/or/) [medium](/post/medium/) [to](/post/to/) [another](/post/another/), [often](/post/often/) metaphorically.
+   - [Example](/post/example/): "[New](/post/new/) technologies transistorized [information](/post/information/) sharing."
 
 ## Phrases
-- "[Transistor](/en/post/transistor/) [technology](/en/post/technology/)" refers [to](/en/post/to/) [the](/en/post/the/) advancements [in](/en/post/in/) [this](/en/post/this/) [field](/en/post/field/).
-- "[A](/en/post/a/) transistor-based amplifier" describes [a](/en/post/a/) [device](/en/post/device/) using transistors [for](/en/post/for/) amplification.
-- "[The](/en/post/the/) [transistor](/en/post/transistor/) revolutionized [electronics](/en/post/electronics/)" highlights [its](/en/post/its/) [significant](/en/post/significant/) [impact](/en/post/impact/) [on](/en/post/on/) [the](/en/post/the/) [industry](/en/post/industry/).
+- "[Transistor](/post/transistor/) [technology](/post/technology/)" refers [to](/post/to/) [the](/post/the/) advancements [in](/post/in/) [this](/post/this/) [field](/post/field/).
+- "[A](/post/a/) transistor-based amplifier" describes [a](/post/a/) [device](/post/device/) using transistors [for](/post/for/) amplification.
+- "[The](/post/the/) [transistor](/post/transistor/) revolutionized [electronics](/post/electronics/)" highlights [its](/post/its/) [significant](/post/significant/) [impact](/post/impact/) [on](/post/on/) [the](/post/the/) [industry](/post/industry/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [invention](/en/post/invention/) [of](/en/post/of/) [the](/en/post/the/) [transistor](/en/post/transistor/) marked [a](/en/post/a/) [major](/en/post/major/) milestone [in](/en/post/in/) [the](/en/post/the/) [history](/en/post/history/) [of](/en/post/of/) [electronics](/en/post/electronics/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) smartphone uses [a](/en/post/a/) [highly](/en/post/highly/) [efficient](/en/post/efficient/) [transistor](/en/post/transistor/) [design](/en/post/design/) [for](/en/post/for/) [better](/en/post/better/) [battery](/en/post/battery/) [life](/en/post/life/)."
-- **Obsolete [Verb](/en/post/verb/)**: "[He](/en/post/he/) served [as](/en/post/as/) [a](/en/post/a/) [transistor](/en/post/transistor/) [between](/en/post/between/) [the](/en/post/the/) [rival](/en/post/rival/) companies, negotiating [their](/en/post/their/) terms."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [invention](/post/invention/) [of](/post/of/) [the](/post/the/) [transistor](/post/transistor/) marked [a](/post/a/) [major](/post/major/) milestone [in](/post/in/) [the](/post/the/) [history](/post/history/) [of](/post/of/) [electronics](/post/electronics/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) smartphone uses [a](/post/a/) [highly](/post/highly/) [efficient](/post/efficient/) [transistor](/post/transistor/) [design](/post/design/) [for](/post/for/) [better](/post/better/) [battery](/post/battery/) [life](/post/life/)."
+- **Obsolete [Verb](/post/verb/)**: "[He](/post/he/) served [as](/post/as/) [a](/post/a/) [transistor](/post/transistor/) [between](/post/between/) [the](/post/the/) [rival](/post/rival/) companies, negotiating [their](/post/their/) terms."
 
 ## Synonyms
 - Solid-state relay
-- Field-effect [transistor](/en/post/transistor/) (FET)
-- Bipolar junction [transistor](/en/post/transistor/) (BJT)
+- Field-effect [transistor](/post/transistor/) (FET)
+- Bipolar junction [transistor](/post/transistor/) (BJT)
 - Transconductance amplifier (TCA)
-- Switching [transistor](/en/post/transistor/) ([for](/en/post/for/) controlling [current](/en/post/current/))
+- Switching [transistor](/post/transistor/) ([for](/post/for/) controlling [current](/post/current/))

@@ -11,23 +11,23 @@ keywords = ['ai words', 'limit']
 /ˈlɪmɪt/
 
 ## 释义
-- **名词**: 限制；界限；最高限度。例如: "[The](/post/the/) [speed](/post/speed/) [limit](/post/limit/) [on](/post/on/) [this](/post/this/) [road](/post/road/) is 60 mph."
-- **动词**: 限制；限定。例如: "[The](/post/the/) [government](/post/government/) is limiting [the](/post/the/) [number](/post/number/) [of](/post/of/) tourists allowed [in](/post/in/) [the](/post/the/) [national](/post/national/) [park](/post/park/)."
-- **形容词**: 有限的；受限制的。例如: "[We](/post/we/) [have](/post/have/) [limited](/post/limited/) resources, [so](/post/so/) [we](/post/we/) [need](/post/need/) [to](/post/to/) [be](/post/be/) [careful](/post/careful/)."
+- **名词**: 限制；界限；最高限度。例如: "[The](/zh/post/the/) [speed](/zh/post/speed/) [limit](/zh/post/limit/) [on](/zh/post/on/) [this](/zh/post/this/) [road](/zh/post/road/) is 60 mph."
+- **动词**: 限制；限定。例如: "[The](/zh/post/the/) [government](/zh/post/government/) is limiting [the](/zh/post/the/) [number](/zh/post/number/) [of](/zh/post/of/) tourists allowed [in](/zh/post/in/) [the](/zh/post/the/) [national](/zh/post/national/) [park](/zh/post/park/)."
+- **形容词**: 有限的；受限制的。例如: "[We](/zh/post/we/) [have](/zh/post/have/) [limited](/zh/post/limited/) resources, [so](/zh/post/so/) [we](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [be](/zh/post/be/) [careful](/zh/post/careful/)."
 
 ## 短语
-- "[without](/post/without/) [limit](/post/limit/)" 意为无限制的。
-- "[push](/post/push/) [the](/post/the/) limits" 指挑战极限。
-- "[set](/post/set/) [a](/post/a/) [limit](/post/limit/)" 设置一个限制或规定。
+- "[without](/zh/post/without/) [limit](/zh/post/limit/)" 意为无限制的。
+- "[push](/zh/post/push/) [the](/zh/post/the/) limits" 指挑战极限。
+- "[set](/zh/post/set/) [a](/zh/post/a/) [limit](/zh/post/limit/)" 设置一个限制或规定。
 
 ## 例句
-- 名词: "[The](/post/the/) [company](/post/company/) has reached [its](/post/its/) [credit](/post/credit/) [limit](/post/limit/) [and](/post/and/) can't [borrow](/post/borrow/) [more](/post/more/) [money](/post/money/)."
-- 动词: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) [will](/post/will/) [limit](/post/limit/) [the](/post/the/) [amount](/post/amount/) [of](/post/of/) [time](/post/time/) employees [can](/post/can/) [spend](/post/spend/) [on](/post/on/) [personal](/post/personal/) tasks [during](/post/during/) [work](/post/work/) hours."
-- 形容词: "[Our](/post/our/) budget [for](/post/for/) [the](/post/the/) [project](/post/project/) is [quite](/post/quite/) [limited](/post/limited/)."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) has reached [its](/zh/post/its/) [credit](/zh/post/credit/) [limit](/zh/post/limit/) [and](/zh/post/and/) can't [borrow](/zh/post/borrow/) [more](/zh/post/more/) [money](/zh/post/money/)."
+- 动词: "[The](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/) [will](/zh/post/will/) [limit](/zh/post/limit/) [the](/zh/post/the/) [amount](/zh/post/amount/) [of](/zh/post/of/) [time](/zh/post/time/) employees [can](/zh/post/can/) [spend](/zh/post/spend/) [on](/zh/post/on/) [personal](/zh/post/personal/) tasks [during](/zh/post/during/) [work](/zh/post/work/) hours."
+- 形容词: "[Our](/zh/post/our/) budget [for](/zh/post/for/) [the](/zh/post/the/) [project](/zh/post/project/) is [quite](/zh/post/quite/) [limited](/zh/post/limited/)."
 
 ## 同义词
-- [Boundary](/post/boundary/)
+- [Boundary](/zh/post/boundary/)
 - Constraint
-- [Restriction](/post/restriction/)
-- [Ceiling](/post/ceiling/)
-- [Cap](/post/cap/)
+- [Restriction](/zh/post/restriction/)
+- [Ceiling](/zh/post/ceiling/)
+- [Cap](/zh/post/cap/)

@@ -7,34 +7,34 @@ description = '[disˈtrʌk∫ən] n.破坏，毁灭，消灭'
 keywords = ['ai words', 'destruction']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈstrʌkʃn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [Destruction](/en/post/destruction/): **[The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) causing [damage](/en/post/damage/) [or](/en/post/or/) [complete](/en/post/complete/) [ruin](/en/post/ruin/) [to](/en/post/to/) [something](/en/post/something/).**
-- Demolition: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) knocking [down](/en/post/down/) [or](/en/post/or/) destroying [a](/en/post/a/) [structure](/en/post/structure/).
-- Extermination: [The](/en/post/the/) [complete](/en/post/complete/) [and](/en/post/and/) [total](/en/post/total/) [destruction](/en/post/destruction/) [of](/en/post/of/) [a](/en/post/a/) species [or](/en/post/or/) [population](/en/post/population/).
-- Dismantlement: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) taking [apart](/en/post/apart/) [or](/en/post/or/) dismantling [something](/en/post/something/).
+### [Noun](/post/noun/)
+- [Destruction](/post/destruction/): **[The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) causing [damage](/post/damage/) [or](/post/or/) [complete](/post/complete/) [ruin](/post/ruin/) [to](/post/to/) [something](/post/something/).**
+- Demolition: [The](/post/the/) [act](/post/act/) [of](/post/of/) knocking [down](/post/down/) [or](/post/or/) destroying [a](/post/a/) [structure](/post/structure/).
+- Extermination: [The](/post/the/) [complete](/post/complete/) [and](/post/and/) [total](/post/total/) [destruction](/post/destruction/) [of](/post/of/) [a](/post/a/) species [or](/post/or/) [population](/post/population/).
+- Dismantlement: [The](/post/the/) [act](/post/act/) [of](/post/of/) taking [apart](/post/apart/) [or](/post/or/) dismantling [something](/post/something/).
 
-### [Verb](/en/post/verb/)
-- [Destroy](/en/post/destroy/): [To](/en/post/to/) [cause](/en/post/cause/) [severe](/en/post/severe/) [damage](/en/post/damage/) [or](/en/post/or/) [to](/en/post/to/) [bring](/en/post/bring/) [to](/en/post/to/) an [end](/en/post/end/) [or](/en/post/or/) [ruin](/en/post/ruin/).
-- [Wreck](/en/post/wreck/): [To](/en/post/to/) [damage](/en/post/damage/) [or](/en/post/or/) devastate ([a](/en/post/a/) [vehicle](/en/post/vehicle/), [ship](/en/post/ship/), [or](/en/post/or/) [place](/en/post/place/)) [beyond](/en/post/beyond/) [repair](/en/post/repair/).
-- Decimate: [To](/en/post/to/) [cause](/en/post/cause/) [a](/en/post/a/) [large](/en/post/large/) [proportion](/en/post/proportion/) [of](/en/post/of/) ([people](/en/post/people/) [or](/en/post/or/) animals) [to](/en/post/to/) [be](/en/post/be/) killed [or](/en/post/or/) destroyed.
-- Devastate: [To](/en/post/to/) [completely](/en/post/completely/) [destroy](/en/post/destroy/) [or](/en/post/or/) [ruin](/en/post/ruin/), [often](/en/post/often/) leaving [nothing](/en/post/nothing/) [but](/en/post/but/) devastation.
+### [Verb](/post/verb/)
+- [Destroy](/post/destroy/): [To](/post/to/) [cause](/post/cause/) [severe](/post/severe/) [damage](/post/damage/) [or](/post/or/) [to](/post/to/) [bring](/post/bring/) [to](/post/to/) an [end](/post/end/) [or](/post/or/) [ruin](/post/ruin/).
+- [Wreck](/post/wreck/): [To](/post/to/) [damage](/post/damage/) [or](/post/or/) devastate ([a](/post/a/) [vehicle](/post/vehicle/), [ship](/post/ship/), [or](/post/or/) [place](/post/place/)) [beyond](/post/beyond/) [repair](/post/repair/).
+- Decimate: [To](/post/to/) [cause](/post/cause/) [a](/post/a/) [large](/post/large/) [proportion](/post/proportion/) [of](/post/of/) ([people](/post/people/) [or](/post/or/) animals) [to](/post/to/) [be](/post/be/) killed [or](/post/or/) destroyed.
+- Devastate: [To](/post/to/) [completely](/post/completely/) [destroy](/post/destroy/) [or](/post/or/) [ruin](/post/ruin/), [often](/post/often/) leaving [nothing](/post/nothing/) [but](/post/but/) devastation.
 
 ## Phrases
-- "[Bring](/en/post/bring/) [about](/en/post/about/) [destruction](/en/post/destruction/)" [means](/en/post/means/) [to](/en/post/to/) [cause](/en/post/cause/) [significant](/en/post/significant/) [harm](/en/post/harm/) [or](/en/post/or/) [ruin](/en/post/ruin/).
-- "[Prevent](/en/post/prevent/) [destruction](/en/post/destruction/)" refers [to](/en/post/to/) stopping [something](/en/post/something/) [from](/en/post/from/) [being](/en/post/being/) ruined [or](/en/post/or/) damaged.
-- "Acts [of](/en/post/of/) [destruction](/en/post/destruction/)" denotes [various](/en/post/various/) [harmful](/en/post/harmful/) actions causing [damage](/en/post/damage/).
+- "[Bring](/post/bring/) [about](/post/about/) [destruction](/post/destruction/)" [means](/post/means/) [to](/post/to/) [cause](/post/cause/) [significant](/post/significant/) [harm](/post/harm/) [or](/post/or/) [ruin](/post/ruin/).
+- "[Prevent](/post/prevent/) [destruction](/post/destruction/)" refers [to](/post/to/) stopping [something](/post/something/) [from](/post/from/) [being](/post/being/) ruined [or](/post/or/) damaged.
+- "Acts [of](/post/of/) [destruction](/post/destruction/)" denotes [various](/post/various/) [harmful](/post/harmful/) actions causing [damage](/post/damage/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [city](/en/post/city/) was reduced [to](/en/post/to/) ruins [after](/en/post/after/) [a](/en/post/a/) devastating [war](/en/post/war/) [of](/en/post/of/) [destruction](/en/post/destruction/)."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [careless](/en/post/careless/) actions led [to](/en/post/to/) [the](/en/post/the/) [destruction](/en/post/destruction/) [of](/en/post/of/) [the](/en/post/the/) [entire](/en/post/entire/) [project](/en/post/project/)."
-- **[Verb](/en/post/verb/)**: "Efforts are underway [to](/en/post/to/) [prevent](/en/post/prevent/) [further](/en/post/further/) [destruction](/en/post/destruction/) [of](/en/post/of/) [the](/en/post/the/) fragile ecosystem."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ancient](/post/ancient/) [city](/post/city/) was reduced [to](/post/to/) ruins [after](/post/after/) [a](/post/a/) devastating [war](/post/war/) [of](/post/of/) [destruction](/post/destruction/)."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [careless](/post/careless/) actions led [to](/post/to/) [the](/post/the/) [destruction](/post/destruction/) [of](/post/of/) [the](/post/the/) [entire](/post/entire/) [project](/post/project/)."
+- **[Verb](/post/verb/)**: "Efforts are underway [to](/post/to/) [prevent](/post/prevent/) [further](/post/further/) [destruction](/post/destruction/) [of](/post/of/) [the](/post/the/) fragile ecosystem."
 
 ## Synonyms
-- [Ruin](/en/post/ruin/)
+- [Ruin](/post/ruin/)
 - Ruination
 - Demolish
 - Eradicate
@@ -43,9 +43,9 @@ keywords = ['ai words', 'destruction']
 - Devolve
 
 ## Antonyms
-- [Construction](/en/post/construction/)
+- [Construction](/post/construction/)
 - Preservation
 - Restoration
 - Survival
-- [Maintenance](/en/post/maintenance/)
-- [Protection](/en/post/protection/)
+- [Maintenance](/post/maintenance/)
+- [Protection](/post/protection/)

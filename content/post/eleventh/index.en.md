@@ -7,25 +7,25 @@ description = '[iˈlevnθ] num.第十一(个)'
 keywords = ['ai words', 'eleventh']
 +++
 
-## [Word](/en/post/word/): [Eleventh](/en/post/eleventh/)
+## [Word](/post/word/): [Eleventh](/post/eleventh/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈlev(ə)nth/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) ordinal [number](/en/post/number/) matching [the](/en/post/the/) [number](/en/post/number/) [eleven](/en/post/eleven/), coming [after](/en/post/after/) [the](/en/post/the/) [tenth](/en/post/tenth/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/). [It](/en/post/it/) [often](/en/post/often/) precedes [a](/en/post/a/) [noun](/en/post/noun/), indicating [its](/en/post/its/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [eleventh](/en/post/eleventh/) [chapter](/en/post/chapter/) details [the](/en/post/the/) [key](/en/post/key/) events."
-- **Numeral**: Denoting [the](/en/post/the/) [number](/en/post/number/) 11 [in](/en/post/in/) counting [order](/en/post/order/), [especially](/en/post/especially/) [when](/en/post/when/) enumerating items. [For](/en/post/for/) [instance](/en/post/instance/): "[On](/en/post/on/) [the](/en/post/the/) [eleventh](/en/post/eleventh/) [day](/en/post/day/) [of](/en/post/of/) Christmas, [my](/en/post/my/) [true](/en/post/true/) [love](/en/post/love/) sent [to](/en/post/to/) [me](/en/post/me/)..."
+- **[Adjective](/post/adjective/)**: [The](/post/the/) ordinal [number](/post/number/) matching [the](/post/the/) [number](/post/number/) [eleven](/post/eleven/), coming [after](/post/after/) [the](/post/the/) [tenth](/post/tenth/) [in](/post/in/) [a](/post/a/) [series](/post/series/). [It](/post/it/) [often](/post/often/) precedes [a](/post/a/) [noun](/post/noun/), indicating [its](/post/its/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [eleventh](/post/eleventh/) [chapter](/post/chapter/) details [the](/post/the/) [key](/post/key/) events."
+- **Numeral**: Denoting [the](/post/the/) [number](/post/number/) 11 [in](/post/in/) counting [order](/post/order/), [especially](/post/especially/) [when](/post/when/) enumerating items. [For](/post/for/) [instance](/post/instance/): "[On](/post/on/) [the](/post/the/) [eleventh](/post/eleventh/) [day](/post/day/) [of](/post/of/) Christmas, [my](/post/my/) [true](/post/true/) [love](/post/love/) sent [to](/post/to/) [me](/post/me/)..."
 
 ## Phrases
-- "[On](/en/post/on/) [the](/en/post/the/) [eleventh](/en/post/eleventh/) [hour](/en/post/hour/)": [At](/en/post/at/) [the](/en/post/the/) [very](/en/post/very/) [last](/en/post/last/) [moment](/en/post/moment/) [before](/en/post/before/) it's [too](/en/post/too/) [late](/en/post/late/); [the](/en/post/the/) [final](/en/post/final/) [opportunity](/en/post/opportunity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [deal](/en/post/deal/) was signed [on](/en/post/on/) [the](/en/post/the/) [eleventh](/en/post/eleventh/) [hour](/en/post/hour/)."
-- "[Eleventh](/en/post/eleventh/) commandment": [A](/en/post/a/) [humorous](/en/post/humorous/) [reference](/en/post/reference/) [to](/en/post/to/) an unwritten [rule](/en/post/rule/) [or](/en/post/or/) guideline [that](/en/post/that/) seems [as](/en/post/as/) [important](/en/post/important/) [as](/en/post/as/) [the](/en/post/the/) [Ten](/en/post/ten/) Commandments. [For](/en/post/for/) [instance](/en/post/instance/): "[In](/en/post/in/) [her](/en/post/her/) [house](/en/post/house/), '[Always](/en/post/always/) [clean](/en/post/clean/) [up](/en/post/up/) [after](/en/post/after/) [yourself](/en/post/yourself/)' was [like](/en/post/like/) [the](/en/post/the/) [eleventh](/en/post/eleventh/) commandment."
+- "[On](/post/on/) [the](/post/the/) [eleventh](/post/eleventh/) [hour](/post/hour/)": [At](/post/at/) [the](/post/the/) [very](/post/very/) [last](/post/last/) [moment](/post/moment/) [before](/post/before/) it's [too](/post/too/) [late](/post/late/); [the](/post/the/) [final](/post/final/) [opportunity](/post/opportunity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [deal](/post/deal/) was signed [on](/post/on/) [the](/post/the/) [eleventh](/post/eleventh/) [hour](/post/hour/)."
+- "[Eleventh](/post/eleventh/) commandment": [A](/post/a/) [humorous](/post/humorous/) [reference](/post/reference/) [to](/post/to/) an unwritten [rule](/post/rule/) [or](/post/or/) guideline [that](/post/that/) seems [as](/post/as/) [important](/post/important/) [as](/post/as/) [the](/post/the/) [Ten](/post/ten/) Commandments. [For](/post/for/) [instance](/post/instance/): "[In](/post/in/) [her](/post/her/) [house](/post/house/), '[Always](/post/always/) [clean](/post/clean/) [up](/post/up/) [after](/post/after/) [yourself](/post/yourself/)' was [like](/post/like/) [the](/post/the/) [eleventh](/post/eleventh/) commandment."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) placed [eleventh](/en/post/eleventh/) [in](/en/post/in/) [the](/en/post/the/) marathon, narrowly [missing](/en/post/missing/) [out](/en/post/out/) [on](/en/post/on/) [the](/en/post/the/) [top](/en/post/top/) [ten](/en/post/ten/)."
-- **Numeral**: "[We](/en/post/we/) [will](/en/post/will/) [be](/en/post/be/) celebrating [our](/en/post/our/) [eleventh](/en/post/eleventh/) [wedding](/en/post/wedding/) anniversary [next](/en/post/next/) [month](/en/post/month/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) placed [eleventh](/post/eleventh/) [in](/post/in/) [the](/post/the/) marathon, narrowly [missing](/post/missing/) [out](/post/out/) [on](/post/on/) [the](/post/the/) [top](/post/top/) [ten](/post/ten/)."
+- **Numeral**: "[We](/post/we/) [will](/post/will/) [be](/post/be/) celebrating [our](/post/our/) [eleventh](/post/eleventh/) [wedding](/post/wedding/) anniversary [next](/post/next/) [month](/post/month/)."
 
 ## Synonyms
 - 11th
-- [Eleven](/en/post/eleven/)
-- [The](/en/post/the/) [eleventh](/en/post/eleventh/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [position](/en/post/position/)/[order](/en/post/order/))
-- [In](/en/post/in/) [the](/en/post/the/) [eleventh](/en/post/eleventh/) [place](/en/post/place/) ([as](/en/post/as/) [a](/en/post/a/) [phrase](/en/post/phrase/))
+- [Eleven](/post/eleven/)
+- [The](/post/the/) [eleventh](/post/eleventh/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [position](/post/position/)/[order](/post/order/))
+- [In](/post/in/) [the](/post/the/) [eleventh](/post/eleventh/) [place](/post/place/) ([as](/post/as/) [a](/post/a/) [phrase](/post/phrase/))

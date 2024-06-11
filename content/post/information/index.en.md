@@ -7,37 +7,37 @@ description = '[ˌinfəˈmei∫ən] n.消息，信息；通知'
 keywords = ['ai words', 'information']
 +++
 
-## [Word](/en/post/word/): [Information](/en/post/information/)
+## [Word](/post/word/): [Information](/post/information/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɪnfərˈmeɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [Data](/en/post/data/), facts, [or](/en/post/or/) details [about](/en/post/about/) events, ideas, [or](/en/post/or/) [people](/en/post/people/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) communicated [or](/en/post/or/) [learned](/en/post/learned/). It's [often](/en/post/often/) processed, structured, [or](/en/post/or/) presented [in](/en/post/in/) [a](/en/post/a/) meaningful context.
+- **[Noun](/post/noun/)**: [Data](/post/data/), facts, [or](/post/or/) details [about](/post/about/) events, ideas, [or](/post/or/) [people](/post/people/) [that](/post/that/) [can](/post/can/) [be](/post/be/) communicated [or](/post/or/) [learned](/post/learned/). It's [often](/post/often/) processed, structured, [or](/post/or/) presented [in](/post/in/) [a](/post/a/) meaningful context.
 
 ### Examples:
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [information](/en/post/information/) [he](/en/post/he/) [provided](/en/post/provided/) was crucial [to](/en/post/to/) solving [the](/en/post/the/) [case](/en/post/case/)."
-- "[She](/en/post/she/) gathered [all](/en/post/all/) [the](/en/post/the/) [necessary](/en/post/necessary/) [information](/en/post/information/) [before](/en/post/before/) making [her](/en/post/her/) [decision](/en/post/decision/)."
-- "[The](/en/post/the/) internet has [become](/en/post/become/) [the](/en/post/the/) [primary](/en/post/primary/) [source](/en/post/source/) [of](/en/post/of/) [information](/en/post/information/) [for](/en/post/for/) [many](/en/post/many/) [people](/en/post/people/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [information](/post/information/) [he](/post/he/) [provided](/post/provided/) was crucial [to](/post/to/) solving [the](/post/the/) [case](/post/case/)."
+- "[She](/post/she/) gathered [all](/post/all/) [the](/post/the/) [necessary](/post/necessary/) [information](/post/information/) [before](/post/before/) making [her](/post/her/) [decision](/post/decision/)."
+- "[The](/post/the/) internet has [become](/post/become/) [the](/post/the/) [primary](/post/primary/) [source](/post/source/) [of](/post/of/) [information](/post/information/) [for](/post/for/) [many](/post/many/) [people](/post/people/)."
 
 ## Phrases
-- "[Access](/en/post/access/) [to](/en/post/to/) [information](/en/post/information/)": [The](/en/post/the/) [ability](/en/post/ability/) [or](/en/post/or/) [right](/en/post/right/) [to](/en/post/to/) [obtain](/en/post/obtain/) [or](/en/post/or/) [view](/en/post/view/) [data](/en/post/data/) [or](/en/post/or/) [knowledge](/en/post/knowledge/).
-- "[Information](/en/post/information/) [technology](/en/post/technology/) ([IT](/en/post/it/))": [The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) computers [and](/en/post/and/) telecommunications [equipment](/en/post/equipment/) [to](/en/post/to/) [store](/en/post/store/), retrieve, [transmit](/en/post/transmit/), [and](/en/post/and/) manipulate [data](/en/post/data/).
-- "[Reliable](/en/post/reliable/) [information](/en/post/information/)": [Data](/en/post/data/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) trusted [and](/en/post/and/) verified.
-- "Informed [consent](/en/post/consent/)": [Agreement](/en/post/agreement/) [to](/en/post/to/) [something](/en/post/something/) based [on](/en/post/on/) [full](/en/post/full/) disclosure [of](/en/post/of/) [relevant](/en/post/relevant/) facts [and](/en/post/and/) [understanding](/en/post/understanding/).
+- "[Access](/post/access/) [to](/post/to/) [information](/post/information/)": [The](/post/the/) [ability](/post/ability/) [or](/post/or/) [right](/post/right/) [to](/post/to/) [obtain](/post/obtain/) [or](/post/or/) [view](/post/view/) [data](/post/data/) [or](/post/or/) [knowledge](/post/knowledge/).
+- "[Information](/post/information/) [technology](/post/technology/) ([IT](/post/it/))": [The](/post/the/) [use](/post/use/) [of](/post/of/) computers [and](/post/and/) telecommunications [equipment](/post/equipment/) [to](/post/to/) [store](/post/store/), retrieve, [transmit](/post/transmit/), [and](/post/and/) manipulate [data](/post/data/).
+- "[Reliable](/post/reliable/) [information](/post/information/)": [Data](/post/data/) [that](/post/that/) [can](/post/can/) [be](/post/be/) trusted [and](/post/and/) verified.
+- "Informed [consent](/post/consent/)": [Agreement](/post/agreement/) [to](/post/to/) [something](/post/something/) based [on](/post/on/) [full](/post/full/) disclosure [of](/post/of/) [relevant](/post/relevant/) facts [and](/post/and/) [understanding](/post/understanding/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's database stores [vast](/en/post/vast/) amounts [of](/en/post/of/) [customer](/en/post/customer/) [information](/en/post/information/)."
-- "Based [on](/en/post/on/) [the](/en/post/the/) latest [information](/en/post/information/) [from](/en/post/from/) [the](/en/post/the/) [weather](/en/post/weather/) [service](/en/post/service/), [we](/en/post/we/) decided [to](/en/post/to/) [cancel](/en/post/cancel/) [the](/en/post/the/) [outdoor](/en/post/outdoor/) [event](/en/post/event/)."
-- "[A](/en/post/a/) [library](/en/post/library/) is [a](/en/post/a/) [treasure](/en/post/treasure/) trove [of](/en/post/of/) [information](/en/post/information/) [on](/en/post/on/) countless subjects."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) company's database stores [vast](/post/vast/) amounts [of](/post/of/) [customer](/post/customer/) [information](/post/information/)."
+- "Based [on](/post/on/) [the](/post/the/) latest [information](/post/information/) [from](/post/from/) [the](/post/the/) [weather](/post/weather/) [service](/post/service/), [we](/post/we/) decided [to](/post/to/) [cancel](/post/cancel/) [the](/post/the/) [outdoor](/post/outdoor/) [event](/post/event/)."
+- "[A](/post/a/) [library](/post/library/) is [a](/post/a/) [treasure](/post/treasure/) trove [of](/post/of/) [information](/post/information/) [on](/post/on/) countless subjects."
 
 ## Synonyms
-- [Data](/en/post/data/)
+- [Data](/post/data/)
 - Details
 - Facts
-- [Knowledge](/en/post/knowledge/)
+- [Knowledge](/post/knowledge/)
 - Intel
-- [News](/en/post/news/)
+- [News](/post/news/)
 - Insights
 - Findings
 - Learnings

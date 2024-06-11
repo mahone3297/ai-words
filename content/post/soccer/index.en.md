@@ -7,29 +7,29 @@ description = '[ˈsɔkə] n.英式足球'
 keywords = ['ai words', 'soccer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsɒkər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (informal) [Short](/en/post/short/) [for](/en/post/for/) [football](/en/post/football/), [a](/en/post/a/) [popular](/en/post/popular/) [sport](/en/post/sport/) played [with](/en/post/with/) [a](/en/post/a/) spherical [ball](/en/post/ball/) [by](/en/post/by/) [two](/en/post/two/) teams [of](/en/post/of/) [eleven](/en/post/eleven/) players [each](/en/post/each/), [who](/en/post/who/) [try](/en/post/try/) [to](/en/post/to/) [score](/en/post/score/) goals [by](/en/post/by/) kicking [the](/en/post/the/) [ball](/en/post/ball/) [into](/en/post/into/) [the](/en/post/the/) opposing team's [net](/en/post/net/) [without](/en/post/without/) using [their](/en/post/their/) hands [or](/en/post/or/) arms [above](/en/post/above/) [the](/en/post/the/) [shoulder](/en/post/shoulder/). Abbreviated [as](/en/post/as/) '[soccer](/en/post/soccer/)' [in](/en/post/in/) [some](/en/post/some/) countries. 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [play](/en/post/play/) [soccer](/en/post/soccer/), [engage](/en/post/engage/) [in](/en/post/in/) [the](/en/post/the/) [sport](/en/post/sport/) [of](/en/post/of/) [soccer](/en/post/soccer/), [or](/en/post/or/) [mention](/en/post/mention/) [it](/en/post/it/) [as](/en/post/as/) [a](/en/post/a/) [topic](/en/post/topic/) [of](/en/post/of/) [conversation](/en/post/conversation/). 
+- **[Noun](/post/noun/)**: (informal) [Short](/post/short/) [for](/post/for/) [football](/post/football/), [a](/post/a/) [popular](/post/popular/) [sport](/post/sport/) played [with](/post/with/) [a](/post/a/) spherical [ball](/post/ball/) [by](/post/by/) [two](/post/two/) teams [of](/post/of/) [eleven](/post/eleven/) players [each](/post/each/), [who](/post/who/) [try](/post/try/) [to](/post/to/) [score](/post/score/) goals [by](/post/by/) kicking [the](/post/the/) [ball](/post/ball/) [into](/post/into/) [the](/post/the/) opposing team's [net](/post/net/) [without](/post/without/) using [their](/post/their/) hands [or](/post/or/) arms [above](/post/above/) [the](/post/the/) [shoulder](/post/shoulder/). Abbreviated [as](/post/as/) '[soccer](/post/soccer/)' [in](/post/in/) [some](/post/some/) countries. 
+- **[Verb](/post/verb/)**: [To](/post/to/) [play](/post/play/) [soccer](/post/soccer/), [engage](/post/engage/) [in](/post/in/) [the](/post/the/) [sport](/post/sport/) [of](/post/of/) [soccer](/post/soccer/), [or](/post/or/) [mention](/post/mention/) [it](/post/it/) [as](/post/as/) [a](/post/a/) [topic](/post/topic/) [of](/post/of/) [conversation](/post/conversation/). 
 
 ## Phrases
-- "[Play](/en/post/play/) [soccer](/en/post/soccer/)" refers [to](/en/post/to/) participating [in](/en/post/in/) [the](/en/post/the/) [game](/en/post/game/).
-- "[Soccer](/en/post/soccer/) [fan](/en/post/fan/)" is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is passionate [about](/en/post/about/) [the](/en/post/the/) [sport](/en/post/sport/).
-- "[Soccer](/en/post/soccer/) [fever](/en/post/fever/)" describes [the](/en/post/the/) excitement surrounding [a](/en/post/a/) [major](/en/post/major/) tournament [or](/en/post/or/) [match](/en/post/match/).
+- "[Play](/post/play/) [soccer](/post/soccer/)" refers [to](/post/to/) participating [in](/post/in/) [the](/post/the/) [game](/post/game/).
+- "[Soccer](/post/soccer/) [fan](/post/fan/)" is [a](/post/a/) [person](/post/person/) [who](/post/who/) is passionate [about](/post/about/) [the](/post/the/) [sport](/post/sport/).
+- "[Soccer](/post/soccer/) [fever](/post/fever/)" describes [the](/post/the/) excitement surrounding [a](/post/a/) [major](/post/major/) tournament [or](/post/or/) [match](/post/match/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were practicing [soccer](/en/post/soccer/) drills [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [join](/en/post/join/) [a](/en/post/a/) [local](/en/post/local/) [soccer](/en/post/soccer/) [league](/en/post/league/) [after](/en/post/after/) [work](/en/post/work/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[He](/en/post/he/) scored [the](/en/post/the/) winning [goal](/en/post/goal/) [in](/en/post/in/) [the](/en/post/the/) [soccer](/en/post/soccer/) [match](/en/post/match/) [last](/en/post/last/) [weekend](/en/post/weekend/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were practicing [soccer](/post/soccer/) drills [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [join](/post/join/) [a](/post/a/) [local](/post/local/) [soccer](/post/soccer/) [league](/post/league/) [after](/post/after/) [work](/post/work/)."
+- **Phrasal [Verb](/post/verb/)**: "[He](/post/he/) scored [the](/post/the/) winning [goal](/post/goal/) [in](/post/in/) [the](/post/the/) [soccer](/post/soccer/) [match](/post/match/) [last](/post/last/) [weekend](/post/weekend/)."
 
 ## Synonyms
-- [Football](/en/post/football/) ([formal](/en/post/formal/))
-- [Association](/en/post/association/) [football](/en/post/football/) (specifically British [usage](/en/post/usage/))
+- [Football](/post/football/) ([formal](/post/formal/))
+- [Association](/post/association/) [football](/post/football/) (specifically British [usage](/post/usage/))
 - Footie
-- [The](/en/post/the/) [beautiful](/en/post/beautiful/) [game](/en/post/game/)
+- [The](/post/the/) [beautiful](/post/beautiful/) [game](/post/game/)
 - Soccers
 
-## [Note](/en/post/note/):
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) [in](/en/post/in/) British English, [the](/en/post/the/) [term](/en/post/term/) "[football](/en/post/football/)" is [more](/en/post/more/) [commonly](/en/post/commonly/) [used](/en/post/used/) [instead](/en/post/instead/) [of](/en/post/of/) "[soccer](/en/post/soccer/)." [The](/en/post/the/) [term](/en/post/term/) "[soccer](/en/post/soccer/)" is [primarily](/en/post/primarily/) [used](/en/post/used/) [in](/en/post/in/) [North](/en/post/north/) [America](/en/post/america/).
+## [Note](/post/note/):
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) [in](/post/in/) British English, [the](/post/the/) [term](/post/term/) "[football](/post/football/)" is [more](/post/more/) [commonly](/post/commonly/) [used](/post/used/) [instead](/post/instead/) [of](/post/of/) "[soccer](/post/soccer/)." [The](/post/the/) [term](/post/term/) "[soccer](/post/soccer/)" is [primarily](/post/primarily/) [used](/post/used/) [in](/post/in/) [North](/post/north/) [America](/post/america/).

@@ -11,19 +11,19 @@ keywords = ['ai words', 'approximately']
 /əˈprɑːoxɪmətli/
 
 ## 释义
-- **副词**: 大约，近似地，差不多。用来表示不精确的估计或数量。例如: "[The](/post/the/) [journey](/post/journey/) took [approximately](/post/approximately/) [three](/post/three/) hours."
+- **副词**: 大约，近似地，差不多。用来表示不精确的估计或数量。例如: "[The](/zh/post/the/) [journey](/zh/post/journey/) took [approximately](/zh/post/approximately/) [three](/zh/post/three/) hours."
 
 ## 短语
-- "[approximately](/post/approximately/) [equal](/post/equal/) [to](/post/to/)" 意为大约等于。
-- "[approximate](/post/approximate/) [value](/post/value/)" 指的是近似值。
+- "[approximately](/zh/post/approximately/) [equal](/zh/post/equal/) [to](/zh/post/to/)" 意为大约等于。
+- "[approximate](/zh/post/approximate/) [value](/zh/post/value/)" 指的是近似值。
 
 ## 例句
-- "[The](/post/the/) [population](/post/population/) [of](/post/of/) [China](/post/china/) is [approximately](/post/approximately/) 1.4 [billion](/post/billion/)."
-- "[Our](/post/our/) [estimate](/post/estimate/) is [that](/post/that/) [the](/post/the/) [project](/post/project/) [will](/post/will/) [cost](/post/cost/) [approximately](/post/approximately/) $50,000."
+- "[The](/zh/post/the/) [population](/zh/post/population/) [of](/zh/post/of/) [China](/zh/post/china/) is [approximately](/zh/post/approximately/) 1.4 [billion](/zh/post/billion/)."
+- "[Our](/zh/post/our/) [estimate](/zh/post/estimate/) is [that](/zh/post/that/) [the](/zh/post/the/) [project](/zh/post/project/) [will](/zh/post/will/) [cost](/zh/post/cost/) [approximately](/zh/post/approximately/) $50,000."
 
 ## 同义词
-- [roughly](/post/roughly/)
-- [about](/post/about/)
-- [nearly](/post/nearly/)
-- [around](/post/around/)
-- [more](/post/more/) [or](/post/or/) [less](/post/less/)
+- [roughly](/zh/post/roughly/)
+- [about](/zh/post/about/)
+- [nearly](/zh/post/nearly/)
+- [around](/zh/post/around/)
+- [more](/zh/post/more/) [or](/zh/post/or/) [less](/zh/post/less/)

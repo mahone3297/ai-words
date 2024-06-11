@@ -7,33 +7,33 @@ description = 'ˈmænidʒə] n.经理，管理人'
 keywords = ['ai words', 'manager[']
 +++
 
-## [Word](/en/post/word/): Manager
+## [Word](/post/word/): Manager
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmænɪdʒər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [responsible](/en/post/responsible/) [for](/en/post/for/) controlling [or](/en/post/or/) administering [all](/en/post/all/) [or](/en/post/or/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [company](/en/post/company/) [or](/en/post/or/) [similar](/en/post/similar/) [organization](/en/post/organization/), [or](/en/post/or/) [for](/en/post/for/) running [a](/en/post/a/) [business](/en/post/business/). [They](/en/post/they/) supervise employees, [make](/en/post/make/) decisions, [and](/en/post/and/) [ensure](/en/post/ensure/) [that](/en/post/that/) objectives are met efficiently. [Example](/en/post/example/): "[The](/en/post/the/) [store](/en/post/store/) manager was praised [for](/en/post/for/) increasing sales [last](/en/post/last/) [quarter](/en/post/quarter/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [responsible](/post/responsible/) [for](/post/for/) controlling [or](/post/or/) administering [all](/post/all/) [or](/post/or/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [company](/post/company/) [or](/post/or/) [similar](/post/similar/) [organization](/post/organization/), [or](/post/or/) [for](/post/for/) running [a](/post/a/) [business](/post/business/). [They](/post/they/) supervise employees, [make](/post/make/) decisions, [and](/post/and/) [ensure](/post/ensure/) [that](/post/that/) objectives are met efficiently. [Example](/post/example/): "[The](/post/the/) [store](/post/store/) manager was praised [for](/post/for/) increasing sales [last](/post/last/) [quarter](/post/quarter/)."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): "[She](/en/post/she/) was promoted [to](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/) manager overseeing [a](/en/post/a/) [team](/en/post/team/) [of](/en/post/of/) 10 developers."
+[Example](/post/example/) [Sentence](/post/sentence/): "[She](/post/she/) was promoted [to](/post/to/) [be](/post/be/) [the](/post/the/) [new](/post/new/) [project](/post/project/) manager overseeing [a](/post/a/) [team](/post/team/) [of](/post/of/) 10 developers."
 
 Phrases:
-- "[Middle](/en/post/middle/) manager": An [employee](/en/post/employee/) [whose](/en/post/whose/) [role](/en/post/role/) is [between](/en/post/between/) [upper](/en/post/upper/) [management](/en/post/management/) [and](/en/post/and/) front-line [staff](/en/post/staff/).
-- "Managerial skills": [The](/en/post/the/) abilities required [to](/en/post/to/) [plan](/en/post/plan/), [organize](/en/post/organize/), [direct](/en/post/direct/), [and](/en/post/and/) [control](/en/post/control/) resources [to](/en/post/to/) [achieve](/en/post/achieve/) [specific](/en/post/specific/) goals.
-- "[Line](/en/post/line/) manager": [A](/en/post/a/) [direct](/en/post/direct/) supervisor [who](/en/post/who/) has [immediate](/en/post/immediate/) [responsibility](/en/post/responsibility/) [for](/en/post/for/) managing [other](/en/post/other/) employees.
+- "[Middle](/post/middle/) manager": An [employee](/post/employee/) [whose](/post/whose/) [role](/post/role/) is [between](/post/between/) [upper](/post/upper/) [management](/post/management/) [and](/post/and/) front-line [staff](/post/staff/).
+- "Managerial skills": [The](/post/the/) abilities required [to](/post/to/) [plan](/post/plan/), [organize](/post/organize/), [direct](/post/direct/), [and](/post/and/) [control](/post/control/) resources [to](/post/to/) [achieve](/post/achieve/) [specific](/post/specific/) goals.
+- "[Line](/post/line/) manager": [A](/post/a/) [direct](/post/direct/) supervisor [who](/post/who/) has [immediate](/post/immediate/) [responsibility](/post/responsibility/) [for](/post/for/) managing [other](/post/other/) employees.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[As](/en/post/as/) [a](/en/post/a/) [financial](/en/post/financial/) manager, he's [responsible](/en/post/responsible/) [for](/en/post/for/) preparing [the](/en/post/the/) [annual](/en/post/annual/) budget."
-- "[The](/en/post/the/) [restaurant](/en/post/restaurant/) manager interviewed [several](/en/post/several/) candidates [for](/en/post/for/) [the](/en/post/the/) [position](/en/post/position/) [of](/en/post/of/) [head](/en/post/head/) chef."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[As](/post/as/) [a](/post/a/) [financial](/post/financial/) manager, he's [responsible](/post/responsible/) [for](/post/for/) preparing [the](/post/the/) [annual](/post/annual/) budget."
+- "[The](/post/the/) [restaurant](/post/restaurant/) manager interviewed [several](/post/several/) candidates [for](/post/for/) [the](/post/the/) [position](/post/position/) [of](/post/of/) [head](/post/head/) chef."
 
 ## Synonyms
 - Supervisor
-- [Director](/en/post/director/)
+- [Director](/post/director/)
 - Administrator
-- [Executive](/en/post/executive/)
+- [Executive](/post/executive/)
 - Controller
 - Coordinator
-- [Leader](/en/post/leader/)
-- [Head](/en/post/head/) ([of](/en/post/of/) [department](/en/post/department/))
-- [Boss](/en/post/boss/)
+- [Leader](/post/leader/)
+- [Head](/post/head/) ([of](/post/of/) [department](/post/department/))
+- [Boss](/post/boss/)
 - Superintendent

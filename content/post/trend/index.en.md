@@ -7,34 +7,34 @@ description = '[trend] vi.伸向；倾向 n.倾向'
 keywords = ['ai words', 'trend']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[trend](/en/post/trend/)/
+## [Pronunciation](/post/pronunciation/)
+/[trend](/post/trend/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [trend](/en/post/trend/) is [a](/en/post/a/) **[noun](/en/post/noun/)** [that](/en/post/that/) refers [to](/en/post/to/) [a](/en/post/a/) [general](/en/post/general/) [direction](/en/post/direction/) [or](/en/post/or/) [development](/en/post/development/), [especially](/en/post/especially/) [in](/en/post/in/) [social](/en/post/social/), [economic](/en/post/economic/), [or](/en/post/or/) cultural matters, [that](/en/post/that/) is currently observed [or](/en/post/or/) expected [to](/en/post/to/) [continue](/en/post/continue/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) denote [a](/en/post/a/) [fashionable](/en/post/fashionable/) [or](/en/post/or/) [popular](/en/post/popular/) [style](/en/post/style/), [or](/en/post/or/) [a](/en/post/a/) [sequence](/en/post/sequence/) [of](/en/post/of/) [data](/en/post/data/) points showing [a](/en/post/a/) [particular](/en/post/particular/) [pattern](/en/post/pattern/) [over](/en/post/over/) [time](/en/post/time/).
+### [Noun](/post/noun/)
+[A](/post/a/) [trend](/post/trend/) is [a](/post/a/) **[noun](/post/noun/)** [that](/post/that/) refers [to](/post/to/) [a](/post/a/) [general](/post/general/) [direction](/post/direction/) [or](/post/or/) [development](/post/development/), [especially](/post/especially/) [in](/post/in/) [social](/post/social/), [economic](/post/economic/), [or](/post/or/) cultural matters, [that](/post/that/) is currently observed [or](/post/or/) expected [to](/post/to/) [continue](/post/continue/). [It](/post/it/) [can](/post/can/) [also](/post/also/) denote [a](/post/a/) [fashionable](/post/fashionable/) [or](/post/or/) [popular](/post/popular/) [style](/post/style/), [or](/post/or/) [a](/post/a/) [sequence](/post/sequence/) [of](/post/of/) [data](/post/data/) points showing [a](/post/a/) [particular](/post/particular/) [pattern](/post/pattern/) [over](/post/over/) [time](/post/time/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [trend](/en/post/trend/) ([as](/en/post/as/) [in](/en/post/in/) "trending") is [not](/en/post/not/) [a](/en/post/a/) [standard](/en/post/standard/) [verb](/en/post/verb/) [form](/en/post/form/) [for](/en/post/for/) [this](/en/post/this/) [word](/en/post/word/). [However](/en/post/however/), [it](/en/post/it/) is [occasionally](/en/post/occasionally/) [used](/en/post/used/) informally [to](/en/post/to/) [mean](/en/post/mean/) [to](/en/post/to/) [become](/en/post/become/) [popular](/en/post/popular/) [or](/en/post/or/) [fashionable](/en/post/fashionable/), [or](/en/post/or/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is currently [in](/en/post/in/) vogue.
+### [Verb](/post/verb/)
+[To](/post/to/) [trend](/post/trend/) ([as](/post/as/) [in](/post/in/) "trending") is [not](/post/not/) [a](/post/a/) [standard](/post/standard/) [verb](/post/verb/) [form](/post/form/) [for](/post/for/) [this](/post/this/) [word](/post/word/). [However](/post/however/), [it](/post/it/) is [occasionally](/post/occasionally/) [used](/post/used/) informally [to](/post/to/) [mean](/post/mean/) [to](/post/to/) [become](/post/become/) [popular](/post/popular/) [or](/post/or/) [fashionable](/post/fashionable/), [or](/post/or/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [that](/post/that/) is currently [in](/post/in/) vogue.
 
 ## Phrases
-- "[On](/en/post/on/) [a](/en/post/a/) rising [trend](/en/post/trend/)" describes [something](/en/post/something/) [that](/en/post/that/) is increasing [in](/en/post/in/) popularity [or](/en/post/or/) [frequency](/en/post/frequency/).
-- "[Keep](/en/post/keep/) [up](/en/post/up/) [with](/en/post/with/) [the](/en/post/the/) latest trends" [means](/en/post/means/) [to](/en/post/to/) [stay](/en/post/stay/) informed [about](/en/post/about/) [current](/en/post/current/) styles [or](/en/post/or/) developments.
-- "[The](/en/post/the/) [fashion](/en/post/fashion/) [trend](/en/post/trend/)" refers [to](/en/post/to/) [a](/en/post/a/) [current](/en/post/current/) [clothing](/en/post/clothing/) [style](/en/post/style/).
+- "[On](/post/on/) [a](/post/a/) rising [trend](/post/trend/)" describes [something](/post/something/) [that](/post/that/) is increasing [in](/post/in/) popularity [or](/post/or/) [frequency](/post/frequency/).
+- "[Keep](/post/keep/) [up](/post/up/) [with](/post/with/) [the](/post/the/) latest trends" [means](/post/means/) [to](/post/to/) [stay](/post/stay/) informed [about](/post/about/) [current](/post/current/) styles [or](/post/or/) developments.
+- "[The](/post/the/) [fashion](/post/fashion/) [trend](/post/trend/)" refers [to](/post/to/) [a](/post/a/) [current](/post/current/) [clothing](/post/clothing/) [style](/post/style/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Social](/en/post/social/) media trends [change](/en/post/change/) [rapidly](/en/post/rapidly/), [with](/en/post/with/) [new](/en/post/new/) ones emerging [every](/en/post/every/) [season](/en/post/season/)."
-- **Informal [Verb](/en/post/verb/)**: "[This](/en/post/this/) [new](/en/post/new/) [song](/en/post/song/) has been trending [on](/en/post/on/) [the](/en/post/the/) [music](/en/post/music/) charts [for](/en/post/for/) weeks."
-- **Phrasal [Verb](/en/post/verb/)**: "It's [important](/en/post/important/) [to](/en/post/to/) [understand](/en/post/understand/) [the](/en/post/the/) [current](/en/post/current/) marketing trends [to](/en/post/to/) [stay](/en/post/stay/) competitive."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Social](/post/social/) media trends [change](/post/change/) [rapidly](/post/rapidly/), [with](/post/with/) [new](/post/new/) ones emerging [every](/post/every/) [season](/post/season/)."
+- **Informal [Verb](/post/verb/)**: "[This](/post/this/) [new](/post/new/) [song](/post/song/) has been trending [on](/post/on/) [the](/post/the/) [music](/post/music/) charts [for](/post/for/) weeks."
+- **Phrasal [Verb](/post/verb/)**: "It's [important](/post/important/) [to](/post/to/) [understand](/post/understand/) [the](/post/the/) [current](/post/current/) marketing trends [to](/post/to/) [stay](/post/stay/) competitive."
 
 ## Synonyms
-- [Fashion](/en/post/fashion/)
-- [Popular](/en/post/popular/) fad
-- [Movement](/en/post/movement/)
-- [Development](/en/post/development/)
-- [Flow](/en/post/flow/)
-- [Pattern](/en/post/pattern/)
-- [Upward](/en/post/upward/) [swing](/en/post/swing/)
+- [Fashion](/post/fashion/)
+- [Popular](/post/popular/) fad
+- [Movement](/post/movement/)
+- [Development](/post/development/)
+- [Flow](/post/flow/)
+- [Pattern](/post/pattern/)
+- [Upward](/post/upward/) [swing](/post/swing/)
 - Momentum
 
 ## Antonyms

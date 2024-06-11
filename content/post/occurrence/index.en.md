@@ -7,33 +7,33 @@ description = '[əˈkʌrəns] n.发生，出现；事件'
 keywords = ['ai words', 'occurrence']
 +++
 
-## [Word](/en/post/word/): [Occurrence](/en/post/occurrence/)
+## [Word](/post/word/): [Occurrence](/post/occurrence/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈkɜːrəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [instance](/en/post/instance/) [of](/en/post/of/) [something](/en/post/something/) happening [or](/en/post/or/) existing; an [event](/en/post/event/) [or](/en/post/or/) [incident](/en/post/incident/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [frequent](/en/post/frequent/) occurrences [of](/en/post/of/) wildfires [in](/en/post/in/) [the](/en/post/the/) [region](/en/post/region/) [have](/en/post/have/) raised concerns [among](/en/post/among/) environmentalists."
-  - *[In](/en/post/in/) [a](/en/post/a/) [scientific](/en/post/scientific/) context*: [A](/en/post/a/) recorded [instance](/en/post/instance/) [or](/en/post/or/) [observation](/en/post/observation/) [in](/en/post/in/) [data](/en/post/data/) [collection](/en/post/collection/) [or](/en/post/or/) [research](/en/post/research/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [high](/en/post/high/) [number](/en/post/number/) [of](/en/post/of/) occurrences [of](/en/post/of/) [this](/en/post/this/) species [in](/en/post/in/) [our](/en/post/our/) [study](/en/post/study/) [area](/en/post/area/) suggests it's thriving [here](/en/post/here/)."
-- **[Verb](/en/post/verb/) (intransitive)**: [To](/en/post/to/) [happen](/en/post/happen/) [or](/en/post/or/) [take](/en/post/take/) [place](/en/post/place/); [to](/en/post/to/) [come](/en/post/come/) [about](/en/post/about/). [For](/en/post/for/) [example](/en/post/example/): "[Unexpected](/en/post/unexpected/) occurrences [can](/en/post/can/) disrupt [even](/en/post/even/) [the](/en/post/the/) [most](/en/post/most/) carefully planned schedules."
+- **[Noun](/post/noun/)**: An [instance](/post/instance/) [of](/post/of/) [something](/post/something/) happening [or](/post/or/) existing; an [event](/post/event/) [or](/post/or/) [incident](/post/incident/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [frequent](/post/frequent/) occurrences [of](/post/of/) wildfires [in](/post/in/) [the](/post/the/) [region](/post/region/) [have](/post/have/) raised concerns [among](/post/among/) environmentalists."
+  - *[In](/post/in/) [a](/post/a/) [scientific](/post/scientific/) context*: [A](/post/a/) recorded [instance](/post/instance/) [or](/post/or/) [observation](/post/observation/) [in](/post/in/) [data](/post/data/) [collection](/post/collection/) [or](/post/or/) [research](/post/research/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [high](/post/high/) [number](/post/number/) [of](/post/of/) occurrences [of](/post/of/) [this](/post/this/) species [in](/post/in/) [our](/post/our/) [study](/post/study/) [area](/post/area/) suggests it's thriving [here](/post/here/)."
+- **[Verb](/post/verb/) (intransitive)**: [To](/post/to/) [happen](/post/happen/) [or](/post/or/) [take](/post/take/) [place](/post/place/); [to](/post/to/) [come](/post/come/) [about](/post/about/). [For](/post/for/) [example](/post/example/): "[Unexpected](/post/unexpected/) occurrences [can](/post/can/) disrupt [even](/post/even/) [the](/post/the/) [most](/post/most/) carefully planned schedules."
 
 ## Phrases
-- "[A](/en/post/a/) [rare](/en/post/rare/) [occurrence](/en/post/occurrence/)" implies [that](/en/post/that/) [something](/en/post/something/) does [not](/en/post/not/) [happen](/en/post/happen/) [very](/en/post/very/) [often](/en/post/often/).
-- "[In](/en/post/in/) [the](/en/post/the/) [event](/en/post/event/) [of](/en/post/of/) an [occurrence](/en/post/occurrence/)" is [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [if](/en/post/if/) [something](/en/post/something/) happens [or](/en/post/or/) takes [place](/en/post/place/).
-- "[Frequency](/en/post/frequency/) [of](/en/post/of/) [occurrence](/en/post/occurrence/)" refers [to](/en/post/to/) [how](/en/post/how/) [often](/en/post/often/) [something](/en/post/something/) happens.
+- "[A](/post/a/) [rare](/post/rare/) [occurrence](/post/occurrence/)" implies [that](/post/that/) [something](/post/something/) does [not](/post/not/) [happen](/post/happen/) [very](/post/very/) [often](/post/often/).
+- "[In](/post/in/) [the](/post/the/) [event](/post/event/) [of](/post/of/) an [occurrence](/post/occurrence/)" is [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [if](/post/if/) [something](/post/something/) happens [or](/post/or/) takes [place](/post/place/).
+- "[Frequency](/post/frequency/) [of](/post/of/) [occurrence](/post/occurrence/)" refers [to](/post/to/) [how](/post/how/) [often](/post/often/) [something](/post/something/) happens.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [occurrence](/en/post/occurrence/) [of](/en/post/of/) [severe](/en/post/severe/) storms has increased [due](/en/post/due/) [to](/en/post/to/) [climate](/en/post/climate/) [change](/en/post/change/)."
-- **[Verb](/en/post/verb/)**: "[It](/en/post/it/) was [only](/en/post/only/) [after](/en/post/after/) [her](/en/post/her/) promotion [that](/en/post/that/) [such](/en/post/such/) discrimination began [to](/en/post/to/) [occur](/en/post/occur/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [occurrence](/post/occurrence/) [of](/post/of/) [severe](/post/severe/) storms has increased [due](/post/due/) [to](/post/to/) [climate](/post/climate/) [change](/post/change/)."
+- **[Verb](/post/verb/)**: "[It](/post/it/) was [only](/post/only/) [after](/post/after/) [her](/post/her/) promotion [that](/post/that/) [such](/post/such/) discrimination began [to](/post/to/) [occur](/post/occur/)."
 
 ## Synonyms
-- [Event](/en/post/event/)
-- [Incident](/en/post/incident/)
+- [Event](/post/event/)
+- [Incident](/post/incident/)
 - Happening
 - Episode
-- [Instance](/en/post/instance/)
-- [Appearance](/en/post/appearance/)
-- [Encounter](/en/post/encounter/)
-- [Experience](/en/post/experience/)
+- [Instance](/post/instance/)
+- [Appearance](/post/appearance/)
+- [Encounter](/post/encounter/)
+- [Experience](/post/experience/)
 - Manifestation
 - Emergence

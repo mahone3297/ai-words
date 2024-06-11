@@ -7,43 +7,43 @@ description = '[səkˈses] n.成功，成就，胜利'
 keywords = ['ai words', 'success']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səkˈses/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Success](/en/post/success/)**: 1. [The](/en/post/the/) [achievement](/en/post/achievement/) [of](/en/post/of/) [a](/en/post/a/) desired [or](/en/post/or/) planned [outcome](/en/post/outcome/); favorable [result](/en/post/result/). 2. [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) achieves [such](/en/post/such/) results; [a](/en/post/a/) [winner](/en/post/winner/). 3. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) [successful](/en/post/successful/) [or](/en/post/or/) accomplishing [something](/en/post/something/).
+### [Noun](/post/noun/)
+- **[Success](/post/success/)**: 1. [The](/post/the/) [achievement](/post/achievement/) [of](/post/of/) [a](/post/a/) desired [or](/post/or/) planned [outcome](/post/outcome/); favorable [result](/post/result/). 2. [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) achieves [such](/post/such/) results; [a](/post/a/) [winner](/post/winner/). 3. [The](/post/the/) [act](/post/act/) [of](/post/of/) [being](/post/being/) [successful](/post/successful/) [or](/post/or/) accomplishing [something](/post/something/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [succeed](/en/post/succeed/)**: [To](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) [goal](/en/post/goal/) [or](/en/post/or/) [objective](/en/post/objective/); [attain](/en/post/attain/) [a](/en/post/a/) [level](/en/post/level/) [of](/en/post/of/) excellence [or](/en/post/or/) fulfillment.
+### [Verb](/post/verb/)
+- **[To](/post/to/) [succeed](/post/succeed/)**: [To](/post/to/) [achieve](/post/achieve/) [a](/post/a/) [goal](/post/goal/) [or](/post/or/) [objective](/post/objective/); [attain](/post/attain/) [a](/post/a/) [level](/post/level/) [of](/post/of/) excellence [or](/post/or/) fulfillment.
 
 ## Phrases
-- "[Achieve](/en/post/achieve/) [success](/en/post/success/)"
-- "[Succeed](/en/post/succeed/) [in](/en/post/in/) [something](/en/post/something/)"
-- "[A](/en/post/a/) [successful](/en/post/successful/) [career](/en/post/career/)"
-- "Strive [for](/en/post/for/) [success](/en/post/success/)"
-- "Failed [but](/en/post/but/) succeeded [in](/en/post/in/) trying"
+- "[Achieve](/post/achieve/) [success](/post/success/)"
+- "[Succeed](/post/succeed/) [in](/post/in/) [something](/post/something/)"
+- "[A](/post/a/) [successful](/post/successful/) [career](/post/career/)"
+- "Strive [for](/post/for/) [success](/post/success/)"
+- "Failed [but](/post/but/) succeeded [in](/post/in/) trying"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) years [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [he](/en/post/he/) [finally](/en/post/finally/) achieved [financial](/en/post/financial/) [success](/en/post/success/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [study](/en/post/study/) [abroad](/en/post/abroad/) [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [succeed](/en/post/succeed/) [in](/en/post/in/) [her](/en/post/her/) chosen [field](/en/post/field/)."
-- **Phrases**: "[Many](/en/post/many/) [people](/en/post/people/) aspire [to](/en/post/to/) [succeed](/en/post/succeed/) [not](/en/post/not/) [just](/en/post/just/) [in](/en/post/in/) [their](/en/post/their/) careers [but](/en/post/but/) [also](/en/post/also/) [in](/en/post/in/) [their](/en/post/their/) [personal](/en/post/personal/) lives."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) years [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) [finally](/post/finally/) achieved [financial](/post/financial/) [success](/post/success/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [study](/post/study/) [abroad](/post/abroad/) [in](/post/in/) [order](/post/order/) [to](/post/to/) [succeed](/post/succeed/) [in](/post/in/) [her](/post/her/) chosen [field](/post/field/)."
+- **Phrases**: "[Many](/post/many/) [people](/post/people/) aspire [to](/post/to/) [succeed](/post/succeed/) [not](/post/not/) [just](/post/just/) [in](/post/in/) [their](/post/their/) careers [but](/post/but/) [also](/post/also/) [in](/post/in/) [their](/post/their/) [personal](/post/personal/) lives."
 
 ## Synonyms
-- [Victory](/en/post/victory/)
-- [Triumph](/en/post/triumph/)
+- [Victory](/post/victory/)
+- [Triumph](/post/triumph/)
 - Accomplishment
 - Mastery
 - Excellence
-- [Victory](/en/post/victory/)
+- [Victory](/post/victory/)
 - Breakthrough
-- [Progress](/en/post/progress/)
+- [Progress](/post/progress/)
 - Fulfillment
-- [Success](/en/post/success/) [story](/en/post/story/)
+- [Success](/post/success/) [story](/post/story/)
 
 ## Antonyms
-- [Failure](/en/post/failure/)
-- [Defeat](/en/post/defeat/)
+- [Failure](/post/failure/)
+- [Defeat](/post/defeat/)
 - Decline
 - Misfortune
-- [Lack](/en/post/lack/) [of](/en/post/of/) [achievement](/en/post/achievement/)
+- [Lack](/post/lack/) [of](/post/of/) [achievement](/post/achievement/)

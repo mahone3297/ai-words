@@ -11,20 +11,20 @@ keywords = ['ai words', 'hopeful']
 /həˈpful/
 
 ## 释义
-- **形容词**: 表示有希望的，乐观的，充满期待的。例如: "[She](/post/she/) is [hopeful](/post/hopeful/) [that](/post/that/) [the](/post/the/) [situation](/post/situation/) [will](/post/will/) [improve](/post/improve/)."
-- **副词**: 表示带着希望地，抱有期望地。例如: "[He](/post/he/) worked [hopeful](/post/hopeful/) [for](/post/for/) [a](/post/a/) [better](/post/better/) [future](/post/future/)."
+- **形容词**: 表示有希望的，乐观的，充满期待的。例如: "[She](/zh/post/she/) is [hopeful](/zh/post/hopeful/) [that](/zh/post/that/) [the](/zh/post/the/) [situation](/zh/post/situation/) [will](/zh/post/will/) [improve](/zh/post/improve/)."
+- **副词**: 表示带着希望地，抱有期望地。例如: "[He](/zh/post/he/) worked [hopeful](/zh/post/hopeful/) [for](/zh/post/for/) [a](/zh/post/a/) [better](/zh/post/better/) [future](/zh/post/future/)."
 
 ## 短语
-- "[be](/post/be/) [hopeful](/post/hopeful/) [about](/post/about/)/[for](/post/for/) [something](/post/something/)" 意为对某事感到乐观或抱有希望。
-- "[remain](/post/remain/) [hopeful](/post/hopeful/)" 表示保持乐观的态度。
+- "[be](/zh/post/be/) [hopeful](/zh/post/hopeful/) [about](/zh/post/about/)/[for](/zh/post/for/) [something](/zh/post/something/)" 意为对某事感到乐观或抱有希望。
+- "[remain](/zh/post/remain/) [hopeful](/zh/post/hopeful/)" 表示保持乐观的态度。
 
 ## 例句
-- 形容词: "[Despite](/post/despite/) [the](/post/the/) challenges, [they](/post/they/) remained [hopeful](/post/hopeful/) [and](/post/and/) kept trying."
-- 副词: "[She](/post/she/) approached [the](/post/the/) [interview](/post/interview/) [hopeful](/post/hopeful/) [and](/post/and/) [confident](/post/confident/)."
+- 形容词: "[Despite](/zh/post/despite/) [the](/zh/post/the/) challenges, [they](/zh/post/they/) remained [hopeful](/zh/post/hopeful/) [and](/zh/post/and/) kept trying."
+- 副词: "[She](/zh/post/she/) approached [the](/zh/post/the/) [interview](/zh/post/interview/) [hopeful](/zh/post/hopeful/) [and](/zh/post/and/) [confident](/zh/post/confident/)."
 
 ## 同义词
-- [optimistic](/post/optimistic/)
-- [positive](/post/positive/)
-- [confident](/post/confident/)
+- [optimistic](/zh/post/optimistic/)
+- [positive](/zh/post/positive/)
+- [confident](/zh/post/confident/)
 - cheery
 - encouraging

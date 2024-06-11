@@ -7,35 +7,35 @@ description = '[ˈleiˌaut] n.布局，安排，设计'
 keywords = ['ai words', 'layout']
 +++
 
-# [Layout](/en/post/layout/)
+# [Layout](/post/layout/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈleɪ.aʊt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [arrangement](/en/post/arrangement/) [or](/en/post/or/) [design](/en/post/design/) [of](/en/post/of/) [something](/en/post/something/), typically printed [matter](/en/post/matter/) [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [page](/en/post/page/), [advertisement](/en/post/advertisement/), [or](/en/post/or/) [book](/en/post/book/); [the](/en/post/the/) [organization](/en/post/organization/) [or](/en/post/or/) placement [of](/en/post/of/) elements [on](/en/post/on/) [a](/en/post/a/) webpage [or](/en/post/or/) [application](/en/post/application/) [screen](/en/post/screen/). [Example](/en/post/example/): "[The](/en/post/the/) [magazine](/en/post/magazine/) has [a](/en/post/a/) [clean](/en/post/clean/) [and](/en/post/and/) [modern](/en/post/modern/) [layout](/en/post/layout/)."
-  - _noun_ ([in](/en/post/in/) [construction](/en/post/construction/)): [A](/en/post/a/) [plan](/en/post/plan/) showing [how](/en/post/how/) [something](/en/post/something/) [will](/en/post/will/) [be](/en/post/be/) arranged [or](/en/post/or/) constructed; [a](/en/post/a/) blueprint. [Example](/en/post/example/): "[The](/en/post/the/) architect presented [the](/en/post/the/) [building](/en/post/building/) [layout](/en/post/layout/) [to](/en/post/to/) [the](/en/post/the/) client."
-  - _noun_ ([in](/en/post/in/) events): [The](/en/post/the/) [way](/en/post/way/) [in](/en/post/in/) [which](/en/post/which/) things are [set](/en/post/set/) [up](/en/post/up/) [or](/en/post/or/) positioned [for](/en/post/for/) an [event](/en/post/event/). [Example](/en/post/example/): "[The](/en/post/the/) [wedding](/en/post/wedding/) [reception](/en/post/reception/) had [a](/en/post/a/) [beautiful](/en/post/beautiful/) [garden](/en/post/garden/) [layout](/en/post/layout/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [arrangement](/post/arrangement/) [or](/post/or/) [design](/post/design/) [of](/post/of/) [something](/post/something/), typically printed [matter](/post/matter/) [such](/post/such/) [as](/post/as/) [a](/post/a/) [page](/post/page/), [advertisement](/post/advertisement/), [or](/post/or/) [book](/post/book/); [the](/post/the/) [organization](/post/organization/) [or](/post/or/) placement [of](/post/of/) elements [on](/post/on/) [a](/post/a/) webpage [or](/post/or/) [application](/post/application/) [screen](/post/screen/). [Example](/post/example/): "[The](/post/the/) [magazine](/post/magazine/) has [a](/post/a/) [clean](/post/clean/) [and](/post/and/) [modern](/post/modern/) [layout](/post/layout/)."
+  - _noun_ ([in](/post/in/) [construction](/post/construction/)): [A](/post/a/) [plan](/post/plan/) showing [how](/post/how/) [something](/post/something/) [will](/post/will/) [be](/post/be/) arranged [or](/post/or/) constructed; [a](/post/a/) blueprint. [Example](/post/example/): "[The](/post/the/) architect presented [the](/post/the/) [building](/post/building/) [layout](/post/layout/) [to](/post/to/) [the](/post/the/) client."
+  - _noun_ ([in](/post/in/) events): [The](/post/the/) [way](/post/way/) [in](/post/in/) [which](/post/which/) things are [set](/post/set/) [up](/post/up/) [or](/post/or/) positioned [for](/post/for/) an [event](/post/event/). [Example](/post/example/): "[The](/post/the/) [wedding](/post/wedding/) [reception](/post/reception/) had [a](/post/a/) [beautiful](/post/beautiful/) [garden](/post/garden/) [layout](/post/layout/)."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) [organize](/en/post/organize/) [the](/en/post/the/) [layout](/en/post/layout/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) printed [or](/en/post/or/) [digital](/en/post/digital/) [material](/en/post/material/). [Example](/en/post/example/): "She's currently laying [out](/en/post/out/) [the](/en/post/the/) pages [for](/en/post/for/) [her](/en/post/her/) graphic [novel](/en/post/novel/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [arrange](/post/arrange/) [or](/post/or/) [organize](/post/organize/) [the](/post/the/) [layout](/post/layout/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) printed [or](/post/or/) [digital](/post/digital/) [material](/post/material/). [Example](/post/example/): "She's currently laying [out](/post/out/) [the](/post/the/) pages [for](/post/for/) [her](/post/her/) graphic [novel](/post/novel/)."
 
 ## Phrases
-- "[Design](/en/post/design/) [layout](/en/post/layout/)": [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) creating [a](/en/post/a/) [visual](/en/post/visual/) [composition](/en/post/composition/) [or](/en/post/or/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) elements.
-- "Desktop [layout](/en/post/layout/)": [The](/en/post/the/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) icons [and](/en/post/and/) windows [on](/en/post/on/) [a](/en/post/a/) [computer](/en/post/computer/) desktop.
-- "[Floor](/en/post/floor/) [layout](/en/post/layout/)": [The](/en/post/the/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) [furniture](/en/post/furniture/), [equipment](/en/post/equipment/), [or](/en/post/or/) exhibits [within](/en/post/within/) [a](/en/post/a/) [physical](/en/post/physical/) [space](/en/post/space/).
+- "[Design](/post/design/) [layout](/post/layout/)": [The](/post/the/) [process](/post/process/) [of](/post/of/) creating [a](/post/a/) [visual](/post/visual/) [composition](/post/composition/) [or](/post/or/) [arrangement](/post/arrangement/) [of](/post/of/) elements.
+- "Desktop [layout](/post/layout/)": [The](/post/the/) [arrangement](/post/arrangement/) [of](/post/of/) icons [and](/post/and/) windows [on](/post/on/) [a](/post/a/) [computer](/post/computer/) desktop.
+- "[Floor](/post/floor/) [layout](/post/layout/)": [The](/post/the/) [arrangement](/post/arrangement/) [of](/post/of/) [furniture](/post/furniture/), [equipment](/post/equipment/), [or](/post/or/) exhibits [within](/post/within/) [a](/post/a/) [physical](/post/physical/) [space](/post/space/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [interior](/en/post/interior/) [layout](/en/post/layout/) [of](/en/post/of/) [the](/en/post/the/) [apartment](/en/post/apartment/) maximizes [natural](/en/post/natural/) [light](/en/post/light/) [and](/en/post/and/) creates [a](/en/post/a/) spacious [feel](/en/post/feel/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [layout](/en/post/layout/) [the](/en/post/the/) [new](/en/post/new/) [office](/en/post/office/) [to](/en/post/to/) [ensure](/en/post/ensure/) [that](/en/post/that/) [it](/en/post/it/) promotes collaboration [among](/en/post/among/) [team](/en/post/team/) members."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [interior](/post/interior/) [layout](/post/layout/) [of](/post/of/) [the](/post/the/) [apartment](/post/apartment/) maximizes [natural](/post/natural/) [light](/post/light/) [and](/post/and/) creates [a](/post/a/) spacious [feel](/post/feel/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [layout](/post/layout/) [the](/post/the/) [new](/post/new/) [office](/post/office/) [to](/post/to/) [ensure](/post/ensure/) [that](/post/that/) [it](/post/it/) promotes collaboration [among](/post/among/) [team](/post/team/) members."
 
 ## Synonyms
-- [Arrangement](/en/post/arrangement/)
-- [Design](/en/post/design/)
+- [Arrangement](/post/arrangement/)
+- [Design](/post/design/)
 - Placement
 - Configuration
-- [Plan](/en/post/plan/)
+- [Plan](/post/plan/)
 - Blueprint
 - Formatting
 - Disposition
 - Setup
-- [Organization](/en/post/organization/)
+- [Organization](/post/organization/)

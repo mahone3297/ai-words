@@ -12,20 +12,20 @@ keywords = ['ai words', 'disclose']
 
 ## 释义
 - **动词**:
-  1. 公开透露；揭露：例如: "[The](/post/the/) [company](/post/company/) was forced [to](/post/to/) [disclose](/post/disclose/) [the](/post/the/) details [of](/post/of/) [the](/post/the/) [deal](/post/deal/)."
-  2. 使显露，揭示：例如: "[The](/post/the/) therapist helped [him](/post/him/) [disclose](/post/disclose/) [his](/post/his/) deepest emotions."
+  1. 公开透露；揭露：例如: "[The](/zh/post/the/) [company](/zh/post/company/) was forced [to](/zh/post/to/) [disclose](/zh/post/disclose/) [the](/zh/post/the/) details [of](/zh/post/of/) [the](/zh/post/the/) [deal](/zh/post/deal/)."
+  2. 使显露，揭示：例如: "[The](/zh/post/the/) therapist helped [him](/zh/post/him/) [disclose](/zh/post/disclose/) [his](/zh/post/his/) deepest emotions."
 
 ## 短语
-- "[disclose](/post/disclose/) [information](/post/information/)" 泄露信息
-- "[disclose](/post/disclose/) one's intentions" 表明意图
+- "[disclose](/zh/post/disclose/) [information](/zh/post/information/)" 泄露信息
+- "[disclose](/zh/post/disclose/) one's intentions" 表明意图
 
 ## 例句
-- "[The](/post/the/) [politician](/post/politician/) refused [to](/post/to/) [disclose](/post/disclose/) [his](/post/his/) sources [of](/post/of/) funding."
-- "[In](/post/in/) [the](/post/the/) therapy [session](/post/session/), [she](/post/she/) [finally](/post/finally/) disclosed [her](/post/her/) struggles [with](/post/with/) [anxiety](/post/anxiety/)."
+- "[The](/zh/post/the/) [politician](/zh/post/politician/) refused [to](/zh/post/to/) [disclose](/zh/post/disclose/) [his](/zh/post/his/) sources [of](/zh/post/of/) funding."
+- "[In](/zh/post/in/) [the](/zh/post/the/) therapy [session](/zh/post/session/), [she](/zh/post/she/) [finally](/zh/post/finally/) disclosed [her](/zh/post/her/) struggles [with](/zh/post/with/) [anxiety](/zh/post/anxiety/)."
 
 ## 同义词
-- [reveal](/post/reveal/)
-- [expose](/post/expose/)
-- [uncover](/post/uncover/)
+- [reveal](/zh/post/reveal/)
+- [expose](/zh/post/expose/)
+- [uncover](/zh/post/uncover/)
 - divulge
-- [make](/post/make/) known
+- [make](/zh/post/make/) known

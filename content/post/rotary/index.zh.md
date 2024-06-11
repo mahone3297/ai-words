@@ -11,21 +11,21 @@ keywords = ['ai words', 'rotary']
 /ˈrɑːtəri/
 
 ## 释义
-- **形容词**: 旋转的，回转的，围绕中心转动的。例如: "[The](/post/the/) [rotary](/post/rotary/) [engine](/post/engine/) has [a](/post/a/) [unique](/post/unique/) [design](/post/design/)."
-- **名词**: 旋转物，回转器，尤指电动旋转工具或设备。例如: "[She](/post/she/) [used](/post/used/) [a](/post/a/) [rotary](/post/rotary/) [phone](/post/phone/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [call](/post/call/)."
-- **名词**: 旋转式会议或活动，如 [Rotary](/post/rotary/) [Club](/post/club/)（扶轮社），一个国际服务组织。
+- **形容词**: 旋转的，回转的，围绕中心转动的。例如: "[The](/zh/post/the/) [rotary](/zh/post/rotary/) [engine](/zh/post/engine/) has [a](/zh/post/a/) [unique](/zh/post/unique/) [design](/zh/post/design/)."
+- **名词**: 旋转物，回转器，尤指电动旋转工具或设备。例如: "[She](/zh/post/she/) [used](/zh/post/used/) [a](/zh/post/a/) [rotary](/zh/post/rotary/) [phone](/zh/post/phone/) [to](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) [call](/zh/post/call/)."
+- **名词**: 旋转式会议或活动，如 [Rotary](/zh/post/rotary/) [Club](/zh/post/club/)（扶轮社），一个国际服务组织。
 
 ## 短语
-- "[rotary](/post/rotary/) [dial](/post/dial/)" 指的是旧式电话上的旋转拨号盘。
-- "[rotary](/post/rotary/) [engine](/post/engine/)" 是一种特殊类型的内燃机，其工作原理不同于传统的活塞发动机。
+- "[rotary](/zh/post/rotary/) [dial](/zh/post/dial/)" 指的是旧式电话上的旋转拨号盘。
+- "[rotary](/zh/post/rotary/) [engine](/zh/post/engine/)" 是一种特殊类型的内燃机，其工作原理不同于传统的活塞发动机。
 
 ## 例句
-- 形容词: "[The](/post/the/) windmill has [a](/post/a/) [rotary](/post/rotary/) [motion](/post/motion/) powered [by](/post/by/) [the](/post/the/) [wind](/post/wind/)."
-- 名词: "[He](/post/he/) joined [the](/post/the/) [local](/post/local/) [Rotary](/post/rotary/) [Club](/post/club/) [to](/post/to/) [engage](/post/engage/) [in](/post/in/) [community](/post/community/) [service](/post/service/)."
+- 形容词: "[The](/zh/post/the/) windmill has [a](/zh/post/a/) [rotary](/zh/post/rotary/) [motion](/zh/post/motion/) powered [by](/zh/post/by/) [the](/zh/post/the/) [wind](/zh/post/wind/)."
+- 名词: "[He](/zh/post/he/) joined [the](/zh/post/the/) [local](/zh/post/local/) [Rotary](/zh/post/rotary/) [Club](/zh/post/club/) [to](/zh/post/to/) [engage](/zh/post/engage/) [in](/zh/post/in/) [community](/zh/post/community/) [service](/zh/post/service/)."
 
 ## 同义词
 - Revolving
-- [Circular](/post/circular/)
+- [Circular](/zh/post/circular/)
 - Orbiting
 - Swiveling
 - Gyroscopic

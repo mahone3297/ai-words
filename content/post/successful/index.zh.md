@@ -11,20 +11,20 @@ keywords = ['ai words', 'successful']
 /səkˈsɛsfl/
 
 ## 释义
-- **形容词**: 成功的，达到预期目标的。例如: "[She](/post/she/) was [a](/post/a/) [successful](/post/successful/) businesswoman."
-- **副词**: 成功地，有效地。例如: "[He](/post/he/) executed [the](/post/the/) [plan](/post/plan/) [successfully](/post/successfully/)."
+- **形容词**: 成功的，达到预期目标的。例如: "[She](/zh/post/she/) was [a](/zh/post/a/) [successful](/zh/post/successful/) businesswoman."
+- **副词**: 成功地，有效地。例如: "[He](/zh/post/he/) executed [the](/zh/post/the/) [plan](/zh/post/plan/) [successfully](/zh/post/successfully/)."
 
 ## 短语
-- "[be](/post/be/) [successful](/post/successful/) [in](/post/in/) [something](/post/something/)" 在某事上成功。例如: "[She](/post/she/) was [successful](/post/successful/) [in](/post/in/) [her](/post/her/) [new](/post/new/) [job](/post/job/)."
-- "[to](/post/to/) [have](/post/have/) [a](/post/a/) [successful](/post/successful/) [career](/post/career/)" 拥有成功的事业。
+- "[be](/zh/post/be/) [successful](/zh/post/successful/) [in](/zh/post/in/) [something](/zh/post/something/)" 在某事上成功。例如: "[She](/zh/post/she/) was [successful](/zh/post/successful/) [in](/zh/post/in/) [her](/zh/post/her/) [new](/zh/post/new/) [job](/zh/post/job/)."
+- "[to](/zh/post/to/) [have](/zh/post/have/) [a](/zh/post/a/) [successful](/zh/post/successful/) [career](/zh/post/career/)" 拥有成功的事业。
 
 ## 例句
-- 形容词: "[His](/post/his/) [first](/post/first/) [novel](/post/novel/) became an [instant](/post/instant/) bestseller, making [him](/post/him/) [a](/post/a/) [successful](/post/successful/) [author](/post/author/)."
-- 副词: "[The](/post/the/) [team](/post/team/) [successfully](/post/successfully/) completed [the](/post/the/) [project](/post/project/) [within](/post/within/) [the](/post/the/) deadline."
+- 形容词: "[His](/zh/post/his/) [first](/zh/post/first/) [novel](/zh/post/novel/) became an [instant](/zh/post/instant/) bestseller, making [him](/zh/post/him/) [a](/zh/post/a/) [successful](/zh/post/successful/) [author](/zh/post/author/)."
+- 副词: "[The](/zh/post/the/) [team](/zh/post/team/) [successfully](/zh/post/successfully/) completed [the](/zh/post/the/) [project](/zh/post/project/) [within](/zh/post/within/) [the](/zh/post/the/) deadline."
 
 ## 同义词
 - Achieved
 - Accomplished
 - Attained
-- [Fruitful](/post/fruitful/)
-- [Prosperous](/post/prosperous/)
+- [Fruitful](/zh/post/fruitful/)
+- [Prosperous](/zh/post/prosperous/)

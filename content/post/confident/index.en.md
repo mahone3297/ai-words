@@ -7,34 +7,34 @@ description = '[ˈkɔnfidənt] n.确信的，自信的'
 keywords = ['ai words', 'confident']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkɒnfɪdənt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) self-assurance, [belief](/en/post/belief/) [in](/en/post/in/) one's abilities, [or](/en/post/or/) [confidence](/en/post/confidence/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [confident](/en/post/confident/) [in](/en/post/in/) [her](/en/post/her/) presentation skills."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is self-assured [and](/en/post/and/) [certain](/en/post/certain/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [confident](/en/post/confident/) [leader](/en/post/leader/) inspired [the](/en/post/the/) [team](/en/post/team/)."
+- **[Adjective](/post/adjective/)**: Having [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) self-assurance, [belief](/post/belief/) [in](/post/in/) one's abilities, [or](/post/or/) [confidence](/post/confidence/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [confident](/post/confident/) [in](/post/in/) [her](/post/her/) presentation skills."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is self-assured [and](/post/and/) [certain](/post/certain/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [confident](/post/confident/) [leader](/post/leader/) inspired [the](/post/the/) [team](/post/team/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [confident](/en/post/confident/) [about](/en/post/about/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [faith](/en/post/faith/) [or](/en/post/or/) [trust](/en/post/trust/) [in](/en/post/in/) [something](/en/post/something/).
-- "[Display](/en/post/display/) [confidence](/en/post/confidence/)" refers [to](/en/post/to/) showing assurance [or](/en/post/or/) self-belief.
-- "[Lack](/en/post/lack/) [of](/en/post/of/) [confidence](/en/post/confidence/)" implies [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) self-assurance [or](/en/post/or/) [belief](/en/post/belief/).
+- "[Be](/post/be/) [confident](/post/confident/) [about](/post/about/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [faith](/post/faith/) [or](/post/or/) [trust](/post/trust/) [in](/post/in/) [something](/post/something/).
+- "[Display](/post/display/) [confidence](/post/confidence/)" refers [to](/post/to/) showing assurance [or](/post/or/) self-belief.
+- "[Lack](/post/lack/) [of](/post/of/) [confidence](/post/confidence/)" implies [a](/post/a/) [lack](/post/lack/) [of](/post/of/) self-assurance [or](/post/or/) [belief](/post/belief/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) felt [confident](/en/post/confident/) [that](/en/post/that/) [her](/en/post/her/) [hard](/en/post/hard/) [work](/en/post/work/) [would](/en/post/would/) [pay](/en/post/pay/) [off](/en/post/off/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [confident](/en/post/confident/) [candidate](/en/post/candidate/) won [the](/en/post/the/) [election](/en/post/election/) [by](/en/post/by/) [a](/en/post/a/) landslide."
-- **[Sentence](/en/post/sentence/)**: "[He](/en/post/he/) regained [his](/en/post/his/) [confidence](/en/post/confidence/) [after](/en/post/after/) receiving [positive](/en/post/positive/) [feedback](/en/post/feedback/) [on](/en/post/on/) [his](/en/post/his/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) felt [confident](/post/confident/) [that](/post/that/) [her](/post/her/) [hard](/post/hard/) [work](/post/work/) [would](/post/would/) [pay](/post/pay/) [off](/post/off/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [confident](/post/confident/) [candidate](/post/candidate/) won [the](/post/the/) [election](/post/election/) [by](/post/by/) [a](/post/a/) landslide."
+- **[Sentence](/post/sentence/)**: "[He](/post/he/) regained [his](/post/his/) [confidence](/post/confidence/) [after](/post/after/) receiving [positive](/post/positive/) [feedback](/post/feedback/) [on](/post/on/) [his](/post/his/) [project](/post/project/)."
 
 ## Synonyms
 - Self-assured
 - Confidently
 - Assured
-- [Bold](/en/post/bold/)
-- [Certain](/en/post/certain/)
+- [Bold](/post/bold/)
+- [Certain](/post/certain/)
 - Trustworthy
 
 ## Antonyms
-- [Uncertain](/en/post/uncertain/)
+- [Uncertain](/post/uncertain/)
 - Insecure
-- [Timid](/en/post/timid/)
-- [Doubtful](/en/post/doubtful/)
+- [Timid](/post/timid/)
+- [Doubtful](/post/doubtful/)
 - Hesitant

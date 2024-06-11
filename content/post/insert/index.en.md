@@ -7,33 +7,33 @@ description = '[inˈsəːt] vt.插入; 嵌入; 登载'
 keywords = ['ai words', 'insert']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈsɜːrt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [place](/en/post/place/) [or](/en/post/or/) [put](/en/post/put/) [something](/en/post/something/) [into](/en/post/into/) [a](/en/post/a/) [position](/en/post/position/) [within](/en/post/within/) [something](/en/post/something/) [else](/en/post/else/); [often](/en/post/often/) [used](/en/post/used/) [when](/en/post/when/) referring [to](/en/post/to/) [text](/en/post/text/), images, [or](/en/post/or/) [data](/en/post/data/) [in](/en/post/in/) documents [or](/en/post/or/) [digital](/en/post/digital/) media. [For](/en/post/for/) [example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [insert](/en/post/insert/) [the](/en/post/the/) [missing](/en/post/missing/) [paragraph](/en/post/paragraph/) [into](/en/post/into/) [the](/en/post/the/) [report](/en/post/report/)."
-  - *[Also](/en/post/also/)*: [To](/en/post/to/) [introduce](/en/post/introduce/) [or](/en/post/or/) [add](/en/post/add/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [into](/en/post/into/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [group](/en/post/group/). "[The](/en/post/the/) [new](/en/post/new/) [employee](/en/post/employee/) was [smoothly](/en/post/smoothly/) inserted [into](/en/post/into/) [the](/en/post/the/) [team](/en/post/team/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [place](/post/place/) [or](/post/or/) [put](/post/put/) [something](/post/something/) [into](/post/into/) [a](/post/a/) [position](/post/position/) [within](/post/within/) [something](/post/something/) [else](/post/else/); [often](/post/often/) [used](/post/used/) [when](/post/when/) referring [to](/post/to/) [text](/post/text/), images, [or](/post/or/) [data](/post/data/) [in](/post/in/) documents [or](/post/or/) [digital](/post/digital/) media. [For](/post/for/) [example](/post/example/): "I [need](/post/need/) [to](/post/to/) [insert](/post/insert/) [the](/post/the/) [missing](/post/missing/) [paragraph](/post/paragraph/) [into](/post/into/) [the](/post/the/) [report](/post/report/)."
+  - *[Also](/post/also/)*: [To](/post/to/) [introduce](/post/introduce/) [or](/post/or/) [add](/post/add/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [into](/post/into/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [group](/post/group/). "[The](/post/the/) [new](/post/new/) [employee](/post/employee/) was [smoothly](/post/smoothly/) inserted [into](/post/into/) [the](/post/the/) [team](/post/team/)."
   
-- **[Noun](/en/post/noun/)**: (n) [Something](/en/post/something/) [that](/en/post/that/) is placed [or](/en/post/or/) inserted, [especially](/en/post/especially/) [a](/en/post/a/) [piece](/en/post/piece/) [or](/en/post/or/) [part](/en/post/part/) added [to](/en/post/to/) [complete](/en/post/complete/) [or](/en/post/or/) [supplement](/en/post/supplement/) [something](/en/post/something/) [else](/en/post/else/). [For](/en/post/for/) [example](/en/post/example/): "An [insert](/en/post/insert/) [for](/en/post/for/) [a](/en/post/a/) CD [case](/en/post/case/)."
+- **[Noun](/post/noun/)**: (n) [Something](/post/something/) [that](/post/that/) is placed [or](/post/or/) inserted, [especially](/post/especially/) [a](/post/a/) [piece](/post/piece/) [or](/post/or/) [part](/post/part/) added [to](/post/to/) [complete](/post/complete/) [or](/post/or/) [supplement](/post/supplement/) [something](/post/something/) [else](/post/else/). [For](/post/for/) [example](/post/example/): "An [insert](/post/insert/) [for](/post/for/) [a](/post/a/) CD [case](/post/case/)."
 
 ## Phrases
-- "[Insert](/en/post/insert/) [something](/en/post/something/) [into](/en/post/into/) [something](/en/post/something/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [when](/en/post/when/) talking [about](/en/post/about/) physically placing [one](/en/post/one/) [object](/en/post/object/) [inside](/en/post/inside/) [another](/en/post/another/) [or](/en/post/or/) adding [content](/en/post/content/) [to](/en/post/to/) [a](/en/post/a/) [document](/en/post/document/). [Example](/en/post/example/): "[Please](/en/post/please/) [insert](/en/post/insert/) [the](/en/post/the/) [disk](/en/post/disk/) [into](/en/post/into/) [the](/en/post/the/) [drive](/en/post/drive/)."
-- "[Insert](/en/post/insert/) [yourself](/en/post/yourself/) [into](/en/post/into/) [a](/en/post/a/) [conversation](/en/post/conversation/)": [This](/en/post/this/) [means](/en/post/means/) [to](/en/post/to/) [participate](/en/post/participate/) [or](/en/post/or/) [join](/en/post/join/) [in](/en/post/in/) [a](/en/post/a/) [discussion](/en/post/discussion/) [that](/en/post/that/) was [already](/en/post/already/) happening. [Example](/en/post/example/): "Don't [hesitate](/en/post/hesitate/) [to](/en/post/to/) [insert](/en/post/insert/) [yourself](/en/post/yourself/) [into](/en/post/into/) [the](/en/post/the/) [debate](/en/post/debate/) [if](/en/post/if/) [you](/en/post/you/) [have](/en/post/have/) [something](/en/post/something/) [valuable](/en/post/valuable/) [to](/en/post/to/) [contribute](/en/post/contribute/)."
+- "[Insert](/post/insert/) [something](/post/something/) [into](/post/into/) [something](/post/something/)": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [when](/post/when/) talking [about](/post/about/) physically placing [one](/post/one/) [object](/post/object/) [inside](/post/inside/) [another](/post/another/) [or](/post/or/) adding [content](/post/content/) [to](/post/to/) [a](/post/a/) [document](/post/document/). [Example](/post/example/): "[Please](/post/please/) [insert](/post/insert/) [the](/post/the/) [disk](/post/disk/) [into](/post/into/) [the](/post/the/) [drive](/post/drive/)."
+- "[Insert](/post/insert/) [yourself](/post/yourself/) [into](/post/into/) [a](/post/a/) [conversation](/post/conversation/)": [This](/post/this/) [means](/post/means/) [to](/post/to/) [participate](/post/participate/) [or](/post/or/) [join](/post/join/) [in](/post/in/) [a](/post/a/) [discussion](/post/discussion/) [that](/post/that/) was [already](/post/already/) happening. [Example](/post/example/): "Don't [hesitate](/post/hesitate/) [to](/post/to/) [insert](/post/insert/) [yourself](/post/yourself/) [into](/post/into/) [the](/post/the/) [debate](/post/debate/) [if](/post/if/) [you](/post/you/) [have](/post/have/) [something](/post/something/) [valuable](/post/valuable/) [to](/post/to/) [contribute](/post/contribute/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully inserted [the](/en/post/the/) [key](/en/post/key/) [into](/en/post/into/) [the](/en/post/the/) [lock](/en/post/lock/)."
-- "[After](/en/post/after/) editing, [he](/en/post/he/) inserted [the](/en/post/the/) revised [data](/en/post/data/) [into](/en/post/into/) [the](/en/post/the/) spreadsheet."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [advertisement](/en/post/advertisement/) was printed [as](/en/post/as/) [a](/en/post/a/) [paper](/en/post/paper/) [insert](/en/post/insert/) [in](/en/post/in/) [the](/en/post/the/) [magazine](/en/post/magazine/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully inserted [the](/post/the/) [key](/post/key/) [into](/post/into/) [the](/post/the/) [lock](/post/lock/)."
+- "[After](/post/after/) editing, [he](/post/he/) inserted [the](/post/the/) revised [data](/post/data/) [into](/post/into/) [the](/post/the/) spreadsheet."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [advertisement](/post/advertisement/) was printed [as](/post/as/) [a](/post/a/) [paper](/post/paper/) [insert](/post/insert/) [in](/post/in/) [the](/post/the/) [magazine](/post/magazine/)."
 
 ## Synonyms
-- [Place](/en/post/place/)
-- [Put](/en/post/put/)
-- [Add](/en/post/add/)
-- [Introduce](/en/post/introduce/)
-- [Include](/en/post/include/)
+- [Place](/post/place/)
+- [Put](/post/put/)
+- [Add](/post/add/)
+- [Introduce](/post/introduce/)
+- [Include](/post/include/)
 - Embed
-- Enfold ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- [Slip](/en/post/slip/) [in](/en/post/in/) (informal)
-- [Tuck](/en/post/tuck/) [in](/en/post/in/) ([for](/en/post/for/) [physical](/en/post/physical/) insertion)
-- Affix ([more](/en/post/more/) [formal](/en/post/formal/), [often](/en/post/often/) [used](/en/post/used/) [with](/en/post/with/) documents [or](/en/post/or/) labels)
-- Append (typically [for](/en/post/for/) adding [information](/en/post/information/) [to](/en/post/to/) [a](/en/post/a/) [document](/en/post/document/))
+- Enfold ([in](/post/in/) [certain](/post/certain/) contexts)
+- [Slip](/post/slip/) [in](/post/in/) (informal)
+- [Tuck](/post/tuck/) [in](/post/in/) ([for](/post/for/) [physical](/post/physical/) insertion)
+- Affix ([more](/post/more/) [formal](/post/formal/), [often](/post/often/) [used](/post/used/) [with](/post/with/) documents [or](/post/or/) labels)
+- Append (typically [for](/post/for/) adding [information](/post/information/) [to](/post/to/) [a](/post/a/) [document](/post/document/))

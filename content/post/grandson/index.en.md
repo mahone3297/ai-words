@@ -7,31 +7,31 @@ description = '[ˈgrændsʌn] n.孙子，外孙子'
 keywords = ['ai words', 'grandson']
 +++
 
-## [Word](/en/post/word/): [Grandson](/en/post/grandson/)
+## [Word](/post/word/): [Grandson](/post/grandson/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡrænsʌn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [son](/en/post/son/) [of](/en/post/of/) one's [own](/en/post/own/) [child](/en/post/child/), [especially](/en/post/especially/) [a](/en/post/a/) [male](/en/post/male/) offspring [of](/en/post/of/) one's [son](/en/post/son/) [or](/en/post/or/) [daughter](/en/post/daughter/). 
+- **[Noun](/post/noun/)**: [A](/post/a/) [son](/post/son/) [of](/post/of/) one's [own](/post/own/) [child](/post/child/), [especially](/post/especially/) [a](/post/a/) [male](/post/male/) offspring [of](/post/of/) one's [son](/post/son/) [or](/post/or/) [daughter](/post/daughter/). 
 
-### [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I was delighted [when](/en/post/when/) [my](/en/post/my/) [grandson](/en/post/grandson/) arrived [from](/en/post/from/) [out](/en/post/out/) [of](/en/post/of/) [town](/en/post/town/) [to](/en/post/to/) [spend](/en/post/spend/) [the](/en/post/the/) holidays [with](/en/post/with/) [us](/en/post/us/)."
-- "[The](/en/post/the/) [old](/en/post/old/) [man](/en/post/man/) [left](/en/post/left/) [his](/en/post/his/) [entire](/en/post/entire/) inheritance [to](/en/post/to/) [his](/en/post/his/) [only](/en/post/only/) [grandson](/en/post/grandson/)."
-- "Sarah's [grandson](/en/post/grandson/) inherited [her](/en/post/her/) [love](/en/post/love/) [for](/en/post/for/) [painting](/en/post/painting/)."
+### [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I was delighted [when](/post/when/) [my](/post/my/) [grandson](/post/grandson/) arrived [from](/post/from/) [out](/post/out/) [of](/post/of/) [town](/post/town/) [to](/post/to/) [spend](/post/spend/) [the](/post/the/) holidays [with](/post/with/) [us](/post/us/)."
+- "[The](/post/the/) [old](/post/old/) [man](/post/man/) [left](/post/left/) [his](/post/his/) [entire](/post/entire/) inheritance [to](/post/to/) [his](/post/his/) [only](/post/only/) [grandson](/post/grandson/)."
+- "Sarah's [grandson](/post/grandson/) inherited [her](/post/her/) [love](/post/love/) [for](/post/for/) [painting](/post/painting/)."
 
 ## Phrases
-- "Grandson-in-law": [The](/en/post/the/) [husband](/en/post/husband/) [of](/en/post/of/) one's [granddaughter](/en/post/granddaughter/).
-- "Grandson-to-be": Refers [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is expected [to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) [grandson](/en/post/grandson/) [through](/en/post/through/) [the](/en/post/the/) [birth](/en/post/birth/) [or](/en/post/or/) adoption [of](/en/post/of/) [a](/en/post/a/) [child](/en/post/child/).
+- "Grandson-in-law": [The](/post/the/) [husband](/post/husband/) [of](/post/of/) one's [granddaughter](/post/granddaughter/).
+- "Grandson-to-be": Refers [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) is expected [to](/post/to/) [become](/post/become/) [a](/post/a/) [grandson](/post/grandson/) [through](/post/through/) [the](/post/the/) [birth](/post/birth/) [or](/post/or/) adoption [of](/post/of/) [a](/post/a/) [child](/post/child/).
   
 ## Synonyms
-- Grandchild ([more](/en/post/more/) [general](/en/post/general/) [term](/en/post/term/))
+- Grandchild ([more](/post/more/) [general](/post/general/) [term](/post/term/))
 - Descendant
-- [Male](/en/post/male/) descendant
-- [Junior](/en/post/junior/) [relative](/en/post/relative/)
-- [Next](/en/post/next/) [generation](/en/post/generation/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [family](/en/post/family/))
+- [Male](/post/male/) descendant
+- [Junior](/post/junior/) [relative](/post/relative/)
+- [Next](/post/next/) [generation](/post/generation/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [family](/post/family/))
 
-## [Usage](/en/post/usage/) [in](/en/post/in/) idiomatic expressions
-- [There](/en/post/there/) aren't [any](/en/post/any/) [common](/en/post/common/) idiomatic expressions [that](/en/post/that/) specifically revolve [around](/en/post/around/) [the](/en/post/the/) [word](/en/post/word/) "[grandson](/en/post/grandson/)". [However](/en/post/however/), [it](/en/post/it/) [often](/en/post/often/) appears [in](/en/post/in/) [everyday](/en/post/everyday/) expressions describing familial relationships [or](/en/post/or/) generational [succession](/en/post/succession/), e.g., "passing [down](/en/post/down/) traditions [to](/en/post/to/) [future](/en/post/future/) generations [like](/en/post/like/) [teaching](/en/post/teaching/) [your](/en/post/your/) [grandson](/en/post/grandson/) [how](/en/post/how/) [to](/en/post/to/) [fish](/en/post/fish/)." 
+## [Usage](/post/usage/) [in](/post/in/) idiomatic expressions
+- [There](/post/there/) aren't [any](/post/any/) [common](/post/common/) idiomatic expressions [that](/post/that/) specifically revolve [around](/post/around/) [the](/post/the/) [word](/post/word/) "[grandson](/post/grandson/)". [However](/post/however/), [it](/post/it/) [often](/post/often/) appears [in](/post/in/) [everyday](/post/everyday/) expressions describing familial relationships [or](/post/or/) generational [succession](/post/succession/), e.g., "passing [down](/post/down/) traditions [to](/post/to/) [future](/post/future/) generations [like](/post/like/) [teaching](/post/teaching/) [your](/post/your/) [grandson](/post/grandson/) [how](/post/how/) [to](/post/to/) [fish](/post/fish/)." 
 
-[Note](/en/post/note/): [Unlike](/en/post/unlike/) "[hello](/en/post/hello/)," [which](/en/post/which/) [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [verb](/en/post/verb/), [or](/en/post/or/) interjection, "[grandson](/en/post/grandson/)" [primarily](/en/post/primarily/) functions [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) denoting [a](/en/post/a/) [specific](/en/post/specific/) familial [relationship](/en/post/relationship/). [It](/en/post/it/) does [not](/en/post/not/) [have](/en/post/have/) [verb](/en/post/verb/) [or](/en/post/or/) adjectival forms [nor](/en/post/nor/) does [it](/en/post/it/) typically [serve](/en/post/serve/) [as](/en/post/as/) an interjection.
+[Note](/post/note/): [Unlike](/post/unlike/) "[hello](/post/hello/)," [which](/post/which/) [can](/post/can/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [verb](/post/verb/), [or](/post/or/) interjection, "[grandson](/post/grandson/)" [primarily](/post/primarily/) functions [as](/post/as/) [a](/post/a/) [noun](/post/noun/) denoting [a](/post/a/) [specific](/post/specific/) familial [relationship](/post/relationship/). [It](/post/it/) does [not](/post/not/) [have](/post/have/) [verb](/post/verb/) [or](/post/or/) adjectival forms [nor](/post/nor/) does [it](/post/it/) typically [serve](/post/serve/) [as](/post/as/) an interjection.

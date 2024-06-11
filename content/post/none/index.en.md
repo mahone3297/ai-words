@@ -7,26 +7,26 @@ description = '[nʌn] pron.没有人 ad.毫不'
 keywords = ['ai words', 'none']
 +++
 
-## [Word](/en/post/word/): [None](/en/post/none/)
+## [Word](/post/word/): [None](/post/none/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /naʊn/
 
 ## Definitions
-- **Determiner**: [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/) [something](/en/post/something/) [or](/en/post/or/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [no](/en/post/no/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [in](/en/post/in/) [particular](/en/post/particular/). [For](/en/post/for/) [example](/en/post/example/): "[None](/en/post/none/) [of](/en/post/of/) [the](/en/post/the/) books were [interesting](/en/post/interesting/)."
-- **[Pronoun](/en/post/pronoun/)**: [A](/en/post/a/) [word](/en/post/word/) [that](/en/post/that/) takes [the](/en/post/the/) [place](/en/post/place/) [of](/en/post/of/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [noun](/en/post/noun/) [phrase](/en/post/phrase/), [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [zero](/en/post/zero/) [or](/en/post/or/) [not](/en/post/not/) [any](/en/post/any/) members [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) category [apply](/en/post/apply/). [For](/en/post/for/) [example](/en/post/example/): "[None](/en/post/none/) [of](/en/post/of/) [them](/en/post/them/) came [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/)."
+- **Determiner**: [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [absence](/post/absence/) [of](/post/of/) [something](/post/something/) [or](/post/or/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [no](/post/no/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [in](/post/in/) [particular](/post/particular/). [For](/post/for/) [example](/post/example/): "[None](/post/none/) [of](/post/of/) [the](/post/the/) books were [interesting](/post/interesting/)."
+- **[Pronoun](/post/pronoun/)**: [A](/post/a/) [word](/post/word/) [that](/post/that/) takes [the](/post/the/) [place](/post/place/) [of](/post/of/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [noun](/post/noun/) [phrase](/post/phrase/), [often](/post/often/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [zero](/post/zero/) [or](/post/or/) [not](/post/not/) [any](/post/any/) members [of](/post/of/) [a](/post/a/) [group](/post/group/) [or](/post/or/) category [apply](/post/apply/). [For](/post/for/) [example](/post/example/): "[None](/post/none/) [of](/post/of/) [them](/post/them/) came [to](/post/to/) [the](/post/the/) [party](/post/party/)."
 
 ### Phrases
-- "[None](/en/post/none/) [but](/en/post/but/) [the](/en/post/the/) [brave](/en/post/brave/) [deserve](/en/post/deserve/) [the](/en/post/the/) [fair](/en/post/fair/)" implies [only](/en/post/only/) [the](/en/post/the/) bravest [people](/en/post/people/) [deserve](/en/post/deserve/) [the](/en/post/the/) [best](/en/post/best/) things [in](/en/post/in/) [life](/en/post/life/).
-- "[None](/en/post/none/) [other](/en/post/other/) [than](/en/post/than/)" is [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [who](/en/post/who/) [or](/en/post/or/) [what](/en/post/what/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) is. [For](/en/post/for/) [example](/en/post/example/): "[It](/en/post/it/) was [none](/en/post/none/) [other](/en/post/other/) [than](/en/post/than/) [the](/en/post/the/) [famous](/en/post/famous/) [author](/en/post/author/) [herself](/en/post/herself/) [who](/en/post/who/) called [me](/en/post/me/)."
+- "[None](/post/none/) [but](/post/but/) [the](/post/the/) [brave](/post/brave/) [deserve](/post/deserve/) [the](/post/the/) [fair](/post/fair/)" implies [only](/post/only/) [the](/post/the/) bravest [people](/post/people/) [deserve](/post/deserve/) [the](/post/the/) [best](/post/best/) things [in](/post/in/) [life](/post/life/).
+- "[None](/post/none/) [other](/post/other/) [than](/post/than/)" is [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [who](/post/who/) [or](/post/or/) [what](/post/what/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) is. [For](/post/for/) [example](/post/example/): "[It](/post/it/) was [none](/post/none/) [other](/post/other/) [than](/post/than/) [the](/post/the/) [famous](/post/famous/) [author](/post/author/) [herself](/post/herself/) [who](/post/who/) called [me](/post/me/)."
   
-## [Example](/en/post/example/) Sentences
-- **Determiner**: "[There](/en/post/there/) were [many](/en/post/many/) candidates, [but](/en/post/but/) [none](/en/post/none/) had [the](/en/post/the/) required qualifications."
-- **[Pronoun](/en/post/pronoun/)**: "I invited [several](/en/post/several/) friends [over](/en/post/over/), [but](/en/post/but/) [none](/en/post/none/) showed [up](/en/post/up/)."
+## [Example](/post/example/) Sentences
+- **Determiner**: "[There](/post/there/) were [many](/post/many/) candidates, [but](/post/but/) [none](/post/none/) had [the](/post/the/) required qualifications."
+- **[Pronoun](/post/pronoun/)**: "I invited [several](/post/several/) friends [over](/post/over/), [but](/post/but/) [none](/post/none/) showed [up](/post/up/)."
 
 ## Synonyms
-- [No](/en/post/no/) [one](/en/post/one/)
-- [Not](/en/post/not/) [any](/en/post/any/)
-- [Nobody](/en/post/nobody/)
-- [Nothing](/en/post/nothing/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- [Not](/en/post/not/) [a](/en/post/a/) [single](/en/post/single/) ([one](/en/post/one/))
+- [No](/post/no/) [one](/post/one/)
+- [Not](/post/not/) [any](/post/any/)
+- [Nobody](/post/nobody/)
+- [Nothing](/post/nothing/) ([in](/post/in/) [certain](/post/certain/) contexts)
+- [Not](/post/not/) [a](/post/a/) [single](/post/single/) ([one](/post/one/))

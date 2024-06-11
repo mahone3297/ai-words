@@ -7,34 +7,34 @@ description = '[rəuˈtei∫ən] n.旋转，转动；循环'
 keywords = ['ai words', 'rotation']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈrəʊtəʃn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) rotating, [turning](/en/post/turning/) [around](/en/post/around/) [a](/en/post/a/) [central](/en/post/central/) [axis](/en/post/axis/). 2. [A](/en/post/a/) [sequence](/en/post/sequence/) [of](/en/post/of/) [people](/en/post/people/) [or](/en/post/or/) things taking turns [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/) [or](/en/post/or/) [position](/en/post/position/). 3. (Computers) [The](/en/post/the/) [movement](/en/post/movement/) [of](/en/post/of/) [data](/en/post/data/) [from](/en/post/from/) [one](/en/post/one/) [storage](/en/post/storage/) [location](/en/post/location/) [to](/en/post/to/) [another](/en/post/another/) [in](/en/post/in/) [a](/en/post/a/) [circular](/en/post/circular/) [manner](/en/post/manner/). 4. ([Mathematics](/en/post/mathematics/)) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) changing [the](/en/post/the/) orientation [of](/en/post/of/) an [object](/en/post/object/) [in](/en/post/in/) [a](/en/post/a/) [plane](/en/post/plane/) [or](/en/post/or/) [space](/en/post/space/) [by](/en/post/by/) [a](/en/post/a/) specified [angle](/en/post/angle/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [cause](/en/post/cause/) [to](/en/post/to/) [move](/en/post/move/) [in](/en/post/in/) [a](/en/post/a/) [circular](/en/post/circular/) [or](/en/post/or/) rotatory [motion](/en/post/motion/). 2. [To](/en/post/to/) [change](/en/post/change/) positions [or](/en/post/or/) roles periodically.
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) rotating, [turning](/post/turning/) [around](/post/around/) [a](/post/a/) [central](/post/central/) [axis](/post/axis/). 2. [A](/post/a/) [sequence](/post/sequence/) [of](/post/of/) [people](/post/people/) [or](/post/or/) things taking turns [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/) [or](/post/or/) [position](/post/position/). 3. (Computers) [The](/post/the/) [movement](/post/movement/) [of](/post/of/) [data](/post/data/) [from](/post/from/) [one](/post/one/) [storage](/post/storage/) [location](/post/location/) [to](/post/to/) [another](/post/another/) [in](/post/in/) [a](/post/a/) [circular](/post/circular/) [manner](/post/manner/). 4. ([Mathematics](/post/mathematics/)) [The](/post/the/) [act](/post/act/) [of](/post/of/) changing [the](/post/the/) orientation [of](/post/of/) an [object](/post/object/) [in](/post/in/) [a](/post/a/) [plane](/post/plane/) [or](/post/or/) [space](/post/space/) [by](/post/by/) [a](/post/a/) specified [angle](/post/angle/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [move](/post/move/) [or](/post/or/) [cause](/post/cause/) [to](/post/to/) [move](/post/move/) [in](/post/in/) [a](/post/a/) [circular](/post/circular/) [or](/post/or/) rotatory [motion](/post/motion/). 2. [To](/post/to/) [change](/post/change/) positions [or](/post/or/) roles periodically.
 
 ## Phrases
-- "[Rotate](/en/post/rotate/) [the](/en/post/the/) [wheel](/en/post/wheel/)" [means](/en/post/means/) [to](/en/post/to/) [turn](/en/post/turn/) [the](/en/post/the/) [wheel](/en/post/wheel/) [in](/en/post/in/) [a](/en/post/a/) [circular](/en/post/circular/) [motion](/en/post/motion/).
-- "[Shift](/en/post/shift/) [the](/en/post/the/) [rotation](/en/post/rotation/)" refers [to](/en/post/to/) changing [the](/en/post/the/) [order](/en/post/order/) [or](/en/post/or/) [sequence](/en/post/sequence/).
-- "24-hour [rotation](/en/post/rotation/)" describes [a](/en/post/a/) [system](/en/post/system/) [where](/en/post/where/) tasks are done [in](/en/post/in/) [a](/en/post/a/) [continuous](/en/post/continuous/) [cycle](/en/post/cycle/) [throughout](/en/post/throughout/) [the](/en/post/the/) [day](/en/post/day/).
+- "[Rotate](/post/rotate/) [the](/post/the/) [wheel](/post/wheel/)" [means](/post/means/) [to](/post/to/) [turn](/post/turn/) [the](/post/the/) [wheel](/post/wheel/) [in](/post/in/) [a](/post/a/) [circular](/post/circular/) [motion](/post/motion/).
+- "[Shift](/post/shift/) [the](/post/the/) [rotation](/post/rotation/)" refers [to](/post/to/) changing [the](/post/the/) [order](/post/order/) [or](/post/or/) [sequence](/post/sequence/).
+- "24-hour [rotation](/post/rotation/)" describes [a](/post/a/) [system](/post/system/) [where](/post/where/) tasks are done [in](/post/in/) [a](/post/a/) [continuous](/post/continuous/) [cycle](/post/cycle/) [throughout](/post/throughout/) [the](/post/the/) [day](/post/day/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) windmill's [rotation](/en/post/rotation/) generated [electricity](/en/post/electricity/) [for](/en/post/for/) [the](/en/post/the/) [nearby](/en/post/nearby/) [village](/en/post/village/)."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) [the](/en/post/the/) [game](/en/post/game/), players [take](/en/post/take/) turns rotating [the](/en/post/the/) [board](/en/post/board/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [phrase](/en/post/phrase/)**: "[The](/en/post/the/) employees [work](/en/post/work/) [in](/en/post/in/) [a](/en/post/a/) six-month [rotation](/en/post/rotation/), alternating [between](/en/post/between/) [office](/en/post/office/) [and](/en/post/and/) [field](/en/post/field/) assignments."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) windmill's [rotation](/post/rotation/) generated [electricity](/post/electricity/) [for](/post/for/) [the](/post/the/) [nearby](/post/nearby/) [village](/post/village/)."
+- **[Verb](/post/verb/)**: "[In](/post/in/) [the](/post/the/) [game](/post/game/), players [take](/post/take/) turns rotating [the](/post/the/) [board](/post/board/)."
+- **[As](/post/as/) [a](/post/a/) [verb](/post/verb/) [phrase](/post/phrase/)**: "[The](/post/the/) employees [work](/post/work/) [in](/post/in/) [a](/post/a/) six-month [rotation](/post/rotation/), alternating [between](/post/between/) [office](/post/office/) [and](/post/and/) [field](/post/field/) assignments."
 
 ## Synonyms
-- [Turn](/en/post/turn/)
-- [Spin](/en/post/spin/)
+- [Turn](/post/turn/)
+- [Spin](/post/spin/)
 - Revolve
-- [Cycle](/en/post/cycle/)
-- [Shift](/en/post/shift/)
-- [Change](/en/post/change/) places
+- [Cycle](/post/cycle/)
+- [Shift](/post/shift/)
+- [Change](/post/change/) places
 - Alternation
-- [Sequence](/en/post/sequence/)
+- [Sequence](/post/sequence/)
 
 ## Antonyms
-- [Stand](/en/post/stand/) [still](/en/post/still/)
-- [Stay](/en/post/stay/) [put](/en/post/put/)
-- [Maintain](/en/post/maintain/) [position](/en/post/position/)
+- [Stand](/post/stand/) [still](/post/still/)
+- [Stay](/post/stay/) [put](/post/put/)
+- [Maintain](/post/maintain/) [position](/post/position/)

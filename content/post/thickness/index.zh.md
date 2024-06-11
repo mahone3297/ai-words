@@ -11,19 +11,19 @@ keywords = ['ai words', 'thickness']
 /ˈθɪknəs/
 
 ## 释义
-- **名词**: 物体或材料的厚度或稠度。例如: "[The](/post/the/) [wall](/post/wall/) has [a](/post/a/) [thickness](/post/thickness/) [of](/post/of/) 10 centimeters."
-- **形容词**: 形容具有相当深度或密实度。例如: "[The](/post/the/) [soup](/post/soup/) has [a](/post/a/) [nice](/post/nice/) [thickness](/post/thickness/) [to](/post/to/) [it](/post/it/)."
+- **名词**: 物体或材料的厚度或稠度。例如: "[The](/zh/post/the/) [wall](/zh/post/wall/) has [a](/zh/post/a/) [thickness](/zh/post/thickness/) [of](/zh/post/of/) 10 centimeters."
+- **形容词**: 形容具有相当深度或密实度。例如: "[The](/zh/post/the/) [soup](/zh/post/soup/) has [a](/zh/post/a/) [nice](/zh/post/nice/) [thickness](/zh/post/thickness/) [to](/zh/post/to/) [it](/zh/post/it/)."
 
 ## 短语
-- "[thickness](/post/thickness/) [of](/post/of/) [the](/post/the/) [material](/post/material/)" 指材料的厚度。
-- "[at](/post/at/) varying thicknesses" 表示在不同的厚度上。
+- "[thickness](/zh/post/thickness/) [of](/zh/post/of/) [the](/zh/post/the/) [material](/zh/post/material/)" 指材料的厚度。
+- "[at](/zh/post/at/) varying thicknesses" 表示在不同的厚度上。
 
 ## 例句
-- 名词: "[The](/post/the/) [wood](/post/wood/) plank's [thickness](/post/thickness/) allowed [it](/post/it/) [to](/post/to/) [support](/post/support/) [heavy](/post/heavy/) [weight](/post/weight/)."
-- 形容词: "[The](/post/the/) [painter](/post/painter/) adjusted [the](/post/the/) [paint](/post/paint/) [to](/post/to/) [achieve](/post/achieve/) [the](/post/the/) desired [thickness](/post/thickness/)."
+- 名词: "[The](/zh/post/the/) [wood](/zh/post/wood/) plank's [thickness](/zh/post/thickness/) allowed [it](/zh/post/it/) [to](/zh/post/to/) [support](/zh/post/support/) [heavy](/zh/post/heavy/) [weight](/zh/post/weight/)."
+- 形容词: "[The](/zh/post/the/) [painter](/zh/post/painter/) adjusted [the](/zh/post/the/) [paint](/zh/post/paint/) [to](/zh/post/to/) [achieve](/zh/post/achieve/) [the](/zh/post/the/) desired [thickness](/zh/post/thickness/)."
 
 ## 同义词
-- [Depth](/post/depth/)
-- [Density](/post/density/)
-- [Breadth](/post/breadth/) ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) [horizontal](/post/horizontal/) [dimension](/post/dimension/))
-- Consistency ([when](/post/when/) describing [a](/post/a/) substance's [thickness](/post/thickness/))
+- [Depth](/zh/post/depth/)
+- [Density](/zh/post/density/)
+- [Breadth](/zh/post/breadth/) ([when](/zh/post/when/) referring [to](/zh/post/to/) [a](/zh/post/a/) [horizontal](/zh/post/horizontal/) [dimension](/zh/post/dimension/))
+- Consistency ([when](/zh/post/when/) describing [a](/zh/post/a/) substance's [thickness](/zh/post/thickness/))

@@ -7,40 +7,40 @@ description = '[siˈkjuəriti] n.安全，安全感'
 keywords = ['ai words', 'security']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /seˈkjʊrəti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) protected [from](/en/post/from/) [harm](/en/post/harm/), [danger](/en/post/danger/), [or](/en/post/or/) unauthorized [access](/en/post/access/): *[The](/en/post/the/) [security](/en/post/security/) [of](/en/post/of/) [the](/en/post/the/) [building](/en/post/building/) was enhanced [after](/en/post/after/) [the](/en/post/the/) [recent](/en/post/recent/) break-in.*
-2. [The](/en/post/the/) [practice](/en/post/practice/) [or](/en/post/or/) [profession](/en/post/profession/) [of](/en/post/of/) protecting [people](/en/post/people/), [property](/en/post/property/), [or](/en/post/or/) [information](/en/post/information/) [from](/en/post/from/) threats: *[Security](/en/post/security/) guards [ensure](/en/post/ensure/) [the](/en/post/the/) [safety](/en/post/safety/) [of](/en/post/of/) [the](/en/post/the/) [event](/en/post/event/).*
-3. [Confidence](/en/post/confidence/) [or](/en/post/or/) [trust](/en/post/trust/) [in](/en/post/in/) [a](/en/post/a/) [person](/en/post/person/), [system](/en/post/system/), [or](/en/post/or/) [organization](/en/post/organization/): *[Public](/en/post/public/) [confidence](/en/post/confidence/) [in](/en/post/in/) [the](/en/post/the/) government's [security](/en/post/security/) measures has been declining.*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) protected [from](/post/from/) [harm](/post/harm/), [danger](/post/danger/), [or](/post/or/) unauthorized [access](/post/access/): *[The](/post/the/) [security](/post/security/) [of](/post/of/) [the](/post/the/) [building](/post/building/) was enhanced [after](/post/after/) [the](/post/the/) [recent](/post/recent/) break-in.*
+2. [The](/post/the/) [practice](/post/practice/) [or](/post/or/) [profession](/post/profession/) [of](/post/of/) protecting [people](/post/people/), [property](/post/property/), [or](/post/or/) [information](/post/information/) [from](/post/from/) threats: *[Security](/post/security/) guards [ensure](/post/ensure/) [the](/post/the/) [safety](/post/safety/) [of](/post/of/) [the](/post/the/) [event](/post/event/).*
+3. [Confidence](/post/confidence/) [or](/post/or/) [trust](/post/trust/) [in](/post/in/) [a](/post/a/) [person](/post/person/), [system](/post/system/), [or](/post/or/) [organization](/post/organization/): *[Public](/post/public/) [confidence](/post/confidence/) [in](/post/in/) [the](/post/the/) government's [security](/post/security/) measures has been declining.*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [protect](/en/post/protect/) [or](/en/post/or/) [ensure](/en/post/ensure/) [the](/en/post/the/) [safety](/en/post/safety/) [of](/en/post/of/): *[We](/en/post/we/) [must](/en/post/must/) [take](/en/post/take/) steps [to](/en/post/to/) [secure](/en/post/secure/) [the](/en/post/the/) [data](/en/post/data/).*
-2. [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [maintain](/en/post/maintain/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [safety](/en/post/safety/) [or](/en/post/or/) [security](/en/post/security/): *Employees felt [secure](/en/post/secure/) [in](/en/post/in/) [their](/en/post/their/) jobs [after](/en/post/after/) [the](/en/post/the/) company's restructuring.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [protect](/post/protect/) [or](/post/or/) [ensure](/post/ensure/) [the](/post/the/) [safety](/post/safety/) [of](/post/of/): *[We](/post/we/) [must](/post/must/) [take](/post/take/) steps [to](/post/to/) [secure](/post/secure/) [the](/post/the/) [data](/post/data/).*
+2. [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [maintain](/post/maintain/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [safety](/post/safety/) [or](/post/or/) [security](/post/security/): *Employees felt [secure](/post/secure/) [in](/post/in/) [their](/post/their/) jobs [after](/post/after/) [the](/post/the/) company's restructuring.*
 
-### [Adjective](/en/post/adjective/)
-1. Characterizing [or](/en/post/or/) relating [to](/en/post/to/) [safety](/en/post/safety/) [or](/en/post/or/) [protection](/en/post/protection/): *[A](/en/post/a/) high-security [zone](/en/post/zone/).*
-2. Having [a](/en/post/a/) [low](/en/post/low/) [risk](/en/post/risk/) [of](/en/post/of/) [danger](/en/post/danger/) [or](/en/post/or/) vulnerability: *[The](/en/post/the/) [new](/en/post/new/) software has top-notch [security](/en/post/security/) features.*
+### [Adjective](/post/adjective/)
+1. Characterizing [or](/post/or/) relating [to](/post/to/) [safety](/post/safety/) [or](/post/or/) [protection](/post/protection/): *[A](/post/a/) high-security [zone](/post/zone/).*
+2. Having [a](/post/a/) [low](/post/low/) [risk](/post/risk/) [of](/post/of/) [danger](/post/danger/) [or](/post/or/) vulnerability: *[The](/post/the/) [new](/post/new/) software has top-notch [security](/post/security/) features.*
 
 ## Phrases
-- "Enhance [security](/en/post/security/)" [means](/en/post/means/) [to](/en/post/to/) [improve](/en/post/improve/) [safety](/en/post/safety/) measures.
-- "[Maintain](/en/post/maintain/) [security](/en/post/security/)" is [about](/en/post/about/) keeping [a](/en/post/a/) protected [state](/en/post/state/).
-- "Cybersecurity" refers [to](/en/post/to/) [the](/en/post/the/) [protection](/en/post/protection/) [of](/en/post/of/) [digital](/en/post/digital/) assets.
-- "[Physical](/en/post/physical/) [security](/en/post/security/)" deals [with](/en/post/with/) guarding [against](/en/post/against/) [physical](/en/post/physical/) threats.
+- "Enhance [security](/post/security/)" [means](/post/means/) [to](/post/to/) [improve](/post/improve/) [safety](/post/safety/) measures.
+- "[Maintain](/post/maintain/) [security](/post/security/)" is [about](/post/about/) keeping [a](/post/a/) protected [state](/post/state/).
+- "Cybersecurity" refers [to](/post/to/) [the](/post/the/) [protection](/post/protection/) [of](/post/of/) [digital](/post/digital/) assets.
+- "[Physical](/post/physical/) [security](/post/security/)" deals [with](/post/with/) guarding [against](/post/against/) [physical](/post/physical/) threats.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's [IT](/en/post/it/) [department](/en/post/department/) is [responsible](/en/post/responsible/) [for](/en/post/for/) ensuring [data](/en/post/data/) [security](/en/post/security/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) felt [secure](/en/post/secure/) knowing [her](/en/post/her/) [home](/en/post/home/) was alarmed."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) high-security clearance allowed [him](/en/post/him/) [access](/en/post/access/) [to](/en/post/to/) classified [information](/en/post/information/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) company's [IT](/post/it/) [department](/post/department/) is [responsible](/post/responsible/) [for](/post/for/) ensuring [data](/post/data/) [security](/post/security/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) felt [secure](/post/secure/) knowing [her](/post/her/) [home](/post/home/) was alarmed."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) high-security clearance allowed [him](/post/him/) [access](/post/access/) [to](/post/to/) classified [information](/post/information/)."
 
 ## Synonyms
-- [Protection](/en/post/protection/)
-- [Safety](/en/post/safety/)
+- [Protection](/post/protection/)
+- [Safety](/post/safety/)
 - Safeguard
 - Assurance
-- [Stability](/en/post/stability/)
+- [Stability](/post/stability/)
 - Privacy
 - Assurance
 - Confidentiality

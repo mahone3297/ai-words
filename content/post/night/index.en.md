@@ -7,35 +7,35 @@ description = '[nait] n.夜，夜间'
 keywords = ['ai words', 'night']
 +++
 
-## [Word](/en/post/word/): [Night](/en/post/night/)
+## [Word](/post/word/): [Night](/post/night/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /naɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [period](/en/post/period/) [of](/en/post/of/) darkness [between](/en/post/between/) [sunset](/en/post/sunset/) [and](/en/post/and/) [sunrise](/en/post/sunrise/), [especially](/en/post/especially/) [when](/en/post/when/) [this](/en/post/this/) [period](/en/post/period/) is considered [as](/en/post/as/) [the](/en/post/the/) [time](/en/post/time/) [for](/en/post/for/) sleeping, resting, [or](/en/post/or/) nightlife. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) stars [shine](/en/post/shine/) [bright](/en/post/bright/) [in](/en/post/in/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/)."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [long](/en/post/long/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) characterized [by](/en/post/by/) [a](/en/post/a/) [specific](/en/post/specific/) [condition](/en/post/condition/) [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [instance](/en/post/instance/): "[After](/en/post/after/) years [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [his](/en/post/his/) troubles [finally](/en/post/finally/) came [to](/en/post/to/) an [end](/en/post/end/), [and](/en/post/and/) [he](/en/post/he/) [saw](/en/post/saw/) [the](/en/post/the/) [light](/en/post/light/) [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [night](/en/post/night/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [period](/post/period/) [of](/post/of/) darkness [between](/post/between/) [sunset](/post/sunset/) [and](/post/and/) [sunrise](/post/sunrise/), [especially](/post/especially/) [when](/post/when/) [this](/post/this/) [period](/post/period/) is considered [as](/post/as/) [the](/post/the/) [time](/post/time/) [for](/post/for/) sleeping, resting, [or](/post/or/) nightlife. [For](/post/for/) [example](/post/example/): "[The](/post/the/) stars [shine](/post/shine/) [bright](/post/bright/) [in](/post/in/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/)."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [long](/post/long/) [period](/post/period/) [of](/post/of/) [time](/post/time/) characterized [by](/post/by/) [a](/post/a/) [specific](/post/specific/) [condition](/post/condition/) [or](/post/or/) [situation](/post/situation/). [For](/post/for/) [instance](/post/instance/): "[After](/post/after/) years [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [his](/post/his/) troubles [finally](/post/finally/) came [to](/post/to/) an [end](/post/end/), [and](/post/and/) [he](/post/he/) [saw](/post/saw/) [the](/post/the/) [light](/post/light/) [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [night](/post/night/)."
 
 ### Phrases
-- "[At](/en/post/at/) [night](/en/post/night/)": [During](/en/post/during/) [the](/en/post/the/) hours [of](/en/post/of/) darkness. [Example](/en/post/example/): "[The](/en/post/the/) streets are [quiet](/en/post/quiet/) [at](/en/post/at/) [night](/en/post/night/)."
-- "[In](/en/post/in/) [the](/en/post/the/) [dead](/en/post/dead/) [of](/en/post/of/) [night](/en/post/night/)": [Late](/en/post/late/) [at](/en/post/at/) [night](/en/post/night/), [especially](/en/post/especially/) [when](/en/post/when/) [most](/en/post/most/) [people](/en/post/people/) are [asleep](/en/post/asleep/). [Example](/en/post/example/): "[The](/en/post/the/) thieves broke [in](/en/post/in/) [during](/en/post/during/) [the](/en/post/the/) [dead](/en/post/dead/) [of](/en/post/of/) [night](/en/post/night/)."
-- "[A](/en/post/a/) [night](/en/post/night/) [out](/en/post/out/) [on](/en/post/on/) [the](/en/post/the/) [town](/en/post/town/)": An [evening](/en/post/evening/) spent socializing [or](/en/post/or/) enjoying entertainment [away](/en/post/away/) [from](/en/post/from/) [home](/en/post/home/). [Example](/en/post/example/): "We're planning [a](/en/post/a/) [night](/en/post/night/) [out](/en/post/out/) [on](/en/post/on/) [the](/en/post/the/) [town](/en/post/town/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [our](/en/post/our/) anniversary."
-- "[Night](/en/post/night/) [owl](/en/post/owl/)": [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) tends [to](/en/post/to/) [stay](/en/post/stay/) [up](/en/post/up/) [late](/en/post/late/) [and](/en/post/and/) is [active](/en/post/active/) [during](/en/post/during/) [the](/en/post/the/) nighttime. [Example](/en/post/example/): "She's [a](/en/post/a/) [real](/en/post/real/) [night](/en/post/night/) [owl](/en/post/owl/); [she](/en/post/she/) does [her](/en/post/her/) [best](/en/post/best/) [work](/en/post/work/) [after](/en/post/after/) [midnight](/en/post/midnight/)."
+- "[At](/post/at/) [night](/post/night/)": [During](/post/during/) [the](/post/the/) hours [of](/post/of/) darkness. [Example](/post/example/): "[The](/post/the/) streets are [quiet](/post/quiet/) [at](/post/at/) [night](/post/night/)."
+- "[In](/post/in/) [the](/post/the/) [dead](/post/dead/) [of](/post/of/) [night](/post/night/)": [Late](/post/late/) [at](/post/at/) [night](/post/night/), [especially](/post/especially/) [when](/post/when/) [most](/post/most/) [people](/post/people/) are [asleep](/post/asleep/). [Example](/post/example/): "[The](/post/the/) thieves broke [in](/post/in/) [during](/post/during/) [the](/post/the/) [dead](/post/dead/) [of](/post/of/) [night](/post/night/)."
+- "[A](/post/a/) [night](/post/night/) [out](/post/out/) [on](/post/on/) [the](/post/the/) [town](/post/town/)": An [evening](/post/evening/) spent socializing [or](/post/or/) enjoying entertainment [away](/post/away/) [from](/post/from/) [home](/post/home/). [Example](/post/example/): "We're planning [a](/post/a/) [night](/post/night/) [out](/post/out/) [on](/post/on/) [the](/post/the/) [town](/post/town/) [to](/post/to/) [celebrate](/post/celebrate/) [our](/post/our/) anniversary."
+- "[Night](/post/night/) [owl](/post/owl/)": [A](/post/a/) [person](/post/person/) [who](/post/who/) tends [to](/post/to/) [stay](/post/stay/) [up](/post/up/) [late](/post/late/) [and](/post/and/) is [active](/post/active/) [during](/post/during/) [the](/post/the/) nighttime. [Example](/post/example/): "She's [a](/post/a/) [real](/post/real/) [night](/post/night/) [owl](/post/owl/); [she](/post/she/) does [her](/post/her/) [best](/post/best/) [work](/post/work/) [after](/post/after/) [midnight](/post/midnight/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) nocturnal animals [come](/en/post/come/) [out](/en/post/out/) [to](/en/post/to/) [hunt](/en/post/hunt/) [their](/en/post/their/) prey [during](/en/post/during/) [the](/en/post/the/) [night](/en/post/night/)."
-- **[Noun](/en/post/noun/) (figurative)**: "[That](/en/post/that/) [difficult](/en/post/difficult/) [period](/en/post/period/) felt [like](/en/post/like/) [a](/en/post/a/) never-ending [night](/en/post/night/) [before](/en/post/before/) [we](/en/post/we/) [found](/en/post/found/) [a](/en/post/a/) [solution](/en/post/solution/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) nocturnal animals [come](/post/come/) [out](/post/out/) [to](/post/to/) [hunt](/post/hunt/) [their](/post/their/) prey [during](/post/during/) [the](/post/the/) [night](/post/night/)."
+- **[Noun](/post/noun/) (figurative)**: "[That](/post/that/) [difficult](/post/difficult/) [period](/post/period/) felt [like](/post/like/) [a](/post/a/) never-ending [night](/post/night/) [before](/post/before/) [we](/post/we/) [found](/post/found/) [a](/post/a/) [solution](/post/solution/)."
 
 ## Synonyms
-- [Evening](/en/post/evening/)
+- [Evening](/post/evening/)
 - Darkness
-- [Midnight](/en/post/midnight/)
+- [Midnight](/post/midnight/)
 - Nighttime
-- [Dark](/en/post/dark/)
+- [Dark](/post/dark/)
 - Bedtime
 - Twilight
-- [Dusk](/en/post/dusk/)
+- [Dusk](/post/dusk/)
 - Wee hours
-- [Late](/en/post/late/) hours
-- [Overnight](/en/post/overnight/)
-- [Dead](/en/post/dead/) [of](/en/post/of/) [night](/en/post/night/)
+- [Late](/post/late/) hours
+- [Overnight](/post/overnight/)
+- [Dead](/post/dead/) [of](/post/of/) [night](/post/night/)

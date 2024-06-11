@@ -12,28 +12,28 @@ keywords = ['ai words', 'turn']
 
 ## 释义
 - **动词**:
-  - 转动，旋转。例如: "[The](/post/the/) [wheel](/post/wheel/) turned [smoothly](/post/smoothly/)."
-  - 改变方向。例如: "[She](/post/she/) turned [left](/post/left/) [at](/post/at/) [the](/post/the/) [corner](/post/corner/)."
-  - 变换，转变。例如: "[His](/post/his/) [mood](/post/mood/) turned [sour](/post/sour/) [after](/post/after/) [the](/post/the/) [argument](/post/argument/)."
-  - 切换或调到（频道、歌曲等）。例如: "[He](/post/he/) turned [up](/post/up/) [the](/post/the/) [radio](/post/radio/) [and](/post/and/) tuned [to](/post/to/) [a](/post/a/) [different](/post/different/) [station](/post/station/)."
-  - 轮流，依次。例如: "It's [your](/post/your/) [turn](/post/turn/) [to](/post/to/) [clean](/post/clean/) [the](/post/the/) [kitchen](/post/kitchen/)."
+  - 转动，旋转。例如: "[The](/zh/post/the/) [wheel](/zh/post/wheel/) turned [smoothly](/zh/post/smoothly/)."
+  - 改变方向。例如: "[She](/zh/post/she/) turned [left](/zh/post/left/) [at](/zh/post/at/) [the](/zh/post/the/) [corner](/zh/post/corner/)."
+  - 变换，转变。例如: "[His](/zh/post/his/) [mood](/zh/post/mood/) turned [sour](/zh/post/sour/) [after](/zh/post/after/) [the](/zh/post/the/) [argument](/zh/post/argument/)."
+  - 切换或调到（频道、歌曲等）。例如: "[He](/zh/post/he/) turned [up](/zh/post/up/) [the](/zh/post/the/) [radio](/zh/post/radio/) [and](/zh/post/and/) tuned [to](/zh/post/to/) [a](/zh/post/a/) [different](/zh/post/different/) [station](/zh/post/station/)."
+  - 轮流，依次。例如: "It's [your](/zh/post/your/) [turn](/zh/post/turn/) [to](/zh/post/to/) [clean](/zh/post/clean/) [the](/zh/post/the/) [kitchen](/zh/post/kitchen/)."
 
 - **名词**:
-  - 机会，轮次。例如: "[Everyone](/post/everyone/) gets [a](/post/a/) [turn](/post/turn/) [to](/post/to/) [speak](/post/speak/)."
-  - 旋转，翻转。例如: "[She](/post/she/) did [a](/post/a/) [complete](/post/complete/) [turn](/post/turn/) [in](/post/in/) mid-air."
+  - 机会，轮次。例如: "[Everyone](/zh/post/everyone/) gets [a](/zh/post/a/) [turn](/zh/post/turn/) [to](/zh/post/to/) [speak](/zh/post/speak/)."
+  - 旋转，翻转。例如: "[She](/zh/post/she/) did [a](/zh/post/a/) [complete](/zh/post/complete/) [turn](/zh/post/turn/) [in](/zh/post/in/) mid-air."
 
 ## 短语
-- "[Take](/post/take/) [a](/post/a/) [turn](/post/turn/)" 意味着轮流做某事或改变方向。
-- "[Turn](/post/turn/) [the](/post/the/) [page](/post/page/)" 指翻过书页或开始新的篇章。
-- "[On](/post/on/) [the](/post/the/) [turn](/post/turn/)" 用于描述事物即将发生变化的时刻。
+- "[Take](/zh/post/take/) [a](/zh/post/a/) [turn](/zh/post/turn/)" 意味着轮流做某事或改变方向。
+- "[Turn](/zh/post/turn/) [the](/zh/post/the/) [page](/zh/post/page/)" 指翻过书页或开始新的篇章。
+- "[On](/zh/post/on/) [the](/zh/post/the/) [turn](/zh/post/turn/)" 用于描述事物即将发生变化的时刻。
 
 ## 例句
-- 动词: "[The](/post/the/) [child](/post/child/) happily turned [the](/post/the/) colorful pages [of](/post/of/) [the](/post/the/) [picture](/post/picture/) [book](/post/book/)."
-- 名词: "[It](/post/it/) was [my](/post/my/) [turn](/post/turn/) [to](/post/to/) [present](/post/present/) [my](/post/my/) ideas [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
+- 动词: "[The](/zh/post/the/) [child](/zh/post/child/) happily turned [the](/zh/post/the/) colorful pages [of](/zh/post/of/) [the](/zh/post/the/) [picture](/zh/post/picture/) [book](/zh/post/book/)."
+- 名词: "[It](/zh/post/it/) was [my](/zh/post/my/) [turn](/zh/post/turn/) [to](/zh/post/to/) [present](/zh/post/present/) [my](/zh/post/my/) ideas [during](/zh/post/during/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
 
 ## 同义词
-- [Rotate](/post/rotate/)
-- [Spin](/post/spin/)
-- [Alter](/post/alter/)
-- [Shift](/post/shift/)
-- [Change](/post/change/)
+- [Rotate](/zh/post/rotate/)
+- [Spin](/zh/post/spin/)
+- [Alter](/zh/post/alter/)
+- [Shift](/zh/post/shift/)
+- [Change](/zh/post/change/)

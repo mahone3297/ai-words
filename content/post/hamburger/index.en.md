@@ -7,28 +7,28 @@ description = '[ˈhæmbəːgə] n.汉堡包，牛肉饼'
 keywords = ['ai words', 'hamburger']
 +++
 
-## [Word](/en/post/word/): [Hamburger](/en/post/hamburger/)
+## [Word](/post/word/): [Hamburger](/post/hamburger/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhæmbɜːrɡər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [sandwich](/en/post/sandwich/) consisting [of](/en/post/of/) [ground](/en/post/ground/) [meat](/en/post/meat/) ([usually](/en/post/usually/) [beef](/en/post/beef/)) cooked [and](/en/post/and/) served [between](/en/post/between/) [two](/en/post/two/) slices [of](/en/post/of/) [bread](/en/post/bread/) [or](/en/post/or/) [a](/en/post/a/) bun, [often](/en/post/often/) [with](/en/post/with/) [various](/en/post/various/) condiments [and](/en/post/and/) toppings [such](/en/post/such/) [as](/en/post/as/) lettuce, [tomato](/en/post/tomato/), [cheese](/en/post/cheese/), onions, pickles, [and](/en/post/and/) ketchup. [Example](/en/post/example/): "I ordered [a](/en/post/a/) [hamburger](/en/post/hamburger/) [with](/en/post/with/) fries [for](/en/post/for/) [lunch](/en/post/lunch/)."
-- **[Noun](/en/post/noun/) (informal)**: [The](/en/post/the/) patty [of](/en/post/of/) [ground](/en/post/ground/) [meat](/en/post/meat/) [that](/en/post/that/) is [the](/en/post/the/) [central](/en/post/central/) ingredient [of](/en/post/of/) [a](/en/post/a/) [hamburger](/en/post/hamburger/) [sandwich](/en/post/sandwich/). [Example](/en/post/example/): "[The](/en/post/the/) chef grilled [the](/en/post/the/) [hamburger](/en/post/hamburger/) [to](/en/post/to/) perfection."
+- **[Noun](/post/noun/)**: [A](/post/a/) [type](/post/type/) [of](/post/of/) [sandwich](/post/sandwich/) consisting [of](/post/of/) [ground](/post/ground/) [meat](/post/meat/) ([usually](/post/usually/) [beef](/post/beef/)) cooked [and](/post/and/) served [between](/post/between/) [two](/post/two/) slices [of](/post/of/) [bread](/post/bread/) [or](/post/or/) [a](/post/a/) bun, [often](/post/often/) [with](/post/with/) [various](/post/various/) condiments [and](/post/and/) toppings [such](/post/such/) [as](/post/as/) lettuce, [tomato](/post/tomato/), [cheese](/post/cheese/), onions, pickles, [and](/post/and/) ketchup. [Example](/post/example/): "I ordered [a](/post/a/) [hamburger](/post/hamburger/) [with](/post/with/) fries [for](/post/for/) [lunch](/post/lunch/)."
+- **[Noun](/post/noun/) (informal)**: [The](/post/the/) patty [of](/post/of/) [ground](/post/ground/) [meat](/post/meat/) [that](/post/that/) is [the](/post/the/) [central](/post/central/) ingredient [of](/post/of/) [a](/post/a/) [hamburger](/post/hamburger/) [sandwich](/post/sandwich/). [Example](/post/example/): "[The](/post/the/) chef grilled [the](/post/the/) [hamburger](/post/hamburger/) [to](/post/to/) perfection."
 
 ## Phrases
-- "[Make](/en/post/make/) [mine](/en/post/mine/) [a](/en/post/a/) [hamburger](/en/post/hamburger/)": An informal [expression](/en/post/expression/) indicating [a](/en/post/a/) [desire](/en/post/desire/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [hamburger](/en/post/hamburger/) [when](/en/post/when/) ordering [food](/en/post/food/).
-- "[Hamburger](/en/post/hamburger/) [menu](/en/post/menu/)": [A](/en/post/a/) graphical [user](/en/post/user/) interface [element](/en/post/element/), typically represented [by](/en/post/by/) [three](/en/post/three/) [horizontal](/en/post/horizontal/) lines, [used](/en/post/used/) [on](/en/post/on/) websites [and](/en/post/and/) apps [to](/en/post/to/) [reveal](/en/post/reveal/) [or](/en/post/or/) [hide](/en/post/hide/) [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) [navigation](/en/post/navigation/) options.
-- "[Hamburger](/en/post/hamburger/) helper": [A](/en/post/a/) [brand](/en/post/brand/) [name](/en/post/name/) [of](/en/post/of/) packaged [food](/en/post/food/) products designed [to](/en/post/to/) [be](/en/post/be/) mixed [with](/en/post/with/) [ground](/en/post/ground/) [beef](/en/post/beef/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) hamburger-based dishes.
+- "[Make](/post/make/) [mine](/post/mine/) [a](/post/a/) [hamburger](/post/hamburger/)": An informal [expression](/post/expression/) indicating [a](/post/a/) [desire](/post/desire/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [hamburger](/post/hamburger/) [when](/post/when/) ordering [food](/post/food/).
+- "[Hamburger](/post/hamburger/) [menu](/post/menu/)": [A](/post/a/) graphical [user](/post/user/) interface [element](/post/element/), typically represented [by](/post/by/) [three](/post/three/) [horizontal](/post/horizontal/) lines, [used](/post/used/) [on](/post/on/) websites [and](/post/and/) apps [to](/post/to/) [reveal](/post/reveal/) [or](/post/or/) [hide](/post/hide/) [a](/post/a/) [list](/post/list/) [of](/post/of/) [navigation](/post/navigation/) options.
+- "[Hamburger](/post/hamburger/) helper": [A](/post/a/) [brand](/post/brand/) [name](/post/name/) [of](/post/of/) packaged [food](/post/food/) products designed [to](/post/to/) [be](/post/be/) mixed [with](/post/with/) [ground](/post/ground/) [beef](/post/beef/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [variety](/post/variety/) [of](/post/of/) hamburger-based dishes.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[At](/en/post/at/) [the](/en/post/the/) diner, [he](/en/post/he/) enjoyed [his](/en/post/his/) [first](/en/post/first/) [American](/en/post/american/) [hamburger](/en/post/hamburger/) [complete](/en/post/complete/) [with](/en/post/with/) crispy bacon [and](/en/post/and/) melted cheddar [cheese](/en/post/cheese/)."
-- **[Noun](/en/post/noun/) (informal)**: "[The](/en/post/the/) [cook](/en/post/cook/) added [some](/en/post/some/) [secret](/en/post/secret/) spices [to](/en/post/to/) [give](/en/post/give/) [the](/en/post/the/) [hamburger](/en/post/hamburger/) an [extra](/en/post/extra/) [kick](/en/post/kick/) [of](/en/post/of/) flavor."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[At](/post/at/) [the](/post/the/) diner, [he](/post/he/) enjoyed [his](/post/his/) [first](/post/first/) [American](/post/american/) [hamburger](/post/hamburger/) [complete](/post/complete/) [with](/post/with/) crispy bacon [and](/post/and/) melted cheddar [cheese](/post/cheese/)."
+- **[Noun](/post/noun/) (informal)**: "[The](/post/the/) [cook](/post/cook/) added [some](/post/some/) [secret](/post/secret/) spices [to](/post/to/) [give](/post/give/) [the](/post/the/) [hamburger](/post/hamburger/) an [extra](/post/extra/) [kick](/post/kick/) [of](/post/of/) flavor."
 
 ## Synonyms
-- [Beef](/en/post/beef/) burger
+- [Beef](/post/beef/) burger
 - Burger
-- Patty [melt](/en/post/melt/) ([when](/en/post/when/) served open-faced [with](/en/post/with/) [cheese](/en/post/cheese/))
-- [Ground](/en/post/ground/) [beef](/en/post/beef/) [sandwich](/en/post/sandwich/)
-- Cheeseburger ([if](/en/post/if/) containing [cheese](/en/post/cheese/))
-- Veggie burger ([a](/en/post/a/) vegetarian [alternative](/en/post/alternative/) made [from](/en/post/from/) vegetables [or](/en/post/or/) plant-based proteins)
+- Patty [melt](/post/melt/) ([when](/post/when/) served open-faced [with](/post/with/) [cheese](/post/cheese/))
+- [Ground](/post/ground/) [beef](/post/beef/) [sandwich](/post/sandwich/)
+- Cheeseburger ([if](/post/if/) containing [cheese](/post/cheese/))
+- Veggie burger ([a](/post/a/) vegetarian [alternative](/post/alternative/) made [from](/post/from/) vegetables [or](/post/or/) plant-based proteins)

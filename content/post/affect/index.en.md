@@ -7,35 +7,35 @@ description = '[əˈfekt] vt.影响；感动'
 keywords = ['ai words', 'affect']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /aɪ'fekt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Affect](/en/post/affect/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [emotional](/en/post/emotional/) [state](/en/post/state/) [or](/en/post/or/) [influence](/en/post/influence/) [that](/en/post/that/) [something](/en/post/something/) has [on](/en/post/on/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [situation](/en/post/situation/). Pronounced [as](/en/post/as/) "[effect](/en/post/effect/)" [but](/en/post/but/) [with](/en/post/with/) [a](/en/post/a/) [different](/en/post/different/) [meaning](/en/post/meaning/).
-- Synonyms: [impact](/en/post/impact/), [influence](/en/post/influence/), [impression](/en/post/impression/), [emotion](/en/post/emotion/)
+### [Noun](/post/noun/)
+- **[Affect](/post/affect/)** ([noun](/post/noun/)): [The](/post/the/) [emotional](/post/emotional/) [state](/post/state/) [or](/post/or/) [influence](/post/influence/) [that](/post/that/) [something](/post/something/) has [on](/post/on/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [situation](/post/situation/). Pronounced [as](/post/as/) "[effect](/post/effect/)" [but](/post/but/) [with](/post/with/) [a](/post/a/) [different](/post/different/) [meaning](/post/meaning/).
+- Synonyms: [impact](/post/impact/), [influence](/post/influence/), [impression](/post/impression/), [emotion](/post/emotion/)
 
-### [Verb](/en/post/verb/)
-- **[Affect](/en/post/affect/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [have](/en/post/have/) an [influence](/en/post/influence/) [on](/en/post/on/); [to](/en/post/to/) [change](/en/post/change/) [or](/en/post/or/) [produce](/en/post/produce/) [a](/en/post/a/) [particular](/en/post/particular/) [result](/en/post/result/). [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [mean](/en/post/mean/) [to](/en/post/to/) [influence](/en/post/influence/) someone's emotions [or](/en/post/or/) [behavior](/en/post/behavior/).
-- Synonyms: [influence](/en/post/influence/), [impress](/en/post/impress/), evoke, [move](/en/post/move/),打动
+### [Verb](/post/verb/)
+- **[Affect](/post/affect/)** ([verb](/post/verb/)): [To](/post/to/) [have](/post/have/) an [influence](/post/influence/) [on](/post/on/); [to](/post/to/) [change](/post/change/) [or](/post/or/) [produce](/post/produce/) [a](/post/a/) [particular](/post/particular/) [result](/post/result/). [Also](/post/also/) [used](/post/used/) [to](/post/to/) [mean](/post/mean/) [to](/post/to/) [influence](/post/influence/) someone's emotions [or](/post/or/) [behavior](/post/behavior/).
+- Synonyms: [influence](/post/influence/), [impress](/post/impress/), evoke, [move](/post/move/),打动
 
-### [Adjective](/en/post/adjective/)
-- [Sometimes](/en/post/sometimes/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) is affected [or](/en/post/or/) influenced, [although](/en/post/although/) [this](/en/post/this/) [usage](/en/post/usage/) is [less](/en/post/less/) [common](/en/post/common/).
+### [Adjective](/post/adjective/)
+- [Sometimes](/post/sometimes/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) is affected [or](/post/or/) influenced, [although](/post/although/) [this](/post/this/) [usage](/post/usage/) is [less](/post/less/) [common](/post/common/).
 
 ## Phrases
-- "[The](/en/post/the/) [news](/en/post/news/) affected [her](/en/post/her/) [mood](/en/post/mood/)."
-- "[Her](/en/post/her/) [illness](/en/post/illness/) had [a](/en/post/a/) [significant](/en/post/significant/) [affect](/en/post/affect/) [on](/en/post/on/) [her](/en/post/her/) [work](/en/post/work/)."
-- "[The](/en/post/the/) [weather](/en/post/weather/) [can](/en/post/can/) [greatly](/en/post/greatly/) [affect](/en/post/affect/) [our](/en/post/our/) plans."
+- "[The](/post/the/) [news](/post/news/) affected [her](/post/her/) [mood](/post/mood/)."
+- "[Her](/post/her/) [illness](/post/illness/) had [a](/post/a/) [significant](/post/significant/) [affect](/post/affect/) [on](/post/on/) [her](/post/her/) [work](/post/work/)."
+- "[The](/post/the/) [weather](/post/weather/) [can](/post/can/) [greatly](/post/greatly/) [affect](/post/affect/) [our](/post/our/) plans."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [news](/en/post/news/) had [a](/en/post/a/) profound [affect](/en/post/affect/) [on](/en/post/on/) [how](/en/post/how/) [people](/en/post/people/) viewed [the](/en/post/the/) [situation](/en/post/situation/)."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [illness](/en/post/illness/) [greatly](/en/post/greatly/) affected [his](/en/post/his/) [ability](/en/post/ability/) [to](/en/post/to/) [concentrate](/en/post/concentrate/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) lighting [in](/en/post/in/) [the](/en/post/the/) [room](/en/post/room/) had [a](/en/post/a/) [dramatic](/en/post/dramatic/) [affect](/en/post/affect/) [on](/en/post/on/) [the](/en/post/the/) ambiance."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [news](/post/news/) had [a](/post/a/) profound [affect](/post/affect/) [on](/post/on/) [how](/post/how/) [people](/post/people/) viewed [the](/post/the/) [situation](/post/situation/)."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [illness](/post/illness/) [greatly](/post/greatly/) affected [his](/post/his/) [ability](/post/ability/) [to](/post/to/) [concentrate](/post/concentrate/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) lighting [in](/post/in/) [the](/post/the/) [room](/post/room/) had [a](/post/a/) [dramatic](/post/dramatic/) [affect](/post/affect/) [on](/post/on/) [the](/post/the/) ambiance."
 
 ## Synonyms
-- [Influence](/en/post/influence/)
+- [Influence](/post/influence/)
 - Impart
-- [Touch](/en/post/touch/)
-- [Impact](/en/post/impact/)
-- [Disturb](/en/post/disturb/)
-- [Influence](/en/post/influence/) feelings
+- [Touch](/post/touch/)
+- [Impact](/post/impact/)
+- [Disturb](/post/disturb/)
+- [Influence](/post/influence/) feelings

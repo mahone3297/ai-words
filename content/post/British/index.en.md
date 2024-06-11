@@ -7,30 +7,30 @@ description = '[ˈbriti∫] a.不列颠的，英联邦的'
 keywords = ['ai words', 'British']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbrɪtɪʃ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [national](/en/post/national/) [or](/en/post/or/) [citizen](/en/post/citizen/) [of](/en/post/of/) [the](/en/post/the/) United [Kingdom](/en/post/kingdom/) [or](/en/post/or/) [its](/en/post/its/) [former](/en/post/former/) colonies, [especially](/en/post/especially/) England, Scotland, Wales, [or](/en/post/or/) [Northern](/en/post/northern/) Ireland. 2. ([adjective](/en/post/adjective/)) Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) Britain [or](/en/post/or/) [its](/en/post/its/) [people](/en/post/people/), [culture](/en/post/culture/), [or](/en/post/or/) [history](/en/post/history/). 3. ([adjective](/en/post/adjective/)) British English, [the](/en/post/the/) [standard](/en/post/standard/) [form](/en/post/form/) [of](/en/post/of/) [the](/en/post/the/) English [language](/en/post/language/) spoken [in](/en/post/in/) [the](/en/post/the/) UK.
-- **[Adjective](/en/post/adjective/)**: Designating [or](/en/post/or/) referring [to](/en/post/to/) [something](/en/post/something/) [from](/en/post/from/) [or](/en/post/or/) associated [with](/en/post/with/) Britain [or](/en/post/or/) [its](/en/post/its/) [people](/en/post/people/). 4. ([adjective](/en/post/adjective/)) [Of](/en/post/of/) [or](/en/post/or/) pertaining [to](/en/post/to/) [the](/en/post/the/) British [Empire](/en/post/empire/) [or](/en/post/or/) [its](/en/post/its/) [former](/en/post/former/) territories.
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [national](/post/national/) [or](/post/or/) [citizen](/post/citizen/) [of](/post/of/) [the](/post/the/) United [Kingdom](/post/kingdom/) [or](/post/or/) [its](/post/its/) [former](/post/former/) colonies, [especially](/post/especially/) England, Scotland, Wales, [or](/post/or/) [Northern](/post/northern/) Ireland. 2. ([adjective](/post/adjective/)) Relating [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) Britain [or](/post/or/) [its](/post/its/) [people](/post/people/), [culture](/post/culture/), [or](/post/or/) [history](/post/history/). 3. ([adjective](/post/adjective/)) British English, [the](/post/the/) [standard](/post/standard/) [form](/post/form/) [of](/post/of/) [the](/post/the/) English [language](/post/language/) spoken [in](/post/in/) [the](/post/the/) UK.
+- **[Adjective](/post/adjective/)**: Designating [or](/post/or/) referring [to](/post/to/) [something](/post/something/) [from](/post/from/) [or](/post/or/) associated [with](/post/with/) Britain [or](/post/or/) [its](/post/its/) [people](/post/people/). 4. ([adjective](/post/adjective/)) [Of](/post/of/) [or](/post/or/) pertaining [to](/post/to/) [the](/post/the/) British [Empire](/post/empire/) [or](/post/or/) [its](/post/its/) [former](/post/former/) territories.
 
 ## Phrases
-- "British [accent](/en/post/accent/)" [or](/en/post/or/) "English [accent](/en/post/accent/)"
-- "[A](/en/post/a/) [proud](/en/post/proud/) British [tradition](/en/post/tradition/)"
+- "British [accent](/post/accent/)" [or](/post/or/) "English [accent](/post/accent/)"
+- "[A](/post/a/) [proud](/post/proud/) British [tradition](/post/tradition/)"
 - "British Airways"
-- "British [Museum](/en/post/museum/)"
-- "[The](/en/post/the/) British [weather](/en/post/weather/)"
+- "British [Museum](/post/museum/)"
+- "[The](/post/the/) British [weather](/post/weather/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Many](/en/post/many/) British [people](/en/post/people/) [enjoy](/en/post/enjoy/) [a](/en/post/a/) [cup](/en/post/cup/) [of](/en/post/of/) [tea](/en/post/tea/) [every](/en/post/every/) [morning](/en/post/morning/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) British [government](/en/post/government/) has implemented [new](/en/post/new/) policies."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) British [countryside](/en/post/countryside/) is known [for](/en/post/for/) [its](/en/post/its/) picturesque landscapes."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Many](/post/many/) British [people](/post/people/) [enjoy](/post/enjoy/) [a](/post/a/) [cup](/post/cup/) [of](/post/of/) [tea](/post/tea/) [every](/post/every/) [morning](/post/morning/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) British [government](/post/government/) has implemented [new](/post/new/) policies."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) British [countryside](/post/countryside/) is known [for](/post/for/) [its](/post/its/) picturesque landscapes."
 
 ## Synonyms
 - British Isles
-- English (referring [to](/en/post/to/) [nationality](/en/post/nationality/))
+- English (referring [to](/post/to/) [nationality](/post/nationality/))
 - Anglo-Saxon
 - Imperial
 - Colonial
 
-## [Note](/en/post/note/): British [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [from](/en/post/from/) [or](/en/post/or/) related [to](/en/post/to/) [the](/en/post/the/) British [Empire](/en/post/empire/) [or](/en/post/or/) [its](/en/post/its/) [former](/en/post/former/) colonies, [not](/en/post/not/) [just](/en/post/just/) [current](/en/post/current/) inhabitants.
+## [Note](/post/note/): British [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [from](/post/from/) [or](/post/or/) related [to](/post/to/) [the](/post/the/) British [Empire](/post/empire/) [or](/post/or/) [its](/post/its/) [former](/post/former/) colonies, [not](/post/not/) [just](/post/just/) [current](/post/current/) inhabitants.

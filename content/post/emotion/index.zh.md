@@ -11,21 +11,21 @@ keywords = ['ai words', 'emotion']
 /ɪˈmoʊʃən/
 
 ## 释义
-- **名词**: 人类体验和表达的感受或情感，如喜怒哀乐。例如: "[She](/post/she/) showed [no](/post/no/) [emotion](/post/emotion/) [during](/post/during/) [the](/post/the/) [trial](/post/trial/)."
-- **动词**: 引起或激发某种情感。例如: "[The](/post/the/) [movie](/post/movie/) [really](/post/really/) emotioned [me](/post/me/), making [me](/post/me/) [feel](/post/feel/) [both](/post/both/) [happy](/post/happy/) [and](/post/and/) [sad](/post/sad/)."
+- **名词**: 人类体验和表达的感受或情感，如喜怒哀乐。例如: "[She](/zh/post/she/) showed [no](/zh/post/no/) [emotion](/zh/post/emotion/) [during](/zh/post/during/) [the](/zh/post/the/) [trial](/zh/post/trial/)."
+- **动词**: 引起或激发某种情感。例如: "[The](/zh/post/the/) [movie](/zh/post/movie/) [really](/zh/post/really/) emotioned [me](/zh/post/me/), making [me](/zh/post/me/) [feel](/zh/post/feel/) [both](/zh/post/both/) [happy](/zh/post/happy/) [and](/zh/post/and/) [sad](/zh/post/sad/)."
 
 ## 短语
-- "[Emotional](/post/emotional/) [response](/post/response/)" 指对某一刺激的情感反应。
+- "[Emotional](/zh/post/emotional/) [response](/zh/post/response/)" 指对某一刺激的情感反应。
 - "Emotionally charged" 形容充满强烈情绪的。
-- "[In](/post/in/) [touch](/post/touch/) [with](/post/with/) one's emotions" 表示能理解和表达自己的感情。
+- "[In](/zh/post/in/) [touch](/zh/post/touch/) [with](/zh/post/with/) one's emotions" 表示能理解和表达自己的感情。
 
 ## 例句
-- 名词: "[He](/post/he/) was [able](/post/able/) [to](/post/to/) [control](/post/control/) [his](/post/his/) emotions [in](/post/in/) [front](/post/front/) [of](/post/of/) [the](/post/the/) [crowd](/post/crowd/)."
-- 动词: "[The](/post/the/) [music](/post/music/) emotioned [a](/post/a/) [sense](/post/sense/) [of](/post/of/) nostalgia [in](/post/in/) [her](/post/her/)."
+- 名词: "[He](/zh/post/he/) was [able](/zh/post/able/) [to](/zh/post/to/) [control](/zh/post/control/) [his](/zh/post/his/) emotions [in](/zh/post/in/) [front](/zh/post/front/) [of](/zh/post/of/) [the](/zh/post/the/) [crowd](/zh/post/crowd/)."
+- 动词: "[The](/zh/post/the/) [music](/zh/post/music/) emotioned [a](/zh/post/a/) [sense](/zh/post/sense/) [of](/zh/post/of/) nostalgia [in](/zh/post/in/) [her](/zh/post/her/)."
   
 ## 同义词
-- [Feeling](/post/feeling/)
+- [Feeling](/zh/post/feeling/)
 - Sentiment
-- [Affection](/post/affection/)
-- [Passion](/post/passion/)
-- [Mood](/post/mood/)
+- [Affection](/zh/post/affection/)
+- [Passion](/zh/post/passion/)
+- [Mood](/zh/post/mood/)

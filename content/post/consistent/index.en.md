@@ -7,31 +7,31 @@ description = '[kənˈsistənt] a.坚持的，一贯的'
 keywords = ['ai words', 'consistent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈsɪstənt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [a](/en/post/a/) [steady](/en/post/steady/) [or](/en/post/or/) [uniform](/en/post/uniform/) [quality](/en/post/quality/); unchanging [or](/en/post/or/) dependable. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [behavior](/en/post/behavior/) was consistently [kind](/en/post/kind/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [consistent](/en/post/consistent/) [manner](/en/post/manner/); [without](/en/post/without/) [variation](/en/post/variation/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) works consistently [every](/en/post/every/) [day](/en/post/day/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [quality](/en/post/quality/) [that](/en/post/that/) is [uniform](/en/post/uniform/) [or](/en/post/or/) unchanging. [For](/en/post/for/) [example](/en/post/example/): "Consistency is [key](/en/post/key/) [in](/en/post/in/) achieving [success](/en/post/success/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [a](/post/a/) [steady](/post/steady/) [or](/post/or/) [uniform](/post/uniform/) [quality](/post/quality/); unchanging [or](/post/or/) dependable. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [behavior](/post/behavior/) was consistently [kind](/post/kind/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [consistent](/post/consistent/) [manner](/post/manner/); [without](/post/without/) [variation](/post/variation/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) works consistently [every](/post/every/) [day](/post/day/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [quality](/post/quality/) [that](/post/that/) is [uniform](/post/uniform/) [or](/post/or/) unchanging. [For](/post/for/) [example](/post/example/): "Consistency is [key](/post/key/) [in](/post/in/) achieving [success](/post/success/)."
 
 ## Phrases
-- "[Maintain](/en/post/maintain/) consistency" [means](/en/post/means/) [to](/en/post/to/) [keep](/en/post/keep/) [a](/en/post/a/) [level](/en/post/level/) [of](/en/post/of/) uniformity [or](/en/post/or/) adherence [to](/en/post/to/) [a](/en/post/a/) [rule](/en/post/rule/) [or](/en/post/or/) [standard](/en/post/standard/).
-- "[Be](/en/post/be/) [consistent](/en/post/consistent/) [with](/en/post/with/) [your](/en/post/your/) actions" refers [to](/en/post/to/) matching [your](/en/post/your/) words [with](/en/post/with/) [your](/en/post/your/) deeds.
-- "[Consistent](/en/post/consistent/) [performance](/en/post/performance/)" denotes [a](/en/post/a/) [repeatedly](/en/post/repeatedly/) [reliable](/en/post/reliable/) [outcome](/en/post/outcome/).
+- "[Maintain](/post/maintain/) consistency" [means](/post/means/) [to](/post/to/) [keep](/post/keep/) [a](/post/a/) [level](/post/level/) [of](/post/of/) uniformity [or](/post/or/) adherence [to](/post/to/) [a](/post/a/) [rule](/post/rule/) [or](/post/or/) [standard](/post/standard/).
+- "[Be](/post/be/) [consistent](/post/consistent/) [with](/post/with/) [your](/post/your/) actions" refers [to](/post/to/) matching [your](/post/your/) words [with](/post/with/) [your](/post/your/) deeds.
+- "[Consistent](/post/consistent/) [performance](/post/performance/)" denotes [a](/post/a/) [repeatedly](/post/repeatedly/) [reliable](/post/reliable/) [outcome](/post/outcome/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [consistent](/en/post/consistent/) efforts paid [off](/en/post/off/) [with](/en/post/with/) [a](/en/post/a/) promotion."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) studies consistently [to](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) exams."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) strives [for](/en/post/for/) [product](/en/post/product/) consistency [across](/en/post/across/) [all](/en/post/all/) branches."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [consistent](/post/consistent/) efforts paid [off](/post/off/) [with](/post/with/) [a](/post/a/) promotion."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) studies consistently [to](/post/to/) [prepare](/post/prepare/) [for](/post/for/) exams."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) strives [for](/post/for/) [product](/post/product/) consistency [across](/post/across/) [all](/post/all/) branches."
 
 ## Synonyms
-- [Uniform](/en/post/uniform/)
-- [Steady](/en/post/steady/)
-- [Reliable](/en/post/reliable/)
+- [Uniform](/post/uniform/)
+- [Steady](/post/steady/)
+- [Reliable](/post/reliable/)
 - Dependable
 - Unwavering
-- [Stable](/en/post/stable/)
+- [Stable](/post/stable/)
 - Coherent
 - Seamless
 - Invariant

@@ -7,27 +7,27 @@ description = '[igˈzɔːst] vt.使筋疲力尽；用尽'
 keywords = ['ai words', 'exhaust']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪɡˈzɔːst/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) expelling [or](/en/post/or/) emitting [something](/en/post/something/) [completely](/en/post/completely/), [especially](/en/post/especially/) [air](/en/post/air/) [from](/en/post/from/) an [engine](/en/post/engine/) [or](/en/post/or/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) using [up](/en/post/up/) [all](/en/post/all/) [available](/en/post/available/) resources; [also](/en/post/also/), [a](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [system](/en/post/system/) [that](/en/post/that/) facilitates [this](/en/post/this/) expulsion. [Example](/en/post/example/): "[The](/en/post/the/) car's [exhaust](/en/post/exhaust/) fumes polluted [the](/en/post/the/) [air](/en/post/air/)."
-  - An [expression](/en/post/expression/) [for](/en/post/for/) [complete](/en/post/complete/) depletion [or](/en/post/or/) [fatigue](/en/post/fatigue/): "[After](/en/post/after/) running [the](/en/post/the/) marathon, [he](/en/post/he/) was [at](/en/post/at/) [his](/en/post/his/) [physical](/en/post/physical/) [exhaust](/en/post/exhaust/)."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) expelling [or](/post/or/) emitting [something](/post/something/) [completely](/post/completely/), [especially](/post/especially/) [air](/post/air/) [from](/post/from/) an [engine](/post/engine/) [or](/post/or/) [the](/post/the/) [process](/post/process/) [of](/post/of/) using [up](/post/up/) [all](/post/all/) [available](/post/available/) resources; [also](/post/also/), [a](/post/a/) [device](/post/device/) [or](/post/or/) [system](/post/system/) [that](/post/that/) facilitates [this](/post/this/) expulsion. [Example](/post/example/): "[The](/post/the/) car's [exhaust](/post/exhaust/) fumes polluted [the](/post/the/) [air](/post/air/)."
+  - An [expression](/post/expression/) [for](/post/for/) [complete](/post/complete/) depletion [or](/post/or/) [fatigue](/post/fatigue/): "[After](/post/after/) running [the](/post/the/) marathon, [he](/post/he/) was [at](/post/at/) [his](/post/his/) [physical](/post/physical/) [exhaust](/post/exhaust/)."
   
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [use](/en/post/use/) [up](/en/post/up/) [completely](/en/post/completely/), [especially](/en/post/especially/) [energy](/en/post/energy/), resources, [or](/en/post/or/) supplies. [Example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) exhausted [all](/en/post/all/) [their](/en/post/their/) strategies [before](/en/post/before/) conceding [defeat](/en/post/defeat/)."
-  - [To](/en/post/to/) [cause](/en/post/cause/) [extreme](/en/post/extreme/) tiredness [or](/en/post/or/) [fatigue](/en/post/fatigue/) [in](/en/post/in/) [someone](/en/post/someone/): "[The](/en/post/the/) grueling [work](/en/post/work/) [schedule](/en/post/schedule/) exhausted [her](/en/post/her/)."
-  - [To](/en/post/to/) analyze [or](/en/post/or/) [discuss](/en/post/discuss/) [something](/en/post/something/) thoroughly [so](/en/post/so/) [that](/en/post/that/) [no](/en/post/no/) [aspect](/en/post/aspect/) [remains](/en/post/remains/) unconsidered: "[We](/en/post/we/) exhausted [every](/en/post/every/) [possible](/en/post/possible/) [solution](/en/post/solution/) [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [use](/post/use/) [up](/post/up/) [completely](/post/completely/), [especially](/post/especially/) [energy](/post/energy/), resources, [or](/post/or/) supplies. [Example](/post/example/): "[The](/post/the/) [team](/post/team/) exhausted [all](/post/all/) [their](/post/their/) strategies [before](/post/before/) conceding [defeat](/post/defeat/)."
+  - [To](/post/to/) [cause](/post/cause/) [extreme](/post/extreme/) tiredness [or](/post/or/) [fatigue](/post/fatigue/) [in](/post/in/) [someone](/post/someone/): "[The](/post/the/) grueling [work](/post/work/) [schedule](/post/schedule/) exhausted [her](/post/her/)."
+  - [To](/post/to/) analyze [or](/post/or/) [discuss](/post/discuss/) [something](/post/something/) thoroughly [so](/post/so/) [that](/post/that/) [no](/post/no/) [aspect](/post/aspect/) [remains](/post/remains/) unconsidered: "[We](/post/we/) exhausted [every](/post/every/) [possible](/post/possible/) [solution](/post/solution/) [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
 
 ## Phrases
-- "[Exhaust](/en/post/exhaust/) [system](/en/post/system/)": [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) pipes [and](/en/post/and/) components designed [to](/en/post/to/) [safely](/en/post/safely/) [carry](/en/post/carry/) [away](/en/post/away/) [exhaust](/en/post/exhaust/) gases produced [by](/en/post/by/) an [engine](/en/post/engine/).
-- "[Breathe](/en/post/breathe/) [new](/en/post/new/) [life](/en/post/life/) [into](/en/post/into/) ([something](/en/post/something/))": [To](/en/post/to/) rejuvenate [or](/en/post/or/) reinvigorate [something](/en/post/something/) [that](/en/post/that/) has been exhausted [or](/en/post/or/) depleted.
-- "[To](/en/post/to/) [the](/en/post/the/) [point](/en/post/point/) [of](/en/post/of/) exhaustion": [So](/en/post/so/) extensively [that](/en/post/that/) [one](/en/post/one/) becomes [extremely](/en/post/extremely/) [tired](/en/post/tired/) [or](/en/post/or/) drained.
+- "[Exhaust](/post/exhaust/) [system](/post/system/)": [A](/post/a/) [series](/post/series/) [of](/post/of/) pipes [and](/post/and/) components designed [to](/post/to/) [safely](/post/safely/) [carry](/post/carry/) [away](/post/away/) [exhaust](/post/exhaust/) gases produced [by](/post/by/) an [engine](/post/engine/).
+- "[Breathe](/post/breathe/) [new](/post/new/) [life](/post/life/) [into](/post/into/) ([something](/post/something/))": [To](/post/to/) rejuvenate [or](/post/or/) reinvigorate [something](/post/something/) [that](/post/that/) has been exhausted [or](/post/or/) depleted.
+- "[To](/post/to/) [the](/post/the/) [point](/post/point/) [of](/post/of/) exhaustion": [So](/post/so/) extensively [that](/post/that/) [one](/post/one/) becomes [extremely](/post/extremely/) [tired](/post/tired/) [or](/post/or/) drained.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Replacing [the](/en/post/the/) [old](/en/post/old/) [exhaust](/en/post/exhaust/) [pipe](/en/post/pipe/) significantly improved [the](/en/post/the/) car's [performance](/en/post/performance/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [project](/en/post/project/) manager exhausted [all](/en/post/all/) options [before](/en/post/before/) deciding [on](/en/post/on/) [a](/en/post/a/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/)."
-- "[Her](/en/post/her/) [patience](/en/post/patience/) was exhausted [by](/en/post/by/) [his](/en/post/his/) [constant](/en/post/constant/) complaining."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Replacing [the](/post/the/) [old](/post/old/) [exhaust](/post/exhaust/) [pipe](/post/pipe/) significantly improved [the](/post/the/) car's [performance](/post/performance/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [project](/post/project/) manager exhausted [all](/post/all/) options [before](/post/before/) deciding [on](/post/on/) [a](/post/a/) [course](/post/course/) [of](/post/of/) [action](/post/action/)."
+- "[Her](/post/her/) [patience](/post/patience/) was exhausted [by](/post/by/) [his](/post/his/) [constant](/post/constant/) complaining."
 
 ## Synonyms
-- [Noun](/en/post/noun/): Emissions, fumes, [discharge](/en/post/discharge/), outflow, spent resources
-- [Verb](/en/post/verb/): Deplete, [consume](/en/post/consume/), expend, [drain](/en/post/drain/), [wear](/en/post/wear/) [out](/en/post/out/), [fatigue](/en/post/fatigue/), [use](/en/post/use/) [up](/en/post/up/), [tire](/en/post/tire/) [out](/en/post/out/)
+- [Noun](/post/noun/): Emissions, fumes, [discharge](/post/discharge/), outflow, spent resources
+- [Verb](/post/verb/): Deplete, [consume](/post/consume/), expend, [drain](/post/drain/), [wear](/post/wear/) [out](/post/out/), [fatigue](/post/fatigue/), [use](/post/use/) [up](/post/up/), [tire](/post/tire/) [out](/post/out/)

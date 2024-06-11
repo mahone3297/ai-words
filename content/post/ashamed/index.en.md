@@ -7,35 +7,35 @@ description = '[əˈ∫eimd] a.惭愧(的)；羞耻(的)'
 keywords = ['ai words', 'ashamed']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈʃeɪmd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Feeling](/en/post/feeling/) [or](/en/post/or/) expressing [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) guilt, embarrassment, [or](/en/post/or/) humiliation [because](/en/post/because/) [one](/en/post/one/) has done [something](/en/post/something/) [wrong](/en/post/wrong/) [or](/en/post/or/) is blamed [for](/en/post/for/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [ashamed](/en/post/ashamed/) [of](/en/post/of/) [her](/en/post/her/) [behavior](/en/post/behavior/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [show](/en/post/show/) [shame](/en/post/shame/) [or](/en/post/or/) guilt [about](/en/post/about/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was [ashamed](/en/post/ashamed/) [after](/en/post/after/) realizing [his](/en/post/his/) [mistake](/en/post/mistake/)."
+- **[Adjective](/post/adjective/)**: [Feeling](/post/feeling/) [or](/post/or/) expressing [a](/post/a/) [sense](/post/sense/) [of](/post/of/) guilt, embarrassment, [or](/post/or/) humiliation [because](/post/because/) [one](/post/one/) has done [something](/post/something/) [wrong](/post/wrong/) [or](/post/or/) is blamed [for](/post/for/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [ashamed](/post/ashamed/) [of](/post/of/) [her](/post/her/) [behavior](/post/behavior/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [show](/post/show/) [shame](/post/shame/) [or](/post/or/) guilt [about](/post/about/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) was [ashamed](/post/ashamed/) [after](/post/after/) realizing [his](/post/his/) [mistake](/post/mistake/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [ashamed](/en/post/ashamed/) [of](/en/post/of/) [something](/en/post/something/)" implies disapproval [or](/en/post/or/) [regret](/en/post/regret/) [for](/en/post/for/) an [action](/en/post/action/) [or](/en/post/or/) [quality](/en/post/quality/).
-- "[Feeling](/en/post/feeling/) [ashamed](/en/post/ashamed/)" describes [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) self-consciousness [or](/en/post/or/) remorse.
-- "[Save](/en/post/save/) [yourself](/en/post/yourself/) [from](/en/post/from/) [shame](/en/post/shame/)" [means](/en/post/means/) [to](/en/post/to/) [avoid](/en/post/avoid/) [public](/en/post/public/) humiliation [or](/en/post/or/) disgrace.
+- "[Be](/post/be/) [ashamed](/post/ashamed/) [of](/post/of/) [something](/post/something/)" implies disapproval [or](/post/or/) [regret](/post/regret/) [for](/post/for/) an [action](/post/action/) [or](/post/or/) [quality](/post/quality/).
+- "[Feeling](/post/feeling/) [ashamed](/post/ashamed/)" describes [a](/post/a/) [state](/post/state/) [of](/post/of/) self-consciousness [or](/post/or/) remorse.
+- "[Save](/post/save/) [yourself](/post/yourself/) [from](/post/from/) [shame](/post/shame/)" [means](/post/means/) [to](/post/to/) [avoid](/post/avoid/) [public](/post/public/) humiliation [or](/post/or/) disgrace.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [boy](/en/post/boy/) felt [ashamed](/en/post/ashamed/) [when](/en/post/when/) [he](/en/post/he/) was caught lying [to](/en/post/to/) [his](/en/post/his/) [teacher](/en/post/teacher/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) winning [the](/en/post/the/) [race](/en/post/race/), [he](/en/post/he/) couldn't [help](/en/post/help/) [but](/en/post/but/) [feel](/en/post/feel/) [ashamed](/en/post/ashamed/) [of](/en/post/of/) [his](/en/post/his/) [past](/en/post/past/) failures."
-- "[She](/en/post/she/) was [ashamed](/en/post/ashamed/) [to](/en/post/to/) [admit](/en/post/admit/) [her](/en/post/her/) mistakes [in](/en/post/in/) [front](/en/post/front/) [of](/en/post/of/) [her](/en/post/her/) friends."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [boy](/post/boy/) felt [ashamed](/post/ashamed/) [when](/post/when/) [he](/post/he/) was caught lying [to](/post/to/) [his](/post/his/) [teacher](/post/teacher/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) winning [the](/post/the/) [race](/post/race/), [he](/post/he/) couldn't [help](/post/help/) [but](/post/but/) [feel](/post/feel/) [ashamed](/post/ashamed/) [of](/post/of/) [his](/post/his/) [past](/post/past/) failures."
+- "[She](/post/she/) was [ashamed](/post/ashamed/) [to](/post/to/) [admit](/post/admit/) [her](/post/her/) mistakes [in](/post/in/) [front](/post/front/) [of](/post/of/) [her](/post/her/) friends."
 
 ## Synonyms
-- [Ashamed](/en/post/ashamed/) ([also](/en/post/also/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [comparative](/en/post/comparative/) [form](/en/post/form/), e.g., [more](/en/post/more/) [ashamed](/en/post/ashamed/))
+- [Ashamed](/post/ashamed/) ([also](/post/also/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [comparative](/post/comparative/) [form](/post/form/), e.g., [more](/post/more/) [ashamed](/post/ashamed/))
 - Humiliated
 - Embarrassed
-- [Guilty](/en/post/guilty/)
+- [Guilty](/post/guilty/)
 - Humiliated
 - Ashen-faced
 - Apologetic
 
 ## Antonyms
-- [Proud](/en/post/proud/)
-- [Confident](/en/post/confident/)
+- [Proud](/post/proud/)
+- [Confident](/post/confident/)
 - Unashamed
 - Unembarrassed
-- [Indifferent](/en/post/indifferent/)
+- [Indifferent](/post/indifferent/)

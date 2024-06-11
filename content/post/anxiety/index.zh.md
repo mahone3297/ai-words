@@ -11,22 +11,22 @@ keywords = ['ai words', 'anxiety']
 /əˈnæŋkʃəs/
 
 ## 释义
-- **名词**: 对未来的担忧或恐惧，焦虑不安。例如: "[She](/post/she/) felt [a](/post/a/) growing [sense](/post/sense/) [of](/post/of/) [anxiety](/post/anxiety/) [before](/post/before/) [her](/post/her/) [exam](/post/exam/)."
-- **形容词**: 引起焦虑的，令人担心的。例如: "[The](/post/the/) anxiety-inducing [news](/post/news/) made [him](/post/him/) [lose](/post/lose/) [sleep](/post/sleep/)."
+- **名词**: 对未来的担忧或恐惧，焦虑不安。例如: "[She](/zh/post/she/) felt [a](/zh/post/a/) growing [sense](/zh/post/sense/) [of](/zh/post/of/) [anxiety](/zh/post/anxiety/) [before](/zh/post/before/) [her](/zh/post/her/) [exam](/zh/post/exam/)."
+- **形容词**: 引起焦虑的，令人担心的。例如: "[The](/zh/post/the/) anxiety-inducing [news](/zh/post/news/) made [him](/zh/post/him/) [lose](/zh/post/lose/) [sleep](/zh/post/sleep/)."
 
 ## 短语
-- "[anxiety](/post/anxiety/) [attack](/post/attack/)" 指突然的强烈焦虑或恐慌感。
-- "[manage](/post/manage/) [anxiety](/post/anxiety/)" 表示控制或处理焦虑情绪。
-- "[anxiety](/post/anxiety/) [disorder](/post/disorder/)" 指焦虑症，一种心理障碍。
+- "[anxiety](/zh/post/anxiety/) [attack](/zh/post/attack/)" 指突然的强烈焦虑或恐慌感。
+- "[manage](/zh/post/manage/) [anxiety](/zh/post/anxiety/)" 表示控制或处理焦虑情绪。
+- "[anxiety](/zh/post/anxiety/) [disorder](/zh/post/disorder/)" 指焦虑症，一种心理障碍。
 
 ## 例句
-- 名词: "[His](/post/his/) [anxiety](/post/anxiety/) [about](/post/about/) [the](/post/the/) [job](/post/job/) [interview](/post/interview/) was palpable."
-- 形容词: "[The](/post/the/) uncertainty [of](/post/of/) [the](/post/the/) [situation](/post/situation/) caused [her](/post/her/) [anxiety](/post/anxiety/)."
-- 动词（非标准用法，但常见于口语）: "[She](/post/she/) was [anxious](/post/anxious/) [about](/post/about/) [the](/post/the/) upcoming presentation."
+- 名词: "[His](/zh/post/his/) [anxiety](/zh/post/anxiety/) [about](/zh/post/about/) [the](/zh/post/the/) [job](/zh/post/job/) [interview](/zh/post/interview/) was palpable."
+- 形容词: "[The](/zh/post/the/) uncertainty [of](/zh/post/of/) [the](/zh/post/the/) [situation](/zh/post/situation/) caused [her](/zh/post/her/) [anxiety](/zh/post/anxiety/)."
+- 动词（非标准用法，但常见于口语）: "[She](/zh/post/she/) was [anxious](/zh/post/anxious/) [about](/zh/post/about/) [the](/zh/post/the/) upcoming presentation."
 
 ## 同义词
 - Nervousness
 - Apprehension
 - Uneasiness
-- [Worry](/post/worry/)
-- [Stress](/post/stress/)
+- [Worry](/zh/post/worry/)
+- [Stress](/zh/post/stress/)

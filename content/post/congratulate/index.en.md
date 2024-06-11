@@ -7,38 +7,38 @@ description = '[kənˈgrætjuleit] vt.祝贺,向…道喜'
 keywords = ['ai words', 'congratulate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈɡrætʃuˈleɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [express](/en/post/express/) congratulations, typically [to](/en/post/to/) [someone](/en/post/someone/) [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [achievement](/en/post/achievement/) [or](/en/post/or/) [success](/en/post/success/). 
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) congratulating [or](/en/post/or/) [the](/en/post/the/) [expression](/en/post/expression/) [of](/en/post/of/) goodwill [and](/en/post/and/) [approval](/en/post/approval/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [express](/post/express/) congratulations, typically [to](/post/to/) [someone](/post/someone/) [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [achievement](/post/achievement/) [or](/post/or/) [success](/post/success/). 
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) congratulating [or](/post/or/) [the](/post/the/) [expression](/post/expression/) [of](/post/of/) goodwill [and](/post/and/) [approval](/post/approval/).
 
 ## Phrases
-- "Congratulations [on](/en/post/on/) [your](/en/post/your/) promotion."
-- "Let's [congratulate](/en/post/congratulate/) [the](/en/post/the/) winners [together](/en/post/together/)."
-- "[A](/en/post/a/) [round](/en/post/round/) [of](/en/post/of/) applause [for](/en/post/for/) [those](/en/post/those/) [who](/en/post/who/) [deserve](/en/post/deserve/) [to](/en/post/to/) [be](/en/post/be/) congratulated."
+- "Congratulations [on](/post/on/) [your](/post/your/) promotion."
+- "Let's [congratulate](/post/congratulate/) [the](/post/the/) winners [together](/post/together/)."
+- "[A](/post/a/) [round](/post/round/) [of](/post/of/) applause [for](/post/for/) [those](/post/those/) [who](/post/who/) [deserve](/post/deserve/) [to](/post/to/) [be](/post/be/) congratulated."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I wanted [to](/en/post/to/) [congratulate](/en/post/congratulate/) [you](/en/post/you/) [on](/en/post/on/) winning [the](/en/post/the/) marathon."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [entire](/en/post/entire/) [team](/en/post/team/) gathered [to](/en/post/to/) [congratulate](/en/post/congratulate/) [the](/en/post/the/) [new](/en/post/new/) manager."
-- **Infinitive**: "[To](/en/post/to/) [congratulate](/en/post/congratulate/) [someone](/en/post/someone/) is [to](/en/post/to/) [show](/en/post/show/) appreciation [for](/en/post/for/) [their](/en/post/their/) accomplishment."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I wanted [to](/post/to/) [congratulate](/post/congratulate/) [you](/post/you/) [on](/post/on/) winning [the](/post/the/) marathon."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [entire](/post/entire/) [team](/post/team/) gathered [to](/post/to/) [congratulate](/post/congratulate/) [the](/post/the/) [new](/post/new/) manager."
+- **Infinitive**: "[To](/post/to/) [congratulate](/post/congratulate/) [someone](/post/someone/) is [to](/post/to/) [show](/post/show/) appreciation [for](/post/for/) [their](/post/their/) accomplishment."
 
 ## Synonyms
-- [Congratulate](/en/post/congratulate/) [oneself](/en/post/oneself/) ([for](/en/post/for/))
-- [Celebrate](/en/post/celebrate/)
+- [Congratulate](/post/congratulate/) [oneself](/post/oneself/) ([for](/post/for/))
+- [Celebrate](/post/celebrate/)
 - Commend
 - Applaud
 - Honor
-- [Recognize](/en/post/recognize/)
+- [Recognize](/post/recognize/)
 
 ## Antonyms
-- [Pity](/en/post/pity/)
-- [Sympathize](/en/post/sympathize/)
-- Condole ([in](/en/post/in/) [the](/en/post/the/) [case](/en/post/case/) [of](/en/post/of/) [failure](/en/post/failure/) [or](/en/post/or/) [loss](/en/post/loss/))
+- [Pity](/post/pity/)
+- [Sympathize](/post/sympathize/)
+- Condole ([in](/post/in/) [the](/post/the/) [case](/post/case/) [of](/post/of/) [failure](/post/failure/) [or](/post/or/) [loss](/post/loss/))
 
 ## Related Words
-- Felicitate: [To](/en/post/to/) [express](/en/post/express/) felicitations, [similar](/en/post/similar/) [in](/en/post/in/) [meaning](/en/post/meaning/).
-- Jubilate: [To](/en/post/to/) [celebrate](/en/post/celebrate/) [with](/en/post/with/) [great](/en/post/great/) [joy](/en/post/joy/), [often](/en/post/often/) [after](/en/post/after/) achieving [something](/en/post/something/) [significant](/en/post/significant/).
-- [Achievement](/en/post/achievement/): [Something](/en/post/something/) accomplished [that](/en/post/that/) [may](/en/post/may/) [prompt](/en/post/prompt/) congratulations.
-- [Triumph](/en/post/triumph/): [A](/en/post/a/) notable [victory](/en/post/victory/) [or](/en/post/or/) [success](/en/post/success/), [often](/en/post/often/) accompanied [by](/en/post/by/) congratulations.
+- Felicitate: [To](/post/to/) [express](/post/express/) felicitations, [similar](/post/similar/) [in](/post/in/) [meaning](/post/meaning/).
+- Jubilate: [To](/post/to/) [celebrate](/post/celebrate/) [with](/post/with/) [great](/post/great/) [joy](/post/joy/), [often](/post/often/) [after](/post/after/) achieving [something](/post/something/) [significant](/post/significant/).
+- [Achievement](/post/achievement/): [Something](/post/something/) accomplished [that](/post/that/) [may](/post/may/) [prompt](/post/prompt/) congratulations.
+- [Triumph](/post/triumph/): [A](/post/a/) notable [victory](/post/victory/) [or](/post/or/) [success](/post/success/), [often](/post/often/) accompanied [by](/post/by/) congratulations.

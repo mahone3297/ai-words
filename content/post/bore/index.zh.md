@@ -11,22 +11,22 @@ keywords = ['ai words', 'bore']
 /bɔːr/
 
 ## 释义
-- **动词**: 使厌烦；使无聊。例如: "I was bored [by](/post/by/) [the](/post/the/) [long](/post/long/) [lecture](/post/lecture/)."
-- **名词**: 无趣的人或事。例如: "[The](/post/the/) [movie](/post/movie/) was [such](/post/such/) [a](/post/a/) [bore](/post/bore/) [that](/post/that/) I fell [asleep](/post/asleep/)."
-- **名词**: 钻头；钻孔工具。例如: "[The](/post/the/) [worker](/post/worker/) [used](/post/used/) [a](/post/a/) [power](/post/power/) [drill](/post/drill/) [with](/post/with/) [a](/post/a/) [large](/post/large/) [bore](/post/bore/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [hole](/post/hole/) [in](/post/in/) [the](/post/the/) [wall](/post/wall/)."
+- **动词**: 使厌烦；使无聊。例如: "I was bored [by](/zh/post/by/) [the](/zh/post/the/) [long](/zh/post/long/) [lecture](/zh/post/lecture/)."
+- **名词**: 无趣的人或事。例如: "[The](/zh/post/the/) [movie](/zh/post/movie/) was [such](/zh/post/such/) [a](/zh/post/a/) [bore](/zh/post/bore/) [that](/zh/post/that/) I fell [asleep](/zh/post/asleep/)."
+- **名词**: 钻头；钻孔工具。例如: "[The](/zh/post/the/) [worker](/zh/post/worker/) [used](/zh/post/used/) [a](/zh/post/a/) [power](/zh/post/power/) [drill](/zh/post/drill/) [with](/zh/post/with/) [a](/zh/post/a/) [large](/zh/post/large/) [bore](/zh/post/bore/) [to](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) [hole](/zh/post/hole/) [in](/zh/post/in/) [the](/zh/post/the/) [wall](/zh/post/wall/)."
 
 ## 短语
-- "[bore](/post/bore/) [someone](/post/someone/) [to](/post/to/) [death](/post/death/)" 让某人感到极度厌烦或无聊。
-- "[a](/post/a/) [big](/post/big/) [bore](/post/bore/)" 一个非常无聊的人或事。
+- "[bore](/zh/post/bore/) [someone](/zh/post/someone/) [to](/zh/post/to/) [death](/zh/post/death/)" 让某人感到极度厌烦或无聊。
+- "[a](/zh/post/a/) [big](/zh/post/big/) [bore](/zh/post/bore/)" 一个非常无聊的人或事。
 
 ## 例句
-- 动词: "[The](/post/the/) [endless](/post/endless/) [discussion](/post/discussion/) [about](/post/about/) [politics](/post/politics/) [really](/post/really/) bored [me](/post/me/)."
-- 名词: "[The](/post/the/) [party](/post/party/) was [full](/post/full/) [of](/post/of/) [people](/post/people/) [who](/post/who/) were [absolute](/post/absolute/) bores."
-- 名词: "[The](/post/the/) [engineer](/post/engineer/) adjusted [the](/post/the/) [size](/post/size/) [of](/post/of/) [the](/post/the/) pipe's [bore](/post/bore/) [to](/post/to/) [fit](/post/fit/) [the](/post/the/) specifications."
+- 动词: "[The](/zh/post/the/) [endless](/zh/post/endless/) [discussion](/zh/post/discussion/) [about](/zh/post/about/) [politics](/zh/post/politics/) [really](/zh/post/really/) bored [me](/zh/post/me/)."
+- 名词: "[The](/zh/post/the/) [party](/zh/post/party/) was [full](/zh/post/full/) [of](/zh/post/of/) [people](/zh/post/people/) [who](/zh/post/who/) were [absolute](/zh/post/absolute/) bores."
+- 名词: "[The](/zh/post/the/) [engineer](/zh/post/engineer/) adjusted [the](/zh/post/the/) [size](/zh/post/size/) [of](/zh/post/of/) [the](/zh/post/the/) pipe's [bore](/zh/post/bore/) [to](/zh/post/to/) [fit](/zh/post/fit/) [the](/zh/post/the/) specifications."
 
 ## 同义词
 - irritate
-- [tire](/post/tire/)
+- [tire](/zh/post/tire/)
 - ennui
-- [tedious](/post/tedious/)
+- [tedious](/zh/post/tedious/)
 - monotonous

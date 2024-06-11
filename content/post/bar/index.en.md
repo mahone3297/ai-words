@@ -7,50 +7,50 @@ description = '[bɑː(r)] n.酒吧间；条，杆；栅'
 keywords = ['ai words', 'bar']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[bar](/en/post/bar/)/
+## [Pronunciation](/post/pronunciation/)
+/[bar](/post/bar/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [bar](/en/post/bar/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/):
-- 1. [A](/en/post/a/) [long](/en/post/long/), [narrow](/en/post/narrow/) [piece](/en/post/piece/) [of](/en/post/of/) [metal](/en/post/metal/) [or](/en/post/or/) [wood](/en/post/wood/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) [support](/en/post/support/) [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) dividing [line](/en/post/line/): "[The](/en/post/the/) [steel](/en/post/steel/) [bar](/en/post/bar/) held [the](/en/post/the/) shelves [in](/en/post/in/) [place](/en/post/place/)."
-- 2. [A](/en/post/a/) [counter](/en/post/counter/) [or](/en/post/or/) [establishment](/en/post/establishment/) [where](/en/post/where/) alcoholic beverages [and](/en/post/and/) [sometimes](/en/post/sometimes/) [food](/en/post/food/) are served: "I stopped [by](/en/post/by/) [the](/en/post/the/) [local](/en/post/local/) pub [for](/en/post/for/) [a](/en/post/a/) [drink](/en/post/drink/) [after](/en/post/after/) [work](/en/post/work/)."
-- 3. [A](/en/post/a/) [horizontal](/en/post/horizontal/) [beam](/en/post/beam/) [that](/en/post/that/) spans an [opening](/en/post/opening/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [door](/en/post/door/) [or](/en/post/or/) [window](/en/post/window/): "[The](/en/post/the/) [wooden](/en/post/wooden/) [bar](/en/post/bar/) [over](/en/post/over/) [the](/en/post/the/) fireplace [provided](/en/post/provided/) [a](/en/post/a/) decorative [touch](/en/post/touch/)."
-- 4. [A](/en/post/a/) [social](/en/post/social/) gathering [or](/en/post/or/) [event](/en/post/event/), [especially](/en/post/especially/) [one](/en/post/one/) centered [around](/en/post/around/) drinks: "[We](/en/post/we/) had [a](/en/post/a/) [great](/en/post/great/) [time](/en/post/time/) [at](/en/post/at/) [the](/en/post/the/) [bar](/en/post/bar/) [on](/en/post/on/) Saturday [night](/en/post/night/)."
-- 5. [A](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [alcohol](/en/post/alcohol/), typically [a](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [volume](/en/post/volume/): "[This](/en/post/this/) [beer](/en/post/beer/) comes [in](/en/post/in/) [a](/en/post/a/) 20-ounce [bar](/en/post/bar/)."
+### [Noun](/post/noun/)
+[A](/post/a/) [bar](/post/bar/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/):
+- 1. [A](/post/a/) [long](/post/long/), [narrow](/post/narrow/) [piece](/post/piece/) [of](/post/of/) [metal](/post/metal/) [or](/post/or/) [wood](/post/wood/), [often](/post/often/) [used](/post/used/) [for](/post/for/) [support](/post/support/) [or](/post/or/) [as](/post/as/) [a](/post/a/) dividing [line](/post/line/): "[The](/post/the/) [steel](/post/steel/) [bar](/post/bar/) held [the](/post/the/) shelves [in](/post/in/) [place](/post/place/)."
+- 2. [A](/post/a/) [counter](/post/counter/) [or](/post/or/) [establishment](/post/establishment/) [where](/post/where/) alcoholic beverages [and](/post/and/) [sometimes](/post/sometimes/) [food](/post/food/) are served: "I stopped [by](/post/by/) [the](/post/the/) [local](/post/local/) pub [for](/post/for/) [a](/post/a/) [drink](/post/drink/) [after](/post/after/) [work](/post/work/)."
+- 3. [A](/post/a/) [horizontal](/post/horizontal/) [beam](/post/beam/) [that](/post/that/) spans an [opening](/post/opening/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [door](/post/door/) [or](/post/or/) [window](/post/window/): "[The](/post/the/) [wooden](/post/wooden/) [bar](/post/bar/) [over](/post/over/) [the](/post/the/) fireplace [provided](/post/provided/) [a](/post/a/) decorative [touch](/post/touch/)."
+- 4. [A](/post/a/) [social](/post/social/) gathering [or](/post/or/) [event](/post/event/), [especially](/post/especially/) [one](/post/one/) centered [around](/post/around/) drinks: "[We](/post/we/) had [a](/post/a/) [great](/post/great/) [time](/post/time/) [at](/post/at/) [the](/post/the/) [bar](/post/bar/) [on](/post/on/) Saturday [night](/post/night/)."
+- 5. [A](/post/a/) [measure](/post/measure/) [of](/post/of/) [alcohol](/post/alcohol/), typically [a](/post/a/) [unit](/post/unit/) [of](/post/of/) [volume](/post/volume/): "[This](/post/this/) [beer](/post/beer/) comes [in](/post/in/) [a](/post/a/) 20-ounce [bar](/post/bar/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [serve](/en/post/serve/) drinks [at](/en/post/at/) [a](/en/post/a/) [bar](/en/post/bar/): "[The](/en/post/the/) bartender was [busy](/en/post/busy/) mixing drinks [behind](/en/post/behind/) [the](/en/post/the/) [bar](/en/post/bar/)."
-- [To](/en/post/to/) patronize [a](/en/post/a/) [bar](/en/post/bar/) [for](/en/post/for/) socializing: "[He](/en/post/he/) [usually](/en/post/usually/) spends [his](/en/post/his/) weekends bar-hopping [with](/en/post/with/) friends."
-- [To](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [bar](/en/post/bar/) ([as](/en/post/as/) [in](/en/post/in/) weights) [for](/en/post/for/) [exercise](/en/post/exercise/): "[She](/en/post/she/) was lifting barbells [at](/en/post/at/) [the](/en/post/the/) gym."
+### [Verb](/post/verb/)
+- [To](/post/to/) [serve](/post/serve/) drinks [at](/post/at/) [a](/post/a/) [bar](/post/bar/): "[The](/post/the/) bartender was [busy](/post/busy/) mixing drinks [behind](/post/behind/) [the](/post/the/) [bar](/post/bar/)."
+- [To](/post/to/) patronize [a](/post/a/) [bar](/post/bar/) [for](/post/for/) socializing: "[He](/post/he/) [usually](/post/usually/) spends [his](/post/his/) weekends bar-hopping [with](/post/with/) friends."
+- [To](/post/to/) [use](/post/use/) [a](/post/a/) [bar](/post/bar/) ([as](/post/as/) [in](/post/in/) weights) [for](/post/for/) [exercise](/post/exercise/): "[She](/post/she/) was lifting barbells [at](/post/at/) [the](/post/the/) gym."
 
-### [Adjective](/en/post/adjective/)
-- Referring [to](/en/post/to/) [the](/en/post/the/) [height](/en/post/height/) [or](/en/post/or/) [length](/en/post/length/) [of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [object](/en/post/object/): "He's [quite](/en/post/quite/) [tall](/en/post/tall/), towering [over](/en/post/over/) [most](/en/post/most/) [people](/en/post/people/) [at](/en/post/at/) [the](/en/post/the/) [bar](/en/post/bar/)."
-- [In](/en/post/in/) [a](/en/post/a/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/): "[The](/en/post/the/) [bar](/en/post/bar/) was [set](/en/post/set/) [high](/en/post/high/) [for](/en/post/for/) [the](/en/post/the/) [competition](/en/post/competition/)."
+### [Adjective](/post/adjective/)
+- Referring [to](/post/to/) [the](/post/the/) [height](/post/height/) [or](/post/or/) [length](/post/length/) [of](/post/of/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [object](/post/object/): "He's [quite](/post/quite/) [tall](/post/tall/), towering [over](/post/over/) [most](/post/most/) [people](/post/people/) [at](/post/at/) [the](/post/the/) [bar](/post/bar/)."
+- [In](/post/in/) [a](/post/a/) [state](/post/state/) [or](/post/or/) [condition](/post/condition/): "[The](/post/the/) [bar](/post/bar/) was [set](/post/set/) [high](/post/high/) [for](/post/for/) [the](/post/the/) [competition](/post/competition/)."
 
-### [Preposition](/en/post/preposition/)
-- [At](/en/post/at/) [or](/en/post/or/) [along](/en/post/along/) [a](/en/post/a/) [bar](/en/post/bar/): "[She](/en/post/she/) sat [at](/en/post/at/) [the](/en/post/the/) [bar](/en/post/bar/) [with](/en/post/with/) [her](/en/post/her/) friends."
-- [In](/en/post/in/) terms [of](/en/post/of/) [measurement](/en/post/measurement/): "[This](/en/post/this/) recipe calls [for](/en/post/for/) [a](/en/post/a/) [bar](/en/post/bar/) [of](/en/post/of/) [soap](/en/post/soap/)."
+### [Preposition](/post/preposition/)
+- [At](/post/at/) [or](/post/or/) [along](/post/along/) [a](/post/a/) [bar](/post/bar/): "[She](/post/she/) sat [at](/post/at/) [the](/post/the/) [bar](/post/bar/) [with](/post/with/) [her](/post/her/) friends."
+- [In](/post/in/) terms [of](/post/of/) [measurement](/post/measurement/): "[This](/post/this/) recipe calls [for](/post/for/) [a](/post/a/) [bar](/post/bar/) [of](/post/of/) [soap](/post/soap/)."
 
-### [Noun](/en/post/noun/) ([plural](/en/post/plural/))
-- [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) drinking [or](/en/post/or/) consuming [alcohol](/en/post/alcohol/): "[He](/en/post/he/) enjoyed [several](/en/post/several/) rounds [at](/en/post/at/) [the](/en/post/the/) [bar](/en/post/bar/)."
+### [Noun](/post/noun/) ([plural](/post/plural/))
+- [The](/post/the/) [act](/post/act/) [of](/post/of/) drinking [or](/post/or/) consuming [alcohol](/post/alcohol/): "[He](/post/he/) enjoyed [several](/post/several/) rounds [at](/post/at/) [the](/post/the/) [bar](/post/bar/)."
 
 ## Phrases
-- "[Hang](/en/post/hang/) [out](/en/post/out/) [at](/en/post/at/) [the](/en/post/the/) [bar](/en/post/bar/)" [means](/en/post/means/) [to](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/) socializing [in](/en/post/in/) [a](/en/post/a/) [bar](/en/post/bar/).
-- "[Order](/en/post/order/) [a](/en/post/a/) [drink](/en/post/drink/) [at](/en/post/at/) [the](/en/post/the/) [bar](/en/post/bar/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) requesting [a](/en/post/a/) beverage [from](/en/post/from/) [the](/en/post/the/) bartender.
-- "[Behind](/en/post/behind/) [the](/en/post/the/) [bar](/en/post/bar/)" refers [to](/en/post/to/) [the](/en/post/the/) [area](/en/post/area/) [where](/en/post/where/) [a](/en/post/a/) bartender works.
+- "[Hang](/post/hang/) [out](/post/out/) [at](/post/at/) [the](/post/the/) [bar](/post/bar/)" [means](/post/means/) [to](/post/to/) [spend](/post/spend/) [time](/post/time/) socializing [in](/post/in/) [a](/post/a/) [bar](/post/bar/).
+- "[Order](/post/order/) [a](/post/a/) [drink](/post/drink/) [at](/post/at/) [the](/post/the/) [bar](/post/bar/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) requesting [a](/post/a/) beverage [from](/post/from/) [the](/post/the/) bartender.
+- "[Behind](/post/behind/) [the](/post/the/) [bar](/post/bar/)" refers [to](/post/to/) [the](/post/the/) [area](/post/area/) [where](/post/where/) [a](/post/a/) bartender works.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) barista shaped [the](/en/post/the/) foam [on](/en/post/on/) [top](/en/post/top/) [of](/en/post/of/) [my](/en/post/my/) latte [into](/en/post/into/) [a](/en/post/a/) [heart](/en/post/heart/)."
-- **[Verb](/en/post/verb/)**: "I'll grab [a](/en/post/a/) [couple](/en/post/couple/) [of](/en/post/of/) beers [at](/en/post/at/) [the](/en/post/the/) [bar](/en/post/bar/) [before](/en/post/before/) [the](/en/post/the/) [game](/en/post/game/) starts."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) leaned [against](/en/post/against/) [the](/en/post/the/) [bar](/en/post/bar/), admiring [the](/en/post/the/) [view](/en/post/view/) [outside](/en/post/outside/)."
-- **[Preposition](/en/post/preposition/)**: "[She](/en/post/she/) sat [at](/en/post/at/) [the](/en/post/the/) [bar](/en/post/bar/), watching [the](/en/post/the/) [live](/en/post/live/) [music](/en/post/music/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) barista shaped [the](/post/the/) foam [on](/post/on/) [top](/post/top/) [of](/post/of/) [my](/post/my/) latte [into](/post/into/) [a](/post/a/) [heart](/post/heart/)."
+- **[Verb](/post/verb/)**: "I'll grab [a](/post/a/) [couple](/post/couple/) [of](/post/of/) beers [at](/post/at/) [the](/post/the/) [bar](/post/bar/) [before](/post/before/) [the](/post/the/) [game](/post/game/) starts."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) leaned [against](/post/against/) [the](/post/the/) [bar](/post/bar/), admiring [the](/post/the/) [view](/post/view/) [outside](/post/outside/)."
+- **[Preposition](/post/preposition/)**: "[She](/post/she/) sat [at](/post/at/) [the](/post/the/) [bar](/post/bar/), watching [the](/post/the/) [live](/post/live/) [music](/post/music/)."
 
 ## Synonyms
 - Pub
 - Tavern
 - Lounge
-- [Counter](/en/post/counter/)
+- [Counter](/post/counter/)
 - Taproom
 - Barkeep
-- Alcohol-serving [establishment](/en/post/establishment/)
+- Alcohol-serving [establishment](/post/establishment/)

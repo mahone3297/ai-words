@@ -12,22 +12,22 @@ keywords = ['ai words', 'drown']
 
 ## 释义
 - **动词**: 
-1. 淹没，使溺水。例如: "[The](/post/the/) [child](/post/child/) was drowned [in](/post/in/) [the](/post/the/) [pool](/post/pool/)."
-2. （声音）被淹没，听不见。例如: "[The](/post/the/) [music](/post/music/) drowned [out](/post/out/) [the](/post/the/) [conversation](/post/conversation/)."
+1. 淹没，使溺水。例如: "[The](/zh/post/the/) [child](/zh/post/child/) was drowned [in](/zh/post/in/) [the](/zh/post/the/) [pool](/zh/post/pool/)."
+2. （声音）被淹没，听不见。例如: "[The](/zh/post/the/) [music](/zh/post/music/) drowned [out](/zh/post/out/) [the](/zh/post/the/) [conversation](/zh/post/conversation/)."
 
 - **名词**: 
-溺死，淹死。例如: "[Unfortunately](/post/unfortunately/), [there](/post/there/) were [several](/post/several/) drownings [at](/post/at/) [the](/post/the/) [beach](/post/beach/) [this](/post/this/) [summer](/post/summer/)."
+溺死，淹死。例如: "[Unfortunately](/zh/post/unfortunately/), [there](/zh/post/there/) were [several](/zh/post/several/) drownings [at](/zh/post/at/) [the](/zh/post/the/) [beach](/zh/post/beach/) [this](/zh/post/this/) [summer](/zh/post/summer/)."
 
 ## 短语
-- "[drown](/post/drown/) one's sorrows" 借酒浇愁，用酒精来忘却痛苦。例如: "[After](/post/after/) [the](/post/the/) breakup, [he](/post/he/) [often](/post/often/) went [to](/post/to/) [the](/post/the/) [bar](/post/bar/) [to](/post/to/) [drown](/post/drown/) [his](/post/his/) sorrows."
+- "[drown](/zh/post/drown/) one's sorrows" 借酒浇愁，用酒精来忘却痛苦。例如: "[After](/zh/post/after/) [the](/zh/post/the/) breakup, [he](/zh/post/he/) [often](/zh/post/often/) went [to](/zh/post/to/) [the](/zh/post/the/) [bar](/zh/post/bar/) [to](/zh/post/to/) [drown](/zh/post/drown/) [his](/zh/post/his/) sorrows."
 
 ## 例句
-- 动词: "[The](/post/the/) [heavy](/post/heavy/) [rain](/post/rain/) [almost](/post/almost/) drowned [the](/post/the/) city's drainage [system](/post/system/)."
-- 名词: "[The](/post/the/) [news](/post/news/) [of](/post/of/) [the](/post/the/) drowning made [the](/post/the/) headlines."
+- 动词: "[The](/zh/post/the/) [heavy](/zh/post/heavy/) [rain](/zh/post/rain/) [almost](/zh/post/almost/) drowned [the](/zh/post/the/) city's drainage [system](/zh/post/system/)."
+- 名词: "[The](/zh/post/the/) [news](/zh/post/news/) [of](/zh/post/of/) [the](/zh/post/the/) drowning made [the](/zh/post/the/) headlines."
 
 ## 同义词
-- [sink](/post/sink/)
-- [submerge](/post/submerge/)
-- perish [by](/post/by/) [water](/post/water/)
-- [go](/post/go/) [under](/post/under/)
-- [be](/post/be/) overwhelmed
+- [sink](/zh/post/sink/)
+- [submerge](/zh/post/submerge/)
+- perish [by](/zh/post/by/) [water](/zh/post/water/)
+- [go](/zh/post/go/) [under](/zh/post/under/)
+- [be](/zh/post/be/) overwhelmed

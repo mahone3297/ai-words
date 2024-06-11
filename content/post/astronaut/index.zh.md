@@ -14,12 +14,12 @@ keywords = ['ai words', 'astronaut']
 - **名词 n**: 航天员；宇航员。指受过专业训练，参与太空飞行任务的人。
 
 ## 短语
-- "[Astronaut](/post/astronaut/) [program](/post/program/)" 指的是宇航员培训计划。
-- "[Space](/post/space/) shuttle [astronaut](/post/astronaut/)" 指的是执行航天飞机任务的宇航员。
+- "[Astronaut](/zh/post/astronaut/) [program](/zh/post/program/)" 指的是宇航员培训计划。
+- "[Space](/zh/post/space/) shuttle [astronaut](/zh/post/astronaut/)" 指的是执行航天飞机任务的宇航员。
 
 ## 例句
-- "[She](/post/she/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) [few](/post/few/) women [who](/post/who/) [have](/post/have/) [become](/post/become/) astronauts."
-- "[The](/post/the/) [astronaut](/post/astronaut/) floated weightlessly [in](/post/in/) [the](/post/the/) [International](/post/international/) [Space](/post/space/) [Station](/post/station/)."
+- "[She](/zh/post/she/) is [one](/zh/post/one/) [of](/zh/post/of/) [the](/zh/post/the/) [few](/zh/post/few/) women [who](/zh/post/who/) [have](/zh/post/have/) [become](/zh/post/become/) astronauts."
+- "[The](/zh/post/the/) [astronaut](/zh/post/astronaut/) floated weightlessly [in](/zh/post/in/) [the](/zh/post/the/) [International](/zh/post/international/) [Space](/zh/post/space/) [Station](/zh/post/station/)."
 
 ## 同义词
 - Cosmonaut (尤指苏联或俄罗斯的宇航员)

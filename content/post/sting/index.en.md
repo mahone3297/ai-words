@@ -7,42 +7,42 @@ description = '[stiŋ] vt.刺；刺痛 vi.&n.刺'
 keywords = ['ai words', 'sting']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stɪŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[sting](/en/post/sting/)** [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/):
-1. **([noun](/en/post/noun/), [insect](/en/post/insect/))** [The](/en/post/the/) [sharp](/en/post/sharp/) [painful](/en/post/painful/) sensation caused [by](/en/post/by/) [the](/en/post/the/) [injection](/en/post/injection/) [of](/en/post/of/) venom [by](/en/post/by/) an [insect](/en/post/insect/) [like](/en/post/like/) [a](/en/post/a/) [bee](/en/post/bee/) [or](/en/post/or/) wasp. [Example](/en/post/example/): "[The](/en/post/the/) bee's [sting](/en/post/sting/) [left](/en/post/left/) [a](/en/post/a/) [red](/en/post/red/) welt [on](/en/post/on/) [her](/en/post/her/) [arm](/en/post/arm/)."
-2. **([noun](/en/post/noun/), slang)** [A](/en/post/a/) deceitful [or](/en/post/or/) malicious [action](/en/post/action/), [often](/en/post/often/) involving [a](/en/post/a/) [sudden](/en/post/sudden/) [or](/en/post/or/) [unexpected](/en/post/unexpected/) [attack](/en/post/attack/). [Example](/en/post/example/): "[His](/en/post/his/) [comment](/en/post/comment/) was [a](/en/post/a/) verbal [sting](/en/post/sting/) [that](/en/post/that/) [hurt](/en/post/hurt/) [my](/en/post/my/) feelings."
-3. **([noun](/en/post/noun/), figurative)** [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) irritation [or](/en/post/or/) resentment. [Example](/en/post/example/): "[She](/en/post/she/) felt [a](/en/post/a/) [sting](/en/post/sting/) [of](/en/post/of/) jealousy [when](/en/post/when/) [she](/en/post/she/) [saw](/en/post/saw/) [them](/en/post/them/) [together](/en/post/together/)."
+### [Noun](/post/noun/)
+[A](/post/a/) **[sting](/post/sting/)** [can](/post/can/) [refer](/post/refer/) [to](/post/to/):
+1. **([noun](/post/noun/), [insect](/post/insect/))** [The](/post/the/) [sharp](/post/sharp/) [painful](/post/painful/) sensation caused [by](/post/by/) [the](/post/the/) [injection](/post/injection/) [of](/post/of/) venom [by](/post/by/) an [insect](/post/insect/) [like](/post/like/) [a](/post/a/) [bee](/post/bee/) [or](/post/or/) wasp. [Example](/post/example/): "[The](/post/the/) bee's [sting](/post/sting/) [left](/post/left/) [a](/post/a/) [red](/post/red/) welt [on](/post/on/) [her](/post/her/) [arm](/post/arm/)."
+2. **([noun](/post/noun/), slang)** [A](/post/a/) deceitful [or](/post/or/) malicious [action](/post/action/), [often](/post/often/) involving [a](/post/a/) [sudden](/post/sudden/) [or](/post/or/) [unexpected](/post/unexpected/) [attack](/post/attack/). [Example](/post/example/): "[His](/post/his/) [comment](/post/comment/) was [a](/post/a/) verbal [sting](/post/sting/) [that](/post/that/) [hurt](/post/hurt/) [my](/post/my/) feelings."
+3. **([noun](/post/noun/), figurative)** [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) irritation [or](/post/or/) resentment. [Example](/post/example/): "[She](/post/she/) felt [a](/post/a/) [sting](/post/sting/) [of](/post/of/) jealousy [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [them](/post/them/) [together](/post/together/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[sting](/en/post/sting/)** ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)):
-1. [To](/en/post/to/) inflict [a](/en/post/a/) [sting](/en/post/sting/) [with](/en/post/with/) [a](/en/post/a/) stinging [creature](/en/post/creature/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [bee](/en/post/bee/). [Example](/en/post/example/): "[The](/en/post/the/) [bee](/en/post/bee/) stung [him](/en/post/him/) [on](/en/post/on/) [the](/en/post/the/) [hand](/en/post/hand/)."
-2. [To](/en/post/to/) [harm](/en/post/harm/) emotionally [or](/en/post/or/) verbally. [Example](/en/post/example/): "[Her](/en/post/her/) words stung [like](/en/post/like/) [a](/en/post/a/) [whip](/en/post/whip/)."
-3. (Informal) [To](/en/post/to/) [play](/en/post/play/) [a](/en/post/a/) prank [or](/en/post/or/) tease [someone](/en/post/someone/). [Example](/en/post/example/): "[The](/en/post/the/) kids stung [each](/en/post/each/) [other](/en/post/other/) [with](/en/post/with/) [water](/en/post/water/) balloons."
+### [Verb](/post/verb/)
+[To](/post/to/) **[sting](/post/sting/)** ([as](/post/as/) [a](/post/a/) [verb](/post/verb/)):
+1. [To](/post/to/) inflict [a](/post/a/) [sting](/post/sting/) [with](/post/with/) [a](/post/a/) stinging [creature](/post/creature/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [bee](/post/bee/). [Example](/post/example/): "[The](/post/the/) [bee](/post/bee/) stung [him](/post/him/) [on](/post/on/) [the](/post/the/) [hand](/post/hand/)."
+2. [To](/post/to/) [harm](/post/harm/) emotionally [or](/post/or/) verbally. [Example](/post/example/): "[Her](/post/her/) words stung [like](/post/like/) [a](/post/a/) [whip](/post/whip/)."
+3. (Informal) [To](/post/to/) [play](/post/play/) [a](/post/a/) prank [or](/post/or/) tease [someone](/post/someone/). [Example](/post/example/): "[The](/post/the/) kids stung [each](/post/each/) [other](/post/other/) [with](/post/with/) [water](/post/water/) balloons."
 
-### [Adjective](/en/post/adjective/)
-**Stinging** describes [something](/en/post/something/) [that](/en/post/that/) causes [a](/en/post/a/) [sharp](/en/post/sharp/), [painful](/en/post/painful/) sensation [or](/en/post/or/) is [sharply](/en/post/sharply/) [critical](/en/post/critical/) [or](/en/post/or/) biting. [Example](/en/post/example/): "[The](/en/post/the/) stinging sunburn [on](/en/post/on/) [his](/en/post/his/) [skin](/en/post/skin/)."
+### [Adjective](/post/adjective/)
+**Stinging** describes [something](/post/something/) [that](/post/that/) causes [a](/post/a/) [sharp](/post/sharp/), [painful](/post/painful/) sensation [or](/post/or/) is [sharply](/post/sharply/) [critical](/post/critical/) [or](/post/or/) biting. [Example](/post/example/): "[The](/post/the/) stinging sunburn [on](/post/on/) [his](/post/his/) [skin](/post/skin/)."
 
-### [Adverb](/en/post/adverb/)
-**Stingingly** describes [something](/en/post/something/) done [with](/en/post/with/) [great](/en/post/great/) sharpness [or](/en/post/or/) [intensity](/en/post/intensity/). [Example](/en/post/example/): "[His](/en/post/his/) [criticism](/en/post/criticism/) stungingly [accurate](/en/post/accurate/)."
+### [Adverb](/post/adverb/)
+**Stingingly** describes [something](/post/something/) done [with](/post/with/) [great](/post/great/) sharpness [or](/post/or/) [intensity](/post/intensity/). [Example](/post/example/): "[His](/post/his/) [criticism](/post/criticism/) stungingly [accurate](/post/accurate/)."
 
 ## Phrases
-- "Got stung [by](/en/post/by/) [a](/en/post/a/) [bee](/en/post/bee/)"
-- "[Feel](/en/post/feel/) [the](/en/post/the/) [sting](/en/post/sting/) [of](/en/post/of/) [defeat](/en/post/defeat/)"
-- "[A](/en/post/a/) stinging retort"
+- "Got stung [by](/post/by/) [a](/post/a/) [bee](/post/bee/)"
+- "[Feel](/post/feel/) [the](/post/the/) [sting](/post/sting/) [of](/post/of/) [defeat](/post/defeat/)"
+- "[A](/post/a/) stinging retort"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) hiker was surprised [by](/en/post/by/) [a](/en/post/a/) wasp's [sting](/en/post/sting/) [on](/en/post/on/) [her](/en/post/her/) [ankle](/en/post/ankle/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) remembered [the](/en/post/the/) [sting](/en/post/sting/) [of](/en/post/of/) rejection [from](/en/post/from/) [his](/en/post/his/) [application](/en/post/application/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) stinging [scent](/en/post/scent/) [of](/en/post/of/) citrus filled [the](/en/post/the/) [air](/en/post/air/)."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) words stungingly exposed [the](/en/post/the/) [truth](/en/post/truth/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) hiker was surprised [by](/post/by/) [a](/post/a/) wasp's [sting](/post/sting/) [on](/post/on/) [her](/post/her/) [ankle](/post/ankle/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) remembered [the](/post/the/) [sting](/post/sting/) [of](/post/of/) rejection [from](/post/from/) [his](/post/his/) [application](/post/application/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) stinging [scent](/post/scent/) [of](/post/of/) citrus filled [the](/post/the/) [air](/post/air/)."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) words stungingly exposed [the](/post/the/) [truth](/post/truth/)."
 
 ## Synonyms
--蜇 ([insect](/en/post/insect/) [sting](/en/post/sting/))
+-蜇 ([insect](/post/insect/) [sting](/post/sting/))
 - Harass
-- [Insult](/en/post/insult/)
-- Wounding [remark](/en/post/remark/)
+- [Insult](/post/insult/)
+- Wounding [remark](/post/remark/)
 - nettlesome (causing irritation)

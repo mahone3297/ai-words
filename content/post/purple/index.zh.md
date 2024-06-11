@@ -11,19 +11,19 @@ keywords = ['ai words', 'purple']
 /pɜːrpl/
 
 ## 释义
-- **形容词**: 1. 紫色的，表示一种颜色，介于蓝色和红色之间。例如: "[She](/post/she/) wore [a](/post/a/) [beautiful](/post/beautiful/) [purple](/post/purple/) [dress](/post/dress/) [to](/post/to/) [the](/post/the/) [party](/post/party/)."
-   - 2. (俚语) 代表奇特、非主流或具有创意的。例如: "[His](/post/his/) [music](/post/music/) has [a](/post/a/) [definite](/post/definite/) [purple](/post/purple/) vibe."
+- **形容词**: 1. 紫色的，表示一种颜色，介于蓝色和红色之间。例如: "[She](/zh/post/she/) wore [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [purple](/zh/post/purple/) [dress](/zh/post/dress/) [to](/zh/post/to/) [the](/zh/post/the/) [party](/zh/post/party/)."
+   - 2. (俚语) 代表奇特、非主流或具有创意的。例如: "[His](/zh/post/his/) [music](/zh/post/music/) has [a](/zh/post/a/) [definite](/zh/post/definite/) [purple](/zh/post/purple/) vibe."
 
 ## 短语
-- "[purple](/post/purple/) prose" 指过分华丽或夸张的文风。
-- "[purple](/post/purple/) [patch](/post/patch/)" 指一段特别成功或繁荣的时期。
+- "[purple](/zh/post/purple/) prose" 指过分华丽或夸张的文风。
+- "[purple](/zh/post/purple/) [patch](/zh/post/patch/)" 指一段特别成功或繁荣的时期。
 
 ## 例句
-- 形容词: "[The](/post/the/) flowers [in](/post/in/) [the](/post/the/) [garden](/post/garden/) were [a](/post/a/) stunning array [of](/post/of/) [purple](/post/purple/) [and](/post/and/) [pink](/post/pink/)."
-- 俚语: "[The](/post/the/) [new](/post/new/) [art](/post/art/) [gallery](/post/gallery/) has [a](/post/a/) [very](/post/very/) [purple](/post/purple/) [approach](/post/approach/) [to](/post/to/) displaying [contemporary](/post/contemporary/) works."
+- 形容词: "[The](/zh/post/the/) flowers [in](/zh/post/in/) [the](/zh/post/the/) [garden](/zh/post/garden/) were [a](/zh/post/a/) stunning array [of](/zh/post/of/) [purple](/zh/post/purple/) [and](/zh/post/and/) [pink](/zh/post/pink/)."
+- 俚语: "[The](/zh/post/the/) [new](/zh/post/new/) [art](/zh/post/art/) [gallery](/zh/post/gallery/) has [a](/zh/post/a/) [very](/zh/post/very/) [purple](/zh/post/purple/) [approach](/zh/post/approach/) [to](/zh/post/to/) displaying [contemporary](/zh/post/contemporary/) works."
 
 ## 同义词
-- [violet](/post/violet/)
+- [violet](/zh/post/violet/)
 - lilac
 - mauve
 - indigo

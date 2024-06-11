@@ -11,16 +11,16 @@ keywords = ['ai words', 'meadow']
 /ˈmeɪdoʊ/
 
 ## 释义
-- **名词**: 一片长满草的开阔地，通常位于田野或林边。例如: "[The](/post/the/) horses grazed [in](/post/in/) [the](/post/the/) [peaceful](/post/peaceful/) [meadow](/post/meadow/)."
-- **形容词**: 形容具有草地特征的。例如: "[A](/post/a/) [meadow](/post/meadow/) landscape [with](/post/with/) wildflowers [and](/post/and/) butterflies."
+- **名词**: 一片长满草的开阔地，通常位于田野或林边。例如: "[The](/zh/post/the/) horses grazed [in](/zh/post/in/) [the](/zh/post/the/) [peaceful](/zh/post/peaceful/) [meadow](/zh/post/meadow/)."
+- **形容词**: 形容具有草地特征的。例如: "[A](/zh/post/a/) [meadow](/zh/post/meadow/) landscape [with](/zh/post/with/) wildflowers [and](/zh/post/and/) butterflies."
 
 ## 短语
-- "[Meadow](/post/meadow/) [grass](/post/grass/)" 指生长在草地上的草。
+- "[Meadow](/zh/post/meadow/) [grass](/zh/post/grass/)" 指生长在草地上的草。
 - "Meadowlands" 通常指的是广阔的草地地区。
 
 ## 例句
-- 名词: "[We](/post/we/) had [a](/post/a/) [picnic](/post/picnic/) [on](/post/on/) [the](/post/the/) lush [green](/post/green/) [meadow](/post/meadow/)."
-- 形容词: "[The](/post/the/) meadow-style [garden](/post/garden/) was filled [with](/post/with/) blooming daisies."
+- 名词: "[We](/zh/post/we/) had [a](/zh/post/a/) [picnic](/zh/post/picnic/) [on](/zh/post/on/) [the](/zh/post/the/) lush [green](/zh/post/green/) [meadow](/zh/post/meadow/)."
+- 形容词: "[The](/zh/post/the/) meadow-style [garden](/zh/post/garden/) was filled [with](/zh/post/with/) blooming daisies."
 
 ## 同义词
 - Pasture

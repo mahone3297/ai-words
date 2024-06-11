@@ -7,45 +7,45 @@ description = '[hænd] n.手；人手；指针'
 keywords = ['ai words', 'hand']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /hænd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [terminal](/en/post/terminal/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [human](/en/post/human/) [arm](/en/post/arm/) [beyond](/en/post/beyond/) [the](/en/post/the/) [wrist](/en/post/wrist/), consisting [of](/en/post/of/) [five](/en/post/five/) fingers [and](/en/post/and/) [their](/en/post/their/) associated bones [and](/en/post/and/) muscles, [used](/en/post/used/) [for](/en/post/for/) grasping [and](/en/post/and/) holding objects, [among](/en/post/among/) [many](/en/post/many/) [other](/en/post/other/) functions.
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[She](/en/post/she/) held [the](/en/post/the/) [book](/en/post/book/) [in](/en/post/in/) [her](/en/post/her/) [hand](/en/post/hand/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [terminal](/post/terminal/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [human](/post/human/) [arm](/post/arm/) [beyond](/post/beyond/) [the](/post/the/) [wrist](/post/wrist/), consisting [of](/post/of/) [five](/post/five/) fingers [and](/post/and/) [their](/post/their/) associated bones [and](/post/and/) muscles, [used](/post/used/) [for](/post/for/) grasping [and](/post/and/) holding objects, [among](/post/among/) [many](/post/many/) [other](/post/other/) functions.
+  - [Example](/post/example/) [Sentence](/post/sentence/): "[She](/post/she/) held [the](/post/the/) [book](/post/book/) [in](/post/in/) [her](/post/her/) [hand](/post/hand/)."
   
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [transmit](/en/post/transmit/), [pass](/en/post/pass/), [or](/en/post/or/) [give](/en/post/give/) [with](/en/post/with/) [or](/en/post/or/) [as](/en/post/as/) [if](/en/post/if/) [with](/en/post/with/) [the](/en/post/the/) [hand](/en/post/hand/).
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[He](/en/post/he/) handed [her](/en/post/her/) [the](/en/post/the/) keys [to](/en/post/to/) [the](/en/post/the/) [car](/en/post/car/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [transmit](/post/transmit/), [pass](/post/pass/), [or](/post/or/) [give](/post/give/) [with](/post/with/) [or](/post/or/) [as](/post/as/) [if](/post/if/) [with](/post/with/) [the](/post/the/) [hand](/post/hand/).
+  - [Example](/post/example/) [Sentence](/post/sentence/): "[He](/post/he/) handed [her](/post/her/) [the](/post/the/) keys [to](/post/to/) [the](/post/the/) [car](/post/car/)."
   
-- **[Adjective](/en/post/adjective/)**: (adj) Done, made, [or](/en/post/or/) controlled [by](/en/post/by/) [hand](/en/post/hand/) [rather](/en/post/rather/) [than](/en/post/than/) [by](/en/post/by/) machinery [or](/en/post/or/) automatically.
-  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "Handcrafted [furniture](/en/post/furniture/) has [a](/en/post/a/) [unique](/en/post/unique/) charm."
+- **[Adjective](/post/adjective/)**: (adj) Done, made, [or](/post/or/) controlled [by](/post/by/) [hand](/post/hand/) [rather](/post/rather/) [than](/post/than/) [by](/post/by/) machinery [or](/post/or/) automatically.
+  - [Example](/post/example/) [Sentence](/post/sentence/): "Handcrafted [furniture](/post/furniture/) has [a](/post/a/) [unique](/post/unique/) charm."
 
-- **[Idiom](/en/post/idiom/)**: 
-  - **[In](/en/post/in/) [good](/en/post/good/) hands**: [Under](/en/post/under/) [the](/en/post/the/) [care](/en/post/care/) [or](/en/post/or/) [control](/en/post/control/) [of](/en/post/of/) [someone](/en/post/someone/) [who](/en/post/who/) is [competent](/en/post/competent/) [or](/en/post/or/) trustworthy.
-    - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[With](/en/post/with/) [the](/en/post/the/) experienced [surgeon](/en/post/surgeon/) [on](/en/post/on/) [the](/en/post/the/) [case](/en/post/case/), [we](/en/post/we/) knew [my](/en/post/my/) [mother](/en/post/mother/) was [in](/en/post/in/) [good](/en/post/good/) hands."
+- **[Idiom](/post/idiom/)**: 
+  - **[In](/post/in/) [good](/post/good/) hands**: [Under](/post/under/) [the](/post/the/) [care](/post/care/) [or](/post/or/) [control](/post/control/) [of](/post/of/) [someone](/post/someone/) [who](/post/who/) is [competent](/post/competent/) [or](/post/or/) trustworthy.
+    - [Example](/post/example/) [Sentence](/post/sentence/): "[With](/post/with/) [the](/post/the/) experienced [surgeon](/post/surgeon/) [on](/post/on/) [the](/post/the/) [case](/post/case/), [we](/post/we/) knew [my](/post/my/) [mother](/post/mother/) was [in](/post/in/) [good](/post/good/) hands."
 
 ## Phrases
-- **[At](/en/post/at/) [hand](/en/post/hand/)**: [Nearby](/en/post/nearby/); [close](/en/post/close/) [by](/en/post/by/).
-  - [Example](/en/post/example/): "[The](/en/post/the/) tools were [all](/en/post/all/) [at](/en/post/at/) [hand](/en/post/hand/) [when](/en/post/when/) [he](/en/post/he/) started [the](/en/post/the/) [repair](/en/post/repair/) [work](/en/post/work/)."
+- **[At](/post/at/) [hand](/post/hand/)**: [Nearby](/post/nearby/); [close](/post/close/) [by](/post/by/).
+  - [Example](/post/example/): "[The](/post/the/) tools were [all](/post/all/) [at](/post/at/) [hand](/post/hand/) [when](/post/when/) [he](/post/he/) started [the](/post/the/) [repair](/post/repair/) [work](/post/work/)."
 
-- **[By](/en/post/by/) [hand](/en/post/hand/)**: Using one's hands [rather](/en/post/rather/) [than](/en/post/than/) machines; manually.
-  - [Example](/en/post/example/): "[She](/en/post/she/) preferred [to](/en/post/to/) [make](/en/post/make/) [the](/en/post/the/) pottery [by](/en/post/by/) [hand](/en/post/hand/)."
+- **[By](/post/by/) [hand](/post/hand/)**: Using one's hands [rather](/post/rather/) [than](/post/than/) machines; manually.
+  - [Example](/post/example/): "[She](/post/she/) preferred [to](/post/to/) [make](/post/make/) [the](/post/the/) pottery [by](/post/by/) [hand](/post/hand/)."
 
-- **[Give](/en/post/give/) [a](/en/post/a/) [hand](/en/post/hand/)**: [Help](/en/post/help/) [out](/en/post/out/) [or](/en/post/or/) [assist](/en/post/assist/) [someone](/en/post/someone/).
-  - [Example](/en/post/example/): "[Could](/en/post/could/) [you](/en/post/you/) [give](/en/post/give/) [me](/en/post/me/) [a](/en/post/a/) [hand](/en/post/hand/) moving [this](/en/post/this/) couch?"
+- **[Give](/post/give/) [a](/post/a/) [hand](/post/hand/)**: [Help](/post/help/) [out](/post/out/) [or](/post/or/) [assist](/post/assist/) [someone](/post/someone/).
+  - [Example](/post/example/): "[Could](/post/could/) [you](/post/you/) [give](/post/give/) [me](/post/me/) [a](/post/a/) [hand](/post/hand/) moving [this](/post/this/) couch?"
 
-- **[Lend](/en/post/lend/) [a](/en/post/a/) [hand](/en/post/hand/)**: [Offer](/en/post/offer/) one's assistance.
-  - [Example](/en/post/example/): "I [could](/en/post/could/) [really](/en/post/really/) [use](/en/post/use/) [some](/en/post/some/) [help](/en/post/help/); [do](/en/post/do/) [you](/en/post/you/) [mind](/en/post/mind/) lending [a](/en/post/a/) [hand](/en/post/hand/)?"
+- **[Lend](/post/lend/) [a](/post/a/) [hand](/post/hand/)**: [Offer](/post/offer/) one's assistance.
+  - [Example](/post/example/): "I [could](/post/could/) [really](/post/really/) [use](/post/use/) [some](/post/some/) [help](/post/help/); [do](/post/do/) [you](/post/you/) [mind](/post/mind/) lending [a](/post/a/) [hand](/post/hand/)?"
 
-- **[Hand](/en/post/hand/) [in](/en/post/in/) [hand](/en/post/hand/)**: [Together](/en/post/together/), [closely](/en/post/closely/) related, [or](/en/post/or/) connected.
-  - [Example](/en/post/example/): "[Education](/en/post/education/) [and](/en/post/and/) [development](/en/post/development/) [go](/en/post/go/) [hand](/en/post/hand/) [in](/en/post/in/) [hand](/en/post/hand/)."
+- **[Hand](/post/hand/) [in](/post/in/) [hand](/post/hand/)**: [Together](/post/together/), [closely](/post/closely/) related, [or](/post/or/) connected.
+  - [Example](/post/example/): "[Education](/post/education/) [and](/post/and/) [development](/post/development/) [go](/post/go/) [hand](/post/hand/) [in](/post/in/) [hand](/post/hand/)."
 
-## [Example](/en/post/example/) Sentences
-- [Noun](/en/post/noun/): "[The](/en/post/the/) [artist](/en/post/artist/) sketched [the](/en/post/the/) [portrait](/en/post/portrait/) [with](/en/post/with/) [great](/en/post/great/) [detail](/en/post/detail/), capturing [every](/en/post/every/) [line](/en/post/line/) [and](/en/post/and/) crease [on](/en/post/on/) [the](/en/post/the/) model's [hand](/en/post/hand/)."
-- [Verb](/en/post/verb/): "[The](/en/post/the/) [teacher](/en/post/teacher/) handed [out](/en/post/out/) [the](/en/post/the/) [exam](/en/post/exam/) papers [to](/en/post/to/) [the](/en/post/the/) students."
-- [Adjective](/en/post/adjective/): "[The](/en/post/the/) artisan prided [himself](/en/post/himself/) [on](/en/post/on/) [his](/en/post/his/) hand-carved [wooden](/en/post/wooden/) sculptures."
+## [Example](/post/example/) Sentences
+- [Noun](/post/noun/): "[The](/post/the/) [artist](/post/artist/) sketched [the](/post/the/) [portrait](/post/portrait/) [with](/post/with/) [great](/post/great/) [detail](/post/detail/), capturing [every](/post/every/) [line](/post/line/) [and](/post/and/) crease [on](/post/on/) [the](/post/the/) model's [hand](/post/hand/)."
+- [Verb](/post/verb/): "[The](/post/the/) [teacher](/post/teacher/) handed [out](/post/out/) [the](/post/the/) [exam](/post/exam/) papers [to](/post/to/) [the](/post/the/) students."
+- [Adjective](/post/adjective/): "[The](/post/the/) artisan prided [himself](/post/himself/) [on](/post/on/) [his](/post/his/) hand-carved [wooden](/post/wooden/) sculptures."
 
 ## Synonyms
-- [Noun](/en/post/noun/): [Arm](/en/post/arm/), [paw](/en/post/paw/), mitt, [fist](/en/post/fist/)
-- [Verb](/en/post/verb/): [Pass](/en/post/pass/), [deliver](/en/post/deliver/), [transfer](/en/post/transfer/), [present](/en/post/present/)
-- [Adjective](/en/post/adjective/): [Manual](/en/post/manual/), artisanal, homemade, handmade
+- [Noun](/post/noun/): [Arm](/post/arm/), [paw](/post/paw/), mitt, [fist](/post/fist/)
+- [Verb](/post/verb/): [Pass](/post/pass/), [deliver](/post/deliver/), [transfer](/post/transfer/), [present](/post/present/)
+- [Adjective](/post/adjective/): [Manual](/post/manual/), artisanal, homemade, handmade

@@ -21,18 +21,18 @@ keywords = ['ai words', 'orbit']
    2. **围绕**：以某事物为中心进行活动或发展。
 
 ## 短语
-- "Orbital [motion](/post/motion/)" 指物体沿轨道的运动。
-- "[Solar](/post/solar/) [orbit](/post/orbit/)" 指绕太阳的轨道。
-- "[In](/post/in/) someone's [orbit](/post/orbit/)" 意味着在某人的影响范围内或与某人交往密切。
+- "Orbital [motion](/zh/post/motion/)" 指物体沿轨道的运动。
+- "[Solar](/zh/post/solar/) [orbit](/zh/post/orbit/)" 指绕太阳的轨道。
+- "[In](/zh/post/in/) someone's [orbit](/zh/post/orbit/)" 意味着在某人的影响范围内或与某人交往密切。
 
 ## 例句
-- 名词: "[The](/post/the/) [moon](/post/moon/) follows [a](/post/a/) [nearly](/post/nearly/) [circular](/post/circular/) [orbit](/post/orbit/) [around](/post/around/) [the](/post/the/) [Earth](/post/earth/)."
-- 动词: "[The](/post/the/) [satellite](/post/satellite/) orbits [the](/post/the/) [Earth](/post/earth/) [at](/post/at/) an [altitude](/post/altitude/) [of](/post/of/) 300 kilometers."
-- 比喻: "[She](/post/she/) [found](/post/found/) [herself](/post/herself/) [in](/post/in/) [his](/post/his/) [social](/post/social/) [orbit](/post/orbit/) [after](/post/after/) [the](/post/the/) [party](/post/party/)."
+- 名词: "[The](/zh/post/the/) [moon](/zh/post/moon/) follows [a](/zh/post/a/) [nearly](/zh/post/nearly/) [circular](/zh/post/circular/) [orbit](/zh/post/orbit/) [around](/zh/post/around/) [the](/zh/post/the/) [Earth](/zh/post/earth/)."
+- 动词: "[The](/zh/post/the/) [satellite](/zh/post/satellite/) orbits [the](/zh/post/the/) [Earth](/zh/post/earth/) [at](/zh/post/at/) an [altitude](/zh/post/altitude/) [of](/zh/post/of/) 300 kilometers."
+- 比喻: "[She](/zh/post/she/) [found](/zh/post/found/) [herself](/zh/post/herself/) [in](/zh/post/in/) [his](/zh/post/his/) [social](/zh/post/social/) [orbit](/zh/post/orbit/) [after](/zh/post/after/) [the](/zh/post/the/) [party](/zh/post/party/)."
 
 ## 同义词
-- [Course](/post/course/)
-- [Path](/post/path/)
-- [Track](/post/track/)
-- [Circuit](/post/circuit/)
+- [Course](/zh/post/course/)
+- [Path](/zh/post/path/)
+- [Track](/zh/post/track/)
+- [Circuit](/zh/post/circuit/)
 - Revolve

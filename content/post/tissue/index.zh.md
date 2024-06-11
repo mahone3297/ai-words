@@ -11,21 +11,21 @@ keywords = ['ai words', 'tissue']
 /tʃɪˈzuː/
 
 ## 释义
-- **名词**: 细薄的纸状物，常用于制造纸巾、卫生纸、组织样本等。例如: "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [some](/post/some/) facial tissues."
-- **名词**: 组织，生物体内的细胞群，具有特定结构和功能。例如: "[The](/post/the/) [scientist](/post/scientist/) studied [the](/post/the/) [tissue](/post/tissue/) samples [under](/post/under/) [the](/post/the/) [microscope](/post/microscope/)."
+- **名词**: 细薄的纸状物，常用于制造纸巾、卫生纸、组织样本等。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [buy](/zh/post/buy/) [some](/zh/post/some/) facial tissues."
+- **名词**: 组织，生物体内的细胞群，具有特定结构和功能。例如: "[The](/zh/post/the/) [scientist](/zh/post/scientist/) studied [the](/zh/post/the/) [tissue](/zh/post/tissue/) samples [under](/zh/post/under/) [the](/zh/post/the/) [microscope](/zh/post/microscope/)."
 
 ## 短语
-- "[tissue](/post/tissue/) [paper](/post/paper/)" 薄质纸，常用于包装或制作花艺。
-- "[muscle](/post/muscle/) [tissue](/post/tissue/)" 肌肉组织，生物体内的一种组织类型。
-- "connective [tissue](/post/tissue/)" 结缔组织，生物体内支持和连接其他组织的结构。
+- "[tissue](/zh/post/tissue/) [paper](/zh/post/paper/)" 薄质纸，常用于包装或制作花艺。
+- "[muscle](/zh/post/muscle/) [tissue](/zh/post/tissue/)" 肌肉组织，生物体内的一种组织类型。
+- "connective [tissue](/zh/post/tissue/)" 结缔组织，生物体内支持和连接其他组织的结构。
 
 ## 例句
-- 名词: "[She](/post/she/) blew [her](/post/her/) [nose](/post/nose/) [on](/post/on/) [a](/post/a/) [tissue](/post/tissue/)."
-- 名词: "[The](/post/the/) [doctor](/post/doctor/) examined [the](/post/the/) damaged [tissue](/post/tissue/) [in](/post/in/) [the](/post/the/) patient's [knee](/post/knee/)."
+- 名词: "[She](/zh/post/she/) blew [her](/zh/post/her/) [nose](/zh/post/nose/) [on](/zh/post/on/) [a](/zh/post/a/) [tissue](/zh/post/tissue/)."
+- 名词: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) examined [the](/zh/post/the/) damaged [tissue](/zh/post/tissue/) [in](/zh/post/in/) [the](/zh/post/the/) patient's [knee](/zh/post/knee/)."
 
 ## 同义词
-- [Paper](/post/paper/) [towel](/post/towel/)
+- [Paper](/zh/post/paper/) [towel](/zh/post/towel/)
 - Napkin
 - Cellulose
-- [Fabric](/post/fabric/) (在某些上下文中)
-- [Organ](/post/organ/) (在生物体组织的意义上)
+- [Fabric](/zh/post/fabric/) (在某些上下文中)
+- [Organ](/zh/post/organ/) (在生物体组织的意义上)

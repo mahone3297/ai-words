@@ -7,49 +7,49 @@ description = '[əˈgriː] vi.同意；持相同意见'
 keywords = ['ai words', 'agree']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈɡriː/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Agreement](/en/post/agreement/)**:
-- [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [fact](/en/post/fact/) [of](/en/post/of/) agreeing; [mutual](/en/post/mutual/) [consent](/en/post/consent/) [or](/en/post/or/) concurrence.
-- [A](/en/post/a/) [formal](/en/post/formal/) [arrangement](/en/post/arrangement/) [or](/en/post/or/) [understanding](/en/post/understanding/) reached [between](/en/post/between/) parties.
+### [Noun](/post/noun/)
+**[Agreement](/post/agreement/)**:
+- [The](/post/the/) [act](/post/act/) [or](/post/or/) [fact](/post/fact/) [of](/post/of/) agreeing; [mutual](/post/mutual/) [consent](/post/consent/) [or](/post/or/) concurrence.
+- [A](/post/a/) [formal](/post/formal/) [arrangement](/post/arrangement/) [or](/post/or/) [understanding](/post/understanding/) reached [between](/post/between/) parties.
 
-### [Verb](/en/post/verb/)
-**[Agree](/en/post/agree/)**:
-- [To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [harmony](/en/post/harmony/) [with](/en/post/with/) [or](/en/post/or/) [accept](/en/post/accept/) [the](/en/post/the/) views, opinions, [or](/en/post/or/) plans [of](/en/post/of/) [another](/en/post/another/) [person](/en/post/person/) [or](/en/post/or/) [group](/en/post/group/).
-- [To](/en/post/to/) [consent](/en/post/consent/) [to](/en/post/to/) [a](/en/post/a/) [proposal](/en/post/proposal/), [plan](/en/post/plan/), [or](/en/post/or/) [arrangement](/en/post/arrangement/).
-- [To](/en/post/to/) [cause](/en/post/cause/) [to](/en/post/to/) harmonize [or](/en/post/or/) [be](/en/post/be/) compatible.
+### [Verb](/post/verb/)
+**[Agree](/post/agree/)**:
+- [To](/post/to/) [be](/post/be/) [in](/post/in/) [harmony](/post/harmony/) [with](/post/with/) [or](/post/or/) [accept](/post/accept/) [the](/post/the/) views, opinions, [or](/post/or/) plans [of](/post/of/) [another](/post/another/) [person](/post/person/) [or](/post/or/) [group](/post/group/).
+- [To](/post/to/) [consent](/post/consent/) [to](/post/to/) [a](/post/a/) [proposal](/post/proposal/), [plan](/post/plan/), [or](/post/or/) [arrangement](/post/arrangement/).
+- [To](/post/to/) [cause](/post/cause/) [to](/post/to/) harmonize [or](/post/or/) [be](/post/be/) compatible.
 
-### [Adjective](/en/post/adjective/)
+### [Adjective](/post/adjective/)
 **Agreeable**:
-- Pleasing [or](/en/post/or/) delightful [to](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [or](/en/post/or/) [be](/en/post/be/) [around](/en/post/around/).
-- Having [a](/en/post/a/) [pleasant](/en/post/pleasant/) [or](/en/post/or/) favorable disposition.
+- Pleasing [or](/post/or/) delightful [to](/post/to/) [deal](/post/deal/) [with](/post/with/) [or](/post/or/) [be](/post/be/) [around](/post/around/).
+- Having [a](/post/a/) [pleasant](/post/pleasant/) [or](/post/or/) favorable disposition.
 
-### [Adverb](/en/post/adverb/)
+### [Adverb](/post/adverb/)
 **Agreeably**:
-- [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) is agreeable [or](/en/post/or/) pleasing.
-- [With](/en/post/with/) [harmony](/en/post/harmony/) [or](/en/post/or/) [accord](/en/post/accord/).
+- [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) is agreeable [or](/post/or/) pleasing.
+- [With](/post/with/) [harmony](/post/harmony/) [or](/post/or/) [accord](/post/accord/).
 
 ## Phrases
-- "[Reach](/en/post/reach/) an [agreement](/en/post/agreement/)" [means](/en/post/means/) [to](/en/post/to/) [come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) [mutual](/en/post/mutual/) [understanding](/en/post/understanding/) [or](/en/post/or/) [decision](/en/post/decision/).
-- "[In](/en/post/in/) [agreement](/en/post/agreement/)" signifies concord [or](/en/post/or/) [harmony](/en/post/harmony/).
-- "Disagreeable [to](/en/post/to/)" expresses aversion [or](/en/post/or/) opposition [to](/en/post/to/) [something](/en/post/something/).
+- "[Reach](/post/reach/) an [agreement](/post/agreement/)" [means](/post/means/) [to](/post/to/) [come](/post/come/) [to](/post/to/) [a](/post/a/) [mutual](/post/mutual/) [understanding](/post/understanding/) [or](/post/or/) [decision](/post/decision/).
+- "[In](/post/in/) [agreement](/post/agreement/)" signifies concord [or](/post/or/) [harmony](/post/harmony/).
+- "Disagreeable [to](/post/to/)" expresses aversion [or](/post/or/) opposition [to](/post/to/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) hours [of](/en/post/of/) negotiation, [they](/en/post/they/) [finally](/en/post/finally/) reached an [agreement](/en/post/agreement/) [on](/en/post/on/) [the](/en/post/the/) [contract](/en/post/contract/) terms."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [two](/en/post/two/) colleagues agreed [on](/en/post/on/) [the](/en/post/the/) [best](/en/post/best/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) easygoing [nature](/en/post/nature/) made [her](/en/post/her/) an agreeable roommate."
-- **[Adverb](/en/post/adverb/)**: "[They](/en/post/they/) greeted [each](/en/post/each/) [other](/en/post/other/) agreeably [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [time](/en/post/time/) [apart](/en/post/apart/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) hours [of](/post/of/) negotiation, [they](/post/they/) [finally](/post/finally/) reached an [agreement](/post/agreement/) [on](/post/on/) [the](/post/the/) [contract](/post/contract/) terms."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [two](/post/two/) colleagues agreed [on](/post/on/) [the](/post/the/) [best](/post/best/) [course](/post/course/) [of](/post/of/) [action](/post/action/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) easygoing [nature](/post/nature/) made [her](/post/her/) an agreeable roommate."
+- **[Adverb](/post/adverb/)**: "[They](/post/they/) greeted [each](/post/each/) [other](/post/other/) agreeably [after](/post/after/) [a](/post/a/) [long](/post/long/) [time](/post/time/) [apart](/post/apart/)."
 
 ## Synonyms
 - Concur
-- [Consent](/en/post/consent/)
-- [Accord](/en/post/accord/)
+- [Consent](/post/consent/)
+- [Accord](/post/accord/)
 - Harmonize
 - Consensus
-- [Sympathize](/en/post/sympathize/)
+- [Sympathize](/post/sympathize/)
 - Align
 -迎合
 - 符合 (fú hé) (Chinese)

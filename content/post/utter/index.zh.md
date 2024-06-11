@@ -12,21 +12,21 @@ keywords = ['ai words', 'utter']
 
 ## 释义
 - **动词**:
-    - 完全说出；清晰地发音：例如: "[He](/post/he/) uttered [the](/post/the/) [word](/post/word/) [slowly](/post/slowly/) [and](/post/and/) [clearly](/post/clearly/)."
-    - 发出（声音、叹息等）：例如: "[The](/post/the/) [baby](/post/baby/) uttered [a](/post/a/) contented coo."
-    - 表达；述说：例如: "[She](/post/she/) uttered [her](/post/her/) [fear](/post/fear/) [that](/post/that/) [something](/post/something/) [terrible](/post/terrible/) [might](/post/might/) [happen](/post/happen/)."
+    - 完全说出；清晰地发音：例如: "[He](/zh/post/he/) uttered [the](/zh/post/the/) [word](/zh/post/word/) [slowly](/zh/post/slowly/) [and](/zh/post/and/) [clearly](/zh/post/clearly/)."
+    - 发出（声音、叹息等）：例如: "[The](/zh/post/the/) [baby](/zh/post/baby/) uttered [a](/zh/post/a/) contented coo."
+    - 表达；述说：例如: "[She](/zh/post/she/) uttered [her](/zh/post/her/) [fear](/zh/post/fear/) [that](/zh/post/that/) [something](/zh/post/something/) [terrible](/zh/post/terrible/) [might](/zh/post/might/) [happen](/zh/post/happen/)."
 
 ## 短语
-- "[utter](/post/utter/) [nonsense](/post/nonsense/)" 意为“胡言乱语”。
-- "[utter](/post/utter/) [silence](/post/silence/)" 指的是“绝对的寂静”。
+- "[utter](/zh/post/utter/) [nonsense](/zh/post/nonsense/)" 意为“胡言乱语”。
+- "[utter](/zh/post/utter/) [silence](/zh/post/silence/)" 指的是“绝对的寂静”。
 
 ## 例句
-- 动词: "[She](/post/she/) uttered [a](/post/a/) [cry](/post/cry/) [of](/post/of/) [surprise](/post/surprise/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [him](/post/him/)."
-- "[In](/post/in/) [the](/post/the/) [quiet](/post/quiet/) [room](/post/room/), [even](/post/even/) [the](/post/the/) slightest [sound](/post/sound/) was an utterance."
+- 动词: "[She](/zh/post/she/) uttered [a](/zh/post/a/) [cry](/zh/post/cry/) [of](/zh/post/of/) [surprise](/zh/post/surprise/) [when](/zh/post/when/) [she](/zh/post/she/) [saw](/zh/post/saw/) [him](/zh/post/him/)."
+- "[In](/zh/post/in/) [the](/zh/post/the/) [quiet](/zh/post/quiet/) [room](/zh/post/room/), [even](/zh/post/even/) [the](/zh/post/the/) slightest [sound](/zh/post/sound/) was an utterance."
 
 ## 同义词
-- [Speak](/post/speak/)
-- [Pronounce](/post/pronounce/)
+- [Speak](/zh/post/speak/)
+- [Pronounce](/zh/post/pronounce/)
 - Enunciate
-- [Declare](/post/declare/)
+- [Declare](/zh/post/declare/)
 - Utterance

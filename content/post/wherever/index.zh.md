@@ -11,20 +11,20 @@ keywords = ['ai words', 'wherever']
 /wʌrˈevər/
 
 ## 释义
-- **副词**: 无论何处；在任何地方。表示地点的无限制。例如: "I [can](/post/can/) [do](/post/do/) [this](/post/this/) [work](/post/work/) [wherever](/post/wherever/) I am."
-- **连词**: 引导让步状语从句，表示无论在哪里。例如: "[Whatever](/post/whatever/) happens, [wherever](/post/wherever/) [we](/post/we/) [go](/post/go/), we'll [be](/post/be/) [together](/post/together/)."
+- **副词**: 无论何处；在任何地方。表示地点的无限制。例如: "I [can](/zh/post/can/) [do](/zh/post/do/) [this](/zh/post/this/) [work](/zh/post/work/) [wherever](/zh/post/wherever/) I am."
+- **连词**: 引导让步状语从句，表示无论在哪里。例如: "[Whatever](/zh/post/whatever/) happens, [wherever](/zh/post/wherever/) [we](/zh/post/we/) [go](/zh/post/go/), we'll [be](/zh/post/be/) [together](/zh/post/together/)."
 
 ## 短语
-- "[Wherever](/post/wherever/) [you](/post/you/) [go](/post/go/), [there](/post/there/) [you](/post/you/) are." 这是一句谚语，意思是无论你走到哪里，你都带着自己（指内心的自我）。
-- "[Follow](/post/follow/) [your](/post/your/) [heart](/post/heart/), [wherever](/post/wherever/) [it](/post/it/) [may](/post/may/) [lead](/post/lead/) [you](/post/you/)." 鼓励人们追随内心，无论它将你引向何方。
+- "[Wherever](/zh/post/wherever/) [you](/zh/post/you/) [go](/zh/post/go/), [there](/zh/post/there/) [you](/zh/post/you/) are." 这是一句谚语，意思是无论你走到哪里，你都带着自己（指内心的自我）。
+- "[Follow](/zh/post/follow/) [your](/zh/post/your/) [heart](/zh/post/heart/), [wherever](/zh/post/wherever/) [it](/zh/post/it/) [may](/zh/post/may/) [lead](/zh/post/lead/) [you](/zh/post/you/)." 鼓励人们追随内心，无论它将你引向何方。
 
 ## 例句
-- 副词: "[She](/post/she/) [can](/post/can/) [study](/post/study/) effectively [wherever](/post/wherever/) [she](/post/she/) finds [a](/post/a/) [quiet](/post/quiet/) [corner](/post/corner/)."
-- 连词: "[Wherever](/post/wherever/) [life](/post/life/) takes [you](/post/you/), [remember](/post/remember/) [to](/post/to/) [stay](/post/stay/) [true](/post/true/) [to](/post/to/) [yourself](/post/yourself/)."
+- 副词: "[She](/zh/post/she/) [can](/zh/post/can/) [study](/zh/post/study/) effectively [wherever](/zh/post/wherever/) [she](/zh/post/she/) finds [a](/zh/post/a/) [quiet](/zh/post/quiet/) [corner](/zh/post/corner/)."
+- 连词: "[Wherever](/zh/post/wherever/) [life](/zh/post/life/) takes [you](/zh/post/you/), [remember](/zh/post/remember/) [to](/zh/post/to/) [stay](/zh/post/stay/) [true](/zh/post/true/) [to](/zh/post/to/) [yourself](/zh/post/yourself/)."
 
 ## 同义词
-- [Anywhere](/post/anywhere/)
-- [Everywhere](/post/everywhere/)
-- [In](/post/in/) [any](/post/any/) [place](/post/place/)
-- [No](/post/no/) [matter](/post/matter/) [where](/post/where/)
-- [Whichever](/post/whichever/) [place](/post/place/)
+- [Anywhere](/zh/post/anywhere/)
+- [Everywhere](/zh/post/everywhere/)
+- [In](/zh/post/in/) [any](/zh/post/any/) [place](/zh/post/place/)
+- [No](/zh/post/no/) [matter](/zh/post/matter/) [where](/zh/post/where/)
+- [Whichever](/zh/post/whichever/) [place](/zh/post/place/)

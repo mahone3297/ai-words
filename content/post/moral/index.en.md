@@ -7,35 +7,35 @@ description = '[ˈmɔrəl] a.道德的；合乎道德的'
 keywords = ['ai words', 'moral']
 +++
 
-## [Word](/en/post/word/): [Moral](/en/post/moral/)
+## [Word](/post/word/): [Moral](/post/moral/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɔːrəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) principles [or](/en/post/or/) values [that](/en/post/that/) [guide](/en/post/guide/) actions, decisions, [and](/en/post/and/) behaviors; ethics [or](/en/post/or/) morality. [Example](/en/post/example/): "[The](/en/post/the/) [moral](/en/post/moral/) [of](/en/post/of/) [the](/en/post/the/) [story](/en/post/story/) is [to](/en/post/to/) [always](/en/post/always/) [be](/en/post/be/) [honest](/en/post/honest/)."
-  - [Also](/en/post/also/), [the](/en/post/the/) [lesson](/en/post/lesson/) [or](/en/post/or/) [message](/en/post/message/) [that](/en/post/that/) [a](/en/post/a/) [story](/en/post/story/) [or](/en/post/or/) [experience](/en/post/experience/) conveys [about](/en/post/about/) [right](/en/post/right/) [and](/en/post/and/) [wrong](/en/post/wrong/) [behavior](/en/post/behavior/). [Example](/en/post/example/): "[The](/en/post/the/) [moral](/en/post/moral/) [of](/en/post/of/) [the](/en/post/the/) [fable](/en/post/fable/) is [that](/en/post/that/) [hard](/en/post/hard/) [work](/en/post/work/) pays [off](/en/post/off/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [set](/post/set/) [of](/post/of/) principles [or](/post/or/) values [that](/post/that/) [guide](/post/guide/) actions, decisions, [and](/post/and/) behaviors; ethics [or](/post/or/) morality. [Example](/post/example/): "[The](/post/the/) [moral](/post/moral/) [of](/post/of/) [the](/post/the/) [story](/post/story/) is [to](/post/to/) [always](/post/always/) [be](/post/be/) [honest](/post/honest/)."
+  - [Also](/post/also/), [the](/post/the/) [lesson](/post/lesson/) [or](/post/or/) [message](/post/message/) [that](/post/that/) [a](/post/a/) [story](/post/story/) [or](/post/or/) [experience](/post/experience/) conveys [about](/post/about/) [right](/post/right/) [and](/post/and/) [wrong](/post/wrong/) [behavior](/post/behavior/). [Example](/post/example/): "[The](/post/the/) [moral](/post/moral/) [of](/post/of/) [the](/post/the/) [fable](/post/fable/) is [that](/post/that/) [hard](/post/hard/) [work](/post/work/) pays [off](/post/off/)."
 
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) principles [of](/en/post/of/) [right](/en/post/right/) [and](/en/post/and/) [wrong](/en/post/wrong/) [conduct](/en/post/conduct/); ethical. [Example](/en/post/example/): "[A](/en/post/a/) [moral](/en/post/moral/) dilemma."
-  - [Also](/en/post/also/), [teaching](/en/post/teaching/) [or](/en/post/or/) exhibiting [goodness](/en/post/goodness/) [or](/en/post/or/) correctness [of](/en/post/of/) [character](/en/post/character/) [and](/en/post/and/) [behavior](/en/post/behavior/). [Example](/en/post/example/): "[Moral](/en/post/moral/) [education](/en/post/education/) is [essential](/en/post/essential/) [for](/en/post/for/) children's [development](/en/post/development/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) principles [of](/post/of/) [right](/post/right/) [and](/post/and/) [wrong](/post/wrong/) [conduct](/post/conduct/); ethical. [Example](/post/example/): "[A](/post/a/) [moral](/post/moral/) dilemma."
+  - [Also](/post/also/), [teaching](/post/teaching/) [or](/post/or/) exhibiting [goodness](/post/goodness/) [or](/post/or/) correctness [of](/post/of/) [character](/post/character/) [and](/post/and/) [behavior](/post/behavior/). [Example](/post/example/): "[Moral](/post/moral/) [education](/post/education/) is [essential](/post/essential/) [for](/post/for/) children's [development](/post/development/)."
 
 ## Phrases
-- "[Moral](/en/post/moral/) [compass](/en/post/compass/)" refers [to](/en/post/to/) an individual's [internal](/en/post/internal/) [sense](/en/post/sense/) [of](/en/post/of/) [what](/en/post/what/) is [right](/en/post/right/) [and](/en/post/and/) [wrong](/en/post/wrong/) [that](/en/post/that/) guides [their](/en/post/their/) decision-making.
-- "[Moral](/en/post/moral/) [high](/en/post/high/) [ground](/en/post/ground/)" refers [to](/en/post/to/) holding [a](/en/post/a/) [position](/en/post/position/) regarded [as](/en/post/as/) morally [superior](/en/post/superior/) [to](/en/post/to/) others'.
-- "[Moral](/en/post/moral/) [support](/en/post/support/)" denotes encouragement [and](/en/post/and/) [emotional](/en/post/emotional/) backing [rather](/en/post/rather/) [than](/en/post/than/) tangible assistance.
+- "[Moral](/post/moral/) [compass](/post/compass/)" refers [to](/post/to/) an individual's [internal](/post/internal/) [sense](/post/sense/) [of](/post/of/) [what](/post/what/) is [right](/post/right/) [and](/post/and/) [wrong](/post/wrong/) [that](/post/that/) guides [their](/post/their/) decision-making.
+- "[Moral](/post/moral/) [high](/post/high/) [ground](/post/ground/)" refers [to](/post/to/) holding [a](/post/a/) [position](/post/position/) regarded [as](/post/as/) morally [superior](/post/superior/) [to](/post/to/) others'.
+- "[Moral](/post/moral/) [support](/post/support/)" denotes encouragement [and](/post/and/) [emotional](/post/emotional/) backing [rather](/post/rather/) [than](/post/than/) tangible assistance.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) [many](/en/post/many/) fairy tales, [the](/en/post/the/) [moral](/en/post/moral/) is [often](/en/post/often/) [clear](/en/post/clear/) [and](/en/post/and/) straightforward."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [moral](/en/post/moral/) integrity was [never](/en/post/never/) [in](/en/post/in/) [question](/en/post/question/) [during](/en/post/during/) [his](/en/post/his/) [long](/en/post/long/) [career](/en/post/career/) [in](/en/post/in/) [public](/en/post/public/) [service](/en/post/service/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[In](/post/in/) [many](/post/many/) fairy tales, [the](/post/the/) [moral](/post/moral/) is [often](/post/often/) [clear](/post/clear/) [and](/post/and/) straightforward."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [moral](/post/moral/) integrity was [never](/post/never/) [in](/post/in/) [question](/post/question/) [during](/post/during/) [his](/post/his/) [long](/post/long/) [career](/post/career/) [in](/post/in/) [public](/post/public/) [service](/post/service/)."
 
 ## Synonyms
 - Principles
 - Ethics
 - Morality
-- [Virtue](/en/post/virtue/)
+- [Virtue](/post/virtue/)
 - Values
-- Standards ([for](/en/post/for/) '[noun](/en/post/noun/)' [sense](/en/post/sense/))
-- Ethical ([for](/en/post/for/) '[adjective](/en/post/adjective/)' [sense](/en/post/sense/))
+- Standards ([for](/post/for/) '[noun](/post/noun/)' [sense](/post/sense/))
+- Ethical ([for](/post/for/) '[adjective](/post/adjective/)' [sense](/post/sense/))
 - Righteous
-- [Upright](/en/post/upright/)
-- [Decent](/en/post/decent/)
+- [Upright](/post/upright/)
+- [Decent](/post/decent/)

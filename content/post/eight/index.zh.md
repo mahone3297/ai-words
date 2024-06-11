@@ -11,18 +11,18 @@ keywords = ['ai words', 'eight']
 /ˈeɪt/
 
 ## 释义
-- **数词**: 表示数字8。例如: "[There](/post/there/) are [eight](/post/eight/) days [in](/post/in/) [a](/post/a/) [week](/post/week/)."
+- **数词**: 表示数字8。例如: "[There](/zh/post/there/) are [eight](/zh/post/eight/) days [in](/zh/post/in/) [a](/zh/post/a/) [week](/zh/post/week/)."
 
 ## 短语
-- "[Eight](/post/eight/) o'clock" 意为八点钟。
-- "[The](/post/the/) [eighth](/post/eighth/) [of](/post/of/) [May](/post/may/)" 指的是五月八日。
+- "[Eight](/zh/post/eight/) o'clock" 意为八点钟。
+- "[The](/zh/post/the/) [eighth](/zh/post/eighth/) [of](/zh/post/of/) [May](/zh/post/may/)" 指的是五月八日。
 
 ## 例句
-- "[We](/post/we/) [have](/post/have/) [eight](/post/eight/) apples [left](/post/left/) [in](/post/in/) [the](/post/the/) [basket](/post/basket/)."
-- "[The](/post/the/) [meeting](/post/meeting/) is scheduled [for](/post/for/) [eight](/post/eight/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- "[We](/zh/post/we/) [have](/zh/post/have/) [eight](/zh/post/eight/) apples [left](/zh/post/left/) [in](/zh/post/in/) [the](/zh/post/the/) [basket](/zh/post/basket/)."
+- "[The](/zh/post/the/) [meeting](/zh/post/meeting/) is scheduled [for](/zh/post/for/) [eight](/zh/post/eight/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
 
 ## 同义词
-- [Eight](/post/eight/) [can](/post/can/) [also](/post/also/) [be](/post/be/) written [as](/post/as/) "8" [in](/post/in/) numerical [form](/post/form/).
-- [In](/post/in/) [some](/post/some/) contexts, "octet" [can](/post/can/) [be](/post/be/) [a](/post/a/) synonym [for](/post/for/) [eight](/post/eight/), [particularly](/post/particularly/) [in](/post/in/) computing [where](/post/where/) [it](/post/it/) refers [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) [eight](/post/eight/) bits.
+- [Eight](/zh/post/eight/) [can](/zh/post/can/) [also](/zh/post/also/) [be](/zh/post/be/) written [as](/zh/post/as/) "8" [in](/zh/post/in/) numerical [form](/zh/post/form/).
+- [In](/zh/post/in/) [some](/zh/post/some/) contexts, "octet" [can](/zh/post/can/) [be](/zh/post/be/) [a](/zh/post/a/) synonym [for](/zh/post/for/) [eight](/zh/post/eight/), [particularly](/zh/post/particularly/) [in](/zh/post/in/) computing [where](/zh/post/where/) [it](/zh/post/it/) refers [to](/zh/post/to/) [a](/zh/post/a/) [group](/zh/post/group/) [of](/zh/post/of/) [eight](/zh/post/eight/) bits.
 
 请注意，eight主要作为数词使用，没有名词、动词、形容词、副词等其他词性的含义。

@@ -12,21 +12,21 @@ keywords = ['ai words', 'cricket']
 
 ## 释义
 - **名词**:
-    - 英式板球，一种运动。例如: "[Cricket](/post/cricket/) is [a](/post/a/) [popular](/post/popular/) [sport](/post/sport/) [in](/post/in/) England [and](/post/and/) [Australia](/post/australia/)."
-    - 板球比赛。例如: "[The](/post/the/) [cricket](/post/cricket/) [match](/post/match/) was [broadcast](/post/broadcast/) [live](/post/live/) [on](/post/on/) TV."
+    - 英式板球，一种运动。例如: "[Cricket](/zh/post/cricket/) is [a](/zh/post/a/) [popular](/zh/post/popular/) [sport](/zh/post/sport/) [in](/zh/post/in/) England [and](/zh/post/and/) [Australia](/zh/post/australia/)."
+    - 板球比赛。例如: "[The](/zh/post/the/) [cricket](/zh/post/cricket/) [match](/zh/post/match/) was [broadcast](/zh/post/broadcast/) [live](/zh/post/live/) [on](/zh/post/on/) TV."
 - **形容词**:
-    - 与板球相关的。例如: "[He](/post/he/) wore [his](/post/his/) [cricket](/post/cricket/) whites [for](/post/for/) [the](/post/the/) [game](/post/game/)."
+    - 与板球相关的。例如: "[He](/zh/post/he/) wore [his](/zh/post/his/) [cricket](/zh/post/cricket/) whites [for](/zh/post/for/) [the](/zh/post/the/) [game](/zh/post/game/)."
 
 ## 短语
-- "[Cricket](/post/cricket/) [bat](/post/bat/)" 指板球拍。
-- "[Cricket](/post/cricket/) [ball](/post/ball/)" 是板球比赛中的球。
-- "[Test](/post/test/) [cricket](/post/cricket/)" 是板球的一种正式比赛形式，通常持续五天。
+- "[Cricket](/zh/post/cricket/) [bat](/zh/post/bat/)" 指板球拍。
+- "[Cricket](/zh/post/cricket/) [ball](/zh/post/ball/)" 是板球比赛中的球。
+- "[Test](/zh/post/test/) [cricket](/zh/post/cricket/)" 是板球的一种正式比赛形式，通常持续五天。
 
 ## 例句
-- 名词: "[The](/post/the/) kids were playing [cricket](/post/cricket/) [in](/post/in/) [the](/post/the/) [park](/post/park/) [on](/post/on/) [a](/post/a/) [sunny](/post/sunny/) [afternoon](/post/afternoon/)."
-- 形容词: "[The](/post/the/) [cricket](/post/cricket/) [club](/post/club/) organized [a](/post/a/) [training](/post/training/) [session](/post/session/) [for](/post/for/) [its](/post/its/) members."
+- 名词: "[The](/zh/post/the/) kids were playing [cricket](/zh/post/cricket/) [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/) [on](/zh/post/on/) [a](/zh/post/a/) [sunny](/zh/post/sunny/) [afternoon](/zh/post/afternoon/)."
+- 形容词: "[The](/zh/post/the/) [cricket](/zh/post/cricket/) [club](/zh/post/club/) organized [a](/zh/post/a/) [training](/zh/post/training/) [session](/zh/post/session/) [for](/zh/post/for/) [its](/zh/post/its/) members."
 
 ## 同义词
-- [Cricket](/post/cricket/) [game](/post/game/)
-- [Cricket](/post/cricket/) [sport](/post/sport/)
-- Bat-and-ball [game](/post/game/) (更宽泛的术语，包括所有类似棒球和板球的运动)
+- [Cricket](/zh/post/cricket/) [game](/zh/post/game/)
+- [Cricket](/zh/post/cricket/) [sport](/zh/post/sport/)
+- Bat-and-ball [game](/zh/post/game/) (更宽泛的术语，包括所有类似棒球和板球的运动)

@@ -7,33 +7,33 @@ description = '[pə(ː)ˈmi∫ən] n.允许，许可，同意'
 keywords = ['ai words', 'permission']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pərˈmɪʃn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Permission](/en/post/permission/)** (n): [The](/en/post/the/) [right](/en/post/right/) [or](/en/post/or/) [authority](/en/post/authority/) given [by](/en/post/by/) [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [usually](/en/post/usually/) [with](/en/post/with/) [certain](/en/post/certain/) conditions [or](/en/post/or/) restrictions. [Example](/en/post/example/): "[She](/en/post/she/) asked [for](/en/post/for/) [permission](/en/post/permission/) [to](/en/post/to/) [use](/en/post/use/) [the](/en/post/the/) [car](/en/post/car/)."
-2. **Authorization** (n): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [official](/en/post/official/) [approval](/en/post/approval/) [or](/en/post/or/) [consent](/en/post/consent/). [Example](/en/post/example/): "[The](/en/post/the/) manager granted [permission](/en/post/permission/) [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/) [to](/en/post/to/) [proceed](/en/post/proceed/)."
+### [Noun](/post/noun/)
+1. **[Permission](/post/permission/)** (n): [The](/post/the/) [right](/post/right/) [or](/post/or/) [authority](/post/authority/) given [by](/post/by/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/), [usually](/post/usually/) [with](/post/with/) [certain](/post/certain/) conditions [or](/post/or/) restrictions. [Example](/post/example/): "[She](/post/she/) asked [for](/post/for/) [permission](/post/permission/) [to](/post/to/) [use](/post/use/) [the](/post/the/) [car](/post/car/)."
+2. **Authorization** (n): [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [official](/post/official/) [approval](/post/approval/) [or](/post/or/) [consent](/post/consent/). [Example](/post/example/): "[The](/post/the/) manager granted [permission](/post/permission/) [for](/post/for/) [the](/post/the/) [project](/post/project/) [to](/post/to/) [proceed](/post/proceed/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [grant](/en/post/grant/) [permission](/en/post/permission/)** (v): [To](/en/post/to/) [allow](/en/post/allow/) [or](/en/post/or/) [permit](/en/post/permit/) [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) granted [permission](/en/post/permission/) [for](/en/post/for/) [the](/en/post/the/) students [to](/en/post/to/) [leave](/en/post/leave/) [early](/en/post/early/)."
-2. **[To](/en/post/to/) [seek](/en/post/seek/) [permission](/en/post/permission/)** (v): [To](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) [approval](/en/post/approval/) [or](/en/post/or/) authorization [before](/en/post/before/) doing [something](/en/post/something/). [Example](/en/post/example/): "[He](/en/post/he/) sought [permission](/en/post/permission/) [to](/en/post/to/) [bring](/en/post/bring/) [his](/en/post/his/) [dog](/en/post/dog/) [to](/en/post/to/) [the](/en/post/the/) [event](/en/post/event/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [grant](/post/grant/) [permission](/post/permission/)** (v): [To](/post/to/) [allow](/post/allow/) [or](/post/or/) [permit](/post/permit/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) granted [permission](/post/permission/) [for](/post/for/) [the](/post/the/) students [to](/post/to/) [leave](/post/leave/) [early](/post/early/)."
+2. **[To](/post/to/) [seek](/post/seek/) [permission](/post/permission/)** (v): [To](/post/to/) [ask](/post/ask/) [for](/post/for/) [approval](/post/approval/) [or](/post/or/) authorization [before](/post/before/) doing [something](/post/something/). [Example](/post/example/): "[He](/post/he/) sought [permission](/post/permission/) [to](/post/to/) [bring](/post/bring/) [his](/post/his/) [dog](/post/dog/) [to](/post/to/) [the](/post/the/) [event](/post/event/)."
 
 ## Phrases
-- "[With](/en/post/with/) [permission](/en/post/permission/)" indicates [that](/en/post/that/) [you](/en/post/you/) are asking [if](/en/post/if/) it's [okay](/en/post/okay/) [to](/en/post/to/) [proceed](/en/post/proceed/). [Example](/en/post/example/): "[May](/en/post/may/) I [speak](/en/post/speak/) [now](/en/post/now/), [with](/en/post/with/) [your](/en/post/your/) [permission](/en/post/permission/)?"
-- "[Permission](/en/post/permission/) denied" [means](/en/post/means/) [that](/en/post/that/) [a](/en/post/a/) [request](/en/post/request/) has been refused. [Example](/en/post/example/): "[Your](/en/post/your/) [application](/en/post/application/) [for](/en/post/for/) [a](/en/post/a/) visa has been denied."
-- "[Take](/en/post/take/) [permission](/en/post/permission/)" implies asking [for](/en/post/for/) [permission](/en/post/permission/) [before](/en/post/before/) taking an [action](/en/post/action/). [Example](/en/post/example/): "[Please](/en/post/please/) [take](/en/post/take/) [permission](/en/post/permission/) [before](/en/post/before/) entering [the](/en/post/the/) restricted [area](/en/post/area/)."
+- "[With](/post/with/) [permission](/post/permission/)" indicates [that](/post/that/) [you](/post/you/) are asking [if](/post/if/) it's [okay](/post/okay/) [to](/post/to/) [proceed](/post/proceed/). [Example](/post/example/): "[May](/post/may/) I [speak](/post/speak/) [now](/post/now/), [with](/post/with/) [your](/post/your/) [permission](/post/permission/)?"
+- "[Permission](/post/permission/) denied" [means](/post/means/) [that](/post/that/) [a](/post/a/) [request](/post/request/) has been refused. [Example](/post/example/): "[Your](/post/your/) [application](/post/application/) [for](/post/for/) [a](/post/a/) visa has been denied."
+- "[Take](/post/take/) [permission](/post/permission/)" implies asking [for](/post/for/) [permission](/post/permission/) [before](/post/before/) taking an [action](/post/action/). [Example](/post/example/): "[Please](/post/please/) [take](/post/take/) [permission](/post/permission/) [before](/post/before/) entering [the](/post/the/) restricted [area](/post/area/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) received [permission](/en/post/permission/) [to](/en/post/to/) [stay](/en/post/stay/) [out](/en/post/out/) [late](/en/post/late/) [on](/en/post/on/) weekends."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [parent](/en/post/parent/) gave [their](/en/post/their/) [child](/en/post/child/) [permission](/en/post/permission/) [to](/en/post/to/) [join](/en/post/join/) [the](/en/post/the/) camping [trip](/en/post/trip/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [request](/en/post/request/)**: "[Could](/en/post/could/) I [have](/en/post/have/) [your](/en/post/your/) [permission](/en/post/permission/) [to](/en/post/to/) [close](/en/post/close/) [the](/en/post/the/) [door](/en/post/door/)?"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) received [permission](/post/permission/) [to](/post/to/) [stay](/post/stay/) [out](/post/out/) [late](/post/late/) [on](/post/on/) weekends."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [parent](/post/parent/) gave [their](/post/their/) [child](/post/child/) [permission](/post/permission/) [to](/post/to/) [join](/post/join/) [the](/post/the/) camping [trip](/post/trip/)."
+- **[As](/post/as/) [a](/post/a/) [request](/post/request/)**: "[Could](/post/could/) I [have](/post/have/) [your](/post/your/) [permission](/post/permission/) [to](/post/to/) [close](/post/close/) [the](/post/the/) [door](/post/door/)?"
 
 ## Synonyms
 - Authorization
-- [Approval](/en/post/approval/)
-- [Consent](/en/post/consent/)
+- [Approval](/post/approval/)
+- [Consent](/post/consent/)
 -许可
 - Allowance
 - Sanction
-- [Permission](/en/post/permission/) granted
+- [Permission](/post/permission/) granted

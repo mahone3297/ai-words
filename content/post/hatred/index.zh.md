@@ -11,16 +11,16 @@ keywords = ['ai words', 'hatred']
 /hætɪd/
 
 ## 释义
-- **名词**: 强烈的憎恶；深深的敌意。例如: "[His](/post/his/) [hatred](/post/hatred/) [for](/post/for/) [his](/post/his/) [enemy](/post/enemy/) was [well-known](/post/well-known/)."
-- **形容词**: 充满仇恨的；憎恶的。例如: "[The](/post/the/) [speech](/post/speech/) was filled [with](/post/with/) [hatred](/post/hatred/) towards [the](/post/the/) opposing [party](/post/party/)."
+- **名词**: 强烈的憎恶；深深的敌意。例如: "[His](/zh/post/his/) [hatred](/zh/post/hatred/) [for](/zh/post/for/) [his](/zh/post/his/) [enemy](/zh/post/enemy/) was [well-known](/zh/post/well-known/)."
+- **形容词**: 充满仇恨的；憎恶的。例如: "[The](/zh/post/the/) [speech](/zh/post/speech/) was filled [with](/zh/post/with/) [hatred](/zh/post/hatred/) towards [the](/zh/post/the/) opposing [party](/zh/post/party/)."
 
 ## 短语
-- "[hatred](/post/hatred/) [of](/post/of/)" 表示对某物的憎恨，例如: "[Her](/post/her/) [hatred](/post/hatred/) [of](/post/of/) spiders was irrational."
-- "[fuel](/post/fuel/) [the](/post/the/) [hatred](/post/hatred/)" 意为激发或加剧仇恨，例如: "[Their](/post/their/) actions [only](/post/only/) fueled [the](/post/the/) [hatred](/post/hatred/) [between](/post/between/) [the](/post/the/) [two](/post/two/) groups."
+- "[hatred](/zh/post/hatred/) [of](/zh/post/of/)" 表示对某物的憎恨，例如: "[Her](/zh/post/her/) [hatred](/zh/post/hatred/) [of](/zh/post/of/) spiders was irrational."
+- "[fuel](/zh/post/fuel/) [the](/zh/post/the/) [hatred](/zh/post/hatred/)" 意为激发或加剧仇恨，例如: "[Their](/zh/post/their/) actions [only](/zh/post/only/) fueled [the](/zh/post/the/) [hatred](/zh/post/hatred/) [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) groups."
 
 ## 例句
-- 名词: "[The](/post/the/) [war](/post/war/) was fueled [by](/post/by/) [the](/post/the/) deep-seated [hatred](/post/hatred/) [between](/post/between/) [the](/post/the/) countries."
-- 形容词: "[The](/post/the/) [speech](/post/speech/) was laced [with](/post/with/) [hatred](/post/hatred/) [and](/post/and/) called [for](/post/for/) [violence](/post/violence/)."
+- 名词: "[The](/zh/post/the/) [war](/zh/post/war/) was fueled [by](/zh/post/by/) [the](/zh/post/the/) deep-seated [hatred](/zh/post/hatred/) [between](/zh/post/between/) [the](/zh/post/the/) countries."
+- 形容词: "[The](/zh/post/the/) [speech](/zh/post/speech/) was laced [with](/zh/post/with/) [hatred](/zh/post/hatred/) [and](/zh/post/and/) called [for](/zh/post/for/) [violence](/zh/post/violence/)."
 
 ## 同义词
 - Animosity

@@ -7,36 +7,36 @@ description = '[səbˈmit] vt.使服从 vi.服从'
 keywords = ['ai words', 'submit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsʌmɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) submission, [especially](/en/post/especially/) [one](/en/post/one/) [to](/en/post/to/) [be](/en/post/be/) evaluated [or](/en/post/or/) accepted [by](/en/post/by/) [someone](/en/post/someone/) [in](/en/post/in/) [authority](/en/post/authority/) [or](/en/post/or/) [a](/en/post/a/) [competition](/en/post/competition/): "[The](/en/post/the/) artist's [work](/en/post/work/) was [finally](/en/post/finally/) submitted [to](/en/post/to/) [the](/en/post/the/) [gallery](/en/post/gallery/)."
-- [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) surrendering [or](/en/post/or/) offering [something](/en/post/something/) ([such](/en/post/such/) [as](/en/post/as/) ideas [or](/en/post/or/) opinions) [to](/en/post/to/) [be](/en/post/be/) considered [or](/en/post/or/) acted [upon](/en/post/upon/): "Employees were asked [to](/en/post/to/) [submit](/en/post/submit/) [their](/en/post/their/) suggestions [for](/en/post/for/) improving [the](/en/post/the/) workflow."
+### [Noun](/post/noun/)
+- [A](/post/a/) submission, [especially](/post/especially/) [one](/post/one/) [to](/post/to/) [be](/post/be/) evaluated [or](/post/or/) accepted [by](/post/by/) [someone](/post/someone/) [in](/post/in/) [authority](/post/authority/) [or](/post/or/) [a](/post/a/) [competition](/post/competition/): "[The](/post/the/) artist's [work](/post/work/) was [finally](/post/finally/) submitted [to](/post/to/) [the](/post/the/) [gallery](/post/gallery/)."
+- [The](/post/the/) [act](/post/act/) [of](/post/of/) surrendering [or](/post/or/) offering [something](/post/something/) ([such](/post/such/) [as](/post/as/) ideas [or](/post/or/) opinions) [to](/post/to/) [be](/post/be/) considered [or](/post/or/) acted [upon](/post/upon/): "Employees were asked [to](/post/to/) [submit](/post/submit/) [their](/post/their/) suggestions [for](/post/for/) improving [the](/post/the/) workflow."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [present](/en/post/present/) ([a](/en/post/a/) [document](/en/post/document/), artwork, [or](/en/post/or/) [idea](/en/post/idea/)) [for](/en/post/for/) [consideration](/en/post/consideration/), [acceptance](/en/post/acceptance/), [or](/en/post/or/) [approval](/en/post/approval/): "[The](/en/post/the/) students submitted [their](/en/post/their/) essays [on](/en/post/on/) [time](/en/post/time/)."
-- [To](/en/post/to/) [give](/en/post/give/) [in](/en/post/in/) [or](/en/post/or/) [yield](/en/post/yield/) [to](/en/post/to/) [a](/en/post/a/) [request](/en/post/request/) [or](/en/post/or/) [demand](/en/post/demand/): "[After](/en/post/after/) [much](/en/post/much/) [debate](/en/post/debate/), [he](/en/post/he/) [finally](/en/post/finally/) submitted [to](/en/post/to/) [her](/en/post/her/) wishes."
-- [To](/en/post/to/) comply [with](/en/post/with/) [a](/en/post/a/) [rule](/en/post/rule/) [or](/en/post/or/) [regulation](/en/post/regulation/): "Employees [must](/en/post/must/) [submit](/en/post/submit/) [their](/en/post/their/) [expense](/en/post/expense/) reports [by](/en/post/by/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [month](/en/post/month/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [present](/post/present/) ([a](/post/a/) [document](/post/document/), artwork, [or](/post/or/) [idea](/post/idea/)) [for](/post/for/) [consideration](/post/consideration/), [acceptance](/post/acceptance/), [or](/post/or/) [approval](/post/approval/): "[The](/post/the/) students submitted [their](/post/their/) essays [on](/post/on/) [time](/post/time/)."
+- [To](/post/to/) [give](/post/give/) [in](/post/in/) [or](/post/or/) [yield](/post/yield/) [to](/post/to/) [a](/post/a/) [request](/post/request/) [or](/post/or/) [demand](/post/demand/): "[After](/post/after/) [much](/post/much/) [debate](/post/debate/), [he](/post/he/) [finally](/post/finally/) submitted [to](/post/to/) [her](/post/her/) wishes."
+- [To](/post/to/) comply [with](/post/with/) [a](/post/a/) [rule](/post/rule/) [or](/post/or/) [regulation](/post/regulation/): "Employees [must](/post/must/) [submit](/post/submit/) [their](/post/their/) [expense](/post/expense/) reports [by](/post/by/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [month](/post/month/)."
 
 ## Phrases
-- "[Submit](/en/post/submit/) an [application](/en/post/application/)" [means](/en/post/means/) [to](/en/post/to/) [send](/en/post/send/) [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) [request](/en/post/request/) [or](/en/post/or/) [form](/en/post/form/) [for](/en/post/for/) [consideration](/en/post/consideration/).
-- "[Submit](/en/post/submit/) [a](/en/post/a/) [proposal](/en/post/proposal/)" is [to](/en/post/to/) [present](/en/post/present/) ideas [or](/en/post/or/) plans [for](/en/post/for/) [approval](/en/post/approval/) [or](/en/post/or/) funding.
-- "[Submit](/en/post/submit/) [to](/en/post/to/) [a](/en/post/a/) [test](/en/post/test/)" implies agreeing [to](/en/post/to/) [undergo](/en/post/undergo/) [a](/en/post/a/) [check](/en/post/check/) [or](/en/post/or/) [examination](/en/post/examination/).
+- "[Submit](/post/submit/) an [application](/post/application/)" [means](/post/means/) [to](/post/to/) [send](/post/send/) [in](/post/in/) [a](/post/a/) [formal](/post/formal/) [request](/post/request/) [or](/post/or/) [form](/post/form/) [for](/post/for/) [consideration](/post/consideration/).
+- "[Submit](/post/submit/) [a](/post/a/) [proposal](/post/proposal/)" is [to](/post/to/) [present](/post/present/) ideas [or](/post/or/) plans [for](/post/for/) [approval](/post/approval/) [or](/post/or/) funding.
+- "[Submit](/post/submit/) [to](/post/to/) [a](/post/a/) [test](/post/test/)" implies agreeing [to](/post/to/) [undergo](/post/undergo/) [a](/post/a/) [check](/post/check/) [or](/post/or/) [examination](/post/examination/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) students had [to](/en/post/to/) [submit](/en/post/submit/) [their](/en/post/their/) [research](/en/post/research/) papers [to](/en/post/to/) [the](/en/post/the/) [professor](/en/post/professor/) [before](/en/post/before/) [the](/en/post/the/) deadline."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [several](/en/post/several/) revisions, [the](/en/post/the/) [author](/en/post/author/) [finally](/en/post/finally/) submitted [the](/en/post/the/) manuscript [to](/en/post/to/) [the](/en/post/the/) publisher."
-- **[Verb](/en/post/verb/)**: "[If](/en/post/if/) [you](/en/post/you/) don't [submit](/en/post/submit/) [your](/en/post/your/) taxes [on](/en/post/on/) [time](/en/post/time/), [you](/en/post/you/) [may](/en/post/may/) [face](/en/post/face/) penalties."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) students had [to](/post/to/) [submit](/post/submit/) [their](/post/their/) [research](/post/research/) papers [to](/post/to/) [the](/post/the/) [professor](/post/professor/) [before](/post/before/) [the](/post/the/) deadline."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [several](/post/several/) revisions, [the](/post/the/) [author](/post/author/) [finally](/post/finally/) submitted [the](/post/the/) manuscript [to](/post/to/) [the](/post/the/) publisher."
+- **[Verb](/post/verb/)**: "[If](/post/if/) [you](/post/you/) don't [submit](/post/submit/) [your](/post/your/) taxes [on](/post/on/) [time](/post/time/), [you](/post/you/) [may](/post/may/) [face](/post/face/) penalties."
 
 ## Synonyms
-- [Offer](/en/post/offer/)
-- [Present](/en/post/present/)
-- [Hand](/en/post/hand/) [over](/en/post/over/)
-- [Propose](/en/post/propose/)
+- [Offer](/post/offer/)
+- [Present](/post/present/)
+- [Hand](/post/hand/) [over](/post/over/)
+- [Propose](/post/propose/)
 - Concede
-- [Yield](/en/post/yield/)
-- [Surrender](/en/post/surrender/)
-- [Present](/en/post/present/) (ideas)
-- [Submit](/en/post/submit/) [oneself](/en/post/oneself/) ([to](/en/post/to/) [a](/en/post/a/) [rule](/en/post/rule/) [or](/en/post/or/) [authority](/en/post/authority/))
+- [Yield](/post/yield/)
+- [Surrender](/post/surrender/)
+- [Present](/post/present/) (ideas)
+- [Submit](/post/submit/) [oneself](/post/oneself/) ([to](/post/to/) [a](/post/a/) [rule](/post/rule/) [or](/post/or/) [authority](/post/authority/))

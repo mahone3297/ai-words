@@ -11,20 +11,20 @@ keywords = ['ai words', 'somewhere']
 /səmˈweər/
 
 ## 释义
-- **副词**: 在某处；在某个地方。例如: "I [left](/post/left/) [my](/post/my/) keys [somewhere](/post/somewhere/) [in](/post/in/) [the](/post/the/) [house](/post/house/)."
-- **名词**: 某个地方；任何地方。例如: "[There](/post/there/) [must](/post/must/) [be](/post/be/) [a](/post/a/) [solution](/post/solution/) [somewhere](/post/somewhere/)."
+- **副词**: 在某处；在某个地方。例如: "I [left](/zh/post/left/) [my](/zh/post/my/) keys [somewhere](/zh/post/somewhere/) [in](/zh/post/in/) [the](/zh/post/the/) [house](/zh/post/house/)."
+- **名词**: 某个地方；任何地方。例如: "[There](/zh/post/there/) [must](/zh/post/must/) [be](/zh/post/be/) [a](/zh/post/a/) [solution](/zh/post/solution/) [somewhere](/zh/post/somewhere/)."
 
 ## 短语
-- "[Somewhere](/post/somewhere/) [along](/post/along/) [the](/post/the/) [line](/post/line/)" 意为在某个阶段或过程中。
-- "[Somewhere](/post/somewhere/) [in](/post/in/) [between](/post/between/)" 表示在两者之间或某种程度上。
+- "[Somewhere](/zh/post/somewhere/) [along](/zh/post/along/) [the](/zh/post/the/) [line](/zh/post/line/)" 意为在某个阶段或过程中。
+- "[Somewhere](/zh/post/somewhere/) [in](/zh/post/in/) [between](/zh/post/between/)" 表示在两者之间或某种程度上。
 
 ## 例句
-- 副词: "I [know](/post/know/) I [put](/post/put/) [my](/post/my/) [book](/post/book/) [down](/post/down/) [somewhere](/post/somewhere/), [but](/post/but/) I can't [remember](/post/remember/) [where](/post/where/)."
-- 名词: "There's [a](/post/a/) hidden [treasure](/post/treasure/) [somewhere](/post/somewhere/) [in](/post/in/) [this](/post/this/) [old](/post/old/) [house](/post/house/)."
+- 副词: "I [know](/zh/post/know/) I [put](/zh/post/put/) [my](/zh/post/my/) [book](/zh/post/book/) [down](/zh/post/down/) [somewhere](/zh/post/somewhere/), [but](/zh/post/but/) I can't [remember](/zh/post/remember/) [where](/zh/post/where/)."
+- 名词: "There's [a](/zh/post/a/) hidden [treasure](/zh/post/treasure/) [somewhere](/zh/post/somewhere/) [in](/zh/post/in/) [this](/zh/post/this/) [old](/zh/post/old/) [house](/zh/post/house/)."
 
 ## 同义词
-- [Anywhere](/post/anywhere/)
-- [Certain](/post/certain/) places
-- [In](/post/in/) [some](/post/some/) [place](/post/place/)
-- [Here](/post/here/) [and](/post/and/) [there](/post/there/)
-- [Nowhere](/post/nowhere/) (反义词，表示不在任何地方)
+- [Anywhere](/zh/post/anywhere/)
+- [Certain](/zh/post/certain/) places
+- [In](/zh/post/in/) [some](/zh/post/some/) [place](/zh/post/place/)
+- [Here](/zh/post/here/) [and](/zh/post/and/) [there](/zh/post/there/)
+- [Nowhere](/zh/post/nowhere/) (反义词，表示不在任何地方)

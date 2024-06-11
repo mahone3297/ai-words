@@ -7,28 +7,28 @@ description = '[ˈlaitniŋ]n.闪电，闪电放电'
 keywords = ['ai words', 'lightning']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlaɪtnɪŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [intense](/en/post/intense/) [flash](/en/post/flash/) [of](/en/post/of/) [light](/en/post/light/) caused [by](/en/post/by/) [a](/en/post/a/) [discharge](/en/post/discharge/) [of](/en/post/of/) [atmospheric](/en/post/atmospheric/) [electricity](/en/post/electricity/), [often](/en/post/often/) accompanied [by](/en/post/by/) [thunder](/en/post/thunder/), typically [during](/en/post/during/) [a](/en/post/a/) rainstorm. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lightning](/en/post/lightning/) illuminated [the](/en/post/the/) [sky](/en/post/sky/) [during](/en/post/during/) [the](/en/post/the/) [storm](/en/post/storm/)."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [sudden](/en/post/sudden/) [burst](/en/post/burst/) [or](/en/post/or/) [flash](/en/post/flash/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) brilliance, insight, [or](/en/post/or/) [energy](/en/post/energy/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [quick](/en/post/quick/) thinking was [like](/en/post/like/) [a](/en/post/a/) [bolt](/en/post/bolt/) [of](/en/post/of/) [lightning](/en/post/lightning/) [in](/en/post/in/) solving [the](/en/post/the/) [problem](/en/post/problem/)."
+- **[Noun](/post/noun/)**: An [intense](/post/intense/) [flash](/post/flash/) [of](/post/of/) [light](/post/light/) caused [by](/post/by/) [a](/post/a/) [discharge](/post/discharge/) [of](/post/of/) [atmospheric](/post/atmospheric/) [electricity](/post/electricity/), [often](/post/often/) accompanied [by](/post/by/) [thunder](/post/thunder/), typically [during](/post/during/) [a](/post/a/) rainstorm. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lightning](/post/lightning/) illuminated [the](/post/the/) [sky](/post/sky/) [during](/post/during/) [the](/post/the/) [storm](/post/storm/)."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [sudden](/post/sudden/) [burst](/post/burst/) [or](/post/or/) [flash](/post/flash/) [of](/post/of/) [something](/post/something/), [often](/post/often/) brilliance, insight, [or](/post/or/) [energy](/post/energy/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [quick](/post/quick/) thinking was [like](/post/like/) [a](/post/a/) [bolt](/post/bolt/) [of](/post/of/) [lightning](/post/lightning/) [in](/post/in/) solving [the](/post/the/) [problem](/post/problem/)."
 
 ## Phrases
-- "[Lightning](/en/post/lightning/) [bolt](/en/post/bolt/)": [A](/en/post/a/) [visible](/en/post/visible/) streak [of](/en/post/of/) [electricity](/en/post/electricity/) [that](/en/post/that/) occurs [during](/en/post/during/) [a](/en/post/a/) thunderstorm.
-- "[Lightning](/en/post/lightning/) [strike](/en/post/strike/)": [The](/en/post/the/) [event](/en/post/event/) [of](/en/post/of/) [lightning](/en/post/lightning/) hitting [the](/en/post/the/) [ground](/en/post/ground/) [or](/en/post/or/) an [object](/en/post/object/).
-- "[Lightning](/en/post/lightning/) [speed](/en/post/speed/)": [Extremely](/en/post/extremely/) [fast](/en/post/fast/) [pace](/en/post/pace/); [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) rapidity [or](/en/post/or/) swiftness. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) finished [her](/en/post/her/) [work](/en/post/work/) [with](/en/post/with/) [lightning](/en/post/lightning/) [speed](/en/post/speed/)."
-- "[A](/en/post/a/) [bolt](/en/post/bolt/) [from](/en/post/from/) [the](/en/post/the/) [blue](/en/post/blue/)": An [unexpected](/en/post/unexpected/) [event](/en/post/event/) [or](/en/post/or/) [piece](/en/post/piece/) [of](/en/post/of/) [news](/en/post/news/), [often](/en/post/often/) [with](/en/post/with/) [negative](/en/post/negative/) consequences, akin [to](/en/post/to/) [a](/en/post/a/) [sudden](/en/post/sudden/) [lightning](/en/post/lightning/) [strike](/en/post/strike/) [out](/en/post/out/) [of](/en/post/of/) [a](/en/post/a/) [clear](/en/post/clear/) [sky](/en/post/sky/).
+- "[Lightning](/post/lightning/) [bolt](/post/bolt/)": [A](/post/a/) [visible](/post/visible/) streak [of](/post/of/) [electricity](/post/electricity/) [that](/post/that/) occurs [during](/post/during/) [a](/post/a/) thunderstorm.
+- "[Lightning](/post/lightning/) [strike](/post/strike/)": [The](/post/the/) [event](/post/event/) [of](/post/of/) [lightning](/post/lightning/) hitting [the](/post/the/) [ground](/post/ground/) [or](/post/or/) an [object](/post/object/).
+- "[Lightning](/post/lightning/) [speed](/post/speed/)": [Extremely](/post/extremely/) [fast](/post/fast/) [pace](/post/pace/); [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) rapidity [or](/post/or/) swiftness. [For](/post/for/) [example](/post/example/): "[She](/post/she/) finished [her](/post/her/) [work](/post/work/) [with](/post/with/) [lightning](/post/lightning/) [speed](/post/speed/)."
+- "[A](/post/a/) [bolt](/post/bolt/) [from](/post/from/) [the](/post/the/) [blue](/post/blue/)": An [unexpected](/post/unexpected/) [event](/post/event/) [or](/post/or/) [piece](/post/piece/) [of](/post/of/) [news](/post/news/), [often](/post/often/) [with](/post/with/) [negative](/post/negative/) consequences, akin [to](/post/to/) [a](/post/a/) [sudden](/post/sudden/) [lightning](/post/lightning/) [strike](/post/strike/) [out](/post/out/) [of](/post/of/) [a](/post/a/) [clear](/post/clear/) [sky](/post/sky/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (literal)**: "[The](/en/post/the/) [house](/en/post/house/) was struck [by](/en/post/by/) [lightning](/en/post/lightning/) [during](/en/post/during/) [the](/en/post/the/) [storm](/en/post/storm/) [last](/en/post/last/) [night](/en/post/night/)."
-- **[Noun](/en/post/noun/) (figurative)**: "[His](/en/post/his/) [wit](/en/post/wit/) was [like](/en/post/like/) [lightning](/en/post/lightning/), striking [with](/en/post/with/) [unexpected](/en/post/unexpected/) brilliance."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (literal)**: "[The](/post/the/) [house](/post/house/) was struck [by](/post/by/) [lightning](/post/lightning/) [during](/post/during/) [the](/post/the/) [storm](/post/storm/) [last](/post/last/) [night](/post/night/)."
+- **[Noun](/post/noun/) (figurative)**: "[His](/post/his/) [wit](/post/wit/) was [like](/post/like/) [lightning](/post/lightning/), striking [with](/post/with/) [unexpected](/post/unexpected/) brilliance."
 
 ## Synonyms
 - Thunderbolt
-- [Flash](/en/post/flash/)
-- [Electric](/en/post/electric/) [discharge](/en/post/discharge/)
-- [Lightning](/en/post/lightning/) [flash](/en/post/flash/)
-- [Spark](/en/post/spark/)
-- [Flare](/en/post/flare/) ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/))
-- [Swift](/en/post/swift/) [movement](/en/post/movement/) [or](/en/post/or/) [action](/en/post/action/) ([for](/en/post/for/) [the](/en/post/the/) figurative [use](/en/post/use/))
+- [Flash](/post/flash/)
+- [Electric](/post/electric/) [discharge](/post/discharge/)
+- [Lightning](/post/lightning/) [flash](/post/flash/)
+- [Spark](/post/spark/)
+- [Flare](/post/flare/) ([in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/))
+- [Swift](/post/swift/) [movement](/post/movement/) [or](/post/or/) [action](/post/action/) ([for](/post/for/) [the](/post/the/) figurative [use](/post/use/))

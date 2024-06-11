@@ -7,25 +7,25 @@ description = '[ˈklevə] a.聪明的；机敏的'
 keywords = ['ai words', 'clever']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kliːvə(r)/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterizing [someone](/en/post/someone/) [who](/en/post/who/) is [intelligent](/en/post/intelligent/), resourceful, [or](/en/post/or/) [skillful](/en/post/skillful/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/). [For](/en/post/for/) [example](/en/post/example/): "She's [a](/en/post/a/) [clever](/en/post/clever/) [problem](/en/post/problem/) solver."
-- **[Adverb](/en/post/adverb/)**: Describing [a](/en/post/a/) [manner](/en/post/manner/) [or](/en/post/or/) [action](/en/post/action/) [as](/en/post/as/) [intelligent](/en/post/intelligent/) [or](/en/post/or/) [skillful](/en/post/skillful/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) performed [the](/en/post/the/) [task](/en/post/task/) [with](/en/post/with/) [great](/en/post/great/) cleverness."
+- **[Adjective](/post/adjective/)**: Characterizing [someone](/post/someone/) [who](/post/who/) is [intelligent](/post/intelligent/), resourceful, [or](/post/or/) [skillful](/post/skillful/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/). [For](/post/for/) [example](/post/example/): "She's [a](/post/a/) [clever](/post/clever/) [problem](/post/problem/) solver."
+- **[Adverb](/post/adverb/)**: Describing [a](/post/a/) [manner](/post/manner/) [or](/post/or/) [action](/post/action/) [as](/post/as/) [intelligent](/post/intelligent/) [or](/post/or/) [skillful](/post/skillful/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) performed [the](/post/the/) [task](/post/task/) [with](/post/with/) [great](/post/great/) cleverness."
 
 ## Phrases
-- "[Clever](/en/post/clever/) [trick](/en/post/trick/)" refers [to](/en/post/to/) [a](/en/post/a/) [cunning](/en/post/cunning/) [or](/en/post/or/) ingeniously devised [plan](/en/post/plan/) [or](/en/post/or/) [solution](/en/post/solution/).
-- "She's [not](/en/post/not/) [very](/en/post/very/) [clever](/en/post/clever/)" implies [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [intelligence](/en/post/intelligence/) [or](/en/post/or/) [understanding](/en/post/understanding/).
-- "[Clever](/en/post/clever/) thinking" acknowledges insightful [or](/en/post/or/) astute reasoning.
+- "[Clever](/post/clever/) [trick](/post/trick/)" refers [to](/post/to/) [a](/post/a/) [cunning](/post/cunning/) [or](/post/or/) ingeniously devised [plan](/post/plan/) [or](/post/or/) [solution](/post/solution/).
+- "She's [not](/post/not/) [very](/post/very/) [clever](/post/clever/)" implies [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [intelligence](/post/intelligence/) [or](/post/or/) [understanding](/post/understanding/).
+- "[Clever](/post/clever/) thinking" acknowledges insightful [or](/post/or/) astute reasoning.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) child's [clever](/en/post/clever/) [invention](/en/post/invention/) amazed [her](/en/post/her/) [teacher](/en/post/teacher/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) displayed [a](/en/post/a/) [clever](/en/post/clever/) knack [for](/en/post/for/) [learning](/en/post/learning/) [new](/en/post/new/) languages."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) cleverness helped [her](/en/post/her/) [escape](/en/post/escape/) [the](/en/post/the/) tricky [puzzle](/en/post/puzzle/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) child's [clever](/post/clever/) [invention](/post/invention/) amazed [her](/post/her/) [teacher](/post/teacher/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) displayed [a](/post/a/) [clever](/post/clever/) knack [for](/post/for/) [learning](/post/learning/) [new](/post/new/) languages."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) cleverness helped [her](/post/her/) [escape](/post/escape/) [the](/post/the/) tricky [puzzle](/post/puzzle/)."
 
 ## Synonyms
-- [Intelligent](/en/post/intelligent/)
+- [Intelligent](/post/intelligent/)
 - Resourceful
 - Astute
 - Quick-witted
@@ -35,8 +35,8 @@ keywords = ['ai words', 'clever']
 - Talented
 
 ## Antonyms
-- [Stupid](/en/post/stupid/)
-- [Foolish](/en/post/foolish/)
-- [Clumsy](/en/post/clumsy/)
+- [Stupid](/post/stupid/)
+- [Foolish](/post/foolish/)
+- [Clumsy](/post/clumsy/)
 - Incompetent
 - Unintelligent

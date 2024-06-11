@@ -14,15 +14,15 @@ keywords = ['ai words', 'radium']
 - **名词**: （n）化学元素镭，原子序数88，符号Ra，一种放射性金属元素。
 
 ## 短语
-- "[Radium](/post/radium/) [compound](/post/compound/)" 指镭的化合物。
-- "[Radium](/post/radium/) therapy" 是指使用镭进行的放射治疗。
+- "[Radium](/zh/post/radium/) [compound](/zh/post/compound/)" 指镭的化合物。
+- "[Radium](/zh/post/radium/) therapy" 是指使用镭进行的放射治疗。
 
 ## 例句
-- "[Radium](/post/radium/) was [once](/post/once/) [used](/post/used/) [in](/post/in/) [medical](/post/medical/) treatments [for](/post/for/) [its](/post/its/) [radioactive](/post/radioactive/) properties."
-- "Scientists discovered radium's [dangerous](/post/dangerous/) effects [on](/post/on/) [human](/post/human/) [health](/post/health/) [after](/post/after/) [extensive](/post/extensive/) [research](/post/research/)."
+- "[Radium](/zh/post/radium/) was [once](/zh/post/once/) [used](/zh/post/used/) [in](/zh/post/in/) [medical](/zh/post/medical/) treatments [for](/zh/post/for/) [its](/zh/post/its/) [radioactive](/zh/post/radioactive/) properties."
+- "Scientists discovered radium's [dangerous](/zh/post/dangerous/) effects [on](/zh/post/on/) [human](/zh/post/human/) [health](/zh/post/health/) [after](/zh/post/after/) [extensive](/zh/post/extensive/) [research](/zh/post/research/)."
 
 ## 同义词
-- [Radioactive](/post/radioactive/) [element](/post/element/)
+- [Radioactive](/zh/post/radioactive/) [element](/zh/post/element/)
 - Uranium
 - Plutonium
 - Actinium

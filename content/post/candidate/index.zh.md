@@ -11,20 +11,20 @@ keywords = ['ai words', 'candidate']
 /kənˈdeɪdɪnt/
 
 ## 释义
-- **名词**: 参选者，候选人。指参加选举或竞争某个职位的人。例如: "[There](/post/there/) are [five](/post/five/) candidates [for](/post/for/) [the](/post/the/) presidential [election](/post/election/)."
-- **名词**: 应聘者，申请人。指申请工作或学校录取的人。例如: "[The](/post/the/) [company](/post/company/) received [over](/post/over/) [a](/post/a/) [hundred](/post/hundred/) candidates [for](/post/for/) [the](/post/the/) [job](/post/job/) [opening](/post/opening/)."
+- **名词**: 参选者，候选人。指参加选举或竞争某个职位的人。例如: "[There](/zh/post/there/) are [five](/zh/post/five/) candidates [for](/zh/post/for/) [the](/zh/post/the/) presidential [election](/zh/post/election/)."
+- **名词**: 应聘者，申请人。指申请工作或学校录取的人。例如: "[The](/zh/post/the/) [company](/zh/post/company/) received [over](/zh/post/over/) [a](/zh/post/a/) [hundred](/zh/post/hundred/) candidates [for](/zh/post/for/) [the](/zh/post/the/) [job](/zh/post/job/) [opening](/zh/post/opening/)."
 
 ## 短语
-- "[candidate](/post/candidate/) [pool](/post/pool/)" 指所有应聘或参选的人的集合。
-- "front-runner [candidate](/post/candidate/)" 是指在选举或竞争中领先的候选人。
+- "[candidate](/zh/post/candidate/) [pool](/zh/post/pool/)" 指所有应聘或参选的人的集合。
+- "front-runner [candidate](/zh/post/candidate/)" 是指在选举或竞争中领先的候选人。
 
 ## 例句
-- 名词: "[The](/post/the/) [two](/post/two/) [main](/post/main/) candidates [will](/post/will/) [face](/post/face/) [off](/post/off/) [in](/post/in/) [the](/post/the/) [final](/post/final/) [debate](/post/debate/)."
-- 名词: "[She](/post/she/) was [one](/post/one/) [of](/post/of/) [the](/post/the/) [top](/post/top/) candidates [for](/post/for/) [the](/post/the/) university's [scholarship](/post/scholarship/) [program](/post/program/)."
+- 名词: "[The](/zh/post/the/) [two](/zh/post/two/) [main](/zh/post/main/) candidates [will](/zh/post/will/) [face](/zh/post/face/) [off](/zh/post/off/) [in](/zh/post/in/) [the](/zh/post/the/) [final](/zh/post/final/) [debate](/zh/post/debate/)."
+- 名词: "[She](/zh/post/she/) was [one](/zh/post/one/) [of](/zh/post/of/) [the](/zh/post/the/) [top](/zh/post/top/) candidates [for](/zh/post/for/) [the](/zh/post/the/) university's [scholarship](/zh/post/scholarship/) [program](/zh/post/program/)."
 
 ## 同义词
 - Contender
 - Applicant
 - Aspirant
-- [hopeful](/post/hopeful/)
+- [hopeful](/zh/post/hopeful/)
 - Nominee

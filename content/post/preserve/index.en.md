@@ -7,46 +7,46 @@ description = '[priˈzəːv] vt.保护；保存；腌渍'
 keywords = ['ai words', 'preserve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪˈzɜrv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) preserving [food](/en/post/food/), artifacts, [or](/en/post/or/) [other](/en/post/other/) items [by](/en/post/by/) preventing [decay](/en/post/decay/) [or](/en/post/or/) [damage](/en/post/damage/) [through](/en/post/through/) methods [like](/en/post/like/) pickling, canning, [or](/en/post/or/) freezing.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [museum](/en/post/museum/) preserves [historical](/en/post/historical/) artifacts [from](/en/post/from/) [various](/en/post/various/) cultures."
-2. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) preserved [or](/en/post/or/) protected [from](/en/post/from/) [harm](/en/post/harm/) [or](/en/post/or/) [destruction](/en/post/destruction/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) was lovingly preserved [by](/en/post/by/) [the](/en/post/the/) [family](/en/post/family/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) preserving [food](/post/food/), artifacts, [or](/post/or/) [other](/post/other/) items [by](/post/by/) preventing [decay](/post/decay/) [or](/post/or/) [damage](/post/damage/) [through](/post/through/) methods [like](/post/like/) pickling, canning, [or](/post/or/) freezing.
+   - [Example](/post/example/): "[The](/post/the/) [museum](/post/museum/) preserves [historical](/post/historical/) artifacts [from](/post/from/) [various](/post/various/) cultures."
+2. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) preserved [or](/post/or/) protected [from](/post/from/) [harm](/post/harm/) [or](/post/or/) [destruction](/post/destruction/).
+   - [Example](/post/example/): "[The](/post/the/) [old](/post/old/) [house](/post/house/) was lovingly preserved [by](/post/by/) [the](/post/the/) [family](/post/family/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [keep](/en/post/keep/) [something](/en/post/something/) [in](/en/post/in/) [its](/en/post/its/) [original](/en/post/original/) [condition](/en/post/condition/) [or](/en/post/or/) freshness [by](/en/post/by/) using preservation techniques.
-   - [Example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [preserve](/en/post/preserve/) [the](/en/post/the/) vintage [furniture](/en/post/furniture/) [for](/en/post/for/) [future](/en/post/future/) generations."
-2. [To](/en/post/to/) [maintain](/en/post/maintain/) [or](/en/post/or/) conserve ([a](/en/post/a/) [resource](/en/post/resource/), [tradition](/en/post/tradition/), [or](/en/post/or/) [quality](/en/post/quality/)).
-   - [Example](/en/post/example/): "[We](/en/post/we/) [must](/en/post/must/) [preserve](/en/post/preserve/) [the](/en/post/the/) [delicate](/en/post/delicate/) ecosystem [for](/en/post/for/) [future](/en/post/future/) wildlife."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [keep](/post/keep/) [something](/post/something/) [in](/post/in/) [its](/post/its/) [original](/post/original/) [condition](/post/condition/) [or](/post/or/) freshness [by](/post/by/) using preservation techniques.
+   - [Example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [preserve](/post/preserve/) [the](/post/the/) vintage [furniture](/post/furniture/) [for](/post/for/) [future](/post/future/) generations."
+2. [To](/post/to/) [maintain](/post/maintain/) [or](/post/or/) conserve ([a](/post/a/) [resource](/post/resource/), [tradition](/post/tradition/), [or](/post/or/) [quality](/post/quality/)).
+   - [Example](/post/example/): "[We](/post/we/) [must](/post/must/) [preserve](/post/preserve/) [the](/post/the/) [delicate](/post/delicate/) ecosystem [for](/post/for/) [future](/post/future/) wildlife."
 
 ## Phrases
-- "[Preserve](/en/post/preserve/) [food](/en/post/food/)" [means](/en/post/means/) [to](/en/post/to/) [prepare](/en/post/prepare/) [it](/en/post/it/) [to](/en/post/to/) [last](/en/post/last/) longer [without](/en/post/without/) spoiling.
-- "[Preserve](/en/post/preserve/) [a](/en/post/a/) [memory](/en/post/memory/)" refers [to](/en/post/to/) keeping [a](/en/post/a/) cherished recollection [alive](/en/post/alive/).
-- "Preserved [history](/en/post/history/)" refers [to](/en/post/to/) well-preserved records [or](/en/post/or/) remnants [of](/en/post/of/) [the](/en/post/the/) [past](/en/post/past/).
+- "[Preserve](/post/preserve/) [food](/post/food/)" [means](/post/means/) [to](/post/to/) [prepare](/post/prepare/) [it](/post/it/) [to](/post/to/) [last](/post/last/) longer [without](/post/without/) spoiling.
+- "[Preserve](/post/preserve/) [a](/post/a/) [memory](/post/memory/)" refers [to](/post/to/) keeping [a](/post/a/) cherished recollection [alive](/post/alive/).
+- "Preserved [history](/post/history/)" refers [to](/post/to/) well-preserved records [or](/post/or/) remnants [of](/post/of/) [the](/post/the/) [past](/post/past/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [local](/en/post/local/) [community](/en/post/community/) has [a](/en/post/a/) [program](/en/post/program/) [to](/en/post/to/) [preserve](/en/post/preserve/) [their](/en/post/their/) [natural](/en/post/natural/) heritage."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully preserved [her](/en/post/her/) grandmother's [old](/en/post/old/) letters [in](/en/post/in/) [a](/en/post/a/) [safe](/en/post/safe/) [place](/en/post/place/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[The](/en/post/the/) gardeners are working [hard](/en/post/hard/) [to](/en/post/to/) [preserve](/en/post/preserve/) [the](/en/post/the/) [native](/en/post/native/) plants [in](/en/post/in/) [the](/en/post/the/) [area](/en/post/area/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [local](/post/local/) [community](/post/community/) has [a](/post/a/) [program](/post/program/) [to](/post/to/) [preserve](/post/preserve/) [their](/post/their/) [natural](/post/natural/) heritage."
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully preserved [her](/post/her/) grandmother's [old](/post/old/) letters [in](/post/in/) [a](/post/a/) [safe](/post/safe/) [place](/post/place/)."
+- **[As](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "[The](/post/the/) gardeners are working [hard](/post/hard/) [to](/post/to/) [preserve](/post/preserve/) [the](/post/the/) [native](/post/native/) plants [in](/post/in/) [the](/post/the/) [area](/post/area/)."
 
 ## Synonyms
-- [Protect](/en/post/protect/)
-- [Maintain](/en/post/maintain/)
-- [Keep](/en/post/keep/)
+- [Protect](/post/protect/)
+- [Maintain](/post/maintain/)
+- [Keep](/post/keep/)
 - Conserve
-- [Save](/en/post/save/)
+- [Save](/post/save/)
 - Safeguard
-- [Shelter](/en/post/shelter/)
-- [Retain](/en/post/retain/)
+- [Shelter](/post/shelter/)
+- [Retain](/post/retain/)
 
 ## Antonyms
-- [Ruin](/en/post/ruin/)
-- [Destroy](/en/post/destroy/)
+- [Ruin](/post/ruin/)
+- [Destroy](/post/destroy/)
 - Decompose
 - Corrupt
-- [Expose](/en/post/expose/)
-- [Waste](/en/post/waste/)
+- [Expose](/post/expose/)
+- [Waste](/post/waste/)

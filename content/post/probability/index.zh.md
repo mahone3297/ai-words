@@ -11,20 +11,20 @@ keywords = ['ai words', 'probability']
 /prəˈbəbiləti/
 
 ## 释义
-- **名词**: 表示某事发生的可能性或概率。例如: "[The](/post/the/) [probability](/post/probability/) [of](/post/of/) [rain](/post/rain/) [tomorrow](/post/tomorrow/) is [high](/post/high/)."
-- **形容词**: 形容事物的可能性或有无把握。例如: "There's [a](/post/a/) [high](/post/high/) [probability](/post/probability/) [that](/post/that/) [he](/post/he/) [will](/post/will/) [come](/post/come/)."
+- **名词**: 表示某事发生的可能性或概率。例如: "[The](/zh/post/the/) [probability](/zh/post/probability/) [of](/zh/post/of/) [rain](/zh/post/rain/) [tomorrow](/zh/post/tomorrow/) is [high](/zh/post/high/)."
+- **形容词**: 形容事物的可能性或有无把握。例如: "There's [a](/zh/post/a/) [high](/zh/post/high/) [probability](/zh/post/probability/) [that](/zh/post/that/) [he](/zh/post/he/) [will](/zh/post/will/) [come](/zh/post/come/)."
 
 ## 短语
-- "[Probability](/post/probability/) [theory](/post/theory/)" 是关于概率的数学理论。
-- "[Probability](/post/probability/) [distribution](/post/distribution/)" 描述随机变量可能出现的各种结果及其概率。
+- "[Probability](/zh/post/probability/) [theory](/zh/post/theory/)" 是关于概率的数学理论。
+- "[Probability](/zh/post/probability/) [distribution](/zh/post/distribution/)" 描述随机变量可能出现的各种结果及其概率。
 
 ## 例句
-- 名词: "[The](/post/the/) [probability](/post/probability/) [of](/post/of/) winning [the](/post/the/) lottery is [very](/post/very/) [low](/post/low/)."
-- 形容词: "[The](/post/the/) [probability](/post/probability/) [of](/post/of/) [success](/post/success/) [in](/post/in/) [this](/post/this/) [experiment](/post/experiment/) is [quite](/post/quite/) [high](/post/high/)."
+- 名词: "[The](/zh/post/the/) [probability](/zh/post/probability/) [of](/zh/post/of/) winning [the](/zh/post/the/) lottery is [very](/zh/post/very/) [low](/zh/post/low/)."
+- 形容词: "[The](/zh/post/the/) [probability](/zh/post/probability/) [of](/zh/post/of/) [success](/zh/post/success/) [in](/zh/post/in/) [this](/zh/post/this/) [experiment](/zh/post/experiment/) is [quite](/zh/post/quite/) [high](/zh/post/high/)."
 
 ## 同义词
-- [Chance](/post/chance/)
+- [Chance](/zh/post/chance/)
 - Likelihood
-- [Possibility](/post/possibility/)
+- [Possibility](/zh/post/possibility/)
 - Odds
-- Likelihood [ratio](/post/ratio/)
+- Likelihood [ratio](/zh/post/ratio/)

@@ -11,16 +11,16 @@ keywords = ['ai words', 'butcher']
 /bʊtʃər/
 
 ## 释义
-- **名词**: 肉贩；屠夫。例如: "[The](/post/the/) [butcher](/post/butcher/) prepared [a](/post/a/) [selection](/post/selection/) [of](/post/of/) meats [for](/post/for/) [the](/post/the/) customers."
-- **动词**: 屠宰（动物），粗暴处理（某事）。例如: "[He](/post/he/) butchers pigs [for](/post/for/) [a](/post/a/) [living](/post/living/)." 或 "[The](/post/the/) [editor](/post/editor/) butchered [my](/post/my/) manuscript, changing [its](/post/its/) [entire](/post/entire/) [meaning](/post/meaning/)."
+- **名词**: 肉贩；屠夫。例如: "[The](/zh/post/the/) [butcher](/zh/post/butcher/) prepared [a](/zh/post/a/) [selection](/zh/post/selection/) [of](/zh/post/of/) meats [for](/zh/post/for/) [the](/zh/post/the/) customers."
+- **动词**: 屠宰（动物），粗暴处理（某事）。例如: "[He](/zh/post/he/) butchers pigs [for](/zh/post/for/) [a](/zh/post/a/) [living](/zh/post/living/)." 或 "[The](/zh/post/the/) [editor](/zh/post/editor/) butchered [my](/zh/post/my/) manuscript, changing [its](/zh/post/its/) [entire](/zh/post/entire/) [meaning](/zh/post/meaning/)."
 
 ## 短语
-- "[at](/post/at/) [the](/post/the/) butcher's" 在肉店。
-- "[to](/post/to/) [butcher](/post/butcher/) [a](/post/a/) [language](/post/language/)" 指不熟练地使用某种语言，通常带有贬义。
+- "[at](/zh/post/at/) [the](/zh/post/the/) butcher's" 在肉店。
+- "[to](/zh/post/to/) [butcher](/zh/post/butcher/) [a](/zh/post/a/) [language](/zh/post/language/)" 指不熟练地使用某种语言，通常带有贬义。
 
 ## 例句
-- 名词: "I [need](/post/need/) [to](/post/to/) [visit](/post/visit/) [the](/post/the/) [butcher](/post/butcher/) [to](/post/to/) [buy](/post/buy/) [some](/post/some/) [fresh](/post/fresh/) [chicken](/post/chicken/)."
-- 动词: "[She](/post/she/) butchers [the](/post/the/) [pronunciation](/post/pronunciation/) [of](/post/of/) [foreign](/post/foreign/) words [when](/post/when/) speaking English."
+- 名词: "I [need](/zh/post/need/) [to](/zh/post/to/) [visit](/zh/post/visit/) [the](/zh/post/the/) [butcher](/zh/post/butcher/) [to](/zh/post/to/) [buy](/zh/post/buy/) [some](/zh/post/some/) [fresh](/zh/post/fresh/) [chicken](/zh/post/chicken/)."
+- 动词: "[She](/zh/post/she/) butchers [the](/zh/post/the/) [pronunciation](/zh/post/pronunciation/) [of](/zh/post/of/) [foreign](/zh/post/foreign/) words [when](/zh/post/when/) speaking English."
 
 ## 同义词
 - Slaughterer

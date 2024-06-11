@@ -7,37 +7,37 @@ description = '[bleim] vt.责备，把…归咎于'
 keywords = ['ai words', 'blame']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bləɪm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Blame](/en/post/blame/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) assigning [responsibility](/en/post/responsibility/) [for](/en/post/for/) an [error](/en/post/error/), [fault](/en/post/fault/), [or](/en/post/or/) misfortune [to](/en/post/to/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) accepted [the](/en/post/the/) [blame](/en/post/blame/) [for](/en/post/for/) [the](/en/post/the/) [accident](/en/post/accident/)."
-- **Guilt**: [The](/en/post/the/) [feeling](/en/post/feeling/) [of](/en/post/of/) [responsibility](/en/post/responsibility/) [or](/en/post/or/) remorse [for](/en/post/for/) one's actions. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) felt [immense](/en/post/immense/) guilt [over](/en/post/over/) [the](/en/post/the/) [mistake](/en/post/mistake/)."
+### [Noun](/post/noun/)
+- **[Blame](/post/blame/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) assigning [responsibility](/post/responsibility/) [for](/post/for/) an [error](/post/error/), [fault](/post/fault/), [or](/post/or/) misfortune [to](/post/to/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) accepted [the](/post/the/) [blame](/post/blame/) [for](/post/for/) [the](/post/the/) [accident](/post/accident/)."
+- **Guilt**: [The](/post/the/) [feeling](/post/feeling/) [of](/post/of/) [responsibility](/post/responsibility/) [or](/post/or/) remorse [for](/post/for/) one's actions. [For](/post/for/) [example](/post/example/): "[She](/post/she/) felt [immense](/post/immense/) guilt [over](/post/over/) [the](/post/the/) [mistake](/post/mistake/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [blame](/en/post/blame/)**: [To](/en/post/to/) [hold](/en/post/hold/) [someone](/en/post/someone/) [responsible](/en/post/responsible/) [for](/en/post/for/) [something](/en/post/something/) [negative](/en/post/negative/) [or](/en/post/or/) [to](/en/post/to/) [criticize](/en/post/criticize/) [them](/en/post/them/) [for](/en/post/for/) [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [boss](/en/post/boss/) blamed [the](/en/post/the/) [employee](/en/post/employee/) [for](/en/post/for/) [the](/en/post/the/) project's [failure](/en/post/failure/)."
-- **[To](/en/post/to/) [lay](/en/post/lay/) [blame](/en/post/blame/)**: [To](/en/post/to/) [place](/en/post/place/) [the](/en/post/the/) [responsibility](/en/post/responsibility/) [for](/en/post/for/) an [issue](/en/post/issue/) [on](/en/post/on/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) laid [blame](/en/post/blame/) [on](/en/post/on/) [the](/en/post/the/) contractor [for](/en/post/for/) [the](/en/post/the/) [construction](/en/post/construction/) delays."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [blame](/post/blame/)**: [To](/post/to/) [hold](/post/hold/) [someone](/post/someone/) [responsible](/post/responsible/) [for](/post/for/) [something](/post/something/) [negative](/post/negative/) [or](/post/or/) [to](/post/to/) [criticize](/post/criticize/) [them](/post/them/) [for](/post/for/) [it](/post/it/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [boss](/post/boss/) blamed [the](/post/the/) [employee](/post/employee/) [for](/post/for/) [the](/post/the/) project's [failure](/post/failure/)."
+- **[To](/post/to/) [lay](/post/lay/) [blame](/post/blame/)**: [To](/post/to/) [place](/post/place/) [the](/post/the/) [responsibility](/post/responsibility/) [for](/post/for/) an [issue](/post/issue/) [on](/post/on/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) laid [blame](/post/blame/) [on](/post/on/) [the](/post/the/) contractor [for](/post/for/) [the](/post/the/) [construction](/post/construction/) delays."
 
 ## Phrases
-- "[Blame](/en/post/blame/) [someone](/en/post/someone/) [for](/en/post/for/) [a](/en/post/a/) [mistake](/en/post/mistake/)" implies assigning culpability.
-- "[Shift](/en/post/shift/) [the](/en/post/the/) [blame](/en/post/blame/)" [means](/en/post/means/) [to](/en/post/to/) [pass](/en/post/pass/) [responsibility](/en/post/responsibility/) [onto](/en/post/onto/) [another](/en/post/another/) [person](/en/post/person/).
-- "[Take](/en/post/take/) [the](/en/post/the/) [blame](/en/post/blame/)" [means](/en/post/means/) [to](/en/post/to/) [accept](/en/post/accept/) [responsibility](/en/post/responsibility/) voluntarily.
+- "[Blame](/post/blame/) [someone](/post/someone/) [for](/post/for/) [a](/post/a/) [mistake](/post/mistake/)" implies assigning culpability.
+- "[Shift](/post/shift/) [the](/post/the/) [blame](/post/blame/)" [means](/post/means/) [to](/post/to/) [pass](/post/pass/) [responsibility](/post/responsibility/) [onto](/post/onto/) [another](/post/another/) [person](/post/person/).
+- "[Take](/post/take/) [the](/post/the/) [blame](/post/blame/)" [means](/post/means/) [to](/post/to/) [accept](/post/accept/) [responsibility](/post/responsibility/) voluntarily.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [team](/en/post/team/) decided [to](/en/post/to/) [blame](/en/post/blame/) [the](/en/post/the/) [loss](/en/post/loss/) [on](/en/post/on/) [poor](/en/post/poor/) [strategy](/en/post/strategy/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [argument](/en/post/argument/), [he](/en/post/he/) took [full](/en/post/full/) [blame](/en/post/blame/) [for](/en/post/for/) starting [it](/en/post/it/)."
-- **Interjection**: "[It](/en/post/it/) wasn't [his](/en/post/his/) [fault](/en/post/fault/); don't [blame](/en/post/blame/) [him](/en/post/him/)!"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [team](/post/team/) decided [to](/post/to/) [blame](/post/blame/) [the](/post/the/) [loss](/post/loss/) [on](/post/on/) [poor](/post/poor/) [strategy](/post/strategy/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [argument](/post/argument/), [he](/post/he/) took [full](/post/full/) [blame](/post/blame/) [for](/post/for/) starting [it](/post/it/)."
+- **Interjection**: "[It](/post/it/) wasn't [his](/post/his/) [fault](/post/fault/); don't [blame](/post/blame/) [him](/post/him/)!"
 
 ## Synonyms
-- [Fault](/en/post/fault/)
-- [Accuse](/en/post/accuse/)
-- [Criticize](/en/post/criticize/)
+- [Fault](/post/fault/)
+- [Accuse](/post/accuse/)
+- [Criticize](/post/criticize/)
 - Faultfind
 - Reprimand
 
 ## Antonyms
-- [Praise](/en/post/praise/)
-- [Excuse](/en/post/excuse/)
-- [Apologize](/en/post/apologize/)
-- Acknowledge ([in](/en/post/in/) [a](/en/post/a/) [positive](/en/post/positive/) [sense](/en/post/sense/))
+- [Praise](/post/praise/)
+- [Excuse](/post/excuse/)
+- [Apologize](/post/apologize/)
+- Acknowledge ([in](/post/in/) [a](/post/a/) [positive](/post/positive/) [sense](/post/sense/))

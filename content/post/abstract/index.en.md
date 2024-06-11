@@ -7,25 +7,25 @@ description = '[ˈæbstrækt] a.抽象的 n.摘要'
 keywords = ['ai words', 'abstract']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæbstrækt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) ideas [rather](/en/post/rather/) [than](/en/post/than/) [physical](/en/post/physical/) objects. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lecture](/en/post/lecture/) was [too](/en/post/too/) [abstract](/en/post/abstract/) [for](/en/post/for/) [me](/en/post/me/) [to](/en/post/to/) [understand](/en/post/understand/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [summary](/en/post/summary/) [or](/en/post/or/) [a](/en/post/a/) [general](/en/post/general/) [idea](/en/post/idea/) extracted [from](/en/post/from/) [a](/en/post/a/) [text](/en/post/text/) [or](/en/post/or/) [speech](/en/post/speech/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [provide](/en/post/provide/) an [abstract](/en/post/abstract/) [of](/en/post/of/) [the](/en/post/the/) [main](/en/post/main/) points discussed."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [draw](/en/post/draw/) [away](/en/post/away/) [or](/en/post/or/) [separate](/en/post/separate/); [to](/en/post/to/) [consider](/en/post/consider/) [something](/en/post/something/) theoretically [or](/en/post/or/) [separately](/en/post/separately/) [from](/en/post/from/) [its](/en/post/its/) [application](/en/post/application/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) abstracted [key](/en/post/key/) concepts [from](/en/post/from/) [the](/en/post/the/) [complex](/en/post/complex/) [theory](/en/post/theory/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) ideas [rather](/post/rather/) [than](/post/than/) [physical](/post/physical/) objects. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lecture](/post/lecture/) was [too](/post/too/) [abstract](/post/abstract/) [for](/post/for/) [me](/post/me/) [to](/post/to/) [understand](/post/understand/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [summary](/post/summary/) [or](/post/or/) [a](/post/a/) [general](/post/general/) [idea](/post/idea/) extracted [from](/post/from/) [a](/post/a/) [text](/post/text/) [or](/post/or/) [speech](/post/speech/). [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [provide](/post/provide/) an [abstract](/post/abstract/) [of](/post/of/) [the](/post/the/) [main](/post/main/) points discussed."
+- **[Verb](/post/verb/)**: [To](/post/to/) [draw](/post/draw/) [away](/post/away/) [or](/post/or/) [separate](/post/separate/); [to](/post/to/) [consider](/post/consider/) [something](/post/something/) theoretically [or](/post/or/) [separately](/post/separately/) [from](/post/from/) [its](/post/its/) [application](/post/application/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) abstracted [key](/post/key/) concepts [from](/post/from/) [the](/post/the/) [complex](/post/complex/) [theory](/post/theory/)."
 
 ## Phrases
-- "[Abstract](/en/post/abstract/) thinking": [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [think](/en/post/think/) [about](/en/post/about/) concepts, theories, [and](/en/post/and/) ideas [that](/en/post/that/) are [not](/en/post/not/) tied [to](/en/post/to/) [specific](/en/post/specific/) instances [or](/en/post/or/) events.
-- "[Abstract](/en/post/abstract/) [art](/en/post/art/)": [Art](/en/post/art/) [that](/en/post/that/) does [not](/en/post/not/) [attempt](/en/post/attempt/) [to](/en/post/to/) [represent](/en/post/represent/) [external](/en/post/external/) [reality](/en/post/reality/), [instead](/en/post/instead/) using shapes, colors, forms, [and](/en/post/and/) gestural marks [to](/en/post/to/) [achieve](/en/post/achieve/) [its](/en/post/its/) [effect](/en/post/effect/).
-- "[Abstract](/en/post/abstract/) [concept](/en/post/concept/)": An [idea](/en/post/idea/) [or](/en/post/or/) notion [that](/en/post/that/) cannot [be](/en/post/be/) physically perceived, [like](/en/post/like/) [love](/en/post/love/), [justice](/en/post/justice/), [or](/en/post/or/) [democracy](/en/post/democracy/).
+- "[Abstract](/post/abstract/) thinking": [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [think](/post/think/) [about](/post/about/) concepts, theories, [and](/post/and/) ideas [that](/post/that/) are [not](/post/not/) tied [to](/post/to/) [specific](/post/specific/) instances [or](/post/or/) events.
+- "[Abstract](/post/abstract/) [art](/post/art/)": [Art](/post/art/) [that](/post/that/) does [not](/post/not/) [attempt](/post/attempt/) [to](/post/to/) [represent](/post/represent/) [external](/post/external/) [reality](/post/reality/), [instead](/post/instead/) using shapes, colors, forms, [and](/post/and/) gestural marks [to](/post/to/) [achieve](/post/achieve/) [its](/post/its/) [effect](/post/effect/).
+- "[Abstract](/post/abstract/) [concept](/post/concept/)": An [idea](/post/idea/) [or](/post/or/) notion [that](/post/that/) cannot [be](/post/be/) physically perceived, [like](/post/like/) [love](/post/love/), [justice](/post/justice/), [or](/post/or/) [democracy](/post/democracy/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Modern](/en/post/modern/) [physics](/en/post/physics/) deals [with](/en/post/with/) [many](/en/post/many/) [abstract](/en/post/abstract/) concepts [like](/en/post/like/) quantum entanglement."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [researcher](/en/post/researcher/) submitted an [abstract](/en/post/abstract/) [of](/en/post/of/) [her](/en/post/her/) findings [for](/en/post/for/) [the](/en/post/the/) [conference](/en/post/conference/) proceedings."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) abstracted [the](/en/post/the/) [main](/en/post/main/) arguments [from](/en/post/from/) [the](/en/post/the/) lengthy [article](/en/post/article/) [to](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) [the](/en/post/the/) [debate](/en/post/debate/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Modern](/post/modern/) [physics](/post/physics/) deals [with](/post/with/) [many](/post/many/) [abstract](/post/abstract/) concepts [like](/post/like/) quantum entanglement."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [researcher](/post/researcher/) submitted an [abstract](/post/abstract/) [of](/post/of/) [her](/post/her/) findings [for](/post/for/) [the](/post/the/) [conference](/post/conference/) proceedings."
+- **[Verb](/post/verb/)**: "[He](/post/he/) abstracted [the](/post/the/) [main](/post/main/) arguments [from](/post/from/) [the](/post/the/) lengthy [article](/post/article/) [to](/post/to/) [prepare](/post/prepare/) [for](/post/for/) [the](/post/the/) [debate](/post/debate/)."
 
 ## Synonyms
-- **[Adjective](/en/post/adjective/)**: [Theoretical](/en/post/theoretical/), conceptual, non-concrete, intangible
-- **[Noun](/en/post/noun/)**: [Summary](/en/post/summary/), synopsis, [outline](/en/post/outline/), [brief](/en/post/brief/), [digest](/en/post/digest/)
-- **[Verb](/en/post/verb/)**: Detach, [isolate](/en/post/isolate/), [remove](/en/post/remove/), distract
+- **[Adjective](/post/adjective/)**: [Theoretical](/post/theoretical/), conceptual, non-concrete, intangible
+- **[Noun](/post/noun/)**: [Summary](/post/summary/), synopsis, [outline](/post/outline/), [brief](/post/brief/), [digest](/post/digest/)
+- **[Verb](/post/verb/)**: Detach, [isolate](/post/isolate/), [remove](/post/remove/), distract

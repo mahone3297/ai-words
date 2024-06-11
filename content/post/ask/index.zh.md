@@ -11,21 +11,21 @@ keywords = ['ai words', 'ask']
 /æsk/
 
 ## 释义
-- **动词**: 请求；询问。例如: "I asked [her](/post/her/) [for](/post/for/) [a](/post/a/) favor." 或 "[He](/post/he/) asked [about](/post/about/) [her](/post/her/) well-being."
-- **名词**: 问题；请求。例如: "[The](/post/the/) [teacher](/post/teacher/) asked [several](/post/several/) [difficult](/post/difficult/) questions." 或 "[They](/post/they/) made [numerous](/post/numerous/) asks [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
+- **动词**: 请求；询问。例如: "I asked [her](/zh/post/her/) [for](/zh/post/for/) [a](/zh/post/a/) favor." 或 "[He](/zh/post/he/) asked [about](/zh/post/about/) [her](/zh/post/her/) well-being."
+- **名词**: 问题；请求。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) asked [several](/zh/post/several/) [difficult](/zh/post/difficult/) questions." 或 "[They](/zh/post/they/) made [numerous](/zh/post/numerous/) asks [during](/zh/post/during/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
 
 ## 短语
-- "[Ask](/post/ask/) [for](/post/for/) [help](/post/help/)" 请求帮助。
-- "[Ask](/post/ask/) [around](/post/around/)" 四处打听。
-- "[Ask](/post/ask/) [out](/post/out/)" 邀请（某人）约会。
+- "[Ask](/zh/post/ask/) [for](/zh/post/for/) [help](/zh/post/help/)" 请求帮助。
+- "[Ask](/zh/post/ask/) [around](/zh/post/around/)" 四处打听。
+- "[Ask](/zh/post/ask/) [out](/zh/post/out/)" 邀请（某人）约会。
 
 ## 例句
-- 动词: "[She](/post/she/) asked [him](/post/him/) [to](/post/to/) [pass](/post/pass/) [the](/post/the/) [salt](/post/salt/)."
-- 名词: "[The](/post/the/) journalist's [question](/post/question/) was an [awkward](/post/awkward/) [ask](/post/ask/)."
+- 动词: "[She](/zh/post/she/) asked [him](/zh/post/him/) [to](/zh/post/to/) [pass](/zh/post/pass/) [the](/zh/post/the/) [salt](/zh/post/salt/)."
+- 名词: "[The](/zh/post/the/) journalist's [question](/zh/post/question/) was an [awkward](/zh/post/awkward/) [ask](/zh/post/ask/)."
 
 ## 同义词
-- [Inquire](/post/inquire/)
-- [Request](/post/request/)
+- [Inquire](/zh/post/inquire/)
+- [Request](/zh/post/request/)
 - Query
-- [Question](/post/question/)
-- [Seek](/post/seek/)
+- [Question](/zh/post/question/)
+- [Seek](/zh/post/seek/)

@@ -12,21 +12,21 @@ keywords = ['ai words', 'define']
 
 ## 释义
 - **动词**: 
-    1. 定义；解释；阐明：例如: "[The](/post/the/) [dictionary](/post/dictionary/) defines '[happiness](/post/happiness/)' [as](/post/as/) [a](/post/a/) [state](/post/state/) [of](/post/of/) well-being."
-    2. 规定；限定：例如: "[The](/post/the/) company's [policy](/post/policy/) defines [the](/post/the/) working hours [for](/post/for/) [its](/post/its/) employees."
+    1. 定义；解释；阐明：例如: "[The](/zh/post/the/) [dictionary](/zh/post/dictionary/) defines '[happiness](/zh/post/happiness/)' [as](/zh/post/as/) [a](/zh/post/a/) [state](/zh/post/state/) [of](/zh/post/of/) well-being."
+    2. 规定；限定：例如: "[The](/zh/post/the/) company's [policy](/zh/post/policy/) defines [the](/zh/post/the/) working hours [for](/zh/post/for/) [its](/zh/post/its/) employees."
 
 ## 短语
-- "[Define](/post/define/) [the](/post/the/) terms" 意味着要明确和解释术语的含义。
-- "[To](/post/to/) [define](/post/define/) one's boundaries" 指设定自己的界限或限制。
+- "[Define](/zh/post/define/) [the](/zh/post/the/) terms" 意味着要明确和解释术语的含义。
+- "[To](/zh/post/to/) [define](/zh/post/define/) one's boundaries" 指设定自己的界限或限制。
 
 ## 例句
-- "Let's [define](/post/define/) [our](/post/our/) goals [before](/post/before/) starting [the](/post/the/) [project](/post/project/)."
-- "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [define](/post/define/) [the](/post/the/) [concept](/post/concept/) [of](/post/of/) [gravity](/post/gravity/)."
-- "[The](/post/the/) [contract](/post/contract/) [clearly](/post/clearly/) defines [the](/post/the/) responsibilities [of](/post/of/) [each](/post/each/) [party](/post/party/)."
+- "Let's [define](/zh/post/define/) [our](/zh/post/our/) goals [before](/zh/post/before/) starting [the](/zh/post/the/) [project](/zh/post/project/)."
+- "[The](/zh/post/the/) [teacher](/zh/post/teacher/) asked [the](/zh/post/the/) students [to](/zh/post/to/) [define](/zh/post/define/) [the](/zh/post/the/) [concept](/zh/post/concept/) [of](/zh/post/of/) [gravity](/zh/post/gravity/)."
+- "[The](/zh/post/the/) [contract](/zh/post/contract/) [clearly](/zh/post/clearly/) defines [the](/zh/post/the/) responsibilities [of](/zh/post/of/) [each](/zh/post/each/) [party](/zh/post/party/)."
 
 ## 同义词
-- [Explain](/post/explain/)
-- [Describe](/post/describe/)
-- [Clarify](/post/clarify/)
-- [Specify](/post/specify/)
-- [Set](/post/set/) [forth](/post/forth/)
+- [Explain](/zh/post/explain/)
+- [Describe](/zh/post/describe/)
+- [Clarify](/zh/post/clarify/)
+- [Specify](/zh/post/specify/)
+- [Set](/zh/post/set/) [forth](/zh/post/forth/)

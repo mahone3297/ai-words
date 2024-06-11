@@ -7,32 +7,32 @@ description = '[piː] n.豌豆；豌豆属植物'
 keywords = ['ai words', 'pea']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /piːə/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/), [round](/en/post/round/), [green](/en/post/green/) seedpod [of](/en/post/of/) [the](/en/post/the/) [pea](/en/post/pea/) [plant](/en/post/plant/), [usually](/en/post/usually/) served [as](/en/post/as/) [a](/en/post/a/) [vegetable](/en/post/vegetable/) [or](/en/post/or/) [used](/en/post/used/) [in](/en/post/in/) salads. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was filled [with](/en/post/with/) peas growing [on](/en/post/on/) [their](/en/post/their/) vines."
-- **[Verb](/en/post/verb/)**: (informal) [To](/en/post/to/) [eat](/en/post/eat/) [or](/en/post/or/) [consume](/en/post/consume/) peas, typically [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [meal](/en/post/meal/). [For](/en/post/for/) [example](/en/post/example/): "I had [a](/en/post/a/) [bowl](/en/post/bowl/) [of](/en/post/of/) peas [for](/en/post/for/) [dinner](/en/post/dinner/) [tonight](/en/post/tonight/)."
-- **[Plant](/en/post/plant/)**: [The](/en/post/the/) edible legume [plant](/en/post/plant/) (Pisum sativum), known [for](/en/post/for/) [its](/en/post/its/) [small](/en/post/small/), edible seeds.
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/), [round](/post/round/), [green](/post/green/) seedpod [of](/post/of/) [the](/post/the/) [pea](/post/pea/) [plant](/post/plant/), [usually](/post/usually/) served [as](/post/as/) [a](/post/a/) [vegetable](/post/vegetable/) [or](/post/or/) [used](/post/used/) [in](/post/in/) salads. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) peas growing [on](/post/on/) [their](/post/their/) vines."
+- **[Verb](/post/verb/)**: (informal) [To](/post/to/) [eat](/post/eat/) [or](/post/or/) [consume](/post/consume/) peas, typically [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [meal](/post/meal/). [For](/post/for/) [example](/post/example/): "I had [a](/post/a/) [bowl](/post/bowl/) [of](/post/of/) peas [for](/post/for/) [dinner](/post/dinner/) [tonight](/post/tonight/)."
+- **[Plant](/post/plant/)**: [The](/post/the/) edible legume [plant](/post/plant/) (Pisum sativum), known [for](/post/for/) [its](/post/its/) [small](/post/small/), edible seeds.
 
 ## Phrases
-- "[A](/en/post/a/) serving [of](/en/post/of/) peas" refers [to](/en/post/to/) [a](/en/post/a/) [portion](/en/post/portion/) [of](/en/post/of/) [the](/en/post/the/) [vegetable](/en/post/vegetable/).
-- "[Pea](/en/post/pea/) [soup](/en/post/soup/)" is [a](/en/post/a/) [traditional](/en/post/traditional/) [dish](/en/post/dish/) made [from](/en/post/from/) cooked peas.
-- "[Shell](/en/post/shell/) peas" is [a](/en/post/a/) [common](/en/post/common/) [task](/en/post/task/) [in](/en/post/in/) preparing [them](/en/post/them/) [for](/en/post/for/) cooking.
+- "[A](/post/a/) serving [of](/post/of/) peas" refers [to](/post/to/) [a](/post/a/) [portion](/post/portion/) [of](/post/of/) [the](/post/the/) [vegetable](/post/vegetable/).
+- "[Pea](/post/pea/) [soup](/post/soup/)" is [a](/post/a/) [traditional](/post/traditional/) [dish](/post/dish/) made [from](/post/from/) cooked peas.
+- "[Shell](/post/shell/) peas" is [a](/post/a/) [common](/post/common/) [task](/post/task/) [in](/post/in/) preparing [them](/post/them/) [for](/post/for/) cooking.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) picked [fresh](/en/post/fresh/) peas [from](/en/post/from/) [her](/en/post/her/) [garden](/en/post/garden/) [for](/en/post/for/) [the](/en/post/the/) [salad](/en/post/salad/)."
-- **[Verb](/en/post/verb/)**: "I [love](/en/post/love/) [the](/en/post/the/) sweetness [of](/en/post/of/) freshly shelled peas."
-- **[Plant](/en/post/plant/)**: "[The](/en/post/the/) [pea](/en/post/pea/) [plant](/en/post/plant/) thrives [in](/en/post/in/) [cool](/en/post/cool/) climates."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) picked [fresh](/post/fresh/) peas [from](/post/from/) [her](/post/her/) [garden](/post/garden/) [for](/post/for/) [the](/post/the/) [salad](/post/salad/)."
+- **[Verb](/post/verb/)**: "I [love](/post/love/) [the](/post/the/) sweetness [of](/post/of/) freshly shelled peas."
+- **[Plant](/post/plant/)**: "[The](/post/the/) [pea](/post/pea/) [plant](/post/plant/) thrives [in](/post/in/) [cool](/post/cool/) climates."
 
 ## Synonyms
 - Edamame
-- [Garden](/en/post/garden/) peas
-- [Green](/en/post/green/) peas
+- [Garden](/post/garden/) peas
+- [Green](/post/green/) peas
 - Pease pods
 - Podded peas
 
 ## Related Words
-- Lentil: [Another](/en/post/another/) [type](/en/post/type/) [of](/en/post/of/) legume.
-- Haricot: French [term](/en/post/term/) [for](/en/post/for/) [green](/en/post/green/) [pea](/en/post/pea/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) dried peas.
-- [Pea](/en/post/pea/) shooter: [A](/en/post/a/) [game](/en/post/game/) [where](/en/post/where/) players [fire](/en/post/fire/) peas, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) virtual context.
+- Lentil: [Another](/post/another/) [type](/post/type/) [of](/post/of/) legume.
+- Haricot: French [term](/post/term/) [for](/post/for/) [green](/post/green/) [pea](/post/pea/), [often](/post/often/) [used](/post/used/) [for](/post/for/) dried peas.
+- [Pea](/post/pea/) shooter: [A](/post/a/) [game](/post/game/) [where](/post/where/) players [fire](/post/fire/) peas, [often](/post/often/) [in](/post/in/) [a](/post/a/) virtual context.

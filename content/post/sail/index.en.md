@@ -7,40 +7,40 @@ description = '[seil] n.帆；船 vi.航行'
 keywords = ['ai words', 'sail']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈleɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Sail](/en/post/sail/)**: [A](/en/post/a/) [large](/en/post/large/) [piece](/en/post/piece/) [of](/en/post/of/) [fabric](/en/post/fabric/) [or](/en/post/or/) membrane stretched [on](/en/post/on/) [a](/en/post/a/) [frame](/en/post/frame/), [used](/en/post/used/) [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [wind](/en/post/wind/) [and](/en/post/and/) propel [a](/en/post/a/) [boat](/en/post/boat/) [or](/en/post/or/) [ship](/en/post/ship/) [through](/en/post/through/) [the](/en/post/the/) [water](/en/post/water/).
-- **Sailing**: [The](/en/post/the/) [activity](/en/post/activity/) [or](/en/post/or/) [sport](/en/post/sport/) [of](/en/post/of/) using sails [to](/en/post/to/) navigate [a](/en/post/a/) [boat](/en/post/boat/) [or](/en/post/or/) [ship](/en/post/ship/).
+### [Noun](/post/noun/)
+- **[Sail](/post/sail/)**: [A](/post/a/) [large](/post/large/) [piece](/post/piece/) [of](/post/of/) [fabric](/post/fabric/) [or](/post/or/) membrane stretched [on](/post/on/) [a](/post/a/) [frame](/post/frame/), [used](/post/used/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [wind](/post/wind/) [and](/post/and/) propel [a](/post/a/) [boat](/post/boat/) [or](/post/or/) [ship](/post/ship/) [through](/post/through/) [the](/post/the/) [water](/post/water/).
+- **Sailing**: [The](/post/the/) [activity](/post/activity/) [or](/post/or/) [sport](/post/sport/) [of](/post/of/) using sails [to](/post/to/) navigate [a](/post/a/) [boat](/post/boat/) [or](/post/or/) [ship](/post/ship/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [sail](/en/post/sail/)**: [To](/en/post/to/) navigate [a](/en/post/a/) [boat](/en/post/boat/) [or](/en/post/or/) [ship](/en/post/ship/) [by](/en/post/by/) using sails, [often](/en/post/often/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) hoisting [or](/en/post/or/) adjusting sails [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [wind](/en/post/wind/).
-- **Sailed**: [Past](/en/post/past/) [tense](/en/post/tense/) [of](/en/post/of/) "[to](/en/post/to/) [sail](/en/post/sail/)," indicating [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) navigating [with](/en/post/with/) sails.
+### [Verb](/post/verb/)
+- **[To](/post/to/) [sail](/post/sail/)**: [To](/post/to/) navigate [a](/post/a/) [boat](/post/boat/) [or](/post/or/) [ship](/post/ship/) [by](/post/by/) using sails, [often](/post/often/) referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) hoisting [or](/post/or/) adjusting sails [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [wind](/post/wind/).
+- **Sailed**: [Past](/post/past/) [tense](/post/tense/) [of](/post/of/) "[to](/post/to/) [sail](/post/sail/)," indicating [the](/post/the/) [action](/post/action/) [of](/post/of/) navigating [with](/post/with/) sails.
 
-### [Adjective](/en/post/adjective/)
-- **Sailing**: Relating [to](/en/post/to/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) sails [for](/en/post/for/) [movement](/en/post/movement/); pertaining [to](/en/post/to/) boats [or](/en/post/or/) ships [that](/en/post/that/) [rely](/en/post/rely/) [on](/en/post/on/) [wind](/en/post/wind/) [power](/en/post/power/).
+### [Adjective](/post/adjective/)
+- **Sailing**: Relating [to](/post/to/) [the](/post/the/) [use](/post/use/) [of](/post/of/) sails [for](/post/for/) [movement](/post/movement/); pertaining [to](/post/to/) boats [or](/post/or/) ships [that](/post/that/) [rely](/post/rely/) [on](/post/on/) [wind](/post/wind/) [power](/post/power/).
 
-### [Adverb](/en/post/adverb/)
-- **Sailing**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) involving [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) sails; [by](/en/post/by/) [means](/en/post/means/) [of](/en/post/of/) sailing.
+### [Adverb](/post/adverb/)
+- **Sailing**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) involving [the](/post/the/) [use](/post/use/) [of](/post/of/) sails; [by](/post/by/) [means](/post/means/) [of](/post/of/) sailing.
 
 ## Phrases
-- "Sailing [the](/en/post/the/) [open](/en/post/open/) seas"
-- "Sailing [into](/en/post/into/) [the](/en/post/the/) [sunset](/en/post/sunset/)"
-- "[Learning](/en/post/learning/) [to](/en/post/to/) [sail](/en/post/sail/)"
-- "Sailing [along](/en/post/along/)"
+- "Sailing [the](/post/the/) [open](/post/open/) seas"
+- "Sailing [into](/post/into/) [the](/post/the/) [sunset](/post/sunset/)"
+- "[Learning](/post/learning/) [to](/post/to/) [sail](/post/sail/)"
+- "Sailing [along](/post/along/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) sailors hoisted [the](/en/post/the/) sails [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [wind](/en/post/wind/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) decided [to](/en/post/to/) [sail](/en/post/sail/) [across](/en/post/across/) [the](/en/post/the/) [lake](/en/post/lake/) [this](/en/post/this/) [weekend](/en/post/weekend/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) yacht was [a](/en/post/a/) sleek, [modern](/en/post/modern/) sailing [vessel](/en/post/vessel/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) sailed gracefully [around](/en/post/around/) [the](/en/post/the/) harbor."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) sailors hoisted [the](/post/the/) sails [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [wind](/post/wind/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) decided [to](/post/to/) [sail](/post/sail/) [across](/post/across/) [the](/post/the/) [lake](/post/lake/) [this](/post/this/) [weekend](/post/weekend/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) yacht was [a](/post/a/) sleek, [modern](/post/modern/) sailing [vessel](/post/vessel/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) sailed gracefully [around](/post/around/) [the](/post/the/) harbor."
 
 ## Synonyms
-- Rig ([for](/en/post/for/) sails)
-- Hoist ([for](/en/post/for/) raising sails)
-- Tack ([for](/en/post/for/) changing [direction](/en/post/direction/))
-- [Course](/en/post/course/) ([for](/en/post/for/) sailing [path](/en/post/path/))
-- Manoeuvre ([for](/en/post/for/) controlling [the](/en/post/the/) [sail](/en/post/sail/))
-- Cruise ([for](/en/post/for/) sailing leisurely)
+- Rig ([for](/post/for/) sails)
+- Hoist ([for](/post/for/) raising sails)
+- Tack ([for](/post/for/) changing [direction](/post/direction/))
+- [Course](/post/course/) ([for](/post/for/) sailing [path](/post/path/))
+- Manoeuvre ([for](/post/for/) controlling [the](/post/the/) [sail](/post/sail/))
+- Cruise ([for](/post/for/) sailing leisurely)

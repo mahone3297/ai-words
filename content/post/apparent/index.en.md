@@ -7,29 +7,29 @@ description = '[əˈpærənt] a.表面上的；明显的'
 keywords = ['ai words', 'apparent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈpærənt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Clearly](/en/post/clearly/) [visible](/en/post/visible/) [or](/en/post/or/) [noticeable](/en/post/noticeable/); manifest. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [apparent](/en/post/apparent/) [contradiction](/en/post/contradiction/) [in](/en/post/in/) [their](/en/post/their/) statements was [surprising](/en/post/surprising/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [clear](/en/post/clear/) [or](/en/post/or/) [obvious](/en/post/obvious/) [manner](/en/post/manner/); seemingly. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [apparent](/en/post/apparent/) [confidence](/en/post/confidence/) inspired others [to](/en/post/to/) [follow](/en/post/follow/) [her](/en/post/her/) [lead](/en/post/lead/)."
+- **[Adjective](/post/adjective/)**: [Clearly](/post/clearly/) [visible](/post/visible/) [or](/post/or/) [noticeable](/post/noticeable/); manifest. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [apparent](/post/apparent/) [contradiction](/post/contradiction/) [in](/post/in/) [their](/post/their/) statements was [surprising](/post/surprising/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [clear](/post/clear/) [or](/post/or/) [obvious](/post/obvious/) [manner](/post/manner/); seemingly. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [apparent](/post/apparent/) [confidence](/post/confidence/) inspired others [to](/post/to/) [follow](/post/follow/) [her](/post/her/) [lead](/post/lead/)."
 
 ## Phrases
-- "[Apparent](/en/post/apparent/) [change](/en/post/change/)" denotes [a](/en/post/a/) [noticeable](/en/post/noticeable/) alteration.
-- "[Apparent](/en/post/apparent/) [satisfaction](/en/post/satisfaction/)" refers [to](/en/post/to/) [a](/en/post/a/) [clear](/en/post/clear/) [display](/en/post/display/) [of](/en/post/of/) [happiness](/en/post/happiness/) [or](/en/post/or/) contentment.
-- "[Apparent](/en/post/apparent/) [reason](/en/post/reason/)" suggests [a](/en/post/a/) [clear](/en/post/clear/) [explanation](/en/post/explanation/) [or](/en/post/or/) [cause](/en/post/cause/).
+- "[Apparent](/post/apparent/) [change](/post/change/)" denotes [a](/post/a/) [noticeable](/post/noticeable/) alteration.
+- "[Apparent](/post/apparent/) [satisfaction](/post/satisfaction/)" refers [to](/post/to/) [a](/post/a/) [clear](/post/clear/) [display](/post/display/) [of](/post/of/) [happiness](/post/happiness/) [or](/post/or/) contentment.
+- "[Apparent](/post/apparent/) [reason](/post/reason/)" suggests [a](/post/a/) [clear](/post/clear/) [explanation](/post/explanation/) [or](/post/or/) [cause](/post/cause/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [apparent](/en/post/apparent/) discrepancy [in](/en/post/in/) [the](/en/post/the/) [data](/en/post/data/) raised questions [about](/en/post/about/) [the](/en/post/the/) research's validity."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) [apparent](/en/post/apparent/) enjoyment [of](/en/post/of/) [the](/en/post/the/) [task](/en/post/task/) motivated [her](/en/post/her/) colleagues [to](/en/post/to/) [work](/en/post/work/) harder."
-- "[It](/en/post/it/) was [apparent](/en/post/apparent/) [that](/en/post/that/) [something](/en/post/something/) was [wrong](/en/post/wrong/) [with](/en/post/with/) [the](/en/post/the/) car's [engine](/en/post/engine/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [apparent](/post/apparent/) discrepancy [in](/post/in/) [the](/post/the/) [data](/post/data/) raised questions [about](/post/about/) [the](/post/the/) research's validity."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) [apparent](/post/apparent/) enjoyment [of](/post/of/) [the](/post/the/) [task](/post/task/) motivated [her](/post/her/) colleagues [to](/post/to/) [work](/post/work/) harder."
+- "[It](/post/it/) was [apparent](/post/apparent/) [that](/post/that/) [something](/post/something/) was [wrong](/post/wrong/) [with](/post/with/) [the](/post/the/) car's [engine](/post/engine/)."
 
 ## Synonyms
-- [Obvious](/en/post/obvious/)
-- [Clear](/en/post/clear/)
-- [Evident](/en/post/evident/)
+- [Obvious](/post/obvious/)
+- [Clear](/post/clear/)
+- [Evident](/post/evident/)
 - Manifest
-- [Apparent](/en/post/apparent/) [reason](/en/post/reason/) ([less](/en/post/less/) [common](/en/post/common/))
+- [Apparent](/post/apparent/) [reason](/post/reason/) ([less](/post/less/) [common](/post/common/))
 
 ## Antonyms
 - Hidden
@@ -38,5 +38,5 @@ keywords = ['ai words', 'apparent']
 - Unclear
 - Indiscernible
 
-## [Usage](/en/post/usage/)
-[Apparent](/en/post/apparent/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [various](/en/post/various/) contexts, [such](/en/post/such/) [as](/en/post/as/) describing [physical](/en/post/physical/) qualities, emotions, [or](/en/post/or/) facts [that](/en/post/that/) are [easily](/en/post/easily/) perceived [or](/en/post/or/) understood. [It](/en/post/it/) is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [that](/en/post/that/) [something](/en/post/something/) is [not](/en/post/not/) [just](/en/post/just/) suspected [but](/en/post/but/) [clearly](/en/post/clearly/) [evident](/en/post/evident/).
+## [Usage](/post/usage/)
+[Apparent](/post/apparent/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [various](/post/various/) contexts, [such](/post/such/) [as](/post/as/) describing [physical](/post/physical/) qualities, emotions, [or](/post/or/) facts [that](/post/that/) are [easily](/post/easily/) perceived [or](/post/or/) understood. [It](/post/it/) is [often](/post/often/) [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [that](/post/that/) [something](/post/something/) is [not](/post/not/) [just](/post/just/) suspected [but](/post/but/) [clearly](/post/clearly/) [evident](/post/evident/).

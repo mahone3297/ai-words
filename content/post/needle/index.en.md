@@ -7,36 +7,36 @@ description = '[ˈniːdl] n.针，缝补，编织针'
 keywords = ['ai words', 'needle']
 +++
 
-## [Word](/en/post/word/): [Needle](/en/post/needle/)
+## [Word](/post/word/): [Needle](/post/needle/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈniːdl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [long](/en/post/long/), [slender](/en/post/slender/), [and](/en/post/and/) sharp-pointed [instrument](/en/post/instrument/), [usually](/en/post/usually/) made [of](/en/post/of/) [metal](/en/post/metal/), [used](/en/post/used/) [for](/en/post/for/) sewing [by](/en/post/by/) [hand](/en/post/hand/) [or](/en/post/or/) [machine](/en/post/machine/), [for](/en/post/for/) piercing [small](/en/post/small/) holes, [or](/en/post/or/) [for](/en/post/for/) [drawing](/en/post/drawing/) [thread](/en/post/thread/) [or](/en/post/or/) yarn [through](/en/post/through/) [fabric](/en/post/fabric/) [or](/en/post/or/) [other](/en/post/other/) [material](/en/post/material/). [Example](/en/post/example/): "[She](/en/post/she/) threaded [the](/en/post/the/) [needle](/en/post/needle/) [and](/en/post/and/) began [to](/en/post/to/) [sew](/en/post/sew/) [the](/en/post/the/) hem."
-  - **Metaphorical [Usage](/en/post/usage/)**: [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [thin](/en/post/thin/) [and](/en/post/and/) pointed [like](/en/post/like/) [a](/en/post/a/) sewing [needle](/en/post/needle/), e.g., "[The](/en/post/the/) [compass](/en/post/compass/) [needle](/en/post/needle/) points [north](/en/post/north/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [guide](/en/post/guide/) [or](/en/post/or/) [push](/en/post/push/) [something](/en/post/something/) ([like](/en/post/like/) [thread](/en/post/thread/)) [through](/en/post/through/) [a](/en/post/a/) [small](/en/post/small/) [hole](/en/post/hole/) using [a](/en/post/a/) [needle](/en/post/needle/). [Example](/en/post/example/): "[She](/en/post/she/) carefully needled [the](/en/post/the/) [delicate](/en/post/delicate/) [fabric](/en/post/fabric/)."
-  - **Figurative [Usage](/en/post/usage/)**: [It](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) irritate [or](/en/post/or/) [annoy](/en/post/annoy/) [someone](/en/post/someone/) persistently, e.g., "[His](/en/post/his/) [constant](/en/post/constant/) [criticism](/en/post/criticism/) [really](/en/post/really/) needles [me](/en/post/me/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [long](/post/long/), [slender](/post/slender/), [and](/post/and/) sharp-pointed [instrument](/post/instrument/), [usually](/post/usually/) made [of](/post/of/) [metal](/post/metal/), [used](/post/used/) [for](/post/for/) sewing [by](/post/by/) [hand](/post/hand/) [or](/post/or/) [machine](/post/machine/), [for](/post/for/) piercing [small](/post/small/) holes, [or](/post/or/) [for](/post/for/) [drawing](/post/drawing/) [thread](/post/thread/) [or](/post/or/) yarn [through](/post/through/) [fabric](/post/fabric/) [or](/post/or/) [other](/post/other/) [material](/post/material/). [Example](/post/example/): "[She](/post/she/) threaded [the](/post/the/) [needle](/post/needle/) [and](/post/and/) began [to](/post/to/) [sew](/post/sew/) [the](/post/the/) hem."
+  - **Metaphorical [Usage](/post/usage/)**: [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [that](/post/that/) is [thin](/post/thin/) [and](/post/and/) pointed [like](/post/like/) [a](/post/a/) sewing [needle](/post/needle/), e.g., "[The](/post/the/) [compass](/post/compass/) [needle](/post/needle/) points [north](/post/north/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [guide](/post/guide/) [or](/post/or/) [push](/post/push/) [something](/post/something/) ([like](/post/like/) [thread](/post/thread/)) [through](/post/through/) [a](/post/a/) [small](/post/small/) [hole](/post/hole/) using [a](/post/a/) [needle](/post/needle/). [Example](/post/example/): "[She](/post/she/) carefully needled [the](/post/the/) [delicate](/post/delicate/) [fabric](/post/fabric/)."
+  - **Figurative [Usage](/post/usage/)**: [It](/post/it/) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) irritate [or](/post/or/) [annoy](/post/annoy/) [someone](/post/someone/) persistently, e.g., "[His](/post/his/) [constant](/post/constant/) [criticism](/post/criticism/) [really](/post/really/) needles [me](/post/me/)."
 
 ## Phrases
-- "[A](/en/post/a/) [needle](/en/post/needle/) [in](/en/post/in/) [a](/en/post/a/) haystack": An [idiom](/en/post/idiom/) referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [extremely](/en/post/extremely/) [difficult](/en/post/difficult/) [to](/en/post/to/) [find](/en/post/find/) [among](/en/post/among/) [many](/en/post/many/) [other](/en/post/other/) things. [Example](/en/post/example/): "[Finding](/en/post/finding/) [the](/en/post/the/) [right](/en/post/right/) [document](/en/post/document/) [in](/en/post/in/) [this](/en/post/this/) disorganized archive is [like](/en/post/like/) [finding](/en/post/finding/) [a](/en/post/a/) [needle](/en/post/needle/) [in](/en/post/in/) [a](/en/post/a/) haystack."
-- "[To](/en/post/to/) [thread](/en/post/thread/) [a](/en/post/a/) [needle](/en/post/needle/)": [This](/en/post/this/) [means](/en/post/means/) [to](/en/post/to/) [pass](/en/post/pass/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [great](/en/post/great/) [care](/en/post/care/) [or](/en/post/or/) [precision](/en/post/precision/), [through](/en/post/through/) [a](/en/post/a/) [narrow](/en/post/narrow/) [space](/en/post/space/) [or](/en/post/or/) [opening](/en/post/opening/). [Example](/en/post/example/): "[The](/en/post/the/) quarterback threaded [the](/en/post/the/) [needle](/en/post/needle/) [with](/en/post/with/) [a](/en/post/a/) [perfect](/en/post/perfect/) [pass](/en/post/pass/) [between](/en/post/between/) [two](/en/post/two/) defenders."
+- "[A](/post/a/) [needle](/post/needle/) [in](/post/in/) [a](/post/a/) haystack": An [idiom](/post/idiom/) referring [to](/post/to/) [something](/post/something/) [that](/post/that/) is [extremely](/post/extremely/) [difficult](/post/difficult/) [to](/post/to/) [find](/post/find/) [among](/post/among/) [many](/post/many/) [other](/post/other/) things. [Example](/post/example/): "[Finding](/post/finding/) [the](/post/the/) [right](/post/right/) [document](/post/document/) [in](/post/in/) [this](/post/this/) disorganized archive is [like](/post/like/) [finding](/post/finding/) [a](/post/a/) [needle](/post/needle/) [in](/post/in/) [a](/post/a/) haystack."
+- "[To](/post/to/) [thread](/post/thread/) [a](/post/a/) [needle](/post/needle/)": [This](/post/this/) [means](/post/means/) [to](/post/to/) [pass](/post/pass/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [great](/post/great/) [care](/post/care/) [or](/post/or/) [precision](/post/precision/), [through](/post/through/) [a](/post/a/) [narrow](/post/narrow/) [space](/post/space/) [or](/post/or/) [opening](/post/opening/). [Example](/post/example/): "[The](/post/the/) quarterback threaded [the](/post/the/) [needle](/post/needle/) [with](/post/with/) [a](/post/a/) [perfect](/post/perfect/) [pass](/post/pass/) [between](/post/between/) [two](/post/two/) defenders."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [tailor](/en/post/tailor/) picked [up](/en/post/up/) [the](/en/post/the/) [needle](/en/post/needle/) [and](/en/post/and/) began mending [the](/en/post/the/) torn seam."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully needlepointed [a](/en/post/a/) [beautiful](/en/post/beautiful/) [design](/en/post/design/) [on](/en/post/on/) [the](/en/post/the/) pillowcase."
-- **Figurative [Usage](/en/post/usage/)**: "[His](/en/post/his/) sarcasm was [like](/en/post/like/) [a](/en/post/a/) [needle](/en/post/needle/), piercing [through](/en/post/through/) [her](/en/post/her/) [confidence](/en/post/confidence/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [tailor](/post/tailor/) picked [up](/post/up/) [the](/post/the/) [needle](/post/needle/) [and](/post/and/) began mending [the](/post/the/) torn seam."
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully needlepointed [a](/post/a/) [beautiful](/post/beautiful/) [design](/post/design/) [on](/post/on/) [the](/post/the/) pillowcase."
+- **Figurative [Usage](/post/usage/)**: "[His](/post/his/) sarcasm was [like](/post/like/) [a](/post/a/) [needle](/post/needle/), piercing [through](/post/through/) [her](/post/her/) [confidence](/post/confidence/)."
 
 ## Synonyms
-- [Pin](/en/post/pin/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
-- Syringe ([for](/en/post/for/) [medical](/en/post/medical/) needles)
-- Awl ([for](/en/post/for/) piercing holes)
-- Stitcher ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) sewing)
-- Pricker ([for](/en/post/for/) [a](/en/post/a/) [simple](/en/post/simple/), non-sewing [needle](/en/post/needle/))
+- [Pin](/post/pin/) ([in](/post/in/) [some](/post/some/) contexts)
+- Syringe ([for](/post/for/) [medical](/post/medical/) needles)
+- Awl ([for](/post/for/) piercing holes)
+- Stitcher ([in](/post/in/) [the](/post/the/) context [of](/post/of/) sewing)
+- Pricker ([for](/post/for/) [a](/post/a/) [simple](/post/simple/), non-sewing [needle](/post/needle/))
 
-[In](/en/post/in/) [the](/en/post/the/) figurative [sense](/en/post/sense/):
+[In](/post/in/) [the](/post/the/) figurative [sense](/post/sense/):
 - Irritate
-- [Annoy](/en/post/annoy/)
+- [Annoy](/post/annoy/)
 - Harass
 - Torment
 - Provoke

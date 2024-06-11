@@ -7,28 +7,28 @@ description = '[ˈreidiəuækˈtiviti] n.放射性，放射(现象)'
 keywords = ['ai words', 'radioactivity']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəʊˈæktɪvəti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [spontaneous](/en/post/spontaneous/) emission [of](/en/post/of/) ionizing [radiation](/en/post/radiation/) [by](/en/post/by/) [certain](/en/post/certain/) [atomic](/en/post/atomic/) nuclei [or](/en/post/or/) subatomic particles, characterized [by](/en/post/by/) [the](/en/post/the/) [presence](/en/post/presence/) [of](/en/post/of/) [radioactivity](/en/post/radioactivity/) [or](/en/post/or/) [radioactive](/en/post/radioactive/) [decay](/en/post/decay/). [Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[radioactivity](/en/post/radioactivity/))
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [exhibit](/en/post/exhibit/) [or](/en/post/or/) [be](/en/post/be/) affected [by](/en/post/by/) [radioactivity](/en/post/radioactivity/); [undergo](/en/post/undergo/) [radioactive](/en/post/radioactive/) [decay](/en/post/decay/). [Cambridge](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[radioactivity](/en/post/radioactivity/))
+- **[Noun](/post/noun/)**: [The](/post/the/) [spontaneous](/post/spontaneous/) emission [of](/post/of/) ionizing [radiation](/post/radiation/) [by](/post/by/) [certain](/post/certain/) [atomic](/post/atomic/) nuclei [or](/post/or/) subatomic particles, characterized [by](/post/by/) [the](/post/the/) [presence](/post/presence/) [of](/post/of/) [radioactivity](/post/radioactivity/) [or](/post/or/) [radioactive](/post/radioactive/) [decay](/post/decay/). [Oxford](https://en.oxforddictionaries.com/[definition](/post/definition/)/[radioactivity](/post/radioactivity/))
+- **[Verb](/post/verb/)**: [To](/post/to/) [exhibit](/post/exhibit/) [or](/post/or/) [be](/post/be/) affected [by](/post/by/) [radioactivity](/post/radioactivity/); [undergo](/post/undergo/) [radioactive](/post/radioactive/) [decay](/post/decay/). [Cambridge](https://[dictionary](/post/dictionary/).cambridge.org/[dictionary](/post/dictionary/)/english/[radioactivity](/post/radioactivity/))
 
 ## Phrases
-- "[Radioactive](/en/post/radioactive/) [decay](/en/post/decay/)" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [by](/en/post/by/) [which](/en/post/which/) [unstable](/en/post/unstable/) atoms [emit](/en/post/emit/) [radiation](/en/post/radiation/).
-- "[Radioactivity](/en/post/radioactivity/) levels" [measure](/en/post/measure/) [the](/en/post/the/) [intensity](/en/post/intensity/) [of](/en/post/of/) [radioactive](/en/post/radioactive/) substances.
-- "[Radioactive](/en/post/radioactive/) [waste](/en/post/waste/)" is [the](/en/post/the/) byproduct [of](/en/post/of/) [nuclear](/en/post/nuclear/) reactions containing [radioactive](/en/post/radioactive/) materials.
+- "[Radioactive](/post/radioactive/) [decay](/post/decay/)" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [by](/post/by/) [which](/post/which/) [unstable](/post/unstable/) atoms [emit](/post/emit/) [radiation](/post/radiation/).
+- "[Radioactivity](/post/radioactivity/) levels" [measure](/post/measure/) [the](/post/the/) [intensity](/post/intensity/) [of](/post/of/) [radioactive](/post/radioactive/) substances.
+- "[Radioactive](/post/radioactive/) [waste](/post/waste/)" is [the](/post/the/) byproduct [of](/post/of/) [nuclear](/post/nuclear/) reactions containing [radioactive](/post/radioactive/) materials.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sample](/en/post/sample/) showed [high](/en/post/high/) levels [of](/en/post/of/) [radioactivity](/en/post/radioactivity/) [after](/en/post/after/) [being](/en/post/being/) exposed [to](/en/post/to/) cosmic rays."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [old](/en/post/old/) reactor had been decommissioned [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) increased [radioactivity](/en/post/radioactivity/) [over](/en/post/over/) [time](/en/post/time/)."
-- "Scientists [monitor](/en/post/monitor/) [the](/en/post/the/) [radioactivity](/en/post/radioactivity/) [of](/en/post/of/) [natural](/en/post/natural/) sources [like](/en/post/like/) granite [to](/en/post/to/) [assess](/en/post/assess/) [potential](/en/post/potential/) risks."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sample](/post/sample/) showed [high](/post/high/) levels [of](/post/of/) [radioactivity](/post/radioactivity/) [after](/post/after/) [being](/post/being/) exposed [to](/post/to/) cosmic rays."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [old](/post/old/) reactor had been decommissioned [due](/post/due/) [to](/post/to/) [its](/post/its/) increased [radioactivity](/post/radioactivity/) [over](/post/over/) [time](/post/time/)."
+- "Scientists [monitor](/post/monitor/) [the](/post/the/) [radioactivity](/post/radioactivity/) [of](/post/of/) [natural](/post/natural/) sources [like](/post/like/) granite [to](/post/to/) [assess](/post/assess/) [potential](/post/potential/) risks."
 
 ## Synonyms
-- [Radioactivity](/en/post/radioactivity/) ([no](/en/post/no/) [direct](/en/post/direct/) synonym, [but](/en/post/but/) related terms [include](/en/post/include/) "[radioactive](/en/post/radioactive/) flux", "radioisotopic [activity](/en/post/activity/)", "[nuclear](/en/post/nuclear/) [decay](/en/post/decay/)")
+- [Radioactivity](/post/radioactivity/) ([no](/post/no/) [direct](/post/direct/) synonym, [but](/post/but/) related terms [include](/post/include/) "[radioactive](/post/radioactive/) flux", "radioisotopic [activity](/post/activity/)", "[nuclear](/post/nuclear/) [decay](/post/decay/)")
 
 ## Antonyms
-- [Stability](/en/post/stability/) ([absence](/en/post/absence/) [of](/en/post/of/) [radioactivity](/en/post/radioactivity/))
+- [Stability](/post/stability/) ([absence](/post/absence/) [of](/post/of/) [radioactivity](/post/radioactivity/))
 
 ## Notes
-[Radioactivity](/en/post/radioactivity/) is [a](/en/post/a/) [fundamental](/en/post/fundamental/) [concept](/en/post/concept/) [in](/en/post/in/) [physics](/en/post/physics/) [and](/en/post/and/) [chemistry](/en/post/chemistry/), [with](/en/post/with/) applications ranging [from](/en/post/from/) [medical](/en/post/medical/) treatments [to](/en/post/to/) geologic dating. [It](/en/post/it/) is [often](/en/post/often/) associated [with](/en/post/with/) [the](/en/post/the/) [phenomenon](/en/post/phenomenon/) [of](/en/post/of/) [nuclear](/en/post/nuclear/) fission [and](/en/post/and/) fusion, [which](/en/post/which/) powers [both](/en/post/both/) [nuclear](/en/post/nuclear/) reactors [and](/en/post/and/) stars.
+[Radioactivity](/post/radioactivity/) is [a](/post/a/) [fundamental](/post/fundamental/) [concept](/post/concept/) [in](/post/in/) [physics](/post/physics/) [and](/post/and/) [chemistry](/post/chemistry/), [with](/post/with/) applications ranging [from](/post/from/) [medical](/post/medical/) treatments [to](/post/to/) geologic dating. [It](/post/it/) is [often](/post/often/) associated [with](/post/with/) [the](/post/the/) [phenomenon](/post/phenomenon/) [of](/post/of/) [nuclear](/post/nuclear/) fission [and](/post/and/) fusion, [which](/post/which/) powers [both](/post/both/) [nuclear](/post/nuclear/) reactors [and](/post/and/) stars.

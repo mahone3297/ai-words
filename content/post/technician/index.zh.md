@@ -11,20 +11,20 @@ keywords = ['ai words', 'technician']
 /ˈteknɪʃən/
 
 ## 释义
-- **名词 (n)**: 专门的技术人员或工匠，具有特定技术知识和技能的人。例如: "[The](/post/the/) [technician](/post/technician/) fixed [my](/post/my/) [computer](/post/computer/) [in](/post/in/) [no](/post/no/) [time](/post/time/)."
-- **形容词 (adj)**: 与技术相关或涉及技术的。例如: "[He](/post/he/) has [a](/post/a/) [technician](/post/technician/) [background](/post/background/) [in](/post/in/) [electronics](/post/electronics/)."
+- **名词 (n)**: 专门的技术人员或工匠，具有特定技术知识和技能的人。例如: "[The](/zh/post/the/) [technician](/zh/post/technician/) fixed [my](/zh/post/my/) [computer](/zh/post/computer/) [in](/zh/post/in/) [no](/zh/post/no/) [time](/zh/post/time/)."
+- **形容词 (adj)**: 与技术相关或涉及技术的。例如: "[He](/zh/post/he/) has [a](/zh/post/a/) [technician](/zh/post/technician/) [background](/zh/post/background/) [in](/zh/post/in/) [electronics](/zh/post/electronics/)."
 
 ## 短语
-- "[Technical](/post/technical/) [support](/post/support/) [technician](/post/technician/)" 指提供技术支持的专业人员。
-- "[Lab](/post/lab/) [technician](/post/technician/)" 是在实验室里进行实验和技术工作的人。
+- "[Technical](/zh/post/technical/) [support](/zh/post/support/) [technician](/zh/post/technician/)" 指提供技术支持的专业人员。
+- "[Lab](/zh/post/lab/) [technician](/zh/post/technician/)" 是在实验室里进行实验和技术工作的人。
 
 ## 例句
-- 名词: "[The](/post/the/) [car](/post/car/) dealership sent [a](/post/a/) [skilled](/post/skilled/) [technician](/post/technician/) [to](/post/to/) diagnose [the](/post/the/) [issue](/post/issue/)."
-- 形容词: "[She](/post/she/) pursued [a](/post/a/) [technician](/post/technician/) [job](/post/job/) [in](/post/in/) [the](/post/the/) [medical](/post/medical/) [field](/post/field/) [after](/post/after/) completing [her](/post/her/) studies."
+- 名词: "[The](/zh/post/the/) [car](/zh/post/car/) dealership sent [a](/zh/post/a/) [skilled](/zh/post/skilled/) [technician](/zh/post/technician/) [to](/zh/post/to/) diagnose [the](/zh/post/the/) [issue](/zh/post/issue/)."
+- 形容词: "[She](/zh/post/she/) pursued [a](/zh/post/a/) [technician](/zh/post/technician/) [job](/zh/post/job/) [in](/zh/post/in/) [the](/zh/post/the/) [medical](/zh/post/medical/) [field](/zh/post/field/) [after](/zh/post/after/) completing [her](/zh/post/her/) studies."
 
 ## 同义词
-- [Specialist](/post/specialist/)
-- [Expert](/post/expert/)
-- [Engineer](/post/engineer/)
-- [Professional](/post/professional/)
+- [Specialist](/zh/post/specialist/)
+- [Expert](/zh/post/expert/)
+- [Engineer](/zh/post/engineer/)
+- [Professional](/zh/post/professional/)
 - Practitioner

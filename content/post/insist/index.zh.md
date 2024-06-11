@@ -12,20 +12,20 @@ keywords = ['ai words', 'insist']
 
 ## 释义
 - **动词**:
-    - 坚持要求；坚决主张：例如: "[She](/post/she/) insisted [on](/post/on/) paying [for](/post/for/) [dinner](/post/dinner/)."
-    - 强调，着重指出：例如: "[He](/post/he/) insisted [that](/post/that/) [he](/post/he/) was [innocent](/post/innocent/)."
+    - 坚持要求；坚决主张：例如: "[She](/zh/post/she/) insisted [on](/zh/post/on/) paying [for](/zh/post/for/) [dinner](/zh/post/dinner/)."
+    - 强调，着重指出：例如: "[He](/zh/post/he/) insisted [that](/zh/post/that/) [he](/zh/post/he/) was [innocent](/zh/post/innocent/)."
 
 ## 短语
-- "[insist](/post/insist/) [on](/post/on/)" 意为坚决要求或坚持认为。
-- "[insist](/post/insist/) [upon](/post/upon/)" 含义相同，强调坚持某一观点或行动。
+- "[insist](/zh/post/insist/) [on](/zh/post/on/)" 意为坚决要求或坚持认为。
+- "[insist](/zh/post/insist/) [upon](/zh/post/upon/)" 含义相同，强调坚持某一观点或行动。
 
 ## 例句
-- "[Despite](/post/despite/) [our](/post/our/) objections, [he](/post/he/) insisted [on](/post/on/) walking [home](/post/home/) [alone](/post/alone/) [at](/post/at/) [night](/post/night/)."
-- "[She](/post/she/) insisted [on](/post/on/) [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [regular](/post/regular/) [exercise](/post/exercise/) [for](/post/for/) [good](/post/good/) [health](/post/health/)."
+- "[Despite](/zh/post/despite/) [our](/zh/post/our/) objections, [he](/zh/post/he/) insisted [on](/zh/post/on/) walking [home](/zh/post/home/) [alone](/zh/post/alone/) [at](/zh/post/at/) [night](/zh/post/night/)."
+- "[She](/zh/post/she/) insisted [on](/zh/post/on/) [the](/zh/post/the/) [importance](/zh/post/importance/) [of](/zh/post/of/) [regular](/zh/post/regular/) [exercise](/zh/post/exercise/) [for](/zh/post/for/) [good](/zh/post/good/) [health](/zh/post/health/)."
 
 ## 同义词
-- [demand](/post/demand/)
-- [persist](/post/persist/)
-- [urge](/post/urge/)
+- [demand](/zh/post/demand/)
+- [persist](/zh/post/persist/)
+- [urge](/zh/post/urge/)
 - assert
-- [maintain](/post/maintain/)
+- [maintain](/zh/post/maintain/)

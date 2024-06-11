@@ -7,34 +7,34 @@ description = '[ˈsəːdʒəri] n.外科，外科手术'
 keywords = ['ai words', 'surgery']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsɜːrɡəri/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: **1**. [The](/en/post/the/) [branch](/en/post/branch/) [of](/en/post/of/) [medicine](/en/post/medicine/) [that](/en/post/that/) deals [with](/en/post/with/) operations [on](/en/post/on/) [the](/en/post/the/) [body](/en/post/body/), [especially](/en/post/especially/) using instruments [or](/en/post/or/) [other](/en/post/other/) techniques [to](/en/post/to/) [repair](/en/post/repair/) [or](/en/post/or/) [remove](/en/post/remove/) diseased [or](/en/post/or/) damaged [tissue](/en/post/tissue/). **2**. [A](/en/post/a/) surgical [operation](/en/post/operation/) [or](/en/post/or/) [procedure](/en/post/procedure/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [patient](/en/post/patient/) underwent [a](/en/post/a/) [successful](/en/post/successful/) [surgery](/en/post/surgery/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [perform](/en/post/perform/) [surgery](/en/post/surgery/) [or](/en/post/or/) [operate](/en/post/operate/) [on](/en/post/on/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [surgeon](/en/post/surgeon/) [will](/en/post/will/) [be](/en/post/be/) performing [surgery](/en/post/surgery/) [tomorrow](/en/post/tomorrow/)."
-- **[Noun](/en/post/noun/) ([plural](/en/post/plural/))**: Surgical skills [or](/en/post/or/) expertise. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [talent](/en/post/talent/) [for](/en/post/for/) surgical [precision](/en/post/precision/)."
+- **[Noun](/post/noun/)**: **1**. [The](/post/the/) [branch](/post/branch/) [of](/post/of/) [medicine](/post/medicine/) [that](/post/that/) deals [with](/post/with/) operations [on](/post/on/) [the](/post/the/) [body](/post/body/), [especially](/post/especially/) using instruments [or](/post/or/) [other](/post/other/) techniques [to](/post/to/) [repair](/post/repair/) [or](/post/or/) [remove](/post/remove/) diseased [or](/post/or/) damaged [tissue](/post/tissue/). **2**. [A](/post/a/) surgical [operation](/post/operation/) [or](/post/or/) [procedure](/post/procedure/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [patient](/post/patient/) underwent [a](/post/a/) [successful](/post/successful/) [surgery](/post/surgery/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [perform](/post/perform/) [surgery](/post/surgery/) [or](/post/or/) [operate](/post/operate/) [on](/post/on/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [surgeon](/post/surgeon/) [will](/post/will/) [be](/post/be/) performing [surgery](/post/surgery/) [tomorrow](/post/tomorrow/)."
+- **[Noun](/post/noun/) ([plural](/post/plural/))**: Surgical skills [or](/post/or/) expertise. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [talent](/post/talent/) [for](/post/for/) surgical [precision](/post/precision/)."
 
 ## Phrases
-- "[Undergo](/en/post/undergo/) [surgery](/en/post/surgery/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [medical](/en/post/medical/) [operation](/en/post/operation/).
-- "Pre-surgery [preparation](/en/post/preparation/)" refers [to](/en/post/to/) [the](/en/post/the/) steps taken [before](/en/post/before/) [a](/en/post/a/) [surgery](/en/post/surgery/).
-- "Post-surgery [recovery](/en/post/recovery/)" is [the](/en/post/the/) [period](/en/post/period/) [after](/en/post/after/) [a](/en/post/a/) [surgery](/en/post/surgery/) [when](/en/post/when/) [the](/en/post/the/) [patient](/en/post/patient/) heals.
+- "[Undergo](/post/undergo/) [surgery](/post/surgery/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [medical](/post/medical/) [operation](/post/operation/).
+- "Pre-surgery [preparation](/post/preparation/)" refers [to](/post/to/) [the](/post/the/) steps taken [before](/post/before/) [a](/post/a/) [surgery](/post/surgery/).
+- "Post-surgery [recovery](/post/recovery/)" is [the](/post/the/) [period](/post/period/) [after](/post/after/) [a](/post/a/) [surgery](/post/surgery/) [when](/post/when/) [the](/post/the/) [patient](/post/patient/) heals.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [patient](/en/post/patient/) was discharged [from](/en/post/from/) [the](/en/post/the/) [hospital](/en/post/hospital/) [after](/en/post/after/) [a](/en/post/a/) [successful](/en/post/successful/) [knee](/en/post/knee/) [surgery](/en/post/surgery/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) scheduled [the](/en/post/the/) [surgery](/en/post/surgery/) [for](/en/post/for/) [next](/en/post/next/) [week](/en/post/week/)."
-- **[Noun](/en/post/noun/)**: "She's been undergoing [extensive](/en/post/extensive/) surgical [training](/en/post/training/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [patient](/post/patient/) was discharged [from](/post/from/) [the](/post/the/) [hospital](/post/hospital/) [after](/post/after/) [a](/post/a/) [successful](/post/successful/) [knee](/post/knee/) [surgery](/post/surgery/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [doctor](/post/doctor/) scheduled [the](/post/the/) [surgery](/post/surgery/) [for](/post/for/) [next](/post/next/) [week](/post/week/)."
+- **[Noun](/post/noun/)**: "She's been undergoing [extensive](/post/extensive/) surgical [training](/post/training/)."
 
 ## Synonyms
-- [Operation](/en/post/operation/)
-- [Procedure](/en/post/procedure/)
-- [Surgery](/en/post/surgery/) [treatment](/en/post/treatment/)
+- [Operation](/post/operation/)
+- [Procedure](/post/procedure/)
+- [Surgery](/post/surgery/) [treatment](/post/treatment/)
 - Intervention
-- [Medical](/en/post/medical/) [procedure](/en/post/procedure/)
+- [Medical](/post/medical/) [procedure](/post/procedure/)
 - Chirurgery
 - Ope
 
 ## Antonyms
 - Non-surgical
-- [Conservative](/en/post/conservative/) [treatment](/en/post/treatment/)
-- Therapeutic intervention ([less](/en/post/less/) invasive)
+- [Conservative](/post/conservative/) [treatment](/post/treatment/)
+- Therapeutic intervention ([less](/post/less/) invasive)

@@ -7,31 +7,31 @@ description = '[kənˈsidərəbl] a.相当大的;重要的'
 keywords = ['ai words', 'considerable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈsɪdərəbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Expressing [a](/en/post/a/) [significant](/en/post/significant/) [or](/en/post/or/) notable [amount](/en/post/amount/); [substantial](/en/post/substantial/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) required [considerable](/en/post/considerable/) [effort](/en/post/effort/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [significant](/en/post/significant/) [or](/en/post/or/) notable [degree](/en/post/degree/); notably. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) improved considerably [over](/en/post/over/) [the](/en/post/the/) [course](/en/post/course/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/)."
+- **[Adjective](/post/adjective/)**: Expressing [a](/post/a/) [significant](/post/significant/) [or](/post/or/) notable [amount](/post/amount/); [substantial](/post/substantial/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) required [considerable](/post/considerable/) [effort](/post/effort/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [significant](/post/significant/) [or](/post/or/) notable [degree](/post/degree/); notably. [For](/post/for/) [example](/post/example/): "[She](/post/she/) improved considerably [over](/post/over/) [the](/post/the/) [course](/post/course/) [of](/post/of/) [the](/post/the/) [year](/post/year/)."
 
 ## Phrases
-- "[Considerable](/en/post/considerable/) resources" refers [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) [something](/en/post/something/).
-- "[A](/en/post/a/) [considerable](/en/post/considerable/) [sum](/en/post/sum/)" denotes [a](/en/post/a/) [significant](/en/post/significant/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/).
-- "[She](/en/post/she/) has made [considerable](/en/post/considerable/) [progress](/en/post/progress/)" [means](/en/post/means/) [significant](/en/post/significant/) [improvement](/en/post/improvement/).
+- "[Considerable](/post/considerable/) resources" refers [to](/post/to/) [a](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) [something](/post/something/).
+- "[A](/post/a/) [considerable](/post/considerable/) [sum](/post/sum/)" denotes [a](/post/a/) [significant](/post/significant/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/).
+- "[She](/post/she/) has made [considerable](/post/considerable/) [progress](/post/progress/)" [means](/post/means/) [significant](/post/significant/) [improvement](/post/improvement/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's revenue has grown [to](/en/post/to/) [considerable](/en/post/considerable/) proportions."
-- **[Adverb](/en/post/adverb/)**: "[His](/en/post/his/) [understanding](/en/post/understanding/) [of](/en/post/of/) [the](/en/post/the/) [subject](/en/post/subject/) has increased considerably."
-- "[Her](/en/post/her/) [patience](/en/post/patience/) was [truly](/en/post/truly/) [considerable](/en/post/considerable/), considering [the](/en/post/the/) [situation](/en/post/situation/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) company's revenue has grown [to](/post/to/) [considerable](/post/considerable/) proportions."
+- **[Adverb](/post/adverb/)**: "[His](/post/his/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [subject](/post/subject/) has increased considerably."
+- "[Her](/post/her/) [patience](/post/patience/) was [truly](/post/truly/) [considerable](/post/considerable/), considering [the](/post/the/) [situation](/post/situation/)."
 
 ## Synonyms
-- [Substantial](/en/post/substantial/)
-- [Significant](/en/post/significant/)
-- [Large](/en/post/large/)
+- [Substantial](/post/substantial/)
+- [Significant](/post/significant/)
+- [Large](/post/large/)
 - Hefty
 - Sizeable
 - Notable
-- [Important](/en/post/important/)
+- [Important](/post/important/)
 - Appreciable
 
 ## Antonyms
@@ -39,5 +39,5 @@ keywords = ['ai words', 'considerable']
 - Trivial
 - Negligible
 - Minimal
-- [Small](/en/post/small/)
+- [Small](/post/small/)
 - Inconsiderable

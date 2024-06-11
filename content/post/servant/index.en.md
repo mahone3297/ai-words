@@ -7,36 +7,36 @@ description = '[ˈsəːvənt] n.仆人，佣人，雇工'
 keywords = ['ai words', 'servant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɜːˈvnt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) serves [another](/en/post/another/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [domestic](/en/post/domestic/) [or](/en/post/or/) [professional](/en/post/professional/) [capacity](/en/post/capacity/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) butler, [maid](/en/post/maid/), [or](/en/post/or/) [cook](/en/post/cook/). 2. (slang) [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) works [in](/en/post/in/) [a](/en/post/a/) low-ranking [position](/en/post/position/), [often](/en/post/often/) [without](/en/post/without/) [much](/en/post/much/) autonomy. 3. An [inferior](/en/post/inferior/) [or](/en/post/or/) subordinate [in](/en/post/in/) [a](/en/post/a/) [relationship](/en/post/relationship/) [or](/en/post/or/) [organization](/en/post/organization/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [person](/post/person/) [who](/post/who/) serves [another](/post/another/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [domestic](/post/domestic/) [or](/post/or/) [professional](/post/professional/) [capacity](/post/capacity/), [such](/post/such/) [as](/post/as/) [a](/post/a/) butler, [maid](/post/maid/), [or](/post/or/) [cook](/post/cook/). 2. (slang) [A](/post/a/) [person](/post/person/) [who](/post/who/) works [in](/post/in/) [a](/post/a/) low-ranking [position](/post/position/), [often](/post/often/) [without](/post/without/) [much](/post/much/) autonomy. 3. An [inferior](/post/inferior/) [or](/post/or/) subordinate [in](/post/in/) [a](/post/a/) [relationship](/post/relationship/) [or](/post/or/) [organization](/post/organization/).
 
 ## Phrases
-- "[Serve](/en/post/serve/) [as](/en/post/as/) [a](/en/post/a/) [servant](/en/post/servant/)" implies taking [on](/en/post/on/) [a](/en/post/a/) [role](/en/post/role/) [of](/en/post/of/) assistance [or](/en/post/or/) [duty](/en/post/duty/).
-- "[A](/en/post/a/) [life](/en/post/life/) [of](/en/post/of/) servitude" describes [a](/en/post/a/) [life](/en/post/life/) spent [in](/en/post/in/) [bound](/en/post/bound/) [service](/en/post/service/) [or](/en/post/or/) labor.
-- "[Be](/en/post/be/) subservient [to](/en/post/to/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) obedient [or](/en/post/or/) submissive [to](/en/post/to/) [someone](/en/post/someone/) else's [authority](/en/post/authority/).
+- "[Serve](/post/serve/) [as](/post/as/) [a](/post/a/) [servant](/post/servant/)" implies taking [on](/post/on/) [a](/post/a/) [role](/post/role/) [of](/post/of/) assistance [or](/post/or/) [duty](/post/duty/).
+- "[A](/post/a/) [life](/post/life/) [of](/post/of/) servitude" describes [a](/post/a/) [life](/post/life/) spent [in](/post/in/) [bound](/post/bound/) [service](/post/service/) [or](/post/or/) labor.
+- "[Be](/post/be/) subservient [to](/post/to/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) obedient [or](/post/or/) submissive [to](/post/to/) [someone](/post/someone/) else's [authority](/post/authority/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) butler was [a](/en/post/a/) [highly](/en/post/highly/) [skilled](/en/post/skilled/) [servant](/en/post/servant/), anticipating [his](/en/post/his/) master's [every](/en/post/every/) [need](/en/post/need/)."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) [her](/en/post/her/) [former](/en/post/former/) [life](/en/post/life/), [she](/en/post/she/) had been [a](/en/post/a/) [loyal](/en/post/loyal/) [servant](/en/post/servant/) [to](/en/post/to/) [the](/en/post/the/) [family](/en/post/family/) [for](/en/post/for/) decades."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) servant's quarters were [small](/en/post/small/) [and](/en/post/and/) cramped, reflecting [their](/en/post/their/) [status](/en/post/status/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) butler was [a](/post/a/) [highly](/post/highly/) [skilled](/post/skilled/) [servant](/post/servant/), anticipating [his](/post/his/) master's [every](/post/every/) [need](/post/need/)."
+- **[Verb](/post/verb/)**: "[In](/post/in/) [her](/post/her/) [former](/post/former/) [life](/post/life/), [she](/post/she/) had been [a](/post/a/) [loyal](/post/loyal/) [servant](/post/servant/) [to](/post/to/) [the](/post/the/) [family](/post/family/) [for](/post/for/) decades."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) servant's quarters were [small](/post/small/) [and](/post/and/) cramped, reflecting [their](/post/their/) [status](/post/status/)."
 
 ## Synonyms
 - Helper
-- [Employee](/en/post/employee/)
+- [Employee](/post/employee/)
 - Underling
 - Attendant
 - Chauffeur
 -奴仆 (nú bù) (slang, Chinese)
 
 ## Antonyms
-- [Master](/en/post/master/)
-- [Employer](/en/post/employer/)
-- [Boss](/en/post/boss/)
-- [Ruler](/en/post/ruler/)
-- [Superior](/en/post/superior/)
+- [Master](/post/master/)
+- [Employer](/post/employer/)
+- [Boss](/post/boss/)
+- [Ruler](/post/ruler/)
+- [Superior](/post/superior/)
 
 ## Etymology
-[The](/en/post/the/) [word](/en/post/word/) "[servant](/en/post/servant/)" comes [from](/en/post/from/) [the](/en/post/the/) [Old](/en/post/old/) French [word](/en/post/word/) "serviteur," derived [from](/en/post/from/) [the](/en/post/the/) Latin "servus," [meaning](/en/post/meaning/) [slave](/en/post/slave/) [or](/en/post/or/) [bond](/en/post/bond/) [servant](/en/post/servant/). [Over](/en/post/over/) [time](/en/post/time/), [its](/en/post/its/) [meaning](/en/post/meaning/) has evolved [to](/en/post/to/) [include](/en/post/include/) hired workers [beyond](/en/post/beyond/) [the](/en/post/the/) [realm](/en/post/realm/) [of](/en/post/of/) [slavery](/en/post/slavery/).
+[The](/post/the/) [word](/post/word/) "[servant](/post/servant/)" comes [from](/post/from/) [the](/post/the/) [Old](/post/old/) French [word](/post/word/) "serviteur," derived [from](/post/from/) [the](/post/the/) Latin "servus," [meaning](/post/meaning/) [slave](/post/slave/) [or](/post/or/) [bond](/post/bond/) [servant](/post/servant/). [Over](/post/over/) [time](/post/time/), [its](/post/its/) [meaning](/post/meaning/) has evolved [to](/post/to/) [include](/post/include/) hired workers [beyond](/post/beyond/) [the](/post/the/) [realm](/post/realm/) [of](/post/of/) [slavery](/post/slavery/).

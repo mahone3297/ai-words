@@ -7,33 +7,33 @@ description = '[ˈstændəd] n.标准 a.标准的'
 keywords = ['ai words', 'standard']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stdən'dɑrd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Standard](/en/post/standard/)**: [A](/en/post/a/) [generally](/en/post/generally/) accepted [or](/en/post/or/) established [level](/en/post/level/), [quality](/en/post/quality/), [or](/en/post/or/) [model](/en/post/model/), [often](/en/post/often/) serving [as](/en/post/as/) [a](/en/post/a/) [point](/en/post/point/) [of](/en/post/of/) [reference](/en/post/reference/) [or](/en/post/or/) benchmark. [Example](/en/post/example/): "[The](/en/post/the/) [industry](/en/post/industry/) [standard](/en/post/standard/) [for](/en/post/for/) software [development](/en/post/development/) is [to](/en/post/to/) [use](/en/post/use/) Agile methodologies."
-2. **Standardization**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) establishing [a](/en/post/a/) [uniform](/en/post/uniform/) [set](/en/post/set/) [of](/en/post/of/) rules, practices, [or](/en/post/or/) specifications. [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) aims [to](/en/post/to/) standardize [its](/en/post/its/) [product](/en/post/product/) [line](/en/post/line/) [to](/en/post/to/) [improve](/en/post/improve/) consistency."
-3. **[Standard](/en/post/standard/) [measure](/en/post/measure/)**: [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/) [that](/en/post/that/) is [widely](/en/post/widely/) recognized [and](/en/post/and/) [used](/en/post/used/). [Example](/en/post/example/): "[The](/en/post/the/) [international](/en/post/international/) [standard](/en/post/standard/) [for](/en/post/for/) [temperature](/en/post/temperature/) is Celsius (°C)."
-4. **[Standard](/en/post/standard/) [practice](/en/post/practice/)**: [Commonly](/en/post/commonly/) followed procedures [or](/en/post/or/) methods. [Example](/en/post/example/): "[Following](/en/post/following/) [standard](/en/post/standard/) [practice](/en/post/practice/), doctors [always](/en/post/always/) [check](/en/post/check/) [a](/en/post/a/) patient's [vital](/en/post/vital/) signs [before](/en/post/before/) [a](/en/post/a/) [procedure](/en/post/procedure/)."
+### [Noun](/post/noun/)
+1. **[Standard](/post/standard/)**: [A](/post/a/) [generally](/post/generally/) accepted [or](/post/or/) established [level](/post/level/), [quality](/post/quality/), [or](/post/or/) [model](/post/model/), [often](/post/often/) serving [as](/post/as/) [a](/post/a/) [point](/post/point/) [of](/post/of/) [reference](/post/reference/) [or](/post/or/) benchmark. [Example](/post/example/): "[The](/post/the/) [industry](/post/industry/) [standard](/post/standard/) [for](/post/for/) software [development](/post/development/) is [to](/post/to/) [use](/post/use/) Agile methodologies."
+2. **Standardization**: [The](/post/the/) [process](/post/process/) [of](/post/of/) establishing [a](/post/a/) [uniform](/post/uniform/) [set](/post/set/) [of](/post/of/) rules, practices, [or](/post/or/) specifications. [Example](/post/example/): "[The](/post/the/) [company](/post/company/) aims [to](/post/to/) standardize [its](/post/its/) [product](/post/product/) [line](/post/line/) [to](/post/to/) [improve](/post/improve/) consistency."
+3. **[Standard](/post/standard/) [measure](/post/measure/)**: [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/) [that](/post/that/) is [widely](/post/widely/) recognized [and](/post/and/) [used](/post/used/). [Example](/post/example/): "[The](/post/the/) [international](/post/international/) [standard](/post/standard/) [for](/post/for/) [temperature](/post/temperature/) is Celsius (°C)."
+4. **[Standard](/post/standard/) [practice](/post/practice/)**: [Commonly](/post/commonly/) followed procedures [or](/post/or/) methods. [Example](/post/example/): "[Following](/post/following/) [standard](/post/standard/) [practice](/post/practice/), doctors [always](/post/always/) [check](/post/check/) [a](/post/a/) patient's [vital](/post/vital/) signs [before](/post/before/) [a](/post/a/) [procedure](/post/procedure/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [set](/en/post/set/) [or](/en/post/or/) [establish](/en/post/establish/) [a](/en/post/a/) [standard](/en/post/standard/). [Example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) standardized [the](/en/post/the/) testing procedures [for](/en/post/for/) [school](/en/post/school/) curriculum."
-2. [To](/en/post/to/) conform [to](/en/post/to/) [a](/en/post/a/) [standard](/en/post/standard/). [Example](/en/post/example/): "[His](/en/post/his/) [work](/en/post/work/) meets [the](/en/post/the/) [high](/en/post/high/) standards [of](/en/post/of/) [the](/en/post/the/) [art](/en/post/art/) [gallery](/en/post/gallery/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [set](/post/set/) [or](/post/or/) [establish](/post/establish/) [a](/post/a/) [standard](/post/standard/). [Example](/post/example/): "[The](/post/the/) [government](/post/government/) standardized [the](/post/the/) testing procedures [for](/post/for/) [school](/post/school/) curriculum."
+2. [To](/post/to/) conform [to](/post/to/) [a](/post/a/) [standard](/post/standard/). [Example](/post/example/): "[His](/post/his/) [work](/post/work/) meets [the](/post/the/) [high](/post/high/) standards [of](/post/of/) [the](/post/the/) [art](/post/art/) [gallery](/post/gallery/)."
 
-### [Adjective](/en/post/adjective/)
-1. Conforming [to](/en/post/to/) [a](/en/post/a/) norm [or](/en/post/or/) accepted [level](/en/post/level/). [Example](/en/post/example/): "[The](/en/post/the/) hotel's rooms are [of](/en/post/of/) [high](/en/post/high/) [standard](/en/post/standard/)."
-2. Standardized [or](/en/post/or/) [uniform](/en/post/uniform/). [Example](/en/post/example/): "[A](/en/post/a/) standard-issue [tool](/en/post/tool/) kit [for](/en/post/for/) [maintenance](/en/post/maintenance/) workers."
+### [Adjective](/post/adjective/)
+1. Conforming [to](/post/to/) [a](/post/a/) norm [or](/post/or/) accepted [level](/post/level/). [Example](/post/example/): "[The](/post/the/) hotel's rooms are [of](/post/of/) [high](/post/high/) [standard](/post/standard/)."
+2. Standardized [or](/post/or/) [uniform](/post/uniform/). [Example](/post/example/): "[A](/post/a/) standard-issue [tool](/post/tool/) kit [for](/post/for/) [maintenance](/post/maintenance/) workers."
 
 ## Phrases
-- "[Meet](/en/post/meet/) [the](/en/post/the/) [standard](/en/post/standard/)" [means](/en/post/means/) [to](/en/post/to/) [achieve](/en/post/achieve/) [or](/en/post/or/) comply [with](/en/post/with/) [a](/en/post/a/) [set](/en/post/set/) [requirement](/en/post/requirement/).
-- "[Go](/en/post/go/) [above](/en/post/above/) [and](/en/post/and/) [beyond](/en/post/beyond/) [the](/en/post/the/) [standard](/en/post/standard/)" implies surpassing expectations.
-- "[To](/en/post/to/) adhere [to](/en/post/to/) standards" signifies compliance [with](/en/post/with/) rules [or](/en/post/or/) norms.
+- "[Meet](/post/meet/) [the](/post/the/) [standard](/post/standard/)" [means](/post/means/) [to](/post/to/) [achieve](/post/achieve/) [or](/post/or/) comply [with](/post/with/) [a](/post/a/) [set](/post/set/) [requirement](/post/requirement/).
+- "[Go](/post/go/) [above](/post/above/) [and](/post/and/) [beyond](/post/beyond/) [the](/post/the/) [standard](/post/standard/)" implies surpassing expectations.
+- "[To](/post/to/) adhere [to](/post/to/) standards" signifies compliance [with](/post/with/) rules [or](/post/or/) norms.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [product](/en/post/product/) [design](/en/post/design/) aimed [to](/en/post/to/) [set](/en/post/set/) [a](/en/post/a/) higher [standard](/en/post/standard/) [in](/en/post/in/) [user](/en/post/user/) [experience](/en/post/experience/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [team](/en/post/team/) worked [hard](/en/post/hard/) [to](/en/post/to/) [meet](/en/post/meet/) [the](/en/post/the/) ISO 9001 [quality](/en/post/quality/) standards."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [performance](/en/post/performance/) was [of](/en/post/of/) exceptional [standard](/en/post/standard/), earning [her](/en/post/her/) [a](/en/post/a/) [prize](/en/post/prize/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [product](/post/product/) [design](/post/design/) aimed [to](/post/to/) [set](/post/set/) [a](/post/a/) higher [standard](/post/standard/) [in](/post/in/) [user](/post/user/) [experience](/post/experience/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [team](/post/team/) worked [hard](/post/hard/) [to](/post/to/) [meet](/post/meet/) [the](/post/the/) ISO 9001 [quality](/post/quality/) standards."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [performance](/post/performance/) was [of](/post/of/) exceptional [standard](/post/standard/), earning [her](/post/her/) [a](/post/a/) [prize](/post/prize/)."
 
 ## Synonyms
 - Norm
@@ -41,7 +41,7 @@ keywords = ['ai words', 'standard']
 - Protocol
 - Normative
 - Expected
-- [Regular](/en/post/regular/)
-- [Routine](/en/post/routine/)
-- [Conventional](/en/post/conventional/)
+- [Regular](/post/regular/)
+- [Routine](/post/routine/)
+- [Conventional](/post/conventional/)
 - Approved

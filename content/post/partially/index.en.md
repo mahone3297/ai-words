@@ -7,36 +7,36 @@ description = '[ˈpɑː∫əli] ad.部分地'
 keywords = ['ai words', 'partially']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pərˈθli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [a](/en/post/a/) [limited](/en/post/limited/) [extent](/en/post/extent/); [not](/en/post/not/) [completely](/en/post/completely/) [or](/en/post/or/) fully. [It](/en/post/it/) modifies verbs, adjectives, [or](/en/post/or/) [other](/en/post/other/) adverbs, expressing [a](/en/post/a/) [degree](/en/post/degree/) [of](/en/post/of/) completeness.
+- **[Adverb](/post/adverb/)**: [To](/post/to/) [a](/post/a/) [limited](/post/limited/) [extent](/post/extent/); [not](/post/not/) [completely](/post/completely/) [or](/post/or/) fully. [It](/post/it/) modifies verbs, adjectives, [or](/post/or/) [other](/post/other/) adverbs, expressing [a](/post/a/) [degree](/post/degree/) [of](/post/of/) completeness.
 
 ## Phrases
-- "[Partially](/en/post/partially/) cooked" [means](/en/post/means/) [only](/en/post/only/) [partly](/en/post/partly/) done.
-- "[Partially](/en/post/partially/) agreed" indicates [that](/en/post/that/) [both](/en/post/both/) parties [have](/en/post/have/) agreed [on](/en/post/on/) [some](/en/post/some/) aspects [but](/en/post/but/) [not](/en/post/not/) [all](/en/post/all/).
-- "[Partially](/en/post/partially/) [cloudy](/en/post/cloudy/)" describes [weather](/en/post/weather/) [with](/en/post/with/) intermittent [cloud](/en/post/cloud/) [cover](/en/post/cover/).
+- "[Partially](/post/partially/) cooked" [means](/post/means/) [only](/post/only/) [partly](/post/partly/) done.
+- "[Partially](/post/partially/) agreed" indicates [that](/post/that/) [both](/post/both/) parties [have](/post/have/) agreed [on](/post/on/) [some](/post/some/) aspects [but](/post/but/) [not](/post/not/) [all](/post/all/).
+- "[Partially](/post/partially/) [cloudy](/post/cloudy/)" describes [weather](/post/weather/) [with](/post/with/) intermittent [cloud](/post/cloud/) [cover](/post/cover/).
 
-## [Example](/en/post/example/) Sentences
-- "I [can](/en/post/can/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [partially](/en/post/partially/) [by](/en/post/by/) [tomorrow](/en/post/tomorrow/)."
-- "[She](/en/post/she/) understood [the](/en/post/the/) [concept](/en/post/concept/) [partially](/en/post/partially/)."
-- "[The](/en/post/the/) [room](/en/post/room/) was [partially](/en/post/partially/) renovated, [with](/en/post/with/) [new](/en/post/new/) [paint](/en/post/paint/) [but](/en/post/but/) [the](/en/post/the/) [old](/en/post/old/) [furniture](/en/post/furniture/) [still](/en/post/still/) [in](/en/post/in/) [place](/en/post/place/)."
+## [Example](/post/example/) Sentences
+- "I [can](/post/can/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [partially](/post/partially/) [by](/post/by/) [tomorrow](/post/tomorrow/)."
+- "[She](/post/she/) understood [the](/post/the/) [concept](/post/concept/) [partially](/post/partially/)."
+- "[The](/post/the/) [room](/post/room/) was [partially](/post/partially/) renovated, [with](/post/with/) [new](/post/new/) [paint](/post/paint/) [but](/post/but/) [the](/post/the/) [old](/post/old/) [furniture](/post/furniture/) [still](/post/still/) [in](/post/in/) [place](/post/place/)."
 
 ## Synonyms
-- [Partially](/en/post/partially/)
-- [In](/en/post/in/) [part](/en/post/part/)
-- [Slightly](/en/post/slightly/)
+- [Partially](/post/partially/)
+- [In](/post/in/) [part](/post/part/)
+- [Slightly](/post/slightly/)
 - Moderately
 - incompletely
-- [partly](/en/post/partly/)
-- [partially](/en/post/partially/) [complete](/en/post/complete/)
-- [not](/en/post/not/) fully
+- [partly](/post/partly/)
+- [partially](/post/partially/) [complete](/post/complete/)
+- [not](/post/not/) fully
 
 ## Antonyms
-- [Completely](/en/post/completely/)
+- [Completely](/post/completely/)
 - Entirely
 - Fully
 - Thoroughly
-- [Absolutely](/en/post/absolutely/)
+- [Absolutely](/post/absolutely/)
 - Uninterruptedly

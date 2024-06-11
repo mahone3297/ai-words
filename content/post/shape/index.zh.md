@@ -11,21 +11,21 @@ keywords = ['ai words', 'shape']
 /ʃeɪp/
 
 ## 释义
-- **名词 (n)**: 形状，外观。指物体或概念的轮廓、样式或形式。例如: "[The](/post/the/) sculpture had an [interesting](/post/interesting/) [shape](/post/shape/)."
-- **动词 (v)**: 塑造，形成。指对事物进行塑造或影响其发展方向。例如: "[Her](/post/her/) experiences shaped [her](/post/her/) personality."
+- **名词 (n)**: 形状，外观。指物体或概念的轮廓、样式或形式。例如: "[The](/zh/post/the/) sculpture had an [interesting](/zh/post/interesting/) [shape](/zh/post/shape/)."
+- **动词 (v)**: 塑造，形成。指对事物进行塑造或影响其发展方向。例如: "[Her](/zh/post/her/) experiences shaped [her](/zh/post/her/) personality."
 
 ## 短语
-- "[be](/post/be/) [in](/post/in/) [shape](/post/shape/)" 意为身体健康，状态良好。
-- "[shape](/post/shape/) [up](/post/up/)" 指改善行为或提高表现。
-- "[out](/post/out/) [of](/post/of/) [shape](/post/shape/)" 指身体状况不佳或不适合某项活动。
+- "[be](/zh/post/be/) [in](/zh/post/in/) [shape](/zh/post/shape/)" 意为身体健康，状态良好。
+- "[shape](/zh/post/shape/) [up](/zh/post/up/)" 指改善行为或提高表现。
+- "[out](/zh/post/out/) [of](/zh/post/of/) [shape](/zh/post/shape/)" 指身体状况不佳或不适合某项活动。
 
 ## 例句
-- 名词: "[The](/post/the/) snowflake had [a](/post/a/) [unique](/post/unique/) [and](/post/and/) [delicate](/post/delicate/) [shape](/post/shape/)."
-- 动词: "[His](/post/his/) mentor helped [shape](/post/shape/) [his](/post/his/) [career](/post/career/) [path](/post/path/)."
+- 名词: "[The](/zh/post/the/) snowflake had [a](/zh/post/a/) [unique](/zh/post/unique/) [and](/zh/post/and/) [delicate](/zh/post/delicate/) [shape](/zh/post/shape/)."
+- 动词: "[His](/zh/post/his/) mentor helped [shape](/zh/post/shape/) [his](/zh/post/his/) [career](/zh/post/career/) [path](/zh/post/path/)."
 
 ## 同义词
-- [Form](/post/form/)
-- [Figure](/post/figure/)
+- [Form](/zh/post/form/)
+- [Figure](/zh/post/figure/)
 - Contour
 - Configuration
-- [Outline](/post/outline/)
+- [Outline](/zh/post/outline/)

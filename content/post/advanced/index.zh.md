@@ -11,21 +11,21 @@ keywords = ['ai words', 'advanced']
 /ədˈvænsɪd/
 
 ## 释义
-- **形容词**: 高级的；先进的；进步的。例如: "[The](/post/the/) [new](/post/new/) [technology](/post/technology/) is [very](/post/very/) [advanced](/post/advanced/)."
-- **副词**: 提前地；预先。例如: "[She](/post/she/) arrived [advanced](/post/advanced/) [to](/post/to/) [avoid](/post/avoid/) [the](/post/the/) [crowd](/post/crowd/)."
+- **形容词**: 高级的；先进的；进步的。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [technology](/zh/post/technology/) is [very](/zh/post/very/) [advanced](/zh/post/advanced/)."
+- **副词**: 提前地；预先。例如: "[She](/zh/post/she/) arrived [advanced](/zh/post/advanced/) [to](/zh/post/to/) [avoid](/zh/post/avoid/) [the](/zh/post/the/) [crowd](/zh/post/crowd/)."
 
 ## 短语
-- "[advanced](/post/advanced/) [technology](/post/technology/)" 高科技
-- "[advanced](/post/advanced/) studies" 深造学习
-- "[advanced](/post/advanced/) booking" 提前预订
+- "[advanced](/zh/post/advanced/) [technology](/zh/post/technology/)" 高科技
+- "[advanced](/zh/post/advanced/) studies" 深造学习
+- "[advanced](/zh/post/advanced/) booking" 提前预订
 
 ## 例句
-- 形容词: "[The](/post/the/) [course](/post/course/) [in](/post/in/) quantum [physics](/post/physics/) is [only](/post/only/) [suitable](/post/suitable/) [for](/post/for/) students [with](/post/with/) an [advanced](/post/advanced/) [understanding](/post/understanding/) [of](/post/of/) [mathematics](/post/mathematics/)."
-- 副词: "I [need](/post/need/) [to](/post/to/) [finish](/post/finish/) [my](/post/my/) [project](/post/project/) [advanced](/post/advanced/) [so](/post/so/) I [can](/post/can/) [have](/post/have/) [time](/post/time/) [to](/post/to/) [revise](/post/revise/) [it](/post/it/)."
+- 形容词: "[The](/zh/post/the/) [course](/zh/post/course/) [in](/zh/post/in/) quantum [physics](/zh/post/physics/) is [only](/zh/post/only/) [suitable](/zh/post/suitable/) [for](/zh/post/for/) students [with](/zh/post/with/) an [advanced](/zh/post/advanced/) [understanding](/zh/post/understanding/) [of](/zh/post/of/) [mathematics](/zh/post/mathematics/)."
+- 副词: "I [need](/zh/post/need/) [to](/zh/post/to/) [finish](/zh/post/finish/) [my](/zh/post/my/) [project](/zh/post/project/) [advanced](/zh/post/advanced/) [so](/zh/post/so/) I [can](/zh/post/can/) [have](/zh/post/have/) [time](/zh/post/time/) [to](/zh/post/to/) [revise](/zh/post/revise/) [it](/zh/post/it/)."
 
 ## 同义词
-- [sophisticated](/post/sophisticated/)
+- [sophisticated](/zh/post/sophisticated/)
 - developed
-- [progressive](/post/progressive/)
+- [progressive](/zh/post/progressive/)
 - innovative
 - cutting-edge

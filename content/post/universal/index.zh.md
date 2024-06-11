@@ -11,20 +11,20 @@ keywords = ['ai words', 'universal']
 /ˈjuːnɪvɜːrsl/
 
 ## 释义
-- **形容词**: 普遍的，全体的，宇宙的，适用于所有事物的。例如: "[The](/post/the/) [concept](/post/concept/) [of](/post/of/) [gravity](/post/gravity/) is [universal](/post/universal/)."
-- **名词**: 通用性，普遍性，宇宙万物。例如: "[He](/post/he/) believes [in](/post/in/) [the](/post/the/) [universal](/post/universal/) [law](/post/law/) [of](/post/of/) [cause](/post/cause/) [and](/post/and/) [effect](/post/effect/)."
+- **形容词**: 普遍的，全体的，宇宙的，适用于所有事物的。例如: "[The](/zh/post/the/) [concept](/zh/post/concept/) [of](/zh/post/of/) [gravity](/zh/post/gravity/) is [universal](/zh/post/universal/)."
+- **名词**: 通用性，普遍性，宇宙万物。例如: "[He](/zh/post/he/) believes [in](/zh/post/in/) [the](/zh/post/the/) [universal](/zh/post/universal/) [law](/zh/post/law/) [of](/zh/post/of/) [cause](/zh/post/cause/) [and](/zh/post/and/) [effect](/zh/post/effect/)."
 
 ## 短语
-- "[Universal](/post/universal/) [truth](/post/truth/)" 指的是适用于所有人或情况的真理。
-- "[Universal](/post/universal/) Studios" 是一个著名的电影制片公司和主题公园。
+- "[Universal](/zh/post/universal/) [truth](/zh/post/truth/)" 指的是适用于所有人或情况的真理。
+- "[Universal](/zh/post/universal/) Studios" 是一个著名的电影制片公司和主题公园。
 
 ## 例句
-- 形容词: "[Love](/post/love/) is [a](/post/a/) [universal](/post/universal/) [language](/post/language/) [that](/post/that/) transcends borders."
-- 名词: "[The](/post/the/) [movie](/post/movie/) was released worldwide [by](/post/by/) [Universal](/post/universal/) Pictures."
+- 形容词: "[Love](/zh/post/love/) is [a](/zh/post/a/) [universal](/zh/post/universal/) [language](/zh/post/language/) [that](/zh/post/that/) transcends borders."
+- 名词: "[The](/zh/post/the/) [movie](/zh/post/movie/) was released worldwide [by](/zh/post/by/) [Universal](/zh/post/universal/) Pictures."
 
 ## 同义词
 - Global
-- [Comprehensive](/post/comprehensive/)
+- [Comprehensive](/zh/post/comprehensive/)
 - All-encompassing
 - Panoptic
 - All-embracing

@@ -7,35 +7,35 @@ description = '[rɔŋ] a.错误的 ad.错，不对'
 keywords = ['ai words', 'wrong']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wrɒŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Adjective](/en/post/adjective/)**: [Opposite](/en/post/opposite/) [of](/en/post/of/) [right](/en/post/right/); [incorrect](/en/post/incorrect/) [or](/en/post/or/) inaccurate. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [answer](/en/post/answer/) was [completely](/en/post/completely/) [wrong](/en/post/wrong/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [the](/en/post/the/) [incorrect](/en/post/incorrect/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/); [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) incorrectly. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) made [a](/en/post/a/) [wrong](/en/post/wrong/) [turn](/en/post/turn/) [on](/en/post/on/) [the](/en/post/the/) [way](/en/post/way/) [to](/en/post/to/) [the](/en/post/the/) [airport](/en/post/airport/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) an [incorrect](/en/post/incorrect/) [manner](/en/post/manner/) [or](/en/post/or/) [way](/en/post/way/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke [too](/en/post/too/) loudly, [her](/en/post/her/) [tone](/en/post/tone/) was [wrong](/en/post/wrong/)."
+### [Noun](/post/noun/)
+- **[Adjective](/post/adjective/)**: [Opposite](/post/opposite/) [of](/post/of/) [right](/post/right/); [incorrect](/post/incorrect/) [or](/post/or/) inaccurate. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [answer](/post/answer/) was [completely](/post/completely/) [wrong](/post/wrong/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) [in](/post/in/) [the](/post/the/) [incorrect](/post/incorrect/) [state](/post/state/) [or](/post/or/) [condition](/post/condition/); [to](/post/to/) [do](/post/do/) [something](/post/something/) incorrectly. [For](/post/for/) [example](/post/example/): "[He](/post/he/) made [a](/post/a/) [wrong](/post/wrong/) [turn](/post/turn/) [on](/post/on/) [the](/post/the/) [way](/post/way/) [to](/post/to/) [the](/post/the/) [airport](/post/airport/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) an [incorrect](/post/incorrect/) [manner](/post/manner/) [or](/post/or/) [way](/post/way/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) spoke [too](/post/too/) loudly, [her](/post/her/) [tone](/post/tone/) was [wrong](/post/wrong/)."
 
 ## Phrases
-- "[Do](/en/post/do/) [something](/en/post/something/) [right](/en/post/right/)" implies doing [it](/en/post/it/) correctly.
-- "[Right](/en/post/right/) [or](/en/post/or/) [wrong](/en/post/wrong/)" is [used](/en/post/used/) [to](/en/post/to/) [evaluate](/en/post/evaluate/) [the](/en/post/the/) correctness [of](/en/post/of/) [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [action](/en/post/action/).
-- "[To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [the](/en/post/the/) [wrong](/en/post/wrong/)" signifies having committed [a](/en/post/a/) [mistake](/en/post/mistake/) [or](/en/post/or/) transgression.
+- "[Do](/post/do/) [something](/post/something/) [right](/post/right/)" implies doing [it](/post/it/) correctly.
+- "[Right](/post/right/) [or](/post/or/) [wrong](/post/wrong/)" is [used](/post/used/) [to](/post/to/) [evaluate](/post/evaluate/) [the](/post/the/) correctness [of](/post/of/) [a](/post/a/) [decision](/post/decision/) [or](/post/or/) [action](/post/action/).
+- "[To](/post/to/) [be](/post/be/) [in](/post/in/) [the](/post/the/) [wrong](/post/wrong/)" signifies having committed [a](/post/a/) [mistake](/post/mistake/) [or](/post/or/) transgression.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) math [problem](/en/post/problem/) had [several](/en/post/several/) [wrong](/en/post/wrong/) answers [provided](/en/post/provided/)."
-- **[Verb](/en/post/verb/)**: "I realized I had written [down](/en/post/down/) [the](/en/post/the/) [wrong](/en/post/wrong/) [date](/en/post/date/) [for](/en/post/for/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) [interpretation](/en/post/interpretation/) [of](/en/post/of/) [the](/en/post/the/) [situation](/en/post/situation/) was [just](/en/post/just/) [plain](/en/post/plain/) [wrong](/en/post/wrong/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) math [problem](/post/problem/) had [several](/post/several/) [wrong](/post/wrong/) answers [provided](/post/provided/)."
+- **[Verb](/post/verb/)**: "I realized I had written [down](/post/down/) [the](/post/the/) [wrong](/post/wrong/) [date](/post/date/) [for](/post/for/) [the](/post/the/) [meeting](/post/meeting/)."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) [interpretation](/post/interpretation/) [of](/post/of/) [the](/post/the/) [situation](/post/situation/) was [just](/post/just/) [plain](/post/plain/) [wrong](/post/wrong/)."
 
 ## Synonyms
-- [Incorrect](/en/post/incorrect/)
+- [Incorrect](/post/incorrect/)
 - Misguided
-- [Faulty](/en/post/faulty/)
+- [Faulty](/post/faulty/)
 - Erroneous
 - Invalid
 
 ## Antonyms
-- [Right](/en/post/right/)
-- [Correct](/en/post/correct/)
-- [Accurate](/en/post/accurate/)
-- [Proper](/en/post/proper/)
-- [Appropriate](/en/post/appropriate/)
+- [Right](/post/right/)
+- [Correct](/post/correct/)
+- [Accurate](/post/accurate/)
+- [Proper](/post/proper/)
+- [Appropriate](/post/appropriate/)

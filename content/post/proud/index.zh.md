@@ -11,19 +11,19 @@ keywords = ['ai words', 'proud']
 /praʊd/
 
 ## 释义
-- **形容词**: 自豪的，得意的，自尊心强的。例如: "[She](/post/she/) was [proud](/post/proud/) [of](/post/of/) [her](/post/her/) son's achievements."
-- **副词**: 自豪地，得意洋洋地。例如: "[He](/post/he/) played [his](/post/his/) guitar proudly [on](/post/on/) [stage](/post/stage/)."
+- **形容词**: 自豪的，得意的，自尊心强的。例如: "[She](/zh/post/she/) was [proud](/zh/post/proud/) [of](/zh/post/of/) [her](/zh/post/her/) son's achievements."
+- **副词**: 自豪地，得意洋洋地。例如: "[He](/zh/post/he/) played [his](/zh/post/his/) guitar proudly [on](/zh/post/on/) [stage](/zh/post/stage/)."
 
 ## 短语
-- "[be](/post/be/) [proud](/post/proud/) [of](/post/of/)" 意为对...感到自豪。例如: "I am [proud](/post/proud/) [of](/post/of/) [my](/post/my/) country's [rich](/post/rich/) [history](/post/history/)."
-- "[take](/post/take/) [pride](/post/pride/) [in](/post/in/)" 表示在...方面感到自豪。例如: "[They](/post/they/) [take](/post/take/) [pride](/post/pride/) [in](/post/in/) [their](/post/their/) workmanship."
+- "[be](/zh/post/be/) [proud](/zh/post/proud/) [of](/zh/post/of/)" 意为对...感到自豪。例如: "I am [proud](/zh/post/proud/) [of](/zh/post/of/) [my](/zh/post/my/) country's [rich](/zh/post/rich/) [history](/zh/post/history/)."
+- "[take](/zh/post/take/) [pride](/zh/post/pride/) [in](/zh/post/in/)" 表示在...方面感到自豪。例如: "[They](/zh/post/they/) [take](/zh/post/take/) [pride](/zh/post/pride/) [in](/zh/post/in/) [their](/zh/post/their/) workmanship."
 
 ## 例句
-- 形容词: "[He](/post/he/) was [too](/post/too/) [proud](/post/proud/) [to](/post/to/) [ask](/post/ask/) [for](/post/for/) [help](/post/help/)."
-- 副词: "[She](/post/she/) sang proudly, knowing [all](/post/all/) eyes were [on](/post/on/) [her](/post/her/)."
+- 形容词: "[He](/zh/post/he/) was [too](/zh/post/too/) [proud](/zh/post/proud/) [to](/zh/post/to/) [ask](/zh/post/ask/) [for](/zh/post/for/) [help](/zh/post/help/)."
+- 副词: "[She](/zh/post/she/) sang proudly, knowing [all](/zh/post/all/) eyes were [on](/zh/post/on/) [her](/zh/post/her/)."
 
 ## 同义词
-- [Proud](/post/proud/) 的同义词可能根据上下文不同而变化，但以下是一些常见的：
+- [Proud](/zh/post/proud/) 的同义词可能根据上下文不同而变化，但以下是一些常见的：
 - - Self-respecting
 - - Proudful
 - - Arrogant

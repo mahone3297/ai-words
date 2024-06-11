@@ -11,19 +11,19 @@ keywords = ['ai words', 'colleague']
 /ˈkɑː.liːɡ/
 
 ## 释义
-- **名词 (n)**: 同事，工作伙伴。指在相同工作场所共同工作的人。例如: "[My](/post/my/) [colleague](/post/colleague/) [from](/post/from/) [the](/post/the/) marketing [department](/post/department/) [will](/post/will/) [join](/post/join/) [us](/post/us/) [for](/post/for/) [the](/post/the/) [meeting](/post/meeting/)."
+- **名词 (n)**: 同事，工作伙伴。指在相同工作场所共同工作的人。例如: "[My](/zh/post/my/) [colleague](/zh/post/colleague/) [from](/zh/post/from/) [the](/zh/post/the/) marketing [department](/zh/post/department/) [will](/zh/post/will/) [join](/zh/post/join/) [us](/zh/post/us/) [for](/zh/post/for/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
 
 ## 短语
-- "[Work](/post/work/) [colleague](/post/colleague/)" 指的是工作中的同事。
-- "[Colleague](/post/colleague/) [relationship](/post/relationship/)" 描述的是同事间的关系。
+- "[Work](/zh/post/work/) [colleague](/zh/post/colleague/)" 指的是工作中的同事。
+- "[Colleague](/zh/post/colleague/) [relationship](/zh/post/relationship/)" 描述的是同事间的关系。
 
 ## 例句
-- "I [often](/post/often/) [have](/post/have/) [lunch](/post/lunch/) [with](/post/with/) [my](/post/my/) colleagues [during](/post/during/) [our](/post/our/) [break](/post/break/) [time](/post/time/)."
-- "[She](/post/she/) is [not](/post/not/) [only](/post/only/) [my](/post/my/) [colleague](/post/colleague/) [but](/post/but/) [also](/post/also/) [my](/post/my/) [good](/post/good/) [friend](/post/friend/)."
+- "I [often](/zh/post/often/) [have](/zh/post/have/) [lunch](/zh/post/lunch/) [with](/zh/post/with/) [my](/zh/post/my/) colleagues [during](/zh/post/during/) [our](/zh/post/our/) [break](/zh/post/break/) [time](/zh/post/time/)."
+- "[She](/zh/post/she/) is [not](/zh/post/not/) [only](/zh/post/only/) [my](/zh/post/my/) [colleague](/zh/post/colleague/) [but](/zh/post/but/) [also](/zh/post/also/) [my](/zh/post/my/) [good](/zh/post/good/) [friend](/zh/post/friend/)."
 
 ## 同义词
 - Co-worker
-- [Fellow](/post/fellow/) [worker](/post/worker/)
-- [Companion](/post/companion/)
-- [Associate](/post/associate/)
+- [Fellow](/zh/post/fellow/) [worker](/zh/post/worker/)
+- [Companion](/zh/post/companion/)
+- [Associate](/zh/post/associate/)
 - Teammate

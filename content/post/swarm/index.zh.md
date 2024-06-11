@@ -11,20 +11,20 @@ keywords = ['ai words', 'swarm']
 /swɔrm/
 
 ## 释义
-- **名词**: 一大群密集移动的昆虫，如蜜蜂或蚂蚁。例如: "[A](/post/a/) [swarm](/post/swarm/) [of](/post/of/) bees flew [over](/post/over/) [the](/post/the/) [garden](/post/garden/)."
-- **动词**: 大量聚集或蜂拥而至。例如: "[The](/post/the/) fans swarmed [around](/post/around/) [the](/post/the/) [stadium](/post/stadium/) [entrance](/post/entrance/)."
+- **名词**: 一大群密集移动的昆虫，如蜜蜂或蚂蚁。例如: "[A](/zh/post/a/) [swarm](/zh/post/swarm/) [of](/zh/post/of/) bees flew [over](/zh/post/over/) [the](/zh/post/the/) [garden](/zh/post/garden/)."
+- **动词**: 大量聚集或蜂拥而至。例如: "[The](/zh/post/the/) fans swarmed [around](/zh/post/around/) [the](/zh/post/the/) [stadium](/zh/post/stadium/) [entrance](/zh/post/entrance/)."
 
 ## 短语
-- "[a](/post/a/) [swarm](/post/swarm/) [of](/post/of/) insects" 指大量昆虫群体。
-- "[to](/post/to/) [swarm](/post/swarm/) [with](/post/with/)" 表示某地充满了某物。例如: "[The](/post/the/) trees were swarming [with](/post/with/) butterflies."
+- "[a](/zh/post/a/) [swarm](/zh/post/swarm/) [of](/zh/post/of/) insects" 指大量昆虫群体。
+- "[to](/zh/post/to/) [swarm](/zh/post/swarm/) [with](/zh/post/with/)" 表示某地充满了某物。例如: "[The](/zh/post/the/) trees were swarming [with](/zh/post/with/) butterflies."
 
 ## 例句
-- 名词: "[The](/post/the/) [farmer](/post/farmer/) noticed [a](/post/a/) [swarm](/post/swarm/) [of](/post/of/) bees settling [on](/post/on/) [a](/post/a/) [nearby](/post/nearby/) [tree](/post/tree/)."
-- 动词: "[People](/post/people/) swarmed [the](/post/the/) mall [on](/post/on/) [Black](/post/black/) Friday [for](/post/for/) [holiday](/post/holiday/) [shopping](/post/shopping/)."
+- 名词: "[The](/zh/post/the/) [farmer](/zh/post/farmer/) noticed [a](/zh/post/a/) [swarm](/zh/post/swarm/) [of](/zh/post/of/) bees settling [on](/zh/post/on/) [a](/zh/post/a/) [nearby](/zh/post/nearby/) [tree](/zh/post/tree/)."
+- 动词: "[People](/zh/post/people/) swarmed [the](/zh/post/the/) mall [on](/zh/post/on/) [Black](/zh/post/black/) Friday [for](/zh/post/for/) [holiday](/zh/post/holiday/) [shopping](/zh/post/shopping/)."
 
 ## 同义词
-- [crowd](/post/crowd/)
+- [crowd](/zh/post/crowd/)
 - horde
 - multitude
-- [throng](/post/throng/)
-- [flood](/post/flood/)
+- [throng](/zh/post/throng/)
+- [flood](/zh/post/flood/)

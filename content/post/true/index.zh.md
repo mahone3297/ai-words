@@ -11,20 +11,20 @@ keywords = ['ai words', 'true']
 /truː/
 
 ## 释义
-- **形容词**: 真实的，符合事实的。例如: "That's [the](/post/the/) [true](/post/true/) [story](/post/story/) [of](/post/of/) [what](/post/what/) happened."
-- **副词**: 确实地，确实。例如: "[She](/post/she/) [truly](/post/truly/) loves [painting](/post/painting/)."
+- **形容词**: 真实的，符合事实的。例如: "That's [the](/zh/post/the/) [true](/zh/post/true/) [story](/zh/post/story/) [of](/zh/post/of/) [what](/zh/post/what/) happened."
+- **副词**: 确实地，确实。例如: "[She](/zh/post/she/) [truly](/zh/post/truly/) loves [painting](/zh/post/painting/)."
 
 ## 短语
-- "[True](/post/true/) [to](/post/to/) one's [word](/post/word/)" 意为遵守诺言。
-- "[True](/post/true/) [blue](/post/blue/)" 形容忠诚不变的人或事物。
+- "[True](/zh/post/true/) [to](/zh/post/to/) one's [word](/zh/post/word/)" 意为遵守诺言。
+- "[True](/zh/post/true/) [blue](/zh/post/blue/)" 形容忠诚不变的人或事物。
 
 ## 例句
-- 形容词: "[The](/post/the/) [witness](/post/witness/) gave [a](/post/a/) [true](/post/true/) [account](/post/account/) [of](/post/of/) [the](/post/the/) [accident](/post/accident/)."
-- 副词: "[He](/post/he/) plays [the](/post/the/) guitar [truly](/post/truly/) beautifully."
+- 形容词: "[The](/zh/post/the/) [witness](/zh/post/witness/) gave [a](/zh/post/a/) [true](/zh/post/true/) [account](/zh/post/account/) [of](/zh/post/of/) [the](/zh/post/the/) [accident](/zh/post/accident/)."
+- 副词: "[He](/zh/post/he/) plays [the](/zh/post/the/) guitar [truly](/zh/post/truly/) beautifully."
 
 ## 同义词
-- [Genuine](/post/genuine/)
+- [Genuine](/zh/post/genuine/)
 - Authentic
-- [Real](/post/real/)
-- [Actual](/post/actual/)
-- [Correct](/post/correct/)
+- [Real](/zh/post/real/)
+- [Actual](/zh/post/actual/)
+- [Correct](/zh/post/correct/)

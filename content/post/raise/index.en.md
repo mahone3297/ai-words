@@ -7,41 +7,41 @@ description = '[reiz] vt.举起；引起；提高'
 keywords = ['ai words', 'raise']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈreɪz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) lifting [something](/en/post/something/) [up](/en/post/up/) [to](/en/post/to/) [a](/en/post/a/) higher [position](/en/post/position/) [or](/en/post/or/) [level](/en/post/level/). "[The](/en/post/the/) [farmer](/en/post/farmer/) was raising [the](/en/post/the/) [cow](/en/post/cow/) [by](/en/post/by/) [its](/en/post/its/) hind legs."
-2. An [increase](/en/post/increase/) [in](/en/post/in/) [value](/en/post/value/), [level](/en/post/level/), [or](/en/post/or/) [quantity](/en/post/quantity/). "[The](/en/post/the/) [stock](/en/post/stock/) [price](/en/post/price/) [rose](/en/post/rose/) [after](/en/post/after/) [the](/en/post/the/) company's announcement."
-3. [Money](/en/post/money/) given [as](/en/post/as/) [payment](/en/post/payment/) [or](/en/post/or/) [reward](/en/post/reward/). "[He](/en/post/he/) donated [a](/en/post/a/) [large](/en/post/large/) [sum](/en/post/sum/) [to](/en/post/to/) [the](/en/post/the/) [charity](/en/post/charity/) [to](/en/post/to/) [raise](/en/post/raise/) funds."
-4. [A](/en/post/a/) [public](/en/post/public/) gathering [or](/en/post/or/) [event](/en/post/event/) [to](/en/post/to/) [collect](/en/post/collect/) [money](/en/post/money/) [for](/en/post/for/) [a](/en/post/a/) [cause](/en/post/cause/). "[They](/en/post/they/) organized [a](/en/post/a/) [charity](/en/post/charity/) [run](/en/post/run/) [to](/en/post/to/) [raise](/en/post/raise/) awareness."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) lifting [something](/post/something/) [up](/post/up/) [to](/post/to/) [a](/post/a/) higher [position](/post/position/) [or](/post/or/) [level](/post/level/). "[The](/post/the/) [farmer](/post/farmer/) was raising [the](/post/the/) [cow](/post/cow/) [by](/post/by/) [its](/post/its/) hind legs."
+2. An [increase](/post/increase/) [in](/post/in/) [value](/post/value/), [level](/post/level/), [or](/post/or/) [quantity](/post/quantity/). "[The](/post/the/) [stock](/post/stock/) [price](/post/price/) [rose](/post/rose/) [after](/post/after/) [the](/post/the/) company's announcement."
+3. [Money](/post/money/) given [as](/post/as/) [payment](/post/payment/) [or](/post/or/) [reward](/post/reward/). "[He](/post/he/) donated [a](/post/a/) [large](/post/large/) [sum](/post/sum/) [to](/post/to/) [the](/post/the/) [charity](/post/charity/) [to](/post/to/) [raise](/post/raise/) funds."
+4. [A](/post/a/) [public](/post/public/) gathering [or](/post/or/) [event](/post/event/) [to](/post/to/) [collect](/post/collect/) [money](/post/money/) [for](/post/for/) [a](/post/a/) [cause](/post/cause/). "[They](/post/they/) organized [a](/post/a/) [charity](/post/charity/) [run](/post/run/) [to](/post/to/) [raise](/post/raise/) awareness."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [lift](/en/post/lift/) [or](/en/post/or/) elevate [something](/en/post/something/) [upward](/en/post/upward/). "[She](/en/post/she/) raised [the](/en/post/the/) [cup](/en/post/cup/) [to](/en/post/to/) [her](/en/post/her/) lips."
-2. [To](/en/post/to/) elevate [or](/en/post/or/) [promote](/en/post/promote/) [someone](/en/post/someone/) [to](/en/post/to/) [a](/en/post/a/) higher [position](/en/post/position/) [or](/en/post/or/) [rank](/en/post/rank/). "[He](/en/post/he/) was raised [to](/en/post/to/) [the](/en/post/the/) [rank](/en/post/rank/) [of](/en/post/of/) [captain](/en/post/captain/)."
-3. [To](/en/post/to/) initiate [or](/en/post/or/) [start](/en/post/start/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) collecting [money](/en/post/money/). "[They](/en/post/they/) raised funds [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [school](/en/post/school/) [project](/en/post/project/)."
-4. [To](/en/post/to/) [increase](/en/post/increase/) [the](/en/post/the/) [pitch](/en/post/pitch/) [or](/en/post/or/) [volume](/en/post/volume/) [of](/en/post/of/) one's [voice](/en/post/voice/). "[Please](/en/post/please/) [raise](/en/post/raise/) [your](/en/post/your/) [voice](/en/post/voice/) [so](/en/post/so/) [everyone](/en/post/everyone/) [can](/en/post/can/) [hear](/en/post/hear/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [lift](/post/lift/) [or](/post/or/) elevate [something](/post/something/) [upward](/post/upward/). "[She](/post/she/) raised [the](/post/the/) [cup](/post/cup/) [to](/post/to/) [her](/post/her/) lips."
+2. [To](/post/to/) elevate [or](/post/or/) [promote](/post/promote/) [someone](/post/someone/) [to](/post/to/) [a](/post/a/) higher [position](/post/position/) [or](/post/or/) [rank](/post/rank/). "[He](/post/he/) was raised [to](/post/to/) [the](/post/the/) [rank](/post/rank/) [of](/post/of/) [captain](/post/captain/)."
+3. [To](/post/to/) initiate [or](/post/or/) [start](/post/start/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) collecting [money](/post/money/). "[They](/post/they/) raised funds [for](/post/for/) [the](/post/the/) [new](/post/new/) [school](/post/school/) [project](/post/project/)."
+4. [To](/post/to/) [increase](/post/increase/) [the](/post/the/) [pitch](/post/pitch/) [or](/post/or/) [volume](/post/volume/) [of](/post/of/) one's [voice](/post/voice/). "[Please](/post/please/) [raise](/post/raise/) [your](/post/your/) [voice](/post/voice/) [so](/post/so/) [everyone](/post/everyone/) [can](/post/can/) [hear](/post/hear/)."
 
-### [Adjective](/en/post/adjective/)
-1. Designating [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [status](/en/post/status/) higher [than](/en/post/than/) [another](/en/post/another/). "[The](/en/post/the/) raised [garden](/en/post/garden/) [bed](/en/post/bed/) provides [better](/en/post/better/) drainage."
-2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [being](/en/post/being/) elevated [or](/en/post/or/) [above](/en/post/above/) [average](/en/post/average/). "[Her](/en/post/her/) raised eyebrows indicated skepticism."
+### [Adjective](/post/adjective/)
+1. Designating [a](/post/a/) [position](/post/position/) [or](/post/or/) [status](/post/status/) higher [than](/post/than/) [another](/post/another/). "[The](/post/the/) raised [garden](/post/garden/) [bed](/post/bed/) provides [better](/post/better/) drainage."
+2. [Characteristic](/post/characteristic/) [of](/post/of/) [being](/post/being/) elevated [or](/post/or/) [above](/post/above/) [average](/post/average/). "[Her](/post/her/) raised eyebrows indicated skepticism."
 
 ## Phrases
-- "[Raise](/en/post/raise/) awareness" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [people](/en/post/people/) [more](/en/post/more/) [conscious](/en/post/conscious/) [or](/en/post/or/) informed [about](/en/post/about/) [a](/en/post/a/) [particular](/en/post/particular/) [issue](/en/post/issue/).
-- "Raised eyebrows" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [for](/en/post/for/) showing skepticism [or](/en/post/or/) disbelief.
-- "Raising [the](/en/post/the/) [bar](/en/post/bar/)" implies [setting](/en/post/setting/) [a](/en/post/a/) higher [standard](/en/post/standard/) [or](/en/post/or/) [expectation](/en/post/expectation/).
+- "[Raise](/post/raise/) awareness" [means](/post/means/) [to](/post/to/) [make](/post/make/) [people](/post/people/) [more](/post/more/) [conscious](/post/conscious/) [or](/post/or/) informed [about](/post/about/) [a](/post/a/) [particular](/post/particular/) [issue](/post/issue/).
+- "Raised eyebrows" is [a](/post/a/) colloquial [expression](/post/expression/) [for](/post/for/) showing skepticism [or](/post/or/) disbelief.
+- "Raising [the](/post/the/) [bar](/post/bar/)" implies [setting](/post/setting/) [a](/post/a/) higher [standard](/post/standard/) [or](/post/or/) [expectation](/post/expectation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [construction](/en/post/construction/) workers were raising [the](/en/post/the/) [heavy](/en/post/heavy/) [beam](/en/post/beam/) [onto](/en/post/onto/) [the](/en/post/the/) scaffolding."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) raised [her](/en/post/her/) [voice](/en/post/voice/) [to](/en/post/to/) [be](/en/post/be/) heard [over](/en/post/over/) [the](/en/post/the/) [crowd](/en/post/crowd/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) raised [platform](/en/post/platform/) made [it](/en/post/it/) [easy](/en/post/easy/) [for](/en/post/for/) [the](/en/post/the/) [speaker](/en/post/speaker/) [to](/en/post/to/) [be](/en/post/be/) seen."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [construction](/post/construction/) workers were raising [the](/post/the/) [heavy](/post/heavy/) [beam](/post/beam/) [onto](/post/onto/) [the](/post/the/) scaffolding."
+- **[Verb](/post/verb/)**: "[She](/post/she/) raised [her](/post/her/) [voice](/post/voice/) [to](/post/to/) [be](/post/be/) heard [over](/post/over/) [the](/post/the/) [crowd](/post/crowd/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) raised [platform](/post/platform/) made [it](/post/it/) [easy](/post/easy/) [for](/post/for/) [the](/post/the/) [speaker](/post/speaker/) [to](/post/to/) [be](/post/be/) seen."
 
 ## Synonyms
 - Elevate
-- [Lift](/en/post/lift/)
+- [Lift](/post/lift/)
 - Enhance
 - Boost
-- [Support](/en/post/support/)
+- [Support](/post/support/)
 - Fundraise
-- [Promote](/en/post/promote/)
+- [Promote](/post/promote/)

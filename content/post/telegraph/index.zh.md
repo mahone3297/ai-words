@@ -15,20 +15,20 @@ keywords = ['ai words', 'telegraph']
 - **动词**: 发电报；用肢体语言或表情传递信息
 
 ## 短语
-- "[Telegraph](/post/telegraph/) [message](/post/message/)" 电报信息
-- "Undersea [telegraph](/post/telegraph/) [cable](/post/cable/)" 海底电缆
-- "[Telegraph](/post/telegraph/) one's intentions" 显露出自己的意图
+- "[Telegraph](/zh/post/telegraph/) [message](/zh/post/message/)" 电报信息
+- "Undersea [telegraph](/zh/post/telegraph/) [cable](/zh/post/cable/)" 海底电缆
+- "[Telegraph](/zh/post/telegraph/) one's intentions" 显露出自己的意图
 
 ## 例句
-- 名词: "[The](/post/the/) [invention](/post/invention/) [of](/post/of/) [the](/post/the/) [telegraph](/post/telegraph/) revolutionized long-distance [communication](/post/communication/)."
-- 动词: "[She](/post/she/) telegraphed [her](/post/her/) excitement [with](/post/with/) wide-eyed gestures."
-- 感叹词: (不常见作为感叹词使用，但可以表示强调) "[Hello](/post/hello/)! [The](/post/the/) [telegraph](/post/telegraph/) was [a](/post/a/) groundbreaking innovation [in](/post/in/) [its](/post/its/) [time](/post/time/)."
+- 名词: "[The](/zh/post/the/) [invention](/zh/post/invention/) [of](/zh/post/of/) [the](/zh/post/the/) [telegraph](/zh/post/telegraph/) revolutionized long-distance [communication](/zh/post/communication/)."
+- 动词: "[She](/zh/post/she/) telegraphed [her](/zh/post/her/) excitement [with](/zh/post/with/) wide-eyed gestures."
+- 感叹词: (不常见作为感叹词使用，但可以表示强调) "[Hello](/zh/post/hello/)! [The](/zh/post/the/) [telegraph](/zh/post/telegraph/) was [a](/zh/post/a/) groundbreaking innovation [in](/zh/post/in/) [its](/zh/post/its/) [time](/zh/post/time/)."
 
 ## 同义词
 - **名词**:
-  - [Communication](/post/communication/) [device](/post/device/)
-  - Messaging [system](/post/system/)
+  - [Communication](/zh/post/communication/) [device](/zh/post/device/)
+  - Messaging [system](/zh/post/system/)
 - **动词**:
-  - [Signal](/post/signal/)
-  - [Convey](/post/convey/)
-  - [Indicate](/post/indicate/)
+  - [Signal](/zh/post/signal/)
+  - [Convey](/zh/post/convey/)
+  - [Indicate](/zh/post/indicate/)

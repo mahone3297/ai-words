@@ -12,21 +12,21 @@ keywords = ['ai words', 'sophisticated']
 
 ## 释义
 - **形容词**: 
-    - 具有高度发展或复杂性的；精细的：例如 "[The](/post/the/) [city](/post/city/) has [a](/post/a/) [sophisticated](/post/sophisticated/) infrastructure."
-    - 精通世故的；老练的：例如 "[She](/post/she/) has [a](/post/a/) [sophisticated](/post/sophisticated/) [understanding](/post/understanding/) [of](/post/of/) [politics](/post/politics/)."
-    - 高雅的；时尚的：例如 "[The](/post/the/) [restaurant](/post/restaurant/) has [a](/post/a/) [sophisticated](/post/sophisticated/) ambiance."
+    - 具有高度发展或复杂性的；精细的：例如 "[The](/zh/post/the/) [city](/zh/post/city/) has [a](/zh/post/a/) [sophisticated](/zh/post/sophisticated/) infrastructure."
+    - 精通世故的；老练的：例如 "[She](/zh/post/she/) has [a](/zh/post/a/) [sophisticated](/zh/post/sophisticated/) [understanding](/zh/post/understanding/) [of](/zh/post/of/) [politics](/zh/post/politics/)."
+    - 高雅的；时尚的：例如 "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) has [a](/zh/post/a/) [sophisticated](/zh/post/sophisticated/) ambiance."
 
 ## 短语
-- "[Sophisticated](/post/sophisticated/) [technology](/post/technology/)" 意为先进的技术。
-- "[Sophisticated](/post/sophisticated/) [style](/post/style/)" 指优雅或时尚的风格。
+- "[Sophisticated](/zh/post/sophisticated/) [technology](/zh/post/technology/)" 意为先进的技术。
+- "[Sophisticated](/zh/post/sophisticated/) [style](/zh/post/style/)" 指优雅或时尚的风格。
 
 ## 例句
-- 形容词: "[The](/post/the/) company's [new](/post/new/) [product](/post/product/) is designed [for](/post/for/) [a](/post/a/) [sophisticated](/post/sophisticated/) [market](/post/market/)."
-- "[Her](/post/her/) [sophisticated](/post/sophisticated/) [taste](/post/taste/) [in](/post/in/) [fashion](/post/fashion/) sets [her](/post/her/) [apart](/post/apart/) [from](/post/from/) others."
+- 形容词: "[The](/zh/post/the/) company's [new](/zh/post/new/) [product](/zh/post/product/) is designed [for](/zh/post/for/) [a](/zh/post/a/) [sophisticated](/zh/post/sophisticated/) [market](/zh/post/market/)."
+- "[Her](/zh/post/her/) [sophisticated](/zh/post/sophisticated/) [taste](/zh/post/taste/) [in](/zh/post/in/) [fashion](/zh/post/fashion/) sets [her](/zh/post/her/) [apart](/zh/post/apart/) [from](/zh/post/from/) others."
 
 ## 同义词
-- [Advanced](/post/advanced/)
-- [Complex](/post/complex/)
+- [Advanced](/zh/post/advanced/)
+- [Complex](/zh/post/complex/)
 - Polished
 - Cultured
 - Refined

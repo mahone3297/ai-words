@@ -7,43 +7,43 @@ description = '[θred] n.线；丝；螺纹；头绪'
 keywords = ['ai words', 'thread']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /θred/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [thin](/en/post/thin/), [strong](/en/post/strong/), [flexible](/en/post/flexible/) strand [of](/en/post/of/) yarn, [thread](/en/post/thread/), [or](/en/post/or/) [other](/en/post/other/) [material](/en/post/material/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) sewing, weaving, [or](/en/post/or/) making textiles.
-   - [Example](/en/post/example/): "[The](/en/post/the/) seamstress carefully wove [a](/en/post/a/) [delicate](/en/post/delicate/) [pattern](/en/post/pattern/) [with](/en/post/with/) [silk](/en/post/silk/) [thread](/en/post/thread/)."
-2. [A](/en/post/a/) [continuous](/en/post/continuous/) [sequence](/en/post/sequence/) [of](/en/post/of/) thoughts, events, [or](/en/post/or/) actions connected [by](/en/post/by/) [a](/en/post/a/) [common](/en/post/common/) [idea](/en/post/idea/) [or](/en/post/or/) [purpose](/en/post/purpose/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [story](/en/post/story/) followed [the](/en/post/the/) [main](/en/post/main/) character's [thread](/en/post/thread/) [through](/en/post/through/) [various](/en/post/various/) adventures."
-3. (Computing) [A](/en/post/a/) [sequence](/en/post/sequence/) [of](/en/post/of/) instructions [that](/en/post/that/) controls [the](/en/post/the/) [flow](/en/post/flow/) [of](/en/post/of/) [a](/en/post/a/) [program](/en/post/program/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is passed [between](/en/post/between/) functions.
-   - [Example](/en/post/example/): "[In](/en/post/in/) [the](/en/post/the/) software, [the](/en/post/the/) [user](/en/post/user/) interface is designed [to](/en/post/to/) [follow](/en/post/follow/) [a](/en/post/a/) [logical](/en/post/logical/) [thread](/en/post/thread/) [of](/en/post/of/) options."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [thin](/post/thin/), [strong](/post/strong/), [flexible](/post/flexible/) strand [of](/post/of/) yarn, [thread](/post/thread/), [or](/post/or/) [other](/post/other/) [material](/post/material/), [often](/post/often/) [used](/post/used/) [for](/post/for/) sewing, weaving, [or](/post/or/) making textiles.
+   - [Example](/post/example/): "[The](/post/the/) seamstress carefully wove [a](/post/a/) [delicate](/post/delicate/) [pattern](/post/pattern/) [with](/post/with/) [silk](/post/silk/) [thread](/post/thread/)."
+2. [A](/post/a/) [continuous](/post/continuous/) [sequence](/post/sequence/) [of](/post/of/) thoughts, events, [or](/post/or/) actions connected [by](/post/by/) [a](/post/a/) [common](/post/common/) [idea](/post/idea/) [or](/post/or/) [purpose](/post/purpose/).
+   - [Example](/post/example/): "[The](/post/the/) [story](/post/story/) followed [the](/post/the/) [main](/post/main/) character's [thread](/post/thread/) [through](/post/through/) [various](/post/various/) adventures."
+3. (Computing) [A](/post/a/) [sequence](/post/sequence/) [of](/post/of/) instructions [that](/post/that/) controls [the](/post/the/) [flow](/post/flow/) [of](/post/of/) [a](/post/a/) [program](/post/program/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is passed [between](/post/between/) functions.
+   - [Example](/post/example/): "[In](/post/in/) [the](/post/the/) software, [the](/post/the/) [user](/post/user/) interface is designed [to](/post/to/) [follow](/post/follow/) [a](/post/a/) [logical](/post/logical/) [thread](/post/thread/) [of](/post/of/) options."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [run](/en/post/run/) [or](/en/post/or/) [pass](/en/post/pass/) [a](/en/post/a/) [thread](/en/post/thread/) [through](/en/post/through/) [a](/en/post/a/) [needle](/en/post/needle/) [or](/en/post/or/) [other](/en/post/other/) [opening](/en/post/opening/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) threaded [the](/en/post/the/) [needle](/en/post/needle/) [with](/en/post/with/) [a](/en/post/a/) [single](/en/post/single/) strand [of](/en/post/of/) [cotton](/en/post/cotton/)."
-2. [To](/en/post/to/) [connect](/en/post/connect/) [or](/en/post/or/) [relate](/en/post/relate/) ideas [or](/en/post/or/) events, forming [a](/en/post/a/) coherent narrative [or](/en/post/or/) [argument](/en/post/argument/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [professor](/en/post/professor/) tied [together](/en/post/together/) [historical](/en/post/historical/) events [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [logical](/en/post/logical/) [thread](/en/post/thread/)."
-3. (Computing) [To](/en/post/to/) [pass](/en/post/pass/) [control](/en/post/control/) [from](/en/post/from/) [one](/en/post/one/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [program](/en/post/program/) [to](/en/post/to/) [another](/en/post/another/), typically [within](/en/post/within/) [a](/en/post/a/) [function](/en/post/function/) [call](/en/post/call/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [code](/en/post/code/) threads [through](/en/post/through/) [multiple](/en/post/multiple/) loops [to](/en/post/to/) [process](/en/post/process/) [data](/en/post/data/) efficiently."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [run](/post/run/) [or](/post/or/) [pass](/post/pass/) [a](/post/a/) [thread](/post/thread/) [through](/post/through/) [a](/post/a/) [needle](/post/needle/) [or](/post/or/) [other](/post/other/) [opening](/post/opening/).
+   - [Example](/post/example/): "[She](/post/she/) threaded [the](/post/the/) [needle](/post/needle/) [with](/post/with/) [a](/post/a/) [single](/post/single/) strand [of](/post/of/) [cotton](/post/cotton/)."
+2. [To](/post/to/) [connect](/post/connect/) [or](/post/or/) [relate](/post/relate/) ideas [or](/post/or/) events, forming [a](/post/a/) coherent narrative [or](/post/or/) [argument](/post/argument/).
+   - [Example](/post/example/): "[The](/post/the/) [professor](/post/professor/) tied [together](/post/together/) [historical](/post/historical/) events [to](/post/to/) [form](/post/form/) [a](/post/a/) [logical](/post/logical/) [thread](/post/thread/)."
+3. (Computing) [To](/post/to/) [pass](/post/pass/) [control](/post/control/) [from](/post/from/) [one](/post/one/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [program](/post/program/) [to](/post/to/) [another](/post/another/), typically [within](/post/within/) [a](/post/a/) [function](/post/function/) [call](/post/call/).
+   - [Example](/post/example/): "[The](/post/the/) [code](/post/code/) threads [through](/post/through/) [multiple](/post/multiple/) loops [to](/post/to/) [process](/post/process/) [data](/post/data/) efficiently."
 
-### [Adjective](/en/post/adjective/)
-Referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) interconnected [or](/en/post/or/) related.
-   - [Example](/en/post/example/): "[The](/en/post/the/) project's threads were intricately woven [together](/en/post/together/)."
+### [Adjective](/post/adjective/)
+Referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) interconnected [or](/post/or/) related.
+   - [Example](/post/example/): "[The](/post/the/) project's threads were intricately woven [together](/post/together/)."
 
 ## Phrases
-- "[Follow](/en/post/follow/) [the](/en/post/the/) [thread](/en/post/thread/)" [means](/en/post/means/) [to](/en/post/to/) [trace](/en/post/trace/) [the](/en/post/the/) [sequence](/en/post/sequence/) [or](/en/post/or/) progression [of](/en/post/of/) [something](/en/post/something/).
-- "[Pick](/en/post/pick/) [up](/en/post/up/) [a](/en/post/a/) [thread](/en/post/thread/)" implies restarting [a](/en/post/a/) [conversation](/en/post/conversation/) [or](/en/post/or/) [topic](/en/post/topic/) [after](/en/post/after/) [a](/en/post/a/) [pause](/en/post/pause/).
-- "Threadbare" describes [something](/en/post/something/) worn [out](/en/post/out/) [or](/en/post/or/) overused, [often](/en/post/often/) metaphorically.
+- "[Follow](/post/follow/) [the](/post/the/) [thread](/post/thread/)" [means](/post/means/) [to](/post/to/) [trace](/post/trace/) [the](/post/the/) [sequence](/post/sequence/) [or](/post/or/) progression [of](/post/of/) [something](/post/something/).
+- "[Pick](/post/pick/) [up](/post/up/) [a](/post/a/) [thread](/post/thread/)" implies restarting [a](/post/a/) [conversation](/post/conversation/) [or](/post/or/) [topic](/post/topic/) [after](/post/after/) [a](/post/a/) [pause](/post/pause/).
+- "Threadbare" describes [something](/post/something/) worn [out](/post/out/) [or](/post/or/) overused, [often](/post/often/) metaphorically.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) carefully chose [the](/en/post/the/) matching [thread](/en/post/thread/) [for](/en/post/for/) [her](/en/post/her/) [quilt](/en/post/quilt/)."
-- **[Verb](/en/post/verb/)**: "Let's [pick](/en/post/pick/) [up](/en/post/up/) [the](/en/post/the/) [conversation](/en/post/conversation/) [where](/en/post/where/) [we](/en/post/we/) [left](/en/post/left/) [off](/en/post/off/); [it](/en/post/it/) seems [our](/en/post/our/) thoughts [have](/en/post/have/) [become](/en/post/become/) entwined."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [debate](/en/post/debate/) was threadbare, [with](/en/post/with/) [nothing](/en/post/nothing/) [new](/en/post/new/) [being](/en/post/being/) added."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) carefully chose [the](/post/the/) matching [thread](/post/thread/) [for](/post/for/) [her](/post/her/) [quilt](/post/quilt/)."
+- **[Verb](/post/verb/)**: "Let's [pick](/post/pick/) [up](/post/up/) [the](/post/the/) [conversation](/post/conversation/) [where](/post/where/) [we](/post/we/) [left](/post/left/) [off](/post/off/); [it](/post/it/) seems [our](/post/our/) thoughts [have](/post/have/) [become](/post/become/) entwined."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [debate](/post/debate/) was threadbare, [with](/post/with/) [nothing](/post/nothing/) [new](/post/new/) [being](/post/being/) added."
 
 ## Synonyms
 -纱线
 -线索
 -主线
 -思路
--（[Computer](/en/post/computer/)）线程
+-（[Computer](/post/computer/)）线程

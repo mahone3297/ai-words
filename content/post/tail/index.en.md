@@ -7,41 +7,41 @@ description = '[teil] n.尾巴；末尾部分'
 keywords = ['ai words', 'tail']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[tail](/en/post/tail/)/
+## [Pronunciation](/post/pronunciation/)
+/[tail](/post/tail/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-    - [The](/en/post/the/) fleshy, [usually](/en/post/usually/) hairless appendage [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) mammal's [body](/en/post/body/), [used](/en/post/used/) [for](/en/post/for/) [balance](/en/post/balance/) [and](/en/post/and/) [sometimes](/en/post/sometimes/) [for](/en/post/for/) sensory purposes. [Example](/en/post/example/): "[The](/en/post/the/) [cat](/en/post/cat/) swished [its](/en/post/its/) [tail](/en/post/tail/) [to](/en/post/to/) [show](/en/post/show/) [its](/en/post/its/) displeasure."
-    - [In](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/), [a](/en/post/a/) [characteristic](/en/post/characteristic/) [or](/en/post/or/) [feature](/en/post/feature/) [that](/en/post/that/) identifies [or](/en/post/or/) distinguishes [something](/en/post/something/). [Example](/en/post/example/): "[Her](/en/post/her/) [unique](/en/post/unique/) [style](/en/post/style/) was [a](/en/post/a/) distinguishing [tail](/en/post/tail/) [on](/en/post/on/) [her](/en/post/her/) [design](/en/post/design/) [work](/en/post/work/)."
+- **[Noun](/post/noun/)**: 
+    - [The](/post/the/) fleshy, [usually](/post/usually/) hairless appendage [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [a](/post/a/) mammal's [body](/post/body/), [used](/post/used/) [for](/post/for/) [balance](/post/balance/) [and](/post/and/) [sometimes](/post/sometimes/) [for](/post/for/) sensory purposes. [Example](/post/example/): "[The](/post/the/) [cat](/post/cat/) swished [its](/post/its/) [tail](/post/tail/) [to](/post/to/) [show](/post/show/) [its](/post/its/) displeasure."
+    - [In](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), [a](/post/a/) [characteristic](/post/characteristic/) [or](/post/or/) [feature](/post/feature/) [that](/post/that/) identifies [or](/post/or/) distinguishes [something](/post/something/). [Example](/post/example/): "[Her](/post/her/) [unique](/post/unique/) [style](/post/style/) was [a](/post/a/) distinguishing [tail](/post/tail/) [on](/post/on/) [her](/post/her/) [design](/post/design/) [work](/post/work/)."
 
-## [Verb](/en/post/verb/) (Transitive):
-- [To](/en/post/to/) [follow](/en/post/follow/) [or](/en/post/or/) [trail](/en/post/trail/) [behind](/en/post/behind/) [something](/en/post/something/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [a](/en/post/a/) metaphorical [sense](/en/post/sense/). [Example](/en/post/example/): "[The](/en/post/the/) train's [smoke](/en/post/smoke/) trailled [behind](/en/post/behind/) [it](/en/post/it/) [as](/en/post/as/) [it](/en/post/it/) pulled [away](/en/post/away/)."
-- [To](/en/post/to/) [indicate](/en/post/indicate/) [or](/en/post/or/) [point](/en/post/point/) [out](/en/post/out/) [with](/en/post/with/) one's [tail](/en/post/tail/). [Example](/en/post/example/): "[The](/en/post/the/) [dog](/en/post/dog/) wagged [its](/en/post/its/) [tail](/en/post/tail/) [to](/en/post/to/) [signal](/en/post/signal/) [its](/en/post/its/) excitement."
+## [Verb](/post/verb/) (Transitive):
+- [To](/post/to/) [follow](/post/follow/) [or](/post/or/) [trail](/post/trail/) [behind](/post/behind/) [something](/post/something/), [often](/post/often/) [used](/post/used/) [in](/post/in/) [a](/post/a/) metaphorical [sense](/post/sense/). [Example](/post/example/): "[The](/post/the/) train's [smoke](/post/smoke/) trailled [behind](/post/behind/) [it](/post/it/) [as](/post/as/) [it](/post/it/) pulled [away](/post/away/)."
+- [To](/post/to/) [indicate](/post/indicate/) [or](/post/or/) [point](/post/point/) [out](/post/out/) [with](/post/with/) one's [tail](/post/tail/). [Example](/post/example/): "[The](/post/the/) [dog](/post/dog/) wagged [its](/post/its/) [tail](/post/tail/) [to](/post/to/) [signal](/post/signal/) [its](/post/its/) excitement."
 
-## [Adjective](/en/post/adjective/):
-- Referring [to](/en/post/to/) [the](/en/post/the/) [rear](/en/post/rear/) [or](/en/post/or/) [back](/en/post/back/) [part](/en/post/part/), [especially](/en/post/especially/) [when](/en/post/when/) [it](/en/post/it/) comes [to](/en/post/to/) animals [or](/en/post/or/) vehicles. [Example](/en/post/example/): "[The](/en/post/the/) car's [rear](/en/post/rear/) [tail](/en/post/tail/) lights glowed [red](/en/post/red/) [as](/en/post/as/) [it](/en/post/it/) drove [off](/en/post/off/)."
+## [Adjective](/post/adjective/):
+- Referring [to](/post/to/) [the](/post/the/) [rear](/post/rear/) [or](/post/or/) [back](/post/back/) [part](/post/part/), [especially](/post/especially/) [when](/post/when/) [it](/post/it/) comes [to](/post/to/) animals [or](/post/or/) vehicles. [Example](/post/example/): "[The](/post/the/) car's [rear](/post/rear/) [tail](/post/tail/) lights glowed [red](/post/red/) [as](/post/as/) [it](/post/it/) drove [off](/post/off/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) lion's [tail](/en/post/tail/) was [a](/en/post/a/) [powerful](/en/post/powerful/) [tool](/en/post/tool/) [for](/en/post/for/) defense."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [cat](/en/post/cat/) followed [its](/en/post/its/) prey, [its](/en/post/its/) [tail](/en/post/tail/) twitching [with](/en/post/with/) anticipation."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sleek [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [car](/en/post/car/) featured [a](/en/post/a/) retractable [rear](/en/post/rear/) [tail](/en/post/tail/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) lion's [tail](/post/tail/) was [a](/post/a/) [powerful](/post/powerful/) [tool](/post/tool/) [for](/post/for/) defense."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [cat](/post/cat/) followed [its](/post/its/) prey, [its](/post/its/) [tail](/post/tail/) twitching [with](/post/with/) anticipation."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sleek [design](/post/design/) [of](/post/of/) [the](/post/the/) [car](/post/car/) featured [a](/post/a/) retractable [rear](/post/rear/) [tail](/post/tail/)."
 
 ## Synonyms
-- [Rear](/en/post/rear/)
-- [End](/en/post/end/)
+- [Rear](/post/rear/)
+- [End](/post/end/)
 - Fin
 - Tappendge
 - Cauda
 - Appendage
-- [Feature](/en/post/feature/)
+- [Feature](/post/feature/)
 - Marker
 
 ## Phrases
 - "Tail-end"
 - "Tailspin"
-- "[Keep](/en/post/keep/) [your](/en/post/your/) [tail](/en/post/tail/) [between](/en/post/between/) [your](/en/post/your/) legs" (idiomatic, [meaning](/en/post/meaning/) [to](/en/post/to/) [admit](/en/post/admit/) [fault](/en/post/fault/) [or](/en/post/or/) [be](/en/post/be/) embarrassed)
-- "[Follow](/en/post/follow/) [the](/en/post/the/) leader's [tail](/en/post/tail/)" (idiomatic, [to](/en/post/to/) [imitate](/en/post/imitate/) [or](/en/post/or/) [follow](/en/post/follow/) [closely](/en/post/closely/))
+- "[Keep](/post/keep/) [your](/post/your/) [tail](/post/tail/) [between](/post/between/) [your](/post/your/) legs" (idiomatic, [meaning](/post/meaning/) [to](/post/to/) [admit](/post/admit/) [fault](/post/fault/) [or](/post/or/) [be](/post/be/) embarrassed)
+- "[Follow](/post/follow/) [the](/post/the/) leader's [tail](/post/tail/)" (idiomatic, [to](/post/to/) [imitate](/post/imitate/) [or](/post/or/) [follow](/post/follow/) [closely](/post/closely/))
 
-## [Note](/en/post/note/):
-[The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) "[tail](/en/post/tail/)" [as](/en/post/as/) [in](/en/post/in/) "[to](/en/post/to/) [tail](/en/post/tail/) [someone](/en/post/someone/)" ([follow](/en/post/follow/) secretly) is [not](/en/post/not/) [directly](/en/post/directly/) related [to](/en/post/to/) [the](/en/post/the/) [physical](/en/post/physical/) [tail](/en/post/tail/) [but](/en/post/but/) [rather](/en/post/rather/) [a](/en/post/a/) derived [meaning](/en/post/meaning/) [from](/en/post/from/) [the](/en/post/the/) [noun](/en/post/noun/).
+## [Note](/post/note/):
+[The](/post/the/) [verb](/post/verb/) [form](/post/form/) "[tail](/post/tail/)" [as](/post/as/) [in](/post/in/) "[to](/post/to/) [tail](/post/tail/) [someone](/post/someone/)" ([follow](/post/follow/) secretly) is [not](/post/not/) [directly](/post/directly/) related [to](/post/to/) [the](/post/the/) [physical](/post/physical/) [tail](/post/tail/) [but](/post/but/) [rather](/post/rather/) [a](/post/a/) derived [meaning](/post/meaning/) [from](/post/from/) [the](/post/the/) [noun](/post/noun/).

@@ -7,36 +7,36 @@ description = '[ˈimiteit] vt.模仿，仿效；仿制'
 keywords = ['ai words', 'imitate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪmˈɪtˌeɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: To仿效;模仿;模拟;复制;仿制: [to](/en/post/to/) [follow](/en/post/follow/) [or](/en/post/or/) endeavor [to](/en/post/to/) [follow](/en/post/follow/) [as](/en/post/as/) [a](/en/post/a/) [model](/en/post/model/) [or](/en/post/or/) [example](/en/post/example/); [to](/en/post/to/) mimic [in](/en/post/in/) [action](/en/post/action/), [speech](/en/post/speech/), [style](/en/post/style/), etc.
-    - [Example](/en/post/example/): "[She](/en/post/she/) imitates [her](/en/post/her/) favorite singer's [voice](/en/post/voice/) [perfectly](/en/post/perfectly/)."
-    - [Phrase](/en/post/phrase/): "[Imitate](/en/post/imitate/) someone's [behavior](/en/post/behavior/)/[style](/en/post/style/)"
-    - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [child](/en/post/child/) imitated [his](/en/post/his/) father's [serious](/en/post/serious/) [expression](/en/post/expression/), making [everyone](/en/post/everyone/) [laugh](/en/post/laugh/)."
+- **[Verb](/post/verb/) (v)**: To仿效;模仿;模拟;复制;仿制: [to](/post/to/) [follow](/post/follow/) [or](/post/or/) endeavor [to](/post/to/) [follow](/post/follow/) [as](/post/as/) [a](/post/a/) [model](/post/model/) [or](/post/or/) [example](/post/example/); [to](/post/to/) mimic [in](/post/in/) [action](/post/action/), [speech](/post/speech/), [style](/post/style/), etc.
+    - [Example](/post/example/): "[She](/post/she/) imitates [her](/post/her/) favorite singer's [voice](/post/voice/) [perfectly](/post/perfectly/)."
+    - [Phrase](/post/phrase/): "[Imitate](/post/imitate/) someone's [behavior](/post/behavior/)/[style](/post/style/)"
+    - [Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) [child](/post/child/) imitated [his](/post/his/) father's [serious](/post/serious/) [expression](/post/expression/), making [everyone](/post/everyone/) [laugh](/post/laugh/)."
 
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [copy](/en/post/copy/) [or](/en/post/or/) reproduction [of](/en/post/of/) [something](/en/post/something/).
-    - [Example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) imitated [the](/en/post/the/) master's [painting](/en/post/painting/) [technique](/en/post/technique/)."
-    - [Phrase](/en/post/phrase/): "[Imitate](/en/post/imitate/) [a](/en/post/a/) [work](/en/post/work/) [of](/en/post/of/) [art](/en/post/art/)"
-    - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [new](/en/post/new/) [product](/en/post/product/) was designed [to](/en/post/to/) [closely](/en/post/closely/) [imitate](/en/post/imitate/) [the](/en/post/the/) [original](/en/post/original/) [design](/en/post/design/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [make](/post/make/) [a](/post/a/) [copy](/post/copy/) [or](/post/or/) reproduction [of](/post/of/) [something](/post/something/).
+    - [Example](/post/example/): "[The](/post/the/) [artist](/post/artist/) imitated [the](/post/the/) master's [painting](/post/painting/) [technique](/post/technique/)."
+    - [Phrase](/post/phrase/): "[Imitate](/post/imitate/) [a](/post/a/) [work](/post/work/) [of](/post/of/) [art](/post/art/)"
+    - [Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) [new](/post/new/) [product](/post/product/) was designed [to](/post/to/) [closely](/post/closely/) [imitate](/post/imitate/) [the](/post/the/) [original](/post/original/) [design](/post/design/)."
 
 ## Phrases
-- "Imitation is [the](/en/post/the/) sincerest [form](/en/post/form/) [of](/en/post/of/) flattery": [This](/en/post/this/) [phrase](/en/post/phrase/) suggests [that](/en/post/that/) [when](/en/post/when/) [someone](/en/post/someone/) imitates [another](/en/post/another/) [person](/en/post/person/), [it](/en/post/it/) is [a](/en/post/a/) [genuine](/en/post/genuine/) compliment [because](/en/post/because/) [they](/en/post/they/) [admire](/en/post/admire/) [them](/en/post/them/) [so](/en/post/so/) [much](/en/post/much/).
-- "[Monkey](/en/post/monkey/) [see](/en/post/see/), [monkey](/en/post/monkey/) [do](/en/post/do/)": [This](/en/post/this/) [idiom](/en/post/idiom/) implies [that](/en/post/that/) [people](/en/post/people/) [tend](/en/post/tend/) [to](/en/post/to/) [imitate](/en/post/imitate/) [what](/en/post/what/) [they](/en/post/they/) [see](/en/post/see/) others doing [without](/en/post/without/) [necessarily](/en/post/necessarily/) [understanding](/en/post/understanding/) [why](/en/post/why/).
+- "Imitation is [the](/post/the/) sincerest [form](/post/form/) [of](/post/of/) flattery": [This](/post/this/) [phrase](/post/phrase/) suggests [that](/post/that/) [when](/post/when/) [someone](/post/someone/) imitates [another](/post/another/) [person](/post/person/), [it](/post/it/) is [a](/post/a/) [genuine](/post/genuine/) compliment [because](/post/because/) [they](/post/they/) [admire](/post/admire/) [them](/post/them/) [so](/post/so/) [much](/post/much/).
+- "[Monkey](/post/monkey/) [see](/post/see/), [monkey](/post/monkey/) [do](/post/do/)": [This](/post/this/) [idiom](/post/idiom/) implies [that](/post/that/) [people](/post/people/) [tend](/post/tend/) [to](/post/to/) [imitate](/post/imitate/) [what](/post/what/) [they](/post/they/) [see](/post/see/) others doing [without](/post/without/) [necessarily](/post/necessarily/) [understanding](/post/understanding/) [why](/post/why/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) imitates [the](/en/post/the/) [accent](/en/post/accent/) [of](/en/post/of/) [different](/en/post/different/) regions flawlessly."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) gadget imitates [the](/en/post/the/) functions [of](/en/post/of/) [several](/en/post/several/) devices [in](/en/post/in/) [one](/en/post/one/) compact [package](/en/post/package/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[She](/post/she/) imitates [the](/post/the/) [accent](/post/accent/) [of](/post/of/) [different](/post/different/) regions flawlessly."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) gadget imitates [the](/post/the/) functions [of](/post/of/) [several](/post/several/) devices [in](/post/in/) [one](/post/one/) compact [package](/post/package/)."
 
 ## Synonyms
 - Mimic
 - Replicate
 - Duplicate
-- [Copy](/en/post/copy/)
+- [Copy](/post/copy/)
 - Emulate
 - Parrot
-- [Imitate](/en/post/imitate/) [closely](/en/post/closely/)
-- [Mirror](/en/post/mirror/)
-- [Pattern](/en/post/pattern/) [after](/en/post/after/)
-- [Follow](/en/post/follow/) [the](/en/post/the/) [example](/en/post/example/) [of](/en/post/of/)
+- [Imitate](/post/imitate/) [closely](/post/closely/)
+- [Mirror](/post/mirror/)
+- [Pattern](/post/pattern/) [after](/post/after/)
+- [Follow](/post/follow/) [the](/post/the/) [example](/post/example/) [of](/post/of/)

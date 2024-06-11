@@ -7,35 +7,35 @@ description = '[əˈpɔint] vt.任命，委任；约定'
 keywords = ['ai words', 'appoint']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈpaɪnt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Appointment](/en/post/appointment/)**: [A](/en/post/a/) scheduled [meeting](/en/post/meeting/) [or](/en/post/or/) engagement, [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [professional](/en/post/professional/) [or](/en/post/or/) [official](/en/post/official/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) doctor's [appointment](/en/post/appointment/) is [at](/en/post/at/) 2 PM."
-- **[Appointment](/en/post/appointment/) ([as](/en/post/as/) [a](/en/post/a/) [job](/en/post/job/) [or](/en/post/or/) [role](/en/post/role/))**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) designating [someone](/en/post/someone/) [to](/en/post/to/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [task](/en/post/task/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was appointed [the](/en/post/the/) [new](/en/post/new/) CEO [of](/en/post/of/) [the](/en/post/the/) [company](/en/post/company/)."
+### [Noun](/post/noun/)
+- **[Appointment](/post/appointment/)**: [A](/post/a/) scheduled [meeting](/post/meeting/) [or](/post/or/) engagement, [often](/post/often/) [with](/post/with/) [a](/post/a/) [professional](/post/professional/) [or](/post/or/) [official](/post/official/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) doctor's [appointment](/post/appointment/) is [at](/post/at/) 2 PM."
+- **[Appointment](/post/appointment/) ([as](/post/as/) [a](/post/a/) [job](/post/job/) [or](/post/or/) [role](/post/role/))**: [The](/post/the/) [act](/post/act/) [of](/post/of/) designating [someone](/post/someone/) [to](/post/to/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [task](/post/task/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) was appointed [the](/post/the/) [new](/post/new/) CEO [of](/post/of/) [the](/post/the/) [company](/post/company/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [appoint](/en/post/appoint/)**: [To](/en/post/to/) officially [assign](/en/post/assign/) [or](/en/post/or/) [name](/en/post/name/) [someone](/en/post/someone/) [to](/en/post/to/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [role](/en/post/role/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) manager appointed John [as](/en/post/as/) [the](/en/post/the/) [project](/en/post/project/) [lead](/en/post/lead/)."
-- **[To](/en/post/to/) [make](/en/post/make/) an [appointment](/en/post/appointment/)**: [To](/en/post/to/) [schedule](/en/post/schedule/) [a](/en/post/a/) [meeting](/en/post/meeting/) [or](/en/post/or/) engagement. [For](/en/post/for/) [example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [make](/en/post/make/) an [appointment](/en/post/appointment/) [with](/en/post/with/) [the](/en/post/the/) dentist."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [appoint](/post/appoint/)**: [To](/post/to/) officially [assign](/post/assign/) [or](/post/or/) [name](/post/name/) [someone](/post/someone/) [to](/post/to/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [role](/post/role/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) manager appointed John [as](/post/as/) [the](/post/the/) [project](/post/project/) [lead](/post/lead/)."
+- **[To](/post/to/) [make](/post/make/) an [appointment](/post/appointment/)**: [To](/post/to/) [schedule](/post/schedule/) [a](/post/a/) [meeting](/post/meeting/) [or](/post/or/) engagement. [For](/post/for/) [example](/post/example/): "I [need](/post/need/) [to](/post/to/) [make](/post/make/) an [appointment](/post/appointment/) [with](/post/with/) [the](/post/the/) dentist."
 
 ## Phrases
-- "[Schedule](/en/post/schedule/) an [appointment](/en/post/appointment/)" [means](/en/post/means/) [to](/en/post/to/) [arrange](/en/post/arrange/) [a](/en/post/a/) [specific](/en/post/specific/) [time](/en/post/time/) [for](/en/post/for/) [a](/en/post/a/) [meeting](/en/post/meeting/).
-- "[Without](/en/post/without/) [appointment](/en/post/appointment/)" refers [to](/en/post/to/) [not](/en/post/not/) having made [a](/en/post/a/) [prior](/en/post/prior/) [arrangement](/en/post/arrangement/).
-- "[Appoint](/en/post/appoint/) [someone](/en/post/someone/) [to](/en/post/to/) [a](/en/post/a/) [committee](/en/post/committee/)" is [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [say](/en/post/say/) [they](/en/post/they/) [will](/en/post/will/) [join](/en/post/join/) [a](/en/post/a/) [group](/en/post/group/).
+- "[Schedule](/post/schedule/) an [appointment](/post/appointment/)" [means](/post/means/) [to](/post/to/) [arrange](/post/arrange/) [a](/post/a/) [specific](/post/specific/) [time](/post/time/) [for](/post/for/) [a](/post/a/) [meeting](/post/meeting/).
+- "[Without](/post/without/) [appointment](/post/appointment/)" refers [to](/post/to/) [not](/post/not/) having made [a](/post/a/) [prior](/post/prior/) [arrangement](/post/arrangement/).
+- "[Appoint](/post/appoint/) [someone](/post/someone/) [to](/post/to/) [a](/post/a/) [committee](/post/committee/)" is [a](/post/a/) [way](/post/way/) [to](/post/to/) [say](/post/say/) [they](/post/they/) [will](/post/will/) [join](/post/join/) [a](/post/a/) [group](/post/group/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) had [several](/en/post/several/) appointments lined [up](/en/post/up/) [for](/en/post/for/) [her](/en/post/her/) [busy](/en/post/busy/) workday."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [president](/en/post/president/) appointed [three](/en/post/three/) [new](/en/post/new/) judges [to](/en/post/to/) [the](/en/post/the/) [Supreme](/en/post/supreme/) [Court](/en/post/court/)."
-- **Phrasal [Verb](/en/post/verb/)**: "I'll [call](/en/post/call/) [back](/en/post/back/) [later](/en/post/later/) [when](/en/post/when/) it's [convenient](/en/post/convenient/) [for](/en/post/for/) [us](/en/post/us/) [to](/en/post/to/) [appoint](/en/post/appoint/) [a](/en/post/a/) [meeting](/en/post/meeting/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) had [several](/post/several/) appointments lined [up](/post/up/) [for](/post/for/) [her](/post/her/) [busy](/post/busy/) workday."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [president](/post/president/) appointed [three](/post/three/) [new](/post/new/) judges [to](/post/to/) [the](/post/the/) [Supreme](/post/supreme/) [Court](/post/court/)."
+- **Phrasal [Verb](/post/verb/)**: "I'll [call](/post/call/) [back](/post/back/) [later](/post/later/) [when](/post/when/) it's [convenient](/post/convenient/) [for](/post/for/) [us](/post/us/) [to](/post/to/) [appoint](/post/appoint/) [a](/post/a/) [meeting](/post/meeting/)."
 
 ## Synonyms
-- [Name](/en/post/name/)
-- [Appoint](/en/post/appoint/) [someone](/en/post/someone/)
-- [Assign](/en/post/assign/)
+- [Name](/post/name/)
+- [Appoint](/post/appoint/) [someone](/post/someone/)
+- [Assign](/post/assign/)
 - Nominate
-- [Commission](/en/post/commission/)
+- [Commission](/post/commission/)
 - Designate
-- [Set](/en/post/set/) [aside](/en/post/aside/) ([for](/en/post/for/) [a](/en/post/a/) [meeting](/en/post/meeting/))
-- [Schedule](/en/post/schedule/)
-- [Engage](/en/post/engage/)
+- [Set](/post/set/) [aside](/post/aside/) ([for](/post/for/) [a](/post/a/) [meeting](/post/meeting/))
+- [Schedule](/post/schedule/)
+- [Engage](/post/engage/)

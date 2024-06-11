@@ -7,31 +7,31 @@ description = '[kait] n.风筝'
 keywords = ['ai words', 'kite']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kait/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) lightweight [toy](/en/post/toy/) [or](/en/post/or/) recreational [object](/en/post/object/) [that](/en/post/that/) consists [of](/en/post/of/) [a](/en/post/a/) [flat](/en/post/flat/), [usually](/en/post/usually/) fabric-covered [frame](/en/post/frame/) [with](/en/post/with/) strings attached [to](/en/post/to/) [it](/en/post/it/), [which](/en/post/which/) [can](/en/post/can/) [be](/en/post/be/) flown [in](/en/post/in/) [the](/en/post/the/) [air](/en/post/air/) [by](/en/post/by/) catching [the](/en/post/the/) [wind](/en/post/wind/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) children spent [their](/en/post/their/) [afternoon](/en/post/afternoon/) flying kites [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) lightweight [toy](/post/toy/) [or](/post/or/) recreational [object](/post/object/) [that](/post/that/) consists [of](/post/of/) [a](/post/a/) [flat](/post/flat/), [usually](/post/usually/) fabric-covered [frame](/post/frame/) [with](/post/with/) strings attached [to](/post/to/) [it](/post/it/), [which](/post/which/) [can](/post/can/) [be](/post/be/) flown [in](/post/in/) [the](/post/the/) [air](/post/air/) [by](/post/by/) catching [the](/post/the/) [wind](/post/wind/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) children spent [their](/post/their/) [afternoon](/post/afternoon/) flying kites [in](/post/in/) [the](/post/the/) [park](/post/park/)."
 
-  > _Phrasal Verb_: "[fly](/en/post/fly/) [a](/en/post/a/) [kite](/en/post/kite/)" - [to](/en/post/to/) [control](/en/post/control/) [and](/en/post/and/) navigate [a](/en/post/a/) [kite](/en/post/kite/) [in](/en/post/in/) [the](/en/post/the/) [air](/en/post/air/).
+  > _Phrasal Verb_: "[fly](/post/fly/) [a](/post/a/) [kite](/post/kite/)" - [to](/post/to/) [control](/post/control/) [and](/post/and/) navigate [a](/post/a/) [kite](/post/kite/) [in](/post/in/) [the](/post/the/) [air](/post/air/).
   > 
-  > _Example Sentence_: "[On](/en/post/on/) [a](/en/post/a/) windy [day](/en/post/day/), [they](/en/post/they/) decided [to](/en/post/to/) [fly](/en/post/fly/) [a](/en/post/a/) [kite](/en/post/kite/) [on](/en/post/on/) [the](/en/post/the/) [beach](/en/post/beach/)."
+  > _Example Sentence_: "[On](/post/on/) [a](/post/a/) windy [day](/post/day/), [they](/post/they/) decided [to](/post/to/) [fly](/post/fly/) [a](/post/a/) [kite](/post/kite/) [on](/post/on/) [the](/post/the/) [beach](/post/beach/)."
 
-- **[Noun](/en/post/noun/) (n)**: [In](/en/post/in/) [some](/en/post/some/) contexts, [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) predatory [fish](/en/post/fish/), [also](/en/post/also/) known [as](/en/post/as/) [a](/en/post/a/) kitefish [or](/en/post/or/) bowfin. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [kite](/en/post/kite/) is [a](/en/post/a/) freshwater [fish](/en/post/fish/) [native](/en/post/native/) [to](/en/post/to/) [North](/en/post/north/) [America](/en/post/america/)."
+- **[Noun](/post/noun/) (n)**: [In](/post/in/) [some](/post/some/) contexts, [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [type](/post/type/) [of](/post/of/) predatory [fish](/post/fish/), [also](/post/also/) known [as](/post/as/) [a](/post/a/) kitefish [or](/post/or/) bowfin. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [kite](/post/kite/) is [a](/post/a/) freshwater [fish](/post/fish/) [native](/post/native/) [to](/post/to/) [North](/post/north/) [America](/post/america/)."
 
 ## Phrases
-- "Let's [go](/en/post/go/) [fly](/en/post/fly/) [a](/en/post/a/) [kite](/en/post/kite/)" – An [invitation](/en/post/invitation/) [to](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [the](/en/post/the/) [activity](/en/post/activity/) [of](/en/post/of/) kite-flying, [often](/en/post/often/) associated [with](/en/post/with/) enjoyment [and](/en/post/and/) relaxation.
-- "[Like](/en/post/like/) [a](/en/post/a/) [kite](/en/post/kite/) [without](/en/post/without/) [a](/en/post/a/) [string](/en/post/string/)" – An idiomatic [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [that](/en/post/that/) is uncontrolled [or](/en/post/or/) directionless.
+- "Let's [go](/post/go/) [fly](/post/fly/) [a](/post/a/) [kite](/post/kite/)" – An [invitation](/post/invitation/) [to](/post/to/) [engage](/post/engage/) [in](/post/in/) [the](/post/the/) [activity](/post/activity/) [of](/post/of/) kite-flying, [often](/post/often/) associated [with](/post/with/) enjoyment [and](/post/and/) relaxation.
+- "[Like](/post/like/) [a](/post/a/) [kite](/post/kite/) [without](/post/without/) [a](/post/a/) [string](/post/string/)" – An idiomatic [expression](/post/expression/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [that](/post/that/) is uncontrolled [or](/post/or/) directionless.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([Toy](/en/post/toy/))**: "[They](/en/post/they/) made [their](/en/post/their/) [own](/en/post/own/) [kite](/en/post/kite/) using sticks [and](/en/post/and/) colorful [paper](/en/post/paper/)."
-- **[Noun](/en/post/noun/) ([Fish](/en/post/fish/))**: "[The](/en/post/the/) [kite](/en/post/kite/) is [a](/en/post/a/) [rare](/en/post/rare/) [sight](/en/post/sight/) [in](/en/post/in/) [these](/en/post/these/) waters, known [for](/en/post/for/) [its](/en/post/its/) [long](/en/post/long/) dorsal fin."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([Toy](/post/toy/))**: "[They](/post/they/) made [their](/post/their/) [own](/post/own/) [kite](/post/kite/) using sticks [and](/post/and/) colorful [paper](/post/paper/)."
+- **[Noun](/post/noun/) ([Fish](/post/fish/))**: "[The](/post/the/) [kite](/post/kite/) is [a](/post/a/) [rare](/post/rare/) [sight](/post/sight/) [in](/post/in/) [these](/post/these/) waters, known [for](/post/for/) [its](/post/its/) [long](/post/long/) dorsal fin."
 
 ## Synonyms
-- [Toy](/en/post/toy/) [Kite](/en/post/kite/)
-- [Kite](/en/post/kite/) [Toy](/en/post/toy/)
-- [Kite](/en/post/kite/) [String](/en/post/string/)
-- [Air](/en/post/air/) [Kite](/en/post/kite/)
-- [For](/en/post/for/) [the](/en/post/the/) [fish](/en/post/fish/): Kitefish, Bowfin
+- [Toy](/post/toy/) [Kite](/post/kite/)
+- [Kite](/post/kite/) [Toy](/post/toy/)
+- [Kite](/post/kite/) [String](/post/string/)
+- [Air](/post/air/) [Kite](/post/kite/)
+- [For](/post/for/) [the](/post/the/) [fish](/post/fish/): Kitefish, Bowfin
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) [of](/en/post/of/) '[kite](/en/post/kite/)' typically does [not](/en/post/not/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [physical](/en/post/physical/) [act](/en/post/act/) [of](/en/post/of/) flying [a](/en/post/a/) [kite](/en/post/kite/) [but](/en/post/but/) [can](/en/post/can/) [sometimes](/en/post/sometimes/) [be](/en/post/be/) [used](/en/post/used/) informally [or](/en/post/or/) regionally [to](/en/post/to/) [mean](/en/post/mean/) [the](/en/post/the/) [same](/en/post/same/) [thing](/en/post/thing/). [More](/en/post/more/) [commonly](/en/post/commonly/), '[to](/en/post/to/) [kite](/en/post/kite/)' is [used](/en/post/used/) [in](/en/post/in/) informal contexts [to](/en/post/to/) [mean](/en/post/mean/) creating fraudulent checks [or](/en/post/or/) escaping [quickly](/en/post/quickly/), [although](/en/post/although/) [these](/en/post/these/) meanings are unrelated [to](/en/post/to/) [the](/en/post/the/) [noun](/en/post/noun/) [definition](/en/post/definition/) [above](/en/post/above/).
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) [of](/post/of/) '[kite](/post/kite/)' typically does [not](/post/not/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [physical](/post/physical/) [act](/post/act/) [of](/post/of/) flying [a](/post/a/) [kite](/post/kite/) [but](/post/but/) [can](/post/can/) [sometimes](/post/sometimes/) [be](/post/be/) [used](/post/used/) informally [or](/post/or/) regionally [to](/post/to/) [mean](/post/mean/) [the](/post/the/) [same](/post/same/) [thing](/post/thing/). [More](/post/more/) [commonly](/post/commonly/), '[to](/post/to/) [kite](/post/kite/)' is [used](/post/used/) [in](/post/in/) informal contexts [to](/post/to/) [mean](/post/mean/) creating fraudulent checks [or](/post/or/) escaping [quickly](/post/quickly/), [although](/post/although/) [these](/post/these/) meanings are unrelated [to](/post/to/) [the](/post/the/) [noun](/post/noun/) [definition](/post/definition/) [above](/post/above/).

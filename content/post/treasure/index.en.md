@@ -7,36 +7,36 @@ description = '[ˈtreʒə] n.财富；珍宝 vt.珍视'
 keywords = ['ai words', 'treasure']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /treɪzər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [valuable](/en/post/valuable/) [object](/en/post/object/), [often](/en/post/often/) [of](/en/post/of/) sentimental [or](/en/post/or/) [historical](/en/post/historical/) [significance](/en/post/significance/), [that](/en/post/that/) is [usually](/en/post/usually/) kept [for](/en/post/for/) [its](/en/post/its/) rarity, [beauty](/en/post/beauty/), [or](/en/post/or/) monetary [worth](/en/post/worth/). [Example](/en/post/example/): "[The](/en/post/the/) family's [treasure](/en/post/treasure/) was passed [down](/en/post/down/) [through](/en/post/through/) generations."
-2. [A](/en/post/a/) [valuable](/en/post/valuable/) [possession](/en/post/possession/) [or](/en/post/or/) [collection](/en/post/collection/) [of](/en/post/of/) items. [Example](/en/post/example/): "[Her](/en/post/her/) attic was filled [with](/en/post/with/) treasures [from](/en/post/from/) [her](/en/post/her/) travels."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [valuable](/post/valuable/) [object](/post/object/), [often](/post/often/) [of](/post/of/) sentimental [or](/post/or/) [historical](/post/historical/) [significance](/post/significance/), [that](/post/that/) is [usually](/post/usually/) kept [for](/post/for/) [its](/post/its/) rarity, [beauty](/post/beauty/), [or](/post/or/) monetary [worth](/post/worth/). [Example](/post/example/): "[The](/post/the/) family's [treasure](/post/treasure/) was passed [down](/post/down/) [through](/post/through/) generations."
+2. [A](/post/a/) [valuable](/post/valuable/) [possession](/post/possession/) [or](/post/or/) [collection](/post/collection/) [of](/post/of/) items. [Example](/post/example/): "[Her](/post/her/) attic was filled [with](/post/with/) treasures [from](/post/from/) [her](/post/her/) travels."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [regard](/en/post/regard/) [something](/en/post/something/) [as](/en/post/as/) [highly](/en/post/highly/) [valuable](/en/post/valuable/) [or](/en/post/or/) [precious](/en/post/precious/). [Example](/en/post/example/): "[He](/en/post/he/) treasures [the](/en/post/the/) memories [of](/en/post/of/) [his](/en/post/his/) [childhood](/en/post/childhood/)."
-2. [To](/en/post/to/) [hold](/en/post/hold/) [or](/en/post/or/) [keep](/en/post/keep/) [something](/en/post/something/) [with](/en/post/with/) [great](/en/post/great/) [care](/en/post/care/) [and](/en/post/and/) [affection](/en/post/affection/). [Example](/en/post/example/): "[She](/en/post/she/) treasures [her](/en/post/her/) grandmother's [old](/en/post/old/) jewelry."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [regard](/post/regard/) [something](/post/something/) [as](/post/as/) [highly](/post/highly/) [valuable](/post/valuable/) [or](/post/or/) [precious](/post/precious/). [Example](/post/example/): "[He](/post/he/) treasures [the](/post/the/) memories [of](/post/of/) [his](/post/his/) [childhood](/post/childhood/)."
+2. [To](/post/to/) [hold](/post/hold/) [or](/post/or/) [keep](/post/keep/) [something](/post/something/) [with](/post/with/) [great](/post/great/) [care](/post/care/) [and](/post/and/) [affection](/post/affection/). [Example](/post/example/): "[She](/post/she/) treasures [her](/post/her/) grandmother's [old](/post/old/) jewelry."
 
 ## Phrases
-- "[Hold](/en/post/hold/) [onto](/en/post/onto/) [your](/en/post/your/) treasures" implies cherishing [and](/en/post/and/) preserving [something](/en/post/something/) [dear](/en/post/dear/).
-- "Unearthing [a](/en/post/a/) hidden [treasure](/en/post/treasure/)" refers [to](/en/post/to/) discovering [something](/en/post/something/) [valuable](/en/post/valuable/) unexpectedly.
-- "[Treasure](/en/post/treasure/) [hunt](/en/post/hunt/)" is [a](/en/post/a/) [game](/en/post/game/) [or](/en/post/or/) [activity](/en/post/activity/) [where](/en/post/where/) participants [search](/en/post/search/) [for](/en/post/for/) hidden objects [or](/en/post/or/) clues.
+- "[Hold](/post/hold/) [onto](/post/onto/) [your](/post/your/) treasures" implies cherishing [and](/post/and/) preserving [something](/post/something/) [dear](/post/dear/).
+- "Unearthing [a](/post/a/) hidden [treasure](/post/treasure/)" refers [to](/post/to/) discovering [something](/post/something/) [valuable](/post/valuable/) unexpectedly.
+- "[Treasure](/post/treasure/) [hunt](/post/hunt/)" is [a](/post/a/) [game](/post/game/) [or](/post/or/) [activity](/post/activity/) [where](/post/where/) participants [search](/post/search/) [for](/post/for/) hidden objects [or](/post/or/) clues.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [museum](/en/post/museum/) displayed [a](/en/post/a/) [rare](/en/post/rare/) [diamond](/en/post/diamond/), considered [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) world's greatest treasures."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) treasures [the](/en/post/the/) [time](/en/post/time/) [she](/en/post/she/) spent [with](/en/post/with/) [her](/en/post/her/) [childhood](/en/post/childhood/) [friend](/en/post/friend/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) searching, [he](/en/post/he/) [finally](/en/post/finally/) unearthed [a](/en/post/a/) long-lost [treasure](/en/post/treasure/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [museum](/post/museum/) displayed [a](/post/a/) [rare](/post/rare/) [diamond](/post/diamond/), considered [one](/post/one/) [of](/post/of/) [the](/post/the/) world's greatest treasures."
+- **[Verb](/post/verb/)**: "[She](/post/she/) treasures [the](/post/the/) [time](/post/time/) [she](/post/she/) spent [with](/post/with/) [her](/post/her/) [childhood](/post/childhood/) [friend](/post/friend/)."
+- **Phrasal [Verb](/post/verb/)**: "[After](/post/after/) years [of](/post/of/) searching, [he](/post/he/) [finally](/post/finally/) unearthed [a](/post/a/) long-lost [treasure](/post/treasure/)."
 
 ## Synonyms
-- [Precious](/en/post/precious/)
-- [Valuable](/en/post/valuable/)
+- [Precious](/post/precious/)
+- [Valuable](/post/valuable/)
 - Hoard
-- [Jewel](/en/post/jewel/)
-- [Prize](/en/post/prize/)
+- [Jewel](/post/jewel/)
+- [Prize](/post/prize/)
 - Belongings
 - Legacy
 - Treasures trove
-- [Wealth](/en/post/wealth/)
-- [Possession](/en/post/possession/)
+- [Wealth](/post/wealth/)
+- [Possession](/post/possession/)

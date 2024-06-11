@@ -7,31 +7,31 @@ description = '[ˈdʒʌŋgl] n.丛林，密林，莽丛'
 keywords = ['ai words', 'jungle']
 +++
 
-## [Word](/en/post/word/): [Jungle](/en/post/jungle/)
+## [Word](/post/word/): [Jungle](/post/jungle/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒʌŋɡl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [dense](/en/post/dense/) [forest](/en/post/forest/) typically [found](/en/post/found/) [in](/en/post/in/) [tropical](/en/post/tropical/) regions, characterized [by](/en/post/by/) [thick](/en/post/thick/) undergrowth, [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) vegetation, [and](/en/post/and/) [often](/en/post/often/) inhabited [by](/en/post/by/) [numerous](/en/post/numerous/) [wild](/en/post/wild/) animals. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) explorers hacked [their](/en/post/their/) [way](/en/post/way/) [through](/en/post/through/) [the](/en/post/the/) impenetrable [jungle](/en/post/jungle/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [jungle](/en/post/jungle/), [often](/en/post/often/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) confusing, chaotic, [or](/en/post/or/) fiercely competitive [environment](/en/post/environment/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) corporate [world](/en/post/world/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [real](/en/post/real/) [jungle](/en/post/jungle/) [sometimes](/en/post/sometimes/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [dense](/post/dense/) [forest](/post/forest/) typically [found](/post/found/) [in](/post/in/) [tropical](/post/tropical/) regions, characterized [by](/post/by/) [thick](/post/thick/) undergrowth, [a](/post/a/) [variety](/post/variety/) [of](/post/of/) vegetation, [and](/post/and/) [often](/post/often/) inhabited [by](/post/by/) [numerous](/post/numerous/) [wild](/post/wild/) animals. [For](/post/for/) [example](/post/example/): "[The](/post/the/) explorers hacked [their](/post/their/) [way](/post/way/) [through](/post/through/) [the](/post/the/) impenetrable [jungle](/post/jungle/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [jungle](/post/jungle/), [often](/post/often/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [a](/post/a/) confusing, chaotic, [or](/post/or/) fiercely competitive [environment](/post/environment/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) corporate [world](/post/world/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [real](/post/real/) [jungle](/post/jungle/) [sometimes](/post/sometimes/)."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [jungle](/en/post/jungle/)": Referring [to](/en/post/to/) [being](/en/post/being/) [in](/en/post/in/) [a](/en/post/a/) challenging [or](/en/post/or/) unpredictable [environment](/en/post/environment/).
-- "Survival [of](/en/post/of/) [the](/en/post/the/) fittest": [This](/en/post/this/) [phrase](/en/post/phrase/), originating [from](/en/post/from/) evolutionary [theory](/en/post/theory/) [but](/en/post/but/) [often](/en/post/often/) [used](/en/post/used/) metaphorically, suggests [that](/en/post/that/) [only](/en/post/only/) [the](/en/post/the/) strongest [or](/en/post/or/) [most](/en/post/most/) adaptable [will](/en/post/will/) [thrive](/en/post/thrive/) [in](/en/post/in/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/), [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) [jungle](/en/post/jungle/).
-- "[Jungle](/en/post/jungle/) [fever](/en/post/fever/)": Informal slang [for](/en/post/for/) an [intense](/en/post/intense/) [attraction](/en/post/attraction/) [between](/en/post/between/) [people](/en/post/people/) [of](/en/post/of/) [different](/en/post/different/) ethnic backgrounds, [particularly](/en/post/particularly/) [when](/en/post/when/) referring [to](/en/post/to/) interracial relationships.
+- "[In](/post/in/) [the](/post/the/) [jungle](/post/jungle/)": Referring [to](/post/to/) [being](/post/being/) [in](/post/in/) [a](/post/a/) challenging [or](/post/or/) unpredictable [environment](/post/environment/).
+- "Survival [of](/post/of/) [the](/post/the/) fittest": [This](/post/this/) [phrase](/post/phrase/), originating [from](/post/from/) evolutionary [theory](/post/theory/) [but](/post/but/) [often](/post/often/) [used](/post/used/) metaphorically, suggests [that](/post/that/) [only](/post/only/) [the](/post/the/) strongest [or](/post/or/) [most](/post/most/) adaptable [will](/post/will/) [thrive](/post/thrive/) [in](/post/in/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/), [such](/post/such/) [as](/post/as/) [the](/post/the/) [jungle](/post/jungle/).
+- "[Jungle](/post/jungle/) [fever](/post/fever/)": Informal slang [for](/post/for/) an [intense](/post/intense/) [attraction](/post/attraction/) [between](/post/between/) [people](/post/people/) [of](/post/of/) [different](/post/different/) ethnic backgrounds, [particularly](/post/particularly/) [when](/post/when/) referring [to](/post/to/) interracial relationships.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) Amazon rainforest, [also](/en/post/also/) known [as](/en/post/as/) [the](/en/post/the/) Amazon [jungle](/en/post/jungle/), is [home](/en/post/home/) [to](/en/post/to/) [a](/en/post/a/) [vast](/en/post/vast/) array [of](/en/post/of/) wildlife."
-- **[Adjective](/en/post/adjective/)**: "Navigating [the](/en/post/the/) [legal](/en/post/legal/) [jungle](/en/post/jungle/) [of](/en/post/of/) [international](/en/post/international/) [trade](/en/post/trade/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) daunting [task](/en/post/task/) [for](/en/post/for/) [new](/en/post/new/) businesses."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) Amazon rainforest, [also](/post/also/) known [as](/post/as/) [the](/post/the/) Amazon [jungle](/post/jungle/), is [home](/post/home/) [to](/post/to/) [a](/post/a/) [vast](/post/vast/) array [of](/post/of/) wildlife."
+- **[Adjective](/post/adjective/)**: "Navigating [the](/post/the/) [legal](/post/legal/) [jungle](/post/jungle/) [of](/post/of/) [international](/post/international/) [trade](/post/trade/) [can](/post/can/) [be](/post/be/) [a](/post/a/) daunting [task](/post/task/) [for](/post/for/) [new](/post/new/) businesses."
 
 ## Synonyms
 - Rainforest
 - Wilderness
 - Thicket
-- [Forest](/en/post/forest/)
-- Woodland ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [sense](/en/post/sense/))
+- [Forest](/post/forest/)
+- Woodland ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [sense](/post/sense/))
 - Chaotic
 - Unpredictable
 - Competitive
-- Cutthroat ([for](/en/post/for/) [the](/en/post/the/) [adjective](/en/post/adjective/) [sense](/en/post/sense/))
+- Cutthroat ([for](/post/for/) [the](/post/the/) [adjective](/post/adjective/) [sense](/post/sense/))

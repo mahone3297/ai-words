@@ -7,36 +7,36 @@ description = '[ˈaidl] a.空闲的；懒散的'
 keywords = ['ai words', 'idle']
 +++
 
-## [Word](/en/post/word/): [Idle](/en/post/idle/)
+## [Word](/post/word/): [Idle](/post/idle/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaɪdl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) working [or](/en/post/or/) [active](/en/post/active/); unemployed [or](/en/post/or/) unoccupied. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) spent [his](/en/post/his/) [idle](/en/post/idle/) hours [reading](/en/post/reading/) books."
-  - _She has been [idle](/en/post/idle/) [since](/en/post/since/) losing [her](/en/post/her/) [job](/en/post/job/)._
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/) doing [nothing](/en/post/nothing/) [or](/en/post/or/) [without](/en/post/without/) [purpose](/en/post/purpose/); [to](/en/post/to/) [be](/en/post/be/) [lazy](/en/post/lazy/) [or](/en/post/or/) inactive. [For](/en/post/for/) [example](/en/post/example/): "I idled [away](/en/post/away/) [the](/en/post/the/) [afternoon](/en/post/afternoon/) watching [old](/en/post/old/) movies."
-  - _The [car](/en/post/car/) [engine](/en/post/engine/) idled [smoothly](/en/post/smoothly/)._
-- **[Noun](/en/post/noun/)**: (informal) [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [idle](/en/post/idle/) [or](/en/post/or/) [lazy](/en/post/lazy/). [For](/en/post/for/) [example](/en/post/example/): "[Too](/en/post/too/) [many](/en/post/many/) idles [can](/en/post/can/) [slow](/en/post/slow/) [down](/en/post/down/) [a](/en/post/a/) society's [progress](/en/post/progress/)."
-  - _The [boss](/en/post/boss/) warned [that](/en/post/that/) [idle](/en/post/idle/) hands [would](/en/post/would/) [not](/en/post/not/) [be](/en/post/be/) tolerated._
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) working [or](/post/or/) [active](/post/active/); unemployed [or](/post/or/) unoccupied. [For](/post/for/) [example](/post/example/): "[He](/post/he/) spent [his](/post/his/) [idle](/post/idle/) hours [reading](/post/reading/) books."
+  - _She has been [idle](/post/idle/) [since](/post/since/) losing [her](/post/her/) [job](/post/job/)._
+- **[Verb](/post/verb/)**: [To](/post/to/) [spend](/post/spend/) [time](/post/time/) doing [nothing](/post/nothing/) [or](/post/or/) [without](/post/without/) [purpose](/post/purpose/); [to](/post/to/) [be](/post/be/) [lazy](/post/lazy/) [or](/post/or/) inactive. [For](/post/for/) [example](/post/example/): "I idled [away](/post/away/) [the](/post/the/) [afternoon](/post/afternoon/) watching [old](/post/old/) movies."
+  - _The [car](/post/car/) [engine](/post/engine/) idled [smoothly](/post/smoothly/)._
+- **[Noun](/post/noun/)**: (informal) [A](/post/a/) [person](/post/person/) [who](/post/who/) is [idle](/post/idle/) [or](/post/or/) [lazy](/post/lazy/). [For](/post/for/) [example](/post/example/): "[Too](/post/too/) [many](/post/many/) idles [can](/post/can/) [slow](/post/slow/) [down](/post/down/) [a](/post/a/) society's [progress](/post/progress/)."
+  - _The [boss](/post/boss/) warned [that](/post/that/) [idle](/post/idle/) hands [would](/post/would/) [not](/post/not/) [be](/post/be/) tolerated._
 
 ## Phrases
-- "[Idle](/en/post/idle/) chitchat" refers [to](/en/post/to/) trivial [conversation](/en/post/conversation/) [about](/en/post/about/) unimportant matters.
-- "[Idle](/en/post/idle/) [curiosity](/en/post/curiosity/)" describes [a](/en/post/a/) [desire](/en/post/desire/) [to](/en/post/to/) [know](/en/post/know/) [something](/en/post/something/) [without](/en/post/without/) [any](/en/post/any/) [practical](/en/post/practical/) [reason](/en/post/reason/).
-- "[Idle](/en/post/idle/) hands are [the](/en/post/the/) devil's [workshop](/en/post/workshop/)" is [a](/en/post/a/) proverb suggesting [that](/en/post/that/) [people](/en/post/people/) [who](/en/post/who/) [have](/en/post/have/) [nothing](/en/post/nothing/) [to](/en/post/to/) [do](/en/post/do/) are [likely](/en/post/likely/) [to](/en/post/to/) [get](/en/post/get/) [into](/en/post/into/) [trouble](/en/post/trouble/).
+- "[Idle](/post/idle/) chitchat" refers [to](/post/to/) trivial [conversation](/post/conversation/) [about](/post/about/) unimportant matters.
+- "[Idle](/post/idle/) [curiosity](/post/curiosity/)" describes [a](/post/a/) [desire](/post/desire/) [to](/post/to/) [know](/post/know/) [something](/post/something/) [without](/post/without/) [any](/post/any/) [practical](/post/practical/) [reason](/post/reason/).
+- "[Idle](/post/idle/) hands are [the](/post/the/) devil's [workshop](/post/workshop/)" is [a](/post/a/) proverb suggesting [that](/post/that/) [people](/post/people/) [who](/post/who/) [have](/post/have/) [nothing](/post/nothing/) [to](/post/to/) [do](/post/do/) are [likely](/post/likely/) [to](/post/to/) [get](/post/get/) [into](/post/into/) [trouble](/post/trouble/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [machine](/en/post/machine/) [will](/en/post/will/) [go](/en/post/go/) [into](/en/post/into/) [idle](/en/post/idle/) [mode](/en/post/mode/) [when](/en/post/when/) it's [not](/en/post/not/) [being](/en/post/being/) [used](/en/post/used/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) idled [by](/en/post/by/) [the](/en/post/the/) riverbank, enjoying [the](/en/post/the/) [sunset](/en/post/sunset/)."
-- **[Noun](/en/post/noun/)**: "Don't [become](/en/post/become/) an [idle](/en/post/idle/); [find](/en/post/find/) [a](/en/post/a/) [hobby](/en/post/hobby/) [or](/en/post/or/) [a](/en/post/a/) [job](/en/post/job/) [to](/en/post/to/) [keep](/en/post/keep/) [yourself](/en/post/yourself/) [busy](/en/post/busy/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [machine](/post/machine/) [will](/post/will/) [go](/post/go/) [into](/post/into/) [idle](/post/idle/) [mode](/post/mode/) [when](/post/when/) it's [not](/post/not/) [being](/post/being/) [used](/post/used/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) idled [by](/post/by/) [the](/post/the/) riverbank, enjoying [the](/post/the/) [sunset](/post/sunset/)."
+- **[Noun](/post/noun/)**: "Don't [become](/post/become/) an [idle](/post/idle/); [find](/post/find/) [a](/post/a/) [hobby](/post/hobby/) [or](/post/or/) [a](/post/a/) [job](/post/job/) [to](/post/to/) [keep](/post/keep/) [yourself](/post/yourself/) [busy](/post/busy/)."
 
 ## Synonyms
 - Unemployed
 - Unoccupied
 - Inactive
-- [Lazy](/en/post/lazy/)
+- [Lazy](/post/lazy/)
 - Sluggish
-- Doleful ([for](/en/post/for/) [a](/en/post/a/) [person](/en/post/person/))
-- Languid ([for](/en/post/for/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [action](/en/post/action/))
-- Leisurely ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) relaxed [pace](/en/post/pace/) [of](/en/post/of/) [activity](/en/post/activity/))
-- Motionless ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [not](/en/post/not/) moving [or](/en/post/or/) functioning)
+- Doleful ([for](/post/for/) [a](/post/a/) [person](/post/person/))
+- Languid ([for](/post/for/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [action](/post/action/))
+- Leisurely ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) relaxed [pace](/post/pace/) [of](/post/of/) [activity](/post/activity/))
+- Motionless ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [not](/post/not/) moving [or](/post/or/) functioning)

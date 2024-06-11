@@ -11,20 +11,20 @@ keywords = ['ai words', 'inquiry']
 /inˈkweri/
 
 ## 释义
-- **名词**: 调查，询问，查询。例如: "[The](/post/the/) [company](/post/company/) is conducting an [inquiry](/post/inquiry/) [into](/post/into/) [the](/post/the/) [accident](/post/accident/)."
-- **动词**: 进行调查，询问。例如: "[The](/post/the/) [police](/post/police/) are inquiring [into](/post/into/) [the](/post/the/) [missing](/post/missing/) person's whereabouts."
+- **名词**: 调查，询问，查询。例如: "[The](/zh/post/the/) [company](/zh/post/company/) is conducting an [inquiry](/zh/post/inquiry/) [into](/zh/post/into/) [the](/zh/post/the/) [accident](/zh/post/accident/)."
+- **动词**: 进行调查，询问。例如: "[The](/zh/post/the/) [police](/zh/post/police/) are inquiring [into](/zh/post/into/) [the](/zh/post/the/) [missing](/zh/post/missing/) person's whereabouts."
 
 ## 短语
-- "[Make](/post/make/) an [inquiry](/post/inquiry/)" 意为进行询问或查询。
-- "Inquiry-based [learning](/post/learning/)" 是一种基于问题和探索的学习方法。
+- "[Make](/zh/post/make/) an [inquiry](/zh/post/inquiry/)" 意为进行询问或查询。
+- "Inquiry-based [learning](/zh/post/learning/)" 是一种基于问题和探索的学习方法。
 
 ## 例句
-- 名词: "[The](/post/the/) [customer](/post/customer/) [service](/post/service/) [department](/post/department/) is handling [numerous](/post/numerous/) inquiries [about](/post/about/) [the](/post/the/) [product](/post/product/)."
-- 动词: "[The](/post/the/) [journalist](/post/journalist/) decided [to](/post/to/) [inquire](/post/inquire/) [further](/post/further/) [into](/post/into/) [the](/post/the/) politician's [past](/post/past/) records."
+- 名词: "[The](/zh/post/the/) [customer](/zh/post/customer/) [service](/zh/post/service/) [department](/zh/post/department/) is handling [numerous](/zh/post/numerous/) inquiries [about](/zh/post/about/) [the](/zh/post/the/) [product](/zh/post/product/)."
+- 动词: "[The](/zh/post/the/) [journalist](/zh/post/journalist/) decided [to](/zh/post/to/) [inquire](/zh/post/inquire/) [further](/zh/post/further/) [into](/zh/post/into/) [the](/zh/post/the/) politician's [past](/zh/post/past/) records."
 
 ## 同义词
-- [Question](/post/question/)
+- [Question](/zh/post/question/)
 - Query
-- [Investigation](/post/investigation/)
+- [Investigation](/zh/post/investigation/)
 - Probe
-- [Examination](/post/examination/)
+- [Examination](/zh/post/examination/)

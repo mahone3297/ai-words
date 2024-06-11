@@ -7,32 +7,32 @@ description = '[ˈmæri] vt.娶，嫁 vi.结婚'
 keywords = ['ai words', 'marry']
 +++
 
-## [Word](/en/post/word/): [Marry](/en/post/marry/)
+## [Word](/post/word/): [Marry](/post/marry/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmæri/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [unite](/en/post/unite/) [in](/en/post/in/) [marriage](/en/post/marriage/); [to](/en/post/to/) [take](/en/post/take/) [someone](/en/post/someone/) [as](/en/post/as/) [a](/en/post/a/) [husband](/en/post/husband/) [or](/en/post/or/) [wife](/en/post/wife/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [marry](/en/post/marry/) [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) engagement."
-  - _Also [used](/en/post/used/) [in](/en/post/in/) [passive](/en/post/passive/) form_: "[She](/en/post/she/) was [married](/en/post/married/) [to](/en/post/to/) [a](/en/post/a/) [wealthy](/en/post/wealthy/) businessman."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [join](/en/post/join/) [or](/en/post/or/) [combine](/en/post/combine/) [two](/en/post/two/) things inseparably. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) chef marries [sweet](/en/post/sweet/) [and](/en/post/and/) savory flavors [in](/en/post/in/) [his](/en/post/his/) dishes."
-- **[Verb](/en/post/verb/)**: (archaic) [To](/en/post/to/) [give](/en/post/give/) ([a](/en/post/a/) [woman](/en/post/woman/)) [in](/en/post/in/) [marriage](/en/post/marriage/).
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [unite](/post/unite/) [in](/post/in/) [marriage](/post/marriage/); [to](/post/to/) [take](/post/take/) [someone](/post/someone/) [as](/post/as/) [a](/post/a/) [husband](/post/husband/) [or](/post/or/) [wife](/post/wife/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [marry](/post/marry/) [after](/post/after/) [a](/post/a/) [long](/post/long/) engagement."
+  - _Also [used](/post/used/) [in](/post/in/) [passive](/post/passive/) form_: "[She](/post/she/) was [married](/post/married/) [to](/post/to/) [a](/post/a/) [wealthy](/post/wealthy/) businessman."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [join](/post/join/) [or](/post/or/) [combine](/post/combine/) [two](/post/two/) things inseparably. [For](/post/for/) [example](/post/example/): "[The](/post/the/) chef marries [sweet](/post/sweet/) [and](/post/and/) savory flavors [in](/post/in/) [his](/post/his/) dishes."
+- **[Verb](/post/verb/)**: (archaic) [To](/post/to/) [give](/post/give/) ([a](/post/a/) [woman](/post/woman/)) [in](/post/in/) [marriage](/post/marriage/).
 
 ## Phrases
-- "[Marry](/en/post/marry/) [someone](/en/post/someone/) [off](/en/post/off/)" [means](/en/post/means/) [to](/en/post/to/) [arrange](/en/post/arrange/) [for](/en/post/for/) [someone](/en/post/someone/) [to](/en/post/to/) [get](/en/post/get/) [married](/en/post/married/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) urgency [or](/en/post/or/) [without](/en/post/without/) [their](/en/post/their/) [full](/en/post/full/) [consent](/en/post/consent/).
-- "[To](/en/post/to/) [be](/en/post/be/)/[get](/en/post/get/) [married](/en/post/married/) [to](/en/post/to/) [someone](/en/post/someone/)" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) united [in](/en/post/in/) [marriage](/en/post/marriage/) [with](/en/post/with/) [someone](/en/post/someone/).
-- "[Marry](/en/post/marry/) [in](/en/post/in/) [haste](/en/post/haste/), [repent](/en/post/repent/) [at](/en/post/at/) [leisure](/en/post/leisure/)" is [a](/en/post/a/) proverb warning [against](/en/post/against/) rushing [into](/en/post/into/) [marriage](/en/post/marriage/) [without](/en/post/without/) [due](/en/post/due/) [consideration](/en/post/consideration/).
+- "[Marry](/post/marry/) [someone](/post/someone/) [off](/post/off/)" [means](/post/means/) [to](/post/to/) [arrange](/post/arrange/) [for](/post/for/) [someone](/post/someone/) [to](/post/to/) [get](/post/get/) [married](/post/married/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) urgency [or](/post/or/) [without](/post/without/) [their](/post/their/) [full](/post/full/) [consent](/post/consent/).
+- "[To](/post/to/) [be](/post/be/)/[get](/post/get/) [married](/post/married/) [to](/post/to/) [someone](/post/someone/)" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) [being](/post/being/) united [in](/post/in/) [marriage](/post/marriage/) [with](/post/with/) [someone](/post/someone/).
+- "[Marry](/post/marry/) [in](/post/in/) [haste](/post/haste/), [repent](/post/repent/) [at](/post/at/) [leisure](/post/leisure/)" is [a](/post/a/) proverb warning [against](/post/against/) rushing [into](/post/into/) [marriage](/post/marriage/) [without](/post/without/) [due](/post/due/) [consideration](/post/consideration/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([marriage](/en/post/marriage/))**: "[After](/en/post/after/) dating [for](/en/post/for/) [several](/en/post/several/) years, [they](/en/post/they/) [finally](/en/post/finally/) decided [to](/en/post/to/) [marry](/en/post/marry/)."
-- **[Verb](/en/post/verb/) ([combine](/en/post/combine/))**: "[The](/en/post/the/) artist's [work](/en/post/work/) marries [traditional](/en/post/traditional/) techniques [with](/en/post/with/) [modern](/en/post/modern/) aesthetics."
-- **Archival [use](/en/post/use/)**: "[In](/en/post/in/) [ancient](/en/post/ancient/) times, daughters were [often](/en/post/often/) [married](/en/post/married/) [off](/en/post/off/) [to](/en/post/to/) forge [political](/en/post/political/) alliances."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([marriage](/post/marriage/))**: "[After](/post/after/) dating [for](/post/for/) [several](/post/several/) years, [they](/post/they/) [finally](/post/finally/) decided [to](/post/to/) [marry](/post/marry/)."
+- **[Verb](/post/verb/) ([combine](/post/combine/))**: "[The](/post/the/) artist's [work](/post/work/) marries [traditional](/post/traditional/) techniques [with](/post/with/) [modern](/post/modern/) aesthetics."
+- **Archival [use](/post/use/)**: "[In](/post/in/) [ancient](/post/ancient/) times, daughters were [often](/post/often/) [married](/post/married/) [off](/post/off/) [to](/post/to/) forge [political](/post/political/) alliances."
 
 ## Synonyms
 - Wed
-- [Unite](/en/post/unite/)
-- [Join](/en/post/join/)
-- [Combine](/en/post/combine/)
-- [Tie](/en/post/tie/) [the](/en/post/the/) [knot](/en/post/knot/)
-- [Get](/en/post/get/) hitched
+- [Unite](/post/unite/)
+- [Join](/post/join/)
+- [Combine](/post/combine/)
+- [Tie](/post/tie/) [the](/post/the/) [knot](/post/knot/)
+- [Get](/post/get/) hitched
 - Espouse

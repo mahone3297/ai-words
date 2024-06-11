@@ -11,20 +11,20 @@ keywords = ['ai words', 'pacific']
 /pəˈsɪfɪk/
 
 ## 释义
-- **形容词**: 平静的，和平的，宁静的。例如: "[The](/post/the/) [pacific](/post/pacific/) [ocean](/post/ocean/) is known [for](/post/for/) [its](/post/its/) [calm](/post/calm/) waters."
-- **名词**: 太平洋，地球上最大的海洋。例如: "[They](/post/they/) sailed [across](/post/across/) [the](/post/the/) [Pacific](/post/pacific/) [Ocean](/post/ocean/) [to](/post/to/) [reach](/post/reach/) [Australia](/post/australia/)."
+- **形容词**: 平静的，和平的，宁静的。例如: "[The](/zh/post/the/) [pacific](/zh/post/pacific/) [ocean](/zh/post/ocean/) is known [for](/zh/post/for/) [its](/zh/post/its/) [calm](/zh/post/calm/) waters."
+- **名词**: 太平洋，地球上最大的海洋。例如: "[They](/zh/post/they/) sailed [across](/zh/post/across/) [the](/zh/post/the/) [Pacific](/zh/post/pacific/) [Ocean](/zh/post/ocean/) [to](/zh/post/to/) [reach](/zh/post/reach/) [Australia](/zh/post/australia/)."
 
 ## 短语
-- "[Pacific](/post/pacific/) Rim" 指太平洋沿岸地区。
-- "[Pacific](/post/pacific/) [Time](/post/time/)" 是美国和加拿大西部采用的时区。
+- "[Pacific](/zh/post/pacific/) Rim" 指太平洋沿岸地区。
+- "[Pacific](/zh/post/pacific/) [Time](/zh/post/time/)" 是美国和加拿大西部采用的时区。
 
 ## 例句
-- 形容词: "[After](/post/after/) [the](/post/the/) [storm](/post/storm/), [the](/post/the/) [sea](/post/sea/) became [pacific](/post/pacific/) [again](/post/again/)."
-- 名词: "[We](/post/we/) [plan](/post/plan/) [to](/post/to/) [explore](/post/explore/) [the](/post/the/) exotic islands [in](/post/in/) [the](/post/the/) [Pacific](/post/pacific/)."
+- 形容词: "[After](/zh/post/after/) [the](/zh/post/the/) [storm](/zh/post/storm/), [the](/zh/post/the/) [sea](/zh/post/sea/) became [pacific](/zh/post/pacific/) [again](/zh/post/again/)."
+- 名词: "[We](/zh/post/we/) [plan](/zh/post/plan/) [to](/zh/post/to/) [explore](/zh/post/explore/) [the](/zh/post/the/) exotic islands [in](/zh/post/in/) [the](/zh/post/the/) [Pacific](/zh/post/pacific/)."
 
 ## 同义词
-- [Calm](/post/calm/)
+- [Calm](/zh/post/calm/)
 - Serene
 - Tranquil
-- [Quiet](/post/quiet/)
-- [Peaceful](/post/peaceful/)
+- [Quiet](/zh/post/quiet/)
+- [Peaceful](/zh/post/peaceful/)

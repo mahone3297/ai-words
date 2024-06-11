@@ -7,30 +7,30 @@ description = '[ˈfiːzəbl] a.可行的；可能的'
 keywords = ['ai words', 'feasible']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fiːˈzəbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) done, accomplished, [or](/en/post/or/) carried [out](/en/post/out/) [with](/en/post/with/) [available](/en/post/available/) [means](/en/post/means/) [or](/en/post/or/) resources; practicable. [For](/en/post/for/) [example](/en/post/example/): "[Building](/en/post/building/) [a](/en/post/a/) [bridge](/en/post/bridge/) [across](/en/post/across/) [the](/en/post/the/) [river](/en/post/river/) is [feasible](/en/post/feasible/), given [the](/en/post/the/) [necessary](/en/post/necessary/) funding."
+- **[Adjective](/post/adjective/)**: [Capable](/post/capable/) [of](/post/of/) [being](/post/being/) done, accomplished, [or](/post/or/) carried [out](/post/out/) [with](/post/with/) [available](/post/available/) [means](/post/means/) [or](/post/or/) resources; practicable. [For](/post/for/) [example](/post/example/): "[Building](/post/building/) [a](/post/a/) [bridge](/post/bridge/) [across](/post/across/) [the](/post/the/) [river](/post/river/) is [feasible](/post/feasible/), given [the](/post/the/) [necessary](/post/necessary/) funding."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/):
-- "[The](/en/post/the/) [project](/en/post/project/) manager assessed [whether](/en/post/whether/) finishing [the](/en/post/the/) [project](/en/post/project/) [within](/en/post/within/) [the](/en/post/the/) deadline was [feasible](/en/post/feasible/)."
+[Example](/post/example/) [Sentence](/post/sentence/):
+- "[The](/post/the/) [project](/post/project/) manager assessed [whether](/post/whether/) finishing [the](/post/the/) [project](/post/project/) [within](/post/within/) [the](/post/the/) deadline was [feasible](/post/feasible/)."
 
 Phrases
-- "Feasibility [study](/en/post/study/)": An [analysis](/en/post/analysis/) [of](/en/post/of/) [the](/en/post/the/) practicality [of](/en/post/of/) [a](/en/post/a/) proposed [plan](/en/post/plan/) [or](/en/post/or/) [system](/en/post/system/) [before](/en/post/before/) [it](/en/post/it/) is implemented.
-- "[A](/en/post/a/) [feasible](/en/post/feasible/) [solution](/en/post/solution/)": [A](/en/post/a/) [possible](/en/post/possible/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) realistically achieved given constraints [like](/en/post/like/) [time](/en/post/time/), [money](/en/post/money/), [or](/en/post/or/) [technology](/en/post/technology/).
+- "Feasibility [study](/post/study/)": An [analysis](/post/analysis/) [of](/post/of/) [the](/post/the/) practicality [of](/post/of/) [a](/post/a/) proposed [plan](/post/plan/) [or](/post/or/) [system](/post/system/) [before](/post/before/) [it](/post/it/) is implemented.
+- "[A](/post/a/) [feasible](/post/feasible/) [solution](/post/solution/)": [A](/post/a/) [possible](/post/possible/) [course](/post/course/) [of](/post/of/) [action](/post/action/) [that](/post/that/) [can](/post/can/) [be](/post/be/) realistically achieved given constraints [like](/post/like/) [time](/post/time/), [money](/post/money/), [or](/post/or/) [technology](/post/technology/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[After](/en/post/after/) conducting [a](/en/post/a/) feasibility [study](/en/post/study/), [they](/en/post/they/) concluded [that](/en/post/that/) constructing [a](/en/post/a/) [wind](/en/post/wind/) [farm](/en/post/farm/) [in](/en/post/in/) [the](/en/post/the/) [area](/en/post/area/) was [indeed](/en/post/indeed/) [feasible](/en/post/feasible/)."
-- "[The](/en/post/the/) [company](/en/post/company/) seeks [a](/en/post/a/) [feasible](/en/post/feasible/) [strategy](/en/post/strategy/) [to](/en/post/to/) [increase](/en/post/increase/) [its](/en/post/its/) [market](/en/post/market/) [share](/en/post/share/) [without](/en/post/without/) significantly increasing costs."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[After](/post/after/) conducting [a](/post/a/) feasibility [study](/post/study/), [they](/post/they/) concluded [that](/post/that/) constructing [a](/post/a/) [wind](/post/wind/) [farm](/post/farm/) [in](/post/in/) [the](/post/the/) [area](/post/area/) was [indeed](/post/indeed/) [feasible](/post/feasible/)."
+- "[The](/post/the/) [company](/post/company/) seeks [a](/post/a/) [feasible](/post/feasible/) [strategy](/post/strategy/) [to](/post/to/) [increase](/post/increase/) [its](/post/its/) [market](/post/market/) [share](/post/share/) [without](/post/without/) significantly increasing costs."
 
 ## Synonyms
-- [Practical](/en/post/practical/)
+- [Practical](/post/practical/)
 - Achievable
 - Doable
 - Viable
 - Workable
-- [Possible](/en/post/possible/)
+- [Possible](/post/possible/)
 - Realistic
 - Implementable
 
@@ -39,4 +39,4 @@ Antonyms
 - Infeasible
 - Unattainable
 - Unrealistic
-- [Impossible](/en/post/impossible/)
+- [Impossible](/post/impossible/)

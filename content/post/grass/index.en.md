@@ -7,30 +7,30 @@ description = '[grɑːs] n.草；牧草；草地'
 keywords = ['ai words', 'grass']
 +++
 
-## [Word](/en/post/word/): [Grass](/en/post/grass/)
+## [Word](/post/word/): [Grass](/post/grass/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /graːs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [green](/en/post/green/), [usually](/en/post/usually/) herbaceous [plant](/en/post/plant/) [with](/en/post/with/) [narrow](/en/post/narrow/) leaves [that](/en/post/that/) [grow](/en/post/grow/) [close](/en/post/close/) [together](/en/post/together/) [in](/en/post/in/) [a](/en/post/a/) [mat](/en/post/mat/), typically [found](/en/post/found/) covering [the](/en/post/the/) [ground](/en/post/ground/) [in](/en/post/in/) lawns, meadows, [and](/en/post/and/) [other](/en/post/other/) [natural](/en/post/natural/) environments. It's [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) landscaping, [as](/en/post/as/) [animal](/en/post/animal/) [feed](/en/post/feed/), [and](/en/post/and/) [can](/en/post/can/) [be](/en/post/be/) [cut](/en/post/cut/) [and](/en/post/and/) dried [for](/en/post/for/) [use](/en/post/use/) [as](/en/post/as/) [hay](/en/post/hay/) [or](/en/post/or/) silage. [Example](/en/post/example/): "[The](/en/post/the/) cows were grazing [on](/en/post/on/) lush [grass](/en/post/grass/) [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/)."
-- **[Noun](/en/post/noun/) (informal)**: Marijuana, [especially](/en/post/especially/) [when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) recreational [drug](/en/post/drug/). [Example](/en/post/example/): "[He](/en/post/he/) was caught smoking [grass](/en/post/grass/) [at](/en/post/at/) [the](/en/post/the/) [park](/en/post/park/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [green](/post/green/), [usually](/post/usually/) herbaceous [plant](/post/plant/) [with](/post/with/) [narrow](/post/narrow/) leaves [that](/post/that/) [grow](/post/grow/) [close](/post/close/) [together](/post/together/) [in](/post/in/) [a](/post/a/) [mat](/post/mat/), typically [found](/post/found/) covering [the](/post/the/) [ground](/post/ground/) [in](/post/in/) lawns, meadows, [and](/post/and/) [other](/post/other/) [natural](/post/natural/) environments. It's [often](/post/often/) [used](/post/used/) [for](/post/for/) landscaping, [as](/post/as/) [animal](/post/animal/) [feed](/post/feed/), [and](/post/and/) [can](/post/can/) [be](/post/be/) [cut](/post/cut/) [and](/post/and/) dried [for](/post/for/) [use](/post/use/) [as](/post/as/) [hay](/post/hay/) [or](/post/or/) silage. [Example](/post/example/): "[The](/post/the/) cows were grazing [on](/post/on/) lush [grass](/post/grass/) [in](/post/in/) [the](/post/the/) [field](/post/field/)."
+- **[Noun](/post/noun/) (informal)**: Marijuana, [especially](/post/especially/) [when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) recreational [drug](/post/drug/). [Example](/post/example/): "[He](/post/he/) was caught smoking [grass](/post/grass/) [at](/post/at/) [the](/post/the/) [park](/post/park/)."
   
 ## Phrases
-- "[The](/en/post/the/) [grass](/en/post/grass/) is [always](/en/post/always/) greener [on](/en/post/on/) [the](/en/post/the/) [other](/en/post/other/) [side](/en/post/side/)": [This](/en/post/this/) idiomatic [expression](/en/post/expression/) suggests [that](/en/post/that/) [people](/en/post/people/) [tend](/en/post/tend/) [to](/en/post/to/) [think](/en/post/think/) others' situations are [better](/en/post/better/) [than](/en/post/than/) [their](/en/post/their/) [own](/en/post/own/), [often](/en/post/often/) [without](/en/post/without/) justification.
-- "[Keep](/en/post/keep/) [off](/en/post/off/) [the](/en/post/the/) [grass](/en/post/grass/)": [A](/en/post/a/) [sign](/en/post/sign/) seen [in](/en/post/in/) parks [or](/en/post/or/) gardens indicating [that](/en/post/that/) visitors [should](/en/post/should/) [not](/en/post/not/) [walk](/en/post/walk/) [or](/en/post/or/) [stand](/en/post/stand/) [on](/en/post/on/) [the](/en/post/the/) [grass](/en/post/grass/).
-- "[Cut](/en/post/cut/) [the](/en/post/the/) [grass](/en/post/grass/)": [To](/en/post/to/) mow [the](/en/post/the/) [lawn](/en/post/lawn/) [or](/en/post/or/) [maintain](/en/post/maintain/) [the](/en/post/the/) [grass](/en/post/grass/) [by](/en/post/by/) trimming [it](/en/post/it/) [to](/en/post/to/) an [even](/en/post/even/) [height](/en/post/height/).
+- "[The](/post/the/) [grass](/post/grass/) is [always](/post/always/) greener [on](/post/on/) [the](/post/the/) [other](/post/other/) [side](/post/side/)": [This](/post/this/) idiomatic [expression](/post/expression/) suggests [that](/post/that/) [people](/post/people/) [tend](/post/tend/) [to](/post/to/) [think](/post/think/) others' situations are [better](/post/better/) [than](/post/than/) [their](/post/their/) [own](/post/own/), [often](/post/often/) [without](/post/without/) justification.
+- "[Keep](/post/keep/) [off](/post/off/) [the](/post/the/) [grass](/post/grass/)": [A](/post/a/) [sign](/post/sign/) seen [in](/post/in/) parks [or](/post/or/) gardens indicating [that](/post/that/) visitors [should](/post/should/) [not](/post/not/) [walk](/post/walk/) [or](/post/or/) [stand](/post/stand/) [on](/post/on/) [the](/post/the/) [grass](/post/grass/).
+- "[Cut](/post/cut/) [the](/post/the/) [grass](/post/grass/)": [To](/post/to/) mow [the](/post/the/) [lawn](/post/lawn/) [or](/post/or/) [maintain](/post/maintain/) [the](/post/the/) [grass](/post/grass/) [by](/post/by/) trimming [it](/post/it/) [to](/post/to/) an [even](/post/even/) [height](/post/height/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([plant](/en/post/plant/))**: "[The](/en/post/the/) children played [soccer](/en/post/soccer/) [on](/en/post/on/) [the](/en/post/the/) freshly [cut](/en/post/cut/) [grass](/en/post/grass/)."
-- **[Noun](/en/post/noun/) (informal)**: "[In](/en/post/in/) [some](/en/post/some/) states, [possession](/en/post/possession/) [of](/en/post/of/) [small](/en/post/small/) amounts [of](/en/post/of/) [grass](/en/post/grass/) has been decriminalized."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([plant](/post/plant/))**: "[The](/post/the/) children played [soccer](/post/soccer/) [on](/post/on/) [the](/post/the/) freshly [cut](/post/cut/) [grass](/post/grass/)."
+- **[Noun](/post/noun/) (informal)**: "[In](/post/in/) [some](/post/some/) states, [possession](/post/possession/) [of](/post/of/) [small](/post/small/) amounts [of](/post/of/) [grass](/post/grass/) has been decriminalized."
 
 ## Synonyms
-- [Lawn](/en/post/lawn/)
+- [Lawn](/post/lawn/)
 - Turf
-- [Meadow](/en/post/meadow/)
+- [Meadow](/post/meadow/)
 - Pasture
 - Herbage
 - Sod
-- [Pot](/en/post/pot/) (informal, [for](/en/post/for/) [the](/en/post/the/) [drug](/en/post/drug/) [sense](/en/post/sense/))
-- [Weed](/en/post/weed/) (informal, [for](/en/post/for/) [the](/en/post/the/) [drug](/en/post/drug/) [sense](/en/post/sense/))
+- [Pot](/post/pot/) (informal, [for](/post/for/) [the](/post/the/) [drug](/post/drug/) [sense](/post/sense/))
+- [Weed](/post/weed/) (informal, [for](/post/for/) [the](/post/the/) [drug](/post/drug/) [sense](/post/sense/))

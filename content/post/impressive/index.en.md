@@ -7,34 +7,34 @@ description = '[imˈpresiv] a.给人印象深刻的'
 keywords = ['ai words', 'impressive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪmˈpreʃəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Impressive](/en/post/impressive/) refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) evokes admiration [or](/en/post/or/) awe [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [remarkable](/en/post/remarkable/) [quality](/en/post/quality/), [size](/en/post/size/), [or](/en/post/or/) [skill](/en/post/skill/). [It](/en/post/it/) suggests [a](/en/post/a/) [strong](/en/post/strong/), [positive](/en/post/positive/) [impact](/en/post/impact/) [on](/en/post/on/) one's senses [or](/en/post/or/) emotions. 
+- **[Adjective](/post/adjective/)**: [Impressive](/post/impressive/) refers [to](/post/to/) [something](/post/something/) [that](/post/that/) evokes admiration [or](/post/or/) awe [due](/post/due/) [to](/post/to/) [its](/post/its/) [remarkable](/post/remarkable/) [quality](/post/quality/), [size](/post/size/), [or](/post/or/) [skill](/post/skill/). [It](/post/it/) suggests [a](/post/a/) [strong](/post/strong/), [positive](/post/positive/) [impact](/post/impact/) [on](/post/on/) one's senses [or](/post/or/) emotions. 
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _The grandeur [of](/en/post/of/) [the](/en/post/the/) [palace](/en/post/palace/) was [truly](/en/post/truly/) [impressive](/en/post/impressive/)._
+[Example](/post/example/) [sentence](/post/sentence/): _The grandeur [of](/post/of/) [the](/post/the/) [palace](/post/palace/) was [truly](/post/truly/) [impressive](/post/impressive/)._
 
-Phrases [with](/en/post/with/) "[impressive](/en/post/impressive/)":
-- "[Impressive](/en/post/impressive/) feat": Describes an [achievement](/en/post/achievement/) [that](/en/post/that/) requires [considerable](/en/post/considerable/) [skill](/en/post/skill/), [strength](/en/post/strength/), [or](/en/post/or/) ingenuity.
-  - [Example](/en/post/example/): "Winning [the](/en/post/the/) marathon [in](/en/post/in/) [record](/en/post/record/) [time](/en/post/time/) was an [impressive](/en/post/impressive/) feat."
+Phrases [with](/post/with/) "[impressive](/post/impressive/)":
+- "[Impressive](/post/impressive/) feat": Describes an [achievement](/post/achievement/) [that](/post/that/) requires [considerable](/post/considerable/) [skill](/post/skill/), [strength](/post/strength/), [or](/post/or/) ingenuity.
+  - [Example](/post/example/): "Winning [the](/post/the/) marathon [in](/post/in/) [record](/post/record/) [time](/post/time/) was an [impressive](/post/impressive/) feat."
   
-- "[Impressive](/en/post/impressive/) [resume](/en/post/resume/)": Refers [to](/en/post/to/) [a](/en/post/a/) curriculum vitae [that](/en/post/that/) displays [a](/en/post/a/) [strong](/en/post/strong/) [set](/en/post/set/) [of](/en/post/of/) qualifications [and](/en/post/and/) accomplishments.
-  - [Example](/en/post/example/): "[Her](/en/post/her/) [impressive](/en/post/impressive/) [resume](/en/post/resume/) landed [her](/en/post/her/) [the](/en/post/the/) [job](/en/post/job/) [at](/en/post/at/) [the](/en/post/the/) prestigious [firm](/en/post/firm/)."
+- "[Impressive](/post/impressive/) [resume](/post/resume/)": Refers [to](/post/to/) [a](/post/a/) curriculum vitae [that](/post/that/) displays [a](/post/a/) [strong](/post/strong/) [set](/post/set/) [of](/post/of/) qualifications [and](/post/and/) accomplishments.
+  - [Example](/post/example/): "[Her](/post/her/) [impressive](/post/impressive/) [resume](/post/resume/) landed [her](/post/her/) [the](/post/the/) [job](/post/job/) [at](/post/at/) [the](/post/the/) prestigious [firm](/post/firm/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [technology](/en/post/technology/) is [impressive](/en/post/impressive/) [for](/en/post/for/) [its](/en/post/its/) [ability](/en/post/ability/) [to](/en/post/to/) [process](/en/post/process/) [data](/en/post/data/) [so](/en/post/so/) [quickly](/en/post/quickly/)."
-- "[His](/en/post/his/) [public](/en/post/public/) speaking skills were [nothing](/en/post/nothing/) [short](/en/post/short/) [of](/en/post/of/) [impressive](/en/post/impressive/); [he](/en/post/he/) captivated [the](/en/post/the/) [entire](/en/post/entire/) [audience](/en/post/audience/)."
-- "[She](/en/post/she/) showcased an [impressive](/en/post/impressive/) [collection](/en/post/collection/) [of](/en/post/of/) artwork [at](/en/post/at/) [the](/en/post/the/) [gallery](/en/post/gallery/) [opening](/en/post/opening/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [technology](/post/technology/) is [impressive](/post/impressive/) [for](/post/for/) [its](/post/its/) [ability](/post/ability/) [to](/post/to/) [process](/post/process/) [data](/post/data/) [so](/post/so/) [quickly](/post/quickly/)."
+- "[His](/post/his/) [public](/post/public/) speaking skills were [nothing](/post/nothing/) [short](/post/short/) [of](/post/of/) [impressive](/post/impressive/); [he](/post/he/) captivated [the](/post/the/) [entire](/post/entire/) [audience](/post/audience/)."
+- "[She](/post/she/) showcased an [impressive](/post/impressive/) [collection](/post/collection/) [of](/post/of/) artwork [at](/post/at/) [the](/post/the/) [gallery](/post/gallery/) [opening](/post/opening/)."
 
 ## Synonyms
 - Admirable
-- [Impressive](/en/post/impressive/)
+- [Impressive](/post/impressive/)
 - Stunning
 - Awe-inspiring
 - Notable
-- [Remarkable](/en/post/remarkable/)
-- [Outstanding](/en/post/outstanding/)
+- [Remarkable](/post/remarkable/)
+- [Outstanding](/post/outstanding/)
 - Spectacular
 - Dazzling
 - Impressive-looking

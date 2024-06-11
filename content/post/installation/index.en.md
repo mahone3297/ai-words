@@ -7,30 +7,30 @@ description = '[ˌinstəˈlei∫ən] n.安装；装置；设施'
 keywords = ['ai words', 'installation']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnstəˈleɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) installing [something](/en/post/something/), [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [setting](/en/post/setting/) [up](/en/post/up/) [or](/en/post/or/) putting [equipment](/en/post/equipment/), systems, [or](/en/post/or/) software [in](/en/post/in/) [place](/en/post/place/) [so](/en/post/so/) [that](/en/post/that/) [they](/en/post/they/) are [ready](/en/post/ready/) [for](/en/post/for/) [use](/en/post/use/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [installation](/en/post/installation/) [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) [air](/en/post/air/) conditioning [unit](/en/post/unit/) took [several](/en/post/several/) hours."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [thing](/en/post/thing/) [that](/en/post/that/) has been installed, [especially](/en/post/especially/) [a](/en/post/a/) [work](/en/post/work/) [of](/en/post/of/) [art](/en/post/art/) [or](/en/post/or/) [exhibit](/en/post/exhibit/) [that](/en/post/that/) is designed [to](/en/post/to/) [be](/en/post/be/) displayed [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [location](/en/post/location/) [or](/en/post/or/) [environment](/en/post/environment/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) museum's latest [installation](/en/post/installation/) explores themes [of](/en/post/of/) [light](/en/post/light/) [and](/en/post/and/) [space](/en/post/space/)."
-- **[Noun](/en/post/noun/)**: [In](/en/post/in/) [military](/en/post/military/) terms, [it](/en/post/it/) refers [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) buildings [or](/en/post/or/) facilities established [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/) [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [military](/en/post/military/) [base](/en/post/base/) [or](/en/post/or/) [camp](/en/post/camp/). [Example](/en/post/example/): "[The](/en/post/the/) soldiers were assigned [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [installation](/en/post/installation/) [overseas](/en/post/overseas/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) installing [something](/post/something/), [the](/post/the/) [process](/post/process/) [of](/post/of/) [setting](/post/setting/) [up](/post/up/) [or](/post/or/) putting [equipment](/post/equipment/), systems, [or](/post/or/) software [in](/post/in/) [place](/post/place/) [so](/post/so/) [that](/post/that/) [they](/post/they/) are [ready](/post/ready/) [for](/post/for/) [use](/post/use/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [installation](/post/installation/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [air](/post/air/) conditioning [unit](/post/unit/) took [several](/post/several/) hours."
+- **[Noun](/post/noun/)**: [A](/post/a/) [thing](/post/thing/) [that](/post/that/) has been installed, [especially](/post/especially/) [a](/post/a/) [work](/post/work/) [of](/post/of/) [art](/post/art/) [or](/post/or/) [exhibit](/post/exhibit/) [that](/post/that/) is designed [to](/post/to/) [be](/post/be/) displayed [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [location](/post/location/) [or](/post/or/) [environment](/post/environment/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) museum's latest [installation](/post/installation/) explores themes [of](/post/of/) [light](/post/light/) [and](/post/and/) [space](/post/space/)."
+- **[Noun](/post/noun/)**: [In](/post/in/) [military](/post/military/) terms, [it](/post/it/) refers [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) buildings [or](/post/or/) facilities established [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/) [such](/post/such/) [as](/post/as/) [a](/post/a/) [military](/post/military/) [base](/post/base/) [or](/post/or/) [camp](/post/camp/). [Example](/post/example/): "[The](/post/the/) soldiers were assigned [to](/post/to/) [a](/post/a/) [new](/post/new/) [installation](/post/installation/) [overseas](/post/overseas/)."
 
 ## Phrases
-- "[Installation](/en/post/installation/) [process](/en/post/process/)": [The](/en/post/the/) [series](/en/post/series/) [of](/en/post/of/) steps taken [to](/en/post/to/) [install](/en/post/install/) [or](/en/post/or/) [set](/en/post/set/) [up](/en/post/up/) [something](/en/post/something/).
-- "[Installation](/en/post/installation/) [art](/en/post/art/)": [A](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [contemporary](/en/post/contemporary/) [art](/en/post/art/) [where](/en/post/where/) [the](/en/post/the/) [artist](/en/post/artist/) creates an [environment](/en/post/environment/) [or](/en/post/or/) an [experience](/en/post/experience/) [often](/en/post/often/) using three-dimensional objects [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [space](/en/post/space/).
-- "[System](/en/post/system/) [installation](/en/post/installation/)": [The](/en/post/the/) setup [or](/en/post/or/) configuration [of](/en/post/of/) [a](/en/post/a/) [computer](/en/post/computer/) [system](/en/post/system/) [or](/en/post/or/) software [application](/en/post/application/).
+- "[Installation](/post/installation/) [process](/post/process/)": [The](/post/the/) [series](/post/series/) [of](/post/of/) steps taken [to](/post/to/) [install](/post/install/) [or](/post/or/) [set](/post/set/) [up](/post/up/) [something](/post/something/).
+- "[Installation](/post/installation/) [art](/post/art/)": [A](/post/a/) [form](/post/form/) [of](/post/of/) [contemporary](/post/contemporary/) [art](/post/art/) [where](/post/where/) [the](/post/the/) [artist](/post/artist/) creates an [environment](/post/environment/) [or](/post/or/) an [experience](/post/experience/) [often](/post/often/) using three-dimensional objects [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [space](/post/space/).
+- "[System](/post/system/) [installation](/post/installation/)": [The](/post/the/) setup [or](/post/or/) configuration [of](/post/of/) [a](/post/a/) [computer](/post/computer/) [system](/post/system/) [or](/post/or/) software [application](/post/application/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([general](/en/post/general/))**: "[The](/en/post/the/) plumber [will](/en/post/will/) [arrive](/en/post/arrive/) [tomorrow](/en/post/tomorrow/) [to](/en/post/to/) [complete](/en/post/complete/) [the](/en/post/the/) [installation](/en/post/installation/) [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) [sink](/en/post/sink/)."
-- **[Noun](/en/post/noun/) ([artistic](/en/post/artistic/))**: "Visitors marveled [at](/en/post/at/) [the](/en/post/the/) intricate [installation](/en/post/installation/) [which](/en/post/which/) combined [light](/en/post/light/), [sound](/en/post/sound/), [and](/en/post/and/) sculpture."
-- **[Noun](/en/post/noun/) ([military](/en/post/military/))**: "[After](/en/post/after/) completing [their](/en/post/their/) [training](/en/post/training/), [the](/en/post/the/) recruits were deployed [to](/en/post/to/) [a](/en/post/a/) [key](/en/post/key/) strategic [installation](/en/post/installation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([general](/post/general/))**: "[The](/post/the/) plumber [will](/post/will/) [arrive](/post/arrive/) [tomorrow](/post/tomorrow/) [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [installation](/post/installation/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [sink](/post/sink/)."
+- **[Noun](/post/noun/) ([artistic](/post/artistic/))**: "Visitors marveled [at](/post/at/) [the](/post/the/) intricate [installation](/post/installation/) [which](/post/which/) combined [light](/post/light/), [sound](/post/sound/), [and](/post/and/) sculpture."
+- **[Noun](/post/noun/) ([military](/post/military/))**: "[After](/post/after/) completing [their](/post/their/) [training](/post/training/), [the](/post/the/) recruits were deployed [to](/post/to/) [a](/post/a/) [key](/post/key/) strategic [installation](/post/installation/)."
 
 ## Synonyms
 - Setup
-- [Installation](/en/post/installation/) [procedure](/en/post/procedure/)
+- [Installation](/post/installation/) [procedure](/post/procedure/)
 - Mounting
 - Deployment
-- Implementation ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) software)
-- Fixture ([for](/en/post/for/) [physical](/en/post/physical/) objects) 
-- Unpacking [and](/en/post/and/) [assembly](/en/post/assembly/) ([for](/en/post/for/) consumer products)
-- Positioning ([for](/en/post/for/) artworks)
+- Implementation ([in](/post/in/) [the](/post/the/) context [of](/post/of/) software)
+- Fixture ([for](/post/for/) [physical](/post/physical/) objects) 
+- Unpacking [and](/post/and/) [assembly](/post/assembly/) ([for](/post/for/) consumer products)
+- Positioning ([for](/post/for/) artworks)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'actress']
 /ˈæktrəs/
 
 ## 释义
-- **名词**: 女演员；在戏剧、电影或电视中扮演角色的女性。例如: "[She](/post/she/) is an accomplished [actress](/post/actress/) [with](/post/with/) [several](/post/several/) Oscar nominations."
+- **名词**: 女演员；在戏剧、电影或电视中扮演角色的女性。例如: "[She](/zh/post/she/) is an accomplished [actress](/zh/post/actress/) [with](/zh/post/with/) [several](/zh/post/several/) Oscar nominations."
 
 ## 短语
-- "[Leading](/post/leading/) [lady](/post/lady/)" 指电影或戏剧中的主要女演员。
-- "[Stage](/post/stage/) [actress](/post/actress/)" 指专门在舞台上表演的女演员。
-- "[Method](/post/method/) [actress](/post/actress/)" 使用方法演技的女演员，强调情感的真实体验。
+- "[Leading](/zh/post/leading/) [lady](/zh/post/lady/)" 指电影或戏剧中的主要女演员。
+- "[Stage](/zh/post/stage/) [actress](/zh/post/actress/)" 指专门在舞台上表演的女演员。
+- "[Method](/zh/post/method/) [actress](/zh/post/actress/)" 使用方法演技的女演员，强调情感的真实体验。
 
 ## 例句
-- "Meryl Streep is [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) respected actresses [in](/post/in/) Hollywood."
-- "[The](/post/the/) [young](/post/young/) [actress](/post/actress/) delivered [a](/post/a/) [powerful](/post/powerful/) [performance](/post/performance/) [in](/post/in/) [the](/post/the/) [play](/post/play/)."
+- "Meryl Streep is [one](/zh/post/one/) [of](/zh/post/of/) [the](/zh/post/the/) [most](/zh/post/most/) respected actresses [in](/zh/post/in/) Hollywood."
+- "[The](/zh/post/the/) [young](/zh/post/young/) [actress](/zh/post/actress/) delivered [a](/zh/post/a/) [powerful](/zh/post/powerful/) [performance](/zh/post/performance/) [in](/zh/post/in/) [the](/zh/post/the/) [play](/zh/post/play/)."
 
 ## 同义词
-- [Female](/post/female/) [actor](/post/actor/)
+- [Female](/zh/post/female/) [actor](/zh/post/actor/)
 - Performer
-- [Star](/post/star/)
-- [Leading](/post/leading/) [woman](/post/woman/)
+- [Star](/zh/post/star/)
+- [Leading](/zh/post/leading/) [woman](/zh/post/woman/)
 - Theatrical performer

@@ -7,39 +7,39 @@ description = '[ˈnjuːspeipə] n.报纸，报'
 keywords = ['ai words', 'newspaper']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnjuːzˌpeɪpər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) printed [publication](/en/post/publication/), typically issued [daily](/en/post/daily/) [or](/en/post/or/) [weekly](/en/post/weekly/), containing [news](/en/post/news/), articles, advertisements, [and](/en/post/and/) [other](/en/post/other/) items [of](/en/post/of/) [general](/en/post/general/) [interest](/en/post/interest/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) an online [version](/en/post/version/) [of](/en/post/of/) [such](/en/post/such/) [a](/en/post/a/) [publication](/en/post/publication/).
+- **[Noun](/post/noun/)**: [A](/post/a/) printed [publication](/post/publication/), typically issued [daily](/post/daily/) [or](/post/or/) [weekly](/post/weekly/), containing [news](/post/news/), articles, advertisements, [and](/post/and/) [other](/post/other/) items [of](/post/of/) [general](/post/general/) [interest](/post/interest/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) an online [version](/post/version/) [of](/post/of/) [such](/post/such/) [a](/post/a/) [publication](/post/publication/).
 
-[Example](/en/post/example/) sentences:
-- "I [read](/en/post/read/) [the](/en/post/the/) [newspaper](/en/post/newspaper/) [every](/en/post/every/) [morning](/en/post/morning/) [over](/en/post/over/) [breakfast](/en/post/breakfast/)."
-- "[She](/en/post/she/) [cut](/en/post/cut/) [out](/en/post/out/) an [article](/en/post/article/) [from](/en/post/from/) [the](/en/post/the/) [newspaper](/en/post/newspaper/) [for](/en/post/for/) [her](/en/post/her/) [school](/en/post/school/) [project](/en/post/project/)."
-- "[The](/en/post/the/) [local](/en/post/local/) [newspaper](/en/post/newspaper/) reported [on](/en/post/on/) [the](/en/post/the/) town's [annual](/en/post/annual/) [festival](/en/post/festival/)."
+[Example](/post/example/) sentences:
+- "I [read](/post/read/) [the](/post/the/) [newspaper](/post/newspaper/) [every](/post/every/) [morning](/post/morning/) [over](/post/over/) [breakfast](/post/breakfast/)."
+- "[She](/post/she/) [cut](/post/cut/) [out](/post/out/) an [article](/post/article/) [from](/post/from/) [the](/post/the/) [newspaper](/post/newspaper/) [for](/post/for/) [her](/post/her/) [school](/post/school/) [project](/post/project/)."
+- "[The](/post/the/) [local](/post/local/) [newspaper](/post/newspaper/) reported [on](/post/on/) [the](/post/the/) town's [annual](/post/annual/) [festival](/post/festival/)."
 
 Phrases:
-- "[Put](/en/post/put/) [pen](/en/post/pen/) [to](/en/post/to/) [paper](/en/post/paper/)": [This](/en/post/this/) metaphorical [phrase](/en/post/phrase/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [when](/en/post/when/) referring [to](/en/post/to/) [writing](/en/post/writing/) [something](/en/post/something/) [for](/en/post/for/) [publication](/en/post/publication/) [in](/en/post/in/) [a](/en/post/a/) [newspaper](/en/post/newspaper/).
-- "[Front](/en/post/front/) [page](/en/post/page/) [news](/en/post/news/)": Refers [to](/en/post/to/) [the](/en/post/the/) [most](/en/post/most/) [important](/en/post/important/) [or](/en/post/or/) sensational stories featured [on](/en/post/on/) [the](/en/post/the/) [first](/en/post/first/) [page](/en/post/page/) [of](/en/post/of/) [a](/en/post/a/) [newspaper](/en/post/newspaper/).
-- "[Read](/en/post/read/) [all](/en/post/all/) [about](/en/post/about/) [it](/en/post/it/)!": [A](/en/post/a/) [phrase](/en/post/phrase/) historically [used](/en/post/used/) [by](/en/post/by/) [newspaper](/en/post/newspaper/) hawkers [to](/en/post/to/) [draw](/en/post/draw/) [attention](/en/post/attention/) [to](/en/post/to/) [their](/en/post/their/) publications.
+- "[Put](/post/put/) [pen](/post/pen/) [to](/post/to/) [paper](/post/paper/)": [This](/post/this/) metaphorical [phrase](/post/phrase/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [when](/post/when/) referring [to](/post/to/) [writing](/post/writing/) [something](/post/something/) [for](/post/for/) [publication](/post/publication/) [in](/post/in/) [a](/post/a/) [newspaper](/post/newspaper/).
+- "[Front](/post/front/) [page](/post/page/) [news](/post/news/)": Refers [to](/post/to/) [the](/post/the/) [most](/post/most/) [important](/post/important/) [or](/post/or/) sensational stories featured [on](/post/on/) [the](/post/the/) [first](/post/first/) [page](/post/page/) [of](/post/of/) [a](/post/a/) [newspaper](/post/newspaper/).
+- "[Read](/post/read/) [all](/post/all/) [about](/post/about/) [it](/post/it/)!": [A](/post/a/) [phrase](/post/phrase/) historically [used](/post/used/) [by](/post/by/) [newspaper](/post/newspaper/) hawkers [to](/post/to/) [draw](/post/draw/) [attention](/post/attention/) [to](/post/to/) [their](/post/their/) publications.
 
-## [Example](/en/post/example/) Sentences
-- [Noun](/en/post/noun/) ([as](/en/post/as/) [a](/en/post/a/) [physical](/en/post/physical/) [publication](/en/post/publication/)): "[My](/en/post/my/) [grandfather](/en/post/grandfather/) [still](/en/post/still/) enjoys [reading](/en/post/reading/) [the](/en/post/the/) [print](/en/post/print/) [edition](/en/post/edition/) [of](/en/post/of/) [the](/en/post/the/) [newspaper](/en/post/newspaper/)."
-- [Noun](/en/post/noun/) ([as](/en/post/as/) an online [publication](/en/post/publication/)): "[She](/en/post/she/) checks [the](/en/post/the/) online [newspaper](/en/post/newspaper/) [for](/en/post/for/) [the](/en/post/the/) latest updates [throughout](/en/post/throughout/) [the](/en/post/the/) [day](/en/post/day/)."
+## [Example](/post/example/) Sentences
+- [Noun](/post/noun/) ([as](/post/as/) [a](/post/a/) [physical](/post/physical/) [publication](/post/publication/)): "[My](/post/my/) [grandfather](/post/grandfather/) [still](/post/still/) enjoys [reading](/post/reading/) [the](/post/the/) [print](/post/print/) [edition](/post/edition/) [of](/post/of/) [the](/post/the/) [newspaper](/post/newspaper/)."
+- [Noun](/post/noun/) ([as](/post/as/) an online [publication](/post/publication/)): "[She](/post/she/) checks [the](/post/the/) online [newspaper](/post/newspaper/) [for](/post/for/) [the](/post/the/) latest updates [throughout](/post/throughout/) [the](/post/the/) [day](/post/day/)."
 
 ## Synonyms
 - Newsprint
-- Tabloid ([for](/en/post/for/) smaller, [often](/en/post/often/) sensationalist newspapers)
-- Broadsheet ([for](/en/post/for/) larger, [more](/en/post/more/) [serious](/en/post/serious/) newspapers)
+- Tabloid ([for](/post/for/) smaller, [often](/post/often/) sensationalist newspapers)
+- Broadsheet ([for](/post/for/) larger, [more](/post/more/) [serious](/post/serious/) newspapers)
 - Gazette
-- [Journal](/en/post/journal/)
+- [Journal](/post/journal/)
 - Periodical
-- [Daily](/en/post/daily/) (referring [to](/en/post/to/) [a](/en/post/a/) [daily](/en/post/daily/) [newspaper](/en/post/newspaper/))
-- [Weekly](/en/post/weekly/) (referring [to](/en/post/to/) [a](/en/post/a/) [weekly](/en/post/weekly/) [newspaper](/en/post/newspaper/)) 
+- [Daily](/post/daily/) (referring [to](/post/to/) [a](/post/a/) [daily](/post/daily/) [newspaper](/post/newspaper/))
+- [Weekly](/post/weekly/) (referring [to](/post/to/) [a](/post/a/) [weekly](/post/weekly/) [newspaper](/post/newspaper/)) 
 
 ## Derived Terms & Phrases
-- [Headline](/en/post/headline/): [The](/en/post/the/) [title](/en/post/title/) [of](/en/post/of/) [a](/en/post/a/) [newspaper](/en/post/newspaper/) [article](/en/post/article/), [usually](/en/post/usually/) [in](/en/post/in/) [large](/en/post/large/) [print](/en/post/print/).
-- Byline: [The](/en/post/the/) [name](/en/post/name/) [of](/en/post/of/) [the](/en/post/the/) [journalist](/en/post/journalist/) [who](/en/post/who/) wrote [the](/en/post/the/) [article](/en/post/article/).
-- Editorial: An [article](/en/post/article/) written [by](/en/post/by/) [the](/en/post/the/) newspaper's [editor](/en/post/editor/) expressing [their](/en/post/their/) [opinion](/en/post/opinion/).
-- [Column](/en/post/column/): [A](/en/post/a/) recurring [section](/en/post/section/) [in](/en/post/in/) [a](/en/post/a/) [newspaper](/en/post/newspaper/) featuring commentary [or](/en/post/or/) opinions [by](/en/post/by/) [a](/en/post/a/) [particular](/en/post/particular/) [writer](/en/post/writer/).
-- Classifieds: [A](/en/post/a/) [section](/en/post/section/) [of](/en/post/of/) [small](/en/post/small/) advertisements [in](/en/post/in/) [a](/en/post/a/) [newspaper](/en/post/newspaper/) arranged according [to](/en/post/to/) category.
+- [Headline](/post/headline/): [The](/post/the/) [title](/post/title/) [of](/post/of/) [a](/post/a/) [newspaper](/post/newspaper/) [article](/post/article/), [usually](/post/usually/) [in](/post/in/) [large](/post/large/) [print](/post/print/).
+- Byline: [The](/post/the/) [name](/post/name/) [of](/post/of/) [the](/post/the/) [journalist](/post/journalist/) [who](/post/who/) wrote [the](/post/the/) [article](/post/article/).
+- Editorial: An [article](/post/article/) written [by](/post/by/) [the](/post/the/) newspaper's [editor](/post/editor/) expressing [their](/post/their/) [opinion](/post/opinion/).
+- [Column](/post/column/): [A](/post/a/) recurring [section](/post/section/) [in](/post/in/) [a](/post/a/) [newspaper](/post/newspaper/) featuring commentary [or](/post/or/) opinions [by](/post/by/) [a](/post/a/) [particular](/post/particular/) [writer](/post/writer/).
+- Classifieds: [A](/post/a/) [section](/post/section/) [of](/post/of/) [small](/post/small/) advertisements [in](/post/in/) [a](/post/a/) [newspaper](/post/newspaper/) arranged according [to](/post/to/) category.

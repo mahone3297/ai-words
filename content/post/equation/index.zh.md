@@ -11,20 +11,20 @@ keywords = ['ai words', 'equation']
 /ɪˈkwəʊʒn/
 
 ## 释义
-- **名词 (n)**: 数学上表示两个表达式相等的符号，通常写为等号 "="。例如: "[The](/post/the/) [equation](/post/equation/) x + 2 = 5 represents an algebraic [statement](/post/statement/)."
-- **名词 (n)**: 指代问题或情况的平衡或对等状态。例如: "[Finding](/post/finding/) [a](/post/a/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [equation](/post/equation/) [of](/post/of/) [power](/post/power/) [and](/post/and/) [responsibility](/post/responsibility/) is crucial [for](/post/for/) [leadership](/post/leadership/)."
+- **名词 (n)**: 数学上表示两个表达式相等的符号，通常写为等号 "="。例如: "[The](/zh/post/the/) [equation](/zh/post/equation/) x + 2 = 5 represents an algebraic [statement](/zh/post/statement/)."
+- **名词 (n)**: 指代问题或情况的平衡或对等状态。例如: "[Finding](/zh/post/finding/) [a](/zh/post/a/) [solution](/zh/post/solution/) [to](/zh/post/to/) [the](/zh/post/the/) [equation](/zh/post/equation/) [of](/zh/post/of/) [power](/zh/post/power/) [and](/zh/post/and/) [responsibility](/zh/post/responsibility/) is crucial [for](/zh/post/for/) [leadership](/zh/post/leadership/)."
 
 ## 短语
-- "[Set](/post/set/) an [equation](/post/equation/)" 意为建立一个方程式。
-- "[Solve](/post/solve/) an [equation](/post/equation/)" 解方程，找出满足条件的未知数的值。
+- "[Set](/zh/post/set/) an [equation](/zh/post/equation/)" 意为建立一个方程式。
+- "[Solve](/zh/post/solve/) an [equation](/zh/post/equation/)" 解方程，找出满足条件的未知数的值。
 
 ## 例句
-- 名词: "[The](/post/the/) [physics](/post/physics/) [problem](/post/problem/) involves solving [a](/post/a/) [complex](/post/complex/) [equation](/post/equation/) [with](/post/with/) [several](/post/several/) variables."
-- 名词: "[In](/post/in/) [life](/post/life/), [sometimes](/post/sometimes/) [finding](/post/finding/) [the](/post/the/) [right](/post/right/) [equation](/post/equation/) [between](/post/between/) [work](/post/work/) [and](/post/and/) [leisure](/post/leisure/) is challenging."
+- 名词: "[The](/zh/post/the/) [physics](/zh/post/physics/) [problem](/zh/post/problem/) involves solving [a](/zh/post/a/) [complex](/zh/post/complex/) [equation](/zh/post/equation/) [with](/zh/post/with/) [several](/zh/post/several/) variables."
+- 名词: "[In](/zh/post/in/) [life](/zh/post/life/), [sometimes](/zh/post/sometimes/) [finding](/zh/post/finding/) [the](/zh/post/the/) [right](/zh/post/right/) [equation](/zh/post/equation/) [between](/zh/post/between/) [work](/zh/post/work/) [and](/zh/post/and/) [leisure](/zh/post/leisure/) is challenging."
 
 ## 同义词
-- [Formula](/post/formula/)
-- [Statement](/post/statement/)
-- [Balance](/post/balance/)
-- [Equality](/post/equality/)
+- [Formula](/zh/post/formula/)
+- [Statement](/zh/post/statement/)
+- [Balance](/zh/post/balance/)
+- [Equality](/zh/post/equality/)
 - Proposition

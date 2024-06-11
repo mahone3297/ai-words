@@ -11,20 +11,20 @@ keywords = ['ai words', 'aware']
 /əˈweər/
 
 ## 释义
-- **形容词**: 知道的，意识到的，察觉到的。例如: "[He](/post/he/) was [aware](/post/aware/) [of](/post/of/) [the](/post/the/) [danger](/post/danger/) [around](/post/around/) [him](/post/him/)."
-- **动词**: 使某人知道或意识到。例如: "[The](/post/the/) [news](/post/news/) [aware](/post/aware/) [him](/post/him/) [of](/post/of/) [the](/post/the/) upcoming [event](/post/event/)."
+- **形容词**: 知道的，意识到的，察觉到的。例如: "[He](/zh/post/he/) was [aware](/zh/post/aware/) [of](/zh/post/of/) [the](/zh/post/the/) [danger](/zh/post/danger/) [around](/zh/post/around/) [him](/zh/post/him/)."
+- **动词**: 使某人知道或意识到。例如: "[The](/zh/post/the/) [news](/zh/post/news/) [aware](/zh/post/aware/) [him](/zh/post/him/) [of](/zh/post/of/) [the](/zh/post/the/) upcoming [event](/zh/post/event/)."
 
 ## 短语
-- "[be](/post/be/) [aware](/post/aware/) [of](/post/of/) [something](/post/something/)" 意识到某事。
-- "[become](/post/become/) [aware](/post/aware/) [that](/post/that/)" 发现或认识到。
+- "[be](/zh/post/be/) [aware](/zh/post/aware/) [of](/zh/post/of/) [something](/zh/post/something/)" 意识到某事。
+- "[become](/zh/post/become/) [aware](/zh/post/aware/) [that](/zh/post/that/)" 发现或认识到。
 
 ## 例句
-- 形容词: "[She](/post/she/) is [aware](/post/aware/) [of](/post/of/) [the](/post/the/) [importance](/post/importance/) [of](/post/of/) recycling."
-- 动词: "[The](/post/the/) [teacher](/post/teacher/) [quickly](/post/quickly/) [aware](/post/aware/) [the](/post/the/) students [of](/post/of/) [the](/post/the/) changes [in](/post/in/) [the](/post/the/) [schedule](/post/schedule/)."
+- 形容词: "[She](/zh/post/she/) is [aware](/zh/post/aware/) [of](/zh/post/of/) [the](/zh/post/the/) [importance](/zh/post/importance/) [of](/zh/post/of/) recycling."
+- 动词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) [quickly](/zh/post/quickly/) [aware](/zh/post/aware/) [the](/zh/post/the/) students [of](/zh/post/of/) [the](/zh/post/the/) changes [in](/zh/post/in/) [the](/zh/post/the/) [schedule](/zh/post/schedule/)."
 
 ## 同义词
-- [Conscious](/post/conscious/)
+- [Conscious](/zh/post/conscious/)
 - Knowledgeable
 - Informed
-- [Sensible](/post/sensible/)
+- [Sensible](/zh/post/sensible/)
 - Mindful

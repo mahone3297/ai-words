@@ -11,20 +11,20 @@ keywords = ['ai words', 'most']
 /məʊst/
 
 ## 释义
-- **副词**: 最多，最，极其。例如: "[This](/post/this/) is [the](/post/the/) [most](/post/most/) [delicious](/post/delicious/) [cake](/post/cake/) I've [ever](/post/ever/) tasted."
-- **形容词**: 最多的，最大的，最高的。例如: "[He](/post/he/) has [the](/post/the/) [most](/post/most/) books [in](/post/in/) [the](/post/the/) [library](/post/library/)."
+- **副词**: 最多，最，极其。例如: "[This](/zh/post/this/) is [the](/zh/post/the/) [most](/zh/post/most/) [delicious](/zh/post/delicious/) [cake](/zh/post/cake/) I've [ever](/zh/post/ever/) tasted."
+- **形容词**: 最多的，最大的，最高的。例如: "[He](/zh/post/he/) has [the](/zh/post/the/) [most](/zh/post/most/) books [in](/zh/post/in/) [the](/zh/post/the/) [library](/zh/post/library/)."
 
 ## 短语
-- "[Most](/post/most/) [likely](/post/likely/)" 意为很可能，可能性最大。
-- "[The](/post/the/) [majority](/post/majority/) [of](/post/of/)" 用于表示大多数。例如: "[The](/post/the/) [majority](/post/majority/) [of](/post/of/) [people](/post/people/) [prefer](/post/prefer/) [coffee](/post/coffee/) [over](/post/over/) [tea](/post/tea/)."
+- "[Most](/zh/post/most/) [likely](/zh/post/likely/)" 意为很可能，可能性最大。
+- "[The](/zh/post/the/) [majority](/zh/post/majority/) [of](/zh/post/of/)" 用于表示大多数。例如: "[The](/zh/post/the/) [majority](/zh/post/majority/) [of](/zh/post/of/) [people](/zh/post/people/) [prefer](/zh/post/prefer/) [coffee](/zh/post/coffee/) [over](/zh/post/over/) [tea](/zh/post/tea/)."
 
 ## 例句
-- 副词: "[She](/post/she/) practices [most](/post/most/) days [of](/post/of/) [the](/post/the/) [week](/post/week/)."
-- 形容词: "[The](/post/the/) [most](/post/most/) [common](/post/common/) [cause](/post/cause/) [of](/post/of/) [the](/post/the/) [problem](/post/problem/) is [user](/post/user/) [error](/post/error/)."
+- 副词: "[She](/zh/post/she/) practices [most](/zh/post/most/) days [of](/zh/post/of/) [the](/zh/post/the/) [week](/zh/post/week/)."
+- 形容词: "[The](/zh/post/the/) [most](/zh/post/most/) [common](/zh/post/common/) [cause](/zh/post/cause/) [of](/zh/post/of/) [the](/zh/post/the/) [problem](/zh/post/problem/) is [user](/zh/post/user/) [error](/zh/post/error/)."
 
 ## 同义词
-- [Almost](/post/almost/)
-- [Nearly](/post/nearly/)
+- [Almost](/zh/post/almost/)
+- [Nearly](/zh/post/nearly/)
 - Greatest
-- [Utmost](/post/utmost/)
-- [Maximum](/post/maximum/)
+- [Utmost](/zh/post/utmost/)
+- [Maximum](/zh/post/maximum/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'considerate']
 /kənˈsɪdərət/
 
 ## 释义
-- **形容词**: 体贴的，考虑周到的。例如: "[He](/post/he/) was [considerate](/post/considerate/) [of](/post/of/) [her](/post/her/) feelings [and](/post/and/) acted [gently](/post/gently/)."
-- **名词**: 考虑，深思熟虑。例如: "[His](/post/his/) [considerate](/post/considerate/) [approach](/post/approach/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/) impressed [everyone](/post/everyone/)."
+- **形容词**: 体贴的，考虑周到的。例如: "[He](/zh/post/he/) was [considerate](/zh/post/considerate/) [of](/zh/post/of/) [her](/zh/post/her/) feelings [and](/zh/post/and/) acted [gently](/zh/post/gently/)."
+- **名词**: 考虑，深思熟虑。例如: "[His](/zh/post/his/) [considerate](/zh/post/considerate/) [approach](/zh/post/approach/) [to](/zh/post/to/) [the](/zh/post/the/) [problem](/zh/post/problem/) impressed [everyone](/zh/post/everyone/)."
 
 ## 短语
-- "[be](/post/be/) [considerate](/post/considerate/) towards sb." 意为对某人体贴入微。
-- "[to](/post/to/) [give](/post/give/) [careful](/post/careful/) [consideration](/post/consideration/)" 意为给予仔细的考虑。
+- "[be](/zh/post/be/) [considerate](/zh/post/considerate/) towards sb." 意为对某人体贴入微。
+- "[to](/zh/post/to/) [give](/zh/post/give/) [careful](/zh/post/careful/) [consideration](/zh/post/consideration/)" 意为给予仔细的考虑。
 
 ## 例句
-- 形容词: "[She](/post/she/) is [a](/post/a/) [very](/post/very/) [considerate](/post/considerate/) [person](/post/person/), [always](/post/always/) thinking [of](/post/of/) others' needs."
-- 名词: "[Before](/post/before/) making [a](/post/a/) [decision](/post/decision/), [he](/post/he/) takes [time](/post/time/) [for](/post/for/) [considerate](/post/considerate/) [reflection](/post/reflection/)."
+- 形容词: "[She](/zh/post/she/) is [a](/zh/post/a/) [very](/zh/post/very/) [considerate](/zh/post/considerate/) [person](/zh/post/person/), [always](/zh/post/always/) thinking [of](/zh/post/of/) others' needs."
+- 名词: "[Before](/zh/post/before/) making [a](/zh/post/a/) [decision](/zh/post/decision/), [he](/zh/post/he/) takes [time](/zh/post/time/) [for](/zh/post/for/) [considerate](/zh/post/considerate/) [reflection](/zh/post/reflection/)."
 
 ## 同义词
-- [thoughtful](/post/thoughtful/)
-- [attentive](/post/attentive/)
+- [thoughtful](/zh/post/thoughtful/)
+- [attentive](/zh/post/attentive/)
 - compassionate
-- [understanding](/post/understanding/)
+- [understanding](/zh/post/understanding/)
 - mindful

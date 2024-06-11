@@ -11,25 +11,25 @@ keywords = ['ai words', 'high']
 /haɪ/
 
 ## 释义
-- **形容词**: 高的，表示高度或程度。例如: "[The](/post/the/) [building](/post/building/) is [very](/post/very/) [high](/post/high/)."
-- **副词**: 高高地，表示位置或程度。例如: "[She](/post/she/) jumped [high](/post/high/) [over](/post/over/) [the](/post/the/) [fence](/post/fence/)."
-- **名词**: 高潮，兴奋点，如 "[The](/post/the/) [high](/post/high/) [of](/post/of/) [a](/post/a/) [roller](/post/roller/) coaster [ride](/post/ride/)."
-- **名词**: 高度，如 "What's [the](/post/the/) [high](/post/high/) [temperature](/post/temperature/) [today](/post/today/)?"
-- **名词**: 高兴的状态，如 "[He](/post/he/) was [on](/post/on/) [a](/post/a/) [natural](/post/natural/) [high](/post/high/) [after](/post/after/) winning [the](/post/the/) [race](/post/race/)."
+- **形容词**: 高的，表示高度或程度。例如: "[The](/zh/post/the/) [building](/zh/post/building/) is [very](/zh/post/very/) [high](/zh/post/high/)."
+- **副词**: 高高地，表示位置或程度。例如: "[She](/zh/post/she/) jumped [high](/zh/post/high/) [over](/zh/post/over/) [the](/zh/post/the/) [fence](/zh/post/fence/)."
+- **名词**: 高潮，兴奋点，如 "[The](/zh/post/the/) [high](/zh/post/high/) [of](/zh/post/of/) [a](/zh/post/a/) [roller](/zh/post/roller/) coaster [ride](/zh/post/ride/)."
+- **名词**: 高度，如 "What's [the](/zh/post/the/) [high](/zh/post/high/) [temperature](/zh/post/temperature/) [today](/zh/post/today/)?"
+- **名词**: 高兴的状态，如 "[He](/zh/post/he/) was [on](/zh/post/on/) [a](/zh/post/a/) [natural](/zh/post/natural/) [high](/zh/post/high/) [after](/zh/post/after/) winning [the](/zh/post/the/) [race](/zh/post/race/)."
 
 ## 短语
-- "[at](/post/at/) [high](/post/high/) [tide](/post/tide/)" 在高潮时
-- "[high](/post/high/) [society](/post/society/)" 上流社会
-- "[high](/post/high/) hopes" 大期望
+- "[at](/zh/post/at/) [high](/zh/post/high/) [tide](/zh/post/tide/)" 在高潮时
+- "[high](/zh/post/high/) [society](/zh/post/society/)" 上流社会
+- "[high](/zh/post/high/) hopes" 大期望
 
 ## 例句
-- 形容词: "[The](/post/the/) [mountain](/post/mountain/) [peak](/post/peak/) reaches [a](/post/a/) [high](/post/high/) [altitude](/post/altitude/)."
-- 副词: "[The](/post/the/) [airplane](/post/airplane/) flew [high](/post/high/) [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
-- 名词: "[He](/post/he/) experienced an [emotional](/post/emotional/) [high](/post/high/) [after](/post/after/) [his](/post/his/) [victory](/post/victory/)."
+- 形容词: "[The](/zh/post/the/) [mountain](/zh/post/mountain/) [peak](/zh/post/peak/) reaches [a](/zh/post/a/) [high](/zh/post/high/) [altitude](/zh/post/altitude/)."
+- 副词: "[The](/zh/post/the/) [airplane](/zh/post/airplane/) flew [high](/zh/post/high/) [in](/zh/post/in/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
+- 名词: "[He](/zh/post/he/) experienced an [emotional](/zh/post/emotional/) [high](/zh/post/high/) [after](/zh/post/after/) [his](/zh/post/his/) [victory](/zh/post/victory/)."
 
 ## 同义词
-- [Tall](/post/tall/)
+- [Tall](/zh/post/tall/)
 - Elevated
 - Raised
-- [Upper](/post/upper/)
-- [Maximum](/post/maximum/)
+- [Upper](/zh/post/upper/)
+- [Maximum](/zh/post/maximum/)

@@ -7,35 +7,35 @@ description = '[ˈmɔdən] a.现代的，近代的'
 keywords = ['ai words', 'modern']
 +++
 
-## [Word](/en/post/word/): [Modern](/en/post/modern/)
+## [Word](/post/word/): [Modern](/post/modern/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɑːdərn/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [the](/en/post/the/) [present](/en/post/present/) [time](/en/post/time/) [or](/en/post/or/) [recent](/en/post/recent/) times [as](/en/post/as/) opposed [to](/en/post/to/) [the](/en/post/the/) [remote](/en/post/remote/) [past](/en/post/past/); [contemporary](/en/post/contemporary/). [For](/en/post/for/) [example](/en/post/example/): "[Modern](/en/post/modern/) [technology](/en/post/technology/) has transformed [the](/en/post/the/) [way](/en/post/way/) [we](/en/post/we/) [communicate](/en/post/communicate/)."
-  - *[Architecture](/en/post/architecture/)*: Characterized [by](/en/post/by/) [simplicity](/en/post/simplicity/) [and](/en/post/and/) functionalism, [often](/en/post/often/) employing [new](/en/post/new/) materials [and](/en/post/and/) [construction](/en/post/construction/) techniques [that](/en/post/that/) [distinguish](/en/post/distinguish/) [it](/en/post/it/) [from](/en/post/from/) earlier styles. [Example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) boasts sleek, [modern](/en/post/modern/) [design](/en/post/design/)."
-  - *[Art](/en/post/art/)*: [Of](/en/post/of/) [or](/en/post/or/) relating [to](/en/post/to/) [recent](/en/post/recent/) [artistic](/en/post/artistic/) styles [or](/en/post/or/) movements [that](/en/post/that/) [break](/en/post/break/) [with](/en/post/with/) [tradition](/en/post/tradition/). [Example](/en/post/example/): "[Modern](/en/post/modern/) [art](/en/post/art/) [often](/en/post/often/) challenges [traditional](/en/post/traditional/) aesthetics."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [the](/post/the/) [present](/post/present/) [time](/post/time/) [or](/post/or/) [recent](/post/recent/) times [as](/post/as/) opposed [to](/post/to/) [the](/post/the/) [remote](/post/remote/) [past](/post/past/); [contemporary](/post/contemporary/). [For](/post/for/) [example](/post/example/): "[Modern](/post/modern/) [technology](/post/technology/) has transformed [the](/post/the/) [way](/post/way/) [we](/post/we/) [communicate](/post/communicate/)."
+  - *[Architecture](/post/architecture/)*: Characterized [by](/post/by/) [simplicity](/post/simplicity/) [and](/post/and/) functionalism, [often](/post/often/) employing [new](/post/new/) materials [and](/post/and/) [construction](/post/construction/) techniques [that](/post/that/) [distinguish](/post/distinguish/) [it](/post/it/) [from](/post/from/) earlier styles. [Example](/post/example/): "[The](/post/the/) [house](/post/house/) boasts sleek, [modern](/post/modern/) [design](/post/design/)."
+  - *[Art](/post/art/)*: [Of](/post/of/) [or](/post/or/) relating [to](/post/to/) [recent](/post/recent/) [artistic](/post/artistic/) styles [or](/post/or/) movements [that](/post/that/) [break](/post/break/) [with](/post/with/) [tradition](/post/tradition/). [Example](/post/example/): "[Modern](/post/modern/) [art](/post/art/) [often](/post/often/) challenges [traditional](/post/traditional/) aesthetics."
 
-**[Noun](/en/post/noun/)**
-- (usu. '[the](/en/post/the/) [modern](/en/post/modern/)') [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) lives [in](/en/post/in/) [the](/en/post/the/) [present](/en/post/present/) [time](/en/post/time/) [and](/en/post/and/) has [a](/en/post/a/) [contemporary](/en/post/contemporary/) [outlook](/en/post/outlook/). [Example](/en/post/example/): "She's [very](/en/post/very/) [much](/en/post/much/) [a](/en/post/a/) [modern](/en/post/modern/) [woman](/en/post/woman/), embracing [both](/en/post/both/) [career](/en/post/career/) [and](/en/post/and/) [family](/en/post/family/) [life](/en/post/life/)."
+**[Noun](/post/noun/)**
+- (usu. '[the](/post/the/) [modern](/post/modern/)') [A](/post/a/) [person](/post/person/) [who](/post/who/) lives [in](/post/in/) [the](/post/the/) [present](/post/present/) [time](/post/time/) [and](/post/and/) has [a](/post/a/) [contemporary](/post/contemporary/) [outlook](/post/outlook/). [Example](/post/example/): "She's [very](/post/very/) [much](/post/much/) [a](/post/a/) [modern](/post/modern/) [woman](/post/woman/), embracing [both](/post/both/) [career](/post/career/) [and](/post/and/) [family](/post/family/) [life](/post/life/)."
 
 ## Phrases
-- "[Modern](/en/post/modern/) [era](/en/post/era/)": [The](/en/post/the/) [period](/en/post/period/) [of](/en/post/of/) [history](/en/post/history/) [that](/en/post/that/) is considered [recent](/en/post/recent/) [in](/en/post/in/) [comparison](/en/post/comparison/) [to](/en/post/to/) [what](/en/post/what/) came [before](/en/post/before/).
-- "[Modern](/en/post/modern/) [society](/en/post/society/)": [The](/en/post/the/) [current](/en/post/current/) [social](/en/post/social/) [structure](/en/post/structure/) [and](/en/post/and/) norms [of](/en/post/of/) [a](/en/post/a/) [community](/en/post/community/) [or](/en/post/or/) [nation](/en/post/nation/).
-- "Modernize": [To](/en/post/to/) [bring](/en/post/bring/) [something](/en/post/something/) [up](/en/post/up/) [to](/en/post/to/) [date](/en/post/date/), [make](/en/post/make/) [it](/en/post/it/) conform [to](/en/post/to/) [contemporary](/en/post/contemporary/) standards.
+- "[Modern](/post/modern/) [era](/post/era/)": [The](/post/the/) [period](/post/period/) [of](/post/of/) [history](/post/history/) [that](/post/that/) is considered [recent](/post/recent/) [in](/post/in/) [comparison](/post/comparison/) [to](/post/to/) [what](/post/what/) came [before](/post/before/).
+- "[Modern](/post/modern/) [society](/post/society/)": [The](/post/the/) [current](/post/current/) [social](/post/social/) [structure](/post/structure/) [and](/post/and/) norms [of](/post/of/) [a](/post/a/) [community](/post/community/) [or](/post/or/) [nation](/post/nation/).
+- "Modernize": [To](/post/to/) [bring](/post/bring/) [something](/post/something/) [up](/post/up/) [to](/post/to/) [date](/post/date/), [make](/post/make/) [it](/post/it/) conform [to](/post/to/) [contemporary](/post/contemporary/) standards.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [city](/en/post/city/) has undergone [rapid](/en/post/rapid/) modernization [over](/en/post/over/) [the](/en/post/the/) [last](/en/post/last/) [decade](/en/post/decade/)."
-- "[Their](/en/post/their/) [furniture](/en/post/furniture/) is [a](/en/post/a/) [blend](/en/post/blend/) [of](/en/post/of/) [traditional](/en/post/traditional/) [and](/en/post/and/) [modern](/en/post/modern/) styles."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [novel](/en/post/novel/) explores [the](/en/post/the/) struggles [of](/en/post/of/) [the](/en/post/the/) [modern](/en/post/modern/) balancing [work](/en/post/work/), relationships, [and](/en/post/and/) [personal](/en/post/personal/) [growth](/en/post/growth/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [city](/post/city/) has undergone [rapid](/post/rapid/) modernization [over](/post/over/) [the](/post/the/) [last](/post/last/) [decade](/post/decade/)."
+- "[Their](/post/their/) [furniture](/post/furniture/) is [a](/post/a/) [blend](/post/blend/) [of](/post/of/) [traditional](/post/traditional/) [and](/post/and/) [modern](/post/modern/) styles."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [novel](/post/novel/) explores [the](/post/the/) struggles [of](/post/of/) [the](/post/the/) [modern](/post/modern/) balancing [work](/post/work/), relationships, [and](/post/and/) [personal](/post/personal/) [growth](/post/growth/)."
 
 ## Synonyms
-- [Contemporary](/en/post/contemporary/)
+- [Contemporary](/post/contemporary/)
 - Present-day
-- [Current](/en/post/current/)
-- [Up-to-date](/en/post/up-to-date/)
-- [Recent](/en/post/recent/)
+- [Current](/post/current/)
+- [Up-to-date](/post/up-to-date/)
+- [Recent](/post/recent/)
 - New-fashioned
-- [Progressive](/en/post/progressive/)
-- [Advanced](/en/post/advanced/)
+- [Progressive](/post/progressive/)
+- [Advanced](/post/advanced/)

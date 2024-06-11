@@ -7,40 +7,40 @@ description = '[ˈbegə] n.乞丐，穷人'
 keywords = ['ai words', 'beggar']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈɡɑː(r)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[beggar](/en/post/beggar/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is homeless [and](/en/post/and/) asks [for](/en/post/for/) alms [or](/en/post/or/) [charity](/en/post/charity/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [public](/en/post/public/) [place](/en/post/place/). [They](/en/post/they/) [may](/en/post/may/) [be](/en/post/be/) seen [as](/en/post/as/) impoverished [or](/en/post/or/) [in](/en/post/in/) [need](/en/post/need/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[beggar](/post/beggar/)** is [a](/post/a/) [person](/post/person/) [who](/post/who/) is homeless [and](/post/and/) asks [for](/post/for/) alms [or](/post/or/) [charity](/post/charity/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [public](/post/public/) [place](/post/place/). [They](/post/they/) [may](/post/may/) [be](/post/be/) seen [as](/post/as/) impoverished [or](/post/or/) [in](/post/in/) [need](/post/need/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[beg](/en/post/beg/)** is [to](/en/post/to/) [request](/en/post/request/) [something](/en/post/something/), [usually](/en/post/usually/) [money](/en/post/money/), [from](/en/post/from/) others [in](/en/post/in/) [a](/en/post/a/) pleading or乞讨的方式. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) earns [their](/en/post/their/) [living](/en/post/living/) [by](/en/post/by/) soliciting alms.
+### [Verb](/post/verb/)
+[To](/post/to/) **[beg](/post/beg/)** is [to](/post/to/) [request](/post/request/) [something](/post/something/), [usually](/post/usually/) [money](/post/money/), [from](/post/from/) others [in](/post/in/) [a](/post/a/) pleading or乞讨的方式. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) earns [their](/post/their/) [living](/post/living/) [by](/post/by/) soliciting alms.
 
 ## Phrases
-- "Begging [for](/en/post/for/) [mercy](/en/post/mercy/)" implies asking [for](/en/post/for/) forgiveness [or](/en/post/or/) leniency.
-- "Begging [on](/en/post/on/) [the](/en/post/the/) streets" describes [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) asking [for](/en/post/for/) [money](/en/post/money/) [from](/en/post/from/) passersby [in](/en/post/in/) [a](/en/post/a/) [public](/en/post/public/) [area](/en/post/area/).
-- "Begging [the](/en/post/the/) [question](/en/post/question/)" is [a](/en/post/a/) rhetorical [term](/en/post/term/) [meaning](/en/post/meaning/) [it](/en/post/it/) assumes [or](/en/post/or/) restates [the](/en/post/the/) [answer](/en/post/answer/), [rather](/en/post/rather/) [than](/en/post/than/) providing [evidence](/en/post/evidence/).
+- "Begging [for](/post/for/) [mercy](/post/mercy/)" implies asking [for](/post/for/) forgiveness [or](/post/or/) leniency.
+- "Begging [on](/post/on/) [the](/post/the/) streets" describes [the](/post/the/) [act](/post/act/) [of](/post/of/) asking [for](/post/for/) [money](/post/money/) [from](/post/from/) passersby [in](/post/in/) [a](/post/a/) [public](/post/public/) [area](/post/area/).
+- "Begging [the](/post/the/) [question](/post/question/)" is [a](/post/a/) rhetorical [term](/post/term/) [meaning](/post/meaning/) [it](/post/it/) assumes [or](/post/or/) restates [the](/post/the/) [answer](/post/answer/), [rather](/post/rather/) [than](/post/than/) providing [evidence](/post/evidence/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [beggar](/en/post/beggar/) held [out](/en/post/out/) [his](/en/post/his/) [cup](/en/post/cup/), hoping [for](/en/post/for/) [a](/en/post/a/) [few](/en/post/few/) coins."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) [beg](/en/post/beg/) [his](/en/post/his/) [way](/en/post/way/) [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [ticket](/en/post/ticket/), [but](/en/post/but/) [the](/en/post/the/) [police](/en/post/police/) were [firm](/en/post/firm/)."
-- **[Idiom](/en/post/idiom/)**: "Don't [beg](/en/post/beg/) [for](/en/post/for/) [what](/en/post/what/) [you](/en/post/you/) [can](/en/post/can/) [earn](/en/post/earn/) [through](/en/post/through/) [hard](/en/post/hard/) [work](/en/post/work/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [beggar](/post/beggar/) held [out](/post/out/) [his](/post/his/) [cup](/post/cup/), hoping [for](/post/for/) [a](/post/a/) [few](/post/few/) coins."
+- **[Verb](/post/verb/)**: "[He](/post/he/) tried [to](/post/to/) [beg](/post/beg/) [his](/post/his/) [way](/post/way/) [out](/post/out/) [of](/post/of/) [the](/post/the/) [ticket](/post/ticket/), [but](/post/but/) [the](/post/the/) [police](/post/police/) were [firm](/post/firm/)."
+- **[Idiom](/post/idiom/)**: "Don't [beg](/post/beg/) [for](/post/for/) [what](/post/what/) [you](/post/you/) [can](/post/can/) [earn](/post/earn/) [through](/post/through/) [hard](/post/hard/) [work](/post/work/)."
 
 ## Synonyms
 -丐者
 -Pauper
--Houseless [person](/en/post/person/)
+-Houseless [person](/post/person/)
 -Penniless
 -Indigent
--[Charity](/en/post/charity/) seeker
--[Street](/en/post/street/) [beggar](/en/post/beggar/)
+-[Charity](/post/charity/) seeker
+-[Street](/post/street/) [beggar](/post/beggar/)
 -Needy
--[Desperate](/en/post/desperate/)
+-[Desperate](/post/desperate/)
 
 ## Antonyms
--[Rich](/en/post/rich/)
+-[Rich](/post/rich/)
 -Well-off
--[Prosperous](/en/post/prosperous/)
--[Fortunate](/en/post/fortunate/)
--[Have](/en/post/have/) [means](/en/post/means/)
+-[Prosperous](/post/prosperous/)
+-[Fortunate](/post/fortunate/)
+-[Have](/post/have/) [means](/post/means/)

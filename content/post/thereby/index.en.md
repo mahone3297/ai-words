@@ -7,31 +7,31 @@ description = '[ˈðeəˈbai] ad.因此，从而，由此'
 keywords = ['ai words', 'thereby']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɛθərˌbi/ (eth-uh-bear)
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [manner](/en/post/manner/) [or](/en/post/or/) [result](/en/post/result/) [of](/en/post/of/) an [action](/en/post/action/), typically introducing [a](/en/post/a/) clause. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) "[thus](/en/post/thus/)" [or](/en/post/or/) "[consequently](/en/post/consequently/)."
+- **[Adverb](/post/adverb/)**: [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [manner](/post/manner/) [or](/post/or/) [result](/post/result/) [of](/post/of/) an [action](/post/action/), typically introducing [a](/post/a/) clause. [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) "[thus](/post/thus/)" [or](/post/or/) "[consequently](/post/consequently/)."
 
 ## Phrases
-- "[By](/en/post/by/) [that](/en/post/that/) [means](/en/post/means/)" [or](/en/post/or/) "[Thus](/en/post/thus/)" is [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [result](/en/post/result/) [or](/en/post/or/) [explanation](/en/post/explanation/).
-- "[As](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/)" [or](/en/post/or/) "[Consequently](/en/post/consequently/)" implies [a](/en/post/a/) [consequence](/en/post/consequence/) [of](/en/post/of/) an [action](/en/post/action/).
-- "Henceforward" [or](/en/post/or/) "[Therefore](/en/post/therefore/)" signals [a](/en/post/a/) [change](/en/post/change/) [or](/en/post/or/) [conclusion](/en/post/conclusion/) based [on](/en/post/on/) [previous](/en/post/previous/) events.
+- "[By](/post/by/) [that](/post/that/) [means](/post/means/)" [or](/post/or/) "[Thus](/post/thus/)" is [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [result](/post/result/) [or](/post/or/) [explanation](/post/explanation/).
+- "[As](/post/as/) [a](/post/a/) [result](/post/result/)" [or](/post/or/) "[Consequently](/post/consequently/)" implies [a](/post/a/) [consequence](/post/consequence/) [of](/post/of/) an [action](/post/action/).
+- "Henceforward" [or](/post/or/) "[Therefore](/post/therefore/)" signals [a](/post/a/) [change](/post/change/) [or](/post/or/) [conclusion](/post/conclusion/) based [on](/post/on/) [previous](/post/previous/) events.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) studied [hard](/en/post/hard/), [thereby](/en/post/thereby/) improving [her](/en/post/her/) grades significantly."
-- "[Her](/en/post/her/) diligence [in](/en/post/in/) [the](/en/post/the/) [lab](/en/post/lab/) led [to](/en/post/to/) groundbreaking discoveries, [thereby](/en/post/thereby/) earning [her](/en/post/her/) [a](/en/post/a/) Nobel [Prize](/en/post/prize/)."
-- "[He](/en/post/he/) was [late](/en/post/late/), [thereby](/en/post/thereby/) causing [a](/en/post/a/) [delay](/en/post/delay/) [in](/en/post/in/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) studied [hard](/post/hard/), [thereby](/post/thereby/) improving [her](/post/her/) grades significantly."
+- "[Her](/post/her/) diligence [in](/post/in/) [the](/post/the/) [lab](/post/lab/) led [to](/post/to/) groundbreaking discoveries, [thereby](/post/thereby/) earning [her](/post/her/) [a](/post/a/) Nobel [Prize](/post/prize/)."
+- "[He](/post/he/) was [late](/post/late/), [thereby](/post/thereby/) causing [a](/post/a/) [delay](/post/delay/) [in](/post/in/) [the](/post/the/) [meeting](/post/meeting/)."
 
 ## Synonyms
-- [Consequently](/en/post/consequently/)
-- [Hence](/en/post/hence/)
-- [Therefore](/en/post/therefore/)
-- [Thus](/en/post/thus/)
-- [As](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/)
-- [By](/en/post/by/) [this](/en/post/this/) [means](/en/post/means/)
+- [Consequently](/post/consequently/)
+- [Hence](/post/hence/)
+- [Therefore](/post/therefore/)
+- [Thus](/post/thus/)
+- [As](/post/as/) [a](/post/a/) [result](/post/result/)
+- [By](/post/by/) [this](/post/this/) [means](/post/means/)
 
 ## Antonyms
 - Incidentally
 - Unrelatedly
-- Unexpectedly ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [direct](/en/post/direct/) [connection](/en/post/connection/))
+- Unexpectedly ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [direct](/post/direct/) [connection](/post/connection/))

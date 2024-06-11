@@ -15,18 +15,18 @@ keywords = ['ai words', 'pole']
 - **动词**: 在高杆跳中使用杆跳跃
 
 ## 短语
-- "[north](/post/north/) [pole](/post/pole/)" 北极
-- "[south](/post/south/) [pole](/post/pole/)" 南极
-- "[pole](/post/pole/) vault" 高杆跳
+- "[north](/zh/post/north/) [pole](/zh/post/pole/)" 北极
+- "[south](/zh/post/south/) [pole](/zh/post/pole/)" 南极
+- "[pole](/zh/post/pole/) vault" 高杆跳
 
 ## 例句
-- 名词: "[He](/post/he/) held [a](/post/a/) [long](/post/long/) [pole](/post/pole/) [to](/post/to/) [reach](/post/reach/) [the](/post/the/) [high](/post/high/) [shelf](/post/shelf/)."
-- 名词: "[The](/post/the/) [Earth](/post/earth/) has [a](/post/a/) [magnetic](/post/magnetic/) [pole](/post/pole/) [that](/post/that/) attracts [a](/post/a/) [compass](/post/compass/) [needle](/post/needle/)."
-- 动词: "[She](/post/she/) pole-vaulted [over](/post/over/) [the](/post/the/) 4-meter [mark](/post/mark/)."
+- 名词: "[He](/zh/post/he/) held [a](/zh/post/a/) [long](/zh/post/long/) [pole](/zh/post/pole/) [to](/zh/post/to/) [reach](/zh/post/reach/) [the](/zh/post/the/) [high](/zh/post/high/) [shelf](/zh/post/shelf/)."
+- 名词: "[The](/zh/post/the/) [Earth](/zh/post/earth/) has [a](/zh/post/a/) [magnetic](/zh/post/magnetic/) [pole](/zh/post/pole/) [that](/zh/post/that/) attracts [a](/zh/post/a/) [compass](/zh/post/compass/) [needle](/zh/post/needle/)."
+- 动词: "[She](/zh/post/she/) pole-vaulted [over](/zh/post/over/) [the](/zh/post/the/) 4-meter [mark](/zh/post/mark/)."
 
 ## 同义词
-- [Stick](/post/stick/)
-- [Staff](/post/staff/)
-- [Bar](/post/bar/)
+- [Stick](/zh/post/stick/)
+- [Staff](/zh/post/staff/)
+- [Bar](/zh/post/bar/)
 - Mast
-- [Beam](/post/beam/)
+- [Beam](/zh/post/beam/)

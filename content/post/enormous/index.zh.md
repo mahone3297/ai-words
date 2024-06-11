@@ -11,20 +11,20 @@ keywords = ['ai words', 'enormous']
 /ɪnˈfɔːrm/
 
 ## 释义
-- **形容词**: 极大的，巨大的，庞大的。例如: "[The](/post/the/) [company](/post/company/) had [to](/post/to/) [deal](/post/deal/) [with](/post/with/) an [enormous](/post/enormous/) [financial](/post/financial/) [loss](/post/loss/)."
-- **副词**: 大量地，非常。例如: "[She](/post/she/) was enormously talented [in](/post/in/) [painting](/post/painting/)."
+- **形容词**: 极大的，巨大的，庞大的。例如: "[The](/zh/post/the/) [company](/zh/post/company/) had [to](/zh/post/to/) [deal](/zh/post/deal/) [with](/zh/post/with/) an [enormous](/zh/post/enormous/) [financial](/zh/post/financial/) [loss](/zh/post/loss/)."
+- **副词**: 大量地，非常。例如: "[She](/zh/post/she/) was enormously talented [in](/zh/post/in/) [painting](/zh/post/painting/)."
 
 ## 短语
-- "[enormous](/post/enormous/) [amount](/post/amount/)" 表示大量的数量。
-- "[enormous](/post/enormous/) [success](/post/success/)" 指非常成功的事物或人。
+- "[enormous](/zh/post/enormous/) [amount](/zh/post/amount/)" 表示大量的数量。
+- "[enormous](/zh/post/enormous/) [success](/zh/post/success/)" 指非常成功的事物或人。
 
 ## 例句
-- 形容词: "[The](/post/the/) [elephant](/post/elephant/) has an [enormous](/post/enormous/) [body](/post/body/) compared [to](/post/to/) [other](/post/other/) animals."
-- 副词: "[He](/post/he/) was enormously [grateful](/post/grateful/) [for](/post/for/) [their](/post/their/) [help](/post/help/)."
+- 形容词: "[The](/zh/post/the/) [elephant](/zh/post/elephant/) has an [enormous](/zh/post/enormous/) [body](/zh/post/body/) compared [to](/zh/post/to/) [other](/zh/post/other/) animals."
+- 副词: "[He](/zh/post/he/) was enormously [grateful](/zh/post/grateful/) [for](/zh/post/for/) [their](/zh/post/their/) [help](/zh/post/help/)."
 
 ## 同义词
-- [Huge](/post/huge/)
+- [Huge](/zh/post/huge/)
 - Massive
-- [Immense](/post/immense/)
+- [Immense](/zh/post/immense/)
 - Gigantic
 - Colossal

@@ -7,45 +7,45 @@ description = '[lɔdʒ] vi.暂住，借宿，投宿'
 keywords = ['ai words', 'lodge']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lɒdʒ/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-1. [A](/en/post/a/) [building](/en/post/building/), [often](/en/post/often/) [temporary](/en/post/temporary/) [or](/en/post/or/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) hunting [lodge](/en/post/lodge/) [or](/en/post/or/) [a](/en/post/a/) [ski](/en/post/ski/) [lodge](/en/post/lodge/).
-   > [Example](/en/post/example/): "[They](/en/post/they/) stayed [at](/en/post/at/) [a](/en/post/a/) cozy [mountain](/en/post/mountain/) [lodge](/en/post/lodge/) [during](/en/post/during/) [their](/en/post/their/) [winter](/en/post/winter/) [vacation](/en/post/vacation/)."
-2. [A](/en/post/a/) [club](/en/post/club/) [or](/en/post/or/) [society](/en/post/society/) [that](/en/post/that/) meets [regularly](/en/post/regularly/) [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/).
-   > [Example](/en/post/example/): "[The](/en/post/the/) Freemasons [have](/en/post/have/) [a](/en/post/a/) [grand](/en/post/grand/) [lodge](/en/post/lodge/) [where](/en/post/where/) [they](/en/post/they/) [hold](/en/post/hold/) [their](/en/post/their/) meetings."
-3. [A](/en/post/a/) [room](/en/post/room/) [or](/en/post/or/) [set](/en/post/set/) [of](/en/post/of/) rooms [in](/en/post/in/) [a](/en/post/a/) [large](/en/post/large/) [house](/en/post/house/) [or](/en/post/or/) [college](/en/post/college/) assigned [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [person](/en/post/person/) [or](/en/post/or/) [group](/en/post/group/).
-   > [Example](/en/post/example/): "[The](/en/post/the/) visiting [professor](/en/post/professor/) was given [a](/en/post/a/) spacious [lodge](/en/post/lodge/) [within](/en/post/within/) [the](/en/post/the/) [university](/en/post/university/) [campus](/en/post/campus/)."
-4. [In](/en/post/in/) [some](/en/post/some/) countries, [especially](/en/post/especially/) [in](/en/post/in/) [Africa](/en/post/africa/), [a](/en/post/a/) [dwelling](/en/post/dwelling/) [for](/en/post/for/) indigenous [people](/en/post/people/), [often](/en/post/often/) made [from](/en/post/from/) [local](/en/post/local/) materials.
-   > [Example](/en/post/example/): "[The](/en/post/the/) Maasai [live](/en/post/live/) [in](/en/post/in/) [traditional](/en/post/traditional/) [round](/en/post/round/) huts called manyattas, [which](/en/post/which/) [can](/en/post/can/) [be](/en/post/be/) referred [to](/en/post/to/) [as](/en/post/as/) lodges."
+### [Noun](/post/noun/) (n)
+1. [A](/post/a/) [building](/post/building/), [often](/post/often/) [temporary](/post/temporary/) [or](/post/or/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/), [such](/post/such/) [as](/post/as/) [a](/post/a/) hunting [lodge](/post/lodge/) [or](/post/or/) [a](/post/a/) [ski](/post/ski/) [lodge](/post/lodge/).
+   > [Example](/post/example/): "[They](/post/they/) stayed [at](/post/at/) [a](/post/a/) cozy [mountain](/post/mountain/) [lodge](/post/lodge/) [during](/post/during/) [their](/post/their/) [winter](/post/winter/) [vacation](/post/vacation/)."
+2. [A](/post/a/) [club](/post/club/) [or](/post/or/) [society](/post/society/) [that](/post/that/) meets [regularly](/post/regularly/) [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/).
+   > [Example](/post/example/): "[The](/post/the/) Freemasons [have](/post/have/) [a](/post/a/) [grand](/post/grand/) [lodge](/post/lodge/) [where](/post/where/) [they](/post/they/) [hold](/post/hold/) [their](/post/their/) meetings."
+3. [A](/post/a/) [room](/post/room/) [or](/post/or/) [set](/post/set/) [of](/post/of/) rooms [in](/post/in/) [a](/post/a/) [large](/post/large/) [house](/post/house/) [or](/post/or/) [college](/post/college/) assigned [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [person](/post/person/) [or](/post/or/) [group](/post/group/).
+   > [Example](/post/example/): "[The](/post/the/) visiting [professor](/post/professor/) was given [a](/post/a/) spacious [lodge](/post/lodge/) [within](/post/within/) [the](/post/the/) [university](/post/university/) [campus](/post/campus/)."
+4. [In](/post/in/) [some](/post/some/) countries, [especially](/post/especially/) [in](/post/in/) [Africa](/post/africa/), [a](/post/a/) [dwelling](/post/dwelling/) [for](/post/for/) indigenous [people](/post/people/), [often](/post/often/) made [from](/post/from/) [local](/post/local/) materials.
+   > [Example](/post/example/): "[The](/post/the/) Maasai [live](/post/live/) [in](/post/in/) [traditional](/post/traditional/) [round](/post/round/) huts called manyattas, [which](/post/which/) [can](/post/can/) [be](/post/be/) referred [to](/post/to/) [as](/post/as/) lodges."
 
-### [Verb](/en/post/verb/) (v)
-1. [To](/en/post/to/) [put](/en/post/put/) [up](/en/post/up/) [or](/en/post/or/) [accommodate](/en/post/accommodate/) [in](/en/post/in/) [a](/en/post/a/) [lodge](/en/post/lodge/) [or](/en/post/or/) [similar](/en/post/similar/) [accommodation](/en/post/accommodation/).
-   > [Example](/en/post/example/): "[We](/en/post/we/) lodged [at](/en/post/at/) [a](/en/post/a/) [bed](/en/post/bed/) [and](/en/post/and/) [breakfast](/en/post/breakfast/) [near](/en/post/near/) [the](/en/post/the/) [city](/en/post/city/) center."
-2. [To](/en/post/to/) [store](/en/post/store/) [or](/en/post/or/) [deposit](/en/post/deposit/) [something](/en/post/something/), [especially](/en/post/especially/) temporarily.
-   > [Example](/en/post/example/): "[The](/en/post/the/) hunters lodged [their](/en/post/their/) rifles securely [before](/en/post/before/) entering [the](/en/post/the/) [cabin](/en/post/cabin/)."
-3. [To](/en/post/to/) [enter](/en/post/enter/) [or](/en/post/or/) [position](/en/post/position/) [something](/en/post/something/) firmly [within](/en/post/within/) [a](/en/post/a/) [space](/en/post/space/).
-   > [Example](/en/post/example/): "[The](/en/post/the/) [arrow](/en/post/arrow/) was lodged deeply [in](/en/post/in/) [the](/en/post/the/) [tree](/en/post/tree/) [trunk](/en/post/trunk/)."
-4. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [formal](/en/post/formal/) [complaint](/en/post/complaint/) [or](/en/post/or/) [application](/en/post/application/); [to](/en/post/to/) [register](/en/post/register/) [or](/en/post/or/) [file](/en/post/file/) [something](/en/post/something/).
-   > [Example](/en/post/example/): "[She](/en/post/she/) lodged [a](/en/post/a/) [complaint](/en/post/complaint/) [with](/en/post/with/) [the](/en/post/the/) [customer](/en/post/customer/) [service](/en/post/service/) [department](/en/post/department/)."
+### [Verb](/post/verb/) (v)
+1. [To](/post/to/) [put](/post/put/) [up](/post/up/) [or](/post/or/) [accommodate](/post/accommodate/) [in](/post/in/) [a](/post/a/) [lodge](/post/lodge/) [or](/post/or/) [similar](/post/similar/) [accommodation](/post/accommodation/).
+   > [Example](/post/example/): "[We](/post/we/) lodged [at](/post/at/) [a](/post/a/) [bed](/post/bed/) [and](/post/and/) [breakfast](/post/breakfast/) [near](/post/near/) [the](/post/the/) [city](/post/city/) center."
+2. [To](/post/to/) [store](/post/store/) [or](/post/or/) [deposit](/post/deposit/) [something](/post/something/), [especially](/post/especially/) temporarily.
+   > [Example](/post/example/): "[The](/post/the/) hunters lodged [their](/post/their/) rifles securely [before](/post/before/) entering [the](/post/the/) [cabin](/post/cabin/)."
+3. [To](/post/to/) [enter](/post/enter/) [or](/post/or/) [position](/post/position/) [something](/post/something/) firmly [within](/post/within/) [a](/post/a/) [space](/post/space/).
+   > [Example](/post/example/): "[The](/post/the/) [arrow](/post/arrow/) was lodged deeply [in](/post/in/) [the](/post/the/) [tree](/post/tree/) [trunk](/post/trunk/)."
+4. [To](/post/to/) [make](/post/make/) [a](/post/a/) [formal](/post/formal/) [complaint](/post/complaint/) [or](/post/or/) [application](/post/application/); [to](/post/to/) [register](/post/register/) [or](/post/or/) [file](/post/file/) [something](/post/something/).
+   > [Example](/post/example/): "[She](/post/she/) lodged [a](/post/a/) [complaint](/post/complaint/) [with](/post/with/) [the](/post/the/) [customer](/post/customer/) [service](/post/service/) [department](/post/department/)."
 
 ## Phrases
-- "[Lodge](/en/post/lodge/) [a](/en/post/a/) [complaint](/en/post/complaint/)": [To](/en/post/to/) officially [submit](/en/post/submit/) [a](/en/post/a/) grievance [or](/en/post/or/) [issue](/en/post/issue/).
-- "[Lodge](/en/post/lodge/) [in](/en/post/in/) one's [mind](/en/post/mind/)": [To](/en/post/to/) [fix](/en/post/fix/) an [idea](/en/post/idea/) [or](/en/post/or/) [memory](/en/post/memory/) firmly [in](/en/post/in/) one's thoughts.
-- "[Lodge](/en/post/lodge/) [with](/en/post/with/)": [To](/en/post/to/) [stay](/en/post/stay/) temporarily [at](/en/post/at/) someone's [home](/en/post/home/) [or](/en/post/or/) [establishment](/en/post/establishment/).
+- "[Lodge](/post/lodge/) [a](/post/a/) [complaint](/post/complaint/)": [To](/post/to/) officially [submit](/post/submit/) [a](/post/a/) grievance [or](/post/or/) [issue](/post/issue/).
+- "[Lodge](/post/lodge/) [in](/post/in/) one's [mind](/post/mind/)": [To](/post/to/) [fix](/post/fix/) an [idea](/post/idea/) [or](/post/or/) [memory](/post/memory/) firmly [in](/post/in/) one's thoughts.
+- "[Lodge](/post/lodge/) [with](/post/with/)": [To](/post/to/) [stay](/post/stay/) temporarily [at](/post/at/) someone's [home](/post/home/) [or](/post/or/) [establishment](/post/establishment/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [resort](/en/post/resort/) has [several](/en/post/several/) [luxury](/en/post/luxury/) lodges [by](/en/post/by/) [the](/en/post/the/) [lake](/en/post/lake/) [for](/en/post/for/) guests [to](/en/post/to/) [enjoy](/en/post/enjoy/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [of](/en/post/of/) hiking, [we](/en/post/we/) [finally](/en/post/finally/) lodged [ourselves](/en/post/ourselves/) [in](/en/post/in/) [a](/en/post/a/) [comfortable](/en/post/comfortable/) [cabin](/en/post/cabin/)."
-- **[Verb](/en/post/verb/) ([complaint](/en/post/complaint/))**: "[Following](/en/post/following/) [the](/en/post/the/) [incident](/en/post/incident/), [he](/en/post/he/) decided [to](/en/post/to/) [lodge](/en/post/lodge/) [a](/en/post/a/) [formal](/en/post/formal/) [complaint](/en/post/complaint/) [against](/en/post/against/) [the](/en/post/the/) [company](/en/post/company/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [resort](/post/resort/) has [several](/post/several/) [luxury](/post/luxury/) lodges [by](/post/by/) [the](/post/the/) [lake](/post/lake/) [for](/post/for/) guests [to](/post/to/) [enjoy](/post/enjoy/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [of](/post/of/) hiking, [we](/post/we/) [finally](/post/finally/) lodged [ourselves](/post/ourselves/) [in](/post/in/) [a](/post/a/) [comfortable](/post/comfortable/) [cabin](/post/cabin/)."
+- **[Verb](/post/verb/) ([complaint](/post/complaint/))**: "[Following](/post/following/) [the](/post/the/) [incident](/post/incident/), [he](/post/he/) decided [to](/post/to/) [lodge](/post/lodge/) [a](/post/a/) [formal](/post/formal/) [complaint](/post/complaint/) [against](/post/against/) [the](/post/the/) [company](/post/company/)."
 
 ## Synonyms
-- [Accommodate](/en/post/accommodate/)
-- [House](/en/post/house/)
-- [Shelter](/en/post/shelter/)
-- [Board](/en/post/board/)
-- [Deposit](/en/post/deposit/)
-- [Register](/en/post/register/)
-- [File](/en/post/file/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) complaints [or](/en/post/or/) applications)
+- [Accommodate](/post/accommodate/)
+- [House](/post/house/)
+- [Shelter](/post/shelter/)
+- [Board](/post/board/)
+- [Deposit](/post/deposit/)
+- [Register](/post/register/)
+- [File](/post/file/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) complaints [or](/post/or/) applications)

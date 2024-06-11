@@ -12,24 +12,24 @@ keywords = ['ai words', 'associate']
 
 ## 释义
 - **动词**:
-1. 与...交往；结交。例如: "[He](/post/he/) associates [with](/post/with/) [influential](/post/influential/) [people](/post/people/) [in](/post/in/) [the](/post/the/) [industry](/post/industry/)."
-2. 联想；联系。例如: "[When](/post/when/) I [hear](/post/hear/) [the](/post/the/) [word](/post/word/) '[summer](/post/summer/)', I [associate](/post/associate/) [it](/post/it/) [with](/post/with/) vacations [and](/post/and/) [sunshine](/post/sunshine/)."
+1. 与...交往；结交。例如: "[He](/zh/post/he/) associates [with](/zh/post/with/) [influential](/zh/post/influential/) [people](/zh/post/people/) [in](/zh/post/in/) [the](/zh/post/the/) [industry](/zh/post/industry/)."
+2. 联想；联系。例如: "[When](/zh/post/when/) I [hear](/zh/post/hear/) [the](/zh/post/the/) [word](/zh/post/word/) '[summer](/zh/post/summer/)', I [associate](/zh/post/associate/) [it](/zh/post/it/) [with](/zh/post/with/) vacations [and](/zh/post/and/) [sunshine](/zh/post/sunshine/)."
 
 - **名词**:
-1. 合作者；伙伴。例如: "[She](/post/she/) is [a](/post/a/) [valuable](/post/valuable/) [associate](/post/associate/) [in](/post/in/) [our](/post/our/) [team](/post/team/)."
-2. (大学或公司的)助理教授或助理。例如: "[He](/post/he/) was promoted [from](/post/from/) [assistant](/post/assistant/) [to](/post/to/) [associate](/post/associate/) [professor](/post/professor/)."
+1. 合作者；伙伴。例如: "[She](/zh/post/she/) is [a](/zh/post/a/) [valuable](/zh/post/valuable/) [associate](/zh/post/associate/) [in](/zh/post/in/) [our](/zh/post/our/) [team](/zh/post/team/)."
+2. (大学或公司的)助理教授或助理。例如: "[He](/zh/post/he/) was promoted [from](/zh/post/from/) [assistant](/zh/post/assistant/) [to](/zh/post/to/) [associate](/zh/post/associate/) [professor](/zh/post/professor/)."
 
 ## 短语
-- "[Associate](/post/associate/) [with](/post/with/) sb" 意味着与某人交往或合作。例如: "[She](/post/she/) has chosen [to](/post/to/) [associate](/post/associate/) [with](/post/with/) artists [who](/post/who/) [share](/post/share/) [her](/post/her/) [vision](/post/vision/)."
-- "[Associate](/post/associate/) [degree](/post/degree/)" 指的是大学的副学士学位。
+- "[Associate](/zh/post/associate/) [with](/zh/post/with/) sb" 意味着与某人交往或合作。例如: "[She](/zh/post/she/) has chosen [to](/zh/post/to/) [associate](/zh/post/associate/) [with](/zh/post/with/) artists [who](/zh/post/who/) [share](/zh/post/share/) [her](/zh/post/her/) [vision](/zh/post/vision/)."
+- "[Associate](/zh/post/associate/) [degree](/zh/post/degree/)" 指的是大学的副学士学位。
 
 ## 例句
-- 动词: "[He](/post/he/) enjoys associating [with](/post/with/) [people](/post/people/) [from](/post/from/) [different](/post/different/) cultural backgrounds."
-- 名词: "[She](/post/she/) has worked [her](/post/her/) [way](/post/way/) [up](/post/up/) [from](/post/from/) intern [to](/post/to/) [associate](/post/associate/) [in](/post/in/) [just](/post/just/) [two](/post/two/) years."
+- 动词: "[He](/zh/post/he/) enjoys associating [with](/zh/post/with/) [people](/zh/post/people/) [from](/zh/post/from/) [different](/zh/post/different/) cultural backgrounds."
+- 名词: "[She](/zh/post/she/) has worked [her](/zh/post/her/) [way](/zh/post/way/) [up](/zh/post/up/) [from](/zh/post/from/) intern [to](/zh/post/to/) [associate](/zh/post/associate/) [in](/zh/post/in/) [just](/zh/post/just/) [two](/zh/post/two/) years."
 
 ## 同义词
-- [Connect](/post/connect/)
-- [Link](/post/link/)
-- [Relate](/post/relate/)
-- [Join](/post/join/)
+- [Connect](/zh/post/connect/)
+- [Link](/zh/post/link/)
+- [Relate](/zh/post/relate/)
+- [Join](/zh/post/join/)
 - Collaborate

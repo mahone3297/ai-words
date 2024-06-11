@@ -7,42 +7,42 @@ description = '[ˌsitjuˈei∫ən] n.位置；处境；形势'
 keywords = ['ai words', 'situation']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪˈtʃuːeɪʃ(ə)n/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [particular](/en/post/particular/) [set](/en/post/set/) [of](/en/post/of/) circumstances [or](/en/post/or/) conditions [that](/en/post/that/) [someone](/en/post/someone/) finds [themselves](/en/post/themselves/) [in](/en/post/in/), [often](/en/post/often/) involving problems [or](/en/post/or/) challenges: *[The](/en/post/the/) [current](/en/post/current/) [situation](/en/post/situation/) is [quite](/en/post/quite/) challenging.*
-- [A](/en/post/a/) [point](/en/post/point/) [in](/en/post/in/) [time](/en/post/time/) [or](/en/post/or/) [phase](/en/post/phase/) [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/): *[We](/en/post/we/) discussed [the](/en/post/the/) [situation](/en/post/situation/) [at](/en/post/at/) [the](/en/post/the/) [meeting](/en/post/meeting/).*
-- [A](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) [people](/en/post/people/), things, [or](/en/post/or/) events: *[She](/en/post/she/) adjusted [her](/en/post/her/) [chair](/en/post/chair/) [to](/en/post/to/) [a](/en/post/a/) [comfortable](/en/post/comfortable/) [situation](/en/post/situation/).*
+### [Noun](/post/noun/)
+- [A](/post/a/) [particular](/post/particular/) [set](/post/set/) [of](/post/of/) circumstances [or](/post/or/) conditions [that](/post/that/) [someone](/post/someone/) finds [themselves](/post/themselves/) [in](/post/in/), [often](/post/often/) involving problems [or](/post/or/) challenges: *[The](/post/the/) [current](/post/current/) [situation](/post/situation/) is [quite](/post/quite/) challenging.*
+- [A](/post/a/) [point](/post/point/) [in](/post/in/) [time](/post/time/) [or](/post/or/) [phase](/post/phase/) [of](/post/of/) [a](/post/a/) [process](/post/process/): *[We](/post/we/) discussed [the](/post/the/) [situation](/post/situation/) [at](/post/at/) [the](/post/the/) [meeting](/post/meeting/).*
+- [A](/post/a/) [position](/post/position/) [or](/post/or/) [arrangement](/post/arrangement/) [of](/post/of/) [people](/post/people/), things, [or](/post/or/) events: *[She](/post/she/) adjusted [her](/post/her/) [chair](/post/chair/) [to](/post/to/) [a](/post/a/) [comfortable](/post/comfortable/) [situation](/post/situation/).*
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [condition](/en/post/condition/) [or](/en/post/or/) [state](/en/post/state/): *[They](/en/post/they/) [found](/en/post/found/) [themselves](/en/post/themselves/) [in](/en/post/in/) an [awkward](/en/post/awkward/) [situation](/en/post/situation/).*
-- [To](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [or](/en/post/or/) [manage](/en/post/manage/) [a](/en/post/a/) [particular](/en/post/particular/) [circumstance](/en/post/circumstance/): *[He](/en/post/he/) handled [the](/en/post/the/) [situation](/en/post/situation/) [with](/en/post/with/) [grace](/en/post/grace/).*
-- [To](/en/post/to/) [perceive](/en/post/perceive/) [or](/en/post/or/) [consider](/en/post/consider/) [the](/en/post/the/) facts [or](/en/post/or/) conditions [of](/en/post/of/) [something](/en/post/something/): *[She](/en/post/she/) took [a](/en/post/a/) [moment](/en/post/moment/) [to](/en/post/to/) [size](/en/post/size/) [up](/en/post/up/) [the](/en/post/the/) [situation](/en/post/situation/).*
+### [Verb](/post/verb/)
+- [To](/post/to/) [be](/post/be/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [condition](/post/condition/) [or](/post/or/) [state](/post/state/): *[They](/post/they/) [found](/post/found/) [themselves](/post/themselves/) [in](/post/in/) an [awkward](/post/awkward/) [situation](/post/situation/).*
+- [To](/post/to/) [deal](/post/deal/) [with](/post/with/) [or](/post/or/) [manage](/post/manage/) [a](/post/a/) [particular](/post/particular/) [circumstance](/post/circumstance/): *[He](/post/he/) handled [the](/post/the/) [situation](/post/situation/) [with](/post/with/) [grace](/post/grace/).*
+- [To](/post/to/) [perceive](/post/perceive/) [or](/post/or/) [consider](/post/consider/) [the](/post/the/) facts [or](/post/or/) conditions [of](/post/of/) [something](/post/something/): *[She](/post/she/) took [a](/post/a/) [moment](/post/moment/) [to](/post/to/) [size](/post/size/) [up](/post/up/) [the](/post/the/) [situation](/post/situation/).*
 
-### [Adjective](/en/post/adjective/)
-- [Suitable](/en/post/suitable/) [or](/en/post/or/) [appropriate](/en/post/appropriate/): *[A](/en/post/a/) [calm](/en/post/calm/) [attitude](/en/post/attitude/) is [essential](/en/post/essential/) [in](/en/post/in/) [any](/en/post/any/) [difficult](/en/post/difficult/) [situation](/en/post/situation/).*
-- Existing [or](/en/post/or/) occurring [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [time](/en/post/time/): *[The](/en/post/the/) [situation](/en/post/situation/) arose unexpectedly.*
-- Characterized [by](/en/post/by/) [a](/en/post/a/) [particular](/en/post/particular/) [set](/en/post/set/) [of](/en/post/of/) circumstances: *[A](/en/post/a/) [tense](/en/post/tense/) [political](/en/post/political/) [situation](/en/post/situation/)*
+### [Adjective](/post/adjective/)
+- [Suitable](/post/suitable/) [or](/post/or/) [appropriate](/post/appropriate/): *[A](/post/a/) [calm](/post/calm/) [attitude](/post/attitude/) is [essential](/post/essential/) [in](/post/in/) [any](/post/any/) [difficult](/post/difficult/) [situation](/post/situation/).*
+- Existing [or](/post/or/) occurring [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [time](/post/time/): *[The](/post/the/) [situation](/post/situation/) arose unexpectedly.*
+- Characterized [by](/post/by/) [a](/post/a/) [particular](/post/particular/) [set](/post/set/) [of](/post/of/) circumstances: *[A](/post/a/) [tense](/post/tense/) [political](/post/political/) [situation](/post/situation/)*
 
 ## Phrases
-- "[Deal](/en/post/deal/) [with](/en/post/with/) [the](/en/post/the/) [situation](/en/post/situation/)" [means](/en/post/means/) [to](/en/post/to/) [address](/en/post/address/) [and](/en/post/and/) [resolve](/en/post/resolve/) [a](/en/post/a/) [problem](/en/post/problem/).
-- "[In](/en/post/in/) [this](/en/post/this/) [situation](/en/post/situation/)" refers [to](/en/post/to/) [the](/en/post/the/) [current](/en/post/current/) circumstances.
-- "[A](/en/post/a/) [matter](/en/post/matter/) [of](/en/post/of/) [situation](/en/post/situation/)" highlights [the](/en/post/the/) context-dependent [nature](/en/post/nature/) [of](/en/post/of/) [a](/en/post/a/) [decision](/en/post/decision/).
+- "[Deal](/post/deal/) [with](/post/with/) [the](/post/the/) [situation](/post/situation/)" [means](/post/means/) [to](/post/to/) [address](/post/address/) [and](/post/and/) [resolve](/post/resolve/) [a](/post/a/) [problem](/post/problem/).
+- "[In](/post/in/) [this](/post/this/) [situation](/post/situation/)" refers [to](/post/to/) [the](/post/the/) [current](/post/current/) circumstances.
+- "[A](/post/a/) [matter](/post/matter/) [of](/post/of/) [situation](/post/situation/)" highlights [the](/post/the/) context-dependent [nature](/post/nature/) [of](/post/of/) [a](/post/a/) [decision](/post/decision/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was unsure [how](/en/post/how/) [to](/en/post/to/) [react](/en/post/react/) [to](/en/post/to/) [the](/en/post/the/) [sudden](/en/post/sudden/) [situation](/en/post/situation/) [at](/en/post/at/) [work](/en/post/work/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [quickly](/en/post/quickly/) defused [the](/en/post/the/) [tense](/en/post/tense/) [situation](/en/post/situation/) [by](/en/post/by/) offering [a](/en/post/a/) [compromise](/en/post/compromise/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [team](/en/post/team/) adapted [to](/en/post/to/) [the](/en/post/the/) challenging [situation](/en/post/situation/) [with](/en/post/with/) resilience."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was unsure [how](/post/how/) [to](/post/to/) [react](/post/react/) [to](/post/to/) [the](/post/the/) [sudden](/post/sudden/) [situation](/post/situation/) [at](/post/at/) [work](/post/work/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) [quickly](/post/quickly/) defused [the](/post/the/) [tense](/post/tense/) [situation](/post/situation/) [by](/post/by/) offering [a](/post/a/) [compromise](/post/compromise/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [team](/post/team/) adapted [to](/post/to/) [the](/post/the/) challenging [situation](/post/situation/) [with](/post/with/) resilience."
 
 ## Synonyms
 - Circumstances
 - Conditions
 - Scenario
-- [State](/en/post/state/)
+- [State](/post/state/)
 - Affairs
-- [Circumstance](/en/post/circumstance/)
+- [Circumstance](/post/circumstance/)
 - Setback
 - Conundrum
 - Predicament

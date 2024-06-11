@@ -7,40 +7,40 @@ description = '[fɔː] num.四，四个，第四'
 keywords = ['ai words', 'four']
 +++
 
-## [Word](/en/post/word/): [Four](/en/post/four/)
+## [Word](/post/word/): [Four](/post/four/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɔːr/
 
 ## Definitions
 ### Numeral
-- [The](/en/post/the/) [number](/en/post/number/) [that](/en/post/that/) comes [after](/en/post/after/) [three](/en/post/three/) [and](/en/post/and/) [before](/en/post/before/) [five](/en/post/five/) [in](/en/post/in/) [the](/en/post/the/) [sequence](/en/post/sequence/) [of](/en/post/of/) counting numbers. [It](/en/post/it/) is written [as](/en/post/as/) '4' [and](/en/post/and/) [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [mathematical](/en/post/mathematical/) contexts [and](/en/post/and/) [to](/en/post/to/) denote [quantity](/en/post/quantity/). [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) are [four](/en/post/four/) chairs [around](/en/post/around/) [the](/en/post/the/) [table](/en/post/table/)."
+- [The](/post/the/) [number](/post/number/) [that](/post/that/) comes [after](/post/after/) [three](/post/three/) [and](/post/and/) [before](/post/before/) [five](/post/five/) [in](/post/in/) [the](/post/the/) [sequence](/post/sequence/) [of](/post/of/) counting numbers. [It](/post/it/) is written [as](/post/as/) '4' [and](/post/and/) [often](/post/often/) [used](/post/used/) [in](/post/in/) [mathematical](/post/mathematical/) contexts [and](/post/and/) [to](/post/to/) denote [quantity](/post/quantity/). [For](/post/for/) [example](/post/example/): "[There](/post/there/) are [four](/post/four/) chairs [around](/post/around/) [the](/post/the/) [table](/post/table/)."
 
-### [Noun](/en/post/noun/)
-- Refers [to](/en/post/to/) [a](/en/post/a/) [quantity](/en/post/quantity/) consisting [of](/en/post/of/) [four](/en/post/four/) items [or](/en/post/or/) units. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [four](/en/post/four/) [more](/en/post/more/) volunteers [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [team](/en/post/team/)."
-- [As](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [date](/en/post/date/) [or](/en/post/or/) [time](/en/post/time/) [reference](/en/post/reference/): "It's [quarter](/en/post/quarter/) [past](/en/post/past/) [four](/en/post/four/)."
-- [In](/en/post/in/) [card](/en/post/card/) games [and](/en/post/and/) [other](/en/post/other/) contexts [where](/en/post/where/) numerals [have](/en/post/have/) [specific](/en/post/specific/) meanings: "[The](/en/post/the/) [four](/en/post/four/) [of](/en/post/of/) hearts is [the](/en/post/the/) highest [card](/en/post/card/)."
+### [Noun](/post/noun/)
+- Refers [to](/post/to/) [a](/post/a/) [quantity](/post/quantity/) consisting [of](/post/of/) [four](/post/four/) items [or](/post/or/) units. [For](/post/for/) [example](/post/example/): "[We](/post/we/) [need](/post/need/) [four](/post/four/) [more](/post/more/) volunteers [to](/post/to/) [make](/post/make/) [a](/post/a/) [team](/post/team/)."
+- [As](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [date](/post/date/) [or](/post/or/) [time](/post/time/) [reference](/post/reference/): "It's [quarter](/post/quarter/) [past](/post/past/) [four](/post/four/)."
+- [In](/post/in/) [card](/post/card/) games [and](/post/and/) [other](/post/other/) contexts [where](/post/where/) numerals [have](/post/have/) [specific](/post/specific/) meanings: "[The](/post/the/) [four](/post/four/) [of](/post/of/) hearts is [the](/post/the/) highest [card](/post/card/)."
 
-### [Adjective](/en/post/adjective/)
-- Denoting [something](/en/post/something/) [which](/en/post/which/) has [four](/en/post/four/) parts [or](/en/post/or/) units. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) four-bedroom [house](/en/post/house/)."
-- [In](/en/post/in/) ordinal numbers: "[She](/en/post/she/) came [fourth](/en/post/fourth/) [in](/en/post/in/) [the](/en/post/the/) [race](/en/post/race/)."
+### [Adjective](/post/adjective/)
+- Denoting [something](/post/something/) [which](/post/which/) has [four](/post/four/) parts [or](/post/or/) units. [For](/post/for/) [example](/post/example/): "[A](/post/a/) four-bedroom [house](/post/house/)."
+- [In](/post/in/) ordinal numbers: "[She](/post/she/) came [fourth](/post/fourth/) [in](/post/in/) [the](/post/the/) [race](/post/race/)."
 
 ## Phrases
-- "[Four](/en/post/four/) [by](/en/post/by/) [four](/en/post/four/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [with](/en/post/with/) four-wheel [drive](/en/post/drive/).
-- "[On](/en/post/on/) [all](/en/post/all/) fours" describes [being](/en/post/being/) [in](/en/post/in/) [a](/en/post/a/) [position](/en/post/position/) [where](/en/post/where/) one's hands [and](/en/post/and/) knees [touch](/en/post/touch/) [the](/en/post/the/) [ground](/en/post/ground/).
-- "Four-letter [word](/en/post/word/)" [often](/en/post/often/) refers [to](/en/post/to/) [a](/en/post/a/) profane [or](/en/post/or/) vulgar [term](/en/post/term/).
-- "[Quarter](/en/post/quarter/) [to](/en/post/to/) [four](/en/post/four/)" [or](/en/post/or/) "[quarter](/en/post/quarter/) [past](/en/post/past/) [four](/en/post/four/)" is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [specific](/en/post/specific/) [time](/en/post/time/).
+- "[Four](/post/four/) [by](/post/by/) [four](/post/four/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [vehicle](/post/vehicle/) [with](/post/with/) four-wheel [drive](/post/drive/).
+- "[On](/post/on/) [all](/post/all/) fours" describes [being](/post/being/) [in](/post/in/) [a](/post/a/) [position](/post/position/) [where](/post/where/) one's hands [and](/post/and/) knees [touch](/post/touch/) [the](/post/the/) [ground](/post/ground/).
+- "Four-letter [word](/post/word/)" [often](/post/often/) refers [to](/post/to/) [a](/post/a/) profane [or](/post/or/) vulgar [term](/post/term/).
+- "[Quarter](/post/quarter/) [to](/post/to/) [four](/post/four/)" [or](/post/or/) "[quarter](/post/quarter/) [past](/post/past/) [four](/post/four/)" is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [specific](/post/specific/) [time](/post/time/).
 
-## [Example](/en/post/example/) Sentences
-- **Numeral**: "[She](/en/post/she/) had [only](/en/post/only/) [four](/en/post/four/) apples [left](/en/post/left/) [in](/en/post/in/) [her](/en/post/her/) [basket](/en/post/basket/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [family](/en/post/family/) consists [of](/en/post/of/) [two](/en/post/two/) parents [and](/en/post/and/) [their](/en/post/their/) [four](/en/post/four/) children."
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [puzzle](/en/post/puzzle/) has [four](/en/post/four/) corners [that](/en/post/that/) [need](/en/post/need/) [to](/en/post/to/) [fit](/en/post/fit/) [together](/en/post/together/)."
+## [Example](/post/example/) Sentences
+- **Numeral**: "[She](/post/she/) had [only](/post/only/) [four](/post/four/) apples [left](/post/left/) [in](/post/in/) [her](/post/her/) [basket](/post/basket/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [family](/post/family/) consists [of](/post/of/) [two](/post/two/) parents [and](/post/and/) [their](/post/their/) [four](/post/four/) children."
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [puzzle](/post/puzzle/) has [four](/post/four/) corners [that](/post/that/) [need](/post/need/) [to](/post/to/) [fit](/post/fit/) [together](/post/together/)."
 
 ## Synonyms
 - 4
-- IV ([in](/en/post/in/) Roman numerals)
+- IV ([in](/post/in/) Roman numerals)
 - Quattro (Italian)
-- Quartet ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [four](/en/post/four/))
-- [A](/en/post/a/) quartette (archaic) 
+- Quartet ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) [four](/post/four/))
+- [A](/post/a/) quartette (archaic) 
 
-[Note](/en/post/note/): [While](/en/post/while/) synonyms [for](/en/post/for/) numbers are [not](/en/post/not/) literal replacements, [these](/en/post/these/) terms [serve](/en/post/serve/) [similar](/en/post/similar/) functions depending [on](/en/post/on/) context (e.g., representing [the](/en/post/the/) [same](/en/post/same/) numerical [value](/en/post/value/) [or](/en/post/or/) denoting [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [four](/en/post/four/)).
+[Note](/post/note/): [While](/post/while/) synonyms [for](/post/for/) numbers are [not](/post/not/) literal replacements, [these](/post/these/) terms [serve](/post/serve/) [similar](/post/similar/) functions depending [on](/post/on/) context (e.g., representing [the](/post/the/) [same](/post/same/) numerical [value](/post/value/) [or](/post/or/) denoting [a](/post/a/) [group](/post/group/) [of](/post/of/) [four](/post/four/)).

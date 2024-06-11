@@ -11,22 +11,22 @@ keywords = ['ai words', 'echo']
 /ˈiːkoʊ/
 
 ## 释义
-- **名词**: 回声，声音的反射。例如: "[The](/post/the/) [echo](/post/echo/) [in](/post/in/) [the](/post/the/) canyon was amazing."
-- **动词**: 把声音反射回来，模仿或重复某人的言语或想法。例如: "[Her](/post/her/) words echoed [through](/post/through/) [the](/post/the/) [empty](/post/empty/) [hall](/post/hall/)."
-- **形容词**: 与前面的声音或想法相呼应的。例如: "An [echo](/post/echo/) [of](/post/of/) [his](/post/his/) [laughter](/post/laughter/) [still](/post/still/) lingered [in](/post/in/) [the](/post/the/) [room](/post/room/)."
+- **名词**: 回声，声音的反射。例如: "[The](/zh/post/the/) [echo](/zh/post/echo/) [in](/zh/post/in/) [the](/zh/post/the/) canyon was amazing."
+- **动词**: 把声音反射回来，模仿或重复某人的言语或想法。例如: "[Her](/zh/post/her/) words echoed [through](/zh/post/through/) [the](/zh/post/the/) [empty](/zh/post/empty/) [hall](/zh/post/hall/)."
+- **形容词**: 与前面的声音或想法相呼应的。例如: "An [echo](/zh/post/echo/) [of](/zh/post/of/) [his](/zh/post/his/) [laughter](/zh/post/laughter/) [still](/zh/post/still/) lingered [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/)."
 
 ## 短语
-- "[Echo](/post/echo/) [chamber](/post/chamber/)" 指一个观点和信息不断被重复而没有外来挑战的环境。
-- "[Echo](/post/echo/) someone's thoughts" 意味着同意或重复某人的观点。
+- "[Echo](/zh/post/echo/) [chamber](/zh/post/chamber/)" 指一个观点和信息不断被重复而没有外来挑战的环境。
+- "[Echo](/zh/post/echo/) someone's thoughts" 意味着同意或重复某人的观点。
 
 ## 例句
-- 名词: "[The](/post/the/) [cave](/post/cave/) produced [a](/post/a/) [clear](/post/clear/) [echo](/post/echo/) [when](/post/when/) I shouted."
-- 动词: "[The](/post/the/) child's [voice](/post/voice/) echoed [off](/post/off/) [the](/post/the/) walls."
-- 形容词: "[His](/post/his/) [speech](/post/speech/) was an [echo](/post/echo/) [of](/post/of/) [his](/post/his/) father's beliefs."
+- 名词: "[The](/zh/post/the/) [cave](/zh/post/cave/) produced [a](/zh/post/a/) [clear](/zh/post/clear/) [echo](/zh/post/echo/) [when](/zh/post/when/) I shouted."
+- 动词: "[The](/zh/post/the/) child's [voice](/zh/post/voice/) echoed [off](/zh/post/off/) [the](/zh/post/the/) walls."
+- 形容词: "[His](/zh/post/his/) [speech](/zh/post/speech/) was an [echo](/zh/post/echo/) [of](/zh/post/of/) [his](/zh/post/his/) father's beliefs."
 
 ## 同义词
-- [Reflection](/post/reflection/)
+- [Reflection](/zh/post/reflection/)
 - Reverberation
 - Resonance
-- [Repetition](/post/repetition/)
+- [Repetition](/zh/post/repetition/)
 - Reradiation

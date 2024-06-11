@@ -11,20 +11,20 @@ keywords = ['ai words', 'desire']
 /dɪˈzaɪər/
 
 ## 释义
-- **名词**: 欲望，渴望，希望得到的东西。例如: "[He](/post/he/) had [a](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [for](/post/for/) [success](/post/success/)."
-- **动词**: 渴望，希望，想要。例如: "[She](/post/she/) desires [to](/post/to/) [travel](/post/travel/) [the](/post/the/) [world](/post/world/) someday."
+- **名词**: 欲望，渴望，希望得到的东西。例如: "[He](/zh/post/he/) had [a](/zh/post/a/) [strong](/zh/post/strong/) [desire](/zh/post/desire/) [for](/zh/post/for/) [success](/zh/post/success/)."
+- **动词**: 渴望，希望，想要。例如: "[She](/zh/post/she/) desires [to](/zh/post/to/) [travel](/zh/post/travel/) [the](/zh/post/the/) [world](/zh/post/world/) someday."
 
 ## 短语
-- "[To](/post/to/) [satisfy](/post/satisfy/) one's [desire](/post/desire/)" 意味着满足某人的欲望或需求。
-- "[A](/post/a/) burning [desire](/post/desire/)" 形容非常强烈的渴望。
+- "[To](/zh/post/to/) [satisfy](/zh/post/satisfy/) one's [desire](/zh/post/desire/)" 意味着满足某人的欲望或需求。
+- "[A](/zh/post/a/) burning [desire](/zh/post/desire/)" 形容非常强烈的渴望。
 
 ## 例句
-- 名词: "[Her](/post/her/) [desire](/post/desire/) [for](/post/for/) [knowledge](/post/knowledge/) was insatiable."
-- 动词: "[He](/post/he/) desires [a](/post/a/) promotion [in](/post/in/) [his](/post/his/) [job](/post/job/)."
+- 名词: "[Her](/zh/post/her/) [desire](/zh/post/desire/) [for](/zh/post/for/) [knowledge](/zh/post/knowledge/) was insatiable."
+- 动词: "[He](/zh/post/he/) desires [a](/zh/post/a/) promotion [in](/zh/post/in/) [his](/zh/post/his/) [job](/zh/post/job/)."
   
 ## 同义词
-- [Want](/post/want/)
+- [Want](/zh/post/want/)
 - Longing
 - Craving
 - Yearning
-- [Appetite](/post/appetite/)
+- [Appetite](/zh/post/appetite/)

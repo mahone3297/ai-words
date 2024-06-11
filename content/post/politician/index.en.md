@@ -7,30 +7,30 @@ description = '[pɔliˈti∫ən] n.政治家；政客'
 keywords = ['ai words', 'politician']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /polɪˈtɪkən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) holds [a](/en/post/a/) [political](/en/post/political/) [office](/en/post/office/) [or](/en/post/or/) is actively involved [in](/en/post/in/) [politics](/en/post/politics/), typically [as](/en/post/as/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) legislative [body](/en/post/body/) [or](/en/post/or/) [a](/en/post/a/) [political](/en/post/political/) [party](/en/post/party/). [Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[politician](/en/post/politician/))
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [political](/en/post/political/) activities [or](/en/post/or/) [hold](/en/post/hold/) [a](/en/post/a/) [political](/en/post/political/) [position](/en/post/position/). [Cambridge](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[politician](/en/post/politician/))
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) holds [a](/post/a/) [political](/post/political/) [office](/post/office/) [or](/post/or/) is actively involved [in](/post/in/) [politics](/post/politics/), typically [as](/post/as/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) legislative [body](/post/body/) [or](/post/or/) [a](/post/a/) [political](/post/political/) [party](/post/party/). [Oxford](https://en.oxforddictionaries.com/[definition](/post/definition/)/[politician](/post/politician/))
+- **[Verb](/post/verb/)**: [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [political](/post/political/) activities [or](/post/or/) [hold](/post/hold/) [a](/post/a/) [political](/post/political/) [position](/post/position/). [Cambridge](https://[dictionary](/post/dictionary/).cambridge.org/[dictionary](/post/dictionary/)/english/[politician](/post/politician/))
 
 ## Phrases
-- "[A](/en/post/a/) [career](/en/post/career/) [in](/en/post/in/) [politics](/en/post/politics/)"
-- "[Run](/en/post/run/) [for](/en/post/for/) [office](/en/post/office/)"
-- "[Political](/en/post/political/) agenda"
-- "[Vote](/en/post/vote/) [for](/en/post/for/) [a](/en/post/a/) [politician](/en/post/politician/)"
+- "[A](/post/a/) [career](/post/career/) [in](/post/in/) [politics](/post/politics/)"
+- "[Run](/post/run/) [for](/post/for/) [office](/post/office/)"
+- "[Political](/post/political/) agenda"
+- "[Vote](/post/vote/) [for](/post/for/) [a](/post/a/) [politician](/post/politician/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [mayor](/en/post/mayor/) is [a](/en/post/a/) charismatic [young](/en/post/young/) [politician](/en/post/politician/) [with](/en/post/with/) [a](/en/post/a/) [strong](/en/post/strong/) environmental [platform](/en/post/platform/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) campaigning, [she](/en/post/she/) [finally](/en/post/finally/) became [a](/en/post/a/) [politician](/en/post/politician/), representing [her](/en/post/her/) [district](/en/post/district/) [in](/en/post/in/) [the](/en/post/the/) [state](/en/post/state/) legislature."
-- "[He](/en/post/he/) decided [to](/en/post/to/) [enter](/en/post/enter/) [politics](/en/post/politics/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [difference](/en/post/difference/) [in](/en/post/in/) [his](/en/post/his/) [community](/en/post/community/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [mayor](/post/mayor/) is [a](/post/a/) charismatic [young](/post/young/) [politician](/post/politician/) [with](/post/with/) [a](/post/a/) [strong](/post/strong/) environmental [platform](/post/platform/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) years [of](/post/of/) campaigning, [she](/post/she/) [finally](/post/finally/) became [a](/post/a/) [politician](/post/politician/), representing [her](/post/her/) [district](/post/district/) [in](/post/in/) [the](/post/the/) [state](/post/state/) legislature."
+- "[He](/post/he/) decided [to](/post/to/) [enter](/post/enter/) [politics](/post/politics/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [difference](/post/difference/) [in](/post/in/) [his](/post/his/) [community](/post/community/)."
 
 ## Synonyms
-- [Politician](/en/post/politician/)
-- [Statesman](/en/post/statesman/)
+- [Politician](/post/politician/)
+- [Statesman](/post/statesman/)
 - Politico
-- [Public](/en/post/public/) [servant](/en/post/servant/)
-- Politburo [member](/en/post/member/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- [Public](/post/public/) [servant](/post/servant/)
+- Politburo [member](/post/member/) ([in](/post/in/) [some](/post/some/) contexts)
 
 ## Antonyms
 - Non-political
@@ -38,8 +38,8 @@ keywords = ['ai words', 'politician']
 - Amateur
 
 ## Related Words
-- [Policy](/en/post/policy/)
+- [Policy](/post/policy/)
 - Governance
 - Lobbyist
 - Constituency
-- [Political](/en/post/political/) ideology
+- [Political](/post/political/) ideology

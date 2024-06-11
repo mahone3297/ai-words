@@ -7,36 +7,36 @@ description = '[ˈəunə] n.物主，所有人'
 keywords = ['ai words', 'owner']
 +++
 
-## [Word](/en/post/word/): [Owner](/en/post/owner/)
+## [Word](/post/word/): [Owner](/post/owner/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈəʊnər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [legal](/en/post/legal/) [possession](/en/post/possession/) [or](/en/post/or/) [control](/en/post/control/) [over](/en/post/over/) [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [property](/en/post/property/) [or](/en/post/or/) [a](/en/post/a/) [business](/en/post/business/). [The](/en/post/the/) [individual](/en/post/individual/) [with](/en/post/with/) [the](/en/post/the/) [right](/en/post/right/) [to](/en/post/to/) [use](/en/post/use/) [and](/en/post/and/) [enjoy](/en/post/enjoy/) [something](/en/post/something/), [often](/en/post/often/) [due](/en/post/due/) [to](/en/post/to/) [purchase](/en/post/purchase/), inheritance, [or](/en/post/or/) creation.
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) has [legal](/post/legal/) [possession](/post/possession/) [or](/post/or/) [control](/post/control/) [over](/post/over/) [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [property](/post/property/) [or](/post/or/) [a](/post/a/) [business](/post/business/). [The](/post/the/) [individual](/post/individual/) [with](/post/with/) [the](/post/the/) [right](/post/right/) [to](/post/to/) [use](/post/use/) [and](/post/and/) [enjoy](/post/enjoy/) [something](/post/something/), [often](/post/often/) [due](/post/due/) [to](/post/to/) [purchase](/post/purchase/), inheritance, [or](/post/or/) creation.
 
-### [Example](/en/post/example/) Sentences
-- _Noun_: "[The](/en/post/the/) house's [owner](/en/post/owner/) decided [to](/en/post/to/) renovate [the](/en/post/the/) [kitchen](/en/post/kitchen/)."
-- "[She](/en/post/she/) is [the](/en/post/the/) [proud](/en/post/proud/) [owner](/en/post/owner/) [of](/en/post/of/) [a](/en/post/a/) [successful](/en/post/successful/) startup [company](/en/post/company/)."
-- "[The](/en/post/the/) dog's [owner](/en/post/owner/) was [responsible](/en/post/responsible/) [for](/en/post/for/) cleaning [up](/en/post/up/) [after](/en/post/after/) [him](/en/post/him/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
+### [Example](/post/example/) Sentences
+- _Noun_: "[The](/post/the/) house's [owner](/post/owner/) decided [to](/post/to/) renovate [the](/post/the/) [kitchen](/post/kitchen/)."
+- "[She](/post/she/) is [the](/post/the/) [proud](/post/proud/) [owner](/post/owner/) [of](/post/of/) [a](/post/a/) [successful](/post/successful/) startup [company](/post/company/)."
+- "[The](/post/the/) dog's [owner](/post/owner/) was [responsible](/post/responsible/) [for](/post/for/) cleaning [up](/post/up/) [after](/post/after/) [him](/post/him/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
 
 ## Phrases
-- "[Change](/en/post/change/) [of](/en/post/of/) [ownership](/en/post/ownership/)": [The](/en/post/the/) [transfer](/en/post/transfer/) [of](/en/post/of/) [ownership](/en/post/ownership/) rights [from](/en/post/from/) [one](/en/post/one/) [person](/en/post/person/) [to](/en/post/to/) [another](/en/post/another/).
-- "[The](/en/post/the/) rightful [owner](/en/post/owner/)": Refers [to](/en/post/to/) [the](/en/post/the/) [person](/en/post/person/) [who](/en/post/who/) [by](/en/post/by/) [law](/en/post/law/) [or](/en/post/or/) [justice](/en/post/justice/) [should](/en/post/should/) [possess](/en/post/possess/) [something](/en/post/something/).
-- "Owner's [manual](/en/post/manual/)": [A](/en/post/a/) [user](/en/post/user/) [guide](/en/post/guide/) [provided](/en/post/provided/) [with](/en/post/with/) [a](/en/post/a/) [product](/en/post/product/) [that](/en/post/that/) contains instructions [for](/en/post/for/) [its](/en/post/its/) [operation](/en/post/operation/) [and](/en/post/and/) [maintenance](/en/post/maintenance/).
+- "[Change](/post/change/) [of](/post/of/) [ownership](/post/ownership/)": [The](/post/the/) [transfer](/post/transfer/) [of](/post/of/) [ownership](/post/ownership/) rights [from](/post/from/) [one](/post/one/) [person](/post/person/) [to](/post/to/) [another](/post/another/).
+- "[The](/post/the/) rightful [owner](/post/owner/)": Refers [to](/post/to/) [the](/post/the/) [person](/post/person/) [who](/post/who/) [by](/post/by/) [law](/post/law/) [or](/post/or/) [justice](/post/justice/) [should](/post/should/) [possess](/post/possess/) [something](/post/something/).
+- "Owner's [manual](/post/manual/)": [A](/post/a/) [user](/post/user/) [guide](/post/guide/) [provided](/post/provided/) [with](/post/with/) [a](/post/a/) [product](/post/product/) [that](/post/that/) contains instructions [for](/post/for/) [its](/post/its/) [operation](/post/operation/) [and](/post/and/) [maintenance](/post/maintenance/).
 
 ## Synonyms
 - Proprietor
 - Holder
 - Possessor
 - Titleholder
-- [Tenant](/en/post/tenant/) ([in](/en/post/in/) [some](/en/post/some/) cases)
-- [Master](/en/post/master/) (informal, referring [to](/en/post/to/) pets)
-- [Keeper](/en/post/keeper/) (esp. [for](/en/post/for/) animals)
-- Administrator ([in](/en/post/in/) [some](/en/post/some/) [legal](/en/post/legal/) contexts)
+- [Tenant](/post/tenant/) ([in](/post/in/) [some](/post/some/) cases)
+- [Master](/post/master/) (informal, referring [to](/post/to/) pets)
+- [Keeper](/post/keeper/) (esp. [for](/post/for/) animals)
+- Administrator ([in](/post/in/) [some](/post/some/) [legal](/post/legal/) contexts)
 
-## [Further](/en/post/further/) [Usage](/en/post/usage/)
-- "[Ownership](/en/post/ownership/)": [Noun](/en/post/noun/) [form](/en/post/form/) referring [to](/en/post/to/) [the](/en/post/the/) [state](/en/post/state/), [condition](/en/post/condition/), [or](/en/post/or/) [fact](/en/post/fact/) [of](/en/post/of/) [being](/en/post/being/) an [owner](/en/post/owner/).
-- "[Own](/en/post/own/)": [Verb](/en/post/verb/) [form](/en/post/form/) indicating having [possession](/en/post/possession/) [or](/en/post/or/) proprietary rights [over](/en/post/over/) [something](/en/post/something/); e.g., "[He](/en/post/he/) owns [a](/en/post/a/) [chain](/en/post/chain/) [of](/en/post/of/) restaurants." 
+## [Further](/post/further/) [Usage](/post/usage/)
+- "[Ownership](/post/ownership/)": [Noun](/post/noun/) [form](/post/form/) referring [to](/post/to/) [the](/post/the/) [state](/post/state/), [condition](/post/condition/), [or](/post/or/) [fact](/post/fact/) [of](/post/of/) [being](/post/being/) an [owner](/post/owner/).
+- "[Own](/post/own/)": [Verb](/post/verb/) [form](/post/form/) indicating having [possession](/post/possession/) [or](/post/or/) proprietary rights [over](/post/over/) [something](/post/something/); e.g., "[He](/post/he/) owns [a](/post/a/) [chain](/post/chain/) [of](/post/of/) restaurants." 
 
-**[Note](/en/post/note/):** [While](/en/post/while/) "[owner](/en/post/owner/)" is [primarily](/en/post/primarily/) [a](/en/post/a/) [noun](/en/post/noun/), [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [compound](/en/post/compound/) verbs [like](/en/post/like/) "[to](/en/post/to/) owner-operate" ([meaning](/en/post/meaning/) [to](/en/post/to/) [both](/en/post/both/) [own](/en/post/own/) [and](/en/post/and/) [run](/en/post/run/) [a](/en/post/a/) [business](/en/post/business/)), [but](/en/post/but/) [this](/en/post/this/) [usage](/en/post/usage/) is [less](/en/post/less/) [frequent](/en/post/frequent/) [than](/en/post/than/) [its](/en/post/its/) [primary](/en/post/primary/) [noun](/en/post/noun/) [function](/en/post/function/).
+**[Note](/post/note/):** [While](/post/while/) "[owner](/post/owner/)" is [primarily](/post/primarily/) [a](/post/a/) [noun](/post/noun/), [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [compound](/post/compound/) verbs [like](/post/like/) "[to](/post/to/) owner-operate" ([meaning](/post/meaning/) [to](/post/to/) [both](/post/both/) [own](/post/own/) [and](/post/and/) [run](/post/run/) [a](/post/a/) [business](/post/business/)), [but](/post/but/) [this](/post/this/) [usage](/post/usage/) is [less](/post/less/) [frequent](/post/frequent/) [than](/post/than/) [its](/post/its/) [primary](/post/primary/) [noun](/post/noun/) [function](/post/function/).

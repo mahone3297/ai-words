@@ -11,22 +11,22 @@ keywords = ['ai words', 'inside']
 /ɪnˈsaɪd/
 
 ## 释义
-- **名词**: 里面；内部。例如: "[The](/post/the/) [treasure](/post/treasure/) was hidden [inside](/post/inside/) [a](/post/a/) [small](/post/small/) [box](/post/box/)."
-- **副词**: 在里面；向内。例如: "[Please](/post/please/) [put](/post/put/) [the](/post/the/) [letter](/post/letter/) [inside](/post/inside/) [the](/post/the/) [envelope](/post/envelope/)."
-- **介词**: 表示位置在某物之内。例如: "[She](/post/she/) sat [inside](/post/inside/) [the](/post/the/) [car](/post/car/)."
+- **名词**: 里面；内部。例如: "[The](/zh/post/the/) [treasure](/zh/post/treasure/) was hidden [inside](/zh/post/inside/) [a](/zh/post/a/) [small](/zh/post/small/) [box](/zh/post/box/)."
+- **副词**: 在里面；向内。例如: "[Please](/zh/post/please/) [put](/zh/post/put/) [the](/zh/post/the/) [letter](/zh/post/letter/) [inside](/zh/post/inside/) [the](/zh/post/the/) [envelope](/zh/post/envelope/)."
+- **介词**: 表示位置在某物之内。例如: "[She](/zh/post/she/) sat [inside](/zh/post/inside/) [the](/zh/post/the/) [car](/zh/post/car/)."
 
 ## 短语
-- "[on](/post/on/) [the](/post/the/) [inside](/post/inside/)" 指事物的内侧或内部部分。
-- "[from](/post/from/) [inside](/post/inside/)" 指从内部出发或来自内部。
+- "[on](/zh/post/on/) [the](/zh/post/the/) [inside](/zh/post/inside/)" 指事物的内侧或内部部分。
+- "[from](/zh/post/from/) [inside](/zh/post/inside/)" 指从内部出发或来自内部。
 
 ## 例句
-- 名词: "[The](/post/the/) [cat](/post/cat/) was curled [up](/post/up/) sleeping [inside](/post/inside/) [the](/post/the/) [basket](/post/basket/)."
-- 副词: "[He](/post/he/) placed [the](/post/the/) [key](/post/key/) [inside](/post/inside/) [the](/post/the/) [lock](/post/lock/) [and](/post/and/) turned [it](/post/it/)."
-- 介词: "[She](/post/she/) [could](/post/could/) [hear](/post/hear/) [the](/post/the/) [rain](/post/rain/) tapping [on](/post/on/) [the](/post/the/) [window](/post/window/) [from](/post/from/) [inside](/post/inside/) [the](/post/the/) [house](/post/house/)."
+- 名词: "[The](/zh/post/the/) [cat](/zh/post/cat/) was curled [up](/zh/post/up/) sleeping [inside](/zh/post/inside/) [the](/zh/post/the/) [basket](/zh/post/basket/)."
+- 副词: "[He](/zh/post/he/) placed [the](/zh/post/the/) [key](/zh/post/key/) [inside](/zh/post/inside/) [the](/zh/post/the/) [lock](/zh/post/lock/) [and](/zh/post/and/) turned [it](/zh/post/it/)."
+- 介词: "[She](/zh/post/she/) [could](/zh/post/could/) [hear](/zh/post/hear/) [the](/zh/post/the/) [rain](/zh/post/rain/) tapping [on](/zh/post/on/) [the](/zh/post/the/) [window](/zh/post/window/) [from](/zh/post/from/) [inside](/zh/post/inside/) [the](/zh/post/the/) [house](/zh/post/house/)."
 
 ## 同义词
-- [Within](/post/within/)
+- [Within](/zh/post/within/)
 - Inwardly
 - Internally
-- [Inside](/post/inside/) [of](/post/of/)
-- [To](/post/to/) [the](/post/the/) [interior](/post/interior/) [of](/post/of/)
+- [Inside](/zh/post/inside/) [of](/zh/post/of/)
+- [To](/zh/post/to/) [the](/zh/post/the/) [interior](/zh/post/interior/) [of](/zh/post/of/)

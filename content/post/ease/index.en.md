@@ -7,30 +7,30 @@ description = '[iːz] n.容易，舒适 vt.缓和'
 keywords = ['ai words', 'ease']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ēz/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [comfortable](/en/post/comfortable/), relaxed, [or](/en/post/or/) [free](/en/post/free/) [from](/en/post/from/) [difficulty](/en/post/difficulty/); [freedom](/en/post/freedom/) [from](/en/post/from/) [hardship](/en/post/hardship/), [effort](/en/post/effort/), [or](/en/post/or/) [anxiety](/en/post/anxiety/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) had an [air](/en/post/air/) [of](/en/post/of/) [quiet](/en/post/quiet/) [ease](/en/post/ease/)."
-- **[Verb](/en/post/verb/)**: (v, [usually](/en/post/usually/) [with](/en/post/with/) '[ease](/en/post/ease/) [something](/en/post/something/)') [To](/en/post/to/) [make](/en/post/make/) ([a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [situation](/en/post/situation/)) [less](/en/post/less/) [difficult](/en/post/difficult/) [or](/en/post/or/) burdensome; [to](/en/post/to/) facilitate [or](/en/post/or/) [simplify](/en/post/simplify/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) eased [the](/en/post/the/) tension [by](/en/post/by/) making [a](/en/post/a/) [joke](/en/post/joke/)."
-- **[Adjective](/en/post/adjective/)**: (adj) Characterized [by](/en/post/by/) [comfort](/en/post/comfort/), relaxation, [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [difficulty](/en/post/difficulty/); effortless. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) moved [with](/en/post/with/) an [easy](/en/post/easy/) [grace](/en/post/grace/) [across](/en/post/across/) [the](/en/post/the/) [stage](/en/post/stage/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [comfortable](/post/comfortable/), relaxed, [or](/post/or/) [free](/post/free/) [from](/post/from/) [difficulty](/post/difficulty/); [freedom](/post/freedom/) [from](/post/from/) [hardship](/post/hardship/), [effort](/post/effort/), [or](/post/or/) [anxiety](/post/anxiety/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [house](/post/house/) had an [air](/post/air/) [of](/post/of/) [quiet](/post/quiet/) [ease](/post/ease/)."
+- **[Verb](/post/verb/)**: (v, [usually](/post/usually/) [with](/post/with/) '[ease](/post/ease/) [something](/post/something/)') [To](/post/to/) [make](/post/make/) ([a](/post/a/) [task](/post/task/) [or](/post/or/) [situation](/post/situation/)) [less](/post/less/) [difficult](/post/difficult/) [or](/post/or/) burdensome; [to](/post/to/) facilitate [or](/post/or/) [simplify](/post/simplify/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) eased [the](/post/the/) tension [by](/post/by/) making [a](/post/a/) [joke](/post/joke/)."
+- **[Adjective](/post/adjective/)**: (adj) Characterized [by](/post/by/) [comfort](/post/comfort/), relaxation, [or](/post/or/) [lack](/post/lack/) [of](/post/of/) [difficulty](/post/difficulty/); effortless. [For](/post/for/) [example](/post/example/): "[He](/post/he/) moved [with](/post/with/) an [easy](/post/easy/) [grace](/post/grace/) [across](/post/across/) [the](/post/the/) [stage](/post/stage/)."
 
 ## Phrases
-- "[With](/en/post/with/) [ease](/en/post/ease/)" [means](/en/post/means/) doing [something](/en/post/something/) effortlessly [or](/en/post/or/) [without](/en/post/without/) [difficulty](/en/post/difficulty/). [Example](/en/post/example/): "[She](/en/post/she/) completed [the](/en/post/the/) [puzzle](/en/post/puzzle/) [with](/en/post/with/) [ease](/en/post/ease/)."
-- "[Ease](/en/post/ease/) [of](/en/post/of/) [use](/en/post/use/)" refers [to](/en/post/to/) [how](/en/post/how/) [simple](/en/post/simple/) [and](/en/post/and/) intuitive [something](/en/post/something/) is [to](/en/post/to/) [use](/en/post/use/). 
-- "[At](/en/post/at/) [ease](/en/post/ease/)" is [a](/en/post/a/) [military](/en/post/military/) [command](/en/post/command/) [that](/en/post/that/) allows soldiers [to](/en/post/to/) [relax](/en/post/relax/) [from](/en/post/from/) [a](/en/post/a/) [formal](/en/post/formal/) stance.
+- "[With](/post/with/) [ease](/post/ease/)" [means](/post/means/) doing [something](/post/something/) effortlessly [or](/post/or/) [without](/post/without/) [difficulty](/post/difficulty/). [Example](/post/example/): "[She](/post/she/) completed [the](/post/the/) [puzzle](/post/puzzle/) [with](/post/with/) [ease](/post/ease/)."
+- "[Ease](/post/ease/) [of](/post/of/) [use](/post/use/)" refers [to](/post/to/) [how](/post/how/) [simple](/post/simple/) [and](/post/and/) intuitive [something](/post/something/) is [to](/post/to/) [use](/post/use/). 
+- "[At](/post/at/) [ease](/post/ease/)" is [a](/post/a/) [military](/post/military/) [command](/post/command/) [that](/post/that/) allows soldiers [to](/post/to/) [relax](/post/relax/) [from](/post/from/) [a](/post/a/) [formal](/post/formal/) stance.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [day](/en/post/day/), [he](/en/post/he/) [finally](/en/post/finally/) [found](/en/post/found/) [some](/en/post/some/) [ease](/en/post/ease/) [in](/en/post/in/) [his](/en/post/his/) [comfortable](/en/post/comfortable/) armchair."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) software update eases [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [file](/en/post/file/) sharing."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [hotel](/en/post/hotel/) offers guests an [ease](/en/post/ease/) [of](/en/post/of/) [access](/en/post/access/) [to](/en/post/to/) [all](/en/post/all/) [local](/en/post/local/) attractions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [long](/post/long/) [day](/post/day/), [he](/post/he/) [finally](/post/finally/) [found](/post/found/) [some](/post/some/) [ease](/post/ease/) [in](/post/in/) [his](/post/his/) [comfortable](/post/comfortable/) armchair."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) software update eases [the](/post/the/) [process](/post/process/) [of](/post/of/) [file](/post/file/) sharing."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [hotel](/post/hotel/) offers guests an [ease](/post/ease/) [of](/post/of/) [access](/post/access/) [to](/post/to/) [all](/post/all/) [local](/post/local/) attractions."
 
 ## Synonyms
-- [Comfort](/en/post/comfort/)
+- [Comfort](/post/comfort/)
 - Relaxation
-- [Simplicity](/en/post/simplicity/)
+- [Simplicity](/post/simplicity/)
 - Effortlessness
 - Smoothness
-- [Facility](/en/post/facility/) ([noun](/en/post/noun/))
-- [Simplify](/en/post/simplify/) ([verb](/en/post/verb/))
-- Uncomplicated ([adjective](/en/post/adjective/))
+- [Facility](/post/facility/) ([noun](/post/noun/))
+- [Simplify](/post/simplify/) ([verb](/post/verb/))
+- Uncomplicated ([adjective](/post/adjective/))

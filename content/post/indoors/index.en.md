@@ -7,28 +7,28 @@ description = '[ˈinˈdɔːz] ad.在室内，在屋里'
 keywords = ['ai words', 'indoors']
 +++
 
-## [Word](/en/post/word/): [Indoors](/en/post/indoors/)
+## [Word](/post/word/): [Indoors](/post/indoors/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɪnˈdoʊrz/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Inside](/en/post/inside/) [a](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) [house](/en/post/house/); [not](/en/post/not/) [outside](/en/post/outside/). [It](/en/post/it/) describes [a](/en/post/a/) [location](/en/post/location/) [that](/en/post/that/) is [under](/en/post/under/) [a](/en/post/a/) [roof](/en/post/roof/) [or](/en/post/or/) [within](/en/post/within/) enclosed premises.
+- **[Adjective](/post/adjective/)**: [Inside](/post/inside/) [a](/post/a/) [building](/post/building/) [or](/post/or/) [house](/post/house/); [not](/post/not/) [outside](/post/outside/). [It](/post/it/) describes [a](/post/a/) [location](/post/location/) [that](/post/that/) is [under](/post/under/) [a](/post/a/) [roof](/post/roof/) [or](/post/or/) [within](/post/within/) enclosed premises.
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) children decided [to](/en/post/to/) [play](/en/post/play/) [indoors](/en/post/indoors/) [because](/en/post/because/) [of](/en/post/of/) [the](/en/post/the/) [rain](/en/post/rain/)."
+[Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) children decided [to](/post/to/) [play](/post/play/) [indoors](/post/indoors/) [because](/post/because/) [of](/post/of/) [the](/post/the/) [rain](/post/rain/)."
 
 ## Phrases
-- "[Stay](/en/post/stay/) [indoors](/en/post/indoors/)": [To](/en/post/to/) [remain](/en/post/remain/) [inside](/en/post/inside/), typically referring [to](/en/post/to/) avoiding going [out](/en/post/out/) [due](/en/post/due/) [to](/en/post/to/) [weather](/en/post/weather/) conditions, [illness](/en/post/illness/), [or](/en/post/or/) [other](/en/post/other/) reasons.
-- "Indoor activities": Activities [that](/en/post/that/) [take](/en/post/take/) [place](/en/post/place/) [inside](/en/post/inside/) buildings, [such](/en/post/such/) [as](/en/post/as/) [reading](/en/post/reading/), [board](/en/post/board/) games, [or](/en/post/or/) exercising [at](/en/post/at/) [home](/en/post/home/).
+- "[Stay](/post/stay/) [indoors](/post/indoors/)": [To](/post/to/) [remain](/post/remain/) [inside](/post/inside/), typically referring [to](/post/to/) avoiding going [out](/post/out/) [due](/post/due/) [to](/post/to/) [weather](/post/weather/) conditions, [illness](/post/illness/), [or](/post/or/) [other](/post/other/) reasons.
+- "Indoor activities": Activities [that](/post/that/) [take](/post/take/) [place](/post/place/) [inside](/post/inside/) buildings, [such](/post/such/) [as](/post/as/) [reading](/post/reading/), [board](/post/board/) games, [or](/post/or/) exercising [at](/post/at/) [home](/post/home/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [severe](/en/post/severe/) [snowstorm](/en/post/snowstorm/), [we](/en/post/we/) had [to](/en/post/to/) [cancel](/en/post/cancel/) [our](/en/post/our/) plans [and](/en/post/and/) [spend](/en/post/spend/) [the](/en/post/the/) [whole](/en/post/whole/) [weekend](/en/post/weekend/) [indoors](/en/post/indoors/)."
-- "[She](/en/post/she/) prefers indoor sports [like](/en/post/like/) [badminton](/en/post/badminton/) [and](/en/post/and/) [table](/en/post/table/) [tennis](/en/post/tennis/) [over](/en/post/over/) [outdoor](/en/post/outdoor/) ones."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Due](/post/due/) [to](/post/to/) [the](/post/the/) [severe](/post/severe/) [snowstorm](/post/snowstorm/), [we](/post/we/) had [to](/post/to/) [cancel](/post/cancel/) [our](/post/our/) plans [and](/post/and/) [spend](/post/spend/) [the](/post/the/) [whole](/post/whole/) [weekend](/post/weekend/) [indoors](/post/indoors/)."
+- "[She](/post/she/) prefers indoor sports [like](/post/like/) [badminton](/post/badminton/) [and](/post/and/) [table](/post/table/) [tennis](/post/tennis/) [over](/post/over/) [outdoor](/post/outdoor/) ones."
 
 ## Synonyms
-- [Inside](/en/post/inside/)
-- [Within](/en/post/within/)
-- [In](/en/post/in/) [the](/en/post/the/) [house](/en/post/house/)
-- [Under](/en/post/under/) [cover](/en/post/cover/)
-- [Inside](/en/post/inside/) [the](/en/post/the/) [building](/en/post/building/)
-- Indoor ([as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), referring [to](/en/post/to/) indoor spaces [or](/en/post/or/) activities)
+- [Inside](/post/inside/)
+- [Within](/post/within/)
+- [In](/post/in/) [the](/post/the/) [house](/post/house/)
+- [Under](/post/under/) [cover](/post/cover/)
+- [Inside](/post/inside/) [the](/post/the/) [building](/post/building/)
+- Indoor ([as](/post/as/) [a](/post/a/) [noun](/post/noun/), referring [to](/post/to/) indoor spaces [or](/post/or/) activities)

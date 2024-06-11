@@ -7,32 +7,32 @@ description = '[ˈrʌbi∫] n.垃圾，废物；废话'
 keywords = ['ai words', 'rubbish']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rʌˈbɪʃ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [Waste](/en/post/waste/) [material](/en/post/material/), [especially](/en/post/especially/) [that](/en/post/that/) [which](/en/post/which/) is thrown [away](/en/post/away/) [and](/en/post/and/) considered [to](/en/post/to/) [have](/en/post/have/) [no](/en/post/no/) [value](/en/post/value/) [or](/en/post/or/) [use](/en/post/use/). 2. Informal [or](/en/post/or/) offensive [term](/en/post/term/) [for](/en/post/for/) [something](/en/post/something/) [of](/en/post/of/) [poor](/en/post/poor/) [quality](/en/post/quality/) [or](/en/post/or/) [worthless](/en/post/worthless/). [1](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[rubbish](/en/post/rubbish/))
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [dispose](/en/post/dispose/) [of](/en/post/of/) [waste](/en/post/waste/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [careless](/en/post/careless/) [manner](/en/post/manner/). 2. [To](/en/post/to/) [consider](/en/post/consider/) [or](/en/post/or/) [treat](/en/post/treat/) [something](/en/post/something/) [as](/en/post/as/) [worthless](/en/post/worthless/) [or](/en/post/or/) unimportant. [2](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[rubbish](/en/post/rubbish/))
+- **[Noun](/post/noun/)**: 1. [Waste](/post/waste/) [material](/post/material/), [especially](/post/especially/) [that](/post/that/) [which](/post/which/) is thrown [away](/post/away/) [and](/post/and/) considered [to](/post/to/) [have](/post/have/) [no](/post/no/) [value](/post/value/) [or](/post/or/) [use](/post/use/). 2. Informal [or](/post/or/) offensive [term](/post/term/) [for](/post/for/) [something](/post/something/) [of](/post/of/) [poor](/post/poor/) [quality](/post/quality/) [or](/post/or/) [worthless](/post/worthless/). [1](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[rubbish](/post/rubbish/))
+- **[Verb](/post/verb/)**: [To](/post/to/) [dispose](/post/dispose/) [of](/post/of/) [waste](/post/waste/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [careless](/post/careless/) [manner](/post/manner/). 2. [To](/post/to/) [consider](/post/consider/) [or](/post/or/) [treat](/post/treat/) [something](/post/something/) [as](/post/as/) [worthless](/post/worthless/) [or](/post/or/) unimportant. [2](https://[dictionary](/post/dictionary/).cambridge.org/[dictionary](/post/dictionary/)/english/[rubbish](/post/rubbish/))
 
 ## Phrases
-- "Throwing [out](/en/post/out/) [the](/en/post/the/) [rubbish](/en/post/rubbish/)" [means](/en/post/means/) discarding [waste](/en/post/waste/).
-- "Sorting [through](/en/post/through/) [the](/en/post/the/) [rubbish](/en/post/rubbish/)" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) separating trash [for](/en/post/for/) recycling [or](/en/post/or/) [disposal](/en/post/disposal/).
-- "Don't [take](/en/post/take/) [his](/en/post/his/) [nonsense](/en/post/nonsense/) [seriously](/en/post/seriously/); he's [just](/en/post/just/) talking [rubbish](/en/post/rubbish/)." ([meaning](/en/post/meaning/): he's saying [something](/en/post/something/) absurd)
+- "Throwing [out](/post/out/) [the](/post/the/) [rubbish](/post/rubbish/)" [means](/post/means/) discarding [waste](/post/waste/).
+- "Sorting [through](/post/through/) [the](/post/the/) [rubbish](/post/rubbish/)" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) separating trash [for](/post/for/) recycling [or](/post/or/) [disposal](/post/disposal/).
+- "Don't [take](/post/take/) [his](/post/his/) [nonsense](/post/nonsense/) [seriously](/post/seriously/); he's [just](/post/just/) talking [rubbish](/post/rubbish/)." ([meaning](/post/meaning/): he's saying [something](/post/something/) absurd)
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) collected [all](/en/post/all/) [the](/en/post/the/) [old](/en/post/old/) newspapers [and](/en/post/and/) [put](/en/post/put/) [them](/en/post/them/) [in](/en/post/in/) [the](/en/post/the/) [rubbish](/en/post/rubbish/) bin."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) had [to](/en/post/to/) [rubbish](/en/post/rubbish/) [his](/en/post/his/) plans [for](/en/post/for/) [the](/en/post/the/) [weekend](/en/post/weekend/) [due](/en/post/due/) [to](/en/post/to/) [unexpected](/en/post/unexpected/) [rain](/en/post/rain/)."
-- **Idiomatic**: "[Her](/en/post/her/) ideas were [so](/en/post/so/) [ridiculous](/en/post/ridiculous/), [it](/en/post/it/) was [like](/en/post/like/) talking [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) was spouting [rubbish](/en/post/rubbish/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) collected [all](/post/all/) [the](/post/the/) [old](/post/old/) newspapers [and](/post/and/) [put](/post/put/) [them](/post/them/) [in](/post/in/) [the](/post/the/) [rubbish](/post/rubbish/) bin."
+- **[Verb](/post/verb/)**: "[He](/post/he/) had [to](/post/to/) [rubbish](/post/rubbish/) [his](/post/his/) plans [for](/post/for/) [the](/post/the/) [weekend](/post/weekend/) [due](/post/due/) [to](/post/to/) [unexpected](/post/unexpected/) [rain](/post/rain/)."
+- **Idiomatic**: "[Her](/post/her/) ideas were [so](/post/so/) [ridiculous](/post/ridiculous/), [it](/post/it/) was [like](/post/like/) talking [to](/post/to/) [someone](/post/someone/) [who](/post/who/) was spouting [rubbish](/post/rubbish/)."
 
 ## Synonyms
 - Trash
-- [Garbage](/en/post/garbage/)
--废物 ([waste](/en/post/waste/))
+- [Garbage](/post/garbage/)
+-废物 ([waste](/post/waste/))
 - Junk
 - Rubble
-- [Nonsense](/en/post/nonsense/)
+- [Nonsense](/post/nonsense/)
 - Gibberish
 
 ## Notes
-[1]: <https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[rubbish](/en/post/rubbish/)>
-[2]: <https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[rubbish](/en/post/rubbish/)>
+[1]: <https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[rubbish](/post/rubbish/)>
+[2]: <https://[dictionary](/post/dictionary/).cambridge.org/[dictionary](/post/dictionary/)/english/[rubbish](/post/rubbish/)>

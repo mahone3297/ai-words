@@ -7,36 +7,36 @@ description = '[ˌintəˈrʌp∫ən] n.中断，打断；障碍物'
 keywords = ['ai words', 'interruption']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɪntəˈrʌpʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [act](/en/post/act/) [of](/en/post/of/) interrupting [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [continuous](/en/post/continuous/) [activity](/en/post/activity/), [speech](/en/post/speech/), [or](/en/post/or/) [process](/en/post/process/); [a](/en/post/a/) [break](/en/post/break/) [in](/en/post/in/) continuity [or](/en/post/or/) [a](/en/post/a/) disturbance. [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) was an [unexpected](/en/post/unexpected/) [interruption](/en/post/interruption/) [during](/en/post/during/) [his](/en/post/his/) [speech](/en/post/speech/)."
+- **[Noun](/post/noun/)**: An [act](/post/act/) [of](/post/of/) interrupting [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [continuous](/post/continuous/) [activity](/post/activity/), [speech](/post/speech/), [or](/post/or/) [process](/post/process/); [a](/post/a/) [break](/post/break/) [in](/post/in/) continuity [or](/post/or/) [a](/post/a/) disturbance. [For](/post/for/) [example](/post/example/): "[There](/post/there/) was an [unexpected](/post/unexpected/) [interruption](/post/interruption/) [during](/post/during/) [his](/post/his/) [speech](/post/speech/)."
 
-  > *[The](/en/post/the/) [phone](/en/post/phone/) rang, causing an [interruption](/en/post/interruption/) [in](/en/post/in/) [our](/en/post/our/) [meeting](/en/post/meeting/).*
+  > *[The](/post/the/) [phone](/post/phone/) rang, causing an [interruption](/post/interruption/) [in](/post/in/) [our](/post/our/) [meeting](/post/meeting/).*
   
-- **[Noun](/en/post/noun/) (Derived [sense](/en/post/sense/))**: [Something](/en/post/something/) [that](/en/post/that/) interrupts [or](/en/post/or/) disturbs, [such](/en/post/such/) [as](/en/post/as/) an unforeseen [event](/en/post/event/) [or](/en/post/or/) an [obstacle](/en/post/obstacle/). [For](/en/post/for/) [example](/en/post/example/): "[Noise](/en/post/noise/) [from](/en/post/from/) [the](/en/post/the/) [construction](/en/post/construction/) [site](/en/post/site/) has been [a](/en/post/a/) [constant](/en/post/constant/) [interruption](/en/post/interruption/) [to](/en/post/to/) [their](/en/post/their/) [work](/en/post/work/)."
+- **[Noun](/post/noun/) (Derived [sense](/post/sense/))**: [Something](/post/something/) [that](/post/that/) interrupts [or](/post/or/) disturbs, [such](/post/such/) [as](/post/as/) an unforeseen [event](/post/event/) [or](/post/or/) an [obstacle](/post/obstacle/). [For](/post/for/) [example](/post/example/): "[Noise](/post/noise/) [from](/post/from/) [the](/post/the/) [construction](/post/construction/) [site](/post/site/) has been [a](/post/a/) [constant](/post/constant/) [interruption](/post/interruption/) [to](/post/to/) [their](/post/their/) [work](/post/work/)."
 
-  > *[Her](/en/post/her/) [frequent](/en/post/frequent/) coughing fits were an unwelcome [interruption](/en/post/interruption/) [to](/en/post/to/) [the](/en/post/the/) [lecture](/en/post/lecture/).*
+  > *[Her](/post/her/) [frequent](/post/frequent/) coughing fits were an unwelcome [interruption](/post/interruption/) [to](/post/to/) [the](/post/the/) [lecture](/post/lecture/).*
 
 ## Phrases
-- "[Without](/en/post/without/) [interruption](/en/post/interruption/)": Describing [a](/en/post/a/) [continuous](/en/post/continuous/) [action](/en/post/action/) [that](/en/post/that/) isn't stopped [by](/en/post/by/) [anything](/en/post/anything/).
-  > *"[They](/en/post/they/) worked [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/) [without](/en/post/without/) [interruption](/en/post/interruption/) [for](/en/post/for/) [several](/en/post/several/) hours [straight](/en/post/straight/)."*
-- "[To](/en/post/to/) [cause](/en/post/cause/) an [interruption](/en/post/interruption/)": [To](/en/post/to/) [break](/en/post/break/) [into](/en/post/into/) [or](/en/post/or/) [disturb](/en/post/disturb/) [something](/en/post/something/) ongoing.
-  > *"[His](/en/post/his/) [sudden](/en/post/sudden/) [entrance](/en/post/entrance/) caused an [interruption](/en/post/interruption/) [in](/en/post/in/) [the](/en/post/the/) [film](/en/post/film/) screening."*
+- "[Without](/post/without/) [interruption](/post/interruption/)": Describing [a](/post/a/) [continuous](/post/continuous/) [action](/post/action/) [that](/post/that/) isn't stopped [by](/post/by/) [anything](/post/anything/).
+  > *"[They](/post/they/) worked [on](/post/on/) [the](/post/the/) [project](/post/project/) [without](/post/without/) [interruption](/post/interruption/) [for](/post/for/) [several](/post/several/) hours [straight](/post/straight/)."*
+- "[To](/post/to/) [cause](/post/cause/) an [interruption](/post/interruption/)": [To](/post/to/) [break](/post/break/) [into](/post/into/) [or](/post/or/) [disturb](/post/disturb/) [something](/post/something/) ongoing.
+  > *"[His](/post/his/) [sudden](/post/sudden/) [entrance](/post/entrance/) caused an [interruption](/post/interruption/) [in](/post/in/) [the](/post/the/) [film](/post/film/) screening."*
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [power](/en/post/power/) outage caused [a](/en/post/a/) [temporary](/en/post/temporary/) [interruption](/en/post/interruption/) [to](/en/post/to/) [our](/en/post/our/) online [class](/en/post/class/)."
-- **[Noun](/en/post/noun/) (Derived [sense](/en/post/sense/))**: "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) aims [to](/en/post/to/) [reduce](/en/post/reduce/) [unnecessary](/en/post/unnecessary/) interruptions [during](/en/post/during/) [office](/en/post/office/) hours."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [power](/post/power/) outage caused [a](/post/a/) [temporary](/post/temporary/) [interruption](/post/interruption/) [to](/post/to/) [our](/post/our/) online [class](/post/class/)."
+- **[Noun](/post/noun/) (Derived [sense](/post/sense/))**: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) aims [to](/post/to/) [reduce](/post/reduce/) [unnecessary](/post/unnecessary/) interruptions [during](/post/during/) [office](/post/office/) hours."
 
 ## Synonyms
-- [Break](/en/post/break/)
+- [Break](/post/break/)
 - Disruption
 - Disturbance
-- [Interference](/en/post/interference/)
+- [Interference](/post/interference/)
 - Intrusion
-- [Pause](/en/post/pause/)
+- [Pause](/post/pause/)
 - Suspension
-- [Interruption](/en/post/interruption/) [of](/en/post/of/) proceedings
+- [Interruption](/post/interruption/) [of](/post/of/) proceedings
 - Halting
-- [Check](/en/post/check/)
+- [Check](/post/check/)

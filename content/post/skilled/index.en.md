@@ -7,27 +7,27 @@ description = '[skild] a.有技能的，熟练的'
 keywords = ['ai words', 'skilled']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /skɪlɪd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/) [of](/en/post/of/) proficiency, [ability](/en/post/ability/), [or](/en/post/or/) expertise [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [skill](/en/post/skill/) [or](/en/post/or/) [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [skilled](/en/post/skilled/) [surgeon](/en/post/surgeon/) performed [the](/en/post/the/) [operation](/en/post/operation/) [with](/en/post/with/) [precision](/en/post/precision/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [skilled](/en/post/skilled/) [or](/en/post/or/) [expert](/en/post/expert/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [skilled](/en/post/skilled/) [carpenter](/en/post/carpenter/) crafted [a](/en/post/a/) [beautiful](/en/post/beautiful/) [piece](/en/post/piece/) [of](/en/post/of/) [furniture](/en/post/furniture/)."
+- **[Adjective](/post/adjective/)**: Having [a](/post/a/) [high](/post/high/) [degree](/post/degree/) [of](/post/of/) proficiency, [ability](/post/ability/), [or](/post/or/) expertise [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [skill](/post/skill/) [or](/post/or/) [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [skilled](/post/skilled/) [surgeon](/post/surgeon/) performed [the](/post/the/) [operation](/post/operation/) [with](/post/with/) [precision](/post/precision/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [skilled](/post/skilled/) [or](/post/or/) [expert](/post/expert/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [skilled](/post/skilled/) [carpenter](/post/carpenter/) crafted [a](/post/a/) [beautiful](/post/beautiful/) [piece](/post/piece/) [of](/post/of/) [furniture](/post/furniture/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [skilled](/en/post/skilled/) [in](/en/post/in/)" implies having [a](/en/post/a/) [strong](/en/post/strong/) aptitude [or](/en/post/or/) proficiency [in](/en/post/in/) [something](/en/post/something/).
-- "[Skilled](/en/post/skilled/) professionals" refers [to](/en/post/to/) experts [in](/en/post/in/) [their](/en/post/their/) [respective](/en/post/respective/) fields.
-- "[Acquire](/en/post/acquire/) [a](/en/post/a/) [skill](/en/post/skill/)" [means](/en/post/means/) [to](/en/post/to/) [learn](/en/post/learn/) [and](/en/post/and/) [become](/en/post/become/) proficient [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [ability](/en/post/ability/).
+- "[Be](/post/be/) [skilled](/post/skilled/) [in](/post/in/)" implies having [a](/post/a/) [strong](/post/strong/) aptitude [or](/post/or/) proficiency [in](/post/in/) [something](/post/something/).
+- "[Skilled](/post/skilled/) professionals" refers [to](/post/to/) experts [in](/post/in/) [their](/post/their/) [respective](/post/respective/) fields.
+- "[Acquire](/post/acquire/) [a](/post/a/) [skill](/post/skill/)" [means](/post/means/) [to](/post/to/) [learn](/post/learn/) [and](/post/and/) [become](/post/become/) proficient [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [ability](/post/ability/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [skilled](/en/post/skilled/) painter's brushstrokes were impeccable."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) hired [a](/en/post/a/) [team](/en/post/team/) [of](/en/post/of/) [skilled](/en/post/skilled/) developers [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Phrase](/en/post/phrase/)**: "[To](/en/post/to/) [master](/en/post/master/) [a](/en/post/a/) [new](/en/post/new/) [skill](/en/post/skill/) takes [time](/en/post/time/) [and](/en/post/and/) dedication."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [skilled](/post/skilled/) painter's brushstrokes were impeccable."
+- **[Noun](/post/noun/)**: "[She](/post/she/) hired [a](/post/a/) [team](/post/team/) [of](/post/of/) [skilled](/post/skilled/) developers [for](/post/for/) [the](/post/the/) [project](/post/project/)."
+- **[Phrase](/post/phrase/)**: "[To](/post/to/) [master](/post/master/) [a](/post/a/) [new](/post/new/) [skill](/post/skill/) takes [time](/post/time/) [and](/post/and/) dedication."
 
 ## Synonyms
 - Proficient
-- [Expert](/en/post/expert/)
-- [Competent](/en/post/competent/)
+- [Expert](/post/expert/)
+- [Competent](/post/competent/)
 - Skilful
 - Articulate
 - Adroit

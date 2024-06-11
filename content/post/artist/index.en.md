@@ -7,39 +7,39 @@ description = '[ˈɑːtist] n.艺术家，美术家'
 keywords = ['ai words', 'artist']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɑːrtɪst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Artist](/en/post/artist/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [skilled](/en/post/skilled/) [in](/en/post/in/) creating [art](/en/post/art/), [often](/en/post/often/) [in](/en/post/in/) [various](/en/post/various/) forms [such](/en/post/such/) [as](/en/post/as/) [painting](/en/post/painting/), sculpture, [music](/en/post/music/), [or](/en/post/or/) [writing](/en/post/writing/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) renowned [artist](/en/post/artist/) painted [a](/en/post/a/) stunning [portrait](/en/post/portrait/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/)."
-- **Craftsman**: [A](/en/post/a/) [highly](/en/post/highly/) [skilled](/en/post/skilled/) artisan [who](/en/post/who/) specializes [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [trade](/en/post/trade/) [or](/en/post/or/) [skill](/en/post/skill/), [often](/en/post/often/) involving [manual](/en/post/manual/) [work](/en/post/work/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) woodworking [artist](/en/post/artist/) crafted intricate [furniture](/en/post/furniture/) designs."
+### [Noun](/post/noun/)
+- **[Artist](/post/artist/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [skilled](/post/skilled/) [in](/post/in/) creating [art](/post/art/), [often](/post/often/) [in](/post/in/) [various](/post/various/) forms [such](/post/such/) [as](/post/as/) [painting](/post/painting/), sculpture, [music](/post/music/), [or](/post/or/) [writing](/post/writing/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) renowned [artist](/post/artist/) painted [a](/post/a/) stunning [portrait](/post/portrait/) [of](/post/of/) [the](/post/the/) [city](/post/city/)."
+- **Craftsman**: [A](/post/a/) [highly](/post/highly/) [skilled](/post/skilled/) artisan [who](/post/who/) specializes [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [trade](/post/trade/) [or](/post/or/) [skill](/post/skill/), [often](/post/often/) involving [manual](/post/manual/) [work](/post/work/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) woodworking [artist](/post/artist/) crafted intricate [furniture](/post/furniture/) designs."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [produce](/en/post/produce/) [or](/en/post/or/) [create](/en/post/create/) [art](/en/post/art/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [skill](/en/post/skill/) [or](/en/post/or/) [style](/en/post/style/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) is known [for](/en/post/for/) [her](/en/post/her/) evocative paintings."
-- [To](/en/post/to/) [display](/en/post/display/) [artistic](/en/post/artistic/) [talent](/en/post/talent/) [or](/en/post/or/) flair. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [writing](/en/post/writing/) exhibits [the](/en/post/the/) artist's [touch](/en/post/touch/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [produce](/post/produce/) [or](/post/or/) [create](/post/create/) [art](/post/art/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [particular](/post/particular/) [skill](/post/skill/) [or](/post/or/) [style](/post/style/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [artist](/post/artist/) is known [for](/post/for/) [her](/post/her/) evocative paintings."
+- [To](/post/to/) [display](/post/display/) [artistic](/post/artistic/) [talent](/post/talent/) [or](/post/or/) flair. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [writing](/post/writing/) exhibits [the](/post/the/) artist's [touch](/post/touch/)."
 
-### [Adjective](/en/post/adjective/)
-- Describing [someone](/en/post/someone/) [who](/en/post/who/) has [a](/en/post/a/) [natural](/en/post/natural/) [ability](/en/post/ability/) [or](/en/post/or/) inclination [for](/en/post/for/) creating [art](/en/post/art/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has an artist's [eye](/en/post/eye/) [for](/en/post/for/) [color](/en/post/color/)."
-- Referring [to](/en/post/to/) works [of](/en/post/of/) [art](/en/post/art/) [or](/en/post/or/) [artistic](/en/post/artistic/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [museum](/en/post/museum/) showcased [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) [impressive](/en/post/impressive/) artist-signed prints."
+### [Adjective](/post/adjective/)
+- Describing [someone](/post/someone/) [who](/post/who/) has [a](/post/a/) [natural](/post/natural/) [ability](/post/ability/) [or](/post/or/) inclination [for](/post/for/) creating [art](/post/art/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has an artist's [eye](/post/eye/) [for](/post/for/) [color](/post/color/)."
+- Referring [to](/post/to/) works [of](/post/of/) [art](/post/art/) [or](/post/or/) [artistic](/post/artistic/) [quality](/post/quality/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [museum](/post/museum/) showcased [a](/post/a/) [collection](/post/collection/) [of](/post/of/) [impressive](/post/impressive/) artist-signed prints."
 
 ## Phrases
-- "[Artistic](/en/post/artistic/) [expression](/en/post/expression/)" denotes [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [art](/en/post/art/) [to](/en/post/to/) [convey](/en/post/convey/) emotions [or](/en/post/or/) ideas.
-- "Up-and-coming [artist](/en/post/artist/)" refers [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [talent](/en/post/talent/) gaining [recognition](/en/post/recognition/).
-- "Artisanal [goods](/en/post/goods/)" are [those](/en/post/those/) made [with](/en/post/with/) [traditional](/en/post/traditional/) craftsmanship [and](/en/post/and/) [care](/en/post/care/).
+- "[Artistic](/post/artistic/) [expression](/post/expression/)" denotes [the](/post/the/) [use](/post/use/) [of](/post/of/) [art](/post/art/) [to](/post/to/) [convey](/post/convey/) emotions [or](/post/or/) ideas.
+- "Up-and-coming [artist](/post/artist/)" refers [to](/post/to/) [a](/post/a/) [new](/post/new/) [talent](/post/talent/) gaining [recognition](/post/recognition/).
+- "Artisanal [goods](/post/goods/)" are [those](/post/those/) made [with](/post/with/) [traditional](/post/traditional/) craftsmanship [and](/post/and/) [care](/post/care/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) artist's studio was filled [with](/en/post/with/) [her](/en/post/her/) latest paintings [and](/en/post/and/) sculptures."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) aspiring [artist](/en/post/artist/) spent hours perfecting [her](/en/post/her/) [technique](/en/post/technique/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) architect's [design](/en/post/design/) incorporated [the](/en/post/the/) artist's [vision](/en/post/vision/) [for](/en/post/for/) [the](/en/post/the/) [space](/en/post/space/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) artist's studio was filled [with](/post/with/) [her](/post/her/) latest paintings [and](/post/and/) sculptures."
+- **[Verb](/post/verb/)**: "[The](/post/the/) aspiring [artist](/post/artist/) spent hours perfecting [her](/post/her/) [technique](/post/technique/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) architect's [design](/post/design/) incorporated [the](/post/the/) artist's [vision](/post/vision/) [for](/post/for/) [the](/post/the/) [space](/post/space/)."
 
 ## Synonyms
-- [Painter](/en/post/painter/)
+- [Painter](/post/painter/)
 - Creator
 - Designer
 - Composer
 - Performer
-- Talented [individual](/en/post/individual/)
+- Talented [individual](/post/individual/)
 - Artisan
 - Illustrator
-- Mastermind ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [art](/en/post/art/))
+- Mastermind ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [art](/post/art/))

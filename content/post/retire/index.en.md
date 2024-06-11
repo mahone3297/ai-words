@@ -7,46 +7,46 @@ description = '[riˈtaiə] vi.退下；引退；就寝'
 keywords = ['ai words', 'retire']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈrɪtɪər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Retirement**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) formally ceasing one's [work](/en/post/work/), typically [when](/en/post/when/) reaching [a](/en/post/a/) [certain](/en/post/certain/) [age](/en/post/age/) [or](/en/post/or/) [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [period](/en/post/period/) [of](/en/post/of/) [service](/en/post/service/).
-- **Retiree**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has retired [from](/en/post/from/) [their](/en/post/their/) [job](/en/post/job/) [or](/en/post/or/) [career](/en/post/career/).
+### [Noun](/post/noun/)
+- **Retirement**: [The](/post/the/) [act](/post/act/) [of](/post/of/) formally ceasing one's [work](/post/work/), typically [when](/post/when/) reaching [a](/post/a/) [certain](/post/certain/) [age](/post/age/) [or](/post/or/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [period](/post/period/) [of](/post/of/) [service](/post/service/).
+- **Retiree**: [A](/post/a/) [person](/post/person/) [who](/post/who/) has retired [from](/post/from/) [their](/post/their/) [job](/post/job/) [or](/post/or/) [career](/post/career/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) **[retire](/en/post/retire/)**: [To](/en/post/to/) [stop](/en/post/stop/) working [or](/en/post/or/) [leave](/en/post/leave/) [a](/en/post/a/) [job](/en/post/job/), [often](/en/post/often/) [permanently](/en/post/permanently/), [usually](/en/post/usually/) [because](/en/post/because/) [of](/en/post/of/) [old](/en/post/old/) [age](/en/post/age/) [or](/en/post/or/) retirement benefits.
-- [To](/en/post/to/) **[withdraw](/en/post/withdraw/) [from](/en/post/from/)**: [To](/en/post/to/) [step](/en/post/step/) [back](/en/post/back/) [or](/en/post/or/) [remove](/en/post/remove/) [oneself](/en/post/oneself/) [from](/en/post/from/) an [activity](/en/post/activity/) [or](/en/post/or/) [situation](/en/post/situation/).
+### [Verb](/post/verb/)
+- [To](/post/to/) **[retire](/post/retire/)**: [To](/post/to/) [stop](/post/stop/) working [or](/post/or/) [leave](/post/leave/) [a](/post/a/) [job](/post/job/), [often](/post/often/) [permanently](/post/permanently/), [usually](/post/usually/) [because](/post/because/) [of](/post/of/) [old](/post/old/) [age](/post/age/) [or](/post/or/) retirement benefits.
+- [To](/post/to/) **[withdraw](/post/withdraw/) [from](/post/from/)**: [To](/post/to/) [step](/post/step/) [back](/post/back/) [or](/post/or/) [remove](/post/remove/) [oneself](/post/oneself/) [from](/post/from/) an [activity](/post/activity/) [or](/post/or/) [situation](/post/situation/).
 
-### [Adjective](/en/post/adjective/)
-- **Retired**: Having stopped working [or](/en/post/or/) [no](/en/post/no/) longer engaged [in](/en/post/in/) paid [employment](/en/post/employment/).
+### [Adjective](/post/adjective/)
+- **Retired**: Having stopped working [or](/post/or/) [no](/post/no/) longer engaged [in](/post/in/) paid [employment](/post/employment/).
 
-### [Adverb](/en/post/adverb/)
-- ([rarely](/en/post/rarely/) [used](/en/post/used/)) **Retiredly**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [someone](/en/post/someone/) [who](/en/post/who/) is retired, leisurely, [or](/en/post/or/) relaxed.
+### [Adverb](/post/adverb/)
+- ([rarely](/post/rarely/) [used](/post/used/)) **Retiredly**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [characteristic](/post/characteristic/) [of](/post/of/) [someone](/post/someone/) [who](/post/who/) is retired, leisurely, [or](/post/or/) relaxed.
 
 ## Phrases
-- "[Retire](/en/post/retire/) [from](/en/post/from/) [a](/en/post/a/) [profession](/en/post/profession/)" [means](/en/post/means/) [to](/en/post/to/) [end](/en/post/end/) one's [career](/en/post/career/) [in](/en/post/in/) [that](/en/post/that/) [field](/en/post/field/).
-- "[Early](/en/post/early/) retirement" refers [to](/en/post/to/) leaving [work](/en/post/work/) [before](/en/post/before/) [the](/en/post/the/) [usual](/en/post/usual/) retirement [age](/en/post/age/).
-- "[Living](/en/post/living/) [off](/en/post/off/) retirement savings" describes [financial](/en/post/financial/) [independence](/en/post/independence/) [after](/en/post/after/) retiring.
+- "[Retire](/post/retire/) [from](/post/from/) [a](/post/a/) [profession](/post/profession/)" [means](/post/means/) [to](/post/to/) [end](/post/end/) one's [career](/post/career/) [in](/post/in/) [that](/post/that/) [field](/post/field/).
+- "[Early](/post/early/) retirement" refers [to](/post/to/) leaving [work](/post/work/) [before](/post/before/) [the](/post/the/) [usual](/post/usual/) retirement [age](/post/age/).
+- "[Living](/post/living/) [off](/post/off/) retirement savings" describes [financial](/post/financial/) [independence](/post/independence/) [after](/post/after/) retiring.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) 40 years, [he](/en/post/he/) [finally](/en/post/finally/) retired [from](/en/post/from/) [his](/en/post/his/) [job](/en/post/job/) [as](/en/post/as/) [a](/en/post/a/) [teacher](/en/post/teacher/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [retire](/en/post/retire/) gracefully [at](/en/post/at/) [the](/en/post/the/) [age](/en/post/age/) [of](/en/post/of/) 65."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) retired [couple](/en/post/couple/) enjoys spending [their](/en/post/their/) days gardening."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) [now](/en/post/now/) spends [his](/en/post/his/) retired [life](/en/post/life/) traveling [the](/en/post/the/) [world](/en/post/world/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) 40 years, [he](/post/he/) [finally](/post/finally/) retired [from](/post/from/) [his](/post/his/) [job](/post/job/) [as](/post/as/) [a](/post/a/) [teacher](/post/teacher/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [retire](/post/retire/) gracefully [at](/post/at/) [the](/post/the/) [age](/post/age/) [of](/post/of/) 65."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) retired [couple](/post/couple/) enjoys spending [their](/post/their/) days gardening."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) [now](/post/now/) spends [his](/post/his/) retired [life](/post/life/) traveling [the](/post/the/) [world](/post/world/)."
 
 ## Synonyms
 - Retiree (n.)
-- [Withdraw](/en/post/withdraw/)
-- [Depart](/en/post/depart/)
+- [Withdraw](/post/withdraw/)
+- [Depart](/post/depart/)
 - Relinquish
-- [Resign](/en/post/resign/)
-- [Ease](/en/post/ease/) [out](/en/post/out/)
-- [Step](/en/post/step/) [down](/en/post/down/)
+- [Resign](/post/resign/)
+- [Ease](/post/ease/) [out](/post/out/)
+- [Step](/post/step/) [down](/post/down/)
 - Decree retirement
 
 ## Antonyms
-- [Work](/en/post/work/)
-- [Stay](/en/post/stay/) [active](/en/post/active/)
-- [Continue](/en/post/continue/) [in](/en/post/in/) [service](/en/post/service/)
+- [Work](/post/work/)
+- [Stay](/post/stay/) [active](/post/active/)
+- [Continue](/post/continue/) [in](/post/in/) [service](/post/service/)

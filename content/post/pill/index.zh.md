@@ -12,20 +12,20 @@ keywords = ['ai words', 'pill']
 
 ## 释义
 - **名词**:
-  - 药丸：一种圆形或椭圆形的小固体药物，通常用于口服。例如: "[Take](/post/take/) [one](/post/one/) [pill](/post/pill/) [after](/post/after/) [dinner](/post/dinner/) [for](/post/for/) [your](/post/your/) [headache](/post/headache/)."
-  - 避孕药：一种含有荷尔蒙的药片，用于避孕。例如: "She's [on](/post/on/) [the](/post/the/) [pill](/post/pill/) [to](/post/to/) [prevent](/post/prevent/) pregnancy."
+  - 药丸：一种圆形或椭圆形的小固体药物，通常用于口服。例如: "[Take](/zh/post/take/) [one](/zh/post/one/) [pill](/zh/post/pill/) [after](/zh/post/after/) [dinner](/zh/post/dinner/) [for](/zh/post/for/) [your](/zh/post/your/) [headache](/zh/post/headache/)."
+  - 避孕药：一种含有荷尔蒙的药片，用于避孕。例如: "She's [on](/zh/post/on/) [the](/zh/post/the/) [pill](/zh/post/pill/) [to](/zh/post/to/) [prevent](/zh/post/prevent/) pregnancy."
 
 ## 短语
-- "[Pill](/post/pill/) dispenser" 指的是装药丸的小盒，用于管理每日的药物剂量。
-- "[The](/post/the/) [daily](/post/daily/) [pill](/post/pill/)" 常用来指需要每天服用的药物。
+- "[Pill](/zh/post/pill/) dispenser" 指的是装药丸的小盒，用于管理每日的药物剂量。
+- "[The](/zh/post/the/) [daily](/zh/post/daily/) [pill](/zh/post/pill/)" 常用来指需要每天服用的药物。
 
 ## 例句
-- 名词: "[Remember](/post/remember/) [to](/post/to/) [take](/post/take/) [your](/post/your/) [blood](/post/blood/) [pressure](/post/pressure/) [pill](/post/pill/) [every](/post/every/) [morning](/post/morning/)."
-- "[She](/post/she/) forgot [to](/post/to/) refill [her](/post/her/) [birth](/post/birth/) [control](/post/control/) [pill](/post/pill/) prescription."
+- 名词: "[Remember](/zh/post/remember/) [to](/zh/post/to/) [take](/zh/post/take/) [your](/zh/post/your/) [blood](/zh/post/blood/) [pressure](/zh/post/pressure/) [pill](/zh/post/pill/) [every](/zh/post/every/) [morning](/zh/post/morning/)."
+- "[She](/zh/post/she/) forgot [to](/zh/post/to/) refill [her](/zh/post/her/) [birth](/zh/post/birth/) [control](/zh/post/control/) [pill](/zh/post/pill/) prescription."
 
 ## 同义词
-- [Tablet](/post/tablet/)
+- [Tablet](/zh/post/tablet/)
 - Capsule
-- [Medicine](/post/medicine/)
-- [Drug](/post/drug/)
-- [Dose](/post/dose/)
+- [Medicine](/zh/post/medicine/)
+- [Drug](/zh/post/drug/)
+- [Dose](/zh/post/dose/)

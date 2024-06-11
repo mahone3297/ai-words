@@ -7,34 +7,34 @@ description = '[ˈprezəntli] ad.一会儿；目前'
 keywords = ['ai words', 'presently']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /priˈzentli/
 
 ## Definitions
-### [Adverb](/en/post/adverb/)
-- Refers [to](/en/post/to/) [the](/en/post/the/) [present](/en/post/present/) [time](/en/post/time/) [or](/en/post/or/) [moment](/en/post/moment/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is happening currently [or](/en/post/or/) momentarily.
+### [Adverb](/post/adverb/)
+- Refers [to](/post/to/) [the](/post/the/) [present](/post/present/) [time](/post/time/) [or](/post/or/) [moment](/post/moment/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is happening currently [or](/post/or/) momentarily.
 
 ## Phrases
-- "[Presently](/en/post/presently/), [he](/en/post/he/) is working [on](/en/post/on/) [a](/en/post/a/) [project](/en/post/project/)."
-- "[She](/en/post/she/) [will](/en/post/will/) [be](/en/post/be/) [here](/en/post/here/) [presently](/en/post/presently/)."
-- "[The](/en/post/the/) [weather](/en/post/weather/) [report](/en/post/report/) is [presently](/en/post/presently/) [available](/en/post/available/) online."
+- "[Presently](/post/presently/), [he](/post/he/) is working [on](/post/on/) [a](/post/a/) [project](/post/project/)."
+- "[She](/post/she/) [will](/post/will/) [be](/post/be/) [here](/post/here/) [presently](/post/presently/)."
+- "[The](/post/the/) [weather](/post/weather/) [report](/post/report/) is [presently](/post/presently/) [available](/post/available/) online."
 
-## [Example](/en/post/example/) Sentences
-- "I'm [busy](/en/post/busy/) [with](/en/post/with/) [some](/en/post/some/) tasks, [but](/en/post/but/) I'll [be](/en/post/be/) [with](/en/post/with/) [you](/en/post/you/) [presently](/en/post/presently/)."
-- "[Presently](/en/post/presently/), there's [no](/en/post/no/) [traffic](/en/post/traffic/) [on](/en/post/on/) [the](/en/post/the/) [highway](/en/post/highway/)."
-- "[He](/en/post/he/) is [presently](/en/post/presently/) [out](/en/post/out/) [of](/en/post/of/) [town](/en/post/town/), [but](/en/post/but/) [will](/en/post/will/) [return](/en/post/return/) [soon](/en/post/soon/)."
+## [Example](/post/example/) Sentences
+- "I'm [busy](/post/busy/) [with](/post/with/) [some](/post/some/) tasks, [but](/post/but/) I'll [be](/post/be/) [with](/post/with/) [you](/post/you/) [presently](/post/presently/)."
+- "[Presently](/post/presently/), there's [no](/post/no/) [traffic](/post/traffic/) [on](/post/on/) [the](/post/the/) [highway](/post/highway/)."
+- "[He](/post/he/) is [presently](/post/presently/) [out](/post/out/) [of](/post/of/) [town](/post/town/), [but](/post/but/) [will](/post/will/) [return](/post/return/) [soon](/post/soon/)."
 
 ## Synonyms
 - Currently
-- [Immediately](/en/post/immediately/)
-- [At](/en/post/at/) [this](/en/post/this/) [moment](/en/post/moment/)
-- [Right](/en/post/right/) [now](/en/post/now/)
+- [Immediately](/post/immediately/)
+- [At](/post/at/) [this](/post/this/) [moment](/post/moment/)
+- [Right](/post/right/) [now](/post/now/)
 - Soonish
-- [Instantly](/en/post/instantly/)
+- [Instantly](/post/instantly/)
 
 ## Antonyms
 - Earlier
-- [Later](/en/post/later/)
-- [Previously](/en/post/previously/)
-- Temporarily (implying [a](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [state](/en/post/state/))
-- [Not](/en/post/not/) [now](/en/post/now/) (indicating [a](/en/post/a/) [refusal](/en/post/refusal/) [or](/en/post/or/) [delay](/en/post/delay/))
+- [Later](/post/later/)
+- [Previously](/post/previously/)
+- Temporarily (implying [a](/post/a/) [change](/post/change/) [in](/post/in/) [state](/post/state/))
+- [Not](/post/not/) [now](/post/now/) (indicating [a](/post/a/) [refusal](/post/refusal/) [or](/post/or/) [delay](/post/delay/))

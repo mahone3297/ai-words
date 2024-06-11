@@ -7,51 +7,51 @@ description = '[məˈ∫iːn] n.机器；机械'
 keywords = ['ai words', 'machine']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈməʃiːn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [mechanically](/en/post/mechanically/), electrically, [or](/en/post/or/) electronically operated [device](/en/post/device/) [for](/en/post/for/) performing [a](/en/post/a/) [task](/en/post/task/), typically [one](/en/post/one/) [that](/en/post/that/) requires [effort](/en/post/effort/) [or](/en/post/or/) [strength](/en/post/strength/) [beyond](/en/post/beyond/) [that](/en/post/that/) [of](/en/post/of/) [a](/en/post/a/) [human](/en/post/human/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [factory](/en/post/factory/) uses [advanced](/en/post/advanced/) machines [to](/en/post/to/) [assemble](/en/post/assemble/) parts."
-  - _As [a](/en/post/a/) [collective](/en/post/collective/) noun_: Machines [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [mechanical](/en/post/mechanical/) devices [or](/en/post/or/) systems collectively. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) machines [in](/en/post/in/) [the](/en/post/the/) gym [help](/en/post/help/) [people](/en/post/people/) [maintain](/en/post/maintain/) [their](/en/post/their/) fitness."
-  - _Figurative use_: [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [a](/en/post/a/) [complex](/en/post/complex/) [system](/en/post/system/) [or](/en/post/or/) [organization](/en/post/organization/) regarded [as](/en/post/as/) [a](/en/post/a/) [whole](/en/post/whole/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [human](/en/post/human/) [body](/en/post/body/) is [a](/en/post/a/) [remarkable](/en/post/remarkable/) [machine](/en/post/machine/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [mechanically](/post/mechanically/), electrically, [or](/post/or/) electronically operated [device](/post/device/) [for](/post/for/) performing [a](/post/a/) [task](/post/task/), typically [one](/post/one/) [that](/post/that/) requires [effort](/post/effort/) [or](/post/or/) [strength](/post/strength/) [beyond](/post/beyond/) [that](/post/that/) [of](/post/of/) [a](/post/a/) [human](/post/human/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [factory](/post/factory/) uses [advanced](/post/advanced/) machines [to](/post/to/) [assemble](/post/assemble/) parts."
+  - _As [a](/post/a/) [collective](/post/collective/) noun_: Machines [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) [mechanical](/post/mechanical/) devices [or](/post/or/) systems collectively. [For](/post/for/) [example](/post/example/): "[The](/post/the/) machines [in](/post/in/) [the](/post/the/) gym [help](/post/help/) [people](/post/people/) [maintain](/post/maintain/) [their](/post/their/) fitness."
+  - _Figurative use_: [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [a](/post/a/) [complex](/post/complex/) [system](/post/system/) [or](/post/or/) [organization](/post/organization/) regarded [as](/post/as/) [a](/post/a/) [whole](/post/whole/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [human](/post/human/) [body](/post/body/) is [a](/post/a/) [remarkable](/post/remarkable/) [machine](/post/machine/)."
 
-- **[Verb](/en/post/verb/)**: ([rarely](/en/post/rarely/) [used](/en/post/used/)) [To](/en/post/to/) [make](/en/post/make/) [or](/en/post/or/) [construct](/en/post/construct/) [something](/en/post/something/) using machinery [or](/en/post/or/) [by](/en/post/by/) [mechanical](/en/post/mechanical/) [means](/en/post/means/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [the](/en/post/the/) [old](/en/post/old/) days, [they](/en/post/they/) had [to](/en/post/to/) [machine](/en/post/machine/) intricate parts [by](/en/post/by/) [hand](/en/post/hand/)."
+- **[Verb](/post/verb/)**: ([rarely](/post/rarely/) [used](/post/used/)) [To](/post/to/) [make](/post/make/) [or](/post/or/) [construct](/post/construct/) [something](/post/something/) using machinery [or](/post/or/) [by](/post/by/) [mechanical](/post/mechanical/) [means](/post/means/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) [the](/post/the/) [old](/post/old/) days, [they](/post/they/) had [to](/post/to/) [machine](/post/machine/) intricate parts [by](/post/by/) [hand](/post/hand/)."
 
 ## Phrases
-- "[Run](/en/post/run/) [like](/en/post/like/) [a](/en/post/a/) well-oiled [machine](/en/post/machine/)" [means](/en/post/means/) functioning [smoothly](/en/post/smoothly/) [and](/en/post/and/) efficiently.
-- "[Break](/en/post/break/) [down](/en/post/down/) [the](/en/post/the/) [machine](/en/post/machine/)" refers [to](/en/post/to/) [a](/en/post/a/) [machine](/en/post/machine/) ceasing [to](/en/post/to/) [function](/en/post/function/) [properly](/en/post/properly/) [or](/en/post/or/) [completely](/en/post/completely/) failing.
-- "[A](/en/post/a/) [machine](/en/post/machine/) [for](/en/post/for/) [living](/en/post/living/) [in](/en/post/in/)" is [a](/en/post/a/) [famous](/en/post/famous/) [quote](/en/post/quote/) [from](/en/post/from/) Le Corbusier, referring [to](/en/post/to/) [his](/en/post/his/) [vision](/en/post/vision/) [of](/en/post/of/) [a](/en/post/a/) [house](/en/post/house/) [as](/en/post/as/) [a](/en/post/a/) functional entity.
+- "[Run](/post/run/) [like](/post/like/) [a](/post/a/) well-oiled [machine](/post/machine/)" [means](/post/means/) functioning [smoothly](/post/smoothly/) [and](/post/and/) efficiently.
+- "[Break](/post/break/) [down](/post/down/) [the](/post/the/) [machine](/post/machine/)" refers [to](/post/to/) [a](/post/a/) [machine](/post/machine/) ceasing [to](/post/to/) [function](/post/function/) [properly](/post/properly/) [or](/post/or/) [completely](/post/completely/) failing.
+- "[A](/post/a/) [machine](/post/machine/) [for](/post/for/) [living](/post/living/) [in](/post/in/)" is [a](/post/a/) [famous](/post/famous/) [quote](/post/quote/) [from](/post/from/) Le Corbusier, referring [to](/post/to/) [his](/post/his/) [vision](/post/vision/) [of](/post/of/) [a](/post/a/) [house](/post/house/) [as](/post/as/) [a](/post/a/) functional entity.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) sewing [machine](/en/post/machine/) revolutionized [the](/en/post/the/) [textile](/en/post/textile/) [industry](/en/post/industry/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) [machine](/en/post/machine/) [precision](/en/post/precision/) components [for](/en/post/for/) [aircraft](/en/post/aircraft/) engines."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) sewing [machine](/post/machine/) revolutionized [the](/post/the/) [textile](/post/textile/) [industry](/post/industry/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) [machine](/post/machine/) [precision](/post/precision/) components [for](/post/for/) [aircraft](/post/aircraft/) engines."
 
 ## Synonyms
-- [Appliance](/en/post/appliance/)
-- [Device](/en/post/device/)
-- [Tool](/en/post/tool/)
-- [Instrument](/en/post/instrument/)
-- [Equipment](/en/post/equipment/)
+- [Appliance](/post/appliance/)
+- [Device](/post/device/)
+- [Tool](/post/tool/)
+- [Instrument](/post/instrument/)
+- [Equipment](/post/equipment/)
 - Contraption
-- [Apparatus](/en/post/apparatus/)
+- [Apparatus](/post/apparatus/)
 - Gizmo
 - Mechanism
 
 ## Antonyms
 - Handmade
-- [Manual](/en/post/manual/)
-- [Organic](/en/post/organic/) ([when](/en/post/when/) referring [to](/en/post/to/) non-mechanical processes)
+- [Manual](/post/manual/)
+- [Organic](/post/organic/) ([when](/post/when/) referring [to](/post/to/) non-mechanical processes)
 
 ## Phrasal Verbs & Idioms
-- "[Machine](/en/post/machine/) [learning](/en/post/learning/)" - An [application](/en/post/application/) [of](/en/post/of/) [artificial](/en/post/artificial/) [intelligence](/en/post/intelligence/) algorithms [that](/en/post/that/) enables [a](/en/post/a/) [system](/en/post/system/) [to](/en/post/to/) [improve](/en/post/improve/) [its](/en/post/its/) [performance](/en/post/performance/) [on](/en/post/on/) [a](/en/post/a/) [specific](/en/post/specific/) [task](/en/post/task/) [over](/en/post/over/) [time](/en/post/time/) [without](/en/post/without/) [being](/en/post/being/) explicitly programmed.
-- "[To](/en/post/to/) [be](/en/post/be/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [machine](/en/post/machine/)" - [To](/en/post/to/) [be](/en/post/be/) an integral [component](/en/post/component/) [of](/en/post/of/) [a](/en/post/a/) larger [system](/en/post/system/) [or](/en/post/or/) [organization](/en/post/organization/). 
+- "[Machine](/post/machine/) [learning](/post/learning/)" - An [application](/post/application/) [of](/post/of/) [artificial](/post/artificial/) [intelligence](/post/intelligence/) algorithms [that](/post/that/) enables [a](/post/a/) [system](/post/system/) [to](/post/to/) [improve](/post/improve/) [its](/post/its/) [performance](/post/performance/) [on](/post/on/) [a](/post/a/) [specific](/post/specific/) [task](/post/task/) [over](/post/over/) [time](/post/time/) [without](/post/without/) [being](/post/being/) explicitly programmed.
+- "[To](/post/to/) [be](/post/be/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [machine](/post/machine/)" - [To](/post/to/) [be](/post/be/) an integral [component](/post/component/) [of](/post/of/) [a](/post/a/) larger [system](/post/system/) [or](/post/or/) [organization](/post/organization/). 
 
 ## Derived Terms
 - Machinery
 - Machinist
-- [Mechanical](/en/post/mechanical/)
+- [Mechanical](/post/mechanical/)
 - Machine-readable
 - Machine-made
 - Machine-to-machine (M2M)
-- Mainframe [machine](/en/post/machine/)
-- Thinking [machine](/en/post/machine/) ([a](/en/post/a/) [term](/en/post/term/) [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) AI [or](/en/post/or/) robots)
+- Mainframe [machine](/post/machine/)
+- Thinking [machine](/post/machine/) ([a](/post/a/) [term](/post/term/) [often](/post/often/) [used](/post/used/) [for](/post/for/) AI [or](/post/or/) robots)

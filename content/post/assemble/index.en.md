@@ -7,38 +7,38 @@ description = '[əˈsembl] vt.集合，召集；装配'
 keywords = ['ai words', 'assemble']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈsæmbəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Assembly](/en/post/assembly/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) bringing [together](/en/post/together/) [various](/en/post/various/) parts [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [whole](/en/post/whole/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) was assembling [the](/en/post/the/) [robot](/en/post/robot/) [for](/en/post/for/) [the](/en/post/the/) [competition](/en/post/competition/)."
-- **[Collection](/en/post/collection/)**: [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) items gathered [together](/en/post/together/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) antique books was displayed [at](/en/post/at/) [the](/en/post/the/) [museum](/en/post/museum/)."
-- **[Assembly](/en/post/assembly/) [line](/en/post/line/)**: [A](/en/post/a/) manufacturing setup [where](/en/post/where/) products [move](/en/post/move/) continuously [along](/en/post/along/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) workstations. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [assembly](/en/post/assembly/) [line](/en/post/line/) workers were efficiently assembling cars."
+### [Noun](/post/noun/)
+- **[Assembly](/post/assembly/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) bringing [together](/post/together/) [various](/post/various/) parts [to](/post/to/) [form](/post/form/) [a](/post/a/) [whole](/post/whole/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [team](/post/team/) was assembling [the](/post/the/) [robot](/post/robot/) [for](/post/for/) [the](/post/the/) [competition](/post/competition/)."
+- **[Collection](/post/collection/)**: [A](/post/a/) [group](/post/group/) [of](/post/of/) items gathered [together](/post/together/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [collection](/post/collection/) [of](/post/of/) antique books was displayed [at](/post/at/) [the](/post/the/) [museum](/post/museum/)."
+- **[Assembly](/post/assembly/) [line](/post/line/)**: [A](/post/a/) manufacturing setup [where](/post/where/) products [move](/post/move/) continuously [along](/post/along/) [a](/post/a/) [series](/post/series/) [of](/post/of/) workstations. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [assembly](/post/assembly/) [line](/post/line/) workers were efficiently assembling cars."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [assemble](/en/post/assemble/)**: [To](/en/post/to/) [put](/en/post/put/) [together](/en/post/together/) [or](/en/post/or/) [combine](/en/post/combine/) parts [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [whole](/en/post/whole/). [For](/en/post/for/) [example](/en/post/example/): "We'll [need](/en/post/need/) [to](/en/post/to/) [assemble](/en/post/assemble/) [the](/en/post/the/) [furniture](/en/post/furniture/) [before](/en/post/before/) [we](/en/post/we/) [can](/en/post/can/) [move](/en/post/move/) [in](/en/post/in/)."
-- **[Compile](/en/post/compile/)**: [To](/en/post/to/) [gather](/en/post/gather/) [and](/en/post/and/) [organize](/en/post/organize/) [information](/en/post/information/) [or](/en/post/or/) components [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [final](/en/post/final/) [product](/en/post/product/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) programmer assembled [all](/en/post/all/) [the](/en/post/the/) [code](/en/post/code/) [into](/en/post/into/) [a](/en/post/a/) functional [program](/en/post/program/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [assemble](/post/assemble/)**: [To](/post/to/) [put](/post/put/) [together](/post/together/) [or](/post/or/) [combine](/post/combine/) parts [to](/post/to/) [form](/post/form/) [a](/post/a/) [whole](/post/whole/). [For](/post/for/) [example](/post/example/): "We'll [need](/post/need/) [to](/post/to/) [assemble](/post/assemble/) [the](/post/the/) [furniture](/post/furniture/) [before](/post/before/) [we](/post/we/) [can](/post/can/) [move](/post/move/) [in](/post/in/)."
+- **[Compile](/post/compile/)**: [To](/post/to/) [gather](/post/gather/) [and](/post/and/) [organize](/post/organize/) [information](/post/information/) [or](/post/or/) components [to](/post/to/) [create](/post/create/) [a](/post/a/) [final](/post/final/) [product](/post/product/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) programmer assembled [all](/post/all/) [the](/post/the/) [code](/post/code/) [into](/post/into/) [a](/post/a/) functional [program](/post/program/)."
 
-### [Adjective](/en/post/adjective/)
-- **Assembled**: Made [up](/en/post/up/) [of](/en/post/of/) [separate](/en/post/separate/) parts [that](/en/post/that/) [have](/en/post/have/) been brought [together](/en/post/together/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) arrived [with](/en/post/with/) [their](/en/post/their/) assembled [equipment](/en/post/equipment/)."
+### [Adjective](/post/adjective/)
+- **Assembled**: Made [up](/post/up/) [of](/post/of/) [separate](/post/separate/) parts [that](/post/that/) [have](/post/have/) been brought [together](/post/together/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [team](/post/team/) arrived [with](/post/with/) [their](/post/their/) assembled [equipment](/post/equipment/)."
 
 ## Phrases
-- "[Assemble](/en/post/assemble/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [put](/en/post/put/) [together](/en/post/together/) [the](/en/post/the/) parts [of](/en/post/of/) [a](/en/post/a/) [product](/en/post/product/).
-- "Assembled [by](/en/post/by/)": Indicates [that](/en/post/that/) [a](/en/post/a/) [product](/en/post/product/) was [put](/en/post/put/) [together](/en/post/together/) [by](/en/post/by/) [a](/en/post/a/) [specific](/en/post/specific/) [party](/en/post/party/).
-- "Disassemble [to](/en/post/to/) [inspect](/en/post/inspect/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) taking [apart](/en/post/apart/) [to](/en/post/to/) [check](/en/post/check/) [for](/en/post/for/) [damage](/en/post/damage/) [or](/en/post/or/) [maintenance](/en/post/maintenance/).
+- "[Assemble](/post/assemble/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [put](/post/put/) [together](/post/together/) [the](/post/the/) parts [of](/post/of/) [a](/post/a/) [product](/post/product/).
+- "Assembled [by](/post/by/)": Indicates [that](/post/that/) [a](/post/a/) [product](/post/product/) was [put](/post/put/) [together](/post/together/) [by](/post/by/) [a](/post/a/) [specific](/post/specific/) [party](/post/party/).
+- "Disassemble [to](/post/to/) [inspect](/post/inspect/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) taking [apart](/post/apart/) [to](/post/to/) [check](/post/check/) [for](/post/for/) [damage](/post/damage/) [or](/post/or/) [maintenance](/post/maintenance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) volunteers worked tirelessly [to](/en/post/to/) [assemble](/en/post/assemble/) [the](/en/post/the/) [charity](/en/post/charity/) event's decorations."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [engineer](/en/post/engineer/) carefully disassembled [the](/en/post/the/) [machine](/en/post/machine/) [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [source](/en/post/source/) [of](/en/post/of/) [the](/en/post/the/) [problem](/en/post/problem/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) pre-assembled kit made [it](/en/post/it/) [easy](/en/post/easy/) [for](/en/post/for/) beginners [to](/en/post/to/) [build](/en/post/build/) [the](/en/post/the/) [model](/en/post/model/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) volunteers worked tirelessly [to](/post/to/) [assemble](/post/assemble/) [the](/post/the/) [charity](/post/charity/) event's decorations."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [engineer](/post/engineer/) carefully disassembled [the](/post/the/) [machine](/post/machine/) [to](/post/to/) [find](/post/find/) [the](/post/the/) [source](/post/source/) [of](/post/of/) [the](/post/the/) [problem](/post/problem/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) pre-assembled kit made [it](/post/it/) [easy](/post/easy/) [for](/post/for/) beginners [to](/post/to/) [build](/post/build/) [the](/post/the/) [model](/post/model/)."
 
 ## Synonyms
-- [Put](/en/post/put/) [together](/en/post/together/)
-- [Build](/en/post/build/)
-- [Piece](/en/post/piece/) [together](/en/post/together/)
-- [Compile](/en/post/compile/)
-- [Form](/en/post/form/)
+- [Put](/post/put/) [together](/post/together/)
+- [Build](/post/build/)
+- [Piece](/post/piece/) [together](/post/together/)
+- [Compile](/post/compile/)
+- [Form](/post/form/)
 - Reconstruct
 - Assemblement
-- [Formation](/en/post/formation/)
+- [Formation](/post/formation/)

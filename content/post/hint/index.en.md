@@ -7,32 +7,32 @@ description = '[hint] n.暗示，示意；建议'
 keywords = ['ai words', 'hint']
 +++
 
-## [Word](/en/post/word/): [Hint](/en/post/hint/)
+## [Word](/post/word/): [Hint](/post/hint/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /haɪnt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) subtle [indication](/en/post/indication/) [or](/en/post/or/) [suggestion](/en/post/suggestion/) intended [to](/en/post/to/) [guide](/en/post/guide/) [or](/en/post/or/) [convey](/en/post/convey/) [information](/en/post/information/) [without](/en/post/without/) [being](/en/post/being/) explicitly stated. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) dropped [several](/en/post/several/) hints [about](/en/post/about/) [what](/en/post/what/) [she](/en/post/she/) wanted [for](/en/post/for/) [her](/en/post/her/) [birthday](/en/post/birthday/)."
-  - _A [piece](/en/post/piece/) [of](/en/post/of/) [advice](/en/post/advice/) [or](/en/post/or/) guidance_: "[The](/en/post/the/) [teacher](/en/post/teacher/) gave [the](/en/post/the/) students [a](/en/post/a/) [hint](/en/post/hint/) [on](/en/post/on/) [how](/en/post/how/) [to](/en/post/to/) [solve](/en/post/solve/) [the](/en/post/the/) math [problem](/en/post/problem/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) subtle [indication](/post/indication/) [or](/post/or/) [suggestion](/post/suggestion/) intended [to](/post/to/) [guide](/post/guide/) [or](/post/or/) [convey](/post/convey/) [information](/post/information/) [without](/post/without/) [being](/post/being/) explicitly stated. [For](/post/for/) [example](/post/example/): "[She](/post/she/) dropped [several](/post/several/) hints [about](/post/about/) [what](/post/what/) [she](/post/she/) wanted [for](/post/for/) [her](/post/her/) [birthday](/post/birthday/)."
+  - _A [piece](/post/piece/) [of](/post/of/) [advice](/post/advice/) [or](/post/or/) guidance_: "[The](/post/the/) [teacher](/post/teacher/) gave [the](/post/the/) students [a](/post/a/) [hint](/post/hint/) [on](/post/on/) [how](/post/how/) [to](/post/to/) [solve](/post/solve/) [the](/post/the/) math [problem](/post/problem/)."
   
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [suggest](/en/post/suggest/) [something](/en/post/something/) indirectly [or](/en/post/or/) subtly; [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [hint](/en/post/hint/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) hinted [that](/en/post/that/) [he](/en/post/he/) [might](/en/post/might/) [be](/en/post/be/) interested [in](/en/post/in/) running [for](/en/post/for/) [office](/en/post/office/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [suggest](/post/suggest/) [something](/post/something/) indirectly [or](/post/or/) subtly; [to](/post/to/) [give](/post/give/) [a](/post/a/) [hint](/post/hint/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) hinted [that](/post/that/) [he](/post/he/) [might](/post/might/) [be](/post/be/) interested [in](/post/in/) running [for](/post/for/) [office](/post/office/)."
 
 ## Phrases
-- "[Drop](/en/post/drop/) [a](/en/post/a/) [hint](/en/post/hint/)": [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) subtle [indication](/en/post/indication/) [or](/en/post/or/) [suggestion](/en/post/suggestion/) [about](/en/post/about/) [something](/en/post/something/), [often](/en/post/often/) [to](/en/post/to/) [influence](/en/post/influence/) [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) dropped [a](/en/post/a/) [hint](/en/post/hint/) [about](/en/post/about/) [where](/en/post/where/) she'd [like](/en/post/like/) [to](/en/post/to/) [go](/en/post/go/) [on](/en/post/on/) [vacation](/en/post/vacation/)."
-- "[Take](/en/post/take/) [the](/en/post/the/) [hint](/en/post/hint/)": [To](/en/post/to/) [understand](/en/post/understand/) [and](/en/post/and/) [act](/en/post/act/) [on](/en/post/on/) an [indirect](/en/post/indirect/) [or](/en/post/or/) subtle [suggestion](/en/post/suggestion/) given [by](/en/post/by/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [he](/en/post/he/) [repeatedly](/en/post/repeatedly/) mentioned [being](/en/post/being/) [tired](/en/post/tired/), I took [the](/en/post/the/) [hint](/en/post/hint/) [and](/en/post/and/) [left](/en/post/left/) [early](/en/post/early/)."
+- "[Drop](/post/drop/) [a](/post/a/) [hint](/post/hint/)": [To](/post/to/) [give](/post/give/) [a](/post/a/) subtle [indication](/post/indication/) [or](/post/or/) [suggestion](/post/suggestion/) [about](/post/about/) [something](/post/something/), [often](/post/often/) [to](/post/to/) [influence](/post/influence/) [a](/post/a/) [decision](/post/decision/) [or](/post/or/) [action](/post/action/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) dropped [a](/post/a/) [hint](/post/hint/) [about](/post/about/) [where](/post/where/) she'd [like](/post/like/) [to](/post/to/) [go](/post/go/) [on](/post/on/) [vacation](/post/vacation/)."
+- "[Take](/post/take/) [the](/post/the/) [hint](/post/hint/)": [To](/post/to/) [understand](/post/understand/) [and](/post/and/) [act](/post/act/) [on](/post/on/) an [indirect](/post/indirect/) [or](/post/or/) subtle [suggestion](/post/suggestion/) given [by](/post/by/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) [he](/post/he/) [repeatedly](/post/repeatedly/) mentioned [being](/post/being/) [tired](/post/tired/), I took [the](/post/the/) [hint](/post/hint/) [and](/post/and/) [left](/post/left/) [early](/post/early/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) cryptic crossword was [full](/en/post/full/) [of](/en/post/of/) obscure hints [to](/en/post/to/) [help](/en/post/help/) solvers."
-- **[Verb](/en/post/verb/)**: "I hinted [at](/en/post/at/) [my](/en/post/my/) [preference](/en/post/preference/) [for](/en/post/for/) Italian [food](/en/post/food/) [when](/en/post/when/) discussing [dinner](/en/post/dinner/) plans."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) cryptic crossword was [full](/post/full/) [of](/post/of/) obscure hints [to](/post/to/) [help](/post/help/) solvers."
+- **[Verb](/post/verb/)**: "I hinted [at](/post/at/) [my](/post/my/) [preference](/post/preference/) [for](/post/for/) Italian [food](/post/food/) [when](/post/when/) discussing [dinner](/post/dinner/) plans."
 
 ## Synonyms
-- [Suggestion](/en/post/suggestion/)
-- [Clue](/en/post/clue/)
-- [Indication](/en/post/indication/)
+- [Suggestion](/post/suggestion/)
+- [Clue](/post/clue/)
+- [Indication](/post/indication/)
 - Nudge
 - Inkling
-- Implied [meaning](/en/post/meaning/)
-- [Signal](/en/post/signal/)
+- Implied [meaning](/post/meaning/)
+- [Signal](/post/signal/)
 - Allegation
 - Allusion

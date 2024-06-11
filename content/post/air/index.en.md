@@ -7,47 +7,47 @@ description = '[eə] n.空气；空中；外观'
 keywords = ['ai words', 'air']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Air](/en/post/air/)**: 1. [The](/en/post/the/) [mixture](/en/post/mixture/) [of](/en/post/of/) gases [that](/en/post/that/) surrounds [the](/en/post/the/) [Earth](/en/post/earth/) [and](/en/post/and/) is [essential](/en/post/essential/) [for](/en/post/for/) [life](/en/post/life/), [primarily](/en/post/primarily/) consisting [of](/en/post/of/) [nitrogen](/en/post/nitrogen/) (78%) [and](/en/post/and/) oxygen (21%). [Example](/en/post/example/): "[The](/en/post/the/) [air](/en/post/air/) [we](/en/post/we/) [breathe](/en/post/breathe/) is [vital](/en/post/vital/) [for](/en/post/for/) [our](/en/post/our/) survival."
-- 2. [The](/en/post/the/) [atmosphere](/en/post/atmosphere/) [or](/en/post/or/) [climate](/en/post/climate/) [of](/en/post/of/) [a](/en/post/a/) [place](/en/post/place/). [Example](/en/post/example/): "[The](/en/post/the/) [mountain](/en/post/mountain/) [air](/en/post/air/) felt invigorating [after](/en/post/after/) [the](/en/post/the/) [city](/en/post/city/) [smog](/en/post/smog/)."
-- 3. [A](/en/post/a/) [feeling](/en/post/feeling/) [or](/en/post/or/) [mood](/en/post/mood/). [Example](/en/post/example/): "[The](/en/post/the/) [room](/en/post/room/) had [a](/en/post/a/) relaxed, carefree [air](/en/post/air/) [about](/en/post/about/) [it](/en/post/it/)."
+### [Noun](/post/noun/)
+- **[Air](/post/air/)**: 1. [The](/post/the/) [mixture](/post/mixture/) [of](/post/of/) gases [that](/post/that/) surrounds [the](/post/the/) [Earth](/post/earth/) [and](/post/and/) is [essential](/post/essential/) [for](/post/for/) [life](/post/life/), [primarily](/post/primarily/) consisting [of](/post/of/) [nitrogen](/post/nitrogen/) (78%) [and](/post/and/) oxygen (21%). [Example](/post/example/): "[The](/post/the/) [air](/post/air/) [we](/post/we/) [breathe](/post/breathe/) is [vital](/post/vital/) [for](/post/for/) [our](/post/our/) survival."
+- 2. [The](/post/the/) [atmosphere](/post/atmosphere/) [or](/post/or/) [climate](/post/climate/) [of](/post/of/) [a](/post/a/) [place](/post/place/). [Example](/post/example/): "[The](/post/the/) [mountain](/post/mountain/) [air](/post/air/) felt invigorating [after](/post/after/) [the](/post/the/) [city](/post/city/) [smog](/post/smog/)."
+- 3. [A](/post/a/) [feeling](/post/feeling/) [or](/post/or/) [mood](/post/mood/). [Example](/post/example/): "[The](/post/the/) [room](/post/room/) had [a](/post/a/) relaxed, carefree [air](/post/air/) [about](/post/about/) [it](/post/it/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [breathe](/en/post/breathe/)** [air](/en/post/air/): [To](/en/post/to/) inhale [and](/en/post/and/) exhale [the](/en/post/the/) [mixture](/en/post/mixture/) [of](/en/post/of/) gases [necessary](/en/post/necessary/) [for](/en/post/for/) respiration. [Example](/en/post/example/): "[She](/en/post/she/) took [a](/en/post/a/) [deep](/en/post/deep/) [breath](/en/post/breath/) [of](/en/post/of/) [fresh](/en/post/fresh/) [mountain](/en/post/mountain/) [air](/en/post/air/)."
-- **[To](/en/post/to/) [fill](/en/post/fill/) [with](/en/post/with/) [air](/en/post/air/)**: [To](/en/post/to/) inflate [something](/en/post/something/) [by](/en/post/by/) introducing [air](/en/post/air/). [Example](/en/post/example/): "[He](/en/post/he/) blew [up](/en/post/up/) [the](/en/post/the/) [balloon](/en/post/balloon/) [with](/en/post/with/) [a](/en/post/a/) [steady](/en/post/steady/) [stream](/en/post/stream/) [of](/en/post/of/) [air](/en/post/air/)."
-- **[To](/en/post/to/) [be](/en/post/be/) filled [with](/en/post/with/) ([a](/en/post/a/) [particular](/en/post/particular/) [atmosphere](/en/post/atmosphere/))**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [particular](/en/post/particular/) [mood](/en/post/mood/) [or](/en/post/or/) vibe. [Example](/en/post/example/): "[The](/en/post/the/) [party](/en/post/party/) was filled [with](/en/post/with/) [laughter](/en/post/laughter/) [and](/en/post/and/) excitement."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [breathe](/post/breathe/)** [air](/post/air/): [To](/post/to/) inhale [and](/post/and/) exhale [the](/post/the/) [mixture](/post/mixture/) [of](/post/of/) gases [necessary](/post/necessary/) [for](/post/for/) respiration. [Example](/post/example/): "[She](/post/she/) took [a](/post/a/) [deep](/post/deep/) [breath](/post/breath/) [of](/post/of/) [fresh](/post/fresh/) [mountain](/post/mountain/) [air](/post/air/)."
+- **[To](/post/to/) [fill](/post/fill/) [with](/post/with/) [air](/post/air/)**: [To](/post/to/) inflate [something](/post/something/) [by](/post/by/) introducing [air](/post/air/). [Example](/post/example/): "[He](/post/he/) blew [up](/post/up/) [the](/post/the/) [balloon](/post/balloon/) [with](/post/with/) [a](/post/a/) [steady](/post/steady/) [stream](/post/stream/) [of](/post/of/) [air](/post/air/)."
+- **[To](/post/to/) [be](/post/be/) filled [with](/post/with/) ([a](/post/a/) [particular](/post/particular/) [atmosphere](/post/atmosphere/))**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [particular](/post/particular/) [mood](/post/mood/) [or](/post/or/) vibe. [Example](/post/example/): "[The](/post/the/) [party](/post/party/) was filled [with](/post/with/) [laughter](/post/laughter/) [and](/post/and/) excitement."
 
-### [Adjective](/en/post/adjective/)
-- **Airy**: [Light](/en/post/light/), [open](/en/post/open/), [or](/en/post/or/) spacious, [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) [space](/en/post/space/). [Example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) had [a](/en/post/a/) [bright](/en/post/bright/), airy [living](/en/post/living/) [room](/en/post/room/)."
-- **Airless**: Lacking [air](/en/post/air/); oppressive [or](/en/post/or/) stuffy. [Example](/en/post/example/): "[The](/en/post/the/) basement felt airless [after](/en/post/after/) [being](/en/post/being/) closed [up](/en/post/up/) [all](/en/post/all/) [day](/en/post/day/)."
-- **Air-conditioned**: Maintained [at](/en/post/at/) [a](/en/post/a/) [comfortable](/en/post/comfortable/) [temperature](/en/post/temperature/) [and](/en/post/and/) humidity using [air](/en/post/air/) conditioning. [Example](/en/post/example/): "[The](/en/post/the/) [hotel](/en/post/hotel/) [room](/en/post/room/) had an air-conditioned [environment](/en/post/environment/)."
+### [Adjective](/post/adjective/)
+- **Airy**: [Light](/post/light/), [open](/post/open/), [or](/post/or/) spacious, [often](/post/often/) referring [to](/post/to/) [a](/post/a/) [building](/post/building/) [or](/post/or/) [space](/post/space/). [Example](/post/example/): "[The](/post/the/) [house](/post/house/) had [a](/post/a/) [bright](/post/bright/), airy [living](/post/living/) [room](/post/room/)."
+- **Airless**: Lacking [air](/post/air/); oppressive [or](/post/or/) stuffy. [Example](/post/example/): "[The](/post/the/) basement felt airless [after](/post/after/) [being](/post/being/) closed [up](/post/up/) [all](/post/all/) [day](/post/day/)."
+- **Air-conditioned**: Maintained [at](/post/at/) [a](/post/a/) [comfortable](/post/comfortable/) [temperature](/post/temperature/) [and](/post/and/) humidity using [air](/post/air/) conditioning. [Example](/post/example/): "[The](/post/the/) [hotel](/post/hotel/) [room](/post/room/) had an air-conditioned [environment](/post/environment/)."
 
-### [Adverb](/en/post/adverb/)
-- **Airily**: [In](/en/post/in/) [a](/en/post/a/) [light](/en/post/light/), carefree [manner](/en/post/manner/). [Example](/en/post/example/): "[She](/en/post/she/) floated [through](/en/post/through/) [the](/en/post/the/) [park](/en/post/park/) airily [on](/en/post/on/) [her](/en/post/her/) [bike](/en/post/bike/)."
+### [Adverb](/post/adverb/)
+- **Airily**: [In](/post/in/) [a](/post/a/) [light](/post/light/), carefree [manner](/post/manner/). [Example](/post/example/): "[She](/post/she/) floated [through](/post/through/) [the](/post/the/) [park](/post/park/) airily [on](/post/on/) [her](/post/her/) [bike](/post/bike/)."
 
 ## Phrases
-- "[Breath](/en/post/breath/) [in](/en/post/in/) [the](/en/post/the/) [fresh](/en/post/fresh/) [air](/en/post/air/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [deep](/en/post/deep/), refreshing [breath](/en/post/breath/) [of](/en/post/of/) [outdoor](/en/post/outdoor/) [air](/en/post/air/).
-- "[Clear](/en/post/clear/) [the](/en/post/the/) [air](/en/post/air/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) [used](/en/post/used/) [to](/en/post/to/) [resolve](/en/post/resolve/) misunderstandings [or](/en/post/or/) conflicts.
-- "[Keep](/en/post/keep/) [the](/en/post/the/) [air](/en/post/air/) [clean](/en/post/clean/)" emphasizes [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) environmental cleanliness.
+- "[Breath](/post/breath/) [in](/post/in/) [the](/post/the/) [fresh](/post/fresh/) [air](/post/air/)" [means](/post/means/) [to](/post/to/) [take](/post/take/) [a](/post/a/) [deep](/post/deep/), refreshing [breath](/post/breath/) [of](/post/of/) [outdoor](/post/outdoor/) [air](/post/air/).
+- "[Clear](/post/clear/) [the](/post/the/) [air](/post/air/)" is [a](/post/a/) [phrase](/post/phrase/) [used](/post/used/) [to](/post/to/) [resolve](/post/resolve/) misunderstandings [or](/post/or/) conflicts.
+- "[Keep](/post/keep/) [the](/post/the/) [air](/post/air/) [clean](/post/clean/)" emphasizes [the](/post/the/) [importance](/post/importance/) [of](/post/of/) environmental cleanliness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) birds chirped happily [in](/en/post/in/) [the](/en/post/the/) crisp [mountain](/en/post/mountain/) [air](/en/post/air/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) inflated [the](/en/post/the/) [tire](/en/post/tire/) [with](/en/post/with/) [a](/en/post/a/) [pump](/en/post/pump/), filling [it](/en/post/it/) [with](/en/post/with/) [air](/en/post/air/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [open](/en/post/open/) windows allowed [the](/en/post/the/) sun's [warm](/en/post/warm/) [air](/en/post/air/) [to](/en/post/to/) [filter](/en/post/filter/) [into](/en/post/into/) [the](/en/post/the/) [room](/en/post/room/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) floated airily [above](/en/post/above/) [the](/en/post/the/) [grass](/en/post/grass/), enjoying [the](/en/post/the/) [breeze](/en/post/breeze/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) birds chirped happily [in](/post/in/) [the](/post/the/) crisp [mountain](/post/mountain/) [air](/post/air/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) inflated [the](/post/the/) [tire](/post/tire/) [with](/post/with/) [a](/post/a/) [pump](/post/pump/), filling [it](/post/it/) [with](/post/with/) [air](/post/air/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [open](/post/open/) windows allowed [the](/post/the/) sun's [warm](/post/warm/) [air](/post/air/) [to](/post/to/) [filter](/post/filter/) [into](/post/into/) [the](/post/the/) [room](/post/room/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) floated airily [above](/post/above/) [the](/post/the/) [grass](/post/grass/), enjoying [the](/post/the/) [breeze](/post/breeze/)."
 
 ## Synonyms
-- [Atmosphere](/en/post/atmosphere/)
-- [Wind](/en/post/wind/)
+- [Atmosphere](/post/atmosphere/)
+- [Wind](/post/wind/)
 - Oxygen
 - Vitality
 - Inhalation
 - Exhaling
 - Breezy
-- [Pure](/en/post/pure/)
-- [Clear](/en/post/clear/)
+- [Pure](/post/pure/)
+- [Clear](/post/clear/)
 - Unpolluted

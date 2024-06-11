@@ -11,21 +11,21 @@ keywords = ['ai words', 'layout']
 /ˈlaʊət/
 
 ## 释义
-- **名词**: 布局，设计，安排。例如: "[The](/post/the/) magazine's [layout](/post/layout/) is [both](/post/both/) elegant [and](/post/and/) user-friendly."
-- **动词**: 设计，布置，规划。例如: "[She](/post/she/) was [responsible](/post/responsible/) [for](/post/for/) laying [out](/post/out/) [the](/post/the/) [new](/post/new/) [office](/post/office/) [space](/post/space/)."
+- **名词**: 布局，设计，安排。例如: "[The](/zh/post/the/) magazine's [layout](/zh/post/layout/) is [both](/zh/post/both/) elegant [and](/zh/post/and/) user-friendly."
+- **动词**: 设计，布置，规划。例如: "[She](/zh/post/she/) was [responsible](/zh/post/responsible/) [for](/zh/post/for/) laying [out](/zh/post/out/) [the](/zh/post/the/) [new](/zh/post/new/) [office](/zh/post/office/) [space](/zh/post/space/)."
 
 ## 短语
-- "[Page](/post/page/) [layout](/post/layout/)" 指的是页面上的内容和图形的排列设计。
-- "[Design](/post/design/) [layout](/post/layout/)" 可以指任何项目的视觉呈现和结构。
-- "[Layout](/post/layout/) [plan](/post/plan/)" 是建筑或工程中的平面设计图。
+- "[Page](/zh/post/page/) [layout](/zh/post/layout/)" 指的是页面上的内容和图形的排列设计。
+- "[Design](/zh/post/design/) [layout](/zh/post/layout/)" 可以指任何项目的视觉呈现和结构。
+- "[Layout](/zh/post/layout/) [plan](/zh/post/plan/)" 是建筑或工程中的平面设计图。
 
 ## 例句
-- 名词: "[The](/post/the/) [artist](/post/artist/) spent hours perfecting [the](/post/the/) book's [cover](/post/cover/) [layout](/post/layout/)."
-- 动词: "[The](/post/the/) architect [will](/post/will/) [layout](/post/layout/) [the](/post/the/) house's blueprint [before](/post/before/) [construction](/post/construction/) begins."
+- 名词: "[The](/zh/post/the/) [artist](/zh/post/artist/) spent hours perfecting [the](/zh/post/the/) book's [cover](/zh/post/cover/) [layout](/zh/post/layout/)."
+- 动词: "[The](/zh/post/the/) architect [will](/zh/post/will/) [layout](/zh/post/layout/) [the](/zh/post/the/) house's blueprint [before](/zh/post/before/) [construction](/zh/post/construction/) begins."
 
 ## 同义词
-- [Design](/post/design/)
-- [Plan](/post/plan/)
-- [Arrangement](/post/arrangement/)
+- [Design](/zh/post/design/)
+- [Plan](/zh/post/plan/)
+- [Arrangement](/zh/post/arrangement/)
 - Configuration
-- [Scheme](/post/scheme/)
+- [Scheme](/zh/post/scheme/)

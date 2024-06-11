@@ -11,20 +11,20 @@ keywords = ['ai words', 'furniture']
 /ˈfɜːrnɪtʃər/
 
 ## 释义
-- **名词**: 家具；室内陈设。指房间内用以装饰和方便生活的各种器具，如桌、椅、柜、床等。例如: "[The](/post/the/) [living](/post/living/) [room](/post/room/) was elegantly furnished [with](/post/with/) antique [furniture](/post/furniture/)."
-- **动词**: 配备家具；布置（房间）。例如: "[They](/post/they/) are [in](/post/in/) [the](/post/the/) [process](/post/process/) [of](/post/of/) furnishing [their](/post/their/) [new](/post/new/) [apartment](/post/apartment/)."
+- **名词**: 家具；室内陈设。指房间内用以装饰和方便生活的各种器具，如桌、椅、柜、床等。例如: "[The](/zh/post/the/) [living](/zh/post/living/) [room](/zh/post/room/) was elegantly furnished [with](/zh/post/with/) antique [furniture](/zh/post/furniture/)."
+- **动词**: 配备家具；布置（房间）。例如: "[They](/zh/post/they/) are [in](/zh/post/in/) [the](/zh/post/the/) [process](/zh/post/process/) [of](/zh/post/of/) furnishing [their](/zh/post/their/) [new](/zh/post/new/) [apartment](/zh/post/apartment/)."
 
 ## 短语
-- "[Furnish](/post/furnish/) [a](/post/a/) [room](/post/room/)" 意味着为一个房间提供所需的家具。
-- "[Office](/post/office/) [furniture](/post/furniture/)" 指的是办公室使用的家具，如办公桌、椅子和文件柜。
+- "[Furnish](/zh/post/furnish/) [a](/zh/post/a/) [room](/zh/post/room/)" 意味着为一个房间提供所需的家具。
+- "[Office](/zh/post/office/) [furniture](/zh/post/furniture/)" 指的是办公室使用的家具，如办公桌、椅子和文件柜。
 
 ## 例句
-- 名词: "[The](/post/the/) [store](/post/store/) had [a](/post/a/) [wide](/post/wide/) [selection](/post/selection/) [of](/post/of/) [modern](/post/modern/) [and](/post/and/) [traditional](/post/traditional/) [furniture](/post/furniture/) [to](/post/to/) [choose](/post/choose/) [from](/post/from/)."
-- 动词: "[They](/post/they/) decided [to](/post/to/) [furnish](/post/furnish/) [their](/post/their/) [home](/post/home/) [with](/post/with/) cozy, [comfortable](/post/comfortable/) pieces."
+- 名词: "[The](/zh/post/the/) [store](/zh/post/store/) had [a](/zh/post/a/) [wide](/zh/post/wide/) [selection](/zh/post/selection/) [of](/zh/post/of/) [modern](/zh/post/modern/) [and](/zh/post/and/) [traditional](/zh/post/traditional/) [furniture](/zh/post/furniture/) [to](/zh/post/to/) [choose](/zh/post/choose/) [from](/zh/post/from/)."
+- 动词: "[They](/zh/post/they/) decided [to](/zh/post/to/) [furnish](/zh/post/furnish/) [their](/zh/post/their/) [home](/zh/post/home/) [with](/zh/post/with/) cozy, [comfortable](/zh/post/comfortable/) pieces."
 
 ## 同义词
 - Appliances
 - Fixtures
-- [Interior](/post/interior/) decor
-- [Household](/post/household/) items
-- [Furniture](/post/furniture/) pieces
+- [Interior](/zh/post/interior/) decor
+- [Household](/zh/post/household/) items
+- [Furniture](/zh/post/furniture/) pieces

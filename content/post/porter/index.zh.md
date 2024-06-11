@@ -11,21 +11,21 @@ keywords = ['ai words', 'porter']
 /ˈpɔːrtər/
 
 ## 释义
-- **名词 (n)**: 1. 门房，看门人。例如: "[The](/post/the/) [porter](/post/porter/) opened [the](/post/the/) [door](/post/door/) [for](/post/for/) [us](/post/us/)."
-            2. 搬运工，行李员。例如: "[The](/post/the/) [porter](/post/porter/) helped [me](/post/me/) [with](/post/with/) [my](/post/my/) [luggage](/post/luggage/) [on](/post/on/) [the](/post/the/) [train](/post/train/)."
+- **名词 (n)**: 1. 门房，看门人。例如: "[The](/zh/post/the/) [porter](/zh/post/porter/) opened [the](/zh/post/the/) [door](/zh/post/door/) [for](/zh/post/for/) [us](/zh/post/us/)."
+            2. 搬运工，行李员。例如: "[The](/zh/post/the/) [porter](/zh/post/porter/) helped [me](/zh/post/me/) [with](/zh/post/with/) [my](/zh/post/my/) [luggage](/zh/post/luggage/) [on](/zh/post/on/) [the](/zh/post/the/) [train](/zh/post/train/)."
 
-- **动词 (v)**: 携带，搬运。例如: "[He](/post/he/) portered [the](/post/the/) [heavy](/post/heavy/) boxes [to](/post/to/) [the](/post/the/) [third](/post/third/) [floor](/post/floor/)."
+- **动词 (v)**: 携带，搬运。例如: "[He](/zh/post/he/) portered [the](/zh/post/the/) [heavy](/zh/post/heavy/) boxes [to](/zh/post/to/) [the](/zh/post/the/) [third](/zh/post/third/) [floor](/zh/post/floor/)."
 
 ## 短语
-- "[porter](/post/porter/) [service](/post/service/)" 提供搬运服务的地方，如酒店或火车站。
-- "porter's [lodge](/post/lodge/)" 门房，看守人的小屋。
+- "[porter](/zh/post/porter/) [service](/zh/post/service/)" 提供搬运服务的地方，如酒店或火车站。
+- "porter's [lodge](/zh/post/lodge/)" 门房，看守人的小屋。
 
 ## 例句
-- 名词: "[The](/post/the/) [hotel](/post/hotel/) [porter](/post/porter/) was [very](/post/very/) [helpful](/post/helpful/) [with](/post/with/) [our](/post/our/) bags."
-- 动词: "[She](/post/she/) had [to](/post/to/) [porter](/post/porter/) [her](/post/her/) books [around](/post/around/) [campus](/post/campus/) [every](/post/every/) [day](/post/day/)."
+- 名词: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) [porter](/zh/post/porter/) was [very](/zh/post/very/) [helpful](/zh/post/helpful/) [with](/zh/post/with/) [our](/zh/post/our/) bags."
+- 动词: "[She](/zh/post/she/) had [to](/zh/post/to/) [porter](/zh/post/porter/) [her](/zh/post/her/) books [around](/zh/post/around/) [campus](/zh/post/campus/) [every](/zh/post/every/) [day](/zh/post/day/)."
 
 ## 同义词
-- [Carrier](/post/carrier/)
+- [Carrier](/zh/post/carrier/)
 - Handler
 - Lifter
 - Transporter

@@ -7,34 +7,34 @@ description = '[ˈpɑːtli] ad.部分地，不完全地'
 keywords = ['ai words', 'partly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pərˈteɪli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [a](/en/post/a/) [limited](/en/post/limited/) [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/); [not](/en/post/not/) [completely](/en/post/completely/) [or](/en/post/or/) fully. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) was [partly](/en/post/partly/) [cloudy](/en/post/cloudy/)."
-- **[Adjective](/en/post/adjective/)**: [Partially](/en/post/partially/); [not](/en/post/not/) entirely. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was [partly](/en/post/partly/) [responsible](/en/post/responsible/) [for](/en/post/for/) [the](/en/post/the/) [mistake](/en/post/mistake/)."
+- **[Adverb](/post/adverb/)**: [To](/post/to/) [a](/post/a/) [limited](/post/limited/) [extent](/post/extent/) [or](/post/or/) [degree](/post/degree/); [not](/post/not/) [completely](/post/completely/) [or](/post/or/) fully. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) was [partly](/post/partly/) [cloudy](/post/cloudy/)."
+- **[Adjective](/post/adjective/)**: [Partially](/post/partially/); [not](/post/not/) entirely. [For](/post/for/) [example](/post/example/): "[He](/post/he/) was [partly](/post/partly/) [responsible](/post/responsible/) [for](/post/for/) [the](/post/the/) [mistake](/post/mistake/)."
 
 ## Phrases
-- "[Partly](/en/post/partly/) [due](/en/post/due/) [to](/en/post/to/)" implies [that](/en/post/that/) [something](/en/post/something/) is caused [by](/en/post/by/) [a](/en/post/a/) [partial](/en/post/partial/) [factor](/en/post/factor/).
-- "[Partly](/en/post/partly/) [cloudy](/en/post/cloudy/) skies" [describe](/en/post/describe/) [a](/en/post/a/) [mix](/en/post/mix/) [of](/en/post/of/) [clear](/en/post/clear/) [and](/en/post/and/) overcast conditions.
-- "[Partly](/en/post/partly/) agreed" indicates [that](/en/post/that/) [only](/en/post/only/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [proposal](/en/post/proposal/) [or](/en/post/or/) [statement](/en/post/statement/) has been accepted.
+- "[Partly](/post/partly/) [due](/post/due/) [to](/post/to/)" implies [that](/post/that/) [something](/post/something/) is caused [by](/post/by/) [a](/post/a/) [partial](/post/partial/) [factor](/post/factor/).
+- "[Partly](/post/partly/) [cloudy](/post/cloudy/) skies" [describe](/post/describe/) [a](/post/a/) [mix](/post/mix/) [of](/post/of/) [clear](/post/clear/) [and](/post/and/) overcast conditions.
+- "[Partly](/post/partly/) agreed" indicates [that](/post/that/) [only](/post/only/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [proposal](/post/proposal/) [or](/post/or/) [statement](/post/statement/) has been accepted.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I managed [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [partly](/en/post/partly/) [because](/en/post/because/) [of](/en/post/of/) [your](/en/post/your/) [help](/en/post/help/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) team's [success](/en/post/success/) was [partly](/en/post/partly/) attributed [to](/en/post/to/) [their](/en/post/their/) [hard](/en/post/hard/) [work](/en/post/work/)."
-- "[She](/en/post/she/) felt [partly](/en/post/partly/) relieved [after](/en/post/after/) [learning](/en/post/learning/) [the](/en/post/the/) [good](/en/post/good/) [news](/en/post/news/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I managed [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [partly](/post/partly/) [because](/post/because/) [of](/post/of/) [your](/post/your/) [help](/post/help/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) team's [success](/post/success/) was [partly](/post/partly/) attributed [to](/post/to/) [their](/post/their/) [hard](/post/hard/) [work](/post/work/)."
+- "[She](/post/she/) felt [partly](/post/partly/) relieved [after](/post/after/) [learning](/post/learning/) [the](/post/the/) [good](/post/good/) [news](/post/news/)."
 
 ## Synonyms
-- [Partially](/en/post/partially/)
-- [Slightly](/en/post/slightly/)
+- [Partially](/post/partially/)
+- [Slightly](/post/slightly/)
 - Moderately
-- [In](/en/post/in/) [part](/en/post/part/)
-- [To](/en/post/to/) [some](/en/post/some/) [extent](/en/post/extent/)
+- [In](/post/in/) [part](/post/part/)
+- [To](/post/to/) [some](/post/some/) [extent](/post/extent/)
 - Barely
 
 ## Antonyms
-- [Completely](/en/post/completely/)
+- [Completely](/post/completely/)
 - Fully
 - Entirely
-- [Absolutely](/en/post/absolutely/)
+- [Absolutely](/post/absolutely/)
 - Unconditionally

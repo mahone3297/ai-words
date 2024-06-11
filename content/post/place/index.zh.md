@@ -11,29 +11,29 @@ keywords = ['ai words', 'place']
 /pleɪs/
 
 ## 释义
-- **名词 (n)**: 1. 处所，地点。例如: "[Please](/post/please/) [take](/post/take/) [me](/post/me/) [to](/post/to/) [that](/post/that/) [place](/post/place/) [over](/post/over/) [there](/post/there/)."  
-   2. 位置，方位。例如: "[She](/post/she/) [found](/post/found/) [her](/post/her/) [place](/post/place/) [in](/post/in/) [the](/post/the/) [queue](/post/queue/)."
-   3. 职位，角色。例如: "[He](/post/he/) holds an [important](/post/important/) [place](/post/place/) [in](/post/in/) [the](/post/the/) [company](/post/company/)."
-   4. 空间。例如: "There's [enough](/post/enough/) [place](/post/place/) [for](/post/for/) [everyone](/post/everyone/) [to](/post/to/) [sit](/post/sit/)."
-   5. 竞赛名次。例如: "[He](/post/he/) finished [in](/post/in/) [first](/post/first/) [place](/post/place/)."
+- **名词 (n)**: 1. 处所，地点。例如: "[Please](/zh/post/please/) [take](/zh/post/take/) [me](/zh/post/me/) [to](/zh/post/to/) [that](/zh/post/that/) [place](/zh/post/place/) [over](/zh/post/over/) [there](/zh/post/there/)."  
+   2. 位置，方位。例如: "[She](/zh/post/she/) [found](/zh/post/found/) [her](/zh/post/her/) [place](/zh/post/place/) [in](/zh/post/in/) [the](/zh/post/the/) [queue](/zh/post/queue/)."
+   3. 职位，角色。例如: "[He](/zh/post/he/) holds an [important](/zh/post/important/) [place](/zh/post/place/) [in](/zh/post/in/) [the](/zh/post/the/) [company](/zh/post/company/)."
+   4. 空间。例如: "There's [enough](/zh/post/enough/) [place](/zh/post/place/) [for](/zh/post/for/) [everyone](/zh/post/everyone/) [to](/zh/post/to/) [sit](/zh/post/sit/)."
+   5. 竞赛名次。例如: "[He](/zh/post/he/) finished [in](/zh/post/in/) [first](/zh/post/first/) [place](/zh/post/place/)."
 
-- **动词 (v)**: 1. 安置，放。例如: "[Can](/post/can/) [you](/post/you/) [place](/post/place/) [the](/post/the/) [vase](/post/vase/) [on](/post/on/) [the](/post/the/) [table](/post/table/)?"
-   2. 预定。例如: "I've placed [a](/post/a/) reservation [at](/post/at/) [the](/post/the/) [restaurant](/post/restaurant/)."
-   3. 使就职。例如: "[She](/post/she/) was placed [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [the](/post/the/) [project](/post/project/)."
-   4. 投资（资金）。例如: "[He](/post/he/) decided [to](/post/to/) [place](/post/place/) [his](/post/his/) savings [in](/post/in/) stocks."
+- **动词 (v)**: 1. 安置，放。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [place](/zh/post/place/) [the](/zh/post/the/) [vase](/zh/post/vase/) [on](/zh/post/on/) [the](/zh/post/the/) [table](/zh/post/table/)?"
+   2. 预定。例如: "I've placed [a](/zh/post/a/) reservation [at](/zh/post/at/) [the](/zh/post/the/) [restaurant](/zh/post/restaurant/)."
+   3. 使就职。例如: "[She](/zh/post/she/) was placed [in](/zh/post/in/) [charge](/zh/post/charge/) [of](/zh/post/of/) [the](/zh/post/the/) [project](/zh/post/project/)."
+   4. 投资（资金）。例如: "[He](/zh/post/he/) decided [to](/zh/post/to/) [place](/zh/post/place/) [his](/zh/post/his/) savings [in](/zh/post/in/) stocks."
 
 ## 短语
-- "[in](/post/in/) [place](/post/place/)" 表示在适当的位置或准备就绪。例如: "[Everything](/post/everything/) is [in](/post/in/) [place](/post/place/) [for](/post/for/) [the](/post/the/) [event](/post/event/)."
-- "[take](/post/take/) one's [place](/post/place/)" 意味着占据应有的位置。例如: "It's [time](/post/time/) [for](/post/for/) [you](/post/you/) [to](/post/to/) [take](/post/take/) [your](/post/your/) [place](/post/place/) [on](/post/on/) [stage](/post/stage/)."
+- "[in](/zh/post/in/) [place](/zh/post/place/)" 表示在适当的位置或准备就绪。例如: "[Everything](/zh/post/everything/) is [in](/zh/post/in/) [place](/zh/post/place/) [for](/zh/post/for/) [the](/zh/post/the/) [event](/zh/post/event/)."
+- "[take](/zh/post/take/) one's [place](/zh/post/place/)" 意味着占据应有的位置。例如: "It's [time](/zh/post/time/) [for](/zh/post/for/) [you](/zh/post/you/) [to](/zh/post/to/) [take](/zh/post/take/) [your](/zh/post/your/) [place](/zh/post/place/) [on](/zh/post/on/) [stage](/zh/post/stage/)."
 
 ## 例句
-- 名词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [find](/post/find/) [a](/post/a/) [quiet](/post/quiet/) [place](/post/place/) [to](/post/to/) [have](/post/have/) [our](/post/our/) [conversation](/post/conversation/)."
-- 动词: "[She](/post/she/) placed [the](/post/the/) [book](/post/book/) [exactly](/post/exactly/) [where](/post/where/) [it](/post/it/) belonged."
-- 感叹词: "[Place](/post/place/) [your](/post/your/) bets, ladies [and](/post/and/) gentlemen!"
+- 名词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [find](/zh/post/find/) [a](/zh/post/a/) [quiet](/zh/post/quiet/) [place](/zh/post/place/) [to](/zh/post/to/) [have](/zh/post/have/) [our](/zh/post/our/) [conversation](/zh/post/conversation/)."
+- 动词: "[She](/zh/post/she/) placed [the](/zh/post/the/) [book](/zh/post/book/) [exactly](/zh/post/exactly/) [where](/zh/post/where/) [it](/zh/post/it/) belonged."
+- 感叹词: "[Place](/zh/post/place/) [your](/zh/post/your/) bets, ladies [and](/zh/post/and/) gentlemen!"
 
 ## 同义词
-- [Location](/post/location/)
-- [Spot](/post/spot/)
-- [Site](/post/site/)
-- [Position](/post/position/)
-- [Area](/post/area/)
+- [Location](/zh/post/location/)
+- [Spot](/zh/post/spot/)
+- [Site](/zh/post/site/)
+- [Position](/zh/post/position/)
+- [Area](/zh/post/area/)

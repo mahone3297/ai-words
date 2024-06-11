@@ -11,20 +11,20 @@ keywords = ['ai words', 'neighbourhood']
 /nəʊˈbɜːrɪənd/
 
 ## 释义
-- **名词**: 一个社区或居住区，通常指的是一个人居住或工作的周边环境。例如: "[The](/post/the/) children [love](/post/love/) playing [in](/post/in/) [the](/post/the/) [park](/post/park/) [in](/post/in/) [their](/post/their/) [neighbourhood](/post/neighbourhood/)."
-- **名词**: 附近，邻近的地方。例如: "There's [a](/post/a/) [great](/post/great/) [coffee](/post/coffee/) [shop](/post/shop/) [just](/post/just/) [around](/post/around/) [the](/post/the/) [corner](/post/corner/) [in](/post/in/) [the](/post/the/) [neighbourhood](/post/neighbourhood/)."
+- **名词**: 一个社区或居住区，通常指的是一个人居住或工作的周边环境。例如: "[The](/zh/post/the/) children [love](/zh/post/love/) playing [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/) [in](/zh/post/in/) [their](/zh/post/their/) [neighbourhood](/zh/post/neighbourhood/)."
+- **名词**: 附近，邻近的地方。例如: "There's [a](/zh/post/a/) [great](/zh/post/great/) [coffee](/zh/post/coffee/) [shop](/zh/post/shop/) [just](/zh/post/just/) [around](/zh/post/around/) [the](/zh/post/the/) [corner](/zh/post/corner/) [in](/zh/post/in/) [the](/zh/post/the/) [neighbourhood](/zh/post/neighbourhood/)."
 
 ## 短语
-- "[In](/post/in/) [the](/post/the/) [neighbourhood](/post/neighbourhood/) [of](/post/of/)" 表示大约的数量或距离。例如: "[The](/post/the/) [population](/post/population/) [of](/post/of/) [this](/post/this/) [city](/post/city/) is [in](/post/in/) [the](/post/the/) [neighbourhood](/post/neighbourhood/) [of](/post/of/) 500,000."
-- "[Neighbourhood](/post/neighbourhood/) [watch](/post/watch/)" 是一种社区安全计划，居民们相互监视以防止犯罪。
+- "[In](/zh/post/in/) [the](/zh/post/the/) [neighbourhood](/zh/post/neighbourhood/) [of](/zh/post/of/)" 表示大约的数量或距离。例如: "[The](/zh/post/the/) [population](/zh/post/population/) [of](/zh/post/of/) [this](/zh/post/this/) [city](/zh/post/city/) is [in](/zh/post/in/) [the](/zh/post/the/) [neighbourhood](/zh/post/neighbourhood/) [of](/zh/post/of/) 500,000."
+- "[Neighbourhood](/zh/post/neighbourhood/) [watch](/zh/post/watch/)" 是一种社区安全计划，居民们相互监视以防止犯罪。
 
 ## 例句
-- 名词: "We're having [a](/post/a/) [block](/post/block/) [party](/post/party/) [this](/post/this/) [weekend](/post/weekend/) [for](/post/for/) [all](/post/all/) [the](/post/the/) residents [of](/post/of/) [our](/post/our/) [neighbourhood](/post/neighbourhood/)."
-- 名词: "[The](/post/the/) [local](/post/local/) [police](/post/police/) [regularly](/post/regularly/) patrol [the](/post/the/) [neighbourhood](/post/neighbourhood/) [to](/post/to/) [ensure](/post/ensure/) [safety](/post/safety/)."
+- 名词: "We're having [a](/zh/post/a/) [block](/zh/post/block/) [party](/zh/post/party/) [this](/zh/post/this/) [weekend](/zh/post/weekend/) [for](/zh/post/for/) [all](/zh/post/all/) [the](/zh/post/the/) residents [of](/zh/post/of/) [our](/zh/post/our/) [neighbourhood](/zh/post/neighbourhood/)."
+- 名词: "[The](/zh/post/the/) [local](/zh/post/local/) [police](/zh/post/police/) [regularly](/zh/post/regularly/) patrol [the](/zh/post/the/) [neighbourhood](/zh/post/neighbourhood/) [to](/zh/post/to/) [ensure](/zh/post/ensure/) [safety](/zh/post/safety/)."
 
 ## 同义词
-- [Area](/post/area/)
+- [Area](/zh/post/area/)
 - Locale
 - Vicinity
-- [Surroundings](/post/surroundings/)
+- [Surroundings](/zh/post/surroundings/)
 - Enclave

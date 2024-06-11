@@ -16,18 +16,18 @@ keywords = ['ai words', 'medal']
   2. 纪念币：为纪念某个事件或人物而制作的硬币状物品。
 
 ## 短语
-- "[Gold](/post/gold/) [medal](/post/medal/)" 金牌，指在比赛中获得的第一名。
-- "[Silver](/post/silver/) [medal](/post/medal/)" 银牌，指在比赛中获得的第二名。
-- "[Bronze](/post/bronze/) [medal](/post/medal/)" 铜牌，指在比赛中获得的第三名。
+- "[Gold](/zh/post/gold/) [medal](/zh/post/medal/)" 金牌，指在比赛中获得的第一名。
+- "[Silver](/zh/post/silver/) [medal](/zh/post/medal/)" 银牌，指在比赛中获得的第二名。
+- "[Bronze](/zh/post/bronze/) [medal](/zh/post/medal/)" 铜牌，指在比赛中获得的第三名。
 
 ## 例句
-- "[She](/post/she/) won [a](/post/a/) [gold](/post/gold/) [medal](/post/medal/) [in](/post/in/) [the](/post/the/) Olympics [for](/post/for/) [her](/post/her/) [outstanding](/post/outstanding/) [performance](/post/performance/)."
-- "[The](/post/the/) [winner](/post/winner/) was presented [with](/post/with/) [a](/post/a/) [special](/post/special/) [medal](/post/medal/) [for](/post/for/) [his](/post/his/) bravery."
-- "Collecting antique medals is [a](/post/a/) [popular](/post/popular/) [hobby](/post/hobby/) [among](/post/among/) [history](/post/history/) enthusiasts."
+- "[She](/zh/post/she/) won [a](/zh/post/a/) [gold](/zh/post/gold/) [medal](/zh/post/medal/) [in](/zh/post/in/) [the](/zh/post/the/) Olympics [for](/zh/post/for/) [her](/zh/post/her/) [outstanding](/zh/post/outstanding/) [performance](/zh/post/performance/)."
+- "[The](/zh/post/the/) [winner](/zh/post/winner/) was presented [with](/zh/post/with/) [a](/zh/post/a/) [special](/zh/post/special/) [medal](/zh/post/medal/) [for](/zh/post/for/) [his](/zh/post/his/) bravery."
+- "Collecting antique medals is [a](/zh/post/a/) [popular](/zh/post/popular/) [hobby](/zh/post/hobby/) [among](/zh/post/among/) [history](/zh/post/history/) enthusiasts."
 
 ## 同义词
-- [Prize](/post/prize/)
-- [Award](/post/award/)
+- [Prize](/zh/post/prize/)
+- [Award](/zh/post/award/)
 - Honor
-- [Distinction](/post/distinction/)
+- [Distinction](/zh/post/distinction/)
 - Trophy

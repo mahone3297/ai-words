@@ -11,21 +11,21 @@ keywords = ['ai words', 'arrange']
 /əˈreɪndʒ/
 
 ## 释义
-- **动词**: 安排；组织；布置。例如: "I [need](/post/need/) [to](/post/to/) [arrange](/post/arrange/) [a](/post/a/) [meeting](/post/meeting/) [with](/post/with/) [the](/post/the/) client."
-- **名词**: 安排；布置；排列顺序。例如: "[The](/post/the/) flowers were arranged beautifully [in](/post/in/) [a](/post/a/) [vase](/post/vase/)."
+- **动词**: 安排；组织；布置。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [arrange](/zh/post/arrange/) [a](/zh/post/a/) [meeting](/zh/post/meeting/) [with](/zh/post/with/) [the](/zh/post/the/) client."
+- **名词**: 安排；布置；排列顺序。例如: "[The](/zh/post/the/) flowers were arranged beautifully [in](/zh/post/in/) [a](/zh/post/a/) [vase](/zh/post/vase/)."
 
 ## 短语
-- "[arrange](/post/arrange/) [for](/post/for/) [something](/post/something/)" 意为安排或准备某事。例如: "I'll [arrange](/post/arrange/) [for](/post/for/) [a](/post/a/) [car](/post/car/) [to](/post/to/) [pick](/post/pick/) [you](/post/you/) [up](/post/up/)."
-- "[arrange](/post/arrange/) [oneself](/post/oneself/)" 指自己做安排。例如: "[She](/post/she/) had [to](/post/to/) [arrange](/post/arrange/) [herself](/post/herself/) [before](/post/before/) going [out](/post/out/)."
+- "[arrange](/zh/post/arrange/) [for](/zh/post/for/) [something](/zh/post/something/)" 意为安排或准备某事。例如: "I'll [arrange](/zh/post/arrange/) [for](/zh/post/for/) [a](/zh/post/a/) [car](/zh/post/car/) [to](/zh/post/to/) [pick](/zh/post/pick/) [you](/zh/post/you/) [up](/zh/post/up/)."
+- "[arrange](/zh/post/arrange/) [oneself](/zh/post/oneself/)" 指自己做安排。例如: "[She](/zh/post/she/) had [to](/zh/post/to/) [arrange](/zh/post/arrange/) [herself](/zh/post/herself/) [before](/zh/post/before/) going [out](/zh/post/out/)."
 
 ## 例句
-- 动词: "[Could](/post/could/) [you](/post/you/) [arrange](/post/arrange/) [a](/post/a/) [dinner](/post/dinner/) reservation [for](/post/for/) [six](/post/six/) [people](/post/people/)?"
-- 名词: "[The](/post/the/) band's [performance](/post/performance/) was [a](/post/a/) carefully arranged [piece](/post/piece/)."
-- 短语: "[She](/post/she/) arranged [for](/post/for/) [a](/post/a/) [surprise](/post/surprise/) [birthday](/post/birthday/) [party](/post/party/) [for](/post/for/) [her](/post/her/) [friend](/post/friend/)."
+- 动词: "[Could](/zh/post/could/) [you](/zh/post/you/) [arrange](/zh/post/arrange/) [a](/zh/post/a/) [dinner](/zh/post/dinner/) reservation [for](/zh/post/for/) [six](/zh/post/six/) [people](/zh/post/people/)?"
+- 名词: "[The](/zh/post/the/) band's [performance](/zh/post/performance/) was [a](/zh/post/a/) carefully arranged [piece](/zh/post/piece/)."
+- 短语: "[She](/zh/post/she/) arranged [for](/zh/post/for/) [a](/zh/post/a/) [surprise](/zh/post/surprise/) [birthday](/zh/post/birthday/) [party](/zh/post/party/) [for](/zh/post/for/) [her](/zh/post/her/) [friend](/zh/post/friend/)."
 
 ## 同义词
-- [organize](/post/organize/)
-- [plan](/post/plan/)
-- [schedule](/post/schedule/)
-- [set](/post/set/) [up](/post/up/)
+- [organize](/zh/post/organize/)
+- [plan](/zh/post/plan/)
+- [schedule](/zh/post/schedule/)
+- [set](/zh/post/set/) [up](/zh/post/up/)
 - orchestrate

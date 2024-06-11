@@ -11,22 +11,22 @@ keywords = ['ai words', 'correct']
 /ˈkɔːrəkt/
 
 ## 释义
-- **形容词**: 正确的，准确的。例如: "[Please](/post/please/) [check](/post/check/) [your](/post/your/) answers [and](/post/and/) [make](/post/make/) [sure](/post/sure/) [they](/post/they/) are [all](/post/all/) [correct](/post/correct/)."
-- **动词**: 修正，改正。例如: "I corrected [the](/post/the/) [spelling](/post/spelling/) mistakes [in](/post/in/) [the](/post/the/) [text](/post/text/)."
-- **名词**: 改正，校正。例如: "[The](/post/the/) [teacher](/post/teacher/) gave [him](/post/him/) [a](/post/a/) [correction](/post/correction/) [for](/post/for/) [his](/post/his/) [wrong](/post/wrong/) [answer](/post/answer/)."
+- **形容词**: 正确的，准确的。例如: "[Please](/zh/post/please/) [check](/zh/post/check/) [your](/zh/post/your/) answers [and](/zh/post/and/) [make](/zh/post/make/) [sure](/zh/post/sure/) [they](/zh/post/they/) are [all](/zh/post/all/) [correct](/zh/post/correct/)."
+- **动词**: 修正，改正。例如: "I corrected [the](/zh/post/the/) [spelling](/zh/post/spelling/) mistakes [in](/zh/post/in/) [the](/zh/post/the/) [text](/zh/post/text/)."
+- **名词**: 改正，校正。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) gave [him](/zh/post/him/) [a](/zh/post/a/) [correction](/zh/post/correction/) [for](/zh/post/for/) [his](/zh/post/his/) [wrong](/zh/post/wrong/) [answer](/zh/post/answer/)."
 
 ## 短语
-- "[Correct](/post/correct/) [me](/post/me/) [if](/post/if/) I'm [wrong](/post/wrong/)" 表示请求他人指出自己的错误。
-- "[To](/post/to/) [be](/post/be/) [on](/post/on/) [the](/post/the/) [correct](/post/correct/) [side](/post/side/)" 意为站在正确的一方。
+- "[Correct](/zh/post/correct/) [me](/zh/post/me/) [if](/zh/post/if/) I'm [wrong](/zh/post/wrong/)" 表示请求他人指出自己的错误。
+- "[To](/zh/post/to/) [be](/zh/post/be/) [on](/zh/post/on/) [the](/zh/post/the/) [correct](/zh/post/correct/) [side](/zh/post/side/)" 意为站在正确的一方。
 
 ## 例句
-- 形容词: "[Your](/post/your/) [solution](/post/solution/) is [correct](/post/correct/), [well](/post/well/) done!"
-- 动词: "[She](/post/she/) corrected [her](/post/her/) posture [while](/post/while/) sitting [at](/post/at/) [the](/post/the/) [desk](/post/desk/)."
-- 名词: "[The](/post/the/) [teacher](/post/teacher/) gave [him](/post/him/) [a](/post/a/) [few](/post/few/) corrections [for](/post/for/) [his](/post/his/) [grammar](/post/grammar/).
+- 形容词: "[Your](/zh/post/your/) [solution](/zh/post/solution/) is [correct](/zh/post/correct/), [well](/zh/post/well/) done!"
+- 动词: "[She](/zh/post/she/) corrected [her](/zh/post/her/) posture [while](/zh/post/while/) sitting [at](/zh/post/at/) [the](/zh/post/the/) [desk](/zh/post/desk/)."
+- 名词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) gave [him](/zh/post/him/) [a](/zh/post/a/) [few](/zh/post/few/) corrections [for](/zh/post/for/) [his](/zh/post/his/) [grammar](/zh/post/grammar/).
 
 ## 同义词
-- [Accurate](/post/accurate/)
-- [Right](/post/right/)
-- [True](/post/true/)
-- [Proper](/post/proper/)
-- [Exact](/post/exact/)
+- [Accurate](/zh/post/accurate/)
+- [Right](/zh/post/right/)
+- [True](/zh/post/true/)
+- [Proper](/zh/post/proper/)
+- [Exact](/zh/post/exact/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'yesterday']
 /ˈjestədeɪ/
 
 ## 释义
-- **名词**: 昨天，指过去的某一天，通常用于谈论过去发生的事情。例如: "I met an [old](/post/old/) [friend](/post/friend/) [yesterday](/post/yesterday/)."
-- **副词**: 用于描述发生在前一天的动作或状态。例如: "I finished [the](/post/the/) [project](/post/project/) [yesterday](/post/yesterday/)."
+- **名词**: 昨天，指过去的某一天，通常用于谈论过去发生的事情。例如: "I met an [old](/zh/post/old/) [friend](/zh/post/friend/) [yesterday](/zh/post/yesterday/)."
+- **副词**: 用于描述发生在前一天的动作或状态。例如: "I finished [the](/zh/post/the/) [project](/zh/post/project/) [yesterday](/zh/post/yesterday/)."
 
 ## 短语
-- "[The](/post/the/) [day](/post/day/) [before](/post/before/) [today](/post/today/)" 也是指昨天。
-- "[Yesterday](/post/yesterday/) [once](/post/once/) [more](/post/more/)" 表示对过去的怀念或重演。
+- "[The](/zh/post/the/) [day](/zh/post/day/) [before](/zh/post/before/) [today](/zh/post/today/)" 也是指昨天。
+- "[Yesterday](/zh/post/yesterday/) [once](/zh/post/once/) [more](/zh/post/more/)" 表示对过去的怀念或重演。
 
 ## 例句
-- 名词: "[Yesterday](/post/yesterday/), I went [to](/post/to/) [the](/post/the/) [park](/post/park/) [and](/post/and/) had [a](/post/a/) [picnic](/post/picnic/)."
-- 副词: "I realized I [left](/post/left/) [my](/post/my/) keys [at](/post/at/) [home](/post/home/) [yesterday](/post/yesterday/) [when](/post/when/) I was [already](/post/already/) [at](/post/at/) [work](/post/work/)."
+- 名词: "[Yesterday](/zh/post/yesterday/), I went [to](/zh/post/to/) [the](/zh/post/the/) [park](/zh/post/park/) [and](/zh/post/and/) had [a](/zh/post/a/) [picnic](/zh/post/picnic/)."
+- 副词: "I realized I [left](/zh/post/left/) [my](/zh/post/my/) keys [at](/zh/post/at/) [home](/zh/post/home/) [yesterday](/zh/post/yesterday/) [when](/zh/post/when/) I was [already](/zh/post/already/) [at](/zh/post/at/) [work](/zh/post/work/)."
 
 ## 同义词
-- [The](/post/the/) [day](/post/day/) [before](/post/before/)
-- [The](/post/the/) [previous](/post/previous/) [day](/post/day/)
-- [Past](/post/past/) [day](/post/day/)
-- [A](/post/a/) [day](/post/day/) [ago](/post/ago/)
-- [Yesterday](/post/yesterday/) [evening](/post/evening/) (如果指的是工作日结束后的那一晚)
+- [The](/zh/post/the/) [day](/zh/post/day/) [before](/zh/post/before/)
+- [The](/zh/post/the/) [previous](/zh/post/previous/) [day](/zh/post/day/)
+- [Past](/zh/post/past/) [day](/zh/post/day/)
+- [A](/zh/post/a/) [day](/zh/post/day/) [ago](/zh/post/ago/)
+- [Yesterday](/zh/post/yesterday/) [evening](/zh/post/evening/) (如果指的是工作日结束后的那一晚)

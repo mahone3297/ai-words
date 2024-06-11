@@ -7,36 +7,36 @@ description = '[əˈraivəl] n.到达；到来；到达者'
 keywords = ['ai words', 'arrival']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈrɪvəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [fact](/en/post/fact/) [of](/en/post/of/) arriving; [the](/en/post/the/) coming [or](/en/post/or/) reaching [of](/en/post/of/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [or](/en/post/or/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) guests' [arrival](/en/post/arrival/) was [punctual](/en/post/punctual/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [reach](/en/post/reach/) [or](/en/post/or/) [come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) [destination](/en/post/destination/); [to](/en/post/to/) [arrive](/en/post/arrive/) [at](/en/post/at/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [event](/en/post/event/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [train](/en/post/train/) [will](/en/post/will/) [arrive](/en/post/arrive/) [at](/en/post/at/) 5 PM."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) denoting [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) arriving. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [arrival](/en/post/arrival/) lounge is [for](/en/post/for/) passengers [just](/en/post/just/) [off](/en/post/off/) [the](/en/post/the/) [plane](/en/post/plane/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [fact](/post/fact/) [of](/post/of/) arriving; [the](/post/the/) coming [or](/post/or/) reaching [of](/post/of/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/) [or](/post/or/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) guests' [arrival](/post/arrival/) was [punctual](/post/punctual/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [reach](/post/reach/) [or](/post/or/) [come](/post/come/) [to](/post/to/) [a](/post/a/) [destination](/post/destination/); [to](/post/to/) [arrive](/post/arrive/) [at](/post/at/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [event](/post/event/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [train](/post/train/) [will](/post/will/) [arrive](/post/arrive/) [at](/post/at/) 5 PM."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) denoting [the](/post/the/) [act](/post/act/) [of](/post/of/) arriving. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [arrival](/post/arrival/) lounge is [for](/post/for/) passengers [just](/post/just/) [off](/post/off/) [the](/post/the/) [plane](/post/plane/)."
 
 ## Phrases
-- "[Upon](/en/post/upon/) [arrival](/en/post/arrival/)" indicates [when](/en/post/when/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) has [just](/en/post/just/) arrived.
-- "Expected [arrival](/en/post/arrival/) [time](/en/post/time/)" refers [to](/en/post/to/) [the](/en/post/the/) predicted [time](/en/post/time/) [of](/en/post/of/) [arrival](/en/post/arrival/).
-- "No-show [arrival](/en/post/arrival/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) fails [to](/en/post/to/) [show](/en/post/show/) [up](/en/post/up/) [after](/en/post/after/) announcing [their](/en/post/their/) [arrival](/en/post/arrival/).
+- "[Upon](/post/upon/) [arrival](/post/arrival/)" indicates [when](/post/when/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) has [just](/post/just/) arrived.
+- "Expected [arrival](/post/arrival/) [time](/post/time/)" refers [to](/post/to/) [the](/post/the/) predicted [time](/post/time/) [of](/post/of/) [arrival](/post/arrival/).
+- "No-show [arrival](/post/arrival/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) fails [to](/post/to/) [show](/post/show/) [up](/post/up/) [after](/post/after/) announcing [their](/post/their/) [arrival](/post/arrival/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) mayor's [official](/en/post/official/) [arrival](/en/post/arrival/) marked [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [the](/en/post/the/) [ceremony](/en/post/ceremony/)."
-- **[Verb](/en/post/verb/)**: "[Please](/en/post/please/) [inform](/en/post/inform/) [me](/en/post/me/) [of](/en/post/of/) [your](/en/post/your/) [arrival](/en/post/arrival/) [so](/en/post/so/) I [can](/en/post/can/) [meet](/en/post/meet/) [you](/en/post/you/) [at](/en/post/at/) [the](/en/post/the/) [airport](/en/post/airport/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [hotel](/en/post/hotel/) [staff](/en/post/staff/) greeted [the](/en/post/the/) [early](/en/post/early/) [arrival](/en/post/arrival/) [with](/en/post/with/) [a](/en/post/a/) [warm](/en/post/warm/) [welcome](/en/post/welcome/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) mayor's [official](/post/official/) [arrival](/post/arrival/) marked [the](/post/the/) [start](/post/start/) [of](/post/of/) [the](/post/the/) [ceremony](/post/ceremony/)."
+- **[Verb](/post/verb/)**: "[Please](/post/please/) [inform](/post/inform/) [me](/post/me/) [of](/post/of/) [your](/post/your/) [arrival](/post/arrival/) [so](/post/so/) I [can](/post/can/) [meet](/post/meet/) [you](/post/you/) [at](/post/at/) [the](/post/the/) [airport](/post/airport/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [hotel](/post/hotel/) [staff](/post/staff/) greeted [the](/post/the/) [early](/post/early/) [arrival](/post/arrival/) [with](/post/with/) [a](/post/a/) [warm](/post/warm/) [welcome](/post/welcome/)."
 
 ## Synonyms
-- [Arrival](/en/post/arrival/) ([noun](/en/post/noun/) [only](/en/post/only/))
-- [Arrival](/en/post/arrival/) [time](/en/post/time/)
-- [Arrival](/en/post/arrival/) [at](/en/post/at/)
-- [Reach](/en/post/reach/)
-- [Reach](/en/post/reach/) [destination](/en/post/destination/)
-- [Turn](/en/post/turn/) [up](/en/post/up/)
-- [Arrive](/en/post/arrive/)
+- [Arrival](/post/arrival/) ([noun](/post/noun/) [only](/post/only/))
+- [Arrival](/post/arrival/) [time](/post/time/)
+- [Arrival](/post/arrival/) [at](/post/at/)
+- [Reach](/post/reach/)
+- [Reach](/post/reach/) [destination](/post/destination/)
+- [Turn](/post/turn/) [up](/post/up/)
+- [Arrive](/post/arrive/)
 
 ## Antonyms
-- [Departure](/en/post/departure/)
-- [Depart](/en/post/depart/)
-- [Exit](/en/post/exit/)
-- [Departure](/en/post/departure/) [from](/en/post/from/)
+- [Departure](/post/departure/)
+- [Depart](/post/depart/)
+- [Exit](/post/exit/)
+- [Departure](/post/departure/) [from](/post/from/)
 - Non-arrival

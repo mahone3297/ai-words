@@ -7,31 +7,31 @@ description = '[ˈtuərist] n.旅游者，观光者'
 keywords = ['ai words', 'tourist']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tʊəˈrɪst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) travels [to](/en/post/to/) [visit](/en/post/visit/) [or](/en/post/or/) [enjoy](/en/post/enjoy/) [the](/en/post/the/) sights, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [foreign](/en/post/foreign/) [country](/en/post/country/). ["[A](/en/post/a/) [tourist](/en/post/tourist/) admiring [the](/en/post/the/) Eiffel [Tower](/en/post/tower/)."](https://www.[example](/en/post/example/).com/eiffel-tower-tourist)
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [travel](/en/post/travel/) [for](/en/post/for/) [pleasure](/en/post/pleasure/) [or](/en/post/or/) [leisure](/en/post/leisure/), [often](/en/post/often/) [as](/en/post/as/) [a](/en/post/a/) [tourist](/en/post/tourist/). ["[The](/en/post/the/) [family](/en/post/family/) decided [to](/en/post/to/) [go](/en/post/go/) [on](/en/post/on/) [a](/en/post/a/) [tourist](/en/post/tourist/) [trip](/en/post/trip/) [to](/en/post/to/) Europe [this](/en/post/this/) [summer](/en/post/summer/)."](https://www.[example](/en/post/example/).com/europe-tourism)
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) travels [to](/post/to/) [visit](/post/visit/) [or](/post/or/) [enjoy](/post/enjoy/) [the](/post/the/) sights, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [foreign](/post/foreign/) [country](/post/country/). ["[A](/post/a/) [tourist](/post/tourist/) admiring [the](/post/the/) Eiffel [Tower](/post/tower/)."](https://www.[example](/post/example/).com/eiffel-tower-tourist)
+- **[Verb](/post/verb/)**: [To](/post/to/) [travel](/post/travel/) [for](/post/for/) [pleasure](/post/pleasure/) [or](/post/or/) [leisure](/post/leisure/), [often](/post/often/) [as](/post/as/) [a](/post/a/) [tourist](/post/tourist/). ["[The](/post/the/) [family](/post/family/) decided [to](/post/to/) [go](/post/go/) [on](/post/on/) [a](/post/a/) [tourist](/post/tourist/) [trip](/post/trip/) [to](/post/to/) Europe [this](/post/this/) [summer](/post/summer/)."](https://www.[example](/post/example/).com/europe-tourism)
 
 ## Phrases
-- "[Go](/en/post/go/) [on](/en/post/on/) [a](/en/post/a/) [tourist](/en/post/tourist/) [tour](/en/post/tour/)" [means](/en/post/means/) [to](/en/post/to/) [visit](/en/post/visit/) [various](/en/post/various/) [tourist](/en/post/tourist/) attractions [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) planned itinerary.
-- "[Be](/en/post/be/) [a](/en/post/a/) [tourist](/en/post/tourist/) [in](/en/post/in/) [your](/en/post/your/) [own](/en/post/own/) [city](/en/post/city/)" suggests exploring one's hometown [like](/en/post/like/) [a](/en/post/a/) [visitor](/en/post/visitor/).
-- "[Tourist](/en/post/tourist/) [season](/en/post/season/)" refers [to](/en/post/to/) [the](/en/post/the/) [peak](/en/post/peak/) [travel](/en/post/travel/) [period](/en/post/period/) [when](/en/post/when/) [many](/en/post/many/) tourists [visit](/en/post/visit/) [a](/en/post/a/) [destination](/en/post/destination/).
+- "[Go](/post/go/) [on](/post/on/) [a](/post/a/) [tourist](/post/tourist/) [tour](/post/tour/)" [means](/post/means/) [to](/post/to/) [visit](/post/visit/) [various](/post/various/) [tourist](/post/tourist/) attractions [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) planned itinerary.
+- "[Be](/post/be/) [a](/post/a/) [tourist](/post/tourist/) [in](/post/in/) [your](/post/your/) [own](/post/own/) [city](/post/city/)" suggests exploring one's hometown [like](/post/like/) [a](/post/a/) [visitor](/post/visitor/).
+- "[Tourist](/post/tourist/) [season](/post/season/)" refers [to](/post/to/) [the](/post/the/) [peak](/post/peak/) [travel](/post/travel/) [period](/post/period/) [when](/post/when/) [many](/post/many/) tourists [visit](/post/visit/) [a](/post/a/) [destination](/post/destination/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [city](/en/post/city/) was bustling [with](/en/post/with/) tourists [during](/en/post/during/) [the](/en/post/the/) [festival](/en/post/festival/)."
-- **[Verb](/en/post/verb/)**: "[As](/en/post/as/) [a](/en/post/a/) [tourist](/en/post/tourist/), [she](/en/post/she/) tried [local](/en/post/local/) cuisine [and](/en/post/and/) visited [historical](/en/post/historical/) sites."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) tourist-friendly [hotel](/en/post/hotel/) offered guided tours."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [city](/post/city/) was bustling [with](/post/with/) tourists [during](/post/during/) [the](/post/the/) [festival](/post/festival/)."
+- **[Verb](/post/verb/)**: "[As](/post/as/) [a](/post/a/) [tourist](/post/tourist/), [she](/post/she/) tried [local](/post/local/) cuisine [and](/post/and/) visited [historical](/post/historical/) sites."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) tourist-friendly [hotel](/post/hotel/) offered guided tours."
 
 ## Synonyms
 - Traveler
 - Sightseer
 - Holidaymaker
-- [Visitor](/en/post/visitor/)
+- [Visitor](/post/visitor/)
 - Explorer
 
 ## Antonyms
-- [Local](/en/post/local/) [resident](/en/post/resident/)
-- [Resident](/en/post/resident/)
-- [Native](/en/post/native/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) tourism)
+- [Local](/post/local/) [resident](/post/resident/)
+- [Resident](/post/resident/)
+- [Native](/post/native/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) tourism)

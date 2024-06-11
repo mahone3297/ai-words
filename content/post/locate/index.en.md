@@ -7,31 +7,31 @@ description = '[ləuˈkeit] vt.探明，找出，查出'
 keywords = ['ai words', 'locate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈləʊkeɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [determine](/en/post/determine/) [the](/en/post/the/) [exact](/en/post/exact/) [position](/en/post/position/) [or](/en/post/or/) [location](/en/post/location/) [of](/en/post/of/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) GPS [system](/en/post/system/) [can](/en/post/can/) [quickly](/en/post/quickly/) [locate](/en/post/locate/) [the](/en/post/the/) nearest [restaurant](/en/post/restaurant/)."
-  - _To [place](/en/post/place/) [or](/en/post/or/) install_: [To](/en/post/to/) [put](/en/post/put/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [position](/en/post/position/) [or](/en/post/or/) [site](/en/post/site/). [Example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [locate](/en/post/locate/) [the](/en/post/the/) [new](/en/post/new/) [factory](/en/post/factory/) [near](/en/post/near/) [the](/en/post/the/) harbor."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [determine](/post/determine/) [the](/post/the/) [exact](/post/exact/) [position](/post/position/) [or](/post/or/) [location](/post/location/) [of](/post/of/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) GPS [system](/post/system/) [can](/post/can/) [quickly](/post/quickly/) [locate](/post/locate/) [the](/post/the/) nearest [restaurant](/post/restaurant/)."
+  - _To [place](/post/place/) [or](/post/or/) install_: [To](/post/to/) [put](/post/put/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [position](/post/position/) [or](/post/or/) [site](/post/site/). [Example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [locate](/post/locate/) [the](/post/the/) [new](/post/new/) [factory](/post/factory/) [near](/post/near/) [the](/post/the/) harbor."
   
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [finding](/en/post/finding/) [or](/en/post/or/) determining [the](/en/post/the/) [position](/en/post/position/) [of](/en/post/of/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) dog's amazing [sense](/en/post/sense/) [of](/en/post/of/) [smell](/en/post/smell/) aids [in](/en/post/in/) [its](/en/post/its/) [locate](/en/post/locate/) [ability](/en/post/ability/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) [finding](/post/finding/) [or](/post/or/) determining [the](/post/the/) [position](/post/position/) [of](/post/of/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) dog's amazing [sense](/post/sense/) [of](/post/of/) [smell](/post/smell/) aids [in](/post/in/) [its](/post/its/) [locate](/post/locate/) [ability](/post/ability/)."
 
 ## Phrases
-- "[Locate](/en/post/locate/) [someone](/en/post/someone/)/[something](/en/post/something/)": [To](/en/post/to/) [find](/en/post/find/) [out](/en/post/out/) [where](/en/post/where/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) is situated. [Example](/en/post/example/): "[Police](/en/post/police/) are working [hard](/en/post/hard/) [to](/en/post/to/) [locate](/en/post/locate/) [the](/en/post/the/) [missing](/en/post/missing/) [child](/en/post/child/)."
-- "[To](/en/post/to/) [locate](/en/post/locate/) [in](/en/post/in/)/[at](/en/post/at/)": [To](/en/post/to/) [establish](/en/post/establish/) [oneself](/en/post/oneself/) [or](/en/post/or/) one's [business](/en/post/business/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/). [Example](/en/post/example/): "[After](/en/post/after/) [much](/en/post/much/) deliberation, [they](/en/post/they/) decided [to](/en/post/to/) [locate](/en/post/locate/) [their](/en/post/their/) startup [in](/en/post/in/) Silicon [Valley](/en/post/valley/)."
+- "[Locate](/post/locate/) [someone](/post/someone/)/[something](/post/something/)": [To](/post/to/) [find](/post/find/) [out](/post/out/) [where](/post/where/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) is situated. [Example](/post/example/): "[Police](/post/police/) are working [hard](/post/hard/) [to](/post/to/) [locate](/post/locate/) [the](/post/the/) [missing](/post/missing/) [child](/post/child/)."
+- "[To](/post/to/) [locate](/post/locate/) [in](/post/in/)/[at](/post/at/)": [To](/post/to/) [establish](/post/establish/) [oneself](/post/oneself/) [or](/post/or/) one's [business](/post/business/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/). [Example](/post/example/): "[After](/post/after/) [much](/post/much/) deliberation, [they](/post/they/) decided [to](/post/to/) [locate](/post/locate/) [their](/post/their/) startup [in](/post/in/) Silicon [Valley](/post/valley/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [locate](/en/post/locate/) [the](/en/post/the/) [source](/en/post/source/) [of](/en/post/of/) [the](/en/post/the/) [leak](/en/post/leak/) [before](/en/post/before/) [it](/en/post/it/) causes [further](/en/post/further/) [damage](/en/post/damage/)."
-  - "I'm trying [to](/en/post/to/) [locate](/en/post/locate/) [my](/en/post/my/) keys; [have](/en/post/have/) [you](/en/post/you/) seen [them](/en/post/them/) [anywhere](/en/post/anywhere/)?"
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [locate](/post/locate/) [the](/post/the/) [source](/post/source/) [of](/post/of/) [the](/post/the/) [leak](/post/leak/) [before](/post/before/) [it](/post/it/) causes [further](/post/further/) [damage](/post/damage/)."
+  - "I'm trying [to](/post/to/) [locate](/post/locate/) [my](/post/my/) keys; [have](/post/have/) [you](/post/you/) seen [them](/post/them/) [anywhere](/post/anywhere/)?"
   
-- **[Noun](/en/post/noun/)**: "[Once](/en/post/once/) [they](/en/post/they/) got [the](/en/post/the/) [locate](/en/post/locate/) [on](/en/post/on/) [the](/en/post/the/) enemy's [position](/en/post/position/), [the](/en/post/the/) [team](/en/post/team/) moved [in](/en/post/in/) [for](/en/post/for/) [the](/en/post/the/) [attack](/en/post/attack/)."
+- **[Noun](/post/noun/)**: "[Once](/post/once/) [they](/post/they/) got [the](/post/the/) [locate](/post/locate/) [on](/post/on/) [the](/post/the/) enemy's [position](/post/position/), [the](/post/the/) [team](/post/team/) moved [in](/post/in/) [for](/post/for/) [the](/post/the/) [attack](/post/attack/)."
 
 ## Synonyms
-- [Find](/en/post/find/)
-- [Position](/en/post/position/)
+- [Find](/post/find/)
+- [Position](/post/position/)
 - Pinpoint
-- [Place](/en/post/place/)
+- [Place](/post/place/)
 - Situate
-- [Determine](/en/post/determine/) [the](/en/post/the/) whereabouts [of](/en/post/of/)
-- [Discover](/en/post/discover/) [the](/en/post/the/) [location](/en/post/location/) [of](/en/post/of/)
-- [Identify](/en/post/identify/) [the](/en/post/the/) [position](/en/post/position/) [of](/en/post/of/)
+- [Determine](/post/determine/) [the](/post/the/) whereabouts [of](/post/of/)
+- [Discover](/post/discover/) [the](/post/the/) [location](/post/location/) [of](/post/of/)
+- [Identify](/post/identify/) [the](/post/the/) [position](/post/position/) [of](/post/of/)

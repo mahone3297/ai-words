@@ -7,30 +7,30 @@ description = '[ˈhjuːmid] a.湿的，湿气重的'
 keywords = ['ai words', 'humid']
 +++
 
-## [Word](/en/post/word/): [Humid](/en/post/humid/)
+## [Word](/post/word/): [Humid](/post/humid/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhjuːmɪd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: ([of](/en/post/of/) [air](/en/post/air/)) Having [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) [water](/en/post/water/) vapor, [often](/en/post/often/) causing discomfort [or](/en/post/or/) having [a](/en/post/a/) [damp](/en/post/damp/), [sticky](/en/post/sticky/) [feel](/en/post/feel/); characterized [by](/en/post/by/) [high](/en/post/high/) humidity. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [air](/en/post/air/) was [humid](/en/post/humid/) [after](/en/post/after/) [the](/en/post/the/) rainstorm."
+- **[Adjective](/post/adjective/)**: ([of](/post/of/) [air](/post/air/)) Having [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) [water](/post/water/) vapor, [often](/post/often/) causing discomfort [or](/post/or/) having [a](/post/a/) [damp](/post/damp/), [sticky](/post/sticky/) [feel](/post/feel/); characterized [by](/post/by/) [high](/post/high/) humidity. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [air](/post/air/) was [humid](/post/humid/) [after](/post/after/) [the](/post/the/) rainstorm."
 
 ### Phrases
-- "[High](/en/post/high/) humidity": Refers [to](/en/post/to/) [a](/en/post/a/) [condition](/en/post/condition/) [where](/en/post/where/) [the](/en/post/the/) [atmosphere](/en/post/atmosphere/) contains [a](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) [moisture](/en/post/moisture/), [which](/en/post/which/) [can](/en/post/can/) [lead](/en/post/lead/) [to](/en/post/to/) perspiration [and](/en/post/and/) stickiness.
-- "[Humid](/en/post/humid/) [climate](/en/post/climate/)": Describes regions [that](/en/post/that/) consistently [have](/en/post/have/) [high](/en/post/high/) levels [of](/en/post/of/) [atmospheric](/en/post/atmospheric/) [moisture](/en/post/moisture/).
-- "[A](/en/post/a/) humidifier adds [moisture](/en/post/moisture/) [to](/en/post/to/) [the](/en/post/the/) [air](/en/post/air/)": [This](/en/post/this/) [appliance](/en/post/appliance/) increases [the](/en/post/the/) humidity [in](/en/post/in/) [a](/en/post/a/) [room](/en/post/room/).
+- "[High](/post/high/) humidity": Refers [to](/post/to/) [a](/post/a/) [condition](/post/condition/) [where](/post/where/) [the](/post/the/) [atmosphere](/post/atmosphere/) contains [a](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) [moisture](/post/moisture/), [which](/post/which/) [can](/post/can/) [lead](/post/lead/) [to](/post/to/) perspiration [and](/post/and/) stickiness.
+- "[Humid](/post/humid/) [climate](/post/climate/)": Describes regions [that](/post/that/) consistently [have](/post/have/) [high](/post/high/) levels [of](/post/of/) [atmospheric](/post/atmospheric/) [moisture](/post/moisture/).
+- "[A](/post/a/) humidifier adds [moisture](/post/moisture/) [to](/post/to/) [the](/post/the/) [air](/post/air/)": [This](/post/this/) [appliance](/post/appliance/) increases [the](/post/the/) humidity [in](/post/in/) [a](/post/a/) [room](/post/room/).
 
-## [Example](/en/post/example/) Sentences
-- _Adjective_: "[In](/en/post/in/) [the](/en/post/the/) [tropical](/en/post/tropical/) rainforest, [the](/en/post/the/) [air](/en/post/air/) is oppressively [humid](/en/post/humid/) [throughout](/en/post/throughout/) [the](/en/post/the/) [year](/en/post/year/)."
-- "It's [difficult](/en/post/difficult/) [to](/en/post/to/) [sleep](/en/post/sleep/) [on](/en/post/on/) [hot](/en/post/hot/), [humid](/en/post/humid/) [summer](/en/post/summer/) nights [without](/en/post/without/) [air](/en/post/air/) conditioning."
-- "[The](/en/post/the/) [greenhouse](/en/post/greenhouse/) maintained [a](/en/post/a/) [humid](/en/post/humid/) [environment](/en/post/environment/) [to](/en/post/to/) nurture [the](/en/post/the/) exotic plants."
+## [Example](/post/example/) Sentences
+- _Adjective_: "[In](/post/in/) [the](/post/the/) [tropical](/post/tropical/) rainforest, [the](/post/the/) [air](/post/air/) is oppressively [humid](/post/humid/) [throughout](/post/throughout/) [the](/post/the/) [year](/post/year/)."
+- "It's [difficult](/post/difficult/) [to](/post/to/) [sleep](/post/sleep/) [on](/post/on/) [hot](/post/hot/), [humid](/post/humid/) [summer](/post/summer/) nights [without](/post/without/) [air](/post/air/) conditioning."
+- "[The](/post/the/) [greenhouse](/post/greenhouse/) maintained [a](/post/a/) [humid](/post/humid/) [environment](/post/environment/) [to](/post/to/) nurture [the](/post/the/) exotic plants."
 
 ## Synonyms
-- [Damp](/en/post/damp/)
-- [Moist](/en/post/moist/)
+- [Damp](/post/damp/)
+- [Moist](/post/moist/)
 - Muggy
 - Steamy
-- [Sticky](/en/post/sticky/)
+- [Sticky](/post/sticky/)
 - Sultry
-- [Tropical](/en/post/tropical/)
+- [Tropical](/post/tropical/)
 - Humidified

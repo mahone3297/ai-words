@@ -11,20 +11,20 @@ keywords = ['ai words', 'retell']
 /riːˈtel/
 
 ## 释义
-- **动词**: 再述；复述；重讲。例如: "[He](/post/he/) was asked [to](/post/to/) [retell](/post/retell/) [the](/post/the/) [story](/post/story/) [from](/post/from/) [memory](/post/memory/)."
-- **名词**: 再述；复述的内容。例如: "[Her](/post/her/) retelling [of](/post/of/) [the](/post/the/) [event](/post/event/) brought tears [to](/post/to/) [our](/post/our/) eyes."
+- **动词**: 再述；复述；重讲。例如: "[He](/zh/post/he/) was asked [to](/zh/post/to/) [retell](/zh/post/retell/) [the](/zh/post/the/) [story](/zh/post/story/) [from](/zh/post/from/) [memory](/zh/post/memory/)."
+- **名词**: 再述；复述的内容。例如: "[Her](/zh/post/her/) retelling [of](/zh/post/of/) [the](/zh/post/the/) [event](/zh/post/event/) brought tears [to](/zh/post/to/) [our](/zh/post/our/) eyes."
 
 ## 短语
-- "[retell](/post/retell/) [a](/post/a/) [story](/post/story/)" 意味着讲述一个已听过或读过的故事。
-- "[retell](/post/retell/) events" 指重新叙述一系列发生的事件。
+- "[retell](/zh/post/retell/) [a](/zh/post/a/) [story](/zh/post/story/)" 意味着讲述一个已听过或读过的故事。
+- "[retell](/zh/post/retell/) events" 指重新叙述一系列发生的事件。
 
 ## 例句
-- 动词: "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [retell](/post/retell/) [the](/post/the/) [fable](/post/fable/) [in](/post/in/) [their](/post/their/) [own](/post/own/) words."
-- 名词: "[His](/post/his/) retelling [of](/post/of/) [the](/post/the/) [accident](/post/accident/) was [quite](/post/quite/) [different](/post/different/) [from](/post/from/) [the](/post/the/) witness's [account](/post/account/)."
+- 动词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) asked [the](/zh/post/the/) students [to](/zh/post/to/) [retell](/zh/post/retell/) [the](/zh/post/the/) [fable](/zh/post/fable/) [in](/zh/post/in/) [their](/zh/post/their/) [own](/zh/post/own/) words."
+- 名词: "[His](/zh/post/his/) retelling [of](/zh/post/of/) [the](/zh/post/the/) [accident](/zh/post/accident/) was [quite](/zh/post/quite/) [different](/zh/post/different/) [from](/zh/post/from/) [the](/zh/post/the/) witness's [account](/zh/post/account/)."
 
 ## 同义词
 - recount
 - narrate
-- [relate](/post/relate/)
-- [describe](/post/describe/)
+- [relate](/zh/post/relate/)
+- [describe](/zh/post/describe/)
 - rehash

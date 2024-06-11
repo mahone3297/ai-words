@@ -11,20 +11,20 @@ keywords = ['ai words', 'soup']
 /suːp/
 
 ## 释义
-- **名词 (n)**: 流质食物，通常由肉、蔬菜、谷物等煮成。例如: "[She](/post/she/) made [a](/post/a/) [delicious](/post/delicious/) [chicken](/post/chicken/) [soup](/post/soup/) [for](/post/for/) [dinner](/post/dinner/)."
-- **动词 (v)**: 加热水或其他液体使成为汤状。例如: "[He](/post/he/) souped [up](/post/up/) [the](/post/the/) [vegetable](/post/vegetable/) broth [with](/post/with/) [some](/post/some/) [cream](/post/cream/)."
+- **名词 (n)**: 流质食物，通常由肉、蔬菜、谷物等煮成。例如: "[She](/zh/post/she/) made [a](/zh/post/a/) [delicious](/zh/post/delicious/) [chicken](/zh/post/chicken/) [soup](/zh/post/soup/) [for](/zh/post/for/) [dinner](/zh/post/dinner/)."
+- **动词 (v)**: 加热水或其他液体使成为汤状。例如: "[He](/zh/post/he/) souped [up](/zh/post/up/) [the](/zh/post/the/) [vegetable](/zh/post/vegetable/) broth [with](/zh/post/with/) [some](/zh/post/some/) [cream](/zh/post/cream/)."
 
 ## 短语
-- "[Soup](/post/soup/) [kitchen](/post/kitchen/)" 是提供免费汤食给穷人的地方。
-- "[To](/post/to/) [soup](/post/soup/) [up](/post/up/)" 意味着增强或改进（如汽车）以提高性能。
+- "[Soup](/zh/post/soup/) [kitchen](/zh/post/kitchen/)" 是提供免费汤食给穷人的地方。
+- "[To](/zh/post/to/) [soup](/zh/post/soup/) [up](/zh/post/up/)" 意味着增强或改进（如汽车）以提高性能。
 
 ## 例句
-- 名词: "I [need](/post/need/) [to](/post/to/) [heat](/post/heat/) [up](/post/up/) [some](/post/some/) [soup](/post/soup/) [for](/post/for/) [lunch](/post/lunch/)."
-- 动词: "[They](/post/they/) souped [up](/post/up/) [their](/post/their/) [old](/post/old/) [car](/post/car/), [and](/post/and/) [now](/post/now/) [it](/post/it/) runs [much](/post/much/) faster."
+- 名词: "I [need](/zh/post/need/) [to](/zh/post/to/) [heat](/zh/post/heat/) [up](/zh/post/up/) [some](/zh/post/some/) [soup](/zh/post/soup/) [for](/zh/post/for/) [lunch](/zh/post/lunch/)."
+- 动词: "[They](/zh/post/they/) souped [up](/zh/post/up/) [their](/zh/post/their/) [old](/zh/post/old/) [car](/zh/post/car/), [and](/zh/post/and/) [now](/zh/post/now/) [it](/zh/post/it/) runs [much](/zh/post/much/) faster."
 
 ## 同义词
 - Broth
 - Gravy
 - Consomme
-- [Sauce](/post/sauce/)
+- [Sauce](/zh/post/sauce/)
 - Purée

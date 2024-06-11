@@ -7,28 +7,28 @@ description = '[indiˈpendənt] a.独立的;自主的'
 keywords = ['ai words', 'independent']
 +++
 
-## [Word](/en/post/word/): [Independent](/en/post/independent/)
+## [Word](/post/word/): [Independent](/post/independent/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɪndɪˈpendənt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) influenced [or](/en/post/or/) controlled [by](/en/post/by/) others; [free](/en/post/free/) [from](/en/post/from/) [outside](/en/post/outside/) [control](/en/post/control/) [or](/en/post/or/) [support](/en/post/support/); self-reliant. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is an [independent](/en/post/independent/) thinker [who](/en/post/who/) [never](/en/post/never/) blindly follows trends."
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) influenced [or](/post/or/) controlled [by](/post/by/) others; [free](/post/free/) [from](/post/from/) [outside](/post/outside/) [control](/post/control/) [or](/post/or/) [support](/post/support/); self-reliant. [For](/post/for/) [example](/post/example/): "[She](/post/she/) is an [independent](/post/independent/) thinker [who](/post/who/) [never](/post/never/) blindly follows trends."
   
-  > *[Example](/en/post/example/) [Sentence](/en/post/sentence/)*: "[After](/en/post/after/) graduation, [he](/en/post/he/) decided [to](/en/post/to/) [live](/en/post/live/) independently, supporting [himself](/en/post/himself/) [without](/en/post/without/) [financial](/en/post/financial/) assistance [from](/en/post/from/) [his](/en/post/his/) parents."
+  > *[Example](/post/example/) [Sentence](/post/sentence/)*: "[After](/post/after/) graduation, [he](/post/he/) decided [to](/post/to/) [live](/post/live/) independently, supporting [himself](/post/himself/) [without](/post/without/) [financial](/post/financial/) assistance [from](/post/from/) [his](/post/his/) parents."
   
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [not](/en/post/not/) affiliated [with](/en/post/with/) [any](/en/post/any/) [particular](/en/post/particular/) [group](/en/post/group/), [especially](/en/post/especially/) [in](/en/post/in/) [politics](/en/post/politics/). [For](/en/post/for/) [instance](/en/post/instance/): "[Many](/en/post/many/) independents voted [for](/en/post/for/) [the](/en/post/the/) third-party [candidate](/en/post/candidate/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [not](/post/not/) affiliated [with](/post/with/) [any](/post/any/) [particular](/post/particular/) [group](/post/group/), [especially](/post/especially/) [in](/post/in/) [politics](/post/politics/). [For](/post/for/) [instance](/post/instance/): "[Many](/post/many/) independents voted [for](/post/for/) [the](/post/the/) third-party [candidate](/post/candidate/)."
 
-  > *[Example](/en/post/example/) [Sentence](/en/post/sentence/)*: "[As](/en/post/as/) an [independent](/en/post/independent/), [she](/en/post/she/) [can](/en/post/can/) [vote](/en/post/vote/) [for](/en/post/for/) [whichever](/en/post/whichever/) [candidate](/en/post/candidate/) aligns [best](/en/post/best/) [with](/en/post/with/) [her](/en/post/her/) views."
+  > *[Example](/post/example/) [Sentence](/post/sentence/)*: "[As](/post/as/) an [independent](/post/independent/), [she](/post/she/) [can](/post/can/) [vote](/post/vote/) [for](/post/for/) [whichever](/post/whichever/) [candidate](/post/candidate/) aligns [best](/post/best/) [with](/post/with/) [her](/post/her/) views."
 
 ## Phrases
-- "[Independent](/en/post/independent/) [variable](/en/post/variable/)": [In](/en/post/in/) [science](/en/post/science/) [or](/en/post/or/) statistics, [a](/en/post/a/) [variable](/en/post/variable/) [that](/en/post/that/) is manipulated [or](/en/post/or/) changed [by](/en/post/by/) [the](/en/post/the/) experimenter [to](/en/post/to/) [observe](/en/post/observe/) [its](/en/post/its/) [effect](/en/post/effect/) [on](/en/post/on/) [another](/en/post/another/) [variable](/en/post/variable/) ([dependent](/en/post/dependent/) [variable](/en/post/variable/)).
-- "[Independent](/en/post/independent/) contractor": [A](/en/post/a/) self-employed [individual](/en/post/individual/) hired [to](/en/post/to/) [complete](/en/post/complete/) [specific](/en/post/specific/) tasks [or](/en/post/or/) projects [for](/en/post/for/) [a](/en/post/a/) client [but](/en/post/but/) [not](/en/post/not/) [as](/en/post/as/) an [employee](/en/post/employee/).
-- "[Go](/en/post/go/) [independent](/en/post/independent/)": [To](/en/post/to/) [break](/en/post/break/) [away](/en/post/away/) [from](/en/post/from/) [a](/en/post/a/) larger [organization](/en/post/organization/), [political](/en/post/political/) [party](/en/post/party/), [or](/en/post/or/) [group](/en/post/group/) [to](/en/post/to/) [work](/en/post/work/) [or](/en/post/or/) [act](/en/post/act/) [alone](/en/post/alone/).
+- "[Independent](/post/independent/) [variable](/post/variable/)": [In](/post/in/) [science](/post/science/) [or](/post/or/) statistics, [a](/post/a/) [variable](/post/variable/) [that](/post/that/) is manipulated [or](/post/or/) changed [by](/post/by/) [the](/post/the/) experimenter [to](/post/to/) [observe](/post/observe/) [its](/post/its/) [effect](/post/effect/) [on](/post/on/) [another](/post/another/) [variable](/post/variable/) ([dependent](/post/dependent/) [variable](/post/variable/)).
+- "[Independent](/post/independent/) contractor": [A](/post/a/) self-employed [individual](/post/individual/) hired [to](/post/to/) [complete](/post/complete/) [specific](/post/specific/) tasks [or](/post/or/) projects [for](/post/for/) [a](/post/a/) client [but](/post/but/) [not](/post/not/) [as](/post/as/) an [employee](/post/employee/).
+- "[Go](/post/go/) [independent](/post/independent/)": [To](/post/to/) [break](/post/break/) [away](/post/away/) [from](/post/from/) [a](/post/a/) larger [organization](/post/organization/), [political](/post/political/) [party](/post/party/), [or](/post/or/) [group](/post/group/) [to](/post/to/) [work](/post/work/) [or](/post/or/) [act](/post/act/) [alone](/post/alone/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [country](/en/post/country/) gained [independence](/en/post/independence/) [from](/en/post/from/) [its](/en/post/its/) colonial [ruler](/en/post/ruler/) [in](/en/post/in/) [the](/en/post/the/) [early](/en/post/early/) 20th [century](/en/post/century/)."
-- **[Noun](/en/post/noun/)**: "[Several](/en/post/several/) independents were elected [to](/en/post/to/) [Congress](/en/post/congress/), [promising](/en/post/promising/) [to](/en/post/to/) [bring](/en/post/bring/) [fresh](/en/post/fresh/) perspectives [to](/en/post/to/) Washington."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [country](/post/country/) gained [independence](/post/independence/) [from](/post/from/) [its](/post/its/) colonial [ruler](/post/ruler/) [in](/post/in/) [the](/post/the/) [early](/post/early/) 20th [century](/post/century/)."
+- **[Noun](/post/noun/)**: "[Several](/post/several/) independents were elected [to](/post/to/) [Congress](/post/congress/), [promising](/post/promising/) [to](/post/to/) [bring](/post/bring/) [fresh](/post/fresh/) perspectives [to](/post/to/) Washington."
 
 ## Synonyms
 - Autonomous

@@ -7,36 +7,36 @@ description = '[ˈrʌ∫ən] a.俄罗斯的 n.俄国人'
 keywords = ['ai words', 'Russian']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ruːˈsɪən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [language](/en/post/language/): "Russian is spoken [by](/en/post/by/) millions [of](/en/post/of/) [people](/en/post/people/) worldwide."
-- [The](/en/post/the/) ethnic [group](/en/post/group/) [native](/en/post/native/) [to](/en/post/to/) Russia: "[The](/en/post/the/) Russian [people](/en/post/people/) [have](/en/post/have/) [a](/en/post/a/) [rich](/en/post/rich/) cultural heritage."
-- [A](/en/post/a/) [citizen](/en/post/citizen/) [of](/en/post/of/) [the](/en/post/the/) Russian Federation: "[She](/en/post/she/) is [a](/en/post/a/) [proud](/en/post/proud/) Russian."
-- [The](/en/post/the/) [country](/en/post/country/) [in](/en/post/in/) [Eastern](/en/post/eastern/) Europe [with](/en/post/with/) Moscow [as](/en/post/as/) [its](/en/post/its/) [capital](/en/post/capital/): "Russia is known [for](/en/post/for/) [its](/en/post/its/) [vast](/en/post/vast/) landmass [and](/en/post/and/) [history](/en/post/history/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [language](/post/language/): "Russian is spoken [by](/post/by/) millions [of](/post/of/) [people](/post/people/) worldwide."
+- [The](/post/the/) ethnic [group](/post/group/) [native](/post/native/) [to](/post/to/) Russia: "[The](/post/the/) Russian [people](/post/people/) [have](/post/have/) [a](/post/a/) [rich](/post/rich/) cultural heritage."
+- [A](/post/a/) [citizen](/post/citizen/) [of](/post/of/) [the](/post/the/) Russian Federation: "[She](/post/she/) is [a](/post/a/) [proud](/post/proud/) Russian."
+- [The](/post/the/) [country](/post/country/) [in](/post/in/) [Eastern](/post/eastern/) Europe [with](/post/with/) Moscow [as](/post/as/) [its](/post/its/) [capital](/post/capital/): "Russia is known [for](/post/for/) [its](/post/its/) [vast](/post/vast/) landmass [and](/post/and/) [history](/post/history/)."
 
-### [Adjective](/en/post/adjective/)
-- Referring [to](/en/post/to/) [something](/en/post/something/) [from](/en/post/from/) Russia [or](/en/post/or/) related [to](/en/post/to/) Russian [culture](/en/post/culture/): "[A](/en/post/a/) Russian doll is [a](/en/post/a/) [traditional](/en/post/traditional/) [wooden](/en/post/wooden/) nesting [toy](/en/post/toy/)."
-- Characterizing [the](/en/post/the/) [language](/en/post/language/) [or](/en/post/or/) [its](/en/post/its/) speakers: "Russian [literature](/en/post/literature/) is [famous](/en/post/famous/) [for](/en/post/for/) [its](/en/post/its/) [depth](/en/post/depth/) [and](/en/post/and/) complexity."
+### [Adjective](/post/adjective/)
+- Referring [to](/post/to/) [something](/post/something/) [from](/post/from/) Russia [or](/post/or/) related [to](/post/to/) Russian [culture](/post/culture/): "[A](/post/a/) Russian doll is [a](/post/a/) [traditional](/post/traditional/) [wooden](/post/wooden/) nesting [toy](/post/toy/)."
+- Characterizing [the](/post/the/) [language](/post/language/) [or](/post/or/) [its](/post/its/) speakers: "Russian [literature](/post/literature/) is [famous](/post/famous/) [for](/post/for/) [its](/post/its/) [depth](/post/depth/) [and](/post/and/) complexity."
 
-### [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [typical](/en/post/typical/) [of](/en/post/of/) [or](/en/post/or/) associated [with](/en/post/with/) Russians: "[He](/en/post/he/) speaks Russian fluently."
+### [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [typical](/post/typical/) [of](/post/of/) [or](/post/or/) associated [with](/post/with/) Russians: "[He](/post/he/) speaks Russian fluently."
 
 ## Phrases
-- "[Learn](/en/post/learn/) [to](/en/post/to/) [speak](/en/post/speak/) Russian" [means](/en/post/means/) [to](/en/post/to/) [acquire](/en/post/acquire/) [the](/en/post/the/) [language](/en/post/language/).
-- "Russian cuisine" encompasses [various](/en/post/various/) dishes [from](/en/post/from/) [the](/en/post/the/) [region](/en/post/region/).
-- "Russian ballet" refers [to](/en/post/to/) [the](/en/post/the/) [highly](/en/post/highly/) esteemed [dance](/en/post/dance/) [tradition](/en/post/tradition/).
+- "[Learn](/post/learn/) [to](/post/to/) [speak](/post/speak/) Russian" [means](/post/means/) [to](/post/to/) [acquire](/post/acquire/) [the](/post/the/) [language](/post/language/).
+- "Russian cuisine" encompasses [various](/post/various/) dishes [from](/post/from/) [the](/post/the/) [region](/post/region/).
+- "Russian ballet" refers [to](/post/to/) [the](/post/the/) [highly](/post/highly/) esteemed [dance](/post/dance/) [tradition](/post/tradition/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) studied Russian [literature](/en/post/literature/) [in](/en/post/in/) [college](/en/post/college/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) Russian [architecture](/en/post/architecture/) [in](/en/post/in/) St. Petersburg is breathtaking."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) greeted [her](/en/post/her/) warmly, speaking Russian [with](/en/post/with/) [a](/en/post/a/) [thick](/en/post/thick/) [accent](/en/post/accent/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) studied Russian [literature](/post/literature/) [in](/post/in/) [college](/post/college/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) Russian [architecture](/post/architecture/) [in](/post/in/) St. Petersburg is breathtaking."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) greeted [her](/post/her/) warmly, speaking Russian [with](/post/with/) [a](/post/a/) [thick](/post/thick/) [accent](/post/accent/)."
 
 ## Synonyms
-- [[Language](/en/post/language/)] - Slavic, Cyrillic, Muscovite
-- [Ethnicity/[Culture](/en/post/culture/)] - Soviet, [East](/en/post/east/) Slavic, Russian Federation
-- [[Greeting](/en/post/greeting/)] - Salutation, Greetings, [Hello](/en/post/hello/) (informal)
+- [[Language](/post/language/)] - Slavic, Cyrillic, Muscovite
+- [Ethnicity/[Culture](/post/culture/)] - Soviet, [East](/post/east/) Slavic, Russian Federation
+- [[Greeting](/post/greeting/)] - Salutation, Greetings, [Hello](/post/hello/) (informal)
 
-## [Note](/en/post/note/): [While](/en/post/while/) "[Hello](/en/post/hello/)" is [not](/en/post/not/) [a](/en/post/a/) [direct](/en/post/direct/) [translation](/en/post/translation/) [for](/en/post/for/) "Russian" [in](/en/post/in/) [this](/en/post/this/) context, [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [language](/en/post/language/) [or](/en/post/or/) [people](/en/post/people/) [when](/en/post/when/) [greeting](/en/post/greeting/) [them](/en/post/them/) informally. [For](/en/post/for/) [a](/en/post/a/) [formal](/en/post/formal/) Russian [greeting](/en/post/greeting/), [use](/en/post/use/) "Здравствуйте" (Zdravstvuyte) [for](/en/post/for/) "[Hello](/en/post/hello/)" [or](/en/post/or/) "Привет" (Privet) [for](/en/post/for/) "[Hi](/en/post/hi/)" [or](/en/post/or/) "Hey."
+## [Note](/post/note/): [While](/post/while/) "[Hello](/post/hello/)" is [not](/post/not/) [a](/post/a/) [direct](/post/direct/) [translation](/post/translation/) [for](/post/for/) "Russian" [in](/post/in/) [this](/post/this/) context, [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [language](/post/language/) [or](/post/or/) [people](/post/people/) [when](/post/when/) [greeting](/post/greeting/) [them](/post/them/) informally. [For](/post/for/) [a](/post/a/) [formal](/post/formal/) Russian [greeting](/post/greeting/), [use](/post/use/) "Здравствуйте" (Zdravstvuyte) [for](/post/for/) "[Hello](/post/hello/)" [or](/post/or/) "Привет" (Privet) [for](/post/for/) "[Hi](/post/hi/)" [or](/post/or/) "Hey."

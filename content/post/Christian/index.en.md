@@ -7,29 +7,29 @@ description = '[ˈkristjən] n.基督教徒；信徒'
 keywords = ['ai words', 'Christian']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /chriˈstɪən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) adheres [to](/en/post/to/) [the](/en/post/the/) [religious](/en/post/religious/) beliefs [and](/en/post/and/) practices [of](/en/post/of/) Christianity, [which](/en/post/which/) is centered [around](/en/post/around/) [the](/en/post/the/) [life](/en/post/life/), teachings, [and](/en/post/and/) resurrection [of](/en/post/of/) Jesus Christ. (adj.) [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) related [to](/en/post/to/) [this](/en/post/this/) [religion](/en/post/religion/).
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [the](/en/post/the/) Christian [faith](/en/post/faith/) [or](/en/post/or/) [its](/en/post/its/) followers. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) Christian [charity](/en/post/charity/) [provided](/en/post/provided/) [aid](/en/post/aid/) [during](/en/post/during/) [the](/en/post/the/) [crisis](/en/post/crisis/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) adheres [to](/post/to/) [the](/post/the/) [religious](/post/religious/) beliefs [and](/post/and/) practices [of](/post/of/) Christianity, [which](/post/which/) is centered [around](/post/around/) [the](/post/the/) [life](/post/life/), teachings, [and](/post/and/) resurrection [of](/post/of/) Jesus Christ. (adj.) [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) related [to](/post/to/) [this](/post/this/) [religion](/post/religion/).
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [the](/post/the/) Christian [faith](/post/faith/) [or](/post/or/) [its](/post/its/) followers. [For](/post/for/) [example](/post/example/): "[A](/post/a/) Christian [charity](/post/charity/) [provided](/post/provided/) [aid](/post/aid/) [during](/post/during/) [the](/post/the/) [crisis](/post/crisis/)."
 
 ## Phrases
-- "[Born](/en/post/born/) [again](/en/post/again/) Christian" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) has had [a](/en/post/a/) [spiritual](/en/post/spiritual/) rebirth [and](/en/post/and/) [conversion](/en/post/conversion/) [to](/en/post/to/) Christianity.
-- "Christian values" denote principles [such](/en/post/such/) [as](/en/post/as/) [love](/en/post/love/), forgiveness, [and](/en/post/and/) compassion, [often](/en/post/often/) associated [with](/en/post/with/) [religious](/en/post/religious/) teachings.
-- "[To](/en/post/to/) [live](/en/post/live/) [as](/en/post/as/) [a](/en/post/a/) Christian" [means](/en/post/means/) [to](/en/post/to/) embody Christian beliefs [and](/en/post/and/) principles [in](/en/post/in/) [daily](/en/post/daily/) [life](/en/post/life/).
+- "[Born](/post/born/) [again](/post/again/) Christian" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) has had [a](/post/a/) [spiritual](/post/spiritual/) rebirth [and](/post/and/) [conversion](/post/conversion/) [to](/post/to/) Christianity.
+- "Christian values" denote principles [such](/post/such/) [as](/post/as/) [love](/post/love/), forgiveness, [and](/post/and/) compassion, [often](/post/often/) associated [with](/post/with/) [religious](/post/religious/) teachings.
+- "[To](/post/to/) [live](/post/live/) [as](/post/as/) [a](/post/a/) Christian" [means](/post/means/) [to](/post/to/) embody Christian beliefs [and](/post/and/) principles [in](/post/in/) [daily](/post/daily/) [life](/post/life/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was raised [in](/en/post/in/) [a](/en/post/a/) devout Christian [family](/en/post/family/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) organization's [mission](/en/post/mission/) focuses [on](/en/post/on/) supporting Christian communities."
-- **Prepositional [Phrase](/en/post/phrase/)**: "[In](/en/post/in/) [his](/en/post/his/) Sunday sermon, [the](/en/post/the/) pastor spoke [about](/en/post/about/) [being](/en/post/being/) [a](/en/post/a/) [good](/en/post/good/) Christian [in](/en/post/in/) [modern](/en/post/modern/) [society](/en/post/society/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was raised [in](/post/in/) [a](/post/a/) devout Christian [family](/post/family/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) organization's [mission](/post/mission/) focuses [on](/post/on/) supporting Christian communities."
+- **Prepositional [Phrase](/post/phrase/)**: "[In](/post/in/) [his](/post/his/) Sunday sermon, [the](/post/the/) pastor spoke [about](/post/about/) [being](/post/being/) [a](/post/a/) [good](/post/good/) Christian [in](/post/in/) [modern](/post/modern/) [society](/post/society/)."
 
 ## Synonyms
 - Believer
 - Protestant
 - Catholic
 - Orthodox
-- Evangelical ([in](/en/post/in/) [a](/en/post/a/) [religious](/en/post/religious/) [sense](/en/post/sense/))
+- Evangelical ([in](/post/in/) [a](/post/a/) [religious](/post/religious/) [sense](/post/sense/))
 
 ## Antonyms
 - Nonbeliever
@@ -37,4 +37,4 @@ keywords = ['ai words', 'Christian']
 - Agnostic
 - Secular
 
-[Note](/en/post/note/): [The](/en/post/the/) [adverb](/en/post/adverb/) [form](/en/post/form/) "Christianly" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) actions [in](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [consistent](/en/post/consistent/) [with](/en/post/with/) Christian principles.
+[Note](/post/note/): [The](/post/the/) [adverb](/post/adverb/) [form](/post/form/) "Christianly" [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) actions [in](/post/in/) [a](/post/a/) [manner](/post/manner/) [consistent](/post/consistent/) [with](/post/with/) Christian principles.

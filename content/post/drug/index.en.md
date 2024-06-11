@@ -7,31 +7,31 @@ description = '[drʌg] n.药，药物，药材'
 keywords = ['ai words', 'drug']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /drʌɡ/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [chemical](/en/post/chemical/) [substance](/en/post/substance/) [that](/en/post/that/) affects [the](/en/post/the/) body's functioning [and](/en/post/and/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [for](/en/post/for/) [medical](/en/post/medical/) purposes [or](/en/post/or/) [for](/en/post/for/) non-medical (recreational) [use](/en/post/use/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [doctor](/en/post/doctor/) prescribed [a](/en/post/a/) [course](/en/post/course/) [of](/en/post/of/) antibiotics, [which](/en/post/which/) are drugs [that](/en/post/that/) combat bacterial infections."
-  - _Informal_ [or](/en/post/or/) _Slang_: An [illegal](/en/post/illegal/) [substance](/en/post/substance/) taken recreationally, [often](/en/post/often/) [with](/en/post/with/) addictive properties. [Example](/en/post/example/): "[Police](/en/post/police/) [found](/en/post/found/) [a](/en/post/a/) stash [of](/en/post/of/) drugs [in](/en/post/in/) [his](/en/post/his/) [apartment](/en/post/apartment/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [chemical](/post/chemical/) [substance](/post/substance/) [that](/post/that/) affects [the](/post/the/) body's functioning [and](/post/and/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [for](/post/for/) [medical](/post/medical/) purposes [or](/post/or/) [for](/post/for/) non-medical (recreational) [use](/post/use/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [doctor](/post/doctor/) prescribed [a](/post/a/) [course](/post/course/) [of](/post/of/) antibiotics, [which](/post/which/) are drugs [that](/post/that/) combat bacterial infections."
+  - _Informal_ [or](/post/or/) _Slang_: An [illegal](/post/illegal/) [substance](/post/substance/) taken recreationally, [often](/post/often/) [with](/post/with/) addictive properties. [Example](/post/example/): "[Police](/post/police/) [found](/post/found/) [a](/post/a/) stash [of](/post/of/) drugs [in](/post/in/) [his](/post/his/) [apartment](/post/apartment/)."
 
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) administer [or](/en/post/or/) [give](/en/post/give/) [a](/en/post/a/) [drug](/en/post/drug/) [to](/en/post/to/) [someone](/en/post/someone/), [usually](/en/post/usually/) [for](/en/post/for/) medicinal purposes. [Example](/en/post/example/): "[The](/en/post/the/) [patient](/en/post/patient/) needs [to](/en/post/to/) [be](/en/post/be/) drugged [for](/en/post/for/) [the](/en/post/the/) [surgery](/en/post/surgery/)."
-  - _Informal_ [or](/en/post/or/) _Slang_: [To](/en/post/to/) intoxicate [or](/en/post/or/) stupefy [someone](/en/post/someone/) using drugs. [Example](/en/post/example/): "[He](/en/post/he/) was drugged [and](/en/post/and/) woke [up](/en/post/up/) hours [later](/en/post/later/) [with](/en/post/with/) [no](/en/post/no/) [memory](/en/post/memory/) [of](/en/post/of/) [what](/en/post/what/) happened."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) administer [or](/post/or/) [give](/post/give/) [a](/post/a/) [drug](/post/drug/) [to](/post/to/) [someone](/post/someone/), [usually](/post/usually/) [for](/post/for/) medicinal purposes. [Example](/post/example/): "[The](/post/the/) [patient](/post/patient/) needs [to](/post/to/) [be](/post/be/) drugged [for](/post/for/) [the](/post/the/) [surgery](/post/surgery/)."
+  - _Informal_ [or](/post/or/) _Slang_: [To](/post/to/) intoxicate [or](/post/or/) stupefy [someone](/post/someone/) using drugs. [Example](/post/example/): "[He](/post/he/) was drugged [and](/post/and/) woke [up](/post/up/) hours [later](/post/later/) [with](/post/with/) [no](/post/no/) [memory](/post/memory/) [of](/post/of/) [what](/post/what/) happened."
 
 ## Phrases
-- "[Drug](/en/post/drug/) [abuse](/en/post/abuse/)": [The](/en/post/the/) [excessive](/en/post/excessive/) [and](/en/post/and/) improper [use](/en/post/use/) [of](/en/post/of/) medications [or](/en/post/or/) [illegal](/en/post/illegal/) substances.
-- "[Under](/en/post/under/) [the](/en/post/the/) [influence](/en/post/influence/) [of](/en/post/of/) drugs": [Being](/en/post/being/) affected [by](/en/post/by/) drugs, typically referring [to](/en/post/to/) impaired judgment [or](/en/post/or/) [behavior](/en/post/behavior/).
-- "[Drug](/en/post/drug/) trafficking": [The](/en/post/the/) [illegal](/en/post/illegal/) [trade](/en/post/trade/) [and](/en/post/and/) [distribution](/en/post/distribution/) [of](/en/post/of/) drugs.
+- "[Drug](/post/drug/) [abuse](/post/abuse/)": [The](/post/the/) [excessive](/post/excessive/) [and](/post/and/) improper [use](/post/use/) [of](/post/of/) medications [or](/post/or/) [illegal](/post/illegal/) substances.
+- "[Under](/post/under/) [the](/post/the/) [influence](/post/influence/) [of](/post/of/) drugs": [Being](/post/being/) affected [by](/post/by/) drugs, typically referring [to](/post/to/) impaired judgment [or](/post/or/) [behavior](/post/behavior/).
+- "[Drug](/post/drug/) trafficking": [The](/post/the/) [illegal](/post/illegal/) [trade](/post/trade/) [and](/post/and/) [distribution](/post/distribution/) [of](/post/of/) drugs.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [wonder](/en/post/wonder/) [drug](/en/post/drug/) has shown [promising](/en/post/promising/) results [in](/en/post/in/) treating [cancer](/en/post/cancer/) patients."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully drugged [the](/en/post/the/) [cat](/en/post/cat/) [before](/en/post/before/) taking [it](/en/post/it/) [to](/en/post/to/) [the](/en/post/the/) vet [for](/en/post/for/) [its](/en/post/its/) [operation](/en/post/operation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [wonder](/post/wonder/) [drug](/post/drug/) has shown [promising](/post/promising/) results [in](/post/in/) treating [cancer](/post/cancer/) patients."
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully drugged [the](/post/the/) [cat](/post/cat/) [before](/post/before/) taking [it](/post/it/) [to](/post/to/) [the](/post/the/) vet [for](/post/for/) [its](/post/its/) [operation](/post/operation/)."
 
 ## Synonyms
-- [Medicine](/en/post/medicine/)
+- [Medicine](/post/medicine/)
 - Medication
 - Pharmaceutical
-- [Substance](/en/post/substance/) ([when](/en/post/when/) referring [to](/en/post/to/) [illegal](/en/post/illegal/) substances)
-- Narcotic ([especially](/en/post/especially/) [when](/en/post/when/) referring [to](/en/post/to/) opioids [or](/en/post/or/) illicit drugs)
-- Intoxicant ([when](/en/post/when/) referring [to](/en/post/to/) substances causing intoxication)
-- Sedative (specifically [for](/en/post/for/) drugs [that](/en/post/that/) [calm](/en/post/calm/) [or](/en/post/or/) induce [sleep](/en/post/sleep/))
-- Stimulant ([for](/en/post/for/) drugs [that](/en/post/that/) [increase](/en/post/increase/) alertness [or](/en/post/or/) [energy](/en/post/energy/))
+- [Substance](/post/substance/) ([when](/post/when/) referring [to](/post/to/) [illegal](/post/illegal/) substances)
+- Narcotic ([especially](/post/especially/) [when](/post/when/) referring [to](/post/to/) opioids [or](/post/or/) illicit drugs)
+- Intoxicant ([when](/post/when/) referring [to](/post/to/) substances causing intoxication)
+- Sedative (specifically [for](/post/for/) drugs [that](/post/that/) [calm](/post/calm/) [or](/post/or/) induce [sleep](/post/sleep/))
+- Stimulant ([for](/post/for/) drugs [that](/post/that/) [increase](/post/increase/) alertness [or](/post/or/) [energy](/post/energy/))

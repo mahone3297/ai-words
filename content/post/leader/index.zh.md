@@ -12,24 +12,24 @@ keywords = ['ai words', 'leader']
 
 ## 释义
 - **名词 n**:
-    - 领导者；领袖：[A](/post/a/) [person](/post/person/) [who](/post/who/) leads [a](/post/a/) [group](/post/group/), [organization](/post/organization/), [or](/post/or/) [country](/post/country/).
-    - 指挥者；队长：[The](/post/the/) [conductor](/post/conductor/) [of](/post/of/) [a](/post/a/) [musical](/post/musical/) [group](/post/group/) [or](/post/or/) [the](/post/the/) [captain](/post/captain/) [of](/post/of/) [a](/post/a/) sports [team](/post/team/).
+    - 领导者；领袖：[A](/zh/post/a/) [person](/zh/post/person/) [who](/zh/post/who/) leads [a](/zh/post/a/) [group](/zh/post/group/), [organization](/zh/post/organization/), [or](/zh/post/or/) [country](/zh/post/country/).
+    - 指挥者；队长：[The](/zh/post/the/) [conductor](/zh/post/conductor/) [of](/zh/post/of/) [a](/zh/post/a/) [musical](/zh/post/musical/) [group](/zh/post/group/) [or](/zh/post/or/) [the](/zh/post/the/) [captain](/zh/post/captain/) [of](/zh/post/of/) [a](/zh/post/a/) sports [team](/zh/post/team/).
 
 - **形容词 adj**:
-    - 领先的；首要的：[Being](/post/being/) [in](/post/in/) [the](/post/the/) [first](/post/first/) [place](/post/place/) [or](/post/or/) [ahead](/post/ahead/) [of](/post/of/) others; [prominent](/post/prominent/).
+    - 领先的；首要的：[Being](/zh/post/being/) [in](/zh/post/in/) [the](/zh/post/the/) [first](/zh/post/first/) [place](/zh/post/place/) [or](/zh/post/or/) [ahead](/zh/post/ahead/) [of](/zh/post/of/) others; [prominent](/zh/post/prominent/).
 
 ## 短语
-- "[team](/post/team/) [leader](/post/leader/)" 团队的负责人或队长。
-- "[political](/post/political/) [leader](/post/leader/)" 政治领袖或政党领导人。
-- "[market](/post/market/) [leader](/post/leader/)" 在市场中占据主导地位的公司或产品。
+- "[team](/zh/post/team/) [leader](/zh/post/leader/)" 团队的负责人或队长。
+- "[political](/zh/post/political/) [leader](/zh/post/leader/)" 政治领袖或政党领导人。
+- "[market](/zh/post/market/) [leader](/zh/post/leader/)" 在市场中占据主导地位的公司或产品。
 
 ## 例句
-- 名词: "[The](/post/the/) company's [new](/post/new/) CEO is an inspiring [leader](/post/leader/) [with](/post/with/) [a](/post/a/) [vision](/post/vision/) [for](/post/for/) [the](/post/the/) [future](/post/future/)."
-- 形容词: "[Our](/post/our/) [product](/post/product/) has been [the](/post/the/) [market](/post/market/) [leader](/post/leader/) [for](/post/for/) [several](/post/several/) years."
+- 名词: "[The](/zh/post/the/) company's [new](/zh/post/new/) CEO is an inspiring [leader](/zh/post/leader/) [with](/zh/post/with/) [a](/zh/post/a/) [vision](/zh/post/vision/) [for](/zh/post/for/) [the](/zh/post/the/) [future](/zh/post/future/)."
+- 形容词: "[Our](/zh/post/our/) [product](/zh/post/product/) has been [the](/zh/post/the/) [market](/zh/post/market/) [leader](/zh/post/leader/) [for](/zh/post/for/) [several](/zh/post/several/) years."
 
 ## 同义词
-- [Chief](/post/chief/)
-- [Director](/post/director/)
+- [Chief](/zh/post/chief/)
+- [Director](/zh/post/director/)
 - Manager
-- [Commander](/post/commander/)
-- [Ruler](/post/ruler/)
+- [Commander](/zh/post/commander/)
+- [Ruler](/zh/post/ruler/)

@@ -11,21 +11,21 @@ keywords = ['ai words', 'apology']
 /əˈpɑːlədʒi/
 
 ## 释义
-- **名词**: 道歉；认错。例如: "[He](/post/he/) made an [apology](/post/apology/) [for](/post/for/) [being](/post/being/) [late](/post/late/)."
-- **动词**: 向某人道歉。例如: "[She](/post/she/) apologized sincerely [for](/post/for/) [her](/post/her/) [mistake](/post/mistake/)."
+- **名词**: 道歉；认错。例如: "[He](/zh/post/he/) made an [apology](/zh/post/apology/) [for](/zh/post/for/) [being](/zh/post/being/) [late](/zh/post/late/)."
+- **动词**: 向某人道歉。例如: "[She](/zh/post/she/) apologized sincerely [for](/zh/post/for/) [her](/zh/post/her/) [mistake](/zh/post/mistake/)."
 
 ## 短语
-- "[offer](/post/offer/) an [apology](/post/apology/)" 提供或做出道歉。
-- "[accept](/post/accept/) an [apology](/post/apology/)" 接受道歉。
-- "[without](/post/without/) [apology](/post/apology/)" 没有道歉地。
+- "[offer](/zh/post/offer/) an [apology](/zh/post/apology/)" 提供或做出道歉。
+- "[accept](/zh/post/accept/) an [apology](/zh/post/apology/)" 接受道歉。
+- "[without](/zh/post/without/) [apology](/zh/post/apology/)" 没有道歉地。
 
 ## 例句
-- 名词: "[He](/post/he/) sent [a](/post/a/) written [apology](/post/apology/) [to](/post/to/) [his](/post/his/) [boss](/post/boss/) [for](/post/for/) [the](/post/the/) [error](/post/error/) [in](/post/in/) [the](/post/the/) [report](/post/report/)."
-- 动词: "[She](/post/she/) [immediately](/post/immediately/) apologized [when](/post/when/) [she](/post/she/) realized [she](/post/she/) had offended [him](/post/him/)."
+- 名词: "[He](/zh/post/he/) sent [a](/zh/post/a/) written [apology](/zh/post/apology/) [to](/zh/post/to/) [his](/zh/post/his/) [boss](/zh/post/boss/) [for](/zh/post/for/) [the](/zh/post/the/) [error](/zh/post/error/) [in](/zh/post/in/) [the](/zh/post/the/) [report](/zh/post/report/)."
+- 动词: "[She](/zh/post/she/) [immediately](/zh/post/immediately/) apologized [when](/zh/post/when/) [she](/zh/post/she/) realized [she](/zh/post/she/) had offended [him](/zh/post/him/)."
 
 ## 同义词
-- [regret](/post/regret/)
+- [regret](/zh/post/regret/)
 - remorse
-- [excuse](/post/excuse/)
-- [expression](/post/expression/) [of](/post/of/) [regret](/post/regret/)
+- [excuse](/zh/post/excuse/)
+- [expression](/zh/post/expression/) [of](/zh/post/of/) [regret](/zh/post/regret/)
 - atonement

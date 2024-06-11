@@ -7,36 +7,36 @@ description = '[ˈaiˈiː] (=that is)那就是，即'
 keywords = ['ai words', 'i.e.']
 +++
 
-## [Word](/en/post/word/): i.e.
+## [Word](/post/word/): i.e.
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌaɪ.iː/
 
 ## Definitions
-**Abbreviation**: [The](/en/post/the/) abbreviation "i.e." stands [for](/en/post/for/) [the](/en/post/the/) Latin [phrase](/en/post/phrase/) "id est", [which](/en/post/which/) translates [to](/en/post/to/) "[that](/en/post/that/) is" [in](/en/post/in/) English. [It](/en/post/it/) is [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) clarification [or](/en/post/or/) [explanation](/en/post/explanation/) [of](/en/post/of/) [something](/en/post/something/) mentioned [previously](/en/post/previously/), [often](/en/post/often/) replacing [the](/en/post/the/) [phrase](/en/post/phrase/) "[in](/en/post/in/) [other](/en/post/other/) words".
+**Abbreviation**: [The](/post/the/) abbreviation "i.e." stands [for](/post/for/) [the](/post/the/) Latin [phrase](/post/phrase/) "id est", [which](/post/which/) translates [to](/post/to/) "[that](/post/that/) is" [in](/post/in/) English. [It](/post/it/) is [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) clarification [or](/post/or/) [explanation](/post/explanation/) [of](/post/of/) [something](/post/something/) mentioned [previously](/post/previously/), [often](/post/often/) replacing [the](/post/the/) [phrase](/post/phrase/) "[in](/post/in/) [other](/post/other/) words".
 
-- **[Conjunction](/en/post/conjunction/)**: [A](/en/post/a/) conjunctive adverbial [expression](/en/post/expression/) [that](/en/post/that/) introduces [a](/en/post/a/) restatement, [explanation](/en/post/explanation/), [or](/en/post/or/) specification. [For](/en/post/for/) [example](/en/post/example/): "I [like](/en/post/like/) [all](/en/post/all/) fruits, i.e., apples, bananas, [and](/en/post/and/) oranges."
+- **[Conjunction](/post/conjunction/)**: [A](/post/a/) conjunctive adverbial [expression](/post/expression/) [that](/post/that/) introduces [a](/post/a/) restatement, [explanation](/post/explanation/), [or](/post/or/) specification. [For](/post/for/) [example](/post/example/): "I [like](/post/like/) [all](/post/all/) fruits, i.e., apples, bananas, [and](/post/and/) oranges."
 
-## [Usage](/en/post/usage/)
-- "i.e." is typically [used](/en/post/used/) [within](/en/post/within/) parentheses [or](/en/post/or/) [set](/en/post/set/) [off](/en/post/off/) [by](/en/post/by/) commas [when](/en/post/when/) inserted [into](/en/post/into/) [a](/en/post/a/) [sentence](/en/post/sentence/) [to](/en/post/to/) [clarify](/en/post/clarify/) [or](/en/post/or/) [specify](/en/post/specify/).
+## [Usage](/post/usage/)
+- "i.e." is typically [used](/post/used/) [within](/post/within/) parentheses [or](/post/or/) [set](/post/set/) [off](/post/off/) [by](/post/by/) commas [when](/post/when/) inserted [into](/post/into/) [a](/post/a/) [sentence](/post/sentence/) [to](/post/to/) [clarify](/post/clarify/) [or](/post/or/) [specify](/post/specify/).
 
-## [Example](/en/post/example/) Sentences
-- "[She](/en/post/she/) [only](/en/post/only/) reads books [with](/en/post/with/) [happy](/en/post/happy/) endings, i.e., [those](/en/post/those/) [where](/en/post/where/) [the](/en/post/the/) protagonist achieves [their](/en/post/their/) [goal](/en/post/goal/) [and](/en/post/and/) finds [love](/en/post/love/)."
-- "[The](/en/post/the/) [best](/en/post/best/) [time](/en/post/time/) [to](/en/post/to/) [visit](/en/post/visit/) is [during](/en/post/during/) [the](/en/post/the/) off-season, i.e., [from](/en/post/from/) November [to](/en/post/to/) [March](/en/post/march/)."
+## [Example](/post/example/) Sentences
+- "[She](/post/she/) [only](/post/only/) reads books [with](/post/with/) [happy](/post/happy/) endings, i.e., [those](/post/those/) [where](/post/where/) [the](/post/the/) protagonist achieves [their](/post/their/) [goal](/post/goal/) [and](/post/and/) finds [love](/post/love/)."
+- "[The](/post/the/) [best](/post/best/) [time](/post/time/) [to](/post/to/) [visit](/post/visit/) is [during](/post/during/) [the](/post/the/) off-season, i.e., [from](/post/from/) November [to](/post/to/) [March](/post/march/)."
 
-## [Note](/en/post/note/) [on](/en/post/on/) [Usage](/en/post/usage/)
-It's [important](/en/post/important/) [not](/en/post/not/) [to](/en/post/to/) [confuse](/en/post/confuse/) "i.e." [with](/en/post/with/) [another](/en/post/another/) [similar](/en/post/similar/) Latin abbreviation, "e.g.", [which](/en/post/which/) stands [for](/en/post/for/) "exempli gratia" [meaning](/en/post/meaning/) "[for](/en/post/for/) [example](/en/post/example/)". [While](/en/post/while/) "i.e." is [used](/en/post/used/) [for](/en/post/for/) clarification [or](/en/post/or/) [to](/en/post/to/) [mean](/en/post/mean/) "[in](/en/post/in/) [other](/en/post/other/) words", "e.g." is [used](/en/post/used/) [to](/en/post/to/) [give](/en/post/give/) examples.
+## [Note](/post/note/) [on](/post/on/) [Usage](/post/usage/)
+It's [important](/post/important/) [not](/post/not/) [to](/post/to/) [confuse](/post/confuse/) "i.e." [with](/post/with/) [another](/post/another/) [similar](/post/similar/) Latin abbreviation, "e.g.", [which](/post/which/) stands [for](/post/for/) "exempli gratia" [meaning](/post/meaning/) "[for](/post/for/) [example](/post/example/)". [While](/post/while/) "i.e." is [used](/post/used/) [for](/post/for/) clarification [or](/post/or/) [to](/post/to/) [mean](/post/mean/) "[in](/post/in/) [other](/post/other/) words", "e.g." is [used](/post/used/) [to](/post/to/) [give](/post/give/) examples.
 
-## Synonyms ([in](/en/post/in/) context)
-- [That](/en/post/that/) is
-- [In](/en/post/in/) [other](/en/post/other/) words
-- [Namely](/en/post/namely/)
-- [To](/en/post/to/) [put](/en/post/put/) [it](/en/post/it/) differently
-- [To](/en/post/to/) [be](/en/post/be/) [precise](/en/post/precise/)
+## Synonyms ([in](/post/in/) context)
+- [That](/post/that/) is
+- [In](/post/in/) [other](/post/other/) words
+- [Namely](/post/namely/)
+- [To](/post/to/) [put](/post/put/) [it](/post/it/) differently
+- [To](/post/to/) [be](/post/be/) [precise](/post/precise/)
 
 ## Phrases
-- "[As](/en/post/as/) [in](/en/post/in/), i.e."
-- "[This](/en/post/this/) [means](/en/post/means/), i.e."
-- "[In](/en/post/in/) essence, i.e."
+- "[As](/post/as/) [in](/post/in/), i.e."
+- "[This](/post/this/) [means](/post/means/), i.e."
+- "[In](/post/in/) essence, i.e."
 
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) "i.e." is [not](/en/post/not/) [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [speech](/en/post/speech/) [like](/en/post/like/) [a](/en/post/a/) [noun](/en/post/noun/), [verb](/en/post/verb/), [or](/en/post/or/) [adverb](/en/post/adverb/); [rather](/en/post/rather/), [it](/en/post/it/) is [a](/en/post/a/) [conjunction](/en/post/conjunction/) [used](/en/post/used/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [grammatical](/en/post/grammatical/) context.
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) "i.e." is [not](/post/not/) [a](/post/a/) [part](/post/part/) [of](/post/of/) [speech](/post/speech/) [like](/post/like/) [a](/post/a/) [noun](/post/noun/), [verb](/post/verb/), [or](/post/or/) [adverb](/post/adverb/); [rather](/post/rather/), [it](/post/it/) is [a](/post/a/) [conjunction](/post/conjunction/) [used](/post/used/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [grammatical](/post/grammatical/) context.

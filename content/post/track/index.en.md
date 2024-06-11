@@ -7,49 +7,49 @@ description = '[træk] n.行踪；路径；轨道'
 keywords = ['ai words', 'track']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /træk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [path](/en/post/path/), [usually](/en/post/usually/) [on](/en/post/on/) [land](/en/post/land/), [that](/en/post/that/) has been worn [down](/en/post/down/) [by](/en/post/by/) [frequent](/en/post/frequent/) [use](/en/post/use/) [or](/en/post/or/) [travel](/en/post/travel/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is marked [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [railway](/en/post/railway/), hiking [trail](/en/post/trail/), [or](/en/post/or/) [ski](/en/post/ski/) [slope](/en/post/slope/). [Example](/en/post/example/): "[The](/en/post/the/) hikers followed [the](/en/post/the/) [deer](/en/post/deer/) [track](/en/post/track/) [through](/en/post/through/) [the](/en/post/the/) woods."
-2. [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) actions [or](/en/post/or/) events [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) traced [or](/en/post/or/) recorded, [often](/en/post/often/) [over](/en/post/over/) [time](/en/post/time/): "[The](/en/post/the/) athlete's [training](/en/post/training/) regimen was meticulously tracked."
-3. (Computing) [A](/en/post/a/) [record](/en/post/record/) [or](/en/post/or/) [list](/en/post/list/) [of](/en/post/of/) items, [such](/en/post/such/) [as](/en/post/as/) files [or](/en/post/or/) emails, [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [order](/en/post/order/): "[The](/en/post/the/) software keeps [a](/en/post/a/) [log](/en/post/log/) [of](/en/post/of/) [all](/en/post/all/) sent [and](/en/post/and/) received messages [in](/en/post/in/) [your](/en/post/your/) email [track](/en/post/track/)."
-4. [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [music](/en/post/music/) characterized [by](/en/post/by/) [a](/en/post/a/) [steady](/en/post/steady/) [beat](/en/post/beat/) [and](/en/post/and/) repetitive patterns, [often](/en/post/often/) [with](/en/post/with/) [electronic](/en/post/electronic/) elements: "[She](/en/post/she/) loves listening [to](/en/post/to/) hip-hop tracks [at](/en/post/at/) [the](/en/post/the/) gym."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [path](/post/path/), [usually](/post/usually/) [on](/post/on/) [land](/post/land/), [that](/post/that/) has been worn [down](/post/down/) [by](/post/by/) [frequent](/post/frequent/) [use](/post/use/) [or](/post/or/) [travel](/post/travel/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is marked [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [railway](/post/railway/), hiking [trail](/post/trail/), [or](/post/or/) [ski](/post/ski/) [slope](/post/slope/). [Example](/post/example/): "[The](/post/the/) hikers followed [the](/post/the/) [deer](/post/deer/) [track](/post/track/) [through](/post/through/) [the](/post/the/) woods."
+2. [A](/post/a/) [series](/post/series/) [of](/post/of/) actions [or](/post/or/) events [that](/post/that/) [can](/post/can/) [be](/post/be/) traced [or](/post/or/) recorded, [often](/post/often/) [over](/post/over/) [time](/post/time/): "[The](/post/the/) athlete's [training](/post/training/) regimen was meticulously tracked."
+3. (Computing) [A](/post/a/) [record](/post/record/) [or](/post/or/) [list](/post/list/) [of](/post/of/) items, [such](/post/such/) [as](/post/as/) files [or](/post/or/) emails, [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [order](/post/order/): "[The](/post/the/) software keeps [a](/post/a/) [log](/post/log/) [of](/post/of/) [all](/post/all/) sent [and](/post/and/) received messages [in](/post/in/) [your](/post/your/) email [track](/post/track/)."
+4. [A](/post/a/) [type](/post/type/) [of](/post/of/) [music](/post/music/) characterized [by](/post/by/) [a](/post/a/) [steady](/post/steady/) [beat](/post/beat/) [and](/post/and/) repetitive patterns, [often](/post/often/) [with](/post/with/) [electronic](/post/electronic/) elements: "[She](/post/she/) loves listening [to](/post/to/) hip-hop tracks [at](/post/at/) [the](/post/the/) gym."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [follow](/en/post/follow/) [or](/en/post/or/) [pursue](/en/post/pursue/) [the](/en/post/the/) [course](/en/post/course/) [or](/en/post/or/) [path](/en/post/path/) [of](/en/post/of/) [something](/en/post/something/): "[The](/en/post/the/) [police](/en/post/police/) tracked [down](/en/post/down/) [the](/en/post/the/) stolen [car](/en/post/car/)."
-2. [To](/en/post/to/) [monitor](/en/post/monitor/) [or](/en/post/or/) [trace](/en/post/trace/) [the](/en/post/the/) [movement](/en/post/movement/) [or](/en/post/or/) [progress](/en/post/progress/) [of](/en/post/of/) ([a](/en/post/a/) [person](/en/post/person/), [object](/en/post/object/), [or](/en/post/or/) [activity](/en/post/activity/)): "[They](/en/post/they/) tracked [the](/en/post/the/) suspect's movements [across](/en/post/across/) [the](/en/post/the/) [city](/en/post/city/)."
-3. (Computing) [To](/en/post/to/) [locate](/en/post/locate/) [or](/en/post/or/) retrieve [a](/en/post/a/) [specific](/en/post/specific/) [item](/en/post/item/) [in](/en/post/in/) [a](/en/post/a/) [digital](/en/post/digital/) [record](/en/post/record/): "Clicking [the](/en/post/the/) '[play](/en/post/play/)' [button](/en/post/button/) [will](/en/post/will/) [track](/en/post/track/) [the](/en/post/the/) audio [file](/en/post/file/) [from](/en/post/from/) [the](/en/post/the/) [beginning](/en/post/beginning/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [follow](/post/follow/) [or](/post/or/) [pursue](/post/pursue/) [the](/post/the/) [course](/post/course/) [or](/post/or/) [path](/post/path/) [of](/post/of/) [something](/post/something/): "[The](/post/the/) [police](/post/police/) tracked [down](/post/down/) [the](/post/the/) stolen [car](/post/car/)."
+2. [To](/post/to/) [monitor](/post/monitor/) [or](/post/or/) [trace](/post/trace/) [the](/post/the/) [movement](/post/movement/) [or](/post/or/) [progress](/post/progress/) [of](/post/of/) ([a](/post/a/) [person](/post/person/), [object](/post/object/), [or](/post/or/) [activity](/post/activity/)): "[They](/post/they/) tracked [the](/post/the/) suspect's movements [across](/post/across/) [the](/post/the/) [city](/post/city/)."
+3. (Computing) [To](/post/to/) [locate](/post/locate/) [or](/post/or/) retrieve [a](/post/a/) [specific](/post/specific/) [item](/post/item/) [in](/post/in/) [a](/post/a/) [digital](/post/digital/) [record](/post/record/): "Clicking [the](/post/the/) '[play](/post/play/)' [button](/post/button/) [will](/post/will/) [track](/post/track/) [the](/post/the/) audio [file](/post/file/) [from](/post/from/) [the](/post/the/) [beginning](/post/beginning/)."
 
-### [Adjective](/en/post/adjective/)
-1. [Concerning](/en/post/concerning/) [or](/en/post/or/) relating [to](/en/post/to/) [a](/en/post/a/) specified [course](/en/post/course/) [or](/en/post/or/) [route](/en/post/route/): "[The](/en/post/the/) GPS [provided](/en/post/provided/) [accurate](/en/post/accurate/) [track](/en/post/track/) [information](/en/post/information/)."
-2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) genre [or](/en/post/or/) [style](/en/post/style/) [of](/en/post/of/) [music](/en/post/music/): "[A](/en/post/a/) classic [rock](/en/post/rock/) [track](/en/post/track/) [with](/en/post/with/) catchy guitar riffs."
+### [Adjective](/post/adjective/)
+1. [Concerning](/post/concerning/) [or](/post/or/) relating [to](/post/to/) [a](/post/a/) specified [course](/post/course/) [or](/post/or/) [route](/post/route/): "[The](/post/the/) GPS [provided](/post/provided/) [accurate](/post/accurate/) [track](/post/track/) [information](/post/information/)."
+2. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) genre [or](/post/or/) [style](/post/style/) [of](/post/of/) [music](/post/music/): "[A](/post/a/) classic [rock](/post/rock/) [track](/post/track/) [with](/post/with/) catchy guitar riffs."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [track](/en/post/track/) [of](/en/post/of/)" [means](/en/post/means/) [to](/en/post/to/) [monitor](/en/post/monitor/) [or](/en/post/or/) [remember](/en/post/remember/) [the](/en/post/the/) details [of](/en/post/of/) [something](/en/post/something/).
-- "[Off](/en/post/off/) [the](/en/post/the/) [track](/en/post/track/)" refers [to](/en/post/to/) deviating [from](/en/post/from/) [a](/en/post/a/) [normal](/en/post/normal/) [path](/en/post/path/) [or](/en/post/or/) [routine](/en/post/routine/).
-- "[On](/en/post/on/) [track](/en/post/track/)" indicates [that](/en/post/that/) [something](/en/post/something/) is proceeding [as](/en/post/as/) planned [or](/en/post/or/) expected.
+- "[Keep](/post/keep/) [track](/post/track/) [of](/post/of/)" [means](/post/means/) [to](/post/to/) [monitor](/post/monitor/) [or](/post/or/) [remember](/post/remember/) [the](/post/the/) details [of](/post/of/) [something](/post/something/).
+- "[Off](/post/off/) [the](/post/the/) [track](/post/track/)" refers [to](/post/to/) deviating [from](/post/from/) [a](/post/a/) [normal](/post/normal/) [path](/post/path/) [or](/post/or/) [routine](/post/routine/).
+- "[On](/post/on/) [track](/post/track/)" indicates [that](/post/that/) [something](/post/something/) is proceeding [as](/post/as/) planned [or](/post/or/) expected.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children followed [the](/en/post/the/) winding footpath [through](/en/post/through/) [the](/en/post/the/) [forest](/en/post/forest/), [careful](/en/post/careful/) [not](/en/post/not/) [to](/en/post/to/) [lose](/en/post/lose/) [their](/en/post/their/) [way](/en/post/way/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) detective tracked [the](/en/post/the/) stolen painting's provenance [back](/en/post/back/) [to](/en/post/to/) an [art](/en/post/art/) [gallery](/en/post/gallery/) [in](/en/post/in/) Paris."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [new](/en/post/new/) album features [several](/en/post/several/) upbeat [dance](/en/post/dance/) [floor](/en/post/floor/) tracks."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children followed [the](/post/the/) winding footpath [through](/post/through/) [the](/post/the/) [forest](/post/forest/), [careful](/post/careful/) [not](/post/not/) [to](/post/to/) [lose](/post/lose/) [their](/post/their/) [way](/post/way/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) detective tracked [the](/post/the/) stolen painting's provenance [back](/post/back/) [to](/post/to/) an [art](/post/art/) [gallery](/post/gallery/) [in](/post/in/) Paris."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [new](/post/new/) album features [several](/post/several/) upbeat [dance](/post/dance/) [floor](/post/floor/) tracks."
 
 ## Synonyms
-- [Path](/en/post/path/)
-- [Course](/en/post/course/)
-- [Route](/en/post/route/)
-- [Line](/en/post/line/)
-- [Sequence](/en/post/sequence/)
-- [Record](/en/post/record/)
-- [Series](/en/post/series/)
-- [Log](/en/post/log/)
-- [Music](/en/post/music/) genre
+- [Path](/post/path/)
+- [Course](/post/course/)
+- [Route](/post/route/)
+- [Line](/post/line/)
+- [Sequence](/post/sequence/)
+- [Record](/post/record/)
+- [Series](/post/series/)
+- [Log](/post/log/)
+- [Music](/post/music/) genre
 - Footprint
-- [Pursuit](/en/post/pursuit/)
+- [Pursuit](/post/pursuit/)
 - Monitoring
-- [Trace](/en/post/trace/)
-- [Locate](/en/post/locate/)
-- [Musical](/en/post/musical/) [piece](/en/post/piece/)
-- [Style](/en/post/style/)
+- [Trace](/post/trace/)
+- [Locate](/post/locate/)
+- [Musical](/post/musical/) [piece](/post/piece/)
+- [Style](/post/style/)

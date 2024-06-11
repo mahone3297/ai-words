@@ -7,37 +7,37 @@ description = '[ˌintiˈlektjuəl] n.知识分子 a.智力的'
 keywords = ['ai words', 'intellectual']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɪntəˈlektʃuəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) possessing [a](/en/post/a/) [highly](/en/post/highly/) developed intellect; [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) uses [their](/en/post/their/) [mental](/en/post/mental/) capacities [for](/en/post/for/) [abstract](/en/post/abstract/) reasoning, [critical](/en/post/critical/) thinking, [and](/en/post/and/) creativity, [often](/en/post/often/) [in](/en/post/in/) [academic](/en/post/academic/) [or](/en/post/or/) [artistic](/en/post/artistic/) pursuits. [Example](/en/post/example/): "She's an [intellectual](/en/post/intellectual/) [who](/en/post/who/) has written [several](/en/post/several/) books [on](/en/post/on/) [philosophy](/en/post/philosophy/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [the](/en/post/the/) intellect [or](/en/post/or/) [intellectual](/en/post/intellectual/) activities, processes, [or](/en/post/or/) pursuits; characterized [by](/en/post/by/) [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/) [of](/en/post/of/) [mental](/en/post/mental/) [activity](/en/post/activity/) [or](/en/post/or/) [intelligence](/en/post/intelligence/). [Example](/en/post/example/): "[Intellectual](/en/post/intellectual/) [curiosity](/en/post/curiosity/) drove [him](/en/post/him/) [to](/en/post/to/) [read](/en/post/read/) extensively [on](/en/post/on/) [various](/en/post/various/) subjects."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) possessing [a](/post/a/) [highly](/post/highly/) developed intellect; [a](/post/a/) [person](/post/person/) [who](/post/who/) uses [their](/post/their/) [mental](/post/mental/) capacities [for](/post/for/) [abstract](/post/abstract/) reasoning, [critical](/post/critical/) thinking, [and](/post/and/) creativity, [often](/post/often/) [in](/post/in/) [academic](/post/academic/) [or](/post/or/) [artistic](/post/artistic/) pursuits. [Example](/post/example/): "She's an [intellectual](/post/intellectual/) [who](/post/who/) has written [several](/post/several/) books [on](/post/on/) [philosophy](/post/philosophy/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [the](/post/the/) intellect [or](/post/or/) [intellectual](/post/intellectual/) activities, processes, [or](/post/or/) pursuits; characterized [by](/post/by/) [a](/post/a/) [high](/post/high/) [degree](/post/degree/) [of](/post/of/) [mental](/post/mental/) [activity](/post/activity/) [or](/post/or/) [intelligence](/post/intelligence/). [Example](/post/example/): "[Intellectual](/post/intellectual/) [curiosity](/post/curiosity/) drove [him](/post/him/) [to](/post/to/) [read](/post/read/) extensively [on](/post/on/) [various](/post/various/) subjects."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- "[The](/en/post/the/) intellectuals gathered [for](/en/post/for/) [a](/en/post/a/) symposium [to](/en/post/to/) [discuss](/en/post/discuss/) [contemporary](/en/post/contemporary/) [art](/en/post/art/) movements."
-- "[He](/en/post/he/) was an [influential](/en/post/influential/) [intellectual](/en/post/intellectual/) [whose](/en/post/whose/) [work](/en/post/work/) challenged [traditional](/en/post/traditional/) [social](/en/post/social/) norms."
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- "[The](/post/the/) intellectuals gathered [for](/post/for/) [a](/post/a/) symposium [to](/post/to/) [discuss](/post/discuss/) [contemporary](/post/contemporary/) [art](/post/art/) movements."
+- "[He](/post/he/) was an [influential](/post/influential/) [intellectual](/post/intellectual/) [whose](/post/whose/) [work](/post/work/) challenged [traditional](/post/traditional/) [social](/post/social/) norms."
 
-### [Adjective](/en/post/adjective/) [Usage](/en/post/usage/) Examples
-- "[Her](/en/post/her/) [intellectual](/en/post/intellectual/) abilities [have](/en/post/have/) earned [her](/en/post/her/) [numerous](/en/post/numerous/) accolades [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/) [of](/en/post/of/) [science](/en/post/science/)."
-- "An [intellectual](/en/post/intellectual/) [discussion](/en/post/discussion/) [on](/en/post/on/) [the](/en/post/the/) [nature](/en/post/nature/) [of](/en/post/of/) [consciousness](/en/post/consciousness/) took [place](/en/post/place/) [during](/en/post/during/) [the](/en/post/the/) seminar."
+### [Adjective](/post/adjective/) [Usage](/post/usage/) Examples
+- "[Her](/post/her/) [intellectual](/post/intellectual/) abilities [have](/post/have/) earned [her](/post/her/) [numerous](/post/numerous/) accolades [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [science](/post/science/)."
+- "An [intellectual](/post/intellectual/) [discussion](/post/discussion/) [on](/post/on/) [the](/post/the/) [nature](/post/nature/) [of](/post/of/) [consciousness](/post/consciousness/) took [place](/post/place/) [during](/post/during/) [the](/post/the/) seminar."
 
 ## Phrases
-- "[Intellectual](/en/post/intellectual/) [property](/en/post/property/)": Refers [to](/en/post/to/) creations [of](/en/post/of/) [the](/en/post/the/) [mind](/en/post/mind/), [such](/en/post/such/) [as](/en/post/as/) inventions, [literary](/en/post/literary/) [and](/en/post/and/) [artistic](/en/post/artistic/) works, designs, [and](/en/post/and/) symbols, names, images, [and](/en/post/and/) trademarks [used](/en/post/used/) [in](/en/post/in/) [commerce](/en/post/commerce/).
-- "[Intellectual](/en/post/intellectual/) [capital](/en/post/capital/)": [The](/en/post/the/) [collective](/en/post/collective/) [knowledge](/en/post/knowledge/), skills, [and](/en/post/and/) [experience](/en/post/experience/) possessed [by](/en/post/by/) individuals [and](/en/post/and/) organizations, [which](/en/post/which/) [can](/en/post/can/) [be](/en/post/be/) leveraged [for](/en/post/for/) [economic](/en/post/economic/) [gain](/en/post/gain/) [or](/en/post/or/) competitive [advantage](/en/post/advantage/).
+- "[Intellectual](/post/intellectual/) [property](/post/property/)": Refers [to](/post/to/) creations [of](/post/of/) [the](/post/the/) [mind](/post/mind/), [such](/post/such/) [as](/post/as/) inventions, [literary](/post/literary/) [and](/post/and/) [artistic](/post/artistic/) works, designs, [and](/post/and/) symbols, names, images, [and](/post/and/) trademarks [used](/post/used/) [in](/post/in/) [commerce](/post/commerce/).
+- "[Intellectual](/post/intellectual/) [capital](/post/capital/)": [The](/post/the/) [collective](/post/collective/) [knowledge](/post/knowledge/), skills, [and](/post/and/) [experience](/post/experience/) possessed [by](/post/by/) individuals [and](/post/and/) organizations, [which](/post/which/) [can](/post/can/) [be](/post/be/) leveraged [for](/post/for/) [economic](/post/economic/) [gain](/post/gain/) [or](/post/or/) competitive [advantage](/post/advantage/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [university](/en/post/university/) attracts intellectuals [from](/en/post/from/) [all](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [world](/en/post/world/) [to](/en/post/to/) [its](/en/post/its/) [faculty](/en/post/faculty/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) possesses an [intellectual](/en/post/intellectual/) prowess [that](/en/post/that/) sets [her](/en/post/her/) [apart](/en/post/apart/) [from](/en/post/from/) [her](/en/post/her/) peers."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [university](/post/university/) attracts intellectuals [from](/post/from/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [world](/post/world/) [to](/post/to/) [its](/post/its/) [faculty](/post/faculty/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) possesses an [intellectual](/post/intellectual/) prowess [that](/post/that/) sets [her](/post/her/) [apart](/post/apart/) [from](/post/from/) [her](/post/her/) peers."
 
 ## Synonyms
-- [Scholar](/en/post/scholar/)
+- [Scholar](/post/scholar/)
 - Intellectualist
 - Thinker
-- [Philosopher](/en/post/philosopher/)
-- [Academic](/en/post/academic/)
+- [Philosopher](/post/philosopher/)
+- [Academic](/post/academic/)
 - Brainiac (informal)
-- [Genius](/en/post/genius/)
-- [Intellectual](/en/post/intellectual/) [capacity](/en/post/capacity/) ([adjective](/en/post/adjective/) synonym) 
-- Mentally astute ([adjective](/en/post/adjective/) synonym)
-- [Rational](/en/post/rational/) ([adjective](/en/post/adjective/) synonym)
+- [Genius](/post/genius/)
+- [Intellectual](/post/intellectual/) [capacity](/post/capacity/) ([adjective](/post/adjective/) synonym) 
+- Mentally astute ([adjective](/post/adjective/) synonym)
+- [Rational](/post/rational/) ([adjective](/post/adjective/) synonym)

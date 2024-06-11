@@ -7,46 +7,46 @@ description = '[prɔsˈperiti] n.繁荣；昌盛，兴旺'
 keywords = ['ai words', 'prosperity']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /proʊˈsperəti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[Prosperity](/en/post/prosperity/) refers [to](/en/post/to/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [wealth](/en/post/wealth/), [success](/en/post/success/), [or](/en/post/or/) well-being, [often](/en/post/often/) [in](/en/post/in/) [economic](/en/post/economic/) terms. [It](/en/post/it/) denotes [a](/en/post/a/) flourishing [condition](/en/post/condition/) characterized [by](/en/post/by/) [growth](/en/post/growth/), abundance, [and](/en/post/and/) [general](/en/post/general/) contentment.
+### [Noun](/post/noun/)
+[Prosperity](/post/prosperity/) refers [to](/post/to/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [wealth](/post/wealth/), [success](/post/success/), [or](/post/or/) well-being, [often](/post/often/) [in](/post/in/) [economic](/post/economic/) terms. [It](/post/it/) denotes [a](/post/a/) flourishing [condition](/post/condition/) characterized [by](/post/by/) [growth](/post/growth/), abundance, [and](/post/and/) [general](/post/general/) contentment.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) prosper [means](/en/post/means/) [to](/en/post/to/) [thrive](/en/post/thrive/), [succeed](/en/post/succeed/), [or](/en/post/or/) [experience](/en/post/experience/) [growth](/en/post/growth/) [in](/en/post/in/) [a](/en/post/a/) favorable [manner](/en/post/manner/), [both](/en/post/both/) financially [and](/en/post/and/) personally.
+### [Verb](/post/verb/)
+[To](/post/to/) prosper [means](/post/means/) [to](/post/to/) [thrive](/post/thrive/), [succeed](/post/succeed/), [or](/post/or/) [experience](/post/experience/) [growth](/post/growth/) [in](/post/in/) [a](/post/a/) favorable [manner](/post/manner/), [both](/post/both/) financially [and](/post/and/) personally.
 
 ## Phrases
-- "Strive [for](/en/post/for/) [prosperity](/en/post/prosperity/)"
-- "Enjoying [prosperity](/en/post/prosperity/)"
-- "[A](/en/post/a/) [prosperous](/en/post/prosperous/) [business](/en/post/business/)"
-- "[Prosperity](/en/post/prosperity/) is contagious"
+- "Strive [for](/post/for/) [prosperity](/post/prosperity/)"
+- "Enjoying [prosperity](/post/prosperity/)"
+- "[A](/post/a/) [prosperous](/post/prosperous/) [business](/post/business/)"
+- "[Prosperity](/post/prosperity/) is contagious"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [country](/en/post/country/) has experienced [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [great](/en/post/great/) [prosperity](/en/post/prosperity/) [after](/en/post/after/) implementing [economic](/en/post/economic/) reforms."
-- **[Verb](/en/post/verb/)**: "[Their](/en/post/their/) [hard](/en/post/hard/) [work](/en/post/work/) [eventually](/en/post/eventually/) led [to](/en/post/to/) [the](/en/post/the/) [prosperity](/en/post/prosperity/) [of](/en/post/of/) [their](/en/post/their/) [small](/en/post/small/) [farm](/en/post/farm/)."
-- **[Adjective](/en/post/adjective/)**: "[Many](/en/post/many/) families are [hopeful](/en/post/hopeful/) [for](/en/post/for/) [a](/en/post/a/) [prosperous](/en/post/prosperous/) [future](/en/post/future/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [country](/post/country/) has experienced [a](/post/a/) [period](/post/period/) [of](/post/of/) [great](/post/great/) [prosperity](/post/prosperity/) [after](/post/after/) implementing [economic](/post/economic/) reforms."
+- **[Verb](/post/verb/)**: "[Their](/post/their/) [hard](/post/hard/) [work](/post/work/) [eventually](/post/eventually/) led [to](/post/to/) [the](/post/the/) [prosperity](/post/prosperity/) [of](/post/of/) [their](/post/their/) [small](/post/small/) [farm](/post/farm/)."
+- **[Adjective](/post/adjective/)**: "[Many](/post/many/) families are [hopeful](/post/hopeful/) [for](/post/for/) [a](/post/a/) [prosperous](/post/prosperous/) [future](/post/future/)."
 
 ## Synonyms
-- [Prosperity](/en/post/prosperity/)
-- [Wealth](/en/post/wealth/)
+- [Prosperity](/post/prosperity/)
+- [Wealth](/post/wealth/)
 - Abundance
-- [Success](/en/post/success/)
+- [Success](/post/success/)
 - Thriving
 - Boom
-- [Growth](/en/post/growth/)
+- [Growth](/post/growth/)
 - Flourishing
 - Affluence
 - Fortunes
 
 ## Antonyms
-- [Poverty](/en/post/poverty/)
-- [Hardship](/en/post/hardship/)
+- [Poverty](/post/poverty/)
+- [Hardship](/post/hardship/)
 - Decline
-- [Struggle](/en/post/struggle/)
+- [Struggle](/post/struggle/)
 - Misery
-- [Famine](/en/post/famine/)
-- [Drought](/en/post/drought/)
-- [Want](/en/post/want/)
+- [Famine](/post/famine/)
+- [Drought](/post/drought/)
+- [Want](/post/want/)
 - Penury

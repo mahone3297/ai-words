@@ -7,35 +7,35 @@ description = '[əbˈzəːv] vt.遵守；看到；说'
 keywords = ['ai words', 'observe']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əbˈzɜːrv/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [watch](/en/post/watch/) [or](/en/post/or/) [perceive](/en/post/perceive/) attentively; [to](/en/post/to/) [notice](/en/post/notice/) [or](/en/post/or/) [detect](/en/post/detect/) [something](/en/post/something/) [through](/en/post/through/) one's senses, [especially](/en/post/especially/) [sight](/en/post/sight/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) scientists observed [the](/en/post/the/) [behavior](/en/post/behavior/) [of](/en/post/of/) [the](/en/post/the/) animals."
-  - _Also Verb_ ([legal](/en/post/legal/)): [To](/en/post/to/) comply [with](/en/post/with/) [or](/en/post/or/) abide [by](/en/post/by/) [a](/en/post/a/) [law](/en/post/law/), [rule](/en/post/rule/), [or](/en/post/or/) [agreement](/en/post/agreement/). [Example](/en/post/example/): "[All](/en/post/all/) participants [must](/en/post/must/) [observe](/en/post/observe/) [the](/en/post/the/) terms [of](/en/post/of/) [the](/en/post/the/) [contract](/en/post/contract/)."
-- **[Noun](/en/post/noun/) (n)**: An [act](/en/post/act/) [of](/en/post/of/) observing [or](/en/post/or/) watching; [a](/en/post/a/) [comment](/en/post/comment/) [or](/en/post/or/) assessment based [on](/en/post/on/) [what](/en/post/what/) [one](/en/post/one/) has seen, heard, [or](/en/post/or/) noticed. [Example](/en/post/example/): "[Her](/en/post/her/) observations were crucial [to](/en/post/to/) solving [the](/en/post/the/) [case](/en/post/case/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [watch](/post/watch/) [or](/post/or/) [perceive](/post/perceive/) attentively; [to](/post/to/) [notice](/post/notice/) [or](/post/or/) [detect](/post/detect/) [something](/post/something/) [through](/post/through/) one's senses, [especially](/post/especially/) [sight](/post/sight/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) scientists observed [the](/post/the/) [behavior](/post/behavior/) [of](/post/of/) [the](/post/the/) animals."
+  - _Also Verb_ ([legal](/post/legal/)): [To](/post/to/) comply [with](/post/with/) [or](/post/or/) abide [by](/post/by/) [a](/post/a/) [law](/post/law/), [rule](/post/rule/), [or](/post/or/) [agreement](/post/agreement/). [Example](/post/example/): "[All](/post/all/) participants [must](/post/must/) [observe](/post/observe/) [the](/post/the/) terms [of](/post/of/) [the](/post/the/) [contract](/post/contract/)."
+- **[Noun](/post/noun/) (n)**: An [act](/post/act/) [of](/post/of/) observing [or](/post/or/) watching; [a](/post/a/) [comment](/post/comment/) [or](/post/or/) assessment based [on](/post/on/) [what](/post/what/) [one](/post/one/) has seen, heard, [or](/post/or/) noticed. [Example](/post/example/): "[Her](/post/her/) observations were crucial [to](/post/to/) solving [the](/post/the/) [case](/post/case/)."
 
 ## Phrases
-- "[Make](/en/post/make/) an [observation](/en/post/observation/)" [means](/en/post/means/) [to](/en/post/to/) [notice](/en/post/notice/) [and](/en/post/and/) [point](/en/post/point/) [out](/en/post/out/) [something](/en/post/something/).
-- "[Keep](/en/post/keep/) [under](/en/post/under/) [observation](/en/post/observation/)" [means](/en/post/means/) [to](/en/post/to/) [monitor](/en/post/monitor/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) continuously.
-- "[Observation](/en/post/observation/) [deck](/en/post/deck/)" is [a](/en/post/a/) [platform](/en/post/platform/) [where](/en/post/where/) [people](/en/post/people/) [can](/en/post/can/) [safely](/en/post/safely/) [view](/en/post/view/) [a](/en/post/a/) [scene](/en/post/scene/), [often](/en/post/often/) [from](/en/post/from/) [a](/en/post/a/) [high](/en/post/high/) elevation [like](/en/post/like/) [in](/en/post/in/) [a](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) [stadium](/en/post/stadium/).
-- "[To](/en/post/to/) [observe](/en/post/observe/) [a](/en/post/a/) [moment](/en/post/moment/) [of](/en/post/of/) [silence](/en/post/silence/)" is [to](/en/post/to/) [remain](/en/post/remain/) [silent](/en/post/silent/) [for](/en/post/for/) [a](/en/post/a/) [period](/en/post/period/) [to](/en/post/to/) [show](/en/post/show/) [respect](/en/post/respect/) [or](/en/post/or/) remembrance.
+- "[Make](/post/make/) an [observation](/post/observation/)" [means](/post/means/) [to](/post/to/) [notice](/post/notice/) [and](/post/and/) [point](/post/point/) [out](/post/out/) [something](/post/something/).
+- "[Keep](/post/keep/) [under](/post/under/) [observation](/post/observation/)" [means](/post/means/) [to](/post/to/) [monitor](/post/monitor/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) continuously.
+- "[Observation](/post/observation/) [deck](/post/deck/)" is [a](/post/a/) [platform](/post/platform/) [where](/post/where/) [people](/post/people/) [can](/post/can/) [safely](/post/safely/) [view](/post/view/) [a](/post/a/) [scene](/post/scene/), [often](/post/often/) [from](/post/from/) [a](/post/a/) [high](/post/high/) elevation [like](/post/like/) [in](/post/in/) [a](/post/a/) [building](/post/building/) [or](/post/or/) [stadium](/post/stadium/).
+- "[To](/post/to/) [observe](/post/observe/) [a](/post/a/) [moment](/post/moment/) [of](/post/of/) [silence](/post/silence/)" is [to](/post/to/) [remain](/post/remain/) [silent](/post/silent/) [for](/post/for/) [a](/post/a/) [period](/post/period/) [to](/post/to/) [show](/post/show/) [respect](/post/respect/) [or](/post/or/) remembrance.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) astronomer carefully observed [the](/en/post/the/) stars [through](/en/post/through/) [his](/en/post/his/) [telescope](/en/post/telescope/)."
-- **[Noun](/en/post/noun/)**: "Based [on](/en/post/on/) [her](/en/post/her/) [careful](/en/post/careful/) observations, [the](/en/post/the/) botanist was [able](/en/post/able/) [to](/en/post/to/) [classify](/en/post/classify/) [the](/en/post/the/) [new](/en/post/new/) species."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) astronomer carefully observed [the](/post/the/) stars [through](/post/through/) [his](/post/his/) [telescope](/post/telescope/)."
+- **[Noun](/post/noun/)**: "Based [on](/post/on/) [her](/post/her/) [careful](/post/careful/) observations, [the](/post/the/) botanist was [able](/post/able/) [to](/post/to/) [classify](/post/classify/) [the](/post/the/) [new](/post/new/) species."
 
 ## Synonyms
-- [Watch](/en/post/watch/)
-- [Notice](/en/post/notice/)
-- [See](/en/post/see/)
-- [Witness](/en/post/witness/)
-- [Monitor](/en/post/monitor/)
-- [Observe](/en/post/observe/) attentively
-- [Inspect](/en/post/inspect/)
-- [Perceive](/en/post/perceive/)
-- [Detect](/en/post/detect/)
+- [Watch](/post/watch/)
+- [Notice](/post/notice/)
+- [See](/post/see/)
+- [Witness](/post/witness/)
+- [Monitor](/post/monitor/)
+- [Observe](/post/observe/) attentively
+- [Inspect](/post/inspect/)
+- [Perceive](/post/perceive/)
+- [Detect](/post/detect/)
 - Behold
-- [Remark](/en/post/remark/)
-- [Note](/en/post/note/)
-- Comply ([when](/en/post/when/) [used](/en/post/used/) [in](/en/post/in/) [a](/en/post/a/) [legal](/en/post/legal/) context)
+- [Remark](/post/remark/)
+- [Note](/post/note/)
+- Comply ([when](/post/when/) [used](/post/used/) [in](/post/in/) [a](/post/a/) [legal](/post/legal/) context)

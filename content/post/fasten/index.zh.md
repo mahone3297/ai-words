@@ -12,21 +12,21 @@ keywords = ['ai words', 'fasten']
 
 ## 释义
 - **动词**: 
-   - 将（某物）固定，系紧或扣住。例如: "[Please](/post/please/) [fasten](/post/fasten/) [your](/post/your/) [seat](/post/seat/) [belt](/post/belt/) [before](/post/before/) driving."
-   - 使紧密结合，加强。例如: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) [will](/post/will/) [fasten](/post/fasten/) [the](/post/the/) company's [position](/post/position/) [in](/post/in/) [the](/post/the/) [market](/post/market/)."
+   - 将（某物）固定，系紧或扣住。例如: "[Please](/zh/post/please/) [fasten](/zh/post/fasten/) [your](/zh/post/your/) [seat](/zh/post/seat/) [belt](/zh/post/belt/) [before](/zh/post/before/) driving."
+   - 使紧密结合，加强。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/) [will](/zh/post/will/) [fasten](/zh/post/fasten/) [the](/zh/post/the/) company's [position](/zh/post/position/) [in](/zh/post/in/) [the](/zh/post/the/) [market](/zh/post/market/)."
 
 ## 短语
-- "[Fasten](/post/fasten/) [something](/post/something/) [down](/post/down/)" 意为将某物牢固地固定在某个位置。
-- "[Fasten](/post/fasten/) [up](/post/up/)" 指将衣物的拉链、纽扣等扣好。
+- "[Fasten](/zh/post/fasten/) [something](/zh/post/something/) [down](/zh/post/down/)" 意为将某物牢固地固定在某个位置。
+- "[Fasten](/zh/post/fasten/) [up](/zh/post/up/)" 指将衣物的拉链、纽扣等扣好。
 
 ## 例句
-- "[Fasten](/post/fasten/) [the](/post/the/) [loose](/post/loose/) [rope](/post/rope/) securely [to](/post/to/) [the](/post/the/) [anchor](/post/anchor/) [point](/post/point/)."
-- "[Before](/post/before/) taking [off](/post/off/), [the](/post/the/) [pilot](/post/pilot/) reminded passengers [to](/post/to/) [fasten](/post/fasten/) [their](/post/their/) [seat](/post/seat/) belts."
-- "[She](/post/she/) fastened [the](/post/the/) [necklace](/post/necklace/) [around](/post/around/) [her](/post/her/) [neck](/post/neck/) [with](/post/with/) [a](/post/a/) [delicate](/post/delicate/) [clasp](/post/clasp/)."
+- "[Fasten](/zh/post/fasten/) [the](/zh/post/the/) [loose](/zh/post/loose/) [rope](/zh/post/rope/) securely [to](/zh/post/to/) [the](/zh/post/the/) [anchor](/zh/post/anchor/) [point](/zh/post/point/)."
+- "[Before](/zh/post/before/) taking [off](/zh/post/off/), [the](/zh/post/the/) [pilot](/zh/post/pilot/) reminded passengers [to](/zh/post/to/) [fasten](/zh/post/fasten/) [their](/zh/post/their/) [seat](/zh/post/seat/) belts."
+- "[She](/zh/post/she/) fastened [the](/zh/post/the/) [necklace](/zh/post/necklace/) [around](/zh/post/around/) [her](/zh/post/her/) [neck](/zh/post/neck/) [with](/zh/post/with/) [a](/zh/post/a/) [delicate](/zh/post/delicate/) [clasp](/zh/post/clasp/)."
 
 ## 同义词
-- [Secure](/post/secure/)
-- [Tie](/post/tie/)
-- [Attach](/post/attach/)
-- [Bind](/post/bind/)
-- [Knot](/post/knot/)
+- [Secure](/zh/post/secure/)
+- [Tie](/zh/post/tie/)
+- [Attach](/zh/post/attach/)
+- [Bind](/zh/post/bind/)
+- [Knot](/zh/post/knot/)

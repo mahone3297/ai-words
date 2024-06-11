@@ -11,20 +11,20 @@ keywords = ['ai words', 'precise']
 /prɪˈsaɪs/
 
 ## 释义
-- **形容词**: 精确的，准确的，清晰的。例如: "[The](/post/the/) instructions were [precise](/post/precise/), leaving [no](/post/no/) [room](/post/room/) [for](/post/for/) [confusion](/post/confusion/)."
-- **动词**: 使精确，明确。例如: "[She](/post/she/) needs [to](/post/to/) [precise](/post/precise/) [her](/post/her/) [argument](/post/argument/) [to](/post/to/) [make](/post/make/) [it](/post/it/) [more](/post/more/) convincing."
+- **形容词**: 精确的，准确的，清晰的。例如: "[The](/zh/post/the/) instructions were [precise](/zh/post/precise/), leaving [no](/zh/post/no/) [room](/zh/post/room/) [for](/zh/post/for/) [confusion](/zh/post/confusion/)."
+- **动词**: 使精确，明确。例如: "[She](/zh/post/she/) needs [to](/zh/post/to/) [precise](/zh/post/precise/) [her](/zh/post/her/) [argument](/zh/post/argument/) [to](/zh/post/to/) [make](/zh/post/make/) [it](/zh/post/it/) [more](/zh/post/more/) convincing."
 
 ## 短语
-- "[precise](/post/precise/) measurements" 意为精确的测量。
-- "precisely [the](/post/the/) [same](/post/same/)" 意思是完全相同，没有差别。
+- "[precise](/zh/post/precise/) measurements" 意为精确的测量。
+- "precisely [the](/zh/post/the/) [same](/zh/post/same/)" 意思是完全相同，没有差别。
 
 ## 例句
-- 形容词: "[The](/post/the/) [scientist](/post/scientist/) required [precise](/post/precise/) instruments [for](/post/for/) [his](/post/his/) experiments."
-- 动词: "[Can](/post/can/) [you](/post/you/) [please](/post/please/) [precise](/post/precise/) [your](/post/your/) [answer](/post/answer/) [so](/post/so/) I [can](/post/can/) [understand](/post/understand/) [better](/post/better/)?"
+- 形容词: "[The](/zh/post/the/) [scientist](/zh/post/scientist/) required [precise](/zh/post/precise/) instruments [for](/zh/post/for/) [his](/zh/post/his/) experiments."
+- 动词: "[Can](/zh/post/can/) [you](/zh/post/you/) [please](/zh/post/please/) [precise](/zh/post/precise/) [your](/zh/post/your/) [answer](/zh/post/answer/) [so](/zh/post/so/) I [can](/zh/post/can/) [understand](/zh/post/understand/) [better](/zh/post/better/)?"
 
 ## 同义词
-- [exact](/post/exact/)
-- [accurate](/post/accurate/)
+- [exact](/zh/post/exact/)
+- [accurate](/zh/post/accurate/)
 - exacting
 - meticulous
-- [particular](/post/particular/)
+- [particular](/zh/post/particular/)

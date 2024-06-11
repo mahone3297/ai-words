@@ -7,30 +7,30 @@ description = '[ˈæfrikə] n.非洲'
 keywords = ['ai words', 'africa']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæfrɪkə/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [continent](/en/post/continent/) located [in](/en/post/in/) [the](/en/post/the/) [western](/en/post/western/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [Eastern](/en/post/eastern/) Hemisphere, [south](/en/post/south/) [of](/en/post/of/) Europe, [west](/en/post/west/) [of](/en/post/of/) [Asia](/en/post/asia/), [and](/en/post/and/) surrounded [by](/en/post/by/) [the](/en/post/the/) [Atlantic](/en/post/atlantic/) [Ocean](/en/post/ocean/) [to](/en/post/to/) [the](/en/post/the/) [west](/en/post/west/) [and](/en/post/and/) [the](/en/post/the/) Indian [Ocean](/en/post/ocean/) [to](/en/post/to/) [the](/en/post/the/) [east](/en/post/east/). [It](/en/post/it/) is [the](/en/post/the/) [second](/en/post/second/) largest [continent](/en/post/continent/) [in](/en/post/in/) [both](/en/post/both/) [area](/en/post/area/) [and](/en/post/and/) [population](/en/post/population/). [1]
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [Africa](/en/post/africa/); [African](/en/post/african/). [2]
+- **[Noun](/post/noun/)**: [A](/post/a/) [continent](/post/continent/) located [in](/post/in/) [the](/post/the/) [western](/post/western/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [Eastern](/post/eastern/) Hemisphere, [south](/post/south/) [of](/post/of/) Europe, [west](/post/west/) [of](/post/of/) [Asia](/post/asia/), [and](/post/and/) surrounded [by](/post/by/) [the](/post/the/) [Atlantic](/post/atlantic/) [Ocean](/post/ocean/) [to](/post/to/) [the](/post/the/) [west](/post/west/) [and](/post/and/) [the](/post/the/) Indian [Ocean](/post/ocean/) [to](/post/to/) [the](/post/the/) [east](/post/east/). [It](/post/it/) is [the](/post/the/) [second](/post/second/) largest [continent](/post/continent/) [in](/post/in/) [both](/post/both/) [area](/post/area/) [and](/post/and/) [population](/post/population/). [1]
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [Africa](/post/africa/); [African](/post/african/). [2]
 
 ## Phrases
-- "Africa's wildlife" refers [to](/en/post/to/) [the](/en/post/the/) [diverse](/en/post/diverse/) [range](/en/post/range/) [of](/en/post/of/) animals [found](/en/post/found/) [on](/en/post/on/) [the](/en/post/the/) [continent](/en/post/continent/).
-- "[African](/en/post/african/) [culture](/en/post/culture/)" encompasses [the](/en/post/the/) [rich](/en/post/rich/) traditions, languages, [and](/en/post/and/) customs [of](/en/post/of/) [various](/en/post/various/) [African](/en/post/african/) nations.
-- "[The](/en/post/the/) [Dark](/en/post/dark/) [Continent](/en/post/continent/)" is [a](/en/post/a/) [historical](/en/post/historical/) [term](/en/post/term/) [sometimes](/en/post/sometimes/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [Africa](/en/post/africa/), [particularly](/en/post/particularly/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [its](/en/post/its/) underdevelopment [and](/en/post/and/) colonial [past](/en/post/past/).
+- "Africa's wildlife" refers [to](/post/to/) [the](/post/the/) [diverse](/post/diverse/) [range](/post/range/) [of](/post/of/) animals [found](/post/found/) [on](/post/on/) [the](/post/the/) [continent](/post/continent/).
+- "[African](/post/african/) [culture](/post/culture/)" encompasses [the](/post/the/) [rich](/post/rich/) traditions, languages, [and](/post/and/) customs [of](/post/of/) [various](/post/various/) [African](/post/african/) nations.
+- "[The](/post/the/) [Dark](/post/dark/) [Continent](/post/continent/)" is [a](/post/a/) [historical](/post/historical/) [term](/post/term/) [sometimes](/post/sometimes/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [Africa](/post/africa/), [particularly](/post/particularly/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) [its](/post/its/) underdevelopment [and](/post/and/) colonial [past](/post/past/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Africa](/en/post/africa/) is [home](/en/post/home/) [to](/en/post/to/) [the](/en/post/the/) [Great](/en/post/great/) [Barrier](/en/post/barrier/) Reef, [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) world's [most](/en/post/most/) biodiverse ecosystems."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [African](/en/post/african/) [sunset](/en/post/sunset/) painted [the](/en/post/the/) [sky](/en/post/sky/) [with](/en/post/with/) [a](/en/post/a/) vibrant array [of](/en/post/of/) colors."
-- "[She](/en/post/she/) decided [to](/en/post/to/) volunteer [in](/en/post/in/) an [African](/en/post/african/) [village](/en/post/village/) [to](/en/post/to/) [gain](/en/post/gain/) firsthand [experience](/en/post/experience/) [of](/en/post/of/) [the](/en/post/the/) [local](/en/post/local/) [culture](/en/post/culture/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Africa](/post/africa/) is [home](/post/home/) [to](/post/to/) [the](/post/the/) [Great](/post/great/) [Barrier](/post/barrier/) Reef, [one](/post/one/) [of](/post/of/) [the](/post/the/) world's [most](/post/most/) biodiverse ecosystems."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [African](/post/african/) [sunset](/post/sunset/) painted [the](/post/the/) [sky](/post/sky/) [with](/post/with/) [a](/post/a/) vibrant array [of](/post/of/) colors."
+- "[She](/post/she/) decided [to](/post/to/) volunteer [in](/post/in/) an [African](/post/african/) [village](/post/village/) [to](/post/to/) [gain](/post/gain/) firsthand [experience](/post/experience/) [of](/post/of/) [the](/post/the/) [local](/post/local/) [culture](/post/culture/)."
 
 ## Synonyms
 - Sub-Saharan
-- [Black](/en/post/black/)
+- [Black](/post/black/)
 - Pan-African
 - Afro
-- [The](/en/post/the/) Bantu
+- [The](/post/the/) Bantu
 
 ## References
-1. <https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[Africa](/en/post/africa/)>
-2. <https://www.oxfordlearnersdictionaries.com/[us](/en/post/us/)/[definition](/en/post/definition/)/english/[african](/en/post/african/)>
+1. <https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[Africa](/post/africa/)>
+2. <https://www.oxfordlearnersdictionaries.com/[us](/post/us/)/[definition](/post/definition/)/english/[african](/post/african/)>

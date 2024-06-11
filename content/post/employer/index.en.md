@@ -7,33 +7,33 @@ description = '[imˈplɔiə] n.雇佣者，雇主'
 keywords = ['ai words', 'employer']
 +++
 
-## [Word](/en/post/word/): [Employer](/en/post/employer/)
+## [Word](/post/word/): [Employer](/post/employer/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪmˈplɔɪər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [organization](/en/post/organization/) [that](/en/post/that/) hires employees [and](/en/post/and/) pays [them](/en/post/them/) [for](/en/post/for/) [their](/en/post/their/) [work](/en/post/work/) [or](/en/post/or/) services. [The](/en/post/the/) [employer](/en/post/employer/) has [control](/en/post/control/) [over](/en/post/over/) [the](/en/post/the/) working conditions [and](/en/post/and/) [can](/en/post/can/) [assign](/en/post/assign/) tasks [to](/en/post/to/) [be](/en/post/be/) completed [by](/en/post/by/) [the](/en/post/the/) [employee](/en/post/employee/).
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [organization](/post/organization/) [that](/post/that/) hires employees [and](/post/and/) pays [them](/post/them/) [for](/post/for/) [their](/post/their/) [work](/post/work/) [or](/post/or/) services. [The](/post/the/) [employer](/post/employer/) has [control](/post/control/) [over](/post/over/) [the](/post/the/) working conditions [and](/post/and/) [can](/post/can/) [assign](/post/assign/) tasks [to](/post/to/) [be](/post/be/) completed [by](/post/by/) [the](/post/the/) [employee](/post/employee/).
 
 ### Examples
-- *[Noun](/en/post/noun/)*: [After](/en/post/after/) graduating, Jane secured [a](/en/post/a/) [job](/en/post/job/) [with](/en/post/with/) [a](/en/post/a/) reputable [employer](/en/post/employer/) [in](/en/post/in/) [the](/en/post/the/) tech [industry](/en/post/industry/).
-- "[The](/en/post/the/) [company](/en/post/company/) is considered [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [best](/en/post/best/) employers [in](/en/post/in/) [the](/en/post/the/) [region](/en/post/region/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [employee](/en/post/employee/) benefits [and](/en/post/and/) work-life [balance](/en/post/balance/)."
+- *[Noun](/post/noun/)*: [After](/post/after/) graduating, Jane secured [a](/post/a/) [job](/post/job/) [with](/post/with/) [a](/post/a/) reputable [employer](/post/employer/) [in](/post/in/) [the](/post/the/) tech [industry](/post/industry/).
+- "[The](/post/the/) [company](/post/company/) is considered [one](/post/one/) [of](/post/of/) [the](/post/the/) [best](/post/best/) employers [in](/post/in/) [the](/post/the/) [region](/post/region/) [due](/post/due/) [to](/post/to/) [its](/post/its/) [employee](/post/employee/) benefits [and](/post/and/) work-life [balance](/post/balance/)."
   
 Phrases
-- **Employer-employee [relationship](/en/post/relationship/)**: [The](/en/post/the/) [legal](/en/post/legal/) [and](/en/post/and/) [practical](/en/post/practical/) [relationship](/en/post/relationship/) [between](/en/post/between/) [a](/en/post/a/) [worker](/en/post/worker/) [and](/en/post/and/) [the](/en/post/the/) [individual](/en/post/individual/) [or](/en/post/or/) [organization](/en/post/organization/) [that](/en/post/that/) hires [them](/en/post/them/).
-- **[At](/en/post/at/) [the](/en/post/the/) employer's discretion**: [This](/en/post/this/) [phrase](/en/post/phrase/) indicates [that](/en/post/that/) [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [action](/en/post/action/) is [left](/en/post/left/) [up](/en/post/up/) [to](/en/post/to/) [the](/en/post/the/) [employer](/en/post/employer/) [to](/en/post/to/) [decide](/en/post/decide/).
-- **[Work](/en/post/work/) [for](/en/post/for/) an [employer](/en/post/employer/)**: [To](/en/post/to/) [be](/en/post/be/) hired [and](/en/post/and/) paid [by](/en/post/by/) [someone](/en/post/someone/) [or](/en/post/or/) [a](/en/post/a/) [company](/en/post/company/) [to](/en/post/to/) [do](/en/post/do/) [a](/en/post/a/) [job](/en/post/job/).
+- **Employer-employee [relationship](/post/relationship/)**: [The](/post/the/) [legal](/post/legal/) [and](/post/and/) [practical](/post/practical/) [relationship](/post/relationship/) [between](/post/between/) [a](/post/a/) [worker](/post/worker/) [and](/post/and/) [the](/post/the/) [individual](/post/individual/) [or](/post/or/) [organization](/post/organization/) [that](/post/that/) hires [them](/post/them/).
+- **[At](/post/at/) [the](/post/the/) employer's discretion**: [This](/post/this/) [phrase](/post/phrase/) indicates [that](/post/that/) [a](/post/a/) [decision](/post/decision/) [or](/post/or/) [action](/post/action/) is [left](/post/left/) [up](/post/up/) [to](/post/to/) [the](/post/the/) [employer](/post/employer/) [to](/post/to/) [decide](/post/decide/).
+- **[Work](/post/work/) [for](/post/for/) an [employer](/post/employer/)**: [To](/post/to/) [be](/post/be/) hired [and](/post/and/) paid [by](/post/by/) [someone](/post/someone/) [or](/post/or/) [a](/post/a/) [company](/post/company/) [to](/post/to/) [do](/post/do/) [a](/post/a/) [job](/post/job/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [new](/en/post/new/) [health](/en/post/health/) [policy](/en/post/policy/) was implemented [by](/en/post/by/) [the](/en/post/the/) [employer](/en/post/employer/) [to](/en/post/to/) [promote](/en/post/promote/) wellbeing [among](/en/post/among/) [its](/en/post/its/) workforce.
-- "[As](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [her](/en/post/her/) [job](/en/post/job/) [interview](/en/post/interview/), [she](/en/post/she/) had [to](/en/post/to/) [present](/en/post/present/) [her](/en/post/her/) [previous](/en/post/previous/) [experience](/en/post/experience/) [to](/en/post/to/) [the](/en/post/the/) [potential](/en/post/potential/) [employer](/en/post/employer/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [new](/post/new/) [health](/post/health/) [policy](/post/policy/) was implemented [by](/post/by/) [the](/post/the/) [employer](/post/employer/) [to](/post/to/) [promote](/post/promote/) wellbeing [among](/post/among/) [its](/post/its/) workforce.
+- "[As](/post/as/) [part](/post/part/) [of](/post/of/) [her](/post/her/) [job](/post/job/) [interview](/post/interview/), [she](/post/she/) had [to](/post/to/) [present](/post/present/) [her](/post/her/) [previous](/post/previous/) [experience](/post/experience/) [to](/post/to/) [the](/post/the/) [potential](/post/potential/) [employer](/post/employer/)."
 
 ## Synonyms
-- [Boss](/en/post/boss/)
+- [Boss](/post/boss/)
 - Hiring Manager
-- [Company](/en/post/company/)
-- [Firm](/en/post/firm/)
-- [Organization](/en/post/organization/)
-- [Business](/en/post/business/) [Owner](/en/post/owner/)
-- [Superior](/en/post/superior/)
-- [Management](/en/post/management/)
+- [Company](/post/company/)
+- [Firm](/post/firm/)
+- [Organization](/post/organization/)
+- [Business](/post/business/) [Owner](/post/owner/)
+- [Superior](/post/superior/)
+- [Management](/post/management/)

@@ -7,25 +7,25 @@ description = '[ˈkiləgræm] n.千克，公斤'
 keywords = ['ai words', 'kilogram']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkɪləɡræm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [base](/en/post/base/) [unit](/en/post/unit/) [of](/en/post/of/) [mass](/en/post/mass/) [in](/en/post/in/) [the](/en/post/the/) [International](/en/post/international/) [System](/en/post/system/) [of](/en/post/of/) Units (SI), defined [as](/en/post/as/) [being](/en/post/being/) [equal](/en/post/equal/) [to](/en/post/to/) [the](/en/post/the/) [mass](/en/post/mass/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [international](/en/post/international/) prototype made [of](/en/post/of/) platinum-iridium [alloy](/en/post/alloy/), [approximately](/en/post/approximately/) [equivalent](/en/post/equivalent/) [to](/en/post/to/) [the](/en/post/the/) [mass](/en/post/mass/) [of](/en/post/of/) [one](/en/post/one/) [liter](/en/post/liter/) [of](/en/post/of/) [water](/en/post/water/) [at](/en/post/at/) [its](/en/post/its/) freezing [point](/en/post/point/) [under](/en/post/under/) [standard](/en/post/standard/) [atmospheric](/en/post/atmospheric/) [pressure](/en/post/pressure/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weight](/en/post/weight/) [of](/en/post/of/) [that](/en/post/that/) [bag](/en/post/bag/) [of](/en/post/of/) [sugar](/en/post/sugar/) is 2 kilograms."
+- **[Noun](/post/noun/)**: [The](/post/the/) [base](/post/base/) [unit](/post/unit/) [of](/post/of/) [mass](/post/mass/) [in](/post/in/) [the](/post/the/) [International](/post/international/) [System](/post/system/) [of](/post/of/) Units (SI), defined [as](/post/as/) [being](/post/being/) [equal](/post/equal/) [to](/post/to/) [the](/post/the/) [mass](/post/mass/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [international](/post/international/) prototype made [of](/post/of/) platinum-iridium [alloy](/post/alloy/), [approximately](/post/approximately/) [equivalent](/post/equivalent/) [to](/post/to/) [the](/post/the/) [mass](/post/mass/) [of](/post/of/) [one](/post/one/) [liter](/post/liter/) [of](/post/of/) [water](/post/water/) [at](/post/at/) [its](/post/its/) freezing [point](/post/point/) [under](/post/under/) [standard](/post/standard/) [atmospheric](/post/atmospheric/) [pressure](/post/pressure/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weight](/post/weight/) [of](/post/of/) [that](/post/that/) [bag](/post/bag/) [of](/post/of/) [sugar](/post/sugar/) is 2 kilograms."
 
 ## Phrases
-- "[A](/en/post/a/) [kilogram](/en/post/kilogram/) [of](/en/post/of/) apples" - Refers [to](/en/post/to/) [a](/en/post/a/) [quantity](/en/post/quantity/) [of](/en/post/of/) apples weighing [one](/en/post/one/) [kilogram](/en/post/kilogram/).
-- "[Lose](/en/post/lose/) kilograms" - [To](/en/post/to/) [reduce](/en/post/reduce/) [body](/en/post/body/) [weight](/en/post/weight/) [by](/en/post/by/) specified amounts [in](/en/post/in/) kilograms.
-- "[The](/en/post/the/) [kilogram](/en/post/kilogram/) is [the](/en/post/the/) [fundamental](/en/post/fundamental/) [unit](/en/post/unit/) [of](/en/post/of/) [mass](/en/post/mass/)" - Stating [the](/en/post/the/) [scientific](/en/post/scientific/) [definition](/en/post/definition/) [and](/en/post/and/) [importance](/en/post/importance/) [of](/en/post/of/) [the](/en/post/the/) [kilogram](/en/post/kilogram/) [in](/en/post/in/) [measurement](/en/post/measurement/) systems.
+- "[A](/post/a/) [kilogram](/post/kilogram/) [of](/post/of/) apples" - Refers [to](/post/to/) [a](/post/a/) [quantity](/post/quantity/) [of](/post/of/) apples weighing [one](/post/one/) [kilogram](/post/kilogram/).
+- "[Lose](/post/lose/) kilograms" - [To](/post/to/) [reduce](/post/reduce/) [body](/post/body/) [weight](/post/weight/) [by](/post/by/) specified amounts [in](/post/in/) kilograms.
+- "[The](/post/the/) [kilogram](/post/kilogram/) is [the](/post/the/) [fundamental](/post/fundamental/) [unit](/post/unit/) [of](/post/of/) [mass](/post/mass/)" - Stating [the](/post/the/) [scientific](/post/scientific/) [definition](/post/definition/) [and](/post/and/) [importance](/post/importance/) [of](/post/of/) [the](/post/the/) [kilogram](/post/kilogram/) [in](/post/in/) [measurement](/post/measurement/) systems.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) newborn [baby](/en/post/baby/) weighed [just](/en/post/just/) [over](/en/post/over/) [three](/en/post/three/) kilograms [at](/en/post/at/) [birth](/en/post/birth/)."
-- "[She](/en/post/she/) decided [to](/en/post/to/) [buy](/en/post/buy/) [five](/en/post/five/) kilograms [of](/en/post/of/) potatoes [for](/en/post/for/) [the](/en/post/the/) weekend's cooking."
-- "[After](/en/post/after/) [his](/en/post/his/) workout [routine](/en/post/routine/), [he](/en/post/he/) managed [to](/en/post/to/) [lose](/en/post/lose/) [two](/en/post/two/) kilograms [in](/en/post/in/) [a](/en/post/a/) [month](/en/post/month/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) newborn [baby](/post/baby/) weighed [just](/post/just/) [over](/post/over/) [three](/post/three/) kilograms [at](/post/at/) [birth](/post/birth/)."
+- "[She](/post/she/) decided [to](/post/to/) [buy](/post/buy/) [five](/post/five/) kilograms [of](/post/of/) potatoes [for](/post/for/) [the](/post/the/) weekend's cooking."
+- "[After](/post/after/) [his](/post/his/) workout [routine](/post/routine/), [he](/post/he/) managed [to](/post/to/) [lose](/post/lose/) [two](/post/two/) kilograms [in](/post/in/) [a](/post/a/) [month](/post/month/)."
 
 ## Synonyms
 - Kg (abbreviation)
 - Kilo (informal)
-- [One](/en/post/one/) [thousand](/en/post/thousand/) grams
+- [One](/post/one/) [thousand](/post/thousand/) grams
 
-[Note](/en/post/note/): [Kilogram](/en/post/kilogram/) does [not](/en/post/not/) [have](/en/post/have/) [verb](/en/post/verb/) [or](/en/post/or/) [other](/en/post/other/) part-of-speech usages [commonly](/en/post/commonly/) [found](/en/post/found/) [in](/en/post/in/) [everyday](/en/post/everyday/) [language](/en/post/language/). [It](/en/post/it/) is [primarily](/en/post/primarily/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/) [for](/en/post/for/) [mass](/en/post/mass/) [or](/en/post/or/) [weight](/en/post/weight/).
+[Note](/post/note/): [Kilogram](/post/kilogram/) does [not](/post/not/) [have](/post/have/) [verb](/post/verb/) [or](/post/or/) [other](/post/other/) part-of-speech usages [commonly](/post/commonly/) [found](/post/found/) [in](/post/in/) [everyday](/post/everyday/) [language](/post/language/). [It](/post/it/) is [primarily](/post/primarily/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/) [for](/post/for/) [mass](/post/mass/) [or](/post/or/) [weight](/post/weight/).

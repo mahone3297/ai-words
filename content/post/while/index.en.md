@@ -7,30 +7,30 @@ description = '[(h)wail] conj.当…的时候；而'
 keywords = ['ai words', 'while']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɪl/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Expressing [duration](/en/post/duration/) [or](/en/post/or/) [condition](/en/post/condition/) [during](/en/post/during/) [which](/en/post/which/) [something](/en/post/something/) occurs; typically [used](/en/post/used/) [with](/en/post/with/) '[while](/en/post/while/)' [in](/en/post/in/) clauses [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) an [action](/en/post/action/) takes [place](/en/post/place/) [during](/en/post/during/) [another](/en/post/another/) [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "I'll [wait](/en/post/wait/) [here](/en/post/here/) [while](/en/post/while/) [you](/en/post/you/) [finish](/en/post/finish/) [your](/en/post/your/) [work](/en/post/work/)."
-- **[Preposition](/en/post/preposition/)**: [In](/en/post/in/) [some](/en/post/some/) cases, [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) clause [that](/en/post/that/) contrasts [with](/en/post/with/) [the](/en/post/the/) [main](/en/post/main/) clause, [often](/en/post/often/) indicating [a](/en/post/a/) concurrent [or](/en/post/or/) contrasting [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[While](/en/post/while/) [he](/en/post/he/) was sleeping, [she](/en/post/she/) studied [for](/en/post/for/) [her](/en/post/her/) [exam](/en/post/exam/)."
+- **[Adverb](/post/adverb/)**: Expressing [duration](/post/duration/) [or](/post/or/) [condition](/post/condition/) [during](/post/during/) [which](/post/which/) [something](/post/something/) occurs; typically [used](/post/used/) [with](/post/with/) '[while](/post/while/)' [in](/post/in/) clauses [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) an [action](/post/action/) takes [place](/post/place/) [during](/post/during/) [another](/post/another/) [action](/post/action/). [For](/post/for/) [example](/post/example/): "I'll [wait](/post/wait/) [here](/post/here/) [while](/post/while/) [you](/post/you/) [finish](/post/finish/) [your](/post/your/) [work](/post/work/)."
+- **[Preposition](/post/preposition/)**: [In](/post/in/) [some](/post/some/) cases, [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) clause [that](/post/that/) contrasts [with](/post/with/) [the](/post/the/) [main](/post/main/) clause, [often](/post/often/) indicating [a](/post/a/) concurrent [or](/post/or/) contrasting [action](/post/action/). [For](/post/for/) [example](/post/example/): "[While](/post/while/) [he](/post/he/) was sleeping, [she](/post/she/) studied [for](/post/for/) [her](/post/her/) [exam](/post/exam/)."
 
 ## Phrases
-- "[While](/en/post/while/) I was cooking, [the](/en/post/the/) [phone](/en/post/phone/) rang."
-- "[While](/en/post/while/) you're [away](/en/post/away/), I'll [take](/en/post/take/) [care](/en/post/care/) [of](/en/post/of/) [the](/en/post/the/) pets."
-- "[While](/en/post/while/) [the](/en/post/the/) others were celebrating, [she](/en/post/she/) remained [quiet](/en/post/quiet/)."
+- "[While](/post/while/) I was cooking, [the](/post/the/) [phone](/post/phone/) rang."
+- "[While](/post/while/) you're [away](/post/away/), I'll [take](/post/take/) [care](/post/care/) [of](/post/of/) [the](/post/the/) pets."
+- "[While](/post/while/) [the](/post/the/) others were celebrating, [she](/post/she/) remained [quiet](/post/quiet/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[While](/en/post/while/) [we](/en/post/we/) were walking [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/), [it](/en/post/it/) started raining."
-- **[Preposition](/en/post/preposition/)**: "[While](/en/post/while/) [he](/en/post/he/) was [busy](/en/post/busy/), [his](/en/post/his/) friends came [over](/en/post/over/) unannounced."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[While](/post/while/) [we](/post/we/) were walking [in](/post/in/) [the](/post/the/) [park](/post/park/), [it](/post/it/) started raining."
+- **[Preposition](/post/preposition/)**: "[While](/post/while/) [he](/post/he/) was [busy](/post/busy/), [his](/post/his/) friends came [over](/post/over/) unannounced."
 
 ## Synonyms
 - Concurrently
-- [At](/en/post/at/) [the](/en/post/the/) [same](/en/post/same/) [time](/en/post/time/)
-- [In](/en/post/in/) [the](/en/post/the/) [meantime](/en/post/meantime/)
-- [During](/en/post/during/) [that](/en/post/that/) [time](/en/post/time/)
-- [In](/en/post/in/) [the](/en/post/the/) [process](/en/post/process/)
+- [At](/post/at/) [the](/post/the/) [same](/post/same/) [time](/post/time/)
+- [In](/post/in/) [the](/post/the/) [meantime](/post/meantime/)
+- [During](/post/during/) [that](/post/that/) [time](/post/time/)
+- [In](/post/in/) [the](/post/the/) [process](/post/process/)
 
 ## Contrasting Examples (Antonyms)
-- [Until](/en/post/until/) (denotes [time](/en/post/time/) [until](/en/post/until/) [a](/en/post/a/) [condition](/en/post/condition/) is met)
-- [After](/en/post/after/) (indicates [time](/en/post/time/) [following](/en/post/following/) an [action](/en/post/action/))
-- [Despite](/en/post/despite/) ([despite](/en/post/despite/) [the](/en/post/the/) [fact](/en/post/fact/)) ([contrast](/en/post/contrast/) [in](/en/post/in/) [meaning](/en/post/meaning/), [not](/en/post/not/) [time](/en/post/time/))
+- [Until](/post/until/) (denotes [time](/post/time/) [until](/post/until/) [a](/post/a/) [condition](/post/condition/) is met)
+- [After](/post/after/) (indicates [time](/post/time/) [following](/post/following/) an [action](/post/action/))
+- [Despite](/post/despite/) ([despite](/post/despite/) [the](/post/the/) [fact](/post/fact/)) ([contrast](/post/contrast/) [in](/post/in/) [meaning](/post/meaning/), [not](/post/not/) [time](/post/time/))

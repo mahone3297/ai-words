@@ -11,20 +11,20 @@ keywords = ['ai words', 'confess']
 /kənˈfɛs/
 
 ## 释义
-- **动词**: 承认（错误、罪行或事实），坦白。例如: "[He](/post/he/) [finally](/post/finally/) confessed [to](/post/to/) stealing [the](/post/the/) [money](/post/money/)."
-- **名词**: 坦白，承认，忏悔。例如: "[She](/post/she/) wrote [a](/post/a/) [letter](/post/letter/) [of](/post/of/) confession [to](/post/to/) [her](/post/her/) parents."
+- **动词**: 承认（错误、罪行或事实），坦白。例如: "[He](/zh/post/he/) [finally](/zh/post/finally/) confessed [to](/zh/post/to/) stealing [the](/zh/post/the/) [money](/zh/post/money/)."
+- **名词**: 坦白，承认，忏悔。例如: "[She](/zh/post/she/) wrote [a](/zh/post/a/) [letter](/zh/post/letter/) [of](/zh/post/of/) confession [to](/zh/post/to/) [her](/zh/post/her/) parents."
 
 ## 短语
-- "[Confess](/post/confess/) one's sins" 意为承认自己的罪过。
-- "[Make](/post/make/) [a](/post/a/) [full](/post/full/) confession" 指的是彻底坦白所有事实。
+- "[Confess](/zh/post/confess/) one's sins" 意为承认自己的罪过。
+- "[Make](/zh/post/make/) [a](/zh/post/a/) [full](/zh/post/full/) confession" 指的是彻底坦白所有事实。
 
 ## 例句
-- 动词: "[After](/post/after/) hours [of](/post/of/) interrogation, [he](/post/he/) confessed [to](/post/to/) [the](/post/the/) [crime](/post/crime/)."
-- 名词: "[The](/post/the/) [priest](/post/priest/) listened [to](/post/to/) [his](/post/his/) penitent's confession [in](/post/in/) [the](/post/the/) confessional."
+- 动词: "[After](/zh/post/after/) hours [of](/zh/post/of/) interrogation, [he](/zh/post/he/) confessed [to](/zh/post/to/) [the](/zh/post/the/) [crime](/zh/post/crime/)."
+- 名词: "[The](/zh/post/the/) [priest](/zh/post/priest/) listened [to](/zh/post/to/) [his](/zh/post/his/) penitent's confession [in](/zh/post/in/) [the](/zh/post/the/) confessional."
 
 ## 同义词
-- [Admit](/post/admit/)
+- [Admit](/zh/post/admit/)
 - Acknowledge
-- [Reveal](/post/reveal/)
+- [Reveal](/zh/post/reveal/)
 - Confide
-- [Own](/post/own/) [up](/post/up/) [to](/post/to/)
+- [Own](/zh/post/own/) [up](/zh/post/up/) [to](/zh/post/to/)

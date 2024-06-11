@@ -11,19 +11,19 @@ keywords = ['ai words', 'sly']
 /slaɪ/
 
 ## 释义
-- **形容词**: 悄悄的，狡猾的，诡计多端的。例如: "He's [sly](/post/sly/) [enough](/post/enough/) [to](/post/to/) [avoid](/post/avoid/) getting caught."
-- **副词**: 巧妙地，偷偷地。例如: "[She](/post/she/) slyly slipped [out](/post/out/) [of](/post/of/) [the](/post/the/) [room](/post/room/) unnoticed."
+- **形容词**: 悄悄的，狡猾的，诡计多端的。例如: "He's [sly](/zh/post/sly/) [enough](/zh/post/enough/) [to](/zh/post/to/) [avoid](/zh/post/avoid/) getting caught."
+- **副词**: 巧妙地，偷偷地。例如: "[She](/zh/post/she/) slyly slipped [out](/zh/post/out/) [of](/zh/post/of/) [the](/zh/post/the/) [room](/zh/post/room/) unnoticed."
 
 ## 短语
-- "[sly](/post/sly/) [as](/post/as/) [a](/post/a/) [fox](/post/fox/)" 比喻非常狡猾，像狐狸一样。
-- "[to](/post/to/) [do](/post/do/) [something](/post/something/) slyly" 意为偷偷摸摸地做某事。
+- "[sly](/zh/post/sly/) [as](/zh/post/as/) [a](/zh/post/a/) [fox](/zh/post/fox/)" 比喻非常狡猾，像狐狸一样。
+- "[to](/zh/post/to/) [do](/zh/post/do/) [something](/zh/post/something/) slyly" 意为偷偷摸摸地做某事。
 
 ## 例句
-- 形容词: "[The](/post/the/) [cat](/post/cat/) was [sly](/post/sly/) [and](/post/and/) managed [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [bird](/post/bird/) [without](/post/without/) [anyone](/post/anyone/) seeing."
-- 副词: "[He](/post/he/) looked [around](/post/around/) slyly [before](/post/before/) taking [the](/post/the/) cookie [from](/post/from/) [the](/post/the/) [jar](/post/jar/)."
+- 形容词: "[The](/zh/post/the/) [cat](/zh/post/cat/) was [sly](/zh/post/sly/) [and](/zh/post/and/) managed [to](/zh/post/to/) [catch](/zh/post/catch/) [the](/zh/post/the/) [bird](/zh/post/bird/) [without](/zh/post/without/) [anyone](/zh/post/anyone/) seeing."
+- 副词: "[He](/zh/post/he/) looked [around](/zh/post/around/) slyly [before](/zh/post/before/) taking [the](/zh/post/the/) cookie [from](/zh/post/from/) [the](/zh/post/the/) [jar](/zh/post/jar/)."
 
 ## 同义词
-- [cunning](/post/cunning/)
+- [cunning](/zh/post/cunning/)
 - crafty
 - deceitful
 - wily

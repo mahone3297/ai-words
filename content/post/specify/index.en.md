@@ -7,49 +7,49 @@ description = '[ˈspesifai] vi.指定，详细说明'
 keywords = ['ai words', 'specify']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈspɪsəi/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) [form](/en/post/form/) [of](/en/post/of/) [the](/en/post/the/) [verb](/en/post/verb/), referring [to](/en/post/to/):
-- [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [precise](/en/post/precise/) [or](/en/post/or/) detailed [information](/en/post/information/) [about](/en/post/about/) [something](/en/post/something/).
-- [A](/en/post/a/) [particular](/en/post/particular/) [instance](/en/post/instance/) [or](/en/post/or/) [item](/en/post/item/) specified.
-- [Computing] [A](/en/post/a/) command-line [option](/en/post/option/) [that](/en/post/that/) requires [a](/en/post/a/) [value](/en/post/value/) [to](/en/post/to/) [be](/en/post/be/) [provided](/en/post/provided/).
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) [form](/post/form/) [of](/post/of/) [the](/post/the/) [verb](/post/verb/), referring [to](/post/to/):
+- [The](/post/the/) [act](/post/act/) [of](/post/of/) giving [precise](/post/precise/) [or](/post/or/) detailed [information](/post/information/) [about](/post/about/) [something](/post/something/).
+- [A](/post/a/) [particular](/post/particular/) [instance](/post/instance/) [or](/post/or/) [item](/post/item/) specified.
+- [Computing] [A](/post/a/) command-line [option](/post/option/) [that](/post/that/) requires [a](/post/a/) [value](/post/value/) [to](/post/to/) [be](/post/be/) [provided](/post/provided/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [clear](/en/post/clear/) [and](/en/post/and/) [exact](/en/post/exact/) [definition](/en/post/definition/) [or](/en/post/or/) [description](/en/post/description/) [of](/en/post/of/); [state](/en/post/state/) specifically.
-- "[Please](/en/post/please/) [specify](/en/post/specify/) [your](/en/post/your/) dietary requirements [for](/en/post/for/) [the](/en/post/the/) [meal](/en/post/meal/)."
+### [Verb](/post/verb/)
+[To](/post/to/) [give](/post/give/) [a](/post/a/) [clear](/post/clear/) [and](/post/and/) [exact](/post/exact/) [definition](/post/definition/) [or](/post/or/) [description](/post/description/) [of](/post/of/); [state](/post/state/) specifically.
+- "[Please](/post/please/) [specify](/post/specify/) [your](/post/your/) dietary requirements [for](/post/for/) [the](/post/the/) [meal](/post/meal/)."
 
-### [Adjective](/en/post/adjective/)
-1. Detailed [or](/en/post/or/) [particular](/en/post/particular/).
-- "[The](/en/post/the/) instructions were [very](/en/post/very/) [specific](/en/post/specific/)."
-2. Demanding exactness [or](/en/post/or/) [precision](/en/post/precision/).
-- "[He](/en/post/he/) requested [a](/en/post/a/) specification [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/)."
+### [Adjective](/post/adjective/)
+1. Detailed [or](/post/or/) [particular](/post/particular/).
+- "[The](/post/the/) instructions were [very](/post/very/) [specific](/post/specific/)."
+2. Demanding exactness [or](/post/or/) [precision](/post/precision/).
+- "[He](/post/he/) requested [a](/post/a/) specification [for](/post/for/) [the](/post/the/) [project](/post/project/)."
 
 ## Phrases
-- "[Provide](/en/post/provide/) [a](/en/post/a/) detailed specification"
-- "I [need](/en/post/need/) [you](/en/post/you/) [to](/en/post/to/) [specify](/en/post/specify/) [your](/en/post/your/) preferences"
-- "[The](/en/post/the/) [design](/en/post/design/) needs [to](/en/post/to/) [be](/en/post/be/) finalized [with](/en/post/with/) [all](/en/post/all/) [the](/en/post/the/) [necessary](/en/post/necessary/) specifications"
+- "[Provide](/post/provide/) [a](/post/a/) detailed specification"
+- "I [need](/post/need/) [you](/post/you/) [to](/post/to/) [specify](/post/specify/) [your](/post/your/) preferences"
+- "[The](/post/the/) [design](/post/design/) needs [to](/post/to/) [be](/post/be/) finalized [with](/post/with/) [all](/post/all/) [the](/post/the/) [necessary](/post/necessary/) specifications"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) asked [me](/en/post/me/) [to](/en/post/to/) [specify](/en/post/specify/) [the](/en/post/the/) [color](/en/post/color/) [and](/en/post/and/) [size](/en/post/size/) [of](/en/post/of/) [the](/en/post/the/) [car](/en/post/car/) I wanted."
-- **[Verb](/en/post/verb/)**: "[Before](/en/post/before/) [we](/en/post/we/) [begin](/en/post/begin/), let's [specify](/en/post/specify/) [our](/en/post/our/) [meeting](/en/post/meeting/) [location](/en/post/location/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [project](/en/post/project/) manager insisted [on](/en/post/on/) [a](/en/post/a/) [highly](/en/post/highly/) [specific](/en/post/specific/) timeline."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) asked [me](/post/me/) [to](/post/to/) [specify](/post/specify/) [the](/post/the/) [color](/post/color/) [and](/post/and/) [size](/post/size/) [of](/post/of/) [the](/post/the/) [car](/post/car/) I wanted."
+- **[Verb](/post/verb/)**: "[Before](/post/before/) [we](/post/we/) [begin](/post/begin/), let's [specify](/post/specify/) [our](/post/our/) [meeting](/post/meeting/) [location](/post/location/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [project](/post/project/) manager insisted [on](/post/on/) [a](/post/a/) [highly](/post/highly/) [specific](/post/specific/) timeline."
 
 ## Synonyms
-- [Define](/en/post/define/)
-- [Specify](/en/post/specify/) [clearly](/en/post/clearly/)
+- [Define](/post/define/)
+- [Specify](/post/specify/) [clearly](/post/clearly/)
 - Elucidate
-- [Clarify](/en/post/clarify/)
-- [Outline](/en/post/outline/)
-- [Detail](/en/post/detail/)
-- [State](/en/post/state/) precisely
+- [Clarify](/post/clarify/)
+- [Outline](/post/outline/)
+- [Detail](/post/detail/)
+- [State](/post/state/) precisely
 - Demarcate
 
 ## Antonyms
-- [Vague](/en/post/vague/)
+- [Vague](/post/vague/)
 - Generalize
 - Ambiguous
-- [Indicate](/en/post/indicate/) vaguely
-- [Convey](/en/post/convey/) imprecisely
+- [Indicate](/post/indicate/) vaguely
+- [Convey](/post/convey/) imprecisely

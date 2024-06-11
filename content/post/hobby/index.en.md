@@ -7,37 +7,37 @@ description = '[ˈhɔbi] n.业余爱好，癖好'
 keywords = ['ai words', 'hobby']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhɒbi/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [pursuit](/en/post/pursuit/) [outside](/en/post/outside/) one's [regular](/en/post/regular/) [occupation](/en/post/occupation/), engaged [in](/en/post/in/) [especially](/en/post/especially/) [for](/en/post/for/) relaxation [or](/en/post/or/) [pleasure](/en/post/pleasure/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) hobbies [include](/en/post/include/) [painting](/en/post/painting/) [and](/en/post/and/) [reading](/en/post/reading/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [pursuit](/post/pursuit/) [outside](/post/outside/) one's [regular](/post/regular/) [occupation](/post/occupation/), engaged [in](/post/in/) [especially](/post/especially/) [for](/post/for/) relaxation [or](/post/or/) [pleasure](/post/pleasure/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) hobbies [include](/post/include/) [painting](/post/painting/) [and](/post/and/) [reading](/post/reading/)."
 
-  > _Phrasal [use](/en/post/use/):_ "[Take](/en/post/take/) [up](/en/post/up/) [a](/en/post/a/) [hobby](/en/post/hobby/)" [means](/en/post/means/) [to](/en/post/to/) [begin](/en/post/begin/) engaging [in](/en/post/in/) [a](/en/post/a/) [new](/en/post/new/) [leisure](/en/post/leisure/) [activity](/en/post/activity/). [Example](/en/post/example/): "[After](/en/post/after/) retiring, [he](/en/post/he/) decided [to](/en/post/to/) [take](/en/post/take/) [up](/en/post/up/) photography [as](/en/post/as/) [a](/en/post/a/) [hobby](/en/post/hobby/)."
+  > _Phrasal [use](/post/use/):_ "[Take](/post/take/) [up](/post/up/) [a](/post/a/) [hobby](/post/hobby/)" [means](/post/means/) [to](/post/to/) [begin](/post/begin/) engaging [in](/post/in/) [a](/post/a/) [new](/post/new/) [leisure](/post/leisure/) [activity](/post/activity/). [Example](/post/example/): "[After](/post/after/) retiring, [he](/post/he/) decided [to](/post/to/) [take](/post/take/) [up](/post/up/) photography [as](/post/as/) [a](/post/a/) [hobby](/post/hobby/)."
   > 
-  > "[Hobby](/en/post/hobby/) [horse](/en/post/horse/)" refers [to](/en/post/to/) [a](/en/post/a/) favorite [topic](/en/post/topic/) [that](/en/post/that/) [someone](/en/post/someone/) [frequently](/en/post/frequently/) discusses [or](/en/post/or/) dwells [on](/en/post/on/) excessively. [Example](/en/post/example/): "Discussing [politics](/en/post/politics/) is [his](/en/post/his/) [hobby](/en/post/hobby/) [horse](/en/post/horse/)."
+  > "[Hobby](/post/hobby/) [horse](/post/horse/)" refers [to](/post/to/) [a](/post/a/) favorite [topic](/post/topic/) [that](/post/that/) [someone](/post/someone/) [frequently](/post/frequently/) discusses [or](/post/or/) dwells [on](/post/on/) excessively. [Example](/post/example/): "Discussing [politics](/post/politics/) is [his](/post/his/) [hobby](/post/hobby/) [horse](/post/horse/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Collecting stamps is [a](/en/post/a/) [popular](/en/post/popular/) [hobby](/en/post/hobby/) [among](/en/post/among/) [many](/en/post/many/) enthusiasts."
-- "Cooking has [become](/en/post/become/) [quite](/en/post/quite/) [a](/en/post/a/) therapeutic [hobby](/en/post/hobby/) [for](/en/post/for/) [her](/en/post/her/) [during](/en/post/during/) lockdown."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Collecting stamps is [a](/post/a/) [popular](/post/popular/) [hobby](/post/hobby/) [among](/post/among/) [many](/post/many/) enthusiasts."
+- "Cooking has [become](/post/become/) [quite](/post/quite/) [a](/post/a/) therapeutic [hobby](/post/hobby/) [for](/post/for/) [her](/post/her/) [during](/post/during/) lockdown."
 
 ## Phrases
-- "[A](/en/post/a/) [man](/en/post/man/) [of](/en/post/of/) [many](/en/post/many/) hobbies" describes [someone](/en/post/someone/) [with](/en/post/with/) [diverse](/en/post/diverse/) interests [and](/en/post/and/) pastimes.
-- "[To](/en/post/to/) [turn](/en/post/turn/) [a](/en/post/a/) [hobby](/en/post/hobby/) [into](/en/post/into/) [a](/en/post/a/) [career](/en/post/career/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [your](/en/post/your/) leisurely [pursuit](/en/post/pursuit/) [your](/en/post/your/) [main](/en/post/main/) [source](/en/post/source/) [of](/en/post/of/) [income](/en/post/income/).
+- "[A](/post/a/) [man](/post/man/) [of](/post/of/) [many](/post/many/) hobbies" describes [someone](/post/someone/) [with](/post/with/) [diverse](/post/diverse/) interests [and](/post/and/) pastimes.
+- "[To](/post/to/) [turn](/post/turn/) [a](/post/a/) [hobby](/post/hobby/) [into](/post/into/) [a](/post/a/) [career](/post/career/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [your](/post/your/) leisurely [pursuit](/post/pursuit/) [your](/post/your/) [main](/post/main/) [source](/post/source/) [of](/post/of/) [income](/post/income/).
 
 ## Synonyms
-- [Pastime](/en/post/pastime/)
-- [Leisure](/en/post/leisure/) [activity](/en/post/activity/)
-- [Pursuit](/en/post/pursuit/)
-- [Interest](/en/post/interest/)
+- [Pastime](/post/pastime/)
+- [Leisure](/post/leisure/) [activity](/post/activity/)
+- [Pursuit](/post/pursuit/)
+- [Interest](/post/interest/)
 - Avocation
 - Entertainment
 - Recreation
 - Enjoyment
 
 ## Derived forms & related terms
-- Hobbist ([noun](/en/post/noun/)): [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [a](/en/post/a/) [hobby](/en/post/hobby/).
-- Hobbyist ([noun](/en/post/noun/)): [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) pursues [a](/en/post/a/) [hobby](/en/post/hobby/) [with](/en/post/with/) [enthusiasm](/en/post/enthusiasm/) [or](/en/post/or/) expertise.
-- Hobbistical ([adjective](/en/post/adjective/)): Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [hobby](/en/post/hobby/) [or](/en/post/or/) hobbyist. 
+- Hobbist ([noun](/post/noun/)): [A](/post/a/) [person](/post/person/) [who](/post/who/) has [a](/post/a/) [hobby](/post/hobby/).
+- Hobbyist ([noun](/post/noun/)): [A](/post/a/) [person](/post/person/) [who](/post/who/) pursues [a](/post/a/) [hobby](/post/hobby/) [with](/post/with/) [enthusiasm](/post/enthusiasm/) [or](/post/or/) expertise.
+- Hobbistical ([adjective](/post/adjective/)): Relating [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [hobby](/post/hobby/) [or](/post/or/) hobbyist. 
 
-[Note](/en/post/note/): '[Hobby](/en/post/hobby/)' does [not](/en/post/not/) [have](/en/post/have/) [any](/en/post/any/) [common](/en/post/common/) [verb](/en/post/verb/) [or](/en/post/or/) adjectival [usage](/en/post/usage/), [so](/en/post/so/) [no](/en/post/no/) examples [for](/en/post/for/) [those](/en/post/those/) parts [of](/en/post/of/) [speech](/en/post/speech/) are [provided](/en/post/provided/).
+[Note](/post/note/): '[Hobby](/post/hobby/)' does [not](/post/not/) [have](/post/have/) [any](/post/any/) [common](/post/common/) [verb](/post/verb/) [or](/post/or/) adjectival [usage](/post/usage/), [so](/post/so/) [no](/post/no/) examples [for](/post/for/) [those](/post/those/) parts [of](/post/of/) [speech](/post/speech/) are [provided](/post/provided/).

@@ -11,21 +11,21 @@ keywords = ['ai words', 'brief']
 / briːf/
 
 ## 释义
-- **形容词**: 简洁的，简短的。例如: "[He](/post/he/) gave [a](/post/a/) [brief](/post/brief/) [summary](/post/summary/) [of](/post/of/) [the](/post/the/) [report](/post/report/)."
-- **名词**: 简报，摘要。例如: "[The](/post/the/) [lawyer](/post/lawyer/) prepared [a](/post/a/) detailed [brief](/post/brief/) [for](/post/for/) [the](/post/the/) [case](/post/case/)."
-- **动词**: 为...作简报，向...简介。例如: "[The](/post/the/) [expert](/post/expert/) was briefed [on](/post/on/) [the](/post/the/) [project](/post/project/) [before](/post/before/) starting [work](/post/work/)."
+- **形容词**: 简洁的，简短的。例如: "[He](/zh/post/he/) gave [a](/zh/post/a/) [brief](/zh/post/brief/) [summary](/zh/post/summary/) [of](/zh/post/of/) [the](/zh/post/the/) [report](/zh/post/report/)."
+- **名词**: 简报，摘要。例如: "[The](/zh/post/the/) [lawyer](/zh/post/lawyer/) prepared [a](/zh/post/a/) detailed [brief](/zh/post/brief/) [for](/zh/post/for/) [the](/zh/post/the/) [case](/zh/post/case/)."
+- **动词**: 为...作简报，向...简介。例如: "[The](/zh/post/the/) [expert](/zh/post/expert/) was briefed [on](/zh/post/on/) [the](/zh/post/the/) [project](/zh/post/project/) [before](/zh/post/before/) starting [work](/zh/post/work/)."
 
 ## 短语
-- "[in](/post/in/) [brief](/post/brief/)" 意为简而言之，简要地。
-- "[to](/post/to/) [give](/post/give/) [someone](/post/someone/) [a](/post/a/) [brief](/post/brief/)" 是向某人提供简要信息或指导。
+- "[in](/zh/post/in/) [brief](/zh/post/brief/)" 意为简而言之，简要地。
+- "[to](/zh/post/to/) [give](/zh/post/give/) [someone](/zh/post/someone/) [a](/zh/post/a/) [brief](/zh/post/brief/)" 是向某人提供简要信息或指导。
 
 ## 例句
-- 形容词: "[Please](/post/please/) [give](/post/give/) [me](/post/me/) [a](/post/a/) [brief](/post/brief/) overview [of](/post/of/) [the](/post/the/) [project](/post/project/)."
-- 名词: "[The](/post/the/) attorney studied [his](/post/his/) client's [legal](/post/legal/) [brief](/post/brief/) [before](/post/before/) [the](/post/the/) [trial](/post/trial/)."
-- 动词: "[The](/post/the/) [new](/post/new/) [employee](/post/employee/) was briefly [about](/post/about/) [company](/post/company/) policies."
+- 形容词: "[Please](/zh/post/please/) [give](/zh/post/give/) [me](/zh/post/me/) [a](/zh/post/a/) [brief](/zh/post/brief/) overview [of](/zh/post/of/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- 名词: "[The](/zh/post/the/) attorney studied [his](/zh/post/his/) client's [legal](/zh/post/legal/) [brief](/zh/post/brief/) [before](/zh/post/before/) [the](/zh/post/the/) [trial](/zh/post/trial/)."
+- 动词: "[The](/zh/post/the/) [new](/zh/post/new/) [employee](/zh/post/employee/) was briefly [about](/zh/post/about/) [company](/zh/post/company/) policies."
 
 ## 同义词
-- [Short](/post/short/)
+- [Short](/zh/post/short/)
 - Concise
 - Briefly
 - Compact

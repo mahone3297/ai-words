@@ -7,38 +7,38 @@ description = '[disˈeibl] vt.使无能，使伤残'
 keywords = ['ai words', 'disable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪsəˈbɪl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) inability [or](/en/post/or/) incapacity [to](/en/post/to/) [perform](/en/post/perform/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [function](/en/post/function/) [due](/en/post/due/) [to](/en/post/to/) an impairment, [injury](/en/post/injury/), [or](/en/post/or/) [limitation](/en/post/limitation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) software has [a](/en/post/a/) [feature](/en/post/feature/) [to](/en/post/to/) [disable](/en/post/disable/) [certain](/en/post/certain/) settings."
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) inability [or](/post/or/) incapacity [to](/post/to/) [perform](/post/perform/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [function](/post/function/) [due](/post/due/) [to](/post/to/) an impairment, [injury](/post/injury/), [or](/post/or/) [limitation](/post/limitation/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) software has [a](/post/a/) [feature](/post/feature/) [to](/post/to/) [disable](/post/disable/) [certain](/post/certain/) settings."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [unable](/en/post/unable/) [to](/en/post/to/) [operate](/en/post/operate/) [or](/en/post/or/) [function](/en/post/function/) [properly](/en/post/properly/); [to](/en/post/to/) [render](/en/post/render/) inactive [or](/en/post/or/) ineffective. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) virus disabled [the](/en/post/the/) user's [computer](/en/post/computer/)."
-- [To](/en/post/to/) [remove](/en/post/remove/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [use](/en/post/use/) [or](/en/post/or/) [access](/en/post/access/) ([a](/en/post/a/) [feature](/en/post/feature/) [or](/en/post/or/) [system](/en/post/system/)). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) disabled [the](/en/post/the/) password [protection](/en/post/protection/) [on](/en/post/on/) [her](/en/post/her/) [account](/en/post/account/)."
+### [Verb](/post/verb/)
+[To](/post/to/) [make](/post/make/) [something](/post/something/) [unable](/post/unable/) [to](/post/to/) [operate](/post/operate/) [or](/post/or/) [function](/post/function/) [properly](/post/properly/); [to](/post/to/) [render](/post/render/) inactive [or](/post/or/) ineffective. [For](/post/for/) [example](/post/example/): "[The](/post/the/) virus disabled [the](/post/the/) user's [computer](/post/computer/)."
+- [To](/post/to/) [remove](/post/remove/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [use](/post/use/) [or](/post/or/) [access](/post/access/) ([a](/post/a/) [feature](/post/feature/) [or](/post/or/) [system](/post/system/)). [For](/post/for/) [example](/post/example/): "[She](/post/she/) disabled [the](/post/the/) password [protection](/post/protection/) [on](/post/on/) [her](/post/her/) [account](/post/account/)."
 
-### [Adjective](/en/post/adjective/)
-Characterizing [or](/en/post/or/) relating [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is disabled [or](/en/post/or/) non-functional. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) disabled parking [space](/en/post/space/) is reserved [for](/en/post/for/) [those](/en/post/those/) [with](/en/post/with/) impairments."
+### [Adjective](/post/adjective/)
+Characterizing [or](/post/or/) relating [to](/post/to/) [something](/post/something/) [that](/post/that/) is disabled [or](/post/or/) non-functional. [For](/post/for/) [example](/post/example/): "[A](/post/a/) disabled parking [space](/post/space/) is reserved [for](/post/for/) [those](/post/those/) [with](/post/with/) impairments."
 
-### [Adverb](/en/post/adverb/)
-[In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) disables [or](/en/post/or/) impedes. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) drove [slowly](/en/post/slowly/) [to](/en/post/to/) [avoid](/en/post/avoid/) disabling [the](/en/post/the/) [vehicle](/en/post/vehicle/) [further](/en/post/further/)."
+### [Adverb](/post/adverb/)
+[In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) disables [or](/post/or/) impedes. [For](/post/for/) [example](/post/example/): "[He](/post/he/) drove [slowly](/post/slowly/) [to](/post/to/) [avoid](/post/avoid/) disabling [the](/post/the/) [vehicle](/post/vehicle/) [further](/post/further/)."
 
 ## Phrases
-- "[Disable](/en/post/disable/) [a](/en/post/a/) [feature](/en/post/feature/)" [means](/en/post/means/) [to](/en/post/to/) [turn](/en/post/turn/) [off](/en/post/off/) [or](/en/post/or/) [lock](/en/post/lock/) [a](/en/post/a/) [particular](/en/post/particular/) [function](/en/post/function/).
-- "Disabled [access](/en/post/access/)" refers [to](/en/post/to/) restricted [entry](/en/post/entry/) [for](/en/post/for/) [people](/en/post/people/) [with](/en/post/with/) disabilities.
-- "Disabled [mode](/en/post/mode/)" is [a](/en/post/a/) [setting](/en/post/setting/) [that](/en/post/that/) offers [limited](/en/post/limited/) functionality [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/).
+- "[Disable](/post/disable/) [a](/post/a/) [feature](/post/feature/)" [means](/post/means/) [to](/post/to/) [turn](/post/turn/) [off](/post/off/) [or](/post/or/) [lock](/post/lock/) [a](/post/a/) [particular](/post/particular/) [function](/post/function/).
+- "Disabled [access](/post/access/)" refers [to](/post/to/) restricted [entry](/post/entry/) [for](/post/for/) [people](/post/people/) [with](/post/with/) disabilities.
+- "Disabled [mode](/post/mode/)" is [a](/post/a/) [setting](/post/setting/) [that](/post/that/) offers [limited](/post/limited/) functionality [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) wheelchair ramp was installed [to](/en/post/to/) [provide](/en/post/provide/) disabled individuals [with](/en/post/with/) [access](/en/post/access/) [to](/en/post/to/) [the](/en/post/the/) [building](/en/post/building/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [security](/en/post/security/) [team](/en/post/team/) disabled [the](/en/post/the/) intruder's [remote](/en/post/remote/) [control](/en/post/control/), rendering [their](/en/post/their/) [car](/en/post/car/) immobilized."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) disabled [child](/en/post/child/) received [a](/en/post/a/) [specially](/en/post/specially/) adapted [bike](/en/post/bike/) [to](/en/post/to/) [enable](/en/post/enable/) [them](/en/post/them/) [to](/en/post/to/) [ride](/en/post/ride/) [again](/en/post/again/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) drove cautiously, [not](/en/post/not/) wanting [to](/en/post/to/) accidentally [disable](/en/post/disable/) [her](/en/post/her/) [brand](/en/post/brand/) [new](/en/post/new/) [car](/en/post/car/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) wheelchair ramp was installed [to](/post/to/) [provide](/post/provide/) disabled individuals [with](/post/with/) [access](/post/access/) [to](/post/to/) [the](/post/the/) [building](/post/building/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [security](/post/security/) [team](/post/team/) disabled [the](/post/the/) intruder's [remote](/post/remote/) [control](/post/control/), rendering [their](/post/their/) [car](/post/car/) immobilized."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) disabled [child](/post/child/) received [a](/post/a/) [specially](/post/specially/) adapted [bike](/post/bike/) [to](/post/to/) [enable](/post/enable/) [them](/post/them/) [to](/post/to/) [ride](/post/ride/) [again](/post/again/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) drove cautiously, [not](/post/not/) wanting [to](/post/to/) accidentally [disable](/post/disable/) [her](/post/her/) [brand](/post/brand/) [new](/post/new/) [car](/post/car/)."
 
 ## Synonyms
 - Inactive
 - Impaired
 - Non-functional
-- Lacking [ability](/en/post/ability/)
+- Lacking [ability](/post/ability/)
 - Unusable
 - Malfunctioning

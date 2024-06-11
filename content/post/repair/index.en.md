@@ -7,44 +7,44 @@ description = '[riˈpeə] vt.&n.修理，修补'
 keywords = ['ai words', 'repair']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈper/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) fixing, mending, [or](/en/post/or/) restoring [something](/en/post/something/) [that](/en/post/that/) is [broken](/en/post/broken/) [or](/en/post/or/) damaged: *[The](/en/post/the/) [mechanic](/en/post/mechanic/) specializes [in](/en/post/in/) [car](/en/post/car/) repairs.*
-2. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [in](/en/post/in/) [good](/en/post/good/) [condition](/en/post/condition/) [or](/en/post/or/) working [order](/en/post/order/): *[The](/en/post/the/) [house](/en/post/house/) needed [significant](/en/post/significant/) repairs [before](/en/post/before/) [we](/en/post/we/) [could](/en/post/could/) [move](/en/post/move/) [in](/en/post/in/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) fixing, mending, [or](/post/or/) restoring [something](/post/something/) [that](/post/that/) is [broken](/post/broken/) [or](/post/or/) damaged: *[The](/post/the/) [mechanic](/post/mechanic/) specializes [in](/post/in/) [car](/post/car/) repairs.*
+2. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [in](/post/in/) [good](/post/good/) [condition](/post/condition/) [or](/post/or/) working [order](/post/order/): *[The](/post/the/) [house](/post/house/) needed [significant](/post/significant/) repairs [before](/post/before/) [we](/post/we/) [could](/post/could/) [move](/post/move/) [in](/post/in/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [restore](/en/post/restore/) [to](/en/post/to/) [a](/en/post/a/) [good](/en/post/good/) [or](/en/post/or/) usable [condition](/en/post/condition/) [after](/en/post/after/) [damage](/en/post/damage/) [or](/en/post/or/) [decay](/en/post/decay/): *[They](/en/post/they/) repaired [the](/en/post/the/) [roof](/en/post/roof/) [after](/en/post/after/) [a](/en/post/a/) [storm](/en/post/storm/).*
-2. [To](/en/post/to/) [fix](/en/post/fix/) [or](/en/post/or/) [mend](/en/post/mend/) [something](/en/post/something/): *I'll [repair](/en/post/repair/) [your](/en/post/your/) [bicycle](/en/post/bicycle/) [if](/en/post/if/) [you](/en/post/you/) can't [figure](/en/post/figure/) [it](/en/post/it/) [out](/en/post/out/) [yourself](/en/post/yourself/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [restore](/post/restore/) [to](/post/to/) [a](/post/a/) [good](/post/good/) [or](/post/or/) usable [condition](/post/condition/) [after](/post/after/) [damage](/post/damage/) [or](/post/or/) [decay](/post/decay/): *[They](/post/they/) repaired [the](/post/the/) [roof](/post/roof/) [after](/post/after/) [a](/post/a/) [storm](/post/storm/).*
+2. [To](/post/to/) [fix](/post/fix/) [or](/post/or/) [mend](/post/mend/) [something](/post/something/): *I'll [repair](/post/repair/) [your](/post/your/) [bicycle](/post/bicycle/) [if](/post/if/) [you](/post/you/) can't [figure](/post/figure/) [it](/post/it/) [out](/post/out/) [yourself](/post/yourself/).*
 
-### [Adjective](/en/post/adjective/)
-1. [Suitable](/en/post/suitable/) [for](/en/post/for/) restoration [or](/en/post/or/) [improvement](/en/post/improvement/): *[The](/en/post/the/) antique [furniture](/en/post/furniture/) required [minor](/en/post/minor/) [repair](/en/post/repair/).*
-2. Designed [to](/en/post/to/) [be](/en/post/be/) [easily](/en/post/easily/) repaired: *[A](/en/post/a/) repair-friendly [appliance](/en/post/appliance/) has easy-to-access parts.*
+### [Adjective](/post/adjective/)
+1. [Suitable](/post/suitable/) [for](/post/for/) restoration [or](/post/or/) [improvement](/post/improvement/): *[The](/post/the/) antique [furniture](/post/furniture/) required [minor](/post/minor/) [repair](/post/repair/).*
+2. Designed [to](/post/to/) [be](/post/be/) [easily](/post/easily/) repaired: *[A](/post/a/) repair-friendly [appliance](/post/appliance/) has easy-to-access parts.*
 
 ## Phrases
-- "[Car](/en/post/car/) [repair](/en/post/repair/) [shop](/en/post/shop/)"
-- "[Do](/en/post/do/) [the](/en/post/the/) [necessary](/en/post/necessary/) repairs"
+- "[Car](/post/car/) [repair](/post/repair/) [shop](/post/shop/)"
+- "[Do](/post/do/) [the](/post/the/) [necessary](/post/necessary/) repairs"
 - "Preventive repairs"
-- "[Repair](/en/post/repair/) [work](/en/post/work/)"
-- "[Emergency](/en/post/emergency/) repairs"
+- "[Repair](/post/repair/) [work](/post/work/)"
+- "[Emergency](/post/emergency/) repairs"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) plumber was called [in](/en/post/in/) [to](/en/post/to/) [do](/en/post/do/) [the](/en/post/the/) plumbing repairs."
-- **[Verb](/en/post/verb/)**: "I decided [to](/en/post/to/) [repair](/en/post/repair/) [my](/en/post/my/) [bike](/en/post/bike/) [before](/en/post/before/) [the](/en/post/the/) [race](/en/post/race/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [building](/en/post/building/) underwent [extensive](/en/post/extensive/) [repair](/en/post/repair/) [and](/en/post/and/) renovation."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) plumber was called [in](/post/in/) [to](/post/to/) [do](/post/do/) [the](/post/the/) plumbing repairs."
+- **[Verb](/post/verb/)**: "I decided [to](/post/to/) [repair](/post/repair/) [my](/post/my/) [bike](/post/bike/) [before](/post/before/) [the](/post/the/) [race](/post/race/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [building](/post/building/) underwent [extensive](/post/extensive/) [repair](/post/repair/) [and](/post/and/) renovation."
 
 ## Synonyms
-- [mend](/en/post/mend/)
-- [fix](/en/post/fix/)
-- [restore](/en/post/restore/)
+- [mend](/post/mend/)
+- [fix](/post/fix/)
+- [restore](/post/restore/)
 - revive
-- [patch](/en/post/patch/)
+- [patch](/post/patch/)
 - overhaul
 
 ## Antonyms
-- [damage](/en/post/damage/)
+- [damage](/post/damage/)
 - deteriorate
-- [ruin](/en/post/ruin/)
-- [break](/en/post/break/) (v.)
+- [ruin](/post/ruin/)
+- [break](/post/break/) (v.)

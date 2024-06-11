@@ -12,24 +12,24 @@ keywords = ['ai words', 'gather']
 
 ## 释义
 - **动词**:
-1. 聚集；集合：将事物或人聚集在一起。例如: "[People](/post/people/) gathered [in](/post/in/) [the](/post/the/) [town](/post/town/) [square](/post/square/) [for](/post/for/) [the](/post/the/) [festival](/post/festival/)."
-2. 收集；汇集：搜集信息或物品。例如: "[She](/post/she/) gathered flowers [from](/post/from/) [the](/post/the/) [garden](/post/garden/)."
-3. 汇总；综合：整合思想或数据。例如: "[The](/post/the/) [researcher](/post/researcher/) gathered [data](/post/data/) [from](/post/from/) [various](/post/various/) sources."
+1. 聚集；集合：将事物或人聚集在一起。例如: "[People](/zh/post/people/) gathered [in](/zh/post/in/) [the](/zh/post/the/) [town](/zh/post/town/) [square](/zh/post/square/) [for](/zh/post/for/) [the](/zh/post/the/) [festival](/zh/post/festival/)."
+2. 收集；汇集：搜集信息或物品。例如: "[She](/zh/post/she/) gathered flowers [from](/zh/post/from/) [the](/zh/post/the/) [garden](/zh/post/garden/)."
+3. 汇总；综合：整合思想或数据。例如: "[The](/zh/post/the/) [researcher](/zh/post/researcher/) gathered [data](/zh/post/data/) [from](/zh/post/from/) [various](/zh/post/various/) sources."
 
 - **名词**:
-1. 聚会；集会：人们聚集的场合。例如: "[There](/post/there/) was [a](/post/a/) [small](/post/small/) gathering [at](/post/at/) [her](/post/her/) [house](/post/house/)."
+1. 聚会；集会：人们聚集的场合。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [small](/zh/post/small/) gathering [at](/zh/post/at/) [her](/zh/post/her/) [house](/zh/post/house/)."
 
 ## 短语
-- "[Gather](/post/gather/) [around](/post/around/)" 意为围拢过来，常用于让一群人聚在一起。例如: "[Gather](/post/gather/) [around](/post/around/), children, [and](/post/and/) [listen](/post/listen/) [to](/post/to/) [the](/post/the/) [story](/post/story/)."
-- "[Gather](/post/gather/) [up](/post/up/)" 意为收集或拾起。例如: "[Please](/post/please/) [gather](/post/gather/) [up](/post/up/) [all](/post/all/) [the](/post/the/) books [and](/post/and/) [put](/post/put/) [them](/post/them/) [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/)."
+- "[Gather](/zh/post/gather/) [around](/zh/post/around/)" 意为围拢过来，常用于让一群人聚在一起。例如: "[Gather](/zh/post/gather/) [around](/zh/post/around/), children, [and](/zh/post/and/) [listen](/zh/post/listen/) [to](/zh/post/to/) [the](/zh/post/the/) [story](/zh/post/story/)."
+- "[Gather](/zh/post/gather/) [up](/zh/post/up/)" 意为收集或拾起。例如: "[Please](/zh/post/please/) [gather](/zh/post/gather/) [up](/zh/post/up/) [all](/zh/post/all/) [the](/zh/post/the/) books [and](/zh/post/and/) [put](/zh/post/put/) [them](/zh/post/them/) [on](/zh/post/on/) [the](/zh/post/the/) [shelf](/zh/post/shelf/)."
 
 ## 例句
-- 动词: "[They](/post/they/) gathered [at](/post/at/) [the](/post/the/) [entrance](/post/entrance/) [of](/post/of/) [the](/post/the/) [museum](/post/museum/) [before](/post/before/) [the](/post/the/) [tour](/post/tour/) began."
-- 名词: "[The](/post/the/) [annual](/post/annual/) gathering [of](/post/of/) [the](/post/the/) clan is [always](/post/always/) [a](/post/a/) memorable [event](/post/event/)."
+- 动词: "[They](/zh/post/they/) gathered [at](/zh/post/at/) [the](/zh/post/the/) [entrance](/zh/post/entrance/) [of](/zh/post/of/) [the](/zh/post/the/) [museum](/zh/post/museum/) [before](/zh/post/before/) [the](/zh/post/the/) [tour](/zh/post/tour/) began."
+- 名词: "[The](/zh/post/the/) [annual](/zh/post/annual/) gathering [of](/zh/post/of/) [the](/zh/post/the/) clan is [always](/zh/post/always/) [a](/zh/post/a/) memorable [event](/zh/post/event/)."
 
 ## 同义词
-- [Collect](/post/collect/)
-- [Assemble](/post/assemble/)
-- [Accumulate](/post/accumulate/)
+- [Collect](/zh/post/collect/)
+- [Assemble](/zh/post/assemble/)
+- [Accumulate](/zh/post/accumulate/)
 - Amass
 - Converge

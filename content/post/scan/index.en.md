@@ -7,53 +7,53 @@ description = '[skæn] vt.细看；浏览；扫描'
 keywords = ['ai words', 'scan']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /scæn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[scan](/en/post/scan/)** is [a](/en/post/a/):
-1. An [act](/en/post/act/) [of](/en/post/of/) examining [something](/en/post/something/) systematically, [especially](/en/post/especially/) using [a](/en/post/a/) [device](/en/post/device/) [like](/en/post/like/) [a](/en/post/a/) scanner [or](/en/post/or/) an MRI [machine](/en/post/machine/). [Example](/en/post/example/): "[The](/en/post/the/) [doctor](/en/post/doctor/) performed [a](/en/post/a/) [thorough](/en/post/thorough/) [scan](/en/post/scan/) [of](/en/post/of/) [her](/en/post/her/) patient's [brain](/en/post/brain/)."
-2. [A](/en/post/a/) [quick](/en/post/quick/) [look](/en/post/look/) [or](/en/post/or/) [review](/en/post/review/). [Example](/en/post/example/): "I [quickly](/en/post/quickly/) scanned [the](/en/post/the/) [article](/en/post/article/) [to](/en/post/to/) [see](/en/post/see/) [if](/en/post/if/) [it](/en/post/it/) was [relevant](/en/post/relevant/)."
-3. [In](/en/post/in/) computing, [a](/en/post/a/) [search](/en/post/search/) [for](/en/post/for/) [specific](/en/post/specific/) [data](/en/post/data/). [Example](/en/post/example/): "[The](/en/post/the/) [program](/en/post/program/) automatically scans [the](/en/post/the/) internet [for](/en/post/for/) updates."
+### [Noun](/post/noun/)
+[A](/post/a/) **[scan](/post/scan/)** is [a](/post/a/):
+1. An [act](/post/act/) [of](/post/of/) examining [something](/post/something/) systematically, [especially](/post/especially/) using [a](/post/a/) [device](/post/device/) [like](/post/like/) [a](/post/a/) scanner [or](/post/or/) an MRI [machine](/post/machine/). [Example](/post/example/): "[The](/post/the/) [doctor](/post/doctor/) performed [a](/post/a/) [thorough](/post/thorough/) [scan](/post/scan/) [of](/post/of/) [her](/post/her/) patient's [brain](/post/brain/)."
+2. [A](/post/a/) [quick](/post/quick/) [look](/post/look/) [or](/post/or/) [review](/post/review/). [Example](/post/example/): "I [quickly](/post/quickly/) scanned [the](/post/the/) [article](/post/article/) [to](/post/to/) [see](/post/see/) [if](/post/if/) [it](/post/it/) was [relevant](/post/relevant/)."
+3. [In](/post/in/) computing, [a](/post/a/) [search](/post/search/) [for](/post/for/) [specific](/post/specific/) [data](/post/data/). [Example](/post/example/): "[The](/post/the/) [program](/post/program/) automatically scans [the](/post/the/) internet [for](/post/for/) updates."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[scan](/en/post/scan/)** [means](/en/post/means/):
-1. [To](/en/post/to/) [examine](/en/post/examine/) [or](/en/post/or/) [survey](/en/post/survey/) [something](/en/post/something/) [in](/en/post/in/) [detail](/en/post/detail/), typically electronically. [Example](/en/post/example/): "[He](/en/post/he/) scanned [the](/en/post/the/) [text](/en/post/text/) [on](/en/post/on/) [the](/en/post/the/) [screen](/en/post/screen/) [for](/en/post/for/) errors."
-2. [To](/en/post/to/) [perform](/en/post/perform/) [a](/en/post/a/) [visual](/en/post/visual/) [inspection](/en/post/inspection/). [Example](/en/post/example/): "[The](/en/post/the/) [security](/en/post/security/) [guard](/en/post/guard/) scanned [each](/en/post/each/) [bag](/en/post/bag/) [before](/en/post/before/) allowing passengers [onto](/en/post/onto/) [the](/en/post/the/) [plane](/en/post/plane/)."
-3. (Computing) [To](/en/post/to/) [search](/en/post/search/) [for](/en/post/for/) [specific](/en/post/specific/) [information](/en/post/information/) [within](/en/post/within/) [a](/en/post/a/) database [or](/en/post/or/) [network](/en/post/network/). [Example](/en/post/example/): "[The](/en/post/the/) software scans [the](/en/post/the/) [hard](/en/post/hard/) [drive](/en/post/drive/) [for](/en/post/for/) viruses."
+### [Verb](/post/verb/)
+[To](/post/to/) **[scan](/post/scan/)** [means](/post/means/):
+1. [To](/post/to/) [examine](/post/examine/) [or](/post/or/) [survey](/post/survey/) [something](/post/something/) [in](/post/in/) [detail](/post/detail/), typically electronically. [Example](/post/example/): "[He](/post/he/) scanned [the](/post/the/) [text](/post/text/) [on](/post/on/) [the](/post/the/) [screen](/post/screen/) [for](/post/for/) errors."
+2. [To](/post/to/) [perform](/post/perform/) [a](/post/a/) [visual](/post/visual/) [inspection](/post/inspection/). [Example](/post/example/): "[The](/post/the/) [security](/post/security/) [guard](/post/guard/) scanned [each](/post/each/) [bag](/post/bag/) [before](/post/before/) allowing passengers [onto](/post/onto/) [the](/post/the/) [plane](/post/plane/)."
+3. (Computing) [To](/post/to/) [search](/post/search/) [for](/post/for/) [specific](/post/specific/) [information](/post/information/) [within](/post/within/) [a](/post/a/) database [or](/post/or/) [network](/post/network/). [Example](/post/example/): "[The](/post/the/) software scans [the](/post/the/) [hard](/post/hard/) [drive](/post/drive/) [for](/post/for/) viruses."
 
-### [Adjective](/en/post/adjective/)
-Scanning [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [method](/en/post/method/) [or](/en/post/or/) [process](/en/post/process/). [Example](/en/post/example/): "[A](/en/post/a/) scanning [electron](/en/post/electron/) [microscope](/en/post/microscope/) provides high-resolution images."
+### [Adjective](/post/adjective/)
+Scanning [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [method](/post/method/) [or](/post/or/) [process](/post/process/). [Example](/post/example/): "[A](/post/a/) scanning [electron](/post/electron/) [microscope](/post/microscope/) provides high-resolution images."
 
 ## Phrases
-- "[Scan](/en/post/scan/) [through](/en/post/through/)" [means](/en/post/means/) [to](/en/post/to/) [look](/en/post/look/) [through](/en/post/through/) [quickly](/en/post/quickly/).
-- "[Scan](/en/post/scan/) [for](/en/post/for/)" is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) searching [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [item](/en/post/item/) [or](/en/post/or/) [information](/en/post/information/).
-- "[Scan](/en/post/scan/) [code](/en/post/code/)" refers [to](/en/post/to/) [a](/en/post/a/) [unique](/en/post/unique/) identifier [used](/en/post/used/) [for](/en/post/for/) [security](/en/post/security/) [or](/en/post/or/) tracking purposes.
+- "[Scan](/post/scan/) [through](/post/through/)" [means](/post/means/) [to](/post/to/) [look](/post/look/) [through](/post/through/) [quickly](/post/quickly/).
+- "[Scan](/post/scan/) [for](/post/for/)" is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) searching [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [item](/post/item/) [or](/post/or/) [information](/post/information/).
+- "[Scan](/post/scan/) [code](/post/code/)" refers [to](/post/to/) [a](/post/a/) [unique](/post/unique/) identifier [used](/post/used/) [for](/post/for/) [security](/post/security/) [or](/post/or/) tracking purposes.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [technician](/en/post/technician/) ran [a](/en/post/a/) [scan](/en/post/scan/) [on](/en/post/on/) [the](/en/post/the/) [old](/en/post/old/) [computer](/en/post/computer/) [to](/en/post/to/) [identify](/en/post/identify/) [any](/en/post/any/) issues."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) scanned [the](/en/post/the/) [crowd](/en/post/crowd/), looking [for](/en/post/for/) [her](/en/post/her/) [friend](/en/post/friend/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) scanning probe showed [remarkable](/en/post/remarkable/) [detail](/en/post/detail/) [in](/en/post/in/) [the](/en/post/the/) material's [structure](/en/post/structure/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [technician](/post/technician/) ran [a](/post/a/) [scan](/post/scan/) [on](/post/on/) [the](/post/the/) [old](/post/old/) [computer](/post/computer/) [to](/post/to/) [identify](/post/identify/) [any](/post/any/) issues."
+- **[Verb](/post/verb/)**: "[She](/post/she/) scanned [the](/post/the/) [crowd](/post/crowd/), looking [for](/post/for/) [her](/post/her/) [friend](/post/friend/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) scanning probe showed [remarkable](/post/remarkable/) [detail](/post/detail/) [in](/post/in/) [the](/post/the/) material's [structure](/post/structure/)."
 
 ## Synonyms
-- [Examine](/en/post/examine/)
-- [Inspect](/en/post/inspect/)
+- [Examine](/post/examine/)
+- [Inspect](/post/inspect/)
 - Peruse
 - Browse
-- [Search](/en/post/search/)
+- [Search](/post/search/)
 - Inventory
 
-### Related Words ([Noun](/en/post/noun/))
-- [Inspection](/en/post/inspection/)
-- [Examination](/en/post/examination/)
-- Sweeping [glance](/en/post/glance/)
+### Related Words ([Noun](/post/noun/))
+- [Inspection](/post/inspection/)
+- [Examination](/post/examination/)
+- Sweeping [glance](/post/glance/)
 - Overview
 
-### Related Words ([Verb](/en/post/verb/))
-- [Inspect](/en/post/inspect/)
-- [Survey](/en/post/survey/)
+### Related Words ([Verb](/post/verb/))
+- [Inspect](/post/inspect/)
+- [Survey](/post/survey/)
 - Browse
-- [Examine](/en/post/examine/)
+- [Examine](/post/examine/)
 - Peruse
 - Scrutinize

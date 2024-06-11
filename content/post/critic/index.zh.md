@@ -11,21 +11,21 @@ keywords = ['ai words', 'critic']
 /ˈkrɪtɪk/
 
 ## 释义
-- **名词 (n)**: 评论家，批评者。指那些分析、评价艺术、文学、电影等作品的人。例如: "[The](/post/the/) [art](/post/art/) [critic](/post/critic/) praised [the](/post/the/) painter's [use](/post/use/) [of](/post/of/) [color](/post/color/)."
-- **动词 (v)**: 批评，评论。对某事物表达意见或判断，特别是指出缺点。例如: "[She](/post/she/) was criticized [for](/post/for/) [her](/post/her/) [aggressive](/post/aggressive/) [behavior](/post/behavior/) [in](/post/in/) [the](/post/the/) [meeting](/post/meeting/)."
+- **名词 (n)**: 评论家，批评者。指那些分析、评价艺术、文学、电影等作品的人。例如: "[The](/zh/post/the/) [art](/zh/post/art/) [critic](/zh/post/critic/) praised [the](/zh/post/the/) painter's [use](/zh/post/use/) [of](/zh/post/of/) [color](/zh/post/color/)."
+- **动词 (v)**: 批评，评论。对某事物表达意见或判断，特别是指出缺点。例如: "[She](/zh/post/she/) was criticized [for](/zh/post/for/) [her](/zh/post/her/) [aggressive](/zh/post/aggressive/) [behavior](/zh/post/behavior/) [in](/zh/post/in/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
 
 ## 短语
-- "[criticize](/post/criticize/) [someone](/post/someone/) [for](/post/for/) [something](/post/something/)" 意思是因为某事而批评某人。
-- "[film](/post/film/) [critic](/post/critic/)" 指专门评论电影的专业人士。
+- "[criticize](/zh/post/criticize/) [someone](/zh/post/someone/) [for](/zh/post/for/) [something](/zh/post/something/)" 意思是因为某事而批评某人。
+- "[film](/zh/post/film/) [critic](/zh/post/critic/)" 指专门评论电影的专业人士。
 - "self-critic" 指自我批判，对自己的行为或作品进行反思的人。
 
 ## 例句
-- 名词: "[The](/post/the/) theater critic's [review](/post/review/) appeared [in](/post/in/) [the](/post/the/) Sunday [newspaper](/post/newspaper/)."
-- 动词: "[The](/post/the/) [teacher](/post/teacher/) criticized [his](/post/his/) [essay](/post/essay/) [for](/post/for/) [its](/post/its/) [lack](/post/lack/) [of](/post/of/) [structure](/post/structure/)."
+- 名词: "[The](/zh/post/the/) theater critic's [review](/zh/post/review/) appeared [in](/zh/post/in/) [the](/zh/post/the/) Sunday [newspaper](/zh/post/newspaper/)."
+- 动词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) criticized [his](/zh/post/his/) [essay](/zh/post/essay/) [for](/zh/post/for/) [its](/zh/post/its/) [lack](/zh/post/lack/) [of](/zh/post/of/) [structure](/zh/post/structure/)."
 
 ## 同义词
 - Commentator
 - Reviewer
 - Analyst
-- [Judge](/post/judge/)
+- [Judge](/zh/post/judge/)
 - Assessor

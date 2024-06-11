@@ -11,20 +11,20 @@ keywords = ['ai words', 'moan']
 /moʊn/
 
 ## 释义
-- **动词**: 发出呻吟声，尤指因痛苦、不满或性兴奋而发出的声音。例如: "[She](/post/she/) moaned [in](/post/in/) [pain](/post/pain/) [when](/post/when/) [she](/post/she/) [hurt](/post/hurt/) [her](/post/her/) [ankle](/post/ankle/)."
-- **名词**: 呻吟声；抱怨。例如: "[His](/post/his/) moans filled [the](/post/the/) [room](/post/room/) [as](/post/as/) [he](/post/he/) suffered [from](/post/from/) [a](/post/a/) [headache](/post/headache/)."
+- **动词**: 发出呻吟声，尤指因痛苦、不满或性兴奋而发出的声音。例如: "[She](/zh/post/she/) moaned [in](/zh/post/in/) [pain](/zh/post/pain/) [when](/zh/post/when/) [she](/zh/post/she/) [hurt](/zh/post/hurt/) [her](/zh/post/her/) [ankle](/zh/post/ankle/)."
+- **名词**: 呻吟声；抱怨。例如: "[His](/zh/post/his/) moans filled [the](/zh/post/the/) [room](/zh/post/room/) [as](/zh/post/as/) [he](/zh/post/he/) suffered [from](/zh/post/from/) [a](/zh/post/a/) [headache](/zh/post/headache/)."
 
 ## 短语
-- "[to](/post/to/) [moan](/post/moan/) [in](/post/in/) one's [sleep](/post/sleep/)" 表示在睡梦中呻吟。
-- "[a](/post/a/) litany [of](/post/of/) moans" 指一连串的抱怨或不满。
+- "[to](/zh/post/to/) [moan](/zh/post/moan/) [in](/zh/post/in/) one's [sleep](/zh/post/sleep/)" 表示在睡梦中呻吟。
+- "[a](/zh/post/a/) litany [of](/zh/post/of/) moans" 指一连串的抱怨或不满。
 
 ## 例句
-- 动词: "[The](/post/the/) [baby](/post/baby/) moaned [as](/post/as/) [it](/post/it/) woke [up](/post/up/) [from](/post/from/) [a](/post/a/) [deep](/post/deep/) [sleep](/post/sleep/)."
-- 名词: "[Her](/post/her/) moans echoed [through](/post/through/) [the](/post/the/) [empty](/post/empty/) hallway."
+- 动词: "[The](/zh/post/the/) [baby](/zh/post/baby/) moaned [as](/zh/post/as/) [it](/zh/post/it/) woke [up](/zh/post/up/) [from](/zh/post/from/) [a](/zh/post/a/) [deep](/zh/post/deep/) [sleep](/zh/post/sleep/)."
+- 名词: "[Her](/zh/post/her/) moans echoed [through](/zh/post/through/) [the](/zh/post/the/) [empty](/zh/post/empty/) hallway."
 
 ## 同义词
-- [Groan](/post/groan/)
+- [Groan](/zh/post/groan/)
 - Whimper
-- [Sigh](/post/sigh/)
-- [Complain](/post/complain/)
+- [Sigh](/zh/post/sigh/)
+- [Complain](/zh/post/complain/)
 - Grumble

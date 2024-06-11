@@ -7,43 +7,43 @@ description = '[ˈpəːfjuːm] n.香味，芳香；香料'
 keywords = ['ai words', 'perfume']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈpɜːrfjuːm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Perfume](/en/post/perfume/)**: [A](/en/post/a/) scented [liquid](/en/post/liquid/) [used](/en/post/used/) [to](/en/post/to/) [give](/en/post/give/) [off](/en/post/off/) [a](/en/post/a/) [pleasant](/en/post/pleasant/) aroma, typically applied [to](/en/post/to/) [the](/en/post/the/) [skin](/en/post/skin/) [or](/en/post/or/) [clothing](/en/post/clothing/).
-   - [Definition](/en/post/definition/): [A](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) fragrant [essential](/en/post/essential/) oils [and](/en/post/and/) solvents, [used](/en/post/used/) [to](/en/post/to/) enhance one's [personal](/en/post/personal/) [scent](/en/post/scent/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) wore [a](/en/post/a/) [delicate](/en/post/delicate/) [perfume](/en/post/perfume/) [that](/en/post/that/) lingered [in](/en/post/in/) [the](/en/post/the/) [air](/en/post/air/)."
-2. **[Scent](/en/post/scent/)**: [The](/en/post/the/) distinctive aroma associated [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [substance](/en/post/substance/) [or](/en/post/or/) [person](/en/post/person/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [room](/en/post/room/) was filled [with](/en/post/with/) [the](/en/post/the/) [rich](/en/post/rich/) [scent](/en/post/scent/) [of](/en/post/of/) freshly baked cookies."
+### [Noun](/post/noun/)
+1. **[Perfume](/post/perfume/)**: [A](/post/a/) scented [liquid](/post/liquid/) [used](/post/used/) [to](/post/to/) [give](/post/give/) [off](/post/off/) [a](/post/a/) [pleasant](/post/pleasant/) aroma, typically applied [to](/post/to/) [the](/post/the/) [skin](/post/skin/) [or](/post/or/) [clothing](/post/clothing/).
+   - [Definition](/post/definition/): [A](/post/a/) [mixture](/post/mixture/) [of](/post/of/) fragrant [essential](/post/essential/) oils [and](/post/and/) solvents, [used](/post/used/) [to](/post/to/) enhance one's [personal](/post/personal/) [scent](/post/scent/).
+   - [Example](/post/example/): "[She](/post/she/) wore [a](/post/a/) [delicate](/post/delicate/) [perfume](/post/perfume/) [that](/post/that/) lingered [in](/post/in/) [the](/post/the/) [air](/post/air/)."
+2. **[Scent](/post/scent/)**: [The](/post/the/) distinctive aroma associated [with](/post/with/) [a](/post/a/) [particular](/post/particular/) [substance](/post/substance/) [or](/post/or/) [person](/post/person/).
+   - [Example](/post/example/): "[The](/post/the/) [room](/post/room/) was filled [with](/post/with/) [the](/post/the/) [rich](/post/rich/) [scent](/post/scent/) [of](/post/of/) freshly baked cookies."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [apply](/en/post/apply/) [perfume](/en/post/perfume/) [or](/en/post/or/) cologne.
-   - [Example](/en/post/example/): "[She](/en/post/she/) sprayed [her](/en/post/her/) [perfume](/en/post/perfume/) [before](/en/post/before/) leaving [the](/en/post/the/) [house](/en/post/house/)."
-2. (figuratively) [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) distinctive aroma [or](/en/post/or/) [atmosphere](/en/post/atmosphere/).
-   - [Example](/en/post/example/): "[His](/en/post/his/) [work](/en/post/work/) had [a](/en/post/a/) [distinct](/en/post/distinct/) [perfume](/en/post/perfume/) [of](/en/post/of/) creativity."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [apply](/post/apply/) [perfume](/post/perfume/) [or](/post/or/) cologne.
+   - [Example](/post/example/): "[She](/post/she/) sprayed [her](/post/her/) [perfume](/post/perfume/) [before](/post/before/) leaving [the](/post/the/) [house](/post/house/)."
+2. (figuratively) [To](/post/to/) [have](/post/have/) [a](/post/a/) distinctive aroma [or](/post/or/) [atmosphere](/post/atmosphere/).
+   - [Example](/post/example/): "[His](/post/his/) [work](/post/work/) had [a](/post/a/) [distinct](/post/distinct/) [perfume](/post/perfume/) [of](/post/of/) creativity."
 
 ## Phrases
-- "[Spray](/en/post/spray/) [some](/en/post/some/) [perfume](/en/post/perfume/) [on](/en/post/on/)" [or](/en/post/or/) "[apply](/en/post/apply/) [perfume](/en/post/perfume/)"
-- "[Her](/en/post/her/) [perfume](/en/post/perfume/) was subtle [but](/en/post/but/) [noticeable](/en/post/noticeable/)"
-- "[The](/en/post/the/) [perfume](/en/post/perfume/) [industry](/en/post/industry/) has evolved significantly [over](/en/post/over/) [the](/en/post/the/) years"
+- "[Spray](/post/spray/) [some](/post/some/) [perfume](/post/perfume/) [on](/post/on/)" [or](/post/or/) "[apply](/post/apply/) [perfume](/post/perfume/)"
+- "[Her](/post/her/) [perfume](/post/perfume/) was subtle [but](/post/but/) [noticeable](/post/noticeable/)"
+- "[The](/post/the/) [perfume](/post/perfume/) [industry](/post/industry/) has evolved significantly [over](/post/over/) [the](/post/the/) years"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) dabbed [some](/en/post/some/) [perfume](/en/post/perfume/) [behind](/en/post/behind/) [her](/en/post/her/) ears [before](/en/post/before/) [heading](/en/post/heading/) [out](/en/post/out/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [could](/en/post/could/) [smell](/en/post/smell/) [the](/en/post/the/) subtle [perfume](/en/post/perfume/) [of](/en/post/of/) [the](/en/post/the/) flowers [in](/en/post/in/) [the](/en/post/the/) [garden](/en/post/garden/)."
-- **Idiomatic**: "[The](/en/post/the/) [library](/en/post/library/) had [a](/en/post/a/) [familiar](/en/post/familiar/) [scent](/en/post/scent/) [of](/en/post/of/) [old](/en/post/old/) books."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) dabbed [some](/post/some/) [perfume](/post/perfume/) [behind](/post/behind/) [her](/post/her/) ears [before](/post/before/) [heading](/post/heading/) [out](/post/out/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) [could](/post/could/) [smell](/post/smell/) [the](/post/the/) subtle [perfume](/post/perfume/) [of](/post/of/) [the](/post/the/) flowers [in](/post/in/) [the](/post/the/) [garden](/post/garden/)."
+- **Idiomatic**: "[The](/post/the/) [library](/post/library/) had [a](/post/a/) [familiar](/post/familiar/) [scent](/post/scent/) [of](/post/of/) [old](/post/old/) books."
 
 ## Synonyms
-- [Scent](/en/post/scent/)
+- [Scent](/post/scent/)
 - Fragrance
 - Aroma
 - Cologne
 - Eau de toilette
-- [Essential](/en/post/essential/) [oil](/en/post/oil/) [blend](/en/post/blend/)
+- [Essential](/post/essential/) [oil](/post/oil/) [blend](/post/blend/)
 
 ## Antonyms
 - Odor
 - Stench
-- [Unpleasant](/en/post/unpleasant/) [smell](/en/post/smell/)
-- B.O. ([Body](/en/post/body/) odor)
+- [Unpleasant](/post/unpleasant/) [smell](/post/smell/)
+- B.O. ([Body](/post/body/) odor)

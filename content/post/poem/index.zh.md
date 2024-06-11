@@ -11,20 +11,20 @@ keywords = ['ai words', 'poem']
 /poɪm/
 
 ## 释义
-- **名词**: 一种文学形式，通常由有节奏和韵律的行组成，表达情感、想法或描绘画面。例如: "[She](/post/she/) wrote [a](/post/a/) [beautiful](/post/beautiful/) [poem](/post/poem/) [about](/post/about/) [nature](/post/nature/)."
-- **名词**: 诗歌作品。例如: "[The](/post/the/) [poet](/post/poet/) recited [his](/post/his/) latest [poem](/post/poem/) [at](/post/at/) [the](/post/the/) [literary](/post/literary/) [event](/post/event/)."
+- **名词**: 一种文学形式，通常由有节奏和韵律的行组成，表达情感、想法或描绘画面。例如: "[She](/zh/post/she/) wrote [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [poem](/zh/post/poem/) [about](/zh/post/about/) [nature](/zh/post/nature/)."
+- **名词**: 诗歌作品。例如: "[The](/zh/post/the/) [poet](/zh/post/poet/) recited [his](/zh/post/his/) latest [poem](/zh/post/poem/) [at](/zh/post/at/) [the](/zh/post/the/) [literary](/zh/post/literary/) [event](/zh/post/event/)."
 
 ## 短语
-- "[A](/post/a/) [love](/post/love/) [poem](/post/poem/)" 指的是表达爱情主题的诗。
-- "[Free](/post/free/) verse [poem](/post/poem/)" 指没有固定韵律或格律的诗。
+- "[A](/zh/post/a/) [love](/zh/post/love/) [poem](/zh/post/poem/)" 指的是表达爱情主题的诗。
+- "[Free](/zh/post/free/) verse [poem](/zh/post/poem/)" 指没有固定韵律或格律的诗。
 
 ## 例句
-- 名词: "[The](/post/the/) children [learned](/post/learned/) [to](/post/to/) [recite](/post/recite/) [a](/post/a/) classic Chinese [poem](/post/poem/) [in](/post/in/) [class](/post/class/)."
-- 名词: "[The](/post/the/) [book](/post/book/) contains [a](/post/a/) [collection](/post/collection/) [of](/post/of/) [her](/post/her/) published poems."
+- 名词: "[The](/zh/post/the/) children [learned](/zh/post/learned/) [to](/zh/post/to/) [recite](/zh/post/recite/) [a](/zh/post/a/) classic Chinese [poem](/zh/post/poem/) [in](/zh/post/in/) [class](/zh/post/class/)."
+- 名词: "[The](/zh/post/the/) [book](/zh/post/book/) contains [a](/zh/post/a/) [collection](/zh/post/collection/) [of](/zh/post/of/) [her](/zh/post/her/) published poems."
 
 ## 同义词
 - Verse
-- Poetic [composition](/post/composition/)
+- Poetic [composition](/zh/post/composition/)
 - Ode
 - Sonnet
 - Lyric

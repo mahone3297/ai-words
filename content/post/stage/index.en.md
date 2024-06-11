@@ -7,45 +7,45 @@ description = '[steidʒ] n.舞台；戏剧；阶段'
 keywords = ['ai words', 'stage']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /steɪdʒ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [stage](/en/post/stage/)**: [A](/en/post/a/) raised [platform](/en/post/platform/) [used](/en/post/used/) [for](/en/post/for/) performances, presentations, [or](/en/post/or/) [public](/en/post/public/) speaking, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) theater [or](/en/post/or/) [on](/en/post/on/) [a](/en/post/a/) [television](/en/post/television/) [show](/en/post/show/). [Example](/en/post/example/): "[The](/en/post/the/) actors stepped [onto](/en/post/onto/) [the](/en/post/the/) [stage](/en/post/stage/) [for](/en/post/for/) [their](/en/post/their/) [opening](/en/post/opening/) [act](/en/post/act/)."
-2. **Acting [stage](/en/post/stage/)**: [The](/en/post/the/) [level](/en/post/level/) [of](/en/post/of/) [skill](/en/post/skill/) [or](/en/post/or/) [experience](/en/post/experience/) [in](/en/post/in/) performing arts. [Example](/en/post/example/): "She's [still](/en/post/still/) [on](/en/post/on/) [the](/en/post/the/) [early](/en/post/early/) [stage](/en/post/stage/) [of](/en/post/of/) [her](/en/post/her/) acting [career](/en/post/career/)."
-3. **Stages [of](/en/post/of/) [development](/en/post/development/)**: [Different](/en/post/different/) periods [or](/en/post/or/) levels [of](/en/post/of/) [growth](/en/post/growth/) [or](/en/post/or/) [progress](/en/post/progress/). [Example](/en/post/example/): "Children [go](/en/post/go/) [through](/en/post/through/) [various](/en/post/various/) stages [of](/en/post/of/) cognitive [development](/en/post/development/)."
-4. **[Life](/en/post/life/) [stage](/en/post/stage/)**: [A](/en/post/a/) [particular](/en/post/particular/) [period](/en/post/period/) [in](/en/post/in/) one's [life](/en/post/life/), [such](/en/post/such/) [as](/en/post/as/) [childhood](/en/post/childhood/), adolescence, [or](/en/post/or/) retirement. [Example](/en/post/example/): "[Each](/en/post/each/) [stage](/en/post/stage/) [of](/en/post/of/) [life](/en/post/life/) brings [its](/en/post/its/) [own](/en/post/own/) [set](/en/post/set/) [of](/en/post/of/) challenges [and](/en/post/and/) opportunities."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [stage](/post/stage/)**: [A](/post/a/) raised [platform](/post/platform/) [used](/post/used/) [for](/post/for/) performances, presentations, [or](/post/or/) [public](/post/public/) speaking, [often](/post/often/) [in](/post/in/) [a](/post/a/) theater [or](/post/or/) [on](/post/on/) [a](/post/a/) [television](/post/television/) [show](/post/show/). [Example](/post/example/): "[The](/post/the/) actors stepped [onto](/post/onto/) [the](/post/the/) [stage](/post/stage/) [for](/post/for/) [their](/post/their/) [opening](/post/opening/) [act](/post/act/)."
+2. **Acting [stage](/post/stage/)**: [The](/post/the/) [level](/post/level/) [of](/post/of/) [skill](/post/skill/) [or](/post/or/) [experience](/post/experience/) [in](/post/in/) performing arts. [Example](/post/example/): "She's [still](/post/still/) [on](/post/on/) [the](/post/the/) [early](/post/early/) [stage](/post/stage/) [of](/post/of/) [her](/post/her/) acting [career](/post/career/)."
+3. **Stages [of](/post/of/) [development](/post/development/)**: [Different](/post/different/) periods [or](/post/or/) levels [of](/post/of/) [growth](/post/growth/) [or](/post/or/) [progress](/post/progress/). [Example](/post/example/): "Children [go](/post/go/) [through](/post/through/) [various](/post/various/) stages [of](/post/of/) cognitive [development](/post/development/)."
+4. **[Life](/post/life/) [stage](/post/stage/)**: [A](/post/a/) [particular](/post/particular/) [period](/post/period/) [in](/post/in/) one's [life](/post/life/), [such](/post/such/) [as](/post/as/) [childhood](/post/childhood/), adolescence, [or](/post/or/) retirement. [Example](/post/example/): "[Each](/post/each/) [stage](/post/stage/) [of](/post/of/) [life](/post/life/) brings [its](/post/its/) [own](/post/own/) [set](/post/set/) [of](/post/of/) challenges [and](/post/and/) opportunities."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [perform](/en/post/perform/) [or](/en/post/or/) [present](/en/post/present/) [oneself](/en/post/oneself/) [on](/en/post/on/) [a](/en/post/a/) [stage](/en/post/stage/). [Example](/en/post/example/): "[The](/en/post/the/) performers staged [a](/en/post/a/) [magnificent](/en/post/magnificent/) [production](/en/post/production/)."
-2. [To](/en/post/to/) [advance](/en/post/advance/) [through](/en/post/through/) [different](/en/post/different/) stages [in](/en/post/in/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [competition](/en/post/competition/). [Example](/en/post/example/): "[The](/en/post/the/) contestants progressed [through](/en/post/through/) [several](/en/post/several/) stages [to](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) [final](/en/post/final/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [perform](/post/perform/) [or](/post/or/) [present](/post/present/) [oneself](/post/oneself/) [on](/post/on/) [a](/post/a/) [stage](/post/stage/). [Example](/post/example/): "[The](/post/the/) performers staged [a](/post/a/) [magnificent](/post/magnificent/) [production](/post/production/)."
+2. [To](/post/to/) [advance](/post/advance/) [through](/post/through/) [different](/post/different/) stages [in](/post/in/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [competition](/post/competition/). [Example](/post/example/): "[The](/post/the/) contestants progressed [through](/post/through/) [several](/post/several/) stages [to](/post/to/) [reach](/post/reach/) [the](/post/the/) [final](/post/final/)."
 
-### [Adjective](/en/post/adjective/)
-1. Designating [a](/en/post/a/) [particular](/en/post/particular/) [phase](/en/post/phase/) [or](/en/post/or/) [point](/en/post/point/) [in](/en/post/in/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [sequence](/en/post/sequence/). [Example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) is currently [in](/en/post/in/) [the](/en/post/the/) planning [stage](/en/post/stage/)."
-2. [Used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [particular](/en/post/particular/) [level](/en/post/level/) [of](/en/post/of/) maturity [or](/en/post/or/) readiness. [Example](/en/post/example/): "[Her](/en/post/her/) [writing](/en/post/writing/) skills are [at](/en/post/at/) an [advanced](/en/post/advanced/) [stage](/en/post/stage/)."
+### [Adjective](/post/adjective/)
+1. Designating [a](/post/a/) [particular](/post/particular/) [phase](/post/phase/) [or](/post/or/) [point](/post/point/) [in](/post/in/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [sequence](/post/sequence/). [Example](/post/example/): "[The](/post/the/) [project](/post/project/) is currently [in](/post/in/) [the](/post/the/) planning [stage](/post/stage/)."
+2. [Used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [particular](/post/particular/) [level](/post/level/) [of](/post/of/) maturity [or](/post/or/) readiness. [Example](/post/example/): "[Her](/post/her/) [writing](/post/writing/) skills are [at](/post/at/) an [advanced](/post/advanced/) [stage](/post/stage/)."
 
 ## Phrases
-- "[On](/en/post/on/) [stage](/en/post/stage/)": [In](/en/post/in/) [a](/en/post/a/) [performance](/en/post/performance/) [or](/en/post/or/) presentation [area](/en/post/area/).
-- "Offstage": [Away](/en/post/away/) [from](/en/post/from/) [the](/en/post/the/) [main](/en/post/main/) [performance](/en/post/performance/) [area](/en/post/area/), typically [behind](/en/post/behind/) [the](/en/post/the/) scenes.
-- "[Reach](/en/post/reach/) [a](/en/post/a/) [new](/en/post/new/) [stage](/en/post/stage/)": [Move](/en/post/move/) [to](/en/post/to/) [a](/en/post/a/) higher [level](/en/post/level/) [or](/en/post/or/) [phase](/en/post/phase/).
-- "[Stage](/en/post/stage/) fright": [Fear](/en/post/fear/) [or](/en/post/or/) [anxiety](/en/post/anxiety/) experienced [by](/en/post/by/) performers [before](/en/post/before/) [or](/en/post/or/) [during](/en/post/during/) [a](/en/post/a/) [performance](/en/post/performance/).
+- "[On](/post/on/) [stage](/post/stage/)": [In](/post/in/) [a](/post/a/) [performance](/post/performance/) [or](/post/or/) presentation [area](/post/area/).
+- "Offstage": [Away](/post/away/) [from](/post/from/) [the](/post/the/) [main](/post/main/) [performance](/post/performance/) [area](/post/area/), typically [behind](/post/behind/) [the](/post/the/) scenes.
+- "[Reach](/post/reach/) [a](/post/a/) [new](/post/new/) [stage](/post/stage/)": [Move](/post/move/) [to](/post/to/) [a](/post/a/) higher [level](/post/level/) [or](/post/or/) [phase](/post/phase/).
+- "[Stage](/post/stage/) fright": [Fear](/post/fear/) [or](/post/or/) [anxiety](/post/anxiety/) experienced [by](/post/by/) performers [before](/post/before/) [or](/post/or/) [during](/post/during/) [a](/post/a/) [performance](/post/performance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [audience](/en/post/audience/) was waiting eagerly [for](/en/post/for/) [the](/en/post/the/) [curtain](/en/post/curtain/) [to](/en/post/to/) [rise](/en/post/rise/) [on](/en/post/on/) [the](/en/post/the/) [main](/en/post/main/) [stage](/en/post/stage/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [practice](/en/post/practice/), [he](/en/post/he/) confidently took [the](/en/post/the/) [stage](/en/post/stage/) [to](/en/post/to/) [sing](/en/post/sing/) [his](/en/post/his/) [first](/en/post/first/) solo."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's products [have](/en/post/have/) evolved [through](/en/post/through/) [various](/en/post/various/) developmental stages."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [audience](/post/audience/) was waiting eagerly [for](/post/for/) [the](/post/the/) [curtain](/post/curtain/) [to](/post/to/) [rise](/post/rise/) [on](/post/on/) [the](/post/the/) [main](/post/main/) [stage](/post/stage/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) [practice](/post/practice/), [he](/post/he/) confidently took [the](/post/the/) [stage](/post/stage/) [to](/post/to/) [sing](/post/sing/) [his](/post/his/) [first](/post/first/) solo."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) company's products [have](/post/have/) evolved [through](/post/through/) [various](/post/various/) developmental stages."
 
 ## Synonyms
-- [Platform](/en/post/platform/)
+- [Platform](/post/platform/)
 - Arena
-- [Platform](/en/post/platform/) [area](/en/post/area/)
-- [Act](/en/post/act/)
-- [Proceed](/en/post/proceed/)
-- [Progress](/en/post/progress/)
+- [Platform](/post/platform/) [area](/post/area/)
+- [Act](/post/act/)
+- [Proceed](/post/proceed/)
+- [Progress](/post/progress/)
 - Milestone
-- [Point](/en/post/point/)
-- [Level](/en/post/level/)
-- [Phase](/en/post/phase/)
-- [Step](/en/post/step/)
-- [Point](/en/post/point/) [of](/en/post/of/) [development](/en/post/development/)
+- [Point](/post/point/)
+- [Level](/post/level/)
+- [Phase](/post/phase/)
+- [Step](/post/step/)
+- [Point](/post/point/) [of](/post/of/) [development](/post/development/)

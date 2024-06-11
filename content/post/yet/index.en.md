@@ -7,35 +7,35 @@ description = '[jet] ad.还；已经 conj.而'
 keywords = ['ai words', 'yet']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjɛt/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: 
-1. [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) has [not](/en/post/not/) happened [yet](/en/post/yet/) [or](/en/post/or/) is [still](/en/post/still/) [to](/en/post/to/) [come](/en/post/come/): "I haven't finished [my](/en/post/my/) homework [yet](/en/post/yet/)." ([future](/en/post/future/))
-2. [In](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) "[already](/en/post/already/)", [meaning](/en/post/meaning/) [that](/en/post/that/) [something](/en/post/something/) has occurred [before](/en/post/before/) [another](/en/post/another/) [action](/en/post/action/): "She's [already](/en/post/already/) eaten, [so](/en/post/so/) [she](/en/post/she/) can't [eat](/en/post/eat/) [yet](/en/post/yet/) [again](/en/post/again/) [tonight](/en/post/tonight/)."
-3. [To](/en/post/to/) [express](/en/post/express/) hesitation [or](/en/post/or/) uncertainty: "Are [you](/en/post/you/) [ready](/en/post/ready/)? [Not](/en/post/not/) [quite](/en/post/quite/), [let](/en/post/let/) [me](/en/post/me/) [just](/en/post/just/) [put](/en/post/put/) [on](/en/post/on/) [my](/en/post/my/) shoes [yet](/en/post/yet/)."
+- **[Adverb](/post/adverb/)**: 
+1. [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) has [not](/post/not/) happened [yet](/post/yet/) [or](/post/or/) is [still](/post/still/) [to](/post/to/) [come](/post/come/): "I haven't finished [my](/post/my/) homework [yet](/post/yet/)." ([future](/post/future/))
+2. [In](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) "[already](/post/already/)", [meaning](/post/meaning/) [that](/post/that/) [something](/post/something/) has occurred [before](/post/before/) [another](/post/another/) [action](/post/action/): "She's [already](/post/already/) eaten, [so](/post/so/) [she](/post/she/) can't [eat](/post/eat/) [yet](/post/yet/) [again](/post/again/) [tonight](/post/tonight/)."
+3. [To](/post/to/) [express](/post/express/) hesitation [or](/post/or/) uncertainty: "Are [you](/post/you/) [ready](/post/ready/)? [Not](/post/not/) [quite](/post/quite/), [let](/post/let/) [me](/post/me/) [just](/post/just/) [put](/post/put/) [on](/post/on/) [my](/post/my/) shoes [yet](/post/yet/)."
 
 ## Phrases
-- "[Not](/en/post/not/) [yet](/en/post/yet/)" is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is [not](/en/post/not/) done [or](/en/post/or/) expected [to](/en/post/to/) [happen](/en/post/happen/) [immediately](/en/post/immediately/).
-- "[In](/en/post/in/) [a](/en/post/a/) [moment](/en/post/moment/), [just](/en/post/just/) [give](/en/post/give/) [me](/en/post/me/) [a](/en/post/a/) [second](/en/post/second/)" implies [that](/en/post/that/) [something](/en/post/something/) [will](/en/post/will/) [happen](/en/post/happen/) [shortly](/en/post/shortly/) [but](/en/post/but/) [not](/en/post/not/) [right](/en/post/right/) [away](/en/post/away/).
-- "He'll [be](/en/post/be/) [back](/en/post/back/) [soon](/en/post/soon/), he's [just](/en/post/just/) gone [to](/en/post/to/) [get](/en/post/get/) [coffee](/en/post/coffee/) [yet](/en/post/yet/)."
+- "[Not](/post/not/) [yet](/post/yet/)" is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is [not](/post/not/) done [or](/post/or/) expected [to](/post/to/) [happen](/post/happen/) [immediately](/post/immediately/).
+- "[In](/post/in/) [a](/post/a/) [moment](/post/moment/), [just](/post/just/) [give](/post/give/) [me](/post/me/) [a](/post/a/) [second](/post/second/)" implies [that](/post/that/) [something](/post/something/) [will](/post/will/) [happen](/post/happen/) [shortly](/post/shortly/) [but](/post/but/) [not](/post/not/) [right](/post/right/) [away](/post/away/).
+- "He'll [be](/post/be/) [back](/post/back/) [soon](/post/soon/), he's [just](/post/just/) gone [to](/post/to/) [get](/post/get/) [coffee](/post/coffee/) [yet](/post/yet/)."
 
-## [Example](/en/post/example/) Sentences
-- "I'll [call](/en/post/call/) [you](/en/post/you/) [when](/en/post/when/) I [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/), [not](/en/post/not/) [yet](/en/post/yet/)."
-- "I [know](/en/post/know/) it's [late](/en/post/late/), [but](/en/post/but/) I can't [go](/en/post/go/) [to](/en/post/to/) [bed](/en/post/bed/) [yet](/en/post/yet/), I [have](/en/post/have/) [one](/en/post/one/) [more](/en/post/more/) [task](/en/post/task/) [to](/en/post/to/) [complete](/en/post/complete/)."
-- "It's raining [heavily](/en/post/heavily/) [outside](/en/post/outside/), we'll [have](/en/post/have/) [to](/en/post/to/) [wait](/en/post/wait/) [until](/en/post/until/) [it](/en/post/it/) stops [yet](/en/post/yet/) [before](/en/post/before/) leaving."
+## [Example](/post/example/) Sentences
+- "I'll [call](/post/call/) [you](/post/you/) [when](/post/when/) I [finish](/post/finish/) [the](/post/the/) [project](/post/project/), [not](/post/not/) [yet](/post/yet/)."
+- "I [know](/post/know/) it's [late](/post/late/), [but](/post/but/) I can't [go](/post/go/) [to](/post/to/) [bed](/post/bed/) [yet](/post/yet/), I [have](/post/have/) [one](/post/one/) [more](/post/more/) [task](/post/task/) [to](/post/to/) [complete](/post/complete/)."
+- "It's raining [heavily](/post/heavily/) [outside](/post/outside/), we'll [have](/post/have/) [to](/post/to/) [wait](/post/wait/) [until](/post/until/) [it](/post/it/) stops [yet](/post/yet/) [before](/post/before/) leaving."
 
 ## Synonyms
-- [Still](/en/post/still/)
-- [Soon](/en/post/soon/)
-- [Presently](/en/post/presently/)
-- [Immediately](/en/post/immediately/)
+- [Still](/post/still/)
+- [Soon](/post/soon/)
+- [Presently](/post/presently/)
+- [Immediately](/post/immediately/)
 - Currently
 - Notwithstanding
 
 ## Antonyms
-- [Already](/en/post/already/)
-- [Previously](/en/post/previously/)
+- [Already](/post/already/)
+- [Previously](/post/previously/)
 - Finished
-- [Immediately](/en/post/immediately/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [without](/en/post/without/) [delay](/en/post/delay/))
+- [Immediately](/post/immediately/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [without](/post/without/) [delay](/post/delay/))

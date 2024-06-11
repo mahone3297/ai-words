@@ -7,31 +7,31 @@ description = '[ˌinsəˈfi∫ənt] a.不足的;不适当的'
 keywords = ['ai words', 'insufficient']
 +++
 
-## [Word](/en/post/word/): [Insufficient](/en/post/insufficient/)
+## [Word](/post/word/): [Insufficient](/post/insufficient/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɪnsəˈfɪʃ(ə)nt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) [enough](/en/post/enough/); inadequate [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [need](/en/post/need/) [or](/en/post/or/) [purpose](/en/post/purpose/).
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) [enough](/post/enough/); inadequate [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [need](/post/need/) [or](/post/or/) [purpose](/post/purpose/).
 
-### [Phrase](/en/post/phrase/)
-- **[Insufficient](/en/post/insufficient/) [evidence](/en/post/evidence/)**: [Evidence](/en/post/evidence/) [that](/en/post/that/) is [not](/en/post/not/) [adequate](/en/post/adequate/) [to](/en/post/to/) [prove](/en/post/prove/) [something](/en/post/something/) conclusively [or](/en/post/or/) [to](/en/post/to/) [meet](/en/post/meet/) [a](/en/post/a/) required [standard](/en/post/standard/).
-- **[Insufficient](/en/post/insufficient/) funds**: [Not](/en/post/not/) having [enough](/en/post/enough/) [money](/en/post/money/) [in](/en/post/in/) [a](/en/post/a/) [bank](/en/post/bank/) [account](/en/post/account/) [to](/en/post/to/) [cover](/en/post/cover/) [a](/en/post/a/) [financial](/en/post/financial/) transaction.
+### [Phrase](/post/phrase/)
+- **[Insufficient](/post/insufficient/) [evidence](/post/evidence/)**: [Evidence](/post/evidence/) [that](/post/that/) is [not](/post/not/) [adequate](/post/adequate/) [to](/post/to/) [prove](/post/prove/) [something](/post/something/) conclusively [or](/post/or/) [to](/post/to/) [meet](/post/meet/) [a](/post/a/) required [standard](/post/standard/).
+- **[Insufficient](/post/insufficient/) funds**: [Not](/post/not/) having [enough](/post/enough/) [money](/post/money/) [in](/post/in/) [a](/post/a/) [bank](/post/bank/) [account](/post/account/) [to](/post/to/) [cover](/post/cover/) [a](/post/a/) [financial](/post/financial/) transaction.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [bridge](/en/post/bridge/) was deemed unsafe [due](/en/post/due/) [to](/en/post/to/) [insufficient](/en/post/insufficient/) [structural](/en/post/structural/) [support](/en/post/support/)."
-- "[Due](/en/post/due/) [to](/en/post/to/) [insufficient](/en/post/insufficient/) planning, [the](/en/post/the/) [project](/en/post/project/) failed [to](/en/post/to/) [meet](/en/post/meet/) [its](/en/post/its/) deadline."
-- "[The](/en/post/the/) [payment](/en/post/payment/) was declined [because](/en/post/because/) [of](/en/post/of/) [insufficient](/en/post/insufficient/) funds [in](/en/post/in/) [the](/en/post/the/) [account](/en/post/account/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [bridge](/post/bridge/) was deemed unsafe [due](/post/due/) [to](/post/to/) [insufficient](/post/insufficient/) [structural](/post/structural/) [support](/post/support/)."
+- "[Due](/post/due/) [to](/post/to/) [insufficient](/post/insufficient/) planning, [the](/post/the/) [project](/post/project/) failed [to](/post/to/) [meet](/post/meet/) [its](/post/its/) deadline."
+- "[The](/post/the/) [payment](/post/payment/) was declined [because](/post/because/) [of](/post/of/) [insufficient](/post/insufficient/) funds [in](/post/in/) [the](/post/the/) [account](/post/account/)."
 
 ## Synonyms
 - Inadequate
 - Deficient
 - Unenough
 - Lacking
-- [Short](/en/post/short/)
+- [Short](/post/short/)
 - Wanting
 - Meager
 - Sparse
 - Scanty
-- [Limited](/en/post/limited/)
+- [Limited](/post/limited/)

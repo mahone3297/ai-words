@@ -8,37 +8,37 @@ keywords = ['ai words', 'take']
 +++
 
 ## 读音
-/[take](/post/take/)/ (注：此处的发音简写可能不够准确，通常在实际字典中会有更详尽的音标)
+/[take](/zh/post/take/)/ (注：此处的发音简写可能不够准确，通常在实际字典中会有更详尽的音标)
 
 ## 释义
 - **动词**:
-  - 接受（事物、建议等）：例如, "[She](/post/she/) decided [to](/post/to/) [take](/post/take/) [the](/post/the/) [job](/post/job/) [offer](/post/offer/)."
-  - 拿走：例如, "[Please](/post/please/) [take](/post/take/) [this](/post/this/) [bag](/post/bag/); it's [too](/post/too/) [heavy](/post/heavy/) [for](/post/for/) [me](/post/me/)."
-  - 摄取（食物、药物等）：例如, "[You](/post/you/) [should](/post/should/) [take](/post/take/) [two](/post/two/) tablets [daily](/post/daily/)."
-  - 进行，从事：例如, "I'm taking [a](/post/a/) cooking [class](/post/class/) [this](/post/this/) [semester](/post/semester/)."
-  - 抓住机会：例如, "Don't [hesitate](/post/hesitate/), [just](/post/just/) [take](/post/take/) [it](/post/it/)!"
-  - 携带：例如, "[Take](/post/take/) an [umbrella](/post/umbrella/) [in](/post/in/) [case](/post/case/) [it](/post/it/) rains."
+  - 接受（事物、建议等）：例如, "[She](/zh/post/she/) decided [to](/zh/post/to/) [take](/zh/post/take/) [the](/zh/post/the/) [job](/zh/post/job/) [offer](/zh/post/offer/)."
+  - 拿走：例如, "[Please](/zh/post/please/) [take](/zh/post/take/) [this](/zh/post/this/) [bag](/zh/post/bag/); it's [too](/zh/post/too/) [heavy](/zh/post/heavy/) [for](/zh/post/for/) [me](/zh/post/me/)."
+  - 摄取（食物、药物等）：例如, "[You](/zh/post/you/) [should](/zh/post/should/) [take](/zh/post/take/) [two](/zh/post/two/) tablets [daily](/zh/post/daily/)."
+  - 进行，从事：例如, "I'm taking [a](/zh/post/a/) cooking [class](/zh/post/class/) [this](/zh/post/this/) [semester](/zh/post/semester/)."
+  - 抓住机会：例如, "Don't [hesitate](/zh/post/hesitate/), [just](/zh/post/just/) [take](/zh/post/take/) [it](/zh/post/it/)!"
+  - 携带：例如, "[Take](/zh/post/take/) an [umbrella](/zh/post/umbrella/) [in](/zh/post/in/) [case](/zh/post/case/) [it](/zh/post/it/) rains."
 
 - **名词**:
-  - 摄影中的一次拍摄：例如, "[This](/post/this/) [scene](/post/scene/) needs [another](/post/another/) [take](/post/take/)."
-  - 某人的看法或观点：例如, "That's [my](/post/my/) [take](/post/take/) [on](/post/on/) [the](/post/the/) [situation](/post/situation/)."
+  - 摄影中的一次拍摄：例如, "[This](/zh/post/this/) [scene](/zh/post/scene/) needs [another](/zh/post/another/) [take](/zh/post/take/)."
+  - 某人的看法或观点：例如, "That's [my](/zh/post/my/) [take](/zh/post/take/) [on](/zh/post/on/) [the](/zh/post/the/) [situation](/zh/post/situation/)."
   
 - **名词** (口语)：
-  - 份量，一客：例如, "[Can](/post/can/) I [have](/post/have/) [a](/post/a/) [take](/post/take/) [of](/post/of/) [the](/post/the/) pizza?"
+  - 份量，一客：例如, "[Can](/zh/post/can/) I [have](/zh/post/have/) [a](/zh/post/a/) [take](/zh/post/take/) [of](/zh/post/of/) [the](/zh/post/the/) pizza?"
 
 ## 短语
-- "[Take](/post/take/) [something](/post/something/) [seriously](/post/seriously/)" 认真对待某事
-- "[Take](/post/take/) [it](/post/it/) [easy](/post/easy/)" 放轻松
-- "[Take](/post/take/) [a](/post/a/) [break](/post/break/)" 休息一下
+- "[Take](/zh/post/take/) [something](/zh/post/something/) [seriously](/zh/post/seriously/)" 认真对待某事
+- "[Take](/zh/post/take/) [it](/zh/post/it/) [easy](/zh/post/easy/)" 放轻松
+- "[Take](/zh/post/take/) [a](/zh/post/a/) [break](/zh/post/break/)" 休息一下
 
 ## 例句
-- 动词: "[He](/post/he/) took [the](/post/the/) [book](/post/book/) [from](/post/from/) [the](/post/the/) [shelf](/post/shelf/) [and](/post/and/) began [reading](/post/reading/)."
-- 名词: "[The](/post/the/) [director](/post/director/) was [not](/post/not/) satisfied [with](/post/with/) [the](/post/the/) [first](/post/first/) [take](/post/take/)."
-- 口语名词: "I'll [have](/post/have/) [a](/post/a/) [large](/post/large/) [take](/post/take/) [of](/post/of/) [the](/post/the/) noodles, [please](/post/please/)."
+- 动词: "[He](/zh/post/he/) took [the](/zh/post/the/) [book](/zh/post/book/) [from](/zh/post/from/) [the](/zh/post/the/) [shelf](/zh/post/shelf/) [and](/zh/post/and/) began [reading](/zh/post/reading/)."
+- 名词: "[The](/zh/post/the/) [director](/zh/post/director/) was [not](/zh/post/not/) satisfied [with](/zh/post/with/) [the](/zh/post/the/) [first](/zh/post/first/) [take](/zh/post/take/)."
+- 口语名词: "I'll [have](/zh/post/have/) [a](/zh/post/a/) [large](/zh/post/large/) [take](/zh/post/take/) [of](/zh/post/of/) [the](/zh/post/the/) noodles, [please](/zh/post/please/)."
 
 ## 同义词
-- [Get](/post/get/)
+- [Get](/zh/post/get/)
 - Grab
-- [Obtain](/post/obtain/)
-- [Seize](/post/seize/)
-- [Catch](/post/catch/)
+- [Obtain](/zh/post/obtain/)
+- [Seize](/zh/post/seize/)
+- [Catch](/zh/post/catch/)

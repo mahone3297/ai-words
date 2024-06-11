@@ -7,29 +7,29 @@ description = '[ˈsauθˈiːst] n.东南 a.位于东南的'
 keywords = ['ai words', 'southeast']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈʊstən/ (suh-stuhn)
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Designating [the](/en/post/the/) [compass](/en/post/compass/) [direction](/en/post/direction/) lying [between](/en/post/between/) [south](/en/post/south/) [and](/en/post/and/) [east](/en/post/east/); situated [in](/en/post/in/) [that](/en/post/that/) [quarter](/en/post/quarter/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) is located [in](/en/post/in/) [the](/en/post/the/) [southeast](/en/post/southeast/) [corner](/en/post/corner/) [of](/en/post/of/) [the](/en/post/the/) [property](/en/post/property/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [region](/en/post/region/) [or](/en/post/or/) [area](/en/post/area/) [of](/en/post/of/) [the](/en/post/the/) [earth](/en/post/earth/) [corresponding](/en/post/corresponding/) [to](/en/post/to/) [this](/en/post/this/) [direction](/en/post/direction/), typically [in](/en/post/in/) [the](/en/post/the/) [southern](/en/post/southern/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/) [or](/en/post/or/) [continent](/en/post/continent/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) took [a](/en/post/a/) [road](/en/post/road/) [trip](/en/post/trip/) [through](/en/post/through/) [the](/en/post/the/) southeastern United States."
-- **Prepositional [phrase](/en/post/phrase/)**: Expressing [a](/en/post/a/) spatial [relationship](/en/post/relationship/), [as](/en/post/as/) [in](/en/post/in/) "[in](/en/post/in/) [the](/en/post/the/) [southeast](/en/post/southeast/)." [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [storm](/en/post/storm/) [hit](/en/post/hit/) [the](/en/post/the/) [southeast](/en/post/southeast/) [coast](/en/post/coast/) [with](/en/post/with/) [heavy](/en/post/heavy/) rainfall."
+- **[Adjective](/post/adjective/)**: Designating [the](/post/the/) [compass](/post/compass/) [direction](/post/direction/) lying [between](/post/between/) [south](/post/south/) [and](/post/and/) [east](/post/east/); situated [in](/post/in/) [that](/post/that/) [quarter](/post/quarter/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [house](/post/house/) is located [in](/post/in/) [the](/post/the/) [southeast](/post/southeast/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [property](/post/property/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [region](/post/region/) [or](/post/or/) [area](/post/area/) [of](/post/of/) [the](/post/the/) [earth](/post/earth/) [corresponding](/post/corresponding/) [to](/post/to/) [this](/post/this/) [direction](/post/direction/), typically [in](/post/in/) [the](/post/the/) [southern](/post/southern/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [country](/post/country/) [or](/post/or/) [continent](/post/continent/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) took [a](/post/a/) [road](/post/road/) [trip](/post/trip/) [through](/post/through/) [the](/post/the/) southeastern United States."
+- **Prepositional [phrase](/post/phrase/)**: Expressing [a](/post/a/) spatial [relationship](/post/relationship/), [as](/post/as/) [in](/post/in/) "[in](/post/in/) [the](/post/the/) [southeast](/post/southeast/)." [For](/post/for/) [example](/post/example/): "[The](/post/the/) [storm](/post/storm/) [hit](/post/hit/) [the](/post/the/) [southeast](/post/southeast/) [coast](/post/coast/) [with](/post/with/) [heavy](/post/heavy/) rainfall."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [southeast](/en/post/southeast/)" refers [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) geographic [location](/en/post/location/).
-- "Southeastern states" [usually](/en/post/usually/) includes states [like](/en/post/like/) Florida, Georgia, Alabama, Mississippi, Louisiana, [and](/en/post/and/) parts [of](/en/post/of/) [South](/en/post/south/) Carolina [and](/en/post/and/) Tennessee.
-- "Moving southeastward" describes [a](/en/post/a/) [direction](/en/post/direction/) [of](/en/post/of/) [travel](/en/post/travel/).
+- "[In](/post/in/) [the](/post/the/) [southeast](/post/southeast/)" refers [to](/post/to/) [a](/post/a/) [specific](/post/specific/) geographic [location](/post/location/).
+- "Southeastern states" [usually](/post/usually/) includes states [like](/post/like/) Florida, Georgia, Alabama, Mississippi, Louisiana, [and](/post/and/) parts [of](/post/of/) [South](/post/south/) Carolina [and](/post/and/) Tennessee.
+- "Moving southeastward" describes [a](/post/a/) [direction](/post/direction/) [of](/post/of/) [travel](/post/travel/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sunrise](/en/post/sunrise/) was [beautiful](/en/post/beautiful/), casting [its](/en/post/its/) [golden](/en/post/golden/) [light](/en/post/light/) [over](/en/post/over/) [the](/en/post/the/) [southeast](/en/post/southeast/) [horizon](/en/post/horizon/)."
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) decided [to](/en/post/to/) [explore](/en/post/explore/) [the](/en/post/the/) [diverse](/en/post/diverse/) landscapes [of](/en/post/of/) [the](/en/post/the/) southeastern United States."
-- **Prepositional [phrase](/en/post/phrase/)**: "[The](/en/post/the/) [conference](/en/post/conference/) [will](/en/post/will/) [be](/en/post/be/) held [in](/en/post/in/) [the](/en/post/the/) auditorium, overlooking [the](/en/post/the/) [southeast](/en/post/southeast/) [garden](/en/post/garden/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sunrise](/post/sunrise/) was [beautiful](/post/beautiful/), casting [its](/post/its/) [golden](/post/golden/) [light](/post/light/) [over](/post/over/) [the](/post/the/) [southeast](/post/southeast/) [horizon](/post/horizon/)."
+- **[Noun](/post/noun/)**: "[We](/post/we/) decided [to](/post/to/) [explore](/post/explore/) [the](/post/the/) [diverse](/post/diverse/) landscapes [of](/post/of/) [the](/post/the/) southeastern United States."
+- **Prepositional [phrase](/post/phrase/)**: "[The](/post/the/) [conference](/post/conference/) [will](/post/will/) [be](/post/be/) held [in](/post/in/) [the](/post/the/) auditorium, overlooking [the](/post/the/) [southeast](/post/southeast/) [garden](/post/garden/)."
 
 ## Synonyms
 - Southern-eastern
 - Eastern-southern
-- Southeastern [region](/en/post/region/)
-- [Southeast](/en/post/southeast/) sector
+- Southeastern [region](/post/region/)
+- [Southeast](/post/southeast/) sector
 - Quadrant
 
-## [Note](/en/post/note/): "[Southeast](/en/post/southeast/)" does [not](/en/post/not/) [have](/en/post/have/) [a](/en/post/a/) [verb](/en/post/verb/) [form](/en/post/form/) [as](/en/post/as/) [it](/en/post/it/) is [not](/en/post/not/) [a](/en/post/a/) [action](/en/post/action/) [or](/en/post/or/) [state](/en/post/state/), [but](/en/post/but/) [rather](/en/post/rather/) [a](/en/post/a/) [direction](/en/post/direction/) [or](/en/post/or/) descriptor. [It](/en/post/it/) does [not](/en/post/not/) [have](/en/post/have/) [noun](/en/post/noun/) [or](/en/post/or/) [pronoun](/en/post/pronoun/) forms [either](/en/post/either/), [as](/en/post/as/) [it](/en/post/it/) is [not](/en/post/not/) [a](/en/post/a/) [person](/en/post/person/), [thing](/en/post/thing/), [or](/en/post/or/) [abstract](/en/post/abstract/) [concept](/en/post/concept/).
+## [Note](/post/note/): "[Southeast](/post/southeast/)" does [not](/post/not/) [have](/post/have/) [a](/post/a/) [verb](/post/verb/) [form](/post/form/) [as](/post/as/) [it](/post/it/) is [not](/post/not/) [a](/post/a/) [action](/post/action/) [or](/post/or/) [state](/post/state/), [but](/post/but/) [rather](/post/rather/) [a](/post/a/) [direction](/post/direction/) [or](/post/or/) descriptor. [It](/post/it/) does [not](/post/not/) [have](/post/have/) [noun](/post/noun/) [or](/post/or/) [pronoun](/post/pronoun/) forms [either](/post/either/), [as](/post/as/) [it](/post/it/) is [not](/post/not/) [a](/post/a/) [person](/post/person/), [thing](/post/thing/), [or](/post/or/) [abstract](/post/abstract/) [concept](/post/concept/).

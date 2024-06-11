@@ -7,37 +7,37 @@ description = '[tiː] n.茶；茶叶；茶树'
 keywords = ['ai words', 'tea']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tiː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) beverage typically made [from](/en/post/from/) fermented leaves [of](/en/post/of/) [the](/en/post/the/) Camellia sinensis [plant](/en/post/plant/), served [hot](/en/post/hot/) [or](/en/post/or/) iced. 2. [A](/en/post/a/) [social](/en/post/social/) gathering [or](/en/post/or/) [event](/en/post/event/) centered [around](/en/post/around/) tea-drinking. 3. [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) steeped herbal [or](/en/post/or/) [fruit](/en/post/fruit/) infusion [not](/en/post/not/) derived [from](/en/post/from/) [the](/en/post/the/) Camellia sinensis [plant](/en/post/plant/). 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [serve](/en/post/serve/) [or](/en/post/or/) [consume](/en/post/consume/) [tea](/en/post/tea/). [To](/en/post/to/) partake [in](/en/post/in/) [a](/en/post/a/) [tea](/en/post/tea/) [ceremony](/en/post/ceremony/) [or](/en/post/or/) [event](/en/post/event/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) beverage typically made [from](/post/from/) fermented leaves [of](/post/of/) [the](/post/the/) Camellia sinensis [plant](/post/plant/), served [hot](/post/hot/) [or](/post/or/) iced. 2. [A](/post/a/) [social](/post/social/) gathering [or](/post/or/) [event](/post/event/) centered [around](/post/around/) tea-drinking. 3. [A](/post/a/) [type](/post/type/) [of](/post/of/) steeped herbal [or](/post/or/) [fruit](/post/fruit/) infusion [not](/post/not/) derived [from](/post/from/) [the](/post/the/) Camellia sinensis [plant](/post/plant/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [serve](/post/serve/) [or](/post/or/) [consume](/post/consume/) [tea](/post/tea/). [To](/post/to/) partake [in](/post/in/) [a](/post/a/) [tea](/post/tea/) [ceremony](/post/ceremony/) [or](/post/or/) [event](/post/event/).
 
 ## Phrases
-- "[Have](/en/post/have/) [a](/en/post/a/) [cup](/en/post/cup/) [of](/en/post/of/) [tea](/en/post/tea/)" invites [someone](/en/post/someone/) [to](/en/post/to/) [share](/en/post/share/) [a](/en/post/a/) beverage.
-- "[Tea](/en/post/tea/) [time](/en/post/time/)" refers [to](/en/post/to/) [a](/en/post/a/) scheduled [period](/en/post/period/) [for](/en/post/for/) [tea](/en/post/tea/) [consumption](/en/post/consumption/).
-- "[Tea](/en/post/tea/) [party](/en/post/party/)" is an informal gathering [for](/en/post/for/) socializing [over](/en/post/over/) [tea](/en/post/tea/).
+- "[Have](/post/have/) [a](/post/a/) [cup](/post/cup/) [of](/post/of/) [tea](/post/tea/)" invites [someone](/post/someone/) [to](/post/to/) [share](/post/share/) [a](/post/a/) beverage.
+- "[Tea](/post/tea/) [time](/post/time/)" refers [to](/post/to/) [a](/post/a/) scheduled [period](/post/period/) [for](/post/for/) [tea](/post/tea/) [consumption](/post/consumption/).
+- "[Tea](/post/tea/) [party](/post/party/)" is an informal gathering [for](/post/for/) socializing [over](/post/over/) [tea](/post/tea/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) invited [her](/en/post/her/) friends [over](/en/post/over/) [for](/en/post/for/) [a](/en/post/a/) cozy [afternoon](/en/post/afternoon/) [tea](/en/post/tea/)."
-- **[Verb](/en/post/verb/)**: "I [usually](/en/post/usually/) [have](/en/post/have/) [a](/en/post/a/) [cup](/en/post/cup/) [of](/en/post/of/) [green](/en/post/green/) [tea](/en/post/tea/) [before](/en/post/before/) [breakfast](/en/post/breakfast/)."
-- **Prepositional [Phrase](/en/post/phrase/)**: "[The](/en/post/the/) [tea](/en/post/tea/) [ceremony](/en/post/ceremony/) [in](/en/post/in/) Japan is [a](/en/post/a/) cultural ritual."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) invited [her](/post/her/) friends [over](/post/over/) [for](/post/for/) [a](/post/a/) cozy [afternoon](/post/afternoon/) [tea](/post/tea/)."
+- **[Verb](/post/verb/)**: "I [usually](/post/usually/) [have](/post/have/) [a](/post/a/) [cup](/post/cup/) [of](/post/of/) [green](/post/green/) [tea](/post/tea/) [before](/post/before/) [breakfast](/post/breakfast/)."
+- **Prepositional [Phrase](/post/phrase/)**: "[The](/post/the/) [tea](/post/tea/) [ceremony](/post/ceremony/) [in](/post/in/) Japan is [a](/post/a/) cultural ritual."
 
 ## Synonyms
-- [Tea](/en/post/tea/) ([already](/en/post/already/) [provided](/en/post/provided/))
+- [Tea](/post/tea/) ([already](/post/already/) [provided](/post/provided/))
 - Infusion
 - Brew
 - Tisane
-- Herbal [tea](/en/post/tea/)
-- Camomile [tea](/en/post/tea/)
-- [Black](/en/post/black/) [tea](/en/post/tea/)
-- [White](/en/post/white/) [tea](/en/post/tea/)
-- Oolong [tea](/en/post/tea/)
+- Herbal [tea](/post/tea/)
+- Camomile [tea](/post/tea/)
+- [Black](/post/black/) [tea](/post/tea/)
+- [White](/post/white/) [tea](/post/tea/)
+- Oolong [tea](/post/tea/)
 - Matcha
 
 ## Antonyms
-- [Coffee](/en/post/coffee/)
-- [Juice](/en/post/juice/)
-- [Water](/en/post/water/)
-- [Soda](/en/post/soda/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [tea](/en/post/tea/))
+- [Coffee](/post/coffee/)
+- [Juice](/post/juice/)
+- [Water](/post/water/)
+- [Soda](/post/soda/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [tea](/post/tea/))

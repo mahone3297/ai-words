@@ -7,41 +7,41 @@ description = '[səˈljuː∫ən] n.解决，解答；溶解'
 keywords = ['ai words', 'solution']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈluːʃ(ə)n/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[solution](/en/post/solution/)** is [a](/en/post/a/) homogeneous [mixture](/en/post/mixture/) [of](/en/post/of/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) substances, [usually](/en/post/usually/) [a](/en/post/a/) [liquid](/en/post/liquid/), [in](/en/post/in/) [which](/en/post/which/) [the](/en/post/the/) components are evenly distributed [and](/en/post/and/) [can](/en/post/can/) [be](/en/post/be/) separated [by](/en/post/by/) [physical](/en/post/physical/) methods. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/):
-1. [A](/en/post/a/) [method](/en/post/method/) [or](/en/post/or/) [plan](/en/post/plan/) [to](/en/post/to/) [resolve](/en/post/resolve/) [a](/en/post/a/) [problem](/en/post/problem/) [or](/en/post/or/) [issue](/en/post/issue/).
-2. [[Chemistry](/en/post/chemistry/)] [A](/en/post/a/) [state](/en/post/state/) [where](/en/post/where/) [a](/en/post/a/) solute is dissolved [in](/en/post/in/) [a](/en/post/a/) solvent, forming [a](/en/post/a/) [stable](/en/post/stable/) [mixture](/en/post/mixture/).
-3. [[Business](/en/post/business/)] An [agreement](/en/post/agreement/) [or](/en/post/or/) [arrangement](/en/post/arrangement/) [between](/en/post/between/) parties.
+### [Noun](/post/noun/)
+[A](/post/a/) **[solution](/post/solution/)** is [a](/post/a/) homogeneous [mixture](/post/mixture/) [of](/post/of/) [two](/post/two/) [or](/post/or/) [more](/post/more/) substances, [usually](/post/usually/) [a](/post/a/) [liquid](/post/liquid/), [in](/post/in/) [which](/post/which/) [the](/post/the/) components are evenly distributed [and](/post/and/) [can](/post/can/) [be](/post/be/) separated [by](/post/by/) [physical](/post/physical/) methods. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/):
+1. [A](/post/a/) [method](/post/method/) [or](/post/or/) [plan](/post/plan/) [to](/post/to/) [resolve](/post/resolve/) [a](/post/a/) [problem](/post/problem/) [or](/post/or/) [issue](/post/issue/).
+2. [[Chemistry](/post/chemistry/)] [A](/post/a/) [state](/post/state/) [where](/post/where/) [a](/post/a/) solute is dissolved [in](/post/in/) [a](/post/a/) solvent, forming [a](/post/a/) [stable](/post/stable/) [mixture](/post/mixture/).
+3. [[Business](/post/business/)] An [agreement](/post/agreement/) [or](/post/or/) [arrangement](/post/arrangement/) [between](/post/between/) parties.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[solve](/en/post/solve/)** [means](/en/post/means/) [to](/en/post/to/) [find](/en/post/find/) [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [or](/en/post/or/) [answer](/en/post/answer/) [a](/en/post/a/) [problem](/en/post/problem/), [equation](/en/post/equation/), [or](/en/post/or/) [situation](/en/post/situation/).
-- "[He](/en/post/he/) [quickly](/en/post/quickly/) solved [the](/en/post/the/) math [problem](/en/post/problem/)."
+### [Verb](/post/verb/)
+[To](/post/to/) **[solve](/post/solve/)** [means](/post/means/) [to](/post/to/) [find](/post/find/) [a](/post/a/) [way](/post/way/) [to](/post/to/) [deal](/post/deal/) [with](/post/with/) [or](/post/or/) [answer](/post/answer/) [a](/post/a/) [problem](/post/problem/), [equation](/post/equation/), [or](/post/or/) [situation](/post/situation/).
+- "[He](/post/he/) [quickly](/post/quickly/) solved [the](/post/the/) math [problem](/post/problem/)."
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) [some](/en/post/some/) cases, "solutions" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) provides [a](/en/post/a/) [satisfactory](/en/post/satisfactory/) [answer](/en/post/answer/) [or](/en/post/or/) [outcome](/en/post/outcome/).
-- "[The](/en/post/the/) [company](/en/post/company/) implemented innovative solutions [to](/en/post/to/) [improve](/en/post/improve/) [efficiency](/en/post/efficiency/)."
+### [Adjective](/post/adjective/)
+[In](/post/in/) [some](/post/some/) cases, "solutions" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) provides [a](/post/a/) [satisfactory](/post/satisfactory/) [answer](/post/answer/) [or](/post/or/) [outcome](/post/outcome/).
+- "[The](/post/the/) [company](/post/company/) implemented innovative solutions [to](/post/to/) [improve](/post/improve/) [efficiency](/post/efficiency/)."
 
 ## Phrases
-- "[Find](/en/post/find/) [a](/en/post/a/) [solution](/en/post/solution/) [to](/en/post/to/) [the](/en/post/the/) [problem](/en/post/problem/)"
-- "[A](/en/post/a/) sustainable [solution](/en/post/solution/)"
-- "[A](/en/post/a/) [temporary](/en/post/temporary/) [solution](/en/post/solution/)"
-- "[The](/en/post/the/) [key](/en/post/key/) [to](/en/post/to/) [the](/en/post/the/) [solution](/en/post/solution/)"
+- "[Find](/post/find/) [a](/post/a/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/)"
+- "[A](/post/a/) sustainable [solution](/post/solution/)"
+- "[A](/post/a/) [temporary](/post/temporary/) [solution](/post/solution/)"
+- "[The](/post/the/) [key](/post/key/) [to](/post/to/) [the](/post/the/) [solution](/post/solution/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) scientists mixed [the](/en/post/the/) chemicals [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [solution](/en/post/solution/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) were [able](/en/post/able/) [to](/en/post/to/) [solve](/en/post/solve/) [the](/en/post/the/) [complex](/en/post/complex/) [puzzle](/en/post/puzzle/) [after](/en/post/after/) hours [of](/en/post/of/) brainstorming."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) proposed [solution](/en/post/solution/) showed [great](/en/post/great/) [promise](/en/post/promise/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) scientists mixed [the](/post/the/) chemicals [to](/post/to/) [create](/post/create/) [a](/post/a/) [solution](/post/solution/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) were [able](/post/able/) [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [complex](/post/complex/) [puzzle](/post/puzzle/) [after](/post/after/) hours [of](/post/of/) brainstorming."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) proposed [solution](/post/solution/) showed [great](/post/great/) [promise](/post/promise/)."
 
 ## Synonyms
-- [Answer](/en/post/answer/)
-- [Resolution](/en/post/resolution/)
-- [Fix](/en/post/fix/)
-- [Cure](/en/post/cure/)
-- [Answer](/en/post/answer/)
-- [Remedy](/en/post/remedy/)
-- [Solution](/en/post/solution/) [method](/en/post/method/)
-- Answering [formula](/en/post/formula/)
+- [Answer](/post/answer/)
+- [Resolution](/post/resolution/)
+- [Fix](/post/fix/)
+- [Cure](/post/cure/)
+- [Answer](/post/answer/)
+- [Remedy](/post/remedy/)
+- [Solution](/post/solution/) [method](/post/method/)
+- Answering [formula](/post/formula/)

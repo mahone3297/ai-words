@@ -7,23 +7,23 @@ description = '[sɔːlt] n.盐；盐类 vt.加盐于'
 keywords = ['ai words', 'salt']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sælt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [chemical](/en/post/chemical/) [compound](/en/post/compound/) [with](/en/post/with/) [the](/en/post/the/) [formula](/en/post/formula/) NaCl, consisting [primarily](/en/post/primarily/) [of](/en/post/of/) sodium [and](/en/post/and/) chlorine ions, [essential](/en/post/essential/) [for](/en/post/for/) [various](/en/post/various/) biological processes [and](/en/post/and/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) seasoning [or](/en/post/or/) preservative. 2. [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) seasoning made [from](/en/post/from/) [mineral](/en/post/mineral/) salts, [often](/en/post/often/) derived [from](/en/post/from/) seawater [or](/en/post/or/) mined [rock](/en/post/rock/). 3. (informal) [A](/en/post/a/) person's temperament [or](/en/post/or/) [character](/en/post/character/); [their](/en/post/their/) [nature](/en/post/nature/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [season](/en/post/season/) [or](/en/post/or/) [preserve](/en/post/preserve/) [food](/en/post/food/) [with](/en/post/with/) [salt](/en/post/salt/). 4. [To](/en/post/to/) [add](/en/post/add/) [salt](/en/post/salt/) [to](/en/post/to/) [taste](/en/post/taste/).
-- **[Adjective](/en/post/adjective/)**: Salty; having [a](/en/post/a/) [strong](/en/post/strong/) [taste](/en/post/taste/) [of](/en/post/of/) [salt](/en/post/salt/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [chemical](/post/chemical/) [compound](/post/compound/) [with](/post/with/) [the](/post/the/) [formula](/post/formula/) NaCl, consisting [primarily](/post/primarily/) [of](/post/of/) sodium [and](/post/and/) chlorine ions, [essential](/post/essential/) [for](/post/for/) [various](/post/various/) biological processes [and](/post/and/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) [a](/post/a/) seasoning [or](/post/or/) preservative. 2. [A](/post/a/) [type](/post/type/) [of](/post/of/) seasoning made [from](/post/from/) [mineral](/post/mineral/) salts, [often](/post/often/) derived [from](/post/from/) seawater [or](/post/or/) mined [rock](/post/rock/). 3. (informal) [A](/post/a/) person's temperament [or](/post/or/) [character](/post/character/); [their](/post/their/) [nature](/post/nature/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [season](/post/season/) [or](/post/or/) [preserve](/post/preserve/) [food](/post/food/) [with](/post/with/) [salt](/post/salt/). 4. [To](/post/to/) [add](/post/add/) [salt](/post/salt/) [to](/post/to/) [taste](/post/taste/).
+- **[Adjective](/post/adjective/)**: Salty; having [a](/post/a/) [strong](/post/strong/) [taste](/post/taste/) [of](/post/of/) [salt](/post/salt/).
 
 ## Phrases
-- "[Add](/en/post/add/) [salt](/en/post/salt/) [to](/en/post/to/) [the](/en/post/the/) recipe" [means](/en/post/means/) [to](/en/post/to/) [include](/en/post/include/) [salt](/en/post/salt/) [as](/en/post/as/) [a](/en/post/a/) [necessary](/en/post/necessary/) ingredient.
-- "[A](/en/post/a/) [pinch](/en/post/pinch/) [of](/en/post/of/) [salt](/en/post/salt/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [meaning](/en/post/meaning/) [not](/en/post/not/) [to](/en/post/to/) [take](/en/post/take/) [something](/en/post/something/) [too](/en/post/too/) [seriously](/en/post/seriously/).
-- "[Salt](/en/post/salt/) [of](/en/post/of/) [the](/en/post/the/) [earth](/en/post/earth/)" refers [to](/en/post/to/) someone朴实, [honest](/en/post/honest/), [or](/en/post/or/) down-to-earth.
+- "[Add](/post/add/) [salt](/post/salt/) [to](/post/to/) [the](/post/the/) recipe" [means](/post/means/) [to](/post/to/) [include](/post/include/) [salt](/post/salt/) [as](/post/as/) [a](/post/a/) [necessary](/post/necessary/) ingredient.
+- "[A](/post/a/) [pinch](/post/pinch/) [of](/post/of/) [salt](/post/salt/)" is [a](/post/a/) colloquial [expression](/post/expression/) [meaning](/post/meaning/) [not](/post/not/) [to](/post/to/) [take](/post/take/) [something](/post/something/) [too](/post/too/) [seriously](/post/seriously/).
+- "[Salt](/post/salt/) [of](/post/of/) [the](/post/the/) [earth](/post/earth/)" refers [to](/post/to/) someone朴实, [honest](/post/honest/), [or](/post/or/) down-to-earth.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [table](/en/post/table/) was [set](/en/post/set/) [with](/en/post/with/) [fresh](/en/post/fresh/) [bread](/en/post/bread/) [and](/en/post/and/) [a](/en/post/a/) [bowl](/en/post/bowl/) [of](/en/post/of/) [sea](/en/post/sea/) [salt](/en/post/salt/) [on](/en/post/on/) [the](/en/post/the/) [side](/en/post/side/)."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [salt](/en/post/salt/) [the](/en/post/the/) [road](/en/post/road/) [before](/en/post/before/) [the](/en/post/the/) [winter](/en/post/winter/) [storm](/en/post/storm/) arrives."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) jokes were [a](/en/post/a/) [bit](/en/post/bit/) salty, [but](/en/post/but/) [people](/en/post/people/) appreciated [her](/en/post/her/) humor."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [table](/post/table/) was [set](/post/set/) [with](/post/with/) [fresh](/post/fresh/) [bread](/post/bread/) [and](/post/and/) [a](/post/a/) [bowl](/post/bowl/) [of](/post/of/) [sea](/post/sea/) [salt](/post/salt/) [on](/post/on/) [the](/post/the/) [side](/post/side/)."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [salt](/post/salt/) [the](/post/the/) [road](/post/road/) [before](/post/before/) [the](/post/the/) [winter](/post/winter/) [storm](/post/storm/) arrives."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) jokes were [a](/post/a/) [bit](/post/bit/) salty, [but](/post/but/) [people](/post/people/) appreciated [her](/post/her/) humor."
 
 ## Synonyms
 - Sodium chloride
@@ -35,5 +35,5 @@ keywords = ['ai words', 'salt']
 ## Antonyms
 - Unsalted
 - Bland
-- [Sweet](/en/post/sweet/)
-- Acrid ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) excessively salty)
+- [Sweet](/post/sweet/)
+- Acrid ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) excessively salty)

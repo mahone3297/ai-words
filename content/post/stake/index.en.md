@@ -7,36 +7,36 @@ description = '[steik] n.桩；赌金；奖品'
 keywords = ['ai words', 'stake']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /steɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [stake](/en/post/stake/)**: 1. [A](/en/post/a/) [slender](/en/post/slender/) [piece](/en/post/piece/) [of](/en/post/of/) [wood](/en/post/wood/), [metal](/en/post/metal/), [or](/en/post/or/) [other](/en/post/other/) [material](/en/post/material/) driven [or](/en/post/or/) fixed [into](/en/post/into/) [the](/en/post/the/) [ground](/en/post/ground/), [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [support](/en/post/support/) [a](/en/post/a/) [structure](/en/post/structure/) [or](/en/post/or/) [mark](/en/post/mark/) [a](/en/post/a/) [boundary](/en/post/boundary/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [fence](/en/post/fence/) [post](/en/post/post/) was secured [with](/en/post/with/) [a](/en/post/a/) sturdy [stake](/en/post/stake/)."
-- 2. An [interest](/en/post/interest/) [or](/en/post/or/) [investment](/en/post/investment/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [business](/en/post/business/) [or](/en/post/or/) [venture](/en/post/venture/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) has [a](/en/post/a/) [significant](/en/post/significant/) [stake](/en/post/stake/) [in](/en/post/in/) [the](/en/post/the/) company's [success](/en/post/success/)."
-- 3. (informal) [In](/en/post/in/) poker, [a](/en/post/a/) [bet](/en/post/bet/) [that](/en/post/that/) [one](/en/post/one/) is [willing](/en/post/willing/) [to](/en/post/to/) [risk](/en/post/risk/) [to](/en/post/to/) [win](/en/post/win/) [or](/en/post/or/) [lose](/en/post/lose/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [put](/en/post/put/) [all](/en/post/all/) [his](/en/post/his/) chips [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/), staking [everything](/en/post/everything/) [on](/en/post/on/) [that](/en/post/that/) [hand](/en/post/hand/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [stake](/post/stake/)**: 1. [A](/post/a/) [slender](/post/slender/) [piece](/post/piece/) [of](/post/of/) [wood](/post/wood/), [metal](/post/metal/), [or](/post/or/) [other](/post/other/) [material](/post/material/) driven [or](/post/or/) fixed [into](/post/into/) [the](/post/the/) [ground](/post/ground/), [often](/post/often/) [used](/post/used/) [to](/post/to/) [support](/post/support/) [a](/post/a/) [structure](/post/structure/) [or](/post/or/) [mark](/post/mark/) [a](/post/a/) [boundary](/post/boundary/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [fence](/post/fence/) [post](/post/post/) was secured [with](/post/with/) [a](/post/a/) sturdy [stake](/post/stake/)."
+- 2. An [interest](/post/interest/) [or](/post/or/) [investment](/post/investment/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [business](/post/business/) [or](/post/or/) [venture](/post/venture/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) has [a](/post/a/) [significant](/post/significant/) [stake](/post/stake/) [in](/post/in/) [the](/post/the/) company's [success](/post/success/)."
+- 3. (informal) [In](/post/in/) poker, [a](/post/a/) [bet](/post/bet/) [that](/post/that/) [one](/post/one/) is [willing](/post/willing/) [to](/post/to/) [risk](/post/risk/) [to](/post/to/) [win](/post/win/) [or](/post/or/) [lose](/post/lose/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) [put](/post/put/) [all](/post/all/) [his](/post/his/) chips [on](/post/on/) [the](/post/the/) [table](/post/table/), staking [everything](/post/everything/) [on](/post/on/) [that](/post/that/) [hand](/post/hand/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [stake](/en/post/stake/)**: 1. [To](/en/post/to/) [fix](/en/post/fix/) [or](/en/post/or/) [plant](/en/post/plant/) [a](/en/post/a/) [stake](/en/post/stake/) [for](/en/post/for/) [support](/en/post/support/) [or](/en/post/or/) marking [a](/en/post/a/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) builder staked [out](/en/post/out/) [the](/en/post/the/) corners [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) [house](/en/post/house/)."
-- 2. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [claim](/en/post/claim/) [or](/en/post/or/) commitment [by](/en/post/by/) putting [something](/en/post/something/) [at](/en/post/at/) [risk](/en/post/risk/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) staked [his](/en/post/his/) [reputation](/en/post/reputation/) [on](/en/post/on/) [the](/en/post/the/) [accuracy](/en/post/accuracy/) [of](/en/post/of/) [his](/en/post/his/) [research](/en/post/research/)."
-- 3. (informal) [To](/en/post/to/) [place](/en/post/place/) [a](/en/post/a/) [bet](/en/post/bet/), [especially](/en/post/especially/) [in](/en/post/in/) poker. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [stake](/en/post/stake/) $50 [on](/en/post/on/) [the](/en/post/the/) [black](/en/post/black/) [card](/en/post/card/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [stake](/post/stake/)**: 1. [To](/post/to/) [fix](/post/fix/) [or](/post/or/) [plant](/post/plant/) [a](/post/a/) [stake](/post/stake/) [for](/post/for/) [support](/post/support/) [or](/post/or/) marking [a](/post/a/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) builder staked [out](/post/out/) [the](/post/the/) corners [of](/post/of/) [the](/post/the/) [new](/post/new/) [house](/post/house/)."
+- 2. [To](/post/to/) [make](/post/make/) [a](/post/a/) [claim](/post/claim/) [or](/post/or/) commitment [by](/post/by/) putting [something](/post/something/) [at](/post/at/) [risk](/post/risk/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) staked [his](/post/his/) [reputation](/post/reputation/) [on](/post/on/) [the](/post/the/) [accuracy](/post/accuracy/) [of](/post/of/) [his](/post/his/) [research](/post/research/)."
+- 3. (informal) [To](/post/to/) [place](/post/place/) [a](/post/a/) [bet](/post/bet/), [especially](/post/especially/) [in](/post/in/) poker. [For](/post/for/) [example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [stake](/post/stake/) $50 [on](/post/on/) [the](/post/the/) [black](/post/black/) [card](/post/card/)."
 
-### [Noun](/en/post/noun/) (informal)
-- **Stakeout**: [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) surveillance [or](/en/post/or/) waiting, [usually](/en/post/usually/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [person](/en/post/person/) [or](/en/post/or/) [event](/en/post/event/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) spent hours [on](/en/post/on/) [a](/en/post/a/) stakeout [outside](/en/post/outside/) [the](/en/post/the/) suspect's [house](/en/post/house/)."
+### [Noun](/post/noun/) (informal)
+- **Stakeout**: [A](/post/a/) [period](/post/period/) [of](/post/of/) surveillance [or](/post/or/) waiting, [usually](/post/usually/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [person](/post/person/) [or](/post/or/) [event](/post/event/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) spent hours [on](/post/on/) [a](/post/a/) stakeout [outside](/post/outside/) [the](/post/the/) suspect's [house](/post/house/)."
 
 ## Phrases
-- "[Put](/en/post/put/) [up](/en/post/up/) [a](/en/post/a/) [stake](/en/post/stake/)" [means](/en/post/means/) [to](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [secure](/en/post/secure/) [something](/en/post/something/) firmly.
-- "[Take](/en/post/take/) [a](/en/post/a/) [stake](/en/post/stake/) [in](/en/post/in/)" signifies becoming involved [or](/en/post/or/) investing [in](/en/post/in/) [something](/en/post/something/).
-- "[Stake](/en/post/stake/) [your](/en/post/your/) [claim](/en/post/claim/)" is [a](/en/post/a/) [way](/en/post/way/) [of](/en/post/of/) expressing [determination](/en/post/determination/) [to](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [first](/en/post/first/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [or](/en/post/or/) [to](/en/post/to/) [have](/en/post/have/) [something](/en/post/something/).
+- "[Put](/post/put/) [up](/post/up/) [a](/post/a/) [stake](/post/stake/)" [means](/post/means/) [to](/post/to/) [establish](/post/establish/) [or](/post/or/) [secure](/post/secure/) [something](/post/something/) firmly.
+- "[Take](/post/take/) [a](/post/a/) [stake](/post/stake/) [in](/post/in/)" signifies becoming involved [or](/post/or/) investing [in](/post/in/) [something](/post/something/).
+- "[Stake](/post/stake/) [your](/post/your/) [claim](/post/claim/)" is [a](/post/a/) [way](/post/way/) [of](/post/of/) expressing [determination](/post/determination/) [to](/post/to/) [be](/post/be/) [the](/post/the/) [first](/post/first/) [to](/post/to/) [do](/post/do/) [something](/post/something/) [or](/post/or/) [to](/post/to/) [have](/post/have/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) staked [the](/en/post/the/) [tomato](/en/post/tomato/) plants [to](/en/post/to/) [keep](/en/post/keep/) [them](/en/post/them/) [upright](/en/post/upright/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) staked [his](/en/post/his/) [fortune](/en/post/fortune/) [on](/en/post/on/) [the](/en/post/the/) invention's [success](/en/post/success/)."
-- **Informal**: "[We](/en/post/we/) waited [in](/en/post/in/) [a](/en/post/a/) stakeout [until](/en/post/until/) [the](/en/post/the/) [suspect](/en/post/suspect/) [left](/en/post/left/) [the](/en/post/the/) [building](/en/post/building/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [gardener](/post/gardener/) staked [the](/post/the/) [tomato](/post/tomato/) plants [to](/post/to/) [keep](/post/keep/) [them](/post/them/) [upright](/post/upright/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) staked [his](/post/his/) [fortune](/post/fortune/) [on](/post/on/) [the](/post/the/) invention's [success](/post/success/)."
+- **Informal**: "[We](/post/we/) waited [in](/post/in/) [a](/post/a/) stakeout [until](/post/until/) [the](/post/the/) [suspect](/post/suspect/) [left](/post/left/) [the](/post/the/) [building](/post/building/)."
 
 ## Synonyms
-- [Invest](/en/post/invest/)
-- [Bet](/en/post/bet/)
-- [Commit](/en/post/commit/)
+- [Invest](/post/invest/)
+- [Bet](/post/bet/)
+- [Commit](/post/commit/)
 - Underwrite
-- [Risk](/en/post/risk/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) putting [something](/en/post/something/) [on](/en/post/on/) [the](/en/post/the/) [line](/en/post/line/))
+- [Risk](/post/risk/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) putting [something](/post/something/) [on](/post/on/) [the](/post/the/) [line](/post/line/))

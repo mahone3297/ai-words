@@ -11,16 +11,16 @@ keywords = ['ai words', 'careless']
 /ˈkɛr.ləs/
 
 ## 释义
-- **形容词**: 不小心的，粗心大意的，疏忽的。例如: "[He](/post/he/) was [careless](/post/careless/) [with](/post/with/) [his](/post/his/) belongings, [often](/post/often/) losing things."
-- **副词**: 粗心地，不经意地。例如: "[She](/post/she/) drove [careless](/post/careless/) [through](/post/through/) [the](/post/the/) [busy](/post/busy/) streets."
+- **形容词**: 不小心的，粗心大意的，疏忽的。例如: "[He](/zh/post/he/) was [careless](/zh/post/careless/) [with](/zh/post/with/) [his](/zh/post/his/) belongings, [often](/zh/post/often/) losing things."
+- **副词**: 粗心地，不经意地。例如: "[She](/zh/post/she/) drove [careless](/zh/post/careless/) [through](/zh/post/through/) [the](/zh/post/the/) [busy](/zh/post/busy/) streets."
 
 ## 短语
-- "[careless](/post/careless/) [mistake](/post/mistake/)" 意为由于粗心导致的错误。
+- "[careless](/zh/post/careless/) [mistake](/zh/post/mistake/)" 意为由于粗心导致的错误。
 - "carelessly done" 表示做事不仔细或马虎。
 
 ## 例句
-- 形容词: "[His](/post/his/) [careless](/post/careless/) handling [of](/post/of/) [the](/post/the/) fragile [vase](/post/vase/) caused [it](/post/it/) [to](/post/to/) [break](/post/break/)."
-- 副词: "[She](/post/she/) [read](/post/read/) [the](/post/the/) [contract](/post/contract/) carelessly [and](/post/and/) missed an [important](/post/important/) clause."
+- 形容词: "[His](/zh/post/his/) [careless](/zh/post/careless/) handling [of](/zh/post/of/) [the](/zh/post/the/) fragile [vase](/zh/post/vase/) caused [it](/zh/post/it/) [to](/zh/post/to/) [break](/zh/post/break/)."
+- 副词: "[She](/zh/post/she/) [read](/zh/post/read/) [the](/zh/post/the/) [contract](/zh/post/contract/) carelessly [and](/zh/post/and/) missed an [important](/zh/post/important/) clause."
 
 ## 同义词
 - Inattentive

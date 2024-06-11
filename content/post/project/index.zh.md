@@ -11,23 +11,23 @@ keywords = ['ai words', 'project']
 /ˈprɑːdʒekt/
 
 ## 释义
-- **名词 (n)**: 1. 计划；方案。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [present](/post/present/) [our](/post/our/) [project](/post/project/) [proposal](/post/proposal/) [to](/post/to/) [the](/post/the/) [board](/post/board/)." 2. 项目；工程。例如: "[The](/post/the/) [construction](/post/construction/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [bridge](/post/bridge/) is [a](/post/a/) massive [project](/post/project/)."
-- **动词 (v)**: 1. 投射；发射。例如: "[The](/post/the/) [light](/post/light/) [from](/post/from/) [the](/post/the/) [lamp](/post/lamp/) projects [onto](/post/onto/) [the](/post/the/) [wall](/post/wall/)." 2. 预测；预计。例如: "Economists [project](/post/project/) [a](/post/a/) [growth](/post/growth/) [rate](/post/rate/) [of](/post/of/) 3% [for](/post/for/) [next](/post/next/) [year](/post/year/)."
-- **名词 (n)**: 在电影或戏剧中，放映或演出。例如: "[The](/post/the/) [movie](/post/movie/) [will](/post/will/) [be](/post/be/) projected [on](/post/on/) [a](/post/a/) [big](/post/big/) [screen](/post/screen/)."
+- **名词 (n)**: 1. 计划；方案。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [present](/zh/post/present/) [our](/zh/post/our/) [project](/zh/post/project/) [proposal](/zh/post/proposal/) [to](/zh/post/to/) [the](/zh/post/the/) [board](/zh/post/board/)." 2. 项目；工程。例如: "[The](/zh/post/the/) [construction](/zh/post/construction/) [of](/zh/post/of/) [the](/zh/post/the/) [new](/zh/post/new/) [bridge](/zh/post/bridge/) is [a](/zh/post/a/) massive [project](/zh/post/project/)."
+- **动词 (v)**: 1. 投射；发射。例如: "[The](/zh/post/the/) [light](/zh/post/light/) [from](/zh/post/from/) [the](/zh/post/the/) [lamp](/zh/post/lamp/) projects [onto](/zh/post/onto/) [the](/zh/post/the/) [wall](/zh/post/wall/)." 2. 预测；预计。例如: "Economists [project](/zh/post/project/) [a](/zh/post/a/) [growth](/zh/post/growth/) [rate](/zh/post/rate/) [of](/zh/post/of/) 3% [for](/zh/post/for/) [next](/zh/post/next/) [year](/zh/post/year/)."
+- **名词 (n)**: 在电影或戏剧中，放映或演出。例如: "[The](/zh/post/the/) [movie](/zh/post/movie/) [will](/zh/post/will/) [be](/zh/post/be/) projected [on](/zh/post/on/) [a](/zh/post/a/) [big](/zh/post/big/) [screen](/zh/post/screen/)."
 
 ## 短语
-- "[project](/post/project/) [management](/post/management/)" 项目管理
-- "[project](/post/project/) budget" 项目预算
-- "[project](/post/project/) [oneself](/post/oneself/)" 展现自我；使自己显得重要
+- "[project](/zh/post/project/) [management](/zh/post/management/)" 项目管理
+- "[project](/zh/post/project/) budget" 项目预算
+- "[project](/zh/post/project/) [oneself](/zh/post/oneself/)" 展现自我；使自己显得重要
 
 ## 例句
-- 名词: "[The](/post/the/) [team](/post/team/) is working [on](/post/on/) [a](/post/a/) [new](/post/new/) software [development](/post/development/) [project](/post/project/)."
-- 动词: "[The](/post/the/) [professor](/post/professor/) projected slides [during](/post/during/) [his](/post/his/) [lecture](/post/lecture/)."
-- 名词 (在电影或戏剧中的使用): "[The](/post/the/) [film](/post/film/) was poorly projected, making [it](/post/it/) [hard](/post/hard/) [to](/post/to/) [see](/post/see/)."
+- 名词: "[The](/zh/post/the/) [team](/zh/post/team/) is working [on](/zh/post/on/) [a](/zh/post/a/) [new](/zh/post/new/) software [development](/zh/post/development/) [project](/zh/post/project/)."
+- 动词: "[The](/zh/post/the/) [professor](/zh/post/professor/) projected slides [during](/zh/post/during/) [his](/zh/post/his/) [lecture](/zh/post/lecture/)."
+- 名词 (在电影或戏剧中的使用): "[The](/zh/post/the/) [film](/zh/post/film/) was poorly projected, making [it](/zh/post/it/) [hard](/zh/post/hard/) [to](/zh/post/to/) [see](/zh/post/see/)."
 
 ## 同义词
-- [Plan](/post/plan/)
-- [Scheme](/post/scheme/)
-- [Program](/post/program/)
+- [Plan](/zh/post/plan/)
+- [Scheme](/zh/post/scheme/)
+- [Program](/zh/post/program/)
 - Endeavor
 - Initiative

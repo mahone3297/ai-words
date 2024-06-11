@@ -7,23 +7,23 @@ description = '[pliːz] vt.使高兴，请 vi.满意'
 keywords = ['ai words', 'please']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pliːz/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Expressing politeness [or](/en/post/or/) [request](/en/post/request/) [for](/en/post/for/) [permission](/en/post/permission/) [or](/en/post/or/) [agreement](/en/post/agreement/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [to](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [pass](/en/post/pass/) [the](/en/post/the/) [salt](/en/post/salt/)." [or](/en/post/or/) "[Could](/en/post/could/) [you](/en/post/you/) [please](/en/post/please/) [close](/en/post/close/) [the](/en/post/the/) [door](/en/post/door/)?"
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [polite](/en/post/polite/) [request](/en/post/request/) [or](/en/post/or/) entreaty. [For](/en/post/for/) [example](/en/post/example/): "I [would](/en/post/would/) [like](/en/post/like/) [to](/en/post/to/) [please](/en/post/please/) [everyone](/en/post/everyone/) [with](/en/post/with/) [my](/en/post/my/) [performance](/en/post/performance/)."
-- **Interjection**: [Used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [a](/en/post/a/) [polite](/en/post/polite/) [request](/en/post/request/) [or](/en/post/or/) [expression](/en/post/expression/) [of](/en/post/of/) [desire](/en/post/desire/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) don't [forget](/en/post/forget/) [my](/en/post/my/) [umbrella](/en/post/umbrella/)."
+- **[Adverb](/post/adverb/)**: Expressing politeness [or](/post/or/) [request](/post/request/) [for](/post/for/) [permission](/post/permission/) [or](/post/or/) [agreement](/post/agreement/). [It](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [statement](/post/statement/) [or](/post/or/) [to](/post/to/) [ask](/post/ask/) [for](/post/for/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [pass](/post/pass/) [the](/post/the/) [salt](/post/salt/)." [or](/post/or/) "[Could](/post/could/) [you](/post/you/) [please](/post/please/) [close](/post/close/) [the](/post/the/) [door](/post/door/)?"
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [a](/post/a/) [polite](/post/polite/) [request](/post/request/) [or](/post/or/) entreaty. [For](/post/for/) [example](/post/example/): "I [would](/post/would/) [like](/post/like/) [to](/post/to/) [please](/post/please/) [everyone](/post/everyone/) [with](/post/with/) [my](/post/my/) [performance](/post/performance/)."
+- **Interjection**: [Used](/post/used/) [to](/post/to/) [express](/post/express/) [a](/post/a/) [polite](/post/polite/) [request](/post/request/) [or](/post/or/) [expression](/post/expression/) [of](/post/of/) [desire](/post/desire/). [For](/post/for/) [example](/post/example/): "[Please](/post/please/) don't [forget](/post/forget/) [my](/post/my/) [umbrella](/post/umbrella/)."
 
 ## Phrases
-- "[With](/en/post/with/) [pleasure](/en/post/pleasure/)" indicates willingness [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) happily.
-- "I'll [do](/en/post/do/) [it](/en/post/it/), [please](/en/post/please/)" is [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [confirm](/en/post/confirm/) [agreement](/en/post/agreement/) [or](/en/post/or/) [acceptance](/en/post/acceptance/).
-- "[Thank](/en/post/thank/) [you](/en/post/you/) [for](/en/post/for/) [your](/en/post/your/) [help](/en/post/help/), [please](/en/post/please/)" combines [gratitude](/en/post/gratitude/) [and](/en/post/and/) politeness.
+- "[With](/post/with/) [pleasure](/post/pleasure/)" indicates willingness [to](/post/to/) [do](/post/do/) [something](/post/something/) happily.
+- "I'll [do](/post/do/) [it](/post/it/), [please](/post/please/)" is [a](/post/a/) [way](/post/way/) [to](/post/to/) [confirm](/post/confirm/) [agreement](/post/agreement/) [or](/post/or/) [acceptance](/post/acceptance/).
+- "[Thank](/post/thank/) [you](/post/you/) [for](/post/for/) [your](/post/your/) [help](/post/help/), [please](/post/please/)" combines [gratitude](/post/gratitude/) [and](/post/and/) politeness.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[Please](/en/post/please/) [remember](/en/post/remember/) [to](/en/post/to/) [bring](/en/post/bring/) [your](/en/post/your/) homework [tomorrow](/en/post/tomorrow/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) politely asked [if](/en/post/if/) [they](/en/post/they/) [could](/en/post/could/) [have](/en/post/have/) [a](/en/post/a/) [few](/en/post/few/) [more](/en/post/more/) minutes."
-- **Interjection**: "[Please](/en/post/please/) don't [hesitate](/en/post/hesitate/) [to](/en/post/to/) [ask](/en/post/ask/) [if](/en/post/if/) [you](/en/post/you/) [need](/en/post/need/) assistance."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[Please](/post/please/) [remember](/post/remember/) [to](/post/to/) [bring](/post/bring/) [your](/post/your/) homework [tomorrow](/post/tomorrow/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) politely asked [if](/post/if/) [they](/post/they/) [could](/post/could/) [have](/post/have/) [a](/post/a/) [few](/post/few/) [more](/post/more/) minutes."
+- **Interjection**: "[Please](/post/please/) don't [hesitate](/post/hesitate/) [to](/post/to/) [ask](/post/ask/) [if](/post/if/) [you](/post/you/) [need](/post/need/) assistance."
 
 ## Synonyms
 - Kindly
@@ -32,4 +32,4 @@ keywords = ['ai words', 'please']
 - Beguilingly
 - Graciously
 
-## [Note](/en/post/note/): [Please](/en/post/please/) is [not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [pronoun](/en/post/pronoun/) [in](/en/post/in/) [its](/en/post/its/) [primary](/en/post/primary/) [function](/en/post/function/). [However](/en/post/however/), [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [compound](/en/post/compound/) nouns [like](/en/post/like/) "[pleasure](/en/post/pleasure/)" ([noun](/en/post/noun/)) [or](/en/post/or/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) shortened [form](/en/post/form/) [of](/en/post/of/) "[please](/en/post/please/) [me](/en/post/me/)" (interrogative [pronoun](/en/post/pronoun/)).
+## [Note](/post/note/): [Please](/post/please/) is [not](/post/not/) typically [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [pronoun](/post/pronoun/) [in](/post/in/) [its](/post/its/) [primary](/post/primary/) [function](/post/function/). [However](/post/however/), [it](/post/it/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [compound](/post/compound/) nouns [like](/post/like/) "[pleasure](/post/pleasure/)" ([noun](/post/noun/)) [or](/post/or/) [used](/post/used/) [as](/post/as/) [a](/post/a/) shortened [form](/post/form/) [of](/post/of/) "[please](/post/please/) [me](/post/me/)" (interrogative [pronoun](/post/pronoun/)).

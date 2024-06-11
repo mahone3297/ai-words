@@ -7,23 +7,23 @@ description = '[dʌsk] n.薄暮，黄昏，幽暗'
 keywords = ['ai words', 'dusk']
 +++
 
-## [Word](/en/post/word/): [Dusk](/en/post/dusk/)
+## [Word](/post/word/): [Dusk](/post/dusk/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dʌsk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [time](/en/post/time/) [of](/en/post/of/) [day](/en/post/day/) [when](/en/post/when/) [the](/en/post/the/) [sun](/en/post/sun/) has [set](/en/post/set/) [but](/en/post/but/) [it](/en/post/it/) is [not](/en/post/not/) [yet](/en/post/yet/) [completely](/en/post/completely/) [dark](/en/post/dark/); [the](/en/post/the/) [period](/en/post/period/) [of](/en/post/of/) twilight. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sky](/en/post/sky/) was painted [with](/en/post/with/) [brilliant](/en/post/brilliant/) hues [during](/en/post/during/) [dusk](/en/post/dusk/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) occurring [during](/en/post/during/) [the](/en/post/the/) [early](/en/post/early/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [evening](/en/post/evening/), [especially](/en/post/especially/) [the](/en/post/the/) [period](/en/post/period/) [of](/en/post/of/) twilight. [For](/en/post/for/) [example](/en/post/example/): "[Dusk](/en/post/dusk/) settled [over](/en/post/over/) [the](/en/post/the/) [city](/en/post/city/), casting [long](/en/post/long/) shadows [on](/en/post/on/) [the](/en/post/the/) streets."
+- **[Noun](/post/noun/)**: [The](/post/the/) [time](/post/time/) [of](/post/of/) [day](/post/day/) [when](/post/when/) [the](/post/the/) [sun](/post/sun/) has [set](/post/set/) [but](/post/but/) [it](/post/it/) is [not](/post/not/) [yet](/post/yet/) [completely](/post/completely/) [dark](/post/dark/); [the](/post/the/) [period](/post/period/) [of](/post/of/) twilight. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sky](/post/sky/) was painted [with](/post/with/) [brilliant](/post/brilliant/) hues [during](/post/during/) [dusk](/post/dusk/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) occurring [during](/post/during/) [the](/post/the/) [early](/post/early/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [evening](/post/evening/), [especially](/post/especially/) [the](/post/the/) [period](/post/period/) [of](/post/of/) twilight. [For](/post/for/) [example](/post/example/): "[Dusk](/post/dusk/) settled [over](/post/over/) [the](/post/the/) [city](/post/city/), casting [long](/post/long/) shadows [on](/post/on/) [the](/post/the/) streets."
 
 ## Phrases
-- "[At](/en/post/at/) [dusk](/en/post/dusk/)" refers [to](/en/post/to/) [the](/en/post/the/) [moment](/en/post/moment/) [or](/en/post/or/) [period](/en/post/period/) [when](/en/post/when/) [daylight](/en/post/daylight/) fades [and](/en/post/and/) darkness begins.
-- "[Dusk](/en/post/dusk/) [till](/en/post/till/) [dawn](/en/post/dawn/)" describes [a](/en/post/a/) [period](/en/post/period/) extending [from](/en/post/from/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [one](/en/post/one/) [day](/en/post/day/) [to](/en/post/to/) [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [the](/en/post/the/) [next](/en/post/next/), [often](/en/post/often/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [suggest](/en/post/suggest/) [a](/en/post/a/) prolonged [duration](/en/post/duration/).
-- "[In](/en/post/in/) [the](/en/post/the/) dusky hours" implies [the](/en/post/the/) [same](/en/post/same/) [period](/en/post/period/) [of](/en/post/of/) twilight.
+- "[At](/post/at/) [dusk](/post/dusk/)" refers [to](/post/to/) [the](/post/the/) [moment](/post/moment/) [or](/post/or/) [period](/post/period/) [when](/post/when/) [daylight](/post/daylight/) fades [and](/post/and/) darkness begins.
+- "[Dusk](/post/dusk/) [till](/post/till/) [dawn](/post/dawn/)" describes [a](/post/a/) [period](/post/period/) extending [from](/post/from/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [one](/post/one/) [day](/post/day/) [to](/post/to/) [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [the](/post/the/) [next](/post/next/), [often](/post/often/) [used](/post/used/) metaphorically [to](/post/to/) [suggest](/post/suggest/) [a](/post/a/) prolonged [duration](/post/duration/).
+- "[In](/post/in/) [the](/post/the/) dusky hours" implies [the](/post/the/) [same](/post/same/) [period](/post/period/) [of](/post/of/) twilight.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [walk](/en/post/walk/) [along](/en/post/along/) [the](/en/post/the/) [beach](/en/post/beach/) [at](/en/post/at/) [dusk](/en/post/dusk/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) dusky [light](/en/post/light/) made [it](/en/post/it/) [difficult](/en/post/difficult/) [to](/en/post/to/) [read](/en/post/read/) [the](/en/post/the/) signposts."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[They](/post/they/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [walk](/post/walk/) [along](/post/along/) [the](/post/the/) [beach](/post/beach/) [at](/post/at/) [dusk](/post/dusk/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) dusky [light](/post/light/) made [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [read](/post/read/) [the](/post/the/) signposts."
 
 ## Synonyms
 - Twilight
@@ -32,5 +32,5 @@ keywords = ['ai words', 'dusk']
 - Gloaming
 - Nightfall
 - Crepuscule
-- Twilight [hour](/en/post/hour/)(s)
-- [Sunset](/en/post/sunset/) ([time](/en/post/time/))
+- Twilight [hour](/post/hour/)(s)
+- [Sunset](/post/sunset/) ([time](/post/time/))

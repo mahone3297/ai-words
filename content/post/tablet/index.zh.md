@@ -11,17 +11,17 @@ keywords = ['ai words', 'tablet']
 /ˈtæblət/
 
 ## 释义
-- **名词**: 1. 平板电脑，一种轻便的电子设备，通常有触摸屏界面。例如: "[She](/post/she/) uses [her](/post/her/) [tablet](/post/tablet/) [for](/post/for/) online classes."
-   - 2. 药片，一种固体药物形式，通常圆形或椭圆形。例如: "[Take](/post/take/) [two](/post/two/) tablets [after](/post/after/) [dinner](/post/dinner/)."
+- **名词**: 1. 平板电脑，一种轻便的电子设备，通常有触摸屏界面。例如: "[She](/zh/post/she/) uses [her](/zh/post/her/) [tablet](/zh/post/tablet/) [for](/zh/post/for/) online classes."
+   - 2. 药片，一种固体药物形式，通常圆形或椭圆形。例如: "[Take](/zh/post/take/) [two](/zh/post/two/) tablets [after](/zh/post/after/) [dinner](/zh/post/dinner/)."
 
 ## 短语
-- "[Tablet](/post/tablet/) [computer](/post/computer/)" 指的是电子设备。
-- "[Tablet](/post/tablet/) [stand](/post/stand/)" 是用来支撑平板电脑的支架。
+- "[Tablet](/zh/post/tablet/) [computer](/zh/post/computer/)" 指的是电子设备。
+- "[Tablet](/zh/post/tablet/) [stand](/zh/post/stand/)" 是用来支撑平板电脑的支架。
 
 ## 例句
-- 名词(电子设备): "I bought [a](/post/a/) [new](/post/new/) [tablet](/post/tablet/) [for](/post/for/) [my](/post/my/) son's [birthday](/post/birthday/)."
-- 名词(药片): "[The](/post/the/) [doctor](/post/doctor/) prescribed [me](/post/me/) [a](/post/a/) [course](/post/course/) [of](/post/of/) antibiotics [in](/post/in/) [tablet](/post/tablet/) [form](/post/form/)."
+- 名词(电子设备): "I bought [a](/zh/post/a/) [new](/zh/post/new/) [tablet](/zh/post/tablet/) [for](/zh/post/for/) [my](/zh/post/my/) son's [birthday](/zh/post/birthday/)."
+- 名词(药片): "[The](/zh/post/the/) [doctor](/zh/post/doctor/) prescribed [me](/zh/post/me/) [a](/zh/post/a/) [course](/zh/post/course/) [of](/zh/post/of/) antibiotics [in](/zh/post/in/) [tablet](/zh/post/tablet/) [form](/zh/post/form/)."
 
 ## 同义词
 - Slate (电子设备)
-- [Pill](/post/pill/) (药片)
+- [Pill](/zh/post/pill/) (药片)

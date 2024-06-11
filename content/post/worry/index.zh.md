@@ -11,20 +11,20 @@ keywords = ['ai words', 'worry']
 /wʌri/
 
 ## 释义
-- **动词**: 担心，忧虑。例如: "I'm [really](/post/really/) worrying [about](/post/about/) [the](/post/the/) [exam](/post/exam/) [tomorrow](/post/tomorrow/)."
-- **名词**: 担忧，烦恼。例如: "[Her](/post/her/) biggest [worry](/post/worry/) is [finding](/post/finding/) [a](/post/a/) [job](/post/job/)."
+- **动词**: 担心，忧虑。例如: "I'm [really](/zh/post/really/) worrying [about](/zh/post/about/) [the](/zh/post/the/) [exam](/zh/post/exam/) [tomorrow](/zh/post/tomorrow/)."
+- **名词**: 担忧，烦恼。例如: "[Her](/zh/post/her/) biggest [worry](/zh/post/worry/) is [finding](/zh/post/finding/) [a](/zh/post/a/) [job](/zh/post/job/)."
 
 ## 短语
-- "Don't [worry](/post/worry/)" 常用来安慰别人，意思是别担心。
-- "[Worry](/post/worry/) [about](/post/about/) [something](/post/something/)" 指对某事感到担忧。例如: "[Stop](/post/stop/) worrying [about](/post/about/) [what](/post/what/) others [think](/post/think/) [and](/post/and/) [just](/post/just/) [be](/post/be/) [yourself](/post/yourself/)."
+- "Don't [worry](/zh/post/worry/)" 常用来安慰别人，意思是别担心。
+- "[Worry](/zh/post/worry/) [about](/zh/post/about/) [something](/zh/post/something/)" 指对某事感到担忧。例如: "[Stop](/zh/post/stop/) worrying [about](/zh/post/about/) [what](/zh/post/what/) others [think](/zh/post/think/) [and](/zh/post/and/) [just](/zh/post/just/) [be](/zh/post/be/) [yourself](/zh/post/yourself/)."
 
 ## 例句
-- 动词: "[She](/post/she/) spent [the](/post/the/) [whole](/post/whole/) [day](/post/day/) worrying [about](/post/about/) [her](/post/her/) [sick](/post/sick/) [child](/post/child/)."
-- 名词: "[His](/post/his/) [main](/post/main/) [worry](/post/worry/) is [how](/post/how/) he'll [pay](/post/pay/) [the](/post/the/) [rent](/post/rent/) [this](/post/this/) [month](/post/month/)."
+- 动词: "[She](/zh/post/she/) spent [the](/zh/post/the/) [whole](/zh/post/whole/) [day](/zh/post/day/) worrying [about](/zh/post/about/) [her](/zh/post/her/) [sick](/zh/post/sick/) [child](/zh/post/child/)."
+- 名词: "[His](/zh/post/his/) [main](/zh/post/main/) [worry](/zh/post/worry/) is [how](/zh/post/how/) he'll [pay](/zh/post/pay/) [the](/zh/post/the/) [rent](/zh/post/rent/) [this](/zh/post/this/) [month](/zh/post/month/)."
 
 ## 同义词
-- [Anxiety](/post/anxiety/)
-- [Concern](/post/concern/)
-- [Fear](/post/fear/)
+- [Anxiety](/zh/post/anxiety/)
+- [Concern](/zh/post/concern/)
+- [Fear](/zh/post/fear/)
 - Apprehension
 - Nervousness

@@ -11,20 +11,20 @@ keywords = ['ai words', 'able']
 /ˈeɪbl/
 
 ## 释义
-- **形容词**: 能够的，有能力的，有才能的。例如: "[She](/post/she/) is [able](/post/able/) [to](/post/to/) [solve](/post/solve/) [complex](/post/complex/) problems."
-- **动词**: (与不定式连用，构成be [able](/post/able/) to结构)能够，成功地做到。例如: "[After](/post/after/) years [of](/post/of/) [practice](/post/practice/), [he](/post/he/) was [able](/post/able/) [to](/post/to/) [play](/post/play/) [the](/post/the/) [piano](/post/piano/) flawlessly."
+- **形容词**: 能够的，有能力的，有才能的。例如: "[She](/zh/post/she/) is [able](/zh/post/able/) [to](/zh/post/to/) [solve](/zh/post/solve/) [complex](/zh/post/complex/) problems."
+- **动词**: (与不定式连用，构成be [able](/zh/post/able/) to结构)能够，成功地做到。例如: "[After](/zh/post/after/) years [of](/zh/post/of/) [practice](/zh/post/practice/), [he](/zh/post/he/) was [able](/zh/post/able/) [to](/zh/post/to/) [play](/zh/post/play/) [the](/zh/post/the/) [piano](/zh/post/piano/) flawlessly."
 
 ## 短语
 - "able-bodied" 意为身体健康的，能干的。
-- "[able](/post/able/) [to](/post/to/) [do](/post/do/)" 表示有能力做某事。
+- "[able](/zh/post/able/) [to](/zh/post/to/) [do](/zh/post/do/)" 表示有能力做某事。
 
 ## 例句
-- 形容词: "[The](/post/the/) [team](/post/team/) consists [of](/post/of/) [able](/post/able/) leaders [who](/post/who/) [can](/post/can/) [guide](/post/guide/) [us](/post/us/) [through](/post/through/) [tough](/post/tough/) times."
-- 动词: "[With](/post/with/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) was [eventually](/post/eventually/) [able](/post/able/) [to](/post/to/) [overcome](/post/overcome/) [his](/post/his/) [fear](/post/fear/)."
+- 形容词: "[The](/zh/post/the/) [team](/zh/post/team/) consists [of](/zh/post/of/) [able](/zh/post/able/) leaders [who](/zh/post/who/) [can](/zh/post/can/) [guide](/zh/post/guide/) [us](/zh/post/us/) [through](/zh/post/through/) [tough](/zh/post/tough/) times."
+- 动词: "[With](/zh/post/with/) [hard](/zh/post/hard/) [work](/zh/post/work/), [he](/zh/post/he/) was [eventually](/zh/post/eventually/) [able](/zh/post/able/) [to](/zh/post/to/) [overcome](/zh/post/overcome/) [his](/zh/post/his/) [fear](/zh/post/fear/)."
 
 ## 同义词
-- [capable](/post/capable/)
-- [competent](/post/competent/)
+- [capable](/zh/post/capable/)
+- [competent](/zh/post/competent/)
 - proficient
-- [skilled](/post/skilled/)
+- [skilled](/zh/post/skilled/)
 - gifted

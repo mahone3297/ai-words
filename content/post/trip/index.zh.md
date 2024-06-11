@@ -12,29 +12,29 @@ keywords = ['ai words', 'trip']
 
 ## 释义
 - **名词**:
-  - 旅行：一次出行或游览，如 "We're planning [a](/post/a/) [trip](/post/trip/) [to](/post/to/) Europe [next](/post/next/) [summer](/post/summer/)."
-  - 摔倒；绊倒：意外失去平衡，如 "[Watch](/post/watch/) [out](/post/out/) [for](/post/for/) [that](/post/that/) [rock](/post/rock/), [you](/post/you/) [might](/post/might/) [trip](/post/trip/) [over](/post/over/) [it](/post/it/)."
+  - 旅行：一次出行或游览，如 "We're planning [a](/zh/post/a/) [trip](/zh/post/trip/) [to](/zh/post/to/) Europe [next](/zh/post/next/) [summer](/zh/post/summer/)."
+  - 摔倒；绊倒：意外失去平衡，如 "[Watch](/zh/post/watch/) [out](/zh/post/out/) [for](/zh/post/for/) [that](/zh/post/that/) [rock](/zh/post/rock/), [you](/zh/post/you/) [might](/zh/post/might/) [trip](/zh/post/trip/) [over](/zh/post/over/) [it](/zh/post/it/)."
 
 - **动词**:
-  - 旅行：去某个地方，如 "[She](/post/she/) tripped [to](/post/to/) [the](/post/the/) [beach](/post/beach/) [for](/post/for/) [a](/post/a/) [weekend](/post/weekend/) getaway."
-  - 绊倒；使摔倒：使某人失去平衡，如 "[The](/post/the/) [loose](/post/loose/) [carpet](/post/carpet/) tripped [him](/post/him/) [up](/post/up/)."
+  - 旅行：去某个地方，如 "[She](/zh/post/she/) tripped [to](/zh/post/to/) [the](/zh/post/the/) [beach](/zh/post/beach/) [for](/zh/post/for/) [a](/zh/post/a/) [weekend](/zh/post/weekend/) getaway."
+  - 绊倒；使摔倒：使某人失去平衡，如 "[The](/zh/post/the/) [loose](/zh/post/loose/) [carpet](/zh/post/carpet/) tripped [him](/zh/post/him/) [up](/zh/post/up/)."
 
 - **形容词**:
-  - 临时的；非正式的：短暂的访问或活动，如 "[We](/post/we/) had [a](/post/a/) [quick](/post/quick/) [trip](/post/trip/) [to](/post/to/) [the](/post/the/) [city](/post/city/) [for](/post/for/) [a](/post/a/) [concert](/post/concert/)."
+  - 临时的；非正式的：短暂的访问或活动，如 "[We](/zh/post/we/) had [a](/zh/post/a/) [quick](/zh/post/quick/) [trip](/zh/post/trip/) [to](/zh/post/to/) [the](/zh/post/the/) [city](/zh/post/city/) [for](/zh/post/for/) [a](/zh/post/a/) [concert](/zh/post/concert/)."
 
 ## 短语
-- "[trip](/post/trip/) advisor" 旅行顾问，提供旅行建议和信息的平台。
-- "[trip](/post/trip/) [over](/post/over/)" 绊倒，如 "I [almost](/post/almost/) tripped [over](/post/over/) [my](/post/my/) [own](/post/own/) feet."
-- "[day](/post/day/) [trip](/post/trip/)" 一日游，当天往返的旅行。
+- "[trip](/zh/post/trip/) advisor" 旅行顾问，提供旅行建议和信息的平台。
+- "[trip](/zh/post/trip/) [over](/zh/post/over/)" 绊倒，如 "I [almost](/zh/post/almost/) tripped [over](/zh/post/over/) [my](/zh/post/my/) [own](/zh/post/own/) feet."
+- "[day](/zh/post/day/) [trip](/zh/post/trip/)" 一日游，当天往返的旅行。
 
 ## 例句
-- 名词: "[This](/post/this/) [trip](/post/trip/) [to](/post/to/) [the](/post/the/) Amazon rainforest [will](/post/will/) [be](/post/be/) an [adventure](/post/adventure/) [of](/post/of/) [a](/post/a/) [lifetime](/post/lifetime/)."
-- 动词: "[He](/post/he/) tripped [while](/post/while/) running [and](/post/and/) sprained [his](/post/his/) [ankle](/post/ankle/)."
-- 形容词: "[They](/post/they/) decided [on](/post/on/) [a](/post/a/) last-minute [trip](/post/trip/) [to](/post/to/) [the](/post/the/) mountains."
+- 名词: "[This](/zh/post/this/) [trip](/zh/post/trip/) [to](/zh/post/to/) [the](/zh/post/the/) Amazon rainforest [will](/zh/post/will/) [be](/zh/post/be/) an [adventure](/zh/post/adventure/) [of](/zh/post/of/) [a](/zh/post/a/) [lifetime](/zh/post/lifetime/)."
+- 动词: "[He](/zh/post/he/) tripped [while](/zh/post/while/) running [and](/zh/post/and/) sprained [his](/zh/post/his/) [ankle](/zh/post/ankle/)."
+- 形容词: "[They](/zh/post/they/) decided [on](/zh/post/on/) [a](/zh/post/a/) last-minute [trip](/zh/post/trip/) [to](/zh/post/to/) [the](/zh/post/the/) mountains."
 
 ## 同义词
-- [Journey](/post/journey/)
-- [Excursion](/post/excursion/)
-- [Tour](/post/tour/)
+- [Journey](/zh/post/journey/)
+- [Excursion](/zh/post/excursion/)
+- [Tour](/zh/post/tour/)
 - Expedition
-- [Voyage](/post/voyage/)
+- [Voyage](/zh/post/voyage/)

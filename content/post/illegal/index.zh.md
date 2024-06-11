@@ -11,20 +11,20 @@ keywords = ['ai words', 'illegal']
 /ɪˈlɪgəl/
 
 ## 释义
-- **形容词**: 不合法的，违法的，违反规定的。例如: "[It](/post/it/) is [illegal](/post/illegal/) [to](/post/to/) [drive](/post/drive/) [without](/post/without/) [a](/post/a/) [license](/post/license/)."
-- **名词**: 违法行为，非法的人或物。例如: "[The](/post/the/) smuggled [goods](/post/goods/) were seized [as](/post/as/) [evidence](/post/evidence/) [of](/post/of/) an [illegal](/post/illegal/) [operation](/post/operation/)."
+- **形容词**: 不合法的，违法的，违反规定的。例如: "[It](/zh/post/it/) is [illegal](/zh/post/illegal/) [to](/zh/post/to/) [drive](/zh/post/drive/) [without](/zh/post/without/) [a](/zh/post/a/) [license](/zh/post/license/)."
+- **名词**: 违法行为，非法的人或物。例如: "[The](/zh/post/the/) smuggled [goods](/zh/post/goods/) were seized [as](/zh/post/as/) [evidence](/zh/post/evidence/) [of](/zh/post/of/) an [illegal](/zh/post/illegal/) [operation](/zh/post/operation/)."
 
 ## 短语
-- "[Illegal](/post/illegal/) [immigrant](/post/immigrant/)" 指的是非法入境或居住在某个国家的人。
-- "[Illegal](/post/illegal/) activities" 涉及违反法律的行为或犯罪活动。
+- "[Illegal](/zh/post/illegal/) [immigrant](/zh/post/immigrant/)" 指的是非法入境或居住在某个国家的人。
+- "[Illegal](/zh/post/illegal/) activities" 涉及违反法律的行为或犯罪活动。
 
 ## 例句
-- 形容词: "Smoking [in](/post/in/) [this](/post/this/) [area](/post/area/) is [strictly](/post/strictly/) [illegal](/post/illegal/)."
-- 名词: "[The](/post/the/) [police](/post/police/) arrested [several](/post/several/) [people](/post/people/) [for](/post/for/) engaging [in](/post/in/) [illegal](/post/illegal/) activities."
+- 形容词: "Smoking [in](/zh/post/in/) [this](/zh/post/this/) [area](/zh/post/area/) is [strictly](/zh/post/strictly/) [illegal](/zh/post/illegal/)."
+- 名词: "[The](/zh/post/the/) [police](/zh/post/police/) arrested [several](/zh/post/several/) [people](/zh/post/people/) [for](/zh/post/for/) engaging [in](/zh/post/in/) [illegal](/zh/post/illegal/) activities."
 
 ## 同义词
 - Unlawful
 - Illicit
-- [Criminal](/post/criminal/)
+- [Criminal](/zh/post/criminal/)
 - Forbidden
 - Prohibited

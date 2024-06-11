@@ -7,29 +7,29 @@ description = '[ˈprinsəpl] n.原则，原理；主义'
 keywords = ['ai words', 'principle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪnˈsəpl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [fundamental](/en/post/fundamental/) [truth](/en/post/truth/) [or](/en/post/or/) [belief](/en/post/belief/); [a](/en/post/a/) guiding [principle](/en/post/principle/). [e.g.] "[The](/en/post/the/) company's principles [of](/en/post/of/) integrity [and](/en/post/and/) fairness are [essential](/en/post/essential/)." 2. [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) regarded [as](/en/post/as/) [the](/en/post/the/) [most](/en/post/most/) [important](/en/post/important/) [or](/en/post/or/) [representative](/en/post/representative/) [example](/en/post/example/) [of](/en/post/of/) [a](/en/post/a/) category. [e.g.] "[The](/en/post/the/) [headmaster](/en/post/headmaster/) is [the](/en/post/the/) [principle](/en/post/principle/) [of](/en/post/of/) [the](/en/post/the/) [school](/en/post/school/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [base](/en/post/base/) [on](/en/post/on/) [or](/en/post/or/) [act](/en/post/act/) according [to](/en/post/to/) [a](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) principles. [e.g.] "[Our](/en/post/our/) decisions [should](/en/post/should/) [be](/en/post/be/) principled [rather](/en/post/rather/) [than](/en/post/than/) [arbitrary](/en/post/arbitrary/)."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [fundamental](/en/post/fundamental/) [nature](/en/post/nature/) [or](/en/post/or/) [basic](/en/post/basic/) [quality](/en/post/quality/). [e.g.] "[The](/en/post/the/) [principle](/en/post/principle/) [design](/en/post/design/) elements [of](/en/post/of/) [the](/en/post/the/) [building](/en/post/building/)."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [fundamental](/post/fundamental/) [truth](/post/truth/) [or](/post/or/) [belief](/post/belief/); [a](/post/a/) guiding [principle](/post/principle/). [e.g.] "[The](/post/the/) company's principles [of](/post/of/) integrity [and](/post/and/) fairness are [essential](/post/essential/)." 2. [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) regarded [as](/post/as/) [the](/post/the/) [most](/post/most/) [important](/post/important/) [or](/post/or/) [representative](/post/representative/) [example](/post/example/) [of](/post/of/) [a](/post/a/) category. [e.g.] "[The](/post/the/) [headmaster](/post/headmaster/) is [the](/post/the/) [principle](/post/principle/) [of](/post/of/) [the](/post/the/) [school](/post/school/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [base](/post/base/) [on](/post/on/) [or](/post/or/) [act](/post/act/) according [to](/post/to/) [a](/post/a/) [set](/post/set/) [of](/post/of/) principles. [e.g.] "[Our](/post/our/) decisions [should](/post/should/) [be](/post/be/) principled [rather](/post/rather/) [than](/post/than/) [arbitrary](/post/arbitrary/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [fundamental](/post/fundamental/) [nature](/post/nature/) [or](/post/or/) [basic](/post/basic/) [quality](/post/quality/). [e.g.] "[The](/post/the/) [principle](/post/principle/) [design](/post/design/) elements [of](/post/of/) [the](/post/the/) [building](/post/building/)."
 
 ## Phrases
-- "[Lay](/en/post/lay/) [down](/en/post/down/) principles" [means](/en/post/means/) [to](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [declare](/en/post/declare/) guidelines [or](/en/post/or/) rules.
-- "[Act](/en/post/act/) [in](/en/post/in/) [accordance](/en/post/accordance/) [with](/en/post/with/) one's principles" [means](/en/post/means/) [to](/en/post/to/) [behave](/en/post/behave/) consistently [with](/en/post/with/) one's beliefs.
-- "[The](/en/post/the/) [principal](/en/post/principal/) [reason](/en/post/reason/)" refers [to](/en/post/to/) [the](/en/post/the/) [main](/en/post/main/) [or](/en/post/or/) [chief](/en/post/chief/) [cause](/en/post/cause/).
+- "[Lay](/post/lay/) [down](/post/down/) principles" [means](/post/means/) [to](/post/to/) [establish](/post/establish/) [or](/post/or/) [declare](/post/declare/) guidelines [or](/post/or/) rules.
+- "[Act](/post/act/) [in](/post/in/) [accordance](/post/accordance/) [with](/post/with/) one's principles" [means](/post/means/) [to](/post/to/) [behave](/post/behave/) consistently [with](/post/with/) one's beliefs.
+- "[The](/post/the/) [principal](/post/principal/) [reason](/post/reason/)" refers [to](/post/to/) [the](/post/the/) [main](/post/main/) [or](/post/or/) [chief](/post/chief/) [cause](/post/cause/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [principle](/en/post/principle/) [of](/en/post/of/) [equal](/en/post/equal/) [opportunity](/en/post/opportunity/) is enshrined [in](/en/post/in/) [our](/en/post/our/) organization's policies."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) acted [in](/en/post/in/) [accordance](/en/post/accordance/) [with](/en/post/with/) [her](/en/post/her/) principles, [even](/en/post/even/) [when](/en/post/when/) [it](/en/post/it/) was [difficult](/en/post/difficult/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [principal](/en/post/principal/) architect's [vision](/en/post/vision/) shaped [the](/en/post/the/) [entire](/en/post/entire/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [principle](/post/principle/) [of](/post/of/) [equal](/post/equal/) [opportunity](/post/opportunity/) is enshrined [in](/post/in/) [our](/post/our/) organization's policies."
+- **[Verb](/post/verb/)**: "[She](/post/she/) acted [in](/post/in/) [accordance](/post/accordance/) [with](/post/with/) [her](/post/her/) principles, [even](/post/even/) [when](/post/when/) [it](/post/it/) was [difficult](/post/difficult/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [principal](/post/principal/) architect's [vision](/post/vision/) shaped [the](/post/the/) [entire](/post/entire/) [project](/post/project/)."
 
 ## Synonyms
-- Guiding [rule](/en/post/rule/)
-- [Basic](/en/post/basic/) tenet
-- [Foundation](/en/post/foundation/)
-- [Rule](/en/post/rule/)
+- Guiding [rule](/post/rule/)
+- [Basic](/post/basic/) tenet
+- [Foundation](/post/foundation/)
+- [Rule](/post/rule/)
 - Precept
 - Axiom
 - Doctrine
@@ -38,6 +38,6 @@ keywords = ['ai words', 'principle']
 ## Antonyms
 - Flawed
 - Unprincipled
-- [Flexible](/en/post/flexible/)
-- [Arbitrary](/en/post/arbitrary/)
+- [Flexible](/post/flexible/)
+- [Arbitrary](/post/arbitrary/)
 - Capricious

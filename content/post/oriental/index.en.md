@@ -7,34 +7,34 @@ description = '[ˌɔ(ː)riˈentl] a.东方的；东方国家的'
 keywords = ['ai words', 'oriental']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /orɪˈentəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Adjective](/en/post/adjective/)**: [Of](/en/post/of/), relating [to](/en/post/to/), [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [the](/en/post/the/) Orient [or](/en/post/or/) [Eastern](/en/post/eastern/) countries, [particularly](/en/post/particularly/) [those](/en/post/those/) [in](/en/post/in/) [Asia](/en/post/asia/), [such](/en/post/such/) [as](/en/post/as/) [China](/en/post/china/), Japan, [or](/en/post/or/) [the](/en/post/the/) [Middle](/en/post/middle/) [East](/en/post/east/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [Oriental](/en/post/oriental/) [rug](/en/post/rug/) had intricate patterns."
-2. **[Pronoun](/en/post/pronoun/)**: ([historical](/en/post/historical/) [or](/en/post/or/) offensive) [A](/en/post/a/) [person](/en/post/person/) [from](/en/post/from/) [the](/en/post/the/) [East](/en/post/east/), typically [Asia](/en/post/asia/). [This](/en/post/this/) [usage](/en/post/usage/) is considered outdated [and](/en/post/and/) [should](/en/post/should/) [be](/en/post/be/) avoided.
+### [Noun](/post/noun/)
+1. **[Adjective](/post/adjective/)**: [Of](/post/of/), relating [to](/post/to/), [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [the](/post/the/) Orient [or](/post/or/) [Eastern](/post/eastern/) countries, [particularly](/post/particularly/) [those](/post/those/) [in](/post/in/) [Asia](/post/asia/), [such](/post/such/) [as](/post/as/) [China](/post/china/), Japan, [or](/post/or/) [the](/post/the/) [Middle](/post/middle/) [East](/post/east/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [Oriental](/post/oriental/) [rug](/post/rug/) had intricate patterns."
+2. **[Pronoun](/post/pronoun/)**: ([historical](/post/historical/) [or](/post/or/) offensive) [A](/post/a/) [person](/post/person/) [from](/post/from/) [the](/post/the/) [East](/post/east/), typically [Asia](/post/asia/). [This](/post/this/) [usage](/post/usage/) is considered outdated [and](/post/and/) [should](/post/should/) [be](/post/be/) avoided.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) align [oneself](/en/post/oneself/) [with](/en/post/with/) [respect](/en/post/respect/) [to](/en/post/to/) [something](/en/post/something/), [usually](/en/post/usually/) [the](/en/post/the/) [sun](/en/post/sun/) [or](/en/post/or/) [a](/en/post/a/) [compass](/en/post/compass/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sailor](/en/post/sailor/) oriented [the](/en/post/the/) [ship](/en/post/ship/) towards [the](/en/post/the/) harbor."
-2. [To](/en/post/to/) [adapt](/en/post/adapt/) [or](/en/post/or/) [adjust](/en/post/adjust/) [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [situation](/en/post/situation/) [or](/en/post/or/) [culture](/en/post/culture/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [quickly](/en/post/quickly/) oriented [herself](/en/post/herself/) [to](/en/post/to/) [her](/en/post/her/) [new](/en/post/new/) workplace."
+### [Verb](/post/verb/)
+1. [To](/post/to/) align [oneself](/post/oneself/) [with](/post/with/) [respect](/post/respect/) [to](/post/to/) [something](/post/something/), [usually](/post/usually/) [the](/post/the/) [sun](/post/sun/) [or](/post/or/) [a](/post/a/) [compass](/post/compass/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sailor](/post/sailor/) oriented [the](/post/the/) [ship](/post/ship/) towards [the](/post/the/) harbor."
+2. [To](/post/to/) [adapt](/post/adapt/) [or](/post/or/) [adjust](/post/adjust/) [to](/post/to/) [a](/post/a/) [new](/post/new/) [situation](/post/situation/) [or](/post/or/) [culture](/post/culture/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [quickly](/post/quickly/) oriented [herself](/post/herself/) [to](/post/to/) [her](/post/her/) [new](/post/new/) workplace."
 
 ## Phrases
-- "[Oriental](/en/post/oriental/) [art](/en/post/art/)" refers [to](/en/post/to/) [the](/en/post/the/) arts [of](/en/post/of/) [Eastern](/en/post/eastern/) cultures.
-- "[Oriental](/en/post/oriental/) cuisine" denotes [food](/en/post/food/) styles [from](/en/post/from/) [the](/en/post/the/) [East](/en/post/east/).
-- "Orienting [oneself](/en/post/oneself/)" [means](/en/post/means/) getting [familiar](/en/post/familiar/) [with](/en/post/with/) one's [surroundings](/en/post/surroundings/) [or](/en/post/or/) [a](/en/post/a/) [new](/en/post/new/) [environment](/en/post/environment/).
+- "[Oriental](/post/oriental/) [art](/post/art/)" refers [to](/post/to/) [the](/post/the/) arts [of](/post/of/) [Eastern](/post/eastern/) cultures.
+- "[Oriental](/post/oriental/) cuisine" denotes [food](/post/food/) styles [from](/post/from/) [the](/post/the/) [East](/post/east/).
+- "Orienting [oneself](/post/oneself/)" [means](/post/means/) getting [familiar](/post/familiar/) [with](/post/with/) one's [surroundings](/post/surroundings/) [or](/post/or/) [a](/post/a/) [new](/post/new/) [environment](/post/environment/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [museum](/en/post/museum/) showcased [a](/en/post/a/) stunning [collection](/en/post/collection/) [of](/en/post/of/) [oriental](/en/post/oriental/) artifacts."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) traveling, [it](/en/post/it/) took [him](/en/post/him/) [a](/en/post/a/) [few](/en/post/few/) days [to](/en/post/to/) orient [himself](/en/post/himself/) [to](/en/post/to/) [his](/en/post/his/) [new](/en/post/new/) [city](/en/post/city/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) featured an oriental-style [garden](/en/post/garden/) [with](/en/post/with/) [a](/en/post/a/) tranquil koi [pond](/en/post/pond/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [museum](/post/museum/) showcased [a](/post/a/) stunning [collection](/post/collection/) [of](/post/of/) [oriental](/post/oriental/) artifacts."
+- **[Verb](/post/verb/)**: "[After](/post/after/) traveling, [it](/post/it/) took [him](/post/him/) [a](/post/a/) [few](/post/few/) days [to](/post/to/) orient [himself](/post/himself/) [to](/post/to/) [his](/post/his/) [new](/post/new/) [city](/post/city/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) featured an oriental-style [garden](/post/garden/) [with](/post/with/) [a](/post/a/) tranquil koi [pond](/post/pond/)."
 
 ## Synonyms
-- [Eastern](/en/post/eastern/)
+- [Eastern](/post/eastern/)
 - Asiatic
 - Eastern-influenced
-- [Far](/en/post/far/) [Eastern](/en/post/eastern/)
+- [Far](/post/far/) [Eastern](/post/eastern/)
 - Orientally-inspired
 
 ## Notes
-- [The](/en/post/the/) [term](/en/post/term/) "[oriental](/en/post/oriental/)" [can](/en/post/can/) [be](/en/post/be/) considered [a](/en/post/a/) geographical [or](/en/post/or/) cultural descriptor [but](/en/post/but/) [may](/en/post/may/) [be](/en/post/be/) perceived [as](/en/post/as/) insensitive [or](/en/post/or/) outdated [when](/en/post/when/) referring [to](/en/post/to/) [people](/en/post/people/). [It](/en/post/it/) is [often](/en/post/often/) replaced [by](/en/post/by/) [more](/en/post/more/) [specific](/en/post/specific/) terms [like](/en/post/like/) "[Asian](/en/post/asian/)" [or](/en/post/or/) "[Eastern](/en/post/eastern/)" [to](/en/post/to/) [avoid](/en/post/avoid/) [any](/en/post/any/) [potential](/en/post/potential/) connotations.
+- [The](/post/the/) [term](/post/term/) "[oriental](/post/oriental/)" [can](/post/can/) [be](/post/be/) considered [a](/post/a/) geographical [or](/post/or/) cultural descriptor [but](/post/but/) [may](/post/may/) [be](/post/be/) perceived [as](/post/as/) insensitive [or](/post/or/) outdated [when](/post/when/) referring [to](/post/to/) [people](/post/people/). [It](/post/it/) is [often](/post/often/) replaced [by](/post/by/) [more](/post/more/) [specific](/post/specific/) terms [like](/post/like/) "[Asian](/post/asian/)" [or](/post/or/) "[Eastern](/post/eastern/)" [to](/post/to/) [avoid](/post/avoid/) [any](/post/any/) [potential](/post/potential/) connotations.

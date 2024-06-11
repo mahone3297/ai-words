@@ -11,19 +11,19 @@ keywords = ['ai words', 'chapter']
 /ˈtʃæptər/
 
 ## 释义
-- **名词 (n)**: 书籍中的一个部分或章节。通常书籍被分为若干章节，每个章节涵盖特定主题或子主题。例如: "[The](/post/the/) [first](/post/first/) [chapter](/post/chapter/) [of](/post/of/) [the](/post/the/) [book](/post/book/) discusses [the](/post/the/) [history](/post/history/) [of](/post/of/) [the](/post/the/) [subject](/post/subject/)."
+- **名词 (n)**: 书籍中的一个部分或章节。通常书籍被分为若干章节，每个章节涵盖特定主题或子主题。例如: "[The](/zh/post/the/) [first](/zh/post/first/) [chapter](/zh/post/chapter/) [of](/zh/post/of/) [the](/zh/post/the/) [book](/zh/post/book/) discusses [the](/zh/post/the/) [history](/zh/post/history/) [of](/zh/post/of/) [the](/zh/post/the/) [subject](/zh/post/subject/)."
 
 ## 短语
-- "[Chapter](/post/chapter/) [and](/post/and/) verse" 指引用圣经或其他文献的具体章节和段落。
-- "[A](/post/a/) [new](/post/new/) [chapter](/post/chapter/) [in](/post/in/) one's [life](/post/life/)" 比喻人生中的新篇章或新阶段。
+- "[Chapter](/zh/post/chapter/) [and](/zh/post/and/) verse" 指引用圣经或其他文献的具体章节和段落。
+- "[A](/zh/post/a/) [new](/zh/post/new/) [chapter](/zh/post/chapter/) [in](/zh/post/in/) one's [life](/zh/post/life/)" 比喻人生中的新篇章或新阶段。
 
 ## 例句
-- "[In](/post/in/) [this](/post/this/) [chapter](/post/chapter/), [we](/post/we/) [will](/post/will/) [explore](/post/explore/) [the](/post/the/) [concept](/post/concept/) [of](/post/of/) photosynthesis [in](/post/in/) [detail](/post/detail/)."
-- "[She](/post/she/) started [a](/post/a/) [new](/post/new/) [chapter](/post/chapter/) [in](/post/in/) [her](/post/her/) [life](/post/life/) [when](/post/when/) [she](/post/she/) moved [to](/post/to/) Paris."
+- "[In](/zh/post/in/) [this](/zh/post/this/) [chapter](/zh/post/chapter/), [we](/zh/post/we/) [will](/zh/post/will/) [explore](/zh/post/explore/) [the](/zh/post/the/) [concept](/zh/post/concept/) [of](/zh/post/of/) photosynthesis [in](/zh/post/in/) [detail](/zh/post/detail/)."
+- "[She](/zh/post/she/) started [a](/zh/post/a/) [new](/zh/post/new/) [chapter](/zh/post/chapter/) [in](/zh/post/in/) [her](/zh/post/her/) [life](/zh/post/life/) [when](/zh/post/when/) [she](/zh/post/she/) moved [to](/zh/post/to/) Paris."
 
 ## 同义词
-- [Section](/post/section/)
-- [Part](/post/part/)
-- [Division](/post/division/)
+- [Section](/zh/post/section/)
+- [Part](/zh/post/part/)
+- [Division](/zh/post/division/)
 - Segment
-- [Passage](/post/passage/)
+- [Passage](/zh/post/passage/)

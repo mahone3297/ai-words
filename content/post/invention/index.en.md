@@ -7,27 +7,27 @@ description = '[inˈven∫ən] n.发明，创造；捏造'
 keywords = ['ai words', 'invention']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈvɛnʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [new](/en/post/new/) [product](/en/post/product/), [idea](/en/post/idea/), [or](/en/post/or/) [method](/en/post/method/) created [after](/en/post/after/) studying [and](/en/post/and/) experimenting, typically [one](/en/post/one/) [that](/en/post/that/) is considered [original](/en/post/original/) [or](/en/post/or/) [novel](/en/post/novel/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [light](/en/post/light/) [bulb](/en/post/bulb/) was [a](/en/post/a/) [remarkable](/en/post/remarkable/) [invention](/en/post/invention/) [that](/en/post/that/) changed [the](/en/post/the/) [world](/en/post/world/)."
-    - [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) inventing [something](/en/post/something/); creation [or](/en/post/or/) origination. [Example](/en/post/example/): "[His](/en/post/his/) [invention](/en/post/invention/) [of](/en/post/of/) [a](/en/post/a/) solar-powered [car](/en/post/car/) was [a](/en/post/a/) [major](/en/post/major/) breakthrough."
-- **(Archaic)** [Finding](/en/post/finding/) [or](/en/post/or/) [discovery](/en/post/discovery/) ([not](/en/post/not/) [frequently](/en/post/frequently/) [used](/en/post/used/) [in](/en/post/in/) [this](/en/post/this/) [sense](/en/post/sense/)).
+- **[Noun](/post/noun/)**: [A](/post/a/) [new](/post/new/) [product](/post/product/), [idea](/post/idea/), [or](/post/or/) [method](/post/method/) created [after](/post/after/) studying [and](/post/and/) experimenting, typically [one](/post/one/) [that](/post/that/) is considered [original](/post/original/) [or](/post/or/) [novel](/post/novel/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [light](/post/light/) [bulb](/post/bulb/) was [a](/post/a/) [remarkable](/post/remarkable/) [invention](/post/invention/) [that](/post/that/) changed [the](/post/the/) [world](/post/world/)."
+    - [The](/post/the/) [act](/post/act/) [of](/post/of/) inventing [something](/post/something/); creation [or](/post/or/) origination. [Example](/post/example/): "[His](/post/his/) [invention](/post/invention/) [of](/post/of/) [a](/post/a/) solar-powered [car](/post/car/) was [a](/post/a/) [major](/post/major/) breakthrough."
+- **(Archaic)** [Finding](/post/finding/) [or](/post/or/) [discovery](/post/discovery/) ([not](/post/not/) [frequently](/post/frequently/) [used](/post/used/) [in](/post/in/) [this](/post/this/) [sense](/post/sense/)).
 
 ## Phrases
-- "[Invention](/en/post/invention/) [of](/en/post/of/) [the](/en/post/the/) [wheel](/en/post/wheel/)" refers [to](/en/post/to/) [the](/en/post/the/) seminal innovation [in](/en/post/in/) [human](/en/post/human/) [history](/en/post/history/) [where](/en/post/where/) humans developed [the](/en/post/the/) [first](/en/post/first/) [wheel](/en/post/wheel/).
-- "Patent an [invention](/en/post/invention/)" [means](/en/post/means/) [to](/en/post/to/) [obtain](/en/post/obtain/) exclusive rights [over](/en/post/over/) an [invention](/en/post/invention/) [through](/en/post/through/) [legal](/en/post/legal/) [means](/en/post/means/).
-- "[A](/en/post/a/) [stroke](/en/post/stroke/) [of](/en/post/of/) [genius](/en/post/genius/)/[invention](/en/post/invention/)" implies [a](/en/post/a/) [sudden](/en/post/sudden/), [brilliant](/en/post/brilliant/) [idea](/en/post/idea/) [or](/en/post/or/) creation.
+- "[Invention](/post/invention/) [of](/post/of/) [the](/post/the/) [wheel](/post/wheel/)" refers [to](/post/to/) [the](/post/the/) seminal innovation [in](/post/in/) [human](/post/human/) [history](/post/history/) [where](/post/where/) humans developed [the](/post/the/) [first](/post/first/) [wheel](/post/wheel/).
+- "Patent an [invention](/post/invention/)" [means](/post/means/) [to](/post/to/) [obtain](/post/obtain/) exclusive rights [over](/post/over/) an [invention](/post/invention/) [through](/post/through/) [legal](/post/legal/) [means](/post/means/).
+- "[A](/post/a/) [stroke](/post/stroke/) [of](/post/of/) [genius](/post/genius/)/[invention](/post/invention/)" implies [a](/post/a/) [sudden](/post/sudden/), [brilliant](/post/brilliant/) [idea](/post/idea/) [or](/post/or/) creation.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Alexander Graham Bell's [invention](/en/post/invention/) [of](/en/post/of/) [the](/en/post/the/) [telephone](/en/post/telephone/) revolutionized [communication](/en/post/communication/)."
-- "[Her](/en/post/her/) latest [invention](/en/post/invention/) promises [to](/en/post/to/) significantly [reduce](/en/post/reduce/) [energy](/en/post/energy/) [consumption](/en/post/consumption/) [in](/en/post/in/) households."
-- "[The](/en/post/the/) [steam](/en/post/steam/) [engine](/en/post/engine/) marked [a](/en/post/a/) pinnacle [in](/en/post/in/) [the](/en/post/the/) [industrial](/en/post/industrial/) inventions [of](/en/post/of/) [the](/en/post/the/) 18th [century](/en/post/century/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Alexander Graham Bell's [invention](/post/invention/) [of](/post/of/) [the](/post/the/) [telephone](/post/telephone/) revolutionized [communication](/post/communication/)."
+- "[Her](/post/her/) latest [invention](/post/invention/) promises [to](/post/to/) significantly [reduce](/post/reduce/) [energy](/post/energy/) [consumption](/post/consumption/) [in](/post/in/) households."
+- "[The](/post/the/) [steam](/post/steam/) [engine](/post/engine/) marked [a](/post/a/) pinnacle [in](/post/in/) [the](/post/the/) [industrial](/post/industrial/) inventions [of](/post/of/) [the](/post/the/) 18th [century](/post/century/)."
 
 ## Synonyms
 - Innovation
-- [Discovery](/en/post/discovery/)
+- [Discovery](/post/discovery/)
 - Creation
 - Inventing
 - Novelty

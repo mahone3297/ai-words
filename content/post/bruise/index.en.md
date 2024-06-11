@@ -7,32 +7,32 @@ description = '[bruːz] n.青肿，伤痕；擦伤'
 keywords = ['ai words', 'bruise']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bruːz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [bruise](/en/post/bruise/) is [a](/en/post/a/) [common](/en/post/common/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) discoloration [or](/en/post/or/) swelling [on](/en/post/on/) [the](/en/post/the/) [skin](/en/post/skin/) caused [by](/en/post/by/) [injury](/en/post/injury/) [or](/en/post/or/) [pressure](/en/post/pressure/), typically resulting [from](/en/post/from/) [a](/en/post/a/) [blow](/en/post/blow/) [or](/en/post/or/) [impact](/en/post/impact/).
+### [Noun](/post/noun/)
+[A](/post/a/) [bruise](/post/bruise/) is [a](/post/a/) [common](/post/common/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) discoloration [or](/post/or/) swelling [on](/post/on/) [the](/post/the/) [skin](/post/skin/) caused [by](/post/by/) [injury](/post/injury/) [or](/post/or/) [pressure](/post/pressure/), typically resulting [from](/post/from/) [a](/post/a/) [blow](/post/blow/) [or](/post/or/) [impact](/post/impact/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [bruise](/en/post/bruise/) (v) [means](/en/post/means/) [to](/en/post/to/) [cause](/en/post/cause/) [a](/en/post/a/) [bruise](/en/post/bruise/) [on](/en/post/on/) someone's [skin](/en/post/skin/), [usually](/en/post/usually/) [through](/en/post/through/) [physical](/en/post/physical/) [contact](/en/post/contact/) [or](/en/post/or/) [pressure](/en/post/pressure/).
+### [Verb](/post/verb/)
+[To](/post/to/) [bruise](/post/bruise/) (v) [means](/post/means/) [to](/post/to/) [cause](/post/cause/) [a](/post/a/) [bruise](/post/bruise/) [on](/post/on/) someone's [skin](/post/skin/), [usually](/post/usually/) [through](/post/through/) [physical](/post/physical/) [contact](/post/contact/) [or](/post/or/) [pressure](/post/pressure/).
 
 ## Phrases
-- "Got [a](/en/post/a/) [bruise](/en/post/bruise/) [from](/en/post/from/) playing [soccer](/en/post/soccer/)"
-- "[She](/en/post/she/) had [a](/en/post/a/) [nasty](/en/post/nasty/) [bruise](/en/post/bruise/) [on](/en/post/on/) [her](/en/post/her/) [knee](/en/post/knee/) [after](/en/post/after/) [the](/en/post/the/) [fall](/en/post/fall/)."
-- "Preventing bruises [during](/en/post/during/) [exercise](/en/post/exercise/) is [essential](/en/post/essential/)."
+- "Got [a](/post/a/) [bruise](/post/bruise/) [from](/post/from/) playing [soccer](/post/soccer/)"
+- "[She](/post/she/) had [a](/post/a/) [nasty](/post/nasty/) [bruise](/post/bruise/) [on](/post/on/) [her](/post/her/) [knee](/post/knee/) [after](/post/after/) [the](/post/the/) [fall](/post/fall/)."
+- "Preventing bruises [during](/post/during/) [exercise](/post/exercise/) is [essential](/post/essential/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) examined [her](/en/post/her/) [ankle](/en/post/ankle/), noting [the](/en/post/the/) [deep](/en/post/deep/) [purple](/en/post/purple/) [bruise](/en/post/bruise/) [that](/en/post/that/) had formed."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) accidentally bruised [his](/en/post/his/) [elbow](/en/post/elbow/) [while](/en/post/while/) lifting weights."
-- **[Cause](/en/post/cause/)**: "[The](/en/post/the/) [fall](/en/post/fall/) [left](/en/post/left/) [him](/en/post/him/) [with](/en/post/with/) [several](/en/post/several/) [painful](/en/post/painful/) bruises [all](/en/post/all/) [over](/en/post/over/) [his](/en/post/his/) [body](/en/post/body/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) examined [her](/post/her/) [ankle](/post/ankle/), noting [the](/post/the/) [deep](/post/deep/) [purple](/post/purple/) [bruise](/post/bruise/) [that](/post/that/) had formed."
+- **[Verb](/post/verb/)**: "[He](/post/he/) accidentally bruised [his](/post/his/) [elbow](/post/elbow/) [while](/post/while/) lifting weights."
+- **[Cause](/post/cause/)**: "[The](/post/the/) [fall](/post/fall/) [left](/post/left/) [him](/post/him/) [with](/post/with/) [several](/post/several/) [painful](/post/painful/) bruises [all](/post/all/) [over](/post/over/) [his](/post/his/) [body](/post/body/)."
 
 ## Synonyms
 - Contusion
-- [Injury](/en/post/injury/) ([in](/en/post/in/) [the](/en/post/the/) [case](/en/post/case/) [of](/en/post/of/) [a](/en/post/a/) [bruise](/en/post/bruise/))
-- [Scratch](/en/post/scratch/) ([less](/en/post/less/) [severe](/en/post/severe/) [than](/en/post/than/) [a](/en/post/a/) [bruise](/en/post/bruise/))
-- Black-and-blue [mark](/en/post/mark/)
-- Bruised [area](/en/post/area/)
+- [Injury](/post/injury/) ([in](/post/in/) [the](/post/the/) [case](/post/case/) [of](/post/of/) [a](/post/a/) [bruise](/post/bruise/))
+- [Scratch](/post/scratch/) ([less](/post/less/) [severe](/post/severe/) [than](/post/than/) [a](/post/a/) [bruise](/post/bruise/))
+- Black-and-blue [mark](/post/mark/)
+- Bruised [area](/post/area/)
 
 ## Antonyms
 - Unblemished

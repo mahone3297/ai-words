@@ -7,48 +7,48 @@ description = '[pul] vt.拉，拖；拉，拉力'
 keywords = ['ai words', 'pull']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pʊl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [drawing](/en/post/drawing/) [or](/en/post/or/) moving [something](/en/post/something/) towards [oneself](/en/post/oneself/) [with](/en/post/with/) [force](/en/post/force/) [or](/en/post/or/) [effort](/en/post/effort/): *[He](/en/post/he/) pulled [the](/en/post/the/) [rope](/en/post/rope/) [to](/en/post/to/) [start](/en/post/start/) [the](/en/post/the/) [engine](/en/post/engine/).*
-2. [A](/en/post/a/) [force](/en/post/force/) exerted [on](/en/post/on/) an [object](/en/post/object/) [to](/en/post/to/) [cause](/en/post/cause/) [motion](/en/post/motion/): *[The](/en/post/the/) gravitational [pull](/en/post/pull/) [of](/en/post/of/) [the](/en/post/the/) [moon](/en/post/moon/) affects tides.*
-3. [Influence](/en/post/influence/) [or](/en/post/or/) [impact](/en/post/impact/): *[Her](/en/post/her/) words held [a](/en/post/a/) [strong](/en/post/strong/) [pull](/en/post/pull/) [on](/en/post/on/) [his](/en/post/his/) [decision](/en/post/decision/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) [drawing](/post/drawing/) [or](/post/or/) moving [something](/post/something/) towards [oneself](/post/oneself/) [with](/post/with/) [force](/post/force/) [or](/post/or/) [effort](/post/effort/): *[He](/post/he/) pulled [the](/post/the/) [rope](/post/rope/) [to](/post/to/) [start](/post/start/) [the](/post/the/) [engine](/post/engine/).*
+2. [A](/post/a/) [force](/post/force/) exerted [on](/post/on/) an [object](/post/object/) [to](/post/to/) [cause](/post/cause/) [motion](/post/motion/): *[The](/post/the/) gravitational [pull](/post/pull/) [of](/post/of/) [the](/post/the/) [moon](/post/moon/) affects tides.*
+3. [Influence](/post/influence/) [or](/post/or/) [impact](/post/impact/): *[Her](/post/her/) words held [a](/post/a/) [strong](/post/strong/) [pull](/post/pull/) [on](/post/on/) [his](/post/his/) [decision](/post/decision/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [draw](/en/post/draw/) [or](/en/post/or/) [move](/en/post/move/) [something](/en/post/something/) [with](/en/post/with/) [force](/en/post/force/): *[She](/en/post/she/) pulled [the](/en/post/the/) wagon [across](/en/post/across/) [the](/en/post/the/) [field](/en/post/field/).*
-2. [To](/en/post/to/) extract [or](/en/post/or/) [remove](/en/post/remove/) [something](/en/post/something/): *[He](/en/post/he/) pulled [out](/en/post/out/) [a](/en/post/a/) [key](/en/post/key/) [from](/en/post/from/) [his](/en/post/his/) [pocket](/en/post/pocket/).*
-3. [To](/en/post/to/) [influence](/en/post/influence/) [or](/en/post/or/) [persuade](/en/post/persuade/): *[His](/en/post/his/) arguments had [a](/en/post/a/) [pull](/en/post/pull/) [on](/en/post/on/) [her](/en/post/her/) decision-making.*
-4. (Informal) [To](/en/post/to/) [win](/en/post/win/) [or](/en/post/or/) [achieve](/en/post/achieve/) [something](/en/post/something/) [through](/en/post/through/) [determination](/en/post/determination/) [or](/en/post/or/) [skill](/en/post/skill/): *[He](/en/post/he/) pulled [off](/en/post/off/) [a](/en/post/a/) last-minute [goal](/en/post/goal/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [draw](/post/draw/) [or](/post/or/) [move](/post/move/) [something](/post/something/) [with](/post/with/) [force](/post/force/): *[She](/post/she/) pulled [the](/post/the/) wagon [across](/post/across/) [the](/post/the/) [field](/post/field/).*
+2. [To](/post/to/) extract [or](/post/or/) [remove](/post/remove/) [something](/post/something/): *[He](/post/he/) pulled [out](/post/out/) [a](/post/a/) [key](/post/key/) [from](/post/from/) [his](/post/his/) [pocket](/post/pocket/).*
+3. [To](/post/to/) [influence](/post/influence/) [or](/post/or/) [persuade](/post/persuade/): *[His](/post/his/) arguments had [a](/post/a/) [pull](/post/pull/) [on](/post/on/) [her](/post/her/) decision-making.*
+4. (Informal) [To](/post/to/) [win](/post/win/) [or](/post/or/) [achieve](/post/achieve/) [something](/post/something/) [through](/post/through/) [determination](/post/determination/) [or](/post/or/) [skill](/post/skill/): *[He](/post/he/) pulled [off](/post/off/) [a](/post/a/) last-minute [goal](/post/goal/).*
 
-### [Adjective](/en/post/adjective/)
-1. [Strong](/en/post/strong/) [or](/en/post/or/) [powerful](/en/post/powerful/): *[A](/en/post/a/) [strong](/en/post/strong/) [pull](/en/post/pull/) [in](/en/post/in/) [the](/en/post/the/) [wind](/en/post/wind/).*
-2. [Attractive](/en/post/attractive/) [or](/en/post/or/) compelling: *[The](/en/post/the/) [job](/en/post/job/) [offer](/en/post/offer/) had [a](/en/post/a/) [pull](/en/post/pull/) [on](/en/post/on/) [him](/en/post/him/).*
-3. Tending [to](/en/post/to/) [draw](/en/post/draw/) [or](/en/post/or/) [attract](/en/post/attract/): *[The](/en/post/the/) [exhibit](/en/post/exhibit/) had [a](/en/post/a/) [pull](/en/post/pull/) [on](/en/post/on/) visitors.*
+### [Adjective](/post/adjective/)
+1. [Strong](/post/strong/) [or](/post/or/) [powerful](/post/powerful/): *[A](/post/a/) [strong](/post/strong/) [pull](/post/pull/) [in](/post/in/) [the](/post/the/) [wind](/post/wind/).*
+2. [Attractive](/post/attractive/) [or](/post/or/) compelling: *[The](/post/the/) [job](/post/job/) [offer](/post/offer/) had [a](/post/a/) [pull](/post/pull/) [on](/post/on/) [him](/post/him/).*
+3. Tending [to](/post/to/) [draw](/post/draw/) [or](/post/or/) [attract](/post/attract/): *[The](/post/the/) [exhibit](/post/exhibit/) had [a](/post/a/) [pull](/post/pull/) [on](/post/on/) visitors.*
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) pulling [manner](/en/post/manner/): *[He](/en/post/he/) pulled [the](/en/post/the/) [lever](/en/post/lever/) [with](/en/post/with/) [all](/en/post/all/) [his](/en/post/his/) [might](/en/post/might/).*
-2. [With](/en/post/with/) [effort](/en/post/effort/) [or](/en/post/or/) [determination](/en/post/determination/): *[She](/en/post/she/) pulled [through](/en/post/through/) [the](/en/post/the/) [tough](/en/post/tough/) [situation](/en/post/situation/).*
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) pulling [manner](/post/manner/): *[He](/post/he/) pulled [the](/post/the/) [lever](/post/lever/) [with](/post/with/) [all](/post/all/) [his](/post/his/) [might](/post/might/).*
+2. [With](/post/with/) [effort](/post/effort/) [or](/post/or/) [determination](/post/determination/): *[She](/post/she/) pulled [through](/post/through/) [the](/post/the/) [tough](/post/tough/) [situation](/post/situation/).*
 
 ## Phrases
-- "[Pull](/en/post/pull/) [oneself](/en/post/oneself/) [together](/en/post/together/)" [means](/en/post/means/) [to](/en/post/to/) [gather](/en/post/gather/) one's thoughts [or](/en/post/or/) emotions [after](/en/post/after/) [a](/en/post/a/) [difficult](/en/post/difficult/) [moment](/en/post/moment/).
-- "[Pull](/en/post/pull/) [rank](/en/post/rank/)" is [used](/en/post/used/) [when](/en/post/when/) [someone](/en/post/someone/) uses [their](/en/post/their/) [authority](/en/post/authority/) [to](/en/post/to/) [get](/en/post/get/) [what](/en/post/what/) [they](/en/post/they/) [want](/en/post/want/).
-- "Pulling strings" implies influencing events [behind](/en/post/behind/) [the](/en/post/the/) scenes.
+- "[Pull](/post/pull/) [oneself](/post/oneself/) [together](/post/together/)" [means](/post/means/) [to](/post/to/) [gather](/post/gather/) one's thoughts [or](/post/or/) emotions [after](/post/after/) [a](/post/a/) [difficult](/post/difficult/) [moment](/post/moment/).
+- "[Pull](/post/pull/) [rank](/post/rank/)" is [used](/post/used/) [when](/post/when/) [someone](/post/someone/) uses [their](/post/their/) [authority](/post/authority/) [to](/post/to/) [get](/post/get/) [what](/post/what/) [they](/post/they/) [want](/post/want/).
+- "Pulling strings" implies influencing events [behind](/post/behind/) [the](/post/the/) scenes.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [magnet](/en/post/magnet/) had [a](/en/post/a/) [strong](/en/post/strong/) [pull](/en/post/pull/) [on](/en/post/on/) [the](/en/post/the/) [iron](/en/post/iron/) filings."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) pulled [up](/en/post/up/) [the](/en/post/the/) [anchor](/en/post/anchor/) [to](/en/post/to/) [leave](/en/post/leave/) [the](/en/post/the/) [dock](/en/post/dock/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) car's [pull](/en/post/pull/) was [impressive](/en/post/impressive/) [on](/en/post/on/) [the](/en/post/the/) [steep](/en/post/steep/) [hill](/en/post/hill/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) pulled [through](/en/post/through/) [the](/en/post/the/) curtains [to](/en/post/to/) [let](/en/post/let/) [in](/en/post/in/) [some](/en/post/some/) [light](/en/post/light/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [magnet](/post/magnet/) had [a](/post/a/) [strong](/post/strong/) [pull](/post/pull/) [on](/post/on/) [the](/post/the/) [iron](/post/iron/) filings."
+- **[Verb](/post/verb/)**: "[He](/post/he/) pulled [up](/post/up/) [the](/post/the/) [anchor](/post/anchor/) [to](/post/to/) [leave](/post/leave/) [the](/post/the/) [dock](/post/dock/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) car's [pull](/post/pull/) was [impressive](/post/impressive/) [on](/post/on/) [the](/post/the/) [steep](/post/steep/) [hill](/post/hill/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) pulled [through](/post/through/) [the](/post/the/) curtains [to](/post/to/) [let](/post/let/) [in](/post/in/) [some](/post/some/) [light](/post/light/)."
 
 ## Synonyms
-- [Draw](/en/post/draw/)
+- [Draw](/post/draw/)
 -曳
 - tug
-- [attract](/en/post/attract/)
-- [influence](/en/post/influence/)
-- [urge](/en/post/urge/)
-- [exert](/en/post/exert/)
+- [attract](/post/attract/)
+- [influence](/post/influence/)
+- [urge](/post/urge/)
+- [exert](/post/exert/)
 - maneuver
 -夺得

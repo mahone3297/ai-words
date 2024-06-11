@@ -7,48 +7,48 @@ description = '[faind] vt.找到；发觉；找出'
 keywords = ['ai words', 'find']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɪnd/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [discover](/en/post/discover/) [or](/en/post/or/) [locate](/en/post/locate/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [after](/en/post/after/) searching [or](/en/post/or/) making an [effort](/en/post/effort/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) establishing [contact](/en/post/contact/) [with](/en/post/with/) [or](/en/post/or/) perceiving [something](/en/post/something/) mentally [or](/en/post/or/) emotionally.
-  - _Example Sentence_: "I [finally](/en/post/finally/) [found](/en/post/found/) [my](/en/post/my/) keys [under](/en/post/under/) [the](/en/post/the/) sofa."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [discover](/post/discover/) [or](/post/or/) [locate](/post/locate/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [after](/post/after/) searching [or](/post/or/) making an [effort](/post/effort/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) establishing [contact](/post/contact/) [with](/post/with/) [or](/post/or/) perceiving [something](/post/something/) mentally [or](/post/or/) emotionally.
+  - _Example Sentence_: "I [finally](/post/finally/) [found](/post/found/) [my](/post/my/) keys [under](/post/under/) [the](/post/the/) sofa."
   - _Phrases_:
-    - "[Find](/en/post/find/) [out](/en/post/out/)": [Discover](/en/post/discover/) [information](/en/post/information/) [through](/en/post/through/) [research](/en/post/research/) [or](/en/post/or/) [inquiry](/en/post/inquiry/). [Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [find](/en/post/find/) [out](/en/post/out/) [the](/en/post/the/) [truth](/en/post/truth/) [about](/en/post/about/) [what](/en/post/what/) happened."
-    - "[Find](/en/post/find/) [oneself](/en/post/oneself/)": [Become](/en/post/become/) [aware](/en/post/aware/) [of](/en/post/of/) one's [own](/en/post/own/) [character](/en/post/character/), feelings, [or](/en/post/or/) [position](/en/post/position/) [in](/en/post/in/) [life](/en/post/life/). [Example](/en/post/example/): "[After](/en/post/after/) traveling [the](/en/post/the/) [world](/en/post/world/), [he](/en/post/he/) [finally](/en/post/finally/) [found](/en/post/found/) [himself](/en/post/himself/)."
-    - "[Find](/en/post/find/) [fault](/en/post/fault/)": [Criticize](/en/post/criticize/) [or](/en/post/or/) [point](/en/post/point/) [out](/en/post/out/) mistakes. [Example](/en/post/example/): "She's [always](/en/post/always/) [finding](/en/post/finding/) [fault](/en/post/fault/) [with](/en/post/with/) [my](/en/post/my/) [work](/en/post/work/)."
+    - "[Find](/post/find/) [out](/post/out/)": [Discover](/post/discover/) [information](/post/information/) [through](/post/through/) [research](/post/research/) [or](/post/or/) [inquiry](/post/inquiry/). [Example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [find](/post/find/) [out](/post/out/) [the](/post/the/) [truth](/post/truth/) [about](/post/about/) [what](/post/what/) happened."
+    - "[Find](/post/find/) [oneself](/post/oneself/)": [Become](/post/become/) [aware](/post/aware/) [of](/post/of/) one's [own](/post/own/) [character](/post/character/), feelings, [or](/post/or/) [position](/post/position/) [in](/post/in/) [life](/post/life/). [Example](/post/example/): "[After](/post/after/) traveling [the](/post/the/) [world](/post/world/), [he](/post/he/) [finally](/post/finally/) [found](/post/found/) [himself](/post/himself/)."
+    - "[Find](/post/find/) [fault](/post/fault/)": [Criticize](/post/criticize/) [or](/post/or/) [point](/post/point/) [out](/post/out/) mistakes. [Example](/post/example/): "She's [always](/post/always/) [finding](/post/finding/) [fault](/post/fault/) [with](/post/with/) [my](/post/my/) [work](/post/work/)."
 
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) discovering [or](/en/post/or/) locating [something](/en/post/something/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [successful](/en/post/successful/) [search](/en/post/search/).
-  - _Example Sentence_: "[The](/en/post/the/) [discovery](/en/post/discovery/) was [a](/en/post/a/) [remarkable](/en/post/remarkable/) [find](/en/post/find/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) discovering [or](/post/or/) locating [something](/post/something/), [often](/post/often/) [used](/post/used/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [successful](/post/successful/) [search](/post/search/).
+  - _Example Sentence_: "[The](/post/the/) [discovery](/post/discovery/) was [a](/post/a/) [remarkable](/post/remarkable/) [find](/post/find/)."
   - _Phrases_:
-    - "[Treasure](/en/post/treasure/) [find](/en/post/find/)": [A](/en/post/a/) [valuable](/en/post/valuable/) [object](/en/post/object/) [or](/en/post/or/) artefact discovered unexpectedly.
-    - "[Rare](/en/post/rare/) [find](/en/post/find/)": [Something](/en/post/something/) [unusual](/en/post/unusual/) [or](/en/post/or/) [difficult](/en/post/difficult/) [to](/en/post/to/) [come](/en/post/come/) [by](/en/post/by/) [that](/en/post/that/) has been located [or](/en/post/or/) identified.
+    - "[Treasure](/post/treasure/) [find](/post/find/)": [A](/post/a/) [valuable](/post/valuable/) [object](/post/object/) [or](/post/or/) artefact discovered unexpectedly.
+    - "[Rare](/post/rare/) [find](/post/find/)": [Something](/post/something/) [unusual](/post/unusual/) [or](/post/or/) [difficult](/post/difficult/) [to](/post/to/) [come](/post/come/) [by](/post/by/) [that](/post/that/) has been located [or](/post/or/) identified.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I'll [help](/en/post/help/) [you](/en/post/you/) [find](/en/post/find/) [your](/en/post/your/) [missing](/en/post/missing/) [book](/en/post/book/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) antique [store](/en/post/store/) is [full](/en/post/full/) [of](/en/post/of/) [interesting](/en/post/interesting/) finds [from](/en/post/from/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I'll [help](/post/help/) [you](/post/you/) [find](/post/find/) [your](/post/your/) [missing](/post/missing/) [book](/post/book/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) antique [store](/post/store/) is [full](/post/full/) [of](/post/of/) [interesting](/post/interesting/) finds [from](/post/from/) [around](/post/around/) [the](/post/the/) [world](/post/world/)."
 
 ## Synonyms
-- [Discover](/en/post/discover/)
-- [Locate](/en/post/locate/)
-- [Uncover](/en/post/uncover/)
-- [Detect](/en/post/detect/)
-- [Spot](/en/post/spot/)
-- [Identify](/en/post/identify/)
+- [Discover](/post/discover/)
+- [Locate](/post/locate/)
+- [Uncover](/post/uncover/)
+- [Detect](/post/detect/)
+- [Spot](/post/spot/)
+- [Identify](/post/identify/)
 - Retrieve
-- [Come](/en/post/come/) [across](/en/post/across/)
-- [Happen](/en/post/happen/) [upon](/en/post/upon/)
+- [Come](/post/come/) [across](/post/across/)
+- [Happen](/post/happen/) [upon](/post/upon/)
 
-[For](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [sense](/en/post/sense/) [of](/en/post/of/) '[find](/en/post/find/)':
-- [Discovery](/en/post/discovery/)
-- [Finding](/en/post/finding/)
+[For](/post/for/) [the](/post/the/) [noun](/post/noun/) [sense](/post/sense/) [of](/post/of/) '[find](/post/find/)':
+- [Discovery](/post/discovery/)
+- [Finding](/post/finding/)
 - Unearthing
 - Revelation
 
-[For](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [sense](/en/post/sense/) [of](/en/post/of/) '[find](/en/post/find/)':
-- [Determine](/en/post/determine/)
-- [Seek](/en/post/seek/) [out](/en/post/out/)
-- [Trace](/en/post/trace/)
+[For](/post/for/) [the](/post/the/) [verb](/post/verb/) [sense](/post/sense/) [of](/post/of/) '[find](/post/find/)':
+- [Determine](/post/determine/)
+- [Seek](/post/seek/) [out](/post/out/)
+- [Trace](/post/trace/)
 - Pinpoint
-- [Encounter](/en/post/encounter/)
-- [Stumble](/en/post/stumble/) [upon](/en/post/upon/)
+- [Encounter](/post/encounter/)
+- [Stumble](/post/stumble/) [upon](/post/upon/)

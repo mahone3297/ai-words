@@ -11,20 +11,20 @@ keywords = ['ai words', 'hunt']
 /hʌnt/
 
 ## 释义
-- **动词**: 搜索、追踪或追捕（动物、人或其他目标）。例如: "[The](/post/the/) hunters were [out](/post/out/) hunting [deer](/post/deer/) [in](/post/in/) [the](/post/the/) [forest](/post/forest/)."
-- **名词**: 对动物的追逐或捕猎活动。例如: "[He](/post/he/) went [on](/post/on/) [a](/post/a/) [fox](/post/fox/) [hunt](/post/hunt/) [with](/post/with/) [his](/post/his/) friends."
+- **动词**: 搜索、追踪或追捕（动物、人或其他目标）。例如: "[The](/zh/post/the/) hunters were [out](/zh/post/out/) hunting [deer](/zh/post/deer/) [in](/zh/post/in/) [the](/zh/post/the/) [forest](/zh/post/forest/)."
+- **名词**: 对动物的追逐或捕猎活动。例如: "[He](/zh/post/he/) went [on](/zh/post/on/) [a](/zh/post/a/) [fox](/zh/post/fox/) [hunt](/zh/post/hunt/) [with](/zh/post/with/) [his](/zh/post/his/) friends."
 
 ## 短语
-- "[Go](/post/go/) hunting" 意为去打猎。
-- "[Hunt](/post/hunt/) [for](/post/for/) [something](/post/something/)" 表示寻找某物。例如: "They're hunting [for](/post/for/) [a](/post/a/) [new](/post/new/) [job](/post/job/)."
+- "[Go](/zh/post/go/) hunting" 意为去打猎。
+- "[Hunt](/zh/post/hunt/) [for](/zh/post/for/) [something](/zh/post/something/)" 表示寻找某物。例如: "They're hunting [for](/zh/post/for/) [a](/zh/post/a/) [new](/zh/post/new/) [job](/zh/post/job/)."
 
 ## 例句
-- 动词: "[The](/post/the/) hunter skillfully hunted [down](/post/down/) [the](/post/the/) prey using [his](/post/his/) [bow](/post/bow/) [and](/post/and/) [arrow](/post/arrow/)."
-- 名词: "[The](/post/the/) [village](/post/village/) holds an [annual](/post/annual/) hunting [festival](/post/festival/)."
+- 动词: "[The](/zh/post/the/) hunter skillfully hunted [down](/zh/post/down/) [the](/zh/post/the/) prey using [his](/zh/post/his/) [bow](/zh/post/bow/) [and](/zh/post/and/) [arrow](/zh/post/arrow/)."
+- 名词: "[The](/zh/post/the/) [village](/zh/post/village/) holds an [annual](/zh/post/annual/) hunting [festival](/zh/post/festival/)."
 
 ## 同义词
-- [Track](/post/track/)
-- [Chase](/post/chase/)
-- [Search](/post/search/)
-- [Pursue](/post/pursue/)
+- [Track](/zh/post/track/)
+- [Chase](/zh/post/chase/)
+- [Search](/zh/post/search/)
+- [Pursue](/zh/post/pursue/)
 - Stalk

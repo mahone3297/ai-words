@@ -7,40 +7,40 @@ description = '[ˈrʌbə] n.橡皮(擦子)；橡胶'
 keywords = ['ai words', 'rubber']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rʌbər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Material](/en/post/material/)**: [A](/en/post/a/) pliable [elastic](/en/post/elastic/) [substance](/en/post/substance/), [usually](/en/post/usually/) derived [from](/en/post/from/) [rubber](/en/post/rubber/) trees, [used](/en/post/used/) [for](/en/post/for/) [various](/en/post/various/) purposes [like](/en/post/like/) tires, gloves, [and](/en/post/and/) seals.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [rubber](/en/post/rubber/) soles [on](/en/post/on/) [her](/en/post/her/) shoes [provided](/en/post/provided/) [good](/en/post/good/) [grip](/en/post/grip/)."
-2. **Eraser**: [A](/en/post/a/) [small](/en/post/small/) [object](/en/post/object/) made [of](/en/post/of/) [rubber](/en/post/rubber/) [used](/en/post/used/) [for](/en/post/for/) removing markings [from](/en/post/from/) [writing](/en/post/writing/) surfaces.
-   - [Example](/en/post/example/): "I [need](/en/post/need/) [a](/en/post/a/) [new](/en/post/new/) [rubber](/en/post/rubber/) [for](/en/post/for/) [my](/en/post/my/) [pencil](/en/post/pencil/)."
-3. **[Flexible](/en/post/flexible/) [item](/en/post/item/)**: [A](/en/post/a/) non-rigid [material](/en/post/material/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) bent [or](/en/post/or/) shaped [easily](/en/post/easily/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [rubber](/en/post/rubber/) [band](/en/post/band/) snapped [back](/en/post/back/) [into](/en/post/into/) [place](/en/post/place/) [after](/en/post/after/) [being](/en/post/being/) stretched."
+### [Noun](/post/noun/)
+1. **[Material](/post/material/)**: [A](/post/a/) pliable [elastic](/post/elastic/) [substance](/post/substance/), [usually](/post/usually/) derived [from](/post/from/) [rubber](/post/rubber/) trees, [used](/post/used/) [for](/post/for/) [various](/post/various/) purposes [like](/post/like/) tires, gloves, [and](/post/and/) seals.
+   - [Example](/post/example/): "[The](/post/the/) [rubber](/post/rubber/) soles [on](/post/on/) [her](/post/her/) shoes [provided](/post/provided/) [good](/post/good/) [grip](/post/grip/)."
+2. **Eraser**: [A](/post/a/) [small](/post/small/) [object](/post/object/) made [of](/post/of/) [rubber](/post/rubber/) [used](/post/used/) [for](/post/for/) removing markings [from](/post/from/) [writing](/post/writing/) surfaces.
+   - [Example](/post/example/): "I [need](/post/need/) [a](/post/a/) [new](/post/new/) [rubber](/post/rubber/) [for](/post/for/) [my](/post/my/) [pencil](/post/pencil/)."
+3. **[Flexible](/post/flexible/) [item](/post/item/)**: [A](/post/a/) non-rigid [material](/post/material/) [that](/post/that/) [can](/post/can/) [be](/post/be/) bent [or](/post/or/) shaped [easily](/post/easily/).
+   - [Example](/post/example/): "[The](/post/the/) [rubber](/post/rubber/) [band](/post/band/) snapped [back](/post/back/) [into](/post/into/) [place](/post/place/) [after](/post/after/) [being](/post/being/) stretched."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [stretch](/en/post/stretch/) [or](/en/post/or/) deform**: [The](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) making rubbery [material](/en/post/material/) [expand](/en/post/expand/) [or](/en/post/or/) [change](/en/post/change/) [shape](/en/post/shape/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) was playing [with](/en/post/with/) [a](/en/post/a/) [rubber](/en/post/rubber/) [ball](/en/post/ball/), stretching [it](/en/post/it/) [to](/en/post/to/) [its](/en/post/its/) limits."
-2. **[To](/en/post/to/) [use](/en/post/use/) [rubber](/en/post/rubber/) [as](/en/post/as/) [a](/en/post/a/) coating**: [Apply](/en/post/apply/) [a](/en/post/a/) [layer](/en/post/layer/) [of](/en/post/of/) [rubber](/en/post/rubber/) [to](/en/post/to/) [protect](/en/post/protect/) [or](/en/post/or/) insulate [something](/en/post/something/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [roof](/en/post/roof/) was coated [with](/en/post/with/) [rubber](/en/post/rubber/) [to](/en/post/to/) [prevent](/en/post/prevent/) leaks."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [stretch](/post/stretch/) [or](/post/or/) deform**: [The](/post/the/) [action](/post/action/) [of](/post/of/) making rubbery [material](/post/material/) [expand](/post/expand/) [or](/post/or/) [change](/post/change/) [shape](/post/shape/).
+   - [Example](/post/example/): "[The](/post/the/) [child](/post/child/) was playing [with](/post/with/) [a](/post/a/) [rubber](/post/rubber/) [ball](/post/ball/), stretching [it](/post/it/) [to](/post/to/) [its](/post/its/) limits."
+2. **[To](/post/to/) [use](/post/use/) [rubber](/post/rubber/) [as](/post/as/) [a](/post/a/) coating**: [Apply](/post/apply/) [a](/post/a/) [layer](/post/layer/) [of](/post/of/) [rubber](/post/rubber/) [to](/post/to/) [protect](/post/protect/) [or](/post/or/) insulate [something](/post/something/).
+   - [Example](/post/example/): "[The](/post/the/) [roof](/post/roof/) was coated [with](/post/with/) [rubber](/post/rubber/) [to](/post/to/) [prevent](/post/prevent/) leaks."
 
 ## Phrases
-- "Rubbernecking" (informal) - [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) staring [at](/en/post/at/) [something](/en/post/something/) [out](/en/post/out/) [of](/en/post/of/) [curiosity](/en/post/curiosity/), [often](/en/post/often/) [while](/en/post/while/) driving.
-- "Latex [rubber](/en/post/rubber/)" - Refers [to](/en/post/to/) [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [natural](/en/post/natural/) [rubber](/en/post/rubber/) obtained [from](/en/post/from/) [rubber](/en/post/rubber/) trees.
-- "Resilient [rubber](/en/post/rubber/)" - [A](/en/post/a/) [description](/en/post/description/) [of](/en/post/of/) rubber's [ability](/en/post/ability/) [to](/en/post/to/) [return](/en/post/return/) [to](/en/post/to/) [its](/en/post/its/) [original](/en/post/original/) [shape](/en/post/shape/) [after](/en/post/after/) [being](/en/post/being/) deformed.
+- "Rubbernecking" (informal) - [The](/post/the/) [act](/post/act/) [of](/post/of/) staring [at](/post/at/) [something](/post/something/) [out](/post/out/) [of](/post/of/) [curiosity](/post/curiosity/), [often](/post/often/) [while](/post/while/) driving.
+- "Latex [rubber](/post/rubber/)" - Refers [to](/post/to/) [a](/post/a/) [type](/post/type/) [of](/post/of/) [natural](/post/natural/) [rubber](/post/rubber/) obtained [from](/post/from/) [rubber](/post/rubber/) trees.
+- "Resilient [rubber](/post/rubber/)" - [A](/post/a/) [description](/post/description/) [of](/post/of/) rubber's [ability](/post/ability/) [to](/post/to/) [return](/post/return/) [to](/post/to/) [its](/post/its/) [original](/post/original/) [shape](/post/shape/) [after](/post/after/) [being](/post/being/) deformed.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) bought [a](/en/post/a/) [new](/en/post/new/) [set](/en/post/set/) [of](/en/post/of/) [rubber](/en/post/rubber/) gloves [for](/en/post/for/) [the](/en/post/the/) [garden](/en/post/garden/) [work](/en/post/work/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) builder rubbed [some](/en/post/some/) [rubber](/en/post/rubber/) [cement](/en/post/cement/) [onto](/en/post/onto/) [the](/en/post/the/) seams [to](/en/post/to/) [seal](/en/post/seal/) [them](/en/post/them/)."
-- **Phrasal**: "[The](/en/post/the/) [car](/en/post/car/) [accident](/en/post/accident/) was [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) rubbernecking [by](/en/post/by/) [the](/en/post/the/) drivers."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) bought [a](/post/a/) [new](/post/new/) [set](/post/set/) [of](/post/of/) [rubber](/post/rubber/) gloves [for](/post/for/) [the](/post/the/) [garden](/post/garden/) [work](/post/work/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) builder rubbed [some](/post/some/) [rubber](/post/rubber/) [cement](/post/cement/) [onto](/post/onto/) [the](/post/the/) seams [to](/post/to/) [seal](/post/seal/) [them](/post/them/)."
+- **Phrasal**: "[The](/post/the/) [car](/post/car/) [accident](/post/accident/) was [a](/post/a/) [result](/post/result/) [of](/post/of/) rubbernecking [by](/post/by/) [the](/post/the/) drivers."
 
 ## Synonyms
-- [Elastic](/en/post/elastic/)
-- [Flexible](/en/post/flexible/)
+- [Elastic](/post/elastic/)
+- [Flexible](/post/flexible/)
 - Pliable
 - Elastomer
-- [Gum](/en/post/gum/)
+- [Gum](/post/gum/)
 - Sponge-like
 
-*[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [usage](/en/post/usage/) [for](/en/post/for/) "[rubber](/en/post/rubber/)" is [less](/en/post/less/) [common](/en/post/common/), [and](/en/post/and/) [it](/en/post/it/) typically refers [to](/en/post/to/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) stretching [or](/en/post/or/) deforming [rubber](/en/post/rubber/) [rather](/en/post/rather/) [than](/en/post/than/) using [it](/en/post/it/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [for](/en/post/for/) [greeting](/en/post/greeting/). [In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) greetings, [the](/en/post/the/) [word](/en/post/word/) "[rubber](/en/post/rubber/)" [would](/en/post/would/) [not](/en/post/not/) [be](/en/post/be/) [used](/en/post/used/). [For](/en/post/for/) [that](/en/post/that/) [purpose](/en/post/purpose/), synonyms [like](/en/post/like/) "[greet](/en/post/greet/)" [or](/en/post/or/) "[salute](/en/post/salute/)" [would](/en/post/would/) [be](/en/post/be/) [more](/en/post/more/) [appropriate](/en/post/appropriate/).*
+*[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [usage](/post/usage/) [for](/post/for/) "[rubber](/post/rubber/)" is [less](/post/less/) [common](/post/common/), [and](/post/and/) [it](/post/it/) typically refers [to](/post/to/) [the](/post/the/) [action](/post/action/) [of](/post/of/) stretching [or](/post/or/) deforming [rubber](/post/rubber/) [rather](/post/rather/) [than](/post/than/) using [it](/post/it/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [for](/post/for/) [greeting](/post/greeting/). [In](/post/in/) [the](/post/the/) context [of](/post/of/) greetings, [the](/post/the/) [word](/post/word/) "[rubber](/post/rubber/)" [would](/post/would/) [not](/post/not/) [be](/post/be/) [used](/post/used/). [For](/post/for/) [that](/post/that/) [purpose](/post/purpose/), synonyms [like](/post/like/) "[greet](/post/greet/)" [or](/post/or/) "[salute](/post/salute/)" [would](/post/would/) [be](/post/be/) [more](/post/more/) [appropriate](/post/appropriate/).*

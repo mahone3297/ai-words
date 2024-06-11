@@ -7,34 +7,34 @@ description = '[ˈkʌzn] n.堂(或表)兄弟(姐妹)'
 keywords = ['ai words', 'cousin']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈzʌn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[cousin](/en/post/cousin/)** is [a](/en/post/a/) [relative](/en/post/relative/) [who](/en/post/who/) is [the](/en/post/the/) [child](/en/post/child/) [of](/en/post/of/) an [aunt](/en/post/aunt/) [or](/en/post/or/) [uncle](/en/post/uncle/), [or](/en/post/or/) [the](/en/post/the/) grandchild [or](/en/post/or/) great-grandchild [of](/en/post/of/) one's parent's sibling. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [more](/en/post/more/) [distant](/en/post/distant/) [relative](/en/post/relative/) [with](/en/post/with/) [a](/en/post/a/) shared familial [connection](/en/post/connection/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[cousin](/post/cousin/)** is [a](/post/a/) [relative](/post/relative/) [who](/post/who/) is [the](/post/the/) [child](/post/child/) [of](/post/of/) an [aunt](/post/aunt/) [or](/post/or/) [uncle](/post/uncle/), [or](/post/or/) [the](/post/the/) grandchild [or](/post/or/) great-grandchild [of](/post/of/) one's parent's sibling. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [more](/post/more/) [distant](/post/distant/) [relative](/post/relative/) [with](/post/with/) [a](/post/a/) shared familial [connection](/post/connection/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[cousin](/en/post/cousin/)** (informally) is [to](/en/post/to/) [resemble](/en/post/resemble/) [or](/en/post/or/) [act](/en/post/act/) [like](/en/post/like/) [a](/en/post/a/) [cousin](/en/post/cousin/), [often](/en/post/often/) [in](/en/post/in/) terms [of](/en/post/of/) [behavior](/en/post/behavior/) [or](/en/post/or/) [appearance](/en/post/appearance/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[cousin](/post/cousin/)** (informally) is [to](/post/to/) [resemble](/post/resemble/) [or](/post/or/) [act](/post/act/) [like](/post/like/) [a](/post/a/) [cousin](/post/cousin/), [often](/post/often/) [in](/post/in/) terms [of](/post/of/) [behavior](/post/behavior/) [or](/post/or/) [appearance](/post/appearance/).
 
-### [Adjective](/en/post/adjective/)
-[The](/en/post/the/) [term](/en/post/term/) **cousinly** describes qualities [or](/en/post/or/) actions [that](/en/post/that/) are [characteristic](/en/post/characteristic/) [of](/en/post/of/) cousins, [such](/en/post/such/) [as](/en/post/as/) familiarity [or](/en/post/or/) shared [family](/en/post/family/) traits.
+### [Adjective](/post/adjective/)
+[The](/post/the/) [term](/post/term/) **cousinly** describes qualities [or](/post/or/) actions [that](/post/that/) are [characteristic](/post/characteristic/) [of](/post/of/) cousins, [such](/post/such/) [as](/post/as/) familiarity [or](/post/or/) shared [family](/post/family/) traits.
 
 ## Phrases
-- "[Be](/en/post/be/) related [to](/en/post/to/) [your](/en/post/your/) [cousin](/en/post/cousin/)"
-- "Cousins growing [up](/en/post/up/) [together](/en/post/together/)"
-- "[First](/en/post/first/) cousins [once](/en/post/once/) removed"
+- "[Be](/post/be/) related [to](/post/to/) [your](/post/your/) [cousin](/post/cousin/)"
+- "Cousins growing [up](/post/up/) [together](/post/together/)"
+- "[First](/post/first/) cousins [once](/post/once/) removed"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[My](/en/post/my/) [cousin](/en/post/cousin/) [from](/en/post/from/) [New](/en/post/new/) York came [to](/en/post/to/) [visit](/en/post/visit/) [last](/en/post/last/) [summer](/en/post/summer/)."
-- **[Verb](/en/post/verb/)**: "[Their](/en/post/their/) children are [so](/en/post/so/) cousinly, [they](/en/post/they/) [seem](/en/post/seem/) [more](/en/post/more/) [like](/en/post/like/) siblings."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) cousinly [bond](/en/post/bond/) [between](/en/post/between/) [them](/en/post/them/) was [strong](/en/post/strong/) [despite](/en/post/despite/) [their](/en/post/their/) [age](/en/post/age/) [difference](/en/post/difference/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[My](/post/my/) [cousin](/post/cousin/) [from](/post/from/) [New](/post/new/) York came [to](/post/to/) [visit](/post/visit/) [last](/post/last/) [summer](/post/summer/)."
+- **[Verb](/post/verb/)**: "[Their](/post/their/) children are [so](/post/so/) cousinly, [they](/post/they/) [seem](/post/seem/) [more](/post/more/) [like](/post/like/) siblings."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) cousinly [bond](/post/bond/) [between](/post/between/) [them](/post/them/) was [strong](/post/strong/) [despite](/post/despite/) [their](/post/their/) [age](/post/age/) [difference](/post/difference/)."
 
 ## Synonyms
 - Cousinly
 - Familial
 - Kindred
-- [Relative](/en/post/relative/)
+- [Relative](/post/relative/)
 - Affinity
 
 ## Antonyms

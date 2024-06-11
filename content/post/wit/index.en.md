@@ -7,26 +7,26 @@ description = '[wit] n.智力，才智，智能'
 keywords = ['ai words', 'wit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[wit](/en/post/wit/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [clever](/en/post/clever/), [humorous](/en/post/humorous/), [or](/en/post/or/) having [a](/en/post/a/) [good](/en/post/good/) [sense](/en/post/sense/) [of](/en/post/of/) humor. [It](/en/post/it/) [often](/en/post/often/) involves [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [make](/en/post/make/) witty remarks [or](/en/post/or/) [come](/en/post/come/) [up](/en/post/up/) [with](/en/post/with/) [clever](/en/post/clever/) solutions.
-- **[wit](/en/post/wit/)** ([noun](/en/post/noun/), obsolete): [Intelligence](/en/post/intelligence/) [or](/en/post/or/) cleverness, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [person](/en/post/person/).
+### [Noun](/post/noun/)
+- **[wit](/post/wit/)** ([noun](/post/noun/)): [A](/post/a/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [clever](/post/clever/), [humorous](/post/humorous/), [or](/post/or/) having [a](/post/a/) [good](/post/good/) [sense](/post/sense/) [of](/post/of/) humor. [It](/post/it/) [often](/post/often/) involves [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [make](/post/make/) witty remarks [or](/post/or/) [come](/post/come/) [up](/post/up/) [with](/post/with/) [clever](/post/clever/) solutions.
+- **[wit](/post/wit/)** ([noun](/post/noun/), obsolete): [Intelligence](/post/intelligence/) [or](/post/or/) cleverness, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [person](/post/person/).
 
-### [Verb](/en/post/verb/)
-- **[to](/en/post/to/) [wit](/en/post/wit/)** (idiomatic): [To](/en/post/to/) [say](/en/post/say/) [that](/en/post/that/), [to](/en/post/to/) [mean](/en/post/mean/) [that](/en/post/that/); [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [or](/en/post/or/) [clarify](/en/post/clarify/) [a](/en/post/a/) [point](/en/post/point/).
+### [Verb](/post/verb/)
+- **[to](/post/to/) [wit](/post/wit/)** (idiomatic): [To](/post/to/) [say](/post/say/) [that](/post/that/), [to](/post/to/) [mean](/post/mean/) [that](/post/that/); [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [or](/post/or/) [clarify](/post/clarify/) [a](/post/a/) [point](/post/point/).
 
 ## Phrases
-- "Displaying [a](/en/post/a/) [good](/en/post/good/) [wit](/en/post/wit/)" refers [to](/en/post/to/) showing [intelligence](/en/post/intelligence/) [or](/en/post/or/) humor.
-- "[Wit](/en/post/wit/) is [the](/en/post/the/) [wine](/en/post/wine/) [of](/en/post/of/) [the](/en/post/the/) [mind](/en/post/mind/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) highlighting [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) [wit](/en/post/wit/).
-- "[With](/en/post/with/) [great](/en/post/great/) [wit](/en/post/wit/)" is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) done cleverly [or](/en/post/or/) amusingly.
+- "Displaying [a](/post/a/) [good](/post/good/) [wit](/post/wit/)" refers [to](/post/to/) showing [intelligence](/post/intelligence/) [or](/post/or/) humor.
+- "[Wit](/post/wit/) is [the](/post/the/) [wine](/post/wine/) [of](/post/of/) [the](/post/the/) [mind](/post/mind/)" is [a](/post/a/) [phrase](/post/phrase/) highlighting [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [wit](/post/wit/).
+- "[With](/post/with/) [great](/post/great/) [wit](/post/wit/)" is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) done cleverly [or](/post/or/) amusingly.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [quick](/en/post/quick/) [wit](/en/post/wit/) was [the](/en/post/the/) [reason](/en/post/reason/) [she](/en/post/she/) [always](/en/post/always/) won [the](/en/post/the/) [argument](/en/post/argument/)."
-- **[Verb](/en/post/verb/)**: "[To](/en/post/to/) [wit](/en/post/wit/), [the](/en/post/the/) [answer](/en/post/answer/) lies [in](/en/post/in/) [understanding](/en/post/understanding/) [the](/en/post/the/) context."
-- **Idiomatic**: "[He](/en/post/he/) told [a](/en/post/a/) [joke](/en/post/joke/) [with](/en/post/with/) [such](/en/post/such/) [wit](/en/post/wit/) [that](/en/post/that/) [it](/en/post/it/) had [everyone](/en/post/everyone/) laughing."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [quick](/post/quick/) [wit](/post/wit/) was [the](/post/the/) [reason](/post/reason/) [she](/post/she/) [always](/post/always/) won [the](/post/the/) [argument](/post/argument/)."
+- **[Verb](/post/verb/)**: "[To](/post/to/) [wit](/post/wit/), [the](/post/the/) [answer](/post/answer/) lies [in](/post/in/) [understanding](/post/understanding/) [the](/post/the/) context."
+- **Idiomatic**: "[He](/post/he/) told [a](/post/a/) [joke](/post/joke/) [with](/post/with/) [such](/post/such/) [wit](/post/wit/) [that](/post/that/) [it](/post/it/) had [everyone](/post/everyone/) laughing."
 
 ## Synonyms
 - Humor
@@ -34,11 +34,11 @@ keywords = ['ai words', 'wit']
 - Sagacity
 - Intellect
 - Sharpness
-- [Wit](/en/post/wit/) [and](/en/post/and/) [wisdom](/en/post/wisdom/)
-- [Wit](/en/post/wit/) [and](/en/post/and/) repartee
+- [Wit](/post/wit/) [and](/post/and/) [wisdom](/post/wisdom/)
+- [Wit](/post/wit/) [and](/post/and/) repartee
 
 ## Antonyms
 - Foolishness
 - Stupidity
-- [Lack](/en/post/lack/) [of](/en/post/of/) insight
+- [Lack](/post/lack/) [of](/post/of/) insight
 - Dullness

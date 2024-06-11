@@ -7,29 +7,29 @@ description = '[rɔb] vt.&vi.抢劫；劫掠'
 keywords = ['ai words', 'rob']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɒb/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [crime](/en/post/crime/) [in](/en/post/in/) [which](/en/post/which/) [someone](/en/post/someone/) takes [something](/en/post/something/) [valuable](/en/post/valuable/) ([such](/en/post/such/) [as](/en/post/as/) [money](/en/post/money/) [or](/en/post/or/) [property](/en/post/property/)) [from](/en/post/from/) [another](/en/post/another/) [person](/en/post/person/), [often](/en/post/often/) [by](/en/post/by/) [force](/en/post/force/) [or](/en/post/or/) [threat](/en/post/threat/). [Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[rob](/en/post/rob/))
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [take](/en/post/take/) [something](/en/post/something/) ([especially](/en/post/especially/) [money](/en/post/money/) [or](/en/post/or/) possessions) [from](/en/post/from/) [someone](/en/post/someone/) [by](/en/post/by/) [force](/en/post/force/) [or](/en/post/or/) illegally. [Cambridge](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[rob](/en/post/rob/))
-- **[Verb](/en/post/verb/)**: (informal) [To](/en/post/to/) [deceive](/en/post/deceive/) [or](/en/post/or/) [cheat](/en/post/cheat/) [someone](/en/post/someone/), [especially](/en/post/especially/) [by](/en/post/by/) taking [something](/en/post/something/) [that](/en/post/that/) belongs [to](/en/post/to/) [them](/en/post/them/). [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[rob](/en/post/rob/))
+- **[Noun](/post/noun/)**: [A](/post/a/) [crime](/post/crime/) [in](/post/in/) [which](/post/which/) [someone](/post/someone/) takes [something](/post/something/) [valuable](/post/valuable/) ([such](/post/such/) [as](/post/as/) [money](/post/money/) [or](/post/or/) [property](/post/property/)) [from](/post/from/) [another](/post/another/) [person](/post/person/), [often](/post/often/) [by](/post/by/) [force](/post/force/) [or](/post/or/) [threat](/post/threat/). [Oxford](https://en.oxforddictionaries.com/[definition](/post/definition/)/[rob](/post/rob/))
+- **[Verb](/post/verb/)**: [To](/post/to/) [take](/post/take/) [something](/post/something/) ([especially](/post/especially/) [money](/post/money/) [or](/post/or/) possessions) [from](/post/from/) [someone](/post/someone/) [by](/post/by/) [force](/post/force/) [or](/post/or/) illegally. [Cambridge](https://[dictionary](/post/dictionary/).cambridge.org/[dictionary](/post/dictionary/)/english/[rob](/post/rob/))
+- **[Verb](/post/verb/)**: (informal) [To](/post/to/) [deceive](/post/deceive/) [or](/post/or/) [cheat](/post/cheat/) [someone](/post/someone/), [especially](/post/especially/) [by](/post/by/) taking [something](/post/something/) [that](/post/that/) belongs [to](/post/to/) [them](/post/them/). [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[rob](/post/rob/))
 
 ## Phrases
-- "[Rob](/en/post/rob/) [a](/en/post/a/) [bank](/en/post/bank/)" refers [to](/en/post/to/) committing [a](/en/post/a/) [robbery](/en/post/robbery/) [at](/en/post/at/) [a](/en/post/a/) [financial](/en/post/financial/) [institution](/en/post/institution/).
-- "[Rob](/en/post/rob/) Peter [to](/en/post/to/) [pay](/en/post/pay/) Paul" is [a](/en/post/a/) [phrase](/en/post/phrase/) [meaning](/en/post/meaning/) [to](/en/post/to/) [take](/en/post/take/) [from](/en/post/from/) [one](/en/post/one/) [person](/en/post/person/) [to](/en/post/to/) [give](/en/post/give/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) implying unfairness.
-- "Robust" ([adjective](/en/post/adjective/)) describes [something](/en/post/something/) [that](/en/post/that/) is [strong](/en/post/strong/) [and](/en/post/and/) [healthy](/en/post/healthy/).
+- "[Rob](/post/rob/) [a](/post/a/) [bank](/post/bank/)" refers [to](/post/to/) committing [a](/post/a/) [robbery](/post/robbery/) [at](/post/at/) [a](/post/a/) [financial](/post/financial/) [institution](/post/institution/).
+- "[Rob](/post/rob/) Peter [to](/post/to/) [pay](/post/pay/) Paul" is [a](/post/a/) [phrase](/post/phrase/) [meaning](/post/meaning/) [to](/post/to/) [take](/post/take/) [from](/post/from/) [one](/post/one/) [person](/post/person/) [to](/post/to/) [give](/post/give/) [to](/post/to/) [another](/post/another/), [often](/post/often/) implying unfairness.
+- "Robust" ([adjective](/post/adjective/)) describes [something](/post/something/) [that](/post/that/) is [strong](/post/strong/) [and](/post/and/) [healthy](/post/healthy/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [police](/en/post/police/) were investigating [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) armed robberies [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was robbed [of](/en/post/of/) [his](/en/post/his/) [wallet](/en/post/wallet/) [while](/en/post/while/) jogging [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Verb](/en/post/verb/) (informal)**: "[The](/en/post/the/) [company](/en/post/company/) accused [him](/en/post/him/) [of](/en/post/of/) robbing [them](/en/post/them/) [of](/en/post/of/) [their](/en/post/their/) [intellectual](/en/post/intellectual/) [property](/en/post/property/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [police](/post/police/) were investigating [a](/post/a/) [series](/post/series/) [of](/post/of/) armed robberies [in](/post/in/) [the](/post/the/) [city](/post/city/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) was robbed [of](/post/of/) [his](/post/his/) [wallet](/post/wallet/) [while](/post/while/) jogging [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **[Verb](/post/verb/) (informal)**: "[The](/post/the/) [company](/post/company/) accused [him](/post/him/) [of](/post/of/) robbing [them](/post/them/) [of](/post/of/) [their](/post/their/) [intellectual](/post/intellectual/) [property](/post/property/)."
 
 ## Synonyms
 - Burglary
 - Plunder
-- [Robbery](/en/post/robbery/)
-- [Steal](/en/post/steal/)
+- [Robbery](/post/robbery/)
+- [Steal](/post/steal/)
 - Extort
-- [Exploit](/en/post/exploit/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) taking [advantage](/en/post/advantage/))
-- Robustly ([adverb](/en/post/adverb/); unrelated [meaning](/en/post/meaning/))
+- [Exploit](/post/exploit/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) taking [advantage](/post/advantage/))
+- Robustly ([adverb](/post/adverb/); unrelated [meaning](/post/meaning/))

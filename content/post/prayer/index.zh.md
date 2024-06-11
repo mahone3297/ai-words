@@ -11,20 +11,20 @@ keywords = ['ai words', 'prayer']
 /prəˈɛr/
 
 ## 释义
-- **名词**: 祈祷；祷告。一种向神或超自然力量表达愿望、感谢或悔罪的行为。例如: "[She](/post/she/) attended [church](/post/church/) [to](/post/to/) [say](/post/say/) [her](/post/her/) [evening](/post/evening/) prayers."
-- **动词**: 做祈祷；祈求。例如: "[He](/post/he/) [always](/post/always/) prays [for](/post/for/) [his](/post/his/) family's [safety](/post/safety/) [before](/post/before/) going [to](/post/to/) [sleep](/post/sleep/)."
+- **名词**: 祈祷；祷告。一种向神或超自然力量表达愿望、感谢或悔罪的行为。例如: "[She](/zh/post/she/) attended [church](/zh/post/church/) [to](/zh/post/to/) [say](/zh/post/say/) [her](/zh/post/her/) [evening](/zh/post/evening/) prayers."
+- **动词**: 做祈祷；祈求。例如: "[He](/zh/post/he/) [always](/zh/post/always/) prays [for](/zh/post/for/) [his](/zh/post/his/) family's [safety](/zh/post/safety/) [before](/zh/post/before/) going [to](/zh/post/to/) [sleep](/zh/post/sleep/)."
 
 ## 短语
-- "[Offer](/post/offer/) [a](/post/a/) [prayer](/post/prayer/)" 意为提出或进行祈祷。
-- "[Pray](/post/pray/) [for](/post/for/) [someone](/post/someone/)" 是为某人的福祉而祈祷。
+- "[Offer](/zh/post/offer/) [a](/zh/post/a/) [prayer](/zh/post/prayer/)" 意为提出或进行祈祷。
+- "[Pray](/zh/post/pray/) [for](/zh/post/for/) [someone](/zh/post/someone/)" 是为某人的福祉而祈祷。
 
 ## 例句
-- 名词: "[The](/post/the/) children were taught [to](/post/to/) [say](/post/say/) [their](/post/their/) bedtime prayers [every](/post/every/) [night](/post/night/)."
-- 动词: "[She](/post/she/) took [a](/post/a/) [moment](/post/moment/) [to](/post/to/) [pray](/post/pray/) [for](/post/for/) [guidance](/post/guidance/) [before](/post/before/) making an [important](/post/important/) [decision](/post/decision/)."
+- 名词: "[The](/zh/post/the/) children were taught [to](/zh/post/to/) [say](/zh/post/say/) [their](/zh/post/their/) bedtime prayers [every](/zh/post/every/) [night](/zh/post/night/)."
+- 动词: "[She](/zh/post/she/) took [a](/zh/post/a/) [moment](/zh/post/moment/) [to](/zh/post/to/) [pray](/zh/post/pray/) [for](/zh/post/for/) [guidance](/zh/post/guidance/) [before](/zh/post/before/) making an [important](/zh/post/important/) [decision](/zh/post/decision/)."
 
 ## 同义词
 - Supplication
 - Petition
 - Entreaty
-- [Appeal](/post/appeal/)
+- [Appeal](/zh/post/appeal/)
 - Invocation

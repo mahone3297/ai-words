@@ -11,20 +11,20 @@ keywords = ['ai words', 'argument']
 /ˈɑːrɡjʊmənt/
 
 ## 释义
-- **名词**: 争论，辩论；论点，论据。例如: "[They](/post/they/) had [a](/post/a/) heated [argument](/post/argument/) [about](/post/about/) [politics](/post/politics/)."
-- **名词**: 一个函数或程序的输入值，通常在编程中使用。例如: "[The](/post/the/) [function](/post/function/) takes [two](/post/two/) arguments [and](/post/and/) returns [their](/post/their/) [sum](/post/sum/)."
+- **名词**: 争论，辩论；论点，论据。例如: "[They](/zh/post/they/) had [a](/zh/post/a/) heated [argument](/zh/post/argument/) [about](/zh/post/about/) [politics](/zh/post/politics/)."
+- **名词**: 一个函数或程序的输入值，通常在编程中使用。例如: "[The](/zh/post/the/) [function](/zh/post/function/) takes [two](/zh/post/two/) arguments [and](/zh/post/and/) returns [their](/zh/post/their/) [sum](/zh/post/sum/)."
 
 ## 短语
-- "Argumentative [person](/post/person/)" 指善于或喜欢争论的人。
-- "[Argument](/post/argument/) [of](/post/of/) [a](/post/a/) [function](/post/function/)" 在数学和编程中指传递给函数的值。
+- "Argumentative [person](/zh/post/person/)" 指善于或喜欢争论的人。
+- "[Argument](/zh/post/argument/) [of](/zh/post/of/) [a](/zh/post/a/) [function](/zh/post/function/)" 在数学和编程中指传递给函数的值。
 
 ## 例句
-- 名词: "[In](/post/in/) [the](/post/the/) [debate](/post/debate/), [each](/post/each/) [side](/post/side/) presented compelling arguments [to](/post/to/) [support](/post/support/) [their](/post/their/) stance."
-- 名词（编程）: "[The](/post/the/) [function](/post/function/) `[add](/post/add/)` takes [two](/post/two/) arguments, `x` [and](/post/and/) `y`, [and](/post/and/) returns [their](/post/their/) [sum](/post/sum/)."
+- 名词: "[In](/zh/post/in/) [the](/zh/post/the/) [debate](/zh/post/debate/), [each](/zh/post/each/) [side](/zh/post/side/) presented compelling arguments [to](/zh/post/to/) [support](/zh/post/support/) [their](/zh/post/their/) stance."
+- 名词（编程）: "[The](/zh/post/the/) [function](/zh/post/function/) `[add](/zh/post/add/)` takes [two](/zh/post/two/) arguments, `x` [and](/zh/post/and/) `y`, [and](/zh/post/and/) returns [their](/zh/post/their/) [sum](/zh/post/sum/)."
 
 ## 同义词
-- [Dispute](/post/dispute/)
-- [Debate](/post/debate/)
-- [Discussion](/post/discussion/)
+- [Dispute](/zh/post/dispute/)
+- [Debate](/zh/post/debate/)
+- [Discussion](/zh/post/discussion/)
 - Controversy
 - Dialogue

@@ -11,22 +11,22 @@ keywords = ['ai words', 'deed']
 /diːd/
 
 ## 释义
-- **名词 (n)**: 行动，行为，事迹。例如: "[His](/post/his/) [heroic](/post/heroic/) [deed](/post/deed/) earned [him](/post/him/) [a](/post/a/) [medal](/post/medal/)."
-- **名词**: 法律文件，契约。例如: "[The](/post/the/) [deed](/post/deed/) [to](/post/to/) [the](/post/the/) [property](/post/property/) was signed [and](/post/and/) sealed."
-- **动词 (v)**: 实行，完成（尤指重大或困难的事）。例如: "[She](/post/she/) deeds [her](/post/her/) promises [with](/post/with/) [action](/post/action/)."
+- **名词 (n)**: 行动，行为，事迹。例如: "[His](/zh/post/his/) [heroic](/zh/post/heroic/) [deed](/zh/post/deed/) earned [him](/zh/post/him/) [a](/zh/post/a/) [medal](/zh/post/medal/)."
+- **名词**: 法律文件，契约。例如: "[The](/zh/post/the/) [deed](/zh/post/deed/) [to](/zh/post/to/) [the](/zh/post/the/) [property](/zh/post/property/) was signed [and](/zh/post/and/) sealed."
+- **动词 (v)**: 实行，完成（尤指重大或困难的事）。例如: "[She](/zh/post/she/) deeds [her](/zh/post/her/) promises [with](/zh/post/with/) [action](/zh/post/action/)."
 
 ## 短语
-- "Deeds [speak](/post/speak/) louder [than](/post/than/) words" 意为行动胜于言语。
-- "[Deed](/post/deed/) poll" 指的是单名更改的法律文件。
+- "Deeds [speak](/zh/post/speak/) louder [than](/zh/post/than/) words" 意为行动胜于言语。
+- "[Deed](/zh/post/deed/) poll" 指的是单名更改的法律文件。
 
 ## 例句
-- 名词: "[The](/post/the/) [brave](/post/brave/) [deed](/post/deed/) showed [his](/post/his/) [true](/post/true/) [character](/post/character/)."
-- 名词: "[The](/post/the/) [bank](/post/bank/) required [a](/post/a/) notarized [deed](/post/deed/) [for](/post/for/) [the](/post/the/) mortgage."
-- 动词: "[He](/post/he/) deeded [the](/post/the/) [land](/post/land/) [to](/post/to/) [his](/post/his/) children."
+- 名词: "[The](/zh/post/the/) [brave](/zh/post/brave/) [deed](/zh/post/deed/) showed [his](/zh/post/his/) [true](/zh/post/true/) [character](/zh/post/character/)."
+- 名词: "[The](/zh/post/the/) [bank](/zh/post/bank/) required [a](/zh/post/a/) notarized [deed](/zh/post/deed/) [for](/zh/post/for/) [the](/zh/post/the/) mortgage."
+- 动词: "[He](/zh/post/he/) deeded [the](/zh/post/the/) [land](/zh/post/land/) [to](/zh/post/to/) [his](/zh/post/his/) children."
 
 ## 同义词
-- [Action](/post/action/)
-- [Act](/post/act/)
+- [Action](/zh/post/action/)
+- [Act](/zh/post/act/)
 - Accomplishment
-- [Achievement](/post/achievement/)
-- [Performance](/post/performance/)
+- [Achievement](/zh/post/achievement/)
+- [Performance](/zh/post/performance/)

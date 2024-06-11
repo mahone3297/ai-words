@@ -8,23 +8,23 @@ keywords = ['ai words', 'lend']
 +++
 
 ## 读音
-/[lend](/post/lend/)/
+/[lend](/zh/post/lend/)/
 
 ## 释义
-- **动词**: 借出；提供（钱、物品等）。例如: "I lent [my](/post/my/) [car](/post/car/) [to](/post/to/) [my](/post/my/) [friend](/post/friend/) [for](/post/for/) [the](/post/the/) [weekend](/post/weekend/)."
-- **名词**: （短暂的）借用行为。例如: "[He](/post/he/) returned [the](/post/the/) [book](/post/book/) [after](/post/after/) [a](/post/a/) [short](/post/short/) [lend](/post/lend/)."
+- **动词**: 借出；提供（钱、物品等）。例如: "I lent [my](/zh/post/my/) [car](/zh/post/car/) [to](/zh/post/to/) [my](/zh/post/my/) [friend](/zh/post/friend/) [for](/zh/post/for/) [the](/zh/post/the/) [weekend](/zh/post/weekend/)."
+- **名词**: （短暂的）借用行为。例如: "[He](/zh/post/he/) returned [the](/zh/post/the/) [book](/zh/post/book/) [after](/zh/post/after/) [a](/zh/post/a/) [short](/zh/post/short/) [lend](/zh/post/lend/)."
 
 ## 短语
-- "[Lend](/post/lend/) [a](/post/a/) [hand](/post/hand/)" 帮忙，协助。例如: "[Could](/post/could/) [you](/post/you/) [lend](/post/lend/) [me](/post/me/) [a](/post/a/) [hand](/post/hand/) [with](/post/with/) [this](/post/this/) [heavy](/post/heavy/) [box](/post/box/)?"
-- "[Lend](/post/lend/) [someone](/post/someone/) an [ear](/post/ear/)" 倾听，聆听。例如: "[She](/post/she/) needed [someone](/post/someone/) [to](/post/to/) [lend](/post/lend/) [her](/post/her/) an [ear](/post/ear/) [and](/post/and/) [listen](/post/listen/) [to](/post/to/) [her](/post/her/) problems."
+- "[Lend](/zh/post/lend/) [a](/zh/post/a/) [hand](/zh/post/hand/)" 帮忙，协助。例如: "[Could](/zh/post/could/) [you](/zh/post/you/) [lend](/zh/post/lend/) [me](/zh/post/me/) [a](/zh/post/a/) [hand](/zh/post/hand/) [with](/zh/post/with/) [this](/zh/post/this/) [heavy](/zh/post/heavy/) [box](/zh/post/box/)?"
+- "[Lend](/zh/post/lend/) [someone](/zh/post/someone/) an [ear](/zh/post/ear/)" 倾听，聆听。例如: "[She](/zh/post/she/) needed [someone](/zh/post/someone/) [to](/zh/post/to/) [lend](/zh/post/lend/) [her](/zh/post/her/) an [ear](/zh/post/ear/) [and](/zh/post/and/) [listen](/zh/post/listen/) [to](/zh/post/to/) [her](/zh/post/her/) problems."
 
 ## 例句
-- 动词: "[She](/post/she/) was [happy](/post/happy/) [to](/post/to/) [lend](/post/lend/) [him](/post/him/) [some](/post/some/) [money](/post/money/) [until](/post/until/) [his](/post/his/) [next](/post/next/) paycheck."
-- 名词: "[The](/post/the/) [bank](/post/bank/) offers low-interest loans [as](/post/as/) [a](/post/a/) [lend](/post/lend/) [service](/post/service/) [to](/post/to/) [its](/post/its/) customers."
+- 动词: "[She](/zh/post/she/) was [happy](/zh/post/happy/) [to](/zh/post/to/) [lend](/zh/post/lend/) [him](/zh/post/him/) [some](/zh/post/some/) [money](/zh/post/money/) [until](/zh/post/until/) [his](/zh/post/his/) [next](/zh/post/next/) paycheck."
+- 名词: "[The](/zh/post/the/) [bank](/zh/post/bank/) offers low-interest loans [as](/zh/post/as/) [a](/zh/post/a/) [lend](/zh/post/lend/) [service](/zh/post/service/) [to](/zh/post/to/) [its](/zh/post/its/) customers."
 
 ## 同义词
-- [Borrow](/post/borrow/) (反义词，意为“借入”)
-- [Provide](/post/provide/)
-- [Grant](/post/grant/)
-- [Offer](/post/offer/)
+- [Borrow](/zh/post/borrow/) (反义词，意为“借入”)
+- [Provide](/zh/post/provide/)
+- [Grant](/zh/post/grant/)
+- [Offer](/zh/post/offer/)
 - Bestow

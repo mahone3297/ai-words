@@ -7,42 +7,42 @@ description = '[təˈmɔrəu] ad.在明天 n.明天'
 keywords = ['ai words', 'tomorrow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /təˈmɔrəʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [Tomorrow](/en/post/tomorrow/) refers [to](/en/post/to/) [the](/en/post/the/) [day](/en/post/day/) [that](/en/post/that/) [immediately](/en/post/immediately/) follows [the](/en/post/the/) [current](/en/post/current/) [day](/en/post/day/) [in](/en/post/in/) [the](/en/post/the/) [time](/en/post/time/) [sequence](/en/post/sequence/), typically [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [future](/en/post/future/) [event](/en/post/event/) [or](/en/post/or/) [appointment](/en/post/appointment/).
+### [Noun](/post/noun/)
+- [Tomorrow](/post/tomorrow/) refers [to](/post/to/) [the](/post/the/) [day](/post/day/) [that](/post/that/) [immediately](/post/immediately/) follows [the](/post/the/) [current](/post/current/) [day](/post/day/) [in](/post/in/) [the](/post/the/) [time](/post/time/) [sequence](/post/sequence/), typically [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [future](/post/future/) [event](/post/event/) [or](/post/or/) [appointment](/post/appointment/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [use](/en/post/use/) "[tomorrow](/en/post/tomorrow/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [can](/en/post/can/) [imply](/en/post/imply/) planning [or](/en/post/or/) scheduling [something](/en/post/something/) [for](/en/post/for/) [the](/en/post/the/) [next](/en/post/next/) [day](/en/post/day/), e.g., "I'm [meeting](/en/post/meeting/) [him](/en/post/him/) [tomorrow](/en/post/tomorrow/) [morning](/en/post/morning/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [use](/post/use/) "[tomorrow](/post/tomorrow/)" [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [can](/post/can/) [imply](/post/imply/) planning [or](/post/or/) scheduling [something](/post/something/) [for](/post/for/) [the](/post/the/) [next](/post/next/) [day](/post/day/), e.g., "I'm [meeting](/post/meeting/) [him](/post/him/) [tomorrow](/post/tomorrow/) [morning](/post/morning/)."
 
-### [Adjective](/en/post/adjective/)
-- [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) related [to](/en/post/to/) [or](/en/post/or/) occurring [the](/en/post/the/) [next](/en/post/next/) [day](/en/post/day/), e.g., "[The](/en/post/the/) [weather](/en/post/weather/) [forecast](/en/post/forecast/) [for](/en/post/for/) [tomorrow](/en/post/tomorrow/) promises [sunshine](/en/post/sunshine/)."
+### [Adjective](/post/adjective/)
+- [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) related [to](/post/to/) [or](/post/or/) occurring [the](/post/the/) [next](/post/next/) [day](/post/day/), e.g., "[The](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/) [for](/post/for/) [tomorrow](/post/tomorrow/) promises [sunshine](/post/sunshine/)."
 
-### [Adverb](/en/post/adverb/)
-- [Less](/en/post/less/) [commonly](/en/post/commonly/), [it](/en/post/it/) [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [to](/en/post/to/) [express](/en/post/express/) [the](/en/post/the/) [time](/en/post/time/) [when](/en/post/when/) [something](/en/post/something/) [will](/en/post/will/) [happen](/en/post/happen/), e.g., "Let's [discuss](/en/post/discuss/) [it](/en/post/it/) [tomorrow](/en/post/tomorrow/)."
+### [Adverb](/post/adverb/)
+- [Less](/post/less/) [commonly](/post/commonly/), [it](/post/it/) [can](/post/can/) [function](/post/function/) [as](/post/as/) an [adverb](/post/adverb/) [to](/post/to/) [express](/post/express/) [the](/post/the/) [time](/post/time/) [when](/post/when/) [something](/post/something/) [will](/post/will/) [happen](/post/happen/), e.g., "Let's [discuss](/post/discuss/) [it](/post/it/) [tomorrow](/post/tomorrow/)."
 
 ## Phrases
-- "[Meet](/en/post/meet/) [you](/en/post/you/) [tomorrow](/en/post/tomorrow/)" = an [agreement](/en/post/agreement/) [to](/en/post/to/) [meet](/en/post/meet/) [at](/en/post/at/) [a](/en/post/a/) [specific](/en/post/specific/) [time](/en/post/time/) [on](/en/post/on/) [the](/en/post/the/) [following](/en/post/following/) [day](/en/post/day/).
-- "[What](/en/post/what/) are [your](/en/post/your/) plans [for](/en/post/for/) [tomorrow](/en/post/tomorrow/)?" = asking [about](/en/post/about/) someone's [schedule](/en/post/schedule/) [for](/en/post/for/) [the](/en/post/the/) [next](/en/post/next/) [day](/en/post/day/).
-- "[See](/en/post/see/) [you](/en/post/you/) [tomorrow](/en/post/tomorrow/)" = [a](/en/post/a/) [farewell](/en/post/farewell/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [to](/en/post/to/) [meet](/en/post/meet/) [again](/en/post/again/) [the](/en/post/the/) [next](/en/post/next/) [day](/en/post/day/).
+- "[Meet](/post/meet/) [you](/post/you/) [tomorrow](/post/tomorrow/)" = an [agreement](/post/agreement/) [to](/post/to/) [meet](/post/meet/) [at](/post/at/) [a](/post/a/) [specific](/post/specific/) [time](/post/time/) [on](/post/on/) [the](/post/the/) [following](/post/following/) [day](/post/day/).
+- "[What](/post/what/) are [your](/post/your/) plans [for](/post/for/) [tomorrow](/post/tomorrow/)?" = asking [about](/post/about/) someone's [schedule](/post/schedule/) [for](/post/for/) [the](/post/the/) [next](/post/next/) [day](/post/day/).
+- "[See](/post/see/) [you](/post/you/) [tomorrow](/post/tomorrow/)" = [a](/post/a/) [farewell](/post/farewell/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [to](/post/to/) [meet](/post/meet/) [again](/post/again/) [the](/post/the/) [next](/post/next/) [day](/post/day/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I'll [finish](/en/post/finish/) [my](/en/post/my/) [work](/en/post/work/) [today](/en/post/today/) [so](/en/post/so/) I [can](/en/post/can/) [relax](/en/post/relax/) [tomorrow](/en/post/tomorrow/)."
-- **[Verb](/en/post/verb/)**: "We're having [a](/en/post/a/) barbecue [at](/en/post/at/) [home](/en/post/home/) [tomorrow](/en/post/tomorrow/)."
-- **[Adjective](/en/post/adjective/)**: "I'm looking [forward](/en/post/forward/) [to](/en/post/to/) [a](/en/post/a/) [sunny](/en/post/sunny/) [tomorrow](/en/post/tomorrow/) [after](/en/post/after/) [this](/en/post/this/) week's [rain](/en/post/rain/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I'll [finish](/post/finish/) [my](/post/my/) [work](/post/work/) [today](/post/today/) [so](/post/so/) I [can](/post/can/) [relax](/post/relax/) [tomorrow](/post/tomorrow/)."
+- **[Verb](/post/verb/)**: "We're having [a](/post/a/) barbecue [at](/post/at/) [home](/post/home/) [tomorrow](/post/tomorrow/)."
+- **[Adjective](/post/adjective/)**: "I'm looking [forward](/post/forward/) [to](/post/to/) [a](/post/a/) [sunny](/post/sunny/) [tomorrow](/post/tomorrow/) [after](/post/after/) [this](/post/this/) week's [rain](/post/rain/)."
 
 ## Synonyms
-- [Day](/en/post/day/) [after](/en/post/after/) [today](/en/post/today/)
-- [Following](/en/post/following/) [day](/en/post/day/)
-- Upcoming [day](/en/post/day/)
-- [Day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [future](/en/post/future/)
-- Tomorrow's [date](/en/post/date/)
+- [Day](/post/day/) [after](/post/after/) [today](/post/today/)
+- [Following](/post/following/) [day](/post/day/)
+- Upcoming [day](/post/day/)
+- [Day](/post/day/) [of](/post/of/) [the](/post/the/) [future](/post/future/)
+- Tomorrow's [date](/post/date/)
 
 ## Antonyms
-- [Yesterday](/en/post/yesterday/)
-- [Today](/en/post/today/)
-- [Past](/en/post/past/)
-- [Present](/en/post/present/)
-- [Current](/en/post/current/)
+- [Yesterday](/post/yesterday/)
+- [Today](/post/today/)
+- [Past](/post/past/)
+- [Present](/post/present/)
+- [Current](/post/current/)

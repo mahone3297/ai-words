@@ -11,20 +11,20 @@ keywords = ['ai words', 'hasty']
 /hæsti/
 
 ## 释义
-- **形容词**: 迅速的，匆忙的，草率的。例如: "[He](/post/he/) made [a](/post/a/) [hasty](/post/hasty/) [decision](/post/decision/) [without](/post/without/) considering [all](/post/all/) [the](/post/the/) options."
-- **副词**: 匆忙地，草率地。例如: "[She](/post/she/) [left](/post/left/) [the](/post/the/) [house](/post/house/) [hasty](/post/hasty/), forgetting [her](/post/her/) keys."
+- **形容词**: 迅速的，匆忙的，草率的。例如: "[He](/zh/post/he/) made [a](/zh/post/a/) [hasty](/zh/post/hasty/) [decision](/zh/post/decision/) [without](/zh/post/without/) considering [all](/zh/post/all/) [the](/zh/post/the/) options."
+- **副词**: 匆忙地，草率地。例如: "[She](/zh/post/she/) [left](/zh/post/left/) [the](/zh/post/the/) [house](/zh/post/house/) [hasty](/zh/post/hasty/), forgetting [her](/zh/post/her/) keys."
 
 ## 短语
-- "[hasty](/post/hasty/) [retreat](/post/retreat/)" 意为迅速撤退。
-- "[hasty](/post/hasty/) judgment" 指的是仓促的判断。
+- "[hasty](/zh/post/hasty/) [retreat](/zh/post/retreat/)" 意为迅速撤退。
+- "[hasty](/zh/post/hasty/) judgment" 指的是仓促的判断。
 
 ## 例句
-- 形容词: "[Due](/post/due/) [to](/post/to/) [his](/post/his/) [hasty](/post/hasty/) [nature](/post/nature/), [he](/post/he/) [often](/post/often/) makes mistakes."
-- 副词: "[She](/post/she/) wrote [the](/post/the/) [letter](/post/letter/) [hasty](/post/hasty/) [and](/post/and/) [it](/post/it/) was [full](/post/full/) [of](/post/of/) typos."
+- 形容词: "[Due](/zh/post/due/) [to](/zh/post/to/) [his](/zh/post/his/) [hasty](/zh/post/hasty/) [nature](/zh/post/nature/), [he](/zh/post/he/) [often](/zh/post/often/) makes mistakes."
+- 副词: "[She](/zh/post/she/) wrote [the](/zh/post/the/) [letter](/zh/post/letter/) [hasty](/zh/post/hasty/) [and](/zh/post/and/) [it](/zh/post/it/) was [full](/zh/post/full/) [of](/zh/post/of/) typos."
 
 ## 同义词
 - Rushed
 - Impulsive
 - Haphazard
-- [Swift](/post/swift/)
+- [Swift](/zh/post/swift/)
 - Brusque

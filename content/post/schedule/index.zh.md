@@ -11,20 +11,20 @@ keywords = ['ai words', 'schedule']
 /ˈʃedjuːl/
 
 ## 释义
-- **名词**: 一个详细的时间表或计划，列出要做的事情和它们预计完成的时间。例如: "I [need](/post/need/) [to](/post/to/) [check](/post/check/) [my](/post/my/) [schedule](/post/schedule/) [for](/post/for/) today's appointments."
-- **动词**: 安排或计划（某事）在特定时间进行。例如: "[The](/post/the/) [meeting](/post/meeting/) has been scheduled [for](/post/for/) [next](/post/next/) Monday."
+- **名词**: 一个详细的时间表或计划，列出要做的事情和它们预计完成的时间。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [check](/zh/post/check/) [my](/zh/post/my/) [schedule](/zh/post/schedule/) [for](/zh/post/for/) today's appointments."
+- **动词**: 安排或计划（某事）在特定时间进行。例如: "[The](/zh/post/the/) [meeting](/zh/post/meeting/) has been scheduled [for](/zh/post/for/) [next](/zh/post/next/) Monday."
 
 ## 短语
-- "[On](/post/on/) [schedule](/post/schedule/)" 指按计划进行，没有延迟。例如: "[The](/post/the/) [project](/post/project/) is [right](/post/right/) [on](/post/on/) [schedule](/post/schedule/)."
-- "[Behind](/post/behind/) [schedule](/post/schedule/)" 表示落后于预定计划。例如: "We're [behind](/post/behind/) [schedule](/post/schedule/) [due](/post/due/) [to](/post/to/) [unexpected](/post/unexpected/) delays."
+- "[On](/zh/post/on/) [schedule](/zh/post/schedule/)" 指按计划进行，没有延迟。例如: "[The](/zh/post/the/) [project](/zh/post/project/) is [right](/zh/post/right/) [on](/zh/post/on/) [schedule](/zh/post/schedule/)."
+- "[Behind](/zh/post/behind/) [schedule](/zh/post/schedule/)" 表示落后于预定计划。例如: "We're [behind](/zh/post/behind/) [schedule](/zh/post/schedule/) [due](/zh/post/due/) [to](/zh/post/to/) [unexpected](/zh/post/unexpected/) delays."
 
 ## 例句
-- 名词: "[Please](/post/please/) [send](/post/send/) [me](/post/me/) [your](/post/your/) [daily](/post/daily/) [work](/post/work/) [schedule](/post/schedule/) [so](/post/so/) [we](/post/we/) [can](/post/can/) [find](/post/find/) [a](/post/a/) [time](/post/time/) [to](/post/to/) [meet](/post/meet/)."
-- 动词: "[The](/post/the/) [event](/post/event/) was scheduled [to](/post/to/) [start](/post/start/) [at](/post/at/) 3 pm [but](/post/but/) got postponed."
+- 名词: "[Please](/zh/post/please/) [send](/zh/post/send/) [me](/zh/post/me/) [your](/zh/post/your/) [daily](/zh/post/daily/) [work](/zh/post/work/) [schedule](/zh/post/schedule/) [so](/zh/post/so/) [we](/zh/post/we/) [can](/zh/post/can/) [find](/zh/post/find/) [a](/zh/post/a/) [time](/zh/post/time/) [to](/zh/post/to/) [meet](/zh/post/meet/)."
+- 动词: "[The](/zh/post/the/) [event](/zh/post/event/) was scheduled [to](/zh/post/to/) [start](/zh/post/start/) [at](/zh/post/at/) 3 pm [but](/zh/post/but/) got postponed."
 
 ## 同义词
-- [Plan](/post/plan/)
-- [Timetable](/post/timetable/)
+- [Plan](/zh/post/plan/)
+- [Timetable](/zh/post/timetable/)
 - Agenda
-- [Program](/post/program/)
+- [Program](/zh/post/program/)
 - Blueprint

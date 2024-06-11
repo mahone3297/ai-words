@@ -7,26 +7,26 @@ description = '[ˈmʌtə] vi.轻声低语；抱怨'
 keywords = ['ai words', 'mutter']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmʌtər/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [speak](/en/post/speak/) [softly](/en/post/softly/) [or](/en/post/or/) indistinctly, [often](/en/post/often/) [under](/en/post/under/) one's [breath](/en/post/breath/) [or](/en/post/or/) [with](/en/post/with/) [the](/en/post/the/) lips barely moving, [so](/en/post/so/) [that](/en/post/that/) [the](/en/post/the/) words are [difficult](/en/post/difficult/) [to](/en/post/to/) [hear](/en/post/hear/) [clearly](/en/post/clearly/). [Example](/en/post/example/): "[She](/en/post/she/) muttered [her](/en/post/her/) complaints [to](/en/post/to/) [herself](/en/post/herself/) [as](/en/post/as/) [she](/en/post/she/) cleaned [up](/en/post/up/) [the](/en/post/the/) [mess](/en/post/mess/)."
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) muttering, [or](/en/post/or/) [a](/en/post/a/) [low](/en/post/low/), indistinct [sound](/en/post/sound/) made [by](/en/post/by/) [someone](/en/post/someone/) speaking [in](/en/post/in/) [this](/en/post/this/) [way](/en/post/way/). [Example](/en/post/example/): "[The](/en/post/the/) [constant](/en/post/constant/) [mutter](/en/post/mutter/) [of](/en/post/of/) discontent [from](/en/post/from/) [the](/en/post/the/) [back](/en/post/back/) [row](/en/post/row/) disrupted [the](/en/post/the/) [lecture](/en/post/lecture/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [speak](/post/speak/) [softly](/post/softly/) [or](/post/or/) indistinctly, [often](/post/often/) [under](/post/under/) one's [breath](/post/breath/) [or](/post/or/) [with](/post/with/) [the](/post/the/) lips barely moving, [so](/post/so/) [that](/post/that/) [the](/post/the/) words are [difficult](/post/difficult/) [to](/post/to/) [hear](/post/hear/) [clearly](/post/clearly/). [Example](/post/example/): "[She](/post/she/) muttered [her](/post/her/) complaints [to](/post/to/) [herself](/post/herself/) [as](/post/as/) [she](/post/she/) cleaned [up](/post/up/) [the](/post/the/) [mess](/post/mess/)."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) muttering, [or](/post/or/) [a](/post/a/) [low](/post/low/), indistinct [sound](/post/sound/) made [by](/post/by/) [someone](/post/someone/) speaking [in](/post/in/) [this](/post/this/) [way](/post/way/). [Example](/post/example/): "[The](/post/the/) [constant](/post/constant/) [mutter](/post/mutter/) [of](/post/of/) discontent [from](/post/from/) [the](/post/the/) [back](/post/back/) [row](/post/row/) disrupted [the](/post/the/) [lecture](/post/lecture/)."
 
 ## Phrases
-- "[Mutter](/en/post/mutter/) [to](/en/post/to/) [oneself](/en/post/oneself/)": [To](/en/post/to/) [speak](/en/post/speak/) quietly [or](/en/post/or/) [under](/en/post/under/) one's [breath](/en/post/breath/), [usually](/en/post/usually/) [when](/en/post/when/) thinking [aloud](/en/post/aloud/) [or](/en/post/or/) expressing annoyance. [Example](/en/post/example/): "[He](/en/post/he/) was muttering [to](/en/post/to/) [himself](/en/post/himself/) [about](/en/post/about/) [the](/en/post/the/) unfairness [of](/en/post/of/) [it](/en/post/it/) [all](/en/post/all/)."
-- "[Mutter](/en/post/mutter/) curses/swears": [To](/en/post/to/) [speak](/en/post/speak/) derogatory [or](/en/post/or/) offensive words [in](/en/post/in/) [a](/en/post/a/) [low](/en/post/low/) [voice](/en/post/voice/). [Example](/en/post/example/): "[Angry](/en/post/angry/) [at](/en/post/at/) [the](/en/post/the/) [situation](/en/post/situation/), [he](/en/post/he/) began [to](/en/post/to/) [mutter](/en/post/mutter/) curses [under](/en/post/under/) [his](/en/post/his/) [breath](/en/post/breath/)."
+- "[Mutter](/post/mutter/) [to](/post/to/) [oneself](/post/oneself/)": [To](/post/to/) [speak](/post/speak/) quietly [or](/post/or/) [under](/post/under/) one's [breath](/post/breath/), [usually](/post/usually/) [when](/post/when/) thinking [aloud](/post/aloud/) [or](/post/or/) expressing annoyance. [Example](/post/example/): "[He](/post/he/) was muttering [to](/post/to/) [himself](/post/himself/) [about](/post/about/) [the](/post/the/) unfairness [of](/post/of/) [it](/post/it/) [all](/post/all/)."
+- "[Mutter](/post/mutter/) curses/swears": [To](/post/to/) [speak](/post/speak/) derogatory [or](/post/or/) offensive words [in](/post/in/) [a](/post/a/) [low](/post/low/) [voice](/post/voice/). [Example](/post/example/): "[Angry](/post/angry/) [at](/post/at/) [the](/post/the/) [situation](/post/situation/), [he](/post/he/) began [to](/post/to/) [mutter](/post/mutter/) curses [under](/post/under/) [his](/post/his/) [breath](/post/breath/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) muttered [a](/en/post/a/) [string](/en/post/string/) [of](/en/post/of/) expletives [when](/en/post/when/) [he](/en/post/he/) realized he'd forgotten [his](/en/post/his/) keys."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [angry](/en/post/angry/) [mutter](/en/post/mutter/) [could](/en/post/could/) [be](/en/post/be/) heard [even](/en/post/even/) [across](/en/post/across/) [the](/en/post/the/) [noisy](/en/post/noisy/) [room](/en/post/room/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[He](/post/he/) muttered [a](/post/a/) [string](/post/string/) [of](/post/of/) expletives [when](/post/when/) [he](/post/he/) realized he'd forgotten [his](/post/his/) keys."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [angry](/post/angry/) [mutter](/post/mutter/) [could](/post/could/) [be](/post/be/) heard [even](/post/even/) [across](/post/across/) [the](/post/the/) [noisy](/post/noisy/) [room](/post/room/)."
 
 ## Synonyms
 - Murmur
-- [Whisper](/en/post/whisper/)
+- [Whisper](/post/whisper/)
 - Mumble
 - Grumble
-- Underbreath ([for](/en/post/for/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) muttering)
-- [Low](/en/post/low/) murmur
-- Indistinct [whisper](/en/post/whisper/)
+- Underbreath ([for](/post/for/) [the](/post/the/) [act](/post/act/) [of](/post/of/) muttering)
+- [Low](/post/low/) murmur
+- Indistinct [whisper](/post/whisper/)

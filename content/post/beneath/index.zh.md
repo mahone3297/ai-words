@@ -11,20 +11,20 @@ keywords = ['ai words', 'beneath']
 /bɪˈðiːθ/
 
 ## 释义
-- **介词**: 表示在...下方，处于...的垂直下方。例如: "[The](/post/the/) [bridge](/post/bridge/) spans [the](/post/the/) [river](/post/river/) [beneath](/post/beneath/) [its](/post/its/) arches."
-- **形容词**: 表示下面的，低层的。例如: "[There](/post/there/) was [a](/post/a/) [secret](/post/secret/) [room](/post/room/) [beneath](/post/beneath/) [the](/post/the/) floorboards."
+- **介词**: 表示在...下方，处于...的垂直下方。例如: "[The](/zh/post/the/) [bridge](/zh/post/bridge/) spans [the](/zh/post/the/) [river](/zh/post/river/) [beneath](/zh/post/beneath/) [its](/zh/post/its/) arches."
+- **形容词**: 表示下面的，低层的。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [secret](/zh/post/secret/) [room](/zh/post/room/) [beneath](/zh/post/beneath/) [the](/zh/post/the/) floorboards."
 
 ## 短语
-- "[beneath](/post/beneath/) one's [notice](/post/notice/)" 意味着不值得注意或看不起。
-- "[beneath](/post/beneath/) [the](/post/the/) [surface](/post/surface/)" 指在表面之下，隐含的意思或未被发现的事物。
+- "[beneath](/zh/post/beneath/) one's [notice](/zh/post/notice/)" 意味着不值得注意或看不起。
+- "[beneath](/zh/post/beneath/) [the](/zh/post/the/) [surface](/zh/post/surface/)" 指在表面之下，隐含的意思或未被发现的事物。
 
 ## 例句
-- 介词: "[The](/post/the/) [sun](/post/sun/) was [setting](/post/setting/) [beneath](/post/beneath/) [the](/post/the/) [horizon](/post/horizon/), [painting](/post/painting/) [the](/post/the/) [sky](/post/sky/) [with](/post/with/) hues [of](/post/of/) [orange](/post/orange/) [and](/post/and/) [red](/post/red/)."
-- 形容词: "[The](/post/the/) [ancient](/post/ancient/) artifact [lay](/post/lay/) hidden [beneath](/post/beneath/) layers [of](/post/of/) [dirt](/post/dirt/) [and](/post/and/) [dust](/post/dust/)."
+- 介词: "[The](/zh/post/the/) [sun](/zh/post/sun/) was [setting](/zh/post/setting/) [beneath](/zh/post/beneath/) [the](/zh/post/the/) [horizon](/zh/post/horizon/), [painting](/zh/post/painting/) [the](/zh/post/the/) [sky](/zh/post/sky/) [with](/zh/post/with/) hues [of](/zh/post/of/) [orange](/zh/post/orange/) [and](/zh/post/and/) [red](/zh/post/red/)."
+- 形容词: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) artifact [lay](/zh/post/lay/) hidden [beneath](/zh/post/beneath/) layers [of](/zh/post/of/) [dirt](/zh/post/dirt/) [and](/zh/post/and/) [dust](/zh/post/dust/)."
 
 ## 同义词
-- [Under](/post/under/)
-- [Below](/post/below/)
-- [Down](/post/down/) [below](/post/below/)
-- [At](/post/at/) [the](/post/the/) [bottom](/post/bottom/) [of](/post/of/)
-- [In](/post/in/) [the](/post/the/) depths [of](/post/of/)
+- [Under](/zh/post/under/)
+- [Below](/zh/post/below/)
+- [Down](/zh/post/down/) [below](/zh/post/below/)
+- [At](/zh/post/at/) [the](/zh/post/the/) [bottom](/zh/post/bottom/) [of](/zh/post/of/)
+- [In](/zh/post/in/) [the](/zh/post/the/) depths [of](/zh/post/of/)

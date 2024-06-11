@@ -7,40 +7,40 @@ description = '[ˈinstitjuːt] n.研究所；学院'
 keywords = ['ai words', 'institute']
 +++
 
-# [Institute](/en/post/institute/)
+# [Institute](/post/institute/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈstɪtjuːt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) An [organization](/en/post/organization/) founded [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/), [often](/en/post/often/) educational [or](/en/post/or/) research-oriented, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [college](/en/post/college/), [university](/en/post/university/), [or](/en/post/or/) [research](/en/post/research/) center. [Example](/en/post/example/): "[He](/en/post/he/) studied [at](/en/post/at/) [the](/en/post/the/) Massachusetts [Institute](/en/post/institute/) [of](/en/post/of/) [Technology](/en/post/technology/)."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [start](/en/post/start/) [something](/en/post/something/) [on](/en/post/on/) [a](/en/post/a/) [permanent](/en/post/permanent/) [basis](/en/post/basis/), [especially](/en/post/especially/) an [organization](/en/post/organization/) [or](/en/post/or/) [system](/en/post/system/). [Example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) institutes [new](/en/post/new/) policies [to](/en/post/to/) tackle [climate](/en/post/climate/) [change](/en/post/change/)."
+- **[Noun](/post/noun/)**: (n) An [organization](/post/organization/) founded [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/), [often](/post/often/) educational [or](/post/or/) research-oriented, [such](/post/such/) [as](/post/as/) [a](/post/a/) [college](/post/college/), [university](/post/university/), [or](/post/or/) [research](/post/research/) center. [Example](/post/example/): "[He](/post/he/) studied [at](/post/at/) [the](/post/the/) Massachusetts [Institute](/post/institute/) [of](/post/of/) [Technology](/post/technology/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [establish](/post/establish/) [or](/post/or/) [start](/post/start/) [something](/post/something/) [on](/post/on/) [a](/post/a/) [permanent](/post/permanent/) [basis](/post/basis/), [especially](/post/especially/) an [organization](/post/organization/) [or](/post/or/) [system](/post/system/). [Example](/post/example/): "[The](/post/the/) [government](/post/government/) institutes [new](/post/new/) policies [to](/post/to/) tackle [climate](/post/climate/) [change](/post/change/)."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- "[The](/en/post/the/) [company](/en/post/company/) plans [to](/en/post/to/) donate funds [to](/en/post/to/) [several](/en/post/several/) [research](/en/post/research/) institutes."
-- "[They](/en/post/they/) are founding [a](/en/post/a/) [new](/en/post/new/) [language](/en/post/language/) [institute](/en/post/institute/) [to](/en/post/to/) [promote](/en/post/promote/) cultural [exchange](/en/post/exchange/)."
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- "[The](/post/the/) [company](/post/company/) plans [to](/post/to/) donate funds [to](/post/to/) [several](/post/several/) [research](/post/research/) institutes."
+- "[They](/post/they/) are founding [a](/post/a/) [new](/post/new/) [language](/post/language/) [institute](/post/institute/) [to](/post/to/) [promote](/post/promote/) cultural [exchange](/post/exchange/)."
 
-### [Verb](/en/post/verb/) [Usage](/en/post/usage/) Examples
-- "[A](/en/post/a/) [new](/en/post/new/) [law](/en/post/law/) was instituted [to](/en/post/to/) [protect](/en/post/protect/) consumer rights."
-- "[She](/en/post/she/) instituted [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) reforms [to](/en/post/to/) [improve](/en/post/improve/) [the](/en/post/the/) school's curriculum."
+### [Verb](/post/verb/) [Usage](/post/usage/) Examples
+- "[A](/post/a/) [new](/post/new/) [law](/post/law/) was instituted [to](/post/to/) [protect](/post/protect/) consumer rights."
+- "[She](/post/she/) instituted [a](/post/a/) [series](/post/series/) [of](/post/of/) reforms [to](/post/to/) [improve](/post/improve/) [the](/post/the/) school's curriculum."
 
 ## Phrases
-- "[Institute](/en/post/institute/) [of](/en/post/of/) higher [learning](/en/post/learning/)": Refers [to](/en/post/to/) [a](/en/post/a/) [college](/en/post/college/) [or](/en/post/or/) [university](/en/post/university/).
-- "[Institute](/en/post/institute/) proceedings": [To](/en/post/to/) initiate [legal](/en/post/legal/) [action](/en/post/action/) [against](/en/post/against/) [someone](/en/post/someone/).
-- "[Institute](/en/post/institute/) [a](/en/post/a/) [policy](/en/post/policy/)/[change](/en/post/change/)": [To](/en/post/to/) [introduce](/en/post/introduce/) [and](/en/post/and/) [put](/en/post/put/) [into](/en/post/into/) [effect](/en/post/effect/) [a](/en/post/a/) [new](/en/post/new/) [policy](/en/post/policy/) [or](/en/post/or/) [change](/en/post/change/).
+- "[Institute](/post/institute/) [of](/post/of/) higher [learning](/post/learning/)": Refers [to](/post/to/) [a](/post/a/) [college](/post/college/) [or](/post/or/) [university](/post/university/).
+- "[Institute](/post/institute/) proceedings": [To](/post/to/) initiate [legal](/post/legal/) [action](/post/action/) [against](/post/against/) [someone](/post/someone/).
+- "[Institute](/post/institute/) [a](/post/a/) [policy](/post/policy/)/[change](/post/change/)": [To](/post/to/) [introduce](/post/introduce/) [and](/post/and/) [put](/post/put/) [into](/post/into/) [effect](/post/effect/) [a](/post/a/) [new](/post/new/) [policy](/post/policy/) [or](/post/or/) [change](/post/change/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [art](/en/post/art/) [institute](/en/post/institute/) is hosting [a](/en/post/a/) prestigious [exhibition](/en/post/exhibition/) [this](/en/post/this/) [month](/en/post/month/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) [discussion](/en/post/discussion/), [they](/en/post/they/) [finally](/en/post/finally/) decided [to](/en/post/to/) [institute](/en/post/institute/) [a](/en/post/a/) recycling [program](/en/post/program/) [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [art](/post/art/) [institute](/post/institute/) is hosting [a](/post/a/) prestigious [exhibition](/post/exhibition/) [this](/post/this/) [month](/post/month/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) years [of](/post/of/) [discussion](/post/discussion/), [they](/post/they/) [finally](/post/finally/) decided [to](/post/to/) [institute](/post/institute/) [a](/post/a/) recycling [program](/post/program/) [in](/post/in/) [the](/post/the/) [city](/post/city/)."
 
 ## Synonyms
-- [Organization](/en/post/organization/)
-- [Foundation](/en/post/foundation/)
-- [Establishment](/en/post/establishment/)
-- [Academy](/en/post/academy/)
-- [Society](/en/post/society/)
-- [Institution](/en/post/institution/)
-- [School](/en/post/school/)
-- [Body](/en/post/body/)
+- [Organization](/post/organization/)
+- [Foundation](/post/foundation/)
+- [Establishment](/post/establishment/)
+- [Academy](/post/academy/)
+- [Society](/post/society/)
+- [Institution](/post/institution/)
+- [School](/post/school/)
+- [Body](/post/body/)
 - Center
-- Initiate ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [sense](/en/post/sense/))
+- Initiate ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [sense](/post/sense/))

@@ -11,24 +11,24 @@ keywords = ['ai words', 'weed']
 /wiːd/
 
 ## 释义
-- **名词 (n)**: 一种野生植物，通常指在不需要的地方生长的草本植物，可能是杂草。例如: "I spent [the](/post/the/) [afternoon](/post/afternoon/) weeding [the](/post/the/) [garden](/post/garden/)."
-- **动词 (v)**: 移除或清除不需要的植物，尤其是杂草。例如: "[She](/post/she/) was [busy](/post/busy/) weeding [out](/post/out/) [the](/post/the/) unwanted plants [in](/post/in/) [her](/post/her/) [vegetable](/post/vegetable/) [patch](/post/patch/)."
+- **名词 (n)**: 一种野生植物，通常指在不需要的地方生长的草本植物，可能是杂草。例如: "I spent [the](/zh/post/the/) [afternoon](/zh/post/afternoon/) weeding [the](/zh/post/the/) [garden](/zh/post/garden/)."
+- **动词 (v)**: 移除或清除不需要的植物，尤其是杂草。例如: "[She](/zh/post/she/) was [busy](/zh/post/busy/) weeding [out](/zh/post/out/) [the](/zh/post/the/) unwanted plants [in](/zh/post/in/) [her](/zh/post/her/) [vegetable](/zh/post/vegetable/) [patch](/zh/post/patch/)."
 
 ## 短语
-- "[weed](/post/weed/) [out](/post/out/)" 意味着去除不想要的东西，如在园艺中移除杂草，或在群体中淘汰不合适的人或事物。例如: "[The](/post/the/) [teacher](/post/teacher/) had [to](/post/to/) [weed](/post/weed/) [out](/post/out/) [the](/post/the/) students [who](/post/who/) weren't committed [to](/post/to/) [the](/post/the/) [program](/post/program/)."
-- "weed-infested" 描述充满杂草的区域。例如: "[The](/post/the/) once-beautiful [lawn](/post/lawn/) was [now](/post/now/) weed-infested."
+- "[weed](/zh/post/weed/) [out](/zh/post/out/)" 意味着去除不想要的东西，如在园艺中移除杂草，或在群体中淘汰不合适的人或事物。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) had [to](/zh/post/to/) [weed](/zh/post/weed/) [out](/zh/post/out/) [the](/zh/post/the/) students [who](/zh/post/who/) weren't committed [to](/zh/post/to/) [the](/zh/post/the/) [program](/zh/post/program/)."
+- "weed-infested" 描述充满杂草的区域。例如: "[The](/zh/post/the/) once-beautiful [lawn](/zh/post/lawn/) was [now](/zh/post/now/) weed-infested."
 
 ## 例句
-- 名词: "[The](/post/the/) [gardener](/post/gardener/) was annoyed [by](/post/by/) [the](/post/the/) persistent weeds growing [between](/post/between/) [the](/post/the/) paving stones."
-- 动词: "I [need](/post/need/) [to](/post/to/) [weed](/post/weed/) [the](/post/the/) [garden](/post/garden/) [before](/post/before/) [the](/post/the/) flowers [get](/post/get/) choked."
+- 名词: "[The](/zh/post/the/) [gardener](/zh/post/gardener/) was annoyed [by](/zh/post/by/) [the](/zh/post/the/) persistent weeds growing [between](/zh/post/between/) [the](/zh/post/the/) paving stones."
+- 动词: "I [need](/zh/post/need/) [to](/zh/post/to/) [weed](/zh/post/weed/) [the](/zh/post/the/) [garden](/zh/post/garden/) [before](/zh/post/before/) [the](/zh/post/the/) flowers [get](/zh/post/get/) choked."
 
 ## 同义词
-- [Noun](/post/noun/):
-  - undesirable [plant](/post/plant/)
-  - [grass](/post/grass/)
-  - [plant](/post/plant/)
-- [Verb](/post/verb/):
-  - [pull](/post/pull/) [up](/post/up/) weeds
+- [Noun](/zh/post/noun/):
+  - undesirable [plant](/zh/post/plant/)
+  - [grass](/zh/post/grass/)
+  - [plant](/zh/post/plant/)
+- [Verb](/zh/post/verb/):
+  - [pull](/zh/post/pull/) [up](/zh/post/up/) weeds
   - eradicate
-  - [remove](/post/remove/)
-  - [clear](/post/clear/) [away](/post/away/)
+  - [remove](/zh/post/remove/)
+  - [clear](/zh/post/clear/) [away](/zh/post/away/)

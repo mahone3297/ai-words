@@ -11,20 +11,20 @@ keywords = ['ai words', 'dirt']
 /dɜːrt/
 
 ## 释义
-- **名词**: 尘土，泥土；污垢，脏物。例如: "[She](/post/she/) wiped [the](/post/the/) [dirt](/post/dirt/) [off](/post/off/) [her](/post/her/) shoes [before](/post/before/) entering [the](/post/the/) [house](/post/house/)."
-- **形容词**: 肮脏的，不干净的。例如: "[The](/post/the/) [floor](/post/floor/) was [dirty](/post/dirty/) [with](/post/with/) [dirt](/post/dirt/)."
+- **名词**: 尘土，泥土；污垢，脏物。例如: "[She](/zh/post/she/) wiped [the](/zh/post/the/) [dirt](/zh/post/dirt/) [off](/zh/post/off/) [her](/zh/post/her/) shoes [before](/zh/post/before/) entering [the](/zh/post/the/) [house](/zh/post/house/)."
+- **形容词**: 肮脏的，不干净的。例如: "[The](/zh/post/the/) [floor](/zh/post/floor/) was [dirty](/zh/post/dirty/) [with](/zh/post/with/) [dirt](/zh/post/dirt/)."
 
 ## 短语
-- "[dirt](/post/dirt/) [road](/post/road/)" 泥土路。
-- "[clean](/post/clean/) [the](/post/the/) [dirt](/post/dirt/) [out](/post/out/)" 清理脏物。
-- "[dirt](/post/dirt/) [cheap](/post/cheap/)" 非常便宜的，近乎廉价的。
+- "[dirt](/zh/post/dirt/) [road](/zh/post/road/)" 泥土路。
+- "[clean](/zh/post/clean/) [the](/zh/post/the/) [dirt](/zh/post/dirt/) [out](/zh/post/out/)" 清理脏物。
+- "[dirt](/zh/post/dirt/) [cheap](/zh/post/cheap/)" 非常便宜的，近乎廉价的。
 
 ## 例句
-- 名词: "[The](/post/the/) [gardener](/post/gardener/) was raking [up](/post/up/) [the](/post/the/) fallen leaves [and](/post/and/) [dirt](/post/dirt/) [in](/post/in/) [the](/post/the/) [yard](/post/yard/)."
-- 形容词: "[The](/post/the/) kids came [home](/post/home/) [with](/post/with/) dirt-smeared faces [after](/post/after/) playing [outside](/post/outside/)."
+- 名词: "[The](/zh/post/the/) [gardener](/zh/post/gardener/) was raking [up](/zh/post/up/) [the](/zh/post/the/) fallen leaves [and](/zh/post/and/) [dirt](/zh/post/dirt/) [in](/zh/post/in/) [the](/zh/post/the/) [yard](/zh/post/yard/)."
+- 形容词: "[The](/zh/post/the/) kids came [home](/zh/post/home/) [with](/zh/post/with/) dirt-smeared faces [after](/zh/post/after/) playing [outside](/zh/post/outside/)."
 
 ## 同义词
-- [Dust](/post/dust/)
+- [Dust](/zh/post/dust/)
 - Filth
 - Grime
 - Muck

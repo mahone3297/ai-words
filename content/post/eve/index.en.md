@@ -7,28 +7,28 @@ description = '[iːv] n.前夜，前夕，前一刻'
 keywords = ['ai words', 'eve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /iv/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [evening](/en/post/evening/) [or](/en/post/or/) [day](/en/post/day/) [before](/en/post/before/) [a](/en/post/a/) [special](/en/post/special/) [day](/en/post/day/) [or](/en/post/or/) [holiday](/en/post/holiday/); [often](/en/post/often/) capitalized [when](/en/post/when/) referring [to](/en/post/to/) Christmas [Eve](/en/post/eve/) [or](/en/post/or/) [New](/en/post/new/) Year's [Eve](/en/post/eve/). [Example](/en/post/example/): "[On](/en/post/on/) Christmas [Eve](/en/post/eve/), [we](/en/post/we/) [gather](/en/post/gather/) [with](/en/post/with/) [family](/en/post/family/) [to](/en/post/to/) [exchange](/en/post/exchange/) gifts."
-  - [Also](/en/post/also/), [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [just](/en/post/just/) [before](/en/post/before/) an [event](/en/post/event/) [or](/en/post/or/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[On](/en/post/on/) [the](/en/post/the/) [eve](/en/post/eve/) [of](/en/post/of/) [her](/en/post/her/) [departure](/en/post/departure/), [she](/en/post/she/) packed [her](/en/post/her/) bags."
+- **[Noun](/post/noun/)**: [The](/post/the/) [evening](/post/evening/) [or](/post/or/) [day](/post/day/) [before](/post/before/) [a](/post/a/) [special](/post/special/) [day](/post/day/) [or](/post/or/) [holiday](/post/holiday/); [often](/post/often/) capitalized [when](/post/when/) referring [to](/post/to/) Christmas [Eve](/post/eve/) [or](/post/or/) [New](/post/new/) Year's [Eve](/post/eve/). [Example](/post/example/): "[On](/post/on/) Christmas [Eve](/post/eve/), [we](/post/we/) [gather](/post/gather/) [with](/post/with/) [family](/post/family/) [to](/post/to/) [exchange](/post/exchange/) gifts."
+  - [Also](/post/also/), [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [just](/post/just/) [before](/post/before/) an [event](/post/event/) [or](/post/or/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[On](/post/on/) [the](/post/the/) [eve](/post/eve/) [of](/post/of/) [her](/post/her/) [departure](/post/departure/), [she](/post/she/) packed [her](/post/her/) bags."
 
-- **[Proper](/en/post/proper/) [Noun](/en/post/noun/)**: [In](/en/post/in/) [religious](/en/post/religious/) contexts, [Eve](/en/post/eve/) is [also](/en/post/also/) [the](/en/post/the/) [name](/en/post/name/) given [to](/en/post/to/) [the](/en/post/the/) [first](/en/post/first/) [woman](/en/post/woman/) [in](/en/post/in/) [the](/en/post/the/) biblical [account](/en/post/account/) [of](/en/post/of/) creation.
+- **[Proper](/post/proper/) [Noun](/post/noun/)**: [In](/post/in/) [religious](/post/religious/) contexts, [Eve](/post/eve/) is [also](/post/also/) [the](/post/the/) [name](/post/name/) given [to](/post/to/) [the](/post/the/) [first](/post/first/) [woman](/post/woman/) [in](/post/in/) [the](/post/the/) biblical [account](/post/account/) [of](/post/of/) creation.
 
 ## Phrases
-- "[On](/en/post/on/) [the](/en/post/the/) [eve](/en/post/eve/) [of](/en/post/of/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) metaphorically [to](/en/post/to/) [mean](/en/post/mean/) [just](/en/post/just/) [before](/en/post/before/) an [important](/en/post/important/) [event](/en/post/event/) [or](/en/post/or/) [significant](/en/post/significant/) [change](/en/post/change/). [Example](/en/post/example/): "[On](/en/post/on/) [the](/en/post/the/) [eve](/en/post/eve/) [of](/en/post/of/) [his](/en/post/his/) retirement, [he](/en/post/he/) reflected [on](/en/post/on/) [his](/en/post/his/) [long](/en/post/long/) [career](/en/post/career/)."
-- "[Eve](/en/post/eve/) [of](/en/post/of/) [destruction](/en/post/destruction/)": [A](/en/post/a/) [term](/en/post/term/) referring [to](/en/post/to/) [a](/en/post/a/) [time](/en/post/time/) [of](/en/post/of/) impending [disaster](/en/post/disaster/) [or](/en/post/or/) [crisis](/en/post/crisis/).
+- "[On](/post/on/) [the](/post/the/) [eve](/post/eve/) [of](/post/of/)": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) metaphorically [to](/post/to/) [mean](/post/mean/) [just](/post/just/) [before](/post/before/) an [important](/post/important/) [event](/post/event/) [or](/post/or/) [significant](/post/significant/) [change](/post/change/). [Example](/post/example/): "[On](/post/on/) [the](/post/the/) [eve](/post/eve/) [of](/post/of/) [his](/post/his/) retirement, [he](/post/he/) reflected [on](/post/on/) [his](/post/his/) [long](/post/long/) [career](/post/career/)."
+- "[Eve](/post/eve/) [of](/post/of/) [destruction](/post/destruction/)": [A](/post/a/) [term](/post/term/) referring [to](/post/to/) [a](/post/a/) [time](/post/time/) [of](/post/of/) impending [disaster](/post/disaster/) [or](/post/or/) [crisis](/post/crisis/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) attended [a](/en/post/a/) candlelit vigil [on](/en/post/on/) [New](/en/post/new/) Year's [Eve](/en/post/eve/)."
-- "[The](/en/post/the/) [company](/en/post/company/) was [on](/en/post/on/) [the](/en/post/the/) [eve](/en/post/eve/) [of](/en/post/of/) launching [its](/en/post/its/) [new](/en/post/new/) [product](/en/post/product/) [line](/en/post/line/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) attended [a](/post/a/) candlelit vigil [on](/post/on/) [New](/post/new/) Year's [Eve](/post/eve/)."
+- "[The](/post/the/) [company](/post/company/) was [on](/post/on/) [the](/post/the/) [eve](/post/eve/) [of](/post/of/) launching [its](/post/its/) [new](/post/new/) [product](/post/product/) [line](/post/line/)."
 
 ## Synonyms
-- [Night](/en/post/night/) [before](/en/post/before/)
+- [Night](/post/night/) [before](/post/before/)
 -前一天
-- [Evening](/en/post/evening/) [before](/en/post/before/)
-- Anteveiling ([in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [a](/en/post/a/) [special](/en/post/special/) [event](/en/post/event/))
-- [Preceding](/en/post/preceding/) [night](/en/post/night/)
+- [Evening](/post/evening/) [before](/post/before/)
+- Anteveiling ([in](/post/in/) [reference](/post/reference/) [to](/post/to/) [a](/post/a/) [special](/post/special/) [event](/post/event/))
+- [Preceding](/post/preceding/) [night](/post/night/)
 
-[Note](/en/post/note/) [that](/en/post/that/) [while](/en/post/while/) "[eve](/en/post/eve/)" typically doesn't [have](/en/post/have/) [direct](/en/post/direct/) synonyms [in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [being](/en/post/being/) [the](/en/post/the/) [evening](/en/post/evening/) [before](/en/post/before/) [a](/en/post/a/) [specific](/en/post/specific/) [day](/en/post/day/), related expressions [like](/en/post/like/) "[night](/en/post/night/) [before](/en/post/before/)" [or](/en/post/or/) "[the](/en/post/the/) [preceding](/en/post/preceding/) [evening](/en/post/evening/)" [serve](/en/post/serve/) [similar](/en/post/similar/) purposes [in](/en/post/in/) context.
+[Note](/post/note/) [that](/post/that/) [while](/post/while/) "[eve](/post/eve/)" typically doesn't [have](/post/have/) [direct](/post/direct/) synonyms [in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [being](/post/being/) [the](/post/the/) [evening](/post/evening/) [before](/post/before/) [a](/post/a/) [specific](/post/specific/) [day](/post/day/), related expressions [like](/post/like/) "[night](/post/night/) [before](/post/before/)" [or](/post/or/) "[the](/post/the/) [preceding](/post/preceding/) [evening](/post/evening/)" [serve](/post/serve/) [similar](/post/similar/) purposes [in](/post/in/) context.

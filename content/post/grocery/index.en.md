@@ -7,28 +7,28 @@ description = '[ˈgrəusəri] n.食品杂货店'
 keywords = ['ai words', 'grocery']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡroʊsəri/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [store](/en/post/store/) [that](/en/post/that/) [primarily](/en/post/primarily/) sells [food](/en/post/food/) [and](/en/post/and/) [household](/en/post/household/) supplies, [often](/en/post/often/) selling items [in](/en/post/in/) [bulk](/en/post/bulk/) [or](/en/post/or/) packaged [form](/en/post/form/). E.g., "[She](/en/post/she/) went [to](/en/post/to/) [the](/en/post/the/) [grocery](/en/post/grocery/) [store](/en/post/store/) [to](/en/post/to/) [buy](/en/post/buy/) [some](/en/post/some/) fruits [and](/en/post/and/) vegetables."
+- **[Noun](/post/noun/)**: [A](/post/a/) [store](/post/store/) [that](/post/that/) [primarily](/post/primarily/) sells [food](/post/food/) [and](/post/and/) [household](/post/household/) supplies, [often](/post/often/) selling items [in](/post/in/) [bulk](/post/bulk/) [or](/post/or/) packaged [form](/post/form/). E.g., "[She](/post/she/) went [to](/post/to/) [the](/post/the/) [grocery](/post/grocery/) [store](/post/store/) [to](/post/to/) [buy](/post/buy/) [some](/post/some/) fruits [and](/post/and/) vegetables."
 
-  - [Also](/en/post/also/), [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [goods](/en/post/goods/) [or](/en/post/or/) supplies sold [in](/en/post/in/) [such](/en/post/such/) [a](/en/post/a/) [store](/en/post/store/). E.g., "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [stock](/en/post/stock/) [up](/en/post/up/) [on](/en/post/on/) groceries [before](/en/post/before/) [the](/en/post/the/) [storm](/en/post/storm/) hits."
+  - [Also](/post/also/), [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [goods](/post/goods/) [or](/post/or/) supplies sold [in](/post/in/) [such](/post/such/) [a](/post/a/) [store](/post/store/). E.g., "[We](/post/we/) [need](/post/need/) [to](/post/to/) [stock](/post/stock/) [up](/post/up/) [on](/post/on/) groceries [before](/post/before/) [the](/post/the/) [storm](/post/storm/) hits."
 
 ## Phrases
-- "[Do](/en/post/do/) [the](/en/post/the/) groceries" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [shopping](/en/post/shopping/) [for](/en/post/for/) [food](/en/post/food/) [and](/en/post/and/) [household](/en/post/household/) supplies. E.g., "I [have](/en/post/have/) [to](/en/post/to/) [do](/en/post/do/) [the](/en/post/the/) groceries [this](/en/post/this/) [afternoon](/en/post/afternoon/)."
-- "[Grocery](/en/post/grocery/) [list](/en/post/list/)" refers [to](/en/post/to/) [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) items [one](/en/post/one/) intends [to](/en/post/to/) [purchase](/en/post/purchase/) [at](/en/post/at/) [a](/en/post/a/) [grocery](/en/post/grocery/) [store](/en/post/store/). E.g., "[She](/en/post/she/) made [a](/en/post/a/) [grocery](/en/post/grocery/) [list](/en/post/list/) [so](/en/post/so/) [she](/en/post/she/) wouldn't [forget](/en/post/forget/) [anything](/en/post/anything/) [at](/en/post/at/) [the](/en/post/the/) [store](/en/post/store/)."
+- "[Do](/post/do/) [the](/post/the/) groceries" [means](/post/means/) [to](/post/to/) [go](/post/go/) [shopping](/post/shopping/) [for](/post/for/) [food](/post/food/) [and](/post/and/) [household](/post/household/) supplies. E.g., "I [have](/post/have/) [to](/post/to/) [do](/post/do/) [the](/post/the/) groceries [this](/post/this/) [afternoon](/post/afternoon/)."
+- "[Grocery](/post/grocery/) [list](/post/list/)" refers [to](/post/to/) [a](/post/a/) [list](/post/list/) [of](/post/of/) items [one](/post/one/) intends [to](/post/to/) [purchase](/post/purchase/) [at](/post/at/) [a](/post/a/) [grocery](/post/grocery/) [store](/post/store/). E.g., "[She](/post/she/) made [a](/post/a/) [grocery](/post/grocery/) [list](/post/list/) [so](/post/so/) [she](/post/she/) wouldn't [forget](/post/forget/) [anything](/post/anything/) [at](/post/at/) [the](/post/the/) [store](/post/store/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([store](/en/post/store/))**: "[They](/en/post/they/) decided [to](/en/post/to/) [open](/en/post/open/) [a](/en/post/a/) [new](/en/post/new/) [grocery](/en/post/grocery/) [in](/en/post/in/) [the](/en/post/the/) [heart](/en/post/heart/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Noun](/en/post/noun/) ([goods](/en/post/goods/))**: "[The](/en/post/the/) [couple](/en/post/couple/) loaded [their](/en/post/their/) [cart](/en/post/cart/) [with](/en/post/with/) [fresh](/en/post/fresh/) [produce](/en/post/produce/) [and](/en/post/and/) [other](/en/post/other/) groceries."
-- **[Verb](/en/post/verb/) (informal [usage](/en/post/usage/))**: "[He](/en/post/he/) groceryed [around](/en/post/around/) [the](/en/post/the/) [corner](/en/post/corner/) [every](/en/post/every/) Sunday [morning](/en/post/morning/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([store](/post/store/))**: "[They](/post/they/) decided [to](/post/to/) [open](/post/open/) [a](/post/a/) [new](/post/new/) [grocery](/post/grocery/) [in](/post/in/) [the](/post/the/) [heart](/post/heart/) [of](/post/of/) [the](/post/the/) [city](/post/city/)."
+- **[Noun](/post/noun/) ([goods](/post/goods/))**: "[The](/post/the/) [couple](/post/couple/) loaded [their](/post/their/) [cart](/post/cart/) [with](/post/with/) [fresh](/post/fresh/) [produce](/post/produce/) [and](/post/and/) [other](/post/other/) groceries."
+- **[Verb](/post/verb/) (informal [usage](/post/usage/))**: "[He](/post/he/) groceryed [around](/post/around/) [the](/post/the/) [corner](/post/corner/) [every](/post/every/) Sunday [morning](/post/morning/)."
 
 ## Synonyms
-- [Food](/en/post/food/) [market](/en/post/market/)
-- [Supermarket](/en/post/supermarket/)
-- [Grocery](/en/post/grocery/) [store](/en/post/store/)
+- [Food](/post/food/) [market](/post/market/)
+- [Supermarket](/post/supermarket/)
+- [Grocery](/post/grocery/) [store](/post/store/)
 -便利店
 - Provisions
-- Groceries ([as](/en/post/as/) [a](/en/post/a/) [plural](/en/post/plural/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) items)
-- Supplies ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [food](/en/post/food/) [and](/en/post/and/) [household](/en/post/household/) items)
+- Groceries ([as](/post/as/) [a](/post/a/) [plural](/post/plural/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) items)
+- Supplies ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [food](/post/food/) [and](/post/and/) [household](/post/household/) items)

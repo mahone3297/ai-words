@@ -7,38 +7,38 @@ description = '[riˈplai] vi.&n.回答，答复'
 keywords = ['ai words', 'reply']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈplaɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [response](/en/post/response/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) answering [or](/en/post/or/) responding [to](/en/post/to/) [something](/en/post/something/), typically [a](/en/post/a/) [question](/en/post/question/) [or](/en/post/or/) [comment](/en/post/comment/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) waited [for](/en/post/for/) [her](/en/post/her/) [reply](/en/post/reply/)."
-- **[A](/en/post/a/) [message](/en/post/message/) [or](/en/post/or/) [answer](/en/post/answer/)**: [A](/en/post/a/) written [or](/en/post/or/) spoken [response](/en/post/response/) [to](/en/post/to/) [a](/en/post/a/) [communication](/en/post/communication/). [For](/en/post/for/) [example](/en/post/example/): "I received [no](/en/post/no/) [reply](/en/post/reply/) [to](/en/post/to/) [my](/en/post/my/) email."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [response](/post/response/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) answering [or](/post/or/) responding [to](/post/to/) [something](/post/something/), typically [a](/post/a/) [question](/post/question/) [or](/post/or/) [comment](/post/comment/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) waited [for](/post/for/) [her](/post/her/) [reply](/post/reply/)."
+- **[A](/post/a/) [message](/post/message/) [or](/post/or/) [answer](/post/answer/)**: [A](/post/a/) written [or](/post/or/) spoken [response](/post/response/) [to](/post/to/) [a](/post/a/) [communication](/post/communication/). [For](/post/for/) [example](/post/example/): "I received [no](/post/no/) [reply](/post/reply/) [to](/post/to/) [my](/post/my/) email."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [respond](/en/post/respond/)**: [To](/en/post/to/) [give](/en/post/give/) an [answer](/en/post/answer/) [or](/en/post/or/) [reaction](/en/post/reaction/) [to](/en/post/to/) [something](/en/post/something/) said [or](/en/post/or/) asked. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) replied promptly [to](/en/post/to/) [his](/en/post/his/) [question](/en/post/question/)."
-- **[To](/en/post/to/) [answer](/en/post/answer/)**: [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [response](/en/post/response/) [to](/en/post/to/) [a](/en/post/a/) query [or](/en/post/or/) [request](/en/post/request/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [reply](/en/post/reply/) [to](/en/post/to/) [this](/en/post/this/) [message](/en/post/message/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [respond](/post/respond/)**: [To](/post/to/) [give](/post/give/) an [answer](/post/answer/) [or](/post/or/) [reaction](/post/reaction/) [to](/post/to/) [something](/post/something/) said [or](/post/or/) asked. [For](/post/for/) [example](/post/example/): "[She](/post/she/) replied promptly [to](/post/to/) [his](/post/his/) [question](/post/question/)."
+- **[To](/post/to/) [answer](/post/answer/)**: [To](/post/to/) [give](/post/give/) [a](/post/a/) [response](/post/response/) [to](/post/to/) [a](/post/a/) query [or](/post/or/) [request](/post/request/). [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [reply](/post/reply/) [to](/post/to/) [this](/post/this/) [message](/post/message/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Relevant](/en/post/relevant/) [or](/en/post/or/) [appropriate](/en/post/appropriate/)**: Expressing [a](/en/post/a/) fitting [or](/en/post/or/) [suitable](/en/post/suitable/) [response](/en/post/response/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [reply](/en/post/reply/) was concise [and](/en/post/and/) [to](/en/post/to/) [the](/en/post/the/) [point](/en/post/point/)."
+### [Adjective](/post/adjective/)
+- **[Relevant](/post/relevant/) [or](/post/or/) [appropriate](/post/appropriate/)**: Expressing [a](/post/a/) fitting [or](/post/or/) [suitable](/post/suitable/) [response](/post/response/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [reply](/post/reply/) was concise [and](/post/and/) [to](/post/to/) [the](/post/the/) [point](/post/point/)."
 
 ## Phrases
-- "[Reply](/en/post/reply/) [to](/en/post/to/) [a](/en/post/a/) [message](/en/post/message/)" [means](/en/post/means/) [to](/en/post/to/) [send](/en/post/send/) [a](/en/post/a/) [response](/en/post/response/) [to](/en/post/to/) [a](/en/post/a/) written [communication](/en/post/communication/).
-- "I'm awaiting [your](/en/post/your/) [reply](/en/post/reply/)" indicates [that](/en/post/that/) [someone](/en/post/someone/) is expecting [a](/en/post/a/) [response](/en/post/response/) [from](/en/post/from/) [you](/en/post/you/).
-- "[No](/en/post/no/) [reply](/en/post/reply/) needed" signifies [that](/en/post/that/) an [answer](/en/post/answer/) isn't [necessary](/en/post/necessary/) [or](/en/post/or/) expected.
+- "[Reply](/post/reply/) [to](/post/to/) [a](/post/a/) [message](/post/message/)" [means](/post/means/) [to](/post/to/) [send](/post/send/) [a](/post/a/) [response](/post/response/) [to](/post/to/) [a](/post/a/) written [communication](/post/communication/).
+- "I'm awaiting [your](/post/your/) [reply](/post/reply/)" indicates [that](/post/that/) [someone](/post/someone/) is expecting [a](/post/a/) [response](/post/response/) [from](/post/from/) [you](/post/you/).
+- "[No](/post/no/) [reply](/post/reply/) needed" signifies [that](/post/that/) an [answer](/post/answer/) isn't [necessary](/post/necessary/) [or](/post/or/) expected.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) customer's [reply](/en/post/reply/) [to](/en/post/to/) [our](/en/post/our/) [inquiry](/en/post/inquiry/) contained [valuable](/en/post/valuable/) [feedback](/en/post/feedback/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [reading](/en/post/reading/) [the](/en/post/the/) [letter](/en/post/letter/), [he](/en/post/he/) sat [down](/en/post/down/) [to](/en/post/to/) [reply](/en/post/reply/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [reply](/en/post/reply/) was well-researched [and](/en/post/and/) showed [he](/en/post/he/) understood [the](/en/post/the/) [topic](/en/post/topic/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) customer's [reply](/post/reply/) [to](/post/to/) [our](/post/our/) [inquiry](/post/inquiry/) contained [valuable](/post/valuable/) [feedback](/post/feedback/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [reading](/post/reading/) [the](/post/the/) [letter](/post/letter/), [he](/post/he/) sat [down](/post/down/) [to](/post/to/) [reply](/post/reply/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [reply](/post/reply/) was well-researched [and](/post/and/) showed [he](/post/he/) understood [the](/post/the/) [topic](/post/topic/)."
 
 ## Synonyms
-- [Response](/en/post/response/)
-- [Answer](/en/post/answer/)
+- [Response](/post/response/)
+- [Answer](/post/answer/)
 - Answering
-- [Feedback](/en/post/feedback/)
+- [Feedback](/post/feedback/)
 - rejoinder
 - retort
-- [counter](/en/post/counter/)
-- [response](/en/post/response/)
-- [answer](/en/post/answer/) [message](/en/post/message/)
+- [counter](/post/counter/)
+- [response](/post/response/)
+- [answer](/post/answer/) [message](/post/message/)

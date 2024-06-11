@@ -12,25 +12,25 @@ keywords = ['ai words', 'tie']
 
 ## 释义
 - **名词** (n):
-   - 领带，尤指男性在正式场合系在衬衫上的装饰性带子。例如: "[He](/post/he/) wore [a](/post/a/) [blue](/post/blue/) [suit](/post/suit/) [with](/post/with/) [a](/post/a/) matching [tie](/post/tie/)."
-   - 关联，联系。例如: "[There](/post/there/) is [a](/post/a/) [strong](/post/strong/) [tie](/post/tie/) [between](/post/between/) [the](/post/the/) [two](/post/two/) companies."
+   - 领带，尤指男性在正式场合系在衬衫上的装饰性带子。例如: "[He](/zh/post/he/) wore [a](/zh/post/a/) [blue](/zh/post/blue/) [suit](/zh/post/suit/) [with](/zh/post/with/) [a](/zh/post/a/) matching [tie](/zh/post/tie/)."
+   - 关联，联系。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [strong](/zh/post/strong/) [tie](/zh/post/tie/) [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) companies."
 
 - **动词** (v):
-   - 系，打结，如领带。例如: "[Can](/post/can/) [you](/post/you/) [help](/post/help/) [me](/post/me/) [tie](/post/tie/) [this](/post/this/) [tie](/post/tie/)?"
-   - 平局，不分胜负。例如: "[The](/post/the/) [game](/post/game/) ended [in](/post/in/) [a](/post/a/) [tie](/post/tie/)."
+   - 系，打结，如领带。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [help](/zh/post/help/) [me](/zh/post/me/) [tie](/zh/post/tie/) [this](/zh/post/this/) [tie](/zh/post/tie/)?"
+   - 平局，不分胜负。例如: "[The](/zh/post/the/) [game](/zh/post/game/) ended [in](/zh/post/in/) [a](/zh/post/a/) [tie](/zh/post/tie/)."
 
 ## 短语
-- "[tie](/post/tie/) [the](/post/the/) [knot](/post/knot/)" 指结婚。
-- "[in](/post/in/) [a](/post/a/) [tie](/post/tie/)" 表示平局或势均力敌的状态。
-- "[tie](/post/tie/) [something](/post/something/) [up](/post/up/)" 意为完成或解决某事。
+- "[tie](/zh/post/tie/) [the](/zh/post/the/) [knot](/zh/post/knot/)" 指结婚。
+- "[in](/zh/post/in/) [a](/zh/post/a/) [tie](/zh/post/tie/)" 表示平局或势均力敌的状态。
+- "[tie](/zh/post/tie/) [something](/zh/post/something/) [up](/zh/post/up/)" 意为完成或解决某事。
 
 ## 例句
-- 名词: "[He](/post/he/) chose [a](/post/a/) [red](/post/red/) [tie](/post/tie/) [to](/post/to/) [match](/post/match/) [his](/post/his/) wife's [dress](/post/dress/)."
-- 动词: "[The](/post/the/) [soccer](/post/soccer/) [match](/post/match/) ended [in](/post/in/) [a](/post/a/) [tie](/post/tie/), [with](/post/with/) [both](/post/both/) teams scoring [two](/post/two/) goals [each](/post/each/)."
+- 名词: "[He](/zh/post/he/) chose [a](/zh/post/a/) [red](/zh/post/red/) [tie](/zh/post/tie/) [to](/zh/post/to/) [match](/zh/post/match/) [his](/zh/post/his/) wife's [dress](/zh/post/dress/)."
+- 动词: "[The](/zh/post/the/) [soccer](/zh/post/soccer/) [match](/zh/post/match/) ended [in](/zh/post/in/) [a](/zh/post/a/) [tie](/zh/post/tie/), [with](/zh/post/with/) [both](/zh/post/both/) teams scoring [two](/zh/post/two/) goals [each](/zh/post/each/)."
 
 ## 同义词
-- [Knot](/post/knot/)
-- [Fasten](/post/fasten/)
-- [Bind](/post/bind/)
-- [Connect](/post/connect/)
-- [Link](/post/link/)
+- [Knot](/zh/post/knot/)
+- [Fasten](/zh/post/fasten/)
+- [Bind](/zh/post/bind/)
+- [Connect](/zh/post/connect/)
+- [Link](/zh/post/link/)

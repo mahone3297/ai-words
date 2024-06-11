@@ -7,26 +7,26 @@ description = '[fɔːθ] num.第四，四分之一'
 keywords = ['ai words', 'fourth']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɔːrθ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Denoting [a](/en/post/a/) numerical [position](/en/post/position/) [in](/en/post/in/) [a](/en/post/a/) [sequence](/en/post/sequence/), coming [after](/en/post/after/) [third](/en/post/third/) [and](/en/post/and/) [before](/en/post/before/) [fifth](/en/post/fifth/); [being](/en/post/being/) [one](/en/post/one/) [of](/en/post/of/) [four](/en/post/four/) [equal](/en/post/equal/) parts [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [fourth](/en/post/fourth/) [finger](/en/post/finger/) [on](/en/post/on/) [your](/en/post/your/) [hand](/en/post/hand/)."
-- **Numeral**: [The](/en/post/the/) [number](/en/post/number/) [that](/en/post/that/) is [one](/en/post/one/) [more](/en/post/more/) [than](/en/post/than/) [three](/en/post/three/); 4. [Example](/en/post/example/): "We're [meeting](/en/post/meeting/) [on](/en/post/on/) [the](/en/post/the/) [fourth](/en/post/fourth/) [floor](/en/post/floor/)."
-- **Ordinal [Adjective](/en/post/adjective/)**: Indicating [the](/en/post/the/) [position](/en/post/position/) [of](/en/post/of/) an [item](/en/post/item/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) [sequence](/en/post/sequence/), typically [in](/en/post/in/) dates [or](/en/post/or/) lists. [Example](/en/post/example/): "[She](/en/post/she/) won [the](/en/post/the/) [gold](/en/post/gold/) [medal](/en/post/medal/) [in](/en/post/in/) [her](/en/post/her/) [fourth](/en/post/fourth/) [attempt](/en/post/attempt/)."
+- **[Adjective](/post/adjective/)**: Denoting [a](/post/a/) numerical [position](/post/position/) [in](/post/in/) [a](/post/a/) [sequence](/post/sequence/), coming [after](/post/after/) [third](/post/third/) [and](/post/and/) [before](/post/before/) [fifth](/post/fifth/); [being](/post/being/) [one](/post/one/) [of](/post/of/) [four](/post/four/) [equal](/post/equal/) parts [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [fourth](/post/fourth/) [finger](/post/finger/) [on](/post/on/) [your](/post/your/) [hand](/post/hand/)."
+- **Numeral**: [The](/post/the/) [number](/post/number/) [that](/post/that/) is [one](/post/one/) [more](/post/more/) [than](/post/than/) [three](/post/three/); 4. [Example](/post/example/): "We're [meeting](/post/meeting/) [on](/post/on/) [the](/post/the/) [fourth](/post/fourth/) [floor](/post/floor/)."
+- **Ordinal [Adjective](/post/adjective/)**: Indicating [the](/post/the/) [position](/post/position/) [of](/post/of/) an [item](/post/item/) [in](/post/in/) [a](/post/a/) [series](/post/series/) [or](/post/or/) [sequence](/post/sequence/), typically [in](/post/in/) dates [or](/post/or/) lists. [Example](/post/example/): "[She](/post/she/) won [the](/post/the/) [gold](/post/gold/) [medal](/post/medal/) [in](/post/in/) [her](/post/her/) [fourth](/post/fourth/) [attempt](/post/attempt/)."
 
 ## Phrases
-- "[Fourth](/en/post/fourth/) estate": Refers [to](/en/post/to/) [the](/en/post/the/) [press](/en/post/press/) [or](/en/post/or/) media [as](/en/post/as/) [a](/en/post/a/) societal [force](/en/post/force/) [or](/en/post/or/) [institution](/en/post/institution/).
-- "[Fourth](/en/post/fourth/) [dimension](/en/post/dimension/)": [In](/en/post/in/) [mathematics](/en/post/mathematics/) [and](/en/post/and/) [physics](/en/post/physics/), it's [a](/en/post/a/) [concept](/en/post/concept/) referring [to](/en/post/to/) [a](/en/post/a/) hypothetical [additional](/en/post/additional/) spatial [dimension](/en/post/dimension/) [beyond](/en/post/beyond/) [the](/en/post/the/) [familiar](/en/post/familiar/) [three](/en/post/three/) dimensions.
-- "[Fourth](/en/post/fourth/) [of](/en/post/of/) July": [A](/en/post/a/) [national](/en/post/national/) [holiday](/en/post/holiday/) [in](/en/post/in/) [the](/en/post/the/) United States commemorating [Independence](/en/post/independence/) [Day](/en/post/day/).
+- "[Fourth](/post/fourth/) estate": Refers [to](/post/to/) [the](/post/the/) [press](/post/press/) [or](/post/or/) media [as](/post/as/) [a](/post/a/) societal [force](/post/force/) [or](/post/or/) [institution](/post/institution/).
+- "[Fourth](/post/fourth/) [dimension](/post/dimension/)": [In](/post/in/) [mathematics](/post/mathematics/) [and](/post/and/) [physics](/post/physics/), it's [a](/post/a/) [concept](/post/concept/) referring [to](/post/to/) [a](/post/a/) hypothetical [additional](/post/additional/) spatial [dimension](/post/dimension/) [beyond](/post/beyond/) [the](/post/the/) [familiar](/post/familiar/) [three](/post/three/) dimensions.
+- "[Fourth](/post/fourth/) [of](/post/of/) July": [A](/post/a/) [national](/post/national/) [holiday](/post/holiday/) [in](/post/in/) [the](/post/the/) United States commemorating [Independence](/post/independence/) [Day](/post/day/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) is [the](/en/post/the/) [fourth](/en/post/fourth/) [time](/en/post/time/) she's called [today](/en/post/today/)."
-- **Numeral**: "[There](/en/post/there/) are [four](/en/post/four/) seasons [in](/en/post/in/) [a](/en/post/a/) [year](/en/post/year/), [and](/en/post/and/) [winter](/en/post/winter/) is [the](/en/post/the/) [fourth](/en/post/fourth/)."
-- **Ordinal [Adjective](/en/post/adjective/)**: "July 4th is written [as](/en/post/as/) [the](/en/post/the/) [fourth](/en/post/fourth/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [seventh](/en/post/seventh/) [month](/en/post/month/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) is [the](/post/the/) [fourth](/post/fourth/) [time](/post/time/) she's called [today](/post/today/)."
+- **Numeral**: "[There](/post/there/) are [four](/post/four/) seasons [in](/post/in/) [a](/post/a/) [year](/post/year/), [and](/post/and/) [winter](/post/winter/) is [the](/post/the/) [fourth](/post/fourth/)."
+- **Ordinal [Adjective](/post/adjective/)**: "July 4th is written [as](/post/as/) [the](/post/the/) [fourth](/post/fourth/) [day](/post/day/) [of](/post/of/) [the](/post/the/) [seventh](/post/seventh/) [month](/post/month/)."
 
 ## Synonyms
-- [Four](/en/post/four/)
+- [Four](/post/four/)
 - Fourthly
-- Quartile ([in](/en/post/in/) [some](/en/post/some/) [statistical](/en/post/statistical/) contexts)
-- [Fourth](/en/post/fourth/) [place](/en/post/place/) ([when](/en/post/when/) referring [to](/en/post/to/) positions [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/))
+- Quartile ([in](/post/in/) [some](/post/some/) [statistical](/post/statistical/) contexts)
+- [Fourth](/post/fourth/) [place](/post/place/) ([when](/post/when/) referring [to](/post/to/) positions [in](/post/in/) [a](/post/a/) [competition](/post/competition/))

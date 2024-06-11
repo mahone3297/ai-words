@@ -11,19 +11,19 @@ keywords = ['ai words', 'sick']
 /sɪk/
 
 ## 释义
-- **形容词**: 生病的，不适的。例如: "She's [feeling](/post/feeling/) [a](/post/a/) [bit](/post/bit/) [sick](/post/sick/) [today](/post/today/)."
-- **动词**: 使生病，使不适。例如: "[The](/post/the/) [bad](/post/bad/) [food](/post/food/) made [him](/post/him/) [sick](/post/sick/)."
+- **形容词**: 生病的，不适的。例如: "She's [feeling](/zh/post/feeling/) [a](/zh/post/a/) [bit](/zh/post/bit/) [sick](/zh/post/sick/) [today](/zh/post/today/)."
+- **动词**: 使生病，使不适。例如: "[The](/zh/post/the/) [bad](/zh/post/bad/) [food](/zh/post/food/) made [him](/zh/post/him/) [sick](/zh/post/sick/)."
 
 ## 短语
-- "[Sick](/post/sick/) [leave](/post/leave/)" 指因病请假。
-- "[Sick](/post/sick/) [to](/post/to/) one's [stomach](/post/stomach/)" 意为感到恶心或呕吐。
+- "[Sick](/zh/post/sick/) [leave](/zh/post/leave/)" 指因病请假。
+- "[Sick](/zh/post/sick/) [to](/zh/post/to/) one's [stomach](/zh/post/stomach/)" 意为感到恶心或呕吐。
 
 ## 例句
-- 形容词: "I [need](/post/need/) [to](/post/to/) [go](/post/go/) [home](/post/home/); I'm [feeling](/post/feeling/) [really](/post/really/) [sick](/post/sick/)."
-- 动词: "[The](/post/the/) [smell](/post/smell/) [of](/post/of/) [the](/post/the/) [paint](/post/paint/) was making [me](/post/me/) [sick](/post/sick/), [so](/post/so/) I had [to](/post/to/) [open](/post/open/) [a](/post/a/) [window](/post/window/)."
+- 形容词: "I [need](/zh/post/need/) [to](/zh/post/to/) [go](/zh/post/go/) [home](/zh/post/home/); I'm [feeling](/zh/post/feeling/) [really](/zh/post/really/) [sick](/zh/post/sick/)."
+- 动词: "[The](/zh/post/the/) [smell](/zh/post/smell/) [of](/zh/post/of/) [the](/zh/post/the/) [paint](/zh/post/paint/) was making [me](/zh/post/me/) [sick](/zh/post/sick/), [so](/zh/post/so/) I had [to](/zh/post/to/) [open](/zh/post/open/) [a](/zh/post/a/) [window](/zh/post/window/)."
 
 ## 同义词
-- [Ill](/post/ill/)
+- [Ill](/zh/post/ill/)
 - Unwell
 - Ailing
 - Sickly

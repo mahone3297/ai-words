@@ -7,26 +7,26 @@ description = '[iˈmædʒinəri] a.想象中的，假想的'
 keywords = ['ai words', 'imaginary']
 +++
 
-## [Word](/en/post/word/): [Imaginary](/en/post/imaginary/)
+## [Word](/post/word/): [Imaginary](/post/imaginary/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈmædʒɪnəri/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Existing [only](/en/post/only/) [in](/en/post/in/) [the](/en/post/the/) [mind](/en/post/mind/); [not](/en/post/not/) [real](/en/post/real/) [or](/en/post/or/) [actual](/en/post/actual/); created [by](/en/post/by/) [the](/en/post/the/) [imagination](/en/post/imagination/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) had an [imaginary](/en/post/imaginary/) [friend](/en/post/friend/) [who](/en/post/who/) accompanied [her](/en/post/her/) [everywhere](/en/post/everywhere/)."
+- **[Adjective](/post/adjective/)**: Existing [only](/post/only/) [in](/post/in/) [the](/post/the/) [mind](/post/mind/); [not](/post/not/) [real](/post/real/) [or](/post/or/) [actual](/post/actual/); created [by](/post/by/) [the](/post/the/) [imagination](/post/imagination/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [child](/post/child/) had an [imaginary](/post/imaginary/) [friend](/post/friend/) [who](/post/who/) accompanied [her](/post/her/) [everywhere](/post/everywhere/)."
   
-  > _Mathematical Definition_: [In](/en/post/in/) [mathematics](/en/post/mathematics/), [imaginary](/en/post/imaginary/) refers [to](/en/post/to/) [a](/en/post/a/) [number](/en/post/number/) [that](/en/post/that/) is [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [imaginary](/en/post/imaginary/) numbers [set](/en/post/set/), [which](/en/post/which/) includes [all](/en/post/all/) numbers [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) written [as](/en/post/as/) [a](/en/post/a/) [real](/en/post/real/) [number](/en/post/number/) multiplied [by](/en/post/by/) [the](/en/post/the/) [imaginary](/en/post/imaginary/) [unit](/en/post/unit/) 'i', [where](/en/post/where/) i² = -1. [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [complex](/en/post/complex/) numbers, [the](/en/post/the/) [square](/en/post/square/) [root](/en/post/root/) [of](/en/post/of/) -1 is an [imaginary](/en/post/imaginary/) [number](/en/post/number/)."
+  > _Mathematical Definition_: [In](/post/in/) [mathematics](/post/mathematics/), [imaginary](/post/imaginary/) refers [to](/post/to/) [a](/post/a/) [number](/post/number/) [that](/post/that/) is [part](/post/part/) [of](/post/of/) [the](/post/the/) [imaginary](/post/imaginary/) numbers [set](/post/set/), [which](/post/which/) includes [all](/post/all/) numbers [that](/post/that/) [can](/post/can/) [be](/post/be/) written [as](/post/as/) [a](/post/a/) [real](/post/real/) [number](/post/number/) multiplied [by](/post/by/) [the](/post/the/) [imaginary](/post/imaginary/) [unit](/post/unit/) 'i', [where](/post/where/) i² = -1. [For](/post/for/) [example](/post/example/): "[In](/post/in/) [complex](/post/complex/) numbers, [the](/post/the/) [square](/post/square/) [root](/post/root/) [of](/post/of/) -1 is an [imaginary](/post/imaginary/) [number](/post/number/)."
 
-- **[Noun](/en/post/noun/)**: ([plural](/en/post/plural/) imaginaries) [A](/en/post/a/) [quantity](/en/post/quantity/) [that](/en/post/that/) is represented [by](/en/post/by/) an [imaginary](/en/post/imaginary/) [number](/en/post/number/). [Example](/en/post/example/): "[In](/en/post/in/) [electrical](/en/post/electrical/) [engineering](/en/post/engineering/), [the](/en/post/the/) impedance [may](/en/post/may/) [have](/en/post/have/) [both](/en/post/both/) [real](/en/post/real/) [and](/en/post/and/) [imaginary](/en/post/imaginary/) components."
+- **[Noun](/post/noun/)**: ([plural](/post/plural/) imaginaries) [A](/post/a/) [quantity](/post/quantity/) [that](/post/that/) is represented [by](/post/by/) an [imaginary](/post/imaginary/) [number](/post/number/). [Example](/post/example/): "[In](/post/in/) [electrical](/post/electrical/) [engineering](/post/engineering/), [the](/post/the/) impedance [may](/post/may/) [have](/post/have/) [both](/post/both/) [real](/post/real/) [and](/post/and/) [imaginary](/post/imaginary/) components."
 
 ## Phrases
-- "[Imaginary](/en/post/imaginary/) [friend](/en/post/friend/)": [A](/en/post/a/) personification created [by](/en/post/by/) [a](/en/post/a/) child's [imagination](/en/post/imagination/) [that](/en/post/that/) [they](/en/post/they/) interact [with](/en/post/with/) [as](/en/post/as/) [if](/en/post/if/) [it](/en/post/it/) were [real](/en/post/real/).
-- "[Imaginary](/en/post/imaginary/) [line](/en/post/line/)": [A](/en/post/a/) [line](/en/post/line/) [that](/en/post/that/) exists [only](/en/post/only/) [in](/en/post/in/) [theory](/en/post/theory/) [or](/en/post/or/) [mental](/en/post/mental/) conception [rather](/en/post/rather/) [than](/en/post/than/) [in](/en/post/in/) [reality](/en/post/reality/).
-- "[Imaginary](/en/post/imaginary/) [part](/en/post/part/)": [In](/en/post/in/) [mathematics](/en/post/mathematics/), [this](/en/post/this/) refers [to](/en/post/to/) [the](/en/post/the/) non-real [component](/en/post/component/) [of](/en/post/of/) [a](/en/post/a/) [complex](/en/post/complex/) [number](/en/post/number/).
+- "[Imaginary](/post/imaginary/) [friend](/post/friend/)": [A](/post/a/) personification created [by](/post/by/) [a](/post/a/) child's [imagination](/post/imagination/) [that](/post/that/) [they](/post/they/) interact [with](/post/with/) [as](/post/as/) [if](/post/if/) [it](/post/it/) were [real](/post/real/).
+- "[Imaginary](/post/imaginary/) [line](/post/line/)": [A](/post/a/) [line](/post/line/) [that](/post/that/) exists [only](/post/only/) [in](/post/in/) [theory](/post/theory/) [or](/post/or/) [mental](/post/mental/) conception [rather](/post/rather/) [than](/post/than/) [in](/post/in/) [reality](/post/reality/).
+- "[Imaginary](/post/imaginary/) [part](/post/part/)": [In](/post/in/) [mathematics](/post/mathematics/), [this](/post/this/) refers [to](/post/to/) [the](/post/the/) non-real [component](/post/component/) [of](/post/of/) [a](/post/a/) [complex](/post/complex/) [number](/post/number/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) fears [about](/en/post/about/) monsters [under](/en/post/under/) [the](/en/post/the/) [bed](/en/post/bed/) stemmed [from](/en/post/from/) [his](/en/post/his/) overactive [imagination](/en/post/imagination/), making [them](/en/post/them/) [purely](/en/post/purely/) [imaginary](/en/post/imaginary/) threats."
-- **[Noun](/en/post/noun/) ([Mathematics](/en/post/mathematics/))**: "[When](/en/post/when/) solving [for](/en/post/for/) [the](/en/post/the/) roots [of](/en/post/of/) [a](/en/post/a/) quadratic [equation](/en/post/equation/), [one](/en/post/one/) [might](/en/post/might/) [find](/en/post/find/) [both](/en/post/both/) [real](/en/post/real/) [and](/en/post/and/) [imaginary](/en/post/imaginary/) roots."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) fears [about](/post/about/) monsters [under](/post/under/) [the](/post/the/) [bed](/post/bed/) stemmed [from](/post/from/) [his](/post/his/) overactive [imagination](/post/imagination/), making [them](/post/them/) [purely](/post/purely/) [imaginary](/post/imaginary/) threats."
+- **[Noun](/post/noun/) ([Mathematics](/post/mathematics/))**: "[When](/post/when/) solving [for](/post/for/) [the](/post/the/) roots [of](/post/of/) [a](/post/a/) quadratic [equation](/post/equation/), [one](/post/one/) [might](/post/might/) [find](/post/find/) [both](/post/both/) [real](/post/real/) [and](/post/and/) [imaginary](/post/imaginary/) roots."
 
 ## Synonyms
 - Fictitious
@@ -34,10 +34,10 @@ keywords = ['ai words', 'imaginary']
 - Unreal
 - Imagined
 - Conceptual
-- Visionary ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [being](/en/post/being/) [not](/en/post/not/) based [on](/en/post/on/) [reality](/en/post/reality/))
-- Hypothetical ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- Figurative ([in](/en/post/in/) [some](/en/post/some/) cases referring [to](/en/post/to/) [abstract](/en/post/abstract/) concepts)
+- Visionary ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [being](/post/being/) [not](/post/not/) based [on](/post/on/) [reality](/post/reality/))
+- Hypothetical ([in](/post/in/) [certain](/post/certain/) contexts)
+- Figurative ([in](/post/in/) [some](/post/some/) cases referring [to](/post/to/) [abstract](/post/abstract/) concepts)
 
-[For](/en/post/for/) [mathematical](/en/post/mathematical/) [usage](/en/post/usage/):
+[For](/post/for/) [mathematical](/post/mathematical/) [usage](/post/usage/):
 - Non-real
-- [Complex](/en/post/complex/) (referring [to](/en/post/to/) an [imaginary](/en/post/imaginary/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [complex](/en/post/complex/) [number](/en/post/number/))
+- [Complex](/post/complex/) (referring [to](/post/to/) an [imaginary](/post/imaginary/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [complex](/post/complex/) [number](/post/number/))

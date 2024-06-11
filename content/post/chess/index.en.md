@@ -7,29 +7,29 @@ description = '[t∫es] n.棋；国际象棋'
 keywords = ['ai words', 'chess']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /chɛʃ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [board](/en/post/board/) [game](/en/post/game/) played [by](/en/post/by/) [two](/en/post/two/) players, [each](/en/post/each/) controlling an [army](/en/post/army/) [of](/en/post/of/) pieces [that](/en/post/that/) [move](/en/post/move/) [and](/en/post/and/) [capture](/en/post/capture/) according [to](/en/post/to/) [specific](/en/post/specific/) rules, [often](/en/post/often/) symbolizing warfare. [Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[chess](/en/post/chess/))
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [play](/en/post/play/) [the](/en/post/the/) [game](/en/post/game/) [of](/en/post/of/) [chess](/en/post/chess/), [usually](/en/post/usually/) competitively [or](/en/post/or/) [for](/en/post/for/) [leisure](/en/post/leisure/). [Cambridge](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[chess](/en/post/chess/))
-- **[Noun](/en/post/noun/) (abbreviation)**: Abbreviation [of](/en/post/of/) "[chess](/en/post/chess/) [master](/en/post/master/)," [a](/en/post/a/) [person](/en/post/person/) [highly](/en/post/highly/) [skilled](/en/post/skilled/) [in](/en/post/in/) [the](/en/post/the/) [game](/en/post/game/). [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/chessmaster)
+- **[Noun](/post/noun/)**: [A](/post/a/) [board](/post/board/) [game](/post/game/) played [by](/post/by/) [two](/post/two/) players, [each](/post/each/) controlling an [army](/post/army/) [of](/post/of/) pieces [that](/post/that/) [move](/post/move/) [and](/post/and/) [capture](/post/capture/) according [to](/post/to/) [specific](/post/specific/) rules, [often](/post/often/) symbolizing warfare. [Oxford](https://en.oxforddictionaries.com/[definition](/post/definition/)/[chess](/post/chess/))
+- **[Verb](/post/verb/)**: [To](/post/to/) [play](/post/play/) [the](/post/the/) [game](/post/game/) [of](/post/of/) [chess](/post/chess/), [usually](/post/usually/) competitively [or](/post/or/) [for](/post/for/) [leisure](/post/leisure/). [Cambridge](https://[dictionary](/post/dictionary/).cambridge.org/[dictionary](/post/dictionary/)/english/[chess](/post/chess/))
+- **[Noun](/post/noun/) (abbreviation)**: Abbreviation [of](/post/of/) "[chess](/post/chess/) [master](/post/master/)," [a](/post/a/) [person](/post/person/) [highly](/post/highly/) [skilled](/post/skilled/) [in](/post/in/) [the](/post/the/) [game](/post/game/). [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/chessmaster)
 
 ## Phrases
-- "[Play](/en/post/play/) [a](/en/post/a/) [game](/en/post/game/) [of](/en/post/of/) [chess](/en/post/chess/)" [to](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [match](/en/post/match/) [of](/en/post/of/) [the](/en/post/the/) [board](/en/post/board/) [game](/en/post/game/).
-- "[Chess](/en/post/chess/) enthusiasts" refers [to](/en/post/to/) [people](/en/post/people/) [who](/en/post/who/) are passionate [about](/en/post/about/) [the](/en/post/the/) [game](/en/post/game/).
-- "Checkmate" is [the](/en/post/the/) winning [condition](/en/post/condition/) [in](/en/post/in/) [chess](/en/post/chess/).
+- "[Play](/post/play/) [a](/post/a/) [game](/post/game/) [of](/post/of/) [chess](/post/chess/)" [to](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [match](/post/match/) [of](/post/of/) [the](/post/the/) [board](/post/board/) [game](/post/game/).
+- "[Chess](/post/chess/) enthusiasts" refers [to](/post/to/) [people](/post/people/) [who](/post/who/) are passionate [about](/post/about/) [the](/post/the/) [game](/post/game/).
+- "Checkmate" is [the](/post/the/) winning [condition](/post/condition/) [in](/post/in/) [chess](/post/chess/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) spent [his](/en/post/his/) weekends improving [his](/en/post/his/) [chess](/en/post/chess/) skills [at](/en/post/at/) [the](/en/post/the/) [local](/en/post/local/) [club](/en/post/club/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [they](/en/post/they/) enjoyed playing [a](/en/post/a/) [few](/en/post/few/) rounds [of](/en/post/of/) [chess](/en/post/chess/) [together](/en/post/together/)."
-- **[Noun](/en/post/noun/) (abbreviation)**: "John became [a](/en/post/a/) [chess](/en/post/chess/) [master](/en/post/master/) [at](/en/post/at/) [the](/en/post/the/) [age](/en/post/age/) [of](/en/post/of/) 15."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) spent [his](/post/his/) weekends improving [his](/post/his/) [chess](/post/chess/) skills [at](/post/at/) [the](/post/the/) [local](/post/local/) [club](/post/club/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [they](/post/they/) enjoyed playing [a](/post/a/) [few](/post/few/) rounds [of](/post/of/) [chess](/post/chess/) [together](/post/together/)."
+- **[Noun](/post/noun/) (abbreviation)**: "John became [a](/post/a/) [chess](/post/chess/) [master](/post/master/) [at](/post/at/) [the](/post/the/) [age](/post/age/) [of](/post/of/) 15."
 
 ## Synonyms
-- Chessboard [game](/en/post/game/)
+- Chessboard [game](/post/game/)
 -西洋棋
-- [Chess](/en/post/chess/) [piece](/en/post/piece/) [movement](/en/post/movement/)
-- Strategical [board](/en/post/board/) [game](/en/post/game/)
+- [Chess](/post/chess/) [piece](/post/piece/) [movement](/post/movement/)
+- Strategical [board](/post/board/) [game](/post/game/)
 
 ## Etymology
-[The](/en/post/the/) [word](/en/post/word/) "[chess](/en/post/chess/)" comes [from](/en/post/from/) [the](/en/post/the/) Persian [term](/en/post/term/) "shatranj," [which](/en/post/which/) [eventually](/en/post/eventually/) evolved [into](/en/post/into/) [the](/en/post/the/) French "jeu de échecs" [and](/en/post/and/) [the](/en/post/the/) English "[chess](/en/post/chess/)."
+[The](/post/the/) [word](/post/word/) "[chess](/post/chess/)" comes [from](/post/from/) [the](/post/the/) Persian [term](/post/term/) "shatranj," [which](/post/which/) [eventually](/post/eventually/) evolved [into](/post/into/) [the](/post/the/) French "jeu de échecs" [and](/post/and/) [the](/post/the/) English "[chess](/post/chess/)."

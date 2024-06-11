@@ -7,30 +7,30 @@ description = '[ˈməːsi] n.仁慈，慈悲，恩惠'
 keywords = ['ai words', 'mercy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɜːrsi/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: Compassion, [kindness](/en/post/kindness/), [or](/en/post/or/) forgiveness shown toward [someone](/en/post/someone/) [whom](/en/post/whom/) [it](/en/post/it/) is [within](/en/post/within/) one's [power](/en/post/power/) [to](/en/post/to/) [punish](/en/post/punish/) [or](/en/post/or/) [harm](/en/post/harm/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [king](/en/post/king/) granted [mercy](/en/post/mercy/) [to](/en/post/to/) [the](/en/post/the/) rebels [and](/en/post/and/) spared [their](/en/post/their/) lives."
-  - [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) compassionate, [kind](/en/post/kind/), [and](/en/post/and/) forgiving. [Example](/en/post/example/): "[Mercy](/en/post/mercy/) is [a](/en/post/a/) [virtue](/en/post/virtue/) [that](/en/post/that/) [should](/en/post/should/) [guide](/en/post/guide/) [our](/en/post/our/) actions towards others."
-- **[Verb](/en/post/verb/) ([used](/en/post/used/) [in](/en/post/in/) archaic [or](/en/post/or/) [religious](/en/post/religious/) contexts)**: [To](/en/post/to/) [have](/en/post/have/) [mercy](/en/post/mercy/) [on](/en/post/on/); [to](/en/post/to/) [forgive](/en/post/forgive/) [or](/en/post/or/) [spare](/en/post/spare/). [Example](/en/post/example/): "[May](/en/post/may/) God [have](/en/post/have/) [mercy](/en/post/mercy/) [upon](/en/post/upon/) [your](/en/post/your/) [soul](/en/post/soul/)."
+- **[Noun](/post/noun/)**: Compassion, [kindness](/post/kindness/), [or](/post/or/) forgiveness shown toward [someone](/post/someone/) [whom](/post/whom/) [it](/post/it/) is [within](/post/within/) one's [power](/post/power/) [to](/post/to/) [punish](/post/punish/) [or](/post/or/) [harm](/post/harm/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [king](/post/king/) granted [mercy](/post/mercy/) [to](/post/to/) [the](/post/the/) rebels [and](/post/and/) spared [their](/post/their/) lives."
+  - [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) compassionate, [kind](/post/kind/), [and](/post/and/) forgiving. [Example](/post/example/): "[Mercy](/post/mercy/) is [a](/post/a/) [virtue](/post/virtue/) [that](/post/that/) [should](/post/should/) [guide](/post/guide/) [our](/post/our/) actions towards others."
+- **[Verb](/post/verb/) ([used](/post/used/) [in](/post/in/) archaic [or](/post/or/) [religious](/post/religious/) contexts)**: [To](/post/to/) [have](/post/have/) [mercy](/post/mercy/) [on](/post/on/); [to](/post/to/) [forgive](/post/forgive/) [or](/post/or/) [spare](/post/spare/). [Example](/post/example/): "[May](/post/may/) God [have](/post/have/) [mercy](/post/mercy/) [upon](/post/upon/) [your](/post/your/) [soul](/post/soul/)."
 
 ## Phrases
-- "[To](/en/post/to/) [show](/en/post/show/) [mercy](/en/post/mercy/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) lenient [or](/en/post/or/) compassionate towards [someone](/en/post/someone/) [who](/en/post/who/) deserves [punishment](/en/post/punishment/) [or](/en/post/or/) [harm](/en/post/harm/).
-- "[Mercy](/en/post/mercy/) killing" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) painlessly [ending](/en/post/ending/) someone's [life](/en/post/life/), [usually](/en/post/usually/) [to](/en/post/to/) [relieve](/en/post/relieve/) suffering [from](/en/post/from/) an incurable [illness](/en/post/illness/) [or](/en/post/or/) [injury](/en/post/injury/).
-- "[Mercy](/en/post/mercy/) [rule](/en/post/rule/)" is [a](/en/post/a/) sports [term](/en/post/term/) [where](/en/post/where/) [a](/en/post/a/) [game](/en/post/game/) ends [early](/en/post/early/) [if](/en/post/if/) [one](/en/post/one/) [team](/en/post/team/) has an insurmountable [lead](/en/post/lead/), sparing [the](/en/post/the/) losing [team](/en/post/team/) [further](/en/post/further/) humiliation.
-- "[At](/en/post/at/) someone's [mercy](/en/post/mercy/)" implies [being](/en/post/being/) vulnerable [to](/en/post/to/) [another](/en/post/another/) person's whim [or](/en/post/or/) [decision](/en/post/decision/), [often](/en/post/often/) [with](/en/post/with/) [negative](/en/post/negative/) connotations. [Example](/en/post/example/): "[After](/en/post/after/) [their](/en/post/their/) [ship](/en/post/ship/) sank, [they](/en/post/they/) were [at](/en/post/at/) [the](/en/post/the/) [mercy](/en/post/mercy/) [of](/en/post/of/) [the](/en/post/the/) [ocean](/en/post/ocean/) currents."
+- "[To](/post/to/) [show](/post/show/) [mercy](/post/mercy/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) lenient [or](/post/or/) compassionate towards [someone](/post/someone/) [who](/post/who/) deserves [punishment](/post/punishment/) [or](/post/or/) [harm](/post/harm/).
+- "[Mercy](/post/mercy/) killing" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) painlessly [ending](/post/ending/) someone's [life](/post/life/), [usually](/post/usually/) [to](/post/to/) [relieve](/post/relieve/) suffering [from](/post/from/) an incurable [illness](/post/illness/) [or](/post/or/) [injury](/post/injury/).
+- "[Mercy](/post/mercy/) [rule](/post/rule/)" is [a](/post/a/) sports [term](/post/term/) [where](/post/where/) [a](/post/a/) [game](/post/game/) ends [early](/post/early/) [if](/post/if/) [one](/post/one/) [team](/post/team/) has an insurmountable [lead](/post/lead/), sparing [the](/post/the/) losing [team](/post/team/) [further](/post/further/) humiliation.
+- "[At](/post/at/) someone's [mercy](/post/mercy/)" implies [being](/post/being/) vulnerable [to](/post/to/) [another](/post/another/) person's whim [or](/post/or/) [decision](/post/decision/), [often](/post/often/) [with](/post/with/) [negative](/post/negative/) connotations. [Example](/post/example/): "[After](/post/after/) [their](/post/their/) [ship](/post/ship/) sank, [they](/post/they/) were [at](/post/at/) [the](/post/the/) [mercy](/post/mercy/) [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/) currents."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [judge](/en/post/judge/) granted [mercy](/en/post/mercy/) [to](/en/post/to/) [the](/en/post/the/) defendant [and](/en/post/and/) reduced [his](/en/post/his/) [sentence](/en/post/sentence/)."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) [ancient](/en/post/ancient/) times, [the](/en/post/the/) [ruler](/en/post/ruler/) [would](/en/post/would/) mercifully [pardon](/en/post/pardon/) prisoners [on](/en/post/on/) [certain](/en/post/certain/) holidays."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [judge](/post/judge/) granted [mercy](/post/mercy/) [to](/post/to/) [the](/post/the/) defendant [and](/post/and/) reduced [his](/post/his/) [sentence](/post/sentence/)."
+- **[Verb](/post/verb/)**: "[In](/post/in/) [ancient](/post/ancient/) times, [the](/post/the/) [ruler](/post/ruler/) [would](/post/would/) mercifully [pardon](/post/pardon/) prisoners [on](/post/on/) [certain](/post/certain/) holidays."
 
 ## Synonyms
-- [Pity](/en/post/pity/)
+- [Pity](/post/pity/)
 - Clemency
 - Forgiveness
 - Leniency
-- [Kindness](/en/post/kindness/)
-- [Charity](/en/post/charity/)
+- [Kindness](/post/kindness/)
+- [Charity](/post/charity/)
 - Compassion
 - Indulgence

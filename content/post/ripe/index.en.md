@@ -7,27 +7,27 @@ description = '[raip] a.熟的；时机成熟的'
 keywords = ['ai words', 'ripe']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪp/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**:成熟 (mùshú) - Refers [to](/en/post/to/) [a](/en/post/a/) [fruit](/en/post/fruit/) [or](/en/post/or/) [vegetable](/en/post/vegetable/) [that](/en/post/that/) has reached [its](/en/post/its/) [full](/en/post/full/) [state](/en/post/state/) [of](/en/post/of/) [development](/en/post/development/), typically indicating [it](/en/post/it/) is [ready](/en/post/ready/) [to](/en/post/to/) [be](/en/post/be/) picked [or](/en/post/or/) eaten. 
-- **[Verb](/en/post/verb/)**: ([verb](/en/post/verb/), transitive) [to](/en/post/to/) [mature](/en/post/mature/); [to](/en/post/to/) [reach](/en/post/reach/) [a](/en/post/a/) [stage](/en/post/stage/) [of](/en/post/of/) readiness [or](/en/post/or/) completion. 
-- **[Adverb](/en/post/adverb/)**: fully grown [or](/en/post/or/) developed; [at](/en/post/at/) [the](/en/post/the/) [right](/en/post/right/) [stage](/en/post/stage/) [for](/en/post/for/) [something](/en/post/something/).
+- **[Adjective](/post/adjective/)**:成熟 (mùshú) - Refers [to](/post/to/) [a](/post/a/) [fruit](/post/fruit/) [or](/post/or/) [vegetable](/post/vegetable/) [that](/post/that/) has reached [its](/post/its/) [full](/post/full/) [state](/post/state/) [of](/post/of/) [development](/post/development/), typically indicating [it](/post/it/) is [ready](/post/ready/) [to](/post/to/) [be](/post/be/) picked [or](/post/or/) eaten. 
+- **[Verb](/post/verb/)**: ([verb](/post/verb/), transitive) [to](/post/to/) [mature](/post/mature/); [to](/post/to/) [reach](/post/reach/) [a](/post/a/) [stage](/post/stage/) [of](/post/of/) readiness [or](/post/or/) completion. 
+- **[Adverb](/post/adverb/)**: fully grown [or](/post/or/) developed; [at](/post/at/) [the](/post/the/) [right](/post/right/) [stage](/post/stage/) [for](/post/for/) [something](/post/something/).
 
 ## Phrases
-- "[The](/en/post/the/) [fruit](/en/post/fruit/) is [ripe](/en/post/ripe/) [for](/en/post/for/) picking."
-- "[The](/en/post/the/) [summer](/en/post/summer/) is [the](/en/post/the/) [time](/en/post/time/) [when](/en/post/when/) fruits [become](/en/post/become/) [ripe](/en/post/ripe/)."
-- "[Ripe](/en/post/ripe/) tomatoes [make](/en/post/make/) [the](/en/post/the/) [best](/en/post/best/) sauces."
+- "[The](/post/the/) [fruit](/post/fruit/) is [ripe](/post/ripe/) [for](/post/for/) picking."
+- "[The](/post/the/) [summer](/post/summer/) is [the](/post/the/) [time](/post/time/) [when](/post/when/) fruits [become](/post/become/) [ripe](/post/ripe/)."
+- "[Ripe](/post/ripe/) tomatoes [make](/post/make/) [the](/post/the/) [best](/post/best/) sauces."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) tomatoes [on](/en/post/on/) [the](/en/post/the/) [vine](/en/post/vine/) are looking [very](/en/post/very/) [ripe](/en/post/ripe/) [this](/en/post/this/) [year](/en/post/year/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [several](/en/post/several/) months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [her](/en/post/her/) [research](/en/post/research/) [project](/en/post/project/) is [finally](/en/post/finally/) [ripe](/en/post/ripe/) [for](/en/post/for/) submission."
-- **[Adverb](/en/post/adverb/)**: "She's been working [on](/en/post/on/) [her](/en/post/her/) skills [for](/en/post/for/) years, [and](/en/post/and/) [now](/en/post/now/) she's [ripe](/en/post/ripe/) [to](/en/post/to/) [compete](/en/post/compete/) [at](/en/post/at/) [a](/en/post/a/) higher [level](/en/post/level/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) tomatoes [on](/post/on/) [the](/post/the/) [vine](/post/vine/) are looking [very](/post/very/) [ripe](/post/ripe/) [this](/post/this/) [year](/post/year/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [several](/post/several/) months [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [her](/post/her/) [research](/post/research/) [project](/post/project/) is [finally](/post/finally/) [ripe](/post/ripe/) [for](/post/for/) submission."
+- **[Adverb](/post/adverb/)**: "She's been working [on](/post/on/) [her](/post/her/) skills [for](/post/for/) years, [and](/post/and/) [now](/post/now/) she's [ripe](/post/ripe/) [to](/post/to/) [compete](/post/compete/) [at](/post/at/) [a](/post/a/) higher [level](/post/level/)."
 
 ## Synonyms
-- [Mature](/en/post/mature/)
-- [Ready](/en/post/ready/)
+- [Mature](/post/mature/)
+- [Ready](/post/ready/)
 - Fully grown
-- [Perfectly](/en/post/perfectly/) developed
-- [Advanced](/en/post/advanced/)
+- [Perfectly](/post/perfectly/) developed
+- [Advanced](/post/advanced/)

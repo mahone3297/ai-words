@@ -7,37 +7,37 @@ description = '[sjuːt] n.起拆，诉讼 vt.适合'
 keywords = ['ai words', 'suit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /suːt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [suit](/en/post/suit/)** (n): [A](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) [clothing](/en/post/clothing/), typically consisting [of](/en/post/of/) [a](/en/post/a/) [jacket](/en/post/jacket/) [and](/en/post/and/) [trousers](/en/post/trousers/) [or](/en/post/or/) [a](/en/post/a/) [dress](/en/post/dress/), worn [together](/en/post/together/) [for](/en/post/for/) [formal](/en/post/formal/) [or](/en/post/or/) [professional](/en/post/professional/) occasions. [Example](/en/post/example/): "[He](/en/post/he/) wore [a](/en/post/a/) well-tailored [suit](/en/post/suit/) [to](/en/post/to/) [the](/en/post/the/) [job](/en/post/job/) [interview](/en/post/interview/)."
-- **[Suit](/en/post/suit/) [of](/en/post/of/) [clothes](/en/post/clothes/)** (n): [A](/en/post/a/) coordinated outfit [for](/en/post/for/) men, [often](/en/post/often/) including [a](/en/post/a/) matching [jacket](/en/post/jacket/) [and](/en/post/and/) pants. [Example](/en/post/example/): "[The](/en/post/the/) [suit](/en/post/suit/) was [a](/en/post/a/) [perfect](/en/post/perfect/) [match](/en/post/match/) [for](/en/post/for/) [his](/en/post/his/) [wedding](/en/post/wedding/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [suit](/post/suit/)** (n): [A](/post/a/) [set](/post/set/) [of](/post/of/) [clothing](/post/clothing/), typically consisting [of](/post/of/) [a](/post/a/) [jacket](/post/jacket/) [and](/post/and/) [trousers](/post/trousers/) [or](/post/or/) [a](/post/a/) [dress](/post/dress/), worn [together](/post/together/) [for](/post/for/) [formal](/post/formal/) [or](/post/or/) [professional](/post/professional/) occasions. [Example](/post/example/): "[He](/post/he/) wore [a](/post/a/) well-tailored [suit](/post/suit/) [to](/post/to/) [the](/post/the/) [job](/post/job/) [interview](/post/interview/)."
+- **[Suit](/post/suit/) [of](/post/of/) [clothes](/post/clothes/)** (n): [A](/post/a/) coordinated outfit [for](/post/for/) men, [often](/post/often/) including [a](/post/a/) matching [jacket](/post/jacket/) [and](/post/and/) pants. [Example](/post/example/): "[The](/post/the/) [suit](/post/suit/) was [a](/post/a/) [perfect](/post/perfect/) [match](/post/match/) [for](/post/for/) [his](/post/his/) [wedding](/post/wedding/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [suit](/en/post/suit/)** (v): [To](/en/post/to/) [be](/en/post/be/) [suitable](/en/post/suitable/) [or](/en/post/or/) [appropriate](/en/post/appropriate/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/) [or](/en/post/or/) [situation](/en/post/situation/). [Example](/en/post/example/): "[This](/en/post/this/) [job](/en/post/job/) requires [a](/en/post/a/) [strong](/en/post/strong/) [work](/en/post/work/) ethic, [which](/en/post/which/) suits [her](/en/post/her/) personality."
-- **[To](/en/post/to/) [fit](/en/post/fit/)** (v, transitive): [To](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [correct](/en/post/correct/) [size](/en/post/size/) [or](/en/post/or/) [shape](/en/post/shape/) [for](/en/post/for/) [someone](/en/post/someone/), [especially](/en/post/especially/) [when](/en/post/when/) referring [to](/en/post/to/) [clothing](/en/post/clothing/). [Example](/en/post/example/): "[These](/en/post/these/) shoes [suit](/en/post/suit/) [her](/en/post/her/) feet [perfectly](/en/post/perfectly/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [suit](/post/suit/)** (v): [To](/post/to/) [be](/post/be/) [suitable](/post/suitable/) [or](/post/or/) [appropriate](/post/appropriate/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/) [or](/post/or/) [situation](/post/situation/). [Example](/post/example/): "[This](/post/this/) [job](/post/job/) requires [a](/post/a/) [strong](/post/strong/) [work](/post/work/) ethic, [which](/post/which/) suits [her](/post/her/) personality."
+- **[To](/post/to/) [fit](/post/fit/)** (v, transitive): [To](/post/to/) [be](/post/be/) [the](/post/the/) [correct](/post/correct/) [size](/post/size/) [or](/post/or/) [shape](/post/shape/) [for](/post/for/) [someone](/post/someone/), [especially](/post/especially/) [when](/post/when/) referring [to](/post/to/) [clothing](/post/clothing/). [Example](/post/example/): "[These](/post/these/) shoes [suit](/post/suit/) [her](/post/her/) feet [perfectly](/post/perfectly/)."
 
 ## Phrases
-- "[Suit](/en/post/suit/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) [get](/en/post/get/) [ready](/en/post/ready/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [activity](/en/post/activity/), [often](/en/post/often/) implying dressing formally [or](/en/post/or/) appropriately.
-- "[It](/en/post/it/) doesn't [suit](/en/post/suit/) [me](/en/post/me/)" expresses [that](/en/post/that/) [something](/en/post/something/) is [not](/en/post/not/) [suitable](/en/post/suitable/) [or](/en/post/or/) [comfortable](/en/post/comfortable/) [for](/en/post/for/) an [individual](/en/post/individual/).
-- "[A](/en/post/a/) [suit](/en/post/suit/) [and](/en/post/and/) [tie](/en/post/tie/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [for](/en/post/for/) [formal](/en/post/formal/) attire.
+- "[Suit](/post/suit/) [up](/post/up/)" [means](/post/means/) [to](/post/to/) [get](/post/get/) [ready](/post/ready/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [activity](/post/activity/), [often](/post/often/) implying dressing formally [or](/post/or/) appropriately.
+- "[It](/post/it/) doesn't [suit](/post/suit/) [me](/post/me/)" expresses [that](/post/that/) [something](/post/something/) is [not](/post/not/) [suitable](/post/suitable/) [or](/post/or/) [comfortable](/post/comfortable/) [for](/post/for/) an [individual](/post/individual/).
+- "[A](/post/a/) [suit](/post/suit/) [and](/post/and/) [tie](/post/tie/)" is [a](/post/a/) colloquial [expression](/post/expression/) [for](/post/for/) [formal](/post/formal/) attire.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) wore [a](/en/post/a/) classic [black](/en/post/black/) [suit](/en/post/suit/) [for](/en/post/for/) [the](/en/post/the/) [business](/en/post/business/) [meeting](/en/post/meeting/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [climate](/en/post/climate/) [here](/en/post/here/) doesn't [suit](/en/post/suit/) [my](/en/post/my/) [tropical](/en/post/tropical/) wardrobe."
-- **Transitive [verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) [haircut](/en/post/haircut/) suits [you](/en/post/you/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) wore [a](/post/a/) classic [black](/post/black/) [suit](/post/suit/) [for](/post/for/) [the](/post/the/) [business](/post/business/) [meeting](/post/meeting/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [climate](/post/climate/) [here](/post/here/) doesn't [suit](/post/suit/) [my](/post/my/) [tropical](/post/tropical/) wardrobe."
+- **Transitive [verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) [haircut](/post/haircut/) suits [you](/post/you/)."
 
 ## Synonyms
-- [Fit](/en/post/fit/)
-- [Match](/en/post/match/)
-- [Coordinate](/en/post/coordinate/)
-- [Accommodate](/en/post/accommodate/)
-- [Be](/en/post/be/) [appropriate](/en/post/appropriate/) [for](/en/post/for/)
+- [Fit](/post/fit/)
+- [Match](/post/match/)
+- [Coordinate](/post/coordinate/)
+- [Accommodate](/post/accommodate/)
+- [Be](/post/be/) [appropriate](/post/appropriate/) [for](/post/for/)
 
 ## Antonyms
-- [Disagree](/en/post/disagree/)
+- [Disagree](/post/disagree/)
 - Clash
 - Incongruous
 - Unsuited

@@ -7,28 +7,28 @@ description = '[ˈiŋgli∫mən] n.英国男子'
 keywords = ['ai words', 'Englishman']
 +++
 
-## [Word](/en/post/word/): Englishman
+## [Word](/post/word/): Englishman
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪŋɡlɪʃmæn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [man](/en/post/man/) [who](/en/post/who/) is [a](/en/post/a/) [native](/en/post/native/) [or](/en/post/or/) [citizen](/en/post/citizen/) [of](/en/post/of/) England, [or](/en/post/or/) [of](/en/post/of/) English descent. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/) [whose](/en/post/whose/) cultural [background](/en/post/background/) is [primarily](/en/post/primarily/) English.
+- **[Noun](/post/noun/)**: [A](/post/a/) [man](/post/man/) [who](/post/who/) is [a](/post/a/) [native](/post/native/) [or](/post/or/) [citizen](/post/citizen/) [of](/post/of/) England, [or](/post/or/) [of](/post/of/) English descent. [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [person](/post/person/) [whose](/post/whose/) cultural [background](/post/background/) is [primarily](/post/primarily/) English.
 
 ### Examples
-- *[Noun](/en/post/noun/)*: "[The](/en/post/the/) Englishman was [proud](/en/post/proud/) [of](/en/post/of/) [his](/en/post/his/) country's [history](/en/post/history/) [and](/en/post/and/) traditions."
-- "[He](/en/post/he/) spoke [with](/en/post/with/) [a](/en/post/a/) distinctively English [accent](/en/post/accent/); [clearly](/en/post/clearly/), [he](/en/post/he/) was an Englishman [through](/en/post/through/) [and](/en/post/and/) [through](/en/post/through/)."
+- *[Noun](/post/noun/)*: "[The](/post/the/) Englishman was [proud](/post/proud/) [of](/post/of/) [his](/post/his/) country's [history](/post/history/) [and](/post/and/) traditions."
+- "[He](/post/he/) spoke [with](/post/with/) [a](/post/a/) distinctively English [accent](/post/accent/); [clearly](/post/clearly/), [he](/post/he/) was an Englishman [through](/post/through/) [and](/post/and/) [through](/post/through/)."
 
 ## Phrases
-- "[A](/en/post/a/) [true](/en/post/true/) Englishman": [This](/en/post/this/) [expression](/en/post/expression/) is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/) embodying [typical](/en/post/typical/) English characteristics [or](/en/post/or/) values.
-- "[Rule](/en/post/rule/) Britannia, Britannia [rule](/en/post/rule/) [the](/en/post/the/) waves; Britons [never](/en/post/never/), [never](/en/post/never/), [never](/en/post/never/) [shall](/en/post/shall/) [be](/en/post/be/) slaves" - [This](/en/post/this/) [line](/en/post/line/) [from](/en/post/from/) [a](/en/post/a/) British patriotic [song](/en/post/song/) [often](/en/post/often/) characterizes [the](/en/post/the/) [spirit](/en/post/spirit/) [of](/en/post/of/) English nationalism.
+- "[A](/post/a/) [true](/post/true/) Englishman": [This](/post/this/) [expression](/post/expression/) is [often](/post/often/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [someone](/post/someone/) embodying [typical](/post/typical/) English characteristics [or](/post/or/) values.
+- "[Rule](/post/rule/) Britannia, Britannia [rule](/post/rule/) [the](/post/the/) waves; Britons [never](/post/never/), [never](/post/never/), [never](/post/never/) [shall](/post/shall/) [be](/post/be/) slaves" - [This](/post/this/) [line](/post/line/) [from](/post/from/) [a](/post/a/) British patriotic [song](/post/song/) [often](/post/often/) characterizes [the](/post/the/) [spirit](/post/spirit/) [of](/post/of/) English nationalism.
 
-## [Example](/en/post/example/) Sentences
-- *[Noun](/en/post/noun/)*: "[The](/en/post/the/) Englishman wore [his](/en/post/his/) tweed [jacket](/en/post/jacket/) [and](/en/post/and/) drank [his](/en/post/his/) [tea](/en/post/tea/) [with](/en/post/with/) [milk](/en/post/milk/), embodying stereotypical English customs."
-- "[Amongst](/en/post/amongst/) [the](/en/post/the/) [international](/en/post/international/) travelers, [the](/en/post/the/) Englishman stood [out](/en/post/out/) [with](/en/post/with/) [his](/en/post/his/) [red](/en/post/red/) double-decker [bus](/en/post/bus/) keychain [and](/en/post/and/) [Union](/en/post/union/) Jack [umbrella](/en/post/umbrella/)."
+## [Example](/post/example/) Sentences
+- *[Noun](/post/noun/)*: "[The](/post/the/) Englishman wore [his](/post/his/) tweed [jacket](/post/jacket/) [and](/post/and/) drank [his](/post/his/) [tea](/post/tea/) [with](/post/with/) [milk](/post/milk/), embodying stereotypical English customs."
+- "[Amongst](/post/amongst/) [the](/post/the/) [international](/post/international/) travelers, [the](/post/the/) Englishman stood [out](/post/out/) [with](/post/with/) [his](/post/his/) [red](/post/red/) double-decker [bus](/post/bus/) keychain [and](/post/and/) [Union](/post/union/) Jack [umbrella](/post/umbrella/)."
 
 ## Synonyms
 - Englisher (informal)
-- Briton ([more](/en/post/more/) inclusive, referring [to](/en/post/to/) [all](/en/post/all/) [people](/en/post/people/) [from](/en/post/from/) [Great](/en/post/great/) Britain)
-- Anglo-Saxon (historically [used](/en/post/used/), referring [to](/en/post/to/) [people](/en/post/people/) [of](/en/post/of/) Germanic [origin](/en/post/origin/) [who](/en/post/who/) settled [in](/en/post/in/) England)
-- English [national](/en/post/national/) ([formal](/en/post/formal/))
+- Briton ([more](/post/more/) inclusive, referring [to](/post/to/) [all](/post/all/) [people](/post/people/) [from](/post/from/) [Great](/post/great/) Britain)
+- Anglo-Saxon (historically [used](/post/used/), referring [to](/post/to/) [people](/post/people/) [of](/post/of/) Germanic [origin](/post/origin/) [who](/post/who/) settled [in](/post/in/) England)
+- English [national](/post/national/) ([formal](/post/formal/))

@@ -7,33 +7,33 @@ description = '[ɔsˈtreiljə] n.澳大利亚'
 keywords = ['ai words', 'australia']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈstreɪliə/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: **1** [A](/en/post/a/) [country](/en/post/country/) [in](/en/post/in/) [the](/en/post/the/) [southern](/en/post/southern/) [Pacific](/en/post/pacific/) [Ocean](/en/post/ocean/), consisting [of](/en/post/of/) [the](/en/post/the/) [mainland](/en/post/mainland/) [and](/en/post/and/) [numerous](/en/post/numerous/) islands, [the](/en/post/the/) smallest [of](/en/post/of/) [which](/en/post/which/) (Tasmania) lies [about](/en/post/about/) 200 miles [off](/en/post/off/) [the](/en/post/the/) [southeast](/en/post/southeast/) [coast](/en/post/coast/). **2** [The](/en/post/the/) [continent](/en/post/continent/) [that](/en/post/that/) includes [this](/en/post/this/) [country](/en/post/country/). **3** [Also](/en/post/also/), [Australia](/en/post/australia/) Felix. [A](/en/post/a/) [former](/en/post/former/) British penal [colony](/en/post/colony/); [now](/en/post/now/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) Commonwealth [of](/en/post/of/) Nations.
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [Australia](/en/post/australia/) [or](/en/post/or/) [its](/en/post/its/) [people](/en/post/people/), [culture](/en/post/culture/), [or](/en/post/or/) [geography](/en/post/geography/).
+- **[Noun](/post/noun/)**: **1** [A](/post/a/) [country](/post/country/) [in](/post/in/) [the](/post/the/) [southern](/post/southern/) [Pacific](/post/pacific/) [Ocean](/post/ocean/), consisting [of](/post/of/) [the](/post/the/) [mainland](/post/mainland/) [and](/post/and/) [numerous](/post/numerous/) islands, [the](/post/the/) smallest [of](/post/of/) [which](/post/which/) (Tasmania) lies [about](/post/about/) 200 miles [off](/post/off/) [the](/post/the/) [southeast](/post/southeast/) [coast](/post/coast/). **2** [The](/post/the/) [continent](/post/continent/) [that](/post/that/) includes [this](/post/this/) [country](/post/country/). **3** [Also](/post/also/), [Australia](/post/australia/) Felix. [A](/post/a/) [former](/post/former/) British penal [colony](/post/colony/); [now](/post/now/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [the](/post/the/) Commonwealth [of](/post/of/) Nations.
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [Australia](/post/australia/) [or](/post/or/) [its](/post/its/) [people](/post/people/), [culture](/post/culture/), [or](/post/or/) [geography](/post/geography/).
 
 ## Phrases
-- "[Welcome](/en/post/welcome/) [to](/en/post/to/) [Australia](/en/post/australia/)"
-- "[Down](/en/post/down/) [under](/en/post/under/)"
-- "[Australian](/en/post/australian/) Outback"
-- "[The](/en/post/the/) [Land](/en/post/land/) [Down](/en/post/down/) [Under](/en/post/under/)"
+- "[Welcome](/post/welcome/) [to](/post/to/) [Australia](/post/australia/)"
+- "[Down](/post/down/) [under](/post/under/)"
+- "[Australian](/post/australian/) Outback"
+- "[The](/post/the/) [Land](/post/land/) [Down](/post/down/) [Under](/post/under/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Australia](/en/post/australia/) is known [for](/en/post/for/) [its](/en/post/its/) [diverse](/en/post/diverse/) wildlife [and](/en/post/and/) stunning landscapes."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [Australian](/en/post/australian/) [accent](/en/post/accent/) is [quite](/en/post/quite/) distinctive."
-- "[We](/en/post/we/) decided [to](/en/post/to/) [spend](/en/post/spend/) [our](/en/post/our/) holidays [in](/en/post/in/) [Australia](/en/post/australia/) [this](/en/post/this/) [year](/en/post/year/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Australia](/post/australia/) is known [for](/post/for/) [its](/post/its/) [diverse](/post/diverse/) wildlife [and](/post/and/) stunning landscapes."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [Australian](/post/australian/) [accent](/post/accent/) is [quite](/post/quite/) distinctive."
+- "[We](/post/we/) decided [to](/post/to/) [spend](/post/spend/) [our](/post/our/) holidays [in](/post/in/) [Australia](/post/australia/) [this](/post/this/) [year](/post/year/)."
 
 ## Synonyms
 - Aussie
 - Oz
-- [The](/en/post/the/) [Land](/en/post/land/) [of](/en/post/of/) Oz
-- [The](/en/post/the/) [Lucky](/en/post/lucky/) [Country](/en/post/country/)
-- [Down](/en/post/down/) [Under](/en/post/under/)
+- [The](/post/the/) [Land](/post/land/) [of](/post/of/) Oz
+- [The](/post/the/) [Lucky](/post/lucky/) [Country](/post/country/)
+- [Down](/post/down/) [Under](/post/under/)
 
 ## Antonyms
-- [None](/en/post/none/) ([as](/en/post/as/) [it](/en/post/it/) is [a](/en/post/a/) [proper](/en/post/proper/) [noun](/en/post/noun/) [and](/en/post/and/) [not](/en/post/not/) [a](/en/post/a/) [concept](/en/post/concept/) [with](/en/post/with/) [a](/en/post/a/) [direct](/en/post/direct/) [opposite](/en/post/opposite/))
+- [None](/post/none/) ([as](/post/as/) [it](/post/it/) is [a](/post/a/) [proper](/post/proper/) [noun](/post/noun/) [and](/post/and/) [not](/post/not/) [a](/post/a/) [concept](/post/concept/) [with](/post/with/) [a](/post/a/) [direct](/post/direct/) [opposite](/post/opposite/))
 
 ## Etymology
-Derived [from](/en/post/from/) [the](/en/post/the/) Latin [name](/en/post/name/) [for](/en/post/for/) [the](/en/post/the/) [region](/en/post/region/), Terra Australis Incognita, [meaning](/en/post/meaning/) "[Unknown](/en/post/unknown/) [Southern](/en/post/southern/) [Land](/en/post/land/)." [It](/en/post/it/) was [later](/en/post/later/) named [after](/en/post/after/) [the](/en/post/the/) Dutch [East](/en/post/east/) India Company's [ship](/en/post/ship/), [the](/en/post/the/) Duyfken, captained [by](/en/post/by/) Abel Tasman, [who](/en/post/who/) explored [the](/en/post/the/) [area](/en/post/area/) [in](/en/post/in/) 1606.
+Derived [from](/post/from/) [the](/post/the/) Latin [name](/post/name/) [for](/post/for/) [the](/post/the/) [region](/post/region/), Terra Australis Incognita, [meaning](/post/meaning/) "[Unknown](/post/unknown/) [Southern](/post/southern/) [Land](/post/land/)." [It](/post/it/) was [later](/post/later/) named [after](/post/after/) [the](/post/the/) Dutch [East](/post/east/) India Company's [ship](/post/ship/), [the](/post/the/) Duyfken, captained [by](/post/by/) Abel Tasman, [who](/post/who/) explored [the](/post/the/) [area](/post/area/) [in](/post/in/) 1606.

@@ -11,21 +11,21 @@ keywords = ['ai words', 'independence']
 /ˌɪndɪˈpɛndəns/
 
 ## 释义
-- **名词**: 自主，自立，独立。例如: "[The](/post/the/) [country](/post/country/) gained [its](/post/its/) [independence](/post/independence/) [from](/post/from/) colonial [rule](/post/rule/) [in](/post/in/) 1960."
-- **形容词**: 不依赖的，自主的。例如: "[She](/post/she/) has an [independent](/post/independent/) [spirit](/post/spirit/) [and](/post/and/) likes [to](/post/to/) [make](/post/make/) [her](/post/her/) [own](/post/own/) decisions."
+- **名词**: 自主，自立，独立。例如: "[The](/zh/post/the/) [country](/zh/post/country/) gained [its](/zh/post/its/) [independence](/zh/post/independence/) [from](/zh/post/from/) colonial [rule](/zh/post/rule/) [in](/zh/post/in/) 1960."
+- **形容词**: 不依赖的，自主的。例如: "[She](/zh/post/she/) has an [independent](/zh/post/independent/) [spirit](/zh/post/spirit/) [and](/zh/post/and/) likes [to](/zh/post/to/) [make](/zh/post/make/) [her](/zh/post/her/) [own](/zh/post/own/) decisions."
 
 ## 短语
-- "[Political](/post/political/) [independence](/post/independence/)" 政治独立
-- "[Financial](/post/financial/) [independence](/post/independence/)" 经济独立
-- "Declaration [of](/post/of/) [Independence](/post/independence/)" 独立宣言
+- "[Political](/zh/post/political/) [independence](/zh/post/independence/)" 政治独立
+- "[Financial](/zh/post/financial/) [independence](/zh/post/independence/)" 经济独立
+- "Declaration [of](/zh/post/of/) [Independence](/zh/post/independence/)" 独立宣言
 
 ## 例句
-- 名词: "[The](/post/the/) [struggle](/post/struggle/) [for](/post/for/) [independence](/post/independence/) was [a](/post/a/) [long](/post/long/) [and](/post/and/) [hard](/post/hard/) [fight](/post/fight/)."
-- 形容词: "[He](/post/he/) chose [a](/post/a/) [career](/post/career/) [that](/post/that/) allowed [him](/post/him/) [to](/post/to/) [work](/post/work/) independently."
+- 名词: "[The](/zh/post/the/) [struggle](/zh/post/struggle/) [for](/zh/post/for/) [independence](/zh/post/independence/) was [a](/zh/post/a/) [long](/zh/post/long/) [and](/zh/post/and/) [hard](/zh/post/hard/) [fight](/zh/post/fight/)."
+- 形容词: "[He](/zh/post/he/) chose [a](/zh/post/a/) [career](/zh/post/career/) [that](/zh/post/that/) allowed [him](/zh/post/him/) [to](/zh/post/to/) [work](/zh/post/work/) independently."
 
 ## 同义词
-- [Freedom](/post/freedom/)
+- [Freedom](/zh/post/freedom/)
 - Autonomy
 - Sovereignty
 - Self-reliance
-- [Liberty](/post/liberty/)
+- [Liberty](/zh/post/liberty/)

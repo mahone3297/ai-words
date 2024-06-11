@@ -7,33 +7,33 @@ description = '[ˈmeməri] n.记忆；回忆；存储'
 keywords = ['ai words', 'memory']
 +++
 
-## [Word](/en/post/word/): [Memory](/en/post/memory/)
+## [Word](/post/word/): [Memory](/post/memory/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmem(ə)rē/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [mental](/en/post/mental/) [capacity](/en/post/capacity/) [or](/en/post/or/) [faculty](/en/post/faculty/) [of](/en/post/of/) retaining [and](/en/post/and/) recalling [past](/en/post/past/) experiences, impressions, [or](/en/post/or/) [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [remarkable](/en/post/remarkable/) [memory](/en/post/memory/) [for](/en/post/for/) dates [and](/en/post/and/) events."
-- **[Noun](/en/post/noun/) (Computing)**: [A](/en/post/a/) [hardware](/en/post/hardware/) [component](/en/post/component/) [in](/en/post/in/) [a](/en/post/a/) [computer](/en/post/computer/) [system](/en/post/system/) [that](/en/post/that/) stores [data](/en/post/data/) [for](/en/post/for/) [temporary](/en/post/temporary/) [use](/en/post/use/), [either](/en/post/either/) volatile (RAM) [or](/en/post/or/) non-volatile (ROM). [Example](/en/post/example/): "[The](/en/post/the/) computer's [memory](/en/post/memory/) allows [it](/en/post/it/) [to](/en/post/to/) [run](/en/post/run/) [multiple](/en/post/multiple/) applications simultaneously."
-- **[Noun](/en/post/noun/) (Psychology)**: [A](/en/post/a/) recollection [or](/en/post/or/) reminiscence; [something](/en/post/something/) remembered [from](/en/post/from/) [the](/en/post/the/) [past](/en/post/past/). [Example](/en/post/example/): "[Her](/en/post/her/) memories [of](/en/post/of/) [childhood](/en/post/childhood/) summers were [vivid](/en/post/vivid/) [and](/en/post/and/) filled [with](/en/post/with/) [joy](/en/post/joy/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [mental](/post/mental/) [capacity](/post/capacity/) [or](/post/or/) [faculty](/post/faculty/) [of](/post/of/) retaining [and](/post/and/) recalling [past](/post/past/) experiences, impressions, [or](/post/or/) [information](/post/information/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [remarkable](/post/remarkable/) [memory](/post/memory/) [for](/post/for/) dates [and](/post/and/) events."
+- **[Noun](/post/noun/) (Computing)**: [A](/post/a/) [hardware](/post/hardware/) [component](/post/component/) [in](/post/in/) [a](/post/a/) [computer](/post/computer/) [system](/post/system/) [that](/post/that/) stores [data](/post/data/) [for](/post/for/) [temporary](/post/temporary/) [use](/post/use/), [either](/post/either/) volatile (RAM) [or](/post/or/) non-volatile (ROM). [Example](/post/example/): "[The](/post/the/) computer's [memory](/post/memory/) allows [it](/post/it/) [to](/post/to/) [run](/post/run/) [multiple](/post/multiple/) applications simultaneously."
+- **[Noun](/post/noun/) (Psychology)**: [A](/post/a/) recollection [or](/post/or/) reminiscence; [something](/post/something/) remembered [from](/post/from/) [the](/post/the/) [past](/post/past/). [Example](/post/example/): "[Her](/post/her/) memories [of](/post/of/) [childhood](/post/childhood/) summers were [vivid](/post/vivid/) [and](/post/and/) filled [with](/post/with/) [joy](/post/joy/)."
 
 ### Phrases
-- "[Memory](/en/post/memory/) [lane](/en/post/lane/)": [A](/en/post/a/) nostalgic [journey](/en/post/journey/) [through](/en/post/through/) one's [past](/en/post/past/) memories. [Example](/en/post/example/): "Walking [down](/en/post/down/) [memory](/en/post/memory/) [lane](/en/post/lane/), [he](/en/post/he/) recounted [his](/en/post/his/) [college](/en/post/college/) days."
-- "[In](/en/post/in/) [memory](/en/post/memory/) [of](/en/post/of/)": Done [or](/en/post/or/) made [to](/en/post/to/) honor [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has died. [Example](/en/post/example/): "[A](/en/post/a/) [scholarship](/en/post/scholarship/) was established [in](/en/post/in/) [memory](/en/post/memory/) [of](/en/post/of/) [the](/en/post/the/) [late](/en/post/late/) [professor](/en/post/professor/)."
-- "Flashback/[memory](/en/post/memory/) flashback": An [unexpected](/en/post/unexpected/), [vivid](/en/post/vivid/) [recall](/en/post/recall/) [of](/en/post/of/) [a](/en/post/a/) [past](/en/post/past/) [experience](/en/post/experience/). [Example](/en/post/example/): "[The](/en/post/the/) [smell](/en/post/smell/) [of](/en/post/of/) baking [bread](/en/post/bread/) triggered [a](/en/post/a/) [memory](/en/post/memory/) flashback [to](/en/post/to/) [her](/en/post/her/) grandmother's [kitchen](/en/post/kitchen/)."
+- "[Memory](/post/memory/) [lane](/post/lane/)": [A](/post/a/) nostalgic [journey](/post/journey/) [through](/post/through/) one's [past](/post/past/) memories. [Example](/post/example/): "Walking [down](/post/down/) [memory](/post/memory/) [lane](/post/lane/), [he](/post/he/) recounted [his](/post/his/) [college](/post/college/) days."
+- "[In](/post/in/) [memory](/post/memory/) [of](/post/of/)": Done [or](/post/or/) made [to](/post/to/) honor [a](/post/a/) [person](/post/person/) [who](/post/who/) has died. [Example](/post/example/): "[A](/post/a/) [scholarship](/post/scholarship/) was established [in](/post/in/) [memory](/post/memory/) [of](/post/of/) [the](/post/the/) [late](/post/late/) [professor](/post/professor/)."
+- "Flashback/[memory](/post/memory/) flashback": An [unexpected](/post/unexpected/), [vivid](/post/vivid/) [recall](/post/recall/) [of](/post/of/) [a](/post/a/) [past](/post/past/) [experience](/post/experience/). [Example](/post/example/): "[The](/post/the/) [smell](/post/smell/) [of](/post/of/) baking [bread](/post/bread/) triggered [a](/post/a/) [memory](/post/memory/) flashback [to](/post/to/) [her](/post/her/) grandmother's [kitchen](/post/kitchen/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([Mental](/en/post/mental/) [Capacity](/en/post/capacity/))**: "[Reading](/en/post/reading/) [regularly](/en/post/regularly/) [can](/en/post/can/) [improve](/en/post/improve/) [your](/en/post/your/) [memory](/en/post/memory/)."
-- **[Noun](/en/post/noun/) (Computing)**: "Adding [more](/en/post/more/) RAM [to](/en/post/to/) [your](/en/post/your/) [computer](/en/post/computer/) [can](/en/post/can/) boost [its](/en/post/its/) [performance](/en/post/performance/) [by](/en/post/by/) increasing [available](/en/post/available/) [memory](/en/post/memory/)."
-- **[Noun](/en/post/noun/) (Psychology)**: "[The](/en/post/the/) [old](/en/post/old/) [photograph](/en/post/photograph/) brought [back](/en/post/back/) [many](/en/post/many/) [happy](/en/post/happy/) memories."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([Mental](/post/mental/) [Capacity](/post/capacity/))**: "[Reading](/post/reading/) [regularly](/post/regularly/) [can](/post/can/) [improve](/post/improve/) [your](/post/your/) [memory](/post/memory/)."
+- **[Noun](/post/noun/) (Computing)**: "Adding [more](/post/more/) RAM [to](/post/to/) [your](/post/your/) [computer](/post/computer/) [can](/post/can/) boost [its](/post/its/) [performance](/post/performance/) [by](/post/by/) increasing [available](/post/available/) [memory](/post/memory/)."
+- **[Noun](/post/noun/) (Psychology)**: "[The](/post/the/) [old](/post/old/) [photograph](/post/photograph/) brought [back](/post/back/) [many](/post/many/) [happy](/post/happy/) memories."
 
 ## Synonyms
 - Remembrance
 - Recollection
-- [Recall](/en/post/recall/)
+- [Recall](/post/recall/)
 - Retention
 - Mindfulness
 - Memorization
 - Reminiscence
-- Recollected [experience](/en/post/experience/)
-- Stored [information](/en/post/information/) ([for](/en/post/for/) computing context)
+- Recollected [experience](/post/experience/)
+- Stored [information](/post/information/) ([for](/post/for/) computing context)

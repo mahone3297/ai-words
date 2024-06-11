@@ -7,39 +7,39 @@ description = '[ˈrɔkit] n.火箭，火箭发动机'
 keywords = ['ai words', 'rocket']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈrɒkɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **Aerospace:** [A](/en/post/a/) [vehicle](/en/post/vehicle/) [or](/en/post/or/) [device](/en/post/device/) designed [to](/en/post/to/) [travel](/en/post/travel/) [through](/en/post/through/) [space](/en/post/space/) using [rocket](/en/post/rocket/) engines, typically [for](/en/post/for/) launching [into](/en/post/into/) [orbit](/en/post/orbit/) [or](/en/post/or/) interplanetary missions. [Example](/en/post/example/): "[The](/en/post/the/) SpaceX Falcon 9 [rocket](/en/post/rocket/) lifted [off](/en/post/off/) [from](/en/post/from/) Cape Canaveral."
-2. **Metaphor:** [A](/en/post/a/) [sudden](/en/post/sudden/) [burst](/en/post/burst/) [of](/en/post/of/) [energy](/en/post/energy/) [or](/en/post/or/) [progress](/en/post/progress/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [project](/en/post/project/). [Example](/en/post/example/): "[His](/en/post/his/) [new](/en/post/new/) [business](/en/post/business/) [idea](/en/post/idea/) was [a](/en/post/a/) [rocket](/en/post/rocket/) [to](/en/post/to/) [success](/en/post/success/)."
+### [Noun](/post/noun/)
+1. **Aerospace:** [A](/post/a/) [vehicle](/post/vehicle/) [or](/post/or/) [device](/post/device/) designed [to](/post/to/) [travel](/post/travel/) [through](/post/through/) [space](/post/space/) using [rocket](/post/rocket/) engines, typically [for](/post/for/) launching [into](/post/into/) [orbit](/post/orbit/) [or](/post/or/) interplanetary missions. [Example](/post/example/): "[The](/post/the/) SpaceX Falcon 9 [rocket](/post/rocket/) lifted [off](/post/off/) [from](/post/from/) Cape Canaveral."
+2. **Metaphor:** [A](/post/a/) [sudden](/post/sudden/) [burst](/post/burst/) [of](/post/of/) [energy](/post/energy/) [or](/post/or/) [progress](/post/progress/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [project](/post/project/). [Example](/post/example/): "[His](/post/his/) [new](/post/new/) [business](/post/business/) [idea](/post/idea/) was [a](/post/a/) [rocket](/post/rocket/) [to](/post/to/) [success](/post/success/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) propel [or](/en/post/or/) [launch](/en/post/launch/) ([a](/en/post/a/) [spacecraft](/en/post/spacecraft/)) using rockets. [Example](/en/post/example/): "[The](/en/post/the/) [rocket](/en/post/rocket/) was [set](/en/post/set/) [to](/en/post/to/) [blast](/en/post/blast/) [off](/en/post/off/) [into](/en/post/into/) [the](/en/post/the/) stratosphere."
-2. [To](/en/post/to/) [experience](/en/post/experience/) [a](/en/post/a/) [rapid](/en/post/rapid/) [increase](/en/post/increase/) [or](/en/post/or/) [improvement](/en/post/improvement/). [Example](/en/post/example/): "[The](/en/post/the/) company's [stock](/en/post/stock/) [price](/en/post/price/) rocketed [after](/en/post/after/) [the](/en/post/the/) [successful](/en/post/successful/) [product](/en/post/product/) [launch](/en/post/launch/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) propel [or](/post/or/) [launch](/post/launch/) ([a](/post/a/) [spacecraft](/post/spacecraft/)) using rockets. [Example](/post/example/): "[The](/post/the/) [rocket](/post/rocket/) was [set](/post/set/) [to](/post/to/) [blast](/post/blast/) [off](/post/off/) [into](/post/into/) [the](/post/the/) stratosphere."
+2. [To](/post/to/) [experience](/post/experience/) [a](/post/a/) [rapid](/post/rapid/) [increase](/post/increase/) [or](/post/or/) [improvement](/post/improvement/). [Example](/post/example/): "[The](/post/the/) company's [stock](/post/stock/) [price](/post/price/) rocketed [after](/post/after/) [the](/post/the/) [successful](/post/successful/) [product](/post/product/) [launch](/post/launch/)."
 
-### [Adjective](/en/post/adjective/)
-1. Characterizing [something](/en/post/something/) [that](/en/post/that/) moves [quickly](/en/post/quickly/) [or](/en/post/or/) powerfully. [Example](/en/post/example/): "[The](/en/post/the/) rocket-fast [car](/en/post/car/) raced [down](/en/post/down/) [the](/en/post/the/) [highway](/en/post/highway/)."
-2. Reckless [or](/en/post/or/) irresponsible [behavior](/en/post/behavior/). [Example](/en/post/example/): "[His](/en/post/his/) reckless spending habits were [like](/en/post/like/) [a](/en/post/a/) [financial](/en/post/financial/) [rocket](/en/post/rocket/)."
+### [Adjective](/post/adjective/)
+1. Characterizing [something](/post/something/) [that](/post/that/) moves [quickly](/post/quickly/) [or](/post/or/) powerfully. [Example](/post/example/): "[The](/post/the/) rocket-fast [car](/post/car/) raced [down](/post/down/) [the](/post/the/) [highway](/post/highway/)."
+2. Reckless [or](/post/or/) irresponsible [behavior](/post/behavior/). [Example](/post/example/): "[His](/post/his/) reckless spending habits were [like](/post/like/) [a](/post/a/) [financial](/post/financial/) [rocket](/post/rocket/)."
 
 ## Phrases
-- "[Rocket](/en/post/rocket/) [science](/en/post/science/)" refers [to](/en/post/to/) [complex](/en/post/complex/) [or](/en/post/or/) [advanced](/en/post/advanced/) [knowledge](/en/post/knowledge/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [technical](/en/post/technical/) [field](/en/post/field/).
-- "[Get](/en/post/get/) [off](/en/post/off/) [the](/en/post/the/) [ground](/en/post/ground/) [like](/en/post/like/) [a](/en/post/a/) [rocket](/en/post/rocket/)" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) [quickly](/en/post/quickly/) [or](/en/post/or/) [with](/en/post/with/) [great](/en/post/great/) [energy](/en/post/energy/).
-- "She's [on](/en/post/on/) [a](/en/post/a/) [roll](/en/post/roll/), [like](/en/post/like/) [a](/en/post/a/) [rocket](/en/post/rocket/)" implies [someone](/en/post/someone/) is achieving things [at](/en/post/at/) an [impressive](/en/post/impressive/) [pace](/en/post/pace/).
+- "[Rocket](/post/rocket/) [science](/post/science/)" refers [to](/post/to/) [complex](/post/complex/) [or](/post/or/) [advanced](/post/advanced/) [knowledge](/post/knowledge/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [technical](/post/technical/) [field](/post/field/).
+- "[Get](/post/get/) [off](/post/off/) [the](/post/the/) [ground](/post/ground/) [like](/post/like/) [a](/post/a/) [rocket](/post/rocket/)" [means](/post/means/) [to](/post/to/) [start](/post/start/) [quickly](/post/quickly/) [or](/post/or/) [with](/post/with/) [great](/post/great/) [energy](/post/energy/).
+- "She's [on](/post/on/) [a](/post/a/) [roll](/post/roll/), [like](/post/like/) [a](/post/a/) [rocket](/post/rocket/)" implies [someone](/post/someone/) is achieving things [at](/post/at/) an [impressive](/post/impressive/) [pace](/post/pace/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [rocket](/en/post/rocket/) scientists [at](/en/post/at/) NASA worked tirelessly [to](/en/post/to/) [perfect](/en/post/perfect/) [the](/en/post/the/) Mars rover's [landing](/en/post/landing/) [sequence](/en/post/sequence/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [newly](/en/post/newly/) launched [rocket](/en/post/rocket/) was expected [to](/en/post/to/) [reach](/en/post/reach/) [escape](/en/post/escape/) [velocity](/en/post/velocity/) [within](/en/post/within/) minutes."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) athlete's sprint was [a](/en/post/a/) [rocket](/en/post/rocket/) [of](/en/post/of/) [speed](/en/post/speed/), leaving [the](/en/post/the/) [competition](/en/post/competition/) [behind](/en/post/behind/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [rocket](/post/rocket/) scientists [at](/post/at/) NASA worked tirelessly [to](/post/to/) [perfect](/post/perfect/) [the](/post/the/) Mars rover's [landing](/post/landing/) [sequence](/post/sequence/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [newly](/post/newly/) launched [rocket](/post/rocket/) was expected [to](/post/to/) [reach](/post/reach/) [escape](/post/escape/) [velocity](/post/velocity/) [within](/post/within/) minutes."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) athlete's sprint was [a](/post/a/) [rocket](/post/rocket/) [of](/post/of/) [speed](/post/speed/), leaving [the](/post/the/) [competition](/post/competition/) [behind](/post/behind/)."
 
 ## Synonyms
-- [Spacecraft](/en/post/spacecraft/)
+- [Spacecraft](/post/spacecraft/)
 - Launcher
-- [Jet](/en/post/jet/)
+- [Jet](/post/jet/)
 - Boost
 - Propel
-- [Accelerate](/en/post/accelerate/)
+- [Accelerate](/post/accelerate/)
 - Sprinter
-- [Explosion](/en/post/explosion/)
+- [Explosion](/post/explosion/)
 - Breakthrough

@@ -7,34 +7,34 @@ description = '[ˈkaunsil] n.理事会，委员会'
 keywords = ['ai words', 'council']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkaʊnsl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) appointed [or](/en/post/or/) elected [to](/en/post/to/) [advise](/en/post/advise/), deliberate, [or](/en/post/or/) [govern](/en/post/govern/) [on](/en/post/on/) matters [within](/en/post/within/) [their](/en/post/their/) expertise [or](/en/post/or/) jurisdiction; [a](/en/post/a/) governing [body](/en/post/body/) [or](/en/post/or/) [assembly](/en/post/assembly/). [Example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) [council](/en/post/council/) discussed [new](/en/post/new/) plans [for](/en/post/for/) urban [development](/en/post/development/)."
-  - [Also](/en/post/also/), [a](/en/post/a/) [formal](/en/post/formal/) [meeting](/en/post/meeting/) [of](/en/post/of/) [such](/en/post/such/) [a](/en/post/a/) [group](/en/post/group/). [Example](/en/post/example/): "[The](/en/post/the/) [next](/en/post/next/) [council](/en/post/council/) [will](/en/post/will/) [be](/en/post/be/) held [to](/en/post/to/) [vote](/en/post/vote/) [on](/en/post/on/) [the](/en/post/the/) [new](/en/post/new/) proposals."
-  - [In](/en/post/in/) [a](/en/post/a/) broader [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [conference](/en/post/conference/) [or](/en/post/or/) consultation [between](/en/post/between/) [several](/en/post/several/) parties. [Example](/en/post/example/): "[A](/en/post/a/) [council](/en/post/council/) [of](/en/post/of/) [war](/en/post/war/) was convened [to](/en/post/to/) [plan](/en/post/plan/) [strategy](/en/post/strategy/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) appointed [or](/post/or/) elected [to](/post/to/) [advise](/post/advise/), deliberate, [or](/post/or/) [govern](/post/govern/) [on](/post/on/) matters [within](/post/within/) [their](/post/their/) expertise [or](/post/or/) jurisdiction; [a](/post/a/) governing [body](/post/body/) [or](/post/or/) [assembly](/post/assembly/). [Example](/post/example/): "[The](/post/the/) [city](/post/city/) [council](/post/council/) discussed [new](/post/new/) plans [for](/post/for/) urban [development](/post/development/)."
+  - [Also](/post/also/), [a](/post/a/) [formal](/post/formal/) [meeting](/post/meeting/) [of](/post/of/) [such](/post/such/) [a](/post/a/) [group](/post/group/). [Example](/post/example/): "[The](/post/the/) [next](/post/next/) [council](/post/council/) [will](/post/will/) [be](/post/be/) held [to](/post/to/) [vote](/post/vote/) [on](/post/on/) [the](/post/the/) [new](/post/new/) proposals."
+  - [In](/post/in/) [a](/post/a/) broader [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [conference](/post/conference/) [or](/post/or/) consultation [between](/post/between/) [several](/post/several/) parties. [Example](/post/example/): "[A](/post/a/) [council](/post/council/) [of](/post/of/) [war](/post/war/) was convened [to](/post/to/) [plan](/post/plan/) [strategy](/post/strategy/)."
 
 ## Phrases
-- "[Council](/en/post/council/) [member](/en/post/member/)" refers [to](/en/post/to/) an [individual](/en/post/individual/) [who](/en/post/who/) is [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [council](/en/post/council/).
-- "Called [to](/en/post/to/) [council](/en/post/council/)" [means](/en/post/means/) [to](/en/post/to/) summon [for](/en/post/for/) [discussion](/en/post/discussion/) [or](/en/post/or/) consultation.
-- "[At](/en/post/at/) [council](/en/post/council/)" suggests [being](/en/post/being/) [present](/en/post/present/) [during](/en/post/during/) [a](/en/post/a/) [meeting](/en/post/meeting/) [of](/en/post/of/) [a](/en/post/a/) [council](/en/post/council/) [or](/en/post/or/) participating [in](/en/post/in/) [its](/en/post/its/) deliberations.
+- "[Council](/post/council/) [member](/post/member/)" refers [to](/post/to/) an [individual](/post/individual/) [who](/post/who/) is [part](/post/part/) [of](/post/of/) [the](/post/the/) [council](/post/council/).
+- "Called [to](/post/to/) [council](/post/council/)" [means](/post/means/) [to](/post/to/) summon [for](/post/for/) [discussion](/post/discussion/) [or](/post/or/) consultation.
+- "[At](/post/at/) [council](/post/council/)" suggests [being](/post/being/) [present](/post/present/) [during](/post/during/) [a](/post/a/) [meeting](/post/meeting/) [of](/post/of/) [a](/post/a/) [council](/post/council/) [or](/post/or/) participating [in](/post/in/) [its](/post/its/) deliberations.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) members [of](/en/post/of/) [the](/en/post/the/) [school](/en/post/school/) [council](/en/post/council/) debated [over](/en/post/over/) [the](/en/post/the/) budget allocation [for](/en/post/for/) extracurricular activities."
-- "[After](/en/post/after/) [much](/en/post/much/) [discussion](/en/post/discussion/) [at](/en/post/at/) [the](/en/post/the/) [town](/en/post/town/) [council](/en/post/council/), [they](/en/post/they/) decided [to](/en/post/to/) [approve](/en/post/approve/) [the](/en/post/the/) [construction](/en/post/construction/) [of](/en/post/of/) [a](/en/post/a/) [new](/en/post/new/) [community](/en/post/community/) center."
-- "Historically, tribal councils were [responsible](/en/post/responsible/) [for](/en/post/for/) making [important](/en/post/important/) decisions affecting [the](/en/post/the/) [entire](/en/post/entire/) [community](/en/post/community/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) members [of](/post/of/) [the](/post/the/) [school](/post/school/) [council](/post/council/) debated [over](/post/over/) [the](/post/the/) budget allocation [for](/post/for/) extracurricular activities."
+- "[After](/post/after/) [much](/post/much/) [discussion](/post/discussion/) [at](/post/at/) [the](/post/the/) [town](/post/town/) [council](/post/council/), [they](/post/they/) decided [to](/post/to/) [approve](/post/approve/) [the](/post/the/) [construction](/post/construction/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [community](/post/community/) center."
+- "Historically, tribal councils were [responsible](/post/responsible/) [for](/post/for/) making [important](/post/important/) decisions affecting [the](/post/the/) [entire](/post/entire/) [community](/post/community/)."
 
 ## Synonyms
-- [Committee](/en/post/committee/)
-- [Board](/en/post/board/)
-- [Panel](/en/post/panel/)
-- [Assembly](/en/post/assembly/)
+- [Committee](/post/committee/)
+- [Board](/post/board/)
+- [Panel](/post/panel/)
+- [Assembly](/post/assembly/)
 - Tribunal
-- [Conference](/en/post/conference/)
-- [Convention](/en/post/convention/)
+- [Conference](/post/conference/)
+- [Convention](/post/convention/)
 - Gathering
 
-### [Additional](/en/post/additional/) Meanings ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) consulting [or](/en/post/or/) conferring; counsel. [Example](/en/post/example/): "[He](/en/post/he/) sought [the](/en/post/the/) [council](/en/post/council/) [of](/en/post/of/) [his](/en/post/his/) elders [before](/en/post/before/) making [a](/en/post/a/) [decision](/en/post/decision/)."
-- **[Verb](/en/post/verb/) (archaic)**: [To](/en/post/to/) [consult](/en/post/consult/) [or](/en/post/or/) [advise](/en/post/advise/) [with](/en/post/with/). [Example](/en/post/example/): "[The](/en/post/the/) [king](/en/post/king/) councilled [with](/en/post/with/) [his](/en/post/his/) advisors [about](/en/post/about/) [the](/en/post/the/) impending [invasion](/en/post/invasion/)."
+### [Additional](/post/additional/) Meanings ([in](/post/in/) [certain](/post/certain/) contexts)
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) consulting [or](/post/or/) conferring; counsel. [Example](/post/example/): "[He](/post/he/) sought [the](/post/the/) [council](/post/council/) [of](/post/of/) [his](/post/his/) elders [before](/post/before/) making [a](/post/a/) [decision](/post/decision/)."
+- **[Verb](/post/verb/) (archaic)**: [To](/post/to/) [consult](/post/consult/) [or](/post/or/) [advise](/post/advise/) [with](/post/with/). [Example](/post/example/): "[The](/post/the/) [king](/post/king/) councilled [with](/post/with/) [his](/post/his/) advisors [about](/post/about/) [the](/post/the/) impending [invasion](/post/invasion/)."

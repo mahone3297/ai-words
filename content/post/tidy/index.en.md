@@ -7,36 +7,36 @@ description = '[ˈtaidi] a.整洁的；整齐的'
 keywords = ['ai words', 'tidy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /taɪˈdi/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [adjective](/en/post/adjective/) describing [a](/en/post/a/) well-organized [and](/en/post/and/) [clean](/en/post/clean/) [state](/en/post/state/) [or](/en/post/or/) [appearance](/en/post/appearance/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) was [very](/en/post/very/) [tidy](/en/post/tidy/) [after](/en/post/after/) [the](/en/post/the/) cleaning."
-- [A](/en/post/a/) [habit](/en/post/habit/) [or](/en/post/or/) inclination [to](/en/post/to/) [keep](/en/post/keep/) one's [living](/en/post/living/) [or](/en/post/or/) working [space](/en/post/space/) organized. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [very](/en/post/very/) [tidy](/en/post/tidy/) [mind](/en/post/mind/), [always](/en/post/always/) putting things [in](/en/post/in/) [their](/en/post/their/) [place](/en/post/place/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) [adjective](/post/adjective/) describing [a](/post/a/) well-organized [and](/post/and/) [clean](/post/clean/) [state](/post/state/) [or](/post/or/) [appearance](/post/appearance/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [house](/post/house/) was [very](/post/very/) [tidy](/post/tidy/) [after](/post/after/) [the](/post/the/) cleaning."
+- [A](/post/a/) [habit](/post/habit/) [or](/post/or/) inclination [to](/post/to/) [keep](/post/keep/) one's [living](/post/living/) [or](/post/or/) working [space](/post/space/) organized. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [very](/post/very/) [tidy](/post/tidy/) [mind](/post/mind/), [always](/post/always/) putting things [in](/post/in/) [their](/post/their/) [place](/post/place/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [neat](/en/post/neat/) [and](/en/post/and/) [orderly](/en/post/orderly/), [especially](/en/post/especially/) [with](/en/post/with/) [respect](/en/post/respect/) [to](/en/post/to/) [personal](/en/post/personal/) belongings [or](/en/post/or/) [a](/en/post/a/) [living](/en/post/living/) [space](/en/post/space/). [For](/en/post/for/) [example](/en/post/example/): "I'll [tidy](/en/post/tidy/) [up](/en/post/up/) [the](/en/post/the/) [kitchen](/en/post/kitchen/) [before](/en/post/before/) [we](/en/post/we/) [have](/en/post/have/) guests [over](/en/post/over/)."
-- [To](/en/post/to/) [put](/en/post/put/) [away](/en/post/away/) [or](/en/post/or/) [organize](/en/post/organize/) items. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) tidied [up](/en/post/up/) [her](/en/post/her/) [desk](/en/post/desk/) [after](/en/post/after/) finishing [her](/en/post/her/) [work](/en/post/work/) [for](/en/post/for/) [the](/en/post/the/) [day](/en/post/day/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [make](/post/make/) [something](/post/something/) [neat](/post/neat/) [and](/post/and/) [orderly](/post/orderly/), [especially](/post/especially/) [with](/post/with/) [respect](/post/respect/) [to](/post/to/) [personal](/post/personal/) belongings [or](/post/or/) [a](/post/a/) [living](/post/living/) [space](/post/space/). [For](/post/for/) [example](/post/example/): "I'll [tidy](/post/tidy/) [up](/post/up/) [the](/post/the/) [kitchen](/post/kitchen/) [before](/post/before/) [we](/post/we/) [have](/post/have/) guests [over](/post/over/)."
+- [To](/post/to/) [put](/post/put/) [away](/post/away/) [or](/post/or/) [organize](/post/organize/) items. [For](/post/for/) [example](/post/example/): "[She](/post/she/) tidied [up](/post/up/) [her](/post/her/) [desk](/post/desk/) [after](/post/after/) finishing [her](/post/her/) [work](/post/work/) [for](/post/for/) [the](/post/the/) [day](/post/day/)."
 
-### [Adjective](/en/post/adjective/)
-- Characterizing [someone](/en/post/someone/) [who](/en/post/who/) is meticulous [or](/en/post/or/) [careful](/en/post/careful/) [in](/en/post/in/) maintaining [order](/en/post/order/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) is [a](/en/post/a/) [very](/en/post/very/) [tidy](/en/post/tidy/) [person](/en/post/person/), [always](/en/post/always/) keeping [his](/en/post/his/) [room](/en/post/room/) spotless."
+### [Adjective](/post/adjective/)
+- Characterizing [someone](/post/someone/) [who](/post/who/) is meticulous [or](/post/or/) [careful](/post/careful/) [in](/post/in/) maintaining [order](/post/order/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) is [a](/post/a/) [very](/post/very/) [tidy](/post/tidy/) [person](/post/person/), [always](/post/always/) keeping [his](/post/his/) [room](/post/room/) spotless."
 
 ## Phrases
-- "[Keep](/en/post/keep/) things [tidy](/en/post/tidy/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) cleanliness [and](/en/post/and/) [organization](/en/post/organization/).
-- "[Tidy](/en/post/tidy/) [up](/en/post/up/)" implies straightening [and](/en/post/and/) cleaning.
-- "[A](/en/post/a/) [tidy](/en/post/tidy/) budget" refers [to](/en/post/to/) [a](/en/post/a/) well-managed [financial](/en/post/financial/) [plan](/en/post/plan/).
+- "[Keep](/post/keep/) things [tidy](/post/tidy/)" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) cleanliness [and](/post/and/) [organization](/post/organization/).
+- "[Tidy](/post/tidy/) [up](/post/up/)" implies straightening [and](/post/and/) cleaning.
+- "[A](/post/a/) [tidy](/post/tidy/) budget" refers [to](/post/to/) [a](/post/a/) well-managed [financial](/post/financial/) [plan](/post/plan/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [room](/en/post/room/) was [always](/en/post/always/) [a](/en/post/a/) [tidy](/en/post/tidy/) sanctuary [from](/en/post/from/) [the](/en/post/the/) chaos [of](/en/post/of/) [the](/en/post/the/) [rest](/en/post/rest/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [tidy](/en/post/tidy/) [up](/en/post/up/) [the](/en/post/the/) [garage](/en/post/garage/) [before](/en/post/before/) [the](/en/post/the/) [sale](/en/post/sale/) [this](/en/post/this/) [weekend](/en/post/weekend/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) children were encouraged [to](/en/post/to/) [be](/en/post/be/) [tidy](/en/post/tidy/) [and](/en/post/and/) [responsible](/en/post/responsible/) [with](/en/post/with/) [their](/en/post/their/) belongings."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [room](/post/room/) was [always](/post/always/) [a](/post/a/) [tidy](/post/tidy/) sanctuary [from](/post/from/) [the](/post/the/) chaos [of](/post/of/) [the](/post/the/) [rest](/post/rest/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [tidy](/post/tidy/) [up](/post/up/) [the](/post/the/) [garage](/post/garage/) [before](/post/before/) [the](/post/the/) [sale](/post/sale/) [this](/post/this/) [weekend](/post/weekend/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) children were encouraged [to](/post/to/) [be](/post/be/) [tidy](/post/tidy/) [and](/post/and/) [responsible](/post/responsible/) [with](/post/with/) [their](/post/their/) belongings."
 
 ## Synonyms
-- [Neat](/en/post/neat/)
+- [Neat](/post/neat/)
 - Tidy-minded
-- [Orderly](/en/post/orderly/)
+- [Orderly](/post/orderly/)
 - Organized
-- [Clean](/en/post/clean/)
+- [Clean](/post/clean/)
 - Composed
 - Methodical

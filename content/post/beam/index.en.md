@@ -7,43 +7,43 @@ description = '[biːm] n.梁；横梁；束，柱'
 keywords = ['ai words', 'beam']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /biːm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [A](/en/post/a/) [long](/en/post/long/), [slender](/en/post/slender/) [piece](/en/post/piece/) [of](/en/post/of/) [wood](/en/post/wood/) [or](/en/post/or/) [metal](/en/post/metal/), typically [with](/en/post/with/) [a](/en/post/a/) [flat](/en/post/flat/) [top](/en/post/top/) [surface](/en/post/surface/), [used](/en/post/used/) [for](/en/post/for/) supporting structures [or](/en/post/or/) transmitting [light](/en/post/light/) [or](/en/post/or/) [power](/en/post/power/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) bridge's [main](/en/post/main/) [support](/en/post/support/) [beam](/en/post/beam/) was damaged."
-   - **2.** An [intense](/en/post/intense/) [beam](/en/post/beam/) [of](/en/post/of/) [light](/en/post/light/) [or](/en/post/or/) [energy](/en/post/energy/), [such](/en/post/such/) [as](/en/post/as/) [from](/en/post/from/) [a](/en/post/a/) [laser](/en/post/laser/) [or](/en/post/or/) flashlight.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [surgeon](/en/post/surgeon/) guided [the](/en/post/the/) [laser](/en/post/laser/) [beam](/en/post/beam/) [with](/en/post/with/) [precision](/en/post/precision/)."
-   - **3.** (figurative) [A](/en/post/a/) [line](/en/post/line/) [of](/en/post/of/) concentrated [attention](/en/post/attention/) [or](/en/post/or/) [emotion](/en/post/emotion/).
-      - [Example](/en/post/example/): "[Her](/en/post/her/) eyes were fixed [on](/en/post/on/) [him](/en/post/him/), [her](/en/post/her/) [love](/en/post/love/) [beam](/en/post/beam/) shining [bright](/en/post/bright/)."
+### [Noun](/post/noun/)
+- **1.** [A](/post/a/) [long](/post/long/), [slender](/post/slender/) [piece](/post/piece/) [of](/post/of/) [wood](/post/wood/) [or](/post/or/) [metal](/post/metal/), typically [with](/post/with/) [a](/post/a/) [flat](/post/flat/) [top](/post/top/) [surface](/post/surface/), [used](/post/used/) [for](/post/for/) supporting structures [or](/post/or/) transmitting [light](/post/light/) [or](/post/or/) [power](/post/power/).
+   - [Example](/post/example/): "[The](/post/the/) bridge's [main](/post/main/) [support](/post/support/) [beam](/post/beam/) was damaged."
+   - **2.** An [intense](/post/intense/) [beam](/post/beam/) [of](/post/of/) [light](/post/light/) [or](/post/or/) [energy](/post/energy/), [such](/post/such/) [as](/post/as/) [from](/post/from/) [a](/post/a/) [laser](/post/laser/) [or](/post/or/) flashlight.
+   - [Example](/post/example/): "[The](/post/the/) [surgeon](/post/surgeon/) guided [the](/post/the/) [laser](/post/laser/) [beam](/post/beam/) [with](/post/with/) [precision](/post/precision/)."
+   - **3.** (figurative) [A](/post/a/) [line](/post/line/) [of](/post/of/) concentrated [attention](/post/attention/) [or](/post/or/) [emotion](/post/emotion/).
+      - [Example](/post/example/): "[Her](/post/her/) eyes were fixed [on](/post/on/) [him](/post/him/), [her](/post/her/) [love](/post/love/) [beam](/post/beam/) shining [bright](/post/bright/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [beam](/en/post/beam/)** (informal)
-   - **1.** [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [bright](/en/post/bright/), [happy](/en/post/happy/) [expression](/en/post/expression/) [on](/en/post/on/) one's [face](/en/post/face/).
-      - [Example](/en/post/example/): "[He](/en/post/he/) beamed [with](/en/post/with/) [joy](/en/post/joy/) [when](/en/post/when/) [he](/en/post/he/) received [the](/en/post/the/) [good](/en/post/good/) [news](/en/post/news/)."
-   - **2.** (transitive) [To](/en/post/to/) [send](/en/post/send/) [or](/en/post/or/) [direct](/en/post/direct/) [a](/en/post/a/) [beam](/en/post/beam/) [of](/en/post/of/) [something](/en/post/something/), [like](/en/post/like/) [light](/en/post/light/) [or](/en/post/or/) [a](/en/post/a/) [signal](/en/post/signal/).
-      - [Example](/en/post/example/): "[The](/en/post/the/) [satellite](/en/post/satellite/) beamed [television](/en/post/television/) signals [to](/en/post/to/) [remote](/en/post/remote/) areas."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [beam](/post/beam/)** (informal)
+   - **1.** [To](/post/to/) [have](/post/have/) [a](/post/a/) [bright](/post/bright/), [happy](/post/happy/) [expression](/post/expression/) [on](/post/on/) one's [face](/post/face/).
+      - [Example](/post/example/): "[He](/post/he/) beamed [with](/post/with/) [joy](/post/joy/) [when](/post/when/) [he](/post/he/) received [the](/post/the/) [good](/post/good/) [news](/post/news/)."
+   - **2.** (transitive) [To](/post/to/) [send](/post/send/) [or](/post/or/) [direct](/post/direct/) [a](/post/a/) [beam](/post/beam/) [of](/post/of/) [something](/post/something/), [like](/post/like/) [light](/post/light/) [or](/post/or/) [a](/post/a/) [signal](/post/signal/).
+      - [Example](/post/example/): "[The](/post/the/) [satellite](/post/satellite/) beamed [television](/post/television/) signals [to](/post/to/) [remote](/post/remote/) areas."
 
 ## Phrases
-- "[Beam](/en/post/beam/) [someone](/en/post/someone/) [a](/en/post/a/) [message](/en/post/message/)" [means](/en/post/means/) [to](/en/post/to/) [send](/en/post/send/) [a](/en/post/a/) [message](/en/post/message/) using [a](/en/post/a/) [beam](/en/post/beam/) [of](/en/post/of/) electromagnetic waves.
-- "Beaming [smile](/en/post/smile/)" refers [to](/en/post/to/) an [especially](/en/post/especially/) radiant [smile](/en/post/smile/).
-- "Astronauts [beam](/en/post/beam/) [back](/en/post/back/) images" is [a](/en/post/a/) [common](/en/post/common/) [expression](/en/post/expression/) [for](/en/post/for/) transmitting photos [or](/en/post/or/) [data](/en/post/data/) [from](/en/post/from/) [space](/en/post/space/).
+- "[Beam](/post/beam/) [someone](/post/someone/) [a](/post/a/) [message](/post/message/)" [means](/post/means/) [to](/post/to/) [send](/post/send/) [a](/post/a/) [message](/post/message/) using [a](/post/a/) [beam](/post/beam/) [of](/post/of/) electromagnetic waves.
+- "Beaming [smile](/post/smile/)" refers [to](/post/to/) an [especially](/post/especially/) radiant [smile](/post/smile/).
+- "Astronauts [beam](/post/beam/) [back](/post/back/) images" is [a](/post/a/) [common](/post/common/) [expression](/post/expression/) [for](/post/for/) transmitting photos [or](/post/or/) [data](/post/data/) [from](/post/from/) [space](/post/space/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) had [a](/en/post/a/) [thick](/en/post/thick/) [wooden](/en/post/wooden/) [beam](/en/post/beam/) [across](/en/post/across/) [the](/en/post/the/) [ceiling](/en/post/ceiling/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) astronomer adjusted [the](/en/post/the/) telescope's [focus](/en/post/focus/) [to](/en/post/to/) [beam](/en/post/beam/) [the](/en/post/the/) [distant](/en/post/distant/) galaxy."
-- **Informal [Verb](/en/post/verb/)**: "[She](/en/post/she/) couldn't [help](/en/post/help/) [but](/en/post/but/) [beam](/en/post/beam/) [with](/en/post/with/) [pride](/en/post/pride/) [when](/en/post/when/) [her](/en/post/her/) [child](/en/post/child/) won [the](/en/post/the/) [award](/en/post/award/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [house](/post/house/) had [a](/post/a/) [thick](/post/thick/) [wooden](/post/wooden/) [beam](/post/beam/) [across](/post/across/) [the](/post/the/) [ceiling](/post/ceiling/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) astronomer adjusted [the](/post/the/) telescope's [focus](/post/focus/) [to](/post/to/) [beam](/post/beam/) [the](/post/the/) [distant](/post/distant/) galaxy."
+- **Informal [Verb](/post/verb/)**: "[She](/post/she/) couldn't [help](/post/help/) [but](/post/but/) [beam](/post/beam/) [with](/post/with/) [pride](/post/pride/) [when](/post/when/) [her](/post/her/) [child](/post/child/) won [the](/post/the/) [award](/post/award/)."
 
 ## Synonyms
-- [Radiate](/en/post/radiate/)
-- [Shine](/en/post/shine/)
-- [Emit](/en/post/emit/)
-- [Transmit](/en/post/transmit/)
-- [Glow](/en/post/glow/)
+- [Radiate](/post/radiate/)
+- [Shine](/post/shine/)
+- [Emit](/post/emit/)
+- [Transmit](/post/transmit/)
+- [Glow](/post/glow/)
 
 ## Antonyms
-- [Frown](/en/post/frown/)
-- [Shadow](/en/post/shadow/)
-- [Dull](/en/post/dull/)
+- [Frown](/post/frown/)
+- [Shadow](/post/shadow/)
+- [Dull](/post/dull/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'elementary']
 /ˈɛləməntary/
 
 ## 释义
-- **形容词**: 基本的，初级的，初步的。例如: "[The](/post/the/) [book](/post/book/) covers [only](/post/only/) [elementary](/post/elementary/) [mathematics](/post/mathematics/)."
-- **名词**: 元素，基本部分。例如: "[Water](/post/water/) is composed [of](/post/of/) [two](/post/two/) [hydrogen](/post/hydrogen/) atoms [and](/post/and/) [one](/post/one/) oxygen [atom](/post/atom/), [the](/post/the/) [elementary](/post/elementary/) units [of](/post/of/) [life](/post/life/)."
+- **形容词**: 基本的，初级的，初步的。例如: "[The](/zh/post/the/) [book](/zh/post/book/) covers [only](/zh/post/only/) [elementary](/zh/post/elementary/) [mathematics](/zh/post/mathematics/)."
+- **名词**: 元素，基本部分。例如: "[Water](/zh/post/water/) is composed [of](/zh/post/of/) [two](/zh/post/two/) [hydrogen](/zh/post/hydrogen/) atoms [and](/zh/post/and/) [one](/zh/post/one/) oxygen [atom](/zh/post/atom/), [the](/zh/post/the/) [elementary](/zh/post/elementary/) units [of](/zh/post/of/) [life](/zh/post/life/)."
 
 ## 短语
-- "[elementary](/post/elementary/) [education](/post/education/)" 指基础教育。
-- "[the](/post/the/) [elementary](/post/elementary/) principles [of](/post/of/) [something](/post/something/)" 某事物的基本原理或概念。
+- "[elementary](/zh/post/elementary/) [education](/zh/post/education/)" 指基础教育。
+- "[the](/zh/post/the/) [elementary](/zh/post/elementary/) principles [of](/zh/post/of/) [something](/zh/post/something/)" 某事物的基本原理或概念。
 
 ## 例句
-- 形容词: "[The](/post/the/) [course](/post/course/) is designed [for](/post/for/) students [with](/post/with/) [no](/post/no/) [prior](/post/prior/) [knowledge](/post/knowledge/), [so](/post/so/) it's entirely [elementary](/post/elementary/)."
-- 名词: "[The](/post/the/) [teacher](/post/teacher/) explained [the](/post/the/) [elementary](/post/elementary/) concepts [of](/post/of/) [physics](/post/physics/) [to](/post/to/) [the](/post/the/) students."
+- 形容词: "[The](/zh/post/the/) [course](/zh/post/course/) is designed [for](/zh/post/for/) students [with](/zh/post/with/) [no](/zh/post/no/) [prior](/zh/post/prior/) [knowledge](/zh/post/knowledge/), [so](/zh/post/so/) it's entirely [elementary](/zh/post/elementary/)."
+- 名词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) explained [the](/zh/post/the/) [elementary](/zh/post/elementary/) concepts [of](/zh/post/of/) [physics](/zh/post/physics/) [to](/zh/post/to/) [the](/zh/post/the/) students."
 
 ## 同义词
-- [Basic](/post/basic/)
-- [Fundamental](/post/fundamental/)
-- [Primary](/post/primary/)
-- [Simple](/post/simple/)
+- [Basic](/zh/post/basic/)
+- [Fundamental](/zh/post/fundamental/)
+- [Primary](/zh/post/primary/)
+- [Simple](/zh/post/simple/)
 - rudimentary

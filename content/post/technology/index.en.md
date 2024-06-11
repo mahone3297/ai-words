@@ -7,36 +7,36 @@ description = '[tekˈnɔlədʒi] n.工艺学，工艺，技术'
 keywords = ['ai words', 'technology']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tekˈnɒlədʒi/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [application](/en/post/application/) [of](/en/post/of/) [scientific](/en/post/scientific/) [knowledge](/en/post/knowledge/) [and](/en/post/and/) techniques [for](/en/post/for/) [practical](/en/post/practical/) purposes, [especially](/en/post/especially/) [in](/en/post/in/) industries.
-2. [The](/en/post/the/) [collection](/en/post/collection/) [of](/en/post/of/) tools, machines, materials, [and](/en/post/and/) processes [used](/en/post/used/) [to](/en/post/to/) [solve](/en/post/solve/) problems [or](/en/post/or/) [create](/en/post/create/) [goods](/en/post/goods/) [and](/en/post/and/) services.
-3. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [advanced](/en/post/advanced/) [in](/en/post/in/) terms [of](/en/post/of/) [science](/en/post/science/) [and](/en/post/and/) [equipment](/en/post/equipment/).
-4. [The](/en/post/the/) [field](/en/post/field/) [that](/en/post/that/) deals [with](/en/post/with/) [the](/en/post/the/) [development](/en/post/development/), [use](/en/post/use/), [and](/en/post/and/) [study](/en/post/study/) [of](/en/post/of/) tools, systems, [and](/en/post/and/) processes [for](/en/post/for/) improving [efficiency](/en/post/efficiency/) [and](/en/post/and/) effectiveness.
+### [Noun](/post/noun/)
+1. [The](/post/the/) [application](/post/application/) [of](/post/of/) [scientific](/post/scientific/) [knowledge](/post/knowledge/) [and](/post/and/) techniques [for](/post/for/) [practical](/post/practical/) purposes, [especially](/post/especially/) [in](/post/in/) industries.
+2. [The](/post/the/) [collection](/post/collection/) [of](/post/of/) tools, machines, materials, [and](/post/and/) processes [used](/post/used/) [to](/post/to/) [solve](/post/solve/) problems [or](/post/or/) [create](/post/create/) [goods](/post/goods/) [and](/post/and/) services.
+3. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [advanced](/post/advanced/) [in](/post/in/) terms [of](/post/of/) [science](/post/science/) [and](/post/and/) [equipment](/post/equipment/).
+4. [The](/post/the/) [field](/post/field/) [that](/post/that/) deals [with](/post/with/) [the](/post/the/) [development](/post/development/), [use](/post/use/), [and](/post/and/) [study](/post/study/) [of](/post/of/) tools, systems, [and](/post/and/) processes [for](/post/for/) improving [efficiency](/post/efficiency/) [and](/post/and/) effectiveness.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [apply](/en/post/apply/) [or](/en/post/or/) [employ](/en/post/employ/) technological methods [or](/en/post/or/) advancements.
-2. [To](/en/post/to/) innovate [or](/en/post/or/) [develop](/en/post/develop/) [new](/en/post/new/) technologies.
+### [Verb](/post/verb/)
+1. [To](/post/to/) [apply](/post/apply/) [or](/post/or/) [employ](/post/employ/) technological methods [or](/post/or/) advancements.
+2. [To](/post/to/) innovate [or](/post/or/) [develop](/post/develop/) [new](/post/new/) technologies.
 
 ## Phrases
-- "[Keep](/en/post/keep/) [up](/en/post/up/) [with](/en/post/with/) [the](/en/post/the/) latest [technology](/en/post/technology/)"
+- "[Keep](/post/keep/) [up](/post/up/) [with](/post/with/) [the](/post/the/) latest [technology](/post/technology/)"
 - "Technological advancements"
-- "[Utilize](/en/post/utilize/) [technology](/en/post/technology/) [in](/en/post/in/) [education](/en/post/education/)"
+- "[Utilize](/post/utilize/) [technology](/post/technology/) [in](/post/in/) [education](/post/education/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [rapid](/en/post/rapid/) [development](/en/post/development/) [of](/en/post/of/) [technology](/en/post/technology/) has transformed [our](/en/post/our/) [daily](/en/post/daily/) lives."
-- **[Verb](/en/post/verb/)**: "They're working [on](/en/post/on/) [a](/en/post/a/) [new](/en/post/new/) [technology](/en/post/technology/) [that](/en/post/that/) [could](/en/post/could/) revolutionize [the](/en/post/the/) healthcare [industry](/en/post/industry/)."
-- **[In](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/) using [the](/en/post/the/) [verb](/en/post/verb/)**: "[She](/en/post/she/) [quickly](/en/post/quickly/) adapted [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) [technology](/en/post/technology/) [at](/en/post/at/) [her](/en/post/her/) [job](/en/post/job/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [rapid](/post/rapid/) [development](/post/development/) [of](/post/of/) [technology](/post/technology/) has transformed [our](/post/our/) [daily](/post/daily/) lives."
+- **[Verb](/post/verb/)**: "They're working [on](/post/on/) [a](/post/a/) [new](/post/new/) [technology](/post/technology/) [that](/post/that/) [could](/post/could/) revolutionize [the](/post/the/) healthcare [industry](/post/industry/)."
+- **[In](/post/in/) [a](/post/a/) [sentence](/post/sentence/) using [the](/post/the/) [verb](/post/verb/)**: "[She](/post/she/) [quickly](/post/quickly/) adapted [to](/post/to/) [the](/post/the/) [new](/post/new/) [technology](/post/technology/) [at](/post/at/) [her](/post/her/) [job](/post/job/)."
 
 ## Synonyms
 - Innovation
-- [Science](/en/post/science/)
-- [Engineering](/en/post/engineering/)
-- [Automation](/en/post/automation/)
-- [Hardware](/en/post/hardware/)
+- [Science](/post/science/)
+- [Engineering](/post/engineering/)
+- [Automation](/post/automation/)
+- [Hardware](/post/hardware/)
 - Software
 - Tools
 - Resources

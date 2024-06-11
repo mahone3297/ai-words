@@ -7,39 +7,39 @@ description = '[ˈsʌplimənt] n.&vt.增补，补充'
 keywords = ['ai words', 'supplement']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈplɪmənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [phrase](/en/post/phrase/) added [to](/en/post/to/) [a](/en/post/a/) [text](/en/post/text/), [especially](/en/post/especially/) [a](/en/post/a/) [newspaper](/en/post/newspaper/) [or](/en/post/or/) [magazine](/en/post/magazine/), [to](/en/post/to/) [provide](/en/post/provide/) [additional](/en/post/additional/) [information](/en/post/information/) [or](/en/post/or/) [fill](/en/post/fill/) gaps:** *[The](/en/post/the/) [weekly](/en/post/weekly/) [supplement](/en/post/supplement/) features recipes [and](/en/post/and/) [health](/en/post/health/) tips.*
-2. **[A](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/) offered [in](/en/post/in/) [addition](/en/post/addition/) [to](/en/post/to/) [the](/en/post/the/) [regular](/en/post/regular/) [one](/en/post/one/), typically [for](/en/post/for/) [extra](/en/post/extra/) [cost](/en/post/cost/):** *[The](/en/post/the/) [hotel](/en/post/hotel/) offers [a](/en/post/a/) [breakfast](/en/post/breakfast/) [supplement](/en/post/supplement/).*
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [word](/post/word/) [or](/post/or/) [phrase](/post/phrase/) added [to](/post/to/) [a](/post/a/) [text](/post/text/), [especially](/post/especially/) [a](/post/a/) [newspaper](/post/newspaper/) [or](/post/or/) [magazine](/post/magazine/), [to](/post/to/) [provide](/post/provide/) [additional](/post/additional/) [information](/post/information/) [or](/post/or/) [fill](/post/fill/) gaps:** *[The](/post/the/) [weekly](/post/weekly/) [supplement](/post/supplement/) features recipes [and](/post/and/) [health](/post/health/) tips.*
+2. **[A](/post/a/) [product](/post/product/) [or](/post/or/) [service](/post/service/) offered [in](/post/in/) [addition](/post/addition/) [to](/post/to/) [the](/post/the/) [regular](/post/regular/) [one](/post/one/), typically [for](/post/for/) [extra](/post/extra/) [cost](/post/cost/):** *[The](/post/the/) [hotel](/post/hotel/) offers [a](/post/a/) [breakfast](/post/breakfast/) [supplement](/post/supplement/).*
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [add](/en/post/add/) [something](/en/post/something/) [extra](/en/post/extra/) [or](/en/post/or/) complementary [to](/en/post/to/) ([a](/en/post/a/) [meal](/en/post/meal/), [for](/en/post/for/) [example](/en/post/example/)):** *We'll [have](/en/post/have/) [a](/en/post/a/) [salad](/en/post/salad/) [supplement](/en/post/supplement/) [with](/en/post/with/) [our](/en/post/our/) [dinner](/en/post/dinner/).*
-2. **[To](/en/post/to/) [supply](/en/post/supply/) [or](/en/post/or/) [provide](/en/post/provide/) [something](/en/post/something/) [as](/en/post/as/) an [addition](/en/post/addition/) [or](/en/post/or/) enhancement:** *[The](/en/post/the/) [package](/en/post/package/) includes [a](/en/post/a/) [free](/en/post/free/) [supplement](/en/post/supplement/) [book](/en/post/book/).*
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [add](/post/add/) [something](/post/something/) [extra](/post/extra/) [or](/post/or/) complementary [to](/post/to/) ([a](/post/a/) [meal](/post/meal/), [for](/post/for/) [example](/post/example/)):** *We'll [have](/post/have/) [a](/post/a/) [salad](/post/salad/) [supplement](/post/supplement/) [with](/post/with/) [our](/post/our/) [dinner](/post/dinner/).*
+2. **[To](/post/to/) [supply](/post/supply/) [or](/post/or/) [provide](/post/provide/) [something](/post/something/) [as](/post/as/) an [addition](/post/addition/) [or](/post/or/) enhancement:** *[The](/post/the/) [package](/post/package/) includes [a](/post/a/) [free](/post/free/) [supplement](/post/supplement/) [book](/post/book/).*
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [supplement](/en/post/supplement/)" [for](/en/post/for/) taking vitamins [or](/en/post/or/) dietary supplements.
-- "[Supplement](/en/post/supplement/) [your](/en/post/your/) diet" [to](/en/post/to/) [improve](/en/post/improve/) nutrition [with](/en/post/with/) [additional](/en/post/additional/) nutrients.
-- "[A](/en/post/a/) [supplement](/en/post/supplement/) [to](/en/post/to/) [income](/en/post/income/)" [for](/en/post/for/) [extra](/en/post/extra/) earnings.
+- "[Take](/post/take/) [a](/post/a/) [supplement](/post/supplement/)" [for](/post/for/) taking vitamins [or](/post/or/) dietary supplements.
+- "[Supplement](/post/supplement/) [your](/post/your/) diet" [to](/post/to/) [improve](/post/improve/) nutrition [with](/post/with/) [additional](/post/additional/) nutrients.
+- "[A](/post/a/) [supplement](/post/supplement/) [to](/post/to/) [income](/post/income/)" [for](/post/for/) [extra](/post/extra/) earnings.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Readers [can](/en/post/can/) [find](/en/post/find/) [the](/en/post/the/) crossword [puzzle](/en/post/puzzle/) [supplement](/en/post/supplement/) [on](/en/post/on/) [the](/en/post/the/) [back](/en/post/back/) [page](/en/post/page/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) took [a](/en/post/a/) calcium [supplement](/en/post/supplement/) [every](/en/post/every/) [day](/en/post/day/) [to](/en/post/to/) [maintain](/en/post/maintain/) [her](/en/post/her/) [bone](/en/post/bone/) [health](/en/post/health/)."
-- **Intransitive [verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) [issue](/en/post/issue/) comes [with](/en/post/with/) [a](/en/post/a/) [special](/en/post/special/) [travel](/en/post/travel/) [supplement](/en/post/supplement/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Readers [can](/post/can/) [find](/post/find/) [the](/post/the/) crossword [puzzle](/post/puzzle/) [supplement](/post/supplement/) [on](/post/on/) [the](/post/the/) [back](/post/back/) [page](/post/page/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) took [a](/post/a/) calcium [supplement](/post/supplement/) [every](/post/every/) [day](/post/day/) [to](/post/to/) [maintain](/post/maintain/) [her](/post/her/) [bone](/post/bone/) [health](/post/health/)."
+- **Intransitive [verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) [issue](/post/issue/) comes [with](/post/with/) [a](/post/a/) [special](/post/special/) [travel](/post/travel/) [supplement](/post/supplement/)."
 
 ## Synonyms
 - Add-on
 - Enhancement
-- [Extension](/en/post/extension/)
-- [Additional](/en/post/additional/) [content](/en/post/content/)
+- [Extension](/post/extension/)
+- [Additional](/post/additional/) [content](/post/content/)
 - Complimentary
-- Bonus [feature](/en/post/feature/)
-- [Accessory](/en/post/accessory/)
+- Bonus [feature](/post/feature/)
+- [Accessory](/post/accessory/)
 
 ## Antonyms
 - Omission
-- [Reduction](/en/post/reduction/)
+- [Reduction](/post/reduction/)
 - Exclusion
-- [Basic](/en/post/basic/) (contrasting [with](/en/post/with/) [a](/en/post/a/) [supplement](/en/post/supplement/))
+- [Basic](/post/basic/) (contrasting [with](/post/with/) [a](/post/a/) [supplement](/post/supplement/))

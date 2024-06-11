@@ -7,35 +7,35 @@ description = '[ˈsaiəns] n.科学，科学研究'
 keywords = ['ai words', 'science']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sciˈnsiː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) systematic [study](/en/post/study/) [of](/en/post/of/) [the](/en/post/the/) [physical](/en/post/physical/) [and](/en/post/and/) [natural](/en/post/natural/) [world](/en/post/world/) [through](/en/post/through/) [observation](/en/post/observation/) [and](/en/post/and/) [experiment](/en/post/experiment/), aiming [to](/en/post/to/) [discover](/en/post/discover/) underlying laws [and](/en/post/and/) principles. 2. [Knowledge](/en/post/knowledge/) [or](/en/post/or/) facts obtained [by](/en/post/by/) studying [such](/en/post/such/) phenomena. 3. [A](/en/post/a/) [branch](/en/post/branch/) [of](/en/post/of/) [knowledge](/en/post/knowledge/) dealing [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [aspect](/en/post/aspect/) [of](/en/post/of/) [the](/en/post/the/) [natural](/en/post/natural/) [world](/en/post/world/) (e.g., [physics](/en/post/physics/), [biology](/en/post/biology/), [chemistry](/en/post/chemistry/)).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [scientific](/en/post/scientific/) [research](/en/post/research/), [study](/en/post/study/), [or](/en/post/or/) [inquiry](/en/post/inquiry/).
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [scientific](/en/post/scientific/) methods [or](/en/post/or/) principles.
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) systematic [study](/post/study/) [of](/post/of/) [the](/post/the/) [physical](/post/physical/) [and](/post/and/) [natural](/post/natural/) [world](/post/world/) [through](/post/through/) [observation](/post/observation/) [and](/post/and/) [experiment](/post/experiment/), aiming [to](/post/to/) [discover](/post/discover/) underlying laws [and](/post/and/) principles. 2. [Knowledge](/post/knowledge/) [or](/post/or/) facts obtained [by](/post/by/) studying [such](/post/such/) phenomena. 3. [A](/post/a/) [branch](/post/branch/) [of](/post/of/) [knowledge](/post/knowledge/) dealing [with](/post/with/) [a](/post/a/) [particular](/post/particular/) [aspect](/post/aspect/) [of](/post/of/) [the](/post/the/) [natural](/post/natural/) [world](/post/world/) (e.g., [physics](/post/physics/), [biology](/post/biology/), [chemistry](/post/chemistry/)).
+- **[Verb](/post/verb/)**: [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [scientific](/post/scientific/) [research](/post/research/), [study](/post/study/), [or](/post/or/) [inquiry](/post/inquiry/).
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [scientific](/post/scientific/) methods [or](/post/or/) principles.
 
 ## Phrases
-- "[Conduct](/en/post/conduct/) [scientific](/en/post/scientific/) [research](/en/post/research/)"
-- "Advancements [in](/en/post/in/) [science](/en/post/science/)"
-- "[The](/en/post/the/) [scientific](/en/post/scientific/) [method](/en/post/method/)"
+- "[Conduct](/post/conduct/) [scientific](/post/scientific/) [research](/post/research/)"
+- "Advancements [in](/post/in/) [science](/post/science/)"
+- "[The](/post/the/) [scientific](/post/scientific/) [method](/post/method/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Science](/en/post/science/) is [the](/en/post/the/) [foundation](/en/post/foundation/) [of](/en/post/of/) [many](/en/post/many/) technological advancements."
-- **[Verb](/en/post/verb/)**: "Scientists [have](/en/post/have/) been studying [climate](/en/post/climate/) [change](/en/post/change/) [for](/en/post/for/) decades."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) lab's findings were based [on](/en/post/on/) [solid](/en/post/solid/) [scientific](/en/post/scientific/) [evidence](/en/post/evidence/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Science](/post/science/) is [the](/post/the/) [foundation](/post/foundation/) [of](/post/of/) [many](/post/many/) technological advancements."
+- **[Verb](/post/verb/)**: "Scientists [have](/post/have/) been studying [climate](/post/climate/) [change](/post/change/) [for](/post/for/) decades."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) lab's findings were based [on](/post/on/) [solid](/post/solid/) [scientific](/post/scientific/) [evidence](/post/evidence/)."
 
 ## Synonyms
-- [Knowledge](/en/post/knowledge/)
-- [Research](/en/post/research/)
-- [Study](/en/post/study/)
-- [Discipline](/en/post/discipline/)
-- [Learning](/en/post/learning/)
-- [Inquiry](/en/post/inquiry/)
-- [Investigation](/en/post/investigation/)
+- [Knowledge](/post/knowledge/)
+- [Research](/post/research/)
+- [Study](/post/study/)
+- [Discipline](/post/discipline/)
+- [Learning](/post/learning/)
+- [Inquiry](/post/inquiry/)
+- [Investigation](/post/investigation/)
 
 ## Antonyms
 - Mythology
 - Superstition
-- Empiricism ([limited](/en/post/limited/) [sense](/en/post/sense/))
-- [Belief](/en/post/belief/) ([in](/en/post/in/) [the](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/) empirical [evidence](/en/post/evidence/))
+- Empiricism ([limited](/post/limited/) [sense](/post/sense/))
+- [Belief](/post/belief/) ([in](/post/in/) [the](/post/the/) [absence](/post/absence/) [of](/post/of/) empirical [evidence](/post/evidence/))

@@ -7,40 +7,40 @@ description = '[ˈtælənt] n.天才；才能；人才'
 keywords = ['ai words', 'talent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tælənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) person's [natural](/en/post/natural/) [ability](/en/post/ability/) [or](/en/post/or/) [skill](/en/post/skill/) [that](/en/post/that/) allows [them](/en/post/them/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [well](/en/post/well/)**: [She](/en/post/she/) has [a](/en/post/a/) [real](/en/post/real/) [talent](/en/post/talent/) [for](/en/post/for/) [painting](/en/post/painting/).
-- **[A](/en/post/a/) [particular](/en/post/particular/) [skill](/en/post/skill/) [or](/en/post/or/) aptitude [that](/en/post/that/) is [especially](/en/post/especially/) [good](/en/post/good/) [or](/en/post/or/) exceptional**: [His](/en/post/his/) [musical](/en/post/musical/) [talent](/en/post/talent/) is undeniable.
-- **[A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) possesses [such](/en/post/such/) an [ability](/en/post/ability/)**: [The](/en/post/the/) [team](/en/post/team/) was formed [to](/en/post/to/) nurture [young](/en/post/young/) talents.
+### [Noun](/post/noun/)
+- **[A](/post/a/) person's [natural](/post/natural/) [ability](/post/ability/) [or](/post/or/) [skill](/post/skill/) [that](/post/that/) allows [them](/post/them/) [to](/post/to/) [do](/post/do/) [something](/post/something/) [well](/post/well/)**: [She](/post/she/) has [a](/post/a/) [real](/post/real/) [talent](/post/talent/) [for](/post/for/) [painting](/post/painting/).
+- **[A](/post/a/) [particular](/post/particular/) [skill](/post/skill/) [or](/post/or/) aptitude [that](/post/that/) is [especially](/post/especially/) [good](/post/good/) [or](/post/or/) exceptional**: [His](/post/his/) [musical](/post/musical/) [talent](/post/talent/) is undeniable.
+- **[A](/post/a/) [person](/post/person/) [who](/post/who/) possesses [such](/post/such/) an [ability](/post/ability/)**: [The](/post/the/) [team](/post/team/) was formed [to](/post/to/) nurture [young](/post/young/) talents.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [possess](/en/post/possess/) [or](/en/post/or/) [display](/en/post/display/) [a](/en/post/a/) [natural](/en/post/natural/) [ability](/en/post/ability/)**: [He](/en/post/he/) talents [in](/en/post/in/) [both](/en/post/both/) [music](/en/post/music/) [and](/en/post/and/) sports.
-- **[To](/en/post/to/) [recognize](/en/post/recognize/) [or](/en/post/or/) acknowledge someone's [skill](/en/post/skill/)**: [The](/en/post/the/) judges [talent](/en/post/talent/) [her](/en/post/her/) [for](/en/post/for/) [her](/en/post/her/) [outstanding](/en/post/outstanding/) [performance](/en/post/performance/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [possess](/post/possess/) [or](/post/or/) [display](/post/display/) [a](/post/a/) [natural](/post/natural/) [ability](/post/ability/)**: [He](/post/he/) talents [in](/post/in/) [both](/post/both/) [music](/post/music/) [and](/post/and/) sports.
+- **[To](/post/to/) [recognize](/post/recognize/) [or](/post/or/) acknowledge someone's [skill](/post/skill/)**: [The](/post/the/) judges [talent](/post/talent/) [her](/post/her/) [for](/post/for/) [her](/post/her/) [outstanding](/post/outstanding/) [performance](/post/performance/).
 
 ## Phrases
-- "[Show](/en/post/show/) [off](/en/post/off/) [your](/en/post/your/) [talent](/en/post/talent/)" [means](/en/post/means/) [to](/en/post/to/) [demonstrate](/en/post/demonstrate/) [your](/en/post/your/) abilities.
-- "[Talent](/en/post/talent/) [search](/en/post/search/)" refers [to](/en/post/to/) [a](/en/post/a/) [competition](/en/post/competition/) looking [for](/en/post/for/) individuals [with](/en/post/with/) exceptional skills.
-- "Hidden [talent](/en/post/talent/)" refers [to](/en/post/to/) an [unexpected](/en/post/unexpected/) [ability](/en/post/ability/) [someone](/en/post/someone/) discovers.
+- "[Show](/post/show/) [off](/post/off/) [your](/post/your/) [talent](/post/talent/)" [means](/post/means/) [to](/post/to/) [demonstrate](/post/demonstrate/) [your](/post/your/) abilities.
+- "[Talent](/post/talent/) [search](/post/search/)" refers [to](/post/to/) [a](/post/a/) [competition](/post/competition/) looking [for](/post/for/) individuals [with](/post/with/) exceptional skills.
+- "Hidden [talent](/post/talent/)" refers [to](/post/to/) an [unexpected](/post/unexpected/) [ability](/post/ability/) [someone](/post/someone/) discovers.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) discovered [her](/en/post/her/) child's hidden [talent](/en/post/talent/) [for](/en/post/for/) [chess](/en/post/chess/) [at](/en/post/at/) [a](/en/post/a/) [young](/en/post/young/) [age](/en/post/age/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [coach](/en/post/coach/) [talent](/en/post/talent/) [the](/en/post/the/) [new](/en/post/new/) [player](/en/post/player/) [for](/en/post/for/) [their](/en/post/their/) agility [on](/en/post/on/) [the](/en/post/the/) [field](/en/post/field/)."
-- **Phrasal**: "[The](/en/post/the/) [art](/en/post/art/) [exhibition](/en/post/exhibition/) showcased [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) talents [from](/en/post/from/) [local](/en/post/local/) artists."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) discovered [her](/post/her/) child's hidden [talent](/post/talent/) [for](/post/for/) [chess](/post/chess/) [at](/post/at/) [a](/post/a/) [young](/post/young/) [age](/post/age/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [coach](/post/coach/) [talent](/post/talent/) [the](/post/the/) [new](/post/new/) [player](/post/player/) [for](/post/for/) [their](/post/their/) agility [on](/post/on/) [the](/post/the/) [field](/post/field/)."
+- **Phrasal**: "[The](/post/the/) [art](/post/art/) [exhibition](/post/exhibition/) showcased [a](/post/a/) [variety](/post/variety/) [of](/post/of/) talents [from](/post/from/) [local](/post/local/) artists."
 
 ## Synonyms
-- [Ability](/en/post/ability/)
-- [Gift](/en/post/gift/)
-- [Skill](/en/post/skill/)
+- [Ability](/post/ability/)
+- [Gift](/post/gift/)
+- [Skill](/post/skill/)
 - Proficiency
-- [Natural](/en/post/natural/) aptitude
-- [Genius](/en/post/genius/)
+- [Natural](/post/natural/) aptitude
+- [Genius](/post/genius/)
 
 ## Antonyms
 - Incompetence
-- [Lack](/en/post/lack/) [of](/en/post/of/) [skill](/en/post/skill/)
-- [Weakness](/en/post/weakness/)
+- [Lack](/post/lack/) [of](/post/of/) [skill](/post/skill/)
+- [Weakness](/post/weakness/)
 - Inability
 - Mediocrity

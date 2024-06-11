@@ -7,34 +7,34 @@ description = '[ˈsauə] a.酸的；脾气坏的'
 keywords = ['ai words', 'sour']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɔːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Sour](/en/post/sour/)** (adj): Referring [to](/en/post/to/) [a](/en/post/a/) [taste](/en/post/taste/) [that](/en/post/that/) is unpleasantly acidic [or](/en/post/or/) [sharp](/en/post/sharp/), typically [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [presence](/en/post/presence/) [of](/en/post/of/) [vinegar](/en/post/vinegar/) [or](/en/post/or/) rotting [fruit](/en/post/fruit/). [Example](/en/post/example/): "[The](/en/post/the/) lemonade tasted [a](/en/post/a/) [bit](/en/post/bit/) [sour](/en/post/sour/)."
-- **Sourness** ([noun](/en/post/noun/)): [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [condition](/en/post/condition/) [of](/en/post/of/) [being](/en/post/being/) [sour](/en/post/sour/); [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) disappointment [or](/en/post/or/) unhappiness. [Example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) [sour](/en/post/sour/) [expression](/en/post/expression/) [after](/en/post/after/) hearing [the](/en/post/the/) [news](/en/post/news/)."
+### [Noun](/post/noun/)
+- **[Sour](/post/sour/)** (adj): Referring [to](/post/to/) [a](/post/a/) [taste](/post/taste/) [that](/post/that/) is unpleasantly acidic [or](/post/or/) [sharp](/post/sharp/), typically [due](/post/due/) [to](/post/to/) [the](/post/the/) [presence](/post/presence/) [of](/post/of/) [vinegar](/post/vinegar/) [or](/post/or/) rotting [fruit](/post/fruit/). [Example](/post/example/): "[The](/post/the/) lemonade tasted [a](/post/a/) [bit](/post/bit/) [sour](/post/sour/)."
+- **Sourness** ([noun](/post/noun/)): [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [condition](/post/condition/) [of](/post/of/) [being](/post/being/) [sour](/post/sour/); [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) disappointment [or](/post/or/) unhappiness. [Example](/post/example/): "[She](/post/she/) had [a](/post/a/) [sour](/post/sour/) [expression](/post/expression/) [after](/post/after/) hearing [the](/post/the/) [news](/post/news/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [sour](/en/post/sour/)** (v): [To](/en/post/to/) [become](/en/post/become/) spoiled [or](/en/post/or/) [unpleasant](/en/post/unpleasant/), [often](/en/post/often/) [in](/en/post/in/) terms [of](/en/post/of/) [taste](/en/post/taste/) [or](/en/post/or/) [mood](/en/post/mood/). [Example](/en/post/example/): "[The](/en/post/the/) [milk](/en/post/milk/) has soured [and](/en/post/and/) needs [to](/en/post/to/) [be](/en/post/be/) thrown [out](/en/post/out/)."
-- **[To](/en/post/to/) [sour](/en/post/sour/) [on](/en/post/on/)** ([phrase](/en/post/phrase/)): [To](/en/post/to/) [lose](/en/post/lose/) [interest](/en/post/interest/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/) [in](/en/post/in/) [something](/en/post/something/). [Example](/en/post/example/): "[Her](/en/post/her/) [mood](/en/post/mood/) soured [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/) [after](/en/post/after/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) setbacks."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [sour](/post/sour/)** (v): [To](/post/to/) [become](/post/become/) spoiled [or](/post/or/) [unpleasant](/post/unpleasant/), [often](/post/often/) [in](/post/in/) terms [of](/post/of/) [taste](/post/taste/) [or](/post/or/) [mood](/post/mood/). [Example](/post/example/): "[The](/post/the/) [milk](/post/milk/) has soured [and](/post/and/) needs [to](/post/to/) [be](/post/be/) thrown [out](/post/out/)."
+- **[To](/post/to/) [sour](/post/sour/) [on](/post/on/)** ([phrase](/post/phrase/)): [To](/post/to/) [lose](/post/lose/) [interest](/post/interest/) [or](/post/or/) [enthusiasm](/post/enthusiasm/) [in](/post/in/) [something](/post/something/). [Example](/post/example/): "[Her](/post/her/) [mood](/post/mood/) soured [on](/post/on/) [the](/post/the/) [project](/post/project/) [after](/post/after/) [a](/post/a/) [series](/post/series/) [of](/post/of/) setbacks."
 
-### [Adjective](/en/post/adjective/)
-- **Sour-faced** (adj): Having an [angry](/en/post/angry/) [or](/en/post/or/) [unhappy](/en/post/unhappy/) [expression](/en/post/expression/). [Example](/en/post/example/): "[The](/en/post/the/) [waiter](/en/post/waiter/) looked sour-faced [when](/en/post/when/) [we](/en/post/we/) asked [for](/en/post/for/) [more](/en/post/more/) [salt](/en/post/salt/)."
+### [Adjective](/post/adjective/)
+- **Sour-faced** (adj): Having an [angry](/post/angry/) [or](/post/or/) [unhappy](/post/unhappy/) [expression](/post/expression/). [Example](/post/example/): "[The](/post/the/) [waiter](/post/waiter/) looked sour-faced [when](/post/when/) [we](/post/we/) asked [for](/post/for/) [more](/post/more/) [salt](/post/salt/)."
 
 ## Phrases
-- "[A](/en/post/a/) [sour](/en/post/sour/) [note](/en/post/note/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) dissonant [or](/en/post/or/) disagreeable [element](/en/post/element/) [in](/en/post/in/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [conversation](/en/post/conversation/).
-- "Bitter-sweet memories" evoke [a](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) [both](/en/post/both/) [happiness](/en/post/happiness/) [and](/en/post/and/) [sadness](/en/post/sadness/), [like](/en/post/like/) [a](/en/post/a/) [slightly](/en/post/slightly/) [sour](/en/post/sour/) [taste](/en/post/taste/).
-- " [Sour](/en/post/sour/) grapes" is [a](/en/post/a/) saying [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [who](/en/post/who/) is envious [and](/en/post/and/) begrudgingly criticizes [what](/en/post/what/) [they](/en/post/they/) cannot [have](/en/post/have/).
+- "[A](/post/a/) [sour](/post/sour/) [note](/post/note/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) dissonant [or](/post/or/) disagreeable [element](/post/element/) [in](/post/in/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [conversation](/post/conversation/).
+- "Bitter-sweet memories" evoke [a](/post/a/) [mixture](/post/mixture/) [of](/post/of/) [both](/post/both/) [happiness](/post/happiness/) [and](/post/and/) [sadness](/post/sadness/), [like](/post/like/) [a](/post/a/) [slightly](/post/slightly/) [sour](/post/sour/) [taste](/post/taste/).
+- " [Sour](/post/sour/) grapes" is [a](/post/a/) saying [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [who](/post/who/) is envious [and](/post/and/) begrudgingly criticizes [what](/post/what/) [they](/post/they/) cannot [have](/post/have/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) yogurt had [a](/en/post/a/) tangy, [slightly](/en/post/slightly/) [sour](/en/post/sour/) flavor."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) [mood](/en/post/mood/) soured [when](/en/post/when/) [he](/en/post/he/) realized [his](/en/post/his/) plans had fallen [through](/en/post/through/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) wore [a](/en/post/a/) sour-faced [expression](/en/post/expression/) [after](/en/post/after/) receiving [bad](/en/post/bad/) [news](/en/post/news/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) yogurt had [a](/post/a/) tangy, [slightly](/post/slightly/) [sour](/post/sour/) flavor."
+- **[Verb](/post/verb/)**: "[His](/post/his/) [mood](/post/mood/) soured [when](/post/when/) [he](/post/he/) realized [his](/post/his/) plans had fallen [through](/post/through/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) wore [a](/post/a/) sour-faced [expression](/post/expression/) [after](/post/after/) receiving [bad](/post/bad/) [news](/post/news/)."
 
 ## Synonyms
 - Acidic
 - Tart
-- [Bitter](/en/post/bitter/)
+- [Bitter](/post/bitter/)
 - Unappetizing
 - Discontented

@@ -7,30 +7,30 @@ description = '[ˈminiməm] n.最小量 a.最小的'
 keywords = ['ai words', 'minimum']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɪnɪməm/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [least](/en/post/least/) [or](/en/post/or/) smallest [amount](/en/post/amount/), [quantity](/en/post/quantity/), [or](/en/post/or/) [degree](/en/post/degree/) [possible](/en/post/possible/), required, [or](/en/post/or/) [desirable](/en/post/desirable/); [the](/en/post/the/) lowest [limit](/en/post/limit/) allowed [or](/en/post/or/) [possible](/en/post/possible/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [minimum](/en/post/minimum/) [wage](/en/post/wage/) was increased [this](/en/post/this/) [year](/en/post/year/)."
-  - [In](/en/post/in/) [mathematics](/en/post/mathematics/): [The](/en/post/the/) smallest [value](/en/post/value/) [that](/en/post/that/) [a](/en/post/a/) [function](/en/post/function/) [can](/en/post/can/) [take](/en/post/take/) [within](/en/post/within/) [a](/en/post/a/) given [interval](/en/post/interval/) [or](/en/post/or/) [set](/en/post/set/).
-  - [In](/en/post/in/) statistics: [The](/en/post/the/) smallest [number](/en/post/number/) [in](/en/post/in/) [a](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) [data](/en/post/data/) [or](/en/post/or/) [the](/en/post/the/) [lower](/en/post/lower/) [boundary](/en/post/boundary/) [of](/en/post/of/) [a](/en/post/a/) [range](/en/post/range/).
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [least](/post/least/) [or](/post/or/) smallest [amount](/post/amount/), [quantity](/post/quantity/), [or](/post/or/) [degree](/post/degree/) [possible](/post/possible/), required, [or](/post/or/) [desirable](/post/desirable/); [the](/post/the/) lowest [limit](/post/limit/) allowed [or](/post/or/) [possible](/post/possible/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [minimum](/post/minimum/) [wage](/post/wage/) was increased [this](/post/this/) [year](/post/year/)."
+  - [In](/post/in/) [mathematics](/post/mathematics/): [The](/post/the/) smallest [value](/post/value/) [that](/post/that/) [a](/post/a/) [function](/post/function/) [can](/post/can/) [take](/post/take/) [within](/post/within/) [a](/post/a/) given [interval](/post/interval/) [or](/post/or/) [set](/post/set/).
+  - [In](/post/in/) statistics: [The](/post/the/) smallest [number](/post/number/) [in](/post/in/) [a](/post/a/) [set](/post/set/) [of](/post/of/) [data](/post/data/) [or](/post/or/) [the](/post/the/) [lower](/post/lower/) [boundary](/post/boundary/) [of](/post/of/) [a](/post/a/) [range](/post/range/).
 
-- **[Adjective](/en/post/adjective/) (adj)**: [Being](/en/post/being/) [the](/en/post/the/) [least](/en/post/least/) [or](/en/post/or/) smallest [possible](/en/post/possible/); representing [the](/en/post/the/) [minimum](/en/post/minimum/) [level](/en/post/level/) [or](/en/post/or/) [amount](/en/post/amount/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [job](/en/post/job/) requires [a](/en/post/a/) [minimum](/en/post/minimum/) [of](/en/post/of/) [two](/en/post/two/) years' [experience](/en/post/experience/)."
+- **[Adjective](/post/adjective/) (adj)**: [Being](/post/being/) [the](/post/the/) [least](/post/least/) [or](/post/or/) smallest [possible](/post/possible/); representing [the](/post/the/) [minimum](/post/minimum/) [level](/post/level/) [or](/post/or/) [amount](/post/amount/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [job](/post/job/) requires [a](/post/a/) [minimum](/post/minimum/) [of](/post/of/) [two](/post/two/) years' [experience](/post/experience/)."
 
 ## Phrases
-- "[At](/en/post/at/) [a](/en/post/a/) [minimum](/en/post/minimum/)": [Meaning](/en/post/meaning/) [at](/en/post/at/) [least](/en/post/least/) [or](/en/post/or/) [the](/en/post/the/) [bare](/en/post/bare/) essentials needed.
-- "[Minimum](/en/post/minimum/) [requirement](/en/post/requirement/)(s)": [The](/en/post/the/) [least](/en/post/least/) [amount](/en/post/amount/) [or](/en/post/or/) [level](/en/post/level/) [of](/en/post/of/) [something](/en/post/something/) [necessary](/en/post/necessary/) [to](/en/post/to/) [meet](/en/post/meet/) [a](/en/post/a/) [certain](/en/post/certain/) [standard](/en/post/standard/) [or](/en/post/or/) [achieve](/en/post/achieve/) [a](/en/post/a/) [goal](/en/post/goal/).
-- "[Minimum](/en/post/minimum/) [wage](/en/post/wage/)": [The](/en/post/the/) lowest [salary](/en/post/salary/) legally payable [to](/en/post/to/) workers.
+- "[At](/post/at/) [a](/post/a/) [minimum](/post/minimum/)": [Meaning](/post/meaning/) [at](/post/at/) [least](/post/least/) [or](/post/or/) [the](/post/the/) [bare](/post/bare/) essentials needed.
+- "[Minimum](/post/minimum/) [requirement](/post/requirement/)(s)": [The](/post/the/) [least](/post/least/) [amount](/post/amount/) [or](/post/or/) [level](/post/level/) [of](/post/of/) [something](/post/something/) [necessary](/post/necessary/) [to](/post/to/) [meet](/post/meet/) [a](/post/a/) [certain](/post/certain/) [standard](/post/standard/) [or](/post/or/) [achieve](/post/achieve/) [a](/post/a/) [goal](/post/goal/).
+- "[Minimum](/post/minimum/) [wage](/post/wage/)": [The](/post/the/) lowest [salary](/post/salary/) legally payable [to](/post/to/) workers.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[They](/en/post/they/) [recommend](/en/post/recommend/) drinking [a](/en/post/a/) [minimum](/en/post/minimum/) [of](/en/post/of/) [eight](/en/post/eight/) glasses [of](/en/post/of/) [water](/en/post/water/) [daily](/en/post/daily/)."
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) software upgrade requires [a](/en/post/a/) [minimum](/en/post/minimum/) [system](/en/post/system/) specification [of](/en/post/of/) 4GB RAM."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[They](/post/they/) [recommend](/post/recommend/) drinking [a](/post/a/) [minimum](/post/minimum/) [of](/post/of/) [eight](/post/eight/) glasses [of](/post/of/) [water](/post/water/) [daily](/post/daily/)."
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) software upgrade requires [a](/post/a/) [minimum](/post/minimum/) [system](/post/system/) specification [of](/post/of/) 4GB RAM."
 
 ## Synonyms
-- [Least](/en/post/least/)
-- [Minimum](/en/post/minimum/) [amount](/en/post/amount/)
+- [Least](/post/least/)
+- [Minimum](/post/minimum/) [amount](/post/amount/)
 - Smallest
 - Lowest限度
-- [Bare](/en/post/bare/) [minimum](/en/post/minimum/)
+- [Bare](/post/bare/) [minimum](/post/minimum/)
 - Threshold
-- [Bottom](/en/post/bottom/) [line](/en/post/line/) ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/))
+- [Bottom](/post/bottom/) [line](/post/line/) ([in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/))

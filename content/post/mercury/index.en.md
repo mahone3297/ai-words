@@ -7,30 +7,30 @@ description = 'n.水星'
 keywords = ['ai words', 'Mercury']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɜːrkjəri/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) Roman god [of](/en/post/of/) [commerce](/en/post/commerce/), eloquence, messages, travelers, [and](/en/post/and/) thieves, [often](/en/post/often/) depicted holding [a](/en/post/a/) [staff](/en/post/staff/) [with](/en/post/with/) [two](/en/post/two/) snakes winding [around](/en/post/around/) [it](/en/post/it/), [also](/en/post/also/) known [as](/en/post/as/) Hermes [in](/en/post/in/) Greek mythology.
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) Roman god [of](/post/of/) [commerce](/post/commerce/), eloquence, messages, travelers, [and](/post/and/) thieves, [often](/post/often/) depicted holding [a](/post/a/) [staff](/post/staff/) [with](/post/with/) [two](/post/two/) snakes winding [around](/post/around/) [it](/post/it/), [also](/post/also/) known [as](/post/as/) Hermes [in](/post/in/) Greek mythology.
 
-### [Noun](/en/post/noun/) (n) - [The](/en/post/the/) [Chemical](/en/post/chemical/) [Element](/en/post/element/)
-- [A](/en/post/a/) [heavy](/en/post/heavy/), silvery-white metallic [element](/en/post/element/) ([symbol](/en/post/symbol/) Hg), [liquid](/en/post/liquid/) [at](/en/post/at/) [room](/en/post/room/) [temperature](/en/post/temperature/) [and](/en/post/and/) [used](/en/post/used/) [in](/en/post/in/) thermometers, barometers, batteries, [and](/en/post/and/) [various](/en/post/various/) [chemical](/en/post/chemical/) processes. [Exposure](/en/post/exposure/) [to](/en/post/to/) [mercury](/en/post/mercury/) [can](/en/post/can/) [be](/en/post/be/) toxic.
+### [Noun](/post/noun/) (n) - [The](/post/the/) [Chemical](/post/chemical/) [Element](/post/element/)
+- [A](/post/a/) [heavy](/post/heavy/), silvery-white metallic [element](/post/element/) ([symbol](/post/symbol/) Hg), [liquid](/post/liquid/) [at](/post/at/) [room](/post/room/) [temperature](/post/temperature/) [and](/post/and/) [used](/post/used/) [in](/post/in/) thermometers, barometers, batteries, [and](/post/and/) [various](/post/various/) [chemical](/post/chemical/) processes. [Exposure](/post/exposure/) [to](/post/to/) [mercury](/post/mercury/) [can](/post/can/) [be](/post/be/) toxic.
 
-**[Example](/en/post/example/) Sentences**
-- *[The](/en/post/the/) [thermometer](/en/post/thermometer/) contained [a](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [of](/en/post/of/) [mercury](/en/post/mercury/) [which](/en/post/which/) expanded [when](/en/post/when/) heated.*
-- *Mercury's [unique](/en/post/unique/) properties [make](/en/post/make/) [it](/en/post/it/) [useful](/en/post/useful/) [in](/en/post/in/) [the](/en/post/the/) [production](/en/post/production/) [of](/en/post/of/) fluorescent lamps.*
+**[Example](/post/example/) Sentences**
+- *[The](/post/the/) [thermometer](/post/thermometer/) contained [a](/post/a/) [small](/post/small/) [amount](/post/amount/) [of](/post/of/) [mercury](/post/mercury/) [which](/post/which/) expanded [when](/post/when/) heated.*
+- *Mercury's [unique](/post/unique/) properties [make](/post/make/) [it](/post/it/) [useful](/post/useful/) [in](/post/in/) [the](/post/the/) [production](/post/production/) [of](/post/of/) fluorescent lamps.*
 
-### [Noun](/en/post/noun/) (n) - Celestial [Body](/en/post/body/)
-- [The](/en/post/the/) smallest [and](/en/post/and/) closest [planet](/en/post/planet/) [to](/en/post/to/) [the](/en/post/the/) [sun](/en/post/sun/) [in](/en/post/in/) [our](/en/post/our/) [solar](/en/post/solar/) [system](/en/post/system/). [It](/en/post/it/) is named [after](/en/post/after/) [the](/en/post/the/) Roman god [Mercury](/en/post/mercury/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [swift](/en/post/swift/) [motion](/en/post/motion/) [across](/en/post/across/) [the](/en/post/the/) [sky](/en/post/sky/).
+### [Noun](/post/noun/) (n) - Celestial [Body](/post/body/)
+- [The](/post/the/) smallest [and](/post/and/) closest [planet](/post/planet/) [to](/post/to/) [the](/post/the/) [sun](/post/sun/) [in](/post/in/) [our](/post/our/) [solar](/post/solar/) [system](/post/system/). [It](/post/it/) is named [after](/post/after/) [the](/post/the/) Roman god [Mercury](/post/mercury/) [due](/post/due/) [to](/post/to/) [its](/post/its/) [swift](/post/swift/) [motion](/post/motion/) [across](/post/across/) [the](/post/the/) [sky](/post/sky/).
 
-**[Example](/en/post/example/) [Sentence](/en/post/sentence/)**
-- *Astronomers [have](/en/post/have/) [long](/en/post/long/) studied [the](/en/post/the/) [complex](/en/post/complex/) geology [of](/en/post/of/) [Mercury](/en/post/mercury/).*
+**[Example](/post/example/) [Sentence](/post/sentence/)**
+- *Astronomers [have](/post/have/) [long](/post/long/) studied [the](/post/the/) [complex](/post/complex/) geology [of](/post/of/) [Mercury](/post/mercury/).*
 
 ## Phrases
-- "[Mercury](/en/post/mercury/) retrograde" refers [to](/en/post/to/) [the](/en/post/the/) astronomical [phenomenon](/en/post/phenomenon/) [where](/en/post/where/) [the](/en/post/the/) [planet](/en/post/planet/) appears [to](/en/post/to/) [move](/en/post/move/) [backward](/en/post/backward/) [from](/en/post/from/) [its](/en/post/its/) [usual](/en/post/usual/) [path](/en/post/path/) [through](/en/post/through/) Earth's [sky](/en/post/sky/), believed [by](/en/post/by/) [some](/en/post/some/) [to](/en/post/to/) [cause](/en/post/cause/) [communication](/en/post/communication/) breakdowns [and](/en/post/and/) [other](/en/post/other/) misfortunes.
+- "[Mercury](/post/mercury/) retrograde" refers [to](/post/to/) [the](/post/the/) astronomical [phenomenon](/post/phenomenon/) [where](/post/where/) [the](/post/the/) [planet](/post/planet/) appears [to](/post/to/) [move](/post/move/) [backward](/post/backward/) [from](/post/from/) [its](/post/its/) [usual](/post/usual/) [path](/post/path/) [through](/post/through/) Earth's [sky](/post/sky/), believed [by](/post/by/) [some](/post/some/) [to](/post/to/) [cause](/post/cause/) [communication](/post/communication/) breakdowns [and](/post/and/) [other](/post/other/) misfortunes.
 
 ## Synonyms
-- Quicksilver (archaic [term](/en/post/term/) [for](/en/post/for/) [the](/en/post/the/) [chemical](/en/post/chemical/) [element](/en/post/element/))
--☿ ([the](/en/post/the/) planetary [symbol](/en/post/symbol/) [for](/en/post/for/) [Mercury](/en/post/mercury/))
+- Quicksilver (archaic [term](/post/term/) [for](/post/for/) [the](/post/the/) [chemical](/post/chemical/) [element](/post/element/))
+-☿ ([the](/post/the/) planetary [symbol](/post/symbol/) [for](/post/for/) [Mercury](/post/mercury/))
 
-**[Note](/en/post/note/):** [No](/en/post/no/) [significant](/en/post/significant/) [usage](/en/post/usage/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), [preposition](/en/post/preposition/), [conjunction](/en/post/conjunction/), [pronoun](/en/post/pronoun/), numeral, [or](/en/post/or/) interjection was [found](/en/post/found/) [for](/en/post/for/) "[mercury](/en/post/mercury/)."
+**[Note](/post/note/):** [No](/post/no/) [significant](/post/significant/) [usage](/post/usage/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [adjective](/post/adjective/), [adverb](/post/adverb/), [preposition](/post/preposition/), [conjunction](/post/conjunction/), [pronoun](/post/pronoun/), numeral, [or](/post/or/) interjection was [found](/post/found/) [for](/post/for/) "[mercury](/post/mercury/)."

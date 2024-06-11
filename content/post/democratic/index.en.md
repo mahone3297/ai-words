@@ -7,46 +7,46 @@ description = '[ˌdeməˈkrætik] a.民主的，民主政体的'
 keywords = ['ai words', 'democratic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈmɒkrətɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [system](/en/post/system/) [of](/en/post/of/) [government](/en/post/government/) [in](/en/post/in/) [which](/en/post/which/) [power](/en/post/power/) is held [by](/en/post/by/) [the](/en/post/the/) [people](/en/post/people/), typically [through](/en/post/through/) elected representatives, [and](/en/post/and/) decisions are made [by](/en/post/by/) [majority](/en/post/majority/) [rule](/en/post/rule/).
-- [A](/en/post/a/) [system](/en/post/system/) characterized [by](/en/post/by/) [political](/en/post/political/) [equality](/en/post/equality/), [freedom](/en/post/freedom/) [of](/en/post/of/) [speech](/en/post/speech/), [and](/en/post/and/) participation [in](/en/post/in/) decision-making.
+### [Noun](/post/noun/)
+- [A](/post/a/) [system](/post/system/) [of](/post/of/) [government](/post/government/) [in](/post/in/) [which](/post/which/) [power](/post/power/) is held [by](/post/by/) [the](/post/the/) [people](/post/people/), typically [through](/post/through/) elected representatives, [and](/post/and/) decisions are made [by](/post/by/) [majority](/post/majority/) [rule](/post/rule/).
+- [A](/post/a/) [system](/post/system/) characterized [by](/post/by/) [political](/post/political/) [equality](/post/equality/), [freedom](/post/freedom/) [of](/post/of/) [speech](/post/speech/), [and](/post/and/) participation [in](/post/in/) decision-making.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [govern](/en/post/govern/) [or](/en/post/or/) [rule](/en/post/rule/) according [to](/en/post/to/) [democratic](/en/post/democratic/) principles.
-- [To](/en/post/to/) [elect](/en/post/elect/) [or](/en/post/or/) [choose](/en/post/choose/) democratically.
+### [Verb](/post/verb/)
+- [To](/post/to/) [govern](/post/govern/) [or](/post/or/) [rule](/post/rule/) according [to](/post/to/) [democratic](/post/democratic/) principles.
+- [To](/post/to/) [elect](/post/elect/) [or](/post/or/) [choose](/post/choose/) democratically.
 
-### [Adjective](/en/post/adjective/)
-- Relating [to](/en/post/to/) [or](/en/post/or/) based [on](/en/post/on/) [the](/en/post/the/) principles [of](/en/post/of/) [democracy](/en/post/democracy/).
-- Governed [by](/en/post/by/) [the](/en/post/the/) [will](/en/post/will/) [of](/en/post/of/) [the](/en/post/the/) [people](/en/post/people/), [as](/en/post/as/) expressed [through](/en/post/through/) elections [or](/en/post/or/) [other](/en/post/other/) forms [of](/en/post/of/) [popular](/en/post/popular/) participation.
+### [Adjective](/post/adjective/)
+- Relating [to](/post/to/) [or](/post/or/) based [on](/post/on/) [the](/post/the/) principles [of](/post/of/) [democracy](/post/democracy/).
+- Governed [by](/post/by/) [the](/post/the/) [will](/post/will/) [of](/post/of/) [the](/post/the/) [people](/post/people/), [as](/post/as/) expressed [through](/post/through/) elections [or](/post/or/) [other](/post/other/) forms [of](/post/of/) [popular](/post/popular/) participation.
 
-### [Adjective](/en/post/adjective/) ([as](/en/post/as/) an attributive)
-- Designating [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) supports [or](/en/post/or/) advocates [for](/en/post/for/) [democratic](/en/post/democratic/) values [or](/en/post/or/) practices.
+### [Adjective](/post/adjective/) ([as](/post/as/) an attributive)
+- Designating [a](/post/a/) [person](/post/person/) [who](/post/who/) supports [or](/post/or/) advocates [for](/post/for/) [democratic](/post/democratic/) values [or](/post/or/) practices.
 
 ## Phrases
-- "[Practice](/en/post/practice/) [democratic](/en/post/democratic/) values"
-- "[Hold](/en/post/hold/) [democratic](/en/post/democratic/) elections"
-- "[Promote](/en/post/promote/) [democratic](/en/post/democratic/) reforms"
-- "[A](/en/post/a/) [democratic](/en/post/democratic/) [society](/en/post/society/)"
-- "[Participate](/en/post/participate/) [in](/en/post/in/) [the](/en/post/the/) [democratic](/en/post/democratic/) [process](/en/post/process/)"
+- "[Practice](/post/practice/) [democratic](/post/democratic/) values"
+- "[Hold](/post/hold/) [democratic](/post/democratic/) elections"
+- "[Promote](/post/promote/) [democratic](/post/democratic/) reforms"
+- "[A](/post/a/) [democratic](/post/democratic/) [society](/post/society/)"
+- "[Participate](/post/participate/) [in](/post/in/) [the](/post/the/) [democratic](/post/democratic/) [process](/post/process/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [country](/en/post/country/) has [a](/en/post/a/) [long](/en/post/long/) [history](/en/post/history/) [of](/en/post/of/) [democratic](/en/post/democratic/) governance."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) [president](/en/post/president/) vowed [to](/en/post/to/) uphold [democratic](/en/post/democratic/) traditions."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) city's [mayor](/en/post/mayor/) is known [for](/en/post/for/) [her](/en/post/her/) [democratic](/en/post/democratic/) [leadership](/en/post/leadership/) [style](/en/post/style/)."
-- **[Adjective](/en/post/adjective/) (attributive)**: "[The](/en/post/the/) [democratic](/en/post/democratic/) [candidate](/en/post/candidate/) won [the](/en/post/the/) [election](/en/post/election/) [with](/en/post/with/) [a](/en/post/a/) [significant](/en/post/significant/) [margin](/en/post/margin/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [country](/post/country/) has [a](/post/a/) [long](/post/long/) [history](/post/history/) [of](/post/of/) [democratic](/post/democratic/) governance."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) [president](/post/president/) vowed [to](/post/to/) uphold [democratic](/post/democratic/) traditions."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) city's [mayor](/post/mayor/) is known [for](/post/for/) [her](/post/her/) [democratic](/post/democratic/) [leadership](/post/leadership/) [style](/post/style/)."
+- **[Adjective](/post/adjective/) (attributive)**: "[The](/post/the/) [democratic](/post/democratic/) [candidate](/post/candidate/) won [the](/post/the/) [election](/post/election/) [with](/post/with/) [a](/post/a/) [significant](/post/significant/) [margin](/post/margin/)."
 
 ## Synonyms
 - Democratical
-- [Republican](/en/post/republican/)
+- [Republican](/post/republican/)
 - Populist
 - Civic
-- [Representative](/en/post/representative/)
+- [Representative](/post/representative/)
 - Participatory
-- [Popular](/en/post/popular/) sovereignty
+- [Popular](/post/popular/) sovereignty
 - Constitutional
 
 ## Antonyms

@@ -7,34 +7,34 @@ description = '[kəˈmiti] n.委员会；全体委员'
 keywords = ['ai words', 'committee']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈmɪti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[committee](/en/post/committee/)** is [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) chosen [or](/en/post/or/) appointed [to](/en/post/to/) [work](/en/post/work/) [together](/en/post/together/) [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [task](/en/post/task/) [or](/en/post/or/) [to](/en/post/to/) [represent](/en/post/represent/) [a](/en/post/a/) group's interests. [It](/en/post/it/) [usually](/en/post/usually/) consists [of](/en/post/of/) members [who](/en/post/who/) [discuss](/en/post/discuss/), [decide](/en/post/decide/), [and](/en/post/and/) oversee [specific](/en/post/specific/) responsibilities.
+### [Noun](/post/noun/)
+[A](/post/a/) **[committee](/post/committee/)** is [a](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) chosen [or](/post/or/) appointed [to](/post/to/) [work](/post/work/) [together](/post/together/) [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [task](/post/task/) [or](/post/or/) [to](/post/to/) [represent](/post/represent/) [a](/post/a/) group's interests. [It](/post/it/) [usually](/post/usually/) consists [of](/post/of/) members [who](/post/who/) [discuss](/post/discuss/), [decide](/post/decide/), [and](/post/and/) oversee [specific](/post/specific/) responsibilities.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[form](/en/post/form/) [a](/en/post/a/) [committee](/en/post/committee/)** is [to](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [create](/en/post/create/) [such](/en/post/such/) [a](/en/post/a/) [group](/en/post/group/), [often](/en/post/often/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/) [or](/en/post/or/) [project](/en/post/project/). [To](/en/post/to/) **[serve](/en/post/serve/) [on](/en/post/on/) [a](/en/post/a/) [committee](/en/post/committee/)** [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [one](/en/post/one/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[form](/post/form/) [a](/post/a/) [committee](/post/committee/)** is [to](/post/to/) [establish](/post/establish/) [or](/post/or/) [create](/post/create/) [such](/post/such/) [a](/post/a/) [group](/post/group/), [often](/post/often/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/) [or](/post/or/) [project](/post/project/). [To](/post/to/) **[serve](/post/serve/) [on](/post/on/) [a](/post/a/) [committee](/post/committee/)** [means](/post/means/) [to](/post/to/) [be](/post/be/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [one](/post/one/).
 
-### [Adjective](/en/post/adjective/)
-**Committee-based** describes an [organization](/en/post/organization/) [or](/en/post/or/) [system](/en/post/system/) [that](/en/post/that/) relies [on](/en/post/on/) committees [for](/en/post/for/) decision-making.
+### [Adjective](/post/adjective/)
+**Committee-based** describes an [organization](/post/organization/) [or](/post/or/) [system](/post/system/) [that](/post/that/) relies [on](/post/on/) committees [for](/post/for/) decision-making.
 
 ## Phrases
-- "[Form](/en/post/form/) [a](/en/post/a/) steering [committee](/en/post/committee/)" [to](/en/post/to/) [establish](/en/post/establish/) [a](/en/post/a/) [group](/en/post/group/) [responsible](/en/post/responsible/) [for](/en/post/for/) guiding [a](/en/post/a/) [project](/en/post/project/).
-- "[A](/en/post/a/) subcommittee [of](/en/post/of/) [the](/en/post/the/) [main](/en/post/main/) [committee](/en/post/committee/)" refers [to](/en/post/to/) [a](/en/post/a/) smaller [group](/en/post/group/) [within](/en/post/within/) [the](/en/post/the/) larger [committee](/en/post/committee/).
-- "[The](/en/post/the/) [committee](/en/post/committee/) [will](/en/post/will/) [present](/en/post/present/) [their](/en/post/their/) [report](/en/post/report/)" indicates [the](/en/post/the/) group's findings [or](/en/post/or/) recommendations.
+- "[Form](/post/form/) [a](/post/a/) steering [committee](/post/committee/)" [to](/post/to/) [establish](/post/establish/) [a](/post/a/) [group](/post/group/) [responsible](/post/responsible/) [for](/post/for/) guiding [a](/post/a/) [project](/post/project/).
+- "[A](/post/a/) subcommittee [of](/post/of/) [the](/post/the/) [main](/post/main/) [committee](/post/committee/)" refers [to](/post/to/) [a](/post/a/) smaller [group](/post/group/) [within](/post/within/) [the](/post/the/) larger [committee](/post/committee/).
+- "[The](/post/the/) [committee](/post/committee/) [will](/post/will/) [present](/post/present/) [their](/post/their/) [report](/post/report/)" indicates [the](/post/the/) group's findings [or](/post/or/) recommendations.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [school](/en/post/school/) [board](/en/post/board/) formed [a](/en/post/a/) curriculum [committee](/en/post/committee/) [to](/en/post/to/) [review](/en/post/review/) [and](/en/post/and/) update [the](/en/post/the/) syllabus."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) was appointed [to](/en/post/to/) [the](/en/post/the/) fundraising [committee](/en/post/committee/) [for](/en/post/for/) [the](/en/post/the/) [charity](/en/post/charity/) [event](/en/post/event/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [university](/en/post/university/) operates [on](/en/post/on/) [a](/en/post/a/) committee-based [system](/en/post/system/), [with](/en/post/with/) [each](/en/post/each/) [department](/en/post/department/) having [its](/en/post/its/) [own](/en/post/own/) advisory [committee](/en/post/committee/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [school](/post/school/) [board](/post/board/) formed [a](/post/a/) curriculum [committee](/post/committee/) [to](/post/to/) [review](/post/review/) [and](/post/and/) update [the](/post/the/) syllabus."
+- **[Verb](/post/verb/)**: "[She](/post/she/) was appointed [to](/post/to/) [the](/post/the/) fundraising [committee](/post/committee/) [for](/post/for/) [the](/post/the/) [charity](/post/charity/) [event](/post/event/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [university](/post/university/) operates [on](/post/on/) [a](/post/a/) committee-based [system](/post/system/), [with](/post/with/) [each](/post/each/) [department](/post/department/) having [its](/post/its/) [own](/post/own/) advisory [committee](/post/committee/)."
 
 ## Synonyms
-- [Panel](/en/post/panel/)
-- [Task](/en/post/task/) [force](/en/post/force/)
-- [Group](/en/post/group/)
-- Working [group](/en/post/group/)
-- [Board](/en/post/board/)
-- [Council](/en/post/council/)
-- [Committee](/en/post/committee/) [of](/en/post/of/) [inquiry](/en/post/inquiry/)
+- [Panel](/post/panel/)
+- [Task](/post/task/) [force](/post/force/)
+- [Group](/post/group/)
+- Working [group](/post/group/)
+- [Board](/post/board/)
+- [Council](/post/council/)
+- [Committee](/post/committee/) [of](/post/of/) [inquiry](/post/inquiry/)

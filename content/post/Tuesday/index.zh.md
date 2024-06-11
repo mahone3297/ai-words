@@ -14,13 +14,13 @@ keywords = ['ai words', 'Tuesday']
 - **名词** (n): 一周中的第二天，通常指“星期二”。
 
 ## 短语
-- "[On](/post/on/) Tuesdays" 指每个星期二。
-- "Tuesdays [with](/post/with/) Morrie" 是一本著名的书籍标题。
+- "[On](/zh/post/on/) Tuesdays" 指每个星期二。
+- "Tuesdays [with](/zh/post/with/) Morrie" 是一本著名的书籍标题。
 
 ## 例句
-- "I [have](/post/have/) [a](/post/a/) [meeting](/post/meeting/) [every](/post/every/) Tuesday [at](/post/at/) 3 pm."
-- "Let's [schedule](/post/schedule/) [the](/post/the/) [next](/post/next/) [appointment](/post/appointment/) [for](/post/for/) [next](/post/next/) Tuesday."
-- "[In](/post/in/) [my](/post/my/) [country](/post/country/), [we](/post/we/) [call](/post/call/) Tuesday 'Mardi'."
+- "I [have](/zh/post/have/) [a](/zh/post/a/) [meeting](/zh/post/meeting/) [every](/zh/post/every/) Tuesday [at](/zh/post/at/) 3 pm."
+- "Let's [schedule](/zh/post/schedule/) [the](/zh/post/the/) [next](/zh/post/next/) [appointment](/zh/post/appointment/) [for](/zh/post/for/) [next](/zh/post/next/) Tuesday."
+- "[In](/zh/post/in/) [my](/zh/post/my/) [country](/zh/post/country/), [we](/zh/post/we/) [call](/zh/post/call/) Tuesday 'Mardi'."
 
 ## 同义词
 - 星期二

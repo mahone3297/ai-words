@@ -7,25 +7,25 @@ description = '[ˈhelplis] a.无助的；无能的'
 keywords = ['ai words', 'helpless']
 +++
 
-## [Word](/en/post/word/): [Helpless](/en/post/helpless/)
+## [Word](/post/word/): [Helpless](/post/helpless/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhelp.ləs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Unable](/en/post/unable/) [to](/en/post/to/) [help](/en/post/help/) [oneself](/en/post/oneself/); [without](/en/post/without/) [the](/en/post/the/) [power](/en/post/power/) [or](/en/post/or/) [means](/en/post/means/) [to](/en/post/to/) [change](/en/post/change/) [or](/en/post/or/) [improve](/en/post/improve/) one's [situation](/en/post/situation/). 
+- **[Adjective](/post/adjective/)**: [Unable](/post/unable/) [to](/post/to/) [help](/post/help/) [oneself](/post/oneself/); [without](/post/without/) [the](/post/the/) [power](/post/power/) [or](/post/or/) [means](/post/means/) [to](/post/to/) [change](/post/change/) [or](/post/or/) [improve](/post/improve/) one's [situation](/post/situation/). 
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- _The kitten was [helpless](/en/post/helpless/) [when](/en/post/when/) [it](/en/post/it/) got stuck [in](/en/post/in/) [the](/en/post/the/) [tree](/en/post/tree/)._
-- _After [her](/en/post/her/) [car](/en/post/car/) broke [down](/en/post/down/) [on](/en/post/on/) [the](/en/post/the/) deserted [road](/en/post/road/), [she](/en/post/she/) felt utterly [helpless](/en/post/helpless/)._
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- _The kitten was [helpless](/post/helpless/) [when](/post/when/) [it](/post/it/) got stuck [in](/post/in/) [the](/post/the/) [tree](/post/tree/)._
+- _After [her](/post/her/) [car](/post/car/) broke [down](/post/down/) [on](/post/on/) [the](/post/the/) deserted [road](/post/road/), [she](/post/she/) felt utterly [helpless](/post/helpless/)._
 
 ## Phrases
-- "[Helpless](/en/post/helpless/) [victim](/en/post/victim/)": Refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) has suffered [harm](/en/post/harm/) [or](/en/post/or/) misfortune [through](/en/post/through/) [no](/en/post/no/) [fault](/en/post/fault/) [of](/en/post/of/) [their](/en/post/their/) [own](/en/post/own/) [and](/en/post/and/) couldn't [prevent](/en/post/prevent/) [it](/en/post/it/).
-- "[To](/en/post/to/) [be](/en/post/be/) rendered [helpless](/en/post/helpless/)": [Means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) made powerless [or](/en/post/or/) [unable](/en/post/unable/) [to](/en/post/to/) [act](/en/post/act/) effectively.
+- "[Helpless](/post/helpless/) [victim](/post/victim/)": Refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) has suffered [harm](/post/harm/) [or](/post/or/) misfortune [through](/post/through/) [no](/post/no/) [fault](/post/fault/) [of](/post/of/) [their](/post/their/) [own](/post/own/) [and](/post/and/) couldn't [prevent](/post/prevent/) [it](/post/it/).
+- "[To](/post/to/) [be](/post/be/) rendered [helpless](/post/helpless/)": [Means](/post/means/) [to](/post/to/) [be](/post/be/) made powerless [or](/post/or/) [unable](/post/unable/) [to](/post/to/) [act](/post/act/) effectively.
   
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: _The [baby](/en/post/baby/) [bird](/en/post/bird/), [still](/en/post/still/) flightless, [lay](/en/post/lay/) [helpless](/en/post/helpless/) [on](/en/post/on/) [the](/en/post/the/) [ground](/en/post/ground/) [after](/en/post/after/) falling [from](/en/post/from/) [its](/en/post/its/) [nest](/en/post/nest/)._
-- _In [the](/en/post/the/) [face](/en/post/face/) [of](/en/post/of/) [a](/en/post/a/) [sudden](/en/post/sudden/) [storm](/en/post/storm/), [the](/en/post/the/) sailors were [helpless](/en/post/helpless/) [against](/en/post/against/) [the](/en/post/the/) raging waves._
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: _The [baby](/post/baby/) [bird](/post/bird/), [still](/post/still/) flightless, [lay](/post/lay/) [helpless](/post/helpless/) [on](/post/on/) [the](/post/the/) [ground](/post/ground/) [after](/post/after/) falling [from](/post/from/) [its](/post/its/) [nest](/post/nest/)._
+- _In [the](/post/the/) [face](/post/face/) [of](/post/of/) [a](/post/a/) [sudden](/post/sudden/) [storm](/post/storm/), [the](/post/the/) sailors were [helpless](/post/helpless/) [against](/post/against/) [the](/post/the/) raging waves._
 
 ## Synonyms
 - Powerless
@@ -35,5 +35,5 @@ keywords = ['ai words', 'helpless']
 - Unaided
 - Unsupported
 - Impotent
-- [Unable](/en/post/unable/)
-- [Weak](/en/post/weak/)
+- [Unable](/post/unable/)
+- [Weak](/post/weak/)

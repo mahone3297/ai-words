@@ -11,20 +11,20 @@ keywords = ['ai words', 'personnel']
 /ˌpɜːrsəˈnɛl/
 
 ## 释义
-- **名词**: 组织或机构中的全体人员，尤指雇员。例如: "[The](/post/the/) company's [personnel](/post/personnel/) [department](/post/department/) handles hiring [and](/post/and/) [training](/post/training/)."
-- **形容词**: 与人事相关的，关于工作人员的。例如: "[The](/post/the/) [personnel](/post/personnel/) manager is [responsible](/post/responsible/) [for](/post/for/) [employee](/post/employee/) benefits."
+- **名词**: 组织或机构中的全体人员，尤指雇员。例如: "[The](/zh/post/the/) company's [personnel](/zh/post/personnel/) [department](/zh/post/department/) handles hiring [and](/zh/post/and/) [training](/zh/post/training/)."
+- **形容词**: 与人事相关的，关于工作人员的。例如: "[The](/zh/post/the/) [personnel](/zh/post/personnel/) manager is [responsible](/zh/post/responsible/) [for](/zh/post/for/) [employee](/zh/post/employee/) benefits."
 
 ## 短语
-- "[Human](/post/human/) resources" 通常用来代替 "[personnel](/post/personnel/)"，指的是处理员工事务的部门。
-- "[Personnel](/post/personnel/) [management](/post/management/)" 指的是管理和协调员工的活动。
+- "[Human](/zh/post/human/) resources" 通常用来代替 "[personnel](/zh/post/personnel/)"，指的是处理员工事务的部门。
+- "[Personnel](/zh/post/personnel/) [management](/zh/post/management/)" 指的是管理和协调员工的活动。
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [personnel](/post/personnel/) [policy](/post/policy/) [will](/post/will/) [affect](/post/affect/) [all](/post/all/) employees [in](/post/in/) [the](/post/the/) [company](/post/company/)."
-- 形容词: "[The](/post/the/) [personnel](/post/personnel/) manager is [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [the](/post/the/) staff's [training](/post/training/) [program](/post/program/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [personnel](/zh/post/personnel/) [policy](/zh/post/policy/) [will](/zh/post/will/) [affect](/zh/post/affect/) [all](/zh/post/all/) employees [in](/zh/post/in/) [the](/zh/post/the/) [company](/zh/post/company/)."
+- 形容词: "[The](/zh/post/the/) [personnel](/zh/post/personnel/) manager is [in](/zh/post/in/) [charge](/zh/post/charge/) [of](/zh/post/of/) [the](/zh/post/the/) staff's [training](/zh/post/training/) [program](/zh/post/program/)."
 
 ## 同义词
-- [Staff](/post/staff/)
+- [Staff](/zh/post/staff/)
 - Workforce
 - Employees
-- [Team](/post/team/)
-- [Company](/post/company/) members
+- [Team](/zh/post/team/)
+- [Company](/zh/post/company/) members

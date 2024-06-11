@@ -12,21 +12,21 @@ keywords = ['ai words', 'gravity']
 
 ## 释义
 - **名词**: 
-   - 重力，地球引力：[The](/post/the/) [force](/post/force/) [that](/post/that/) attracts [a](/post/a/) [body](/post/body/) toward [the](/post/the/) center [of](/post/of/) [the](/post/the/) [earth](/post/earth/).
-   - 重力，万有引力：[The](/post/the/) [force](/post/force/) [of](/post/of/) [attraction](/post/attraction/) [between](/post/between/) [any](/post/any/) [two](/post/two/) masses.
-   - 严肃性，庄重：[A](/post/a/) [serious](/post/serious/) [or](/post/or/) [grave](/post/grave/) [manner](/post/manner/) [or](/post/or/) [character](/post/character/).
+   - 重力，地球引力：[The](/zh/post/the/) [force](/zh/post/force/) [that](/zh/post/that/) attracts [a](/zh/post/a/) [body](/zh/post/body/) toward [the](/zh/post/the/) center [of](/zh/post/of/) [the](/zh/post/the/) [earth](/zh/post/earth/).
+   - 重力，万有引力：[The](/zh/post/the/) [force](/zh/post/force/) [of](/zh/post/of/) [attraction](/zh/post/attraction/) [between](/zh/post/between/) [any](/zh/post/any/) [two](/zh/post/two/) masses.
+   - 严肃性，庄重：[A](/zh/post/a/) [serious](/zh/post/serious/) [or](/zh/post/or/) [grave](/zh/post/grave/) [manner](/zh/post/manner/) [or](/zh/post/or/) [character](/zh/post/character/).
 
 ## 短语
-- "[Gravity](/post/gravity/) pulls objects towards [the](/post/the/) center [of](/post/of/) [the](/post/the/) [Earth](/post/earth/)."
-- "[The](/post/the/) [gravity](/post/gravity/) [on](/post/on/) [the](/post/the/) [moon](/post/moon/) is [much](/post/much/) weaker [than](/post/than/) [on](/post/on/) [Earth](/post/earth/)."
+- "[Gravity](/zh/post/gravity/) pulls objects towards [the](/zh/post/the/) center [of](/zh/post/of/) [the](/zh/post/the/) [Earth](/zh/post/earth/)."
+- "[The](/zh/post/the/) [gravity](/zh/post/gravity/) [on](/zh/post/on/) [the](/zh/post/the/) [moon](/zh/post/moon/) is [much](/zh/post/much/) weaker [than](/zh/post/than/) [on](/zh/post/on/) [Earth](/zh/post/earth/)."
 
 ## 例句
-- 名词: "Objects [fall](/post/fall/) [to](/post/to/) [the](/post/the/) [ground](/post/ground/) [due](/post/due/) [to](/post/to/) Earth's [gravity](/post/gravity/)."
-- 严肃性: "[He](/post/he/) spoke [with](/post/with/) [such](/post/such/) [gravity](/post/gravity/) [that](/post/that/) [everyone](/post/everyone/) listened carefully."
+- 名词: "Objects [fall](/zh/post/fall/) [to](/zh/post/to/) [the](/zh/post/the/) [ground](/zh/post/ground/) [due](/zh/post/due/) [to](/zh/post/to/) Earth's [gravity](/zh/post/gravity/)."
+- 严肃性: "[He](/zh/post/he/) spoke [with](/zh/post/with/) [such](/zh/post/such/) [gravity](/zh/post/gravity/) [that](/zh/post/that/) [everyone](/zh/post/everyone/) listened carefully."
 
 ## 同义词
-- [Force](/post/force/) [of](/post/of/) [gravity](/post/gravity/)
-- [Weight](/post/weight/)
+- [Force](/zh/post/force/) [of](/zh/post/of/) [gravity](/zh/post/gravity/)
+- [Weight](/zh/post/weight/)
 - seriousness
 - solemnity
 - weightiness

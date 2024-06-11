@@ -12,24 +12,24 @@ keywords = ['ai words', 'assembly']
 
 ## 释义
 - **名词**:
-1. 聚集，集合：一群人或物体的集合，如 "[There](/post/there/) was [a](/post/a/) [large](/post/large/) [assembly](/post/assembly/) [of](/post/of/) [people](/post/people/) [at](/post/at/) [the](/post/the/) [conference](/post/conference/)."
-2. 组装，装配：将各个部分组合在一起形成一个完整物品的过程或结果，如 "[The](/post/the/) engineers are working [on](/post/on/) [the](/post/the/) [assembly](/post/assembly/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [car](/post/car/) [model](/post/model/)."
-3. 代表大会，会议：一个正式或非正式的集会，如 "[The](/post/the/) [student](/post/student/) [assembly](/post/assembly/) [will](/post/will/) [discuss](/post/discuss/) [the](/post/the/) school's [new](/post/new/) policies."
+1. 聚集，集合：一群人或物体的集合，如 "[There](/zh/post/there/) was [a](/zh/post/a/) [large](/zh/post/large/) [assembly](/zh/post/assembly/) [of](/zh/post/of/) [people](/zh/post/people/) [at](/zh/post/at/) [the](/zh/post/the/) [conference](/zh/post/conference/)."
+2. 组装，装配：将各个部分组合在一起形成一个完整物品的过程或结果，如 "[The](/zh/post/the/) engineers are working [on](/zh/post/on/) [the](/zh/post/the/) [assembly](/zh/post/assembly/) [of](/zh/post/of/) [the](/zh/post/the/) [new](/zh/post/new/) [car](/zh/post/car/) [model](/zh/post/model/)."
+3. 代表大会，会议：一个正式或非正式的集会，如 "[The](/zh/post/the/) [student](/zh/post/student/) [assembly](/zh/post/assembly/) [will](/zh/post/will/) [discuss](/zh/post/discuss/) [the](/zh/post/the/) school's [new](/zh/post/new/) policies."
 
 - **动词**:
-组装，装配：把部件组合成一个整体，如 "[The](/post/the/) [furniture](/post/furniture/) requires [assembly](/post/assembly/) [before](/post/before/) [use](/post/use/)."
+组装，装配：把部件组合成一个整体，如 "[The](/zh/post/the/) [furniture](/zh/post/furniture/) requires [assembly](/zh/post/assembly/) [before](/zh/post/before/) [use](/zh/post/use/)."
 
 ## 短语
-- "[Assembly](/post/assembly/) [line](/post/line/)" 汽车或其他产品的流水线生产方式。
-- "[General](/post/general/) [assembly](/post/assembly/)" 在联合国中指的是全体成员国的会议。
+- "[Assembly](/zh/post/assembly/) [line](/zh/post/line/)" 汽车或其他产品的流水线生产方式。
+- "[General](/zh/post/general/) [assembly](/zh/post/assembly/)" 在联合国中指的是全体成员国的会议。
 
 ## 例句
-- 名词: "[The](/post/the/) [assembly](/post/assembly/) [of](/post/of/) experts discussed ways [to](/post/to/) [improve](/post/improve/) renewable [energy](/post/energy/) sources."
-- 动词: "[They](/post/they/) had [to](/post/to/) [assemble](/post/assemble/) [the](/post/the/) bookshelf according [to](/post/to/) [the](/post/the/) instructions."
+- 名词: "[The](/zh/post/the/) [assembly](/zh/post/assembly/) [of](/zh/post/of/) experts discussed ways [to](/zh/post/to/) [improve](/zh/post/improve/) renewable [energy](/zh/post/energy/) sources."
+- 动词: "[They](/zh/post/they/) had [to](/zh/post/to/) [assemble](/zh/post/assemble/) [the](/zh/post/the/) bookshelf according [to](/zh/post/to/) [the](/zh/post/the/) instructions."
 
 ## 同义词
 - Gathering
-- [Meeting](/post/meeting/)
-- [Convention](/post/convention/)
+- [Meeting](/zh/post/meeting/)
+- [Convention](/zh/post/convention/)
 - Colloquium
 - Synod

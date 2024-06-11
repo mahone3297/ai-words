@@ -7,30 +7,30 @@ description = '[hʌnt] n.打猎；搜寻 vt.追猎'
 keywords = ['ai words', 'hunt']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /hʌnt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [search](/en/post/search/) [for](/en/post/for/) animals [or](/en/post/or/) [game](/en/post/game/), [usually](/en/post/usually/) involving tracking [and](/en/post/and/) killing, [for](/en/post/for/) [food](/en/post/food/), [sport](/en/post/sport/), [or](/en/post/or/) [population](/en/post/population/) [control](/en/post/control/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) hunters [set](/en/post/set/) [out](/en/post/out/) [on](/en/post/on/) [a](/en/post/a/) [deer](/en/post/deer/) [hunt](/en/post/hunt/) [early](/en/post/early/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/)."
-- **[Verb](/en/post/verb/)**: (1) [To](/en/post/to/) [search](/en/post/search/) [for](/en/post/for/) [and](/en/post/and/) [chase](/en/post/chase/) [wild](/en/post/wild/) animals [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) catching [or](/en/post/or/) killing [them](/en/post/them/). [Example](/en/post/example/): "[They](/en/post/they/) spent [the](/en/post/the/) [day](/en/post/day/) hunting [in](/en/post/in/) [the](/en/post/the/) [forest](/en/post/forest/)." (2) [To](/en/post/to/) [search](/en/post/search/) [or](/en/post/or/) [seek](/en/post/seek/) ([something](/en/post/something/)) persistently [or](/en/post/or/) energetically. [Example](/en/post/example/): "[She](/en/post/she/) hunted [through](/en/post/through/) [her](/en/post/her/) [bag](/en/post/bag/) [for](/en/post/for/) [her](/en/post/her/) keys."
+- **[Noun](/post/noun/)**: [A](/post/a/) [search](/post/search/) [for](/post/for/) animals [or](/post/or/) [game](/post/game/), [usually](/post/usually/) involving tracking [and](/post/and/) killing, [for](/post/for/) [food](/post/food/), [sport](/post/sport/), [or](/post/or/) [population](/post/population/) [control](/post/control/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) hunters [set](/post/set/) [out](/post/out/) [on](/post/on/) [a](/post/a/) [deer](/post/deer/) [hunt](/post/hunt/) [early](/post/early/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- **[Verb](/post/verb/)**: (1) [To](/post/to/) [search](/post/search/) [for](/post/for/) [and](/post/and/) [chase](/post/chase/) [wild](/post/wild/) animals [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) catching [or](/post/or/) killing [them](/post/them/). [Example](/post/example/): "[They](/post/they/) spent [the](/post/the/) [day](/post/day/) hunting [in](/post/in/) [the](/post/the/) [forest](/post/forest/)." (2) [To](/post/to/) [search](/post/search/) [or](/post/or/) [seek](/post/seek/) ([something](/post/something/)) persistently [or](/post/or/) energetically. [Example](/post/example/): "[She](/post/she/) hunted [through](/post/through/) [her](/post/her/) [bag](/post/bag/) [for](/post/for/) [her](/post/her/) keys."
 
 ## Phrases
-- "Hunting [season](/en/post/season/)": [The](/en/post/the/) [time](/en/post/time/) [during](/en/post/during/) [which](/en/post/which/) [it](/en/post/it/) is legally permitted [to](/en/post/to/) [hunt](/en/post/hunt/) [specific](/en/post/specific/) types [of](/en/post/of/) [game](/en/post/game/).
-- "[Go](/en/post/go/) hunting": [To](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [the](/en/post/the/) [activity](/en/post/activity/) [of](/en/post/of/) hunting.
-- "[Hunt](/en/post/hunt/) [down](/en/post/down/)": [To](/en/post/to/) [pursue](/en/post/pursue/) relentlessly [until](/en/post/until/) [found](/en/post/found/); [often](/en/post/often/) [used](/en/post/used/) metaphorically, e.g., "[The](/en/post/the/) [police](/en/post/police/) hunted [down](/en/post/down/) [the](/en/post/the/) [suspect](/en/post/suspect/)."
+- "Hunting [season](/post/season/)": [The](/post/the/) [time](/post/time/) [during](/post/during/) [which](/post/which/) [it](/post/it/) is legally permitted [to](/post/to/) [hunt](/post/hunt/) [specific](/post/specific/) types [of](/post/of/) [game](/post/game/).
+- "[Go](/post/go/) hunting": [To](/post/to/) [participate](/post/participate/) [in](/post/in/) [the](/post/the/) [activity](/post/activity/) [of](/post/of/) hunting.
+- "[Hunt](/post/hunt/) [down](/post/down/)": [To](/post/to/) [pursue](/post/pursue/) relentlessly [until](/post/until/) [found](/post/found/); [often](/post/often/) [used](/post/used/) metaphorically, e.g., "[The](/post/the/) [police](/post/police/) hunted [down](/post/down/) [the](/post/the/) [suspect](/post/suspect/)."
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [annual](/en/post/annual/) [fox](/en/post/fox/) [hunt](/en/post/hunt/) was [a](/en/post/a/) [tradition](/en/post/tradition/) [in](/en/post/in/) [the](/en/post/the/) [village](/en/post/village/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) enjoys hunting pheasants [with](/en/post/with/) [his](/en/post/his/) [dog](/en/post/dog/) [every](/en/post/every/) [autumn](/en/post/autumn/)."
-  - Metaphorical [usage](/en/post/usage/): "Detectives hunted tirelessly [for](/en/post/for/) clues [to](/en/post/to/) [solve](/en/post/solve/) [the](/en/post/the/) [mystery](/en/post/mystery/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [annual](/post/annual/) [fox](/post/fox/) [hunt](/post/hunt/) was [a](/post/a/) [tradition](/post/tradition/) [in](/post/in/) [the](/post/the/) [village](/post/village/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) enjoys hunting pheasants [with](/post/with/) [his](/post/his/) [dog](/post/dog/) [every](/post/every/) [autumn](/post/autumn/)."
+  - Metaphorical [usage](/post/usage/): "Detectives hunted tirelessly [for](/post/for/) clues [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [mystery](/post/mystery/)."
 
 ## Synonyms
-- [Chase](/en/post/chase/)
-- [Pursue](/en/post/pursue/)
-- [Track](/en/post/track/)
-- [Search](/en/post/search/)
-- [Scout](/en/post/scout/)
-- [Hunt](/en/post/hunt/) [for](/en/post/for/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
-- [Game](/en/post/game/) ([when](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) hunting)
-- [Sport](/en/post/sport/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) recreational hunting)
-- Expedition ([for](/en/post/for/) organized [group](/en/post/group/) hunts)
+- [Chase](/post/chase/)
+- [Pursue](/post/pursue/)
+- [Track](/post/track/)
+- [Search](/post/search/)
+- [Scout](/post/scout/)
+- [Hunt](/post/hunt/) [for](/post/for/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/))
+- [Game](/post/game/) ([when](/post/when/) referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) hunting)
+- [Sport](/post/sport/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) recreational hunting)
+- Expedition ([for](/post/for/) organized [group](/post/group/) hunts)

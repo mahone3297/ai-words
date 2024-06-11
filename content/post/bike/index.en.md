@@ -7,40 +7,40 @@ description = '[baik] n.自行车 vi.骑自行车'
 keywords = ['ai words', 'bike']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /baɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [bicycle](/en/post/bicycle/), [a](/en/post/a/) human-powered [vehicle](/en/post/vehicle/) [with](/en/post/with/) [two](/en/post/two/) wheels [and](/en/post/and/) pedals, [often](/en/post/often/) propelled [by](/en/post/by/) [one](/en/post/one/) [rider](/en/post/rider/).
+### [Noun](/post/noun/)
+[A](/post/a/) [bicycle](/post/bicycle/), [a](/post/a/) human-powered [vehicle](/post/vehicle/) [with](/post/with/) [two](/post/two/) wheels [and](/post/and/) pedals, [often](/post/often/) propelled [by](/post/by/) [one](/post/one/) [rider](/post/rider/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [ride](/en/post/ride/) [a](/en/post/a/) [bicycle](/en/post/bicycle/), [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [regular](/en/post/regular/) [activity](/en/post/activity/) [or](/en/post/or/) [mode](/en/post/mode/) [of](/en/post/of/) [transportation](/en/post/transportation/).
+### [Verb](/post/verb/)
+[To](/post/to/) [ride](/post/ride/) [a](/post/a/) [bicycle](/post/bicycle/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [regular](/post/regular/) [activity](/post/activity/) [or](/post/or/) [mode](/post/mode/) [of](/post/of/) [transportation](/post/transportation/).
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) bicycles [or](/en/post/or/) [the](/en/post/the/) [sport](/en/post/sport/) [of](/en/post/of/) cycling.
-2. Informal: [Used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) rides [a](/en/post/a/) [bike](/en/post/bike/) [frequently](/en/post/frequently/) [or](/en/post/or/) enjoys cycling.
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) bicycles [or](/post/or/) [the](/post/the/) [sport](/post/sport/) [of](/post/of/) cycling.
+2. Informal: [Used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [someone](/post/someone/) [who](/post/who/) rides [a](/post/a/) [bike](/post/bike/) [frequently](/post/frequently/) [or](/post/or/) enjoys cycling.
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [bike](/en/post/bike/) [ride](/en/post/ride/)"
-- "[Go](/en/post/go/) [for](/en/post/for/) [a](/en/post/a/) [bike](/en/post/bike/) commute"
-- "[Bike](/en/post/bike/) enthusiasts"
-- "[Mountain](/en/post/mountain/) [bike](/en/post/bike/) trails"
-- "[City](/en/post/city/) [bike](/en/post/bike/) lanes"
+- "[Take](/post/take/) [a](/post/a/) [bike](/post/bike/) [ride](/post/ride/)"
+- "[Go](/post/go/) [for](/post/for/) [a](/post/a/) [bike](/post/bike/) commute"
+- "[Bike](/post/bike/) enthusiasts"
+- "[Mountain](/post/mountain/) [bike](/post/bike/) trails"
+- "[City](/post/city/) [bike](/post/bike/) lanes"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I bought [a](/en/post/a/) [new](/en/post/new/) [mountain](/en/post/mountain/) [bike](/en/post/bike/) [for](/en/post/for/) [my](/en/post/my/) [weekend](/en/post/weekend/) adventures."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) bikes [to](/en/post/to/) [work](/en/post/work/) [every](/en/post/every/) [day](/en/post/day/) [to](/en/post/to/) [stay](/en/post/stay/) [fit](/en/post/fit/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [bike](/en/post/bike/) [lane](/en/post/lane/) was designed specifically [for](/en/post/for/) cyclists."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I bought [a](/post/a/) [new](/post/new/) [mountain](/post/mountain/) [bike](/post/bike/) [for](/post/for/) [my](/post/my/) [weekend](/post/weekend/) adventures."
+- **[Verb](/post/verb/)**: "[She](/post/she/) bikes [to](/post/to/) [work](/post/work/) [every](/post/every/) [day](/post/day/) [to](/post/to/) [stay](/post/stay/) [fit](/post/fit/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [bike](/post/bike/) [lane](/post/lane/) was designed specifically [for](/post/for/) cyclists."
 
 ## Synonyms
-- [Bicycle](/en/post/bicycle/)
-- [Cycle](/en/post/cycle/)
+- [Bicycle](/post/bicycle/)
+- [Cycle](/post/cycle/)
 - Cycling
-- Pedal [bike](/en/post/bike/)
+- Pedal [bike](/post/bike/)
 - Two-wheeler
-- [Bicycle](/en/post/bicycle/) [wheel](/en/post/wheel/)
-- [Bicycle](/en/post/bicycle/) enthusiast
+- [Bicycle](/post/bicycle/) [wheel](/post/wheel/)
+- [Bicycle](/post/bicycle/) enthusiast
 
-## [Note](/en/post/note/)
-[The](/en/post/the/) [word](/en/post/word/) "[bike](/en/post/bike/)" is [primarily](/en/post/primarily/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [certain](/en/post/certain/) contexts, [such](/en/post/such/) [as](/en/post/as/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) riding [a](/en/post/a/) [bicycle](/en/post/bicycle/). [It](/en/post/it/) is informal [and](/en/post/and/) [not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) related [to](/en/post/to/) [the](/en/post/the/) [sport](/en/post/sport/) [or](/en/post/or/) [the](/en/post/the/) [vehicle](/en/post/vehicle/) [itself](/en/post/itself/), [although](/en/post/although/) [it](/en/post/it/) [may](/en/post/may/) [be](/en/post/be/) heard [in](/en/post/in/) [casual](/en/post/casual/) [conversation](/en/post/conversation/).
+## [Note](/post/note/)
+[The](/post/the/) [word](/post/word/) "[bike](/post/bike/)" is [primarily](/post/primarily/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [certain](/post/certain/) contexts, [such](/post/such/) [as](/post/as/) referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) riding [a](/post/a/) [bicycle](/post/bicycle/). [It](/post/it/) is informal [and](/post/and/) [not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) related [to](/post/to/) [the](/post/the/) [sport](/post/sport/) [or](/post/or/) [the](/post/the/) [vehicle](/post/vehicle/) [itself](/post/itself/), [although](/post/although/) [it](/post/it/) [may](/post/may/) [be](/post/be/) heard [in](/post/in/) [casual](/post/casual/) [conversation](/post/conversation/).

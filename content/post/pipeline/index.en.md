@@ -7,33 +7,33 @@ description = '[ˈpaipˌlain] n.管道，管线'
 keywords = ['ai words', 'pipeline']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /paɪˈplain/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) connected pipes [or](/en/post/or/) tubes, typically carrying fluids [or](/en/post/or/) gases [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [pipeline](/en/post/pipeline/) [system](/en/post/system/). 2. (figurative) [A](/en/post/a/) [sequence](/en/post/sequence/) [or](/en/post/or/) progression [of](/en/post/of/) tasks, steps, [or](/en/post/or/) events [leading](/en/post/leading/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [outcome](/en/post/outcome/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [business](/en/post/business/) [or](/en/post/or/) technological context. 3. An ongoing [project](/en/post/project/) [or](/en/post/or/) [development](/en/post/development/) [process](/en/post/process/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [series](/post/series/) [of](/post/of/) connected pipes [or](/post/or/) tubes, typically carrying fluids [or](/post/or/) gases [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [pipeline](/post/pipeline/) [system](/post/system/). 2. (figurative) [A](/post/a/) [sequence](/post/sequence/) [or](/post/or/) progression [of](/post/of/) tasks, steps, [or](/post/or/) events [leading](/post/leading/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [outcome](/post/outcome/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [business](/post/business/) [or](/post/or/) technological context. 3. An ongoing [project](/post/project/) [or](/post/or/) [development](/post/development/) [process](/post/process/).
 
 ## Phrases
-- "[Pipeline](/en/post/pipeline/) [management](/en/post/management/)" refers [to](/en/post/to/) [the](/en/post/the/) systematic handling [of](/en/post/of/) tasks [in](/en/post/in/) [a](/en/post/a/) workflow.
-- "[Project](/en/post/project/) [pipeline](/en/post/pipeline/)" denotes [the](/en/post/the/) [list](/en/post/list/) [of](/en/post/of/) upcoming projects [or](/en/post/or/) tasks [in](/en/post/in/) [a](/en/post/a/) company's plans.
-- "[Gas](/en/post/gas/) [pipeline](/en/post/pipeline/)" [or](/en/post/or/) "[oil](/en/post/oil/) [pipeline](/en/post/pipeline/)" are [specific](/en/post/specific/) examples [of](/en/post/of/) [physical](/en/post/physical/) pipelines.
+- "[Pipeline](/post/pipeline/) [management](/post/management/)" refers [to](/post/to/) [the](/post/the/) systematic handling [of](/post/of/) tasks [in](/post/in/) [a](/post/a/) workflow.
+- "[Project](/post/project/) [pipeline](/post/pipeline/)" denotes [the](/post/the/) [list](/post/list/) [of](/post/of/) upcoming projects [or](/post/or/) tasks [in](/post/in/) [a](/post/a/) company's plans.
+- "[Gas](/post/gas/) [pipeline](/post/pipeline/)" [or](/post/or/) "[oil](/post/oil/) [pipeline](/post/pipeline/)" are [specific](/post/specific/) examples [of](/post/of/) [physical](/post/physical/) pipelines.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [oil](/en/post/oil/) [pipeline](/en/post/pipeline/) [from](/en/post/from/) [the](/en/post/the/) [well](/en/post/well/) [to](/en/post/to/) [the](/en/post/the/) refinery is [over](/en/post/over/) 500 miles [long](/en/post/long/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) is working [on](/en/post/on/) diversifying [its](/en/post/its/) [product](/en/post/product/) [pipeline](/en/post/pipeline/) [to](/en/post/to/) [include](/en/post/include/) [new](/en/post/new/) software features."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [project](/en/post/project/) is currently [in](/en/post/in/) [the](/en/post/the/) [design](/en/post/design/) [phase](/en/post/phase/), [with](/en/post/with/) implementation scheduled [for](/en/post/for/) [next](/en/post/next/) [quarter](/en/post/quarter/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [oil](/post/oil/) [pipeline](/post/pipeline/) [from](/post/from/) [the](/post/the/) [well](/post/well/) [to](/post/to/) [the](/post/the/) refinery is [over](/post/over/) 500 miles [long](/post/long/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [company](/post/company/) is working [on](/post/on/) diversifying [its](/post/its/) [product](/post/product/) [pipeline](/post/pipeline/) [to](/post/to/) [include](/post/include/) [new](/post/new/) software features."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) [project](/post/project/) is currently [in](/post/in/) [the](/post/the/) [design](/post/design/) [phase](/post/phase/), [with](/post/with/) implementation scheduled [for](/post/for/) [next](/post/next/) [quarter](/post/quarter/)."
 
 ## Synonyms
-- [Pipeline](/en/post/pipeline/) [system](/en/post/system/)
-- [Sequence](/en/post/sequence/)
-- [Flow](/en/post/flow/)
+- [Pipeline](/post/pipeline/) [system](/post/system/)
+- [Sequence](/post/sequence/)
+- [Flow](/post/flow/)
 - Workstream
 - Progression
-- [Pipeline](/en/post/pipeline/) [of](/en/post/of/) activities
+- [Pipeline](/post/pipeline/) [of](/post/of/) activities
 
 ## Antonyms
 - Disruption
 - Stagnation
-- [Halt](/en/post/halt/)
+- [Halt](/post/halt/)
 - Breakdown
 - Detour

@@ -7,27 +7,27 @@ description = '[θæŋk] vt.谢谢，感谢 n.感谢'
 keywords = ['ai words', 'thank']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /thæŋk/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [express](/en/post/express/) [gratitude](/en/post/gratitude/) [or](/en/post/or/) appreciation; [to](/en/post/to/) [convey](/en/post/convey/) thanks. [For](/en/post/for/) [example](/en/post/example/): "I [want](/en/post/want/) [to](/en/post/to/) [thank](/en/post/thank/) [you](/en/post/you/) [for](/en/post/for/) [your](/en/post/your/) [help](/en/post/help/)."
-- **[Noun](/en/post/noun/)**: An [expression](/en/post/expression/) [of](/en/post/of/) [gratitude](/en/post/gratitude/); an [act](/en/post/act/) [of](/en/post/of/) showing appreciation. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [simple](/en/post/simple/) '[thank](/en/post/thank/) [you](/en/post/you/)' [can](/en/post/can/) [go](/en/post/go/) [a](/en/post/a/) [long](/en/post/long/) [way](/en/post/way/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) thankful [manner](/en/post/manner/); gratefully. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) thanked [him](/en/post/him/) profusely."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [express](/post/express/) [gratitude](/post/gratitude/) [or](/post/or/) appreciation; [to](/post/to/) [convey](/post/convey/) thanks. [For](/post/for/) [example](/post/example/): "I [want](/post/want/) [to](/post/to/) [thank](/post/thank/) [you](/post/you/) [for](/post/for/) [your](/post/your/) [help](/post/help/)."
+- **[Noun](/post/noun/)**: An [expression](/post/expression/) [of](/post/of/) [gratitude](/post/gratitude/); an [act](/post/act/) [of](/post/of/) showing appreciation. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [simple](/post/simple/) '[thank](/post/thank/) [you](/post/you/)' [can](/post/can/) [go](/post/go/) [a](/post/a/) [long](/post/long/) [way](/post/way/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) thankful [manner](/post/manner/); gratefully. [For](/post/for/) [example](/post/example/): "[She](/post/she/) thanked [him](/post/him/) profusely."
 
 ## Phrases
-- "[Thank](/en/post/thank/) [you](/en/post/you/) [very](/en/post/very/) [much](/en/post/much/)" is [a](/en/post/a/) [formal](/en/post/formal/) [way](/en/post/way/) [to](/en/post/to/) [express](/en/post/express/) [gratitude](/en/post/gratitude/).
-- "Thanks [a](/en/post/a/) [lot](/en/post/lot/)" is [a](/en/post/a/) [more](/en/post/more/) [casual](/en/post/casual/) [expression](/en/post/expression/) [of](/en/post/of/) appreciation.
-- "[No](/en/post/no/) [problem](/en/post/problem/), it's [my](/en/post/my/) [pleasure](/en/post/pleasure/)" is [a](/en/post/a/) [response](/en/post/response/) [to](/en/post/to/) [someone](/en/post/someone/) thanking [you](/en/post/you/).
+- "[Thank](/post/thank/) [you](/post/you/) [very](/post/very/) [much](/post/much/)" is [a](/post/a/) [formal](/post/formal/) [way](/post/way/) [to](/post/to/) [express](/post/express/) [gratitude](/post/gratitude/).
+- "Thanks [a](/post/a/) [lot](/post/lot/)" is [a](/post/a/) [more](/post/more/) [casual](/post/casual/) [expression](/post/expression/) [of](/post/of/) appreciation.
+- "[No](/post/no/) [problem](/post/problem/), it's [my](/post/my/) [pleasure](/post/pleasure/)" is [a](/post/a/) [response](/post/response/) [to](/post/to/) [someone](/post/someone/) thanking [you](/post/you/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I'd [like](/en/post/like/) [to](/en/post/to/) [thank](/en/post/thank/) [the](/en/post/the/) [speaker](/en/post/speaker/) [for](/en/post/for/) [their](/en/post/their/) inspiring presentation."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [concert](/en/post/concert/), [the](/en/post/the/) [audience](/en/post/audience/) stood [up](/en/post/up/) [to](/en/post/to/) [thank](/en/post/thank/) [the](/en/post/the/) musicians."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) thanked [her](/en/post/her/) friends [for](/en/post/for/) coming [to](/en/post/to/) [her](/en/post/her/) [birthday](/en/post/birthday/) [party](/en/post/party/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I'd [like](/post/like/) [to](/post/to/) [thank](/post/thank/) [the](/post/the/) [speaker](/post/speaker/) [for](/post/for/) [their](/post/their/) inspiring presentation."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [concert](/post/concert/), [the](/post/the/) [audience](/post/audience/) stood [up](/post/up/) [to](/post/to/) [thank](/post/thank/) [the](/post/the/) musicians."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) thanked [her](/post/her/) friends [for](/post/for/) coming [to](/post/to/) [her](/post/her/) [birthday](/post/birthday/) [party](/post/party/)."
 
 ## Synonyms
-- [Gratitude](/en/post/gratitude/)
+- [Gratitude](/post/gratitude/)
 - Appreciation
 - Acknowledge
-- [Recognize](/en/post/recognize/)
-- [Express](/en/post/express/) thanks
+- [Recognize](/post/recognize/)
+- [Express](/post/express/) thanks

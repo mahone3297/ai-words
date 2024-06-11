@@ -11,16 +11,16 @@ keywords = ['ai words', 'born']
 /bɔːrn/
 
 ## 释义
-- **动词**: 出生，诞生。例如: "[She](/post/she/) was [born](/post/born/) [in](/post/in/) [New](/post/new/) York [City](/post/city/)."
-- **形容词**: 天生的，与生俱来的。例如: "[He](/post/he/) has [a](/post/a/) [born](/post/born/) [talent](/post/talent/) [for](/post/for/) [music](/post/music/)."
+- **动词**: 出生，诞生。例如: "[She](/zh/post/she/) was [born](/zh/post/born/) [in](/zh/post/in/) [New](/zh/post/new/) York [City](/zh/post/city/)."
+- **形容词**: 天生的，与生俱来的。例如: "[He](/zh/post/he/) has [a](/zh/post/a/) [born](/zh/post/born/) [talent](/zh/post/talent/) [for](/zh/post/for/) [music](/zh/post/music/)."
 
 ## 短语
-- "[Born](/post/born/) [and](/post/and/) raised" 表示在某个地方出生并长大。例如: "I was [born](/post/born/) [and](/post/and/) raised [in](/post/in/) California."
-- "[Born](/post/born/) [leader](/post/leader/)" 指天生具有领导能力的人。例如: "She's [a](/post/a/) [born](/post/born/) [leader](/post/leader/), [always](/post/always/) taking [charge](/post/charge/) [of](/post/of/) situations."
+- "[Born](/zh/post/born/) [and](/zh/post/and/) raised" 表示在某个地方出生并长大。例如: "I was [born](/zh/post/born/) [and](/zh/post/and/) raised [in](/zh/post/in/) California."
+- "[Born](/zh/post/born/) [leader](/zh/post/leader/)" 指天生具有领导能力的人。例如: "She's [a](/zh/post/a/) [born](/zh/post/born/) [leader](/zh/post/leader/), [always](/zh/post/always/) taking [charge](/zh/post/charge/) [of](/zh/post/of/) situations."
 
 ## 例句
-- 动词: "[The](/post/the/) [baby](/post/baby/) was [born](/post/born/) [at](/post/at/) [midnight](/post/midnight/)."
-- 形容词: "[He](/post/he/) has [a](/post/a/) [born](/post/born/) [ability](/post/ability/) [to](/post/to/) [solve](/post/solve/) [complex](/post/complex/) problems."
+- 动词: "[The](/zh/post/the/) [baby](/zh/post/baby/) was [born](/zh/post/born/) [at](/zh/post/at/) [midnight](/zh/post/midnight/)."
+- 形容词: "[He](/zh/post/he/) has [a](/zh/post/a/) [born](/zh/post/born/) [ability](/zh/post/ability/) [to](/zh/post/to/) [solve](/zh/post/solve/) [complex](/zh/post/complex/) problems."
 
 ## 同义词
 - 出生:
@@ -28,5 +28,5 @@ keywords = ['ai words', 'born']
   - Originated
 - 天生的:
   - Inherent
-  - [Natural](/post/natural/)
+  - [Natural](/zh/post/natural/)
   - Innate

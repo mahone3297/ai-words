@@ -12,28 +12,28 @@ keywords = ['ai words', 'corner']
 
 ## 释义
 - **名词**: 
-    - 1. 角落；墙角：[A](/post/a/) [point](/post/point/) [where](/post/where/) [two](/post/two/) walls [meet](/post/meet/), [or](/post/or/) an [angle](/post/angle/) [in](/post/in/) [a](/post/a/) [room](/post/room/) [or](/post/or/) [building](/post/building/).
-    - 2. 地段；地区：[A](/post/a/) [particular](/post/particular/) [area](/post/area/) [or](/post/or/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [place](/post/place/).
-    - 3. 关键点；转折点：[A](/post/a/) crucial [or](/post/or/) decisive [point](/post/point/) [in](/post/in/) [a](/post/a/) [situation](/post/situation/).
+    - 1. 角落；墙角：[A](/zh/post/a/) [point](/zh/post/point/) [where](/zh/post/where/) [two](/zh/post/two/) walls [meet](/zh/post/meet/), [or](/zh/post/or/) an [angle](/zh/post/angle/) [in](/zh/post/in/) [a](/zh/post/a/) [room](/zh/post/room/) [or](/zh/post/or/) [building](/zh/post/building/).
+    - 2. 地段；地区：[A](/zh/post/a/) [particular](/zh/post/particular/) [area](/zh/post/area/) [or](/zh/post/or/) [part](/zh/post/part/) [of](/zh/post/of/) [a](/zh/post/a/) [place](/zh/post/place/).
+    - 3. 关键点；转折点：[A](/zh/post/a/) crucial [or](/zh/post/or/) decisive [point](/zh/post/point/) [in](/zh/post/in/) [a](/zh/post/a/) [situation](/zh/post/situation/).
 
 - **动词**:
-    - 使陷入困境；垄断：[To](/post/to/) [force](/post/force/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [into](/post/into/) [a](/post/a/) [difficult](/post/difficult/) [or](/post/or/) isolated [position](/post/position/), [or](/post/or/) [to](/post/to/) [gain](/post/gain/) [control](/post/control/) [over](/post/over/) [a](/post/a/) [market](/post/market/) [or](/post/or/) [resource](/post/resource/).
+    - 使陷入困境；垄断：[To](/zh/post/to/) [force](/zh/post/force/) [someone](/zh/post/someone/) [or](/zh/post/or/) [something](/zh/post/something/) [into](/zh/post/into/) [a](/zh/post/a/) [difficult](/zh/post/difficult/) [or](/zh/post/or/) isolated [position](/zh/post/position/), [or](/zh/post/or/) [to](/zh/post/to/) [gain](/zh/post/gain/) [control](/zh/post/control/) [over](/zh/post/over/) [a](/zh/post/a/) [market](/zh/post/market/) [or](/zh/post/or/) [resource](/zh/post/resource/).
 
 ## 短语
-- "[in](/post/in/) [the](/post/the/) [corner](/post/corner/)" 在角落里
-- "[at](/post/at/) [the](/post/the/) [corner](/post/corner/) [of](/post/of/)" 在...的角落
-- "[corner](/post/corner/) [the](/post/the/) [market](/post/market/)" 垄断市场
+- "[in](/zh/post/in/) [the](/zh/post/the/) [corner](/zh/post/corner/)" 在角落里
+- "[at](/zh/post/at/) [the](/zh/post/the/) [corner](/zh/post/corner/) [of](/zh/post/of/)" 在...的角落
+- "[corner](/zh/post/corner/) [the](/zh/post/the/) [market](/zh/post/market/)" 垄断市场
 
 ## 例句
-- 名词: "There's [a](/post/a/) [small](/post/small/) [table](/post/table/) [in](/post/in/) [the](/post/the/) [corner](/post/corner/) [by](/post/by/) [the](/post/the/) [window](/post/window/)."
-- 动词: "[The](/post/the/) [company](/post/company/) tried [to](/post/to/) [corner](/post/corner/) [the](/post/the/) [market](/post/market/) [on](/post/on/) [rare](/post/rare/) metals."
+- 名词: "There's [a](/zh/post/a/) [small](/zh/post/small/) [table](/zh/post/table/) [in](/zh/post/in/) [the](/zh/post/the/) [corner](/zh/post/corner/) [by](/zh/post/by/) [the](/zh/post/the/) [window](/zh/post/window/)."
+- 动词: "[The](/zh/post/the/) [company](/zh/post/company/) tried [to](/zh/post/to/) [corner](/zh/post/corner/) [the](/zh/post/the/) [market](/zh/post/market/) [on](/zh/post/on/) [rare](/zh/post/rare/) metals."
 
 ## 同义词
-- [Noun](/post/noun/):
-    - [Angle](/post/angle/)
-    - [Bend](/post/bend/)
+- [Noun](/zh/post/noun/):
+    - [Angle](/zh/post/angle/)
+    - [Bend](/zh/post/bend/)
     - Junction
-- [Verb](/post/verb/):
-    - [Box](/post/box/) [in](/post/in/)
-    - [Corner](/post/corner/) [the](/post/the/) [market](/post/market/)
-    - [Force](/post/force/) [into](/post/into/) [a](/post/a/) [tight](/post/tight/) [spot](/post/spot/)
+- [Verb](/zh/post/verb/):
+    - [Box](/zh/post/box/) [in](/zh/post/in/)
+    - [Corner](/zh/post/corner/) [the](/zh/post/the/) [market](/zh/post/market/)
+    - [Force](/zh/post/force/) [into](/zh/post/into/) [a](/zh/post/a/) [tight](/zh/post/tight/) [spot](/zh/post/spot/)

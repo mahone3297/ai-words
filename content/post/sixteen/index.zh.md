@@ -11,16 +11,16 @@ keywords = ['ai words', 'sixteen']
 /ˈsɪksˈtiːn/
 
 ## 释义
-- **数词**: 表示数字16。例如: "[There](/post/there/) are [sixteen](/post/sixteen/) students [in](/post/in/) [the](/post/the/) [class](/post/class/)."
+- **数词**: 表示数字16。例如: "[There](/zh/post/there/) are [sixteen](/zh/post/sixteen/) students [in](/zh/post/in/) [the](/zh/post/the/) [class](/zh/post/class/)."
 
 ## 短语
-- "[sixteen](/post/sixteen/) years [old](/post/old/)" 意指年龄为16岁。
-- "[sixteen](/post/sixteen/) times" 表示乘以16。
+- "[sixteen](/zh/post/sixteen/) years [old](/zh/post/old/)" 意指年龄为16岁。
+- "[sixteen](/zh/post/sixteen/) times" 表示乘以16。
 
 ## 例句
-- "[She](/post/she/) [just](/post/just/) turned [sixteen](/post/sixteen/) [and](/post/and/) got [her](/post/her/) driver's [license](/post/license/)."
-- "[The](/post/the/) [box](/post/box/) weighs [sixteen](/post/sixteen/) pounds."
-- "[He](/post/he/) [can](/post/can/) [multiply](/post/multiply/) numbers [up](/post/up/) [to](/post/to/) [sixteen](/post/sixteen/) [quickly](/post/quickly/)."
+- "[She](/zh/post/she/) [just](/zh/post/just/) turned [sixteen](/zh/post/sixteen/) [and](/zh/post/and/) got [her](/zh/post/her/) driver's [license](/zh/post/license/)."
+- "[The](/zh/post/the/) [box](/zh/post/box/) weighs [sixteen](/zh/post/sixteen/) pounds."
+- "[He](/zh/post/he/) [can](/zh/post/can/) [multiply](/zh/post/multiply/) numbers [up](/zh/post/up/) [to](/zh/post/to/) [sixteen](/zh/post/sixteen/) [quickly](/zh/post/quickly/)."
 
 ## 同义词
 - 十六

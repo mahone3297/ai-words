@@ -12,26 +12,26 @@ keywords = ['ai words', 'reign']
 
 ## 释义
 - **名词**: 
-    - 统治，执政。例如: "[During](/post/during/) [his](/post/his/) [reign](/post/reign/), [the](/post/the/) [country](/post/country/) experienced [prosperity](/post/prosperity/)."
-    - 时代，时期。例如: "[The](/post/the/) [reign](/post/reign/) [of](/post/of/) [Queen](/post/queen/) Elizabeth II has been [long](/post/long/) [and](/post/and/) [prosperous](/post/prosperous/)."
-    - 王权，君主政体。例如: "[The](/post/the/) [idea](/post/idea/) [of](/post/of/) [absolute](/post/absolute/) [reign](/post/reign/) has diminished [over](/post/over/) [time](/post/time/)."
+    - 统治，执政。例如: "[During](/zh/post/during/) [his](/zh/post/his/) [reign](/zh/post/reign/), [the](/zh/post/the/) [country](/zh/post/country/) experienced [prosperity](/zh/post/prosperity/)."
+    - 时代，时期。例如: "[The](/zh/post/the/) [reign](/zh/post/reign/) [of](/zh/post/of/) [Queen](/zh/post/queen/) Elizabeth II has been [long](/zh/post/long/) [and](/zh/post/and/) [prosperous](/zh/post/prosperous/)."
+    - 王权，君主政体。例如: "[The](/zh/post/the/) [idea](/zh/post/idea/) [of](/zh/post/of/) [absolute](/zh/post/absolute/) [reign](/zh/post/reign/) has diminished [over](/zh/post/over/) [time](/zh/post/time/)."
 
 - **动词**:
-    - 统治，当政。例如: "[She](/post/she/) reigned [over](/post/over/) [the](/post/the/) [kingdom](/post/kingdom/) [for](/post/for/) 50 years."
-    - 在某领域占主导地位。例如: "[His](/post/his/) [music](/post/music/) reigns [supreme](/post/supreme/) [in](/post/in/) [the](/post/the/) charts."
+    - 统治，当政。例如: "[She](/zh/post/she/) reigned [over](/zh/post/over/) [the](/zh/post/the/) [kingdom](/zh/post/kingdom/) [for](/zh/post/for/) 50 years."
+    - 在某领域占主导地位。例如: "[His](/zh/post/his/) [music](/zh/post/music/) reigns [supreme](/zh/post/supreme/) [in](/zh/post/in/) [the](/zh/post/the/) charts."
 
 ## 短语
-- "[reign](/post/reign/) [of](/post/of/) [terror](/post/terror/)" 恐怖统治时期，如法国大革命时期的"[Reign](/post/reign/) [of](/post/of/) [Terror](/post/terror/)".
-- "[reign](/post/reign/) [supreme](/post/supreme/)" 占据支配地位，处于最高位置。例如: "[Her](/post/her/) [talent](/post/talent/) reigns [supreme](/post/supreme/) [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [art](/post/art/)."
+- "[reign](/zh/post/reign/) [of](/zh/post/of/) [terror](/zh/post/terror/)" 恐怖统治时期，如法国大革命时期的"[Reign](/zh/post/reign/) [of](/zh/post/of/) [Terror](/zh/post/terror/)".
+- "[reign](/zh/post/reign/) [supreme](/zh/post/supreme/)" 占据支配地位，处于最高位置。例如: "[Her](/zh/post/her/) [talent](/zh/post/talent/) reigns [supreme](/zh/post/supreme/) [in](/zh/post/in/) [the](/zh/post/the/) [field](/zh/post/field/) [of](/zh/post/of/) [art](/zh/post/art/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [reign](/post/reign/) [of](/post/of/) [King](/post/king/) Henry VIII was marked [by](/post/by/) [religious](/post/religious/) turmoil."
-- 动词: "[After](/post/after/) winning [the](/post/the/) [election](/post/election/), [he](/post/he/) began [to](/post/to/) [reign](/post/reign/) [as](/post/as/) [the](/post/the/) [new](/post/new/) [president](/post/president/)."
-- 副词: "[In](/post/in/) [the](/post/the/) [world](/post/world/) [of](/post/of/) [fashion](/post/fashion/), [her](/post/her/) designs [have](/post/have/) been reigning [for](/post/for/) decades."
+- 名词: "[The](/zh/post/the/) [reign](/zh/post/reign/) [of](/zh/post/of/) [King](/zh/post/king/) Henry VIII was marked [by](/zh/post/by/) [religious](/zh/post/religious/) turmoil."
+- 动词: "[After](/zh/post/after/) winning [the](/zh/post/the/) [election](/zh/post/election/), [he](/zh/post/he/) began [to](/zh/post/to/) [reign](/zh/post/reign/) [as](/zh/post/as/) [the](/zh/post/the/) [new](/zh/post/new/) [president](/zh/post/president/)."
+- 副词: "[In](/zh/post/in/) [the](/zh/post/the/) [world](/zh/post/world/) [of](/zh/post/of/) [fashion](/zh/post/fashion/), [her](/zh/post/her/) designs [have](/zh/post/have/) been reigning [for](/zh/post/for/) decades."
 
 ## 同义词
 - sovereignty
-- [rule](/post/rule/)
+- [rule](/zh/post/rule/)
 - dominion
-- [control](/post/control/)
+- [control](/zh/post/control/)
 - supremacy

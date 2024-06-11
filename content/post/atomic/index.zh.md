@@ -11,21 +11,21 @@ keywords = ['ai words', 'atomic']
 /ˈætəmɪk/
 
 ## 释义
-- **形容词**: 原子的；原子能的；基本的；极小的。例如: "[The](/post/the/) [atomic](/post/atomic/) [bomb](/post/bomb/) is an [extremely](/post/extremely/) destructive [weapon](/post/weapon/)."
-- **名词**: [化学] 原子；[物理] 原子核。例如: "Atoms are [the](/post/the/) [building](/post/building/) blocks [of](/post/of/) [matter](/post/matter/)."
+- **形容词**: 原子的；原子能的；基本的；极小的。例如: "[The](/zh/post/the/) [atomic](/zh/post/atomic/) [bomb](/zh/post/bomb/) is an [extremely](/zh/post/extremely/) destructive [weapon](/zh/post/weapon/)."
+- **名词**: [化学] 原子；[物理] 原子核。例如: "Atoms are [the](/zh/post/the/) [building](/zh/post/building/) blocks [of](/zh/post/of/) [matter](/zh/post/matter/)."
 
 ## 短语
-- "[atomic](/post/atomic/) [energy](/post/energy/)" 原子能，核能。
-- "[atomic](/post/atomic/) [bomb](/post/bomb/)" 原子弹。
-- "[atomic](/post/atomic/) [structure](/post/structure/)" 原子结构。
+- "[atomic](/zh/post/atomic/) [energy](/zh/post/energy/)" 原子能，核能。
+- "[atomic](/zh/post/atomic/) [bomb](/zh/post/bomb/)" 原子弹。
+- "[atomic](/zh/post/atomic/) [structure](/zh/post/structure/)" 原子结构。
 
 ## 例句
-- 形容词: "[The](/post/the/) [atomic](/post/atomic/) [clock](/post/clock/) is [so](/post/so/) [precise](/post/precise/) [that](/post/that/) [it](/post/it/) loses [only](/post/only/) [one](/post/one/) [second](/post/second/) [every](/post/every/) [few](/post/few/) [million](/post/million/) years."
-- 名词: "[The](/post/the/) [discovery](/post/discovery/) [of](/post/of/) [the](/post/the/) [structure](/post/structure/) [of](/post/of/) [the](/post/the/) [atomic](/post/atomic/) [nucleus](/post/nucleus/) revolutionized [physics](/post/physics/)."
+- 形容词: "[The](/zh/post/the/) [atomic](/zh/post/atomic/) [clock](/zh/post/clock/) is [so](/zh/post/so/) [precise](/zh/post/precise/) [that](/zh/post/that/) [it](/zh/post/it/) loses [only](/zh/post/only/) [one](/zh/post/one/) [second](/zh/post/second/) [every](/zh/post/every/) [few](/zh/post/few/) [million](/zh/post/million/) years."
+- 名词: "[The](/zh/post/the/) [discovery](/zh/post/discovery/) [of](/zh/post/of/) [the](/zh/post/the/) [structure](/zh/post/structure/) [of](/zh/post/of/) [the](/zh/post/the/) [atomic](/zh/post/atomic/) [nucleus](/zh/post/nucleus/) revolutionized [physics](/zh/post/physics/)."
 
 ## 同义词
-- [Nuclear](/post/nuclear/)
+- [Nuclear](/zh/post/nuclear/)
 - Elemental
-- [Basic](/post/basic/)
-- [Minute](/post/minute/)
+- [Basic](/zh/post/basic/)
+- [Minute](/zh/post/minute/)
 - Subatomic

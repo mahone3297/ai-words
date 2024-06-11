@@ -11,22 +11,22 @@ keywords = ['ai words', 'pile']
 /paɪl/
 
 ## 释义
-- **名词**: 一堆；堆积物；叠。例如: "[There](/post/there/) is [a](/post/a/) [pile](/post/pile/) [of](/post/of/) books [on](/post/on/) [the](/post/the/) [desk](/post/desk/)."
-- **动词**: 堆积；堆叠。例如: "[She](/post/she/) piled [the](/post/the/) dishes [in](/post/in/) [the](/post/the/) [sink](/post/sink/)."
-- **量词**: 大量；许多。例如: "I [have](/post/have/) [a](/post/a/) [pile](/post/pile/) [of](/post/of/) [work](/post/work/) [to](/post/to/) [do](/post/do/)."
+- **名词**: 一堆；堆积物；叠。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [pile](/zh/post/pile/) [of](/zh/post/of/) books [on](/zh/post/on/) [the](/zh/post/the/) [desk](/zh/post/desk/)."
+- **动词**: 堆积；堆叠。例如: "[She](/zh/post/she/) piled [the](/zh/post/the/) dishes [in](/zh/post/in/) [the](/zh/post/the/) [sink](/zh/post/sink/)."
+- **量词**: 大量；许多。例如: "I [have](/zh/post/have/) [a](/zh/post/a/) [pile](/zh/post/pile/) [of](/zh/post/of/) [work](/zh/post/work/) [to](/zh/post/to/) [do](/zh/post/do/)."
 
 ## 短语
-- "[pile](/post/pile/) [up](/post/up/)" 意为堆积起来。例如: "[The](/post/the/) [snow](/post/snow/) was piling [up](/post/up/) [quickly](/post/quickly/) [during](/post/during/) [the](/post/the/) [storm](/post/storm/)."
-- "[a](/post/a/) [huge](/post/huge/) [pile](/post/pile/) [of](/post/of/)" 表示大量的。例如: "[There](/post/there/) was [a](/post/a/) [huge](/post/huge/) [pile](/post/pile/) [of](/post/of/) [laundry](/post/laundry/) waiting [to](/post/to/) [be](/post/be/) washed."
+- "[pile](/zh/post/pile/) [up](/zh/post/up/)" 意为堆积起来。例如: "[The](/zh/post/the/) [snow](/zh/post/snow/) was piling [up](/zh/post/up/) [quickly](/zh/post/quickly/) [during](/zh/post/during/) [the](/zh/post/the/) [storm](/zh/post/storm/)."
+- "[a](/zh/post/a/) [huge](/zh/post/huge/) [pile](/zh/post/pile/) [of](/zh/post/of/)" 表示大量的。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [huge](/zh/post/huge/) [pile](/zh/post/pile/) [of](/zh/post/of/) [laundry](/zh/post/laundry/) waiting [to](/zh/post/to/) [be](/zh/post/be/) washed."
 
 ## 例句
-- 名词: "[The](/post/the/) children built [a](/post/a/) snowman [with](/post/with/) [a](/post/a/) [large](/post/large/) [pile](/post/pile/) [of](/post/of/) [snow](/post/snow/)."
-- 动词: "[He](/post/he/) piled [his](/post/his/) [clothes](/post/clothes/) [on](/post/on/) [the](/post/the/) [chair](/post/chair/) [before](/post/before/) taking [a](/post/a/) [shower](/post/shower/)."
-- 量词: "[She](/post/she/) had [a](/post/a/) [pile](/post/pile/) [of](/post/of/) unanswered emails [in](/post/in/) [her](/post/her/) inbox."
+- 名词: "[The](/zh/post/the/) children built [a](/zh/post/a/) snowman [with](/zh/post/with/) [a](/zh/post/a/) [large](/zh/post/large/) [pile](/zh/post/pile/) [of](/zh/post/of/) [snow](/zh/post/snow/)."
+- 动词: "[He](/zh/post/he/) piled [his](/zh/post/his/) [clothes](/zh/post/clothes/) [on](/zh/post/on/) [the](/zh/post/the/) [chair](/zh/post/chair/) [before](/zh/post/before/) taking [a](/zh/post/a/) [shower](/zh/post/shower/)."
+- 量词: "[She](/zh/post/she/) had [a](/zh/post/a/) [pile](/zh/post/pile/) [of](/zh/post/of/) unanswered emails [in](/zh/post/in/) [her](/zh/post/her/) inbox."
 
 ## 同义词
-- [heap](/post/heap/)
-- [stack](/post/stack/)
-- [bunch](/post/bunch/)
-- [mass](/post/mass/)
-- [collection](/post/collection/)
+- [heap](/zh/post/heap/)
+- [stack](/zh/post/stack/)
+- [bunch](/zh/post/bunch/)
+- [mass](/zh/post/mass/)
+- [collection](/zh/post/collection/)

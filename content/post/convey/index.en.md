@@ -7,37 +7,37 @@ description = '[kənˈvei] vt.传送；运送；传播'
 keywords = ['ai words', 'convey']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈvɔɪ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-  - **[Noun](/en/post/noun/)**: [A](/en/post/a/) [means](/en/post/means/) [of](/en/post/of/) transmitting [or](/en/post/or/) conveying [information](/en/post/information/), ideas, [or](/en/post/or/) emotions [from](/en/post/from/) [one](/en/post/one/) [person](/en/post/person/) [to](/en/post/to/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) conveyed [a](/en/post/a/) [powerful](/en/post/powerful/) [message](/en/post/message/) [about](/en/post/about/) [love](/en/post/love/)."
-  - **[Verb](/en/post/verb/)**: [To](/en/post/to/) [transfer](/en/post/transfer/) ([something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [message](/en/post/message/) [or](/en/post/or/) [feeling](/en/post/feeling/)) [from](/en/post/from/) [one](/en/post/one/) [person](/en/post/person/) [to](/en/post/to/) [another](/en/post/another/), [usually](/en/post/usually/) [by](/en/post/by/) words [or](/en/post/or/) gestures. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) conveyed [her](/en/post/her/) [gratitude](/en/post/gratitude/) [through](/en/post/through/) [a](/en/post/a/) heartfelt [smile](/en/post/smile/)."
-  - **[Adjective](/en/post/adjective/)**: [Capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) effectively communicated [or](/en/post/or/) expressed. [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [painting](/en/post/painting/) is [highly](/en/post/highly/) evocative, [it](/en/post/it/) conveys [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) nostalgia."
+- **[Verb](/post/verb/)**: 
+  - **[Noun](/post/noun/)**: [A](/post/a/) [means](/post/means/) [of](/post/of/) transmitting [or](/post/or/) conveying [information](/post/information/), ideas, [or](/post/or/) emotions [from](/post/from/) [one](/post/one/) [person](/post/person/) [to](/post/to/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) conveyed [a](/post/a/) [powerful](/post/powerful/) [message](/post/message/) [about](/post/about/) [love](/post/love/)."
+  - **[Verb](/post/verb/)**: [To](/post/to/) [transfer](/post/transfer/) ([something](/post/something/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [message](/post/message/) [or](/post/or/) [feeling](/post/feeling/)) [from](/post/from/) [one](/post/one/) [person](/post/person/) [to](/post/to/) [another](/post/another/), [usually](/post/usually/) [by](/post/by/) words [or](/post/or/) gestures. [For](/post/for/) [example](/post/example/): "[She](/post/she/) conveyed [her](/post/her/) [gratitude](/post/gratitude/) [through](/post/through/) [a](/post/a/) heartfelt [smile](/post/smile/)."
+  - **[Adjective](/post/adjective/)**: [Capable](/post/capable/) [of](/post/of/) [being](/post/being/) effectively communicated [or](/post/or/) expressed. [For](/post/for/) [example](/post/example/): "[This](/post/this/) [painting](/post/painting/) is [highly](/post/highly/) evocative, [it](/post/it/) conveys [a](/post/a/) [sense](/post/sense/) [of](/post/of/) nostalgia."
 
 ## Phrases
-- "[Convey](/en/post/convey/) [a](/en/post/a/) [message](/en/post/message/)" [means](/en/post/means/) [to](/en/post/to/) [communicate](/en/post/communicate/) an [idea](/en/post/idea/) [or](/en/post/or/) [information](/en/post/information/).
-- "[Convey](/en/post/convey/) one's feelings" [means](/en/post/means/) [to](/en/post/to/) [express](/en/post/express/) emotions.
-- "Conveyed [well](/en/post/well/)" indicates [that](/en/post/that/) [something](/en/post/something/) has been [clearly](/en/post/clearly/) communicated.
+- "[Convey](/post/convey/) [a](/post/a/) [message](/post/message/)" [means](/post/means/) [to](/post/to/) [communicate](/post/communicate/) an [idea](/post/idea/) [or](/post/or/) [information](/post/information/).
+- "[Convey](/post/convey/) one's feelings" [means](/post/means/) [to](/post/to/) [express](/post/express/) emotions.
+- "Conveyed [well](/post/well/)" indicates [that](/post/that/) [something](/post/something/) has been [clearly](/post/clearly/) communicated.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) conveyed [the](/en/post/the/) [complex](/en/post/complex/) [concept](/en/post/concept/) [in](/en/post/in/) [simple](/en/post/simple/) terms."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [art](/en/post/art/) [exhibition](/en/post/exhibition/) conveyed [the](/en/post/the/) artist's [vision](/en/post/vision/) [to](/en/post/to/) [the](/en/post/the/) [audience](/en/post/audience/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [writing](/en/post/writing/) is [highly](/en/post/highly/) articulate, effectively conveying [her](/en/post/her/) thoughts."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) conveyed [the](/post/the/) [complex](/post/complex/) [concept](/post/concept/) [in](/post/in/) [simple](/post/simple/) terms."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [art](/post/art/) [exhibition](/post/exhibition/) conveyed [the](/post/the/) artist's [vision](/post/vision/) [to](/post/to/) [the](/post/the/) [audience](/post/audience/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [writing](/post/writing/) is [highly](/post/highly/) articulate, effectively conveying [her](/post/her/) thoughts."
 
 ## Synonyms
-- [Express](/en/post/express/)
-- [Communicate](/en/post/communicate/)
-- [Transmit](/en/post/transmit/)
-- [Deliver](/en/post/deliver/)
-- [Pass](/en/post/pass/) [on](/en/post/on/)
-- [Put](/en/post/put/) [across](/en/post/across/)
+- [Express](/post/express/)
+- [Communicate](/post/communicate/)
+- [Transmit](/post/transmit/)
+- [Deliver](/post/deliver/)
+- [Pass](/post/pass/) [on](/post/on/)
+- [Put](/post/put/) [across](/post/across/)
 - Expressly
 - Manifest
 
 ## Antonyms
-- [Conceal](/en/post/conceal/)
+- [Conceal](/post/conceal/)
 - Misinterpret
 - Obfuscate
-- [Confuse](/en/post/confuse/)
+- [Confuse](/post/confuse/)

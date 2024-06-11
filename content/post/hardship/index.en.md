@@ -7,38 +7,38 @@ description = '[ˈhɑːdˌ∫ip] n.艰难，困苦'
 keywords = ['ai words', 'hardship']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhɑːrdʃɪp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/) [or](/en/post/or/) [condition](/en/post/condition/) [that](/en/post/that/) involves suffering, privation, [or](/en/post/or/) adversity. [It](/en/post/it/) [often](/en/post/often/) refers [to](/en/post/to/) [financial](/en/post/financial/) difficulties [but](/en/post/but/) [can](/en/post/can/) [also](/en/post/also/) encompass [physical](/en/post/physical/) [or](/en/post/or/) [emotional](/en/post/emotional/) [strain](/en/post/strain/). 
+- **[Noun](/post/noun/)**: [A](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/) [or](/post/or/) [condition](/post/condition/) [that](/post/that/) involves suffering, privation, [or](/post/or/) adversity. [It](/post/it/) [often](/post/often/) refers [to](/post/to/) [financial](/post/financial/) difficulties [but](/post/but/) [can](/post/can/) [also](/post/also/) encompass [physical](/post/physical/) [or](/post/or/) [emotional](/post/emotional/) [strain](/post/strain/). 
 
-[Example](/en/post/example/) sentences:
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [family](/en/post/family/) endured [many](/en/post/many/) hardships [during](/en/post/during/) [the](/en/post/the/) [economic](/en/post/economic/) downturn."
-  - "[She](/en/post/she/) faced [numerous](/en/post/numerous/) hardships [on](/en/post/on/) [her](/en/post/her/) [journey](/en/post/journey/) [to](/en/post/to/) becoming [a](/en/post/a/) [successful](/en/post/successful/) entrepreneur."
+[Example](/post/example/) sentences:
+- **[Noun](/post/noun/)**: "[The](/post/the/) [family](/post/family/) endured [many](/post/many/) hardships [during](/post/during/) [the](/post/the/) [economic](/post/economic/) downturn."
+  - "[She](/post/she/) faced [numerous](/post/numerous/) hardships [on](/post/on/) [her](/post/her/) [journey](/post/journey/) [to](/post/to/) becoming [a](/post/a/) [successful](/post/successful/) entrepreneur."
   
 ## Phrases
-- "[Face](/en/post/face/) hardships": [to](/en/post/to/) confront [or](/en/post/or/) [experience](/en/post/experience/) [difficult](/en/post/difficult/) situations.
-- "[Overcome](/en/post/overcome/) hardships": [to](/en/post/to/) [successfully](/en/post/successfully/) [deal](/en/post/deal/) [with](/en/post/with/) [and](/en/post/and/) [triumph](/en/post/triumph/) [over](/en/post/over/) challenging circumstances.
-- "[Hardship](/en/post/hardship/) [and](/en/post/and/) [struggle](/en/post/struggle/)": referring [to](/en/post/to/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) trying experiences [or](/en/post/or/) conditions.
+- "[Face](/post/face/) hardships": [to](/post/to/) confront [or](/post/or/) [experience](/post/experience/) [difficult](/post/difficult/) situations.
+- "[Overcome](/post/overcome/) hardships": [to](/post/to/) [successfully](/post/successfully/) [deal](/post/deal/) [with](/post/with/) [and](/post/and/) [triumph](/post/triumph/) [over](/post/over/) challenging circumstances.
+- "[Hardship](/post/hardship/) [and](/post/and/) [struggle](/post/struggle/)": referring [to](/post/to/) [a](/post/a/) [series](/post/series/) [of](/post/of/) trying experiences [or](/post/or/) conditions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Financial](/en/post/financial/) [hardship](/en/post/hardship/) forced [them](/en/post/them/) [to](/en/post/to/) [sell](/en/post/sell/) [their](/en/post/their/) [home](/en/post/home/)."
-  - "[Living](/en/post/living/) [in](/en/post/in/) [poverty](/en/post/poverty/) is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [most](/en/post/most/) [severe](/en/post/severe/) hardships [people](/en/post/people/) [can](/en/post/can/) [face](/en/post/face/)."
-  - "[The](/en/post/the/) pandemic has brought [about](/en/post/about/) unprecedented hardships [for](/en/post/for/) [many](/en/post/many/) [small](/en/post/small/) businesses."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Financial](/post/financial/) [hardship](/post/hardship/) forced [them](/post/them/) [to](/post/to/) [sell](/post/sell/) [their](/post/their/) [home](/post/home/)."
+  - "[Living](/post/living/) [in](/post/in/) [poverty](/post/poverty/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [severe](/post/severe/) hardships [people](/post/people/) [can](/post/can/) [face](/post/face/)."
+  - "[The](/post/the/) pandemic has brought [about](/post/about/) unprecedented hardships [for](/post/for/) [many](/post/many/) [small](/post/small/) businesses."
 
 ## Synonyms
 - Adversity
-- [Struggle](/en/post/struggle/)
+- [Struggle](/post/struggle/)
 - Misfortune
 - Tribulation
 - Suffering
 - Ordeal
-- [Distress](/en/post/distress/)
-- [Trial](/en/post/trial/)
-- [Difficulty](/en/post/difficulty/)
-- [Challenge](/en/post/challenge/)
-- [Hard](/en/post/hard/) times
+- [Distress](/post/distress/)
+- [Trial](/post/trial/)
+- [Difficulty](/post/difficulty/)
+- [Challenge](/post/challenge/)
+- [Hard](/post/hard/) times
 - Peril
 - Troubles
-- Hardships [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [specific](/en/post/specific/) [like](/en/post/like/) [financial](/en/post/financial/) [hardship](/en/post/hardship/), [emotional](/en/post/emotional/) [hardship](/en/post/hardship/), [or](/en/post/or/) [physical](/en/post/physical/) [hardship](/en/post/hardship/).
+- Hardships [can](/post/can/) [also](/post/also/) [be](/post/be/) [specific](/post/specific/) [like](/post/like/) [financial](/post/financial/) [hardship](/post/hardship/), [emotional](/post/emotional/) [hardship](/post/hardship/), [or](/post/or/) [physical](/post/physical/) [hardship](/post/hardship/).

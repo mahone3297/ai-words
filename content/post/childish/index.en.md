@@ -7,23 +7,23 @@ description = '[ˈt∫aildi∫] a.孩子的；幼稚的'
 keywords = ['ai words', 'childish']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃɪldɪʃ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) children; immature, unsophisticated, [or](/en/post/or/) lacking [in](/en/post/in/) maturity. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [behavior](/en/post/behavior/) was [quite](/en/post/quite/) [childish](/en/post/childish/) [for](/en/post/for/) [her](/en/post/her/) [age](/en/post/age/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [child](/en/post/child/), [when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) countable [noun](/en/post/noun/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) had [a](/en/post/a/) [class](/en/post/class/) [full](/en/post/full/) [of](/en/post/of/) [lively](/en/post/lively/) children."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [childish](/en/post/childish/) [manner](/en/post/manner/); naively [or](/en/post/or/) unreasonably. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) reacted [very](/en/post/very/) childishly [after](/en/post/after/) losing [the](/en/post/the/) [game](/en/post/game/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) children; immature, unsophisticated, [or](/post/or/) lacking [in](/post/in/) maturity. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [behavior](/post/behavior/) was [quite](/post/quite/) [childish](/post/childish/) [for](/post/for/) [her](/post/her/) [age](/post/age/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [child](/post/child/), [when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) countable [noun](/post/noun/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) had [a](/post/a/) [class](/post/class/) [full](/post/full/) [of](/post/of/) [lively](/post/lively/) children."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [childish](/post/childish/) [manner](/post/manner/); naively [or](/post/or/) unreasonably. [For](/post/for/) [example](/post/example/): "[He](/post/he/) reacted [very](/post/very/) childishly [after](/post/after/) losing [the](/post/the/) [game](/post/game/)."
 
 ## Phrases
-- "Acting childishly" describes behaving [in](/en/post/in/) an immature [or](/en/post/or/) irresponsible [way](/en/post/way/).
-- "[Childish](/en/post/childish/) antics" refers [to](/en/post/to/) playful [or](/en/post/or/) [silly](/en/post/silly/) behaviors [typical](/en/post/typical/) [of](/en/post/of/) children.
-- "[Childish](/en/post/childish/) dreams" [can](/en/post/can/) [mean](/en/post/mean/) unrealistic [or](/en/post/or/) naive aspirations.
+- "Acting childishly" describes behaving [in](/post/in/) an immature [or](/post/or/) irresponsible [way](/post/way/).
+- "[Childish](/post/childish/) antics" refers [to](/post/to/) playful [or](/post/or/) [silly](/post/silly/) behaviors [typical](/post/typical/) [of](/post/of/) children.
+- "[Childish](/post/childish/) dreams" [can](/post/can/) [mean](/post/mean/) unrealistic [or](/post/or/) naive aspirations.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) refused [to](/en/post/to/) [accept](/en/post/accept/) [her](/en/post/her/) responsibilities, acting [very](/en/post/very/) childishly."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [little](/en/post/little/) boy's [childish](/en/post/childish/) [laughter](/en/post/laughter/) filled [the](/en/post/the/) [room](/en/post/room/)."
-- **[Adverb](/en/post/adverb/)**: "[After](/en/post/after/) [being](/en/post/being/) scolded, [he](/en/post/he/) responded childishly [by](/en/post/by/) pouting."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) refused [to](/post/to/) [accept](/post/accept/) [her](/post/her/) responsibilities, acting [very](/post/very/) childishly."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [little](/post/little/) boy's [childish](/post/childish/) [laughter](/post/laughter/) filled [the](/post/the/) [room](/post/room/)."
+- **[Adverb](/post/adverb/)**: "[After](/post/after/) [being](/post/being/) scolded, [he](/post/he/) responded childishly [by](/post/by/) pouting."
 
 ## Synonyms
 - Immature
@@ -35,9 +35,9 @@ keywords = ['ai words', 'childish']
 - Unworldly
 
 ## Antonyms
-- [Mature](/en/post/mature/)
+- [Mature](/post/mature/)
 - Experienced
 - Sane
-- [Responsible](/en/post/responsible/)
-- [Calm](/en/post/calm/)
-- [Reasonable](/en/post/reasonable/)
+- [Responsible](/post/responsible/)
+- [Calm](/post/calm/)
+- [Reasonable](/post/reasonable/)

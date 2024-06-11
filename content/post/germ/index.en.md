@@ -7,30 +7,30 @@ description = '[dʒəːm] n.微生物，细菌，幼芽'
 keywords = ['ai words', 'germ']
 +++
 
-## [Word](/en/post/word/): [Germ](/en/post/germ/)
+## [Word](/post/word/): [Germ](/post/germ/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dʒɜːrm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [tiny](/en/post/tiny/) [living](/en/post/living/) [thing](/en/post/thing/), [especially](/en/post/especially/) [a](/en/post/a/) bacterium, virus, [or](/en/post/or/) fungus, [that](/en/post/that/) causes [disease](/en/post/disease/) [or](/en/post/or/) [can](/en/post/can/) [cause](/en/post/cause/) fermentation [in](/en/post/in/) [food](/en/post/food/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [flu](/en/post/flu/) [germ](/en/post/germ/) spreads [quickly](/en/post/quickly/) [through](/en/post/through/) [the](/en/post/the/) [air](/en/post/air/)."
-  - [Also](/en/post/also/), [a](/en/post/a/) [basic](/en/post/basic/) [or](/en/post/or/) [essential](/en/post/essential/) [part](/en/post/part/) [from](/en/post/from/) [which](/en/post/which/) [something](/en/post/something/) [else](/en/post/else/) develops [or](/en/post/or/) grows; [a](/en/post/a/) [seed](/en/post/seed/) [or](/en/post/or/) [beginning](/en/post/beginning/). [Example](/en/post/example/): "Ideas [that](/en/post/that/) [have](/en/post/have/) grown [into](/en/post/into/) movements [from](/en/post/from/) [small](/en/post/small/) germs [of](/en/post/of/) [thought](/en/post/thought/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [tiny](/post/tiny/) [living](/post/living/) [thing](/post/thing/), [especially](/post/especially/) [a](/post/a/) bacterium, virus, [or](/post/or/) fungus, [that](/post/that/) causes [disease](/post/disease/) [or](/post/or/) [can](/post/can/) [cause](/post/cause/) fermentation [in](/post/in/) [food](/post/food/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [flu](/post/flu/) [germ](/post/germ/) spreads [quickly](/post/quickly/) [through](/post/through/) [the](/post/the/) [air](/post/air/)."
+  - [Also](/post/also/), [a](/post/a/) [basic](/post/basic/) [or](/post/or/) [essential](/post/essential/) [part](/post/part/) [from](/post/from/) [which](/post/which/) [something](/post/something/) [else](/post/else/) develops [or](/post/or/) grows; [a](/post/a/) [seed](/post/seed/) [or](/post/or/) [beginning](/post/beginning/). [Example](/post/example/): "Ideas [that](/post/that/) [have](/post/have/) grown [into](/post/into/) movements [from](/post/from/) [small](/post/small/) germs [of](/post/of/) [thought](/post/thought/)."
 
-### [Noun](/en/post/noun/) Examples
-- "Doctors [warn](/en/post/warn/) [against](/en/post/against/) touching [your](/en/post/your/) [face](/en/post/face/) [to](/en/post/to/) [avoid](/en/post/avoid/) spreading germs."
-- "[His](/en/post/his/) [interest](/en/post/interest/) [in](/en/post/in/) [science](/en/post/science/) started [from](/en/post/from/) [a](/en/post/a/) [germ](/en/post/germ/) [of](/en/post/of/) [curiosity](/en/post/curiosity/) [when](/en/post/when/) [he](/en/post/he/) was [young](/en/post/young/)."
+### [Noun](/post/noun/) Examples
+- "Doctors [warn](/post/warn/) [against](/post/against/) touching [your](/post/your/) [face](/post/face/) [to](/post/to/) [avoid](/post/avoid/) spreading germs."
+- "[His](/post/his/) [interest](/post/interest/) [in](/post/in/) [science](/post/science/) started [from](/post/from/) [a](/post/a/) [germ](/post/germ/) [of](/post/of/) [curiosity](/post/curiosity/) [when](/post/when/) [he](/post/he/) was [young](/post/young/)."
 
 ## Phrases
-- "[Kill](/en/post/kill/) germs" refers [to](/en/post/to/) eliminating [or](/en/post/or/) reducing [the](/en/post/the/) [presence](/en/post/presence/) [of](/en/post/of/) microorganisms [that](/en/post/that/) [may](/en/post/may/) [cause](/en/post/cause/) [illness](/en/post/illness/).
-- "Germs [of](/en/post/of/) [doubt](/en/post/doubt/)" suggests [the](/en/post/the/) [beginning](/en/post/beginning/) [or](/en/post/or/) seeds [of](/en/post/of/) uncertainty [or](/en/post/or/) disbelief.
+- "[Kill](/post/kill/) germs" refers [to](/post/to/) eliminating [or](/post/or/) reducing [the](/post/the/) [presence](/post/presence/) [of](/post/of/) microorganisms [that](/post/that/) [may](/post/may/) [cause](/post/cause/) [illness](/post/illness/).
+- "Germs [of](/post/of/) [doubt](/post/doubt/)" suggests [the](/post/the/) [beginning](/post/beginning/) [or](/post/or/) seeds [of](/post/of/) uncertainty [or](/post/or/) disbelief.
 
-### [Phrase](/en/post/phrase/) Examples
-- "[Hand](/en/post/hand/) sanitizer is [effective](/en/post/effective/) [in](/en/post/in/) killing germs [on](/en/post/on/) [your](/en/post/your/) hands."
-- "[The](/en/post/the/) germs [of](/en/post/of/) [doubt](/en/post/doubt/) [about](/en/post/about/) [his](/en/post/his/) [plan](/en/post/plan/) began [to](/en/post/to/) sprout [among](/en/post/among/) [the](/en/post/the/) [team](/en/post/team/) members."
+### [Phrase](/post/phrase/) Examples
+- "[Hand](/post/hand/) sanitizer is [effective](/post/effective/) [in](/post/in/) killing germs [on](/post/on/) [your](/post/your/) hands."
+- "[The](/post/the/) germs [of](/post/of/) [doubt](/post/doubt/) [about](/post/about/) [his](/post/his/) [plan](/post/plan/) began [to](/post/to/) sprout [among](/post/among/) [the](/post/the/) [team](/post/team/) members."
 
 ## Synonyms
 - Microbe
 - Bacterium
 - Virus
-- Fungus ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) disease-causing organisms)
-- [Seed](/en/post/seed/) ([in](/en/post/in/) [the](/en/post/the/) metaphorical [sense](/en/post/sense/) [of](/en/post/of/) an idea's [origin](/en/post/origin/))
+- Fungus ([in](/post/in/) [the](/post/the/) context [of](/post/of/) disease-causing organisms)
+- [Seed](/post/seed/) ([in](/post/in/) [the](/post/the/) metaphorical [sense](/post/sense/) [of](/post/of/) an idea's [origin](/post/origin/))

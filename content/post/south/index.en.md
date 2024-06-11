@@ -7,36 +7,36 @@ description = '[sauθ] n.南，南方 a.南方的'
 keywords = ['ai words', 'south']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /saʊθ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Designating [the](/en/post/the/) [direction](/en/post/direction/) [or](/en/post/or/) [position](/en/post/position/) [on](/en/post/on/) [the](/en/post/the/) Earth's [surface](/en/post/surface/) lying [south](/en/post/south/) [of](/en/post/of/) [the](/en/post/the/) equator [or](/en/post/or/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [reference](/en/post/reference/) [point](/en/post/point/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) traveled [south](/en/post/south/) [to](/en/post/to/) [escape](/en/post/escape/) [the](/en/post/the/) [cold](/en/post/cold/) [weather](/en/post/weather/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [southern](/en/post/southern/) [direction](/en/post/direction/) [or](/en/post/or/) [region](/en/post/region/); [the](/en/post/the/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/) [or](/en/post/or/) [continent](/en/post/continent/) [that](/en/post/that/) lies [south](/en/post/south/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [line](/en/post/line/) [or](/en/post/or/) latitude. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) Amazon rainforest is located [in](/en/post/in/) [the](/en/post/the/) [southern](/en/post/southern/) hemisphere."
-- **[Preposition](/en/post/preposition/)**: [In](/en/post/in/) [or](/en/post/or/) toward [the](/en/post/the/) [south](/en/post/south/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) is situated [south](/en/post/south/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) center."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [southern](/en/post/southern/) [direction](/en/post/direction/) [or](/en/post/or/) [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) moved southward, [following](/en/post/following/) [the](/en/post/the/) [sun](/en/post/sun/)."
+- **[Adjective](/post/adjective/)**: Designating [the](/post/the/) [direction](/post/direction/) [or](/post/or/) [position](/post/position/) [on](/post/on/) [the](/post/the/) Earth's [surface](/post/surface/) lying [south](/post/south/) [of](/post/of/) [the](/post/the/) equator [or](/post/or/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [reference](/post/reference/) [point](/post/point/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) traveled [south](/post/south/) [to](/post/to/) [escape](/post/escape/) [the](/post/the/) [cold](/post/cold/) [weather](/post/weather/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [southern](/post/southern/) [direction](/post/direction/) [or](/post/or/) [region](/post/region/); [the](/post/the/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [country](/post/country/) [or](/post/or/) [continent](/post/continent/) [that](/post/that/) lies [south](/post/south/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [line](/post/line/) [or](/post/or/) latitude. [For](/post/for/) [example](/post/example/): "[The](/post/the/) Amazon rainforest is located [in](/post/in/) [the](/post/the/) [southern](/post/southern/) hemisphere."
+- **[Preposition](/post/preposition/)**: [In](/post/in/) [or](/post/or/) toward [the](/post/the/) [south](/post/south/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [house](/post/house/) is situated [south](/post/south/) [of](/post/of/) [the](/post/the/) [city](/post/city/) center."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [southern](/post/southern/) [direction](/post/direction/) [or](/post/or/) [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) moved southward, [following](/post/following/) [the](/post/the/) [sun](/post/sun/)."
 
 ## Phrases
-- "[Head](/en/post/head/) [south](/en/post/south/)" [means](/en/post/means/) [to](/en/post/to/) [travel](/en/post/travel/) [in](/en/post/in/) [the](/en/post/the/) [southern](/en/post/southern/) [direction](/en/post/direction/).
-- "[South](/en/post/south/) [of](/en/post/of/) [the](/en/post/the/) [border](/en/post/border/)" refers [to](/en/post/to/) an [area](/en/post/area/) [beyond](/en/post/beyond/) [a](/en/post/a/) country's [southern](/en/post/southern/) [boundary](/en/post/boundary/).
-- "[A](/en/post/a/) [journey](/en/post/journey/) [south](/en/post/south/)" denotes [a](/en/post/a/) [trip](/en/post/trip/) towards [the](/en/post/the/) [southern](/en/post/southern/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [location](/en/post/location/).
+- "[Head](/post/head/) [south](/post/south/)" [means](/post/means/) [to](/post/to/) [travel](/post/travel/) [in](/post/in/) [the](/post/the/) [southern](/post/southern/) [direction](/post/direction/).
+- "[South](/post/south/) [of](/post/of/) [the](/post/the/) [border](/post/border/)" refers [to](/post/to/) an [area](/post/area/) [beyond](/post/beyond/) [a](/post/a/) country's [southern](/post/southern/) [boundary](/post/boundary/).
+- "[A](/post/a/) [journey](/post/journey/) [south](/post/south/)" denotes [a](/post/a/) [trip](/post/trip/) towards [the](/post/the/) [southern](/post/southern/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [location](/post/location/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) faces [south](/en/post/south/), allowing [plenty](/en/post/plenty/) [of](/en/post/of/) [sunlight](/en/post/sunlight/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) ruins [lie](/en/post/lie/) [deep](/en/post/deep/) [in](/en/post/in/) [the](/en/post/the/) [southern](/en/post/southern/) [desert](/en/post/desert/)."
-- **[Preposition](/en/post/preposition/)**: "We'll [meet](/en/post/meet/) [at](/en/post/at/) [the](/en/post/the/) café [south](/en/post/south/) [of](/en/post/of/) [the](/en/post/the/) [museum](/en/post/museum/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [move](/en/post/move/) [south](/en/post/south/) [to](/en/post/to/) [find](/en/post/find/) [better](/en/post/better/) [job](/en/post/job/) opportunities."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) faces [south](/post/south/), allowing [plenty](/post/plenty/) [of](/post/of/) [sunlight](/post/sunlight/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ancient](/post/ancient/) ruins [lie](/post/lie/) [deep](/post/deep/) [in](/post/in/) [the](/post/the/) [southern](/post/southern/) [desert](/post/desert/)."
+- **[Preposition](/post/preposition/)**: "We'll [meet](/post/meet/) [at](/post/at/) [the](/post/the/) café [south](/post/south/) [of](/post/of/) [the](/post/the/) [museum](/post/museum/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) decided [to](/post/to/) [move](/post/move/) [south](/post/south/) [to](/post/to/) [find](/post/find/) [better](/post/better/) [job](/post/job/) opportunities."
 
 ## Synonyms
-- [Southern](/en/post/southern/)
+- [Southern](/post/southern/)
 - Southward
 - Southernly
 - Southwards
 - Southbound
 
 ## Antonyms
-- [North](/en/post/north/)
-- [Northern](/en/post/northern/)
+- [North](/post/north/)
+- [Northern](/post/northern/)
 - Northward
 - Northerly
 - Northwards

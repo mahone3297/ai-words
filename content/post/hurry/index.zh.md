@@ -11,20 +11,20 @@ keywords = ['ai words', 'hurry']
 /həˈrɪ/
 
 ## 释义
-- **动词**: 匆忙，急促地做（某事）。例如: "I [need](/post/need/) [to](/post/to/) [hurry](/post/hurry/) [if](/post/if/) I [want](/post/want/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [bus](/post/bus/)."
-- **名词**: 匆忙，急忙。例如: "There's [no](/post/no/) [need](/post/need/) [to](/post/to/) [hurry](/post/hurry/), [we](/post/we/) [have](/post/have/) [plenty](/post/plenty/) [of](/post/of/) [time](/post/time/)."
+- **动词**: 匆忙，急促地做（某事）。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [hurry](/zh/post/hurry/) [if](/zh/post/if/) I [want](/zh/post/want/) [to](/zh/post/to/) [catch](/zh/post/catch/) [the](/zh/post/the/) [bus](/zh/post/bus/)."
+- **名词**: 匆忙，急忙。例如: "There's [no](/zh/post/no/) [need](/zh/post/need/) [to](/zh/post/to/) [hurry](/zh/post/hurry/), [we](/zh/post/we/) [have](/zh/post/have/) [plenty](/zh/post/plenty/) [of](/zh/post/of/) [time](/zh/post/time/)."
 
 ## 短语
-- "[Hurry](/post/hurry/) [up](/post/up/)" 意味着迅速行动，别耽搁。例如: "[Hurry](/post/hurry/) [up](/post/up/), we're going [to](/post/to/) [be](/post/be/) [late](/post/late/)!"
-- "[In](/post/in/) [a](/post/a/) [hurry](/post/hurry/)" 表示时间紧迫。例如: "[She](/post/she/) [left](/post/left/) [in](/post/in/) [a](/post/a/) [hurry](/post/hurry/), [without](/post/without/) [even](/post/even/) saying [goodbye](/post/goodbye/)."
+- "[Hurry](/zh/post/hurry/) [up](/zh/post/up/)" 意味着迅速行动，别耽搁。例如: "[Hurry](/zh/post/hurry/) [up](/zh/post/up/), we're going [to](/zh/post/to/) [be](/zh/post/be/) [late](/zh/post/late/)!"
+- "[In](/zh/post/in/) [a](/zh/post/a/) [hurry](/zh/post/hurry/)" 表示时间紧迫。例如: "[She](/zh/post/she/) [left](/zh/post/left/) [in](/zh/post/in/) [a](/zh/post/a/) [hurry](/zh/post/hurry/), [without](/zh/post/without/) [even](/zh/post/even/) saying [goodbye](/zh/post/goodbye/)."
 
 ## 例句
-- 动词: "[Please](/post/please/) [hurry](/post/hurry/), [we](/post/we/) don't [want](/post/want/) [to](/post/to/) [miss](/post/miss/) [the](/post/the/) [concert](/post/concert/)."
-- 名词: "Don't [worry](/post/worry/), [we](/post/we/) [can](/post/can/) [do](/post/do/) [it](/post/it/) [without](/post/without/) getting [into](/post/into/) [a](/post/a/) [hurry](/post/hurry/)."
+- 动词: "[Please](/zh/post/please/) [hurry](/zh/post/hurry/), [we](/zh/post/we/) don't [want](/zh/post/want/) [to](/zh/post/to/) [miss](/zh/post/miss/) [the](/zh/post/the/) [concert](/zh/post/concert/)."
+- 名词: "Don't [worry](/zh/post/worry/), [we](/zh/post/we/) [can](/zh/post/can/) [do](/zh/post/do/) [it](/zh/post/it/) [without](/zh/post/without/) getting [into](/zh/post/into/) [a](/zh/post/a/) [hurry](/zh/post/hurry/)."
 
 ## 同义词
-- [Rush](/post/rush/)
-- [Speed](/post/speed/)
-- [Hasten](/post/hasten/)
+- [Rush](/zh/post/rush/)
+- [Speed](/zh/post/speed/)
+- [Hasten](/zh/post/hasten/)
 - Scram
-- [Dash](/post/dash/)
+- [Dash](/zh/post/dash/)

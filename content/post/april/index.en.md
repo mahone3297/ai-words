@@ -7,30 +7,30 @@ description = '[ˈeiprəl] n.四月'
 keywords = ['ai words', 'april']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeɪprəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [month](/en/post/month/) [in](/en/post/in/) [the](/en/post/the/) Gregorian [calendar](/en/post/calendar/), occurring [between](/en/post/between/) [March](/en/post/march/) [and](/en/post/and/) [May](/en/post/may/). [It](/en/post/it/) is known [for](/en/post/for/) [its](/en/post/its/) blooming flowers [and](/en/post/and/) warmer [weather](/en/post/weather/) [in](/en/post/in/) [the](/en/post/the/) [Northern](/en/post/northern/) Hemisphere. (abbreviation: Apr)
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [April](/en/post/april/), [such](/en/post/such/) [as](/en/post/as/) [its](/en/post/its/) [mild](/en/post/mild/) temperatures [or](/en/post/or/) [springtime](/en/post/springtime/) events. ([adjective](/en/post/adjective/) [form](/en/post/form/): April-like)
+- **[Noun](/post/noun/)**: [A](/post/a/) [month](/post/month/) [in](/post/in/) [the](/post/the/) Gregorian [calendar](/post/calendar/), occurring [between](/post/between/) [March](/post/march/) [and](/post/and/) [May](/post/may/). [It](/post/it/) is known [for](/post/for/) [its](/post/its/) blooming flowers [and](/post/and/) warmer [weather](/post/weather/) [in](/post/in/) [the](/post/the/) [Northern](/post/northern/) Hemisphere. (abbreviation: Apr)
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [April](/post/april/), [such](/post/such/) [as](/post/as/) [its](/post/its/) [mild](/post/mild/) temperatures [or](/post/or/) [springtime](/post/springtime/) events. ([adjective](/post/adjective/) [form](/post/form/): April-like)
 
 ## Phrases
-- "It's [April](/en/post/april/) Fool's [Day](/en/post/day/)" refers [to](/en/post/to/) [the](/en/post/the/) [day](/en/post/day/) [on](/en/post/on/) [which](/en/post/which/) [people](/en/post/people/) [often](/en/post/often/) [play](/en/post/play/) pranks [on](/en/post/on/) [one](/en/post/one/) [another](/en/post/another/).
-- "[April](/en/post/april/) showers [bring](/en/post/bring/) [May](/en/post/may/) flowers" is [a](/en/post/a/) [popular](/en/post/popular/) saying suggesting [that](/en/post/that/) [rainy](/en/post/rainy/) [April](/en/post/april/) [weather](/en/post/weather/) prepares [for](/en/post/for/) [a](/en/post/a/) colorful [springtime](/en/post/springtime/).
-- "[Start](/en/post/start/) planning [for](/en/post/for/) Easter [in](/en/post/in/) [April](/en/post/april/)" [since](/en/post/since/) Easter [usually](/en/post/usually/) falls [around](/en/post/around/) [this](/en/post/this/) [time](/en/post/time/).
+- "It's [April](/post/april/) Fool's [Day](/post/day/)" refers [to](/post/to/) [the](/post/the/) [day](/post/day/) [on](/post/on/) [which](/post/which/) [people](/post/people/) [often](/post/often/) [play](/post/play/) pranks [on](/post/on/) [one](/post/one/) [another](/post/another/).
+- "[April](/post/april/) showers [bring](/post/bring/) [May](/post/may/) flowers" is [a](/post/a/) [popular](/post/popular/) saying suggesting [that](/post/that/) [rainy](/post/rainy/) [April](/post/april/) [weather](/post/weather/) prepares [for](/post/for/) [a](/post/a/) colorful [springtime](/post/springtime/).
+- "[Start](/post/start/) planning [for](/post/for/) Easter [in](/post/in/) [April](/post/april/)" [since](/post/since/) Easter [usually](/post/usually/) falls [around](/post/around/) [this](/post/this/) [time](/post/time/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[April](/en/post/april/) is [when](/en/post/when/) [the](/en/post/the/) [cherry](/en/post/cherry/) blossoms [start](/en/post/start/) [to](/en/post/to/) [bloom](/en/post/bloom/) [in](/en/post/in/) Japan."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [April](/en/post/april/) [sunshine](/en/post/sunshine/) brought [a](/en/post/a/) [welcome](/en/post/welcome/) [break](/en/post/break/) [from](/en/post/from/) [the](/en/post/the/) [winter](/en/post/winter/) [cold](/en/post/cold/)."
-- "[We](/en/post/we/) held [our](/en/post/our/) [annual](/en/post/annual/) [charity](/en/post/charity/) [walk](/en/post/walk/) [in](/en/post/in/) [April](/en/post/april/) [to](/en/post/to/) [raise](/en/post/raise/) funds [for](/en/post/for/) [the](/en/post/the/) [local](/en/post/local/) [hospital](/en/post/hospital/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[April](/post/april/) is [when](/post/when/) [the](/post/the/) [cherry](/post/cherry/) blossoms [start](/post/start/) [to](/post/to/) [bloom](/post/bloom/) [in](/post/in/) Japan."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [April](/post/april/) [sunshine](/post/sunshine/) brought [a](/post/a/) [welcome](/post/welcome/) [break](/post/break/) [from](/post/from/) [the](/post/the/) [winter](/post/winter/) [cold](/post/cold/)."
+- "[We](/post/we/) held [our](/post/our/) [annual](/post/annual/) [charity](/post/charity/) [walk](/post/walk/) [in](/post/in/) [April](/post/april/) [to](/post/to/) [raise](/post/raise/) funds [for](/post/for/) [the](/post/the/) [local](/post/local/) [hospital](/post/hospital/)."
 
 ## Synonyms
-- [Spring](/en/post/spring/) (informal, [season](/en/post/season/))
-- [Early](/en/post/early/) [summer](/en/post/summer/) (informal)
-- Easter [month](/en/post/month/)
-- [April](/en/post/april/) showers
-- [First](/en/post/first/) [flush](/en/post/flush/) [of](/en/post/of/) [spring](/en/post/spring/)
+- [Spring](/post/spring/) (informal, [season](/post/season/))
+- [Early](/post/early/) [summer](/post/summer/) (informal)
+- Easter [month](/post/month/)
+- [April](/post/april/) showers
+- [First](/post/first/) [flush](/post/flush/) [of](/post/of/) [spring](/post/spring/)
 
 ## Antonyms
-- [Winter](/en/post/winter/) ([opposite](/en/post/opposite/) [season](/en/post/season/))
-- [Autumn](/en/post/autumn/) ([fall](/en/post/fall/))
+- [Winter](/post/winter/) ([opposite](/post/opposite/) [season](/post/season/))
+- [Autumn](/post/autumn/) ([fall](/post/fall/))

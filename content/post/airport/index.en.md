@@ -7,53 +7,53 @@ description = '[ˈeəpɔːt] n.机场，航空站'
 keywords = ['ai words', 'airport']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeərˌpɔrt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-An [airport](/en/post/airport/) is [a](/en/post/a/) [facility](/en/post/facility/) [where](/en/post/where/) [aircraft](/en/post/aircraft/) [take](/en/post/take/) [off](/en/post/off/) [and](/en/post/and/) [land](/en/post/land/), [often](/en/post/often/) serving [as](/en/post/as/) [a](/en/post/a/) hub [for](/en/post/for/) [commercial](/en/post/commercial/) flights [and](/en/post/and/) providing services [for](/en/post/for/) passengers, [cargo](/en/post/cargo/), [and](/en/post/and/) [aircraft](/en/post/aircraft/) [maintenance](/en/post/maintenance/). [It](/en/post/it/) typically includes runways, terminals, [air](/en/post/air/) [traffic](/en/post/traffic/) [control](/en/post/control/), [and](/en/post/and/) [ground](/en/post/ground/) [transportation](/en/post/transportation/) systems.
+### [Noun](/post/noun/)
+An [airport](/post/airport/) is [a](/post/a/) [facility](/post/facility/) [where](/post/where/) [aircraft](/post/aircraft/) [take](/post/take/) [off](/post/off/) [and](/post/and/) [land](/post/land/), [often](/post/often/) serving [as](/post/as/) [a](/post/a/) hub [for](/post/for/) [commercial](/post/commercial/) flights [and](/post/and/) providing services [for](/post/for/) passengers, [cargo](/post/cargo/), [and](/post/and/) [aircraft](/post/aircraft/) [maintenance](/post/maintenance/). [It](/post/it/) typically includes runways, terminals, [air](/post/air/) [traffic](/post/traffic/) [control](/post/control/), [and](/post/and/) [ground](/post/ground/) [transportation](/post/transportation/) systems.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) '[arrive](/en/post/arrive/) [at](/en/post/at/)/[depart](/en/post/depart/) [from](/en/post/from/) an [airport](/en/post/airport/)' [means](/en/post/means/) [to](/en/post/to/) [arrive](/en/post/arrive/) [at](/en/post/at/) [or](/en/post/or/) [leave](/en/post/leave/) [a](/en/post/a/) [location](/en/post/location/) using an [airport](/en/post/airport/) [as](/en/post/as/) [a](/en/post/a/) [point](/en/post/point/) [of](/en/post/of/) transit.
+### [Verb](/post/verb/)
+[To](/post/to/) '[arrive](/post/arrive/) [at](/post/at/)/[depart](/post/depart/) [from](/post/from/) an [airport](/post/airport/)' [means](/post/means/) [to](/post/to/) [arrive](/post/arrive/) [at](/post/at/) [or](/post/or/) [leave](/post/leave/) [a](/post/a/) [location](/post/location/) using an [airport](/post/airport/) [as](/post/as/) [a](/post/a/) [point](/post/point/) [of](/post/of/) transit.
 
-### [Adjective](/en/post/adjective/)
-An 'airport-related' [adjective](/en/post/adjective/) [might](/en/post/might/) [describe](/en/post/describe/) [something](/en/post/something/) associated [with](/en/post/with/) airports, [such](/en/post/such/) [as](/en/post/as/) [airport](/en/post/airport/) [security](/en/post/security/) [or](/en/post/or/) [airport](/en/post/airport/) lounges.
+### [Adjective](/post/adjective/)
+An 'airport-related' [adjective](/post/adjective/) [might](/post/might/) [describe](/post/describe/) [something](/post/something/) associated [with](/post/with/) airports, [such](/post/such/) [as](/post/as/) [airport](/post/airport/) [security](/post/security/) [or](/post/or/) [airport](/post/airport/) lounges.
 
-### [Noun](/en/post/noun/) ([plural](/en/post/plural/))
-Airports [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) referred [to](/en/post/to/) collectively [as](/en/post/as/) 'airports' [without](/en/post/without/) specifying [a](/en/post/a/) [specific](/en/post/specific/) [one](/en/post/one/).
+### [Noun](/post/noun/) ([plural](/post/plural/))
+Airports [can](/post/can/) [also](/post/also/) [be](/post/be/) referred [to](/post/to/) collectively [as](/post/as/) 'airports' [without](/post/without/) specifying [a](/post/a/) [specific](/post/specific/) [one](/post/one/).
 
 ## Phrases
-- "[Touch](/en/post/touch/) [down](/en/post/down/) [at](/en/post/at/) [the](/en/post/the/) [airport](/en/post/airport/)"
-- "[Meet](/en/post/meet/) [me](/en/post/me/) [at](/en/post/at/) [the](/en/post/the/) arrivals [gate](/en/post/gate/)"
-- "[Clear](/en/post/clear/) customs [at](/en/post/at/) [the](/en/post/the/) [airport](/en/post/airport/)"
-- "[Park](/en/post/park/) [your](/en/post/your/) [car](/en/post/car/) [at](/en/post/at/) [the](/en/post/the/) long-term parking [lot](/en/post/lot/)"
-- "[Terminal](/en/post/terminal/) 3 [departure](/en/post/departure/) lounge"
+- "[Touch](/post/touch/) [down](/post/down/) [at](/post/at/) [the](/post/the/) [airport](/post/airport/)"
+- "[Meet](/post/meet/) [me](/post/me/) [at](/post/at/) [the](/post/the/) arrivals [gate](/post/gate/)"
+- "[Clear](/post/clear/) customs [at](/post/at/) [the](/post/the/) [airport](/post/airport/)"
+- "[Park](/post/park/) [your](/post/your/) [car](/post/car/) [at](/post/at/) [the](/post/the/) long-term parking [lot](/post/lot/)"
+- "[Terminal](/post/terminal/) 3 [departure](/post/departure/) lounge"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [plane](/en/post/plane/) landed [smoothly](/en/post/smoothly/) [at](/en/post/at/) [the](/en/post/the/) [international](/en/post/international/) [airport](/en/post/airport/)."
-- **[Verb](/en/post/verb/)**: "We'll [be](/en/post/be/) arriving [at](/en/post/at/) London Heathrow [airport](/en/post/airport/) [in](/en/post/in/) [three](/en/post/three/) hours."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) was impressed [by](/en/post/by/) [the](/en/post/the/) airport's [modern](/en/post/modern/) facilities."
-- **[Noun](/en/post/noun/) ([plural](/en/post/plural/))**: "Airports [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/) [have](/en/post/have/) seen [a](/en/post/a/) surge [in](/en/post/in/) travelers [since](/en/post/since/) [the](/en/post/the/) pandemic eased."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [plane](/post/plane/) landed [smoothly](/post/smoothly/) [at](/post/at/) [the](/post/the/) [international](/post/international/) [airport](/post/airport/)."
+- **[Verb](/post/verb/)**: "We'll [be](/post/be/) arriving [at](/post/at/) London Heathrow [airport](/post/airport/) [in](/post/in/) [three](/post/three/) hours."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) was impressed [by](/post/by/) [the](/post/the/) airport's [modern](/post/modern/) facilities."
+- **[Noun](/post/noun/) ([plural](/post/plural/))**: "Airports [around](/post/around/) [the](/post/the/) [world](/post/world/) [have](/post/have/) seen [a](/post/a/) surge [in](/post/in/) travelers [since](/post/since/) [the](/post/the/) pandemic eased."
 
 ## Synonyms
 - Airfield
 - Aerodrome
-- [Flight](/en/post/flight/) hub
+- [Flight](/post/flight/) hub
 - Gateway
-- [Air](/en/post/air/) [terminal](/en/post/terminal/)
-- Airway [stop](/en/post/stop/)
+- [Air](/post/air/) [terminal](/post/terminal/)
+- Airway [stop](/post/stop/)
 - Airstrip
 
 ## Related Words
-- [Departure](/en/post/departure/)
-- [Arrival](/en/post/arrival/)
-- [Baggage](/en/post/baggage/) [claim](/en/post/claim/)
-- Boarding [gate](/en/post/gate/)
+- [Departure](/post/departure/)
+- [Arrival](/post/arrival/)
+- [Baggage](/post/baggage/) [claim](/post/claim/)
+- Boarding [gate](/post/gate/)
 - Jetway
 - Runway
-- [Terminal](/en/post/terminal/)
-- [Airline](/en/post/airline/)
-- [Ground](/en/post/ground/) [crew](/en/post/crew/)
-- [Passport](/en/post/passport/) [control](/en/post/control/)
-- [Security](/en/post/security/) checkpoint
+- [Terminal](/post/terminal/)
+- [Airline](/post/airline/)
+- [Ground](/post/ground/) [crew](/post/crew/)
+- [Passport](/post/passport/) [control](/post/control/)
+- [Security](/post/security/) checkpoint

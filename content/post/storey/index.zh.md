@@ -12,21 +12,21 @@ keywords = ['ai words', 'storey']
 
 ## 释义
 - **名词 n**:
-1. 楼层，层：[A](/post/a/) [level](/post/level/) [of](/post/of/) [a](/post/a/) [building](/post/building/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is [completely](/post/completely/) enclosed [and](/post/and/) has [a](/post/a/) [floor](/post/floor/) [and](/post/and/) [a](/post/a/) [ceiling](/post/ceiling/).
-2. 故事，叙述：[A](/post/a/) [series](/post/series/) [of](/post/of/) events [or](/post/or/) [a](/post/a/) [plot](/post/plot/), [especially](/post/especially/) [as](/post/as/) presented [in](/post/in/) [a](/post/a/) [book](/post/book/), [movie](/post/movie/), [or](/post/or/) [play](/post/play/).
+1. 楼层，层：[A](/zh/post/a/) [level](/zh/post/level/) [of](/zh/post/of/) [a](/zh/post/a/) [building](/zh/post/building/), [especially](/zh/post/especially/) [one](/zh/post/one/) [that](/zh/post/that/) is [completely](/zh/post/completely/) enclosed [and](/zh/post/and/) has [a](/zh/post/a/) [floor](/zh/post/floor/) [and](/zh/post/and/) [a](/zh/post/a/) [ceiling](/zh/post/ceiling/).
+2. 故事，叙述：[A](/zh/post/a/) [series](/zh/post/series/) [of](/zh/post/of/) events [or](/zh/post/or/) [a](/zh/post/a/) [plot](/zh/post/plot/), [especially](/zh/post/especially/) [as](/zh/post/as/) presented [in](/zh/post/in/) [a](/zh/post/a/) [book](/zh/post/book/), [movie](/zh/post/movie/), [or](/zh/post/or/) [play](/zh/post/play/).
 
 ## 短语
-- "[upper](/post/upper/) [storey](/post/storey/)" 指较高的楼层。
-- "[the](/post/the/) [storey](/post/storey/) [of](/post/of/) [a](/post/a/) [building](/post/building/)" 指建筑物的层数。
-- "[a](/post/a/) compelling [storey](/post/storey/)" 指引人入胜的故事。
+- "[upper](/zh/post/upper/) [storey](/zh/post/storey/)" 指较高的楼层。
+- "[the](/zh/post/the/) [storey](/zh/post/storey/) [of](/zh/post/of/) [a](/zh/post/a/) [building](/zh/post/building/)" 指建筑物的层数。
+- "[a](/zh/post/a/) compelling [storey](/zh/post/storey/)" 指引人入胜的故事。
 
 ## 例句
-- 名词: "[The](/post/the/) penthouse is located [on](/post/on/) [the](/post/the/) [top](/post/top/) [storey](/post/storey/) [of](/post/of/) [the](/post/the/) skyscraper."
-- 名词: "[She](/post/she/) told [us](/post/us/) an intriguing [storey](/post/storey/) [about](/post/about/) [her](/post/her/) travels [in](/post/in/) [Africa](/post/africa/)."
+- 名词: "[The](/zh/post/the/) penthouse is located [on](/zh/post/on/) [the](/zh/post/the/) [top](/zh/post/top/) [storey](/zh/post/storey/) [of](/zh/post/of/) [the](/zh/post/the/) skyscraper."
+- 名词: "[She](/zh/post/she/) told [us](/zh/post/us/) an intriguing [storey](/zh/post/storey/) [about](/zh/post/about/) [her](/zh/post/her/) travels [in](/zh/post/in/) [Africa](/zh/post/africa/)."
 
 ## 同义词
-- [Level](/post/level/)
-- [Floor](/post/floor/)
+- [Level](/zh/post/level/)
+- [Floor](/zh/post/floor/)
 - Tier
-- [Story](/post/story/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) narrative)
-- [Chapter](/post/chapter/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [book](/post/book/) [or](/post/or/) [tale](/post/tale/))
+- [Story](/zh/post/story/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [a](/zh/post/a/) narrative)
+- [Chapter](/zh/post/chapter/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [a](/zh/post/a/) [book](/zh/post/book/) [or](/zh/post/or/) [tale](/zh/post/tale/))

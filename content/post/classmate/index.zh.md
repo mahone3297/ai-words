@@ -11,19 +11,19 @@ keywords = ['ai words', 'classmate']
 /klæsmeɪt/
 
 ## 释义
-- **名词 (n)**: 在学校或其他教育机构中与你同级的人，同学。例如: "Tom [and](/post/and/) Mary were classmates [in](/post/in/) [high](/post/high/) [school](/post/school/)."
-- **名词 (n)**: 与你一同参加某种课程或活动的人。例如: "[We](/post/we/) became [good](/post/good/) friends [after](/post/after/) [being](/post/being/) classmates [in](/post/in/) [the](/post/the/) cooking [class](/post/class/)."
+- **名词 (n)**: 在学校或其他教育机构中与你同级的人，同学。例如: "Tom [and](/zh/post/and/) Mary were classmates [in](/zh/post/in/) [high](/zh/post/high/) [school](/zh/post/school/)."
+- **名词 (n)**: 与你一同参加某种课程或活动的人。例如: "[We](/zh/post/we/) became [good](/zh/post/good/) friends [after](/zh/post/after/) [being](/zh/post/being/) classmates [in](/zh/post/in/) [the](/zh/post/the/) cooking [class](/zh/post/class/)."
 
 ## 短语
-- "[Classmate](/post/classmate/) [relationship](/post/relationship/)" 指的是同学之间的关系。
-- "[Meet](/post/meet/) [up](/post/up/) [with](/post/with/) [old](/post/old/) classmates" 意为与以前的同学相聚。
+- "[Classmate](/zh/post/classmate/) [relationship](/zh/post/relationship/)" 指的是同学之间的关系。
+- "[Meet](/zh/post/meet/) [up](/zh/post/up/) [with](/zh/post/with/) [old](/zh/post/old/) classmates" 意为与以前的同学相聚。
 
 ## 例句
-- 名词: "I [still](/post/still/) [keep](/post/keep/) [in](/post/in/) [touch](/post/touch/) [with](/post/with/) [some](/post/some/) [of](/post/of/) [my](/post/my/) [college](/post/college/) classmates."
-- 名词: "[She](/post/she/) greeted [her](/post/her/) [former](/post/former/) classmates warmly [at](/post/at/) [the](/post/the/) reunion."
+- 名词: "I [still](/zh/post/still/) [keep](/zh/post/keep/) [in](/zh/post/in/) [touch](/zh/post/touch/) [with](/zh/post/with/) [some](/zh/post/some/) [of](/zh/post/of/) [my](/zh/post/my/) [college](/zh/post/college/) classmates."
+- 名词: "[She](/zh/post/she/) greeted [her](/zh/post/her/) [former](/zh/post/former/) classmates warmly [at](/zh/post/at/) [the](/zh/post/the/) reunion."
 
 ## 同义词
-- [Fellow](/post/fellow/) [student](/post/student/)
+- [Fellow](/zh/post/fellow/) [student](/zh/post/student/)
 - Schoolmate
-- [Colleague](/post/colleague/) ([in](/post/in/) an educational context)
-- [Companion](/post/companion/) ([in](/post/in/) studies)
+- [Colleague](/zh/post/colleague/) ([in](/zh/post/in/) an educational context)
+- [Companion](/zh/post/companion/) ([in](/zh/post/in/) studies)

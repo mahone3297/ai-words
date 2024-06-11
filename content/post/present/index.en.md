@@ -7,44 +7,44 @@ description = 'n.礼物，赠送物'
 keywords = ['ai words', 'present']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /presnt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [current](/en/post/current/) [time](/en/post/time/) [or](/en/post/or/) [period](/en/post/period/), [as](/en/post/as/) opposed [to](/en/post/to/) [the](/en/post/the/) [past](/en/post/past/) [or](/en/post/or/) [future](/en/post/future/). "[The](/en/post/the/) [present](/en/post/present/) [moment](/en/post/moment/)."
-2. [Something](/en/post/something/) [that](/en/post/that/) is given [or](/en/post/or/) offered [now](/en/post/now/), [as](/en/post/as/) opposed [to](/en/post/to/) [a](/en/post/a/) [future](/en/post/future/) [or](/en/post/or/) [past](/en/post/past/) [gift](/en/post/gift/). "[A](/en/post/a/) [present](/en/post/present/) [for](/en/post/for/) [your](/en/post/your/) [birthday](/en/post/birthday/)."
-3. [A](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [payment](/en/post/payment/) [or](/en/post/or/) [settlement](/en/post/settlement/) given [in](/en/post/in/) [return](/en/post/return/) [for](/en/post/for/) [goods](/en/post/goods/) [or](/en/post/or/) services. "[He](/en/post/he/) paid [for](/en/post/for/) [the](/en/post/the/) [meal](/en/post/meal/) [in](/en/post/in/) [cash](/en/post/cash/), [with](/en/post/with/) [a](/en/post/a/) [present](/en/post/present/) [check](/en/post/check/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [current](/post/current/) [time](/post/time/) [or](/post/or/) [period](/post/period/), [as](/post/as/) opposed [to](/post/to/) [the](/post/the/) [past](/post/past/) [or](/post/or/) [future](/post/future/). "[The](/post/the/) [present](/post/present/) [moment](/post/moment/)."
+2. [Something](/post/something/) [that](/post/that/) is given [or](/post/or/) offered [now](/post/now/), [as](/post/as/) opposed [to](/post/to/) [a](/post/a/) [future](/post/future/) [or](/post/or/) [past](/post/past/) [gift](/post/gift/). "[A](/post/a/) [present](/post/present/) [for](/post/for/) [your](/post/your/) [birthday](/post/birthday/)."
+3. [A](/post/a/) [form](/post/form/) [of](/post/of/) [payment](/post/payment/) [or](/post/or/) [settlement](/post/settlement/) given [in](/post/in/) [return](/post/return/) [for](/post/for/) [goods](/post/goods/) [or](/post/or/) services. "[He](/post/he/) paid [for](/post/for/) [the](/post/the/) [meal](/post/meal/) [in](/post/in/) [cash](/post/cash/), [with](/post/with/) [a](/post/a/) [present](/post/present/) [check](/post/check/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [give](/en/post/give/) [or](/en/post/or/) [offer](/en/post/offer/) [something](/en/post/something/) [as](/en/post/as/) [a](/en/post/a/) [gift](/en/post/gift/), typically [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [time](/en/post/time/) [or](/en/post/or/) [occasion](/en/post/occasion/). "[She](/en/post/she/) presented [him](/en/post/him/) [with](/en/post/with/) [a](/en/post/a/) bouquet [of](/en/post/of/) flowers."
-2. [To](/en/post/to/) [exhibit](/en/post/exhibit/) [or](/en/post/or/) [show](/en/post/show/) ([something](/en/post/something/)) publicly. "[The](/en/post/the/) [museum](/en/post/museum/) [will](/en/post/will/) [present](/en/post/present/) [a](/en/post/a/) [new](/en/post/new/) [exhibition](/en/post/exhibition/) [next](/en/post/next/) [month](/en/post/month/)."
-3. [To](/en/post/to/) [be](/en/post/be/) currently [available](/en/post/available/) [or](/en/post/or/) occurring. "[The](/en/post/the/) [book](/en/post/book/) is currently [available](/en/post/available/) [for](/en/post/for/) [purchase](/en/post/purchase/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [give](/post/give/) [or](/post/or/) [offer](/post/offer/) [something](/post/something/) [as](/post/as/) [a](/post/a/) [gift](/post/gift/), typically [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [time](/post/time/) [or](/post/or/) [occasion](/post/occasion/). "[She](/post/she/) presented [him](/post/him/) [with](/post/with/) [a](/post/a/) bouquet [of](/post/of/) flowers."
+2. [To](/post/to/) [exhibit](/post/exhibit/) [or](/post/or/) [show](/post/show/) ([something](/post/something/)) publicly. "[The](/post/the/) [museum](/post/museum/) [will](/post/will/) [present](/post/present/) [a](/post/a/) [new](/post/new/) [exhibition](/post/exhibition/) [next](/post/next/) [month](/post/month/)."
+3. [To](/post/to/) [be](/post/be/) currently [available](/post/available/) [or](/post/or/) occurring. "[The](/post/the/) [book](/post/book/) is currently [available](/post/available/) [for](/post/for/) [purchase](/post/purchase/)."
 
-### [Adjective](/en/post/adjective/)
-1. Existing [or](/en/post/or/) happening [now](/en/post/now/). "[The](/en/post/the/) [present](/en/post/present/) [situation](/en/post/situation/) is challenging."
-2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [the](/en/post/the/) [present](/en/post/present/) [time](/en/post/time/) [or](/en/post/or/) [place](/en/post/place/). "[Modern](/en/post/modern/) [technology](/en/post/technology/) is [a](/en/post/a/) defining [feature](/en/post/feature/) [of](/en/post/of/) [the](/en/post/the/) [present](/en/post/present/) [era](/en/post/era/)."
-3. Given [or](/en/post/or/) offered [as](/en/post/as/) [a](/en/post/a/) [gift](/en/post/gift/). "[A](/en/post/a/) present-day [wedding](/en/post/wedding/) [tradition](/en/post/tradition/)."
+### [Adjective](/post/adjective/)
+1. Existing [or](/post/or/) happening [now](/post/now/). "[The](/post/the/) [present](/post/present/) [situation](/post/situation/) is challenging."
+2. [Characteristic](/post/characteristic/) [of](/post/of/) [the](/post/the/) [present](/post/present/) [time](/post/time/) [or](/post/or/) [place](/post/place/). "[Modern](/post/modern/) [technology](/post/technology/) is [a](/post/a/) defining [feature](/post/feature/) [of](/post/of/) [the](/post/the/) [present](/post/present/) [era](/post/era/)."
+3. Given [or](/post/or/) offered [as](/post/as/) [a](/post/a/) [gift](/post/gift/). "[A](/post/a/) present-day [wedding](/post/wedding/) [tradition](/post/tradition/)."
 
-### [Adverb](/en/post/adverb/)
-1. [At](/en/post/at/) [the](/en/post/the/) [present](/en/post/present/) [time](/en/post/time/); currently. "[We](/en/post/we/) [will](/en/post/will/) [discuss](/en/post/discuss/) [the](/en/post/the/) [matter](/en/post/matter/) [presently](/en/post/presently/)."
+### [Adverb](/post/adverb/)
+1. [At](/post/at/) [the](/post/the/) [present](/post/present/) [time](/post/time/); currently. "[We](/post/we/) [will](/post/will/) [discuss](/post/discuss/) [the](/post/the/) [matter](/post/matter/) [presently](/post/presently/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [present](/en/post/present/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) fully engaged [in](/en/post/in/) [the](/en/post/the/) [current](/en/post/current/) [moment](/en/post/moment/).
-- "[Present](/en/post/present/) [company](/en/post/company/) excluded" is [a](/en/post/a/) [humorous](/en/post/humorous/) [way](/en/post/way/) [to](/en/post/to/) [exclude](/en/post/exclude/) [oneself](/en/post/oneself/) [from](/en/post/from/) [a](/en/post/a/) [general](/en/post/general/) [statement](/en/post/statement/).
-- "[Present](/en/post/present/) [tense](/en/post/tense/)" refers [to](/en/post/to/) verbs describing actions happening [now](/en/post/now/).
+- "[Be](/post/be/) [present](/post/present/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) fully engaged [in](/post/in/) [the](/post/the/) [current](/post/current/) [moment](/post/moment/).
+- "[Present](/post/present/) [company](/post/company/) excluded" is [a](/post/a/) [humorous](/post/humorous/) [way](/post/way/) [to](/post/to/) [exclude](/post/exclude/) [oneself](/post/oneself/) [from](/post/from/) [a](/post/a/) [general](/post/general/) [statement](/post/statement/).
+- "[Present](/post/present/) [tense](/post/tense/)" refers [to](/post/to/) verbs describing actions happening [now](/post/now/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) cherished [the](/en/post/the/) [present](/en/post/present/) [she](/en/post/she/) received [on](/en/post/on/) [her](/en/post/her/) [birthday](/en/post/birthday/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [artist](/en/post/artist/) [will](/en/post/will/) [present](/en/post/present/) [her](/en/post/her/) latest [work](/en/post/work/) [at](/en/post/at/) [the](/en/post/the/) [gallery](/en/post/gallery/) [opening](/en/post/opening/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [present](/en/post/present/) [weather](/en/post/weather/) conditions are [ideal](/en/post/ideal/) [for](/en/post/for/) [outdoor](/en/post/outdoor/) activities."
-- **[Adverb](/en/post/adverb/)**: "Let's [meet](/en/post/meet/) [presently](/en/post/presently/) [in](/en/post/in/) [the](/en/post/the/) [conference](/en/post/conference/) [room](/en/post/room/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) cherished [the](/post/the/) [present](/post/present/) [she](/post/she/) received [on](/post/on/) [her](/post/her/) [birthday](/post/birthday/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [artist](/post/artist/) [will](/post/will/) [present](/post/present/) [her](/post/her/) latest [work](/post/work/) [at](/post/at/) [the](/post/the/) [gallery](/post/gallery/) [opening](/post/opening/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [present](/post/present/) [weather](/post/weather/) conditions are [ideal](/post/ideal/) [for](/post/for/) [outdoor](/post/outdoor/) activities."
+- **[Adverb](/post/adverb/)**: "Let's [meet](/post/meet/) [presently](/post/presently/) [in](/post/in/) [the](/post/the/) [conference](/post/conference/) [room](/post/room/)."
 
 ## Synonyms
-- [Now](/en/post/now/)
+- [Now](/post/now/)
 - Currently
 - Existing
-- [Current](/en/post/current/)
+- [Current](/post/current/)
 - Gifted
-- [Available](/en/post/available/)
+- [Available](/post/available/)
 - Presentable

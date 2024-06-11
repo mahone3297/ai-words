@@ -11,16 +11,16 @@ keywords = ['ai words', 'grandmother']
 /ˈɡrændmʌðə(r)/
 
 ## 释义
-- **名词**: 母亲的母亲，外祖母。例如: "[My](/post/my/) [grandmother](/post/grandmother/) tells [the](/post/the/) [best](/post/best/) stories [from](/post/from/) [her](/post/her/) [childhood](/post/childhood/)."
-- **形容词**: 与祖母有关的，外祖母般的。例如: "[She](/post/she/) wore [her](/post/her/) grandmother's antique [necklace](/post/necklace/) [to](/post/to/) [the](/post/the/) [wedding](/post/wedding/)."
+- **名词**: 母亲的母亲，外祖母。例如: "[My](/zh/post/my/) [grandmother](/zh/post/grandmother/) tells [the](/zh/post/the/) [best](/zh/post/best/) stories [from](/zh/post/from/) [her](/zh/post/her/) [childhood](/zh/post/childhood/)."
+- **形容词**: 与祖母有关的，外祖母般的。例如: "[She](/zh/post/she/) wore [her](/zh/post/her/) grandmother's antique [necklace](/zh/post/necklace/) [to](/zh/post/to/) [the](/zh/post/the/) [wedding](/zh/post/wedding/)."
 
 ## 短语
-- "Grandmother's [house](/post/house/)" 指的是祖母的家。
-- "Grandmotherly [love](/post/love/)" 表示慈祥的、祖母般的爱。
+- "Grandmother's [house](/zh/post/house/)" 指的是祖母的家。
+- "Grandmotherly [love](/zh/post/love/)" 表示慈祥的、祖母般的爱。
 
 ## 例句
-- 名词: "[My](/post/my/) [grandmother](/post/grandmother/) knits sweaters [for](/post/for/) [all](/post/all/) [her](/post/her/) grandchildren [every](/post/every/) [winter](/post/winter/)."
-- 形容词: "[She](/post/she/) had [a](/post/a/) grandmotherly [way](/post/way/) [of](/post/of/) making [everyone](/post/everyone/) [feel](/post/feel/) [at](/post/at/) [ease](/post/ease/)."
+- 名词: "[My](/zh/post/my/) [grandmother](/zh/post/grandmother/) knits sweaters [for](/zh/post/for/) [all](/zh/post/all/) [her](/zh/post/her/) grandchildren [every](/zh/post/every/) [winter](/zh/post/winter/)."
+- 形容词: "[She](/zh/post/she/) had [a](/zh/post/a/) grandmotherly [way](/zh/post/way/) [of](/zh/post/of/) making [everyone](/zh/post/everyone/) [feel](/zh/post/feel/) [at](/zh/post/at/) [ease](/zh/post/ease/)."
 
 ## 同义词
 - Grandmama

@@ -7,34 +7,34 @@ description = '[diˈfain] vt.给…下定义；限定'
 keywords = ['ai words', 'define']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈfaɪn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [precise](/en/post/precise/) [or](/en/post/or/) [clear](/en/post/clear/) [explanation](/en/post/explanation/) [or](/en/post/or/) representation [of](/en/post/of/) [the](/en/post/the/) [meaning](/en/post/meaning/), [nature](/en/post/nature/), [or](/en/post/or/) characteristics [of](/en/post/of/) ([a](/en/post/a/) [word](/en/post/word/), [concept](/en/post/concept/), [or](/en/post/or/) [thing](/en/post/thing/)). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) defined [the](/en/post/the/) [term](/en/post/term/) 'empathy' [clearly](/en/post/clearly/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) defining, [or](/en/post/or/) [a](/en/post/a/) [clear](/en/post/clear/) [and](/en/post/and/) [specific](/en/post/specific/) [statement](/en/post/statement/) [that](/en/post/that/) explains [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [official](/en/post/official/) [definition](/en/post/definition/) [of](/en/post/of/) [a](/en/post/a/) palindrome is [a](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [phrase](/en/post/phrase/) [that](/en/post/that/) reads [the](/en/post/the/) [same](/en/post/same/) [backward](/en/post/backward/) [as](/en/post/as/) [forward](/en/post/forward/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [give](/post/give/) [a](/post/a/) [precise](/post/precise/) [or](/post/or/) [clear](/post/clear/) [explanation](/post/explanation/) [or](/post/or/) representation [of](/post/of/) [the](/post/the/) [meaning](/post/meaning/), [nature](/post/nature/), [or](/post/or/) characteristics [of](/post/of/) ([a](/post/a/) [word](/post/word/), [concept](/post/concept/), [or](/post/or/) [thing](/post/thing/)). [For](/post/for/) [example](/post/example/): "[She](/post/she/) defined [the](/post/the/) [term](/post/term/) 'empathy' [clearly](/post/clearly/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) defining, [or](/post/or/) [a](/post/a/) [clear](/post/clear/) [and](/post/and/) [specific](/post/specific/) [statement](/post/statement/) [that](/post/that/) explains [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [official](/post/official/) [definition](/post/definition/) [of](/post/of/) [a](/post/a/) palindrome is [a](/post/a/) [word](/post/word/) [or](/post/or/) [phrase](/post/phrase/) [that](/post/that/) reads [the](/post/the/) [same](/post/same/) [backward](/post/backward/) [as](/post/as/) [forward](/post/forward/)."
 
 ## Phrases
-- "[To](/en/post/to/) [define](/en/post/define/) [a](/en/post/a/) [term](/en/post/term/)" [means](/en/post/means/) [to](/en/post/to/) [establish](/en/post/establish/) [its](/en/post/its/) [meaning](/en/post/meaning/).
-- "[A](/en/post/a/) working [definition](/en/post/definition/)" is [a](/en/post/a/) [practical](/en/post/practical/) [understanding](/en/post/understanding/) [of](/en/post/of/) [a](/en/post/a/) [concept](/en/post/concept/).
-- "[Define](/en/post/define/) [your](/en/post/your/) [position](/en/post/position/)" is [to](/en/post/to/) [clearly](/en/post/clearly/) [state](/en/post/state/) [your](/en/post/your/) [point](/en/post/point/) [of](/en/post/of/) [view](/en/post/view/).
+- "[To](/post/to/) [define](/post/define/) [a](/post/a/) [term](/post/term/)" [means](/post/means/) [to](/post/to/) [establish](/post/establish/) [its](/post/its/) [meaning](/post/meaning/).
+- "[A](/post/a/) working [definition](/post/definition/)" is [a](/post/a/) [practical](/post/practical/) [understanding](/post/understanding/) [of](/post/of/) [a](/post/a/) [concept](/post/concept/).
+- "[Define](/post/define/) [your](/post/your/) [position](/post/position/)" is [to](/post/to/) [clearly](/post/clearly/) [state](/post/state/) [your](/post/your/) [point](/post/point/) [of](/post/of/) [view](/post/view/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) defined [his](/en/post/his/) goals [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/) [in](/en/post/in/) [great](/en/post/great/) [detail](/en/post/detail/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [legal](/en/post/legal/) [definition](/en/post/definition/) [of](/en/post/of/) [murder](/en/post/murder/) varies [from](/en/post/from/) [country](/en/post/country/) [to](/en/post/to/) [country](/en/post/country/)."
-- "[The](/en/post/the/) [scientist](/en/post/scientist/) tried [to](/en/post/to/) [define](/en/post/define/) [the](/en/post/the/) boundaries [between](/en/post/between/) [science](/en/post/science/) [and](/en/post/and/) [philosophy](/en/post/philosophy/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[He](/post/he/) defined [his](/post/his/) goals [for](/post/for/) [the](/post/the/) [project](/post/project/) [in](/post/in/) [great](/post/great/) [detail](/post/detail/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [legal](/post/legal/) [definition](/post/definition/) [of](/post/of/) [murder](/post/murder/) varies [from](/post/from/) [country](/post/country/) [to](/post/to/) [country](/post/country/)."
+- "[The](/post/the/) [scientist](/post/scientist/) tried [to](/post/to/) [define](/post/define/) [the](/post/the/) boundaries [between](/post/between/) [science](/post/science/) [and](/post/and/) [philosophy](/post/philosophy/)."
 
 ## Synonyms
-- [Explain](/en/post/explain/)
-- [Clarify](/en/post/clarify/)
-- [Specify](/en/post/specify/)
+- [Explain](/post/explain/)
+- [Clarify](/post/clarify/)
+- [Specify](/post/specify/)
 - Elucidate
-- [Identify](/en/post/identify/)
+- [Identify](/post/identify/)
 - Characterize
 
 ## Antonyms
-- [Confuse](/en/post/confuse/)
+- [Confuse](/post/confuse/)
 - Misinterpret
-- [Vague](/en/post/vague/)
+- [Vague](/post/vague/)
 - Ambiguous
 - Unclear

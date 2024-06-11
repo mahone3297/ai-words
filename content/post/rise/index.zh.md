@@ -12,26 +12,26 @@ keywords = ['ai words', 'rise']
 
 ## 释义
 - **动词**:
-1. 上升；升起：指物体从低处向高处移动。例如: "[The](/post/the/) [sun](/post/sun/) rises [in](/post/in/) [the](/post/the/) [east](/post/east/) [every](/post/every/) [morning](/post/morning/)."
-2. 增加；提高：指数量、水平、价格等上升。例如: "[Her](/post/her/) [salary](/post/salary/) has risen [by](/post/by/) 10% [this](/post/this/) [year](/post/year/)."
-3. 站起来；起床：从坐、躺或跪的状态变为站立。例如: "I [usually](/post/usually/) [rise](/post/rise/) [early](/post/early/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/) [for](/post/for/) [exercise](/post/exercise/)."
+1. 上升；升起：指物体从低处向高处移动。例如: "[The](/zh/post/the/) [sun](/zh/post/sun/) rises [in](/zh/post/in/) [the](/zh/post/the/) [east](/zh/post/east/) [every](/zh/post/every/) [morning](/zh/post/morning/)."
+2. 增加；提高：指数量、水平、价格等上升。例如: "[Her](/zh/post/her/) [salary](/zh/post/salary/) has risen [by](/zh/post/by/) 10% [this](/zh/post/this/) [year](/zh/post/year/)."
+3. 站起来；起床：从坐、躺或跪的状态变为站立。例如: "I [usually](/zh/post/usually/) [rise](/zh/post/rise/) [early](/zh/post/early/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/) [for](/zh/post/for/) [exercise](/zh/post/exercise/)."
 
 - **名词**:
-1. 上升的动作或过程：如日出、物价上涨等。例如: "[The](/post/the/) [rise](/post/rise/) [of](/post/of/) [the](/post/the/) [stock](/post/stock/) [market](/post/market/) is encouraging investors."
-2. 增长或增加的量：例如: "[There](/post/there/) has been [a](/post/a/) [significant](/post/significant/) [rise](/post/rise/) [in](/post/in/) [crime](/post/crime/) rates [recently](/post/recently/)."
+1. 上升的动作或过程：如日出、物价上涨等。例如: "[The](/zh/post/the/) [rise](/zh/post/rise/) [of](/zh/post/of/) [the](/zh/post/the/) [stock](/zh/post/stock/) [market](/zh/post/market/) is encouraging investors."
+2. 增长或增加的量：例如: "[There](/zh/post/there/) has been [a](/zh/post/a/) [significant](/zh/post/significant/) [rise](/zh/post/rise/) [in](/zh/post/in/) [crime](/zh/post/crime/) rates [recently](/zh/post/recently/)."
 
 ## 短语
-- "[rise](/post/rise/) [up](/post/up/) [against](/post/against/)" 意为反抗或起义。例如: "[They](/post/they/) [rose](/post/rose/) [up](/post/up/) [against](/post/against/) [the](/post/the/) oppressive [government](/post/government/)."
-- "[rise](/post/rise/) [to](/post/to/) [the](/post/the/) [occasion](/post/occasion/)" 表示在关键时刻表现出色。例如: "[She](/post/she/) [always](/post/always/) rises [to](/post/to/) [the](/post/the/) [occasion](/post/occasion/) [when](/post/when/) challenges [arise](/post/arise/)."
+- "[rise](/zh/post/rise/) [up](/zh/post/up/) [against](/zh/post/against/)" 意为反抗或起义。例如: "[They](/zh/post/they/) [rose](/zh/post/rose/) [up](/zh/post/up/) [against](/zh/post/against/) [the](/zh/post/the/) oppressive [government](/zh/post/government/)."
+- "[rise](/zh/post/rise/) [to](/zh/post/to/) [the](/zh/post/the/) [occasion](/zh/post/occasion/)" 表示在关键时刻表现出色。例如: "[She](/zh/post/she/) [always](/zh/post/always/) rises [to](/zh/post/to/) [the](/zh/post/the/) [occasion](/zh/post/occasion/) [when](/zh/post/when/) challenges [arise](/zh/post/arise/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [temperature](/post/temperature/) is predicted [to](/post/to/) [rise](/post/rise/) [sharply](/post/sharply/) [tomorrow](/post/tomorrow/)."
-- 名词: "[The](/post/the/) [rise](/post/rise/) [in](/post/in/) unemployment is [a](/post/a/) [cause](/post/cause/) [for](/post/for/) [concern](/post/concern/)."
-- 短语: "[The](/post/the/) [people](/post/people/) [rose](/post/rose/) [up](/post/up/) [against](/post/against/) [the](/post/the/) [unjust](/post/unjust/) laws."
+- 动词: "[The](/zh/post/the/) [temperature](/zh/post/temperature/) is predicted [to](/zh/post/to/) [rise](/zh/post/rise/) [sharply](/zh/post/sharply/) [tomorrow](/zh/post/tomorrow/)."
+- 名词: "[The](/zh/post/the/) [rise](/zh/post/rise/) [in](/zh/post/in/) unemployment is [a](/zh/post/a/) [cause](/zh/post/cause/) [for](/zh/post/for/) [concern](/zh/post/concern/)."
+- 短语: "[The](/zh/post/the/) [people](/zh/post/people/) [rose](/zh/post/rose/) [up](/zh/post/up/) [against](/zh/post/against/) [the](/zh/post/the/) [unjust](/zh/post/unjust/) laws."
 
 ## 同义词
 - ascend
-- [increase](/post/increase/)
-- [go](/post/go/) [up](/post/up/)
+- [increase](/zh/post/increase/)
+- [go](/zh/post/go/) [up](/zh/post/up/)
 - elevate
-- [mount](/post/mount/)
+- [mount](/zh/post/mount/)

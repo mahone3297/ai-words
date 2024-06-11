@@ -7,36 +7,36 @@ description = '[lɑːst] vi.持续，持久；耐久'
 keywords = ['ai words', 'last']
 +++
 
-## [Word](/en/post/word/): [Last](/en/post/last/)
+## [Word](/post/word/): [Last](/post/last/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /laːst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [final](/en/post/final/) [or](/en/post/or/) [most](/en/post/most/) [recent](/en/post/recent/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) [sequence](/en/post/sequence/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [the](/en/post/the/) [last](/en/post/last/) [person](/en/post/person/) [to](/en/post/to/) [leave](/en/post/leave/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [end](/en/post/end/) [or](/en/post/or/) [conclusion](/en/post/conclusion/) [of](/en/post/of/) [something](/en/post/something/). E.g., "It's [the](/en/post/the/) [last](/en/post/last/) [page](/en/post/page/) [of](/en/post/of/) [the](/en/post/the/) [book](/en/post/book/)."
-- **[Adjective](/en/post/adjective/)**: Occurring [or](/en/post/or/) coming [after](/en/post/after/) [all](/en/post/all/) others; [final](/en/post/final/) [or](/en/post/or/) [most](/en/post/most/) [recent](/en/post/recent/). E.g., "[The](/en/post/the/) [last](/en/post/last/) [chapter](/en/post/chapter/) [of](/en/post/of/) [the](/en/post/the/) [novel](/en/post/novel/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [mean](/en/post/mean/) remaining [or](/en/post/or/) [left](/en/post/left/) [over](/en/post/over/). E.g., "There's [only](/en/post/only/) [one](/en/post/one/) [last](/en/post/last/) [piece](/en/post/piece/) [of](/en/post/of/) [cake](/en/post/cake/) [left](/en/post/left/)."
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [survive](/en/post/survive/) [or](/en/post/or/) [endure](/en/post/endure/) longer [than](/en/post/than/) others. E.g., "[This](/en/post/this/) [company](/en/post/company/) has lasted [through](/en/post/through/) [many](/en/post/many/) [economic](/en/post/economic/) downturns."
-  - (intransitive) [To](/en/post/to/) [continue](/en/post/continue/) [until](/en/post/until/) [the](/en/post/the/) [end](/en/post/end/) [or](/en/post/or/) [up](/en/post/up/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [time](/en/post/time/). E.g., "[We](/en/post/we/) can't [last](/en/post/last/) [much](/en/post/much/) longer [without](/en/post/without/) [food](/en/post/food/) [and](/en/post/and/) [water](/en/post/water/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [final](/post/final/) [or](/post/or/) [most](/post/most/) [recent](/post/recent/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [in](/post/in/) [a](/post/a/) [series](/post/series/) [or](/post/or/) [sequence](/post/sequence/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [the](/post/the/) [last](/post/last/) [person](/post/person/) [to](/post/to/) [leave](/post/leave/) [the](/post/the/) [meeting](/post/meeting/)."
+  - [Also](/post/also/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [end](/post/end/) [or](/post/or/) [conclusion](/post/conclusion/) [of](/post/of/) [something](/post/something/). E.g., "It's [the](/post/the/) [last](/post/last/) [page](/post/page/) [of](/post/of/) [the](/post/the/) [book](/post/book/)."
+- **[Adjective](/post/adjective/)**: Occurring [or](/post/or/) coming [after](/post/after/) [all](/post/all/) others; [final](/post/final/) [or](/post/or/) [most](/post/most/) [recent](/post/recent/). E.g., "[The](/post/the/) [last](/post/last/) [chapter](/post/chapter/) [of](/post/of/) [the](/post/the/) [novel](/post/novel/)."
+  - [Also](/post/also/) [used](/post/used/) [to](/post/to/) [mean](/post/mean/) remaining [or](/post/or/) [left](/post/left/) [over](/post/over/). E.g., "There's [only](/post/only/) [one](/post/one/) [last](/post/last/) [piece](/post/piece/) [of](/post/of/) [cake](/post/cake/) [left](/post/left/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [survive](/post/survive/) [or](/post/or/) [endure](/post/endure/) longer [than](/post/than/) others. E.g., "[This](/post/this/) [company](/post/company/) has lasted [through](/post/through/) [many](/post/many/) [economic](/post/economic/) downturns."
+  - (intransitive) [To](/post/to/) [continue](/post/continue/) [until](/post/until/) [the](/post/the/) [end](/post/end/) [or](/post/or/) [up](/post/up/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [time](/post/time/). E.g., "[We](/post/we/) can't [last](/post/last/) [much](/post/much/) longer [without](/post/without/) [food](/post/food/) [and](/post/and/) [water](/post/water/)."
 
 ## Phrases
-- "[At](/en/post/at/) [last](/en/post/last/)" – expressing [that](/en/post/that/) [something](/en/post/something/) has happened [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [wait](/en/post/wait/) [or](/en/post/or/) [struggle](/en/post/struggle/). E.g., "[At](/en/post/at/) [last](/en/post/last/), [we](/en/post/we/) [found](/en/post/found/) [a](/en/post/a/) [solution](/en/post/solution/) [to](/en/post/to/) [the](/en/post/the/) [problem](/en/post/problem/)."
-- "[The](/en/post/the/) [last](/en/post/last/) [straw](/en/post/straw/)" – [a](/en/post/a/) [minor](/en/post/minor/) [action](/en/post/action/) [that](/en/post/that/) causes an overwhelming [reaction](/en/post/reaction/) [due](/en/post/due/) [to](/en/post/to/) [previous](/en/post/previous/) actions [or](/en/post/or/) stressors. E.g., "[Her](/en/post/her/) [constant](/en/post/constant/) tardiness was [the](/en/post/the/) [last](/en/post/last/) [straw](/en/post/straw/) [for](/en/post/for/) [her](/en/post/her/) [boss](/en/post/boss/)."
-- "[Last](/en/post/last/) [but](/en/post/but/) [not](/en/post/not/) [least](/en/post/least/)" – introducing [the](/en/post/the/) [final](/en/post/final/) [item](/en/post/item/) [in](/en/post/in/) [a](/en/post/a/) [list](/en/post/list/), emphasizing [that](/en/post/that/) [it](/en/post/it/) is [important](/en/post/important/) [too](/en/post/too/). E.g., "[On](/en/post/on/) [our](/en/post/our/) agenda [today](/en/post/today/), [last](/en/post/last/) [but](/en/post/but/) [not](/en/post/not/) [least](/en/post/least/), [we](/en/post/we/) [will](/en/post/will/) [discuss](/en/post/discuss/) [the](/en/post/the/) marketing [plan](/en/post/plan/)."
+- "[At](/post/at/) [last](/post/last/)" – expressing [that](/post/that/) [something](/post/something/) has happened [after](/post/after/) [a](/post/a/) [long](/post/long/) [wait](/post/wait/) [or](/post/or/) [struggle](/post/struggle/). E.g., "[At](/post/at/) [last](/post/last/), [we](/post/we/) [found](/post/found/) [a](/post/a/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/)."
+- "[The](/post/the/) [last](/post/last/) [straw](/post/straw/)" – [a](/post/a/) [minor](/post/minor/) [action](/post/action/) [that](/post/that/) causes an overwhelming [reaction](/post/reaction/) [due](/post/due/) [to](/post/to/) [previous](/post/previous/) actions [or](/post/or/) stressors. E.g., "[Her](/post/her/) [constant](/post/constant/) tardiness was [the](/post/the/) [last](/post/last/) [straw](/post/straw/) [for](/post/for/) [her](/post/her/) [boss](/post/boss/)."
+- "[Last](/post/last/) [but](/post/but/) [not](/post/not/) [least](/post/least/)" – introducing [the](/post/the/) [final](/post/final/) [item](/post/item/) [in](/post/in/) [a](/post/a/) [list](/post/list/), emphasizing [that](/post/that/) [it](/post/it/) is [important](/post/important/) [too](/post/too/). E.g., "[On](/post/on/) [our](/post/our/) agenda [today](/post/today/), [last](/post/last/) [but](/post/but/) [not](/post/not/) [least](/post/least/), [we](/post/we/) [will](/post/will/) [discuss](/post/discuss/) [the](/post/the/) marketing [plan](/post/plan/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) finished [in](/en/post/in/) [first](/en/post/first/) [place](/en/post/place/), [with](/en/post/with/) [him](/en/post/him/) coming [in](/en/post/in/) [a](/en/post/a/) [close](/en/post/close/) [last](/en/post/last/)."
-- **[Adjective](/en/post/adjective/)**: "I bought [the](/en/post/the/) [last](/en/post/last/) [ticket](/en/post/ticket/) [for](/en/post/for/) tonight's [concert](/en/post/concert/)."
-- **[Verb](/en/post/verb/)**: "[Their](/en/post/their/) [marriage](/en/post/marriage/) didn't [last](/en/post/last/) [because](/en/post/because/) [of](/en/post/of/) irreconcilable differences."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) finished [in](/post/in/) [first](/post/first/) [place](/post/place/), [with](/post/with/) [him](/post/him/) coming [in](/post/in/) [a](/post/a/) [close](/post/close/) [last](/post/last/)."
+- **[Adjective](/post/adjective/)**: "I bought [the](/post/the/) [last](/post/last/) [ticket](/post/ticket/) [for](/post/for/) tonight's [concert](/post/concert/)."
+- **[Verb](/post/verb/)**: "[Their](/post/their/) [marriage](/post/marriage/) didn't [last](/post/last/) [because](/post/because/) [of](/post/of/) irreconcilable differences."
 
 ## Synonyms
-- [Final](/en/post/final/)
-- [Ultimate](/en/post/ultimate/)
-- [Latter](/en/post/latter/)
+- [Final](/post/final/)
+- [Ultimate](/post/ultimate/)
+- [Latter](/post/latter/)
 - Concluding
-- [Terminal](/en/post/terminal/)
+- [Terminal](/post/terminal/)
 - Enduring
 - Surviving
 - Remaining
-- [Recent](/en/post/recent/)
+- [Recent](/post/recent/)

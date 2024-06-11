@@ -7,31 +7,31 @@ description = '[ˈtwiŋkl] vi.闪烁，闪耀'
 keywords = ['ai words', 'twinkle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /twɪŋkl/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) To闪烁,发光时忽明忽暗; (n)闪烁的光或眼神。 [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [star](/en/post/star/) twinkleled brightly [in](/en/post/in/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/)."
-- **[Adjective](/en/post/adjective/)**: (adj) Having [a](/en/post/a/) [bright](/en/post/bright/), intermittent [flash](/en/post/flash/) [or](/en/post/or/) shimmer. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) eyes had [a](/en/post/a/) [twinkle](/en/post/twinkle/) [when](/en/post/when/) [she](/en/post/she/) smiled."
+- **[Verb](/post/verb/)**: (v) To闪烁,发光时忽明忽暗; (n)闪烁的光或眼神。 [For](/post/for/) [example](/post/example/): "[The](/post/the/) [star](/post/star/) twinkleled brightly [in](/post/in/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/)."
+- **[Adjective](/post/adjective/)**: (adj) Having [a](/post/a/) [bright](/post/bright/), intermittent [flash](/post/flash/) [or](/post/or/) shimmer. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) eyes had [a](/post/a/) [twinkle](/post/twinkle/) [when](/post/when/) [she](/post/she/) smiled."
 
 ## Phrases
-- "[Twinkle](/en/post/twinkle/) [in](/en/post/in/) [her](/en/post/her/) [eye](/en/post/eye/)" implies mischief [or](/en/post/or/) amusement.
-- "Twinkling lights" are [small](/en/post/small/), [usually](/en/post/usually/) decorative lights [that](/en/post/that/) [appear](/en/post/appear/) [to](/en/post/to/) [be](/en/post/be/) twinkling.
-- "Twinkly [smile](/en/post/smile/)" describes [a](/en/post/a/) [smile](/en/post/smile/) [with](/en/post/with/) [a](/en/post/a/) playful [or](/en/post/or/) flirtatious [quality](/en/post/quality/).
+- "[Twinkle](/post/twinkle/) [in](/post/in/) [her](/post/her/) [eye](/post/eye/)" implies mischief [or](/post/or/) amusement.
+- "Twinkling lights" are [small](/post/small/), [usually](/post/usually/) decorative lights [that](/post/that/) [appear](/post/appear/) [to](/post/to/) [be](/post/be/) twinkling.
+- "Twinkly [smile](/post/smile/)" describes [a](/post/a/) [smile](/post/smile/) [with](/post/with/) [a](/post/a/) playful [or](/post/or/) flirtatious [quality](/post/quality/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) fireflies twinkled [softly](/en/post/softly/) [in](/en/post/in/) [the](/en/post/the/) [summer](/en/post/summer/) [evening](/en/post/evening/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) wore [a](/en/post/a/) [dress](/en/post/dress/) [with](/en/post/with/) [a](/en/post/a/) sequin [top](/en/post/top/) [that](/en/post/that/) twinkle-d [as](/en/post/as/) [she](/en/post/she/) moved."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) child's [laughter](/en/post/laughter/) was [like](/en/post/like/) [a](/en/post/a/) [little](/en/post/little/) [twinkle](/en/post/twinkle/) [in](/en/post/in/) [his](/en/post/his/) father's [heart](/en/post/heart/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) fireflies twinkled [softly](/post/softly/) [in](/post/in/) [the](/post/the/) [summer](/post/summer/) [evening](/post/evening/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) wore [a](/post/a/) [dress](/post/dress/) [with](/post/with/) [a](/post/a/) sequin [top](/post/top/) [that](/post/that/) twinkle-d [as](/post/as/) [she](/post/she/) moved."
+- **[Noun](/post/noun/)**: "[The](/post/the/) child's [laughter](/post/laughter/) was [like](/post/like/) [a](/post/a/) [little](/post/little/) [twinkle](/post/twinkle/) [in](/post/in/) [his](/post/his/) father's [heart](/post/heart/)."
 
 ## Synonyms
-- [Sparkle](/en/post/sparkle/)
+- [Sparkle](/post/sparkle/)
 - Gleam
 - Flit
-- [Dance](/en/post/dance/)
+- [Dance](/post/dance/)
 - Glint
 
 ## Antonyms
-- [Dim](/en/post/dim/)
-- [Glow](/en/post/glow/) [steadily](/en/post/steadily/)
-- [Shine](/en/post/shine/) constantly
+- [Dim](/post/dim/)
+- [Glow](/post/glow/) [steadily](/post/steadily/)
+- [Shine](/post/shine/) constantly

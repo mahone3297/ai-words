@@ -11,20 +11,20 @@ keywords = ['ai words', 'imply']
 /ɪmˈplaɪ/
 
 ## 释义
-- **动词**: 暗示，意味着。例如: "[His](/post/his/) [silence](/post/silence/) implies [that](/post/that/) [he](/post/he/) agrees [with](/post/with/) [us](/post/us/)."
-- **动词**: 推测，推断。例如: "[From](/post/from/) [her](/post/her/) [expression](/post/expression/), [we](/post/we/) [can](/post/can/) [imply](/post/imply/) [that](/post/that/) she's [angry](/post/angry/)."
+- **动词**: 暗示，意味着。例如: "[His](/zh/post/his/) [silence](/zh/post/silence/) implies [that](/zh/post/that/) [he](/zh/post/he/) agrees [with](/zh/post/with/) [us](/zh/post/us/)."
+- **动词**: 推测，推断。例如: "[From](/zh/post/from/) [her](/zh/post/her/) [expression](/zh/post/expression/), [we](/zh/post/we/) [can](/zh/post/can/) [imply](/zh/post/imply/) [that](/zh/post/that/) she's [angry](/zh/post/angry/)."
 
 ## 短语
-- "[To](/post/to/) [imply](/post/imply/) [something](/post/something/)" 意味着表明或暗示一个观点或情况。
-- "Implied [meaning](/post/meaning/)" 是指话中暗含的意思。
+- "[To](/zh/post/to/) [imply](/zh/post/imply/) [something](/zh/post/something/)" 意味着表明或暗示一个观点或情况。
+- "Implied [meaning](/zh/post/meaning/)" 是指话中暗含的意思。
 
 ## 例句
-- "[Her](/post/her/) [smile](/post/smile/) implies [that](/post/that/) [she](/post/she/) is [happy](/post/happy/) [to](/post/to/) [see](/post/see/) [us](/post/us/)."
-- "The统计数据 [imply](/post/imply/) [that](/post/that/) sales [have](/post/have/) increased [this](/post/this/) [quarter](/post/quarter/)."
+- "[Her](/zh/post/her/) [smile](/zh/post/smile/) implies [that](/zh/post/that/) [she](/zh/post/she/) is [happy](/zh/post/happy/) [to](/zh/post/to/) [see](/zh/post/see/) [us](/zh/post/us/)."
+- "The统计数据 [imply](/zh/post/imply/) [that](/zh/post/that/) sales [have](/zh/post/have/) increased [this](/zh/post/this/) [quarter](/zh/post/quarter/)."
 
 ## 同义词
-- [Suggest](/post/suggest/)
-- [Indicate](/post/indicate/)
-- [Convey](/post/convey/)
-- [Mean](/post/mean/)
-- [Infer](/post/infer/)
+- [Suggest](/zh/post/suggest/)
+- [Indicate](/zh/post/indicate/)
+- [Convey](/zh/post/convey/)
+- [Mean](/zh/post/mean/)
+- [Infer](/zh/post/infer/)

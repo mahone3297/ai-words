@@ -7,37 +7,37 @@ description = '[ˈkɔmənli] ad.普通地，一般地'
 keywords = ['ai words', 'commonly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈmənli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [usual](/en/post/usual/), [ordinary](/en/post/ordinary/), [or](/en/post/or/) [general](/en/post/general/) [way](/en/post/way/); [frequently](/en/post/frequently/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [event](/en/post/event/) is [commonly](/en/post/commonly/) held [on](/en/post/on/) weekends."
-- **[Adjective](/en/post/adjective/)**: Shared [by](/en/post/by/) [many](/en/post/many/); [widespread](/en/post/widespread/). [For](/en/post/for/) [example](/en/post/example/): "English is [a](/en/post/a/) [commonly](/en/post/commonly/) spoken [language](/en/post/language/)."
-- **[Noun](/en/post/noun/)**: [Usage](/en/post/usage/) [or](/en/post/or/) [occurrence](/en/post/occurrence/) [often](/en/post/often/); [frequency](/en/post/frequency/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [term](/en/post/term/) is [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [scientific](/en/post/scientific/) discussions."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [usual](/post/usual/), [ordinary](/post/ordinary/), [or](/post/or/) [general](/post/general/) [way](/post/way/); [frequently](/post/frequently/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [event](/post/event/) is [commonly](/post/commonly/) held [on](/post/on/) weekends."
+- **[Adjective](/post/adjective/)**: Shared [by](/post/by/) [many](/post/many/); [widespread](/post/widespread/). [For](/post/for/) [example](/post/example/): "English is [a](/post/a/) [commonly](/post/commonly/) spoken [language](/post/language/)."
+- **[Noun](/post/noun/)**: [Usage](/post/usage/) [or](/post/or/) [occurrence](/post/occurrence/) [often](/post/often/); [frequency](/post/frequency/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [term](/post/term/) is [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [scientific](/post/scientific/) discussions."
 
 ## Phrases
-- "[Commonly](/en/post/commonly/) accepted" [means](/en/post/means/) [generally](/en/post/generally/) recognized [or](/en/post/or/) agreed [upon](/en/post/upon/).
-- "[Commonly](/en/post/commonly/) believed" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [widely](/en/post/widely/) assumed [to](/en/post/to/) [be](/en/post/be/) [true](/en/post/true/).
-- "[Commonly](/en/post/commonly/) [used](/en/post/used/)" indicates [that](/en/post/that/) [something](/en/post/something/) is [frequently](/en/post/frequently/) employed [or](/en/post/or/) utilized.
+- "[Commonly](/post/commonly/) accepted" [means](/post/means/) [generally](/post/generally/) recognized [or](/post/or/) agreed [upon](/post/upon/).
+- "[Commonly](/post/commonly/) believed" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is [widely](/post/widely/) assumed [to](/post/to/) [be](/post/be/) [true](/post/true/).
+- "[Commonly](/post/commonly/) [used](/post/used/)" indicates [that](/post/that/) [something](/post/something/) is [frequently](/post/frequently/) employed [or](/post/or/) utilized.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "Students [commonly](/en/post/commonly/) [finish](/en/post/finish/) [their](/en/post/their/) homework [before](/en/post/before/) [dinner](/en/post/dinner/)."
-- **[Adjective](/en/post/adjective/)**: "[Television](/en/post/television/) is [a](/en/post/a/) [commonly](/en/post/commonly/) owned [household](/en/post/household/) [item](/en/post/item/)."
-- **[Noun](/en/post/noun/)**: "[This](/en/post/this/) [issue](/en/post/issue/) is [commonly](/en/post/commonly/) discussed [in](/en/post/in/) [climate](/en/post/climate/) [change](/en/post/change/) debates."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "Students [commonly](/post/commonly/) [finish](/post/finish/) [their](/post/their/) homework [before](/post/before/) [dinner](/post/dinner/)."
+- **[Adjective](/post/adjective/)**: "[Television](/post/television/) is [a](/post/a/) [commonly](/post/commonly/) owned [household](/post/household/) [item](/post/item/)."
+- **[Noun](/post/noun/)**: "[This](/post/this/) [issue](/post/issue/) is [commonly](/post/commonly/) discussed [in](/post/in/) [climate](/post/climate/) [change](/post/change/) debates."
 
 ## Synonyms
-- [Usually](/en/post/usually/)
-- [Often](/en/post/often/)
-- [Frequent](/en/post/frequent/)
-- [Regularly](/en/post/regularly/)
-- [Generally](/en/post/generally/)
-- [Widespread](/en/post/widespread/)
+- [Usually](/post/usually/)
+- [Often](/post/often/)
+- [Frequent](/post/frequent/)
+- [Regularly](/post/regularly/)
+- [Generally](/post/generally/)
+- [Widespread](/post/widespread/)
 - Ubiquitous
 
 ## Antonyms
-- [Rarely](/en/post/rarely/)
+- [Rarely](/post/rarely/)
 - Uncommonly
-- [Occasionally](/en/post/occasionally/)
-- [Seldom](/en/post/seldom/)
-- [Exclusively](/en/post/exclusively/)
+- [Occasionally](/post/occasionally/)
+- [Seldom](/post/seldom/)
+- [Exclusively](/post/exclusively/)
 - Exceptionally

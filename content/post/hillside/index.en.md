@@ -7,28 +7,28 @@ description = '[ˈhilsaid] n.(小山)山腰，山坡'
 keywords = ['ai words', 'hillside']
 +++
 
-## [Word](/en/post/word/): [Hillside](/en/post/hillside/)
+## [Word](/post/word/): [Hillside](/post/hillside/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhɪlˌsaɪd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [side](/en/post/side/) [or](/en/post/or/) [slope](/en/post/slope/) [of](/en/post/of/) [a](/en/post/a/) [hill](/en/post/hill/) [or](/en/post/or/) [mountain](/en/post/mountain/); [the](/en/post/the/) [land](/en/post/land/) [that](/en/post/that/) rises [from](/en/post/from/) [the](/en/post/the/) [base](/en/post/base/) [to](/en/post/to/) [the](/en/post/the/) summit. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sheep](/en/post/sheep/) were grazing [on](/en/post/on/) [the](/en/post/the/) lush [green](/en/post/green/) [hillside](/en/post/hillside/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [side](/post/side/) [or](/post/or/) [slope](/post/slope/) [of](/post/of/) [a](/post/a/) [hill](/post/hill/) [or](/post/or/) [mountain](/post/mountain/); [the](/post/the/) [land](/post/land/) [that](/post/that/) rises [from](/post/from/) [the](/post/the/) [base](/post/base/) [to](/post/to/) [the](/post/the/) summit. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sheep](/post/sheep/) were grazing [on](/post/on/) [the](/post/the/) lush [green](/post/green/) [hillside](/post/hillside/)."
 
-### [Example](/en/post/example/) Sentences
-- "[They](/en/post/they/) built [their](/en/post/their/) [house](/en/post/house/) [on](/en/post/on/) [a](/en/post/a/) [peaceful](/en/post/peaceful/) [hillside](/en/post/hillside/) overlooking [the](/en/post/the/) [valley](/en/post/valley/)."
-- "[We](/en/post/we/) decided [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [picnic](/en/post/picnic/) [on](/en/post/on/) [the](/en/post/the/) [sunny](/en/post/sunny/) [hillside](/en/post/hillside/) surrounded [by](/en/post/by/) wildflowers."
+### [Example](/post/example/) Sentences
+- "[They](/post/they/) built [their](/post/their/) [house](/post/house/) [on](/post/on/) [a](/post/a/) [peaceful](/post/peaceful/) [hillside](/post/hillside/) overlooking [the](/post/the/) [valley](/post/valley/)."
+- "[We](/post/we/) decided [to](/post/to/) [have](/post/have/) [a](/post/a/) [picnic](/post/picnic/) [on](/post/on/) [the](/post/the/) [sunny](/post/sunny/) [hillside](/post/hillside/) surrounded [by](/post/by/) wildflowers."
 
 ## Phrases
-- "[On](/en/post/on/) [the](/en/post/the/) [hillside](/en/post/hillside/)" - Referring [to](/en/post/to/) [something](/en/post/something/) located [on](/en/post/on/) [the](/en/post/the/) sloping [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [hill](/en/post/hill/) [or](/en/post/or/) [mountain](/en/post/mountain/).
-- "Climbing [up](/en/post/up/)/[down](/en/post/down/) [the](/en/post/the/) [hillside](/en/post/hillside/)" - Describing [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) ascending [or](/en/post/or/) descending [the](/en/post/the/) [slope](/en/post/slope/) [of](/en/post/of/) [a](/en/post/a/) [hill](/en/post/hill/).
+- "[On](/post/on/) [the](/post/the/) [hillside](/post/hillside/)" - Referring [to](/post/to/) [something](/post/something/) located [on](/post/on/) [the](/post/the/) sloping [part](/post/part/) [of](/post/of/) [a](/post/a/) [hill](/post/hill/) [or](/post/or/) [mountain](/post/mountain/).
+- "Climbing [up](/post/up/)/[down](/post/down/) [the](/post/the/) [hillside](/post/hillside/)" - Describing [the](/post/the/) [action](/post/action/) [of](/post/of/) ascending [or](/post/or/) descending [the](/post/the/) [slope](/post/slope/) [of](/post/of/) [a](/post/a/) [hill](/post/hill/).
 
 ## Synonyms
-- [Slope](/en/post/slope/)
+- [Slope](/post/slope/)
 - Hillslope
 - Mountainside
 - Escarpment
-- [Bank](/en/post/bank/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
-- [Ridge](/en/post/ridge/) ([if](/en/post/if/) referring [to](/en/post/to/) [the](/en/post/the/) [side](/en/post/side/) [of](/en/post/of/) [a](/en/post/a/) smaller [hill](/en/post/hill/)) 
+- [Bank](/post/bank/) ([in](/post/in/) [some](/post/some/) contexts)
+- [Ridge](/post/ridge/) ([if](/post/if/) referring [to](/post/to/) [the](/post/the/) [side](/post/side/) [of](/post/of/) [a](/post/a/) smaller [hill](/post/hill/)) 
 
-[Note](/en/post/note/): '[Hillside](/en/post/hillside/)' does [not](/en/post/not/) [commonly](/en/post/commonly/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), [preposition](/en/post/preposition/), [conjunction](/en/post/conjunction/), [pronoun](/en/post/pronoun/), numeral, [or](/en/post/or/) interjection, [so](/en/post/so/) [no](/en/post/no/) examples are [provided](/en/post/provided/) [for](/en/post/for/) [those](/en/post/those/) parts [of](/en/post/of/) [speech](/en/post/speech/).
+[Note](/post/note/): '[Hillside](/post/hillside/)' does [not](/post/not/) [commonly](/post/commonly/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [adjective](/post/adjective/), [adverb](/post/adverb/), [preposition](/post/preposition/), [conjunction](/post/conjunction/), [pronoun](/post/pronoun/), numeral, [or](/post/or/) interjection, [so](/post/so/) [no](/post/no/) examples are [provided](/post/provided/) [for](/post/for/) [those](/post/those/) parts [of](/post/of/) [speech](/post/speech/).

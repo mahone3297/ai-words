@@ -7,39 +7,39 @@ description = '[juːˈtilaiz] vt.利用'
 keywords = ['ai words', 'utilize']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjuːˌnaɪzeɪl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-Utilization: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) using [something](/en/post/something/) effectively [or](/en/post/or/) [to](/en/post/to/) [its](/en/post/its/) [full](/en/post/full/) [potential](/en/post/potential/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [efficient](/en/post/efficient/) utilization [of](/en/post/of/) resources is crucial [for](/en/post/for/) [a](/en/post/a/) business's [success](/en/post/success/)."
-Resourcefulness: [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [make](/en/post/make/) [good](/en/post/good/) [use](/en/post/use/) [of](/en/post/of/) [available](/en/post/available/) resources. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) demonstrated [great](/en/post/great/) resourcefulness [in](/en/post/in/) solving [the](/en/post/the/) [problem](/en/post/problem/)."
+### [Noun](/post/noun/)
+Utilization: [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) using [something](/post/something/) effectively [or](/post/or/) [to](/post/to/) [its](/post/its/) [full](/post/full/) [potential](/post/potential/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [efficient](/post/efficient/) utilization [of](/post/of/) resources is crucial [for](/post/for/) [a](/post/a/) business's [success](/post/success/)."
+Resourcefulness: [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [make](/post/make/) [good](/post/good/) [use](/post/use/) [of](/post/of/) [available](/post/available/) resources. [For](/post/for/) [example](/post/example/): "[She](/post/she/) demonstrated [great](/post/great/) resourcefulness [in](/post/in/) solving [the](/post/the/) [problem](/post/problem/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [employ](/en/post/employ/), [put](/en/post/put/) [to](/en/post/to/) [use](/en/post/use/), [or](/en/post/or/) [apply](/en/post/apply/) effectively. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is utilizing [new](/en/post/new/) [technology](/en/post/technology/) [to](/en/post/to/) streamline [their](/en/post/their/) processes."
-[To](/en/post/to/) [take](/en/post/take/) [advantage](/en/post/advantage/) [of](/en/post/of/): Using [something](/en/post/something/) [for](/en/post/for/) [its](/en/post/its/) intended [purpose](/en/post/purpose/) [or](/en/post/or/) [to](/en/post/to/) one's [benefit](/en/post/benefit/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) utilized [his](/en/post/his/) skills [to](/en/post/to/) [land](/en/post/land/) [a](/en/post/a/) [job](/en/post/job/) [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/) [he](/en/post/he/) studied."
+### [Verb](/post/verb/)
+[To](/post/to/) [employ](/post/employ/), [put](/post/put/) [to](/post/to/) [use](/post/use/), [or](/post/or/) [apply](/post/apply/) effectively. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) is utilizing [new](/post/new/) [technology](/post/technology/) [to](/post/to/) streamline [their](/post/their/) processes."
+[To](/post/to/) [take](/post/take/) [advantage](/post/advantage/) [of](/post/of/): Using [something](/post/something/) [for](/post/for/) [its](/post/its/) intended [purpose](/post/purpose/) [or](/post/or/) [to](/post/to/) one's [benefit](/post/benefit/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) utilized [his](/post/his/) skills [to](/post/to/) [land](/post/land/) [a](/post/a/) [job](/post/job/) [in](/post/in/) [the](/post/the/) [field](/post/field/) [he](/post/he/) studied."
 
-### [Adjective](/en/post/adjective/)
-[Beneficial](/en/post/beneficial/) [or](/en/post/or/) [productive](/en/post/productive/): [Something](/en/post/something/) [that](/en/post/that/) is [useful](/en/post/useful/) [or](/en/post/or/) brings [about](/en/post/about/) [a](/en/post/a/) desired [outcome](/en/post/outcome/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was designed [for](/en/post/for/) optimal utilization [of](/en/post/of/) [sunlight](/en/post/sunlight/)."
-[Efficient](/en/post/efficient/): Utilizing [something](/en/post/something/) [with](/en/post/with/) minimal [waste](/en/post/waste/) [or](/en/post/or/) [maximum](/en/post/maximum/) [efficiency](/en/post/efficiency/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [system](/en/post/system/) has been optimized [for](/en/post/for/) [high](/en/post/high/) utilization rates."
+### [Adjective](/post/adjective/)
+[Beneficial](/post/beneficial/) [or](/post/or/) [productive](/post/productive/): [Something](/post/something/) [that](/post/that/) is [useful](/post/useful/) [or](/post/or/) brings [about](/post/about/) [a](/post/a/) desired [outcome](/post/outcome/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was designed [for](/post/for/) optimal utilization [of](/post/of/) [sunlight](/post/sunlight/)."
+[Efficient](/post/efficient/): Utilizing [something](/post/something/) [with](/post/with/) minimal [waste](/post/waste/) [or](/post/or/) [maximum](/post/maximum/) [efficiency](/post/efficiency/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [system](/post/system/) has been optimized [for](/post/for/) [high](/post/high/) utilization rates."
 
 ## Phrases
-- "[Utilize](/en/post/utilize/) [your](/en/post/your/) [time](/en/post/time/) wisely" suggests making [the](/en/post/the/) [best](/en/post/best/) [use](/en/post/use/) [of](/en/post/of/) [your](/en/post/your/) [available](/en/post/available/) [time](/en/post/time/).
-- "Utilization [rate](/en/post/rate/)" refers [to](/en/post/to/) [the](/en/post/the/) [percentage](/en/post/percentage/) [of](/en/post/of/) [a](/en/post/a/) [resource](/en/post/resource/) [that](/en/post/that/) is [being](/en/post/being/) [used](/en/post/used/) [at](/en/post/at/) [a](/en/post/a/) given [time](/en/post/time/).
-- "Maximize utilization" aims [to](/en/post/to/) [get](/en/post/get/) [the](/en/post/the/) [most](/en/post/most/) [out](/en/post/out/) [of](/en/post/of/) [a](/en/post/a/) [resource](/en/post/resource/).
+- "[Utilize](/post/utilize/) [your](/post/your/) [time](/post/time/) wisely" suggests making [the](/post/the/) [best](/post/best/) [use](/post/use/) [of](/post/of/) [your](/post/your/) [available](/post/available/) [time](/post/time/).
+- "Utilization [rate](/post/rate/)" refers [to](/post/to/) [the](/post/the/) [percentage](/post/percentage/) [of](/post/of/) [a](/post/a/) [resource](/post/resource/) [that](/post/that/) is [being](/post/being/) [used](/post/used/) [at](/post/at/) [a](/post/a/) given [time](/post/time/).
+- "Maximize utilization" aims [to](/post/to/) [get](/post/get/) [the](/post/the/) [most](/post/most/) [out](/post/out/) [of](/post/of/) [a](/post/a/) [resource](/post/resource/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) project's [success](/en/post/success/) depends [on](/en/post/on/) [the](/en/post/the/) [efficient](/en/post/efficient/) utilization [of](/en/post/of/) [human](/en/post/human/) resources."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) are utilizing renewable [energy](/en/post/energy/) sources [to](/en/post/to/) [reduce](/en/post/reduce/) [their](/en/post/their/) [carbon](/en/post/carbon/) footprint."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [company](/en/post/company/) aims [to](/en/post/to/) [increase](/en/post/increase/) [employee](/en/post/employee/) utilization [to](/en/post/to/) [meet](/en/post/meet/) [production](/en/post/production/) targets."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) project's [success](/post/success/) depends [on](/post/on/) [the](/post/the/) [efficient](/post/efficient/) utilization [of](/post/of/) [human](/post/human/) resources."
+- **[Verb](/post/verb/)**: "[They](/post/they/) are utilizing renewable [energy](/post/energy/) sources [to](/post/to/) [reduce](/post/reduce/) [their](/post/their/) [carbon](/post/carbon/) footprint."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [company](/post/company/) aims [to](/post/to/) [increase](/post/increase/) [employee](/post/employee/) utilization [to](/post/to/) [meet](/post/meet/) [production](/post/production/) targets."
 
 ## Synonyms
-- [Employ](/en/post/employ/)
-- [Harness](/en/post/harness/)
-- [Put](/en/post/put/) [to](/en/post/to/) [work](/en/post/work/)
-- [Make](/en/post/make/) [use](/en/post/use/) [of](/en/post/of/)
-- [Apply](/en/post/apply/)
+- [Employ](/post/employ/)
+- [Harness](/post/harness/)
+- [Put](/post/put/) [to](/post/to/) [work](/post/work/)
+- [Make](/post/make/) [use](/post/use/) [of](/post/of/)
+- [Apply](/post/apply/)
 - Leverage
-- [Exploit](/en/post/exploit/)
+- [Exploit](/post/exploit/)
 - Optimize
-- [Employ](/en/post/employ/) efficiently
+- [Employ](/post/employ/) efficiently

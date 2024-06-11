@@ -12,22 +12,22 @@ keywords = ['ai words', 'lighten']
 
 ## 释义
 - **动词**:
-  - 使变轻；减轻：例如 "Exercising [regularly](/post/regularly/) [can](/post/can/) [lighten](/post/lighten/) [your](/post/your/) [load](/post/load/) [and](/post/and/) [improve](/post/improve/) [your](/post/your/) [mood](/post/mood/)."
-  - 减轻（颜色）；提亮：例如 "Adding [a](/post/a/) [touch](/post/touch/) [of](/post/of/) [white](/post/white/) [paint](/post/paint/) [can](/post/can/) [lighten](/post/lighten/) [the](/post/the/) [shade](/post/shade/) [of](/post/of/) [blue](/post/blue/)."
-  - 加快；轻松处理：例如 "[Let](/post/let/) [me](/post/me/) [help](/post/help/) [you](/post/you/) [with](/post/with/) [that](/post/that/); [it](/post/it/) [will](/post/will/) [lighten](/post/lighten/) [your](/post/your/) workload."
+  - 使变轻；减轻：例如 "Exercising [regularly](/zh/post/regularly/) [can](/zh/post/can/) [lighten](/zh/post/lighten/) [your](/zh/post/your/) [load](/zh/post/load/) [and](/zh/post/and/) [improve](/zh/post/improve/) [your](/zh/post/your/) [mood](/zh/post/mood/)."
+  - 减轻（颜色）；提亮：例如 "Adding [a](/zh/post/a/) [touch](/zh/post/touch/) [of](/zh/post/of/) [white](/zh/post/white/) [paint](/zh/post/paint/) [can](/zh/post/can/) [lighten](/zh/post/lighten/) [the](/zh/post/the/) [shade](/zh/post/shade/) [of](/zh/post/of/) [blue](/zh/post/blue/)."
+  - 加快；轻松处理：例如 "[Let](/zh/post/let/) [me](/zh/post/me/) [help](/zh/post/help/) [you](/zh/post/you/) [with](/zh/post/with/) [that](/zh/post/that/); [it](/zh/post/it/) [will](/zh/post/will/) [lighten](/zh/post/lighten/) [your](/zh/post/your/) workload."
 
 ## 短语
-- "[lighten](/post/lighten/) [up](/post/up/)" 意为放松，别那么严肃：例如 "[You](/post/you/) [need](/post/need/) [to](/post/to/) [lighten](/post/lighten/) [up](/post/up/) – it's [just](/post/just/) [a](/post/a/) [joke](/post/joke/)!"
-- "[to](/post/to/) [lighten](/post/lighten/) one's [burden](/post/burden/)" 意为缓解负担：例如 "[Her](/post/her/) friends helped [her](/post/her/) [lighten](/post/lighten/) [her](/post/her/) [burden](/post/burden/) [during](/post/during/) [a](/post/a/) [difficult](/post/difficult/) [time](/post/time/)."
+- "[lighten](/zh/post/lighten/) [up](/zh/post/up/)" 意为放松，别那么严肃：例如 "[You](/zh/post/you/) [need](/zh/post/need/) [to](/zh/post/to/) [lighten](/zh/post/lighten/) [up](/zh/post/up/) – it's [just](/zh/post/just/) [a](/zh/post/a/) [joke](/zh/post/joke/)!"
+- "[to](/zh/post/to/) [lighten](/zh/post/lighten/) one's [burden](/zh/post/burden/)" 意为缓解负担：例如 "[Her](/zh/post/her/) friends helped [her](/zh/post/her/) [lighten](/zh/post/lighten/) [her](/zh/post/her/) [burden](/zh/post/burden/) [during](/zh/post/during/) [a](/zh/post/a/) [difficult](/zh/post/difficult/) [time](/zh/post/time/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [new](/post/new/) diet has helped [me](/post/me/) [lighten](/post/lighten/) [my](/post/my/) [physical](/post/physical/) [weight](/post/weight/)."
-- 动词: "[A](/post/a/) [few](/post/few/) jokes helped [to](/post/to/) [lighten](/post/lighten/) [the](/post/the/) [atmosphere](/post/atmosphere/) [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
-- 动词: "[She](/post/she/) asked [him](/post/him/) [to](/post/to/) [lighten](/post/lighten/) [her](/post/her/) [load](/post/load/) [by](/post/by/) taking [on](/post/on/) [some](/post/some/) [of](/post/of/) [her](/post/her/) responsibilities."
+- 动词: "[The](/zh/post/the/) [new](/zh/post/new/) diet has helped [me](/zh/post/me/) [lighten](/zh/post/lighten/) [my](/zh/post/my/) [physical](/zh/post/physical/) [weight](/zh/post/weight/)."
+- 动词: "[A](/zh/post/a/) [few](/zh/post/few/) jokes helped [to](/zh/post/to/) [lighten](/zh/post/lighten/) [the](/zh/post/the/) [atmosphere](/zh/post/atmosphere/) [during](/zh/post/during/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
+- 动词: "[She](/zh/post/she/) asked [him](/zh/post/him/) [to](/zh/post/to/) [lighten](/zh/post/lighten/) [her](/zh/post/her/) [load](/zh/post/load/) [by](/zh/post/by/) taking [on](/zh/post/on/) [some](/zh/post/some/) [of](/zh/post/of/) [her](/zh/post/her/) responsibilities."
 
 ## 同义词
-- [brighten](/post/brighten/)
+- [brighten](/zh/post/brighten/)
 - alleviate
-- [ease](/post/ease/)
-- [cheer](/post/cheer/)
-- [lighten](/post/lighten/) [up](/post/up/) ([as](/post/as/) [in](/post/in/) [to](/post/to/) [become](/post/become/) [less](/post/less/) [serious](/post/serious/))
+- [ease](/zh/post/ease/)
+- [cheer](/zh/post/cheer/)
+- [lighten](/zh/post/lighten/) [up](/zh/post/up/) ([as](/zh/post/as/) [in](/zh/post/in/) [to](/zh/post/to/) [become](/zh/post/become/) [less](/zh/post/less/) [serious](/zh/post/serious/))

@@ -7,27 +7,27 @@ description = '[əbˈsɔːb] vt.吸收；使专心'
 keywords = ['ai words', 'absorb']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əbˈsɔrb/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [take](/en/post/take/) [in](/en/post/in/) [or](/en/post/or/) [soak](/en/post/soak/) [up](/en/post/up/) ([a](/en/post/a/) [liquid](/en/post/liquid/), [light](/en/post/light/), [or](/en/post/or/) [other](/en/post/other/) [substance](/en/post/substance/)) [by](/en/post/by/) [chemical](/en/post/chemical/) [or](/en/post/or/) [physical](/en/post/physical/) [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sponge](/en/post/sponge/) absorbs [water](/en/post/water/) [quickly](/en/post/quickly/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) incorporate [or](/en/post/or/) assimilate (ideas, experiences, etc.) [into](/en/post/into/) one's [mind](/en/post/mind/) [or](/en/post/or/) personality. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) absorbed [the](/en/post/the/) lessons [from](/en/post/from/) [her](/en/post/her/) mentor."
+- **[Verb](/post/verb/)**: [To](/post/to/) [take](/post/take/) [in](/post/in/) [or](/post/or/) [soak](/post/soak/) [up](/post/up/) ([a](/post/a/) [liquid](/post/liquid/), [light](/post/light/), [or](/post/or/) [other](/post/other/) [substance](/post/substance/)) [by](/post/by/) [chemical](/post/chemical/) [or](/post/or/) [physical](/post/physical/) [action](/post/action/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sponge](/post/sponge/) absorbs [water](/post/water/) [quickly](/post/quickly/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) incorporate [or](/post/or/) assimilate (ideas, experiences, etc.) [into](/post/into/) one's [mind](/post/mind/) [or](/post/or/) personality. [For](/post/for/) [example](/post/example/): "[She](/post/she/) absorbed [the](/post/the/) lessons [from](/post/from/) [her](/post/her/) mentor."
 
 ## Phrases
-- "[Absorb](/en/post/absorb/) [the](/en/post/the/) [cost](/en/post/cost/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [on](/en/post/on/) [the](/en/post/the/) [financial](/en/post/financial/) [burden](/en/post/burden/) [of](/en/post/of/) [something](/en/post/something/) [without](/en/post/without/) passing [it](/en/post/it/) [on](/en/post/on/).
-- "[Absorb](/en/post/absorb/) [information](/en/post/information/)" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [learning](/en/post/learning/) [or](/en/post/or/) [understanding](/en/post/understanding/) [new](/en/post/new/) [data](/en/post/data/) [or](/en/post/or/) [knowledge](/en/post/knowledge/).
-- "[Absorb](/en/post/absorb/) [shock](/en/post/shock/)" describes [the](/en/post/the/) capability [of](/en/post/of/) [a](/en/post/a/) [material](/en/post/material/) [or](/en/post/or/) [system](/en/post/system/) [to](/en/post/to/) [lessen](/en/post/lessen/) [the](/en/post/the/) [impact](/en/post/impact/) [of](/en/post/of/) [a](/en/post/a/) [blow](/en/post/blow/) [or](/en/post/or/) [sudden](/en/post/sudden/) [force](/en/post/force/).
+- "[Absorb](/post/absorb/) [the](/post/the/) [cost](/post/cost/)" [means](/post/means/) [to](/post/to/) [take](/post/take/) [on](/post/on/) [the](/post/the/) [financial](/post/financial/) [burden](/post/burden/) [of](/post/of/) [something](/post/something/) [without](/post/without/) passing [it](/post/it/) [on](/post/on/).
+- "[Absorb](/post/absorb/) [information](/post/information/)" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) [learning](/post/learning/) [or](/post/or/) [understanding](/post/understanding/) [new](/post/new/) [data](/post/data/) [or](/post/or/) [knowledge](/post/knowledge/).
+- "[Absorb](/post/absorb/) [shock](/post/shock/)" describes [the](/post/the/) capability [of](/post/of/) [a](/post/a/) [material](/post/material/) [or](/post/or/) [system](/post/system/) [to](/post/to/) [lessen](/post/lessen/) [the](/post/the/) [impact](/post/impact/) [of](/post/of/) [a](/post/a/) [blow](/post/blow/) [or](/post/or/) [sudden](/post/sudden/) [force](/post/force/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [towel](/en/post/towel/) absorbed [the](/en/post/the/) [spill](/en/post/spill/) [on](/en/post/on/) [the](/en/post/the/) countertop."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) spent hours [reading](/en/post/reading/), absorbing [every](/en/post/every/) [detail](/en/post/detail/) [about](/en/post/about/) [the](/en/post/the/) [subject](/en/post/subject/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [towel](/post/towel/) absorbed [the](/post/the/) [spill](/post/spill/) [on](/post/on/) [the](/post/the/) countertop."
+- **[Verb](/post/verb/)**: "[He](/post/he/) spent hours [reading](/post/reading/), absorbing [every](/post/every/) [detail](/post/detail/) [about](/post/about/) [the](/post/the/) [subject](/post/subject/)."
 
 ## Synonyms
-- [Soak](/en/post/soak/) [up](/en/post/up/)
-- [Suck](/en/post/suck/) [up](/en/post/up/)
-- [Take](/en/post/take/) [in](/en/post/in/)
-- [Swallow](/en/post/swallow/) [up](/en/post/up/)
-- [Digest](/en/post/digest/)
+- [Soak](/post/soak/) [up](/post/up/)
+- [Suck](/post/suck/) [up](/post/up/)
+- [Take](/post/take/) [in](/post/in/)
+- [Swallow](/post/swallow/) [up](/post/up/)
+- [Digest](/post/digest/)
 - Assimilate
 - Incorporate

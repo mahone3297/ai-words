@@ -7,20 +7,20 @@ description = '[ˈinsʌlt] vt.&n.侮辱，凌辱'
 keywords = ['ai words', 'insult']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈsʌlt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [expression](/en/post/expression/) [or](/en/post/or/) [act](/en/post/act/) [that](/en/post/that/) causes [someone](/en/post/someone/) [to](/en/post/to/) [feel](/en/post/feel/) offended, [hurt](/en/post/hurt/), [or](/en/post/or/) belittled; [a](/en/post/a/) disrespectful [or](/en/post/or/) scornful [remark](/en/post/remark/) [or](/en/post/or/) [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) words were intended [as](/en/post/as/) an [insult](/en/post/insult/) [to](/en/post/to/) [her](/en/post/her/) [intelligence](/en/post/intelligence/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [treat](/en/post/treat/) [with](/en/post/with/) disrespect [or](/en/post/or/) [contempt](/en/post/contempt/) [by](/en/post/by/) making offensive remarks [or](/en/post/or/) gestures; [to](/en/post/to/) demean [or](/en/post/or/) degrade [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) couldn't [believe](/en/post/believe/) [he](/en/post/he/) had insulted [her](/en/post/her/) [in](/en/post/in/) [front](/en/post/front/) [of](/en/post/of/) [their](/en/post/their/) friends."
+- **[Noun](/post/noun/)**: An [expression](/post/expression/) [or](/post/or/) [act](/post/act/) [that](/post/that/) causes [someone](/post/someone/) [to](/post/to/) [feel](/post/feel/) offended, [hurt](/post/hurt/), [or](/post/or/) belittled; [a](/post/a/) disrespectful [or](/post/or/) scornful [remark](/post/remark/) [or](/post/or/) [action](/post/action/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) words were intended [as](/post/as/) an [insult](/post/insult/) [to](/post/to/) [her](/post/her/) [intelligence](/post/intelligence/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [treat](/post/treat/) [with](/post/with/) disrespect [or](/post/or/) [contempt](/post/contempt/) [by](/post/by/) making offensive remarks [or](/post/or/) gestures; [to](/post/to/) demean [or](/post/or/) degrade [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) couldn't [believe](/post/believe/) [he](/post/he/) had insulted [her](/post/her/) [in](/post/in/) [front](/post/front/) [of](/post/of/) [their](/post/their/) friends."
 
 ### Phrases
-- "[To](/en/post/to/) [offer](/en/post/offer/)/[throw](/en/post/throw/) an [insult](/en/post/insult/)": [To](/en/post/to/) [say](/en/post/say/) [or](/en/post/or/) [do](/en/post/do/) [something](/en/post/something/) [that](/en/post/that/) is meant [to](/en/post/to/) [be](/en/post/be/) offensive.
-- "[Insult](/en/post/insult/) [to](/en/post/to/) [injury](/en/post/injury/)": An [additional](/en/post/additional/) [source](/en/post/source/) [of](/en/post/of/) [harm](/en/post/harm/) [or](/en/post/or/) irritation [following](/en/post/following/) an [initial](/en/post/initial/) setback [or](/en/post/or/) [problem](/en/post/problem/). [For](/en/post/for/) [example](/en/post/example/): "Having lost [the](/en/post/the/) [game](/en/post/game/) was [bad](/en/post/bad/) [enough](/en/post/enough/), [but](/en/post/but/) losing [it](/en/post/it/) [to](/en/post/to/) [our](/en/post/our/) arch-rivals was adding [insult](/en/post/insult/) [to](/en/post/to/) [injury](/en/post/injury/)."
+- "[To](/post/to/) [offer](/post/offer/)/[throw](/post/throw/) an [insult](/post/insult/)": [To](/post/to/) [say](/post/say/) [or](/post/or/) [do](/post/do/) [something](/post/something/) [that](/post/that/) is meant [to](/post/to/) [be](/post/be/) offensive.
+- "[Insult](/post/insult/) [to](/post/to/) [injury](/post/injury/)": An [additional](/post/additional/) [source](/post/source/) [of](/post/of/) [harm](/post/harm/) [or](/post/or/) irritation [following](/post/following/) an [initial](/post/initial/) setback [or](/post/or/) [problem](/post/problem/). [For](/post/for/) [example](/post/example/): "Having lost [the](/post/the/) [game](/post/game/) was [bad](/post/bad/) [enough](/post/enough/), [but](/post/but/) losing [it](/post/it/) [to](/post/to/) [our](/post/our/) arch-rivals was adding [insult](/post/insult/) [to](/post/to/) [injury](/post/injury/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [constant](/en/post/constant/) insults [eventually](/en/post/eventually/) led [her](/en/post/her/) [to](/en/post/to/) [end](/en/post/end/) [the](/en/post/the/) [friendship](/en/post/friendship/)."
-- **[Verb](/en/post/verb/)**: "Don't [insult](/en/post/insult/) [my](/en/post/my/) [intelligence](/en/post/intelligence/) [by](/en/post/by/) lying [to](/en/post/to/) [me](/en/post/me/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [constant](/post/constant/) insults [eventually](/post/eventually/) led [her](/post/her/) [to](/post/to/) [end](/post/end/) [the](/post/the/) [friendship](/post/friendship/)."
+- **[Verb](/post/verb/)**: "Don't [insult](/post/insult/) [my](/post/my/) [intelligence](/post/intelligence/) [by](/post/by/) lying [to](/post/to/) [me](/post/me/)."
 
 ## Synonyms
 - Affront
@@ -33,9 +33,9 @@ keywords = ['ai words', 'insult']
 - Taunt
 - Demeaning Remarks
 
-Antonyms ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) '[to](/en/post/to/) [insult](/en/post/insult/)'):
-- [Respect](/en/post/respect/)
+Antonyms ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) '[to](/post/to/) [insult](/post/insult/)'):
+- [Respect](/post/respect/)
 - Compliment
-- [Praise](/en/post/praise/)
+- [Praise](/post/praise/)
 - Honor
-- [Admire](/en/post/admire/)
+- [Admire](/post/admire/)

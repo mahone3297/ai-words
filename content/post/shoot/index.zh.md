@@ -12,29 +12,29 @@ keywords = ['ai words', 'shoot']
 
 ## 释义
 - **动词**:
-1. 射击；发射：例如 "[The](/post/the/) hunter [shot](/post/shot/) an [arrow](/post/arrow/) [at](/post/at/) [the](/post/the/) [deer](/post/deer/)."
-2. 拍摄（照片或影片）：例如 "They're shooting [a](/post/a/) [new](/post/new/) [movie](/post/movie/) downtown."
-3. 快速移动：例如 "[The](/post/the/) [runner](/post/runner/) [shot](/post/shot/) [past](/post/past/) [the](/post/the/) [finish](/post/finish/) [line](/post/line/)."
-4. 发送（信息等）：例如 "I'll [shoot](/post/shoot/) [you](/post/you/) an email [later](/post/later/)."
+1. 射击；发射：例如 "[The](/zh/post/the/) hunter [shot](/zh/post/shot/) an [arrow](/zh/post/arrow/) [at](/zh/post/at/) [the](/zh/post/the/) [deer](/zh/post/deer/)."
+2. 拍摄（照片或影片）：例如 "They're shooting [a](/zh/post/a/) [new](/zh/post/new/) [movie](/zh/post/movie/) downtown."
+3. 快速移动：例如 "[The](/zh/post/the/) [runner](/zh/post/runner/) [shot](/zh/post/shot/) [past](/zh/post/past/) [the](/zh/post/the/) [finish](/zh/post/finish/) [line](/zh/post/line/)."
+4. 发送（信息等）：例如 "I'll [shoot](/zh/post/shoot/) [you](/zh/post/you/) an email [later](/zh/post/later/)."
 
 - **名词**:
-1. 射击；发射：例如 "[He](/post/he/) took [a](/post/a/) long-range [shot](/post/shot/) [and](/post/and/) scored [a](/post/a/) [goal](/post/goal/)."
-2. （篮球、足球等运动中的）投篮、射门：例如 "[The](/post/the/) striker made [a](/post/a/) [powerful](/post/powerful/) [shot](/post/shot/) [at](/post/at/) [the](/post/the/) [goal](/post/goal/)."
-3. 照片或影片的拍摄：例如 "[The](/post/the/) [director](/post/director/) is [happy](/post/happy/) [with](/post/with/) today's [shoot](/post/shoot/)."
+1. 射击；发射：例如 "[He](/zh/post/he/) took [a](/zh/post/a/) long-range [shot](/zh/post/shot/) [and](/zh/post/and/) scored [a](/zh/post/a/) [goal](/zh/post/goal/)."
+2. （篮球、足球等运动中的）投篮、射门：例如 "[The](/zh/post/the/) striker made [a](/zh/post/a/) [powerful](/zh/post/powerful/) [shot](/zh/post/shot/) [at](/zh/post/at/) [the](/zh/post/the/) [goal](/zh/post/goal/)."
+3. 照片或影片的拍摄：例如 "[The](/zh/post/the/) [director](/zh/post/director/) is [happy](/zh/post/happy/) [with](/zh/post/with/) today's [shoot](/zh/post/shoot/)."
 
 ## 短语
-- "[Take](/post/take/) [a](/post/a/) [shot](/post/shot/)" 意为尝试或试图做某事。例如: "I decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [shot](/post/shot/) [at](/post/at/) solving [the](/post/the/) [problem](/post/problem/)."
-- "[On](/post/on/) [target](/post/target/)" 表示射击准确或目标达成。例如: "[His](/post/his/) [shot](/post/shot/) was [right](/post/right/) [on](/post/on/) [target](/post/target/)."
+- "[Take](/zh/post/take/) [a](/zh/post/a/) [shot](/zh/post/shot/)" 意为尝试或试图做某事。例如: "I decided [to](/zh/post/to/) [take](/zh/post/take/) [a](/zh/post/a/) [shot](/zh/post/shot/) [at](/zh/post/at/) solving [the](/zh/post/the/) [problem](/zh/post/problem/)."
+- "[On](/zh/post/on/) [target](/zh/post/target/)" 表示射击准确或目标达成。例如: "[His](/zh/post/his/) [shot](/zh/post/shot/) was [right](/zh/post/right/) [on](/zh/post/on/) [target](/zh/post/target/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [police](/post/police/) [officer](/post/officer/) [shot](/post/shot/) [the](/post/the/) attacker [in](/post/in/) self-defense."
-- 名词: "[The](/post/the/) golfer [hit](/post/hit/) [a](/post/a/) [perfect](/post/perfect/) [shot](/post/shot/) [that](/post/that/) landed [in](/post/in/) [the](/post/the/) [hole](/post/hole/)."
+- 动词: "[The](/zh/post/the/) [police](/zh/post/police/) [officer](/zh/post/officer/) [shot](/zh/post/shot/) [the](/zh/post/the/) attacker [in](/zh/post/in/) self-defense."
+- 名词: "[The](/zh/post/the/) golfer [hit](/zh/post/hit/) [a](/zh/post/a/) [perfect](/zh/post/perfect/) [shot](/zh/post/shot/) [that](/zh/post/that/) landed [in](/zh/post/in/) [the](/zh/post/the/) [hole](/zh/post/hole/)."
 
 ## 同义词
-- [Fire](/post/fire/)
-- [Launch](/post/launch/)
-- [Aim](/post/aim/)
-- [Hit](/post/hit/)
-- Dispatch ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))
-- [Bullet](/post/bullet/)
-- [Strike](/post/strike/) ([as](/post/as/) [a](/post/a/) [noun](/post/noun/))
+- [Fire](/zh/post/fire/)
+- [Launch](/zh/post/launch/)
+- [Aim](/zh/post/aim/)
+- [Hit](/zh/post/hit/)
+- Dispatch ([as](/zh/post/as/) [a](/zh/post/a/) [verb](/zh/post/verb/))
+- [Bullet](/zh/post/bullet/)
+- [Strike](/zh/post/strike/) ([as](/zh/post/as/) [a](/zh/post/a/) [noun](/zh/post/noun/))

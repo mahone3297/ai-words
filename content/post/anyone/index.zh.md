@@ -11,19 +11,19 @@ keywords = ['ai words', 'anyone']
 /ˈenɪwʌn/
 
 ## 释义
-- **代词**: 任何人，无论哪个人，随便哪个人。常用于疑问句和否定句中，表示不确定或泛指。例如: "Does [anyone](/post/anyone/) [know](/post/know/) [the](/post/the/) [answer](/post/answer/)?"，"I can't [see](/post/see/) [anyone](/post/anyone/) [in](/post/in/) [the](/post/the/) [room](/post/room/)."
+- **代词**: 任何人，无论哪个人，随便哪个人。常用于疑问句和否定句中，表示不确定或泛指。例如: "Does [anyone](/zh/post/anyone/) [know](/zh/post/know/) [the](/zh/post/the/) [answer](/zh/post/answer/)?"，"I can't [see](/zh/post/see/) [anyone](/zh/post/anyone/) [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/)."
 
 ## 短语
-- "Anyone's [guess](/post/guess/)" 意味着无法确定，只能猜测。例如: "[The](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [the](/post/the/) [election](/post/election/) is anyone's [guess](/post/guess/)."
-- "[Anyone](/post/anyone/) [but](/post/but/) [him](/post/him/)" 表示除了指定的那个人以外的任何人都行。例如: "I'll [work](/post/work/) [with](/post/with/) [anyone](/post/anyone/) [but](/post/but/) [him](/post/him/)."
+- "Anyone's [guess](/zh/post/guess/)" 意味着无法确定，只能猜测。例如: "[The](/zh/post/the/) [outcome](/zh/post/outcome/) [of](/zh/post/of/) [the](/zh/post/the/) [election](/zh/post/election/) is anyone's [guess](/zh/post/guess/)."
+- "[Anyone](/zh/post/anyone/) [but](/zh/post/but/) [him](/zh/post/him/)" 表示除了指定的那个人以外的任何人都行。例如: "I'll [work](/zh/post/work/) [with](/zh/post/with/) [anyone](/zh/post/anyone/) [but](/zh/post/but/) [him](/zh/post/him/)."
 
 ## 例句
-- "Is [there](/post/there/) [anyone](/post/anyone/) [in](/post/in/) [the](/post/the/) [office](/post/office/) [who](/post/who/) [can](/post/can/) [help](/post/help/) [me](/post/me/)?"
-- "I don't [think](/post/think/) [anyone](/post/anyone/) [saw](/post/saw/) [us](/post/us/) [leave](/post/leave/)."
-- "It's [so](/post/so/) [quiet](/post/quiet/) [here](/post/here/); [it](/post/it/) feels [like](/post/like/) [there](/post/there/) isn't [anyone](/post/anyone/) [around](/post/around/)."
+- "Is [there](/zh/post/there/) [anyone](/zh/post/anyone/) [in](/zh/post/in/) [the](/zh/post/the/) [office](/zh/post/office/) [who](/zh/post/who/) [can](/zh/post/can/) [help](/zh/post/help/) [me](/zh/post/me/)?"
+- "I don't [think](/zh/post/think/) [anyone](/zh/post/anyone/) [saw](/zh/post/saw/) [us](/zh/post/us/) [leave](/zh/post/leave/)."
+- "It's [so](/zh/post/so/) [quiet](/zh/post/quiet/) [here](/zh/post/here/); [it](/zh/post/it/) feels [like](/zh/post/like/) [there](/zh/post/there/) isn't [anyone](/zh/post/anyone/) [around](/zh/post/around/)."
 
 ## 同义词
-- [anybody](/post/anybody/)
-- [whoever](/post/whoever/)
-- [any](/post/any/) [person](/post/person/)
-- [somebody](/post/somebody/) (在肯定句中可用作同义词)
+- [anybody](/zh/post/anybody/)
+- [whoever](/zh/post/whoever/)
+- [any](/zh/post/any/) [person](/zh/post/person/)
+- [somebody](/zh/post/somebody/) (在肯定句中可用作同义词)

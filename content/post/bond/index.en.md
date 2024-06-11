@@ -7,39 +7,39 @@ description = '[bɔnd] n.联结，联系；公债'
 keywords = ['ai words', 'bond']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbɒnd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [financial](/en/post/financial/) [instrument](/en/post/instrument/) representing [a](/en/post/a/) [debt](/en/post/debt/) [or](/en/post/or/) [security](/en/post/security/), typically [with](/en/post/with/) [a](/en/post/a/) fixed [interest](/en/post/interest/) [rate](/en/post/rate/) [and](/en/post/and/) [a](/en/post/a/) [set](/en/post/set/) maturity [date](/en/post/date/), issued [by](/en/post/by/) [a](/en/post/a/) [corporation](/en/post/corporation/) [or](/en/post/or/) [government](/en/post/government/) [to](/en/post/to/) [raise](/en/post/raise/) [capital](/en/post/capital/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) issued [new](/en/post/new/) bonds [to](/en/post/to/) [finance](/en/post/finance/) [their](/en/post/their/) [expansion](/en/post/expansion/) [project](/en/post/project/)."
-2. [A](/en/post/a/) [strong](/en/post/strong/) [emotional](/en/post/emotional/) [or](/en/post/or/) [social](/en/post/social/) [connection](/en/post/connection/) [between](/en/post/between/) [people](/en/post/people/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is [close](/en/post/close/) [and](/en/post/and/) enduring.
-   - [Example](/en/post/example/): "[Their](/en/post/their/) [bond](/en/post/bond/) [as](/en/post/as/) friends had lasted [for](/en/post/for/) decades."
-3. [A](/en/post/a/) [chemical](/en/post/chemical/) [compound](/en/post/compound/) formed [by](/en/post/by/) [the](/en/post/the/) [union](/en/post/union/) [of](/en/post/of/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) atoms, [especially](/en/post/especially/) [through](/en/post/through/) covalent bonding.
-   - [Example](/en/post/example/): "[Water](/en/post/water/) consists [of](/en/post/of/) [hydrogen](/en/post/hydrogen/) [and](/en/post/and/) oxygen atoms bonded [together](/en/post/together/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [financial](/post/financial/) [instrument](/post/instrument/) representing [a](/post/a/) [debt](/post/debt/) [or](/post/or/) [security](/post/security/), typically [with](/post/with/) [a](/post/a/) fixed [interest](/post/interest/) [rate](/post/rate/) [and](/post/and/) [a](/post/a/) [set](/post/set/) maturity [date](/post/date/), issued [by](/post/by/) [a](/post/a/) [corporation](/post/corporation/) [or](/post/or/) [government](/post/government/) [to](/post/to/) [raise](/post/raise/) [capital](/post/capital/).
+   - [Example](/post/example/): "[The](/post/the/) [company](/post/company/) issued [new](/post/new/) bonds [to](/post/to/) [finance](/post/finance/) [their](/post/their/) [expansion](/post/expansion/) [project](/post/project/)."
+2. [A](/post/a/) [strong](/post/strong/) [emotional](/post/emotional/) [or](/post/or/) [social](/post/social/) [connection](/post/connection/) [between](/post/between/) [people](/post/people/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is [close](/post/close/) [and](/post/and/) enduring.
+   - [Example](/post/example/): "[Their](/post/their/) [bond](/post/bond/) [as](/post/as/) friends had lasted [for](/post/for/) decades."
+3. [A](/post/a/) [chemical](/post/chemical/) [compound](/post/compound/) formed [by](/post/by/) [the](/post/the/) [union](/post/union/) [of](/post/of/) [two](/post/two/) [or](/post/or/) [more](/post/more/) atoms, [especially](/post/especially/) [through](/post/through/) covalent bonding.
+   - [Example](/post/example/): "[Water](/post/water/) consists [of](/post/of/) [hydrogen](/post/hydrogen/) [and](/post/and/) oxygen atoms bonded [together](/post/together/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [connect](/en/post/connect/) [or](/en/post/or/) [unite](/en/post/unite/) ([people](/en/post/people/) [or](/en/post/or/) things) [through](/en/post/through/) [a](/en/post/a/) [bond](/en/post/bond/) [or](/en/post/or/) [a](/en/post/a/) shared [interest](/en/post/interest/).
-   - [Example](/en/post/example/): "[They](/en/post/they/) bonded [over](/en/post/over/) [their](/en/post/their/) [love](/en/post/love/) [for](/en/post/for/) [music](/en/post/music/)."
-2. [To](/en/post/to/) [secure](/en/post/secure/) [or](/en/post/or/) [fasten](/en/post/fasten/) using [a](/en/post/a/) [bond](/en/post/bond/), [such](/en/post/such/) [as](/en/post/as/) adhesive [or](/en/post/or/) [a](/en/post/a/) [financial](/en/post/financial/) [bond](/en/post/bond/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [worker](/en/post/worker/) bonded [the](/en/post/the/) [metal](/en/post/metal/) pieces [together](/en/post/together/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [connect](/post/connect/) [or](/post/or/) [unite](/post/unite/) ([people](/post/people/) [or](/post/or/) things) [through](/post/through/) [a](/post/a/) [bond](/post/bond/) [or](/post/or/) [a](/post/a/) shared [interest](/post/interest/).
+   - [Example](/post/example/): "[They](/post/they/) bonded [over](/post/over/) [their](/post/their/) [love](/post/love/) [for](/post/for/) [music](/post/music/)."
+2. [To](/post/to/) [secure](/post/secure/) [or](/post/or/) [fasten](/post/fasten/) using [a](/post/a/) [bond](/post/bond/), [such](/post/such/) [as](/post/as/) adhesive [or](/post/or/) [a](/post/a/) [financial](/post/financial/) [bond](/post/bond/).
+   - [Example](/post/example/): "[The](/post/the/) [worker](/post/worker/) bonded [the](/post/the/) [metal](/post/metal/) pieces [together](/post/together/)."
 
 ## Phrases
-- "[Bond](/en/post/bond/) [with](/en/post/with/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [close](/en/post/close/) [relationship](/en/post/relationship/) [or](/en/post/or/) [connection](/en/post/connection/).
-- "[Bond](/en/post/bond/) [market](/en/post/market/)" refers [to](/en/post/to/) [the](/en/post/the/) [financial](/en/post/financial/) [market](/en/post/market/) [where](/en/post/where/) bonds are bought [and](/en/post/and/) sold.
-- "Bonds [of](/en/post/of/) [friendship](/en/post/friendship/)" symbolize [strong](/en/post/strong/) ties [between](/en/post/between/) individuals.
+- "[Bond](/post/bond/) [with](/post/with/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [form](/post/form/) [a](/post/a/) [close](/post/close/) [relationship](/post/relationship/) [or](/post/or/) [connection](/post/connection/).
+- "[Bond](/post/bond/) [market](/post/market/)" refers [to](/post/to/) [the](/post/the/) [financial](/post/financial/) [market](/post/market/) [where](/post/where/) bonds are bought [and](/post/and/) sold.
+- "Bonds [of](/post/of/) [friendship](/post/friendship/)" symbolize [strong](/post/strong/) ties [between](/post/between/) individuals.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) government's [bond](/en/post/bond/) auction was oversubscribed, indicating [strong](/en/post/strong/) investor [confidence](/en/post/confidence/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [they](/en/post/they/) [finally](/en/post/finally/) bonded [the](/en/post/the/) houses [together](/en/post/together/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [single](/en/post/single/) [property](/en/post/property/)."
-- **[Emotional](/en/post/emotional/) [Bond](/en/post/bond/)**: "[Their](/en/post/their/) [bond](/en/post/bond/) [as](/en/post/as/) siblings was unbreakable, [even](/en/post/even/) [during](/en/post/during/) [difficult](/en/post/difficult/) times."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) government's [bond](/post/bond/) auction was oversubscribed, indicating [strong](/post/strong/) investor [confidence](/post/confidence/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) years [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [they](/post/they/) [finally](/post/finally/) bonded [the](/post/the/) houses [together](/post/together/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [single](/post/single/) [property](/post/property/)."
+- **[Emotional](/post/emotional/) [Bond](/post/bond/)**: "[Their](/post/their/) [bond](/post/bond/) [as](/post/as/) siblings was unbreakable, [even](/post/even/) [during](/post/during/) [difficult](/post/difficult/) times."
 
 ## Synonyms
 - Ties
 - Attachment
 - Affinity
-- [Connection](/en/post/connection/)
+- [Connection](/post/connection/)
 - Alliance
-- [Link](/en/post/link/)
-- [Relationship](/en/post/relationship/)
+- [Link](/post/link/)
+- [Relationship](/post/relationship/)

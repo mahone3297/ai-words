@@ -12,26 +12,26 @@ keywords = ['ai words', 'division']
 
 ## 释义
 - **名词**:
-    1. 分割；划分：[The](/post/the/) [company](/post/company/) underwent [a](/post/a/) [major](/post/major/) [division](/post/division/) [of](/post/of/) responsibilities.
-    2. 部门；科室：[The](/post/the/) sales [division](/post/division/) is [responsible](/post/responsible/) [for](/post/for/) increasing revenue.
-    3. 数学中的除法：[In](/post/in/) [arithmetic](/post/arithmetic/), [division](/post/division/) is [the](/post/the/) inverse [of](/post/of/) multiplication.
-    4. 军队的编制单位：[The](/post/the/) [First](/post/first/) [Division](/post/division/) was sent [to](/post/to/) [the](/post/the/) [front](/post/front/) lines.
+    1. 分割；划分：[The](/zh/post/the/) [company](/zh/post/company/) underwent [a](/zh/post/a/) [major](/zh/post/major/) [division](/zh/post/division/) [of](/zh/post/of/) responsibilities.
+    2. 部门；科室：[The](/zh/post/the/) sales [division](/zh/post/division/) is [responsible](/zh/post/responsible/) [for](/zh/post/for/) increasing revenue.
+    3. 数学中的除法：[In](/zh/post/in/) [arithmetic](/zh/post/arithmetic/), [division](/zh/post/division/) is [the](/zh/post/the/) inverse [of](/zh/post/of/) multiplication.
+    4. 军队的编制单位：[The](/zh/post/the/) [First](/zh/post/first/) [Division](/zh/post/division/) was sent [to](/zh/post/to/) [the](/zh/post/the/) [front](/zh/post/front/) lines.
 
 - **动词**:
-    1. 将…分开：[We](/post/we/) divided [the](/post/the/) [work](/post/work/) equally [among](/post/among/) [the](/post/the/) [team](/post/team/) members.
-    2. 引起分歧：[The](/post/the/) [issue](/post/issue/) [of](/post/of/) taxation has divided [public](/post/public/) [opinion](/post/opinion/).
+    1. 将…分开：[We](/zh/post/we/) divided [the](/zh/post/the/) [work](/zh/post/work/) equally [among](/zh/post/among/) [the](/zh/post/the/) [team](/zh/post/team/) members.
+    2. 引起分歧：[The](/zh/post/the/) [issue](/zh/post/issue/) [of](/zh/post/of/) taxation has divided [public](/zh/post/public/) [opinion](/zh/post/opinion/).
 
 ## 短语
-- "[Division](/post/division/) [of](/post/of/) labor" 指劳动分工。
-- "[Divide](/post/divide/) [and](/post/and/) [conquer](/post/conquer/)" 是一种策略，意为“分而治之”。
+- "[Division](/zh/post/division/) [of](/zh/post/of/) labor" 指劳动分工。
+- "[Divide](/zh/post/divide/) [and](/zh/post/and/) [conquer](/zh/post/conquer/)" 是一种策略，意为“分而治之”。
 
 ## 例句
-- 名词: "[The](/post/the/) math [class](/post/class/) focused [on](/post/on/) [long](/post/long/) [division](/post/division/) exercises."
-- 动词: "[The](/post/the/) [coach](/post/coach/) divided [the](/post/the/) [team](/post/team/) [into](/post/into/) [two](/post/two/) groups [for](/post/for/) [practice](/post/practice/)."
+- 名词: "[The](/zh/post/the/) math [class](/zh/post/class/) focused [on](/zh/post/on/) [long](/zh/post/long/) [division](/zh/post/division/) exercises."
+- 动词: "[The](/zh/post/the/) [coach](/zh/post/coach/) divided [the](/zh/post/the/) [team](/zh/post/team/) [into](/zh/post/into/) [two](/zh/post/two/) groups [for](/zh/post/for/) [practice](/zh/post/practice/)."
 
 ## 同义词
-- [Separation](/post/separation/)
-- [Split](/post/split/)
+- [Separation](/zh/post/separation/)
+- [Split](/zh/post/split/)
 - Divisional (形容词形式，表示“属于某个部门的”)
 - Breakup
 - Disunion

@@ -12,20 +12,20 @@ keywords = ['ai words', 'depend']
 
 ## 释义
 - **动词**:
-  - 依靠；依赖：指依靠某人、某物或某种情况。例如: "[She](/post/she/) depends [on](/post/on/) [her](/post/her/) friends [for](/post/for/) [emotional](/post/emotional/) [support](/post/support/)."
-  - 取决于；依据：表示结果或情况取决于其他因素。例如: "[The](/post/the/) [success](/post/success/) [of](/post/of/) [the](/post/the/) [project](/post/project/) depends [largely](/post/largely/) [on](/post/on/) [your](/post/your/) involvement."
+  - 依靠；依赖：指依靠某人、某物或某种情况。例如: "[She](/zh/post/she/) depends [on](/zh/post/on/) [her](/zh/post/her/) friends [for](/zh/post/for/) [emotional](/zh/post/emotional/) [support](/zh/post/support/)."
+  - 取决于；依据：表示结果或情况取决于其他因素。例如: "[The](/zh/post/the/) [success](/zh/post/success/) [of](/zh/post/of/) [the](/zh/post/the/) [project](/zh/post/project/) depends [largely](/zh/post/largely/) [on](/zh/post/on/) [your](/zh/post/your/) involvement."
 
 ## 短语
-- "[depend](/post/depend/) [on](/post/on/)/[upon](/post/upon/)" 意为依靠或依赖。例如: "I can't [go](/post/go/) [without](/post/without/) [your](/post/your/) [help](/post/help/); I [depend](/post/depend/) [on](/post/on/) [you](/post/you/)."
-- "[it](/post/it/) depends" 常用来表示情况因具体情况而异。例如: "[Will](/post/will/) [you](/post/you/) [come](/post/come/) [to](/post/to/) [the](/post/the/) [party](/post/party/)? [It](/post/it/) depends [if](/post/if/) I [finish](/post/finish/) [my](/post/my/) [work](/post/work/) [early](/post/early/)."
+- "[depend](/zh/post/depend/) [on](/zh/post/on/)/[upon](/zh/post/upon/)" 意为依靠或依赖。例如: "I can't [go](/zh/post/go/) [without](/zh/post/without/) [your](/zh/post/your/) [help](/zh/post/help/); I [depend](/zh/post/depend/) [on](/zh/post/on/) [you](/zh/post/you/)."
+- "[it](/zh/post/it/) depends" 常用来表示情况因具体情况而异。例如: "[Will](/zh/post/will/) [you](/zh/post/you/) [come](/zh/post/come/) [to](/zh/post/to/) [the](/zh/post/the/) [party](/zh/post/party/)? [It](/zh/post/it/) depends [if](/zh/post/if/) I [finish](/zh/post/finish/) [my](/zh/post/my/) [work](/zh/post/work/) [early](/zh/post/early/)."
 
 ## 例句
-- 动词: "[He](/post/he/) depends [heavily](/post/heavily/) [on](/post/on/) [his](/post/his/) brother's [financial](/post/financial/) assistance."
-- "[The](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [the](/post/the/) [game](/post/game/) depends [on](/post/on/) [the](/post/the/) team's [performance](/post/performance/)."
+- 动词: "[He](/zh/post/he/) depends [heavily](/zh/post/heavily/) [on](/zh/post/on/) [his](/zh/post/his/) brother's [financial](/zh/post/financial/) assistance."
+- "[The](/zh/post/the/) [outcome](/zh/post/outcome/) [of](/zh/post/of/) [the](/zh/post/the/) [game](/zh/post/game/) depends [on](/zh/post/on/) [the](/zh/post/the/) team's [performance](/zh/post/performance/)."
 
 ## 同义词
-- [rely](/post/rely/)
-- [count](/post/count/) [on](/post/on/)
-- [trust](/post/trust/)
-- [be](/post/be/) based [on](/post/on/)
-- [rest](/post/rest/) [upon](/post/upon/)
+- [rely](/zh/post/rely/)
+- [count](/zh/post/count/) [on](/zh/post/on/)
+- [trust](/zh/post/trust/)
+- [be](/zh/post/be/) based [on](/zh/post/on/)
+- [rest](/zh/post/rest/) [upon](/zh/post/upon/)

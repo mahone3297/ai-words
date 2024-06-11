@@ -11,21 +11,21 @@ keywords = ['ai words', 'tired']
 /taɪrɪd/
 
 ## 释义
-- **形容词**: 疲倦的，累的。例如: "I [feel](/post/feel/) [so](/post/so/) [tired](/post/tired/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/)."
-- **动词**: 使（某人）感到疲倦。例如: "[The](/post/the/) [long](/post/long/) hike [tired](/post/tired/) [us](/post/us/) [out](/post/out/)."
+- **形容词**: 疲倦的，累的。例如: "I [feel](/zh/post/feel/) [so](/zh/post/so/) [tired](/zh/post/tired/) [after](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [day](/zh/post/day/) [at](/zh/post/at/) [work](/zh/post/work/)."
+- **动词**: 使（某人）感到疲倦。例如: "[The](/zh/post/the/) [long](/zh/post/long/) hike [tired](/zh/post/tired/) [us](/zh/post/us/) [out](/zh/post/out/)."
 
 ## 短语
-- "[Feel](/post/feel/) [tired](/post/tired/)" 意味着感到疲劳。
-- "[Tired](/post/tired/) [out](/post/out/)" 表示极度疲劳。
-- "[Get](/post/get/) [tired](/post/tired/) [of](/post/of/)" 意为对某事感到厌倦。
+- "[Feel](/zh/post/feel/) [tired](/zh/post/tired/)" 意味着感到疲劳。
+- "[Tired](/zh/post/tired/) [out](/zh/post/out/)" 表示极度疲劳。
+- "[Get](/zh/post/get/) [tired](/zh/post/tired/) [of](/zh/post/of/)" 意为对某事感到厌倦。
 
 ## 例句
-- 形容词: "I'm [too](/post/too/) [tired](/post/tired/) [to](/post/to/) [go](/post/go/) [out](/post/out/) [tonight](/post/tonight/), let's [stay](/post/stay/) [in](/post/in/)."
-- 动词: "[The](/post/the/) babies [tired](/post/tired/) [their](/post/their/) [mother](/post/mother/) [by](/post/by/) crying [all](/post/all/) [night](/post/night/)."
+- 形容词: "I'm [too](/zh/post/too/) [tired](/zh/post/tired/) [to](/zh/post/to/) [go](/zh/post/go/) [out](/zh/post/out/) [tonight](/zh/post/tonight/), let's [stay](/zh/post/stay/) [in](/zh/post/in/)."
+- 动词: "[The](/zh/post/the/) babies [tired](/zh/post/tired/) [their](/zh/post/their/) [mother](/zh/post/mother/) [by](/zh/post/by/) crying [all](/zh/post/all/) [night](/zh/post/night/)."
 
 ## 同义词
 - Exhausted
 - Fatigued
-- [Weary](/post/weary/)
+- [Weary](/zh/post/weary/)
 - Drained
 - Run-down

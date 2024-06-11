@@ -7,44 +7,44 @@ description = '[ˈsəːvis] n.服务；行政部门'
 keywords = ['ai words', 'service']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sərˈvɪs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) providing [goods](/en/post/goods/) [or](/en/post/or/) facilities [to](/en/post/to/) customers, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [restaurant](/en/post/restaurant/), [hotel](/en/post/hotel/), [or](/en/post/or/) [store](/en/post/store/): *[She](/en/post/she/) enjoyed [excellent](/en/post/excellent/) [service](/en/post/service/) [at](/en/post/at/) [the](/en/post/the/) [restaurant](/en/post/restaurant/).*
-2. [A](/en/post/a/) [system](/en/post/system/) [or](/en/post/or/) an individual's [job](/en/post/job/) [of](/en/post/of/) assisting [or](/en/post/or/) attending [to](/en/post/to/) people's needs: *[The](/en/post/the/) [hotel](/en/post/hotel/) [staff](/en/post/staff/) [provided](/en/post/provided/) top-notch [customer](/en/post/customer/) [service](/en/post/service/).*
-3. [Help](/en/post/help/) [or](/en/post/or/) [support](/en/post/support/) given [to](/en/post/to/) [someone](/en/post/someone/): *[The](/en/post/the/) [community](/en/post/community/) came [together](/en/post/together/) [to](/en/post/to/) [provide](/en/post/provide/) [medical](/en/post/medical/) [service](/en/post/service/) [during](/en/post/during/) [the](/en/post/the/) [crisis](/en/post/crisis/).*
-4. An [instance](/en/post/instance/) [or](/en/post/or/) [period](/en/post/period/) [of](/en/post/of/) [work](/en/post/work/) performed: *[He](/en/post/he/) clocked [in](/en/post/in/) [for](/en/post/for/) [his](/en/post/his/) [shift](/en/post/shift/) [at](/en/post/at/) [the](/en/post/the/) [gas](/en/post/gas/) [station](/en/post/station/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) providing [goods](/post/goods/) [or](/post/or/) facilities [to](/post/to/) customers, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [restaurant](/post/restaurant/), [hotel](/post/hotel/), [or](/post/or/) [store](/post/store/): *[She](/post/she/) enjoyed [excellent](/post/excellent/) [service](/post/service/) [at](/post/at/) [the](/post/the/) [restaurant](/post/restaurant/).*
+2. [A](/post/a/) [system](/post/system/) [or](/post/or/) an individual's [job](/post/job/) [of](/post/of/) assisting [or](/post/or/) attending [to](/post/to/) people's needs: *[The](/post/the/) [hotel](/post/hotel/) [staff](/post/staff/) [provided](/post/provided/) top-notch [customer](/post/customer/) [service](/post/service/).*
+3. [Help](/post/help/) [or](/post/or/) [support](/post/support/) given [to](/post/to/) [someone](/post/someone/): *[The](/post/the/) [community](/post/community/) came [together](/post/together/) [to](/post/to/) [provide](/post/provide/) [medical](/post/medical/) [service](/post/service/) [during](/post/during/) [the](/post/the/) [crisis](/post/crisis/).*
+4. An [instance](/post/instance/) [or](/post/or/) [period](/post/period/) [of](/post/of/) [work](/post/work/) performed: *[He](/post/he/) clocked [in](/post/in/) [for](/post/for/) [his](/post/his/) [shift](/post/shift/) [at](/post/at/) [the](/post/the/) [gas](/post/gas/) [station](/post/station/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [perform](/en/post/perform/) [the](/en/post/the/) duties [or](/en/post/or/) tasks [of](/en/post/of/) serving: *[The](/en/post/the/) [waiter](/en/post/waiter/) served [the](/en/post/the/) customers [with](/en/post/with/) [efficiency](/en/post/efficiency/).*
-2. [To](/en/post/to/) [supply](/en/post/supply/) [or](/en/post/or/) [provide](/en/post/provide/) ([a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/)): *[We](/en/post/we/) [aim](/en/post/aim/) [to](/en/post/to/) [serve](/en/post/serve/) [the](/en/post/the/) [best](/en/post/best/) [coffee](/en/post/coffee/) [in](/en/post/in/) [town](/en/post/town/).*
-3. [To](/en/post/to/) [be](/en/post/be/) [useful](/en/post/useful/) [or](/en/post/or/) [beneficial](/en/post/beneficial/) [to](/en/post/to/): *[This](/en/post/this/) [new](/en/post/new/) software [should](/en/post/should/) [greatly](/en/post/greatly/) [improve](/en/post/improve/) [our](/en/post/our/) [service](/en/post/service/) [to](/en/post/to/) clients.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [perform](/post/perform/) [the](/post/the/) duties [or](/post/or/) tasks [of](/post/of/) serving: *[The](/post/the/) [waiter](/post/waiter/) served [the](/post/the/) customers [with](/post/with/) [efficiency](/post/efficiency/).*
+2. [To](/post/to/) [supply](/post/supply/) [or](/post/or/) [provide](/post/provide/) ([a](/post/a/) [product](/post/product/) [or](/post/or/) [service](/post/service/)): *[We](/post/we/) [aim](/post/aim/) [to](/post/to/) [serve](/post/serve/) [the](/post/the/) [best](/post/best/) [coffee](/post/coffee/) [in](/post/in/) [town](/post/town/).*
+3. [To](/post/to/) [be](/post/be/) [useful](/post/useful/) [or](/post/or/) [beneficial](/post/beneficial/) [to](/post/to/): *[This](/post/this/) [new](/post/new/) software [should](/post/should/) [greatly](/post/greatly/) [improve](/post/improve/) [our](/post/our/) [service](/post/service/) [to](/post/to/) clients.*
 
-### [Adjective](/en/post/adjective/)
-1. Given [or](/en/post/or/) done [to](/en/post/to/) fulfill [a](/en/post/a/) [need](/en/post/need/) [or](/en/post/or/) [request](/en/post/request/): *[Our](/en/post/our/) [mission](/en/post/mission/) is [to](/en/post/to/) [offer](/en/post/offer/) [efficient](/en/post/efficient/) [and](/en/post/and/) [friendly](/en/post/friendly/) [service](/en/post/service/).*
-2. Performed [by](/en/post/by/) [a](/en/post/a/) [professional](/en/post/professional/): *[A](/en/post/a/) [skilled](/en/post/skilled/) hairdresser provides salon-quality [service](/en/post/service/).*
-3. Characterizing [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) assistance [or](/en/post/or/) [care](/en/post/care/): *[Excellent](/en/post/excellent/) [customer](/en/post/customer/) [service](/en/post/service/) sets [this](/en/post/this/) [hotel](/en/post/hotel/) [apart](/en/post/apart/).*
+### [Adjective](/post/adjective/)
+1. Given [or](/post/or/) done [to](/post/to/) fulfill [a](/post/a/) [need](/post/need/) [or](/post/or/) [request](/post/request/): *[Our](/post/our/) [mission](/post/mission/) is [to](/post/to/) [offer](/post/offer/) [efficient](/post/efficient/) [and](/post/and/) [friendly](/post/friendly/) [service](/post/service/).*
+2. Performed [by](/post/by/) [a](/post/a/) [professional](/post/professional/): *[A](/post/a/) [skilled](/post/skilled/) hairdresser provides salon-quality [service](/post/service/).*
+3. Characterizing [the](/post/the/) [quality](/post/quality/) [of](/post/of/) assistance [or](/post/or/) [care](/post/care/): *[Excellent](/post/excellent/) [customer](/post/customer/) [service](/post/service/) sets [this](/post/this/) [hotel](/post/hotel/) [apart](/post/apart/).*
 
 ## Phrases
-- "[Provide](/en/post/provide/) [excellent](/en/post/excellent/) [service](/en/post/service/)" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) high-quality assistance [or](/en/post/or/) [care](/en/post/care/).
-- "[Service](/en/post/service/) [with](/en/post/with/) [a](/en/post/a/) [smile](/en/post/smile/)" describes [a](/en/post/a/) [friendly](/en/post/friendly/) [and](/en/post/and/) welcoming [attitude](/en/post/attitude/).
-- "[Get](/en/post/get/) [your](/en/post/your/) [car](/en/post/car/) serviced" refers [to](/en/post/to/) having [it](/en/post/it/) checked [and](/en/post/and/) maintained [by](/en/post/by/) [a](/en/post/a/) [mechanic](/en/post/mechanic/).
+- "[Provide](/post/provide/) [excellent](/post/excellent/) [service](/post/service/)" [means](/post/means/) [to](/post/to/) [give](/post/give/) high-quality assistance [or](/post/or/) [care](/post/care/).
+- "[Service](/post/service/) [with](/post/with/) [a](/post/a/) [smile](/post/smile/)" describes [a](/post/a/) [friendly](/post/friendly/) [and](/post/and/) welcoming [attitude](/post/attitude/).
+- "[Get](/post/get/) [your](/post/your/) [car](/post/car/) serviced" refers [to](/post/to/) having [it](/post/it/) checked [and](/post/and/) maintained [by](/post/by/) [a](/post/a/) [mechanic](/post/mechanic/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [hotel](/en/post/hotel/) [staff](/en/post/staff/) were praised [for](/en/post/for/) [their](/en/post/their/) [attentive](/en/post/attentive/) [service](/en/post/service/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) chef personally served [the](/en/post/the/) [special](/en/post/special/) [dish](/en/post/dish/) [to](/en/post/to/) [each](/en/post/each/) [guest](/en/post/guest/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) hotel's 24-hour concierge [service](/en/post/service/) is unparalleled."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [hotel](/post/hotel/) [staff](/post/staff/) were praised [for](/post/for/) [their](/post/their/) [attentive](/post/attentive/) [service](/post/service/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) chef personally served [the](/post/the/) [special](/post/special/) [dish](/post/dish/) [to](/post/to/) [each](/post/each/) [guest](/post/guest/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) hotel's 24-hour concierge [service](/post/service/) is unparalleled."
 
 ## Synonyms
 - Assistance
-- [Support](/en/post/support/)
-- [Accommodation](/en/post/accommodation/)
-- [Help](/en/post/help/)
-- [Care](/en/post/care/)
+- [Support](/post/support/)
+- [Accommodation](/post/accommodation/)
+- [Help](/post/help/)
+- [Care](/post/care/)
 - Attendance
-- [Attention](/en/post/attention/)
-- [Treatment](/en/post/treatment/)
-- [Aid](/en/post/aid/)
+- [Attention](/post/attention/)
+- [Treatment](/post/treatment/)
+- [Aid](/post/aid/)
 - Facilitation

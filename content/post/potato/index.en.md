@@ -7,39 +7,39 @@ description = '[pəˈteitəu] n.马铃薯，土豆'
 keywords = ['ai words', 'potato']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈtɑːtoʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[potato](/en/post/potato/)** is [a](/en/post/a/) starchy [root](/en/post/root/) [vegetable](/en/post/vegetable/) [that](/en/post/that/) is圆形的 ([round](/en/post/round/)) [and](/en/post/and/) [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [various](/en/post/various/) culinary preparations. [It](/en/post/it/) is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [most](/en/post/most/) [widely](/en/post/widely/) consumed [and](/en/post/and/) versatile foods worldwide.
+### [Noun](/post/noun/)
+[A](/post/a/) **[potato](/post/potato/)** is [a](/post/a/) starchy [root](/post/root/) [vegetable](/post/vegetable/) [that](/post/that/) is圆形的 ([round](/post/round/)) [and](/post/and/) [often](/post/often/) [used](/post/used/) [in](/post/in/) [various](/post/various/) culinary preparations. [It](/post/it/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [widely](/post/widely/) consumed [and](/post/and/) versatile foods worldwide.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[potato](/en/post/potato/)** [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/):
-1. Growing potatoes, [as](/en/post/as/) [in](/en/post/in/) "[The](/en/post/the/) [farmer](/en/post/farmer/) is potatoing [his](/en/post/his/) fields."
-2. Using potatoes [in](/en/post/in/) cooking [or](/en/post/or/) recipes, [as](/en/post/as/) [in](/en/post/in/) "She's making [a](/en/post/a/) [delicious](/en/post/delicious/) [potato](/en/post/potato/) gratin."
-3. (Informal) Spending [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [time](/en/post/time/) [on](/en/post/on/) [something](/en/post/something/), [as](/en/post/as/) [in](/en/post/in/) "He's [just](/en/post/just/) potatoing [around](/en/post/around/) [all](/en/post/all/) [day](/en/post/day/)."
+### [Verb](/post/verb/)
+[To](/post/to/) **[potato](/post/potato/)** [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/):
+1. Growing potatoes, [as](/post/as/) [in](/post/in/) "[The](/post/the/) [farmer](/post/farmer/) is potatoing [his](/post/his/) fields."
+2. Using potatoes [in](/post/in/) cooking [or](/post/or/) recipes, [as](/post/as/) [in](/post/in/) "She's making [a](/post/a/) [delicious](/post/delicious/) [potato](/post/potato/) gratin."
+3. (Informal) Spending [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [time](/post/time/) [on](/post/on/) [something](/post/something/), [as](/post/as/) [in](/post/in/) "He's [just](/post/just/) potatoing [around](/post/around/) [all](/post/all/) [day](/post/day/)."
 
-### [Adjective](/en/post/adjective/)
-- **Potatoey** describes [something](/en/post/something/) having [a](/en/post/a/) [taste](/en/post/taste/) [or](/en/post/or/) texture [similar](/en/post/similar/) [to](/en/post/to/) potatoes, [as](/en/post/as/) [in](/en/post/in/) "[The](/en/post/the/) mashed potatoes were creamy [and](/en/post/and/) potatoey."
-- **Spud-like** is [another](/en/post/another/) [term](/en/post/term/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [similar](/en/post/similar/) [to](/en/post/to/) [a](/en/post/a/) [potato](/en/post/potato/), [as](/en/post/as/) [in](/en/post/in/) "[The](/en/post/the/) spud-like [vegetable](/en/post/vegetable/) is [a](/en/post/a/) staple [in](/en/post/in/) [many](/en/post/many/) diets."
+### [Adjective](/post/adjective/)
+- **Potatoey** describes [something](/post/something/) having [a](/post/a/) [taste](/post/taste/) [or](/post/or/) texture [similar](/post/similar/) [to](/post/to/) potatoes, [as](/post/as/) [in](/post/in/) "[The](/post/the/) mashed potatoes were creamy [and](/post/and/) potatoey."
+- **Spud-like** is [another](/post/another/) [term](/post/term/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [similar](/post/similar/) [to](/post/to/) [a](/post/a/) [potato](/post/potato/), [as](/post/as/) [in](/post/in/) "[The](/post/the/) spud-like [vegetable](/post/vegetable/) is [a](/post/a/) staple [in](/post/in/) [many](/post/many/) diets."
 
 ## Phrases
-- "[Boil](/en/post/boil/) [a](/en/post/a/) [potato](/en/post/potato/)" [means](/en/post/means/) [to](/en/post/to/) [cook](/en/post/cook/) [it](/en/post/it/) [until](/en/post/until/) [soft](/en/post/soft/) [by](/en/post/by/) immersing [it](/en/post/it/) [in](/en/post/in/) boiling [water](/en/post/water/).
-- "Mashed potatoes" are [a](/en/post/a/) [popular](/en/post/popular/) [side](/en/post/side/) [dish](/en/post/dish/) made [from](/en/post/from/) cooked [and](/en/post/and/) mashed potatoes.
-- "French fries" are [thin](/en/post/thin/) slices [of](/en/post/of/) potatoes fried [until](/en/post/until/) crispy.
-- "Baked [potato](/en/post/potato/)" is [a](/en/post/a/) [whole](/en/post/whole/) [potato](/en/post/potato/) baked [in](/en/post/in/) [the](/en/post/the/) [oven](/en/post/oven/) [until](/en/post/until/) [tender](/en/post/tender/).
+- "[Boil](/post/boil/) [a](/post/a/) [potato](/post/potato/)" [means](/post/means/) [to](/post/to/) [cook](/post/cook/) [it](/post/it/) [until](/post/until/) [soft](/post/soft/) [by](/post/by/) immersing [it](/post/it/) [in](/post/in/) boiling [water](/post/water/).
+- "Mashed potatoes" are [a](/post/a/) [popular](/post/popular/) [side](/post/side/) [dish](/post/dish/) made [from](/post/from/) cooked [and](/post/and/) mashed potatoes.
+- "French fries" are [thin](/post/thin/) slices [of](/post/of/) potatoes fried [until](/post/until/) crispy.
+- "Baked [potato](/post/potato/)" is [a](/post/a/) [whole](/post/whole/) [potato](/post/potato/) baked [in](/post/in/) [the](/post/the/) [oven](/post/oven/) [until](/post/until/) [tender](/post/tender/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I planted [several](/en/post/several/) varieties [of](/en/post/of/) potatoes [in](/en/post/in/) [my](/en/post/my/) [garden](/en/post/garden/) [this](/en/post/this/) [spring](/en/post/spring/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) diced [the](/en/post/the/) potatoes [for](/en/post/for/) [the](/en/post/the/) hearty stew."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) oven-roasted potatoes were [perfectly](/en/post/perfectly/) potatoey."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I planted [several](/post/several/) varieties [of](/post/of/) potatoes [in](/post/in/) [my](/post/my/) [garden](/post/garden/) [this](/post/this/) [spring](/post/spring/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) diced [the](/post/the/) potatoes [for](/post/for/) [the](/post/the/) hearty stew."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) oven-roasted potatoes were [perfectly](/post/perfectly/) potatoey."
 
 ## Synonyms
 - Potatoe
 - Tater
 - Spud
-- [Earth](/en/post/earth/) [apple](/en/post/apple/)
+- [Earth](/post/earth/) [apple](/post/apple/)
 - Pomme de terre (French)
 - Kartoffel (German)
 - Patata (Spanish)

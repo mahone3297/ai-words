@@ -11,21 +11,21 @@ keywords = ['ai words', 'attitude']
 /ˈætɪtuːd/
 
 ## 释义
-- **名词 (n)**: 一个人对某事或某人的看法、态度或立场。例如: "[Her](/post/her/) [attitude](/post/attitude/) towards [her](/post/her/) [work](/post/work/) is [very](/post/very/) [professional](/post/professional/)."
-- **形容词 (adj)**: 用于描述行为或表现的方式，具有一定的态度。例如: "[He](/post/he/) has an [attitude](/post/attitude/) [problem](/post/problem/) [and](/post/and/) [often](/post/often/) argues [with](/post/with/) others."
+- **名词 (n)**: 一个人对某事或某人的看法、态度或立场。例如: "[Her](/zh/post/her/) [attitude](/zh/post/attitude/) towards [her](/zh/post/her/) [work](/zh/post/work/) is [very](/zh/post/very/) [professional](/zh/post/professional/)."
+- **形容词 (adj)**: 用于描述行为或表现的方式，具有一定的态度。例如: "[He](/zh/post/he/) has an [attitude](/zh/post/attitude/) [problem](/zh/post/problem/) [and](/zh/post/and/) [often](/zh/post/often/) argues [with](/zh/post/with/) others."
 
 ## 短语
-- "[Positive](/post/positive/)/[negative](/post/negative/) [attitude](/post/attitude/)" 指正面或负面的态度。
-- "[Attitude](/post/attitude/) adjustment" 指改变或调整某人的态度。
-- "[Attitude](/post/attitude/) towards [something](/post/something/)" 指对某事的态度。
+- "[Positive](/zh/post/positive/)/[negative](/zh/post/negative/) [attitude](/zh/post/attitude/)" 指正面或负面的态度。
+- "[Attitude](/zh/post/attitude/) adjustment" 指改变或调整某人的态度。
+- "[Attitude](/zh/post/attitude/) towards [something](/zh/post/something/)" 指对某事的态度。
 
 ## 例句
-- 名词: "[His](/post/his/) [attitude](/post/attitude/) towards teamwork impressed [his](/post/his/) colleagues."
-- 形容词: "[The](/post/the/) [customer](/post/customer/) [service](/post/service/) [representative](/post/representative/) had [a](/post/a/) [bad](/post/bad/) [attitude](/post/attitude/) [and](/post/and/) was unhelpful."
+- 名词: "[His](/zh/post/his/) [attitude](/zh/post/attitude/) towards teamwork impressed [his](/zh/post/his/) colleagues."
+- 形容词: "[The](/zh/post/the/) [customer](/zh/post/customer/) [service](/zh/post/service/) [representative](/zh/post/representative/) had [a](/zh/post/a/) [bad](/zh/post/bad/) [attitude](/zh/post/attitude/) [and](/zh/post/and/) was unhelpful."
 
 ## 同义词
-- [Outlook](/post/outlook/)
-- [Perspective](/post/perspective/)
+- [Outlook](/zh/post/outlook/)
+- [Perspective](/zh/post/perspective/)
 - Stance
 - Disposition
 - Mindset

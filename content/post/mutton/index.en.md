@@ -7,27 +7,27 @@ description = '[ˈmʌtn] n.羊肉'
 keywords = ['ai words', 'mutton']
 +++
 
-## [Word](/en/post/word/): [Mutton](/en/post/mutton/)
+## [Word](/post/word/): [Mutton](/post/mutton/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmʌtn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [flesh](/en/post/flesh/) [of](/en/post/of/) [a](/en/post/a/) [mature](/en/post/mature/) [sheep](/en/post/sheep/) [when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [food](/en/post/food/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [roast](/en/post/roast/) [mutton](/en/post/mutton/) was [tender](/en/post/tender/) [and](/en/post/and/) juicy."
-  - [Also](/en/post/also/), [the](/en/post/the/) [animal](/en/post/animal/) [itself](/en/post/itself/) [that](/en/post/that/) provides [this](/en/post/this/) [meat](/en/post/meat/): "[Mutton](/en/post/mutton/) is raised [primarily](/en/post/primarily/) [for](/en/post/for/) [its](/en/post/its/) [meat](/en/post/meat/) [and](/en/post/and/) [wool](/en/post/wool/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [flesh](/post/flesh/) [of](/post/of/) [a](/post/a/) [mature](/post/mature/) [sheep](/post/sheep/) [when](/post/when/) [used](/post/used/) [as](/post/as/) [food](/post/food/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [roast](/post/roast/) [mutton](/post/mutton/) was [tender](/post/tender/) [and](/post/and/) juicy."
+  - [Also](/post/also/), [the](/post/the/) [animal](/post/animal/) [itself](/post/itself/) [that](/post/that/) provides [this](/post/this/) [meat](/post/meat/): "[Mutton](/post/mutton/) is raised [primarily](/post/primarily/) [for](/post/for/) [its](/post/its/) [meat](/post/meat/) [and](/post/and/) [wool](/post/wool/)."
   
 ## Phrases
-- "[Mutton](/en/post/mutton/) dressed [as](/en/post/as/) [lamb](/en/post/lamb/)": [This](/en/post/this/) [idiom](/en/post/idiom/) is [used](/en/post/used/) figuratively [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/), [usually](/en/post/usually/) [a](/en/post/a/) [woman](/en/post/woman/), [who](/en/post/who/) dresses [in](/en/post/in/) [a](/en/post/a/) [style](/en/post/style/) considered [too](/en/post/too/) [young](/en/post/young/) [or](/en/post/or/) inappropriate [for](/en/post/for/) [their](/en/post/their/) [age](/en/post/age/).
-- "[To](/en/post/to/) [cry](/en/post/cry/) [mutton](/en/post/mutton/)": An old-fashioned [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) falsely [claim](/en/post/claim/) [something](/en/post/something/) [as](/en/post/as/) one's [own](/en/post/own/) [or](/en/post/or/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) pretense [of](/en/post/of/) having [something](/en/post/something/).
+- "[Mutton](/post/mutton/) dressed [as](/post/as/) [lamb](/post/lamb/)": [This](/post/this/) [idiom](/post/idiom/) is [used](/post/used/) figuratively [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/), [usually](/post/usually/) [a](/post/a/) [woman](/post/woman/), [who](/post/who/) dresses [in](/post/in/) [a](/post/a/) [style](/post/style/) considered [too](/post/too/) [young](/post/young/) [or](/post/or/) inappropriate [for](/post/for/) [their](/post/their/) [age](/post/age/).
+- "[To](/post/to/) [cry](/post/cry/) [mutton](/post/mutton/)": An old-fashioned [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) falsely [claim](/post/claim/) [something](/post/something/) [as](/post/as/) one's [own](/post/own/) [or](/post/or/) [to](/post/to/) [make](/post/make/) [a](/post/a/) pretense [of](/post/of/) having [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([meat](/en/post/meat/))**: "[They](/en/post/they/) served [a](/en/post/a/) hearty stew made [with](/en/post/with/) potatoes [and](/en/post/and/) chunks [of](/en/post/of/) [mutton](/en/post/mutton/)."
-- **[Noun](/en/post/noun/) ([animal](/en/post/animal/))**: "[On](/en/post/on/) [the](/en/post/the/) [farm](/en/post/farm/), [they](/en/post/they/) [breed](/en/post/breed/) [both](/en/post/both/) [mutton](/en/post/mutton/) [and](/en/post/and/) [wool](/en/post/wool/) [from](/en/post/from/) [their](/en/post/their/) [flock](/en/post/flock/) [of](/en/post/of/) [sheep](/en/post/sheep/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([meat](/post/meat/))**: "[They](/post/they/) served [a](/post/a/) hearty stew made [with](/post/with/) potatoes [and](/post/and/) chunks [of](/post/of/) [mutton](/post/mutton/)."
+- **[Noun](/post/noun/) ([animal](/post/animal/))**: "[On](/post/on/) [the](/post/the/) [farm](/post/farm/), [they](/post/they/) [breed](/post/breed/) [both](/post/both/) [mutton](/post/mutton/) [and](/post/and/) [wool](/post/wool/) [from](/post/from/) [their](/post/their/) [flock](/post/flock/) [of](/post/of/) [sheep](/post/sheep/)."
 
 ## Synonyms
-- [Sheep](/en/post/sheep/) [meat](/en/post/meat/)
-- [Lamb](/en/post/lamb/) ([when](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) [meat](/en/post/meat/) [of](/en/post/of/) an [adult](/en/post/adult/) [sheep](/en/post/sheep/))
-- Hogget ([the](/en/post/the/) [meat](/en/post/meat/) [of](/en/post/of/) [a](/en/post/a/) [sheep](/en/post/sheep/) [between](/en/post/between/) [one](/en/post/one/) [and](/en/post/and/) [two](/en/post/two/) years [old](/en/post/old/))
+- [Sheep](/post/sheep/) [meat](/post/meat/)
+- [Lamb](/post/lamb/) ([when](/post/when/) referring [to](/post/to/) [the](/post/the/) [meat](/post/meat/) [of](/post/of/) an [adult](/post/adult/) [sheep](/post/sheep/))
+- Hogget ([the](/post/the/) [meat](/post/meat/) [of](/post/of/) [a](/post/a/) [sheep](/post/sheep/) [between](/post/between/) [one](/post/one/) [and](/post/and/) [two](/post/two/) years [old](/post/old/))
 
-## [Note](/en/post/note/) [on](/en/post/on/) [Usage](/en/post/usage/)
-[While](/en/post/while/) "[lamb](/en/post/lamb/)" typically refers [to](/en/post/to/) [the](/en/post/the/) [meat](/en/post/meat/) [of](/en/post/of/) [a](/en/post/a/) [young](/en/post/young/) [sheep](/en/post/sheep/), "[mutton](/en/post/mutton/)" specifically denotes [the](/en/post/the/) [meat](/en/post/meat/) [from](/en/post/from/) an older [sheep](/en/post/sheep/), [usually](/en/post/usually/) [around](/en/post/around/) [two](/en/post/two/) years [or](/en/post/or/) older. [In](/en/post/in/) [some](/en/post/some/) regions, [the](/en/post/the/) terms [may](/en/post/may/) [be](/en/post/be/) [used](/en/post/used/) interchangeably, [but](/en/post/but/) [in](/en/post/in/) culinary contexts, [the](/en/post/the/) [distinction](/en/post/distinction/) is [often](/en/post/often/) maintained.
+## [Note](/post/note/) [on](/post/on/) [Usage](/post/usage/)
+[While](/post/while/) "[lamb](/post/lamb/)" typically refers [to](/post/to/) [the](/post/the/) [meat](/post/meat/) [of](/post/of/) [a](/post/a/) [young](/post/young/) [sheep](/post/sheep/), "[mutton](/post/mutton/)" specifically denotes [the](/post/the/) [meat](/post/meat/) [from](/post/from/) an older [sheep](/post/sheep/), [usually](/post/usually/) [around](/post/around/) [two](/post/two/) years [or](/post/or/) older. [In](/post/in/) [some](/post/some/) regions, [the](/post/the/) terms [may](/post/may/) [be](/post/be/) [used](/post/used/) interchangeably, [but](/post/but/) [in](/post/in/) culinary contexts, [the](/post/the/) [distinction](/post/distinction/) is [often](/post/often/) maintained.

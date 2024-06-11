@@ -7,36 +7,36 @@ description = '[ˈimidʒ] n.像；形象；映象'
 keywords = ['ai words', 'image']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪmɪdʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [visual](/en/post/visual/) representation [of](/en/post/of/) [something](/en/post/something/), typically [in](/en/post/in/) [the](/en/post/the/) [form](/en/post/form/) [of](/en/post/of/) [a](/en/post/a/) [picture](/en/post/picture/), [photograph](/en/post/photograph/), [or](/en/post/or/) [movie](/en/post/movie/); [a](/en/post/a/) [mental](/en/post/mental/) [picture](/en/post/picture/) [or](/en/post/or/) [impression](/en/post/impression/); [the](/en/post/the/) [general](/en/post/general/) [impression](/en/post/impression/) [that](/en/post/that/) [something](/en/post/something/) creates; [a](/en/post/a/) [symbol](/en/post/symbol/) [or](/en/post/or/) emblem.
-  - _Example Sentence_: "[The](/en/post/the/) [satellite](/en/post/satellite/) transmitted high-resolution images [of](/en/post/of/) Earth's [surface](/en/post/surface/)."
-  - _Example Sentence_: "[She](/en/post/she/) has [a](/en/post/a/) [clear](/en/post/clear/) [image](/en/post/image/) [of](/en/post/of/) [her](/en/post/her/) [perfect](/en/post/perfect/) [wedding](/en/post/wedding/) [day](/en/post/day/) [in](/en/post/in/) [her](/en/post/her/) [mind](/en/post/mind/)."
-  - _Example Sentence_: "[The](/en/post/the/) [company](/en/post/company/) logo serves [as](/en/post/as/) an [image](/en/post/image/) [of](/en/post/of/) [their](/en/post/their/) [brand](/en/post/brand/) identity."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [visual](/post/visual/) representation [of](/post/of/) [something](/post/something/), typically [in](/post/in/) [the](/post/the/) [form](/post/form/) [of](/post/of/) [a](/post/a/) [picture](/post/picture/), [photograph](/post/photograph/), [or](/post/or/) [movie](/post/movie/); [a](/post/a/) [mental](/post/mental/) [picture](/post/picture/) [or](/post/or/) [impression](/post/impression/); [the](/post/the/) [general](/post/general/) [impression](/post/impression/) [that](/post/that/) [something](/post/something/) creates; [a](/post/a/) [symbol](/post/symbol/) [or](/post/or/) emblem.
+  - _Example Sentence_: "[The](/post/the/) [satellite](/post/satellite/) transmitted high-resolution images [of](/post/of/) Earth's [surface](/post/surface/)."
+  - _Example Sentence_: "[She](/post/she/) has [a](/post/a/) [clear](/post/clear/) [image](/post/image/) [of](/post/of/) [her](/post/her/) [perfect](/post/perfect/) [wedding](/post/wedding/) [day](/post/day/) [in](/post/in/) [her](/post/her/) [mind](/post/mind/)."
+  - _Example Sentence_: "[The](/post/the/) [company](/post/company/) logo serves [as](/post/as/) an [image](/post/image/) [of](/post/of/) [their](/post/their/) [brand](/post/brand/) identity."
 
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [represent](/en/post/represent/) [in](/en/post/in/) [the](/en/post/the/) [form](/en/post/form/) [of](/en/post/of/) an [image](/en/post/image/); [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [mental](/en/post/mental/) [picture](/en/post/picture/) [of](/en/post/of/); [to](/en/post/to/) [project](/en/post/project/) [or](/en/post/or/) [display](/en/post/display/) an [image](/en/post/image/) [of](/en/post/of/).
-  - _Example Sentence_: "[The](/en/post/the/) [artist](/en/post/artist/) skillfully images landscapes [onto](/en/post/onto/) [his](/en/post/his/) [canvas](/en/post/canvas/)."
-  - _Example Sentence_: "[The](/en/post/the/) [new](/en/post/new/) [technology](/en/post/technology/) allows [us](/en/post/us/) [to](/en/post/to/) [image](/en/post/image/) [the](/en/post/the/) [inner](/en/post/inner/) workings [of](/en/post/of/) [the](/en/post/the/) [human](/en/post/human/) [brain](/en/post/brain/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [represent](/post/represent/) [in](/post/in/) [the](/post/the/) [form](/post/form/) [of](/post/of/) an [image](/post/image/); [to](/post/to/) [create](/post/create/) [a](/post/a/) [mental](/post/mental/) [picture](/post/picture/) [of](/post/of/); [to](/post/to/) [project](/post/project/) [or](/post/or/) [display](/post/display/) an [image](/post/image/) [of](/post/of/).
+  - _Example Sentence_: "[The](/post/the/) [artist](/post/artist/) skillfully images landscapes [onto](/post/onto/) [his](/post/his/) [canvas](/post/canvas/)."
+  - _Example Sentence_: "[The](/post/the/) [new](/post/new/) [technology](/post/technology/) allows [us](/post/us/) [to](/post/to/) [image](/post/image/) [the](/post/the/) [inner](/post/inner/) workings [of](/post/of/) [the](/post/the/) [human](/post/human/) [brain](/post/brain/)."
 
 ## Phrases
-- "[Image](/en/post/image/) processing": [The](/en/post/the/) manipulation [of](/en/post/of/) [digital](/en/post/digital/) images using algorithms [to](/en/post/to/) enhance, analyze, [or](/en/post/or/) [compress](/en/post/compress/) [them](/en/post/them/).
-- "[To](/en/post/to/) [improve](/en/post/improve/) one's [image](/en/post/image/)": [To](/en/post/to/) [work](/en/post/work/) [on](/en/post/on/) enhancing one's [public](/en/post/public/) perception [or](/en/post/or/) [reputation](/en/post/reputation/).
-- "[A](/en/post/a/) self-image": [A](/en/post/a/) person's [own](/en/post/own/) perception [or](/en/post/or/) [mental](/en/post/mental/) [picture](/en/post/picture/) [of](/en/post/of/) [themselves](/en/post/themselves/).
+- "[Image](/post/image/) processing": [The](/post/the/) manipulation [of](/post/of/) [digital](/post/digital/) images using algorithms [to](/post/to/) enhance, analyze, [or](/post/or/) [compress](/post/compress/) [them](/post/them/).
+- "[To](/post/to/) [improve](/post/improve/) one's [image](/post/image/)": [To](/post/to/) [work](/post/work/) [on](/post/on/) enhancing one's [public](/post/public/) perception [or](/post/or/) [reputation](/post/reputation/).
+- "[A](/post/a/) self-image": [A](/post/a/) person's [own](/post/own/) perception [or](/post/or/) [mental](/post/mental/) [picture](/post/picture/) [of](/post/of/) [themselves](/post/themselves/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) photo album contained [many](/en/post/many/) faded images [from](/en/post/from/) [our](/en/post/our/) family's [past](/en/post/past/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) scanner [will](/en/post/will/) [image](/en/post/image/) [the](/en/post/the/) [document](/en/post/document/) [and](/en/post/and/) [save](/en/post/save/) [it](/en/post/it/) [as](/en/post/as/) [a](/en/post/a/) PDF [file](/en/post/file/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) photo album contained [many](/post/many/) faded images [from](/post/from/) [our](/post/our/) family's [past](/post/past/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) scanner [will](/post/will/) [image](/post/image/) [the](/post/the/) [document](/post/document/) [and](/post/and/) [save](/post/save/) [it](/post/it/) [as](/post/as/) [a](/post/a/) PDF [file](/post/file/)."
 
 ## Synonyms
-- [Picture](/en/post/picture/)
-- [Photograph](/en/post/photograph/)
+- [Picture](/post/picture/)
+- [Photograph](/post/photograph/)
 - Representation
 - Depiction
-- [Portrait](/en/post/portrait/)
+- [Portrait](/post/portrait/)
 - Replica
-- [Vision](/en/post/vision/)
+- [Vision](/post/vision/)
 - Simulation
-- Projection ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) creating [a](/en/post/a/) [mental](/en/post/mental/) [image](/en/post/image/))
-- [Render](/en/post/render/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) creating [a](/en/post/a/) [visual](/en/post/visual/) representation)
+- Projection ([in](/post/in/) [the](/post/the/) context [of](/post/of/) creating [a](/post/a/) [mental](/post/mental/) [image](/post/image/))
+- [Render](/post/render/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) creating [a](/post/a/) [visual](/post/visual/) representation)

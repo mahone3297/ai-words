@@ -7,27 +7,27 @@ description = '[lʌŋ] n.肺脏，肺'
 keywords = ['ai words', 'lung']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lʌŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [One](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [two](/en/post/two/) organs [in](/en/post/in/) [the](/en/post/the/) [chest](/en/post/chest/) [that](/en/post/that/) extract oxygen [from](/en/post/from/) [the](/en/post/the/) [air](/en/post/air/) [and](/en/post/and/) expel [carbon](/en/post/carbon/) dioxide, [essential](/en/post/essential/) [for](/en/post/for/) respiration [in](/en/post/in/) mammals, birds, [and](/en/post/and/) [some](/en/post/some/) [other](/en/post/other/) animals. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [doctor](/en/post/doctor/) listened [to](/en/post/to/) [his](/en/post/his/) patient's lungs [with](/en/post/with/) [a](/en/post/a/) stethoscope."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [source](/en/post/source/) [or](/en/post/or/) repository, [often](/en/post/often/) referring [to](/en/post/to/) [something](/en/post/something/) [vital](/en/post/vital/) [or](/en/post/or/) [abundant](/en/post/abundant/). [Example](/en/post/example/): "[The](/en/post/the/) city's factories were [once](/en/post/once/) [the](/en/post/the/) [economic](/en/post/economic/) [lung](/en/post/lung/) [of](/en/post/of/) [the](/en/post/the/) [region](/en/post/region/)."
+- **[Noun](/post/noun/)**: [One](/post/one/) [of](/post/of/) [the](/post/the/) [two](/post/two/) organs [in](/post/in/) [the](/post/the/) [chest](/post/chest/) [that](/post/that/) extract oxygen [from](/post/from/) [the](/post/the/) [air](/post/air/) [and](/post/and/) expel [carbon](/post/carbon/) dioxide, [essential](/post/essential/) [for](/post/for/) respiration [in](/post/in/) mammals, birds, [and](/post/and/) [some](/post/some/) [other](/post/other/) animals. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [doctor](/post/doctor/) listened [to](/post/to/) [his](/post/his/) patient's lungs [with](/post/with/) [a](/post/a/) stethoscope."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [source](/post/source/) [or](/post/or/) repository, [often](/post/often/) referring [to](/post/to/) [something](/post/something/) [vital](/post/vital/) [or](/post/or/) [abundant](/post/abundant/). [Example](/post/example/): "[The](/post/the/) city's factories were [once](/post/once/) [the](/post/the/) [economic](/post/economic/) [lung](/post/lung/) [of](/post/of/) [the](/post/the/) [region](/post/region/)."
 
 ## Phrases
-- "Lungsful [of](/en/post/of/) [fresh](/en/post/fresh/) [air](/en/post/air/)": Refers [to](/en/post/to/) taking [deep](/en/post/deep/) breaths [of](/en/post/of/) [clean](/en/post/clean/), [fresh](/en/post/fresh/) [air](/en/post/air/).
-- "[Breathe](/en/post/breathe/) [with](/en/post/with/) one's [last](/en/post/last/) [gasp](/en/post/gasp/)/[lung](/en/post/lung/)": An [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [supreme](/en/post/supreme/) [effort](/en/post/effort/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [desperate](/en/post/desperate/) [situation](/en/post/situation/).
-- "[A](/en/post/a/) lunging [movement](/en/post/movement/)": Describes [a](/en/post/a/) [sudden](/en/post/sudden/) [forward](/en/post/forward/) [movement](/en/post/movement/), [usually](/en/post/usually/) made [by](/en/post/by/) stretching [out](/en/post/out/) one's [body](/en/post/body/) [or](/en/post/or/) limbs.
+- "Lungsful [of](/post/of/) [fresh](/post/fresh/) [air](/post/air/)": Refers [to](/post/to/) taking [deep](/post/deep/) breaths [of](/post/of/) [clean](/post/clean/), [fresh](/post/fresh/) [air](/post/air/).
+- "[Breathe](/post/breathe/) [with](/post/with/) one's [last](/post/last/) [gasp](/post/gasp/)/[lung](/post/lung/)": An [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [supreme](/post/supreme/) [effort](/post/effort/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [desperate](/post/desperate/) [situation](/post/situation/).
+- "[A](/post/a/) lunging [movement](/post/movement/)": Describes [a](/post/a/) [sudden](/post/sudden/) [forward](/post/forward/) [movement](/post/movement/), [usually](/post/usually/) made [by](/post/by/) stretching [out](/post/out/) one's [body](/post/body/) [or](/post/or/) limbs.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (literal [usage](/en/post/usage/))**: "Smoking [can](/en/post/can/) [severely](/en/post/severely/) [damage](/en/post/damage/) [your](/en/post/your/) lungs."
-- **[Noun](/en/post/noun/) (figurative [usage](/en/post/usage/))**: "[The](/en/post/the/) [park](/en/post/park/) provides [the](/en/post/the/) bustling [city](/en/post/city/) [with](/en/post/with/) [a](/en/post/a/) [green](/en/post/green/) [lung](/en/post/lung/), allowing [its](/en/post/its/) residents [to](/en/post/to/) [breathe](/en/post/breathe/) easier."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (literal [usage](/post/usage/))**: "Smoking [can](/post/can/) [severely](/post/severely/) [damage](/post/damage/) [your](/post/your/) lungs."
+- **[Noun](/post/noun/) (figurative [usage](/post/usage/))**: "[The](/post/the/) [park](/post/park/) provides [the](/post/the/) bustling [city](/post/city/) [with](/post/with/) [a](/post/a/) [green](/post/green/) [lung](/post/lung/), allowing [its](/post/its/) residents [to](/post/to/) [breathe](/post/breathe/) easier."
 
 ## Synonyms
-- Breathing [organ](/en/post/organ/)
-- Respiration [organ](/en/post/organ/)
-- Pulmonary [organ](/en/post/organ/)
-- Lobe ([in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [lung](/en/post/lung/))
-- Respiratory [system](/en/post/system/)
+- Breathing [organ](/post/organ/)
+- Respiration [organ](/post/organ/)
+- Pulmonary [organ](/post/organ/)
+- Lobe ([in](/post/in/) [reference](/post/reference/) [to](/post/to/) [a](/post/a/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [lung](/post/lung/))
+- Respiratory [system](/post/system/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [word](/en/post/word/) "[lung](/en/post/lung/)" does [not](/en/post/not/) [have](/en/post/have/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), [preposition](/en/post/preposition/), [conjunction](/en/post/conjunction/), [pronoun](/en/post/pronoun/), numeral, [or](/en/post/or/) interjection forms, [so](/en/post/so/) [no](/en/post/no/) examples are [provided](/en/post/provided/) [for](/en/post/for/) [these](/en/post/these/) parts [of](/en/post/of/) [speech](/en/post/speech/).
+[Note](/post/note/): [The](/post/the/) [word](/post/word/) "[lung](/post/lung/)" does [not](/post/not/) [have](/post/have/) [verb](/post/verb/), [adjective](/post/adjective/), [adverb](/post/adverb/), [preposition](/post/preposition/), [conjunction](/post/conjunction/), [pronoun](/post/pronoun/), numeral, [or](/post/or/) interjection forms, [so](/post/so/) [no](/post/no/) examples are [provided](/post/provided/) [for](/post/for/) [these](/post/these/) parts [of](/post/of/) [speech](/post/speech/).

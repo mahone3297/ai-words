@@ -11,16 +11,16 @@ keywords = ['ai words', 'sweater']
 /ˈswetər/
 
 ## 释义
-- **名词**: 一种毛线或棉布制成的长袖上衣，通常在冷天气时穿。例如: "[She](/post/she/) was wearing [a](/post/a/) cozy [sweater](/post/sweater/) [on](/post/on/) [a](/post/a/) chilly [day](/post/day/)."
-- **动词**: 用毛线或其他纤维编织成毛衣。例如: "[My](/post/my/) [grandmother](/post/grandmother/) [often](/post/often/) sweaters [for](/post/for/) [her](/post/her/) grandchildren."
+- **名词**: 一种毛线或棉布制成的长袖上衣，通常在冷天气时穿。例如: "[She](/zh/post/she/) was wearing [a](/zh/post/a/) cozy [sweater](/zh/post/sweater/) [on](/zh/post/on/) [a](/zh/post/a/) chilly [day](/zh/post/day/)."
+- **动词**: 用毛线或其他纤维编织成毛衣。例如: "[My](/zh/post/my/) [grandmother](/zh/post/grandmother/) [often](/zh/post/often/) sweaters [for](/zh/post/for/) [her](/zh/post/her/) grandchildren."
 
 ## 短语
-- "[Sweater](/post/sweater/) [weather](/post/weather/)" 指适宜穿毛衣的凉爽天气。
-- "[Wear](/post/wear/) [a](/post/a/) [sweater](/post/sweater/)" 意味着穿上毛衣。
+- "[Sweater](/zh/post/sweater/) [weather](/zh/post/weather/)" 指适宜穿毛衣的凉爽天气。
+- "[Wear](/zh/post/wear/) [a](/zh/post/a/) [sweater](/zh/post/sweater/)" 意味着穿上毛衣。
 
 ## 例句
-- 名词: "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) [sweater](/post/sweater/) [for](/post/for/) [the](/post/the/) [winter](/post/winter/) [season](/post/season/)."
-- 动词: "She's sitting [by](/post/by/) [the](/post/the/) [fire](/post/fire/), carefully sweatering [a](/post/a/) [gift](/post/gift/) [for](/post/for/) [her](/post/her/) [friend](/post/friend/)."
+- 名词: "I [need](/zh/post/need/) [to](/zh/post/to/) [buy](/zh/post/buy/) [a](/zh/post/a/) [new](/zh/post/new/) [sweater](/zh/post/sweater/) [for](/zh/post/for/) [the](/zh/post/the/) [winter](/zh/post/winter/) [season](/zh/post/season/)."
+- 动词: "She's sitting [by](/zh/post/by/) [the](/zh/post/the/) [fire](/zh/post/fire/), carefully sweatering [a](/zh/post/a/) [gift](/zh/post/gift/) [for](/zh/post/for/) [her](/zh/post/her/) [friend](/zh/post/friend/)."
 
 ## 同义词
 - Jumper (主要在英国英语中使用)

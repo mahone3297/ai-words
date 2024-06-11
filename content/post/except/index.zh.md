@@ -11,20 +11,20 @@ keywords = ['ai words', 'except']
 /ɪkˈsɛpt/
 
 ## 释义
-- **介词**: 除了...之外，不包括在内。例如: "[Everyone](/post/everyone/) came [to](/post/to/) [the](/post/the/) [party](/post/party/) [except](/post/except/) John."
-- **动词**: 把...排除在外，不考虑。例如: "I'll [do](/post/do/) [everything](/post/everything/) [except](/post/except/) [clean](/post/clean/) [the](/post/the/) [kitchen](/post/kitchen/)."
+- **介词**: 除了...之外，不包括在内。例如: "[Everyone](/zh/post/everyone/) came [to](/zh/post/to/) [the](/zh/post/the/) [party](/zh/post/party/) [except](/zh/post/except/) John."
+- **动词**: 把...排除在外，不考虑。例如: "I'll [do](/zh/post/do/) [everything](/zh/post/everything/) [except](/zh/post/except/) [clean](/zh/post/clean/) [the](/zh/post/the/) [kitchen](/zh/post/kitchen/)."
 
 ## 短语
-- "[except](/post/except/) [for](/post/for/)" 表示除了提到的部分，其余都包括。例如: "[The](/post/the/) [room](/post/room/) was [clean](/post/clean/) [except](/post/except/) [for](/post/for/) [a](/post/a/) [few](/post/few/) books [on](/post/on/) [the](/post/the/) [floor](/post/floor/)."
-- "[except](/post/except/) [when](/post/when/)" 引导条件状语从句，表示除了在某种情况下。例如: "I [usually](/post/usually/) [walk](/post/walk/) [to](/post/to/) [work](/post/work/), [except](/post/except/) [when](/post/when/) [it](/post/it/) rains."
+- "[except](/zh/post/except/) [for](/zh/post/for/)" 表示除了提到的部分，其余都包括。例如: "[The](/zh/post/the/) [room](/zh/post/room/) was [clean](/zh/post/clean/) [except](/zh/post/except/) [for](/zh/post/for/) [a](/zh/post/a/) [few](/zh/post/few/) books [on](/zh/post/on/) [the](/zh/post/the/) [floor](/zh/post/floor/)."
+- "[except](/zh/post/except/) [when](/zh/post/when/)" 引导条件状语从句，表示除了在某种情况下。例如: "I [usually](/zh/post/usually/) [walk](/zh/post/walk/) [to](/zh/post/to/) [work](/zh/post/work/), [except](/zh/post/except/) [when](/zh/post/when/) [it](/zh/post/it/) rains."
 
 ## 例句
-- 介词: "[All](/post/all/) [the](/post/the/) students passed [the](/post/the/) [exam](/post/exam/) [except](/post/except/) Mary, [who](/post/who/) failed."
-- 动词: "We'll [discuss](/post/discuss/) [all](/post/all/) [the](/post/the/) topics [except](/post/except/) [the](/post/the/) [one](/post/one/) [you](/post/you/) suggested."
+- 介词: "[All](/zh/post/all/) [the](/zh/post/the/) students passed [the](/zh/post/the/) [exam](/zh/post/exam/) [except](/zh/post/except/) Mary, [who](/zh/post/who/) failed."
+- 动词: "We'll [discuss](/zh/post/discuss/) [all](/zh/post/all/) [the](/zh/post/the/) topics [except](/zh/post/except/) [the](/zh/post/the/) [one](/zh/post/one/) [you](/zh/post/you/) suggested."
 
 ## 同义词
-- [apart](/post/apart/) [from](/post/from/)
+- [apart](/zh/post/apart/) [from](/zh/post/from/)
 - excluding
-- [other](/post/other/) [than](/post/than/)
-- [but](/post/but/)
-- [save](/post/save/) [for](/post/for/)
+- [other](/zh/post/other/) [than](/zh/post/than/)
+- [but](/zh/post/but/)
+- [save](/zh/post/save/) [for](/zh/post/for/)

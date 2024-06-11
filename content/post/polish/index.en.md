@@ -7,47 +7,47 @@ description = '[ˈpɔli∫] vt.磨光；使优美'
 keywords = ['ai words', 'polish']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈlɒʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) polishing [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) polished, [as](/en/post/as/) applied [to](/en/post/to/) [a](/en/post/a/) [surface](/en/post/surface/) [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) [smooth](/en/post/smooth/) [and](/en/post/and/) shiny.
-2. [A](/en/post/a/) [thin](/en/post/thin/) [layer](/en/post/layer/) [of](/en/post/of/) [material](/en/post/material/), [often](/en/post/often/) [paint](/en/post/paint/) [or](/en/post/or/) [wax](/en/post/wax/), applied [to](/en/post/to/) [protect](/en/post/protect/) [or](/en/post/or/) enhance [the](/en/post/the/) [appearance](/en/post/appearance/) [of](/en/post/of/) [a](/en/post/a/) [surface](/en/post/surface/).
-3. [A](/en/post/a/) [skill](/en/post/skill/) [or](/en/post/or/) expertise [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/) [or](/en/post/or/) [field](/en/post/field/).
-4. (Informal) An [activity](/en/post/activity/) [or](/en/post/or/) [hobby](/en/post/hobby/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) involves restoring [or](/en/post/or/) improving [the](/en/post/the/) [appearance](/en/post/appearance/) [of](/en/post/of/) objects.
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) polishing [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) polished, [as](/post/as/) applied [to](/post/to/) [a](/post/a/) [surface](/post/surface/) [to](/post/to/) [make](/post/make/) [it](/post/it/) [smooth](/post/smooth/) [and](/post/and/) shiny.
+2. [A](/post/a/) [thin](/post/thin/) [layer](/post/layer/) [of](/post/of/) [material](/post/material/), [often](/post/often/) [paint](/post/paint/) [or](/post/or/) [wax](/post/wax/), applied [to](/post/to/) [protect](/post/protect/) [or](/post/or/) enhance [the](/post/the/) [appearance](/post/appearance/) [of](/post/of/) [a](/post/a/) [surface](/post/surface/).
+3. [A](/post/a/) [skill](/post/skill/) [or](/post/or/) expertise [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/) [or](/post/or/) [field](/post/field/).
+4. (Informal) An [activity](/post/activity/) [or](/post/or/) [hobby](/post/hobby/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) involves restoring [or](/post/or/) improving [the](/post/the/) [appearance](/post/appearance/) [of](/post/of/) objects.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [clean](/en/post/clean/) [and](/en/post/and/) [smooth](/en/post/smooth/) [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [something](/en/post/something/), [usually](/en/post/usually/) [with](/en/post/with/) [a](/en/post/a/) polishing [agent](/en/post/agent/), [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) shiny [or](/en/post/or/) [free](/en/post/free/) [of](/en/post/of/) blemishes.
-2. [To](/en/post/to/) [refine](/en/post/refine/) [or](/en/post/or/) [perfect](/en/post/perfect/) one's [knowledge](/en/post/knowledge/), skills, [or](/en/post/or/) presentation.
-3. [To](/en/post/to/) groom [or](/en/post/or/) [present](/en/post/present/) [oneself](/en/post/oneself/) [or](/en/post/or/) [something](/en/post/something/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/), [often](/en/post/often/) [to](/en/post/to/) [improve](/en/post/improve/) [its](/en/post/its/) [appearance](/en/post/appearance/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [clean](/post/clean/) [and](/post/and/) [smooth](/post/smooth/) [the](/post/the/) [surface](/post/surface/) [of](/post/of/) [something](/post/something/), [usually](/post/usually/) [with](/post/with/) [a](/post/a/) polishing [agent](/post/agent/), [to](/post/to/) [make](/post/make/) [it](/post/it/) shiny [or](/post/or/) [free](/post/free/) [of](/post/of/) blemishes.
+2. [To](/post/to/) [refine](/post/refine/) [or](/post/or/) [perfect](/post/perfect/) one's [knowledge](/post/knowledge/), skills, [or](/post/or/) presentation.
+3. [To](/post/to/) groom [or](/post/or/) [present](/post/present/) [oneself](/post/oneself/) [or](/post/or/) [something](/post/something/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/), [often](/post/often/) [to](/post/to/) [improve](/post/improve/) [its](/post/its/) [appearance](/post/appearance/).
 
-### [Adjective](/en/post/adjective/)
-1. Having [a](/en/post/a/) [smooth](/en/post/smooth/), shiny, [or](/en/post/or/) glossy [appearance](/en/post/appearance/).
-2. Carefully [or](/en/post/or/) elegantly refined [or](/en/post/or/) polished [in](/en/post/in/) [style](/en/post/style/) [or](/en/post/or/) execution.
+### [Adjective](/post/adjective/)
+1. Having [a](/post/a/) [smooth](/post/smooth/), shiny, [or](/post/or/) glossy [appearance](/post/appearance/).
+2. Carefully [or](/post/or/) elegantly refined [or](/post/or/) polished [in](/post/in/) [style](/post/style/) [or](/post/or/) execution.
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) polished [manner](/en/post/manner/) [or](/en/post/or/) [with](/en/post/with/) [great](/en/post/great/) [skill](/en/post/skill/).
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) polished [manner](/post/manner/) [or](/post/or/) [with](/post/with/) [great](/post/great/) [skill](/post/skill/).
 
 ## Phrases
-- "[Polish](/en/post/polish/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) [improve](/en/post/improve/) [or](/en/post/or/) [refine](/en/post/refine/) [something](/en/post/something/).
-- "[Give](/en/post/give/) [something](/en/post/something/) [a](/en/post/a/) [polish](/en/post/polish/)" is [a](/en/post/a/) colloquial [way](/en/post/way/) [to](/en/post/to/) [say](/en/post/say/) [clean](/en/post/clean/) [or](/en/post/or/) spruce [up](/en/post/up/) an [object](/en/post/object/).
-- "Polished [professional](/en/post/professional/)" describes [someone](/en/post/someone/) [who](/en/post/who/) is well-groomed [and](/en/post/and/) [competent](/en/post/competent/) [in](/en/post/in/) [their](/en/post/their/) [work](/en/post/work/).
+- "[Polish](/post/polish/) [up](/post/up/)" [means](/post/means/) [to](/post/to/) [improve](/post/improve/) [or](/post/or/) [refine](/post/refine/) [something](/post/something/).
+- "[Give](/post/give/) [something](/post/something/) [a](/post/a/) [polish](/post/polish/)" is [a](/post/a/) colloquial [way](/post/way/) [to](/post/to/) [say](/post/say/) [clean](/post/clean/) [or](/post/or/) spruce [up](/post/up/) an [object](/post/object/).
+- "Polished [professional](/post/professional/)" describes [someone](/post/someone/) [who](/post/who/) is well-groomed [and](/post/and/) [competent](/post/competent/) [in](/post/in/) [their](/post/their/) [work](/post/work/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) hours [of](/en/post/of/) polishing, [the](/en/post/the/) silverware shone brightly."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) polished [her](/en/post/her/) résumé [to](/en/post/to/) [increase](/en/post/increase/) [her](/en/post/her/) chances [of](/en/post/of/) getting [the](/en/post/the/) [job](/en/post/job/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) artist's paintings had [a](/en/post/a/) [highly](/en/post/highly/) polished, [sophisticated](/en/post/sophisticated/) [style](/en/post/style/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) delivered [his](/en/post/his/) [speech](/en/post/speech/) [with](/en/post/with/) [a](/en/post/a/) polished [and](/en/post/and/) [confident](/en/post/confident/) demeanor."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) hours [of](/post/of/) polishing, [the](/post/the/) silverware shone brightly."
+- **[Verb](/post/verb/)**: "[She](/post/she/) polished [her](/post/her/) résumé [to](/post/to/) [increase](/post/increase/) [her](/post/her/) chances [of](/post/of/) getting [the](/post/the/) [job](/post/job/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) artist's paintings had [a](/post/a/) [highly](/post/highly/) polished, [sophisticated](/post/sophisticated/) [style](/post/style/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) delivered [his](/post/his/) [speech](/post/speech/) [with](/post/with/) [a](/post/a/) polished [and](/post/and/) [confident](/post/confident/) demeanor."
 
 ## Synonyms
-- [Shine](/en/post/shine/)
-- [Smooth](/en/post/smooth/)
+- [Shine](/post/shine/)
+- [Smooth](/post/smooth/)
 - Gloss
-- [Refine](/en/post/refine/)
-- [Perfect](/en/post/perfect/)
-- [Cultivate](/en/post/cultivate/)
-- [Sharpen](/en/post/sharpen/)
+- [Refine](/post/refine/)
+- [Perfect](/post/perfect/)
+- [Cultivate](/post/cultivate/)
+- [Sharpen](/post/sharpen/)
 - hone
-- [Tidy](/en/post/tidy/)
+- [Tidy](/post/tidy/)
 - Streamline

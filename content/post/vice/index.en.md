@@ -7,38 +7,38 @@ description = 'n.(老)虎钳'
 keywords = ['ai words', 'vice']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vsaɪs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [moral](/en/post/moral/) failing [or](/en/post/or/) habitually [wrong](/en/post/wrong/) [or](/en/post/or/) [harmful](/en/post/harmful/) [action](/en/post/action/), [especially](/en/post/especially/) [one](/en/post/one/) considered [a](/en/post/a/) [sin](/en/post/sin/) [or](/en/post/or/) [a](/en/post/a/) [vice](/en/post/vice/). "[He](/en/post/he/) struggled [with](/en/post/with/) [his](/en/post/his/) gambling [vice](/en/post/vice/)." 2. (pl.) [A](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [role](/en/post/role/), [often](/en/post/often/) implying [a](/en/post/a/) [negative](/en/post/negative/) [aspect](/en/post/aspect/). "[She](/en/post/she/) took [on](/en/post/on/) [the](/en/post/the/) [vice](/en/post/vice/) presidency [of](/en/post/of/) [the](/en/post/the/) [charity](/en/post/charity/) [event](/en/post/event/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) indulge [in](/en/post/in/) [or](/en/post/or/) [practice](/en/post/practice/) [a](/en/post/a/) [harmful](/en/post/harmful/) [or](/en/post/or/) immoral [habit](/en/post/habit/), [such](/en/post/such/) [as](/en/post/as/) smoking [or](/en/post/or/) drinking. "[He](/en/post/he/) vowed [to](/en/post/to/) [quit](/en/post/quit/) smoking, [but](/en/post/but/) [found](/en/post/found/) [it](/en/post/it/) [hard](/en/post/hard/) [to](/en/post/to/) [resist](/en/post/resist/) [the](/en/post/the/) [vice](/en/post/vice/)."
-- **[Adjective](/en/post/adjective/)**: Characterizing [a](/en/post/a/) [vice](/en/post/vice/), [such](/en/post/such/) [as](/en/post/as/) "vice-like [grip](/en/post/grip/)" [or](/en/post/or/) "vice-like [hold](/en/post/hold/)."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [moral](/post/moral/) failing [or](/post/or/) habitually [wrong](/post/wrong/) [or](/post/or/) [harmful](/post/harmful/) [action](/post/action/), [especially](/post/especially/) [one](/post/one/) considered [a](/post/a/) [sin](/post/sin/) [or](/post/or/) [a](/post/a/) [vice](/post/vice/). "[He](/post/he/) struggled [with](/post/with/) [his](/post/his/) gambling [vice](/post/vice/)." 2. (pl.) [A](/post/a/) [position](/post/position/) [or](/post/or/) [role](/post/role/), [often](/post/often/) implying [a](/post/a/) [negative](/post/negative/) [aspect](/post/aspect/). "[She](/post/she/) took [on](/post/on/) [the](/post/the/) [vice](/post/vice/) presidency [of](/post/of/) [the](/post/the/) [charity](/post/charity/) [event](/post/event/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) indulge [in](/post/in/) [or](/post/or/) [practice](/post/practice/) [a](/post/a/) [harmful](/post/harmful/) [or](/post/or/) immoral [habit](/post/habit/), [such](/post/such/) [as](/post/as/) smoking [or](/post/or/) drinking. "[He](/post/he/) vowed [to](/post/to/) [quit](/post/quit/) smoking, [but](/post/but/) [found](/post/found/) [it](/post/it/) [hard](/post/hard/) [to](/post/to/) [resist](/post/resist/) [the](/post/the/) [vice](/post/vice/)."
+- **[Adjective](/post/adjective/)**: Characterizing [a](/post/a/) [vice](/post/vice/), [such](/post/such/) [as](/post/as/) "vice-like [grip](/post/grip/)" [or](/post/or/) "vice-like [hold](/post/hold/)."
 
 ## Phrases
-- "Overcoming [a](/en/post/a/) [vice](/en/post/vice/)" [means](/en/post/means/) quitting [or](/en/post/or/) breaking [a](/en/post/a/) [harmful](/en/post/harmful/) [habit](/en/post/habit/).
-- "Lust, gluttony, [envy](/en/post/envy/), [pride](/en/post/pride/), wrath, sloth, [and](/en/post/and/) greed are [the](/en/post/the/) [seven](/en/post/seven/) [deadly](/en/post/deadly/) sins."
-- "[Living](/en/post/living/) [a](/en/post/a/) [life](/en/post/life/) [of](/en/post/of/) moderation is [the](/en/post/the/) [opposite](/en/post/opposite/) [of](/en/post/of/) [being](/en/post/being/) consumed [by](/en/post/by/) vices."
+- "Overcoming [a](/post/a/) [vice](/post/vice/)" [means](/post/means/) quitting [or](/post/or/) breaking [a](/post/a/) [harmful](/post/harmful/) [habit](/post/habit/).
+- "Lust, gluttony, [envy](/post/envy/), [pride](/post/pride/), wrath, sloth, [and](/post/and/) greed are [the](/post/the/) [seven](/post/seven/) [deadly](/post/deadly/) sins."
+- "[Living](/post/living/) [a](/post/a/) [life](/post/life/) [of](/post/of/) moderation is [the](/post/the/) [opposite](/post/opposite/) [of](/post/of/) [being](/post/being/) consumed [by](/post/by/) vices."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [struggle](/en/post/struggle/) [with](/en/post/with/) alcoholism was [a](/en/post/a/) [well-known](/en/post/well-known/) [vice](/en/post/vice/) [in](/en/post/in/) [the](/en/post/the/) [community](/en/post/community/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) recovering addict sought therapy [to](/en/post/to/) [overcome](/en/post/overcome/) [his](/en/post/his/) [drug](/en/post/drug/) [vice](/en/post/vice/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [vice](/en/post/vice/) president's ironclad vice-like [grip](/en/post/grip/) [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/) kept [everyone](/en/post/everyone/) [on](/en/post/on/) [track](/en/post/track/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [struggle](/post/struggle/) [with](/post/with/) alcoholism was [a](/post/a/) [well-known](/post/well-known/) [vice](/post/vice/) [in](/post/in/) [the](/post/the/) [community](/post/community/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) recovering addict sought therapy [to](/post/to/) [overcome](/post/overcome/) [his](/post/his/) [drug](/post/drug/) [vice](/post/vice/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [vice](/post/vice/) president's ironclad vice-like [grip](/post/grip/) [on](/post/on/) [the](/post/the/) [project](/post/project/) kept [everyone](/post/everyone/) [on](/post/on/) [track](/post/track/)."
 
 ## Synonyms
-- [Sin](/en/post/sin/)
-- [Fault](/en/post/fault/)
-- [Habit](/en/post/habit/)
+- [Sin](/post/sin/)
+- [Fault](/post/fault/)
+- [Habit](/post/habit/)
 -弊病
-- [Weakness](/en/post/weakness/)
+- [Weakness](/post/weakness/)
 - Obsession
 - Compulsion
 - Indulgence
 
 ## Antonyms
-- [Virtue](/en/post/virtue/)
-- [Strength](/en/post/strength/)
+- [Virtue](/post/virtue/)
+- [Strength](/post/strength/)
 - Temperance
 - Abstinence
-- [Control](/en/post/control/)
+- [Control](/post/control/)
 - Moderation

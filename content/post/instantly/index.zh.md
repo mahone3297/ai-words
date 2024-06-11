@@ -14,17 +14,17 @@ keywords = ['ai words', 'instantly']
 - **副词**: 立即，马上，迅速地。表示动作在极短的时间内完成。
 
 ## 短语
-- "[Do](/post/do/) [it](/post/it/) [instantly](/post/instantly/)" 意味着立刻去做。
-- "[Instantly](/post/instantly/) [available](/post/available/)" 表示可以立即获取或使用。
+- "[Do](/zh/post/do/) [it](/zh/post/it/) [instantly](/zh/post/instantly/)" 意味着立刻去做。
+- "[Instantly](/zh/post/instantly/) [available](/zh/post/available/)" 表示可以立即获取或使用。
 
 ## 例句
-- "[As](/post/as/) [soon](/post/soon/) [as](/post/as/) I pressed [the](/post/the/) [button](/post/button/), [the](/post/the/) [computer](/post/computer/) [shut](/post/shut/) [down](/post/down/) [instantly](/post/instantly/)."
-- "[The](/post/the/) [moment](/post/moment/) I [saw](/post/saw/) [him](/post/him/), I recognized [him](/post/him/) [instantly](/post/instantly/)."
-- "[The](/post/the/) [coffee](/post/coffee/) is [instantly](/post/instantly/) prepared, [just](/post/just/) [add](/post/add/) [hot](/post/hot/) [water](/post/water/)."
+- "[As](/zh/post/as/) [soon](/zh/post/soon/) [as](/zh/post/as/) I pressed [the](/zh/post/the/) [button](/zh/post/button/), [the](/zh/post/the/) [computer](/zh/post/computer/) [shut](/zh/post/shut/) [down](/zh/post/down/) [instantly](/zh/post/instantly/)."
+- "[The](/zh/post/the/) [moment](/zh/post/moment/) I [saw](/zh/post/saw/) [him](/zh/post/him/), I recognized [him](/zh/post/him/) [instantly](/zh/post/instantly/)."
+- "[The](/zh/post/the/) [coffee](/zh/post/coffee/) is [instantly](/zh/post/instantly/) prepared, [just](/zh/post/just/) [add](/zh/post/add/) [hot](/zh/post/hot/) [water](/zh/post/water/)."
 
 ## 同义词
-- [Immediately](/post/immediately/)
+- [Immediately](/zh/post/immediately/)
 - Promptly
 - Straightaway
-- [Directly](/post/directly/)
-- [In](/post/in/) [a](/post/a/) [flash](/post/flash/)
+- [Directly](/zh/post/directly/)
+- [In](/zh/post/in/) [a](/zh/post/a/) [flash](/zh/post/flash/)

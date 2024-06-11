@@ -7,29 +7,29 @@ description = '[həul] n.洞；孔眼，裂开处'
 keywords = ['ai words', 'hole']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /həʊl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [hollow](/en/post/hollow/) [space](/en/post/space/) [or](/en/post/or/) [opening](/en/post/opening/) [in](/en/post/in/) [a](/en/post/a/) [surface](/en/post/surface/) [or](/en/post/or/) [object](/en/post/object/). [For](/en/post/for/) [example](/en/post/example/): "There's [a](/en/post/a/) [small](/en/post/small/) [hole](/en/post/hole/) [in](/en/post/in/) [my](/en/post/my/) [sock](/en/post/sock/)."
-- **[Verb](/en/post/verb/)**: ([hole](/en/post/hole/) [out](/en/post/out/)) [To](/en/post/to/) [make](/en/post/make/) [or](/en/post/or/) [force](/en/post/force/) [a](/en/post/a/) [hole](/en/post/hole/) [in](/en/post/in/) [something](/en/post/something/); [also](/en/post/also/) [used](/en/post/used/) [in](/en/post/in/) [golf](/en/post/golf/) [to](/en/post/to/) [describe](/en/post/describe/) [when](/en/post/when/) [a](/en/post/a/) [player](/en/post/player/) hits [the](/en/post/the/) [ball](/en/post/ball/) [into](/en/post/into/) [the](/en/post/the/) [cup](/en/post/cup/). [Example](/en/post/example/): "I managed [to](/en/post/to/) [hole](/en/post/hole/) [out](/en/post/out/) [from](/en/post/from/) [the](/en/post/the/) bunker [on](/en/post/on/) [the](/en/post/the/) 18th [hole](/en/post/hole/)."
-- **[Verb](/en/post/verb/)**: ([hole](/en/post/hole/) [up](/en/post/up/)) [To](/en/post/to/) [take](/en/post/take/) [refuge](/en/post/refuge/) [or](/en/post/or/) [hide](/en/post/hide/) [in](/en/post/in/) [a](/en/post/a/) [place](/en/post/place/). [Example](/en/post/example/): "[During](/en/post/during/) [the](/en/post/the/) [storm](/en/post/storm/), [we](/en/post/we/) holed [up](/en/post/up/) [in](/en/post/in/) [a](/en/post/a/) cozy [cabin](/en/post/cabin/) [until](/en/post/until/) [it](/en/post/it/) passed."
+- **[Noun](/post/noun/)**: [A](/post/a/) [hollow](/post/hollow/) [space](/post/space/) [or](/post/or/) [opening](/post/opening/) [in](/post/in/) [a](/post/a/) [surface](/post/surface/) [or](/post/or/) [object](/post/object/). [For](/post/for/) [example](/post/example/): "There's [a](/post/a/) [small](/post/small/) [hole](/post/hole/) [in](/post/in/) [my](/post/my/) [sock](/post/sock/)."
+- **[Verb](/post/verb/)**: ([hole](/post/hole/) [out](/post/out/)) [To](/post/to/) [make](/post/make/) [or](/post/or/) [force](/post/force/) [a](/post/a/) [hole](/post/hole/) [in](/post/in/) [something](/post/something/); [also](/post/also/) [used](/post/used/) [in](/post/in/) [golf](/post/golf/) [to](/post/to/) [describe](/post/describe/) [when](/post/when/) [a](/post/a/) [player](/post/player/) hits [the](/post/the/) [ball](/post/ball/) [into](/post/into/) [the](/post/the/) [cup](/post/cup/). [Example](/post/example/): "I managed [to](/post/to/) [hole](/post/hole/) [out](/post/out/) [from](/post/from/) [the](/post/the/) bunker [on](/post/on/) [the](/post/the/) 18th [hole](/post/hole/)."
+- **[Verb](/post/verb/)**: ([hole](/post/hole/) [up](/post/up/)) [To](/post/to/) [take](/post/take/) [refuge](/post/refuge/) [or](/post/or/) [hide](/post/hide/) [in](/post/in/) [a](/post/a/) [place](/post/place/). [Example](/post/example/): "[During](/post/during/) [the](/post/the/) [storm](/post/storm/), [we](/post/we/) holed [up](/post/up/) [in](/post/in/) [a](/post/a/) cozy [cabin](/post/cabin/) [until](/post/until/) [it](/post/it/) passed."
 
 ## Phrases
-- "[Dig](/en/post/dig/) [a](/en/post/a/) [hole](/en/post/hole/)": [To](/en/post/to/) excavate [a](/en/post/a/) [hollow](/en/post/hollow/) [space](/en/post/space/) [in](/en/post/in/) [the](/en/post/the/) [ground](/en/post/ground/).
-- "[In](/en/post/in/) [the](/en/post/the/) [hole](/en/post/hole/)": [In](/en/post/in/) [golf](/en/post/golf/), [this](/en/post/this/) refers [to](/en/post/to/) [a](/en/post/a/) [position](/en/post/position/) [where](/en/post/where/) [a](/en/post/a/) player's [ball](/en/post/ball/) is [behind](/en/post/behind/) [the](/en/post/the/) desired [spot](/en/post/spot/), [such](/en/post/such/) [as](/en/post/as/) [being](/en/post/being/) [one](/en/post/one/) [stroke](/en/post/stroke/) [over](/en/post/over/) par [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [hole](/en/post/hole/).
-- "[Burn](/en/post/burn/) [a](/en/post/a/) [hole](/en/post/hole/) [in](/en/post/in/) one's [pocket](/en/post/pocket/)": Figurative [expression](/en/post/expression/) [meaning](/en/post/meaning/) [that](/en/post/that/) [money](/en/post/money/) is burning [a](/en/post/a/) figurative [hole](/en/post/hole/), urging [the](/en/post/the/) [person](/en/post/person/) [to](/en/post/to/) [spend](/en/post/spend/) [it](/en/post/it/) [quickly](/en/post/quickly/).
+- "[Dig](/post/dig/) [a](/post/a/) [hole](/post/hole/)": [To](/post/to/) excavate [a](/post/a/) [hollow](/post/hollow/) [space](/post/space/) [in](/post/in/) [the](/post/the/) [ground](/post/ground/).
+- "[In](/post/in/) [the](/post/the/) [hole](/post/hole/)": [In](/post/in/) [golf](/post/golf/), [this](/post/this/) refers [to](/post/to/) [a](/post/a/) [position](/post/position/) [where](/post/where/) [a](/post/a/) player's [ball](/post/ball/) is [behind](/post/behind/) [the](/post/the/) desired [spot](/post/spot/), [such](/post/such/) [as](/post/as/) [being](/post/being/) [one](/post/one/) [stroke](/post/stroke/) [over](/post/over/) par [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [hole](/post/hole/).
+- "[Burn](/post/burn/) [a](/post/a/) [hole](/post/hole/) [in](/post/in/) one's [pocket](/post/pocket/)": Figurative [expression](/post/expression/) [meaning](/post/meaning/) [that](/post/that/) [money](/post/money/) is burning [a](/post/a/) figurative [hole](/post/hole/), urging [the](/post/the/) [person](/post/person/) [to](/post/to/) [spend](/post/spend/) [it](/post/it/) [quickly](/post/quickly/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [rabbit](/en/post/rabbit/) disappeared [down](/en/post/down/) [its](/en/post/its/) burrow, leaving [only](/en/post/only/) [a](/en/post/a/) [small](/en/post/small/) [hole](/en/post/hole/) [in](/en/post/in/) [the](/en/post/the/) [ground](/en/post/ground/)."
-- **[Verb](/en/post/verb/) ([hole](/en/post/hole/) [out](/en/post/out/))**: "[After](/en/post/after/) [several](/en/post/several/) attempts, [he](/en/post/he/) [finally](/en/post/finally/) holed [out](/en/post/out/) [his](/en/post/his/) putt [to](/en/post/to/) [win](/en/post/win/) [the](/en/post/the/) tournament."
-- **[Verb](/en/post/verb/) ([hole](/en/post/hole/) [up](/en/post/up/))**: "[They](/en/post/they/) decided [to](/en/post/to/) [hole](/en/post/hole/) [up](/en/post/up/) [at](/en/post/at/) [home](/en/post/home/) [during](/en/post/during/) [the](/en/post/the/) quarantine [period](/en/post/period/) [to](/en/post/to/) [stay](/en/post/stay/) [safe](/en/post/safe/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [rabbit](/post/rabbit/) disappeared [down](/post/down/) [its](/post/its/) burrow, leaving [only](/post/only/) [a](/post/a/) [small](/post/small/) [hole](/post/hole/) [in](/post/in/) [the](/post/the/) [ground](/post/ground/)."
+- **[Verb](/post/verb/) ([hole](/post/hole/) [out](/post/out/))**: "[After](/post/after/) [several](/post/several/) attempts, [he](/post/he/) [finally](/post/finally/) holed [out](/post/out/) [his](/post/his/) putt [to](/post/to/) [win](/post/win/) [the](/post/the/) tournament."
+- **[Verb](/post/verb/) ([hole](/post/hole/) [up](/post/up/))**: "[They](/post/they/) decided [to](/post/to/) [hole](/post/hole/) [up](/post/up/) [at](/post/at/) [home](/post/home/) [during](/post/during/) [the](/post/the/) quarantine [period](/post/period/) [to](/post/to/) [stay](/post/stay/) [safe](/post/safe/)."
 
 ## Synonyms
-- [Opening](/en/post/opening/)
-- [Gap](/en/post/gap/)
+- [Opening](/post/opening/)
+- [Gap](/post/gap/)
 - Void
-- [Pit](/en/post/pit/)
-- [Hollow](/en/post/hollow/)
-- Vacancy ([for](/en/post/for/) [abstract](/en/post/abstract/) uses)
-- [Shelter](/en/post/shelter/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), '[hole](/en/post/hole/) [up](/en/post/up/)')
+- [Pit](/post/pit/)
+- [Hollow](/post/hollow/)
+- Vacancy ([for](/post/for/) [abstract](/post/abstract/) uses)
+- [Shelter](/post/shelter/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), '[hole](/post/hole/) [up](/post/up/)')

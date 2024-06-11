@@ -12,27 +12,27 @@ keywords = ['ai words', 'rag']
 
 ## 释义
 - **名词**:
-   - 旧衣物碎片，常用来擦拭或清洁。例如: "[She](/post/she/) [used](/post/used/) an [old](/post/old/) [rag](/post/rag/) [to](/post/to/) [clean](/post/clean/) [the](/post/the/) [furniture](/post/furniture/)."
-   - 报纸的贬称，尤指低质量的出版物。例如: "Don't [believe](/post/believe/) [everything](/post/everything/) [you](/post/you/) [read](/post/read/) [in](/post/in/) [that](/post/that/) [rag](/post/rag/); it's [full](/post/full/) [of](/post/of/) gossip [and](/post/and/) lies."
-   - 破布，破烂的衣服。例如: "[The](/post/the/) [beggar](/post/beggar/) was wrapped [in](/post/in/) rags [in](/post/in/) [the](/post/the/) [cold](/post/cold/) [winter](/post/winter/)."
+   - 旧衣物碎片，常用来擦拭或清洁。例如: "[She](/zh/post/she/) [used](/zh/post/used/) an [old](/zh/post/old/) [rag](/zh/post/rag/) [to](/zh/post/to/) [clean](/zh/post/clean/) [the](/zh/post/the/) [furniture](/zh/post/furniture/)."
+   - 报纸的贬称，尤指低质量的出版物。例如: "Don't [believe](/zh/post/believe/) [everything](/zh/post/everything/) [you](/zh/post/you/) [read](/zh/post/read/) [in](/zh/post/in/) [that](/zh/post/that/) [rag](/zh/post/rag/); it's [full](/zh/post/full/) [of](/zh/post/of/) gossip [and](/zh/post/and/) lies."
+   - 破布，破烂的衣服。例如: "[The](/zh/post/the/) [beggar](/zh/post/beggar/) was wrapped [in](/zh/post/in/) rags [in](/zh/post/in/) [the](/zh/post/the/) [cold](/zh/post/cold/) [winter](/zh/post/winter/)."
 
 - **动词**:
-   - 糟蹋，戏弄（某人）。例如: "[They](/post/they/) were ragging [on](/post/on/) [him](/post/him/) [for](/post/for/) [his](/post/his/) [silly](/post/silly/) [joke](/post/joke/)."
-   - 粗糙地擦洗。例如: "I ragged [the](/post/the/) [floor](/post/floor/) [with](/post/with/) [a](/post/a/) [wet](/post/wet/) [cloth](/post/cloth/) [to](/post/to/) [remove](/post/remove/) [the](/post/the/) [dirt](/post/dirt/)."
+   - 糟蹋，戏弄（某人）。例如: "[They](/zh/post/they/) were ragging [on](/zh/post/on/) [him](/zh/post/him/) [for](/zh/post/for/) [his](/zh/post/his/) [silly](/zh/post/silly/) [joke](/zh/post/joke/)."
+   - 粗糙地擦洗。例如: "I ragged [the](/zh/post/the/) [floor](/zh/post/floor/) [with](/zh/post/with/) [a](/zh/post/a/) [wet](/zh/post/wet/) [cloth](/zh/post/cloth/) [to](/zh/post/to/) [remove](/zh/post/remove/) [the](/zh/post/the/) [dirt](/zh/post/dirt/)."
 
 ## 短语
-- "[rag](/post/rag/) [about](/post/about/)" 意为戏弄或嘲笑某人。
-- "[rag](/post/rag/) [on](/post/on/) [someone](/post/someone/)" 意味着持续不断地批评或取笑某人。
-- "[in](/post/in/) rags" 用来描述衣衫褴褛的状态。
+- "[rag](/zh/post/rag/) [about](/zh/post/about/)" 意为戏弄或嘲笑某人。
+- "[rag](/zh/post/rag/) [on](/zh/post/on/) [someone](/zh/post/someone/)" 意味着持续不断地批评或取笑某人。
+- "[in](/zh/post/in/) rags" 用来描述衣衫褴褛的状态。
 
 ## 例句
-- 名词: "[She](/post/she/) [found](/post/found/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [rag](/post/rag/) [in](/post/in/) [the](/post/the/) [corner](/post/corner/) [to](/post/to/) [clean](/post/clean/) [the](/post/the/) spills."
-- 动词: "[The](/post/the/) boys were ragging [each](/post/each/) [other](/post/other/) [during](/post/during/) [their](/post/their/) [friendly](/post/friendly/) [match](/post/match/)."
-- "[The](/post/the/) homeless [man](/post/man/) was seen wandering [around](/post/around/) [in](/post/in/) rags."
+- 名词: "[She](/zh/post/she/) [found](/zh/post/found/) [a](/zh/post/a/) [piece](/zh/post/piece/) [of](/zh/post/of/) [rag](/zh/post/rag/) [in](/zh/post/in/) [the](/zh/post/the/) [corner](/zh/post/corner/) [to](/zh/post/to/) [clean](/zh/post/clean/) [the](/zh/post/the/) spills."
+- 动词: "[The](/zh/post/the/) boys were ragging [each](/zh/post/each/) [other](/zh/post/other/) [during](/zh/post/during/) [their](/zh/post/their/) [friendly](/zh/post/friendly/) [match](/zh/post/match/)."
+- "[The](/zh/post/the/) homeless [man](/zh/post/man/) was seen wandering [around](/zh/post/around/) [in](/zh/post/in/) rags."
 
 ## 同义词
 - Scrap
-- [Piece](/post/piece/) [of](/post/of/) [cloth](/post/cloth/)
+- [Piece](/zh/post/piece/) [of](/zh/post/of/) [cloth](/zh/post/cloth/)
 - Tatter
-- [Joke](/post/joke/) ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) "[to](/post/to/) [rag](/post/rag/)")
-- Tease ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) "[to](/post/to/) [rag](/post/rag/)")
+- [Joke](/zh/post/joke/) ([for](/zh/post/for/) [the](/zh/post/the/) [verb](/zh/post/verb/) "[to](/zh/post/to/) [rag](/zh/post/rag/)")
+- Tease ([for](/zh/post/for/) [the](/zh/post/the/) [verb](/zh/post/verb/) "[to](/zh/post/to/) [rag](/zh/post/rag/)")

@@ -7,35 +7,35 @@ description = '[ˈfestəvəl] n.节日；音乐节'
 keywords = ['ai words', 'festival']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfestəvəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/) [or](/en/post/or/) [important](/en/post/important/) [event](/en/post/event/), typically [one](/en/post/one/) [that](/en/post/that/) involves [multiple](/en/post/multiple/) performances, shows, [or](/en/post/or/) activities, [often](/en/post/often/) held annually [and](/en/post/and/) celebrating [a](/en/post/a/) [particular](/en/post/particular/) theme, [culture](/en/post/culture/), [or](/en/post/or/) [community](/en/post/community/). 
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/) [or](/post/or/) [important](/post/important/) [event](/post/event/), typically [one](/post/one/) [that](/post/that/) involves [multiple](/post/multiple/) performances, shows, [or](/post/or/) activities, [often](/post/often/) held annually [and](/post/and/) celebrating [a](/post/a/) [particular](/post/particular/) theme, [culture](/post/culture/), [or](/post/or/) [community](/post/community/). 
 
-  - [Example](/en/post/example/): "[The](/en/post/the/) [music](/en/post/music/) [festival](/en/post/festival/) attracts thousands [of](/en/post/of/) fans [from](/en/post/from/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/) [each](/en/post/each/) [year](/en/post/year/)."
-  - "[They](/en/post/they/) organized [a](/en/post/a/) [food](/en/post/food/) [and](/en/post/and/) [wine](/en/post/wine/) [festival](/en/post/festival/) [to](/en/post/to/) showcase [local](/en/post/local/) producers."
-  - "[The](/en/post/the/) [annual](/en/post/annual/) arts [festival](/en/post/festival/) is [a](/en/post/a/) highlight [of](/en/post/of/) [the](/en/post/the/) city's cultural [calendar](/en/post/calendar/)."
+  - [Example](/post/example/): "[The](/post/the/) [music](/post/music/) [festival](/post/festival/) attracts thousands [of](/post/of/) fans [from](/post/from/) [around](/post/around/) [the](/post/the/) [world](/post/world/) [each](/post/each/) [year](/post/year/)."
+  - "[They](/post/they/) organized [a](/post/a/) [food](/post/food/) [and](/post/and/) [wine](/post/wine/) [festival](/post/festival/) [to](/post/to/) showcase [local](/post/local/) producers."
+  - "[The](/post/the/) [annual](/post/annual/) arts [festival](/post/festival/) is [a](/post/a/) highlight [of](/post/of/) [the](/post/the/) city's cultural [calendar](/post/calendar/)."
 
 ## Phrases
-- "Carnival [festival](/en/post/festival/)": [A](/en/post/a/) festive [season](/en/post/season/) [usually](/en/post/usually/) associated [with](/en/post/with/) [elaborate](/en/post/elaborate/) costumes, parades, [and](/en/post/and/) [street](/en/post/street/) parties.
-- "[Film](/en/post/film/) [festival](/en/post/festival/)": An [event](/en/post/event/) [where](/en/post/where/) [many](/en/post/many/) films are screened, [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [presence](/en/post/presence/) [of](/en/post/of/) filmmakers [and](/en/post/and/) actors [for](/en/post/for/) discussions [and](/en/post/and/) awards ceremonies.
-- "[Music](/en/post/music/) [festival](/en/post/festival/)": [A](/en/post/a/) large-scale [event](/en/post/event/) featuring [multiple](/en/post/multiple/) [live](/en/post/live/) [musical](/en/post/musical/) performances [across](/en/post/across/) [different](/en/post/different/) stages.
-- "[Harvest](/en/post/harvest/) [festival](/en/post/festival/)": [A](/en/post/a/) [traditional](/en/post/traditional/) celebration [of](/en/post/of/) [the](/en/post/the/) [harvest](/en/post/harvest/), typically held [after](/en/post/after/) crops [have](/en/post/have/) been gathered [in](/en/post/in/).
+- "Carnival [festival](/post/festival/)": [A](/post/a/) festive [season](/post/season/) [usually](/post/usually/) associated [with](/post/with/) [elaborate](/post/elaborate/) costumes, parades, [and](/post/and/) [street](/post/street/) parties.
+- "[Film](/post/film/) [festival](/post/festival/)": An [event](/post/event/) [where](/post/where/) [many](/post/many/) films are screened, [often](/post/often/) [with](/post/with/) [the](/post/the/) [presence](/post/presence/) [of](/post/of/) filmmakers [and](/post/and/) actors [for](/post/for/) discussions [and](/post/and/) awards ceremonies.
+- "[Music](/post/music/) [festival](/post/festival/)": [A](/post/a/) large-scale [event](/post/event/) featuring [multiple](/post/multiple/) [live](/post/live/) [musical](/post/musical/) performances [across](/post/across/) [different](/post/different/) stages.
+- "[Harvest](/post/harvest/) [festival](/post/festival/)": [A](/post/a/) [traditional](/post/traditional/) celebration [of](/post/of/) [the](/post/the/) [harvest](/post/harvest/), typically held [after](/post/after/) crops [have](/post/have/) been gathered [in](/post/in/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[During](/en/post/during/) [the](/en/post/the/) [summer](/en/post/summer/), [we](/en/post/we/) attended [several](/en/post/several/) [outdoor](/en/post/outdoor/) festivals featuring [everything](/en/post/everything/) [from](/en/post/from/) [folk](/en/post/folk/) [music](/en/post/music/) [to](/en/post/to/) Shakespearean plays."
-- "[The](/en/post/the/) [town](/en/post/town/) [square](/en/post/square/) was bustling [with](/en/post/with/) [activity](/en/post/activity/) [during](/en/post/during/) [the](/en/post/the/) Christmas [festival](/en/post/festival/), [complete](/en/post/complete/) [with](/en/post/with/) carol singing [and](/en/post/and/) [a](/en/post/a/) yuletide [market](/en/post/market/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[During](/post/during/) [the](/post/the/) [summer](/post/summer/), [we](/post/we/) attended [several](/post/several/) [outdoor](/post/outdoor/) festivals featuring [everything](/post/everything/) [from](/post/from/) [folk](/post/folk/) [music](/post/music/) [to](/post/to/) Shakespearean plays."
+- "[The](/post/the/) [town](/post/town/) [square](/post/square/) was bustling [with](/post/with/) [activity](/post/activity/) [during](/post/during/) [the](/post/the/) Christmas [festival](/post/festival/), [complete](/post/complete/) [with](/post/with/) carol singing [and](/post/and/) [a](/post/a/) yuletide [market](/post/market/)."
 
 ## Synonyms
-- [Fair](/en/post/fair/)
+- [Fair](/post/fair/)
 - Gala
 - Celebration
 - Gathering
-- [Convention](/en/post/convention/)
-- [Event](/en/post/event/)
-- [Party](/en/post/party/)
+- [Convention](/post/convention/)
+- [Event](/post/event/)
+- [Party](/post/party/)
 - Commemoration
-- [Feast](/en/post/feast/)
+- [Feast](/post/feast/)
 - Jubilee
-- Carnivale ([for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [type](/en/post/type/) [of](/en/post/of/) [festival](/en/post/festival/))
+- Carnivale ([for](/post/for/) [a](/post/a/) [specific](/post/specific/) [type](/post/type/) [of](/post/of/) [festival](/post/festival/))

@@ -11,16 +11,16 @@ keywords = ['ai words', 'fortnight']
 /ˈfɔːrtnaɪt/
 
 ## 释义
-- **名词**: 十四天；两星期。例如: "[We](/post/we/) [have](/post/have/) [two](/post/two/) weeks [left](/post/left/), [or](/post/or/) [in](/post/in/) [other](/post/other/) words, [a](/post/a/) [fortnight](/post/fortnight/)."
+- **名词**: 十四天；两星期。例如: "[We](/zh/post/we/) [have](/zh/post/have/) [two](/zh/post/two/) weeks [left](/zh/post/left/), [or](/zh/post/or/) [in](/zh/post/in/) [other](/zh/post/other/) words, [a](/zh/post/a/) [fortnight](/zh/post/fortnight/)."
 
 ## 短语
-- "fortnightly" 意为每两周一次的，如 "fortnightly [magazine](/post/magazine/)"（半月刊）。
+- "fortnightly" 意为每两周一次的，如 "fortnightly [magazine](/zh/post/magazine/)"（半月刊）。
 
 ## 例句
-- "I'll [be](/post/be/) [on](/post/on/) [holiday](/post/holiday/) [for](/post/for/) [a](/post/a/) [fortnight](/post/fortnight/) starting [next](/post/next/) Monday."（从下周一开始我将休假两周。）
+- "I'll [be](/zh/post/be/) [on](/zh/post/on/) [holiday](/zh/post/holiday/) [for](/zh/post/for/) [a](/zh/post/a/) [fortnight](/zh/post/fortnight/) starting [next](/zh/post/next/) Monday."（从下周一开始我将休假两周。）
 
 ## 同义词
-- [two](/post/two/) weeks
-- [fourteen](/post/fourteen/) days
+- [two](/zh/post/two/) weeks
+- [fourteen](/zh/post/fourteen/) days
 - biweekly
 - quaterweek

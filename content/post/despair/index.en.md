@@ -7,28 +7,28 @@ description = '[disˈpeə] n.绝望 vi.绝望'
 keywords = ['ai words', 'despair']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈspɛər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Despair](/en/post/despair/)**: [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) hopelessness, [loss](/en/post/loss/) [of](/en/post/of/) [all](/en/post/all/) [confidence](/en/post/confidence/), [or](/en/post/or/) [complete](/en/post/complete/) [lack](/en/post/lack/) [of](/en/post/of/) motivation, typically [because](/en/post/because/) [of](/en/post/of/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/) [or](/en/post/or/) [failure](/en/post/failure/). [Example](/en/post/example/): "[She](/en/post/she/) was overwhelmed [with](/en/post/with/) [despair](/en/post/despair/) [after](/en/post/after/) losing [her](/en/post/her/) [job](/en/post/job/)."
+### [Noun](/post/noun/)
+**[Despair](/post/despair/)**: [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) hopelessness, [loss](/post/loss/) [of](/post/of/) [all](/post/all/) [confidence](/post/confidence/), [or](/post/or/) [complete](/post/complete/) [lack](/post/lack/) [of](/post/of/) motivation, typically [because](/post/because/) [of](/post/of/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/) [or](/post/or/) [failure](/post/failure/). [Example](/post/example/): "[She](/post/she/) was overwhelmed [with](/post/with/) [despair](/post/despair/) [after](/post/after/) losing [her](/post/her/) [job](/post/job/)."
 
-### [Verb](/en/post/verb/)
-**[Despair](/en/post/despair/)**: [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [give](/en/post/give/) [up](/en/post/up/) [hope](/en/post/hope/), [often](/en/post/often/) [in](/en/post/in/) [extreme](/en/post/extreme/) circumstances. [Example](/en/post/example/): "[The](/en/post/the/) trapped hiker began [to](/en/post/to/) [despair](/en/post/despair/) [of](/en/post/of/) [ever](/en/post/ever/) [being](/en/post/being/) rescued."
+### [Verb](/post/verb/)
+**[Despair](/post/despair/)**: [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [give](/post/give/) [up](/post/up/) [hope](/post/hope/), [often](/post/often/) [in](/post/in/) [extreme](/post/extreme/) circumstances. [Example](/post/example/): "[The](/post/the/) trapped hiker began [to](/post/to/) [despair](/post/despair/) [of](/post/of/) [ever](/post/ever/) [being](/post/being/) rescued."
 
-### [Adjective](/en/post/adjective/)
-**[Desperate](/en/post/desperate/)**: Showing [a](/en/post/a/) [great](/en/post/great/) [need](/en/post/need/) [for](/en/post/for/) [something](/en/post/something/); having [no](/en/post/no/) [alternative](/en/post/alternative/) [or](/en/post/or/) [hope](/en/post/hope/). [Example](/en/post/example/): "[In](/en/post/in/) [their](/en/post/their/) [desperate](/en/post/desperate/) [attempt](/en/post/attempt/) [to](/en/post/to/) [escape](/en/post/escape/), [they](/en/post/they/) risked [everything](/en/post/everything/)."
+### [Adjective](/post/adjective/)
+**[Desperate](/post/desperate/)**: Showing [a](/post/a/) [great](/post/great/) [need](/post/need/) [for](/post/for/) [something](/post/something/); having [no](/post/no/) [alternative](/post/alternative/) [or](/post/or/) [hope](/post/hope/). [Example](/post/example/): "[In](/post/in/) [their](/post/their/) [desperate](/post/desperate/) [attempt](/post/attempt/) [to](/post/to/) [escape](/post/escape/), [they](/post/they/) risked [everything](/post/everything/)."
 
 ## Phrases
-- "Despairing cries" denote sorrowful [or](/en/post/or/) anguished sounds.
-- "[Feeling](/en/post/feeling/) [hopeless](/en/post/hopeless/)" conveys [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [deep](/en/post/deep/) [despair](/en/post/despair/).
-- "[Despair](/en/post/despair/) sets [in](/en/post/in/)" indicates [the](/en/post/the/) onset [of](/en/post/of/) overwhelming hopelessness.
+- "Despairing cries" denote sorrowful [or](/post/or/) anguished sounds.
+- "[Feeling](/post/feeling/) [hopeless](/post/hopeless/)" conveys [a](/post/a/) [state](/post/state/) [of](/post/of/) [deep](/post/deep/) [despair](/post/despair/).
+- "[Despair](/post/despair/) sets [in](/post/in/)" indicates [the](/post/the/) onset [of](/post/of/) overwhelming hopelessness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) sank [into](/en/post/into/) [a](/en/post/a/) [deep](/en/post/deep/) [despair](/en/post/despair/) [after](/en/post/after/) [her](/en/post/her/) husband's [sudden](/en/post/sudden/) [illness](/en/post/illness/)."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) friends tried [to](/en/post/to/) reassure [him](/en/post/him/), [but](/en/post/but/) [he](/en/post/he/) was despairing [about](/en/post/about/) [his](/en/post/his/) chances [of](/en/post/of/) winning [the](/en/post/the/) [competition](/en/post/competition/)."
-- **[Adjective](/en/post/adjective/)**: "[They](/en/post/they/) were [in](/en/post/in/) [such](/en/post/such/) [a](/en/post/a/) [desperate](/en/post/desperate/) [situation](/en/post/situation/) [that](/en/post/that/) [they](/en/post/they/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [chance](/en/post/chance/) [on](/en/post/on/) [the](/en/post/the/) [unknown](/en/post/unknown/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) sank [into](/post/into/) [a](/post/a/) [deep](/post/deep/) [despair](/post/despair/) [after](/post/after/) [her](/post/her/) husband's [sudden](/post/sudden/) [illness](/post/illness/)."
+- **[Verb](/post/verb/)**: "[His](/post/his/) friends tried [to](/post/to/) reassure [him](/post/him/), [but](/post/but/) [he](/post/he/) was despairing [about](/post/about/) [his](/post/his/) chances [of](/post/of/) winning [the](/post/the/) [competition](/post/competition/)."
+- **[Adjective](/post/adjective/)**: "[They](/post/they/) were [in](/post/in/) [such](/post/such/) [a](/post/a/) [desperate](/post/desperate/) [situation](/post/situation/) [that](/post/that/) [they](/post/they/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [chance](/post/chance/) [on](/post/on/) [the](/post/the/) [unknown](/post/unknown/)."
 
 ## Synonyms
 - Desolation
@@ -37,13 +37,13 @@ keywords = ['ai words', 'despair']
 - Helplessness
 - Despairful
 - Hopelessness
-- Despairing [agony](/en/post/agony/)
-- Despairing [resignation](/en/post/resignation/)
+- Despairing [agony](/post/agony/)
+- Despairing [resignation](/post/resignation/)
 
 ## Antonyms
-- [Hope](/en/post/hope/)
+- [Hope](/post/hope/)
 - Optimism
-- [Confidence](/en/post/confidence/)
-- [Relief](/en/post/relief/)
+- [Confidence](/post/confidence/)
+- [Relief](/post/relief/)
 - Euphoria
 - Fortitude

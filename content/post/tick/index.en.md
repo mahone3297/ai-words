@@ -7,41 +7,41 @@ description = '[tik] n.滴答声；记号'
 keywords = ['ai words', 'tick']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [tick](/en/post/tick/)**:
-  - [A](/en/post/a/) [small](/en/post/small/), parasitic [insect](/en/post/insect/) [that](/en/post/that/) attaches [itself](/en/post/itself/) [to](/en/post/to/) animals, [often](/en/post/often/) sucking [their](/en/post/their/) [blood](/en/post/blood/).
-  - [In](/en/post/in/) computing, [a](/en/post/a/) [small](/en/post/small/) checkmark [or](/en/post/or/) [dot](/en/post/dot/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [selection](/en/post/selection/) [or](/en/post/or/) completion (e.g., √ [in](/en/post/in/) [a](/en/post/a/) [list](/en/post/list/)).
-  - [In](/en/post/in/) [finance](/en/post/finance/), [a](/en/post/a/) [small](/en/post/small/) [charge](/en/post/charge/) [or](/en/post/or/) [fee](/en/post/fee/) levied [for](/en/post/for/) [a](/en/post/a/) [service](/en/post/service/).
+### [Noun](/post/noun/)
+- **[A](/post/a/) [tick](/post/tick/)**:
+  - [A](/post/a/) [small](/post/small/), parasitic [insect](/post/insect/) [that](/post/that/) attaches [itself](/post/itself/) [to](/post/to/) animals, [often](/post/often/) sucking [their](/post/their/) [blood](/post/blood/).
+  - [In](/post/in/) computing, [a](/post/a/) [small](/post/small/) checkmark [or](/post/or/) [dot](/post/dot/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [selection](/post/selection/) [or](/post/or/) completion (e.g., √ [in](/post/in/) [a](/post/a/) [list](/post/list/)).
+  - [In](/post/in/) [finance](/post/finance/), [a](/post/a/) [small](/post/small/) [charge](/post/charge/) [or](/post/or/) [fee](/post/fee/) levied [for](/post/for/) [a](/post/a/) [service](/post/service/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [tick](/en/post/tick/)** ([as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) checklist):
-  - [To](/en/post/to/) [mark](/en/post/mark/) [something](/en/post/something/) [as](/en/post/as/) completed.
-  - [To](/en/post/to/) [move](/en/post/move/) [a](/en/post/a/) clock's hands [forward](/en/post/forward/) [by](/en/post/by/) [one](/en/post/one/) [minute](/en/post/minute/) [or](/en/post/or/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) passing [of](/en/post/of/) [time](/en/post/time/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [tick](/post/tick/)** ([as](/post/as/) [in](/post/in/) [a](/post/a/) checklist):
+  - [To](/post/to/) [mark](/post/mark/) [something](/post/something/) [as](/post/as/) completed.
+  - [To](/post/to/) [move](/post/move/) [a](/post/a/) clock's hands [forward](/post/forward/) [by](/post/by/) [one](/post/one/) [minute](/post/minute/) [or](/post/or/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) passing [of](/post/of/) [time](/post/time/).
 
-### [Adjective](/en/post/adjective/)
-- **Ticked [off](/en/post/off/)** [or](/en/post/or/) **ticked** (informal):
-  - Irritated [or](/en/post/or/) annoyed.
+### [Adjective](/post/adjective/)
+- **Ticked [off](/post/off/)** [or](/post/or/) **ticked** (informal):
+  - Irritated [or](/post/or/) annoyed.
 
-### [Adverb](/en/post/adverb/)
-- [Not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [in](/en/post/in/) [standard](/en/post/standard/) English.
+### [Adverb](/post/adverb/)
+- [Not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/) [in](/post/in/) [standard](/post/standard/) English.
 
 ## Phrases
-- "[Tick](/en/post/tick/) [off](/en/post/off/) [a](/en/post/a/) [list](/en/post/list/)" [means](/en/post/means/) [to](/en/post/to/) [complete](/en/post/complete/) tasks [on](/en/post/on/) [a](/en/post/a/) checklist.
-- "[The](/en/post/the/) [clock](/en/post/clock/) ticked loudly" describes [the](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) [a](/en/post/a/) clock's pendulum [or](/en/post/or/) mechanism.
-- "[She](/en/post/she/) had [a](/en/post/a/) [few](/en/post/few/) items [to](/en/post/to/) [tick](/en/post/tick/) [off](/en/post/off/) [her](/en/post/her/) to-do [list](/en/post/list/)."
+- "[Tick](/post/tick/) [off](/post/off/) [a](/post/a/) [list](/post/list/)" [means](/post/means/) [to](/post/to/) [complete](/post/complete/) tasks [on](/post/on/) [a](/post/a/) checklist.
+- "[The](/post/the/) [clock](/post/clock/) ticked loudly" describes [the](/post/the/) [sound](/post/sound/) [of](/post/of/) [a](/post/a/) clock's pendulum [or](/post/or/) mechanism.
+- "[She](/post/she/) had [a](/post/a/) [few](/post/few/) items [to](/post/to/) [tick](/post/tick/) [off](/post/off/) [her](/post/her/) to-do [list](/post/list/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) [found](/en/post/found/) [several](/en/post/several/) ticks [on](/en/post/on/) [his](/en/post/his/) [dog](/en/post/dog/) [after](/en/post/after/) [a](/en/post/a/) [walk](/en/post/walk/) [in](/en/post/in/) [the](/en/post/the/) woods."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [tick](/en/post/tick/) [all](/en/post/all/) [the](/en/post/the/) boxes [before](/en/post/before/) submitting [the](/en/post/the/) [form](/en/post/form/)."
-- **[Adjective](/en/post/adjective/)**: "I'm [really](/en/post/really/) ticked [off](/en/post/off/) [about](/en/post/about/) [the](/en/post/the/) delayed [flight](/en/post/flight/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) [found](/post/found/) [several](/post/several/) ticks [on](/post/on/) [his](/post/his/) [dog](/post/dog/) [after](/post/after/) [a](/post/a/) [walk](/post/walk/) [in](/post/in/) [the](/post/the/) woods."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [tick](/post/tick/) [all](/post/all/) [the](/post/the/) boxes [before](/post/before/) submitting [the](/post/the/) [form](/post/form/)."
+- **[Adjective](/post/adjective/)**: "I'm [really](/post/really/) ticked [off](/post/off/) [about](/post/about/) [the](/post/the/) delayed [flight](/post/flight/)."
 
 ## Synonyms
 - Checkmark (√)
-- [Cross](/en/post/cross/) (×) (informal, [especially](/en/post/especially/) [in](/en/post/in/) written lists)
-- [Strike](/en/post/strike/) [through](/en/post/through/) ([to](/en/post/to/) [indicate](/en/post/indicate/) completion)
-- [Mark](/en/post/mark/) ([as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [task](/en/post/task/) [list](/en/post/list/))
-- Ticked (informally, [meaning](/en/post/meaning/) annoyed) - [can](/en/post/can/) [be](/en/post/be/) replaced [with](/en/post/with/) annoyed, irked, [or](/en/post/or/) frustrated.
+- [Cross](/post/cross/) (×) (informal, [especially](/post/especially/) [in](/post/in/) written lists)
+- [Strike](/post/strike/) [through](/post/through/) ([to](/post/to/) [indicate](/post/indicate/) completion)
+- [Mark](/post/mark/) ([as](/post/as/) [in](/post/in/) [a](/post/a/) [task](/post/task/) [list](/post/list/))
+- Ticked (informally, [meaning](/post/meaning/) annoyed) - [can](/post/can/) [be](/post/be/) replaced [with](/post/with/) annoyed, irked, [or](/post/or/) frustrated.

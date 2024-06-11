@@ -7,44 +7,44 @@ description = '[ˈspiritjuəl] a.精神的，心灵的'
 keywords = ['ai words', 'spiritual']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /spɪˈrɪtʃuəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Spiritual](/en/post/spiritual/)**: Referring [to](/en/post/to/) matters [of](/en/post/of/) [the](/en/post/the/) [soul](/en/post/soul/), [religion](/en/post/religion/), [or](/en/post/or/) [a](/en/post/a/) higher [power](/en/post/power/), [often](/en/post/often/) involving [inner](/en/post/inner/) [growth](/en/post/growth/), enlightenment, [or](/en/post/or/) [connection](/en/post/connection/) [with](/en/post/with/) [something](/en/post/something/) transcendent.
-   - [Definition](/en/post/definition/): [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [mind](/en/post/mind/) characterized [by](/en/post/by/) [deep](/en/post/deep/) spirituality [or](/en/post/or/) devotion.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [retreat](/en/post/retreat/) focused [on](/en/post/on/) fostering [a](/en/post/a/) [spiritual](/en/post/spiritual/) [connection](/en/post/connection/) [with](/en/post/with/) [nature](/en/post/nature/)."
+### [Noun](/post/noun/)
+1. **[Spiritual](/post/spiritual/)**: Referring [to](/post/to/) matters [of](/post/of/) [the](/post/the/) [soul](/post/soul/), [religion](/post/religion/), [or](/post/or/) [a](/post/a/) higher [power](/post/power/), [often](/post/often/) involving [inner](/post/inner/) [growth](/post/growth/), enlightenment, [or](/post/or/) [connection](/post/connection/) [with](/post/with/) [something](/post/something/) transcendent.
+   - [Definition](/post/definition/): [A](/post/a/) [state](/post/state/) [of](/post/of/) [mind](/post/mind/) characterized [by](/post/by/) [deep](/post/deep/) spirituality [or](/post/or/) devotion.
+   - [Example](/post/example/): "[The](/post/the/) [retreat](/post/retreat/) focused [on](/post/on/) fostering [a](/post/a/) [spiritual](/post/spiritual/) [connection](/post/connection/) [with](/post/with/) [nature](/post/nature/)."
 
-2. **Spirituality**: [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [spiritual](/en/post/spiritual/); [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [meaning](/en/post/meaning/) [or](/en/post/or/) [purpose](/en/post/purpose/) [in](/en/post/in/) [life](/en/post/life/).
-   - [Definition](/en/post/definition/): [The](/en/post/the/) [belief](/en/post/belief/) [in](/en/post/in/) [a](/en/post/a/) higher [power](/en/post/power/) [or](/en/post/or/) [the](/en/post/the/) [search](/en/post/search/) [for](/en/post/for/) deeper [meaning](/en/post/meaning/) [beyond](/en/post/beyond/) [material](/en/post/material/) things.
-   - [Example](/en/post/example/): "[Her](/en/post/her/) [daily](/en/post/daily/) meditation [practice](/en/post/practice/) was integral [to](/en/post/to/) [her](/en/post/her/) [spiritual](/en/post/spiritual/) [journey](/en/post/journey/)."
+2. **Spirituality**: [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [spiritual](/post/spiritual/); [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [meaning](/post/meaning/) [or](/post/or/) [purpose](/post/purpose/) [in](/post/in/) [life](/post/life/).
+   - [Definition](/post/definition/): [The](/post/the/) [belief](/post/belief/) [in](/post/in/) [a](/post/a/) higher [power](/post/power/) [or](/post/or/) [the](/post/the/) [search](/post/search/) [for](/post/for/) deeper [meaning](/post/meaning/) [beyond](/post/beyond/) [material](/post/material/) things.
+   - [Example](/post/example/): "[Her](/post/her/) [daily](/post/daily/) meditation [practice](/post/practice/) was integral [to](/post/to/) [her](/post/her/) [spiritual](/post/spiritual/) [journey](/post/journey/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [spiritual](/en/post/spiritual/) practices [or](/en/post/or/) discussions.
-   - [Example](/en/post/example/): "[She](/en/post/she/) spends [time](/en/post/time/) [each](/en/post/each/) [day](/en/post/day/) spiritualizing [through](/en/post/through/) meditation."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [spiritual](/post/spiritual/) practices [or](/post/or/) discussions.
+   - [Example](/post/example/): "[She](/post/she/) spends [time](/post/time/) [each](/post/each/) [day](/post/day/) spiritualizing [through](/post/through/) meditation."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [the](/en/post/the/) [spirit](/en/post/spirit/) [or](/en/post/or/) [soul](/en/post/soul/); [not](/en/post/not/) [material](/en/post/material/) [or](/en/post/or/) [physical](/en/post/physical/).
-   - [Example](/en/post/example/): "[A](/en/post/a/) spiritually uplifting [book](/en/post/book/) [that](/en/post/that/) inspires [personal](/en/post/personal/) [growth](/en/post/growth/)."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [the](/post/the/) [spirit](/post/spirit/) [or](/post/or/) [soul](/post/soul/); [not](/post/not/) [material](/post/material/) [or](/post/or/) [physical](/post/physical/).
+   - [Example](/post/example/): "[A](/post/a/) spiritually uplifting [book](/post/book/) [that](/post/that/) inspires [personal](/post/personal/) [growth](/post/growth/)."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) [spiritual](/en/post/spiritual/) [manner](/en/post/manner/) [or](/en/post/or/) according [to](/en/post/to/) [spiritual](/en/post/spiritual/) principles.
-   - [Example](/en/post/example/): "[He](/en/post/he/) approached [the](/en/post/the/) [situation](/en/post/situation/) spiritually, seeking [inner](/en/post/inner/) [peace](/en/post/peace/)."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) [spiritual](/post/spiritual/) [manner](/post/manner/) [or](/post/or/) according [to](/post/to/) [spiritual](/post/spiritual/) principles.
+   - [Example](/post/example/): "[He](/post/he/) approached [the](/post/the/) [situation](/post/situation/) spiritually, seeking [inner](/post/inner/) [peace](/post/peace/)."
 
 ## Phrases
-- "[Practice](/en/post/practice/) [spiritual](/en/post/spiritual/) disciplines" [means](/en/post/means/) [to](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) rituals [or](/en/post/or/) exercises aimed [at](/en/post/at/) improving one's spirituality.
-- "[A](/en/post/a/) [spiritual](/en/post/spiritual/) awakening" refers [to](/en/post/to/) [a](/en/post/a/) profound realization [or](/en/post/or/) [transformation](/en/post/transformation/) [in](/en/post/in/) one's [spiritual](/en/post/spiritual/) beliefs.
-- "Seeking [spiritual](/en/post/spiritual/) [guidance](/en/post/guidance/)" [means](/en/post/means/) looking [for](/en/post/for/) [advice](/en/post/advice/) [or](/en/post/or/) [support](/en/post/support/) [in](/en/post/in/) one's [spiritual](/en/post/spiritual/) [journey](/en/post/journey/).
+- "[Practice](/post/practice/) [spiritual](/post/spiritual/) disciplines" [means](/post/means/) [to](/post/to/) [engage](/post/engage/) [in](/post/in/) rituals [or](/post/or/) exercises aimed [at](/post/at/) improving one's spirituality.
+- "[A](/post/a/) [spiritual](/post/spiritual/) awakening" refers [to](/post/to/) [a](/post/a/) profound realization [or](/post/or/) [transformation](/post/transformation/) [in](/post/in/) one's [spiritual](/post/spiritual/) beliefs.
+- "Seeking [spiritual](/post/spiritual/) [guidance](/post/guidance/)" [means](/post/means/) looking [for](/post/for/) [advice](/post/advice/) [or](/post/or/) [support](/post/support/) [in](/post/in/) one's [spiritual](/post/spiritual/) [journey](/post/journey/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) [found](/en/post/found/) solace [in](/en/post/in/) [her](/en/post/her/) [spiritual](/en/post/spiritual/) [retreat](/en/post/retreat/) [after](/en/post/after/) [a](/en/post/a/) [difficult](/en/post/difficult/) [period](/en/post/period/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [community](/en/post/community/) gathers [weekly](/en/post/weekly/) [for](/en/post/for/) [spiritual](/en/post/spiritual/) discussions [and](/en/post/and/) [reflection](/en/post/reflection/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) serene [garden](/en/post/garden/) [provided](/en/post/provided/) [a](/en/post/a/) [peaceful](/en/post/peaceful/) [spiritual](/en/post/spiritual/) haven."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) lived [his](/en/post/his/) [life](/en/post/life/) spiritually, prioritizing [inner](/en/post/inner/) [peace](/en/post/peace/) [over](/en/post/over/) [external](/en/post/external/) achievements."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) [found](/post/found/) solace [in](/post/in/) [her](/post/her/) [spiritual](/post/spiritual/) [retreat](/post/retreat/) [after](/post/after/) [a](/post/a/) [difficult](/post/difficult/) [period](/post/period/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [community](/post/community/) gathers [weekly](/post/weekly/) [for](/post/for/) [spiritual](/post/spiritual/) discussions [and](/post/and/) [reflection](/post/reflection/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) serene [garden](/post/garden/) [provided](/post/provided/) [a](/post/a/) [peaceful](/post/peaceful/) [spiritual](/post/spiritual/) haven."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) lived [his](/post/his/) [life](/post/life/) spiritually, prioritizing [inner](/post/inner/) [peace](/post/peace/) [over](/post/over/) [external](/post/external/) achievements."
 
 ## Synonyms
-- [Religious](/en/post/religious/)
+- [Religious](/post/religious/)
 - Mystical
 - Esoteric
 - Transcendent

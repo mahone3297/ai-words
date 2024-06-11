@@ -7,30 +7,30 @@ description = '[ˈmɑːstəpiːs] n.杰作，名著'
 keywords = ['ai words', 'masterpiece']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmæstəpiːs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [work](/en/post/work/) [of](/en/post/of/) [outstanding](/en/post/outstanding/) artistry, [skill](/en/post/skill/), [or](/en/post/or/) creativity; typically referring [to](/en/post/to/) [a](/en/post/a/) [painting](/en/post/painting/), [literary](/en/post/literary/) [work](/en/post/work/), [musical](/en/post/musical/) [composition](/en/post/composition/), [film](/en/post/film/), [or](/en/post/or/) [any](/en/post/any/) [other](/en/post/other/) [form](/en/post/form/) [of](/en/post/of/) [creative](/en/post/creative/) endeavor [that](/en/post/that/) represents [the](/en/post/the/) pinnacle [of](/en/post/of/) [its](/en/post/its/) creator's achievements. 
+- **[Noun](/post/noun/)**: [A](/post/a/) [work](/post/work/) [of](/post/of/) [outstanding](/post/outstanding/) artistry, [skill](/post/skill/), [or](/post/or/) creativity; typically referring [to](/post/to/) [a](/post/a/) [painting](/post/painting/), [literary](/post/literary/) [work](/post/work/), [musical](/post/musical/) [composition](/post/composition/), [film](/post/film/), [or](/post/or/) [any](/post/any/) [other](/post/other/) [form](/post/form/) [of](/post/of/) [creative](/post/creative/) endeavor [that](/post/that/) represents [the](/post/the/) pinnacle [of](/post/of/) [its](/post/its/) creator's achievements. 
 
-  > [For](/en/post/for/) [example](/en/post/example/): 
-  > - *[The](/en/post/the/) Mona Lisa is considered Leonardo da Vinci's [masterpiece](/en/post/masterpiece/).*
-  > - *"[Pride](/en/post/pride/) [and](/en/post/and/) [Prejudice](/en/post/prejudice/)" is [often](/en/post/often/) cited [as](/en/post/as/) Jane Austen's [masterpiece](/en/post/masterpiece/).*
+  > [For](/post/for/) [example](/post/example/): 
+  > - *[The](/post/the/) Mona Lisa is considered Leonardo da Vinci's [masterpiece](/post/masterpiece/).*
+  > - *"[Pride](/post/pride/) [and](/post/and/) [Prejudice](/post/prejudice/)" is [often](/post/often/) cited [as](/post/as/) Jane Austen's [masterpiece](/post/masterpiece/).*
 
 ## Phrases
-- "*[A](/en/post/a/) [true](/en/post/true/) [masterpiece](/en/post/masterpiece/)*" implies [something](/en/post/something/) is unparalleled [in](/en/post/in/) [quality](/en/post/quality/) [or](/en/post/or/) brilliance.
-- "*[Masterpiece](/en/post/masterpiece/) [of](/en/post/of/) [literature](/en/post/literature/)/[art](/en/post/art/)/[music](/en/post/music/)*" refers [to](/en/post/to/) [a](/en/post/a/) [work](/en/post/work/) [that](/en/post/that/) is considered [the](/en/post/the/) [best](/en/post/best/) [or](/en/post/or/) [most](/en/post/most/) [significant](/en/post/significant/) [within](/en/post/within/) [its](/en/post/its/) [field](/en/post/field/).
+- "*[A](/post/a/) [true](/post/true/) [masterpiece](/post/masterpiece/)*" implies [something](/post/something/) is unparalleled [in](/post/in/) [quality](/post/quality/) [or](/post/or/) brilliance.
+- "*[Masterpiece](/post/masterpiece/) [of](/post/of/) [literature](/post/literature/)/[art](/post/art/)/[music](/post/music/)*" refers [to](/post/to/) [a](/post/a/) [work](/post/work/) [that](/post/that/) is considered [the](/post/the/) [best](/post/best/) [or](/post/or/) [most](/post/most/) [significant](/post/significant/) [within](/post/within/) [its](/post/its/) [field](/post/field/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) Sistine Chapel [ceiling](/en/post/ceiling/) is Michelangelo's undisputed [masterpiece](/en/post/masterpiece/), admired [by](/en/post/by/) millions [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
-- "[Her](/en/post/her/) latest [novel](/en/post/novel/) is [being](/en/post/being/) hailed [as](/en/post/as/) [a](/en/post/a/) [literary](/en/post/literary/) [masterpiece](/en/post/masterpiece/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) Sistine Chapel [ceiling](/post/ceiling/) is Michelangelo's undisputed [masterpiece](/post/masterpiece/), admired [by](/post/by/) millions [around](/post/around/) [the](/post/the/) [world](/post/world/)."
+- "[Her](/post/her/) latest [novel](/post/novel/) is [being](/post/being/) hailed [as](/post/as/) [a](/post/a/) [literary](/post/literary/) [masterpiece](/post/masterpiece/)."
 
 ## Synonyms
-- Magnum opus ([formal](/en/post/formal/))
+- Magnum opus ([formal](/post/formal/))
 - Masterwork
 - Culmination
-- [Tour](/en/post/tour/) de [force](/en/post/force/)
-- [Crown](/en/post/crown/) [jewel](/en/post/jewel/)
-- Finest [achievement](/en/post/achievement/)
-- [Work](/en/post/work/) [of](/en/post/of/) [genius](/en/post/genius/)
-- Monumental [work](/en/post/work/)
+- [Tour](/post/tour/) de [force](/post/force/)
+- [Crown](/post/crown/) [jewel](/post/jewel/)
+- Finest [achievement](/post/achievement/)
+- [Work](/post/work/) [of](/post/of/) [genius](/post/genius/)
+- Monumental [work](/post/work/)

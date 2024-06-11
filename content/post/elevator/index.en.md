@@ -7,33 +7,33 @@ description = '[ˈeliveitə] n.电梯；升降机'
 keywords = ['ai words', 'elevator']
 +++
 
-## [Word](/en/post/word/): [Elevator](/en/post/elevator/)
+## [Word](/post/word/): [Elevator](/post/elevator/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈelɪvətər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [vertical](/en/post/vertical/) [transportation](/en/post/transportation/) [device](/en/post/device/) designed [to](/en/post/to/) [move](/en/post/move/) [people](/en/post/people/) [or](/en/post/or/) [goods](/en/post/goods/) [between](/en/post/between/) [different](/en/post/different/) floors [within](/en/post/within/) [a](/en/post/a/) [building](/en/post/building/). [It](/en/post/it/) [usually](/en/post/usually/) consists [of](/en/post/of/) [a](/en/post/a/) cab [or](/en/post/or/) compartment [that](/en/post/that/) moves [along](/en/post/along/) guides [in](/en/post/in/) [a](/en/post/a/) shaft. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [hotel](/en/post/hotel/) had [a](/en/post/a/) sleek [glass](/en/post/glass/) [elevator](/en/post/elevator/) [with](/en/post/with/) panoramic views."
+- **[Noun](/post/noun/)**: [A](/post/a/) [vertical](/post/vertical/) [transportation](/post/transportation/) [device](/post/device/) designed [to](/post/to/) [move](/post/move/) [people](/post/people/) [or](/post/or/) [goods](/post/goods/) [between](/post/between/) [different](/post/different/) floors [within](/post/within/) [a](/post/a/) [building](/post/building/). [It](/post/it/) [usually](/post/usually/) consists [of](/post/of/) [a](/post/a/) cab [or](/post/or/) compartment [that](/post/that/) moves [along](/post/along/) guides [in](/post/in/) [a](/post/a/) shaft. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [hotel](/post/hotel/) had [a](/post/a/) sleek [glass](/post/glass/) [elevator](/post/elevator/) [with](/post/with/) panoramic views."
 
-[Example](/en/post/example/) sentences:
-- "[Take](/en/post/take/) [the](/en/post/the/) [elevator](/en/post/elevator/) [to](/en/post/to/) [the](/en/post/the/) [third](/en/post/third/) [floor](/en/post/floor/) [and](/en/post/and/) [turn](/en/post/turn/) [right](/en/post/right/)."
-- "[She](/en/post/she/) pressed [the](/en/post/the/) [button](/en/post/button/) [for](/en/post/for/) [the](/en/post/the/) [ground](/en/post/ground/) [floor](/en/post/floor/) [in](/en/post/in/) [the](/en/post/the/) [elevator](/en/post/elevator/)."
+[Example](/post/example/) sentences:
+- "[Take](/post/take/) [the](/post/the/) [elevator](/post/elevator/) [to](/post/to/) [the](/post/the/) [third](/post/third/) [floor](/post/floor/) [and](/post/and/) [turn](/post/turn/) [right](/post/right/)."
+- "[She](/post/she/) pressed [the](/post/the/) [button](/post/button/) [for](/post/for/) [the](/post/the/) [ground](/post/ground/) [floor](/post/floor/) [in](/post/in/) [the](/post/the/) [elevator](/post/elevator/)."
 
 ## Phrases
-- "[Ride](/en/post/ride/) [the](/en/post/the/) [elevator](/en/post/elevator/)": [To](/en/post/to/) [use](/en/post/use/) [the](/en/post/the/) [elevator](/en/post/elevator/) [to](/en/post/to/) [go](/en/post/go/) [up](/en/post/up/) [or](/en/post/or/) [down](/en/post/down/) [in](/en/post/in/) [a](/en/post/a/) [building](/en/post/building/).
-- "[Elevator](/en/post/elevator/) [pitch](/en/post/pitch/)": [A](/en/post/a/) [brief](/en/post/brief/), persuasive [speech](/en/post/speech/) [that](/en/post/that/) outlines [the](/en/post/the/) [main](/en/post/main/) features [of](/en/post/of/) [a](/en/post/a/) [product](/en/post/product/), [service](/en/post/service/), [or](/en/post/or/) [idea](/en/post/idea/) [and](/en/post/and/) is typically delivered [in](/en/post/in/) [the](/en/post/the/) [time](/en/post/time/) [span](/en/post/span/) [of](/en/post/of/) an [elevator](/en/post/elevator/) [ride](/en/post/ride/), meant [to](/en/post/to/) [generate](/en/post/generate/) [interest](/en/post/interest/).
-- "[Press](/en/post/press/) [the](/en/post/the/) [call](/en/post/call/) [button](/en/post/button/) [for](/en/post/for/) [the](/en/post/the/) [elevator](/en/post/elevator/)": [To](/en/post/to/) summon [the](/en/post/the/) [elevator](/en/post/elevator/) [to](/en/post/to/) one's [location](/en/post/location/).
+- "[Ride](/post/ride/) [the](/post/the/) [elevator](/post/elevator/)": [To](/post/to/) [use](/post/use/) [the](/post/the/) [elevator](/post/elevator/) [to](/post/to/) [go](/post/go/) [up](/post/up/) [or](/post/or/) [down](/post/down/) [in](/post/in/) [a](/post/a/) [building](/post/building/).
+- "[Elevator](/post/elevator/) [pitch](/post/pitch/)": [A](/post/a/) [brief](/post/brief/), persuasive [speech](/post/speech/) [that](/post/that/) outlines [the](/post/the/) [main](/post/main/) features [of](/post/of/) [a](/post/a/) [product](/post/product/), [service](/post/service/), [or](/post/or/) [idea](/post/idea/) [and](/post/and/) is typically delivered [in](/post/in/) [the](/post/the/) [time](/post/time/) [span](/post/span/) [of](/post/of/) an [elevator](/post/elevator/) [ride](/post/ride/), meant [to](/post/to/) [generate](/post/generate/) [interest](/post/interest/).
+- "[Press](/post/press/) [the](/post/the/) [call](/post/call/) [button](/post/button/) [for](/post/for/) [the](/post/the/) [elevator](/post/elevator/)": [To](/post/to/) summon [the](/post/the/) [elevator](/post/elevator/) [to](/post/to/) one's [location](/post/location/).
 
 ## Synonyms
-- [Lift](/en/post/lift/) (British English)
+- [Lift](/post/lift/) (British English)
 - Hoist
 - Ascensor
-- Moving [staircase](/en/post/staircase/) ([for](/en/post/for/) escalators)
-- [Vertical](/en/post/vertical/) [lift](/en/post/lift/)
+- Moving [staircase](/post/staircase/) ([for](/post/for/) escalators)
+- [Vertical](/post/vertical/) [lift](/post/lift/)
 
-## [Further](/en/post/further/) [Information](/en/post/information/)
-- **[Verb](/en/post/verb/) [Usage](/en/post/usage/)**: [While](/en/post/while/) [not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) employed [in](/en/post/in/) phrasal verbs [like](/en/post/like/) "[to](/en/post/to/) [elevator](/en/post/elevator/) [someone](/en/post/someone/)/[something](/en/post/something/) [up](/en/post/up/)/[down](/en/post/down/)", [meaning](/en/post/meaning/) [to](/en/post/to/) [transport](/en/post/transport/) using an [elevator](/en/post/elevator/). [Example](/en/post/example/): "We'll [elevator](/en/post/elevator/) [you](/en/post/you/) [up](/en/post/up/) [to](/en/post/to/) [the](/en/post/the/) penthouse suite."
+## [Further](/post/further/) [Information](/post/information/)
+- **[Verb](/post/verb/) [Usage](/post/usage/)**: [While](/post/while/) [not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [it](/post/it/) [can](/post/can/) [be](/post/be/) employed [in](/post/in/) phrasal verbs [like](/post/like/) "[to](/post/to/) [elevator](/post/elevator/) [someone](/post/someone/)/[something](/post/something/) [up](/post/up/)/[down](/post/down/)", [meaning](/post/meaning/) [to](/post/to/) [transport](/post/transport/) using an [elevator](/post/elevator/). [Example](/post/example/): "We'll [elevator](/post/elevator/) [you](/post/you/) [up](/post/up/) [to](/post/to/) [the](/post/the/) penthouse suite."
 
-- **[Adjective](/en/post/adjective/) [Usage](/en/post/usage/)**: "[Elevator](/en/post/elevator/) [music](/en/post/music/)" refers [to](/en/post/to/) [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [easy](/en/post/easy/) listening [music](/en/post/music/) [often](/en/post/often/) played [in](/en/post/in/) elevators [or](/en/post/or/) lobbies, [also](/en/post/also/) known [as](/en/post/as/) Muzak.
+- **[Adjective](/post/adjective/) [Usage](/post/usage/)**: "[Elevator](/post/elevator/) [music](/post/music/)" refers [to](/post/to/) [a](/post/a/) [type](/post/type/) [of](/post/of/) [easy](/post/easy/) listening [music](/post/music/) [often](/post/often/) played [in](/post/in/) elevators [or](/post/or/) lobbies, [also](/post/also/) known [as](/post/as/) Muzak.
 
-[Note](/en/post/note/) [that](/en/post/that/) "[elevator](/en/post/elevator/)" doesn't typically [function](/en/post/function/) [as](/en/post/as/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) [like](/en/post/like/) adjectives, adverbs, [or](/en/post/or/) interjections. [Its](/en/post/its/) [primary](/en/post/primary/) [usage](/en/post/usage/) is [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [in](/en/post/in/) [standard](/en/post/standard/) English [language](/en/post/language/) contexts.
+[Note](/post/note/) [that](/post/that/) "[elevator](/post/elevator/)" doesn't typically [function](/post/function/) [as](/post/as/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) [like](/post/like/) adjectives, adverbs, [or](/post/or/) interjections. [Its](/post/its/) [primary](/post/primary/) [usage](/post/usage/) is [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [in](/post/in/) [standard](/post/standard/) English [language](/post/language/) contexts.

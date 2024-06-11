@@ -7,30 +7,30 @@ description = '[ʌnˈles] conj.除非，如果不'
 keywords = ['ai words', 'unless']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unˈles/
 
 ## Definitions
-- **[Preposition](/en/post/preposition/)**: [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [speech](/en/post/speech/) [that](/en/post/that/) introduces [a](/en/post/a/) [condition](/en/post/condition/) [or](/en/post/or/) [exception](/en/post/exception/), typically followed [by](/en/post/by/) [a](/en/post/a/) clause. [It](/en/post/it/) is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) [will](/en/post/will/) [happen](/en/post/happen/) [if](/en/post/if/) [a](/en/post/a/) [certain](/en/post/certain/) [condition](/en/post/condition/) is [not](/en/post/not/) met [or](/en/post/or/) is [true](/en/post/true/). [For](/en/post/for/) [example](/en/post/example/): "I'll [come](/en/post/come/) [if](/en/post/if/) [you](/en/post/you/) [invite](/en/post/invite/) [me](/en/post/me/)."
-- **[Conjunction](/en/post/conjunction/)**: [In](/en/post/in/) [this](/en/post/this/) context, "[unless](/en/post/unless/)" is [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) coordinating [conjunction](/en/post/conjunction/) [to](/en/post/to/) [connect](/en/post/connect/) [two](/en/post/two/) clauses, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) conditional [statement](/en/post/statement/). [For](/en/post/for/) [example](/en/post/example/): "I'll [stay](/en/post/stay/) [if](/en/post/if/) [it](/en/post/it/) doesn't [rain](/en/post/rain/)."
+- **[Preposition](/post/preposition/)**: [A](/post/a/) [part](/post/part/) [of](/post/of/) [speech](/post/speech/) [that](/post/that/) introduces [a](/post/a/) [condition](/post/condition/) [or](/post/or/) [exception](/post/exception/), typically followed [by](/post/by/) [a](/post/a/) clause. [It](/post/it/) is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) [will](/post/will/) [happen](/post/happen/) [if](/post/if/) [a](/post/a/) [certain](/post/certain/) [condition](/post/condition/) is [not](/post/not/) met [or](/post/or/) is [true](/post/true/). [For](/post/for/) [example](/post/example/): "I'll [come](/post/come/) [if](/post/if/) [you](/post/you/) [invite](/post/invite/) [me](/post/me/)."
+- **[Conjunction](/post/conjunction/)**: [In](/post/in/) [this](/post/this/) context, "[unless](/post/unless/)" is [used](/post/used/) [as](/post/as/) [a](/post/a/) coordinating [conjunction](/post/conjunction/) [to](/post/to/) [connect](/post/connect/) [two](/post/two/) clauses, [often](/post/often/) [in](/post/in/) [a](/post/a/) conditional [statement](/post/statement/). [For](/post/for/) [example](/post/example/): "I'll [stay](/post/stay/) [if](/post/if/) [it](/post/it/) doesn't [rain](/post/rain/)."
 
 ## Phrases
-- "[Unless](/en/post/unless/) stated [otherwise](/en/post/otherwise/)" [means](/en/post/means/) [that](/en/post/that/) [a](/en/post/a/) [particular](/en/post/particular/) [rule](/en/post/rule/) [or](/en/post/or/) assumption applies [unless](/en/post/unless/) [there](/en/post/there/) is an explicit [mention](/en/post/mention/) [to](/en/post/to/) [the](/en/post/the/) [contrary](/en/post/contrary/).
-- "I'll [do](/en/post/do/) [it](/en/post/it/) [unless](/en/post/unless/)..." is [commonly](/en/post/commonly/) [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [a](/en/post/a/) [condition](/en/post/condition/) [for](/en/post/for/) doing [or](/en/post/or/) [not](/en/post/not/) doing [something](/en/post/something/).
-- "[She](/en/post/she/) won't [go](/en/post/go/) [unless](/en/post/unless/)..." is [a](/en/post/a/) [common](/en/post/common/) [way](/en/post/way/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [necessary](/en/post/necessary/) [condition](/en/post/condition/) [for](/en/post/for/) [a](/en/post/a/) person's [action](/en/post/action/).
+- "[Unless](/post/unless/) stated [otherwise](/post/otherwise/)" [means](/post/means/) [that](/post/that/) [a](/post/a/) [particular](/post/particular/) [rule](/post/rule/) [or](/post/or/) assumption applies [unless](/post/unless/) [there](/post/there/) is an explicit [mention](/post/mention/) [to](/post/to/) [the](/post/the/) [contrary](/post/contrary/).
+- "I'll [do](/post/do/) [it](/post/it/) [unless](/post/unless/)..." is [commonly](/post/commonly/) [used](/post/used/) [to](/post/to/) [express](/post/express/) [a](/post/a/) [condition](/post/condition/) [for](/post/for/) doing [or](/post/or/) [not](/post/not/) doing [something](/post/something/).
+- "[She](/post/she/) won't [go](/post/go/) [unless](/post/unless/)..." is [a](/post/a/) [common](/post/common/) [way](/post/way/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [necessary](/post/necessary/) [condition](/post/condition/) [for](/post/for/) [a](/post/a/) person's [action](/post/action/).
 
-## [Example](/en/post/example/) Sentences
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) [meeting](/en/post/meeting/) [will](/en/post/will/) [be](/en/post/be/) canceled [unless](/en/post/unless/) [we](/en/post/we/) [receive](/en/post/receive/) [enough](/en/post/enough/) RSVPs."
-- **[Conjunction](/en/post/conjunction/)**: "[If](/en/post/if/) [you](/en/post/you/) [study](/en/post/study/) [hard](/en/post/hard/), you'll [pass](/en/post/pass/) [the](/en/post/the/) [exam](/en/post/exam/); [unless](/en/post/unless/) [you](/en/post/you/) don't."
+## [Example](/post/example/) Sentences
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) [meeting](/post/meeting/) [will](/post/will/) [be](/post/be/) canceled [unless](/post/unless/) [we](/post/we/) [receive](/post/receive/) [enough](/post/enough/) RSVPs."
+- **[Conjunction](/post/conjunction/)**: "[If](/post/if/) [you](/post/you/) [study](/post/study/) [hard](/post/hard/), you'll [pass](/post/pass/) [the](/post/the/) [exam](/post/exam/); [unless](/post/unless/) [you](/post/you/) don't."
 
 ## Synonyms
-- [Except](/en/post/except/) [when](/en/post/when/)
-- [Unless](/en/post/unless/) [provided](/en/post/provided/)
-- [Without](/en/post/without/) [exception](/en/post/exception/)
-- [If](/en/post/if/) [not](/en/post/not/)
-- [Provided](/en/post/provided/) [that](/en/post/that/)
+- [Except](/post/except/) [when](/post/when/)
+- [Unless](/post/unless/) [provided](/post/provided/)
+- [Without](/post/without/) [exception](/post/exception/)
+- [If](/post/if/) [not](/post/not/)
+- [Provided](/post/provided/) [that](/post/that/)
 
 ## Antonyms
-- [If](/en/post/if/) (contrasting [conjunction](/en/post/conjunction/))
-- [When](/en/post/when/) (contrasting [conjunction](/en/post/conjunction/))
-- [Despite](/en/post/despite/) (contrasting [adverb](/en/post/adverb/))
+- [If](/post/if/) (contrasting [conjunction](/post/conjunction/))
+- [When](/post/when/) (contrasting [conjunction](/post/conjunction/))
+- [Despite](/post/despite/) (contrasting [adverb](/post/adverb/))

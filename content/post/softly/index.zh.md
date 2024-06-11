@@ -14,17 +14,17 @@ keywords = ['ai words', 'softly']
 - **副词**: 轻轻地，柔和地，温柔地。描述动作或声音的温和方式。
 
 ## 短语
-- "[Speak](/post/speak/) [softly](/post/softly/)" 意为轻声说话。
-- "[Walk](/post/walk/) [softly](/post/softly/)" 意为脚步轻轻，不要吵闹。
+- "[Speak](/zh/post/speak/) [softly](/zh/post/softly/)" 意为轻声说话。
+- "[Walk](/zh/post/walk/) [softly](/zh/post/softly/)" 意为脚步轻轻，不要吵闹。
 
 ## 例句
-- "[She](/post/she/) whispered [softly](/post/softly/) [into](/post/into/) [his](/post/his/) [ear](/post/ear/)."
-- "[The](/post/the/) [baby](/post/baby/) fell [asleep](/post/asleep/) [while](/post/while/) [the](/post/the/) [mother](/post/mother/) sang [softly](/post/softly/)."
-- "[He](/post/he/) turned [off](/post/off/) [the](/post/the/) lights [and](/post/and/) entered [the](/post/the/) [room](/post/room/) [softly](/post/softly/)."
+- "[She](/zh/post/she/) whispered [softly](/zh/post/softly/) [into](/zh/post/into/) [his](/zh/post/his/) [ear](/zh/post/ear/)."
+- "[The](/zh/post/the/) [baby](/zh/post/baby/) fell [asleep](/zh/post/asleep/) [while](/zh/post/while/) [the](/zh/post/the/) [mother](/zh/post/mother/) sang [softly](/zh/post/softly/)."
+- "[He](/zh/post/he/) turned [off](/zh/post/off/) [the](/zh/post/the/) lights [and](/zh/post/and/) entered [the](/zh/post/the/) [room](/zh/post/room/) [softly](/zh/post/softly/)."
 
 ## 同义词
-- [gently](/post/gently/)
+- [gently](/zh/post/gently/)
 - quietly
 - delicately
 - tenderly
-- [softly](/post/softly/) spoken (用于形容人的声音)
+- [softly](/zh/post/softly/) spoken (用于形容人的声音)

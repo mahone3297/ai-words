@@ -7,36 +7,36 @@ description = '[weit] vi.等，等候 n.等待'
 keywords = ['ai words', 'wait']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /weɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) staying [in](/en/post/in/) [place](/en/post/place/) [or](/en/post/or/) delaying [action](/en/post/action/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) expecting [or](/en/post/or/) awaiting [something](/en/post/something/). 2. [A](/en/post/a/) [period](/en/post/period/) [during](/en/post/during/) [which](/en/post/which/) [one](/en/post/one/) waits. 3. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is waiting [for](/en/post/for/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). 4. [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) readiness [or](/en/post/or/) preparedness. 5. [A](/en/post/a/) [job](/en/post/job/) [or](/en/post/or/) [position](/en/post/position/) [that](/en/post/that/) requires [patience](/en/post/patience/) [and](/en/post/and/) endurance (e.g., [waiter](/en/post/waiter/)/waitress).
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [remain](/en/post/remain/) stationary [or](/en/post/or/) inactive, typically [because](/en/post/because/) [you](/en/post/you/) are expecting [or](/en/post/or/) hoping [for](/en/post/for/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). 2. [To](/en/post/to/) [endure](/en/post/endure/) [or](/en/post/or/) [tolerate](/en/post/tolerate/) [delay](/en/post/delay/). 3. [To](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) [a](/en/post/a/) [substitute](/en/post/substitute/), [especially](/en/post/especially/) [in](/en/post/in/) sports [or](/en/post/or/) games.
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) staying [in](/post/in/) [place](/post/place/) [or](/post/or/) delaying [action](/post/action/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) expecting [or](/post/or/) awaiting [something](/post/something/). 2. [A](/post/a/) [period](/post/period/) [during](/post/during/) [which](/post/which/) [one](/post/one/) waits. 3. [A](/post/a/) [person](/post/person/) [who](/post/who/) is waiting [for](/post/for/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). 4. [A](/post/a/) [state](/post/state/) [of](/post/of/) readiness [or](/post/or/) preparedness. 5. [A](/post/a/) [job](/post/job/) [or](/post/or/) [position](/post/position/) [that](/post/that/) requires [patience](/post/patience/) [and](/post/and/) endurance (e.g., [waiter](/post/waiter/)/waitress).
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [remain](/post/remain/) stationary [or](/post/or/) inactive, typically [because](/post/because/) [you](/post/you/) are expecting [or](/post/or/) hoping [for](/post/for/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). 2. [To](/post/to/) [endure](/post/endure/) [or](/post/or/) [tolerate](/post/tolerate/) [delay](/post/delay/). 3. [To](/post/to/) [serve](/post/serve/) [as](/post/as/) [a](/post/a/) [substitute](/post/substitute/), [especially](/post/especially/) [in](/post/in/) sports [or](/post/or/) games.
 
 ## Phrases
-- "[Wait](/en/post/wait/) [a](/en/post/a/) [minute](/en/post/minute/)" [or](/en/post/or/) "[Hang](/en/post/hang/) [on](/en/post/on/)" [means](/en/post/means/) [to](/en/post/to/) [pause](/en/post/pause/) [or](/en/post/or/) temporarily [stop](/en/post/stop/).
-- "[Wait](/en/post/wait/) [your](/en/post/your/) [turn](/en/post/turn/)" indicates [the](/en/post/the/) [need](/en/post/need/) [to](/en/post/to/) [be](/en/post/be/) [patient](/en/post/patient/) [and](/en/post/and/) [let](/en/post/let/) others [go](/en/post/go/) [first](/en/post/first/).
-- "[Wait](/en/post/wait/) [and](/en/post/and/) [see](/en/post/see/)" suggests [that](/en/post/that/) [only](/en/post/only/) [time](/en/post/time/) [will](/en/post/will/) [reveal](/en/post/reveal/) [the](/en/post/the/) [outcome](/en/post/outcome/).
+- "[Wait](/post/wait/) [a](/post/a/) [minute](/post/minute/)" [or](/post/or/) "[Hang](/post/hang/) [on](/post/on/)" [means](/post/means/) [to](/post/to/) [pause](/post/pause/) [or](/post/or/) temporarily [stop](/post/stop/).
+- "[Wait](/post/wait/) [your](/post/your/) [turn](/post/turn/)" indicates [the](/post/the/) [need](/post/need/) [to](/post/to/) [be](/post/be/) [patient](/post/patient/) [and](/post/and/) [let](/post/let/) others [go](/post/go/) [first](/post/first/).
+- "[Wait](/post/wait/) [and](/post/and/) [see](/post/see/)" suggests [that](/post/that/) [only](/post/only/) [time](/post/time/) [will](/post/will/) [reveal](/post/reveal/) [the](/post/the/) [outcome](/post/outcome/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were waiting eagerly [for](/en/post/for/) [their](/en/post/their/) parents [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [movie](/en/post/movie/)."
-- **[Verb](/en/post/verb/)**: "I'll [wait](/en/post/wait/) [outside](/en/post/outside/) [the](/en/post/the/) [door](/en/post/door/) [until](/en/post/until/) you're [ready](/en/post/ready/) [to](/en/post/to/) [leave](/en/post/leave/)."
-- **Verbal**: "[The](/en/post/the/) [doctor](/en/post/doctor/) asked [us](/en/post/us/) [to](/en/post/to/) [wait](/en/post/wait/) [in](/en/post/in/) [the](/en/post/the/) [examination](/en/post/examination/) [room](/en/post/room/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were waiting eagerly [for](/post/for/) [their](/post/their/) parents [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [movie](/post/movie/)."
+- **[Verb](/post/verb/)**: "I'll [wait](/post/wait/) [outside](/post/outside/) [the](/post/the/) [door](/post/door/) [until](/post/until/) you're [ready](/post/ready/) [to](/post/to/) [leave](/post/leave/)."
+- **Verbal**: "[The](/post/the/) [doctor](/post/doctor/) asked [us](/post/us/) [to](/post/to/) [wait](/post/wait/) [in](/post/in/) [the](/post/the/) [examination](/post/examination/) [room](/post/room/)."
 
 ## Synonyms
-- [Delay](/en/post/delay/)
-- [Hold](/en/post/hold/)
-- [Remain](/en/post/remain/)
+- [Delay](/post/delay/)
+- [Hold](/post/hold/)
+- [Remain](/post/remain/)
 - Bide
 - Reside
-- [Postpone](/en/post/postpone/)
--[Await](/en/post/await/)
-- [Stand](/en/post/stand/) [by](/en/post/by/)
+- [Postpone](/post/postpone/)
+-[Await](/post/await/)
+- [Stand](/post/stand/) [by](/post/by/)
 
 ## Antonyms
-- [Proceed](/en/post/proceed/)
-- [Advance](/en/post/advance/)
-- [Hurry](/en/post/hurry/)
+- [Proceed](/post/proceed/)
+- [Advance](/post/advance/)
+- [Hurry](/post/hurry/)
 - Skip
-- [Rush](/en/post/rush/)
+- [Rush](/post/rush/)

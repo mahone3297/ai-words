@@ -7,31 +7,31 @@ description = '[ˈaisəleit] vt.使隔离，使孤立'
 keywords = ['ai words', 'isolate']
 +++
 
-## [Word](/en/post/word/): [Isolate](/en/post/isolate/)
+## [Word](/post/word/): [Isolate](/post/isolate/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaɪsəleɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [separate](/en/post/separate/) [or](/en/post/or/) [set](/en/post/set/) [apart](/en/post/apart/) [from](/en/post/from/) others; [to](/en/post/to/) [place](/en/post/place/) [or](/en/post/or/) [keep](/en/post/keep/) [alone](/en/post/alone/) [or](/en/post/or/) [apart](/en/post/apart/) [from](/en/post/from/) [contact](/en/post/contact/) [with](/en/post/with/) others, [especially](/en/post/especially/) [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) preventing [the](/en/post/the/) [spread](/en/post/spread/) [of](/en/post/of/) [disease](/en/post/disease/) [or](/en/post/or/) contamination. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [patient](/en/post/patient/) was isolated [in](/en/post/in/) [a](/en/post/a/) quarantine [facility](/en/post/facility/)."
-- **[Noun](/en/post/noun/)**: (n) An [individual](/en/post/individual/) [thing](/en/post/thing/) [or](/en/post/or/) [person](/en/post/person/) [that](/en/post/that/) has been separated [or](/en/post/or/) stands [alone](/en/post/alone/) [from](/en/post/from/) others; [a](/en/post/a/) detached [unit](/en/post/unit/) [or](/en/post/or/) entity. [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) [isolate](/en/post/isolate/) [of](/en/post/of/) [the](/en/post/the/) virus was tested [separately](/en/post/separately/) [in](/en/post/in/) [the](/en/post/the/) [lab](/en/post/lab/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [separate](/post/separate/) [or](/post/or/) [set](/post/set/) [apart](/post/apart/) [from](/post/from/) others; [to](/post/to/) [place](/post/place/) [or](/post/or/) [keep](/post/keep/) [alone](/post/alone/) [or](/post/or/) [apart](/post/apart/) [from](/post/from/) [contact](/post/contact/) [with](/post/with/) others, [especially](/post/especially/) [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) preventing [the](/post/the/) [spread](/post/spread/) [of](/post/of/) [disease](/post/disease/) [or](/post/or/) contamination. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [patient](/post/patient/) was isolated [in](/post/in/) [a](/post/a/) quarantine [facility](/post/facility/)."
+- **[Noun](/post/noun/)**: (n) An [individual](/post/individual/) [thing](/post/thing/) [or](/post/or/) [person](/post/person/) [that](/post/that/) has been separated [or](/post/or/) stands [alone](/post/alone/) [from](/post/from/) others; [a](/post/a/) detached [unit](/post/unit/) [or](/post/or/) entity. [For](/post/for/) [example](/post/example/): "[Each](/post/each/) [isolate](/post/isolate/) [of](/post/of/) [the](/post/the/) virus was tested [separately](/post/separately/) [in](/post/in/) [the](/post/the/) [lab](/post/lab/)."
 
-### [Verb](/en/post/verb/) [Usage](/en/post/usage/) Examples
-- "[The](/en/post/the/) [government](/en/post/government/) has decided [to](/en/post/to/) [isolate](/en/post/isolate/) [all](/en/post/all/) [international](/en/post/international/) travelers [for](/en/post/for/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) 14 days."
-- "[To](/en/post/to/) [study](/en/post/study/) [its](/en/post/its/) properties, [the](/en/post/the/) [scientist](/en/post/scientist/) had [to](/en/post/to/) [isolate](/en/post/isolate/) [the](/en/post/the/) [chemical](/en/post/chemical/) [from](/en/post/from/) [the](/en/post/the/) [mixture](/en/post/mixture/)."
+### [Verb](/post/verb/) [Usage](/post/usage/) Examples
+- "[The](/post/the/) [government](/post/government/) has decided [to](/post/to/) [isolate](/post/isolate/) [all](/post/all/) [international](/post/international/) travelers [for](/post/for/) [a](/post/a/) [period](/post/period/) [of](/post/of/) 14 days."
+- "[To](/post/to/) [study](/post/study/) [its](/post/its/) properties, [the](/post/the/) [scientist](/post/scientist/) had [to](/post/to/) [isolate](/post/isolate/) [the](/post/the/) [chemical](/post/chemical/) [from](/post/from/) [the](/post/the/) [mixture](/post/mixture/)."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- "[After](/en/post/after/) [the](/en/post/the/) outbreak, [several](/en/post/several/) isolates [of](/en/post/of/) [the](/en/post/the/) [bacteria](/en/post/bacteria/) were collected [for](/en/post/for/) [further](/en/post/further/) [analysis](/en/post/analysis/)."
-- "[The](/en/post/the/) [village](/en/post/village/), [being](/en/post/being/) [remote](/en/post/remote/), felt [like](/en/post/like/) an [isolate](/en/post/isolate/) [from](/en/post/from/) [the](/en/post/the/) [rest](/en/post/rest/) [of](/en/post/of/) [the](/en/post/the/) [world](/en/post/world/)."
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- "[After](/post/after/) [the](/post/the/) outbreak, [several](/post/several/) isolates [of](/post/of/) [the](/post/the/) [bacteria](/post/bacteria/) were collected [for](/post/for/) [further](/post/further/) [analysis](/post/analysis/)."
+- "[The](/post/the/) [village](/post/village/), [being](/post/being/) [remote](/post/remote/), felt [like](/post/like/) an [isolate](/post/isolate/) [from](/post/from/) [the](/post/the/) [rest](/post/rest/) [of](/post/of/) [the](/post/the/) [world](/post/world/)."
 
 ## Phrases
-- "[Isolate](/en/post/isolate/) [oneself](/en/post/oneself/)": [To](/en/post/to/) deliberately [distance](/en/post/distance/) [oneself](/en/post/oneself/) [from](/en/post/from/) others emotionally [or](/en/post/or/) physically.
-- "Infectious [disease](/en/post/disease/) isolation": [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) separating infected individuals [from](/en/post/from/) non-infected ones [to](/en/post/to/) [prevent](/en/post/prevent/) [the](/en/post/the/) [spread](/en/post/spread/) [of](/en/post/of/) [illness](/en/post/illness/).
+- "[Isolate](/post/isolate/) [oneself](/post/oneself/)": [To](/post/to/) deliberately [distance](/post/distance/) [oneself](/post/oneself/) [from](/post/from/) others emotionally [or](/post/or/) physically.
+- "Infectious [disease](/post/disease/) isolation": [The](/post/the/) [process](/post/process/) [of](/post/of/) separating infected individuals [from](/post/from/) non-infected ones [to](/post/to/) [prevent](/post/prevent/) [the](/post/the/) [spread](/post/spread/) [of](/post/of/) [illness](/post/illness/).
   
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "It's crucial [to](/en/post/to/) [isolate](/en/post/isolate/) [the](/en/post/the/) [faulty](/en/post/faulty/) [component](/en/post/component/) [to](/en/post/to/) [fix](/en/post/fix/) [the](/en/post/the/) [system](/en/post/system/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [strain](/en/post/strain/) [of](/en/post/of/) [the](/en/post/the/) virus was [first](/en/post/first/) identified [through](/en/post/through/) analyzing [patient](/en/post/patient/) isolates."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "It's crucial [to](/post/to/) [isolate](/post/isolate/) [the](/post/the/) [faulty](/post/faulty/) [component](/post/component/) [to](/post/to/) [fix](/post/fix/) [the](/post/the/) [system](/post/system/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [strain](/post/strain/) [of](/post/of/) [the](/post/the/) virus was [first](/post/first/) identified [through](/post/through/) analyzing [patient](/post/patient/) isolates."
 
 ## Synonyms
-- **[Verb](/en/post/verb/)**: [Separate](/en/post/separate/), seclude, insulate, segregate, detach, quarantine
-- **[Noun](/en/post/noun/)**: Separatist, loner, recluse, hermit, solitary, outcast ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- **[Verb](/post/verb/)**: [Separate](/post/separate/), seclude, insulate, segregate, detach, quarantine
+- **[Noun](/post/noun/)**: Separatist, loner, recluse, hermit, solitary, outcast ([in](/post/in/) [certain](/post/certain/) contexts)

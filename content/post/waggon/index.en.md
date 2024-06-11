@@ -7,37 +7,37 @@ description = '[ˈwægən] n.四轮运货马车'
 keywords = ['ai words', 'waggon']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wəˈɡɒn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **Wagon** ([plural](/en/post/plural/): wagons [or](/en/post/or/) waggonettes): [A](/en/post/a/) [large](/en/post/large/) [vehicle](/en/post/vehicle/) [with](/en/post/with/) [four](/en/post/four/) wheels [and](/en/post/and/) [a](/en/post/a/) flatbed, [often](/en/post/often/) drawn [by](/en/post/by/) horses [or](/en/post/or/) [other](/en/post/other/) [draft](/en/post/draft/) animals, [used](/en/post/used/) [for](/en/post/for/) carrying [goods](/en/post/goods/) [or](/en/post/or/) passengers.
-2. **[Carriage](/en/post/carriage/)**: [A](/en/post/a/) smaller, [usually](/en/post/usually/) horse-drawn [vehicle](/en/post/vehicle/) [with](/en/post/with/) seats [inside](/en/post/inside/), typically [used](/en/post/used/) [for](/en/post/for/) [personal](/en/post/personal/) [transportation](/en/post/transportation/) [or](/en/post/or/) [public](/en/post/public/) [transport](/en/post/transport/).
+### [Noun](/post/noun/)
+1. **Wagon** ([plural](/post/plural/): wagons [or](/post/or/) waggonettes): [A](/post/a/) [large](/post/large/) [vehicle](/post/vehicle/) [with](/post/with/) [four](/post/four/) wheels [and](/post/and/) [a](/post/a/) flatbed, [often](/post/often/) drawn [by](/post/by/) horses [or](/post/or/) [other](/post/other/) [draft](/post/draft/) animals, [used](/post/used/) [for](/post/for/) carrying [goods](/post/goods/) [or](/post/or/) passengers.
+2. **[Carriage](/post/carriage/)**: [A](/post/a/) smaller, [usually](/post/usually/) horse-drawn [vehicle](/post/vehicle/) [with](/post/with/) seats [inside](/post/inside/), typically [used](/post/used/) [for](/post/for/) [personal](/post/personal/) [transportation](/post/transportation/) [or](/post/or/) [public](/post/public/) [transport](/post/transport/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) **haul** [or](/en/post/or/) **[draw](/en/post/draw/)** [a](/en/post/a/) wagon: [To](/en/post/to/) [move](/en/post/move/) [a](/en/post/a/) wagon [by](/en/post/by/) pulling [it](/en/post/it/) [with](/en/post/with/) [a](/en/post/a/) [team](/en/post/team/) [of](/en/post/of/) animals [or](/en/post/or/) [a](/en/post/a/) [motor](/en/post/motor/).
-- [To](/en/post/to/) **waggle** [or](/en/post/or/) **wiggle** [a](/en/post/a/) [waggon](/en/post/waggon/): [To](/en/post/to/) [move](/en/post/move/) [the](/en/post/the/) [body](/en/post/body/) [or](/en/post/or/) [head](/en/post/head/) [from](/en/post/from/) [side](/en/post/side/) [to](/en/post/to/) [side](/en/post/side/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) playful [manner](/en/post/manner/).
+### [Verb](/post/verb/)
+- [To](/post/to/) **haul** [or](/post/or/) **[draw](/post/draw/)** [a](/post/a/) wagon: [To](/post/to/) [move](/post/move/) [a](/post/a/) wagon [by](/post/by/) pulling [it](/post/it/) [with](/post/with/) [a](/post/a/) [team](/post/team/) [of](/post/of/) animals [or](/post/or/) [a](/post/a/) [motor](/post/motor/).
+- [To](/post/to/) **waggle** [or](/post/or/) **wiggle** [a](/post/a/) [waggon](/post/waggon/): [To](/post/to/) [move](/post/move/) [the](/post/the/) [body](/post/body/) [or](/post/or/) [head](/post/head/) [from](/post/from/) [side](/post/side/) [to](/post/to/) [side](/post/side/), [often](/post/often/) [in](/post/in/) [a](/post/a/) playful [manner](/post/manner/).
 
 ## Phrases
-- "Pulling [a](/en/post/a/) [waggon](/en/post/waggon/)" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [drawing](/en/post/drawing/) [a](/en/post/a/) wagon.
-- "[A](/en/post/a/) covered [waggon](/en/post/waggon/)" is [a](/en/post/a/) [type](/en/post/type/) [with](/en/post/with/) [a](/en/post/a/) [roof](/en/post/roof/) [for](/en/post/for/) [protection](/en/post/protection/) [from](/en/post/from/) [the](/en/post/the/) elements.
-- "Old-fashioned [waggon](/en/post/waggon/) [ride](/en/post/ride/)" suggests [a](/en/post/a/) nostalgic [journey](/en/post/journey/) [in](/en/post/in/) [a](/en/post/a/) [traditional](/en/post/traditional/) [vehicle](/en/post/vehicle/).
+- "Pulling [a](/post/a/) [waggon](/post/waggon/)" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) [drawing](/post/drawing/) [a](/post/a/) wagon.
+- "[A](/post/a/) covered [waggon](/post/waggon/)" is [a](/post/a/) [type](/post/type/) [with](/post/with/) [a](/post/a/) [roof](/post/roof/) [for](/post/for/) [protection](/post/protection/) [from](/post/from/) [the](/post/the/) elements.
+- "Old-fashioned [waggon](/post/waggon/) [ride](/post/ride/)" suggests [a](/post/a/) nostalgic [journey](/post/journey/) [in](/post/in/) [a](/post/a/) [traditional](/post/traditional/) [vehicle](/post/vehicle/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) loaded [his](/en/post/his/) [waggon](/en/post/waggon/) [with](/en/post/with/) [hay](/en/post/hay/) [for](/en/post/for/) [the](/en/post/the/) livestock."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [driver](/en/post/driver/) unhitched [the](/en/post/the/) horses [from](/en/post/from/) [the](/en/post/the/) [waggon](/en/post/waggon/) [and](/en/post/and/) started [to](/en/post/to/) [pull](/en/post/pull/) [it](/en/post/it/) [through](/en/post/through/) [the](/en/post/the/) fields."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [family](/en/post/family/) [set](/en/post/set/) [off](/en/post/off/) [on](/en/post/on/) [a](/en/post/a/) memorable [waggon](/en/post/waggon/) [ride](/en/post/ride/) [through](/en/post/through/) [the](/en/post/the/) [countryside](/en/post/countryside/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) loaded [his](/post/his/) [waggon](/post/waggon/) [with](/post/with/) [hay](/post/hay/) [for](/post/for/) [the](/post/the/) livestock."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [driver](/post/driver/) unhitched [the](/post/the/) horses [from](/post/from/) [the](/post/the/) [waggon](/post/waggon/) [and](/post/and/) started [to](/post/to/) [pull](/post/pull/) [it](/post/it/) [through](/post/through/) [the](/post/the/) fields."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) [family](/post/family/) [set](/post/set/) [off](/post/off/) [on](/post/on/) [a](/post/a/) memorable [waggon](/post/waggon/) [ride](/post/ride/) [through](/post/through/) [the](/post/the/) [countryside](/post/countryside/)."
 
 ## Synonyms
-- [Cart](/en/post/cart/)
+- [Cart](/post/cart/)
 - Chariot
-- [Car](/en/post/car/)
+- [Car](/post/car/)
 - Carryall
-- Tow [vehicle](/en/post/vehicle/)
+- Tow [vehicle](/post/vehicle/)
 
 ## Antonyms
-- [Bicycle](/en/post/bicycle/)
+- [Bicycle](/post/bicycle/)
 - Motorcar
-- SUV ([for](/en/post/for/) [a](/en/post/a/) [modern](/en/post/modern/) [alternative](/en/post/alternative/))
-- Lighter vehicles [like](/en/post/like/) carts [or](/en/post/or/) carriages [without](/en/post/without/) [the](/en/post/the/) [capacity](/en/post/capacity/) [or](/en/post/or/) [size](/en/post/size/) [of](/en/post/of/) [a](/en/post/a/) full-sized [waggon](/en/post/waggon/).
+- SUV ([for](/post/for/) [a](/post/a/) [modern](/post/modern/) [alternative](/post/alternative/))
+- Lighter vehicles [like](/post/like/) carts [or](/post/or/) carriages [without](/post/without/) [the](/post/the/) [capacity](/post/capacity/) [or](/post/or/) [size](/post/size/) [of](/post/of/) [a](/post/a/) full-sized [waggon](/post/waggon/).

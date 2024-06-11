@@ -11,24 +11,24 @@ keywords = ['ai words', 'element']
 /ˈelɪmənt/
 
 ## 释义
-- **名词**: 1. 基本组成部分，元素。例如: "[Water](/post/water/) is composed [of](/post/of/) [two](/post/two/) elements, [hydrogen](/post/hydrogen/) [and](/post/and/) oxygen."
-   2. 物质的化学元素。例如: "[Gold](/post/gold/) is [a](/post/a/) [chemical](/post/chemical/) [element](/post/element/) [with](/post/with/) [the](/post/the/) [symbol](/post/symbol/) Au."
-   3. (数学)项，元素。例如: "[In](/post/in/) [this](/post/this/) [set](/post/set/), [each](/post/each/) [number](/post/number/) is an [element](/post/element/)."
-   4. （环境或情况）基本部分，要素。例如: "[The](/post/the/) [four](/post/four/) elements [of](/post/of/) [nature](/post/nature/) are [earth](/post/earth/), [air](/post/air/), [fire](/post/fire/), [and](/post/and/) [water](/post/water/)."
+- **名词**: 1. 基本组成部分，元素。例如: "[Water](/zh/post/water/) is composed [of](/zh/post/of/) [two](/zh/post/two/) elements, [hydrogen](/zh/post/hydrogen/) [and](/zh/post/and/) oxygen."
+   2. 物质的化学元素。例如: "[Gold](/zh/post/gold/) is [a](/zh/post/a/) [chemical](/zh/post/chemical/) [element](/zh/post/element/) [with](/zh/post/with/) [the](/zh/post/the/) [symbol](/zh/post/symbol/) Au."
+   3. (数学)项，元素。例如: "[In](/zh/post/in/) [this](/zh/post/this/) [set](/zh/post/set/), [each](/zh/post/each/) [number](/zh/post/number/) is an [element](/zh/post/element/)."
+   4. （环境或情况）基本部分，要素。例如: "[The](/zh/post/the/) [four](/zh/post/four/) elements [of](/zh/post/of/) [nature](/zh/post/nature/) are [earth](/zh/post/earth/), [air](/zh/post/air/), [fire](/zh/post/fire/), [and](/zh/post/and/) [water](/zh/post/water/)."
 
-- **形容词**: 基本的，根本的。例如: "[These](/post/these/) are [the](/post/the/) elemental principles [of](/post/of/) [physics](/post/physics/)."
+- **形容词**: 基本的，根本的。例如: "[These](/zh/post/these/) are [the](/zh/post/the/) elemental principles [of](/zh/post/of/) [physics](/zh/post/physics/)."
 
 ## 短语
 - "Elemental forces" 指自然的基本力量，如风、火、水和土。
-- "[In](/post/in/) one's [element](/post/element/)" 表示在某人擅长或感觉舒适的地方或状态。例如: "She's [in](/post/in/) [her](/post/her/) [element](/post/element/) [when](/post/when/) she's [on](/post/on/) [stage](/post/stage/) performing."
+- "[In](/zh/post/in/) one's [element](/zh/post/element/)" 表示在某人擅长或感觉舒适的地方或状态。例如: "She's [in](/zh/post/in/) [her](/zh/post/her/) [element](/zh/post/element/) [when](/zh/post/when/) she's [on](/zh/post/on/) [stage](/zh/post/stage/) performing."
 
 ## 例句
-- 名词: "[The](/post/the/) periodic [table](/post/table/) lists [all](/post/all/) known [chemical](/post/chemical/) elements."
-- 形容词: "[The](/post/the/) [artist](/post/artist/) captured [the](/post/the/) elemental [power](/post/power/) [of](/post/of/) [the](/post/the/) [storm](/post/storm/) [in](/post/in/) [his](/post/his/) [painting](/post/painting/)."
+- 名词: "[The](/zh/post/the/) periodic [table](/zh/post/table/) lists [all](/zh/post/all/) known [chemical](/zh/post/chemical/) elements."
+- 形容词: "[The](/zh/post/the/) [artist](/zh/post/artist/) captured [the](/zh/post/the/) elemental [power](/zh/post/power/) [of](/zh/post/of/) [the](/zh/post/the/) [storm](/zh/post/storm/) [in](/zh/post/in/) [his](/zh/post/his/) [painting](/zh/post/painting/)."
 
 ## 同义词
-- [Component](/post/component/)
+- [Component](/zh/post/component/)
 - Constituent
-- [Factor](/post/factor/)
-- [Part](/post/part/)
-- [Component](/post/component/) [part](/post/part/)
+- [Factor](/zh/post/factor/)
+- [Part](/zh/post/part/)
+- [Component](/zh/post/component/) [part](/zh/post/part/)

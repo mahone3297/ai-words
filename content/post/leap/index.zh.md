@@ -11,23 +11,23 @@ keywords = ['ai words', 'leap']
 /lep/
 
 ## 释义
-- **动词**: 突然用力跳起；跃过。例如: "[The](/post/the/) [athlete](/post/athlete/) leaped [over](/post/over/) [the](/post/the/) [high](/post/high/) [bar](/post/bar/) [in](/post/in/) [a](/post/a/) [single](/post/single/) [bound](/post/bound/)."
-- **名词**: 跳跃的动作或过程。例如: "[He](/post/he/) made [a](/post/a/) [huge](/post/huge/) [leap](/post/leap/) [from](/post/from/) [the](/post/the/) [cliff](/post/cliff/) [into](/post/into/) [the](/post/the/) [water](/post/water/)."
-- **名词**: 突飞猛进，飞跃。例如: "[The](/post/the/) [company](/post/company/) experienced [a](/post/a/) technological [leap](/post/leap/) [forward](/post/forward/)."
+- **动词**: 突然用力跳起；跃过。例如: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) leaped [over](/zh/post/over/) [the](/zh/post/the/) [high](/zh/post/high/) [bar](/zh/post/bar/) [in](/zh/post/in/) [a](/zh/post/a/) [single](/zh/post/single/) [bound](/zh/post/bound/)."
+- **名词**: 跳跃的动作或过程。例如: "[He](/zh/post/he/) made [a](/zh/post/a/) [huge](/zh/post/huge/) [leap](/zh/post/leap/) [from](/zh/post/from/) [the](/zh/post/the/) [cliff](/zh/post/cliff/) [into](/zh/post/into/) [the](/zh/post/the/) [water](/zh/post/water/)."
+- **名词**: 突飞猛进，飞跃。例如: "[The](/zh/post/the/) [company](/zh/post/company/) experienced [a](/zh/post/a/) technological [leap](/zh/post/leap/) [forward](/zh/post/forward/)."
 
 ## 短语
-- "[take](/post/take/) [a](/post/a/) [leap](/post/leap/) [of](/post/of/) [faith](/post/faith/)" 意为冒险尝试，充满信心地行动。
-- "[leap](/post/leap/) [forward](/post/forward/)" 指在发展或进步上取得显著进展。
-- "[leap](/post/leap/) [year](/post/year/)" 是指闰年，每隔四年出现一次，二月有29天。
+- "[take](/zh/post/take/) [a](/zh/post/a/) [leap](/zh/post/leap/) [of](/zh/post/of/) [faith](/zh/post/faith/)" 意为冒险尝试，充满信心地行动。
+- "[leap](/zh/post/leap/) [forward](/zh/post/forward/)" 指在发展或进步上取得显著进展。
+- "[leap](/zh/post/leap/) [year](/zh/post/year/)" 是指闰年，每隔四年出现一次，二月有29天。
 
 ## 例句
-- 动词: "[The](/post/the/) gazelle leaped [across](/post/across/) [the](/post/the/) [river](/post/river/) [with](/post/with/) [ease](/post/ease/)."
-- 名词: "[Her](/post/her/) [heart](/post/heart/) was pounding [after](/post/after/) [that](/post/that/) [final](/post/final/) [leap](/post/leap/) [in](/post/in/) [the](/post/the/) gymnastics [competition](/post/competition/)."
-- 名词: "[The](/post/the/) [invention](/post/invention/) marked [a](/post/a/) [significant](/post/significant/) [leap](/post/leap/) [in](/post/in/) [communication](/post/communication/) [technology](/post/technology/)."
+- 动词: "[The](/zh/post/the/) gazelle leaped [across](/zh/post/across/) [the](/zh/post/the/) [river](/zh/post/river/) [with](/zh/post/with/) [ease](/zh/post/ease/)."
+- 名词: "[Her](/zh/post/her/) [heart](/zh/post/heart/) was pounding [after](/zh/post/after/) [that](/zh/post/that/) [final](/zh/post/final/) [leap](/zh/post/leap/) [in](/zh/post/in/) [the](/zh/post/the/) gymnastics [competition](/zh/post/competition/)."
+- 名词: "[The](/zh/post/the/) [invention](/zh/post/invention/) marked [a](/zh/post/a/) [significant](/zh/post/significant/) [leap](/zh/post/leap/) [in](/zh/post/in/) [communication](/zh/post/communication/) [technology](/zh/post/technology/)."
 
 ## 同义词
-- [jump](/post/jump/)
-- [bound](/post/bound/)
-- [spring](/post/spring/)
+- [jump](/zh/post/jump/)
+- [bound](/zh/post/bound/)
+- [spring](/zh/post/spring/)
 - hop
 - vault

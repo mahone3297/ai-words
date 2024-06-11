@@ -7,38 +7,38 @@ description = '[kəˈθiːdrəl] n.总教堂；大教堂'
 keywords = ['ai words', 'cathedral']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈθrɒptʃəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [cathedral](/en/post/cathedral/) is [a](/en/post/a/) [large](/en/post/large/), [often](/en/post/often/) historic, Christian [church](/en/post/church/) [that](/en/post/that/) serves [as](/en/post/as/) [the](/en/post/the/) [main](/en/post/main/) [place](/en/post/place/) [of](/en/post/of/) [worship](/en/post/worship/) [for](/en/post/for/) [a](/en/post/a/) bishop [or](/en/post/or/) archbishop. [It](/en/post/it/) is typically characterized [by](/en/post/by/) [its](/en/post/its/) [size](/en/post/size/), architectural grandeur, [and](/en/post/and/) [religious](/en/post/religious/) [significance](/en/post/significance/).
+### [Noun](/post/noun/)
+[A](/post/a/) [cathedral](/post/cathedral/) is [a](/post/a/) [large](/post/large/), [often](/post/often/) historic, Christian [church](/post/church/) [that](/post/that/) serves [as](/post/as/) [the](/post/the/) [main](/post/main/) [place](/post/place/) [of](/post/of/) [worship](/post/worship/) [for](/post/for/) [a](/post/a/) bishop [or](/post/or/) archbishop. [It](/post/it/) is typically characterized [by](/post/by/) [its](/post/its/) [size](/post/size/), architectural grandeur, [and](/post/and/) [religious](/post/religious/) [significance](/post/significance/).
 
-### [Verb](/en/post/verb/) (archaic)
-[To](/en/post/to/) cathedralize, [or](/en/post/or/) [to](/en/post/to/) [give](/en/post/give/) [something](/en/post/something/) [a](/en/post/a/) cathedral-like [quality](/en/post/quality/), refers [to](/en/post/to/) making [it](/en/post/it/) [impressive](/en/post/impressive/) [or](/en/post/or/) monumental [in](/en/post/in/) [scale](/en/post/scale/) [or](/en/post/or/) [style](/en/post/style/).
+### [Verb](/post/verb/) (archaic)
+[To](/post/to/) cathedralize, [or](/post/or/) [to](/post/to/) [give](/post/give/) [something](/post/something/) [a](/post/a/) cathedral-like [quality](/post/quality/), refers [to](/post/to/) making [it](/post/it/) [impressive](/post/impressive/) [or](/post/or/) monumental [in](/post/in/) [scale](/post/scale/) [or](/post/or/) [style](/post/style/).
 
-### [Adjective](/en/post/adjective/)
-Cathedral-like [can](/en/post/can/) [describe](/en/post/describe/) [something](/en/post/something/) having [the](/en/post/the/) [appearance](/en/post/appearance/) [or](/en/post/or/) grandeur [of](/en/post/of/) [a](/en/post/a/) [cathedral](/en/post/cathedral/), [such](/en/post/such/) [as](/en/post/as/) [architecture](/en/post/architecture/) [or](/en/post/or/) [art](/en/post/art/).
+### [Adjective](/post/adjective/)
+Cathedral-like [can](/post/can/) [describe](/post/describe/) [something](/post/something/) having [the](/post/the/) [appearance](/post/appearance/) [or](/post/or/) grandeur [of](/post/of/) [a](/post/a/) [cathedral](/post/cathedral/), [such](/post/such/) [as](/post/as/) [architecture](/post/architecture/) [or](/post/or/) [art](/post/art/).
 
 ## Phrases
-- "[Attend](/en/post/attend/) [the](/en/post/the/) [cathedral](/en/post/cathedral/) [service](/en/post/service/)" refers [to](/en/post/to/) participating [in](/en/post/in/) [a](/en/post/a/) [religious](/en/post/religious/) [ceremony](/en/post/ceremony/) [at](/en/post/at/) [a](/en/post/a/) [cathedral](/en/post/cathedral/).
-- "[The](/en/post/the/) cathedral's stained [glass](/en/post/glass/) windows" [describe](/en/post/describe/) [the](/en/post/the/) colorful, intricate [glass](/en/post/glass/) artwork [often](/en/post/often/) [found](/en/post/found/) [in](/en/post/in/) [cathedral](/en/post/cathedral/) churches.
-- "[Listen](/en/post/listen/) [to](/en/post/to/) [the](/en/post/the/) [cathedral](/en/post/cathedral/) bells" implies hearing [the](/en/post/the/) resonant [sound](/en/post/sound/) [of](/en/post/of/) [the](/en/post/the/) [church](/en/post/church/) bells.
+- "[Attend](/post/attend/) [the](/post/the/) [cathedral](/post/cathedral/) [service](/post/service/)" refers [to](/post/to/) participating [in](/post/in/) [a](/post/a/) [religious](/post/religious/) [ceremony](/post/ceremony/) [at](/post/at/) [a](/post/a/) [cathedral](/post/cathedral/).
+- "[The](/post/the/) cathedral's stained [glass](/post/glass/) windows" [describe](/post/describe/) [the](/post/the/) colorful, intricate [glass](/post/glass/) artwork [often](/post/often/) [found](/post/found/) [in](/post/in/) [cathedral](/post/cathedral/) churches.
+- "[Listen](/post/listen/) [to](/post/to/) [the](/post/the/) [cathedral](/post/cathedral/) bells" implies hearing [the](/post/the/) resonant [sound](/post/sound/) [of](/post/of/) [the](/post/the/) [church](/post/church/) bells.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [cathedral](/en/post/cathedral/) was adorned [with](/en/post/with/) intricate [stone](/en/post/stone/) carvings [and](/en/post/and/) towering spires."
-- **[Verb](/en/post/verb/) (archaic)**: "[The](/en/post/the/) architect cathedralized [the](/en/post/the/) [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) [building](/en/post/building/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) cathedral-like [interior](/en/post/interior/) inspired awe [among](/en/post/among/) [the](/en/post/the/) visitors."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [cathedral](/post/cathedral/) was adorned [with](/post/with/) intricate [stone](/post/stone/) carvings [and](/post/and/) towering spires."
+- **[Verb](/post/verb/) (archaic)**: "[The](/post/the/) architect cathedralized [the](/post/the/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [building](/post/building/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) cathedral-like [interior](/post/interior/) inspired awe [among](/post/among/) [the](/post/the/) visitors."
 
 ## Synonyms
-- [Great](/en/post/great/) [church](/en/post/church/)
-- Episcopal [church](/en/post/church/)
+- [Great](/post/great/) [church](/post/church/)
+- Episcopal [church](/post/church/)
 - Basilica
-- [Cathedral](/en/post/cathedral/) edifice
+- [Cathedral](/post/cathedral/) edifice
 - Majestic sanctuary
 
 ## Related Terms
-- Diocese ([the](/en/post/the/) [area](/en/post/area/) [under](/en/post/under/) [the](/en/post/the/) jurisdiction [of](/en/post/of/) [a](/en/post/a/) bishop)
-- Archbishop ([a](/en/post/a/) [senior](/en/post/senior/) bishop)
-- nave ([the](/en/post/the/) [central](/en/post/central/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [cathedral](/en/post/cathedral/), [usually](/en/post/usually/) [with](/en/post/with/) aisles [on](/en/post/on/) [either](/en/post/either/) [side](/en/post/side/))
-- crypt ([a](/en/post/a/) [lower](/en/post/lower/) [level](/en/post/level/) [beneath](/en/post/beneath/) [the](/en/post/the/) [main](/en/post/main/) [floor](/en/post/floor/) [of](/en/post/of/) [a](/en/post/a/) [cathedral](/en/post/cathedral/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) tombs)
+- Diocese ([the](/post/the/) [area](/post/area/) [under](/post/under/) [the](/post/the/) jurisdiction [of](/post/of/) [a](/post/a/) bishop)
+- Archbishop ([a](/post/a/) [senior](/post/senior/) bishop)
+- nave ([the](/post/the/) [central](/post/central/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [cathedral](/post/cathedral/), [usually](/post/usually/) [with](/post/with/) aisles [on](/post/on/) [either](/post/either/) [side](/post/side/))
+- crypt ([a](/post/a/) [lower](/post/lower/) [level](/post/level/) [beneath](/post/beneath/) [the](/post/the/) [main](/post/main/) [floor](/post/floor/) [of](/post/of/) [a](/post/a/) [cathedral](/post/cathedral/), [often](/post/often/) [used](/post/used/) [for](/post/for/) tombs)

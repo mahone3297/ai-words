@@ -11,21 +11,21 @@ keywords = ['ai words', 'invitation']
 /ɪnvɪˈteɪʃn/
 
 ## 释义
-- **名词 (n)**: 一种正式或非正式的邀请，请求某人参加聚会、活动或其他场合。例如: "[She](/post/she/) sent [out](/post/out/) invitations [to](/post/to/) [her](/post/her/) [birthday](/post/birthday/) [party](/post/party/)."
-- **动词 (v)**: 邀请，发出邀请。例如: "[They](/post/they/) invitationed [us](/post/us/) [to](/post/to/) [their](/post/their/) [wedding](/post/wedding/) [ceremony](/post/ceremony/)."
+- **名词 (n)**: 一种正式或非正式的邀请，请求某人参加聚会、活动或其他场合。例如: "[She](/zh/post/she/) sent [out](/zh/post/out/) invitations [to](/zh/post/to/) [her](/zh/post/her/) [birthday](/zh/post/birthday/) [party](/zh/post/party/)."
+- **动词 (v)**: 邀请，发出邀请。例如: "[They](/zh/post/they/) invitationed [us](/zh/post/us/) [to](/zh/post/to/) [their](/zh/post/their/) [wedding](/zh/post/wedding/) [ceremony](/zh/post/ceremony/)."
 
 ## 短语
-- "[Accept](/post/accept/) an [invitation](/post/invitation/)" 接受邀请。
-- " decline an [invitation](/post/invitation/)" 拒绝邀请。
-- "[extend](/post/extend/) an [invitation](/post/invitation/)" 发出邀请。
+- "[Accept](/zh/post/accept/) an [invitation](/zh/post/invitation/)" 接受邀请。
+- " decline an [invitation](/zh/post/invitation/)" 拒绝邀请。
+- "[extend](/zh/post/extend/) an [invitation](/zh/post/invitation/)" 发出邀请。
 
 ## 例句
-- 名词: "[The](/post/the/) [beautiful](/post/beautiful/) [invitation](/post/invitation/) [card](/post/card/) was embossed [with](/post/with/) [gold](/post/gold/) lettering."
-- 动词: "[They](/post/they/) invitationed [us](/post/us/) [for](/post/for/) [dinner](/post/dinner/), [but](/post/but/) [we](/post/we/) couldn't [make](/post/make/) [it](/post/it/)."
+- 名词: "[The](/zh/post/the/) [beautiful](/zh/post/beautiful/) [invitation](/zh/post/invitation/) [card](/zh/post/card/) was embossed [with](/zh/post/with/) [gold](/zh/post/gold/) lettering."
+- 动词: "[They](/zh/post/they/) invitationed [us](/zh/post/us/) [for](/zh/post/for/) [dinner](/zh/post/dinner/), [but](/zh/post/but/) [we](/zh/post/we/) couldn't [make](/zh/post/make/) [it](/zh/post/it/)."
 
 ## 同义词
-- [Invite](/post/invite/)
-- [Call](/post/call/)
+- [Invite](/zh/post/invite/)
+- [Call](/zh/post/call/)
 - Summon
-- [Ask](/post/ask/)
-- [Request](/post/request/)
+- [Ask](/zh/post/ask/)
+- [Request](/zh/post/request/)

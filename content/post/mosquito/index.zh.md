@@ -12,18 +12,18 @@ keywords = ['ai words', 'mosquito']
 
 ## 释义
 - **名词 n**:
-  - 一种小型昆虫，属于双翅目，通常以人类或其他动物的血液为食，雌蚊会叮咬宿主。例如: "[The](/post/the/) [mosquito](/post/mosquito/) is known [for](/post/for/) transmitting diseases [like](/post/like/) malaria."
+  - 一种小型昆虫，属于双翅目，通常以人类或其他动物的血液为食，雌蚊会叮咬宿主。例如: "[The](/zh/post/the/) [mosquito](/zh/post/mosquito/) is known [for](/zh/post/for/) transmitting diseases [like](/zh/post/like/) malaria."
   
 ## 短语
-- "[mosquito](/post/mosquito/) repellent" 防蚊剂
-- "[mosquito](/post/mosquito/) [net](/post/net/)" 蚊帐
+- "[mosquito](/zh/post/mosquito/) repellent" 防蚊剂
+- "[mosquito](/zh/post/mosquito/) [net](/zh/post/net/)" 蚊帐
 
 ## 例句
-- 名词: "I [put](/post/put/) [up](/post/up/) [a](/post/a/) [mosquito](/post/mosquito/) [net](/post/net/) [around](/post/around/) [my](/post/my/) [bed](/post/bed/) [to](/post/to/) [avoid](/post/avoid/) getting bitten [at](/post/at/) [night](/post/night/)."
+- 名词: "I [put](/zh/post/put/) [up](/zh/post/up/) [a](/zh/post/a/) [mosquito](/zh/post/mosquito/) [net](/zh/post/net/) [around](/zh/post/around/) [my](/zh/post/my/) [bed](/zh/post/bed/) [to](/zh/post/to/) [avoid](/zh/post/avoid/) getting bitten [at](/zh/post/at/) [night](/zh/post/night/)."
 
 ## 同义词
 - Bug
-- [Insect](/post/insect/)
+- [Insect](/zh/post/insect/)
 - Bloodsucker
-- [Nuisance](/post/nuisance/)
-- [Fly](/post/fly/) ([in](/post/in/) [some](/post/some/) contexts)
+- [Nuisance](/zh/post/nuisance/)
+- [Fly](/zh/post/fly/) ([in](/zh/post/in/) [some](/zh/post/some/) contexts)

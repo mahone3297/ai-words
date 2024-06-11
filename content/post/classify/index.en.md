@@ -7,39 +7,39 @@ description = '[ˈklæsifai] vt.把…分类'
 keywords = ['ai words', 'classify']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /klaɪsəfaɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Classification](/en/post/classification/)**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) categorizing [or](/en/post/or/) arranging things according [to](/en/post/to/) [their](/en/post/their/) shared characteristics [or](/en/post/or/) qualities. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [library](/en/post/library/) [staff](/en/post/staff/) organized books [into](/en/post/into/) [different](/en/post/different/) classifications [for](/en/post/for/) [easy](/en/post/easy/) retrieval."
-- **Classifier**: [A](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [to](/en/post/to/) [identify](/en/post/identify/) [a](/en/post/a/) [particular](/en/post/particular/) category [or](/en/post/or/) [group](/en/post/group/) [in](/en/post/in/) [a](/en/post/a/) [classification](/en/post/classification/) [system](/en/post/system/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [biology](/en/post/biology/), animals are [often](/en/post/often/) classified [by](/en/post/by/) [kingdom](/en/post/kingdom/), phylum, [and](/en/post/and/) [class](/en/post/class/)."
+### [Noun](/post/noun/)
+- **[Classification](/post/classification/)**: [The](/post/the/) [process](/post/process/) [of](/post/of/) categorizing [or](/post/or/) arranging things according [to](/post/to/) [their](/post/their/) shared characteristics [or](/post/or/) qualities. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [library](/post/library/) [staff](/post/staff/) organized books [into](/post/into/) [different](/post/different/) classifications [for](/post/for/) [easy](/post/easy/) retrieval."
+- **Classifier**: [A](/post/a/) [term](/post/term/) [used](/post/used/) [to](/post/to/) [identify](/post/identify/) [a](/post/a/) [particular](/post/particular/) category [or](/post/or/) [group](/post/group/) [in](/post/in/) [a](/post/a/) [classification](/post/classification/) [system](/post/system/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) [biology](/post/biology/), animals are [often](/post/often/) classified [by](/post/by/) [kingdom](/post/kingdom/), phylum, [and](/post/and/) [class](/post/class/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [classify](/en/post/classify/)**: [To](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) [assign](/en/post/assign/) (objects, ideas, [or](/en/post/or/) [people](/en/post/people/)) [into](/en/post/into/) [specific](/en/post/specific/) categories based [on](/en/post/on/) shared features [or](/en/post/or/) criteria. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [professor](/en/post/professor/) classified [the](/en/post/the/) students' projects [into](/en/post/into/) [different](/en/post/different/) levels [of](/en/post/of/) [difficulty](/en/post/difficulty/)."
-- **Categorize**: [Another](/en/post/another/) [term](/en/post/term/) [for](/en/post/for/) classifying, [often](/en/post/often/) [used](/en/post/used/) interchangeably.
+### [Verb](/post/verb/)
+- **[To](/post/to/) [classify](/post/classify/)**: [To](/post/to/) [arrange](/post/arrange/) [or](/post/or/) [assign](/post/assign/) (objects, ideas, [or](/post/or/) [people](/post/people/)) [into](/post/into/) [specific](/post/specific/) categories based [on](/post/on/) shared features [or](/post/or/) criteria. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [professor](/post/professor/) classified [the](/post/the/) students' projects [into](/post/into/) [different](/post/different/) levels [of](/post/of/) [difficulty](/post/difficulty/)."
+- **Categorize**: [Another](/post/another/) [term](/post/term/) [for](/post/for/) classifying, [often](/post/often/) [used](/post/used/) interchangeably.
 
-### [Adjective](/en/post/adjective/)
-- **Classifiable**: Describing [something](/en/post/something/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) organized [or](/en/post/or/) placed [into](/en/post/into/) [a](/en/post/a/) [particular](/en/post/particular/) category. [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [data](/en/post/data/) is [highly](/en/post/highly/) classifiable [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [clear](/en/post/clear/) patterns."
+### [Adjective](/post/adjective/)
+- **Classifiable**: Describing [something](/post/something/) [that](/post/that/) [can](/post/can/) [be](/post/be/) organized [or](/post/or/) placed [into](/post/into/) [a](/post/a/) [particular](/post/particular/) category. [For](/post/for/) [example](/post/example/): "[This](/post/this/) [data](/post/data/) is [highly](/post/highly/) classifiable [due](/post/due/) [to](/post/to/) [its](/post/its/) [clear](/post/clear/) patterns."
 
-### [Adverb](/en/post/adverb/)
-- **Classically**: [In](/en/post/in/) [a](/en/post/a/) [traditional](/en/post/traditional/) [or](/en/post/or/) classic [manner](/en/post/manner/), referring [to](/en/post/to/) [classification](/en/post/classification/) methods [from](/en/post/from/) [a](/en/post/a/) [historical](/en/post/historical/) [perspective](/en/post/perspective/). [For](/en/post/for/) [example](/en/post/example/): "Classically, [art](/en/post/art/) was classified based [on](/en/post/on/) genres [like](/en/post/like/) realism [and](/en/post/and/) abstraction."
+### [Adverb](/post/adverb/)
+- **Classically**: [In](/post/in/) [a](/post/a/) [traditional](/post/traditional/) [or](/post/or/) classic [manner](/post/manner/), referring [to](/post/to/) [classification](/post/classification/) methods [from](/post/from/) [a](/post/a/) [historical](/post/historical/) [perspective](/post/perspective/). [For](/post/for/) [example](/post/example/): "Classically, [art](/post/art/) was classified based [on](/post/on/) genres [like](/post/like/) realism [and](/post/and/) abstraction."
 
 ## Phrases
-- "[Classification](/en/post/classification/) [system](/en/post/system/)" refers [to](/en/post/to/) [a](/en/post/a/) [method](/en/post/method/) [used](/en/post/used/) [for](/en/post/for/) organizing items.
-- "Misclassification" occurs [when](/en/post/when/) [something](/en/post/something/) is incorrectly placed [in](/en/post/in/) [a](/en/post/a/) category.
-- "Taxonomic [classification](/en/post/classification/)" is [the](/en/post/the/) biological [system](/en/post/system/) [of](/en/post/of/) grouping organisms.
+- "[Classification](/post/classification/) [system](/post/system/)" refers [to](/post/to/) [a](/post/a/) [method](/post/method/) [used](/post/used/) [for](/post/for/) organizing items.
+- "Misclassification" occurs [when](/post/when/) [something](/post/something/) is incorrectly placed [in](/post/in/) [a](/post/a/) category.
+- "Taxonomic [classification](/post/classification/)" is [the](/post/the/) biological [system](/post/system/) [of](/post/of/) grouping organisms.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) museum's [collection](/en/post/collection/) is divided [into](/en/post/into/) [various](/en/post/various/) classifications, [such](/en/post/such/) [as](/en/post/as/) [ancient](/en/post/ancient/) artifacts [and](/en/post/and/) [modern](/en/post/modern/) [art](/en/post/art/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) botanist carefully classified [the](/en/post/the/) [new](/en/post/new/) species [he](/en/post/he/) discovered."
-- **[Adjective](/en/post/adjective/)**: "[These](/en/post/these/) documents are [easily](/en/post/easily/) classifiable [by](/en/post/by/) [subject](/en/post/subject/) [matter](/en/post/matter/)."
-- **[Adverb](/en/post/adverb/)**: "Classically, [literature](/en/post/literature/) was [often](/en/post/often/) classified based [on](/en/post/on/) authors' nationalities."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) museum's [collection](/post/collection/) is divided [into](/post/into/) [various](/post/various/) classifications, [such](/post/such/) [as](/post/as/) [ancient](/post/ancient/) artifacts [and](/post/and/) [modern](/post/modern/) [art](/post/art/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) botanist carefully classified [the](/post/the/) [new](/post/new/) species [he](/post/he/) discovered."
+- **[Adjective](/post/adjective/)**: "[These](/post/these/) documents are [easily](/post/easily/) classifiable [by](/post/by/) [subject](/post/subject/) [matter](/post/matter/)."
+- **[Adverb](/post/adverb/)**: "Classically, [literature](/post/literature/) was [often](/post/often/) classified based [on](/post/on/) authors' nationalities."
 
 ## Synonyms
 - Categorize
-- [Sort](/en/post/sort/)
-- [Arrange](/en/post/arrange/)
-- [Divide](/en/post/divide/)
-- Categorise (British [spelling](/en/post/spelling/))
-- [Classify](/en/post/classify/) (informal)
+- [Sort](/post/sort/)
+- [Arrange](/post/arrange/)
+- [Divide](/post/divide/)
+- Categorise (British [spelling](/post/spelling/))
+- [Classify](/post/classify/) (informal)

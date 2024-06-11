@@ -11,25 +11,25 @@ keywords = ['ai words', 'tight']
 /taɪt/
 
 ## 释义
-- **形容词**: 紧的；牢固的；密集的。例如: "[The](/post/the/) [belt](/post/belt/) is [too](/post/too/) [tight](/post/tight/), [please](/post/please/) [loosen](/post/loosen/) [it](/post/it/)."
-- **副词**: 紧紧地；牢固地。例如: "[She](/post/she/) held [onto](/post/onto/) [the](/post/the/) [rope](/post/rope/) tightly."
-- **名词**: 紧身衣物或空间。例如: "[She](/post/she/) wore [a](/post/a/) [tight](/post/tight/) [dress](/post/dress/) [to](/post/to/) [the](/post/the/) [party](/post/party/)."
-- **动词**: 使变紧；收紧。例如: "Tighten [the](/post/the/) screws [with](/post/with/) [a](/post/a/) wrench."
+- **形容词**: 紧的；牢固的；密集的。例如: "[The](/zh/post/the/) [belt](/zh/post/belt/) is [too](/zh/post/too/) [tight](/zh/post/tight/), [please](/zh/post/please/) [loosen](/zh/post/loosen/) [it](/zh/post/it/)."
+- **副词**: 紧紧地；牢固地。例如: "[She](/zh/post/she/) held [onto](/zh/post/onto/) [the](/zh/post/the/) [rope](/zh/post/rope/) tightly."
+- **名词**: 紧身衣物或空间。例如: "[She](/zh/post/she/) wore [a](/zh/post/a/) [tight](/zh/post/tight/) [dress](/zh/post/dress/) [to](/zh/post/to/) [the](/zh/post/the/) [party](/zh/post/party/)."
+- **动词**: 使变紧；收紧。例如: "Tighten [the](/zh/post/the/) screws [with](/zh/post/with/) [a](/zh/post/a/) wrench."
 
 ## 短语
-- "[tight](/post/tight/) [fit](/post/fit/)" 表示刚好合身或空间狭窄。
+- "[tight](/zh/post/tight/) [fit](/zh/post/fit/)" 表示刚好合身或空间狭窄。
 - "tight-lipped" 形容口风很紧，不愿意透露信息。
-- "[on](/post/on/) [a](/post/a/) [tight](/post/tight/) budget" 指预算很紧张。
+- "[on](/zh/post/on/) [a](/zh/post/a/) [tight](/zh/post/tight/) budget" 指预算很紧张。
 
 ## 例句
-- 形容词: "[The](/post/the/) shoes were [so](/post/so/) [tight](/post/tight/) [that](/post/that/) [they](/post/they/) caused blisters."
-- 副词: "[He](/post/he/) gripped [the](/post/the/) steering [wheel](/post/wheel/) tightly [during](/post/during/) [the](/post/the/) [storm](/post/storm/)."
-- 名词: "[The](/post/the/) closet was [so](/post/so/) [full](/post/full/) [there](/post/there/) wasn't an [inch](/post/inch/) [of](/post/of/) [spare](/post/spare/) [space](/post/space/), [it](/post/it/) was [really](/post/really/) [tight](/post/tight/)."
-- 动词: "[She](/post/she/) tightened [the](/post/the/) [knot](/post/knot/) [on](/post/on/) [the](/post/the/) backpack [to](/post/to/) [secure](/post/secure/) [it](/post/it/)."
+- 形容词: "[The](/zh/post/the/) shoes were [so](/zh/post/so/) [tight](/zh/post/tight/) [that](/zh/post/that/) [they](/zh/post/they/) caused blisters."
+- 副词: "[He](/zh/post/he/) gripped [the](/zh/post/the/) steering [wheel](/zh/post/wheel/) tightly [during](/zh/post/during/) [the](/zh/post/the/) [storm](/zh/post/storm/)."
+- 名词: "[The](/zh/post/the/) closet was [so](/zh/post/so/) [full](/zh/post/full/) [there](/zh/post/there/) wasn't an [inch](/zh/post/inch/) [of](/zh/post/of/) [spare](/zh/post/spare/) [space](/zh/post/space/), [it](/zh/post/it/) was [really](/zh/post/really/) [tight](/zh/post/tight/)."
+- 动词: "[She](/zh/post/she/) tightened [the](/zh/post/the/) [knot](/zh/post/knot/) [on](/zh/post/on/) [the](/zh/post/the/) backpack [to](/zh/post/to/) [secure](/zh/post/secure/) [it](/zh/post/it/)."
 
 ## 同义词
 - Close-fitting
 - Snug
-- [Firm](/post/firm/)
-- [Secure](/post/secure/)
+- [Firm](/zh/post/firm/)
+- [Secure](/zh/post/secure/)
 - Compressed

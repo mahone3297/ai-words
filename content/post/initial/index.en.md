@@ -7,31 +7,31 @@ description = '[iˈni∫əl] a.最初的；词首的'
 keywords = ['ai words', 'initial']
 +++
 
-## [Word](/en/post/word/): [Initial](/en/post/initial/)
+## [Word](/post/word/): [Initial](/post/initial/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈnɪʃəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Being](/en/post/being/) [first](/en/post/first/) [or](/en/post/or/) earliest [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) [order](/en/post/order/); coming [before](/en/post/before/) [all](/en/post/all/) others. [Example](/en/post/example/): "[The](/en/post/the/) [initial](/en/post/initial/) [chapter](/en/post/chapter/) introduces [the](/en/post/the/) [main](/en/post/main/) characters."
-  - *[As](/en/post/as/) [a](/en/post/a/) [Noun](/en/post/noun/)*: [The](/en/post/the/) [first](/en/post/first/) [letter](/en/post/letter/) [or](/en/post/or/) letters [of](/en/post/of/) [a](/en/post/a/) [word](/en/post/word/), [often](/en/post/often/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [design](/en/post/design/) [element](/en/post/element/) [or](/en/post/or/) abbreviation. [Example](/en/post/example/): "[Her](/en/post/her/) initials are J.S."
-  - *[In](/en/post/in/) [a](/en/post/a/) [Legal](/en/post/legal/) Context*: [A](/en/post/a/) person's [first](/en/post/first/) [name](/en/post/name/) [and](/en/post/and/) [surname](/en/post/surname/) [initial](/en/post/initial/), typically [used](/en/post/used/) [to](/en/post/to/) [sign](/en/post/sign/) documents. [Example](/en/post/example/): "[Please](/en/post/please/) [write](/en/post/write/) [your](/en/post/your/) initials [next](/en/post/next/) [to](/en/post/to/) [each](/en/post/each/) [item](/en/post/item/) [you](/en/post/you/) [agree](/en/post/agree/) [with](/en/post/with/)."
+- **[Adjective](/post/adjective/)**: [Being](/post/being/) [first](/post/first/) [or](/post/or/) earliest [in](/post/in/) [a](/post/a/) [series](/post/series/) [or](/post/or/) [order](/post/order/); coming [before](/post/before/) [all](/post/all/) others. [Example](/post/example/): "[The](/post/the/) [initial](/post/initial/) [chapter](/post/chapter/) introduces [the](/post/the/) [main](/post/main/) characters."
+  - *[As](/post/as/) [a](/post/a/) [Noun](/post/noun/)*: [The](/post/the/) [first](/post/first/) [letter](/post/letter/) [or](/post/or/) letters [of](/post/of/) [a](/post/a/) [word](/post/word/), [often](/post/often/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [design](/post/design/) [element](/post/element/) [or](/post/or/) abbreviation. [Example](/post/example/): "[Her](/post/her/) initials are J.S."
+  - *[In](/post/in/) [a](/post/a/) [Legal](/post/legal/) Context*: [A](/post/a/) person's [first](/post/first/) [name](/post/name/) [and](/post/and/) [surname](/post/surname/) [initial](/post/initial/), typically [used](/post/used/) [to](/post/to/) [sign](/post/sign/) documents. [Example](/post/example/): "[Please](/post/please/) [write](/post/write/) [your](/post/your/) initials [next](/post/next/) [to](/post/to/) [each](/post/each/) [item](/post/item/) [you](/post/you/) [agree](/post/agree/) [with](/post/with/)."
 
 ## Phrases
-- "[Initial](/en/post/initial/) [phase](/en/post/phase/)": [The](/en/post/the/) [very](/en/post/very/) [beginning](/en/post/beginning/) [or](/en/post/or/) [first](/en/post/first/) [stage](/en/post/stage/) [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [project](/en/post/project/).
-- "[Initial](/en/post/initial/) [reaction](/en/post/reaction/)": [The](/en/post/the/) [immediate](/en/post/immediate/) [response](/en/post/response/) [or](/en/post/or/) [impression](/en/post/impression/) [upon](/en/post/upon/) encountering [something](/en/post/something/) [for](/en/post/for/) [the](/en/post/the/) [first](/en/post/first/) [time](/en/post/time/).
-- "Initials [only](/en/post/only/)": Referring [to](/en/post/to/) signing [or](/en/post/or/) marking [something](/en/post/something/) using [just](/en/post/just/) [the](/en/post/the/) [first](/en/post/first/) letters [of](/en/post/of/) one's given names [and](/en/post/and/) [surname](/en/post/surname/).
+- "[Initial](/post/initial/) [phase](/post/phase/)": [The](/post/the/) [very](/post/very/) [beginning](/post/beginning/) [or](/post/or/) [first](/post/first/) [stage](/post/stage/) [of](/post/of/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [project](/post/project/).
+- "[Initial](/post/initial/) [reaction](/post/reaction/)": [The](/post/the/) [immediate](/post/immediate/) [response](/post/response/) [or](/post/or/) [impression](/post/impression/) [upon](/post/upon/) encountering [something](/post/something/) [for](/post/for/) [the](/post/the/) [first](/post/first/) [time](/post/time/).
+- "Initials [only](/post/only/)": Referring [to](/post/to/) signing [or](/post/or/) marking [something](/post/something/) using [just](/post/just/) [the](/post/the/) [first](/post/first/) letters [of](/post/of/) one's given names [and](/post/and/) [surname](/post/surname/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Our](/en/post/our/) [initial](/en/post/initial/) [plan](/en/post/plan/) was [to](/en/post/to/) [meet](/en/post/meet/) [at](/en/post/at/) [noon](/en/post/noon/)."
-- **[Noun](/en/post/noun/) (letters)**: "[She](/en/post/she/) embroidered [her](/en/post/her/) initials [onto](/en/post/onto/) [the](/en/post/the/) [handkerchief](/en/post/handkerchief/)."
-- **[Noun](/en/post/noun/) ([legal](/en/post/legal/))**: "[Both](/en/post/both/) parties signed [their](/en/post/their/) initials [to](/en/post/to/) [indicate](/en/post/indicate/) [agreement](/en/post/agreement/) [on](/en/post/on/) [the](/en/post/the/) terms."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Our](/post/our/) [initial](/post/initial/) [plan](/post/plan/) was [to](/post/to/) [meet](/post/meet/) [at](/post/at/) [noon](/post/noon/)."
+- **[Noun](/post/noun/) (letters)**: "[She](/post/she/) embroidered [her](/post/her/) initials [onto](/post/onto/) [the](/post/the/) [handkerchief](/post/handkerchief/)."
+- **[Noun](/post/noun/) ([legal](/post/legal/))**: "[Both](/post/both/) parties signed [their](/post/their/) initials [to](/post/to/) [indicate](/post/indicate/) [agreement](/post/agreement/) [on](/post/on/) [the](/post/the/) terms."
 
 ## Synonyms
-- [First](/en/post/first/)
-- [Beginning](/en/post/beginning/)
+- [First](/post/first/)
+- [Beginning](/post/beginning/)
 - Commencement
-- [Start](/en/post/start/)
-- [Opening](/en/post/opening/)
-- Abbreviated [form](/en/post/form/) ([as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) initials)
-- Monogram ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) decorative initials)
+- [Start](/post/start/)
+- [Opening](/post/opening/)
+- Abbreviated [form](/post/form/) ([as](/post/as/) [a](/post/a/) [noun](/post/noun/) referring [to](/post/to/) initials)
+- Monogram ([in](/post/in/) [the](/post/the/) context [of](/post/of/) decorative initials)

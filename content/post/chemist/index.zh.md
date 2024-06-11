@@ -12,19 +12,19 @@ keywords = ['ai words', 'chemist']
 
 ## 释义
 - **名词**:
-   - 化学家：专门研究化学科学的人。例如: "[The](/post/the/) [chemist](/post/chemist/) analyzed [the](/post/the/) [sample](/post/sample/) [in](/post/in/) [the](/post/the/) [lab](/post/lab/)."
-   - 药剂师：在药店配药和提供药物咨询的专业人员。例如: "I [need](/post/need/) [to](/post/to/) [talk](/post/talk/) [to](/post/to/) [the](/post/the/) [chemist](/post/chemist/) [about](/post/about/) [my](/post/my/) medication."
+   - 化学家：专门研究化学科学的人。例如: "[The](/zh/post/the/) [chemist](/zh/post/chemist/) analyzed [the](/zh/post/the/) [sample](/zh/post/sample/) [in](/zh/post/in/) [the](/zh/post/the/) [lab](/zh/post/lab/)."
+   - 药剂师：在药店配药和提供药物咨询的专业人员。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [talk](/zh/post/talk/) [to](/zh/post/to/) [the](/zh/post/the/) [chemist](/zh/post/chemist/) [about](/zh/post/about/) [my](/zh/post/my/) medication."
 
 ## 短语
-- "chemist's [shop](/post/shop/)" 或 "chemist's" 指的是药店。
-- "有机化学家" ([organic](/post/organic/) [chemist](/post/chemist/)) 是专注于有机化学领域的化学家。
-- "无机化学家" (inorganic [chemist](/post/chemist/)) 是专注于无机化学领域的化学家。
+- "chemist's [shop](/zh/post/shop/)" 或 "chemist's" 指的是药店。
+- "有机化学家" ([organic](/zh/post/organic/) [chemist](/zh/post/chemist/)) 是专注于有机化学领域的化学家。
+- "无机化学家" (inorganic [chemist](/zh/post/chemist/)) 是专注于无机化学领域的化学家。
 
 ## 例句
-- 名词: "[The](/post/the/) [chemist](/post/chemist/) discovered [a](/post/a/) [new](/post/new/) [compound](/post/compound/) [that](/post/that/) [could](/post/could/) [cure](/post/cure/) [a](/post/a/) [rare](/post/rare/) [disease](/post/disease/)."
-- 名词: "I went [to](/post/to/) [the](/post/the/) chemist's [to](/post/to/) [pick](/post/pick/) [up](/post/up/) [my](/post/my/) prescription."
+- 名词: "[The](/zh/post/the/) [chemist](/zh/post/chemist/) discovered [a](/zh/post/a/) [new](/zh/post/new/) [compound](/zh/post/compound/) [that](/zh/post/that/) [could](/zh/post/could/) [cure](/zh/post/cure/) [a](/zh/post/a/) [rare](/zh/post/rare/) [disease](/zh/post/disease/)."
+- 名词: "I went [to](/zh/post/to/) [the](/zh/post/the/) chemist's [to](/zh/post/to/) [pick](/zh/post/pick/) [up](/zh/post/up/) [my](/zh/post/my/) prescription."
 
 ## 同义词
-- [Scientist](/post/scientist/) (在更广泛的含义上)
+- [Scientist](/zh/post/scientist/) (在更广泛的含义上)
 - Pharmacist (尤其指药剂师)
 - Analyst (在化学分析的上下文中)

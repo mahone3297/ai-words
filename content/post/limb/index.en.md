@@ -7,30 +7,30 @@ description = '[lim] n.肢，臂，翼；树枝'
 keywords = ['ai words', 'limb']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɪm/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [One](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [four](/en/post/four/) [main](/en/post/main/) branches (an [arm](/en/post/arm/) [or](/en/post/or/) [a](/en/post/a/) [leg](/en/post/leg/)) extending [from](/en/post/from/) [the](/en/post/the/) [human](/en/post/human/) torso. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) broke [both](/en/post/both/) [her](/en/post/her/) limbs [in](/en/post/in/) [the](/en/post/the/) [accident](/en/post/accident/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [branch](/en/post/branch/) [or](/en/post/or/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/) larger: "[The](/en/post/the/) tree's [upper](/en/post/upper/) limbs were [heavy](/en/post/heavy/) [with](/en/post/with/) [fruit](/en/post/fruit/)."
-  - [In](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [field](/en/post/field/) [or](/en/post/or/) [area](/en/post/area/) [of](/en/post/of/) [activity](/en/post/activity/): "[This](/en/post/this/) [project](/en/post/project/) extends [into](/en/post/into/) [many](/en/post/many/) [different](/en/post/different/) limbs [of](/en/post/of/) [technology](/en/post/technology/)."
+- **[Noun](/post/noun/) (n)**: [One](/post/one/) [of](/post/of/) [the](/post/the/) [four](/post/four/) [main](/post/main/) branches (an [arm](/post/arm/) [or](/post/or/) [a](/post/a/) [leg](/post/leg/)) extending [from](/post/from/) [the](/post/the/) [human](/post/human/) torso. [For](/post/for/) [example](/post/example/): "[She](/post/she/) broke [both](/post/both/) [her](/post/her/) limbs [in](/post/in/) [the](/post/the/) [accident](/post/accident/)."
+  - [Also](/post/also/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [branch](/post/branch/) [or](/post/or/) [part](/post/part/) [of](/post/of/) [something](/post/something/) larger: "[The](/post/the/) tree's [upper](/post/upper/) limbs were [heavy](/post/heavy/) [with](/post/with/) [fruit](/post/fruit/)."
+  - [In](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [field](/post/field/) [or](/post/or/) [area](/post/area/) [of](/post/of/) [activity](/post/activity/): "[This](/post/this/) [project](/post/project/) extends [into](/post/into/) [many](/post/many/) [different](/post/different/) limbs [of](/post/of/) [technology](/post/technology/)."
 
-  - [As](/en/post/as/) [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [structure](/en/post/structure/) [or](/en/post/or/) mechanism: "[The](/en/post/the/) [robot](/en/post/robot/) has [several](/en/post/several/) articulated limbs [for](/en/post/for/) [movement](/en/post/movement/)."
+  - [As](/post/as/) [a](/post/a/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [structure](/post/structure/) [or](/post/or/) mechanism: "[The](/post/the/) [robot](/post/robot/) has [several](/post/several/) articulated limbs [for](/post/for/) [movement](/post/movement/)."
 
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [climb](/en/post/climb/) [or](/en/post/or/) [move](/en/post/move/) using one's limbs. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) limbed [up](/en/post/up/) [the](/en/post/the/) [tree](/en/post/tree/) [to](/en/post/to/) [rescue](/en/post/rescue/) [the](/en/post/the/) [cat](/en/post/cat/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [climb](/post/climb/) [or](/post/or/) [move](/post/move/) using one's limbs. [For](/post/for/) [example](/post/example/): "[He](/post/he/) limbed [up](/post/up/) [the](/post/the/) [tree](/post/tree/) [to](/post/to/) [rescue](/post/rescue/) [the](/post/the/) [cat](/post/cat/)."
 
 ## Phrases
-- "[To](/en/post/to/) [be](/en/post/be/) [out](/en/post/out/) [on](/en/post/on/) [a](/en/post/a/) [limb](/en/post/limb/)": [This](/en/post/this/) [phrase](/en/post/phrase/) [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [a](/en/post/a/) precarious [or](/en/post/or/) unsupported [position](/en/post/position/), [often](/en/post/often/) [because](/en/post/because/) [of](/en/post/of/) taking [a](/en/post/a/) [risk](/en/post/risk/) [or](/en/post/or/) expressing an unpopular [opinion](/en/post/opinion/).
-- "[Limb](/en/post/limb/) [from](/en/post/from/) [limb](/en/post/limb/)": [This](/en/post/this/) [phrase](/en/post/phrase/) [means](/en/post/means/) [to](/en/post/to/) [tear](/en/post/tear/) [or](/en/post/or/) dismember [something](/en/post/something/) [into](/en/post/into/) [separate](/en/post/separate/) parts.
+- "[To](/post/to/) [be](/post/be/) [out](/post/out/) [on](/post/on/) [a](/post/a/) [limb](/post/limb/)": [This](/post/this/) [phrase](/post/phrase/) [means](/post/means/) [to](/post/to/) [be](/post/be/) [in](/post/in/) [a](/post/a/) precarious [or](/post/or/) unsupported [position](/post/position/), [often](/post/often/) [because](/post/because/) [of](/post/of/) taking [a](/post/a/) [risk](/post/risk/) [or](/post/or/) expressing an unpopular [opinion](/post/opinion/).
+- "[Limb](/post/limb/) [from](/post/from/) [limb](/post/limb/)": [This](/post/this/) [phrase](/post/phrase/) [means](/post/means/) [to](/post/to/) [tear](/post/tear/) [or](/post/or/) dismember [something](/post/something/) [into](/post/into/) [separate](/post/separate/) parts.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) physiotherapist helped [him](/en/post/him/) regain [strength](/en/post/strength/) [in](/en/post/in/) [his](/en/post/his/) injured limbs."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) arborist skillfully limbed [the](/en/post/the/) overgrown [oak](/en/post/oak/) [tree](/en/post/tree/) [to](/en/post/to/) [improve](/en/post/improve/) [its](/en/post/its/) [health](/en/post/health/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) physiotherapist helped [him](/post/him/) regain [strength](/post/strength/) [in](/post/in/) [his](/post/his/) injured limbs."
+- **[Verb](/post/verb/)**: "[The](/post/the/) arborist skillfully limbed [the](/post/the/) overgrown [oak](/post/oak/) [tree](/post/tree/) [to](/post/to/) [improve](/post/improve/) [its](/post/its/) [health](/post/health/)."
 
 ## Synonyms
-- [Arm](/en/post/arm/)
-- [Leg](/en/post/leg/)
-- [Member](/en/post/member/)
+- [Arm](/post/arm/)
+- [Leg](/post/leg/)
+- [Member](/post/member/)
 - Appendage
-- [Branch](/en/post/branch/) ([in](/en/post/in/) [a](/en/post/a/) figurative [or](/en/post/or/) literal [sense](/en/post/sense/))
-- [Extension](/en/post/extension/) ([when](/en/post/when/) referring [to](/en/post/to/) parts [of](/en/post/of/) [a](/en/post/a/) [structure](/en/post/structure/) [or](/en/post/or/) mechanism)
+- [Branch](/post/branch/) ([in](/post/in/) [a](/post/a/) figurative [or](/post/or/) literal [sense](/post/sense/))
+- [Extension](/post/extension/) ([when](/post/when/) referring [to](/post/to/) parts [of](/post/of/) [a](/post/a/) [structure](/post/structure/) [or](/post/or/) mechanism)

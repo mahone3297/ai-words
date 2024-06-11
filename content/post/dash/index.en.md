@@ -7,28 +7,28 @@ description = '[dæ∫] vt.使猛撞；溅 n.猛冲'
 keywords = ['ai words', 'dash']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dæʃ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [mark](/en/post/mark/) (-) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) marks (---) [used](/en/post/used/) [to](/en/post/to/) [separate](/en/post/separate/) items, [indicate](/en/post/indicate/) [a](/en/post/a/) [range](/en/post/range/), [or](/en/post/or/) [emphasize](/en/post/emphasize/) [a](/en/post/a/) [break](/en/post/break/) [in](/en/post/in/) [text](/en/post/text/). 2. [A](/en/post/a/) [sudden](/en/post/sudden/) [change](/en/post/change/) [or](/en/post/or/) [break](/en/post/break/) [in](/en/post/in/) [a](/en/post/a/) [line](/en/post/line/) [of](/en/post/of/) [thought](/en/post/thought/), [conversation](/en/post/conversation/), [or](/en/post/or/) [action](/en/post/action/). 3. [A](/en/post/a/) car's [brake](/en/post/brake/) [or](/en/post/or/) [acceleration](/en/post/acceleration/) [system](/en/post/system/), [often](/en/post/often/) indicated [by](/en/post/by/) [a](/en/post/a/) [light](/en/post/light/) [on](/en/post/on/) [the](/en/post/the/) dashboard.
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [short](/en/post/short/), [rapid](/en/post/rapid/) [movement](/en/post/movement/) [with](/en/post/with/) one's [hand](/en/post/hand/) [or](/en/post/or/) [arm](/en/post/arm/), typically [to](/en/post/to/) [signal](/en/post/signal/) [or](/en/post/or/) [emphasize](/en/post/emphasize/) [something](/en/post/something/). 2. [To](/en/post/to/) [indicate](/en/post/indicate/) [or](/en/post/or/) [separate](/en/post/separate/) items [with](/en/post/with/) [a](/en/post/a/) [dash](/en/post/dash/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [mark](/post/mark/) (-) [or](/post/or/) [series](/post/series/) [of](/post/of/) marks (---) [used](/post/used/) [to](/post/to/) [separate](/post/separate/) items, [indicate](/post/indicate/) [a](/post/a/) [range](/post/range/), [or](/post/or/) [emphasize](/post/emphasize/) [a](/post/a/) [break](/post/break/) [in](/post/in/) [text](/post/text/). 2. [A](/post/a/) [sudden](/post/sudden/) [change](/post/change/) [or](/post/or/) [break](/post/break/) [in](/post/in/) [a](/post/a/) [line](/post/line/) [of](/post/of/) [thought](/post/thought/), [conversation](/post/conversation/), [or](/post/or/) [action](/post/action/). 3. [A](/post/a/) car's [brake](/post/brake/) [or](/post/or/) [acceleration](/post/acceleration/) [system](/post/system/), [often](/post/often/) indicated [by](/post/by/) [a](/post/a/) [light](/post/light/) [on](/post/on/) [the](/post/the/) dashboard.
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [make](/post/make/) [a](/post/a/) [short](/post/short/), [rapid](/post/rapid/) [movement](/post/movement/) [with](/post/with/) one's [hand](/post/hand/) [or](/post/or/) [arm](/post/arm/), typically [to](/post/to/) [signal](/post/signal/) [or](/post/or/) [emphasize](/post/emphasize/) [something](/post/something/). 2. [To](/post/to/) [indicate](/post/indicate/) [or](/post/or/) [separate](/post/separate/) items [with](/post/with/) [a](/post/a/) [dash](/post/dash/).
 
 ## Phrases
-- [Dash](/en/post/dash/) [off](/en/post/off/) [a](/en/post/a/) [note](/en/post/note/): [To](/en/post/to/) [quickly](/en/post/quickly/) [write](/en/post/write/) [a](/en/post/a/) [brief](/en/post/brief/) [message](/en/post/message/).
-- [Dash](/en/post/dash/) [between](/en/post/between/) tasks: [To](/en/post/to/) [quickly](/en/post/quickly/) [move](/en/post/move/) [from](/en/post/from/) [one](/en/post/one/) [activity](/en/post/activity/) [to](/en/post/to/) [another](/en/post/another/).
-- [Dash](/en/post/dash/) [of](/en/post/of/) [color](/en/post/color/): [A](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [color](/en/post/color/) added [for](/en/post/for/) [emphasis](/en/post/emphasis/).
-- [Dash](/en/post/dash/) [of](/en/post/of/) [salt](/en/post/salt/): [A](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [of](/en/post/of/) [salt](/en/post/salt/) [to](/en/post/to/) [season](/en/post/season/) [food](/en/post/food/).
+- [Dash](/post/dash/) [off](/post/off/) [a](/post/a/) [note](/post/note/): [To](/post/to/) [quickly](/post/quickly/) [write](/post/write/) [a](/post/a/) [brief](/post/brief/) [message](/post/message/).
+- [Dash](/post/dash/) [between](/post/between/) tasks: [To](/post/to/) [quickly](/post/quickly/) [move](/post/move/) [from](/post/from/) [one](/post/one/) [activity](/post/activity/) [to](/post/to/) [another](/post/another/).
+- [Dash](/post/dash/) [of](/post/of/) [color](/post/color/): [A](/post/a/) [small](/post/small/) [amount](/post/amount/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [color](/post/color/) added [for](/post/for/) [emphasis](/post/emphasis/).
+- [Dash](/post/dash/) [of](/post/of/) [salt](/post/salt/): [A](/post/a/) [small](/post/small/) [amount](/post/amount/) [of](/post/of/) [salt](/post/salt/) [to](/post/to/) [season](/post/season/) [food](/post/food/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [menu](/en/post/menu/) had [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) dishes separated [by](/en/post/by/) dashes, indicating [their](/en/post/their/) ingredients.
-- **[Verb](/en/post/verb/)**: [She](/en/post/she/) dashed [across](/en/post/across/) [the](/en/post/the/) [street](/en/post/street/) [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [bus](/en/post/bus/).
-- **[As](/en/post/as/) [a](/en/post/a/) punctuation [mark](/en/post/mark/)**: [He](/en/post/he/) paused [in](/en/post/in/) [his](/en/post/his/) [speech](/en/post/speech/), pausing [for](/en/post/for/) [a](/en/post/a/) [dramatic](/en/post/dramatic/) [dash](/en/post/dash/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [menu](/post/menu/) had [a](/post/a/) [list](/post/list/) [of](/post/of/) dishes separated [by](/post/by/) dashes, indicating [their](/post/their/) ingredients.
+- **[Verb](/post/verb/)**: [She](/post/she/) dashed [across](/post/across/) [the](/post/the/) [street](/post/street/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [bus](/post/bus/).
+- **[As](/post/as/) [a](/post/a/) punctuation [mark](/post/mark/)**: [He](/post/he/) paused [in](/post/in/) [his](/post/his/) [speech](/post/speech/), pausing [for](/post/for/) [a](/post/a/) [dramatic](/post/dramatic/) [dash](/post/dash/).
 
 ## Synonyms
-- [Dash](/en/post/dash/): [Hurry](/en/post/hurry/), sprint, scurry, whisk, dart, [bound](/en/post/bound/)
-- [Dash](/en/post/dash/) [of](/en/post/of/): [Touch](/en/post/touch/), [hint](/en/post/hint/), [sprinkle](/en/post/sprinkle/), streak, [dash](/en/post/dash/) [of](/en/post/of/) [color](/en/post/color/)
+- [Dash](/post/dash/): [Hurry](/post/hurry/), sprint, scurry, whisk, dart, [bound](/post/bound/)
+- [Dash](/post/dash/) [of](/post/of/): [Touch](/post/touch/), [hint](/post/hint/), [sprinkle](/post/sprinkle/), streak, [dash](/post/dash/) [of](/post/of/) [color](/post/color/)
 
 ## Antonyms
-- [Dash](/en/post/dash/): [Slow](/en/post/slow/) [down](/en/post/down/), linger, saunter, dawdle
-- [Dash](/en/post/dash/) [of](/en/post/of/): Calmness, subtlety, gradualness, moderation
+- [Dash](/post/dash/): [Slow](/post/slow/) [down](/post/down/), linger, saunter, dawdle
+- [Dash](/post/dash/) [of](/post/of/): Calmness, subtlety, gradualness, moderation

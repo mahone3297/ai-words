@@ -12,20 +12,20 @@ keywords = ['ai words', 'version']
 
 ## 释义
 - **名词 n**:
-  - 版本，指同一事物的不同形式或阶段。例如: "[This](/post/this/) is [the](/post/the/) latest [version](/post/version/) [of](/post/of/) [the](/post/the/) software."
-  - 变种，指生物或文化的变体。例如: "[There](/post/there/) are [many](/post/many/) [different](/post/different/) versions [of](/post/of/) [this](/post/this/) [folk](/post/folk/) [tale](/post/tale/)."
+  - 版本，指同一事物的不同形式或阶段。例如: "[This](/zh/post/this/) is [the](/zh/post/the/) latest [version](/zh/post/version/) [of](/zh/post/of/) [the](/zh/post/the/) software."
+  - 变种，指生物或文化的变体。例如: "[There](/zh/post/there/) are [many](/zh/post/many/) [different](/zh/post/different/) versions [of](/zh/post/of/) [this](/zh/post/this/) [folk](/zh/post/folk/) [tale](/zh/post/tale/)."
 
 ## 短语
-- "[Version](/post/version/) [control](/post/control/)" 在软件开发中是指管理代码的不同版本。
-- "[Different](/post/different/) versions [of](/post/of/) [the](/post/the/) [story](/post/story/)" 指的是故事的多个版本或叙述。
+- "[Version](/zh/post/version/) [control](/zh/post/control/)" 在软件开发中是指管理代码的不同版本。
+- "[Different](/zh/post/different/) versions [of](/zh/post/of/) [the](/zh/post/the/) [story](/zh/post/story/)" 指的是故事的多个版本或叙述。
 
 ## 例句
-- 名词: "[The](/post/the/) [book](/post/book/) has an updated [version](/post/version/) [with](/post/with/) [additional](/post/additional/) [information](/post/information/)."
-- "[The](/post/the/) [movie](/post/movie/) is based [on](/post/on/) [a](/post/a/) French [version](/post/version/) [of](/post/of/) [the](/post/the/) [novel](/post/novel/)."
+- 名词: "[The](/zh/post/the/) [book](/zh/post/book/) has an updated [version](/zh/post/version/) [with](/zh/post/with/) [additional](/zh/post/additional/) [information](/zh/post/information/)."
+- "[The](/zh/post/the/) [movie](/zh/post/movie/) is based [on](/zh/post/on/) [a](/zh/post/a/) French [version](/zh/post/version/) [of](/zh/post/of/) [the](/zh/post/the/) [novel](/zh/post/novel/)."
 
 ## 同义词
-- [Edition](/post/edition/)
+- [Edition](/zh/post/edition/)
 - Variant
 - Iteration
-- [Release](/post/release/)
-- [Form](/post/form/)
+- [Release](/zh/post/release/)
+- [Form](/zh/post/form/)

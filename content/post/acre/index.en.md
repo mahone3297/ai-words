@@ -7,33 +7,33 @@ description = '[ˈeikə] n.英亩(=6.07 亩)'
 keywords = ['ai words', 'acre']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeɪkr/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [land](/en/post/land/) [measurement](/en/post/measurement/), [equal](/en/post/equal/) [to](/en/post/to/) 43,560 [square](/en/post/square/) feet [or](/en/post/or/) [about](/en/post/about/) 4,047 [square](/en/post/square/) meters, typically [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) United States [and](/en/post/and/) Canada. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) owns 100 acres [of](/en/post/of/) [fertile](/en/post/fertile/) [land](/en/post/land/)."
-- **[Adjective](/en/post/adjective/)**: Measuring [or](/en/post/or/) relating [to](/en/post/to/) an [acre](/en/post/acre/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [plot](/en/post/plot/) was measured [in](/en/post/in/) acres."
+- **[Noun](/post/noun/)**: [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [land](/post/land/) [measurement](/post/measurement/), [equal](/post/equal/) [to](/post/to/) 43,560 [square](/post/square/) feet [or](/post/or/) [about](/post/about/) 4,047 [square](/post/square/) meters, typically [used](/post/used/) [in](/post/in/) [the](/post/the/) United States [and](/post/and/) Canada. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) owns 100 acres [of](/post/of/) [fertile](/post/fertile/) [land](/post/land/)."
+- **[Adjective](/post/adjective/)**: Measuring [or](/post/or/) relating [to](/post/to/) an [acre](/post/acre/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [plot](/post/plot/) was measured [in](/post/in/) acres."
 
 ## Phrases
-- "An [acre](/en/post/acre/) [of](/en/post/of/) [land](/en/post/land/)" is [the](/en/post/the/) [standard](/en/post/standard/) [expression](/en/post/expression/) [for](/en/post/for/) [this](/en/post/this/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/).
-- "Covering acres" [or](/en/post/or/) "spreading [over](/en/post/over/) acres" implies [a](/en/post/a/) [large](/en/post/large/) [area](/en/post/area/).
-- "An acreage" refers [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [area](/en/post/area/) measured [in](/en/post/in/) acres.
+- "An [acre](/post/acre/) [of](/post/of/) [land](/post/land/)" is [the](/post/the/) [standard](/post/standard/) [expression](/post/expression/) [for](/post/for/) [this](/post/this/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/).
+- "Covering acres" [or](/post/or/) "spreading [over](/post/over/) acres" implies [a](/post/a/) [large](/post/large/) [area](/post/area/).
+- "An acreage" refers [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [area](/post/area/) measured [in](/post/in/) acres.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) planted [corn](/en/post/corn/) [on](/en/post/on/) 200 acres [of](/en/post/of/) [his](/en/post/his/) farmland."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [real](/en/post/real/) estate listing mentioned [the](/en/post/the/) property's 5-acre [garden](/en/post/garden/)."
-- "[The](/en/post/the/) ranch spans hundreds [of](/en/post/of/) acres."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) planted [corn](/post/corn/) [on](/post/on/) 200 acres [of](/post/of/) [his](/post/his/) farmland."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [real](/post/real/) estate listing mentioned [the](/post/the/) property's 5-acre [garden](/post/garden/)."
+- "[The](/post/the/) ranch spans hundreds [of](/post/of/) acres."
 
 ## Synonyms
 - Acre-foot
-- [Section](/en/post/section/) ([in](/en/post/in/) U.S., 640 acres)
-- Quarter-section ([in](/en/post/in/) U.S., 160 acres)
+- [Section](/post/section/) ([in](/post/in/) U.S., 640 acres)
+- Quarter-section ([in](/post/in/) U.S., 160 acres)
 - Pastureland
 - Farmland
 
 ## Etymology
-[The](/en/post/the/) [word](/en/post/word/) "[acre](/en/post/acre/)" comes [from](/en/post/from/) [the](/en/post/the/) [Old](/en/post/old/) English "acresce," [meaning](/en/post/meaning/) "[a](/en/post/a/) [stretch](/en/post/stretch/) [of](/en/post/of/) cultivated [land](/en/post/land/)" [or](/en/post/or/) "[to](/en/post/to/) [increase](/en/post/increase/) [in](/en/post/in/) [size](/en/post/size/)," derived [from](/en/post/from/) [the](/en/post/the/) Latin "ager," [meaning](/en/post/meaning/) "[field](/en/post/field/)."
+[The](/post/the/) [word](/post/word/) "[acre](/post/acre/)" comes [from](/post/from/) [the](/post/the/) [Old](/post/old/) English "acresce," [meaning](/post/meaning/) "[a](/post/a/) [stretch](/post/stretch/) [of](/post/of/) cultivated [land](/post/land/)" [or](/post/or/) "[to](/post/to/) [increase](/post/increase/) [in](/post/in/) [size](/post/size/)," derived [from](/post/from/) [the](/post/the/) Latin "ager," [meaning](/post/meaning/) "[field](/post/field/)."
 
 ## Related Units
 - Hectare (1 hectare = 2.47 acres)
-- [Square](/en/post/square/) [mile](/en/post/mile/) (1 [square](/en/post/square/) [mile](/en/post/mile/) ≈ 640 acres)
+- [Square](/post/square/) [mile](/post/mile/) (1 [square](/post/square/) [mile](/post/mile/) ≈ 640 acres)

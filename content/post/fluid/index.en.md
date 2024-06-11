@@ -7,33 +7,33 @@ description = '[ˈflu(ː)id] n.流体，液体'
 keywords = ['ai words', 'fluid']
 +++
 
-# [fluid](/en/post/fluid/)
+# [fluid](/post/fluid/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfluɪd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [substance](/en/post/substance/) [that](/en/post/that/) has [no](/en/post/no/) fixed [shape](/en/post/shape/) [and](/en/post/and/) yields [easily](/en/post/easily/) [to](/en/post/to/) [external](/en/post/external/) [pressure](/en/post/pressure/); [it](/en/post/it/) [can](/en/post/can/) [flow](/en/post/flow/) [and](/en/post/and/) [take](/en/post/take/) [the](/en/post/the/) [shape](/en/post/shape/) [of](/en/post/of/) [its](/en/post/its/) [container](/en/post/container/). [For](/en/post/for/) [example](/en/post/example/): "[Water](/en/post/water/) is [the](/en/post/the/) [most](/en/post/most/) [common](/en/post/common/) [fluid](/en/post/fluid/) [on](/en/post/on/) [Earth](/en/post/earth/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [a](/en/post/a/) [substance](/en/post/substance/) [that](/en/post/that/) flows [freely](/en/post/freely/), [especially](/en/post/especially/) [a](/en/post/a/) [liquid](/en/post/liquid/) [or](/en/post/or/) [gas](/en/post/gas/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [patient](/en/post/patient/) needed intravenous fluids [to](/en/post/to/) rehydrate."
+- **[Noun](/post/noun/)**: [A](/post/a/) [substance](/post/substance/) [that](/post/that/) has [no](/post/no/) fixed [shape](/post/shape/) [and](/post/and/) yields [easily](/post/easily/) [to](/post/to/) [external](/post/external/) [pressure](/post/pressure/); [it](/post/it/) [can](/post/can/) [flow](/post/flow/) [and](/post/and/) [take](/post/take/) [the](/post/the/) [shape](/post/shape/) [of](/post/of/) [its](/post/its/) [container](/post/container/). [For](/post/for/) [example](/post/example/): "[Water](/post/water/) is [the](/post/the/) [most](/post/most/) [common](/post/common/) [fluid](/post/fluid/) [on](/post/on/) [Earth](/post/earth/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [a](/post/a/) [substance](/post/substance/) [that](/post/that/) flows [freely](/post/freely/), [especially](/post/especially/) [a](/post/a/) [liquid](/post/liquid/) [or](/post/or/) [gas](/post/gas/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [patient](/post/patient/) needed intravenous fluids [to](/post/to/) rehydrate."
 
-  - **[Physics](/en/post/physics/)**: Describing [a](/en/post/a/) [substance](/en/post/substance/) [that](/en/post/that/) cannot [withstand](/en/post/withstand/) [shear](/en/post/shear/) [stress](/en/post/stress/); [it](/en/post/it/) deforms continuously [under](/en/post/under/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) [a](/en/post/a/) tangential [force](/en/post/force/).
-  - **[Social](/en/post/social/) Sciences**: Characterizing [something](/en/post/something/) [that](/en/post/that/) is changeable, adaptable, [or](/en/post/or/) [flexible](/en/post/flexible/). [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) working hours were [quite](/en/post/quite/) [fluid](/en/post/fluid/), allowing [them](/en/post/them/) [to](/en/post/to/) [adjust](/en/post/adjust/) [their](/en/post/their/) schedules [as](/en/post/as/) needed."
+  - **[Physics](/post/physics/)**: Describing [a](/post/a/) [substance](/post/substance/) [that](/post/that/) cannot [withstand](/post/withstand/) [shear](/post/shear/) [stress](/post/stress/); [it](/post/it/) deforms continuously [under](/post/under/) [the](/post/the/) [action](/post/action/) [of](/post/of/) [a](/post/a/) tangential [force](/post/force/).
+  - **[Social](/post/social/) Sciences**: Characterizing [something](/post/something/) [that](/post/that/) is changeable, adaptable, [or](/post/or/) [flexible](/post/flexible/). [For](/post/for/) [example](/post/example/): "[Their](/post/their/) working hours were [quite](/post/quite/) [fluid](/post/fluid/), allowing [them](/post/them/) [to](/post/to/) [adjust](/post/adjust/) [their](/post/their/) schedules [as](/post/as/) needed."
 
 ## Phrases
-- "Liquids [and](/en/post/and/) gases are [both](/en/post/both/) considered fluids."
-- "[A](/en/post/a/) [fluid](/en/post/fluid/) [dynamic](/en/post/dynamic/) [system](/en/post/system/)" refers [to](/en/post/to/) [the](/en/post/the/) [study](/en/post/study/) [of](/en/post/of/) [how](/en/post/how/) fluids [move](/en/post/move/) [and](/en/post/and/) [the](/en/post/the/) forces [they](/en/post/they/) [exert](/en/post/exert/) [on](/en/post/on/) objects.
-- "[Fluid](/en/post/fluid/) [intelligence](/en/post/intelligence/)" describes [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [think](/en/post/think/) logically [and](/en/post/and/) [solve](/en/post/solve/) problems [in](/en/post/in/) [novel](/en/post/novel/) situations, [independent](/en/post/independent/) [of](/en/post/of/) acquired [knowledge](/en/post/knowledge/).
+- "Liquids [and](/post/and/) gases are [both](/post/both/) considered fluids."
+- "[A](/post/a/) [fluid](/post/fluid/) [dynamic](/post/dynamic/) [system](/post/system/)" refers [to](/post/to/) [the](/post/the/) [study](/post/study/) [of](/post/of/) [how](/post/how/) fluids [move](/post/move/) [and](/post/and/) [the](/post/the/) forces [they](/post/they/) [exert](/post/exert/) [on](/post/on/) objects.
+- "[Fluid](/post/fluid/) [intelligence](/post/intelligence/)" describes [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [think](/post/think/) logically [and](/post/and/) [solve](/post/solve/) problems [in](/post/in/) [novel](/post/novel/) situations, [independent](/post/independent/) [of](/post/of/) acquired [knowledge](/post/knowledge/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [mechanic](/en/post/mechanic/) drained [the](/en/post/the/) contaminated [transmission](/en/post/transmission/) [fluid](/en/post/fluid/) [and](/en/post/and/) replaced [it](/en/post/it/) [with](/en/post/with/) [new](/en/post/new/) [oil](/en/post/oil/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) movements were [smooth](/en/post/smooth/) [and](/en/post/and/) [fluid](/en/post/fluid/), [like](/en/post/like/) [water](/en/post/water/) dancing [in](/en/post/in/) [the](/en/post/the/) [wind](/en/post/wind/)."
-- **[Physics](/en/post/physics/)**: "[Blood](/en/post/blood/) is [a](/en/post/a/) non-Newtonian [fluid](/en/post/fluid/) [whose](/en/post/whose/) viscosity changes [under](/en/post/under/) [different](/en/post/different/) levels [of](/en/post/of/) [shear](/en/post/shear/) [stress](/en/post/stress/)."
-- **[Social](/en/post/social/) Sciences**: "[In](/en/post/in/) today's [job](/en/post/job/) [market](/en/post/market/), [one](/en/post/one/) [must](/en/post/must/) [be](/en/post/be/) [fluid](/en/post/fluid/) [in](/en/post/in/) [their](/en/post/their/) [career](/en/post/career/) [approach](/en/post/approach/) [to](/en/post/to/) [adapt](/en/post/adapt/) [to](/en/post/to/) changing demands."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [mechanic](/post/mechanic/) drained [the](/post/the/) contaminated [transmission](/post/transmission/) [fluid](/post/fluid/) [and](/post/and/) replaced [it](/post/it/) [with](/post/with/) [new](/post/new/) [oil](/post/oil/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) movements were [smooth](/post/smooth/) [and](/post/and/) [fluid](/post/fluid/), [like](/post/like/) [water](/post/water/) dancing [in](/post/in/) [the](/post/the/) [wind](/post/wind/)."
+- **[Physics](/post/physics/)**: "[Blood](/post/blood/) is [a](/post/a/) non-Newtonian [fluid](/post/fluid/) [whose](/post/whose/) viscosity changes [under](/post/under/) [different](/post/different/) levels [of](/post/of/) [shear](/post/shear/) [stress](/post/stress/)."
+- **[Social](/post/social/) Sciences**: "[In](/post/in/) today's [job](/post/job/) [market](/post/market/), [one](/post/one/) [must](/post/must/) [be](/post/be/) [fluid](/post/fluid/) [in](/post/in/) [their](/post/their/) [career](/post/career/) [approach](/post/approach/) [to](/post/to/) [adapt](/post/adapt/) [to](/post/to/) changing demands."
 
 ## Synonyms
-- [Liquid](/en/post/liquid/) ([noun](/en/post/noun/))
-- Watery ([adjective](/en/post/adjective/))
-- Changeable ([adjective](/en/post/adjective/))
-- [Mobile](/en/post/mobile/) ([adjective](/en/post/adjective/))
-- Unfixed ([adjective](/en/post/adjective/))
-- [Variable](/en/post/variable/) ([adjective](/en/post/adjective/))
+- [Liquid](/post/liquid/) ([noun](/post/noun/))
+- Watery ([adjective](/post/adjective/))
+- Changeable ([adjective](/post/adjective/))
+- [Mobile](/post/mobile/) ([adjective](/post/adjective/))
+- Unfixed ([adjective](/post/adjective/))
+- [Variable](/post/variable/) ([adjective](/post/adjective/))

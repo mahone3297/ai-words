@@ -11,23 +11,23 @@ keywords = ['ai words', 'opposite']
 /ˈɑːpəzɪt/
 
 ## 释义
-- **形容词**: 相反的，对立的。例如: "[The](/post/the/) [opposite](/post/opposite/) [of](/post/of/) [love](/post/love/) is [not](/post/not/) [hate](/post/hate/), [but](/post/but/) indifference."
-- **名词**: 反面，对立面。例如: "[The](/post/the/) [opposite](/post/opposite/) [side](/post/side/) [of](/post/of/) [the](/post/the/) [road](/post/road/)."
-- **介词**: 表示在...的对面。例如: "[The](/post/the/) [store](/post/store/) is located [opposite](/post/opposite/) [the](/post/the/) [library](/post/library/)."
+- **形容词**: 相反的，对立的。例如: "[The](/zh/post/the/) [opposite](/zh/post/opposite/) [of](/zh/post/of/) [love](/zh/post/love/) is [not](/zh/post/not/) [hate](/zh/post/hate/), [but](/zh/post/but/) indifference."
+- **名词**: 反面，对立面。例如: "[The](/zh/post/the/) [opposite](/zh/post/opposite/) [side](/zh/post/side/) [of](/zh/post/of/) [the](/zh/post/the/) [road](/zh/post/road/)."
+- **介词**: 表示在...的对面。例如: "[The](/zh/post/the/) [store](/zh/post/store/) is located [opposite](/zh/post/opposite/) [the](/zh/post/the/) [library](/zh/post/library/)."
 
 ## 短语
-- "[on](/post/on/) [the](/post/the/) [opposite](/post/opposite/) [side](/post/side/)" 在另一边
-- "[in](/post/in/) [contrast](/post/contrast/) [to](/post/to/)" 与...对比
-- "[the](/post/the/) [opposite](/post/opposite/) [effect](/post/effect/)" 相反的效果
+- "[on](/zh/post/on/) [the](/zh/post/the/) [opposite](/zh/post/opposite/) [side](/zh/post/side/)" 在另一边
+- "[in](/zh/post/in/) [contrast](/zh/post/contrast/) [to](/zh/post/to/)" 与...对比
+- "[the](/zh/post/the/) [opposite](/zh/post/opposite/) [effect](/zh/post/effect/)" 相反的效果
 
 ## 例句
-- 形容词: "[These](/post/these/) [two](/post/two/) colors [have](/post/have/) [opposite](/post/opposite/) tones [on](/post/on/) [the](/post/the/) [color](/post/color/) [wheel](/post/wheel/)."
-- 名词: "[The](/post/the/) [opposite](/post/opposite/) [of](/post/of/) [hot](/post/hot/) is [cold](/post/cold/)."
-- 介词: "There's [a](/post/a/) [park](/post/park/) [opposite](/post/opposite/) [my](/post/my/) [house](/post/house/)."
+- 形容词: "[These](/zh/post/these/) [two](/zh/post/two/) colors [have](/zh/post/have/) [opposite](/zh/post/opposite/) tones [on](/zh/post/on/) [the](/zh/post/the/) [color](/zh/post/color/) [wheel](/zh/post/wheel/)."
+- 名词: "[The](/zh/post/the/) [opposite](/zh/post/opposite/) [of](/zh/post/of/) [hot](/zh/post/hot/) is [cold](/zh/post/cold/)."
+- 介词: "There's [a](/zh/post/a/) [park](/zh/post/park/) [opposite](/zh/post/opposite/) [my](/zh/post/my/) [house](/zh/post/house/)."
 
 ## 同义词
-- [contrary](/post/contrary/)
-- [reverse](/post/reverse/)
+- [contrary](/zh/post/contrary/)
+- [reverse](/zh/post/reverse/)
 - antonym
-- diametrically [opposite](/post/opposite/)
+- diametrically [opposite](/zh/post/opposite/)
 - contrasting

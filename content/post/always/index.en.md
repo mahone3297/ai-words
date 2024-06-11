@@ -7,32 +7,32 @@ description = '[ˈɔːlweiz] ad.总是，一直；永远'
 keywords = ['ai words', 'always']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːlweɪz/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: An [adverb](/en/post/adverb/) [of](/en/post/of/) [frequency](/en/post/frequency/), indicating [that](/en/post/that/) [something](/en/post/something/) happens consistently [or](/en/post/or/) continually. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [always](/en/post/always/) arrives [on](/en/post/on/) [time](/en/post/time/)."
-- **[Adverb](/en/post/adverb/)**: An [adverb](/en/post/adverb/) [of](/en/post/of/) [manner](/en/post/manner/), describing [how](/en/post/how/) [something](/en/post/something/) is done habitually [or](/en/post/or/) unchangingly. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [always](/en/post/always/) works diligently."
+- **[Adverb](/post/adverb/)**: An [adverb](/post/adverb/) [of](/post/of/) [frequency](/post/frequency/), indicating [that](/post/that/) [something](/post/something/) happens consistently [or](/post/or/) continually. [For](/post/for/) [example](/post/example/): "[She](/post/she/) [always](/post/always/) arrives [on](/post/on/) [time](/post/time/)."
+- **[Adverb](/post/adverb/)**: An [adverb](/post/adverb/) [of](/post/of/) [manner](/post/manner/), describing [how](/post/how/) [something](/post/something/) is done habitually [or](/post/or/) unchangingly. [For](/post/for/) [example](/post/example/): "[He](/post/he/) [always](/post/always/) works diligently."
 
 ## Phrases
-- "[Always](/en/post/always/) [be](/en/post/be/) [there](/en/post/there/)" implies [consistent](/en/post/consistent/) [support](/en/post/support/) [or](/en/post/or/) [presence](/en/post/presence/).
-- "[As](/en/post/as/) [always](/en/post/always/)" [means](/en/post/means/) [as](/en/post/as/) [usual](/en/post/usual/) [or](/en/post/or/) [without](/en/post/without/) [exception](/en/post/exception/).
-- "[Never](/en/post/never/) [without](/en/post/without/) [always](/en/post/always/)" expresses [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [being](/en/post/being/) inseparable [or](/en/post/or/) [indispensable](/en/post/indispensable/).
+- "[Always](/post/always/) [be](/post/be/) [there](/post/there/)" implies [consistent](/post/consistent/) [support](/post/support/) [or](/post/or/) [presence](/post/presence/).
+- "[As](/post/as/) [always](/post/always/)" [means](/post/means/) [as](/post/as/) [usual](/post/usual/) [or](/post/or/) [without](/post/without/) [exception](/post/exception/).
+- "[Never](/post/never/) [without](/post/without/) [always](/post/always/)" expresses [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [being](/post/being/) inseparable [or](/post/or/) [indispensable](/post/indispensable/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/) [of](/en/post/of/) [frequency](/en/post/frequency/)**: "John [always](/en/post/always/) studies [for](/en/post/for/) [his](/en/post/his/) exams, [which](/en/post/which/) helps [him](/en/post/him/) [perform](/en/post/perform/) [well](/en/post/well/)."
-- **[Adverb](/en/post/adverb/) [of](/en/post/of/) [manner](/en/post/manner/)**: "[She](/en/post/she/) [always](/en/post/always/) greets [her](/en/post/her/) customers [with](/en/post/with/) [a](/en/post/a/) [warm](/en/post/warm/) [smile](/en/post/smile/)."
-- "I was surprised [to](/en/post/to/) [see](/en/post/see/) [her](/en/post/her/) [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/), [as](/en/post/as/) she's [usually](/en/post/usually/) [always](/en/post/always/) [busy](/en/post/busy/) [with](/en/post/with/) [work](/en/post/work/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/) [of](/post/of/) [frequency](/post/frequency/)**: "John [always](/post/always/) studies [for](/post/for/) [his](/post/his/) exams, [which](/post/which/) helps [him](/post/him/) [perform](/post/perform/) [well](/post/well/)."
+- **[Adverb](/post/adverb/) [of](/post/of/) [manner](/post/manner/)**: "[She](/post/she/) [always](/post/always/) greets [her](/post/her/) customers [with](/post/with/) [a](/post/a/) [warm](/post/warm/) [smile](/post/smile/)."
+- "I was surprised [to](/post/to/) [see](/post/see/) [her](/post/her/) [at](/post/at/) [the](/post/the/) [party](/post/party/), [as](/post/as/) she's [usually](/post/usually/) [always](/post/always/) [busy](/post/busy/) [with](/post/with/) [work](/post/work/)."
 
 ## Synonyms
 - Constantly
 - Continuously
-- [Forever](/en/post/forever/)
+- [Forever](/post/forever/)
 - Unfailingly
 - Invariably
 
 ## Antonyms
-- [Occasionally](/en/post/occasionally/)
-- [Seldom](/en/post/seldom/)
-- [Rarely](/en/post/rarely/)
-- [Never](/en/post/never/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [not](/en/post/not/) happening [often](/en/post/often/))
+- [Occasionally](/post/occasionally/)
+- [Seldom](/post/seldom/)
+- [Rarely](/post/rarely/)
+- [Never](/post/never/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [not](/post/not/) happening [often](/post/often/))

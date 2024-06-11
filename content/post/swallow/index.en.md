@@ -7,38 +7,38 @@ description = 'vt.&vi.吞下，咽下'
 keywords = ['ai words', 'swallow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /swɒl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [swallow](/en/post/swallow/) is [a](/en/post/a/) [small](/en/post/small/), typically migratory [bird](/en/post/bird/) [of](/en/post/of/) [the](/en/post/the/) [family](/en/post/family/) Hirundinidae, known [for](/en/post/for/) [its](/en/post/its/) [ability](/en/post/ability/) [to](/en/post/to/) [catch](/en/post/catch/) insects [on](/en/post/on/) [the](/en/post/the/) [wing](/en/post/wing/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) swallowing [something](/en/post/something/) [whole](/en/post/whole/). [Example](/en/post/example/): "[The](/en/post/the/) [swallow](/en/post/swallow/) built [its](/en/post/its/) [nest](/en/post/nest/) [under](/en/post/under/) [the](/en/post/the/) eaves [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
+### [Noun](/post/noun/)
+[A](/post/a/) [swallow](/post/swallow/) is [a](/post/a/) [small](/post/small/), typically migratory [bird](/post/bird/) [of](/post/of/) [the](/post/the/) [family](/post/family/) Hirundinidae, known [for](/post/for/) [its](/post/its/) [ability](/post/ability/) [to](/post/to/) [catch](/post/catch/) insects [on](/post/on/) [the](/post/the/) [wing](/post/wing/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) swallowing [something](/post/something/) [whole](/post/whole/). [Example](/post/example/): "[The](/post/the/) [swallow](/post/swallow/) built [its](/post/its/) [nest](/post/nest/) [under](/post/under/) [the](/post/the/) eaves [of](/post/of/) [the](/post/the/) [house](/post/house/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [swallow](/en/post/swallow/) (v) [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [food](/en/post/food/) [or](/en/post/or/) [liquid](/en/post/liquid/) [into](/en/post/into/) one's [mouth](/en/post/mouth/) [and](/en/post/and/) [move](/en/post/move/) [it](/en/post/it/) [down](/en/post/down/) [the](/en/post/the/) [throat](/en/post/throat/) [without](/en/post/without/) chewing, [often](/en/post/often/) [used](/en/post/used/) metaphorically. [Example](/en/post/example/): "[He](/en/post/he/) swallowed [his](/en/post/his/) [pride](/en/post/pride/) [and](/en/post/and/) apologized [for](/en/post/for/) [his](/en/post/his/) [mistake](/en/post/mistake/)."
+### [Verb](/post/verb/)
+[To](/post/to/) [swallow](/post/swallow/) (v) [means](/post/means/) [to](/post/to/) [take](/post/take/) [food](/post/food/) [or](/post/or/) [liquid](/post/liquid/) [into](/post/into/) one's [mouth](/post/mouth/) [and](/post/and/) [move](/post/move/) [it](/post/it/) [down](/post/down/) [the](/post/the/) [throat](/post/throat/) [without](/post/without/) chewing, [often](/post/often/) [used](/post/used/) metaphorically. [Example](/post/example/): "[He](/post/he/) swallowed [his](/post/his/) [pride](/post/pride/) [and](/post/and/) apologized [for](/post/for/) [his](/post/his/) [mistake](/post/mistake/)."
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) [some](/en/post/some/) contexts, "[swallow](/en/post/swallow/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/), describing [something](/en/post/something/) [that](/en/post/that/) is [easily](/en/post/easily/) accepted [or](/en/post/or/) swallowed [whole](/en/post/whole/). [Example](/en/post/example/): "[The](/en/post/the/) children eagerly swallowed [the](/en/post/the/) [story](/en/post/story/) [of](/en/post/of/) [the](/en/post/the/) [magic](/en/post/magic/) [garden](/en/post/garden/)."
+### [Adjective](/post/adjective/)
+[In](/post/in/) [some](/post/some/) contexts, "[swallow](/post/swallow/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/), describing [something](/post/something/) [that](/post/that/) is [easily](/post/easily/) accepted [or](/post/or/) swallowed [whole](/post/whole/). [Example](/post/example/): "[The](/post/the/) children eagerly swallowed [the](/post/the/) [story](/post/story/) [of](/post/of/) [the](/post/the/) [magic](/post/magic/) [garden](/post/garden/)."
 
-### [Adverb](/en/post/adverb/)
-"Swallow-like" describes [something](/en/post/something/) done [with](/en/post/with/) [the](/en/post/the/) [same](/en/post/same/) rapidity [or](/en/post/or/) [efficiency](/en/post/efficiency/) [as](/en/post/as/) [a](/en/post/a/) [swallow](/en/post/swallow/) consumes [its](/en/post/its/) prey. [Example](/en/post/example/): "[The](/en/post/the/) [snake](/en/post/snake/) moved swallow-like [through](/en/post/through/) [the](/en/post/the/) [grass](/en/post/grass/)."
+### [Adverb](/post/adverb/)
+"Swallow-like" describes [something](/post/something/) done [with](/post/with/) [the](/post/the/) [same](/post/same/) rapidity [or](/post/or/) [efficiency](/post/efficiency/) [as](/post/as/) [a](/post/a/) [swallow](/post/swallow/) consumes [its](/post/its/) prey. [Example](/post/example/): "[The](/post/the/) [snake](/post/snake/) moved swallow-like [through](/post/through/) [the](/post/the/) [grass](/post/grass/)."
 
 ## Phrases
-- "[Swallow](/en/post/swallow/) [a](/en/post/a/) [lie](/en/post/lie/)" [means](/en/post/means/) [to](/en/post/to/) [accept](/en/post/accept/) [or](/en/post/or/) [pretend](/en/post/pretend/) [to](/en/post/to/) [believe](/en/post/believe/) [something](/en/post/something/) [that](/en/post/that/) is [not](/en/post/not/) [true](/en/post/true/).
-- "[Swallow](/en/post/swallow/) [hard](/en/post/hard/)" refers [to](/en/post/to/) making [a](/en/post/a/) [conscious](/en/post/conscious/) [effort](/en/post/effort/) [to](/en/post/to/) suppress emotions [or](/en/post/or/) [difficulty](/en/post/difficulty/), [especially](/en/post/especially/) [when](/en/post/when/) making [a](/en/post/a/) [difficult](/en/post/difficult/) [decision](/en/post/decision/).
-- "[Swallow](/en/post/swallow/) [your](/en/post/your/) [anger](/en/post/anger/)" [means](/en/post/means/) [to](/en/post/to/) [restrain](/en/post/restrain/) [or](/en/post/or/) [control](/en/post/control/) one's [anger](/en/post/anger/).
+- "[Swallow](/post/swallow/) [a](/post/a/) [lie](/post/lie/)" [means](/post/means/) [to](/post/to/) [accept](/post/accept/) [or](/post/or/) [pretend](/post/pretend/) [to](/post/to/) [believe](/post/believe/) [something](/post/something/) [that](/post/that/) is [not](/post/not/) [true](/post/true/).
+- "[Swallow](/post/swallow/) [hard](/post/hard/)" refers [to](/post/to/) making [a](/post/a/) [conscious](/post/conscious/) [effort](/post/effort/) [to](/post/to/) suppress emotions [or](/post/or/) [difficulty](/post/difficulty/), [especially](/post/especially/) [when](/post/when/) making [a](/post/a/) [difficult](/post/difficult/) [decision](/post/decision/).
+- "[Swallow](/post/swallow/) [your](/post/your/) [anger](/post/anger/)" [means](/post/means/) [to](/post/to/) [restrain](/post/restrain/) [or](/post/or/) [control](/post/control/) one's [anger](/post/anger/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [swallow](/en/post/swallow/) was perched [on](/en/post/on/) [a](/en/post/a/) [branch](/en/post/branch/), waiting [for](/en/post/for/) [its](/en/post/its/) [next](/en/post/next/) [meal](/en/post/meal/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [debate](/en/post/debate/), [he](/en/post/he/) [finally](/en/post/finally/) swallowed [his](/en/post/his/) reservations [and](/en/post/and/) agreed [to](/en/post/to/) [the](/en/post/the/) [proposal](/en/post/proposal/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [advice](/en/post/advice/) was swallowed [up](/en/post/up/) [by](/en/post/by/) [the](/en/post/the/) excitement [of](/en/post/of/) [the](/en/post/the/) [moment](/en/post/moment/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [swallow](/post/swallow/) was perched [on](/post/on/) [a](/post/a/) [branch](/post/branch/), waiting [for](/post/for/) [its](/post/its/) [next](/post/next/) [meal](/post/meal/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [debate](/post/debate/), [he](/post/he/) [finally](/post/finally/) swallowed [his](/post/his/) reservations [and](/post/and/) agreed [to](/post/to/) [the](/post/the/) [proposal](/post/proposal/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [advice](/post/advice/) was swallowed [up](/post/up/) [by](/post/by/) [the](/post/the/) excitement [of](/post/of/) [the](/post/the/) [moment](/post/moment/)."
 
 ## Synonyms
 - Ingest
 - Devour
-- [Consume](/en/post/consume/)
-- [Swallow](/en/post/swallow/) [up](/en/post/up/)
+- [Consume](/post/consume/)
+- [Swallow](/post/swallow/) [up](/post/up/)
 - Glug
-- [Down](/en/post/down/) ([as](/en/post/as/) [in](/en/post/in/) "[down](/en/post/down/) [a](/en/post/a/) [drink](/en/post/drink/)")
+- [Down](/post/down/) ([as](/post/as/) [in](/post/in/) "[down](/post/down/) [a](/post/a/) [drink](/post/drink/)")
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) "[swallow](/en/post/swallow/)" does [not](/en/post/not/) [have](/en/post/have/) [direct](/en/post/direct/) synonyms [like](/en/post/like/) "[hi](/en/post/hi/)" [or](/en/post/or/) "greetings" [for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [sense](/en/post/sense/). [The](/en/post/the/) related words mentioned [above](/en/post/above/) [mostly](/en/post/mostly/) [relate](/en/post/relate/) [to](/en/post/to/) [the](/en/post/the/) [verb](/en/post/verb/) [usage](/en/post/usage/).
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) "[swallow](/post/swallow/)" does [not](/post/not/) [have](/post/have/) [direct](/post/direct/) synonyms [like](/post/like/) "[hi](/post/hi/)" [or](/post/or/) "greetings" [for](/post/for/) [the](/post/the/) [noun](/post/noun/) [sense](/post/sense/). [The](/post/the/) related words mentioned [above](/post/above/) [mostly](/post/mostly/) [relate](/post/relate/) [to](/post/to/) [the](/post/the/) [verb](/post/verb/) [usage](/post/usage/).

@@ -7,27 +7,27 @@ description = '[ˈdʒu(ː)i∫] a.犹太人的'
 keywords = ['ai words', 'jewish']
 +++
 
-## [Word](/en/post/word/): [Jewish](/en/post/jewish/)
+## [Word](/post/word/): [Jewish](/post/jewish/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dʒuːɪʃ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [the](/en/post/the/) [Jewish](/en/post/jewish/) [people](/en/post/people/), [their](/en/post/their/) [religion](/en/post/religion/) (Judaism), [or](/en/post/or/) [their](/en/post/their/) cultural heritage. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) comes [from](/en/post/from/) [a](/en/post/a/) [Jewish](/en/post/jewish/) [family](/en/post/family/) [and](/en/post/and/) observes [the](/en/post/the/) Sabbath [every](/en/post/every/) [week](/en/post/week/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) belongs [to](/en/post/to/) [the](/en/post/the/) [Jewish](/en/post/jewish/) [people](/en/post/people/) [by](/en/post/by/) [birth](/en/post/birth/) [or](/en/post/or/) [conversion](/en/post/conversion/), [or](/en/post/or/) [who](/en/post/who/) identifies [with](/en/post/with/) [the](/en/post/the/) [Jewish](/en/post/jewish/) [faith](/en/post/faith/) [or](/en/post/or/) [culture](/en/post/culture/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [Jewish](/en/post/jewish/) [community](/en/post/community/) [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/) organized [a](/en/post/a/) [charity](/en/post/charity/) [event](/en/post/event/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [the](/post/the/) [Jewish](/post/jewish/) [people](/post/people/), [their](/post/their/) [religion](/post/religion/) (Judaism), [or](/post/or/) [their](/post/their/) cultural heritage. [For](/post/for/) [example](/post/example/): "[She](/post/she/) comes [from](/post/from/) [a](/post/a/) [Jewish](/post/jewish/) [family](/post/family/) [and](/post/and/) observes [the](/post/the/) Sabbath [every](/post/every/) [week](/post/week/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) belongs [to](/post/to/) [the](/post/the/) [Jewish](/post/jewish/) [people](/post/people/) [by](/post/by/) [birth](/post/birth/) [or](/post/or/) [conversion](/post/conversion/), [or](/post/or/) [who](/post/who/) identifies [with](/post/with/) [the](/post/the/) [Jewish](/post/jewish/) [faith](/post/faith/) [or](/post/or/) [culture](/post/culture/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [Jewish](/post/jewish/) [community](/post/community/) [in](/post/in/) [the](/post/the/) [city](/post/city/) organized [a](/post/a/) [charity](/post/charity/) [event](/post/event/)."
 
 ### Phrases
-- "[Jewish](/en/post/jewish/) [faith](/en/post/faith/)": Refers [to](/en/post/to/) Judaism, [which](/en/post/which/) is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) oldest monotheistic religions.
-- "[Jewish](/en/post/jewish/) [culture](/en/post/culture/)": Encompasses [the](/en/post/the/) traditions, customs, [and](/en/post/and/) practices developed [by](/en/post/by/) [Jewish](/en/post/jewish/) [people](/en/post/people/) [throughout](/en/post/throughout/) [history](/en/post/history/).
-- "[Jewish](/en/post/jewish/) [law](/en/post/law/)" ([also](/en/post/also/) known [as](/en/post/as/) Halakha): [The](/en/post/the/) [collective](/en/post/collective/) [body](/en/post/body/) [of](/en/post/of/) [Jewish](/en/post/jewish/) [religious](/en/post/religious/) laws derived [from](/en/post/from/) [the](/en/post/the/) written [and](/en/post/and/) [oral](/en/post/oral/) Torah.
+- "[Jewish](/post/jewish/) [faith](/post/faith/)": Refers [to](/post/to/) Judaism, [which](/post/which/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) oldest monotheistic religions.
+- "[Jewish](/post/jewish/) [culture](/post/culture/)": Encompasses [the](/post/the/) traditions, customs, [and](/post/and/) practices developed [by](/post/by/) [Jewish](/post/jewish/) [people](/post/people/) [throughout](/post/throughout/) [history](/post/history/).
+- "[Jewish](/post/jewish/) [law](/post/law/)" ([also](/post/also/) known [as](/post/as/) Halakha): [The](/post/the/) [collective](/post/collective/) [body](/post/body/) [of](/post/of/) [Jewish](/post/jewish/) [religious](/post/religious/) laws derived [from](/post/from/) [the](/post/the/) written [and](/post/and/) [oral](/post/oral/) Torah.
 
-### [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "Kosher [food](/en/post/food/) is prepared according [to](/en/post/to/) [Jewish](/en/post/jewish/) dietary laws."
-- **[Noun](/en/post/noun/)**: "[Many](/en/post/many/) [famous](/en/post/famous/) scientists [throughout](/en/post/throughout/) [history](/en/post/history/) [have](/en/post/have/) been [Jewish](/en/post/jewish/)."
+### [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "Kosher [food](/post/food/) is prepared according [to](/post/to/) [Jewish](/post/jewish/) dietary laws."
+- **[Noun](/post/noun/)**: "[Many](/post/many/) [famous](/post/famous/) scientists [throughout](/post/throughout/) [history](/post/history/) [have](/post/have/) been [Jewish](/post/jewish/)."
 
 ## Synonyms
 - Judaic (adj.)
-- Hebrew (adj., [also](/en/post/also/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [ancient](/en/post/ancient/) [language](/en/post/language/) [or](/en/post/or/) [people](/en/post/people/))
-- Israelite (adj., [historical](/en/post/historical/) [reference](/en/post/reference/) [to](/en/post/to/) [the](/en/post/the/) descendants [of](/en/post/of/) Jacob/Israel) 
+- Hebrew (adj., [also](/post/also/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [ancient](/post/ancient/) [language](/post/language/) [or](/post/or/) [people](/post/people/))
+- Israelite (adj., [historical](/post/historical/) [reference](/post/reference/) [to](/post/to/) [the](/post/the/) descendants [of](/post/of/) Jacob/Israel) 
 
-[Note](/en/post/note/) [that](/en/post/that/) [while](/en/post/while/) [these](/en/post/these/) words [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [some](/en/post/some/) contexts, [they](/en/post/they/) [do](/en/post/do/) [not](/en/post/not/) fully [capture](/en/post/capture/) [all](/en/post/all/) [the](/en/post/the/) connotations [and](/en/post/and/) nuances [of](/en/post/of/) "[Jewish](/en/post/jewish/)." [For](/en/post/for/) [example](/en/post/example/), "Israelite" typically refers specifically [to](/en/post/to/) [the](/en/post/the/) biblical tribes [of](/en/post/of/) Israel, [while](/en/post/while/) "Hebrew" [can](/en/post/can/) denote [the](/en/post/the/) [ancient](/en/post/ancient/) [language](/en/post/language/) [or](/en/post/or/) [people](/en/post/people/) [but](/en/post/but/) [might](/en/post/might/) [not](/en/post/not/) [cover](/en/post/cover/) [contemporary](/en/post/contemporary/) [Jewish](/en/post/jewish/) identities.
+[Note](/post/note/) [that](/post/that/) [while](/post/while/) [these](/post/these/) words [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [some](/post/some/) contexts, [they](/post/they/) [do](/post/do/) [not](/post/not/) fully [capture](/post/capture/) [all](/post/all/) [the](/post/the/) connotations [and](/post/and/) nuances [of](/post/of/) "[Jewish](/post/jewish/)." [For](/post/for/) [example](/post/example/), "Israelite" typically refers specifically [to](/post/to/) [the](/post/the/) biblical tribes [of](/post/of/) Israel, [while](/post/while/) "Hebrew" [can](/post/can/) denote [the](/post/the/) [ancient](/post/ancient/) [language](/post/language/) [or](/post/or/) [people](/post/people/) [but](/post/but/) [might](/post/might/) [not](/post/not/) [cover](/post/cover/) [contemporary](/post/contemporary/) [Jewish](/post/jewish/) identities.

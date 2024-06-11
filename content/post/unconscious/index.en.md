@@ -7,39 +7,39 @@ description = '[ʌnˈkɔn∫əs] a.不省人事的'
 keywords = ['ai words', 'unconscious']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unˈkɒnʃəs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Unconsciousness**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) unaware [of](/en/post/of/) one's [surroundings](/en/post/surroundings/) [or](/en/post/or/) [condition](/en/post/condition/), typically [due](/en/post/due/) [to](/en/post/to/) [loss](/en/post/loss/) [of](/en/post/of/) awareness [or](/en/post/or/) medication.
-- **[Unconscious](/en/post/unconscious/) [mind](/en/post/mind/)**: [The](/en/post/the/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) psyche [that](/en/post/that/) contains thoughts, feelings, memories, [and](/en/post/and/) desires [that](/en/post/that/) [a](/en/post/a/) [person](/en/post/person/) is [not](/en/post/not/) [aware](/en/post/aware/) [of](/en/post/of/) [or](/en/post/or/) cannot [easily](/en/post/easily/) [access](/en/post/access/).
+### [Noun](/post/noun/)
+- **Unconsciousness**: [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) unaware [of](/post/of/) one's [surroundings](/post/surroundings/) [or](/post/or/) [condition](/post/condition/), typically [due](/post/due/) [to](/post/to/) [loss](/post/loss/) [of](/post/of/) awareness [or](/post/or/) medication.
+- **[Unconscious](/post/unconscious/) [mind](/post/mind/)**: [The](/post/the/) [part](/post/part/) [of](/post/of/) [the](/post/the/) psyche [that](/post/that/) contains thoughts, feelings, memories, [and](/post/and/) desires [that](/post/that/) [a](/post/a/) [person](/post/person/) is [not](/post/not/) [aware](/post/aware/) [of](/post/of/) [or](/post/or/) cannot [easily](/post/easily/) [access](/post/access/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [become](/en/post/become/) [unconscious](/en/post/unconscious/): [To](/en/post/to/) [lose](/en/post/lose/) [consciousness](/en/post/consciousness/), [either](/en/post/either/) temporarily [or](/en/post/or/) [permanently](/en/post/permanently/).
-- [To](/en/post/to/) [make](/en/post/make/) [unconscious](/en/post/unconscious/): [To](/en/post/to/) [render](/en/post/render/) [someone](/en/post/someone/) [unconscious](/en/post/unconscious/), [usually](/en/post/usually/) [through](/en/post/through/) [a](/en/post/a/) [medical](/en/post/medical/) [procedure](/en/post/procedure/) [or](/en/post/or/) [substance](/en/post/substance/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [become](/post/become/) [unconscious](/post/unconscious/): [To](/post/to/) [lose](/post/lose/) [consciousness](/post/consciousness/), [either](/post/either/) temporarily [or](/post/or/) [permanently](/post/permanently/).
+- [To](/post/to/) [make](/post/make/) [unconscious](/post/unconscious/): [To](/post/to/) [render](/post/render/) [someone](/post/someone/) [unconscious](/post/unconscious/), [usually](/post/usually/) [through](/post/through/) [a](/post/a/) [medical](/post/medical/) [procedure](/post/procedure/) [or](/post/or/) [substance](/post/substance/).
 
-### [Adjective](/en/post/adjective/)
-- [Unconscious](/en/post/unconscious/): Lacking awareness [or](/en/post/or/) [consciousness](/en/post/consciousness/); [not](/en/post/not/) [aware](/en/post/aware/) [of](/en/post/of/) one's actions [or](/en/post/or/) [surroundings](/en/post/surroundings/).
-- Unconsciously: [Without](/en/post/without/) knowing [it](/en/post/it/) [or](/en/post/or/) [being](/en/post/being/) [aware](/en/post/aware/) [of](/en/post/of/) [it](/en/post/it/).
+### [Adjective](/post/adjective/)
+- [Unconscious](/post/unconscious/): Lacking awareness [or](/post/or/) [consciousness](/post/consciousness/); [not](/post/not/) [aware](/post/aware/) [of](/post/of/) one's actions [or](/post/or/) [surroundings](/post/surroundings/).
+- Unconsciously: [Without](/post/without/) knowing [it](/post/it/) [or](/post/or/) [being](/post/being/) [aware](/post/aware/) [of](/post/of/) [it](/post/it/).
 
 ## Phrases
-- "[In](/en/post/in/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) unconsciousness"
-- "[To](/en/post/to/) awaken [from](/en/post/from/) unconsciousness"
-- "[He](/en/post/he/) [hit](/en/post/hit/) [his](/en/post/his/) [head](/en/post/head/) [and](/en/post/and/) lost [consciousness](/en/post/consciousness/)"
-- "[Her](/en/post/her/) [unconscious](/en/post/unconscious/) actions revealed [her](/en/post/her/) [true](/en/post/true/) feelings"
+- "[In](/post/in/) [a](/post/a/) [state](/post/state/) [of](/post/of/) unconsciousness"
+- "[To](/post/to/) awaken [from](/post/from/) unconsciousness"
+- "[He](/post/he/) [hit](/post/hit/) [his](/post/his/) [head](/post/head/) [and](/post/and/) lost [consciousness](/post/consciousness/)"
+- "[Her](/post/her/) [unconscious](/post/unconscious/) actions revealed [her](/post/her/) [true](/post/true/) feelings"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [patient](/en/post/patient/) [slowly](/en/post/slowly/) regained [consciousness](/en/post/consciousness/) [after](/en/post/after/) [the](/en/post/the/) [surgery](/en/post/surgery/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) administered [a](/en/post/a/) [dose](/en/post/dose/) [to](/en/post/to/) [bring](/en/post/bring/) [him](/en/post/him/) [back](/en/post/back/) [to](/en/post/to/) [consciousness](/en/post/consciousness/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) seemed oblivious [to](/en/post/to/) [her](/en/post/her/) [surroundings](/en/post/surroundings/), lost [in](/en/post/in/) [her](/en/post/her/) [unconscious](/en/post/unconscious/) thoughts."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [patient](/post/patient/) [slowly](/post/slowly/) regained [consciousness](/post/consciousness/) [after](/post/after/) [the](/post/the/) [surgery](/post/surgery/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [doctor](/post/doctor/) administered [a](/post/a/) [dose](/post/dose/) [to](/post/to/) [bring](/post/bring/) [him](/post/him/) [back](/post/back/) [to](/post/to/) [consciousness](/post/consciousness/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) seemed oblivious [to](/post/to/) [her](/post/her/) [surroundings](/post/surroundings/), lost [in](/post/in/) [her](/post/her/) [unconscious](/post/unconscious/) thoughts."
 
 ## Synonyms
 - Unaware
 - Senseless
 - Unawakened
 - Insensible
-- Unconsciousness ([noun](/en/post/noun/) [only](/en/post/only/))
+- Unconsciousness ([noun](/post/noun/) [only](/post/only/))
 - Lost
 - Dazed
 - Stunned

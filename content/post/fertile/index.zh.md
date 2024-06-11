@@ -11,20 +11,20 @@ keywords = ['ai words', 'fertile']
 /fɜːrˈtɪl/
 
 ## 释义
-- **形容词**: 富饶的；肥沃的；多产的。例如: "[The](/post/the/) [fertile](/post/fertile/) [soil](/post/soil/) [in](/post/in/) [this](/post/this/) [region](/post/region/) is [ideal](/post/ideal/) [for](/post/for/) [agriculture](/post/agriculture/)."
-- **动词**: 使富饶；使肥沃。例如: "Fertilizing [the](/post/the/) fields helps [to](/post/to/) [increase](/post/increase/) [crop](/post/crop/) yields."
+- **形容词**: 富饶的；肥沃的；多产的。例如: "[The](/zh/post/the/) [fertile](/zh/post/fertile/) [soil](/zh/post/soil/) [in](/zh/post/in/) [this](/zh/post/this/) [region](/zh/post/region/) is [ideal](/zh/post/ideal/) [for](/zh/post/for/) [agriculture](/zh/post/agriculture/)."
+- **动词**: 使富饶；使肥沃。例如: "Fertilizing [the](/zh/post/the/) fields helps [to](/zh/post/to/) [increase](/zh/post/increase/) [crop](/zh/post/crop/) yields."
 
 ## 短语
-- "[fertile](/post/fertile/) [ground](/post/ground/)" 指有利于生长或发展的环境或条件。
-- "[fertile](/post/fertile/) [mind](/post/mind/)" 指富有创造力或想象力的头脑。
+- "[fertile](/zh/post/fertile/) [ground](/zh/post/ground/)" 指有利于生长或发展的环境或条件。
+- "[fertile](/zh/post/fertile/) [mind](/zh/post/mind/)" 指富有创造力或想象力的头脑。
 
 ## 例句
-- 形容词: "[The](/post/the/) [farm](/post/farm/) has [some](/post/some/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [fertile](/post/fertile/) [land](/post/land/) [in](/post/in/) [the](/post/the/) [county](/post/county/)."
-- 动词: "[The](/post/the/) [farmer](/post/farmer/) fertilized [the](/post/the/) fields [with](/post/with/) compost [to](/post/to/) [improve](/post/improve/) [their](/post/their/) fertility."
+- 形容词: "[The](/zh/post/the/) [farm](/zh/post/farm/) has [some](/zh/post/some/) [of](/zh/post/of/) [the](/zh/post/the/) [most](/zh/post/most/) [fertile](/zh/post/fertile/) [land](/zh/post/land/) [in](/zh/post/in/) [the](/zh/post/the/) [county](/zh/post/county/)."
+- 动词: "[The](/zh/post/the/) [farmer](/zh/post/farmer/) fertilized [the](/zh/post/the/) fields [with](/zh/post/with/) compost [to](/zh/post/to/) [improve](/zh/post/improve/) [their](/zh/post/their/) fertility."
 
 ## 同义词
-- [Productive](/post/productive/)
+- [Productive](/zh/post/productive/)
 - Bountiful
-- [Generous](/post/generous/)
-- [Abundant](/post/abundant/)
+- [Generous](/zh/post/generous/)
+- [Abundant](/zh/post/abundant/)
 - Luxuriant

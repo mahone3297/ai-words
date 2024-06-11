@@ -7,39 +7,39 @@ description = '[ikˈsiːd] vt.超过，胜过；超出'
 keywords = ['ai words', 'exceed']
 +++
 
-# [exceed](/en/post/exceed/)
+# [exceed](/post/exceed/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈsiːd/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [go](/en/post/go/) [beyond](/en/post/beyond/) [a](/en/post/a/) [limit](/en/post/limit/), [boundary](/en/post/boundary/), [or](/en/post/or/) [expectation](/en/post/expectation/); [to](/en/post/to/) [be](/en/post/be/) greater [than](/en/post/than/) ([a](/en/post/a/) specified [amount](/en/post/amount/), [level](/en/post/level/), [or](/en/post/or/) [quality](/en/post/quality/)). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [go](/post/go/) [beyond](/post/beyond/) [a](/post/a/) [limit](/post/limit/), [boundary](/post/boundary/), [or](/post/or/) [expectation](/post/expectation/); [to](/post/to/) [be](/post/be/) greater [than](/post/than/) ([a](/post/a/) specified [amount](/post/amount/), [level](/post/level/), [or](/post/or/) [quality](/post/quality/)). 
 
 ### Examples:
-- *[The](/en/post/the/) [company](/en/post/company/) exceeded [its](/en/post/its/) [quarterly](/en/post/quarterly/) sales targets.*
-- *"[His](/en/post/his/) [performance](/en/post/performance/) exceeded [all](/en/post/all/) expectations."*
+- *[The](/post/the/) [company](/post/company/) exceeded [its](/post/its/) [quarterly](/post/quarterly/) sales targets.*
+- *"[His](/post/his/) [performance](/post/performance/) exceeded [all](/post/all/) expectations."*
 
 ### Phrases
-- **[Exceed](/en/post/exceed/) expectations**: [Perform](/en/post/perform/) [better](/en/post/better/) [or](/en/post/or/) [achieve](/en/post/achieve/) [more](/en/post/more/) [than](/en/post/than/) [what](/en/post/what/) was anticipated [or](/en/post/or/) required.
-  - "*[Her](/en/post/her/) dedication [to](/en/post/to/) [the](/en/post/the/) [project](/en/post/project/) exceeded expectations [and](/en/post/and/) led [to](/en/post/to/) [early](/en/post/early/) completion.*"
+- **[Exceed](/post/exceed/) expectations**: [Perform](/post/perform/) [better](/post/better/) [or](/post/or/) [achieve](/post/achieve/) [more](/post/more/) [than](/post/than/) [what](/post/what/) was anticipated [or](/post/or/) required.
+  - "*[Her](/post/her/) dedication [to](/post/to/) [the](/post/the/) [project](/post/project/) exceeded expectations [and](/post/and/) led [to](/post/to/) [early](/post/early/) completion.*"
 
-- **[Exceed](/en/post/exceed/) [the](/en/post/the/) [limit](/en/post/limit/)**: [Go](/en/post/go/) [beyond](/en/post/beyond/) [a](/en/post/a/) [set](/en/post/set/) [restriction](/en/post/restriction/) [or](/en/post/or/) [maximum](/en/post/maximum/) allowed [amount](/en/post/amount/).
-  - "*Drivers exceeding [the](/en/post/the/) [speed](/en/post/speed/) [limit](/en/post/limit/) [will](/en/post/will/) [be](/en/post/be/) fined.*"
+- **[Exceed](/post/exceed/) [the](/post/the/) [limit](/post/limit/)**: [Go](/post/go/) [beyond](/post/beyond/) [a](/post/a/) [set](/post/set/) [restriction](/post/restriction/) [or](/post/or/) [maximum](/post/maximum/) allowed [amount](/post/amount/).
+  - "*Drivers exceeding [the](/post/the/) [speed](/post/speed/) [limit](/post/limit/) [will](/post/will/) [be](/post/be/) fined.*"
 
-- **[Exceed](/en/post/exceed/) [oneself](/en/post/oneself/)**: [To](/en/post/to/) surpass one's [previous](/en/post/previous/) achievements [or](/en/post/or/) abilities.
-  - "*[In](/en/post/in/) [his](/en/post/his/) latest [novel](/en/post/novel/), [he](/en/post/he/) has [truly](/en/post/truly/) exceeded [himself](/en/post/himself/) [with](/en/post/with/) [a](/en/post/a/) gripping [plot](/en/post/plot/) [twist](/en/post/twist/).*"
+- **[Exceed](/post/exceed/) [oneself](/post/oneself/)**: [To](/post/to/) surpass one's [previous](/post/previous/) achievements [or](/post/or/) abilities.
+  - "*[In](/post/in/) [his](/post/his/) latest [novel](/post/novel/), [he](/post/he/) has [truly](/post/truly/) exceeded [himself](/post/himself/) [with](/post/with/) [a](/post/a/) gripping [plot](/post/plot/) [twist](/post/twist/).*"
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[Their](/en/post/their/) profits exceeded [last](/en/post/last/) year's [by](/en/post/by/) 20%."
-- "[She](/en/post/she/) exceeded [her](/en/post/her/) [own](/en/post/own/) [personal](/en/post/personal/) [best](/en/post/best/) [time](/en/post/time/) [in](/en/post/in/) [the](/en/post/the/) marathon [this](/en/post/this/) [year](/en/post/year/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[Their](/post/their/) profits exceeded [last](/post/last/) year's [by](/post/by/) 20%."
+- "[She](/post/she/) exceeded [her](/post/her/) [own](/post/own/) [personal](/post/personal/) [best](/post/best/) [time](/post/time/) [in](/post/in/) [the](/post/the/) marathon [this](/post/this/) [year](/post/year/)."
   
 ## Synonyms
 - Surpass
 - Outdo
 - Outstrip
-- [Exceedingly](/en/post/exceedingly/)
+- [Exceedingly](/post/exceedingly/)
 - transcend
 - outperform
-- [top](/en/post/top/)
-- [beat](/en/post/beat/)
+- [top](/post/top/)
+- [beat](/post/beat/)
 - excel

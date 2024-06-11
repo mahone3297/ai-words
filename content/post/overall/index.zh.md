@@ -11,21 +11,21 @@ keywords = ['ai words', 'overall']
 /əˈvərɔːl/
 
 ## 释义
-- **形容词**: 总体的，全面的，全部的。例如: "[The](/post/the/) [overall](/post/overall/) [success](/post/success/) [of](/post/of/) [the](/post/the/) [project](/post/project/) was [impressive](/post/impressive/)."
-- **副词**: 总体上，全部地。例如: "[Overall](/post/overall/), [their](/post/their/) [performance](/post/performance/) was [satisfactory](/post/satisfactory/)."
+- **形容词**: 总体的，全面的，全部的。例如: "[The](/zh/post/the/) [overall](/zh/post/overall/) [success](/zh/post/success/) [of](/zh/post/of/) [the](/zh/post/the/) [project](/zh/post/project/) was [impressive](/zh/post/impressive/)."
+- **副词**: 总体上，全部地。例如: "[Overall](/zh/post/overall/), [their](/zh/post/their/) [performance](/zh/post/performance/) was [satisfactory](/zh/post/satisfactory/)."
 
 ## 短语
-- "[Overall](/post/overall/) assessment" 意为全面评估。
-- "[Overall](/post/overall/) [picture](/post/picture/)" 指整体情况或全景。
-- "[Overall](/post/overall/) [winner](/post/winner/)" 指总成绩最优者。
+- "[Overall](/zh/post/overall/) assessment" 意为全面评估。
+- "[Overall](/zh/post/overall/) [picture](/zh/post/picture/)" 指整体情况或全景。
+- "[Overall](/zh/post/overall/) [winner](/zh/post/winner/)" 指总成绩最优者。
 
 ## 例句
-- 形容词: "[The](/post/the/) company's [overall](/post/overall/) profits [have](/post/have/) increased [this](/post/this/) [year](/post/year/)."
-- 副词: "[Overall](/post/overall/), [the](/post/the/) [experience](/post/experience/) was [both](/post/both/) challenging [and](/post/and/) rewarding."
+- 形容词: "[The](/zh/post/the/) company's [overall](/zh/post/overall/) profits [have](/zh/post/have/) increased [this](/zh/post/this/) [year](/zh/post/year/)."
+- 副词: "[Overall](/zh/post/overall/), [the](/zh/post/the/) [experience](/zh/post/experience/) was [both](/zh/post/both/) challenging [and](/zh/post/and/) rewarding."
 
 ## 同义词
-- [In](/post/in/) [general](/post/general/)
-- [As](/post/as/) [a](/post/a/) [whole](/post/whole/)
-- [All](/post/all/) [in](/post/in/) [all](/post/all/)
-- [Generally](/post/generally/) speaking
+- [In](/zh/post/in/) [general](/zh/post/general/)
+- [As](/zh/post/as/) [a](/zh/post/a/) [whole](/zh/post/whole/)
+- [All](/zh/post/all/) [in](/zh/post/in/) [all](/zh/post/all/)
+- [Generally](/zh/post/generally/) speaking
 - En masse

@@ -7,36 +7,36 @@ description = '[ʌpˈset] vt.弄翻，打翻，倾覆'
 keywords = ['ai words', 'upset']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ʌpˈset/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Upset](/en/post/upset/)**: ([noun](/en/post/noun/)) 1. [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [anger](/en/post/anger/), disappointment, [or](/en/post/or/) disturbance caused [by](/en/post/by/) [something](/en/post/something/) [that](/en/post/that/) upsets [someone](/en/post/someone/). 2. An [upset](/en/post/upset/) [in](/en/post/in/) sports, [where](/en/post/where/) an [unexpected](/en/post/unexpected/) [team](/en/post/team/) wins. 3. [A](/en/post/a/) disruption [or](/en/post/or/) [change](/en/post/change/) [in](/en/post/in/) one's [routine](/en/post/routine/) [or](/en/post/or/) plans. [Example](/en/post/example/): "[She](/en/post/she/) was deeply [upset](/en/post/upset/) [by](/en/post/by/) [the](/en/post/the/) [news](/en/post/news/) [of](/en/post/of/) [her](/en/post/her/) friend's [illness](/en/post/illness/)."
+### [Noun](/post/noun/)
+- **[Upset](/post/upset/)**: ([noun](/post/noun/)) 1. [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [anger](/post/anger/), disappointment, [or](/post/or/) disturbance caused [by](/post/by/) [something](/post/something/) [that](/post/that/) upsets [someone](/post/someone/). 2. An [upset](/post/upset/) [in](/post/in/) sports, [where](/post/where/) an [unexpected](/post/unexpected/) [team](/post/team/) wins. 3. [A](/post/a/) disruption [or](/post/or/) [change](/post/change/) [in](/post/in/) one's [routine](/post/routine/) [or](/post/or/) plans. [Example](/post/example/): "[She](/post/she/) was deeply [upset](/post/upset/) [by](/post/by/) [the](/post/the/) [news](/post/news/) [of](/post/of/) [her](/post/her/) friend's [illness](/post/illness/)."
 
-### [Verb](/en/post/verb/)
-- **[Upset](/en/post/upset/)**: ([verb](/en/post/verb/)) 1. [To](/en/post/to/) [disturb](/en/post/disturb/) [or](/en/post/or/) discompose someone's emotions, thoughts, [or](/en/post/or/) [balance](/en/post/balance/). 2. [To](/en/post/to/) [cause](/en/post/cause/) [a](/en/post/a/) [defeat](/en/post/defeat/) [or](/en/post/or/) [loss](/en/post/loss/) [for](/en/post/for/) [a](/en/post/a/) favored competitor [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/). 3. [To](/en/post/to/) overturn [or](/en/post/or/) disarrange [something](/en/post/something/), [often](/en/post/often/) accidentally. [Example](/en/post/example/): "[The](/en/post/the/) [bad](/en/post/bad/) [weather](/en/post/weather/) [upset](/en/post/upset/) [their](/en/post/their/) carefully planned [picnic](/en/post/picnic/)."
+### [Verb](/post/verb/)
+- **[Upset](/post/upset/)**: ([verb](/post/verb/)) 1. [To](/post/to/) [disturb](/post/disturb/) [or](/post/or/) discompose someone's emotions, thoughts, [or](/post/or/) [balance](/post/balance/). 2. [To](/post/to/) [cause](/post/cause/) [a](/post/a/) [defeat](/post/defeat/) [or](/post/or/) [loss](/post/loss/) [for](/post/for/) [a](/post/a/) favored competitor [in](/post/in/) [a](/post/a/) [competition](/post/competition/). 3. [To](/post/to/) overturn [or](/post/or/) disarrange [something](/post/something/), [often](/post/often/) accidentally. [Example](/post/example/): "[The](/post/the/) [bad](/post/bad/) [weather](/post/weather/) [upset](/post/upset/) [their](/post/their/) carefully planned [picnic](/post/picnic/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Upset](/en/post/upset/)**: ([adjective](/en/post/adjective/)) Tending [to](/en/post/to/) [cause](/en/post/cause/) [distress](/en/post/distress/) [or](/en/post/or/) [emotional](/en/post/emotional/) disturbance. [Example](/en/post/example/): "[The](/en/post/the/) [upset](/en/post/upset/) [child](/en/post/child/) cried [after](/en/post/after/) losing [their](/en/post/their/) favorite [toy](/en/post/toy/)."
+### [Adjective](/post/adjective/)
+- **[Upset](/post/upset/)**: ([adjective](/post/adjective/)) Tending [to](/post/to/) [cause](/post/cause/) [distress](/post/distress/) [or](/post/or/) [emotional](/post/emotional/) disturbance. [Example](/post/example/): "[The](/post/the/) [upset](/post/upset/) [child](/post/child/) cried [after](/post/after/) losing [their](/post/their/) favorite [toy](/post/toy/)."
 
-### [Adverb](/en/post/adverb/)
-- **[Upset](/en/post/upset/)**: ([adverb](/en/post/adverb/)) [In](/en/post/in/) an [upset](/en/post/upset/) [manner](/en/post/manner/); unexpectedly [or](/en/post/or/) unexpectedly causing [upset](/en/post/upset/). [Example](/en/post/example/): "[He](/en/post/he/) won [the](/en/post/the/) [race](/en/post/race/) [in](/en/post/in/) an [upset](/en/post/upset/) [victory](/en/post/victory/)."
+### [Adverb](/post/adverb/)
+- **[Upset](/post/upset/)**: ([adverb](/post/adverb/)) [In](/post/in/) an [upset](/post/upset/) [manner](/post/manner/); unexpectedly [or](/post/or/) unexpectedly causing [upset](/post/upset/). [Example](/post/example/): "[He](/post/he/) won [the](/post/the/) [race](/post/race/) [in](/post/in/) an [upset](/post/upset/) [victory](/post/victory/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [upset](/en/post/upset/) [about](/en/post/about/) [something](/en/post/something/)" expresses dissatisfaction [or](/en/post/or/) [concern](/en/post/concern/).
-- "[To](/en/post/to/) [upset](/en/post/upset/) someone's expectations" [means](/en/post/means/) [to](/en/post/to/) [exceed](/en/post/exceed/) [or](/en/post/or/) [fall](/en/post/fall/) [short](/en/post/short/) [of](/en/post/of/) [their](/en/post/their/) anticipation.
-- "[Stay](/en/post/stay/) [calm](/en/post/calm/), don't [let](/en/post/let/) [the](/en/post/the/) [little](/en/post/little/) things [upset](/en/post/upset/) [you](/en/post/you/)" advises resilience.
+- "[Be](/post/be/) [upset](/post/upset/) [about](/post/about/) [something](/post/something/)" expresses dissatisfaction [or](/post/or/) [concern](/post/concern/).
+- "[To](/post/to/) [upset](/post/upset/) someone's expectations" [means](/post/means/) [to](/post/to/) [exceed](/post/exceed/) [or](/post/or/) [fall](/post/fall/) [short](/post/short/) [of](/post/of/) [their](/post/their/) anticipation.
+- "[Stay](/post/stay/) [calm](/post/calm/), don't [let](/post/let/) [the](/post/the/) [little](/post/little/) things [upset](/post/upset/) [you](/post/you/)" advises resilience.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was [so](/en/post/so/) [upset](/en/post/upset/) [after](/en/post/after/) hearing [her](/en/post/her/) grades [that](/en/post/that/) [she](/en/post/she/) couldn't [stop](/en/post/stop/) crying."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) underdog [team](/en/post/team/) [upset](/en/post/upset/) [the](/en/post/the/) champions [in](/en/post/in/) [the](/en/post/the/) [final](/en/post/final/) [match](/en/post/match/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [news](/en/post/news/) [of](/en/post/of/) [the](/en/post/the/) cancellation [left](/en/post/left/) [her](/en/post/her/) [feeling](/en/post/feeling/) [quite](/en/post/quite/) [upset](/en/post/upset/)."
-- **[Adverb](/en/post/adverb/)**: "[His](/en/post/his/) [sudden](/en/post/sudden/) [departure](/en/post/departure/) [upset](/en/post/upset/) [the](/en/post/the/) [entire](/en/post/entire/) [routine](/en/post/routine/) [of](/en/post/of/) [the](/en/post/the/) [office](/en/post/office/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was [so](/post/so/) [upset](/post/upset/) [after](/post/after/) hearing [her](/post/her/) grades [that](/post/that/) [she](/post/she/) couldn't [stop](/post/stop/) crying."
+- **[Verb](/post/verb/)**: "[The](/post/the/) underdog [team](/post/team/) [upset](/post/upset/) [the](/post/the/) champions [in](/post/in/) [the](/post/the/) [final](/post/final/) [match](/post/match/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [news](/post/news/) [of](/post/of/) [the](/post/the/) cancellation [left](/post/left/) [her](/post/her/) [feeling](/post/feeling/) [quite](/post/quite/) [upset](/post/upset/)."
+- **[Adverb](/post/adverb/)**: "[His](/post/his/) [sudden](/post/sudden/) [departure](/post/departure/) [upset](/post/upset/) [the](/post/the/) [entire](/post/entire/) [routine](/post/routine/) [of](/post/of/) [the](/post/the/) [office](/post/office/)."
 
 ## Synonyms
 - Disappointed
 - Frustrated
 - Agitated
 -扰乱
-- [Upset](/en/post/upset/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)) [can](/en/post/can/) [also](/en/post/also/) [have](/en/post/have/) synonyms [like](/en/post/like/) unseat, unsettle, [or](/en/post/or/) dislodge, [but](/en/post/but/) [these](/en/post/these/) are [less](/en/post/less/) [common](/en/post/common/) [in](/en/post/in/) referring [to](/en/post/to/) [the](/en/post/the/) [emotional](/en/post/emotional/) [state](/en/post/state/).
+- [Upset](/post/upset/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/)) [can](/post/can/) [also](/post/also/) [have](/post/have/) synonyms [like](/post/like/) unseat, unsettle, [or](/post/or/) dislodge, [but](/post/but/) [these](/post/these/) are [less](/post/less/) [common](/post/common/) [in](/post/in/) referring [to](/post/to/) [the](/post/the/) [emotional](/post/emotional/) [state](/post/state/).

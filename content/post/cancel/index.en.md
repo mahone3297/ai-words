@@ -7,40 +7,40 @@ description = '[ˈkænsəl] vt.取消，撤消；删去'
 keywords = ['ai words', 'cancel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈsel/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) **invalidate** [or](/en/post/or/) **nullify** [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) booking, reservation, [or](/en/post/or/) [plan](/en/post/plan/). (n.): An [act](/en/post/act/) [of](/en/post/of/) canceling.
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) canceling, [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) canceled. (adj.): Cancelled [or](/en/post/or/) non-existent.
+- **[Verb](/post/verb/)**: [To](/post/to/) **invalidate** [or](/post/or/) **nullify** [something](/post/something/), [such](/post/such/) [as](/post/as/) [a](/post/a/) booking, reservation, [or](/post/or/) [plan](/post/plan/). (n.): An [act](/post/act/) [of](/post/of/) canceling.
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) canceling, [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) canceled. (adj.): Cancelled [or](/post/or/) non-existent.
 
 ## Phrases
-- "[Cancel](/en/post/cancel/) an [appointment](/en/post/appointment/)" [means](/en/post/means/) [to](/en/post/to/) officially [remove](/en/post/remove/) [a](/en/post/a/) scheduled [meeting](/en/post/meeting/) [or](/en/post/or/) [event](/en/post/event/).
-- "[Cancel](/en/post/cancel/) [out](/en/post/out/)" refers [to](/en/post/to/) neutralizing [or](/en/post/or/) offsetting [something](/en/post/something/).
-- "Cancelled [flight](/en/post/flight/)" is [a](/en/post/a/) [common](/en/post/common/) [phrase](/en/post/phrase/) [for](/en/post/for/) [a](/en/post/a/) [flight](/en/post/flight/) [that](/en/post/that/) has been called [off](/en/post/off/).
+- "[Cancel](/post/cancel/) an [appointment](/post/appointment/)" [means](/post/means/) [to](/post/to/) officially [remove](/post/remove/) [a](/post/a/) scheduled [meeting](/post/meeting/) [or](/post/or/) [event](/post/event/).
+- "[Cancel](/post/cancel/) [out](/post/out/)" refers [to](/post/to/) neutralizing [or](/post/or/) offsetting [something](/post/something/).
+- "Cancelled [flight](/post/flight/)" is [a](/post/a/) [common](/post/common/) [phrase](/post/phrase/) [for](/post/for/) [a](/post/a/) [flight](/post/flight/) [that](/post/that/) has been called [off](/post/off/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I had [to](/en/post/to/) [cancel](/en/post/cancel/) [my](/en/post/my/) [dinner](/en/post/dinner/) reservation [due](/en/post/due/) [to](/en/post/to/) an [unexpected](/en/post/unexpected/) [work](/en/post/work/) commitment."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [concert](/en/post/concert/) was cancelled [because](/en/post/because/) [of](/en/post/of/) [heavy](/en/post/heavy/) [rain](/en/post/rain/)."
-- **[Adjective](/en/post/adjective/)**: "[Many](/en/post/many/) [people](/en/post/people/) were disappointed [with](/en/post/with/) [the](/en/post/the/) cancelled [film](/en/post/film/) [festival](/en/post/festival/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I had [to](/post/to/) [cancel](/post/cancel/) [my](/post/my/) [dinner](/post/dinner/) reservation [due](/post/due/) [to](/post/to/) an [unexpected](/post/unexpected/) [work](/post/work/) commitment."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [concert](/post/concert/) was cancelled [because](/post/because/) [of](/post/of/) [heavy](/post/heavy/) [rain](/post/rain/)."
+- **[Adjective](/post/adjective/)**: "[Many](/post/many/) [people](/post/people/) were disappointed [with](/post/with/) [the](/post/the/) cancelled [film](/post/film/) [festival](/post/festival/)."
 
 ## Synonyms
 - Revoke
 - Rescind
 - Abolish
-- [Postpone](/en/post/postpone/)
+- [Postpone](/post/postpone/)
 - Invalidate
 - Annul
 - Erase
 
 ## Antonyms
-- [Confirm](/en/post/confirm/)
-- [Book](/en/post/book/)
-- [Schedule](/en/post/schedule/)
-- [Renew](/en/post/renew/)
-- [Keep](/en/post/keep/)
+- [Confirm](/post/confirm/)
+- [Book](/post/book/)
+- [Schedule](/post/schedule/)
+- [Renew](/post/renew/)
+- [Keep](/post/keep/)
 
-## [Usage](/en/post/usage/) Notes
-- [The](/en/post/the/) [verb](/en/post/verb/) "[cancel](/en/post/cancel/)" [can](/en/post/can/) [be](/en/post/be/) followed [by](/en/post/by/) an infinitive (e.g., "[cancel](/en/post/cancel/) [to](/en/post/to/) [go](/en/post/go/)") [or](/en/post/or/) [a](/en/post/a/) [noun](/en/post/noun/) (e.g., "[cancel](/en/post/cancel/) [the](/en/post/the/) [meeting](/en/post/meeting/)").
-- [In](/en/post/in/) informal contexts, "[cancel](/en/post/cancel/)" [may](/en/post/may/) [be](/en/post/be/) abbreviated [as](/en/post/as/) "[can](/en/post/can/)" [or](/en/post/or/) "cancelling" (British English).
-- [The](/en/post/the/) [past](/en/post/past/) [tense](/en/post/tense/) is "cancelled" [or](/en/post/or/) "canceled" ([American](/en/post/american/) English), [with](/en/post/with/) [the](/en/post/the/) -l [spelling](/en/post/spelling/) [being](/en/post/being/) [more](/en/post/more/) [common](/en/post/common/) [outside](/en/post/outside/) [of](/en/post/of/) [the](/en/post/the/) [US](/en/post/us/).
+## [Usage](/post/usage/) Notes
+- [The](/post/the/) [verb](/post/verb/) "[cancel](/post/cancel/)" [can](/post/can/) [be](/post/be/) followed [by](/post/by/) an infinitive (e.g., "[cancel](/post/cancel/) [to](/post/to/) [go](/post/go/)") [or](/post/or/) [a](/post/a/) [noun](/post/noun/) (e.g., "[cancel](/post/cancel/) [the](/post/the/) [meeting](/post/meeting/)").
+- [In](/post/in/) informal contexts, "[cancel](/post/cancel/)" [may](/post/may/) [be](/post/be/) abbreviated [as](/post/as/) "[can](/post/can/)" [or](/post/or/) "cancelling" (British English).
+- [The](/post/the/) [past](/post/past/) [tense](/post/tense/) is "cancelled" [or](/post/or/) "canceled" ([American](/post/american/) English), [with](/post/with/) [the](/post/the/) -l [spelling](/post/spelling/) [being](/post/being/) [more](/post/more/) [common](/post/common/) [outside](/post/outside/) [of](/post/of/) [the](/post/the/) [US](/post/us/).

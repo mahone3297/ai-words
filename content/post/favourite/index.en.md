@@ -7,26 +7,26 @@ description = '[ˈfeivərit] a.特别受喜爱的'
 keywords = ['ai words', 'favourite']
 +++
 
-## [Word](/en/post/word/): [Favourite](/en/post/favourite/)
+## [Word](/post/word/): [Favourite](/post/favourite/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfeɪvərɪt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Preferred [above](/en/post/above/) [all](/en/post/all/) others; [most](/en/post/most/) liked [or](/en/post/or/) enjoyed. [Example](/en/post/example/): "[Chocolate](/en/post/chocolate/) is [my](/en/post/my/) [favourite](/en/post/favourite/) [flavour](/en/post/flavour/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) regarded [with](/en/post/with/) especial [preference](/en/post/preference/) [or](/en/post/or/) liking. [Example](/en/post/example/): "She's [my](/en/post/my/) [favourite](/en/post/favourite/) [aunt](/en/post/aunt/)."
-- **[Noun](/en/post/noun/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)**: [The](/en/post/the/) competitor considered [most](/en/post/most/) [likely](/en/post/likely/) [to](/en/post/to/) [win](/en/post/win/) [a](/en/post/a/) [contest](/en/post/contest/) [or](/en/post/or/) [race](/en/post/race/). [Example](/en/post/example/): "[The](/en/post/the/) [horse](/en/post/horse/) was [the](/en/post/the/) crowd's [favourite](/en/post/favourite/) [to](/en/post/to/) [win](/en/post/win/) [the](/en/post/the/) derby."
+- **[Adjective](/post/adjective/)**: Preferred [above](/post/above/) [all](/post/all/) others; [most](/post/most/) liked [or](/post/or/) enjoyed. [Example](/post/example/): "[Chocolate](/post/chocolate/) is [my](/post/my/) [favourite](/post/favourite/) [flavour](/post/flavour/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) regarded [with](/post/with/) especial [preference](/post/preference/) [or](/post/or/) liking. [Example](/post/example/): "She's [my](/post/my/) [favourite](/post/favourite/) [aunt](/post/aunt/)."
+- **[Noun](/post/noun/) ([in](/post/in/) [certain](/post/certain/) contexts)**: [The](/post/the/) competitor considered [most](/post/most/) [likely](/post/likely/) [to](/post/to/) [win](/post/win/) [a](/post/a/) [contest](/post/contest/) [or](/post/or/) [race](/post/race/). [Example](/post/example/): "[The](/post/the/) [horse](/post/horse/) was [the](/post/the/) crowd's [favourite](/post/favourite/) [to](/post/to/) [win](/post/win/) [the](/post/the/) derby."
 
 ## Phrases
-- "[Favourite](/en/post/favourite/) [son](/en/post/son/)/[daughter](/en/post/daughter/)": [A](/en/post/a/) [term](/en/post/term/) [for](/en/post/for/) [someone](/en/post/someone/) [who](/en/post/who/) receives [special](/en/post/special/) [treatment](/en/post/treatment/) [or](/en/post/or/) favor [from](/en/post/from/) [a](/en/post/a/) [parent](/en/post/parent/) [or](/en/post/or/) [authority](/en/post/authority/) [figure](/en/post/figure/).
-- "[Be](/en/post/be/) [in](/en/post/in/) someone's [good](/en/post/good/)/[favourite](/en/post/favourite/) books": [To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) someone's [favour](/en/post/favour/) [or](/en/post/or/) [approval](/en/post/approval/).
-- "[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [soft](/en/post/soft/) [spot](/en/post/spot/) [for](/en/post/for/) [something](/en/post/something/)/[someone](/en/post/someone/)": [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [affection](/en/post/affection/) [or](/en/post/or/) [preference](/en/post/preference/) [for](/en/post/for/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [that](/en/post/that/) [might](/en/post/might/) [not](/en/post/not/) [be](/en/post/be/) [generally](/en/post/generally/) [popular](/en/post/popular/) [or](/en/post/or/) expected.
+- "[Favourite](/post/favourite/) [son](/post/son/)/[daughter](/post/daughter/)": [A](/post/a/) [term](/post/term/) [for](/post/for/) [someone](/post/someone/) [who](/post/who/) receives [special](/post/special/) [treatment](/post/treatment/) [or](/post/or/) favor [from](/post/from/) [a](/post/a/) [parent](/post/parent/) [or](/post/or/) [authority](/post/authority/) [figure](/post/figure/).
+- "[Be](/post/be/) [in](/post/in/) someone's [good](/post/good/)/[favourite](/post/favourite/) books": [To](/post/to/) [be](/post/be/) [in](/post/in/) someone's [favour](/post/favour/) [or](/post/or/) [approval](/post/approval/).
+- "[To](/post/to/) [have](/post/have/) [a](/post/a/) [soft](/post/soft/) [spot](/post/spot/) [for](/post/for/) [something](/post/something/)/[someone](/post/someone/)": [To](/post/to/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) [affection](/post/affection/) [or](/post/or/) [preference](/post/preference/) [for](/post/for/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [that](/post/that/) [might](/post/might/) [not](/post/not/) [be](/post/be/) [generally](/post/generally/) [popular](/post/popular/) [or](/post/or/) expected.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Red](/en/post/red/) is [her](/en/post/her/) [favourite](/en/post/favourite/) colour, [so](/en/post/so/) [she](/en/post/she/) chose [it](/en/post/it/) [for](/en/post/for/) [her](/en/post/her/) [new](/en/post/new/) [car](/en/post/car/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [favourite](/en/post/favourite/) [pastime](/en/post/pastime/) is [reading](/en/post/reading/) [by](/en/post/by/) [the](/en/post/the/) fireplace [on](/en/post/on/) [rainy](/en/post/rainy/) days."
-- **[Noun](/en/post/noun/) (contestant)**: "[Despite](/en/post/despite/) [being](/en/post/being/) [the](/en/post/the/) underdog, [he](/en/post/he/) became [the](/en/post/the/) fans' [favourite](/en/post/favourite/) [after](/en/post/after/) [his](/en/post/his/) stunning [performance](/en/post/performance/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Red](/post/red/) is [her](/post/her/) [favourite](/post/favourite/) colour, [so](/post/so/) [she](/post/she/) chose [it](/post/it/) [for](/post/for/) [her](/post/her/) [new](/post/new/) [car](/post/car/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [favourite](/post/favourite/) [pastime](/post/pastime/) is [reading](/post/reading/) [by](/post/by/) [the](/post/the/) fireplace [on](/post/on/) [rainy](/post/rainy/) days."
+- **[Noun](/post/noun/) (contestant)**: "[Despite](/post/despite/) [being](/post/being/) [the](/post/the/) underdog, [he](/post/he/) became [the](/post/the/) fans' [favourite](/post/favourite/) [after](/post/after/) [his](/post/his/) stunning [performance](/post/performance/)."
 
 ## Synonyms
-- [Adjective](/en/post/adjective/): Preferred, loved, cherished, favored, dearest, best-loved.
-- [Noun](/en/post/noun/): [Choice](/en/post/choice/), [top](/en/post/top/) [pick](/en/post/pick/), [pet](/en/post/pet/), [darling](/en/post/darling/), [selection](/en/post/selection/).
+- [Adjective](/post/adjective/): Preferred, loved, cherished, favored, dearest, best-loved.
+- [Noun](/post/noun/): [Choice](/post/choice/), [top](/post/top/) [pick](/post/pick/), [pet](/post/pet/), [darling](/post/darling/), [selection](/post/selection/).

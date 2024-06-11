@@ -11,22 +11,22 @@ keywords = ['ai words', 'accord']
 /əˈkɔːrd/
 
 ## 释义
-- **名词**: 符合，一致；协议；和谐。例如: "[There](/post/there/) is [a](/post/a/) [general](/post/general/) [accord](/post/accord/) [on](/post/on/) [this](/post/this/) [issue](/post/issue/) [among](/post/among/) [the](/post/the/) members."
-- **动词**: 使一致，符合；给予（某人）应得之物。例如: "[The](/post/the/) terms [of](/post/of/) [the](/post/the/) [contract](/post/contract/) [accord](/post/accord/) [with](/post/with/) [our](/post/our/) expectations."
-- **介词**: 与…相符合，与…一致。例如: "[Her](/post/her/) actions [accord](/post/accord/) [with](/post/with/) [her](/post/her/) words."
+- **名词**: 符合，一致；协议；和谐。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [general](/zh/post/general/) [accord](/zh/post/accord/) [on](/zh/post/on/) [this](/zh/post/this/) [issue](/zh/post/issue/) [among](/zh/post/among/) [the](/zh/post/the/) members."
+- **动词**: 使一致，符合；给予（某人）应得之物。例如: "[The](/zh/post/the/) terms [of](/zh/post/of/) [the](/zh/post/the/) [contract](/zh/post/contract/) [accord](/zh/post/accord/) [with](/zh/post/with/) [our](/zh/post/our/) expectations."
+- **介词**: 与…相符合，与…一致。例如: "[Her](/zh/post/her/) actions [accord](/zh/post/accord/) [with](/zh/post/with/) [her](/zh/post/her/) words."
 
 ## 短语
-- "[In](/post/in/) [accord](/post/accord/) [with](/post/with/)" 意思是按照，与…一致。例如: "[The](/post/the/) [decision](/post/decision/) was made [in](/post/in/) [accord](/post/accord/) [with](/post/with/) [the](/post/the/) [law](/post/law/)."
-- "[Be](/post/be/) [in](/post/in/) [accord](/post/accord/)" 指的是意见或情感的一致。例如: "[They](/post/they/) were [in](/post/in/) [accord](/post/accord/) [about](/post/about/) [the](/post/the/) [need](/post/need/) [for](/post/for/) [change](/post/change/)."
+- "[In](/zh/post/in/) [accord](/zh/post/accord/) [with](/zh/post/with/)" 意思是按照，与…一致。例如: "[The](/zh/post/the/) [decision](/zh/post/decision/) was made [in](/zh/post/in/) [accord](/zh/post/accord/) [with](/zh/post/with/) [the](/zh/post/the/) [law](/zh/post/law/)."
+- "[Be](/zh/post/be/) [in](/zh/post/in/) [accord](/zh/post/accord/)" 指的是意见或情感的一致。例如: "[They](/zh/post/they/) were [in](/zh/post/in/) [accord](/zh/post/accord/) [about](/zh/post/about/) [the](/zh/post/the/) [need](/zh/post/need/) [for](/zh/post/for/) [change](/zh/post/change/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [two](/post/two/) parties [finally](/post/finally/) reached an [accord](/post/accord/) [on](/post/on/) [the](/post/the/) disputed [territory](/post/territory/)."
-- 动词: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) accords employees [more](/post/more/) [flexible](/post/flexible/) working hours."
-- 介词: "[His](/post/his/) views are [not](/post/not/) [in](/post/in/) [accord](/post/accord/) [with](/post/with/) [the](/post/the/) company's values."
+- 名词: "[The](/zh/post/the/) [two](/zh/post/two/) parties [finally](/zh/post/finally/) reached an [accord](/zh/post/accord/) [on](/zh/post/on/) [the](/zh/post/the/) disputed [territory](/zh/post/territory/)."
+- 动词: "[The](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/) accords employees [more](/zh/post/more/) [flexible](/zh/post/flexible/) working hours."
+- 介词: "[His](/zh/post/his/) views are [not](/zh/post/not/) [in](/zh/post/in/) [accord](/zh/post/accord/) [with](/zh/post/with/) [the](/zh/post/the/) company's values."
 
 ## 同义词
-- [Agreement](/post/agreement/)
-- [Consent](/post/consent/)
-- [Harmony](/post/harmony/)
+- [Agreement](/zh/post/agreement/)
+- [Consent](/zh/post/consent/)
+- [Harmony](/zh/post/harmony/)
 - Conformity
 - Compliance

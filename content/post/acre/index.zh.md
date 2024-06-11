@@ -15,12 +15,12 @@ keywords = ['ai words', 'acre']
 英亩，一个面积单位，主要用于衡量土地。1 英亩大约等于 4046.86 平方米。
 
 ## 短语
-- "an [acre](/post/acre/) [of](/post/of/) [land](/post/land/)" 指一块一英亩的土地。
+- "an [acre](/zh/post/acre/) [of](/zh/post/of/) [land](/zh/post/land/)" 指一块一英亩的土地。
 
 ## 例句
-- "[Our](/post/our/) [new](/post/new/) [house](/post/house/) sits [on](/post/on/) [half](/post/half/) an [acre](/post/acre/) [of](/post/of/) [land](/post/land/)."
-- "[The](/post/the/) [farmer](/post/farmer/) cultivates [several](/post/several/) acres [of](/post/of/) [corn](/post/corn/) [every](/post/every/) [year](/post/year/)."
+- "[Our](/zh/post/our/) [new](/zh/post/new/) [house](/zh/post/house/) sits [on](/zh/post/on/) [half](/zh/post/half/) an [acre](/zh/post/acre/) [of](/zh/post/of/) [land](/zh/post/land/)."
+- "[The](/zh/post/the/) [farmer](/zh/post/farmer/) cultivates [several](/zh/post/several/) acres [of](/zh/post/of/) [corn](/zh/post/corn/) [every](/zh/post/every/) [year](/zh/post/year/)."
 
 ## 同义词
 - hectare (公顷，国际单位制中的面积单位)
-- [square](/post/square/) [mile](/post/mile/) (平方英里，另一个较大的面积单位)
+- [square](/zh/post/square/) [mile](/zh/post/mile/) (平方英里，另一个较大的面积单位)

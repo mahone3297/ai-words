@@ -12,28 +12,28 @@ keywords = ['ai words', 'fall']
 
 ## 释义
 - **动词**:
-  - 跌倒，落下：[He](/post/he/) fell [off](/post/off/) [his](/post/his/) [bike](/post/bike/).
-  - 下降，减少：[The](/post/the/) [temperature](/post/temperature/) is falling [rapidly](/post/rapidly/).
-  - 发生，来临（常用于秋天）：[Autumn](/post/autumn/) falls [in](/post/in/) September [in](/post/in/) [this](/post/this/) [region](/post/region/).
-  - 转变，变得：[She](/post/she/) fell [in](/post/in/) [love](/post/love/) [with](/post/with/) [him](/post/him/) [at](/post/at/) [first](/post/first/) [sight](/post/sight/).
+  - 跌倒，落下：[He](/zh/post/he/) fell [off](/zh/post/off/) [his](/zh/post/his/) [bike](/zh/post/bike/).
+  - 下降，减少：[The](/zh/post/the/) [temperature](/zh/post/temperature/) is falling [rapidly](/zh/post/rapidly/).
+  - 发生，来临（常用于秋天）：[Autumn](/zh/post/autumn/) falls [in](/zh/post/in/) September [in](/zh/post/in/) [this](/zh/post/this/) [region](/zh/post/region/).
+  - 转变，变得：[She](/zh/post/she/) fell [in](/zh/post/in/) [love](/zh/post/love/) [with](/zh/post/with/) [him](/zh/post/him/) [at](/zh/post/at/) [first](/zh/post/first/) [sight](/zh/post/sight/).
 
 - **名词**:
-  - 落下，坠落的动作：[The](/post/the/) [apple](/post/apple/) fell [from](/post/from/) [the](/post/the/) [tree](/post/tree/).
-  - 季节，秋天：It's [the](/post/the/) [season](/post/season/) [of](/post/of/) mists [and](/post/and/) mellow fruitfulness [in](/post/in/) [the](/post/the/) [fall](/post/fall/).
-  - 倒塌，崩溃：[The](/post/the/) [old](/post/old/) [building](/post/building/) [finally](/post/finally/) fell [after](/post/after/) years [of](/post/of/) [neglect](/post/neglect/).
+  - 落下，坠落的动作：[The](/zh/post/the/) [apple](/zh/post/apple/) fell [from](/zh/post/from/) [the](/zh/post/the/) [tree](/zh/post/tree/).
+  - 季节，秋天：It's [the](/zh/post/the/) [season](/zh/post/season/) [of](/zh/post/of/) mists [and](/zh/post/and/) mellow fruitfulness [in](/zh/post/in/) [the](/zh/post/the/) [fall](/zh/post/fall/).
+  - 倒塌，崩溃：[The](/zh/post/the/) [old](/zh/post/old/) [building](/zh/post/building/) [finally](/zh/post/finally/) fell [after](/zh/post/after/) years [of](/zh/post/of/) [neglect](/zh/post/neglect/).
 
 ## 短语
-- "[fall](/post/fall/) [asleep](/post/asleep/)" 睡着：I [usually](/post/usually/) [fall](/post/fall/) [asleep](/post/asleep/) [while](/post/while/) [reading](/post/reading/).
-- "[fall](/post/fall/) [behind](/post/behind/)" 落后，跟不上：[If](/post/if/) [you](/post/you/) [miss](/post/miss/) [too](/post/too/) [many](/post/many/) classes, you'll [fall](/post/fall/) [behind](/post/behind/).
-- "[fall](/post/fall/) [out](/post/out/)" 发生争执，不和：[They](/post/they/) had [a](/post/a/) [big](/post/big/) [argument](/post/argument/) [and](/post/and/) fell [out](/post/out/) [with](/post/with/) [each](/post/each/) [other](/post/other/).
+- "[fall](/zh/post/fall/) [asleep](/zh/post/asleep/)" 睡着：I [usually](/zh/post/usually/) [fall](/zh/post/fall/) [asleep](/zh/post/asleep/) [while](/zh/post/while/) [reading](/zh/post/reading/).
+- "[fall](/zh/post/fall/) [behind](/zh/post/behind/)" 落后，跟不上：[If](/zh/post/if/) [you](/zh/post/you/) [miss](/zh/post/miss/) [too](/zh/post/too/) [many](/zh/post/many/) classes, you'll [fall](/zh/post/fall/) [behind](/zh/post/behind/).
+- "[fall](/zh/post/fall/) [out](/zh/post/out/)" 发生争执，不和：[They](/zh/post/they/) had [a](/zh/post/a/) [big](/zh/post/big/) [argument](/zh/post/argument/) [and](/zh/post/and/) fell [out](/zh/post/out/) [with](/zh/post/with/) [each](/zh/post/each/) [other](/zh/post/other/).
 
 ## 例句
-- 动词：[The](/post/the/) [baby](/post/baby/) fell [off](/post/off/) [the](/post/the/) [bed](/post/bed/) [and](/post/and/) started crying.
-- 名词：[The](/post/the/) [fall](/post/fall/) colors [in](/post/in/) [New](/post/new/) England are breathtaking.
-- 连词：[When](/post/when/) [it](/post/it/) starts [to](/post/to/) [rain](/post/rain/), I [always](/post/always/) [remember](/post/remember/) [the](/post/the/) [fall](/post/fall/) [of](/post/of/) 2001.
+- 动词：[The](/zh/post/the/) [baby](/zh/post/baby/) fell [off](/zh/post/off/) [the](/zh/post/the/) [bed](/zh/post/bed/) [and](/zh/post/and/) started crying.
+- 名词：[The](/zh/post/the/) [fall](/zh/post/fall/) colors [in](/zh/post/in/) [New](/zh/post/new/) England are breathtaking.
+- 连词：[When](/zh/post/when/) [it](/zh/post/it/) starts [to](/zh/post/to/) [rain](/zh/post/rain/), I [always](/zh/post/always/) [remember](/zh/post/remember/) [the](/zh/post/the/) [fall](/zh/post/fall/) [of](/zh/post/of/) 2001.
 
 ## 同义词
-- [Drop](/post/drop/) (动词)
-- [Descend](/post/descend/) (动词)
-- [Autumn](/post/autumn/) (名词，特指季节)
-- [Slip](/post/slip/) (动词，指意外滑倒)
+- [Drop](/zh/post/drop/) (动词)
+- [Descend](/zh/post/descend/) (动词)
+- [Autumn](/zh/post/autumn/) (名词，特指季节)
+- [Slip](/zh/post/slip/) (动词，指意外滑倒)

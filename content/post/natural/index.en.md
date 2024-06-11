@@ -7,37 +7,37 @@ description = '[ˈnæt∫ərəl] a.自然界的；天然的'
 keywords = ['ai words', 'natural']
 +++
 
-## [Word](/en/post/word/): [Natural](/en/post/natural/)
+## [Word](/post/word/): [Natural](/post/natural/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnætʃrəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) 1. Relating [to](/en/post/to/) [or](/en/post/or/) caused [by](/en/post/by/) [nature](/en/post/nature/); [not](/en/post/not/) made [or](/en/post/or/) caused [by](/en/post/by/) humans. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [water](/en/post/water/) [from](/en/post/from/) [the](/en/post/the/) [natural](/en/post/natural/) [spring](/en/post/spring/) was [crystal](/en/post/crystal/) [clear](/en/post/clear/)."
-   - 2. Existing [in](/en/post/in/) [or](/en/post/or/) derived [from](/en/post/from/) [nature](/en/post/nature/); [not](/en/post/not/) [artificial](/en/post/artificial/) [or](/en/post/or/) man-made. [Example](/en/post/example/): "[She](/en/post/she/) [only](/en/post/only/) uses [natural](/en/post/natural/) ingredients [in](/en/post/in/) [her](/en/post/her/) cooking."
-   - 3. Having [a](/en/post/a/) [quality](/en/post/quality/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [that](/en/post/that/) is [usual](/en/post/usual/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) species [or](/en/post/or/) [thing](/en/post/thing/); [not](/en/post/not/) altered [or](/en/post/or/) distorted. [Example](/en/post/example/): "[His](/en/post/his/) [natural](/en/post/natural/) [talent](/en/post/talent/) [for](/en/post/for/) [music](/en/post/music/) became [apparent](/en/post/apparent/) [at](/en/post/at/) an [early](/en/post/early/) [age](/en/post/age/)."
-   - 4. Involving [no](/en/post/no/) pretense [or](/en/post/or/) affectation; [sincere](/en/post/sincere/) [and](/en/post/and/) straightforward. [Example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [natural](/en/post/natural/) charm [that](/en/post/that/) draws [people](/en/post/people/) [to](/en/post/to/) [her](/en/post/her/)."
-   - 5. Belonging [to](/en/post/to/) one's [family](/en/post/family/) [by](/en/post/by/) [birth](/en/post/birth/) [rather](/en/post/rather/) [than](/en/post/than/) adoption [or](/en/post/or/) [marriage](/en/post/marriage/). [Example](/en/post/example/): "She's [his](/en/post/his/) [natural](/en/post/natural/) [daughter](/en/post/daughter/)."
+- **[Adjective](/post/adjective/)**: (adj) 1. Relating [to](/post/to/) [or](/post/or/) caused [by](/post/by/) [nature](/post/nature/); [not](/post/not/) made [or](/post/or/) caused [by](/post/by/) humans. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [water](/post/water/) [from](/post/from/) [the](/post/the/) [natural](/post/natural/) [spring](/post/spring/) was [crystal](/post/crystal/) [clear](/post/clear/)."
+   - 2. Existing [in](/post/in/) [or](/post/or/) derived [from](/post/from/) [nature](/post/nature/); [not](/post/not/) [artificial](/post/artificial/) [or](/post/or/) man-made. [Example](/post/example/): "[She](/post/she/) [only](/post/only/) uses [natural](/post/natural/) ingredients [in](/post/in/) [her](/post/her/) cooking."
+   - 3. Having [a](/post/a/) [quality](/post/quality/) [or](/post/or/) [characteristic](/post/characteristic/) [that](/post/that/) is [usual](/post/usual/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) species [or](/post/or/) [thing](/post/thing/); [not](/post/not/) altered [or](/post/or/) distorted. [Example](/post/example/): "[His](/post/his/) [natural](/post/natural/) [talent](/post/talent/) [for](/post/for/) [music](/post/music/) became [apparent](/post/apparent/) [at](/post/at/) an [early](/post/early/) [age](/post/age/)."
+   - 4. Involving [no](/post/no/) pretense [or](/post/or/) affectation; [sincere](/post/sincere/) [and](/post/and/) straightforward. [Example](/post/example/): "[She](/post/she/) has [a](/post/a/) [natural](/post/natural/) charm [that](/post/that/) draws [people](/post/people/) [to](/post/to/) [her](/post/her/)."
+   - 5. Belonging [to](/post/to/) one's [family](/post/family/) [by](/post/by/) [birth](/post/birth/) [rather](/post/rather/) [than](/post/than/) adoption [or](/post/or/) [marriage](/post/marriage/). [Example](/post/example/): "She's [his](/post/his/) [natural](/post/natural/) [daughter](/post/daughter/)."
 
-- **[Noun](/en/post/noun/)**: (n) 6. [A](/en/post/a/) [person](/en/post/person/) [with](/en/post/with/) an inherent [ability](/en/post/ability/) [or](/en/post/or/) aptitude [for](/en/post/for/) [something](/en/post/something/). [Example](/en/post/example/): "She's [a](/en/post/a/) [natural](/en/post/natural/) [at](/en/post/at/) [tennis](/en/post/tennis/); [she](/en/post/she/) [never](/en/post/never/) had [any](/en/post/any/) [formal](/en/post/formal/) [training](/en/post/training/)."
+- **[Noun](/post/noun/)**: (n) 6. [A](/post/a/) [person](/post/person/) [with](/post/with/) an inherent [ability](/post/ability/) [or](/post/or/) aptitude [for](/post/for/) [something](/post/something/). [Example](/post/example/): "She's [a](/post/a/) [natural](/post/natural/) [at](/post/at/) [tennis](/post/tennis/); [she](/post/she/) [never](/post/never/) had [any](/post/any/) [formal](/post/formal/) [training](/post/training/)."
 
 ## Phrases
-- "[In](/en/post/in/) [its](/en/post/its/) [natural](/en/post/natural/) habitat": Refers [to](/en/post/to/) [where](/en/post/where/) [a](/en/post/a/) [living](/en/post/living/) [organism](/en/post/organism/) typically lives [or](/en/post/or/) is [found](/en/post/found/).
-- "[Natural](/en/post/natural/) [selection](/en/post/selection/)": [A](/en/post/a/) [fundamental](/en/post/fundamental/) [concept](/en/post/concept/) [in](/en/post/in/) evolutionary [biology](/en/post/biology/) referring [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [by](/en/post/by/) [which](/en/post/which/) [certain](/en/post/certain/) traits [become](/en/post/become/) [more](/en/post/more/) [or](/en/post/or/) [less](/en/post/less/) [common](/en/post/common/) [in](/en/post/in/) [a](/en/post/a/) [population](/en/post/population/) [over](/en/post/over/) [time](/en/post/time/) [due](/en/post/due/) [to](/en/post/to/) [their](/en/post/their/) [effect](/en/post/effect/) [on](/en/post/on/) survival [and](/en/post/and/) reproduction.
-- "[Act](/en/post/act/) [naturally](/en/post/naturally/)": [To](/en/post/to/) [behave](/en/post/behave/) [in](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) comes [easily](/en/post/easily/) [and](/en/post/and/) [without](/en/post/without/) pretense.
+- "[In](/post/in/) [its](/post/its/) [natural](/post/natural/) habitat": Refers [to](/post/to/) [where](/post/where/) [a](/post/a/) [living](/post/living/) [organism](/post/organism/) typically lives [or](/post/or/) is [found](/post/found/).
+- "[Natural](/post/natural/) [selection](/post/selection/)": [A](/post/a/) [fundamental](/post/fundamental/) [concept](/post/concept/) [in](/post/in/) evolutionary [biology](/post/biology/) referring [to](/post/to/) [the](/post/the/) [process](/post/process/) [by](/post/by/) [which](/post/which/) [certain](/post/certain/) traits [become](/post/become/) [more](/post/more/) [or](/post/or/) [less](/post/less/) [common](/post/common/) [in](/post/in/) [a](/post/a/) [population](/post/population/) [over](/post/over/) [time](/post/time/) [due](/post/due/) [to](/post/to/) [their](/post/their/) [effect](/post/effect/) [on](/post/on/) survival [and](/post/and/) reproduction.
+- "[Act](/post/act/) [naturally](/post/naturally/)": [To](/post/to/) [behave](/post/behave/) [in](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) comes [easily](/post/easily/) [and](/post/and/) [without](/post/without/) pretense.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [garden](/en/post/garden/) was designed [to](/en/post/to/) [blend](/en/post/blend/) seamlessly [with](/en/post/with/) [the](/en/post/the/) [natural](/en/post/natural/) [surroundings](/en/post/surroundings/)."
-- **[Noun](/en/post/noun/)**: "[Even](/en/post/even/) [among](/en/post/among/) experienced athletes, [he](/en/post/he/) stood [out](/en/post/out/) [as](/en/post/as/) [a](/en/post/a/) [natural](/en/post/natural/) [leader](/en/post/leader/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [garden](/post/garden/) was designed [to](/post/to/) [blend](/post/blend/) seamlessly [with](/post/with/) [the](/post/the/) [natural](/post/natural/) [surroundings](/post/surroundings/)."
+- **[Noun](/post/noun/)**: "[Even](/post/even/) [among](/post/among/) experienced athletes, [he](/post/he/) stood [out](/post/out/) [as](/post/as/) [a](/post/a/) [natural](/post/natural/) [leader](/post/leader/)."
 
 ## Synonyms
 - Unaffected
 - Authentic
-- [Organic](/en/post/organic/)
-- [Native](/en/post/native/)
+- [Organic](/post/organic/)
+- [Native](/post/native/)
 - Instinctive
 - Innate
-- [Born](/en/post/born/)
+- [Born](/post/born/)
 - Untouched
 - Unspoiled
-- [Pure](/en/post/pure/)
+- [Pure](/post/pure/)

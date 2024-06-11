@@ -11,21 +11,21 @@ keywords = ['ai words', 'part']
 /pɑːrt/
 
 ## 释义
-- **名词 (n)**: 部分，组件，角色，份额。例如: "[This](/post/this/) is [only](/post/only/) [a](/post/a/) [small](/post/small/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [puzzle](/post/puzzle/)."（这只是拼图的一小部分。）
-- **动词 (v)**: 分离，分开，扮演角色。例如: "[She](/post/she/) parted [her](/post/her/) [hair](/post/hair/) [in](/post/in/) [the](/post/the/) [middle](/post/middle/)."（她把头发从中分开了。）
+- **名词 (n)**: 部分，组件，角色，份额。例如: "[This](/zh/post/this/) is [only](/zh/post/only/) [a](/zh/post/a/) [small](/zh/post/small/) [part](/zh/post/part/) [of](/zh/post/of/) [the](/zh/post/the/) [puzzle](/zh/post/puzzle/)."（这只是拼图的一小部分。）
+- **动词 (v)**: 分离，分开，扮演角色。例如: "[She](/zh/post/she/) parted [her](/zh/post/her/) [hair](/zh/post/hair/) [in](/zh/post/in/) [the](/zh/post/the/) [middle](/zh/post/middle/)."（她把头发从中分开了。）
 
 ## 短语
-- "[Play](/post/play/) [a](/post/a/) [part](/post/part/)" 意为参与，扮演角色。例如: "[He](/post/he/) played an [important](/post/important/) [part](/post/part/) [in](/post/in/) [the](/post/the/) [project](/post/project/)."
-- "[Do](/post/do/) [your](/post/your/) [part](/post/part/)" 意为尽你的一份力。例如: "[Everyone](/post/everyone/) needs [to](/post/to/) [do](/post/do/) [their](/post/their/) [part](/post/part/) [to](/post/to/) [keep](/post/keep/) [the](/post/the/) [environment](/post/environment/) [clean](/post/clean/)."
+- "[Play](/zh/post/play/) [a](/zh/post/a/) [part](/zh/post/part/)" 意为参与，扮演角色。例如: "[He](/zh/post/he/) played an [important](/zh/post/important/) [part](/zh/post/part/) [in](/zh/post/in/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- "[Do](/zh/post/do/) [your](/zh/post/your/) [part](/zh/post/part/)" 意为尽你的一份力。例如: "[Everyone](/zh/post/everyone/) needs [to](/zh/post/to/) [do](/zh/post/do/) [their](/zh/post/their/) [part](/zh/post/part/) [to](/zh/post/to/) [keep](/zh/post/keep/) [the](/zh/post/the/) [environment](/zh/post/environment/) [clean](/zh/post/clean/)."
 
 ## 例句
-- 名词: "[Each](/post/each/) [instrument](/post/instrument/) plays [a](/post/a/) [different](/post/different/) [part](/post/part/) [in](/post/in/) [the](/post/the/) [orchestra](/post/orchestra/)."
-- 动词: "[The](/post/the/) [river](/post/river/) parts [where](/post/where/) [it](/post/it/) meets [the](/post/the/) [lake](/post/lake/)."
+- 名词: "[Each](/zh/post/each/) [instrument](/zh/post/instrument/) plays [a](/zh/post/a/) [different](/zh/post/different/) [part](/zh/post/part/) [in](/zh/post/in/) [the](/zh/post/the/) [orchestra](/zh/post/orchestra/)."
+- 动词: "[The](/zh/post/the/) [river](/zh/post/river/) parts [where](/zh/post/where/) [it](/zh/post/it/) meets [the](/zh/post/the/) [lake](/zh/post/lake/)."
 - 感叹词: (无此用法)
 
 ## 同义词
-- [Section](/post/section/)
-- [Component](/post/component/)
-- [Piece](/post/piece/)
-- [Division](/post/division/)
-- [Share](/post/share/)
+- [Section](/zh/post/section/)
+- [Component](/zh/post/component/)
+- [Piece](/zh/post/piece/)
+- [Division](/zh/post/division/)
+- [Share](/zh/post/share/)

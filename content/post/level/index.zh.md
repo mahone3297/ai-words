@@ -11,25 +11,25 @@ keywords = ['ai words', 'level']
 /ˈlevəl/
 
 ## 释义
-- **名词**: 平坦的状态；水平；标准。例如: "[The](/post/the/) [surface](/post/surface/) [of](/post/of/) [the](/post/the/) [water](/post/water/) was [completely](/post/completely/) [level](/post/level/)."
-- **动词**: 使平坦；调整至水平；对准。例如: "[He](/post/he/) leveled [the](/post/the/) [picture](/post/picture/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/)."
-- **形容词**: 平坦的；水平的；相等的。例如: "[The](/post/the/) playing [field](/post/field/) is [level](/post/level/), giving [both](/post/both/) teams an [equal](/post/equal/) [chance](/post/chance/)."
-- **副词**: 完全；彻底；平等地。例如: "[She](/post/she/) spoke [to](/post/to/) [him](/post/him/) levelly, [without](/post/without/) [any](/post/any/) [hint](/post/hint/) [of](/post/of/) [anger](/post/anger/)."
+- **名词**: 平坦的状态；水平；标准。例如: "[The](/zh/post/the/) [surface](/zh/post/surface/) [of](/zh/post/of/) [the](/zh/post/the/) [water](/zh/post/water/) was [completely](/zh/post/completely/) [level](/zh/post/level/)."
+- **动词**: 使平坦；调整至水平；对准。例如: "[He](/zh/post/he/) leveled [the](/zh/post/the/) [picture](/zh/post/picture/) [on](/zh/post/on/) [the](/zh/post/the/) [wall](/zh/post/wall/)."
+- **形容词**: 平坦的；水平的；相等的。例如: "[The](/zh/post/the/) playing [field](/zh/post/field/) is [level](/zh/post/level/), giving [both](/zh/post/both/) teams an [equal](/zh/post/equal/) [chance](/zh/post/chance/)."
+- **副词**: 完全；彻底；平等地。例如: "[She](/zh/post/she/) spoke [to](/zh/post/to/) [him](/zh/post/him/) levelly, [without](/zh/post/without/) [any](/zh/post/any/) [hint](/zh/post/hint/) [of](/zh/post/of/) [anger](/zh/post/anger/)."
 
 ## 短语
-- "[on](/post/on/) [the](/post/the/) [same](/post/same/) [level](/post/level/)" 意味着在相同的层次或地位上。
-- "[level](/post/level/) playing [field](/post/field/)" 比喻公平竞争的环境。
-- "[level](/post/level/) [up](/post/up/)" 在游戏或个人发展中的意思是升级或提高能力。
+- "[on](/zh/post/on/) [the](/zh/post/the/) [same](/zh/post/same/) [level](/zh/post/level/)" 意味着在相同的层次或地位上。
+- "[level](/zh/post/level/) playing [field](/zh/post/field/)" 比喻公平竞争的环境。
+- "[level](/zh/post/level/) [up](/zh/post/up/)" 在游戏或个人发展中的意思是升级或提高能力。
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [road](/post/road/) was built [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [level](/post/level/) [surface](/post/surface/) [for](/post/for/) [safe](/post/safe/) driving."
-- 动词: "[She](/post/she/) [used](/post/used/) [a](/post/a/) [spirit](/post/spirit/) [level](/post/level/) [to](/post/to/) [ensure](/post/ensure/) [the](/post/the/) bookshelf was [perfectly](/post/perfectly/) leveled."
-- 形容词: "[The](/post/the/) [two](/post/two/) athletes were [so](/post/so/) evenly matched [that](/post/that/) [it](/post/it/) was [a](/post/a/) [level](/post/level/) [competition](/post/competition/)."
-- 副词: "[He](/post/he/) answered [her](/post/her/) questions levelly, [not](/post/not/) wanting [to](/post/to/) [show](/post/show/) [his](/post/his/) [anxiety](/post/anxiety/).
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [road](/zh/post/road/) was built [to](/zh/post/to/) [maintain](/zh/post/maintain/) [a](/zh/post/a/) [level](/zh/post/level/) [surface](/zh/post/surface/) [for](/zh/post/for/) [safe](/zh/post/safe/) driving."
+- 动词: "[She](/zh/post/she/) [used](/zh/post/used/) [a](/zh/post/a/) [spirit](/zh/post/spirit/) [level](/zh/post/level/) [to](/zh/post/to/) [ensure](/zh/post/ensure/) [the](/zh/post/the/) bookshelf was [perfectly](/zh/post/perfectly/) leveled."
+- 形容词: "[The](/zh/post/the/) [two](/zh/post/two/) athletes were [so](/zh/post/so/) evenly matched [that](/zh/post/that/) [it](/zh/post/it/) was [a](/zh/post/a/) [level](/zh/post/level/) [competition](/zh/post/competition/)."
+- 副词: "[He](/zh/post/he/) answered [her](/zh/post/her/) questions levelly, [not](/zh/post/not/) wanting [to](/zh/post/to/) [show](/zh/post/show/) [his](/zh/post/his/) [anxiety](/zh/post/anxiety/).
 
 ## 同义词
-- [Flat](/post/flat/)
-- [Even](/post/even/)
-- [Uniform](/post/uniform/)
-- [Parallel](/post/parallel/)
+- [Flat](/zh/post/flat/)
+- [Even](/zh/post/even/)
+- [Uniform](/zh/post/uniform/)
+- [Parallel](/zh/post/parallel/)
 - Equitable

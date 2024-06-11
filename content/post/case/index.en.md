@@ -7,33 +7,33 @@ description = 'n.箱(子)，盒(子)，套'
 keywords = ['ai words', 'case']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /k eɪs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [particular](/en/post/particular/) [form](/en/post/form/) [or](/en/post/or/) [shape](/en/post/shape/) [something](/en/post/something/) takes, [often](/en/post/often/) referring [to](/en/post/to/) [the](/en/post/the/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) parts [on](/en/post/on/) an [object](/en/post/object/) [or](/en/post/or/) [the](/en/post/the/) [relationship](/en/post/relationship/) [between](/en/post/between/) objects [in](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) suitcase had [a](/en/post/a/) [hard](/en/post/hard/) [exterior](/en/post/exterior/) [case](/en/post/case/)."
-   2. [A](/en/post/a/) [specific](/en/post/specific/) [instance](/en/post/instance/) [or](/en/post/or/) category [within](/en/post/within/) [a](/en/post/a/) [legal](/en/post/legal/), [medical](/en/post/medical/), [or](/en/post/or/) [academic](/en/post/academic/) context. [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [patient](/en/post/patient/) has [a](/en/post/a/) [rare](/en/post/rare/) [skin](/en/post/skin/) [case](/en/post/case/)."
-   3. [A](/en/post/a/) [logical](/en/post/logical/) [division](/en/post/division/) [or](/en/post/or/) [point](/en/post/point/) [in](/en/post/in/) [a](/en/post/a/) [discussion](/en/post/discussion/) [or](/en/post/or/) [argument](/en/post/argument/). [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) [argument](/en/post/argument/) [should](/en/post/should/) [be](/en/post/be/) supported [by](/en/post/by/) [evidence](/en/post/evidence/) [in](/en/post/in/) [its](/en/post/its/) [own](/en/post/own/) [case](/en/post/case/)."
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [particular](/post/particular/) [form](/post/form/) [or](/post/or/) [shape](/post/shape/) [something](/post/something/) takes, [often](/post/often/) referring [to](/post/to/) [the](/post/the/) [arrangement](/post/arrangement/) [of](/post/of/) parts [on](/post/on/) an [object](/post/object/) [or](/post/or/) [the](/post/the/) [relationship](/post/relationship/) [between](/post/between/) objects [in](/post/in/) [a](/post/a/) [sentence](/post/sentence/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) suitcase had [a](/post/a/) [hard](/post/hard/) [exterior](/post/exterior/) [case](/post/case/)."
+   2. [A](/post/a/) [specific](/post/specific/) [instance](/post/instance/) [or](/post/or/) category [within](/post/within/) [a](/post/a/) [legal](/post/legal/), [medical](/post/medical/), [or](/post/or/) [academic](/post/academic/) context. [For](/post/for/) [example](/post/example/): "[This](/post/this/) [patient](/post/patient/) has [a](/post/a/) [rare](/post/rare/) [skin](/post/skin/) [case](/post/case/)."
+   3. [A](/post/a/) [logical](/post/logical/) [division](/post/division/) [or](/post/or/) [point](/post/point/) [in](/post/in/) [a](/post/a/) [discussion](/post/discussion/) [or](/post/or/) [argument](/post/argument/). [For](/post/for/) [example](/post/example/): "[Each](/post/each/) [argument](/post/argument/) [should](/post/should/) [be](/post/be/) supported [by](/post/by/) [evidence](/post/evidence/) [in](/post/in/) [its](/post/its/) [own](/post/own/) [case](/post/case/)."
 
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [cover](/en/post/cover/) [or](/en/post/or/) [protect](/en/post/protect/) [with](/en/post/with/) [a](/en/post/a/) [case](/en/post/case/) [or](/en/post/or/) casing. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) covered [the](/en/post/the/) laptop [with](/en/post/with/) [a](/en/post/a/) [protective](/en/post/protective/) [case](/en/post/case/)."
-   2. [To](/en/post/to/) [present](/en/post/present/) [or](/en/post/or/) [argue](/en/post/argue/) [a](/en/post/a/) [case](/en/post/case/), typically [in](/en/post/in/) [a](/en/post/a/) [legal](/en/post/legal/) [setting](/en/post/setting/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lawyer](/en/post/lawyer/) presented [a](/en/post/a/) [strong](/en/post/strong/) [case](/en/post/case/) [for](/en/post/for/) [the](/en/post/the/) defendant."
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [cover](/post/cover/) [or](/post/or/) [protect](/post/protect/) [with](/post/with/) [a](/post/a/) [case](/post/case/) [or](/post/or/) casing. [For](/post/for/) [example](/post/example/): "[They](/post/they/) covered [the](/post/the/) laptop [with](/post/with/) [a](/post/a/) [protective](/post/protective/) [case](/post/case/)."
+   2. [To](/post/to/) [present](/post/present/) [or](/post/or/) [argue](/post/argue/) [a](/post/a/) [case](/post/case/), typically [in](/post/in/) [a](/post/a/) [legal](/post/legal/) [setting](/post/setting/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lawyer](/post/lawyer/) presented [a](/post/a/) [strong](/post/strong/) [case](/post/case/) [for](/post/for/) [the](/post/the/) defendant."
 
 ## Phrases
-- "[In](/en/post/in/) [this](/en/post/this/) [case](/en/post/case/)" is [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [instance](/en/post/instance/) [or](/en/post/or/) [situation](/en/post/situation/).
-- "[Open](/en/post/open/)/[case](/en/post/case/) [file](/en/post/file/)" refers [to](/en/post/to/) accessing [or](/en/post/or/) examining documents related [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [matter](/en/post/matter/).
-- "Airtight [case](/en/post/case/)" implies [a](/en/post/a/) [strong](/en/post/strong/) [and](/en/post/and/) convincing [argument](/en/post/argument/).
+- "[In](/post/in/) [this](/post/this/) [case](/post/case/)" is [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [instance](/post/instance/) [or](/post/or/) [situation](/post/situation/).
+- "[Open](/post/open/)/[case](/post/case/) [file](/post/file/)" refers [to](/post/to/) accessing [or](/post/or/) examining documents related [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [matter](/post/matter/).
+- "Airtight [case](/post/case/)" implies [a](/post/a/) [strong](/post/strong/) [and](/post/and/) convincing [argument](/post/argument/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) carefully wrapped [the](/en/post/the/) fragile [vase](/en/post/vase/) [in](/en/post/in/) [a](/en/post/a/) [hard](/en/post/hard/) [case](/en/post/case/) [for](/en/post/for/) [transport](/en/post/transport/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) reviewing [the](/en/post/the/) [evidence](/en/post/evidence/), [the](/en/post/the/) [judge](/en/post/judge/) dismissed [the](/en/post/the/) [case](/en/post/case/) [due](/en/post/due/) [to](/en/post/to/) [lack](/en/post/lack/) [of](/en/post/of/) [proof](/en/post/proof/)."
-- **[Verb](/en/post/verb/) ([legal](/en/post/legal/))**: "[The](/en/post/the/) prosecutor built [a](/en/post/a/) [solid](/en/post/solid/) [case](/en/post/case/) [against](/en/post/against/) [the](/en/post/the/) [suspect](/en/post/suspect/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) carefully wrapped [the](/post/the/) fragile [vase](/post/vase/) [in](/post/in/) [a](/post/a/) [hard](/post/hard/) [case](/post/case/) [for](/post/for/) [transport](/post/transport/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) reviewing [the](/post/the/) [evidence](/post/evidence/), [the](/post/the/) [judge](/post/judge/) dismissed [the](/post/the/) [case](/post/case/) [due](/post/due/) [to](/post/to/) [lack](/post/lack/) [of](/post/of/) [proof](/post/proof/)."
+- **[Verb](/post/verb/) ([legal](/post/legal/))**: "[The](/post/the/) prosecutor built [a](/post/a/) [solid](/post/solid/) [case](/post/case/) [against](/post/against/) [the](/post/the/) [suspect](/post/suspect/)."
 
 ## Synonyms
 - Covering
 - Enclosure
-- [Container](/en/post/container/)
-- [Shield](/en/post/shield/)
-- [Protection](/en/post/protection/)
-- [Argument](/en/post/argument/)
-- [Instance](/en/post/instance/)
+- [Container](/post/container/)
+- [Shield](/post/shield/)
+- [Protection](/post/protection/)
+- [Argument](/post/argument/)
+- [Instance](/post/instance/)
 - Scenario

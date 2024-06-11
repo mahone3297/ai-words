@@ -7,31 +7,31 @@ description = '[ˌindisˈpensəbl] a.必不可少的，必需的'
 keywords = ['ai words', 'indispensable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɪndɪspensəbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Absolutely](/en/post/absolutely/) [necessary](/en/post/necessary/); [essential](/en/post/essential/); [not](/en/post/not/) [able](/en/post/able/) [to](/en/post/to/) [be](/en/post/be/) done [without](/en/post/without/). [It](/en/post/it/) describes [something](/en/post/something/) [that](/en/post/that/) is [so](/en/post/so/) [important](/en/post/important/) [that](/en/post/that/) [it](/en/post/it/) cannot [be](/en/post/be/) dispensed [with](/en/post/with/) [or](/en/post/or/) omitted.
+- **[Adjective](/post/adjective/)**: [Absolutely](/post/absolutely/) [necessary](/post/necessary/); [essential](/post/essential/); [not](/post/not/) [able](/post/able/) [to](/post/to/) [be](/post/be/) done [without](/post/without/). [It](/post/it/) describes [something](/post/something/) [that](/post/that/) is [so](/post/so/) [important](/post/important/) [that](/post/that/) [it](/post/it/) cannot [be](/post/be/) dispensed [with](/post/with/) [or](/post/or/) omitted.
 
 ### Examples
-- _**Adj**_. [The](/en/post/the/) internet has [become](/en/post/become/) an [indispensable](/en/post/indispensable/) [tool](/en/post/tool/) [for](/en/post/for/) [communication](/en/post/communication/) [and](/en/post/and/) [research](/en/post/research/) [in](/en/post/in/) today's [society](/en/post/society/).
-  - _"[A](/en/post/a/) first-aid kit is [indispensable](/en/post/indispensable/) [on](/en/post/on/) [any](/en/post/any/) camping [trip](/en/post/trip/)."_
-  - _"[Water](/en/post/water/) is an [indispensable](/en/post/indispensable/) [resource](/en/post/resource/) [for](/en/post/for/) [life](/en/post/life/)."_
+- _**Adj**_. [The](/post/the/) internet has [become](/post/become/) an [indispensable](/post/indispensable/) [tool](/post/tool/) [for](/post/for/) [communication](/post/communication/) [and](/post/and/) [research](/post/research/) [in](/post/in/) today's [society](/post/society/).
+  - _"[A](/post/a/) first-aid kit is [indispensable](/post/indispensable/) [on](/post/on/) [any](/post/any/) camping [trip](/post/trip/)."_
+  - _"[Water](/post/water/) is an [indispensable](/post/indispensable/) [resource](/post/resource/) [for](/post/for/) [life](/post/life/)."_
 
 ## Phrases
-- _"[Indispensable](/en/post/indispensable/) [to](/en/post/to/)"_ emphasizes [the](/en/post/the/) [necessity](/en/post/necessity/) [of](/en/post/of/) [something](/en/post/something/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/). [Example](/en/post/example/): "[Good](/en/post/good/) [time](/en/post/time/) [management](/en/post/management/) skills are [indispensable](/en/post/indispensable/) [to](/en/post/to/) achieving [success](/en/post/success/) [in](/en/post/in/) one's [career](/en/post/career/)."
+- _"[Indispensable](/post/indispensable/) [to](/post/to/)"_ emphasizes [the](/post/the/) [necessity](/post/necessity/) [of](/post/of/) [something](/post/something/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/). [Example](/post/example/): "[Good](/post/good/) [time](/post/time/) [management](/post/management/) skills are [indispensable](/post/indispensable/) [to](/post/to/) achieving [success](/post/success/) [in](/post/in/) one's [career](/post/career/)."
   
-- _"An [indispensable](/en/post/indispensable/) [part](/en/post/part/) [of](/en/post/of/)"_ highlights [how](/en/post/how/) [something](/en/post/something/) is an integral [component](/en/post/component/). [Example](/en/post/example/): "[Exercise](/en/post/exercise/) is an [indispensable](/en/post/indispensable/) [part](/en/post/part/) [of](/en/post/of/) maintaining [good](/en/post/good/) [health](/en/post/health/)."
+- _"An [indispensable](/post/indispensable/) [part](/post/part/) [of](/post/of/)"_ highlights [how](/post/how/) [something](/post/something/) is an integral [component](/post/component/). [Example](/post/example/): "[Exercise](/post/exercise/) is an [indispensable](/post/indispensable/) [part](/post/part/) [of](/post/of/) maintaining [good](/post/good/) [health](/post/health/)."
 
-## [Example](/en/post/example/) Sentences
-- _**Adj**_. "[Her](/en/post/her/) expertise [in](/en/post/in/) coding made [her](/en/post/her/) an [indispensable](/en/post/indispensable/) [member](/en/post/member/) [of](/en/post/of/) [our](/en/post/our/) software [development](/en/post/development/) [team](/en/post/team/)."
-- _"[In](/en/post/in/) [remote](/en/post/remote/) [work](/en/post/work/) scenarios, [video](/en/post/video/) conferencing [technology](/en/post/technology/) has [become](/en/post/become/) [indispensable](/en/post/indispensable/)."_
+## [Example](/post/example/) Sentences
+- _**Adj**_. "[Her](/post/her/) expertise [in](/post/in/) coding made [her](/post/her/) an [indispensable](/post/indispensable/) [member](/post/member/) [of](/post/of/) [our](/post/our/) software [development](/post/development/) [team](/post/team/)."
+- _"[In](/post/in/) [remote](/post/remote/) [work](/post/work/) scenarios, [video](/post/video/) conferencing [technology](/post/technology/) has [become](/post/become/) [indispensable](/post/indispensable/)."_
 
 ## Synonyms
-- [Essential](/en/post/essential/)
-- [Vital](/en/post/vital/)
-- [Necessary](/en/post/necessary/)
+- [Essential](/post/essential/)
+- [Vital](/post/vital/)
+- [Necessary](/post/necessary/)
 - Crucial
 - Imperative
 - Compulsory
-- Indefensible ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [being](/en/post/being/) [unable](/en/post/unable/) [to](/en/post/to/) [justify](/en/post/justify/) [not](/en/post/not/) having [it](/en/post/it/))
+- Indefensible ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [being](/post/being/) [unable](/post/unable/) [to](/post/to/) [justify](/post/justify/) [not](/post/not/) having [it](/post/it/))

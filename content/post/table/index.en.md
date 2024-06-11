@@ -7,39 +7,39 @@ description = '[ˈteibl] n.桌子；餐桌；项目表'
 keywords = ['ai words', 'table']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tæbəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) rectangular [arrangement](/en/post/arrangement/) [of](/en/post/of/) rows [and](/en/post/and/) columns [for](/en/post/for/) [writing](/en/post/writing/), [drawing](/en/post/drawing/), [or](/en/post/or/) displaying [information](/en/post/information/). *[Example](/en/post/example/): [The](/en/post/the/) [conference](/en/post/conference/) [table](/en/post/table/) was filled [with](/en/post/with/) papers.*
-2. [A](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) names, facts, [or](/en/post/or/) items arranged systematically. *[Example](/en/post/example/): [The](/en/post/the/) [menu](/en/post/menu/) was [a](/en/post/a/) [table](/en/post/table/) [of](/en/post/of/) dishes [for](/en/post/for/) [the](/en/post/the/) [dinner](/en/post/dinner/) [party](/en/post/party/).*
-3. [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [furniture](/en/post/furniture/) [with](/en/post/with/) [a](/en/post/a/) [flat](/en/post/flat/) [surface](/en/post/surface/) [and](/en/post/and/) legs, typically [used](/en/post/used/) [for](/en/post/for/) working [or](/en/post/or/) eating. *[Example](/en/post/example/): [She](/en/post/she/) placed [the](/en/post/the/) laptop [on](/en/post/on/) [the](/en/post/the/) dining [table](/en/post/table/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) rectangular [arrangement](/post/arrangement/) [of](/post/of/) rows [and](/post/and/) columns [for](/post/for/) [writing](/post/writing/), [drawing](/post/drawing/), [or](/post/or/) displaying [information](/post/information/). *[Example](/post/example/): [The](/post/the/) [conference](/post/conference/) [table](/post/table/) was filled [with](/post/with/) papers.*
+2. [A](/post/a/) [list](/post/list/) [of](/post/of/) names, facts, [or](/post/or/) items arranged systematically. *[Example](/post/example/): [The](/post/the/) [menu](/post/menu/) was [a](/post/a/) [table](/post/table/) [of](/post/of/) dishes [for](/post/for/) [the](/post/the/) [dinner](/post/dinner/) [party](/post/party/).*
+3. [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [furniture](/post/furniture/) [with](/post/with/) [a](/post/a/) [flat](/post/flat/) [surface](/post/surface/) [and](/post/and/) legs, typically [used](/post/used/) [for](/post/for/) working [or](/post/or/) eating. *[Example](/post/example/): [She](/post/she/) placed [the](/post/the/) laptop [on](/post/on/) [the](/post/the/) dining [table](/post/table/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [arrange](/en/post/arrange/) (items) [in](/en/post/in/) [a](/en/post/a/) systematic [manner](/en/post/manner/), [often](/en/post/often/) [on](/en/post/on/) [a](/en/post/a/) [table](/en/post/table/). *[Example](/en/post/example/): [She](/en/post/she/) [set](/en/post/set/) [out](/en/post/out/) [the](/en/post/the/) plates [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/).*
-2. [To](/en/post/to/) [display](/en/post/display/) [or](/en/post/or/) [present](/en/post/present/) [data](/en/post/data/) [in](/en/post/in/) tabular [form](/en/post/form/). *[Example](/en/post/example/): [He](/en/post/he/) created [a](/en/post/a/) [table](/en/post/table/) showing sales figures [for](/en/post/for/) [the](/en/post/the/) [month](/en/post/month/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [arrange](/post/arrange/) (items) [in](/post/in/) [a](/post/a/) systematic [manner](/post/manner/), [often](/post/often/) [on](/post/on/) [a](/post/a/) [table](/post/table/). *[Example](/post/example/): [She](/post/she/) [set](/post/set/) [out](/post/out/) [the](/post/the/) plates [on](/post/on/) [the](/post/the/) [table](/post/table/).*
+2. [To](/post/to/) [display](/post/display/) [or](/post/or/) [present](/post/present/) [data](/post/data/) [in](/post/in/) tabular [form](/post/form/). *[Example](/post/example/): [He](/post/he/) created [a](/post/a/) [table](/post/table/) showing sales figures [for](/post/for/) [the](/post/the/) [month](/post/month/).*
 
 ## Phrases
-- "[Set](/en/post/set/) [the](/en/post/the/) [table](/en/post/table/)" [means](/en/post/means/) [to](/en/post/to/) [prepare](/en/post/prepare/) [a](/en/post/a/) [table](/en/post/table/) [for](/en/post/for/) [a](/en/post/a/) [meal](/en/post/meal/).
-- "[Round](/en/post/round/) [table](/en/post/table/) [discussion](/en/post/discussion/)" refers [to](/en/post/to/) [a](/en/post/a/) [meeting](/en/post/meeting/) [where](/en/post/where/) [all](/en/post/all/) participants [sit](/en/post/sit/) [around](/en/post/around/) [a](/en/post/a/) [single](/en/post/single/) [table](/en/post/table/) [for](/en/post/for/) [equal](/en/post/equal/) participation.
-- "[Table](/en/post/table/) [of](/en/post/of/) contents" is [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) headings [or](/en/post/or/) topics [in](/en/post/in/) [a](/en/post/a/) [book](/en/post/book/) [or](/en/post/or/) [document](/en/post/document/).
+- "[Set](/post/set/) [the](/post/the/) [table](/post/table/)" [means](/post/means/) [to](/post/to/) [prepare](/post/prepare/) [a](/post/a/) [table](/post/table/) [for](/post/for/) [a](/post/a/) [meal](/post/meal/).
+- "[Round](/post/round/) [table](/post/table/) [discussion](/post/discussion/)" refers [to](/post/to/) [a](/post/a/) [meeting](/post/meeting/) [where](/post/where/) [all](/post/all/) participants [sit](/post/sit/) [around](/post/around/) [a](/post/a/) [single](/post/single/) [table](/post/table/) [for](/post/for/) [equal](/post/equal/) participation.
+- "[Table](/post/table/) [of](/post/of/) contents" is [a](/post/a/) [list](/post/list/) [of](/post/of/) headings [or](/post/or/) topics [in](/post/in/) [a](/post/a/) [book](/post/book/) [or](/post/or/) [document](/post/document/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) guests were seated [at](/en/post/at/) [the](/en/post/the/) beautifully decorated [wedding](/en/post/wedding/) [reception](/en/post/reception/) [table](/en/post/table/)."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [you](/en/post/you/) [to](/en/post/to/) [table](/en/post/table/) [that](/en/post/that/) [proposal](/en/post/proposal/) [for](/en/post/for/) [now](/en/post/now/), we'll [discuss](/en/post/discuss/) [it](/en/post/it/) [later](/en/post/later/)."
-- **Prepositional [phrase](/en/post/phrase/)**: "[The](/en/post/the/) [report](/en/post/report/) includes [a](/en/post/a/) [comprehensive](/en/post/comprehensive/) [table](/en/post/table/) [of](/en/post/of/) figures."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) guests were seated [at](/post/at/) [the](/post/the/) beautifully decorated [wedding](/post/wedding/) [reception](/post/reception/) [table](/post/table/)."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [you](/post/you/) [to](/post/to/) [table](/post/table/) [that](/post/that/) [proposal](/post/proposal/) [for](/post/for/) [now](/post/now/), we'll [discuss](/post/discuss/) [it](/post/it/) [later](/post/later/)."
+- **Prepositional [phrase](/post/phrase/)**: "[The](/post/the/) [report](/post/report/) includes [a](/post/a/) [comprehensive](/post/comprehensive/) [table](/post/table/) [of](/post/of/) figures."
 
 ## Synonyms
-- [Chart](/en/post/chart/)
+- [Chart](/post/chart/)
 - Grid
-- [Layout](/en/post/layout/)
-- [Display](/en/post/display/)
+- [Layout](/post/layout/)
+- [Display](/post/display/)
 - Registry
 - Inventory
 
 ## Antonyms
-- [Mess](/en/post/mess/)
-- [Disorder](/en/post/disorder/)
+- [Mess](/post/mess/)
+- [Disorder](/post/disorder/)
 - Chaos
 - Unorganized

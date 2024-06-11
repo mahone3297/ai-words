@@ -7,35 +7,35 @@ description = '[θraiv] vi.兴旺，繁荣，旺盛'
 keywords = ['ai words', 'thrive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /θraɪv/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [grow](/en/post/grow/), [develop](/en/post/develop/), [or](/en/post/or/) [succeed](/en/post/succeed/) [in](/en/post/in/) [a](/en/post/a/) [healthy](/en/post/healthy/) [and](/en/post/and/) [vigorous](/en/post/vigorous/) [manner](/en/post/manner/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [new](/en/post/new/) [environment](/en/post/environment/) [or](/en/post/or/) challenging [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) startup thrived [after](/en/post/after/) securing funding."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) flourishing; robust [growth](/en/post/growth/) [or](/en/post/or/) [progress](/en/post/progress/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) company's [success](/en/post/success/) was [a](/en/post/a/) testament [to](/en/post/to/) [their](/en/post/their/) [ability](/en/post/ability/) [to](/en/post/to/) [thrive](/en/post/thrive/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [grow](/post/grow/), [develop](/post/develop/), [or](/post/or/) [succeed](/post/succeed/) [in](/post/in/) [a](/post/a/) [healthy](/post/healthy/) [and](/post/and/) [vigorous](/post/vigorous/) [manner](/post/manner/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [new](/post/new/) [environment](/post/environment/) [or](/post/or/) challenging [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) startup thrived [after](/post/after/) securing funding."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [state](/post/state/) [of](/post/of/) flourishing; robust [growth](/post/growth/) [or](/post/or/) [progress](/post/progress/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) company's [success](/post/success/) was [a](/post/a/) testament [to](/post/to/) [their](/post/their/) [ability](/post/ability/) [to](/post/to/) [thrive](/post/thrive/)."
 
 ## Phrases
-- "[Thrive](/en/post/thrive/) [in](/en/post/in/) adversity" [means](/en/post/means/) [to](/en/post/to/) [do](/en/post/do/) [well](/en/post/well/) [despite](/en/post/despite/) [difficult](/en/post/difficult/) circumstances.
-- "[A](/en/post/a/) thriving [community](/en/post/community/)" is [one](/en/post/one/) [that](/en/post/that/) is [healthy](/en/post/healthy/), [active](/en/post/active/), [and](/en/post/and/) growing.
-- "[To](/en/post/to/) [help](/en/post/help/) [something](/en/post/something/) [thrive](/en/post/thrive/)" is [to](/en/post/to/) [support](/en/post/support/) [its](/en/post/its/) [growth](/en/post/growth/) [and](/en/post/and/) [development](/en/post/development/).
+- "[Thrive](/post/thrive/) [in](/post/in/) adversity" [means](/post/means/) [to](/post/to/) [do](/post/do/) [well](/post/well/) [despite](/post/despite/) [difficult](/post/difficult/) circumstances.
+- "[A](/post/a/) thriving [community](/post/community/)" is [one](/post/one/) [that](/post/that/) is [healthy](/post/healthy/), [active](/post/active/), [and](/post/and/) growing.
+- "[To](/post/to/) [help](/post/help/) [something](/post/something/) [thrive](/post/thrive/)" is [to](/post/to/) [support](/post/support/) [its](/post/its/) [growth](/post/growth/) [and](/post/and/) [development](/post/development/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) plants thrived [under](/en/post/under/) [the](/en/post/the/) [care](/en/post/care/) [of](/en/post/of/) [the](/en/post/the/) experienced [gardener](/en/post/gardener/)."
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) [marriage](/en/post/marriage/) has thrived [over](/en/post/over/) [the](/en/post/the/) years, [despite](/en/post/despite/) [the](/en/post/the/) challenges [they](/en/post/they/) faced."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) thrived [in](/en/post/in/) [her](/en/post/her/) [new](/en/post/new/) [job](/en/post/job/), [quickly](/en/post/quickly/) adapting [to](/en/post/to/) [the](/en/post/the/) fast-paced [environment](/en/post/environment/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) plants thrived [under](/post/under/) [the](/post/the/) [care](/post/care/) [of](/post/of/) [the](/post/the/) experienced [gardener](/post/gardener/)."
+- **[Noun](/post/noun/)**: "[Their](/post/their/) [marriage](/post/marriage/) has thrived [over](/post/over/) [the](/post/the/) years, [despite](/post/despite/) [the](/post/the/) challenges [they](/post/they/) faced."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) thrived [in](/post/in/) [her](/post/her/) [new](/post/new/) [job](/post/job/), [quickly](/post/quickly/) adapting [to](/post/to/) [the](/post/the/) fast-paced [environment](/post/environment/)."
 
 ## Synonyms
-- [Flourish](/en/post/flourish/)
+- [Flourish](/post/flourish/)
 - Prosper
-- [Grow](/en/post/grow/)
+- [Grow](/post/grow/)
 - Thrum
 - Boom
 - Excel
-- [Succeed](/en/post/succeed/)
+- [Succeed](/post/succeed/)
 
 ## Antonyms
-- [Struggle](/en/post/struggle/)
-- [Fail](/en/post/fail/)
+- [Struggle](/post/struggle/)
+- [Fail](/post/fail/)
 - Wither
 - Decline
 - Stagnate

@@ -11,20 +11,20 @@ keywords = ['ai words', 'provided']
 /prəˈvaidɪd/
 
 ## 释义
-- **连词 conj**: 假设，假如。例如: "[Provided](/post/provided/) [it](/post/it/) doesn't [rain](/post/rain/), we'll [have](/post/have/) [a](/post/a/) [picnic](/post/picnic/)."
-- **介词 prep**: 提供，给予。例如: "[The](/post/the/) [company](/post/company/) provides [health](/post/health/) [insurance](/post/insurance/) [for](/post/for/) [its](/post/its/) employees."
+- **连词 conj**: 假设，假如。例如: "[Provided](/zh/post/provided/) [it](/zh/post/it/) doesn't [rain](/zh/post/rain/), we'll [have](/zh/post/have/) [a](/zh/post/a/) [picnic](/zh/post/picnic/)."
+- **介词 prep**: 提供，给予。例如: "[The](/zh/post/the/) [company](/zh/post/company/) provides [health](/zh/post/health/) [insurance](/zh/post/insurance/) [for](/zh/post/for/) [its](/zh/post/its/) employees."
 
 ## 短语
-- "[Provided](/post/provided/) [that](/post/that/)" 意味着“在…条件下，假设”。例如: "I'll [go](/post/go/) [to](/post/to/) [the](/post/the/) [concert](/post/concert/) [provided](/post/provided/) [that](/post/that/) [my](/post/my/) [friend](/post/friend/) gets [the](/post/the/) tickets."
-- "[Provided](/post/provided/) [with](/post/with/)" 指“配备了，供应了”。例如: "[The](/post/the/) [apartment](/post/apartment/) is [provided](/post/provided/) [with](/post/with/) [all](/post/all/) [modern](/post/modern/) conveniences."
+- "[Provided](/zh/post/provided/) [that](/zh/post/that/)" 意味着“在…条件下，假设”。例如: "I'll [go](/zh/post/go/) [to](/zh/post/to/) [the](/zh/post/the/) [concert](/zh/post/concert/) [provided](/zh/post/provided/) [that](/zh/post/that/) [my](/zh/post/my/) [friend](/zh/post/friend/) gets [the](/zh/post/the/) tickets."
+- "[Provided](/zh/post/provided/) [with](/zh/post/with/)" 指“配备了，供应了”。例如: "[The](/zh/post/the/) [apartment](/zh/post/apartment/) is [provided](/zh/post/provided/) [with](/zh/post/with/) [all](/zh/post/all/) [modern](/zh/post/modern/) conveniences."
 
 ## 例句
-- 连词: "[You](/post/you/) [can](/post/can/) [come](/post/come/) [along](/post/along/) [provided](/post/provided/) [you](/post/you/) [finish](/post/finish/) [your](/post/your/) homework [first](/post/first/)."
-- 介词: "[The](/post/the/) [hotel](/post/hotel/) is [provided](/post/provided/) [with](/post/with/) [a](/post/a/) gym [and](/post/and/) [a](/post/a/) swimming [pool](/post/pool/)."
+- 连词: "[You](/zh/post/you/) [can](/zh/post/can/) [come](/zh/post/come/) [along](/zh/post/along/) [provided](/zh/post/provided/) [you](/zh/post/you/) [finish](/zh/post/finish/) [your](/zh/post/your/) homework [first](/zh/post/first/)."
+- 介词: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) is [provided](/zh/post/provided/) [with](/zh/post/with/) [a](/zh/post/a/) gym [and](/zh/post/and/) [a](/zh/post/a/) swimming [pool](/zh/post/pool/)."
 
 ## 同义词
 - Given
 - Supposing
 - Assuming
-- [On](/post/on/) [condition](/post/condition/) [that](/post/that/)
-- [In](/post/in/) [case](/post/case/)
+- [On](/zh/post/on/) [condition](/zh/post/condition/) [that](/zh/post/that/)
+- [In](/zh/post/in/) [case](/zh/post/case/)

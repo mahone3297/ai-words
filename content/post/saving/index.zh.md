@@ -11,20 +11,20 @@ keywords = ['ai words', 'saving']
 /ˈsævɪŋ/
 
 ## 释义
-- **名词**: 节省的钱或资源；存款。例如: "[He](/post/he/) [put](/post/put/) [a](/post/a/) [part](/post/part/) [of](/post/of/) [his](/post/his/) [salary](/post/salary/) [into](/post/into/) savings [each](/post/each/) [month](/post/month/)."
-- **动词**: 节省；挽救。例如: "[Turning](/post/turning/) [off](/post/off/) [the](/post/the/) lights [when](/post/when/) [you](/post/you/) [leave](/post/leave/) [the](/post/the/) [room](/post/room/) [can](/post/can/) [save](/post/save/) [electricity](/post/electricity/)."
+- **名词**: 节省的钱或资源；存款。例如: "[He](/zh/post/he/) [put](/zh/post/put/) [a](/zh/post/a/) [part](/zh/post/part/) [of](/zh/post/of/) [his](/zh/post/his/) [salary](/zh/post/salary/) [into](/zh/post/into/) savings [each](/zh/post/each/) [month](/zh/post/month/)."
+- **动词**: 节省；挽救。例如: "[Turning](/zh/post/turning/) [off](/zh/post/off/) [the](/zh/post/the/) lights [when](/zh/post/when/) [you](/zh/post/you/) [leave](/zh/post/leave/) [the](/zh/post/the/) [room](/zh/post/room/) [can](/zh/post/can/) [save](/zh/post/save/) [electricity](/zh/post/electricity/)."
 
 ## 短语
-- "Savings [account](/post/account/)" 指储蓄账户。
-- "[Make](/post/make/) savings" 意为节省开支或金钱。
+- "Savings [account](/zh/post/account/)" 指储蓄账户。
+- "[Make](/zh/post/make/) savings" 意为节省开支或金钱。
 
 ## 例句
-- 名词: "[She](/post/she/) has [a](/post/a/) [substantial](/post/substantial/) [amount](/post/amount/) [of](/post/of/) savings [for](/post/for/) [her](/post/her/) [future](/post/future/)."
-- 动词: "[His](/post/his/) [quick](/post/quick/) [action](/post/action/) saved [the](/post/the/) drowning [child](/post/child/)."
+- 名词: "[She](/zh/post/she/) has [a](/zh/post/a/) [substantial](/zh/post/substantial/) [amount](/zh/post/amount/) [of](/zh/post/of/) savings [for](/zh/post/for/) [her](/zh/post/her/) [future](/zh/post/future/)."
+- 动词: "[His](/zh/post/his/) [quick](/zh/post/quick/) [action](/zh/post/action/) saved [the](/zh/post/the/) drowning [child](/zh/post/child/)."
 
 ## 同义词
-- [Economy](/post/economy/)
+- [Economy](/zh/post/economy/)
 - Frugality
 - Preservation
-- [Rescue](/post/rescue/)
-- [Conservation](/post/conservation/)
+- [Rescue](/zh/post/rescue/)
+- [Conservation](/zh/post/conservation/)

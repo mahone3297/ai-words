@@ -7,36 +7,36 @@ description = '[briːd] n.品种 vt.使繁殖'
 keywords = ['ai words', 'breed']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /briːd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **Breeding** (n): [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) producing offspring, typically [through](/en/post/through/) mating, [in](/en/post/in/) animals [or](/en/post/or/) plants. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) breeding [season](/en/post/season/) [for](/en/post/for/) birds is [in](/en/post/in/) [spring](/en/post/spring/)."
-2. **[Breed](/en/post/breed/)** (n): [A](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [variety](/en/post/variety/) [of](/en/post/of/) individuals [with](/en/post/with/) [similar](/en/post/similar/) characteristics, [especially](/en/post/especially/) [in](/en/post/in/) terms [of](/en/post/of/) genetics [or](/en/post/or/) ancestry. [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) [dog](/en/post/dog/) [breed](/en/post/breed/) has [its](/en/post/its/) [own](/en/post/own/) [distinct](/en/post/distinct/) traits."
-3. **Breeder** (n): [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) breeds animals [or](/en/post/or/) plants [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/), [such](/en/post/such/) [as](/en/post/as/) [show](/en/post/show/) [or](/en/post/or/) [sale](/en/post/sale/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) breeder carefully selects [the](/en/post/the/) [best](/en/post/best/) animals [for](/en/post/for/) [their](/en/post/their/) [herd](/en/post/herd/)."
+### [Noun](/post/noun/)
+1. **Breeding** (n): [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) producing offspring, typically [through](/post/through/) mating, [in](/post/in/) animals [or](/post/or/) plants. [For](/post/for/) [example](/post/example/): "[The](/post/the/) breeding [season](/post/season/) [for](/post/for/) birds is [in](/post/in/) [spring](/post/spring/)."
+2. **[Breed](/post/breed/)** (n): [A](/post/a/) [group](/post/group/) [or](/post/or/) [variety](/post/variety/) [of](/post/of/) individuals [with](/post/with/) [similar](/post/similar/) characteristics, [especially](/post/especially/) [in](/post/in/) terms [of](/post/of/) genetics [or](/post/or/) ancestry. [For](/post/for/) [example](/post/example/): "[Each](/post/each/) [dog](/post/dog/) [breed](/post/breed/) has [its](/post/its/) [own](/post/own/) [distinct](/post/distinct/) traits."
+3. **Breeder** (n): [A](/post/a/) [person](/post/person/) [who](/post/who/) breeds animals [or](/post/or/) plants [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/), [such](/post/such/) [as](/post/as/) [show](/post/show/) [or](/post/or/) [sale](/post/sale/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) breeder carefully selects [the](/post/the/) [best](/post/best/) animals [for](/post/for/) [their](/post/their/) [herd](/post/herd/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [produce](/en/post/produce/) offspring [by](/en/post/by/) mating [or](/en/post/or/) [artificial](/en/post/artificial/) [means](/en/post/means/). [For](/en/post/for/) [example](/en/post/example/): "Farmers [breed](/en/post/breed/) livestock [for](/en/post/for/) improved [yield](/en/post/yield/)."
-2. [To](/en/post/to/) [develop](/en/post/develop/) [or](/en/post/or/) [cultivate](/en/post/cultivate/) [a](/en/post/a/) [characteristic](/en/post/characteristic/) [or](/en/post/or/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) bred [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) resilience [in](/en/post/in/) [her](/en/post/her/) children."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [produce](/post/produce/) offspring [by](/post/by/) mating [or](/post/or/) [artificial](/post/artificial/) [means](/post/means/). [For](/post/for/) [example](/post/example/): "Farmers [breed](/post/breed/) livestock [for](/post/for/) improved [yield](/post/yield/)."
+2. [To](/post/to/) [develop](/post/develop/) [or](/post/or/) [cultivate](/post/cultivate/) [a](/post/a/) [characteristic](/post/characteristic/) [or](/post/or/) [quality](/post/quality/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) bred [a](/post/a/) [sense](/post/sense/) [of](/post/of/) resilience [in](/post/in/) [her](/post/her/) children."
 
 ## Phrases
-- "[Breed](/en/post/breed/) [selection](/en/post/selection/)" refers [to](/en/post/to/) choosing individuals [from](/en/post/from/) [a](/en/post/a/) [group](/en/post/group/) [to](/en/post/to/) [produce](/en/post/produce/) offspring [with](/en/post/with/) desired traits.
-- "Purebred" describes an [animal](/en/post/animal/) [or](/en/post/or/) [plant](/en/post/plant/) [with](/en/post/with/) [a](/en/post/a/) known, unmodified genetic lineage.
-- "Hybrid [breed](/en/post/breed/)" combines characteristics [from](/en/post/from/) [two](/en/post/two/) [different](/en/post/different/) breeds.
+- "[Breed](/post/breed/) [selection](/post/selection/)" refers [to](/post/to/) choosing individuals [from](/post/from/) [a](/post/a/) [group](/post/group/) [to](/post/to/) [produce](/post/produce/) offspring [with](/post/with/) desired traits.
+- "Purebred" describes an [animal](/post/animal/) [or](/post/or/) [plant](/post/plant/) [with](/post/with/) [a](/post/a/) known, unmodified genetic lineage.
+- "Hybrid [breed](/post/breed/)" combines characteristics [from](/post/from/) [two](/post/two/) [different](/post/different/) breeds.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [horse](/en/post/horse/) breeder showcased [their](/en/post/their/) prized [Arabian](/en/post/arabian/) stallions [at](/en/post/at/) [the](/en/post/the/) [event](/en/post/event/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) scientists are breeding plants [with](/en/post/with/) [resistance](/en/post/resistance/) [to](/en/post/to/) pests."
-- **Breeding [program](/en/post/program/)** is [a](/en/post/a/) systematic [effort](/en/post/effort/) [to](/en/post/to/) [improve](/en/post/improve/) [a](/en/post/a/) species [or](/en/post/or/) [population](/en/post/population/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [horse](/post/horse/) breeder showcased [their](/post/their/) prized [Arabian](/post/arabian/) stallions [at](/post/at/) [the](/post/the/) [event](/post/event/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) scientists are breeding plants [with](/post/with/) [resistance](/post/resistance/) [to](/post/to/) pests."
+- **Breeding [program](/post/program/)** is [a](/post/a/) systematic [effort](/post/effort/) [to](/post/to/) [improve](/post/improve/) [a](/post/a/) species [or](/post/or/) [population](/post/population/).
 
 ## Synonyms
 - Reproduction
 - Crossbreed
-- [Mate](/en/post/mate/)
-- [Cultivate](/en/post/cultivate/)
-- [Develop](/en/post/develop/)
+- [Mate](/post/mate/)
+- [Cultivate](/post/cultivate/)
+- [Develop](/post/develop/)
 
 ## Antonyms
-- Inbreeding ([limited](/en/post/limited/) [to](/en/post/to/) [within](/en/post/within/) [a](/en/post/a/) [small](/en/post/small/) genetic [pool](/en/post/pool/))
-- Hybridize (producing offspring [between](/en/post/between/) [different](/en/post/different/) species)
+- Inbreeding ([limited](/post/limited/) [to](/post/to/) [within](/post/within/) [a](/post/a/) [small](/post/small/) genetic [pool](/post/pool/))
+- Hybridize (producing offspring [between](/post/between/) [different](/post/different/) species)

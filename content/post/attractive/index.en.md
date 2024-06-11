@@ -7,22 +7,22 @@ description = '[əˈtræktiv] a.有吸引力的'
 keywords = ['ai words', 'attractive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈtræktɪv/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [the](/en/post/the/) [power](/en/post/power/) [to](/en/post/to/) [attract](/en/post/attract/) [or](/en/post/or/) [inspire](/en/post/inspire/) [interest](/en/post/interest/), admiration, [or](/en/post/or/) [affection](/en/post/affection/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [beautiful](/en/post/beautiful/) [sunset](/en/post/sunset/) was [very](/en/post/very/) [attractive](/en/post/attractive/) [to](/en/post/to/) [the](/en/post/the/) tourists."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) an [attractive](/en/post/attractive/) [manner](/en/post/manner/); appealingly. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) danced attractively [on](/en/post/on/) [stage](/en/post/stage/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [the](/post/the/) [power](/post/power/) [to](/post/to/) [attract](/post/attract/) [or](/post/or/) [inspire](/post/inspire/) [interest](/post/interest/), admiration, [or](/post/or/) [affection](/post/affection/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [beautiful](/post/beautiful/) [sunset](/post/sunset/) was [very](/post/very/) [attractive](/post/attractive/) [to](/post/to/) [the](/post/the/) tourists."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) an [attractive](/post/attractive/) [manner](/post/manner/); appealingly. [For](/post/for/) [example](/post/example/): "[She](/post/she/) danced attractively [on](/post/on/) [stage](/post/stage/)."
 
 ## Phrases
-- "An [attractive](/en/post/attractive/) [person](/en/post/person/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is physically [or](/en/post/or/) aesthetically pleasing.
-- "[Attractive](/en/post/attractive/) features" denote qualities [that](/en/post/that/) [draw](/en/post/draw/) [attention](/en/post/attention/) [or](/en/post/or/) admiration.
-- "[Be](/en/post/be/) attracted [to](/en/post/to/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [feel](/en/post/feel/) drawn [or](/en/post/or/) inclined towards [it](/en/post/it/).
+- "An [attractive](/post/attractive/) [person](/post/person/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is physically [or](/post/or/) aesthetically pleasing.
+- "[Attractive](/post/attractive/) features" denote qualities [that](/post/that/) [draw](/post/draw/) [attention](/post/attention/) [or](/post/or/) admiration.
+- "[Be](/post/be/) attracted [to](/post/to/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [feel](/post/feel/) drawn [or](/post/or/) inclined towards [it](/post/it/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [restaurant](/en/post/restaurant/) was [extremely](/en/post/extremely/) [attractive](/en/post/attractive/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) teacher's [teaching](/en/post/teaching/) [style](/en/post/style/) was [both](/en/post/both/) informative [and](/en/post/and/) attractively presented."
-- "[The](/en/post/the/) [job](/en/post/job/) [offer](/en/post/offer/) was [too](/en/post/too/) [good](/en/post/good/) [to](/en/post/to/) [refuse](/en/post/refuse/), [as](/en/post/as/) [it](/en/post/it/) came [with](/en/post/with/) an [attractive](/en/post/attractive/) [salary](/en/post/salary/) [package](/en/post/package/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [restaurant](/post/restaurant/) was [extremely](/post/extremely/) [attractive](/post/attractive/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) teacher's [teaching](/post/teaching/) [style](/post/style/) was [both](/post/both/) informative [and](/post/and/) attractively presented."
+- "[The](/post/the/) [job](/post/job/) [offer](/post/offer/) was [too](/post/too/) [good](/post/good/) [to](/post/to/) [refuse](/post/refuse/), [as](/post/as/) [it](/post/it/) came [with](/post/with/) an [attractive](/post/attractive/) [salary](/post/salary/) [package](/post/package/)."
 
 ## Synonyms
 - Appealing
@@ -39,9 +39,9 @@ keywords = ['ai words', 'attractive']
 
 ## Antonyms
 - Unattractive
-- [Ugly](/en/post/ugly/)
+- [Ugly](/post/ugly/)
 - Repulsive
 - Boring
-- [Dull](/en/post/dull/)
+- [Dull](/post/dull/)
 - Unappealing
 - Uninteresting

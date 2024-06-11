@@ -11,20 +11,20 @@ keywords = ['ai words', 'preference']
 /prɪˈfɜːrəns/
 
 ## 释义
-- **名词**: 喜好，偏爱；优先选择。例如: "[She](/post/she/) has [a](/post/a/) [strong](/post/strong/) [preference](/post/preference/) [for](/post/for/) [classical](/post/classical/) [music](/post/music/) [over](/post/over/) [pop](/post/pop/)."
-- **动词**: 更喜欢，倾向于。例如: "I [prefer](/post/prefer/) [tea](/post/tea/) [to](/post/to/) [coffee](/post/coffee/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- **名词**: 喜好，偏爱；优先选择。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [strong](/zh/post/strong/) [preference](/zh/post/preference/) [for](/zh/post/for/) [classical](/zh/post/classical/) [music](/zh/post/music/) [over](/zh/post/over/) [pop](/zh/post/pop/)."
+- **动词**: 更喜欢，倾向于。例如: "I [prefer](/zh/post/prefer/) [tea](/zh/post/tea/) [to](/zh/post/to/) [coffee](/zh/post/coffee/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
 
 ## 短语
-- "[have](/post/have/) [a](/post/a/) [preference](/post/preference/) [for](/post/for/)" 表示对某物有偏好。例如: "[She](/post/she/) has [a](/post/a/) [preference](/post/preference/) [for](/post/for/) [red](/post/red/) [over](/post/over/) [blue](/post/blue/)."
-- "[show](/post/show/) [a](/post/a/) [preference](/post/preference/)" 意为表现出对某事物的倾向。例如: "[The](/post/the/) children showed [a](/post/a/) [preference](/post/preference/) [for](/post/for/) playing [outdoors](/post/outdoors/)."
+- "[have](/zh/post/have/) [a](/zh/post/a/) [preference](/zh/post/preference/) [for](/zh/post/for/)" 表示对某物有偏好。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [preference](/zh/post/preference/) [for](/zh/post/for/) [red](/zh/post/red/) [over](/zh/post/over/) [blue](/zh/post/blue/)."
+- "[show](/zh/post/show/) [a](/zh/post/a/) [preference](/zh/post/preference/)" 意为表现出对某事物的倾向。例如: "[The](/zh/post/the/) children showed [a](/zh/post/a/) [preference](/zh/post/preference/) [for](/zh/post/for/) playing [outdoors](/zh/post/outdoors/)."
 
 ## 例句
-- 名词: "[His](/post/his/) [preference](/post/preference/) [for](/post/for/) [adventure](/post/adventure/) movies led [him](/post/him/) [to](/post/to/) [choose](/post/choose/) [that](/post/that/) [film](/post/film/)."
-- 动词: "[When](/post/when/) given [a](/post/a/) [choice](/post/choice/), I [always](/post/always/) [prefer](/post/prefer/) [to](/post/to/) [work](/post/work/) [from](/post/from/) [home](/post/home/)."
+- 名词: "[His](/zh/post/his/) [preference](/zh/post/preference/) [for](/zh/post/for/) [adventure](/zh/post/adventure/) movies led [him](/zh/post/him/) [to](/zh/post/to/) [choose](/zh/post/choose/) [that](/zh/post/that/) [film](/zh/post/film/)."
+- 动词: "[When](/zh/post/when/) given [a](/zh/post/a/) [choice](/zh/post/choice/), I [always](/zh/post/always/) [prefer](/zh/post/prefer/) [to](/zh/post/to/) [work](/zh/post/work/) [from](/zh/post/from/) [home](/zh/post/home/)."
 
 ## 同义词
 - liking
 - fondness
 - inclination
-- [taste](/post/taste/)
+- [taste](/zh/post/taste/)
 - predilection

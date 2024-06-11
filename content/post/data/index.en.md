@@ -7,32 +7,32 @@ description = '[ˈdeitə] n.数据; 资料'
 keywords = ['ai words', 'data']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /datə/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. Facts [or](/en/post/or/) figures collected [and](/en/post/and/) organized [to](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) [a](/en/post/a/) [basis](/en/post/basis/) [for](/en/post/for/) [analysis](/en/post/analysis/), [discussion](/en/post/discussion/), [or](/en/post/or/) [further](/en/post/further/) [study](/en/post/study/). 2. [Statistical](/en/post/statistical/) [information](/en/post/information/); [data](/en/post/data/) sets. 3. [The](/en/post/the/) [raw](/en/post/raw/) materials [or](/en/post/or/) [information](/en/post/information/) [used](/en/post/used/) [to](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [inform](/en/post/inform/) [a](/en/post/a/) [computer](/en/post/computer/) [program](/en/post/program/) [or](/en/post/or/) database.
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [collect](/en/post/collect/), analyze, [or](/en/post/or/) [provide](/en/post/provide/) [information](/en/post/information/) [in](/en/post/in/) [a](/en/post/a/) structured [form](/en/post/form/).
-- **[Adjective](/en/post/adjective/)**: Pertaining [to](/en/post/to/) facts [or](/en/post/or/) figures; [statistical](/en/post/statistical/).
+- **[Noun](/post/noun/)**: 1. Facts [or](/post/or/) figures collected [and](/post/and/) organized [to](/post/to/) [serve](/post/serve/) [as](/post/as/) [a](/post/a/) [basis](/post/basis/) [for](/post/for/) [analysis](/post/analysis/), [discussion](/post/discussion/), [or](/post/or/) [further](/post/further/) [study](/post/study/). 2. [Statistical](/post/statistical/) [information](/post/information/); [data](/post/data/) sets. 3. [The](/post/the/) [raw](/post/raw/) materials [or](/post/or/) [information](/post/information/) [used](/post/used/) [to](/post/to/) [create](/post/create/) [or](/post/or/) [inform](/post/inform/) [a](/post/a/) [computer](/post/computer/) [program](/post/program/) [or](/post/or/) database.
+- **[Verb](/post/verb/)**: [To](/post/to/) [collect](/post/collect/), analyze, [or](/post/or/) [provide](/post/provide/) [information](/post/information/) [in](/post/in/) [a](/post/a/) structured [form](/post/form/).
+- **[Adjective](/post/adjective/)**: Pertaining [to](/post/to/) facts [or](/post/or/) figures; [statistical](/post/statistical/).
 
 ## Phrases
-- "[Process](/en/post/process/) [data](/en/post/data/)" [means](/en/post/means/) [to](/en/post/to/) [handle](/en/post/handle/) [or](/en/post/or/) manipulate [information](/en/post/information/).
-- "[Large](/en/post/large/) [data](/en/post/data/) sets" refers [to](/en/post/to/) [extensive](/en/post/extensive/) collections [of](/en/post/of/) [information](/en/post/information/).
-- "[Big](/en/post/big/) [data](/en/post/data/) analytics" involves analyzing [vast](/en/post/vast/) amounts [of](/en/post/of/) [data](/en/post/data/) [for](/en/post/for/) insights.
+- "[Process](/post/process/) [data](/post/data/)" [means](/post/means/) [to](/post/to/) [handle](/post/handle/) [or](/post/or/) manipulate [information](/post/information/).
+- "[Large](/post/large/) [data](/post/data/) sets" refers [to](/post/to/) [extensive](/post/extensive/) collections [of](/post/of/) [information](/post/information/).
+- "[Big](/post/big/) [data](/post/data/) analytics" involves analyzing [vast](/post/vast/) amounts [of](/post/of/) [data](/post/data/) [for](/post/for/) insights.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) is investing [in](/en/post/in/) [advanced](/en/post/advanced/) [data](/en/post/data/) [analysis](/en/post/analysis/) tools [to](/en/post/to/) [improve](/en/post/improve/) [efficiency](/en/post/efficiency/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) is tasked [with](/en/post/with/) [data](/en/post/data/) [entry](/en/post/entry/) [to](/en/post/to/) [input](/en/post/input/) [customer](/en/post/customer/) [information](/en/post/information/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [study](/en/post/study/) relies [on](/en/post/on/) [a](/en/post/a/) [wealth](/en/post/wealth/) [of](/en/post/of/) [data](/en/post/data/) [from](/en/post/from/) [various](/en/post/various/) sources."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) is investing [in](/post/in/) [advanced](/post/advanced/) [data](/post/data/) [analysis](/post/analysis/) tools [to](/post/to/) [improve](/post/improve/) [efficiency](/post/efficiency/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) is tasked [with](/post/with/) [data](/post/data/) [entry](/post/entry/) [to](/post/to/) [input](/post/input/) [customer](/post/customer/) [information](/post/information/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [study](/post/study/) relies [on](/post/on/) [a](/post/a/) [wealth](/post/wealth/) [of](/post/of/) [data](/post/data/) [from](/post/from/) [various](/post/various/) sources."
 
 ## Synonyms
-- [Information](/en/post/information/)
+- [Information](/post/information/)
 - Facts
 - Stats
-- Quantitative [data](/en/post/data/)
-- [Raw](/en/post/raw/) [data](/en/post/data/)
-- [Data](/en/post/data/) points
-- [Data](/en/post/data/) sets
+- Quantitative [data](/post/data/)
+- [Raw](/post/raw/) [data](/post/data/)
+- [Data](/post/data/) points
+- [Data](/post/data/) sets
 
 ## Antonyms
-- [None](/en/post/none/) ([as](/en/post/as/) it's [not](/en/post/not/) [a](/en/post/a/) descriptive [word](/en/post/word/) [with](/en/post/with/) [a](/en/post/a/) [clear](/en/post/clear/) [opposite](/en/post/opposite/))
+- [None](/post/none/) ([as](/post/as/) it's [not](/post/not/) [a](/post/a/) descriptive [word](/post/word/) [with](/post/with/) [a](/post/a/) [clear](/post/clear/) [opposite](/post/opposite/))

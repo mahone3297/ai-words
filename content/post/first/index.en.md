@@ -7,34 +7,34 @@ description = '[fəːst] num.第一 ad.最初'
 keywords = ['ai words', 'first']
 +++
 
-## [Word](/en/post/word/): [First](/en/post/first/)
+## [Word](/post/word/): [First](/post/first/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɜːrst/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Being](/en/post/being/) [before](/en/post/before/) [all](/en/post/all/) others [with](/en/post/with/) [respect](/en/post/respect/) [to](/en/post/to/) [time](/en/post/time/), [order](/en/post/order/), [rank](/en/post/rank/), [or](/en/post/or/) [importance](/en/post/importance/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) finished [first](/en/post/first/) [in](/en/post/in/) [the](/en/post/the/) [race](/en/post/race/)."
-  - _Ordinal number_ (numeral [use](/en/post/use/)): Denoting [the](/en/post/the/) [first](/en/post/first/) [item](/en/post/item/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/), [sequence](/en/post/sequence/), [or](/en/post/or/) ranking; coming [before](/en/post/before/) [all](/en/post/all/) others. [Example](/en/post/example/): "[The](/en/post/the/) [first](/en/post/first/) [chapter](/en/post/chapter/) explains [the](/en/post/the/) basics."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is [first](/en/post/first/) [in](/en/post/in/) [a](/en/post/a/) [sequence](/en/post/sequence/), [series](/en/post/series/), [or](/en/post/or/) [group](/en/post/group/). [Example](/en/post/example/): "[He](/en/post/he/) won [the](/en/post/the/) [gold](/en/post/gold/) [medal](/en/post/medal/) [as](/en/post/as/) [the](/en/post/the/) [first](/en/post/first/) [across](/en/post/across/) [the](/en/post/the/) [finish](/en/post/finish/) [line](/en/post/line/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) premiere [or](/en/post/or/) [initial](/en/post/initial/) [occurrence](/en/post/occurrence/): "[Their](/en/post/their/) [first](/en/post/first/) [meeting](/en/post/meeting/) was unforgettable."
+- **[Adjective](/post/adjective/)**: [Being](/post/being/) [before](/post/before/) [all](/post/all/) others [with](/post/with/) [respect](/post/respect/) [to](/post/to/) [time](/post/time/), [order](/post/order/), [rank](/post/rank/), [or](/post/or/) [importance](/post/importance/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) finished [first](/post/first/) [in](/post/in/) [the](/post/the/) [race](/post/race/)."
+  - _Ordinal number_ (numeral [use](/post/use/)): Denoting [the](/post/the/) [first](/post/first/) [item](/post/item/) [in](/post/in/) [a](/post/a/) [series](/post/series/), [sequence](/post/sequence/), [or](/post/or/) ranking; coming [before](/post/before/) [all](/post/all/) others. [Example](/post/example/): "[The](/post/the/) [first](/post/first/) [chapter](/post/chapter/) explains [the](/post/the/) basics."
+- **[Noun](/post/noun/)**: [The](/post/the/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is [first](/post/first/) [in](/post/in/) [a](/post/a/) [sequence](/post/sequence/), [series](/post/series/), [or](/post/or/) [group](/post/group/). [Example](/post/example/): "[He](/post/he/) won [the](/post/the/) [gold](/post/gold/) [medal](/post/medal/) [as](/post/as/) [the](/post/the/) [first](/post/first/) [across](/post/across/) [the](/post/the/) [finish](/post/finish/) [line](/post/line/)."
+  - [Also](/post/also/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) premiere [or](/post/or/) [initial](/post/initial/) [occurrence](/post/occurrence/): "[Their](/post/their/) [first](/post/first/) [meeting](/post/meeting/) was unforgettable."
   
 ## Phrases
-- "[At](/en/post/at/) [first](/en/post/first/)": Initially [or](/en/post/or/) [to](/en/post/to/) [begin](/en/post/begin/) [with](/en/post/with/). [Example](/en/post/example/): "[At](/en/post/at/) [first](/en/post/first/), [he](/en/post/he/) [found](/en/post/found/) [the](/en/post/the/) [task](/en/post/task/) daunting."
-- "[First](/en/post/first/) [and](/en/post/and/) [foremost](/en/post/foremost/)": [Most](/en/post/most/) importantly [or](/en/post/or/) [primarily](/en/post/primarily/). [Example](/en/post/example/): "[First](/en/post/first/) [and](/en/post/and/) [foremost](/en/post/foremost/), [we](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [ensure](/en/post/ensure/) [safety](/en/post/safety/)."
-- "[First](/en/post/first/) [come](/en/post/come/), [first](/en/post/first/) served": [A](/en/post/a/) [principle](/en/post/principle/) indicating [that](/en/post/that/) [those](/en/post/those/) [who](/en/post/who/) [arrive](/en/post/arrive/) [or](/en/post/or/) [respond](/en/post/respond/) earliest [will](/en/post/will/) [be](/en/post/be/) attended [to](/en/post/to/) [or](/en/post/or/) [receive](/en/post/receive/) [something](/en/post/something/) [before](/en/post/before/) others. [Example](/en/post/example/): "[The](/en/post/the/) tickets were sold [on](/en/post/on/) [a](/en/post/a/) first-come, first-served [basis](/en/post/basis/)."
+- "[At](/post/at/) [first](/post/first/)": Initially [or](/post/or/) [to](/post/to/) [begin](/post/begin/) [with](/post/with/). [Example](/post/example/): "[At](/post/at/) [first](/post/first/), [he](/post/he/) [found](/post/found/) [the](/post/the/) [task](/post/task/) daunting."
+- "[First](/post/first/) [and](/post/and/) [foremost](/post/foremost/)": [Most](/post/most/) importantly [or](/post/or/) [primarily](/post/primarily/). [Example](/post/example/): "[First](/post/first/) [and](/post/and/) [foremost](/post/foremost/), [we](/post/we/) [need](/post/need/) [to](/post/to/) [ensure](/post/ensure/) [safety](/post/safety/)."
+- "[First](/post/first/) [come](/post/come/), [first](/post/first/) served": [A](/post/a/) [principle](/post/principle/) indicating [that](/post/that/) [those](/post/those/) [who](/post/who/) [arrive](/post/arrive/) [or](/post/or/) [respond](/post/respond/) earliest [will](/post/will/) [be](/post/be/) attended [to](/post/to/) [or](/post/or/) [receive](/post/receive/) [something](/post/something/) [before](/post/before/) others. [Example](/post/example/): "[The](/post/the/) tickets were sold [on](/post/on/) [a](/post/a/) first-come, first-served [basis](/post/basis/)."
   
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "She's [always](/en/post/always/) [the](/en/post/the/) [first](/en/post/first/) [one](/en/post/one/) [to](/en/post/to/) [arrive](/en/post/arrive/) [at](/en/post/at/) [work](/en/post/work/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/)."
-- **[Noun](/en/post/noun/)**: "[This](/en/post/this/) is [my](/en/post/my/) [first](/en/post/first/) [time](/en/post/time/) visiting Paris; it's [absolutely](/en/post/absolutely/) breathtaking."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "She's [always](/post/always/) [the](/post/the/) [first](/post/first/) [one](/post/one/) [to](/post/to/) [arrive](/post/arrive/) [at](/post/at/) [work](/post/work/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- **[Noun](/post/noun/)**: "[This](/post/this/) is [my](/post/my/) [first](/post/first/) [time](/post/time/) visiting Paris; it's [absolutely](/post/absolutely/) breathtaking."
 
 ## Synonyms
-- [Initial](/en/post/initial/)
-- [Primary](/en/post/primary/)
-- [Foremost](/en/post/foremost/)
+- [Initial](/post/initial/)
+- [Primary](/post/primary/)
+- [Foremost](/post/foremost/)
 - Premiere
-- [Chief](/en/post/chief/) ([in](/en/post/in/) context [of](/en/post/of/) [importance](/en/post/importance/))
-- Earliest ([in](/en/post/in/) context [of](/en/post/of/) [time](/en/post/time/)) 
-- [Top](/en/post/top/) ([in](/en/post/in/) rankings)
-- [Lead](/en/post/lead/) ([as](/en/post/as/) [in](/en/post/in/) [lead](/en/post/lead/) [position](/en/post/position/)) 
+- [Chief](/post/chief/) ([in](/post/in/) context [of](/post/of/) [importance](/post/importance/))
+- Earliest ([in](/post/in/) context [of](/post/of/) [time](/post/time/)) 
+- [Top](/post/top/) ([in](/post/in/) rankings)
+- [Lead](/post/lead/) ([as](/post/as/) [in](/post/in/) [lead](/post/lead/) [position](/post/position/)) 
 
-[Note](/en/post/note/): [As](/en/post/as/) '[first](/en/post/first/)' [can](/en/post/can/) [also](/en/post/also/) [function](/en/post/function/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [in](/en/post/in/) [certain](/en/post/certain/) contexts (e.g., "I'll [do](/en/post/do/) [this](/en/post/this/) [first](/en/post/first/)"), [but](/en/post/but/) [its](/en/post/its/) adverbial [usage](/en/post/usage/) is [often](/en/post/often/) implied [rather](/en/post/rather/) [than](/en/post/than/) explicit, [hence](/en/post/hence/) [not](/en/post/not/) typically defined [separately](/en/post/separately/) [like](/en/post/like/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/). [It](/en/post/it/) [can](/en/post/can/) [modify](/en/post/modify/) [a](/en/post/a/) [verb](/en/post/verb/) [to](/en/post/to/) [indicate](/en/post/indicate/) priority [or](/en/post/or/) [order](/en/post/order/) [of](/en/post/of/) [action](/en/post/action/).
+[Note](/post/note/): [As](/post/as/) '[first](/post/first/)' [can](/post/can/) [also](/post/also/) [function](/post/function/) [as](/post/as/) an [adverb](/post/adverb/) [in](/post/in/) [certain](/post/certain/) contexts (e.g., "I'll [do](/post/do/) [this](/post/this/) [first](/post/first/)"), [but](/post/but/) [its](/post/its/) adverbial [usage](/post/usage/) is [often](/post/often/) implied [rather](/post/rather/) [than](/post/than/) explicit, [hence](/post/hence/) [not](/post/not/) typically defined [separately](/post/separately/) [like](/post/like/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/). [It](/post/it/) [can](/post/can/) [modify](/post/modify/) [a](/post/a/) [verb](/post/verb/) [to](/post/to/) [indicate](/post/indicate/) priority [or](/post/or/) [order](/post/order/) [of](/post/of/) [action](/post/action/).

@@ -7,31 +7,31 @@ description = '[ˈpeni] n.(英)便士；(美)分'
 keywords = ['ai words', 'penny']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈni/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/), [flat](/en/post/flat/), [circular](/en/post/circular/) [coin](/en/post/coin/) [with](/en/post/with/) [a](/en/post/a/) raised [edge](/en/post/edge/), [once](/en/post/once/) [widely](/en/post/widely/) [used](/en/post/used/) [as](/en/post/as/) [the](/en/post/the/) [standard](/en/post/standard/) [unit](/en/post/unit/) [of](/en/post/of/) currency [in](/en/post/in/) [many](/en/post/many/) countries, [especially](/en/post/especially/) [the](/en/post/the/) United States. [**Etymology**: [from](/en/post/from/) [Old](/en/post/old/) French penic, [from](/en/post/from/) Latin penna, [feather](/en/post/feather/), referring [to](/en/post/to/) [the](/en/post/the/) coin's resemblance [to](/en/post/to/) [a](/en/post/a/) bird's [feather](/en/post/feather/)](https://www.etymonline.com/[word](/en/post/word/)/[penny](/en/post/penny/)).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [pay](/en/post/pay/) [a](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/), typically [one](/en/post/one/) [penny](/en/post/penny/), [as](/en/post/as/) [a](/en/post/a/) symbolic [gesture](/en/post/gesture/) [or](/en/post/or/) [in](/en/post/in/) jest. [For](/en/post/for/) [example](/en/post/example/): "I'll [just](/en/post/just/) [penny](/en/post/penny/) [the](/en/post/the/) [fare](/en/post/fare/) [for](/en/post/for/) [the](/en/post/the/) [taxi](/en/post/taxi/) [ride](/en/post/ride/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/), [flat](/post/flat/), [circular](/post/circular/) [coin](/post/coin/) [with](/post/with/) [a](/post/a/) raised [edge](/post/edge/), [once](/post/once/) [widely](/post/widely/) [used](/post/used/) [as](/post/as/) [the](/post/the/) [standard](/post/standard/) [unit](/post/unit/) [of](/post/of/) currency [in](/post/in/) [many](/post/many/) countries, [especially](/post/especially/) [the](/post/the/) United States. [**Etymology**: [from](/post/from/) [Old](/post/old/) French penic, [from](/post/from/) Latin penna, [feather](/post/feather/), referring [to](/post/to/) [the](/post/the/) coin's resemblance [to](/post/to/) [a](/post/a/) bird's [feather](/post/feather/)](https://www.etymonline.com/[word](/post/word/)/[penny](/post/penny/)).
+- **[Verb](/post/verb/)**: [To](/post/to/) [pay](/post/pay/) [a](/post/a/) [small](/post/small/) [amount](/post/amount/), typically [one](/post/one/) [penny](/post/penny/), [as](/post/as/) [a](/post/a/) symbolic [gesture](/post/gesture/) [or](/post/or/) [in](/post/in/) jest. [For](/post/for/) [example](/post/example/): "I'll [just](/post/just/) [penny](/post/penny/) [the](/post/the/) [fare](/post/fare/) [for](/post/for/) [the](/post/the/) [taxi](/post/taxi/) [ride](/post/ride/)."
 
 ## Phrases
-- "[Pay](/en/post/pay/) [a](/en/post/a/) [penny](/en/post/penny/)" [or](/en/post/or/) "[Penny](/en/post/penny/) [for](/en/post/for/) [your](/en/post/your/) thoughts" are idiomatic expressions, [respectively](/en/post/respectively/) [meaning](/en/post/meaning/) [to](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) [a](/en/post/a/) [small](/en/post/small/) [sum](/en/post/sum/) [or](/en/post/or/) [to](/en/post/to/) [inquire](/en/post/inquire/) [about](/en/post/about/) someone's [opinion](/en/post/opinion/).
-- "Throwing [in](/en/post/in/) [a](/en/post/a/) [penny](/en/post/penny/)" [means](/en/post/means/) making [a](/en/post/a/) [small](/en/post/small/) donation [or](/en/post/or/) contribution.
-- "Penny-pinching" refers [to](/en/post/to/) [being](/en/post/being/) [very](/en/post/very/) frugal or吝啬 [with](/en/post/with/) [money](/en/post/money/).
+- "[Pay](/post/pay/) [a](/post/a/) [penny](/post/penny/)" [or](/post/or/) "[Penny](/post/penny/) [for](/post/for/) [your](/post/your/) thoughts" are idiomatic expressions, [respectively](/post/respectively/) [meaning](/post/meaning/) [to](/post/to/) [ask](/post/ask/) [for](/post/for/) [a](/post/a/) [small](/post/small/) [sum](/post/sum/) [or](/post/or/) [to](/post/to/) [inquire](/post/inquire/) [about](/post/about/) someone's [opinion](/post/opinion/).
+- "Throwing [in](/post/in/) [a](/post/a/) [penny](/post/penny/)" [means](/post/means/) making [a](/post/a/) [small](/post/small/) donation [or](/post/or/) contribution.
+- "Penny-pinching" refers [to](/post/to/) [being](/post/being/) [very](/post/very/) frugal or吝啬 [with](/post/with/) [money](/post/money/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) saved [her](/en/post/her/) pennies [to](/en/post/to/) [buy](/en/post/buy/) [a](/en/post/a/) [new](/en/post/new/) [book](/en/post/book/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) kids [love](/en/post/love/) [to](/en/post/to/) [penny](/en/post/penny/) [the](/en/post/the/) [candy](/en/post/candy/) [machine](/en/post/machine/) [at](/en/post/at/) [the](/en/post/the/) arcade."
-- **Idiomatic**: "I [always](/en/post/always/) [enjoy](/en/post/enjoy/) hearing [your](/en/post/your/) [penny](/en/post/penny/) [for](/en/post/for/) [your](/en/post/your/) thoughts [on](/en/post/on/) [the](/en/post/the/) [matter](/en/post/matter/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) saved [her](/post/her/) pennies [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) [book](/post/book/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) kids [love](/post/love/) [to](/post/to/) [penny](/post/penny/) [the](/post/the/) [candy](/post/candy/) [machine](/post/machine/) [at](/post/at/) [the](/post/the/) arcade."
+- **Idiomatic**: "I [always](/post/always/) [enjoy](/post/enjoy/) hearing [your](/post/your/) [penny](/post/penny/) [for](/post/for/) [your](/post/your/) thoughts [on](/post/on/) [the](/post/the/) [matter](/post/matter/)."
 
 ## Synonyms
 - Cents
-- Dime (informal, [US](/en/post/us/))
+- Dime (informal, [US](/post/us/))
 - Tuppence (UK)
-- Farthing ([historical](/en/post/historical/), UK)
-- [Tip](/en/post/tip/) (informal, [for](/en/post/for/) [a](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/))
+- Farthing ([historical](/post/historical/), UK)
+- [Tip](/post/tip/) (informal, [for](/post/for/) [a](/post/a/) [small](/post/small/) [amount](/post/amount/))
 
 ## Antonyms
 - Extravagant
 - Prodigal
-- Spendthrift ([regarding](/en/post/regarding/) [money](/en/post/money/))
+- Spendthrift ([regarding](/post/regarding/) [money](/post/money/))

@@ -12,26 +12,26 @@ keywords = ['ai words', 'trade']
 
 ## 释义
 - **名词**:
-  - 贸易；商业活动。例如: "[International](/post/international/) [trade](/post/trade/) is [vital](/post/vital/) [for](/post/for/) [many](/post/many/) countries' economies."
-  - 交易；买卖。例如: "[They](/post/they/) made [a](/post/a/) [good](/post/good/) [trade](/post/trade/) [in](/post/in/) antique [furniture](/post/furniture/)."
-  - 专业；行业。例如: "[He](/post/he/) comes [from](/post/from/) [a](/post/a/) [long](/post/long/) [line](/post/line/) [of](/post/of/) farmers; farming is [his](/post/his/) [trade](/post/trade/)."
+  - 贸易；商业活动。例如: "[International](/zh/post/international/) [trade](/zh/post/trade/) is [vital](/zh/post/vital/) [for](/zh/post/for/) [many](/zh/post/many/) countries' economies."
+  - 交易；买卖。例如: "[They](/zh/post/they/) made [a](/zh/post/a/) [good](/zh/post/good/) [trade](/zh/post/trade/) [in](/zh/post/in/) antique [furniture](/zh/post/furniture/)."
+  - 专业；行业。例如: "[He](/zh/post/he/) comes [from](/zh/post/from/) [a](/zh/post/a/) [long](/zh/post/long/) [line](/zh/post/line/) [of](/zh/post/of/) farmers; farming is [his](/zh/post/his/) [trade](/zh/post/trade/)."
 
 - **动词**:
-  - 进行交易。例如: "[The](/post/the/) [company](/post/company/) trades [with](/post/with/) partners [in](/post/in/) Europe."
-  - 交换；以物换物。例如: "[We](/post/we/) traded [our](/post/our/) [old](/post/old/) [car](/post/car/) [for](/post/for/) [a](/post/a/) [new](/post/new/) [one](/post/one/)."
+  - 进行交易。例如: "[The](/zh/post/the/) [company](/zh/post/company/) trades [with](/zh/post/with/) partners [in](/zh/post/in/) Europe."
+  - 交换；以物换物。例如: "[We](/zh/post/we/) traded [our](/zh/post/our/) [old](/zh/post/old/) [car](/zh/post/car/) [for](/zh/post/for/) [a](/zh/post/a/) [new](/zh/post/new/) [one](/zh/post/one/)."
 
 ## 短语
-- "[Trade](/post/trade/) [off](/post/off/)" 意味着交换或权衡。例如: "[They](/post/they/) had [to](/post/to/) [trade](/post/trade/) [off](/post/off/) [quality](/post/quality/) [for](/post/for/) [quantity](/post/quantity/)."
-- "[In](/post/in/) [the](/post/the/) [trade](/post/trade/)" 表示在某个行业中工作。例如: "She's been [in](/post/in/) [the](/post/the/) [fashion](/post/fashion/) [trade](/post/trade/) [for](/post/for/) [over](/post/over/) [a](/post/a/) [decade](/post/decade/)."
+- "[Trade](/zh/post/trade/) [off](/zh/post/off/)" 意味着交换或权衡。例如: "[They](/zh/post/they/) had [to](/zh/post/to/) [trade](/zh/post/trade/) [off](/zh/post/off/) [quality](/zh/post/quality/) [for](/zh/post/for/) [quantity](/zh/post/quantity/)."
+- "[In](/zh/post/in/) [the](/zh/post/the/) [trade](/zh/post/trade/)" 表示在某个行业中工作。例如: "She's been [in](/zh/post/in/) [the](/zh/post/the/) [fashion](/zh/post/fashion/) [trade](/zh/post/trade/) [for](/zh/post/for/) [over](/zh/post/over/) [a](/zh/post/a/) [decade](/zh/post/decade/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [trade](/post/trade/) deficit has been [a](/post/a/) [major](/post/major/) [concern](/post/concern/) [for](/post/for/) [the](/post/the/) [government](/post/government/)."
-- 动词: "[They](/post/they/) [trade](/post/trade/) stocks [on](/post/on/) [the](/post/the/) [New](/post/new/) York [Stock](/post/stock/) [Exchange](/post/exchange/)."
-- "[He](/post/he/) [used](/post/used/) [to](/post/to/) [trade](/post/trade/) [goods](/post/goods/) [with](/post/with/) neighboring villages."
+- 名词: "[The](/zh/post/the/) [trade](/zh/post/trade/) deficit has been [a](/zh/post/a/) [major](/zh/post/major/) [concern](/zh/post/concern/) [for](/zh/post/for/) [the](/zh/post/the/) [government](/zh/post/government/)."
+- 动词: "[They](/zh/post/they/) [trade](/zh/post/trade/) stocks [on](/zh/post/on/) [the](/zh/post/the/) [New](/zh/post/new/) York [Stock](/zh/post/stock/) [Exchange](/zh/post/exchange/)."
+- "[He](/zh/post/he/) [used](/zh/post/used/) [to](/zh/post/to/) [trade](/zh/post/trade/) [goods](/zh/post/goods/) [with](/zh/post/with/) neighboring villages."
 
 ## 同义词
-- [Commerce](/post/commerce/)
-- [Business](/post/business/)
-- [Deal](/post/deal/)
+- [Commerce](/zh/post/commerce/)
+- [Business](/zh/post/business/)
+- [Deal](/zh/post/deal/)
 - Barter
-- [Exchange](/post/exchange/)
+- [Exchange](/zh/post/exchange/)

@@ -7,40 +7,40 @@ description = '[rekəˈmend] vt.推荐，介绍；劝告'
 keywords = ['ai words', 'recommend']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈkɑːmənd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [recommendation](/en/post/recommendation/) is [a](/en/post/a/) [suggestion](/en/post/suggestion/) [or](/en/post/or/) [advice](/en/post/advice/) given [by](/en/post/by/) [one](/en/post/one/) [person](/en/post/person/) [to](/en/post/to/) [another](/en/post/another/), typically [about](/en/post/about/) [a](/en/post/a/) [product](/en/post/product/), [service](/en/post/service/), [or](/en/post/or/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/). [Example](/en/post/example/): "[The](/en/post/the/) [restaurant](/en/post/restaurant/) received [high](/en/post/high/) recommendations [from](/en/post/from/) friends."
-- [A](/en/post/a/) commendation [or](/en/post/or/) [praise](/en/post/praise/) [for](/en/post/for/) an [achievement](/en/post/achievement/) [or](/en/post/or/) [behavior](/en/post/behavior/). [Example](/en/post/example/): "[He](/en/post/he/) was awarded [a](/en/post/a/) [medal](/en/post/medal/) [for](/en/post/for/) [his](/en/post/his/) [outstanding](/en/post/outstanding/) recommendations."
+### [Noun](/post/noun/)
+- [A](/post/a/) [recommendation](/post/recommendation/) is [a](/post/a/) [suggestion](/post/suggestion/) [or](/post/or/) [advice](/post/advice/) given [by](/post/by/) [one](/post/one/) [person](/post/person/) [to](/post/to/) [another](/post/another/), typically [about](/post/about/) [a](/post/a/) [product](/post/product/), [service](/post/service/), [or](/post/or/) [course](/post/course/) [of](/post/of/) [action](/post/action/). [Example](/post/example/): "[The](/post/the/) [restaurant](/post/restaurant/) received [high](/post/high/) recommendations [from](/post/from/) friends."
+- [A](/post/a/) commendation [or](/post/or/) [praise](/post/praise/) [for](/post/for/) an [achievement](/post/achievement/) [or](/post/or/) [behavior](/post/behavior/). [Example](/post/example/): "[He](/post/he/) was awarded [a](/post/a/) [medal](/post/medal/) [for](/post/for/) [his](/post/his/) [outstanding](/post/outstanding/) recommendations."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [suggest](/en/post/suggest/) [or](/en/post/or/) [advise](/en/post/advise/) [someone](/en/post/someone/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [especially](/en/post/especially/) [because](/en/post/because/) [of](/en/post/of/) [positive](/en/post/positive/) qualities [or](/en/post/or/) experiences. [Example](/en/post/example/): "I [recommend](/en/post/recommend/) trying [their](/en/post/their/) [signature](/en/post/signature/) [dish](/en/post/dish/)."
-- [To](/en/post/to/) [express](/en/post/express/) [confidence](/en/post/confidence/) [in](/en/post/in/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [expectation](/en/post/expectation/) [that](/en/post/that/) [they](/en/post/they/) [will](/en/post/will/) [be](/en/post/be/) [successful](/en/post/successful/). [Example](/en/post/example/): "I [recommend](/en/post/recommend/) [him](/en/post/him/) [for](/en/post/for/) [the](/en/post/the/) promotion."
+### [Verb](/post/verb/)
+- [To](/post/to/) [suggest](/post/suggest/) [or](/post/or/) [advise](/post/advise/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/), [especially](/post/especially/) [because](/post/because/) [of](/post/of/) [positive](/post/positive/) qualities [or](/post/or/) experiences. [Example](/post/example/): "I [recommend](/post/recommend/) trying [their](/post/their/) [signature](/post/signature/) [dish](/post/dish/)."
+- [To](/post/to/) [express](/post/express/) [confidence](/post/confidence/) [in](/post/in/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [expectation](/post/expectation/) [that](/post/that/) [they](/post/they/) [will](/post/will/) [be](/post/be/) [successful](/post/successful/). [Example](/post/example/): "I [recommend](/post/recommend/) [him](/post/him/) [for](/post/for/) [the](/post/the/) promotion."
 
 ## Phrases
-- "[Recommend](/en/post/recommend/) [something](/en/post/something/)" suggests [a](/en/post/a/) [particular](/en/post/particular/) [choice](/en/post/choice/) [or](/en/post/or/) [option](/en/post/option/). [Example](/en/post/example/): "[She](/en/post/she/) recommended [a](/en/post/a/) [great](/en/post/great/) [book](/en/post/book/) [for](/en/post/for/) [me](/en/post/me/) [to](/en/post/to/) [read](/en/post/read/)."
-- "I wholeheartedly [recommend](/en/post/recommend/)" expresses [strong](/en/post/strong/) endorsement. [Example](/en/post/example/): "I wholeheartedly [recommend](/en/post/recommend/) [this](/en/post/this/) [hotel](/en/post/hotel/) [for](/en/post/for/) [a](/en/post/a/) [family](/en/post/family/) [vacation](/en/post/vacation/)."
-- "[Personal](/en/post/personal/) [recommendation](/en/post/recommendation/)" refers [to](/en/post/to/) an individual's [own](/en/post/own/) endorsement. [Example](/en/post/example/): "[Her](/en/post/her/) [personal](/en/post/personal/) [recommendation](/en/post/recommendation/) was crucial [in](/en/post/in/) [my](/en/post/my/) decision-making [process](/en/post/process/)."
+- "[Recommend](/post/recommend/) [something](/post/something/)" suggests [a](/post/a/) [particular](/post/particular/) [choice](/post/choice/) [or](/post/or/) [option](/post/option/). [Example](/post/example/): "[She](/post/she/) recommended [a](/post/a/) [great](/post/great/) [book](/post/book/) [for](/post/for/) [me](/post/me/) [to](/post/to/) [read](/post/read/)."
+- "I wholeheartedly [recommend](/post/recommend/)" expresses [strong](/post/strong/) endorsement. [Example](/post/example/): "I wholeheartedly [recommend](/post/recommend/) [this](/post/this/) [hotel](/post/hotel/) [for](/post/for/) [a](/post/a/) [family](/post/family/) [vacation](/post/vacation/)."
+- "[Personal](/post/personal/) [recommendation](/post/recommendation/)" refers [to](/post/to/) an individual's [own](/post/own/) endorsement. [Example](/post/example/): "[Her](/post/her/) [personal](/post/personal/) [recommendation](/post/recommendation/) was crucial [in](/post/in/) [my](/post/my/) decision-making [process](/post/process/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) doctor's [recommendation](/en/post/recommendation/) [for](/en/post/for/) [a](/en/post/a/) [healthy](/en/post/healthy/) diet was crucial [to](/en/post/to/) [her](/en/post/her/) [recovery](/en/post/recovery/)."
-- **[Verb](/en/post/verb/)**: "I [recommend](/en/post/recommend/) [reading](/en/post/reading/) [this](/en/post/this/) [article](/en/post/article/) [to](/en/post/to/) [learn](/en/post/learn/) [more](/en/post/more/) [about](/en/post/about/) [the](/en/post/the/) [topic](/en/post/topic/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[His](/en/post/his/) [boss](/en/post/boss/) [highly](/en/post/highly/) recommends [him](/en/post/him/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) doctor's [recommendation](/post/recommendation/) [for](/post/for/) [a](/post/a/) [healthy](/post/healthy/) diet was crucial [to](/post/to/) [her](/post/her/) [recovery](/post/recovery/)."
+- **[Verb](/post/verb/)**: "I [recommend](/post/recommend/) [reading](/post/reading/) [this](/post/this/) [article](/post/article/) [to](/post/to/) [learn](/post/learn/) [more](/post/more/) [about](/post/about/) [the](/post/the/) [topic](/post/topic/)."
+- **Phrasal [Verb](/post/verb/)**: "[His](/post/his/) [boss](/post/boss/) [highly](/post/highly/) recommends [him](/post/him/) [for](/post/for/) [the](/post/the/) [job](/post/job/)."
 
 ## Synonyms
-- [Advise](/en/post/advise/)
-- [Prescribe](/en/post/prescribe/)
+- [Advise](/post/advise/)
+- [Prescribe](/post/prescribe/)
 - Endorse
 - Advocate
-- [Praise](/en/post/praise/)
+- [Praise](/post/praise/)
 - Commend
-- [Support](/en/post/support/)
+- [Support](/post/support/)
 
 ## Antonyms
 - Disapprove
-- [Deny](/en/post/deny/)
-- [Oppose](/en/post/oppose/)
-- [Criticize](/en/post/criticize/)
+- [Deny](/post/deny/)
+- [Oppose](/post/oppose/)
+- [Criticize](/post/criticize/)
 - Negate

@@ -7,32 +7,32 @@ description = '[inˈvɔlv] vt.使卷入；牵涉'
 keywords = ['ai words', 'involve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈvɑːlv/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (in-volve) [To](/en/post/to/) [include](/en/post/include/) [or](/en/post/or/) [contain](/en/post/contain/) [something](/en/post/something/) [as](/en/post/as/) [a](/en/post/a/) [necessary](/en/post/necessary/) [part](/en/post/part/) [or](/en/post/or/) [consequence](/en/post/consequence/); [to](/en/post/to/) [have](/en/post/have/) [within](/en/post/within/) [its](/en/post/its/) [scope](/en/post/scope/) [or](/en/post/or/) makeup. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) involves working [with](/en/post/with/) [multiple](/en/post/multiple/) teams."
-  - [To](/en/post/to/) [engage](/en/post/engage/) [or](/en/post/or/) [occupy](/en/post/occupy/) someone's [time](/en/post/time/), [effort](/en/post/effort/), [or](/en/post/or/) [interest](/en/post/interest/); [to](/en/post/to/) [commit](/en/post/commit/) [oneself](/en/post/oneself/) [to](/en/post/to/) [something](/en/post/something/). [Example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [involve](/en/post/involve/) [herself](/en/post/herself/) [in](/en/post/in/) [local](/en/post/local/) [politics](/en/post/politics/)."
-  - [To](/en/post/to/) [connect](/en/post/connect/) [or](/en/post/or/) [link](/en/post/link/) [one](/en/post/one/) [thing](/en/post/thing/) [with](/en/post/with/) [another](/en/post/another/), [often](/en/post/often/) implying [a](/en/post/a/) [complex](/en/post/complex/) [relationship](/en/post/relationship/). [Example](/en/post/example/): "[His](/en/post/his/) [decision](/en/post/decision/) [will](/en/post/will/) inevitably [involve](/en/post/involve/) [legal](/en/post/legal/) complications."
+- **[Verb](/post/verb/)**: (in-volve) [To](/post/to/) [include](/post/include/) [or](/post/or/) [contain](/post/contain/) [something](/post/something/) [as](/post/as/) [a](/post/a/) [necessary](/post/necessary/) [part](/post/part/) [or](/post/or/) [consequence](/post/consequence/); [to](/post/to/) [have](/post/have/) [within](/post/within/) [its](/post/its/) [scope](/post/scope/) [or](/post/or/) makeup. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) involves working [with](/post/with/) [multiple](/post/multiple/) teams."
+  - [To](/post/to/) [engage](/post/engage/) [or](/post/or/) [occupy](/post/occupy/) someone's [time](/post/time/), [effort](/post/effort/), [or](/post/or/) [interest](/post/interest/); [to](/post/to/) [commit](/post/commit/) [oneself](/post/oneself/) [to](/post/to/) [something](/post/something/). [Example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [involve](/post/involve/) [herself](/post/herself/) [in](/post/in/) [local](/post/local/) [politics](/post/politics/)."
+  - [To](/post/to/) [connect](/post/connect/) [or](/post/or/) [link](/post/link/) [one](/post/one/) [thing](/post/thing/) [with](/post/with/) [another](/post/another/), [often](/post/often/) implying [a](/post/a/) [complex](/post/complex/) [relationship](/post/relationship/). [Example](/post/example/): "[His](/post/his/) [decision](/post/decision/) [will](/post/will/) inevitably [involve](/post/involve/) [legal](/post/legal/) complications."
 
 ## Phrases
-- "[Get](/en/post/get/) involved": [To](/en/post/to/) [participate](/en/post/participate/) [or](/en/post/or/) [become](/en/post/become/) engaged [in](/en/post/in/) an [activity](/en/post/activity/) [or](/en/post/or/) [situation](/en/post/situation/).
-- "Involved [in](/en/post/in/)": Indicating participation [or](/en/post/or/) having [a](/en/post/a/) [connection](/en/post/connection/) [with](/en/post/with/) [something](/en/post/something/). [Example](/en/post/example/): "[She](/en/post/she/) was deeply involved [in](/en/post/in/) [the](/en/post/the/) planning [process](/en/post/process/)."
-- "[Involve](/en/post/involve/) [oneself](/en/post/oneself/) [in](/en/post/in/)": [To](/en/post/to/) actively [participate](/en/post/participate/) [or](/en/post/or/) [become](/en/post/become/) committed [to](/en/post/to/) [something](/en/post/something/). [Example](/en/post/example/): "[He](/en/post/he/) decided [to](/en/post/to/) [involve](/en/post/involve/) [himself](/en/post/himself/) [in](/en/post/in/) [charity](/en/post/charity/) [work](/en/post/work/)."
+- "[Get](/post/get/) involved": [To](/post/to/) [participate](/post/participate/) [or](/post/or/) [become](/post/become/) engaged [in](/post/in/) an [activity](/post/activity/) [or](/post/or/) [situation](/post/situation/).
+- "Involved [in](/post/in/)": Indicating participation [or](/post/or/) having [a](/post/a/) [connection](/post/connection/) [with](/post/with/) [something](/post/something/). [Example](/post/example/): "[She](/post/she/) was deeply involved [in](/post/in/) [the](/post/the/) planning [process](/post/process/)."
+- "[Involve](/post/involve/) [oneself](/post/oneself/) [in](/post/in/)": [To](/post/to/) actively [participate](/post/participate/) [or](/post/or/) [become](/post/become/) committed [to](/post/to/) [something](/post/something/). [Example](/post/example/): "[He](/post/he/) decided [to](/post/to/) [involve](/post/involve/) [himself](/post/himself/) [in](/post/in/) [charity](/post/charity/) [work](/post/work/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([include](/en/post/include/))**: "[The](/en/post/the/) recipe involves [several](/en/post/several/) spices [that](/en/post/that/) [bring](/en/post/bring/) [out](/en/post/out/) [the](/en/post/the/) [unique](/en/post/unique/) flavor."
-- **[Verb](/en/post/verb/) ([engage](/en/post/engage/))**: "[They](/en/post/they/) [want](/en/post/want/) [to](/en/post/to/) [involve](/en/post/involve/) [more](/en/post/more/) [young](/en/post/young/) [people](/en/post/people/) [in](/en/post/in/) [community](/en/post/community/) [service](/en/post/service/) projects."
-- **[Verb](/en/post/verb/) ([connect](/en/post/connect/))**: "[The](/en/post/the/) scandal involved [several](/en/post/several/) high-profile executives [from](/en/post/from/) [different](/en/post/different/) companies."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([include](/post/include/))**: "[The](/post/the/) recipe involves [several](/post/several/) spices [that](/post/that/) [bring](/post/bring/) [out](/post/out/) [the](/post/the/) [unique](/post/unique/) flavor."
+- **[Verb](/post/verb/) ([engage](/post/engage/))**: "[They](/post/they/) [want](/post/want/) [to](/post/to/) [involve](/post/involve/) [more](/post/more/) [young](/post/young/) [people](/post/people/) [in](/post/in/) [community](/post/community/) [service](/post/service/) projects."
+- **[Verb](/post/verb/) ([connect](/post/connect/))**: "[The](/post/the/) scandal involved [several](/post/several/) high-profile executives [from](/post/from/) [different](/post/different/) companies."
 
 ## Synonyms
-- [Include](/en/post/include/)
+- [Include](/post/include/)
 - Encompass
 - Entail
-- [Engage](/en/post/engage/)
+- [Engage](/post/engage/)
 - Implicate
-- [Concern](/en/post/concern/)
-- [Involve](/en/post/involve/) [oneself](/en/post/oneself/)
-- [Participate](/en/post/participate/)
-- [Be](/en/post/be/) connected [with](/en/post/with/)
-- [Have](/en/post/have/) [a](/en/post/a/) [hand](/en/post/hand/) [in](/en/post/in/)
+- [Concern](/post/concern/)
+- [Involve](/post/involve/) [oneself](/post/oneself/)
+- [Participate](/post/participate/)
+- [Be](/post/be/) connected [with](/post/with/)
+- [Have](/post/have/) [a](/post/a/) [hand](/post/hand/) [in](/post/in/)

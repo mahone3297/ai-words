@@ -11,19 +11,19 @@ keywords = ['ai words', 'unsatisfactory']
 /ʌnˈsætɪsˈfæktəri/
 
 ## 释义
-- **形容词**: 令人不满意的，不够的，未达到期望的。例如: "[The](/post/the/) [service](/post/service/) was [unsatisfactory](/post/unsatisfactory/), [so](/post/so/) [we](/post/we/) decided [to](/post/to/) [complain](/post/complain/)."
+- **形容词**: 令人不满意的，不够的，未达到期望的。例如: "[The](/zh/post/the/) [service](/zh/post/service/) was [unsatisfactory](/zh/post/unsatisfactory/), [so](/zh/post/so/) [we](/zh/post/we/) decided [to](/zh/post/to/) [complain](/zh/post/complain/)."
 
 ## 短语
-- "an [unsatisfactory](/post/unsatisfactory/) [result](/post/result/)" 表示一个不满意的结果。
-- "[unsatisfactory](/post/unsatisfactory/) [performance](/post/performance/)" 指表现不佳或成绩不理想。
+- "an [unsatisfactory](/zh/post/unsatisfactory/) [result](/zh/post/result/)" 表示一个不满意的结果。
+- "[unsatisfactory](/zh/post/unsatisfactory/) [performance](/zh/post/performance/)" 指表现不佳或成绩不理想。
 
 ## 例句
-- "[The](/post/the/) [food](/post/food/) [at](/post/at/) [the](/post/the/) [restaurant](/post/restaurant/) was [unsatisfactory](/post/unsatisfactory/), [and](/post/and/) [we](/post/we/) won't [be](/post/be/) going [back](/post/back/) anytime [soon](/post/soon/)."
-- "[Despite](/post/despite/) [his](/post/his/) [hard](/post/hard/) [work](/post/work/), [the](/post/the/) [student](/post/student/) received an [unsatisfactory](/post/unsatisfactory/) [grade](/post/grade/) [on](/post/on/) [the](/post/the/) [exam](/post/exam/)."
+- "[The](/zh/post/the/) [food](/zh/post/food/) [at](/zh/post/at/) [the](/zh/post/the/) [restaurant](/zh/post/restaurant/) was [unsatisfactory](/zh/post/unsatisfactory/), [and](/zh/post/and/) [we](/zh/post/we/) won't [be](/zh/post/be/) going [back](/zh/post/back/) anytime [soon](/zh/post/soon/)."
+- "[Despite](/zh/post/despite/) [his](/zh/post/his/) [hard](/zh/post/hard/) [work](/zh/post/work/), [the](/zh/post/the/) [student](/zh/post/student/) received an [unsatisfactory](/zh/post/unsatisfactory/) [grade](/zh/post/grade/) [on](/zh/post/on/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
 
 ## 同义词
 - Disappointing
 - Inadequate
 - Unacceptable
-- [Poor](/post/poor/)
+- [Poor](/zh/post/poor/)
 - Substandard

@@ -7,28 +7,28 @@ description = '[ˈfɑːðərinlɔː] n.岳父；公公'
 keywords = ['ai words', 'father-in-law']
 +++
 
-## [Word](/en/post/word/): [Father-in-law](/en/post/father-in-law/)
+## [Word](/post/word/): [Father-in-law](/post/father-in-law/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɑːðər ɪn lɔː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [father](/en/post/father/) [of](/en/post/of/) one's spouse; [the](/en/post/the/) [husband](/en/post/husband/) [of](/en/post/of/) one's [mother](/en/post/mother/) [or](/en/post/or/) [the](/en/post/the/) [male](/en/post/male/) [equivalent](/en/post/equivalent/) [in](/en/post/in/) [a](/en/post/a/) same-sex [relationship](/en/post/relationship/). [This](/en/post/this/) is [a](/en/post/a/) [legal](/en/post/legal/) [or](/en/post/or/) [formal](/en/post/formal/) [relationship](/en/post/relationship/) created [through](/en/post/through/) [marriage](/en/post/marriage/).
+- **[Noun](/post/noun/)**: [The](/post/the/) [father](/post/father/) [of](/post/of/) one's spouse; [the](/post/the/) [husband](/post/husband/) [of](/post/of/) one's [mother](/post/mother/) [or](/post/or/) [the](/post/the/) [male](/post/male/) [equivalent](/post/equivalent/) [in](/post/in/) [a](/post/a/) same-sex [relationship](/post/relationship/). [This](/post/this/) is [a](/post/a/) [legal](/post/legal/) [or](/post/or/) [formal](/post/formal/) [relationship](/post/relationship/) created [through](/post/through/) [marriage](/post/marriage/).
 
-[Example](/en/post/example/) Sentences:
-- *[Noun](/en/post/noun/)*: "I'm taking [my](/en/post/my/) [father-in-law](/en/post/father-in-law/) [out](/en/post/out/) [for](/en/post/for/) [his](/en/post/his/) [birthday](/en/post/birthday/) [today](/en/post/today/)."
-- "[She](/en/post/she/) introduced [her](/en/post/her/) [new](/en/post/new/) boyfriend [to](/en/post/to/) [her](/en/post/her/) parents [and](/en/post/and/) [her](/en/post/her/) [father-in-law](/en/post/father-in-law/) approved."
+[Example](/post/example/) Sentences:
+- *[Noun](/post/noun/)*: "I'm taking [my](/post/my/) [father-in-law](/post/father-in-law/) [out](/post/out/) [for](/post/for/) [his](/post/his/) [birthday](/post/birthday/) [today](/post/today/)."
+- "[She](/post/she/) introduced [her](/post/her/) [new](/post/new/) boyfriend [to](/post/to/) [her](/post/her/) parents [and](/post/and/) [her](/post/her/) [father-in-law](/post/father-in-law/) approved."
 
 Phrases:
-- "[Meet](/en/post/meet/) [the](/en/post/the/) in-laws": Refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) introduced [to](/en/post/to/) one's spouse's [family](/en/post/family/) members, including [the](/en/post/the/) [father-in-law](/en/post/father-in-law/).
-- "[Like](/en/post/like/) [father-in-law](/en/post/father-in-law/), [like](/en/post/like/) son-in-law": An [expression](/en/post/expression/) suggesting [that](/en/post/that/) [people](/en/post/people/) [often](/en/post/often/) [resemble](/en/post/resemble/) [their](/en/post/their/) relatives [by](/en/post/by/) [marriage](/en/post/marriage/) [in](/en/post/in/) terms [of](/en/post/of/) [behavior](/en/post/behavior/) [or](/en/post/or/) [character](/en/post/character/).
+- "[Meet](/post/meet/) [the](/post/the/) in-laws": Refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) [being](/post/being/) introduced [to](/post/to/) one's spouse's [family](/post/family/) members, including [the](/post/the/) [father-in-law](/post/father-in-law/).
+- "[Like](/post/like/) [father-in-law](/post/father-in-law/), [like](/post/like/) son-in-law": An [expression](/post/expression/) suggesting [that](/post/that/) [people](/post/people/) [often](/post/often/) [resemble](/post/resemble/) [their](/post/their/) relatives [by](/post/by/) [marriage](/post/marriage/) [in](/post/in/) terms [of](/post/of/) [behavior](/post/behavior/) [or](/post/or/) [character](/post/character/).
 
 ## Synonyms
--岳父 ([in](/en/post/in/) Chinese)
-- 父親的丈夫 ([in](/en/post/in/) Japanese)
-- suegro ([in](/en/post/in/) Spanish)
-- Schwiegervater ([in](/en/post/in/) German)
+-岳父 ([in](/post/in/) Chinese)
+- 父親的丈夫 ([in](/post/in/) Japanese)
+- suegro ([in](/post/in/) Spanish)
+- Schwiegervater ([in](/post/in/) German)
   
-[Note](/en/post/note/): [The](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) "[father-in-law](/en/post/father-in-law/)" doesn't typically [have](/en/post/have/) [direct](/en/post/direct/) synonyms [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) described [with](/en/post/with/) relational terms [such](/en/post/such/) [as](/en/post/as/) "spouse's [father](/en/post/father/)" [or](/en/post/or/) "wife's/husband's dad." [In](/en/post/in/) [different](/en/post/different/) cultural contexts, [there](/en/post/there/) [might](/en/post/might/) [be](/en/post/be/) [specific](/en/post/specific/) terms [or](/en/post/or/) endearments [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [father-in-law](/en/post/father-in-law/). 
+[Note](/post/note/): [The](/post/the/) [concept](/post/concept/) [of](/post/of/) "[father-in-law](/post/father-in-law/)" doesn't typically [have](/post/have/) [direct](/post/direct/) synonyms [but](/post/but/) [can](/post/can/) [be](/post/be/) described [with](/post/with/) relational terms [such](/post/such/) [as](/post/as/) "spouse's [father](/post/father/)" [or](/post/or/) "wife's/husband's dad." [In](/post/in/) [different](/post/different/) cultural contexts, [there](/post/there/) [might](/post/might/) [be](/post/be/) [specific](/post/specific/) terms [or](/post/or/) endearments [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [father-in-law](/post/father-in-law/). 
 
-[In](/en/post/in/) English, [there](/en/post/there/) isn't [a](/en/post/a/) single-word synonym [that](/en/post/that/) conveys [exactly](/en/post/exactly/) [the](/en/post/the/) [same](/en/post/same/) [meaning](/en/post/meaning/) [as](/en/post/as/) "[father-in-law](/en/post/father-in-law/)," [though](/en/post/though/) [in](/en/post/in/) [casual](/en/post/casual/) [conversation](/en/post/conversation/), [one](/en/post/one/) [might](/en/post/might/) [use](/en/post/use/) informal terms [like](/en/post/like/) "[my](/en/post/my/) wife's/husband's dad" [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [them](/en/post/them/).
+[In](/post/in/) English, [there](/post/there/) isn't [a](/post/a/) single-word synonym [that](/post/that/) conveys [exactly](/post/exactly/) [the](/post/the/) [same](/post/same/) [meaning](/post/meaning/) [as](/post/as/) "[father-in-law](/post/father-in-law/)," [though](/post/though/) [in](/post/in/) [casual](/post/casual/) [conversation](/post/conversation/), [one](/post/one/) [might](/post/might/) [use](/post/use/) informal terms [like](/post/like/) "[my](/post/my/) wife's/husband's dad" [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [them](/post/them/).

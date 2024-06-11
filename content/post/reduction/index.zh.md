@@ -11,20 +11,20 @@ keywords = ['ai words', 'reduction']
 /riːˈdʌkʃən/
 
 ## 释义
-- **名词**: 减少，减小，压缩。例如: "[The](/post/the/) [company](/post/company/) announced [a](/post/a/) [reduction](/post/reduction/) [in](/post/in/) [staff](/post/staff/) [due](/post/due/) [to](/post/to/) [financial](/post/financial/) difficulties."
-- **动词**: 减少，降低。例如: "[They](/post/they/) [plan](/post/plan/) [to](/post/to/) [reduce](/post/reduce/) [their](/post/their/) [carbon](/post/carbon/) emissions [by](/post/by/) 50% [over](/post/over/) [the](/post/the/) [next](/post/next/) [decade](/post/decade/)."
+- **名词**: 减少，减小，压缩。例如: "[The](/zh/post/the/) [company](/zh/post/company/) announced [a](/zh/post/a/) [reduction](/zh/post/reduction/) [in](/zh/post/in/) [staff](/zh/post/staff/) [due](/zh/post/due/) [to](/zh/post/to/) [financial](/zh/post/financial/) difficulties."
+- **动词**: 减少，降低。例如: "[They](/zh/post/they/) [plan](/zh/post/plan/) [to](/zh/post/to/) [reduce](/zh/post/reduce/) [their](/zh/post/their/) [carbon](/zh/post/carbon/) emissions [by](/zh/post/by/) 50% [over](/zh/post/over/) [the](/zh/post/the/) [next](/zh/post/next/) [decade](/zh/post/decade/)."
 
 ## 短语
-- "[cost](/post/cost/) [reduction](/post/reduction/)" 成本削减
-- "[size](/post/size/) [reduction](/post/reduction/)" 缩小尺寸
-- "[reduction](/post/reduction/) [process](/post/process/)" 减少过程
+- "[cost](/zh/post/cost/) [reduction](/zh/post/reduction/)" 成本削减
+- "[size](/zh/post/size/) [reduction](/zh/post/reduction/)" 缩小尺寸
+- "[reduction](/zh/post/reduction/) [process](/zh/post/process/)" 减少过程
 
 ## 例句
-- 名词: "[The](/post/the/) diet aims [at](/post/at/) [a](/post/a/) [significant](/post/significant/) [reduction](/post/reduction/) [of](/post/of/) [sugar](/post/sugar/) intake."
-- 动词: "[The](/post/the/) [government](/post/government/) is working [on](/post/on/) reducing [traffic](/post/traffic/) congestion [in](/post/in/) [the](/post/the/) [city](/post/city/)."
+- 名词: "[The](/zh/post/the/) diet aims [at](/zh/post/at/) [a](/zh/post/a/) [significant](/zh/post/significant/) [reduction](/zh/post/reduction/) [of](/zh/post/of/) [sugar](/zh/post/sugar/) intake."
+- 动词: "[The](/zh/post/the/) [government](/zh/post/government/) is working [on](/zh/post/on/) reducing [traffic](/zh/post/traffic/) congestion [in](/zh/post/in/) [the](/zh/post/the/) [city](/zh/post/city/)."
 
 ## 同义词
-- [Decrease](/post/decrease/)
+- [Decrease](/zh/post/decrease/)
 - Diminution
 - Lessening
 - Minimization

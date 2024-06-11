@@ -7,32 +7,32 @@ description = '[ˈiːkwəl] a.相等的；平等的'
 keywords = ['ai words', 'equal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈiːkwəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [the](/en/post/the/) [same](/en/post/same/) [quantity](/en/post/quantity/), [size](/en/post/size/), [value](/en/post/value/), [or](/en/post/or/) [degree](/en/post/degree/) [as](/en/post/as/) [another](/en/post/another/); [identical](/en/post/identical/) [in](/en/post/in/) [amount](/en/post/amount/) [or](/en/post/or/) [measure](/en/post/measure/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [two](/en/post/two/) sides [of](/en/post/of/) [the](/en/post/the/) [triangle](/en/post/triangle/) were [equal](/en/post/equal/) [in](/en/post/in/) [length](/en/post/length/)."
-- **[Noun](/en/post/noun/)**: [Something](/en/post/something/) [that](/en/post/that/) is [the](/en/post/the/) [same](/en/post/same/) [in](/en/post/in/) [quantity](/en/post/quantity/), [size](/en/post/size/), [quality](/en/post/quality/), [or](/en/post/or/) [value](/en/post/value/) [as](/en/post/as/) [another](/en/post/another/) [thing](/en/post/thing/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [both](/en/post/both/) received an [equal](/en/post/equal/) [share](/en/post/share/) [of](/en/post/of/) [the](/en/post/the/) inheritance."
-- **[Verb](/en/post/verb/)**: ([usually](/en/post/usually/) [in](/en/post/in/) [the](/en/post/the/) [passive](/en/post/passive/) [form](/en/post/form/), '[to](/en/post/to/) [be](/en/post/be/) equalled') [To](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [same](/en/post/same/) [as](/en/post/as/) [something](/en/post/something/) [else](/en/post/else/); [to](/en/post/to/) [have](/en/post/have/) [the](/en/post/the/) [same](/en/post/same/) [value](/en/post/value/), [size](/en/post/size/), [or](/en/post/or/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) achievements cannot [be](/en/post/be/) equalled [by](/en/post/by/) [anyone](/en/post/anyone/) [else](/en/post/else/)."
+- **[Adjective](/post/adjective/)**: Having [the](/post/the/) [same](/post/same/) [quantity](/post/quantity/), [size](/post/size/), [value](/post/value/), [or](/post/or/) [degree](/post/degree/) [as](/post/as/) [another](/post/another/); [identical](/post/identical/) [in](/post/in/) [amount](/post/amount/) [or](/post/or/) [measure](/post/measure/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [two](/post/two/) sides [of](/post/of/) [the](/post/the/) [triangle](/post/triangle/) were [equal](/post/equal/) [in](/post/in/) [length](/post/length/)."
+- **[Noun](/post/noun/)**: [Something](/post/something/) [that](/post/that/) is [the](/post/the/) [same](/post/same/) [in](/post/in/) [quantity](/post/quantity/), [size](/post/size/), [quality](/post/quality/), [or](/post/or/) [value](/post/value/) [as](/post/as/) [another](/post/another/) [thing](/post/thing/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) [both](/post/both/) received an [equal](/post/equal/) [share](/post/share/) [of](/post/of/) [the](/post/the/) inheritance."
+- **[Verb](/post/verb/)**: ([usually](/post/usually/) [in](/post/in/) [the](/post/the/) [passive](/post/passive/) [form](/post/form/), '[to](/post/to/) [be](/post/be/) equalled') [To](/post/to/) [be](/post/be/) [the](/post/the/) [same](/post/same/) [as](/post/as/) [something](/post/something/) [else](/post/else/); [to](/post/to/) [have](/post/have/) [the](/post/the/) [same](/post/same/) [value](/post/value/), [size](/post/size/), [or](/post/or/) [quality](/post/quality/). [For](/post/for/) [example](/post/example/): "[Their](/post/their/) achievements cannot [be](/post/be/) equalled [by](/post/by/) [anyone](/post/anyone/) [else](/post/else/)."
 
 ## Phrases
-- "[Equal](/en/post/equal/) opportunities": Refers [to](/en/post/to/) [a](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [everyone](/en/post/everyone/) has [the](/en/post/the/) [same](/en/post/same/) chances [to](/en/post/to/) [succeed](/en/post/succeed/) [regardless](/en/post/regardless/) [of](/en/post/of/) [their](/en/post/their/) [background](/en/post/background/) [or](/en/post/or/) identity.
-- "[Treat](/en/post/treat/) equally": [To](/en/post/to/) [give](/en/post/give/) [the](/en/post/the/) [same](/en/post/same/) rights, [respect](/en/post/respect/), [or](/en/post/or/) [treatment](/en/post/treatment/) [to](/en/post/to/) [all](/en/post/all/) [people](/en/post/people/).
-- "[On](/en/post/on/) [equal](/en/post/equal/) footing": [When](/en/post/when/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) things [or](/en/post/or/) [people](/en/post/people/) are [in](/en/post/in/) [a](/en/post/a/) [position](/en/post/position/) [of](/en/post/of/) comparable [advantage](/en/post/advantage/) [or](/en/post/or/) [disadvantage](/en/post/disadvantage/).
+- "[Equal](/post/equal/) opportunities": Refers [to](/post/to/) [a](/post/a/) [situation](/post/situation/) [where](/post/where/) [everyone](/post/everyone/) has [the](/post/the/) [same](/post/same/) chances [to](/post/to/) [succeed](/post/succeed/) [regardless](/post/regardless/) [of](/post/of/) [their](/post/their/) [background](/post/background/) [or](/post/or/) identity.
+- "[Treat](/post/treat/) equally": [To](/post/to/) [give](/post/give/) [the](/post/the/) [same](/post/same/) rights, [respect](/post/respect/), [or](/post/or/) [treatment](/post/treatment/) [to](/post/to/) [all](/post/all/) [people](/post/people/).
+- "[On](/post/on/) [equal](/post/equal/) footing": [When](/post/when/) [two](/post/two/) [or](/post/or/) [more](/post/more/) things [or](/post/or/) [people](/post/people/) are [in](/post/in/) [a](/post/a/) [position](/post/position/) [of](/post/of/) comparable [advantage](/post/advantage/) [or](/post/or/) [disadvantage](/post/disadvantage/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[All](/en/post/all/) men are created [equal](/en/post/equal/)."
-- **[Noun](/en/post/noun/)**: "[Equality](/en/post/equality/) [among](/en/post/among/) nations is [essential](/en/post/essential/) [for](/en/post/for/) [peace](/en/post/peace/)."
-- **[Verb](/en/post/verb/)**: "[Her](/en/post/her/) dedication [to](/en/post/to/) [her](/en/post/her/) [work](/en/post/work/) is unequalled."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[All](/post/all/) men are created [equal](/post/equal/)."
+- **[Noun](/post/noun/)**: "[Equality](/post/equality/) [among](/post/among/) nations is [essential](/post/essential/) [for](/post/for/) [peace](/post/peace/)."
+- **[Verb](/post/verb/)**: "[Her](/post/her/) dedication [to](/post/to/) [her](/post/her/) [work](/post/work/) is unequalled."
 
 ## Synonyms
-- [Identical](/en/post/identical/)
-- [Same](/en/post/same/)
+- [Identical](/post/identical/)
+- [Same](/post/same/)
 - Matching
 - Comparable
-- [Equivalent](/en/post/equivalent/)
-- [Level](/en/post/level/)
+- [Equivalent](/post/equivalent/)
+- [Level](/post/level/)
 - Balanced
 - Parity
-- [Uniform](/en/post/uniform/)
-- [Like](/en/post/like/)
+- [Uniform](/post/uniform/)
+- [Like](/post/like/)

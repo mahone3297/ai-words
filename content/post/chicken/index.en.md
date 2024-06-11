@@ -7,35 +7,35 @@ description = '[ˈt∫ikin] n.小鸡，小鸟；鸡肉'
 keywords = ['ai words', 'chicken']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃɪkɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) domesticated [bird](/en/post/bird/)** - [A](/en/post/a/) [common](/en/post/common/) [source](/en/post/source/) [of](/en/post/of/) [meat](/en/post/meat/), eggs, [and](/en/post/and/) feathers, scientifically known [as](/en/post/as/) Gallus gallus domesticus. [Example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) raised [a](/en/post/a/) [flock](/en/post/flock/) [of](/en/post/of/) chickens [on](/en/post/on/) [his](/en/post/his/) [farm](/en/post/farm/)."
-2. **[Meat](/en/post/meat/) [from](/en/post/from/) [a](/en/post/a/) [chicken](/en/post/chicken/)** - [The](/en/post/the/) [flesh](/en/post/flesh/) [of](/en/post/of/) [a](/en/post/a/) slaughtered [chicken](/en/post/chicken/), [often](/en/post/often/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) culinary ingredient. [Example](/en/post/example/): "I had grilled [chicken](/en/post/chicken/) [for](/en/post/for/) [dinner](/en/post/dinner/) [last](/en/post/last/) [night](/en/post/night/)."
-3. **[Chicken](/en/post/chicken/) [out](/en/post/out/)** - [To](/en/post/to/) [be](/en/post/be/) [afraid](/en/post/afraid/) [or](/en/post/or/) [lose](/en/post/lose/) [courage](/en/post/courage/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [situation](/en/post/situation/) [that](/en/post/that/) requires bravery. [Example](/en/post/example/): "Don't [chicken](/en/post/chicken/) [out](/en/post/out/) [now](/en/post/now/), we're [almost](/en/post/almost/) [there](/en/post/there/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) domesticated [bird](/post/bird/)** - [A](/post/a/) [common](/post/common/) [source](/post/source/) [of](/post/of/) [meat](/post/meat/), eggs, [and](/post/and/) feathers, scientifically known [as](/post/as/) Gallus gallus domesticus. [Example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) raised [a](/post/a/) [flock](/post/flock/) [of](/post/of/) chickens [on](/post/on/) [his](/post/his/) [farm](/post/farm/)."
+2. **[Meat](/post/meat/) [from](/post/from/) [a](/post/a/) [chicken](/post/chicken/)** - [The](/post/the/) [flesh](/post/flesh/) [of](/post/of/) [a](/post/a/) slaughtered [chicken](/post/chicken/), [often](/post/often/) [used](/post/used/) [as](/post/as/) [a](/post/a/) culinary ingredient. [Example](/post/example/): "I had grilled [chicken](/post/chicken/) [for](/post/for/) [dinner](/post/dinner/) [last](/post/last/) [night](/post/night/)."
+3. **[Chicken](/post/chicken/) [out](/post/out/)** - [To](/post/to/) [be](/post/be/) [afraid](/post/afraid/) [or](/post/or/) [lose](/post/lose/) [courage](/post/courage/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [situation](/post/situation/) [that](/post/that/) requires bravery. [Example](/post/example/): "Don't [chicken](/post/chicken/) [out](/post/out/) [now](/post/now/), we're [almost](/post/almost/) [there](/post/there/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [eat](/en/post/eat/) [chicken](/en/post/chicken/)** - [To](/en/post/to/) [consume](/en/post/consume/) [chicken](/en/post/chicken/) [meat](/en/post/meat/) [or](/en/post/or/) products. [Example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [chicken](/en/post/chicken/) [for](/en/post/for/) [dinner](/en/post/dinner/) [tonight](/en/post/tonight/)."
-2. **[Chicken](/en/post/chicken/) [run](/en/post/run/)** - [To](/en/post/to/) [avoid](/en/post/avoid/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/) [or](/en/post/or/) confrontation [by](/en/post/by/) fleeing. [Example](/en/post/example/): "[He](/en/post/he/) chickened [out](/en/post/out/) [when](/en/post/when/) faced [with](/en/post/with/) [the](/en/post/the/) [tough](/en/post/tough/) [decision](/en/post/decision/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [eat](/post/eat/) [chicken](/post/chicken/)** - [To](/post/to/) [consume](/post/consume/) [chicken](/post/chicken/) [meat](/post/meat/) [or](/post/or/) products. [Example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [chicken](/post/chicken/) [for](/post/for/) [dinner](/post/dinner/) [tonight](/post/tonight/)."
+2. **[Chicken](/post/chicken/) [run](/post/run/)** - [To](/post/to/) [avoid](/post/avoid/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/) [or](/post/or/) confrontation [by](/post/by/) fleeing. [Example](/post/example/): "[He](/post/he/) chickened [out](/post/out/) [when](/post/when/) faced [with](/post/with/) [the](/post/the/) [tough](/post/tough/) [decision](/post/decision/)."
 
 ## Phrases
-- "[Get](/en/post/get/) [your](/en/post/your/) [chicken](/en/post/chicken/) [on](/en/post/on/)" [as](/en/post/as/) [a](/en/post/a/) slang [expression](/en/post/expression/) [to](/en/post/to/) [encourage](/en/post/encourage/) [someone](/en/post/someone/) [to](/en/post/to/) [enjoy](/en/post/enjoy/) [their](/en/post/their/) [meal](/en/post/meal/).
-- "[Chicken](/en/post/chicken/) [feed](/en/post/feed/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [small](/en/post/small/) [or](/en/post/or/) insignificant.
-- "[Chicken](/en/post/chicken/) coop" is [a](/en/post/a/) [shelter](/en/post/shelter/) [for](/en/post/for/) chickens.
+- "[Get](/post/get/) [your](/post/your/) [chicken](/post/chicken/) [on](/post/on/)" [as](/post/as/) [a](/post/a/) slang [expression](/post/expression/) [to](/post/to/) [encourage](/post/encourage/) [someone](/post/someone/) [to](/post/to/) [enjoy](/post/enjoy/) [their](/post/their/) [meal](/post/meal/).
+- "[Chicken](/post/chicken/) [feed](/post/feed/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [small](/post/small/) [or](/post/or/) insignificant.
+- "[Chicken](/post/chicken/) coop" is [a](/post/a/) [shelter](/post/shelter/) [for](/post/for/) chickens.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) chickens scratched [around](/en/post/around/) [the](/en/post/the/) [yard](/en/post/yard/), looking [for](/en/post/for/) seeds."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was [too](/en/post/too/) [nervous](/en/post/nervous/) [to](/en/post/to/) [even](/en/post/even/) [attempt](/en/post/attempt/) skydiving, he'd [rather](/en/post/rather/) [chicken](/en/post/chicken/) [out](/en/post/out/)."
-- **Phrasal**: "[The](/en/post/the/) kids [love](/en/post/love/) playing [in](/en/post/in/) [the](/en/post/the/) [old](/en/post/old/) [chicken](/en/post/chicken/) coop [behind](/en/post/behind/) [the](/en/post/the/) [house](/en/post/house/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) chickens scratched [around](/post/around/) [the](/post/the/) [yard](/post/yard/), looking [for](/post/for/) seeds."
+- **[Verb](/post/verb/)**: "[He](/post/he/) was [too](/post/too/) [nervous](/post/nervous/) [to](/post/to/) [even](/post/even/) [attempt](/post/attempt/) skydiving, he'd [rather](/post/rather/) [chicken](/post/chicken/) [out](/post/out/)."
+- **Phrasal**: "[The](/post/the/) kids [love](/post/love/) playing [in](/post/in/) [the](/post/the/) [old](/post/old/) [chicken](/post/chicken/) coop [behind](/post/behind/) [the](/post/the/) [house](/post/house/)."
 
 ## Synonyms
 - Poultry
 - Fowl
-- [Bird](/en/post/bird/)
+- [Bird](/post/bird/)
 - Rooster
-- [Hen](/en/post/hen/)
-- [Turkey](/en/post/turkey/) ([in](/en/post/in/) [a](/en/post/a/) broader [sense](/en/post/sense/))
-- Quail ([as](/en/post/as/) [a](/en/post/a/) [small](/en/post/small/) [bird](/en/post/bird/))
-- Chicken-hearted ([for](/en/post/for/) [being](/en/post/being/) cowardly)
+- [Hen](/post/hen/)
+- [Turkey](/post/turkey/) ([in](/post/in/) [a](/post/a/) broader [sense](/post/sense/))
+- Quail ([as](/post/as/) [a](/post/a/) [small](/post/small/) [bird](/post/bird/))
+- Chicken-hearted ([for](/post/for/) [being](/post/being/) cowardly)

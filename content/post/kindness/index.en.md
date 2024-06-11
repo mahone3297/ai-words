@@ -7,34 +7,34 @@ description = '[ˈkaindnis] n.仁慈，好意'
 keywords = ['ai words', 'kindness']
 +++
 
-## [Word](/en/post/word/): [Kindness](/en/post/kindness/)
+## [Word](/post/word/): [Kindness](/post/kindness/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɪndnəs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [friendly](/en/post/friendly/), [generous](/en/post/generous/), [and](/en/post/and/) [considerate](/en/post/considerate/) towards others. [It](/en/post/it/) involves showing compassion, empathy, [and](/en/post/and/) [a](/en/post/a/) willingness [to](/en/post/to/) [help](/en/post/help/) others [without](/en/post/without/) expecting [anything](/en/post/anything/) [in](/en/post/in/) [return](/en/post/return/). 
+- **[Noun](/post/noun/)**: [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [friendly](/post/friendly/), [generous](/post/generous/), [and](/post/and/) [considerate](/post/considerate/) towards others. [It](/post/it/) involves showing compassion, empathy, [and](/post/and/) [a](/post/a/) willingness [to](/post/to/) [help](/post/help/) others [without](/post/without/) expecting [anything](/post/anything/) [in](/post/in/) [return](/post/return/). 
 
-[Example](/en/post/example/) sentences:
-- _Her unwavering [kindness](/en/post/kindness/) helped [many](/en/post/many/) [people](/en/post/people/) [through](/en/post/through/) [their](/en/post/their/) [tough](/en/post/tough/) times._
-- _The [small](/en/post/small/) [act](/en/post/act/) [of](/en/post/of/) [kindness](/en/post/kindness/) [from](/en/post/from/) [a](/en/post/a/) [stranger](/en/post/stranger/) made [my](/en/post/my/) [day](/en/post/day/)._
+[Example](/post/example/) sentences:
+- _Her unwavering [kindness](/post/kindness/) helped [many](/post/many/) [people](/post/people/) [through](/post/through/) [their](/post/their/) [tough](/post/tough/) times._
+- _The [small](/post/small/) [act](/post/act/) [of](/post/of/) [kindness](/post/kindness/) [from](/post/from/) [a](/post/a/) [stranger](/post/stranger/) made [my](/post/my/) [day](/post/day/)._
 
 Phrases:
-- _An [act](/en/post/act/) [of](/en/post/of/) kindness_ - [A](/en/post/a/) [single](/en/post/single/) [instance](/en/post/instance/) [where](/en/post/where/) [someone](/en/post/someone/) shows generosity [or](/en/post/or/) [consideration](/en/post/consideration/) towards [another](/en/post/another/) [person](/en/post/person/).
-- _Kindness [to](/en/post/to/) animals_ - Treating animals [with](/en/post/with/) [care](/en/post/care/) [and](/en/post/and/) [respect](/en/post/respect/).
-- _Pay [it](/en/post/it/) forward_ - Repaying [a](/en/post/a/) [kindness](/en/post/kindness/) received [by](/en/post/by/) doing [something](/en/post/something/) [kind](/en/post/kind/) [for](/en/post/for/) [someone](/en/post/someone/) [else](/en/post/else/).
+- _An [act](/post/act/) [of](/post/of/) kindness_ - [A](/post/a/) [single](/post/single/) [instance](/post/instance/) [where](/post/where/) [someone](/post/someone/) shows generosity [or](/post/or/) [consideration](/post/consideration/) towards [another](/post/another/) [person](/post/person/).
+- _Kindness [to](/post/to/) animals_ - Treating animals [with](/post/with/) [care](/post/care/) [and](/post/and/) [respect](/post/respect/).
+- _Pay [it](/post/it/) forward_ - Repaying [a](/post/a/) [kindness](/post/kindness/) received [by](/post/by/) doing [something](/post/something/) [kind](/post/kind/) [for](/post/for/) [someone](/post/someone/) [else](/post/else/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: _The [old](/en/post/old/) man's [kindness](/en/post/kindness/) knew [no](/en/post/no/) bounds; [he](/en/post/he/) [would](/en/post/would/) [often](/en/post/often/) [give](/en/post/give/) [his](/en/post/his/) [food](/en/post/food/) [to](/en/post/to/) [those](/en/post/those/) [who](/en/post/who/) were [hungry](/en/post/hungry/)._
-- _Through [her](/en/post/her/) [consistent](/en/post/consistent/) [kindness](/en/post/kindness/), [she](/en/post/she/) taught [us](/en/post/us/) [the](/en/post/the/) [true](/en/post/true/) [meaning](/en/post/meaning/) [of](/en/post/of/) generosity._
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: _The [old](/post/old/) man's [kindness](/post/kindness/) knew [no](/post/no/) bounds; [he](/post/he/) [would](/post/would/) [often](/post/often/) [give](/post/give/) [his](/post/his/) [food](/post/food/) [to](/post/to/) [those](/post/those/) [who](/post/who/) were [hungry](/post/hungry/)._
+- _Through [her](/post/her/) [consistent](/post/consistent/) [kindness](/post/kindness/), [she](/post/she/) taught [us](/post/us/) [the](/post/the/) [true](/post/true/) [meaning](/post/meaning/) [of](/post/of/) generosity._
 
 ## Synonyms
 - Benevolence
 - Compassion
 - Gentleness
 - Generosity
-- [Consideration](/en/post/consideration/)
-- [Charity](/en/post/charity/)
+- [Consideration](/post/consideration/)
+- [Charity](/post/charity/)
 - Goodwill
 - Tenderness
 - Humaneness

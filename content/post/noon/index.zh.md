@@ -11,18 +11,18 @@ keywords = ['ai words', 'noon']
 /nuːn/
 
 ## 释义
-- **名词**: 一天中的正午，十二点。例如: "[We](/post/we/) [usually](/post/usually/) [have](/post/have/) [lunch](/post/lunch/) [at](/post/at/) [noon](/post/noon/)."
-- **形容词**: 中午的，正午的。例如: "[The](/post/the/) [sun](/post/sun/) was [at](/post/at/) [its](/post/its/) highest [at](/post/at/) [noon](/post/noon/)."
+- **名词**: 一天中的正午，十二点。例如: "[We](/zh/post/we/) [usually](/zh/post/usually/) [have](/zh/post/have/) [lunch](/zh/post/lunch/) [at](/zh/post/at/) [noon](/zh/post/noon/)."
+- **形容词**: 中午的，正午的。例如: "[The](/zh/post/the/) [sun](/zh/post/sun/) was [at](/zh/post/at/) [its](/zh/post/its/) highest [at](/zh/post/at/) [noon](/zh/post/noon/)."
 
 ## 短语
-- "[at](/post/at/) [noon](/post/noon/)" 表示在中午十二点。
+- "[at](/zh/post/at/) [noon](/zh/post/noon/)" 表示在中午十二点。
 
 ## 例句
-- 名词: "[The](/post/the/) [town](/post/town/) [clock](/post/clock/) chimed precisely [at](/post/at/) [noon](/post/noon/)."
-- 形容词: "[It](/post/it/) was [a](/post/a/) [hot](/post/hot/), noonday [sun](/post/sun/) [that](/post/that/) [beat](/post/beat/) [down](/post/down/) [on](/post/on/) [the](/post/the/) [street](/post/street/)."
+- 名词: "[The](/zh/post/the/) [town](/zh/post/town/) [clock](/zh/post/clock/) chimed precisely [at](/zh/post/at/) [noon](/zh/post/noon/)."
+- 形容词: "[It](/zh/post/it/) was [a](/zh/post/a/) [hot](/zh/post/hot/), noonday [sun](/zh/post/sun/) [that](/zh/post/that/) [beat](/zh/post/beat/) [down](/zh/post/down/) [on](/zh/post/on/) [the](/zh/post/the/) [street](/zh/post/street/)."
 
 ## 同义词
-- [midday](/post/midday/)
-- [high](/post/high/) [noon](/post/noon/)
+- [midday](/zh/post/midday/)
+- [high](/zh/post/high/) [noon](/zh/post/noon/)
 - noontime
-- [twelve](/post/twelve/) o'clock
+- [twelve](/zh/post/twelve/) o'clock

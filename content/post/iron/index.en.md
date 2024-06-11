@@ -7,29 +7,29 @@ description = '[ˈaiən] n.铁；烙铁 vt.烫(衣)'
 keywords = ['ai words', 'iron']
 +++
 
-## [Word](/en/post/word/): [Iron](/en/post/iron/)
+## [Word](/post/word/): [Iron](/post/iron/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaɪərn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) metallic [chemical](/en/post/chemical/) [element](/en/post/element/) [with](/en/post/with/) [the](/en/post/the/) [symbol](/en/post/symbol/) Fe, [atomic](/en/post/atomic/) [number](/en/post/number/) 26, [that](/en/post/that/) is malleable, ductile, [magnetic](/en/post/magnetic/), [and](/en/post/and/) rusts [when](/en/post/when/) exposed [to](/en/post/to/) [moisture](/en/post/moisture/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) horseshoe was made [of](/en/post/of/) [iron](/en/post/iron/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [tool](/en/post/tool/) [or](/en/post/or/) [appliance](/en/post/appliance/) [with](/en/post/with/) [a](/en/post/a/) [flat](/en/post/flat/) [metal](/en/post/metal/) [surface](/en/post/surface/), [usually](/en/post/usually/) heated, [used](/en/post/used/) [for](/en/post/for/) smoothing, pressing, [or](/en/post/or/) shaping [clothes](/en/post/clothes/) [or](/en/post/or/) [other](/en/post/other/) textiles. [For](/en/post/for/) [instance](/en/post/instance/): "[She](/en/post/she/) [used](/en/post/used/) an [iron](/en/post/iron/) [to](/en/post/to/) [remove](/en/post/remove/) [the](/en/post/the/) wrinkles [from](/en/post/from/) [her](/en/post/her/) [dress](/en/post/dress/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [press](/en/post/press/) [clothes](/en/post/clothes/) [or](/en/post/or/) fabrics [with](/en/post/with/) [a](/en/post/a/) heated [iron](/en/post/iron/) [to](/en/post/to/) [remove](/en/post/remove/) wrinkles [or](/en/post/or/) creases. [Example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [iron](/en/post/iron/) [my](/en/post/my/) [shirt](/en/post/shirt/) [before](/en/post/before/) going [to](/en/post/to/) [work](/en/post/work/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [smooth](/en/post/smooth/) [or](/en/post/or/) flatten [something](/en/post/something/) using [pressure](/en/post/pressure/), [often](/en/post/often/) metaphorically. [Example](/en/post/example/): "[Time](/en/post/time/) has ironed [out](/en/post/out/) [many](/en/post/many/) [of](/en/post/of/) [their](/en/post/their/) differences."
-- **[Adjective](/en/post/adjective/)**: ([usually](/en/post/usually/) [in](/en/post/in/) compounds) Relating [to](/en/post/to/) [or](/en/post/or/) made [of](/en/post/of/) [iron](/en/post/iron/). [Example](/en/post/example/): "[Iron](/en/post/iron/) bars were [used](/en/post/used/) [to](/en/post/to/) [reinforce](/en/post/reinforce/) [the](/en/post/the/) [door](/en/post/door/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) metallic [chemical](/post/chemical/) [element](/post/element/) [with](/post/with/) [the](/post/the/) [symbol](/post/symbol/) Fe, [atomic](/post/atomic/) [number](/post/number/) 26, [that](/post/that/) is malleable, ductile, [magnetic](/post/magnetic/), [and](/post/and/) rusts [when](/post/when/) exposed [to](/post/to/) [moisture](/post/moisture/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) horseshoe was made [of](/post/of/) [iron](/post/iron/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [tool](/post/tool/) [or](/post/or/) [appliance](/post/appliance/) [with](/post/with/) [a](/post/a/) [flat](/post/flat/) [metal](/post/metal/) [surface](/post/surface/), [usually](/post/usually/) heated, [used](/post/used/) [for](/post/for/) smoothing, pressing, [or](/post/or/) shaping [clothes](/post/clothes/) [or](/post/or/) [other](/post/other/) textiles. [For](/post/for/) [instance](/post/instance/): "[She](/post/she/) [used](/post/used/) an [iron](/post/iron/) [to](/post/to/) [remove](/post/remove/) [the](/post/the/) wrinkles [from](/post/from/) [her](/post/her/) [dress](/post/dress/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [press](/post/press/) [clothes](/post/clothes/) [or](/post/or/) fabrics [with](/post/with/) [a](/post/a/) heated [iron](/post/iron/) [to](/post/to/) [remove](/post/remove/) wrinkles [or](/post/or/) creases. [Example](/post/example/): "I [need](/post/need/) [to](/post/to/) [iron](/post/iron/) [my](/post/my/) [shirt](/post/shirt/) [before](/post/before/) going [to](/post/to/) [work](/post/work/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [smooth](/post/smooth/) [or](/post/or/) flatten [something](/post/something/) using [pressure](/post/pressure/), [often](/post/often/) metaphorically. [Example](/post/example/): "[Time](/post/time/) has ironed [out](/post/out/) [many](/post/many/) [of](/post/of/) [their](/post/their/) differences."
+- **[Adjective](/post/adjective/)**: ([usually](/post/usually/) [in](/post/in/) compounds) Relating [to](/post/to/) [or](/post/or/) made [of](/post/of/) [iron](/post/iron/). [Example](/post/example/): "[Iron](/post/iron/) bars were [used](/post/used/) [to](/post/to/) [reinforce](/post/reinforce/) [the](/post/the/) [door](/post/door/)."
 
 ## Phrases
-- "[Iron](/en/post/iron/) [fist](/en/post/fist/)": [A](/en/post/a/) [strict](/en/post/strict/) [and](/en/post/and/) inflexible [control](/en/post/control/) [or](/en/post/or/) [leadership](/en/post/leadership/) [style](/en/post/style/).
-- "[Strike](/en/post/strike/) [while](/en/post/while/) [the](/en/post/the/) [iron](/en/post/iron/) is [hot](/en/post/hot/)": [To](/en/post/to/) [act](/en/post/act/) [quickly](/en/post/quickly/) [while](/en/post/while/) an [opportunity](/en/post/opportunity/) [still](/en/post/still/) exists.
-- "[Iron](/en/post/iron/) [will](/en/post/will/)": An [extremely](/en/post/extremely/) [strong](/en/post/strong/) [determination](/en/post/determination/) [or](/en/post/or/) [resolve](/en/post/resolve/).
+- "[Iron](/post/iron/) [fist](/post/fist/)": [A](/post/a/) [strict](/post/strict/) [and](/post/and/) inflexible [control](/post/control/) [or](/post/or/) [leadership](/post/leadership/) [style](/post/style/).
+- "[Strike](/post/strike/) [while](/post/while/) [the](/post/the/) [iron](/post/iron/) is [hot](/post/hot/)": [To](/post/to/) [act](/post/act/) [quickly](/post/quickly/) [while](/post/while/) an [opportunity](/post/opportunity/) [still](/post/still/) exists.
+- "[Iron](/post/iron/) [will](/post/will/)": An [extremely](/post/extremely/) [strong](/post/strong/) [determination](/post/determination/) [or](/post/or/) [resolve](/post/resolve/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) blacksmith forged [the](/en/post/the/) [sword](/en/post/sword/) [from](/en/post/from/) [solid](/en/post/solid/) [iron](/en/post/iron/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) irons [her](/en/post/her/) [uniform](/en/post/uniform/) [every](/en/post/every/) [morning](/en/post/morning/) [before](/en/post/before/) [heading](/en/post/heading/) [to](/en/post/to/) [the](/en/post/the/) [office](/en/post/office/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [iron](/en/post/iron/) gates [at](/en/post/at/) [the](/en/post/the/) [entrance](/en/post/entrance/) [of](/en/post/of/) [the](/en/post/the/) mansion looked imposing."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) blacksmith forged [the](/post/the/) [sword](/post/sword/) [from](/post/from/) [solid](/post/solid/) [iron](/post/iron/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) irons [her](/post/her/) [uniform](/post/uniform/) [every](/post/every/) [morning](/post/morning/) [before](/post/before/) [heading](/post/heading/) [to](/post/to/) [the](/post/the/) [office](/post/office/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [iron](/post/iron/) gates [at](/post/at/) [the](/post/the/) [entrance](/post/entrance/) [of](/post/of/) [the](/post/the/) mansion looked imposing."
 
 ## Synonyms
-- [Noun](/en/post/noun/): [Metal](/en/post/metal/), [steel](/en/post/steel/), wrought [iron](/en/post/iron/)
-- [Verb](/en/post/verb/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) pressing [clothes](/en/post/clothes/)): [Press](/en/post/press/), [steam](/en/post/steam/), [smooth](/en/post/smooth/)
-- [Adjective](/en/post/adjective/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [being](/en/post/being/) made [of](/en/post/of/) [iron](/en/post/iron/)): Ferrous, metallic
+- [Noun](/post/noun/): [Metal](/post/metal/), [steel](/post/steel/), wrought [iron](/post/iron/)
+- [Verb](/post/verb/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) pressing [clothes](/post/clothes/)): [Press](/post/press/), [steam](/post/steam/), [smooth](/post/smooth/)
+- [Adjective](/post/adjective/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [being](/post/being/) made [of](/post/of/) [iron](/post/iron/)): Ferrous, metallic

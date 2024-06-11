@@ -11,17 +11,17 @@ keywords = ['ai words', 'furthermore']
 /fərˈfurthermoʊ/
 
 ## 释义
-- **连词**: 表示添加更多的信息，意为“此外”、“而且”。例如: "[The](/post/the/) [project](/post/project/) was challenging, [furthermore](/post/furthermore/), [it](/post/it/) required [extensive](/post/extensive/) [research](/post/research/)."
+- **连词**: 表示添加更多的信息，意为“此外”、“而且”。例如: "[The](/zh/post/the/) [project](/zh/post/project/) was challenging, [furthermore](/zh/post/furthermore/), [it](/zh/post/it/) required [extensive](/zh/post/extensive/) [research](/zh/post/research/)."
 
 ## 短语
-- "[Furthermore](/post/furthermore/), [there](/post/there/) are [other](/post/other/) factors [to](/post/to/) [consider](/post/consider/)." 意为“除此之外，还有其他因素需要考虑。”
+- "[Furthermore](/zh/post/furthermore/), [there](/zh/post/there/) are [other](/zh/post/other/) factors [to](/zh/post/to/) [consider](/zh/post/consider/)." 意为“除此之外，还有其他因素需要考虑。”
 
 ## 例句
-- "[The](/post/the/) [assignment](/post/assignment/) was [already](/post/already/) [difficult](/post/difficult/), [furthermore](/post/furthermore/), [the](/post/the/) deadline was unexpectedly moved [up](/post/up/)."
+- "[The](/zh/post/the/) [assignment](/zh/post/assignment/) was [already](/zh/post/already/) [difficult](/zh/post/difficult/), [furthermore](/zh/post/furthermore/), [the](/zh/post/the/) deadline was unexpectedly moved [up](/zh/post/up/)."
 
 ## 同义词
-- [Moreover](/post/moreover/)
+- [Moreover](/zh/post/moreover/)
 - Additionally
-- [Besides](/post/besides/)
-- [In](/post/in/) [addition](/post/addition/)
-- [Also](/post/also/)
+- [Besides](/zh/post/besides/)
+- [In](/zh/post/in/) [addition](/zh/post/addition/)
+- [Also](/zh/post/also/)

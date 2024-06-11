@@ -11,22 +11,22 @@ keywords = ['ai words', 'mild']
 /maɪld/
 
 ## 释义
-- **形容词**: 温和的，不严厉的。例如: "[She](/post/she/) has [a](/post/a/) [mild](/post/mild/) [temper](/post/temper/) [and](/post/and/) [never](/post/never/) loses [her](/post/her/) [cool](/post/cool/)."
-- **名词**: 温和的气候或天气。例如: "[The](/post/the/) [region](/post/region/) is known [for](/post/for/) [its](/post/its/) [mild](/post/mild/) [climate](/post/climate/)."
-- **副词**: 轻微地，稍微。例如: "[He](/post/he/) was [only](/post/only/) mildly interested [in](/post/in/) [the](/post/the/) [topic](/post/topic/)."
+- **形容词**: 温和的，不严厉的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [mild](/zh/post/mild/) [temper](/zh/post/temper/) [and](/zh/post/and/) [never](/zh/post/never/) loses [her](/zh/post/her/) [cool](/zh/post/cool/)."
+- **名词**: 温和的气候或天气。例如: "[The](/zh/post/the/) [region](/zh/post/region/) is known [for](/zh/post/for/) [its](/zh/post/its/) [mild](/zh/post/mild/) [climate](/zh/post/climate/)."
+- **副词**: 轻微地，稍微。例如: "[He](/zh/post/he/) was [only](/zh/post/only/) mildly interested [in](/zh/post/in/) [the](/zh/post/the/) [topic](/zh/post/topic/)."
 
 ## 短语
-- "[mild](/post/mild/) mannered" 表示举止温和。
-- "[mild](/post/mild/) [weather](/post/weather/)" 指舒适的天气。
+- "[mild](/zh/post/mild/) mannered" 表示举止温和。
+- "[mild](/zh/post/mild/) [weather](/zh/post/weather/)" 指舒适的天气。
 
 ## 例句
-- 形容词: "[The](/post/the/) [teacher](/post/teacher/) had [a](/post/a/) [mild](/post/mild/) [tone](/post/tone/) [when](/post/when/) addressing [the](/post/the/) students."
-- 名词: "[The](/post/the/) [island](/post/island/) enjoys [a](/post/a/) [mild](/post/mild/) [winter](/post/winter/) [with](/post/with/) [little](/post/little/) rainfall."
-- 副词: "[His](/post/his/) [headache](/post/headache/) was [only](/post/only/) [mild](/post/mild/), [so](/post/so/) [he](/post/he/) didn't [take](/post/take/) [any](/post/any/) [medicine](/post/medicine/)."
+- 形容词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) had [a](/zh/post/a/) [mild](/zh/post/mild/) [tone](/zh/post/tone/) [when](/zh/post/when/) addressing [the](/zh/post/the/) students."
+- 名词: "[The](/zh/post/the/) [island](/zh/post/island/) enjoys [a](/zh/post/a/) [mild](/zh/post/mild/) [winter](/zh/post/winter/) [with](/zh/post/with/) [little](/zh/post/little/) rainfall."
+- 副词: "[His](/zh/post/his/) [headache](/zh/post/headache/) was [only](/zh/post/only/) [mild](/zh/post/mild/), [so](/zh/post/so/) [he](/zh/post/he/) didn't [take](/zh/post/take/) [any](/zh/post/any/) [medicine](/zh/post/medicine/)."
 
 ## 同义词
-- [Gentle](/post/gentle/)
-- [Soft](/post/soft/)
-- [Tame](/post/tame/)
-- [Moderate](/post/moderate/)
-- [Calm](/post/calm/)
+- [Gentle](/zh/post/gentle/)
+- [Soft](/zh/post/soft/)
+- [Tame](/zh/post/tame/)
+- [Moderate](/zh/post/moderate/)
+- [Calm](/zh/post/calm/)

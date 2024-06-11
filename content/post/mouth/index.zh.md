@@ -12,24 +12,24 @@ keywords = ['ai words', 'mouth']
 
 ## 释义
 - **名词**:
-  - 口，嘴；口腔。例如: "[She](/post/she/) has [a](/post/a/) [beautiful](/post/beautiful/) [smile](/post/smile/) [that](/post/that/) lights [up](/post/up/) [her](/post/her/) [whole](/post/whole/) [face](/post/face/), [especially](/post/especially/) [around](/post/around/) [her](/post/her/) [mouth](/post/mouth/)."
-  - （动物的）口，喙。例如: "[The](/post/the/) parrot perched [on](/post/on/) [the](/post/the/) [branch](/post/branch/), [its](/post/its/) colorful beak [opening](/post/opening/) [and](/post/and/) closing [in](/post/in/) [a](/post/a/) mimicry [of](/post/of/) [speech](/post/speech/)."
+  - 口，嘴；口腔。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [smile](/zh/post/smile/) [that](/zh/post/that/) lights [up](/zh/post/up/) [her](/zh/post/her/) [whole](/zh/post/whole/) [face](/zh/post/face/), [especially](/zh/post/especially/) [around](/zh/post/around/) [her](/zh/post/her/) [mouth](/zh/post/mouth/)."
+  - （动物的）口，喙。例如: "[The](/zh/post/the/) parrot perched [on](/zh/post/on/) [the](/zh/post/the/) [branch](/zh/post/branch/), [its](/zh/post/its/) colorful beak [opening](/zh/post/opening/) [and](/zh/post/and/) closing [in](/zh/post/in/) [a](/zh/post/a/) mimicry [of](/zh/post/of/) [speech](/zh/post/speech/)."
 
 - **动词**:
-  - 说话，言语。例如: "[The](/post/the/) [baby](/post/baby/) couldn't [speak](/post/speak/) [yet](/post/yet/), [but](/post/but/) [he](/post/he/) [could](/post/could/) [mouth](/post/mouth/) [the](/post/the/) words [along](/post/along/) [with](/post/with/) [the](/post/the/) [song](/post/song/)."
+  - 说话，言语。例如: "[The](/zh/post/the/) [baby](/zh/post/baby/) couldn't [speak](/zh/post/speak/) [yet](/zh/post/yet/), [but](/zh/post/but/) [he](/zh/post/he/) [could](/zh/post/could/) [mouth](/zh/post/mouth/) [the](/zh/post/the/) words [along](/zh/post/along/) [with](/zh/post/with/) [the](/zh/post/the/) [song](/zh/post/song/)."
 
 ## 短语
-- "[Hold](/post/hold/) [your](/post/your/) horses, it's [not](/post/not/) [safe](/post/safe/) [to](/post/to/) [talk](/post/talk/) [with](/post/with/) [food](/post/food/) [in](/post/in/) [your](/post/your/) [mouth](/post/mouth/)."
-- "[Put](/post/put/) [a](/post/a/) [sock](/post/sock/) [in](/post/in/) [it](/post/it/)" 意味着让某人停止说话。
-- "[Mouth](/post/mouth/) [off](/post/off/)" 意味着无礼地或轻率地说出冒犯人的话。
+- "[Hold](/zh/post/hold/) [your](/zh/post/your/) horses, it's [not](/zh/post/not/) [safe](/zh/post/safe/) [to](/zh/post/to/) [talk](/zh/post/talk/) [with](/zh/post/with/) [food](/zh/post/food/) [in](/zh/post/in/) [your](/zh/post/your/) [mouth](/zh/post/mouth/)."
+- "[Put](/zh/post/put/) [a](/zh/post/a/) [sock](/zh/post/sock/) [in](/zh/post/in/) [it](/zh/post/it/)" 意味着让某人停止说话。
+- "[Mouth](/zh/post/mouth/) [off](/zh/post/off/)" 意味着无礼地或轻率地说出冒犯人的话。
 
 ## 例句
-- 名词: "[She](/post/she/) closed [her](/post/her/) [mouth](/post/mouth/) [in](/post/in/) [surprise](/post/surprise/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [the](/post/the/) [surprise](/post/surprise/) [party](/post/party/)."
-- 动词: "[The](/post/the/) [child](/post/child/) was mouthing [the](/post/the/) lyrics [to](/post/to/) [the](/post/the/) [song](/post/song/) [without](/post/without/) [actually](/post/actually/) singing."
+- 名词: "[She](/zh/post/she/) closed [her](/zh/post/her/) [mouth](/zh/post/mouth/) [in](/zh/post/in/) [surprise](/zh/post/surprise/) [when](/zh/post/when/) [she](/zh/post/she/) [saw](/zh/post/saw/) [the](/zh/post/the/) [surprise](/zh/post/surprise/) [party](/zh/post/party/)."
+- 动词: "[The](/zh/post/the/) [child](/zh/post/child/) was mouthing [the](/zh/post/the/) lyrics [to](/zh/post/to/) [the](/zh/post/the/) [song](/zh/post/song/) [without](/zh/post/without/) [actually](/zh/post/actually/) singing."
 
 ## 同义词
 - Jaws
 - Lips
-- [Oral](/post/oral/) cavity
-- Beak ([for](/post/for/) animals)
-- [Speak](/post/speak/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))
+- [Oral](/zh/post/oral/) cavity
+- Beak ([for](/zh/post/for/) animals)
+- [Speak](/zh/post/speak/) ([as](/zh/post/as/) [a](/zh/post/a/) [verb](/zh/post/verb/))

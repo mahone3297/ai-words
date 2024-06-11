@@ -12,20 +12,20 @@ keywords = ['ai words', 'mankind']
 
 ## 释义
 - **名词**:
-  - 人类，全体人类。例如: "[Mankind](/post/mankind/) has [always](/post/always/) been [curious](/post/curious/) [about](/post/about/) [the](/post/the/) [universe](/post/universe/)."
-  - 人性，人类的本性。例如: "[The](/post/the/) [novel](/post/novel/) explores [the](/post/the/) darker aspects [of](/post/of/) [mankind](/post/mankind/)."
+  - 人类，全体人类。例如: "[Mankind](/zh/post/mankind/) has [always](/zh/post/always/) been [curious](/zh/post/curious/) [about](/zh/post/about/) [the](/zh/post/the/) [universe](/zh/post/universe/)."
+  - 人性，人类的本性。例如: "[The](/zh/post/the/) [novel](/zh/post/novel/) explores [the](/zh/post/the/) darker aspects [of](/zh/post/of/) [mankind](/zh/post/mankind/)."
 
 ## 短语
-- "[The](/post/the/) [whole](/post/whole/) [of](/post/of/) [mankind](/post/mankind/)" 表示全人类。
-- "Mankind's [progress](/post/progress/)" 指人类的进步。
+- "[The](/zh/post/the/) [whole](/zh/post/whole/) [of](/zh/post/of/) [mankind](/zh/post/mankind/)" 表示全人类。
+- "Mankind's [progress](/zh/post/progress/)" 指人类的进步。
 
 ## 例句
-- 名词: "[It](/post/it/) is [important](/post/important/) [for](/post/for/) [all](/post/all/) [of](/post/of/) [mankind](/post/mankind/) [to](/post/to/) [work](/post/work/) [together](/post/together/) [to](/post/to/) combat [climate](/post/climate/) [change](/post/change/)."
-- "[The](/post/the/) [invention](/post/invention/) [of](/post/of/) [fire](/post/fire/) marked [a](/post/a/) [significant](/post/significant/) milestone [in](/post/in/) mankind's [history](/post/history/)."
+- 名词: "[It](/zh/post/it/) is [important](/zh/post/important/) [for](/zh/post/for/) [all](/zh/post/all/) [of](/zh/post/of/) [mankind](/zh/post/mankind/) [to](/zh/post/to/) [work](/zh/post/work/) [together](/zh/post/together/) [to](/zh/post/to/) combat [climate](/zh/post/climate/) [change](/zh/post/change/)."
+- "[The](/zh/post/the/) [invention](/zh/post/invention/) [of](/zh/post/of/) [fire](/zh/post/fire/) marked [a](/zh/post/a/) [significant](/zh/post/significant/) milestone [in](/zh/post/in/) mankind's [history](/zh/post/history/)."
 
 ## 同义词
 - Humanity
-- [Human](/post/human/) [race](/post/race/)
-- [People](/post/people/)
-- [Folk](/post/folk/)
+- [Human](/zh/post/human/) [race](/zh/post/race/)
+- [People](/zh/post/people/)
+- [Folk](/zh/post/folk/)
 - Species

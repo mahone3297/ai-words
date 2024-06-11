@@ -11,20 +11,20 @@ keywords = ['ai words', 'hate']
 /het/
 
 ## 释义
-- **动词**: 对…怀有强烈的憎恶或敌意；讨厌。例如: "I [really](/post/really/) [hate](/post/hate/) doing [laundry](/post/laundry/)."
-- **名词**: 憎恨，厌恶。例如: "[Her](/post/her/) [hatred](/post/hatred/) [for](/post/for/) [him](/post/him/) was [deep](/post/deep/) [and](/post/and/) unyielding."
+- **动词**: 对…怀有强烈的憎恶或敌意；讨厌。例如: "I [really](/zh/post/really/) [hate](/zh/post/hate/) doing [laundry](/zh/post/laundry/)."
+- **名词**: 憎恨，厌恶。例如: "[Her](/zh/post/her/) [hatred](/zh/post/hatred/) [for](/zh/post/for/) [him](/zh/post/him/) was [deep](/zh/post/deep/) [and](/zh/post/and/) unyielding."
 
 ## 短语
-- "[to](/post/to/) [hate](/post/hate/) [something](/post/something/) [with](/post/with/) [a](/post/a/) [passion](/post/passion/)" 非常讨厌某事。
-- "[hate](/post/hate/) [crime](/post/crime/)" 恶意犯罪，基于种族、宗教等理由的仇恨犯罪。
+- "[to](/zh/post/to/) [hate](/zh/post/hate/) [something](/zh/post/something/) [with](/zh/post/with/) [a](/zh/post/a/) [passion](/zh/post/passion/)" 非常讨厌某事。
+- "[hate](/zh/post/hate/) [crime](/zh/post/crime/)" 恶意犯罪，基于种族、宗教等理由的仇恨犯罪。
 
 ## 例句
-- 动词: "I [hate](/post/hate/) getting [up](/post/up/) [early](/post/early/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
-- 名词: "[The](/post/the/) [speech](/post/speech/) was filled [with](/post/with/) [hate](/post/hate/) [and](/post/and/) divisiveness."
+- 动词: "I [hate](/zh/post/hate/) getting [up](/zh/post/up/) [early](/zh/post/early/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+- 名词: "[The](/zh/post/the/) [speech](/zh/post/speech/) was filled [with](/zh/post/with/) [hate](/zh/post/hate/) [and](/zh/post/and/) divisiveness."
 
 ## 同义词
-- [despise](/post/despise/)
+- [despise](/zh/post/despise/)
 - loathe
 - abhor
 - detest
-- [dislike](/post/dislike/) intensely
+- [dislike](/zh/post/dislike/) intensely

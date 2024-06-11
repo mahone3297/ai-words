@@ -7,54 +7,54 @@ description = '[tiːm] n.队，组'
 keywords = ['ai words', 'team']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tiːm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) individuals working [together](/en/post/together/), [often](/en/post/often/) towards [a](/en/post/a/) [common](/en/post/common/) [goal](/en/post/goal/) [or](/en/post/or/) [purpose](/en/post/purpose/).
-   - *[Example](/en/post/example/)*: [The](/en/post/the/) [basketball](/en/post/basketball/) [team](/en/post/team/) consists [of](/en/post/of/) [five](/en/post/five/) players.
-2. [A](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) [people](/en/post/people/) [with](/en/post/with/) complementary skills [or](/en/post/or/) roles.
-   - *[Example](/en/post/example/)*: [The](/en/post/the/) marketing [team](/en/post/team/) brainstormed [new](/en/post/new/) ideas [for](/en/post/for/) [the](/en/post/the/) [campaign](/en/post/campaign/).
-3. [A](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [unity](/en/post/unity/) [or](/en/post/or/) collaboration.
-   - *[Example](/en/post/example/)*: [They](/en/post/they/) formed [a](/en/post/a/) [strong](/en/post/strong/) [team](/en/post/team/) [spirit](/en/post/spirit/) [during](/en/post/during/) [their](/en/post/their/) [project](/en/post/project/).
+### [Noun](/post/noun/)
+1. [A](/post/a/) [group](/post/group/) [of](/post/of/) individuals working [together](/post/together/), [often](/post/often/) towards [a](/post/a/) [common](/post/common/) [goal](/post/goal/) [or](/post/or/) [purpose](/post/purpose/).
+   - *[Example](/post/example/)*: [The](/post/the/) [basketball](/post/basketball/) [team](/post/team/) consists [of](/post/of/) [five](/post/five/) players.
+2. [A](/post/a/) [collection](/post/collection/) [of](/post/of/) [people](/post/people/) [with](/post/with/) complementary skills [or](/post/or/) roles.
+   - *[Example](/post/example/)*: [The](/post/the/) marketing [team](/post/team/) brainstormed [new](/post/new/) ideas [for](/post/for/) [the](/post/the/) [campaign](/post/campaign/).
+3. [A](/post/a/) [sense](/post/sense/) [of](/post/of/) [unity](/post/unity/) [or](/post/or/) collaboration.
+   - *[Example](/post/example/)*: [They](/post/they/) formed [a](/post/a/) [strong](/post/strong/) [team](/post/team/) [spirit](/post/spirit/) [during](/post/during/) [their](/post/their/) [project](/post/project/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [work](/en/post/work/) [together](/en/post/together/) [as](/en/post/as/) [a](/en/post/a/) [group](/en/post/group/).
-   - *[Example](/en/post/example/)*: [The](/en/post/the/) students teamed [up](/en/post/up/) [to](/en/post/to/) [solve](/en/post/solve/) [the](/en/post/the/) [complex](/en/post/complex/) [problem](/en/post/problem/).
-2. [To](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) partnership [or](/en/post/or/) alliance.
-   - *[Example](/en/post/example/)*: [The](/en/post/the/) companies decided [to](/en/post/to/) [team](/en/post/team/) [up](/en/post/up/) [for](/en/post/for/) [a](/en/post/a/) [joint](/en/post/joint/) [venture](/en/post/venture/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [work](/post/work/) [together](/post/together/) [as](/post/as/) [a](/post/a/) [group](/post/group/).
+   - *[Example](/post/example/)*: [The](/post/the/) students teamed [up](/post/up/) [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [complex](/post/complex/) [problem](/post/problem/).
+2. [To](/post/to/) [form](/post/form/) [a](/post/a/) partnership [or](/post/or/) alliance.
+   - *[Example](/post/example/)*: [The](/post/the/) companies decided [to](/post/to/) [team](/post/team/) [up](/post/up/) [for](/post/for/) [a](/post/a/) [joint](/post/joint/) [venture](/post/venture/).
 
-### [Adjective](/en/post/adjective/)
-1. Designating [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) working [together](/en/post/together/).
-   - *[Example](/en/post/example/)*: [The](/en/post/the/) all-star [team](/en/post/team/) was selected [from](/en/post/from/) [various](/en/post/various/) departments.
-2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [organization](/en/post/organization/).
-   - *[Example](/en/post/example/)*: [The](/en/post/the/) [company](/en/post/company/) has [a](/en/post/a/) [highly](/en/post/highly/) collaborative [team](/en/post/team/) [culture](/en/post/culture/).
+### [Adjective](/post/adjective/)
+1. Designating [a](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) working [together](/post/together/).
+   - *[Example](/post/example/)*: [The](/post/the/) all-star [team](/post/team/) was selected [from](/post/from/) [various](/post/various/) departments.
+2. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [organization](/post/organization/).
+   - *[Example](/post/example/)*: [The](/post/the/) [company](/post/company/) has [a](/post/a/) [highly](/post/highly/) collaborative [team](/post/team/) [culture](/post/culture/).
 
 ## Phrases
-- "[Team](/en/post/team/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) collaborate [or](/en/post/or/) [join](/en/post/join/) forces.
-- "[The](/en/post/the/) A-team" is [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [skilled](/en/post/skilled/) [or](/en/post/or/) elite [group](/en/post/group/).
-- "Teamwork" refers [to](/en/post/to/) [the](/en/post/the/) [collective](/en/post/collective/) [effort](/en/post/effort/) [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/).
+- "[Team](/post/team/) [up](/post/up/)" [means](/post/means/) [to](/post/to/) collaborate [or](/post/or/) [join](/post/join/) forces.
+- "[The](/post/the/) A-team" is [a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) [a](/post/a/) [skilled](/post/skilled/) [or](/post/or/) elite [group](/post/group/).
+- "Teamwork" refers [to](/post/to/) [the](/post/the/) [collective](/post/collective/) [effort](/post/effort/) [of](/post/of/) [a](/post/a/) [group](/post/group/).
 
-## [Example](/en/post/example/) Sentences
-- *[Noun](/en/post/noun/)*: [The](/en/post/the/) [team](/en/post/team/) presented [their](/en/post/their/) findings [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/).
-- *[Verb](/en/post/verb/)*: [They](/en/post/they/) decided [to](/en/post/to/) [team](/en/post/team/) [up](/en/post/up/) [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/) [to](/en/post/to/) [save](/en/post/save/) [time](/en/post/time/).
-- *[Adjective](/en/post/adjective/)*: [The](/en/post/the/) team's [performance](/en/post/performance/) exceeded expectations.
+## [Example](/post/example/) Sentences
+- *[Noun](/post/noun/)*: [The](/post/the/) [team](/post/team/) presented [their](/post/their/) findings [at](/post/at/) [the](/post/the/) [conference](/post/conference/).
+- *[Verb](/post/verb/)*: [They](/post/they/) decided [to](/post/to/) [team](/post/team/) [up](/post/up/) [on](/post/on/) [the](/post/the/) [project](/post/project/) [to](/post/to/) [save](/post/save/) [time](/post/time/).
+- *[Adjective](/post/adjective/)*: [The](/post/the/) team's [performance](/post/performance/) exceeded expectations.
 
 ## Synonyms
 - Squad
-- [Group](/en/post/group/)
+- [Group](/post/group/)
 - Ensemble
-- [Collective](/en/post/collective/)
-- [Gang](/en/post/gang/)
-- [Unit](/en/post/unit/)
+- [Collective](/post/collective/)
+- [Gang](/post/gang/)
+- [Unit](/post/unit/)
 - Collaboration
 - Alliance
-- [Crew](/en/post/crew/)
+- [Crew](/post/crew/)
 
 ## Antonyms
 - Solitude
-- [Individual](/en/post/individual/)
-- Lone [wolf](/en/post/wolf/)
+- [Individual](/post/individual/)
+- Lone [wolf](/post/wolf/)
 - Disunity
 - Discord

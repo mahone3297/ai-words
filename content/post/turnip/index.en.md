@@ -7,32 +7,32 @@ description = '[ˈtəːnip] n.萝卜，芜菁'
 keywords = ['ai words', 'turnip']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɜːrnɪp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [turnip](/en/post/turnip/) is [a](/en/post/a/) [root](/en/post/root/) [vegetable](/en/post/vegetable/) [with](/en/post/with/) [a](/en/post/a/) [white](/en/post/white/) [or](/en/post/or/) [purple](/en/post/purple/) bulbous [shape](/en/post/shape/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) culinary dishes, [especially](/en/post/especially/) [in](/en/post/in/) stews [and](/en/post/and/) soups. [It](/en/post/it/) has [a](/en/post/a/) [slightly](/en/post/slightly/) [sweet](/en/post/sweet/) [and](/en/post/and/) earthy flavor.
+### [Noun](/post/noun/)
+[A](/post/a/) [turnip](/post/turnip/) is [a](/post/a/) [root](/post/root/) [vegetable](/post/vegetable/) [with](/post/with/) [a](/post/a/) [white](/post/white/) [or](/post/or/) [purple](/post/purple/) bulbous [shape](/post/shape/), [often](/post/often/) [used](/post/used/) [in](/post/in/) culinary dishes, [especially](/post/especially/) [in](/post/in/) stews [and](/post/and/) soups. [It](/post/it/) has [a](/post/a/) [slightly](/post/slightly/) [sweet](/post/sweet/) [and](/post/and/) earthy flavor.
 
-### [Verb](/en/post/verb/) (informal)
-[To](/en/post/to/) [eat](/en/post/eat/) [or](/en/post/or/) [consume](/en/post/consume/) [a](/en/post/a/) [turnip](/en/post/turnip/), [often](/en/post/often/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) using [it](/en/post/it/) [as](/en/post/as/) [a](/en/post/a/) [food](/en/post/food/) [item](/en/post/item/).
+### [Verb](/post/verb/) (informal)
+[To](/post/to/) [eat](/post/eat/) [or](/post/or/) [consume](/post/consume/) [a](/post/a/) [turnip](/post/turnip/), [often](/post/often/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) using [it](/post/it/) [as](/post/as/) [a](/post/a/) [food](/post/food/) [item](/post/item/).
 
 ## Phrases
-- "[Eat](/en/post/eat/) [your](/en/post/your/) turnips" [as](/en/post/as/) [a](/en/post/a/) [request](/en/post/request/) [for](/en/post/for/) [someone](/en/post/someone/) [to](/en/post/to/) [consume](/en/post/consume/) [their](/en/post/their/) [share](/en/post/share/) [of](/en/post/of/) turnips.
-- "[Store](/en/post/store/) turnips [for](/en/post/for/) [winter](/en/post/winter/)" implies [saving](/en/post/saving/) vegetables [for](/en/post/for/) colder months.
-- "[A](/en/post/a/) turnip's [health](/en/post/health/) benefits" refers [to](/en/post/to/) [the](/en/post/the/) nutritional [value](/en/post/value/) [of](/en/post/of/) [the](/en/post/the/) [vegetable](/en/post/vegetable/).
+- "[Eat](/post/eat/) [your](/post/your/) turnips" [as](/post/as/) [a](/post/a/) [request](/post/request/) [for](/post/for/) [someone](/post/someone/) [to](/post/to/) [consume](/post/consume/) [their](/post/their/) [share](/post/share/) [of](/post/of/) turnips.
+- "[Store](/post/store/) turnips [for](/post/for/) [winter](/post/winter/)" implies [saving](/post/saving/) vegetables [for](/post/for/) colder months.
+- "[A](/post/a/) turnip's [health](/post/health/) benefits" refers [to](/post/to/) [the](/post/the/) nutritional [value](/post/value/) [of](/post/of/) [the](/post/the/) [vegetable](/post/vegetable/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) planted turnips [in](/en/post/in/) [her](/en/post/her/) [garden](/en/post/garden/) [every](/en/post/every/) [spring](/en/post/spring/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) grated [some](/en/post/some/) turnips [into](/en/post/into/) [the](/en/post/the/) [soup](/en/post/soup/) [for](/en/post/for/) [extra](/en/post/extra/) flavor."
-- **Informal**: "I tried [to](/en/post/to/) [get](/en/post/get/) [him](/en/post/him/) [to](/en/post/to/) [eat](/en/post/eat/) [his](/en/post/his/) turnips, [but](/en/post/but/) [he](/en/post/he/) refused."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) planted turnips [in](/post/in/) [her](/post/her/) [garden](/post/garden/) [every](/post/every/) [spring](/post/spring/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) grated [some](/post/some/) turnips [into](/post/into/) [the](/post/the/) [soup](/post/soup/) [for](/post/for/) [extra](/post/extra/) flavor."
+- **Informal**: "I tried [to](/post/to/) [get](/post/get/) [him](/post/him/) [to](/post/to/) [eat](/post/eat/) [his](/post/his/) turnips, [but](/post/but/) [he](/post/he/) refused."
 
 ## Synonyms
-- [Radish](/en/post/radish/) (specifically [when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [similar](/en/post/similar/) [root](/en/post/root/) [vegetable](/en/post/vegetable/))
+- [Radish](/post/radish/) (specifically [when](/post/when/) referring [to](/post/to/) [a](/post/a/) [similar](/post/similar/) [root](/post/root/) [vegetable](/post/vegetable/))
 - Rutabaga
 - Swede
 - Yarrow
-- [White](/en/post/white/) [cabbage](/en/post/cabbage/)
+- [White](/post/white/) [cabbage](/post/cabbage/)
 
 ## Notes
-Turnips [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) metaphorically, [such](/en/post/such/) [as](/en/post/as/) "[He](/en/post/he/) was [a](/en/post/a/) [tough](/en/post/tough/) [nut](/en/post/nut/) [to](/en/post/to/) [crack](/en/post/crack/), [like](/en/post/like/) [a](/en/post/a/) stubborn [turnip](/en/post/turnip/)." [In](/en/post/in/) [this](/en/post/this/) [case](/en/post/case/), "[turnip](/en/post/turnip/)" acts [as](/en/post/as/) [a](/en/post/a/) metaphor [for](/en/post/for/) [someone](/en/post/someone/) [who](/en/post/who/) is [difficult](/en/post/difficult/) [to](/en/post/to/) [persuade](/en/post/persuade/) [or](/en/post/or/) [change](/en/post/change/) [their](/en/post/their/) [mind](/en/post/mind/).
+Turnips [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) metaphorically, [such](/post/such/) [as](/post/as/) "[He](/post/he/) was [a](/post/a/) [tough](/post/tough/) [nut](/post/nut/) [to](/post/to/) [crack](/post/crack/), [like](/post/like/) [a](/post/a/) stubborn [turnip](/post/turnip/)." [In](/post/in/) [this](/post/this/) [case](/post/case/), "[turnip](/post/turnip/)" acts [as](/post/as/) [a](/post/a/) metaphor [for](/post/for/) [someone](/post/someone/) [who](/post/who/) is [difficult](/post/difficult/) [to](/post/to/) [persuade](/post/persuade/) [or](/post/or/) [change](/post/change/) [their](/post/their/) [mind](/post/mind/).

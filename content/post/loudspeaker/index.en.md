@@ -7,31 +7,31 @@ description = '[ˈlaudˈspiːkə] n.扬声器，喇叭'
 keywords = ['ai words', 'loudspeaker']
 +++
 
-## [Word](/en/post/word/): [Loudspeaker](/en/post/loudspeaker/)
+## [Word](/post/word/): [Loudspeaker](/post/loudspeaker/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlaʊdˌspkər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An electroacoustic [device](/en/post/device/) designed [to](/en/post/to/) [convert](/en/post/convert/) [electrical](/en/post/electrical/) signals [into](/en/post/into/) [sound](/en/post/sound/) waves, typically [capable](/en/post/capable/) [of](/en/post/of/) amplifying [sound](/en/post/sound/) [for](/en/post/for/) [public](/en/post/public/) [or](/en/post/or/) [large](/en/post/large/) [area](/en/post/area/) broadcasting. [It](/en/post/it/) [usually](/en/post/usually/) consists [of](/en/post/of/) [a](/en/post/a/) [driver](/en/post/driver/) ([or](/en/post/or/) [multiple](/en/post/multiple/) drivers), an enclosure, [and](/en/post/and/) [sometimes](/en/post/sometimes/) [additional](/en/post/additional/) [electronics](/en/post/electronics/).
+- **[Noun](/post/noun/)**: An electroacoustic [device](/post/device/) designed [to](/post/to/) [convert](/post/convert/) [electrical](/post/electrical/) signals [into](/post/into/) [sound](/post/sound/) waves, typically [capable](/post/capable/) [of](/post/of/) amplifying [sound](/post/sound/) [for](/post/for/) [public](/post/public/) [or](/post/or/) [large](/post/large/) [area](/post/area/) broadcasting. [It](/post/it/) [usually](/post/usually/) consists [of](/post/of/) [a](/post/a/) [driver](/post/driver/) ([or](/post/or/) [multiple](/post/multiple/) drivers), an enclosure, [and](/post/and/) [sometimes](/post/sometimes/) [additional](/post/additional/) [electronics](/post/electronics/).
 
 ### Examples
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) DJ tested [the](/en/post/the/) loudspeakers [before](/en/post/before/) [the](/en/post/the/) [concert](/en/post/concert/) began."
-- "[A](/en/post/a/) [public](/en/post/public/) announcement [system](/en/post/system/) uses [a](/en/post/a/) [network](/en/post/network/) [of](/en/post/of/) loudspeakers [to](/en/post/to/) [broadcast](/en/post/broadcast/) messages [across](/en/post/across/) [the](/en/post/the/) [entire](/en/post/entire/) [building](/en/post/building/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) DJ tested [the](/post/the/) loudspeakers [before](/post/before/) [the](/post/the/) [concert](/post/concert/) began."
+- "[A](/post/a/) [public](/post/public/) announcement [system](/post/system/) uses [a](/post/a/) [network](/post/network/) [of](/post/of/) loudspeakers [to](/post/to/) [broadcast](/post/broadcast/) messages [across](/post/across/) [the](/post/the/) [entire](/post/entire/) [building](/post/building/)."
 
 ## Phrases
-- "[Loudspeaker](/en/post/loudspeaker/) announcement": [A](/en/post/a/) [message](/en/post/message/) [or](/en/post/or/) [information](/en/post/information/) conveyed [through](/en/post/through/) [a](/en/post/a/) [loudspeaker](/en/post/loudspeaker/) [system](/en/post/system/), [often](/en/post/often/) heard [in](/en/post/in/) [public](/en/post/public/) places [like](/en/post/like/) [train](/en/post/train/) stations, airports, [or](/en/post/or/) stadiums.
-- "Built-in loudspeakers": Refers [to](/en/post/to/) speakers [that](/en/post/that/) are integrated [into](/en/post/into/) devices [such](/en/post/such/) [as](/en/post/as/) televisions, computers, [or](/en/post/or/) [portable](/en/post/portable/) [music](/en/post/music/) players.
+- "[Loudspeaker](/post/loudspeaker/) announcement": [A](/post/a/) [message](/post/message/) [or](/post/or/) [information](/post/information/) conveyed [through](/post/through/) [a](/post/a/) [loudspeaker](/post/loudspeaker/) [system](/post/system/), [often](/post/often/) heard [in](/post/in/) [public](/post/public/) places [like](/post/like/) [train](/post/train/) stations, airports, [or](/post/or/) stadiums.
+- "Built-in loudspeakers": Refers [to](/post/to/) speakers [that](/post/that/) are integrated [into](/post/into/) devices [such](/post/such/) [as](/post/as/) televisions, computers, [or](/post/or/) [portable](/post/portable/) [music](/post/music/) players.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) principal's [voice](/en/post/voice/) boomed [from](/en/post/from/) [the](/en/post/the/) school's loudspeakers [during](/en/post/during/) [assembly](/en/post/assembly/)."
-- "[In](/en/post/in/) [his](/en/post/his/) [car](/en/post/car/), [he](/en/post/he/) had installed high-quality loudspeakers [for](/en/post/for/) an immersive audio [experience](/en/post/experience/) [while](/en/post/while/) driving."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) principal's [voice](/post/voice/) boomed [from](/post/from/) [the](/post/the/) school's loudspeakers [during](/post/during/) [assembly](/post/assembly/)."
+- "[In](/post/in/) [his](/post/his/) [car](/post/car/), [he](/post/he/) had installed high-quality loudspeakers [for](/post/for/) an immersive audio [experience](/post/experience/) [while](/post/while/) driving."
 
 ## Synonyms
-- [Speaker](/en/post/speaker/)
-- [Sound](/en/post/sound/) [system](/en/post/system/)
-- [Speaker](/en/post/speaker/) [unit](/en/post/unit/)
-- PA ([Public](/en/post/public/) [Address](/en/post/address/)) [system](/en/post/system/)
-- Amplified [speaker](/en/post/speaker/)
+- [Speaker](/post/speaker/)
+- [Sound](/post/sound/) [system](/post/system/)
+- [Speaker](/post/speaker/) [unit](/post/unit/)
+- PA ([Public](/post/public/) [Address](/post/address/)) [system](/post/system/)
+- Amplified [speaker](/post/speaker/)
 - Boombox (informal)
-- [Horn](/en/post/horn/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts referring [to](/en/post/to/) older [or](/en/post/or/) larger models)
+- [Horn](/post/horn/) ([in](/post/in/) [certain](/post/certain/) contexts referring [to](/post/to/) older [or](/post/or/) larger models)

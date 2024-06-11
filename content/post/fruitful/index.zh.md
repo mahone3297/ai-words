@@ -11,20 +11,20 @@ keywords = ['ai words', 'fruitful']
 /fruːˈtfl/
 
 ## 释义
-- **形容词**: 富有成果的，多产的。例如: "[Her](/post/her/) collaboration [with](/post/with/) [the](/post/the/) [team](/post/team/) was [highly](/post/highly/) [fruitful](/post/fruitful/)."
-- **副词**: 产生丰富结果地。例如: "[The](/post/the/) [project](/post/project/) was carried [out](/post/out/) fruitfully, [leading](/post/leading/) [to](/post/to/) [several](/post/several/) [new](/post/new/) discoveries."
+- **形容词**: 富有成果的，多产的。例如: "[Her](/zh/post/her/) collaboration [with](/zh/post/with/) [the](/zh/post/the/) [team](/zh/post/team/) was [highly](/zh/post/highly/) [fruitful](/zh/post/fruitful/)."
+- **副词**: 产生丰富结果地。例如: "[The](/zh/post/the/) [project](/zh/post/project/) was carried [out](/zh/post/out/) fruitfully, [leading](/zh/post/leading/) [to](/zh/post/to/) [several](/zh/post/several/) [new](/zh/post/new/) discoveries."
 
 ## 短语
-- "[fruitful](/post/fruitful/) collaboration" 意为富有成效的合作。
-- "[fruitful](/post/fruitful/) [discussion](/post/discussion/)" 指富有成果的讨论。
+- "[fruitful](/zh/post/fruitful/) collaboration" 意为富有成效的合作。
+- "[fruitful](/zh/post/fruitful/) [discussion](/zh/post/discussion/)" 指富有成果的讨论。
 
 ## 例句
-- 形容词: "[Their](/post/their/) [fruitful](/post/fruitful/) partnership resulted [in](/post/in/) [multiple](/post/multiple/) best-selling books."
-- 副词: "[The](/post/the/) [meeting](/post/meeting/) was conducted fruitfully, resulting [in](/post/in/) [several](/post/several/) innovative ideas."
+- 形容词: "[Their](/zh/post/their/) [fruitful](/zh/post/fruitful/) partnership resulted [in](/zh/post/in/) [multiple](/zh/post/multiple/) best-selling books."
+- 副词: "[The](/zh/post/the/) [meeting](/zh/post/meeting/) was conducted fruitfully, resulting [in](/zh/post/in/) [several](/zh/post/several/) innovative ideas."
 
 ## 同义词
-- [Productive](/post/productive/)
+- [Productive](/zh/post/productive/)
 - Bountiful
-- [Abundant](/post/abundant/)
-- [Generous](/post/generous/)
+- [Abundant](/zh/post/abundant/)
+- [Generous](/zh/post/generous/)
 - Rewarding

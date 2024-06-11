@@ -9,26 +9,26 @@ keywords = ['ai words', 'Monday']
 
 # Monday
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmʌndeɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [week](/en/post/week/) [following](/en/post/following/) Sunday [and](/en/post/and/) [preceding](/en/post/preceding/) Tuesday, typically considered [the](/en/post/the/) [first](/en/post/first/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) workweek.
+- **[Noun](/post/noun/)**: [The](/post/the/) [day](/post/day/) [of](/post/of/) [the](/post/the/) [week](/post/week/) [following](/post/following/) Sunday [and](/post/and/) [preceding](/post/preceding/) Tuesday, typically considered [the](/post/the/) [first](/post/first/) [day](/post/day/) [of](/post/of/) [the](/post/the/) workweek.
 
-### [Example](/en/post/example/) Sentences
-- "I [always](/en/post/always/) [feel](/en/post/feel/) energized [and](/en/post/and/) [ready](/en/post/ready/) [to](/en/post/to/) [start](/en/post/start/) anew [on](/en/post/on/) Monday mornings."
-- "Monday is [usually](/en/post/usually/) [when](/en/post/when/) [we](/en/post/we/) [have](/en/post/have/) [our](/en/post/our/) [weekly](/en/post/weekly/) [team](/en/post/team/) meetings [at](/en/post/at/) [the](/en/post/the/) [office](/en/post/office/)."
-- "[She](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) Monday [off](/en/post/off/) [to](/en/post/to/) [extend](/en/post/extend/) [her](/en/post/her/) [weekend](/en/post/weekend/) [holiday](/en/post/holiday/)."
+### [Example](/post/example/) Sentences
+- "I [always](/post/always/) [feel](/post/feel/) energized [and](/post/and/) [ready](/post/ready/) [to](/post/to/) [start](/post/start/) anew [on](/post/on/) Monday mornings."
+- "Monday is [usually](/post/usually/) [when](/post/when/) [we](/post/we/) [have](/post/have/) [our](/post/our/) [weekly](/post/weekly/) [team](/post/team/) meetings [at](/post/at/) [the](/post/the/) [office](/post/office/)."
+- "[She](/post/she/) decided [to](/post/to/) [take](/post/take/) Monday [off](/post/off/) [to](/post/to/) [extend](/post/extend/) [her](/post/her/) [weekend](/post/weekend/) [holiday](/post/holiday/)."
 
 ## Phrases
-- "Manic Monday": Refers [to](/en/post/to/) [the](/en/post/the/) [feeling](/en/post/feeling/) [of](/en/post/of/) [stress](/en/post/stress/) [or](/en/post/or/) busyness [often](/en/post/often/) associated [with](/en/post/with/) [the](/en/post/the/) [first](/en/post/first/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) workweek.
-- "Monday blues": [A](/en/post/a/) [term](/en/post/term/) describing [the](/en/post/the/) [feeling](/en/post/feeling/) [of](/en/post/of/) [sadness](/en/post/sadness/) [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) motivation [that](/en/post/that/) [some](/en/post/some/) [people](/en/post/people/) [experience](/en/post/experience/) [at](/en/post/at/) [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [the](/en/post/the/) workweek [after](/en/post/after/) [the](/en/post/the/) [weekend](/en/post/weekend/).
-- "Monday [through](/en/post/through/) Friday": An [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) denote [the](/en/post/the/) [standard](/en/post/standard/) workweek.
+- "Manic Monday": Refers [to](/post/to/) [the](/post/the/) [feeling](/post/feeling/) [of](/post/of/) [stress](/post/stress/) [or](/post/or/) busyness [often](/post/often/) associated [with](/post/with/) [the](/post/the/) [first](/post/first/) [day](/post/day/) [of](/post/of/) [the](/post/the/) workweek.
+- "Monday blues": [A](/post/a/) [term](/post/term/) describing [the](/post/the/) [feeling](/post/feeling/) [of](/post/of/) [sadness](/post/sadness/) [or](/post/or/) [lack](/post/lack/) [of](/post/of/) motivation [that](/post/that/) [some](/post/some/) [people](/post/people/) [experience](/post/experience/) [at](/post/at/) [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [the](/post/the/) workweek [after](/post/after/) [the](/post/the/) [weekend](/post/weekend/).
+- "Monday [through](/post/through/) Friday": An [expression](/post/expression/) [used](/post/used/) [to](/post/to/) denote [the](/post/the/) [standard](/post/standard/) workweek.
 
 ## Synonyms
-- [The](/en/post/the/) [first](/en/post/first/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [week](/en/post/week/)
-- [Weekday](/en/post/weekday/)
-- Workday ([in](/en/post/in/) [many](/en/post/many/) contexts)
-- Monday [morning](/en/post/morning/) ([used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [something](/en/post/something/) [new](/en/post/new/) [or](/en/post/or/) challenging) 
+- [The](/post/the/) [first](/post/first/) [day](/post/day/) [of](/post/of/) [the](/post/the/) [week](/post/week/)
+- [Weekday](/post/weekday/)
+- Workday ([in](/post/in/) [many](/post/many/) contexts)
+- Monday [morning](/post/morning/) ([used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [start](/post/start/) [of](/post/of/) [something](/post/something/) [new](/post/new/) [or](/post/or/) challenging) 
 
-[Note](/en/post/note/): Monday does [not](/en/post/not/) [have](/en/post/have/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), [preposition](/en/post/preposition/), [conjunction](/en/post/conjunction/), [pronoun](/en/post/pronoun/), numeral, [or](/en/post/or/) interjection forms; [it](/en/post/it/) is [strictly](/en/post/strictly/) [a](/en/post/a/) [proper](/en/post/proper/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [day](/en/post/day/) [of](/en/post/of/) [the](/en/post/the/) [week](/en/post/week/).
+[Note](/post/note/): Monday does [not](/post/not/) [have](/post/have/) [verb](/post/verb/), [adjective](/post/adjective/), [adverb](/post/adverb/), [preposition](/post/preposition/), [conjunction](/post/conjunction/), [pronoun](/post/pronoun/), numeral, [or](/post/or/) interjection forms; [it](/post/it/) is [strictly](/post/strictly/) [a](/post/a/) [proper](/post/proper/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [day](/post/day/) [of](/post/of/) [the](/post/the/) [week](/post/week/).

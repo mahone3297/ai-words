@@ -7,36 +7,36 @@ description = '[ˈpikt∫ə] n.画，图片 vt.画'
 keywords = ['ai words', 'picture']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pɪktʃər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Picture](/en/post/picture/)**: [A](/en/post/a/) representation [of](/en/post/of/) [something](/en/post/something/), typically [visual](/en/post/visual/), created using [paint](/en/post/paint/), photography, [digital](/en/post/digital/) media, [or](/en/post/or/) [other](/en/post/other/) [means](/en/post/means/), [often](/en/post/often/) [to](/en/post/to/) depict [a](/en/post/a/) [scene](/en/post/scene/), [person](/en/post/person/), [or](/en/post/or/) [object](/en/post/object/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [painting](/en/post/painting/) [on](/en/post/on/) [the](/en/post/the/) [wall](/en/post/wall/) is [a](/en/post/a/) [beautiful](/en/post/beautiful/) [picture](/en/post/picture/) [of](/en/post/of/) [a](/en/post/a/) [sunset](/en/post/sunset/)."
-- **[Image](/en/post/image/)**: [A](/en/post/a/) [mental](/en/post/mental/) representation [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) based [on](/en/post/on/) [memory](/en/post/memory/) [or](/en/post/or/) [imagination](/en/post/imagination/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [image](/en/post/image/) [of](/en/post/of/) [her](/en/post/her/) [childhood](/en/post/childhood/) [home](/en/post/home/) stayed [with](/en/post/with/) [him](/en/post/him/) [forever](/en/post/forever/)."
-- **Snapshot**: [A](/en/post/a/) [quick](/en/post/quick/), informal [photograph](/en/post/photograph/) taken [without](/en/post/without/) [much](/en/post/much/) planning. [For](/en/post/for/) [example](/en/post/example/): "I took [a](/en/post/a/) snapshot [of](/en/post/of/) [my](/en/post/my/) friends [during](/en/post/during/) [our](/en/post/our/) [vacation](/en/post/vacation/)."
+### [Noun](/post/noun/)
+- **[Picture](/post/picture/)**: [A](/post/a/) representation [of](/post/of/) [something](/post/something/), typically [visual](/post/visual/), created using [paint](/post/paint/), photography, [digital](/post/digital/) media, [or](/post/or/) [other](/post/other/) [means](/post/means/), [often](/post/often/) [to](/post/to/) depict [a](/post/a/) [scene](/post/scene/), [person](/post/person/), [or](/post/or/) [object](/post/object/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [painting](/post/painting/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/) is [a](/post/a/) [beautiful](/post/beautiful/) [picture](/post/picture/) [of](/post/of/) [a](/post/a/) [sunset](/post/sunset/)."
+- **[Image](/post/image/)**: [A](/post/a/) [mental](/post/mental/) representation [of](/post/of/) [something](/post/something/), [often](/post/often/) based [on](/post/on/) [memory](/post/memory/) [or](/post/or/) [imagination](/post/imagination/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [image](/post/image/) [of](/post/of/) [her](/post/her/) [childhood](/post/childhood/) [home](/post/home/) stayed [with](/post/with/) [him](/post/him/) [forever](/post/forever/)."
+- **Snapshot**: [A](/post/a/) [quick](/post/quick/), informal [photograph](/post/photograph/) taken [without](/post/without/) [much](/post/much/) planning. [For](/post/for/) [example](/post/example/): "I took [a](/post/a/) snapshot [of](/post/of/) [my](/post/my/) friends [during](/post/during/) [our](/post/our/) [vacation](/post/vacation/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [picture](/en/post/picture/)**: [To](/en/post/to/) [imagine](/en/post/imagine/) [or](/en/post/or/) visualize [something](/en/post/something/) [in](/en/post/in/) one's [mind](/en/post/mind/). [For](/en/post/for/) [example](/en/post/example/): "[Can](/en/post/can/) [you](/en/post/you/) [picture](/en/post/picture/) [what](/en/post/what/) [the](/en/post/the/) [city](/en/post/city/) [will](/en/post/will/) [look](/en/post/look/) [like](/en/post/like/) [after](/en/post/after/) [the](/en/post/the/) renovations?"
-- **[To](/en/post/to/) [illustrate](/en/post/illustrate/)**: [To](/en/post/to/) [show](/en/post/show/) [or](/en/post/or/) [explain](/en/post/explain/) [something](/en/post/something/) [by](/en/post/by/) providing [a](/en/post/a/) [visual](/en/post/visual/) [aid](/en/post/aid/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [drawing](/en/post/drawing/) [or](/en/post/or/) [photograph](/en/post/photograph/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [diagram](/en/post/diagram/) illustrates [the](/en/post/the/) [complex](/en/post/complex/) [process](/en/post/process/) [clearly](/en/post/clearly/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [picture](/post/picture/)**: [To](/post/to/) [imagine](/post/imagine/) [or](/post/or/) visualize [something](/post/something/) [in](/post/in/) one's [mind](/post/mind/). [For](/post/for/) [example](/post/example/): "[Can](/post/can/) [you](/post/you/) [picture](/post/picture/) [what](/post/what/) [the](/post/the/) [city](/post/city/) [will](/post/will/) [look](/post/look/) [like](/post/like/) [after](/post/after/) [the](/post/the/) renovations?"
+- **[To](/post/to/) [illustrate](/post/illustrate/)**: [To](/post/to/) [show](/post/show/) [or](/post/or/) [explain](/post/explain/) [something](/post/something/) [by](/post/by/) providing [a](/post/a/) [visual](/post/visual/) [aid](/post/aid/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [drawing](/post/drawing/) [or](/post/or/) [photograph](/post/photograph/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [diagram](/post/diagram/) illustrates [the](/post/the/) [complex](/post/complex/) [process](/post/process/) [clearly](/post/clearly/)."
 
-### [Adjective](/en/post/adjective/)
-- **Pictorial**: Having [to](/en/post/to/) [do](/en/post/do/) [with](/en/post/with/) pictures [or](/en/post/or/) images, [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [content](/en/post/content/) [or](/en/post/or/) [style](/en/post/style/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [magazine](/en/post/magazine/) had [a](/en/post/a/) pictorial [spread](/en/post/spread/) [on](/en/post/on/) [famous](/en/post/famous/) landmarks."
+### [Adjective](/post/adjective/)
+- **Pictorial**: Having [to](/post/to/) [do](/post/do/) [with](/post/with/) pictures [or](/post/or/) images, [often](/post/often/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [content](/post/content/) [or](/post/or/) [style](/post/style/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [magazine](/post/magazine/) had [a](/post/a/) pictorial [spread](/post/spread/) [on](/post/on/) [famous](/post/famous/) landmarks."
 
 ## Phrases
-- "[Paint](/en/post/paint/) [a](/en/post/a/) [picture](/en/post/picture/)" [means](/en/post/means/) [to](/en/post/to/) vividly [describe](/en/post/describe/) [or](/en/post/or/) [create](/en/post/create/) [a](/en/post/a/) [mental](/en/post/mental/) [image](/en/post/image/).
-- "[A](/en/post/a/) [picture](/en/post/picture/) is [worth](/en/post/worth/) [a](/en/post/a/) [thousand](/en/post/thousand/) words" is [a](/en/post/a/) [popular](/en/post/popular/) saying suggesting [that](/en/post/that/) [a](/en/post/a/) [single](/en/post/single/) [image](/en/post/image/) [can](/en/post/can/) [convey](/en/post/convey/) [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [information](/en/post/information/).
-- "[Frame](/en/post/frame/) [a](/en/post/a/) [picture](/en/post/picture/)" [means](/en/post/means/) [to](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) [present](/en/post/present/) [something](/en/post/something/) attractively.
+- "[Paint](/post/paint/) [a](/post/a/) [picture](/post/picture/)" [means](/post/means/) [to](/post/to/) vividly [describe](/post/describe/) [or](/post/or/) [create](/post/create/) [a](/post/a/) [mental](/post/mental/) [image](/post/image/).
+- "[A](/post/a/) [picture](/post/picture/) is [worth](/post/worth/) [a](/post/a/) [thousand](/post/thousand/) words" is [a](/post/a/) [popular](/post/popular/) saying suggesting [that](/post/that/) [a](/post/a/) [single](/post/single/) [image](/post/image/) [can](/post/can/) [convey](/post/convey/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [information](/post/information/).
+- "[Frame](/post/frame/) [a](/post/a/) [picture](/post/picture/)" [means](/post/means/) [to](/post/to/) [arrange](/post/arrange/) [or](/post/or/) [present](/post/present/) [something](/post/something/) attractively.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) hung [a](/en/post/a/) [family](/en/post/family/) [portrait](/en/post/portrait/) [on](/en/post/on/) [the](/en/post/the/) [living](/en/post/living/) [room](/en/post/room/) [wall](/en/post/wall/), creating [a](/en/post/a/) focal [point](/en/post/point/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) [picture](/en/post/picture/) [the](/en/post/the/) alien landscape [he](/en/post/he/) [would](/en/post/would/) [soon](/en/post/soon/) [explore](/en/post/explore/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) children loved [the](/en/post/the/) pictorial storybook, filled [with](/en/post/with/) colorful illustrations."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) hung [a](/post/a/) [family](/post/family/) [portrait](/post/portrait/) [on](/post/on/) [the](/post/the/) [living](/post/living/) [room](/post/room/) [wall](/post/wall/), creating [a](/post/a/) focal [point](/post/point/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) tried [to](/post/to/) [picture](/post/picture/) [the](/post/the/) alien landscape [he](/post/he/) [would](/post/would/) [soon](/post/soon/) [explore](/post/explore/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) children loved [the](/post/the/) pictorial storybook, filled [with](/post/with/) colorful illustrations."
 
 ## Synonyms
-- [Image](/en/post/image/)
-- [Illustration](/en/post/illustration/)
+- [Image](/post/image/)
+- [Illustration](/post/illustration/)
 - Representation
 - Depiction
-- [Sketch](/en/post/sketch/)
+- [Sketch](/post/sketch/)
 - Snapshot (informal)

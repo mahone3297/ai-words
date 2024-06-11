@@ -7,39 +7,39 @@ description = '[wɔt∫] vt.&vi.观看 n.手表'
 keywords = ['ai words', 'watch']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɒtʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [clock](/en/post/clock/) [or](/en/post/or/) [watch](/en/post/watch/)**: [A](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) measures [and](/en/post/and/) displays [time](/en/post/time/), [often](/en/post/often/) worn [on](/en/post/on/) [a](/en/post/a/) [wrist](/en/post/wrist/) [or](/en/post/or/) carried [in](/en/post/in/) [a](/en/post/a/) [pocket](/en/post/pocket/).
-- **[To](/en/post/to/) [observe](/en/post/observe/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) paying [close](/en/post/close/) [attention](/en/post/attention/) [to](/en/post/to/) [something](/en/post/something/), [usually](/en/post/usually/) [to](/en/post/to/) [monitor](/en/post/monitor/) events [or](/en/post/or/) [progress](/en/post/progress/).
-- **[Television](/en/post/television/) [show](/en/post/show/)**: [A](/en/post/a/) [regularly](/en/post/regularly/) scheduled [program](/en/post/program/) [broadcast](/en/post/broadcast/) [on](/en/post/on/) [television](/en/post/television/).
+### [Noun](/post/noun/)
+- **[A](/post/a/) [clock](/post/clock/) [or](/post/or/) [watch](/post/watch/)**: [A](/post/a/) [device](/post/device/) [that](/post/that/) measures [and](/post/and/) displays [time](/post/time/), [often](/post/often/) worn [on](/post/on/) [a](/post/a/) [wrist](/post/wrist/) [or](/post/or/) carried [in](/post/in/) [a](/post/a/) [pocket](/post/pocket/).
+- **[To](/post/to/) [observe](/post/observe/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) paying [close](/post/close/) [attention](/post/attention/) [to](/post/to/) [something](/post/something/), [usually](/post/usually/) [to](/post/to/) [monitor](/post/monitor/) events [or](/post/or/) [progress](/post/progress/).
+- **[Television](/post/television/) [show](/post/show/)**: [A](/post/a/) [regularly](/post/regularly/) scheduled [program](/post/program/) [broadcast](/post/broadcast/) [on](/post/on/) [television](/post/television/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [look](/en/post/look/) [at](/en/post/at/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) directing one's [gaze](/en/post/gaze/) [at](/en/post/at/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [to](/en/post/to/) [see](/en/post/see/) [or](/en/post/or/) [monitor](/en/post/monitor/).
-- **[To](/en/post/to/) [keep](/en/post/keep/) [track](/en/post/track/) [of](/en/post/of/)**: [To](/en/post/to/) [follow](/en/post/follow/) [the](/en/post/the/) [progress](/en/post/progress/) [of](/en/post/of/) ([time](/en/post/time/)) using [a](/en/post/a/) [watch](/en/post/watch/).
-- **[To](/en/post/to/) [anticipate](/en/post/anticipate/)**: [To](/en/post/to/) [be](/en/post/be/) prepared [or](/en/post/or/) [expect](/en/post/expect/) [something](/en/post/something/) based [on](/en/post/on/) [past](/en/post/past/) experiences [or](/en/post/or/) [information](/en/post/information/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [look](/post/look/) [at](/post/at/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) directing one's [gaze](/post/gaze/) [at](/post/at/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [to](/post/to/) [see](/post/see/) [or](/post/or/) [monitor](/post/monitor/).
+- **[To](/post/to/) [keep](/post/keep/) [track](/post/track/) [of](/post/of/)**: [To](/post/to/) [follow](/post/follow/) [the](/post/the/) [progress](/post/progress/) [of](/post/of/) ([time](/post/time/)) using [a](/post/a/) [watch](/post/watch/).
+- **[To](/post/to/) [anticipate](/post/anticipate/)**: [To](/post/to/) [be](/post/be/) prepared [or](/post/or/) [expect](/post/expect/) [something](/post/something/) based [on](/post/on/) [past](/post/past/) experiences [or](/post/or/) [information](/post/information/).
 
 ## Phrases
-- "[Keep](/en/post/keep/) an [eye](/en/post/eye/) [on](/en/post/on/)" implies watching [over](/en/post/over/) [or](/en/post/or/) supervising [something](/en/post/something/).
-- "Wristwatch" refers [to](/en/post/to/) [a](/en/post/a/) [watch](/en/post/watch/) worn [on](/en/post/on/) [the](/en/post/the/) [wrist](/en/post/wrist/).
-- "[Pocket](/en/post/pocket/) [watch](/en/post/watch/)" describes [a](/en/post/a/) [watch](/en/post/watch/) carried [in](/en/post/in/) [a](/en/post/a/) [pocket](/en/post/pocket/).
+- "[Keep](/post/keep/) an [eye](/post/eye/) [on](/post/on/)" implies watching [over](/post/over/) [or](/post/or/) supervising [something](/post/something/).
+- "Wristwatch" refers [to](/post/to/) [a](/post/a/) [watch](/post/watch/) worn [on](/post/on/) [the](/post/the/) [wrist](/post/wrist/).
+- "[Pocket](/post/pocket/) [watch](/post/watch/)" describes [a](/post/a/) [watch](/post/watch/) carried [in](/post/in/) [a](/post/a/) [pocket](/post/pocket/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) checked [his](/en/post/his/) [watch](/en/post/watch/) [before](/en/post/before/) leaving [for](/en/post/for/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) watched [the](/en/post/the/) [sunset](/en/post/sunset/) [from](/en/post/from/) [the](/en/post/the/) balcony."
-- **[Television](/en/post/television/) [Show](/en/post/show/)**: "I [usually](/en/post/usually/) [watch](/en/post/watch/) 'Breaking [Bad](/en/post/bad/)' [every](/en/post/every/) Sunday [evening](/en/post/evening/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) checked [his](/post/his/) [watch](/post/watch/) [before](/post/before/) leaving [for](/post/for/) [the](/post/the/) [meeting](/post/meeting/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) watched [the](/post/the/) [sunset](/post/sunset/) [from](/post/from/) [the](/post/the/) balcony."
+- **[Television](/post/television/) [Show](/post/show/)**: "I [usually](/post/usually/) [watch](/post/watch/) 'Breaking [Bad](/post/bad/)' [every](/post/every/) Sunday [evening](/post/evening/)."
 
 ## Synonyms
 - Timepiece
 - Quartz
 - Chronometer
 - Timer
-- [Clock](/en/post/clock/)
-- [Observe](/en/post/observe/)
-- [Monitor](/en/post/monitor/)
-- [Track](/en/post/track/)
-- [Expect](/en/post/expect/)
-- [Look](/en/post/look/) [after](/en/post/after/)
-- [Attend](/en/post/attend/) [to](/en/post/to/)
+- [Clock](/post/clock/)
+- [Observe](/post/observe/)
+- [Monitor](/post/monitor/)
+- [Track](/post/track/)
+- [Expect](/post/expect/)
+- [Look](/post/look/) [after](/post/after/)
+- [Attend](/post/attend/) [to](/post/to/)

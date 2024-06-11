@@ -7,28 +7,28 @@ description = '[ˈmiːtə] n.米，公尺'
 keywords = ['ai words', 'metre']
 +++
 
-## [Word](/en/post/word/): [Metre](/en/post/metre/)
+## [Word](/post/word/): [Metre](/post/metre/)
 
-## [Pronunciation](/en/post/pronunciation/)
-/ˈmiːtər/ ([in](/en/post/in/) British English)
-/miˈtɛr/ ([in](/en/post/in/) [American](/en/post/american/) English)
+## [Pronunciation](/post/pronunciation/)
+/ˈmiːtər/ ([in](/post/in/) British English)
+/miˈtɛr/ ([in](/post/in/) [American](/post/american/) English)
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [length](/en/post/length/) [in](/en/post/in/) [the](/en/post/the/) [International](/en/post/international/) [System](/en/post/system/) [of](/en/post/of/) Units (SI), [equal](/en/post/equal/) [to](/en/post/to/) [approximately](/en/post/approximately/) 39.37 inches [or](/en/post/or/) 1.094 yards. It's [the](/en/post/the/) [basic](/en/post/basic/) [unit](/en/post/unit/) [of](/en/post/of/) [distance](/en/post/distance/) [measurement](/en/post/measurement/) [in](/en/post/in/) [most](/en/post/most/) countries [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [room](/en/post/room/) was 5 metres [long](/en/post/long/)."
-- **[Noun](/en/post/noun/) ([Poetry](/en/post/poetry/)/[Literature](/en/post/literature/))**: [The](/en/post/the/) rhythmic [pattern](/en/post/pattern/) [of](/en/post/of/) [a](/en/post/a/) [line](/en/post/line/) [in](/en/post/in/) verse, determined [by](/en/post/by/) [the](/en/post/the/) [number](/en/post/number/) [and](/en/post/and/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) stressed [and](/en/post/and/) unstressed syllables. [For](/en/post/for/) [instance](/en/post/instance/): "[This](/en/post/this/) [poem](/en/post/poem/) follows [a](/en/post/a/) [strict](/en/post/strict/) iambic pentameter."
+- **[Noun](/post/noun/)**: [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [length](/post/length/) [in](/post/in/) [the](/post/the/) [International](/post/international/) [System](/post/system/) [of](/post/of/) Units (SI), [equal](/post/equal/) [to](/post/to/) [approximately](/post/approximately/) 39.37 inches [or](/post/or/) 1.094 yards. It's [the](/post/the/) [basic](/post/basic/) [unit](/post/unit/) [of](/post/of/) [distance](/post/distance/) [measurement](/post/measurement/) [in](/post/in/) [most](/post/most/) countries [around](/post/around/) [the](/post/the/) [world](/post/world/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [room](/post/room/) was 5 metres [long](/post/long/)."
+- **[Noun](/post/noun/) ([Poetry](/post/poetry/)/[Literature](/post/literature/))**: [The](/post/the/) rhythmic [pattern](/post/pattern/) [of](/post/of/) [a](/post/a/) [line](/post/line/) [in](/post/in/) verse, determined [by](/post/by/) [the](/post/the/) [number](/post/number/) [and](/post/and/) [arrangement](/post/arrangement/) [of](/post/of/) stressed [and](/post/and/) unstressed syllables. [For](/post/for/) [instance](/post/instance/): "[This](/post/this/) [poem](/post/poem/) follows [a](/post/a/) [strict](/post/strict/) iambic pentameter."
   
 ### Phrases
-- "[A](/en/post/a/) [metre](/en/post/metre/) [away](/en/post/away/)" - Refers [to](/en/post/to/) [a](/en/post/a/) [distance](/en/post/distance/) [of](/en/post/of/) [one](/en/post/one/) [metre](/en/post/metre/).
-- "[Metre](/en/post/metre/) [rule](/en/post/rule/)" [or](/en/post/or/) "[Metre](/en/post/metre/) [stick](/en/post/stick/)" - [A](/en/post/a/) measuring [tool](/en/post/tool/) [that](/en/post/that/) is [exactly](/en/post/exactly/) [one](/en/post/one/) [metre](/en/post/metre/) [in](/en/post/in/) [length](/en/post/length/).
-- "[In](/en/post/in/) poetic [metre](/en/post/metre/)" - Referring [to](/en/post/to/) [the](/en/post/the/) rhythmic [structure](/en/post/structure/) [of](/en/post/of/) [a](/en/post/a/) [poem](/en/post/poem/).
+- "[A](/post/a/) [metre](/post/metre/) [away](/post/away/)" - Refers [to](/post/to/) [a](/post/a/) [distance](/post/distance/) [of](/post/of/) [one](/post/one/) [metre](/post/metre/).
+- "[Metre](/post/metre/) [rule](/post/rule/)" [or](/post/or/) "[Metre](/post/metre/) [stick](/post/stick/)" - [A](/post/a/) measuring [tool](/post/tool/) [that](/post/that/) is [exactly](/post/exactly/) [one](/post/one/) [metre](/post/metre/) [in](/post/in/) [length](/post/length/).
+- "[In](/post/in/) poetic [metre](/post/metre/)" - Referring [to](/post/to/) [the](/post/the/) rhythmic [structure](/post/structure/) [of](/post/of/) [a](/post/a/) [poem](/post/poem/).
 
-## [Example](/en/post/example/) Sentences
-- **[Unit](/en/post/unit/) [of](/en/post/of/) [Length](/en/post/length/)**: "[The](/en/post/the/) [new](/en/post/new/) curtains were [exactly](/en/post/exactly/) [two](/en/post/two/) metres [wide](/en/post/wide/)."
-- **Poetic [Metre](/en/post/metre/)**: "Shakespeare's sonnets are written [primarily](/en/post/primarily/) [in](/en/post/in/) iambic pentameter."
+## [Example](/post/example/) Sentences
+- **[Unit](/post/unit/) [of](/post/of/) [Length](/post/length/)**: "[The](/post/the/) [new](/post/new/) curtains were [exactly](/post/exactly/) [two](/post/two/) metres [wide](/post/wide/)."
+- **Poetic [Metre](/post/metre/)**: "Shakespeare's sonnets are written [primarily](/post/primarily/) [in](/post/in/) iambic pentameter."
 
 ## Synonyms
-- [Meter](/en/post/meter/) ([American](/en/post/american/) English [spelling](/en/post/spelling/))
-- ([For](/en/post/for/) [Unit](/en/post/unit/) [of](/en/post/of/) [Length](/en/post/length/)) [Yard](/en/post/yard/) (approx. 1.094 yards)
-- ([For](/en/post/for/) Poetic [Metre](/en/post/metre/)) [Measure](/en/post/measure/), Cadence, [Rhythm](/en/post/rhythm/)
+- [Meter](/post/meter/) ([American](/post/american/) English [spelling](/post/spelling/))
+- ([For](/post/for/) [Unit](/post/unit/) [of](/post/of/) [Length](/post/length/)) [Yard](/post/yard/) (approx. 1.094 yards)
+- ([For](/post/for/) Poetic [Metre](/post/metre/)) [Measure](/post/measure/), Cadence, [Rhythm](/post/rhythm/)
 
-[Note](/en/post/note/): [In](/en/post/in/) [poetry](/en/post/poetry/), [rhythm](/en/post/rhythm/) patterns [may](/en/post/may/) [also](/en/post/also/) [be](/en/post/be/) referred [to](/en/post/to/) [as](/en/post/as/) [specific](/en/post/specific/) types [of](/en/post/of/) metres [such](/en/post/such/) [as](/en/post/as/) trochee, dactyl, [or](/en/post/or/) anapest, [rather](/en/post/rather/) [than](/en/post/than/) [direct](/en/post/direct/) synonyms [for](/en/post/for/) '[metre](/en/post/metre/)'.
+[Note](/post/note/): [In](/post/in/) [poetry](/post/poetry/), [rhythm](/post/rhythm/) patterns [may](/post/may/) [also](/post/also/) [be](/post/be/) referred [to](/post/to/) [as](/post/as/) [specific](/post/specific/) types [of](/post/of/) metres [such](/post/such/) [as](/post/as/) trochee, dactyl, [or](/post/or/) anapest, [rather](/post/rather/) [than](/post/than/) [direct](/post/direct/) synonyms [for](/post/for/) '[metre](/post/metre/)'.

@@ -7,34 +7,34 @@ description = '[sau] vt.播(种) vi.播种'
 keywords = ['ai words', 'sow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səʊ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: n. & v. (sowed, sown; sowable, sowable) 
-    - **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) planting seeds [in](/en/post/in/) [the](/en/post/the/) [ground](/en/post/ground/). 2. [A](/en/post/a/) [quantity](/en/post/quantity/) [of](/en/post/of/) seeds planted [at](/en/post/at/) [one](/en/post/one/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) sowed [the](/en/post/the/) [field](/en/post/field/) [with](/en/post/with/) [wheat](/en/post/wheat/)."
-    - **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [plant](/en/post/plant/) seeds, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [garden](/en/post/garden/) [or](/en/post/or/) [field](/en/post/field/). 2. [To](/en/post/to/) [introduce](/en/post/introduce/) or散布 (an [idea](/en/post/idea/), rumor, [or](/en/post/or/) [belief](/en/post/belief/)). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sowed discord [among](/en/post/among/) [the](/en/post/the/) workers."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) [suitable](/en/post/suitable/) [for](/en/post/for/) sowing; seed-bearing. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [fertile](/en/post/fertile/) [soil](/en/post/soil/) is [good](/en/post/good/) [for](/en/post/for/) sowing crops."
+- **[Verb](/post/verb/)**: n. & v. (sowed, sown; sowable, sowable) 
+    - **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) planting seeds [in](/post/in/) [the](/post/the/) [ground](/post/ground/). 2. [A](/post/a/) [quantity](/post/quantity/) [of](/post/of/) seeds planted [at](/post/at/) [one](/post/one/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) sowed [the](/post/the/) [field](/post/field/) [with](/post/with/) [wheat](/post/wheat/)."
+    - **[Verb](/post/verb/)**: 1. [To](/post/to/) [plant](/post/plant/) seeds, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [garden](/post/garden/) [or](/post/or/) [field](/post/field/). 2. [To](/post/to/) [introduce](/post/introduce/) or散布 (an [idea](/post/idea/), rumor, [or](/post/or/) [belief](/post/belief/)). [For](/post/for/) [example](/post/example/): "[She](/post/she/) sowed discord [among](/post/among/) [the](/post/the/) workers."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) [suitable](/post/suitable/) [for](/post/for/) sowing; seed-bearing. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [fertile](/post/fertile/) [soil](/post/soil/) is [good](/post/good/) [for](/post/for/) sowing crops."
 
 ## Phrases
-- "[Sow](/en/post/sow/) [the](/en/post/the/) seeds [of](/en/post/of/) [success](/en/post/success/)" implies planting [the](/en/post/the/) groundwork [for](/en/post/for/) [future](/en/post/future/) achievements.
-- "[Sow](/en/post/sow/) [and](/en/post/and/) [reap](/en/post/reap/)" is [a](/en/post/a/) proverbial [expression](/en/post/expression/) [meaning](/en/post/meaning/) one's actions [have](/en/post/have/) consequences.
-- "[Sow](/en/post/sow/) [some](/en/post/some/) [love](/en/post/love/)" encourages nurturing relationships.
+- "[Sow](/post/sow/) [the](/post/the/) seeds [of](/post/of/) [success](/post/success/)" implies planting [the](/post/the/) groundwork [for](/post/for/) [future](/post/future/) achievements.
+- "[Sow](/post/sow/) [and](/post/and/) [reap](/post/reap/)" is [a](/post/a/) proverbial [expression](/post/expression/) [meaning](/post/meaning/) one's actions [have](/post/have/) consequences.
+- "[Sow](/post/sow/) [some](/post/some/) [love](/post/love/)" encourages nurturing relationships.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) sowed [the](/en/post/the/) [garden](/en/post/garden/) [with](/en/post/with/) [various](/en/post/various/) flowers."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sown fields were lush [and](/en/post/and/) [green](/en/post/green/) [after](/en/post/after/) [the](/en/post/the/) [spring](/en/post/spring/) rains."
-- **Proverb**: "[His](/en/post/his/) lies sowed distrust [among](/en/post/among/) [his](/en/post/his/) friends."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [gardener](/post/gardener/) sowed [the](/post/the/) [garden](/post/garden/) [with](/post/with/) [various](/post/various/) flowers."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sown fields were lush [and](/post/and/) [green](/post/green/) [after](/post/after/) [the](/post/the/) [spring](/post/spring/) rains."
+- **Proverb**: "[His](/post/his/) lies sowed distrust [among](/post/among/) [his](/post/his/) friends."
 
 ## Synonyms
-- [Plant](/en/post/plant/)
-- [Scatter](/en/post/scatter/)
-- [sow](/en/post/sow/) [forth](/en/post/forth/)
-- [sow](/en/post/sow/) [broadcast](/en/post/broadcast/)
-- [sow](/en/post/sow/) [into](/en/post/into/)
+- [Plant](/post/plant/)
+- [Scatter](/post/scatter/)
+- [sow](/post/sow/) [forth](/post/forth/)
+- [sow](/post/sow/) [broadcast](/post/broadcast/)
+- [sow](/post/sow/) [into](/post/into/)
 
 ## Antonyms
-- [Reap](/en/post/reap/) ([harvest](/en/post/harvest/))
-- [Gather](/en/post/gather/)
-- [Withdraw](/en/post/withdraw/)
+- [Reap](/post/reap/) ([harvest](/post/harvest/))
+- [Gather](/post/gather/)
+- [Withdraw](/post/withdraw/)
 - Uproot

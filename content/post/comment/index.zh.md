@@ -11,20 +11,20 @@ keywords = ['ai words', 'comment']
 /ˈkɑːmənt/
 
 ## 释义
-- **名词 (n)**: 评论，意见，评价。指对某事物发表的看法或观点。例如: "Readers were invited [to](/post/to/) [leave](/post/leave/) comments [on](/post/on/) [the](/post/the/) [article](/post/article/)."
-- **动词 (v)**: 发表评论，评论。例如: "[He](/post/he/) commented [on](/post/on/) [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [the](/post/the/) [food](/post/food/) [at](/post/at/) [the](/post/the/) [restaurant](/post/restaurant/)."
+- **名词 (n)**: 评论，意见，评价。指对某事物发表的看法或观点。例如: "Readers were invited [to](/zh/post/to/) [leave](/zh/post/leave/) comments [on](/zh/post/on/) [the](/zh/post/the/) [article](/zh/post/article/)."
+- **动词 (v)**: 发表评论，评论。例如: "[He](/zh/post/he/) commented [on](/zh/post/on/) [the](/zh/post/the/) [quality](/zh/post/quality/) [of](/zh/post/of/) [the](/zh/post/the/) [food](/zh/post/food/) [at](/zh/post/at/) [the](/zh/post/the/) [restaurant](/zh/post/restaurant/)."
 
 ## 短语
-- "[Comment](/post/comment/) [on](/post/on/) [something](/post/something/)" 意味着对某事发表意见或看法。
-- "[Please](/post/please/) [leave](/post/leave/) [a](/post/a/) [comment](/post/comment/) [below](/post/below/)" 是请求读者在文章下方留下他们的观点。
+- "[Comment](/zh/post/comment/) [on](/zh/post/on/) [something](/zh/post/something/)" 意味着对某事发表意见或看法。
+- "[Please](/zh/post/please/) [leave](/zh/post/leave/) [a](/zh/post/a/) [comment](/zh/post/comment/) [below](/zh/post/below/)" 是请求读者在文章下方留下他们的观点。
 
 ## 例句
-- 名词: "[The](/post/the/) [post](/post/post/) received [numerous](/post/numerous/) [positive](/post/positive/) comments [from](/post/from/) followers."
-- 动词: "[She](/post/she/) commented [that](/post/that/) [the](/post/the/) [movie](/post/movie/) was disappointing."
+- 名词: "[The](/zh/post/the/) [post](/zh/post/post/) received [numerous](/zh/post/numerous/) [positive](/zh/post/positive/) comments [from](/zh/post/from/) followers."
+- 动词: "[She](/zh/post/she/) commented [that](/zh/post/that/) [the](/zh/post/the/) [movie](/zh/post/movie/) was disappointing."
 
 ## 同义词
-- [Remark](/post/remark/)
-- [Opinion](/post/opinion/)
-- [Observation](/post/observation/)
-- [Feedback](/post/feedback/)
+- [Remark](/zh/post/remark/)
+- [Opinion](/zh/post/opinion/)
+- [Observation](/zh/post/observation/)
+- [Feedback](/zh/post/feedback/)
 - Critique

@@ -12,20 +12,20 @@ keywords = ['ai words', 'behave']
 
 ## 释义
 - **动词**:
-  - (行为)表现；举止：[The](/post/the/) children [should](/post/should/) [behave](/post/behave/) [well](/post/well/) [in](/post/in/) [public](/post/public/).
-  - (机器、物质等)运行，表现：[The](/post/the/) [computer](/post/computer/) is behaving strangely [today](/post/today/).
+  - (行为)表现；举止：[The](/zh/post/the/) children [should](/zh/post/should/) [behave](/zh/post/behave/) [well](/zh/post/well/) [in](/zh/post/in/) [public](/zh/post/public/).
+  - (机器、物质等)运行，表现：[The](/zh/post/the/) [computer](/zh/post/computer/) is behaving strangely [today](/zh/post/today/).
 
 ## 短语
-- "[behave](/post/behave/) [oneself](/post/oneself/)" 表现得体，举止规矩：[You](/post/you/) [must](/post/must/) [behave](/post/behave/) [yourself](/post/yourself/) [at](/post/at/) [the](/post/the/) [dinner](/post/dinner/) [party](/post/party/).
-- "[behave](/post/behave/) [like](/post/like/)" 表现得像：[When](/post/when/) he's [angry](/post/angry/), [he](/post/he/) behaves [like](/post/like/) [a](/post/a/) [child](/post/child/).
+- "[behave](/zh/post/behave/) [oneself](/zh/post/oneself/)" 表现得体，举止规矩：[You](/zh/post/you/) [must](/zh/post/must/) [behave](/zh/post/behave/) [yourself](/zh/post/yourself/) [at](/zh/post/at/) [the](/zh/post/the/) [dinner](/zh/post/dinner/) [party](/zh/post/party/).
+- "[behave](/zh/post/behave/) [like](/zh/post/like/)" 表现得像：[When](/zh/post/when/) he's [angry](/zh/post/angry/), [he](/zh/post/he/) behaves [like](/zh/post/like/) [a](/zh/post/a/) [child](/zh/post/child/).
 
 ## 例句
-- 动词: "[She](/post/she/) [always](/post/always/) behaves politely towards [her](/post/her/) elders."
-- "[His](/post/his/) [car](/post/car/) behaved [perfectly](/post/perfectly/) [on](/post/on/) [the](/post/the/) [long](/post/long/) [journey](/post/journey/)."
+- 动词: "[She](/zh/post/she/) [always](/zh/post/always/) behaves politely towards [her](/zh/post/her/) elders."
+- "[His](/zh/post/his/) [car](/zh/post/car/) behaved [perfectly](/zh/post/perfectly/) [on](/zh/post/on/) [the](/zh/post/the/) [long](/zh/post/long/) [journey](/zh/post/journey/)."
 
 ## 同义词
-- [Conduct](/post/conduct/)
-- [Act](/post/act/)
-- [Carry](/post/carry/) [oneself](/post/oneself/)
-- [Perform](/post/perform/)
-- [Demonstrate](/post/demonstrate/)
+- [Conduct](/zh/post/conduct/)
+- [Act](/zh/post/act/)
+- [Carry](/zh/post/carry/) [oneself](/zh/post/oneself/)
+- [Perform](/zh/post/perform/)
+- [Demonstrate](/zh/post/demonstrate/)

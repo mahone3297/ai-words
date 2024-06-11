@@ -7,34 +7,34 @@ description = '[iksˈpəuz] vt.使暴露；揭露'
 keywords = ['ai words', 'expose']
 +++
 
-## [Word](/en/post/word/): [Expose](/en/post/expose/)
+## [Word](/post/word/): [Expose](/post/expose/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈspəʊz/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-  - (transitive) [To](/en/post/to/) [reveal](/en/post/reveal/) [something](/en/post/something/) [that](/en/post/that/) was [previously](/en/post/previously/) hidden, concealed, [or](/en/post/or/) [unknown](/en/post/unknown/); [to](/en/post/to/) [make](/en/post/make/) [visible](/en/post/visible/) [or](/en/post/or/) known. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [journalist](/en/post/journalist/) exposed [the](/en/post/the/) corruption scandal."
-  - (transitive) [To](/en/post/to/) [leave](/en/post/leave/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) unprotected [from](/en/post/from/) [harm](/en/post/harm/), [danger](/en/post/danger/), [or](/en/post/or/) [the](/en/post/the/) elements. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) hikers were exposed [to](/en/post/to/) [harsh](/en/post/harsh/) [weather](/en/post/weather/) conditions [on](/en/post/on/) [the](/en/post/the/) [mountain](/en/post/mountain/) [top](/en/post/top/)."
-  - (transitive) [In](/en/post/in/) photography, [to](/en/post/to/) [allow](/en/post/allow/) [light](/en/post/light/) [to](/en/post/to/) [reach](/en/post/reach/) [a](/en/post/a/) [film](/en/post/film/) [or](/en/post/or/) sensor [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [duration](/en/post/duration/) [to](/en/post/to/) [capture](/en/post/capture/) an [image](/en/post/image/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) photographer exposed [the](/en/post/the/) [film](/en/post/film/) [to](/en/post/to/) [the](/en/post/the/) [perfect](/en/post/perfect/) [amount](/en/post/amount/) [of](/en/post/of/) [light](/en/post/light/)."
+- **[Verb](/post/verb/)**: 
+  - (transitive) [To](/post/to/) [reveal](/post/reveal/) [something](/post/something/) [that](/post/that/) was [previously](/post/previously/) hidden, concealed, [or](/post/or/) [unknown](/post/unknown/); [to](/post/to/) [make](/post/make/) [visible](/post/visible/) [or](/post/or/) known. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [journalist](/post/journalist/) exposed [the](/post/the/) corruption scandal."
+  - (transitive) [To](/post/to/) [leave](/post/leave/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) unprotected [from](/post/from/) [harm](/post/harm/), [danger](/post/danger/), [or](/post/or/) [the](/post/the/) elements. [For](/post/for/) [example](/post/example/): "[The](/post/the/) hikers were exposed [to](/post/to/) [harsh](/post/harsh/) [weather](/post/weather/) conditions [on](/post/on/) [the](/post/the/) [mountain](/post/mountain/) [top](/post/top/)."
+  - (transitive) [In](/post/in/) photography, [to](/post/to/) [allow](/post/allow/) [light](/post/light/) [to](/post/to/) [reach](/post/reach/) [a](/post/a/) [film](/post/film/) [or](/post/or/) sensor [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [duration](/post/duration/) [to](/post/to/) [capture](/post/capture/) an [image](/post/image/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) photographer exposed [the](/post/the/) [film](/post/film/) [to](/post/to/) [the](/post/the/) [perfect](/post/perfect/) [amount](/post/amount/) [of](/post/of/) [light](/post/light/)."
 
 ## Phrases
-- "[Expose](/en/post/expose/) [oneself](/en/post/oneself/)": [To](/en/post/to/) [reveal](/en/post/reveal/) one's [body](/en/post/body/) [or](/en/post/or/) [personal](/en/post/personal/) secrets [in](/en/post/in/) [public](/en/post/public/), [usually](/en/post/usually/) inappropriately.
-- "[Expose](/en/post/expose/) [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/)": [To](/en/post/to/) [bring](/en/post/bring/) [information](/en/post/information/), an [issue](/en/post/issue/), [or](/en/post/or/) [a](/en/post/a/) [person](/en/post/person/) [before](/en/post/before/) [the](/en/post/the/) [public](/en/post/public/) [for](/en/post/for/) scrutiny [or](/en/post/or/) awareness.
-- "[Expose](/en/post/expose/) [the](/en/post/the/) [truth](/en/post/truth/)": [To](/en/post/to/) [reveal](/en/post/reveal/) facts [that](/en/post/that/) were [previously](/en/post/previously/) hidden [or](/en/post/or/) [unknown](/en/post/unknown/).
+- "[Expose](/post/expose/) [oneself](/post/oneself/)": [To](/post/to/) [reveal](/post/reveal/) one's [body](/post/body/) [or](/post/or/) [personal](/post/personal/) secrets [in](/post/in/) [public](/post/public/), [usually](/post/usually/) inappropriately.
+- "[Expose](/post/expose/) [to](/post/to/) [the](/post/the/) [public](/post/public/)": [To](/post/to/) [bring](/post/bring/) [information](/post/information/), an [issue](/post/issue/), [or](/post/or/) [a](/post/a/) [person](/post/person/) [before](/post/before/) [the](/post/the/) [public](/post/public/) [for](/post/for/) scrutiny [or](/post/or/) awareness.
+- "[Expose](/post/expose/) [the](/post/the/) [truth](/post/truth/)": [To](/post/to/) [reveal](/post/reveal/) facts [that](/post/that/) were [previously](/post/previously/) hidden [or](/post/or/) [unknown](/post/unknown/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([reveal](/en/post/reveal/))**: "[The](/en/post/the/) whistleblower exposed [evidence](/en/post/evidence/) [of](/en/post/of/) [illegal](/en/post/illegal/) activities [within](/en/post/within/) [the](/en/post/the/) [company](/en/post/company/)."
-- **[Verb](/en/post/verb/) (unprotected)**: "Children playing [near](/en/post/near/) [the](/en/post/the/) [busy](/en/post/busy/) [road](/en/post/road/) were dangerously exposed [to](/en/post/to/) [potential](/en/post/potential/) accidents."
-- **[Verb](/en/post/verb/) (photography)**: "[After](/en/post/after/) [setting](/en/post/setting/) [up](/en/post/up/) [his](/en/post/his/) tripod, [he](/en/post/he/) exposed [the](/en/post/the/) [shot](/en/post/shot/) [for](/en/post/for/) [several](/en/post/several/) seconds [to](/en/post/to/) [capture](/en/post/capture/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([reveal](/post/reveal/))**: "[The](/post/the/) whistleblower exposed [evidence](/post/evidence/) [of](/post/of/) [illegal](/post/illegal/) activities [within](/post/within/) [the](/post/the/) [company](/post/company/)."
+- **[Verb](/post/verb/) (unprotected)**: "Children playing [near](/post/near/) [the](/post/the/) [busy](/post/busy/) [road](/post/road/) were dangerously exposed [to](/post/to/) [potential](/post/potential/) accidents."
+- **[Verb](/post/verb/) (photography)**: "[After](/post/after/) [setting](/post/setting/) [up](/post/up/) [his](/post/his/) tripod, [he](/post/he/) exposed [the](/post/the/) [shot](/post/shot/) [for](/post/for/) [several](/post/several/) seconds [to](/post/to/) [capture](/post/capture/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/)."
 
 ## Synonyms
-- [Reveal](/en/post/reveal/)
-- [Uncover](/en/post/uncover/)
-- [Disclose](/en/post/disclose/)
-- [Bring](/en/post/bring/) [to](/en/post/to/) [light](/en/post/light/)
-- [Display](/en/post/display/)
-- [Show](/en/post/show/)
-- [Lay](/en/post/lay/) [bare](/en/post/bare/)
+- [Reveal](/post/reveal/)
+- [Uncover](/post/uncover/)
+- [Disclose](/post/disclose/)
+- [Bring](/post/bring/) [to](/post/to/) [light](/post/light/)
+- [Display](/post/display/)
+- [Show](/post/show/)
+- [Lay](/post/lay/) [bare](/post/bare/)
 - Unmask
-- Depict ([in](/en/post/in/) photography context)
+- Depict ([in](/post/in/) photography context)

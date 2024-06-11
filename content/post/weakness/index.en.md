@@ -7,37 +7,37 @@ description = '[ˈwiːknis] n.虚弱，软弱；弱点'
 keywords = ['ai words', 'weakness']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwɛnsəs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: **adj.** 1. [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [weak](/en/post/weak/); [lack](/en/post/lack/) [of](/en/post/of/) [strength](/en/post/strength/) [or](/en/post/or/) [power](/en/post/power/); feebleness. [Example](/en/post/example/): "[His](/en/post/his/) [physical](/en/post/physical/) [weakness](/en/post/weakness/) made [it](/en/post/it/) [difficult](/en/post/difficult/) [for](/en/post/for/) [him](/en/post/him/) [to](/en/post/to/) [carry](/en/post/carry/) [the](/en/post/the/) [heavy](/en/post/heavy/) [box](/en/post/box/)."
-   - **n.** 2. [A](/en/post/a/) [fault](/en/post/fault/) [or](/en/post/or/) [shortcoming](/en/post/shortcoming/) [in](/en/post/in/) one's [character](/en/post/character/) [or](/en/post/or/) abilities, [often](/en/post/often/) related [to](/en/post/to/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) resilience [or](/en/post/or/) [determination](/en/post/determination/). [Example](/en/post/example/): "[Lack](/en/post/lack/) [of](/en/post/of/) self-confidence is [her](/en/post/her/) biggest [weakness](/en/post/weakness/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [or](/en/post/or/) [become](/en/post/become/) weaker, [or](/en/post/or/) [to](/en/post/to/) [exhibit](/en/post/exhibit/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [strength](/en/post/strength/) [or](/en/post/or/) effectiveness. [Example](/en/post/example/): "[Her](/en/post/her/) [resolve](/en/post/resolve/) started [to](/en/post/to/) [weaken](/en/post/weaken/) [after](/en/post/after/) [several](/en/post/several/) sleepless nights."
+- **[Noun](/post/noun/)**: **adj.** 1. [The](/post/the/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [weak](/post/weak/); [lack](/post/lack/) [of](/post/of/) [strength](/post/strength/) [or](/post/or/) [power](/post/power/); feebleness. [Example](/post/example/): "[His](/post/his/) [physical](/post/physical/) [weakness](/post/weakness/) made [it](/post/it/) [difficult](/post/difficult/) [for](/post/for/) [him](/post/him/) [to](/post/to/) [carry](/post/carry/) [the](/post/the/) [heavy](/post/heavy/) [box](/post/box/)."
+   - **n.** 2. [A](/post/a/) [fault](/post/fault/) [or](/post/or/) [shortcoming](/post/shortcoming/) [in](/post/in/) one's [character](/post/character/) [or](/post/or/) abilities, [often](/post/often/) related [to](/post/to/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) resilience [or](/post/or/) [determination](/post/determination/). [Example](/post/example/): "[Lack](/post/lack/) [of](/post/of/) self-confidence is [her](/post/her/) biggest [weakness](/post/weakness/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) [or](/post/or/) [become](/post/become/) weaker, [or](/post/or/) [to](/post/to/) [exhibit](/post/exhibit/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [strength](/post/strength/) [or](/post/or/) effectiveness. [Example](/post/example/): "[Her](/post/her/) [resolve](/post/resolve/) started [to](/post/to/) [weaken](/post/weaken/) [after](/post/after/) [several](/post/several/) sleepless nights."
 
 ## Phrases
-- "[Work](/en/post/work/) [on](/en/post/on/) [your](/en/post/your/) weaknesses" suggests improving [your](/en/post/your/) areas of不足.
-- "[She](/en/post/she/) overcame [her](/en/post/her/) [fear](/en/post/fear/) [as](/en/post/as/) [her](/en/post/her/) [weakness](/en/post/weakness/) turned [into](/en/post/into/) [strength](/en/post/strength/)."
-- "[A](/en/post/a/) person's greatest [weakness](/en/post/weakness/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [their](/en/post/their/) greatest [strength](/en/post/strength/), [if](/en/post/if/) [they](/en/post/they/) [learn](/en/post/learn/) [to](/en/post/to/) [harness](/en/post/harness/) [it](/en/post/it/)."
+- "[Work](/post/work/) [on](/post/on/) [your](/post/your/) weaknesses" suggests improving [your](/post/your/) areas of不足.
+- "[She](/post/she/) overcame [her](/post/her/) [fear](/post/fear/) [as](/post/as/) [her](/post/her/) [weakness](/post/weakness/) turned [into](/post/into/) [strength](/post/strength/)."
+- "[A](/post/a/) person's greatest [weakness](/post/weakness/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [their](/post/their/) greatest [strength](/post/strength/), [if](/post/if/) [they](/post/they/) [learn](/post/learn/) [to](/post/to/) [harness](/post/harness/) [it](/post/it/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [weakness](/en/post/weakness/) [for](/en/post/for/) sweets led [him](/en/post/him/) [to](/en/post/to/) [consume](/en/post/consume/) [too](/en/post/too/) [many](/en/post/many/) calories."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [illness](/en/post/illness/), [his](/en/post/his/) [health](/en/post/health/) has been [steadily](/en/post/steadily/) weakening."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) admired [his](/en/post/his/) [strength](/en/post/strength/) [in](/en/post/in/) spite [of](/en/post/of/) [his](/en/post/his/) [physical](/en/post/physical/) [weakness](/en/post/weakness/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [weakness](/post/weakness/) [for](/post/for/) sweets led [him](/post/him/) [to](/post/to/) [consume](/post/consume/) [too](/post/too/) [many](/post/many/) calories."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [illness](/post/illness/), [his](/post/his/) [health](/post/health/) has been [steadily](/post/steadily/) weakening."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) admired [his](/post/his/) [strength](/post/strength/) [in](/post/in/) spite [of](/post/of/) [his](/post/his/) [physical](/post/physical/) [weakness](/post/weakness/)."
 
 ## Synonyms
 - Vulnerability
 - Flaw
-- [Shortcoming](/en/post/shortcoming/)
+- [Shortcoming](/post/shortcoming/)
 - Deficiency
 - Insufficiency
 - Infirmity
-- [Lack](/en/post/lack/) [of](/en/post/of/) stamina
+- [Lack](/post/lack/) [of](/post/of/) stamina
 
 ## Antonyms
-- [Strength](/en/post/strength/)
+- [Strength](/post/strength/)
 - Robustness
 - Endurance
 - Resilience
-- [Power](/en/post/power/)
+- [Power](/post/power/)
 - Vigor

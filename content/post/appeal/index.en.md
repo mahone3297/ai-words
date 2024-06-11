@@ -7,43 +7,43 @@ description = '[əˈpiːl] vi.&n.呼吁；申述'
 keywords = ['ai words', 'appeal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈpiːl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **An [appeal](/en/post/appeal/)**: [A](/en/post/a/) [request](/en/post/request/) [or](/en/post/or/) entreaty, [often](/en/post/often/) [formal](/en/post/formal/), [for](/en/post/for/) [help](/en/post/help/), [support](/en/post/support/), [or](/en/post/or/) [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [charity](/en/post/charity/) made [a](/en/post/a/) heartfelt [appeal](/en/post/appeal/) [for](/en/post/for/) donations."
-- **[A](/en/post/a/) [legal](/en/post/legal/) [appeal](/en/post/appeal/)**: [A](/en/post/a/) [request](/en/post/request/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [court](/en/post/court/) [decision](/en/post/decision/) reviewed [or](/en/post/or/) overturned. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) defendant filed an [appeal](/en/post/appeal/) [against](/en/post/against/) [their](/en/post/their/) conviction."
-- **An [emotional](/en/post/emotional/) [appeal](/en/post/appeal/)**: An [attempt](/en/post/attempt/) to打动 someone's feelings [or](/en/post/or/) emotions. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [advertisement](/en/post/advertisement/) made [a](/en/post/a/) [strong](/en/post/strong/) [emotional](/en/post/emotional/) [appeal](/en/post/appeal/) [to](/en/post/to/) [potential](/en/post/potential/) customers."
+### [Noun](/post/noun/)
+- **An [appeal](/post/appeal/)**: [A](/post/a/) [request](/post/request/) [or](/post/or/) entreaty, [often](/post/often/) [formal](/post/formal/), [for](/post/for/) [help](/post/help/), [support](/post/support/), [or](/post/or/) [action](/post/action/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [charity](/post/charity/) made [a](/post/a/) heartfelt [appeal](/post/appeal/) [for](/post/for/) donations."
+- **[A](/post/a/) [legal](/post/legal/) [appeal](/post/appeal/)**: [A](/post/a/) [request](/post/request/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [court](/post/court/) [decision](/post/decision/) reviewed [or](/post/or/) overturned. [For](/post/for/) [example](/post/example/): "[The](/post/the/) defendant filed an [appeal](/post/appeal/) [against](/post/against/) [their](/post/their/) conviction."
+- **An [emotional](/post/emotional/) [appeal](/post/appeal/)**: An [attempt](/post/attempt/) to打动 someone's feelings [or](/post/or/) emotions. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [advertisement](/post/advertisement/) made [a](/post/a/) [strong](/post/strong/) [emotional](/post/emotional/) [appeal](/post/appeal/) [to](/post/to/) [potential](/post/potential/) customers."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [appeal](/en/post/appeal/)**: [To](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) assistance, [support](/en/post/support/), [or](/en/post/or/) [consideration](/en/post/consideration/); [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [request](/en/post/request/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [politician](/en/post/politician/) appealed [to](/en/post/to/) [the](/en/post/the/) voters [for](/en/post/for/) [their](/en/post/their/) [support](/en/post/support/)."
-- **[To](/en/post/to/) [appeal](/en/post/appeal/) [to](/en/post/to/)**: [To](/en/post/to/) [attract](/en/post/attract/) [or](/en/post/or/) [influence](/en/post/influence/) someone's [interest](/en/post/interest/) [or](/en/post/or/) emotions. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [show](/en/post/show/) appeals [to](/en/post/to/) [a](/en/post/a/) [wide](/en/post/wide/) [audience](/en/post/audience/) [with](/en/post/with/) [its](/en/post/its/) [diverse](/en/post/diverse/) characters."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [appeal](/post/appeal/)**: [To](/post/to/) [ask](/post/ask/) [for](/post/for/) assistance, [support](/post/support/), [or](/post/or/) [consideration](/post/consideration/); [to](/post/to/) [make](/post/make/) [a](/post/a/) [request](/post/request/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [politician](/post/politician/) appealed [to](/post/to/) [the](/post/the/) voters [for](/post/for/) [their](/post/their/) [support](/post/support/)."
+- **[To](/post/to/) [appeal](/post/appeal/) [to](/post/to/)**: [To](/post/to/) [attract](/post/attract/) [or](/post/or/) [influence](/post/influence/) someone's [interest](/post/interest/) [or](/post/or/) emotions. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [show](/post/show/) appeals [to](/post/to/) [a](/post/a/) [wide](/post/wide/) [audience](/post/audience/) [with](/post/with/) [its](/post/its/) [diverse](/post/diverse/) characters."
 
-### [Adjective](/en/post/adjective/)
-- **Appealing**: [Attractive](/en/post/attractive/) [or](/en/post/or/) persuasive. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/) was [particularly](/en/post/particularly/) appealing [to](/en/post/to/) [them](/en/post/them/)."
+### [Adjective](/post/adjective/)
+- **Appealing**: [Attractive](/post/attractive/) [or](/post/or/) persuasive. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [house](/post/house/) was [particularly](/post/particularly/) appealing [to](/post/to/) [them](/post/them/)."
 
-### [Adverb](/en/post/adverb/)
-- **Appealingly**: [In](/en/post/in/) an appealing [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sang appealingly, [drawing](/en/post/drawing/) [the](/en/post/the/) [crowd](/en/post/crowd/) [in](/en/post/in/)."
+### [Adverb](/post/adverb/)
+- **Appealingly**: [In](/post/in/) an appealing [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) sang appealingly, [drawing](/post/drawing/) [the](/post/the/) [crowd](/post/crowd/) [in](/post/in/)."
 
 ## Phrases
-- "[Make](/en/post/make/) an [appeal](/en/post/appeal/)" [means](/en/post/means/) [to](/en/post/to/) formally [request](/en/post/request/) [something](/en/post/something/).
-- "[Appeal](/en/post/appeal/) [to](/en/post/to/) someone's [better](/en/post/better/) [nature](/en/post/nature/)" encourages [them](/en/post/them/) [to](/en/post/to/) [act](/en/post/act/) morally [or](/en/post/or/) ethically.
-- "[Appeal](/en/post/appeal/) [to](/en/post/to/) [a](/en/post/a/) broader [audience](/en/post/audience/)" suggests targeting [a](/en/post/a/) wider [range](/en/post/range/) [of](/en/post/of/) [people](/en/post/people/).
+- "[Make](/post/make/) an [appeal](/post/appeal/)" [means](/post/means/) [to](/post/to/) formally [request](/post/request/) [something](/post/something/).
+- "[Appeal](/post/appeal/) [to](/post/to/) someone's [better](/post/better/) [nature](/post/nature/)" encourages [them](/post/them/) [to](/post/to/) [act](/post/act/) morally [or](/post/or/) ethically.
+- "[Appeal](/post/appeal/) [to](/post/to/) [a](/post/a/) broader [audience](/post/audience/)" suggests targeting [a](/post/a/) wider [range](/post/range/) [of](/post/of/) [people](/post/people/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [charity](/en/post/charity/) launched [a](/en/post/a/) [national](/en/post/national/) [appeal](/en/post/appeal/) [to](/en/post/to/) [raise](/en/post/raise/) funds [for](/en/post/for/) [disaster](/en/post/disaster/) [relief](/en/post/relief/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) losing [the](/en/post/the/) [first](/en/post/first/) [round](/en/post/round/), [the](/en/post/the/) [team](/en/post/team/) decided [to](/en/post/to/) [appeal](/en/post/appeal/) [the](/en/post/the/) referee's [decision](/en/post/decision/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [menu](/en/post/menu/) items were visually appealing, tempting customers [to](/en/post/to/) [try](/en/post/try/) [them](/en/post/them/)."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) [argument](/en/post/argument/) was appealingly [simple](/en/post/simple/), making [it](/en/post/it/) [easy](/en/post/easy/) [for](/en/post/for/) others [to](/en/post/to/) [understand](/en/post/understand/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [charity](/post/charity/) launched [a](/post/a/) [national](/post/national/) [appeal](/post/appeal/) [to](/post/to/) [raise](/post/raise/) funds [for](/post/for/) [disaster](/post/disaster/) [relief](/post/relief/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) losing [the](/post/the/) [first](/post/first/) [round](/post/round/), [the](/post/the/) [team](/post/team/) decided [to](/post/to/) [appeal](/post/appeal/) [the](/post/the/) referee's [decision](/post/decision/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [menu](/post/menu/) items were visually appealing, tempting customers [to](/post/to/) [try](/post/try/) [them](/post/them/)."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) [argument](/post/argument/) was appealingly [simple](/post/simple/), making [it](/post/it/) [easy](/post/easy/) [for](/post/for/) others [to](/post/to/) [understand](/post/understand/)."
 
 ## Synonyms
-- [Request](/en/post/request/)
+- [Request](/post/request/)
 - Petition
-- [Call](/en/post/call/)
-- [Urge](/en/post/urge/)
+- [Call](/post/call/)
+- [Urge](/post/urge/)
 - Implore
-- [Convince](/en/post/convince/)
-- [Influence](/en/post/influence/)
-- [Attract](/en/post/attract/)
-- [Engage](/en/post/engage/)
+- [Convince](/post/convince/)
+- [Influence](/post/influence/)
+- [Attract](/post/attract/)
+- [Engage](/post/engage/)

@@ -7,28 +7,28 @@ description = '[kənˈstrʌk∫ən] n.建造;建筑(物)'
 keywords = ['ai words', 'construction']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /həˈlɒk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [device](/en/post/device/) [used](/en/post/used/) [to](/en/post/to/) [measure](/en/post/measure/), quantify, [or](/en/post/or/) [express](/en/post/express/) [something](/en/post/something/) [in](/en/post/in/) terms [of](/en/post/of/) units [or](/en/post/or/) standards. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [construction](/en/post/construction/) [company](/en/post/company/) [used](/en/post/used/) [a](/en/post/a/) [laser](/en/post/laser/) [level](/en/post/level/) [for](/en/post/for/) [precise](/en/post/precise/) measurements."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [determine](/en/post/determine/) [the](/en/post/the/) [quantity](/en/post/quantity/), [value](/en/post/value/), [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [something](/en/post/something/) [by](/en/post/by/) [comparison](/en/post/comparison/) [with](/en/post/with/) [a](/en/post/a/) [standard](/en/post/standard/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [construct](/en/post/construct/) [a](/en/post/a/) budget [to](/en/post/to/) [measure](/en/post/measure/) [our](/en/post/our/) [financial](/en/post/financial/) [situation](/en/post/situation/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) forming [or](/en/post/or/) [building](/en/post/building/) [something](/en/post/something/), [often](/en/post/often/) [from](/en/post/from/) [basic](/en/post/basic/) materials. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) builder's expertise lies [in](/en/post/in/) [the](/en/post/the/) [construction](/en/post/construction/) [of](/en/post/of/) houses."
+- **[Noun](/post/noun/)**: [A](/post/a/) [device](/post/device/) [used](/post/used/) [to](/post/to/) [measure](/post/measure/), quantify, [or](/post/or/) [express](/post/express/) [something](/post/something/) [in](/post/in/) terms [of](/post/of/) units [or](/post/or/) standards. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [construction](/post/construction/) [company](/post/company/) [used](/post/used/) [a](/post/a/) [laser](/post/laser/) [level](/post/level/) [for](/post/for/) [precise](/post/precise/) measurements."
+- **[Verb](/post/verb/)**: [To](/post/to/) [determine](/post/determine/) [the](/post/the/) [quantity](/post/quantity/), [value](/post/value/), [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [something](/post/something/) [by](/post/by/) [comparison](/post/comparison/) [with](/post/with/) [a](/post/a/) [standard](/post/standard/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [construct](/post/construct/) [a](/post/a/) budget [to](/post/to/) [measure](/post/measure/) [our](/post/our/) [financial](/post/financial/) [situation](/post/situation/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) forming [or](/post/or/) [building](/post/building/) [something](/post/something/), [often](/post/often/) [from](/post/from/) [basic](/post/basic/) materials. [For](/post/for/) [example](/post/example/): "[The](/post/the/) builder's expertise lies [in](/post/in/) [the](/post/the/) [construction](/post/construction/) [of](/post/of/) houses."
 
 ## Phrases
-- "[Measure](/en/post/measure/) [twice](/en/post/twice/), [cut](/en/post/cut/) [once](/en/post/once/)" advises [careful](/en/post/careful/) [measurement](/en/post/measurement/) [before](/en/post/before/) taking [action](/en/post/action/).
-- "[Construction](/en/post/construction/) workers" are individuals involved [in](/en/post/in/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [building](/en/post/building/) [or](/en/post/or/) renovating structures.
-- "[Building](/en/post/building/) [construction](/en/post/construction/)" refers [to](/en/post/to/) [the](/en/post/the/) systematic [process](/en/post/process/) [of](/en/post/of/) creating [a](/en/post/a/) [structure](/en/post/structure/).
+- "[Measure](/post/measure/) [twice](/post/twice/), [cut](/post/cut/) [once](/post/once/)" advises [careful](/post/careful/) [measurement](/post/measurement/) [before](/post/before/) taking [action](/post/action/).
+- "[Construction](/post/construction/) workers" are individuals involved [in](/post/in/) [the](/post/the/) [process](/post/process/) [of](/post/of/) [building](/post/building/) [or](/post/or/) renovating structures.
+- "[Building](/post/building/) [construction](/post/construction/)" refers [to](/post/to/) [the](/post/the/) systematic [process](/post/process/) [of](/post/of/) creating [a](/post/a/) [structure](/post/structure/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [survey](/en/post/survey/) aimed [to](/en/post/to/) [measure](/en/post/measure/) [public](/en/post/public/) [opinion](/en/post/opinion/) [on](/en/post/on/) [the](/en/post/the/) [new](/en/post/new/) [construction](/en/post/construction/) [project](/en/post/project/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully measured [the](/en/post/the/) ingredients [to](/en/post/to/) [ensure](/en/post/ensure/) [the](/en/post/the/) [perfect](/en/post/perfect/) [cake](/en/post/cake/) recipe."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) months [of](/en/post/of/) [construction](/en/post/construction/), [the](/en/post/the/) [new](/en/post/new/) [bridge](/en/post/bridge/) [finally](/en/post/finally/) opened [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [survey](/post/survey/) aimed [to](/post/to/) [measure](/post/measure/) [public](/post/public/) [opinion](/post/opinion/) [on](/post/on/) [the](/post/the/) [new](/post/new/) [construction](/post/construction/) [project](/post/project/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully measured [the](/post/the/) ingredients [to](/post/to/) [ensure](/post/ensure/) [the](/post/the/) [perfect](/post/perfect/) [cake](/post/cake/) recipe."
+- **[Noun](/post/noun/)**: "[After](/post/after/) months [of](/post/of/) [construction](/post/construction/), [the](/post/the/) [new](/post/new/) [bridge](/post/bridge/) [finally](/post/finally/) opened [to](/post/to/) [the](/post/the/) [public](/post/public/)."
 
 ## Synonyms
 - Assessment
 - Evaluation
 - Estimation
-- [Formation](/en/post/formation/)
-- [Development](/en/post/development/)
+- [Formation](/post/formation/)
+- [Development](/post/development/)
 - Creation

@@ -12,20 +12,20 @@ keywords = ['ai words', 'detect']
 
 ## 释义
 - **动词**:
-1. 发现；察觉：例如: "[The](/post/the/) detective detected signs [of](/post/of/) [a](/post/a/) break-in."
-2. 检测；探测：例如: "[The](/post/the/) [device](/post/device/) [can](/post/can/) [detect](/post/detect/) [even](/post/even/) [the](/post/the/) smallest amounts [of](/post/of/) [radiation](/post/radiation/)."
+1. 发现；察觉：例如: "[The](/zh/post/the/) detective detected signs [of](/zh/post/of/) [a](/zh/post/a/) break-in."
+2. 检测；探测：例如: "[The](/zh/post/the/) [device](/zh/post/device/) [can](/zh/post/can/) [detect](/zh/post/detect/) [even](/zh/post/even/) [the](/zh/post/the/) smallest amounts [of](/zh/post/of/) [radiation](/zh/post/radiation/)."
 
 ## 短语
-- "[Detect](/post/detect/) [something](/post/something/)/[someone](/post/someone/)" 意味着发现或察觉到某事物或某人。
-- "[Detect](/post/detect/) [a](/post/a/) [problem](/post/problem/)" 表示找出或识别一个问题。
+- "[Detect](/zh/post/detect/) [something](/zh/post/something/)/[someone](/zh/post/someone/)" 意味着发现或察觉到某事物或某人。
+- "[Detect](/zh/post/detect/) [a](/zh/post/a/) [problem](/zh/post/problem/)" 表示找出或识别一个问题。
 
 ## 例句
-- 动词: "[The](/post/the/) [security](/post/security/) [system](/post/system/) was [able](/post/able/) [to](/post/to/) [detect](/post/detect/) [the](/post/the/) intruder [immediately](/post/immediately/)."
-- 动词: "[The](/post/the/) [doctor](/post/doctor/) [used](/post/used/) [a](/post/a/) [special](/post/special/) [tool](/post/tool/) [to](/post/to/) [detect](/post/detect/) [any](/post/any/) [potential](/post/potential/) [health](/post/health/) issues."
+- 动词: "[The](/zh/post/the/) [security](/zh/post/security/) [system](/zh/post/system/) was [able](/zh/post/able/) [to](/zh/post/to/) [detect](/zh/post/detect/) [the](/zh/post/the/) intruder [immediately](/zh/post/immediately/)."
+- 动词: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) [used](/zh/post/used/) [a](/zh/post/a/) [special](/zh/post/special/) [tool](/zh/post/tool/) [to](/zh/post/to/) [detect](/zh/post/detect/) [any](/zh/post/any/) [potential](/zh/post/potential/) [health](/zh/post/health/) issues."
 
 ## 同义词
-- [Discover](/post/discover/)
-- [Identify](/post/identify/)
-- [Uncover](/post/uncover/)
-- [Sense](/post/sense/)
-- [Recognize](/post/recognize/)
+- [Discover](/zh/post/discover/)
+- [Identify](/zh/post/identify/)
+- [Uncover](/zh/post/uncover/)
+- [Sense](/zh/post/sense/)
+- [Recognize](/zh/post/recognize/)

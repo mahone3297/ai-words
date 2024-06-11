@@ -11,21 +11,21 @@ keywords = ['ai words', 'breathe']
 /briːð/
 
 ## 释义
-- **动词**: 呼吸；吸气或呼气。例如: "[He](/post/he/) took [a](/post/a/) [deep](/post/deep/) [breath](/post/breath/) [before](/post/before/) diving [into](/post/into/) [the](/post/the/) [pool](/post/pool/)."
-- **名词**: 呼吸；气息。例如: "[The](/post/the/) baby's [first](/post/first/) [breath](/post/breath/) was [a](/post/a/) [sign](/post/sign/) [of](/post/of/) [life](/post/life/)."
+- **动词**: 呼吸；吸气或呼气。例如: "[He](/zh/post/he/) took [a](/zh/post/a/) [deep](/zh/post/deep/) [breath](/zh/post/breath/) [before](/zh/post/before/) diving [into](/zh/post/into/) [the](/zh/post/the/) [pool](/zh/post/pool/)."
+- **名词**: 呼吸；气息。例如: "[The](/zh/post/the/) baby's [first](/zh/post/first/) [breath](/zh/post/breath/) was [a](/zh/post/a/) [sign](/zh/post/sign/) [of](/zh/post/of/) [life](/zh/post/life/)."
 
 ## 短语
-- "[Breathe](/post/breathe/) [in](/post/in/)" 吸气。
-- "[Breathe](/post/breathe/) [out](/post/out/)" 呼气。
-- "[Take](/post/take/) [a](/post/a/) [deep](/post/deep/) [breath](/post/breath/)" 深呼吸。
+- "[Breathe](/zh/post/breathe/) [in](/zh/post/in/)" 吸气。
+- "[Breathe](/zh/post/breathe/) [out](/zh/post/out/)" 呼气。
+- "[Take](/zh/post/take/) [a](/zh/post/a/) [deep](/zh/post/deep/) [breath](/zh/post/breath/)" 深呼吸。
 
 ## 例句
-- 动词: "[She](/post/she/) had [to](/post/to/) [remind](/post/remind/) [herself](/post/herself/) [to](/post/to/) [breathe](/post/breathe/) [during](/post/during/) [the](/post/the/) stressful [situation](/post/situation/)."
-- 名词: "[His](/post/his/) [heavy](/post/heavy/) breaths were heard [in](/post/in/) [the](/post/the/) [quiet](/post/quiet/) [room](/post/room/)."
+- 动词: "[She](/zh/post/she/) had [to](/zh/post/to/) [remind](/zh/post/remind/) [herself](/zh/post/herself/) [to](/zh/post/to/) [breathe](/zh/post/breathe/) [during](/zh/post/during/) [the](/zh/post/the/) stressful [situation](/zh/post/situation/)."
+- 名词: "[His](/zh/post/his/) [heavy](/zh/post/heavy/) breaths were heard [in](/zh/post/in/) [the](/zh/post/the/) [quiet](/zh/post/quiet/) [room](/zh/post/room/)."
 
 ## 同义词
 - Inhale
 - Exhale
 - Respire
-- [Breathe](/post/breathe/) [in](/post/in/)
-- [Breathe](/post/breathe/) [out](/post/out/)
+- [Breathe](/zh/post/breathe/) [in](/zh/post/in/)
+- [Breathe](/zh/post/breathe/) [out](/zh/post/out/)

@@ -7,37 +7,37 @@ description = '[ˈɔridʒin] n.起源，由来；出身'
 keywords = ['ai words', 'origin']
 +++
 
-## [Word](/en/post/word/): [Origin](/en/post/origin/)
+## [Word](/post/word/): [Origin](/post/origin/)
 
-### [Pronunciation](/en/post/pronunciation/)
+### [Pronunciation](/post/pronunciation/)
 /ˈôrəjn/
 
 ### Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [point](/en/post/point/) [or](/en/post/or/) [place](/en/post/place/) [where](/en/post/where/) [something](/en/post/something/) begins, arises, [or](/en/post/or/) is derived; [the](/en/post/the/) starting [point](/en/post/point/) [or](/en/post/or/) [source](/en/post/source/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [origin](/en/post/origin/) [of](/en/post/of/) [the](/en/post/the/) [river](/en/post/river/) [can](/en/post/can/) [be](/en/post/be/) traced [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) mountains."
-  - [In](/en/post/in/) [mathematics](/en/post/mathematics/), [it](/en/post/it/) refers [to](/en/post/to/) [the](/en/post/the/) starting [point](/en/post/point/) [of](/en/post/of/) [a](/en/post/a/) [coordinate](/en/post/coordinate/) [system](/en/post/system/), [usually](/en/post/usually/) (0,0).
-  - [In](/en/post/in/) genetics, [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [the](/en/post/the/) ancestral [or](/en/post/or/) genetic [source](/en/post/source/) [of](/en/post/of/) [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) [origin](/en/post/origin/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) trait [or](/en/post/or/) species.
+- **[Noun](/post/noun/)**: [The](/post/the/) [point](/post/point/) [or](/post/or/) [place](/post/place/) [where](/post/where/) [something](/post/something/) begins, arises, [or](/post/or/) is derived; [the](/post/the/) starting [point](/post/point/) [or](/post/or/) [source](/post/source/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [origin](/post/origin/) [of](/post/of/) [the](/post/the/) [river](/post/river/) [can](/post/can/) [be](/post/be/) traced [back](/post/back/) [to](/post/to/) [the](/post/the/) mountains."
+  - [In](/post/in/) [mathematics](/post/mathematics/), [it](/post/it/) refers [to](/post/to/) [the](/post/the/) starting [point](/post/point/) [of](/post/of/) [a](/post/a/) [coordinate](/post/coordinate/) [system](/post/system/), [usually](/post/usually/) (0,0).
+  - [In](/post/in/) genetics, [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [the](/post/the/) ancestral [or](/post/or/) genetic [source](/post/source/) [of](/post/of/) [something](/post/something/), [such](/post/such/) [as](/post/as/) [the](/post/the/) [origin](/post/origin/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) trait [or](/post/or/) species.
   
-- **[Verb](/en/post/verb/)**: (originate) [To](/en/post/to/) [begin](/en/post/begin/), [start](/en/post/start/), [or](/en/post/or/) [have](/en/post/have/) [its](/en/post/its/) roots [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/), [time](/en/post/time/), [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [tradition](/en/post/tradition/) originated [from](/en/post/from/) [ancient](/en/post/ancient/) times."
-  - [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [invent](/en/post/invent/) [something](/en/post/something/), e.g., "[The](/en/post/the/) [company](/en/post/company/) originated [the](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) online [shopping](/en/post/shopping/)."
+- **[Verb](/post/verb/)**: (originate) [To](/post/to/) [begin](/post/begin/), [start](/post/start/), [or](/post/or/) [have](/post/have/) [its](/post/its/) roots [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/), [time](/post/time/), [or](/post/or/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [tradition](/post/tradition/) originated [from](/post/from/) [ancient](/post/ancient/) times."
+  - [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) [create](/post/create/) [or](/post/or/) [invent](/post/invent/) [something](/post/something/), e.g., "[The](/post/the/) [company](/post/company/) originated [the](/post/the/) [concept](/post/concept/) [of](/post/of/) online [shopping](/post/shopping/)."
 
 ### Phrases
-- "[Place](/en/post/place/) [of](/en/post/of/) [origin](/en/post/origin/)" refers [to](/en/post/to/) [the](/en/post/the/) [location](/en/post/location/) [where](/en/post/where/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) comes [from](/en/post/from/) originally.
-- "[Origin](/en/post/origin/) [story](/en/post/story/)" typically refers [to](/en/post/to/) [the](/en/post/the/) [background](/en/post/background/) [or](/en/post/or/) [beginning](/en/post/beginning/) narrative [of](/en/post/of/) [a](/en/post/a/) [character](/en/post/character/), [organization](/en/post/organization/), [or](/en/post/or/) [idea](/en/post/idea/).
-- "Originate [from](/en/post/from/)" [means](/en/post/means/) [to](/en/post/to/) [come](/en/post/come/) [from](/en/post/from/) [or](/en/post/or/) [be](/en/post/be/) produced [by](/en/post/by/) [a](/en/post/a/) [specific](/en/post/specific/) [source](/en/post/source/).
+- "[Place](/post/place/) [of](/post/of/) [origin](/post/origin/)" refers [to](/post/to/) [the](/post/the/) [location](/post/location/) [where](/post/where/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) comes [from](/post/from/) originally.
+- "[Origin](/post/origin/) [story](/post/story/)" typically refers [to](/post/to/) [the](/post/the/) [background](/post/background/) [or](/post/or/) [beginning](/post/beginning/) narrative [of](/post/of/) [a](/post/a/) [character](/post/character/), [organization](/post/organization/), [or](/post/or/) [idea](/post/idea/).
+- "Originate [from](/post/from/)" [means](/post/means/) [to](/post/to/) [come](/post/come/) [from](/post/from/) [or](/post/or/) [be](/post/be/) produced [by](/post/by/) [a](/post/a/) [specific](/post/specific/) [source](/post/source/).
 
-### [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) origins [of](/en/post/of/) [this](/en/post/this/) [festival](/en/post/festival/) [date](/en/post/date/) [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) medieval [era](/en/post/era/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [modern](/en/post/modern/) Olympic Games originated [in](/en/post/in/) Athens, Greece, [in](/en/post/in/) 1896."
+### [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) origins [of](/post/of/) [this](/post/this/) [festival](/post/festival/) [date](/post/date/) [back](/post/back/) [to](/post/to/) [the](/post/the/) medieval [era](/post/era/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [modern](/post/modern/) Olympic Games originated [in](/post/in/) Athens, Greece, [in](/post/in/) 1896."
 
 ### Synonyms
-- [Source](/en/post/source/)
-- [Beginning](/en/post/beginning/)
-- [Start](/en/post/start/)
+- [Source](/post/source/)
+- [Beginning](/post/beginning/)
+- [Start](/post/start/)
 - Birthplace
 - Derivation
 - Genesis
-- [Foundation](/en/post/foundation/)
-- [Root](/en/post/root/)
-- [Background](/en/post/background/)
+- [Foundation](/post/foundation/)
+- [Root](/post/root/)
+- [Background](/post/background/)
 - Ancestry
 - Inception

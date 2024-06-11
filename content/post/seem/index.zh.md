@@ -8,23 +8,23 @@ keywords = ['ai words', 'seem']
 +++
 
 ## 读音
-/[seem](/post/seem/)/
+/[seem](/zh/post/seem/)/
 
 ## 释义
 - **动词**:
-1. 表现出；显得：看起来，似乎。例如: "[She](/post/she/) seems [happy](/post/happy/) [today](/post/today/)."
-2. 给人以...的印象：好像，仿佛。例如: "[It](/post/it/) seems [that](/post/that/) [he](/post/he/) has [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [experience](/post/experience/)."
+1. 表现出；显得：看起来，似乎。例如: "[She](/zh/post/she/) seems [happy](/zh/post/happy/) [today](/zh/post/today/)."
+2. 给人以...的印象：好像，仿佛。例如: "[It](/zh/post/it/) seems [that](/zh/post/that/) [he](/zh/post/he/) has [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) [experience](/zh/post/experience/)."
 
 ## 短语
-- "Seemingly" 作为副词，意思是表面上，看似。例如: "Seemingly, [everything](/post/everything/) was going [well](/post/well/)."
+- "Seemingly" 作为副词，意思是表面上，看似。例如: "Seemingly, [everything](/zh/post/everything/) was going [well](/zh/post/well/)."
 
 ## 例句
-- "[The](/post/the/) [weather](/post/weather/) seems [to](/post/to/) [be](/post/be/) improving." (天气似乎正在好转。)
-- "[It](/post/it/) seems [unlikely](/post/unlikely/) [that](/post/that/) [he](/post/he/) [will](/post/will/) [come](/post/come/)." (他似乎不太可能来。)
+- "[The](/zh/post/the/) [weather](/zh/post/weather/) seems [to](/zh/post/to/) [be](/zh/post/be/) improving." (天气似乎正在好转。)
+- "[It](/zh/post/it/) seems [unlikely](/zh/post/unlikely/) [that](/zh/post/that/) [he](/zh/post/he/) [will](/zh/post/will/) [come](/zh/post/come/)." (他似乎不太可能来。)
 
 ## 同义词
-- [Appear](/post/appear/)
-- [Look](/post/look/)
-- [Give](/post/give/) [the](/post/the/) [impression](/post/impression/)
-- [Give](/post/give/) [the](/post/the/) [appearance](/post/appearance/) [of](/post/of/)
-- [Seem](/post/seem/) [to](/post/to/) [be](/post/be/)
+- [Appear](/zh/post/appear/)
+- [Look](/zh/post/look/)
+- [Give](/zh/post/give/) [the](/zh/post/the/) [impression](/zh/post/impression/)
+- [Give](/zh/post/give/) [the](/zh/post/the/) [appearance](/zh/post/appearance/) [of](/zh/post/of/)
+- [Seem](/zh/post/seem/) [to](/zh/post/to/) [be](/zh/post/be/)

@@ -14,17 +14,17 @@ keywords = ['ai words', 'keyboard']
 - **名词 (n)**: 一种电子设备，通常与计算机或其他输入设备一起使用，由一系列按键组成，用于输入字符和指令。
 
 ## 短语
-- "[Computer](/post/computer/) [keyboard](/post/keyboard/)" 指的是用于电脑的键盘。
-- "QWERTY [keyboard](/post/keyboard/)" 是最常见的键盘布局，字母排列遵循QWERTY顺序。
+- "[Computer](/zh/post/computer/) [keyboard](/zh/post/keyboard/)" 指的是用于电脑的键盘。
+- "QWERTY [keyboard](/zh/post/keyboard/)" 是最常见的键盘布局，字母排列遵循QWERTY顺序。
 - "Numeric keypad" 是键盘上的一组数字键，通常位于右侧。
 
 ## 例句
-- "I [type](/post/type/) [quickly](/post/quickly/) [on](/post/on/) [my](/post/my/) ergonomic [keyboard](/post/keyboard/)."
-- "[The](/post/the/) '[Enter](/post/enter/)' [key](/post/key/) is located [in](/post/in/) [the](/post/the/) [bottom](/post/bottom/) [right](/post/right/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [keyboard](/post/keyboard/)."
-- "[Please](/post/please/) [press](/post/press/) [any](/post/any/) [key](/post/key/) [on](/post/on/) [the](/post/the/) [keyboard](/post/keyboard/) [to](/post/to/) [continue](/post/continue/)."
+- "I [type](/zh/post/type/) [quickly](/zh/post/quickly/) [on](/zh/post/on/) [my](/zh/post/my/) ergonomic [keyboard](/zh/post/keyboard/)."
+- "[The](/zh/post/the/) '[Enter](/zh/post/enter/)' [key](/zh/post/key/) is located [in](/zh/post/in/) [the](/zh/post/the/) [bottom](/zh/post/bottom/) [right](/zh/post/right/) [corner](/zh/post/corner/) [of](/zh/post/of/) [the](/zh/post/the/) [keyboard](/zh/post/keyboard/)."
+- "[Please](/zh/post/please/) [press](/zh/post/press/) [any](/zh/post/any/) [key](/zh/post/key/) [on](/zh/post/on/) [the](/zh/post/the/) [keyboard](/zh/post/keyboard/) [to](/zh/post/to/) [continue](/zh/post/continue/)."
 
 ## 同义词
-- Keystroke [device](/post/device/)
-- [Typewriter](/post/typewriter/)
-- [Input](/post/input/) [device](/post/device/)
-- [Board](/post/board/) [of](/post/of/) keys
+- Keystroke [device](/zh/post/device/)
+- [Typewriter](/zh/post/typewriter/)
+- [Input](/zh/post/input/) [device](/zh/post/device/)
+- [Board](/zh/post/board/) [of](/zh/post/of/) keys

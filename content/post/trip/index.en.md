@@ -7,46 +7,46 @@ description = '[trip] vi.绊；失足 vt .绊倒'
 keywords = ['ai words', 'trip']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /trɪp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [trip](/en/post/trip/)**:
-  - Refers [to](/en/post/to/) [a](/en/post/a/) [journey](/en/post/journey/), [usually](/en/post/usually/) [for](/en/post/for/) [leisure](/en/post/leisure/) [or](/en/post/or/) [travel](/en/post/travel/), involving [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) stops: "We're planning [a](/en/post/a/) [road](/en/post/road/) [trip](/en/post/trip/) [to](/en/post/to/) [the](/en/post/the/) [coast](/en/post/coast/)."
-  - [In](/en/post/in/) computing, [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) actions [or](/en/post/or/) steps: "[The](/en/post/the/) software went [through](/en/post/through/) [a](/en/post/a/) [system](/en/post/system/) update [without](/en/post/without/) [any](/en/post/any/) [trip](/en/post/trip/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [trip](/post/trip/)**:
+  - Refers [to](/post/to/) [a](/post/a/) [journey](/post/journey/), [usually](/post/usually/) [for](/post/for/) [leisure](/post/leisure/) [or](/post/or/) [travel](/post/travel/), involving [one](/post/one/) [or](/post/or/) [more](/post/more/) stops: "We're planning [a](/post/a/) [road](/post/road/) [trip](/post/trip/) [to](/post/to/) [the](/post/the/) [coast](/post/coast/)."
+  - [In](/post/in/) computing, [it](/post/it/) [can](/post/can/) [mean](/post/mean/) [a](/post/a/) [series](/post/series/) [of](/post/of/) actions [or](/post/or/) steps: "[The](/post/the/) software went [through](/post/through/) [a](/post/a/) [system](/post/system/) update [without](/post/without/) [any](/post/any/) [trip](/post/trip/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [trip](/en/post/trip/)**:
-  - [To](/en/post/to/) [stumble](/en/post/stumble/) [or](/en/post/or/) [fall](/en/post/fall/), [often](/en/post/often/) accidentally: "[She](/en/post/she/) tripped [on](/en/post/on/) [a](/en/post/a/) [loose](/en/post/loose/) [stone](/en/post/stone/) [and](/en/post/and/) sprained [her](/en/post/her/) [ankle](/en/post/ankle/)."
-  - (Informal) [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [mistake](/en/post/mistake/) [or](/en/post/or/) [stumble](/en/post/stumble/) [while](/en/post/while/) performing [a](/en/post/a/) [task](/en/post/task/): "I accidentally tripped [over](/en/post/over/) [my](/en/post/my/) [own](/en/post/own/) words [during](/en/post/during/) [the](/en/post/the/) presentation."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [trip](/post/trip/)**:
+  - [To](/post/to/) [stumble](/post/stumble/) [or](/post/or/) [fall](/post/fall/), [often](/post/often/) accidentally: "[She](/post/she/) tripped [on](/post/on/) [a](/post/a/) [loose](/post/loose/) [stone](/post/stone/) [and](/post/and/) sprained [her](/post/her/) [ankle](/post/ankle/)."
+  - (Informal) [To](/post/to/) [make](/post/make/) [a](/post/a/) [mistake](/post/mistake/) [or](/post/or/) [stumble](/post/stumble/) [while](/post/while/) performing [a](/post/a/) [task](/post/task/): "I accidentally tripped [over](/post/over/) [my](/post/my/) [own](/post/own/) words [during](/post/during/) [the](/post/the/) presentation."
 
-### [Adjective](/en/post/adjective/)
+### [Adjective](/post/adjective/)
 - **Tripping**:
-  - ([Of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/)) moving [with](/en/post/with/) [a](/en/post/a/) [light](/en/post/light/), [quick](/en/post/quick/) [step](/en/post/step/): "[She](/en/post/she/) was dancing [in](/en/post/in/) [a](/en/post/a/) tripping [manner](/en/post/manner/)."
-  - ([Of](/en/post/of/) [a](/en/post/a/) [signal](/en/post/signal/) [or](/en/post/or/) [event](/en/post/event/)) occurring [frequently](/en/post/frequently/) [or](/en/post/or/) irregularly: "[The](/en/post/the/) server is experiencing tripping errors."
+  - ([Of](/post/of/) [a](/post/a/) [person](/post/person/)) moving [with](/post/with/) [a](/post/a/) [light](/post/light/), [quick](/post/quick/) [step](/post/step/): "[She](/post/she/) was dancing [in](/post/in/) [a](/post/a/) tripping [manner](/post/manner/)."
+  - ([Of](/post/of/) [a](/post/a/) [signal](/post/signal/) [or](/post/or/) [event](/post/event/)) occurring [frequently](/post/frequently/) [or](/post/or/) irregularly: "[The](/post/the/) server is experiencing tripping errors."
 
-### [Adverb](/en/post/adverb/)
+### [Adverb](/post/adverb/)
 - **Trippingly**:
-  - [With](/en/post/with/) [a](/en/post/a/) [light](/en/post/light/), [graceful](/en/post/graceful/) [movement](/en/post/movement/): "[He](/en/post/he/) danced trippingly [around](/en/post/around/) [the](/en/post/the/) [room](/en/post/room/)."
+  - [With](/post/with/) [a](/post/a/) [light](/post/light/), [graceful](/post/graceful/) [movement](/post/movement/): "[He](/post/he/) danced trippingly [around](/post/around/) [the](/post/the/) [room](/post/room/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [trip](/en/post/trip/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [on](/en/post/on/) [a](/en/post/a/) [journey](/en/post/journey/).
-- "[Long](/en/post/long/) [trip](/en/post/trip/)" refers [to](/en/post/to/) [a](/en/post/a/) lengthy [journey](/en/post/journey/).
-- "[A](/en/post/a/) [slip](/en/post/slip/) [and](/en/post/and/) [trip](/en/post/trip/) [hazard](/en/post/hazard/)" indicates [a](/en/post/a/) [danger](/en/post/danger/) [of](/en/post/of/) falling.
-- "Tripped [the](/en/post/the/) [wire](/en/post/wire/)" (informal) [means](/en/post/means/) [to](/en/post/to/) [cause](/en/post/cause/) an [alarm](/en/post/alarm/) [or](/en/post/or/) warning.
+- "[Take](/post/take/) [a](/post/a/) [trip](/post/trip/)" [means](/post/means/) [to](/post/to/) [go](/post/go/) [on](/post/on/) [a](/post/a/) [journey](/post/journey/).
+- "[Long](/post/long/) [trip](/post/trip/)" refers [to](/post/to/) [a](/post/a/) lengthy [journey](/post/journey/).
+- "[A](/post/a/) [slip](/post/slip/) [and](/post/and/) [trip](/post/trip/) [hazard](/post/hazard/)" indicates [a](/post/a/) [danger](/post/danger/) [of](/post/of/) falling.
+- "Tripped [the](/post/the/) [wire](/post/wire/)" (informal) [means](/post/means/) [to](/post/to/) [cause](/post/cause/) an [alarm](/post/alarm/) [or](/post/or/) warning.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) had [a](/en/post/a/) memorable [family](/en/post/family/) [trip](/en/post/trip/) [to](/en/post/to/) Europe [last](/en/post/last/) [summer](/en/post/summer/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [almost](/en/post/almost/) tripped [over](/en/post/over/) [his](/en/post/his/) [own](/en/post/own/) feet [while](/en/post/while/) running [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [bus](/en/post/bus/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) child's tripping [laughter](/en/post/laughter/) filled [the](/en/post/the/) [room](/en/post/room/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) danced trippingly [across](/en/post/across/) [the](/en/post/the/) [stage](/en/post/stage/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) had [a](/post/a/) memorable [family](/post/family/) [trip](/post/trip/) [to](/post/to/) Europe [last](/post/last/) [summer](/post/summer/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) [almost](/post/almost/) tripped [over](/post/over/) [his](/post/his/) [own](/post/own/) feet [while](/post/while/) running [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [bus](/post/bus/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) child's tripping [laughter](/post/laughter/) filled [the](/post/the/) [room](/post/room/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) danced trippingly [across](/post/across/) [the](/post/the/) [stage](/post/stage/)."
 
 ## Synonyms
-- [Journey](/en/post/journey/)
-- [Excursion](/en/post/excursion/)
-- [Tour](/en/post/tour/)
-- [Voyage](/en/post/voyage/)
+- [Journey](/post/journey/)
+- [Excursion](/post/excursion/)
+- [Tour](/post/tour/)
+- [Voyage](/post/voyage/)
 - Sojourn
 - Fumble (informal)
 - Misstep (informal)

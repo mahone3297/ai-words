@@ -7,30 +7,30 @@ description = '[nɔb] n.门把，拉手；旋纽'
 keywords = ['ai words', 'knob']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[knob](/en/post/knob/)/
+## [Pronunciation](/post/pronunciation/)
+/[knob](/post/knob/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/), [usually](/en/post/usually/) rounded protuberance [or](/en/post/or/) [handle](/en/post/handle/) [that](/en/post/that/) projects [from](/en/post/from/) [a](/en/post/a/) [surface](/en/post/surface/), typically [for](/en/post/for/) [turning](/en/post/turning/) [or](/en/post/or/) pulling. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [door](/en/post/door/) had [a](/en/post/a/) [brass](/en/post/brass/) [knob](/en/post/knob/) [that](/en/post/that/) needed [to](/en/post/to/) [be](/en/post/be/) turned [to](/en/post/to/) [open](/en/post/open/) [it](/en/post/it/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/), [usually](/post/usually/) rounded protuberance [or](/post/or/) [handle](/post/handle/) [that](/post/that/) projects [from](/post/from/) [a](/post/a/) [surface](/post/surface/), typically [for](/post/for/) [turning](/post/turning/) [or](/post/or/) pulling. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [door](/post/door/) had [a](/post/a/) [brass](/post/brass/) [knob](/post/knob/) [that](/post/that/) needed [to](/post/to/) [be](/post/be/) turned [to](/post/to/) [open](/post/open/) [it](/post/it/)."
   
-  - [Noun](/en/post/noun/) (slang): [A](/en/post/a/) person's [head](/en/post/head/), [especially](/en/post/especially/) [when](/en/post/when/) considered [as](/en/post/as/) [round](/en/post/round/). [For](/en/post/for/) [instance](/en/post/instance/): "[He](/en/post/he/) grabbed [the](/en/post/the/) [ball](/en/post/ball/) [with](/en/post/with/) [both](/en/post/both/) hands, holding [it](/en/post/it/) [like](/en/post/like/) [a](/en/post/a/) [knob](/en/post/knob/)."
+  - [Noun](/post/noun/) (slang): [A](/post/a/) person's [head](/post/head/), [especially](/post/especially/) [when](/post/when/) considered [as](/post/as/) [round](/post/round/). [For](/post/for/) [instance](/post/instance/): "[He](/post/he/) grabbed [the](/post/the/) [ball](/post/ball/) [with](/post/with/) [both](/post/both/) hands, holding [it](/post/it/) [like](/post/like/) [a](/post/a/) [knob](/post/knob/)."
 
-- **[Verb](/en/post/verb/)** (informal): [To](/en/post/to/) [hit](/en/post/hit/) [or](/en/post/or/) [strike](/en/post/strike/) [with](/en/post/with/) [the](/en/post/the/) [head](/en/post/head/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) frustration, [he](/en/post/he/) knobbed [the](/en/post/the/) [table](/en/post/table/) [with](/en/post/with/) [his](/en/post/his/) [forehead](/en/post/forehead/)."
+- **[Verb](/post/verb/)** (informal): [To](/post/to/) [hit](/post/hit/) [or](/post/or/) [strike](/post/strike/) [with](/post/with/) [the](/post/the/) [head](/post/head/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) frustration, [he](/post/he/) knobbed [the](/post/the/) [table](/post/table/) [with](/post/with/) [his](/post/his/) [forehead](/post/forehead/)."
 
 ## Phrases
-- "[Twist](/en/post/twist/) [the](/en/post/the/) [knob](/en/post/knob/)": [To](/en/post/to/) [turn](/en/post/turn/) [a](/en/post/a/) [round](/en/post/round/) [handle](/en/post/handle/) [on](/en/post/on/) an [appliance](/en/post/appliance/) [or](/en/post/or/) [control](/en/post/control/) [panel](/en/post/panel/) [to](/en/post/to/) [adjust](/en/post/adjust/) settings.
-- "[Pull](/en/post/pull/) [the](/en/post/the/) [knob](/en/post/knob/)": [To](/en/post/to/) [grasp](/en/post/grasp/) [and](/en/post/and/) [pull](/en/post/pull/) [a](/en/post/a/) handle-like projection [to](/en/post/to/) [open](/en/post/open/) [or](/en/post/or/) [operate](/en/post/operate/) [something](/en/post/something/).
+- "[Twist](/post/twist/) [the](/post/the/) [knob](/post/knob/)": [To](/post/to/) [turn](/post/turn/) [a](/post/a/) [round](/post/round/) [handle](/post/handle/) [on](/post/on/) an [appliance](/post/appliance/) [or](/post/or/) [control](/post/control/) [panel](/post/panel/) [to](/post/to/) [adjust](/post/adjust/) settings.
+- "[Pull](/post/pull/) [the](/post/the/) [knob](/post/knob/)": [To](/post/to/) [grasp](/post/grasp/) [and](/post/and/) [pull](/post/pull/) [a](/post/a/) handle-like projection [to](/post/to/) [open](/post/open/) [or](/post/or/) [operate](/post/operate/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) adjusted [the](/en/post/the/) [volume](/en/post/volume/) [on](/en/post/on/) [the](/en/post/the/) [radio](/en/post/radio/) [by](/en/post/by/) [turning](/en/post/turning/) [the](/en/post/the/) [little](/en/post/little/) [plastic](/en/post/plastic/) [knob](/en/post/knob/)."
-- **Slang ([noun](/en/post/noun/))**: "[The](/en/post/the/) [child](/en/post/child/) was [so](/en/post/so/) absorbed [in](/en/post/in/) [the](/en/post/the/) [game](/en/post/game/) [that](/en/post/that/) [he](/en/post/he/) didn't [notice](/en/post/notice/) [when](/en/post/when/) [his](/en/post/his/) [friend](/en/post/friend/) bumped [him](/en/post/him/) [on](/en/post/on/) [the](/en/post/the/) [knob](/en/post/knob/)."
-- **[Verb](/en/post/verb/)**: "[During](/en/post/during/) [the](/en/post/the/) [intense](/en/post/intense/) [argument](/en/post/argument/), [he](/en/post/he/) accidentally knobbed [the](/en/post/the/) [wall](/en/post/wall/) [in](/en/post/in/) [anger](/en/post/anger/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) adjusted [the](/post/the/) [volume](/post/volume/) [on](/post/on/) [the](/post/the/) [radio](/post/radio/) [by](/post/by/) [turning](/post/turning/) [the](/post/the/) [little](/post/little/) [plastic](/post/plastic/) [knob](/post/knob/)."
+- **Slang ([noun](/post/noun/))**: "[The](/post/the/) [child](/post/child/) was [so](/post/so/) absorbed [in](/post/in/) [the](/post/the/) [game](/post/game/) [that](/post/that/) [he](/post/he/) didn't [notice](/post/notice/) [when](/post/when/) [his](/post/his/) [friend](/post/friend/) bumped [him](/post/him/) [on](/post/on/) [the](/post/the/) [knob](/post/knob/)."
+- **[Verb](/post/verb/)**: "[During](/post/during/) [the](/post/the/) [intense](/post/intense/) [argument](/post/argument/), [he](/post/he/) accidentally knobbed [the](/post/the/) [wall](/post/wall/) [in](/post/in/) [anger](/post/anger/)."
 
 ## Synonyms
-- [Handle](/en/post/handle/)
-- [Dial](/en/post/dial/)
-- [Lever](/en/post/lever/)
-- [Switch](/en/post/switch/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
-- [Button](/en/post/button/) ([for](/en/post/for/) [electronic](/en/post/electronic/) devices)
+- [Handle](/post/handle/)
+- [Dial](/post/dial/)
+- [Lever](/post/lever/)
+- [Switch](/post/switch/) ([in](/post/in/) [some](/post/some/) contexts)
+- [Button](/post/button/) ([for](/post/for/) [electronic](/post/electronic/) devices)
 
-[Note](/en/post/note/): [The](/en/post/the/) slang [usage](/en/post/usage/) [of](/en/post/of/) '[knob](/en/post/knob/)' [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) person's [head](/en/post/head/) isn't [widely](/en/post/widely/) accepted [and](/en/post/and/) [may](/en/post/may/) [be](/en/post/be/) considered offensive [in](/en/post/in/) [some](/en/post/some/) regions. It's informal [and](/en/post/and/) [should](/en/post/should/) [be](/en/post/be/) [used](/en/post/used/) [with](/en/post/with/) caution.
+[Note](/post/note/): [The](/post/the/) slang [usage](/post/usage/) [of](/post/of/) '[knob](/post/knob/)' [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) person's [head](/post/head/) isn't [widely](/post/widely/) accepted [and](/post/and/) [may](/post/may/) [be](/post/be/) considered offensive [in](/post/in/) [some](/post/some/) regions. It's informal [and](/post/and/) [should](/post/should/) [be](/post/be/) [used](/post/used/) [with](/post/with/) caution.

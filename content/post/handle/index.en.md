@@ -7,36 +7,36 @@ description = '[ˈhændl] n.柄，把手 vt.拿，触'
 keywords = ['ai words', 'handle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhændl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [tool](/en/post/tool/), [machine](/en/post/machine/), [or](/en/post/or/) [equipment](/en/post/equipment/) [that](/en/post/that/) is designed [to](/en/post/to/) [be](/en/post/be/) held [and](/en/post/and/) operated [by](/en/post/by/) [hand](/en/post/hand/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) controls [the](/en/post/the/) [movement](/en/post/movement/) [or](/en/post/or/) [operation](/en/post/operation/) [of](/en/post/of/) [something](/en/post/something/) [else](/en/post/else/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) turned [the](/en/post/the/) [door](/en/post/door/) [handle](/en/post/handle/) [to](/en/post/to/) [open](/en/post/open/) [it](/en/post/it/)."
-- **[Verb](/en/post/verb/)**: 
-  - **(transitive)** [To](/en/post/to/) [touch](/en/post/touch/), [grasp](/en/post/grasp/), [or](/en/post/or/) [hold](/en/post/hold/) [with](/en/post/with/) [the](/en/post/the/) [hand](/en/post/hand/) [or](/en/post/or/) hands. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) carefully handled [the](/en/post/the/) fragile [vase](/en/post/vase/)."
-  - **(transitive)** [To](/en/post/to/) [manage](/en/post/manage/), [control](/en/post/control/), [or](/en/post/or/) [deal](/en/post/deal/) [with](/en/post/with/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/), [often](/en/post/often/) [with](/en/post/with/) [skill](/en/post/skill/) [or](/en/post/or/) [care](/en/post/care/). [For](/en/post/for/) [example](/en/post/example/): "She's handling [the](/en/post/the/) [project](/en/post/project/) [very](/en/post/very/) [well](/en/post/well/)."
-  - **(intransitive)** [To](/en/post/to/) [be](/en/post/be/) [capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) managed [or](/en/post/or/) dealt [with](/en/post/with/); [to](/en/post/to/) [respond](/en/post/respond/) [to](/en/post/to/) [treatment](/en/post/treatment/) [or](/en/post/or/) manipulation. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) software handles [large](/en/post/large/) files [easily](/en/post/easily/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [tool](/post/tool/), [machine](/post/machine/), [or](/post/or/) [equipment](/post/equipment/) [that](/post/that/) is designed [to](/post/to/) [be](/post/be/) held [and](/post/and/) operated [by](/post/by/) [hand](/post/hand/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) controls [the](/post/the/) [movement](/post/movement/) [or](/post/or/) [operation](/post/operation/) [of](/post/of/) [something](/post/something/) [else](/post/else/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) turned [the](/post/the/) [door](/post/door/) [handle](/post/handle/) [to](/post/to/) [open](/post/open/) [it](/post/it/)."
+- **[Verb](/post/verb/)**: 
+  - **(transitive)** [To](/post/to/) [touch](/post/touch/), [grasp](/post/grasp/), [or](/post/or/) [hold](/post/hold/) [with](/post/with/) [the](/post/the/) [hand](/post/hand/) [or](/post/or/) hands. [For](/post/for/) [example](/post/example/): "[He](/post/he/) carefully handled [the](/post/the/) fragile [vase](/post/vase/)."
+  - **(transitive)** [To](/post/to/) [manage](/post/manage/), [control](/post/control/), [or](/post/or/) [deal](/post/deal/) [with](/post/with/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/), [often](/post/often/) [with](/post/with/) [skill](/post/skill/) [or](/post/or/) [care](/post/care/). [For](/post/for/) [example](/post/example/): "She's handling [the](/post/the/) [project](/post/project/) [very](/post/very/) [well](/post/well/)."
+  - **(intransitive)** [To](/post/to/) [be](/post/be/) [capable](/post/capable/) [of](/post/of/) [being](/post/being/) managed [or](/post/or/) dealt [with](/post/with/); [to](/post/to/) [respond](/post/respond/) [to](/post/to/) [treatment](/post/treatment/) [or](/post/or/) manipulation. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) software handles [large](/post/large/) files [easily](/post/easily/)."
 
 ## Phrases
-- "[Handle](/en/post/handle/) [with](/en/post/with/) [care](/en/post/care/)" implies [the](/en/post/the/) [need](/en/post/need/) [for](/en/post/for/) caution [when](/en/post/when/) dealing [with](/en/post/with/) [something](/en/post/something/) [delicate](/en/post/delicate/) [or](/en/post/or/) [sensitive](/en/post/sensitive/).
-- "[Get](/en/post/get/) [a](/en/post/a/) [handle](/en/post/handle/) [on](/en/post/on/) ([something](/en/post/something/))" [means](/en/post/means/) [to](/en/post/to/) [gain](/en/post/gain/) [control](/en/post/control/) [or](/en/post/or/) [understanding](/en/post/understanding/) [of](/en/post/of/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [task](/en/post/task/). [For](/en/post/for/) [example](/en/post/example/): "He's trying [to](/en/post/to/) [get](/en/post/get/) [a](/en/post/a/) [handle](/en/post/handle/) [on](/en/post/on/) [his](/en/post/his/) finances."
-- "[Under](/en/post/under/) someone's [handle](/en/post/handle/)" refers [to](/en/post/to/) [a](/en/post/a/) username [or](/en/post/or/) pseudonym [someone](/en/post/someone/) uses online.
+- "[Handle](/post/handle/) [with](/post/with/) [care](/post/care/)" implies [the](/post/the/) [need](/post/need/) [for](/post/for/) caution [when](/post/when/) dealing [with](/post/with/) [something](/post/something/) [delicate](/post/delicate/) [or](/post/or/) [sensitive](/post/sensitive/).
+- "[Get](/post/get/) [a](/post/a/) [handle](/post/handle/) [on](/post/on/) ([something](/post/something/))" [means](/post/means/) [to](/post/to/) [gain](/post/gain/) [control](/post/control/) [or](/post/or/) [understanding](/post/understanding/) [of](/post/of/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [task](/post/task/). [For](/post/for/) [example](/post/example/): "He's trying [to](/post/to/) [get](/post/get/) [a](/post/a/) [handle](/post/handle/) [on](/post/on/) [his](/post/his/) finances."
+- "[Under](/post/under/) someone's [handle](/post/handle/)" refers [to](/post/to/) [a](/post/a/) username [or](/post/or/) pseudonym [someone](/post/someone/) uses online.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [coffee](/en/post/coffee/) [mug](/en/post/mug/) had [a](/en/post/a/) [comfortable](/en/post/comfortable/) [handle](/en/post/handle/) [that](/en/post/that/) [fit](/en/post/fit/) [perfectly](/en/post/perfectly/) [in](/en/post/in/) [my](/en/post/my/) [palm](/en/post/palm/)."
-- **[Verb](/en/post/verb/)**:
-  - "[Make](/en/post/make/) [sure](/en/post/sure/) [you](/en/post/you/) [handle](/en/post/handle/) [the](/en/post/the/) antique books [gently](/en/post/gently/) [to](/en/post/to/) [avoid](/en/post/avoid/) damaging [them](/en/post/them/)."
-  - "[She](/en/post/she/) has been tasked [with](/en/post/with/) handling [customer](/en/post/customer/) complaints."
-  - "[Once](/en/post/once/) [he](/en/post/he/) [learned](/en/post/learned/) [to](/en/post/to/) [handle](/en/post/handle/) [the](/en/post/the/) [stress](/en/post/stress/) [better](/en/post/better/), [his](/en/post/his/) [performance](/en/post/performance/) improved significantly."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [coffee](/post/coffee/) [mug](/post/mug/) had [a](/post/a/) [comfortable](/post/comfortable/) [handle](/post/handle/) [that](/post/that/) [fit](/post/fit/) [perfectly](/post/perfectly/) [in](/post/in/) [my](/post/my/) [palm](/post/palm/)."
+- **[Verb](/post/verb/)**:
+  - "[Make](/post/make/) [sure](/post/sure/) [you](/post/you/) [handle](/post/handle/) [the](/post/the/) antique books [gently](/post/gently/) [to](/post/to/) [avoid](/post/avoid/) damaging [them](/post/them/)."
+  - "[She](/post/she/) has been tasked [with](/post/with/) handling [customer](/post/customer/) complaints."
+  - "[Once](/post/once/) [he](/post/he/) [learned](/post/learned/) [to](/post/to/) [handle](/post/handle/) [the](/post/the/) [stress](/post/stress/) [better](/post/better/), [his](/post/his/) [performance](/post/performance/) improved significantly."
 
 ## Synonyms
-- [Noun](/en/post/noun/):
-  - [Grip](/en/post/grip/)
-  - [Knob](/en/post/knob/)
-  - [Lever](/en/post/lever/)
-- [Verb](/en/post/verb/):
-  - [Manage](/en/post/manage/)
-  - [Control](/en/post/control/)
+- [Noun](/post/noun/):
+  - [Grip](/post/grip/)
+  - [Knob](/post/knob/)
+  - [Lever](/post/lever/)
+- [Verb](/post/verb/):
+  - [Manage](/post/manage/)
+  - [Control](/post/control/)
   - Tackle
   - Manipulate
-  - [Deal](/en/post/deal/) [with](/en/post/with/)
+  - [Deal](/post/deal/) [with](/post/with/)

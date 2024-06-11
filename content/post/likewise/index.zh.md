@@ -11,20 +11,20 @@ keywords = ['ai words', 'likewise']
 /laɪkwaɪz/
 
 ## 释义
-- **副词**: 表示同样地，也，又。例如: "[She](/post/she/) enjoys [painting](/post/painting/), [and](/post/and/) [likewise](/post/likewise/), [she](/post/she/) is passionate [about](/post/about/) [music](/post/music/)."
-- **连词**: 用于连接两个相似的想法或情况。例如: "John failed [the](/post/the/) [test](/post/test/), [and](/post/and/) [likewise](/post/likewise/), Mary did [not](/post/not/) [pass](/post/pass/) [either](/post/either/)."
+- **副词**: 表示同样地，也，又。例如: "[She](/zh/post/she/) enjoys [painting](/zh/post/painting/), [and](/zh/post/and/) [likewise](/zh/post/likewise/), [she](/zh/post/she/) is passionate [about](/zh/post/about/) [music](/zh/post/music/)."
+- **连词**: 用于连接两个相似的想法或情况。例如: "John failed [the](/zh/post/the/) [test](/zh/post/test/), [and](/zh/post/and/) [likewise](/zh/post/likewise/), Mary did [not](/zh/post/not/) [pass](/zh/post/pass/) [either](/zh/post/either/)."
 
 ## 短语
-- "[likewise](/post/likewise/), [too](/post/too/)" 用于表示同意或附和对方的观点。
-- "[likewise](/post/likewise/) [in](/post/in/) [reverse](/post/reverse/)" 指相反的情况也适用。
+- "[likewise](/zh/post/likewise/), [too](/zh/post/too/)" 用于表示同意或附和对方的观点。
+- "[likewise](/zh/post/likewise/) [in](/zh/post/in/) [reverse](/zh/post/reverse/)" 指相反的情况也适用。
 
 ## 例句
-- 副词: "I [love](/post/love/) playing [tennis](/post/tennis/), [and](/post/and/) [my](/post/my/) [brother](/post/brother/) [likewise](/post/likewise/) enjoys [it](/post/it/)."
-- 连词: "[The](/post/the/) [weather](/post/weather/) was [cold](/post/cold/) [yesterday](/post/yesterday/), [and](/post/and/) [likewise](/post/likewise/), it's freezing [today](/post/today/)."
+- 副词: "I [love](/zh/post/love/) playing [tennis](/zh/post/tennis/), [and](/zh/post/and/) [my](/zh/post/my/) [brother](/zh/post/brother/) [likewise](/zh/post/likewise/) enjoys [it](/zh/post/it/)."
+- 连词: "[The](/zh/post/the/) [weather](/zh/post/weather/) was [cold](/zh/post/cold/) [yesterday](/zh/post/yesterday/), [and](/zh/post/and/) [likewise](/zh/post/likewise/), it's freezing [today](/zh/post/today/)."
 
 ## 同义词
-- [Similarly](/post/similarly/)
-- [Also](/post/also/)
-- [Too](/post/too/)
+- [Similarly](/zh/post/similarly/)
+- [Also](/zh/post/also/)
+- [Too](/zh/post/too/)
 - Equally
-- [In](/post/in/) [the](/post/the/) [same](/post/same/) [way](/post/way/)
+- [In](/zh/post/in/) [the](/zh/post/the/) [same](/zh/post/same/) [way](/zh/post/way/)

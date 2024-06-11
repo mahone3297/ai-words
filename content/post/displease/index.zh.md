@@ -11,20 +11,20 @@ keywords = ['ai words', 'displease']
 /dɪsˈpliːz/
 
 ## 释义
-- **动词**: 使不悦，使不满意，惹恼。例如: "I'm [sorry](/post/sorry/) [if](/post/if/) [my](/post/my/) [response](/post/response/) displeases [you](/post/you/)."
-- **名词**: 不满，不悦，反感。例如: "[Her](/post/her/) [face](/post/face/) showed signs [of](/post/of/) displeasure [at](/post/at/) [the](/post/the/) [news](/post/news/)."
+- **动词**: 使不悦，使不满意，惹恼。例如: "I'm [sorry](/zh/post/sorry/) [if](/zh/post/if/) [my](/zh/post/my/) [response](/zh/post/response/) displeases [you](/zh/post/you/)."
+- **名词**: 不满，不悦，反感。例如: "[Her](/zh/post/her/) [face](/zh/post/face/) showed signs [of](/zh/post/of/) displeasure [at](/zh/post/at/) [the](/zh/post/the/) [news](/zh/post/news/)."
 
 ## 短语
-- "[to](/post/to/) one's displeasure" 表示对某事感到不悦。例如: "[To](/post/to/) [my](/post/my/) displeasure, [the](/post/the/) [project](/post/project/) was delayed [again](/post/again/)."
-- "[displease](/post/displease/) sb." 意味着让某人生气或不满。例如: "[He](/post/he/) knew [his](/post/his/) [decision](/post/decision/) [would](/post/would/) [displease](/post/displease/) [his](/post/his/) parents."
+- "[to](/zh/post/to/) one's displeasure" 表示对某事感到不悦。例如: "[To](/zh/post/to/) [my](/zh/post/my/) displeasure, [the](/zh/post/the/) [project](/zh/post/project/) was delayed [again](/zh/post/again/)."
+- "[displease](/zh/post/displease/) sb." 意味着让某人生气或不满。例如: "[He](/zh/post/he/) knew [his](/zh/post/his/) [decision](/zh/post/decision/) [would](/zh/post/would/) [displease](/zh/post/displease/) [his](/zh/post/his/) parents."
 
 ## 例句
-- 动词: "[The](/post/the/) child's [constant](/post/constant/) crying began [to](/post/to/) [displease](/post/displease/) [the](/post/the/) neighbors."
-- 名词: "[Their](/post/their/) [reaction](/post/reaction/) indicated [a](/post/a/) [clear](/post/clear/) [feeling](/post/feeling/) [of](/post/of/) displeasure."
+- 动词: "[The](/zh/post/the/) child's [constant](/zh/post/constant/) crying began [to](/zh/post/to/) [displease](/zh/post/displease/) [the](/zh/post/the/) neighbors."
+- 名词: "[Their](/zh/post/their/) [reaction](/zh/post/reaction/) indicated [a](/zh/post/a/) [clear](/zh/post/clear/) [feeling](/zh/post/feeling/) [of](/zh/post/of/) displeasure."
 
 ## 同义词
-- [upset](/post/upset/)
-- [annoy](/post/annoy/)
+- [upset](/zh/post/upset/)
+- [annoy](/zh/post/annoy/)
 - frustrate
 - irritate
-- [disappoint](/post/disappoint/)
+- [disappoint](/zh/post/disappoint/)

@@ -7,48 +7,48 @@ description = '[put] vt.放，摆；使处于'
 keywords = ['ai words', 'put']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈpʊt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [container](/en/post/container/) [for](/en/post/for/) holding liquids [or](/en/post/or/) [small](/en/post/small/) items**: [The](/en/post/the/) [kitchen](/en/post/kitchen/) has [a](/en/post/a/) [large](/en/post/large/) [pot](/en/post/pot/) [on](/en/post/on/) [the](/en/post/the/) [stove](/en/post/stove/). (countable)
-- **[The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) placing [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [location](/en/post/location/)**: [She](/en/post/she/) [put](/en/post/put/) [the](/en/post/the/) [book](/en/post/book/) [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/). (uncountable)
-- **[A](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [role](/en/post/role/)**: He's looking [for](/en/post/for/) [a](/en/post/a/) [job](/en/post/job/) [with](/en/post/with/) [more](/en/post/more/) [responsibility](/en/post/responsibility/) [and](/en/post/and/) [a](/en/post/a/) higher [put](/en/post/put/). ([finance](/en/post/finance/))
+### [Noun](/post/noun/)
+- **[A](/post/a/) [container](/post/container/) [for](/post/for/) holding liquids [or](/post/or/) [small](/post/small/) items**: [The](/post/the/) [kitchen](/post/kitchen/) has [a](/post/a/) [large](/post/large/) [pot](/post/pot/) [on](/post/on/) [the](/post/the/) [stove](/post/stove/). (countable)
+- **[The](/post/the/) [act](/post/act/) [of](/post/of/) placing [something](/post/something/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [location](/post/location/)**: [She](/post/she/) [put](/post/put/) [the](/post/the/) [book](/post/book/) [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/). (uncountable)
+- **[A](/post/a/) [position](/post/position/) [or](/post/or/) [role](/post/role/)**: He's looking [for](/post/for/) [a](/post/a/) [job](/post/job/) [with](/post/with/) [more](/post/more/) [responsibility](/post/responsibility/) [and](/post/and/) [a](/post/a/) higher [put](/post/put/). ([finance](/post/finance/))
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [place](/en/post/place/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [location](/en/post/location/)**: [Put](/en/post/put/) [your](/en/post/your/) shoes [by](/en/post/by/) [the](/en/post/the/) [door](/en/post/door/) [before](/en/post/before/) [you](/en/post/you/) [leave](/en/post/leave/). (transitive)
-- **[To](/en/post/to/) [set](/en/post/set/) [or](/en/post/or/) [establish](/en/post/establish/) ([a](/en/post/a/) [price](/en/post/price/), [value](/en/post/value/), [or](/en/post/or/) [situation](/en/post/situation/))**: [The](/en/post/the/) [stock](/en/post/stock/) [market](/en/post/market/) [put](/en/post/put/) [the](/en/post/the/) shares [at](/en/post/at/) [a](/en/post/a/) [record](/en/post/record/) [high](/en/post/high/). (intransitive)
-- **[To](/en/post/to/) [perform](/en/post/perform/) an [action](/en/post/action/) [or](/en/post/or/) [task](/en/post/task/)**: [She](/en/post/she/) [put](/en/post/put/) [on](/en/post/on/) [a](/en/post/a/) [brave](/en/post/brave/) [face](/en/post/face/) [despite](/en/post/despite/) [her](/en/post/her/) fears. (transitive, [often](/en/post/often/) followed [by](/en/post/by/) '[on](/en/post/on/)')
+### [Verb](/post/verb/)
+- **[To](/post/to/) [place](/post/place/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [location](/post/location/)**: [Put](/post/put/) [your](/post/your/) shoes [by](/post/by/) [the](/post/the/) [door](/post/door/) [before](/post/before/) [you](/post/you/) [leave](/post/leave/). (transitive)
+- **[To](/post/to/) [set](/post/set/) [or](/post/or/) [establish](/post/establish/) ([a](/post/a/) [price](/post/price/), [value](/post/value/), [or](/post/or/) [situation](/post/situation/))**: [The](/post/the/) [stock](/post/stock/) [market](/post/market/) [put](/post/put/) [the](/post/the/) shares [at](/post/at/) [a](/post/a/) [record](/post/record/) [high](/post/high/). (intransitive)
+- **[To](/post/to/) [perform](/post/perform/) an [action](/post/action/) [or](/post/or/) [task](/post/task/)**: [She](/post/she/) [put](/post/put/) [on](/post/on/) [a](/post/a/) [brave](/post/brave/) [face](/post/face/) [despite](/post/despite/) [her](/post/her/) fears. (transitive, [often](/post/often/) followed [by](/post/by/) '[on](/post/on/)')
 
-### [Preposition](/en/post/preposition/)
-- **Indicates [the](/en/post/the/) [relationship](/en/post/relationship/) [between](/en/post/between/) [a](/en/post/a/) [noun](/en/post/noun/) [and](/en/post/and/) [its](/en/post/its/) [location](/en/post/location/)**: [The](/en/post/the/) [key](/en/post/key/) is [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/). ([used](/en/post/used/) [with](/en/post/with/) [a](/en/post/a/) [noun](/en/post/noun/))
+### [Preposition](/post/preposition/)
+- **Indicates [the](/post/the/) [relationship](/post/relationship/) [between](/post/between/) [a](/post/a/) [noun](/post/noun/) [and](/post/and/) [its](/post/its/) [location](/post/location/)**: [The](/post/the/) [key](/post/key/) is [on](/post/on/) [the](/post/the/) [table](/post/table/). ([used](/post/used/) [with](/post/with/) [a](/post/a/) [noun](/post/noun/))
 
-### [Adjective](/en/post/adjective/)
-- **[In](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [position](/en/post/position/)**: [The](/en/post/the/) [car](/en/post/car/) is parked [put](/en/post/put/). (informal)
-- **[Set](/en/post/set/) [or](/en/post/or/) arranged**: [The](/en/post/the/) [room](/en/post/room/) was beautifully [put](/en/post/put/) [together](/en/post/together/).
+### [Adjective](/post/adjective/)
+- **[In](/post/in/) [a](/post/a/) [particular](/post/particular/) [position](/post/position/)**: [The](/post/the/) [car](/post/car/) is parked [put](/post/put/). (informal)
+- **[Set](/post/set/) [or](/post/or/) arranged**: [The](/post/the/) [room](/post/room/) was beautifully [put](/post/put/) [together](/post/together/).
 
-### [Adverb](/en/post/adverb/)
-- **[In](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [manner](/en/post/manner/)**: [She](/en/post/she/) [put](/en/post/put/) [her](/en/post/her/) [coat](/en/post/coat/) [on](/en/post/on/) [quickly](/en/post/quickly/). (describing [how](/en/post/how/))
+### [Adverb](/post/adverb/)
+- **[In](/post/in/) [a](/post/a/) [particular](/post/particular/) [manner](/post/manner/)**: [She](/post/she/) [put](/post/put/) [her](/post/her/) [coat](/post/coat/) [on](/post/on/) [quickly](/post/quickly/). (describing [how](/post/how/))
 
 ## Phrases
-- "[Put](/en/post/put/) [something](/en/post/something/) [away](/en/post/away/)" [means](/en/post/means/) [to](/en/post/to/) [store](/en/post/store/) [or](/en/post/or/) [organize](/en/post/organize/) an [item](/en/post/item/).
-- "[Put](/en/post/put/) [up](/en/post/up/) [with](/en/post/with/)" implies tolerating [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [despite](/en/post/despite/) [their](/en/post/their/) flaws.
-- "[Put](/en/post/put/) [off](/en/post/off/)" suggests delaying [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [decision](/en/post/decision/).
-- "[Put](/en/post/put/) [oneself](/en/post/oneself/) [in](/en/post/in/) [someone](/en/post/someone/) else's shoes" is [a](/en/post/a/) metaphor [to](/en/post/to/) empathize [with](/en/post/with/) [another](/en/post/another/) person's [perspective](/en/post/perspective/).
+- "[Put](/post/put/) [something](/post/something/) [away](/post/away/)" [means](/post/means/) [to](/post/to/) [store](/post/store/) [or](/post/or/) [organize](/post/organize/) an [item](/post/item/).
+- "[Put](/post/put/) [up](/post/up/) [with](/post/with/)" implies tolerating [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [despite](/post/despite/) [their](/post/their/) flaws.
+- "[Put](/post/put/) [off](/post/off/)" suggests delaying [a](/post/a/) [task](/post/task/) [or](/post/or/) [decision](/post/decision/).
+- "[Put](/post/put/) [oneself](/post/oneself/) [in](/post/in/) [someone](/post/someone/) else's shoes" is [a](/post/a/) metaphor [to](/post/to/) empathize [with](/post/with/) [another](/post/another/) person's [perspective](/post/perspective/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) children were playing [with](/en/post/with/) [toy](/en/post/toy/) cars [and](/en/post/and/) dolls, filling [the](/en/post/the/) playroom [with](/en/post/with/) [a](/en/post/a/) colorful array [of](/en/post/of/) puts.
-- **[Verb](/en/post/verb/)**: [She](/en/post/she/) [put](/en/post/put/) [the](/en/post/the/) finishing touches [on](/en/post/on/) [the](/en/post/the/) [painting](/en/post/painting/) [before](/en/post/before/) displaying [it](/en/post/it/) [at](/en/post/at/) [the](/en/post/the/) [gallery](/en/post/gallery/).
-- **[Preposition](/en/post/preposition/)**: [The](/en/post/the/) flowers were placed [in](/en/post/in/) [a](/en/post/a/) [vase](/en/post/vase/) [put](/en/post/put/) [on](/en/post/on/) [the](/en/post/the/) windowsill [to](/en/post/to/) [brighten](/en/post/brighten/) [the](/en/post/the/) [room](/en/post/room/).
-- **[Adjective](/en/post/adjective/)**: [His](/en/post/his/) presentation was [well](/en/post/well/) [put](/en/post/put/) [together](/en/post/together/), impressing [the](/en/post/the/) [audience](/en/post/audience/) [with](/en/post/with/) [its](/en/post/its/) clarity.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) children were playing [with](/post/with/) [toy](/post/toy/) cars [and](/post/and/) dolls, filling [the](/post/the/) playroom [with](/post/with/) [a](/post/a/) colorful array [of](/post/of/) puts.
+- **[Verb](/post/verb/)**: [She](/post/she/) [put](/post/put/) [the](/post/the/) finishing touches [on](/post/on/) [the](/post/the/) [painting](/post/painting/) [before](/post/before/) displaying [it](/post/it/) [at](/post/at/) [the](/post/the/) [gallery](/post/gallery/).
+- **[Preposition](/post/preposition/)**: [The](/post/the/) flowers were placed [in](/post/in/) [a](/post/a/) [vase](/post/vase/) [put](/post/put/) [on](/post/on/) [the](/post/the/) windowsill [to](/post/to/) [brighten](/post/brighten/) [the](/post/the/) [room](/post/room/).
+- **[Adjective](/post/adjective/)**: [His](/post/his/) presentation was [well](/post/well/) [put](/post/put/) [together](/post/together/), impressing [the](/post/the/) [audience](/post/audience/) [with](/post/with/) [its](/post/its/) clarity.
 
 ## Synonyms
-- [Place](/en/post/place/)
-- [Set](/en/post/set/)
-- [Position](/en/post/position/)
-- [Establish](/en/post/establish/)
-- [Deposit](/en/post/deposit/)
-- [Lay](/en/post/lay/)
+- [Place](/post/place/)
+- [Set](/post/set/)
+- [Position](/post/position/)
+- [Establish](/post/establish/)
+- [Deposit](/post/deposit/)
+- [Lay](/post/lay/)
 - Affix
-- [Place](/en/post/place/) ([verb](/en/post/verb/), informal)
+- [Place](/post/place/) ([verb](/post/verb/), informal)

@@ -7,31 +7,31 @@ description = '[ˈhʌzbənd] n.丈夫'
 keywords = ['ai words', 'husband']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhʌzbənd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [married](/en/post/married/) [man](/en/post/man/) considered [in](/en/post/in/) [relation](/en/post/relation/) [to](/en/post/to/) [his](/en/post/his/) [wife](/en/post/wife/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) introduced [her](/en/post/her/) [husband](/en/post/husband/) [to](/en/post/to/) [her](/en/post/her/) colleagues."
-- **[Verb](/en/post/verb/) (obsolete)**: [To](/en/post/to/) [manage](/en/post/manage/) [or](/en/post/or/) [direct](/en/post/direct/); [to](/en/post/to/) [guide](/en/post/guide/) [or](/en/post/or/) [govern](/en/post/govern/) [with](/en/post/with/) prudence [and](/en/post/and/) [economy](/en/post/economy/). [This](/en/post/this/) [usage](/en/post/usage/) is [not](/en/post/not/) [common](/en/post/common/) [today](/en/post/today/).
+- **[Noun](/post/noun/)**: [A](/post/a/) [married](/post/married/) [man](/post/man/) considered [in](/post/in/) [relation](/post/relation/) [to](/post/to/) [his](/post/his/) [wife](/post/wife/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) introduced [her](/post/her/) [husband](/post/husband/) [to](/post/to/) [her](/post/her/) colleagues."
+- **[Verb](/post/verb/) (obsolete)**: [To](/post/to/) [manage](/post/manage/) [or](/post/or/) [direct](/post/direct/); [to](/post/to/) [guide](/post/guide/) [or](/post/or/) [govern](/post/govern/) [with](/post/with/) prudence [and](/post/and/) [economy](/post/economy/). [This](/post/this/) [usage](/post/usage/) is [not](/post/not/) [common](/post/common/) [today](/post/today/).
 
-### [Noun](/en/post/noun/) (Definitions)
-1. **Marital [relationship](/en/post/relationship/)**: [The](/en/post/the/) [male](/en/post/male/) [partner](/en/post/partner/) [in](/en/post/in/) [a](/en/post/a/) [marriage](/en/post/marriage/). "[She](/en/post/she/) has been [married](/en/post/married/) [to](/en/post/to/) [her](/en/post/her/) [husband](/en/post/husband/) [for](/en/post/for/) 20 years."
-2. **[Head](/en/post/head/) [of](/en/post/of/) [household](/en/post/household/)**: [In](/en/post/in/) [historical](/en/post/historical/) [or](/en/post/or/) [traditional](/en/post/traditional/) contexts, [the](/en/post/the/) [husband](/en/post/husband/) [often](/en/post/often/) refers [to](/en/post/to/) [the](/en/post/the/) [head](/en/post/head/) [of](/en/post/of/) [a](/en/post/a/) [family](/en/post/family/) [or](/en/post/or/) [household](/en/post/household/) [who](/en/post/who/) provides [for](/en/post/for/) [and](/en/post/and/) protects [his](/en/post/his/) [family](/en/post/family/). "[The](/en/post/the/) husband's [role](/en/post/role/) was [to](/en/post/to/) [work](/en/post/work/) [and](/en/post/and/) [maintain](/en/post/maintain/) [the](/en/post/the/) family's [welfare](/en/post/welfare/)."
-3. **[Legal](/en/post/legal/) [term](/en/post/term/)**: [As](/en/post/as/) [a](/en/post/a/) [legal](/en/post/legal/) [status](/en/post/status/), [being](/en/post/being/) someone's [husband](/en/post/husband/) implies [certain](/en/post/certain/) rights [and](/en/post/and/) responsibilities [under](/en/post/under/) [the](/en/post/the/) [law](/en/post/law/).
+### [Noun](/post/noun/) (Definitions)
+1. **Marital [relationship](/post/relationship/)**: [The](/post/the/) [male](/post/male/) [partner](/post/partner/) [in](/post/in/) [a](/post/a/) [marriage](/post/marriage/). "[She](/post/she/) has been [married](/post/married/) [to](/post/to/) [her](/post/her/) [husband](/post/husband/) [for](/post/for/) 20 years."
+2. **[Head](/post/head/) [of](/post/of/) [household](/post/household/)**: [In](/post/in/) [historical](/post/historical/) [or](/post/or/) [traditional](/post/traditional/) contexts, [the](/post/the/) [husband](/post/husband/) [often](/post/often/) refers [to](/post/to/) [the](/post/the/) [head](/post/head/) [of](/post/of/) [a](/post/a/) [family](/post/family/) [or](/post/or/) [household](/post/household/) [who](/post/who/) provides [for](/post/for/) [and](/post/and/) protects [his](/post/his/) [family](/post/family/). "[The](/post/the/) husband's [role](/post/role/) was [to](/post/to/) [work](/post/work/) [and](/post/and/) [maintain](/post/maintain/) [the](/post/the/) family's [welfare](/post/welfare/)."
+3. **[Legal](/post/legal/) [term](/post/term/)**: [As](/post/as/) [a](/post/a/) [legal](/post/legal/) [status](/post/status/), [being](/post/being/) someone's [husband](/post/husband/) implies [certain](/post/certain/) rights [and](/post/and/) responsibilities [under](/post/under/) [the](/post/the/) [law](/post/law/).
 
 ## Phrases
-- "[Husband](/en/post/husband/) [and](/en/post/and/) [wife](/en/post/wife/)": Refers collectively [to](/en/post/to/) [a](/en/post/a/) [married](/en/post/married/) [couple](/en/post/couple/). "[They](/en/post/they/) [have](/en/post/have/) been [husband](/en/post/husband/) [and](/en/post/and/) [wife](/en/post/wife/) [for](/en/post/for/) [over](/en/post/over/) [three](/en/post/three/) decades."
-- "[To](/en/post/to/) [take](/en/post/take/) [[someone](/en/post/someone/)] [for](/en/post/for/) [one's] [husband](/en/post/husband/)/[wife](/en/post/wife/)": [To](/en/post/to/) [marry](/en/post/marry/) [someone](/en/post/someone/). "[She](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) [him](/en/post/him/) [for](/en/post/for/) [her](/en/post/her/) [husband](/en/post/husband/)."
-- "Husbandry": [Although](/en/post/although/) related [in](/en/post/in/) [origin](/en/post/origin/), [this](/en/post/this/) [term](/en/post/term/) refers [to](/en/post/to/) [the](/en/post/the/) [careful](/en/post/careful/) [management](/en/post/management/) [of](/en/post/of/) resources, [particularly](/en/post/particularly/) [agriculture](/en/post/agriculture/) [or](/en/post/or/) [animal](/en/post/animal/) [care](/en/post/care/).
+- "[Husband](/post/husband/) [and](/post/and/) [wife](/post/wife/)": Refers collectively [to](/post/to/) [a](/post/a/) [married](/post/married/) [couple](/post/couple/). "[They](/post/they/) [have](/post/have/) been [husband](/post/husband/) [and](/post/and/) [wife](/post/wife/) [for](/post/for/) [over](/post/over/) [three](/post/three/) decades."
+- "[To](/post/to/) [take](/post/take/) [[someone](/post/someone/)] [for](/post/for/) [one's] [husband](/post/husband/)/[wife](/post/wife/)": [To](/post/to/) [marry](/post/marry/) [someone](/post/someone/). "[She](/post/she/) decided [to](/post/to/) [take](/post/take/) [him](/post/him/) [for](/post/for/) [her](/post/her/) [husband](/post/husband/)."
+- "Husbandry": [Although](/post/although/) related [in](/post/in/) [origin](/post/origin/), [this](/post/this/) [term](/post/term/) refers [to](/post/to/) [the](/post/the/) [careful](/post/careful/) [management](/post/management/) [of](/post/of/) resources, [particularly](/post/particularly/) [agriculture](/post/agriculture/) [or](/post/or/) [animal](/post/animal/) [care](/post/care/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [their](/en/post/their/) [honeymoon](/en/post/honeymoon/), [they](/en/post/they/) settled [down](/en/post/down/) [into](/en/post/into/) [their](/en/post/their/) [new](/en/post/new/) [life](/en/post/life/) [as](/en/post/as/) [husband](/en/post/husband/) [and](/en/post/and/) [wife](/en/post/wife/)."
-- **[Verb](/en/post/verb/) (obsolete)**: "[In](/en/post/in/) medieval times, [it](/en/post/it/) was expected [that](/en/post/that/) [a](/en/post/a/) [lord](/en/post/lord/) [would](/en/post/would/) [husband](/en/post/husband/) [his](/en/post/his/) lands [and](/en/post/and/) resources wisely."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [their](/post/their/) [honeymoon](/post/honeymoon/), [they](/post/they/) settled [down](/post/down/) [into](/post/into/) [their](/post/their/) [new](/post/new/) [life](/post/life/) [as](/post/as/) [husband](/post/husband/) [and](/post/and/) [wife](/post/wife/)."
+- **[Verb](/post/verb/) (obsolete)**: "[In](/post/in/) medieval times, [it](/post/it/) was expected [that](/post/that/) [a](/post/a/) [lord](/post/lord/) [would](/post/would/) [husband](/post/husband/) [his](/post/his/) lands [and](/post/and/) resources wisely."
 
 ## Synonyms
 - Spouse
-- [Partner](/en/post/partner/)
-- [Mate](/en/post/mate/)
+- [Partner](/post/partner/)
+- [Mate](/post/mate/)
 - Consort
 - Beau (informal)
-- [Significant](/en/post/significant/) [other](/en/post/other/) ([modern](/en/post/modern/), informal)
+- [Significant](/post/significant/) [other](/post/other/) ([modern](/post/modern/), informal)

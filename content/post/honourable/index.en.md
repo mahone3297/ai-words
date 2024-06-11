@@ -7,35 +7,35 @@ description = '[ˈɔnərəbl] a.诚实的；光荣的'
 keywords = ['ai words', 'honourable']
 +++
 
-## [Word](/en/post/word/): [Honourable](/en/post/honourable/)
+## [Word](/post/word/): [Honourable](/post/honourable/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɑːnərəbəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [high](/en/post/high/) [moral](/en/post/moral/) principles; [upright](/en/post/upright/) [and](/en/post/and/) [honest](/en/post/honest/). [For](/en/post/for/) [example](/en/post/example/): "He's an [honourable](/en/post/honourable/) [man](/en/post/man/) [who](/en/post/who/) [always](/en/post/always/) keeps [his](/en/post/his/) promises."
-- **[Adjective](/en/post/adjective/) ([formal](/en/post/formal/) [title](/en/post/title/))**: [Used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [title](/en/post/title/) [before](/en/post/before/) [the](/en/post/the/) [name](/en/post/name/) [of](/en/post/of/) [certain](/en/post/certain/) officials [or](/en/post/or/) members [of](/en/post/of/) [the](/en/post/the/) nobility. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [Right](/en/post/right/) [Honourable](/en/post/honourable/) John Smith, [Prime](/en/post/prime/) [Minister](/en/post/minister/)."
-- **[Adjective](/en/post/adjective/) ([legal](/en/post/legal/) context)**: Referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is officially recognized [or](/en/post/or/) respected, [such](/en/post/such/) [as](/en/post/as/) an [honourable](/en/post/honourable/) [discharge](/en/post/discharge/) [from](/en/post/from/) [military](/en/post/military/) [service](/en/post/service/). [Example](/en/post/example/): "[He](/en/post/he/) received an [honourable](/en/post/honourable/) [mention](/en/post/mention/) [in](/en/post/in/) [the](/en/post/the/) court's [decision](/en/post/decision/)."
+- **[Adjective](/post/adjective/)**: Having [high](/post/high/) [moral](/post/moral/) principles; [upright](/post/upright/) [and](/post/and/) [honest](/post/honest/). [For](/post/for/) [example](/post/example/): "He's an [honourable](/post/honourable/) [man](/post/man/) [who](/post/who/) [always](/post/always/) keeps [his](/post/his/) promises."
+- **[Adjective](/post/adjective/) ([formal](/post/formal/) [title](/post/title/))**: [Used](/post/used/) [as](/post/as/) [a](/post/a/) [title](/post/title/) [before](/post/before/) [the](/post/the/) [name](/post/name/) [of](/post/of/) [certain](/post/certain/) officials [or](/post/or/) members [of](/post/of/) [the](/post/the/) nobility. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [Right](/post/right/) [Honourable](/post/honourable/) John Smith, [Prime](/post/prime/) [Minister](/post/minister/)."
+- **[Adjective](/post/adjective/) ([legal](/post/legal/) context)**: Referring [to](/post/to/) [something](/post/something/) [that](/post/that/) is officially recognized [or](/post/or/) respected, [such](/post/such/) [as](/post/as/) an [honourable](/post/honourable/) [discharge](/post/discharge/) [from](/post/from/) [military](/post/military/) [service](/post/service/). [Example](/post/example/): "[He](/post/he/) received an [honourable](/post/honourable/) [mention](/post/mention/) [in](/post/in/) [the](/post/the/) court's [decision](/post/decision/)."
 
 ## Phrases
-- "An [honourable](/en/post/honourable/) [gentleman](/en/post/gentleman/)/[lady](/en/post/lady/)": [A](/en/post/a/) [respectful](/en/post/respectful/) [way](/en/post/way/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/) [with](/en/post/with/) integrity [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) [setting](/en/post/setting/).
-- "[Honour](/en/post/honour/) [among](/en/post/among/) thieves": [The](/en/post/the/) [idea](/en/post/idea/) [that](/en/post/that/) [even](/en/post/even/) [those](/en/post/those/) considered dishonest [or](/en/post/or/) immoral [have](/en/post/have/) [a](/en/post/a/) [code](/en/post/code/) [of](/en/post/of/) [conduct](/en/post/conduct/) [they](/en/post/they/) adhere [to](/en/post/to/) [among](/en/post/among/) [themselves](/en/post/themselves/).
-- "[With](/en/post/with/) [all](/en/post/all/) [due](/en/post/due/) [respect](/en/post/respect/), [Honourable](/en/post/honourable/) Senator": [A](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [address](/en/post/address/) [used](/en/post/used/) [when](/en/post/when/) speaking [to](/en/post/to/) [or](/en/post/or/) [about](/en/post/about/) [a](/en/post/a/) senator [or](/en/post/or/) [other](/en/post/other/) high-ranking [official](/en/post/official/).
+- "An [honourable](/post/honourable/) [gentleman](/post/gentleman/)/[lady](/post/lady/)": [A](/post/a/) [respectful](/post/respectful/) [way](/post/way/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [someone](/post/someone/) [with](/post/with/) integrity [in](/post/in/) [a](/post/a/) [formal](/post/formal/) [setting](/post/setting/).
+- "[Honour](/post/honour/) [among](/post/among/) thieves": [The](/post/the/) [idea](/post/idea/) [that](/post/that/) [even](/post/even/) [those](/post/those/) considered dishonest [or](/post/or/) immoral [have](/post/have/) [a](/post/a/) [code](/post/code/) [of](/post/of/) [conduct](/post/conduct/) [they](/post/they/) adhere [to](/post/to/) [among](/post/among/) [themselves](/post/themselves/).
+- "[With](/post/with/) [all](/post/all/) [due](/post/due/) [respect](/post/respect/), [Honourable](/post/honourable/) Senator": [A](/post/a/) [form](/post/form/) [of](/post/of/) [address](/post/address/) [used](/post/used/) [when](/post/when/) speaking [to](/post/to/) [or](/post/or/) [about](/post/about/) [a](/post/a/) senator [or](/post/or/) [other](/post/other/) high-ranking [official](/post/official/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) ([moral](/en/post/moral/) [character](/en/post/character/))**: "[Her](/en/post/her/) dedication [to](/en/post/to/) [charity](/en/post/charity/) [work](/en/post/work/) has earned [her](/en/post/her/) an [honourable](/en/post/honourable/) [reputation](/en/post/reputation/) [in](/en/post/in/) [the](/en/post/the/) [community](/en/post/community/)."
-- **[Adjective](/en/post/adjective/) ([title](/en/post/title/))**: "[The](/en/post/the/) [Honourable](/en/post/honourable/) [Judge](/en/post/judge/) presided [over](/en/post/over/) [the](/en/post/the/) high-profile [case](/en/post/case/) [with](/en/post/with/) impartiality."
-- **[Adjective](/en/post/adjective/) ([legal](/en/post/legal/) context)**: "[His](/en/post/his/) [service](/en/post/service/) was marked [by](/en/post/by/) an [honourable](/en/post/honourable/) [record](/en/post/record/) [of](/en/post/of/) achievements [and](/en/post/and/) [he](/en/post/he/) retired [with](/en/post/with/) [full](/en/post/full/) honours."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) ([moral](/post/moral/) [character](/post/character/))**: "[Her](/post/her/) dedication [to](/post/to/) [charity](/post/charity/) [work](/post/work/) has earned [her](/post/her/) an [honourable](/post/honourable/) [reputation](/post/reputation/) [in](/post/in/) [the](/post/the/) [community](/post/community/)."
+- **[Adjective](/post/adjective/) ([title](/post/title/))**: "[The](/post/the/) [Honourable](/post/honourable/) [Judge](/post/judge/) presided [over](/post/over/) [the](/post/the/) high-profile [case](/post/case/) [with](/post/with/) impartiality."
+- **[Adjective](/post/adjective/) ([legal](/post/legal/) context)**: "[His](/post/his/) [service](/post/service/) was marked [by](/post/by/) an [honourable](/post/honourable/) [record](/post/record/) [of](/post/of/) achievements [and](/post/and/) [he](/post/he/) retired [with](/post/with/) [full](/post/full/) honours."
 
 ## Synonyms
 - Respectable
-- [Upright](/en/post/upright/)
+- [Upright](/post/upright/)
 - Dignified
-- [Decent](/en/post/decent/)
+- [Decent](/post/decent/)
 - Ethical
-- [Noble](/en/post/noble/)
-- [Worthy](/en/post/worthy/)
+- [Noble](/post/noble/)
+- [Worthy](/post/worthy/)
 - Meritorious
 - Virtuous
-- [Moral](/en/post/moral/)
-- Honorable ([American](/en/post/american/) [spelling](/en/post/spelling/))
+- [Moral](/post/moral/)
+- Honorable ([American](/post/american/) [spelling](/post/spelling/))

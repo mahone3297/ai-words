@@ -11,20 +11,20 @@ keywords = ['ai words', 'circumference']
 /ˈsɜːr.kɪm.fəns/
 
 ## 释义
-- **名词**: 圆的周长；周围的长度。例如: "[The](/post/the/) [circumference](/post/circumference/) [of](/post/of/) [the](/post/the/) [circle](/post/circle/) is 20 meters."
-- **名词**: 范围；界限。例如: "[The](/post/the/) [circumference](/post/circumference/) [of](/post/of/) [her](/post/her/) [knowledge](/post/knowledge/) was [vast](/post/vast/)."
+- **名词**: 圆的周长；周围的长度。例如: "[The](/zh/post/the/) [circumference](/zh/post/circumference/) [of](/zh/post/of/) [the](/zh/post/the/) [circle](/zh/post/circle/) is 20 meters."
+- **名词**: 范围；界限。例如: "[The](/zh/post/the/) [circumference](/zh/post/circumference/) [of](/zh/post/of/) [her](/zh/post/her/) [knowledge](/zh/post/knowledge/) was [vast](/zh/post/vast/)."
 
 ## 短语
-- "[Calculate](/post/calculate/) [the](/post/the/) [circumference](/post/circumference/)" 计算周长。
-- "[Within](/post/within/) [a](/post/a/) [certain](/post/certain/) [circumference](/post/circumference/)" 在一定的范围内。
+- "[Calculate](/zh/post/calculate/) [the](/zh/post/the/) [circumference](/zh/post/circumference/)" 计算周长。
+- "[Within](/zh/post/within/) [a](/zh/post/a/) [certain](/zh/post/certain/) [circumference](/zh/post/circumference/)" 在一定的范围内。
 
 ## 例句
-- 名词: "[To](/post/to/) [find](/post/find/) [the](/post/the/) [area](/post/area/) [of](/post/of/) [a](/post/a/) [circle](/post/circle/), [you](/post/you/) [need](/post/need/) [to](/post/to/) [know](/post/know/) [its](/post/its/) [radius](/post/radius/) [or](/post/or/) [circumference](/post/circumference/)."
-- 名词: "[The](/post/the/) [circumference](/post/circumference/) [of](/post/of/) [the](/post/the/) [Earth](/post/earth/) is [approximately](/post/approximately/) 40,075 kilometers."
+- 名词: "[To](/zh/post/to/) [find](/zh/post/find/) [the](/zh/post/the/) [area](/zh/post/area/) [of](/zh/post/of/) [a](/zh/post/a/) [circle](/zh/post/circle/), [you](/zh/post/you/) [need](/zh/post/need/) [to](/zh/post/to/) [know](/zh/post/know/) [its](/zh/post/its/) [radius](/zh/post/radius/) [or](/zh/post/or/) [circumference](/zh/post/circumference/)."
+- 名词: "[The](/zh/post/the/) [circumference](/zh/post/circumference/) [of](/zh/post/of/) [the](/zh/post/the/) [Earth](/zh/post/earth/) is [approximately](/zh/post/approximately/) 40,075 kilometers."
 
 ## 同义词
 - Perimeter
-- [Boundary](/post/boundary/)
-- [Edge](/post/edge/)
-- [Orbit](/post/orbit/)
-- [Circuit](/post/circuit/)
+- [Boundary](/zh/post/boundary/)
+- [Edge](/zh/post/edge/)
+- [Orbit](/zh/post/orbit/)
+- [Circuit](/zh/post/circuit/)

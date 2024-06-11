@@ -7,35 +7,35 @@ description = '[iˈfi∫ənt] a.效率高的，有能力的'
 keywords = ['ai words', 'efficient']
 +++
 
-## [Word](/en/post/word/): [Efficient](/en/post/efficient/)
+## [Word](/post/word/): [Efficient](/post/efficient/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈfɪʃ(ə)nt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Performing [or](/en/post/or/) functioning [in](/en/post/in/) [the](/en/post/the/) [best](/en/post/best/) [possible](/en/post/possible/) [manner](/en/post/manner/) [with](/en/post/with/) [the](/en/post/the/) [least](/en/post/least/) [waste](/en/post/waste/) [of](/en/post/of/) [time](/en/post/time/) [and](/en/post/and/) [effort](/en/post/effort/); having [the](/en/post/the/) highest [degree](/en/post/degree/) [of](/en/post/of/) productivity, competence, [or](/en/post/or/) effectiveness. [For](/en/post/for/) [instance](/en/post/instance/):
-  - _**[Definition](/en/post/definition/) [Example](/en/post/example/)**: [The](/en/post/the/) [new](/en/post/new/) manager implemented [several](/en/post/several/) [efficient](/en/post/efficient/) processes [that](/en/post/that/) streamlined [the](/en/post/the/) workflow._
+- **[Adjective](/post/adjective/)**: Performing [or](/post/or/) functioning [in](/post/in/) [the](/post/the/) [best](/post/best/) [possible](/post/possible/) [manner](/post/manner/) [with](/post/with/) [the](/post/the/) [least](/post/least/) [waste](/post/waste/) [of](/post/of/) [time](/post/time/) [and](/post/and/) [effort](/post/effort/); having [the](/post/the/) highest [degree](/post/degree/) [of](/post/of/) productivity, competence, [or](/post/or/) effectiveness. [For](/post/for/) [instance](/post/instance/):
+  - _**[Definition](/post/definition/) [Example](/post/example/)**: [The](/post/the/) [new](/post/new/) manager implemented [several](/post/several/) [efficient](/post/efficient/) processes [that](/post/that/) streamlined [the](/post/the/) workflow._
   
-- **[Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [efficient](/en/post/efficient/), [especially](/en/post/especially/) [in](/en/post/in/) [their](/en/post/their/) [work](/en/post/work/) [or](/en/post/or/) actions. [Example](/en/post/example/):
-  - _**[Noun](/en/post/noun/) [Example](/en/post/example/)**: She's known [around](/en/post/around/) [the](/en/post/the/) [office](/en/post/office/) [as](/en/post/as/) [the](/en/post/the/) [most](/en/post/most/) [efficient](/en/post/efficient/) [among](/en/post/among/) [the](/en/post/the/) [team](/en/post/team/)._
+- **[Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [efficient](/post/efficient/), [especially](/post/especially/) [in](/post/in/) [their](/post/their/) [work](/post/work/) [or](/post/or/) actions. [Example](/post/example/):
+  - _**[Noun](/post/noun/) [Example](/post/example/)**: She's known [around](/post/around/) [the](/post/the/) [office](/post/office/) [as](/post/as/) [the](/post/the/) [most](/post/most/) [efficient](/post/efficient/) [among](/post/among/) [the](/post/the/) [team](/post/team/)._
 
 ## Phrases
-- "[Efficient](/en/post/efficient/) [use](/en/post/use/) [of](/en/post/of/) resources": Describes [when](/en/post/when/) [something](/en/post/something/) is done [in](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) maximizes [the](/en/post/the/) benefits [from](/en/post/from/) [available](/en/post/available/) resources [without](/en/post/without/) [waste](/en/post/waste/).
-- "[To](/en/post/to/) [work](/en/post/work/) efficiently": [Means](/en/post/means/) [to](/en/post/to/) [perform](/en/post/perform/) tasks [quickly](/en/post/quickly/) [and](/en/post/and/) effectively [without](/en/post/without/) wasting [time](/en/post/time/) [or](/en/post/or/) [energy](/en/post/energy/).
-- "[Efficient](/en/post/efficient/) [market](/en/post/market/) hypothesis": An [economic](/en/post/economic/) [theory](/en/post/theory/) stating [that](/en/post/that/) [financial](/en/post/financial/) markets [reflect](/en/post/reflect/) [all](/en/post/all/) [available](/en/post/available/) [information](/en/post/information/) [in](/en/post/in/) prices [instantly](/en/post/instantly/) [and](/en/post/and/) fully.
+- "[Efficient](/post/efficient/) [use](/post/use/) [of](/post/of/) resources": Describes [when](/post/when/) [something](/post/something/) is done [in](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) maximizes [the](/post/the/) benefits [from](/post/from/) [available](/post/available/) resources [without](/post/without/) [waste](/post/waste/).
+- "[To](/post/to/) [work](/post/work/) efficiently": [Means](/post/means/) [to](/post/to/) [perform](/post/perform/) tasks [quickly](/post/quickly/) [and](/post/and/) effectively [without](/post/without/) wasting [time](/post/time/) [or](/post/or/) [energy](/post/energy/).
+- "[Efficient](/post/efficient/) [market](/post/market/) hypothesis": An [economic](/post/economic/) [theory](/post/theory/) stating [that](/post/that/) [financial](/post/financial/) markets [reflect](/post/reflect/) [all](/post/all/) [available](/post/available/) [information](/post/information/) [in](/post/in/) prices [instantly](/post/instantly/) [and](/post/and/) fully.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) software has made [our](/en/post/our/) [data](/en/post/data/) [analysis](/en/post/analysis/) [much](/en/post/much/) [more](/en/post/more/) [efficient](/en/post/efficient/)."
-- _Noun ([rarely](/en/post/rarely/) [used](/en/post/used/))_ : "Hiring an [efficient](/en/post/efficient/) [assistant](/en/post/assistant/) was crucial [for](/en/post/for/) managing [the](/en/post/the/) growing workload."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) software has made [our](/post/our/) [data](/post/data/) [analysis](/post/analysis/) [much](/post/much/) [more](/post/more/) [efficient](/post/efficient/)."
+- _Noun ([rarely](/post/rarely/) [used](/post/used/))_ : "Hiring an [efficient](/post/efficient/) [assistant](/post/assistant/) was crucial [for](/post/for/) managing [the](/post/the/) growing workload."
 
 ## Synonyms
-- [Productive](/en/post/productive/)
-- [Effective](/en/post/effective/)
-- [Competent](/en/post/competent/)
-- [Skilled](/en/post/skilled/)
-- [Capable](/en/post/capable/)
+- [Productive](/post/productive/)
+- [Effective](/post/effective/)
+- [Competent](/post/competent/)
+- [Skilled](/post/skilled/)
+- [Capable](/post/capable/)
 - Resourceful
-- [Economical](/en/post/economical/)
+- [Economical](/post/economical/)
 - Time-effective
 - Well-organized
 - High-performing

@@ -7,46 +7,46 @@ description = '[ˈæŋgl] n.角，角度'
 keywords = ['ai words', 'angle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæŋɡl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [the](/en/post/the/) inclination [or](/en/post/or/) [direction](/en/post/direction/) [of](/en/post/of/) [a](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) [plane](/en/post/plane/) [with](/en/post/with/) [respect](/en/post/respect/) [to](/en/post/to/) [a](/en/post/a/) given [reference](/en/post/reference/), typically measured [in](/en/post/in/) degrees.
-   - "[The](/en/post/the/) [angle](/en/post/angle/) [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) lines is 45 degrees."
-2. [The](/en/post/the/) [position](/en/post/position/) [or](/en/post/or/) orientation [of](/en/post/of/) [something](/en/post/something/) [in](/en/post/in/) [space](/en/post/space/), [often](/en/post/often/) [in](/en/post/in/) [relation](/en/post/relation/) [to](/en/post/to/) [another](/en/post/another/) [object](/en/post/object/).
-   - "[The](/en/post/the/) [angle](/en/post/angle/) [of](/en/post/of/) [the](/en/post/the/) [roof](/en/post/roof/) is [important](/en/post/important/) [for](/en/post/for/) drainage."
-3. [A](/en/post/a/) [particular](/en/post/particular/) [viewpoint](/en/post/viewpoint/) [or](/en/post/or/) [perspective](/en/post/perspective/).
-   - "[A](/en/post/a/) [new](/en/post/new/) [angle](/en/post/angle/) [on](/en/post/on/) [the](/en/post/the/) [issue](/en/post/issue/) was presented [by](/en/post/by/) [the](/en/post/the/) [expert](/en/post/expert/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [measure](/post/measure/) [of](/post/of/) [the](/post/the/) inclination [or](/post/or/) [direction](/post/direction/) [of](/post/of/) [a](/post/a/) [line](/post/line/) [or](/post/or/) [plane](/post/plane/) [with](/post/with/) [respect](/post/respect/) [to](/post/to/) [a](/post/a/) given [reference](/post/reference/), typically measured [in](/post/in/) degrees.
+   - "[The](/post/the/) [angle](/post/angle/) [between](/post/between/) [the](/post/the/) [two](/post/two/) lines is 45 degrees."
+2. [The](/post/the/) [position](/post/position/) [or](/post/or/) orientation [of](/post/of/) [something](/post/something/) [in](/post/in/) [space](/post/space/), [often](/post/often/) [in](/post/in/) [relation](/post/relation/) [to](/post/to/) [another](/post/another/) [object](/post/object/).
+   - "[The](/post/the/) [angle](/post/angle/) [of](/post/of/) [the](/post/the/) [roof](/post/roof/) is [important](/post/important/) [for](/post/for/) drainage."
+3. [A](/post/a/) [particular](/post/particular/) [viewpoint](/post/viewpoint/) [or](/post/or/) [perspective](/post/perspective/).
+   - "[A](/post/a/) [new](/post/new/) [angle](/post/angle/) [on](/post/on/) [the](/post/the/) [issue](/post/issue/) was presented [by](/post/by/) [the](/post/the/) [expert](/post/expert/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [determine](/en/post/determine/) [or](/en/post/or/) [consider](/en/post/consider/) [the](/en/post/the/) [angle](/en/post/angle/) [or](/en/post/or/) [direction](/en/post/direction/) [of](/en/post/of/) [something](/en/post/something/).
-   - "[To](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [best](/en/post/best/) [angle](/en/post/angle/) [for](/en/post/for/) [the](/en/post/the/) [shot](/en/post/shot/), [he](/en/post/he/) adjusted [his](/en/post/his/) [camera](/en/post/camera/)."
-2. [To](/en/post/to/) [approach](/en/post/approach/) [or](/en/post/or/) [view](/en/post/view/) [a](/en/post/a/) [situation](/en/post/situation/) [from](/en/post/from/) [a](/en/post/a/) [different](/en/post/different/) [perspective](/en/post/perspective/).
-   - "[She](/en/post/she/) tried [to](/en/post/to/) [angle](/en/post/angle/) [her](/en/post/her/) [response](/en/post/response/) [to](/en/post/to/) [address](/en/post/address/) [his](/en/post/his/) concerns."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [determine](/post/determine/) [or](/post/or/) [consider](/post/consider/) [the](/post/the/) [angle](/post/angle/) [or](/post/or/) [direction](/post/direction/) [of](/post/of/) [something](/post/something/).
+   - "[To](/post/to/) [find](/post/find/) [the](/post/the/) [best](/post/best/) [angle](/post/angle/) [for](/post/for/) [the](/post/the/) [shot](/post/shot/), [he](/post/he/) adjusted [his](/post/his/) [camera](/post/camera/)."
+2. [To](/post/to/) [approach](/post/approach/) [or](/post/or/) [view](/post/view/) [a](/post/a/) [situation](/post/situation/) [from](/post/from/) [a](/post/a/) [different](/post/different/) [perspective](/post/perspective/).
+   - "[She](/post/she/) tried [to](/post/to/) [angle](/post/angle/) [her](/post/her/) [response](/post/response/) [to](/post/to/) [address](/post/address/) [his](/post/his/) concerns."
 
-### [Adjective](/en/post/adjective/)
-1. Characterizing [a](/en/post/a/) [specific](/en/post/specific/) [direction](/en/post/direction/) [or](/en/post/or/) orientation.
-   - "[The](/en/post/the/) [light](/en/post/light/) came [through](/en/post/through/) [the](/en/post/the/) [window](/en/post/window/) [at](/en/post/at/) [a](/en/post/a/) slanted [angle](/en/post/angle/)."
-2. Having [a](/en/post/a/) [particular](/en/post/particular/) [point](/en/post/point/) [of](/en/post/of/) [view](/en/post/view/) [or](/en/post/or/) bias.
-   - "An unbiased [journalist](/en/post/journalist/) approaches stories [from](/en/post/from/) [a](/en/post/a/) wide-angle [perspective](/en/post/perspective/)."
+### [Adjective](/post/adjective/)
+1. Characterizing [a](/post/a/) [specific](/post/specific/) [direction](/post/direction/) [or](/post/or/) orientation.
+   - "[The](/post/the/) [light](/post/light/) came [through](/post/through/) [the](/post/the/) [window](/post/window/) [at](/post/at/) [a](/post/a/) slanted [angle](/post/angle/)."
+2. Having [a](/post/a/) [particular](/post/particular/) [point](/post/point/) [of](/post/of/) [view](/post/view/) [or](/post/or/) bias.
+   - "An unbiased [journalist](/post/journalist/) approaches stories [from](/post/from/) [a](/post/a/) wide-angle [perspective](/post/perspective/)."
 
 ## Phrases
-- "[At](/en/post/at/) [what](/en/post/what/) [angle](/en/post/angle/) is [the](/en/post/the/) [sun](/en/post/sun/) rising [today](/en/post/today/)?"
-- "[The](/en/post/the/) [camera](/en/post/camera/) was positioned [at](/en/post/at/) [a](/en/post/a/) [low](/en/post/low/) [angle](/en/post/angle/) [to](/en/post/to/) [capture](/en/post/capture/) [the](/en/post/the/) [dramatic](/en/post/dramatic/) [effect](/en/post/effect/)."
-- "[Take](/en/post/take/) [a](/en/post/a/) [new](/en/post/new/) [angle](/en/post/angle/) [on](/en/post/on/) [the](/en/post/the/) [problem](/en/post/problem/) [to](/en/post/to/) [find](/en/post/find/) [a](/en/post/a/) [solution](/en/post/solution/)."
+- "[At](/post/at/) [what](/post/what/) [angle](/post/angle/) is [the](/post/the/) [sun](/post/sun/) rising [today](/post/today/)?"
+- "[The](/post/the/) [camera](/post/camera/) was positioned [at](/post/at/) [a](/post/a/) [low](/post/low/) [angle](/post/angle/) [to](/post/to/) [capture](/post/capture/) [the](/post/the/) [dramatic](/post/dramatic/) [effect](/post/effect/)."
+- "[Take](/post/take/) [a](/post/a/) [new](/post/new/) [angle](/post/angle/) [on](/post/on/) [the](/post/the/) [problem](/post/problem/) [to](/post/to/) [find](/post/find/) [a](/post/a/) [solution](/post/solution/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) architect designed [the](/en/post/the/) [building](/en/post/building/) [with](/en/post/with/) [a](/en/post/a/) [unique](/en/post/unique/) 90-degree [angle](/en/post/angle/) [at](/en/post/at/) [the](/en/post/the/) [corner](/en/post/corner/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) photographer tried [various](/en/post/various/) angles [to](/en/post/to/) [capture](/en/post/capture/) [the](/en/post/the/) [perfect](/en/post/perfect/) [portrait](/en/post/portrait/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [writing](/en/post/writing/) takes [a](/en/post/a/) broad-angle [approach](/en/post/approach/) [to](/en/post/to/) [understanding](/en/post/understanding/) [history](/en/post/history/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) architect designed [the](/post/the/) [building](/post/building/) [with](/post/with/) [a](/post/a/) [unique](/post/unique/) 90-degree [angle](/post/angle/) [at](/post/at/) [the](/post/the/) [corner](/post/corner/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) photographer tried [various](/post/various/) angles [to](/post/to/) [capture](/post/capture/) [the](/post/the/) [perfect](/post/perfect/) [portrait](/post/portrait/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [writing](/post/writing/) takes [a](/post/a/) broad-angle [approach](/post/approach/) [to](/post/to/) [understanding](/post/understanding/) [history](/post/history/)."
 
 ## Synonyms
-- [Slope](/en/post/slope/)
+- [Slope](/post/slope/)
 - Orientation
-- [Perspective](/en/post/perspective/)
-- [Direction](/en/post/direction/)
-- [Viewpoint](/en/post/viewpoint/)
-- [Angle](/en/post/angle/) [of](/en/post/of/) incidence
-- [Point](/en/post/point/) [of](/en/post/of/) [view](/en/post/view/)
-- Orientation ([as](/en/post/as/) [in](/en/post/in/) [direction](/en/post/direction/))
+- [Perspective](/post/perspective/)
+- [Direction](/post/direction/)
+- [Viewpoint](/post/viewpoint/)
+- [Angle](/post/angle/) [of](/post/of/) incidence
+- [Point](/post/point/) [of](/post/of/) [view](/post/view/)
+- Orientation ([as](/post/as/) [in](/post/in/) [direction](/post/direction/))

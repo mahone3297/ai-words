@@ -7,41 +7,41 @@ description = '[iˈlæbərət] a.复杂的；精心制作的'
 keywords = ['ai words', 'elaborate']
 +++
 
-## [Word](/en/post/word/): [Elaborate](/en/post/elaborate/)
+## [Word](/post/word/): [Elaborate](/post/elaborate/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈlæbərət/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) Detailed [and](/en/post/and/) intricate; [complex](/en/post/complex/) [and](/en/post/and/) [highly](/en/post/highly/) developed. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [palace](/en/post/palace/) had an [elaborate](/en/post/elaborate/) [system](/en/post/system/) [of](/en/post/of/) gardens."
-  - "[They](/en/post/they/) presented an [elaborate](/en/post/elaborate/) [plan](/en/post/plan/) [to](/en/post/to/) [improve](/en/post/improve/) [the](/en/post/the/) city's infrastructure."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [work](/en/post/work/) [out](/en/post/out/) [or](/en/post/or/) [create](/en/post/create/) [with](/en/post/with/) [great](/en/post/great/) [care](/en/post/care/), [detail](/en/post/detail/), [or](/en/post/or/) complexity. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spent hours elaborating [her](/en/post/her/) ideas [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/)."
-  - "[The](/en/post/the/) chef elaborated [a](/en/post/a/) five-course [meal](/en/post/meal/) [that](/en/post/that/) was [both](/en/post/both/) [beautiful](/en/post/beautiful/) [and](/en/post/and/) [delicious](/en/post/delicious/)."
+- **[Adjective](/post/adjective/)**: (adj) Detailed [and](/post/and/) intricate; [complex](/post/complex/) [and](/post/and/) [highly](/post/highly/) developed. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [palace](/post/palace/) had an [elaborate](/post/elaborate/) [system](/post/system/) [of](/post/of/) gardens."
+  - "[They](/post/they/) presented an [elaborate](/post/elaborate/) [plan](/post/plan/) [to](/post/to/) [improve](/post/improve/) [the](/post/the/) city's infrastructure."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [work](/post/work/) [out](/post/out/) [or](/post/or/) [create](/post/create/) [with](/post/with/) [great](/post/great/) [care](/post/care/), [detail](/post/detail/), [or](/post/or/) complexity. [For](/post/for/) [example](/post/example/): "[She](/post/she/) spent hours elaborating [her](/post/her/) ideas [on](/post/on/) [the](/post/the/) [project](/post/project/)."
+  - "[The](/post/the/) chef elaborated [a](/post/a/) five-course [meal](/post/meal/) [that](/post/that/) was [both](/post/both/) [beautiful](/post/beautiful/) [and](/post/and/) [delicious](/post/delicious/)."
 
 ## Phrases
-- "[Elaborate](/en/post/elaborate/) [on](/en/post/on/) [something](/en/post/something/)": [To](/en/post/to/) [provide](/en/post/provide/) [more](/en/post/more/) details [or](/en/post/or/) [explanation](/en/post/explanation/) [about](/en/post/about/) [something](/en/post/something/). [Example](/en/post/example/): "[Can](/en/post/can/) [you](/en/post/you/) [please](/en/post/please/) [elaborate](/en/post/elaborate/) [on](/en/post/on/) [your](/en/post/your/) [proposal](/en/post/proposal/)?"
-- "An [elaborate](/en/post/elaborate/) [scheme](/en/post/scheme/)": [A](/en/post/a/) [complex](/en/post/complex/) [and](/en/post/and/) carefully planned [arrangement](/en/post/arrangement/) [or](/en/post/or/) [strategy](/en/post/strategy/). [Example](/en/post/example/): "Detectives uncovered an [elaborate](/en/post/elaborate/) [money](/en/post/money/) laundering [scheme](/en/post/scheme/)."
+- "[Elaborate](/post/elaborate/) [on](/post/on/) [something](/post/something/)": [To](/post/to/) [provide](/post/provide/) [more](/post/more/) details [or](/post/or/) [explanation](/post/explanation/) [about](/post/about/) [something](/post/something/). [Example](/post/example/): "[Can](/post/can/) [you](/post/you/) [please](/post/please/) [elaborate](/post/elaborate/) [on](/post/on/) [your](/post/your/) [proposal](/post/proposal/)?"
+- "An [elaborate](/post/elaborate/) [scheme](/post/scheme/)": [A](/post/a/) [complex](/post/complex/) [and](/post/and/) carefully planned [arrangement](/post/arrangement/) [or](/post/or/) [strategy](/post/strategy/). [Example](/post/example/): "Detectives uncovered an [elaborate](/post/elaborate/) [money](/post/money/) laundering [scheme](/post/scheme/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) bride wore an [elaborate](/en/post/elaborate/) [gown](/en/post/gown/) adorned [with](/en/post/with/) sequins [and](/en/post/and/) [lace](/en/post/lace/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [author](/en/post/author/) elaborated [the](/en/post/the/) [plot](/en/post/plot/) [by](/en/post/by/) adding layers [of](/en/post/of/) subplot [and](/en/post/and/) [character](/en/post/character/) [development](/en/post/development/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) bride wore an [elaborate](/post/elaborate/) [gown](/post/gown/) adorned [with](/post/with/) sequins [and](/post/and/) [lace](/post/lace/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [author](/post/author/) elaborated [the](/post/the/) [plot](/post/plot/) [by](/post/by/) adding layers [of](/post/of/) subplot [and](/post/and/) [character](/post/character/) [development](/post/development/)."
 
 ## Synonyms
 - Intricate
-- [Complex](/en/post/complex/)
+- [Complex](/post/complex/)
 - Detailed
-- [Complicated](/en/post/complicated/)
+- [Complicated](/post/complicated/)
 - Ornate
-- [Sophisticated](/en/post/sophisticated/)
+- [Sophisticated](/post/sophisticated/)
 - Exquisite
 - Developed
 - Deliberate
-- Elaborative ([as](/en/post/as/) [a](/en/post/a/) related [adjective](/en/post/adjective/))
+- Elaborative ([as](/post/as/) [a](/post/a/) related [adjective](/post/adjective/))
   
-[When](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/):
-- [Explain](/en/post/explain/)
-- [Expand](/en/post/expand/) [upon](/en/post/upon/)
-- [Detail](/en/post/detail/)
-- [Clarify](/en/post/clarify/)
-- [Develop](/en/post/develop/) [further](/en/post/further/)
-- [Amplify](/en/post/amplify/)
+[When](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/):
+- [Explain](/post/explain/)
+- [Expand](/post/expand/) [upon](/post/upon/)
+- [Detail](/post/detail/)
+- [Clarify](/post/clarify/)
+- [Develop](/post/develop/) [further](/post/further/)
+- [Amplify](/post/amplify/)

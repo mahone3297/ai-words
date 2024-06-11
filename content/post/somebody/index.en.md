@@ -7,40 +7,40 @@ description = '[ˈsʌmbədi] pron.某人，有人'
 keywords = ['ai words', 'somebody']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈbəʊdi/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [person](/en/post/person/) [unknown](/en/post/unknown/) [or](/en/post/or/) unspecified**: "[Somebody](/en/post/somebody/) [left](/en/post/left/) [a](/en/post/a/) [message](/en/post/message/) [on](/en/post/on/) [the](/en/post/the/) [phone](/en/post/phone/)."
-- **[A](/en/post/a/) generic [term](/en/post/term/) [for](/en/post/for/) [anyone](/en/post/anyone/)**: "[If](/en/post/if/) [you](/en/post/you/) [need](/en/post/need/) [help](/en/post/help/), [just](/en/post/just/) [ask](/en/post/ask/) [somebody](/en/post/somebody/)."
-- **[A](/en/post/a/) [potential](/en/post/potential/) [customer](/en/post/customer/) [or](/en/post/or/) client**: "We're targeting [young](/en/post/young/) adults [as](/en/post/as/) [our](/en/post/our/) [main](/en/post/main/) [somebody](/en/post/somebody/) [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [product](/en/post/product/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [person](/post/person/) [unknown](/post/unknown/) [or](/post/or/) unspecified**: "[Somebody](/post/somebody/) [left](/post/left/) [a](/post/a/) [message](/post/message/) [on](/post/on/) [the](/post/the/) [phone](/post/phone/)."
+- **[A](/post/a/) generic [term](/post/term/) [for](/post/for/) [anyone](/post/anyone/)**: "[If](/post/if/) [you](/post/you/) [need](/post/need/) [help](/post/help/), [just](/post/just/) [ask](/post/ask/) [somebody](/post/somebody/)."
+- **[A](/post/a/) [potential](/post/potential/) [customer](/post/customer/) [or](/post/or/) client**: "We're targeting [young](/post/young/) adults [as](/post/as/) [our](/post/our/) [main](/post/main/) [somebody](/post/somebody/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [product](/post/product/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) an [unknown](/en/post/unknown/) [or](/en/post/or/) unspecified [person](/en/post/person/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [who](/en/post/who/) was [late](/en/post/late/), [but](/en/post/but/) [nobody](/en/post/nobody/) answered, [so](/en/post/so/) [they](/en/post/they/) called [out](/en/post/out/) '[somebody](/en/post/somebody/)'."
-- **[To](/en/post/to/) [involve](/en/post/involve/) [or](/en/post/or/) [address](/en/post/address/) an [unknown](/en/post/unknown/) [individual](/en/post/individual/)**: "Let's brainstorm ways [to](/en/post/to/) [reach](/en/post/reach/) [out](/en/post/out/) [to](/en/post/to/) somebodies [who](/en/post/who/) [might](/en/post/might/) [be](/en/post/be/) interested [in](/en/post/in/) volunteering."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [refer](/post/refer/) [to](/post/to/) an [unknown](/post/unknown/) [or](/post/or/) unspecified [person](/post/person/)**: "[The](/post/the/) [teacher](/post/teacher/) asked [who](/post/who/) was [late](/post/late/), [but](/post/but/) [nobody](/post/nobody/) answered, [so](/post/so/) [they](/post/they/) called [out](/post/out/) '[somebody](/post/somebody/)'."
+- **[To](/post/to/) [involve](/post/involve/) [or](/post/or/) [address](/post/address/) an [unknown](/post/unknown/) [individual](/post/individual/)**: "Let's brainstorm ways [to](/post/to/) [reach](/post/reach/) [out](/post/out/) [to](/post/to/) somebodies [who](/post/who/) [might](/post/might/) [be](/post/be/) interested [in](/post/in/) volunteering."
 
-### [Adjective](/en/post/adjective/)
-- **Generic [or](/en/post/or/) unspecified**: "There's [a](/en/post/a/) [chair](/en/post/chair/) [for](/en/post/for/) [somebody](/en/post/somebody/) [over](/en/post/over/) [there](/en/post/there/)."
-- **[Potential](/en/post/potential/) [or](/en/post/or/) [possible](/en/post/possible/)**: "She's looking [for](/en/post/for/) [a](/en/post/a/) [job](/en/post/job/), [so](/en/post/so/) she's hoping [to](/en/post/to/) [find](/en/post/find/) [something](/en/post/something/) [for](/en/post/for/) [somebody](/en/post/somebody/) [soon](/en/post/soon/)."
+### [Adjective](/post/adjective/)
+- **Generic [or](/post/or/) unspecified**: "There's [a](/post/a/) [chair](/post/chair/) [for](/post/for/) [somebody](/post/somebody/) [over](/post/over/) [there](/post/there/)."
+- **[Potential](/post/potential/) [or](/post/or/) [possible](/post/possible/)**: "She's looking [for](/post/for/) [a](/post/a/) [job](/post/job/), [so](/post/so/) she's hoping [to](/post/to/) [find](/post/find/) [something](/post/something/) [for](/post/for/) [somebody](/post/somebody/) [soon](/post/soon/)."
 
-### [Pronoun](/en/post/pronoun/)
-- Referring [to](/en/post/to/) an [unknown](/en/post/unknown/) [person](/en/post/person/): "I'll [talk](/en/post/talk/) [to](/en/post/to/) [somebody](/en/post/somebody/) [about](/en/post/about/) [it](/en/post/it/) [later](/en/post/later/)."
+### [Pronoun](/post/pronoun/)
+- Referring [to](/post/to/) an [unknown](/post/unknown/) [person](/post/person/): "I'll [talk](/post/talk/) [to](/post/to/) [somebody](/post/somebody/) [about](/post/about/) [it](/post/it/) [later](/post/later/)."
 
 ## Phrases
-- "Somebody's watching" implies [that](/en/post/that/) [someone](/en/post/someone/) is keeping an [eye](/en/post/eye/) [on](/en/post/on/) [the](/en/post/the/) [situation](/en/post/situation/).
-- "[Ask](/en/post/ask/) [somebody](/en/post/somebody/) [to](/en/post/to/) [help](/en/post/help/)" is [a](/en/post/a/) [request](/en/post/request/) [for](/en/post/for/) assistance [from](/en/post/from/) an [unknown](/en/post/unknown/) [person](/en/post/person/).
-- "[It](/en/post/it/) [could](/en/post/could/) [be](/en/post/be/) [anybody](/en/post/anybody/)" suggests uncertainty [about](/en/post/about/) [the](/en/post/the/) identity [of](/en/post/of/) [the](/en/post/the/) [person](/en/post/person/) involved.
+- "Somebody's watching" implies [that](/post/that/) [someone](/post/someone/) is keeping an [eye](/post/eye/) [on](/post/on/) [the](/post/the/) [situation](/post/situation/).
+- "[Ask](/post/ask/) [somebody](/post/somebody/) [to](/post/to/) [help](/post/help/)" is [a](/post/a/) [request](/post/request/) [for](/post/for/) assistance [from](/post/from/) an [unknown](/post/unknown/) [person](/post/person/).
+- "[It](/post/it/) [could](/post/could/) [be](/post/be/) [anybody](/post/anybody/)" suggests uncertainty [about](/post/about/) [the](/post/the/) identity [of](/post/of/) [the](/post/the/) [person](/post/person/) involved.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [saw](/en/post/saw/) [a](/en/post/a/) [note](/en/post/note/) addressed [to](/en/post/to/) [Somebody](/en/post/somebody/) Smith [on](/en/post/on/) [the](/en/post/the/) doormat."
-- **[Verb](/en/post/verb/)**: "I asked [the](/en/post/the/) receptionist [if](/en/post/if/) [somebody](/en/post/somebody/) had called [for](/en/post/for/) [me](/en/post/me/)."
-- **[Adjective](/en/post/adjective/)**: "I'm [not](/en/post/not/) [sure](/en/post/sure/) [who](/en/post/who/) [the](/en/post/the/) [somebody](/en/post/somebody/) is [who](/en/post/who/) [left](/en/post/left/) [this](/en/post/this/) [note](/en/post/note/)."
-- **[Pronoun](/en/post/pronoun/)**: "I'll [have](/en/post/have/) [to](/en/post/to/) [speak](/en/post/speak/) [to](/en/post/to/) [somebody](/en/post/somebody/) [at](/en/post/at/) [the](/en/post/the/) [company](/en/post/company/) [about](/en/post/about/) [the](/en/post/the/) [issue](/en/post/issue/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [saw](/post/saw/) [a](/post/a/) [note](/post/note/) addressed [to](/post/to/) [Somebody](/post/somebody/) Smith [on](/post/on/) [the](/post/the/) doormat."
+- **[Verb](/post/verb/)**: "I asked [the](/post/the/) receptionist [if](/post/if/) [somebody](/post/somebody/) had called [for](/post/for/) [me](/post/me/)."
+- **[Adjective](/post/adjective/)**: "I'm [not](/post/not/) [sure](/post/sure/) [who](/post/who/) [the](/post/the/) [somebody](/post/somebody/) is [who](/post/who/) [left](/post/left/) [this](/post/this/) [note](/post/note/)."
+- **[Pronoun](/post/pronoun/)**: "I'll [have](/post/have/) [to](/post/to/) [speak](/post/speak/) [to](/post/to/) [somebody](/post/somebody/) [at](/post/at/) [the](/post/the/) [company](/post/company/) [about](/post/about/) [the](/post/the/) [issue](/post/issue/)."
 
 ## Synonyms
-- [Anybody](/en/post/anybody/)
-- [Someone](/en/post/someone/)
-- [Certain](/en/post/certain/) [individual](/en/post/individual/)
-- Anonymous [person](/en/post/person/)
-- [Unknown](/en/post/unknown/) entity
+- [Anybody](/post/anybody/)
+- [Someone](/post/someone/)
+- [Certain](/post/certain/) [individual](/post/individual/)
+- Anonymous [person](/post/person/)
+- [Unknown](/post/unknown/) entity

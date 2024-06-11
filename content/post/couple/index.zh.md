@@ -11,20 +11,20 @@ keywords = ['ai words', 'couple']
 /ˈkʌpl/
 
 ## 释义
-- **名词**: 一对，两个人或事物。例如: "[They](/post/they/) are [a](/post/a/) [happy](/post/happy/) [couple](/post/couple/)."
-- **动词**: 结成一对；配对。例如: "[These](/post/these/) [two](/post/two/) chairs [couple](/post/couple/) [perfectly](/post/perfectly/)."
+- **名词**: 一对，两个人或事物。例如: "[They](/zh/post/they/) are [a](/zh/post/a/) [happy](/zh/post/happy/) [couple](/zh/post/couple/)."
+- **动词**: 结成一对；配对。例如: "[These](/zh/post/these/) [two](/zh/post/two/) chairs [couple](/zh/post/couple/) [perfectly](/zh/post/perfectly/)."
 
 ## 短语
-- "[A](/post/a/) [married](/post/married/) [couple](/post/couple/)" 指已婚夫妇。
-- "[The](/post/the/) [couple](/post/couple/) decided [to](/post/to/) [couple](/post/couple/) [their](/post/their/) businesses [for](/post/for/) [mutual](/post/mutual/) [benefit](/post/benefit/)." 意为这对夫妇决定将他们的生意联合起来以互利。
+- "[A](/zh/post/a/) [married](/zh/post/married/) [couple](/zh/post/couple/)" 指已婚夫妇。
+- "[The](/zh/post/the/) [couple](/zh/post/couple/) decided [to](/zh/post/to/) [couple](/zh/post/couple/) [their](/zh/post/their/) businesses [for](/zh/post/for/) [mutual](/zh/post/mutual/) [benefit](/zh/post/benefit/)." 意为这对夫妇决定将他们的生意联合起来以互利。
 
 ## 例句
-- 名词: "[The](/post/the/) [couple](/post/couple/) celebrated [their](/post/their/) 10th [wedding](/post/wedding/) anniversary."
-- 动词: "[These](/post/these/) [two](/post/two/) pieces [of](/post/of/) software [couple](/post/couple/) seamlessly."
+- 名词: "[The](/zh/post/the/) [couple](/zh/post/couple/) celebrated [their](/zh/post/their/) 10th [wedding](/zh/post/wedding/) anniversary."
+- 动词: "[These](/zh/post/these/) [two](/zh/post/two/) pieces [of](/zh/post/of/) software [couple](/zh/post/couple/) seamlessly."
 
 ## 同义词
-- [Pair](/post/pair/)
+- [Pair](/zh/post/pair/)
 - Duo
-- [Team](/post/team/)
-- [Match](/post/match/)
+- [Team](/zh/post/team/)
+- [Match](/zh/post/match/)
 - Twosome

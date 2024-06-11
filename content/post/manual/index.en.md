@@ -7,30 +7,30 @@ description = '[ˈmænjuəl] a.体力的 n.手册'
 keywords = ['ai words', 'manual']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmænjuəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [book](/en/post/book/) [or](/en/post/or/) [document](/en/post/document/) [that](/en/post/that/) provides instructions [or](/en/post/or/) [information](/en/post/information/) [about](/en/post/about/) [how](/en/post/how/) [to](/en/post/to/) [use](/en/post/use/) [something](/en/post/something/), [operate](/en/post/operate/) machinery, [or](/en/post/or/) [perform](/en/post/perform/) [specific](/en/post/specific/) tasks. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [user](/en/post/user/) [manual](/en/post/manual/) explained [how](/en/post/how/) [to](/en/post/to/) [assemble](/en/post/assemble/) [the](/en/post/the/) [furniture](/en/post/furniture/)."
-- **[Adjective](/en/post/adjective/) (adj)**: Done [or](/en/post/or/) operated [by](/en/post/by/) [hand](/en/post/hand/) [rather](/en/post/rather/) [than](/en/post/than/) automatically [or](/en/post/or/) electronically. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [manual](/en/post/manual/) [transmission](/en/post/transmission/) requires [the](/en/post/the/) [driver](/en/post/driver/) [to](/en/post/to/) [shift](/en/post/shift/) gears [themselves](/en/post/themselves/)."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) does [work](/en/post/work/) [that](/en/post/that/) requires [physical](/en/post/physical/) [strength](/en/post/strength/) [or](/en/post/or/) [skill](/en/post/skill/), [especially](/en/post/especially/) [one](/en/post/one/) [who](/en/post/who/) uses [their](/en/post/their/) hands. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [factory](/en/post/factory/) employs [many](/en/post/many/) [manual](/en/post/manual/) laborers."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [book](/post/book/) [or](/post/or/) [document](/post/document/) [that](/post/that/) provides instructions [or](/post/or/) [information](/post/information/) [about](/post/about/) [how](/post/how/) [to](/post/to/) [use](/post/use/) [something](/post/something/), [operate](/post/operate/) machinery, [or](/post/or/) [perform](/post/perform/) [specific](/post/specific/) tasks. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [user](/post/user/) [manual](/post/manual/) explained [how](/post/how/) [to](/post/to/) [assemble](/post/assemble/) [the](/post/the/) [furniture](/post/furniture/)."
+- **[Adjective](/post/adjective/) (adj)**: Done [or](/post/or/) operated [by](/post/by/) [hand](/post/hand/) [rather](/post/rather/) [than](/post/than/) automatically [or](/post/or/) electronically. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [manual](/post/manual/) [transmission](/post/transmission/) requires [the](/post/the/) [driver](/post/driver/) [to](/post/to/) [shift](/post/shift/) gears [themselves](/post/themselves/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) does [work](/post/work/) [that](/post/that/) requires [physical](/post/physical/) [strength](/post/strength/) [or](/post/or/) [skill](/post/skill/), [especially](/post/especially/) [one](/post/one/) [who](/post/who/) uses [their](/post/their/) hands. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [factory](/post/factory/) employs [many](/post/many/) [manual](/post/manual/) laborers."
 
 ## Phrases
-- "[Read](/en/post/read/) [the](/en/post/the/) [manual](/en/post/manual/)" implies referring [to](/en/post/to/) [a](/en/post/a/) guidebook [or](/en/post/or/) instructions [before](/en/post/before/) using [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/).
-- "[Manual](/en/post/manual/) override" refers [to](/en/post/to/) [a](/en/post/a/) [control](/en/post/control/) mechanism [that](/en/post/that/) allows [a](/en/post/a/) [human](/en/post/human/) [operator](/en/post/operator/) [to](/en/post/to/) intervene [in](/en/post/in/) an automated [system](/en/post/system/).
-- "[Manual](/en/post/manual/) labor" denotes [work](/en/post/work/) [that](/en/post/that/) involves [physical](/en/post/physical/) [effort](/en/post/effort/), typically [not](/en/post/not/) requiring [advanced](/en/post/advanced/) [education](/en/post/education/) [or](/en/post/or/) [technology](/en/post/technology/).
+- "[Read](/post/read/) [the](/post/the/) [manual](/post/manual/)" implies referring [to](/post/to/) [a](/post/a/) guidebook [or](/post/or/) instructions [before](/post/before/) using [a](/post/a/) [product](/post/product/) [or](/post/or/) [service](/post/service/).
+- "[Manual](/post/manual/) override" refers [to](/post/to/) [a](/post/a/) [control](/post/control/) mechanism [that](/post/that/) allows [a](/post/a/) [human](/post/human/) [operator](/post/operator/) [to](/post/to/) intervene [in](/post/in/) an automated [system](/post/system/).
+- "[Manual](/post/manual/) labor" denotes [work](/post/work/) [that](/post/that/) involves [physical](/post/physical/) [effort](/post/effort/), typically [not](/post/not/) requiring [advanced](/post/advanced/) [education](/post/education/) [or](/post/or/) [technology](/post/technology/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (instructions)**: "[Always](/en/post/always/) [consult](/en/post/consult/) [the](/en/post/the/) owner's [manual](/en/post/manual/) [before](/en/post/before/) attempting [to](/en/post/to/) [fix](/en/post/fix/) [the](/en/post/the/) [appliance](/en/post/appliance/)."
-- **[Adjective](/en/post/adjective/) (operated [by](/en/post/by/) [hand](/en/post/hand/))**: "[She](/en/post/she/) prefers driving cars [with](/en/post/with/) [manual](/en/post/manual/) transmissions [because](/en/post/because/) [they](/en/post/they/) [offer](/en/post/offer/) [better](/en/post/better/) [control](/en/post/control/)."
-- **[Noun](/en/post/noun/) ([person](/en/post/person/))**: "[In](/en/post/in/) [his](/en/post/his/) [youth](/en/post/youth/), [he](/en/post/he/) worked [as](/en/post/as/) [a](/en/post/a/) [manual](/en/post/manual/) laborer [to](/en/post/to/) [save](/en/post/save/) [up](/en/post/up/) [for](/en/post/for/) [college](/en/post/college/) [tuition](/en/post/tuition/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (instructions)**: "[Always](/post/always/) [consult](/post/consult/) [the](/post/the/) owner's [manual](/post/manual/) [before](/post/before/) attempting [to](/post/to/) [fix](/post/fix/) [the](/post/the/) [appliance](/post/appliance/)."
+- **[Adjective](/post/adjective/) (operated [by](/post/by/) [hand](/post/hand/))**: "[She](/post/she/) prefers driving cars [with](/post/with/) [manual](/post/manual/) transmissions [because](/post/because/) [they](/post/they/) [offer](/post/offer/) [better](/post/better/) [control](/post/control/)."
+- **[Noun](/post/noun/) ([person](/post/person/))**: "[In](/post/in/) [his](/post/his/) [youth](/post/youth/), [he](/post/he/) worked [as](/post/as/) [a](/post/a/) [manual](/post/manual/) laborer [to](/post/to/) [save](/post/save/) [up](/post/up/) [for](/post/for/) [college](/post/college/) [tuition](/post/tuition/)."
 
 ## Synonyms
-- [Guide](/en/post/guide/)
+- [Guide](/post/guide/)
 - Handbook
 - Instructions
 - Directions
 - Hand-operated
-- [Physical](/en/post/physical/)
-- [Manual](/en/post/manual/) [work](/en/post/work/)
+- [Physical](/post/physical/)
+- [Manual](/post/manual/) [work](/post/work/)
 - Labor-intensive

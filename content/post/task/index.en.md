@@ -7,36 +7,36 @@ description = '[tɑːsk] n.任务，工作，作业'
 keywords = ['ai words', 'task']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tæsk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [task](/en/post/task/) is [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [work](/en/post/work/) [or](/en/post/or/) [duty](/en/post/duty/) [that](/en/post/that/) needs [to](/en/post/to/) [be](/en/post/be/) done, [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/) [or](/en/post/or/) [goal](/en/post/goal/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [assignment](/en/post/assignment/) [or](/en/post/or/) [responsibility](/en/post/responsibility/) given [by](/en/post/by/) [a](/en/post/a/) [teacher](/en/post/teacher/), [employer](/en/post/employer/), [or](/en/post/or/) supervisor.
+### [Noun](/post/noun/)
+[A](/post/a/) [task](/post/task/) is [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [work](/post/work/) [or](/post/or/) [duty](/post/duty/) [that](/post/that/) needs [to](/post/to/) [be](/post/be/) done, [often](/post/often/) [with](/post/with/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/) [or](/post/or/) [goal](/post/goal/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [assignment](/post/assignment/) [or](/post/or/) [responsibility](/post/responsibility/) given [by](/post/by/) [a](/post/a/) [teacher](/post/teacher/), [employer](/post/employer/), [or](/post/or/) supervisor.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [task](/en/post/task/) ([someone](/en/post/someone/)) is [to](/en/post/to/) [assign](/en/post/assign/) [them](/en/post/them/) [a](/en/post/a/) [job](/en/post/job/) [or](/en/post/or/) [responsibility](/en/post/responsibility/), [often](/en/post/often/) implying [that](/en/post/that/) [they](/en/post/they/) [should](/en/post/should/) [complete](/en/post/complete/) [it](/en/post/it/). [This](/en/post/this/) [can](/en/post/can/) [be](/en/post/be/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) giving [a](/en/post/a/) [specific](/en/post/specific/) [assignment](/en/post/assignment/) [or](/en/post/or/) delegating duties.
+### [Verb](/post/verb/)
+[To](/post/to/) [task](/post/task/) ([someone](/post/someone/)) is [to](/post/to/) [assign](/post/assign/) [them](/post/them/) [a](/post/a/) [job](/post/job/) [or](/post/or/) [responsibility](/post/responsibility/), [often](/post/often/) implying [that](/post/that/) [they](/post/they/) [should](/post/should/) [complete](/post/complete/) [it](/post/it/). [This](/post/this/) [can](/post/can/) [be](/post/be/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) giving [a](/post/a/) [specific](/post/specific/) [assignment](/post/assignment/) [or](/post/or/) delegating duties.
 
-### [Adjective](/en/post/adjective/)
-Tasks [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) is assigned [or](/en/post/or/) required, [as](/en/post/as/) [in](/en/post/in/) "[a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) [daily](/en/post/daily/) tasks" [or](/en/post/or/) "[a](/en/post/a/) challenging [task](/en/post/task/)."
+### [Adjective](/post/adjective/)
+Tasks [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) is assigned [or](/post/or/) required, [as](/post/as/) [in](/post/in/) "[a](/post/a/) [list](/post/list/) [of](/post/of/) [daily](/post/daily/) tasks" [or](/post/or/) "[a](/post/a/) challenging [task](/post/task/)."
 
 ## Phrases
-- "[To](/en/post/to/) [complete](/en/post/complete/) [a](/en/post/a/) [task](/en/post/task/)" [means](/en/post/means/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [job](/en/post/job/) assigned [to](/en/post/to/) [you](/en/post/you/).
-- "Task-oriented" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) focuses [on](/en/post/on/) completing tasks efficiently.
-- "[On](/en/post/on/) [a](/en/post/a/) [task](/en/post/task/)" implies [being](/en/post/being/) fully engaged [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [activity](/en/post/activity/).
+- "[To](/post/to/) [complete](/post/complete/) [a](/post/a/) [task](/post/task/)" [means](/post/means/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [job](/post/job/) assigned [to](/post/to/) [you](/post/you/).
+- "Task-oriented" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) focuses [on](/post/on/) completing tasks efficiently.
+- "[On](/post/on/) [a](/post/a/) [task](/post/task/)" implies [being](/post/being/) fully engaged [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [activity](/post/activity/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) manager assigned [several](/en/post/several/) tasks [to](/en/post/to/) [the](/en/post/the/) [team](/en/post/team/) [for](/en/post/for/) [the](/en/post/the/) upcoming [project](/en/post/project/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tasked [me](/en/post/me/) [with](/en/post/with/) organizing [the](/en/post/the/) [event](/en/post/event/) [for](/en/post/for/) [next](/en/post/next/) [week](/en/post/week/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) employees were working diligently [on](/en/post/on/) [their](/en/post/their/) assigned tasks."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) manager assigned [several](/post/several/) tasks [to](/post/to/) [the](/post/the/) [team](/post/team/) [for](/post/for/) [the](/post/the/) upcoming [project](/post/project/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tasked [me](/post/me/) [with](/post/with/) organizing [the](/post/the/) [event](/post/event/) [for](/post/for/) [next](/post/next/) [week](/post/week/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) employees were working diligently [on](/post/on/) [their](/post/their/) assigned tasks."
 
 ## Synonyms
-- [Assignment](/en/post/assignment/)
-- [Duty](/en/post/duty/)
-- [Responsibility](/en/post/responsibility/)
-- [Mission](/en/post/mission/)
-- [Objective](/en/post/objective/)
-- [Goal](/en/post/goal/)
-- [Project](/en/post/project/)
+- [Assignment](/post/assignment/)
+- [Duty](/post/duty/)
+- [Responsibility](/post/responsibility/)
+- [Mission](/post/mission/)
+- [Objective](/post/objective/)
+- [Goal](/post/goal/)
+- [Project](/post/project/)
 - chore
 - errand

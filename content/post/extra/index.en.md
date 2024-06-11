@@ -7,27 +7,27 @@ description = '[ˈekstrə] a.额外的 ad.特别地'
 keywords = ['ai words', 'extra']
 +++
 
-## [Word](/en/post/word/): [Extra](/en/post/extra/)
+## [Word](/post/word/): [Extra](/post/extra/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈekstrə/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Beyond](/en/post/beyond/) [what](/en/post/what/) is [usual](/en/post/usual/), [regular](/en/post/regular/), [or](/en/post/or/) [necessary](/en/post/necessary/); [additional](/en/post/additional/) [or](/en/post/or/) supplementary. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) ordered an [extra](/en/post/extra/) [portion](/en/post/portion/) [of](/en/post/of/) fries."
-  - *[Noun](/en/post/noun/)*: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) appears [in](/en/post/in/) [a](/en/post/a/) [film](/en/post/film/), [television](/en/post/television/) [show](/en/post/show/), [play](/en/post/play/), [or](/en/post/or/) [other](/en/post/other/) [production](/en/post/production/) [but](/en/post/but/) is [not](/en/post/not/) [a](/en/post/a/) [main](/en/post/main/) [character](/en/post/character/); an [extra](/en/post/extra/) [actor](/en/post/actor/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [movie](/en/post/movie/) hired hundreds [of](/en/post/of/) extras [for](/en/post/for/) [the](/en/post/the/) [crowd](/en/post/crowd/) scenes."
+- **[Adjective](/post/adjective/)**: [Beyond](/post/beyond/) [what](/post/what/) is [usual](/post/usual/), [regular](/post/regular/), [or](/post/or/) [necessary](/post/necessary/); [additional](/post/additional/) [or](/post/or/) supplementary. [For](/post/for/) [example](/post/example/): "[She](/post/she/) ordered an [extra](/post/extra/) [portion](/post/portion/) [of](/post/of/) fries."
+  - *[Noun](/post/noun/)*: [A](/post/a/) [person](/post/person/) [who](/post/who/) appears [in](/post/in/) [a](/post/a/) [film](/post/film/), [television](/post/television/) [show](/post/show/), [play](/post/play/), [or](/post/or/) [other](/post/other/) [production](/post/production/) [but](/post/but/) is [not](/post/not/) [a](/post/a/) [main](/post/main/) [character](/post/character/); an [extra](/post/extra/) [actor](/post/actor/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [movie](/post/movie/) hired hundreds [of](/post/of/) extras [for](/post/for/) [the](/post/the/) [crowd](/post/crowd/) scenes."
 
 ## Phrases
-- "[For](/en/post/for/) [extra](/en/post/extra/) [measure](/en/post/measure/)": Doing [something](/en/post/something/) [more](/en/post/more/) [than](/en/post/than/) needed [to](/en/post/to/) [ensure](/en/post/ensure/) [success](/en/post/success/) [or](/en/post/or/) completeness.
-- "Going [the](/en/post/the/) [extra](/en/post/extra/) [mile](/en/post/mile/)": Making [a](/en/post/a/) greater [effort](/en/post/effort/) [than](/en/post/than/) required [to](/en/post/to/) [achieve](/en/post/achieve/) [something](/en/post/something/).
-- "[Extraordinary](/en/post/extraordinary/)": [This](/en/post/this/) [adjective](/en/post/adjective/) derived [from](/en/post/from/) "[extra](/en/post/extra/)" [means](/en/post/means/) [extremely](/en/post/extremely/) [unusual](/en/post/unusual/) [or](/en/post/or/) [remarkable](/en/post/remarkable/).
+- "[For](/post/for/) [extra](/post/extra/) [measure](/post/measure/)": Doing [something](/post/something/) [more](/post/more/) [than](/post/than/) needed [to](/post/to/) [ensure](/post/ensure/) [success](/post/success/) [or](/post/or/) completeness.
+- "Going [the](/post/the/) [extra](/post/extra/) [mile](/post/mile/)": Making [a](/post/a/) greater [effort](/post/effort/) [than](/post/than/) required [to](/post/to/) [achieve](/post/achieve/) [something](/post/something/).
+- "[Extraordinary](/post/extraordinary/)": [This](/post/this/) [adjective](/post/adjective/) derived [from](/post/from/) "[extra](/post/extra/)" [means](/post/means/) [extremely](/post/extremely/) [unusual](/post/unusual/) [or](/post/or/) [remarkable](/post/remarkable/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [company](/en/post/company/) offered employees an [extra](/en/post/extra/) [day](/en/post/day/) [off](/en/post/off/) [during](/en/post/during/) [the](/en/post/the/) [holiday](/en/post/holiday/) [season](/en/post/season/)."
-- **[Noun](/en/post/noun/)**: "[As](/en/post/as/) an [extra](/en/post/extra/) [on](/en/post/on/) [set](/en/post/set/), [he](/en/post/he/) got [to](/en/post/to/) [experience](/en/post/experience/) [the](/en/post/the/) excitement [of](/en/post/of/) [being](/en/post/being/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) big-budget [film](/en/post/film/) [production](/en/post/production/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [company](/post/company/) offered employees an [extra](/post/extra/) [day](/post/day/) [off](/post/off/) [during](/post/during/) [the](/post/the/) [holiday](/post/holiday/) [season](/post/season/)."
+- **[Noun](/post/noun/)**: "[As](/post/as/) an [extra](/post/extra/) [on](/post/on/) [set](/post/set/), [he](/post/he/) got [to](/post/to/) [experience](/post/experience/) [the](/post/the/) excitement [of](/post/of/) [being](/post/being/) [part](/post/part/) [of](/post/of/) [a](/post/a/) big-budget [film](/post/film/) [production](/post/production/)."
 
 ## Synonyms
-- [Additional](/en/post/additional/) (Adj.)
+- [Additional](/post/additional/) (Adj.)
 - Supplementary (Adj.)
-- Supplementary [Person](/en/post/person/) ([Noun](/en/post/noun/))
-- Supporting [Actor](/en/post/actor/)/[Actress](/en/post/actress/) ([Noun](/en/post/noun/))
-- [Background](/en/post/background/) [Actor](/en/post/actor/) ([Noun](/en/post/noun/))
+- Supplementary [Person](/post/person/) ([Noun](/post/noun/))
+- Supporting [Actor](/post/actor/)/[Actress](/post/actress/) ([Noun](/post/noun/))
+- [Background](/post/background/) [Actor](/post/actor/) ([Noun](/post/noun/))

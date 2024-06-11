@@ -7,33 +7,33 @@ description = '[tuː] prep.到，向，达到'
 keywords = ['ai words', 'to']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tuː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [expression](/en/post/expression/) indicating [motion](/en/post/motion/) [or](/en/post/or/) [direction](/en/post/direction/) towards [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [arrow](/en/post/arrow/) pointed [to](/en/post/to/) [the](/en/post/the/) [door](/en/post/door/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [direct](/en/post/direct/) one's [course](/en/post/course/) [or](/en/post/or/) [attention](/en/post/attention/) towards; [to](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [go](/en/post/go/) towards. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) turned [to](/en/post/to/) [look](/en/post/look/) [at](/en/post/at/) [him](/en/post/him/) [when](/en/post/when/) [he](/en/post/he/) called [her](/en/post/her/) [name](/en/post/name/)."
-- **[Preposition](/en/post/preposition/)**: [In](/en/post/in/) [the](/en/post/the/) [case](/en/post/case/) [of](/en/post/of/) "[to](/en/post/to/)", [it](/en/post/it/) is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [direction](/en/post/direction/) [or](/en/post/or/) [destination](/en/post/destination/). [For](/en/post/for/) [example](/en/post/example/): "I'm going [to](/en/post/to/) [the](/en/post/the/) [store](/en/post/store/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [word](/post/word/) [or](/post/or/) [expression](/post/expression/) indicating [motion](/post/motion/) [or](/post/or/) [direction](/post/direction/) towards [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [arrow](/post/arrow/) pointed [to](/post/to/) [the](/post/the/) [door](/post/door/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [direct](/post/direct/) one's [course](/post/course/) [or](/post/or/) [attention](/post/attention/) towards; [to](/post/to/) [move](/post/move/) [or](/post/or/) [go](/post/go/) towards. [For](/post/for/) [example](/post/example/): "[She](/post/she/) turned [to](/post/to/) [look](/post/look/) [at](/post/at/) [him](/post/him/) [when](/post/when/) [he](/post/he/) called [her](/post/her/) [name](/post/name/)."
+- **[Preposition](/post/preposition/)**: [In](/post/in/) [the](/post/the/) [case](/post/case/) [of](/post/of/) "[to](/post/to/)", [it](/post/it/) is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [direction](/post/direction/) [or](/post/or/) [destination](/post/destination/). [For](/post/for/) [example](/post/example/): "I'm going [to](/post/to/) [the](/post/the/) [store](/post/store/)."
 
 ## Phrases
-- "[To](/en/post/to/) someone's [surprise](/en/post/surprise/)" indicates an [unexpected](/en/post/unexpected/) [turn](/en/post/turn/) [of](/en/post/of/) events.
-- "[To](/en/post/to/) one's [heart](/en/post/heart/)" expresses [deep](/en/post/deep/) [affection](/en/post/affection/) [or](/en/post/or/) commitment. 
-- "[To](/en/post/to/) [the](/en/post/the/) [rescue](/en/post/rescue/)" signifies offering [help](/en/post/help/) [in](/en/post/in/) [a](/en/post/a/) [critical](/en/post/critical/) [situation](/en/post/situation/).
+- "[To](/post/to/) someone's [surprise](/post/surprise/)" indicates an [unexpected](/post/unexpected/) [turn](/post/turn/) [of](/post/of/) events.
+- "[To](/post/to/) one's [heart](/post/heart/)" expresses [deep](/post/deep/) [affection](/post/affection/) [or](/post/or/) commitment. 
+- "[To](/post/to/) [the](/post/the/) [rescue](/post/rescue/)" signifies offering [help](/post/help/) [in](/post/in/) [a](/post/a/) [critical](/post/critical/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children ran [to](/en/post/to/) [the](/en/post/the/) [playground](/en/post/playground/) [after](/en/post/after/) [school](/en/post/school/)."
-- **[Verb](/en/post/verb/)**: "I'll [be](/en/post/be/) [back](/en/post/back/) [in](/en/post/in/) [a](/en/post/a/) [moment](/en/post/moment/); I [just](/en/post/just/) [need](/en/post/need/) [to](/en/post/to/) [speak](/en/post/speak/) [to](/en/post/to/) [my](/en/post/my/) [boss](/en/post/boss/)."
-- **[Preposition](/en/post/preposition/)**: "[She](/en/post/she/) apologized [to](/en/post/to/) [her](/en/post/her/) friends [for](/en/post/for/) [being](/en/post/being/) [late](/en/post/late/) [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children ran [to](/post/to/) [the](/post/the/) [playground](/post/playground/) [after](/post/after/) [school](/post/school/)."
+- **[Verb](/post/verb/)**: "I'll [be](/post/be/) [back](/post/back/) [in](/post/in/) [a](/post/a/) [moment](/post/moment/); I [just](/post/just/) [need](/post/need/) [to](/post/to/) [speak](/post/speak/) [to](/post/to/) [my](/post/my/) [boss](/post/boss/)."
+- **[Preposition](/post/preposition/)**: "[She](/post/she/) apologized [to](/post/to/) [her](/post/her/) friends [for](/post/for/) [being](/post/being/) [late](/post/late/) [to](/post/to/) [the](/post/the/) [party](/post/party/)."
 
 ## Synonyms
 - Towards
-- [In](/en/post/in/) [the](/en/post/the/) [direction](/en/post/direction/) [of](/en/post/of/)
-- Aimed [at](/en/post/at/)
-- [Heading](/en/post/heading/) [for](/en/post/for/)
+- [In](/post/in/) [the](/post/the/) [direction](/post/direction/) [of](/post/of/)
+- Aimed [at](/post/at/)
+- [Heading](/post/heading/) [for](/post/for/)
 - Moving toward
 
 ## Antonyms
-- [Away](/en/post/away/) [from](/en/post/from/)
-- [Opposite](/en/post/opposite/)
-- [Away](/en/post/away/)
+- [Away](/post/away/) [from](/post/from/)
+- [Opposite](/post/opposite/)
+- [Away](/post/away/)
 - Departing

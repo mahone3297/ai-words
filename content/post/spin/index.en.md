@@ -7,41 +7,41 @@ description = '[spin] vt.纺；使旋转 n.旋转'
 keywords = ['ai words', 'spin']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /spɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [rotation](/en/post/rotation/) [around](/en/post/around/) [a](/en/post/a/) [central](/en/post/central/) [axis](/en/post/axis/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) spinning [something](/en/post/something/), [like](/en/post/like/) [a](/en/post/a/) [top](/en/post/top/) [or](/en/post/or/) [a](/en/post/a/) [wheel](/en/post/wheel/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) was happily spinning [their](/en/post/their/) [toy](/en/post/toy/) [on](/en/post/on/) [the](/en/post/the/) [ground](/en/post/ground/)."
-2. **[A](/en/post/a/) [tale](/en/post/tale/) [or](/en/post/or/) [story](/en/post/story/) told [for](/en/post/for/) entertainment**: [A](/en/post/a/) yarn [or](/en/post/or/) fabrication. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spun [a](/en/post/a/) fascinating [story](/en/post/story/) [about](/en/post/about/) [her](/en/post/her/) travels."
-3. **An [opinion](/en/post/opinion/) [or](/en/post/or/) [interpretation](/en/post/interpretation/)**: [A](/en/post/a/) [point](/en/post/point/) [of](/en/post/of/) [view](/en/post/view/) [or](/en/post/or/) bias. [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) [side](/en/post/side/) had [its](/en/post/its/) [own](/en/post/own/) [spin](/en/post/spin/) [on](/en/post/on/) [the](/en/post/the/) events."
-4. ([Physics](/en/post/physics/)) Angular momentum: [The](/en/post/the/) [measure](/en/post/measure/) [of](/en/post/of/) an object's rotational [motion](/en/post/motion/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) gyroscope maintains [its](/en/post/its/) [spin](/en/post/spin/) [even](/en/post/even/) [when](/en/post/when/) tilted."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [rotation](/post/rotation/) [around](/post/around/) [a](/post/a/) [central](/post/central/) [axis](/post/axis/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) spinning [something](/post/something/), [like](/post/like/) [a](/post/a/) [top](/post/top/) [or](/post/or/) [a](/post/a/) [wheel](/post/wheel/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [child](/post/child/) was happily spinning [their](/post/their/) [toy](/post/toy/) [on](/post/on/) [the](/post/the/) [ground](/post/ground/)."
+2. **[A](/post/a/) [tale](/post/tale/) [or](/post/or/) [story](/post/story/) told [for](/post/for/) entertainment**: [A](/post/a/) yarn [or](/post/or/) fabrication. [For](/post/for/) [example](/post/example/): "[She](/post/she/) spun [a](/post/a/) fascinating [story](/post/story/) [about](/post/about/) [her](/post/her/) travels."
+3. **An [opinion](/post/opinion/) [or](/post/or/) [interpretation](/post/interpretation/)**: [A](/post/a/) [point](/post/point/) [of](/post/of/) [view](/post/view/) [or](/post/or/) bias. [For](/post/for/) [example](/post/example/): "[Each](/post/each/) [side](/post/side/) had [its](/post/its/) [own](/post/own/) [spin](/post/spin/) [on](/post/on/) [the](/post/the/) events."
+4. ([Physics](/post/physics/)) Angular momentum: [The](/post/the/) [measure](/post/measure/) [of](/post/of/) an object's rotational [motion](/post/motion/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) gyroscope maintains [its](/post/its/) [spin](/post/spin/) [even](/post/even/) [when](/post/when/) tilted."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [rotate](/en/post/rotate/) [rapidly](/en/post/rapidly/), [especially](/en/post/especially/) [with](/en/post/with/) [force](/en/post/force/): "[She](/en/post/she/) spun [the](/en/post/the/) [wheel](/en/post/wheel/) [to](/en/post/to/) [start](/en/post/start/) [the](/en/post/the/) [machine](/en/post/machine/)."
-2. [To](/en/post/to/) [cause](/en/post/cause/) [to](/en/post/to/) [move](/en/post/move/) [around](/en/post/around/) [rapidly](/en/post/rapidly/): "[He](/en/post/he/) spun [the](/en/post/the/) [basketball](/en/post/basketball/) [to](/en/post/to/) [his](/en/post/his/) teammate."
-3. [To](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [present](/en/post/present/) [information](/en/post/information/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [way](/en/post/way/): "Journalists [often](/en/post/often/) [spin](/en/post/spin/) [news](/en/post/news/) stories [to](/en/post/to/) [present](/en/post/present/) [a](/en/post/a/) [certain](/en/post/certain/) [perspective](/en/post/perspective/)."
-4. (Internet slang) [To](/en/post/to/) [create](/en/post/create/) [content](/en/post/content/), [especially](/en/post/especially/) online [content](/en/post/content/), [rapidly](/en/post/rapidly/) [or](/en/post/or/) [frequently](/en/post/frequently/). [For](/en/post/for/) [example](/en/post/example/): "He's [really](/en/post/really/) [good](/en/post/good/) [at](/en/post/at/) spinning [out](/en/post/out/) [new](/en/post/new/) blog posts."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [rotate](/post/rotate/) [rapidly](/post/rapidly/), [especially](/post/especially/) [with](/post/with/) [force](/post/force/): "[She](/post/she/) spun [the](/post/the/) [wheel](/post/wheel/) [to](/post/to/) [start](/post/start/) [the](/post/the/) [machine](/post/machine/)."
+2. [To](/post/to/) [cause](/post/cause/) [to](/post/to/) [move](/post/move/) [around](/post/around/) [rapidly](/post/rapidly/): "[He](/post/he/) spun [the](/post/the/) [basketball](/post/basketball/) [to](/post/to/) [his](/post/his/) teammate."
+3. [To](/post/to/) [create](/post/create/) [or](/post/or/) [present](/post/present/) [information](/post/information/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [way](/post/way/): "Journalists [often](/post/often/) [spin](/post/spin/) [news](/post/news/) stories [to](/post/to/) [present](/post/present/) [a](/post/a/) [certain](/post/certain/) [perspective](/post/perspective/)."
+4. (Internet slang) [To](/post/to/) [create](/post/create/) [content](/post/content/), [especially](/post/especially/) online [content](/post/content/), [rapidly](/post/rapidly/) [or](/post/or/) [frequently](/post/frequently/). [For](/post/for/) [example](/post/example/): "He's [really](/post/really/) [good](/post/good/) [at](/post/at/) spinning [out](/post/out/) [new](/post/new/) blog posts."
 
-### [Adjective](/en/post/adjective/)
-1. Characterized [by](/en/post/by/) [rapid](/en/post/rapid/) [movement](/en/post/movement/) [or](/en/post/or/) [rotation](/en/post/rotation/): "[A](/en/post/a/) spinning [top](/en/post/top/) moves [quickly](/en/post/quickly/)."
-2. Having [many](/en/post/many/) details [or](/en/post/or/) twists: "[The](/en/post/the/) [plot](/en/post/plot/) [of](/en/post/of/) [the](/en/post/the/) [novel](/en/post/novel/) was [a](/en/post/a/) fast-paced, action-packed [spin](/en/post/spin/)."
+### [Adjective](/post/adjective/)
+1. Characterized [by](/post/by/) [rapid](/post/rapid/) [movement](/post/movement/) [or](/post/or/) [rotation](/post/rotation/): "[A](/post/a/) spinning [top](/post/top/) moves [quickly](/post/quickly/)."
+2. Having [many](/post/many/) details [or](/post/or/) twists: "[The](/post/the/) [plot](/post/plot/) [of](/post/of/) [the](/post/the/) [novel](/post/novel/) was [a](/post/a/) fast-paced, action-packed [spin](/post/spin/)."
 
 ## Phrases
-- "[Spin](/en/post/spin/) [a](/en/post/a/) yarn" [or](/en/post/or/) "[spin](/en/post/spin/) [a](/en/post/a/) [story](/en/post/story/)" [means](/en/post/means/) [to](/en/post/to/) [tell](/en/post/tell/) an entertaining [or](/en/post/or/) imaginative [tale](/en/post/tale/).
-- "[Put](/en/post/put/) [a](/en/post/a/) [positive](/en/post/positive/) [spin](/en/post/spin/) [on](/en/post/on/) [it](/en/post/it/)" suggests giving [a](/en/post/a/) favorable [interpretation](/en/post/interpretation/) [or](/en/post/or/) presentation.
-- "[Take](/en/post/take/) [a](/en/post/a/) [spin](/en/post/spin/)" is [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) trying [something](/en/post/something/) [out](/en/post/out/) [or](/en/post/or/) experiencing [it](/en/post/it/) firsthand.
+- "[Spin](/post/spin/) [a](/post/a/) yarn" [or](/post/or/) "[spin](/post/spin/) [a](/post/a/) [story](/post/story/)" [means](/post/means/) [to](/post/to/) [tell](/post/tell/) an entertaining [or](/post/or/) imaginative [tale](/post/tale/).
+- "[Put](/post/put/) [a](/post/a/) [positive](/post/positive/) [spin](/post/spin/) [on](/post/on/) [it](/post/it/)" suggests giving [a](/post/a/) favorable [interpretation](/post/interpretation/) [or](/post/or/) presentation.
+- "[Take](/post/take/) [a](/post/a/) [spin](/post/spin/)" is [a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) trying [something](/post/something/) [out](/post/out/) [or](/post/or/) experiencing [it](/post/it/) firsthand.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) spinning [wheel](/en/post/wheel/) sat [in](/en/post/in/) [the](/en/post/the/) [corner](/en/post/corner/) [of](/en/post/of/) [the](/en/post/the/) [museum](/en/post/museum/), [a](/en/post/a/) [symbol](/en/post/symbol/) [of](/en/post/of/) [a](/en/post/a/) bygone [era](/en/post/era/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) losing [the](/en/post/the/) [game](/en/post/game/), [the](/en/post/the/) [coach](/en/post/coach/) tried [to](/en/post/to/) [spin](/en/post/spin/) [the](/en/post/the/) [defeat](/en/post/defeat/) [as](/en/post/as/) [a](/en/post/a/) [learning](/en/post/learning/) [opportunity](/en/post/opportunity/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [dance](/en/post/dance/) moves were [a](/en/post/a/) mesmerizing [display](/en/post/display/) [of](/en/post/of/) [spin](/en/post/spin/) [and](/en/post/and/) [grace](/en/post/grace/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) spinning [wheel](/post/wheel/) sat [in](/post/in/) [the](/post/the/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [museum](/post/museum/), [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) [a](/post/a/) bygone [era](/post/era/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) losing [the](/post/the/) [game](/post/game/), [the](/post/the/) [coach](/post/coach/) tried [to](/post/to/) [spin](/post/spin/) [the](/post/the/) [defeat](/post/defeat/) [as](/post/as/) [a](/post/a/) [learning](/post/learning/) [opportunity](/post/opportunity/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [dance](/post/dance/) moves were [a](/post/a/) mesmerizing [display](/post/display/) [of](/post/of/) [spin](/post/spin/) [and](/post/and/) [grace](/post/grace/)."
 
 ## Synonyms
 - Revolve
-- [Rotate](/en/post/rotate/)
-- [Turn](/en/post/turn/)
+- [Rotate](/post/rotate/)
+- [Turn](/post/turn/)
 - Twirl
-- Manipulate ([information](/en/post/information/))
-- [Present](/en/post/present/) ([in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [way](/en/post/way/))
-- [Create](/en/post/create/) ([content](/en/post/content/))
+- Manipulate ([information](/post/information/))
+- [Present](/post/present/) ([in](/post/in/) [a](/post/a/) [particular](/post/particular/) [way](/post/way/))
+- [Create](/post/create/) ([content](/post/content/))

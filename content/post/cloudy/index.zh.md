@@ -11,21 +11,21 @@ keywords = ['ai words', 'cloudy']
 /ˈklɑːdi/
 
 ## 释义
-- **形容词**: 多云的，阴天的，有云的。描述天空被云遮蔽的状态。例如: "It's [cloudy](/post/cloudy/) [today](/post/today/), [so](/post/so/) [we](/post/we/) [might](/post/might/) [have](/post/have/) [rain](/post/rain/) [later](/post/later/)."
-- **名词**: 云状物，尤指天空中的云。例如: "[The](/post/the/) [mountain](/post/mountain/) was hidden [behind](/post/behind/) [a](/post/a/) [layer](/post/layer/) [of](/post/of/) fluffy [white](/post/white/) clouds."
+- **形容词**: 多云的，阴天的，有云的。描述天空被云遮蔽的状态。例如: "It's [cloudy](/zh/post/cloudy/) [today](/zh/post/today/), [so](/zh/post/so/) [we](/zh/post/we/) [might](/zh/post/might/) [have](/zh/post/have/) [rain](/zh/post/rain/) [later](/zh/post/later/)."
+- **名词**: 云状物，尤指天空中的云。例如: "[The](/zh/post/the/) [mountain](/zh/post/mountain/) was hidden [behind](/zh/post/behind/) [a](/zh/post/a/) [layer](/zh/post/layer/) [of](/zh/post/of/) fluffy [white](/zh/post/white/) clouds."
 
 ## 短语
-- "[cloudy](/post/cloudy/) skies" 指多云的天空。
-- "[cloud](/post/cloud/) [cover](/post/cover/)" 指云层覆盖的面积或程度。
-- "[under](/post/under/) [a](/post/a/) [cloudy](/post/cloudy/) [mood](/post/mood/)" 形容情绪低落或不愉快。
+- "[cloudy](/zh/post/cloudy/) skies" 指多云的天空。
+- "[cloud](/zh/post/cloud/) [cover](/zh/post/cover/)" 指云层覆盖的面积或程度。
+- "[under](/zh/post/under/) [a](/zh/post/a/) [cloudy](/zh/post/cloudy/) [mood](/zh/post/mood/)" 形容情绪低落或不愉快。
 
 ## 例句
-- 形容词: "[The](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/) predicts [cloudy](/post/cloudy/) conditions [for](/post/for/) [the](/post/the/) [rest](/post/rest/) [of](/post/of/) [the](/post/the/) [week](/post/week/)."
-- 名词: "[The](/post/the/) children loved watching [the](/post/the/) shapes [of](/post/of/) [the](/post/the/) clouds [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
+- 形容词: "[The](/zh/post/the/) [weather](/zh/post/weather/) [forecast](/zh/post/forecast/) predicts [cloudy](/zh/post/cloudy/) conditions [for](/zh/post/for/) [the](/zh/post/the/) [rest](/zh/post/rest/) [of](/zh/post/of/) [the](/zh/post/the/) [week](/zh/post/week/)."
+- 名词: "[The](/zh/post/the/) children loved watching [the](/zh/post/the/) shapes [of](/zh/post/of/) [the](/zh/post/the/) clouds [in](/zh/post/in/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
 
 ## 同义词
 - overcast
-- [gloomy](/post/gloomy/)
-- [dull](/post/dull/)
+- [gloomy](/zh/post/gloomy/)
+- [dull](/zh/post/dull/)
 - murky
 - hazy

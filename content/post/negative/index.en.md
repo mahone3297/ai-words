@@ -7,25 +7,25 @@ description = '[ˈnegətiv] a.否定的；消极的'
 keywords = ['ai words', 'negative']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈneɡətɪv/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Indicating [the](/en/post/the/) [absence](/en/post/absence/), withholding, [or](/en/post/or/) negation [of](/en/post/of/) [something](/en/post/something/); [not](/en/post/not/) [positive](/en/post/positive/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [negative](/en/post/negative/) [response](/en/post/response/) [to](/en/post/to/) [the](/en/post/the/) [proposal](/en/post/proposal/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [negative](/en/post/negative/) [statement](/en/post/statement/) [or](/en/post/or/) [outcome](/en/post/outcome/); [the](/en/post/the/) [opposite](/en/post/opposite/) [of](/en/post/of/) [a](/en/post/a/) [positive](/en/post/positive/). [In](/en/post/in/) photography, [a](/en/post/a/) [film](/en/post/film/) [or](/en/post/or/) [digital](/en/post/digital/) [image](/en/post/image/) [where](/en/post/where/) [the](/en/post/the/) colors [and](/en/post/and/) tones are reversed [from](/en/post/from/) [reality](/en/post/reality/) (darks [appear](/en/post/appear/) [light](/en/post/light/), [and](/en/post/and/) lights [appear](/en/post/appear/) [dark](/en/post/dark/)). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [test](/en/post/test/) [result](/en/post/result/) was [negative](/en/post/negative/).", "[She](/en/post/she/) developed [the](/en/post/the/) negatives [from](/en/post/from/) [her](/en/post/her/) [camera](/en/post/camera/)."
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [deny](/en/post/deny/), [reject](/en/post/reject/), [or](/en/post/or/) nullify [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) negatively impacted [the](/en/post/the/) [project](/en/post/project/) [by](/en/post/by/) [missing](/en/post/missing/) [the](/en/post/the/) deadline."
+- **[Adjective](/post/adjective/)**: Indicating [the](/post/the/) [absence](/post/absence/), withholding, [or](/post/or/) negation [of](/post/of/) [something](/post/something/); [not](/post/not/) [positive](/post/positive/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [negative](/post/negative/) [response](/post/response/) [to](/post/to/) [the](/post/the/) [proposal](/post/proposal/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [negative](/post/negative/) [statement](/post/statement/) [or](/post/or/) [outcome](/post/outcome/); [the](/post/the/) [opposite](/post/opposite/) [of](/post/of/) [a](/post/a/) [positive](/post/positive/). [In](/post/in/) photography, [a](/post/a/) [film](/post/film/) [or](/post/or/) [digital](/post/digital/) [image](/post/image/) [where](/post/where/) [the](/post/the/) colors [and](/post/and/) tones are reversed [from](/post/from/) [reality](/post/reality/) (darks [appear](/post/appear/) [light](/post/light/), [and](/post/and/) lights [appear](/post/appear/) [dark](/post/dark/)). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [test](/post/test/) [result](/post/result/) was [negative](/post/negative/).", "[She](/post/she/) developed [the](/post/the/) negatives [from](/post/from/) [her](/post/her/) [camera](/post/camera/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [deny](/post/deny/), [reject](/post/reject/), [or](/post/or/) nullify [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) negatively impacted [the](/post/the/) [project](/post/project/) [by](/post/by/) [missing](/post/missing/) [the](/post/the/) deadline."
 
 ## Phrases
-- "[Negative](/en/post/negative/) [feedback](/en/post/feedback/)" refers [to](/en/post/to/) [criticism](/en/post/criticism/) [or](/en/post/or/) [information](/en/post/information/) [that](/en/post/that/) points [out](/en/post/out/) flaws [or](/en/post/or/) suggests [improvement](/en/post/improvement/).
-- "[Test](/en/post/test/) [negative](/en/post/negative/)" [means](/en/post/means/) [the](/en/post/the/) [result](/en/post/result/) [of](/en/post/of/) [a](/en/post/a/) [test](/en/post/test/) shows [no](/en/post/no/) [presence](/en/post/presence/) [of](/en/post/of/) [a](/en/post/a/) [substance](/en/post/substance/) [or](/en/post/or/) [condition](/en/post/condition/).
-- "[Negative](/en/post/negative/) [space](/en/post/space/)" [in](/en/post/in/) [art](/en/post/art/) [or](/en/post/or/) [design](/en/post/design/) refers [to](/en/post/to/) [the](/en/post/the/) [area](/en/post/area/) [around](/en/post/around/) [and](/en/post/and/) [between](/en/post/between/) [the](/en/post/the/) [main](/en/post/main/) subjects [of](/en/post/of/) an [image](/en/post/image/).
+- "[Negative](/post/negative/) [feedback](/post/feedback/)" refers [to](/post/to/) [criticism](/post/criticism/) [or](/post/or/) [information](/post/information/) [that](/post/that/) points [out](/post/out/) flaws [or](/post/or/) suggests [improvement](/post/improvement/).
+- "[Test](/post/test/) [negative](/post/negative/)" [means](/post/means/) [the](/post/the/) [result](/post/result/) [of](/post/of/) [a](/post/a/) [test](/post/test/) shows [no](/post/no/) [presence](/post/presence/) [of](/post/of/) [a](/post/a/) [substance](/post/substance/) [or](/post/or/) [condition](/post/condition/).
+- "[Negative](/post/negative/) [space](/post/space/)" [in](/post/in/) [art](/post/art/) [or](/post/or/) [design](/post/design/) refers [to](/post/to/) [the](/post/the/) [area](/post/area/) [around](/post/around/) [and](/post/and/) [between](/post/between/) [the](/post/the/) [main](/post/main/) subjects [of](/post/of/) an [image](/post/image/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [negative](/en/post/negative/) [attitude](/en/post/attitude/) made [it](/en/post/it/) [hard](/en/post/hard/) [to](/en/post/to/) [work](/en/post/work/) [with](/en/post/with/) [him](/en/post/him/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) called [to](/en/post/to/) [inform](/en/post/inform/) [her](/en/post/her/) [that](/en/post/that/) [the](/en/post/the/) COVID [test](/en/post/test/) was [negative](/en/post/negative/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) regulations [have](/en/post/have/) negatively affected [our](/en/post/our/) [business](/en/post/business/) operations."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [negative](/post/negative/) [attitude](/post/attitude/) made [it](/post/it/) [hard](/post/hard/) [to](/post/to/) [work](/post/work/) [with](/post/with/) [him](/post/him/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [doctor](/post/doctor/) called [to](/post/to/) [inform](/post/inform/) [her](/post/her/) [that](/post/that/) [the](/post/the/) COVID [test](/post/test/) was [negative](/post/negative/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) regulations [have](/post/have/) negatively affected [our](/post/our/) [business](/post/business/) operations."
 
 ## Synonyms
-- [Adjective](/en/post/adjective/): Unfavorable, [pessimistic](/en/post/pessimistic/), adverse, contradictory, opposing
-- [Noun](/en/post/noun/): Antithesis, [opposite](/en/post/opposite/), [contradiction](/en/post/contradiction/), denial, [reverse](/en/post/reverse/)
-- [Verb](/en/post/verb/): [Reject](/en/post/reject/), [refute](/en/post/refute/), contradict, disapprove, nullify
+- [Adjective](/post/adjective/): Unfavorable, [pessimistic](/post/pessimistic/), adverse, contradictory, opposing
+- [Noun](/post/noun/): Antithesis, [opposite](/post/opposite/), [contradiction](/post/contradiction/), denial, [reverse](/post/reverse/)
+- [Verb](/post/verb/): [Reject](/post/reject/), [refute](/post/refute/), contradict, disapprove, nullify

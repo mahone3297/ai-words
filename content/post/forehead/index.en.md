@@ -7,28 +7,28 @@ description = '[ˈfɔːhed] n.额头，前部'
 keywords = ['ai words', 'forehead']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɔːrhɛd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [face](/en/post/face/) [above](/en/post/above/) [the](/en/post/the/) eyebrows [and](/en/post/and/) [below](/en/post/below/) [the](/en/post/the/) hairline, [often](/en/post/often/) considered [as](/en/post/as/) [a](/en/post/a/) [symbol](/en/post/symbol/) [of](/en/post/of/) [wisdom](/en/post/wisdom/) [or](/en/post/or/) [character](/en/post/character/). [Example](/en/post/example/): "[The](/en/post/the/) lines [on](/en/post/on/) [his](/en/post/his/) [forehead](/en/post/forehead/) betrayed [his](/en/post/his/) years [of](/en/post/of/) [experience](/en/post/experience/)."
-- **[Verb](/en/post/verb/) (archaic)**: [To](/en/post/to/) [support](/en/post/support/) [or](/en/post/or/) [carry](/en/post/carry/) [something](/en/post/something/) [on](/en/post/on/) one's [forehead](/en/post/forehead/). [Example](/en/post/example/): "[In](/en/post/in/) [ancient](/en/post/ancient/) times, [people](/en/post/people/) were known [to](/en/post/to/) [forehead](/en/post/forehead/) offerings [to](/en/post/to/) [their](/en/post/their/) gods [during](/en/post/during/) [worship](/en/post/worship/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [face](/post/face/) [above](/post/above/) [the](/post/the/) eyebrows [and](/post/and/) [below](/post/below/) [the](/post/the/) hairline, [often](/post/often/) considered [as](/post/as/) [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) [wisdom](/post/wisdom/) [or](/post/or/) [character](/post/character/). [Example](/post/example/): "[The](/post/the/) lines [on](/post/on/) [his](/post/his/) [forehead](/post/forehead/) betrayed [his](/post/his/) years [of](/post/of/) [experience](/post/experience/)."
+- **[Verb](/post/verb/) (archaic)**: [To](/post/to/) [support](/post/support/) [or](/post/or/) [carry](/post/carry/) [something](/post/something/) [on](/post/on/) one's [forehead](/post/forehead/). [Example](/post/example/): "[In](/post/in/) [ancient](/post/ancient/) times, [people](/post/people/) were known [to](/post/to/) [forehead](/post/forehead/) offerings [to](/post/to/) [their](/post/their/) gods [during](/post/during/) [worship](/post/worship/)."
 
 ## Phrases
-- "[Forehead](/en/post/forehead/) wrinkles" are lines [that](/en/post/that/) [develop](/en/post/develop/) [on](/en/post/on/) [the](/en/post/the/) [forehead](/en/post/forehead/) [over](/en/post/over/) [time](/en/post/time/) [due](/en/post/due/) [to](/en/post/to/) aging [or](/en/post/or/) [expression](/en/post/expression/).
-- "Browbeaten" - metaphorically referring [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) looks [down](/en/post/down/) [or](/en/post/or/) submissive [with](/en/post/with/) [their](/en/post/their/) [forehead](/en/post/forehead/) lowered, [meaning](/en/post/meaning/) [they](/en/post/they/) are intimidated [or](/en/post/or/) bullied.
-- "[Forehead](/en/post/forehead/) [kiss](/en/post/kiss/)" is an affectionate [gesture](/en/post/gesture/) [where](/en/post/where/) [one](/en/post/one/) kisses [another](/en/post/another/) [person](/en/post/person/) [on](/en/post/on/) [their](/en/post/their/) [forehead](/en/post/forehead/).
+- "[Forehead](/post/forehead/) wrinkles" are lines [that](/post/that/) [develop](/post/develop/) [on](/post/on/) [the](/post/the/) [forehead](/post/forehead/) [over](/post/over/) [time](/post/time/) [due](/post/due/) [to](/post/to/) aging [or](/post/or/) [expression](/post/expression/).
+- "Browbeaten" - metaphorically referring [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) looks [down](/post/down/) [or](/post/or/) submissive [with](/post/with/) [their](/post/their/) [forehead](/post/forehead/) lowered, [meaning](/post/meaning/) [they](/post/they/) are intimidated [or](/post/or/) bullied.
+- "[Forehead](/post/forehead/) [kiss](/post/kiss/)" is an affectionate [gesture](/post/gesture/) [where](/post/where/) [one](/post/one/) kisses [another](/post/another/) [person](/post/person/) [on](/post/on/) [their](/post/their/) [forehead](/post/forehead/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [forehead](/en/post/forehead/) was beaded [with](/en/post/with/) [sweat](/en/post/sweat/) [after](/en/post/after/) [her](/en/post/her/) [intense](/en/post/intense/) workout."
-- **[Verb](/en/post/verb/) (archaic)**: "[The](/en/post/the/) [priest](/en/post/priest/) foreheaded [the](/en/post/the/) [sacred](/en/post/sacred/) scroll [as](/en/post/as/) [a](/en/post/a/) [sign](/en/post/sign/) [of](/en/post/of/) [respect](/en/post/respect/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [forehead](/post/forehead/) was beaded [with](/post/with/) [sweat](/post/sweat/) [after](/post/after/) [her](/post/her/) [intense](/post/intense/) workout."
+- **[Verb](/post/verb/) (archaic)**: "[The](/post/the/) [priest](/post/priest/) foreheaded [the](/post/the/) [sacred](/post/sacred/) scroll [as](/post/as/) [a](/post/a/) [sign](/post/sign/) [of](/post/of/) [respect](/post/respect/)."
 
 ## Synonyms
-- [Brow](/en/post/brow/)
-- Frontal [bone](/en/post/bone/)
+- [Brow](/post/brow/)
+- Frontal [bone](/post/bone/)
 - Visage
 - Countenance
-- [Temple](/en/post/temple/) ([in](/en/post/in/) context [of](/en/post/of/) [face](/en/post/face/))
-- Highbrow (metaphorically [for](/en/post/for/) [intelligence](/en/post/intelligence/) [or](/en/post/or/) intellectualism) 
+- [Temple](/post/temple/) ([in](/post/in/) context [of](/post/of/) [face](/post/face/))
+- Highbrow (metaphorically [for](/post/for/) [intelligence](/post/intelligence/) [or](/post/or/) intellectualism) 
 
-[Note](/en/post/note/): [As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), "[forehead](/en/post/forehead/)" is [rarely](/en/post/rarely/) [used](/en/post/used/) [in](/en/post/in/) [modern](/en/post/modern/) English [except](/en/post/except/) [in](/en/post/in/) [historical](/en/post/historical/) [or](/en/post/or/) [literary](/en/post/literary/) contexts. [For](/en/post/for/) [common](/en/post/common/) [usage](/en/post/usage/), [its](/en/post/its/) [primary](/en/post/primary/) [function](/en/post/function/) is [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/).
+[Note](/post/note/): [As](/post/as/) [a](/post/a/) [verb](/post/verb/), "[forehead](/post/forehead/)" is [rarely](/post/rarely/) [used](/post/used/) [in](/post/in/) [modern](/post/modern/) English [except](/post/except/) [in](/post/in/) [historical](/post/historical/) [or](/post/or/) [literary](/post/literary/) contexts. [For](/post/for/) [common](/post/common/) [usage](/post/usage/), [its](/post/its/) [primary](/post/primary/) [function](/post/function/) is [as](/post/as/) [a](/post/a/) [noun](/post/noun/).

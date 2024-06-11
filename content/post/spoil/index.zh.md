@@ -12,23 +12,23 @@ keywords = ['ai words', 'spoil']
 
 ## 释义
 - **动词**:
-    - 破坏，毁掉。例如: "Don't [spoil](/post/spoil/) [the](/post/the/) [surprise](/post/surprise/); it's [a](/post/a/) [secret](/post/secret/)!"
-    - 宠坏（尤指孩子）。例如: "[Too](/post/too/) [much](/post/much/) indulgence [can](/post/can/) [spoil](/post/spoil/) [a](/post/a/) [child](/post/child/)."
+    - 破坏，毁掉。例如: "Don't [spoil](/zh/post/spoil/) [the](/zh/post/the/) [surprise](/zh/post/surprise/); it's [a](/zh/post/a/) [secret](/zh/post/secret/)!"
+    - 宠坏（尤指孩子）。例如: "[Too](/zh/post/too/) [much](/zh/post/much/) indulgence [can](/zh/post/can/) [spoil](/zh/post/spoil/) [a](/zh/post/a/) [child](/zh/post/child/)."
 - **名词**:
-    - （食物等）变质，腐败。例如: "[Check](/post/check/) [the](/post/the/) expiration [date](/post/date/) [before](/post/before/) eating; [you](/post/you/) don't [want](/post/want/) [to](/post/to/) [eat](/post/eat/) spoiled [food](/post/food/)."
-    - （事件或活动中的）不速之客，扫兴的人或事。例如: "[The](/post/the/) [rain](/post/rain/) was [a](/post/a/) [real](/post/real/) spoiler [for](/post/for/) [our](/post/our/) [picnic](/post/picnic/)."
+    - （食物等）变质，腐败。例如: "[Check](/zh/post/check/) [the](/zh/post/the/) expiration [date](/zh/post/date/) [before](/zh/post/before/) eating; [you](/zh/post/you/) don't [want](/zh/post/want/) [to](/zh/post/to/) [eat](/zh/post/eat/) spoiled [food](/zh/post/food/)."
+    - （事件或活动中的）不速之客，扫兴的人或事。例如: "[The](/zh/post/the/) [rain](/zh/post/rain/) was [a](/zh/post/a/) [real](/zh/post/real/) spoiler [for](/zh/post/for/) [our](/zh/post/our/) [picnic](/zh/post/picnic/)."
 
 ## 短语
-- "[spoil](/post/spoil/) someone's [fun](/post/fun/)" 意为破坏某人的乐趣。
-- "[spoil](/post/spoil/) [for](/post/for/) [something](/post/something/)" 表示非常渴望做某事。例如: "[He](/post/he/) was spoiled [for](/post/for/) [choice](/post/choice/) [with](/post/with/) [so](/post/so/) [many](/post/many/) options."
+- "[spoil](/zh/post/spoil/) someone's [fun](/zh/post/fun/)" 意为破坏某人的乐趣。
+- "[spoil](/zh/post/spoil/) [for](/zh/post/for/) [something](/zh/post/something/)" 表示非常渴望做某事。例如: "[He](/zh/post/he/) was spoiled [for](/zh/post/for/) [choice](/zh/post/choice/) [with](/zh/post/with/) [so](/zh/post/so/) [many](/zh/post/many/) options."
 
 ## 例句
-- 动词: "[Please](/post/please/) don't [spoil](/post/spoil/) [the](/post/the/) [ending](/post/ending/) [of](/post/of/) [the](/post/the/) [movie](/post/movie/) [for](/post/for/) [me](/post/me/)."
-- 名词: "[The](/post/the/) [smell](/post/smell/) indicated [that](/post/that/) [the](/post/the/) [milk](/post/milk/) had spoiled."
+- 动词: "[Please](/zh/post/please/) don't [spoil](/zh/post/spoil/) [the](/zh/post/the/) [ending](/zh/post/ending/) [of](/zh/post/of/) [the](/zh/post/the/) [movie](/zh/post/movie/) [for](/zh/post/for/) [me](/zh/post/me/)."
+- 名词: "[The](/zh/post/the/) [smell](/zh/post/smell/) indicated [that](/zh/post/that/) [the](/zh/post/the/) [milk](/zh/post/milk/) had spoiled."
 
 ## 同义词
-- [Ruin](/post/ruin/)
-- [Damage](/post/damage/)
-- [Wreck](/post/wreck/)
-- [Harm](/post/harm/)
-- [Destroy](/post/destroy/)
+- [Ruin](/zh/post/ruin/)
+- [Damage](/zh/post/damage/)
+- [Wreck](/zh/post/wreck/)
+- [Harm](/zh/post/harm/)
+- [Destroy](/zh/post/destroy/)

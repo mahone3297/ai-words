@@ -7,31 +7,31 @@ description = '[imˈbreis] vt.拥抱；包括；包围'
 keywords = ['ai words', 'embrace']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪmˈbreɪs/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [hold](/en/post/hold/) [someone](/en/post/someone/) [closely](/en/post/closely/) [in](/en/post/in/) one's arms, typically [as](/en/post/as/) [a](/en/post/a/) [sign](/en/post/sign/) [of](/en/post/of/) [affection](/en/post/affection/), [support](/en/post/support/), [or](/en/post/or/) [greeting](/en/post/greeting/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) embraced [her](/en/post/her/) long-lost [brother](/en/post/brother/) [with](/en/post/with/) tears [in](/en/post/in/) [her](/en/post/her/) eyes."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [accept](/en/post/accept/) [or](/en/post/or/) [welcome](/en/post/welcome/) [something](/en/post/something/) enthusiastically [and](/en/post/and/) wholeheartedly; [to](/en/post/to/) [include](/en/post/include/) [or](/en/post/or/) incorporate [something](/en/post/something/) [into](/en/post/into/) [a](/en/post/a/) larger [whole](/en/post/whole/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) has embraced [new](/en/post/new/) [technology](/en/post/technology/) [to](/en/post/to/) [improve](/en/post/improve/) [its](/en/post/its/) operations."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) holding [someone](/en/post/someone/) tightly [in](/en/post/in/) one's arms. [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) [embrace](/en/post/embrace/) was [so](/en/post/so/) [tight](/en/post/tight/) [it](/en/post/it/) conveyed [all](/en/post/all/) [their](/en/post/their/) unspoken emotions."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [close](/en/post/close/) [acceptance](/en/post/acceptance/) [or](/en/post/or/) adoption [of](/en/post/of/) an [idea](/en/post/idea/), [belief](/en/post/belief/), [or](/en/post/or/) [principle](/en/post/principle/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [embrace](/en/post/embrace/) [of](/en/post/of/) environmentalism led [him](/en/post/him/) [to](/en/post/to/) [live](/en/post/live/) [a](/en/post/a/) sustainable lifestyle."
+- **[Verb](/post/verb/)**: [To](/post/to/) [hold](/post/hold/) [someone](/post/someone/) [closely](/post/closely/) [in](/post/in/) one's arms, typically [as](/post/as/) [a](/post/a/) [sign](/post/sign/) [of](/post/of/) [affection](/post/affection/), [support](/post/support/), [or](/post/or/) [greeting](/post/greeting/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) embraced [her](/post/her/) long-lost [brother](/post/brother/) [with](/post/with/) tears [in](/post/in/) [her](/post/her/) eyes."
+- **[Verb](/post/verb/)**: [To](/post/to/) [accept](/post/accept/) [or](/post/or/) [welcome](/post/welcome/) [something](/post/something/) enthusiastically [and](/post/and/) wholeheartedly; [to](/post/to/) [include](/post/include/) [or](/post/or/) incorporate [something](/post/something/) [into](/post/into/) [a](/post/a/) larger [whole](/post/whole/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) has embraced [new](/post/new/) [technology](/post/technology/) [to](/post/to/) [improve](/post/improve/) [its](/post/its/) operations."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) holding [someone](/post/someone/) tightly [in](/post/in/) one's arms. [For](/post/for/) [example](/post/example/): "[Their](/post/their/) [embrace](/post/embrace/) was [so](/post/so/) [tight](/post/tight/) [it](/post/it/) conveyed [all](/post/all/) [their](/post/their/) unspoken emotions."
+- **[Noun](/post/noun/)**: [A](/post/a/) [close](/post/close/) [acceptance](/post/acceptance/) [or](/post/or/) adoption [of](/post/of/) an [idea](/post/idea/), [belief](/post/belief/), [or](/post/or/) [principle](/post/principle/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [embrace](/post/embrace/) [of](/post/of/) environmentalism led [him](/post/him/) [to](/post/to/) [live](/post/live/) [a](/post/a/) sustainable lifestyle."
 
 ## Phrases
-- "[Embrace](/en/post/embrace/) [change](/en/post/change/)": [To](/en/post/to/) willingly [accept](/en/post/accept/) [and](/en/post/and/) [adapt](/en/post/adapt/) [to](/en/post/to/) [new](/en/post/new/) situations [or](/en/post/or/) developments.
-- "[In](/en/post/in/) [the](/en/post/the/) [embrace](/en/post/embrace/) [of](/en/post/of/) [nature](/en/post/nature/)": [Being](/en/post/being/) surrounded [by](/en/post/by/) [or](/en/post/or/) enjoying [nature](/en/post/nature/) intimately.
-- "[Embrace](/en/post/embrace/) diversity": [To](/en/post/to/) actively [appreciate](/en/post/appreciate/) [and](/en/post/and/) [respect](/en/post/respect/) differences [among](/en/post/among/) [people](/en/post/people/).
+- "[Embrace](/post/embrace/) [change](/post/change/)": [To](/post/to/) willingly [accept](/post/accept/) [and](/post/and/) [adapt](/post/adapt/) [to](/post/to/) [new](/post/new/) situations [or](/post/or/) developments.
+- "[In](/post/in/) [the](/post/the/) [embrace](/post/embrace/) [of](/post/of/) [nature](/post/nature/)": [Being](/post/being/) surrounded [by](/post/by/) [or](/post/or/) enjoying [nature](/post/nature/) intimately.
+- "[Embrace](/post/embrace/) diversity": [To](/post/to/) actively [appreciate](/post/appreciate/) [and](/post/and/) [respect](/post/respect/) differences [among](/post/among/) [people](/post/people/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([physical](/en/post/physical/) [embrace](/en/post/embrace/))**: "[After](/en/post/after/) years [apart](/en/post/apart/), [they](/en/post/they/) [finally](/en/post/finally/) reunited [and](/en/post/and/) embraced [each](/en/post/each/) [other](/en/post/other/) warmly."
-- **[Verb](/en/post/verb/) ([acceptance](/en/post/acceptance/))**: "[The](/en/post/the/) [organization](/en/post/organization/) decided [to](/en/post/to/) [embrace](/en/post/embrace/) [digital](/en/post/digital/) marketing strategies [to](/en/post/to/) [reach](/en/post/reach/) [a](/en/post/a/) wider [audience](/en/post/audience/)."
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) [final](/en/post/final/) [embrace](/en/post/embrace/) [before](/en/post/before/) [he](/en/post/he/) [left](/en/post/left/) [for](/en/post/for/) deployment felt [like](/en/post/like/) [a](/en/post/a/) [lifetime](/en/post/lifetime/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([physical](/post/physical/) [embrace](/post/embrace/))**: "[After](/post/after/) years [apart](/post/apart/), [they](/post/they/) [finally](/post/finally/) reunited [and](/post/and/) embraced [each](/post/each/) [other](/post/other/) warmly."
+- **[Verb](/post/verb/) ([acceptance](/post/acceptance/))**: "[The](/post/the/) [organization](/post/organization/) decided [to](/post/to/) [embrace](/post/embrace/) [digital](/post/digital/) marketing strategies [to](/post/to/) [reach](/post/reach/) [a](/post/a/) wider [audience](/post/audience/)."
+- **[Noun](/post/noun/)**: "[Their](/post/their/) [final](/post/final/) [embrace](/post/embrace/) [before](/post/before/) [he](/post/he/) [left](/post/left/) [for](/post/for/) deployment felt [like](/post/like/) [a](/post/a/) [lifetime](/post/lifetime/)."
 
 ## Synonyms
-- [Clasp](/en/post/clasp/)
+- [Clasp](/post/clasp/)
 - Hug
-- [Hold](/en/post/hold/)
+- [Hold](/post/hold/)
 - Enfold
-- [Acceptance](/en/post/acceptance/)
+- [Acceptance](/post/acceptance/)
 - Welcoming
 - Endorsement
 - Inclusion

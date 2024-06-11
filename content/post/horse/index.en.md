@@ -7,39 +7,39 @@ description = '[hɔːs] n.马；马科动物'
 keywords = ['ai words', 'horse']
 +++
 
-## [Word](/en/post/word/): [Horse](/en/post/horse/)
+## [Word](/post/word/): [Horse](/post/horse/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /hɔːrs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/), [strong](/en/post/strong/), hoofed mammal [with](/en/post/with/) [a](/en/post/a/) [long](/en/post/long/) mane [and](/en/post/and/) [tail](/en/post/tail/), domesticated [since](/en/post/since/) [ancient](/en/post/ancient/) times [and](/en/post/and/) [used](/en/post/used/) [for](/en/post/for/) riding, racing, [and](/en/post/and/) carrying loads. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) tacked [up](/en/post/up/) [his](/en/post/his/) [horse](/en/post/horse/) [and](/en/post/and/) [set](/en/post/set/) [off](/en/post/off/) [across](/en/post/across/) [the](/en/post/the/) fields."
-  - *[As](/en/post/as/) [a](/en/post/a/) [figure](/en/post/figure/) [of](/en/post/of/) [speech](/en/post/speech/)*: [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [frame](/en/post/frame/) [of](/en/post/of/) [wood](/en/post/wood/) [or](/en/post/or/) [metal](/en/post/metal/) [on](/en/post/on/) [which](/en/post/which/) [something](/en/post/something/) is mounted [or](/en/post/or/) supported, [like](/en/post/like/) [a](/en/post/a/) sawhorse.
-  - **Metaphorically**: [Can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) works tirelessly [or](/en/post/or/) [with](/en/post/with/) [great](/en/post/great/) [strength](/en/post/strength/), e.g., "She's [a](/en/post/a/) workhorse [in](/en/post/in/) [the](/en/post/the/) [office](/en/post/office/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/), [strong](/post/strong/), hoofed mammal [with](/post/with/) [a](/post/a/) [long](/post/long/) mane [and](/post/and/) [tail](/post/tail/), domesticated [since](/post/since/) [ancient](/post/ancient/) times [and](/post/and/) [used](/post/used/) [for](/post/for/) riding, racing, [and](/post/and/) carrying loads. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) tacked [up](/post/up/) [his](/post/his/) [horse](/post/horse/) [and](/post/and/) [set](/post/set/) [off](/post/off/) [across](/post/across/) [the](/post/the/) fields."
+  - *[As](/post/as/) [a](/post/a/) [figure](/post/figure/) [of](/post/of/) [speech](/post/speech/)*: [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [frame](/post/frame/) [of](/post/of/) [wood](/post/wood/) [or](/post/or/) [metal](/post/metal/) [on](/post/on/) [which](/post/which/) [something](/post/something/) is mounted [or](/post/or/) supported, [like](/post/like/) [a](/post/a/) sawhorse.
+  - **Metaphorically**: [Can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [person](/post/person/) [who](/post/who/) works tirelessly [or](/post/or/) [with](/post/with/) [great](/post/great/) [strength](/post/strength/), e.g., "She's [a](/post/a/) workhorse [in](/post/in/) [the](/post/the/) [office](/post/office/)."
 
-[Example](/en/post/example/) sentences:
-- **[Noun](/en/post/noun/) ([animal](/en/post/animal/))**: "[The](/en/post/the/) cavalry charged [forward](/en/post/forward/) [on](/en/post/on/) [their](/en/post/their/) horses."
-- **[Noun](/en/post/noun/) ([figure](/en/post/figure/) [of](/en/post/of/) [speech](/en/post/speech/))**: "[The](/en/post/the/) [carpenter](/en/post/carpenter/) rested [his](/en/post/his/) [heavy](/en/post/heavy/) [wooden](/en/post/wooden/) plank [on](/en/post/on/) [a](/en/post/a/) [couple](/en/post/couple/) [of](/en/post/of/) sawhorses."
-- **Metaphorical [usage](/en/post/usage/)**: "John is [the](/en/post/the/) workhorse [of](/en/post/of/) [the](/en/post/the/) [team](/en/post/team/); [he](/en/post/he/) [never](/en/post/never/) stops [until](/en/post/until/) [the](/en/post/the/) [job](/en/post/job/) is done."
+[Example](/post/example/) sentences:
+- **[Noun](/post/noun/) ([animal](/post/animal/))**: "[The](/post/the/) cavalry charged [forward](/post/forward/) [on](/post/on/) [their](/post/their/) horses."
+- **[Noun](/post/noun/) ([figure](/post/figure/) [of](/post/of/) [speech](/post/speech/))**: "[The](/post/the/) [carpenter](/post/carpenter/) rested [his](/post/his/) [heavy](/post/heavy/) [wooden](/post/wooden/) plank [on](/post/on/) [a](/post/a/) [couple](/post/couple/) [of](/post/of/) sawhorses."
+- **Metaphorical [usage](/post/usage/)**: "John is [the](/post/the/) workhorse [of](/post/of/) [the](/post/the/) [team](/post/team/); [he](/post/he/) [never](/post/never/) stops [until](/post/until/) [the](/post/the/) [job](/post/job/) is done."
 
 ## Phrases
-- "[Hold](/en/post/hold/) [your](/en/post/your/) horses": An idiomatic [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [slow](/en/post/slow/) [down](/en/post/down/) [or](/en/post/or/) [wait](/en/post/wait/) patiently.
-- "[Get](/en/post/get/) [off](/en/post/off/) one's [high](/en/post/high/) [horse](/en/post/horse/)": [To](/en/post/to/) [stop](/en/post/stop/) [being](/en/post/being/) arrogant [or](/en/post/or/) condescending.
-- "[Straight](/en/post/straight/) [from](/en/post/from/) [the](/en/post/the/) horse's [mouth](/en/post/mouth/)": [Information](/en/post/information/) [that](/en/post/that/) comes [directly](/en/post/directly/) [from](/en/post/from/) [the](/en/post/the/) [source](/en/post/source/) [or](/en/post/or/) an authoritative [person](/en/post/person/).
-- "[Dark](/en/post/dark/) [horse](/en/post/horse/)": [A](/en/post/a/) [previously](/en/post/previously/) [unknown](/en/post/unknown/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) emerges [to](/en/post/to/) prominence unexpectedly.
+- "[Hold](/post/hold/) [your](/post/your/) horses": An idiomatic [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [slow](/post/slow/) [down](/post/down/) [or](/post/or/) [wait](/post/wait/) patiently.
+- "[Get](/post/get/) [off](/post/off/) one's [high](/post/high/) [horse](/post/horse/)": [To](/post/to/) [stop](/post/stop/) [being](/post/being/) arrogant [or](/post/or/) condescending.
+- "[Straight](/post/straight/) [from](/post/from/) [the](/post/the/) horse's [mouth](/post/mouth/)": [Information](/post/information/) [that](/post/that/) comes [directly](/post/directly/) [from](/post/from/) [the](/post/the/) [source](/post/source/) [or](/post/or/) an authoritative [person](/post/person/).
+- "[Dark](/post/dark/) [horse](/post/horse/)": [A](/post/a/) [previously](/post/previously/) [unknown](/post/unknown/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) emerges [to](/post/to/) prominence unexpectedly.
 
 ## Synonyms
 - Equine
 - Steed
-- Colt ([for](/en/post/for/) [a](/en/post/a/) [young](/en/post/young/) [male](/en/post/male/) [horse](/en/post/horse/))
-- Mare ([for](/en/post/for/) [a](/en/post/a/) [female](/en/post/female/) [horse](/en/post/horse/))
-- Stallion ([for](/en/post/for/) an uncastrated [adult](/en/post/adult/) [male](/en/post/male/) [horse](/en/post/horse/))
-- Pony ([a](/en/post/a/) smaller [breed](/en/post/breed/) [of](/en/post/of/) [horse](/en/post/horse/))
+- Colt ([for](/post/for/) [a](/post/a/) [young](/post/young/) [male](/post/male/) [horse](/post/horse/))
+- Mare ([for](/post/for/) [a](/post/a/) [female](/post/female/) [horse](/post/horse/))
+- Stallion ([for](/post/for/) an uncastrated [adult](/post/adult/) [male](/post/male/) [horse](/post/horse/))
+- Pony ([a](/post/a/) smaller [breed](/post/breed/) [of](/post/of/) [horse](/post/horse/))
   
-## [Additional](/en/post/additional/) Meanings & [Usage](/en/post/usage/)
-- **[Verb](/en/post/verb/)**: [In](/en/post/in/) informal British English, '[to](/en/post/to/) [horse](/en/post/horse/)' [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [mount](/en/post/mount/) [or](/en/post/or/) [get](/en/post/get/) [onto](/en/post/onto/) [a](/en/post/a/) [horse](/en/post/horse/), e.g., "Let's [horse](/en/post/horse/) [and](/en/post/and/) [ride](/en/post/ride/) [out](/en/post/out/) [before](/en/post/before/) [sunset](/en/post/sunset/)."
-- **[Adjective](/en/post/adjective/)**: [As](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [compound](/en/post/compound/) nouns, [such](/en/post/such/) [as](/en/post/as/) '[horsepower](/en/post/horsepower/)', [which](/en/post/which/) measures [the](/en/post/the/) [rate](/en/post/rate/) [at](/en/post/at/) [which](/en/post/which/) [work](/en/post/work/) is done, typically [by](/en/post/by/) engines [or](/en/post/or/) motors. 
+## [Additional](/post/additional/) Meanings & [Usage](/post/usage/)
+- **[Verb](/post/verb/)**: [In](/post/in/) informal British English, '[to](/post/to/) [horse](/post/horse/)' [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [mount](/post/mount/) [or](/post/or/) [get](/post/get/) [onto](/post/onto/) [a](/post/a/) [horse](/post/horse/), e.g., "Let's [horse](/post/horse/) [and](/post/and/) [ride](/post/ride/) [out](/post/out/) [before](/post/before/) [sunset](/post/sunset/)."
+- **[Adjective](/post/adjective/)**: [As](/post/as/) [part](/post/part/) [of](/post/of/) [compound](/post/compound/) nouns, [such](/post/such/) [as](/post/as/) '[horsepower](/post/horsepower/)', [which](/post/which/) measures [the](/post/the/) [rate](/post/rate/) [at](/post/at/) [which](/post/which/) [work](/post/work/) is done, typically [by](/post/by/) engines [or](/post/or/) motors. 
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [rider](/en/post/rider/) swiftly horsed [and](/en/post/and/) rode [away](/en/post/away/) [into](/en/post/into/) [the](/en/post/the/) [distance](/en/post/distance/)."
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [car](/en/post/car/) has [a](/en/post/a/) [powerful](/en/post/powerful/) [engine](/en/post/engine/) [with](/en/post/with/) 300 [horsepower](/en/post/horsepower/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [rider](/post/rider/) swiftly horsed [and](/post/and/) rode [away](/post/away/) [into](/post/into/) [the](/post/the/) [distance](/post/distance/)."
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [car](/post/car/) has [a](/post/a/) [powerful](/post/powerful/) [engine](/post/engine/) [with](/post/with/) 300 [horsepower](/post/horsepower/)."

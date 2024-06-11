@@ -7,40 +7,40 @@ description = '[lænd] n.陆地；土地 vi.上岸'
 keywords = ['ai words', 'land']
 +++
 
-## [Word](/en/post/word/): [Land](/en/post/land/)
+## [Word](/post/word/): [Land](/post/land/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lænd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - [Solid](/en/post/solid/) [ground](/en/post/ground/); earth's [surface](/en/post/surface/) [not](/en/post/not/) covered [by](/en/post/by/) [water](/en/post/water/). [Example](/en/post/example/): "[The](/en/post/the/) [plane](/en/post/plane/) [safely](/en/post/safely/) touched [down](/en/post/down/) [on](/en/post/on/) [land](/en/post/land/) [after](/en/post/after/) [a](/en/post/a/) [turbulent](/en/post/turbulent/) [flight](/en/post/flight/)."
-  - An [area](/en/post/area/) [of](/en/post/of/) [ground](/en/post/ground/), [especially](/en/post/especially/) [one](/en/post/one/) [with](/en/post/with/) [specific](/en/post/specific/) characteristics [or](/en/post/or/) [ownership](/en/post/ownership/). [Example](/en/post/example/): "[They](/en/post/they/) bought [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [land](/en/post/land/) [to](/en/post/to/) [build](/en/post/build/) [their](/en/post/their/) [dream](/en/post/dream/) [house](/en/post/house/)."
-  - [A](/en/post/a/) [country](/en/post/country/) [or](/en/post/or/) [region](/en/post/region/) considered [as](/en/post/as/) [a](/en/post/a/) [possession](/en/post/possession/) [or](/en/post/or/) [home](/en/post/home/). [Example](/en/post/example/): "[Her](/en/post/her/) ancestors came [from](/en/post/from/) [the](/en/post/the/) [land](/en/post/land/) [of](/en/post/of/) Ireland."
-  - [Property](/en/post/property/) [or](/en/post/or/) [real](/en/post/real/) estate. [Example](/en/post/example/): "[The](/en/post/the/) family's [wealth](/en/post/wealth/) was [primarily](/en/post/primarily/) [in](/en/post/in/) [land](/en/post/land/) holdings."
+- **[Noun](/post/noun/)**: 
+  - [Solid](/post/solid/) [ground](/post/ground/); earth's [surface](/post/surface/) [not](/post/not/) covered [by](/post/by/) [water](/post/water/). [Example](/post/example/): "[The](/post/the/) [plane](/post/plane/) [safely](/post/safely/) touched [down](/post/down/) [on](/post/on/) [land](/post/land/) [after](/post/after/) [a](/post/a/) [turbulent](/post/turbulent/) [flight](/post/flight/)."
+  - An [area](/post/area/) [of](/post/of/) [ground](/post/ground/), [especially](/post/especially/) [one](/post/one/) [with](/post/with/) [specific](/post/specific/) characteristics [or](/post/or/) [ownership](/post/ownership/). [Example](/post/example/): "[They](/post/they/) bought [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [land](/post/land/) [to](/post/to/) [build](/post/build/) [their](/post/their/) [dream](/post/dream/) [house](/post/house/)."
+  - [A](/post/a/) [country](/post/country/) [or](/post/or/) [region](/post/region/) considered [as](/post/as/) [a](/post/a/) [possession](/post/possession/) [or](/post/or/) [home](/post/home/). [Example](/post/example/): "[Her](/post/her/) ancestors came [from](/post/from/) [the](/post/the/) [land](/post/land/) [of](/post/of/) Ireland."
+  - [Property](/post/property/) [or](/post/or/) [real](/post/real/) estate. [Example](/post/example/): "[The](/post/the/) family's [wealth](/post/wealth/) was [primarily](/post/primarily/) [in](/post/in/) [land](/post/land/) holdings."
   
-- **[Verb](/en/post/verb/)**:
-  - [Arrive](/en/post/arrive/) [on](/en/post/on/) [shore](/en/post/shore/) [or](/en/post/or/) [solid](/en/post/solid/) [ground](/en/post/ground/) [after](/en/post/after/) [a](/en/post/a/) [sea](/en/post/sea/) [or](/en/post/or/) [air](/en/post/air/) [journey](/en/post/journey/). [Example](/en/post/example/): "[The](/en/post/the/) [ship](/en/post/ship/) landed [at](/en/post/at/) [dawn](/en/post/dawn/) [in](/en/post/in/) [the](/en/post/the/) harbor."
-  - [Bring](/en/post/bring/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [to](/en/post/to/) [the](/en/post/the/) [ground](/en/post/ground/) [or](/en/post/or/) [onto](/en/post/onto/) [a](/en/post/a/) [surface](/en/post/surface/). [Example](/en/post/example/): "[The](/en/post/the/) [pilot](/en/post/pilot/) expertly landed [the](/en/post/the/) [spacecraft](/en/post/spacecraft/) [on](/en/post/on/) [the](/en/post/the/) [moon](/en/post/moon/)."
-  - [Come](/en/post/come/) [to](/en/post/to/) [rest](/en/post/rest/) [or](/en/post/or/) [settle](/en/post/settle/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [or](/en/post/or/) [position](/en/post/position/). [Example](/en/post/example/): "[After](/en/post/after/) years [of](/en/post/of/) traveling, [he](/en/post/he/) [finally](/en/post/finally/) decided [to](/en/post/to/) [land](/en/post/land/) [a](/en/post/a/) [job](/en/post/job/) [in](/en/post/in/) [his](/en/post/his/) hometown."
+- **[Verb](/post/verb/)**:
+  - [Arrive](/post/arrive/) [on](/post/on/) [shore](/post/shore/) [or](/post/or/) [solid](/post/solid/) [ground](/post/ground/) [after](/post/after/) [a](/post/a/) [sea](/post/sea/) [or](/post/or/) [air](/post/air/) [journey](/post/journey/). [Example](/post/example/): "[The](/post/the/) [ship](/post/ship/) landed [at](/post/at/) [dawn](/post/dawn/) [in](/post/in/) [the](/post/the/) harbor."
+  - [Bring](/post/bring/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [to](/post/to/) [the](/post/the/) [ground](/post/ground/) [or](/post/or/) [onto](/post/onto/) [a](/post/a/) [surface](/post/surface/). [Example](/post/example/): "[The](/post/the/) [pilot](/post/pilot/) expertly landed [the](/post/the/) [spacecraft](/post/spacecraft/) [on](/post/on/) [the](/post/the/) [moon](/post/moon/)."
+  - [Come](/post/come/) [to](/post/to/) [rest](/post/rest/) [or](/post/or/) [settle](/post/settle/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/) [or](/post/or/) [position](/post/position/). [Example](/post/example/): "[After](/post/after/) years [of](/post/of/) traveling, [he](/post/he/) [finally](/post/finally/) decided [to](/post/to/) [land](/post/land/) [a](/post/a/) [job](/post/job/) [in](/post/in/) [his](/post/his/) hometown."
   
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) connected [with](/en/post/with/) [land](/en/post/land/) [rather](/en/post/rather/) [than](/en/post/than/) [water](/en/post/water/) [or](/en/post/or/) [air](/en/post/air/). [Example](/en/post/example/): "[Land](/en/post/land/) animals [have](/en/post/have/) evolved differently [from](/en/post/from/) [marine](/en/post/marine/) creatures."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) connected [with](/post/with/) [land](/post/land/) [rather](/post/rather/) [than](/post/than/) [water](/post/water/) [or](/post/or/) [air](/post/air/). [Example](/post/example/): "[Land](/post/land/) animals [have](/post/have/) evolved differently [from](/post/from/) [marine](/post/marine/) creatures."
 
 ## Phrases
-- "[Land](/en/post/land/) [of](/en/post/of/) [opportunity](/en/post/opportunity/)" refers [to](/en/post/to/) [a](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [many](/en/post/many/) opportunities [exist](/en/post/exist/) [for](/en/post/for/) [success](/en/post/success/) [or](/en/post/or/) advancement.
-- "[Go](/en/post/go/) ashore" [means](/en/post/means/) [to](/en/post/to/) [leave](/en/post/leave/) [a](/en/post/a/) [boat](/en/post/boat/) [or](/en/post/or/) [ship](/en/post/ship/) [and](/en/post/and/) [land](/en/post/land/) [on](/en/post/on/) [the](/en/post/the/) [coast](/en/post/coast/) [or](/en/post/or/) [dock](/en/post/dock/).
-- "[On](/en/post/on/) [land](/en/post/land/)" indicates [being](/en/post/being/) [on](/en/post/on/) [dry](/en/post/dry/) [ground](/en/post/ground/) [as](/en/post/as/) opposed [to](/en/post/to/) [being](/en/post/being/) [on](/en/post/on/) [water](/en/post/water/) [or](/en/post/or/) [in](/en/post/in/) [the](/en/post/the/) [air](/en/post/air/).
+- "[Land](/post/land/) [of](/post/of/) [opportunity](/post/opportunity/)" refers [to](/post/to/) [a](/post/a/) [place](/post/place/) [where](/post/where/) [many](/post/many/) opportunities [exist](/post/exist/) [for](/post/for/) [success](/post/success/) [or](/post/or/) advancement.
+- "[Go](/post/go/) ashore" [means](/post/means/) [to](/post/to/) [leave](/post/leave/) [a](/post/a/) [boat](/post/boat/) [or](/post/or/) [ship](/post/ship/) [and](/post/and/) [land](/post/land/) [on](/post/on/) [the](/post/the/) [coast](/post/coast/) [or](/post/or/) [dock](/post/dock/).
+- "[On](/post/on/) [land](/post/land/)" indicates [being](/post/being/) [on](/post/on/) [dry](/post/dry/) [ground](/post/ground/) [as](/post/as/) opposed [to](/post/to/) [being](/post/being/) [on](/post/on/) [water](/post/water/) [or](/post/or/) [in](/post/in/) [the](/post/the/) [air](/post/air/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) cultivated [his](/en/post/his/) [land](/en/post/land/) [to](/en/post/to/) [grow](/en/post/grow/) [corn](/en/post/corn/) [and](/en/post/and/) [wheat](/en/post/wheat/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) parachutist [successfully](/en/post/successfully/) landed [in](/en/post/in/) [the](/en/post/the/) designated [field](/en/post/field/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) land-based animals adapted [to](/en/post/to/) [the](/en/post/the/) changing [climate](/en/post/climate/) conditions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) cultivated [his](/post/his/) [land](/post/land/) [to](/post/to/) [grow](/post/grow/) [corn](/post/corn/) [and](/post/and/) [wheat](/post/wheat/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) parachutist [successfully](/post/successfully/) landed [in](/post/in/) [the](/post/the/) designated [field](/post/field/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) land-based animals adapted [to](/post/to/) [the](/post/the/) changing [climate](/post/climate/) conditions."
 
 ## Synonyms
-- [Territory](/en/post/territory/)
-- [Ground](/en/post/ground/)
-- [Soil](/en/post/soil/)
-- [Earth](/en/post/earth/)
-- [Country](/en/post/country/)
-- [Shore](/en/post/shore/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
-- [Settle](/en/post/settle/) ([when](/en/post/when/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) arriving [on](/en/post/on/) [land](/en/post/land/))
+- [Territory](/post/territory/)
+- [Ground](/post/ground/)
+- [Soil](/post/soil/)
+- [Earth](/post/earth/)
+- [Country](/post/country/)
+- [Shore](/post/shore/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/))
+- [Settle](/post/settle/) ([when](/post/when/) [used](/post/used/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) arriving [on](/post/on/) [land](/post/land/))

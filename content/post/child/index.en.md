@@ -7,39 +7,39 @@ description = '[t∫aild] n.小孩，儿童；儿子'
 keywords = ['ai words', 'child']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃaɪld/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-    - [A](/en/post/a/) [young](/en/post/young/) [human](/en/post/human/), typically [one](/en/post/one/) [below](/en/post/below/) [the](/en/post/the/) [age](/en/post/age/) [of](/en/post/of/) puberty, [who](/en/post/who/) has [not](/en/post/not/) [yet](/en/post/yet/) reached adulthood.
-    - [A](/en/post/a/) [son](/en/post/son/) [or](/en/post/or/) [daughter](/en/post/daughter/), collectively.
-- **[Verb](/en/post/verb/)** (colloquial): [To](/en/post/to/) [rear](/en/post/rear/) [or](/en/post/or/) [bring](/en/post/bring/) [up](/en/post/up/), [especially](/en/post/especially/) [a](/en/post/a/) [child](/en/post/child/).
-- **[Adjective](/en/post/adjective/)**: Belonging [or](/en/post/or/) relating [to](/en/post/to/) [a](/en/post/a/) [child](/en/post/child/); juvenile.
+- **[Noun](/post/noun/)**: 
+    - [A](/post/a/) [young](/post/young/) [human](/post/human/), typically [one](/post/one/) [below](/post/below/) [the](/post/the/) [age](/post/age/) [of](/post/of/) puberty, [who](/post/who/) has [not](/post/not/) [yet](/post/yet/) reached adulthood.
+    - [A](/post/a/) [son](/post/son/) [or](/post/or/) [daughter](/post/daughter/), collectively.
+- **[Verb](/post/verb/)** (colloquial): [To](/post/to/) [rear](/post/rear/) [or](/post/or/) [bring](/post/bring/) [up](/post/up/), [especially](/post/especially/) [a](/post/a/) [child](/post/child/).
+- **[Adjective](/post/adjective/)**: Belonging [or](/post/or/) relating [to](/post/to/) [a](/post/a/) [child](/post/child/); juvenile.
 
 ## Phrases
-- "[The](/en/post/the/) [child](/en/post/child/) was playing [with](/en/post/with/) toys."
-- "[Childhood](/en/post/childhood/) memories are [often](/en/post/often/) cherished."
-- "It's [important](/en/post/important/) [to](/en/post/to/) [understand](/en/post/understand/) [child](/en/post/child/) psychology."
+- "[The](/post/the/) [child](/post/child/) was playing [with](/post/with/) toys."
+- "[Childhood](/post/childhood/) memories are [often](/post/often/) cherished."
+- "It's [important](/post/important/) [to](/post/to/) [understand](/post/understand/) [child](/post/child/) psychology."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [child](/en/post/child/) was [too](/en/post/too/) [young](/en/post/young/) [to](/en/post/to/) [understand](/en/post/understand/) [the](/en/post/the/) [situation](/en/post/situation/)."
-- **[Verb](/en/post/verb/)**: "[As](/en/post/as/) [a](/en/post/a/) [parent](/en/post/parent/), it's [your](/en/post/your/) [responsibility](/en/post/responsibility/) [to](/en/post/to/) [child](/en/post/child/) [your](/en/post/your/) [child](/en/post/child/) [well](/en/post/well/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) child-friendly [playground](/en/post/playground/) had [many](/en/post/many/) attractions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [child](/post/child/) was [too](/post/too/) [young](/post/young/) [to](/post/to/) [understand](/post/understand/) [the](/post/the/) [situation](/post/situation/)."
+- **[Verb](/post/verb/)**: "[As](/post/as/) [a](/post/a/) [parent](/post/parent/), it's [your](/post/your/) [responsibility](/post/responsibility/) [to](/post/to/) [child](/post/child/) [your](/post/your/) [child](/post/child/) [well](/post/well/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) child-friendly [playground](/post/playground/) had [many](/post/many/) attractions."
 
 ## Synonyms
-- [Youth](/en/post/youth/)
-- [Kid](/en/post/kid/)
+- [Youth](/post/youth/)
+- [Kid](/post/kid/)
 - Tot
-- [Infant](/en/post/infant/)
+- [Infant](/post/infant/)
 - Youngster
 - Minion
 - Offspring
 
 ## Antonyms
-- [Adult](/en/post/adult/)
-- [Senior](/en/post/senior/)
-- [Mature](/en/post/mature/)
+- [Adult](/post/adult/)
+- [Senior](/post/senior/)
+- [Mature](/post/mature/)
 - Adolescent
-- [Teenager](/en/post/teenager/)
-- [Individual](/en/post/individual/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [age](/en/post/age/))
+- [Teenager](/post/teenager/)
+- [Individual](/post/individual/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [age](/post/age/))

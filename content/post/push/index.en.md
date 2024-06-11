@@ -7,38 +7,38 @@ description = '[pu∫] vt.推，逼迫 vi.推'
 keywords = ['ai words', 'push']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pʊʃ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-  - **[Noun](/en/post/noun/)**: [A](/en/post/a/) [physical](/en/post/physical/) [force](/en/post/force/) exerted [to](/en/post/to/) [move](/en/post/move/) an [object](/en/post/object/) [or](/en/post/or/) [person](/en/post/person/) [forward](/en/post/forward/) [or](/en/post/or/) [upward](/en/post/upward/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) pushed [the](/en/post/the/) [cart](/en/post/cart/) towards [the](/en/post/the/) checkout."
-  - **Transitive [verb](/en/post/verb/)**: [To](/en/post/to/) [apply](/en/post/apply/) [force](/en/post/force/) [to](/en/post/to/) [something](/en/post/something/), causing [it](/en/post/it/) [to](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [change](/en/post/change/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) pushed [the](/en/post/the/) [door](/en/post/door/) [open](/en/post/open/)."
-  - **Intransitive [verb](/en/post/verb/)**: [To](/en/post/to/) [express](/en/post/express/) [a](/en/post/a/) [desire](/en/post/desire/) [or](/en/post/or/) [intention](/en/post/intention/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) connotation [of](/en/post/of/) urging [or](/en/post/or/) forcing. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) pushed [for](/en/post/for/) [a](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [policy](/en/post/policy/)."
-  - **Gerund**: Pushing, [as](/en/post/as/) [in](/en/post/in/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) pushing [itself](/en/post/itself/), e.g., "Pushing [against](/en/post/against/) [the](/en/post/the/) [wall](/en/post/wall/) [for](/en/post/for/) leverage."
+- **[Verb](/post/verb/)**: 
+  - **[Noun](/post/noun/)**: [A](/post/a/) [physical](/post/physical/) [force](/post/force/) exerted [to](/post/to/) [move](/post/move/) an [object](/post/object/) [or](/post/or/) [person](/post/person/) [forward](/post/forward/) [or](/post/or/) [upward](/post/upward/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) pushed [the](/post/the/) [cart](/post/cart/) towards [the](/post/the/) checkout."
+  - **Transitive [verb](/post/verb/)**: [To](/post/to/) [apply](/post/apply/) [force](/post/force/) [to](/post/to/) [something](/post/something/), causing [it](/post/it/) [to](/post/to/) [move](/post/move/) [or](/post/or/) [change](/post/change/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) pushed [the](/post/the/) [door](/post/door/) [open](/post/open/)."
+  - **Intransitive [verb](/post/verb/)**: [To](/post/to/) [express](/post/express/) [a](/post/a/) [desire](/post/desire/) [or](/post/or/) [intention](/post/intention/), [often](/post/often/) [with](/post/with/) [a](/post/a/) connotation [of](/post/of/) urging [or](/post/or/) forcing. [For](/post/for/) [example](/post/example/): "[He](/post/he/) pushed [for](/post/for/) [a](/post/a/) [change](/post/change/) [in](/post/in/) [policy](/post/policy/)."
+  - **Gerund**: Pushing, [as](/post/as/) [in](/post/in/) [the](/post/the/) [act](/post/act/) [of](/post/of/) pushing [itself](/post/itself/), e.g., "Pushing [against](/post/against/) [the](/post/the/) [wall](/post/wall/) [for](/post/for/) leverage."
 
 ## Phrases
-- "[Push](/en/post/push/) [through](/en/post/through/)": [To](/en/post/to/) [continue](/en/post/continue/) [despite](/en/post/despite/) obstacles [or](/en/post/or/) difficulties. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) pushed [through](/en/post/through/) [the](/en/post/the/) [crowd](/en/post/crowd/) [to](/en/post/to/) [get](/en/post/get/) [to](/en/post/to/) [the](/en/post/the/) [stage](/en/post/stage/)."
-- "[Push](/en/post/push/) [the](/en/post/the/) [envelope](/en/post/envelope/)": [To](/en/post/to/) [go](/en/post/go/) [beyond](/en/post/beyond/) [what](/en/post/what/) is considered [normal](/en/post/normal/) [or](/en/post/or/) [acceptable](/en/post/acceptable/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) was known [for](/en/post/for/) pushing [the](/en/post/the/) [envelope](/en/post/envelope/) [with](/en/post/with/) [their](/en/post/their/) avant-garde [work](/en/post/work/)."
-- "[Push](/en/post/push/) [your](/en/post/your/) limits": [To](/en/post/to/) [test](/en/post/test/) [and](/en/post/and/) surpass one's capabilities. [For](/en/post/for/) [example](/en/post/example/): "Athletes [often](/en/post/often/) [push](/en/post/push/) [their](/en/post/their/) limits [to](/en/post/to/) [improve](/en/post/improve/) [their](/en/post/their/) [performance](/en/post/performance/)."
+- "[Push](/post/push/) [through](/post/through/)": [To](/post/to/) [continue](/post/continue/) [despite](/post/despite/) obstacles [or](/post/or/) difficulties. [For](/post/for/) [example](/post/example/): "[She](/post/she/) pushed [through](/post/through/) [the](/post/the/) [crowd](/post/crowd/) [to](/post/to/) [get](/post/get/) [to](/post/to/) [the](/post/the/) [stage](/post/stage/)."
+- "[Push](/post/push/) [the](/post/the/) [envelope](/post/envelope/)": [To](/post/to/) [go](/post/go/) [beyond](/post/beyond/) [what](/post/what/) is considered [normal](/post/normal/) [or](/post/or/) [acceptable](/post/acceptable/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [artist](/post/artist/) was known [for](/post/for/) pushing [the](/post/the/) [envelope](/post/envelope/) [with](/post/with/) [their](/post/their/) avant-garde [work](/post/work/)."
+- "[Push](/post/push/) [your](/post/your/) limits": [To](/post/to/) [test](/post/test/) [and](/post/and/) surpass one's capabilities. [For](/post/for/) [example](/post/example/): "Athletes [often](/post/often/) [push](/post/push/) [their](/post/their/) limits [to](/post/to/) [improve](/post/improve/) [their](/post/their/) [performance](/post/performance/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [weight](/en/post/weight/) [of](/en/post/of/) [the](/en/post/the/) boxes was [too](/en/post/too/) [much](/en/post/much/) [for](/en/post/for/) [him](/en/post/him/) [to](/en/post/to/) [push](/en/post/push/) [up](/en/post/up/) [the](/en/post/the/) stairs."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) pushed [the](/en/post/the/) [lever](/en/post/lever/) [to](/en/post/to/) [start](/en/post/start/) [the](/en/post/the/) [machine](/en/post/machine/)."
-- **Intransitive**: "[She](/en/post/she/) felt [a](/en/post/a/) [strong](/en/post/strong/) [urge](/en/post/urge/) [to](/en/post/to/) [push](/en/post/push/) [for](/en/post/for/) [a](/en/post/a/) [new](/en/post/new/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [weight](/post/weight/) [of](/post/of/) [the](/post/the/) boxes was [too](/post/too/) [much](/post/much/) [for](/post/for/) [him](/post/him/) [to](/post/to/) [push](/post/push/) [up](/post/up/) [the](/post/the/) stairs."
+- **[Verb](/post/verb/)**: "[He](/post/he/) pushed [the](/post/the/) [lever](/post/lever/) [to](/post/to/) [start](/post/start/) [the](/post/the/) [machine](/post/machine/)."
+- **Intransitive**: "[She](/post/she/) felt [a](/post/a/) [strong](/post/strong/) [urge](/post/urge/) [to](/post/to/) [push](/post/push/) [for](/post/for/) [a](/post/a/) [new](/post/new/) [project](/post/project/)."
 
 ## Synonyms
-- [Exert](/en/post/exert/)
-- [Apply](/en/post/apply/) [force](/en/post/force/)
+- [Exert](/post/exert/)
+- [Apply](/post/apply/) [force](/post/force/)
 - Impel
 - Propel
 - Nudge
-- [Encourage](/en/post/encourage/)
+- [Encourage](/post/encourage/)
 - Advocate
 
 ## Antonyms
-- [Pull](/en/post/pull/)
-- [Ease](/en/post/ease/)
-- [Relax](/en/post/relax/)
-- [Withdraw](/en/post/withdraw/)
+- [Pull](/post/pull/)
+- [Ease](/post/ease/)
+- [Relax](/post/relax/)
+- [Withdraw](/post/withdraw/)
 - Relinquish

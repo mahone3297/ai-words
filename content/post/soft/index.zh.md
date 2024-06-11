@@ -8,23 +8,23 @@ keywords = ['ai words', 'soft']
 +++
 
 ## 读音
-/[soft](/post/soft/)/
+/[soft](/zh/post/soft/)/
 
 ## 释义
-- **形容词**: 软的，柔顺的，温和的。例如: "[The](/post/the/) baby's [skin](/post/skin/) was incredibly [soft](/post/soft/)."
-- **副词**: 温和地，轻轻地。例如: "[She](/post/she/) spoke [softly](/post/softly/) [to](/post/to/) [the](/post/the/) frightened [child](/post/child/)."
+- **形容词**: 软的，柔顺的，温和的。例如: "[The](/zh/post/the/) baby's [skin](/zh/post/skin/) was incredibly [soft](/zh/post/soft/)."
+- **副词**: 温和地，轻轻地。例如: "[She](/zh/post/she/) spoke [softly](/zh/post/softly/) [to](/zh/post/to/) [the](/zh/post/the/) frightened [child](/zh/post/child/)."
 
 ## 短语
-- "[Soft](/post/soft/) [touch](/post/touch/)" 指容易被说服的人或易受感动的事物。
-- "[Soft](/post/soft/) skills" 指非技术性的个人能力，如沟通、团队合作等。
+- "[Soft](/zh/post/soft/) [touch](/zh/post/touch/)" 指容易被说服的人或易受感动的事物。
+- "[Soft](/zh/post/soft/) skills" 指非技术性的个人能力，如沟通、团队合作等。
 
 ## 例句
-- 形容词: "[This](/post/this/) [pillow](/post/pillow/) is [so](/post/so/) [soft](/post/soft/) [that](/post/that/) I [could](/post/could/) [sleep](/post/sleep/) [all](/post/all/) [day](/post/day/)."
-- 副词: "[He](/post/he/) landed [softly](/post/softly/) [on](/post/on/) [the](/post/the/) [bed](/post/bed/) [after](/post/after/) jumping [from](/post/from/) [the](/post/the/) [chair](/post/chair/)."
+- 形容词: "[This](/zh/post/this/) [pillow](/zh/post/pillow/) is [so](/zh/post/so/) [soft](/zh/post/soft/) [that](/zh/post/that/) I [could](/zh/post/could/) [sleep](/zh/post/sleep/) [all](/zh/post/all/) [day](/zh/post/day/)."
+- 副词: "[He](/zh/post/he/) landed [softly](/zh/post/softly/) [on](/zh/post/on/) [the](/zh/post/the/) [bed](/zh/post/bed/) [after](/zh/post/after/) jumping [from](/zh/post/from/) [the](/zh/post/the/) [chair](/zh/post/chair/)."
 
 ## 同义词
-- [Gentle](/post/gentle/)
-- [Tender](/post/tender/)
+- [Gentle](/zh/post/gentle/)
+- [Tender](/zh/post/tender/)
 - Plush
-- [Delicate](/post/delicate/)
+- [Delicate](/zh/post/delicate/)
 - Mellow

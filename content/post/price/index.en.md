@@ -7,36 +7,36 @@ description = '[prais] n.价格，价钱；代价'
 keywords = ['ai words', 'price']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) required [to](/en/post/to/) [buy](/en/post/buy/) [something](/en/post/something/), [usually](/en/post/usually/) expressed [in](/en/post/in/) monetary units. 2. [A](/en/post/a/) [cost](/en/post/cost/) [or](/en/post/or/) [value](/en/post/value/) associated [with](/en/post/with/) [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/). 3. An asking [or](/en/post/or/) estimated [value](/en/post/value/), [as](/en/post/as/) [in](/en/post/in/) auction [or](/en/post/or/) negotiation. 4. [A](/en/post/a/) [price](/en/post/price/) [tag](/en/post/tag/) [or](/en/post/or/) [label](/en/post/label/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [set](/en/post/set/) [the](/en/post/the/) [price](/en/post/price/) [of](/en/post/of/) [something](/en/post/something/). 2. [To](/en/post/to/) [quote](/en/post/quote/) [or](/en/post/or/) [demand](/en/post/demand/) [a](/en/post/a/) [specific](/en/post/specific/) [price](/en/post/price/). 3. [To](/en/post/to/) [evaluate](/en/post/evaluate/) [or](/en/post/or/) appraise [the](/en/post/the/) [worth](/en/post/worth/) [of](/en/post/of/) [something](/en/post/something/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) required [to](/post/to/) [buy](/post/buy/) [something](/post/something/), [usually](/post/usually/) expressed [in](/post/in/) monetary units. 2. [A](/post/a/) [cost](/post/cost/) [or](/post/or/) [value](/post/value/) associated [with](/post/with/) [a](/post/a/) [product](/post/product/) [or](/post/or/) [service](/post/service/). 3. An asking [or](/post/or/) estimated [value](/post/value/), [as](/post/as/) [in](/post/in/) auction [or](/post/or/) negotiation. 4. [A](/post/a/) [price](/post/price/) [tag](/post/tag/) [or](/post/or/) [label](/post/label/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [set](/post/set/) [the](/post/the/) [price](/post/price/) [of](/post/of/) [something](/post/something/). 2. [To](/post/to/) [quote](/post/quote/) [or](/post/or/) [demand](/post/demand/) [a](/post/a/) [specific](/post/specific/) [price](/post/price/). 3. [To](/post/to/) [evaluate](/post/evaluate/) [or](/post/or/) appraise [the](/post/the/) [worth](/post/worth/) [of](/post/of/) [something](/post/something/).
 
 ## Phrases
-- "[Market](/en/post/market/) [price](/en/post/price/)" refers [to](/en/post/to/) [the](/en/post/the/) [value](/en/post/value/) determined [by](/en/post/by/) [supply](/en/post/supply/) [and](/en/post/and/) [demand](/en/post/demand/).
-- "[Set](/en/post/set/) [a](/en/post/a/) [price](/en/post/price/) [on](/en/post/on/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [assign](/en/post/assign/) [a](/en/post/a/) [value](/en/post/value/) [to](/en/post/to/) [it](/en/post/it/).
-- "Negotiate [a](/en/post/a/) [price](/en/post/price/)" involves discussing terms [to](/en/post/to/) [agree](/en/post/agree/) [on](/en/post/on/) [a](/en/post/a/) [cost](/en/post/cost/).
+- "[Market](/post/market/) [price](/post/price/)" refers [to](/post/to/) [the](/post/the/) [value](/post/value/) determined [by](/post/by/) [supply](/post/supply/) [and](/post/and/) [demand](/post/demand/).
+- "[Set](/post/set/) [a](/post/a/) [price](/post/price/) [on](/post/on/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [assign](/post/assign/) [a](/post/a/) [value](/post/value/) [to](/post/to/) [it](/post/it/).
+- "Negotiate [a](/post/a/) [price](/post/price/)" involves discussing terms [to](/post/to/) [agree](/post/agree/) [on](/post/on/) [a](/post/a/) [cost](/post/cost/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [car](/en/post/car/) had [a](/en/post/a/) [steep](/en/post/steep/) [price](/en/post/price/) [tag](/en/post/tag/) [of](/en/post/of/) $50,000."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [seller](/en/post/seller/) decided [to](/en/post/to/) [raise](/en/post/raise/) [the](/en/post/the/) [price](/en/post/price/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/) [after](/en/post/after/) receiving [multiple](/en/post/multiple/) offers."
-- **Phrasal [Verb](/en/post/verb/)**: "I couldn't [afford](/en/post/afford/) [the](/en/post/the/) [price](/en/post/price/) [they](/en/post/they/) were asking [for](/en/post/for/) [the](/en/post/the/) antique."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [car](/post/car/) had [a](/post/a/) [steep](/post/steep/) [price](/post/price/) [tag](/post/tag/) [of](/post/of/) $50,000."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [seller](/post/seller/) decided [to](/post/to/) [raise](/post/raise/) [the](/post/the/) [price](/post/price/) [of](/post/of/) [the](/post/the/) [house](/post/house/) [after](/post/after/) receiving [multiple](/post/multiple/) offers."
+- **Phrasal [Verb](/post/verb/)**: "I couldn't [afford](/post/afford/) [the](/post/the/) [price](/post/price/) [they](/post/they/) were asking [for](/post/for/) [the](/post/the/) antique."
 
 ## Synonyms
-- [Cost](/en/post/cost/)
-- [Value](/en/post/value/)
-- [Sum](/en/post/sum/)
-- [Tag](/en/post/tag/)
-- [Rate](/en/post/rate/)
-- [Charge](/en/post/charge/)
-- [Fee](/en/post/fee/)
-- [Price](/en/post/price/) [point](/en/post/point/)
-- [Quote](/en/post/quote/)
+- [Cost](/post/cost/)
+- [Value](/post/value/)
+- [Sum](/post/sum/)
+- [Tag](/post/tag/)
+- [Rate](/post/rate/)
+- [Charge](/post/charge/)
+- [Fee](/post/fee/)
+- [Price](/post/price/) [point](/post/point/)
+- [Quote](/post/quote/)
 
 ## Antonyms
-- [Free](/en/post/free/)
+- [Free](/post/free/)
 - Discount
-- [Give](/en/post/give/) [away](/en/post/away/)
+- [Give](/post/give/) [away](/post/away/)
 - Undervalue

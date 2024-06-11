@@ -7,29 +7,29 @@ description = '[fɔːs] vt.强迫 n.力，力量'
 keywords = ['ai words', 'force']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɔːrs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [physical](/en/post/physical/) [strength](/en/post/strength/) [or](/en/post/or/) [power](/en/post/power/) exerted [upon](/en/post/upon/) an [object](/en/post/object/); [a](/en/post/a/) [push](/en/post/push/) [or](/en/post/or/) [pull](/en/post/pull/). E.g., "[The](/en/post/the/) [force](/en/post/force/) [of](/en/post/of/) [the](/en/post/the/) [wind](/en/post/wind/) moved [the](/en/post/the/) branches." [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [military](/en/post/military/) [or](/en/post/or/) [police](/en/post/police/) [personnel](/en/post/personnel/), [as](/en/post/as/) [in](/en/post/in/) "[The](/en/post/the/) [police](/en/post/police/) [force](/en/post/force/) was called [in](/en/post/in/) [to](/en/post/to/) [maintain](/en/post/maintain/) [order](/en/post/order/)."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [compel](/en/post/compel/), [make](/en/post/make/), [or](/en/post/or/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/), [often](/en/post/often/) [against](/en/post/against/) [resistance](/en/post/resistance/) [or](/en/post/or/) [by](/en/post/by/) using [strength](/en/post/strength/) [or](/en/post/or/) [power](/en/post/power/). E.g., "[She](/en/post/she/) forced [the](/en/post/the/) [door](/en/post/door/) [open](/en/post/open/)." [Or](/en/post/or/), "[Time](/en/post/time/) [and](/en/post/and/) [tide](/en/post/tide/) [wait](/en/post/wait/) [for](/en/post/for/) [no](/en/post/no/) [man](/en/post/man/); [they](/en/post/they/) [force](/en/post/force/) [us](/en/post/us/) [to](/en/post/to/) [move](/en/post/move/) [forward](/en/post/forward/)."
-- **[Adjective](/en/post/adjective/)**: (adj) [Strong](/en/post/strong/), [powerful](/en/post/powerful/), [or](/en/post/or/) compelling. [Often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [influence](/en/post/influence/) [or](/en/post/or/) [effect](/en/post/effect/). E.g., "[A](/en/post/a/) forceful [argument](/en/post/argument/) convinced [the](/en/post/the/) [jury](/en/post/jury/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [physical](/post/physical/) [strength](/post/strength/) [or](/post/or/) [power](/post/power/) exerted [upon](/post/upon/) an [object](/post/object/); [a](/post/a/) [push](/post/push/) [or](/post/or/) [pull](/post/pull/). E.g., "[The](/post/the/) [force](/post/force/) [of](/post/of/) [the](/post/the/) [wind](/post/wind/) moved [the](/post/the/) branches." [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [military](/post/military/) [or](/post/or/) [police](/post/police/) [personnel](/post/personnel/), [as](/post/as/) [in](/post/in/) "[The](/post/the/) [police](/post/police/) [force](/post/force/) was called [in](/post/in/) [to](/post/to/) [maintain](/post/maintain/) [order](/post/order/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [compel](/post/compel/), [make](/post/make/), [or](/post/or/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [happen](/post/happen/), [often](/post/often/) [against](/post/against/) [resistance](/post/resistance/) [or](/post/or/) [by](/post/by/) using [strength](/post/strength/) [or](/post/or/) [power](/post/power/). E.g., "[She](/post/she/) forced [the](/post/the/) [door](/post/door/) [open](/post/open/)." [Or](/post/or/), "[Time](/post/time/) [and](/post/and/) [tide](/post/tide/) [wait](/post/wait/) [for](/post/for/) [no](/post/no/) [man](/post/man/); [they](/post/they/) [force](/post/force/) [us](/post/us/) [to](/post/to/) [move](/post/move/) [forward](/post/forward/)."
+- **[Adjective](/post/adjective/)**: (adj) [Strong](/post/strong/), [powerful](/post/powerful/), [or](/post/or/) compelling. [Often](/post/often/) [used](/post/used/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) [influence](/post/influence/) [or](/post/or/) [effect](/post/effect/). E.g., "[A](/post/a/) forceful [argument](/post/argument/) convinced [the](/post/the/) [jury](/post/jury/)."
 
 ## Phrases
-- "[Force](/en/post/force/) [of](/en/post/of/) [nature](/en/post/nature/)": An overwhelming [natural](/en/post/natural/) [power](/en/post/power/) [or](/en/post/or/) [phenomenon](/en/post/phenomenon/), e.g., "[The](/en/post/the/) hurricane was [a](/en/post/a/) [force](/en/post/force/) [of](/en/post/of/) [nature](/en/post/nature/)."
-- "[Use](/en/post/use/) [force](/en/post/force/)": [To](/en/post/to/) [apply](/en/post/apply/) [physical](/en/post/physical/) [strength](/en/post/strength/) [or](/en/post/or/) coercion, e.g., "[They](/en/post/they/) threatened [to](/en/post/to/) [use](/en/post/use/) [force](/en/post/force/) [if](/en/post/if/) [necessary](/en/post/necessary/)."
-- "[Force](/en/post/force/) majeure": [A](/en/post/a/) [legal](/en/post/legal/) [term](/en/post/term/) referring [to](/en/post/to/) unforeseeable circumstances [that](/en/post/that/) [prevent](/en/post/prevent/) [someone](/en/post/someone/) [from](/en/post/from/) fulfilling [a](/en/post/a/) [contract](/en/post/contract/).
+- "[Force](/post/force/) [of](/post/of/) [nature](/post/nature/)": An overwhelming [natural](/post/natural/) [power](/post/power/) [or](/post/or/) [phenomenon](/post/phenomenon/), e.g., "[The](/post/the/) hurricane was [a](/post/a/) [force](/post/force/) [of](/post/of/) [nature](/post/nature/)."
+- "[Use](/post/use/) [force](/post/force/)": [To](/post/to/) [apply](/post/apply/) [physical](/post/physical/) [strength](/post/strength/) [or](/post/or/) coercion, e.g., "[They](/post/they/) threatened [to](/post/to/) [use](/post/use/) [force](/post/force/) [if](/post/if/) [necessary](/post/necessary/)."
+- "[Force](/post/force/) majeure": [A](/post/a/) [legal](/post/legal/) [term](/post/term/) referring [to](/post/to/) unforeseeable circumstances [that](/post/that/) [prevent](/post/prevent/) [someone](/post/someone/) [from](/post/from/) fulfilling [a](/post/a/) [contract](/post/contract/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) gravitational [force](/en/post/force/) [between](/en/post/between/) [two](/en/post/two/) objects depends [on](/en/post/on/) [their](/en/post/their/) masses [and](/en/post/and/) [distance](/en/post/distance/) [apart](/en/post/apart/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) had [to](/en/post/to/) [force](/en/post/force/) [herself](/en/post/herself/) [to](/en/post/to/) [get](/en/post/get/) [up](/en/post/up/) [early](/en/post/early/) [every](/en/post/every/) [morning](/en/post/morning/) [for](/en/post/for/) [her](/en/post/her/) [new](/en/post/new/) [job](/en/post/job/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) forceful personality dominated [the](/en/post/the/) [meeting](/en/post/meeting/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) gravitational [force](/post/force/) [between](/post/between/) [two](/post/two/) objects depends [on](/post/on/) [their](/post/their/) masses [and](/post/and/) [distance](/post/distance/) [apart](/post/apart/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) had [to](/post/to/) [force](/post/force/) [herself](/post/herself/) [to](/post/to/) [get](/post/get/) [up](/post/up/) [early](/post/early/) [every](/post/every/) [morning](/post/morning/) [for](/post/for/) [her](/post/her/) [new](/post/new/) [job](/post/job/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) forceful personality dominated [the](/post/the/) [meeting](/post/meeting/)."
 
 ## Synonyms
-- [Strength](/en/post/strength/) ([noun](/en/post/noun/))
-- [Compel](/en/post/compel/) ([verb](/en/post/verb/))
-- [Strong](/en/post/strong/) ([adjective](/en/post/adjective/))
-- [Power](/en/post/power/) ([noun](/en/post/noun/) [and](/en/post/and/) [verb](/en/post/verb/))
-- [Pressure](/en/post/pressure/) ([noun](/en/post/noun/))
-- Impel ([verb](/en/post/verb/))
-- [Drive](/en/post/drive/) ([verb](/en/post/verb/))
+- [Strength](/post/strength/) ([noun](/post/noun/))
+- [Compel](/post/compel/) ([verb](/post/verb/))
+- [Strong](/post/strong/) ([adjective](/post/adjective/))
+- [Power](/post/power/) ([noun](/post/noun/) [and](/post/and/) [verb](/post/verb/))
+- [Pressure](/post/pressure/) ([noun](/post/noun/))
+- Impel ([verb](/post/verb/))
+- [Drive](/post/drive/) ([verb](/post/verb/))

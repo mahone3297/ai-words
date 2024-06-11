@@ -7,31 +7,31 @@ description = '[ˈkiŋdəm] n.王国；领域，界'
 keywords = ['ai words', 'kingdom']
 +++
 
-## [Word](/en/post/word/): [Kingdom](/en/post/kingdom/)
+## [Word](/post/word/): [Kingdom](/post/kingdom/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkɪŋdəm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [country](/en/post/country/), [state](/en/post/state/), [or](/en/post/or/) [territory](/en/post/territory/) ruled [by](/en/post/by/) [a](/en/post/a/) [king](/en/post/king/) [or](/en/post/or/) [queen](/en/post/queen/), [or](/en/post/or/) [a](/en/post/a/) monarchy [as](/en/post/as/) [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [government](/en/post/government/). [Example](/en/post/example/): "[The](/en/post/the/) [kingdom](/en/post/kingdom/) was known [for](/en/post/for/) [its](/en/post/its/) [rich](/en/post/rich/) [history](/en/post/history/) [and](/en/post/and/) [powerful](/en/post/powerful/) monarchy."
-  - [In](/en/post/in/) [biology](/en/post/biology/), [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) taxonomic ranks [used](/en/post/used/) [in](/en/post/in/) classifying organisms, [above](/en/post/above/) [the](/en/post/the/) [level](/en/post/level/) [of](/en/post/of/) phylum [and](/en/post/and/) [below](/en/post/below/) domain. [Example](/en/post/example/): "[In](/en/post/in/) [the](/en/post/the/) [animal](/en/post/animal/) [kingdom](/en/post/kingdom/), mammals [belong](/en/post/belong/) [to](/en/post/to/) [the](/en/post/the/) largest [group](/en/post/group/)."
-  - Figuratively, [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [a](/en/post/a/) domain [or](/en/post/or/) [sphere](/en/post/sphere/) [of](/en/post/of/) [activity](/en/post/activity/) [or](/en/post/or/) [influence](/en/post/influence/). [Example](/en/post/example/): "[Music](/en/post/music/) was [his](/en/post/his/) [kingdom](/en/post/kingdom/); [he](/en/post/he/) reigned [supreme](/en/post/supreme/) [in](/en/post/in/) [that](/en/post/that/) [realm](/en/post/realm/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [country](/post/country/), [state](/post/state/), [or](/post/or/) [territory](/post/territory/) ruled [by](/post/by/) [a](/post/a/) [king](/post/king/) [or](/post/or/) [queen](/post/queen/), [or](/post/or/) [a](/post/a/) monarchy [as](/post/as/) [a](/post/a/) [form](/post/form/) [of](/post/of/) [government](/post/government/). [Example](/post/example/): "[The](/post/the/) [kingdom](/post/kingdom/) was known [for](/post/for/) [its](/post/its/) [rich](/post/rich/) [history](/post/history/) [and](/post/and/) [powerful](/post/powerful/) monarchy."
+  - [In](/post/in/) [biology](/post/biology/), [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [one](/post/one/) [of](/post/of/) [the](/post/the/) taxonomic ranks [used](/post/used/) [in](/post/in/) classifying organisms, [above](/post/above/) [the](/post/the/) [level](/post/level/) [of](/post/of/) phylum [and](/post/and/) [below](/post/below/) domain. [Example](/post/example/): "[In](/post/in/) [the](/post/the/) [animal](/post/animal/) [kingdom](/post/kingdom/), mammals [belong](/post/belong/) [to](/post/to/) [the](/post/the/) largest [group](/post/group/)."
+  - Figuratively, [it](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [a](/post/a/) domain [or](/post/or/) [sphere](/post/sphere/) [of](/post/of/) [activity](/post/activity/) [or](/post/or/) [influence](/post/influence/). [Example](/post/example/): "[Music](/post/music/) was [his](/post/his/) [kingdom](/post/kingdom/); [he](/post/he/) reigned [supreme](/post/supreme/) [in](/post/in/) [that](/post/that/) [realm](/post/realm/)."
 
 ## Phrases
-- "[Kingdom](/en/post/kingdom/) [of](/en/post/of/) God": [A](/en/post/a/) [term](/en/post/term/) referring [to](/en/post/to/) [the](/en/post/the/) [spiritual](/en/post/spiritual/) [reign](/en/post/reign/) [or](/en/post/or/) [rule](/en/post/rule/) [of](/en/post/of/) God [over](/en/post/over/) [all](/en/post/all/) creation, [often](/en/post/often/) seen [in](/en/post/in/) [religious](/en/post/religious/) contexts.
-- "[Kingdom](/en/post/kingdom/) [Come](/en/post/come/)": An idiomatic [expression](/en/post/expression/) [meaning](/en/post/meaning/) '[at](/en/post/at/) [some](/en/post/some/) indefinitely [distant](/en/post/distant/) [time](/en/post/time/) [in](/en/post/in/) [the](/en/post/the/) [future](/en/post/future/)', e.g., "I'll [do](/en/post/do/) [it](/en/post/it/) [when](/en/post/when/) [the](/en/post/the/) [kingdom](/en/post/kingdom/) comes."
-- "[Animal](/en/post/animal/) [Kingdom](/en/post/kingdom/)": Refers [to](/en/post/to/) [the](/en/post/the/) totality [of](/en/post/of/) [all](/en/post/all/) animals [on](/en/post/on/) [Earth](/en/post/earth/).
+- "[Kingdom](/post/kingdom/) [of](/post/of/) God": [A](/post/a/) [term](/post/term/) referring [to](/post/to/) [the](/post/the/) [spiritual](/post/spiritual/) [reign](/post/reign/) [or](/post/or/) [rule](/post/rule/) [of](/post/of/) God [over](/post/over/) [all](/post/all/) creation, [often](/post/often/) seen [in](/post/in/) [religious](/post/religious/) contexts.
+- "[Kingdom](/post/kingdom/) [Come](/post/come/)": An idiomatic [expression](/post/expression/) [meaning](/post/meaning/) '[at](/post/at/) [some](/post/some/) indefinitely [distant](/post/distant/) [time](/post/time/) [in](/post/in/) [the](/post/the/) [future](/post/future/)', e.g., "I'll [do](/post/do/) [it](/post/it/) [when](/post/when/) [the](/post/the/) [kingdom](/post/kingdom/) comes."
+- "[Animal](/post/animal/) [Kingdom](/post/kingdom/)": Refers [to](/post/to/) [the](/post/the/) totality [of](/post/of/) [all](/post/all/) animals [on](/post/on/) [Earth](/post/earth/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([government](/en/post/government/))**: "[The](/en/post/the/) kingdom's [prosperity](/en/post/prosperity/) was built [on](/en/post/on/) [trade](/en/post/trade/) [and](/en/post/and/) diplomacy."
-- **[Noun](/en/post/noun/) ([biology](/en/post/biology/))**: "Biologists [have](/en/post/have/) classified humans [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [Animal](/en/post/animal/) [Kingdom](/en/post/kingdom/)."
-- **[Noun](/en/post/noun/) (figurative)**: "[She](/en/post/she/) rules [her](/en/post/her/) [own](/en/post/own/) [little](/en/post/little/) [kingdom](/en/post/kingdom/) [in](/en/post/in/) [the](/en/post/the/) [kitchen](/en/post/kitchen/), crafting culinary masterpieces."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([government](/post/government/))**: "[The](/post/the/) kingdom's [prosperity](/post/prosperity/) was built [on](/post/on/) [trade](/post/trade/) [and](/post/and/) diplomacy."
+- **[Noun](/post/noun/) ([biology](/post/biology/))**: "Biologists [have](/post/have/) classified humans [as](/post/as/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [Animal](/post/animal/) [Kingdom](/post/kingdom/)."
+- **[Noun](/post/noun/) (figurative)**: "[She](/post/she/) rules [her](/post/her/) [own](/post/own/) [little](/post/little/) [kingdom](/post/kingdom/) [in](/post/in/) [the](/post/the/) [kitchen](/post/kitchen/), crafting culinary masterpieces."
 
 ## Synonyms
-- [Realm](/en/post/realm/)
+- [Realm](/post/realm/)
 - Monarchy
 - Dominion
-- [Empire](/en/post/empire/)
+- [Empire](/post/empire/)
 - Sovereignty
-- [Territory](/en/post/territory/)
-- Domain ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) biological [classification](/en/post/classification/))
+- [Territory](/post/territory/)
+- Domain ([in](/post/in/) [the](/post/the/) context [of](/post/of/) biological [classification](/post/classification/))

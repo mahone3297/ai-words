@@ -7,38 +7,38 @@ description = '[strikt] a.严格的；严谨的'
 keywords = ['ai words', 'strict']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈstrɪkt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Strict](/en/post/strict/)** [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [rule](/en/post/rule/) [or](/en/post/or/) [standard](/en/post/standard/) [that](/en/post/that/) is [very](/en/post/very/) exacting [or](/en/post/or/) [not](/en/post/not/) allowing [any](/en/post/any/) deviation. 
-   - [Example](/en/post/example/): "[The](/en/post/the/) [school](/en/post/school/) has [strict](/en/post/strict/) [discipline](/en/post/discipline/) policies."
+### [Noun](/post/noun/)
+- **[Strict](/post/strict/)** [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [rule](/post/rule/) [or](/post/or/) [standard](/post/standard/) [that](/post/that/) is [very](/post/very/) exacting [or](/post/or/) [not](/post/not/) allowing [any](/post/any/) deviation. 
+   - [Example](/post/example/): "[The](/post/the/) [school](/post/school/) has [strict](/post/strict/) [discipline](/post/discipline/) policies."
    
-### [Adjective](/en/post/adjective/)
-- [As](/en/post/as/) an [adjective](/en/post/adjective/), **[strict](/en/post/strict/)** [means](/en/post/means/) requiring adherence [to](/en/post/to/) rules [or](/en/post/or/) regulations [without](/en/post/without/) leniency; [severe](/en/post/severe/) [or](/en/post/or/) demanding.
-   - [Example](/en/post/example/): "[A](/en/post/a/) [strict](/en/post/strict/) [teacher](/en/post/teacher/) keeps [a](/en/post/a/) watchful [eye](/en/post/eye/) [on](/en/post/on/) students' [behavior](/en/post/behavior/)."
-   - [Example](/en/post/example/): "[The](/en/post/the/) [strict](/en/post/strict/) diet helped [her](/en/post/her/) [lose](/en/post/lose/) [weight](/en/post/weight/)."
+### [Adjective](/post/adjective/)
+- [As](/post/as/) an [adjective](/post/adjective/), **[strict](/post/strict/)** [means](/post/means/) requiring adherence [to](/post/to/) rules [or](/post/or/) regulations [without](/post/without/) leniency; [severe](/post/severe/) [or](/post/or/) demanding.
+   - [Example](/post/example/): "[A](/post/a/) [strict](/post/strict/) [teacher](/post/teacher/) keeps [a](/post/a/) watchful [eye](/post/eye/) [on](/post/on/) students' [behavior](/post/behavior/)."
+   - [Example](/post/example/): "[The](/post/the/) [strict](/post/strict/) diet helped [her](/post/her/) [lose](/post/lose/) [weight](/post/weight/)."
 
-### [Adverb](/en/post/adverb/)
-- [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [function](/en/post/function/) [as](/en/post/as/) an [adverb](/en/post/adverb/), [meaning](/en/post/meaning/) [with](/en/post/with/) [great](/en/post/great/) severity [or](/en/post/or/) rigor.
-   - [Example](/en/post/example/): "[He](/en/post/he/) followed [the](/en/post/the/) instructions [strictly](/en/post/strictly/)."
-   - [Example](/en/post/example/): "[She](/en/post/she/) was [strict](/en/post/strict/) [in](/en/post/in/) [her](/en/post/her/) [approach](/en/post/approach/) [to](/en/post/to/) [teaching](/en/post/teaching/)."
+### [Adverb](/post/adverb/)
+- [It](/post/it/) [can](/post/can/) [also](/post/also/) [function](/post/function/) [as](/post/as/) an [adverb](/post/adverb/), [meaning](/post/meaning/) [with](/post/with/) [great](/post/great/) severity [or](/post/or/) rigor.
+   - [Example](/post/example/): "[He](/post/he/) followed [the](/post/the/) instructions [strictly](/post/strictly/)."
+   - [Example](/post/example/): "[She](/post/she/) was [strict](/post/strict/) [in](/post/in/) [her](/post/her/) [approach](/post/approach/) [to](/post/to/) [teaching](/post/teaching/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [strict](/en/post/strict/) [with](/en/post/with/) [someone](/en/post/someone/)" implies holding [them](/en/post/them/) accountable [or](/en/post/or/) enforcing rules firmly.
-- "[Under](/en/post/under/) [strict](/en/post/strict/) conditions" refers [to](/en/post/to/) circumstances [where](/en/post/where/) rules are [strictly](/en/post/strictly/) enforced.
-- "[A](/en/post/a/) [strict](/en/post/strict/) upbringing" suggests [a](/en/post/a/) [parent](/en/post/parent/) [or](/en/post/or/) [family](/en/post/family/) [environment](/en/post/environment/) [with](/en/post/with/) [high](/en/post/high/) expectations [and](/en/post/and/) [few](/en/post/few/) allowances.
+- "[Be](/post/be/) [strict](/post/strict/) [with](/post/with/) [someone](/post/someone/)" implies holding [them](/post/them/) accountable [or](/post/or/) enforcing rules firmly.
+- "[Under](/post/under/) [strict](/post/strict/) conditions" refers [to](/post/to/) circumstances [where](/post/where/) rules are [strictly](/post/strictly/) enforced.
+- "[A](/post/a/) [strict](/post/strict/) upbringing" suggests [a](/post/a/) [parent](/post/parent/) [or](/post/or/) [family](/post/family/) [environment](/post/environment/) [with](/post/with/) [high](/post/high/) expectations [and](/post/and/) [few](/post/few/) allowances.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) has [a](/en/post/a/) [strict](/en/post/strict/) [policy](/en/post/policy/) [against](/en/post/against/) tardiness."
-- **[Adjective](/en/post/adjective/)**: "She's [strict](/en/post/strict/) [about](/en/post/about/) keeping [her](/en/post/her/) workspace organized."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) chef insisted [on](/en/post/on/) [following](/en/post/following/) [the](/en/post/the/) recipe [strictly](/en/post/strictly/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) has [a](/post/a/) [strict](/post/strict/) [policy](/post/policy/) [against](/post/against/) tardiness."
+- **[Adjective](/post/adjective/)**: "She's [strict](/post/strict/) [about](/post/about/) keeping [her](/post/her/) workspace organized."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) chef insisted [on](/post/on/) [following](/post/following/) [the](/post/the/) recipe [strictly](/post/strictly/)."
 
 ## Synonyms
 - Rigorous
-- [Severe](/en/post/severe/)
-- [Strictly](/en/post/strictly/)
+- [Severe](/post/severe/)
+- [Strictly](/post/strictly/)
 - Stringent
 - Uncompromising
 - Demanding
@@ -49,7 +49,7 @@ keywords = ['ai words', 'strict']
 ## Antonyms
 - Lenient
 - Permissive
-- [Flexible](/en/post/flexible/)
+- [Flexible](/post/flexible/)
 - Lax
-- [Loose](/en/post/loose/)
-- [Indifferent](/en/post/indifferent/)
+- [Loose](/post/loose/)
+- [Indifferent](/post/indifferent/)

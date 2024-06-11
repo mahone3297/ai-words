@@ -7,31 +7,31 @@ description = '[gest] n.客人，宾客；旅客'
 keywords = ['ai words', 'guest']
 +++
 
-## [Word](/en/post/word/): [Guest](/en/post/guest/)
+## [Word](/post/word/): [Guest](/post/guest/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡɛst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has been invited [to](/en/post/to/) [visit](/en/post/visit/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [attend](/en/post/attend/) an [event](/en/post/event/), [especially](/en/post/especially/) [someone](/en/post/someone/) staying temporarily [in](/en/post/in/) [someone](/en/post/someone/) else's [home](/en/post/home/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [host](/en/post/host/) welcomed [his](/en/post/his/) guests warmly [into](/en/post/into/) [the](/en/post/the/) [house](/en/post/house/)."
-- **[Noun](/en/post/noun/) (derivative [usage](/en/post/usage/))**: [A](/en/post/a/) participant [in](/en/post/in/) [a](/en/post/a/) [show](/en/post/show/), [talk](/en/post/talk/), [or](/en/post/or/) [game](/en/post/game/), [often](/en/post/often/) [as](/en/post/as/) [a](/en/post/a/) non-regular contributor. [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [talk](/en/post/talk/) [show](/en/post/show/) [host](/en/post/host/) interviewed [a](/en/post/a/) renowned chef [as](/en/post/as/) [their](/en/post/their/) [guest](/en/post/guest/) [on](/en/post/on/) [the](/en/post/the/) [program](/en/post/program/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) has been invited [to](/post/to/) [visit](/post/visit/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [attend](/post/attend/) an [event](/post/event/), [especially](/post/especially/) [someone](/post/someone/) staying temporarily [in](/post/in/) [someone](/post/someone/) else's [home](/post/home/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [host](/post/host/) welcomed [his](/post/his/) guests warmly [into](/post/into/) [the](/post/the/) [house](/post/house/)."
+- **[Noun](/post/noun/) (derivative [usage](/post/usage/))**: [A](/post/a/) participant [in](/post/in/) [a](/post/a/) [show](/post/show/), [talk](/post/talk/), [or](/post/or/) [game](/post/game/), [often](/post/often/) [as](/post/as/) [a](/post/a/) non-regular contributor. [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [talk](/post/talk/) [show](/post/show/) [host](/post/host/) interviewed [a](/post/a/) renowned chef [as](/post/as/) [their](/post/their/) [guest](/post/guest/) [on](/post/on/) [the](/post/the/) [program](/post/program/)."
   
 ### Phrases
-- "[Guest](/en/post/guest/) [of](/en/post/of/) honor": [The](/en/post/the/) [most](/en/post/most/) esteemed [or](/en/post/or/) distinguished [visitor](/en/post/visitor/) [at](/en/post/at/) an [event](/en/post/event/) [or](/en/post/or/) gathering.
-- "Check-in [as](/en/post/as/) [a](/en/post/a/) [guest](/en/post/guest/)": [To](/en/post/to/) [register](/en/post/register/) one's [presence](/en/post/presence/) [at](/en/post/at/) [a](/en/post/a/) [hotel](/en/post/hotel/), [event](/en/post/event/), [or](/en/post/or/) online [platform](/en/post/platform/) [without](/en/post/without/) creating [a](/en/post/a/) [permanent](/en/post/permanent/) [account](/en/post/account/).
-- "[Be](/en/post/be/) [a](/en/post/a/) [good](/en/post/good/)/[great](/en/post/great/) houseguest": Behaving politely [and](/en/post/and/) responsibly [when](/en/post/when/) staying [at](/en/post/at/) [someone](/en/post/someone/) else's [home](/en/post/home/).
+- "[Guest](/post/guest/) [of](/post/of/) honor": [The](/post/the/) [most](/post/most/) esteemed [or](/post/or/) distinguished [visitor](/post/visitor/) [at](/post/at/) an [event](/post/event/) [or](/post/or/) gathering.
+- "Check-in [as](/post/as/) [a](/post/a/) [guest](/post/guest/)": [To](/post/to/) [register](/post/register/) one's [presence](/post/presence/) [at](/post/at/) [a](/post/a/) [hotel](/post/hotel/), [event](/post/event/), [or](/post/or/) online [platform](/post/platform/) [without](/post/without/) creating [a](/post/a/) [permanent](/post/permanent/) [account](/post/account/).
+- "[Be](/post/be/) [a](/post/a/) [good](/post/good/)/[great](/post/great/) houseguest": Behaving politely [and](/post/and/) responsibly [when](/post/when/) staying [at](/post/at/) [someone](/post/someone/) else's [home](/post/home/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([visitor](/en/post/visitor/))**: "[During](/en/post/during/) [the](/en/post/the/) [holiday](/en/post/holiday/) [season](/en/post/season/), [they](/en/post/they/) hosted [several](/en/post/several/) guests [from](/en/post/from/) [out](/en/post/out/) [of](/en/post/of/) [town](/en/post/town/)."
-- **[Noun](/en/post/noun/) (participant)**: "[The](/en/post/the/) [famous](/en/post/famous/) [author](/en/post/author/) was [a](/en/post/a/) [guest](/en/post/guest/) [on](/en/post/on/) [the](/en/post/the/) podcast discussing [her](/en/post/her/) [new](/en/post/new/) [book](/en/post/book/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([visitor](/post/visitor/))**: "[During](/post/during/) [the](/post/the/) [holiday](/post/holiday/) [season](/post/season/), [they](/post/they/) hosted [several](/post/several/) guests [from](/post/from/) [out](/post/out/) [of](/post/of/) [town](/post/town/)."
+- **[Noun](/post/noun/) (participant)**: "[The](/post/the/) [famous](/post/famous/) [author](/post/author/) was [a](/post/a/) [guest](/post/guest/) [on](/post/on/) [the](/post/the/) podcast discussing [her](/post/her/) [new](/post/new/) [book](/post/book/)."
 
 ## Synonyms
-- [Visitor](/en/post/visitor/)
+- [Visitor](/post/visitor/)
 - Invitee
 - Attendee
 - Houseguest
 - Participant
-- [Invite](/en/post/invite/)
-- Honored [guest](/en/post/guest/)
+- [Invite](/post/invite/)
+- Honored [guest](/post/guest/)
 - Non-member
-- [Temporary](/en/post/temporary/) [resident](/en/post/resident/)
+- [Temporary](/post/temporary/) [resident](/post/resident/)

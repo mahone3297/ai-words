@@ -12,20 +12,20 @@ keywords = ['ai words', 'refresh']
 
 ## 释义
 - **动词**:
-  - 使恢复精力；使清新：例如 "[A](/post/a/) [cold](/post/cold/) [drink](/post/drink/) [really](/post/really/) refreshes [on](/post/on/) [a](/post/a/) [hot](/post/hot/) [day](/post/day/)."
-  - 刷新；更新：例如 "I refreshed [the](/post/the/) webpage [to](/post/to/) [see](/post/see/) [if](/post/if/) [there](/post/there/) were [any](/post/any/) updates."
+  - 使恢复精力；使清新：例如 "[A](/zh/post/a/) [cold](/zh/post/cold/) [drink](/zh/post/drink/) [really](/zh/post/really/) refreshes [on](/zh/post/on/) [a](/zh/post/a/) [hot](/zh/post/hot/) [day](/zh/post/day/)."
+  - 刷新；更新：例如 "I refreshed [the](/zh/post/the/) webpage [to](/zh/post/to/) [see](/zh/post/see/) [if](/zh/post/if/) [there](/zh/post/there/) were [any](/zh/post/any/) updates."
 
 ## 短语
-- "[refresh](/post/refresh/) [oneself](/post/oneself/)" 意为恢复体力或精神，例如 "[After](/post/after/) [a](/post/a/) [nap](/post/nap/), [he](/post/he/) felt refreshed."
-- "[refresh](/post/refresh/) one's [memory](/post/memory/)" 指复习以唤起记忆，例如 "[Let](/post/let/) [me](/post/me/) [refresh](/post/refresh/) [my](/post/my/) [memory](/post/memory/) [by](/post/by/) looking [at](/post/at/) [the](/post/the/) notes [again](/post/again/)."
+- "[refresh](/zh/post/refresh/) [oneself](/zh/post/oneself/)" 意为恢复体力或精神，例如 "[After](/zh/post/after/) [a](/zh/post/a/) [nap](/zh/post/nap/), [he](/zh/post/he/) felt refreshed."
+- "[refresh](/zh/post/refresh/) one's [memory](/zh/post/memory/)" 指复习以唤起记忆，例如 "[Let](/zh/post/let/) [me](/zh/post/me/) [refresh](/zh/post/refresh/) [my](/zh/post/my/) [memory](/zh/post/memory/) [by](/zh/post/by/) looking [at](/zh/post/at/) [the](/zh/post/the/) notes [again](/zh/post/again/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [cool](/post/cool/) [breeze](/post/breeze/) refreshed [us](/post/us/) [after](/post/after/) [a](/post/a/) [long](/post/long/) hike."
-- "Refreshing [the](/post/the/) [page](/post/page/) [often](/post/often/) helps [to](/post/to/) [ensure](/post/ensure/) [you](/post/you/) [have](/post/have/) [the](/post/the/) latest [information](/post/information/)."
+- 动词: "[The](/zh/post/the/) [cool](/zh/post/cool/) [breeze](/zh/post/breeze/) refreshed [us](/zh/post/us/) [after](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) hike."
+- "Refreshing [the](/zh/post/the/) [page](/zh/post/page/) [often](/zh/post/often/) helps [to](/zh/post/to/) [ensure](/zh/post/ensure/) [you](/zh/post/you/) [have](/zh/post/have/) [the](/zh/post/the/) latest [information](/zh/post/information/)."
 
 ## 同义词
 - rejuvenate
 - revitalize
-- [renew](/post/renew/)
+- [renew](/zh/post/renew/)
 - update
 - recharge

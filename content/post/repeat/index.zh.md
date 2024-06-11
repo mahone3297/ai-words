@@ -12,22 +12,22 @@ keywords = ['ai words', 'repeat']
 
 ## 释义
 - **动词**:
-1. 重复；再说一遍。例如: "[Can](/post/can/) [you](/post/you/) [please](/post/please/) [repeat](/post/repeat/) [the](/post/the/) [question](/post/question/)?" 
-2. 复制；再现。例如: "[The](/post/the/) [song](/post/song/) is [often](/post/often/) repeated [on](/post/on/) [the](/post/the/) [radio](/post/radio/)."
-3. （在时间上）再次发生。例如: "[The](/post/the/) [same](/post/same/) [mistake](/post/mistake/) repeated [itself](/post/itself/) [during](/post/during/) [the](/post/the/) [exam](/post/exam/)."
+1. 重复；再说一遍。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [please](/zh/post/please/) [repeat](/zh/post/repeat/) [the](/zh/post/the/) [question](/zh/post/question/)?" 
+2. 复制；再现。例如: "[The](/zh/post/the/) [song](/zh/post/song/) is [often](/zh/post/often/) repeated [on](/zh/post/on/) [the](/zh/post/the/) [radio](/zh/post/radio/)."
+3. （在时间上）再次发生。例如: "[The](/zh/post/the/) [same](/zh/post/same/) [mistake](/zh/post/mistake/) repeated [itself](/zh/post/itself/) [during](/zh/post/during/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
 
 ## 短语
-- "[Repeat](/post/repeat/) [after](/post/after/) [me](/post/me/)" 让别人跟着你说同样的话。
-- "[Repeat](/post/repeat/) [the](/post/the/) [process](/post/process/)" 重复这个过程。
+- "[Repeat](/zh/post/repeat/) [after](/zh/post/after/) [me](/zh/post/me/)" 让别人跟着你说同样的话。
+- "[Repeat](/zh/post/repeat/) [the](/zh/post/the/) [process](/zh/post/process/)" 重复这个过程。
 
 ## 例句
-- 动词: "I missed [what](/post/what/) [you](/post/you/) said, [could](/post/could/) [you](/post/you/) [repeat](/post/repeat/) [it](/post/it/) [slowly](/post/slowly/)?" 
-- "[The](/post/the/) [teacher](/post/teacher/) asked [us](/post/us/) [to](/post/to/) [repeat](/post/repeat/) [the](/post/the/) multiplication tables."
-- "[The](/post/the/) [pattern](/post/pattern/) repeats [every](/post/every/) [four](/post/four/) bars [in](/post/in/) [the](/post/the/) [music](/post/music/)."
+- 动词: "I missed [what](/zh/post/what/) [you](/zh/post/you/) said, [could](/zh/post/could/) [you](/zh/post/you/) [repeat](/zh/post/repeat/) [it](/zh/post/it/) [slowly](/zh/post/slowly/)?" 
+- "[The](/zh/post/the/) [teacher](/zh/post/teacher/) asked [us](/zh/post/us/) [to](/zh/post/to/) [repeat](/zh/post/repeat/) [the](/zh/post/the/) multiplication tables."
+- "[The](/zh/post/the/) [pattern](/zh/post/pattern/) repeats [every](/zh/post/every/) [four](/zh/post/four/) bars [in](/zh/post/in/) [the](/zh/post/the/) [music](/zh/post/music/)."
 
 ## 同义词
 - Reiterate
 - Redo
 - Recap
 - Reread
-- [Retell](/post/retell/)
+- [Retell](/zh/post/retell/)

@@ -7,37 +7,37 @@ description = '[ˈeidʒənt] n.代理人，代理商'
 keywords = ['ai words', 'agent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeɪdʒənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) acts [on](/en/post/on/) [behalf](/en/post/behalf/) [of](/en/post/of/) [another](/en/post/another/), [often](/en/post/often/) [with](/en/post/with/) [specific](/en/post/specific/) [authority](/en/post/authority/) [or](/en/post/or/) [commission](/en/post/commission/): *an [insurance](/en/post/insurance/) [agent](/en/post/agent/)*.
-2. An [agency](/en/post/agency/) [or](/en/post/or/) [company](/en/post/company/) [that](/en/post/that/) represents clients [in](/en/post/in/) [business](/en/post/business/) transactions: *[a](/en/post/a/) [talent](/en/post/talent/) [agent](/en/post/agent/)*.
-3. [A](/en/post/a/) software [program](/en/post/program/) [or](/en/post/or/) [process](/en/post/process/) [that](/en/post/that/) performs automated tasks: *[a](/en/post/a/) virus [protection](/en/post/protection/) [agent](/en/post/agent/)*.
-4. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) influences events [or](/en/post/or/) others, [often](/en/post/often/) subtly: *[a](/en/post/a/) [political](/en/post/political/) [agent](/en/post/agent/)*.
+### [Noun](/post/noun/)
+1. [A](/post/a/) [person](/post/person/) [who](/post/who/) acts [on](/post/on/) [behalf](/post/behalf/) [of](/post/of/) [another](/post/another/), [often](/post/often/) [with](/post/with/) [specific](/post/specific/) [authority](/post/authority/) [or](/post/or/) [commission](/post/commission/): *an [insurance](/post/insurance/) [agent](/post/agent/)*.
+2. An [agency](/post/agency/) [or](/post/or/) [company](/post/company/) [that](/post/that/) represents clients [in](/post/in/) [business](/post/business/) transactions: *[a](/post/a/) [talent](/post/talent/) [agent](/post/agent/)*.
+3. [A](/post/a/) software [program](/post/program/) [or](/post/or/) [process](/post/process/) [that](/post/that/) performs automated tasks: *[a](/post/a/) virus [protection](/post/protection/) [agent](/post/agent/)*.
+4. [A](/post/a/) [person](/post/person/) [who](/post/who/) influences events [or](/post/or/) others, [often](/post/often/) subtly: *[a](/post/a/) [political](/post/political/) [agent](/post/agent/)*.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) an intermediary [or](/en/post/or/) [representative](/en/post/representative/): *[The](/en/post/the/) [agent](/en/post/agent/) negotiated [the](/en/post/the/) [deal](/en/post/deal/) [on](/en/post/on/) [behalf](/en/post/behalf/) [of](/en/post/of/) [the](/en/post/the/) client*.
-2. [To](/en/post/to/) [operate](/en/post/operate/) [or](/en/post/or/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [specific](/en/post/specific/) [thing](/en/post/thing/) [or](/en/post/or/) [tool](/en/post/tool/): *[This](/en/post/this/) [agent](/en/post/agent/) cleans [the](/en/post/the/) [system](/en/post/system/) automatically*.
+### [Verb](/post/verb/)
+1. [To](/post/to/) [act](/post/act/) [as](/post/as/) an intermediary [or](/post/or/) [representative](/post/representative/): *[The](/post/the/) [agent](/post/agent/) negotiated [the](/post/the/) [deal](/post/deal/) [on](/post/on/) [behalf](/post/behalf/) [of](/post/of/) [the](/post/the/) client*.
+2. [To](/post/to/) [operate](/post/operate/) [or](/post/or/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [specific](/post/specific/) [thing](/post/thing/) [or](/post/or/) [tool](/post/tool/): *[This](/post/this/) [agent](/post/agent/) cleans [the](/post/the/) [system](/post/system/) automatically*.
 
 ## Phrases
-- "[Act](/en/post/act/) [as](/en/post/as/) an [agent](/en/post/agent/)" [or](/en/post/or/) "[Represent](/en/post/represent/) [someone](/en/post/someone/)"
-- "[Agency](/en/post/agency/) representation"
-- "Software [agent](/en/post/agent/)" [or](/en/post/or/) "Agent-based systems"
-- "[Agent](/en/post/agent/) provocateur" ([a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) secretly incites [action](/en/post/action/), [usually](/en/post/usually/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/))
+- "[Act](/post/act/) [as](/post/as/) an [agent](/post/agent/)" [or](/post/or/) "[Represent](/post/represent/) [someone](/post/someone/)"
+- "[Agency](/post/agency/) representation"
+- "Software [agent](/post/agent/)" [or](/post/or/) "Agent-based systems"
+- "[Agent](/post/agent/) provocateur" ([a](/post/a/) [person](/post/person/) [who](/post/who/) secretly incites [action](/post/action/), [usually](/post/usually/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [real](/en/post/real/) estate [agent](/en/post/agent/) showed [us](/en/post/us/) [several](/en/post/several/) properties [before](/en/post/before/) [we](/en/post/we/) [found](/en/post/found/) [our](/en/post/our/) [dream](/en/post/dream/) [home](/en/post/home/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [IT](/en/post/it/) [department](/en/post/department/) installed [a](/en/post/a/) [new](/en/post/new/) virus [protection](/en/post/protection/) [agent](/en/post/agent/) [on](/en/post/on/) [all](/en/post/all/) workstations."
-- **[Agent](/en/post/agent/) provocateur**: "[The](/en/post/the/) [police](/en/post/police/) suspected [the](/en/post/the/) [suspect](/en/post/suspect/) was an [agent](/en/post/agent/) provocateur, trying [to](/en/post/to/) [stir](/en/post/stir/) [up](/en/post/up/) [trouble](/en/post/trouble/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [real](/post/real/) estate [agent](/post/agent/) showed [us](/post/us/) [several](/post/several/) properties [before](/post/before/) [we](/post/we/) [found](/post/found/) [our](/post/our/) [dream](/post/dream/) [home](/post/home/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [IT](/post/it/) [department](/post/department/) installed [a](/post/a/) [new](/post/new/) virus [protection](/post/protection/) [agent](/post/agent/) [on](/post/on/) [all](/post/all/) workstations."
+- **[Agent](/post/agent/) provocateur**: "[The](/post/the/) [police](/post/police/) suspected [the](/post/the/) [suspect](/post/suspect/) was an [agent](/post/agent/) provocateur, trying [to](/post/to/) [stir](/post/stir/) [up](/post/up/) [trouble](/post/trouble/)."
 
 ## Synonyms
-- [Representative](/en/post/representative/)
+- [Representative](/post/representative/)
 - Broker
 - Facilitator
 - Mediator
 - Go-between
 - Delegate
 - Proxy
-- [Operator](/en/post/operator/)
+- [Operator](/post/operator/)

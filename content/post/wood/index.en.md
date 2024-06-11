@@ -7,39 +7,39 @@ description = '[wud] n.树林，森林；木头'
 keywords = ['ai words', 'wood']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwʊd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Wood](/en/post/wood/)**: [A](/en/post/a/) [hard](/en/post/hard/), [dense](/en/post/dense/), [and](/en/post/and/) [often](/en/post/often/) fibrous [material](/en/post/material/) derived [from](/en/post/from/) [the](/en/post/the/) cells [of](/en/post/of/) trees, [used](/en/post/used/) [for](/en/post/for/) [various](/en/post/various/) purposes [such](/en/post/such/) [as](/en/post/as/) [fuel](/en/post/fuel/), [construction](/en/post/construction/), [furniture](/en/post/furniture/), [and](/en/post/and/) [art](/en/post/art/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) was built entirely [of](/en/post/of/) [oak](/en/post/oak/) [wood](/en/post/wood/)."
-2. **[Forest](/en/post/forest/)**: An [area](/en/post/area/) covered [with](/en/post/with/) trees [and](/en/post/and/) undergrowth, typically considered [as](/en/post/as/) [a](/en/post/a/) [natural](/en/post/natural/) habitat. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [forest](/en/post/forest/) is [home](/en/post/home/) [to](/en/post/to/) [many](/en/post/many/) endangered species."
-3. **Woodland**: [Land](/en/post/land/) covered [with](/en/post/with/) trees [and](/en/post/and/) shrubs, [often](/en/post/often/) mixed [with](/en/post/with/) grasslands. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) stroll [through](/en/post/through/) [the](/en/post/the/) tranquil woodland was [very](/en/post/very/) refreshing."
+### [Noun](/post/noun/)
+1. **[Wood](/post/wood/)**: [A](/post/a/) [hard](/post/hard/), [dense](/post/dense/), [and](/post/and/) [often](/post/often/) fibrous [material](/post/material/) derived [from](/post/from/) [the](/post/the/) cells [of](/post/of/) trees, [used](/post/used/) [for](/post/for/) [various](/post/various/) purposes [such](/post/such/) [as](/post/as/) [fuel](/post/fuel/), [construction](/post/construction/), [furniture](/post/furniture/), [and](/post/and/) [art](/post/art/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [house](/post/house/) was built entirely [of](/post/of/) [oak](/post/oak/) [wood](/post/wood/)."
+2. **[Forest](/post/forest/)**: An [area](/post/area/) covered [with](/post/with/) trees [and](/post/and/) undergrowth, typically considered [as](/post/as/) [a](/post/a/) [natural](/post/natural/) habitat. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [forest](/post/forest/) is [home](/post/home/) [to](/post/to/) [many](/post/many/) endangered species."
+3. **Woodland**: [Land](/post/land/) covered [with](/post/with/) trees [and](/post/and/) shrubs, [often](/post/often/) mixed [with](/post/with/) grasslands. [For](/post/for/) [example](/post/example/): "[A](/post/a/) stroll [through](/post/through/) [the](/post/the/) tranquil woodland was [very](/post/very/) refreshing."
 
-### [Verb](/en/post/verb/) (Transitive)
-1. [To](/en/post/to/) [cut](/en/post/cut/), [gather](/en/post/gather/), [or](/en/post/or/) [supply](/en/post/supply/) [wood](/en/post/wood/) [for](/en/post/for/) burning [or](/en/post/or/) [construction](/en/post/construction/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [carpenter](/en/post/carpenter/) was sawing [wood](/en/post/wood/) [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [deck](/en/post/deck/)."
-2. [To](/en/post/to/) [carve](/en/post/carve/) [or](/en/post/or/) [shape](/en/post/shape/) [wood](/en/post/wood/) [into](/en/post/into/) objects. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spent hours whittling [a](/en/post/a/) [wooden](/en/post/wooden/) figurine."
+### [Verb](/post/verb/) (Transitive)
+1. [To](/post/to/) [cut](/post/cut/), [gather](/post/gather/), [or](/post/or/) [supply](/post/supply/) [wood](/post/wood/) [for](/post/for/) burning [or](/post/or/) [construction](/post/construction/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [carpenter](/post/carpenter/) was sawing [wood](/post/wood/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [deck](/post/deck/)."
+2. [To](/post/to/) [carve](/post/carve/) [or](/post/or/) [shape](/post/shape/) [wood](/post/wood/) [into](/post/into/) objects. [For](/post/for/) [example](/post/example/): "[She](/post/she/) spent hours whittling [a](/post/a/) [wooden](/post/wooden/) figurine."
 
-### [Adjective](/en/post/adjective/)
-1. Made [of](/en/post/of/) [wood](/en/post/wood/) [or](/en/post/or/) consisting [of](/en/post/of/) [wood](/en/post/wood/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wooden](/en/post/wooden/) [table](/en/post/table/) has [a](/en/post/a/) rustic charm."
-2. Connected [with](/en/post/with/) forestry [or](/en/post/or/) woodworking. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) woodworker specializes [in](/en/post/in/) creating [custom](/en/post/custom/) [furniture](/en/post/furniture/)."
+### [Adjective](/post/adjective/)
+1. Made [of](/post/of/) [wood](/post/wood/) [or](/post/or/) consisting [of](/post/of/) [wood](/post/wood/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wooden](/post/wooden/) [table](/post/table/) has [a](/post/a/) rustic charm."
+2. Connected [with](/post/with/) forestry [or](/post/or/) woodworking. [For](/post/for/) [example](/post/example/): "[The](/post/the/) woodworker specializes [in](/post/in/) creating [custom](/post/custom/) [furniture](/post/furniture/)."
 
 ## Phrases
-- "[Carve](/en/post/carve/) [wood](/en/post/wood/)" refers [to](/en/post/to/) [the](/en/post/the/) [art](/en/post/art/) [of](/en/post/of/) shaping [wood](/en/post/wood/) using tools.
-- "[Split](/en/post/split/) [some](/en/post/some/) firewood" [means](/en/post/means/) [to](/en/post/to/) [break](/en/post/break/) [wood](/en/post/wood/) [into](/en/post/into/) smaller pieces [for](/en/post/for/) burning.
-- "[Wooden](/en/post/wooden/) floors" are [those](/en/post/those/) made [of](/en/post/of/) [solid](/en/post/solid/) [wood](/en/post/wood/) planks.
+- "[Carve](/post/carve/) [wood](/post/wood/)" refers [to](/post/to/) [the](/post/the/) [art](/post/art/) [of](/post/of/) shaping [wood](/post/wood/) using tools.
+- "[Split](/post/split/) [some](/post/some/) firewood" [means](/post/means/) [to](/post/to/) [break](/post/break/) [wood](/post/wood/) [into](/post/into/) smaller pieces [for](/post/for/) burning.
+- "[Wooden](/post/wooden/) floors" are [those](/post/those/) made [of](/post/of/) [solid](/post/solid/) [wood](/post/wood/) planks.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) wood-burning [stove](/en/post/stove/) [provided](/en/post/provided/) [warmth](/en/post/warmth/) [on](/en/post/on/) [cold](/en/post/cold/) [winter](/en/post/winter/) nights."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [carpenter](/en/post/carpenter/) was [busy](/en/post/busy/) chopping [wood](/en/post/wood/) [for](/en/post/for/) [the](/en/post/the/) [construction](/en/post/construction/) [project](/en/post/project/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [wooden](/en/post/wooden/) [bench](/en/post/bench/) had [a](/en/post/a/) [smooth](/en/post/smooth/), polished [finish](/en/post/finish/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) wood-burning [stove](/post/stove/) [provided](/post/provided/) [warmth](/post/warmth/) [on](/post/on/) [cold](/post/cold/) [winter](/post/winter/) nights."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [carpenter](/post/carpenter/) was [busy](/post/busy/) chopping [wood](/post/wood/) [for](/post/for/) [the](/post/the/) [construction](/post/construction/) [project](/post/project/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [wooden](/post/wooden/) [bench](/post/bench/) had [a](/post/a/) [smooth](/post/smooth/), polished [finish](/post/finish/)."
 
 ## Synonyms
-- [Lumber](/en/post/lumber/)
-- [Timber](/en/post/timber/)
+- [Lumber](/post/lumber/)
+- [Timber](/post/timber/)
 - Plank
-- [Forest](/en/post/forest/) products
+- [Forest](/post/forest/) products
 - Woodsy
-- [Wooden](/en/post/wooden/)
-- [Natural](/en/post/natural/) [timber](/en/post/timber/)
-- Hardwood ([for](/en/post/for/) [specific](/en/post/specific/) types)
+- [Wooden](/post/wooden/)
+- [Natural](/post/natural/) [timber](/post/timber/)
+- Hardwood ([for](/post/for/) [specific](/post/specific/) types)

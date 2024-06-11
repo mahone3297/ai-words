@@ -7,42 +7,42 @@ description = '[weist] n.浪费；废物；垃圾'
 keywords = ['ai words', 'waste']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /weɪst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Waste](/en/post/waste/)**: 1. Unwanted [or](/en/post/or/) unused [material](/en/post/material/) [that](/en/post/that/) is discarded, thrown [away](/en/post/away/), [or](/en/post/or/) [no](/en/post/no/) longer serves [a](/en/post/a/) [purpose](/en/post/purpose/). "[The](/en/post/the/) [factory](/en/post/factory/) produces [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [waste](/en/post/waste/) products [every](/en/post/every/) [day](/en/post/day/)."
-- 2. [Excess](/en/post/excess/) [or](/en/post/or/) [unnecessary](/en/post/unnecessary/) [use](/en/post/use/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) referring [to](/en/post/to/) [time](/en/post/time/) [or](/en/post/or/) resources. "Don't [waste](/en/post/waste/) [your](/en/post/your/) [time](/en/post/time/) [on](/en/post/on/) trivial matters."
+### [Noun](/post/noun/)
+- **[Waste](/post/waste/)**: 1. Unwanted [or](/post/or/) unused [material](/post/material/) [that](/post/that/) is discarded, thrown [away](/post/away/), [or](/post/or/) [no](/post/no/) longer serves [a](/post/a/) [purpose](/post/purpose/). "[The](/post/the/) [factory](/post/factory/) produces [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [waste](/post/waste/) products [every](/post/every/) [day](/post/day/)."
+- 2. [Excess](/post/excess/) [or](/post/or/) [unnecessary](/post/unnecessary/) [use](/post/use/) [of](/post/of/) [something](/post/something/), [often](/post/often/) referring [to](/post/to/) [time](/post/time/) [or](/post/or/) resources. "Don't [waste](/post/waste/) [your](/post/your/) [time](/post/time/) [on](/post/on/) trivial matters."
 
-### [Verb](/en/post/verb/)
-- **[Waste](/en/post/waste/)**: 1. [To](/en/post/to/) [dispose](/en/post/dispose/) [of](/en/post/of/) [or](/en/post/or/) [get](/en/post/get/) [rid](/en/post/rid/) [of](/en/post/of/) [something](/en/post/something/) [without](/en/post/without/) using [it](/en/post/it/) effectively. "[They](/en/post/they/) wasted [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [food](/en/post/food/) [at](/en/post/at/) [the](/en/post/the/) [picnic](/en/post/picnic/)."
-- 2. [To](/en/post/to/) [spend](/en/post/spend/) ([time](/en/post/time/), [effort](/en/post/effort/), [or](/en/post/or/) [money](/en/post/money/)) [in](/en/post/in/) [a](/en/post/a/) [useless](/en/post/useless/) [or](/en/post/or/) [inefficient](/en/post/inefficient/) [manner](/en/post/manner/). "[She](/en/post/she/) wasted hours trying [to](/en/post/to/) [fix](/en/post/fix/) [the](/en/post/the/) [broken](/en/post/broken/) [toy](/en/post/toy/)."
+### [Verb](/post/verb/)
+- **[Waste](/post/waste/)**: 1. [To](/post/to/) [dispose](/post/dispose/) [of](/post/of/) [or](/post/or/) [get](/post/get/) [rid](/post/rid/) [of](/post/of/) [something](/post/something/) [without](/post/without/) using [it](/post/it/) effectively. "[They](/post/they/) wasted [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [food](/post/food/) [at](/post/at/) [the](/post/the/) [picnic](/post/picnic/)."
+- 2. [To](/post/to/) [spend](/post/spend/) ([time](/post/time/), [effort](/post/effort/), [or](/post/or/) [money](/post/money/)) [in](/post/in/) [a](/post/a/) [useless](/post/useless/) [or](/post/or/) [inefficient](/post/inefficient/) [manner](/post/manner/). "[She](/post/she/) wasted hours trying [to](/post/to/) [fix](/post/fix/) [the](/post/the/) [broken](/post/broken/) [toy](/post/toy/)."
 
-### [Adjective](/en/post/adjective/)
-- **Wasteful**: Causing [or](/en/post/or/) characterized [by](/en/post/by/) [excessive](/en/post/excessive/) [use](/en/post/use/) [or](/en/post/or/) [consumption](/en/post/consumption/), [often](/en/post/often/) [of](/en/post/of/) resources. "[Their](/en/post/their/) manufacturing [process](/en/post/process/) was [found](/en/post/found/) [to](/en/post/to/) [be](/en/post/be/) wasteful."
+### [Adjective](/post/adjective/)
+- **Wasteful**: Causing [or](/post/or/) characterized [by](/post/by/) [excessive](/post/excessive/) [use](/post/use/) [or](/post/or/) [consumption](/post/consumption/), [often](/post/often/) [of](/post/of/) resources. "[Their](/post/their/) manufacturing [process](/post/process/) was [found](/post/found/) [to](/post/to/) [be](/post/be/) wasteful."
 
-### [Adverb](/en/post/adverb/)
-- **Wastefully**: [In](/en/post/in/) [a](/en/post/a/) wasteful [manner](/en/post/manner/); unproductively. "[He](/en/post/he/) worked wastefully [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/), [without](/en/post/without/) [a](/en/post/a/) [clear](/en/post/clear/) [plan](/en/post/plan/)."
+### [Adverb](/post/adverb/)
+- **Wastefully**: [In](/post/in/) [a](/post/a/) wasteful [manner](/post/manner/); unproductively. "[He](/post/he/) worked wastefully [on](/post/on/) [the](/post/the/) [project](/post/project/), [without](/post/without/) [a](/post/a/) [clear](/post/clear/) [plan](/post/plan/)."
 
 ## Phrases
-- "[Reduce](/en/post/reduce/), reuse, [and](/en/post/and/) recycle" is [a](/en/post/a/) [popular](/en/post/popular/) [phrase](/en/post/phrase/) promoting [waste](/en/post/waste/) [reduction](/en/post/reduction/).
-- "[Prevent](/en/post/prevent/) [waste](/en/post/waste/)" emphasizes [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) avoiding [unnecessary](/en/post/unnecessary/) [consumption](/en/post/consumption/).
-- "[Waste](/en/post/waste/) [not](/en/post/not/), [want](/en/post/want/) [not](/en/post/not/)" is an [old](/en/post/old/) saying encouraging frugality.
+- "[Reduce](/post/reduce/), reuse, [and](/post/and/) recycle" is [a](/post/a/) [popular](/post/popular/) [phrase](/post/phrase/) promoting [waste](/post/waste/) [reduction](/post/reduction/).
+- "[Prevent](/post/prevent/) [waste](/post/waste/)" emphasizes [the](/post/the/) [importance](/post/importance/) [of](/post/of/) avoiding [unnecessary](/post/unnecessary/) [consumption](/post/consumption/).
+- "[Waste](/post/waste/) [not](/post/not/), [want](/post/want/) [not](/post/not/)" is an [old](/post/old/) saying encouraging frugality.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [city](/en/post/city/) has implemented [a](/en/post/a/) [waste](/en/post/waste/) [management](/en/post/management/) [program](/en/post/program/) [to](/en/post/to/) [reduce](/en/post/reduce/) [the](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) trash produced."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) vowed [to](/en/post/to/) [stop](/en/post/stop/) wasting [his](/en/post/his/) [talent](/en/post/talent/) [by](/en/post/by/) choosing [a](/en/post/a/) [better](/en/post/better/) [career](/en/post/career/) [path](/en/post/path/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [government](/en/post/government/) aims [to](/en/post/to/) [make](/en/post/make/) [its](/en/post/its/) operations [less](/en/post/less/) wasteful [through](/en/post/through/) energy-efficient practices."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) worked wastefully [on](/en/post/on/) [the](/en/post/the/) [assignment](/en/post/assignment/), leaving [it](/en/post/it/) incomplete."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [city](/post/city/) has implemented [a](/post/a/) [waste](/post/waste/) [management](/post/management/) [program](/post/program/) [to](/post/to/) [reduce](/post/reduce/) [the](/post/the/) [amount](/post/amount/) [of](/post/of/) trash produced."
+- **[Verb](/post/verb/)**: "[He](/post/he/) vowed [to](/post/to/) [stop](/post/stop/) wasting [his](/post/his/) [talent](/post/talent/) [by](/post/by/) choosing [a](/post/a/) [better](/post/better/) [career](/post/career/) [path](/post/path/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [government](/post/government/) aims [to](/post/to/) [make](/post/make/) [its](/post/its/) operations [less](/post/less/) wasteful [through](/post/through/) energy-efficient practices."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) worked wastefully [on](/post/on/) [the](/post/the/) [assignment](/post/assignment/), leaving [it](/post/it/) incomplete."
 
 ## Synonyms
 - Trash
-- [Rubbish](/en/post/rubbish/)
-- [Garbage](/en/post/garbage/)
-- [Excess](/en/post/excess/)
+- [Rubbish](/post/rubbish/)
+- [Garbage](/post/garbage/)
+- [Excess](/post/excess/)
 - Superfluous
 - Imprudent
 - Prodigal
-- Throwing [away](/en/post/away/)
+- Throwing [away](/post/away/)
 - Unproductive

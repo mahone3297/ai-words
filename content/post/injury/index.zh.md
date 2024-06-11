@@ -11,20 +11,20 @@ keywords = ['ai words', 'injury']
 /ˈɪndʒəri/
 
 ## 释义
-- **名词**: 身体或情感上的伤害；损害。例如: "[He](/post/he/) suffered [a](/post/a/) [serious](/post/serious/) [injury](/post/injury/) [in](/post/in/) [the](/post/the/) [accident](/post/accident/)."
-- **动词**: 使受伤；损害。例如: "[Careless](/post/careless/) driving [can](/post/can/) [injury](/post/injury/) [not](/post/not/) [only](/post/only/) [the](/post/the/) [driver](/post/driver/) [but](/post/but/) [also](/post/also/) [other](/post/other/) [road](/post/road/) users."
+- **名词**: 身体或情感上的伤害；损害。例如: "[He](/zh/post/he/) suffered [a](/zh/post/a/) [serious](/zh/post/serious/) [injury](/zh/post/injury/) [in](/zh/post/in/) [the](/zh/post/the/) [accident](/zh/post/accident/)."
+- **动词**: 使受伤；损害。例如: "[Careless](/zh/post/careless/) driving [can](/zh/post/can/) [injury](/zh/post/injury/) [not](/zh/post/not/) [only](/zh/post/only/) [the](/zh/post/the/) [driver](/zh/post/driver/) [but](/zh/post/but/) [also](/zh/post/also/) [other](/zh/post/other/) [road](/zh/post/road/) users."
 
 ## 短语
-- "[Injury](/post/injury/) prone" 指容易受伤的。
-- "[Injure](/post/injure/) [oneself](/post/oneself/)" 意味着不小心伤害到自己。
+- "[Injury](/zh/post/injury/) prone" 指容易受伤的。
+- "[Injure](/zh/post/injure/) [oneself](/zh/post/oneself/)" 意味着不小心伤害到自己。
 
 ## 例句
-- 名词: "[The](/post/the/) [football](/post/football/) [player](/post/player/) is [out](/post/out/) [for](/post/for/) [the](/post/the/) [season](/post/season/) [due](/post/due/) [to](/post/to/) [a](/post/a/) [knee](/post/knee/) [injury](/post/injury/)."
-- 动词: "Slipping [on](/post/on/) [the](/post/the/) [ice](/post/ice/) [can](/post/can/) [easily](/post/easily/) [injury](/post/injury/) [your](/post/your/) [back](/post/back/)."
+- 名词: "[The](/zh/post/the/) [football](/zh/post/football/) [player](/zh/post/player/) is [out](/zh/post/out/) [for](/zh/post/for/) [the](/zh/post/the/) [season](/zh/post/season/) [due](/zh/post/due/) [to](/zh/post/to/) [a](/zh/post/a/) [knee](/zh/post/knee/) [injury](/zh/post/injury/)."
+- 动词: "Slipping [on](/zh/post/on/) [the](/zh/post/the/) [ice](/zh/post/ice/) [can](/zh/post/can/) [easily](/zh/post/easily/) [injury](/zh/post/injury/) [your](/zh/post/your/) [back](/zh/post/back/)."
 
 ## 同义词
-- [Harm](/post/harm/)
-- [Damage](/post/damage/)
-- [Wound](/post/wound/)
+- [Harm](/zh/post/harm/)
+- [Damage](/zh/post/damage/)
+- [Wound](/zh/post/wound/)
 - Trauma
 - Aggravation

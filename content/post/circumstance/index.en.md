@@ -7,40 +7,40 @@ description = '[ˈsəːkəmstəns] n.情况，条件；境遇'
 keywords = ['ai words', 'circumstance']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈstɪrəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/) [or](/en/post/or/) [set](/en/post/set/) [of](/en/post/of/) conditions [that](/en/post/that/) [surround](/en/post/surround/) [or](/en/post/or/) [affect](/en/post/affect/) [something](/en/post/something/). 2. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [fact](/en/post/fact/) [of](/en/post/of/) happening [by](/en/post/by/) [chance](/en/post/chance/) [or](/en/post/or/) coincidence. 3. [pl.] Circumstances: [The](/en/post/the/) [social](/en/post/social/), [economic](/en/post/economic/), [or](/en/post/or/) environmental conditions [in](/en/post/in/) [which](/en/post/which/) [someone](/en/post/someone/) lives [or](/en/post/or/) operates.
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [surround](/en/post/surround/) [or](/en/post/or/) envelop ([a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/)) [with](/en/post/with/) [particular](/en/post/particular/) conditions [or](/en/post/or/) events. [To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/) [or](/en/post/or/) [set](/en/post/set/) [of](/en/post/of/) conditions.
-- **[Adjective](/en/post/adjective/)**: Characterizing [or](/en/post/or/) describing [the](/en/post/the/) surrounding conditions [or](/en/post/or/) features [of](/en/post/of/) [a](/en/post/a/) [situation](/en/post/situation/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [particular](/post/particular/) [situation](/post/situation/) [or](/post/or/) [set](/post/set/) [of](/post/of/) conditions [that](/post/that/) [surround](/post/surround/) [or](/post/or/) [affect](/post/affect/) [something](/post/something/). 2. [The](/post/the/) [act](/post/act/) [or](/post/or/) [fact](/post/fact/) [of](/post/of/) happening [by](/post/by/) [chance](/post/chance/) [or](/post/or/) coincidence. 3. [pl.] Circumstances: [The](/post/the/) [social](/post/social/), [economic](/post/economic/), [or](/post/or/) environmental conditions [in](/post/in/) [which](/post/which/) [someone](/post/someone/) lives [or](/post/or/) operates.
+- **[Verb](/post/verb/)**: [To](/post/to/) [surround](/post/surround/) [or](/post/or/) envelop ([a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/)) [with](/post/with/) [particular](/post/particular/) conditions [or](/post/or/) events. [To](/post/to/) [be](/post/be/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/) [or](/post/or/) [set](/post/set/) [of](/post/of/) conditions.
+- **[Adjective](/post/adjective/)**: Characterizing [or](/post/or/) describing [the](/post/the/) surrounding conditions [or](/post/or/) features [of](/post/of/) [a](/post/a/) [situation](/post/situation/).
 
 ## Phrases
-- "[In](/en/post/in/) [certain](/en/post/certain/) circumstances"
-- "[Under](/en/post/under/) [extraordinary](/en/post/extraordinary/) circumstances"
-- "Given [the](/en/post/the/) circumstances"
-- "circumstances [beyond](/en/post/beyond/) one's [control](/en/post/control/)"
+- "[In](/post/in/) [certain](/post/certain/) circumstances"
+- "[Under](/post/under/) [extraordinary](/post/extraordinary/) circumstances"
+- "Given [the](/post/the/) circumstances"
+- "circumstances [beyond](/post/beyond/) one's [control](/post/control/)"
 - "circumstances permitting"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [success](/en/post/success/) [of](/en/post/of/) [the](/en/post/the/) [project](/en/post/project/) depended [on](/en/post/on/) [the](/en/post/the/) favorable circumstances."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) couldn't [reveal](/en/post/reveal/) [her](/en/post/her/) plans [until](/en/post/until/) [the](/en/post/the/) circumstances were [right](/en/post/right/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [decision](/en/post/decision/) was influenced [by](/en/post/by/) [the](/en/post/the/) [unusual](/en/post/unusual/) circumstances."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [success](/post/success/) [of](/post/of/) [the](/post/the/) [project](/post/project/) depended [on](/post/on/) [the](/post/the/) favorable circumstances."
+- **[Verb](/post/verb/)**: "[She](/post/she/) couldn't [reveal](/post/reveal/) [her](/post/her/) plans [until](/post/until/) [the](/post/the/) circumstances were [right](/post/right/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [decision](/post/decision/) was influenced [by](/post/by/) [the](/post/the/) [unusual](/post/unusual/) circumstances."
 
 ## Synonyms
 - Conditions
-- [Surroundings](/en/post/surroundings/)
-- [Situation](/en/post/situation/)
+- [Surroundings](/post/surroundings/)
+- [Situation](/post/situation/)
 - Scenario
-- [Setting](/en/post/setting/)
+- [Setting](/post/setting/)
 - Affairs
 - Events
 - Circumstantialities
 
 ## Antonyms
-- [Control](/en/post/control/)
-- [Certainty](/en/post/certainty/)
+- [Control](/post/control/)
+- [Certainty](/post/certainty/)
 - Predictability
-- [Stability](/en/post/stability/)
-- [Ease](/en/post/ease/)
-- Favorable circumstances [can](/en/post/can/) [have](/en/post/have/) antonyms [like](/en/post/like/) adverse, unfavorable, [or](/en/post/or/) challenging.
+- [Stability](/post/stability/)
+- [Ease](/post/ease/)
+- Favorable circumstances [can](/post/can/) [have](/post/have/) antonyms [like](/post/like/) adverse, unfavorable, [or](/post/or/) challenging.

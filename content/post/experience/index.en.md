@@ -7,38 +7,38 @@ description = '[iksˈpiəriəns] n.经验，感受；经历'
 keywords = ['ai words', 'experience']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈspɪriəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [practical](/en/post/practical/) [contact](/en/post/contact/) [with](/en/post/with/) [and](/en/post/and/) [observation](/en/post/observation/) [of](/en/post/of/) facts [or](/en/post/or/) events, [often](/en/post/often/) gained [over](/en/post/over/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [event](/en/post/event/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) events undergone [by](/en/post/by/) [a](/en/post/a/) [person](/en/post/person/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) years [of](/en/post/of/) [teaching](/en/post/teaching/) [experience](/en/post/experience/) [have](/en/post/have/) made [her](/en/post/her/) an [expert](/en/post/expert/) [in](/en/post/in/) [her](/en/post/her/) [field](/en/post/field/)."
-    - _Example sentence_: "Traveling [abroad](/en/post/abroad/) was [a](/en/post/a/) life-changing [experience](/en/post/experience/) [for](/en/post/for/) [him](/en/post/him/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) sensation, [feeling](/en/post/feeling/), [or](/en/post/or/) [impression](/en/post/impression/) resulting [from](/en/post/from/) [something](/en/post/something/) encountered [or](/en/post/or/) undergone. [Example](/en/post/example/): "[The](/en/post/the/) [ride](/en/post/ride/) [on](/en/post/on/) [the](/en/post/the/) [roller](/en/post/roller/) coaster was an exhilarating [experience](/en/post/experience/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [undergo](/en/post/undergo/) [or](/en/post/or/) [live](/en/post/live/) [through](/en/post/through/) [a](/en/post/a/) [particular](/en/post/particular/) [event](/en/post/event/) [or](/en/post/or/) [set](/en/post/set/) [of](/en/post/of/) circumstances. [Example](/en/post/example/): "[She](/en/post/she/) has experienced [great](/en/post/great/) [success](/en/post/success/) [in](/en/post/in/) [her](/en/post/her/) [career](/en/post/career/)."
-    - _Example sentence_: "[They](/en/post/they/) [will](/en/post/will/) [experience](/en/post/experience/) firsthand [the](/en/post/the/) challenges [of](/en/post/of/) [living](/en/post/living/) off-grid."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [practical](/post/practical/) [contact](/post/contact/) [with](/post/with/) [and](/post/and/) [observation](/post/observation/) [of](/post/of/) facts [or](/post/or/) events, [often](/post/often/) gained [over](/post/over/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [event](/post/event/) [or](/post/or/) [series](/post/series/) [of](/post/of/) events undergone [by](/post/by/) [a](/post/a/) [person](/post/person/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) years [of](/post/of/) [teaching](/post/teaching/) [experience](/post/experience/) [have](/post/have/) made [her](/post/her/) an [expert](/post/expert/) [in](/post/in/) [her](/post/her/) [field](/post/field/)."
+    - _Example sentence_: "Traveling [abroad](/post/abroad/) was [a](/post/a/) life-changing [experience](/post/experience/) [for](/post/for/) [him](/post/him/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) sensation, [feeling](/post/feeling/), [or](/post/or/) [impression](/post/impression/) resulting [from](/post/from/) [something](/post/something/) encountered [or](/post/or/) undergone. [Example](/post/example/): "[The](/post/the/) [ride](/post/ride/) [on](/post/on/) [the](/post/the/) [roller](/post/roller/) coaster was an exhilarating [experience](/post/experience/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [undergo](/post/undergo/) [or](/post/or/) [live](/post/live/) [through](/post/through/) [a](/post/a/) [particular](/post/particular/) [event](/post/event/) [or](/post/or/) [set](/post/set/) [of](/post/of/) circumstances. [Example](/post/example/): "[She](/post/she/) has experienced [great](/post/great/) [success](/post/success/) [in](/post/in/) [her](/post/her/) [career](/post/career/)."
+    - _Example sentence_: "[They](/post/they/) [will](/post/will/) [experience](/post/experience/) firsthand [the](/post/the/) challenges [of](/post/of/) [living](/post/living/) off-grid."
 
 ## Phrases
-- "[Learn](/en/post/learn/) [from](/en/post/from/) [experience](/en/post/experience/)": [To](/en/post/to/) [gain](/en/post/gain/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) [understanding](/en/post/understanding/) [through](/en/post/through/) [direct](/en/post/direct/) [personal](/en/post/personal/) involvement [rather](/en/post/rather/) [than](/en/post/than/) [theory](/en/post/theory/).
-- "[Experience](/en/post/experience/) shows": [To](/en/post/to/) [emphasize](/en/post/emphasize/) [that](/en/post/that/) [practical](/en/post/practical/) [evidence](/en/post/evidence/) supports [a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [belief](/en/post/belief/).
-- "[A](/en/post/a/) [wealth](/en/post/wealth/) [of](/en/post/of/) [experience](/en/post/experience/)": Refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) has [extensive](/en/post/extensive/) [and](/en/post/and/) [valuable](/en/post/valuable/) [experience](/en/post/experience/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/).
+- "[Learn](/post/learn/) [from](/post/from/) [experience](/post/experience/)": [To](/post/to/) [gain](/post/gain/) [knowledge](/post/knowledge/) [or](/post/or/) [understanding](/post/understanding/) [through](/post/through/) [direct](/post/direct/) [personal](/post/personal/) involvement [rather](/post/rather/) [than](/post/than/) [theory](/post/theory/).
+- "[Experience](/post/experience/) shows": [To](/post/to/) [emphasize](/post/emphasize/) [that](/post/that/) [practical](/post/practical/) [evidence](/post/evidence/) supports [a](/post/a/) [statement](/post/statement/) [or](/post/or/) [belief](/post/belief/).
+- "[A](/post/a/) [wealth](/post/wealth/) [of](/post/of/) [experience](/post/experience/)": Refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) has [extensive](/post/extensive/) [and](/post/and/) [valuable](/post/valuable/) [experience](/post/experience/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [military](/en/post/military/) [experience](/en/post/experience/) proved invaluable [during](/en/post/during/) [the](/en/post/the/) strategic planning."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) experienced profound [joy](/en/post/joy/) [upon](/en/post/upon/) seeing [her](/en/post/her/) [child](/en/post/child/) [take](/en/post/take/) [their](/en/post/their/) [first](/en/post/first/) steps."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [military](/post/military/) [experience](/post/experience/) proved invaluable [during](/post/during/) [the](/post/the/) strategic planning."
+- **[Verb](/post/verb/)**: "[She](/post/she/) experienced profound [joy](/post/joy/) [upon](/post/upon/) seeing [her](/post/her/) [child](/post/child/) [take](/post/take/) [their](/post/their/) [first](/post/first/) steps."
 
 ## Synonyms
-- **[As](/en/post/as/) [a](/en/post/a/) [Noun](/en/post/noun/)**: 
-  - [Encounter](/en/post/encounter/)
-  - [Background](/en/post/background/)
-  - [Exposure](/en/post/exposure/)
-  - [History](/en/post/history/)
-  - [Knowledge](/en/post/knowledge/)
+- **[As](/post/as/) [a](/post/a/) [Noun](/post/noun/)**: 
+  - [Encounter](/post/encounter/)
+  - [Background](/post/background/)
+  - [Exposure](/post/exposure/)
+  - [History](/post/history/)
+  - [Knowledge](/post/knowledge/)
   - Expertise
   
-- **[As](/en/post/as/) [a](/en/post/a/) [Verb](/en/post/verb/)**: 
-  - [Undergo](/en/post/undergo/)
-  - [Live](/en/post/live/) [through](/en/post/through/)
-  - [Endure](/en/post/endure/)
-  - [Suffer](/en/post/suffer/)
-  - [Go](/en/post/go/) [through](/en/post/through/)
-  - [Bear](/en/post/bear/) [witness](/en/post/witness/) [to](/en/post/to/)
+- **[As](/post/as/) [a](/post/a/) [Verb](/post/verb/)**: 
+  - [Undergo](/post/undergo/)
+  - [Live](/post/live/) [through](/post/through/)
+  - [Endure](/post/endure/)
+  - [Suffer](/post/suffer/)
+  - [Go](/post/go/) [through](/post/through/)
+  - [Bear](/post/bear/) [witness](/post/witness/) [to](/post/to/)

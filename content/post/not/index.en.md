@@ -7,33 +7,33 @@ description = '[nɔt] ad.不，没有'
 keywords = ['ai words', 'not']
 +++
 
-## [Word](/en/post/word/): [Not](/en/post/not/)
+## [Word](/post/word/): [Not](/post/not/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /naʊt/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Expressing negation, denial, [or](/en/post/or/) prohibition. [It](/en/post/it/) typically comes [before](/en/post/before/) [a](/en/post/a/) [verb](/en/post/verb/) [or](/en/post/or/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is untrue [or](/en/post/or/) doesn't [happen](/en/post/happen/). [For](/en/post/for/) [example](/en/post/example/): "I am [not](/en/post/not/) going [out](/en/post/out/) [today](/en/post/today/)." "It's [not](/en/post/not/) [cold](/en/post/cold/) [outside](/en/post/outside/)."
-- **[Conjunction](/en/post/conjunction/)**: [Used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [negative](/en/post/negative/) clause, [often](/en/post/often/) [after](/en/post/after/) [a](/en/post/a/) [negative](/en/post/negative/) [statement](/en/post/statement/) [with](/en/post/with/) '[neither](/en/post/neither/)' [or](/en/post/or/) '[nor](/en/post/nor/)'. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) isn't studying French, [nor](/en/post/nor/) is [she](/en/post/she/) studying German."
-- **[Pronoun](/en/post/pronoun/)**: [As](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [compound](/en/post/compound/) [construction](/en/post/construction/) (e.g., '[not](/en/post/not/) [only](/en/post/only/)...[but](/en/post/but/) [also](/en/post/also/)', '[no](/en/post/no/)...[not](/en/post/not/)'), [it](/en/post/it/) [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [pronoun](/en/post/pronoun/), replacing [a](/en/post/a/) [previously](/en/post/previously/) mentioned [idea](/en/post/idea/). [For](/en/post/for/) [example](/en/post/example/): "[Not](/en/post/not/) [one](/en/post/one/) [person](/en/post/person/) objected [to](/en/post/to/) [the](/en/post/the/) [proposal](/en/post/proposal/)."
+- **[Adverb](/post/adverb/)**: Expressing negation, denial, [or](/post/or/) prohibition. [It](/post/it/) typically comes [before](/post/before/) [a](/post/a/) [verb](/post/verb/) [or](/post/or/) an [adjective](/post/adjective/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is untrue [or](/post/or/) doesn't [happen](/post/happen/). [For](/post/for/) [example](/post/example/): "I am [not](/post/not/) going [out](/post/out/) [today](/post/today/)." "It's [not](/post/not/) [cold](/post/cold/) [outside](/post/outside/)."
+- **[Conjunction](/post/conjunction/)**: [Used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [negative](/post/negative/) clause, [often](/post/often/) [after](/post/after/) [a](/post/a/) [negative](/post/negative/) [statement](/post/statement/) [with](/post/with/) '[neither](/post/neither/)' [or](/post/or/) '[nor](/post/nor/)'. [For](/post/for/) [example](/post/example/): "[She](/post/she/) isn't studying French, [nor](/post/nor/) is [she](/post/she/) studying German."
+- **[Pronoun](/post/pronoun/)**: [As](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [compound](/post/compound/) [construction](/post/construction/) (e.g., '[not](/post/not/) [only](/post/only/)...[but](/post/but/) [also](/post/also/)', '[no](/post/no/)...[not](/post/not/)'), [it](/post/it/) [can](/post/can/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [pronoun](/post/pronoun/), replacing [a](/post/a/) [previously](/post/previously/) mentioned [idea](/post/idea/). [For](/post/for/) [example](/post/example/): "[Not](/post/not/) [one](/post/one/) [person](/post/person/) objected [to](/post/to/) [the](/post/the/) [proposal](/post/proposal/)."
 
 ## Phrases
-- "[Not](/en/post/not/) [so](/en/post/so/) [fast](/en/post/fast/)" - said [when](/en/post/when/) telling [someone](/en/post/someone/) [to](/en/post/to/) [slow](/en/post/slow/) [down](/en/post/down/) [or](/en/post/or/) [wait](/en/post/wait/).
-- "[Not](/en/post/not/) [by](/en/post/by/) [any](/en/post/any/) [means](/en/post/means/)" - [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [that](/en/post/that/) [something](/en/post/something/) is [definitely](/en/post/definitely/) [not](/en/post/not/) [true](/en/post/true/) [or](/en/post/or/) [will](/en/post/will/) [not](/en/post/not/) [happen](/en/post/happen/).
-- "[Not](/en/post/not/) [to](/en/post/to/) [mention](/en/post/mention/)" - [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) an [additional](/en/post/additional/) [point](/en/post/point/) [that](/en/post/that/) adds [to](/en/post/to/) [or](/en/post/or/) emphasizes [what](/en/post/what/) has [just](/en/post/just/) been said.
-- "[Not](/en/post/not/) [to](/en/post/to/) [be](/en/post/be/) confused [with](/en/post/with/)" - [used](/en/post/used/) [when](/en/post/when/) comparing [two](/en/post/two/) [similar](/en/post/similar/) things [to](/en/post/to/) [clarify](/en/post/clarify/) [their](/en/post/their/) differences.
+- "[Not](/post/not/) [so](/post/so/) [fast](/post/fast/)" - said [when](/post/when/) telling [someone](/post/someone/) [to](/post/to/) [slow](/post/slow/) [down](/post/down/) [or](/post/or/) [wait](/post/wait/).
+- "[Not](/post/not/) [by](/post/by/) [any](/post/any/) [means](/post/means/)" - [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [that](/post/that/) [something](/post/something/) is [definitely](/post/definitely/) [not](/post/not/) [true](/post/true/) [or](/post/or/) [will](/post/will/) [not](/post/not/) [happen](/post/happen/).
+- "[Not](/post/not/) [to](/post/to/) [mention](/post/mention/)" - [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) an [additional](/post/additional/) [point](/post/point/) [that](/post/that/) adds [to](/post/to/) [or](/post/or/) emphasizes [what](/post/what/) has [just](/post/just/) been said.
+- "[Not](/post/not/) [to](/post/to/) [be](/post/be/) confused [with](/post/with/)" - [used](/post/used/) [when](/post/when/) comparing [two](/post/two/) [similar](/post/similar/) things [to](/post/to/) [clarify](/post/clarify/) [their](/post/their/) differences.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I [do](/en/post/do/) [not](/en/post/not/) [like](/en/post/like/) [green](/en/post/green/) eggs [and](/en/post/and/) ham." 
-- **[Conjunction](/en/post/conjunction/)**: "[She](/en/post/she/) doesn't [want](/en/post/want/) [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/), [nor](/en/post/nor/) does [she](/en/post/she/) [want](/en/post/want/) [to](/en/post/to/) [stay](/en/post/stay/) [home](/en/post/home/)."
-- **[As](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [compound](/en/post/compound/) [construction](/en/post/construction/)**: "[Not](/en/post/not/) [only](/en/post/only/) did [he](/en/post/he/) [finish](/en/post/finish/) [his](/en/post/his/) [work](/en/post/work/) [early](/en/post/early/), [but](/en/post/but/) [he](/en/post/he/) [also](/en/post/also/) helped [his](/en/post/his/) colleagues [with](/en/post/with/) [theirs](/en/post/theirs/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I [do](/post/do/) [not](/post/not/) [like](/post/like/) [green](/post/green/) eggs [and](/post/and/) ham." 
+- **[Conjunction](/post/conjunction/)**: "[She](/post/she/) doesn't [want](/post/want/) [to](/post/to/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [party](/post/party/), [nor](/post/nor/) does [she](/post/she/) [want](/post/want/) [to](/post/to/) [stay](/post/stay/) [home](/post/home/)."
+- **[As](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [compound](/post/compound/) [construction](/post/construction/)**: "[Not](/post/not/) [only](/post/only/) did [he](/post/he/) [finish](/post/finish/) [his](/post/his/) [work](/post/work/) [early](/post/early/), [but](/post/but/) [he](/post/he/) [also](/post/also/) helped [his](/post/his/) colleagues [with](/post/with/) [theirs](/post/theirs/)."
 
 ## Synonyms
-- [No](/en/post/no/)
-- [Never](/en/post/never/)
+- [No](/post/no/)
+- [Never](/post/never/)
 - Nought
 - Un
-- Non ([in](/en/post/in/) [some](/en/post/some/) languages)  
-- Negatively ([in](/en/post/in/) [certain](/en/post/certain/) contexts) 
+- Non ([in](/post/in/) [some](/post/some/) languages)  
+- Negatively ([in](/post/in/) [certain](/post/certain/) contexts) 
 
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) "[not](/en/post/not/)" is [a](/en/post/a/) [core](/en/post/core/) [element](/en/post/element/) [of](/en/post/of/) negation [in](/en/post/in/) English [and](/en/post/and/) [its](/en/post/its/) [usage](/en/post/usage/) extends [beyond](/en/post/beyond/) [these](/en/post/these/) [specific](/en/post/specific/) roles, [often](/en/post/often/) appearing [in](/en/post/in/) idiomatic expressions [and](/en/post/and/) [complex](/en/post/complex/) [sentence](/en/post/sentence/) structures [where](/en/post/where/) [its](/en/post/its/) [meaning](/en/post/meaning/) [can](/en/post/can/) [vary](/en/post/vary/) [widely](/en/post/widely/).
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) "[not](/post/not/)" is [a](/post/a/) [core](/post/core/) [element](/post/element/) [of](/post/of/) negation [in](/post/in/) English [and](/post/and/) [its](/post/its/) [usage](/post/usage/) extends [beyond](/post/beyond/) [these](/post/these/) [specific](/post/specific/) roles, [often](/post/often/) appearing [in](/post/in/) idiomatic expressions [and](/post/and/) [complex](/post/complex/) [sentence](/post/sentence/) structures [where](/post/where/) [its](/post/its/) [meaning](/post/meaning/) [can](/post/can/) [vary](/post/vary/) [widely](/post/widely/).

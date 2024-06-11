@@ -12,24 +12,24 @@ keywords = ['ai words', 'bridge']
 
 ## 释义
 - **名词 n**:
-  1. 桥：[A](/post/a/) [structure](/post/structure/) [that](/post/that/) spans [a](/post/a/) [river](/post/river/) [or](/post/or/) [other](/post/other/) [obstacle](/post/obstacle/) [and](/post/and/) provides [a](/post/a/) [passage](/post/passage/) [across](/post/across/) [it](/post/it/). 例如: "[The](/post/the/) city's oldest [bridge](/post/bridge/) was built [in](/post/in/) [the](/post/the/) 18th [century](/post/century/)."
-  2. 桥牌游戏：[A](/post/a/) [card](/post/card/) [game](/post/game/) played [by](/post/by/) [four](/post/four/) players [in](/post/in/) [two](/post/two/) partnerships. 例如: "[They](/post/they/) [enjoy](/post/enjoy/) playing [bridge](/post/bridge/) [on](/post/on/) weekends."
+  1. 桥：[A](/zh/post/a/) [structure](/zh/post/structure/) [that](/zh/post/that/) spans [a](/zh/post/a/) [river](/zh/post/river/) [or](/zh/post/or/) [other](/zh/post/other/) [obstacle](/zh/post/obstacle/) [and](/zh/post/and/) provides [a](/zh/post/a/) [passage](/zh/post/passage/) [across](/zh/post/across/) [it](/zh/post/it/). 例如: "[The](/zh/post/the/) city's oldest [bridge](/zh/post/bridge/) was built [in](/zh/post/in/) [the](/zh/post/the/) 18th [century](/zh/post/century/)."
+  2. 桥牌游戏：[A](/zh/post/a/) [card](/zh/post/card/) [game](/zh/post/game/) played [by](/zh/post/by/) [four](/zh/post/four/) players [in](/zh/post/in/) [two](/zh/post/two/) partnerships. 例如: "[They](/zh/post/they/) [enjoy](/zh/post/enjoy/) playing [bridge](/zh/post/bridge/) [on](/zh/post/on/) weekends."
 
 - **动词 v**:
-  1. 建桥：[To](/post/to/) [construct](/post/construct/) [a](/post/a/) [bridge](/post/bridge/). 例如: "Engineers are working [on](/post/on/) bridging [the](/post/the/) [gap](/post/gap/) [between](/post/between/) [the](/post/the/) [two](/post/two/) cliffs."
-  2. 沟通：[To](/post/to/) [connect](/post/connect/) [or](/post/or/) [link](/post/link/) [two](/post/two/) things [together](/post/together/). 例如: "[Her](/post/her/) [speech](/post/speech/) aimed [to](/post/to/) [bridge](/post/bridge/) [the](/post/the/) cultural [divide](/post/divide/) [between](/post/between/) [the](/post/the/) communities."
+  1. 建桥：[To](/zh/post/to/) [construct](/zh/post/construct/) [a](/zh/post/a/) [bridge](/zh/post/bridge/). 例如: "Engineers are working [on](/zh/post/on/) bridging [the](/zh/post/the/) [gap](/zh/post/gap/) [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) cliffs."
+  2. 沟通：[To](/zh/post/to/) [connect](/zh/post/connect/) [or](/zh/post/or/) [link](/zh/post/link/) [two](/zh/post/two/) things [together](/zh/post/together/). 例如: "[Her](/zh/post/her/) [speech](/zh/post/speech/) aimed [to](/zh/post/to/) [bridge](/zh/post/bridge/) [the](/zh/post/the/) cultural [divide](/zh/post/divide/) [between](/zh/post/between/) [the](/zh/post/the/) communities."
 
 ## 短语
-- "[Bridge](/post/bridge/) [the](/post/the/) [gap](/post/gap/)" 意味着弥合差距或连接两个事物。例如: "[New](/post/new/) [technology](/post/technology/) is helping [to](/post/to/) [bridge](/post/bridge/) [the](/post/the/) [digital](/post/digital/) [divide](/post/divide/) [in](/post/in/) [rural](/post/rural/) areas."
-- "[Bridge](/post/bridge/) [loan](/post/loan/)" 是一种短期贷款，用于在购买新财产前填补资金缺口。例如: "[We](/post/we/) took [out](/post/out/) [a](/post/a/) [bridge](/post/bridge/) [loan](/post/loan/) [to](/post/to/) [cover](/post/cover/) [the](/post/the/) [down](/post/down/) [payment](/post/payment/) [on](/post/on/) [our](/post/our/) [new](/post/new/) [house](/post/house/)."
+- "[Bridge](/zh/post/bridge/) [the](/zh/post/the/) [gap](/zh/post/gap/)" 意味着弥合差距或连接两个事物。例如: "[New](/zh/post/new/) [technology](/zh/post/technology/) is helping [to](/zh/post/to/) [bridge](/zh/post/bridge/) [the](/zh/post/the/) [digital](/zh/post/digital/) [divide](/zh/post/divide/) [in](/zh/post/in/) [rural](/zh/post/rural/) areas."
+- "[Bridge](/zh/post/bridge/) [loan](/zh/post/loan/)" 是一种短期贷款，用于在购买新财产前填补资金缺口。例如: "[We](/zh/post/we/) took [out](/zh/post/out/) [a](/zh/post/a/) [bridge](/zh/post/bridge/) [loan](/zh/post/loan/) [to](/zh/post/to/) [cover](/zh/post/cover/) [the](/zh/post/the/) [down](/zh/post/down/) [payment](/zh/post/payment/) [on](/zh/post/on/) [our](/zh/post/our/) [new](/zh/post/new/) [house](/zh/post/house/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [ancient](/post/ancient/) [stone](/post/stone/) [bridge](/post/bridge/) was [a](/post/a/) marvel [of](/post/of/) [engineering](/post/engineering/)."
-- 动词: "[The](/post/the/) [project](/post/project/) aims [to](/post/to/) [bridge](/post/bridge/) [the](/post/the/) [economic](/post/economic/) disparities [between](/post/between/) urban [and](/post/and/) [rural](/post/rural/) regions."
+- 名词: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) [stone](/zh/post/stone/) [bridge](/zh/post/bridge/) was [a](/zh/post/a/) marvel [of](/zh/post/of/) [engineering](/zh/post/engineering/)."
+- 动词: "[The](/zh/post/the/) [project](/zh/post/project/) aims [to](/zh/post/to/) [bridge](/zh/post/bridge/) [the](/zh/post/the/) [economic](/zh/post/economic/) disparities [between](/zh/post/between/) urban [and](/zh/post/and/) [rural](/zh/post/rural/) regions."
 
 ## 同义词
-- [Link](/post/link/)
-- [Connection](/post/connection/)
-- [Passage](/post/passage/)
-- [Span](/post/span/)
+- [Link](/zh/post/link/)
+- [Connection](/zh/post/connection/)
+- [Passage](/zh/post/passage/)
+- [Span](/zh/post/span/)
 - Connector

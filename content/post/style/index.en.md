@@ -7,43 +7,43 @@ description = '[stail] n.风格；文体；式样'
 keywords = ['ai words', 'style']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /staɪl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Style](/en/post/style/)**: 1. [A](/en/post/a/) [particular](/en/post/particular/) [manner](/en/post/manner/) [or](/en/post/or/) [form](/en/post/form/) [in](/en/post/in/) [which](/en/post/which/) [something](/en/post/something/) is done [or](/en/post/or/) presented, [often](/en/post/often/) characterized [by](/en/post/by/) [a](/en/post/a/) distinctive [appearance](/en/post/appearance/) [or](/en/post/or/) [quality](/en/post/quality/). "[The](/en/post/the/) [art](/en/post/art/) nouveau [style](/en/post/style/) was [popular](/en/post/popular/) [in](/en/post/in/) [the](/en/post/the/) [early](/en/post/early/) 20th [century](/en/post/century/)."
-- 2. [Fashion](/en/post/fashion/) [or](/en/post/or/) [taste](/en/post/taste/) [in](/en/post/in/) [clothing](/en/post/clothing/), [design](/en/post/design/), [or](/en/post/or/) aesthetics. "[Her](/en/post/her/) [writing](/en/post/writing/) has [a](/en/post/a/) [distinct](/en/post/distinct/) [and](/en/post/and/) elegant [style](/en/post/style/)."
-- 3. [A](/en/post/a/) [way](/en/post/way/) [of](/en/post/of/) expressing [oneself](/en/post/oneself/) [or](/en/post/or/) conducting [oneself](/en/post/oneself/), [especially](/en/post/especially/) [in](/en/post/in/) terms [of](/en/post/of/) [language](/en/post/language/) [or](/en/post/or/) [behavior](/en/post/behavior/). "[He](/en/post/he/) has [a](/en/post/a/) [sophisticated](/en/post/sophisticated/) conversational [style](/en/post/style/)."
+### [Noun](/post/noun/)
+- **[Style](/post/style/)**: 1. [A](/post/a/) [particular](/post/particular/) [manner](/post/manner/) [or](/post/or/) [form](/post/form/) [in](/post/in/) [which](/post/which/) [something](/post/something/) is done [or](/post/or/) presented, [often](/post/often/) characterized [by](/post/by/) [a](/post/a/) distinctive [appearance](/post/appearance/) [or](/post/or/) [quality](/post/quality/). "[The](/post/the/) [art](/post/art/) nouveau [style](/post/style/) was [popular](/post/popular/) [in](/post/in/) [the](/post/the/) [early](/post/early/) 20th [century](/post/century/)."
+- 2. [Fashion](/post/fashion/) [or](/post/or/) [taste](/post/taste/) [in](/post/in/) [clothing](/post/clothing/), [design](/post/design/), [or](/post/or/) aesthetics. "[Her](/post/her/) [writing](/post/writing/) has [a](/post/a/) [distinct](/post/distinct/) [and](/post/and/) elegant [style](/post/style/)."
+- 3. [A](/post/a/) [way](/post/way/) [of](/post/of/) expressing [oneself](/post/oneself/) [or](/post/or/) conducting [oneself](/post/oneself/), [especially](/post/especially/) [in](/post/in/) terms [of](/post/of/) [language](/post/language/) [or](/post/or/) [behavior](/post/behavior/). "[He](/post/he/) has [a](/post/a/) [sophisticated](/post/sophisticated/) conversational [style](/post/style/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [style](/en/post/style/)**: [To](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) [dress](/en/post/dress/) (one's [hair](/en/post/hair/) [or](/en/post/or/) [clothing](/en/post/clothing/)) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [manner](/en/post/manner/); [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [specific](/en/post/specific/) aesthetic [to](/en/post/to/) [something](/en/post/something/). "[She](/en/post/she/) styled [her](/en/post/her/) [hair](/en/post/hair/) [in](/en/post/in/) [loose](/en/post/loose/) waves [for](/en/post/for/) [the](/en/post/the/) [event](/en/post/event/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [style](/post/style/)**: [To](/post/to/) [arrange](/post/arrange/) [or](/post/or/) [dress](/post/dress/) (one's [hair](/post/hair/) [or](/post/or/) [clothing](/post/clothing/)) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [manner](/post/manner/); [to](/post/to/) [give](/post/give/) [a](/post/a/) [specific](/post/specific/) aesthetic [to](/post/to/) [something](/post/something/). "[She](/post/she/) styled [her](/post/her/) [hair](/post/hair/) [in](/post/in/) [loose](/post/loose/) waves [for](/post/for/) [the](/post/the/) [event](/post/event/)."
 
-### [Adjective](/en/post/adjective/)
-- [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [style](/en/post/style/) [or](/en/post/or/) [manner](/en/post/manner/). "[The](/en/post/the/) building's [architecture](/en/post/architecture/) is [a](/en/post/a/) [fine](/en/post/fine/) [example](/en/post/example/) [of](/en/post/of/) [Art](/en/post/art/) Deco [style](/en/post/style/)."
+### [Adjective](/post/adjective/)
+- [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [style](/post/style/) [or](/post/or/) [manner](/post/manner/). "[The](/post/the/) building's [architecture](/post/architecture/) is [a](/post/a/) [fine](/post/fine/) [example](/post/example/) [of](/post/of/) [Art](/post/art/) Deco [style](/post/style/)."
 
-### [Adverb](/en/post/adverb/)
-- Expressing [a](/en/post/a/) [manner](/en/post/manner/) [or](/en/post/or/) [way](/en/post/way/) [of](/en/post/of/) doing [something](/en/post/something/). "[She](/en/post/she/) speaks [with](/en/post/with/) [a](/en/post/a/) [confident](/en/post/confident/) [and](/en/post/and/) relaxed [style](/en/post/style/)."
+### [Adverb](/post/adverb/)
+- Expressing [a](/post/a/) [manner](/post/manner/) [or](/post/or/) [way](/post/way/) [of](/post/of/) doing [something](/post/something/). "[She](/post/she/) speaks [with](/post/with/) [a](/post/a/) [confident](/post/confident/) [and](/post/and/) relaxed [style](/post/style/)."
 
 ## Phrases
-- "[In](/en/post/in/) [a](/en/post/a/) [style](/en/post/style/) reminiscent [of](/en/post/of/)..." suggests similarity [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [style](/en/post/style/).
-- "Switching [up](/en/post/up/) [your](/en/post/your/) [style](/en/post/style/)" [means](/en/post/means/) [to](/en/post/to/) [change](/en/post/change/) [your](/en/post/your/) [usual](/en/post/usual/) [approach](/en/post/approach/) [or](/en/post/or/) [appearance](/en/post/appearance/).
-- "Maintaining [a](/en/post/a/) minimalist [style](/en/post/style/)" refers [to](/en/post/to/) [simplicity](/en/post/simplicity/) [and](/en/post/and/) clarity.
+- "[In](/post/in/) [a](/post/a/) [style](/post/style/) reminiscent [of](/post/of/)..." suggests similarity [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [style](/post/style/).
+- "Switching [up](/post/up/) [your](/post/your/) [style](/post/style/)" [means](/post/means/) [to](/post/to/) [change](/post/change/) [your](/post/your/) [usual](/post/usual/) [approach](/post/approach/) [or](/post/or/) [appearance](/post/appearance/).
+- "Maintaining [a](/post/a/) minimalist [style](/post/style/)" refers [to](/post/to/) [simplicity](/post/simplicity/) [and](/post/and/) clarity.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [furniture](/en/post/furniture/) [in](/en/post/in/) [her](/en/post/her/) [home](/en/post/home/) had [a](/en/post/a/) [mix](/en/post/mix/) [of](/en/post/of/) vintage [and](/en/post/and/) [modern](/en/post/modern/) styles."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [style](/en/post/style/) [her](/en/post/her/) [new](/en/post/new/) [haircut](/en/post/haircut/) [in](/en/post/in/) [a](/en/post/a/) [more](/en/post/more/) polished [look](/en/post/look/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) architect's designs were known [for](/en/post/for/) [their](/en/post/their/) sleek, [contemporary](/en/post/contemporary/) [style](/en/post/style/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) delivered [his](/en/post/his/) [speech](/en/post/speech/) [with](/en/post/with/) [a](/en/post/a/) [calm](/en/post/calm/) [and](/en/post/and/) engaging speaking [style](/en/post/style/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [furniture](/post/furniture/) [in](/post/in/) [her](/post/her/) [home](/post/home/) had [a](/post/a/) [mix](/post/mix/) [of](/post/of/) vintage [and](/post/and/) [modern](/post/modern/) styles."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [style](/post/style/) [her](/post/her/) [new](/post/new/) [haircut](/post/haircut/) [in](/post/in/) [a](/post/a/) [more](/post/more/) polished [look](/post/look/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) architect's designs were known [for](/post/for/) [their](/post/their/) sleek, [contemporary](/post/contemporary/) [style](/post/style/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) delivered [his](/post/his/) [speech](/post/speech/) [with](/post/with/) [a](/post/a/) [calm](/post/calm/) [and](/post/and/) engaging speaking [style](/post/style/)."
 
 ## Synonyms
-- [Fashion](/en/post/fashion/)
-- [Tone](/en/post/tone/)
-- [Manner](/en/post/manner/)
-- [Form](/en/post/form/)
-- [Look](/en/post/look/)
-- [Character](/en/post/character/)
+- [Fashion](/post/fashion/)
+- [Tone](/post/tone/)
+- [Manner](/post/manner/)
+- [Form](/post/form/)
+- [Look](/post/look/)
+- [Character](/post/character/)
 - Flavor
-- [Design](/en/post/design/)
-- [Technique](/en/post/technique/)
-- [Approach](/en/post/approach/)
+- [Design](/post/design/)
+- [Technique](/post/technique/)
+- [Approach](/post/approach/)

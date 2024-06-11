@@ -11,20 +11,20 @@ keywords = ['ai words', 'shout']
 /ʃaʊt/
 
 ## 释义
-- **动词**: 大声叫喊，呼喊。例如: "[The](/post/the/) [child](/post/child/) shouted [for](/post/for/) [help](/post/help/) [when](/post/when/) [he](/post/he/) fell [into](/post/into/) [the](/post/the/) [river](/post/river/)."
-- **名词**: 喊叫声，呼喊。例如: "[His](/post/his/) [shout](/post/shout/) echoed [through](/post/through/) [the](/post/the/) canyon."
+- **动词**: 大声叫喊，呼喊。例如: "[The](/zh/post/the/) [child](/zh/post/child/) shouted [for](/zh/post/for/) [help](/zh/post/help/) [when](/zh/post/when/) [he](/zh/post/he/) fell [into](/zh/post/into/) [the](/zh/post/the/) [river](/zh/post/river/)."
+- **名词**: 喊叫声，呼喊。例如: "[His](/zh/post/his/) [shout](/zh/post/shout/) echoed [through](/zh/post/through/) [the](/zh/post/the/) canyon."
 
 ## 短语
-- "[Give](/post/give/) [a](/post/a/) [shout](/post/shout/)" 意味着发出声音或呼叫某人。
-- "[Shout](/post/shout/) [out](/post/out/)" 通常指在公开场合大声说出某人的名字或表达感谢。
+- "[Give](/zh/post/give/) [a](/zh/post/a/) [shout](/zh/post/shout/)" 意味着发出声音或呼叫某人。
+- "[Shout](/zh/post/shout/) [out](/zh/post/out/)" 通常指在公开场合大声说出某人的名字或表达感谢。
 
 ## 例句
-- 动词: "[The](/post/the/) [football](/post/football/) fans shouted [their](/post/their/) team's [name](/post/name/) [in](/post/in/) excitement."
-- 名词: "I heard [a](/post/a/) [distant](/post/distant/) [shout](/post/shout/) coming [from](/post/from/) [the](/post/the/) woods."
+- 动词: "[The](/zh/post/the/) [football](/zh/post/football/) fans shouted [their](/zh/post/their/) team's [name](/zh/post/name/) [in](/zh/post/in/) excitement."
+- 名词: "I heard [a](/zh/post/a/) [distant](/zh/post/distant/) [shout](/zh/post/shout/) coming [from](/zh/post/from/) [the](/zh/post/the/) woods."
 
 ## 同义词
-- [Yell](/post/yell/)
-- [Cry](/post/cry/) [out](/post/out/)
-- [Scream](/post/scream/)
-- [Shriek](/post/shriek/)
+- [Yell](/zh/post/yell/)
+- [Cry](/zh/post/cry/) [out](/zh/post/out/)
+- [Scream](/zh/post/scream/)
+- [Shriek](/zh/post/shriek/)
 - Hollar

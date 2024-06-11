@@ -7,38 +7,38 @@ description = '[puə] a.贫穷的；贫乏的'
 keywords = ['ai words', 'poor']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pʊə(r)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [material](/en/post/material/) possessions [or](/en/post/or/) resources; destitute. [Example](/en/post/example/): "[The](/en/post/the/) [poor](/en/post/poor/) [family](/en/post/family/) struggled [to](/en/post/to/) [make](/en/post/make/) ends [meet](/en/post/meet/)."
-2. **[Adjective](/en/post/adjective/)**: Lacking [in](/en/post/in/) [quality](/en/post/quality/), [ability](/en/post/ability/), [or](/en/post/or/) [intelligence](/en/post/intelligence/). [Example](/en/post/example/): "[His](/en/post/his/) [performance](/en/post/performance/) was [poor](/en/post/poor/) [due](/en/post/due/) [to](/en/post/to/) nerves."
-3. **[Adjective](/en/post/adjective/)**: Unfavourable [or](/en/post/or/) [unsatisfactory](/en/post/unsatisfactory/); [bad](/en/post/bad/). [Example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) was [poor](/en/post/poor/), [so](/en/post/so/) [we](/en/post/we/) stayed [indoors](/en/post/indoors/)."
+### [Noun](/post/noun/)
+1. **[Adjective](/post/adjective/)**: Having [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [material](/post/material/) possessions [or](/post/or/) resources; destitute. [Example](/post/example/): "[The](/post/the/) [poor](/post/poor/) [family](/post/family/) struggled [to](/post/to/) [make](/post/make/) ends [meet](/post/meet/)."
+2. **[Adjective](/post/adjective/)**: Lacking [in](/post/in/) [quality](/post/quality/), [ability](/post/ability/), [or](/post/or/) [intelligence](/post/intelligence/). [Example](/post/example/): "[His](/post/his/) [performance](/post/performance/) was [poor](/post/poor/) [due](/post/due/) [to](/post/to/) nerves."
+3. **[Adjective](/post/adjective/)**: Unfavourable [or](/post/or/) [unsatisfactory](/post/unsatisfactory/); [bad](/post/bad/). [Example](/post/example/): "[The](/post/the/) [weather](/post/weather/) was [poor](/post/poor/), [so](/post/so/) [we](/post/we/) stayed [indoors](/post/indoors/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [poverty](/en/post/poverty/) [or](/en/post/or/) [need](/en/post/need/). [Example](/en/post/example/): "[They](/en/post/they/) were trying [to](/en/post/to/) [improve](/en/post/improve/) [their](/en/post/their/) [poor](/en/post/poor/) [living](/en/post/living/) conditions."
-2. [To](/en/post/to/) [be](/en/post/be/) inadequate [or](/en/post/or/) [insufficient](/en/post/insufficient/). [Example](/en/post/example/): "[Her](/en/post/her/) [explanation](/en/post/explanation/) was [poor](/en/post/poor/), leaving [many](/en/post/many/) questions unanswered."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [be](/post/be/) [in](/post/in/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [poverty](/post/poverty/) [or](/post/or/) [need](/post/need/). [Example](/post/example/): "[They](/post/they/) were trying [to](/post/to/) [improve](/post/improve/) [their](/post/their/) [poor](/post/poor/) [living](/post/living/) conditions."
+2. [To](/post/to/) [be](/post/be/) inadequate [or](/post/or/) [insufficient](/post/insufficient/). [Example](/post/example/): "[Her](/post/her/) [explanation](/post/explanation/) was [poor](/post/poor/), leaving [many](/post/many/) questions unanswered."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) is lacking [or](/en/post/or/) deficient. [Example](/en/post/example/): "[He](/en/post/he/) worked [poor](/en/post/poor/) hours [to](/en/post/to/) [support](/en/post/support/) [his](/en/post/his/) [family](/en/post/family/)."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) is lacking [or](/post/or/) deficient. [Example](/post/example/): "[He](/post/he/) worked [poor](/post/poor/) hours [to](/post/to/) [support](/post/support/) [his](/post/his/) [family](/post/family/)."
 
 ## Phrases
-- "[Live](/en/post/live/) [in](/en/post/in/) [poverty](/en/post/poverty/)"
-- "[Struggle](/en/post/struggle/) [with](/en/post/with/) [poverty](/en/post/poverty/)"
-- "[Be](/en/post/be/) [in](/en/post/in/) [a](/en/post/a/) [poor](/en/post/poor/) [state](/en/post/state/)"
-- "[Poor](/en/post/poor/) [performance](/en/post/performance/)"
-- "[A](/en/post/a/) [poor](/en/post/poor/) [choice](/en/post/choice/)"
+- "[Live](/post/live/) [in](/post/in/) [poverty](/post/poverty/)"
+- "[Struggle](/post/struggle/) [with](/post/with/) [poverty](/post/poverty/)"
+- "[Be](/post/be/) [in](/post/in/) [a](/post/a/) [poor](/post/poor/) [state](/post/state/)"
+- "[Poor](/post/poor/) [performance](/post/performance/)"
+- "[A](/post/a/) [poor](/post/poor/) [choice](/post/choice/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [charity](/en/post/charity/) aims [to](/en/post/to/) [help](/en/post/help/) [those](/en/post/those/) [living](/en/post/living/) [in](/en/post/in/) [poverty](/en/post/poverty/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tried [her](/en/post/her/) [best](/en/post/best/), [despite](/en/post/despite/) [her](/en/post/her/) [poor](/en/post/poor/) [health](/en/post/health/)."
-- **[Adverb](/en/post/adverb/)**: "[His](/en/post/his/) cooking skills were [never](/en/post/never/) [really](/en/post/really/) [poor](/en/post/poor/), [but](/en/post/but/) [he](/en/post/he/) lacked [practice](/en/post/practice/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [charity](/post/charity/) aims [to](/post/to/) [help](/post/help/) [those](/post/those/) [living](/post/living/) [in](/post/in/) [poverty](/post/poverty/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tried [her](/post/her/) [best](/post/best/), [despite](/post/despite/) [her](/post/her/) [poor](/post/poor/) [health](/post/health/)."
+- **[Adverb](/post/adverb/)**: "[His](/post/his/) cooking skills were [never](/post/never/) [really](/post/really/) [poor](/post/poor/), [but](/post/but/) [he](/post/he/) lacked [practice](/post/practice/)."
 
 ## Synonyms
 - Indigent
 - Destitute
 -匮乏的
-- [Insufficient](/en/post/insufficient/)
-- [Feeble](/en/post/feeble/)
-- Unskilled ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [skill](/en/post/skill/) [or](/en/post/or/) [performance](/en/post/performance/))
+- [Insufficient](/post/insufficient/)
+- [Feeble](/post/feeble/)
+- Unskilled ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [skill](/post/skill/) [or](/post/or/) [performance](/post/performance/))

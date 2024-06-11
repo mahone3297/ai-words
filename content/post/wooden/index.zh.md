@@ -11,20 +11,20 @@ keywords = ['ai words', 'wooden']
 /ˈwʊdn/
 
 ## 释义
-- **形容词**: 由木头制成的；木质的。例如: "[The](/post/the/) [table](/post/table/) is made [of](/post/of/) [solid](/post/solid/) [wooden](/post/wooden/) [material](/post/material/)."
-- **名词**: 木材；木料。例如: "[He](/post/he/) needs [some](/post/some/) [wooden](/post/wooden/) planks [for](/post/for/) [his](/post/his/) [project](/post/project/)."
+- **形容词**: 由木头制成的；木质的。例如: "[The](/zh/post/the/) [table](/zh/post/table/) is made [of](/zh/post/of/) [solid](/zh/post/solid/) [wooden](/zh/post/wooden/) [material](/zh/post/material/)."
+- **名词**: 木材；木料。例如: "[He](/zh/post/he/) needs [some](/zh/post/some/) [wooden](/zh/post/wooden/) planks [for](/zh/post/for/) [his](/zh/post/his/) [project](/zh/post/project/)."
 
 ## 短语
-- "[wooden](/post/wooden/) [spoon](/post/spoon/)" 在某些文化中指的是竞赛或考试的最后一名。
-- "[wooden](/post/wooden/) [horse](/post/horse/)" 可以指古代战争中的特洛伊木马，或者儿童玩具。
+- "[wooden](/zh/post/wooden/) [spoon](/zh/post/spoon/)" 在某些文化中指的是竞赛或考试的最后一名。
+- "[wooden](/zh/post/wooden/) [horse](/zh/post/horse/)" 可以指古代战争中的特洛伊木马，或者儿童玩具。
 
 ## 例句
-- 形容词: "[The](/post/the/) [old](/post/old/) [house](/post/house/) had [charming](/post/charming/) [wooden](/post/wooden/) shutters [on](/post/on/) [its](/post/its/) windows."
-- 名词: "[The](/post/the/) [carpenter](/post/carpenter/) was carving [a](/post/a/) [beautiful](/post/beautiful/) [wooden](/post/wooden/) sculpture."
+- 形容词: "[The](/zh/post/the/) [old](/zh/post/old/) [house](/zh/post/house/) had [charming](/zh/post/charming/) [wooden](/zh/post/wooden/) shutters [on](/zh/post/on/) [its](/zh/post/its/) windows."
+- 名词: "[The](/zh/post/the/) [carpenter](/zh/post/carpenter/) was carving [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [wooden](/zh/post/wooden/) sculpture."
 
 ## 同义词
 - woodenness (名词形式，指木质的状态)
-- [timber](/post/timber/)
+- [timber](/zh/post/timber/)
 - woody
-- [lumber](/post/lumber/)
+- [lumber](/zh/post/lumber/)
 - plank

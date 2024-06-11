@@ -11,20 +11,20 @@ keywords = ['ai words', 'ugly']
 /ˈʌɡli/
 
 ## 释义
-- **形容词**: 不好看的，丑陋的，令人不悦的。例如: "[The](/post/the/) [old](/post/old/) [building](/post/building/) had an [ugly](/post/ugly/) facade."
-- **副词**: 丑陋地，糟糕地。例如: "[He](/post/he/) played [the](/post/the/) [piano](/post/piano/) [ugly](/post/ugly/), [without](/post/without/) [any](/post/any/) musicality."
+- **形容词**: 不好看的，丑陋的，令人不悦的。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [building](/zh/post/building/) had an [ugly](/zh/post/ugly/) facade."
+- **副词**: 丑陋地，糟糕地。例如: "[He](/zh/post/he/) played [the](/zh/post/the/) [piano](/zh/post/piano/) [ugly](/zh/post/ugly/), [without](/zh/post/without/) [any](/zh/post/any/) musicality."
 
 ## 短语
-- "[Ugly](/post/ugly/) duckling" 指起初看似不起眼，后来却变得美丽或出色的人或事物。
-- "An [ugly](/post/ugly/) [situation](/post/situation/)" 指一个棘手或不愉快的情况。
+- "[Ugly](/zh/post/ugly/) duckling" 指起初看似不起眼，后来却变得美丽或出色的人或事物。
+- "An [ugly](/zh/post/ugly/) [situation](/zh/post/situation/)" 指一个棘手或不愉快的情况。
 
 ## 例句
-- 形容词: "[Despite](/post/despite/) [her](/post/her/) [ugly](/post/ugly/) [appearance](/post/appearance/), [she](/post/she/) had [a](/post/a/) [beautiful](/post/beautiful/) personality."
-- 副词: "[He](/post/he/) fell [down](/post/down/) [and](/post/and/) landed [ugly](/post/ugly/), twisting [his](/post/his/) [ankle](/post/ankle/)."
+- 形容词: "[Despite](/zh/post/despite/) [her](/zh/post/her/) [ugly](/zh/post/ugly/) [appearance](/zh/post/appearance/), [she](/zh/post/she/) had [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) personality."
+- 副词: "[He](/zh/post/he/) fell [down](/zh/post/down/) [and](/zh/post/and/) landed [ugly](/zh/post/ugly/), twisting [his](/zh/post/his/) [ankle](/zh/post/ankle/)."
 
 ## 同义词
 - Homely
 - Unattractive
 - Repulsive
 - Hideous
-- [Plain](/post/plain/)
+- [Plain](/zh/post/plain/)

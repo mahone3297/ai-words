@@ -7,41 +7,41 @@ description = '[riˈgret] vt.懊悔；抱歉 n.懊悔'
 keywords = ['ai words', 'regret']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈɡret/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [sorrow](/en/post/sorrow/), disappointment, [or](/en/post/or/) remorse [for](/en/post/for/) [a](/en/post/a/) [mistake](/en/post/mistake/), [loss](/en/post/loss/), [or](/en/post/or/) missed [opportunity](/en/post/opportunity/): *I [regret](/en/post/regret/) [not](/en/post/not/) studying harder [for](/en/post/for/) [the](/en/post/the/) [exam](/en/post/exam/).*
-2. [A](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [regret](/en/post/regret/) [or](/en/post/or/) unhappiness [about](/en/post/about/) [something](/en/post/something/) [that](/en/post/that/) has happened [or](/en/post/or/) been done: *[She](/en/post/she/) regrets [her](/en/post/her/) [decision](/en/post/decision/) [to](/en/post/to/) [quit](/en/post/quit/) [her](/en/post/her/) [job](/en/post/job/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [sorrow](/post/sorrow/), disappointment, [or](/post/or/) remorse [for](/post/for/) [a](/post/a/) [mistake](/post/mistake/), [loss](/post/loss/), [or](/post/or/) missed [opportunity](/post/opportunity/): *I [regret](/post/regret/) [not](/post/not/) studying harder [for](/post/for/) [the](/post/the/) [exam](/post/exam/).*
+2. [A](/post/a/) [sense](/post/sense/) [of](/post/of/) [regret](/post/regret/) [or](/post/or/) unhappiness [about](/post/about/) [something](/post/something/) [that](/post/that/) has happened [or](/post/or/) been done: *[She](/post/she/) regrets [her](/post/her/) [decision](/post/decision/) [to](/post/to/) [quit](/post/quit/) [her](/post/her/) [job](/post/job/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [express](/en/post/express/) remorse, [sorrow](/en/post/sorrow/), [or](/en/post/or/) disappointment [over](/en/post/over/) [something](/en/post/something/) [one](/en/post/one/) has done [or](/en/post/or/) failed [to](/en/post/to/) [do](/en/post/do/): *I deeply [regret](/en/post/regret/) [my](/en/post/my/) actions [in](/en/post/in/) [that](/en/post/that/) [situation](/en/post/situation/).*
-2. [To](/en/post/to/) [wish](/en/post/wish/) [or](/en/post/or/) [desire](/en/post/desire/) [something](/en/post/something/) had been [different](/en/post/different/) [or](/en/post/or/) hadn't occurred: *[He](/en/post/he/) regrets [not](/en/post/not/) taking [that](/en/post/that/) [chance](/en/post/chance/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [express](/post/express/) remorse, [sorrow](/post/sorrow/), [or](/post/or/) disappointment [over](/post/over/) [something](/post/something/) [one](/post/one/) has done [or](/post/or/) failed [to](/post/to/) [do](/post/do/): *I deeply [regret](/post/regret/) [my](/post/my/) actions [in](/post/in/) [that](/post/that/) [situation](/post/situation/).*
+2. [To](/post/to/) [wish](/post/wish/) [or](/post/or/) [desire](/post/desire/) [something](/post/something/) had been [different](/post/different/) [or](/post/or/) hadn't occurred: *[He](/post/he/) regrets [not](/post/not/) taking [that](/post/that/) [chance](/post/chance/).*
 
-### [Adjective](/en/post/adjective/)
-1. Expressing [regret](/en/post/regret/) [or](/en/post/or/) remorse: *[Her](/en/post/her/) regretful [expression](/en/post/expression/) showed [how](/en/post/how/) [sorry](/en/post/sorry/) [she](/en/post/she/) was.*
+### [Adjective](/post/adjective/)
+1. Expressing [regret](/post/regret/) [or](/post/or/) remorse: *[Her](/post/her/) regretful [expression](/post/expression/) showed [how](/post/how/) [sorry](/post/sorry/) [she](/post/she/) was.*
 
 ## Phrases
-- "[Feel](/en/post/feel/) [no](/en/post/no/) [regret](/en/post/regret/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [no](/en/post/no/) remorse [or](/en/post/or/) guilt.
-- "Regretting [the](/en/post/the/) [past](/en/post/past/)" is [when](/en/post/when/) [you](/en/post/you/) [look](/en/post/look/) [back](/en/post/back/) [with](/en/post/with/) disappointment.
-- "[Live](/en/post/live/) [without](/en/post/without/) [regret](/en/post/regret/)" is [a](/en/post/a/) [goal](/en/post/goal/) [to](/en/post/to/) [lead](/en/post/lead/) [a](/en/post/a/) [life](/en/post/life/) [free](/en/post/free/) [from](/en/post/from/) remorse.
+- "[Feel](/post/feel/) [no](/post/no/) [regret](/post/regret/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [no](/post/no/) remorse [or](/post/or/) guilt.
+- "Regretting [the](/post/the/) [past](/post/past/)" is [when](/post/when/) [you](/post/you/) [look](/post/look/) [back](/post/back/) [with](/post/with/) disappointment.
+- "[Live](/post/live/) [without](/post/without/) [regret](/post/regret/)" is [a](/post/a/) [goal](/post/goal/) [to](/post/to/) [lead](/post/lead/) [a](/post/a/) [life](/post/life/) [free](/post/free/) [from](/post/from/) remorse.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) held [back](/en/post/back/) tears, filled [with](/en/post/with/) [regret](/en/post/regret/) [for](/en/post/for/) [her](/en/post/her/) [past](/en/post/past/) mistakes."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) deeply regrets [not](/en/post/not/) telling [her](/en/post/her/) [the](/en/post/the/) [truth](/en/post/truth/) sooner."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) regretful [look](/en/post/look/) [on](/en/post/on/) [his](/en/post/his/) [face](/en/post/face/) conveyed [his](/en/post/his/) [sorrow](/en/post/sorrow/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) held [back](/post/back/) tears, filled [with](/post/with/) [regret](/post/regret/) [for](/post/for/) [her](/post/her/) [past](/post/past/) mistakes."
+- **[Verb](/post/verb/)**: "[He](/post/he/) deeply regrets [not](/post/not/) telling [her](/post/her/) [the](/post/the/) [truth](/post/truth/) sooner."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) regretful [look](/post/look/) [on](/post/on/) [his](/post/his/) [face](/post/face/) conveyed [his](/post/his/) [sorrow](/post/sorrow/)."
 
 ## Synonyms
 - Remorse
-- [Sorrow](/en/post/sorrow/)
+- [Sorrow](/post/sorrow/)
 - Apologetic
 - Wistful
 - Lamentable
 
 ## Antonyms
 - Blissful
-- [Joyful](/en/post/joyful/)
-- [Indifferent](/en/post/indifferent/)
+- [Joyful](/post/joyful/)
+- [Indifferent](/post/indifferent/)
 - Unrepentant
 - Carefree

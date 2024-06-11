@@ -7,39 +7,39 @@ description = '[truːθ] n.真理；真实；真实性'
 keywords = ['ai words', 'truth']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /truːθ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Truth](/en/post/truth/)**: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [fact](/en/post/fact/) [of](/en/post/of/) [being](/en/post/being/) [in](/en/post/in/) [accordance](/en/post/accordance/) [with](/en/post/with/) [reality](/en/post/reality/) [or](/en/post/or/) [fact](/en/post/fact/); [reality](/en/post/reality/). [Example](/en/post/example/): "[The](/en/post/the/) [truth](/en/post/truth/) [about](/en/post/about/) [their](/en/post/their/) [past](/en/post/past/) [finally](/en/post/finally/) came [to](/en/post/to/) [light](/en/post/light/)."
-- **Truthfulness**: [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [honest](/en/post/honest/) [and](/en/post/and/) truthful. [Example](/en/post/example/): "[Her](/en/post/her/) [honesty](/en/post/honesty/) [and](/en/post/and/) truthfulness were [greatly](/en/post/greatly/) admired."
+### [Noun](/post/noun/)
+- **[Truth](/post/truth/)**: [The](/post/the/) [state](/post/state/) [or](/post/or/) [fact](/post/fact/) [of](/post/of/) [being](/post/being/) [in](/post/in/) [accordance](/post/accordance/) [with](/post/with/) [reality](/post/reality/) [or](/post/or/) [fact](/post/fact/); [reality](/post/reality/). [Example](/post/example/): "[The](/post/the/) [truth](/post/truth/) [about](/post/about/) [their](/post/their/) [past](/post/past/) [finally](/post/finally/) came [to](/post/to/) [light](/post/light/)."
+- **Truthfulness**: [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [honest](/post/honest/) [and](/post/and/) truthful. [Example](/post/example/): "[Her](/post/her/) [honesty](/post/honesty/) [and](/post/and/) truthfulness were [greatly](/post/greatly/) admired."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [discover](/en/post/discover/), [reveal](/en/post/reveal/), [or](/en/post/or/) assert [the](/en/post/the/) [truth](/en/post/truth/). [Example](/en/post/example/): "[We](/en/post/we/) [must](/en/post/must/) [seek](/en/post/seek/) [the](/en/post/the/) [truth](/en/post/truth/) [in](/en/post/in/) [every](/en/post/every/) [situation](/en/post/situation/)."
-- [To](/en/post/to/) [be](/en/post/be/) [true](/en/post/true/) [to](/en/post/to/) [something](/en/post/something/) ([a](/en/post/a/) [principle](/en/post/principle/), [promise](/en/post/promise/), [or](/en/post/or/) [belief](/en/post/belief/)). [Example](/en/post/example/): "[He](/en/post/he/) remained [true](/en/post/true/) [to](/en/post/to/) [his](/en/post/his/) [word](/en/post/word/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [discover](/post/discover/), [reveal](/post/reveal/), [or](/post/or/) assert [the](/post/the/) [truth](/post/truth/). [Example](/post/example/): "[We](/post/we/) [must](/post/must/) [seek](/post/seek/) [the](/post/the/) [truth](/post/truth/) [in](/post/in/) [every](/post/every/) [situation](/post/situation/)."
+- [To](/post/to/) [be](/post/be/) [true](/post/true/) [to](/post/to/) [something](/post/something/) ([a](/post/a/) [principle](/post/principle/), [promise](/post/promise/), [or](/post/or/) [belief](/post/belief/)). [Example](/post/example/): "[He](/post/he/) remained [true](/post/true/) [to](/post/to/) [his](/post/his/) [word](/post/word/)."
 
-### [Adjective](/en/post/adjective/)
-- [True](/en/post/true/) [or](/en/post/or/) [genuine](/en/post/genuine/), [not](/en/post/not/) [false](/en/post/false/) [or](/en/post/or/) deceptive. [Example](/en/post/example/): "[A](/en/post/a/) [true](/en/post/true/) [friend](/en/post/friend/) [will](/en/post/will/) [always](/en/post/always/) [have](/en/post/have/) [your](/en/post/your/) [back](/en/post/back/)."
-- [In](/en/post/in/) conformity [with](/en/post/with/) facts [or](/en/post/or/) [reality](/en/post/reality/). [Example](/en/post/example/): "[The](/en/post/the/) [map](/en/post/map/) accurately reflects [the](/en/post/the/) geographical [truth](/en/post/truth/)."
+### [Adjective](/post/adjective/)
+- [True](/post/true/) [or](/post/or/) [genuine](/post/genuine/), [not](/post/not/) [false](/post/false/) [or](/post/or/) deceptive. [Example](/post/example/): "[A](/post/a/) [true](/post/true/) [friend](/post/friend/) [will](/post/will/) [always](/post/always/) [have](/post/have/) [your](/post/your/) [back](/post/back/)."
+- [In](/post/in/) conformity [with](/post/with/) facts [or](/post/or/) [reality](/post/reality/). [Example](/post/example/): "[The](/post/the/) [map](/post/map/) accurately reflects [the](/post/the/) geographical [truth](/post/truth/)."
 
-### [Adverb](/en/post/adverb/)
-- Honestly [or](/en/post/or/) correctly. [Example](/en/post/example/): "[He](/en/post/he/) spoke [the](/en/post/the/) [truth](/en/post/truth/) [without](/en/post/without/) [any](/en/post/any/) embellishment."
+### [Adverb](/post/adverb/)
+- Honestly [or](/post/or/) correctly. [Example](/post/example/): "[He](/post/he/) spoke [the](/post/the/) [truth](/post/truth/) [without](/post/without/) [any](/post/any/) embellishment."
 
 ## Phrases
-- "[Speak](/en/post/speak/) [the](/en/post/the/) [truth](/en/post/truth/)" [means](/en/post/means/) [to](/en/post/to/) [tell](/en/post/tell/) [the](/en/post/the/) [truth](/en/post/truth/).
-- "Seeking [the](/en/post/the/) [truth](/en/post/truth/)" implies [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) trying [to](/en/post/to/) [find](/en/post/find/) [out](/en/post/out/) [what](/en/post/what/) is [real](/en/post/real/) [or](/en/post/or/) factual.
-- "[The](/en/post/the/) [truth](/en/post/truth/) [will](/en/post/will/) [come](/en/post/come/) [out](/en/post/out/)" suggests [that](/en/post/that/) [the](/en/post/the/) [truth](/en/post/truth/) [will](/en/post/will/) [eventually](/en/post/eventually/) [be](/en/post/be/) revealed.
+- "[Speak](/post/speak/) [the](/post/the/) [truth](/post/truth/)" [means](/post/means/) [to](/post/to/) [tell](/post/tell/) [the](/post/the/) [truth](/post/truth/).
+- "Seeking [the](/post/the/) [truth](/post/truth/)" implies [the](/post/the/) [process](/post/process/) [of](/post/of/) trying [to](/post/to/) [find](/post/find/) [out](/post/out/) [what](/post/what/) is [real](/post/real/) [or](/post/or/) factual.
+- "[The](/post/the/) [truth](/post/truth/) [will](/post/will/) [come](/post/come/) [out](/post/out/)" suggests [that](/post/that/) [the](/post/the/) [truth](/post/truth/) [will](/post/will/) [eventually](/post/eventually/) [be](/post/be/) revealed.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) confession revealed [the](/en/post/the/) [painful](/en/post/painful/) [truth](/en/post/truth/) [about](/en/post/about/) [their](/en/post/their/) [relationship](/en/post/relationship/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [much](/en/post/much/) [investigation](/en/post/investigation/), [the](/en/post/the/) [police](/en/post/police/) [finally](/en/post/finally/) uncovered [the](/en/post/the/) [truth](/en/post/truth/) [behind](/en/post/behind/) [the](/en/post/the/) [crime](/en/post/crime/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) wore [a](/en/post/a/) [true](/en/post/true/) [smile](/en/post/smile/), knowing [she](/en/post/she/) had done [the](/en/post/the/) [right](/en/post/right/) [thing](/en/post/thing/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) confession revealed [the](/post/the/) [painful](/post/painful/) [truth](/post/truth/) [about](/post/about/) [their](/post/their/) [relationship](/post/relationship/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [much](/post/much/) [investigation](/post/investigation/), [the](/post/the/) [police](/post/police/) [finally](/post/finally/) uncovered [the](/post/the/) [truth](/post/truth/) [behind](/post/behind/) [the](/post/the/) [crime](/post/crime/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) wore [a](/post/a/) [true](/post/true/) [smile](/post/smile/), knowing [she](/post/she/) had done [the](/post/the/) [right](/post/right/) [thing](/post/thing/)."
 
 ## Synonyms
-- [Reality](/en/post/reality/)
-- [Fact](/en/post/fact/)
-- [Honesty](/en/post/honesty/)
+- [Reality](/post/reality/)
+- [Fact](/post/fact/)
+- [Honesty](/post/honesty/)
 - Integrity
 - Candidness
 - Veracity

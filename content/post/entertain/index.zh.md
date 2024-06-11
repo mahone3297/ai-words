@@ -12,23 +12,23 @@ keywords = ['ai words', 'entertain']
 
 ## 释义
 - **动词**:
-1. 款待；招待。例如: "[They](/post/they/) entertained [their](/post/their/) guests [with](/post/with/) [a](/post/a/) lavish [dinner](/post/dinner/)."
-2. 娱乐；消遣。例如: "[The](/post/the/) [movie](/post/movie/) entertained [us](/post/us/) [for](/post/for/) hours."
-3. 使快乐；使感兴趣。例如: "[The](/post/the/) magician's [performance](/post/performance/) entertained [the](/post/the/) children."
+1. 款待；招待。例如: "[They](/zh/post/they/) entertained [their](/zh/post/their/) guests [with](/zh/post/with/) [a](/zh/post/a/) lavish [dinner](/zh/post/dinner/)."
+2. 娱乐；消遣。例如: "[The](/zh/post/the/) [movie](/zh/post/movie/) entertained [us](/zh/post/us/) [for](/zh/post/for/) hours."
+3. 使快乐；使感兴趣。例如: "[The](/zh/post/the/) magician's [performance](/zh/post/performance/) entertained [the](/zh/post/the/) children."
 
 ## 短语
-- "[entertain](/post/entertain/) guests" 款待客人。
-- "[entertain](/post/entertain/) an [idea](/post/idea/)" 考虑一个想法。
-- "[entertain](/post/entertain/) hopes" 有希望，抱有期望。
+- "[entertain](/zh/post/entertain/) guests" 款待客人。
+- "[entertain](/zh/post/entertain/) an [idea](/zh/post/idea/)" 考虑一个想法。
+- "[entertain](/zh/post/entertain/) hopes" 有希望，抱有期望。
 
 ## 例句
-- "[The](/post/the/) [hostess](/post/hostess/) was [busy](/post/busy/) entertaining [her](/post/her/) friends [with](/post/with/) [music](/post/music/) [and](/post/and/) games."
-- "[The](/post/the/) comedian entertained [the](/post/the/) [audience](/post/audience/) [with](/post/with/) [his](/post/his/) jokes."
-- "[She](/post/she/) entertained [the](/post/the/) [thought](/post/thought/) [of](/post/of/) going [back](/post/back/) [to](/post/to/) [school](/post/school/)."
+- "[The](/zh/post/the/) [hostess](/zh/post/hostess/) was [busy](/zh/post/busy/) entertaining [her](/zh/post/her/) friends [with](/zh/post/with/) [music](/zh/post/music/) [and](/zh/post/and/) games."
+- "[The](/zh/post/the/) comedian entertained [the](/zh/post/the/) [audience](/zh/post/audience/) [with](/zh/post/with/) [his](/zh/post/his/) jokes."
+- "[She](/zh/post/she/) entertained [the](/zh/post/the/) [thought](/zh/post/thought/) [of](/zh/post/of/) going [back](/zh/post/back/) [to](/zh/post/to/) [school](/zh/post/school/)."
 
 ## 同义词
-- [delight](/post/delight/)
-- [amuse](/post/amuse/)
-- [pleasure](/post/pleasure/)
+- [delight](/zh/post/delight/)
+- [amuse](/zh/post/amuse/)
+- [pleasure](/zh/post/pleasure/)
 - fascinate
 - captivate

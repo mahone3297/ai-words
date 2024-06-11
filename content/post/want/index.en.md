@@ -7,38 +7,38 @@ description = '[wɔnt] vt.要 n.需要；缺乏'
 keywords = ['ai words', 'want']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɒnt/
 
 ## Definitions
-### [Verb](/en/post/verb/)
-1. **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [desire](/en/post/desire/) [to](/en/post/to/) [have](/en/post/have/) [or](/en/post/or/) [possess](/en/post/possess/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [need](/en/post/need/) [or](/en/post/or/) craving. [For](/en/post/for/) [example](/en/post/example/): "I [really](/en/post/really/) [want](/en/post/want/) [that](/en/post/that/) [new](/en/post/new/) [phone](/en/post/phone/)."
-2. **[Verb](/en/post/verb/)**: [To](/en/post/to/) [feel](/en/post/feel/) [a](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [or](/en/post/or/) [intention](/en/post/intention/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) wants [to](/en/post/to/) [travel](/en/post/travel/) [the](/en/post/the/) [world](/en/post/world/)."
-3. **[Verb](/en/post/verb/)**: [To](/en/post/to/) [request](/en/post/request/) [or](/en/post/or/) [ask](/en/post/ask/) [for](/en/post/for/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Can](/en/post/can/) I [please](/en/post/please/) [have](/en/post/have/) [some](/en/post/some/) [water](/en/post/water/)? I'm [so](/en/post/so/) [thirsty](/en/post/thirsty/)."
+### [Verb](/post/verb/)
+1. **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [desire](/post/desire/) [to](/post/to/) [have](/post/have/) [or](/post/or/) [possess](/post/possess/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [need](/post/need/) [or](/post/or/) craving. [For](/post/for/) [example](/post/example/): "I [really](/post/really/) [want](/post/want/) [that](/post/that/) [new](/post/new/) [phone](/post/phone/)."
+2. **[Verb](/post/verb/)**: [To](/post/to/) [feel](/post/feel/) [a](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [or](/post/or/) [intention](/post/intention/) [to](/post/to/) [do](/post/do/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) wants [to](/post/to/) [travel](/post/travel/) [the](/post/the/) [world](/post/world/)."
+3. **[Verb](/post/verb/)**: [To](/post/to/) [request](/post/request/) [or](/post/or/) [ask](/post/ask/) [for](/post/for/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Can](/post/can/) I [please](/post/please/) [have](/post/have/) [some](/post/some/) [water](/post/water/)? I'm [so](/post/so/) [thirsty](/post/thirsty/)."
 
 ## Phrases
-- "[Want](/en/post/want/) [something](/en/post/something/)" expresses [a](/en/post/a/) [desire](/en/post/desire/) [for](/en/post/for/) an [object](/en/post/object/) [or](/en/post/or/) [action](/en/post/action/).
-- "Don't [want](/en/post/want/)" implies [refusal](/en/post/refusal/) [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [interest](/en/post/interest/).
-- "[More](/en/post/more/) [than](/en/post/than/) [want](/en/post/want/) [to](/en/post/to/)" indicates [a](/en/post/a/) [strong](/en/post/strong/) inclination [or](/en/post/or/) eagerness.
+- "[Want](/post/want/) [something](/post/something/)" expresses [a](/post/a/) [desire](/post/desire/) [for](/post/for/) an [object](/post/object/) [or](/post/or/) [action](/post/action/).
+- "Don't [want](/post/want/)" implies [refusal](/post/refusal/) [or](/post/or/) [lack](/post/lack/) [of](/post/of/) [interest](/post/interest/).
+- "[More](/post/more/) [than](/post/than/) [want](/post/want/) [to](/post/to/)" indicates [a](/post/a/) [strong](/post/strong/) inclination [or](/post/or/) eagerness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) wants [a](/en/post/a/) healthier lifestyle."
-- **[Verb](/en/post/verb/)**: "I [want](/en/post/want/) [to](/en/post/to/) [quit](/en/post/quit/) [my](/en/post/my/) [job](/en/post/job/) [and](/en/post/and/) [start](/en/post/start/) [my](/en/post/my/) [own](/en/post/own/) [business](/en/post/business/)."
-- **[Request](/en/post/request/)**: "I don't [want](/en/post/want/) [any](/en/post/any/) [cake](/en/post/cake/); I'm [on](/en/post/on/) [a](/en/post/a/) diet."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) wants [a](/post/a/) healthier lifestyle."
+- **[Verb](/post/verb/)**: "I [want](/post/want/) [to](/post/to/) [quit](/post/quit/) [my](/post/my/) [job](/post/job/) [and](/post/and/) [start](/post/start/) [my](/post/my/) [own](/post/own/) [business](/post/business/)."
+- **[Request](/post/request/)**: "I don't [want](/post/want/) [any](/post/any/) [cake](/post/cake/); I'm [on](/post/on/) [a](/post/a/) diet."
 
 ## Synonyms
-- [Desire](/en/post/desire/)
+- [Desire](/post/desire/)
 - Crave
-- [Long](/en/post/long/) [for](/en/post/for/)
-- [Aim](/en/post/aim/)
-- [Intend](/en/post/intend/)
-- [Seek](/en/post/seek/)
-- [Hunger](/en/post/hunger/) [for](/en/post/for/)
+- [Long](/post/long/) [for](/post/for/)
+- [Aim](/post/aim/)
+- [Intend](/post/intend/)
+- [Seek](/post/seek/)
+- [Hunger](/post/hunger/) [for](/post/for/)
 
 ## Antonyms
-- [Lack](/en/post/lack/)
-- [Dislike](/en/post/dislike/)
+- [Lack](/post/lack/)
+- [Dislike](/post/dislike/)
 - Abstain
-- [Resist](/en/post/resist/)
-- [Oppose](/en/post/oppose/)
-- [Avoid](/en/post/avoid/)
+- [Resist](/post/resist/)
+- [Oppose](/post/oppose/)
+- [Avoid](/post/avoid/)

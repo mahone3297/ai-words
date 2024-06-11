@@ -7,36 +7,36 @@ description = '[vaiˈbreit] vt.使颤动 vi.颤动'
 keywords = ['ai words', 'vibrate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vəˈbraɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-  - **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) oscillating [or](/en/post/or/) moving [back](/en/post/back/) [and](/en/post/and/) [forth](/en/post/forth/) [with](/en/post/with/) [small](/en/post/small/), [rapid](/en/post/rapid/) movements, [often](/en/post/often/) producing [sound](/en/post/sound/) waves. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [speaker](/en/post/speaker/) vibrated [with](/en/post/with/) [the](/en/post/the/) bass notes."
-  - **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) producing vibrations; resonant. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) violin's strings vibrated beautifully."
-  - **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) vibrating [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) shook [her](/en/post/her/) [head](/en/post/head/) vigorously, [her](/en/post/her/) [hair](/en/post/hair/) vibrating."
+- **[Verb](/post/verb/)**: 
+  - **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) oscillating [or](/post/or/) moving [back](/post/back/) [and](/post/and/) [forth](/post/forth/) [with](/post/with/) [small](/post/small/), [rapid](/post/rapid/) movements, [often](/post/often/) producing [sound](/post/sound/) waves. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [speaker](/post/speaker/) vibrated [with](/post/with/) [the](/post/the/) bass notes."
+  - **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) producing vibrations; resonant. [For](/post/for/) [example](/post/example/): "[The](/post/the/) violin's strings vibrated beautifully."
+  - **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) vibrating [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) shook [her](/post/her/) [head](/post/head/) vigorously, [her](/post/her/) [hair](/post/hair/) vibrating."
 
 ## Phrases
-- "[Vibrate](/en/post/vibrate/) [at](/en/post/at/) [a](/en/post/a/) [certain](/en/post/certain/) [frequency](/en/post/frequency/)" [means](/en/post/means/) [to](/en/post/to/) oscillate [at](/en/post/at/) [a](/en/post/a/) [particular](/en/post/particular/) [rate](/en/post/rate/).
-- "Vibrations [can](/en/post/can/) [be](/en/post/be/) felt" refers [to](/en/post/to/) [the](/en/post/the/) sensation transmitted [through](/en/post/through/) [a](/en/post/a/) [medium](/en/post/medium/).
-- "Vibrating [phone](/en/post/phone/)" indicates [a](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) is emitting [sound](/en/post/sound/) [due](/en/post/due/) [to](/en/post/to/) [movement](/en/post/movement/).
+- "[Vibrate](/post/vibrate/) [at](/post/at/) [a](/post/a/) [certain](/post/certain/) [frequency](/post/frequency/)" [means](/post/means/) [to](/post/to/) oscillate [at](/post/at/) [a](/post/a/) [particular](/post/particular/) [rate](/post/rate/).
+- "Vibrations [can](/post/can/) [be](/post/be/) felt" refers [to](/post/to/) [the](/post/the/) sensation transmitted [through](/post/through/) [a](/post/a/) [medium](/post/medium/).
+- "Vibrating [phone](/post/phone/)" indicates [a](/post/a/) [device](/post/device/) [that](/post/that/) is emitting [sound](/post/sound/) [due](/post/due/) [to](/post/to/) [movement](/post/movement/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([Noun](/en/post/noun/))**: "[The](/en/post/the/) [engine](/en/post/engine/) vibrated violently [during](/en/post/during/) [the](/en/post/the/) high-speed [acceleration](/en/post/acceleration/)."
-- **[Verb](/en/post/verb/) ([Adjective](/en/post/adjective/))**: "[The](/en/post/the/) tuning [fork](/en/post/fork/) produced [a](/en/post/a/) [clear](/en/post/clear/), vibrant [sound](/en/post/sound/)."
-- **[Verb](/en/post/verb/) ([Adverb](/en/post/adverb/))**: "[He](/en/post/he/) held [the](/en/post/the/) [microphone](/en/post/microphone/) tightly [to](/en/post/to/) minimize [any](/en/post/any/) vibrations [while](/en/post/while/) singing."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([Noun](/post/noun/))**: "[The](/post/the/) [engine](/post/engine/) vibrated violently [during](/post/during/) [the](/post/the/) high-speed [acceleration](/post/acceleration/)."
+- **[Verb](/post/verb/) ([Adjective](/post/adjective/))**: "[The](/post/the/) tuning [fork](/post/fork/) produced [a](/post/a/) [clear](/post/clear/), vibrant [sound](/post/sound/)."
+- **[Verb](/post/verb/) ([Adverb](/post/adverb/))**: "[He](/post/he/) held [the](/post/the/) [microphone](/post/microphone/) tightly [to](/post/to/) minimize [any](/post/any/) vibrations [while](/post/while/) singing."
 
 ## Synonyms
 - Resonate
 - Oscillate
 - Quiver
-- [Tremble](/en/post/tremble/)
-- [Shake](/en/post/shake/)
+- [Tremble](/post/tremble/)
+- [Shake](/post/shake/)
 - pulsate
 
 ## Antonyms
-- [Stay](/en/post/stay/) [still](/en/post/still/)
-- [Be](/en/post/be/) [steady](/en/post/steady/)
-- [Rest](/en/post/rest/)
-- [Be](/en/post/be/) [calm](/en/post/calm/)
-- [Be](/en/post/be/) tranquil
+- [Stay](/post/stay/) [still](/post/still/)
+- [Be](/post/be/) [steady](/post/steady/)
+- [Rest](/post/rest/)
+- [Be](/post/be/) [calm](/post/calm/)
+- [Be](/post/be/) tranquil

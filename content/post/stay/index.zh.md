@@ -11,22 +11,22 @@ keywords = ['ai words', 'stay']
 /steɪ/
 
 ## 释义
-- **动词**: 停留，逗留。例如: "I'm staying [at](/post/at/) [a](/post/a/) [hotel](/post/hotel/) downtown [for](/post/for/) [a](/post/a/) [few](/post/few/) days."
-- **名词**: 居留，停留期间。例如: "[My](/post/my/) [stay](/post/stay/) [in](/post/in/) Paris was unforgettable."
-- **形容词**: 坚固的，持久的。例如: "[The](/post/the/) stay锚是坚固的，足以承受大风浪。"
+- **动词**: 停留，逗留。例如: "I'm staying [at](/zh/post/at/) [a](/zh/post/a/) [hotel](/zh/post/hotel/) downtown [for](/zh/post/for/) [a](/zh/post/a/) [few](/zh/post/few/) days."
+- **名词**: 居留，停留期间。例如: "[My](/zh/post/my/) [stay](/zh/post/stay/) [in](/zh/post/in/) Paris was unforgettable."
+- **形容词**: 坚固的，持久的。例如: "[The](/zh/post/the/) stay锚是坚固的，足以承受大风浪。"
 
 ## 短语
-- "[to](/post/to/) [stay](/post/stay/) [put](/post/put/)" 不动，留在原地。例如: "[Stay](/post/stay/) [put](/post/put/) [until](/post/until/) [the](/post/the/) [police](/post/police/) [arrive](/post/arrive/)."
-- "[on](/post/on/) [a](/post/a/) [short](/post/short/) [stay](/post/stay/)" 短暂的停留。例如: "We're [just](/post/just/) [on](/post/on/) [a](/post/a/) [short](/post/short/) [stay](/post/stay/) [before](/post/before/) [heading](/post/heading/) [to](/post/to/) [our](/post/our/) [next](/post/next/) [destination](/post/destination/)."
-- "[to](/post/to/) [make](/post/make/) one's [stay](/post/stay/) enjoyable" 使某人的逗留愉快。例如: "[The](/post/the/) [hotel](/post/hotel/) [staff](/post/staff/) worked [hard](/post/hard/) [to](/post/to/) [make](/post/make/) [our](/post/our/) [stay](/post/stay/) enjoyable."
+- "[to](/zh/post/to/) [stay](/zh/post/stay/) [put](/zh/post/put/)" 不动，留在原地。例如: "[Stay](/zh/post/stay/) [put](/zh/post/put/) [until](/zh/post/until/) [the](/zh/post/the/) [police](/zh/post/police/) [arrive](/zh/post/arrive/)."
+- "[on](/zh/post/on/) [a](/zh/post/a/) [short](/zh/post/short/) [stay](/zh/post/stay/)" 短暂的停留。例如: "We're [just](/zh/post/just/) [on](/zh/post/on/) [a](/zh/post/a/) [short](/zh/post/short/) [stay](/zh/post/stay/) [before](/zh/post/before/) [heading](/zh/post/heading/) [to](/zh/post/to/) [our](/zh/post/our/) [next](/zh/post/next/) [destination](/zh/post/destination/)."
+- "[to](/zh/post/to/) [make](/zh/post/make/) one's [stay](/zh/post/stay/) enjoyable" 使某人的逗留愉快。例如: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) [staff](/zh/post/staff/) worked [hard](/zh/post/hard/) [to](/zh/post/to/) [make](/zh/post/make/) [our](/zh/post/our/) [stay](/zh/post/stay/) enjoyable."
 
 ## 例句
-- 动词: "[They](/post/they/) decided [to](/post/to/) [stay](/post/stay/) an [extra](/post/extra/) [day](/post/day/) [because](/post/because/) [of](/post/of/) [the](/post/the/) [good](/post/good/) [weather](/post/weather/)."
-- 名词: "[During](/post/during/) [my](/post/my/) [stay](/post/stay/) [in](/post/in/) [New](/post/new/) York, I visited [several](/post/several/) museums."
-- 形容词: "[This](/post/this/) sofa [bed](/post/bed/) is [quite](/post/quite/) [comfortable](/post/comfortable/) [and](/post/and/) stays [in](/post/in/) [place](/post/place/) [when](/post/when/) unfolded."
+- 动词: "[They](/zh/post/they/) decided [to](/zh/post/to/) [stay](/zh/post/stay/) an [extra](/zh/post/extra/) [day](/zh/post/day/) [because](/zh/post/because/) [of](/zh/post/of/) [the](/zh/post/the/) [good](/zh/post/good/) [weather](/zh/post/weather/)."
+- 名词: "[During](/zh/post/during/) [my](/zh/post/my/) [stay](/zh/post/stay/) [in](/zh/post/in/) [New](/zh/post/new/) York, I visited [several](/zh/post/several/) museums."
+- 形容词: "[This](/zh/post/this/) sofa [bed](/zh/post/bed/) is [quite](/zh/post/quite/) [comfortable](/zh/post/comfortable/) [and](/zh/post/and/) stays [in](/zh/post/in/) [place](/zh/post/place/) [when](/zh/post/when/) unfolded."
 
 ## 同义词
-- [remain](/post/remain/)
+- [remain](/zh/post/remain/)
 - linger
 - abide
 - dwell

@@ -11,22 +11,22 @@ keywords = ['ai words', 'smell']
 /smel/
 
 ## 释义
-- **名词**: 气味，味道。例如: "[The](/post/the/) [room](/post/room/) had [a](/post/a/) [pleasant](/post/pleasant/) [smell](/post/smell/) [of](/post/of/) flowers."
-- **动词**: 闻，嗅。例如: "[She](/post/she/) [could](/post/could/) [smell](/post/smell/) [the](/post/the/) freshly baked [bread](/post/bread/) [from](/post/from/) [the](/post/the/) [kitchen](/post/kitchen/)."
-- **形容词**: 有气味的，发出气味的。例如: "[The](/post/the/) [smell](/post/smell/) [fruit](/post/fruit/) is [very](/post/very/) [attractive](/post/attractive/)."
+- **名词**: 气味，味道。例如: "[The](/zh/post/the/) [room](/zh/post/room/) had [a](/zh/post/a/) [pleasant](/zh/post/pleasant/) [smell](/zh/post/smell/) [of](/zh/post/of/) flowers."
+- **动词**: 闻，嗅。例如: "[She](/zh/post/she/) [could](/zh/post/could/) [smell](/zh/post/smell/) [the](/zh/post/the/) freshly baked [bread](/zh/post/bread/) [from](/zh/post/from/) [the](/zh/post/the/) [kitchen](/zh/post/kitchen/)."
+- **形容词**: 有气味的，发出气味的。例如: "[The](/zh/post/the/) [smell](/zh/post/smell/) [fruit](/zh/post/fruit/) is [very](/zh/post/very/) [attractive](/zh/post/attractive/)."
 
 ## 短语
-- "[smell](/post/smell/) [something](/post/something/) [out](/post/out/)" 发现或找出某事物。例如: "[The](/post/the/) [dog](/post/dog/) smelled [the](/post/the/) intruder [out](/post/out/) [quickly](/post/quickly/)."
-- "[a](/post/a/) [smell](/post/smell/) [of](/post/of/) [smoke](/post/smoke/)" 烟味。例如: "There's [a](/post/a/) [strange](/post/strange/) [smell](/post/smell/) [of](/post/of/) [smoke](/post/smoke/) [in](/post/in/) [the](/post/the/) [house](/post/house/)."
+- "[smell](/zh/post/smell/) [something](/zh/post/something/) [out](/zh/post/out/)" 发现或找出某事物。例如: "[The](/zh/post/the/) [dog](/zh/post/dog/) smelled [the](/zh/post/the/) intruder [out](/zh/post/out/) [quickly](/zh/post/quickly/)."
+- "[a](/zh/post/a/) [smell](/zh/post/smell/) [of](/zh/post/of/) [smoke](/zh/post/smoke/)" 烟味。例如: "There's [a](/zh/post/a/) [strange](/zh/post/strange/) [smell](/zh/post/smell/) [of](/zh/post/of/) [smoke](/zh/post/smoke/) [in](/zh/post/in/) [the](/zh/post/the/) [house](/zh/post/house/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [smell](/post/smell/) [of](/post/of/) [coffee](/post/coffee/) woke [me](/post/me/) [up](/post/up/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
-- 动词: "[He](/post/he/) [could](/post/could/) [smell](/post/smell/) [the](/post/the/) [danger](/post/danger/) approaching."
-- 形容词: "[The](/post/the/) [smell](/post/smell/) [clothes](/post/clothes/) needed [to](/post/to/) [be](/post/be/) washed."
+- 名词: "[The](/zh/post/the/) [smell](/zh/post/smell/) [of](/zh/post/of/) [coffee](/zh/post/coffee/) woke [me](/zh/post/me/) [up](/zh/post/up/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+- 动词: "[He](/zh/post/he/) [could](/zh/post/could/) [smell](/zh/post/smell/) [the](/zh/post/the/) [danger](/zh/post/danger/) approaching."
+- 形容词: "[The](/zh/post/the/) [smell](/zh/post/smell/) [clothes](/zh/post/clothes/) needed [to](/zh/post/to/) [be](/zh/post/be/) washed."
 
 ## 同义词
 - Odor
 - Aroma
-- [Scent](/post/scent/)
+- [Scent](/zh/post/scent/)
 - Fragrance
 - Essence

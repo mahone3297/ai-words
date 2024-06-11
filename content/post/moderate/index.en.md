@@ -7,32 +7,32 @@ description = '[ˈmɔdərit] a.温和的；有节制的'
 keywords = ['ai words', 'moderate']
 +++
 
-## [Word](/en/post/word/): [Moderate](/en/post/moderate/)
+## [Word](/post/word/): [Moderate](/post/moderate/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɑːdərət/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) [extreme](/en/post/extreme/), kept [within](/en/post/within/) [reasonable](/en/post/reasonable/) [or](/en/post/or/) [average](/en/post/average/) limits; [not](/en/post/not/) [large](/en/post/large/) [or](/en/post/or/) [great](/en/post/great/) [in](/en/post/in/) [amount](/en/post/amount/), [intensity](/en/post/intensity/), [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) chose [a](/en/post/a/) [moderate](/en/post/moderate/) [pace](/en/post/pace/) [for](/en/post/for/) [the](/en/post/the/) hike."
-  - *[Politics](/en/post/politics/)*: Belonging [to](/en/post/to/) [or](/en/post/or/) supporting [a](/en/post/a/) [political](/en/post/political/) [party](/en/post/party/) [or](/en/post/or/) [group](/en/post/group/) [that](/en/post/that/) occupies [a](/en/post/a/) [middle](/en/post/middle/) [position](/en/post/position/) [between](/en/post/between/) [the](/en/post/the/) extremes [of](/en/post/of/) left-wing [and](/en/post/and/) right-wing [politics](/en/post/politics/). [Example](/en/post/example/): "[The](/en/post/the/) [moderate](/en/post/moderate/) [wing](/en/post/wing/) [of](/en/post/of/) [the](/en/post/the/) [party](/en/post/party/) was [able](/en/post/able/) [to](/en/post/to/) [sway](/en/post/sway/) [the](/en/post/the/) [vote](/en/post/vote/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [less](/en/post/less/) [extreme](/en/post/extreme/), [severe](/en/post/severe/), [or](/en/post/or/) [intense](/en/post/intense/); [to](/en/post/to/) [limit](/en/post/limit/) [or](/en/post/or/) [control](/en/post/control/) [something](/en/post/something/). [Example](/en/post/example/): "[Moderate](/en/post/moderate/) [your](/en/post/your/) drinking habits."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) holds [or](/en/post/or/) advocates [moderate](/en/post/moderate/) views, [especially](/en/post/especially/) [in](/en/post/in/) [politics](/en/post/politics/). [Example](/en/post/example/): "[The](/en/post/the/) moderates were [key](/en/post/key/) [in](/en/post/in/) negotiating [the](/en/post/the/) [peace](/en/post/peace/) [treaty](/en/post/treaty/)."
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) [extreme](/post/extreme/), kept [within](/post/within/) [reasonable](/post/reasonable/) [or](/post/or/) [average](/post/average/) limits; [not](/post/not/) [large](/post/large/) [or](/post/or/) [great](/post/great/) [in](/post/in/) [amount](/post/amount/), [intensity](/post/intensity/), [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) chose [a](/post/a/) [moderate](/post/moderate/) [pace](/post/pace/) [for](/post/for/) [the](/post/the/) hike."
+  - *[Politics](/post/politics/)*: Belonging [to](/post/to/) [or](/post/or/) supporting [a](/post/a/) [political](/post/political/) [party](/post/party/) [or](/post/or/) [group](/post/group/) [that](/post/that/) occupies [a](/post/a/) [middle](/post/middle/) [position](/post/position/) [between](/post/between/) [the](/post/the/) extremes [of](/post/of/) left-wing [and](/post/and/) right-wing [politics](/post/politics/). [Example](/post/example/): "[The](/post/the/) [moderate](/post/moderate/) [wing](/post/wing/) [of](/post/of/) [the](/post/the/) [party](/post/party/) was [able](/post/able/) [to](/post/to/) [sway](/post/sway/) [the](/post/the/) [vote](/post/vote/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [less](/post/less/) [extreme](/post/extreme/), [severe](/post/severe/), [or](/post/or/) [intense](/post/intense/); [to](/post/to/) [limit](/post/limit/) [or](/post/or/) [control](/post/control/) [something](/post/something/). [Example](/post/example/): "[Moderate](/post/moderate/) [your](/post/your/) drinking habits."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) holds [or](/post/or/) advocates [moderate](/post/moderate/) views, [especially](/post/especially/) [in](/post/in/) [politics](/post/politics/). [Example](/post/example/): "[The](/post/the/) moderates were [key](/post/key/) [in](/post/in/) negotiating [the](/post/the/) [peace](/post/peace/) [treaty](/post/treaty/)."
 
 ## Phrases
-- "[In](/en/post/in/) moderation": Refers [to](/en/post/to/) having [or](/en/post/or/) doing [something](/en/post/something/) [within](/en/post/within/) [reasonable](/en/post/reasonable/) limits, avoiding [excess](/en/post/excess/). [Example](/en/post/example/): "Eating [chocolate](/en/post/chocolate/) [in](/en/post/in/) moderation won't [harm](/en/post/harm/) [your](/en/post/your/) [health](/en/post/health/)."
-- "[Moderate](/en/post/moderate/) [your](/en/post/your/) [behavior](/en/post/behavior/)": [To](/en/post/to/) [control](/en/post/control/) [or](/en/post/or/) [adjust](/en/post/adjust/) one's actions [or](/en/post/or/) [conduct](/en/post/conduct/) [to](/en/post/to/) [be](/en/post/be/) [less](/en/post/less/) [extreme](/en/post/extreme/) [or](/en/post/or/) [more](/en/post/more/) [acceptable](/en/post/acceptable/). [Example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) had [to](/en/post/to/) [remind](/en/post/remind/) students [to](/en/post/to/) [moderate](/en/post/moderate/) [their](/en/post/their/) [behavior](/en/post/behavior/) [during](/en/post/during/) [class](/en/post/class/)."
+- "[In](/post/in/) moderation": Refers [to](/post/to/) having [or](/post/or/) doing [something](/post/something/) [within](/post/within/) [reasonable](/post/reasonable/) limits, avoiding [excess](/post/excess/). [Example](/post/example/): "Eating [chocolate](/post/chocolate/) [in](/post/in/) moderation won't [harm](/post/harm/) [your](/post/your/) [health](/post/health/)."
+- "[Moderate](/post/moderate/) [your](/post/your/) [behavior](/post/behavior/)": [To](/post/to/) [control](/post/control/) [or](/post/or/) [adjust](/post/adjust/) one's actions [or](/post/or/) [conduct](/post/conduct/) [to](/post/to/) [be](/post/be/) [less](/post/less/) [extreme](/post/extreme/) [or](/post/or/) [more](/post/more/) [acceptable](/post/acceptable/). [Example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) had [to](/post/to/) [remind](/post/remind/) students [to](/post/to/) [moderate](/post/moderate/) [their](/post/their/) [behavior](/post/behavior/) [during](/post/during/) [class](/post/class/)."
   
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [climate](/en/post/climate/) [in](/en/post/in/) [this](/en/post/this/) [region](/en/post/region/) is [generally](/en/post/generally/) [quite](/en/post/quite/) [moderate](/en/post/moderate/), [with](/en/post/with/) [mild](/en/post/mild/) winters [and](/en/post/and/) [cool](/en/post/cool/) summers."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) mediator worked [hard](/en/post/hard/) [to](/en/post/to/) [moderate](/en/post/moderate/) [the](/en/post/the/) tension [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) parties."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) moderates [in](/en/post/in/) [the](/en/post/the/) [senate](/en/post/senate/) played [a](/en/post/a/) pivotal [role](/en/post/role/) [in](/en/post/in/) passing [the](/en/post/the/) bipartisan [bill](/en/post/bill/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [climate](/post/climate/) [in](/post/in/) [this](/post/this/) [region](/post/region/) is [generally](/post/generally/) [quite](/post/quite/) [moderate](/post/moderate/), [with](/post/with/) [mild](/post/mild/) winters [and](/post/and/) [cool](/post/cool/) summers."
+- **[Verb](/post/verb/)**: "[The](/post/the/) mediator worked [hard](/post/hard/) [to](/post/to/) [moderate](/post/moderate/) [the](/post/the/) tension [between](/post/between/) [the](/post/the/) [two](/post/two/) parties."
+- **[Noun](/post/noun/)**: "[The](/post/the/) moderates [in](/post/in/) [the](/post/the/) [senate](/post/senate/) played [a](/post/a/) pivotal [role](/post/role/) [in](/post/in/) passing [the](/post/the/) bipartisan [bill](/post/bill/)."
 
 ## Synonyms
-- [Modest](/en/post/modest/)
+- [Modest](/post/modest/)
 - Balanced
 - Temperate
-- [Reasonable](/en/post/reasonable/)
-- [Mild](/en/post/mild/)
+- [Reasonable](/post/reasonable/)
+- [Mild](/post/mild/)
 - Restrained
 - Controlled
-- Middle-of-the-road ([as](/en/post/as/) [a](/en/post/a/) [political](/en/post/political/) stance)
+- Middle-of-the-road ([as](/post/as/) [a](/post/a/) [political](/post/political/) stance)

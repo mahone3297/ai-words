@@ -7,35 +7,35 @@ description = '[səsˈpend] vt.吊，悬；推迟'
 keywords = ['ai words', 'suspend']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sənˈsənd/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) temporarily [stop](/en/post/stop/) [or](/en/post/or/) [delay](/en/post/delay/) ([a](/en/post/a/) [process](/en/post/process/), [activity](/en/post/activity/), [or](/en/post/or/) [punishment](/en/post/punishment/)). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [school](/en/post/school/) suspended [the](/en/post/the/) classes [due](/en/post/due/) [to](/en/post/to/) [bad](/en/post/bad/) [weather](/en/post/weather/)."
-- **[Noun](/en/post/noun/)**: Suspension ([as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [temporary](/en/post/temporary/) [halt](/en/post/halt/) [or](/en/post/or/) [removal](/en/post/removal/) [from](/en/post/from/) an [activity](/en/post/activity/)). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) student's suspension was [for](/en/post/for/) [three](/en/post/three/) days."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) suspension [or](/en/post/or/) [being](/en/post/being/) held [up](/en/post/up/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [bridge](/en/post/bridge/) was suspended [high](/en/post/high/) [above](/en/post/above/) [the](/en/post/the/) [river](/en/post/river/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) temporarily [stop](/post/stop/) [or](/post/or/) [delay](/post/delay/) ([a](/post/a/) [process](/post/process/), [activity](/post/activity/), [or](/post/or/) [punishment](/post/punishment/)). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [school](/post/school/) suspended [the](/post/the/) classes [due](/post/due/) [to](/post/to/) [bad](/post/bad/) [weather](/post/weather/)."
+- **[Noun](/post/noun/)**: Suspension ([as](/post/as/) [in](/post/in/) [a](/post/a/) [temporary](/post/temporary/) [halt](/post/halt/) [or](/post/or/) [removal](/post/removal/) [from](/post/from/) an [activity](/post/activity/)). [For](/post/for/) [example](/post/example/): "[The](/post/the/) student's suspension was [for](/post/for/) [three](/post/three/) days."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) suspension [or](/post/or/) [being](/post/being/) held [up](/post/up/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [bridge](/post/bridge/) was suspended [high](/post/high/) [above](/post/above/) [the](/post/the/) [river](/post/river/)."
 
 ## Phrases
-- "[Suspend](/en/post/suspend/) judgment" [means](/en/post/means/) [to](/en/post/to/) [hold](/en/post/hold/) [back](/en/post/back/) one's [opinion](/en/post/opinion/) [until](/en/post/until/) [more](/en/post/more/) [information](/en/post/information/) is [available](/en/post/available/).
-- "Suspended animation" refers [to](/en/post/to/) [a](/en/post/a/) [state](/en/post/state/) [where](/en/post/where/) [a](/en/post/a/) person's [vital](/en/post/vital/) functions are slowed [down](/en/post/down/) [to](/en/post/to/) [preserve](/en/post/preserve/) [life](/en/post/life/) [during](/en/post/during/) [medical](/en/post/medical/) procedures.
-- "[Suspend](/en/post/suspend/) disbelief" is [a](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [in](/en/post/in/) [literature](/en/post/literature/) [to](/en/post/to/) [encourage](/en/post/encourage/) readers [to](/en/post/to/) [accept](/en/post/accept/) fictional elements.
+- "[Suspend](/post/suspend/) judgment" [means](/post/means/) [to](/post/to/) [hold](/post/hold/) [back](/post/back/) one's [opinion](/post/opinion/) [until](/post/until/) [more](/post/more/) [information](/post/information/) is [available](/post/available/).
+- "Suspended animation" refers [to](/post/to/) [a](/post/a/) [state](/post/state/) [where](/post/where/) [a](/post/a/) person's [vital](/post/vital/) functions are slowed [down](/post/down/) [to](/post/to/) [preserve](/post/preserve/) [life](/post/life/) [during](/post/during/) [medical](/post/medical/) procedures.
+- "[Suspend](/post/suspend/) disbelief" is [a](/post/a/) [term](/post/term/) [used](/post/used/) [in](/post/in/) [literature](/post/literature/) [to](/post/to/) [encourage](/post/encourage/) readers [to](/post/to/) [accept](/post/accept/) fictional elements.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) suspended [the](/en/post/the/) class's [outdoor](/en/post/outdoor/) [activity](/en/post/activity/) [until](/en/post/until/) [the](/en/post/the/) [rain](/en/post/rain/) stopped."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [license](/en/post/license/) was suspended [after](/en/post/after/) [he](/en/post/he/) received [too](/en/post/too/) [many](/en/post/many/) speeding tickets."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [artist](/en/post/artist/) designed [a](/en/post/a/) stunning [building](/en/post/building/) [with](/en/post/with/) [a](/en/post/a/) suspended [ceiling](/en/post/ceiling/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) suspended [the](/post/the/) class's [outdoor](/post/outdoor/) [activity](/post/activity/) [until](/post/until/) [the](/post/the/) [rain](/post/rain/) stopped."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [license](/post/license/) was suspended [after](/post/after/) [he](/post/he/) received [too](/post/too/) [many](/post/many/) speeding tickets."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [artist](/post/artist/) designed [a](/post/a/) stunning [building](/post/building/) [with](/post/with/) [a](/post/a/) suspended [ceiling](/post/ceiling/)."
 
 ## Synonyms
-- [Halt](/en/post/halt/)
-- [Postpone](/en/post/postpone/)
-- Temporarily [stop](/en/post/stop/)
-- [Pause](/en/post/pause/)
-- [Suspend](/en/post/suspend/) execution
-- [Suspend](/en/post/suspend/) [operation](/en/post/operation/)
+- [Halt](/post/halt/)
+- [Postpone](/post/postpone/)
+- Temporarily [stop](/post/stop/)
+- [Pause](/post/pause/)
+- [Suspend](/post/suspend/) execution
+- [Suspend](/post/suspend/) [operation](/post/operation/)
 
 ## Antonyms
-- [Resume](/en/post/resume/)
-- [Continue](/en/post/continue/)
+- [Resume](/post/resume/)
+- [Continue](/post/continue/)
 - Restart
-- [Proceed](/en/post/proceed/)
-- [Lift](/en/post/lift/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) removing [a](/en/post/a/) suspension)
+- [Proceed](/post/proceed/)
+- [Lift](/post/lift/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) removing [a](/post/a/) suspension)

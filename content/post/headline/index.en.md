@@ -7,28 +7,28 @@ description = '[ˈhedlain] n.大字标题；新闻提要'
 keywords = ['ai words', 'headline']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhedlʌɪn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [main](/en/post/main/) [title](/en/post/title/) [or](/en/post/or/) [heading](/en/post/heading/) [of](/en/post/of/) an [article](/en/post/article/), [advertisement](/en/post/advertisement/), [or](/en/post/or/) [any](/en/post/any/) written [piece](/en/post/piece/), [usually](/en/post/usually/) printed [in](/en/post/in/) [large](/en/post/large/) letters [above](/en/post/above/) [the](/en/post/the/) [text](/en/post/text/). [It](/en/post/it/) [often](/en/post/often/) summarizes [or](/en/post/or/) highlights [the](/en/post/the/) [most](/en/post/most/) [important](/en/post/important/) [point](/en/post/point/) [of](/en/post/of/) [the](/en/post/the/) [content](/en/post/content/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) newspaper's [headline](/en/post/headline/) screamed '[Election](/en/post/election/) Results [Shock](/en/post/shock/) [the](/en/post/the/) [Nation](/en/post/nation/).'"
+- **[Noun](/post/noun/)**: [The](/post/the/) [main](/post/main/) [title](/post/title/) [or](/post/or/) [heading](/post/heading/) [of](/post/of/) an [article](/post/article/), [advertisement](/post/advertisement/), [or](/post/or/) [any](/post/any/) written [piece](/post/piece/), [usually](/post/usually/) printed [in](/post/in/) [large](/post/large/) letters [above](/post/above/) [the](/post/the/) [text](/post/text/). [It](/post/it/) [often](/post/often/) summarizes [or](/post/or/) highlights [the](/post/the/) [most](/post/most/) [important](/post/important/) [point](/post/point/) [of](/post/of/) [the](/post/the/) [content](/post/content/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) newspaper's [headline](/post/headline/) screamed '[Election](/post/election/) Results [Shock](/post/shock/) [the](/post/the/) [Nation](/post/nation/).'"
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): 
-- "[The](/en/post/the/) [headline](/en/post/headline/) [of](/en/post/of/) [the](/en/post/the/) [New](/en/post/new/) York Times' [front](/en/post/front/) [page](/en/post/page/) was [about](/en/post/about/) [the](/en/post/the/) historic [peace](/en/post/peace/) [treaty](/en/post/treaty/) signing."
+[Example](/post/example/) [sentence](/post/sentence/): 
+- "[The](/post/the/) [headline](/post/headline/) [of](/post/of/) [the](/post/the/) [New](/post/new/) York Times' [front](/post/front/) [page](/post/page/) was [about](/post/about/) [the](/post/the/) historic [peace](/post/peace/) [treaty](/post/treaty/) signing."
 
 Phrases:
-- "[Make](/en/post/make/) headlines": [To](/en/post/to/) [be](/en/post/be/) featured prominently [in](/en/post/in/) [news](/en/post/news/) reports [due](/en/post/due/) [to](/en/post/to/) [a](/en/post/a/) [significant](/en/post/significant/) [event](/en/post/event/) [or](/en/post/or/) [action](/en/post/action/). [For](/en/post/for/) [instance](/en/post/instance/): "[Their](/en/post/their/) groundbreaking [discovery](/en/post/discovery/) made headlines [across](/en/post/across/) [the](/en/post/the/) [globe](/en/post/globe/)."
-- "[Above](/en/post/above/) [the](/en/post/the/) [fold](/en/post/fold/)": [A](/en/post/a/) [reference](/en/post/reference/) [to](/en/post/to/) [the](/en/post/the/) [top](/en/post/top/) [half](/en/post/half/) [of](/en/post/of/) [a](/en/post/a/) [newspaper](/en/post/newspaper/) [where](/en/post/where/) [the](/en/post/the/) [headline](/en/post/headline/) is typically placed [so](/en/post/so/) [that](/en/post/that/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) seen [before](/en/post/before/) [the](/en/post/the/) [paper](/en/post/paper/) is unfolded; [this](/en/post/this/) [phrase](/en/post/phrase/) has [also](/en/post/also/) been applied metaphorically [to](/en/post/to/) online [content](/en/post/content/) [that](/en/post/that/) appears [without](/en/post/without/) scrolling.
+- "[Make](/post/make/) headlines": [To](/post/to/) [be](/post/be/) featured prominently [in](/post/in/) [news](/post/news/) reports [due](/post/due/) [to](/post/to/) [a](/post/a/) [significant](/post/significant/) [event](/post/event/) [or](/post/or/) [action](/post/action/). [For](/post/for/) [instance](/post/instance/): "[Their](/post/their/) groundbreaking [discovery](/post/discovery/) made headlines [across](/post/across/) [the](/post/the/) [globe](/post/globe/)."
+- "[Above](/post/above/) [the](/post/the/) [fold](/post/fold/)": [A](/post/a/) [reference](/post/reference/) [to](/post/to/) [the](/post/the/) [top](/post/top/) [half](/post/half/) [of](/post/of/) [a](/post/a/) [newspaper](/post/newspaper/) [where](/post/where/) [the](/post/the/) [headline](/post/headline/) is typically placed [so](/post/so/) [that](/post/that/) [it](/post/it/) [can](/post/can/) [be](/post/be/) seen [before](/post/before/) [the](/post/the/) [paper](/post/paper/) is unfolded; [this](/post/this/) [phrase](/post/phrase/) has [also](/post/also/) been applied metaphorically [to](/post/to/) online [content](/post/content/) [that](/post/that/) appears [without](/post/without/) scrolling.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [editor](/en/post/editor/) chose [a](/en/post/a/) catchy [headline](/en/post/headline/) [to](/en/post/to/) [draw](/en/post/draw/) readers' [attention](/en/post/attention/) [to](/en/post/to/) [the](/en/post/the/) investigative [report](/en/post/report/)."
-- "[The](/en/post/the/) scandalous [story](/en/post/story/) grabbed [the](/en/post/the/) day's [top](/en/post/top/) [headline](/en/post/headline/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [editor](/post/editor/) chose [a](/post/a/) catchy [headline](/post/headline/) [to](/post/to/) [draw](/post/draw/) readers' [attention](/post/attention/) [to](/post/to/) [the](/post/the/) investigative [report](/post/report/)."
+- "[The](/post/the/) scandalous [story](/post/story/) grabbed [the](/post/the/) day's [top](/post/top/) [headline](/post/headline/)."
 
 ## Synonyms
-- [Headline](/en/post/headline/) [news](/en/post/news/)
-- [Title](/en/post/title/)
+- [Headline](/post/headline/) [news](/post/news/)
+- [Title](/post/title/)
 - Caption
 - Header
-- [Banner](/en/post/banner/)
-- [Lead](/en/post/lead/) ([in](/en/post/in/) journalism)
+- [Banner](/post/banner/)
+- [Lead](/post/lead/) ([in](/post/in/) journalism)
 - Marquee (informal)

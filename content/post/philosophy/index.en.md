@@ -7,44 +7,44 @@ description = '[fiˈlɔsəfi] n.哲学；哲理；人生观'
 keywords = ['ai words', 'philosophy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌfɪləˈsɒfɪ/
 ## Definitions
-### [Noun](/en/post/noun/)
-- [Philosophy](/en/post/philosophy/): [The](/en/post/the/) [study](/en/post/study/) [of](/en/post/of/) [general](/en/post/general/) [and](/en/post/and/) [fundamental](/en/post/fundamental/) questions [about](/en/post/about/) [existence](/en/post/existence/), [knowledge](/en/post/knowledge/), ethics, values, [reason](/en/post/reason/), [mind](/en/post/mind/), [and](/en/post/and/) [language](/en/post/language/), [often](/en/post/often/) seeking [to](/en/post/to/) [provide](/en/post/provide/) [ultimate](/en/post/ultimate/) answers [and](/en/post/and/) guiding principles.
-- [System](/en/post/system/) [of](/en/post/of/) beliefs: [A](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) ideas, principles, [or](/en/post/or/) doctrines [that](/en/post/that/) [guide](/en/post/guide/) an individual's [or](/en/post/or/) group's actions [and](/en/post/and/) attitudes, [especially](/en/post/especially/) [in](/en/post/in/) matters [of](/en/post/of/) ethics [or](/en/post/or/) [conduct](/en/post/conduct/).
+### [Noun](/post/noun/)
+- [Philosophy](/post/philosophy/): [The](/post/the/) [study](/post/study/) [of](/post/of/) [general](/post/general/) [and](/post/and/) [fundamental](/post/fundamental/) questions [about](/post/about/) [existence](/post/existence/), [knowledge](/post/knowledge/), ethics, values, [reason](/post/reason/), [mind](/post/mind/), [and](/post/and/) [language](/post/language/), [often](/post/often/) seeking [to](/post/to/) [provide](/post/provide/) [ultimate](/post/ultimate/) answers [and](/post/and/) guiding principles.
+- [System](/post/system/) [of](/post/of/) beliefs: [A](/post/a/) [set](/post/set/) [of](/post/of/) ideas, principles, [or](/post/or/) doctrines [that](/post/that/) [guide](/post/guide/) an individual's [or](/post/or/) group's actions [and](/post/and/) attitudes, [especially](/post/especially/) [in](/post/in/) matters [of](/post/of/) ethics [or](/post/or/) [conduct](/post/conduct/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) contemplate [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) philosophical [inquiry](/en/post/inquiry/): [She](/en/post/she/) spends [her](/en/post/her/) weekends philosophizing [about](/en/post/about/) life's [meaning](/en/post/meaning/).
-- [To](/en/post/to/) [adopt](/en/post/adopt/) [a](/en/post/a/) philosophical stance [or](/en/post/or/) worldview: [He](/en/post/he/) philosophized [about](/en/post/about/) [the](/en/post/the/) [nature](/en/post/nature/) [of](/en/post/of/) [reality](/en/post/reality/).
+### [Verb](/post/verb/)
+- [To](/post/to/) contemplate [or](/post/or/) [engage](/post/engage/) [in](/post/in/) philosophical [inquiry](/post/inquiry/): [She](/post/she/) spends [her](/post/her/) weekends philosophizing [about](/post/about/) life's [meaning](/post/meaning/).
+- [To](/post/to/) [adopt](/post/adopt/) [a](/post/a/) philosophical stance [or](/post/or/) worldview: [He](/post/he/) philosophized [about](/post/about/) [the](/post/the/) [nature](/post/nature/) [of](/post/of/) [reality](/post/reality/).
 
-### [Adjective](/en/post/adjective/)
-- Reflecting [or](/en/post/or/) concerned [with](/en/post/with/) [philosophy](/en/post/philosophy/): [A](/en/post/a/) [philosophy](/en/post/philosophy/) seminar.
+### [Adjective](/post/adjective/)
+- Reflecting [or](/post/or/) concerned [with](/post/with/) [philosophy](/post/philosophy/): [A](/post/a/) [philosophy](/post/philosophy/) seminar.
 
-### [Noun](/en/post/noun/) (pl.) - Philosophies
-- [Different](/en/post/different/) ways [of](/en/post/of/) thinking [or](/en/post/or/) approaching [life](/en/post/life/): [Various](/en/post/various/) philosophical schools [of](/en/post/of/) [thought](/en/post/thought/).
+### [Noun](/post/noun/) (pl.) - Philosophies
+- [Different](/post/different/) ways [of](/post/of/) thinking [or](/post/or/) approaching [life](/post/life/): [Various](/post/various/) philosophical schools [of](/post/of/) [thought](/post/thought/).
 
 ## Phrases
-- "Philosophical debates" are discussions [on](/en/post/on/) [abstract](/en/post/abstract/) concepts.
-- "[A](/en/post/a/) philosophical [approach](/en/post/approach/)" involves [deep](/en/post/deep/) thinking [and](/en/post/and/) introspection.
-- "[To](/en/post/to/) ponder [the](/en/post/the/) [philosophy](/en/post/philosophy/) [of](/en/post/of/) X" [means](/en/post/means/) [to](/en/post/to/) [reflect](/en/post/reflect/) [on](/en/post/on/) [the](/en/post/the/) underlying principles [of](/en/post/of/) [a](/en/post/a/) [subject](/en/post/subject/).
+- "Philosophical debates" are discussions [on](/post/on/) [abstract](/post/abstract/) concepts.
+- "[A](/post/a/) philosophical [approach](/post/approach/)" involves [deep](/post/deep/) thinking [and](/post/and/) introspection.
+- "[To](/post/to/) ponder [the](/post/the/) [philosophy](/post/philosophy/) [of](/post/of/) X" [means](/post/means/) [to](/post/to/) [reflect](/post/reflect/) [on](/post/on/) [the](/post/the/) underlying principles [of](/post/of/) [a](/post/a/) [subject](/post/subject/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [course](/en/post/course/) introduced students [to](/en/post/to/) [various](/en/post/various/) philosophical traditions."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [found](/en/post/found/) solace [in](/en/post/in/) [the](/en/post/the/) philosophical writings [of](/en/post/of/) [ancient](/en/post/ancient/) thinkers."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [life](/en/post/life/) was guided [by](/en/post/by/) [a](/en/post/a/) stoic philosophical [philosophy](/en/post/philosophy/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [course](/post/course/) introduced students [to](/post/to/) [various](/post/various/) philosophical traditions."
+- **[Verb](/post/verb/)**: "[She](/post/she/) [found](/post/found/) solace [in](/post/in/) [the](/post/the/) philosophical writings [of](/post/of/) [ancient](/post/ancient/) thinkers."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [life](/post/life/) was guided [by](/post/by/) [a](/post/a/) stoic philosophical [philosophy](/post/philosophy/)."
 
 ## Synonyms
-- [Thought](/en/post/thought/)
-- [Belief](/en/post/belief/) [system](/en/post/system/)
+- [Thought](/post/thought/)
+- [Belief](/post/belief/) [system](/post/system/)
 - Ideology
 - Weltanschauung
 - Doctrine
 - Ethos
 
 ## Antonyms
-- [Superficial](/en/post/superficial/)
-- [Practical](/en/post/practical/)
+- [Superficial](/post/superficial/)
+- [Practical](/post/practical/)
 - Materialistic
 - Empirical
 - Sensual

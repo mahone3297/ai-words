@@ -7,39 +7,39 @@ description = '[ˌʌndəˈteikiŋ] n.任务，事业；许诺'
 keywords = ['ai words', 'undertaking']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌʌndərˈteɪkɪŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-1. An enterprise, [project](/en/post/project/), [or](/en/post/or/) [task](/en/post/task/) [that](/en/post/that/) [one](/en/post/one/) undertakes, [often](/en/post/often/) involving [effort](/en/post/effort/) [or](/en/post/or/) [risk](/en/post/risk/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) embarked [on](/en/post/on/) [a](/en/post/a/) [major](/en/post/major/) [undertaking](/en/post/undertaking/) [to](/en/post/to/) renovate [her](/en/post/her/) [house](/en/post/house/)."
-2. An [agreement](/en/post/agreement/) [or](/en/post/or/) commitment [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) signed an [undertaking](/en/post/undertaking/) [to](/en/post/to/) [deliver](/en/post/deliver/) [the](/en/post/the/) [project](/en/post/project/) [on](/en/post/on/) [time](/en/post/time/)."
+- **[Noun](/post/noun/)**: 
+1. An enterprise, [project](/post/project/), [or](/post/or/) [task](/post/task/) [that](/post/that/) [one](/post/one/) undertakes, [often](/post/often/) involving [effort](/post/effort/) [or](/post/or/) [risk](/post/risk/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) embarked [on](/post/on/) [a](/post/a/) [major](/post/major/) [undertaking](/post/undertaking/) [to](/post/to/) renovate [her](/post/her/) [house](/post/house/)."
+2. An [agreement](/post/agreement/) [or](/post/or/) commitment [to](/post/to/) [do](/post/do/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) signed an [undertaking](/post/undertaking/) [to](/post/to/) [deliver](/post/deliver/) [the](/post/the/) [project](/post/project/) [on](/post/on/) [time](/post/time/)."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [take](/en/post/take/) [on](/en/post/on/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [responsibility](/en/post/responsibility/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is challenging [or](/en/post/or/) risky. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) undertook [a](/en/post/a/) [leadership](/en/post/leadership/) [role](/en/post/role/) [in](/en/post/in/) [the](/en/post/the/) [community](/en/post/community/) [project](/en/post/project/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [take](/post/take/) [on](/post/on/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [responsibility](/post/responsibility/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is challenging [or](/post/or/) risky. [For](/post/for/) [example](/post/example/): "[He](/post/he/) undertook [a](/post/a/) [leadership](/post/leadership/) [role](/post/role/) [in](/post/in/) [the](/post/the/) [community](/post/community/) [project](/post/project/)."
 
 ## Phrases
-- "[undertake](/en/post/undertake/) [a](/en/post/a/) [project](/en/post/project/)" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [mission](/en/post/mission/).
-- "[undertaking](/en/post/undertaking/) [a](/en/post/a/) [journey](/en/post/journey/)" refers [to](/en/post/to/) embarking [on](/en/post/on/) [a](/en/post/a/) [trip](/en/post/trip/) [or](/en/post/or/) expedition.
-- "[undertaking](/en/post/undertaking/) [great](/en/post/great/) [responsibility](/en/post/responsibility/)" implies taking [on](/en/post/on/) [a](/en/post/a/) [significant](/en/post/significant/) [or](/en/post/or/) demanding [duty](/en/post/duty/).
+- "[undertake](/post/undertake/) [a](/post/a/) [project](/post/project/)" [means](/post/means/) [to](/post/to/) [start](/post/start/) [or](/post/or/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [mission](/post/mission/).
+- "[undertaking](/post/undertaking/) [a](/post/a/) [journey](/post/journey/)" refers [to](/post/to/) embarking [on](/post/on/) [a](/post/a/) [trip](/post/trip/) [or](/post/or/) expedition.
+- "[undertaking](/post/undertaking/) [great](/post/great/) [responsibility](/post/responsibility/)" implies taking [on](/post/on/) [a](/post/a/) [significant](/post/significant/) [or](/post/or/) demanding [duty](/post/duty/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) months [of](/en/post/of/) planning, [he](/en/post/he/) [finally](/en/post/finally/) embarked [on](/en/post/on/) [his](/en/post/his/) ambitious [scientific](/en/post/scientific/) [undertaking](/en/post/undertaking/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) was [willing](/en/post/willing/) [to](/en/post/to/) [undertake](/en/post/undertake/) [the](/en/post/the/) daunting [task](/en/post/task/) [of](/en/post/of/) [learning](/en/post/learning/) [a](/en/post/a/) [new](/en/post/new/) [language](/en/post/language/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) months [of](/post/of/) planning, [he](/post/he/) [finally](/post/finally/) embarked [on](/post/on/) [his](/post/his/) ambitious [scientific](/post/scientific/) [undertaking](/post/undertaking/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) was [willing](/post/willing/) [to](/post/to/) [undertake](/post/undertake/) [the](/post/the/) daunting [task](/post/task/) [of](/post/of/) [learning](/post/learning/) [a](/post/a/) [new](/post/new/) [language](/post/language/)."
 
 ## Synonyms
-- [Venture](/en/post/venture/)
+- [Venture](/post/venture/)
 - Initiative
 - Endeavor
-- [Mission](/en/post/mission/)
-- [Assignment](/en/post/assignment/)
-- [Project](/en/post/project/)
+- [Mission](/post/mission/)
+- [Assignment](/post/assignment/)
+- [Project](/post/project/)
 - Undertakings
 - Enterprise
-- [Bold](/en/post/bold/) [move](/en/post/move/)
+- [Bold](/post/bold/) [move](/post/move/)
 
 ## Antonyms
-- [Avoid](/en/post/avoid/)
+- [Avoid](/post/avoid/)
 - Abstain
 - Refrain
 - Delegate
-- Shirk ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [not](/en/post/not/) taking [responsibility](/en/post/responsibility/))
+- Shirk ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [not](/post/not/) taking [responsibility](/post/responsibility/))

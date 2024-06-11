@@ -11,22 +11,22 @@ keywords = ['ai words', 'picture']
 /pɪktʃər/
 
 ## 释义
-- **名词**: 1. 图片，图像。例如: "[She](/post/she/) hung [a](/post/a/) [beautiful](/post/beautiful/) [picture](/post/picture/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/)."
-          2. 影片，电影。例如: "[We](/post/we/) watched an [action](/post/action/) [picture](/post/picture/) [at](/post/at/) [the](/post/the/) [cinema](/post/cinema/)."
-          3. 描述，描绘。例如: "[His](/post/his/) [story](/post/story/) painted [a](/post/a/) [vivid](/post/vivid/) [picture](/post/picture/) [of](/post/of/) [life](/post/life/) [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/)."
-- **动词**: 描述，描绘（事件、情况等）。例如: "[The](/post/the/) [journalist](/post/journalist/) tried [to](/post/to/) [picture](/post/picture/) [the](/post/the/) [scene](/post/scene/) [for](/post/for/) [her](/post/her/) readers."
+- **名词**: 1. 图片，图像。例如: "[She](/zh/post/she/) hung [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [picture](/zh/post/picture/) [on](/zh/post/on/) [the](/zh/post/the/) [wall](/zh/post/wall/)."
+          2. 影片，电影。例如: "[We](/zh/post/we/) watched an [action](/zh/post/action/) [picture](/zh/post/picture/) [at](/zh/post/at/) [the](/zh/post/the/) [cinema](/zh/post/cinema/)."
+          3. 描述，描绘。例如: "[His](/zh/post/his/) [story](/zh/post/story/) painted [a](/zh/post/a/) [vivid](/zh/post/vivid/) [picture](/zh/post/picture/) [of](/zh/post/of/) [life](/zh/post/life/) [in](/zh/post/in/) [the](/zh/post/the/) [countryside](/zh/post/countryside/)."
+- **动词**: 描述，描绘（事件、情况等）。例如: "[The](/zh/post/the/) [journalist](/zh/post/journalist/) tried [to](/zh/post/to/) [picture](/zh/post/picture/) [the](/zh/post/the/) [scene](/zh/post/scene/) [for](/zh/post/for/) [her](/zh/post/her/) readers."
 
 ## 短语
-- "[A](/post/a/) [picture](/post/picture/) is [worth](/post/worth/) [a](/post/a/) [thousand](/post/thousand/) words" 意思是一幅图胜过千言万语。
-- "[Paint](/post/paint/) [a](/post/a/) [picture](/post/picture/)" 指详细描述或构想一个场景。
+- "[A](/zh/post/a/) [picture](/zh/post/picture/) is [worth](/zh/post/worth/) [a](/zh/post/a/) [thousand](/zh/post/thousand/) words" 意思是一幅图胜过千言万语。
+- "[Paint](/zh/post/paint/) [a](/zh/post/a/) [picture](/zh/post/picture/)" 指详细描述或构想一个场景。
 
 ## 例句
-- 名词: "[The](/post/the/) children drew pictures [of](/post/of/) [their](/post/their/) families [in](/post/in/) [art](/post/art/) [class](/post/class/)."
-- 动词: "[The](/post/the/) [author](/post/author/) beautifully pictures [the](/post/the/) struggles [of](/post/of/) [the](/post/the/) [main](/post/main/) [character](/post/character/)."
+- 名词: "[The](/zh/post/the/) children drew pictures [of](/zh/post/of/) [their](/zh/post/their/) families [in](/zh/post/in/) [art](/zh/post/art/) [class](/zh/post/class/)."
+- 动词: "[The](/zh/post/the/) [author](/zh/post/author/) beautifully pictures [the](/zh/post/the/) struggles [of](/zh/post/of/) [the](/zh/post/the/) [main](/zh/post/main/) [character](/zh/post/character/)."
 
 ## 同义词
-- [Image](/post/image/)
+- [Image](/zh/post/image/)
 - Photo
-- [Photograph](/post/photograph/)
-- [Sketch](/post/sketch/)
-- [Portrait](/post/portrait/)
+- [Photograph](/zh/post/photograph/)
+- [Sketch](/zh/post/sketch/)
+- [Portrait](/zh/post/portrait/)

@@ -11,23 +11,23 @@ keywords = ['ai words', 'grip']
 /griːp/
 
 ## 释义
-- **名词**: 手的紧握；控制；把握。例如: "[He](/post/he/) had [a](/post/a/) [firm](/post/firm/) [grip](/post/grip/) [on](/post/on/) [the](/post/the/) steering [wheel](/post/wheel/)."
-- **动词**: 握住，抓住；掌握。例如: "[She](/post/she/) gripped [the](/post/the/) [edge](/post/edge/) [of](/post/of/) [the](/post/the/) [cliff](/post/cliff/) tightly."
-- **形容词**: 有控制力的；引人入胜的。例如: "[The](/post/the/) [movie](/post/movie/) had [a](/post/a/) gripping storyline."
+- **名词**: 手的紧握；控制；把握。例如: "[He](/zh/post/he/) had [a](/zh/post/a/) [firm](/zh/post/firm/) [grip](/zh/post/grip/) [on](/zh/post/on/) [the](/zh/post/the/) steering [wheel](/zh/post/wheel/)."
+- **动词**: 握住，抓住；掌握。例如: "[She](/zh/post/she/) gripped [the](/zh/post/the/) [edge](/zh/post/edge/) [of](/zh/post/of/) [the](/zh/post/the/) [cliff](/zh/post/cliff/) tightly."
+- **形容词**: 有控制力的；引人入胜的。例如: "[The](/zh/post/the/) [movie](/zh/post/movie/) had [a](/zh/post/a/) gripping storyline."
 
 ## 短语
-- "[get](/post/get/) [a](/post/a/) [grip](/post/grip/)" 意味着控制住自己，保持冷静。
-- "[lose](/post/lose/) one's [grip](/post/grip/)" 表示失去控制或把握。
-- "[grip](/post/grip/) [the](/post/the/) [attention](/post/attention/) [of](/post/of/)" 意味着吸引并保持某人的注意力。
+- "[get](/zh/post/get/) [a](/zh/post/a/) [grip](/zh/post/grip/)" 意味着控制住自己，保持冷静。
+- "[lose](/zh/post/lose/) one's [grip](/zh/post/grip/)" 表示失去控制或把握。
+- "[grip](/zh/post/grip/) [the](/zh/post/the/) [attention](/zh/post/attention/) [of](/zh/post/of/)" 意味着吸引并保持某人的注意力。
 
 ## 例句
-- 名词: "[He](/post/he/) maintained [a](/post/a/) [secure](/post/secure/) [grip](/post/grip/) [on](/post/on/) [the](/post/the/) [package](/post/package/) [as](/post/as/) [he](/post/he/) climbed [the](/post/the/) stairs."
-- 动词: "[She](/post/she/) gripped [the](/post/the/) [pen](/post/pen/) [so](/post/so/) [hard](/post/hard/) [that](/post/that/) [her](/post/her/) fingers turned [white](/post/white/)."
-- 形容词: "[The](/post/the/) [lecture](/post/lecture/) was [so](/post/so/) gripping [that](/post/that/) [no](/post/no/) [one](/post/one/) wanted [it](/post/it/) [to](/post/to/) [end](/post/end/)."
+- 名词: "[He](/zh/post/he/) maintained [a](/zh/post/a/) [secure](/zh/post/secure/) [grip](/zh/post/grip/) [on](/zh/post/on/) [the](/zh/post/the/) [package](/zh/post/package/) [as](/zh/post/as/) [he](/zh/post/he/) climbed [the](/zh/post/the/) stairs."
+- 动词: "[She](/zh/post/she/) gripped [the](/zh/post/the/) [pen](/zh/post/pen/) [so](/zh/post/so/) [hard](/zh/post/hard/) [that](/zh/post/that/) [her](/zh/post/her/) fingers turned [white](/zh/post/white/)."
+- 形容词: "[The](/zh/post/the/) [lecture](/zh/post/lecture/) was [so](/zh/post/so/) gripping [that](/zh/post/that/) [no](/zh/post/no/) [one](/zh/post/one/) wanted [it](/zh/post/it/) [to](/zh/post/to/) [end](/zh/post/end/)."
 
 ## 同义词
-- [hold](/post/hold/)
-- [seize](/post/seize/)
+- [hold](/zh/post/hold/)
+- [seize](/zh/post/seize/)
 - clutch
-- [grasp](/post/grasp/)
-- [take](/post/take/) [hold](/post/hold/) [of](/post/of/)
+- [grasp](/zh/post/grasp/)
+- [take](/zh/post/take/) [hold](/zh/post/hold/) [of](/zh/post/of/)

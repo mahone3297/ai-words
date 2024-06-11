@@ -7,27 +7,27 @@ description = '[ˌɔːltəˈgeðə] ad.完全；总而言之'
 keywords = ['ai words', 'altogether']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈləʊtəʊl/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [its](/en/post/its/) entirety; [completely](/en/post/completely/); entirely. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) cleaned [the](/en/post/the/) [house](/en/post/house/) [altogether](/en/post/altogether/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) indicating [unity](/en/post/unity/) [or](/en/post/or/) totality; [comprehensive](/en/post/comprehensive/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [plan](/en/post/plan/) was [thought](/en/post/thought/) [out](/en/post/out/) [altogether](/en/post/altogether/)."
-- **[Adjective](/en/post/adjective/) (informal)**: [Intense](/en/post/intense/) [or](/en/post/or/) [excessive](/en/post/excessive/); [completely](/en/post/completely/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [altogether](/en/post/altogether/) [too](/en/post/too/) excited [about](/en/post/about/) [the](/en/post/the/) [trip](/en/post/trip/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [its](/post/its/) entirety; [completely](/post/completely/); entirely. [For](/post/for/) [example](/post/example/): "[She](/post/she/) cleaned [the](/post/the/) [house](/post/house/) [altogether](/post/altogether/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) indicating [unity](/post/unity/) [or](/post/or/) totality; [comprehensive](/post/comprehensive/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [plan](/post/plan/) was [thought](/post/thought/) [out](/post/out/) [altogether](/post/altogether/)."
+- **[Adjective](/post/adjective/) (informal)**: [Intense](/post/intense/) [or](/post/or/) [excessive](/post/excessive/); [completely](/post/completely/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [altogether](/post/altogether/) [too](/post/too/) excited [about](/post/about/) [the](/post/the/) [trip](/post/trip/)."
 
 ## Phrases
-- "[Altogether](/en/post/altogether/) [different](/en/post/different/)" [means](/en/post/means/) entirely [different](/en/post/different/).
-- "[Altogether](/en/post/altogether/) [too](/en/post/too/) [much](/en/post/much/)" signifies an [excess](/en/post/excess/) [or](/en/post/or/) overabundance.
-- "[Altogether](/en/post/altogether/) [now](/en/post/now/)" is [used](/en/post/used/) [to](/en/post/to/) [encourage](/en/post/encourage/) [unity](/en/post/unity/) [or](/en/post/or/) [agreement](/en/post/agreement/).
+- "[Altogether](/post/altogether/) [different](/post/different/)" [means](/post/means/) entirely [different](/post/different/).
+- "[Altogether](/post/altogether/) [too](/post/too/) [much](/post/much/)" signifies an [excess](/post/excess/) [or](/post/or/) overabundance.
+- "[Altogether](/post/altogether/) [now](/post/now/)" is [used](/post/used/) [to](/post/to/) [encourage](/post/encourage/) [unity](/post/unity/) [or](/post/or/) [agreement](/post/agreement/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) finished [the](/en/post/the/) [project](/en/post/project/) [altogether](/en/post/altogether/) [within](/en/post/within/) [a](/en/post/a/) [week](/en/post/week/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) team's [performance](/en/post/performance/) was [altogether](/en/post/altogether/) [impressive](/en/post/impressive/)."
-- **[Adjective](/en/post/adjective/) (informal)**: "[He](/en/post/he/) was [altogether](/en/post/altogether/) exhausted [after](/en/post/after/) [the](/en/post/the/) marathon."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) finished [the](/post/the/) [project](/post/project/) [altogether](/post/altogether/) [within](/post/within/) [a](/post/a/) [week](/post/week/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) team's [performance](/post/performance/) was [altogether](/post/altogether/) [impressive](/post/impressive/)."
+- **[Adjective](/post/adjective/) (informal)**: "[He](/post/he/) was [altogether](/post/altogether/) exhausted [after](/post/after/) [the](/post/the/) marathon."
 
 ## Synonyms
 - Entirely
-- [Completely](/en/post/completely/)
+- [Completely](/post/completely/)
 - Fully
 - Thoroughly
-- [Altogether](/en/post/altogether/) [now](/en/post/now/) (informal)
+- [Altogether](/post/altogether/) [now](/post/now/) (informal)

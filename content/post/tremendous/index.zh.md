@@ -11,21 +11,21 @@ keywords = ['ai words', 'tremendous']
 /ˈtrɛməndəs/
 
 ## 释义
-- **形容词**: 极大的，巨大的，非常强烈的。例如: "[He](/post/he/) felt [a](/post/a/) [tremendous](/post/tremendous/) [sense](/post/sense/) [of](/post/of/) [relief](/post/relief/) [after](/post/after/) finishing [the](/post/the/) [project](/post/project/)."
-- **名词**: (非正式) 极好的事物。例如: "[That](/post/that/) was [a](/post/a/) [tremendous](/post/tremendous/) [performance](/post/performance/) [by](/post/by/) [the](/post/the/) [orchestra](/post/orchestra/)."
+- **形容词**: 极大的，巨大的，非常强烈的。例如: "[He](/zh/post/he/) felt [a](/zh/post/a/) [tremendous](/zh/post/tremendous/) [sense](/zh/post/sense/) [of](/zh/post/of/) [relief](/zh/post/relief/) [after](/zh/post/after/) finishing [the](/zh/post/the/) [project](/zh/post/project/)."
+- **名词**: (非正式) 极好的事物。例如: "[That](/zh/post/that/) was [a](/zh/post/a/) [tremendous](/zh/post/tremendous/) [performance](/zh/post/performance/) [by](/zh/post/by/) [the](/zh/post/the/) [orchestra](/zh/post/orchestra/)."
 
 ## 短语
-- "[tremendous](/post/tremendous/) [pressure](/post/pressure/)" 巨大的压力
-- "[tremendous](/post/tremendous/) [success](/post/success/)" 巨大的成功
-- "[make](/post/make/) [a](/post/a/) [tremendous](/post/tremendous/) [effort](/post/effort/)" 做出极大的努力
+- "[tremendous](/zh/post/tremendous/) [pressure](/zh/post/pressure/)" 巨大的压力
+- "[tremendous](/zh/post/tremendous/) [success](/zh/post/success/)" 巨大的成功
+- "[make](/zh/post/make/) [a](/zh/post/a/) [tremendous](/zh/post/tremendous/) [effort](/zh/post/effort/)" 做出极大的努力
 
 ## 例句
-- 形容词: "[The](/post/the/) [company](/post/company/) experienced [tremendous](/post/tremendous/) [growth](/post/growth/) [in](/post/in/) [the](/post/the/) [last](/post/last/) [quarter](/post/quarter/)."
-- 名词: "[The](/post/the/) [audience](/post/audience/) gave [the](/post/the/) [speaker](/post/speaker/) [a](/post/a/) [tremendous](/post/tremendous/) [round](/post/round/) [of](/post/of/) applause."
+- 形容词: "[The](/zh/post/the/) [company](/zh/post/company/) experienced [tremendous](/zh/post/tremendous/) [growth](/zh/post/growth/) [in](/zh/post/in/) [the](/zh/post/the/) [last](/zh/post/last/) [quarter](/zh/post/quarter/)."
+- 名词: "[The](/zh/post/the/) [audience](/zh/post/audience/) gave [the](/zh/post/the/) [speaker](/zh/post/speaker/) [a](/zh/post/a/) [tremendous](/zh/post/tremendous/) [round](/zh/post/round/) [of](/zh/post/of/) applause."
 
 ## 同义词
-- [Huge](/post/huge/)
-- [Enormous](/post/enormous/)
+- [Huge](/zh/post/huge/)
+- [Enormous](/zh/post/enormous/)
 - Gigantic
 - Colossal
-- [Immense](/post/immense/)
+- [Immense](/zh/post/immense/)

@@ -7,44 +7,44 @@ description = '[ˈædʌlt] n.成年人 a.成年的'
 keywords = ['ai words', 'adult']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈædʌlt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **An [adult](/en/post/adult/)** is an [individual](/en/post/individual/) [who](/en/post/who/) has reached法定成年年龄 [and](/en/post/and/) is considered legally [capable](/en/post/capable/) [of](/en/post/of/) making [certain](/en/post/certain/) decisions, typically 18 years [old](/en/post/old/) [in](/en/post/in/) [most](/en/post/most/) countries. [It](/en/post/it/) refers [to](/en/post/to/) [a](/en/post/a/) [mature](/en/post/mature/), physically developed [person](/en/post/person/), [often](/en/post/often/) [with](/en/post/with/) [certain](/en/post/certain/) responsibilities [and](/en/post/and/) privileges.
-- **[Psychological](/en/post/psychological/) maturity**: An [adult](/en/post/adult/) [may](/en/post/may/) [also](/en/post/also/) [imply](/en/post/imply/) [emotional](/en/post/emotional/) [and](/en/post/and/) [mental](/en/post/mental/) maturity [beyond](/en/post/beyond/) adolescence.
+### [Noun](/post/noun/)
+- **An [adult](/post/adult/)** is an [individual](/post/individual/) [who](/post/who/) has reached法定成年年龄 [and](/post/and/) is considered legally [capable](/post/capable/) [of](/post/of/) making [certain](/post/certain/) decisions, typically 18 years [old](/post/old/) [in](/post/in/) [most](/post/most/) countries. [It](/post/it/) refers [to](/post/to/) [a](/post/a/) [mature](/post/mature/), physically developed [person](/post/person/), [often](/post/often/) [with](/post/with/) [certain](/post/certain/) responsibilities [and](/post/and/) privileges.
+- **[Psychological](/post/psychological/) maturity**: An [adult](/post/adult/) [may](/post/may/) [also](/post/also/) [imply](/post/imply/) [emotional](/post/emotional/) [and](/post/and/) [mental](/post/mental/) maturity [beyond](/post/beyond/) adolescence.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) **[become](/en/post/become/) [or](/en/post/or/) [act](/en/post/act/) [as](/en/post/as/) an [adult](/en/post/adult/)**: [To](/en/post/to/) [grow](/en/post/grow/) [up](/en/post/up/) [and](/en/post/and/) [assume](/en/post/assume/) [the](/en/post/the/) duties [and](/en/post/and/) responsibilities [of](/en/post/of/) adulthood.
-- [To](/en/post/to/) **[raise](/en/post/raise/) [or](/en/post/or/) [rear](/en/post/rear/) an [adult](/en/post/adult/)**: [To](/en/post/to/) [bring](/en/post/bring/) [up](/en/post/up/) [to](/en/post/to/) maturity, [especially](/en/post/especially/) children.
+### [Verb](/post/verb/)
+- [To](/post/to/) **[become](/post/become/) [or](/post/or/) [act](/post/act/) [as](/post/as/) an [adult](/post/adult/)**: [To](/post/to/) [grow](/post/grow/) [up](/post/up/) [and](/post/and/) [assume](/post/assume/) [the](/post/the/) duties [and](/post/and/) responsibilities [of](/post/of/) adulthood.
+- [To](/post/to/) **[raise](/post/raise/) [or](/post/or/) [rear](/post/rear/) an [adult](/post/adult/)**: [To](/post/to/) [bring](/post/bring/) [up](/post/up/) [to](/post/to/) maturity, [especially](/post/especially/) children.
 
-### [Adjective](/en/post/adjective/)
-- **Adult-oriented**: Designed [or](/en/post/or/) intended [for](/en/post/for/) adults, [often](/en/post/often/) [in](/en/post/in/) [content](/en/post/content/), [language](/en/post/language/), [or](/en/post/or/) themes.
-- **[Mature](/en/post/mature/)**: Characterized [by](/en/post/by/) [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) [development](/en/post/development/), [wisdom](/en/post/wisdom/), [or](/en/post/or/) [responsibility](/en/post/responsibility/).
+### [Adjective](/post/adjective/)
+- **Adult-oriented**: Designed [or](/post/or/) intended [for](/post/for/) adults, [often](/post/often/) [in](/post/in/) [content](/post/content/), [language](/post/language/), [or](/post/or/) themes.
+- **[Mature](/post/mature/)**: Characterized [by](/post/by/) [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) [development](/post/development/), [wisdom](/post/wisdom/), [or](/post/or/) [responsibility](/post/responsibility/).
 
 ## Phrases
-- "[Act](/en/post/act/) [like](/en/post/like/) an [adult](/en/post/adult/)" encourages [responsible](/en/post/responsible/) [behavior](/en/post/behavior/).
-- "[Childish](/en/post/childish/) [behavior](/en/post/behavior/)" is [often](/en/post/often/) contrasted [with](/en/post/with/) "adult-like" [conduct](/en/post/conduct/).
-- "Adulthood comes [with](/en/post/with/) [its](/en/post/its/) [own](/en/post/own/) [set](/en/post/set/) [of](/en/post/of/) challenges."
+- "[Act](/post/act/) [like](/post/like/) an [adult](/post/adult/)" encourages [responsible](/post/responsible/) [behavior](/post/behavior/).
+- "[Childish](/post/childish/) [behavior](/post/behavior/)" is [often](/post/often/) contrasted [with](/post/with/) "adult-like" [conduct](/post/conduct/).
+- "Adulthood comes [with](/post/with/) [its](/post/its/) [own](/post/own/) [set](/post/set/) [of](/post/of/) challenges."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[As](/en/post/as/) an [adult](/en/post/adult/), [he](/en/post/he/) had [to](/en/post/to/) [face](/en/post/face/) [the](/en/post/the/) consequences [of](/en/post/of/) [his](/en/post/his/) actions."
-- **[Verb](/en/post/verb/)**: "It's [time](/en/post/time/) [for](/en/post/for/) [our](/en/post/our/) children [to](/en/post/to/) [become](/en/post/become/) adults [and](/en/post/and/) [make](/en/post/make/) [their](/en/post/their/) [own](/en/post/own/) decisions."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) movie's [plot](/en/post/plot/) is [mature](/en/post/mature/) [and](/en/post/and/) thought-provoking [for](/en/post/for/) [adult](/en/post/adult/) audiences."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[As](/post/as/) an [adult](/post/adult/), [he](/post/he/) had [to](/post/to/) [face](/post/face/) [the](/post/the/) consequences [of](/post/of/) [his](/post/his/) actions."
+- **[Verb](/post/verb/)**: "It's [time](/post/time/) [for](/post/for/) [our](/post/our/) children [to](/post/to/) [become](/post/become/) adults [and](/post/and/) [make](/post/make/) [their](/post/their/) [own](/post/own/) decisions."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) movie's [plot](/post/plot/) is [mature](/post/mature/) [and](/post/and/) thought-provoking [for](/post/for/) [adult](/post/adult/) audiences."
 
 ## Synonyms
-- [Mature](/en/post/mature/)
+- [Mature](/post/mature/)
 - Grown-up
 - Fully grown
 - Senescent
-- [Responsible](/en/post/responsible/)
+- [Responsible](/post/responsible/)
 - Autonomous
 
 ## Antonyms
-- [Childish](/en/post/childish/)
+- [Childish](/post/childish/)
 - Immature
 - Juvenile
 - Unmature
 - Dependable
-- Carefree ([in](/en/post/in/) [a](/en/post/a/) [positive](/en/post/positive/) [sense](/en/post/sense/))
+- Carefree ([in](/post/in/) [a](/post/a/) [positive](/post/positive/) [sense](/post/sense/))

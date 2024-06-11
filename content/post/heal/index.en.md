@@ -7,37 +7,37 @@ description = '[hiːl] vt.治愈；使和解'
 keywords = ['ai words', 'heal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /hiːl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) becoming [healthy](/en/post/healthy/) [again](/en/post/again/) [after](/en/post/after/) [being](/en/post/being/) injured [or](/en/post/or/) [sick](/en/post/sick/); restoration [to](/en/post/to/) [health](/en/post/health/). _Example_: "[The](/en/post/the/) patient's [quick](/en/post/quick/) healing amazed [the](/en/post/the/) doctors."
-- **[Verb](/en/post/verb/)**: (1) [To](/en/post/to/) [make](/en/post/make/) ([a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [animal](/en/post/animal/)) [healthy](/en/post/healthy/) [again](/en/post/again/) [after](/en/post/after/) an [injury](/en/post/injury/) [or](/en/post/or/) [illness](/en/post/illness/); [to](/en/post/to/) [cure](/en/post/cure/). _Example_: "[She](/en/post/she/) healed [the](/en/post/the/) wounded soldiers [with](/en/post/with/) [her](/en/post/her/) herbal remedies." (2) [To](/en/post/to/) [restore](/en/post/restore/) (an [object](/en/post/object/) [or](/en/post/or/) [place](/en/post/place/)) [to](/en/post/to/) [its](/en/post/its/) [original](/en/post/original/) [state](/en/post/state/) [after](/en/post/after/) [damage](/en/post/damage/). _Example_: "[Time](/en/post/time/) [can](/en/post/can/) [heal](/en/post/heal/) [emotional](/en/post/emotional/) wounds."
+- **[Noun](/post/noun/)**: [The](/post/the/) [process](/post/process/) [of](/post/of/) becoming [healthy](/post/healthy/) [again](/post/again/) [after](/post/after/) [being](/post/being/) injured [or](/post/or/) [sick](/post/sick/); restoration [to](/post/to/) [health](/post/health/). _Example_: "[The](/post/the/) patient's [quick](/post/quick/) healing amazed [the](/post/the/) doctors."
+- **[Verb](/post/verb/)**: (1) [To](/post/to/) [make](/post/make/) ([a](/post/a/) [person](/post/person/) [or](/post/or/) [animal](/post/animal/)) [healthy](/post/healthy/) [again](/post/again/) [after](/post/after/) an [injury](/post/injury/) [or](/post/or/) [illness](/post/illness/); [to](/post/to/) [cure](/post/cure/). _Example_: "[She](/post/she/) healed [the](/post/the/) wounded soldiers [with](/post/with/) [her](/post/her/) herbal remedies." (2) [To](/post/to/) [restore](/post/restore/) (an [object](/post/object/) [or](/post/or/) [place](/post/place/)) [to](/post/to/) [its](/post/its/) [original](/post/original/) [state](/post/state/) [after](/post/after/) [damage](/post/damage/). _Example_: "[Time](/post/time/) [can](/post/can/) [heal](/post/heal/) [emotional](/post/emotional/) wounds."
 
 ### Phrases
-- "[To](/en/post/to/) [heal](/en/post/heal/) [from](/en/post/from/) [something](/en/post/something/)": [To](/en/post/to/) [recover](/en/post/recover/) [from](/en/post/from/) an [injury](/en/post/injury/) [or](/en/post/or/) [illness](/en/post/illness/). _Example_: "[It](/en/post/it/) took [her](/en/post/her/) months [to](/en/post/to/) [heal](/en/post/heal/) [from](/en/post/from/) [the](/en/post/the/) [surgery](/en/post/surgery/)."
-- "Healing [process](/en/post/process/)": [The](/en/post/the/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [during](/en/post/during/) [which](/en/post/which/) [recovery](/en/post/recovery/) takes [place](/en/post/place/) [after](/en/post/after/) an [injury](/en/post/injury/), [illness](/en/post/illness/), [or](/en/post/or/) [emotional](/en/post/emotional/) trauma.
-- "[Heal](/en/post/heal/) [over](/en/post/over/)": ([Of](/en/post/of/) [a](/en/post/a/) [wound](/en/post/wound/)) [to](/en/post/to/) [close](/en/post/close/) [up](/en/post/up/) [and](/en/post/and/) [start](/en/post/start/) [to](/en/post/to/) [repair](/en/post/repair/) [itself](/en/post/itself/). _Example_: "[The](/en/post/the/) [cut](/en/post/cut/) has healed [over](/en/post/over/) nicely."
+- "[To](/post/to/) [heal](/post/heal/) [from](/post/from/) [something](/post/something/)": [To](/post/to/) [recover](/post/recover/) [from](/post/from/) an [injury](/post/injury/) [or](/post/or/) [illness](/post/illness/). _Example_: "[It](/post/it/) took [her](/post/her/) months [to](/post/to/) [heal](/post/heal/) [from](/post/from/) [the](/post/the/) [surgery](/post/surgery/)."
+- "Healing [process](/post/process/)": [The](/post/the/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [during](/post/during/) [which](/post/which/) [recovery](/post/recovery/) takes [place](/post/place/) [after](/post/after/) an [injury](/post/injury/), [illness](/post/illness/), [or](/post/or/) [emotional](/post/emotional/) trauma.
+- "[Heal](/post/heal/) [over](/post/over/)": ([Of](/post/of/) [a](/post/a/) [wound](/post/wound/)) [to](/post/to/) [close](/post/close/) [up](/post/up/) [and](/post/and/) [start](/post/start/) [to](/post/to/) [repair](/post/repair/) [itself](/post/itself/). _Example_: "[The](/post/the/) [cut](/post/cut/) has healed [over](/post/over/) nicely."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Physical](/en/post/physical/) [exercise](/en/post/exercise/) is an [essential](/en/post/essential/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) healing [journey](/en/post/journey/)."
-- **[Verb](/en/post/verb/)**: "Herbal [medicine](/en/post/medicine/) helped [to](/en/post/to/) [heal](/en/post/heal/) [his](/en/post/his/) [broken](/en/post/broken/) bones faster [than](/en/post/than/) expected."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Physical](/post/physical/) [exercise](/post/exercise/) is an [essential](/post/essential/) [part](/post/part/) [of](/post/of/) [the](/post/the/) healing [journey](/post/journey/)."
+- **[Verb](/post/verb/)**: "Herbal [medicine](/post/medicine/) helped [to](/post/to/) [heal](/post/heal/) [his](/post/his/) [broken](/post/broken/) bones faster [than](/post/than/) expected."
 
 ## Synonyms
-- [Cure](/en/post/cure/)
-- [Recover](/en/post/recover/)
-- [Treat](/en/post/treat/)
-- [Restore](/en/post/restore/)
-- [Mend](/en/post/mend/)
+- [Cure](/post/cure/)
+- [Recover](/post/recover/)
+- [Treat](/post/treat/)
+- [Restore](/post/restore/)
+- [Mend](/post/mend/)
 - Soothe
-- [Heal](/en/post/heal/) [up](/en/post/up/)
+- [Heal](/post/heal/) [up](/post/up/)
 - Convalesce
 - Remediate
 
 ### Antonyms
-- [Injure](/en/post/injure/)
-- [Harm](/en/post/harm/)
-- [Damage](/en/post/damage/)
-- [Wound](/en/post/wound/)
+- [Injure](/post/injure/)
+- [Harm](/post/harm/)
+- [Damage](/post/damage/)
+- [Wound](/post/wound/)
 - Sickening
 - Aggravate

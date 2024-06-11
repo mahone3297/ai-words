@@ -11,16 +11,16 @@ keywords = ['ai words', 'jewish']
 /ˈdʒuːɪʃ/
 
 ## 释义
-- **形容词**: 与犹太人或犹太文化相关的。例如: "[The](/post/the/) [Jewish](/post/jewish/) [community](/post/community/) celebrates Hanukkah [every](/post/every/) [year](/post/year/)."
-- **名词**: 犹太人，指属于犹太教的人。例如: "[She](/post/she/) comes [from](/post/from/) [a](/post/a/) [large](/post/large/) [Jewish](/post/jewish/) [family](/post/family/)."
+- **形容词**: 与犹太人或犹太文化相关的。例如: "[The](/zh/post/the/) [Jewish](/zh/post/jewish/) [community](/zh/post/community/) celebrates Hanukkah [every](/zh/post/every/) [year](/zh/post/year/)."
+- **名词**: 犹太人，指属于犹太教的人。例如: "[She](/zh/post/she/) comes [from](/zh/post/from/) [a](/zh/post/a/) [large](/zh/post/large/) [Jewish](/zh/post/jewish/) [family](/zh/post/family/)."
 
 ## 短语
-- "[Jewish](/post/jewish/) [culture](/post/culture/)" 指犹太人的文化传统。
-- "[Jewish](/post/jewish/) cuisine" 指犹太人的饮食文化。
+- "[Jewish](/zh/post/jewish/) [culture](/zh/post/culture/)" 指犹太人的文化传统。
+- "[Jewish](/zh/post/jewish/) cuisine" 指犹太人的饮食文化。
 
 ## 例句
-- 形容词: "There's [a](/post/a/) [Jewish](/post/jewish/) deli [on](/post/on/) [the](/post/the/) [corner](/post/corner/) [that](/post/that/) serves [great](/post/great/) pastrami sandwiches."
-- 名词: "[Many](/post/many/) [Jewish](/post/jewish/) families [gather](/post/gather/) [for](/post/for/) Passover Seder [each](/post/each/) [year](/post/year/)."
+- 形容词: "There's [a](/zh/post/a/) [Jewish](/zh/post/jewish/) deli [on](/zh/post/on/) [the](/zh/post/the/) [corner](/zh/post/corner/) [that](/zh/post/that/) serves [great](/zh/post/great/) pastrami sandwiches."
+- 名词: "[Many](/zh/post/many/) [Jewish](/zh/post/jewish/) families [gather](/zh/post/gather/) [for](/zh/post/for/) Passover Seder [each](/zh/post/each/) [year](/zh/post/year/)."
 
 ## 同义词
 - Hebrew

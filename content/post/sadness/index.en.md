@@ -7,35 +7,35 @@ description = '[ˈsædnis] n.悲痛，悲哀'
 keywords = ['ai words', 'sadness']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sædˈnɛs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [emotional](/en/post/emotional/) [distress](/en/post/distress/), [sorrow](/en/post/sorrow/), [or](/en/post/or/) unhappiness. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [loss](/en/post/loss/) [of](/en/post/of/) [a](/en/post/a/) loved [one](/en/post/one/) brought [deep](/en/post/deep/) [sadness](/en/post/sadness/) [to](/en/post/to/) [their](/en/post/their/) hearts."
-- **[Adjective](/en/post/adjective/)**: Describing [a](/en/post/a/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [unhappy](/en/post/unhappy/) [or](/en/post/or/) sorrowful. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [sad](/en/post/sad/) [expression](/en/post/expression/) conveyed [her](/en/post/her/) [sadness](/en/post/sadness/) [over](/en/post/over/) [the](/en/post/the/) [news](/en/post/news/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [experience](/en/post/experience/) [sadness](/en/post/sadness/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) connotation [of](/en/post/of/) grief [or](/en/post/or/) melancholy. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) couldn't [help](/en/post/help/) [but](/en/post/but/) [sadness](/en/post/sadness/) [when](/en/post/when/) thinking [about](/en/post/about/) [the](/en/post/the/) [past](/en/post/past/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [emotional](/post/emotional/) [distress](/post/distress/), [sorrow](/post/sorrow/), [or](/post/or/) unhappiness. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [loss](/post/loss/) [of](/post/of/) [a](/post/a/) loved [one](/post/one/) brought [deep](/post/deep/) [sadness](/post/sadness/) [to](/post/to/) [their](/post/their/) hearts."
+- **[Adjective](/post/adjective/)**: Describing [a](/post/a/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [unhappy](/post/unhappy/) [or](/post/or/) sorrowful. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [sad](/post/sad/) [expression](/post/expression/) conveyed [her](/post/her/) [sadness](/post/sadness/) [over](/post/over/) [the](/post/the/) [news](/post/news/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [experience](/post/experience/) [sadness](/post/sadness/), [often](/post/often/) [with](/post/with/) [a](/post/a/) connotation [of](/post/of/) grief [or](/post/or/) melancholy. [For](/post/for/) [example](/post/example/): "[She](/post/she/) couldn't [help](/post/help/) [but](/post/but/) [sadness](/post/sadness/) [when](/post/when/) thinking [about](/post/about/) [the](/post/the/) [past](/post/past/)."
 
 ## Phrases
-- "[Feel](/en/post/feel/) [a](/en/post/a/) [deep](/en/post/deep/) [sadness](/en/post/sadness/)" describes [a](/en/post/a/) profound [sense](/en/post/sense/) [of](/en/post/of/) [sorrow](/en/post/sorrow/).
-- "[A](/en/post/a/) [wave](/en/post/wave/) [of](/en/post/of/) [sadness](/en/post/sadness/) washed [over](/en/post/over/) [her](/en/post/her/)" implies [a](/en/post/a/) [sudden](/en/post/sudden/) [emotional](/en/post/emotional/) downturn.
-- "Coping [with](/en/post/with/) [sadness](/en/post/sadness/)" refers [to](/en/post/to/) overcoming [or](/en/post/or/) dealing [with](/en/post/with/) feelings [of](/en/post/of/) unhappiness.
+- "[Feel](/post/feel/) [a](/post/a/) [deep](/post/deep/) [sadness](/post/sadness/)" describes [a](/post/a/) profound [sense](/post/sense/) [of](/post/of/) [sorrow](/post/sorrow/).
+- "[A](/post/a/) [wave](/post/wave/) [of](/post/of/) [sadness](/post/sadness/) washed [over](/post/over/) [her](/post/her/)" implies [a](/post/a/) [sudden](/post/sudden/) [emotional](/post/emotional/) downturn.
+- "Coping [with](/post/with/) [sadness](/post/sadness/)" refers [to](/post/to/) overcoming [or](/post/or/) dealing [with](/post/with/) feelings [of](/post/of/) unhappiness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) photo triggered [a](/en/post/a/) [flood](/en/post/flood/) [of](/en/post/of/) [sadness](/en/post/sadness/) memories [from](/en/post/from/) [their](/en/post/their/) [childhood](/en/post/childhood/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [room](/en/post/room/) was filled [with](/en/post/with/) an eerie [silence](/en/post/silence/), [heavy](/en/post/heavy/) [with](/en/post/with/) [the](/en/post/the/) [sadness](/en/post/sadness/) [of](/en/post/of/) [loss](/en/post/loss/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) breakup, [she](/en/post/she/) struggled [to](/en/post/to/) [sadness](/en/post/sadness/) [and](/en/post/and/) [move](/en/post/move/) [on](/en/post/on/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) photo triggered [a](/post/a/) [flood](/post/flood/) [of](/post/of/) [sadness](/post/sadness/) memories [from](/post/from/) [their](/post/their/) [childhood](/post/childhood/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [room](/post/room/) was filled [with](/post/with/) an eerie [silence](/post/silence/), [heavy](/post/heavy/) [with](/post/with/) [the](/post/the/) [sadness](/post/sadness/) [of](/post/of/) [loss](/post/loss/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) breakup, [she](/post/she/) struggled [to](/post/to/) [sadness](/post/sadness/) [and](/post/and/) [move](/post/move/) [on](/post/on/)."
 
 ## Synonyms
 - Unhappiness
 - Melancholy
-- [Sorrow](/en/post/sorrow/)
+- [Sorrow](/post/sorrow/)
 - Grief
-- [Despair](/en/post/despair/)
+- [Despair](/post/despair/)
 - Lamentation
 
 ## Antonyms
-- [Happiness](/en/post/happiness/)
-- [Joy](/en/post/joy/)
-- [Delight](/en/post/delight/)
+- [Happiness](/post/happiness/)
+- [Joy](/post/joy/)
+- [Delight](/post/delight/)
 - Euphoria
 - Contentment

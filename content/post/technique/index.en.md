@@ -7,42 +7,42 @@ description = '[tekˈniːk] n.技术，技巧；技能'
 keywords = ['ai words', 'technique']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tekˈniːk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [method](/en/post/method/) [or](/en/post/or/) [skill](/en/post/skill/) [learned](/en/post/learned/) [through](/en/post/through/) [practice](/en/post/practice/), [often](/en/post/often/) involving [a](/en/post/a/) [particular](/en/post/particular/) [technique](/en/post/technique/) [or](/en/post/or/) [approach](/en/post/approach/): *[He](/en/post/he/) mastered [a](/en/post/a/) [new](/en/post/new/) [painting](/en/post/painting/) [technique](/en/post/technique/).*
-2. [A](/en/post/a/) [specific](/en/post/specific/) [way](/en/post/way/) [of](/en/post/of/) doing [something](/en/post/something/), [often](/en/post/often/) involving tools [or](/en/post/or/) [equipment](/en/post/equipment/): *[Her](/en/post/her/) cooking techniques [have](/en/post/have/) improved [over](/en/post/over/) [time](/en/post/time/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [method](/post/method/) [or](/post/or/) [skill](/post/skill/) [learned](/post/learned/) [through](/post/through/) [practice](/post/practice/), [often](/post/often/) involving [a](/post/a/) [particular](/post/particular/) [technique](/post/technique/) [or](/post/or/) [approach](/post/approach/): *[He](/post/he/) mastered [a](/post/a/) [new](/post/new/) [painting](/post/painting/) [technique](/post/technique/).*
+2. [A](/post/a/) [specific](/post/specific/) [way](/post/way/) [of](/post/of/) doing [something](/post/something/), [often](/post/often/) involving tools [or](/post/or/) [equipment](/post/equipment/): *[Her](/post/her/) cooking techniques [have](/post/have/) improved [over](/post/over/) [time](/post/time/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [perform](/en/post/perform/) [or](/en/post/or/) [execute](/en/post/execute/) [a](/en/post/a/) [particular](/en/post/particular/) [skill](/en/post/skill/) [or](/en/post/or/) [method](/en/post/method/): *[She](/en/post/she/) technique-d [the](/en/post/the/) [dance](/en/post/dance/) [move](/en/post/move/) flawlessly.*
-2. [To](/en/post/to/) [employ](/en/post/employ/) [or](/en/post/or/) [use](/en/post/use/) [a](/en/post/a/) [technique](/en/post/technique/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/): *[The](/en/post/the/) chef was experimenting [with](/en/post/with/) [different](/en/post/different/) cooking techniques.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [perform](/post/perform/) [or](/post/or/) [execute](/post/execute/) [a](/post/a/) [particular](/post/particular/) [skill](/post/skill/) [or](/post/or/) [method](/post/method/): *[She](/post/she/) technique-d [the](/post/the/) [dance](/post/dance/) [move](/post/move/) flawlessly.*
+2. [To](/post/to/) [employ](/post/employ/) [or](/post/or/) [use](/post/use/) [a](/post/a/) [technique](/post/technique/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/): *[The](/post/the/) chef was experimenting [with](/post/with/) [different](/post/different/) cooking techniques.*
 
 ## Phrases
-- "[Master](/en/post/master/) [a](/en/post/a/) [technique](/en/post/technique/)"
-- "[Apply](/en/post/apply/) [a](/en/post/a/) [technique](/en/post/technique/)"
-- "[Technique](/en/post/technique/) [improvement](/en/post/improvement/)"
-- "[Technique](/en/post/technique/) demonstration"
+- "[Master](/post/master/) [a](/post/a/) [technique](/post/technique/)"
+- "[Apply](/post/apply/) [a](/post/a/) [technique](/post/technique/)"
+- "[Technique](/post/technique/) [improvement](/post/improvement/)"
+- "[Technique](/post/technique/) demonstration"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) combined [traditional](/en/post/traditional/) [and](/en/post/and/) [digital](/en/post/digital/) techniques [in](/en/post/in/) [her](/en/post/her/) artwork."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) architect employed innovative [construction](/en/post/construction/) techniques [to](/en/post/to/) minimize [energy](/en/post/energy/) [consumption](/en/post/consumption/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[She](/en/post/she/) technique-d [the](/en/post/the/) pike [on](/en/post/on/) [the](/en/post/the/) [ice](/en/post/ice/) rink [with](/en/post/with/) [ease](/en/post/ease/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) combined [traditional](/post/traditional/) [and](/post/and/) [digital](/post/digital/) techniques [in](/post/in/) [her](/post/her/) artwork."
+- **[Verb](/post/verb/)**: "[The](/post/the/) architect employed innovative [construction](/post/construction/) techniques [to](/post/to/) minimize [energy](/post/energy/) [consumption](/post/consumption/)."
+- **[As](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "[She](/post/she/) technique-d [the](/post/the/) pike [on](/post/on/) [the](/post/the/) [ice](/post/ice/) rink [with](/post/with/) [ease](/post/ease/)."
 
 ## Synonyms
-- [Method](/en/post/method/)
-- [Approach](/en/post/approach/)
-- [Skill](/en/post/skill/)
-- [Art](/en/post/art/)
-- [Procedure](/en/post/procedure/)
-- [Strategy](/en/post/strategy/)
+- [Method](/post/method/)
+- [Approach](/post/approach/)
+- [Skill](/post/skill/)
+- [Art](/post/art/)
+- [Procedure](/post/procedure/)
+- [Strategy](/post/strategy/)
 - Maneuver
-- [Trick](/en/post/trick/)
+- [Trick](/post/trick/)
 - Skillset
 
 ## Antonyms
 - Inexperience
-- [Lack](/en/post/lack/) [of](/en/post/of/) [skill](/en/post/skill/)
+- [Lack](/post/lack/) [of](/post/of/) [skill](/post/skill/)
 - Unfamiliarity
 - Naivete

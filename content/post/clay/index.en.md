@@ -7,27 +7,27 @@ description = '[klei] n.粘土，泥土；肉体'
 keywords = ['ai words', 'clay']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /cleɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [1] [A](/en/post/a/) [natural](/en/post/natural/), earthy [material](/en/post/material/) [that](/en/post/that/) is [plastic](/en/post/plastic/) [when](/en/post/when/) [wet](/en/post/wet/) [and](/en/post/and/) hardens [when](/en/post/when/) [dry](/en/post/dry/), [used](/en/post/used/) [to](/en/post/to/) [make](/en/post/make/) pottery, bricks, [and](/en/post/and/) [other](/en/post/other/) objects. [2] [A](/en/post/a/) [deposit](/en/post/deposit/) [of](/en/post/of/) [such](/en/post/such/) [material](/en/post/material/), typically [in](/en/post/in/) [a](/en/post/a/) [loose](/en/post/loose/) [state](/en/post/state/) [suitable](/en/post/suitable/) [for](/en/post/for/) forming [by](/en/post/by/) [pressure](/en/post/pressure/). [3] (geology) [A](/en/post/a/) [layer](/en/post/layer/) [of](/en/post/of/) sedimentary [rock](/en/post/rock/) formed [from](/en/post/from/) [the](/en/post/the/) accumulation [of](/en/post/of/) [clay](/en/post/clay/) minerals.
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [shape](/en/post/shape/) [or](/en/post/or/) mold [clay](/en/post/clay/), [often](/en/post/often/) metaphorically referring [to](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [form](/en/post/form/) [something](/en/post/something/). [2] [To](/en/post/to/) [use](/en/post/use/) [clay](/en/post/clay/) [as](/en/post/as/) [a](/en/post/a/) [medium](/en/post/medium/) [for](/en/post/for/) [artistic](/en/post/artistic/) [expression](/en/post/expression/).
+- **[Noun](/post/noun/)**: [1] [A](/post/a/) [natural](/post/natural/), earthy [material](/post/material/) [that](/post/that/) is [plastic](/post/plastic/) [when](/post/when/) [wet](/post/wet/) [and](/post/and/) hardens [when](/post/when/) [dry](/post/dry/), [used](/post/used/) [to](/post/to/) [make](/post/make/) pottery, bricks, [and](/post/and/) [other](/post/other/) objects. [2] [A](/post/a/) [deposit](/post/deposit/) [of](/post/of/) [such](/post/such/) [material](/post/material/), typically [in](/post/in/) [a](/post/a/) [loose](/post/loose/) [state](/post/state/) [suitable](/post/suitable/) [for](/post/for/) forming [by](/post/by/) [pressure](/post/pressure/). [3] (geology) [A](/post/a/) [layer](/post/layer/) [of](/post/of/) sedimentary [rock](/post/rock/) formed [from](/post/from/) [the](/post/the/) accumulation [of](/post/of/) [clay](/post/clay/) minerals.
+- **[Verb](/post/verb/)**: [To](/post/to/) [shape](/post/shape/) [or](/post/or/) mold [clay](/post/clay/), [often](/post/often/) metaphorically referring [to](/post/to/) [create](/post/create/) [or](/post/or/) [form](/post/form/) [something](/post/something/). [2] [To](/post/to/) [use](/post/use/) [clay](/post/clay/) [as](/post/as/) [a](/post/a/) [medium](/post/medium/) [for](/post/for/) [artistic](/post/artistic/) [expression](/post/expression/).
 
 ## Phrases
-- "[Work](/en/post/work/) [with](/en/post/with/) [clay](/en/post/clay/)" refers [to](/en/post/to/) [the](/en/post/the/) [activity](/en/post/activity/) [of](/en/post/of/) shaping [and](/en/post/and/) modeling [clay](/en/post/clay/).
-- "Pottery made [from](/en/post/from/) [clay](/en/post/clay/)" highlights [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [clay](/en/post/clay/) [as](/en/post/as/) [a](/en/post/a/) [raw](/en/post/raw/) [material](/en/post/material/) [for](/en/post/for/) ceramics.
-- "[Clay](/en/post/clay/) deposits" [indicate](/en/post/indicate/) areas [where](/en/post/where/) [the](/en/post/the/) [material](/en/post/material/) is [found](/en/post/found/) [naturally](/en/post/naturally/).
+- "[Work](/post/work/) [with](/post/with/) [clay](/post/clay/)" refers [to](/post/to/) [the](/post/the/) [activity](/post/activity/) [of](/post/of/) shaping [and](/post/and/) modeling [clay](/post/clay/).
+- "Pottery made [from](/post/from/) [clay](/post/clay/)" highlights [the](/post/the/) [use](/post/use/) [of](/post/of/) [clay](/post/clay/) [as](/post/as/) [a](/post/a/) [raw](/post/raw/) [material](/post/material/) [for](/post/for/) ceramics.
+- "[Clay](/post/clay/) deposits" [indicate](/post/indicate/) areas [where](/post/where/) [the](/post/the/) [material](/post/material/) is [found](/post/found/) [naturally](/post/naturally/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) sculpted [a](/en/post/a/) [beautiful](/en/post/beautiful/) [vase](/en/post/vase/) [out](/en/post/out/) [of](/en/post/of/) [clay](/en/post/clay/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) spent [the](/en/post/the/) [afternoon](/en/post/afternoon/) kneading [and](/en/post/and/) molding [clay](/en/post/clay/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) functional teapot."
-- **Metaphorical**: "[His](/en/post/his/) ideas were [as](/en/post/as/) malleable [as](/en/post/as/) [clay](/en/post/clay/), [easily](/en/post/easily/) shaped [by](/en/post/by/) others' opinions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) sculpted [a](/post/a/) [beautiful](/post/beautiful/) [vase](/post/vase/) [out](/post/out/) [of](/post/of/) [clay](/post/clay/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) spent [the](/post/the/) [afternoon](/post/afternoon/) kneading [and](/post/and/) molding [clay](/post/clay/) [to](/post/to/) [make](/post/make/) [a](/post/a/) functional teapot."
+- **Metaphorical**: "[His](/post/his/) ideas were [as](/post/as/) malleable [as](/post/as/) [clay](/post/clay/), [easily](/post/easily/) shaped [by](/post/by/) others' opinions."
 
 ## Synonyms
--陶土, earthenware, [earth](/en/post/earth/), [mud](/en/post/mud/)
-- [Model](/en/post/model/) ([as](/en/post/as/) [in](/en/post/in/) shaping), mold, [fashion](/en/post/fashion/), [shape](/en/post/shape/)
-- [Raw](/en/post/raw/) [material](/en/post/material/), [source](/en/post/source/), bedrock
+-陶土, earthenware, [earth](/post/earth/), [mud](/post/mud/)
+- [Model](/post/model/) ([as](/post/as/) [in](/post/in/) shaping), mold, [fashion](/post/fashion/), [shape](/post/shape/)
+- [Raw](/post/raw/) [material](/post/material/), [source](/post/source/), bedrock
 
 ## Antonyms
-- [Concrete](/en/post/concrete/), [stone](/en/post/stone/), [metal](/en/post/metal/), [glass](/en/post/glass/) ([in](/en/post/in/) [comparison](/en/post/comparison/) [to](/en/post/to/) [its](/en/post/its/) malleability)
+- [Concrete](/post/concrete/), [stone](/post/stone/), [metal](/post/metal/), [glass](/post/glass/) ([in](/post/in/) [comparison](/post/comparison/) [to](/post/to/) [its](/post/its/) malleability)

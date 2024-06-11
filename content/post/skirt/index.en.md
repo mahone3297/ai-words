@@ -7,28 +7,28 @@ description = '[skəːt] n.女裙；边缘；郊区'
 keywords = ['ai words', 'skirt']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɜːrt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) garment [that](/en/post/that/) covers [the](/en/post/the/) [body](/en/post/body/) [from](/en/post/from/) [the](/en/post/the/) [waist](/en/post/waist/) [to](/en/post/to/) [the](/en/post/the/) [knee](/en/post/knee/) [or](/en/post/or/) [lower](/en/post/lower/), typically reaching [below](/en/post/below/) [the](/en/post/the/) [knee](/en/post/knee/), worn [by](/en/post/by/) women [and](/en/post/and/) girls. 2. (informal) [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [short](/en/post/short/) [dress](/en/post/dress/) [or](/en/post/or/) [robe](/en/post/robe/) [that](/en/post/that/) is loose-fitting [and](/en/post/and/) [often](/en/post/often/) has [a](/en/post/a/) gathered [skirt](/en/post/skirt/). 3. (figurative) [A](/en/post/a/) deceptive [or](/en/post/or/) misleading [aspect](/en/post/aspect/) [or](/en/post/or/) [feature](/en/post/feature/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) marketing [campaign](/en/post/campaign/) had [a](/en/post/a/) [clever](/en/post/clever/) [skirt](/en/post/skirt/) [around](/en/post/around/) [its](/en/post/its/) [true](/en/post/true/) intentions."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [glide](/en/post/glide/) [smoothly](/en/post/smoothly/) [around](/en/post/around/) [something](/en/post/something/), [especially](/en/post/especially/) avoiding [a](/en/post/a/) [direct](/en/post/direct/) [impact](/en/post/impact/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) dancer's [skirt](/en/post/skirt/) floated [across](/en/post/across/) [the](/en/post/the/) [stage](/en/post/stage/)."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) garment [that](/post/that/) covers [the](/post/the/) [body](/post/body/) [from](/post/from/) [the](/post/the/) [waist](/post/waist/) [to](/post/to/) [the](/post/the/) [knee](/post/knee/) [or](/post/or/) [lower](/post/lower/), typically reaching [below](/post/below/) [the](/post/the/) [knee](/post/knee/), worn [by](/post/by/) women [and](/post/and/) girls. 2. (informal) [A](/post/a/) [type](/post/type/) [of](/post/of/) [short](/post/short/) [dress](/post/dress/) [or](/post/or/) [robe](/post/robe/) [that](/post/that/) is loose-fitting [and](/post/and/) [often](/post/often/) has [a](/post/a/) gathered [skirt](/post/skirt/). 3. (figurative) [A](/post/a/) deceptive [or](/post/or/) misleading [aspect](/post/aspect/) [or](/post/or/) [feature](/post/feature/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) marketing [campaign](/post/campaign/) had [a](/post/a/) [clever](/post/clever/) [skirt](/post/skirt/) [around](/post/around/) [its](/post/its/) [true](/post/true/) intentions."
+- **[Verb](/post/verb/)**: [To](/post/to/) [move](/post/move/) [or](/post/or/) [glide](/post/glide/) [smoothly](/post/smoothly/) [around](/post/around/) [something](/post/something/), [especially](/post/especially/) avoiding [a](/post/a/) [direct](/post/direct/) [impact](/post/impact/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) dancer's [skirt](/post/skirt/) floated [across](/post/across/) [the](/post/the/) [stage](/post/stage/)."
 
 ## Phrases
-- "[Wear](/en/post/wear/) [a](/en/post/a/) [skirt](/en/post/skirt/)" [means](/en/post/means/) [to](/en/post/to/) [put](/en/post/put/) [on](/en/post/on/) [a](/en/post/a/) [skirt](/en/post/skirt/) [as](/en/post/as/) [clothing](/en/post/clothing/).
-- "A-line [skirt](/en/post/skirt/)" describes [a](/en/post/a/) [specific](/en/post/specific/) [style](/en/post/style/) [with](/en/post/with/) [a](/en/post/a/) [straight](/en/post/straight/) [cut](/en/post/cut/) [that](/en/post/that/) widens [from](/en/post/from/) [the](/en/post/the/) [waist](/en/post/waist/).
-- "Flounce [a](/en/post/a/) [skirt](/en/post/skirt/)" refers [to](/en/post/to/) adding [a](/en/post/a/) ruffled [or](/en/post/or/) gathered [edge](/en/post/edge/) [to](/en/post/to/) [the](/en/post/the/) [bottom](/en/post/bottom/) [of](/en/post/of/) [a](/en/post/a/) [skirt](/en/post/skirt/).
+- "[Wear](/post/wear/) [a](/post/a/) [skirt](/post/skirt/)" [means](/post/means/) [to](/post/to/) [put](/post/put/) [on](/post/on/) [a](/post/a/) [skirt](/post/skirt/) [as](/post/as/) [clothing](/post/clothing/).
+- "A-line [skirt](/post/skirt/)" describes [a](/post/a/) [specific](/post/specific/) [style](/post/style/) [with](/post/with/) [a](/post/a/) [straight](/post/straight/) [cut](/post/cut/) [that](/post/that/) widens [from](/post/from/) [the](/post/the/) [waist](/post/waist/).
+- "Flounce [a](/post/a/) [skirt](/post/skirt/)" refers [to](/post/to/) adding [a](/post/a/) ruffled [or](/post/or/) gathered [edge](/post/edge/) [to](/post/to/) [the](/post/the/) [bottom](/post/bottom/) [of](/post/of/) [a](/post/a/) [skirt](/post/skirt/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was wearing [a](/en/post/a/) [beautiful](/en/post/beautiful/) floral [print](/en/post/print/) [skirt](/en/post/skirt/) [for](/en/post/for/) [the](/en/post/the/) [garden](/en/post/garden/) [party](/en/post/party/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) ballerina twirled [her](/en/post/her/) [skirt](/en/post/skirt/) gracefully [during](/en/post/during/) [the](/en/post/the/) [performance](/en/post/performance/)."
-- **Figurative**: "[The](/en/post/the/) company's [financial](/en/post/financial/) [report](/en/post/report/) had [a](/en/post/a/) [skirt](/en/post/skirt/) [of](/en/post/of/) hidden liabilities."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was wearing [a](/post/a/) [beautiful](/post/beautiful/) floral [print](/post/print/) [skirt](/post/skirt/) [for](/post/for/) [the](/post/the/) [garden](/post/garden/) [party](/post/party/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) ballerina twirled [her](/post/her/) [skirt](/post/skirt/) gracefully [during](/post/during/) [the](/post/the/) [performance](/post/performance/)."
+- **Figurative**: "[The](/post/the/) company's [financial](/post/financial/) [report](/post/report/) had [a](/post/a/) [skirt](/post/skirt/) [of](/post/of/) hidden liabilities."
 
 ## Synonyms
-- [Dress](/en/post/dress/)
+- [Dress](/post/dress/)
 - Skirted garment
 - Tunic
-- [Shift](/en/post/shift/) (informal)
-- Petticoat ([historical](/en/post/historical/))
-- [Skim](/en/post/skim/) ([as](/en/post/as/) [in](/en/post/in/) "skimmed [past](/en/post/past/)")
-- [Slide](/en/post/slide/) ([as](/en/post/as/) [in](/en/post/in/) "skirted [around](/en/post/around/) [the](/en/post/the/) [obstacle](/en/post/obstacle/)")
+- [Shift](/post/shift/) (informal)
+- Petticoat ([historical](/post/historical/))
+- [Skim](/post/skim/) ([as](/post/as/) [in](/post/in/) "skimmed [past](/post/past/)")
+- [Slide](/post/slide/) ([as](/post/as/) [in](/post/in/) "skirted [around](/post/around/) [the](/post/the/) [obstacle](/post/obstacle/)")

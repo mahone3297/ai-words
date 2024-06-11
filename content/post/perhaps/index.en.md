@@ -7,32 +7,32 @@ description = '[pəˈhæps] ad.也许，可能，多半'
 keywords = ['ai words', 'perhaps']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈrɛpəs/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Used](/en/post/used/) [to](/en/post/to/) [suggest](/en/post/suggest/) uncertainty [or](/en/post/or/) [possibility](/en/post/possibility/), expressing [that](/en/post/that/) [something](/en/post/something/) [may](/en/post/may/) [be](/en/post/be/) [true](/en/post/true/) [or](/en/post/or/) [might](/en/post/might/) [happen](/en/post/happen/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [indicate](/en/post/indicate/) hesitation [or](/en/post/or/) moderation. [For](/en/post/for/) [example](/en/post/example/): "I [think](/en/post/think/) [we](/en/post/we/) [should](/en/post/should/) [go](/en/post/go/), [but](/en/post/but/) [perhaps](/en/post/perhaps/) it's [too](/en/post/too/) [late](/en/post/late/)."
+- **[Adverb](/post/adverb/)**: [Used](/post/used/) [to](/post/to/) [suggest](/post/suggest/) uncertainty [or](/post/or/) [possibility](/post/possibility/), expressing [that](/post/that/) [something](/post/something/) [may](/post/may/) [be](/post/be/) [true](/post/true/) [or](/post/or/) [might](/post/might/) [happen](/post/happen/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [indicate](/post/indicate/) hesitation [or](/post/or/) moderation. [For](/post/for/) [example](/post/example/): "I [think](/post/think/) [we](/post/we/) [should](/post/should/) [go](/post/go/), [but](/post/but/) [perhaps](/post/perhaps/) it's [too](/post/too/) [late](/post/late/)."
 
 ## Phrases
-- "[Perhaps](/en/post/perhaps/) [he](/en/post/he/) [will](/en/post/will/) [come](/en/post/come/)." (Suggesting uncertainty [about](/en/post/about/) [his](/en/post/his/) [arrival](/en/post/arrival/))
-- "It's [possible](/en/post/possible/), [perhaps](/en/post/perhaps/)." (Indicating [a](/en/post/a/) likelihood)
-- "[She](/en/post/she/) wondered [if](/en/post/if/) [she](/en/post/she/) [should](/en/post/should/) [go](/en/post/go/), [but](/en/post/but/) [perhaps](/en/post/perhaps/) staying [would](/en/post/would/) [be](/en/post/be/) [better](/en/post/better/)." (Hesitation)
+- "[Perhaps](/post/perhaps/) [he](/post/he/) [will](/post/will/) [come](/post/come/)." (Suggesting uncertainty [about](/post/about/) [his](/post/his/) [arrival](/post/arrival/))
+- "It's [possible](/post/possible/), [perhaps](/post/perhaps/)." (Indicating [a](/post/a/) likelihood)
+- "[She](/post/she/) wondered [if](/post/if/) [she](/post/she/) [should](/post/should/) [go](/post/go/), [but](/post/but/) [perhaps](/post/perhaps/) staying [would](/post/would/) [be](/post/be/) [better](/post/better/)." (Hesitation)
 
-## [Example](/en/post/example/) Sentences
-- "[Perhaps](/en/post/perhaps/) I've misunderstood [the](/en/post/the/) instructions."
-- "[The](/en/post/the/) [weather](/en/post/weather/) [forecast](/en/post/forecast/) says [it](/en/post/it/) [might](/en/post/might/) [rain](/en/post/rain/), [perhaps](/en/post/perhaps/) [we](/en/post/we/) [should](/en/post/should/) [bring](/en/post/bring/) an [umbrella](/en/post/umbrella/)."
-- "[Perhaps](/en/post/perhaps/) [it](/en/post/it/) was [just](/en/post/just/) [a](/en/post/a/) misunderstanding; let's [talk](/en/post/talk/) [about](/en/post/about/) [it](/en/post/it/)."
+## [Example](/post/example/) Sentences
+- "[Perhaps](/post/perhaps/) I've misunderstood [the](/post/the/) instructions."
+- "[The](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/) says [it](/post/it/) [might](/post/might/) [rain](/post/rain/), [perhaps](/post/perhaps/) [we](/post/we/) [should](/post/should/) [bring](/post/bring/) an [umbrella](/post/umbrella/)."
+- "[Perhaps](/post/perhaps/) [it](/post/it/) was [just](/post/just/) [a](/post/a/) misunderstanding; let's [talk](/post/talk/) [about](/post/about/) [it](/post/it/)."
 
 ## Synonyms
-- [Maybe](/en/post/maybe/)
-- [Maybe](/en/post/maybe/) [so](/en/post/so/)
+- [Maybe](/post/maybe/)
+- [Maybe](/post/maybe/) [so](/post/so/)
 - Potentially
 - Doubtfully
 - Uncertainly
 
 ## Antonyms
-- [Definitely](/en/post/definitely/)
-- [Absolutely](/en/post/absolutely/)
-- [Certain](/en/post/certain/)
+- [Definitely](/post/definitely/)
+- [Absolutely](/post/absolutely/)
+- [Certain](/post/certain/)
 - Positively
-- [Without](/en/post/without/) [a](/en/post/a/) [doubt](/en/post/doubt/)
+- [Without](/post/without/) [a](/post/a/) [doubt](/post/doubt/)

@@ -7,36 +7,36 @@ description = '[gud] a.好的；有本事的'
 keywords = ['ai words', 'good']
 +++
 
-## [Word](/en/post/word/): [Good](/en/post/good/)
+## [Word](/post/word/): [Good](/post/good/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡʊd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [positive](/en/post/positive/) qualities [or](/en/post/or/) characteristics; morally [excellent](/en/post/excellent/); [beneficial](/en/post/beneficial/), [desirable](/en/post/desirable/), [or](/en/post/or/) [satisfactory](/en/post/satisfactory/). [For](/en/post/for/) [example](/en/post/example/): "She's [a](/en/post/a/) [good](/en/post/good/) [person](/en/post/person/)." "[The](/en/post/the/) [food](/en/post/food/) was [good](/en/post/good/)."
-- **[Noun](/en/post/noun/)**: [Something](/en/post/something/) [that](/en/post/that/) is morally [right](/en/post/right/) [or](/en/post/or/) [desirable](/en/post/desirable/); [goodness](/en/post/goodness/), [virtue](/en/post/virtue/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) has [a](/en/post/a/) [heart](/en/post/heart/) [full](/en/post/full/) [of](/en/post/of/) [good](/en/post/good/)."
-- **[Adverb](/en/post/adverb/)**: [Well](/en/post/well/), effectively, [or](/en/post/or/) satisfactorily. [Often](/en/post/often/) [used](/en/post/used/) [after](/en/post/after/) '[do](/en/post/do/)' [or](/en/post/or/) '[be](/en/post/be/)'. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) did [good](/en/post/good/) [on](/en/post/on/) [her](/en/post/her/) [exam](/en/post/exam/)." "[He](/en/post/he/) wanted [to](/en/post/to/) [be](/en/post/be/) [good](/en/post/good/) [at](/en/post/at/) sports."
+- **[Adjective](/post/adjective/)**: Having [positive](/post/positive/) qualities [or](/post/or/) characteristics; morally [excellent](/post/excellent/); [beneficial](/post/beneficial/), [desirable](/post/desirable/), [or](/post/or/) [satisfactory](/post/satisfactory/). [For](/post/for/) [example](/post/example/): "She's [a](/post/a/) [good](/post/good/) [person](/post/person/)." "[The](/post/the/) [food](/post/food/) was [good](/post/good/)."
+- **[Noun](/post/noun/)**: [Something](/post/something/) [that](/post/that/) is morally [right](/post/right/) [or](/post/or/) [desirable](/post/desirable/); [goodness](/post/goodness/), [virtue](/post/virtue/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) has [a](/post/a/) [heart](/post/heart/) [full](/post/full/) [of](/post/of/) [good](/post/good/)."
+- **[Adverb](/post/adverb/)**: [Well](/post/well/), effectively, [or](/post/or/) satisfactorily. [Often](/post/often/) [used](/post/used/) [after](/post/after/) '[do](/post/do/)' [or](/post/or/) '[be](/post/be/)'. [For](/post/for/) [example](/post/example/): "[She](/post/she/) did [good](/post/good/) [on](/post/on/) [her](/post/her/) [exam](/post/exam/)." "[He](/post/he/) wanted [to](/post/to/) [be](/post/be/) [good](/post/good/) [at](/post/at/) sports."
 
 ### Phrases
-- "[Do](/en/post/do/) [good](/en/post/good/)": [To](/en/post/to/) [act](/en/post/act/) [in](/en/post/in/) [a](/en/post/a/) benevolent [or](/en/post/or/) charitable [manner](/en/post/manner/). [Example](/en/post/example/): "[Their](/en/post/their/) [organization](/en/post/organization/) aims [to](/en/post/to/) [do](/en/post/do/) [good](/en/post/good/) [for](/en/post/for/) [the](/en/post/the/) [community](/en/post/community/)."
-- "[For](/en/post/for/) [good](/en/post/good/)": [Permanently](/en/post/permanently/), decisively. [Example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [leave](/en/post/leave/) [the](/en/post/the/) [city](/en/post/city/) [for](/en/post/for/) [good](/en/post/good/)."
-- "[Goodbye](/en/post/goodbye/)": [A](/en/post/a/) [farewell](/en/post/farewell/) [expression](/en/post/expression/), derived [from](/en/post/from/) "God [be](/en/post/be/) [with](/en/post/with/) [you](/en/post/you/)". [Example](/en/post/example/): "[She](/en/post/she/) said [her](/en/post/her/) goodbyes [before](/en/post/before/) leaving [for](/en/post/for/) [college](/en/post/college/)."
-- "[All](/en/post/all/) [good](/en/post/good/) things [must](/en/post/must/) [come](/en/post/come/) [to](/en/post/to/) an [end](/en/post/end/)": [A](/en/post/a/) proverb suggesting [that](/en/post/that/) [even](/en/post/even/) enjoyable [or](/en/post/or/) favorable situations [eventually](/en/post/eventually/) [end](/en/post/end/).
+- "[Do](/post/do/) [good](/post/good/)": [To](/post/to/) [act](/post/act/) [in](/post/in/) [a](/post/a/) benevolent [or](/post/or/) charitable [manner](/post/manner/). [Example](/post/example/): "[Their](/post/their/) [organization](/post/organization/) aims [to](/post/to/) [do](/post/do/) [good](/post/good/) [for](/post/for/) [the](/post/the/) [community](/post/community/)."
+- "[For](/post/for/) [good](/post/good/)": [Permanently](/post/permanently/), decisively. [Example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [leave](/post/leave/) [the](/post/the/) [city](/post/city/) [for](/post/for/) [good](/post/good/)."
+- "[Goodbye](/post/goodbye/)": [A](/post/a/) [farewell](/post/farewell/) [expression](/post/expression/), derived [from](/post/from/) "God [be](/post/be/) [with](/post/with/) [you](/post/you/)". [Example](/post/example/): "[She](/post/she/) said [her](/post/her/) goodbyes [before](/post/before/) leaving [for](/post/for/) [college](/post/college/)."
+- "[All](/post/all/) [good](/post/good/) things [must](/post/must/) [come](/post/come/) [to](/post/to/) an [end](/post/end/)": [A](/post/a/) proverb suggesting [that](/post/that/) [even](/post/even/) enjoyable [or](/post/or/) favorable situations [eventually](/post/eventually/) [end](/post/end/).
 
-### [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [movie](/en/post/movie/) received [good](/en/post/good/) reviews [from](/en/post/from/) critics."
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) tries [to](/en/post/to/) [fill](/en/post/fill/) [his](/en/post/his/) [life](/en/post/life/) [with](/en/post/with/) [as](/en/post/as/) [much](/en/post/much/) [good](/en/post/good/) [as](/en/post/as/) [possible](/en/post/possible/)."
-- **[Adverb](/en/post/adverb/)**: "I [hope](/en/post/hope/) [you](/en/post/you/) [feel](/en/post/feel/) [good](/en/post/good/) [after](/en/post/after/) [your](/en/post/your/) [surgery](/en/post/surgery/)."
+### [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [movie](/post/movie/) received [good](/post/good/) reviews [from](/post/from/) critics."
+- **[Noun](/post/noun/)**: "[He](/post/he/) tries [to](/post/to/) [fill](/post/fill/) [his](/post/his/) [life](/post/life/) [with](/post/with/) [as](/post/as/) [much](/post/much/) [good](/post/good/) [as](/post/as/) [possible](/post/possible/)."
+- **[Adverb](/post/adverb/)**: "I [hope](/post/hope/) [you](/post/you/) [feel](/post/feel/) [good](/post/good/) [after](/post/after/) [your](/post/your/) [surgery](/post/surgery/)."
 
 ## Synonyms
-- [Excellent](/en/post/excellent/)
-- [Fine](/en/post/fine/)
-- [Great](/en/post/great/)
-- [Pleasant](/en/post/pleasant/)
-- [Beneficial](/en/post/beneficial/)
+- [Excellent](/post/excellent/)
+- [Fine](/post/fine/)
+- [Great](/post/great/)
+- [Pleasant](/post/pleasant/)
+- [Beneficial](/post/beneficial/)
 - Advantageous
 - Virtuous
-- [Decent](/en/post/decent/)
-- [Positive](/en/post/positive/)
-- [Satisfactory](/en/post/satisfactory/) ([as](/en/post/as/) an [adjective](/en/post/adjective/))
-- [Well](/en/post/well/) ([as](/en/post/as/) an [adverb](/en/post/adverb/))
+- [Decent](/post/decent/)
+- [Positive](/post/positive/)
+- [Satisfactory](/post/satisfactory/) ([as](/post/as/) an [adjective](/post/adjective/))
+- [Well](/post/well/) ([as](/post/as/) an [adverb](/post/adverb/))

@@ -7,30 +7,30 @@ description = '[ˈsiːmən] n.海员，水手；水兵'
 keywords = ['ai words', 'seaman']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /siːˈmən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) works [on](/en/post/on/) [a](/en/post/a/) [ship](/en/post/ship/), [especially](/en/post/especially/) [one](/en/post/one/) [who](/en/post/who/) is [not](/en/post/not/) an [officer](/en/post/officer/). [Also](/en/post/also/) [used](/en/post/used/) [more](/en/post/more/) [generally](/en/post/generally/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [sailor](/en/post/sailor/). ["[A](/en/post/a/) seasoned [seaman](/en/post/seaman/) [with](/en/post/with/) years [of](/en/post/of/) [experience](/en/post/experience/)."]
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) works [on](/post/on/) [a](/post/a/) [ship](/post/ship/), [especially](/post/especially/) [one](/post/one/) [who](/post/who/) is [not](/post/not/) an [officer](/post/officer/). [Also](/post/also/) [used](/post/used/) [more](/post/more/) [generally](/post/generally/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [sailor](/post/sailor/). ["[A](/post/a/) seasoned [seaman](/post/seaman/) [with](/post/with/) years [of](/post/of/) [experience](/post/experience/)."]
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) navigate [or](/en/post/or/) [work](/en/post/work/) [on](/en/post/on/) [a](/en/post/a/) [ship](/en/post/ship/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [professional](/en/post/professional/) [capacity](/en/post/capacity/). ["[The](/en/post/the/) [young](/en/post/young/) apprentice was [learning](/en/post/learning/) [to](/en/post/to/) [seaman](/en/post/seaman/) [under](/en/post/under/) [the](/en/post/the/) watchful [eye](/en/post/eye/) [of](/en/post/of/) [the](/en/post/the/) [captain](/en/post/captain/)."]
+- **[Verb](/post/verb/)**: [To](/post/to/) navigate [or](/post/or/) [work](/post/work/) [on](/post/on/) [a](/post/a/) [ship](/post/ship/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [professional](/post/professional/) [capacity](/post/capacity/). ["[The](/post/the/) [young](/post/young/) apprentice was [learning](/post/learning/) [to](/post/to/) [seaman](/post/seaman/) [under](/post/under/) [the](/post/the/) watchful [eye](/post/eye/) [of](/post/of/) [the](/post/the/) [captain](/post/captain/)."]
 
 ## Phrases
-- "[Be](/en/post/be/) [a](/en/post/a/) [good](/en/post/good/) [seaman](/en/post/seaman/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [skilled](/en/post/skilled/) [and](/en/post/and/) [competent](/en/post/competent/) [at](/en/post/at/) [sea](/en/post/sea/).
-- "[To](/en/post/to/) [man](/en/post/man/) [the](/en/post/the/) helm [as](/en/post/as/) [a](/en/post/a/) [seaman](/en/post/seaman/)" signifies taking [control](/en/post/control/) [of](/en/post/of/) [a](/en/post/a/) ship's steering.
-- "Seamanlike qualities" [describe](/en/post/describe/) traits [of](/en/post/of/) [being](/en/post/being/) [reliable](/en/post/reliable/) [and](/en/post/and/) [capable](/en/post/capable/) [at](/en/post/at/) [sea](/en/post/sea/).
+- "[Be](/post/be/) [a](/post/a/) [good](/post/good/) [seaman](/post/seaman/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) [skilled](/post/skilled/) [and](/post/and/) [competent](/post/competent/) [at](/post/at/) [sea](/post/sea/).
+- "[To](/post/to/) [man](/post/man/) [the](/post/the/) helm [as](/post/as/) [a](/post/a/) [seaman](/post/seaman/)" signifies taking [control](/post/control/) [of](/post/of/) [a](/post/a/) ship's steering.
+- "Seamanlike qualities" [describe](/post/describe/) traits [of](/post/of/) [being](/post/being/) [reliable](/post/reliable/) [and](/post/and/) [capable](/post/capable/) [at](/post/at/) [sea](/post/sea/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [crew](/en/post/crew/) consisted [of](/en/post/of/) experienced seamen [and](/en/post/and/) [a](/en/post/a/) [few](/en/post/few/) novice sailors."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) completing [his](/en/post/his/) [training](/en/post/training/), [he](/en/post/he/) became [a](/en/post/a/) certified [seaman](/en/post/seaman/) [and](/en/post/and/) joined [a](/en/post/a/) [merchant](/en/post/merchant/) [fleet](/en/post/fleet/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) seaman's [life](/en/post/life/) [can](/en/post/can/) [be](/en/post/be/) [both](/en/post/both/) adventurous [and](/en/post/and/) challenging."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [crew](/post/crew/) consisted [of](/post/of/) experienced seamen [and](/post/and/) [a](/post/a/) [few](/post/few/) novice sailors."
+- **[Verb](/post/verb/)**: "[After](/post/after/) completing [his](/post/his/) [training](/post/training/), [he](/post/he/) became [a](/post/a/) certified [seaman](/post/seaman/) [and](/post/and/) joined [a](/post/a/) [merchant](/post/merchant/) [fleet](/post/fleet/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) seaman's [life](/post/life/) [can](/post/can/) [be](/post/be/) [both](/post/both/) adventurous [and](/post/and/) challenging."
 
 ## Synonyms
-- [Sailor](/en/post/sailor/)
+- [Sailor](/post/sailor/)
 - Mariner
 - Deckhand
 - Seafarer
-- Oceanic [worker](/en/post/worker/)
+- Oceanic [worker](/post/worker/)
 
 ## Antonyms
-- Landlubber ([a](/en/post/a/) [person](/en/post/person/) unused [to](/en/post/to/) [or](/en/post/or/) unskilled [at](/en/post/at/) [sea](/en/post/sea/))
+- Landlubber ([a](/post/a/) [person](/post/person/) unused [to](/post/to/) [or](/post/or/) unskilled [at](/post/at/) [sea](/post/sea/))

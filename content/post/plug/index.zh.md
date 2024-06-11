@@ -11,21 +11,21 @@ keywords = ['ai words', 'plug']
 /plʌɡ/
 
 ## 释义
-- **名词**: 插头，塞子；堵塞物。例如: "[Please](/post/please/) unplug [the](/post/the/) [vacuum](/post/vacuum/) cleaner [before](/post/before/) [you](/post/you/) [store](/post/store/) [it](/post/it/)."（请在储存吸尘器前拔掉插头。）
-- **动词**: 插入，塞入；宣传，推广。例如: "[He](/post/he/) plugged [the](/post/the/) [new](/post/new/) [book](/post/book/) [on](/post/on/) [several](/post/several/) TV shows."（他在几个电视节目中为新书做宣传。）
+- **名词**: 插头，塞子；堵塞物。例如: "[Please](/zh/post/please/) unplug [the](/zh/post/the/) [vacuum](/zh/post/vacuum/) cleaner [before](/zh/post/before/) [you](/zh/post/you/) [store](/zh/post/store/) [it](/zh/post/it/)."（请在储存吸尘器前拔掉插头。）
+- **动词**: 插入，塞入；宣传，推广。例如: "[He](/zh/post/he/) plugged [the](/zh/post/the/) [new](/zh/post/new/) [book](/zh/post/book/) [on](/zh/post/on/) [several](/zh/post/several/) TV shows."（他在几个电视节目中为新书做宣传。）
 
 ## 短语
-- "[Plug](/post/plug/) [in](/post/in/)" 意思是插入电源或连接设备。
-- "[Plug](/post/plug/) [something](/post/something/) [up](/post/up/)" 意味着堵住或塞住某个孔或开口。
+- "[Plug](/zh/post/plug/) [in](/zh/post/in/)" 意思是插入电源或连接设备。
+- "[Plug](/zh/post/plug/) [something](/zh/post/something/) [up](/zh/post/up/)" 意味着堵住或塞住某个孔或开口。
 
 ## 例句
-- 名词: "[The](/post/the/) electrician replaced [the](/post/the/) worn-out [plug](/post/plug/) [with](/post/with/) [a](/post/a/) [new](/post/new/) [one](/post/one/)."
-- 动词: "[She](/post/she/) plugged [her](/post/her/) headphones [into](/post/into/) [her](/post/her/) [phone](/post/phone/) [and](/post/and/) started listening [to](/post/to/) [music](/post/music/)."
-- 插入/宣传: "[The](/post/the/) [band](/post/band/) is going [to](/post/to/) [plug](/post/plug/) [their](/post/their/) upcoming [tour](/post/tour/) [on](/post/on/) [social](/post/social/) media."
+- 名词: "[The](/zh/post/the/) electrician replaced [the](/zh/post/the/) worn-out [plug](/zh/post/plug/) [with](/zh/post/with/) [a](/zh/post/a/) [new](/zh/post/new/) [one](/zh/post/one/)."
+- 动词: "[She](/zh/post/she/) plugged [her](/zh/post/her/) headphones [into](/zh/post/into/) [her](/zh/post/her/) [phone](/zh/post/phone/) [and](/zh/post/and/) started listening [to](/zh/post/to/) [music](/zh/post/music/)."
+- 插入/宣传: "[The](/zh/post/the/) [band](/zh/post/band/) is going [to](/zh/post/to/) [plug](/zh/post/plug/) [their](/zh/post/their/) upcoming [tour](/zh/post/tour/) [on](/zh/post/on/) [social](/zh/post/social/) media."
 
 ## 同义词
 - Connector
-- [Cap](/post/cap/)
+- [Cap](/zh/post/cap/)
 - Stopper
-- [Promote](/post/promote/)
+- [Promote](/zh/post/promote/)
 - Advocate

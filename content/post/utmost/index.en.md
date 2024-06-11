@@ -7,37 +7,37 @@ description = '[ˈʌtməust] a.最远的 n.极限'
 keywords = ['ai words', 'utmost']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʌtmaʊst/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Of](/en/post/of/) [the](/en/post/the/) highest [degree](/en/post/degree/) [or](/en/post/or/) [quality](/en/post/quality/); [most](/en/post/most/) [extreme](/en/post/extreme/) [or](/en/post/or/) [complete](/en/post/complete/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) showed [the](/en/post/the/) [utmost](/en/post/utmost/) [respect](/en/post/respect/) [for](/en/post/for/) [his](/en/post/his/) elders."
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [the](/en/post/the/) greatest [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/); [completely](/en/post/completely/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [grateful](/en/post/grateful/) [for](/en/post/for/) [their](/en/post/their/) [utmost](/en/post/utmost/) assistance."
+- **[Adjective](/post/adjective/)**: [Of](/post/of/) [the](/post/the/) highest [degree](/post/degree/) [or](/post/or/) [quality](/post/quality/); [most](/post/most/) [extreme](/post/extreme/) [or](/post/or/) [complete](/post/complete/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) showed [the](/post/the/) [utmost](/post/utmost/) [respect](/post/respect/) [for](/post/for/) [his](/post/his/) elders."
+- **[Adverb](/post/adverb/)**: [To](/post/to/) [the](/post/the/) greatest [extent](/post/extent/) [or](/post/or/) [degree](/post/degree/); [completely](/post/completely/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [grateful](/post/grateful/) [for](/post/for/) [their](/post/their/) [utmost](/post/utmost/) assistance."
 
 ## Phrases
-- "[Do](/en/post/do/) [something](/en/post/something/) [with](/en/post/with/) [utmost](/en/post/utmost/) [care](/en/post/care/)" [means](/en/post/means/) [to](/en/post/to/) [handle](/en/post/handle/) [something](/en/post/something/) [very](/en/post/very/) carefully.
-- "[Display](/en/post/display/) [utmost](/en/post/utmost/) [patience](/en/post/patience/)" implies showing [a](/en/post/a/) [great](/en/post/great/) [deal](/en/post/deal/) [of](/en/post/of/) [tolerance](/en/post/tolerance/).
-- "[His](/en/post/his/) [utmost](/en/post/utmost/) efforts were made [to](/en/post/to/) [solve](/en/post/solve/) [the](/en/post/the/) [problem](/en/post/problem/)" signifies [maximum](/en/post/maximum/) exertion.
+- "[Do](/post/do/) [something](/post/something/) [with](/post/with/) [utmost](/post/utmost/) [care](/post/care/)" [means](/post/means/) [to](/post/to/) [handle](/post/handle/) [something](/post/something/) [very](/post/very/) carefully.
+- "[Display](/post/display/) [utmost](/post/utmost/) [patience](/post/patience/)" implies showing [a](/post/a/) [great](/post/great/) [deal](/post/deal/) [of](/post/of/) [tolerance](/post/tolerance/).
+- "[His](/post/his/) [utmost](/post/utmost/) efforts were made [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [problem](/post/problem/)" signifies [maximum](/post/maximum/) exertion.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) expressed [her](/en/post/her/) [utmost](/en/post/utmost/) [gratitude](/en/post/gratitude/) [for](/en/post/for/) [the](/en/post/the/) [help](/en/post/help/) [provided](/en/post/provided/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) worked [with](/en/post/with/) [utmost](/en/post/utmost/) dedication [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [on](/en/post/on/) [time](/en/post/time/)."
-- "[The](/en/post/the/) [teacher](/en/post/teacher/) praised [the](/en/post/the/) students [for](/en/post/for/) [their](/en/post/their/) [utmost](/en/post/utmost/) participation [in](/en/post/in/) [class](/en/post/class/) discussions."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) expressed [her](/post/her/) [utmost](/post/utmost/) [gratitude](/post/gratitude/) [for](/post/for/) [the](/post/the/) [help](/post/help/) [provided](/post/provided/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) worked [with](/post/with/) [utmost](/post/utmost/) dedication [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [on](/post/on/) [time](/post/time/)."
+- "[The](/post/the/) [teacher](/post/teacher/) praised [the](/post/the/) students [for](/post/for/) [their](/post/their/) [utmost](/post/utmost/) participation [in](/post/in/) [class](/post/class/) discussions."
 
 ## Synonyms
-- [Supreme](/en/post/supreme/)
+- [Supreme](/post/supreme/)
 - Uttermost
-- [Extreme](/en/post/extreme/)
-- [Complete](/en/post/complete/)
+- [Extreme](/post/extreme/)
+- [Complete](/post/complete/)
 - Maximal
-- [Supreme](/en/post/supreme/)
-- [Absolute](/en/post/absolute/)
+- [Supreme](/post/supreme/)
+- [Absolute](/post/absolute/)
 - Unparalleled
 
 ## Antonyms
 - Minimal
 - Inadequate
-- [Limited](/en/post/limited/)
-- [Insufficient](/en/post/insufficient/)
+- [Limited](/post/limited/)
+- [Insufficient](/post/insufficient/)
 - Lesser
-- [Moderate](/en/post/moderate/)
+- [Moderate](/post/moderate/)

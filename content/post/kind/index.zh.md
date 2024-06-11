@@ -11,20 +11,20 @@ keywords = ['ai words', 'kind']
 /kɪnd/
 
 ## 释义
-- **形容词**: 有好意的，仁慈的，宽容的。例如: "[She](/post/she/) is [always](/post/always/) [kind](/post/kind/) [to](/post/to/) [the](/post/the/) [new](/post/new/) students."
-- **名词**: 种类，类别。例如: "[There](/post/there/) are [many](/post/many/) [different](/post/different/) kinds [of](/post/of/) dogs."
+- **形容词**: 有好意的，仁慈的，宽容的。例如: "[She](/zh/post/she/) is [always](/zh/post/always/) [kind](/zh/post/kind/) [to](/zh/post/to/) [the](/zh/post/the/) [new](/zh/post/new/) students."
+- **名词**: 种类，类别。例如: "[There](/zh/post/there/) are [many](/zh/post/many/) [different](/zh/post/different/) kinds [of](/zh/post/of/) dogs."
 
 ## 短语
 - "Kind-hearted" 意为心地善良的。
-- "[Of](/post/of/) [a](/post/a/) [kind](/post/kind/)" 表示同类的，某种类型的。
+- "[Of](/zh/post/of/) [a](/zh/post/a/) [kind](/zh/post/kind/)" 表示同类的，某种类型的。
 
 ## 例句
-- 形容词: "[The](/post/the/) [teacher](/post/teacher/) was [kind](/post/kind/) [enough](/post/enough/) [to](/post/to/) [give](/post/give/) [us](/post/us/) [extra](/post/extra/) [time](/post/time/) [for](/post/for/) [the](/post/the/) [assignment](/post/assignment/)."
-- 名词: "[We](/post/we/) [can](/post/can/) [classify](/post/classify/) animals [into](/post/into/) [several](/post/several/) [different](/post/different/) kinds based [on](/post/on/) [their](/post/their/) characteristics."
+- 形容词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) was [kind](/zh/post/kind/) [enough](/zh/post/enough/) [to](/zh/post/to/) [give](/zh/post/give/) [us](/zh/post/us/) [extra](/zh/post/extra/) [time](/zh/post/time/) [for](/zh/post/for/) [the](/zh/post/the/) [assignment](/zh/post/assignment/)."
+- 名词: "[We](/zh/post/we/) [can](/zh/post/can/) [classify](/zh/post/classify/) animals [into](/zh/post/into/) [several](/zh/post/several/) [different](/zh/post/different/) kinds based [on](/zh/post/on/) [their](/zh/post/their/) characteristics."
 
 ## 同义词
-- [Friendly](/post/friendly/)
-- [Generous](/post/generous/)
+- [Friendly](/zh/post/friendly/)
+- [Generous](/zh/post/generous/)
 - Benevolent
-- [Considerate](/post/considerate/)
-- [Gentle](/post/gentle/)
+- [Considerate](/zh/post/considerate/)
+- [Gentle](/zh/post/gentle/)

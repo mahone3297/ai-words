@@ -11,20 +11,20 @@ keywords = ['ai words', 'attempt']
 /əˈtempt/
 
 ## 释义
-- **名词**: 尝试，试图。例如: "[This](/post/this/) is [my](/post/my/) [first](/post/first/) [attempt](/post/attempt/) [at](/post/at/) [painting](/post/painting/)."
-- **动词**: 尝试，试图做某事。例如: "[She](/post/she/) attempted [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [difficult](/post/difficult/) [problem](/post/problem/)."
+- **名词**: 尝试，试图。例如: "[This](/zh/post/this/) is [my](/zh/post/my/) [first](/zh/post/first/) [attempt](/zh/post/attempt/) [at](/zh/post/at/) [painting](/zh/post/painting/)."
+- **动词**: 尝试，试图做某事。例如: "[She](/zh/post/she/) attempted [to](/zh/post/to/) [solve](/zh/post/solve/) [the](/zh/post/the/) [difficult](/zh/post/difficult/) [problem](/zh/post/problem/)."
 
 ## 短语
-- "[make](/post/make/) an [attempt](/post/attempt/)" 意思是努力尝试。
-- "[in](/post/in/) [vain](/post/vain/) attempts" 指徒劳无功的尝试。
+- "[make](/zh/post/make/) an [attempt](/zh/post/attempt/)" 意思是努力尝试。
+- "[in](/zh/post/in/) [vain](/zh/post/vain/) attempts" 指徒劳无功的尝试。
 
 ## 例句
-- 名词: "[His](/post/his/) [attempt](/post/attempt/) [to](/post/to/) [win](/post/win/) [the](/post/the/) [race](/post/race/) was admirable [but](/post/but/) unsuccessful."
-- 动词: "[She](/post/she/) attempted [to](/post/to/) [cook](/post/cook/) [a](/post/a/) [new](/post/new/) recipe [for](/post/for/) [dinner](/post/dinner/)."
+- 名词: "[His](/zh/post/his/) [attempt](/zh/post/attempt/) [to](/zh/post/to/) [win](/zh/post/win/) [the](/zh/post/the/) [race](/zh/post/race/) was admirable [but](/zh/post/but/) unsuccessful."
+- 动词: "[She](/zh/post/she/) attempted [to](/zh/post/to/) [cook](/zh/post/cook/) [a](/zh/post/a/) [new](/zh/post/new/) recipe [for](/zh/post/for/) [dinner](/zh/post/dinner/)."
 
 ## 同义词
-- [try](/post/try/)
+- [try](/zh/post/try/)
 - endeavor
 - strive
-- [effort](/post/effort/)
-- [venture](/post/venture/)
+- [effort](/zh/post/effort/)
+- [venture](/zh/post/venture/)

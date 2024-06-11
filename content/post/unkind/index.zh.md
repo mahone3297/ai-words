@@ -11,20 +11,20 @@ keywords = ['ai words', 'unkind']
 /ʌnˈkaɪnd/
 
 ## 释义
-- **形容词**: 不友善的，刻薄的，无情的。例如: "[She](/post/she/) was [unkind](/post/unkind/) [to](/post/to/) [her](/post/her/) [little](/post/little/) [brother](/post/brother/), criticizing [every](/post/every/) [move](/post/move/) [he](/post/he/) made."
-- **副词**: 不友善地，刻薄地。例如: "[He](/post/he/) spoke unkindly [about](/post/about/) [her](/post/her/) [in](/post/in/) [public](/post/public/)."
+- **形容词**: 不友善的，刻薄的，无情的。例如: "[She](/zh/post/she/) was [unkind](/zh/post/unkind/) [to](/zh/post/to/) [her](/zh/post/her/) [little](/zh/post/little/) [brother](/zh/post/brother/), criticizing [every](/zh/post/every/) [move](/zh/post/move/) [he](/zh/post/he/) made."
+- **副词**: 不友善地，刻薄地。例如: "[He](/zh/post/he/) spoke unkindly [about](/zh/post/about/) [her](/zh/post/her/) [in](/zh/post/in/) [public](/zh/post/public/)."
 
 ## 短语
-- "[Be](/post/be/) [unkind](/post/unkind/) [to](/post/to/) [someone](/post/someone/)" 意味着对某人不友好或刻薄。
-- "[Do](/post/do/) an [unkind](/post/unkind/) [deed](/post/deed/)" 做一件残忍或无情的事情。
+- "[Be](/zh/post/be/) [unkind](/zh/post/unkind/) [to](/zh/post/to/) [someone](/zh/post/someone/)" 意味着对某人不友好或刻薄。
+- "[Do](/zh/post/do/) an [unkind](/zh/post/unkind/) [deed](/zh/post/deed/)" 做一件残忍或无情的事情。
 
 ## 例句
-- 形容词: "[It](/post/it/) was [unkind](/post/unkind/) [of](/post/of/) [you](/post/you/) [to](/post/to/) [laugh](/post/laugh/) [at](/post/at/) [his](/post/his/) misfortune."
-- 副词: "[She](/post/she/) answered [my](/post/my/) [question](/post/question/) unkindly, making [me](/post/me/) [feel](/post/feel/) embarrassed."
+- 形容词: "[It](/zh/post/it/) was [unkind](/zh/post/unkind/) [of](/zh/post/of/) [you](/zh/post/you/) [to](/zh/post/to/) [laugh](/zh/post/laugh/) [at](/zh/post/at/) [his](/zh/post/his/) misfortune."
+- 副词: "[She](/zh/post/she/) answered [my](/zh/post/my/) [question](/zh/post/question/) unkindly, making [me](/zh/post/me/) [feel](/zh/post/feel/) embarrassed."
 
 ## 同义词
-- [Cruel](/post/cruel/)
-- [Harsh](/post/harsh/)
-- [Rude](/post/rude/)
-- [Mean](/post/mean/)
+- [Cruel](/zh/post/cruel/)
+- [Harsh](/zh/post/harsh/)
+- [Rude](/zh/post/rude/)
+- [Mean](/zh/post/mean/)
 - Inconsiderate

@@ -7,47 +7,47 @@ description = '[kənˈsəːn] n.关心，挂念；关系'
 keywords = ['ai words', 'concern']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈkɜːrn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) worried [or](/en/post/or/) concerned [about](/en/post/about/) [something](/en/post/something/): *[She](/en/post/she/) had [no](/en/post/no/) [reason](/en/post/reason/) [to](/en/post/to/) [be](/en/post/be/) overly concerned [about](/en/post/about/) [the](/en/post/the/) [exam](/en/post/exam/) results.*
-2. An [issue](/en/post/issue/), [matter](/en/post/matter/), [or](/en/post/or/) [subject](/en/post/subject/) [that](/en/post/that/) arouses [worry](/en/post/worry/) [or](/en/post/or/) [interest](/en/post/interest/): *[The](/en/post/the/) [environment](/en/post/environment/) is [a](/en/post/a/) [major](/en/post/major/) [concern](/en/post/concern/) [for](/en/post/for/) [many](/en/post/many/) [people](/en/post/people/).*
-3. [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [care](/en/post/care/) [or](/en/post/or/) [worry](/en/post/worry/) [for](/en/post/for/) [someone](/en/post/someone/) [else](/en/post/else/): *[Her](/en/post/her/) [health](/en/post/health/) is [a](/en/post/a/) [constant](/en/post/constant/) [concern](/en/post/concern/) [for](/en/post/for/) [her](/en/post/her/) [family](/en/post/family/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) worried [or](/post/or/) concerned [about](/post/about/) [something](/post/something/): *[She](/post/she/) had [no](/post/no/) [reason](/post/reason/) [to](/post/to/) [be](/post/be/) overly concerned [about](/post/about/) [the](/post/the/) [exam](/post/exam/) results.*
+2. An [issue](/post/issue/), [matter](/post/matter/), [or](/post/or/) [subject](/post/subject/) [that](/post/that/) arouses [worry](/post/worry/) [or](/post/or/) [interest](/post/interest/): *[The](/post/the/) [environment](/post/environment/) is [a](/post/a/) [major](/post/major/) [concern](/post/concern/) [for](/post/for/) [many](/post/many/) [people](/post/people/).*
+3. [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [care](/post/care/) [or](/post/or/) [worry](/post/worry/) [for](/post/for/) [someone](/post/someone/) [else](/post/else/): *[Her](/post/her/) [health](/post/health/) is [a](/post/a/) [constant](/post/constant/) [concern](/post/concern/) [for](/post/for/) [her](/post/her/) [family](/post/family/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [worry](/en/post/worry/) [or](/en/post/or/) [care](/en/post/care/) [about](/en/post/about/) ([something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/)): *[We](/en/post/we/) [should](/en/post/should/) [be](/en/post/be/) concerned [about](/en/post/about/) [the](/en/post/the/) rising [crime](/en/post/crime/) rates.*
-2. [To](/en/post/to/) [take](/en/post/take/) [action](/en/post/action/) [or](/en/post/or/) [show](/en/post/show/) [interest](/en/post/interest/) [in](/en/post/in/) ([a](/en/post/a/) [particular](/en/post/particular/) [issue](/en/post/issue/)): *[The](/en/post/the/) [company](/en/post/company/) is actively [concerning](/en/post/concerning/) [itself](/en/post/itself/) [with](/en/post/with/) [employee](/en/post/employee/) [welfare](/en/post/welfare/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [have](/post/have/) [a](/post/a/) [worry](/post/worry/) [or](/post/or/) [care](/post/care/) [about](/post/about/) ([something](/post/something/) [or](/post/or/) [someone](/post/someone/)): *[We](/post/we/) [should](/post/should/) [be](/post/be/) concerned [about](/post/about/) [the](/post/the/) rising [crime](/post/crime/) rates.*
+2. [To](/post/to/) [take](/post/take/) [action](/post/action/) [or](/post/or/) [show](/post/show/) [interest](/post/interest/) [in](/post/in/) ([a](/post/a/) [particular](/post/particular/) [issue](/post/issue/)): *[The](/post/the/) [company](/post/company/) is actively [concerning](/post/concerning/) [itself](/post/itself/) [with](/post/with/) [employee](/post/employee/) [welfare](/post/welfare/).*
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [or](/en/post/or/) showing [worry](/en/post/worry/) [or](/en/post/or/) [anxiety](/en/post/anxiety/): *[She](/en/post/she/) expressed [her](/en/post/her/) [deep](/en/post/deep/) [concern](/en/post/concern/) [over](/en/post/over/) [the](/en/post/the/) [safety](/en/post/safety/) measures.*
-2. [Of](/en/post/of/) [importance](/en/post/importance/) [or](/en/post/or/) [significance](/en/post/significance/): *[The](/en/post/the/) government's [economic](/en/post/economic/) policies are [a](/en/post/a/) [major](/en/post/major/) [concern](/en/post/concern/).*
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [or](/post/or/) showing [worry](/post/worry/) [or](/post/or/) [anxiety](/post/anxiety/): *[She](/post/she/) expressed [her](/post/her/) [deep](/post/deep/) [concern](/post/concern/) [over](/post/over/) [the](/post/the/) [safety](/post/safety/) measures.*
+2. [Of](/post/of/) [importance](/post/importance/) [or](/post/or/) [significance](/post/significance/): *[The](/post/the/) government's [economic](/post/economic/) policies are [a](/post/a/) [major](/post/major/) [concern](/post/concern/).*
 
 ## Phrases
-- "[Be](/en/post/be/) concerned [about](/en/post/about/)" indicates [worry](/en/post/worry/) [or](/en/post/or/) [care](/en/post/care/) [for](/en/post/for/) [something](/en/post/something/).
-- "[Of](/en/post/of/) [great](/en/post/great/) [concern](/en/post/concern/)" highlights [something](/en/post/something/) [that](/en/post/that/) is [highly](/en/post/highly/) worrying.
-- "Don't [worry](/en/post/worry/), it's [not](/en/post/not/) [a](/en/post/a/) [concern](/en/post/concern/)" [means](/en/post/means/) there's [no](/en/post/no/) [need](/en/post/need/) [to](/en/post/to/) [be](/en/post/be/) concerned.
+- "[Be](/post/be/) concerned [about](/post/about/)" indicates [worry](/post/worry/) [or](/post/or/) [care](/post/care/) [for](/post/for/) [something](/post/something/).
+- "[Of](/post/of/) [great](/post/great/) [concern](/post/concern/)" highlights [something](/post/something/) [that](/post/that/) is [highly](/post/highly/) worrying.
+- "Don't [worry](/post/worry/), it's [not](/post/not/) [a](/post/a/) [concern](/post/concern/)" [means](/post/means/) there's [no](/post/no/) [need](/post/need/) [to](/post/to/) [be](/post/be/) concerned.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[His](/en/post/his/) [health](/en/post/health/) was [a](/en/post/a/) [constant](/en/post/constant/) [concern](/en/post/concern/) [during](/en/post/during/) [his](/en/post/his/) [recovery](/en/post/recovery/).*
-- **[Verb](/en/post/verb/)**: *[She](/en/post/she/) was deeply concerned [with](/en/post/with/) [the](/en/post/the/) well-being [of](/en/post/of/) [her](/en/post/her/) children.*
-- **[Adjective](/en/post/adjective/)**: *[The](/en/post/the/) [safety](/en/post/safety/) [of](/en/post/of/) [the](/en/post/the/) citizens is [a](/en/post/a/) [major](/en/post/major/) [concern](/en/post/concern/) [for](/en/post/for/) [the](/en/post/the/) [government](/en/post/government/).*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[His](/post/his/) [health](/post/health/) was [a](/post/a/) [constant](/post/constant/) [concern](/post/concern/) [during](/post/during/) [his](/post/his/) [recovery](/post/recovery/).*
+- **[Verb](/post/verb/)**: *[She](/post/she/) was deeply concerned [with](/post/with/) [the](/post/the/) well-being [of](/post/of/) [her](/post/her/) children.*
+- **[Adjective](/post/adjective/)**: *[The](/post/the/) [safety](/post/safety/) [of](/post/of/) [the](/post/the/) citizens is [a](/post/a/) [major](/post/major/) [concern](/post/concern/) [for](/post/for/) [the](/post/the/) [government](/post/government/).*
 
 ## Synonyms
-- [Worry](/en/post/worry/)
-- [Anxiety](/en/post/anxiety/)
-- [Fear](/en/post/fear/)
-- [Alarm](/en/post/alarm/)
-- [Interest](/en/post/interest/)
-- [Issue](/en/post/issue/)
-- [Matter](/en/post/matter/)
-- [Thought](/en/post/thought/)
+- [Worry](/post/worry/)
+- [Anxiety](/post/anxiety/)
+- [Fear](/post/fear/)
+- [Alarm](/post/alarm/)
+- [Interest](/post/interest/)
+- [Issue](/post/issue/)
+- [Matter](/post/matter/)
+- [Thought](/post/thought/)
 - Preoccupation
 
 ## Antonyms
 - Unconcerned
-- [Indifferent](/en/post/indifferent/)
-- [At](/en/post/at/) [ease](/en/post/ease/)
+- [Indifferent](/post/indifferent/)
+- [At](/post/at/) [ease](/post/ease/)
 - Unworried
-- [Calm](/en/post/calm/)
+- [Calm](/post/calm/)

@@ -7,31 +7,31 @@ description = '[grəun] vi.哼，呻吟 n.呻吟'
 keywords = ['ai words', 'groan']
 +++
 
-## [Word](/en/post/word/): [Groan](/en/post/groan/)
+## [Word](/post/word/): [Groan](/post/groan/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡroʊn/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [utter](/en/post/utter/) [a](/en/post/a/) [deep](/en/post/deep/), mournful [sound](/en/post/sound/) expressive [of](/en/post/of/) [pain](/en/post/pain/), [sorrow](/en/post/sorrow/), [or](/en/post/or/) [despair](/en/post/despair/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) groaned [in](/en/post/in/) [agony](/en/post/agony/) [after](/en/post/after/) [the](/en/post/the/) [fall](/en/post/fall/)."
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) uttering [such](/en/post/such/) [a](/en/post/a/) [sound](/en/post/sound/); [a](/en/post/a/) [low](/en/post/low/), moaning [sound](/en/post/sound/) expressing [pain](/en/post/pain/), weariness, [or](/en/post/or/) discontent. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [groan](/en/post/groan/) echoed [through](/en/post/through/) [the](/en/post/the/) [empty](/en/post/empty/) [house](/en/post/house/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [complain](/en/post/complain/) [or](/en/post/or/) [protest](/en/post/protest/) [about](/en/post/about/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [weary](/en/post/weary/) [or](/en/post/or/) frustrated [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) students groaned [when](/en/post/when/) [they](/en/post/they/) [saw](/en/post/saw/) [the](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) homework assigned."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [utter](/post/utter/) [a](/post/a/) [deep](/post/deep/), mournful [sound](/post/sound/) expressive [of](/post/of/) [pain](/post/pain/), [sorrow](/post/sorrow/), [or](/post/or/) [despair](/post/despair/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) groaned [in](/post/in/) [agony](/post/agony/) [after](/post/after/) [the](/post/the/) [fall](/post/fall/)."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) uttering [such](/post/such/) [a](/post/a/) [sound](/post/sound/); [a](/post/a/) [low](/post/low/), moaning [sound](/post/sound/) expressing [pain](/post/pain/), weariness, [or](/post/or/) discontent. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [groan](/post/groan/) echoed [through](/post/through/) [the](/post/the/) [empty](/post/empty/) [house](/post/house/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [complain](/post/complain/) [or](/post/or/) [protest](/post/protest/) [about](/post/about/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [weary](/post/weary/) [or](/post/or/) frustrated [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) students groaned [when](/post/when/) [they](/post/they/) [saw](/post/saw/) [the](/post/the/) [amount](/post/amount/) [of](/post/of/) homework assigned."
 
 ## Phrases
-- "[Groan](/en/post/groan/) inwardly" [means](/en/post/means/) [to](/en/post/to/) silently [express](/en/post/express/) one's unhappiness [or](/en/post/or/) disappointment.
-- "[A](/en/post/a/) [groan](/en/post/groan/) [of](/en/post/of/) frustration" refers [to](/en/post/to/) [the](/en/post/the/) [sound](/en/post/sound/) made [when](/en/post/when/) [someone](/en/post/someone/) is exasperated [by](/en/post/by/) [a](/en/post/a/) [situation](/en/post/situation/).
-- "[To](/en/post/to/) [let](/en/post/let/) [out](/en/post/out/) [a](/en/post/a/) [groan](/en/post/groan/)" [means](/en/post/means/) [to](/en/post/to/) audibly [express](/en/post/express/) discomfort [or](/en/post/or/) dissatisfaction.
+- "[Groan](/post/groan/) inwardly" [means](/post/means/) [to](/post/to/) silently [express](/post/express/) one's unhappiness [or](/post/or/) disappointment.
+- "[A](/post/a/) [groan](/post/groan/) [of](/post/of/) frustration" refers [to](/post/to/) [the](/post/the/) [sound](/post/sound/) made [when](/post/when/) [someone](/post/someone/) is exasperated [by](/post/by/) [a](/post/a/) [situation](/post/situation/).
+- "[To](/post/to/) [let](/post/let/) [out](/post/out/) [a](/post/a/) [groan](/post/groan/)" [means](/post/means/) [to](/post/to/) audibly [express](/post/express/) discomfort [or](/post/or/) dissatisfaction.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (expressing [pain](/en/post/pain/))**: "[He](/en/post/he/) groaned [as](/en/post/as/) [he](/en/post/he/) tried [to](/en/post/to/) [stand](/en/post/stand/) [up](/en/post/up/) [after](/en/post/after/) sitting [for](/en/post/for/) hours."
-- **[Noun](/en/post/noun/) ([sound](/en/post/sound/) [of](/en/post/of/) [pain](/en/post/pain/))**: "[Her](/en/post/her/) groans indicated [that](/en/post/that/) [her](/en/post/her/) [headache](/en/post/headache/) was getting [worse](/en/post/worse/)."
-- **[Verb](/en/post/verb/) (complaining)**: "[The](/en/post/the/) employees groaned [when](/en/post/when/) [their](/en/post/their/) [boss](/en/post/boss/) announced [another](/en/post/another/) [round](/en/post/round/) [of](/en/post/of/) meetings."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (expressing [pain](/post/pain/))**: "[He](/post/he/) groaned [as](/post/as/) [he](/post/he/) tried [to](/post/to/) [stand](/post/stand/) [up](/post/up/) [after](/post/after/) sitting [for](/post/for/) hours."
+- **[Noun](/post/noun/) ([sound](/post/sound/) [of](/post/of/) [pain](/post/pain/))**: "[Her](/post/her/) groans indicated [that](/post/that/) [her](/post/her/) [headache](/post/headache/) was getting [worse](/post/worse/)."
+- **[Verb](/post/verb/) (complaining)**: "[The](/post/the/) employees groaned [when](/post/when/) [their](/post/their/) [boss](/post/boss/) announced [another](/post/another/) [round](/post/round/) [of](/post/of/) meetings."
 
 ## Synonyms
-- [Moan](/en/post/moan/)
+- [Moan](/post/moan/)
 - Murmur
-- Growl ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- Growl ([in](/post/in/) [some](/post/some/) contexts)
 - Whine
-- [Complain](/en/post/complain/)
+- [Complain](/post/complain/)
 - Lament
-- [Mutter](/en/post/mutter/) ([when](/en/post/when/) complaining)
+- [Mutter](/post/mutter/) ([when](/post/when/) complaining)

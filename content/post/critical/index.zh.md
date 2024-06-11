@@ -11,21 +11,21 @@ keywords = ['ai words', 'critical']
 /ˈkrɪtɪkl/
 
 ## 释义
-- **形容词**: 关键的，重要的，决定性的。例如: "[This](/post/this/) is [a](/post/a/) [critical](/post/critical/) [moment](/post/moment/) [in](/post/in/) [the](/post/the/) negotiation [process](/post/process/)."
-- **副词**: 批判地，严格地。例如: "[She](/post/she/) [read](/post/read/) [the](/post/the/) manuscript critically, looking [for](/post/for/) errors."
+- **形容词**: 关键的，重要的，决定性的。例如: "[This](/zh/post/this/) is [a](/zh/post/a/) [critical](/zh/post/critical/) [moment](/zh/post/moment/) [in](/zh/post/in/) [the](/zh/post/the/) negotiation [process](/zh/post/process/)."
+- **副词**: 批判地，严格地。例如: "[She](/zh/post/she/) [read](/zh/post/read/) [the](/zh/post/the/) manuscript critically, looking [for](/zh/post/for/) errors."
 
 ## 短语
-- "[at](/post/at/) [critical](/post/critical/) [point](/post/point/)" 在关键时刻。
-- "[critical](/post/critical/) thinking" 批判性思维。
-- "[under](/post/under/) [critical](/post/critical/) [condition](/post/condition/)" 处于危急状态。
+- "[at](/zh/post/at/) [critical](/zh/post/critical/) [point](/zh/post/point/)" 在关键时刻。
+- "[critical](/zh/post/critical/) thinking" 批判性思维。
+- "[under](/zh/post/under/) [critical](/zh/post/critical/) [condition](/zh/post/condition/)" 处于危急状态。
 
 ## 例句
-- 形容词: "[The](/post/the/) [doctor](/post/doctor/) said [his](/post/his/) [condition](/post/condition/) was [critical](/post/critical/) [and](/post/and/) required [immediate](/post/immediate/) [attention](/post/attention/)."
-- 副词: "[She](/post/she/) analyzed [the](/post/the/) [situation](/post/situation/) critically [and](/post/and/) made an informed [decision](/post/decision/)."
+- 形容词: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) said [his](/zh/post/his/) [condition](/zh/post/condition/) was [critical](/zh/post/critical/) [and](/zh/post/and/) required [immediate](/zh/post/immediate/) [attention](/zh/post/attention/)."
+- 副词: "[She](/zh/post/she/) analyzed [the](/zh/post/the/) [situation](/zh/post/situation/) critically [and](/zh/post/and/) made an informed [decision](/zh/post/decision/)."
 
 ## 同义词
-- [important](/post/important/)
-- [significant](/post/significant/)
+- [important](/zh/post/important/)
+- [significant](/zh/post/significant/)
 - decisive
 - crucial
 - pivotal

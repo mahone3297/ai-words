@@ -12,23 +12,23 @@ keywords = ['ai words', 'bubble']
 
 ## 释义
 - **名词**:
-  - 气泡；泡沫：[A](/post/a/) [small](/post/small/) globule [of](/post/of/) [air](/post/air/) [or](/post/or/) [gas](/post/gas/) [in](/post/in/) [a](/post/a/) [liquid](/post/liquid/), [or](/post/or/) [the](/post/the/) [mass](/post/mass/) [of](/post/of/) [such](/post/such/) globules.
-  - 炫耀；虚华的事物：[Something](/post/something/) [that](/post/that/) is ephemeral, insubstantial, [or](/post/or/) overvalued.
-  - (股市)泡沫；投机热潮：[A](/post/a/) [period](/post/period/) [of](/post/of/) [rapid](/post/rapid/) [and](/post/and/) unsustainable [growth](/post/growth/) [in](/post/in/) [the](/post/the/) [stock](/post/stock/) [market](/post/market/) [or](/post/or/) [other](/post/other/) investments.
+  - 气泡；泡沫：[A](/zh/post/a/) [small](/zh/post/small/) globule [of](/zh/post/of/) [air](/zh/post/air/) [or](/zh/post/or/) [gas](/zh/post/gas/) [in](/zh/post/in/) [a](/zh/post/a/) [liquid](/zh/post/liquid/), [or](/zh/post/or/) [the](/zh/post/the/) [mass](/zh/post/mass/) [of](/zh/post/of/) [such](/zh/post/such/) globules.
+  - 炫耀；虚华的事物：[Something](/zh/post/something/) [that](/zh/post/that/) is ephemeral, insubstantial, [or](/zh/post/or/) overvalued.
+  - (股市)泡沫；投机热潮：[A](/zh/post/a/) [period](/zh/post/period/) [of](/zh/post/of/) [rapid](/zh/post/rapid/) [and](/zh/post/and/) unsustainable [growth](/zh/post/growth/) [in](/zh/post/in/) [the](/zh/post/the/) [stock](/zh/post/stock/) [market](/zh/post/market/) [or](/zh/post/or/) [other](/zh/post/other/) investments.
 
 - **动词**:
-  - 形成气泡：[To](/post/to/) [form](/post/form/) bubbles, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [liquid](/post/liquid/).
-  - 轻声说话；低声细语：[To](/post/to/) [speak](/post/speak/) [softly](/post/softly/) [or](/post/or/) confidentially.
+  - 形成气泡：[To](/zh/post/to/) [form](/zh/post/form/) bubbles, [especially](/zh/post/especially/) [in](/zh/post/in/) [a](/zh/post/a/) [liquid](/zh/post/liquid/).
+  - 轻声说话；低声细语：[To](/zh/post/to/) [speak](/zh/post/speak/) [softly](/zh/post/softly/) [or](/zh/post/or/) confidentially.
 
 ## 短语
-- "[Bubble](/post/bubble/) [up](/post/up/)" 意味着液体中的气泡升起，或者指事物逐渐显现或发展。
-- "[Live](/post/live/) [in](/post/in/) [a](/post/a/) [bubble](/post/bubble/)" 指与外界隔绝，不了解现实世界的情况。
-- "[Burst](/post/burst/) one's [bubble](/post/bubble/)" 意味着打破某人的幻想或美梦。
+- "[Bubble](/zh/post/bubble/) [up](/zh/post/up/)" 意味着液体中的气泡升起，或者指事物逐渐显现或发展。
+- "[Live](/zh/post/live/) [in](/zh/post/in/) [a](/zh/post/a/) [bubble](/zh/post/bubble/)" 指与外界隔绝，不了解现实世界的情况。
+- "[Burst](/zh/post/burst/) one's [bubble](/zh/post/bubble/)" 意味着打破某人的幻想或美梦。
 
 ## 例句
-- 名词: "[The](/post/the/) champagne was filled [with](/post/with/) [delicate](/post/delicate/) bubbles."
-- 动词: "[The](/post/the/) children were bubbling [with](/post/with/) excitement [about](/post/about/) [their](/post/their/) upcoming [vacation](/post/vacation/)."
-- 感叹词: "[Bubble](/post/bubble/), [bubble](/post/bubble/), toil [and](/post/and/) [trouble](/post/trouble/)"（出自莎士比亚的《麦克白》）
+- 名词: "[The](/zh/post/the/) champagne was filled [with](/zh/post/with/) [delicate](/zh/post/delicate/) bubbles."
+- 动词: "[The](/zh/post/the/) children were bubbling [with](/zh/post/with/) excitement [about](/zh/post/about/) [their](/zh/post/their/) upcoming [vacation](/zh/post/vacation/)."
+- 感叹词: "[Bubble](/zh/post/bubble/), [bubble](/zh/post/bubble/), toil [and](/zh/post/and/) [trouble](/zh/post/trouble/)"（出自莎士比亚的《麦克白》）
 
 ## 同义词
 - Bubbliness

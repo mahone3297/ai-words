@@ -7,31 +7,31 @@ description = '[ˈreidjəs] n.半径'
 keywords = ['ai words', 'radius']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈædiəs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Radius](/en/post/radius/)** (n): [In](/en/post/in/) [geometry](/en/post/geometry/), [a](/en/post/a/) [straight](/en/post/straight/) [line](/en/post/line/) segment [from](/en/post/from/) [the](/en/post/the/) center [of](/en/post/of/) [a](/en/post/a/) [circle](/en/post/circle/) [to](/en/post/to/) [its](/en/post/its/) [circumference](/en/post/circumference/); [it](/en/post/it/) determines [the](/en/post/the/) [size](/en/post/size/) [of](/en/post/of/) [the](/en/post/the/) [circle](/en/post/circle/). [Example](/en/post/example/): "[The](/en/post/the/) [radius](/en/post/radius/) [of](/en/post/of/) [the](/en/post/the/) [Earth](/en/post/earth/) is [about](/en/post/about/) 6,371 kilometers."
-2. ([Physics](/en/post/physics/)) [The](/en/post/the/) [distance](/en/post/distance/) [from](/en/post/from/) [the](/en/post/the/) center [of](/en/post/of/) [a](/en/post/a/) rotating [body](/en/post/body/) [to](/en/post/to/) [a](/en/post/a/) [point](/en/post/point/) [on](/en/post/on/) [its](/en/post/its/) [edge](/en/post/edge/), measured [along](/en/post/along/) [a](/en/post/a/) [line](/en/post/line/) perpendicular [to](/en/post/to/) [the](/en/post/the/) [axis](/en/post/axis/) [of](/en/post/of/) [rotation](/en/post/rotation/). [Example](/en/post/example/): "[A](/en/post/a/) [bicycle](/en/post/bicycle/) [wheel](/en/post/wheel/) has [a](/en/post/a/) [small](/en/post/small/) [radius](/en/post/radius/), making [it](/en/post/it/) easier [to](/en/post/to/) [turn](/en/post/turn/)."
+### [Noun](/post/noun/)
+1. **[Radius](/post/radius/)** (n): [In](/post/in/) [geometry](/post/geometry/), [a](/post/a/) [straight](/post/straight/) [line](/post/line/) segment [from](/post/from/) [the](/post/the/) center [of](/post/of/) [a](/post/a/) [circle](/post/circle/) [to](/post/to/) [its](/post/its/) [circumference](/post/circumference/); [it](/post/it/) determines [the](/post/the/) [size](/post/size/) [of](/post/of/) [the](/post/the/) [circle](/post/circle/). [Example](/post/example/): "[The](/post/the/) [radius](/post/radius/) [of](/post/of/) [the](/post/the/) [Earth](/post/earth/) is [about](/post/about/) 6,371 kilometers."
+2. ([Physics](/post/physics/)) [The](/post/the/) [distance](/post/distance/) [from](/post/from/) [the](/post/the/) center [of](/post/of/) [a](/post/a/) rotating [body](/post/body/) [to](/post/to/) [a](/post/a/) [point](/post/point/) [on](/post/on/) [its](/post/its/) [edge](/post/edge/), measured [along](/post/along/) [a](/post/a/) [line](/post/line/) perpendicular [to](/post/to/) [the](/post/the/) [axis](/post/axis/) [of](/post/of/) [rotation](/post/rotation/). [Example](/post/example/): "[A](/post/a/) [bicycle](/post/bicycle/) [wheel](/post/wheel/) has [a](/post/a/) [small](/post/small/) [radius](/post/radius/), making [it](/post/it/) easier [to](/post/to/) [turn](/post/turn/)."
 
-### [Verb](/en/post/verb/)
-- [Not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) extended metaphorically [to](/en/post/to/) [mean](/en/post/mean/) "[extend](/en/post/extend/) [or](/en/post/or/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [radius](/en/post/radius/) [of](/en/post/of/) [something](/en/post/something/)." [Example](/en/post/example/): "[The](/en/post/the/) satellite's [orbit](/en/post/orbit/) was designed [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [large](/en/post/large/) [radius](/en/post/radius/) [around](/en/post/around/) [the](/en/post/the/) [planet](/en/post/planet/)."
+### [Verb](/post/verb/)
+- [Not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) extended metaphorically [to](/post/to/) [mean](/post/mean/) "[extend](/post/extend/) [or](/post/or/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [radius](/post/radius/) [of](/post/of/) [something](/post/something/)." [Example](/post/example/): "[The](/post/the/) satellite's [orbit](/post/orbit/) was designed [to](/post/to/) [have](/post/have/) [a](/post/a/) [large](/post/large/) [radius](/post/radius/) [around](/post/around/) [the](/post/the/) [planet](/post/planet/)."
 
 ## Phrases
-- "[The](/en/post/the/) [radius](/en/post/radius/) [of](/en/post/of/) [a](/en/post/a/) [circle](/en/post/circle/)" refers [to](/en/post/to/) [the](/en/post/the/) [measurement](/en/post/measurement/) [from](/en/post/from/) [the](/en/post/the/) center [to](/en/post/to/) [the](/en/post/the/) [edge](/en/post/edge/).
-- "[Circular](/en/post/circular/) [radius](/en/post/radius/)" is [a](/en/post/a/) [specific](/en/post/specific/) [term](/en/post/term/) [for](/en/post/for/) [the](/en/post/the/) [radius](/en/post/radius/) [of](/en/post/of/) [a](/en/post/a/) [circle](/en/post/circle/).
-- "Increasing/decreasing [radius](/en/post/radius/)" describes [a](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [the](/en/post/the/) [size](/en/post/size/) [of](/en/post/of/) [a](/en/post/a/) [circular](/en/post/circular/) [object](/en/post/object/).
+- "[The](/post/the/) [radius](/post/radius/) [of](/post/of/) [a](/post/a/) [circle](/post/circle/)" refers [to](/post/to/) [the](/post/the/) [measurement](/post/measurement/) [from](/post/from/) [the](/post/the/) center [to](/post/to/) [the](/post/the/) [edge](/post/edge/).
+- "[Circular](/post/circular/) [radius](/post/radius/)" is [a](/post/a/) [specific](/post/specific/) [term](/post/term/) [for](/post/for/) [the](/post/the/) [radius](/post/radius/) [of](/post/of/) [a](/post/a/) [circle](/post/circle/).
+- "Increasing/decreasing [radius](/post/radius/)" describes [a](/post/a/) [change](/post/change/) [in](/post/in/) [the](/post/the/) [size](/post/size/) [of](/post/of/) [a](/post/a/) [circular](/post/circular/) [object](/post/object/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [radius](/en/post/radius/) [of](/en/post/of/) [the](/en/post/the/) [atom](/en/post/atom/) determines [its](/en/post/its/) [chemical](/en/post/chemical/) reactivity."
-- **Metaphorical [Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) [shopping](/en/post/shopping/) mall extends [its](/en/post/its/) [radius](/en/post/radius/) [to](/en/post/to/) [cover](/en/post/cover/) [a](/en/post/a/) larger [area](/en/post/area/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [radius](/post/radius/) [of](/post/of/) [the](/post/the/) [atom](/post/atom/) determines [its](/post/its/) [chemical](/post/chemical/) reactivity."
+- **Metaphorical [Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) [shopping](/post/shopping/) mall extends [its](/post/its/) [radius](/post/radius/) [to](/post/to/) [cover](/post/cover/) [a](/post/a/) larger [area](/post/area/)."
 
 ## Synonyms
-- [Diameter](/en/post/diameter/) ([when](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) [full](/en/post/full/) [length](/en/post/length/) [through](/en/post/through/) [the](/en/post/the/) center)
-- [Circumference](/en/post/circumference/) ([the](/en/post/the/) [total](/en/post/total/) [length](/en/post/length/) [around](/en/post/around/) [the](/en/post/the/) [circle](/en/post/circle/))
-- [Span](/en/post/span/)
-- [Extent](/en/post/extent/)
+- [Diameter](/post/diameter/) ([when](/post/when/) referring [to](/post/to/) [the](/post/the/) [full](/post/full/) [length](/post/length/) [through](/post/through/) [the](/post/the/) center)
+- [Circumference](/post/circumference/) ([the](/post/the/) [total](/post/total/) [length](/post/length/) [around](/post/around/) [the](/post/the/) [circle](/post/circle/))
+- [Span](/post/span/)
+- [Extent](/post/extent/)
 
 ## Antonyms
-- [None](/en/post/none/), [as](/en/post/as/) [radius](/en/post/radius/) is [not](/en/post/not/) [a](/en/post/a/) [comparative](/en/post/comparative/) [term](/en/post/term/) ([it](/en/post/it/) is [a](/en/post/a/) [single](/en/post/single/) [measurement](/en/post/measurement/)). [However](/en/post/however/), [if](/en/post/if/) referring [to](/en/post/to/) [a](/en/post/a/) smaller [circle](/en/post/circle/) [within](/en/post/within/) [a](/en/post/a/) larger [one](/en/post/one/), [the](/en/post/the/) smaller [circle](/en/post/circle/) [would](/en/post/would/) [have](/en/post/have/) [a](/en/post/a/) lesser [radius](/en/post/radius/).
+- [None](/post/none/), [as](/post/as/) [radius](/post/radius/) is [not](/post/not/) [a](/post/a/) [comparative](/post/comparative/) [term](/post/term/) ([it](/post/it/) is [a](/post/a/) [single](/post/single/) [measurement](/post/measurement/)). [However](/post/however/), [if](/post/if/) referring [to](/post/to/) [a](/post/a/) smaller [circle](/post/circle/) [within](/post/within/) [a](/post/a/) larger [one](/post/one/), [the](/post/the/) smaller [circle](/post/circle/) [would](/post/would/) [have](/post/have/) [a](/post/a/) lesser [radius](/post/radius/).

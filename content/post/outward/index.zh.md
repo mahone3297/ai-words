@@ -11,20 +11,20 @@ keywords = ['ai words', 'outward']
 /outˈwərd/
 
 ## 释义
-- **形容词**: 向外的，外部的，外面的。例如: "[The](/post/the/) [outward](/post/outward/) [appearance](/post/appearance/) [of](/post/of/) [the](/post/the/) [house](/post/house/) was [very](/post/very/) appealing."
-- **副词**: 向外，往外。例如: "[He](/post/he/) pushed [the](/post/the/) [door](/post/door/) [outward](/post/outward/) [to](/post/to/) [let](/post/let/) [her](/post/her/) [in](/post/in/)."
+- **形容词**: 向外的，外部的，外面的。例如: "[The](/zh/post/the/) [outward](/zh/post/outward/) [appearance](/zh/post/appearance/) [of](/zh/post/of/) [the](/zh/post/the/) [house](/zh/post/house/) was [very](/zh/post/very/) appealing."
+- **副词**: 向外，往外。例如: "[He](/zh/post/he/) pushed [the](/zh/post/the/) [door](/zh/post/door/) [outward](/zh/post/outward/) [to](/zh/post/to/) [let](/zh/post/let/) [her](/zh/post/her/) [in](/zh/post/in/)."
 
 ## 短语
-- "[outward](/post/outward/) [journey](/post/journey/)" 指的是外出的旅程。
-- "[outward](/post/outward/) [bound](/post/bound/)" 常用来描述即将出发或朝外进行的动作。
+- "[outward](/zh/post/outward/) [journey](/zh/post/journey/)" 指的是外出的旅程。
+- "[outward](/zh/post/outward/) [bound](/zh/post/bound/)" 常用来描述即将出发或朝外进行的动作。
 
 ## 例句
-- 形容词: "[The](/post/the/) [outward](/post/outward/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [car](/post/car/) caught everyone's [attention](/post/attention/)."
-- 副词: "[He](/post/he/) leaned [outward](/post/outward/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) falling [object](/post/object/)."
+- 形容词: "[The](/zh/post/the/) [outward](/zh/post/outward/) [design](/zh/post/design/) [of](/zh/post/of/) [the](/zh/post/the/) [car](/zh/post/car/) caught everyone's [attention](/zh/post/attention/)."
+- 副词: "[He](/zh/post/he/) leaned [outward](/zh/post/outward/) [to](/zh/post/to/) [catch](/zh/post/catch/) [the](/zh/post/the/) falling [object](/zh/post/object/)."
 
 ## 同义词
-- [External](/post/external/)
-- [Exterior](/post/exterior/)
-- [Outside](/post/outside/)
-- Towards [the](/post/the/) [outside](/post/outside/)
-- [In](/post/in/) [a](/post/a/) [direction](/post/direction/) [away](/post/away/) [from](/post/from/) [the](/post/the/) center
+- [External](/zh/post/external/)
+- [Exterior](/zh/post/exterior/)
+- [Outside](/zh/post/outside/)
+- Towards [the](/zh/post/the/) [outside](/zh/post/outside/)
+- [In](/zh/post/in/) [a](/zh/post/a/) [direction](/zh/post/direction/) [away](/zh/post/away/) [from](/zh/post/from/) [the](/zh/post/the/) center

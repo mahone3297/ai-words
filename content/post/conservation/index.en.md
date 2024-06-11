@@ -7,40 +7,40 @@ description = '[ˌkɔnsə(ː)ˈvei∫ən] n.保存，保护；守恒'
 keywords = ['ai words', 'conservation']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈsɜrvəʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [practice](/en/post/practice/) [of](/en/post/of/) preserving, protecting, [or](/en/post/or/) maintaining [natural](/en/post/natural/) resources, wildlife, [or](/en/post/or/) [the](/en/post/the/) [environment](/en/post/environment/). 2. [The](/en/post/the/) [careful](/en/post/careful/) [management](/en/post/management/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [money](/en/post/money/) [or](/en/post/or/) [a](/en/post/a/) [resource](/en/post/resource/), [to](/en/post/to/) [ensure](/en/post/ensure/) [its](/en/post/its/) long-term availability. 3. [Ecology] [The](/en/post/the/) [balance](/en/post/balance/) [or](/en/post/or/) [harmony](/en/post/harmony/) [between](/en/post/between/) [living](/en/post/living/) organisms [and](/en/post/and/) [their](/en/post/their/) [environment](/en/post/environment/). 4. [Economics] [The](/en/post/the/) preservation [of](/en/post/of/) [wealth](/en/post/wealth/) [or](/en/post/or/) [value](/en/post/value/) [through](/en/post/through/) [saving](/en/post/saving/) [or](/en/post/or/) [investment](/en/post/investment/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [practice](/post/practice/) [of](/post/of/) preserving, protecting, [or](/post/or/) maintaining [natural](/post/natural/) resources, wildlife, [or](/post/or/) [the](/post/the/) [environment](/post/environment/). 2. [The](/post/the/) [careful](/post/careful/) [management](/post/management/) [of](/post/of/) [something](/post/something/), [often](/post/often/) [money](/post/money/) [or](/post/or/) [a](/post/a/) [resource](/post/resource/), [to](/post/to/) [ensure](/post/ensure/) [its](/post/its/) long-term availability. 3. [Ecology] [The](/post/the/) [balance](/post/balance/) [or](/post/or/) [harmony](/post/harmony/) [between](/post/between/) [living](/post/living/) organisms [and](/post/and/) [their](/post/their/) [environment](/post/environment/). 4. [Economics] [The](/post/the/) preservation [of](/post/of/) [wealth](/post/wealth/) [or](/post/or/) [value](/post/value/) [through](/post/through/) [saving](/post/saving/) [or](/post/or/) [investment](/post/investment/).
 
-## [Verb](/en/post/verb/) (transitive): 
-- [To](/en/post/to/) conserve [or](/en/post/or/) [protect](/en/post/protect/) [something](/en/post/something/) [from](/en/post/from/) degradation, [waste](/en/post/waste/), [or](/en/post/or/) [destruction](/en/post/destruction/). 
+## [Verb](/post/verb/) (transitive): 
+- [To](/post/to/) conserve [or](/post/or/) [protect](/post/protect/) [something](/post/something/) [from](/post/from/) degradation, [waste](/post/waste/), [or](/post/or/) [destruction](/post/destruction/). 
 
-## [Adjective](/en/post/adjective/): 
-- Characterized [by](/en/post/by/) [or](/en/post/or/) promoting [the](/en/post/the/) [maintenance](/en/post/maintenance/) [of](/en/post/of/) [natural](/en/post/natural/) resources [or](/en/post/or/) [the](/en/post/the/) [environment](/en/post/environment/).
+## [Adjective](/post/adjective/): 
+- Characterized [by](/post/by/) [or](/post/or/) promoting [the](/post/the/) [maintenance](/post/maintenance/) [of](/post/of/) [natural](/post/natural/) resources [or](/post/or/) [the](/post/the/) [environment](/post/environment/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [government](/en/post/government/) has implemented [strict](/en/post/strict/) [conservation](/en/post/conservation/) policies [to](/en/post/to/) [protect](/en/post/protect/) endangered species."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) conserve [water](/en/post/water/) [to](/en/post/to/) [ensure](/en/post/ensure/) [a](/en/post/a/) sustainable [supply](/en/post/supply/) [for](/en/post/for/) [future](/en/post/future/) generations."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [green](/en/post/green/) [building](/en/post/building/) was designed [with](/en/post/with/) energy-efficient features [to](/en/post/to/) conserve resources."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [government](/post/government/) has implemented [strict](/post/strict/) [conservation](/post/conservation/) policies [to](/post/to/) [protect](/post/protect/) endangered species."
+- **[Verb](/post/verb/)**: "[We](/post/we/) [need](/post/need/) [to](/post/to/) conserve [water](/post/water/) [to](/post/to/) [ensure](/post/ensure/) [a](/post/a/) sustainable [supply](/post/supply/) [for](/post/for/) [future](/post/future/) generations."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [green](/post/green/) [building](/post/building/) was designed [with](/post/with/) energy-efficient features [to](/post/to/) conserve resources."
 
 ## Phrases
-- "[Conservation](/en/post/conservation/) efforts" refers [to](/en/post/to/) activities aimed [at](/en/post/at/) preserving [natural](/en/post/natural/) resources.
-- "[Practical](/en/post/practical/) [conservation](/en/post/conservation/)" involves [everyday](/en/post/everyday/) actions [to](/en/post/to/) [save](/en/post/save/) resources.
-- "Biodiversity [conservation](/en/post/conservation/)" focuses [on](/en/post/on/) protecting [various](/en/post/various/) species [and](/en/post/and/) ecosystems.
+- "[Conservation](/post/conservation/) efforts" refers [to](/post/to/) activities aimed [at](/post/at/) preserving [natural](/post/natural/) resources.
+- "[Practical](/post/practical/) [conservation](/post/conservation/)" involves [everyday](/post/everyday/) actions [to](/post/to/) [save](/post/save/) resources.
+- "Biodiversity [conservation](/post/conservation/)" focuses [on](/post/on/) protecting [various](/post/various/) species [and](/post/and/) ecosystems.
 
-## [Example](/en/post/example/) Sentences (continued)
-- "[The](/en/post/the/) [community](/en/post/community/) is organizing [a](/en/post/a/) [conservation](/en/post/conservation/) [drive](/en/post/drive/) [to](/en/post/to/) [clean](/en/post/clean/) [up](/en/post/up/) [the](/en/post/the/) [local](/en/post/local/) [park](/en/post/park/)."
-- "Conserving [energy](/en/post/energy/) is [essential](/en/post/essential/) [in](/en/post/in/) [our](/en/post/our/) [daily](/en/post/daily/) lives."
-- "Heritage [conservation](/en/post/conservation/) seeks [to](/en/post/to/) [preserve](/en/post/preserve/) [historical](/en/post/historical/) buildings [and](/en/post/and/) artifacts."
+## [Example](/post/example/) Sentences (continued)
+- "[The](/post/the/) [community](/post/community/) is organizing [a](/post/a/) [conservation](/post/conservation/) [drive](/post/drive/) [to](/post/to/) [clean](/post/clean/) [up](/post/up/) [the](/post/the/) [local](/post/local/) [park](/post/park/)."
+- "Conserving [energy](/post/energy/) is [essential](/post/essential/) [in](/post/in/) [our](/post/our/) [daily](/post/daily/) lives."
+- "Heritage [conservation](/post/conservation/) seeks [to](/post/to/) [preserve](/post/preserve/) [historical](/post/historical/) buildings [and](/post/and/) artifacts."
 
 ## Synonyms
 - Preservation
 - Preservationism
 - Sustainability
-- [Maintenance](/en/post/maintenance/)
+- [Maintenance](/post/maintenance/)
 - Stewardship
-- [Care](/en/post/care/)
-- [Management](/en/post/management/)
-- [Protection](/en/post/protection/)
-- [Support](/en/post/support/)
+- [Care](/post/care/)
+- [Management](/post/management/)
+- [Protection](/post/protection/)
+- [Support](/post/support/)

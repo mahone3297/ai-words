@@ -7,29 +7,29 @@ description = '[ˈfeiljə] n.失败；失败的人'
 keywords = ['ai words', 'failure']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfeɪljər/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [lack](/en/post/lack/) [of](/en/post/of/) [success](/en/post/success/) [in](/en/post/in/) achieving [a](/en/post/a/) desired [outcome](/en/post/outcome/) [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [not](/en/post/not/) succeeding. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) has failed [or](/en/post/or/) been unsuccessful. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [business](/en/post/business/) [venture](/en/post/venture/) ended [in](/en/post/in/) [financial](/en/post/financial/) [failure](/en/post/failure/)." "[Their](/en/post/their/) [previous](/en/post/previous/) [project](/en/post/project/) was [a](/en/post/a/) [complete](/en/post/complete/) [failure](/en/post/failure/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [fall](/en/post/fall/) [short](/en/post/short/) [of](/en/post/of/) expectations, [to](/en/post/to/) [not](/en/post/not/) [succeed](/en/post/succeed/) [in](/en/post/in/) accomplishing [a](/en/post/a/) [goal](/en/post/goal/) [or](/en/post/or/) fulfilling an obligation, [or](/en/post/or/) [to](/en/post/to/) [cease](/en/post/cease/) [to](/en/post/to/) [function](/en/post/function/) [properly](/en/post/properly/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [experiment](/en/post/experiment/) failed [due](/en/post/due/) [to](/en/post/to/) unforeseen circumstances." "[Her](/en/post/her/) [health](/en/post/health/) began [to](/en/post/to/) [fail](/en/post/fail/) [rapidly](/en/post/rapidly/)."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [lack](/post/lack/) [of](/post/of/) [success](/post/success/) [in](/post/in/) achieving [a](/post/a/) desired [outcome](/post/outcome/) [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [not](/post/not/) succeeding. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) has failed [or](/post/or/) been unsuccessful. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [business](/post/business/) [venture](/post/venture/) ended [in](/post/in/) [financial](/post/financial/) [failure](/post/failure/)." "[Their](/post/their/) [previous](/post/previous/) [project](/post/project/) was [a](/post/a/) [complete](/post/complete/) [failure](/post/failure/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [fall](/post/fall/) [short](/post/short/) [of](/post/of/) expectations, [to](/post/to/) [not](/post/not/) [succeed](/post/succeed/) [in](/post/in/) accomplishing [a](/post/a/) [goal](/post/goal/) [or](/post/or/) fulfilling an obligation, [or](/post/or/) [to](/post/to/) [cease](/post/cease/) [to](/post/to/) [function](/post/function/) [properly](/post/properly/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [experiment](/post/experiment/) failed [due](/post/due/) [to](/post/to/) unforeseen circumstances." "[Her](/post/her/) [health](/post/health/) began [to](/post/to/) [fail](/post/fail/) [rapidly](/post/rapidly/)."
 
 ## Phrases
-- "[Failure](/en/post/failure/) [to](/en/post/to/) [launch](/en/post/launch/)": Refers [to](/en/post/to/) [a](/en/post/a/) [difficulty](/en/post/difficulty/) [in](/en/post/in/) starting [or](/en/post/or/) progressing [in](/en/post/in/) [life](/en/post/life/), [often](/en/post/often/) [in](/en/post/in/) terms [of](/en/post/of/) [a](/en/post/a/) [young](/en/post/young/) [adult](/en/post/adult/) struggling [with](/en/post/with/) [independence](/en/post/independence/).
-- "[Learn](/en/post/learn/) [from](/en/post/from/) [your](/en/post/your/) failures": Encourages [the](/en/post/the/) [idea](/en/post/idea/) [that](/en/post/that/) one's setbacks [can](/en/post/can/) [be](/en/post/be/) [valuable](/en/post/valuable/) [learning](/en/post/learning/) experiences.
-- "[System](/en/post/system/) [failure](/en/post/failure/)": [When](/en/post/when/) [a](/en/post/a/) [mechanical](/en/post/mechanical/), [electronic](/en/post/electronic/), [or](/en/post/or/) organizational [system](/en/post/system/) stops working effectively [or](/en/post/or/) efficiently.
+- "[Failure](/post/failure/) [to](/post/to/) [launch](/post/launch/)": Refers [to](/post/to/) [a](/post/a/) [difficulty](/post/difficulty/) [in](/post/in/) starting [or](/post/or/) progressing [in](/post/in/) [life](/post/life/), [often](/post/often/) [in](/post/in/) terms [of](/post/of/) [a](/post/a/) [young](/post/young/) [adult](/post/adult/) struggling [with](/post/with/) [independence](/post/independence/).
+- "[Learn](/post/learn/) [from](/post/from/) [your](/post/your/) failures": Encourages [the](/post/the/) [idea](/post/idea/) [that](/post/that/) one's setbacks [can](/post/can/) [be](/post/be/) [valuable](/post/valuable/) [learning](/post/learning/) experiences.
+- "[System](/post/system/) [failure](/post/failure/)": [When](/post/when/) [a](/post/a/) [mechanical](/post/mechanical/), [electronic](/post/electronic/), [or](/post/or/) organizational [system](/post/system/) stops working effectively [or](/post/or/) efficiently.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Despite](/en/post/despite/) repeated efforts, [his](/en/post/his/) quest [for](/en/post/for/) [the](/en/post/the/) championship ended [in](/en/post/in/) abject [failure](/en/post/failure/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) refused [to](/en/post/to/) [give](/en/post/give/) [up](/en/post/up/) [even](/en/post/even/) [when](/en/post/when/) [it](/en/post/it/) seemed [like](/en/post/like/) [all](/en/post/all/) [her](/en/post/her/) plans were failing."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Despite](/post/despite/) repeated efforts, [his](/post/his/) quest [for](/post/for/) [the](/post/the/) championship ended [in](/post/in/) abject [failure](/post/failure/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) refused [to](/post/to/) [give](/post/give/) [up](/post/up/) [even](/post/even/) [when](/post/when/) [it](/post/it/) seemed [like](/post/like/) [all](/post/all/) [her](/post/her/) plans were failing."
 
 ## Synonyms
-- [Defeat](/en/post/defeat/)
-- [Loss](/en/post/loss/)
+- [Defeat](/post/defeat/)
+- [Loss](/post/loss/)
 - Misfire
 - Flop
 - Fiasco
 - Letdown
 - Nonachievement
 - Unsuccessfulness
-- Breakdown ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [sense](/en/post/sense/))
+- Breakdown ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [sense](/post/sense/))

@@ -7,25 +7,25 @@ description = '[ˈpiːpl] n.人民，民族；人'
 keywords = ['ai words', 'people']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[people](/en/post/people/)/
+## [Pronunciation](/post/pronunciation/)
+/[people](/post/people/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - **Countable [noun](/en/post/noun/)**: [A](/en/post/a/) [plural](/en/post/plural/) [form](/en/post/form/) referring [to](/en/post/to/) [human](/en/post/human/) beings collectively [or](/en/post/or/) individually. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [people](/en/post/people/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/) were enjoying [the](/en/post/the/) [sunny](/en/post/sunny/) [day](/en/post/day/)."
-  - **[Collective](/en/post/collective/) [noun](/en/post/noun/)**: Refers [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) individuals. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [people](/en/post/people/) [of](/en/post/of/) [Earth](/en/post/earth/) are working towards [a](/en/post/a/) sustainable [future](/en/post/future/)."
+- **[Noun](/post/noun/)**: 
+  - **Countable [noun](/post/noun/)**: [A](/post/a/) [plural](/post/plural/) [form](/post/form/) referring [to](/post/to/) [human](/post/human/) beings collectively [or](/post/or/) individually. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [people](/post/people/) [in](/post/in/) [the](/post/the/) [park](/post/park/) were enjoying [the](/post/the/) [sunny](/post/sunny/) [day](/post/day/)."
+  - **[Collective](/post/collective/) [noun](/post/noun/)**: Refers [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) individuals. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [people](/post/people/) [of](/post/of/) [Earth](/post/earth/) are working towards [a](/post/a/) sustainable [future](/post/future/)."
 
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) humans [in](/en/post/in/) [general](/en/post/general/) [or](/en/post/or/) [the](/en/post/the/) qualities [or](/en/post/or/) characteristics [of](/en/post/of/) [people](/en/post/people/). [For](/en/post/for/) [example](/en/post/example/): "[People](/en/post/people/) are [diverse](/en/post/diverse/) [and](/en/post/and/) adaptable."
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) humans [in](/post/in/) [general](/post/general/) [or](/post/or/) [the](/post/the/) qualities [or](/post/or/) characteristics [of](/post/of/) [people](/post/people/). [For](/post/for/) [example](/post/example/): "[People](/post/people/) are [diverse](/post/diverse/) [and](/post/and/) adaptable."
 
 ## Phrases
-- "[Meet](/en/post/meet/) [the](/en/post/the/) [people](/en/post/people/)" [means](/en/post/means/) [to](/en/post/to/) [introduce](/en/post/introduce/) [or](/en/post/or/) [come](/en/post/come/) [into](/en/post/into/) [contact](/en/post/contact/) [with](/en/post/with/) others.
-- "[People](/en/post/people/) [power](/en/post/power/)" refers [to](/en/post/to/) [the](/en/post/the/) [collective](/en/post/collective/) [influence](/en/post/influence/) [or](/en/post/or/) [strength](/en/post/strength/) [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/).
-- "[People](/en/post/people/) skills" are abilities [to](/en/post/to/) interact effectively [with](/en/post/with/) others.
+- "[Meet](/post/meet/) [the](/post/the/) [people](/post/people/)" [means](/post/means/) [to](/post/to/) [introduce](/post/introduce/) [or](/post/or/) [come](/post/come/) [into](/post/into/) [contact](/post/contact/) [with](/post/with/) others.
+- "[People](/post/people/) [power](/post/power/)" refers [to](/post/to/) [the](/post/the/) [collective](/post/collective/) [influence](/post/influence/) [or](/post/or/) [strength](/post/strength/) [of](/post/of/) [a](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/).
+- "[People](/post/people/) skills" are abilities [to](/post/to/) interact effectively [with](/post/with/) others.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [local](/en/post/local/) [people](/en/post/people/) were welcoming tourists [with](/en/post/with/) [open](/en/post/open/) arms."
-- **[Adjective](/en/post/adjective/)**: "[People](/en/post/people/) [have](/en/post/have/) [unique](/en/post/unique/) talents [and](/en/post/and/) perspectives."
-- "[She](/en/post/she/) has [excellent](/en/post/excellent/) [people](/en/post/people/) skills, [which](/en/post/which/) [help](/en/post/help/) [her](/en/post/her/) [in](/en/post/in/) [her](/en/post/her/) [job](/en/post/job/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [local](/post/local/) [people](/post/people/) were welcoming tourists [with](/post/with/) [open](/post/open/) arms."
+- **[Adjective](/post/adjective/)**: "[People](/post/people/) [have](/post/have/) [unique](/post/unique/) talents [and](/post/and/) perspectives."
+- "[She](/post/she/) has [excellent](/post/excellent/) [people](/post/people/) skills, [which](/post/which/) [help](/post/help/) [her](/post/her/) [in](/post/in/) [her](/post/her/) [job](/post/job/)."
 
 ## Synonyms
 - Folks
@@ -35,10 +35,10 @@ keywords = ['ai words', 'people']
 -ankind
 
 ## Antonyms
-- Animals (referring [to](/en/post/to/) non-human [life](/en/post/life/) forms)
-- Machines (referring [to](/en/post/to/) inanimate objects)
+- Animals (referring [to](/post/to/) non-human [life](/post/life/) forms)
+- Machines (referring [to](/post/to/) inanimate objects)
 
 ## Derived Words
-- People-oriented: Focused [on](/en/post/on/) [the](/en/post/the/) needs [and](/en/post/and/) preferences [of](/en/post/of/) [people](/en/post/people/).
-- People-friendly: Welcoming [and](/en/post/and/) accommodating [to](/en/post/to/) [people](/en/post/people/).
-- People-centric: Centering [around](/en/post/around/) [or](/en/post/or/) prioritizing people's interests.
+- People-oriented: Focused [on](/post/on/) [the](/post/the/) needs [and](/post/and/) preferences [of](/post/of/) [people](/post/people/).
+- People-friendly: Welcoming [and](/post/and/) accommodating [to](/post/to/) [people](/post/people/).
+- People-centric: Centering [around](/post/around/) [or](/post/or/) prioritizing people's interests.

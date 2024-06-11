@@ -12,31 +12,31 @@ keywords = ['ai words', 'flash']
 
 ## 释义
 - **名词**:
-   - 瞬间，片刻：[A](/post/a/) [very](/post/very/) [short](/post/short/) [time](/post/time/); an [instant](/post/instant/).
-   - 闪光，闪耀：[A](/post/a/) [sudden](/post/sudden/) [burst](/post/burst/) [of](/post/of/) [light](/post/light/) [or](/post/or/) brightness, [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is [brief](/post/brief/) [and](/post/and/) [intense](/post/intense/).
-   - 闪现，突发：An abrupt [and](/post/and/) [sudden](/post/sudden/) [appearance](/post/appearance/) [or](/post/or/) disappearance.
+   - 瞬间，片刻：[A](/zh/post/a/) [very](/zh/post/very/) [short](/zh/post/short/) [time](/zh/post/time/); an [instant](/zh/post/instant/).
+   - 闪光，闪耀：[A](/zh/post/a/) [sudden](/zh/post/sudden/) [burst](/zh/post/burst/) [of](/zh/post/of/) [light](/zh/post/light/) [or](/zh/post/or/) brightness, [especially](/zh/post/especially/) [one](/zh/post/one/) [that](/zh/post/that/) is [brief](/zh/post/brief/) [and](/zh/post/and/) [intense](/zh/post/intense/).
+   - 闪现，突发：An abrupt [and](/zh/post/and/) [sudden](/zh/post/sudden/) [appearance](/zh/post/appearance/) [or](/zh/post/or/) disappearance.
 
 - **动词**:
-   - 使闪光：[To](/post/to/) [cause](/post/cause/) [to](/post/to/) [shine](/post/shine/) [with](/post/with/) [a](/post/a/) [sudden](/post/sudden/), [brief](/post/brief/) [light](/post/light/).
-   - 使快速显现：[To](/post/to/) [display](/post/display/) ([something](/post/something/)) [suddenly](/post/suddenly/) [and](/post/and/) briefly, [often](/post/often/) [to](/post/to/) [attract](/post/attract/) [attention](/post/attention/).
+   - 使闪光：[To](/zh/post/to/) [cause](/zh/post/cause/) [to](/zh/post/to/) [shine](/zh/post/shine/) [with](/zh/post/with/) [a](/zh/post/a/) [sudden](/zh/post/sudden/), [brief](/zh/post/brief/) [light](/zh/post/light/).
+   - 使快速显现：[To](/zh/post/to/) [display](/zh/post/display/) ([something](/zh/post/something/)) [suddenly](/zh/post/suddenly/) [and](/zh/post/and/) briefly, [often](/zh/post/often/) [to](/zh/post/to/) [attract](/zh/post/attract/) [attention](/zh/post/attention/).
 
 - **形容词**:
-   - 闪烁的，闪光的：Having [or](/post/or/) producing [a](/post/a/) [sudden](/post/sudden/), [bright](/post/bright/) [light](/post/light/); shining [with](/post/with/) [a](/post/a/) [rapid](/post/rapid/), intermittent [glow](/post/glow/).
-   - 快速的，迅速的：Done [or](/post/or/) happening [very](/post/very/) [quickly](/post/quickly/).
+   - 闪烁的，闪光的：Having [or](/zh/post/or/) producing [a](/zh/post/a/) [sudden](/zh/post/sudden/), [bright](/zh/post/bright/) [light](/zh/post/light/); shining [with](/zh/post/with/) [a](/zh/post/a/) [rapid](/zh/post/rapid/), intermittent [glow](/zh/post/glow/).
+   - 快速的，迅速的：Done [or](/zh/post/or/) happening [very](/zh/post/very/) [quickly](/zh/post/quickly/).
 
 ## 短语
 - "Flashlight" 手电筒，一种发出短暂强烈光线的工具。
-- "[Flash](/post/flash/) mob" 突然集结的群体，通常是为了表演或某种活动。
-- "[Flash](/post/flash/) [sale](/post/sale/)" 限时抢购，短时间内提供的特价销售。
+- "[Flash](/zh/post/flash/) mob" 突然集结的群体，通常是为了表演或某种活动。
+- "[Flash](/zh/post/flash/) [sale](/zh/post/sale/)" 限时抢购，短时间内提供的特价销售。
 
 ## 例句
-- 名词: "[The](/post/the/) [camera](/post/camera/) captured [a](/post/a/) [flash](/post/flash/) [of](/post/of/) [lightning](/post/lightning/) [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
-- 动词: "[He](/post/he/) flashed [a](/post/a/) [smile](/post/smile/) [before](/post/before/) [turning](/post/turning/) [away](/post/away/)."
-- 形容词: "[She](/post/she/) wore [a](/post/a/) [flash](/post/flash/) [new](/post/new/) [dress](/post/dress/) [to](/post/to/) [the](/post/the/) [party](/post/party/)."
+- 名词: "[The](/zh/post/the/) [camera](/zh/post/camera/) captured [a](/zh/post/a/) [flash](/zh/post/flash/) [of](/zh/post/of/) [lightning](/zh/post/lightning/) [in](/zh/post/in/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
+- 动词: "[He](/zh/post/he/) flashed [a](/zh/post/a/) [smile](/zh/post/smile/) [before](/zh/post/before/) [turning](/zh/post/turning/) [away](/zh/post/away/)."
+- 形容词: "[She](/zh/post/she/) wore [a](/zh/post/a/) [flash](/zh/post/flash/) [new](/zh/post/new/) [dress](/zh/post/dress/) [to](/zh/post/to/) [the](/zh/post/the/) [party](/zh/post/party/)."
 
 ## 同义词
-- [Burst](/post/burst/)
-- [Spark](/post/spark/)
+- [Burst](/zh/post/burst/)
+- [Spark](/zh/post/spark/)
 - Gleam
 - Strobe
-- [Flare](/post/flare/)
+- [Flare](/zh/post/flare/)

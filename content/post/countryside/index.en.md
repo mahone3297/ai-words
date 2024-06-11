@@ -7,41 +7,41 @@ description = '[ˈkʌntrisaid] n.乡下，农村'
 keywords = ['ai words', 'countryside']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkʌntrisaɪd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [rural](/en/post/rural/) areas [outside](/en/post/outside/) towns [and](/en/post/and/) cities, typically consisting [of](/en/post/of/) farmland, forests, [and](/en/post/and/) [small](/en/post/small/) villages.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [beauty](/en/post/beauty/) [of](/en/post/of/) [the](/en/post/the/) [countryside](/en/post/countryside/) is [truly](/en/post/truly/) breathtaking."
-2. [Country](/en/post/country/) [life](/en/post/life/) [or](/en/post/or/) [the](/en/post/the/) [way](/en/post/way/) [of](/en/post/of/) [life](/en/post/life/) [in](/en/post/in/) [rural](/en/post/rural/) areas.
-   - [Example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [move](/en/post/move/) [to](/en/post/to/) [the](/en/post/the/) [countryside](/en/post/countryside/) [for](/en/post/for/) [a](/en/post/a/) quieter lifestyle."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [rural](/post/rural/) areas [outside](/post/outside/) towns [and](/post/and/) cities, typically consisting [of](/post/of/) farmland, forests, [and](/post/and/) [small](/post/small/) villages.
+   - [Example](/post/example/): "[The](/post/the/) [beauty](/post/beauty/) [of](/post/of/) [the](/post/the/) [countryside](/post/countryside/) is [truly](/post/truly/) breathtaking."
+2. [Country](/post/country/) [life](/post/life/) [or](/post/or/) [the](/post/the/) [way](/post/way/) [of](/post/of/) [life](/post/life/) [in](/post/in/) [rural](/post/rural/) areas.
+   - [Example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [move](/post/move/) [to](/post/to/) [the](/post/the/) [countryside](/post/countryside/) [for](/post/for/) [a](/post/a/) quieter lifestyle."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [visit](/en/post/visit/) [or](/en/post/or/) [spend](/en/post/spend/) [time](/en/post/time/) [in](/en/post/in/) [the](/en/post/the/) [countryside](/en/post/countryside/).
-   - [Example](/en/post/example/): "[We](/en/post/we/) [often](/en/post/often/) [go](/en/post/go/) [on](/en/post/on/) weekends [to](/en/post/to/) [enjoy](/en/post/enjoy/) [the](/en/post/the/) [countryside](/en/post/countryside/)."
-2. [To](/en/post/to/) [describe](/en/post/describe/) [or](/en/post/or/) characterize ([a](/en/post/a/) [place](/en/post/place/)) [as](/en/post/as/) [being](/en/post/being/) [in](/en/post/in/) [the](/en/post/the/) [countryside](/en/post/countryside/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [scenery](/en/post/scenery/) described [the](/en/post/the/) [countryside](/en/post/countryside/) [perfectly](/en/post/perfectly/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [visit](/post/visit/) [or](/post/or/) [spend](/post/spend/) [time](/post/time/) [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/).
+   - [Example](/post/example/): "[We](/post/we/) [often](/post/often/) [go](/post/go/) [on](/post/on/) weekends [to](/post/to/) [enjoy](/post/enjoy/) [the](/post/the/) [countryside](/post/countryside/)."
+2. [To](/post/to/) [describe](/post/describe/) [or](/post/or/) characterize ([a](/post/a/) [place](/post/place/)) [as](/post/as/) [being](/post/being/) [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/).
+   - [Example](/post/example/): "[The](/post/the/) [scenery](/post/scenery/) described [the](/post/the/) [countryside](/post/countryside/) [perfectly](/post/perfectly/)."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [the](/en/post/the/) [countryside](/en/post/countryside/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) countryside's charm lies [in](/en/post/in/) [its](/en/post/its/) [simplicity](/en/post/simplicity/) [and](/en/post/and/) tranquility."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [the](/post/the/) [countryside](/post/countryside/).
+   - [Example](/post/example/): "[The](/post/the/) countryside's charm lies [in](/post/in/) [its](/post/its/) [simplicity](/post/simplicity/) [and](/post/and/) tranquility."
 
 ## Phrases
-- "Enjoying [the](/en/post/the/) [countryside](/en/post/countryside/)" [means](/en/post/means/) [to](/en/post/to/) [appreciate](/en/post/appreciate/) [the](/en/post/the/) [natural](/en/post/natural/) [beauty](/en/post/beauty/) [and](/en/post/and/) slower [pace](/en/post/pace/) [of](/en/post/of/) [rural](/en/post/rural/) [life](/en/post/life/).
-- "[Escape](/en/post/escape/) [to](/en/post/to/) [the](/en/post/the/) [countryside](/en/post/countryside/)" suggests [a](/en/post/a/) getaway [from](/en/post/from/) urban [stress](/en/post/stress/).
-- "[A](/en/post/a/) [countryside](/en/post/countryside/) [walk](/en/post/walk/)" is [a](/en/post/a/) leisurely hike [through](/en/post/through/) [rural](/en/post/rural/) landscapes.
+- "Enjoying [the](/post/the/) [countryside](/post/countryside/)" [means](/post/means/) [to](/post/to/) [appreciate](/post/appreciate/) [the](/post/the/) [natural](/post/natural/) [beauty](/post/beauty/) [and](/post/and/) slower [pace](/post/pace/) [of](/post/of/) [rural](/post/rural/) [life](/post/life/).
+- "[Escape](/post/escape/) [to](/post/to/) [the](/post/the/) [countryside](/post/countryside/)" suggests [a](/post/a/) getaway [from](/post/from/) urban [stress](/post/stress/).
+- "[A](/post/a/) [countryside](/post/countryside/) [walk](/post/walk/)" is [a](/post/a/) leisurely hike [through](/post/through/) [rural](/post/rural/) landscapes.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) was admiring [the](/en/post/the/) lush [countryside](/en/post/countryside/) [from](/en/post/from/) [his](/en/post/his/) [porch](/en/post/porch/)."
-- **[Verb](/en/post/verb/)**: "We're planning [a](/en/post/a/) [countryside](/en/post/countryside/) [retreat](/en/post/retreat/) [to](/en/post/to/) reconnect [with](/en/post/with/) [nature](/en/post/nature/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) paintings captured [the](/en/post/the/) serene [countryside](/en/post/countryside/) [scenery](/en/post/scenery/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) was admiring [the](/post/the/) lush [countryside](/post/countryside/) [from](/post/from/) [his](/post/his/) [porch](/post/porch/)."
+- **[Verb](/post/verb/)**: "We're planning [a](/post/a/) [countryside](/post/countryside/) [retreat](/post/retreat/) [to](/post/to/) reconnect [with](/post/with/) [nature](/post/nature/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) paintings captured [the](/post/the/) serene [countryside](/post/countryside/) [scenery](/post/scenery/)."
 
 ## Synonyms
-- [Rural](/en/post/rural/)
-- [Countryside](/en/post/countryside/) [scenery](/en/post/scenery/)
+- [Rural](/post/rural/)
+- [Countryside](/post/countryside/) [scenery](/post/scenery/)
 - Outskirts
 -田园风光
-- [Rural](/en/post/rural/) [surroundings](/en/post/surroundings/)
+- [Rural](/post/rural/) [surroundings](/post/surroundings/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [last](/en/post/last/) synonym is [in](/en/post/in/) Chinese, [as](/en/post/as/) it's [a](/en/post/a/) [language](/en/post/language/) [that](/en/post/that/) [might](/en/post/might/) [be](/en/post/be/) [relevant](/en/post/relevant/) [to](/en/post/to/) [your](/en/post/your/) context. [If](/en/post/if/) [you](/en/post/you/) [need](/en/post/need/) synonyms [in](/en/post/in/) [another](/en/post/another/) [language](/en/post/language/), [please](/en/post/please/) [specify](/en/post/specify/).
+[Note](/post/note/): [The](/post/the/) [last](/post/last/) synonym is [in](/post/in/) Chinese, [as](/post/as/) it's [a](/post/a/) [language](/post/language/) [that](/post/that/) [might](/post/might/) [be](/post/be/) [relevant](/post/relevant/) [to](/post/to/) [your](/post/your/) context. [If](/post/if/) [you](/post/you/) [need](/post/need/) synonyms [in](/post/in/) [another](/post/another/) [language](/post/language/), [please](/post/please/) [specify](/post/specify/).

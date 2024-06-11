@@ -7,37 +7,37 @@ description = '[ˈgrætitjuːd] a.感激，感谢，感恩'
 keywords = ['ai words', 'gratitude']
 +++
 
-## [Word](/en/post/word/): [Gratitude](/en/post/gratitude/)
+## [Word](/post/word/): [Gratitude](/post/gratitude/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡrætɪˌtjuːd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) thankful; readiness [to](/en/post/to/) [show](/en/post/show/) appreciation [for](/en/post/for/) [and](/en/post/and/) [to](/en/post/to/) [return](/en/post/return/) [kindness](/en/post/kindness/). [It](/en/post/it/) is [a](/en/post/a/) [positive](/en/post/positive/) [emotion](/en/post/emotion/) [that](/en/post/that/) arises [from](/en/post/from/) acknowledging [a](/en/post/a/) [benefit](/en/post/benefit/) [that](/en/post/that/) [one](/en/post/one/) has received [from](/en/post/from/) others.
+- **[Noun](/post/noun/)**: [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) thankful; readiness [to](/post/to/) [show](/post/show/) appreciation [for](/post/for/) [and](/post/and/) [to](/post/to/) [return](/post/return/) [kindness](/post/kindness/). [It](/post/it/) is [a](/post/a/) [positive](/post/positive/) [emotion](/post/emotion/) [that](/post/that/) arises [from](/post/from/) acknowledging [a](/post/a/) [benefit](/post/benefit/) [that](/post/that/) [one](/post/one/) has received [from](/post/from/) others.
 
 ### Phrases
-- "[Express](/en/post/express/) [gratitude](/en/post/gratitude/)": [To](/en/post/to/) [show](/en/post/show/) thanks [or](/en/post/or/) appreciation [through](/en/post/through/) words [or](/en/post/or/) actions.
-- "[Feel](/en/post/feel/) [gratitude](/en/post/gratitude/)": [To](/en/post/to/) [experience](/en/post/experience/) [a](/en/post/a/) [deep](/en/post/deep/) [sense](/en/post/sense/) [of](/en/post/of/) thankfulness [or](/en/post/or/) indebtedness.
-- "[In](/en/post/in/) [gratitude](/en/post/gratitude/)": [As](/en/post/as/) [a](/en/post/a/) [way](/en/post/way/) [of](/en/post/of/) showing thanks [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) [feeling](/en/post/feeling/) [grateful](/en/post/grateful/).
-- "[Show](/en/post/show/) [gratitude](/en/post/gratitude/)": [To](/en/post/to/) [display](/en/post/display/) appreciation [by](/en/post/by/) saying [or](/en/post/or/) doing [something](/en/post/something/) [that](/en/post/that/) acknowledges [a](/en/post/a/) favor, [help](/en/post/help/), [or](/en/post/or/) [support](/en/post/support/) received.
+- "[Express](/post/express/) [gratitude](/post/gratitude/)": [To](/post/to/) [show](/post/show/) thanks [or](/post/or/) appreciation [through](/post/through/) words [or](/post/or/) actions.
+- "[Feel](/post/feel/) [gratitude](/post/gratitude/)": [To](/post/to/) [experience](/post/experience/) [a](/post/a/) [deep](/post/deep/) [sense](/post/sense/) [of](/post/of/) thankfulness [or](/post/or/) indebtedness.
+- "[In](/post/in/) [gratitude](/post/gratitude/)": [As](/post/as/) [a](/post/a/) [way](/post/way/) [of](/post/of/) showing thanks [or](/post/or/) [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) [feeling](/post/feeling/) [grateful](/post/grateful/).
+- "[Show](/post/show/) [gratitude](/post/gratitude/)": [To](/post/to/) [display](/post/display/) appreciation [by](/post/by/) saying [or](/post/or/) doing [something](/post/something/) [that](/post/that/) acknowledges [a](/post/a/) favor, [help](/post/help/), [or](/post/or/) [support](/post/support/) received.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: _After [her](/en/post/her/) [rescue](/en/post/rescue/), [the](/en/post/the/) hiker expressed profound [gratitude](/en/post/gratitude/) [to](/en/post/to/) [the](/en/post/the/) [search](/en/post/search/) [and](/en/post/and/) [rescue](/en/post/rescue/) [team](/en/post/team/)._
-- "[They](/en/post/they/) sent [her](/en/post/her/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) bouquet [of](/en/post/of/) flowers [in](/en/post/in/) [gratitude](/en/post/gratitude/) [for](/en/post/for/) [her](/en/post/her/) assistance [during](/en/post/during/) [their](/en/post/their/) [difficult](/en/post/difficult/) [time](/en/post/time/)."
-- "[Feeling](/en/post/feeling/) [immense](/en/post/immense/) [gratitude](/en/post/gratitude/) [for](/en/post/for/) [his](/en/post/his/) mentor's [guidance](/en/post/guidance/), [he](/en/post/he/) dedicated [his](/en/post/his/) [first](/en/post/first/) [book](/en/post/book/) [to](/en/post/to/) [him](/en/post/him/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: _After [her](/post/her/) [rescue](/post/rescue/), [the](/post/the/) hiker expressed profound [gratitude](/post/gratitude/) [to](/post/to/) [the](/post/the/) [search](/post/search/) [and](/post/and/) [rescue](/post/rescue/) [team](/post/team/)._
+- "[They](/post/they/) sent [her](/post/her/) [a](/post/a/) [beautiful](/post/beautiful/) bouquet [of](/post/of/) flowers [in](/post/in/) [gratitude](/post/gratitude/) [for](/post/for/) [her](/post/her/) assistance [during](/post/during/) [their](/post/their/) [difficult](/post/difficult/) [time](/post/time/)."
+- "[Feeling](/post/feeling/) [immense](/post/immense/) [gratitude](/post/gratitude/) [for](/post/for/) [his](/post/his/) mentor's [guidance](/post/guidance/), [he](/post/he/) dedicated [his](/post/his/) [first](/post/first/) [book](/post/book/) [to](/post/to/) [him](/post/him/)."
 
 ## Synonyms
 - Thanks
 - Thankfulness
 - Appreciation
 - Acknowledgment
-- [Recognition](/en/post/recognition/)
+- [Recognition](/post/recognition/)
 - Honor
 - indebtedness
-- [Praise](/en/post/praise/)
+- [Praise](/post/praise/)
 - Admiration
 
-### Phrases [with](/en/post/with/) '[Gratitude](/en/post/gratitude/)'
-- "[With](/en/post/with/) [gratitude](/en/post/gratitude/)": [Used](/en/post/used/) [when](/en/post/when/) expressing thanks [in](/en/post/in/) [writing](/en/post/writing/) [or](/en/post/or/) [conversation](/en/post/conversation/), e.g., "I accepted [the](/en/post/the/) [award](/en/post/award/) [with](/en/post/with/) [gratitude](/en/post/gratitude/)."
-- "[Act](/en/post/act/) [of](/en/post/of/) [gratitude](/en/post/gratitude/)": [A](/en/post/a/) [gesture](/en/post/gesture/) [or](/en/post/or/) [deed](/en/post/deed/) done [to](/en/post/to/) [demonstrate](/en/post/demonstrate/) thanks, e.g., "[The](/en/post/the/) [scholarship](/en/post/scholarship/) was established [as](/en/post/as/) an [act](/en/post/act/) [of](/en/post/of/) [gratitude](/en/post/gratitude/) [for](/en/post/for/) [the](/en/post/the/) school's [support](/en/post/support/)."
-- "[Pay](/en/post/pay/) [it](/en/post/it/) [forward](/en/post/forward/)": An [expression](/en/post/expression/) [that](/en/post/that/) suggests repaying [a](/en/post/a/) [good](/en/post/good/) [deed](/en/post/deed/) [by](/en/post/by/) helping others, [often](/en/post/often/) motivated [by](/en/post/by/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [gratitude](/en/post/gratitude/) [for](/en/post/for/) [past](/en/post/past/) [help](/en/post/help/) received.
+### Phrases [with](/post/with/) '[Gratitude](/post/gratitude/)'
+- "[With](/post/with/) [gratitude](/post/gratitude/)": [Used](/post/used/) [when](/post/when/) expressing thanks [in](/post/in/) [writing](/post/writing/) [or](/post/or/) [conversation](/post/conversation/), e.g., "I accepted [the](/post/the/) [award](/post/award/) [with](/post/with/) [gratitude](/post/gratitude/)."
+- "[Act](/post/act/) [of](/post/of/) [gratitude](/post/gratitude/)": [A](/post/a/) [gesture](/post/gesture/) [or](/post/or/) [deed](/post/deed/) done [to](/post/to/) [demonstrate](/post/demonstrate/) thanks, e.g., "[The](/post/the/) [scholarship](/post/scholarship/) was established [as](/post/as/) an [act](/post/act/) [of](/post/of/) [gratitude](/post/gratitude/) [for](/post/for/) [the](/post/the/) school's [support](/post/support/)."
+- "[Pay](/post/pay/) [it](/post/it/) [forward](/post/forward/)": An [expression](/post/expression/) [that](/post/that/) suggests repaying [a](/post/a/) [good](/post/good/) [deed](/post/deed/) [by](/post/by/) helping others, [often](/post/often/) motivated [by](/post/by/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [gratitude](/post/gratitude/) [for](/post/for/) [past](/post/past/) [help](/post/help/) received.

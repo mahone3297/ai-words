@@ -7,37 +7,37 @@ description = '[ruːt] n.路，路线，路程'
 keywords = ['ai words', 'route']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[route](/en/post/route/)/
+## [Pronunciation](/post/pronunciation/)
+/[route](/post/route/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[route](/en/post/route/)** is [a](/en/post/a/) planned [series](/en/post/series/) [of](/en/post/of/) steps, stages, [or](/en/post/or/) directions taken [to](/en/post/to/) [travel](/en/post/travel/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) [on](/en/post/on/) [a](/en/post/a/) [road](/en/post/road/) [or](/en/post/or/) [public](/en/post/public/) [transportation](/en/post/transportation/) [system](/en/post/system/). 
+### [Noun](/post/noun/)
+[A](/post/a/) **[route](/post/route/)** is [a](/post/a/) planned [series](/post/series/) [of](/post/of/) steps, stages, [or](/post/or/) directions taken [to](/post/to/) [travel](/post/travel/) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/), [often](/post/often/) [on](/post/on/) [a](/post/a/) [road](/post/road/) [or](/post/or/) [public](/post/public/) [transportation](/post/transportation/) [system](/post/system/). 
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[route](/en/post/route/)** [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [plan](/en/post/plan/) [or](/en/post/or/) [determine](/en/post/determine/) [the](/en/post/the/) [path](/en/post/path/) [or](/en/post/or/) [sequence](/en/post/sequence/) [of](/en/post/of/) stops [for](/en/post/for/) [a](/en/post/a/) [journey](/en/post/journey/), [or](/en/post/or/) [to](/en/post/to/) [direct](/en/post/direct/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [along](/en/post/along/) [a](/en/post/a/) [specific](/en/post/specific/) [course](/en/post/course/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[route](/post/route/)** [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [plan](/post/plan/) [or](/post/or/) [determine](/post/determine/) [the](/post/the/) [path](/post/path/) [or](/post/or/) [sequence](/post/sequence/) [of](/post/of/) stops [for](/post/for/) [a](/post/a/) [journey](/post/journey/), [or](/post/or/) [to](/post/to/) [direct](/post/direct/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [along](/post/along/) [a](/post/a/) [specific](/post/specific/) [course](/post/course/).
 
 ## Phrases
-- "Opt [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [route](/en/post/route/)" [means](/en/post/means/) [to](/en/post/to/) [choose](/en/post/choose/) [a](/en/post/a/) [specific](/en/post/specific/) [path](/en/post/path/) [or](/en/post/or/) itinerary.
-- "[The](/en/post/the/) [delivery](/en/post/delivery/) [driver](/en/post/driver/) knows [the](/en/post/the/) fastest [route](/en/post/route/)" implies [the](/en/post/the/) [efficient](/en/post/efficient/) [path](/en/post/path/) [for](/en/post/for/) delivering [goods](/en/post/goods/).
-- "[Traffic](/en/post/traffic/) routing software helps navigate congested areas."
+- "Opt [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [route](/post/route/)" [means](/post/means/) [to](/post/to/) [choose](/post/choose/) [a](/post/a/) [specific](/post/specific/) [path](/post/path/) [or](/post/or/) itinerary.
+- "[The](/post/the/) [delivery](/post/delivery/) [driver](/post/driver/) knows [the](/post/the/) fastest [route](/post/route/)" implies [the](/post/the/) [efficient](/post/efficient/) [path](/post/path/) [for](/post/for/) delivering [goods](/post/goods/).
+- "[Traffic](/post/traffic/) routing software helps navigate congested areas."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [bus](/en/post/bus/) [route](/en/post/route/) goes [through](/en/post/through/) [several](/en/post/several/) neighborhoods [before](/en/post/before/) reaching downtown."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [pilot](/en/post/pilot/) routed [the](/en/post/the/) [plane](/en/post/plane/) [around](/en/post/around/) [the](/en/post/the/) [storm](/en/post/storm/) clouds."
-- **Infinitive**: "[To](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [best](/en/post/best/) [route](/en/post/route/) [for](/en/post/for/) [the](/en/post/the/) hiking [trip](/en/post/trip/), [we](/en/post/we/) consulted [a](/en/post/a/) [map](/en/post/map/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [bus](/post/bus/) [route](/post/route/) goes [through](/post/through/) [several](/post/several/) neighborhoods [before](/post/before/) reaching downtown."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [pilot](/post/pilot/) routed [the](/post/the/) [plane](/post/plane/) [around](/post/around/) [the](/post/the/) [storm](/post/storm/) clouds."
+- **Infinitive**: "[To](/post/to/) [find](/post/find/) [the](/post/the/) [best](/post/best/) [route](/post/route/) [for](/post/for/) [the](/post/the/) hiking [trip](/post/trip/), [we](/post/we/) consulted [a](/post/a/) [map](/post/map/)."
 
 ## Synonyms
-- [Path](/en/post/path/)
-- [Course](/en/post/course/)
-- [Route](/en/post/route/) [map](/en/post/map/)
+- [Path](/post/path/)
+- [Course](/post/course/)
+- [Route](/post/route/) [map](/post/map/)
 - Itinerary
-- [Track](/en/post/track/)
-- [Way](/en/post/way/)
-- [Direction](/en/post/direction/)
+- [Track](/post/track/)
+- [Way](/post/way/)
+- [Direction](/post/direction/)
 
 ## Antonyms
 - Detour
 - Diversion
 - Circuitous
-- Unplanned ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) planned [route](/en/post/route/))
+- Unplanned ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) planned [route](/post/route/))

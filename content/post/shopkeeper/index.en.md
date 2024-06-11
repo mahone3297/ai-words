@@ -7,33 +7,33 @@ description = '[ˈ∫ɔpkiːpə(r)] n.店主'
 keywords = ['ai words', 'shopkeeper']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /shopˈkiːpər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[shopkeeper](/en/post/shopkeeper/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) owns [and](/en/post/and/) manages [a](/en/post/a/) retail [store](/en/post/store/) [or](/en/post/or/) [shop](/en/post/shop/), typically dealing [with](/en/post/with/) [goods](/en/post/goods/) [for](/en/post/for/) [sale](/en/post/sale/) [to](/en/post/to/) customers.
+### [Noun](/post/noun/)
+[A](/post/a/) **[shopkeeper](/post/shopkeeper/)** is [a](/post/a/) [person](/post/person/) [who](/post/who/) owns [and](/post/and/) manages [a](/post/a/) retail [store](/post/store/) [or](/post/or/) [shop](/post/shop/), typically dealing [with](/post/with/) [goods](/post/goods/) [for](/post/for/) [sale](/post/sale/) [to](/post/to/) customers.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) [a](/en/post/a/) **[shopkeeper](/en/post/shopkeeper/)** [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [run](/en/post/run/) [or](/en/post/or/) [operate](/en/post/operate/) [a](/en/post/a/) [store](/en/post/store/), [manage](/en/post/manage/) [its](/en/post/its/) inventory, [and](/en/post/and/) interact [with](/en/post/with/) customers.
+### [Verb](/post/verb/)
+[To](/post/to/) [act](/post/act/) [as](/post/as/) [a](/post/a/) **[shopkeeper](/post/shopkeeper/)** [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [run](/post/run/) [or](/post/or/) [operate](/post/operate/) [a](/post/a/) [store](/post/store/), [manage](/post/manage/) [its](/post/its/) inventory, [and](/post/and/) interact [with](/post/with/) customers.
 
 ## Phrases
-- "[Run](/en/post/run/) [a](/en/post/a/) [shop](/en/post/shop/)" [or](/en/post/or/) "[manage](/en/post/manage/) [the](/en/post/the/) [store](/en/post/store/)"
-- "[Be](/en/post/be/) [the](/en/post/the/) [face](/en/post/face/) [of](/en/post/of/) [the](/en/post/the/) [shop](/en/post/shop/)"
-- "[Serve](/en/post/serve/) [as](/en/post/as/) [a](/en/post/a/) [shopkeeper](/en/post/shopkeeper/)"
+- "[Run](/post/run/) [a](/post/a/) [shop](/post/shop/)" [or](/post/or/) "[manage](/post/manage/) [the](/post/the/) [store](/post/store/)"
+- "[Be](/post/be/) [the](/post/the/) [face](/post/face/) [of](/post/of/) [the](/post/the/) [shop](/post/shop/)"
+- "[Serve](/post/serve/) [as](/post/as/) [a](/post/a/) [shopkeeper](/post/shopkeeper/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [friendly](/en/post/friendly/) [shopkeeper](/en/post/shopkeeper/) greeted [me](/en/post/me/) [with](/en/post/with/) [a](/en/post/a/) [warm](/en/post/warm/) [smile](/en/post/smile/)."
-- **[Verb](/en/post/verb/)**: "[My](/en/post/my/) [grandfather](/en/post/grandfather/) [used](/en/post/used/) [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [skilled](/en/post/skilled/) [shopkeeper](/en/post/shopkeeper/) [in](/en/post/in/) [the](/en/post/the/) [local](/en/post/local/) [market](/en/post/market/)."
-- **Phrases**: "[She](/en/post/she/) took [over](/en/post/over/) [her](/en/post/her/) father's [shop](/en/post/shop/) [when](/en/post/when/) [he](/en/post/he/) retired."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [friendly](/post/friendly/) [shopkeeper](/post/shopkeeper/) greeted [me](/post/me/) [with](/post/with/) [a](/post/a/) [warm](/post/warm/) [smile](/post/smile/)."
+- **[Verb](/post/verb/)**: "[My](/post/my/) [grandfather](/post/grandfather/) [used](/post/used/) [to](/post/to/) [be](/post/be/) [a](/post/a/) [skilled](/post/skilled/) [shopkeeper](/post/shopkeeper/) [in](/post/in/) [the](/post/the/) [local](/post/local/) [market](/post/market/)."
+- **Phrases**: "[She](/post/she/) took [over](/post/over/) [her](/post/her/) father's [shop](/post/shop/) [when](/post/when/) [he](/post/he/) retired."
 
 ## Synonyms
 - Proprietor
-- [Owner](/en/post/owner/)
-- [Merchant](/en/post/merchant/)
+- [Owner](/post/owner/)
+- [Merchant](/post/merchant/)
 - Retailer
 - Storekeeper
 
 ## Antonyms
-- [Customer](/en/post/customer/) ([the](/en/post/the/) [opposite](/en/post/opposite/) [role](/en/post/role/))
-- Consumer ([someone](/en/post/someone/) [who](/en/post/who/) buys [goods](/en/post/goods/), [not](/en/post/not/) [someone](/en/post/someone/) [who](/en/post/who/) sells [them](/en/post/them/))
+- [Customer](/post/customer/) ([the](/post/the/) [opposite](/post/opposite/) [role](/post/role/))
+- Consumer ([someone](/post/someone/) [who](/post/who/) buys [goods](/post/goods/), [not](/post/not/) [someone](/post/someone/) [who](/post/who/) sells [them](/post/them/))

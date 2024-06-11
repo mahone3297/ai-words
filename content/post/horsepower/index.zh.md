@@ -11,18 +11,18 @@ keywords = ['ai words', 'horsepower']
 /hɔːrs.pɔːs/
 
 ## 释义
-- **名词 (n)**: 衡量引擎或其他机械动力的单位，相当于745.7瓦特。例如: "[This](/post/this/) [car](/post/car/) has [a](/post/a/) [horsepower](/post/horsepower/) [of](/post/of/) 300."
+- **名词 (n)**: 衡量引擎或其他机械动力的单位，相当于745.7瓦特。例如: "[This](/zh/post/this/) [car](/zh/post/car/) has [a](/zh/post/a/) [horsepower](/zh/post/horsepower/) [of](/zh/post/of/) 300."
 
 ## 短语
-- "[Horsepower](/post/horsepower/) [output](/post/output/)" 指的是机器的动力输出。
-- "[Maximum](/post/maximum/) [horsepower](/post/horsepower/)" 指设备能够达到的最大动力。
+- "[Horsepower](/zh/post/horsepower/) [output](/zh/post/output/)" 指的是机器的动力输出。
+- "[Maximum](/zh/post/maximum/) [horsepower](/zh/post/horsepower/)" 指设备能够达到的最大动力。
 
 ## 例句
-- "[The](/post/the/) tractor's [horsepower](/post/horsepower/) allows [it](/post/it/) [to](/post/to/) [pull](/post/pull/) [heavy](/post/heavy/) loads [easily](/post/easily/)."
-- "[The](/post/the/) [new](/post/new/) sports [car](/post/car/) boasts an [impressive](/post/impressive/) 600 [horsepower](/post/horsepower/) [under](/post/under/) [the](/post/the/) hood."
+- "[The](/zh/post/the/) tractor's [horsepower](/zh/post/horsepower/) allows [it](/zh/post/it/) [to](/zh/post/to/) [pull](/zh/post/pull/) [heavy](/zh/post/heavy/) loads [easily](/zh/post/easily/)."
+- "[The](/zh/post/the/) [new](/zh/post/new/) sports [car](/zh/post/car/) boasts an [impressive](/zh/post/impressive/) 600 [horsepower](/zh/post/horsepower/) [under](/zh/post/under/) [the](/zh/post/the/) hood."
 
 ## 同义词
-- [Engine](/post/engine/) [power](/post/power/)
-- [Mechanical](/post/mechanical/) [strength](/post/strength/)
+- [Engine](/zh/post/engine/) [power](/zh/post/power/)
+- [Mechanical](/zh/post/mechanical/) [strength](/zh/post/strength/)
 - Wattage
 - Torque (在某些上下文中)

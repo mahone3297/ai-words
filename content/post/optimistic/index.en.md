@@ -7,33 +7,33 @@ description = '[ˌɔptiˈmistik] a.乐观/乐观主义的'
 keywords = ['ai words', 'optimistic']
 +++
 
-## [Word](/en/post/word/): [Optimistic](/en/post/optimistic/)
+## [Word](/post/word/): [Optimistic](/post/optimistic/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɑːptɪˈmɪstɪk/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [or](/en/post/or/) showing hopefulness [and](/en/post/and/) [confidence](/en/post/confidence/) [about](/en/post/about/) [the](/en/post/the/) [future](/en/post/future/) [or](/en/post/or/) [the](/en/post/the/) [success](/en/post/success/) [of](/en/post/of/) [something](/en/post/something/); inclined [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [hopeful](/en/post/hopeful/) [or](/en/post/or/) [positive](/en/post/positive/) [view](/en/post/view/). [For](/en/post/for/) [example](/en/post/example/):
-  - _**[Adjective](/en/post/adjective/) [Usage](/en/post/usage/)**_: "[She](/en/post/she/) maintained an [optimistic](/en/post/optimistic/) [outlook](/en/post/outlook/) [despite](/en/post/despite/) [the](/en/post/the/) challenges."
-  - "[The](/en/post/the/) investors remained [optimistic](/en/post/optimistic/) [about](/en/post/about/) [the](/en/post/the/) company's [potential](/en/post/potential/) [growth](/en/post/growth/)."
+- **[Adjective](/post/adjective/)**: Having [or](/post/or/) showing hopefulness [and](/post/and/) [confidence](/post/confidence/) [about](/post/about/) [the](/post/the/) [future](/post/future/) [or](/post/or/) [the](/post/the/) [success](/post/success/) [of](/post/of/) [something](/post/something/); inclined [to](/post/to/) [take](/post/take/) [a](/post/a/) [hopeful](/post/hopeful/) [or](/post/or/) [positive](/post/positive/) [view](/post/view/). [For](/post/for/) [example](/post/example/):
+  - _**[Adjective](/post/adjective/) [Usage](/post/usage/)**_: "[She](/post/she/) maintained an [optimistic](/post/optimistic/) [outlook](/post/outlook/) [despite](/post/despite/) [the](/post/the/) challenges."
+  - "[The](/post/the/) investors remained [optimistic](/post/optimistic/) [about](/post/about/) [the](/post/the/) company's [potential](/post/potential/) [growth](/post/growth/)."
 
 ## Phrases
-- "[Optimistic](/en/post/optimistic/) [outlook](/en/post/outlook/)": [A](/en/post/a/) [hopeful](/en/post/hopeful/) [or](/en/post/or/) [confident](/en/post/confident/) [perspective](/en/post/perspective/) [on](/en/post/on/) [future](/en/post/future/) events [or](/en/post/or/) outcomes.
-- "[Optimistic](/en/post/optimistic/) prediction": [A](/en/post/a/) [forecast](/en/post/forecast/) [that](/en/post/that/) suggests [a](/en/post/a/) favorable [or](/en/post/or/) [desirable](/en/post/desirable/) [outcome](/en/post/outcome/).
-- "[Optimistic](/en/post/optimistic/) [tone](/en/post/tone/)": [A](/en/post/a/) [style](/en/post/style/) [or](/en/post/or/) [mood](/en/post/mood/) [in](/en/post/in/) [writing](/en/post/writing/) [or](/en/post/or/) [speech](/en/post/speech/) [that](/en/post/that/) reflects hopefulness [or](/en/post/or/) positivity.
+- "[Optimistic](/post/optimistic/) [outlook](/post/outlook/)": [A](/post/a/) [hopeful](/post/hopeful/) [or](/post/or/) [confident](/post/confident/) [perspective](/post/perspective/) [on](/post/on/) [future](/post/future/) events [or](/post/or/) outcomes.
+- "[Optimistic](/post/optimistic/) prediction": [A](/post/a/) [forecast](/post/forecast/) [that](/post/that/) suggests [a](/post/a/) favorable [or](/post/or/) [desirable](/post/desirable/) [outcome](/post/outcome/).
+- "[Optimistic](/post/optimistic/) [tone](/post/tone/)": [A](/post/a/) [style](/post/style/) [or](/post/or/) [mood](/post/mood/) [in](/post/in/) [writing](/post/writing/) [or](/post/or/) [speech](/post/speech/) [that](/post/that/) reflects hopefulness [or](/post/or/) positivity.
 
-## [Example](/en/post/example/) Sentences
-- _**[Adjective](/en/post/adjective/) [Usage](/en/post/usage/)**_: "[He](/en/post/he/) has an [optimistic](/en/post/optimistic/) [attitude](/en/post/attitude/) towards [his](/en/post/his/) [recovery](/en/post/recovery/) [from](/en/post/from/) [the](/en/post/the/) [illness](/en/post/illness/)."
-- "[Despite](/en/post/despite/) [the](/en/post/the/) [economic](/en/post/economic/) downturn, [the](/en/post/the/) CEO projected an [optimistic](/en/post/optimistic/) [forecast](/en/post/forecast/) [for](/en/post/for/) [next](/en/post/next/) [quarter](/en/post/quarter/)."
-- "[Her](/en/post/her/) [optimistic](/en/post/optimistic/) [nature](/en/post/nature/) helped [her](/en/post/her/) [overcome](/en/post/overcome/) [many](/en/post/many/) obstacles [in](/en/post/in/) [life](/en/post/life/)."
+## [Example](/post/example/) Sentences
+- _**[Adjective](/post/adjective/) [Usage](/post/usage/)**_: "[He](/post/he/) has an [optimistic](/post/optimistic/) [attitude](/post/attitude/) towards [his](/post/his/) [recovery](/post/recovery/) [from](/post/from/) [the](/post/the/) [illness](/post/illness/)."
+- "[Despite](/post/despite/) [the](/post/the/) [economic](/post/economic/) downturn, [the](/post/the/) CEO projected an [optimistic](/post/optimistic/) [forecast](/post/forecast/) [for](/post/for/) [next](/post/next/) [quarter](/post/quarter/)."
+- "[Her](/post/her/) [optimistic](/post/optimistic/) [nature](/post/nature/) helped [her](/post/her/) [overcome](/post/overcome/) [many](/post/many/) obstacles [in](/post/in/) [life](/post/life/)."
 
 ## Synonyms
-- [Hopeful](/en/post/hopeful/)
-- [Positive](/en/post/positive/)
+- [Hopeful](/post/hopeful/)
+- [Positive](/post/positive/)
 - Upbeat
-- [Confident](/en/post/confident/)
+- [Confident](/post/confident/)
 - Sanguine
 - Pessimism's antonym
-- Expectant [of](/en/post/of/) [good](/en/post/good/) things
-- Bright-eyed [and](/en/post/and/) bushy-tailed (informal)
-- Rosy ([as](/en/post/as/) [in](/en/post/in/) having [a](/en/post/a/) 'rosy [outlook](/en/post/outlook/)')
+- Expectant [of](/post/of/) [good](/post/good/) things
+- Bright-eyed [and](/post/and/) bushy-tailed (informal)
+- Rosy ([as](/post/as/) [in](/post/in/) having [a](/post/a/) 'rosy [outlook](/post/outlook/)')

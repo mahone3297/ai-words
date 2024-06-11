@@ -7,31 +7,31 @@ description = '[eksˈtiəriə] a.外部的；对外的'
 keywords = ['ai words', 'exterior']
 +++
 
-## [Word](/en/post/word/): [Exterior](/en/post/exterior/)
+## [Word](/post/word/): [Exterior](/post/exterior/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈstɛriər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [outside](/en/post/outside/) [part](/en/post/part/) [or](/en/post/or/) [surface](/en/post/surface/) [of](/en/post/of/) [something](/en/post/something/); [the](/en/post/the/) [external](/en/post/external/) [aspect](/en/post/aspect/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) house's [exterior](/en/post/exterior/) was painted [in](/en/post/in/) [a](/en/post/a/) [light](/en/post/light/) [blue](/en/post/blue/) hue."
-  - [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [outer](/en/post/outer/) [space](/en/post/space/) [or](/en/post/or/) [environment](/en/post/environment/): "[The](/en/post/the/) [spacecraft](/en/post/spacecraft/) [successfully](/en/post/successfully/) made [it](/en/post/it/) [to](/en/post/to/) [the](/en/post/the/) Earth's [exterior](/en/post/exterior/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [outside](/post/outside/) [part](/post/part/) [or](/post/or/) [surface](/post/surface/) [of](/post/of/) [something](/post/something/); [the](/post/the/) [external](/post/external/) [aspect](/post/aspect/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) house's [exterior](/post/exterior/) was painted [in](/post/in/) [a](/post/a/) [light](/post/light/) [blue](/post/blue/) hue."
+  - [Also](/post/also/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [outer](/post/outer/) [space](/post/space/) [or](/post/or/) [environment](/post/environment/): "[The](/post/the/) [spacecraft](/post/spacecraft/) [successfully](/post/successfully/) made [it](/post/it/) [to](/post/to/) [the](/post/the/) Earth's [exterior](/post/exterior/)."
   
-- **[Adjective](/en/post/adjective/)**: Situated [or](/en/post/or/) happening [on](/en/post/on/) [the](/en/post/the/) [outside](/en/post/outside/); pertaining [to](/en/post/to/) [the](/en/post/the/) [outside](/en/post/outside/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [exterior](/en/post/exterior/) [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [car](/en/post/car/) is sleek [and](/en/post/and/) [modern](/en/post/modern/)."
+- **[Adjective](/post/adjective/)**: Situated [or](/post/or/) happening [on](/post/on/) [the](/post/the/) [outside](/post/outside/); pertaining [to](/post/to/) [the](/post/the/) [outside](/post/outside/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [exterior](/post/exterior/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [car](/post/car/) is sleek [and](/post/and/) [modern](/post/modern/)."
 
 ## Phrases
-- "[Exterior](/en/post/exterior/) walls" [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [outer](/en/post/outer/) walls [of](/en/post/of/) [a](/en/post/a/) [building](/en/post/building/).
-- "[Exterior](/en/post/exterior/) [paint](/en/post/paint/)" is specifically designed [for](/en/post/for/) [use](/en/post/use/) [on](/en/post/on/) [outdoor](/en/post/outdoor/) surfaces.
-- "[Exterior](/en/post/exterior/) [shot](/en/post/shot/)" [in](/en/post/in/) filmmaking refers [to](/en/post/to/) [a](/en/post/a/) [scene](/en/post/scene/) filmed [outside](/en/post/outside/) [rather](/en/post/rather/) [than](/en/post/than/) [inside](/en/post/inside/) [a](/en/post/a/) studio [or](/en/post/or/) [building](/en/post/building/).
+- "[Exterior](/post/exterior/) walls" [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [outer](/post/outer/) walls [of](/post/of/) [a](/post/a/) [building](/post/building/).
+- "[Exterior](/post/exterior/) [paint](/post/paint/)" is specifically designed [for](/post/for/) [use](/post/use/) [on](/post/on/) [outdoor](/post/outdoor/) surfaces.
+- "[Exterior](/post/exterior/) [shot](/post/shot/)" [in](/post/in/) filmmaking refers [to](/post/to/) [a](/post/a/) [scene](/post/scene/) filmed [outside](/post/outside/) [rather](/post/rather/) [than](/post/than/) [inside](/post/inside/) [a](/post/a/) studio [or](/post/or/) [building](/post/building/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[They](/en/post/they/) renovated [the](/en/post/the/) [exterior](/en/post/exterior/) [of](/en/post/of/) [their](/en/post/their/) [home](/en/post/home/) [to](/en/post/to/) [improve](/en/post/improve/) [its](/en/post/its/) curb [appeal](/en/post/appeal/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [exterior](/en/post/exterior/) doors were reinforced [with](/en/post/with/) [steel](/en/post/steel/) [for](/en/post/for/) added [security](/en/post/security/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[They](/post/they/) renovated [the](/post/the/) [exterior](/post/exterior/) [of](/post/of/) [their](/post/their/) [home](/post/home/) [to](/post/to/) [improve](/post/improve/) [its](/post/its/) curb [appeal](/post/appeal/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [exterior](/post/exterior/) doors were reinforced [with](/post/with/) [steel](/post/steel/) [for](/post/for/) added [security](/post/security/)."
 
 ## Synonyms
-- [Outside](/en/post/outside/)
-- [Outer](/en/post/outer/)
-- [External](/en/post/external/)
-- [Outdoors](/en/post/outdoors/)
-- [Surface](/en/post/surface/)
-- Facade ([in](/en/post/in/) context [of](/en/post/of/) buildings)
-- [Appearance](/en/post/appearance/) ([when](/en/post/when/) referring [to](/en/post/to/) [outward](/en/post/outward/) [show](/en/post/show/) [or](/en/post/or/) [look](/en/post/look/))
+- [Outside](/post/outside/)
+- [Outer](/post/outer/)
+- [External](/post/external/)
+- [Outdoors](/post/outdoors/)
+- [Surface](/post/surface/)
+- Facade ([in](/post/in/) context [of](/post/of/) buildings)
+- [Appearance](/post/appearance/) ([when](/post/when/) referring [to](/post/to/) [outward](/post/outward/) [show](/post/show/) [or](/post/or/) [look](/post/look/))

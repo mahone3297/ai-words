@@ -11,21 +11,21 @@ keywords = ['ai words', 'burden']
 /bɜːr.dən/
 
 ## 释义
-- **名词**: 负担，重负；责任，义务。例如: "[The](/post/the/) company's [success](/post/success/) became [a](/post/a/) [burden](/post/burden/) [on](/post/on/) [his](/post/his/) shoulders."
-- **动词**: 使承受负担，使负重。例如: "Don't [burden](/post/burden/) [yourself](/post/yourself/) [with](/post/with/) [unnecessary](/post/unnecessary/) worries."
+- **名词**: 负担，重负；责任，义务。例如: "[The](/zh/post/the/) company's [success](/zh/post/success/) became [a](/zh/post/a/) [burden](/zh/post/burden/) [on](/zh/post/on/) [his](/zh/post/his/) shoulders."
+- **动词**: 使承受负担，使负重。例如: "Don't [burden](/zh/post/burden/) [yourself](/zh/post/yourself/) [with](/zh/post/with/) [unnecessary](/zh/post/unnecessary/) worries."
 
 ## 短语
-- "[a](/post/a/) [heavy](/post/heavy/) [burden](/post/burden/)" 意指沉重的负担。
-- "[to](/post/to/) [bear](/post/bear/) [a](/post/a/) [burden](/post/burden/)" 意为承担一个负担。
-- "[burden](/post/burden/) [of](/post/of/) [proof](/post/proof/)" 在法律中指证明责任。
+- "[a](/zh/post/a/) [heavy](/zh/post/heavy/) [burden](/zh/post/burden/)" 意指沉重的负担。
+- "[to](/zh/post/to/) [bear](/zh/post/bear/) [a](/zh/post/a/) [burden](/zh/post/burden/)" 意为承担一个负担。
+- "[burden](/zh/post/burden/) [of](/zh/post/of/) [proof](/zh/post/proof/)" 在法律中指证明责任。
 
 ## 例句
-- 名词: "[She](/post/she/) felt [the](/post/the/) [burden](/post/burden/) [of](/post/of/) caring [for](/post/for/) [her](/post/her/) elderly parents."
-- 动词: "[His](/post/his/) [boss](/post/boss/) burdened [him](/post/him/) [with](/post/with/) [extra](/post/extra/) [work](/post/work/)."
+- 名词: "[She](/zh/post/she/) felt [the](/zh/post/the/) [burden](/zh/post/burden/) [of](/zh/post/of/) caring [for](/zh/post/for/) [her](/zh/post/her/) elderly parents."
+- 动词: "[His](/zh/post/his/) [boss](/zh/post/boss/) burdened [him](/zh/post/him/) [with](/zh/post/with/) [extra](/zh/post/extra/) [work](/zh/post/work/)."
 
 ## 同义词
-- [load](/post/load/)
-- [weight](/post/weight/)
-- [responsibility](/post/responsibility/)
+- [load](/zh/post/load/)
+- [weight](/zh/post/weight/)
+- [responsibility](/zh/post/responsibility/)
 - chore
 - encumbrance

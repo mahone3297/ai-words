@@ -11,21 +11,21 @@ keywords = ['ai words', 'resident']
 /ˈrɛzɪdənt/
 
 ## 释义
-- **名词**: 居民；常住者。例如: "[The](/post/the/) [new](/post/new/) [resident](/post/resident/) [of](/post/of/) [the](/post/the/) [apartment](/post/apartment/) is [a](/post/a/) [doctor](/post/doctor/)."
-- **形容词**: 居住在某处的；常驻的。例如: "[The](/post/the/) [hospital](/post/hospital/) has [several](/post/several/) [resident](/post/resident/) doctors."
-- **动词**: 居住在（某地）。例如: "[She](/post/she/) residents [in](/post/in/) [New](/post/new/) York [City](/post/city/)."
+- **名词**: 居民；常住者。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [resident](/zh/post/resident/) [of](/zh/post/of/) [the](/zh/post/the/) [apartment](/zh/post/apartment/) is [a](/zh/post/a/) [doctor](/zh/post/doctor/)."
+- **形容词**: 居住在某处的；常驻的。例如: "[The](/zh/post/the/) [hospital](/zh/post/hospital/) has [several](/zh/post/several/) [resident](/zh/post/resident/) doctors."
+- **动词**: 居住在（某地）。例如: "[She](/zh/post/she/) residents [in](/zh/post/in/) [New](/zh/post/new/) York [City](/zh/post/city/)."
 
 ## 短语
-- "[Resident](/post/resident/) [physician](/post/physician/)" 指在医院实习或工作的医生。
-- "Full-time [resident](/post/resident/)" 指全职居住在某个地方的人。
+- "[Resident](/zh/post/resident/) [physician](/zh/post/physician/)" 指在医院实习或工作的医生。
+- "Full-time [resident](/zh/post/resident/)" 指全职居住在某个地方的人。
 
 ## 例句
-- 名词: "[The](/post/the/) building's [resident](/post/resident/) manager handles [all](/post/all/) complaints."
-- 形容词: "[The](/post/the/) [hotel](/post/hotel/) offers exclusive services [for](/post/for/) [its](/post/its/) [resident](/post/resident/) guests."
-- 动词: "[After](/post/after/) graduation, [he](/post/he/) decided [to](/post/to/) [resident](/post/resident/) [in](/post/in/) [a](/post/a/) [small](/post/small/) [town](/post/town/)."
+- 名词: "[The](/zh/post/the/) building's [resident](/zh/post/resident/) manager handles [all](/zh/post/all/) complaints."
+- 形容词: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) offers exclusive services [for](/zh/post/for/) [its](/zh/post/its/) [resident](/zh/post/resident/) guests."
+- 动词: "[After](/zh/post/after/) graduation, [he](/zh/post/he/) decided [to](/zh/post/to/) [resident](/zh/post/resident/) [in](/zh/post/in/) [a](/zh/post/a/) [small](/zh/post/small/) [town](/zh/post/town/)."
 
 ## 同义词
-- [Inhabitant](/post/inhabitant/)
+- [Inhabitant](/zh/post/inhabitant/)
 - Dweller
 - Residental
 - Occupant

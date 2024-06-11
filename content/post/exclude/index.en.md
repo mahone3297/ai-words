@@ -7,37 +7,37 @@ description = '[iksˈkluːd] vt.把…排除在外'
 keywords = ['ai words', 'exclude']
 +++
 
-## [Word](/en/post/word/): [Exclude](/en/post/exclude/)
+## [Word](/post/word/): [Exclude](/post/exclude/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈskluːd/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [prevent](/en/post/prevent/) [or](/en/post/or/) [forbid](/en/post/forbid/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [from](/en/post/from/) [being](/en/post/being/) included [or](/en/post/or/) considered; [to](/en/post/to/) deliberately [leave](/en/post/leave/) [out](/en/post/out/) [or](/en/post/or/) [apart](/en/post/apart/) [from](/en/post/from/) [something](/en/post/something/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [prevent](/post/prevent/) [or](/post/or/) [forbid](/post/forbid/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [from](/post/from/) [being](/post/being/) included [or](/post/or/) considered; [to](/post/to/) deliberately [leave](/post/leave/) [out](/post/out/) [or](/post/or/) [apart](/post/apart/) [from](/post/from/) [something](/post/something/).
 
-  - [Example](/en/post/example/): _The [new](/en/post/new/) [policy](/en/post/policy/) excludes [people](/en/post/people/) [under](/en/post/under/) 18 [from](/en/post/from/) entering [the](/en/post/the/) nightclub._
-- **[Noun](/en/post/noun/) (Derived [Form](/en/post/form/)):** [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) excluding [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) excluded; exclusion.
+  - [Example](/post/example/): _The [new](/post/new/) [policy](/post/policy/) excludes [people](/post/people/) [under](/post/under/) 18 [from](/post/from/) entering [the](/post/the/) nightclub._
+- **[Noun](/post/noun/) (Derived [Form](/post/form/)):** [The](/post/the/) [act](/post/act/) [of](/post/of/) excluding [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) excluded; exclusion.
 
-  - [Example](/en/post/example/): _There was [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) frustration [among](/en/post/among/) [the](/en/post/the/) students [over](/en/post/over/) [their](/en/post/their/) exclusion [from](/en/post/from/) [the](/en/post/the/) decision-making [process](/en/post/process/)._
+  - [Example](/post/example/): _There was [a](/post/a/) [sense](/post/sense/) [of](/post/of/) frustration [among](/post/among/) [the](/post/the/) students [over](/post/over/) [their](/post/their/) exclusion [from](/post/from/) [the](/post/the/) decision-making [process](/post/process/)._
 
 ## Phrases
-- "[To](/en/post/to/) [exclude](/en/post/exclude/) [someone](/en/post/someone/)/[something](/en/post/something/) [from](/en/post/from/) [something](/en/post/something/)": [To](/en/post/to/) [not](/en/post/not/) [allow](/en/post/allow/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/) [else](/en/post/else/).
-  - [Example](/en/post/example/): _The club's rules [exclude](/en/post/exclude/) non-members [from](/en/post/from/) using [its](/en/post/its/) facilities._
-- "[Without](/en/post/without/) [exception](/en/post/exception/)": [This](/en/post/this/) [phrase](/en/post/phrase/) implies [that](/en/post/that/) [nothing](/en/post/nothing/) [or](/en/post/or/) [no](/en/post/no/) [one](/en/post/one/) is included [or](/en/post/or/) exempted, i.e., [everything](/en/post/everything/) [or](/en/post/or/) [everyone](/en/post/everyone/) is excluded.
-  - [Example](/en/post/example/): _The [dress](/en/post/dress/) [code](/en/post/code/) applies [to](/en/post/to/) [everyone](/en/post/everyone/) [without](/en/post/without/) [exception](/en/post/exception/)._
+- "[To](/post/to/) [exclude](/post/exclude/) [someone](/post/someone/)/[something](/post/something/) [from](/post/from/) [something](/post/something/)": [To](/post/to/) [not](/post/not/) [allow](/post/allow/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [to](/post/to/) [be](/post/be/) [a](/post/a/) [part](/post/part/) [of](/post/of/) [something](/post/something/) [else](/post/else/).
+  - [Example](/post/example/): _The club's rules [exclude](/post/exclude/) non-members [from](/post/from/) using [its](/post/its/) facilities._
+- "[Without](/post/without/) [exception](/post/exception/)": [This](/post/this/) [phrase](/post/phrase/) implies [that](/post/that/) [nothing](/post/nothing/) [or](/post/or/) [no](/post/no/) [one](/post/one/) is included [or](/post/or/) exempted, i.e., [everything](/post/everything/) [or](/post/or/) [everyone](/post/everyone/) is excluded.
+  - [Example](/post/example/): _The [dress](/post/dress/) [code](/post/code/) applies [to](/post/to/) [everyone](/post/everyone/) [without](/post/without/) [exception](/post/exception/)._
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: _The [new](/en/post/new/) [job](/en/post/job/) [application](/en/post/application/) [process](/en/post/process/) has measures [to](/en/post/to/) [exclude](/en/post/exclude/) [any](/en/post/any/) [form](/en/post/form/) [of](/en/post/of/) discrimination._
-- **[Noun](/en/post/noun/)**: _Their [policy](/en/post/policy/) [on](/en/post/on/) [data](/en/post/data/) privacy includes provisions [against](/en/post/against/) unauthorized [access](/en/post/access/) [and](/en/post/and/) exclusion [of](/en/post/of/) [personal](/en/post/personal/) [information](/en/post/information/)._
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: _The [new](/post/new/) [job](/post/job/) [application](/post/application/) [process](/post/process/) has measures [to](/post/to/) [exclude](/post/exclude/) [any](/post/any/) [form](/post/form/) [of](/post/of/) discrimination._
+- **[Noun](/post/noun/)**: _Their [policy](/post/policy/) [on](/post/on/) [data](/post/data/) privacy includes provisions [against](/post/against/) unauthorized [access](/post/access/) [and](/post/and/) exclusion [of](/post/of/) [personal](/post/personal/) [information](/post/information/)._
 
 ## Synonyms
-- [Bar](/en/post/bar/)
-- [Omit](/en/post/omit/)
-- [Exclude](/en/post/exclude/) [from](/en/post/from/)
-- [Leave](/en/post/leave/) [out](/en/post/out/)
+- [Bar](/post/bar/)
+- [Omit](/post/omit/)
+- [Exclude](/post/exclude/) [from](/post/from/)
+- [Leave](/post/leave/) [out](/post/out/)
 - Debar
-- [Keep](/en/post/keep/) [out](/en/post/out/)
+- [Keep](/post/keep/) [out](/post/out/)
 - Banish
-- [Prohibit](/en/post/prohibit/)
+- [Prohibit](/post/prohibit/)
 - Preclude
-- Exempt ([Note](/en/post/note/): 'Exempt' [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [excuse](/en/post/excuse/) [or](/en/post/or/) [release](/en/post/release/) [someone](/en/post/someone/) [from](/en/post/from/) an obligation [or](/en/post/or/) [duty](/en/post/duty/))
+- Exempt ([Note](/post/note/): 'Exempt' [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) [excuse](/post/excuse/) [or](/post/or/) [release](/post/release/) [someone](/post/someone/) [from](/post/from/) an obligation [or](/post/or/) [duty](/post/duty/))

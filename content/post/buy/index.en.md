@@ -7,33 +7,33 @@ description = '[bai] vt.买，购买 vi.买'
 keywords = ['ai words', 'buy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /baɪ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (n) [To](/en/post/to/) [acquire](/en/post/acquire/) [by](/en/post/by/) paying [money](/en/post/money/) [or](/en/post/or/) [its](/en/post/its/) [equivalent](/en/post/equivalent/); [purchase](/en/post/purchase/). (v) [To](/en/post/to/) [support](/en/post/support/) [or](/en/post/or/) espouse [the](/en/post/the/) [cause](/en/post/cause/) [or](/en/post/or/) policies [of](/en/post/of/) ([a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [political](/en/post/political/) [party](/en/post/party/)). *[Note](/en/post/note/): [The](/en/post/the/) [noun](/en/post/noun/) [form](/en/post/form/) is [rarely](/en/post/rarely/) [used](/en/post/used/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [financial](/en/post/financial/) transactions.*
-- **[Noun](/en/post/noun/)**: An [act](/en/post/act/) [of](/en/post/of/) purchasing; [a](/en/post/a/) transaction. (slang) [A](/en/post/a/) girlfriend [or](/en/post/or/) boyfriend.
+- **[Verb](/post/verb/)**: (n) [To](/post/to/) [acquire](/post/acquire/) [by](/post/by/) paying [money](/post/money/) [or](/post/or/) [its](/post/its/) [equivalent](/post/equivalent/); [purchase](/post/purchase/). (v) [To](/post/to/) [support](/post/support/) [or](/post/or/) espouse [the](/post/the/) [cause](/post/cause/) [or](/post/or/) policies [of](/post/of/) ([a](/post/a/) [person](/post/person/) [or](/post/or/) [political](/post/political/) [party](/post/party/)). *[Note](/post/note/): [The](/post/the/) [noun](/post/noun/) [form](/post/form/) is [rarely](/post/rarely/) [used](/post/used/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) [financial](/post/financial/) transactions.*
+- **[Noun](/post/noun/)**: An [act](/post/act/) [of](/post/of/) purchasing; [a](/post/a/) transaction. (slang) [A](/post/a/) girlfriend [or](/post/or/) boyfriend.
 
 ## Phrases
-- "[Buy](/en/post/buy/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [purchase](/en/post/purchase/).
-- "[Buy](/en/post/buy/) [into](/en/post/into/)" implies accepting [or](/en/post/or/) supporting an [idea](/en/post/idea/) [or](/en/post/or/) [belief](/en/post/belief/).
-- "[Buy](/en/post/buy/) [low](/en/post/low/), [sell](/en/post/sell/) [high](/en/post/high/)" is [a](/en/post/a/) [financial](/en/post/financial/) [strategy](/en/post/strategy/).
+- "[Buy](/post/buy/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [purchase](/post/purchase/).
+- "[Buy](/post/buy/) [into](/post/into/)" implies accepting [or](/post/or/) supporting an [idea](/post/idea/) [or](/post/or/) [belief](/post/belief/).
+- "[Buy](/post/buy/) [low](/post/low/), [sell](/post/sell/) [high](/post/high/)" is [a](/post/a/) [financial](/post/financial/) [strategy](/post/strategy/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I'm going [to](/en/post/to/) [buy](/en/post/buy/) [a](/en/post/a/) [new](/en/post/new/) laptop [for](/en/post/for/) [my](/en/post/my/) studies."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [investment](/en/post/investment/) portfolio includes [a](/en/post/a/) [mix](/en/post/mix/) [of](/en/post/of/) stocks [and](/en/post/and/) bonds [she](/en/post/she/) bought [last](/en/post/last/) [year](/en/post/year/)."
-- **Slang**: "He's been buying [into](/en/post/into/) [the](/en/post/the/) [local](/en/post/local/) [community](/en/post/community/) events [lately](/en/post/lately/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I'm going [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) laptop [for](/post/for/) [my](/post/my/) studies."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [investment](/post/investment/) portfolio includes [a](/post/a/) [mix](/post/mix/) [of](/post/of/) stocks [and](/post/and/) bonds [she](/post/she/) bought [last](/post/last/) [year](/post/year/)."
+- **Slang**: "He's been buying [into](/post/into/) [the](/post/the/) [local](/post/local/) [community](/post/community/) events [lately](/post/lately/)."
 
 ## Synonyms
-- [Purchase](/en/post/purchase/)
-- [Obtain](/en/post/obtain/)
-- [Acquire](/en/post/acquire/)
-- [Invest](/en/post/invest/)
-- [Pay](/en/post/pay/) [for](/en/post/for/)
-- [Buy](/en/post/buy/) [out](/en/post/out/)
+- [Purchase](/post/purchase/)
+- [Obtain](/post/obtain/)
+- [Acquire](/post/acquire/)
+- [Invest](/post/invest/)
+- [Pay](/post/pay/) [for](/post/for/)
+- [Buy](/post/buy/) [out](/post/out/)
 
 ## Antonyms
-- [Sell](/en/post/sell/)
+- [Sell](/post/sell/)
 - Donate
-- [Gift](/en/post/gift/)
-- [Lose](/en/post/lose/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) losing [money](/en/post/money/) [in](/en/post/in/) [a](/en/post/a/) transaction)
+- [Gift](/post/gift/)
+- [Lose](/post/lose/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) losing [money](/post/money/) [in](/post/in/) [a](/post/a/) transaction)

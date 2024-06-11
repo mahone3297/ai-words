@@ -7,22 +7,22 @@ description = '[ˌmænjuˈfækt∫ərə] n.制造商/厂'
 keywords = ['ai words', 'manufacturer']
 +++
 
-## [Word](/en/post/word/): [Manufacturer](/en/post/manufacturer/)
+## [Word](/post/word/): [Manufacturer](/post/manufacturer/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌmænjuˈfæk.tʃərər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [company](/en/post/company/) [that](/en/post/that/) produces [goods](/en/post/goods/) [on](/en/post/on/) [a](/en/post/a/) [large](/en/post/large/) [scale](/en/post/scale/) using machines [or](/en/post/or/) [industrial](/en/post/industrial/) processes, [often](/en/post/often/) [for](/en/post/for/) [sale](/en/post/sale/) [and](/en/post/and/) [distribution](/en/post/distribution/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [car](/en/post/car/) [manufacturer](/en/post/manufacturer/) announced [a](/en/post/a/) [new](/en/post/new/) [model](/en/post/model/) [release](/en/post/release/) [this](/en/post/this/) [year](/en/post/year/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [company](/post/company/) [that](/post/that/) produces [goods](/post/goods/) [on](/post/on/) [a](/post/a/) [large](/post/large/) [scale](/post/scale/) using machines [or](/post/or/) [industrial](/post/industrial/) processes, [often](/post/often/) [for](/post/for/) [sale](/post/sale/) [and](/post/and/) [distribution](/post/distribution/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [car](/post/car/) [manufacturer](/post/manufacturer/) announced [a](/post/a/) [new](/post/new/) [model](/post/model/) [release](/post/release/) [this](/post/this/) [year](/post/year/)."
 
 ### Phrases
-- "[Original](/en/post/original/) [equipment](/en/post/equipment/) [manufacturer](/en/post/manufacturer/) (OEM)": [A](/en/post/a/) [company](/en/post/company/) [that](/en/post/that/) produces parts [or](/en/post/or/) products [that](/en/post/that/) are purchased [by](/en/post/by/) [another](/en/post/another/) [company](/en/post/company/) [and](/en/post/and/) sold [under](/en/post/under/) [that](/en/post/that/) purchasing company's [brand](/en/post/brand/) [name](/en/post/name/).
-- "Manufacturer's warranty": [A](/en/post/a/) [guarantee](/en/post/guarantee/) [provided](/en/post/provided/) [by](/en/post/by/) [a](/en/post/a/) [manufacturer](/en/post/manufacturer/) [that](/en/post/that/) [a](/en/post/a/) [product](/en/post/product/) [will](/en/post/will/) [work](/en/post/work/) [as](/en/post/as/) intended [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [period](/en/post/period/).
-- "[Contract](/en/post/contract/) [manufacturer](/en/post/manufacturer/)": [A](/en/post/a/) [company](/en/post/company/) [that](/en/post/that/) produces [goods](/en/post/goods/) [under](/en/post/under/) [contract](/en/post/contract/) [for](/en/post/for/) [another](/en/post/another/) [company](/en/post/company/), [which](/en/post/which/) retains [ownership](/en/post/ownership/) [of](/en/post/of/) [the](/en/post/the/) [product](/en/post/product/) [design](/en/post/design/) [and](/en/post/and/) [intellectual](/en/post/intellectual/) [property](/en/post/property/).
+- "[Original](/post/original/) [equipment](/post/equipment/) [manufacturer](/post/manufacturer/) (OEM)": [A](/post/a/) [company](/post/company/) [that](/post/that/) produces parts [or](/post/or/) products [that](/post/that/) are purchased [by](/post/by/) [another](/post/another/) [company](/post/company/) [and](/post/and/) sold [under](/post/under/) [that](/post/that/) purchasing company's [brand](/post/brand/) [name](/post/name/).
+- "Manufacturer's warranty": [A](/post/a/) [guarantee](/post/guarantee/) [provided](/post/provided/) [by](/post/by/) [a](/post/a/) [manufacturer](/post/manufacturer/) [that](/post/that/) [a](/post/a/) [product](/post/product/) [will](/post/will/) [work](/post/work/) [as](/post/as/) intended [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [period](/post/period/).
+- "[Contract](/post/contract/) [manufacturer](/post/manufacturer/)": [A](/post/a/) [company](/post/company/) [that](/post/that/) produces [goods](/post/goods/) [under](/post/under/) [contract](/post/contract/) [for](/post/for/) [another](/post/another/) [company](/post/company/), [which](/post/which/) retains [ownership](/post/ownership/) [of](/post/of/) [the](/post/the/) [product](/post/product/) [design](/post/design/) [and](/post/and/) [intellectual](/post/intellectual/) [property](/post/property/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [electronics](/en/post/electronics/) [manufacturer](/en/post/manufacturer/) plans [to](/en/post/to/) [expand](/en/post/expand/) [its](/en/post/its/) [production](/en/post/production/) facilities [overseas](/en/post/overseas/)."
-- "[They](/en/post/they/) approached [several](/en/post/several/) manufacturers [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [best](/en/post/best/) [deal](/en/post/deal/) [on](/en/post/on/) [raw](/en/post/raw/) materials."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [electronics](/post/electronics/) [manufacturer](/post/manufacturer/) plans [to](/post/to/) [expand](/post/expand/) [its](/post/its/) [production](/post/production/) facilities [overseas](/post/overseas/)."
+- "[They](/post/they/) approached [several](/post/several/) manufacturers [to](/post/to/) [find](/post/find/) [the](/post/the/) [best](/post/best/) [deal](/post/deal/) [on](/post/on/) [raw](/post/raw/) materials."
 
 ## Synonyms
 - Producer
@@ -32,6 +32,6 @@ keywords = ['ai words', 'manufacturer']
 - Constructor
 - Creator
 - Assembler
-- [Factory](/en/post/factory/)
-- [Industry](/en/post/industry/)
-- Producer [Company](/en/post/company/)
+- [Factory](/post/factory/)
+- [Industry](/post/industry/)
+- Producer [Company](/post/company/)

@@ -7,41 +7,41 @@ description = '[bet] vt.&vi.&n.打赌'
 keywords = ['ai words', 'bet']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [bet](/en/post/bet/)** (informal): [A](/en/post/a/) wager [or](/en/post/or/) an [agreement](/en/post/agreement/) [to](/en/post/to/) [pay](/en/post/pay/) [money](/en/post/money/) [or](/en/post/or/) [something](/en/post/something/) [of](/en/post/of/) [value](/en/post/value/) based [on](/en/post/on/) [the](/en/post/the/) [outcome](/en/post/outcome/) [of](/en/post/of/) an [event](/en/post/event/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [expectation](/en/post/expectation/) [that](/en/post/that/) [one](/en/post/one/) [will](/en/post/will/) [lose](/en/post/lose/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) placed [a](/en/post/a/) [bet](/en/post/bet/) [on](/en/post/on/) [the](/en/post/the/) [football](/en/post/football/) [game](/en/post/game/)."
-- **[A](/en/post/a/) [bet](/en/post/bet/)** (gambling): [A](/en/post/a/) [financial](/en/post/financial/) [stake](/en/post/stake/) [in](/en/post/in/) [the](/en/post/the/) [result](/en/post/result/) [of](/en/post/of/) [a](/en/post/a/) [game](/en/post/game/) [or](/en/post/or/) [competition](/en/post/competition/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) won [a](/en/post/a/) [big](/en/post/big/) [bet](/en/post/bet/) [on](/en/post/on/) [the](/en/post/the/) roulette [wheel](/en/post/wheel/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [bet](/post/bet/)** (informal): [A](/post/a/) wager [or](/post/or/) an [agreement](/post/agreement/) [to](/post/to/) [pay](/post/pay/) [money](/post/money/) [or](/post/or/) [something](/post/something/) [of](/post/of/) [value](/post/value/) based [on](/post/on/) [the](/post/the/) [outcome](/post/outcome/) [of](/post/of/) an [event](/post/event/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [expectation](/post/expectation/) [that](/post/that/) [one](/post/one/) [will](/post/will/) [lose](/post/lose/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) placed [a](/post/a/) [bet](/post/bet/) [on](/post/on/) [the](/post/the/) [football](/post/football/) [game](/post/game/)."
+- **[A](/post/a/) [bet](/post/bet/)** (gambling): [A](/post/a/) [financial](/post/financial/) [stake](/post/stake/) [in](/post/in/) [the](/post/the/) [result](/post/result/) [of](/post/of/) [a](/post/a/) [game](/post/game/) [or](/post/or/) [competition](/post/competition/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) won [a](/post/a/) [big](/post/big/) [bet](/post/bet/) [on](/post/on/) [the](/post/the/) roulette [wheel](/post/wheel/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) **[bet](/en/post/bet/)** ([on](/en/post/on/) an [outcome](/en/post/outcome/)): [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) wager [or](/en/post/or/) [stake](/en/post/stake/) [money](/en/post/money/) [on](/en/post/on/) [a](/en/post/a/) [specific](/en/post/specific/) [result](/en/post/result/). [For](/en/post/for/) [example](/en/post/example/): "I [bet](/en/post/bet/) $10 [that](/en/post/that/) [the](/en/post/the/) [horse](/en/post/horse/) [will](/en/post/will/) [win](/en/post/win/) [the](/en/post/the/) [race](/en/post/race/)."
-- [To](/en/post/to/) **[make](/en/post/make/) [a](/en/post/a/) [bet](/en/post/bet/)** [or](/en/post/or/) **[take](/en/post/take/) [a](/en/post/a/) [chance](/en/post/chance/)**: [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [uncertain](/en/post/uncertain/) speculation [or](/en/post/or/) [risk](/en/post/risk/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) decided [to](/en/post/to/) [bet](/en/post/bet/) [on](/en/post/on/) [his](/en/post/his/) startup's [success](/en/post/success/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) **[bet](/post/bet/)** ([on](/post/on/) an [outcome](/post/outcome/)): [To](/post/to/) [make](/post/make/) [a](/post/a/) wager [or](/post/or/) [stake](/post/stake/) [money](/post/money/) [on](/post/on/) [a](/post/a/) [specific](/post/specific/) [result](/post/result/). [For](/post/for/) [example](/post/example/): "I [bet](/post/bet/) $10 [that](/post/that/) [the](/post/the/) [horse](/post/horse/) [will](/post/will/) [win](/post/win/) [the](/post/the/) [race](/post/race/)."
+- [To](/post/to/) **[make](/post/make/) [a](/post/a/) [bet](/post/bet/)** [or](/post/or/) **[take](/post/take/) [a](/post/a/) [chance](/post/chance/)**: [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [uncertain](/post/uncertain/) speculation [or](/post/or/) [risk](/post/risk/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) decided [to](/post/to/) [bet](/post/bet/) [on](/post/on/) [his](/post/his/) startup's [success](/post/success/)."
 
-### [Adjective](/en/post/adjective/)
-- **Betting** ([as](/en/post/as/) [in](/en/post/in/) betting odds): [Concerning](/en/post/concerning/) [or](/en/post/or/) related [to](/en/post/to/) wagers [or](/en/post/or/) probabilities. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) betting [market](/en/post/market/) indicates [a](/en/post/a/) [high](/en/post/high/) [probability](/en/post/probability/) [of](/en/post/of/) [a](/en/post/a/) [draw](/en/post/draw/)."
+### [Adjective](/post/adjective/)
+- **Betting** ([as](/post/as/) [in](/post/in/) betting odds): [Concerning](/post/concerning/) [or](/post/or/) related [to](/post/to/) wagers [or](/post/or/) probabilities. [For](/post/for/) [example](/post/example/): "[The](/post/the/) betting [market](/post/market/) indicates [a](/post/a/) [high](/post/high/) [probability](/post/probability/) [of](/post/of/) [a](/post/a/) [draw](/post/draw/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [bet](/en/post/bet/) [on](/en/post/on/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [place](/en/post/place/) [a](/en/post/a/) wager [on](/en/post/on/) [the](/en/post/the/) [outcome](/en/post/outcome/).
-- "[Take](/en/post/take/) [a](/en/post/a/) [bet](/en/post/bet/)" implies accepting [a](/en/post/a/) [bet](/en/post/bet/) made [by](/en/post/by/) [another](/en/post/another/) [person](/en/post/person/).
-- "Oddsmakers [set](/en/post/set/) betting lines" refers [to](/en/post/to/) professionals [who](/en/post/who/) [determine](/en/post/determine/) [the](/en/post/the/) likelihood [of](/en/post/of/) outcomes [for](/en/post/for/) betting purposes.
+- "[Make](/post/make/) [a](/post/a/) [bet](/post/bet/) [on](/post/on/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [place](/post/place/) [a](/post/a/) wager [on](/post/on/) [the](/post/the/) [outcome](/post/outcome/).
+- "[Take](/post/take/) [a](/post/a/) [bet](/post/bet/)" implies accepting [a](/post/a/) [bet](/post/bet/) made [by](/post/by/) [another](/post/another/) [person](/post/person/).
+- "Oddsmakers [set](/post/set/) betting lines" refers [to](/post/to/) professionals [who](/post/who/) [determine](/post/determine/) [the](/post/the/) likelihood [of](/post/of/) outcomes [for](/post/for/) betting purposes.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) placed [a](/en/post/a/) [bet](/en/post/bet/) [of](/en/post/of/) $50 [on](/en/post/on/) [the](/en/post/the/) [winner](/en/post/winner/) [of](/en/post/of/) [the](/en/post/the/) [tennis](/en/post/tennis/) [match](/en/post/match/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) analyzing [the](/en/post/the/) [data](/en/post/data/), [he](/en/post/he/) decided [to](/en/post/to/) [bet](/en/post/bet/) [his](/en/post/his/) [friend](/en/post/friend/) $20 [on](/en/post/on/) [the](/en/post/the/) stock's [rise](/en/post/rise/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) betting odds were [heavily](/en/post/heavily/) [in](/en/post/in/) favor [of](/en/post/of/) [the](/en/post/the/) [home](/en/post/home/) [team](/en/post/team/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) placed [a](/post/a/) [bet](/post/bet/) [of](/post/of/) $50 [on](/post/on/) [the](/post/the/) [winner](/post/winner/) [of](/post/of/) [the](/post/the/) [tennis](/post/tennis/) [match](/post/match/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) analyzing [the](/post/the/) [data](/post/data/), [he](/post/he/) decided [to](/post/to/) [bet](/post/bet/) [his](/post/his/) [friend](/post/friend/) $20 [on](/post/on/) [the](/post/the/) stock's [rise](/post/rise/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) betting odds were [heavily](/post/heavily/) [in](/post/in/) favor [of](/post/of/) [the](/post/the/) [home](/post/home/) [team](/post/team/)."
 
 ## Synonyms
 - Gamble
-- [Stake](/en/post/stake/)
+- [Stake](/post/stake/)
 - Wager
-- [Risk](/en/post/risk/)
-- [Place](/en/post/place/) [a](/en/post/a/) [bet](/en/post/bet/)
-- [Lay](/en/post/lay/) odds
+- [Risk](/post/risk/)
+- [Place](/post/place/) [a](/post/a/) [bet](/post/bet/)
+- [Lay](/post/lay/) odds
 
 ## Antonyms
 - Assurance
-- [Certainty](/en/post/certainty/)
-- [Safety](/en/post/safety/)
+- [Certainty](/post/certainty/)
+- [Safety](/post/safety/)
 - Predictability

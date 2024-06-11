@@ -7,25 +7,25 @@ description = '[iˈlekt] vt.选举，推选；选择'
 keywords = ['ai words', 'elect']
 +++
 
-## [Word](/en/post/word/): [Elect](/en/post/elect/)
+## [Word](/post/word/): [Elect](/post/elect/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈlɛkt/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [group](/en/post/group/) chosen [by](/en/post/by/) [vote](/en/post/vote/) [or](/en/post/or/) [by](/en/post/by/) [some](/en/post/some/) [other](/en/post/other/) [means](/en/post/means/) [to](/en/post/to/) [hold](/en/post/hold/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [office](/en/post/office/); [those](/en/post/those/) [who](/en/post/who/) [have](/en/post/have/) been elected [or](/en/post/or/) are entitled [to](/en/post/to/) [vote](/en/post/vote/). [Example](/en/post/example/): "[The](/en/post/the/) [president](/en/post/president/) addressed [the](/en/post/the/) [elect](/en/post/elect/) [during](/en/post/during/) [his](/en/post/his/) inauguration [speech](/en/post/speech/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [choose](/en/post/choose/) [or](/en/post/or/) [select](/en/post/select/) [someone](/en/post/someone/) [for](/en/post/for/) [a](/en/post/a/) [position](/en/post/position/), [especially](/en/post/especially/) [by](/en/post/by/) voting. [Example](/en/post/example/): "[She](/en/post/she/) was elected [as](/en/post/as/) [the](/en/post/the/) [new](/en/post/new/) chairperson [of](/en/post/of/) [the](/en/post/the/) [board](/en/post/board/)."
-- **[Adjective](/en/post/adjective/) (adj)**: Chosen [by](/en/post/by/) [election](/en/post/election/), appointed [or](/en/post/or/) selected [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/) [or](/en/post/or/) [position](/en/post/position/). [Example](/en/post/example/): "[Elect](/en/post/elect/) representatives [from](/en/post/from/) [each](/en/post/each/) [district](/en/post/district/) [will](/en/post/will/) [attend](/en/post/attend/) [the](/en/post/the/) [conference](/en/post/conference/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [group](/post/group/) chosen [by](/post/by/) [vote](/post/vote/) [or](/post/or/) [by](/post/by/) [some](/post/some/) [other](/post/other/) [means](/post/means/) [to](/post/to/) [hold](/post/hold/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [office](/post/office/); [those](/post/those/) [who](/post/who/) [have](/post/have/) been elected [or](/post/or/) are entitled [to](/post/to/) [vote](/post/vote/). [Example](/post/example/): "[The](/post/the/) [president](/post/president/) addressed [the](/post/the/) [elect](/post/elect/) [during](/post/during/) [his](/post/his/) inauguration [speech](/post/speech/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [choose](/post/choose/) [or](/post/or/) [select](/post/select/) [someone](/post/someone/) [for](/post/for/) [a](/post/a/) [position](/post/position/), [especially](/post/especially/) [by](/post/by/) voting. [Example](/post/example/): "[She](/post/she/) was elected [as](/post/as/) [the](/post/the/) [new](/post/new/) chairperson [of](/post/of/) [the](/post/the/) [board](/post/board/)."
+- **[Adjective](/post/adjective/) (adj)**: Chosen [by](/post/by/) [election](/post/election/), appointed [or](/post/or/) selected [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/) [or](/post/or/) [position](/post/position/). [Example](/post/example/): "[Elect](/post/elect/) representatives [from](/post/from/) [each](/post/each/) [district](/post/district/) [will](/post/will/) [attend](/post/attend/) [the](/post/the/) [conference](/post/conference/)."
 
 ## Phrases
-- "[The](/en/post/the/) electorate": [The](/en/post/the/) [body](/en/post/body/) [of](/en/post/of/) [people](/en/post/people/) entitled [to](/en/post/to/) [vote](/en/post/vote/) [in](/en/post/in/) an [election](/en/post/election/).
-- "Electoral [college](/en/post/college/)": [A](/en/post/a/) [body](/en/post/body/) [of](/en/post/of/) electors chosen [by](/en/post/by/) [the](/en/post/the/) voters [in](/en/post/in/) [each](/en/post/each/) [state](/en/post/state/) [to](/en/post/to/) [elect](/en/post/elect/) [the](/en/post/the/) [President](/en/post/president/) [and](/en/post/and/) [Vice](/en/post/vice/) [President](/en/post/president/) [of](/en/post/of/) [the](/en/post/the/) United States.
-- "[To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [the](/en/post/the/) running [for](/en/post/for/) [election](/en/post/election/)": [To](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [candidate](/en/post/candidate/) [in](/en/post/in/) an [election](/en/post/election/).
+- "[The](/post/the/) electorate": [The](/post/the/) [body](/post/body/) [of](/post/of/) [people](/post/people/) entitled [to](/post/to/) [vote](/post/vote/) [in](/post/in/) an [election](/post/election/).
+- "Electoral [college](/post/college/)": [A](/post/a/) [body](/post/body/) [of](/post/of/) electors chosen [by](/post/by/) [the](/post/the/) voters [in](/post/in/) [each](/post/each/) [state](/post/state/) [to](/post/to/) [elect](/post/elect/) [the](/post/the/) [President](/post/president/) [and](/post/and/) [Vice](/post/vice/) [President](/post/president/) [of](/post/of/) [the](/post/the/) United States.
+- "[To](/post/to/) [be](/post/be/) [in](/post/in/) [the](/post/the/) running [for](/post/for/) [election](/post/election/)": [To](/post/to/) [be](/post/be/) [a](/post/a/) [candidate](/post/candidate/) [in](/post/in/) an [election](/post/election/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [elect](/en/post/elect/) gathered [in](/en/post/in/) [the](/en/post/the/) auditorium [to](/en/post/to/) [cast](/en/post/cast/) [their](/en/post/their/) votes."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) [the](/en/post/the/) [next](/en/post/next/) [election](/en/post/election/), citizens [will](/en/post/will/) [elect](/en/post/elect/) [their](/en/post/their/) [new](/en/post/new/) [mayor](/en/post/mayor/)."
-- **[Adjective](/en/post/adjective/)**: "[As](/en/post/as/) an [elect](/en/post/elect/) senator, [he](/en/post/he/) represents [the](/en/post/the/) interests [of](/en/post/of/) [his](/en/post/his/) constituents."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [elect](/post/elect/) gathered [in](/post/in/) [the](/post/the/) auditorium [to](/post/to/) [cast](/post/cast/) [their](/post/their/) votes."
+- **[Verb](/post/verb/)**: "[In](/post/in/) [the](/post/the/) [next](/post/next/) [election](/post/election/), citizens [will](/post/will/) [elect](/post/elect/) [their](/post/their/) [new](/post/new/) [mayor](/post/mayor/)."
+- **[Adjective](/post/adjective/)**: "[As](/post/as/) an [elect](/post/elect/) senator, [he](/post/he/) represents [the](/post/the/) interests [of](/post/of/) [his](/post/his/) constituents."
 
 ## Synonyms
 - Chosen

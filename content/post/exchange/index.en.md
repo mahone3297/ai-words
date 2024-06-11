@@ -7,42 +7,42 @@ description = '[iksˈt∫eindʒ] vt.交换；交流 n.交换'
 keywords = ['ai words', 'exchange']
 +++
 
-## [Word](/en/post/word/): [Exchange](/en/post/exchange/)
+## [Word](/post/word/): [Exchange](/post/exchange/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪksˈtʃeɪndʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [goods](/en/post/goods/), services, [or](/en/post/or/) [money](/en/post/money/) [can](/en/post/can/) [be](/en/post/be/) bought, sold, [or](/en/post/or/) traded, [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) [market](/en/post/market/) [or](/en/post/or/) [stock](/en/post/stock/) [exchange](/en/post/exchange/). [Example](/en/post/example/): "[They](/en/post/they/) met [at](/en/post/at/) [the](/en/post/the/) [busy](/en/post/busy/) farmers' [market](/en/post/market/) [for](/en/post/for/) an [exchange](/en/post/exchange/) [of](/en/post/of/) [produce](/en/post/produce/)."
-  - An [act](/en/post/act/) [of](/en/post/of/) giving [or](/en/post/or/) taking [one](/en/post/one/) [thing](/en/post/thing/) [in](/en/post/in/) [return](/en/post/return/) [for](/en/post/for/) [another](/en/post/another/); barter [or](/en/post/or/) [trade](/en/post/trade/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) facilitated an [exchange](/en/post/exchange/) [of](/en/post/of/) ideas [between](/en/post/between/) [industry](/en/post/industry/) experts."
-  - [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) giving [and](/en/post/and/) receiving reciprocally, [especially](/en/post/especially/) [the](/en/post/the/) substitution [of](/en/post/of/) [one](/en/post/one/) [thing](/en/post/thing/) [for](/en/post/for/) [another](/en/post/another/). [Example](/en/post/example/): "[She](/en/post/she/) arranged [for](/en/post/for/) an [exchange](/en/post/exchange/) [program](/en/post/program/) [with](/en/post/with/) [a](/en/post/a/) French [school](/en/post/school/)."
-  - [In](/en/post/in/) telecommunications, [it](/en/post/it/) refers [to](/en/post/to/) [a](/en/post/a/) [system](/en/post/system/) [or](/en/post/or/) [network](/en/post/network/) [that](/en/post/that/) allows [information](/en/post/information/) [or](/en/post/or/) messages [to](/en/post/to/) [be](/en/post/be/) transmitted [from](/en/post/from/) [one](/en/post/one/) [party](/en/post/party/) [to](/en/post/to/) [another](/en/post/another/).
+- **[Noun](/post/noun/)**: 
+  - [A](/post/a/) [place](/post/place/) [where](/post/where/) [goods](/post/goods/), services, [or](/post/or/) [money](/post/money/) [can](/post/can/) [be](/post/be/) bought, sold, [or](/post/or/) traded, [often](/post/often/) referring [to](/post/to/) [a](/post/a/) [market](/post/market/) [or](/post/or/) [stock](/post/stock/) [exchange](/post/exchange/). [Example](/post/example/): "[They](/post/they/) met [at](/post/at/) [the](/post/the/) [busy](/post/busy/) farmers' [market](/post/market/) [for](/post/for/) an [exchange](/post/exchange/) [of](/post/of/) [produce](/post/produce/)."
+  - An [act](/post/act/) [of](/post/of/) giving [or](/post/or/) taking [one](/post/one/) [thing](/post/thing/) [in](/post/in/) [return](/post/return/) [for](/post/for/) [another](/post/another/); barter [or](/post/or/) [trade](/post/trade/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) facilitated an [exchange](/post/exchange/) [of](/post/of/) ideas [between](/post/between/) [industry](/post/industry/) experts."
+  - [The](/post/the/) [process](/post/process/) [of](/post/of/) giving [and](/post/and/) receiving reciprocally, [especially](/post/especially/) [the](/post/the/) substitution [of](/post/of/) [one](/post/one/) [thing](/post/thing/) [for](/post/for/) [another](/post/another/). [Example](/post/example/): "[She](/post/she/) arranged [for](/post/for/) an [exchange](/post/exchange/) [program](/post/program/) [with](/post/with/) [a](/post/a/) French [school](/post/school/)."
+  - [In](/post/in/) telecommunications, [it](/post/it/) refers [to](/post/to/) [a](/post/a/) [system](/post/system/) [or](/post/or/) [network](/post/network/) [that](/post/that/) allows [information](/post/information/) [or](/post/or/) messages [to](/post/to/) [be](/post/be/) transmitted [from](/post/from/) [one](/post/one/) [party](/post/party/) [to](/post/to/) [another](/post/another/).
 
-- **[Verb](/en/post/verb/)**:
-  - [To](/en/post/to/) [give](/en/post/give/) [something](/en/post/something/) [and](/en/post/and/) [receive](/en/post/receive/) [something](/en/post/something/) [else](/en/post/else/) [in](/en/post/in/) [its](/en/post/its/) [place](/en/post/place/). [Example](/en/post/example/): "[We](/en/post/we/) decided [to](/en/post/to/) [exchange](/en/post/exchange/) gifts [on](/en/post/on/) Christmas [Eve](/en/post/eve/)."
-  - [To](/en/post/to/) [communicate](/en/post/communicate/) [or](/en/post/or/) [share](/en/post/share/) [information](/en/post/information/) [with](/en/post/with/) others. [Example](/en/post/example/): "[They](/en/post/they/) exchanged pleasantries [before](/en/post/before/) starting [their](/en/post/their/) [discussion](/en/post/discussion/)."
-  - [To](/en/post/to/) [replace](/en/post/replace/) [one](/en/post/one/) [thing](/en/post/thing/) [with](/en/post/with/) [another](/en/post/another/). [Example](/en/post/example/): "[She](/en/post/she/) exchanged [her](/en/post/her/) [old](/en/post/old/) [car](/en/post/car/) [for](/en/post/for/) [a](/en/post/a/) newer [model](/en/post/model/)."
+- **[Verb](/post/verb/)**:
+  - [To](/post/to/) [give](/post/give/) [something](/post/something/) [and](/post/and/) [receive](/post/receive/) [something](/post/something/) [else](/post/else/) [in](/post/in/) [its](/post/its/) [place](/post/place/). [Example](/post/example/): "[We](/post/we/) decided [to](/post/to/) [exchange](/post/exchange/) gifts [on](/post/on/) Christmas [Eve](/post/eve/)."
+  - [To](/post/to/) [communicate](/post/communicate/) [or](/post/or/) [share](/post/share/) [information](/post/information/) [with](/post/with/) others. [Example](/post/example/): "[They](/post/they/) exchanged pleasantries [before](/post/before/) starting [their](/post/their/) [discussion](/post/discussion/)."
+  - [To](/post/to/) [replace](/post/replace/) [one](/post/one/) [thing](/post/thing/) [with](/post/with/) [another](/post/another/). [Example](/post/example/): "[She](/post/she/) exchanged [her](/post/her/) [old](/post/old/) [car](/post/car/) [for](/post/for/) [a](/post/a/) newer [model](/post/model/)."
   
 ## Phrases
-- "[Stock](/en/post/stock/) [exchange](/en/post/exchange/)": [A](/en/post/a/) marketplace [where](/en/post/where/) securities, [such](/en/post/such/) [as](/en/post/as/) stocks [and](/en/post/and/) bonds, are bought [and](/en/post/and/) sold.
-- "Currency [exchange](/en/post/exchange/)": [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [one](/en/post/one/) currency [can](/en/post/can/) [be](/en/post/be/) converted [into](/en/post/into/) [another](/en/post/another/).
-- "[Exchange](/en/post/exchange/) [student](/en/post/student/)": [A](/en/post/a/) [student](/en/post/student/) [who](/en/post/who/) travels [abroad](/en/post/abroad/) [to](/en/post/to/) [study](/en/post/study/) [at](/en/post/at/) [a](/en/post/a/) [foreign](/en/post/foreign/) [school](/en/post/school/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) reciprocal educational [program](/en/post/program/).
-- "[Exchange](/en/post/exchange/) [of](/en/post/of/) gunfire": [When](/en/post/when/) [two](/en/post/two/) parties [shoot](/en/post/shoot/) [at](/en/post/at/) [each](/en/post/each/) [other](/en/post/other/) [during](/en/post/during/) [a](/en/post/a/) [conflict](/en/post/conflict/).
-- "[Exchange](/en/post/exchange/) vows": [When](/en/post/when/) [two](/en/post/two/) [people](/en/post/people/) getting [married](/en/post/married/) [recite](/en/post/recite/) [their](/en/post/their/) promises [to](/en/post/to/) [each](/en/post/each/) [other](/en/post/other/).
+- "[Stock](/post/stock/) [exchange](/post/exchange/)": [A](/post/a/) marketplace [where](/post/where/) securities, [such](/post/such/) [as](/post/as/) stocks [and](/post/and/) bonds, are bought [and](/post/and/) sold.
+- "Currency [exchange](/post/exchange/)": [A](/post/a/) [place](/post/place/) [where](/post/where/) [one](/post/one/) currency [can](/post/can/) [be](/post/be/) converted [into](/post/into/) [another](/post/another/).
+- "[Exchange](/post/exchange/) [student](/post/student/)": [A](/post/a/) [student](/post/student/) [who](/post/who/) travels [abroad](/post/abroad/) [to](/post/to/) [study](/post/study/) [at](/post/at/) [a](/post/a/) [foreign](/post/foreign/) [school](/post/school/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) reciprocal educational [program](/post/program/).
+- "[Exchange](/post/exchange/) [of](/post/of/) gunfire": [When](/post/when/) [two](/post/two/) parties [shoot](/post/shoot/) [at](/post/at/) [each](/post/each/) [other](/post/other/) [during](/post/during/) [a](/post/a/) [conflict](/post/conflict/).
+- "[Exchange](/post/exchange/) vows": [When](/post/when/) [two](/post/two/) [people](/post/people/) getting [married](/post/married/) [recite](/post/recite/) [their](/post/their/) promises [to](/post/to/) [each](/post/each/) [other](/post/other/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [bank](/en/post/bank/) provides [a](/en/post/a/) [reliable](/en/post/reliable/) [platform](/en/post/platform/) [for](/en/post/for/) currency [exchange](/en/post/exchange/)."
-- **[Verb](/en/post/verb/)**: "I exchanged [my](/en/post/my/) [US](/en/post/us/) dollars [for](/en/post/for/) Euros [at](/en/post/at/) [the](/en/post/the/) [airport](/en/post/airport/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [bank](/post/bank/) provides [a](/post/a/) [reliable](/post/reliable/) [platform](/post/platform/) [for](/post/for/) currency [exchange](/post/exchange/)."
+- **[Verb](/post/verb/)**: "I exchanged [my](/post/my/) [US](/post/us/) dollars [for](/post/for/) Euros [at](/post/at/) [the](/post/the/) [airport](/post/airport/)."
 
 ## Synonyms
-- [Trade](/en/post/trade/)
+- [Trade](/post/trade/)
 - Barter
 - Swap
-- [Switch](/en/post/switch/)
+- [Switch](/post/switch/)
 - Interchange
 - Transaction
-- [Deal](/en/post/deal/)
-- [Market](/en/post/market/)
-- Trading ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [sense](/en/post/sense/))
-- [Replace](/en/post/replace/) ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [sense](/en/post/sense/))
+- [Deal](/post/deal/)
+- [Market](/post/market/)
+- Trading ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [sense](/post/sense/))
+- [Replace](/post/replace/) ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [sense](/post/sense/))

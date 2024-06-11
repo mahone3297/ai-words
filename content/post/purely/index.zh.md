@@ -11,20 +11,20 @@ keywords = ['ai words', 'purely']
 /pjuːˈlɪri/
 
 ## 释义
-- **副词**: 完全地，纯粹地；仅仅，只。例如: "[She](/post/she/) performed [purely](/post/purely/) [for](/post/for/) [the](/post/the/) [love](/post/love/) [of](/post/of/) [music](/post/music/)."
-- **形容词**: 纯粹的，不搀杂其他成分的。例如: "[This](/post/this/) is [a](/post/a/) [purely](/post/purely/) [theoretical](/post/theoretical/) [discussion](/post/discussion/)."
+- **副词**: 完全地，纯粹地；仅仅，只。例如: "[She](/zh/post/she/) performed [purely](/zh/post/purely/) [for](/zh/post/for/) [the](/zh/post/the/) [love](/zh/post/love/) [of](/zh/post/of/) [music](/zh/post/music/)."
+- **形容词**: 纯粹的，不搀杂其他成分的。例如: "[This](/zh/post/this/) is [a](/zh/post/a/) [purely](/zh/post/purely/) [theoretical](/zh/post/theoretical/) [discussion](/zh/post/discussion/)."
 
 ## 短语
-- "[purely](/post/purely/) [accidental](/post/accidental/)" 意为完全偶然的。
-- "[purely](/post/purely/) hypothetical" 指的是完全假设的情况。
+- "[purely](/zh/post/purely/) [accidental](/zh/post/accidental/)" 意为完全偶然的。
+- "[purely](/zh/post/purely/) hypothetical" 指的是完全假设的情况。
 
 ## 例句
-- 副词: "[His](/post/his/) [success](/post/success/) was [purely](/post/purely/) [due](/post/due/) [to](/post/to/) [hard](/post/hard/) [work](/post/work/) [and](/post/and/) dedication."
-- 形容词: "[The](/post/the/) [water](/post/water/) [from](/post/from/) [the](/post/the/) [mountain](/post/mountain/) [spring](/post/spring/) is [purely](/post/purely/) [natural](/post/natural/) [and](/post/and/) [clean](/post/clean/)."
+- 副词: "[His](/zh/post/his/) [success](/zh/post/success/) was [purely](/zh/post/purely/) [due](/zh/post/due/) [to](/zh/post/to/) [hard](/zh/post/hard/) [work](/zh/post/work/) [and](/zh/post/and/) dedication."
+- 形容词: "[The](/zh/post/the/) [water](/zh/post/water/) [from](/zh/post/from/) [the](/zh/post/the/) [mountain](/zh/post/mountain/) [spring](/zh/post/spring/) is [purely](/zh/post/purely/) [natural](/zh/post/natural/) [and](/zh/post/and/) [clean](/zh/post/clean/)."
 
 ## 同义词
-- [solely](/post/solely/)
+- [solely](/zh/post/solely/)
 - entirely
-- [completely](/post/completely/)
-- [simply](/post/simply/)
-- [exclusively](/post/exclusively/)
+- [completely](/zh/post/completely/)
+- [simply](/zh/post/simply/)
+- [exclusively](/zh/post/exclusively/)

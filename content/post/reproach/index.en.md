@@ -7,38 +7,38 @@ description = '[riˈprəut∫] vt.&n.责备，指责'
 keywords = ['ai words', 'reproach']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈprəʊtʃ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) rebuke [or](/en/post/or/) censure [for](/en/post/for/) one's actions [or](/en/post/or/) words; [criticism](/en/post/criticism/) [or](/en/post/or/) disapproval. [Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[reproach](/en/post/reproach/))
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [criticize](/en/post/criticize/) [or](/en/post/or/) [blame](/en/post/blame/) [someone](/en/post/someone/) [for](/en/post/for/) [something](/en/post/something/) [they](/en/post/they/) [have](/en/post/have/) done [or](/en/post/or/) said; [to](/en/post/to/) [find](/en/post/find/) [fault](/en/post/fault/) [with](/en/post/with/). [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[reproach](/en/post/reproach/))
+- **[Noun](/post/noun/)**: [A](/post/a/) rebuke [or](/post/or/) censure [for](/post/for/) one's actions [or](/post/or/) words; [criticism](/post/criticism/) [or](/post/or/) disapproval. [Oxford](https://en.oxforddictionaries.com/[definition](/post/definition/)/[reproach](/post/reproach/))
+- **[Verb](/post/verb/)**: [To](/post/to/) [criticize](/post/criticize/) [or](/post/or/) [blame](/post/blame/) [someone](/post/someone/) [for](/post/for/) [something](/post/something/) [they](/post/they/) [have](/post/have/) done [or](/post/or/) said; [to](/post/to/) [find](/post/find/) [fault](/post/fault/) [with](/post/with/). [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[reproach](/post/reproach/))
 
 ## Phrases
-- "[Reproach](/en/post/reproach/) [someone](/en/post/someone/) [for](/en/post/for/) [their](/en/post/their/) [behavior](/en/post/behavior/)"
-- "[Take](/en/post/take/) ([someone](/en/post/someone/)) [to](/en/post/to/) [task](/en/post/task/) [for](/en/post/for/) [their](/en/post/their/) actions"
-- "Rebuff [or](/en/post/or/) [scold](/en/post/scold/) [someone](/en/post/someone/)"
+- "[Reproach](/post/reproach/) [someone](/post/someone/) [for](/post/for/) [their](/post/their/) [behavior](/post/behavior/)"
+- "[Take](/post/take/) ([someone](/post/someone/)) [to](/post/to/) [task](/post/task/) [for](/post/for/) [their](/post/their/) actions"
+- "Rebuff [or](/post/or/) [scold](/post/scold/) [someone](/post/someone/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) felt reproached [for](/en/post/for/) [not](/en/post/not/) completing [her](/en/post/her/) [work](/en/post/work/) [on](/en/post/on/) [time](/en/post/time/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [father](/en/post/father/) reproached [his](/en/post/his/) [son](/en/post/son/) [for](/en/post/for/) lying [about](/en/post/about/) [his](/en/post/his/) grades."
-- **Intransitive**: "[His](/en/post/his/) [silence](/en/post/silence/) reproached [her](/en/post/her/) [for](/en/post/for/) [her](/en/post/her/) [harsh](/en/post/harsh/) words."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) felt reproached [for](/post/for/) [not](/post/not/) completing [her](/post/her/) [work](/post/work/) [on](/post/on/) [time](/post/time/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [father](/post/father/) reproached [his](/post/his/) [son](/post/son/) [for](/post/for/) lying [about](/post/about/) [his](/post/his/) grades."
+- **Intransitive**: "[His](/post/his/) [silence](/post/silence/) reproached [her](/post/her/) [for](/post/for/) [her](/post/her/) [harsh](/post/harsh/) words."
 
 ## Synonyms
-- [Scold](/en/post/scold/)
+- [Scold](/post/scold/)
 - Rebuke
 - Chide
-- [Fault](/en/post/fault/)
-- [Criticize](/en/post/criticize/)
+- [Fault](/post/fault/)
+- [Criticize](/post/criticize/)
 - Reprimand
 - Upbraid
 
 ## Antonyms
-- [Praise](/en/post/praise/)
+- [Praise](/post/praise/)
 - Compliment
-- [Approve](/en/post/approve/)
+- [Approve](/post/approve/)
 - Endorse
 - Indulge
 
-## [Usage](/en/post/usage/) Notes
-- [In](/en/post/in/) British English, "reproof" is [often](/en/post/often/) [used](/en/post/used/) interchangeably [with](/en/post/with/) "[reproach](/en/post/reproach/)," [but](/en/post/but/) [it](/en/post/it/) [may](/en/post/may/) [carry](/en/post/carry/) [a](/en/post/a/) [slightly](/en/post/slightly/) milder connotation [of](/en/post/of/) [advice](/en/post/advice/) [or](/en/post/or/) warning [rather](/en/post/rather/) [than](/en/post/than/) [strong](/en/post/strong/) disapproval.
+## [Usage](/post/usage/) Notes
+- [In](/post/in/) British English, "reproof" is [often](/post/often/) [used](/post/used/) interchangeably [with](/post/with/) "[reproach](/post/reproach/)," [but](/post/but/) [it](/post/it/) [may](/post/may/) [carry](/post/carry/) [a](/post/a/) [slightly](/post/slightly/) milder connotation [of](/post/of/) [advice](/post/advice/) [or](/post/or/) warning [rather](/post/rather/) [than](/post/than/) [strong](/post/strong/) disapproval.

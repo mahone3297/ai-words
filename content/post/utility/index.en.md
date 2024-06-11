@@ -7,40 +7,40 @@ description = '[juːˈtiliti] n.效用，有用，实用'
 keywords = ['ai words', 'utility']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjuːtɪləti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Utility](/en/post/utility/)**: 1. [The](/en/post/the/) [practical](/en/post/practical/) [or](/en/post/or/) [useful](/en/post/useful/) [purpose](/en/post/purpose/) [of](/en/post/of/) [something](/en/post/something/); effectiveness [or](/en/post/or/) usefulness. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [kitchen](/en/post/kitchen/) [design](/en/post/design/) maximizes [utility](/en/post/utility/) [by](/en/post/by/) providing ample [storage](/en/post/storage/) [space](/en/post/space/)."
-- 2. [A](/en/post/a/) [public](/en/post/public/) [service](/en/post/service/), [such](/en/post/such/) [as](/en/post/as/) [water](/en/post/water/), [gas](/en/post/gas/), [or](/en/post/or/) [electricity](/en/post/electricity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) city's [utility](/en/post/utility/) [company](/en/post/company/) upgraded [their](/en/post/their/) infrastructure."
-- 3. [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [convenient](/en/post/convenient/) [or](/en/post/or/) adaptable. [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [tool](/en/post/tool/) has [great](/en/post/great/) [utility](/en/post/utility/) [for](/en/post/for/) [various](/en/post/various/) tasks."
+### [Noun](/post/noun/)
+- **[Utility](/post/utility/)**: 1. [The](/post/the/) [practical](/post/practical/) [or](/post/or/) [useful](/post/useful/) [purpose](/post/purpose/) [of](/post/of/) [something](/post/something/); effectiveness [or](/post/or/) usefulness. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) [kitchen](/post/kitchen/) [design](/post/design/) maximizes [utility](/post/utility/) [by](/post/by/) providing ample [storage](/post/storage/) [space](/post/space/)."
+- 2. [A](/post/a/) [public](/post/public/) [service](/post/service/), [such](/post/such/) [as](/post/as/) [water](/post/water/), [gas](/post/gas/), [or](/post/or/) [electricity](/post/electricity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) city's [utility](/post/utility/) [company](/post/company/) upgraded [their](/post/their/) infrastructure."
+- 3. [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [convenient](/post/convenient/) [or](/post/or/) adaptable. [For](/post/for/) [example](/post/example/): "[This](/post/this/) [tool](/post/tool/) has [great](/post/great/) [utility](/post/utility/) [for](/post/for/) [various](/post/various/) tasks."
 
-### [Verb](/en/post/verb/)
-- **[Utilize](/en/post/utilize/)** [or](/en/post/or/) **utilise**: [To](/en/post/to/) [make](/en/post/make/) [use](/en/post/use/) [of](/en/post/of/) [something](/en/post/something/) effectively [or](/en/post/or/) efficiently. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [utilize](/en/post/utilize/) [our](/en/post/our/) resources [more](/en/post/more/) wisely."
-- **[Utility](/en/post/utility/)**: ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)) [To](/en/post/to/) [provide](/en/post/provide/) [or](/en/post/or/) [serve](/en/post/serve/) [a](/en/post/a/) [useful](/en/post/useful/) [function](/en/post/function/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) app offers [various](/en/post/various/) utilities [for](/en/post/for/) organizing tasks."
+### [Verb](/post/verb/)
+- **[Utilize](/post/utilize/)** [or](/post/or/) **utilise**: [To](/post/to/) [make](/post/make/) [use](/post/use/) [of](/post/of/) [something](/post/something/) effectively [or](/post/or/) efficiently. [For](/post/for/) [example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [utilize](/post/utilize/) [our](/post/our/) resources [more](/post/more/) wisely."
+- **[Utility](/post/utility/)**: ([as](/post/as/) [a](/post/a/) [verb](/post/verb/)) [To](/post/to/) [provide](/post/provide/) [or](/post/or/) [serve](/post/serve/) [a](/post/a/) [useful](/post/useful/) [function](/post/function/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) app offers [various](/post/various/) utilities [for](/post/for/) organizing tasks."
 
 ## Phrases
-- "Maximize [utility](/en/post/utility/)" [means](/en/post/means/) [to](/en/post/to/) [improve](/en/post/improve/) [or](/en/post/or/) optimize [the](/en/post/the/) usefulness [or](/en/post/or/) [efficiency](/en/post/efficiency/).
-- "[Energy](/en/post/energy/) [utility](/en/post/utility/)" refers [to](/en/post/to/) [a](/en/post/a/) [company](/en/post/company/) [that](/en/post/that/) supplies [energy](/en/post/energy/) services.
-- "Environmental [utility](/en/post/utility/)" highlights [the](/en/post/the/) [value](/en/post/value/) [of](/en/post/of/) [something](/en/post/something/) [in](/en/post/in/) terms [of](/en/post/of/) [its](/en/post/its/) environmental benefits.
+- "Maximize [utility](/post/utility/)" [means](/post/means/) [to](/post/to/) [improve](/post/improve/) [or](/post/or/) optimize [the](/post/the/) usefulness [or](/post/or/) [efficiency](/post/efficiency/).
+- "[Energy](/post/energy/) [utility](/post/utility/)" refers [to](/post/to/) [a](/post/a/) [company](/post/company/) [that](/post/that/) supplies [energy](/post/energy/) services.
+- "Environmental [utility](/post/utility/)" highlights [the](/post/the/) [value](/post/value/) [of](/post/of/) [something](/post/something/) [in](/post/in/) terms [of](/post/of/) [its](/post/its/) environmental benefits.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [furniture](/en/post/furniture/) was chosen [for](/en/post/for/) [its](/en/post/its/) [high](/en/post/high/) aesthetic [and](/en/post/and/) functional [utility](/en/post/utility/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) utilized [his](/en/post/his/) skills [to](/en/post/to/) [find](/en/post/find/) [a](/en/post/a/) [solution](/en/post/solution/) [to](/en/post/to/) [the](/en/post/the/) [problem](/en/post/problem/)."
-- **[Utilize](/en/post/utilize/)**: "[The](/en/post/the/) [government](/en/post/government/) plans [to](/en/post/to/) [utilize](/en/post/utilize/) renewable [energy](/en/post/energy/) sources [to](/en/post/to/) [reduce](/en/post/reduce/) [carbon](/en/post/carbon/) emissions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [furniture](/post/furniture/) was chosen [for](/post/for/) [its](/post/its/) [high](/post/high/) aesthetic [and](/post/and/) functional [utility](/post/utility/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) utilized [his](/post/his/) skills [to](/post/to/) [find](/post/find/) [a](/post/a/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/)."
+- **[Utilize](/post/utilize/)**: "[The](/post/the/) [government](/post/government/) plans [to](/post/to/) [utilize](/post/utilize/) renewable [energy](/post/energy/) sources [to](/post/to/) [reduce](/post/reduce/) [carbon](/post/carbon/) emissions."
 
 ## Synonyms
 - Functionality
 - Practicality
 - Effectiveness
 - Usefulness
-- [Value](/en/post/value/)
-- [Advantage](/en/post/advantage/)
-- [Efficiency](/en/post/efficiency/)
+- [Value](/post/value/)
+- [Advantage](/post/advantage/)
+- [Efficiency](/post/efficiency/)
 
 ## Antonyms
 - Inefficiency
 - Uselessness
 - Nonsensicality
-- [Lack](/en/post/lack/) [of](/en/post/of/) [purpose](/en/post/purpose/)
+- [Lack](/post/lack/) [of](/post/of/) [purpose](/post/purpose/)

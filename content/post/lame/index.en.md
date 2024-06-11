@@ -7,31 +7,31 @@ description = '[leim] a.跛的；瘸的，残废的'
 keywords = ['ai words', 'lame']
 +++
 
-## [Word](/en/post/word/): [Lame](/en/post/lame/)
+## [Word](/post/word/): [Lame](/post/lame/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /leɪm/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) Having [a](/en/post/a/) [limb](/en/post/limb/) [or](/en/post/or/) limbs [that](/en/post/that/) [do](/en/post/do/) [not](/en/post/not/) [function](/en/post/function/) [properly](/en/post/properly/), typically [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) [injury](/en/post/injury/) [or](/en/post/or/) [illness](/en/post/illness/); disabled. [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) [accident](/en/post/accident/), [he](/en/post/he/) was [left](/en/post/left/) [with](/en/post/with/) [a](/en/post/a/) [lame](/en/post/lame/) [leg](/en/post/leg/)."
-  - Figurative: [Weak](/en/post/weak/) [or](/en/post/or/) [unsatisfactory](/en/post/unsatisfactory/); inadequate, [feeble](/en/post/feeble/), [or](/en/post/or/) unconvincing. [Example](/en/post/example/): "[The](/en/post/the/) [excuse](/en/post/excuse/) [for](/en/post/for/) [being](/en/post/being/) [late](/en/post/late/) was [rather](/en/post/rather/) [lame](/en/post/lame/)."
+- **[Adjective](/post/adjective/)**: (adj) Having [a](/post/a/) [limb](/post/limb/) [or](/post/or/) limbs [that](/post/that/) [do](/post/do/) [not](/post/not/) [function](/post/function/) [properly](/post/properly/), typically [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) [injury](/post/injury/) [or](/post/or/) [illness](/post/illness/); disabled. [For](/post/for/) [example](/post/example/): "[After](/post/after/) [the](/post/the/) [accident](/post/accident/), [he](/post/he/) was [left](/post/left/) [with](/post/with/) [a](/post/a/) [lame](/post/lame/) [leg](/post/leg/)."
+  - Figurative: [Weak](/post/weak/) [or](/post/or/) [unsatisfactory](/post/unsatisfactory/); inadequate, [feeble](/post/feeble/), [or](/post/or/) unconvincing. [Example](/post/example/): "[The](/post/the/) [excuse](/post/excuse/) [for](/post/for/) [being](/post/being/) [late](/post/late/) was [rather](/post/rather/) [lame](/post/lame/)."
   
-- **[Verb](/en/post/verb/)**: (v, transitive) [To](/en/post/to/) [cause](/en/post/cause/) (an [animal](/en/post/animal/)) [to](/en/post/to/) [become](/en/post/become/) [lame](/en/post/lame/). [Example](/en/post/example/): "[The](/en/post/the/) [fall](/en/post/fall/) [from](/en/post/from/) [the](/en/post/the/) [horse](/en/post/horse/) had lambed [him](/en/post/him/)."
+- **[Verb](/post/verb/)**: (v, transitive) [To](/post/to/) [cause](/post/cause/) (an [animal](/post/animal/)) [to](/post/to/) [become](/post/become/) [lame](/post/lame/). [Example](/post/example/): "[The](/post/the/) [fall](/post/fall/) [from](/post/from/) [the](/post/the/) [horse](/post/horse/) had lambed [him](/post/him/)."
 
 ## Phrases
-- "[Lame](/en/post/lame/) [duck](/en/post/duck/)": [A](/en/post/a/) [politician](/en/post/politician/) [or](/en/post/or/) [official](/en/post/official/) [whose](/en/post/whose/) [period](/en/post/period/) [of](/en/post/of/) [office](/en/post/office/) [or](/en/post/or/) [power](/en/post/power/) is coming [to](/en/post/to/) an [end](/en/post/end/), [especially](/en/post/especially/) [one](/en/post/one/) [who](/en/post/who/) has lost [influence](/en/post/influence/) [or](/en/post/or/) is [unable](/en/post/unable/) [to](/en/post/to/) [act](/en/post/act/) effectively.
-- "[Lame](/en/post/lame/) [excuse](/en/post/excuse/)": An unconvincing [or](/en/post/or/) insincere [reason](/en/post/reason/) given [for](/en/post/for/) [something](/en/post/something/).
+- "[Lame](/post/lame/) [duck](/post/duck/)": [A](/post/a/) [politician](/post/politician/) [or](/post/or/) [official](/post/official/) [whose](/post/whose/) [period](/post/period/) [of](/post/of/) [office](/post/office/) [or](/post/or/) [power](/post/power/) is coming [to](/post/to/) an [end](/post/end/), [especially](/post/especially/) [one](/post/one/) [who](/post/who/) has lost [influence](/post/influence/) [or](/post/or/) is [unable](/post/unable/) [to](/post/to/) [act](/post/act/) effectively.
+- "[Lame](/post/lame/) [excuse](/post/excuse/)": An unconvincing [or](/post/or/) insincere [reason](/post/reason/) given [for](/post/for/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) struggled [to](/en/post/to/) [walk](/en/post/walk/) [with](/en/post/with/) [her](/en/post/her/) [lame](/en/post/lame/) [foot](/en/post/foot/)."
-- Figurative: "[His](/en/post/his/) [excuse](/en/post/excuse/) [for](/en/post/for/) [missing](/en/post/missing/) [work](/en/post/work/) was [pretty](/en/post/pretty/) [lame](/en/post/lame/); [he](/en/post/he/) said [his](/en/post/his/) [alarm](/en/post/alarm/) [clock](/en/post/clock/) didn't [go](/en/post/go/) [off](/en/post/off/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) struggled [to](/post/to/) [walk](/post/walk/) [with](/post/with/) [her](/post/her/) [lame](/post/lame/) [foot](/post/foot/)."
+- Figurative: "[His](/post/his/) [excuse](/post/excuse/) [for](/post/for/) [missing](/post/missing/) [work](/post/work/) was [pretty](/post/pretty/) [lame](/post/lame/); [he](/post/he/) said [his](/post/his/) [alarm](/post/alarm/) [clock](/post/clock/) didn't [go](/post/go/) [off](/post/off/)."
 
 ## Synonyms
-- Impaired ([for](/en/post/for/) [physical](/en/post/physical/) disability)
+- Impaired ([for](/post/for/) [physical](/post/physical/) disability)
 - Disabled
 - Infirm
-- Unsound ([for](/en/post/for/) [physical](/en/post/physical/) disability)
-- [Weak](/en/post/weak/) ([in](/en/post/in/) [the](/en/post/the/) figurative [sense](/en/post/sense/))
-- [Poor](/en/post/poor/) ([for](/en/post/for/) arguments [or](/en/post/or/) excuses)
-- [Feeble](/en/post/feeble/) ([for](/en/post/for/) reasons [or](/en/post/or/) justifications)
-- [Insufficient](/en/post/insufficient/) ([for](/en/post/for/) explanations [or](/en/post/or/) justifications)
+- Unsound ([for](/post/for/) [physical](/post/physical/) disability)
+- [Weak](/post/weak/) ([in](/post/in/) [the](/post/the/) figurative [sense](/post/sense/))
+- [Poor](/post/poor/) ([for](/post/for/) arguments [or](/post/or/) excuses)
+- [Feeble](/post/feeble/) ([for](/post/for/) reasons [or](/post/or/) justifications)
+- [Insufficient](/post/insufficient/) ([for](/post/for/) explanations [or](/post/or/) justifications)

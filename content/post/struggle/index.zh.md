@@ -11,20 +11,20 @@ keywords = ['ai words', 'struggle']
 /ˈstrʌɡ(ə)l/
 
 ## 释义
-- **动词**: 努力，奋斗，抗争。例如: "[She](/post/she/) struggled [to](/post/to/) [finish](/post/finish/) [the](/post/the/) marathon."
-- **名词**: 努力，奋斗，搏斗。例如: "[His](/post/his/) [daily](/post/daily/) [struggle](/post/struggle/) [with](/post/with/) [illness](/post/illness/) inspired [many](/post/many/)."
+- **动词**: 努力，奋斗，抗争。例如: "[She](/zh/post/she/) struggled [to](/zh/post/to/) [finish](/zh/post/finish/) [the](/zh/post/the/) marathon."
+- **名词**: 努力，奋斗，搏斗。例如: "[His](/zh/post/his/) [daily](/zh/post/daily/) [struggle](/zh/post/struggle/) [with](/zh/post/with/) [illness](/zh/post/illness/) inspired [many](/zh/post/many/)."
 
 ## 短语
-- "[to](/post/to/) [struggle](/post/struggle/) [against](/post/against/)" 表示与...作斗争。例如: "[They](/post/they/) are struggling [against](/post/against/) [poverty](/post/poverty/)."
-- "[a](/post/a/) [fierce](/post/fierce/) [struggle](/post/struggle/)" 指激烈的斗争。例如: "[There](/post/there/) was [a](/post/a/) [fierce](/post/fierce/) [struggle](/post/struggle/) [for](/post/for/) [power](/post/power/) [within](/post/within/) [the](/post/the/) [company](/post/company/)."
+- "[to](/zh/post/to/) [struggle](/zh/post/struggle/) [against](/zh/post/against/)" 表示与...作斗争。例如: "[They](/zh/post/they/) are struggling [against](/zh/post/against/) [poverty](/zh/post/poverty/)."
+- "[a](/zh/post/a/) [fierce](/zh/post/fierce/) [struggle](/zh/post/struggle/)" 指激烈的斗争。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [fierce](/zh/post/fierce/) [struggle](/zh/post/struggle/) [for](/zh/post/for/) [power](/zh/post/power/) [within](/zh/post/within/) [the](/zh/post/the/) [company](/zh/post/company/)."
 
 ## 例句
-- 动词: "[Despite](/post/despite/) [the](/post/the/) odds, [he](/post/he/) continued [to](/post/to/) [struggle](/post/struggle/) [for](/post/for/) [his](/post/his/) dreams."
-- 名词: "[The](/post/the/) [economic](/post/economic/) [crisis](/post/crisis/) has turned [into](/post/into/) [a](/post/a/) [long](/post/long/) [and](/post/and/) grueling [struggle](/post/struggle/) [for](/post/for/) [many](/post/many/) families."
+- 动词: "[Despite](/zh/post/despite/) [the](/zh/post/the/) odds, [he](/zh/post/he/) continued [to](/zh/post/to/) [struggle](/zh/post/struggle/) [for](/zh/post/for/) [his](/zh/post/his/) dreams."
+- 名词: "[The](/zh/post/the/) [economic](/zh/post/economic/) [crisis](/zh/post/crisis/) has turned [into](/zh/post/into/) [a](/zh/post/a/) [long](/zh/post/long/) [and](/zh/post/and/) grueling [struggle](/zh/post/struggle/) [for](/zh/post/for/) [many](/zh/post/many/) families."
 
 ## 同义词
-- [fight](/post/fight/)
-- [battle](/post/battle/)
+- [fight](/zh/post/fight/)
+- [battle](/zh/post/battle/)
 - contend
 - strive
 - wrestle

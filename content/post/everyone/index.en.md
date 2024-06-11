@@ -7,30 +7,30 @@ description = '[ˈevriwʌn] pron.每人，人人'
 keywords = ['ai words', 'everyone']
 +++
 
-# [Everyone](/en/post/everyone/)
+# [Everyone](/post/everyone/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈevriwʌn/
 
 ## Definitions
-- **[Pronoun](/en/post/pronoun/)**: Refers [to](/en/post/to/) [each](/en/post/each/) [and](/en/post/and/) [every](/en/post/every/) [person](/en/post/person/) [without](/en/post/without/) [exception](/en/post/exception/); [all](/en/post/all/) [people](/en/post/people/) considered [as](/en/post/as/) [a](/en/post/a/) [whole](/en/post/whole/). It's [a](/en/post/a/) [singular](/en/post/singular/) [pronoun](/en/post/pronoun/) [that](/en/post/that/) takes [a](/en/post/a/) [singular](/en/post/singular/) [verb](/en/post/verb/) [form](/en/post/form/) [but](/en/post/but/) refers [to](/en/post/to/) [a](/en/post/a/) [plural](/en/post/plural/) [idea](/en/post/idea/).
+- **[Pronoun](/post/pronoun/)**: Refers [to](/post/to/) [each](/post/each/) [and](/post/and/) [every](/post/every/) [person](/post/person/) [without](/post/without/) [exception](/post/exception/); [all](/post/all/) [people](/post/people/) considered [as](/post/as/) [a](/post/a/) [whole](/post/whole/). It's [a](/post/a/) [singular](/post/singular/) [pronoun](/post/pronoun/) [that](/post/that/) takes [a](/post/a/) [singular](/post/singular/) [verb](/post/verb/) [form](/post/form/) [but](/post/but/) refers [to](/post/to/) [a](/post/a/) [plural](/post/plural/) [idea](/post/idea/).
 
-[Example](/en/post/example/) Sentences:
-- _**[Pronoun](/en/post/pronoun/) ([Singular](/en/post/singular/))**_ : "[Everyone](/en/post/everyone/) [on](/en/post/on/) [the](/en/post/the/) [team](/en/post/team/) has [to](/en/post/to/) [complete](/en/post/complete/) [their](/en/post/their/) [part](/en/post/part/) [for](/en/post/for/) [the](/en/post/the/) [project](/en/post/project/) [to](/en/post/to/) [succeed](/en/post/succeed/)."
-- _**[Pronoun](/en/post/pronoun/) (Referring [to](/en/post/to/) [Plural](/en/post/plural/) [Idea](/en/post/idea/))**_ : "[Everyone](/en/post/everyone/) [should](/en/post/should/) [bring](/en/post/bring/) [their](/en/post/their/) favorite [dish](/en/post/dish/) [to](/en/post/to/) [the](/en/post/the/) potluck [dinner](/en/post/dinner/) [tonight](/en/post/tonight/)."
+[Example](/post/example/) Sentences:
+- _**[Pronoun](/post/pronoun/) ([Singular](/post/singular/))**_ : "[Everyone](/post/everyone/) [on](/post/on/) [the](/post/the/) [team](/post/team/) has [to](/post/to/) [complete](/post/complete/) [their](/post/their/) [part](/post/part/) [for](/post/for/) [the](/post/the/) [project](/post/project/) [to](/post/to/) [succeed](/post/succeed/)."
+- _**[Pronoun](/post/pronoun/) (Referring [to](/post/to/) [Plural](/post/plural/) [Idea](/post/idea/))**_ : "[Everyone](/post/everyone/) [should](/post/should/) [bring](/post/bring/) [their](/post/their/) favorite [dish](/post/dish/) [to](/post/to/) [the](/post/the/) potluck [dinner](/post/dinner/) [tonight](/post/tonight/)."
 
 ## Phrases
-- "[Everyone](/en/post/everyone/) knows": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [when](/en/post/when/) referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [generally](/en/post/generally/) accepted [or](/en/post/or/) [well-known](/en/post/well-known/). E.g., "[Everyone](/en/post/everyone/) knows [that](/en/post/that/) [the](/en/post/the/) [Earth](/en/post/earth/) revolves [around](/en/post/around/) [the](/en/post/the/) [Sun](/en/post/sun/)."
-- "[Everyone](/en/post/everyone/) [else](/en/post/else/)": [This](/en/post/this/) [phrase](/en/post/phrase/) refers [to](/en/post/to/) [all](/en/post/all/) [other](/en/post/other/) [people](/en/post/people/) [except](/en/post/except/) [those](/en/post/those/) [already](/en/post/already/) mentioned [or](/en/post/or/) implied. E.g., "[Everyone](/en/post/everyone/) [else](/en/post/else/) [left](/en/post/left/) [early](/en/post/early/), [but](/en/post/but/) I stayed [behind](/en/post/behind/) [to](/en/post/to/) [finish](/en/post/finish/) [my](/en/post/my/) [work](/en/post/work/)."
-- "[Each](/en/post/each/) [and](/en/post/and/) [everyone](/en/post/everyone/)": [This](/en/post/this/) emphasizes [that](/en/post/that/) [every](/en/post/every/) [individual](/en/post/individual/) [within](/en/post/within/) [a](/en/post/a/) [group](/en/post/group/) is [being](/en/post/being/) considered [separately](/en/post/separately/). E.g., "[The](/en/post/the/) [teacher](/en/post/teacher/) greeted [each](/en/post/each/) [and](/en/post/and/) [everyone](/en/post/everyone/) [with](/en/post/with/) [a](/en/post/a/) [smile](/en/post/smile/)."
+- "[Everyone](/post/everyone/) knows": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [when](/post/when/) referring [to](/post/to/) [something](/post/something/) [that](/post/that/) is [generally](/post/generally/) accepted [or](/post/or/) [well-known](/post/well-known/). E.g., "[Everyone](/post/everyone/) knows [that](/post/that/) [the](/post/the/) [Earth](/post/earth/) revolves [around](/post/around/) [the](/post/the/) [Sun](/post/sun/)."
+- "[Everyone](/post/everyone/) [else](/post/else/)": [This](/post/this/) [phrase](/post/phrase/) refers [to](/post/to/) [all](/post/all/) [other](/post/other/) [people](/post/people/) [except](/post/except/) [those](/post/those/) [already](/post/already/) mentioned [or](/post/or/) implied. E.g., "[Everyone](/post/everyone/) [else](/post/else/) [left](/post/left/) [early](/post/early/), [but](/post/but/) I stayed [behind](/post/behind/) [to](/post/to/) [finish](/post/finish/) [my](/post/my/) [work](/post/work/)."
+- "[Each](/post/each/) [and](/post/and/) [everyone](/post/everyone/)": [This](/post/this/) emphasizes [that](/post/that/) [every](/post/every/) [individual](/post/individual/) [within](/post/within/) [a](/post/a/) [group](/post/group/) is [being](/post/being/) considered [separately](/post/separately/). E.g., "[The](/post/the/) [teacher](/post/teacher/) greeted [each](/post/each/) [and](/post/and/) [everyone](/post/everyone/) [with](/post/with/) [a](/post/a/) [smile](/post/smile/)."
 
 ## Synonyms
-- [Everybody](/en/post/everybody/)
-- [All](/en/post/all/) [people](/en/post/people/)
-- [Each](/en/post/each/) [person](/en/post/person/)
-- [Every](/en/post/every/) [person](/en/post/person/)
-- [The](/en/post/the/) [whole](/en/post/whole/) [world](/en/post/world/)
-- [The](/en/post/the/) populace
-- [All](/en/post/all/) individuals
+- [Everybody](/post/everybody/)
+- [All](/post/all/) [people](/post/people/)
+- [Each](/post/each/) [person](/post/person/)
+- [Every](/post/every/) [person](/post/person/)
+- [The](/post/the/) [whole](/post/whole/) [world](/post/world/)
+- [The](/post/the/) populace
+- [All](/post/all/) individuals
 
-[Note](/en/post/note/): [Unlike](/en/post/unlike/) "[hello](/en/post/hello/)," [which](/en/post/which/) [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [verb](/en/post/verb/), [or](/en/post/or/) interjection, "[everyone](/en/post/everyone/)" is [only](/en/post/only/) [a](/en/post/a/) [pronoun](/en/post/pronoun/), [and](/en/post/and/) [it](/en/post/it/) does [not](/en/post/not/) [have](/en/post/have/) [different](/en/post/different/) parts [of](/en/post/of/) [speech](/en/post/speech/).
+[Note](/post/note/): [Unlike](/post/unlike/) "[hello](/post/hello/)," [which](/post/which/) [can](/post/can/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [verb](/post/verb/), [or](/post/or/) interjection, "[everyone](/post/everyone/)" is [only](/post/only/) [a](/post/a/) [pronoun](/post/pronoun/), [and](/post/and/) [it](/post/it/) does [not](/post/not/) [have](/post/have/) [different](/post/different/) parts [of](/post/of/) [speech](/post/speech/).

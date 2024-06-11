@@ -12,20 +12,20 @@ keywords = ['ai words', 'recite']
 
 ## 释义
 - **动词**:
-1. 背诵；朗诵：例如: "[He](/post/he/) was asked [to](/post/to/) [recite](/post/recite/) [a](/post/a/) [poem](/post/poem/) [in](/post/in/) [front](/post/front/) [of](/post/of/) [the](/post/the/) [class](/post/class/)."
-2. 重述；复述：例如: "[She](/post/she/) [could](/post/could/) [recite](/post/recite/) [the](/post/the/) events [of](/post/of/) [that](/post/that/) [day](/post/day/) [in](/post/in/) [detail](/post/detail/)."
+1. 背诵；朗诵：例如: "[He](/zh/post/he/) was asked [to](/zh/post/to/) [recite](/zh/post/recite/) [a](/zh/post/a/) [poem](/zh/post/poem/) [in](/zh/post/in/) [front](/zh/post/front/) [of](/zh/post/of/) [the](/zh/post/the/) [class](/zh/post/class/)."
+2. 重述；复述：例如: "[She](/zh/post/she/) [could](/zh/post/could/) [recite](/zh/post/recite/) [the](/zh/post/the/) events [of](/zh/post/of/) [that](/zh/post/that/) [day](/zh/post/day/) [in](/zh/post/in/) [detail](/zh/post/detail/)."
 
 ## 短语
-- "[recite](/post/recite/) [from](/post/from/) [memory](/post/memory/)" 意为凭记忆背诵。
-- "[recite](/post/recite/) [a](/post/a/) [story](/post/story/)" 是讲述一个故事的意思。
+- "[recite](/zh/post/recite/) [from](/zh/post/from/) [memory](/zh/post/memory/)" 意为凭记忆背诵。
+- "[recite](/zh/post/recite/) [a](/zh/post/a/) [story](/zh/post/story/)" 是讲述一个故事的意思。
 
 ## 例句
-- 动词: "[The](/post/the/) students were practicing reciting [their](/post/their/) multiplication tables."
-- 动词: "[She](/post/she/) [could](/post/could/) [recite](/post/recite/) [the](/post/the/) [whole](/post/whole/) [movie](/post/movie/) script [by](/post/by/) [heart](/post/heart/)."
+- 动词: "[The](/zh/post/the/) students were practicing reciting [their](/zh/post/their/) multiplication tables."
+- 动词: "[She](/zh/post/she/) [could](/zh/post/could/) [recite](/zh/post/recite/) [the](/zh/post/the/) [whole](/zh/post/whole/) [movie](/zh/post/movie/) script [by](/zh/post/by/) [heart](/zh/post/heart/)."
 
 ## 同义词
-- [Repeat](/post/repeat/)
+- [Repeat](/zh/post/repeat/)
 - Reiterate
 - Enunciate
-- [Utter](/post/utter/)
-- [Quote](/post/quote/)
+- [Utter](/zh/post/utter/)
+- [Quote](/zh/post/quote/)

@@ -7,30 +7,30 @@ description = '[grəˈmætikəl] a.语法上的'
 keywords = ['ai words', 'grammatical']
 +++
 
-## [Word](/en/post/word/): [Grammatical](/en/post/grammatical/)
+## [Word](/post/word/): [Grammatical](/post/grammatical/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡræməˈtɪk(ə)l/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) according [to](/en/post/to/) [the](/en/post/the/) rules [of](/en/post/of/) [grammar](/en/post/grammar/); pertaining [to](/en/post/to/) [the](/en/post/the/) [structure](/en/post/structure/) [and](/en/post/and/) [form](/en/post/form/) [of](/en/post/of/) [language](/en/post/language/).
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) according [to](/post/to/) [the](/post/the/) rules [of](/post/of/) [grammar](/post/grammar/); pertaining [to](/post/to/) [the](/post/the/) [structure](/post/structure/) [and](/post/and/) [form](/post/form/) [of](/post/of/) [language](/post/language/).
 
 ### Examples
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [sentence](/en/post/sentence/) "[She](/en/post/she/) writes grammatically [correct](/en/post/correct/) essays" uses "[grammatical](/en/post/grammatical/)" [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [the](/en/post/the/) essays [with](/en/post/with/) [respect](/en/post/respect/) [to](/en/post/to/) [their](/en/post/their/) adherence [to](/en/post/to/) [grammar](/en/post/grammar/) rules.
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [sentence](/post/sentence/) "[She](/post/she/) writes grammatically [correct](/post/correct/) essays" uses "[grammatical](/post/grammatical/)" [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [the](/post/the/) essays [with](/post/with/) [respect](/post/respect/) [to](/post/to/) [their](/post/their/) adherence [to](/post/to/) [grammar](/post/grammar/) rules.
 
 ## Phrases
-- **[Grammatical](/en/post/grammatical/) [error](/en/post/error/)**: [A](/en/post/a/) [mistake](/en/post/mistake/) [in](/en/post/in/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [grammar](/en/post/grammar/), [such](/en/post/such/) [as](/en/post/as/) [incorrect](/en/post/incorrect/) [verb](/en/post/verb/) [tense](/en/post/tense/) [or](/en/post/or/) subject-verb [agreement](/en/post/agreement/).
-- **[Grammatical](/en/post/grammatical/) [construction](/en/post/construction/)**: [The](/en/post/the/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) words [and](/en/post/and/) phrases [to](/en/post/to/) [form](/en/post/form/) grammatically [correct](/en/post/correct/) sentences.
-- **[Grammatical](/en/post/grammatical/) [analysis](/en/post/analysis/)**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) examining [the](/en/post/the/) [structure](/en/post/structure/) [of](/en/post/of/) sentences [or](/en/post/or/) words [to](/en/post/to/) [understand](/en/post/understand/) [their](/en/post/their/) [grammatical](/en/post/grammatical/) [function](/en/post/function/) [within](/en/post/within/) [a](/en/post/a/) [language](/en/post/language/).
+- **[Grammatical](/post/grammatical/) [error](/post/error/)**: [A](/post/a/) [mistake](/post/mistake/) [in](/post/in/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [grammar](/post/grammar/), [such](/post/such/) [as](/post/as/) [incorrect](/post/incorrect/) [verb](/post/verb/) [tense](/post/tense/) [or](/post/or/) subject-verb [agreement](/post/agreement/).
+- **[Grammatical](/post/grammatical/) [construction](/post/construction/)**: [The](/post/the/) [arrangement](/post/arrangement/) [of](/post/of/) words [and](/post/and/) phrases [to](/post/to/) [form](/post/form/) grammatically [correct](/post/correct/) sentences.
+- **[Grammatical](/post/grammatical/) [analysis](/post/analysis/)**: [The](/post/the/) [process](/post/process/) [of](/post/of/) examining [the](/post/the/) [structure](/post/structure/) [of](/post/of/) sentences [or](/post/or/) words [to](/post/to/) [understand](/post/understand/) [their](/post/their/) [grammatical](/post/grammatical/) [function](/post/function/) [within](/post/within/) [a](/post/a/) [language](/post/language/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [student](/en/post/student/) has made [significant](/en/post/significant/) improvements [in](/en/post/in/) [her](/en/post/her/) [grammatical](/en/post/grammatical/) skills [since](/en/post/since/) [last](/en/post/last/) [semester](/en/post/semester/)."
-- "[Understanding](/en/post/understanding/) [grammatical](/en/post/grammatical/) rules is [essential](/en/post/essential/) [for](/en/post/for/) [clear](/en/post/clear/) [communication](/en/post/communication/)."
-- "[Despite](/en/post/despite/) [its](/en/post/its/) [unusual](/en/post/unusual/) [sound](/en/post/sound/), [the](/en/post/the/) [sentence](/en/post/sentence/) is grammatically [correct](/en/post/correct/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [student](/post/student/) has made [significant](/post/significant/) improvements [in](/post/in/) [her](/post/her/) [grammatical](/post/grammatical/) skills [since](/post/since/) [last](/post/last/) [semester](/post/semester/)."
+- "[Understanding](/post/understanding/) [grammatical](/post/grammatical/) rules is [essential](/post/essential/) [for](/post/for/) [clear](/post/clear/) [communication](/post/communication/)."
+- "[Despite](/post/despite/) [its](/post/its/) [unusual](/post/unusual/) [sound](/post/sound/), [the](/post/the/) [sentence](/post/sentence/) is grammatically [correct](/post/correct/)."
 
 ## Synonyms
 - Syntaxical
 - Orthographic
-- [Proper](/en/post/proper/) ([in](/en/post/in/) terms [of](/en/post/of/) [language](/en/post/language/) [usage](/en/post/usage/))
-- [Correct](/en/post/correct/) ([when](/en/post/when/) referring [to](/en/post/to/) [grammar](/en/post/grammar/))
-- Well-formed ([in](/en/post/in/) regards [to](/en/post/to/) sentences [or](/en/post/or/) phrases)
+- [Proper](/post/proper/) ([in](/post/in/) terms [of](/post/of/) [language](/post/language/) [usage](/post/usage/))
+- [Correct](/post/correct/) ([when](/post/when/) referring [to](/post/to/) [grammar](/post/grammar/))
+- Well-formed ([in](/post/in/) regards [to](/post/to/) sentences [or](/post/or/) phrases)

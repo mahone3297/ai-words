@@ -7,37 +7,37 @@ description = '[ˈku∫ən] n.垫子，坐垫，靠垫'
 keywords = ['ai words', 'cushion']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kʌʃn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [pad](/en/post/pad/) [or](/en/post/or/) [pillow](/en/post/pillow/) typically made [of](/en/post/of/) [soft](/en/post/soft/) [material](/en/post/material/), [used](/en/post/used/) [to](/en/post/to/) [make](/en/post/make/) seating [or](/en/post/or/) sleeping [more](/en/post/more/) [comfortable](/en/post/comfortable/).
-2. [A](/en/post/a/) [support](/en/post/support/) [or](/en/post/or/) buffer [that](/en/post/that/) absorbs [shock](/en/post/shock/) [or](/en/post/or/) reduces [impact](/en/post/impact/).
-3. [Financial](/en/post/financial/) reserves [or](/en/post/or/) funds [set](/en/post/set/) [aside](/en/post/aside/) [to](/en/post/to/) [help](/en/post/help/) [absorb](/en/post/absorb/) losses [or](/en/post/or/) [cover](/en/post/cover/) [unexpected](/en/post/unexpected/) expenses.
-4. (figurative) [A](/en/post/a/) milder [or](/en/post/or/) softened [expression](/en/post/expression/) [or](/en/post/or/) [statement](/en/post/statement/).
+### [Noun](/post/noun/)
+1. [A](/post/a/) [pad](/post/pad/) [or](/post/or/) [pillow](/post/pillow/) typically made [of](/post/of/) [soft](/post/soft/) [material](/post/material/), [used](/post/used/) [to](/post/to/) [make](/post/make/) seating [or](/post/or/) sleeping [more](/post/more/) [comfortable](/post/comfortable/).
+2. [A](/post/a/) [support](/post/support/) [or](/post/or/) buffer [that](/post/that/) absorbs [shock](/post/shock/) [or](/post/or/) reduces [impact](/post/impact/).
+3. [Financial](/post/financial/) reserves [or](/post/or/) funds [set](/post/set/) [aside](/post/aside/) [to](/post/to/) [help](/post/help/) [absorb](/post/absorb/) losses [or](/post/or/) [cover](/post/cover/) [unexpected](/post/unexpected/) expenses.
+4. (figurative) [A](/post/a/) milder [or](/post/or/) softened [expression](/post/expression/) [or](/post/or/) [statement](/post/statement/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [place](/en/post/place/) [or](/en/post/or/) [provide](/en/post/provide/) [a](/en/post/a/) [cushion](/en/post/cushion/) [between](/en/post/between/) [something](/en/post/something/) [and](/en/post/and/) [another](/en/post/another/) [surface](/en/post/surface/) [to](/en/post/to/) [prevent](/en/post/prevent/) discomfort [or](/en/post/or/) [damage](/en/post/damage/).
-2. [To](/en/post/to/) [ease](/en/post/ease/) [the](/en/post/the/) [impact](/en/post/impact/) [or](/en/post/or/) severity [of](/en/post/of/) [a](/en/post/a/) [situation](/en/post/situation/) (e.g., [by](/en/post/by/) providing [financial](/en/post/financial/) [support](/en/post/support/)).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [place](/post/place/) [or](/post/or/) [provide](/post/provide/) [a](/post/a/) [cushion](/post/cushion/) [between](/post/between/) [something](/post/something/) [and](/post/and/) [another](/post/another/) [surface](/post/surface/) [to](/post/to/) [prevent](/post/prevent/) discomfort [or](/post/or/) [damage](/post/damage/).
+2. [To](/post/to/) [ease](/post/ease/) [the](/post/the/) [impact](/post/impact/) [or](/post/or/) severity [of](/post/of/) [a](/post/a/) [situation](/post/situation/) (e.g., [by](/post/by/) providing [financial](/post/financial/) [support](/post/support/)).
 
 ## Phrases
-- "[Place](/en/post/place/) [a](/en/post/a/) [cushion](/en/post/cushion/) [on](/en/post/on/) [the](/en/post/the/) [chair](/en/post/chair/)"
-- "[Cushion](/en/post/cushion/) [the](/en/post/the/) [blow](/en/post/blow/)"
-- "Cushioning [the](/en/post/the/) [fall](/en/post/fall/)"
+- "[Place](/post/place/) [a](/post/a/) [cushion](/post/cushion/) [on](/post/on/) [the](/post/the/) [chair](/post/chair/)"
+- "[Cushion](/post/cushion/) [the](/post/the/) [blow](/post/blow/)"
+- "Cushioning [the](/post/the/) [fall](/post/fall/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) added [extra](/en/post/extra/) cushions [to](/en/post/to/) [the](/en/post/the/) sofa [for](/en/post/for/) added [comfort](/en/post/comfort/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) [will](/en/post/will/) [cushion](/en/post/cushion/) [the](/en/post/the/) [company](/en/post/company/) [against](/en/post/against/) [potential](/en/post/potential/) losses."
-- **[Figure](/en/post/figure/) [of](/en/post/of/) [speech](/en/post/speech/)**: "[His](/en/post/his/) words were [a](/en/post/a/) [cushion](/en/post/cushion/) [to](/en/post/to/) [her](/en/post/her/) feelings [after](/en/post/after/) [the](/en/post/the/) [harsh](/en/post/harsh/) [criticism](/en/post/criticism/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) added [extra](/post/extra/) cushions [to](/post/to/) [the](/post/the/) sofa [for](/post/for/) added [comfort](/post/comfort/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) [will](/post/will/) [cushion](/post/cushion/) [the](/post/the/) [company](/post/company/) [against](/post/against/) [potential](/post/potential/) losses."
+- **[Figure](/post/figure/) [of](/post/of/) [speech](/post/speech/)**: "[His](/post/his/) words were [a](/post/a/) [cushion](/post/cushion/) [to](/post/to/) [her](/post/her/) feelings [after](/post/after/) [the](/post/the/) [harsh](/post/harsh/) [criticism](/post/criticism/)."
 
 ## Synonyms
-- [Pillow](/en/post/pillow/)
-- [Pad](/en/post/pad/)
+- [Pillow](/post/pillow/)
+- [Pad](/post/pad/)
 - Buffer
-- [Protection](/en/post/protection/)
-- [Support](/en/post/support/)
-- [Relief](/en/post/relief/)
+- [Protection](/post/protection/)
+- [Support](/post/support/)
+- [Relief](/post/relief/)
 - Softening
 - Assuaging
 

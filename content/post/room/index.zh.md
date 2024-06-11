@@ -12,22 +12,22 @@ keywords = ['ai words', 'room']
 
 ## 释义
 - **名词 n**:
-1. 房间：一个有墙、门和窗户的室内空间，通常用于特定目的，如卧室、办公室或教室。例如: "I [have](/post/have/) [a](/post/a/) [small](/post/small/) [room](/post/room/) [on](/post/on/) [the](/post/the/) [third](/post/third/) [floor](/post/floor/)."
-2. 空间：某个物体或人所占据的物理空间。例如: "There's [enough](/post/enough/) [room](/post/room/) [for](/post/for/) [everyone](/post/everyone/) [to](/post/to/) [sit](/post/sit/) comfortably."
+1. 房间：一个有墙、门和窗户的室内空间，通常用于特定目的，如卧室、办公室或教室。例如: "I [have](/zh/post/have/) [a](/zh/post/a/) [small](/zh/post/small/) [room](/zh/post/room/) [on](/zh/post/on/) [the](/zh/post/the/) [third](/zh/post/third/) [floor](/zh/post/floor/)."
+2. 空间：某个物体或人所占据的物理空间。例如: "There's [enough](/zh/post/enough/) [room](/zh/post/room/) [for](/zh/post/for/) [everyone](/zh/post/everyone/) [to](/zh/post/to/) [sit](/zh/post/sit/) comfortably."
 
 ## 短语
-- "[living](/post/living/) [room](/post/room/)" 客厅
+- "[living](/zh/post/living/) [room](/zh/post/room/)" 客厅
 - "bedroom" 卧室
-- "[study](/post/study/) [room](/post/room/)" 书房
-- "[storage](/post/storage/) [room](/post/room/)" 储藏室
+- "[study](/zh/post/study/) [room](/zh/post/room/)" 书房
+- "[storage](/zh/post/storage/) [room](/zh/post/room/)" 储藏室
 
 ## 例句
-- 名词: "[The](/post/the/) [hotel](/post/hotel/) offered [us](/post/us/) [a](/post/a/) spacious [room](/post/room/) [with](/post/with/) [a](/post/a/) [beautiful](/post/beautiful/) [view](/post/view/)."
-- 名词（空间）: "[The](/post/the/) [table](/post/table/) takes [up](/post/up/) [too](/post/too/) [much](/post/much/) [room](/post/room/) [in](/post/in/) [the](/post/the/) [kitchen](/post/kitchen/)."
+- 名词: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) offered [us](/zh/post/us/) [a](/zh/post/a/) spacious [room](/zh/post/room/) [with](/zh/post/with/) [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [view](/zh/post/view/)."
+- 名词（空间）: "[The](/zh/post/the/) [table](/zh/post/table/) takes [up](/zh/post/up/) [too](/zh/post/too/) [much](/zh/post/much/) [room](/zh/post/room/) [in](/zh/post/in/) [the](/zh/post/the/) [kitchen](/zh/post/kitchen/)."
 
 ## 同义词
-- [space](/post/space/)
-- [chamber](/post/chamber/)
+- [space](/zh/post/space/)
+- [chamber](/zh/post/chamber/)
 - compartment
-- [area](/post/area/)
+- [area](/zh/post/area/)
 - quarters

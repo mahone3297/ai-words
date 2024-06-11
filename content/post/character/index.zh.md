@@ -11,23 +11,23 @@ keywords = ['ai words', 'character']
 /ˈkærəktər/
 
 ## 释义
-- **名词 (n)**: 1. 字符，文字。例如: "[In](/post/in/) Chinese, [there](/post/there/) are thousands [of](/post/of/) characters [to](/post/to/) [learn](/post/learn/)."
-            2. 个性，性格。例如: "[She](/post/she/) has [a](/post/a/) [strong](/post/strong/) [and](/post/and/) determined [character](/post/character/)."
-            3. 角色，人物。例如: "[The](/post/the/) [main](/post/main/) [character](/post/character/) [in](/post/in/) [the](/post/the/) [novel](/post/novel/) is [a](/post/a/) detective."
+- **名词 (n)**: 1. 字符，文字。例如: "[In](/zh/post/in/) Chinese, [there](/zh/post/there/) are thousands [of](/zh/post/of/) characters [to](/zh/post/to/) [learn](/zh/post/learn/)."
+            2. 个性，性格。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [strong](/zh/post/strong/) [and](/zh/post/and/) determined [character](/zh/post/character/)."
+            3. 角色，人物。例如: "[The](/zh/post/the/) [main](/zh/post/main/) [character](/zh/post/character/) [in](/zh/post/in/) [the](/zh/post/the/) [novel](/zh/post/novel/) is [a](/zh/post/a/) detective."
 
-- **形容词 (adj)**: 具有特定特征的。例如: "[The](/post/the/) film's [character](/post/character/) actors brought [depth](/post/depth/) [to](/post/to/) [their](/post/their/) roles."
+- **形容词 (adj)**: 具有特定特征的。例如: "[The](/zh/post/the/) film's [character](/zh/post/character/) actors brought [depth](/zh/post/depth/) [to](/zh/post/to/) [their](/zh/post/their/) roles."
 
 ## 短语
-- "[Character](/post/character/) [building](/post/building/)" 指培养个人品质和性格的过程。
-- "Well-defined [character](/post/character/)" 指特征清晰明确的人或事物。
+- "[Character](/zh/post/character/) [building](/zh/post/building/)" 指培养个人品质和性格的过程。
+- "Well-defined [character](/zh/post/character/)" 指特征清晰明确的人或事物。
 
 ## 例句
-- 名词: "[The](/post/the/) [ancient](/post/ancient/) Chinese [character](/post/character/) [for](/post/for/) '[love](/post/love/)' is composed [of](/post/of/) [several](/post/several/) strokes."
-- 形容词: "[His](/post/his/) perseverance is [a](/post/a/) testament [to](/post/to/) [his](/post/his/) [strong](/post/strong/) [character](/post/character/)."
+- 名词: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) Chinese [character](/zh/post/character/) [for](/zh/post/for/) '[love](/zh/post/love/)' is composed [of](/zh/post/of/) [several](/zh/post/several/) strokes."
+- 形容词: "[His](/zh/post/his/) perseverance is [a](/zh/post/a/) testament [to](/zh/post/to/) [his](/zh/post/his/) [strong](/zh/post/strong/) [character](/zh/post/character/)."
 
 ## 同义词
 - Personality
-- [Nature](/post/nature/)
+- [Nature](/zh/post/nature/)
 - Trait
-- [Feature](/post/feature/)
+- [Feature](/zh/post/feature/)
 - Disposition

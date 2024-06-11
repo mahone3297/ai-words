@@ -7,36 +7,36 @@ description = '[ədˈvais] n.劝告；忠告；意见'
 keywords = ['ai words', 'advice']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ədˈvaɪs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[advice](/en/post/advice/)**: [[noun](/en/post/noun/)] [A](/en/post/a/) [suggestion](/en/post/suggestion/) [or](/en/post/or/) [opinion](/en/post/opinion/) given [to](/en/post/to/) [help](/en/post/help/) [someone](/en/post/someone/) [make](/en/post/make/) [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [improve](/en/post/improve/) [a](/en/post/a/) [situation](/en/post/situation/). [Example](/en/post/example/): "[She](/en/post/she/) sought [professional](/en/post/professional/) [advice](/en/post/advice/) [on](/en/post/on/) [her](/en/post/her/) [career](/en/post/career/) [path](/en/post/path/)."
-- **counsel**: [[noun](/en/post/noun/)] [Guidance](/en/post/guidance/) [or](/en/post/or/) [instruction](/en/post/instruction/), [especially](/en/post/especially/) [in](/en/post/in/) matters [of](/en/post/of/) [conduct](/en/post/conduct/) [or](/en/post/or/) [choice](/en/post/choice/). [Example](/en/post/example/): "[Her](/en/post/her/) mentor [provided](/en/post/provided/) [valuable](/en/post/valuable/) counsel [on](/en/post/on/) [how](/en/post/how/) [to](/en/post/to/) [handle](/en/post/handle/) [the](/en/post/the/) [situation](/en/post/situation/)."
+### [Noun](/post/noun/)
+- **[advice](/post/advice/)**: [[noun](/post/noun/)] [A](/post/a/) [suggestion](/post/suggestion/) [or](/post/or/) [opinion](/post/opinion/) given [to](/post/to/) [help](/post/help/) [someone](/post/someone/) [make](/post/make/) [a](/post/a/) [decision](/post/decision/) [or](/post/or/) [improve](/post/improve/) [a](/post/a/) [situation](/post/situation/). [Example](/post/example/): "[She](/post/she/) sought [professional](/post/professional/) [advice](/post/advice/) [on](/post/on/) [her](/post/her/) [career](/post/career/) [path](/post/path/)."
+- **counsel**: [[noun](/post/noun/)] [Guidance](/post/guidance/) [or](/post/or/) [instruction](/post/instruction/), [especially](/post/especially/) [in](/post/in/) matters [of](/post/of/) [conduct](/post/conduct/) [or](/post/or/) [choice](/post/choice/). [Example](/post/example/): "[Her](/post/her/) mentor [provided](/post/provided/) [valuable](/post/valuable/) counsel [on](/post/on/) [how](/post/how/) [to](/post/to/) [handle](/post/handle/) [the](/post/the/) [situation](/post/situation/)."
 
-### [Verb](/en/post/verb/)
-- **[advise](/en/post/advise/)**: [[verb](/en/post/verb/)] [To](/en/post/to/) [give](/en/post/give/) suggestions [or](/en/post/or/) recommendations [to](/en/post/to/) [someone](/en/post/someone/). [Example](/en/post/example/): "[The](/en/post/the/) [doctor](/en/post/doctor/) advised [her](/en/post/her/) [to](/en/post/to/) [change](/en/post/change/) [her](/en/post/her/) diet."
-- **[recommend](/en/post/recommend/)**: [[verb](/en/post/verb/)] [To](/en/post/to/) [suggest](/en/post/suggest/) [something](/en/post/something/) [as](/en/post/as/) [a](/en/post/a/) [good](/en/post/good/) [idea](/en/post/idea/) [or](/en/post/or/) [suitable](/en/post/suitable/) [option](/en/post/option/). [Example](/en/post/example/): "I [highly](/en/post/highly/) [recommend](/en/post/recommend/) [reading](/en/post/reading/) [this](/en/post/this/) [book](/en/post/book/)."
+### [Verb](/post/verb/)
+- **[advise](/post/advise/)**: [[verb](/post/verb/)] [To](/post/to/) [give](/post/give/) suggestions [or](/post/or/) recommendations [to](/post/to/) [someone](/post/someone/). [Example](/post/example/): "[The](/post/the/) [doctor](/post/doctor/) advised [her](/post/her/) [to](/post/to/) [change](/post/change/) [her](/post/her/) diet."
+- **[recommend](/post/recommend/)**: [[verb](/post/verb/)] [To](/post/to/) [suggest](/post/suggest/) [something](/post/something/) [as](/post/as/) [a](/post/a/) [good](/post/good/) [idea](/post/idea/) [or](/post/or/) [suitable](/post/suitable/) [option](/post/option/). [Example](/post/example/): "I [highly](/post/highly/) [recommend](/post/recommend/) [reading](/post/reading/) [this](/post/this/) [book](/post/book/)."
 
 ### Interjection
-- [Not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) an interjection, [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) humorously [or](/en/post/or/) playfully [to](/en/post/to/) [introduce](/en/post/introduce/) [advice](/en/post/advice/). [Example](/en/post/example/): "[Listen](/en/post/listen/) [up](/en/post/up/), here's [some](/en/post/some/) [advice](/en/post/advice/)!"
+- [Not](/post/not/) typically [used](/post/used/) [as](/post/as/) an interjection, [but](/post/but/) [can](/post/can/) [be](/post/be/) [used](/post/used/) humorously [or](/post/or/) playfully [to](/post/to/) [introduce](/post/introduce/) [advice](/post/advice/). [Example](/post/example/): "[Listen](/post/listen/) [up](/post/up/), here's [some](/post/some/) [advice](/post/advice/)!"
 
 ## Phrases
-- "[Take](/en/post/take/) someone's [advice](/en/post/advice/)" [means](/en/post/means/) [to](/en/post/to/) [follow](/en/post/follow/) [or](/en/post/or/) [consider](/en/post/consider/) [someone](/en/post/someone/) else's suggestions.
-- "[Good](/en/post/good/) [advice](/en/post/advice/)" signifies [useful](/en/post/useful/) [or](/en/post/or/) [sound](/en/post/sound/) suggestions.
-- "[Act](/en/post/act/) [on](/en/post/on/) one's [own](/en/post/own/) [advice](/en/post/advice/)" [means](/en/post/means/) [to](/en/post/to/) [follow](/en/post/follow/) one's [own](/en/post/own/) suggestions.
+- "[Take](/post/take/) someone's [advice](/post/advice/)" [means](/post/means/) [to](/post/to/) [follow](/post/follow/) [or](/post/or/) [consider](/post/consider/) [someone](/post/someone/) else's suggestions.
+- "[Good](/post/good/) [advice](/post/advice/)" signifies [useful](/post/useful/) [or](/post/or/) [sound](/post/sound/) suggestions.
+- "[Act](/post/act/) [on](/post/on/) one's [own](/post/own/) [advice](/post/advice/)" [means](/post/means/) [to](/post/to/) [follow](/post/follow/) one's [own](/post/own/) suggestions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) sought [financial](/en/post/financial/) [advice](/en/post/advice/) [from](/en/post/from/) [a](/en/post/a/) certified planner."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) therapist advised [her](/en/post/her/) clients [to](/en/post/to/) [practice](/en/post/practice/) mindfulness [daily](/en/post/daily/)."
-- **[Not](/en/post/not/) [applicable](/en/post/applicable/)** ([as](/en/post/as/) an interjection)
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) sought [financial](/post/financial/) [advice](/post/advice/) [from](/post/from/) [a](/post/a/) certified planner."
+- **[Verb](/post/verb/)**: "[The](/post/the/) therapist advised [her](/post/her/) clients [to](/post/to/) [practice](/post/practice/) mindfulness [daily](/post/daily/)."
+- **[Not](/post/not/) [applicable](/post/applicable/)** ([as](/post/as/) an interjection)
 
 ## Synonyms
-- [Recommendation](/en/post/recommendation/)
+- [Recommendation](/post/recommendation/)
 - Counsel
-- [Guidance](/en/post/guidance/)
-- [Suggestion](/en/post/suggestion/)
-- [Tip](/en/post/tip/)
-- [Word](/en/post/word/) [of](/en/post/of/) [wisdom](/en/post/wisdom/)
-- [Recommendation](/en/post/recommendation/)
+- [Guidance](/post/guidance/)
+- [Suggestion](/post/suggestion/)
+- [Tip](/post/tip/)
+- [Word](/post/word/) [of](/post/of/) [wisdom](/post/wisdom/)
+- [Recommendation](/post/recommendation/)

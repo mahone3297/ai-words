@@ -7,36 +7,36 @@ description = '[ˈgriːtiŋ] n.问候，招呼，致敬'
 keywords = ['ai words', 'greeting']
 +++
 
-## [Word](/en/post/word/): [Greeting](/en/post/greeting/)
+## [Word](/post/word/): [Greeting](/post/greeting/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡriːtɪŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [action](/en/post/action/) expressing [good](/en/post/good/) wishes [or](/en/post/or/) [recognition](/en/post/recognition/) [when](/en/post/when/) [meeting](/en/post/meeting/) [or](/en/post/or/) welcoming [someone](/en/post/someone/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [such](/en/post/such/) [expression](/en/post/expression/). [Example](/en/post/example/): "[A](/en/post/a/) [friendly](/en/post/friendly/) [greeting](/en/post/greeting/) was exchanged [between](/en/post/between/) [old](/en/post/old/) friends."
-  - [Phrase](/en/post/phrase/): "[a](/en/post/a/) [formal](/en/post/formal/) [greeting](/en/post/greeting/)" (e.g., "[They](/en/post/they/) exchanged [formal](/en/post/formal/) greetings [before](/en/post/before/) [beginning](/en/post/beginning/) [the](/en/post/the/) [meeting](/en/post/meeting/).")
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) acknowledge someone's [presence](/en/post/presence/) [with](/en/post/with/) [a](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [gesture](/en/post/gesture/) [of](/en/post/of/) [welcome](/en/post/welcome/) [or](/en/post/or/) salutation. [Example](/en/post/example/): "[Upon](/en/post/upon/) entering [the](/en/post/the/) [store](/en/post/store/), [he](/en/post/he/) greeted [the](/en/post/the/) [staff](/en/post/staff/) warmly."
+- **[Noun](/post/noun/)**: [A](/post/a/) [word](/post/word/) [or](/post/or/) [action](/post/action/) expressing [good](/post/good/) wishes [or](/post/or/) [recognition](/post/recognition/) [when](/post/when/) [meeting](/post/meeting/) [or](/post/or/) welcoming [someone](/post/someone/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) [such](/post/such/) [expression](/post/expression/). [Example](/post/example/): "[A](/post/a/) [friendly](/post/friendly/) [greeting](/post/greeting/) was exchanged [between](/post/between/) [old](/post/old/) friends."
+  - [Phrase](/post/phrase/): "[a](/post/a/) [formal](/post/formal/) [greeting](/post/greeting/)" (e.g., "[They](/post/they/) exchanged [formal](/post/formal/) greetings [before](/post/before/) [beginning](/post/beginning/) [the](/post/the/) [meeting](/post/meeting/).")
+- **[Verb](/post/verb/)**: [To](/post/to/) acknowledge someone's [presence](/post/presence/) [with](/post/with/) [a](/post/a/) [word](/post/word/) [or](/post/or/) [gesture](/post/gesture/) [of](/post/of/) [welcome](/post/welcome/) [or](/post/or/) salutation. [Example](/post/example/): "[Upon](/post/upon/) entering [the](/post/the/) [store](/post/store/), [he](/post/he/) greeted [the](/post/the/) [staff](/post/staff/) warmly."
 
 ## Phrases
-- "[Give](/en/post/give/) one's greetings" [means](/en/post/means/) [to](/en/post/to/) [convey](/en/post/convey/) one's regards [or](/en/post/or/) [best](/en/post/best/) wishes [to](/en/post/to/) [someone](/en/post/someone/).
-- "[Greeting](/en/post/greeting/) [card](/en/post/card/)" is [a](/en/post/a/) [card](/en/post/card/) sent [to](/en/post/to/) [someone](/en/post/someone/) [on](/en/post/on/) [a](/en/post/a/) [special](/en/post/special/) [occasion](/en/post/occasion/), [often](/en/post/often/) containing [a](/en/post/a/) [message](/en/post/message/) [of](/en/post/of/) goodwill.
-- "Greetings [from](/en/post/from/)..." is an [expression](/en/post/expression/) [used](/en/post/used/) [when](/en/post/when/) sending [someone](/en/post/someone/) [a](/en/post/a/) [message](/en/post/message/) [or](/en/post/or/) postcard [from](/en/post/from/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/).
+- "[Give](/post/give/) one's greetings" [means](/post/means/) [to](/post/to/) [convey](/post/convey/) one's regards [or](/post/or/) [best](/post/best/) wishes [to](/post/to/) [someone](/post/someone/).
+- "[Greeting](/post/greeting/) [card](/post/card/)" is [a](/post/a/) [card](/post/card/) sent [to](/post/to/) [someone](/post/someone/) [on](/post/on/) [a](/post/a/) [special](/post/special/) [occasion](/post/occasion/), [often](/post/often/) containing [a](/post/a/) [message](/post/message/) [of](/post/of/) goodwill.
+- "Greetings [from](/post/from/)..." is an [expression](/post/expression/) [used](/post/used/) [when](/post/when/) sending [someone](/post/someone/) [a](/post/a/) [message](/post/message/) [or](/post/or/) postcard [from](/post/from/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) cheery [greeting](/en/post/greeting/) made [everyone](/en/post/everyone/) [feel](/en/post/feel/) [welcome](/en/post/welcome/)."
-- **[Verb](/en/post/verb/)**: "[As](/en/post/as/) [she](/en/post/she/) entered [the](/en/post/the/) [classroom](/en/post/classroom/), [the](/en/post/the/) [teacher](/en/post/teacher/) greeted [each](/en/post/each/) [student](/en/post/student/) [by](/en/post/by/) [name](/en/post/name/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) cheery [greeting](/post/greeting/) made [everyone](/post/everyone/) [feel](/post/feel/) [welcome](/post/welcome/)."
+- **[Verb](/post/verb/)**: "[As](/post/as/) [she](/post/she/) entered [the](/post/the/) [classroom](/post/classroom/), [the](/post/the/) [teacher](/post/teacher/) greeted [each](/post/each/) [student](/post/student/) [by](/post/by/) [name](/post/name/)."
 
 ## Synonyms
 - Salutation
-- [Hello](/en/post/hello/)
-- [Hi](/en/post/hi/)
-- [Welcome](/en/post/welcome/)
+- [Hello](/post/hello/)
+- [Hi](/post/hi/)
+- [Welcome](/post/welcome/)
 - Hail
-- Howdy (informal, [mainly](/en/post/mainly/) [used](/en/post/used/) [in](/en/post/in/) [American](/en/post/american/) English)
-- [Good](/en/post/good/) [day](/en/post/day/)
+- Howdy (informal, [mainly](/post/mainly/) [used](/post/used/) [in](/post/in/) [American](/post/american/) English)
+- [Good](/post/good/) [day](/post/day/)
 - Hiya (informal, British English)
 - Hey (informal) 
 
 ## Phrasal Verbs
-- "[to](/en/post/to/) [greet](/en/post/greet/) [someone](/en/post/someone/) [with](/en/post/with/) [something](/en/post/something/)": [To](/en/post/to/) [welcome](/en/post/welcome/) [someone](/en/post/someone/) using [a](/en/post/a/) [specific](/en/post/specific/) [action](/en/post/action/) [or](/en/post/or/) [object](/en/post/object/), e.g., "[She](/en/post/she/) greeted [him](/en/post/him/) [with](/en/post/with/) [a](/en/post/a/) hug."
-- "[to](/en/post/to/) [greet](/en/post/greet/) [someone](/en/post/someone/) [on](/en/post/on/) [behalf](/en/post/behalf/) [of](/en/post/of/) [someone](/en/post/someone/) [else](/en/post/else/)": [To](/en/post/to/) [extend](/en/post/extend/) [a](/en/post/a/) [greeting](/en/post/greeting/) [to](/en/post/to/) [someone](/en/post/someone/) [on](/en/post/on/) [someone](/en/post/someone/) else's [behalf](/en/post/behalf/), e.g., "I'm [greeting](/en/post/greeting/) [you](/en/post/you/) [on](/en/post/on/) [behalf](/en/post/behalf/) [of](/en/post/of/) [the](/en/post/the/) [entire](/en/post/entire/) [team](/en/post/team/)."
+- "[to](/post/to/) [greet](/post/greet/) [someone](/post/someone/) [with](/post/with/) [something](/post/something/)": [To](/post/to/) [welcome](/post/welcome/) [someone](/post/someone/) using [a](/post/a/) [specific](/post/specific/) [action](/post/action/) [or](/post/or/) [object](/post/object/), e.g., "[She](/post/she/) greeted [him](/post/him/) [with](/post/with/) [a](/post/a/) hug."
+- "[to](/post/to/) [greet](/post/greet/) [someone](/post/someone/) [on](/post/on/) [behalf](/post/behalf/) [of](/post/of/) [someone](/post/someone/) [else](/post/else/)": [To](/post/to/) [extend](/post/extend/) [a](/post/a/) [greeting](/post/greeting/) [to](/post/to/) [someone](/post/someone/) [on](/post/on/) [someone](/post/someone/) else's [behalf](/post/behalf/), e.g., "I'm [greeting](/post/greeting/) [you](/post/you/) [on](/post/on/) [behalf](/post/behalf/) [of](/post/of/) [the](/post/the/) [entire](/post/entire/) [team](/post/team/)."

@@ -7,41 +7,41 @@ description = '[ˈberi] vt.埋葬，葬；埋藏'
 keywords = ['ai words', 'bury']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbʌri/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Burial**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) placing [a](/en/post/a/) [dead](/en/post/dead/) [body](/en/post/body/) [in](/en/post/in/) [the](/en/post/the/) [ground](/en/post/ground/) [or](/en/post/or/) [a](/en/post/a/) [container](/en/post/container/), typically [in](/en/post/in/) [a](/en/post/a/) [grave](/en/post/grave/), [after](/en/post/after/) [death](/en/post/death/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [funeral](/en/post/funeral/) [service](/en/post/service/) included [a](/en/post/a/) [solemn](/en/post/solemn/) burial [ceremony](/en/post/ceremony/)."
-- **Burial [place](/en/post/place/)**: [A](/en/post/a/) [location](/en/post/location/) [where](/en/post/where/) deceased individuals are buried, [often](/en/post/often/) [a](/en/post/a/) cemetery [or](/en/post/or/) [memorial](/en/post/memorial/) [site](/en/post/site/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) ancestors' graves are marked [with](/en/post/with/) stones [in](/en/post/in/) [the](/en/post/the/) [family](/en/post/family/) [plot](/en/post/plot/)."
+### [Noun](/post/noun/)
+- **Burial**: [The](/post/the/) [act](/post/act/) [of](/post/of/) placing [a](/post/a/) [dead](/post/dead/) [body](/post/body/) [in](/post/in/) [the](/post/the/) [ground](/post/ground/) [or](/post/or/) [a](/post/a/) [container](/post/container/), typically [in](/post/in/) [a](/post/a/) [grave](/post/grave/), [after](/post/after/) [death](/post/death/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [funeral](/post/funeral/) [service](/post/service/) included [a](/post/a/) [solemn](/post/solemn/) burial [ceremony](/post/ceremony/)."
+- **Burial [place](/post/place/)**: [A](/post/a/) [location](/post/location/) [where](/post/where/) deceased individuals are buried, [often](/post/often/) [a](/post/a/) cemetery [or](/post/or/) [memorial](/post/memorial/) [site](/post/site/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) ancestors' graves are marked [with](/post/with/) stones [in](/post/in/) [the](/post/the/) [family](/post/family/) [plot](/post/plot/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [bury](/en/post/bury/)**: [To](/en/post/to/) [put](/en/post/put/) [something](/en/post/something/), [usually](/en/post/usually/) [a](/en/post/a/) [dead](/en/post/dead/) [body](/en/post/body/), [underground](/en/post/underground/) [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) [container](/en/post/container/) [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) interment. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) buried [their](/en/post/their/) [beloved](/en/post/beloved/) [pet](/en/post/pet/) [in](/en/post/in/) [a](/en/post/a/) [quiet](/en/post/quiet/) [corner](/en/post/corner/) [of](/en/post/of/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[To](/en/post/to/) [bury](/en/post/bury/) [oneself](/en/post/oneself/)**: [To](/en/post/to/) [become](/en/post/become/) absorbed [in](/en/post/in/) an [activity](/en/post/activity/) [or](/en/post/or/) [thought](/en/post/thought/), [often](/en/post/often/) [to](/en/post/to/) [the](/en/post/the/) [point](/en/post/point/) [of](/en/post/of/) distraction. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) buried [herself](/en/post/herself/) [in](/en/post/in/) [her](/en/post/her/) [work](/en/post/work/), ignoring [the](/en/post/the/) [outside](/en/post/outside/) [world](/en/post/world/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [bury](/post/bury/)**: [To](/post/to/) [put](/post/put/) [something](/post/something/), [usually](/post/usually/) [a](/post/a/) [dead](/post/dead/) [body](/post/body/), [underground](/post/underground/) [or](/post/or/) [in](/post/in/) [a](/post/a/) [container](/post/container/) [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) interment. [For](/post/for/) [example](/post/example/): "[They](/post/they/) buried [their](/post/their/) [beloved](/post/beloved/) [pet](/post/pet/) [in](/post/in/) [a](/post/a/) [quiet](/post/quiet/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [park](/post/park/)."
+- **[To](/post/to/) [bury](/post/bury/) [oneself](/post/oneself/)**: [To](/post/to/) [become](/post/become/) absorbed [in](/post/in/) an [activity](/post/activity/) [or](/post/or/) [thought](/post/thought/), [often](/post/often/) [to](/post/to/) [the](/post/the/) [point](/post/point/) [of](/post/of/) distraction. [For](/post/for/) [example](/post/example/): "[She](/post/she/) buried [herself](/post/herself/) [in](/post/in/) [her](/post/her/) [work](/post/work/), ignoring [the](/post/the/) [outside](/post/outside/) [world](/post/world/)."
 
-### [Adjective](/en/post/adjective/)
-- **Burial**: Relating [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) burying [or](/en/post/or/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) buried. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) burial [plot](/en/post/plot/) is [a](/en/post/a/) designated [area](/en/post/area/) [for](/en/post/for/) burial."
+### [Adjective](/post/adjective/)
+- **Burial**: Relating [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) burying [or](/post/or/) [the](/post/the/) [act](/post/act/) [of](/post/of/) [being](/post/being/) buried. [For](/post/for/) [example](/post/example/): "[A](/post/a/) burial [plot](/post/plot/) is [a](/post/a/) designated [area](/post/area/) [for](/post/for/) burial."
 
 ## Phrases
-- "Burial [plot](/en/post/plot/)" is [a](/en/post/a/) designated [area](/en/post/area/) [for](/en/post/for/) [a](/en/post/a/) burial.
-- "Burial rights" [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [legal](/en/post/legal/) [permission](/en/post/permission/) [to](/en/post/to/) [bury](/en/post/bury/) [someone](/en/post/someone/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/).
-- "Burial customs [vary](/en/post/vary/) [across](/en/post/across/) cultures" highlights [the](/en/post/the/) differences [in](/en/post/in/) burial practices [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/).
+- "Burial [plot](/post/plot/)" is [a](/post/a/) designated [area](/post/area/) [for](/post/for/) [a](/post/a/) burial.
+- "Burial rights" [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [legal](/post/legal/) [permission](/post/permission/) [to](/post/to/) [bury](/post/bury/) [someone](/post/someone/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/).
+- "Burial customs [vary](/post/vary/) [across](/post/across/) cultures" highlights [the](/post/the/) differences [in](/post/in/) burial practices [around](/post/around/) [the](/post/the/) [world](/post/world/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) soldiers were given [a](/en/post/a/) hero's burial [when](/en/post/when/) [they](/en/post/they/) were laid [to](/en/post/to/) [rest](/en/post/rest/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [funeral](/en/post/funeral/), [the](/en/post/the/) mourners helped [to](/en/post/to/) [bury](/en/post/bury/) [the](/en/post/the/) casket [in](/en/post/in/) [the](/en/post/the/) [ground](/en/post/ground/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) burial [site](/en/post/site/) held countless artifacts [from](/en/post/from/) [the](/en/post/the/) [past](/en/post/past/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) soldiers were given [a](/post/a/) hero's burial [when](/post/when/) [they](/post/they/) were laid [to](/post/to/) [rest](/post/rest/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [funeral](/post/funeral/), [the](/post/the/) mourners helped [to](/post/to/) [bury](/post/bury/) [the](/post/the/) casket [in](/post/in/) [the](/post/the/) [ground](/post/ground/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [ancient](/post/ancient/) burial [site](/post/site/) held countless artifacts [from](/post/from/) [the](/post/the/) [past](/post/past/)."
 
 ## Synonyms
 - Entomb
 - Inter
-- [Lay](/en/post/lay/) [to](/en/post/to/) [rest](/en/post/rest/)
-- [Conceal](/en/post/conceal/)
+- [Lay](/post/lay/) [to](/post/to/) [rest](/post/rest/)
+- [Conceal](/post/conceal/)
 - Concealment
 
 ## Antonyms
 - Exhume
-- [Uncover](/en/post/uncover/)
-- [Raise](/en/post/raise/)
-- [Reveal](/en/post/reveal/)
-- [Surface](/en/post/surface/)
+- [Uncover](/post/uncover/)
+- [Raise](/post/raise/)
+- [Reveal](/post/reveal/)
+- [Surface](/post/surface/)

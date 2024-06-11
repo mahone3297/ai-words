@@ -7,37 +7,37 @@ description = '[hjuːdʒ] a.巨大的，庞大的'
 keywords = ['ai words', 'huge']
 +++
 
-## [Word](/en/post/word/): [Huge](/en/post/huge/)
+## [Word](/post/word/): [Huge](/post/huge/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /hjuːdʒ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Extremely](/en/post/extremely/) [large](/en/post/large/) [in](/en/post/in/) [size](/en/post/size/), [extent](/en/post/extent/), [or](/en/post/or/) [amount](/en/post/amount/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [imply](/en/post/imply/) [that](/en/post/that/) [something](/en/post/something/) is impressively [great](/en/post/great/) [or](/en/post/or/) [substantial](/en/post/substantial/).
+- **[Adjective](/post/adjective/)**: [Extremely](/post/extremely/) [large](/post/large/) [in](/post/in/) [size](/post/size/), [extent](/post/extent/), [or](/post/or/) [amount](/post/amount/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [imply](/post/imply/) [that](/post/that/) [something](/post/something/) is impressively [great](/post/great/) [or](/post/or/) [substantial](/post/substantial/).
 
 ### Examples
-- _**[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [huge](/en/post/huge/) [ship](/en/post/ship/) dominated [the](/en/post/the/) harbor._
-  - _The [project](/en/post/project/) requires [a](/en/post/a/) [huge](/en/post/huge/) [investment](/en/post/investment/) [of](/en/post/of/) [time](/en/post/time/) [and](/en/post/and/) resources._
-  - _She was overwhelmed [by](/en/post/by/) [the](/en/post/the/) [huge](/en/post/huge/) [responsibility](/en/post/responsibility/)._
+- _**[Adjective](/post/adjective/)**: [The](/post/the/) [huge](/post/huge/) [ship](/post/ship/) dominated [the](/post/the/) harbor._
+  - _The [project](/post/project/) requires [a](/post/a/) [huge](/post/huge/) [investment](/post/investment/) [of](/post/of/) [time](/post/time/) [and](/post/and/) resources._
+  - _She was overwhelmed [by](/post/by/) [the](/post/the/) [huge](/post/huge/) [responsibility](/post/responsibility/)._
 
 ## Phrases
-- "[A](/en/post/a/) [huge](/en/post/huge/) [success](/en/post/success/)": Describing [something](/en/post/something/) [that](/en/post/that/) has been [very](/en/post/very/) [successful](/en/post/successful/) [on](/en/post/on/) [a](/en/post/a/) [grand](/en/post/grand/) [scale](/en/post/scale/).
-- "[Huge](/en/post/huge/) [impact](/en/post/impact/)": Refers [to](/en/post/to/) [something](/en/post/something/) having [a](/en/post/a/) [significant](/en/post/significant/) [or](/en/post/or/) profound [effect](/en/post/effect/).
-- "[Huge](/en/post/huge/) [difference](/en/post/difference/)": Indicates [that](/en/post/that/) [two](/en/post/two/) things are significantly [different](/en/post/different/) [in](/en/post/in/) magnitude [or](/en/post/or/) [importance](/en/post/importance/).
+- "[A](/post/a/) [huge](/post/huge/) [success](/post/success/)": Describing [something](/post/something/) [that](/post/that/) has been [very](/post/very/) [successful](/post/successful/) [on](/post/on/) [a](/post/a/) [grand](/post/grand/) [scale](/post/scale/).
+- "[Huge](/post/huge/) [impact](/post/impact/)": Refers [to](/post/to/) [something](/post/something/) having [a](/post/a/) [significant](/post/significant/) [or](/post/or/) profound [effect](/post/effect/).
+- "[Huge](/post/huge/) [difference](/post/difference/)": Indicates [that](/post/that/) [two](/post/two/) things are significantly [different](/post/different/) [in](/post/in/) magnitude [or](/post/or/) [importance](/post/importance/).
 
-## [Example](/en/post/example/) Sentences
-- _The elephant's [huge](/en/post/huge/) ears flapped [gently](/en/post/gently/) [in](/en/post/in/) [the](/en/post/the/) [breeze](/en/post/breeze/)._
-- _We're expecting [a](/en/post/a/) [huge](/en/post/huge/) turnout [for](/en/post/for/) [the](/en/post/the/) [concert](/en/post/concert/) [tonight](/en/post/tonight/)._
-- _After months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [their](/en/post/their/) startup became [a](/en/post/a/) [huge](/en/post/huge/) [hit](/en/post/hit/)._
+## [Example](/post/example/) Sentences
+- _The elephant's [huge](/post/huge/) ears flapped [gently](/post/gently/) [in](/post/in/) [the](/post/the/) [breeze](/post/breeze/)._
+- _We're expecting [a](/post/a/) [huge](/post/huge/) turnout [for](/post/for/) [the](/post/the/) [concert](/post/concert/) [tonight](/post/tonight/)._
+- _After months [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [their](/post/their/) startup became [a](/post/a/) [huge](/post/huge/) [hit](/post/hit/)._
 
 ## Synonyms
-- [Enormous](/en/post/enormous/)
+- [Enormous](/post/enormous/)
 - Gigantic
 - Massive
-- [Immense](/en/post/immense/)
+- [Immense](/post/immense/)
 - Colossal
 - Monumental
-- [Vast](/en/post/vast/)
-- [Tremendous](/en/post/tremendous/)
+- [Vast](/post/vast/)
+- [Tremendous](/post/tremendous/)
 - Mammoth
 - Prodigious

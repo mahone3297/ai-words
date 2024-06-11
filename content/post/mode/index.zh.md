@@ -12,24 +12,24 @@ keywords = ['ai words', 'mode']
 
 ## 释义
 - **名词**:
-  - 方式，形式，样式。例如: "[The](/post/the/) [dress](/post/dress/) is [available](/post/available/) [in](/post/in/) [several](/post/several/) modes [of](/post/of/) [fashion](/post/fashion/)."
-  - 模式，方式，状态。例如: "[The](/post/the/) [computer](/post/computer/) is [in](/post/in/) [sleep](/post/sleep/) [mode](/post/mode/)."
-  - 音调，调式。例如: "[He](/post/he/) played [a](/post/a/) melody [in](/post/in/) [a](/post/a/) [minor](/post/minor/) [mode](/post/mode/)."
+  - 方式，形式，样式。例如: "[The](/zh/post/the/) [dress](/zh/post/dress/) is [available](/zh/post/available/) [in](/zh/post/in/) [several](/zh/post/several/) modes [of](/zh/post/of/) [fashion](/zh/post/fashion/)."
+  - 模式，方式，状态。例如: "[The](/zh/post/the/) [computer](/zh/post/computer/) is [in](/zh/post/in/) [sleep](/zh/post/sleep/) [mode](/zh/post/mode/)."
+  - 音调，调式。例如: "[He](/zh/post/he/) played [a](/zh/post/a/) melody [in](/zh/post/in/) [a](/zh/post/a/) [minor](/zh/post/minor/) [mode](/zh/post/mode/)."
 
 - **动词**:
-  - 设置（设备）的工作模式。例如: "[You](/post/you/) [can](/post/can/) [mode](/post/mode/) [your](/post/your/) TV [to](/post/to/) [different](/post/different/) channels."
+  - 设置（设备）的工作模式。例如: "[You](/zh/post/you/) [can](/zh/post/can/) [mode](/zh/post/mode/) [your](/zh/post/your/) TV [to](/zh/post/to/) [different](/zh/post/different/) channels."
 
 ## 短语
-- "[Change](/post/change/) [the](/post/the/) [mode](/post/mode/)" 意为切换或改变某种状态或设置。
-- "[Work](/post/work/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [mode](/post/mode/)" 表示在特定的工作方式下操作。
+- "[Change](/zh/post/change/) [the](/zh/post/the/) [mode](/zh/post/mode/)" 意为切换或改变某种状态或设置。
+- "[Work](/zh/post/work/) [in](/zh/post/in/) [a](/zh/post/a/) [specific](/zh/post/specific/) [mode](/zh/post/mode/)" 表示在特定的工作方式下操作。
 
 ## 例句
-- 名词: "[The](/post/the/) [artist](/post/artist/) experimented [with](/post/with/) [different](/post/different/) modes [of](/post/of/) [expression](/post/expression/) [in](/post/in/) [his](/post/his/) paintings."
-- 动词: "I [need](/post/need/) [to](/post/to/) [mode](/post/mode/) [my](/post/my/) [camera](/post/camera/) [for](/post/for/) low-light photography."
+- 名词: "[The](/zh/post/the/) [artist](/zh/post/artist/) experimented [with](/zh/post/with/) [different](/zh/post/different/) modes [of](/zh/post/of/) [expression](/zh/post/expression/) [in](/zh/post/in/) [his](/zh/post/his/) paintings."
+- 动词: "I [need](/zh/post/need/) [to](/zh/post/to/) [mode](/zh/post/mode/) [my](/zh/post/my/) [camera](/zh/post/camera/) [for](/zh/post/for/) low-light photography."
 
 ## 同义词
-- [Style](/post/style/)
-- [Fashion](/post/fashion/)
-- [Manner](/post/manner/)
-- [Method](/post/method/)
-- [Pattern](/post/pattern/)
+- [Style](/zh/post/style/)
+- [Fashion](/zh/post/fashion/)
+- [Manner](/zh/post/manner/)
+- [Method](/zh/post/method/)
+- [Pattern](/zh/post/pattern/)

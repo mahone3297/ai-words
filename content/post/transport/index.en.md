@@ -7,38 +7,38 @@ description = '[trænsˈpɔːt] vt.运输 n.运输'
 keywords = ['ai words', 'transport']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtrænspɔrt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Transport](/en/post/transport/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [system](/en/post/system/) [of](/en/post/of/) moving [people](/en/post/people/) [or](/en/post/or/) [goods](/en/post/goods/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) using vehicles [or](/en/post/or/) infrastructure. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) city's [public](/en/post/public/) [transport](/en/post/transport/) [network](/en/post/network/) includes buses [and](/en/post/and/) trains."
-- **[Transportation](/en/post/transportation/)**: [The](/en/post/the/) [means](/en/post/means/) [by](/en/post/by/) [which](/en/post/which/) [people](/en/post/people/) [or](/en/post/or/) [goods](/en/post/goods/) are conveyed [from](/en/post/from/) [one](/en/post/one/) [location](/en/post/location/) [to](/en/post/to/) [another](/en/post/another/), [such](/en/post/such/) [as](/en/post/as/) cars, airplanes, [or](/en/post/or/) ships. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) uses [various](/en/post/various/) modes [of](/en/post/of/) [transportation](/en/post/transportation/) [to](/en/post/to/) [get](/en/post/get/) [to](/en/post/to/) [work](/en/post/work/)."
+### [Noun](/post/noun/)
+- **[Transport](/post/transport/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [system](/post/system/) [of](/post/of/) moving [people](/post/people/) [or](/post/or/) [goods](/post/goods/) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/), [often](/post/often/) using vehicles [or](/post/or/) infrastructure. [For](/post/for/) [example](/post/example/): "[The](/post/the/) city's [public](/post/public/) [transport](/post/transport/) [network](/post/network/) includes buses [and](/post/and/) trains."
+- **[Transportation](/post/transportation/)**: [The](/post/the/) [means](/post/means/) [by](/post/by/) [which](/post/which/) [people](/post/people/) [or](/post/or/) [goods](/post/goods/) are conveyed [from](/post/from/) [one](/post/one/) [location](/post/location/) [to](/post/to/) [another](/post/another/), [such](/post/such/) [as](/post/as/) cars, airplanes, [or](/post/or/) ships. [For](/post/for/) [example](/post/example/): "[She](/post/she/) uses [various](/post/various/) modes [of](/post/of/) [transportation](/post/transportation/) [to](/post/to/) [get](/post/get/) [to](/post/to/) [work](/post/work/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [transport](/en/post/transport/)**: [To](/en/post/to/) [carry](/en/post/carry/) [or](/en/post/or/) [convey](/en/post/convey/) ([people](/en/post/people/) [or](/en/post/or/) [goods](/en/post/goods/)) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is transporting thousands [of](/en/post/of/) boxes [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) warehouse."
-- **[To](/en/post/to/) [ship](/en/post/ship/)**: [To](/en/post/to/) [send](/en/post/send/) [goods](/en/post/goods/) [by](/en/post/by/) [water](/en/post/water/) [or](/en/post/or/) [air](/en/post/air/) [for](/en/post/for/) [delivery](/en/post/delivery/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) books [will](/en/post/will/) [be](/en/post/be/) transported [by](/en/post/by/) [ship](/en/post/ship/) [to](/en/post/to/) [the](/en/post/the/) [international](/en/post/international/) [market](/en/post/market/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [transport](/post/transport/)**: [To](/post/to/) [carry](/post/carry/) [or](/post/or/) [convey](/post/convey/) ([people](/post/people/) [or](/post/or/) [goods](/post/goods/)) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) is transporting thousands [of](/post/of/) boxes [to](/post/to/) [the](/post/the/) [new](/post/new/) warehouse."
+- **[To](/post/to/) [ship](/post/ship/)**: [To](/post/to/) [send](/post/send/) [goods](/post/goods/) [by](/post/by/) [water](/post/water/) [or](/post/or/) [air](/post/air/) [for](/post/for/) [delivery](/post/delivery/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) books [will](/post/will/) [be](/post/be/) transported [by](/post/by/) [ship](/post/ship/) [to](/post/to/) [the](/post/the/) [international](/post/international/) [market](/post/market/)."
 
-### [Adjective](/en/post/adjective/)
-- **Transport-related**: Relating [to](/en/post/to/) [transportation](/en/post/transportation/) [or](/en/post/or/) [its](/en/post/its/) systems. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [transport](/en/post/transport/) sector plays [a](/en/post/a/) crucial [role](/en/post/role/) [in](/en/post/in/) [the](/en/post/the/) [economy](/en/post/economy/)."
+### [Adjective](/post/adjective/)
+- **Transport-related**: Relating [to](/post/to/) [transportation](/post/transportation/) [or](/post/or/) [its](/post/its/) systems. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [transport](/post/transport/) sector plays [a](/post/a/) crucial [role](/post/role/) [in](/post/in/) [the](/post/the/) [economy](/post/economy/)."
 
 ## Phrases
-- "[Public](/en/post/public/) [transport](/en/post/transport/)" refers [to](/en/post/to/) shared vehicles [and](/en/post/and/) services [provided](/en/post/provided/) [by](/en/post/by/) governments [or](/en/post/or/) [private](/en/post/private/) companies.
-- "[Cargo](/en/post/cargo/) [transport](/en/post/transport/)" is [the](/en/post/the/) [movement](/en/post/movement/) [of](/en/post/of/) [goods](/en/post/goods/) [by](/en/post/by/) [commercial](/en/post/commercial/) [means](/en/post/means/).
-- "Door-to-door [transport](/en/post/transport/)" [means](/en/post/means/) [direct](/en/post/direct/) [delivery](/en/post/delivery/) [from](/en/post/from/) sender [to](/en/post/to/) recipient [without](/en/post/without/) [intermediate](/en/post/intermediate/) stops.
+- "[Public](/post/public/) [transport](/post/transport/)" refers [to](/post/to/) shared vehicles [and](/post/and/) services [provided](/post/provided/) [by](/post/by/) governments [or](/post/or/) [private](/post/private/) companies.
+- "[Cargo](/post/cargo/) [transport](/post/transport/)" is [the](/post/the/) [movement](/post/movement/) [of](/post/of/) [goods](/post/goods/) [by](/post/by/) [commercial](/post/commercial/) [means](/post/means/).
+- "Door-to-door [transport](/post/transport/)" [means](/post/means/) [direct](/post/direct/) [delivery](/post/delivery/) [from](/post/from/) sender [to](/post/to/) recipient [without](/post/without/) [intermediate](/post/intermediate/) stops.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) high-speed [rail](/en/post/rail/) connects [two](/en/post/two/) [major](/en/post/major/) cities, improving [transport](/en/post/transport/) [between](/en/post/between/) [them](/en/post/them/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [rescue](/en/post/rescue/) [team](/en/post/team/) transported [the](/en/post/the/) injured victims [to](/en/post/to/) [the](/en/post/the/) [hospital](/en/post/hospital/) [immediately](/en/post/immediately/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) transport-related innovations [have](/en/post/have/) significantly reduced [travel](/en/post/travel/) times."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) high-speed [rail](/post/rail/) connects [two](/post/two/) [major](/post/major/) cities, improving [transport](/post/transport/) [between](/post/between/) [them](/post/them/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [rescue](/post/rescue/) [team](/post/team/) transported [the](/post/the/) injured victims [to](/post/to/) [the](/post/the/) [hospital](/post/hospital/) [immediately](/post/immediately/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) transport-related innovations [have](/post/have/) significantly reduced [travel](/post/travel/) times."
 
 ## Synonyms
-- [Carry](/en/post/carry/)
-- [Move](/en/post/move/)
-- [Shift](/en/post/shift/)
-- [Convey](/en/post/convey/)
+- [Carry](/post/carry/)
+- [Move](/post/move/)
+- [Shift](/post/shift/)
+- [Convey](/post/convey/)
 - Displace
 - Cruise
 - Ferry
-- [Shift](/en/post/shift/) ([as](/en/post/as/) [in](/en/post/in/) shifting [cargo](/en/post/cargo/))
-- [Travel](/en/post/travel/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) conveying [goods](/en/post/goods/))
+- [Shift](/post/shift/) ([as](/post/as/) [in](/post/in/) shifting [cargo](/post/cargo/))
+- [Travel](/post/travel/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) conveying [goods](/post/goods/))

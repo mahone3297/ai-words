@@ -7,33 +7,33 @@ description = '[ˈneimli] ad.即，也就是'
 keywords = ['ai words', 'namely']
 +++
 
-## [Word](/en/post/word/): [Namely](/en/post/namely/)
+## [Word](/post/word/): [Namely](/post/namely/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈneɪmli/
 
 ## Definitions
-**[Adverb](/en/post/adverb/)**: Specifically; [particularly](/en/post/particularly/); [that](/en/post/that/) is [to](/en/post/to/) [say](/en/post/say/); [to](/en/post/to/) [wit](/en/post/wit/). [It](/en/post/it/) introduces examples, details, [or](/en/post/or/) items [that](/en/post/that/) are [being](/en/post/being/) explicitly mentioned.
+**[Adverb](/post/adverb/)**: Specifically; [particularly](/post/particularly/); [that](/post/that/) is [to](/post/to/) [say](/post/say/); [to](/post/to/) [wit](/post/wit/). [It](/post/it/) introduces examples, details, [or](/post/or/) items [that](/post/that/) are [being](/post/being/) explicitly mentioned.
 
-- **[Usage](/en/post/usage/)**: [To](/en/post/to/) [single](/en/post/single/) [out](/en/post/out/) [or](/en/post/or/) [identify](/en/post/identify/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [with](/en/post/with/) [precision](/en/post/precision/) [or](/en/post/or/) [to](/en/post/to/) [give](/en/post/give/) [emphasis](/en/post/emphasis/) [to](/en/post/to/) [specific](/en/post/specific/) items [within](/en/post/within/) [a](/en/post/a/) [list](/en/post/list/) [or](/en/post/or/) [explanation](/en/post/explanation/).
+- **[Usage](/post/usage/)**: [To](/post/to/) [single](/post/single/) [out](/post/out/) [or](/post/or/) [identify](/post/identify/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [with](/post/with/) [precision](/post/precision/) [or](/post/or/) [to](/post/to/) [give](/post/give/) [emphasis](/post/emphasis/) [to](/post/to/) [specific](/post/specific/) items [within](/post/within/) [a](/post/a/) [list](/post/list/) [or](/post/or/) [explanation](/post/explanation/).
 
-[Example](/en/post/example/) [usage](/en/post/usage/):
-- *[The](/en/post/the/) [three](/en/post/three/) [main](/en/post/main/) ingredients [for](/en/post/for/) [this](/en/post/this/) recipe, [namely](/en/post/namely/) [flour](/en/post/flour/), [sugar](/en/post/sugar/), [and](/en/post/and/) eggs, [must](/en/post/must/) [be](/en/post/be/) mixed thoroughly.*
-- *[Several](/en/post/several/) issues were discussed [at](/en/post/at/) [the](/en/post/the/) [meeting](/en/post/meeting/), [namely](/en/post/namely/) budget constraints, [staff](/en/post/staff/) shortages, [and](/en/post/and/) [the](/en/post/the/) [new](/en/post/new/) marketing [strategy](/en/post/strategy/).*
+[Example](/post/example/) [usage](/post/usage/):
+- *[The](/post/the/) [three](/post/three/) [main](/post/main/) ingredients [for](/post/for/) [this](/post/this/) recipe, [namely](/post/namely/) [flour](/post/flour/), [sugar](/post/sugar/), [and](/post/and/) eggs, [must](/post/must/) [be](/post/be/) mixed thoroughly.*
+- *[Several](/post/several/) issues were discussed [at](/post/at/) [the](/post/the/) [meeting](/post/meeting/), [namely](/post/namely/) budget constraints, [staff](/post/staff/) shortages, [and](/post/and/) [the](/post/the/) [new](/post/new/) marketing [strategy](/post/strategy/).*
 
 ## Phrases
-- "[In](/en/post/in/) [other](/en/post/other/) words, [namely](/en/post/namely/)" - [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) restatement [or](/en/post/or/) clarification [of](/en/post/of/) [what](/en/post/what/) was [previously](/en/post/previously/) said.
-- "[To](/en/post/to/) [put](/en/post/put/) [it](/en/post/it/) precisely, [namely](/en/post/namely/)" - emphasizes [that](/en/post/that/) [what](/en/post/what/) follows is an [exact](/en/post/exact/) [or](/en/post/or/) definitive [statement](/en/post/statement/).
+- "[In](/post/in/) [other](/post/other/) words, [namely](/post/namely/)" - [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) restatement [or](/post/or/) clarification [of](/post/of/) [what](/post/what/) was [previously](/post/previously/) said.
+- "[To](/post/to/) [put](/post/put/) [it](/post/it/) precisely, [namely](/post/namely/)" - emphasizes [that](/post/that/) [what](/post/what/) follows is an [exact](/post/exact/) [or](/post/or/) definitive [statement](/post/statement/).
 
-## [Example](/en/post/example/) Sentences
-- *We're visiting [three](/en/post/three/) European cities [on](/en/post/on/) [our](/en/post/our/) [trip](/en/post/trip/), [namely](/en/post/namely/) Paris, Rome, [and](/en/post/and/) Barcelona.*
-- *There's [only](/en/post/only/) [one](/en/post/one/) [person](/en/post/person/) [fit](/en/post/fit/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/), [namely](/en/post/namely/) John [due](/en/post/due/) [to](/en/post/to/) [his](/en/post/his/) [extensive](/en/post/extensive/) [experience](/en/post/experience/).*
+## [Example](/post/example/) Sentences
+- *We're visiting [three](/post/three/) European cities [on](/post/on/) [our](/post/our/) [trip](/post/trip/), [namely](/post/namely/) Paris, Rome, [and](/post/and/) Barcelona.*
+- *There's [only](/post/only/) [one](/post/one/) [person](/post/person/) [fit](/post/fit/) [for](/post/for/) [the](/post/the/) [job](/post/job/), [namely](/post/namely/) John [due](/post/due/) [to](/post/to/) [his](/post/his/) [extensive](/post/extensive/) [experience](/post/experience/).*
 
 ## Synonyms
 - Specifically
-- [Particularly](/en/post/particularly/)
-- [That](/en/post/that/) is
-- [To](/en/post/to/) [wit](/en/post/wit/)
-- [In](/en/post/in/) [other](/en/post/other/) words
-- [More](/en/post/more/) precisely
-- [Namely](/en/post/namely/) indicates ([used](/en/post/used/) [when](/en/post/when/) introducing [a](/en/post/a/) [list](/en/post/list/) [or](/en/post/or/) itemized clarification)
+- [Particularly](/post/particularly/)
+- [That](/post/that/) is
+- [To](/post/to/) [wit](/post/wit/)
+- [In](/post/in/) [other](/post/other/) words
+- [More](/post/more/) precisely
+- [Namely](/post/namely/) indicates ([used](/post/used/) [when](/post/when/) introducing [a](/post/a/) [list](/post/list/) [or](/post/or/) itemized clarification)

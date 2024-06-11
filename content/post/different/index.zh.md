@@ -11,20 +11,20 @@ keywords = ['ai words', 'different']
 /dɪˈfɜːrənt/
 
 ## 释义
-- **形容词**: 不同的，有区别的。例如: "[The](/post/the/) [two](/post/two/) paintings [have](/post/have/) [different](/post/different/) styles."
-- **名词**: 差异，不同之处。例如: "[There](/post/there/) are [significant](/post/significant/) differences [between](/post/between/) [the](/post/the/) [two](/post/two/) versions."
+- **形容词**: 不同的，有区别的。例如: "[The](/zh/post/the/) [two](/zh/post/two/) paintings [have](/zh/post/have/) [different](/zh/post/different/) styles."
+- **名词**: 差异，不同之处。例如: "[There](/zh/post/there/) are [significant](/zh/post/significant/) differences [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) versions."
 
 ## 短语
-- "[Different](/post/different/) [from](/post/from/)" 表示与...不同。例如: "[This](/post/this/) [dress](/post/dress/) is [different](/post/different/) [from](/post/from/) [the](/post/the/) [one](/post/one/) I wore [yesterday](/post/yesterday/)."
-- "[Different](/post/different/) [to](/post/to/)"（主要在英式英语中使用）也表示与...不同。例如: "[Their](/post/their/) [approach](/post/approach/) is [different](/post/different/) [to](/post/to/) [ours](/post/ours/)."
+- "[Different](/zh/post/different/) [from](/zh/post/from/)" 表示与...不同。例如: "[This](/zh/post/this/) [dress](/zh/post/dress/) is [different](/zh/post/different/) [from](/zh/post/from/) [the](/zh/post/the/) [one](/zh/post/one/) I wore [yesterday](/zh/post/yesterday/)."
+- "[Different](/zh/post/different/) [to](/zh/post/to/)"（主要在英式英语中使用）也表示与...不同。例如: "[Their](/zh/post/their/) [approach](/zh/post/approach/) is [different](/zh/post/different/) [to](/zh/post/to/) [ours](/zh/post/ours/)."
 
 ## 例句
-- 形容词: "[Each](/post/each/) [culture](/post/culture/) has [its](/post/its/) [own](/post/own/) [different](/post/different/) traditions [and](/post/and/) customs."
-- 名词: "[Can](/post/can/) [you](/post/you/) [point](/post/point/) [out](/post/out/) [the](/post/the/) differences [between](/post/between/) [these](/post/these/) [two](/post/two/) documents?"
+- 形容词: "[Each](/zh/post/each/) [culture](/zh/post/culture/) has [its](/zh/post/its/) [own](/zh/post/own/) [different](/zh/post/different/) traditions [and](/zh/post/and/) customs."
+- 名词: "[Can](/zh/post/can/) [you](/zh/post/you/) [point](/zh/post/point/) [out](/zh/post/out/) [the](/zh/post/the/) differences [between](/zh/post/between/) [these](/zh/post/these/) [two](/zh/post/two/) documents?"
 
 ## 同义词
-- [Distinct](/post/distinct/)
-- [Various](/post/various/)
-- [Unique](/post/unique/)
-- [Unlike](/post/unlike/)
+- [Distinct](/zh/post/distinct/)
+- [Various](/zh/post/various/)
+- [Unique](/zh/post/unique/)
+- [Unlike](/zh/post/unlike/)
 - Divergent

@@ -11,23 +11,23 @@ keywords = ['ai words', 'chance']
 /ˈtʃæns/
 
 ## 释义
-- **名词**: 不可预知的机会或可能性。例如: "[She](/post/she/) took [a](/post/a/) [chance](/post/chance/) [and](/post/and/) applied [for](/post/for/) [the](/post/the/) [job](/post/job/)."
-- **动词**: 偶然发生或碰巧。例如: "I chanced [upon](/post/upon/) an [old](/post/old/) [friend](/post/friend/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
-- **形容词**: 偶然的，靠运气的。例如: "[The](/post/the/) [success](/post/success/) [of](/post/of/) [the](/post/the/) [plan](/post/plan/) was [purely](/post/purely/) [chance](/post/chance/)."
+- **名词**: 不可预知的机会或可能性。例如: "[She](/zh/post/she/) took [a](/zh/post/a/) [chance](/zh/post/chance/) [and](/zh/post/and/) applied [for](/zh/post/for/) [the](/zh/post/the/) [job](/zh/post/job/)."
+- **动词**: 偶然发生或碰巧。例如: "I chanced [upon](/zh/post/upon/) an [old](/zh/post/old/) [friend](/zh/post/friend/) [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/)."
+- **形容词**: 偶然的，靠运气的。例如: "[The](/zh/post/the/) [success](/zh/post/success/) [of](/zh/post/of/) [the](/zh/post/the/) [plan](/zh/post/plan/) was [purely](/zh/post/purely/) [chance](/zh/post/chance/)."
 
 ## 短语
-- "[Take](/post/take/) [a](/post/a/) [chance](/post/chance/)" 意味着冒险尝试。
-- "[By](/post/by/) [chance](/post/chance/)" 表示偶然地或意外地。
-- "[A](/post/a/) [chance](/post/chance/) [encounter](/post/encounter/)" 指的是偶然遇见。
+- "[Take](/zh/post/take/) [a](/zh/post/a/) [chance](/zh/post/chance/)" 意味着冒险尝试。
+- "[By](/zh/post/by/) [chance](/zh/post/chance/)" 表示偶然地或意外地。
+- "[A](/zh/post/a/) [chance](/zh/post/chance/) [encounter](/zh/post/encounter/)" 指的是偶然遇见。
 
 ## 例句
-- 名词: "[Success](/post/success/) [often](/post/often/) comes [to](/post/to/) [those](/post/those/) [who](/post/who/) [seize](/post/seize/) [the](/post/the/) [chance](/post/chance/)."
-- 动词: "[We](/post/we/) chanced [upon](/post/upon/) [a](/post/a/) [beautiful](/post/beautiful/) [waterfall](/post/waterfall/) [during](/post/during/) [our](/post/our/) hike."
-- 形容词: "[His](/post/his/) [success](/post/success/) [in](/post/in/) [the](/post/the/) [competition](/post/competition/) was [largely](/post/largely/) [due](/post/due/) [to](/post/to/) [chance](/post/chance/)."
+- 名词: "[Success](/zh/post/success/) [often](/zh/post/often/) comes [to](/zh/post/to/) [those](/zh/post/those/) [who](/zh/post/who/) [seize](/zh/post/seize/) [the](/zh/post/the/) [chance](/zh/post/chance/)."
+- 动词: "[We](/zh/post/we/) chanced [upon](/zh/post/upon/) [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [waterfall](/zh/post/waterfall/) [during](/zh/post/during/) [our](/zh/post/our/) hike."
+- 形容词: "[His](/zh/post/his/) [success](/zh/post/success/) [in](/zh/post/in/) [the](/zh/post/the/) [competition](/zh/post/competition/) was [largely](/zh/post/largely/) [due](/zh/post/due/) [to](/zh/post/to/) [chance](/zh/post/chance/)."
 
 ## 同义词
-- [Opportunity](/post/opportunity/)
-- [Luck](/post/luck/)
-- [Possibility](/post/possibility/)
-- [Risk](/post/risk/)
+- [Opportunity](/zh/post/opportunity/)
+- [Luck](/zh/post/luck/)
+- [Possibility](/zh/post/possibility/)
+- [Risk](/zh/post/risk/)
 - Coincidence

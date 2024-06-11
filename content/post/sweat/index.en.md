@@ -7,37 +7,37 @@ description = '[swet] n.汗 vi.出汗'
 keywords = ['ai words', 'sweat']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɛt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Sweat](/en/post/sweat/)**: ([noun](/en/post/noun/)) 1. [The](/en/post/the/) [natural](/en/post/natural/) salty [fluid](/en/post/fluid/) produced [by](/en/post/by/) [the](/en/post/the/) body's glands [as](/en/post/as/) [a](/en/post/a/) [response](/en/post/response/) [to](/en/post/to/) [heat](/en/post/heat/), [physical](/en/post/physical/) exertion, [or](/en/post/or/) [stress](/en/post/stress/), [which](/en/post/which/) evaporates [to](/en/post/to/) [cool](/en/post/cool/) [the](/en/post/the/) [skin](/en/post/skin/). 2. [A](/en/post/a/) profuse [production](/en/post/production/) [of](/en/post/of/) [this](/en/post/this/) [fluid](/en/post/fluid/), [often](/en/post/often/) causing [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [being](/en/post/being/) [hot](/en/post/hot/) [or](/en/post/or/) [uncomfortable](/en/post/uncomfortable/). 3. [informal] An [expression](/en/post/expression/) [of](/en/post/of/) nervousness [or](/en/post/or/) [anxiety](/en/post/anxiety/), [often](/en/post/often/) accompanied [by](/en/post/by/) [visible](/en/post/visible/) perspiration.
+### [Noun](/post/noun/)
+- **[Sweat](/post/sweat/)**: ([noun](/post/noun/)) 1. [The](/post/the/) [natural](/post/natural/) salty [fluid](/post/fluid/) produced [by](/post/by/) [the](/post/the/) body's glands [as](/post/as/) [a](/post/a/) [response](/post/response/) [to](/post/to/) [heat](/post/heat/), [physical](/post/physical/) exertion, [or](/post/or/) [stress](/post/stress/), [which](/post/which/) evaporates [to](/post/to/) [cool](/post/cool/) [the](/post/the/) [skin](/post/skin/). 2. [A](/post/a/) profuse [production](/post/production/) [of](/post/of/) [this](/post/this/) [fluid](/post/fluid/), [often](/post/often/) causing [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [being](/post/being/) [hot](/post/hot/) [or](/post/or/) [uncomfortable](/post/uncomfortable/). 3. [informal] An [expression](/post/expression/) [of](/post/of/) nervousness [or](/post/or/) [anxiety](/post/anxiety/), [often](/post/often/) accompanied [by](/post/by/) [visible](/post/visible/) perspiration.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [sweat](/en/post/sweat/)**: ([verb](/en/post/verb/)) 1. [To](/en/post/to/) [produce](/en/post/produce/) [sweat](/en/post/sweat/), [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) [physical](/en/post/physical/) [activity](/en/post/activity/) [or](/en/post/or/) [stress](/en/post/stress/). 2. [informal] [To](/en/post/to/) [worry](/en/post/worry/) [or](/en/post/or/) [be](/en/post/be/) [anxious](/en/post/anxious/) [about](/en/post/about/) [something](/en/post/something/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [sweat](/post/sweat/)**: ([verb](/post/verb/)) 1. [To](/post/to/) [produce](/post/produce/) [sweat](/post/sweat/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) [physical](/post/physical/) [activity](/post/activity/) [or](/post/or/) [stress](/post/stress/). 2. [informal] [To](/post/to/) [worry](/post/worry/) [or](/post/or/) [be](/post/be/) [anxious](/post/anxious/) [about](/post/about/) [something](/post/something/).
 
-### [Adjective](/en/post/adjective/)
-- **Sweaty**: ([adjective](/en/post/adjective/)) Characterized [by](/en/post/by/) [or](/en/post/or/) covered [in](/en/post/in/) [sweat](/en/post/sweat/).
+### [Adjective](/post/adjective/)
+- **Sweaty**: ([adjective](/post/adjective/)) Characterized [by](/post/by/) [or](/post/or/) covered [in](/post/in/) [sweat](/post/sweat/).
 
-### [Adverb](/en/post/adverb/)
-- **Sweating**: ([adverb](/en/post/adverb/)) [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) causes sweating, [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) [physical](/en/post/physical/) [effort](/en/post/effort/).
+### [Adverb](/post/adverb/)
+- **Sweating**: ([adverb](/post/adverb/)) [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) causes sweating, [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) [physical](/post/physical/) [effort](/post/effort/).
 
 ## Phrases
-- "[Break](/en/post/break/) [a](/en/post/a/) [sweat](/en/post/sweat/)" [means](/en/post/means/) [to](/en/post/to/) [work](/en/post/work/) [hard](/en/post/hard/) [and](/en/post/and/) [produce](/en/post/produce/) [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [sweat](/en/post/sweat/).
-- "[Sweat](/en/post/sweat/) [it](/en/post/it/) [out](/en/post/out/)" refers [to](/en/post/to/) overcoming [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/) [by](/en/post/by/) enduring [it](/en/post/it/) [until](/en/post/until/) completion.
-- "[Sweat](/en/post/sweat/) glands" are [the](/en/post/the/) specialized organs [responsible](/en/post/responsible/) [for](/en/post/for/) producing [sweat](/en/post/sweat/).
+- "[Break](/post/break/) [a](/post/a/) [sweat](/post/sweat/)" [means](/post/means/) [to](/post/to/) [work](/post/work/) [hard](/post/hard/) [and](/post/and/) [produce](/post/produce/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [sweat](/post/sweat/).
+- "[Sweat](/post/sweat/) [it](/post/it/) [out](/post/out/)" refers [to](/post/to/) overcoming [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/) [by](/post/by/) enduring [it](/post/it/) [until](/post/until/) completion.
+- "[Sweat](/post/sweat/) glands" are [the](/post/the/) specialized organs [responsible](/post/responsible/) [for](/post/for/) producing [sweat](/post/sweat/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) hike, [he](/en/post/he/) was covered [in](/en/post/in/) [sweat](/en/post/sweat/) [from](/en/post/from/) [head](/en/post/head/) [to](/en/post/to/) [toe](/en/post/toe/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [athlete](/en/post/athlete/) was sweating profusely [after](/en/post/after/) finishing [the](/en/post/the/) marathon."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [dog](/en/post/dog/) was lying [on](/en/post/on/) [the](/en/post/the/) [hot](/en/post/hot/) [pavement](/en/post/pavement/), panting [heavily](/en/post/heavily/) [and](/en/post/and/) looking sweaty."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) was sweating [so](/en/post/so/) [much](/en/post/much/) [that](/en/post/that/) [his](/en/post/his/) [shirt](/en/post/shirt/) was drenched."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [long](/post/long/) hike, [he](/post/he/) was covered [in](/post/in/) [sweat](/post/sweat/) [from](/post/from/) [head](/post/head/) [to](/post/to/) [toe](/post/toe/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [athlete](/post/athlete/) was sweating profusely [after](/post/after/) finishing [the](/post/the/) marathon."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [dog](/post/dog/) was lying [on](/post/on/) [the](/post/the/) [hot](/post/hot/) [pavement](/post/pavement/), panting [heavily](/post/heavily/) [and](/post/and/) looking sweaty."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) was sweating [so](/post/so/) [much](/post/much/) [that](/post/that/) [his](/post/his/) [shirt](/post/shirt/) was drenched."
 
 ## Synonyms
 - Perspiration
-- [Excess](/en/post/excess/) [moisture](/en/post/moisture/)
+- [Excess](/post/excess/) [moisture](/post/moisture/)
 - Slick
 - Clammy
-- Dripping [with](/en/post/with/) [sweat](/en/post/sweat/)
-- Beaded [with](/en/post/with/) [sweat](/en/post/sweat/)
+- Dripping [with](/post/with/) [sweat](/post/sweat/)
+- Beaded [with](/post/with/) [sweat](/post/sweat/)

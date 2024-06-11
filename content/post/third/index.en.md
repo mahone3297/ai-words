@@ -7,38 +7,38 @@ description = '[θəːd] num.第三；三分之一'
 keywords = ['ai words', 'third']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /thɜːrd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Number](/en/post/number/)**: [The](/en/post/the/) [third](/en/post/third/) [position](/en/post/position/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/), coming [after](/en/post/after/) [the](/en/post/the/) [first](/en/post/first/) [and](/en/post/and/) [second](/en/post/second/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [third](/en/post/third/) [child](/en/post/child/) [in](/en/post/in/) [line](/en/post/line/)."
-- **Ordinal**: Expressing [a](/en/post/a/) [position](/en/post/position/) [in](/en/post/in/) [a](/en/post/a/) [sequence](/en/post/sequence/) (1st, 2nd, 3rd). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [third](/en/post/third/) [prize](/en/post/prize/) [winner](/en/post/winner/)."
-- **[Adjective](/en/post/adjective/)**: [Used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) is [the](/en/post/the/) [one](/en/post/one/) [before](/en/post/before/) [the](/en/post/the/) [fourth](/en/post/fourth/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [third](/en/post/third/) largest [city](/en/post/city/) [in](/en/post/in/) [the](/en/post/the/) [country](/en/post/country/)."
+### [Noun](/post/noun/)
+- **[Number](/post/number/)**: [The](/post/the/) [third](/post/third/) [position](/post/position/) [in](/post/in/) [a](/post/a/) [series](/post/series/), coming [after](/post/after/) [the](/post/the/) [first](/post/first/) [and](/post/and/) [second](/post/second/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [third](/post/third/) [child](/post/child/) [in](/post/in/) [line](/post/line/)."
+- **Ordinal**: Expressing [a](/post/a/) [position](/post/position/) [in](/post/in/) [a](/post/a/) [sequence](/post/sequence/) (1st, 2nd, 3rd). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [third](/post/third/) [prize](/post/prize/) [winner](/post/winner/)."
+- **[Adjective](/post/adjective/)**: [Used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) is [the](/post/the/) [one](/post/one/) [before](/post/before/) [the](/post/the/) [fourth](/post/fourth/) [in](/post/in/) [a](/post/a/) [series](/post/series/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [third](/post/third/) largest [city](/post/city/) [in](/post/in/) [the](/post/the/) [country](/post/country/)."
 
-### [Adjective](/en/post/adjective/) (qualifier)
-- **Superlative**: [Form](/en/post/form/) [of](/en/post/of/) "[many](/en/post/many/)" [or](/en/post/or/) "[much](/en/post/much/)", expressing [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/) [or](/en/post/or/) ranking. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) third-highest [mountain](/en/post/mountain/) [in](/en/post/in/) [the](/en/post/the/) [world](/en/post/world/)."
-- **[Relative](/en/post/relative/)**: [In](/en/post/in/) [relation](/en/post/relation/) [to](/en/post/to/) [a](/en/post/a/) specified [group](/en/post/group/) [or](/en/post/or/) [number](/en/post/number/). [For](/en/post/for/) [example](/en/post/example/): "[Third](/en/post/third/) [from](/en/post/from/) [the](/en/post/the/) [left](/en/post/left/)."
+### [Adjective](/post/adjective/) (qualifier)
+- **Superlative**: [Form](/post/form/) [of](/post/of/) "[many](/post/many/)" [or](/post/or/) "[much](/post/much/)", expressing [a](/post/a/) [high](/post/high/) [degree](/post/degree/) [or](/post/or/) ranking. [For](/post/for/) [example](/post/example/): "[The](/post/the/) third-highest [mountain](/post/mountain/) [in](/post/in/) [the](/post/the/) [world](/post/world/)."
+- **[Relative](/post/relative/)**: [In](/post/in/) [relation](/post/relation/) [to](/post/to/) [a](/post/a/) specified [group](/post/group/) [or](/post/or/) [number](/post/number/). [For](/post/for/) [example](/post/example/): "[Third](/post/third/) [from](/post/from/) [the](/post/the/) [left](/post/left/)."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [third](/en/post/third/) [place](/en/post/place/)" refers [to](/en/post/to/) [being](/en/post/being/) [in](/en/post/in/) [the](/en/post/the/) [third](/en/post/third/) [position](/en/post/position/) [or](/en/post/or/) [rank](/en/post/rank/).
-- "[The](/en/post/the/) [third](/en/post/third/) [time](/en/post/time/)" indicates [the](/en/post/the/) [third](/en/post/third/) [occurrence](/en/post/occurrence/) [or](/en/post/or/) iteration.
-- "Third-degree [burn](/en/post/burn/)" is [a](/en/post/a/) [severe](/en/post/severe/) [type](/en/post/type/) [of](/en/post/of/) [burn](/en/post/burn/) affecting [all](/en/post/all/) [three](/en/post/three/) layers [of](/en/post/of/) [the](/en/post/the/) [skin](/en/post/skin/).
+- "[In](/post/in/) [the](/post/the/) [third](/post/third/) [place](/post/place/)" refers [to](/post/to/) [being](/post/being/) [in](/post/in/) [the](/post/the/) [third](/post/third/) [position](/post/position/) [or](/post/or/) [rank](/post/rank/).
+- "[The](/post/the/) [third](/post/third/) [time](/post/time/)" indicates [the](/post/the/) [third](/post/third/) [occurrence](/post/occurrence/) [or](/post/or/) iteration.
+- "Third-degree [burn](/post/burn/)" is [a](/post/a/) [severe](/post/severe/) [type](/post/type/) [of](/post/of/) [burn](/post/burn/) affecting [all](/post/all/) [three](/post/three/) layers [of](/post/of/) [the](/post/the/) [skin](/post/skin/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was sitting [on](/en/post/on/) [the](/en/post/the/) [third](/en/post/third/) [bench](/en/post/bench/) [from](/en/post/from/) [the](/en/post/the/) [front](/en/post/front/)."
-- **[Adjective](/en/post/adjective/)**: "[After](/en/post/after/) [the](/en/post/the/) [first](/en/post/first/) [two](/en/post/two/) attempts, [he](/en/post/he/) [finally](/en/post/finally/) completed [the](/en/post/the/) [task](/en/post/task/) [on](/en/post/on/) [the](/en/post/the/) [third](/en/post/third/) [try](/en/post/try/)."
-- **Ordinal**: "[This](/en/post/this/) is [our](/en/post/our/) [third](/en/post/third/) consecutive [year](/en/post/year/) winning [this](/en/post/this/) [award](/en/post/award/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was sitting [on](/post/on/) [the](/post/the/) [third](/post/third/) [bench](/post/bench/) [from](/post/from/) [the](/post/the/) [front](/post/front/)."
+- **[Adjective](/post/adjective/)**: "[After](/post/after/) [the](/post/the/) [first](/post/first/) [two](/post/two/) attempts, [he](/post/he/) [finally](/post/finally/) completed [the](/post/the/) [task](/post/task/) [on](/post/on/) [the](/post/the/) [third](/post/third/) [try](/post/try/)."
+- **Ordinal**: "[This](/post/this/) is [our](/post/our/) [third](/post/third/) consecutive [year](/post/year/) winning [this](/post/this/) [award](/post/award/)."
 
 ## Synonyms
-- [Next](/en/post/next/)
-- [Subsequent](/en/post/subsequent/)
-- [Following](/en/post/following/)
-- [Successive](/en/post/successive/)
-- [Thirdly](/en/post/thirdly/)
-- [Thirdly](/en/post/thirdly/) placed
+- [Next](/post/next/)
+- [Subsequent](/post/subsequent/)
+- [Following](/post/following/)
+- [Successive](/post/successive/)
+- [Thirdly](/post/thirdly/)
+- [Thirdly](/post/thirdly/) placed
 
 ## Antonyms
-- [First](/en/post/first/)
-- [Second](/en/post/second/)
-- [Fourth](/en/post/fourth/)
+- [First](/post/first/)
+- [Second](/post/second/)
+- [Fourth](/post/fourth/)

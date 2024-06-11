@@ -7,33 +7,33 @@ description = '[ˈsemikənˈdʌktə] n.半导体'
 keywords = ['ai words', 'semiconductor']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /seɪmˈpjuːtər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [electronic](/en/post/electronic/) [material](/en/post/material/) [with](/en/post/with/) [electrical](/en/post/electrical/) conductivity [between](/en/post/between/) [that](/en/post/that/) [of](/en/post/of/) [a](/en/post/a/) [conductor](/en/post/conductor/) [and](/en/post/and/) an insulator, [used](/en/post/used/) [in](/en/post/in/) [digital](/en/post/digital/) devices [for](/en/post/for/) processing [information](/en/post/information/) [and](/en/post/and/) controlling [their](/en/post/their/) [operation](/en/post/operation/). [**Tech**]
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/), [or](/en/post/or/) involving, [a](/en/post/a/) [semiconductor](/en/post/semiconductor/) [material](/en/post/material/) [or](/en/post/or/) [device](/en/post/device/). [**Tech**]
+- **[Noun](/post/noun/)**: [A](/post/a/) [type](/post/type/) [of](/post/of/) [electronic](/post/electronic/) [material](/post/material/) [with](/post/with/) [electrical](/post/electrical/) conductivity [between](/post/between/) [that](/post/that/) [of](/post/of/) [a](/post/a/) [conductor](/post/conductor/) [and](/post/and/) an insulator, [used](/post/used/) [in](/post/in/) [digital](/post/digital/) devices [for](/post/for/) processing [information](/post/information/) [and](/post/and/) controlling [their](/post/their/) [operation](/post/operation/). [**Tech**]
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/), [or](/post/or/) involving, [a](/post/a/) [semiconductor](/post/semiconductor/) [material](/post/material/) [or](/post/or/) [device](/post/device/). [**Tech**]
 
 ## Phrases
-- "[Utilize](/en/post/utilize/) [a](/en/post/a/) [semiconductor](/en/post/semiconductor/)" refers [to](/en/post/to/) using [a](/en/post/a/) [semiconductor](/en/post/semiconductor/) [component](/en/post/component/) [in](/en/post/in/) [a](/en/post/a/) [device](/en/post/device/).
-- "[Semiconductor](/en/post/semiconductor/) [technology](/en/post/technology/)" encompasses [the](/en/post/the/) [science](/en/post/science/) [and](/en/post/and/) manufacturing [of](/en/post/of/) semiconductors.
-- "[Transistor](/en/post/transistor/) made [from](/en/post/from/) [a](/en/post/a/) [semiconductor](/en/post/semiconductor/)" highlights [the](/en/post/the/) [role](/en/post/role/) [of](/en/post/of/) semiconductors [in](/en/post/in/) [electronic](/en/post/electronic/) components.
+- "[Utilize](/post/utilize/) [a](/post/a/) [semiconductor](/post/semiconductor/)" refers [to](/post/to/) using [a](/post/a/) [semiconductor](/post/semiconductor/) [component](/post/component/) [in](/post/in/) [a](/post/a/) [device](/post/device/).
+- "[Semiconductor](/post/semiconductor/) [technology](/post/technology/)" encompasses [the](/post/the/) [science](/post/science/) [and](/post/and/) manufacturing [of](/post/of/) semiconductors.
+- "[Transistor](/post/transistor/) made [from](/post/from/) [a](/post/a/) [semiconductor](/post/semiconductor/)" highlights [the](/post/the/) [role](/post/role/) [of](/post/of/) semiconductors [in](/post/in/) [electronic](/post/electronic/) components.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [development](/en/post/development/) [of](/en/post/of/) microprocessors relies [heavily](/en/post/heavily/) [on](/en/post/on/) advancements [in](/en/post/in/) [semiconductor](/en/post/semiconductor/) materials."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) smartphone features [a](/en/post/a/) [powerful](/en/post/powerful/) [semiconductor](/en/post/semiconductor/) processor [for](/en/post/for/) faster [performance](/en/post/performance/)."
-- "[The](/en/post/the/) [invention](/en/post/invention/) [of](/en/post/of/) [the](/en/post/the/) integrated [circuit](/en/post/circuit/) was [a](/en/post/a/) [major](/en/post/major/) breakthrough [in](/en/post/in/) [semiconductor](/en/post/semiconductor/) [engineering](/en/post/engineering/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [development](/post/development/) [of](/post/of/) microprocessors relies [heavily](/post/heavily/) [on](/post/on/) advancements [in](/post/in/) [semiconductor](/post/semiconductor/) materials."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) smartphone features [a](/post/a/) [powerful](/post/powerful/) [semiconductor](/post/semiconductor/) processor [for](/post/for/) faster [performance](/post/performance/)."
+- "[The](/post/the/) [invention](/post/invention/) [of](/post/of/) [the](/post/the/) integrated [circuit](/post/circuit/) was [a](/post/a/) [major](/post/major/) breakthrough [in](/post/in/) [semiconductor](/post/semiconductor/) [engineering](/post/engineering/)."
 
 ## Synonyms
 - Solid-state
 - Semiconductive
-- Insulator-like ([in](/en/post/in/) context)
-- [Electronic](/en/post/electronic/) [component](/en/post/component/)
-- [Active](/en/post/active/) [material](/en/post/material/)
+- Insulator-like ([in](/post/in/) context)
+- [Electronic](/post/electronic/) [component](/post/component/)
+- [Active](/post/active/) [material](/post/material/)
 
 ## Related Words
 - Doped
 - Silicon
-- [Transistor](/en/post/transistor/)
+- [Transistor](/post/transistor/)
 - Diode
-- IC (Integrated [Circuit](/en/post/circuit/))
+- IC (Integrated [Circuit](/post/circuit/))

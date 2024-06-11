@@ -7,25 +7,25 @@ description = '[əkˈsept] vt.vi.接受；同意'
 keywords = ['ai words', 'accept']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əkˈsɛpt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [give](/en/post/give/) [approval](/en/post/approval/) [to](/en/post/to/) [or](/en/post/or/) [agree](/en/post/agree/) [to](/en/post/to/) [receive](/en/post/receive/) [something](/en/post/something/) offered. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) accepted [the](/en/post/the/) [job](/en/post/job/) [offer](/en/post/offer/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [believe](/en/post/believe/) [in](/en/post/in/) [or](/en/post/or/) [consider](/en/post/consider/) [something](/en/post/something/) [as](/en/post/as/) [true](/en/post/true/) [or](/en/post/or/) [valid](/en/post/valid/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) accepts [the](/en/post/the/) [theory](/en/post/theory/) [of](/en/post/of/) [evolution](/en/post/evolution/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [give](/post/give/) [approval](/post/approval/) [to](/post/to/) [or](/post/or/) [agree](/post/agree/) [to](/post/to/) [receive](/post/receive/) [something](/post/something/) offered. [For](/post/for/) [example](/post/example/): "[She](/post/she/) accepted [the](/post/the/) [job](/post/job/) [offer](/post/offer/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [believe](/post/believe/) [in](/post/in/) [or](/post/or/) [consider](/post/consider/) [something](/post/something/) [as](/post/as/) [true](/post/true/) [or](/post/or/) [valid](/post/valid/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) accepts [the](/post/the/) [theory](/post/theory/) [of](/post/of/) [evolution](/post/evolution/)."
 
 ## Phrases
-- "[Accept](/en/post/accept/) [the](/en/post/the/) [challenge](/en/post/challenge/)" [means](/en/post/means/) [to](/en/post/to/) [agree](/en/post/agree/) [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [difficult](/en/post/difficult/) [task](/en/post/task/) [or](/en/post/or/) [situation](/en/post/situation/).
-- "[Accept](/en/post/accept/) [responsibility](/en/post/responsibility/)" implies acknowledging one's [fault](/en/post/fault/) [or](/en/post/or/) [duty](/en/post/duty/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [matter](/en/post/matter/).
-- "Cannot [accept](/en/post/accept/)" refers [to](/en/post/to/) [the](/en/post/the/) inability [or](/en/post/or/) unwillingness to同意 [or](/en/post/or/) [believe](/en/post/believe/) [in](/en/post/in/) [something](/en/post/something/).
+- "[Accept](/post/accept/) [the](/post/the/) [challenge](/post/challenge/)" [means](/post/means/) [to](/post/to/) [agree](/post/agree/) [to](/post/to/) [participate](/post/participate/) [in](/post/in/) [a](/post/a/) [difficult](/post/difficult/) [task](/post/task/) [or](/post/or/) [situation](/post/situation/).
+- "[Accept](/post/accept/) [responsibility](/post/responsibility/)" implies acknowledging one's [fault](/post/fault/) [or](/post/or/) [duty](/post/duty/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [matter](/post/matter/).
+- "Cannot [accept](/post/accept/)" refers [to](/post/to/) [the](/post/the/) inability [or](/post/or/) unwillingness to同意 [or](/post/or/) [believe](/post/believe/) [in](/post/in/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [careful](/en/post/careful/) [consideration](/en/post/consideration/), [he](/en/post/he/) [finally](/en/post/finally/) accepted [their](/en/post/their/) [proposal](/en/post/proposal/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) had [to](/en/post/to/) [learn](/en/post/learn/) [to](/en/post/to/) [accept](/en/post/accept/) [that](/en/post/that/) [failure](/en/post/failure/) is [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [learning](/en/post/learning/) [process](/en/post/process/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) [careful](/post/careful/) [consideration](/post/consideration/), [he](/post/he/) [finally](/post/finally/) accepted [their](/post/their/) [proposal](/post/proposal/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) had [to](/post/to/) [learn](/post/learn/) [to](/post/to/) [accept](/post/accept/) [that](/post/that/) [failure](/post/failure/) is [a](/post/a/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [learning](/post/learning/) [process](/post/process/)."
 
 ## Synonyms
-- [Receive](/en/post/receive/)
-- [Agree](/en/post/agree/) [to](/en/post/to/)
-- [Consent](/en/post/consent/) [to](/en/post/to/)
-- [Approve](/en/post/approve/)
+- [Receive](/post/receive/)
+- [Agree](/post/agree/) [to](/post/to/)
+- [Consent](/post/consent/) [to](/post/to/)
+- [Approve](/post/approve/)
 - Acknowledge

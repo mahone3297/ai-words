@@ -12,20 +12,20 @@ keywords = ['ai words', 'limb']
 
 ## 释义
 - **名词 n**:
-  - 肢体，尤指四肢的一部分，如手臂或腿。例如: "[The](/post/the/) [child](/post/child/) was climbing [a](/post/a/) [tree](/post/tree/) using [both](/post/both/) [her](/post/her/) [strong](/post/strong/) limbs."
-  - 动物或植物的分支。例如: "[The](/post/the/) [tree](/post/tree/) had [many](/post/many/) limbs spreading [outwards](/post/outwards/)."
+  - 肢体，尤指四肢的一部分，如手臂或腿。例如: "[The](/zh/post/the/) [child](/zh/post/child/) was climbing [a](/zh/post/a/) [tree](/zh/post/tree/) using [both](/zh/post/both/) [her](/zh/post/her/) [strong](/zh/post/strong/) limbs."
+  - 动物或植物的分支。例如: "[The](/zh/post/the/) [tree](/zh/post/tree/) had [many](/zh/post/many/) limbs spreading [outwards](/zh/post/outwards/)."
 
 ## 短语
-- "[limb](/post/limb/) [of](/post/of/) [a](/post/a/) [tree](/post/tree/)" 树枝
-- "[upper](/post/upper/)/[lower](/post/lower/) [limb](/post/limb/)" 上肢/下肢
+- "[limb](/zh/post/limb/) [of](/zh/post/of/) [a](/zh/post/a/) [tree](/zh/post/tree/)" 树枝
+- "[upper](/zh/post/upper/)/[lower](/zh/post/lower/) [limb](/zh/post/limb/)" 上肢/下肢
 
 ## 例句
-- 名词: "[After](/post/after/) [the](/post/the/) [accident](/post/accident/), [he](/post/he/) had [to](/post/to/) [learn](/post/learn/) [to](/post/to/) [walk](/post/walk/) [again](/post/again/) [with](/post/with/) an [artificial](/post/artificial/) [limb](/post/limb/)."
-- "[The](/post/the/) [bird](/post/bird/) perched [on](/post/on/) [a](/post/a/) [limb](/post/limb/) [high](/post/high/) [above](/post/above/) [us](/post/us/)."
+- 名词: "[After](/zh/post/after/) [the](/zh/post/the/) [accident](/zh/post/accident/), [he](/zh/post/he/) had [to](/zh/post/to/) [learn](/zh/post/learn/) [to](/zh/post/to/) [walk](/zh/post/walk/) [again](/zh/post/again/) [with](/zh/post/with/) an [artificial](/zh/post/artificial/) [limb](/zh/post/limb/)."
+- "[The](/zh/post/the/) [bird](/zh/post/bird/) perched [on](/zh/post/on/) [a](/zh/post/a/) [limb](/zh/post/limb/) [high](/zh/post/high/) [above](/zh/post/above/) [us](/zh/post/us/)."
 
 ## 同义词
-- [Arm](/post/arm/)
-- [Leg](/post/leg/)
-- [Branch](/post/branch/)
-- [Member](/post/member/)
+- [Arm](/zh/post/arm/)
+- [Leg](/zh/post/leg/)
+- [Branch](/zh/post/branch/)
+- [Member](/zh/post/member/)
 - extremity

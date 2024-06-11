@@ -7,36 +7,36 @@ description = '[ˈsiːnəri] n.舞台布景；风景'
 keywords = ['ai words', 'scenery']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[scenery](/en/post/scenery/)/
+## [Pronunciation](/post/pronunciation/)
+/[scenery](/post/scenery/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [view](/en/post/view/) [or](/en/post/or/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) [natural](/en/post/natural/) features, buildings, [or](/en/post/or/) objects [that](/en/post/that/) [form](/en/post/form/) [a](/en/post/a/) picturesque [or](/en/post/or/) [attractive](/en/post/attractive/) [scene](/en/post/scene/), typically [from](/en/post/from/) [a](/en/post/a/) [particular](/en/post/particular/) [viewpoint](/en/post/viewpoint/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) Alpine [scenery](/en/post/scenery/) was breathtaking."
-- **[Adjective](/en/post/adjective/)**: Describing [the](/en/post/the/) [visual](/en/post/visual/) [appearance](/en/post/appearance/) [of](/en/post/of/) [a](/en/post/a/) [place](/en/post/place/), [often](/en/post/often/) [with](/en/post/with/) an [emphasis](/en/post/emphasis/) [on](/en/post/on/) [its](/en/post/its/) [beauty](/en/post/beauty/) [or](/en/post/or/) attractiveness. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) landscape offered stunning [scenery](/en/post/scenery/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [view](/post/view/) [or](/post/or/) [arrangement](/post/arrangement/) [of](/post/of/) [natural](/post/natural/) features, buildings, [or](/post/or/) objects [that](/post/that/) [form](/post/form/) [a](/post/a/) picturesque [or](/post/or/) [attractive](/post/attractive/) [scene](/post/scene/), typically [from](/post/from/) [a](/post/a/) [particular](/post/particular/) [viewpoint](/post/viewpoint/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) Alpine [scenery](/post/scenery/) was breathtaking."
+- **[Adjective](/post/adjective/)**: Describing [the](/post/the/) [visual](/post/visual/) [appearance](/post/appearance/) [of](/post/of/) [a](/post/a/) [place](/post/place/), [often](/post/often/) [with](/post/with/) an [emphasis](/post/emphasis/) [on](/post/on/) [its](/post/its/) [beauty](/post/beauty/) [or](/post/or/) attractiveness. [For](/post/for/) [example](/post/example/): "[The](/post/the/) landscape offered stunning [scenery](/post/scenery/)."
 
 ## Phrases
-- "[Enjoy](/en/post/enjoy/) [the](/en/post/the/) [scenery](/en/post/scenery/)" [means](/en/post/means/) [to](/en/post/to/) [appreciate](/en/post/appreciate/) [the](/en/post/the/) [view](/en/post/view/) [while](/en/post/while/) traveling [or](/en/post/or/) [during](/en/post/during/) an outing.
-- "[A](/en/post/a/) postcard-worthy [scenery](/en/post/scenery/)" describes [a](/en/post/a/) [scene](/en/post/scene/) [that](/en/post/that/) is [particularly](/en/post/particularly/) picturesque [or](/en/post/or/) memorable.
-- "Scenic [drive](/en/post/drive/)" refers [to](/en/post/to/) [a](/en/post/a/) [route](/en/post/route/) [with](/en/post/with/) [particularly](/en/post/particularly/) [beautiful](/en/post/beautiful/) views.
+- "[Enjoy](/post/enjoy/) [the](/post/the/) [scenery](/post/scenery/)" [means](/post/means/) [to](/post/to/) [appreciate](/post/appreciate/) [the](/post/the/) [view](/post/view/) [while](/post/while/) traveling [or](/post/or/) [during](/post/during/) an outing.
+- "[A](/post/a/) postcard-worthy [scenery](/post/scenery/)" describes [a](/post/a/) [scene](/post/scene/) [that](/post/that/) is [particularly](/post/particularly/) picturesque [or](/post/or/) memorable.
+- "Scenic [drive](/post/drive/)" refers [to](/post/to/) [a](/post/a/) [route](/post/route/) [with](/post/with/) [particularly](/post/particularly/) [beautiful](/post/beautiful/) views.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) tourists marveled [at](/en/post/at/) [the](/en/post/the/) ever-changing [scenery](/en/post/scenery/) [along](/en/post/along/) [the](/en/post/the/) [coast](/en/post/coast/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [cabin](/en/post/cabin/) sat nestled amidst [the](/en/post/the/) serene, idyllic [scenery](/en/post/scenery/)."
-- "[As](/en/post/as/) [the](/en/post/the/) [train](/en/post/train/) chugged [through](/en/post/through/) [the](/en/post/the/) [countryside](/en/post/countryside/), passengers admired [the](/en/post/the/) [scenery](/en/post/scenery/) [outside](/en/post/outside/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) tourists marveled [at](/post/at/) [the](/post/the/) ever-changing [scenery](/post/scenery/) [along](/post/along/) [the](/post/the/) [coast](/post/coast/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [cabin](/post/cabin/) sat nestled amidst [the](/post/the/) serene, idyllic [scenery](/post/scenery/)."
+- "[As](/post/as/) [the](/post/the/) [train](/post/train/) chugged [through](/post/through/) [the](/post/the/) [countryside](/post/countryside/), passengers admired [the](/post/the/) [scenery](/post/scenery/) [outside](/post/outside/)."
 
 ## Synonyms
 - Landscape
-- [View](/en/post/view/)
+- [View](/post/view/)
 - Panorama
-- [Scene](/en/post/scene/)
+- [Scene](/post/scene/)
 - Expanse
-- [Horizon](/en/post/horizon/)
-- [Beauty](/en/post/beauty/)
+- [Horizon](/post/horizon/)
+- [Beauty](/post/beauty/)
 - Scenic vista
 
 ## Antonyms
 - Ugliness
 - Dullness
 - Monotony
-- [Lack](/en/post/lack/) [of](/en/post/of/) [appeal](/en/post/appeal/)
+- [Lack](/post/lack/) [of](/post/of/) [appeal](/post/appeal/)
 - Blandness

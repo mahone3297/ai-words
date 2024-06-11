@@ -11,20 +11,20 @@ keywords = ['ai words', 'particular']
 /pərˈtɪkjələr/
 
 ## 释义
-- **形容词**: 特定的，特别的，详细的。例如: "[She](/post/she/) wants [to](/post/to/) [know](/post/know/) [the](/post/the/) [particular](/post/particular/) details [of](/post/of/) [the](/post/the/) [event](/post/event/)."
-- **名词**: 细节，特点。例如: "[There](/post/there/) are [several](/post/several/) [particular](/post/particular/) aspects [to](/post/to/) [consider](/post/consider/) [in](/post/in/) [this](/post/this/) [project](/post/project/)."
+- **形容词**: 特定的，特别的，详细的。例如: "[She](/zh/post/she/) wants [to](/zh/post/to/) [know](/zh/post/know/) [the](/zh/post/the/) [particular](/zh/post/particular/) details [of](/zh/post/of/) [the](/zh/post/the/) [event](/zh/post/event/)."
+- **名词**: 细节，特点。例如: "[There](/zh/post/there/) are [several](/zh/post/several/) [particular](/zh/post/particular/) aspects [to](/zh/post/to/) [consider](/zh/post/consider/) [in](/zh/post/in/) [this](/zh/post/this/) [project](/zh/post/project/)."
 
 ## 短语
-- "[in](/post/in/) [particular](/post/particular/)" 意为尤其，特别是。例如: "I [like](/post/like/) [all](/post/all/) kinds [of](/post/of/) [music](/post/music/), [but](/post/but/) [jazz](/post/jazz/) [in](/post/in/) [particular](/post/particular/)."
-- "[the](/post/the/) [particular](/post/particular/) circumstances" 指特定的情况或环境。
+- "[in](/zh/post/in/) [particular](/zh/post/particular/)" 意为尤其，特别是。例如: "I [like](/zh/post/like/) [all](/zh/post/all/) kinds [of](/zh/post/of/) [music](/zh/post/music/), [but](/zh/post/but/) [jazz](/zh/post/jazz/) [in](/zh/post/in/) [particular](/zh/post/particular/)."
+- "[the](/zh/post/the/) [particular](/zh/post/particular/) circumstances" 指特定的情况或环境。
 
 ## 例句
-- 形容词: "[He](/post/he/) was interested [in](/post/in/) [the](/post/the/) [particular](/post/particular/) [shade](/post/shade/) [of](/post/of/) [blue](/post/blue/) [used](/post/used/) [in](/post/in/) [the](/post/the/) [painting](/post/painting/)."
-- 名词: "[Can](/post/can/) [you](/post/you/) [provide](/post/provide/) [more](/post/more/) [information](/post/information/) [about](/post/about/) [that](/post/that/) [particular](/post/particular/) [issue](/post/issue/)?"
+- 形容词: "[He](/zh/post/he/) was interested [in](/zh/post/in/) [the](/zh/post/the/) [particular](/zh/post/particular/) [shade](/zh/post/shade/) [of](/zh/post/of/) [blue](/zh/post/blue/) [used](/zh/post/used/) [in](/zh/post/in/) [the](/zh/post/the/) [painting](/zh/post/painting/)."
+- 名词: "[Can](/zh/post/can/) [you](/zh/post/you/) [provide](/zh/post/provide/) [more](/zh/post/more/) [information](/zh/post/information/) [about](/zh/post/about/) [that](/zh/post/that/) [particular](/zh/post/particular/) [issue](/zh/post/issue/)?"
 
 ## 同义词
-- [Specific](/post/specific/)
-- [Exact](/post/exact/)
-- [Distinct](/post/distinct/)
-- [Unique](/post/unique/)
-- [Individual](/post/individual/)
+- [Specific](/zh/post/specific/)
+- [Exact](/zh/post/exact/)
+- [Distinct](/zh/post/distinct/)
+- [Unique](/zh/post/unique/)
+- [Individual](/zh/post/individual/)

@@ -7,41 +7,41 @@ description = '[ˌendʒiˈniə] n.工程师，技师'
 keywords = ['ai words', 'engineer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌenʤɪˈniər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) designs, builds, maintains, [or](/en/post/or/) improves [complex](/en/post/complex/) systems, machinery, structures, [or](/en/post/or/) [public](/en/post/public/) works, typically having specialized [knowledge](/en/post/knowledge/) [in](/en/post/in/) areas [such](/en/post/such/) [as](/en/post/as/) [civil](/en/post/civil/), [mechanical](/en/post/mechanical/), [electrical](/en/post/electrical/), [chemical](/en/post/chemical/), [or](/en/post/or/) software [engineering](/en/post/engineering/). [Example](/en/post/example/): "She's [a](/en/post/a/) software [engineer](/en/post/engineer/) [at](/en/post/at/) [a](/en/post/a/) tech [company](/en/post/company/)."
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [design](/en/post/design/), [build](/en/post/build/), [or](/en/post/or/) [manage](/en/post/manage/) [something](/en/post/something/) using [scientific](/en/post/scientific/) [and](/en/post/and/) [technical](/en/post/technical/) [knowledge](/en/post/knowledge/), [especially](/en/post/especially/) [in](/en/post/in/) [the](/en/post/the/) fields [of](/en/post/of/) [construction](/en/post/construction/), manufacturing, [or](/en/post/or/) [technology](/en/post/technology/). [Example](/en/post/example/): "[They](/en/post/they/) engineered [a](/en/post/a/) [new](/en/post/new/) [bridge](/en/post/bridge/) [that](/en/post/that/) [would](/en/post/would/) [withstand](/en/post/withstand/) [extreme](/en/post/extreme/) [weather](/en/post/weather/) conditions."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) designs, builds, maintains, [or](/post/or/) improves [complex](/post/complex/) systems, machinery, structures, [or](/post/or/) [public](/post/public/) works, typically having specialized [knowledge](/post/knowledge/) [in](/post/in/) areas [such](/post/such/) [as](/post/as/) [civil](/post/civil/), [mechanical](/post/mechanical/), [electrical](/post/electrical/), [chemical](/post/chemical/), [or](/post/or/) software [engineering](/post/engineering/). [Example](/post/example/): "She's [a](/post/a/) software [engineer](/post/engineer/) [at](/post/at/) [a](/post/a/) tech [company](/post/company/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [design](/post/design/), [build](/post/build/), [or](/post/or/) [manage](/post/manage/) [something](/post/something/) using [scientific](/post/scientific/) [and](/post/and/) [technical](/post/technical/) [knowledge](/post/knowledge/), [especially](/post/especially/) [in](/post/in/) [the](/post/the/) fields [of](/post/of/) [construction](/post/construction/), manufacturing, [or](/post/or/) [technology](/post/technology/). [Example](/post/example/): "[They](/post/they/) engineered [a](/post/a/) [new](/post/new/) [bridge](/post/bridge/) [that](/post/that/) [would](/post/would/) [withstand](/post/withstand/) [extreme](/post/extreme/) [weather](/post/weather/) conditions."
 
-### [Noun](/en/post/noun/) Examples
-- "[The](/en/post/the/) [lead](/en/post/lead/) [engineer](/en/post/engineer/) [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/) has [over](/en/post/over/) 20 years [of](/en/post/of/) [experience](/en/post/experience/)."
-- "Aerospace engineers [design](/en/post/design/) [spacecraft](/en/post/spacecraft/) [and](/en/post/and/) satellites."
+### [Noun](/post/noun/) Examples
+- "[The](/post/the/) [lead](/post/lead/) [engineer](/post/engineer/) [on](/post/on/) [the](/post/the/) [project](/post/project/) has [over](/post/over/) 20 years [of](/post/of/) [experience](/post/experience/)."
+- "Aerospace engineers [design](/post/design/) [spacecraft](/post/spacecraft/) [and](/post/and/) satellites."
 
-### [Verb](/en/post/verb/) Examples
-- "[They](/en/post/they/) engineered [a](/en/post/a/) [solution](/en/post/solution/) [to](/en/post/to/) [reduce](/en/post/reduce/) [pollution](/en/post/pollution/) [from](/en/post/from/) [factory](/en/post/factory/) emissions."
-- "[He](/en/post/he/) engineered [the](/en/post/the/) [product](/en/post/product/) [to](/en/post/to/) [be](/en/post/be/) [more](/en/post/more/) energy-efficient."
+### [Verb](/post/verb/) Examples
+- "[They](/post/they/) engineered [a](/post/a/) [solution](/post/solution/) [to](/post/to/) [reduce](/post/reduce/) [pollution](/post/pollution/) [from](/post/from/) [factory](/post/factory/) emissions."
+- "[He](/post/he/) engineered [the](/post/the/) [product](/post/product/) [to](/post/to/) [be](/post/be/) [more](/post/more/) energy-efficient."
 
 ## Phrases
-- "[To](/en/post/to/) [engineer](/en/post/engineer/) [a](/en/post/a/) [solution](/en/post/solution/)": [To](/en/post/to/) [design](/en/post/design/) [and](/en/post/and/) implement [a](/en/post/a/) [method](/en/post/method/) [to](/en/post/to/) [solve](/en/post/solve/) [a](/en/post/a/) [problem](/en/post/problem/).
-- "[Reverse](/en/post/reverse/) [engineer](/en/post/engineer/)": [To](/en/post/to/) [take](/en/post/take/) [apart](/en/post/apart/) [and](/en/post/and/) analyze an [object](/en/post/object/) [or](/en/post/or/) [system](/en/post/system/) [to](/en/post/to/) [understand](/en/post/understand/) [how](/en/post/how/) [it](/en/post/it/) works [or](/en/post/or/) [to](/en/post/to/) replicate [it](/en/post/it/) [without](/en/post/without/) [prior](/en/post/prior/) [knowledge](/en/post/knowledge/) [of](/en/post/of/) [its](/en/post/its/) [internal](/en/post/internal/) workings.
+- "[To](/post/to/) [engineer](/post/engineer/) [a](/post/a/) [solution](/post/solution/)": [To](/post/to/) [design](/post/design/) [and](/post/and/) implement [a](/post/a/) [method](/post/method/) [to](/post/to/) [solve](/post/solve/) [a](/post/a/) [problem](/post/problem/).
+- "[Reverse](/post/reverse/) [engineer](/post/engineer/)": [To](/post/to/) [take](/post/take/) [apart](/post/apart/) [and](/post/and/) analyze an [object](/post/object/) [or](/post/or/) [system](/post/system/) [to](/post/to/) [understand](/post/understand/) [how](/post/how/) [it](/post/it/) works [or](/post/or/) [to](/post/to/) replicate [it](/post/it/) [without](/post/without/) [prior](/post/prior/) [knowledge](/post/knowledge/) [of](/post/of/) [its](/post/its/) [internal](/post/internal/) workings.
   
 ## Synonyms
 - Designer
 - Constructor
 - Developer
-- [Technician](/en/post/technician/)
+- [Technician](/post/technician/)
 - Innovator
-- Architect ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- Architect ([in](/post/in/) [certain](/post/certain/) contexts)
 - Technologist
 
-## Related Terms [and](/en/post/and/) Phrases
-- [Engineering](/en/post/engineering/)
-- [Mechanical](/en/post/mechanical/) [engineer](/en/post/engineer/)
-- [Civil](/en/post/civil/) [engineer](/en/post/engineer/)
-- [Electrical](/en/post/electrical/) [engineer](/en/post/engineer/)
-- [Chemical](/en/post/chemical/) [engineer](/en/post/engineer/)
-- Software [engineer](/en/post/engineer/)
-- [Industrial](/en/post/industrial/) [engineer](/en/post/engineer/)
-- [Design](/en/post/design/) [engineer](/en/post/engineer/)
-- Systems [engineer](/en/post/engineer/)
+## Related Terms [and](/post/and/) Phrases
+- [Engineering](/post/engineering/)
+- [Mechanical](/post/mechanical/) [engineer](/post/engineer/)
+- [Civil](/post/civil/) [engineer](/post/engineer/)
+- [Electrical](/post/electrical/) [engineer](/post/engineer/)
+- [Chemical](/post/chemical/) [engineer](/post/engineer/)
+- Software [engineer](/post/engineer/)
+- [Industrial](/post/industrial/) [engineer](/post/engineer/)
+- [Design](/post/design/) [engineer](/post/engineer/)
+- Systems [engineer](/post/engineer/)

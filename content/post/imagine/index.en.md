@@ -7,40 +7,40 @@ description = '[iˈmædʒin] vt.想象，设想；料想'
 keywords = ['ai words', 'imagine']
 +++
 
-## [Word](/en/post/word/): [Imagine](/en/post/imagine/)
+## [Word](/post/word/): [Imagine](/post/imagine/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈmædʒɪn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [form](/en/post/form/) [mental](/en/post/mental/) images [or](/en/post/or/) concepts [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) is [not](/en/post/not/) [present](/en/post/present/) [or](/en/post/or/) has [not](/en/post/not/) [yet](/en/post/yet/) happened; [to](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) conceive [something](/en/post/something/) [in](/en/post/in/) [the](/en/post/the/) [mind](/en/post/mind/). 
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [form](/post/form/) [mental](/post/mental/) images [or](/post/or/) concepts [of](/post/of/) [something](/post/something/) [that](/post/that/) is [not](/post/not/) [present](/post/present/) [or](/post/or/) has [not](/post/not/) [yet](/post/yet/) happened; [to](/post/to/) [create](/post/create/) [or](/post/or/) conceive [something](/post/something/) [in](/post/in/) [the](/post/the/) [mind](/post/mind/). 
 
-  - [Example](/en/post/example/) [sentence](/en/post/sentence/): _She imagined [herself](/en/post/herself/) walking [along](/en/post/along/) [a](/en/post/a/) deserted [beach](/en/post/beach/)._
+  - [Example](/post/example/) [sentence](/post/sentence/): _She imagined [herself](/post/herself/) walking [along](/post/along/) [a](/post/a/) deserted [beach](/post/beach/)._
   
-  - [Phrase](/en/post/phrase/): "[Imagine](/en/post/imagine/) [if](/en/post/if/)" is [often](/en/post/often/) [used](/en/post/used/) [when](/en/post/when/) proposing [a](/en/post/a/) hypothetical [situation](/en/post/situation/). 
-    - [Example](/en/post/example/): "[Imagine](/en/post/imagine/) [if](/en/post/if/) [we](/en/post/we/) [could](/en/post/could/) [time](/en/post/time/) [travel](/en/post/travel/); [where](/en/post/where/) [would](/en/post/would/) [you](/en/post/you/) [go](/en/post/go/)?"
+  - [Phrase](/post/phrase/): "[Imagine](/post/imagine/) [if](/post/if/)" is [often](/post/often/) [used](/post/used/) [when](/post/when/) proposing [a](/post/a/) hypothetical [situation](/post/situation/). 
+    - [Example](/post/example/): "[Imagine](/post/imagine/) [if](/post/if/) [we](/post/we/) [could](/post/could/) [time](/post/time/) [travel](/post/travel/); [where](/post/where/) [would](/post/would/) [you](/post/you/) [go](/post/go/)?"
 
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) imagining [or](/en/post/or/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [imagine](/en/post/imagine/); [a](/en/post/a/) [product](/en/post/product/) [of](/en/post/of/) [the](/en/post/the/) [imagination](/en/post/imagination/).
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) imagining [or](/post/or/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [imagine](/post/imagine/); [a](/post/a/) [product](/post/product/) [of](/post/of/) [the](/post/the/) [imagination](/post/imagination/).
 
-  - [Example](/en/post/example/) [sentence](/en/post/sentence/): _His [vivid](/en/post/vivid/) [imagination](/en/post/imagination/) produced incredible stories._
+  - [Example](/post/example/) [sentence](/post/sentence/): _His [vivid](/post/vivid/) [imagination](/post/imagination/) produced incredible stories._
   
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: _I [can](/en/post/can/) [hardly](/en/post/hardly/) [imagine](/en/post/imagine/) [living](/en/post/living/) [without](/en/post/without/) [my](/en/post/my/) [phone](/en/post/phone/)._
-- **[Noun](/en/post/noun/)**: _Her boundless [imagination](/en/post/imagination/) allowed [her](/en/post/her/) [to](/en/post/to/) [craft](/en/post/craft/) worlds [in](/en/post/in/) [her](/en/post/her/) novels._
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: _I [can](/post/can/) [hardly](/post/hardly/) [imagine](/post/imagine/) [living](/post/living/) [without](/post/without/) [my](/post/my/) [phone](/post/phone/)._
+- **[Noun](/post/noun/)**: _Her boundless [imagination](/post/imagination/) allowed [her](/post/her/) [to](/post/to/) [craft](/post/craft/) worlds [in](/post/in/) [her](/post/her/) novels._
 
 ## Synonyms
 - Envision
 - Visualize
 - Conceive
-- [Dream](/en/post/dream/) [up](/en/post/up/)
+- [Dream](/post/dream/) [up](/post/up/)
 - Fantasize
 - Daydream
 - Contemplate
 - Speculate
-- [Scheme](/en/post/scheme/)
-- [Picture](/en/post/picture/)
+- [Scheme](/post/scheme/)
+- [Picture](/post/picture/)
 
 ## Phrases
-- "[Imagine](/en/post/imagine/) [that](/en/post/that/)!" — [Used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [surprise](/en/post/surprise/) [or](/en/post/or/) incredulity [about](/en/post/about/) [something](/en/post/something/) mentioned.
-- "[Imagine](/en/post/imagine/) [being](/en/post/being/) [in](/en/post/in/) [their](/en/post/their/) shoes" — Expressing empathy [by](/en/post/by/) considering [a](/en/post/a/) [situation](/en/post/situation/) [from](/en/post/from/) [another](/en/post/another/) person's [perspective](/en/post/perspective/).
-- "[Imagine](/en/post/imagine/) [the](/en/post/the/) possibilities" — Encouraging exploration [of](/en/post/of/) [potential](/en/post/potential/) outcomes [or](/en/post/or/) opportunities.
+- "[Imagine](/post/imagine/) [that](/post/that/)!" — [Used](/post/used/) [to](/post/to/) [express](/post/express/) [surprise](/post/surprise/) [or](/post/or/) incredulity [about](/post/about/) [something](/post/something/) mentioned.
+- "[Imagine](/post/imagine/) [being](/post/being/) [in](/post/in/) [their](/post/their/) shoes" — Expressing empathy [by](/post/by/) considering [a](/post/a/) [situation](/post/situation/) [from](/post/from/) [another](/post/another/) person's [perspective](/post/perspective/).
+- "[Imagine](/post/imagine/) [the](/post/the/) possibilities" — Encouraging exploration [of](/post/of/) [potential](/post/potential/) outcomes [or](/post/or/) opportunities.

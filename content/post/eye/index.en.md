@@ -7,32 +7,32 @@ description = '[ai] n.眼睛；眼力；鉴赏力'
 keywords = ['ai words', 'eye']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /aɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [organ](/en/post/organ/) [of](/en/post/of/) [sight](/en/post/sight/); [a](/en/post/a/) typically spherical [organ](/en/post/organ/) [of](/en/post/of/) [vision](/en/post/vision/) located [in](/en/post/in/) [the](/en/post/the/) [head](/en/post/head/), [capable](/en/post/capable/) [of](/en/post/of/) receiving [light](/en/post/light/) [and](/en/post/and/) [visual](/en/post/visual/) images, [which](/en/post/which/) are [then](/en/post/then/) processed [by](/en/post/by/) [the](/en/post/the/) [brain](/en/post/brain/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) cat's eyes were [a](/en/post/a/) [vivid](/en/post/vivid/) [green](/en/post/green/)."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [means](/en/post/means/) [of](/en/post/of/) perception [or](/en/post/or/) insight; [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) discern [or](/en/post/or/) [understand](/en/post/understand/) [something](/en/post/something/). [Example](/en/post/example/): "[She](/en/post/she/) has an [eye](/en/post/eye/) [for](/en/post/for/) [detail](/en/post/detail/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [look](/en/post/look/) [at](/en/post/at/) [or](/en/post/or/) [observe](/en/post/observe/) attentively. [Example](/en/post/example/): "[She](/en/post/she/) eyed [the](/en/post/the/) [menu](/en/post/menu/) carefully [before](/en/post/before/) ordering."
-- **[Verb](/en/post/verb/) (phrasal)**: [To](/en/post/to/) [have](/en/post/have/) one's [eye](/en/post/eye/) [on](/en/post/on/) [something](/en/post/something/)/[someone](/en/post/someone/) - [to](/en/post/to/) [watch](/en/post/watch/) [with](/en/post/with/) [interest](/en/post/interest/) [or](/en/post/or/) [intention](/en/post/intention/). [Example](/en/post/example/): "[She](/en/post/she/) has [her](/en/post/her/) [eye](/en/post/eye/) [on](/en/post/on/) [that](/en/post/that/) promotion."
+- **[Noun](/post/noun/)**: [The](/post/the/) [organ](/post/organ/) [of](/post/of/) [sight](/post/sight/); [a](/post/a/) typically spherical [organ](/post/organ/) [of](/post/of/) [vision](/post/vision/) located [in](/post/in/) [the](/post/the/) [head](/post/head/), [capable](/post/capable/) [of](/post/of/) receiving [light](/post/light/) [and](/post/and/) [visual](/post/visual/) images, [which](/post/which/) are [then](/post/then/) processed [by](/post/by/) [the](/post/the/) [brain](/post/brain/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) cat's eyes were [a](/post/a/) [vivid](/post/vivid/) [green](/post/green/)."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [means](/post/means/) [of](/post/of/) perception [or](/post/or/) insight; [the](/post/the/) [ability](/post/ability/) [to](/post/to/) discern [or](/post/or/) [understand](/post/understand/) [something](/post/something/). [Example](/post/example/): "[She](/post/she/) has an [eye](/post/eye/) [for](/post/for/) [detail](/post/detail/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [look](/post/look/) [at](/post/at/) [or](/post/or/) [observe](/post/observe/) attentively. [Example](/post/example/): "[She](/post/she/) eyed [the](/post/the/) [menu](/post/menu/) carefully [before](/post/before/) ordering."
+- **[Verb](/post/verb/) (phrasal)**: [To](/post/to/) [have](/post/have/) one's [eye](/post/eye/) [on](/post/on/) [something](/post/something/)/[someone](/post/someone/) - [to](/post/to/) [watch](/post/watch/) [with](/post/with/) [interest](/post/interest/) [or](/post/or/) [intention](/post/intention/). [Example](/post/example/): "[She](/post/she/) has [her](/post/her/) [eye](/post/eye/) [on](/post/on/) [that](/post/that/) promotion."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [eye](/en/post/eye/) [of](/en/post/of/) [the](/en/post/the/) [storm](/en/post/storm/)" refers [to](/en/post/to/) [the](/en/post/the/) [calm](/en/post/calm/) center [of](/en/post/of/) [a](/en/post/a/) disturbance [or](/en/post/or/) [crisis](/en/post/crisis/).
-- "An [eye](/en/post/eye/) [for](/en/post/for/) an [eye](/en/post/eye/)" suggests retaliating [against](/en/post/against/) wrongdoing [with](/en/post/with/) [equal](/en/post/equal/) severity.
-- "[Beauty](/en/post/beauty/) is [in](/en/post/in/) [the](/en/post/the/) [eye](/en/post/eye/) [of](/en/post/of/) [the](/en/post/the/) beholder" implies [that](/en/post/that/) attractiveness is subjective.
-- "Eyes [wide](/en/post/wide/) [shut](/en/post/shut/)" describes [being](/en/post/being/) oblivious [to](/en/post/to/) [something](/en/post/something/) [obvious](/en/post/obvious/) [or](/en/post/or/) deliberately ignoring [it](/en/post/it/).
-- "[Keep](/en/post/keep/) an [eye](/en/post/eye/) [on](/en/post/on/)" [means](/en/post/means/) [to](/en/post/to/) [watch](/en/post/watch/) [or](/en/post/or/) [monitor](/en/post/monitor/) attentively.
+- "[In](/post/in/) [the](/post/the/) [eye](/post/eye/) [of](/post/of/) [the](/post/the/) [storm](/post/storm/)" refers [to](/post/to/) [the](/post/the/) [calm](/post/calm/) center [of](/post/of/) [a](/post/a/) disturbance [or](/post/or/) [crisis](/post/crisis/).
+- "An [eye](/post/eye/) [for](/post/for/) an [eye](/post/eye/)" suggests retaliating [against](/post/against/) wrongdoing [with](/post/with/) [equal](/post/equal/) severity.
+- "[Beauty](/post/beauty/) is [in](/post/in/) [the](/post/the/) [eye](/post/eye/) [of](/post/of/) [the](/post/the/) beholder" implies [that](/post/that/) attractiveness is subjective.
+- "Eyes [wide](/post/wide/) [shut](/post/shut/)" describes [being](/post/being/) oblivious [to](/post/to/) [something](/post/something/) [obvious](/post/obvious/) [or](/post/or/) deliberately ignoring [it](/post/it/).
+- "[Keep](/post/keep/) an [eye](/post/eye/) [on](/post/on/)" [means](/post/means/) [to](/post/to/) [watch](/post/watch/) [or](/post/or/) [monitor](/post/monitor/) attentively.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [baby](/en/post/baby/) opened [its](/en/post/its/) eyes [for](/en/post/for/) [the](/en/post/the/) [first](/en/post/first/) [time](/en/post/time/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) eyed [the](/en/post/the/) [distant](/en/post/distant/) [horizon](/en/post/horizon/), searching [for](/en/post/for/) signs [of](/en/post/of/) [land](/en/post/land/)."
-- **Phrasal [Verb](/en/post/verb/)**: "I've had [my](/en/post/my/) [eye](/en/post/eye/) [on](/en/post/on/) [that](/en/post/that/) [rare](/en/post/rare/) [book](/en/post/book/) [for](/en/post/for/) months."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [baby](/post/baby/) opened [its](/post/its/) eyes [for](/post/for/) [the](/post/the/) [first](/post/first/) [time](/post/time/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) eyed [the](/post/the/) [distant](/post/distant/) [horizon](/post/horizon/), searching [for](/post/for/) signs [of](/post/of/) [land](/post/land/)."
+- **Phrasal [Verb](/post/verb/)**: "I've had [my](/post/my/) [eye](/post/eye/) [on](/post/on/) [that](/post/that/) [rare](/post/rare/) [book](/post/book/) [for](/post/for/) months."
 
 ## Synonyms
-- [Sight](/en/post/sight/)
-- [Vision](/en/post/vision/)
-- [Gaze](/en/post/gaze/)
-- [View](/en/post/view/)
-- [Observation](/en/post/observation/)
-- Optic ([for](/en/post/for/) [the](/en/post/the/) [organ](/en/post/organ/))
-- [Watch](/en/post/watch/) ([for](/en/post/for/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) looking)
+- [Sight](/post/sight/)
+- [Vision](/post/vision/)
+- [Gaze](/post/gaze/)
+- [View](/post/view/)
+- [Observation](/post/observation/)
+- Optic ([for](/post/for/) [the](/post/the/) [organ](/post/organ/))
+- [Watch](/post/watch/) ([for](/post/for/) [the](/post/the/) [action](/post/action/) [of](/post/of/) looking)

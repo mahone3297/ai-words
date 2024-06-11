@@ -11,27 +11,27 @@ keywords = ['ai words', 'back']
 /bæk/
 
 ## 释义
-- **名词**: 背部；后面。例如: "[He](/post/he/) felt [pain](/post/pain/) [in](/post/in/) [his](/post/his/) [back](/post/back/)."
-- **形容词**: 后面的；背面的。例如: "[The](/post/the/) [back](/post/back/) [door](/post/door/) is [open](/post/open/)."
-- **动词**: 支持；支援。例如: "I [have](/post/have/) [your](/post/your/) [back](/post/back/) [in](/post/in/) [this](/post/this/) [situation](/post/situation/)."
-- **副词**: 向后；返回。例如: "[He](/post/he/) stepped [back](/post/back/) [from](/post/from/) [the](/post/the/) [edge](/post/edge/) [of](/post/of/) [the](/post/the/) [cliff](/post/cliff/)."
-- **介词**: 在...后面。例如: "[The](/post/the/) sofa was placed [against](/post/against/) [the](/post/the/) [back](/post/back/) [wall](/post/wall/)."
+- **名词**: 背部；后面。例如: "[He](/zh/post/he/) felt [pain](/zh/post/pain/) [in](/zh/post/in/) [his](/zh/post/his/) [back](/zh/post/back/)."
+- **形容词**: 后面的；背面的。例如: "[The](/zh/post/the/) [back](/zh/post/back/) [door](/zh/post/door/) is [open](/zh/post/open/)."
+- **动词**: 支持；支援。例如: "I [have](/zh/post/have/) [your](/zh/post/your/) [back](/zh/post/back/) [in](/zh/post/in/) [this](/zh/post/this/) [situation](/zh/post/situation/)."
+- **副词**: 向后；返回。例如: "[He](/zh/post/he/) stepped [back](/zh/post/back/) [from](/zh/post/from/) [the](/zh/post/the/) [edge](/zh/post/edge/) [of](/zh/post/of/) [the](/zh/post/the/) [cliff](/zh/post/cliff/)."
+- **介词**: 在...后面。例如: "[The](/zh/post/the/) sofa was placed [against](/zh/post/against/) [the](/zh/post/the/) [back](/zh/post/back/) [wall](/zh/post/wall/)."
 
 ## 短语
-- "[in](/post/in/) [the](/post/the/) [back](/post/back/)" 指在物体或空间的后部。
-- "[back](/post/back/) [up](/post/up/)" 意为备份（数据）或倒车。
-- "[get](/post/get/) one's [back](/post/back/) [up](/post/up/)" 表示某人变得不悦或生气。
+- "[in](/zh/post/in/) [the](/zh/post/the/) [back](/zh/post/back/)" 指在物体或空间的后部。
+- "[back](/zh/post/back/) [up](/zh/post/up/)" 意为备份（数据）或倒车。
+- "[get](/zh/post/get/) one's [back](/zh/post/back/) [up](/zh/post/up/)" 表示某人变得不悦或生气。
 
 ## 例句
-- 名词: "[She](/post/she/) massaged [his](/post/his/) aching [back](/post/back/)."
-- 形容词: "[The](/post/the/) [back](/post/back/) [seat](/post/seat/) [of](/post/of/) [the](/post/the/) [car](/post/car/) is spacious."
-- 动词: "[The](/post/the/) [team](/post/team/) backed [their](/post/their/) coach's [decision](/post/decision/)."
-- 副词: "[He](/post/he/) moved [back](/post/back/) [to](/post/to/) [his](/post/his/) hometown [after](/post/after/) years [away](/post/away/)."
-- 介词: "[The](/post/the/) store's [entrance](/post/entrance/) is [around](/post/around/) [the](/post/the/) [back](/post/back/)."
+- 名词: "[She](/zh/post/she/) massaged [his](/zh/post/his/) aching [back](/zh/post/back/)."
+- 形容词: "[The](/zh/post/the/) [back](/zh/post/back/) [seat](/zh/post/seat/) [of](/zh/post/of/) [the](/zh/post/the/) [car](/zh/post/car/) is spacious."
+- 动词: "[The](/zh/post/the/) [team](/zh/post/team/) backed [their](/zh/post/their/) coach's [decision](/zh/post/decision/)."
+- 副词: "[He](/zh/post/he/) moved [back](/zh/post/back/) [to](/zh/post/to/) [his](/zh/post/his/) hometown [after](/zh/post/after/) years [away](/zh/post/away/)."
+- 介词: "[The](/zh/post/the/) store's [entrance](/zh/post/entrance/) is [around](/zh/post/around/) [the](/zh/post/the/) [back](/zh/post/back/)."
 
 ## 同义词
-- [Rear](/post/rear/)
-- [Behind](/post/behind/)
-- [Reverse](/post/reverse/)
+- [Rear](/zh/post/rear/)
+- [Behind](/zh/post/behind/)
+- [Reverse](/zh/post/reverse/)
 - Posterior
-- [Support](/post/support/)
+- [Support](/zh/post/support/)

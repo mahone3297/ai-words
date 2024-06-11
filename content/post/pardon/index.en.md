@@ -7,33 +7,33 @@ description = '[ˈpɑːdn] n.原谅；赦免 vt.原谅'
 keywords = ['ai words', 'pardon']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈrɑːndən/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [forgive](/en/post/forgive/) [or](/en/post/or/) [excuse](/en/post/excuse/) [someone](/en/post/someone/) [for](/en/post/for/) an [error](/en/post/error/), offense, [or](/en/post/or/) misunderstanding. "I [pardon](/en/post/pardon/) [your](/en/post/your/) [mistake](/en/post/mistake/)."
-- **[Noun](/en/post/noun/)**: (n) An [expression](/en/post/expression/) [of](/en/post/of/) forgiveness [or](/en/post/or/) [permission](/en/post/permission/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). "[She](/en/post/she/) gave [him](/en/post/him/) [a](/en/post/a/) [formal](/en/post/formal/) [pardon](/en/post/pardon/)."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [forgive](/post/forgive/) [or](/post/or/) [excuse](/post/excuse/) [someone](/post/someone/) [for](/post/for/) an [error](/post/error/), offense, [or](/post/or/) misunderstanding. "I [pardon](/post/pardon/) [your](/post/your/) [mistake](/post/mistake/)."
+- **[Noun](/post/noun/)**: (n) An [expression](/post/expression/) [of](/post/of/) forgiveness [or](/post/or/) [permission](/post/permission/) [to](/post/to/) [do](/post/do/) [something](/post/something/). "[She](/post/she/) gave [him](/post/him/) [a](/post/a/) [formal](/post/formal/) [pardon](/post/pardon/)."
 
 ## Phrases
-- "[Pardon](/en/post/pardon/) [me](/en/post/me/)" is [used](/en/post/used/) [to](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) [permission](/en/post/permission/) [or](/en/post/or/) [to](/en/post/to/) [apologize](/en/post/apologize/).
-- "[Pardon](/en/post/pardon/) [my](/en/post/my/) French" is [a](/en/post/a/) [humorous](/en/post/humorous/) [way](/en/post/way/) [to](/en/post/to/) [excuse](/en/post/excuse/) [oneself](/en/post/oneself/) [for](/en/post/for/) speaking [with](/en/post/with/) [a](/en/post/a/) perceived [accent](/en/post/accent/) [or](/en/post/or/) making [a](/en/post/a/) [grammatical](/en/post/grammatical/) [error](/en/post/error/).
-- "[No](/en/post/no/) [hard](/en/post/hard/) feelings, I [pardon](/en/post/pardon/) [you](/en/post/you/)" is [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [forgive](/en/post/forgive/) [and](/en/post/and/) [forget](/en/post/forget/) [a](/en/post/a/) [slight](/en/post/slight/).
+- "[Pardon](/post/pardon/) [me](/post/me/)" is [used](/post/used/) [to](/post/to/) [ask](/post/ask/) [for](/post/for/) [permission](/post/permission/) [or](/post/or/) [to](/post/to/) [apologize](/post/apologize/).
+- "[Pardon](/post/pardon/) [my](/post/my/) French" is [a](/post/a/) [humorous](/post/humorous/) [way](/post/way/) [to](/post/to/) [excuse](/post/excuse/) [oneself](/post/oneself/) [for](/post/for/) speaking [with](/post/with/) [a](/post/a/) perceived [accent](/post/accent/) [or](/post/or/) making [a](/post/a/) [grammatical](/post/grammatical/) [error](/post/error/).
+- "[No](/post/no/) [hard](/post/hard/) feelings, I [pardon](/post/pardon/) [you](/post/you/)" is [a](/post/a/) [way](/post/way/) [to](/post/to/) [forgive](/post/forgive/) [and](/post/and/) [forget](/post/forget/) [a](/post/a/) [slight](/post/slight/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [judge](/en/post/judge/) granted [the](/en/post/the/) [prisoner](/en/post/prisoner/) [a](/en/post/a/) [pardon](/en/post/pardon/) [after](/en/post/after/) serving [half](/en/post/half/) [his](/en/post/his/) [sentence](/en/post/sentence/)."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) realizing [her](/en/post/her/) [mistake](/en/post/mistake/), [she](/en/post/she/) offered [a](/en/post/a/) [sincere](/en/post/sincere/) [pardon](/en/post/pardon/) [to](/en/post/to/) [her](/en/post/her/) [friend](/en/post/friend/)."
-- **Phrasal**: "[Excuse](/en/post/excuse/) [me](/en/post/me/), I [need](/en/post/need/) [to](/en/post/to/) [step](/en/post/step/) [out](/en/post/out/) [for](/en/post/for/) [a](/en/post/a/) [moment](/en/post/moment/). [Pardon](/en/post/pardon/) [me](/en/post/me/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [judge](/post/judge/) granted [the](/post/the/) [prisoner](/post/prisoner/) [a](/post/a/) [pardon](/post/pardon/) [after](/post/after/) serving [half](/post/half/) [his](/post/his/) [sentence](/post/sentence/)."
+- **[Noun](/post/noun/)**: "[After](/post/after/) realizing [her](/post/her/) [mistake](/post/mistake/), [she](/post/she/) offered [a](/post/a/) [sincere](/post/sincere/) [pardon](/post/pardon/) [to](/post/to/) [her](/post/her/) [friend](/post/friend/)."
+- **Phrasal**: "[Excuse](/post/excuse/) [me](/post/me/), I [need](/post/need/) [to](/post/to/) [step](/post/step/) [out](/post/out/) [for](/post/for/) [a](/post/a/) [moment](/post/moment/). [Pardon](/post/pardon/) [me](/post/me/)."
 
 ## Synonyms
 - Forgiveness
 - Remission
 - Absolution
-- [Apology](/en/post/apology/)
+- [Apology](/post/apology/)
 - Exemption
 
 ## Antonyms
 - Condemnation
 - Reproof
-- [Punishment](/en/post/punishment/)
+- [Punishment](/post/punishment/)
 - Retribution
-- [Blame](/en/post/blame/)
+- [Blame](/post/blame/)

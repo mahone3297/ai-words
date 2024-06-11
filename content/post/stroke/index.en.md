@@ -7,50 +7,50 @@ description = 'vt.&n.抚，摩，捋'
 keywords = ['ai words', 'stroke']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stroʊk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [sudden](/en/post/sudden/), forceful [movement](/en/post/movement/) [or](/en/post/or/) [blow](/en/post/blow/):** *[He](/en/post/he/) executed [a](/en/post/a/) [perfect](/en/post/perfect/) [stroke](/en/post/stroke/) [of](/en/post/of/) [the](/en/post/the/) [golf](/en/post/golf/) [club](/en/post/club/).*
-- **[A](/en/post/a/) [mark](/en/post/mark/) [or](/en/post/or/) [line](/en/post/line/) made [with](/en/post/with/) [a](/en/post/a/) [tool](/en/post/tool/):** *[The](/en/post/the/) artist's brushstroke was [delicate](/en/post/delicate/) [and](/en/post/and/) expressive.*
-- **An [instance](/en/post/instance/) [of](/en/post/of/) [action](/en/post/action/) [or](/en/post/or/) [effort](/en/post/effort/):** *[He](/en/post/he/) finished [his](/en/post/his/) homework [in](/en/post/in/) [one](/en/post/one/) [swift](/en/post/swift/) [stroke](/en/post/stroke/).*
-- **[A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) currency [in](/en/post/in/) [some](/en/post/some/) countries, [particularly](/en/post/particularly/) [in](/en/post/in/) [Asia](/en/post/asia/):** *[The](/en/post/the/) [exchange](/en/post/exchange/) [rate](/en/post/rate/) was 100 strokes [to](/en/post/to/) [the](/en/post/the/) [dollar](/en/post/dollar/).*
+### [Noun](/post/noun/)
+- **[A](/post/a/) [sudden](/post/sudden/), forceful [movement](/post/movement/) [or](/post/or/) [blow](/post/blow/):** *[He](/post/he/) executed [a](/post/a/) [perfect](/post/perfect/) [stroke](/post/stroke/) [of](/post/of/) [the](/post/the/) [golf](/post/golf/) [club](/post/club/).*
+- **[A](/post/a/) [mark](/post/mark/) [or](/post/or/) [line](/post/line/) made [with](/post/with/) [a](/post/a/) [tool](/post/tool/):** *[The](/post/the/) artist's brushstroke was [delicate](/post/delicate/) [and](/post/and/) expressive.*
+- **An [instance](/post/instance/) [of](/post/of/) [action](/post/action/) [or](/post/or/) [effort](/post/effort/):** *[He](/post/he/) finished [his](/post/his/) homework [in](/post/in/) [one](/post/one/) [swift](/post/swift/) [stroke](/post/stroke/).*
+- **[A](/post/a/) [unit](/post/unit/) [of](/post/of/) currency [in](/post/in/) [some](/post/some/) countries, [particularly](/post/particularly/) [in](/post/in/) [Asia](/post/asia/):** *[The](/post/the/) [exchange](/post/exchange/) [rate](/post/rate/) was 100 strokes [to](/post/to/) [the](/post/the/) [dollar](/post/dollar/).*
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [perform](/en/post/perform/) [a](/en/post/a/) [movement](/en/post/movement/) [or](/en/post/or/) [action](/en/post/action/) [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) [technique](/en/post/technique/):** *[She](/en/post/she/) stroked [the](/en/post/the/) [cat](/en/post/cat/) [gently](/en/post/gently/).*
-- **[To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [mark](/en/post/mark/) [or](/en/post/or/) [pass](/en/post/pass/) an [object](/en/post/object/) [through](/en/post/through/) [a](/en/post/a/) [liquid](/en/post/liquid/) [or](/en/post/or/) [substance](/en/post/substance/):** *[The](/en/post/the/) chef stroked [the](/en/post/the/) [sauce](/en/post/sauce/) [across](/en/post/across/) [the](/en/post/the/) pasta.*
-- **[To](/en/post/to/) [write](/en/post/write/) [or](/en/post/or/) [draw](/en/post/draw/) [with](/en/post/with/) [a](/en/post/a/) [fluid](/en/post/fluid/) [motion](/en/post/motion/):** *[He](/en/post/he/) stroked [out](/en/post/out/) [a](/en/post/a/) [quick](/en/post/quick/) [sketch](/en/post/sketch/) [on](/en/post/on/) [the](/en/post/the/) [paper](/en/post/paper/).*
-- **[To](/en/post/to/) [indicate](/en/post/indicate/) [or](/en/post/or/) [suggest](/en/post/suggest/) [something](/en/post/something/) [with](/en/post/with/) [a](/en/post/a/) [gesture](/en/post/gesture/) [or](/en/post/or/) [expression](/en/post/expression/):** *[His](/en/post/his/) [nod](/en/post/nod/) was [a](/en/post/a/) [silent](/en/post/silent/) [stroke](/en/post/stroke/) [of](/en/post/of/) [approval](/en/post/approval/).*
+### [Verb](/post/verb/)
+- **[To](/post/to/) [perform](/post/perform/) [a](/post/a/) [movement](/post/movement/) [or](/post/or/) [action](/post/action/) [with](/post/with/) [a](/post/a/) [specific](/post/specific/) [technique](/post/technique/):** *[She](/post/she/) stroked [the](/post/the/) [cat](/post/cat/) [gently](/post/gently/).*
+- **[To](/post/to/) [make](/post/make/) [a](/post/a/) [mark](/post/mark/) [or](/post/or/) [pass](/post/pass/) an [object](/post/object/) [through](/post/through/) [a](/post/a/) [liquid](/post/liquid/) [or](/post/or/) [substance](/post/substance/):** *[The](/post/the/) chef stroked [the](/post/the/) [sauce](/post/sauce/) [across](/post/across/) [the](/post/the/) pasta.*
+- **[To](/post/to/) [write](/post/write/) [or](/post/or/) [draw](/post/draw/) [with](/post/with/) [a](/post/a/) [fluid](/post/fluid/) [motion](/post/motion/):** *[He](/post/he/) stroked [out](/post/out/) [a](/post/a/) [quick](/post/quick/) [sketch](/post/sketch/) [on](/post/on/) [the](/post/the/) [paper](/post/paper/).*
+- **[To](/post/to/) [indicate](/post/indicate/) [or](/post/or/) [suggest](/post/suggest/) [something](/post/something/) [with](/post/with/) [a](/post/a/) [gesture](/post/gesture/) [or](/post/or/) [expression](/post/expression/):** *[His](/post/his/) [nod](/post/nod/) was [a](/post/a/) [silent](/post/silent/) [stroke](/post/stroke/) [of](/post/of/) [approval](/post/approval/).*
 
-### [Adjective](/en/post/adjective/)
-- **[A](/en/post/a/) [single](/en/post/single/) [act](/en/post/act/) [or](/en/post/or/) [movement](/en/post/movement/):** *[The](/en/post/the/) [final](/en/post/final/) [stroke](/en/post/stroke/) [of](/en/post/of/) [the](/en/post/the/) [pen](/en/post/pen/) completed [the](/en/post/the/) [signature](/en/post/signature/).*
-- **[Severe](/en/post/severe/) [or](/en/post/or/) drastic:** *[A](/en/post/a/) [sudden](/en/post/sudden/) [financial](/en/post/financial/) [stroke](/en/post/stroke/) [of](/en/post/of/) [bad](/en/post/bad/) [luck](/en/post/luck/).*
-- **Requiring [great](/en/post/great/) [skill](/en/post/skill/) [or](/en/post/or/) [effort](/en/post/effort/):** *[The](/en/post/the/) gymnast's [complex](/en/post/complex/) [stroke](/en/post/stroke/) was breathtaking [to](/en/post/to/) [watch](/en/post/watch/).*
+### [Adjective](/post/adjective/)
+- **[A](/post/a/) [single](/post/single/) [act](/post/act/) [or](/post/or/) [movement](/post/movement/):** *[The](/post/the/) [final](/post/final/) [stroke](/post/stroke/) [of](/post/of/) [the](/post/the/) [pen](/post/pen/) completed [the](/post/the/) [signature](/post/signature/).*
+- **[Severe](/post/severe/) [or](/post/or/) drastic:** *[A](/post/a/) [sudden](/post/sudden/) [financial](/post/financial/) [stroke](/post/stroke/) [of](/post/of/) [bad](/post/bad/) [luck](/post/luck/).*
+- **Requiring [great](/post/great/) [skill](/post/skill/) [or](/post/or/) [effort](/post/effort/):** *[The](/post/the/) gymnast's [complex](/post/complex/) [stroke](/post/stroke/) was breathtaking [to](/post/to/) [watch](/post/watch/).*
 
-### [Adverb](/en/post/adverb/)
-- **[In](/en/post/in/) [a](/en/post/a/) [single](/en/post/single/) [movement](/en/post/movement/):** *[He](/en/post/he/) finished [the](/en/post/the/) [task](/en/post/task/) [in](/en/post/in/) [one](/en/post/one/) [stroke](/en/post/stroke/).*
-- **Effortlessly [or](/en/post/or/) [with](/en/post/with/) [ease](/en/post/ease/):** *[She](/en/post/she/) answered [the](/en/post/the/) [question](/en/post/question/) [with](/en/post/with/) [a](/en/post/a/) [single](/en/post/single/) [stroke](/en/post/stroke/) [of](/en/post/of/) [her](/en/post/her/) [pen](/en/post/pen/).*
+### [Adverb](/post/adverb/)
+- **[In](/post/in/) [a](/post/a/) [single](/post/single/) [movement](/post/movement/):** *[He](/post/he/) finished [the](/post/the/) [task](/post/task/) [in](/post/in/) [one](/post/one/) [stroke](/post/stroke/).*
+- **Effortlessly [or](/post/or/) [with](/post/with/) [ease](/post/ease/):** *[She](/post/she/) answered [the](/post/the/) [question](/post/question/) [with](/post/with/) [a](/post/a/) [single](/post/single/) [stroke](/post/stroke/) [of](/post/of/) [her](/post/her/) [pen](/post/pen/).*
 
 ## Phrases
-- "[Give](/en/post/give/) [someone](/en/post/someone/) [a](/en/post/a/) [stroke](/en/post/stroke/) [of](/en/post/of/) [luck](/en/post/luck/)"
-- "[A](/en/post/a/) [single](/en/post/single/) [stroke](/en/post/stroke/) [of](/en/post/of/) [genius](/en/post/genius/)"
-- "[A](/en/post/a/) [stroke](/en/post/stroke/) [of](/en/post/of/) [fate](/en/post/fate/)"
+- "[Give](/post/give/) [someone](/post/someone/) [a](/post/a/) [stroke](/post/stroke/) [of](/post/of/) [luck](/post/luck/)"
+- "[A](/post/a/) [single](/post/single/) [stroke](/post/stroke/) [of](/post/of/) [genius](/post/genius/)"
+- "[A](/post/a/) [stroke](/post/stroke/) [of](/post/of/) [fate](/post/fate/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) athlete's [powerful](/en/post/powerful/) [stroke](/en/post/stroke/) propelled [the](/en/post/the/) [boat](/en/post/boat/) [forward](/en/post/forward/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) stroked [her](/en/post/her/) [hair](/en/post/hair/) absentmindedly [as](/en/post/as/) [she](/en/post/she/) listened [to](/en/post/to/) [the](/en/post/the/) [story](/en/post/story/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) artist's brushstrokes were [bold](/en/post/bold/) [and](/en/post/and/) expressive."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) solved [the](/en/post/the/) [problem](/en/post/problem/) [in](/en/post/in/) [one](/en/post/one/) [stroke](/en/post/stroke/), showing [remarkable](/en/post/remarkable/) [intelligence](/en/post/intelligence/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) athlete's [powerful](/post/powerful/) [stroke](/post/stroke/) propelled [the](/post/the/) [boat](/post/boat/) [forward](/post/forward/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) stroked [her](/post/her/) [hair](/post/hair/) absentmindedly [as](/post/as/) [she](/post/she/) listened [to](/post/to/) [the](/post/the/) [story](/post/story/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) artist's brushstrokes were [bold](/post/bold/) [and](/post/and/) expressive."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) solved [the](/post/the/) [problem](/post/problem/) [in](/post/in/) [one](/post/one/) [stroke](/post/stroke/), showing [remarkable](/post/remarkable/) [intelligence](/post/intelligence/)."
 
 ## Synonyms
 - Swirl
-- [Tap](/en/post/tap/)
-- [Push](/en/post/push/)
-- [Hit](/en/post/hit/)
-- [Dip](/en/post/dip/)
-- [Sign](/en/post/sign/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [a](/en/post/a/) [signature](/en/post/signature/))
-- [Dash](/en/post/dash/)
-- [Effort](/en/post/effort/)
-- [Movement](/en/post/movement/)
-- [Action](/en/post/action/)
+- [Tap](/post/tap/)
+- [Push](/post/push/)
+- [Hit](/post/hit/)
+- [Dip](/post/dip/)
+- [Sign](/post/sign/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [a](/post/a/) [signature](/post/signature/))
+- [Dash](/post/dash/)
+- [Effort](/post/effort/)
+- [Movement](/post/movement/)
+- [Action](/post/action/)

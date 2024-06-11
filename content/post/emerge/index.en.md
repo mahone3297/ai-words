@@ -7,45 +7,45 @@ description = '[iˈməːdʒ] vi.出现，涌现；冒出'
 keywords = ['ai words', 'emerge']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈmɜːrdʒ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: ([emerge](/en/post/emerge/)) [To](/en/post/to/) [come](/en/post/come/) [out](/en/post/out/) [or](/en/post/or/) [become](/en/post/become/) [visible](/en/post/visible/) [after](/en/post/after/) [being](/en/post/being/) concealed, [to](/en/post/to/) [rise](/en/post/rise/) [up](/en/post/up/) [from](/en/post/from/) [within](/en/post/within/) [something](/en/post/something/) [else](/en/post/else/), [or](/en/post/or/) [to](/en/post/to/) [appear](/en/post/appear/) [suddenly](/en/post/suddenly/) [or](/en/post/or/) [gradually](/en/post/gradually/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [become](/en/post/become/) known, recognized, [or](/en/post/or/) [prominent](/en/post/prominent/). 
+- **[Verb](/post/verb/)**: ([emerge](/post/emerge/)) [To](/post/to/) [come](/post/come/) [out](/post/out/) [or](/post/or/) [become](/post/become/) [visible](/post/visible/) [after](/post/after/) [being](/post/being/) concealed, [to](/post/to/) [rise](/post/rise/) [up](/post/up/) [from](/post/from/) [within](/post/within/) [something](/post/something/) [else](/post/else/), [or](/post/or/) [to](/post/to/) [appear](/post/appear/) [suddenly](/post/suddenly/) [or](/post/or/) [gradually](/post/gradually/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) [become](/post/become/) known, recognized, [or](/post/or/) [prominent](/post/prominent/). 
 
-  - _Example Sentence_: "[A](/en/post/a/) [new](/en/post/new/) [understanding](/en/post/understanding/) emerged [from](/en/post/from/) [the](/en/post/the/) [discussion](/en/post/discussion/)."
-  - _Example Sentence_: "[The](/en/post/the/) [sun](/en/post/sun/) emerges [from](/en/post/from/) [behind](/en/post/behind/) [the](/en/post/the/) clouds [every](/en/post/every/) [morning](/en/post/morning/)."
-  - _Example Sentence_: "[New](/en/post/new/) [talent](/en/post/talent/) [often](/en/post/often/) emerges [during](/en/post/during/) times [of](/en/post/of/) [crisis](/en/post/crisis/)."
+  - _Example Sentence_: "[A](/post/a/) [new](/post/new/) [understanding](/post/understanding/) emerged [from](/post/from/) [the](/post/the/) [discussion](/post/discussion/)."
+  - _Example Sentence_: "[The](/post/the/) [sun](/post/sun/) emerges [from](/post/from/) [behind](/post/behind/) [the](/post/the/) clouds [every](/post/every/) [morning](/post/morning/)."
+  - _Example Sentence_: "[New](/post/new/) [talent](/post/talent/) [often](/post/often/) emerges [during](/post/during/) times [of](/post/of/) [crisis](/post/crisis/)."
 
-- **[Noun](/en/post/noun/)**: (emergence) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) emerging; [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) coming [into](/en/post/into/) [view](/en/post/view/) [or](/en/post/or/) becoming [apparent](/en/post/apparent/), [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) having emerged.
+- **[Noun](/post/noun/)**: (emergence) [The](/post/the/) [act](/post/act/) [of](/post/of/) emerging; [the](/post/the/) [process](/post/process/) [of](/post/of/) coming [into](/post/into/) [view](/post/view/) [or](/post/or/) becoming [apparent](/post/apparent/), [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) having emerged.
 
-  - _Example Sentence_: "[The](/en/post/the/) emergence [of](/en/post/of/) [new](/en/post/new/) technologies transformed [the](/en/post/the/) [industry](/en/post/industry/)."
+  - _Example Sentence_: "[The](/post/the/) emergence [of](/post/of/) [new](/post/new/) technologies transformed [the](/post/the/) [industry](/post/industry/)."
   
 ## Phrases
-- "Emergence [from](/en/post/from/) lockdown": Refers [to](/en/post/to/) [the](/en/post/the/) [gradual](/en/post/gradual/) [return](/en/post/return/) [to](/en/post/to/) [normal](/en/post/normal/) [life](/en/post/life/) [after](/en/post/after/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) quarantine [or](/en/post/or/) [restriction](/en/post/restriction/) [due](/en/post/due/) [to](/en/post/to/) [a](/en/post/a/) pandemic [or](/en/post/or/) [similar](/en/post/similar/) [situation](/en/post/situation/).
-- "An [idea](/en/post/idea/) begins [to](/en/post/to/) [emerge](/en/post/emerge/)": [This](/en/post/this/) [phrase](/en/post/phrase/) indicates [that](/en/post/that/) [a](/en/post/a/) [concept](/en/post/concept/) [or](/en/post/or/) [plan](/en/post/plan/) is starting [to](/en/post/to/) [become](/en/post/become/) [clear](/en/post/clear/) [or](/en/post/or/) [take](/en/post/take/) [shape](/en/post/shape/).
-- "[Emerge](/en/post/emerge/) [victorious](/en/post/victorious/)": [To](/en/post/to/) [come](/en/post/come/) [out](/en/post/out/) [of](/en/post/of/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/) [or](/en/post/or/) [competition](/en/post/competition/) [as](/en/post/as/) [the](/en/post/the/) [winner](/en/post/winner/).
+- "Emergence [from](/post/from/) lockdown": Refers [to](/post/to/) [the](/post/the/) [gradual](/post/gradual/) [return](/post/return/) [to](/post/to/) [normal](/post/normal/) [life](/post/life/) [after](/post/after/) [a](/post/a/) [period](/post/period/) [of](/post/of/) quarantine [or](/post/or/) [restriction](/post/restriction/) [due](/post/due/) [to](/post/to/) [a](/post/a/) pandemic [or](/post/or/) [similar](/post/similar/) [situation](/post/situation/).
+- "An [idea](/post/idea/) begins [to](/post/to/) [emerge](/post/emerge/)": [This](/post/this/) [phrase](/post/phrase/) indicates [that](/post/that/) [a](/post/a/) [concept](/post/concept/) [or](/post/or/) [plan](/post/plan/) is starting [to](/post/to/) [become](/post/become/) [clear](/post/clear/) [or](/post/or/) [take](/post/take/) [shape](/post/shape/).
+- "[Emerge](/post/emerge/) [victorious](/post/victorious/)": [To](/post/to/) [come](/post/come/) [out](/post/out/) [of](/post/of/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/) [or](/post/or/) [competition](/post/competition/) [as](/post/as/) [the](/post/the/) [winner](/post/winner/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [his](/en/post/his/) [true](/en/post/true/) [potential](/en/post/potential/) began [to](/en/post/to/) [emerge](/en/post/emerge/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) emergence [of](/en/post/of/) [the](/en/post/the/) internet has revolutionized [communication](/en/post/communication/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [his](/post/his/) [true](/post/true/) [potential](/post/potential/) began [to](/post/to/) [emerge](/post/emerge/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) emergence [of](/post/of/) [the](/post/the/) internet has revolutionized [communication](/post/communication/)."
 
 ## Synonyms
-- [Arise](/en/post/arise/)
-- [Appear](/en/post/appear/)
-- [Come](/en/post/come/) [forth](/en/post/forth/)
-- [Surface](/en/post/surface/)
+- [Arise](/post/arise/)
+- [Appear](/post/appear/)
+- [Come](/post/come/) [forth](/post/forth/)
+- [Surface](/post/surface/)
 - Sprout
-- [Develop](/en/post/develop/)
+- [Develop](/post/develop/)
 - Unfold
 - Materialize
-- [Rise](/en/post/rise/)
-- [Become](/en/post/become/) [evident](/en/post/evident/)
+- [Rise](/post/rise/)
+- [Become](/post/become/) [evident](/post/evident/)
 
-[For](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [form](/en/post/form/) (emergence), synonyms [might](/en/post/might/) [include](/en/post/include/):
+[For](/post/for/) [the](/post/the/) [noun](/post/noun/) [form](/post/form/) (emergence), synonyms [might](/post/might/) [include](/post/include/):
 - Emergence
-- [Appearance](/en/post/appearance/)
+- [Appearance](/post/appearance/)
 - Advent
 - Onset
-- [Arrival](/en/post/arrival/)
+- [Arrival](/post/arrival/)
 - Manifestation

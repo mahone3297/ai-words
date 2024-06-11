@@ -7,37 +7,37 @@ description = '[kəup] vi.对付，应付'
 keywords = ['ai words', 'cope']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəʊp/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [manage](/en/post/manage/), [deal](/en/post/deal/) [with](/en/post/with/), [or](/en/post/or/) [endure](/en/post/endure/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/) [or](/en/post/or/) [problem](/en/post/problem/). (n.): [The](/en/post/the/) [ability](/en/post/ability/) [or](/en/post/or/) [manner](/en/post/manner/) [of](/en/post/of/) coping [with](/en/post/with/) [such](/en/post/such/) situations. (adj.): Accommodating [or](/en/post/or/) [efficient](/en/post/efficient/) [in](/en/post/in/) dealing [with](/en/post/with/) [stress](/en/post/stress/) [or](/en/post/or/) adversity.
+- **[Verb](/post/verb/)**: [To](/post/to/) [manage](/post/manage/), [deal](/post/deal/) [with](/post/with/), [or](/post/or/) [endure](/post/endure/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/) [or](/post/or/) [problem](/post/problem/). (n.): [The](/post/the/) [ability](/post/ability/) [or](/post/or/) [manner](/post/manner/) [of](/post/of/) coping [with](/post/with/) [such](/post/such/) situations. (adj.): Accommodating [or](/post/or/) [efficient](/post/efficient/) [in](/post/in/) dealing [with](/post/with/) [stress](/post/stress/) [or](/post/or/) adversity.
 
 ## Phrases
-- "Coping mechanism" refers [to](/en/post/to/) [a](/en/post/a/) [strategy](/en/post/strategy/) [used](/en/post/used/) [to](/en/post/to/) [handle](/en/post/handle/) [stress](/en/post/stress/) [or](/en/post/or/) [emotional](/en/post/emotional/) issues.
-- "She's struggling [to](/en/post/to/) [cope](/en/post/cope/) [with](/en/post/with/) [the](/en/post/the/) [loss](/en/post/loss/)."
-- "He's been coping [well](/en/post/well/) [under](/en/post/under/) [pressure](/en/post/pressure/)."
+- "Coping mechanism" refers [to](/post/to/) [a](/post/a/) [strategy](/post/strategy/) [used](/post/used/) [to](/post/to/) [handle](/post/handle/) [stress](/post/stress/) [or](/post/or/) [emotional](/post/emotional/) issues.
+- "She's struggling [to](/post/to/) [cope](/post/cope/) [with](/post/with/) [the](/post/the/) [loss](/post/loss/)."
+- "He's been coping [well](/post/well/) [under](/post/under/) [pressure](/post/pressure/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) had [to](/en/post/to/) [cope](/en/post/cope/) [with](/en/post/with/) [the](/en/post/the/) challenges [of](/en/post/of/) moving [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [city](/en/post/city/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) resilience was [a](/en/post/a/) [key](/en/post/key/) [factor](/en/post/factor/) [in](/en/post/in/) [how](/en/post/how/) [she](/en/post/she/) coped [with](/en/post/with/) [the](/en/post/the/) [illness](/en/post/illness/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) displayed [a](/en/post/a/) [calm](/en/post/calm/) [and](/en/post/and/) [efficient](/en/post/efficient/) coping [style](/en/post/style/) [during](/en/post/during/) [the](/en/post/the/) [crisis](/en/post/crisis/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[He](/post/he/) had [to](/post/to/) [cope](/post/cope/) [with](/post/with/) [the](/post/the/) challenges [of](/post/of/) moving [to](/post/to/) [a](/post/a/) [new](/post/new/) [city](/post/city/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) resilience was [a](/post/a/) [key](/post/key/) [factor](/post/factor/) [in](/post/in/) [how](/post/how/) [she](/post/she/) coped [with](/post/with/) [the](/post/the/) [illness](/post/illness/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) displayed [a](/post/a/) [calm](/post/calm/) [and](/post/and/) [efficient](/post/efficient/) coping [style](/post/style/) [during](/post/during/) [the](/post/the/) [crisis](/post/crisis/)."
 
 ## Synonyms
-- [Manage](/en/post/manage/)
-- [Deal](/en/post/deal/) [with](/en/post/with/)
-- [Handle](/en/post/handle/)
-- [Bear](/en/post/bear/)
-- [Survive](/en/post/survive/)
-- [Adapt](/en/post/adapt/)
-- [Adjust](/en/post/adjust/)
+- [Manage](/post/manage/)
+- [Deal](/post/deal/) [with](/post/with/)
+- [Handle](/post/handle/)
+- [Bear](/post/bear/)
+- [Survive](/post/survive/)
+- [Adapt](/post/adapt/)
+- [Adjust](/post/adjust/)
 - Confront
-- [weather](/en/post/weather/)
-- [endure](/en/post/endure/)
+- [weather](/post/weather/)
+- [endure](/post/endure/)
 
 ## Antonyms
-- [Fail](/en/post/fail/)
-- [Struggle](/en/post/struggle/)
-- [Lose](/en/post/lose/) [control](/en/post/control/)
-- [Be](/en/post/be/) overwhelmed
-- [Fall](/en/post/fall/) [apart](/en/post/apart/)
+- [Fail](/post/fail/)
+- [Struggle](/post/struggle/)
+- [Lose](/post/lose/) [control](/post/control/)
+- [Be](/post/be/) overwhelmed
+- [Fall](/post/fall/) [apart](/post/apart/)

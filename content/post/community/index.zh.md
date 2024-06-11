@@ -11,23 +11,23 @@ keywords = ['ai words', 'community']
 /ˈkɑːmjuːnɪti/
 
 ## 释义
-- **名词**: 一个有共同利益、居住地或目标的人群；社区，团体。例如: "[The](/post/the/) [local](/post/local/) [community](/post/community/) came [together](/post/together/) [to](/post/to/) [organize](/post/organize/) [a](/post/a/) [charity](/post/charity/) [event](/post/event/)."
-- **名词**: 社会，社会群体。例如: "[They](/post/they/) are an integral [part](/post/part/) [of](/post/of/) [the](/post/the/) global [community](/post/community/)."
-- **名词**: 共享相同兴趣或活动的网络用户群体。例如: "[The](/post/the/) online gaming [community](/post/community/) is [very](/post/very/) [active](/post/active/)."
+- **名词**: 一个有共同利益、居住地或目标的人群；社区，团体。例如: "[The](/zh/post/the/) [local](/zh/post/local/) [community](/zh/post/community/) came [together](/zh/post/together/) [to](/zh/post/to/) [organize](/zh/post/organize/) [a](/zh/post/a/) [charity](/zh/post/charity/) [event](/zh/post/event/)."
+- **名词**: 社会，社会群体。例如: "[They](/zh/post/they/) are an integral [part](/zh/post/part/) [of](/zh/post/of/) [the](/zh/post/the/) global [community](/zh/post/community/)."
+- **名词**: 共享相同兴趣或活动的网络用户群体。例如: "[The](/zh/post/the/) online gaming [community](/zh/post/community/) is [very](/zh/post/very/) [active](/zh/post/active/)."
 
 ## 短语
-- "[Community](/post/community/) [service](/post/service/)" 指为社区无偿提供服务的行为。
-- "[Community](/post/community/) [leader](/post/leader/)" 指社区的领导人或代表。
-- "[Community](/post/community/) [building](/post/building/)" 指建立和加强社区联系的过程。
+- "[Community](/zh/post/community/) [service](/zh/post/service/)" 指为社区无偿提供服务的行为。
+- "[Community](/zh/post/community/) [leader](/zh/post/leader/)" 指社区的领导人或代表。
+- "[Community](/zh/post/community/) [building](/zh/post/building/)" 指建立和加强社区联系的过程。
 
 ## 例句
-- 名词: "There's [a](/post/a/) [strong](/post/strong/) [sense](/post/sense/) [of](/post/of/) [community](/post/community/) [in](/post/in/) [this](/post/this/) [small](/post/small/) [town](/post/town/)."
-- 名词: "[She](/post/she/) represents [the](/post/the/) LGBTQ+ [community](/post/community/) [in](/post/in/) [her](/post/her/) [area](/post/area/)."
-- 名词: "[The](/post/the/) Minecraft [community](/post/community/) has created countless [custom](/post/custom/) mods [and](/post/and/) maps."
+- 名词: "There's [a](/zh/post/a/) [strong](/zh/post/strong/) [sense](/zh/post/sense/) [of](/zh/post/of/) [community](/zh/post/community/) [in](/zh/post/in/) [this](/zh/post/this/) [small](/zh/post/small/) [town](/zh/post/town/)."
+- 名词: "[She](/zh/post/she/) represents [the](/zh/post/the/) LGBTQ+ [community](/zh/post/community/) [in](/zh/post/in/) [her](/zh/post/her/) [area](/zh/post/area/)."
+- 名词: "[The](/zh/post/the/) Minecraft [community](/zh/post/community/) has created countless [custom](/zh/post/custom/) mods [and](/zh/post/and/) maps."
 
 ## 同义词
-- [Group](/post/group/)
-- [Society](/post/society/)
+- [Group](/zh/post/group/)
+- [Society](/zh/post/society/)
 - Neighborhood
-- [Village](/post/village/)
+- [Village](/zh/post/village/)
 - Borough

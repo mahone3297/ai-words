@@ -7,30 +7,30 @@ description = '[ˈɔːfən] n.孤儿'
 keywords = ['ai words', 'orphan']
 +++
 
-## [Word](/en/post/word/): [Orphan](/en/post/orphan/)
+## [Word](/post/word/): [Orphan](/post/orphan/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːrfən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [child](/en/post/child/) [whose](/en/post/whose/) parents are [dead](/en/post/dead/) [or](/en/post/or/) [have](/en/post/have/) [permanently](/en/post/permanently/) abandoned [them](/en/post/them/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [charity](/en/post/charity/) focuses [on](/en/post/on/) providing [shelter](/en/post/shelter/) [and](/en/post/and/) [education](/en/post/education/) [for](/en/post/for/) orphans."
-- **[Verb](/en/post/verb/)** (archaic): [To](/en/post/to/) [make](/en/post/make/) [someone](/en/post/someone/) an [orphan](/en/post/orphan/); [to](/en/post/to/) deprive [of](/en/post/of/) parents. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [war](/en/post/war/) orphaned [many](/en/post/many/) children."
+- **[Noun](/post/noun/)**: [A](/post/a/) [child](/post/child/) [whose](/post/whose/) parents are [dead](/post/dead/) [or](/post/or/) [have](/post/have/) [permanently](/post/permanently/) abandoned [them](/post/them/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [charity](/post/charity/) focuses [on](/post/on/) providing [shelter](/post/shelter/) [and](/post/and/) [education](/post/education/) [for](/post/for/) orphans."
+- **[Verb](/post/verb/)** (archaic): [To](/post/to/) [make](/post/make/) [someone](/post/someone/) an [orphan](/post/orphan/); [to](/post/to/) deprive [of](/post/of/) parents. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [war](/post/war/) orphaned [many](/post/many/) children."
   
 ## Phrases
-- "Orphanage": An [institution](/en/post/institution/) [that](/en/post/that/) provides [care](/en/post/care/) [for](/en/post/for/) orphans.
-- "[Double](/en/post/double/) [orphan](/en/post/orphan/)": [A](/en/post/a/) [child](/en/post/child/) [who](/en/post/who/) has lost [both](/en/post/both/) parents.
-- "[Orphan](/en/post/orphan/) [drug](/en/post/drug/)": [A](/en/post/a/) pharmaceutical [agent](/en/post/agent/) developed specifically [to](/en/post/to/) [treat](/en/post/treat/) [a](/en/post/a/) [rare](/en/post/rare/) [medical](/en/post/medical/) [condition](/en/post/condition/), [often](/en/post/often/) [due](/en/post/due/) [to](/en/post/to/) [lack](/en/post/lack/) [of](/en/post/of/) profitability [for](/en/post/for/) [widespread](/en/post/widespread/) [use](/en/post/use/).
+- "Orphanage": An [institution](/post/institution/) [that](/post/that/) provides [care](/post/care/) [for](/post/for/) orphans.
+- "[Double](/post/double/) [orphan](/post/orphan/)": [A](/post/a/) [child](/post/child/) [who](/post/who/) has lost [both](/post/both/) parents.
+- "[Orphan](/post/orphan/) [drug](/post/drug/)": [A](/post/a/) pharmaceutical [agent](/post/agent/) developed specifically [to](/post/to/) [treat](/post/treat/) [a](/post/a/) [rare](/post/rare/) [medical](/post/medical/) [condition](/post/condition/), [often](/post/often/) [due](/post/due/) [to](/post/to/) [lack](/post/lack/) [of](/post/of/) profitability [for](/post/for/) [widespread](/post/widespread/) [use](/post/use/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) protagonist was an [orphan](/en/post/orphan/) raised [by](/en/post/by/) [her](/en/post/her/) [grandmother](/en/post/grandmother/) [after](/en/post/after/) [her](/en/post/her/) parents' untimely [death](/en/post/death/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) epidemic tragically orphaned countless children [throughout](/en/post/throughout/) [the](/en/post/the/) [region](/en/post/region/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) protagonist was an [orphan](/post/orphan/) raised [by](/post/by/) [her](/post/her/) [grandmother](/post/grandmother/) [after](/post/after/) [her](/post/her/) parents' untimely [death](/post/death/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) epidemic tragically orphaned countless children [throughout](/post/throughout/) [the](/post/the/) [region](/post/region/)."
 
 ## Synonyms
 - Waif
 - Ward
-- Unparented [child](/en/post/child/)
-- Bereaved [child](/en/post/child/)
-- Parentless [child](/en/post/child/)
-- Abandoned [child](/en/post/child/)
+- Unparented [child](/post/child/)
+- Bereaved [child](/post/child/)
+- Parentless [child](/post/child/)
+- Abandoned [child](/post/child/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) [of](/en/post/of/) "[orphan](/en/post/orphan/)" is [not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [contemporary](/en/post/contemporary/) English, [but](/en/post/but/) [rather](/en/post/rather/) [it](/en/post/it/) is seen [mostly](/en/post/mostly/) [in](/en/post/in/) [historical](/en/post/historical/) texts [or](/en/post/or/) [literary](/en/post/literary/) contexts. [In](/en/post/in/) [modern](/en/post/modern/) [usage](/en/post/usage/), [the](/en/post/the/) [primary](/en/post/primary/) [meaning](/en/post/meaning/) [of](/en/post/of/) "[orphan](/en/post/orphan/)" is [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [child](/en/post/child/) [without](/en/post/without/) parents.
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) [of](/post/of/) "[orphan](/post/orphan/)" is [not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [contemporary](/post/contemporary/) English, [but](/post/but/) [rather](/post/rather/) [it](/post/it/) is seen [mostly](/post/mostly/) [in](/post/in/) [historical](/post/historical/) texts [or](/post/or/) [literary](/post/literary/) contexts. [In](/post/in/) [modern](/post/modern/) [usage](/post/usage/), [the](/post/the/) [primary](/post/primary/) [meaning](/post/meaning/) [of](/post/of/) "[orphan](/post/orphan/)" is [as](/post/as/) [a](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [child](/post/child/) [without](/post/without/) parents.

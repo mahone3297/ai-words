@@ -11,20 +11,20 @@ keywords = ['ai words', 'gaze']
 /ɡeɪz/
 
 ## 释义
-- **名词**: 长时间专注地看，凝视。例如: "[Her](/post/her/) eyes were fixed [in](/post/in/) [a](/post/a/) [curious](/post/curious/) [gaze](/post/gaze/) [upon](/post/upon/) [him](/post/him/)."
-- **动词**: 目不转睛地看，盯着看。例如: "[He](/post/he/) gazed [at](/post/at/) [the](/post/the/) stars [for](/post/for/) hours."
+- **名词**: 长时间专注地看，凝视。例如: "[Her](/zh/post/her/) eyes were fixed [in](/zh/post/in/) [a](/zh/post/a/) [curious](/zh/post/curious/) [gaze](/zh/post/gaze/) [upon](/zh/post/upon/) [him](/zh/post/him/)."
+- **动词**: 目不转睛地看，盯着看。例如: "[He](/zh/post/he/) gazed [at](/zh/post/at/) [the](/zh/post/the/) stars [for](/zh/post/for/) hours."
 
 ## 短语
-- "[gaze](/post/gaze/) [upon](/post/upon/)" 意味着注视，盯着看。例如: "[She](/post/she/) gazed [upon](/post/upon/) [the](/post/the/) [beautiful](/post/beautiful/) [painting](/post/painting/)."
-- "[in](/post/in/) [a](/post/a/) trance-like [gaze](/post/gaze/)" 表示出神地看。例如: "[He](/post/he/) sat [there](/post/there/) [with](/post/with/) [a](/post/a/) [blank](/post/blank/), trance-like [gaze](/post/gaze/)."
+- "[gaze](/zh/post/gaze/) [upon](/zh/post/upon/)" 意味着注视，盯着看。例如: "[She](/zh/post/she/) gazed [upon](/zh/post/upon/) [the](/zh/post/the/) [beautiful](/zh/post/beautiful/) [painting](/zh/post/painting/)."
+- "[in](/zh/post/in/) [a](/zh/post/a/) trance-like [gaze](/zh/post/gaze/)" 表示出神地看。例如: "[He](/zh/post/he/) sat [there](/zh/post/there/) [with](/zh/post/with/) [a](/zh/post/a/) [blank](/zh/post/blank/), trance-like [gaze](/zh/post/gaze/)."
 
 ## 例句
-- 名词: "[His](/post/his/) [intense](/post/intense/) [gaze](/post/gaze/) made [her](/post/her/) [feel](/post/feel/) [uncomfortable](/post/uncomfortable/)."
-- 动词: "[She](/post/she/) gazed [at](/post/at/) [the](/post/the/) [sunset](/post/sunset/), lost [in](/post/in/) [thought](/post/thought/)."
+- 名词: "[His](/zh/post/his/) [intense](/zh/post/intense/) [gaze](/zh/post/gaze/) made [her](/zh/post/her/) [feel](/zh/post/feel/) [uncomfortable](/zh/post/uncomfortable/)."
+- 动词: "[She](/zh/post/she/) gazed [at](/zh/post/at/) [the](/zh/post/the/) [sunset](/zh/post/sunset/), lost [in](/zh/post/in/) [thought](/zh/post/thought/)."
 
 ## 同义词
-- [stare](/post/stare/)
-- [look](/post/look/)
+- [stare](/zh/post/stare/)
+- [look](/zh/post/look/)
 - behold
-- [fix](/post/fix/) one's eyes [on](/post/on/)
+- [fix](/zh/post/fix/) one's eyes [on](/zh/post/on/)
 - peer

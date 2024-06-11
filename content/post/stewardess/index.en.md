@@ -7,28 +7,28 @@ description = '[ˈstjuːədis] n.空中小姐，女乘务员'
 keywords = ['ai words', 'stewardess']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stjuːˈɛrɪd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [female](/en/post/female/) [flight](/en/post/flight/) attendant [on](/en/post/on/) an [airplane](/en/post/airplane/), [responsible](/en/post/responsible/) [for](/en/post/for/) [passenger](/en/post/passenger/) [service](/en/post/service/) [and](/en/post/and/) [safety](/en/post/safety/). [Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[stewardess](/en/post/stewardess/))
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [a](/en/post/a/) [female](/en/post/female/) [flight](/en/post/flight/) attendant. [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[stewardess](/en/post/stewardess/))
+- **[Noun](/post/noun/)**: [A](/post/a/) [female](/post/female/) [flight](/post/flight/) attendant [on](/post/on/) an [airplane](/post/airplane/), [responsible](/post/responsible/) [for](/post/for/) [passenger](/post/passenger/) [service](/post/service/) [and](/post/and/) [safety](/post/safety/). [Oxford](https://en.oxforddictionaries.com/[definition](/post/definition/)/[stewardess](/post/stewardess/))
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [a](/post/a/) [female](/post/female/) [flight](/post/flight/) attendant. [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[stewardess](/post/stewardess/))
 
 ## Phrases
-- "[Meet](/en/post/meet/) [the](/en/post/the/) [flight](/en/post/flight/) [stewardess](/en/post/stewardess/)" [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [female](/en/post/female/) [airline](/en/post/airline/) attendant.
-- "Onboard [stewardess](/en/post/stewardess/)" [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [staff](/en/post/staff/) [member](/en/post/member/) [during](/en/post/during/) [a](/en/post/a/) [flight](/en/post/flight/).
-- "[Stewardess](/en/post/stewardess/) duties" encompass tasks performed [by](/en/post/by/) an [airline](/en/post/airline/) attendant.
+- "[Meet](/post/meet/) [the](/post/the/) [flight](/post/flight/) [stewardess](/post/stewardess/)" [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [female](/post/female/) [airline](/post/airline/) attendant.
+- "Onboard [stewardess](/post/stewardess/)" [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [staff](/post/staff/) [member](/post/member/) [during](/post/during/) [a](/post/a/) [flight](/post/flight/).
+- "[Stewardess](/post/stewardess/) duties" encompass tasks performed [by](/post/by/) an [airline](/post/airline/) attendant.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [stewardess](/en/post/stewardess/) carefully explained [the](/en/post/the/) [safety](/en/post/safety/) procedures [to](/en/post/to/) [all](/en/post/all/) passengers."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [young](/en/post/young/) [stewardess](/en/post/stewardess/) was [calm](/en/post/calm/) [under](/en/post/under/) [pressure](/en/post/pressure/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [captain](/en/post/captain/) greeted [the](/en/post/the/) [crew](/en/post/crew/) [and](/en/post/and/) [the](/en/post/the/) stewardesses [before](/en/post/before/) takeoff."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [stewardess](/post/stewardess/) carefully explained [the](/post/the/) [safety](/post/safety/) procedures [to](/post/to/) [all](/post/all/) passengers."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [young](/post/young/) [stewardess](/post/stewardess/) was [calm](/post/calm/) [under](/post/under/) [pressure](/post/pressure/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [captain](/post/captain/) greeted [the](/post/the/) [crew](/post/crew/) [and](/post/and/) [the](/post/the/) stewardesses [before](/post/before/) takeoff."
 
 ## Synonyms
-- [Air](/en/post/air/) [hostess](/en/post/hostess/)
-- [Flight](/en/post/flight/) attendant (informal, includes [both](/en/post/both/) genders)
-- [Steward](/en/post/steward/) ([male](/en/post/male/) [equivalent](/en/post/equivalent/), [but](/en/post/but/) [less](/en/post/less/) [common](/en/post/common/))
-- [Cabin](/en/post/cabin/) [crew](/en/post/crew/) [member](/en/post/member/)
+- [Air](/post/air/) [hostess](/post/hostess/)
+- [Flight](/post/flight/) attendant (informal, includes [both](/post/both/) genders)
+- [Steward](/post/steward/) ([male](/post/male/) [equivalent](/post/equivalent/), [but](/post/but/) [less](/post/less/) [common](/post/common/))
+- [Cabin](/post/cabin/) [crew](/post/crew/) [member](/post/member/)
 
 ## Etymology
-[The](/en/post/the/) [word](/en/post/word/) "[stewardess](/en/post/stewardess/)" originated [from](/en/post/from/) [the](/en/post/the/) [male](/en/post/male/) [term](/en/post/term/) "[steward](/en/post/steward/)," [which](/en/post/which/) referred [to](/en/post/to/) attendants [on](/en/post/on/) ships [and](/en/post/and/) trains. [The](/en/post/the/) -ess [ending](/en/post/ending/) was added [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) female-specific [role](/en/post/role/). [In](/en/post/in/) [modern](/en/post/modern/) times, "[flight](/en/post/flight/) attendant" is [a](/en/post/a/) [more](/en/post/more/) gender-neutral [term](/en/post/term/).
+[The](/post/the/) [word](/post/word/) "[stewardess](/post/stewardess/)" originated [from](/post/from/) [the](/post/the/) [male](/post/male/) [term](/post/term/) "[steward](/post/steward/)," [which](/post/which/) referred [to](/post/to/) attendants [on](/post/on/) ships [and](/post/and/) trains. [The](/post/the/) -ess [ending](/post/ending/) was added [to](/post/to/) [create](/post/create/) [a](/post/a/) female-specific [role](/post/role/). [In](/post/in/) [modern](/post/modern/) times, "[flight](/post/flight/) attendant" is [a](/post/a/) [more](/post/more/) gender-neutral [term](/post/term/).

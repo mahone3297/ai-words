@@ -7,37 +7,37 @@ description = '[bruːm] n.扫帚'
 keywords = ['ai words', 'broom']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /broʊm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) long-handled [tool](/en/post/tool/) [with](/en/post/with/) bristles [or](/en/post/or/) wires [for](/en/post/for/) sweeping [away](/en/post/away/) [dirt](/en/post/dirt/), [dust](/en/post/dust/), [or](/en/post/or/) debris [from](/en/post/from/) floors, surfaces, [or](/en/post/or/) floors.
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [clean](/en/post/clean/) using [a](/en/post/a/) [broom](/en/post/broom/).
+- **[Noun](/post/noun/)**: [A](/post/a/) long-handled [tool](/post/tool/) [with](/post/with/) bristles [or](/post/or/) wires [for](/post/for/) sweeping [away](/post/away/) [dirt](/post/dirt/), [dust](/post/dust/), [or](/post/or/) debris [from](/post/from/) floors, surfaces, [or](/post/or/) floors.
+- **[Verb](/post/verb/)**: [To](/post/to/) [clean](/post/clean/) using [a](/post/a/) [broom](/post/broom/).
 
 ## Phrases
-- "[Sweep](/en/post/sweep/) [with](/en/post/with/) [a](/en/post/a/) [broom](/en/post/broom/)" is [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) cleaning [with](/en/post/with/) [this](/en/post/this/) [tool](/en/post/tool/).
-- "[Broom](/en/post/broom/) closet" refers [to](/en/post/to/) [a](/en/post/a/) [storage](/en/post/storage/) [area](/en/post/area/) [for](/en/post/for/) brooms [and](/en/post/and/) [other](/en/post/other/) cleaning supplies.
-- "Broomstick" [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) slang [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is overly controlling [or](/en/post/or/) bossy.
+- "[Sweep](/post/sweep/) [with](/post/with/) [a](/post/a/) [broom](/post/broom/)" is [the](/post/the/) [action](/post/action/) [of](/post/of/) cleaning [with](/post/with/) [this](/post/this/) [tool](/post/tool/).
+- "[Broom](/post/broom/) closet" refers [to](/post/to/) [a](/post/a/) [storage](/post/storage/) [area](/post/area/) [for](/post/for/) brooms [and](/post/and/) [other](/post/other/) cleaning supplies.
+- "Broomstick" [can](/post/can/) [be](/post/be/) [a](/post/a/) slang [term](/post/term/) [for](/post/for/) [a](/post/a/) [person](/post/person/) [who](/post/who/) is overly controlling [or](/post/or/) bossy.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) started sweeping [the](/en/post/the/) [floor](/en/post/floor/) [with](/en/post/with/) [a](/en/post/a/) [new](/en/post/new/) [broom](/en/post/broom/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) swept [the](/en/post/the/) leaves [off](/en/post/off/) [the](/en/post/the/) patio [with](/en/post/with/) [a](/en/post/a/) [broom](/en/post/broom/)."
-- "[The](/en/post/the/) children were playing [with](/en/post/with/) [a](/en/post/a/) broomstick, pretending [it](/en/post/it/) was [a](/en/post/a/) [magic](/en/post/magic/) wand."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) started sweeping [the](/post/the/) [floor](/post/floor/) [with](/post/with/) [a](/post/a/) [new](/post/new/) [broom](/post/broom/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [gardener](/post/gardener/) swept [the](/post/the/) leaves [off](/post/off/) [the](/post/the/) patio [with](/post/with/) [a](/post/a/) [broom](/post/broom/)."
+- "[The](/post/the/) children were playing [with](/post/with/) [a](/post/a/) broomstick, pretending [it](/post/it/) was [a](/post/a/) [magic](/post/magic/) wand."
 
 ## Synonyms
 - Broomhandle
 - Sweeper
-- [Brush](/en/post/brush/)
+- [Brush](/post/brush/)
 - Dustpan
 -扫一扫
 
 ## Antonyms
-- [Dirt](/en/post/dirt/)
-- [Mess](/en/post/mess/)
-- Untidy ([opposite](/en/post/opposite/) [of](/en/post/of/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) sweeping)
+- [Dirt](/post/dirt/)
+- [Mess](/post/mess/)
+- Untidy ([opposite](/post/opposite/) [of](/post/of/) [the](/post/the/) [action](/post/action/) [of](/post/of/) sweeping)
 
 ## Related Words
-- Mop: [A](/en/post/a/) cleaning [tool](/en/post/tool/) [for](/en/post/for/) [damp](/en/post/damp/) mopping floors.
-- Duster: [A](/en/post/a/) [tool](/en/post/tool/) [for](/en/post/for/) cleaning [without](/en/post/without/) [water](/en/post/water/), [often](/en/post/often/) handheld.
-- Squeegee: [A](/en/post/a/) [tool](/en/post/tool/) [for](/en/post/for/) removing [excess](/en/post/excess/) [liquid](/en/post/liquid/) [from](/en/post/from/) surfaces.
-- Cleaning supplies: [A](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) items [used](/en/post/used/) [for](/en/post/for/) maintaining hygiene [and](/en/post/and/) [order](/en/post/order/).
+- Mop: [A](/post/a/) cleaning [tool](/post/tool/) [for](/post/for/) [damp](/post/damp/) mopping floors.
+- Duster: [A](/post/a/) [tool](/post/tool/) [for](/post/for/) cleaning [without](/post/without/) [water](/post/water/), [often](/post/often/) handheld.
+- Squeegee: [A](/post/a/) [tool](/post/tool/) [for](/post/for/) removing [excess](/post/excess/) [liquid](/post/liquid/) [from](/post/from/) surfaces.
+- Cleaning supplies: [A](/post/a/) [collection](/post/collection/) [of](/post/of/) items [used](/post/used/) [for](/post/for/) maintaining hygiene [and](/post/and/) [order](/post/order/).

@@ -12,21 +12,21 @@ keywords = ['ai words', 'forget']
 
 ## 释义
 - **动词**:
-  - 忘记；遗忘。例如: "I [completely](/post/completely/) forgot [about](/post/about/) [the](/post/the/) [meeting](/post/meeting/) [yesterday](/post/yesterday/)."
-  - 不再考虑；忽略。例如: "We'll [just](/post/just/) [have](/post/have/) [to](/post/to/) [forget](/post/forget/) [about](/post/about/) [the](/post/the/) [issue](/post/issue/) [for](/post/for/) [now](/post/now/)."
+  - 忘记；遗忘。例如: "I [completely](/zh/post/completely/) forgot [about](/zh/post/about/) [the](/zh/post/the/) [meeting](/zh/post/meeting/) [yesterday](/zh/post/yesterday/)."
+  - 不再考虑；忽略。例如: "We'll [just](/zh/post/just/) [have](/zh/post/have/) [to](/zh/post/to/) [forget](/zh/post/forget/) [about](/zh/post/about/) [the](/zh/post/the/) [issue](/zh/post/issue/) [for](/zh/post/for/) [now](/zh/post/now/)."
 
 ## 短语
-- "[Forget](/post/forget/) [about](/post/about/) [it](/post/it/)" 意味着不再考虑某事或让某事过去。
-- "Can't [forget](/post/forget/)" 指某事难以忘记。
+- "[Forget](/zh/post/forget/) [about](/zh/post/about/) [it](/zh/post/it/)" 意味着不再考虑某事或让某事过去。
+- "Can't [forget](/zh/post/forget/)" 指某事难以忘记。
 
 ## 例句
-- "I forgot [to](/post/to/) [turn](/post/turn/) [off](/post/off/) [the](/post/the/) [stove](/post/stove/) [before](/post/before/) leaving [home](/post/home/)."
-- "[Try](/post/try/) [to](/post/to/) [forget](/post/forget/) [the](/post/the/) [past](/post/past/) [and](/post/and/) [focus](/post/focus/) [on](/post/on/) [the](/post/the/) [future](/post/future/)."
-- "[Oh](/post/oh/), [sorry](/post/sorry/), I forgot [your](/post/your/) [name](/post/name/). [Can](/post/can/) [you](/post/you/) [remind](/post/remind/) [me](/post/me/)?"
+- "I forgot [to](/zh/post/to/) [turn](/zh/post/turn/) [off](/zh/post/off/) [the](/zh/post/the/) [stove](/zh/post/stove/) [before](/zh/post/before/) leaving [home](/zh/post/home/)."
+- "[Try](/zh/post/try/) [to](/zh/post/to/) [forget](/zh/post/forget/) [the](/zh/post/the/) [past](/zh/post/past/) [and](/zh/post/and/) [focus](/zh/post/focus/) [on](/zh/post/on/) [the](/zh/post/the/) [future](/zh/post/future/)."
+- "[Oh](/zh/post/oh/), [sorry](/zh/post/sorry/), I forgot [your](/zh/post/your/) [name](/zh/post/name/). [Can](/zh/post/can/) [you](/zh/post/you/) [remind](/zh/post/remind/) [me](/zh/post/me/)?"
 
 ## 同义词
 - Forgetful (adj): 忘事的，健忘的
-- [Overlook](/post/overlook/): 忽视，遗漏
-- [Ignore](/post/ignore/): 忽视，不理睬
+- [Overlook](/zh/post/overlook/): 忽视，遗漏
+- [Ignore](/zh/post/ignore/): 忽视，不理睬
 - Disregard: 不顾，不理会
-- [Omit](/post/omit/): 省略，遗漏
+- [Omit](/zh/post/omit/): 省略，遗漏

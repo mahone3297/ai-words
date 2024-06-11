@@ -15,11 +15,11 @@ keywords = ['ai words', 'Wednesday']
 
 ## 短语
 - "Midweek" 指的是工作周的中间阶段，通常包括星期二和星期三。
-- "Hump [day](/post/day/)" 是非正式说法，指星期三，意味着一周过半。
+- "Hump [day](/zh/post/day/)" 是非正式说法，指星期三，意味着一周过半。
 
 ## 例句
-- "[We](/post/we/) [have](/post/have/) [a](/post/a/) [team](/post/team/) [meeting](/post/meeting/) [every](/post/every/) Wednesday [afternoon](/post/afternoon/)."
-- "I [usually](/post/usually/) [do](/post/do/) [my](/post/my/) [grocery](/post/grocery/) [shopping](/post/shopping/) [on](/post/on/) [a](/post/a/) Wednesday [evening](/post/evening/)."
+- "[We](/zh/post/we/) [have](/zh/post/have/) [a](/zh/post/a/) [team](/zh/post/team/) [meeting](/zh/post/meeting/) [every](/zh/post/every/) Wednesday [afternoon](/zh/post/afternoon/)."
+- "I [usually](/zh/post/usually/) [do](/zh/post/do/) [my](/zh/post/my/) [grocery](/zh/post/grocery/) [shopping](/zh/post/shopping/) [on](/zh/post/on/) [a](/zh/post/a/) Wednesday [evening](/zh/post/evening/)."
 
 ## 同义词
 - 星期三

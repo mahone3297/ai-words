@@ -7,38 +7,38 @@ description = '[pə(ː)ˈmit] vt.允许 n.执照'
 keywords = ['ai words', 'permit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪˈmɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Permission](/en/post/permission/) granted [by](/en/post/by/) [a](/en/post/a/) higher [authority](/en/post/authority/) [or](/en/post/or/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/):** [The](/en/post/the/) [city](/en/post/city/) [council](/en/post/council/) granted [a](/en/post/a/) [permit](/en/post/permit/) [for](/en/post/for/) [the](/en/post/the/) [construction](/en/post/construction/) [project](/en/post/project/).
-2. **[A](/en/post/a/) [document](/en/post/document/) authorizing [a](/en/post/a/) [specific](/en/post/specific/) [activity](/en/post/activity/) [or](/en/post/or/) [action](/en/post/action/):** [He](/en/post/he/) had [to](/en/post/to/) [apply](/en/post/apply/) [for](/en/post/for/) [a](/en/post/a/) [permit](/en/post/permit/) [to](/en/post/to/) [drive](/en/post/drive/) [a](/en/post/a/) [commercial](/en/post/commercial/) [vehicle](/en/post/vehicle/).
+### [Noun](/post/noun/)
+1. **[Permission](/post/permission/) granted [by](/post/by/) [a](/post/a/) higher [authority](/post/authority/) [or](/post/or/) [to](/post/to/) [do](/post/do/) [something](/post/something/):** [The](/post/the/) [city](/post/city/) [council](/post/council/) granted [a](/post/a/) [permit](/post/permit/) [for](/post/for/) [the](/post/the/) [construction](/post/construction/) [project](/post/project/).
+2. **[A](/post/a/) [document](/post/document/) authorizing [a](/post/a/) [specific](/post/specific/) [activity](/post/activity/) [or](/post/or/) [action](/post/action/):** [He](/post/he/) had [to](/post/to/) [apply](/post/apply/) [for](/post/for/) [a](/post/a/) [permit](/post/permit/) [to](/post/to/) [drive](/post/drive/) [a](/post/a/) [commercial](/post/commercial/) [vehicle](/post/vehicle/).
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [allow](/en/post/allow/) [or](/en/post/or/) [give](/en/post/give/) [permission](/en/post/permission/) [for](/en/post/for/) (an [action](/en/post/action/) [or](/en/post/or/) [event](/en/post/event/)):** [The](/en/post/the/) manager permitted [her](/en/post/her/) employees [to](/en/post/to/) [work](/en/post/work/) [from](/en/post/from/) [home](/en/post/home/).
-2. **[To](/en/post/to/) authorize officially:** [The](/en/post/the/) [government](/en/post/government/) permits hunting [during](/en/post/during/) [certain](/en/post/certain/) seasons.
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [allow](/post/allow/) [or](/post/or/) [give](/post/give/) [permission](/post/permission/) [for](/post/for/) (an [action](/post/action/) [or](/post/or/) [event](/post/event/)):** [The](/post/the/) manager permitted [her](/post/her/) employees [to](/post/to/) [work](/post/work/) [from](/post/from/) [home](/post/home/).
+2. **[To](/post/to/) authorize officially:** [The](/post/the/) [government](/post/government/) permits hunting [during](/post/during/) [certain](/post/certain/) seasons.
 
 ## Phrases
-- "[With](/en/post/with/) [a](/en/post/a/) [permit](/en/post/permit/) [in](/en/post/in/) [hand](/en/post/hand/)"
-- "[Obtain](/en/post/obtain/) [a](/en/post/a/) [permit](/en/post/permit/) [for](/en/post/for/)"
-- "Permitting [such](/en/post/such/) [behavior](/en/post/behavior/)"
+- "[With](/post/with/) [a](/post/a/) [permit](/post/permit/) [in](/post/in/) [hand](/post/hand/)"
+- "[Obtain](/post/obtain/) [a](/post/a/) [permit](/post/permit/) [for](/post/for/)"
+- "Permitting [such](/post/such/) [behavior](/post/behavior/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [construction](/en/post/construction/) [company](/en/post/company/) needed [a](/en/post/a/) [permit](/en/post/permit/) [before](/en/post/before/) [they](/en/post/they/) [could](/en/post/could/) [start](/en/post/start/) digging."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) obtaining [the](/en/post/the/) [permit](/en/post/permit/), [he](/en/post/he/) was allowed [to](/en/post/to/) [operate](/en/post/operate/) [the](/en/post/the/) [heavy](/en/post/heavy/) machinery."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [museum](/en/post/museum/) permits photography [without](/en/post/without/) [flash](/en/post/flash/) [inside](/en/post/inside/) [the](/en/post/the/) exhibits."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [construction](/post/construction/) [company](/post/company/) needed [a](/post/a/) [permit](/post/permit/) [before](/post/before/) [they](/post/they/) [could](/post/could/) [start](/post/start/) digging."
+- **[Verb](/post/verb/)**: "[After](/post/after/) obtaining [the](/post/the/) [permit](/post/permit/), [he](/post/he/) was allowed [to](/post/to/) [operate](/post/operate/) [the](/post/the/) [heavy](/post/heavy/) machinery."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [museum](/post/museum/) permits photography [without](/post/without/) [flash](/post/flash/) [inside](/post/inside/) [the](/post/the/) exhibits."
 
 ## Synonyms
 - Authorization
-- [Approval](/en/post/approval/)
-- [Permission](/en/post/permission/)
-- [License](/en/post/license/)
-- Authorization [to](/en/post/to/) [act](/en/post/act/)
+- [Approval](/post/approval/)
+- [Permission](/post/permission/)
+- [License](/post/license/)
+- Authorization [to](/post/to/) [act](/post/act/)
 
 ## Antonyms
 - Denial
 - Prohibition
-- [Restriction](/en/post/restriction/)
+- [Restriction](/post/restriction/)
 - Ban
-- [Forbid](/en/post/forbid/)
+- [Forbid](/post/forbid/)

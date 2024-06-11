@@ -7,35 +7,35 @@ description = '[risˈtrik∫ən] n.限制，限定，约束'
 keywords = ['ai words', 'restriction']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈstrɪkʃn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[restriction](/en/post/restriction/)**: [A](/en/post/a/) [rule](/en/post/rule/) [or](/en/post/or/) [limitation](/en/post/limitation/) [that](/en/post/that/) prevents [something](/en/post/something/) [from](/en/post/from/) happening [or](/en/post/or/) [being](/en/post/being/) done [freely](/en/post/freely/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [airport](/en/post/airport/) has [strict](/en/post/strict/) [security](/en/post/security/) restrictions."
-- **Constraint**: [Something](/en/post/something/) [that](/en/post/that/) restricts [or](/en/post/or/) controls [a](/en/post/a/) person's actions [or](/en/post/or/) choices. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [financial](/en/post/financial/) constraints [limited](/en/post/limited/) [her](/en/post/her/) options [for](/en/post/for/) [travel](/en/post/travel/)."
-- **[Barrier](/en/post/barrier/)**: [A](/en/post/a/) hindrance [or](/en/post/or/) [obstacle](/en/post/obstacle/) [that](/en/post/that/) prevents [movement](/en/post/movement/) [or](/en/post/or/) [access](/en/post/access/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [language](/en/post/language/) [barrier](/en/post/barrier/) made [communication](/en/post/communication/) [difficult](/en/post/difficult/)."
+### [Noun](/post/noun/)
+- **[restriction](/post/restriction/)**: [A](/post/a/) [rule](/post/rule/) [or](/post/or/) [limitation](/post/limitation/) [that](/post/that/) prevents [something](/post/something/) [from](/post/from/) happening [or](/post/or/) [being](/post/being/) done [freely](/post/freely/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [airport](/post/airport/) has [strict](/post/strict/) [security](/post/security/) restrictions."
+- **Constraint**: [Something](/post/something/) [that](/post/that/) restricts [or](/post/or/) controls [a](/post/a/) person's actions [or](/post/or/) choices. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [financial](/post/financial/) constraints [limited](/post/limited/) [her](/post/her/) options [for](/post/for/) [travel](/post/travel/)."
+- **[Barrier](/post/barrier/)**: [A](/post/a/) hindrance [or](/post/or/) [obstacle](/post/obstacle/) [that](/post/that/) prevents [movement](/post/movement/) [or](/post/or/) [access](/post/access/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [language](/post/language/) [barrier](/post/barrier/) made [communication](/post/communication/) [difficult](/post/difficult/)."
 
-### [Verb](/en/post/verb/)
-- **[to](/en/post/to/) [restrict](/en/post/restrict/)**: [To](/en/post/to/) [limit](/en/post/limit/) [or](/en/post/or/) [confine](/en/post/confine/) [something](/en/post/something/) [to](/en/post/to/) [a](/en/post/a/) [certain](/en/post/certain/) [scope](/en/post/scope/) [or](/en/post/or/) [condition](/en/post/condition/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) restricted [employee](/en/post/employee/) [access](/en/post/access/) [to](/en/post/to/) [sensitive](/en/post/sensitive/) [data](/en/post/data/)."
-- **[to](/en/post/to/) curb**: [To](/en/post/to/) [control](/en/post/control/) [or](/en/post/or/) [lessen](/en/post/lessen/) [the](/en/post/the/) [extent](/en/post/extent/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) negatively. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) is trying [to](/en/post/to/) curb [air](/en/post/air/) [pollution](/en/post/pollution/)."
+### [Verb](/post/verb/)
+- **[to](/post/to/) [restrict](/post/restrict/)**: [To](/post/to/) [limit](/post/limit/) [or](/post/or/) [confine](/post/confine/) [something](/post/something/) [to](/post/to/) [a](/post/a/) [certain](/post/certain/) [scope](/post/scope/) [or](/post/or/) [condition](/post/condition/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) restricted [employee](/post/employee/) [access](/post/access/) [to](/post/to/) [sensitive](/post/sensitive/) [data](/post/data/)."
+- **[to](/post/to/) curb**: [To](/post/to/) [control](/post/control/) [or](/post/or/) [lessen](/post/lessen/) [the](/post/the/) [extent](/post/extent/) [of](/post/of/) [something](/post/something/), [often](/post/often/) negatively. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [government](/post/government/) is trying [to](/post/to/) curb [air](/post/air/) [pollution](/post/pollution/)."
 
 ## Phrases
-- "[Freedom](/en/post/freedom/) [from](/en/post/from/) [restriction](/en/post/restriction/)" implies [liberation](/en/post/liberation/) [from](/en/post/from/) limitations.
-- "Imposed restrictions" indicates limitations imposed [by](/en/post/by/) others.
-- "Lifting restrictions" signifies removing [previously](/en/post/previously/) imposed limitations.
+- "[Freedom](/post/freedom/) [from](/post/from/) [restriction](/post/restriction/)" implies [liberation](/post/liberation/) [from](/post/from/) limitations.
+- "Imposed restrictions" indicates limitations imposed [by](/post/by/) others.
+- "Lifting restrictions" signifies removing [previously](/post/previously/) imposed limitations.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) imposes stricter restrictions [on](/en/post/on/) [public](/en/post/public/) gatherings."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [government](/en/post/government/) is [gradually](/en/post/gradually/) lifting COVID-19 restrictions [as](/en/post/as/) cases decline."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) creativity was restricted [by](/en/post/by/) [his](/en/post/his/) [strict](/en/post/strict/) upbringing."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) imposes stricter restrictions [on](/post/on/) [public](/post/public/) gatherings."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [government](/post/government/) is [gradually](/post/gradually/) lifting COVID-19 restrictions [as](/post/as/) cases decline."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) creativity was restricted [by](/post/by/) [his](/post/his/) [strict](/post/strict/) upbringing."
 
 ## Synonyms
-- [Limitation](/en/post/limitation/)
+- [Limitation](/post/limitation/)
 - Constraint
-- [Barrier](/en/post/barrier/)
-- [Control](/en/post/control/)
+- [Barrier](/post/barrier/)
+- [Control](/post/control/)
 - Curtailment
 - Obstruction
-- [Regulation](/en/post/regulation/)
+- [Regulation](/post/regulation/)
 - Prohibition

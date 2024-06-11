@@ -12,26 +12,26 @@ keywords = ['ai words', 'world']
 
 ## 释义
 - **名词 n**:
-  - 全球；地球： "[We](/post/we/) [live](/post/live/) [on](/post/on/) [a](/post/a/) [small](/post/small/) [planet](/post/planet/) called [Earth](/post/earth/), [also](/post/also/) known [as](/post/as/) [the](/post/the/) [world](/post/world/)."
-  - 人类社会；世间： "[The](/post/the/) [world](/post/world/) [of](/post/of/) [politics](/post/politics/) is [full](/post/full/) [of](/post/of/) surprises."
-  - 领域；范围： "She's made [a](/post/a/) [name](/post/name/) [for](/post/for/) [herself](/post/herself/) [in](/post/in/) [the](/post/the/) [fashion](/post/fashion/) [world](/post/world/)."
+  - 全球；地球： "[We](/zh/post/we/) [live](/zh/post/live/) [on](/zh/post/on/) [a](/zh/post/a/) [small](/zh/post/small/) [planet](/zh/post/planet/) called [Earth](/zh/post/earth/), [also](/zh/post/also/) known [as](/zh/post/as/) [the](/zh/post/the/) [world](/zh/post/world/)."
+  - 人类社会；世间： "[The](/zh/post/the/) [world](/zh/post/world/) [of](/zh/post/of/) [politics](/zh/post/politics/) is [full](/zh/post/full/) [of](/zh/post/of/) surprises."
+  - 领域；范围： "She's made [a](/zh/post/a/) [name](/zh/post/name/) [for](/zh/post/for/) [herself](/zh/post/herself/) [in](/zh/post/in/) [the](/zh/post/the/) [fashion](/zh/post/fashion/) [world](/zh/post/world/)."
 
 - **形容词 adj**:
-  - 世间的；世俗的： "Worldly possessions [often](/post/often/) [lead](/post/lead/) [people](/post/people/) astray."
-  - 全球性的；影响全世界的： "[Climate](/post/climate/) [change](/post/change/) is [a](/post/a/) [world](/post/world/) [problem](/post/problem/) [that](/post/that/) requires global cooperation."
+  - 世间的；世俗的： "Worldly possessions [often](/zh/post/often/) [lead](/zh/post/lead/) [people](/zh/post/people/) astray."
+  - 全球性的；影响全世界的： "[Climate](/zh/post/climate/) [change](/zh/post/change/) is [a](/zh/post/a/) [world](/zh/post/world/) [problem](/zh/post/problem/) [that](/zh/post/that/) requires global cooperation."
 
 ## 短语
-- "[around](/post/around/) [the](/post/the/) [world](/post/world/)" 意为环游世界。
-- "[world](/post/world/) [famous](/post/famous/)" 表示全球知名。
-- "[a](/post/a/) [world](/post/world/) [of](/post/of/) [difference](/post/difference/)" 意为有很大差别。
+- "[around](/zh/post/around/) [the](/zh/post/the/) [world](/zh/post/world/)" 意为环游世界。
+- "[world](/zh/post/world/) [famous](/zh/post/famous/)" 表示全球知名。
+- "[a](/zh/post/a/) [world](/zh/post/world/) [of](/zh/post/of/) [difference](/zh/post/difference/)" 意为有很大差别。
 
 ## 例句
-- 名词: "Explorers [have](/post/have/) traveled [to](/post/to/) [every](/post/every/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [world](/post/world/)."
-- 形容词: "[He](/post/he/) had [a](/post/a/) world-weary [look](/post/look/) [after](/post/after/) years [of](/post/of/) traveling."
+- 名词: "Explorers [have](/zh/post/have/) traveled [to](/zh/post/to/) [every](/zh/post/every/) [corner](/zh/post/corner/) [of](/zh/post/of/) [the](/zh/post/the/) [world](/zh/post/world/)."
+- 形容词: "[He](/zh/post/he/) had [a](/zh/post/a/) world-weary [look](/zh/post/look/) [after](/zh/post/after/) years [of](/zh/post/of/) traveling."
 
 ## 同义词
-- [Planet](/post/planet/)
-- [Earth](/post/earth/)
-- [Globe](/post/globe/)
-- [Universe](/post/universe/)
-- [Society](/post/society/)
+- [Planet](/zh/post/planet/)
+- [Earth](/zh/post/earth/)
+- [Globe](/zh/post/globe/)
+- [Universe](/zh/post/universe/)
+- [Society](/zh/post/society/)

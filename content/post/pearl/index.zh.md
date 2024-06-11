@@ -12,20 +12,20 @@ keywords = ['ai words', 'pearl']
 
 ## 释义
 - **名词**: 
-   - 一种由贝类产生的光滑、圆形的宝石，通常作为珠宝使用。例如: "[She](/post/she/) wore [a](/post/a/) [necklace](/post/necklace/) [with](/post/with/) [a](/post/a/) [beautiful](/post/beautiful/) [pearl](/post/pearl/) [in](/post/in/) [the](/post/the/) center."
-   - 比喻珍贵的东西或人。例如: "[He](/post/he/) is [the](/post/the/) [pearl](/post/pearl/) [of](/post/of/) [their](/post/their/) [family](/post/family/)."
+   - 一种由贝类产生的光滑、圆形的宝石，通常作为珠宝使用。例如: "[She](/zh/post/she/) wore [a](/zh/post/a/) [necklace](/zh/post/necklace/) [with](/zh/post/with/) [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [pearl](/zh/post/pearl/) [in](/zh/post/in/) [the](/zh/post/the/) center."
+   - 比喻珍贵的东西或人。例如: "[He](/zh/post/he/) is [the](/zh/post/the/) [pearl](/zh/post/pearl/) [of](/zh/post/of/) [their](/zh/post/their/) [family](/zh/post/family/)."
 
 ## 短语
-- "[Pearl](/post/pearl/) [necklace](/post/necklace/)" 指由珍珠串成的项链。
-- "[Black](/post/black/) [pearl](/post/pearl/)" 指黑色的珍珠，较为稀有。
+- "[Pearl](/zh/post/pearl/) [necklace](/zh/post/necklace/)" 指由珍珠串成的项链。
+- "[Black](/zh/post/black/) [pearl](/zh/post/pearl/)" 指黑色的珍珠，较为稀有。
 
 ## 例句
-- 名词: "[The](/post/the/) oyster contained [a](/post/a/) [large](/post/large/), lustrous [pearl](/post/pearl/)."
-- 比喻: "[Her](/post/her/) [smile](/post/smile/) was [the](/post/the/) [pearl](/post/pearl/) [that](/post/that/) lit [up](/post/up/) [the](/post/the/) [room](/post/room/)."
+- 名词: "[The](/zh/post/the/) oyster contained [a](/zh/post/a/) [large](/zh/post/large/), lustrous [pearl](/zh/post/pearl/)."
+- 比喻: "[Her](/zh/post/her/) [smile](/zh/post/smile/) was [the](/zh/post/the/) [pearl](/zh/post/pearl/) [that](/zh/post/that/) lit [up](/zh/post/up/) [the](/zh/post/the/) [room](/zh/post/room/)."
 
 ## 同义词
 - Gem
-- [Jewel](/post/jewel/)
-- [Treasure](/post/treasure/)
+- [Jewel](/zh/post/jewel/)
+- [Treasure](/zh/post/treasure/)
 - Bead
-- [Stone](/post/stone/)
+- [Stone](/zh/post/stone/)

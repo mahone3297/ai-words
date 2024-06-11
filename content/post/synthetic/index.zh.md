@@ -11,19 +11,19 @@ keywords = ['ai words', 'synthetic']
 /sɪnθətɪk/
 
 ## 释义
-- **形容词**: 人造的，非自然的；合成的。例如: "[This](/post/this/) [fabric](/post/fabric/) is [synthetic](/post/synthetic/), [not](/post/not/) made [from](/post/from/) [natural](/post/natural/) fibers."
-- **名词**: 合成物，合成材料。例如: "[The](/post/the/) [synthetic](/post/synthetic/) [rubber](/post/rubber/) [used](/post/used/) [in](/post/in/) [car](/post/car/) tires has [excellent](/post/excellent/) durability."
+- **形容词**: 人造的，非自然的；合成的。例如: "[This](/zh/post/this/) [fabric](/zh/post/fabric/) is [synthetic](/zh/post/synthetic/), [not](/zh/post/not/) made [from](/zh/post/from/) [natural](/zh/post/natural/) fibers."
+- **名词**: 合成物，合成材料。例如: "[The](/zh/post/the/) [synthetic](/zh/post/synthetic/) [rubber](/zh/post/rubber/) [used](/zh/post/used/) [in](/zh/post/in/) [car](/zh/post/car/) tires has [excellent](/zh/post/excellent/) durability."
 
 ## 短语
-- "[synthetic](/post/synthetic/) fiber" 人造纤维，指由化学方法制成的纤维。
-- "[synthetic](/post/synthetic/) [oil](/post/oil/)" 合成机油，用于汽车引擎的一种高性能润滑剂。
+- "[synthetic](/zh/post/synthetic/) fiber" 人造纤维，指由化学方法制成的纤维。
+- "[synthetic](/zh/post/synthetic/) [oil](/zh/post/oil/)" 合成机油，用于汽车引擎的一种高性能润滑剂。
 
 ## 例句
-- 形容词: "[The](/post/the/) [new](/post/new/) running shoes [have](/post/have/) [a](/post/a/) lightweight [and](/post/and/) breathable [synthetic](/post/synthetic/) [upper](/post/upper/)."
-- 名词: "[The](/post/the/) [lab](/post/lab/) is researching [new](/post/new/) types [of](/post/of/) [synthetic](/post/synthetic/) polymers [for](/post/for/) [use](/post/use/) [in](/post/in/) [medical](/post/medical/) applications."
+- 形容词: "[The](/zh/post/the/) [new](/zh/post/new/) running shoes [have](/zh/post/have/) [a](/zh/post/a/) lightweight [and](/zh/post/and/) breathable [synthetic](/zh/post/synthetic/) [upper](/zh/post/upper/)."
+- 名词: "[The](/zh/post/the/) [lab](/zh/post/lab/) is researching [new](/zh/post/new/) types [of](/zh/post/of/) [synthetic](/zh/post/synthetic/) polymers [for](/zh/post/for/) [use](/zh/post/use/) [in](/zh/post/in/) [medical](/zh/post/medical/) applications."
 
 ## 同义词
-- [Artificial](/post/artificial/)
+- [Artificial](/zh/post/artificial/)
 - Man-made
 - Fabricated
 - Engineered

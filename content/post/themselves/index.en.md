@@ -7,30 +7,30 @@ description = '[ðəmˈselvz] pron.他们自己'
 keywords = ['ai words', 'themselves']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[themselves](/en/post/themselves/)/
+## [Pronunciation](/post/pronunciation/)
+/[themselves](/post/themselves/)/
 
 ## Definitions
-### [Pronoun](/en/post/pronoun/)
-- Refers [back](/en/post/back/) [to](/en/post/to/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [pronoun](/en/post/pronoun/) [that](/en/post/that/) has [previously](/en/post/previously/) been mentioned, indicating [that](/en/post/that/) [the](/en/post/the/) [action](/en/post/action/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) applies [to](/en/post/to/) [the](/en/post/the/) [same](/en/post/same/) [group](/en/post/group/) [or](/en/post/or/) [person](/en/post/person/). 
+### [Pronoun](/post/pronoun/)
+- Refers [back](/post/back/) [to](/post/to/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [pronoun](/post/pronoun/) [that](/post/that/) has [previously](/post/previously/) been mentioned, indicating [that](/post/that/) [the](/post/the/) [action](/post/action/) [or](/post/or/) [characteristic](/post/characteristic/) applies [to](/post/to/) [the](/post/the/) [same](/post/same/) [group](/post/group/) [or](/post/or/) [person](/post/person/). 
 
-### Reflexive [pronoun](/en/post/pronoun/)
-- [Used](/en/post/used/) [when](/en/post/when/) [the](/en/post/the/) [subject](/en/post/subject/) [of](/en/post/of/) [a](/en/post/a/) [sentence](/en/post/sentence/) is performing an [action](/en/post/action/) [on](/en/post/on/) [itself](/en/post/itself/). [For](/en/post/for/) [example](/en/post/example/), "I [hurt](/en/post/hurt/) [myself](/en/post/myself/)."
+### Reflexive [pronoun](/post/pronoun/)
+- [Used](/post/used/) [when](/post/when/) [the](/post/the/) [subject](/post/subject/) [of](/post/of/) [a](/post/a/) [sentence](/post/sentence/) is performing an [action](/post/action/) [on](/post/on/) [itself](/post/itself/). [For](/post/for/) [example](/post/example/), "I [hurt](/post/hurt/) [myself](/post/myself/)."
 
 ## Phrases
-- "[They](/en/post/they/) did [it](/en/post/it/) [themselves](/en/post/themselves/)" implies [that](/en/post/that/) [the](/en/post/the/) individuals completed [a](/en/post/a/) [task](/en/post/task/) [without](/en/post/without/) assistance.
-- "[She](/en/post/she/) taught [herself](/en/post/herself/) French" indicates self-directed [learning](/en/post/learning/).
-- "[Each](/en/post/each/) [other](/en/post/other/)" is [a](/en/post/a/) [common](/en/post/common/) [pair](/en/post/pair/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [two](/en/post/two/) [people](/en/post/people/), [while](/en/post/while/) "[one](/en/post/one/) [another](/en/post/another/)" is [for](/en/post/for/) [three](/en/post/three/) [or](/en/post/or/) [more](/en/post/more/).
+- "[They](/post/they/) did [it](/post/it/) [themselves](/post/themselves/)" implies [that](/post/that/) [the](/post/the/) individuals completed [a](/post/a/) [task](/post/task/) [without](/post/without/) assistance.
+- "[She](/post/she/) taught [herself](/post/herself/) French" indicates self-directed [learning](/post/learning/).
+- "[Each](/post/each/) [other](/post/other/)" is [a](/post/a/) [common](/post/common/) [pair](/post/pair/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [two](/post/two/) [people](/post/people/), [while](/post/while/) "[one](/post/one/) [another](/post/another/)" is [for](/post/for/) [three](/post/three/) [or](/post/or/) [more](/post/more/).
 
-## [Example](/en/post/example/) Sentences
-- "[The](/en/post/the/) children cleaned [their](/en/post/their/) rooms [themselves](/en/post/themselves/)."
-- "[After](/en/post/after/) [the](/en/post/the/) [accident](/en/post/accident/), [he](/en/post/he/) had [to](/en/post/to/) [learn](/en/post/learn/) [to](/en/post/to/) [walk](/en/post/walk/) [again](/en/post/again/) [by](/en/post/by/) [himself](/en/post/himself/)."
-- "[They](/en/post/they/) helped [each](/en/post/each/) [other](/en/post/other/) [with](/en/post/with/) [the](/en/post/the/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- "[The](/post/the/) children cleaned [their](/post/their/) rooms [themselves](/post/themselves/)."
+- "[After](/post/after/) [the](/post/the/) [accident](/post/accident/), [he](/post/he/) had [to](/post/to/) [learn](/post/learn/) [to](/post/to/) [walk](/post/walk/) [again](/post/again/) [by](/post/by/) [himself](/post/himself/)."
+- "[They](/post/they/) helped [each](/post/each/) [other](/post/other/) [with](/post/with/) [the](/post/the/) [project](/post/project/)."
 
 ## Synonyms
-- [Themselves](/en/post/themselves/) (reflexive)
-- [Oneself](/en/post/oneself/)
-- [Their](/en/post/their/) [own](/en/post/own/) selves
-- [They](/en/post/they/) ([when](/en/post/when/) referring [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) [subject](/en/post/subject/))
-- [One](/en/post/one/) [another](/en/post/another/) ([for](/en/post/for/) [multiple](/en/post/multiple/) [people](/en/post/people/))
-- [Each](/en/post/each/) [other](/en/post/other/) ([for](/en/post/for/) [two](/en/post/two/) [people](/en/post/people/))
+- [Themselves](/post/themselves/) (reflexive)
+- [Oneself](/post/oneself/)
+- [Their](/post/their/) [own](/post/own/) selves
+- [They](/post/they/) ([when](/post/when/) referring [back](/post/back/) [to](/post/to/) [the](/post/the/) [subject](/post/subject/))
+- [One](/post/one/) [another](/post/another/) ([for](/post/for/) [multiple](/post/multiple/) [people](/post/people/))
+- [Each](/post/each/) [other](/post/other/) ([for](/post/for/) [two](/post/two/) [people](/post/people/))

@@ -7,34 +7,34 @@ description = '[gəul] n.球门；得分；目的'
 keywords = ['ai words', 'goal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡoʊl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [aim](/en/post/aim/) [or](/en/post/or/) desired [result](/en/post/result/) [that](/en/post/that/) [one](/en/post/one/) intends [to](/en/post/to/) [achieve](/en/post/achieve/); an [end](/en/post/end/) toward [which](/en/post/which/) [effort](/en/post/effort/) is directed. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [primary](/en/post/primary/) [goal](/en/post/goal/) is [to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) [doctor](/en/post/doctor/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) [in](/en/post/in/) sports, referring [to](/en/post/to/) [the](/en/post/the/) [object](/en/post/object/) towards [which](/en/post/which/) players [aim](/en/post/aim/) [in](/en/post/in/) games [like](/en/post/like/) [soccer](/en/post/soccer/), hockey, [or](/en/post/or/) [American](/en/post/american/) [football](/en/post/football/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) striker scored [the](/en/post/the/) winning [goal](/en/post/goal/) [in](/en/post/in/) [the](/en/post/the/) [final](/en/post/final/) minutes [of](/en/post/of/) [the](/en/post/the/) [match](/en/post/match/)."
+- **[Noun](/post/noun/)**: An [aim](/post/aim/) [or](/post/or/) desired [result](/post/result/) [that](/post/that/) [one](/post/one/) intends [to](/post/to/) [achieve](/post/achieve/); an [end](/post/end/) toward [which](/post/which/) [effort](/post/effort/) is directed. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [primary](/post/primary/) [goal](/post/goal/) is [to](/post/to/) [become](/post/become/) [a](/post/a/) [doctor](/post/doctor/)."
+  - [Also](/post/also/) [used](/post/used/) [in](/post/in/) sports, referring [to](/post/to/) [the](/post/the/) [object](/post/object/) towards [which](/post/which/) players [aim](/post/aim/) [in](/post/in/) games [like](/post/like/) [soccer](/post/soccer/), hockey, [or](/post/or/) [American](/post/american/) [football](/post/football/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) striker scored [the](/post/the/) winning [goal](/post/goal/) [in](/post/in/) [the](/post/the/) [final](/post/final/) minutes [of](/post/of/) [the](/post/the/) [match](/post/match/)."
 
-- **[Verb](/en/post/verb/) ([usually](/en/post/usually/) [in](/en/post/in/) [the](/en/post/the/) [form](/en/post/form/) "[goal](/en/post/goal/)")**: [To](/en/post/to/) [score](/en/post/score/) [a](/en/post/a/) [goal](/en/post/goal/) [in](/en/post/in/) [a](/en/post/a/) [game](/en/post/game/). [For](/en/post/for/) [example](/en/post/example/): "Messi goals [from](/en/post/from/) [outside](/en/post/outside/) [the](/en/post/the/) [box](/en/post/box/) are [always](/en/post/always/) spectacular."
+- **[Verb](/post/verb/) ([usually](/post/usually/) [in](/post/in/) [the](/post/the/) [form](/post/form/) "[goal](/post/goal/)")**: [To](/post/to/) [score](/post/score/) [a](/post/a/) [goal](/post/goal/) [in](/post/in/) [a](/post/a/) [game](/post/game/). [For](/post/for/) [example](/post/example/): "Messi goals [from](/post/from/) [outside](/post/outside/) [the](/post/the/) [box](/post/box/) are [always](/post/always/) spectacular."
 
 ## Phrases
-- "[Set](/en/post/set/) [a](/en/post/a/) [goal](/en/post/goal/)" [means](/en/post/means/) [to](/en/post/to/) [establish](/en/post/establish/) [something](/en/post/something/) [that](/en/post/that/) [one](/en/post/one/) wants [to](/en/post/to/) [accomplish](/en/post/accomplish/).
-- "[Score](/en/post/score/) [a](/en/post/a/) [goal](/en/post/goal/)" refers [to](/en/post/to/) making [a](/en/post/a/) [point](/en/post/point/) [in](/en/post/in/) [a](/en/post/a/) [sport](/en/post/sport/) [by](/en/post/by/) putting [the](/en/post/the/) [ball](/en/post/ball/) [or](/en/post/or/) puck [into](/en/post/into/) [the](/en/post/the/) opposing team's [net](/en/post/net/).
-- "[Achieve](/en/post/achieve/)/goal-oriented" describes [someone](/en/post/someone/) [who](/en/post/who/) focuses [on](/en/post/on/) accomplishing [specific](/en/post/specific/) objectives.
-- "[A](/en/post/a/) [game](/en/post/game/) changer/[goal](/en/post/goal/)" refers [to](/en/post/to/) an [event](/en/post/event/) [or](/en/post/or/) [action](/en/post/action/) [that](/en/post/that/) significantly alters [the](/en/post/the/) [course](/en/post/course/) [or](/en/post/or/) [outcome](/en/post/outcome/) [of](/en/post/of/) [a](/en/post/a/) [situation](/en/post/situation/).
+- "[Set](/post/set/) [a](/post/a/) [goal](/post/goal/)" [means](/post/means/) [to](/post/to/) [establish](/post/establish/) [something](/post/something/) [that](/post/that/) [one](/post/one/) wants [to](/post/to/) [accomplish](/post/accomplish/).
+- "[Score](/post/score/) [a](/post/a/) [goal](/post/goal/)" refers [to](/post/to/) making [a](/post/a/) [point](/post/point/) [in](/post/in/) [a](/post/a/) [sport](/post/sport/) [by](/post/by/) putting [the](/post/the/) [ball](/post/ball/) [or](/post/or/) puck [into](/post/into/) [the](/post/the/) opposing team's [net](/post/net/).
+- "[Achieve](/post/achieve/)/goal-oriented" describes [someone](/post/someone/) [who](/post/who/) focuses [on](/post/on/) accomplishing [specific](/post/specific/) objectives.
+- "[A](/post/a/) [game](/post/game/) changer/[goal](/post/goal/)" refers [to](/post/to/) an [event](/post/event/) [or](/post/or/) [action](/post/action/) [that](/post/that/) significantly alters [the](/post/the/) [course](/post/course/) [or](/post/or/) [outcome](/post/outcome/) [of](/post/of/) [a](/post/a/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) long-term [goal](/en/post/goal/) is [to](/en/post/to/) [complete](/en/post/complete/) [a](/en/post/a/) PhD [in](/en/post/in/) neuroscience."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) [the](/en/post/the/) championship [match](/en/post/match/), [they](/en/post/they/) [finally](/en/post/finally/) managed [to](/en/post/to/) [goal](/en/post/goal/) [in](/en/post/in/) [the](/en/post/the/) [second](/en/post/second/) [half](/en/post/half/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) long-term [goal](/post/goal/) is [to](/post/to/) [complete](/post/complete/) [a](/post/a/) PhD [in](/post/in/) neuroscience."
+- **[Verb](/post/verb/)**: "[In](/post/in/) [the](/post/the/) championship [match](/post/match/), [they](/post/they/) [finally](/post/finally/) managed [to](/post/to/) [goal](/post/goal/) [in](/post/in/) [the](/post/the/) [second](/post/second/) [half](/post/half/)."
 
 ## Synonyms
-- [Objective](/en/post/objective/)
-- [Target](/en/post/target/)
-- [Aim](/en/post/aim/)
-- [Purpose](/en/post/purpose/)
-- [Ambition](/en/post/ambition/)
+- [Objective](/post/objective/)
+- [Target](/post/target/)
+- [Aim](/post/aim/)
+- [Purpose](/post/purpose/)
+- [Ambition](/post/ambition/)
 - Endeavor
 - Intent
 - Aspiration
-- [Destination](/en/post/destination/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [personal](/en/post/personal/) [achievement](/en/post/achievement/)) 
+- [Destination](/post/destination/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [personal](/post/personal/) [achievement](/post/achievement/)) 
 
-[Note](/en/post/note/): [While](/en/post/while/) '[goal](/en/post/goal/)' [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [certain](/en/post/certain/) sports contexts, [it](/en/post/it/) doesn't [have](/en/post/have/) [widespread](/en/post/widespread/) [use](/en/post/use/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [outside](/en/post/outside/) [of](/en/post/of/) [those](/en/post/those/) [specific](/en/post/specific/) instances. [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) is [primarily](/en/post/primarily/) associated [with](/en/post/with/) sports terminology.
+[Note](/post/note/): [While](/post/while/) '[goal](/post/goal/)' [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [certain](/post/certain/) sports contexts, [it](/post/it/) doesn't [have](/post/have/) [widespread](/post/widespread/) [use](/post/use/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [outside](/post/outside/) [of](/post/of/) [those](/post/those/) [specific](/post/specific/) instances. [The](/post/the/) [verb](/post/verb/) [form](/post/form/) is [primarily](/post/primarily/) associated [with](/post/with/) sports terminology.

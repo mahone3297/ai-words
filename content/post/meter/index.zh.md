@@ -11,25 +11,25 @@ keywords = ['ai words', 'meter']
 /mɪˈtɛr/
 
 ## 释义
-- **名词**: 计量器具，尤指测量长度、体积、速度或功率的设备。例如: "[The](/post/the/) speedometer [on](/post/on/) [the](/post/the/) [car](/post/car/) is [a](/post/a/) [type](/post/type/) [of](/post/of/) [meter](/post/meter/)."
-- **名词**: 公尺，米（长度单位）。例如: "[The](/post/the/) [room](/post/room/) is [about](/post/about/) [ten](/post/ten/) meters [wide](/post/wide/)."
-- **名词**: 音乐中的节拍或韵律。例如: "[The](/post/the/) [poem](/post/poem/) has [a](/post/a/) [strong](/post/strong/) iambic [meter](/post/meter/)."
-- **名词**: 诗歌中的行或诗节。例如: "Shakespeare's sonnets typically [consist](/post/consist/) [of](/post/of/) [fourteen](/post/fourteen/) lines [with](/post/with/) an ABAB CDCD EFEF GG [meter](/post/meter/)."
-- **名词**: （燃气、电、水等的）计费器。例如: "[The](/post/the/) [utility](/post/utility/) [company](/post/company/) reads [the](/post/the/) [electric](/post/electric/) [meter](/post/meter/) [every](/post/every/) [month](/post/month/)."
+- **名词**: 计量器具，尤指测量长度、体积、速度或功率的设备。例如: "[The](/zh/post/the/) speedometer [on](/zh/post/on/) [the](/zh/post/the/) [car](/zh/post/car/) is [a](/zh/post/a/) [type](/zh/post/type/) [of](/zh/post/of/) [meter](/zh/post/meter/)."
+- **名词**: 公尺，米（长度单位）。例如: "[The](/zh/post/the/) [room](/zh/post/room/) is [about](/zh/post/about/) [ten](/zh/post/ten/) meters [wide](/zh/post/wide/)."
+- **名词**: 音乐中的节拍或韵律。例如: "[The](/zh/post/the/) [poem](/zh/post/poem/) has [a](/zh/post/a/) [strong](/zh/post/strong/) iambic [meter](/zh/post/meter/)."
+- **名词**: 诗歌中的行或诗节。例如: "Shakespeare's sonnets typically [consist](/zh/post/consist/) [of](/zh/post/of/) [fourteen](/zh/post/fourteen/) lines [with](/zh/post/with/) an ABAB CDCD EFEF GG [meter](/zh/post/meter/)."
+- **名词**: （燃气、电、水等的）计费器。例如: "[The](/zh/post/the/) [utility](/zh/post/utility/) [company](/zh/post/company/) reads [the](/zh/post/the/) [electric](/zh/post/electric/) [meter](/zh/post/meter/) [every](/zh/post/every/) [month](/zh/post/month/)."
 
 ## 短语
-- "[gas](/post/gas/) [meter](/post/meter/)" 指天然气计量表。
-- "[water](/post/water/) [meter](/post/meter/)" 指水表。
-- "[electricity](/post/electricity/) [meter](/post/meter/)" 指电表。
+- "[gas](/zh/post/gas/) [meter](/zh/post/meter/)" 指天然气计量表。
+- "[water](/zh/post/water/) [meter](/zh/post/meter/)" 指水表。
+- "[electricity](/zh/post/electricity/) [meter](/zh/post/meter/)" 指电表。
 
 ## 例句
-- 名词: "[The](/post/the/) plumber checked [the](/post/the/) [water](/post/water/) [meter](/post/meter/) [to](/post/to/) [make](/post/make/) [sure](/post/sure/) [it](/post/it/) was working [properly](/post/properly/)."
-- 名词: "[The](/post/the/) song's [rhythm](/post/rhythm/) is [set](/post/set/) [by](/post/by/) [the](/post/the/) [steady](/post/steady/) [beat](/post/beat/) [of](/post/of/) [the](/post/the/) [drum](/post/drum/) [meter](/post/meter/)."
-- 名词: "[In](/post/in/) [the](/post/the/) [poem](/post/poem/), [each](/post/each/) stanza has an [identical](/post/identical/) [meter](/post/meter/), creating [a](/post/a/) balanced [structure](/post/structure/)."
+- 名词: "[The](/zh/post/the/) plumber checked [the](/zh/post/the/) [water](/zh/post/water/) [meter](/zh/post/meter/) [to](/zh/post/to/) [make](/zh/post/make/) [sure](/zh/post/sure/) [it](/zh/post/it/) was working [properly](/zh/post/properly/)."
+- 名词: "[The](/zh/post/the/) song's [rhythm](/zh/post/rhythm/) is [set](/zh/post/set/) [by](/zh/post/by/) [the](/zh/post/the/) [steady](/zh/post/steady/) [beat](/zh/post/beat/) [of](/zh/post/of/) [the](/zh/post/the/) [drum](/zh/post/drum/) [meter](/zh/post/meter/)."
+- 名词: "[In](/zh/post/in/) [the](/zh/post/the/) [poem](/zh/post/poem/), [each](/zh/post/each/) stanza has an [identical](/zh/post/identical/) [meter](/zh/post/meter/), creating [a](/zh/post/a/) balanced [structure](/zh/post/structure/)."
 
 ## 同义词
-- [gauge](/post/gauge/)
-- measuring [device](/post/device/)
-- [scale](/post/scale/)
-- [instrument](/post/instrument/)
+- [gauge](/zh/post/gauge/)
+- measuring [device](/zh/post/device/)
+- [scale](/zh/post/scale/)
+- [instrument](/zh/post/instrument/)
 - regulator

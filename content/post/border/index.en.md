@@ -7,43 +7,43 @@ description = '[ˈbɔːdə] n.边，边缘；边界'
 keywords = ['ai words', 'border']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bəˈrʌdər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [line](/en/post/line/) [or](/en/post/or/) [boundary](/en/post/boundary/) marking [the](/en/post/the/) [extent](/en/post/extent/) [of](/en/post/of/) an [area](/en/post/area/), [especially](/en/post/especially/) [a](/en/post/a/) territorial [division](/en/post/division/) [between](/en/post/between/) countries [or](/en/post/or/) regions.
-   - [Example](/en/post/example/): [The](/en/post/the/) [border](/en/post/border/) [between](/en/post/between/) Mexico [and](/en/post/and/) [the](/en/post/the/) United States is [a](/en/post/a/) [heavily](/en/post/heavily/) guarded [area](/en/post/area/).
-2. [The](/en/post/the/) [outer](/en/post/outer/) [edge](/en/post/edge/) [or](/en/post/or/) rim [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [where](/en/post/where/) [it](/en/post/it/) meets [another](/en/post/another/) [surface](/en/post/surface/).
-   - [Example](/en/post/example/): [The](/en/post/the/) flowers bordered [the](/en/post/the/) [garden](/en/post/garden/) [path](/en/post/path/).
+### [Noun](/post/noun/)
+1. [A](/post/a/) [line](/post/line/) [or](/post/or/) [boundary](/post/boundary/) marking [the](/post/the/) [extent](/post/extent/) [of](/post/of/) an [area](/post/area/), [especially](/post/especially/) [a](/post/a/) territorial [division](/post/division/) [between](/post/between/) countries [or](/post/or/) regions.
+   - [Example](/post/example/): [The](/post/the/) [border](/post/border/) [between](/post/between/) Mexico [and](/post/and/) [the](/post/the/) United States is [a](/post/a/) [heavily](/post/heavily/) guarded [area](/post/area/).
+2. [The](/post/the/) [outer](/post/outer/) [edge](/post/edge/) [or](/post/or/) rim [of](/post/of/) [something](/post/something/), [often](/post/often/) [where](/post/where/) [it](/post/it/) meets [another](/post/another/) [surface](/post/surface/).
+   - [Example](/post/example/): [The](/post/the/) flowers bordered [the](/post/the/) [garden](/post/garden/) [path](/post/path/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [define](/en/post/define/) [or](/en/post/or/) delimit [the](/en/post/the/) boundaries [of](/en/post/of/) (an [area](/en/post/area/) [or](/en/post/or/) [territory](/en/post/territory/)).
-   - [Example](/en/post/example/): [The](/en/post/the/) [treaty](/en/post/treaty/) defined [the](/en/post/the/) [border](/en/post/border/) [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) nations.
-2. [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [connection](/en/post/connection/) [or](/en/post/or/) [relationship](/en/post/relationship/) [with](/en/post/with/), [especially](/en/post/especially/) [on](/en/post/on/) [the](/en/post/the/) [edge](/en/post/edge/) [or](/en/post/or/) periphery.
-   - [Example](/en/post/example/): [They](/en/post/they/) [border](/en/post/border/) [on](/en/post/on/) [friendly](/en/post/friendly/) relations [but](/en/post/but/) haven't spoken [in](/en/post/in/) years.
+### [Verb](/post/verb/)
+1. [To](/post/to/) [define](/post/define/) [or](/post/or/) delimit [the](/post/the/) boundaries [of](/post/of/) (an [area](/post/area/) [or](/post/or/) [territory](/post/territory/)).
+   - [Example](/post/example/): [The](/post/the/) [treaty](/post/treaty/) defined [the](/post/the/) [border](/post/border/) [between](/post/between/) [the](/post/the/) [two](/post/two/) nations.
+2. [To](/post/to/) [have](/post/have/) [a](/post/a/) [connection](/post/connection/) [or](/post/or/) [relationship](/post/relationship/) [with](/post/with/), [especially](/post/especially/) [on](/post/on/) [the](/post/the/) [edge](/post/edge/) [or](/post/or/) periphery.
+   - [Example](/post/example/): [They](/post/they/) [border](/post/border/) [on](/post/on/) [friendly](/post/friendly/) relations [but](/post/but/) haven't spoken [in](/post/in/) years.
 
-### [Adjective](/en/post/adjective/)
-1. Characterizing [the](/en/post/the/) outermost [part](/en/post/part/) [or](/en/post/or/) [limit](/en/post/limit/).
-   - [Example](/en/post/example/): [The](/en/post/the/) [border](/en/post/border/) [region](/en/post/region/) experiences [unique](/en/post/unique/) cultural influences.
-2. Bordering [or](/en/post/or/) adjacent [to](/en/post/to/); neighboring.
-   - [Example](/en/post/example/): [The](/en/post/the/) houses are [closely](/en/post/closely/) bordered [by](/en/post/by/) [a](/en/post/a/) [row](/en/post/row/) [of](/en/post/of/) trees.
+### [Adjective](/post/adjective/)
+1. Characterizing [the](/post/the/) outermost [part](/post/part/) [or](/post/or/) [limit](/post/limit/).
+   - [Example](/post/example/): [The](/post/the/) [border](/post/border/) [region](/post/region/) experiences [unique](/post/unique/) cultural influences.
+2. Bordering [or](/post/or/) adjacent [to](/post/to/); neighboring.
+   - [Example](/post/example/): [The](/post/the/) houses are [closely](/post/closely/) bordered [by](/post/by/) [a](/post/a/) [row](/post/row/) [of](/post/of/) trees.
 
 ## Phrases
-- "[Come](/en/post/come/) [within](/en/post/within/) [sight](/en/post/sight/) [of](/en/post/of/) [the](/en/post/the/) [border](/en/post/border/)"
-- "[Maintain](/en/post/maintain/) [a](/en/post/a/) [safe](/en/post/safe/) [distance](/en/post/distance/) [from](/en/post/from/) [the](/en/post/the/) [border](/en/post/border/)"
-- "[Cross](/en/post/cross/) [the](/en/post/the/) [border](/en/post/border/) illegally"
+- "[Come](/post/come/) [within](/post/within/) [sight](/post/sight/) [of](/post/of/) [the](/post/the/) [border](/post/border/)"
+- "[Maintain](/post/maintain/) [a](/post/a/) [safe](/post/safe/) [distance](/post/distance/) [from](/post/from/) [the](/post/the/) [border](/post/border/)"
+- "[Cross](/post/cross/) [the](/post/the/) [border](/post/border/) illegally"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [border](/en/post/border/) patrol officers were conducting [routine](/en/post/routine/) checks.
-- **[Verb](/en/post/verb/)**: [The](/en/post/the/) [new](/en/post/new/) [fence](/en/post/fence/) was built [to](/en/post/to/) [better](/en/post/better/) [border](/en/post/border/) [the](/en/post/the/) [property](/en/post/property/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) town's residents [live](/en/post/live/) [in](/en/post/in/) [a](/en/post/a/) predominantly [rural](/en/post/rural/) [border](/en/post/border/) [area](/en/post/area/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [border](/post/border/) patrol officers were conducting [routine](/post/routine/) checks.
+- **[Verb](/post/verb/)**: [The](/post/the/) [new](/post/new/) [fence](/post/fence/) was built [to](/post/to/) [better](/post/better/) [border](/post/border/) [the](/post/the/) [property](/post/property/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) town's residents [live](/post/live/) [in](/post/in/) [a](/post/a/) predominantly [rural](/post/rural/) [border](/post/border/) [area](/post/area/).
 
 ## Synonyms
-- [Edge](/en/post/edge/)
-- [Margin](/en/post/margin/)
-- [Boundary](/en/post/boundary/)
-- [Line](/en/post/line/)
+- [Edge](/post/edge/)
+- [Margin](/post/margin/)
+- [Boundary](/post/boundary/)
+- [Line](/post/line/)
 - Interface
-- [Frontier](/en/post/frontier/)
+- [Frontier](/post/frontier/)
 - Perimeter

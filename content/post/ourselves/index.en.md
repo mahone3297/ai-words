@@ -7,32 +7,32 @@ description = '[ˌauəˈselvz] pron.我们自己'
 keywords = ['ai words', 'ourselves']
 +++
 
-## [Word](/en/post/word/): [Ourselves](/en/post/ourselves/)
+## [Word](/post/word/): [Ourselves](/post/ourselves/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌaʊərˈselvz/
 
 ## Definitions
-**[Pronoun](/en/post/pronoun/) (pron)**: [The](/en/post/the/) reflexive [form](/en/post/form/) [of](/en/post/of/) '[we](/en/post/we/)', [used](/en/post/used/) [when](/en/post/when/) [the](/en/post/the/) [subject](/en/post/subject/) [and](/en/post/and/) [object](/en/post/object/) [of](/en/post/of/) [a](/en/post/a/) [verb](/en/post/verb/) are [the](/en/post/the/) [same](/en/post/same/) [people](/en/post/people/). [It](/en/post/it/) emphasizes [that](/en/post/that/) [the](/en/post/the/) [action](/en/post/action/) reflects [back](/en/post/back/) [on](/en/post/on/) [the](/en/post/the/) [subject](/en/post/subject/).
+**[Pronoun](/post/pronoun/) (pron)**: [The](/post/the/) reflexive [form](/post/form/) [of](/post/of/) '[we](/post/we/)', [used](/post/used/) [when](/post/when/) [the](/post/the/) [subject](/post/subject/) [and](/post/and/) [object](/post/object/) [of](/post/of/) [a](/post/a/) [verb](/post/verb/) are [the](/post/the/) [same](/post/same/) [people](/post/people/). [It](/post/it/) emphasizes [that](/post/that/) [the](/post/the/) [action](/post/action/) reflects [back](/post/back/) [on](/post/on/) [the](/post/the/) [subject](/post/subject/).
 
-### [Definition](/en/post/definition/) Examples
-- _We [must](/en/post/must/) [do](/en/post/do/) [it](/en/post/it/) [ourselves](/en/post/ourselves/)._ ([The](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) doing [it](/en/post/it/) is performed [by](/en/post/by/) [us](/en/post/us/), [not](/en/post/not/) [anyone](/en/post/anyone/) [else](/en/post/else/).)
-- _Let's [introduce](/en/post/introduce/) [ourselves](/en/post/ourselves/)._ ([The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) introducing is [being](/en/post/being/) done [by](/en/post/by/) [us](/en/post/us/) referring [to](/en/post/to/) [the](/en/post/the/) [speaker](/en/post/speaker/) [and](/en/post/and/) [listener](/en/post/listener/).)
+### [Definition](/post/definition/) Examples
+- _We [must](/post/must/) [do](/post/do/) [it](/post/it/) [ourselves](/post/ourselves/)._ ([The](/post/the/) [action](/post/action/) [of](/post/of/) doing [it](/post/it/) is performed [by](/post/by/) [us](/post/us/), [not](/post/not/) [anyone](/post/anyone/) [else](/post/else/).)
+- _Let's [introduce](/post/introduce/) [ourselves](/post/ourselves/)._ ([The](/post/the/) [act](/post/act/) [of](/post/of/) introducing is [being](/post/being/) done [by](/post/by/) [us](/post/us/) referring [to](/post/to/) [the](/post/the/) [speaker](/post/speaker/) [and](/post/and/) [listener](/post/listener/).)
 
 ## Phrases
-- _By ourselves_ implies doing [something](/en/post/something/) [alone](/en/post/alone/) [without](/en/post/without/) others' assistance.
-  - _We decided [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [by](/en/post/by/) [ourselves](/en/post/ourselves/)._
-- _To [do](/en/post/do/) [something](/en/post/something/) [for](/en/post/for/) ourselves_ [means](/en/post/means/) [to](/en/post/to/) [act](/en/post/act/) independently [or](/en/post/or/) [take](/en/post/take/) [care](/en/post/care/) [of](/en/post/of/) one's [own](/en/post/own/) needs.
-  - _It's [important](/en/post/important/) [to](/en/post/to/) [take](/en/post/take/) [time](/en/post/time/) [for](/en/post/for/) [ourselves](/en/post/ourselves/) [every](/en/post/every/) [day](/en/post/day/)._
+- _By ourselves_ implies doing [something](/post/something/) [alone](/post/alone/) [without](/post/without/) others' assistance.
+  - _We decided [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [by](/post/by/) [ourselves](/post/ourselves/)._
+- _To [do](/post/do/) [something](/post/something/) [for](/post/for/) ourselves_ [means](/post/means/) [to](/post/to/) [act](/post/act/) independently [or](/post/or/) [take](/post/take/) [care](/post/care/) [of](/post/of/) one's [own](/post/own/) needs.
+  - _It's [important](/post/important/) [to](/post/to/) [take](/post/take/) [time](/post/time/) [for](/post/for/) [ourselves](/post/ourselves/) [every](/post/every/) [day](/post/day/)._
 
-## [Example](/en/post/example/) Sentences
-- _We [need](/en/post/need/) [to](/en/post/to/) [rely](/en/post/rely/) [on](/en/post/on/) [ourselves](/en/post/ourselves/) [if](/en/post/if/) [we](/en/post/we/) [want](/en/post/want/) [to](/en/post/to/) [succeed](/en/post/succeed/)._
-- _We cooked [dinner](/en/post/dinner/) [ourselves](/en/post/ourselves/) [instead](/en/post/instead/) [of](/en/post/of/) ordering [out](/en/post/out/)._
-- _They congratulated [themselves](/en/post/themselves/) [on](/en/post/on/) [a](/en/post/a/) [job](/en/post/job/) [well](/en/post/well/) done._
+## [Example](/post/example/) Sentences
+- _We [need](/post/need/) [to](/post/to/) [rely](/post/rely/) [on](/post/on/) [ourselves](/post/ourselves/) [if](/post/if/) [we](/post/we/) [want](/post/want/) [to](/post/to/) [succeed](/post/succeed/)._
+- _We cooked [dinner](/post/dinner/) [ourselves](/post/ourselves/) [instead](/post/instead/) [of](/post/of/) ordering [out](/post/out/)._
+- _They congratulated [themselves](/post/themselves/) [on](/post/on/) [a](/post/a/) [job](/post/job/) [well](/post/well/) done._
 
 ## Synonyms
-- [Our](/en/post/our/) [own](/en/post/own/) selves
-- [Us](/en/post/us/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts [where](/en/post/where/) [emphasis](/en/post/emphasis/) [on](/en/post/on/) self-action is required)
-- Personally ([when](/en/post/when/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) acting independently) 
+- [Our](/post/our/) [own](/post/own/) selves
+- [Us](/post/us/) ([in](/post/in/) [certain](/post/certain/) contexts [where](/post/where/) [emphasis](/post/emphasis/) [on](/post/on/) self-action is required)
+- Personally ([when](/post/when/) [used](/post/used/) [in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) acting independently) 
 
-[Note](/en/post/note/): [Unlike](/en/post/unlike/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/), reflexive pronouns [like](/en/post/like/) "[ourselves](/en/post/ourselves/)" don't [have](/en/post/have/) [direct](/en/post/direct/) synonyms [because](/en/post/because/) [their](/en/post/their/) [function](/en/post/function/) is [unique](/en/post/unique/). [They](/en/post/they/) [reflect](/en/post/reflect/) [the](/en/post/the/) [action](/en/post/action/) [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) [subject](/en/post/subject/) performing [the](/en/post/the/) [action](/en/post/action/) [and](/en/post/and/) cannot [be](/en/post/be/) replaced [by](/en/post/by/) nouns [or](/en/post/or/) [other](/en/post/other/) types [of](/en/post/of/) pronouns [without](/en/post/without/) changing [the](/en/post/the/) [meaning](/en/post/meaning/) [of](/en/post/of/) [the](/en/post/the/) [sentence](/en/post/sentence/).
+[Note](/post/note/): [Unlike](/post/unlike/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/), reflexive pronouns [like](/post/like/) "[ourselves](/post/ourselves/)" don't [have](/post/have/) [direct](/post/direct/) synonyms [because](/post/because/) [their](/post/their/) [function](/post/function/) is [unique](/post/unique/). [They](/post/they/) [reflect](/post/reflect/) [the](/post/the/) [action](/post/action/) [back](/post/back/) [to](/post/to/) [the](/post/the/) [subject](/post/subject/) performing [the](/post/the/) [action](/post/action/) [and](/post/and/) cannot [be](/post/be/) replaced [by](/post/by/) nouns [or](/post/or/) [other](/post/other/) types [of](/post/of/) pronouns [without](/post/without/) changing [the](/post/the/) [meaning](/post/meaning/) [of](/post/of/) [the](/post/the/) [sentence](/post/sentence/).

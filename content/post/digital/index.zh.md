@@ -11,20 +11,20 @@ keywords = ['ai words', 'digital']
 /ˈdɪdʒɪtl/
 
 ## 释义
-- **形容词**: 与数字或二进制信息处理有关的；电子或计算机化的。例如: "[The](/post/the/) [new](/post/new/) [device](/post/device/) has [a](/post/a/) [digital](/post/digital/) [display](/post/display/)."
-- **名词**: 数字信号或数字技术的产品。例如: "[She](/post/she/) works [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [digital](/post/digital/) marketing."
+- **形容词**: 与数字或二进制信息处理有关的；电子或计算机化的。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [device](/zh/post/device/) has [a](/zh/post/a/) [digital](/zh/post/digital/) [display](/zh/post/display/)."
+- **名词**: 数字信号或数字技术的产品。例如: "[She](/zh/post/she/) works [in](/zh/post/in/) [the](/zh/post/the/) [field](/zh/post/field/) [of](/zh/post/of/) [digital](/zh/post/digital/) marketing."
 
 ## 短语
-- "[Digital](/post/digital/) [technology](/post/technology/)" 指的是基于数字处理的技术。
-- "[Digital](/post/digital/) [watch](/post/watch/)" 是一种使用电子显示时间的手表。
-- "[Digital](/post/digital/) [camera](/post/camera/)" 是一种使用电子传感器而不是胶片拍摄照片的相机。
+- "[Digital](/zh/post/digital/) [technology](/zh/post/technology/)" 指的是基于数字处理的技术。
+- "[Digital](/zh/post/digital/) [watch](/zh/post/watch/)" 是一种使用电子显示时间的手表。
+- "[Digital](/zh/post/digital/) [camera](/zh/post/camera/)" 是一种使用电子传感器而不是胶片拍摄照片的相机。
 
 ## 例句
-- 形容词: "[This](/post/this/) [new](/post/new/) printer produces high-quality [digital](/post/digital/) prints."
-- 名词: "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) [digital](/post/digital/) [camera](/post/camera/) [for](/post/for/) [my](/post/my/) travels."
+- 形容词: "[This](/zh/post/this/) [new](/zh/post/new/) printer produces high-quality [digital](/zh/post/digital/) prints."
+- 名词: "I [need](/zh/post/need/) [to](/zh/post/to/) [buy](/zh/post/buy/) [a](/zh/post/a/) [new](/zh/post/new/) [digital](/zh/post/digital/) [camera](/zh/post/camera/) [for](/zh/post/for/) [my](/zh/post/my/) travels."
 
 ## 同义词
-- [Electronic](/post/electronic/)
+- [Electronic](/zh/post/electronic/)
 - Computerized
 - Digitalized
 - Binary

@@ -7,27 +7,27 @@ description = '[ˈmainə] n.矿工'
 keywords = ['ai words', 'miner']
 +++
 
-## [Word](/en/post/word/): [Miner](/en/post/miner/)
+## [Word](/post/word/): [Miner](/post/miner/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmaɪnər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) works [in](/en/post/in/) extracting minerals, [especially](/en/post/especially/) [from](/en/post/from/) [underground](/en/post/underground/) mines. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [coal](/en/post/coal/) [miner](/en/post/miner/) spent [long](/en/post/long/) hours [deep](/en/post/deep/) [beneath](/en/post/beneath/) [the](/en/post/the/) earth's [surface](/en/post/surface/)."
-- **[Noun](/en/post/noun/) (figurative)**: [In](/en/post/in/) blockchain [technology](/en/post/technology/), [a](/en/post/a/) [miner](/en/post/miner/) refers [to](/en/post/to/) [a](/en/post/a/) [network](/en/post/network/) participant [who](/en/post/who/) verifies transactions [and](/en/post/and/) adds [them](/en/post/them/) [to](/en/post/to/) [the](/en/post/the/) blockchain, [often](/en/post/often/) receiving cryptocurrency rewards [for](/en/post/for/) [their](/en/post/their/) efforts. [Example](/en/post/example/): "[He](/en/post/he/) [set](/en/post/set/) [up](/en/post/up/) [a](/en/post/a/) rig [to](/en/post/to/) [mine](/en/post/mine/) bitcoins, becoming [a](/en/post/a/) cryptocurrency [miner](/en/post/miner/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) works [in](/post/in/) extracting minerals, [especially](/post/especially/) [from](/post/from/) [underground](/post/underground/) mines. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [coal](/post/coal/) [miner](/post/miner/) spent [long](/post/long/) hours [deep](/post/deep/) [beneath](/post/beneath/) [the](/post/the/) earth's [surface](/post/surface/)."
+- **[Noun](/post/noun/) (figurative)**: [In](/post/in/) blockchain [technology](/post/technology/), [a](/post/a/) [miner](/post/miner/) refers [to](/post/to/) [a](/post/a/) [network](/post/network/) participant [who](/post/who/) verifies transactions [and](/post/and/) adds [them](/post/them/) [to](/post/to/) [the](/post/the/) blockchain, [often](/post/often/) receiving cryptocurrency rewards [for](/post/for/) [their](/post/their/) efforts. [Example](/post/example/): "[He](/post/he/) [set](/post/set/) [up](/post/up/) [a](/post/a/) rig [to](/post/to/) [mine](/post/mine/) bitcoins, becoming [a](/post/a/) cryptocurrency [miner](/post/miner/)."
 
 ## Phrases
-- "[Underground](/en/post/underground/) [miner](/en/post/miner/)": Refers [to](/en/post/to/) [a](/en/post/a/) [miner](/en/post/miner/) [who](/en/post/who/) works specifically [in](/en/post/in/) subterranean mining operations.
-- "[Gold](/en/post/gold/) [miner](/en/post/miner/)", "[coal](/en/post/coal/) [miner](/en/post/miner/)", "[diamond](/en/post/diamond/) [miner](/en/post/miner/)": Describes miners specializing [in](/en/post/in/) [the](/en/post/the/) extraction [of](/en/post/of/) [specific](/en/post/specific/) minerals.
-- "[Data](/en/post/data/) [miner](/en/post/miner/)": [In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) computing, [it](/en/post/it/) describes [someone](/en/post/someone/) [who](/en/post/who/) extracts [valuable](/en/post/valuable/) [information](/en/post/information/) [from](/en/post/from/) [large](/en/post/large/) datasets.
+- "[Underground](/post/underground/) [miner](/post/miner/)": Refers [to](/post/to/) [a](/post/a/) [miner](/post/miner/) [who](/post/who/) works specifically [in](/post/in/) subterranean mining operations.
+- "[Gold](/post/gold/) [miner](/post/miner/)", "[coal](/post/coal/) [miner](/post/miner/)", "[diamond](/post/diamond/) [miner](/post/miner/)": Describes miners specializing [in](/post/in/) [the](/post/the/) extraction [of](/post/of/) [specific](/post/specific/) minerals.
+- "[Data](/post/data/) [miner](/post/miner/)": [In](/post/in/) [the](/post/the/) context [of](/post/of/) computing, [it](/post/it/) describes [someone](/post/someone/) [who](/post/who/) extracts [valuable](/post/valuable/) [information](/post/information/) [from](/post/from/) [large](/post/large/) datasets.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([traditional](/en/post/traditional/) mining)**: "[After](/en/post/after/) years [of](/en/post/of/) working [as](/en/post/as/) [a](/en/post/a/) [miner](/en/post/miner/), [he](/en/post/he/) had developed [a](/en/post/a/) chronic [lung](/en/post/lung/) [condition](/en/post/condition/) [due](/en/post/due/) [to](/en/post/to/) [exposure](/en/post/exposure/) [to](/en/post/to/) [dust](/en/post/dust/)."
-- **[Noun](/en/post/noun/) (blockchain context)**: "[As](/en/post/as/) [a](/en/post/a/) blockchain [miner](/en/post/miner/), [she](/en/post/she/) uses [her](/en/post/her/) computational [power](/en/post/power/) [to](/en/post/to/) [solve](/en/post/solve/) [complex](/en/post/complex/) algorithms [to](/en/post/to/) validate transactions [on](/en/post/on/) [the](/en/post/the/) [network](/en/post/network/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([traditional](/post/traditional/) mining)**: "[After](/post/after/) years [of](/post/of/) working [as](/post/as/) [a](/post/a/) [miner](/post/miner/), [he](/post/he/) had developed [a](/post/a/) chronic [lung](/post/lung/) [condition](/post/condition/) [due](/post/due/) [to](/post/to/) [exposure](/post/exposure/) [to](/post/to/) [dust](/post/dust/)."
+- **[Noun](/post/noun/) (blockchain context)**: "[As](/post/as/) [a](/post/a/) blockchain [miner](/post/miner/), [she](/post/she/) uses [her](/post/her/) computational [power](/post/power/) [to](/post/to/) [solve](/post/solve/) [complex](/post/complex/) algorithms [to](/post/to/) validate transactions [on](/post/on/) [the](/post/the/) [network](/post/network/)."
 
 ## Synonyms
-- Shaft [worker](/en/post/worker/)
-- [Ore](/en/post/ore/) extractor
-- [Tunnel](/en/post/tunnel/) digger
-- Crypto-miner ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) blockchain)
-- [Data](/en/post/data/) extraction [expert](/en/post/expert/) ([for](/en/post/for/) [data](/en/post/data/) mining)
+- Shaft [worker](/post/worker/)
+- [Ore](/post/ore/) extractor
+- [Tunnel](/post/tunnel/) digger
+- Crypto-miner ([in](/post/in/) [the](/post/the/) context [of](/post/of/) blockchain)
+- [Data](/post/data/) extraction [expert](/post/expert/) ([for](/post/for/) [data](/post/data/) mining)

@@ -7,25 +7,25 @@ description = '[ˈdʒʌstis] n.正义，公正；司法'
 keywords = ['ai words', 'justice']
 +++
 
-## [Word](/en/post/word/): [Justice](/en/post/justice/)
+## [Word](/post/word/): [Justice](/post/justice/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 / ˈdʒʌstice /
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [fair](/en/post/fair/) [and](/en/post/and/) [reasonable](/en/post/reasonable/) [in](/en/post/in/) [the](/en/post/the/) [way](/en/post/way/) [people](/en/post/people/) are treated; fairness [and](/en/post/and/) impartiality, [especially](/en/post/especially/) [in](/en/post/in/) [the](/en/post/the/) [administration](/en/post/administration/) [of](/en/post/of/) [law](/en/post/law/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) court's [decision](/en/post/decision/) upheld [the](/en/post/the/) principles [of](/en/post/of/) [justice](/en/post/justice/)."
-- **[Noun](/en/post/noun/) ([Law](/en/post/law/))**: [The](/en/post/the/) [administration](/en/post/administration/) [of](/en/post/of/) [the](/en/post/the/) [law](/en/post/law/) [or](/en/post/or/) [authority](/en/post/authority/) given [to](/en/post/to/) judges [to](/en/post/to/) administer [the](/en/post/the/) [law](/en/post/law/); [the](/en/post/the/) [legal](/en/post/legal/) [system](/en/post/system/) [that](/en/post/that/) maintains [social](/en/post/social/) [order](/en/post/order/) [through](/en/post/through/) [the](/en/post/the/) [punishment](/en/post/punishment/) [of](/en/post/of/) crimes. [Example](/en/post/example/): "[The](/en/post/the/) [trial](/en/post/trial/) was conducted [with](/en/post/with/) [due](/en/post/due/) [process](/en/post/process/) [and](/en/post/and/) [justice](/en/post/justice/) was served."
-- **[Noun](/en/post/noun/) ([Philosophy](/en/post/philosophy/))**: [A](/en/post/a/) [moral](/en/post/moral/) [principle](/en/post/principle/) dictating [that](/en/post/that/) [people](/en/post/people/) [receive](/en/post/receive/) [what](/en/post/what/) [they](/en/post/they/) [deserve](/en/post/deserve/), [whether](/en/post/whether/) [it](/en/post/it/) [be](/en/post/be/) [reward](/en/post/reward/) [or](/en/post/or/) [punishment](/en/post/punishment/). [Example](/en/post/example/): "Injustice [anywhere](/en/post/anywhere/) is [a](/en/post/a/) [threat](/en/post/threat/) [to](/en/post/to/) [justice](/en/post/justice/) [everywhere](/en/post/everywhere/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [fair](/post/fair/) [and](/post/and/) [reasonable](/post/reasonable/) [in](/post/in/) [the](/post/the/) [way](/post/way/) [people](/post/people/) are treated; fairness [and](/post/and/) impartiality, [especially](/post/especially/) [in](/post/in/) [the](/post/the/) [administration](/post/administration/) [of](/post/of/) [law](/post/law/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) court's [decision](/post/decision/) upheld [the](/post/the/) principles [of](/post/of/) [justice](/post/justice/)."
+- **[Noun](/post/noun/) ([Law](/post/law/))**: [The](/post/the/) [administration](/post/administration/) [of](/post/of/) [the](/post/the/) [law](/post/law/) [or](/post/or/) [authority](/post/authority/) given [to](/post/to/) judges [to](/post/to/) administer [the](/post/the/) [law](/post/law/); [the](/post/the/) [legal](/post/legal/) [system](/post/system/) [that](/post/that/) maintains [social](/post/social/) [order](/post/order/) [through](/post/through/) [the](/post/the/) [punishment](/post/punishment/) [of](/post/of/) crimes. [Example](/post/example/): "[The](/post/the/) [trial](/post/trial/) was conducted [with](/post/with/) [due](/post/due/) [process](/post/process/) [and](/post/and/) [justice](/post/justice/) was served."
+- **[Noun](/post/noun/) ([Philosophy](/post/philosophy/))**: [A](/post/a/) [moral](/post/moral/) [principle](/post/principle/) dictating [that](/post/that/) [people](/post/people/) [receive](/post/receive/) [what](/post/what/) [they](/post/they/) [deserve](/post/deserve/), [whether](/post/whether/) [it](/post/it/) [be](/post/be/) [reward](/post/reward/) [or](/post/or/) [punishment](/post/punishment/). [Example](/post/example/): "Injustice [anywhere](/post/anywhere/) is [a](/post/a/) [threat](/post/threat/) [to](/post/to/) [justice](/post/justice/) [everywhere](/post/everywhere/)."
   
 ## Phrases
-- "[Justice](/en/post/justice/) [system](/en/post/system/)": [The](/en/post/the/) [network](/en/post/network/) [of](/en/post/of/) courts, judges, lawyers, [and](/en/post/and/) laws [responsible](/en/post/responsible/) [for](/en/post/for/) upholding [justice](/en/post/justice/) [in](/en/post/in/) [society](/en/post/society/).
-- "[Seek](/en/post/seek/) [justice](/en/post/justice/)": [To](/en/post/to/) [pursue](/en/post/pursue/) [a](/en/post/a/) [fair](/en/post/fair/) [resolution](/en/post/resolution/) [or](/en/post/or/) [to](/en/post/to/) [right](/en/post/right/) [a](/en/post/a/) [wrong](/en/post/wrong/).
-- "[Social](/en/post/social/) [justice](/en/post/justice/)": Fairness [and](/en/post/and/) equity [in](/en/post/in/) [society](/en/post/society/), [particularly](/en/post/particularly/) [concerning](/en/post/concerning/) [access](/en/post/access/) [to](/en/post/to/) [wealth](/en/post/wealth/), opportunities, [and](/en/post/and/) privileges.
+- "[Justice](/post/justice/) [system](/post/system/)": [The](/post/the/) [network](/post/network/) [of](/post/of/) courts, judges, lawyers, [and](/post/and/) laws [responsible](/post/responsible/) [for](/post/for/) upholding [justice](/post/justice/) [in](/post/in/) [society](/post/society/).
+- "[Seek](/post/seek/) [justice](/post/justice/)": [To](/post/to/) [pursue](/post/pursue/) [a](/post/a/) [fair](/post/fair/) [resolution](/post/resolution/) [or](/post/or/) [to](/post/to/) [right](/post/right/) [a](/post/a/) [wrong](/post/wrong/).
+- "[Social](/post/social/) [justice](/post/justice/)": Fairness [and](/post/and/) equity [in](/post/in/) [society](/post/society/), [particularly](/post/particularly/) [concerning](/post/concerning/) [access](/post/access/) [to](/post/to/) [wealth](/post/wealth/), opportunities, [and](/post/and/) privileges.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([general](/en/post/general/) [meaning](/en/post/meaning/))**: "[Their](/en/post/their/) tireless [work](/en/post/work/) [for](/en/post/for/) [justice](/en/post/justice/) has inspired [many](/en/post/many/) activists [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
-- **[Noun](/en/post/noun/) ([law](/en/post/law/))**: "[The](/en/post/the/) [judge](/en/post/judge/)’s verdict was seen [as](/en/post/as/) [a](/en/post/a/) [triumph](/en/post/triumph/) [for](/en/post/for/) [justice](/en/post/justice/) [in](/en/post/in/) [a](/en/post/a/) [case](/en/post/case/) marred [by](/en/post/by/) corruption."
-- **[Noun](/en/post/noun/) ([philosophy](/en/post/philosophy/))**: "[True](/en/post/true/) [justice](/en/post/justice/) [would](/en/post/would/) [require](/en/post/require/) [not](/en/post/not/) [only](/en/post/only/) punishing [the](/en/post/the/) [guilty](/en/post/guilty/) [but](/en/post/but/) [also](/en/post/also/) rehabilitating [them](/en/post/them/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([general](/post/general/) [meaning](/post/meaning/))**: "[Their](/post/their/) tireless [work](/post/work/) [for](/post/for/) [justice](/post/justice/) has inspired [many](/post/many/) activists [around](/post/around/) [the](/post/the/) [world](/post/world/)."
+- **[Noun](/post/noun/) ([law](/post/law/))**: "[The](/post/the/) [judge](/post/judge/)’s verdict was seen [as](/post/as/) [a](/post/a/) [triumph](/post/triumph/) [for](/post/for/) [justice](/post/justice/) [in](/post/in/) [a](/post/a/) [case](/post/case/) marred [by](/post/by/) corruption."
+- **[Noun](/post/noun/) ([philosophy](/post/philosophy/))**: "[True](/post/true/) [justice](/post/justice/) [would](/post/would/) [require](/post/require/) [not](/post/not/) [only](/post/only/) punishing [the](/post/the/) [guilty](/post/guilty/) [but](/post/but/) [also](/post/also/) rehabilitating [them](/post/them/)."
 
 ## Synonyms
 - Fairness
@@ -35,6 +35,6 @@ keywords = ['ai words', 'justice']
 - Rectitude
 - Impartiality
 - Morality
-- [Due](/en/post/due/) [process](/en/post/process/)
-- [Legal](/en/post/legal/) rights
-- Judicial [process](/en/post/process/)
+- [Due](/post/due/) [process](/post/process/)
+- [Legal](/post/legal/) rights
+- Judicial [process](/post/process/)

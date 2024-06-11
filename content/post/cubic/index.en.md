@@ -7,30 +7,30 @@ description = '[ˈkjuːbik] a.立方形的；立方的'
 keywords = ['ai words', 'cubic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kjuːˈbɪk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [In](/en/post/in/) [grammar](/en/post/grammar/), [a](/en/post/a/) **[noun](/en/post/noun/)** referring [to](/en/post/to/) [a](/en/post/a/) [solid](/en/post/solid/) [figure](/en/post/figure/) [with](/en/post/with/) [all](/en/post/all/) sides [equal](/en/post/equal/) [and](/en/post/and/) angles [equal](/en/post/equal/) [to](/en/post/to/) 90 degrees, [often](/en/post/often/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/) [for](/en/post/for/) [volume](/en/post/volume/) (e.g., [a](/en/post/a/) [cube](/en/post/cube/) [of](/en/post/of/) [sugar](/en/post/sugar/)). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [cube](/en/post/cube/) had [six](/en/post/six/) faces."
-- **[Adjective](/en/post/adjective/)**: Describing [something](/en/post/something/) shaped [like](/en/post/like/) [a](/en/post/a/) [cube](/en/post/cube/) [or](/en/post/or/) having [three](/en/post/three/) dimensions. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [box](/en/post/box/) was [a](/en/post/a/) [cubic](/en/post/cubic/) [structure](/en/post/structure/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [form](/en/post/form/) [or](/en/post/or/) [describe](/en/post/describe/) [something](/en/post/something/) [in](/en/post/in/) terms [of](/en/post/of/) cubes [or](/en/post/or/) [cubic](/en/post/cubic/) units. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) mathematician derived [a](/en/post/a/) [cubic](/en/post/cubic/) [equation](/en/post/equation/)."
+- **[Noun](/post/noun/)**: [In](/post/in/) [grammar](/post/grammar/), [a](/post/a/) **[noun](/post/noun/)** referring [to](/post/to/) [a](/post/a/) [solid](/post/solid/) [figure](/post/figure/) [with](/post/with/) [all](/post/all/) sides [equal](/post/equal/) [and](/post/and/) angles [equal](/post/equal/) [to](/post/to/) 90 degrees, [often](/post/often/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/) [for](/post/for/) [volume](/post/volume/) (e.g., [a](/post/a/) [cube](/post/cube/) [of](/post/of/) [sugar](/post/sugar/)). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [cube](/post/cube/) had [six](/post/six/) faces."
+- **[Adjective](/post/adjective/)**: Describing [something](/post/something/) shaped [like](/post/like/) [a](/post/a/) [cube](/post/cube/) [or](/post/or/) having [three](/post/three/) dimensions. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [box](/post/box/) was [a](/post/a/) [cubic](/post/cubic/) [structure](/post/structure/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [form](/post/form/) [or](/post/or/) [describe](/post/describe/) [something](/post/something/) [in](/post/in/) terms [of](/post/of/) cubes [or](/post/or/) [cubic](/post/cubic/) units. [For](/post/for/) [example](/post/example/): "[The](/post/the/) mathematician derived [a](/post/a/) [cubic](/post/cubic/) [equation](/post/equation/)."
 
 ## Phrases
-- "[Cubic](/en/post/cubic/) footage" refers [to](/en/post/to/) [the](/en/post/the/) [volume](/en/post/volume/) [of](/en/post/of/) [a](/en/post/a/) [space](/en/post/space/) measured [in](/en/post/in/) [cubic](/en/post/cubic/) units.
-- "[A](/en/post/a/) [cubic](/en/post/cubic/) [meter](/en/post/meter/)" is [the](/en/post/the/) [standard](/en/post/standard/) [unit](/en/post/unit/) [of](/en/post/of/) [volume](/en/post/volume/) [in](/en/post/in/) [the](/en/post/the/) [metric](/en/post/metric/) [system](/en/post/system/).
-- "[Cubic](/en/post/cubic/) inches" are [used](/en/post/used/) [to](/en/post/to/) [measure](/en/post/measure/) [volume](/en/post/volume/) [in](/en/post/in/) [the](/en/post/the/) imperial [system](/en/post/system/).
+- "[Cubic](/post/cubic/) footage" refers [to](/post/to/) [the](/post/the/) [volume](/post/volume/) [of](/post/of/) [a](/post/a/) [space](/post/space/) measured [in](/post/in/) [cubic](/post/cubic/) units.
+- "[A](/post/a/) [cubic](/post/cubic/) [meter](/post/meter/)" is [the](/post/the/) [standard](/post/standard/) [unit](/post/unit/) [of](/post/of/) [volume](/post/volume/) [in](/post/in/) [the](/post/the/) [metric](/post/metric/) [system](/post/system/).
+- "[Cubic](/post/cubic/) inches" are [used](/post/used/) [to](/post/to/) [measure](/post/measure/) [volume](/post/volume/) [in](/post/in/) [the](/post/the/) imperial [system](/post/system/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) sculpture was made entirely [of](/en/post/of/) stacked cubes."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) material's [density](/en/post/density/) is measured [in](/en/post/in/) [cubic](/en/post/cubic/) centimeters."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) calculated [the](/en/post/the/) [volume](/en/post/volume/) [of](/en/post/of/) [the](/en/post/the/) [room](/en/post/room/) [in](/en/post/in/) [cubic](/en/post/cubic/) yards."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) sculpture was made entirely [of](/post/of/) stacked cubes."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) material's [density](/post/density/) is measured [in](/post/in/) [cubic](/post/cubic/) centimeters."
+- **[Verb](/post/verb/)**: "[He](/post/he/) calculated [the](/post/the/) [volume](/post/volume/) [of](/post/of/) [the](/post/the/) [room](/post/room/) [in](/post/in/) [cubic](/post/cubic/) yards."
 
 ## Synonyms
 - Cubical
-- Rectangular [solid](/en/post/solid/)
+- Rectangular [solid](/post/solid/)
 - Hexahedron
 - Three-dimensional
-- [Cubic](/en/post/cubic/) [measurement](/en/post/measurement/)
+- [Cubic](/post/cubic/) [measurement](/post/measurement/)
 
 ## Antonyms
 - Linear (one-dimensional)

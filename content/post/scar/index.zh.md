@@ -11,20 +11,20 @@ keywords = ['ai words', 'scar']
 /skɑːr/
 
 ## 释义
-- **名词**: 因伤口愈合而留下的痕迹或标记。例如: "[She](/post/she/) [still](/post/still/) had [a](/post/a/) [scar](/post/scar/) [on](/post/on/) [her](/post/her/) [arm](/post/arm/) [from](/post/from/) [the](/post/the/) [accident](/post/accident/)."
-- **名词**: 心灵上的创伤或痛苦的记忆。例如: "[The](/post/the/) [emotional](/post/emotional/) scars [of](/post/of/) [the](/post/the/) [divorce](/post/divorce/) were [still](/post/still/) [fresh](/post/fresh/)."
+- **名词**: 因伤口愈合而留下的痕迹或标记。例如: "[She](/zh/post/she/) [still](/zh/post/still/) had [a](/zh/post/a/) [scar](/zh/post/scar/) [on](/zh/post/on/) [her](/zh/post/her/) [arm](/zh/post/arm/) [from](/zh/post/from/) [the](/zh/post/the/) [accident](/zh/post/accident/)."
+- **名词**: 心灵上的创伤或痛苦的记忆。例如: "[The](/zh/post/the/) [emotional](/zh/post/emotional/) scars [of](/zh/post/of/) [the](/zh/post/the/) [divorce](/zh/post/divorce/) were [still](/zh/post/still/) [fresh](/zh/post/fresh/)."
 
 ## 短语
-- "[scar](/post/scar/) [tissue](/post/tissue/)" 意为伤疤组织。
-- "[to](/post/to/) [bear](/post/bear/) [the](/post/the/) scars" 意味着承受过去的痛苦经历。
+- "[scar](/zh/post/scar/) [tissue](/zh/post/tissue/)" 意为伤疤组织。
+- "[to](/zh/post/to/) [bear](/zh/post/bear/) [the](/zh/post/the/) scars" 意味着承受过去的痛苦经历。
 
 ## 例句
-- "[The](/post/the/) [surgery](/post/surgery/) [left](/post/left/) [a](/post/a/) [small](/post/small/) [scar](/post/scar/) [on](/post/on/) [his](/post/his/) abdomen."
-- "[The](/post/the/) [war](/post/war/) veterans carried [the](/post/the/) scars [of](/post/of/) [their](/post/their/) experiences [for](/post/for/) [the](/post/the/) [rest](/post/rest/) [of](/post/of/) [their](/post/their/) lives."
+- "[The](/zh/post/the/) [surgery](/zh/post/surgery/) [left](/zh/post/left/) [a](/zh/post/a/) [small](/zh/post/small/) [scar](/zh/post/scar/) [on](/zh/post/on/) [his](/zh/post/his/) abdomen."
+- "[The](/zh/post/the/) [war](/zh/post/war/) veterans carried [the](/zh/post/the/) scars [of](/zh/post/of/) [their](/zh/post/their/) experiences [for](/zh/post/for/) [the](/zh/post/the/) [rest](/zh/post/rest/) [of](/zh/post/of/) [their](/zh/post/their/) lives."
 
 ## 同义词
-- [Mark](/post/mark/)
-- [Stain](/post/stain/)
+- [Mark](/zh/post/mark/)
+- [Stain](/zh/post/stain/)
 - Blemish
-- [Wound](/post/wound/)
+- [Wound](/zh/post/wound/)
 - Trauma

@@ -7,33 +7,33 @@ description = '[ˈfɔrist] n.森林；森林地带'
 keywords = ['ai words', 'forest']
 +++
 
-## [Word](/en/post/word/): [Forest](/en/post/forest/)
+## [Word](/post/word/): [Forest](/post/forest/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɔːrɪst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/) [area](/en/post/area/) [of](/en/post/of/) [land](/en/post/land/) covered [with](/en/post/with/) trees [and](/en/post/and/) undergrowth, typically having [a](/en/post/a/) [diverse](/en/post/diverse/) [range](/en/post/range/) [of](/en/post/of/) [plant](/en/post/plant/) [and](/en/post/and/) [animal](/en/post/animal/) [life](/en/post/life/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) hiker got lost [in](/en/post/in/) [the](/en/post/the/) [dense](/en/post/dense/) [forest](/en/post/forest/)."
-- **[Verb](/en/post/verb/) (archaic)**: [To](/en/post/to/) [cover](/en/post/cover/) an [area](/en/post/area/) [with](/en/post/with/) trees; [to](/en/post/to/) afforest. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [king](/en/post/king/) ordered [that](/en/post/that/) [the](/en/post/the/) [land](/en/post/land/) [be](/en/post/be/) forested [with](/en/post/with/) [oak](/en/post/oak/) trees."
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/) [area](/post/area/) [of](/post/of/) [land](/post/land/) covered [with](/post/with/) trees [and](/post/and/) undergrowth, typically having [a](/post/a/) [diverse](/post/diverse/) [range](/post/range/) [of](/post/of/) [plant](/post/plant/) [and](/post/and/) [animal](/post/animal/) [life](/post/life/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) hiker got lost [in](/post/in/) [the](/post/the/) [dense](/post/dense/) [forest](/post/forest/)."
+- **[Verb](/post/verb/) (archaic)**: [To](/post/to/) [cover](/post/cover/) an [area](/post/area/) [with](/post/with/) trees; [to](/post/to/) afforest. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [king](/post/king/) ordered [that](/post/that/) [the](/post/the/) [land](/post/land/) [be](/post/be/) forested [with](/post/with/) [oak](/post/oak/) trees."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [heart](/en/post/heart/) [of](/en/post/of/) [the](/en/post/the/) [forest](/en/post/forest/)": Refers [to](/en/post/to/) [being](/en/post/being/) [deep](/en/post/deep/) [within](/en/post/within/) [a](/en/post/a/) [large](/en/post/large/) wooded [area](/en/post/area/).
-- "[Forest](/en/post/forest/) [fire](/en/post/fire/)": An uncontrolled [fire](/en/post/fire/) [that](/en/post/that/) occurs [in](/en/post/in/) [a](/en/post/a/) forested [area](/en/post/area/).
-- "Old-growth [forest](/en/post/forest/)": [A](/en/post/a/) [forest](/en/post/forest/) [that](/en/post/that/) has developed [over](/en/post/over/) [a](/en/post/a/) [long](/en/post/long/) [period](/en/post/period/) [without](/en/post/without/) [significant](/en/post/significant/) disturbance, [often](/en/post/often/) featuring [ancient](/en/post/ancient/) [and](/en/post/and/) [mature](/en/post/mature/) trees.
+- "[In](/post/in/) [the](/post/the/) [heart](/post/heart/) [of](/post/of/) [the](/post/the/) [forest](/post/forest/)": Refers [to](/post/to/) [being](/post/being/) [deep](/post/deep/) [within](/post/within/) [a](/post/a/) [large](/post/large/) wooded [area](/post/area/).
+- "[Forest](/post/forest/) [fire](/post/fire/)": An uncontrolled [fire](/post/fire/) [that](/post/that/) occurs [in](/post/in/) [a](/post/a/) forested [area](/post/area/).
+- "Old-growth [forest](/post/forest/)": [A](/post/a/) [forest](/post/forest/) [that](/post/that/) has developed [over](/post/over/) [a](/post/a/) [long](/post/long/) [period](/post/period/) [without](/post/without/) [significant](/post/significant/) disturbance, [often](/post/often/) featuring [ancient](/post/ancient/) [and](/post/and/) [mature](/post/mature/) trees.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[A](/en/post/a/) [vast](/en/post/vast/) array [of](/en/post/of/) wildlife thrives [in](/en/post/in/) [the](/en/post/the/) temperate rainforest."
-- "[Verb](/en/post/verb/) (archaic)": "[The](/en/post/the/) countess endeavored [to](/en/post/to/) [forest](/en/post/forest/) [her](/en/post/her/) estate [with](/en/post/with/) [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) [native](/en/post/native/) species."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[A](/post/a/) [vast](/post/vast/) array [of](/post/of/) wildlife thrives [in](/post/in/) [the](/post/the/) temperate rainforest."
+- "[Verb](/post/verb/) (archaic)": "[The](/post/the/) countess endeavored [to](/post/to/) [forest](/post/forest/) [her](/post/her/) estate [with](/post/with/) [a](/post/a/) [variety](/post/variety/) [of](/post/of/) [native](/post/native/) species."
 
 ## Synonyms
 - Woods
-- [Jungle](/en/post/jungle/)
+- [Jungle](/post/jungle/)
 - Woodland
 - Wilderness
 - Grove
 - Thicket
 - Timberland
-- Arboretum ([for](/en/post/for/) [a](/en/post/a/) cultivated [forest](/en/post/forest/))
-- Savannah ([for](/en/post/for/) [a](/en/post/a/) grassy woodland) 
+- Arboretum ([for](/post/for/) [a](/post/a/) cultivated [forest](/post/forest/))
+- Savannah ([for](/post/for/) [a](/post/a/) grassy woodland) 
 
-[Note](/en/post/note/): [As](/en/post/as/) '[forest](/en/post/forest/)' [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) is archaic [and](/en/post/and/) [not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [modern](/en/post/modern/) English, [no](/en/post/no/) [contemporary](/en/post/contemporary/) [example](/en/post/example/) [sentence](/en/post/sentence/) was [provided](/en/post/provided/) [for](/en/post/for/) [this](/en/post/this/) [usage](/en/post/usage/). [However](/en/post/however/), it's [still](/en/post/still/) recognized [in](/en/post/in/) [historical](/en/post/historical/) texts [and](/en/post/and/) contexts.
+[Note](/post/note/): [As](/post/as/) '[forest](/post/forest/)' [as](/post/as/) [a](/post/a/) [verb](/post/verb/) is archaic [and](/post/and/) [not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [modern](/post/modern/) English, [no](/post/no/) [contemporary](/post/contemporary/) [example](/post/example/) [sentence](/post/sentence/) was [provided](/post/provided/) [for](/post/for/) [this](/post/this/) [usage](/post/usage/). [However](/post/however/), it's [still](/post/still/) recognized [in](/post/in/) [historical](/post/historical/) texts [and](/post/and/) contexts.

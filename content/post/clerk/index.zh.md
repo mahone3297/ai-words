@@ -11,20 +11,20 @@ keywords = ['ai words', 'clerk']
 /klɜːrk/
 
 ## 释义
-- **名词**: 办事员；职员；书记员。例如: "[The](/post/the/) [office](/post/office/) [clerk](/post/clerk/) handled [all](/post/all/) [the](/post/the/) paperwork."
-- **动词**: 在商店或办公室担任接待员或服务员的工作。例如: "[She](/post/she/) clerks [at](/post/at/) [a](/post/a/) [local](/post/local/) bookstore."
+- **名词**: 办事员；职员；书记员。例如: "[The](/zh/post/the/) [office](/zh/post/office/) [clerk](/zh/post/clerk/) handled [all](/zh/post/all/) [the](/zh/post/the/) paperwork."
+- **动词**: 在商店或办公室担任接待员或服务员的工作。例如: "[She](/zh/post/she/) clerks [at](/zh/post/at/) [a](/zh/post/a/) [local](/zh/post/local/) bookstore."
 
 ## 短语
-- "Clerical [work](/post/work/)" 指的是文职工作。
-- "[Clerk](/post/clerk/) [of](/post/of/) [the](/post/the/) [court](/post/court/)" 是法庭的书记员。
+- "Clerical [work](/zh/post/work/)" 指的是文职工作。
+- "[Clerk](/zh/post/clerk/) [of](/zh/post/of/) [the](/zh/post/the/) [court](/zh/post/court/)" 是法庭的书记员。
 
 ## 例句
-- 名词: "[The](/post/the/) [bank](/post/bank/) has hired [a](/post/a/) [new](/post/new/) [clerk](/post/clerk/) [to](/post/to/) [assist](/post/assist/) [with](/post/with/) [customer](/post/customer/) transactions."
-- 动词: "[He](/post/he/) clerks [during](/post/during/) [the](/post/the/) [day](/post/day/) [and](/post/and/) studies [at](/post/at/) [night](/post/night/)."
+- 名词: "[The](/zh/post/the/) [bank](/zh/post/bank/) has hired [a](/zh/post/a/) [new](/zh/post/new/) [clerk](/zh/post/clerk/) [to](/zh/post/to/) [assist](/zh/post/assist/) [with](/zh/post/with/) [customer](/zh/post/customer/) transactions."
+- 动词: "[He](/zh/post/he/) clerks [during](/zh/post/during/) [the](/zh/post/the/) [day](/zh/post/day/) [and](/zh/post/and/) studies [at](/zh/post/at/) [night](/zh/post/night/)."
 
 ## 同义词
-- [Assistant](/post/assistant/)
+- [Assistant](/zh/post/assistant/)
 - Receptionist
-- [Employee](/post/employee/)
-- [Staff](/post/staff/) [member](/post/member/)
-- [Officer](/post/officer/) ([in](/post/in/) [certain](/post/certain/) contexts)
+- [Employee](/zh/post/employee/)
+- [Staff](/zh/post/staff/) [member](/zh/post/member/)
+- [Officer](/zh/post/officer/) ([in](/zh/post/in/) [certain](/zh/post/certain/) contexts)

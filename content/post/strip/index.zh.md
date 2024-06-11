@@ -12,28 +12,28 @@ keywords = ['ai words', 'strip']
 
 ## 释义
 - **名词**:
-  - 裸露的状态或部分；条纹：例如 "[He](/post/he/) removed [his](/post/his/) [shirt](/post/shirt/), leaving [him](/post/him/) [in](/post/in/) [just](/post/just/) [a](/post/a/) [pair](/post/pair/) [of](/post/of/) shorts [and](/post/and/) [a](/post/a/) [strip](/post/strip/) [of](/post/of/) [skin](/post/skin/)."
-  - 一排或一行（物体）：例如 "[The](/post/the/) houses were built [in](/post/in/) [a](/post/a/) [neat](/post/neat/) [row](/post/row/) [along](/post/along/) [the](/post/the/) [street](/post/street/), forming [a](/post/a/) [long](/post/long/) [strip](/post/strip/)."
+  - 裸露的状态或部分；条纹：例如 "[He](/zh/post/he/) removed [his](/zh/post/his/) [shirt](/zh/post/shirt/), leaving [him](/zh/post/him/) [in](/zh/post/in/) [just](/zh/post/just/) [a](/zh/post/a/) [pair](/zh/post/pair/) [of](/zh/post/of/) shorts [and](/zh/post/and/) [a](/zh/post/a/) [strip](/zh/post/strip/) [of](/zh/post/of/) [skin](/zh/post/skin/)."
+  - 一排或一行（物体）：例如 "[The](/zh/post/the/) houses were built [in](/zh/post/in/) [a](/zh/post/a/) [neat](/zh/post/neat/) [row](/zh/post/row/) [along](/zh/post/along/) [the](/zh/post/the/) [street](/zh/post/street/), forming [a](/zh/post/a/) [long](/zh/post/long/) [strip](/zh/post/strip/)."
 
 - **动词**:
-  - 去除（衣物、涂层等）：例如 "[She](/post/she/) stripped [the](/post/the/) wallpaper [off](/post/off/) [the](/post/the/) walls."
-  - 剥夺（权利、身份等）：例如 "[The](/post/the/) scandal led [to](/post/to/) [the](/post/the/) [politician](/post/politician/) [being](/post/being/) stripped [of](/post/of/) [his](/post/his/) [title](/post/title/)."
+  - 去除（衣物、涂层等）：例如 "[She](/zh/post/she/) stripped [the](/zh/post/the/) wallpaper [off](/zh/post/off/) [the](/zh/post/the/) walls."
+  - 剥夺（权利、身份等）：例如 "[The](/zh/post/the/) scandal led [to](/zh/post/to/) [the](/zh/post/the/) [politician](/zh/post/politician/) [being](/zh/post/being/) stripped [of](/zh/post/of/) [his](/zh/post/his/) [title](/zh/post/title/)."
 
 - **形容词**:
-  - 有条纹的：例如 "[The](/post/the/) [zebra](/post/zebra/) has distinctive [black](/post/black/) [and](/post/and/) [white](/post/white/) striped [fur](/post/fur/)."
+  - 有条纹的：例如 "[The](/zh/post/the/) [zebra](/zh/post/zebra/) has distinctive [black](/zh/post/black/) [and](/zh/post/and/) [white](/zh/post/white/) striped [fur](/zh/post/fur/)."
 
 ## 短语
-- "[strip](/post/strip/) [down](/post/down/)" 意味着脱掉衣服或拆解物品。
-- "[strip](/post/strip/) [search](/post/search/)" 是指在法律允许的情况下对个人进行彻底搜身。
+- "[strip](/zh/post/strip/) [down](/zh/post/down/)" 意味着脱掉衣服或拆解物品。
+- "[strip](/zh/post/strip/) [search](/zh/post/search/)" 是指在法律允许的情况下对个人进行彻底搜身。
 
 ## 例句
-- 名词: "[The](/post/the/) [artist](/post/artist/) painted [a](/post/a/) [beautiful](/post/beautiful/) [sunset](/post/sunset/) [with](/post/with/) [orange](/post/orange/) [and](/post/and/) [pink](/post/pink/) strips [across](/post/across/) [the](/post/the/) [sky](/post/sky/)."
-- 动词: "[He](/post/he/) carefully stripped [the](/post/the/) wires [before](/post/before/) connecting [them](/post/them/) [to](/post/to/) [the](/post/the/) [power](/post/power/) [source](/post/source/)."
-- 形容词: "[The](/post/the/) zebra's stripes [make](/post/make/) [it](/post/it/) [difficult](/post/difficult/) [for](/post/for/) predators [to](/post/to/) [single](/post/single/) [it](/post/it/) [out](/post/out/) [in](/post/in/) [a](/post/a/) [herd](/post/herd/)."
+- 名词: "[The](/zh/post/the/) [artist](/zh/post/artist/) painted [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [sunset](/zh/post/sunset/) [with](/zh/post/with/) [orange](/zh/post/orange/) [and](/zh/post/and/) [pink](/zh/post/pink/) strips [across](/zh/post/across/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
+- 动词: "[He](/zh/post/he/) carefully stripped [the](/zh/post/the/) wires [before](/zh/post/before/) connecting [them](/zh/post/them/) [to](/zh/post/to/) [the](/zh/post/the/) [power](/zh/post/power/) [source](/zh/post/source/)."
+- 形容词: "[The](/zh/post/the/) zebra's stripes [make](/zh/post/make/) [it](/zh/post/it/) [difficult](/zh/post/difficult/) [for](/zh/post/for/) predators [to](/zh/post/to/) [single](/zh/post/single/) [it](/zh/post/it/) [out](/zh/post/out/) [in](/zh/post/in/) [a](/zh/post/a/) [herd](/zh/post/herd/)."
 
 ## 同义词
-- [Remove](/post/remove/)
-- [Peel](/post/peel/)
+- [Remove](/zh/post/remove/)
+- [Peel](/zh/post/peel/)
 - Disrobe
-- [Bare](/post/bare/)
+- [Bare](/zh/post/bare/)
 - Undress

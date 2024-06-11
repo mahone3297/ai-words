@@ -11,20 +11,20 @@ keywords = ['ai words', 'distinct']
 /dɪˈstɪŋkt/
 
 ## 释义
-- **形容词**: 明显的，有区别的，独特的。例如: "[The](/post/the/) [two](/post/two/) species [have](/post/have/) [distinct](/post/distinct/) characteristics."
-- **名词**: （明显的）差别，差异。例如: "[There](/post/there/) is [a](/post/a/) [distinct](/post/distinct/) [difference](/post/difference/) [between](/post/between/) [the](/post/the/) [two](/post/two/) paintings."
+- **形容词**: 明显的，有区别的，独特的。例如: "[The](/zh/post/the/) [two](/zh/post/two/) species [have](/zh/post/have/) [distinct](/zh/post/distinct/) characteristics."
+- **名词**: （明显的）差别，差异。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [distinct](/zh/post/distinct/) [difference](/zh/post/difference/) [between](/zh/post/between/) [the](/zh/post/the/) [two](/zh/post/two/) paintings."
 
 ## 短语
-- "[distinct](/post/distinct/) [from](/post/from/)" 表示与...不同。例如: "[This](/post/this/) [color](/post/color/) is [distinct](/post/distinct/) [from](/post/from/) [that](/post/that/) [one](/post/one/)."
-- "[distinct](/post/distinct/) [advantage](/post/advantage/)" 意为明显的优势。例如: "[He](/post/he/) has [a](/post/a/) [distinct](/post/distinct/) [advantage](/post/advantage/) [over](/post/over/) [his](/post/his/) opponents."
+- "[distinct](/zh/post/distinct/) [from](/zh/post/from/)" 表示与...不同。例如: "[This](/zh/post/this/) [color](/zh/post/color/) is [distinct](/zh/post/distinct/) [from](/zh/post/from/) [that](/zh/post/that/) [one](/zh/post/one/)."
+- "[distinct](/zh/post/distinct/) [advantage](/zh/post/advantage/)" 意为明显的优势。例如: "[He](/zh/post/he/) has [a](/zh/post/a/) [distinct](/zh/post/distinct/) [advantage](/zh/post/advantage/) [over](/zh/post/over/) [his](/zh/post/his/) opponents."
 
 ## 例句
-- 形容词: "[Her](/post/her/) [voice](/post/voice/) had [a](/post/a/) [distinct](/post/distinct/) [southern](/post/southern/) [accent](/post/accent/)."
-- 名词: "[The](/post/the/) [main](/post/main/) [goal](/post/goal/) [of](/post/of/) [the](/post/the/) [study](/post/study/) was [to](/post/to/) [identify](/post/identify/) [distinct](/post/distinct/) patterns."
+- 形容词: "[Her](/zh/post/her/) [voice](/zh/post/voice/) had [a](/zh/post/a/) [distinct](/zh/post/distinct/) [southern](/zh/post/southern/) [accent](/zh/post/accent/)."
+- 名词: "[The](/zh/post/the/) [main](/zh/post/main/) [goal](/zh/post/goal/) [of](/zh/post/of/) [the](/zh/post/the/) [study](/zh/post/study/) was [to](/zh/post/to/) [identify](/zh/post/identify/) [distinct](/zh/post/distinct/) patterns."
 
 ## 同义词
-- [Clear](/post/clear/)
+- [Clear](/zh/post/clear/)
 - Distinctive
-- [Separate](/post/separate/)
-- [Unique](/post/unique/)
-- [Individual](/post/individual/)
+- [Separate](/zh/post/separate/)
+- [Unique](/zh/post/unique/)
+- [Individual](/zh/post/individual/)

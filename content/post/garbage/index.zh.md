@@ -16,17 +16,17 @@ keywords = ['ai words', 'garbage']
     - 不想要的东西: 指无价值、不受欢迎或质量低劣的事物。
 
 ## 短语
-- "[garbage](/post/garbage/) [disposal](/post/disposal/)" - 垃圾处理器，用于处理食物残渣等厨房废物的设备。
-- "[garbage](/post/garbage/) [truck](/post/truck/)" - 垃圾车，用来收集和运输垃圾的车辆。
-- "[garbage](/post/garbage/) [in](/post/in/), [garbage](/post/garbage/) [out](/post/out/) (GIGO)" - 信息处理中的一个概念，意为输入的是垃圾，输出的也将是垃圾。
+- "[garbage](/zh/post/garbage/) [disposal](/zh/post/disposal/)" - 垃圾处理器，用于处理食物残渣等厨房废物的设备。
+- "[garbage](/zh/post/garbage/) [truck](/zh/post/truck/)" - 垃圾车，用来收集和运输垃圾的车辆。
+- "[garbage](/zh/post/garbage/) [in](/zh/post/in/), [garbage](/zh/post/garbage/) [out](/zh/post/out/) (GIGO)" - 信息处理中的一个概念，意为输入的是垃圾，输出的也将是垃圾。
 
 ## 例句
-- 名词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [take](/post/take/) [out](/post/out/) [the](/post/the/) [garbage](/post/garbage/) [before](/post/before/) [it](/post/it/) starts smelling."
-- 名词: "[The](/post/the/) [computer](/post/computer/) [program](/post/program/) produced [garbage](/post/garbage/) results [because](/post/because/) [of](/post/of/) [incorrect](/post/incorrect/) [input](/post/input/)."
+- 名词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [take](/zh/post/take/) [out](/zh/post/out/) [the](/zh/post/the/) [garbage](/zh/post/garbage/) [before](/zh/post/before/) [it](/zh/post/it/) starts smelling."
+- 名词: "[The](/zh/post/the/) [computer](/zh/post/computer/) [program](/zh/post/program/) produced [garbage](/zh/post/garbage/) results [because](/zh/post/because/) [of](/zh/post/of/) [incorrect](/zh/post/incorrect/) [input](/zh/post/input/)."
 
 ## 同义词
 - Trash
-- [Rubbish](/post/rubbish/)
+- [Rubbish](/zh/post/rubbish/)
 - Junk
-- [Refuse](/post/refuse/)
-- [Waste](/post/waste/)
+- [Refuse](/zh/post/refuse/)
+- [Waste](/zh/post/waste/)

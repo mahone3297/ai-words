@@ -7,31 +7,31 @@ description = '[ˈlɑːdʒli] ad.大部分；大量地'
 keywords = ['ai words', 'largely']
 +++
 
-## [Word](/en/post/word/): [Largely](/en/post/largely/)
+## [Word](/post/word/): [Largely](/post/largely/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɑːdʒli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [a](/en/post/a/) [great](/en/post/great/) [extent](/en/post/extent/); [mainly](/en/post/mainly/); [mostly](/en/post/mostly/). It's [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is [true](/en/post/true/) [or](/en/post/or/) [valid](/en/post/valid/) [for](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/) [but](/en/post/but/) [may](/en/post/may/) [have](/en/post/have/) [some](/en/post/some/) exceptions.
+- **[Adverb](/post/adverb/)**: [To](/post/to/) [a](/post/a/) [great](/post/great/) [extent](/post/extent/); [mainly](/post/mainly/); [mostly](/post/mostly/). It's [often](/post/often/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is [true](/post/true/) [or](/post/or/) [valid](/post/valid/) [for](/post/for/) [the](/post/the/) [most](/post/most/) [part](/post/part/) [but](/post/but/) [may](/post/may/) [have](/post/have/) [some](/post/some/) exceptions.
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _The project's [success](/en/post/success/) was [largely](/en/post/largely/) [due](/en/post/due/) [to](/en/post/to/) [her](/en/post/her/) tireless efforts._
+[Example](/post/example/) [sentence](/post/sentence/): _The project's [success](/post/success/) was [largely](/post/largely/) [due](/post/due/) [to](/post/to/) [her](/post/her/) tireless efforts._
 
 ## Phrases
-- "[Largely](/en/post/largely/) speaking": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [when](/en/post/when/) giving [a](/en/post/a/) [general](/en/post/general/) [statement](/en/post/statement/) [that](/en/post/that/) holds [true](/en/post/true/) [for](/en/post/for/) [the](/en/post/the/) [majority](/en/post/majority/) [of](/en/post/of/) cases. [Example](/en/post/example/): "[Largely](/en/post/largely/) speaking, [people](/en/post/people/) [tend](/en/post/tend/) [to](/en/post/to/) [prefer](/en/post/prefer/) [sunny](/en/post/sunny/) [weather](/en/post/weather/) [over](/en/post/over/) [rainy](/en/post/rainy/) days."
-- "[To](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [extent](/en/post/extent/)": [Means](/en/post/means/) '[to](/en/post/to/) [a](/en/post/a/) [considerable](/en/post/considerable/) [degree](/en/post/degree/).' [Example](/en/post/example/): "[His](/en/post/his/) [behavior](/en/post/behavior/) has improved [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [extent](/en/post/extent/) [since](/en/post/since/) [he](/en/post/he/) started therapy."
+- "[Largely](/post/largely/) speaking": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [when](/post/when/) giving [a](/post/a/) [general](/post/general/) [statement](/post/statement/) [that](/post/that/) holds [true](/post/true/) [for](/post/for/) [the](/post/the/) [majority](/post/majority/) [of](/post/of/) cases. [Example](/post/example/): "[Largely](/post/largely/) speaking, [people](/post/people/) [tend](/post/tend/) [to](/post/to/) [prefer](/post/prefer/) [sunny](/post/sunny/) [weather](/post/weather/) [over](/post/over/) [rainy](/post/rainy/) days."
+- "[To](/post/to/) [a](/post/a/) [large](/post/large/) [extent](/post/extent/)": [Means](/post/means/) '[to](/post/to/) [a](/post/a/) [considerable](/post/considerable/) [degree](/post/degree/).' [Example](/post/example/): "[His](/post/his/) [behavior](/post/behavior/) has improved [to](/post/to/) [a](/post/a/) [large](/post/large/) [extent](/post/extent/) [since](/post/since/) [he](/post/he/) started therapy."
 
-## [Example](/en/post/example/) Sentences
-- _The company's profits [have](/en/post/have/) been [largely](/en/post/largely/) unaffected [by](/en/post/by/) [the](/en/post/the/) [recent](/en/post/recent/) [economic](/en/post/economic/) downturn._
-- _The [new](/en/post/new/) [policy](/en/post/policy/) [will](/en/post/will/) [largely](/en/post/largely/) [determine](/en/post/determine/) [the](/en/post/the/) [future](/en/post/future/) [direction](/en/post/direction/) [of](/en/post/of/) [the](/en/post/the/) [organization](/en/post/organization/)._
-- _Her [work](/en/post/work/) [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/) has been [largely](/en/post/largely/) ignored [by](/en/post/by/) policymakers._
+## [Example](/post/example/) Sentences
+- _The company's profits [have](/post/have/) been [largely](/post/largely/) unaffected [by](/post/by/) [the](/post/the/) [recent](/post/recent/) [economic](/post/economic/) downturn._
+- _The [new](/post/new/) [policy](/post/policy/) [will](/post/will/) [largely](/post/largely/) [determine](/post/determine/) [the](/post/the/) [future](/post/future/) [direction](/post/direction/) [of](/post/of/) [the](/post/the/) [organization](/post/organization/)._
+- _Her [work](/post/work/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/) has been [largely](/post/largely/) ignored [by](/post/by/) policymakers._
 
 ## Synonyms
-- [Mainly](/en/post/mainly/)
-- [Mostly](/en/post/mostly/)
-- [Primarily](/en/post/primarily/)
+- [Mainly](/post/mainly/)
+- [Mostly](/post/mostly/)
+- [Primarily](/post/primarily/)
 - Predominantly
 - Chiefly
 - Essentially
-- [For](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/)
-- [In](/en/post/in/) [the](/en/post/the/) [main](/en/post/main/)
+- [For](/post/for/) [the](/post/the/) [most](/post/most/) [part](/post/part/)
+- [In](/post/in/) [the](/post/the/) [main](/post/main/)

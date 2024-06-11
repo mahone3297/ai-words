@@ -12,20 +12,20 @@ keywords = ['ai words', 'amuse']
 
 ## 释义
 - **动词**:
-  - 使欢乐；娱乐：例如 "[The](/post/the/) clown's antics amused [the](/post/the/) children."
-  - 引起兴趣或注意：例如 "[His](/post/his/) [story](/post/story/) amused [us](/post/us/) [all](/post/all/)."
+  - 使欢乐；娱乐：例如 "[The](/zh/post/the/) clown's antics amused [the](/zh/post/the/) children."
+  - 引起兴趣或注意：例如 "[His](/zh/post/his/) [story](/zh/post/story/) amused [us](/zh/post/us/) [all](/zh/post/all/)."
 
 ## 短语
-- "[amuse](/post/amuse/) [oneself](/post/oneself/)" 意为自娱自乐。
-- "[amuse](/post/amuse/) sb. [with](/post/with/) sth." 用某物来娱乐某人。
+- "[amuse](/zh/post/amuse/) [oneself](/zh/post/oneself/)" 意为自娱自乐。
+- "[amuse](/zh/post/amuse/) sb. [with](/zh/post/with/) sth." 用某物来娱乐某人。
 
 ## 例句
-- 动词（使欢乐）: "[The](/post/the/) magician's tricks amused [the](/post/the/) [audience](/post/audience/)."
-- 动词（引起兴趣）: "[The](/post/the/) lecturer amused [us](/post/us/) [with](/post/with/) fascinating facts [about](/post/about/) [ancient](/post/ancient/) civilizations."
+- 动词（使欢乐）: "[The](/zh/post/the/) magician's tricks amused [the](/zh/post/the/) [audience](/zh/post/audience/)."
+- 动词（引起兴趣）: "[The](/zh/post/the/) lecturer amused [us](/zh/post/us/) [with](/zh/post/with/) fascinating facts [about](/zh/post/about/) [ancient](/zh/post/ancient/) civilizations."
 
 ## 同义词
-- [entertain](/post/entertain/)
-- [delight](/post/delight/)
-- [pleasure](/post/pleasure/)
+- [entertain](/zh/post/entertain/)
+- [delight](/zh/post/delight/)
+- [pleasure](/zh/post/pleasure/)
 - fascinate
 - captivate

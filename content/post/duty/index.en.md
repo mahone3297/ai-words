@@ -7,33 +7,33 @@ description = '[ˈdjuːti] n.职责；责任；税'
 keywords = ['ai words', 'duty']
 +++
 
-## [Word](/en/post/word/): [Duty](/en/post/duty/)
+## [Word](/post/word/): [Duty](/post/duty/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈduti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [moral](/en/post/moral/) [or](/en/post/or/) [legal](/en/post/legal/) obligation; [something](/en/post/something/) [that](/en/post/that/) [one](/en/post/one/) is expected [or](/en/post/or/) required [to](/en/post/to/) [do](/en/post/do/) [by](/en/post/by/) [moral](/en/post/moral/) [code](/en/post/code/), [law](/en/post/law/), [or](/en/post/or/) [custom](/en/post/custom/). [For](/en/post/for/) [example](/en/post/example/): "It's [your](/en/post/your/) [duty](/en/post/duty/) [to](/en/post/to/) [report](/en/post/report/) [any](/en/post/any/) suspicious [activity](/en/post/activity/)."
-  - [A](/en/post/a/) [responsibility](/en/post/responsibility/) [or](/en/post/or/) [task](/en/post/task/) [that](/en/post/that/) is [part](/en/post/part/) [of](/en/post/of/) one's [job](/en/post/job/) [or](/en/post/or/) [role](/en/post/role/). [For](/en/post/for/) [instance](/en/post/instance/): "[A](/en/post/a/) [police](/en/post/police/) officer's [duty](/en/post/duty/) is [to](/en/post/to/) [protect](/en/post/protect/) [and](/en/post/and/) [serve](/en/post/serve/) [the](/en/post/the/) [community](/en/post/community/)."
-  - [A](/en/post/a/) [specific](/en/post/specific/) [task](/en/post/task/) [or](/en/post/or/) [assignment](/en/post/assignment/), [often](/en/post/often/) [within](/en/post/within/) [a](/en/post/a/) [military](/en/post/military/) context. E.g., "[He](/en/post/he/) was [on](/en/post/on/) [guard](/en/post/guard/) [duty](/en/post/duty/) [last](/en/post/last/) [night](/en/post/night/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [moral](/post/moral/) [or](/post/or/) [legal](/post/legal/) obligation; [something](/post/something/) [that](/post/that/) [one](/post/one/) is expected [or](/post/or/) required [to](/post/to/) [do](/post/do/) [by](/post/by/) [moral](/post/moral/) [code](/post/code/), [law](/post/law/), [or](/post/or/) [custom](/post/custom/). [For](/post/for/) [example](/post/example/): "It's [your](/post/your/) [duty](/post/duty/) [to](/post/to/) [report](/post/report/) [any](/post/any/) suspicious [activity](/post/activity/)."
+  - [A](/post/a/) [responsibility](/post/responsibility/) [or](/post/or/) [task](/post/task/) [that](/post/that/) is [part](/post/part/) [of](/post/of/) one's [job](/post/job/) [or](/post/or/) [role](/post/role/). [For](/post/for/) [instance](/post/instance/): "[A](/post/a/) [police](/post/police/) officer's [duty](/post/duty/) is [to](/post/to/) [protect](/post/protect/) [and](/post/and/) [serve](/post/serve/) [the](/post/the/) [community](/post/community/)."
+  - [A](/post/a/) [specific](/post/specific/) [task](/post/task/) [or](/post/or/) [assignment](/post/assignment/), [often](/post/often/) [within](/post/within/) [a](/post/a/) [military](/post/military/) context. E.g., "[He](/post/he/) was [on](/post/on/) [guard](/post/guard/) [duty](/post/duty/) [last](/post/last/) [night](/post/night/)."
   
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) [being](/en/post/being/) [a](/en/post/a/) [tax](/en/post/tax/) [or](/en/post/or/) levy, [especially](/en/post/especially/) [on](/en/post/on/) imported [goods](/en/post/goods/). [Example](/en/post/example/): "Duty-free shops [offer](/en/post/offer/) items [without](/en/post/without/) [import](/en/post/import/) duties."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) [being](/post/being/) [a](/post/a/) [tax](/post/tax/) [or](/post/or/) levy, [especially](/post/especially/) [on](/post/on/) imported [goods](/post/goods/). [Example](/post/example/): "Duty-free shops [offer](/post/offer/) items [without](/post/without/) [import](/post/import/) duties."
 
 ## Phrases
-- "[Do](/en/post/do/) [your](/en/post/your/) [duty](/en/post/duty/)": [This](/en/post/this/) [phrase](/en/post/phrase/) implies fulfilling one's obligations [or](/en/post/or/) responsibilities.
-- "[On](/en/post/on/) [duty](/en/post/duty/) / [Off](/en/post/off/) [duty](/en/post/duty/)": [These](/en/post/these/) terms denote [whether](/en/post/whether/) [someone](/en/post/someone/) is currently working [or](/en/post/or/) [should](/en/post/should/) [be](/en/post/be/) performing [their](/en/post/their/) [job](/en/post/job/) tasks ([on](/en/post/on/) [duty](/en/post/duty/)), [or](/en/post/or/) [they](/en/post/they/) are [not](/en/post/not/) working [or](/en/post/or/) [responsible](/en/post/responsible/) [for](/en/post/for/) work-related tasks ([off](/en/post/off/) [duty](/en/post/duty/)).
-- "[In](/en/post/in/) [the](/en/post/the/) [line](/en/post/line/) [of](/en/post/of/) [duty](/en/post/duty/)": [This](/en/post/this/) [expression](/en/post/expression/) refers [to](/en/post/to/) [when](/en/post/when/) [someone](/en/post/someone/) carries [out](/en/post/out/) [their](/en/post/their/) [official](/en/post/official/) responsibilities, [often](/en/post/often/) [with](/en/post/with/) [reference](/en/post/reference/) [to](/en/post/to/) [injury](/en/post/injury/) [or](/en/post/or/) [death](/en/post/death/) suffered [while](/en/post/while/) performing [these](/en/post/these/) tasks.
+- "[Do](/post/do/) [your](/post/your/) [duty](/post/duty/)": [This](/post/this/) [phrase](/post/phrase/) implies fulfilling one's obligations [or](/post/or/) responsibilities.
+- "[On](/post/on/) [duty](/post/duty/) / [Off](/post/off/) [duty](/post/duty/)": [These](/post/these/) terms denote [whether](/post/whether/) [someone](/post/someone/) is currently working [or](/post/or/) [should](/post/should/) [be](/post/be/) performing [their](/post/their/) [job](/post/job/) tasks ([on](/post/on/) [duty](/post/duty/)), [or](/post/or/) [they](/post/they/) are [not](/post/not/) working [or](/post/or/) [responsible](/post/responsible/) [for](/post/for/) work-related tasks ([off](/post/off/) [duty](/post/duty/)).
+- "[In](/post/in/) [the](/post/the/) [line](/post/line/) [of](/post/of/) [duty](/post/duty/)": [This](/post/this/) [expression](/post/expression/) refers [to](/post/to/) [when](/post/when/) [someone](/post/someone/) carries [out](/post/out/) [their](/post/their/) [official](/post/official/) responsibilities, [often](/post/often/) [with](/post/with/) [reference](/post/reference/) [to](/post/to/) [injury](/post/injury/) [or](/post/or/) [death](/post/death/) suffered [while](/post/while/) performing [these](/post/these/) tasks.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[As](/en/post/as/) [a](/en/post/a/) [citizen](/en/post/citizen/), it's [our](/en/post/our/) [duty](/en/post/duty/) [to](/en/post/to/) [vote](/en/post/vote/) [in](/en/post/in/) elections."
-- "[The](/en/post/the/) [nurse](/en/post/nurse/) attended [to](/en/post/to/) [her](/en/post/her/) patients [with](/en/post/with/) unwavering dedication [to](/en/post/to/) [duty](/en/post/duty/)."
-- "Customs officers inspected [the](/en/post/the/) [luggage](/en/post/luggage/) [for](/en/post/for/) [any](/en/post/any/) items [subject](/en/post/subject/) [to](/en/post/to/) [duty](/en/post/duty/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[As](/post/as/) [a](/post/a/) [citizen](/post/citizen/), it's [our](/post/our/) [duty](/post/duty/) [to](/post/to/) [vote](/post/vote/) [in](/post/in/) elections."
+- "[The](/post/the/) [nurse](/post/nurse/) attended [to](/post/to/) [her](/post/her/) patients [with](/post/with/) unwavering dedication [to](/post/to/) [duty](/post/duty/)."
+- "Customs officers inspected [the](/post/the/) [luggage](/post/luggage/) [for](/post/for/) [any](/post/any/) items [subject](/post/subject/) [to](/post/to/) [duty](/post/duty/)."
 
 ## Synonyms
-- [Responsibility](/en/post/responsibility/)
+- [Responsibility](/post/responsibility/)
 - Obligation
 - Commitment
-- [Task](/en/post/task/)
-- [Assignment](/en/post/assignment/)
-- [Charge](/en/post/charge/)
-- Liability ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) taxes)
+- [Task](/post/task/)
+- [Assignment](/post/assignment/)
+- [Charge](/post/charge/)
+- Liability ([in](/post/in/) [the](/post/the/) context [of](/post/of/) taxes)

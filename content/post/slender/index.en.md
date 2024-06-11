@@ -7,28 +7,28 @@ description = '[ˈslendə] a.细长的；微薄的'
 keywords = ['ai words', 'slender']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sˈlendər/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **[slender](/en/post/slender/)** ([noun](/en/post/noun/)): Referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [thin](/en/post/thin/), [narrow](/en/post/narrow/), [or](/en/post/or/) having [a](/en/post/a/) [small](/en/post/small/) [size](/en/post/size/) [or](/en/post/or/) [proportion](/en/post/proportion/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) dancer had [a](/en/post/a/) [slender](/en/post/slender/) [figure](/en/post/figure/)."
-- **[slender](/en/post/slender/)** ([adjective](/en/post/adjective/)): Characterizing [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [with](/en/post/with/) [a](/en/post/a/) [delicate](/en/post/delicate/) [or](/en/post/or/) [graceful](/en/post/graceful/) [appearance](/en/post/appearance/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [slender](/en/post/slender/) [branch](/en/post/branch/) reached [over](/en/post/over/) [the](/en/post/the/) [fence](/en/post/fence/)."
+### [Adjective](/post/adjective/)
+- **[slender](/post/slender/)** ([noun](/post/noun/)): Referring [to](/post/to/) [something](/post/something/) [that](/post/that/) is [thin](/post/thin/), [narrow](/post/narrow/), [or](/post/or/) having [a](/post/a/) [small](/post/small/) [size](/post/size/) [or](/post/or/) [proportion](/post/proportion/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) dancer had [a](/post/a/) [slender](/post/slender/) [figure](/post/figure/)."
+- **[slender](/post/slender/)** ([adjective](/post/adjective/)): Characterizing [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [with](/post/with/) [a](/post/a/) [delicate](/post/delicate/) [or](/post/or/) [graceful](/post/graceful/) [appearance](/post/appearance/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [slender](/post/slender/) [branch](/post/branch/) reached [over](/post/over/) [the](/post/the/) [fence](/post/fence/)."
 
 ## Phrases
-- "[A](/en/post/a/) [slender](/en/post/slender/) [chance](/en/post/chance/)" implies [a](/en/post/a/) [remote](/en/post/remote/) [possibility](/en/post/possibility/).
-- "[Slender](/en/post/slender/) fingers" describes [long](/en/post/long/), [delicate](/en/post/delicate/) hands.
-- "[Slender](/en/post/slender/) trees [line](/en/post/line/) [the](/en/post/the/) [path](/en/post/path/)" creates an [image](/en/post/image/) [of](/en/post/of/) [a](/en/post/a/) picturesque vista.
+- "[A](/post/a/) [slender](/post/slender/) [chance](/post/chance/)" implies [a](/post/a/) [remote](/post/remote/) [possibility](/post/possibility/).
+- "[Slender](/post/slender/) fingers" describes [long](/post/long/), [delicate](/post/delicate/) hands.
+- "[Slender](/post/slender/) trees [line](/post/line/) [the](/post/the/) [path](/post/path/)" creates an [image](/post/image/) [of](/post/of/) [a](/post/a/) picturesque vista.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) wore [a](/en/post/a/) [slender](/en/post/slender/) [gold](/en/post/gold/) [chain](/en/post/chain/) [around](/en/post/around/) [her](/en/post/her/) [neck](/en/post/neck/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [slender](/en/post/slender/) [column](/en/post/column/) stood [tall](/en/post/tall/) [in](/en/post/in/) [the](/en/post/the/) center [of](/en/post/of/) [the](/en/post/the/) [room](/en/post/room/)."
-- "[His](/en/post/his/) [slender](/en/post/slender/) silhouette was [visible](/en/post/visible/) [through](/en/post/through/) [the](/en/post/the/) [window](/en/post/window/) [at](/en/post/at/) [dusk](/en/post/dusk/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) wore [a](/post/a/) [slender](/post/slender/) [gold](/post/gold/) [chain](/post/chain/) [around](/post/around/) [her](/post/her/) [neck](/post/neck/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [slender](/post/slender/) [column](/post/column/) stood [tall](/post/tall/) [in](/post/in/) [the](/post/the/) center [of](/post/of/) [the](/post/the/) [room](/post/room/)."
+- "[His](/post/his/) [slender](/post/slender/) silhouette was [visible](/post/visible/) [through](/post/through/) [the](/post/the/) [window](/post/window/) [at](/post/at/) [dusk](/post/dusk/)."
 
 ## Synonyms
-- [Thin](/en/post/thin/)
+- [Thin](/post/thin/)
 - Slim
 - Svelte
-- [Delicate](/en/post/delicate/)
-- [Gracious](/en/post/gracious/)
-- Effeminate ([when](/en/post/when/) describing [a](/en/post/a/) [person](/en/post/person/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) non-pejorative [sense](/en/post/sense/))
+- [Delicate](/post/delicate/)
+- [Gracious](/post/gracious/)
+- Effeminate ([when](/post/when/) describing [a](/post/a/) [person](/post/person/), [often](/post/often/) [in](/post/in/) [a](/post/a/) non-pejorative [sense](/post/sense/))

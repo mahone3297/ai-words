@@ -7,41 +7,41 @@ description = '[ˈsiːliŋ] n.天花板，顶蓬'
 keywords = ['ai words', 'ceiling']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsiːlɪŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [structure](/en/post/structure/) [that](/en/post/that/) covers [and](/en/post/and/) supports [the](/en/post/the/) [top](/en/post/top/) [of](/en/post/of/) [a](/en/post/a/) [room](/en/post/room/) [or](/en/post/or/) [building](/en/post/building/), [usually](/en/post/usually/) made [of](/en/post/of/) [wood](/en/post/wood/), [metal](/en/post/metal/), [or](/en/post/or/) [other](/en/post/other/) materials.
-- [The](/en/post/the/) uppermost [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [space](/en/post/space/), [especially](/en/post/especially/) [when](/en/post/when/) [it](/en/post/it/) is enclosed.
-- [The](/en/post/the/) [maximum](/en/post/maximum/) [or](/en/post/or/) highest [level](/en/post/level/) [or](/en/post/or/) [amount](/en/post/amount/) achievable [or](/en/post/or/) allowed.
+### [Noun](/post/noun/)
+- [A](/post/a/) [structure](/post/structure/) [that](/post/that/) covers [and](/post/and/) supports [the](/post/the/) [top](/post/top/) [of](/post/of/) [a](/post/a/) [room](/post/room/) [or](/post/or/) [building](/post/building/), [usually](/post/usually/) made [of](/post/of/) [wood](/post/wood/), [metal](/post/metal/), [or](/post/or/) [other](/post/other/) materials.
+- [The](/post/the/) uppermost [part](/post/part/) [of](/post/of/) [a](/post/a/) [space](/post/space/), [especially](/post/especially/) [when](/post/when/) [it](/post/it/) is enclosed.
+- [The](/post/the/) [maximum](/post/maximum/) [or](/post/or/) highest [level](/post/level/) [or](/post/or/) [amount](/post/amount/) achievable [or](/post/or/) allowed.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [set](/en/post/set/) [or](/en/post/or/) [determine](/en/post/determine/) [the](/en/post/the/) [upper](/en/post/upper/) [limit](/en/post/limit/) [or](/en/post/or/) [boundary](/en/post/boundary/) [of](/en/post/of/) ([something](/en/post/something/)).
-- [To](/en/post/to/) [cover](/en/post/cover/) [or](/en/post/or/) [finish](/en/post/finish/) [the](/en/post/the/) [top](/en/post/top/) [of](/en/post/of/) [something](/en/post/something/) [with](/en/post/with/) [a](/en/post/a/) [ceiling](/en/post/ceiling/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [set](/post/set/) [or](/post/or/) [determine](/post/determine/) [the](/post/the/) [upper](/post/upper/) [limit](/post/limit/) [or](/post/or/) [boundary](/post/boundary/) [of](/post/of/) ([something](/post/something/)).
+- [To](/post/to/) [cover](/post/cover/) [or](/post/or/) [finish](/post/finish/) [the](/post/the/) [top](/post/top/) [of](/post/of/) [something](/post/something/) [with](/post/with/) [a](/post/a/) [ceiling](/post/ceiling/).
 
 ## Phrases
-- "[Ceiling](/en/post/ceiling/) [height](/en/post/height/)" refers [to](/en/post/to/) [the](/en/post/the/) [vertical](/en/post/vertical/) [distance](/en/post/distance/) [from](/en/post/from/) [the](/en/post/the/) [floor](/en/post/floor/) [to](/en/post/to/) [the](/en/post/the/) [ceiling](/en/post/ceiling/).
-- "[Bathroom](/en/post/bathroom/) [ceiling](/en/post/ceiling/)" is [a](/en/post/a/) [specific](/en/post/specific/) [reference](/en/post/reference/) [to](/en/post/to/) [the](/en/post/the/) [ceiling](/en/post/ceiling/) [in](/en/post/in/) [a](/en/post/a/) [bathroom](/en/post/bathroom/).
-- "[Ceiling](/en/post/ceiling/) [fan](/en/post/fan/)" [or](/en/post/or/) "dropped [ceiling](/en/post/ceiling/)" are terms related [to](/en/post/to/) suspended [or](/en/post/or/) adjustable ceilings.
+- "[Ceiling](/post/ceiling/) [height](/post/height/)" refers [to](/post/to/) [the](/post/the/) [vertical](/post/vertical/) [distance](/post/distance/) [from](/post/from/) [the](/post/the/) [floor](/post/floor/) [to](/post/to/) [the](/post/the/) [ceiling](/post/ceiling/).
+- "[Bathroom](/post/bathroom/) [ceiling](/post/ceiling/)" is [a](/post/a/) [specific](/post/specific/) [reference](/post/reference/) [to](/post/to/) [the](/post/the/) [ceiling](/post/ceiling/) [in](/post/in/) [a](/post/a/) [bathroom](/post/bathroom/).
+- "[Ceiling](/post/ceiling/) [fan](/post/fan/)" [or](/post/or/) "dropped [ceiling](/post/ceiling/)" are terms related [to](/post/to/) suspended [or](/post/or/) adjustable ceilings.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) architect designed [the](/en/post/the/) [room](/en/post/room/) [with](/en/post/with/) [a](/en/post/a/) [high](/en/post/high/) [ceiling](/en/post/ceiling/) [to](/en/post/to/) [allow](/en/post/allow/) [natural](/en/post/natural/) [light](/en/post/light/) [in](/en/post/in/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [raise](/en/post/raise/) [the](/en/post/the/) [ceiling](/en/post/ceiling/) [on](/en/post/on/) [their](/en/post/their/) budget expectations."
-- **Phrasal [verb](/en/post/verb/)**: "[The](/en/post/the/) workers were installing [new](/en/post/new/) lights [under](/en/post/under/) [the](/en/post/the/) dropped [ceiling](/en/post/ceiling/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) architect designed [the](/post/the/) [room](/post/room/) [with](/post/with/) [a](/post/a/) [high](/post/high/) [ceiling](/post/ceiling/) [to](/post/to/) [allow](/post/allow/) [natural](/post/natural/) [light](/post/light/) [in](/post/in/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) decided [to](/post/to/) [raise](/post/raise/) [the](/post/the/) [ceiling](/post/ceiling/) [on](/post/on/) [their](/post/their/) budget expectations."
+- **Phrasal [verb](/post/verb/)**: "[The](/post/the/) workers were installing [new](/post/new/) lights [under](/post/under/) [the](/post/the/) dropped [ceiling](/post/ceiling/)."
 
 ## Synonyms
-- [Upper](/en/post/upper/) [limit](/en/post/limit/)
-- [Upper](/en/post/upper/) [bound](/en/post/bound/)
-- [Roof](/en/post/roof/)
+- [Upper](/post/upper/) [limit](/post/limit/)
+- [Upper](/post/upper/) [bound](/post/bound/)
+- [Roof](/post/roof/)
 - Rafter
-- [Upper](/en/post/upper/) [surface](/en/post/surface/)
-- [Top](/en/post/top/)
+- [Upper](/post/upper/) [surface](/post/surface/)
+- [Top](/post/top/)
 
 ## Antonyms
-- [Floor](/en/post/floor/)
-- [Bottom](/en/post/bottom/)
-- [Lower](/en/post/lower/) [limit](/en/post/limit/)
-- [Base](/en/post/base/)
-- [Lower](/en/post/lower/) [surface](/en/post/surface/)
-- [Ground](/en/post/ground/) [level](/en/post/level/)
+- [Floor](/post/floor/)
+- [Bottom](/post/bottom/)
+- [Lower](/post/lower/) [limit](/post/limit/)
+- [Base](/post/base/)
+- [Lower](/post/lower/) [surface](/post/surface/)
+- [Ground](/post/ground/) [level](/post/level/)

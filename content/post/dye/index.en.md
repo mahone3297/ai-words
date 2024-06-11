@@ -7,27 +7,27 @@ description = '[dai] vt.染 n.染料；染色'
 keywords = ['ai words', 'dye']
 +++
 
-## [Word](/en/post/word/): [Dye](/en/post/dye/)
+## [Word](/post/word/): [Dye](/post/dye/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /daɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [substance](/en/post/substance/) [used](/en/post/used/) [to](/en/post/to/) [add](/en/post/add/) [color](/en/post/color/) [to](/en/post/to/) fabrics, [hair](/en/post/hair/), [food](/en/post/food/), [or](/en/post/or/) [other](/en/post/other/) materials. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) bought [a](/en/post/a/) [natural](/en/post/natural/) [dye](/en/post/dye/) [to](/en/post/to/) [color](/en/post/color/) [her](/en/post/her/) woolen [scarf](/en/post/scarf/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [change](/en/post/change/) [the](/en/post/the/) [color](/en/post/color/) [of](/en/post/of/) [something](/en/post/something/) using [a](/en/post/a/) [dye](/en/post/dye/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) dyed [her](/en/post/her/) [hair](/en/post/hair/) [red](/en/post/red/) [for](/en/post/for/) [the](/en/post/the/) [event](/en/post/event/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [substance](/post/substance/) [used](/post/used/) [to](/post/to/) [add](/post/add/) [color](/post/color/) [to](/post/to/) fabrics, [hair](/post/hair/), [food](/post/food/), [or](/post/or/) [other](/post/other/) materials. [For](/post/for/) [example](/post/example/): "[She](/post/she/) bought [a](/post/a/) [natural](/post/natural/) [dye](/post/dye/) [to](/post/to/) [color](/post/color/) [her](/post/her/) woolen [scarf](/post/scarf/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [change](/post/change/) [the](/post/the/) [color](/post/color/) [of](/post/of/) [something](/post/something/) using [a](/post/a/) [dye](/post/dye/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) dyed [her](/post/her/) [hair](/post/hair/) [red](/post/red/) [for](/post/for/) [the](/post/the/) [event](/post/event/)."
   
   > _Phrasal Verb_:
-  > - **[Dye](/en/post/dye/) [something](/en/post/something/) [in](/en/post/in/)/[with](/en/post/with/)**: [To](/en/post/to/) immerse [or](/en/post/or/) [treat](/en/post/treat/) [something](/en/post/something/) [with](/en/post/with/) [a](/en/post/a/) [dye](/en/post/dye/) [to](/en/post/to/) [change](/en/post/change/) [its](/en/post/its/) [color](/en/post/color/). [Example](/en/post/example/): "[She](/en/post/she/) dyed [the](/en/post/the/) [fabric](/en/post/fabric/) [in](/en/post/in/) [a](/en/post/a/) [deep](/en/post/deep/) [blue](/en/post/blue/) [dye](/en/post/dye/)."
-  > - **[Dye](/en/post/dye/) [something](/en/post/something/) [out](/en/post/out/)**: [To](/en/post/to/) [remove](/en/post/remove/) [the](/en/post/the/) [original](/en/post/original/) [color](/en/post/color/) [from](/en/post/from/) [something](/en/post/something/) [by](/en/post/by/) dyeing [it](/en/post/it/) [a](/en/post/a/) [different](/en/post/different/) [color](/en/post/color/). [Example](/en/post/example/): "[She](/en/post/she/) dyed [out](/en/post/out/) [the](/en/post/the/) stains [on](/en/post/on/) [her](/en/post/her/) blouse."
+  > - **[Dye](/post/dye/) [something](/post/something/) [in](/post/in/)/[with](/post/with/)**: [To](/post/to/) immerse [or](/post/or/) [treat](/post/treat/) [something](/post/something/) [with](/post/with/) [a](/post/a/) [dye](/post/dye/) [to](/post/to/) [change](/post/change/) [its](/post/its/) [color](/post/color/). [Example](/post/example/): "[She](/post/she/) dyed [the](/post/the/) [fabric](/post/fabric/) [in](/post/in/) [a](/post/a/) [deep](/post/deep/) [blue](/post/blue/) [dye](/post/dye/)."
+  > - **[Dye](/post/dye/) [something](/post/something/) [out](/post/out/)**: [To](/post/to/) [remove](/post/remove/) [the](/post/the/) [original](/post/original/) [color](/post/color/) [from](/post/from/) [something](/post/something/) [by](/post/by/) dyeing [it](/post/it/) [a](/post/a/) [different](/post/different/) [color](/post/color/). [Example](/post/example/): "[She](/post/she/) dyed [out](/post/out/) [the](/post/the/) stains [on](/post/on/) [her](/post/her/) blouse."
 
 ## Phrases
-- "[To](/en/post/to/) [dye](/en/post/dye/) one's [hair](/en/post/hair/)" refers [to](/en/post/to/) changing [the](/en/post/the/) [color](/en/post/color/) [of](/en/post/of/) one's [hair](/en/post/hair/) using [dye](/en/post/dye/).
-- "[All](/en/post/all/) [the](/en/post/the/) colors [of](/en/post/of/) [the](/en/post/the/) [rainbow](/en/post/rainbow/)" [might](/en/post/might/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [wide](/en/post/wide/) [variety](/en/post/variety/) [of](/en/post/of/) dyes [available](/en/post/available/).
-- "[A](/en/post/a/) [dye](/en/post/dye/) [job](/en/post/job/)" colloquially refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) coloring [hair](/en/post/hair/) [or](/en/post/or/) [any](/en/post/any/) [material](/en/post/material/) [with](/en/post/with/) [dye](/en/post/dye/).
+- "[To](/post/to/) [dye](/post/dye/) one's [hair](/post/hair/)" refers [to](/post/to/) changing [the](/post/the/) [color](/post/color/) [of](/post/of/) one's [hair](/post/hair/) using [dye](/post/dye/).
+- "[All](/post/all/) [the](/post/the/) colors [of](/post/of/) [the](/post/the/) [rainbow](/post/rainbow/)" [might](/post/might/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [wide](/post/wide/) [variety](/post/variety/) [of](/post/of/) dyes [available](/post/available/).
+- "[A](/post/a/) [dye](/post/dye/) [job](/post/job/)" colloquially refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) coloring [hair](/post/hair/) [or](/post/or/) [any](/post/any/) [material](/post/material/) [with](/post/with/) [dye](/post/dye/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [art](/en/post/art/) [of](/en/post/of/) using plant-based dyes [to](/en/post/to/) [create](/en/post/create/) vibrant textiles has been revived."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [dye](/en/post/dye/) [his](/en/post/his/) [white](/en/post/white/) [shirt](/en/post/shirt/) [black](/en/post/black/) [so](/en/post/so/) [that](/en/post/that/) [he](/en/post/he/) [could](/en/post/could/) [wear](/en/post/wear/) [it](/en/post/it/) [to](/en/post/to/) [the](/en/post/the/) [concert](/en/post/concert/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ancient](/post/ancient/) [art](/post/art/) [of](/post/of/) using plant-based dyes [to](/post/to/) [create](/post/create/) vibrant textiles has been revived."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [dye](/post/dye/) [his](/post/his/) [white](/post/white/) [shirt](/post/shirt/) [black](/post/black/) [so](/post/so/) [that](/post/that/) [he](/post/he/) [could](/post/could/) [wear](/post/wear/) [it](/post/it/) [to](/post/to/) [the](/post/the/) [concert](/post/concert/)."
 
 ## Synonyms
 - Coloring
@@ -35,12 +35,12 @@ keywords = ['ai words', 'dye']
 - Pigment
 - Hue
 - Colorant
-- [Stain](/en/post/stain/)
-- Dyestuff ([for](/en/post/for/) [noun](/en/post/noun/) [use](/en/post/use/))
-- [Color](/en/post/color/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)) 
+- [Stain](/post/stain/)
+- Dyestuff ([for](/post/for/) [noun](/post/noun/) [use](/post/use/))
+- [Color](/post/color/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/)) 
 
-[For](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/), [alternative](/en/post/alternative/) verbs [include](/en/post/include/):
+[For](/post/for/) [the](/post/the/) [verb](/post/verb/) [form](/post/form/), [alternative](/post/alternative/) verbs [include](/post/include/):
 - Colorize
 - Tinge
-- [Stain](/en/post/stain/)
-- Bleach ([when](/en/post/when/) referring [to](/en/post/to/) lightening [hair](/en/post/hair/) [or](/en/post/or/) fabrics)
+- [Stain](/post/stain/)
+- Bleach ([when](/post/when/) referring [to](/post/to/) lightening [hair](/post/hair/) [or](/post/or/) fabrics)

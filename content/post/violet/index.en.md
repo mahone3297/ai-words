@@ -7,41 +7,41 @@ description = '[ˈvaiəlit] n.紫罗兰'
 keywords = ['ai words', 'violet']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vɪˈoʊlət/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [flower](/en/post/flower/)**: [A](/en/post/a/) [small](/en/post/small/), typically [purple](/en/post/purple/) [or](/en/post/or/) [blue](/en/post/blue/), fragrant [flower](/en/post/flower/) [with](/en/post/with/) [a](/en/post/a/) [single](/en/post/single/) petal, [often](/en/post/often/) symbolizing [love](/en/post/love/) [and](/en/post/and/) admiration.
-- **[A](/en/post/a/) [color](/en/post/color/)**: [A](/en/post/a/) bluish-purple [color](/en/post/color/), [similar](/en/post/similar/) [to](/en/post/to/) [that](/en/post/that/) [of](/en/post/of/) [the](/en/post/the/) [flower](/en/post/flower/).
-- **[A](/en/post/a/) [shade](/en/post/shade/) [of](/en/post/of/) [purple](/en/post/purple/)**: [Violet](/en/post/violet/) is [a](/en/post/a/) [specific](/en/post/specific/) hue [on](/en/post/on/) [the](/en/post/the/) [color](/en/post/color/) spectrum.
+### [Noun](/post/noun/)
+- **[A](/post/a/) [flower](/post/flower/)**: [A](/post/a/) [small](/post/small/), typically [purple](/post/purple/) [or](/post/or/) [blue](/post/blue/), fragrant [flower](/post/flower/) [with](/post/with/) [a](/post/a/) [single](/post/single/) petal, [often](/post/often/) symbolizing [love](/post/love/) [and](/post/and/) admiration.
+- **[A](/post/a/) [color](/post/color/)**: [A](/post/a/) bluish-purple [color](/post/color/), [similar](/post/similar/) [to](/post/to/) [that](/post/that/) [of](/post/of/) [the](/post/the/) [flower](/post/flower/).
+- **[A](/post/a/) [shade](/post/shade/) [of](/post/of/) [purple](/post/purple/)**: [Violet](/post/violet/) is [a](/post/a/) [specific](/post/specific/) hue [on](/post/on/) [the](/post/the/) [color](/post/color/) spectrum.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [admire](/en/post/admire/)**: [To](/en/post/to/) [show](/en/post/show/) [great](/en/post/great/) liking [or](/en/post/or/) appreciation [for](/en/post/for/) [something](/en/post/something/), [often](/en/post/often/) [in](/en/post/in/) terms [of](/en/post/of/) [its](/en/post/its/) [beauty](/en/post/beauty/) [or](/en/post/or/) uniqueness.
-- **[To](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [shade](/en/post/shade/) [of](/en/post/of/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [certain](/en/post/certain/) [violet](/en/post/violet/) tint [or](/en/post/or/) hue.
+### [Verb](/post/verb/)
+- **[To](/post/to/) [admire](/post/admire/)**: [To](/post/to/) [show](/post/show/) [great](/post/great/) liking [or](/post/or/) appreciation [for](/post/for/) [something](/post/something/), [often](/post/often/) [in](/post/in/) terms [of](/post/of/) [its](/post/its/) [beauty](/post/beauty/) [or](/post/or/) uniqueness.
+- **[To](/post/to/) [be](/post/be/) [a](/post/a/) [shade](/post/shade/) [of](/post/of/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [certain](/post/certain/) [violet](/post/violet/) tint [or](/post/or/) hue.
 
-### [Adjective](/en/post/adjective/)
-- **[Of](/en/post/of/) [a](/en/post/a/) [deep](/en/post/deep/) [purple](/en/post/purple/) [color](/en/post/color/)**: Describing [something](/en/post/something/) [with](/en/post/with/) [a](/en/post/a/) [rich](/en/post/rich/), [dark](/en/post/dark/) [purple](/en/post/purple/) [shade](/en/post/shade/).
-- **Related [to](/en/post/to/) violets**: Pertaining [to](/en/post/to/) [the](/en/post/the/) [flower](/en/post/flower/) [or](/en/post/or/) [its](/en/post/its/) characteristics.
+### [Adjective](/post/adjective/)
+- **[Of](/post/of/) [a](/post/a/) [deep](/post/deep/) [purple](/post/purple/) [color](/post/color/)**: Describing [something](/post/something/) [with](/post/with/) [a](/post/a/) [rich](/post/rich/), [dark](/post/dark/) [purple](/post/purple/) [shade](/post/shade/).
+- **Related [to](/post/to/) violets**: Pertaining [to](/post/to/) [the](/post/the/) [flower](/post/flower/) [or](/post/or/) [its](/post/its/) characteristics.
 
-### [Adverb](/en/post/adverb/)
-- **Violetly**: [In](/en/post/in/) [a](/en/post/a/) [violet](/en/post/violet/) [manner](/en/post/manner/), characterized [by](/en/post/by/) [the](/en/post/the/) [color](/en/post/color/) [or](/en/post/or/) [quality](/en/post/quality/).
+### [Adverb](/post/adverb/)
+- **Violetly**: [In](/post/in/) [a](/post/a/) [violet](/post/violet/) [manner](/post/manner/), characterized [by](/post/by/) [the](/post/the/) [color](/post/color/) [or](/post/or/) [quality](/post/quality/).
 
 ## Phrases
-- "[She](/en/post/she/) wore [a](/en/post/a/) [dress](/en/post/dress/) [of](/en/post/of/) [violet](/en/post/violet/) hue."
-- "[The](/en/post/the/) [sunset](/en/post/sunset/) painted [the](/en/post/the/) [sky](/en/post/sky/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) [violet](/en/post/violet/)."
-- "[The](/en/post/the/) [violet](/en/post/violet/) petals [of](/en/post/of/) [the](/en/post/the/) [flower](/en/post/flower/) were [delicate](/en/post/delicate/) [and](/en/post/and/) fragrant."
+- "[She](/post/she/) wore [a](/post/a/) [dress](/post/dress/) [of](/post/of/) [violet](/post/violet/) hue."
+- "[The](/post/the/) [sunset](/post/sunset/) painted [the](/post/the/) [sky](/post/sky/) [a](/post/a/) [beautiful](/post/beautiful/) [violet](/post/violet/)."
+- "[The](/post/the/) [violet](/post/violet/) petals [of](/post/of/) [the](/post/the/) [flower](/post/flower/) were [delicate](/post/delicate/) [and](/post/and/) fragrant."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [garden](/en/post/garden/) was filled [with](/en/post/with/) [a](/en/post/a/) profusion [of](/en/post/of/) violets."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) admired [the](/en/post/the/) [violet](/en/post/violet/) tones [in](/en/post/in/) [the](/en/post/the/) [sunset](/en/post/sunset/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) bedroom walls were painted [a](/en/post/a/) soothing [violet](/en/post/violet/) [shade](/en/post/shade/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) spoke violetly [about](/en/post/about/) [his](/en/post/his/) [love](/en/post/love/) [for](/en/post/for/) [nature](/en/post/nature/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) [a](/post/a/) profusion [of](/post/of/) violets."
+- **[Verb](/post/verb/)**: "[She](/post/she/) admired [the](/post/the/) [violet](/post/violet/) tones [in](/post/in/) [the](/post/the/) [sunset](/post/sunset/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) bedroom walls were painted [a](/post/a/) soothing [violet](/post/violet/) [shade](/post/shade/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) spoke violetly [about](/post/about/) [his](/post/his/) [love](/post/love/) [for](/post/for/) [nature](/post/nature/)."
 
 ## Synonyms
-- [Purple](/en/post/purple/)
+- [Purple](/post/purple/)
 - Lilac
 - Indigo
 - Mauve
-- Ultraviolet ([as](/en/post/as/) [a](/en/post/a/) [scientific](/en/post/scientific/) [term](/en/post/term/))
-- Fuchsia ([a](/en/post/a/) related pink-purple [color](/en/post/color/))
+- Ultraviolet ([as](/post/as/) [a](/post/a/) [scientific](/post/scientific/) [term](/post/term/))
+- Fuchsia ([a](/post/a/) related pink-purple [color](/post/color/))

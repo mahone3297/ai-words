@@ -11,22 +11,22 @@ keywords = ['ai words', 'flare']
 /flɛr/
 
 ## 释义
-- **动词**: 突然发出强烈的光或火焰；闪耀。例如: "[The](/post/the/) [sun](/post/sun/) flared brightly [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
-- **名词**: 突然发出的强光或火焰；闪耀。例如: "[A](/post/a/) [sudden](/post/sudden/) [flare](/post/flare/) lit [up](/post/up/) [the](/post/the/) [dark](/post/dark/) [sky](/post/sky/)."
-- **名词**: (衣服、裙子等的)摆，褶皱。例如: "[Her](/post/her/) [dress](/post/dress/) had [a](/post/a/) [beautiful](/post/beautiful/) [flare](/post/flare/) [at](/post/at/) [the](/post/the/) [bottom](/post/bottom/)."
+- **动词**: 突然发出强烈的光或火焰；闪耀。例如: "[The](/zh/post/the/) [sun](/zh/post/sun/) flared brightly [in](/zh/post/in/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
+- **名词**: 突然发出的强光或火焰；闪耀。例如: "[A](/zh/post/a/) [sudden](/zh/post/sudden/) [flare](/zh/post/flare/) lit [up](/zh/post/up/) [the](/zh/post/the/) [dark](/zh/post/dark/) [sky](/zh/post/sky/)."
+- **名词**: (衣服、裙子等的)摆，褶皱。例如: "[Her](/zh/post/her/) [dress](/zh/post/dress/) had [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [flare](/zh/post/flare/) [at](/zh/post/at/) [the](/zh/post/the/) [bottom](/zh/post/bottom/)."
 
 ## 短语
-- "[flare](/post/flare/) [up](/post/up/)" 指突然强烈地爆发或发炎。例如: "[The](/post/the/) [pain](/post/pain/) flared [up](/post/up/) [after](/post/after/) [he](/post/he/) lifted weights."
-- "[flare](/post/flare/) [of](/post/of/) [light](/post/light/)" 指突然出现的亮光。例如: "[There](/post/there/) was [a](/post/a/) [flare](/post/flare/) [of](/post/of/) [light](/post/light/) [from](/post/from/) [the](/post/the/) lighthouse."
+- "[flare](/zh/post/flare/) [up](/zh/post/up/)" 指突然强烈地爆发或发炎。例如: "[The](/zh/post/the/) [pain](/zh/post/pain/) flared [up](/zh/post/up/) [after](/zh/post/after/) [he](/zh/post/he/) lifted weights."
+- "[flare](/zh/post/flare/) [of](/zh/post/of/) [light](/zh/post/light/)" 指突然出现的亮光。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [flare](/zh/post/flare/) [of](/zh/post/of/) [light](/zh/post/light/) [from](/zh/post/from/) [the](/zh/post/the/) lighthouse."
 
 ## 例句
-- 动词: "[The](/post/the/) campfire flared [when](/post/when/) [more](/post/more/) [wood](/post/wood/) was added."
-- 名词: "[The](/post/the/) [astronaut](/post/astronaut/) [saw](/post/saw/) [a](/post/a/) [flare](/post/flare/) [from](/post/from/) [a](/post/a/) [distant](/post/distant/) [planet](/post/planet/)."
-- 名词: "[The](/post/the/) jeans had [a](/post/a/) [wide](/post/wide/) [flare](/post/flare/) [in](/post/in/) [the](/post/the/) [leg](/post/leg/)."
+- 动词: "[The](/zh/post/the/) campfire flared [when](/zh/post/when/) [more](/zh/post/more/) [wood](/zh/post/wood/) was added."
+- 名词: "[The](/zh/post/the/) [astronaut](/zh/post/astronaut/) [saw](/zh/post/saw/) [a](/zh/post/a/) [flare](/zh/post/flare/) [from](/zh/post/from/) [a](/zh/post/a/) [distant](/zh/post/distant/) [planet](/zh/post/planet/)."
+- 名词: "[The](/zh/post/the/) jeans had [a](/zh/post/a/) [wide](/zh/post/wide/) [flare](/zh/post/flare/) [in](/zh/post/in/) [the](/zh/post/the/) [leg](/zh/post/leg/)."
 
 ## 同义词
-- [burst](/post/burst/)
+- [burst](/zh/post/burst/)
 - ignite
-- [shine](/post/shine/)
-- [glow](/post/glow/)
+- [shine](/zh/post/shine/)
+- [glow](/zh/post/glow/)
 - beacon

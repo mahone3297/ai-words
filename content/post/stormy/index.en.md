@@ -7,33 +7,33 @@ description = '[ˈstɔːmi] a.有暴风雨的；激烈的'
 keywords = ['ai words', 'stormy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stɔːmi/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [strong](/en/post/strong/) winds, [heavy](/en/post/heavy/) [rain](/en/post/rain/), [or](/en/post/or/) [thunder](/en/post/thunder/), typically accompanied [by](/en/post/by/) [lightning](/en/post/lightning/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) was [stormy](/en/post/stormy/) [all](/en/post/all/) [day](/en/post/day/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [intense](/en/post/intense/) [weather](/en/post/weather/) [with](/en/post/with/) [such](/en/post/such/) conditions. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) had [to](/en/post/to/) [cancel](/en/post/cancel/) [our](/en/post/our/) plans [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) approaching [stormy](/en/post/stormy/) [weather](/en/post/weather/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [strong](/post/strong/) winds, [heavy](/post/heavy/) [rain](/post/rain/), [or](/post/or/) [thunder](/post/thunder/), typically accompanied [by](/post/by/) [lightning](/post/lightning/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) was [stormy](/post/stormy/) [all](/post/all/) [day](/post/day/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [period](/post/period/) [of](/post/of/) [intense](/post/intense/) [weather](/post/weather/) [with](/post/with/) [such](/post/such/) conditions. [For](/post/for/) [example](/post/example/): "[We](/post/we/) had [to](/post/to/) [cancel](/post/cancel/) [our](/post/our/) plans [due](/post/due/) [to](/post/to/) [the](/post/the/) approaching [stormy](/post/stormy/) [weather](/post/weather/)."
 
 ## Phrases
-- "[A](/en/post/a/) [stormy](/en/post/stormy/) [night](/en/post/night/)" describes [a](/en/post/a/) [dark](/en/post/dark/) [and](/en/post/and/) [turbulent](/en/post/turbulent/) [evening](/en/post/evening/).
-- "[Weather](/en/post/weather/) [forecast](/en/post/forecast/) predicts [a](/en/post/a/) [stormy](/en/post/stormy/) [weekend](/en/post/weekend/)."
-- "[The](/en/post/the/) [stormy](/en/post/stormy/) seas made [the](/en/post/the/) [journey](/en/post/journey/) treacherous."
+- "[A](/post/a/) [stormy](/post/stormy/) [night](/post/night/)" describes [a](/post/a/) [dark](/post/dark/) [and](/post/and/) [turbulent](/post/turbulent/) [evening](/post/evening/).
+- "[Weather](/post/weather/) [forecast](/post/forecast/) predicts [a](/post/a/) [stormy](/post/stormy/) [weekend](/post/weekend/)."
+- "[The](/post/the/) [stormy](/post/stormy/) seas made [the](/post/the/) [journey](/post/journey/) treacherous."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [stormy](/en/post/stormy/) [sky](/en/post/sky/) indicated an impending thunderstorm."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were excited [about](/en/post/about/) watching [the](/en/post/the/) [stormy](/en/post/stormy/) [display](/en/post/display/) [from](/en/post/from/) [inside](/en/post/inside/)."
-- "[She](/en/post/she/) braced [herself](/en/post/herself/) [for](/en/post/for/) [the](/en/post/the/) [stormy](/en/post/stormy/) aftermath [of](/en/post/of/) [the](/en/post/the/) [argument](/en/post/argument/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [stormy](/post/stormy/) [sky](/post/sky/) indicated an impending thunderstorm."
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were excited [about](/post/about/) watching [the](/post/the/) [stormy](/post/stormy/) [display](/post/display/) [from](/post/from/) [inside](/post/inside/)."
+- "[She](/post/she/) braced [herself](/post/herself/) [for](/post/for/) [the](/post/the/) [stormy](/post/stormy/) aftermath [of](/post/of/) [the](/post/the/) [argument](/post/argument/)."
 
 ## Synonyms
-- [Turbulent](/en/post/turbulent/)
-- [Stormy](/en/post/stormy/)
-- [Unstable](/en/post/unstable/)
+- [Turbulent](/post/turbulent/)
+- [Stormy](/post/stormy/)
+- [Unstable](/post/unstable/)
 - Windy
-- [Violent](/en/post/violent/)
+- [Violent](/post/violent/)
 
 ## Antonyms
-- [Calm](/en/post/calm/)
-- [Clear](/en/post/clear/)
-- [Sunny](/en/post/sunny/)
-- [Peaceful](/en/post/peaceful/)
+- [Calm](/post/calm/)
+- [Clear](/post/clear/)
+- [Sunny](/post/sunny/)
+- [Peaceful](/post/peaceful/)
 - Serene

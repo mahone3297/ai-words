@@ -7,32 +7,32 @@ description = '[ˌəuvəˈkʌm] vt.战胜，克服'
 keywords = ['ai words', 'overcome']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌoʊ.vərˈkəm/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [successfully](/en/post/successfully/) [deal](/en/post/deal/) [with](/en/post/with/) [and](/en/post/and/) [defeat](/en/post/defeat/) [a](/en/post/a/) [problem](/en/post/problem/), [difficulty](/en/post/difficulty/), [or](/en/post/or/) [enemy](/en/post/enemy/); [to](/en/post/to/) [prevail](/en/post/prevail/) [over](/en/post/over/) [something](/en/post/something/) [that](/en/post/that/) challenges [or](/en/post/or/) constrains [one](/en/post/one/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) managed [to](/en/post/to/) [overcome](/en/post/overcome/) [her](/en/post/her/) [fear](/en/post/fear/) [of](/en/post/of/) [public](/en/post/public/) speaking."
-  - _Phrasal Verb_: [overcome](/en/post/overcome/) [by](/en/post/by/) ([something](/en/post/something/)) - [to](/en/post/to/) [be](/en/post/be/) overwhelmed [or](/en/post/or/) defeated [by](/en/post/by/) an [emotion](/en/post/emotion/) [or](/en/post/or/) [situation](/en/post/situation/). [Example](/en/post/example/): "[She](/en/post/she/) was [overcome](/en/post/overcome/) [by](/en/post/by/) grief [when](/en/post/when/) [she](/en/post/she/) heard [the](/en/post/the/) [news](/en/post/news/)."
-- **[Verb](/en/post/verb/)**: (intransitive) [To](/en/post/to/) [succeed](/en/post/succeed/) [in](/en/post/in/) moving [past](/en/post/past/) [or](/en/post/or/) getting [through](/en/post/through/) [a](/en/post/a/) [physical](/en/post/physical/) [obstacle](/en/post/obstacle/) [or](/en/post/or/) [barrier](/en/post/barrier/). [Example](/en/post/example/): "[The](/en/post/the/) hiker [finally](/en/post/finally/) overcame [the](/en/post/the/) [steep](/en/post/steep/) [mountain](/en/post/mountain/) [pass](/en/post/pass/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [successfully](/post/successfully/) [deal](/post/deal/) [with](/post/with/) [and](/post/and/) [defeat](/post/defeat/) [a](/post/a/) [problem](/post/problem/), [difficulty](/post/difficulty/), [or](/post/or/) [enemy](/post/enemy/); [to](/post/to/) [prevail](/post/prevail/) [over](/post/over/) [something](/post/something/) [that](/post/that/) challenges [or](/post/or/) constrains [one](/post/one/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) managed [to](/post/to/) [overcome](/post/overcome/) [her](/post/her/) [fear](/post/fear/) [of](/post/of/) [public](/post/public/) speaking."
+  - _Phrasal Verb_: [overcome](/post/overcome/) [by](/post/by/) ([something](/post/something/)) - [to](/post/to/) [be](/post/be/) overwhelmed [or](/post/or/) defeated [by](/post/by/) an [emotion](/post/emotion/) [or](/post/or/) [situation](/post/situation/). [Example](/post/example/): "[She](/post/she/) was [overcome](/post/overcome/) [by](/post/by/) grief [when](/post/when/) [she](/post/she/) heard [the](/post/the/) [news](/post/news/)."
+- **[Verb](/post/verb/)**: (intransitive) [To](/post/to/) [succeed](/post/succeed/) [in](/post/in/) moving [past](/post/past/) [or](/post/or/) getting [through](/post/through/) [a](/post/a/) [physical](/post/physical/) [obstacle](/post/obstacle/) [or](/post/or/) [barrier](/post/barrier/). [Example](/post/example/): "[The](/post/the/) hiker [finally](/post/finally/) overcame [the](/post/the/) [steep](/post/steep/) [mountain](/post/mountain/) [pass](/post/pass/)."
 
 ## Phrases
-- "[Overcome](/en/post/overcome/) adversity": [To](/en/post/to/) [successfully](/en/post/successfully/) [face](/en/post/face/) [and](/en/post/and/) [conquer](/en/post/conquer/) challenging situations [or](/en/post/or/) problems.
-- "[Overcome](/en/post/overcome/) [with](/en/post/with/) [emotion](/en/post/emotion/)": [To](/en/post/to/) [be](/en/post/be/) [strongly](/en/post/strongly/) affected [or](/en/post/or/) overwhelmed [by](/en/post/by/) an [emotional](/en/post/emotional/) [experience](/en/post/experience/).
-- "[Overcome](/en/post/overcome/) obstacles": [To](/en/post/to/) [successfully](/en/post/successfully/) tackle [and](/en/post/and/) [move](/en/post/move/) [beyond](/en/post/beyond/) [any](/en/post/any/) difficulties [or](/en/post/or/) hindrances.
+- "[Overcome](/post/overcome/) adversity": [To](/post/to/) [successfully](/post/successfully/) [face](/post/face/) [and](/post/and/) [conquer](/post/conquer/) challenging situations [or](/post/or/) problems.
+- "[Overcome](/post/overcome/) [with](/post/with/) [emotion](/post/emotion/)": [To](/post/to/) [be](/post/be/) [strongly](/post/strongly/) affected [or](/post/or/) overwhelmed [by](/post/by/) an [emotional](/post/emotional/) [experience](/post/experience/).
+- "[Overcome](/post/overcome/) obstacles": [To](/post/to/) [successfully](/post/successfully/) tackle [and](/post/and/) [move](/post/move/) [beyond](/post/beyond/) [any](/post/any/) difficulties [or](/post/or/) hindrances.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (defeating [a](/en/post/a/) [challenge](/en/post/challenge/))**: "[Through](/en/post/through/) sheer [determination](/en/post/determination/), [he](/en/post/he/) has [overcome](/en/post/overcome/) [his](/en/post/his/) addiction [to](/en/post/to/) smoking."
-- **Phrasal [Verb](/en/post/verb/)**: "[She](/en/post/she/) was [completely](/en/post/completely/) [overcome](/en/post/overcome/) [with](/en/post/with/) [joy](/en/post/joy/) [when](/en/post/when/) [she](/en/post/she/) received [the](/en/post/the/) [award](/en/post/award/)."
-- **[Verb](/en/post/verb/) ([physical](/en/post/physical/) [barrier](/en/post/barrier/))**: "[They](/en/post/they/) overcame [the](/en/post/the/) rugged terrain [and](/en/post/and/) completed [their](/en/post/their/) [journey](/en/post/journey/) [across](/en/post/across/) [the](/en/post/the/) wilderness."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (defeating [a](/post/a/) [challenge](/post/challenge/))**: "[Through](/post/through/) sheer [determination](/post/determination/), [he](/post/he/) has [overcome](/post/overcome/) [his](/post/his/) addiction [to](/post/to/) smoking."
+- **Phrasal [Verb](/post/verb/)**: "[She](/post/she/) was [completely](/post/completely/) [overcome](/post/overcome/) [with](/post/with/) [joy](/post/joy/) [when](/post/when/) [she](/post/she/) received [the](/post/the/) [award](/post/award/)."
+- **[Verb](/post/verb/) ([physical](/post/physical/) [barrier](/post/barrier/))**: "[They](/post/they/) overcame [the](/post/the/) rugged terrain [and](/post/and/) completed [their](/post/their/) [journey](/post/journey/) [across](/post/across/) [the](/post/the/) wilderness."
 
 ## Synonyms
-- [Conquer](/en/post/conquer/)
-- [Defeat](/en/post/defeat/)
+- [Conquer](/post/conquer/)
+- [Defeat](/post/defeat/)
 - Overpower
-- [Triumph](/en/post/triumph/) [over](/en/post/over/)
+- [Triumph](/post/triumph/) [over](/post/over/)
 - Vanquish
 - Subdue
-- [Master](/en/post/master/)
+- [Master](/post/master/)
 - Tackle
-- [Get](/en/post/get/) [over](/en/post/over/)
-- [Prevail](/en/post/prevail/) [against](/en/post/against/)
+- [Get](/post/get/) [over](/post/over/)
+- [Prevail](/post/prevail/) [against](/post/against/)

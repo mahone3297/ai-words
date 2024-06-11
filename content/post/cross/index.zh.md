@@ -12,30 +12,30 @@ keywords = ['ai words', 'cross']
 
 ## 释义
 - **名词**:
-  - 交叉点；十字路口: "There's [a](/post/a/) crossroads [up](/post/up/) [ahead](/post/ahead/)."
-  - 十字架： "[The](/post/the/) [symbol](/post/symbol/) [of](/post/of/) Christianity is [the](/post/the/) [cross](/post/cross/)."
-  - 跨越；穿越： "[She](/post/she/) made [a](/post/a/) long-distance [swim](/post/swim/) [across](/post/across/) [the](/post/the/) English [Channel](/post/channel/)."
-  - （形状为十字的）装饰品或奖章： "[He](/post/he/) wore [a](/post/a/) [cross](/post/cross/) [around](/post/around/) [his](/post/his/) [neck](/post/neck/)."
+  - 交叉点；十字路口: "There's [a](/zh/post/a/) crossroads [up](/zh/post/up/) [ahead](/zh/post/ahead/)."
+  - 十字架： "[The](/zh/post/the/) [symbol](/zh/post/symbol/) [of](/zh/post/of/) Christianity is [the](/zh/post/the/) [cross](/zh/post/cross/)."
+  - 跨越；穿越： "[She](/zh/post/she/) made [a](/zh/post/a/) long-distance [swim](/zh/post/swim/) [across](/zh/post/across/) [the](/zh/post/the/) English [Channel](/zh/post/channel/)."
+  - （形状为十字的）装饰品或奖章： "[He](/zh/post/he/) wore [a](/zh/post/a/) [cross](/zh/post/cross/) [around](/zh/post/around/) [his](/zh/post/his/) [neck](/zh/post/neck/)."
 
 - **动词**:
-  - 通过；横过： "[The](/post/the/) pedestrian [must](/post/must/) [wait](/post/wait/) [for](/post/for/) [the](/post/the/) [green](/post/green/) [light](/post/light/) [to](/post/to/) [cross](/post/cross/) [the](/post/the/) [road](/post/road/)."
-  - 画十字；打叉： "[She](/post/she/) crossed [out](/post/out/) [the](/post/the/) [wrong](/post/wrong/) [answer](/post/answer/) [on](/post/on/) [her](/post/her/) [test](/post/test/) [paper](/post/paper/)."
+  - 通过；横过： "[The](/zh/post/the/) pedestrian [must](/zh/post/must/) [wait](/zh/post/wait/) [for](/zh/post/for/) [the](/zh/post/the/) [green](/zh/post/green/) [light](/zh/post/light/) [to](/zh/post/to/) [cross](/zh/post/cross/) [the](/zh/post/the/) [road](/zh/post/road/)."
+  - 画十字；打叉： "[She](/zh/post/she/) crossed [out](/zh/post/out/) [the](/zh/post/the/) [wrong](/zh/post/wrong/) [answer](/zh/post/answer/) [on](/zh/post/on/) [her](/zh/post/her/) [test](/zh/post/test/) [paper](/zh/post/paper/)."
 
 - **形容词**:
-  - 交叉的；纵横交错的： "[The](/post/the/) [cross](/post/cross/) streets [in](/post/in/) [this](/post/this/) [city](/post/city/) are confusing."
-  - 生气的；恼火的： "[He](/post/he/) was [cross](/post/cross/) [because](/post/because/) [he](/post/he/) had missed [the](/post/the/) [bus](/post/bus/)."
+  - 交叉的；纵横交错的： "[The](/zh/post/the/) [cross](/zh/post/cross/) streets [in](/zh/post/in/) [this](/zh/post/this/) [city](/zh/post/city/) are confusing."
+  - 生气的；恼火的： "[He](/zh/post/he/) was [cross](/zh/post/cross/) [because](/zh/post/because/) [he](/zh/post/he/) had missed [the](/zh/post/the/) [bus](/zh/post/bus/)."
 
 ## 短语
-- "[At](/post/at/) [the](/post/the/) crossroads" 指处在关键时刻或面临重要选择。
-- "[To](/post/to/) [have](/post/have/) [a](/post/a/) [cross](/post/cross/) [to](/post/to/) [bear](/post/bear/)" 意味着承受重负或困难。
-- "[To](/post/to/) [cross](/post/cross/) one's fingers" 用于祈求好运或希望事情顺利。
+- "[At](/zh/post/at/) [the](/zh/post/the/) crossroads" 指处在关键时刻或面临重要选择。
+- "[To](/zh/post/to/) [have](/zh/post/have/) [a](/zh/post/a/) [cross](/zh/post/cross/) [to](/zh/post/to/) [bear](/zh/post/bear/)" 意味着承受重负或困难。
+- "[To](/zh/post/to/) [cross](/zh/post/cross/) one's fingers" 用于祈求好运或希望事情顺利。
 
 ## 例句
-- 名词: "[The](/post/the/) [ancient](/post/ancient/) [church](/post/church/) has [a](/post/a/) [magnificent](/post/magnificent/) [golden](/post/golden/) [cross](/post/cross/) [on](/post/on/) [its](/post/its/) dome."
-- 动词: "[Watch](/post/watch/) [out](/post/out/) [for](/post/for/) cars [when](/post/when/) you're [about](/post/about/) [to](/post/to/) [cross](/post/cross/) [the](/post/the/) [street](/post/street/)."
-- 形容词: "[She](/post/she/) looked [cross](/post/cross/) [after](/post/after/) [finding](/post/finding/) [her](/post/her/) keys [missing](/post/missing/)."
+- 名词: "[The](/zh/post/the/) [ancient](/zh/post/ancient/) [church](/zh/post/church/) has [a](/zh/post/a/) [magnificent](/zh/post/magnificent/) [golden](/zh/post/golden/) [cross](/zh/post/cross/) [on](/zh/post/on/) [its](/zh/post/its/) dome."
+- 动词: "[Watch](/zh/post/watch/) [out](/zh/post/out/) [for](/zh/post/for/) cars [when](/zh/post/when/) you're [about](/zh/post/about/) [to](/zh/post/to/) [cross](/zh/post/cross/) [the](/zh/post/the/) [street](/zh/post/street/)."
+- 形容词: "[She](/zh/post/she/) looked [cross](/zh/post/cross/) [after](/zh/post/after/) [finding](/zh/post/finding/) [her](/zh/post/her/) keys [missing](/zh/post/missing/)."
 
 ## 同义词
 - Intersection (名词)
-- [Go](/post/go/) [across](/post/across/) (动词)
-- [Angry](/post/angry/) (形容词)
+- [Go](/zh/post/go/) [across](/zh/post/across/) (动词)
+- [Angry](/zh/post/angry/) (形容词)

@@ -7,46 +7,46 @@ description = '[ˈvjuːˌpɔint] n.观点，看法，见解'
 keywords = ['ai words', 'viewpoint']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈnɑːspɔɪnt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [point](/en/post/point/) [of](/en/post/of/) [view](/en/post/view/) [or](/en/post/or/) [perspective](/en/post/perspective/)**: [A](/en/post/a/) [particular](/en/post/particular/) [way](/en/post/way/) [of](/en/post/of/) looking [at](/en/post/at/) [something](/en/post/something/) [or](/en/post/or/) considering an [issue](/en/post/issue/), [often](/en/post/often/) [from](/en/post/from/) [a](/en/post/a/) [specific](/en/post/specific/) [individual](/en/post/individual/) [or](/en/post/or/) group's [standpoint](/en/post/standpoint/).
-   - [Example](/en/post/example/): "[From](/en/post/from/) [his](/en/post/his/) [unique](/en/post/unique/) [viewpoint](/en/post/viewpoint/), [the](/en/post/the/) [problem](/en/post/problem/) had [a](/en/post/a/) [different](/en/post/different/) [solution](/en/post/solution/)."
-2. **An [opinion](/en/post/opinion/) [or](/en/post/or/) judgment**: [A](/en/post/a/) [personal](/en/post/personal/) assessment [or](/en/post/or/) evaluation [of](/en/post/of/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [matter](/en/post/matter/).
-   - [Example](/en/post/example/): "[Her](/en/post/her/) [viewpoint](/en/post/viewpoint/) [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/) was well-informed."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [point](/post/point/) [of](/post/of/) [view](/post/view/) [or](/post/or/) [perspective](/post/perspective/)**: [A](/post/a/) [particular](/post/particular/) [way](/post/way/) [of](/post/of/) looking [at](/post/at/) [something](/post/something/) [or](/post/or/) considering an [issue](/post/issue/), [often](/post/often/) [from](/post/from/) [a](/post/a/) [specific](/post/specific/) [individual](/post/individual/) [or](/post/or/) group's [standpoint](/post/standpoint/).
+   - [Example](/post/example/): "[From](/post/from/) [his](/post/his/) [unique](/post/unique/) [viewpoint](/post/viewpoint/), [the](/post/the/) [problem](/post/problem/) had [a](/post/a/) [different](/post/different/) [solution](/post/solution/)."
+2. **An [opinion](/post/opinion/) [or](/post/or/) judgment**: [A](/post/a/) [personal](/post/personal/) assessment [or](/post/or/) evaluation [of](/post/of/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [matter](/post/matter/).
+   - [Example](/post/example/): "[Her](/post/her/) [viewpoint](/post/viewpoint/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/) was well-informed."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [adopt](/en/post/adopt/) [or](/en/post/or/) [express](/en/post/express/) [a](/en/post/a/) [particular](/en/post/particular/) [point](/en/post/point/) [of](/en/post/of/) [view](/en/post/view/): [To](/en/post/to/) [consider](/en/post/consider/) [or](/en/post/or/) [present](/en/post/present/) one's thoughts [or](/en/post/or/) beliefs [on](/en/post/on/) [a](/en/post/a/) [topic](/en/post/topic/).
-   - [Example](/en/post/example/): "It's [important](/en/post/important/) [to](/en/post/to/) [maintain](/en/post/maintain/) an [open](/en/post/open/) [viewpoint](/en/post/viewpoint/) [on](/en/post/on/) [different](/en/post/different/) opinions."
-2. [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [particular](/en/post/particular/) [perspective](/en/post/perspective/) [on](/en/post/on/) [something](/en/post/something/): [To](/en/post/to/) [perceive](/en/post/perceive/) [or](/en/post/or/) [understand](/en/post/understand/) [it](/en/post/it/) [through](/en/post/through/) one's [own](/en/post/own/) [viewpoint](/en/post/viewpoint/).
-   - [Example](/en/post/example/): "[After](/en/post/after/) traveling, [he](/en/post/he/) gained [a](/en/post/a/) broader [viewpoint](/en/post/viewpoint/) [on](/en/post/on/) global issues."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [adopt](/post/adopt/) [or](/post/or/) [express](/post/express/) [a](/post/a/) [particular](/post/particular/) [point](/post/point/) [of](/post/of/) [view](/post/view/): [To](/post/to/) [consider](/post/consider/) [or](/post/or/) [present](/post/present/) one's thoughts [or](/post/or/) beliefs [on](/post/on/) [a](/post/a/) [topic](/post/topic/).
+   - [Example](/post/example/): "It's [important](/post/important/) [to](/post/to/) [maintain](/post/maintain/) an [open](/post/open/) [viewpoint](/post/viewpoint/) [on](/post/on/) [different](/post/different/) opinions."
+2. [To](/post/to/) [have](/post/have/) [a](/post/a/) [particular](/post/particular/) [perspective](/post/perspective/) [on](/post/on/) [something](/post/something/): [To](/post/to/) [perceive](/post/perceive/) [or](/post/or/) [understand](/post/understand/) [it](/post/it/) [through](/post/through/) one's [own](/post/own/) [viewpoint](/post/viewpoint/).
+   - [Example](/post/example/): "[After](/post/after/) traveling, [he](/post/he/) gained [a](/post/a/) broader [viewpoint](/post/viewpoint/) [on](/post/on/) global issues."
 
-### [Adjective](/en/post/adjective/)
-1. Characterizing [a](/en/post/a/) person's [perspective](/en/post/perspective/) [or](/en/post/or/) [attitude](/en/post/attitude/): Reflecting [their](/en/post/their/) [way](/en/post/way/) [of](/en/post/of/) thinking [or](/en/post/or/) seeing things.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) offers [multiple](/en/post/multiple/) viewpoints [on](/en/post/on/) [the](/en/post/the/) [same](/en/post/same/) [historical](/en/post/historical/) [event](/en/post/event/)."
+### [Adjective](/post/adjective/)
+1. Characterizing [a](/post/a/) person's [perspective](/post/perspective/) [or](/post/or/) [attitude](/post/attitude/): Reflecting [their](/post/their/) [way](/post/way/) [of](/post/of/) thinking [or](/post/or/) seeing things.
+   - [Example](/post/example/): "[The](/post/the/) [book](/post/book/) offers [multiple](/post/multiple/) viewpoints [on](/post/on/) [the](/post/the/) [same](/post/same/) [historical](/post/historical/) [event](/post/event/)."
 
 ## Phrases
-- "[Hold](/en/post/hold/) [a](/en/post/a/) [different](/en/post/different/) [viewpoint](/en/post/viewpoint/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) contrasting [opinion](/en/post/opinion/).
-- "[From](/en/post/from/) [your](/en/post/your/) [viewpoint](/en/post/viewpoint/)" indicates [the](/en/post/the/) speaker's [intention](/en/post/intention/) [to](/en/post/to/) acknowledge [or](/en/post/or/) [consider](/en/post/consider/) [your](/en/post/your/) [perspective](/en/post/perspective/).
-- "[Objective](/en/post/objective/) [viewpoint](/en/post/viewpoint/)" refers [to](/en/post/to/) [a](/en/post/a/) [neutral](/en/post/neutral/), unbiased [perspective](/en/post/perspective/).
+- "[Hold](/post/hold/) [a](/post/a/) [different](/post/different/) [viewpoint](/post/viewpoint/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [a](/post/a/) contrasting [opinion](/post/opinion/).
+- "[From](/post/from/) [your](/post/your/) [viewpoint](/post/viewpoint/)" indicates [the](/post/the/) speaker's [intention](/post/intention/) [to](/post/to/) acknowledge [or](/post/or/) [consider](/post/consider/) [your](/post/your/) [perspective](/post/perspective/).
+- "[Objective](/post/objective/) [viewpoint](/post/viewpoint/)" refers [to](/post/to/) [a](/post/a/) [neutral](/post/neutral/), unbiased [perspective](/post/perspective/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Each](/en/post/each/) [character](/en/post/character/) has [a](/en/post/a/) [distinct](/en/post/distinct/) [viewpoint](/en/post/viewpoint/) [in](/en/post/in/) [the](/en/post/the/) [novel](/en/post/novel/), contributing [to](/en/post/to/) [its](/en/post/its/) complexity."
-- **[Verb](/en/post/verb/)**: "Let's [hear](/en/post/hear/) [each](/en/post/each/) other's viewpoints [before](/en/post/before/) making [a](/en/post/a/) [decision](/en/post/decision/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [debate](/en/post/debate/) highlighted [the](/en/post/the/) [diverse](/en/post/diverse/) [scientific](/en/post/scientific/) viewpoints [on](/en/post/on/) [the](/en/post/the/) [subject](/en/post/subject/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Each](/post/each/) [character](/post/character/) has [a](/post/a/) [distinct](/post/distinct/) [viewpoint](/post/viewpoint/) [in](/post/in/) [the](/post/the/) [novel](/post/novel/), contributing [to](/post/to/) [its](/post/its/) complexity."
+- **[Verb](/post/verb/)**: "Let's [hear](/post/hear/) [each](/post/each/) other's viewpoints [before](/post/before/) making [a](/post/a/) [decision](/post/decision/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [debate](/post/debate/) highlighted [the](/post/the/) [diverse](/post/diverse/) [scientific](/post/scientific/) viewpoints [on](/post/on/) [the](/post/the/) [subject](/post/subject/)."
 
 ## Synonyms
-- [Perspective](/en/post/perspective/)
-- [Outlook](/en/post/outlook/)
-- [Opinion](/en/post/opinion/)
-- [Attitude](/en/post/attitude/)
-- [Frame](/en/post/frame/) [of](/en/post/of/) [mind](/en/post/mind/)
-- [Standpoint](/en/post/standpoint/)
-- [Point](/en/post/point/) [of](/en/post/of/) [view](/en/post/view/)
+- [Perspective](/post/perspective/)
+- [Outlook](/post/outlook/)
+- [Opinion](/post/opinion/)
+- [Attitude](/post/attitude/)
+- [Frame](/post/frame/) [of](/post/of/) [mind](/post/mind/)
+- [Standpoint](/post/standpoint/)
+- [Point](/post/point/) [of](/post/of/) [view](/post/view/)
 - Judgment
 
 ---
 
-[Note](/en/post/note/): [The](/en/post/the/) interjection [usage](/en/post/usage/) [for](/en/post/for/) "[viewpoint](/en/post/viewpoint/)" is [not](/en/post/not/) [common](/en/post/common/), [as](/en/post/as/) [it](/en/post/it/) is [primarily](/en/post/primarily/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [verb](/en/post/verb/). [If](/en/post/if/) [you](/en/post/you/) meant an interjection [for](/en/post/for/) expressing [agreement](/en/post/agreement/) [or](/en/post/or/) [interest](/en/post/interest/), [it](/en/post/it/) [might](/en/post/might/) [be](/en/post/be/) [similar](/en/post/similar/) [to](/en/post/to/) "[indeed](/en/post/indeed/)" [or](/en/post/or/) "[yes](/en/post/yes/)."
+[Note](/post/note/): [The](/post/the/) interjection [usage](/post/usage/) [for](/post/for/) "[viewpoint](/post/viewpoint/)" is [not](/post/not/) [common](/post/common/), [as](/post/as/) [it](/post/it/) is [primarily](/post/primarily/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [verb](/post/verb/). [If](/post/if/) [you](/post/you/) meant an interjection [for](/post/for/) expressing [agreement](/post/agreement/) [or](/post/or/) [interest](/post/interest/), [it](/post/it/) [might](/post/might/) [be](/post/be/) [similar](/post/similar/) [to](/post/to/) "[indeed](/post/indeed/)" [or](/post/or/) "[yes](/post/yes/)."

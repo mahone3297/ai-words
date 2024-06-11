@@ -7,35 +7,35 @@ description = '[ˈfəːnis] n.炉子，熔炉；鼓风炉'
 keywords = ['ai words', 'furnace']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɜːrnɪs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [structure](/en/post/structure/) [used](/en/post/used/) [for](/en/post/for/) [heating](/en/post/heating/), typically [one](/en/post/one/) [that](/en/post/that/) burns [fuel](/en/post/fuel/) [or](/en/post/or/) uses [electricity](/en/post/electricity/) [to](/en/post/to/) [produce](/en/post/produce/) [heat](/en/post/heat/). It's [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) warming [a](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) [for](/en/post/for/) [industrial](/en/post/industrial/) processes requiring [high](/en/post/high/) temperatures. 
+- **[Noun](/post/noun/)**: [A](/post/a/) [device](/post/device/) [or](/post/or/) [structure](/post/structure/) [used](/post/used/) [for](/post/for/) [heating](/post/heating/), typically [one](/post/one/) [that](/post/that/) burns [fuel](/post/fuel/) [or](/post/or/) uses [electricity](/post/electricity/) [to](/post/to/) [produce](/post/produce/) [heat](/post/heat/). It's [often](/post/often/) [used](/post/used/) [for](/post/for/) warming [a](/post/a/) [building](/post/building/) [or](/post/or/) [for](/post/for/) [industrial](/post/industrial/) processes requiring [high](/post/high/) temperatures. 
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- *[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) had [a](/en/post/a/) wood-burning [furnace](/en/post/furnace/) [in](/en/post/in/) [its](/en/post/its/) basement.*
-- *[In](/en/post/in/) [the](/en/post/the/) [factory](/en/post/factory/), [raw](/en/post/raw/) materials were heated [in](/en/post/in/) [a](/en/post/a/) massive [industrial](/en/post/industrial/) [furnace](/en/post/furnace/).*
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- *[The](/post/the/) [old](/post/old/) [house](/post/house/) had [a](/post/a/) wood-burning [furnace](/post/furnace/) [in](/post/in/) [its](/post/its/) basement.*
+- *[In](/post/in/) [the](/post/the/) [factory](/post/factory/), [raw](/post/raw/) materials were heated [in](/post/in/) [a](/post/a/) massive [industrial](/post/industrial/) [furnace](/post/furnace/).*
 
 ## Phrases
-- "[Feed](/en/post/feed/) [the](/en/post/the/) [furnace](/en/post/furnace/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) metaphorically [or](/en/post/or/) literally [to](/en/post/to/) [mean](/en/post/mean/) adding [fuel](/en/post/fuel/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [fire](/en/post/fire/) [or](/en/post/or/) [heat](/en/post/heat/) [source](/en/post/source/).
-- "[Turn](/en/post/turn/) [up](/en/post/up/) [the](/en/post/the/) [furnace](/en/post/furnace/)": [This](/en/post/this/) [means](/en/post/means/) [to](/en/post/to/) [increase](/en/post/increase/) [the](/en/post/the/) [heat](/en/post/heat/) [output](/en/post/output/) [from](/en/post/from/) [a](/en/post/a/) [furnace](/en/post/furnace/).
-- "[Furnace](/en/post/furnace/) [room](/en/post/room/)": [A](/en/post/a/) designated [space](/en/post/space/) [in](/en/post/in/) [a](/en/post/a/) [building](/en/post/building/) housing [the](/en/post/the/) [furnace](/en/post/furnace/) [or](/en/post/or/) [heating](/en/post/heating/) [system](/en/post/system/).
+- "[Feed](/post/feed/) [the](/post/the/) [furnace](/post/furnace/)": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) metaphorically [or](/post/or/) literally [to](/post/to/) [mean](/post/mean/) adding [fuel](/post/fuel/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [fire](/post/fire/) [or](/post/or/) [heat](/post/heat/) [source](/post/source/).
+- "[Turn](/post/turn/) [up](/post/up/) [the](/post/the/) [furnace](/post/furnace/)": [This](/post/this/) [means](/post/means/) [to](/post/to/) [increase](/post/increase/) [the](/post/the/) [heat](/post/heat/) [output](/post/output/) [from](/post/from/) [a](/post/a/) [furnace](/post/furnace/).
+- "[Furnace](/post/furnace/) [room](/post/room/)": [A](/post/a/) designated [space](/post/space/) [in](/post/in/) [a](/post/a/) [building](/post/building/) housing [the](/post/the/) [furnace](/post/furnace/) [or](/post/or/) [heating](/post/heating/) [system](/post/system/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[During](/en/post/during/) [winter](/en/post/winter/), [the](/en/post/the/) [family](/en/post/family/) gathered [around](/en/post/around/) [the](/en/post/the/) [living](/en/post/living/) [room](/en/post/room/) hearth [where](/en/post/where/) [the](/en/post/the/) [furnace](/en/post/furnace/) hummed [steadily](/en/post/steadily/), providing [warmth](/en/post/warmth/) [throughout](/en/post/throughout/) [the](/en/post/the/) chilly nights."
-- "[Regular](/en/post/regular/) [maintenance](/en/post/maintenance/) [of](/en/post/of/) [the](/en/post/the/) [furnace](/en/post/furnace/) ensures [it](/en/post/it/) operates efficiently [and](/en/post/and/) [safely](/en/post/safely/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[During](/post/during/) [winter](/post/winter/), [the](/post/the/) [family](/post/family/) gathered [around](/post/around/) [the](/post/the/) [living](/post/living/) [room](/post/room/) hearth [where](/post/where/) [the](/post/the/) [furnace](/post/furnace/) hummed [steadily](/post/steadily/), providing [warmth](/post/warmth/) [throughout](/post/throughout/) [the](/post/the/) chilly nights."
+- "[Regular](/post/regular/) [maintenance](/post/maintenance/) [of](/post/of/) [the](/post/the/) [furnace](/post/furnace/) ensures [it](/post/it/) operates efficiently [and](/post/and/) [safely](/post/safely/)."
 
 ## Synonyms
 - Heater
 - Boiler
-- [Stove](/en/post/stove/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
-- Kiln ([for](/en/post/for/) high-temperature [industrial](/en/post/industrial/) applications)
-- [Heating](/en/post/heating/) [unit](/en/post/unit/)
+- [Stove](/post/stove/) ([in](/post/in/) [some](/post/some/) contexts)
+- Kiln ([for](/post/for/) high-temperature [industrial](/post/industrial/) applications)
+- [Heating](/post/heating/) [unit](/post/unit/)
 - Warm-air heater
 
 ## Derived Terms & Phrases
-- [Furnace](/en/post/furnace/) [filter](/en/post/filter/): [A](/en/post/a/) [component](/en/post/component/) [that](/en/post/that/) cleans [the](/en/post/the/) [air](/en/post/air/) [before](/en/post/before/) [it](/en/post/it/) enters [the](/en/post/the/) [furnace](/en/post/furnace/).
-- [Furnace](/en/post/furnace/) [oil](/en/post/oil/): [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [fuel](/en/post/fuel/) [used](/en/post/used/) [in](/en/post/in/) furnaces [for](/en/post/for/) [heating](/en/post/heating/) [or](/en/post/or/) [power](/en/post/power/) [generation](/en/post/generation/).
-- [Blast](/en/post/blast/) [furnace](/en/post/furnace/): [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) metallurgical [furnace](/en/post/furnace/) [used](/en/post/used/) [to](/en/post/to/) smelt metals [from](/en/post/from/) [their](/en/post/their/) ores.
-- [Central](/en/post/central/) [heating](/en/post/heating/) [furnace](/en/post/furnace/): [A](/en/post/a/) [furnace](/en/post/furnace/) [that](/en/post/that/) heats [air](/en/post/air/) [or](/en/post/or/) [water](/en/post/water/) [for](/en/post/for/) [distribution](/en/post/distribution/) [throughout](/en/post/throughout/) [a](/en/post/a/) [building](/en/post/building/).
+- [Furnace](/post/furnace/) [filter](/post/filter/): [A](/post/a/) [component](/post/component/) [that](/post/that/) cleans [the](/post/the/) [air](/post/air/) [before](/post/before/) [it](/post/it/) enters [the](/post/the/) [furnace](/post/furnace/).
+- [Furnace](/post/furnace/) [oil](/post/oil/): [A](/post/a/) [type](/post/type/) [of](/post/of/) [fuel](/post/fuel/) [used](/post/used/) [in](/post/in/) furnaces [for](/post/for/) [heating](/post/heating/) [or](/post/or/) [power](/post/power/) [generation](/post/generation/).
+- [Blast](/post/blast/) [furnace](/post/furnace/): [A](/post/a/) [type](/post/type/) [of](/post/of/) metallurgical [furnace](/post/furnace/) [used](/post/used/) [to](/post/to/) smelt metals [from](/post/from/) [their](/post/their/) ores.
+- [Central](/post/central/) [heating](/post/heating/) [furnace](/post/furnace/): [A](/post/a/) [furnace](/post/furnace/) [that](/post/that/) heats [air](/post/air/) [or](/post/or/) [water](/post/water/) [for](/post/for/) [distribution](/post/distribution/) [throughout](/post/throughout/) [a](/post/a/) [building](/post/building/).

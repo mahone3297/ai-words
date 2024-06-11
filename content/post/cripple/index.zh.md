@@ -11,18 +11,18 @@ keywords = ['ai words', 'cripple']
 /ˈkrɪpəl/
 
 ## 释义
-- **名词**: 一个身体有残疾或行动不便的人。例如: "[The](/post/the/) [old](/post/old/) [man](/post/man/) was [a](/post/a/) [cripple](/post/cripple/) [after](/post/after/) [a](/post/a/) [severe](/post/severe/) [accident](/post/accident/)."
-- **动词**: 使某人残疾或削弱其能力。例如: "[The](/post/the/) [injury](/post/injury/) crippled [her](/post/her/) [ability](/post/ability/) [to](/post/to/) [walk](/post/walk/) [properly](/post/properly/)."
-- **形容词**: 形容严重削弱或破坏的。例如: "[The](/post/the/) [storm](/post/storm/) [left](/post/left/) [the](/post/the/) [town](/post/town/) [in](/post/in/) [a](/post/a/) crippled [state](/post/state/)."
+- **名词**: 一个身体有残疾或行动不便的人。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [man](/zh/post/man/) was [a](/zh/post/a/) [cripple](/zh/post/cripple/) [after](/zh/post/after/) [a](/zh/post/a/) [severe](/zh/post/severe/) [accident](/zh/post/accident/)."
+- **动词**: 使某人残疾或削弱其能力。例如: "[The](/zh/post/the/) [injury](/zh/post/injury/) crippled [her](/zh/post/her/) [ability](/zh/post/ability/) [to](/zh/post/to/) [walk](/zh/post/walk/) [properly](/zh/post/properly/)."
+- **形容词**: 形容严重削弱或破坏的。例如: "[The](/zh/post/the/) [storm](/zh/post/storm/) [left](/zh/post/left/) [the](/zh/post/the/) [town](/zh/post/town/) [in](/zh/post/in/) [a](/zh/post/a/) crippled [state](/zh/post/state/)."
 
 ## 短语
-- "crippled [by](/post/by/)" 表示因...而变得虚弱或无法正常运作。例如: "[The](/post/the/) [project](/post/project/) was crippled [by](/post/by/) [lack](/post/lack/) [of](/post/of/) funding."
-- "[cripple](/post/cripple/) someone's chances" 意味着降低某人的机会或可能性。例如: "[His](/post/his/) [poor](/post/poor/) [health](/post/health/) crippled [his](/post/his/) chances [of](/post/of/) getting [the](/post/the/) [job](/post/job/)."
+- "crippled [by](/zh/post/by/)" 表示因...而变得虚弱或无法正常运作。例如: "[The](/zh/post/the/) [project](/zh/post/project/) was crippled [by](/zh/post/by/) [lack](/zh/post/lack/) [of](/zh/post/of/) funding."
+- "[cripple](/zh/post/cripple/) someone's chances" 意味着降低某人的机会或可能性。例如: "[His](/zh/post/his/) [poor](/zh/post/poor/) [health](/zh/post/health/) crippled [his](/zh/post/his/) chances [of](/zh/post/of/) getting [the](/zh/post/the/) [job](/zh/post/job/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [charity](/post/charity/) [organization](/post/organization/) [provided](/post/provided/) [support](/post/support/) [for](/post/for/) [many](/post/many/) cripples [in](/post/in/) [the](/post/the/) [community](/post/community/)."
-- 动词: "[The](/post/the/) [disease](/post/disease/) had crippled [his](/post/his/) immune [system](/post/system/)."
-- 形容词: "[The](/post/the/) [old](/post/old/) [building](/post/building/) looked crippled [and](/post/and/) unsafe."
+- 名词: "[The](/zh/post/the/) [charity](/zh/post/charity/) [organization](/zh/post/organization/) [provided](/zh/post/provided/) [support](/zh/post/support/) [for](/zh/post/for/) [many](/zh/post/many/) cripples [in](/zh/post/in/) [the](/zh/post/the/) [community](/zh/post/community/)."
+- 动词: "[The](/zh/post/the/) [disease](/zh/post/disease/) had crippled [his](/zh/post/his/) immune [system](/zh/post/system/)."
+- 形容词: "[The](/zh/post/the/) [old](/zh/post/old/) [building](/zh/post/building/) looked crippled [and](/zh/post/and/) unsafe."
 
 ## 同义词
 - disabled

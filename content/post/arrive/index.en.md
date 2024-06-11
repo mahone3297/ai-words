@@ -7,37 +7,37 @@ description = '[əˈraiv] vi.到达；来临；达到'
 keywords = ['ai words', 'arrive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈraɪv/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [reach](/en/post/reach/) [a](/en/post/a/) [destination](/en/post/destination/), [usually](/en/post/usually/) [after](/en/post/after/) traveling [or](/en/post/or/) [being](/en/post/being/) expected. (n. [arrival](/en/post/arrival/))
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) arriving; [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) having arrived. (adj. arriving)
+- **[Verb](/post/verb/)**: [To](/post/to/) [reach](/post/reach/) [a](/post/a/) [destination](/post/destination/), [usually](/post/usually/) [after](/post/after/) traveling [or](/post/or/) [being](/post/being/) expected. (n. [arrival](/post/arrival/))
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) arriving; [the](/post/the/) [state](/post/state/) [of](/post/of/) having arrived. (adj. arriving)
 
 ## Phrases
-- "[Arrive](/en/post/arrive/) [at](/en/post/at/)/[in](/en/post/in/)" is [used](/en/post/used/) [to](/en/post/to/) [specify](/en/post/specify/) [a](/en/post/a/) [destination](/en/post/destination/). "[Arrive](/en/post/arrive/) [at](/en/post/at/) [the](/en/post/the/) [airport](/en/post/airport/)" [or](/en/post/or/) "[arrive](/en/post/arrive/) [in](/en/post/in/) [New](/en/post/new/) York."
-- "[Be](/en/post/be/) [on](/en/post/on/) [time](/en/post/time/) [to](/en/post/to/) [arrive](/en/post/arrive/)" emphasizes punctuality.
-- "[Just](/en/post/just/) arrived" indicates [that](/en/post/that/) [someone](/en/post/someone/) has [recently](/en/post/recently/) reached [a](/en/post/a/) [location](/en/post/location/).
+- "[Arrive](/post/arrive/) [at](/post/at/)/[in](/post/in/)" is [used](/post/used/) [to](/post/to/) [specify](/post/specify/) [a](/post/a/) [destination](/post/destination/). "[Arrive](/post/arrive/) [at](/post/at/) [the](/post/the/) [airport](/post/airport/)" [or](/post/or/) "[arrive](/post/arrive/) [in](/post/in/) [New](/post/new/) York."
+- "[Be](/post/be/) [on](/post/on/) [time](/post/time/) [to](/post/to/) [arrive](/post/arrive/)" emphasizes punctuality.
+- "[Just](/post/just/) arrived" indicates [that](/post/that/) [someone](/post/someone/) has [recently](/post/recently/) reached [a](/post/a/) [location](/post/location/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [plane](/en/post/plane/) [will](/en/post/will/) [arrive](/en/post/arrive/) [in](/en/post/in/) London [at](/en/post/at/) 4 PM."
-- **[Noun](/en/post/noun/)**: "[They](/en/post/they/) [finally](/en/post/finally/) arrived [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [journey](/en/post/journey/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[Please](/en/post/please/) [make](/en/post/make/) [sure](/en/post/sure/) [to](/en/post/to/) [arrive](/en/post/arrive/) [early](/en/post/early/) [for](/en/post/for/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [plane](/post/plane/) [will](/post/will/) [arrive](/post/arrive/) [in](/post/in/) London [at](/post/at/) 4 PM."
+- **[Noun](/post/noun/)**: "[They](/post/they/) [finally](/post/finally/) arrived [after](/post/after/) [a](/post/a/) [long](/post/long/) [journey](/post/journey/)."
+- **Phrasal [Verb](/post/verb/)**: "[Please](/post/please/) [make](/post/make/) [sure](/post/sure/) [to](/post/to/) [arrive](/post/arrive/) [early](/post/early/) [for](/post/for/) [the](/post/the/) [meeting](/post/meeting/)."
 
 ## Synonyms
-- [Reach](/en/post/reach/)
-- [Land](/en/post/land/)
-- [Get](/en/post/get/) [to](/en/post/to/)
-- [Reach](/en/post/reach/) one's [destination](/en/post/destination/)
-- [Turn](/en/post/turn/) [up](/en/post/up/)
-- [Show](/en/post/show/) [up](/en/post/up/)
+- [Reach](/post/reach/)
+- [Land](/post/land/)
+- [Get](/post/get/) [to](/post/to/)
+- [Reach](/post/reach/) one's [destination](/post/destination/)
+- [Turn](/post/turn/) [up](/post/up/)
+- [Show](/post/show/) [up](/post/up/)
 
 ## Antonyms
-- [Depart](/en/post/depart/)
-- [Leave](/en/post/leave/)
-- [Miss](/en/post/miss/) ([destination](/en/post/destination/))
-- [Not](/en/post/not/) [show](/en/post/show/) [up](/en/post/up/)
+- [Depart](/post/depart/)
+- [Leave](/post/leave/)
+- [Miss](/post/miss/) ([destination](/post/destination/))
+- [Not](/post/not/) [show](/post/show/) [up](/post/up/)
 
-## [Usage](/en/post/usage/) Notes
-- "[Arrive](/en/post/arrive/)" [can](/en/post/can/) [be](/en/post/be/) followed [by](/en/post/by/) [a](/en/post/a/) prepositional [phrase](/en/post/phrase/) indicating [the](/en/post/the/) [destination](/en/post/destination/), [while](/en/post/while/) "[get](/en/post/get/) [to](/en/post/to/)" [often](/en/post/often/) requires [a](/en/post/a/) [direct](/en/post/direct/) [object](/en/post/object/) [or](/en/post/or/) [additional](/en/post/additional/) [information](/en/post/information/) [about](/en/post/about/) [the](/en/post/the/) [destination](/en/post/destination/).
-- [In](/en/post/in/) informal contexts, "[show](/en/post/show/) [up](/en/post/up/)" [might](/en/post/might/) [be](/en/post/be/) [used](/en/post/used/) [instead](/en/post/instead/) [of](/en/post/of/) "[arrive](/en/post/arrive/)" [to](/en/post/to/) [emphasize](/en/post/emphasize/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) physically appearing [at](/en/post/at/) [a](/en/post/a/) [place](/en/post/place/).
+## [Usage](/post/usage/) Notes
+- "[Arrive](/post/arrive/)" [can](/post/can/) [be](/post/be/) followed [by](/post/by/) [a](/post/a/) prepositional [phrase](/post/phrase/) indicating [the](/post/the/) [destination](/post/destination/), [while](/post/while/) "[get](/post/get/) [to](/post/to/)" [often](/post/often/) requires [a](/post/a/) [direct](/post/direct/) [object](/post/object/) [or](/post/or/) [additional](/post/additional/) [information](/post/information/) [about](/post/about/) [the](/post/the/) [destination](/post/destination/).
+- [In](/post/in/) informal contexts, "[show](/post/show/) [up](/post/up/)" [might](/post/might/) [be](/post/be/) [used](/post/used/) [instead](/post/instead/) [of](/post/of/) "[arrive](/post/arrive/)" [to](/post/to/) [emphasize](/post/emphasize/) [the](/post/the/) [act](/post/act/) [of](/post/of/) physically appearing [at](/post/at/) [a](/post/a/) [place](/post/place/).

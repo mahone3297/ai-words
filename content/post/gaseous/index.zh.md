@@ -11,16 +11,16 @@ keywords = ['ai words', 'gaseous']
 /ˈɡeɪs.i.əs/
 
 ## 释义
-- **形容词**: 形容气体的，气态的，或像气体的。例如: "[Gaseous](/post/gaseous/) compounds are [easily](/post/easily/) compressed."
-- **名词**: 指气体状态的物质。例如: "Oxygen [in](/post/in/) [its](/post/its/) [gaseous](/post/gaseous/) [form](/post/form/) is [invisible](/post/invisible/)."
+- **形容词**: 形容气体的，气态的，或像气体的。例如: "[Gaseous](/zh/post/gaseous/) compounds are [easily](/zh/post/easily/) compressed."
+- **名词**: 指气体状态的物质。例如: "Oxygen [in](/zh/post/in/) [its](/zh/post/its/) [gaseous](/zh/post/gaseous/) [form](/zh/post/form/) is [invisible](/zh/post/invisible/)."
 
 ## 短语
-- "[gaseous](/post/gaseous/) [state](/post/state/)" 指物质的气态。
-- "[gaseous](/post/gaseous/) emissions" 指排放的气体，如污染物。
+- "[gaseous](/zh/post/gaseous/) [state](/zh/post/state/)" 指物质的气态。
+- "[gaseous](/zh/post/gaseous/) emissions" 指排放的气体，如污染物。
 
 ## 例句
-- 形容词: "[The](/post/the/) [gaseous](/post/gaseous/) [substance](/post/substance/) diffused [quickly](/post/quickly/) [through](/post/through/) [the](/post/the/) [air](/post/air/)."
-- 名词: "[Carbon](/post/carbon/) dioxide is [a](/post/a/) colorless [gaseous](/post/gaseous/) [compound](/post/compound/)."
+- 形容词: "[The](/zh/post/the/) [gaseous](/zh/post/gaseous/) [substance](/zh/post/substance/) diffused [quickly](/zh/post/quickly/) [through](/zh/post/through/) [the](/zh/post/the/) [air](/zh/post/air/)."
+- 名词: "[Carbon](/zh/post/carbon/) dioxide is [a](/zh/post/a/) colorless [gaseous](/zh/post/gaseous/) [compound](/zh/post/compound/)."
 
 ## 同义词
 - Vaporous

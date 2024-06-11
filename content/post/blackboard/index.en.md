@@ -7,32 +7,32 @@ description = '[ˈblækbɔːd] n.黑板'
 keywords = ['ai words', 'blackboard']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /blækˈbɔːrd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [blackboard](/en/post/blackboard/) is [a](/en/post/a/) __noun__ [used](/en/post/used/) [in](/en/post/in/) educational settings [to](/en/post/to/) [write](/en/post/write/) [or](/en/post/or/) [draw](/en/post/draw/) [on](/en/post/on/) [with](/en/post/with/) [chalk](/en/post/chalk/) [or](/en/post/or/) [a](/en/post/a/) marker, typically [in](/en/post/in/) classrooms. [It](/en/post/it/) serves [as](/en/post/as/) [a](/en/post/a/) [visual](/en/post/visual/) [aid](/en/post/aid/) [for](/en/post/for/) [teaching](/en/post/teaching/) [and](/en/post/and/) [learning](/en/post/learning/).
+### [Noun](/post/noun/)
+[A](/post/a/) [blackboard](/post/blackboard/) is [a](/post/a/) __noun__ [used](/post/used/) [in](/post/in/) educational settings [to](/post/to/) [write](/post/write/) [or](/post/or/) [draw](/post/draw/) [on](/post/on/) [with](/post/with/) [chalk](/post/chalk/) [or](/post/or/) [a](/post/a/) marker, typically [in](/post/in/) classrooms. [It](/post/it/) serves [as](/post/as/) [a](/post/a/) [visual](/post/visual/) [aid](/post/aid/) [for](/post/for/) [teaching](/post/teaching/) [and](/post/and/) [learning](/post/learning/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [blackboard](/en/post/blackboard/), [or](/en/post/or/) __write [on](/en/post/on/) [a](/en/post/a/) blackboard__, is [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) using [a](/en/post/a/) [blackboard](/en/post/blackboard/) [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) illustrating [or](/en/post/or/) explaining [information](/en/post/information/).
+### [Verb](/post/verb/)
+[To](/post/to/) [blackboard](/post/blackboard/), [or](/post/or/) __write [on](/post/on/) [a](/post/a/) blackboard__, is [the](/post/the/) [action](/post/action/) [of](/post/of/) using [a](/post/a/) [blackboard](/post/blackboard/) [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) illustrating [or](/post/or/) explaining [information](/post/information/).
 
-### [Adjective](/en/post/adjective/)
-[Blackboard](/en/post/blackboard/) [can](/en/post/can/) [also](/en/post/also/) [function](/en/post/function/) [as](/en/post/as/) an __adjective__, describing [a](/en/post/a/) [surface](/en/post/surface/) [that](/en/post/that/) is [black](/en/post/black/) [or](/en/post/or/) dark-colored [and](/en/post/and/) intended [for](/en/post/for/) [writing](/en/post/writing/) [or](/en/post/or/) [drawing](/en/post/drawing/).
+### [Adjective](/post/adjective/)
+[Blackboard](/post/blackboard/) [can](/post/can/) [also](/post/also/) [function](/post/function/) [as](/post/as/) an __adjective__, describing [a](/post/a/) [surface](/post/surface/) [that](/post/that/) is [black](/post/black/) [or](/post/or/) dark-colored [and](/post/and/) intended [for](/post/for/) [writing](/post/writing/) [or](/post/or/) [drawing](/post/drawing/).
 
 ## Phrases
-- "[Write](/en/post/write/) [something](/en/post/something/) [on](/en/post/on/) [the](/en/post/the/) [blackboard](/en/post/blackboard/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) marking [a](/en/post/a/) [message](/en/post/message/) [or](/en/post/or/) [instruction](/en/post/instruction/).
-- "Erasing [the](/en/post/the/) [blackboard](/en/post/blackboard/)" refers [to](/en/post/to/) cleaning [it](/en/post/it/) [after](/en/post/after/) [use](/en/post/use/).
-- "[The](/en/post/the/) [blackboard](/en/post/blackboard/) is [a](/en/post/a/) relic [of](/en/post/of/) [the](/en/post/the/) [past](/en/post/past/)" suggests it's [a](/en/post/a/) [thing](/en/post/thing/) [from](/en/post/from/) [a](/en/post/a/) [previous](/en/post/previous/) [era](/en/post/era/).
+- "[Write](/post/write/) [something](/post/something/) [on](/post/on/) [the](/post/the/) [blackboard](/post/blackboard/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) marking [a](/post/a/) [message](/post/message/) [or](/post/or/) [instruction](/post/instruction/).
+- "Erasing [the](/post/the/) [blackboard](/post/blackboard/)" refers [to](/post/to/) cleaning [it](/post/it/) [after](/post/after/) [use](/post/use/).
+- "[The](/post/the/) [blackboard](/post/blackboard/) is [a](/post/a/) relic [of](/post/of/) [the](/post/the/) [past](/post/past/)" suggests it's [a](/post/a/) [thing](/post/thing/) [from](/post/from/) [a](/post/a/) [previous](/post/previous/) [era](/post/era/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) wrote [a](/en/post/a/) math [problem](/en/post/problem/) [on](/en/post/on/) [the](/en/post/the/) [blackboard](/en/post/blackboard/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [class](/en/post/class/), [she](/en/post/she/) spent [time](/en/post/time/) erasing [the](/en/post/the/) [blackboard](/en/post/blackboard/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) schoolhouse [still](/en/post/still/) had [a](/en/post/a/) [blackboard](/en/post/blackboard/) [in](/en/post/in/) [the](/en/post/the/) [corner](/en/post/corner/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [teacher](/post/teacher/) wrote [a](/post/a/) math [problem](/post/problem/) [on](/post/on/) [the](/post/the/) [blackboard](/post/blackboard/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [class](/post/class/), [she](/post/she/) spent [time](/post/time/) erasing [the](/post/the/) [blackboard](/post/blackboard/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) schoolhouse [still](/post/still/) had [a](/post/a/) [blackboard](/post/blackboard/) [in](/post/in/) [the](/post/the/) [corner](/post/corner/)."
 
 ## Synonyms
 - Chalkboard
-- Whiteboard ([though](/en/post/though/) [this](/en/post/this/) is [a](/en/post/a/) [different](/en/post/different/) [type](/en/post/type/) [of](/en/post/of/) [writing](/en/post/writing/) [surface](/en/post/surface/))
-- [Board](/en/post/board/)
-- [Blackboard](/en/post/blackboard/) [surface](/en/post/surface/)
-- [Teaching](/en/post/teaching/) [board](/en/post/board/)
+- Whiteboard ([though](/post/though/) [this](/post/this/) is [a](/post/a/) [different](/post/different/) [type](/post/type/) [of](/post/of/) [writing](/post/writing/) [surface](/post/surface/))
+- [Board](/post/board/)
+- [Blackboard](/post/blackboard/) [surface](/post/surface/)
+- [Teaching](/post/teaching/) [board](/post/board/)

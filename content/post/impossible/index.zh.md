@@ -11,20 +11,20 @@ keywords = ['ai words', 'impossible']
 /ɪmˈpɑːsəbl/
 
 ## 释义
-- **形容词**: 不可能的，无法做到的，难以实现的。例如: "It's [impossible](/post/impossible/) [to](/post/to/) [finish](/post/finish/) [this](/post/this/) [task](/post/task/) [in](/post/in/) [one](/post/one/) [day](/post/day/)."
-- **名词**: 不可实现的事物或无法解决的问题。例如: "[The](/post/the/) [problem](/post/problem/) seems [impossible](/post/impossible/) [to](/post/to/) [solve](/post/solve/)."
+- **形容词**: 不可能的，无法做到的，难以实现的。例如: "It's [impossible](/zh/post/impossible/) [to](/zh/post/to/) [finish](/zh/post/finish/) [this](/zh/post/this/) [task](/zh/post/task/) [in](/zh/post/in/) [one](/zh/post/one/) [day](/zh/post/day/)."
+- **名词**: 不可实现的事物或无法解决的问题。例如: "[The](/zh/post/the/) [problem](/zh/post/problem/) seems [impossible](/zh/post/impossible/) [to](/zh/post/to/) [solve](/zh/post/solve/)."
 
 ## 短语
-- "[Something](/post/something/) is [next](/post/next/) [to](/post/to/) [impossible](/post/impossible/)" 表示几乎不可能。
-- "[Impossible](/post/impossible/) standards" 指的是过高或不切实际的要求。
+- "[Something](/zh/post/something/) is [next](/zh/post/next/) [to](/zh/post/to/) [impossible](/zh/post/impossible/)" 表示几乎不可能。
+- "[Impossible](/zh/post/impossible/) standards" 指的是过高或不切实际的要求。
 
 ## 例句
-- 形容词: "[With](/post/with/) [this](/post/this/) workload, finishing [the](/post/the/) [project](/post/project/) [on](/post/on/) [time](/post/time/) is [practically](/post/practically/) [impossible](/post/impossible/)."
-- 名词: "[The](/post/the/) [impossible](/post/impossible/) [task](/post/task/) [of](/post/of/) predicting [the](/post/the/) [future](/post/future/) accurately has [always](/post/always/) intrigued scientists."
+- 形容词: "[With](/zh/post/with/) [this](/zh/post/this/) workload, finishing [the](/zh/post/the/) [project](/zh/post/project/) [on](/zh/post/on/) [time](/zh/post/time/) is [practically](/zh/post/practically/) [impossible](/zh/post/impossible/)."
+- 名词: "[The](/zh/post/the/) [impossible](/zh/post/impossible/) [task](/zh/post/task/) [of](/zh/post/of/) predicting [the](/zh/post/the/) [future](/zh/post/future/) accurately has [always](/zh/post/always/) intrigued scientists."
 
 ## 同义词
 - Unattainable
 - Infeasible
 - Unworkable
--[hopeless](/post/hopeless/)
+-[hopeless](/zh/post/hopeless/)
 - Unimaginable

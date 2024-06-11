@@ -7,33 +7,33 @@ description = '[film] n.影片；胶卷；薄层'
 keywords = ['ai words', 'film']
 +++
 
-## [Word](/en/post/word/): [Film](/en/post/film/)
+## [Word](/post/word/): [Film](/post/film/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fɪlm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [thin](/en/post/thin/) [flexible](/en/post/flexible/) [sheet](/en/post/sheet/) made [from](/en/post/from/) [a](/en/post/a/) [plastic](/en/post/plastic/) [material](/en/post/material/), [often](/en/post/often/) celluloid [or](/en/post/or/) polyester, coated [with](/en/post/with/) light-sensitive emulsion, [used](/en/post/used/) [to](/en/post/to/) [capture](/en/post/capture/) images [either](/en/post/either/) [by](/en/post/by/) [photographic](/en/post/photographic/) [or](/en/post/or/) [digital](/en/post/digital/) [means](/en/post/means/). [Example](/en/post/example/): "[They](/en/post/they/) developed [the](/en/post/the/) [film](/en/post/film/) [in](/en/post/in/) [a](/en/post/a/) darkroom."
-   - 2. [A](/en/post/a/) [motion](/en/post/motion/) [picture](/en/post/picture/); [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [still](/en/post/still/) photographs projected [on](/en/post/on/) [a](/en/post/a/) [screen](/en/post/screen/) [in](/en/post/in/) [rapid](/en/post/rapid/) [succession](/en/post/succession/) [to](/en/post/to/) [create](/en/post/create/) [the](/en/post/the/) illusion [of](/en/post/of/) [continuous](/en/post/continuous/) [movement](/en/post/movement/). [Example](/en/post/example/): "[We](/en/post/we/) watched an [old](/en/post/old/) black-and-white [film](/en/post/film/) [last](/en/post/last/) [night](/en/post/night/)."
-   - 3. [The](/en/post/the/) [art](/en/post/art/), [industry](/en/post/industry/), [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) making movies. [Example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [degree](/en/post/degree/) [in](/en/post/in/) [film](/en/post/film/) studies."
-   - 4. [A](/en/post/a/) coating [or](/en/post/or/) [layer](/en/post/layer/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) forms [a](/en/post/a/) [surface](/en/post/surface/) [finish](/en/post/finish/). [Example](/en/post/example/): "[A](/en/post/a/) [thin](/en/post/thin/) [film](/en/post/film/) [of](/en/post/of/) [oil](/en/post/oil/) [on](/en/post/on/) [water](/en/post/water/)."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [thin](/post/thin/) [flexible](/post/flexible/) [sheet](/post/sheet/) made [from](/post/from/) [a](/post/a/) [plastic](/post/plastic/) [material](/post/material/), [often](/post/often/) celluloid [or](/post/or/) polyester, coated [with](/post/with/) light-sensitive emulsion, [used](/post/used/) [to](/post/to/) [capture](/post/capture/) images [either](/post/either/) [by](/post/by/) [photographic](/post/photographic/) [or](/post/or/) [digital](/post/digital/) [means](/post/means/). [Example](/post/example/): "[They](/post/they/) developed [the](/post/the/) [film](/post/film/) [in](/post/in/) [a](/post/a/) darkroom."
+   - 2. [A](/post/a/) [motion](/post/motion/) [picture](/post/picture/); [a](/post/a/) [series](/post/series/) [of](/post/of/) [still](/post/still/) photographs projected [on](/post/on/) [a](/post/a/) [screen](/post/screen/) [in](/post/in/) [rapid](/post/rapid/) [succession](/post/succession/) [to](/post/to/) [create](/post/create/) [the](/post/the/) illusion [of](/post/of/) [continuous](/post/continuous/) [movement](/post/movement/). [Example](/post/example/): "[We](/post/we/) watched an [old](/post/old/) black-and-white [film](/post/film/) [last](/post/last/) [night](/post/night/)."
+   - 3. [The](/post/the/) [art](/post/art/), [industry](/post/industry/), [or](/post/or/) [process](/post/process/) [of](/post/of/) making movies. [Example](/post/example/): "[She](/post/she/) has [a](/post/a/) [degree](/post/degree/) [in](/post/in/) [film](/post/film/) studies."
+   - 4. [A](/post/a/) coating [or](/post/or/) [layer](/post/layer/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) forms [a](/post/a/) [surface](/post/surface/) [finish](/post/finish/). [Example](/post/example/): "[A](/post/a/) [thin](/post/thin/) [film](/post/film/) [of](/post/of/) [oil](/post/oil/) [on](/post/on/) [water](/post/water/)."
    
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [record](/en/post/record/) [or](/en/post/or/) [photograph](/en/post/photograph/) [something](/en/post/something/) using [a](/en/post/a/) [camera](/en/post/camera/) [or](/en/post/or/) [video](/en/post/video/) [equipment](/en/post/equipment/). [Example](/en/post/example/): "[The](/en/post/the/) [director](/en/post/director/) filmed [the](/en/post/the/) [scene](/en/post/scene/) [on](/en/post/on/) [location](/en/post/location/)."
-   - 2. [To](/en/post/to/) [cover](/en/post/cover/) [something](/en/post/something/) [with](/en/post/with/) [a](/en/post/a/) [thin](/en/post/thin/) [layer](/en/post/layer/) [or](/en/post/or/) coating. [Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [film](/en/post/film/) [the](/en/post/the/) windows [to](/en/post/to/) [reduce](/en/post/reduce/) [glare](/en/post/glare/)."
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [record](/post/record/) [or](/post/or/) [photograph](/post/photograph/) [something](/post/something/) using [a](/post/a/) [camera](/post/camera/) [or](/post/or/) [video](/post/video/) [equipment](/post/equipment/). [Example](/post/example/): "[The](/post/the/) [director](/post/director/) filmed [the](/post/the/) [scene](/post/scene/) [on](/post/on/) [location](/post/location/)."
+   - 2. [To](/post/to/) [cover](/post/cover/) [something](/post/something/) [with](/post/with/) [a](/post/a/) [thin](/post/thin/) [layer](/post/layer/) [or](/post/or/) coating. [Example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [film](/post/film/) [the](/post/the/) windows [to](/post/to/) [reduce](/post/reduce/) [glare](/post/glare/)."
 
 ## Phrases
-- "[To](/en/post/to/) [be](/en/post/be/) [on](/en/post/on/) [film](/en/post/film/)": [meaning](/en/post/meaning/) [to](/en/post/to/) [have](/en/post/have/) been recorded [or](/en/post/or/) photographed.
-- "[Film](/en/post/film/) noir": [a](/en/post/a/) [style](/en/post/style/) [of](/en/post/of/) Hollywood filmmaking characterized [by](/en/post/by/) cynical attitudes [and](/en/post/and/) bleak themes, [often](/en/post/often/) [with](/en/post/with/) stark lighting effects.
-- "[Feature](/en/post/feature/) [film](/en/post/film/)": [a](/en/post/a/) full-length [movie](/en/post/movie/) typically shown [in](/en/post/in/) [a](/en/post/a/) [cinema](/en/post/cinema/).
+- "[To](/post/to/) [be](/post/be/) [on](/post/on/) [film](/post/film/)": [meaning](/post/meaning/) [to](/post/to/) [have](/post/have/) been recorded [or](/post/or/) photographed.
+- "[Film](/post/film/) noir": [a](/post/a/) [style](/post/style/) [of](/post/of/) Hollywood filmmaking characterized [by](/post/by/) cynical attitudes [and](/post/and/) bleak themes, [often](/post/often/) [with](/post/with/) stark lighting effects.
+- "[Feature](/post/feature/) [film](/post/film/)": [a](/post/a/) full-length [movie](/post/movie/) typically shown [in](/post/in/) [a](/post/a/) [cinema](/post/cinema/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([photographic](/en/post/photographic/) [film](/en/post/film/))**: "I bought [a](/en/post/a/) [new](/en/post/new/) [roll](/en/post/roll/) [of](/en/post/of/) [film](/en/post/film/) [for](/en/post/for/) [my](/en/post/my/) vintage [camera](/en/post/camera/)."
-- **[Noun](/en/post/noun/) ([motion](/en/post/motion/) [picture](/en/post/picture/))**: "[This](/en/post/this/) [film](/en/post/film/) won [several](/en/post/several/) awards [at](/en/post/at/) [the](/en/post/the/) Cannes [Film](/en/post/film/) [Festival](/en/post/festival/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [crew](/en/post/crew/) spent [all](/en/post/all/) [day](/en/post/day/) filming [the](/en/post/the/) [action](/en/post/action/) [sequence](/en/post/sequence/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([photographic](/post/photographic/) [film](/post/film/))**: "I bought [a](/post/a/) [new](/post/new/) [roll](/post/roll/) [of](/post/of/) [film](/post/film/) [for](/post/for/) [my](/post/my/) vintage [camera](/post/camera/)."
+- **[Noun](/post/noun/) ([motion](/post/motion/) [picture](/post/picture/))**: "[This](/post/this/) [film](/post/film/) won [several](/post/several/) awards [at](/post/at/) [the](/post/the/) Cannes [Film](/post/film/) [Festival](/post/festival/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [crew](/post/crew/) spent [all](/post/all/) [day](/post/day/) filming [the](/post/the/) [action](/post/action/) [sequence](/post/sequence/)."
 
 ## Synonyms
-- [Motion](/en/post/motion/) [picture](/en/post/picture/)
-- [Movie](/en/post/movie/)
-- [Video](/en/post/video/)
-- Videotape ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [sense](/en/post/sense/))
-- [Coat](/en/post/coat/) ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [sense](/en/post/sense/) referring [to](/en/post/to/) applying [a](/en/post/a/) [layer](/en/post/layer/))
+- [Motion](/post/motion/) [picture](/post/picture/)
+- [Movie](/post/movie/)
+- [Video](/post/video/)
+- Videotape ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [sense](/post/sense/))
+- [Coat](/post/coat/) ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [sense](/post/sense/) referring [to](/post/to/) applying [a](/post/a/) [layer](/post/layer/))

@@ -11,16 +11,16 @@ keywords = ['ai words', 'waterproof']
 /wərˈtuːn/
 
 ## 释义
-- **形容词**: 能防水的；防潮的。例如: "[This](/post/this/) [coat](/post/coat/) is [waterproof](/post/waterproof/), [so](/post/so/) [you](/post/you/) won't [get](/post/get/) [wet](/post/wet/) [in](/post/in/) [the](/post/the/) [rain](/post/rain/)."
-- **动词**: 使...防水；使...防潮。例如: "I [need](/post/need/) [to](/post/to/) [waterproof](/post/waterproof/) [my](/post/my/) [tent](/post/tent/) [before](/post/before/) [the](/post/the/) camping [trip](/post/trip/)."
+- **形容词**: 能防水的；防潮的。例如: "[This](/zh/post/this/) [coat](/zh/post/coat/) is [waterproof](/zh/post/waterproof/), [so](/zh/post/so/) [you](/zh/post/you/) won't [get](/zh/post/get/) [wet](/zh/post/wet/) [in](/zh/post/in/) [the](/zh/post/the/) [rain](/zh/post/rain/)."
+- **动词**: 使...防水；使...防潮。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [waterproof](/zh/post/waterproof/) [my](/zh/post/my/) [tent](/zh/post/tent/) [before](/zh/post/before/) [the](/zh/post/the/) camping [trip](/zh/post/trip/)."
 
 ## 短语
-- "[waterproof](/post/waterproof/) [clothing](/post/clothing/)" 防水衣物
-- "waterproofing [a](/post/a/) [surface](/post/surface/)" 为表面做防水处理
+- "[waterproof](/zh/post/waterproof/) [clothing](/zh/post/clothing/)" 防水衣物
+- "waterproofing [a](/zh/post/a/) [surface](/zh/post/surface/)" 为表面做防水处理
 
 ## 例句
-- 形容词: "[She](/post/she/) bought [a](/post/a/) [new](/post/new/) backpack that's [completely](/post/completely/) [waterproof](/post/waterproof/)."
-- 动词: "[The](/post/the/) contractor [will](/post/will/) [waterproof](/post/waterproof/) [the](/post/the/) basement [to](/post/to/) [prevent](/post/prevent/) flooding."
+- 形容词: "[She](/zh/post/she/) bought [a](/zh/post/a/) [new](/zh/post/new/) backpack that's [completely](/zh/post/completely/) [waterproof](/zh/post/waterproof/)."
+- 动词: "[The](/zh/post/the/) contractor [will](/zh/post/will/) [waterproof](/zh/post/waterproof/) [the](/zh/post/the/) basement [to](/zh/post/to/) [prevent](/zh/post/prevent/) flooding."
 
 ## 同义词
 - water-resistant

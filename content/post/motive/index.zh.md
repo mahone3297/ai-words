@@ -11,20 +11,20 @@ keywords = ['ai words', 'motive']
 /məʊˈtiːv/
 
 ## 释义
-- **名词**: 动机，原因，目的。例如: "[The](/post/the/) [main](/post/main/) [motive](/post/motive/) [behind](/post/behind/) [his](/post/his/) actions was [to](/post/to/) [help](/post/help/) others."
-- **形容词**: 有动机的，有目的的。例如: "[A](/post/a/) [motive](/post/motive/) [crime](/post/crime/) is [one](/post/one/) committed [with](/post/with/) [a](/post/a/) [specific](/post/specific/) [intention](/post/intention/)."
+- **名词**: 动机，原因，目的。例如: "[The](/zh/post/the/) [main](/zh/post/main/) [motive](/zh/post/motive/) [behind](/zh/post/behind/) [his](/zh/post/his/) actions was [to](/zh/post/to/) [help](/zh/post/help/) others."
+- **形容词**: 有动机的，有目的的。例如: "[A](/zh/post/a/) [motive](/zh/post/motive/) [crime](/zh/post/crime/) is [one](/zh/post/one/) committed [with](/zh/post/with/) [a](/zh/post/a/) [specific](/zh/post/specific/) [intention](/zh/post/intention/)."
 
 ## 短语
-- "[Motive](/post/motive/) [force](/post/force/)" 意为动力，推动力。
-- "[Motive](/post/motive/) [power](/post/power/)" 指的是提供运动或工作能力的力量。
+- "[Motive](/zh/post/motive/) [force](/zh/post/force/)" 意为动力，推动力。
+- "[Motive](/zh/post/motive/) [power](/zh/post/power/)" 指的是提供运动或工作能力的力量。
 
 ## 例句
-- 名词: "Detectives were trying [to](/post/to/) [uncover](/post/uncover/) [the](/post/the/) killer's [motive](/post/motive/)."
-- 形容词: "[The](/post/the/) [suspect](/post/suspect/) had [a](/post/a/) [clear](/post/clear/) [motive](/post/motive/) [for](/post/for/) stealing [the](/post/the/) [valuable](/post/valuable/) artifact."
+- 名词: "Detectives were trying [to](/zh/post/to/) [uncover](/zh/post/uncover/) [the](/zh/post/the/) killer's [motive](/zh/post/motive/)."
+- 形容词: "[The](/zh/post/the/) [suspect](/zh/post/suspect/) had [a](/zh/post/a/) [clear](/zh/post/clear/) [motive](/zh/post/motive/) [for](/zh/post/for/) stealing [the](/zh/post/the/) [valuable](/zh/post/valuable/) artifact."
 
 ## 同义词
-- [Reason](/post/reason/)
-- [Purpose](/post/purpose/)
+- [Reason](/zh/post/reason/)
+- [Purpose](/zh/post/purpose/)
 - Intent
-- Driving [force](/post/force/)
+- Driving [force](/zh/post/force/)
 - Incentive

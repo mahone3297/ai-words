@@ -7,33 +7,33 @@ description = '[ˈbuzəm] n.胸，胸部；内心'
 keywords = ['ai words', 'bosom']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bəˈzʌm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (1) [The](/en/post/the/) innermost [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) person's [chest](/en/post/chest/), considered [a](/en/post/a/) [symbol](/en/post/symbol/) [of](/en/post/of/) intimacy [or](/en/post/or/) [affection](/en/post/affection/). "[She](/en/post/she/) shared [her](/en/post/her/) troubles [with](/en/post/with/) [me](/en/post/me/) [on](/en/post/on/) [her](/en/post/her/) [bosom](/en/post/bosom/)." (2) [A](/en/post/a/) [close](/en/post/close/) [relationship](/en/post/relationship/) [or](/en/post/or/) [friendship](/en/post/friendship/). "We've been friends [since](/en/post/since/) [childhood](/en/post/childhood/), sharing [our](/en/post/our/) deepest thoughts [on](/en/post/on/) [each](/en/post/each/) other's [bosom](/en/post/bosom/)."
-- **[Verb](/en/post/verb/)**: (1) [To](/en/post/to/) [place](/en/post/place/) [something](/en/post/something/) [close](/en/post/close/) [to](/en/post/to/) [the](/en/post/the/) [heart](/en/post/heart/) [or](/en/post/or/) [with](/en/post/with/) [great](/en/post/great/) [affection](/en/post/affection/). "[She](/en/post/she/) bosomed [the](/en/post/the/) [child](/en/post/child/) protectively." (2) [To](/en/post/to/) confide [in](/en/post/in/) [or](/en/post/or/) [seek](/en/post/seek/) [comfort](/en/post/comfort/) [from](/en/post/from/) [someone](/en/post/someone/). "[He](/en/post/he/) felt [safe](/en/post/safe/) [enough](/en/post/enough/) [to](/en/post/to/) [bosom](/en/post/bosom/) [his](/en/post/his/) secrets [with](/en/post/with/) [his](/en/post/his/) [best](/en/post/best/) [friend](/en/post/friend/)."
+- **[Noun](/post/noun/)**: (1) [The](/post/the/) innermost [part](/post/part/) [of](/post/of/) [a](/post/a/) person's [chest](/post/chest/), considered [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) intimacy [or](/post/or/) [affection](/post/affection/). "[She](/post/she/) shared [her](/post/her/) troubles [with](/post/with/) [me](/post/me/) [on](/post/on/) [her](/post/her/) [bosom](/post/bosom/)." (2) [A](/post/a/) [close](/post/close/) [relationship](/post/relationship/) [or](/post/or/) [friendship](/post/friendship/). "We've been friends [since](/post/since/) [childhood](/post/childhood/), sharing [our](/post/our/) deepest thoughts [on](/post/on/) [each](/post/each/) other's [bosom](/post/bosom/)."
+- **[Verb](/post/verb/)**: (1) [To](/post/to/) [place](/post/place/) [something](/post/something/) [close](/post/close/) [to](/post/to/) [the](/post/the/) [heart](/post/heart/) [or](/post/or/) [with](/post/with/) [great](/post/great/) [affection](/post/affection/). "[She](/post/she/) bosomed [the](/post/the/) [child](/post/child/) protectively." (2) [To](/post/to/) confide [in](/post/in/) [or](/post/or/) [seek](/post/seek/) [comfort](/post/comfort/) [from](/post/from/) [someone](/post/someone/). "[He](/post/he/) felt [safe](/post/safe/) [enough](/post/enough/) [to](/post/to/) [bosom](/post/bosom/) [his](/post/his/) secrets [with](/post/with/) [his](/post/his/) [best](/post/best/) [friend](/post/friend/)."
 
 ## Phrases
-- "[Bosom](/en/post/bosom/) [friendship](/en/post/friendship/)" refers [to](/en/post/to/) [a](/en/post/a/) [strong](/en/post/strong/) [bond](/en/post/bond/) [between](/en/post/between/) friends.
-- "[To](/en/post/to/) [open](/en/post/open/) one's [bosom](/en/post/bosom/) [to](/en/post/to/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [reveal](/en/post/reveal/) [oneself](/en/post/oneself/) emotionally [or](/en/post/or/) physically.
-- "[As](/en/post/as/) [close](/en/post/close/) [as](/en/post/as/) [bosom](/en/post/bosom/) brothers" describes [people](/en/post/people/) [who](/en/post/who/) are [very](/en/post/very/) [close](/en/post/close/) [and](/en/post/and/) supportive.
+- "[Bosom](/post/bosom/) [friendship](/post/friendship/)" refers [to](/post/to/) [a](/post/a/) [strong](/post/strong/) [bond](/post/bond/) [between](/post/between/) friends.
+- "[To](/post/to/) [open](/post/open/) one's [bosom](/post/bosom/) [to](/post/to/) [someone](/post/someone/)" [means](/post/means/) [to](/post/to/) [reveal](/post/reveal/) [oneself](/post/oneself/) emotionally [or](/post/or/) physically.
+- "[As](/post/as/) [close](/post/close/) [as](/post/as/) [bosom](/post/bosom/) brothers" describes [people](/post/people/) [who](/post/who/) are [very](/post/very/) [close](/post/close/) [and](/post/and/) supportive.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) wore [a](/en/post/a/) [necklace](/en/post/necklace/) [that](/en/post/that/) held [a](/en/post/a/) locket containing [a](/en/post/a/) [lock](/en/post/lock/) [of](/en/post/of/) [her](/en/post/her/) child's [hair](/en/post/hair/), [a](/en/post/a/) [precious](/en/post/precious/) keepsake [she](/en/post/she/) kept [close](/en/post/close/) [to](/en/post/to/) [her](/en/post/her/) [bosom](/en/post/bosom/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [he](/en/post/he/) returned [home](/en/post/home/) [to](/en/post/to/) [find](/en/post/find/) solace [and](/en/post/and/) [understanding](/en/post/understanding/) [on](/en/post/on/) [his](/en/post/his/) wife's [bosom](/en/post/bosom/)."
-- **Implied [Verb](/en/post/verb/)**: "[Their](/en/post/their/) hearts had [always](/en/post/always/) been [open](/en/post/open/), allowing [them](/en/post/them/) [to](/en/post/to/) [share](/en/post/share/) [their](/en/post/their/) joys [and](/en/post/and/) sorrows [without](/en/post/without/) hesitation."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) wore [a](/post/a/) [necklace](/post/necklace/) [that](/post/that/) held [a](/post/a/) locket containing [a](/post/a/) [lock](/post/lock/) [of](/post/of/) [her](/post/her/) child's [hair](/post/hair/), [a](/post/a/) [precious](/post/precious/) keepsake [she](/post/she/) kept [close](/post/close/) [to](/post/to/) [her](/post/her/) [bosom](/post/bosom/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) returned [home](/post/home/) [to](/post/to/) [find](/post/find/) solace [and](/post/and/) [understanding](/post/understanding/) [on](/post/on/) [his](/post/his/) wife's [bosom](/post/bosom/)."
+- **Implied [Verb](/post/verb/)**: "[Their](/post/their/) hearts had [always](/post/always/) been [open](/post/open/), allowing [them](/post/them/) [to](/post/to/) [share](/post/share/) [their](/post/their/) joys [and](/post/and/) sorrows [without](/post/without/) hesitation."
 
 ## Synonyms
-- [Heart](/en/post/heart/)
-- [Embrace](/en/post/embrace/)
-- [Tender](/en/post/tender/) [care](/en/post/care/)
+- [Heart](/post/heart/)
+- [Embrace](/post/embrace/)
+- [Tender](/post/tender/) [care](/post/care/)
 - Intimacy
-- [Warmth](/en/post/warmth/)
-- [Affection](/en/post/affection/)
+- [Warmth](/post/warmth/)
+- [Affection](/post/affection/)
 
 ## Antonyms
-- [Distance](/en/post/distance/)
+- [Distance](/post/distance/)
 - Detachment
 - Alienation
 -冷漠 (coldness)

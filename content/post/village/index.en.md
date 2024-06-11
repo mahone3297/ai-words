@@ -7,39 +7,39 @@ description = '[ˈvilidʒ] n.乡村，村庄'
 keywords = ['ai words', 'village']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vɪˈlɪdʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/) [community](/en/post/community/) [or](/en/post/or/) cluster [of](/en/post/of/) houses, typically [in](/en/post/in/) [a](/en/post/a/) [rural](/en/post/rural/) [area](/en/post/area/), inhabited [by](/en/post/by/) [a](/en/post/a/) [small](/en/post/small/) [population](/en/post/population/). [**Etymology**: [Old](/en/post/old/) French villag(e) [from](/en/post/from/) Latin villa, [from](/en/post/from/) villa rustica [country](/en/post/country/) estate]
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/) [community](/post/community/) [or](/post/or/) cluster [of](/post/of/) houses, typically [in](/post/in/) [a](/post/a/) [rural](/post/rural/) [area](/post/area/), inhabited [by](/post/by/) [a](/post/a/) [small](/post/small/) [population](/post/population/). [**Etymology**: [Old](/post/old/) French villag(e) [from](/post/from/) Latin villa, [from](/post/from/) villa rustica [country](/post/country/) estate]
 
 ## Phrases
-- "[Live](/en/post/live/) [in](/en/post/in/) [a](/en/post/a/) [village](/en/post/village/)" [means](/en/post/means/) [to](/en/post/to/) reside [in](/en/post/in/) [a](/en/post/a/) [small](/en/post/small/) [village](/en/post/village/).
-- "[A](/en/post/a/) [village](/en/post/village/) [green](/en/post/green/)" refers [to](/en/post/to/) [a](/en/post/a/) [common](/en/post/common/) [or](/en/post/or/) [open](/en/post/open/) [space](/en/post/space/) [in](/en/post/in/) [a](/en/post/a/) [village](/en/post/village/).
-- "[Village](/en/post/village/) [life](/en/post/life/)" describes [the](/en/post/the/) [simple](/en/post/simple/), close-knit lifestyle [found](/en/post/found/) [in](/en/post/in/) [rural](/en/post/rural/) communities.
+- "[Live](/post/live/) [in](/post/in/) [a](/post/a/) [village](/post/village/)" [means](/post/means/) [to](/post/to/) reside [in](/post/in/) [a](/post/a/) [small](/post/small/) [village](/post/village/).
+- "[A](/post/a/) [village](/post/village/) [green](/post/green/)" refers [to](/post/to/) [a](/post/a/) [common](/post/common/) [or](/post/or/) [open](/post/open/) [space](/post/space/) [in](/post/in/) [a](/post/a/) [village](/post/village/).
+- "[Village](/post/village/) [life](/post/life/)" describes [the](/post/the/) [simple](/post/simple/), close-knit lifestyle [found](/post/found/) [in](/post/in/) [rural](/post/rural/) communities.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [village](/en/post/village/) was surrounded [by](/en/post/by/) rolling hills [and](/en/post/and/) [a](/en/post/a/) [peaceful](/en/post/peaceful/) [river](/en/post/river/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) children helped [their](/en/post/their/) grandparents [tend](/en/post/tend/) [to](/en/post/to/) [the](/en/post/the/) [village](/en/post/village/) [garden](/en/post/garden/) [every](/en/post/every/) [weekend](/en/post/weekend/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) quaint [village](/en/post/village/) had [a](/en/post/a/) [traditional](/en/post/traditional/) charm [that](/en/post/that/) attracted tourists."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [village](/post/village/) was surrounded [by](/post/by/) rolling hills [and](/post/and/) [a](/post/a/) [peaceful](/post/peaceful/) [river](/post/river/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) children helped [their](/post/their/) grandparents [tend](/post/tend/) [to](/post/to/) [the](/post/the/) [village](/post/village/) [garden](/post/garden/) [every](/post/every/) [weekend](/post/weekend/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) quaint [village](/post/village/) had [a](/post/a/) [traditional](/post/traditional/) charm [that](/post/that/) attracted tourists."
 
 ## Synonyms
 - Hamlet
-- [Settlement](/en/post/settlement/)
+- [Settlement](/post/settlement/)
 - Cluster
-- [Community](/en/post/community/)
-- [Rural](/en/post/rural/) hamlet
+- [Community](/post/community/)
+- [Rural](/post/rural/) hamlet
 
 ## Antonyms
-- [City](/en/post/city/)
+- [City](/post/city/)
 - Urban
 - Metropolis
 - Borough
-- [Town](/en/post/town/) (larger [than](/en/post/than/) [a](/en/post/a/) [village](/en/post/village/) [but](/en/post/but/) smaller [than](/en/post/than/) [a](/en/post/a/) [city](/en/post/city/))
+- [Town](/post/town/) (larger [than](/post/than/) [a](/post/a/) [village](/post/village/) [but](/post/but/) smaller [than](/post/than/) [a](/post/a/) [city](/post/city/))
 
 ## Related Words
 - Villager
 - Villagewoman
-- [Village](/en/post/village/) idiot ([a](/en/post/a/) derogatory [term](/en/post/term/), [not](/en/post/not/) recommended)
-- [Village](/en/post/village/) [council](/en/post/council/)
-- [Village](/en/post/village/) [festival](/en/post/festival/)
+- [Village](/post/village/) idiot ([a](/post/a/) derogatory [term](/post/term/), [not](/post/not/) recommended)
+- [Village](/post/village/) [council](/post/council/)
+- [Village](/post/village/) [festival](/post/festival/)

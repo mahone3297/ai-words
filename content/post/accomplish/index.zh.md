@@ -11,20 +11,20 @@ keywords = ['ai words', 'accomplish']
 /əˈkʌmplɪʃ/
 
 ## 释义
-- **动词**: 完成，实现（目标、任务等）。例如: "[She](/post/she/) accomplished [her](/post/her/) [goal](/post/goal/) [of](/post/of/) running [a](/post/a/) marathon."
-- **名词**: 成就，业绩。例如: "[His](/post/his/) accomplishments [in](/post/in/) [science](/post/science/) are [remarkable](/post/remarkable/)."
+- **动词**: 完成，实现（目标、任务等）。例如: "[She](/zh/post/she/) accomplished [her](/zh/post/her/) [goal](/zh/post/goal/) [of](/zh/post/of/) running [a](/zh/post/a/) marathon."
+- **名词**: 成就，业绩。例如: "[His](/zh/post/his/) accomplishments [in](/zh/post/in/) [science](/zh/post/science/) are [remarkable](/zh/post/remarkable/)."
 
 ## 短语
-- "[accomplish](/post/accomplish/) one's goals" 达成自己的目标。
-- "[accomplish](/post/accomplish/) [a](/post/a/) [task](/post/task/)" 完成一项任务。
+- "[accomplish](/zh/post/accomplish/) one's goals" 达成自己的目标。
+- "[accomplish](/zh/post/accomplish/) [a](/zh/post/a/) [task](/zh/post/task/)" 完成一项任务。
 
 ## 例句
-- 动词: "[With](/post/with/) [hard](/post/hard/) [work](/post/work/) [and](/post/and/) dedication, [he](/post/he/) accomplished [his](/post/his/) [dream](/post/dream/) [of](/post/of/) becoming [a](/post/a/) [pilot](/post/pilot/)."
-- 名词: "[The](/post/the/) athlete's accomplishments [on](/post/on/) [the](/post/the/) [field](/post/field/) earned [him](/post/him/) [widespread](/post/widespread/) [recognition](/post/recognition/)."
+- 动词: "[With](/zh/post/with/) [hard](/zh/post/hard/) [work](/zh/post/work/) [and](/zh/post/and/) dedication, [he](/zh/post/he/) accomplished [his](/zh/post/his/) [dream](/zh/post/dream/) [of](/zh/post/of/) becoming [a](/zh/post/a/) [pilot](/zh/post/pilot/)."
+- 名词: "[The](/zh/post/the/) athlete's accomplishments [on](/zh/post/on/) [the](/zh/post/the/) [field](/zh/post/field/) earned [him](/zh/post/him/) [widespread](/zh/post/widespread/) [recognition](/zh/post/recognition/)."
 
 ## 同义词
-- [Achieve](/post/achieve/)
-- [Complete](/post/complete/)
+- [Achieve](/zh/post/achieve/)
+- [Complete](/zh/post/complete/)
 - Fulfill
-- [Attain](/post/attain/)
-- [Realize](/post/realize/)
+- [Attain](/zh/post/attain/)
+- [Realize](/zh/post/realize/)

@@ -12,22 +12,22 @@ keywords = ['ai words', 'lie']
 
 ## 释义
 - **动词**:
-  - 呈现虚假的情况，说谎。例如: "[He](/post/he/) lied [about](/post/about/) [his](/post/his/) [age](/post/age/) [to](/post/to/) [get](/post/get/) [the](/post/the/) [job](/post/job/)."
-  - 平躺，处于休息状态。例如: "[She](/post/she/) was lying [on](/post/on/) [the](/post/the/) couch watching TV."
+  - 呈现虚假的情况，说谎。例如: "[He](/zh/post/he/) lied [about](/zh/post/about/) [his](/zh/post/his/) [age](/zh/post/age/) [to](/zh/post/to/) [get](/zh/post/get/) [the](/zh/post/the/) [job](/zh/post/job/)."
+  - 平躺，处于休息状态。例如: "[She](/zh/post/she/) was lying [on](/zh/post/on/) [the](/zh/post/the/) couch watching TV."
 
 - **名词**:
-  - 谎言，不实之词。例如: "[The](/post/the/) [story](/post/story/) [he](/post/he/) told was [a](/post/a/) [complete](/post/complete/) [lie](/post/lie/)."
+  - 谎言，不实之词。例如: "[The](/zh/post/the/) [story](/zh/post/story/) [he](/zh/post/he/) told was [a](/zh/post/a/) [complete](/zh/post/complete/) [lie](/zh/post/lie/)."
 
 ## 短语
-- "[Lie](/post/lie/) [down](/post/down/)" 意为躺下。
-- "[Tell](/post/tell/) [a](/post/a/) [lie](/post/lie/)" 意为说谎。
+- "[Lie](/zh/post/lie/) [down](/zh/post/down/)" 意为躺下。
+- "[Tell](/zh/post/tell/) [a](/zh/post/a/) [lie](/zh/post/lie/)" 意为说谎。
 
 ## 例句
-- 动词: "[She](/post/she/) lied [when](/post/when/) [she](/post/she/) said [she](/post/she/) had finished [her](/post/her/) homework."
-- 名词: "[His](/post/his/) [explanation](/post/explanation/) was [just](/post/just/) [a](/post/a/) cleverly constructed [lie](/post/lie/)."
+- 动词: "[She](/zh/post/she/) lied [when](/zh/post/when/) [she](/zh/post/she/) said [she](/zh/post/she/) had finished [her](/zh/post/her/) homework."
+- 名词: "[His](/zh/post/his/) [explanation](/zh/post/explanation/) was [just](/zh/post/just/) [a](/zh/post/a/) cleverly constructed [lie](/zh/post/lie/)."
 
 ## 同义词
-- [Deceive](/post/deceive/)
+- [Deceive](/zh/post/deceive/)
 - Fabricate
 - Misrepresent
 - Prevaricate

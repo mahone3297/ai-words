@@ -7,48 +7,48 @@ description = '[disˈtrɔi] vt.破坏；消灭；打破'
 keywords = ['ai words', 'destroy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈstrɔɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) causing [something](/en/post/something/) [to](/en/post/to/) [be](/en/post/be/) destroyed [or](/en/post/or/) demolished.
-2. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) ruined [or](/en/post/or/) demolished.
-3. [A](/en/post/a/) [complete](/en/post/complete/) [and](/en/post/and/) [utter](/en/post/utter/) [ruin](/en/post/ruin/) [or](/en/post/or/) devastation.
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) causing [something](/post/something/) [to](/post/to/) [be](/post/be/) destroyed [or](/post/or/) demolished.
+2. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) ruined [or](/post/or/) demolished.
+3. [A](/post/a/) [complete](/post/complete/) [and](/post/and/) [utter](/post/utter/) [ruin](/post/ruin/) [or](/post/or/) devastation.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [cause](/en/post/cause/) ([something](/en/post/something/)) [to](/en/post/to/) [cease](/en/post/cease/) [to](/en/post/to/) [exist](/en/post/exist/), [to](/en/post/to/) [be](/en/post/be/) damaged [beyond](/en/post/beyond/) [repair](/en/post/repair/), [or](/en/post/or/) [to](/en/post/to/) [be](/en/post/be/) altered irreversibly.
-2. [To](/en/post/to/) demolish [or](/en/post/or/) [reduce](/en/post/reduce/) [to](/en/post/to/) rubble.
-3. [To](/en/post/to/) utterly [ruin](/en/post/ruin/) [or](/en/post/or/) devastate [the](/en/post/the/) morale, [reputation](/en/post/reputation/), [or](/en/post/or/) prospects [of](/en/post/of/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [cause](/post/cause/) ([something](/post/something/)) [to](/post/to/) [cease](/post/cease/) [to](/post/to/) [exist](/post/exist/), [to](/post/to/) [be](/post/be/) damaged [beyond](/post/beyond/) [repair](/post/repair/), [or](/post/or/) [to](/post/to/) [be](/post/be/) altered irreversibly.
+2. [To](/post/to/) demolish [or](/post/or/) [reduce](/post/reduce/) [to](/post/to/) rubble.
+3. [To](/post/to/) utterly [ruin](/post/ruin/) [or](/post/or/) devastate [the](/post/the/) morale, [reputation](/post/reputation/), [or](/post/or/) prospects [of](/post/of/).
 
 ## Phrases
-- "[Destroy](/en/post/destroy/) an enemy's stronghold"
-- "[The](/en/post/the/) [building](/en/post/building/) was destroyed [in](/en/post/in/) [a](/en/post/a/) [fire](/en/post/fire/)"
-- "[Her](/en/post/her/) [confidence](/en/post/confidence/) was [completely](/en/post/completely/) destroyed [by](/en/post/by/) [the](/en/post/the/) [news](/en/post/news/)"
+- "[Destroy](/post/destroy/) an enemy's stronghold"
+- "[The](/post/the/) [building](/post/building/) was destroyed [in](/post/in/) [a](/post/a/) [fire](/post/fire/)"
+- "[Her](/post/her/) [confidence](/post/confidence/) was [completely](/post/completely/) destroyed [by](/post/by/) [the](/post/the/) [news](/post/news/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [city](/en/post/city/) was reduced [to](/en/post/to/) ruins [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [war](/en/post/war/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) archaeologists carefully excavated [the](/en/post/the/) [site](/en/post/site/) [to](/en/post/to/) [prevent](/en/post/prevent/) [further](/en/post/further/) [destruction](/en/post/destruction/) [of](/en/post/of/) artifacts."
-- **[Sentence](/en/post/sentence/) [with](/en/post/with/) '[destroy](/en/post/destroy/)' [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[The](/en/post/the/) [storm](/en/post/storm/) caused [widespread](/en/post/widespread/) [destruction](/en/post/destruction/) [across](/en/post/across/) [the](/en/post/the/) [region](/en/post/region/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ancient](/post/ancient/) [city](/post/city/) was reduced [to](/post/to/) ruins [after](/post/after/) [a](/post/a/) [long](/post/long/) [war](/post/war/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) archaeologists carefully excavated [the](/post/the/) [site](/post/site/) [to](/post/to/) [prevent](/post/prevent/) [further](/post/further/) [destruction](/post/destruction/) [of](/post/of/) artifacts."
+- **[Sentence](/post/sentence/) [with](/post/with/) '[destroy](/post/destroy/)' [as](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "[The](/post/the/) [storm](/post/storm/) caused [widespread](/post/widespread/) [destruction](/post/destruction/) [across](/post/across/) [the](/post/the/) [region](/post/region/)."
 
 ## Synonyms
 - Eradicate
 - Demolish
-- [Wreck](/en/post/wreck/)
-- [Ruin](/en/post/ruin/)
+- [Wreck](/post/wreck/)
+- [Ruin](/post/ruin/)
 - Extinguish
 - Annihilate
 - Devastate
 
 ## Antonyms
-- [Build](/en/post/build/)
-- [Preserve](/en/post/preserve/)
-- [Restore](/en/post/restore/)
+- [Build](/post/build/)
+- [Preserve](/post/preserve/)
+- [Restore](/post/restore/)
 - Revive
 - Enhance
-- [Protect](/en/post/protect/)
+- [Protect](/post/protect/)
 
-## [Usage](/en/post/usage/)
-- "[The](/en/post/the/) soldiers were ordered [to](/en/post/to/) [destroy](/en/post/destroy/) [the](/en/post/the/) enemy's [supply](/en/post/supply/) lines."
-- "[After](/en/post/after/) [the](/en/post/the/) hurricane, volunteers worked tirelessly [to](/en/post/to/) [destroy](/en/post/destroy/) [the](/en/post/the/) debris [and](/en/post/and/) rebuild homes."
-- "[His](/en/post/his/) [argument](/en/post/argument/) was [so](/en/post/so/) compelling [that](/en/post/that/) [it](/en/post/it/) effectively destroyed [her](/en/post/her/) [argument](/en/post/argument/)."
+## [Usage](/post/usage/)
+- "[The](/post/the/) soldiers were ordered [to](/post/to/) [destroy](/post/destroy/) [the](/post/the/) enemy's [supply](/post/supply/) lines."
+- "[After](/post/after/) [the](/post/the/) hurricane, volunteers worked tirelessly [to](/post/to/) [destroy](/post/destroy/) [the](/post/the/) debris [and](/post/and/) rebuild homes."
+- "[His](/post/his/) [argument](/post/argument/) was [so](/post/so/) compelling [that](/post/that/) [it](/post/it/) effectively destroyed [her](/post/her/) [argument](/post/argument/)."

@@ -11,20 +11,20 @@ keywords = ['ai words', 'when']
 /wen/
 
 ## 释义
-- **连词**: 引导时间状语从句，表示“在…时候”或“当…时”。例如: "I'll [call](/post/call/) [you](/post/you/) [when](/post/when/) I [arrive](/post/arrive/) [home](/post/home/)."
-- **疑问词**: 询问时间。例如: "[When](/post/when/) did [the](/post/the/) [meeting](/post/meeting/) [start](/post/start/)?"
+- **连词**: 引导时间状语从句，表示“在…时候”或“当…时”。例如: "I'll [call](/zh/post/call/) [you](/zh/post/you/) [when](/zh/post/when/) I [arrive](/zh/post/arrive/) [home](/zh/post/home/)."
+- **疑问词**: 询问时间。例如: "[When](/zh/post/when/) did [the](/zh/post/the/) [meeting](/zh/post/meeting/) [start](/zh/post/start/)?"
 
 ## 短语
-- "[When](/post/when/) [in](/post/in/) Rome, [do](/post/do/) [as](/post/as/) [the](/post/the/) Romans [do](/post/do/)" 意为入乡随俗。
-- "[When](/post/when/) [it](/post/it/) rains, [it](/post/it/) pours" 表示不好的事情往往会接踵而至。
+- "[When](/zh/post/when/) [in](/zh/post/in/) Rome, [do](/zh/post/do/) [as](/zh/post/as/) [the](/zh/post/the/) Romans [do](/zh/post/do/)" 意为入乡随俗。
+- "[When](/zh/post/when/) [it](/zh/post/it/) rains, [it](/zh/post/it/) pours" 表示不好的事情往往会接踵而至。
 
 ## 例句
-- 连词: "[She](/post/she/) started studying [when](/post/when/) [she](/post/she/) was [just](/post/just/) [five](/post/five/) years [old](/post/old/)."
-- 疑问词: "[When](/post/when/) [will](/post/will/) [we](/post/we/) [have](/post/have/) [the](/post/the/) [next](/post/next/) [meeting](/post/meeting/)?"
+- 连词: "[She](/zh/post/she/) started studying [when](/zh/post/when/) [she](/zh/post/she/) was [just](/zh/post/just/) [five](/zh/post/five/) years [old](/zh/post/old/)."
+- 疑问词: "[When](/zh/post/when/) [will](/zh/post/will/) [we](/zh/post/we/) [have](/zh/post/have/) [the](/zh/post/the/) [next](/zh/post/next/) [meeting](/zh/post/meeting/)?"
 
 ## 同义词
-- [At](/post/at/) [what](/post/what/) [time](/post/time/)
-- [On](/post/on/) [what](/post/what/) [occasion](/post/occasion/)
-- [During](/post/during/) [which](/post/which/) [period](/post/period/)
-- [In](/post/in/) [what](/post/what/) circumstances
-- [Provided](/post/provided/) [that](/post/that/) (在某种条件下)
+- [At](/zh/post/at/) [what](/zh/post/what/) [time](/zh/post/time/)
+- [On](/zh/post/on/) [what](/zh/post/what/) [occasion](/zh/post/occasion/)
+- [During](/zh/post/during/) [which](/zh/post/which/) [period](/zh/post/period/)
+- [In](/zh/post/in/) [what](/zh/post/what/) circumstances
+- [Provided](/zh/post/provided/) [that](/zh/post/that/) (在某种条件下)

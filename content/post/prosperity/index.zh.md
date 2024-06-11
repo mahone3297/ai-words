@@ -11,20 +11,20 @@ keywords = ['ai words', 'prosperity']
 /ˈprɑːspərəti/
 
 ## 释义
-- **名词**: 成功，繁荣，富饶。例如: "[The](/post/the/) [country](/post/country/) enjoyed [a](/post/a/) [period](/post/period/) [of](/post/of/) [great](/post/great/) [prosperity](/post/prosperity/) [after](/post/after/) [the](/post/the/) [war](/post/war/)."
-- **形容词**: 富裕的，繁荣昌盛的。例如: "[Their](/post/their/) [business](/post/business/) is experiencing [prosperity](/post/prosperity/) [and](/post/and/) expanding [rapidly](/post/rapidly/)."
+- **名词**: 成功，繁荣，富饶。例如: "[The](/zh/post/the/) [country](/zh/post/country/) enjoyed [a](/zh/post/a/) [period](/zh/post/period/) [of](/zh/post/of/) [great](/zh/post/great/) [prosperity](/zh/post/prosperity/) [after](/zh/post/after/) [the](/zh/post/the/) [war](/zh/post/war/)."
+- **形容词**: 富裕的，繁荣昌盛的。例如: "[Their](/zh/post/their/) [business](/zh/post/business/) is experiencing [prosperity](/zh/post/prosperity/) [and](/zh/post/and/) expanding [rapidly](/zh/post/rapidly/)."
 
 ## 短语
-- "[Prosperous](/post/prosperous/) [economy](/post/economy/)" 指的是经济繁荣。
-- "[Prosperity](/post/prosperity/) mindset" 意味着积极向上的成功心态。
+- "[Prosperous](/zh/post/prosperous/) [economy](/zh/post/economy/)" 指的是经济繁荣。
+- "[Prosperity](/zh/post/prosperity/) mindset" 意味着积极向上的成功心态。
 
 ## 例句
-- 名词: "[The](/post/the/) government's policies [aim](/post/aim/) [to](/post/to/) [bring](/post/bring/) [prosperity](/post/prosperity/) [to](/post/to/) [all](/post/all/) citizens."
-- 形容词: "[The](/post/the/) [city](/post/city/) has seen [prosperity](/post/prosperity/) [in](/post/in/) [recent](/post/recent/) years, [with](/post/with/) [new](/post/new/) businesses [opening](/post/opening/) [up](/post/up/)."
+- 名词: "[The](/zh/post/the/) government's policies [aim](/zh/post/aim/) [to](/zh/post/to/) [bring](/zh/post/bring/) [prosperity](/zh/post/prosperity/) [to](/zh/post/to/) [all](/zh/post/all/) citizens."
+- 形容词: "[The](/zh/post/the/) [city](/zh/post/city/) has seen [prosperity](/zh/post/prosperity/) [in](/zh/post/in/) [recent](/zh/post/recent/) years, [with](/zh/post/with/) [new](/zh/post/new/) businesses [opening](/zh/post/opening/) [up](/zh/post/up/)."
 
 ## 同义词
-- [Wealth](/post/wealth/)
-- [Success](/post/success/)
-- [Flourish](/post/flourish/)
+- [Wealth](/zh/post/wealth/)
+- [Success](/zh/post/success/)
+- [Flourish](/zh/post/flourish/)
 - Opulence
 - Booming

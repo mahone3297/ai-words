@@ -7,32 +7,32 @@ description = '[ˈðeəfɔː] ad.因此，所以'
 keywords = ['ai words', 'therefore']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ðeərˈfɔː(r)/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Conveys [the](/en/post/the/) [result](/en/post/result/), [conclusion](/en/post/conclusion/), [or](/en/post/or/) [consequence](/en/post/consequence/) [of](/en/post/of/) [a](/en/post/a/) [previous](/en/post/previous/) [statement](/en/post/statement/) [or](/en/post/or/) [action](/en/post/action/). [It](/en/post/it/) typically introduces [a](/en/post/a/) clause [that](/en/post/that/) explains [or](/en/post/or/) sums [up](/en/post/up/) [the](/en/post/the/) [preceding](/en/post/preceding/) [point](/en/post/point/). 
+- **[Adverb](/post/adverb/)**: Conveys [the](/post/the/) [result](/post/result/), [conclusion](/post/conclusion/), [or](/post/or/) [consequence](/post/consequence/) [of](/post/of/) [a](/post/a/) [previous](/post/previous/) [statement](/post/statement/) [or](/post/or/) [action](/post/action/). [It](/post/it/) typically introduces [a](/post/a/) clause [that](/post/that/) explains [or](/post/or/) sums [up](/post/up/) [the](/post/the/) [preceding](/post/preceding/) [point](/post/point/). 
 
 ## Phrases
-- "[Therefore](/en/post/therefore/), [it](/en/post/it/) was decided..."
-- "[As](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/), [they](/en/post/they/) changed [their](/en/post/their/) plans."
-- "[In](/en/post/in/) [conclusion](/en/post/conclusion/), [he](/en/post/he/) won [the](/en/post/the/) [award](/en/post/award/)."
+- "[Therefore](/post/therefore/), [it](/post/it/) was decided..."
+- "[As](/post/as/) [a](/post/a/) [result](/post/result/), [they](/post/they/) changed [their](/post/their/) plans."
+- "[In](/post/in/) [conclusion](/post/conclusion/), [he](/post/he/) won [the](/post/the/) [award](/post/award/)."
 
-## [Example](/en/post/example/) Sentences
-- "[The](/en/post/the/) [weather](/en/post/weather/) was [terrible](/en/post/terrible/), [so](/en/post/so/) [we](/en/post/we/) canceled [the](/en/post/the/) [picnic](/en/post/picnic/); [therefore](/en/post/therefore/), [we](/en/post/we/) stayed [home](/en/post/home/)."
-- "[She](/en/post/she/) studied [hard](/en/post/hard/) [all](/en/post/all/) [semester](/en/post/semester/); [therefore](/en/post/therefore/), [she](/en/post/she/) aced [the](/en/post/the/) [final](/en/post/final/) [exam](/en/post/exam/)."
-- "[Due](/en/post/due/) [to](/en/post/to/) unforeseen circumstances, [the](/en/post/the/) [event](/en/post/event/) had [to](/en/post/to/) [be](/en/post/be/) postponed; [thus](/en/post/thus/), [it](/en/post/it/) was rescheduled [for](/en/post/for/) [next](/en/post/next/) [month](/en/post/month/)."
+## [Example](/post/example/) Sentences
+- "[The](/post/the/) [weather](/post/weather/) was [terrible](/post/terrible/), [so](/post/so/) [we](/post/we/) canceled [the](/post/the/) [picnic](/post/picnic/); [therefore](/post/therefore/), [we](/post/we/) stayed [home](/post/home/)."
+- "[She](/post/she/) studied [hard](/post/hard/) [all](/post/all/) [semester](/post/semester/); [therefore](/post/therefore/), [she](/post/she/) aced [the](/post/the/) [final](/post/final/) [exam](/post/exam/)."
+- "[Due](/post/due/) [to](/post/to/) unforeseen circumstances, [the](/post/the/) [event](/post/event/) had [to](/post/to/) [be](/post/be/) postponed; [thus](/post/thus/), [it](/post/it/) was rescheduled [for](/post/for/) [next](/post/next/) [month](/post/month/)."
 
 ## Synonyms
-- [Consequently](/en/post/consequently/)
-- [Thus](/en/post/thus/)
-- [Hence](/en/post/hence/)
+- [Consequently](/post/consequently/)
+- [Thus](/post/thus/)
+- [Hence](/post/hence/)
 - Ergo
-- [Accordingly](/en/post/accordingly/)
-- [As](/en/post/as/) [such](/en/post/such/)
+- [Accordingly](/post/accordingly/)
+- [As](/post/as/) [such](/post/such/)
 - Inasmuch
-- [For](/en/post/for/) [this](/en/post/this/) [reason](/en/post/reason/)
+- [For](/post/for/) [this](/post/this/) [reason](/post/reason/)
 
-## [Usage](/en/post/usage/)
-- "[After](/en/post/after/) [several](/en/post/several/) failed attempts, [he](/en/post/he/) [finally](/en/post/finally/) succeeded; [therefore](/en/post/therefore/), [he](/en/post/he/) felt [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) accomplishment."
-- "[The](/en/post/the/) [team](/en/post/team/) lost [the](/en/post/the/) [first](/en/post/first/) [match](/en/post/match/), [but](/en/post/but/) [they](/en/post/they/) trained diligently; [therefore](/en/post/therefore/), [they](/en/post/they/) won [the](/en/post/the/) championship."
+## [Usage](/post/usage/)
+- "[After](/post/after/) [several](/post/several/) failed attempts, [he](/post/he/) [finally](/post/finally/) succeeded; [therefore](/post/therefore/), [he](/post/he/) felt [a](/post/a/) [sense](/post/sense/) [of](/post/of/) accomplishment."
+- "[The](/post/the/) [team](/post/team/) lost [the](/post/the/) [first](/post/first/) [match](/post/match/), [but](/post/but/) [they](/post/they/) trained diligently; [therefore](/post/therefore/), [they](/post/they/) won [the](/post/the/) championship."

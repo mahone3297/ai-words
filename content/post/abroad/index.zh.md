@@ -11,22 +11,22 @@ keywords = ['ai words', 'abroad']
 /əˈbrɔːd/
 
 ## 释义
-- **副词**: 在国外；到国外。例如: "I'm going [abroad](/post/abroad/) [for](/post/for/) [my](/post/my/) studies [next](/post/next/) [year](/post/year/)."
-- **形容词**: 在海外的；外国的。例如: "[She](/post/she/) has an [interest](/post/interest/) [in](/post/in/) [foreign](/post/foreign/) cultures, [so](/post/so/) [she](/post/she/) reads [abroad](/post/abroad/) [literature](/post/literature/) [often](/post/often/)."
+- **副词**: 在国外；到国外。例如: "I'm going [abroad](/zh/post/abroad/) [for](/zh/post/for/) [my](/zh/post/my/) studies [next](/zh/post/next/) [year](/zh/post/year/)."
+- **形容词**: 在海外的；外国的。例如: "[She](/zh/post/she/) has an [interest](/zh/post/interest/) [in](/zh/post/in/) [foreign](/zh/post/foreign/) cultures, [so](/zh/post/so/) [she](/zh/post/she/) reads [abroad](/zh/post/abroad/) [literature](/zh/post/literature/) [often](/zh/post/often/)."
 
 ## 短语
-- "[Study](/post/study/) [abroad](/post/abroad/)" 指在国外学习或留学。
-- "[Living](/post/living/) [abroad](/post/abroad/)" 意味着在自己的祖国之外居住。
-- "[Travel](/post/travel/) [abroad](/post/abroad/)" 指出国旅行。
+- "[Study](/zh/post/study/) [abroad](/zh/post/abroad/)" 指在国外学习或留学。
+- "[Living](/zh/post/living/) [abroad](/zh/post/abroad/)" 意味着在自己的祖国之外居住。
+- "[Travel](/zh/post/travel/) [abroad](/zh/post/abroad/)" 指出国旅行。
 
 ## 例句
-- 副词: "[After](/post/after/) graduating, [he](/post/he/) decided [to](/post/to/) [work](/post/work/) [abroad](/post/abroad/) [to](/post/to/) [gain](/post/gain/) [more](/post/more/) [experience](/post/experience/)."
-- 形容词: "[The](/post/the/) [company](/post/company/) has offices [in](/post/in/) [several](/post/several/) [abroad](/post/abroad/) locations."
-- 作表语: "[Her](/post/her/) [dream](/post/dream/) is [to](/post/to/) [live](/post/live/) [and](/post/and/) [work](/post/work/) [abroad](/post/abroad/) someday."
+- 副词: "[After](/zh/post/after/) graduating, [he](/zh/post/he/) decided [to](/zh/post/to/) [work](/zh/post/work/) [abroad](/zh/post/abroad/) [to](/zh/post/to/) [gain](/zh/post/gain/) [more](/zh/post/more/) [experience](/zh/post/experience/)."
+- 形容词: "[The](/zh/post/the/) [company](/zh/post/company/) has offices [in](/zh/post/in/) [several](/zh/post/several/) [abroad](/zh/post/abroad/) locations."
+- 作表语: "[Her](/zh/post/her/) [dream](/zh/post/dream/) is [to](/zh/post/to/) [live](/zh/post/live/) [and](/zh/post/and/) [work](/zh/post/work/) [abroad](/zh/post/abroad/) someday."
 
 ## 同义词
-- [Overseas](/post/overseas/)
-- [International](/post/international/)
+- [Overseas](/zh/post/overseas/)
+- [International](/zh/post/international/)
 - Global
-- [Foreign](/post/foreign/)
-- [Outside](/post/outside/) one's [home](/post/home/) [country](/post/country/)
+- [Foreign](/zh/post/foreign/)
+- [Outside](/zh/post/outside/) one's [home](/zh/post/home/) [country](/zh/post/country/)

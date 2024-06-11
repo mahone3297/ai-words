@@ -7,38 +7,38 @@ description = '[riˈtein] vt.保持，保留，保有'
 keywords = ['ai words', 'retain']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈteɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Retention**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) holding [onto](/en/post/onto/) [something](/en/post/something/), [especially](/en/post/especially/) [information](/en/post/information/) [or](/en/post/or/) skills. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) places [great](/en/post/great/) [importance](/en/post/importance/) [on](/en/post/on/) [employee](/en/post/employee/) retention."
-- **Retainer**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) keeps [something](/en/post/something/) [in](/en/post/in/) [place](/en/post/place/) [or](/en/post/or/) prevents [it](/en/post/it/) [from](/en/post/from/) falling, [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) [financial](/en/post/financial/) [arrangement](/en/post/arrangement/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [lawyer](/en/post/lawyer/) charges [a](/en/post/a/) retainer [fee](/en/post/fee/) [for](/en/post/for/) [their](/en/post/their/) services."
-- **Retention [rate](/en/post/rate/)**: [The](/en/post/the/) [percentage](/en/post/percentage/) [of](/en/post/of/) individuals [who](/en/post/who/) [continue](/en/post/continue/) [to](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/) [over](/en/post/over/) [a](/en/post/a/) given [period](/en/post/period/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) school's [high](/en/post/high/) retention [rate](/en/post/rate/) indicates [student](/en/post/student/) [satisfaction](/en/post/satisfaction/)."
+### [Noun](/post/noun/)
+- **Retention**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) holding [onto](/post/onto/) [something](/post/something/), [especially](/post/especially/) [information](/post/information/) [or](/post/or/) skills. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) places [great](/post/great/) [importance](/post/importance/) [on](/post/on/) [employee](/post/employee/) retention."
+- **Retainer**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) keeps [something](/post/something/) [in](/post/in/) [place](/post/place/) [or](/post/or/) prevents [it](/post/it/) [from](/post/from/) falling, [often](/post/often/) referring [to](/post/to/) [a](/post/a/) [financial](/post/financial/) [arrangement](/post/arrangement/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [lawyer](/post/lawyer/) charges [a](/post/a/) retainer [fee](/post/fee/) [for](/post/for/) [their](/post/their/) services."
+- **Retention [rate](/post/rate/)**: [The](/post/the/) [percentage](/post/percentage/) [of](/post/of/) individuals [who](/post/who/) [continue](/post/continue/) [to](/post/to/) [use](/post/use/) [a](/post/a/) [product](/post/product/) [or](/post/or/) [service](/post/service/) [over](/post/over/) [a](/post/a/) given [period](/post/period/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) school's [high](/post/high/) retention [rate](/post/rate/) indicates [student](/post/student/) [satisfaction](/post/satisfaction/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [retain](/en/post/retain/)**: [To](/en/post/to/) [keep](/en/post/keep/), [hold](/en/post/hold/), [or](/en/post/or/) [maintain](/en/post/maintain/) [possession](/en/post/possession/) [of](/en/post/of/) [something](/en/post/something/); [to](/en/post/to/) [remember](/en/post/remember/) [or](/en/post/or/) [recall](/en/post/recall/) [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) students are expected [to](/en/post/to/) [retain](/en/post/retain/) [what](/en/post/what/) [they](/en/post/they/) [learned](/en/post/learned/) [in](/en/post/in/) [class](/en/post/class/)."
-- **[To](/en/post/to/) [retain](/en/post/retain/) counsel**: [To](/en/post/to/) [hire](/en/post/hire/) [and](/en/post/and/) [keep](/en/post/keep/) [a](/en/post/a/) [lawyer](/en/post/lawyer/) [for](/en/post/for/) [legal](/en/post/legal/) [advice](/en/post/advice/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) defendant decided [to](/en/post/to/) [retain](/en/post/retain/) counsel [before](/en/post/before/) entering [a](/en/post/a/) plea."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [retain](/post/retain/)**: [To](/post/to/) [keep](/post/keep/), [hold](/post/hold/), [or](/post/or/) [maintain](/post/maintain/) [possession](/post/possession/) [of](/post/of/) [something](/post/something/); [to](/post/to/) [remember](/post/remember/) [or](/post/or/) [recall](/post/recall/) [information](/post/information/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) students are expected [to](/post/to/) [retain](/post/retain/) [what](/post/what/) [they](/post/they/) [learned](/post/learned/) [in](/post/in/) [class](/post/class/)."
+- **[To](/post/to/) [retain](/post/retain/) counsel**: [To](/post/to/) [hire](/post/hire/) [and](/post/and/) [keep](/post/keep/) [a](/post/a/) [lawyer](/post/lawyer/) [for](/post/for/) [legal](/post/legal/) [advice](/post/advice/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) defendant decided [to](/post/to/) [retain](/post/retain/) counsel [before](/post/before/) entering [a](/post/a/) plea."
 
-### [Adjective](/en/post/adjective/)
-- **Retained**: Belonging [or](/en/post/or/) kept [by](/en/post/by/) [someone](/en/post/someone/), [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) retained [employee](/en/post/employee/) [or](/en/post/or/) retained earnings. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) retained earnings [will](/en/post/will/) [be](/en/post/be/) reinvested [in](/en/post/in/) [the](/en/post/the/) [business](/en/post/business/)."
+### [Adjective](/post/adjective/)
+- **Retained**: Belonging [or](/post/or/) kept [by](/post/by/) [someone](/post/someone/), [as](/post/as/) [in](/post/in/) [a](/post/a/) retained [employee](/post/employee/) [or](/post/or/) retained earnings. [For](/post/for/) [example](/post/example/): "[The](/post/the/) retained earnings [will](/post/will/) [be](/post/be/) reinvested [in](/post/in/) [the](/post/the/) [business](/post/business/)."
 
 ## Phrases
-- "[Retain](/en/post/retain/) [knowledge](/en/post/knowledge/)" [means](/en/post/means/) [to](/en/post/to/) [remember](/en/post/remember/) [or](/en/post/or/) [keep](/en/post/keep/) [information](/en/post/information/) [in](/en/post/in/) one's [memory](/en/post/memory/).
-- "[A](/en/post/a/) retained [employee](/en/post/employee/)" is [one](/en/post/one/) [who](/en/post/who/) has been offered [a](/en/post/a/) long-term [contract](/en/post/contract/) [or](/en/post/or/) [position](/en/post/position/).
-- "Retention [policy](/en/post/policy/)" refers [to](/en/post/to/) [a](/en/post/a/) company's guidelines [for](/en/post/for/) keeping [data](/en/post/data/) [or](/en/post/or/) records.
+- "[Retain](/post/retain/) [knowledge](/post/knowledge/)" [means](/post/means/) [to](/post/to/) [remember](/post/remember/) [or](/post/or/) [keep](/post/keep/) [information](/post/information/) [in](/post/in/) one's [memory](/post/memory/).
+- "[A](/post/a/) retained [employee](/post/employee/)" is [one](/post/one/) [who](/post/who/) has been offered [a](/post/a/) long-term [contract](/post/contract/) [or](/post/or/) [position](/post/position/).
+- "Retention [policy](/post/policy/)" refers [to](/post/to/) [a](/post/a/) company's guidelines [for](/post/for/) keeping [data](/post/data/) [or](/post/or/) records.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) implemented [a](/en/post/a/) [program](/en/post/program/) [to](/en/post/to/) [improve](/en/post/improve/) [employee](/en/post/employee/) retention."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) managed [to](/en/post/to/) [retain](/en/post/retain/) [her](/en/post/her/) composure [during](/en/post/during/) [the](/en/post/the/) stressful [situation](/en/post/situation/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) client chose [a](/en/post/a/) retained marketing [agency](/en/post/agency/) [for](/en/post/for/) [their](/en/post/their/) advertising needs."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) implemented [a](/post/a/) [program](/post/program/) [to](/post/to/) [improve](/post/improve/) [employee](/post/employee/) retention."
+- **[Verb](/post/verb/)**: "[She](/post/she/) managed [to](/post/to/) [retain](/post/retain/) [her](/post/her/) composure [during](/post/during/) [the](/post/the/) stressful [situation](/post/situation/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) client chose [a](/post/a/) retained marketing [agency](/post/agency/) [for](/post/for/) [their](/post/their/) advertising needs."
 
 ## Synonyms
-- [Hold](/en/post/hold/)
-- [Maintain](/en/post/maintain/)
-- [Keep](/en/post/keep/)
-- [Sustain](/en/post/sustain/)
-- [Preserve](/en/post/preserve/)
-- [Hang](/en/post/hang/) [on](/en/post/on/) [to](/en/post/to/)
-- [Possess](/en/post/possess/)
-- [Embrace](/en/post/embrace/)
+- [Hold](/post/hold/)
+- [Maintain](/post/maintain/)
+- [Keep](/post/keep/)
+- [Sustain](/post/sustain/)
+- [Preserve](/post/preserve/)
+- [Hang](/post/hang/) [on](/post/on/) [to](/post/to/)
+- [Possess](/post/possess/)
+- [Embrace](/post/embrace/)

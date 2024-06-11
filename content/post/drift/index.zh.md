@@ -12,26 +12,26 @@ keywords = ['ai words', 'drift']
 
 ## 释义
 - **名词**:
-  - 不定向地漂移或滑动。例如: "[The](/post/the/) [boat](/post/boat/) was [at](/post/at/) [the](/post/the/) [mercy](/post/mercy/) [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/) currents, [just](/post/just/) drifting [with](/post/with/) [the](/post/the/) [tide](/post/tide/)."
-  - 一群移动的人或物。例如: "[A](/post/a/) [drift](/post/drift/) [of](/post/of/) [snow](/post/snow/) blocked [the](/post/the/) [road](/post/road/)."
-  - （思想、行为的）偏离。例如: "[His](/post/his/) [mind](/post/mind/) began [to](/post/to/) [drift](/post/drift/) [during](/post/during/) [the](/post/the/) [long](/post/long/) [lecture](/post/lecture/)."
+  - 不定向地漂移或滑动。例如: "[The](/zh/post/the/) [boat](/zh/post/boat/) was [at](/zh/post/at/) [the](/zh/post/the/) [mercy](/zh/post/mercy/) [of](/zh/post/of/) [the](/zh/post/the/) [ocean](/zh/post/ocean/) currents, [just](/zh/post/just/) drifting [with](/zh/post/with/) [the](/zh/post/the/) [tide](/zh/post/tide/)."
+  - 一群移动的人或物。例如: "[A](/zh/post/a/) [drift](/zh/post/drift/) [of](/zh/post/of/) [snow](/zh/post/snow/) blocked [the](/zh/post/the/) [road](/zh/post/road/)."
+  - （思想、行为的）偏离。例如: "[His](/zh/post/his/) [mind](/zh/post/mind/) began [to](/zh/post/to/) [drift](/zh/post/drift/) [during](/zh/post/during/) [the](/zh/post/the/) [long](/zh/post/long/) [lecture](/zh/post/lecture/)."
 
 - **动词**:
-  - 漂流；滑动。例如: "[The](/post/the/) [ice](/post/ice/) floes drifted [slowly](/post/slowly/) [down](/post/down/) [the](/post/the/) [river](/post/river/)."
-  - 不经意地改变（方向或主题）。例如: "[Our](/post/our/) [conversation](/post/conversation/) drifted [from](/post/from/) [politics](/post/politics/) [to](/post/to/) sports."
+  - 漂流；滑动。例如: "[The](/zh/post/the/) [ice](/zh/post/ice/) floes drifted [slowly](/zh/post/slowly/) [down](/zh/post/down/) [the](/zh/post/the/) [river](/zh/post/river/)."
+  - 不经意地改变（方向或主题）。例如: "[Our](/zh/post/our/) [conversation](/zh/post/conversation/) drifted [from](/zh/post/from/) [politics](/zh/post/politics/) [to](/zh/post/to/) sports."
 
 ## 短语
-- "[Drift](/post/drift/) [away](/post/away/)" 意味着逐渐消失或走远。
-- "[Drift](/post/drift/) [off](/post/off/)" 通常指入睡或注意力分散。
+- "[Drift](/zh/post/drift/) [away](/zh/post/away/)" 意味着逐渐消失或走远。
+- "[Drift](/zh/post/drift/) [off](/zh/post/off/)" 通常指入睡或注意力分散。
 
 ## 例句
-- 名词: "[The](/post/the/) [sand](/post/sand/) dunes formed [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) [wind](/post/wind/) [drift](/post/drift/) [in](/post/in/) [the](/post/the/) [desert](/post/desert/)."
-- 动词: "[My](/post/my/) thoughts drifted [to](/post/to/) memories [of](/post/of/) [our](/post/our/) [summer](/post/summer/) [vacation](/post/vacation/)."
-- 感叹词（不常见，但在某些地区可能被用作感叹词）: "[Drift](/post/drift/), [will](/post/will/) [you](/post/you/)? [You](/post/you/) were supposed [to](/post/to/) [be](/post/be/) listening!"
+- 名词: "[The](/zh/post/the/) [sand](/zh/post/sand/) dunes formed [as](/zh/post/as/) [a](/zh/post/a/) [result](/zh/post/result/) [of](/zh/post/of/) [wind](/zh/post/wind/) [drift](/zh/post/drift/) [in](/zh/post/in/) [the](/zh/post/the/) [desert](/zh/post/desert/)."
+- 动词: "[My](/zh/post/my/) thoughts drifted [to](/zh/post/to/) memories [of](/zh/post/of/) [our](/zh/post/our/) [summer](/zh/post/summer/) [vacation](/zh/post/vacation/)."
+- 感叹词（不常见，但在某些地区可能被用作感叹词）: "[Drift](/zh/post/drift/), [will](/zh/post/will/) [you](/zh/post/you/)? [You](/zh/post/you/) were supposed [to](/zh/post/to/) [be](/zh/post/be/) listening!"
 
 ## 同义词
-- [Glide](/post/glide/)
-- [Slide](/post/slide/)
-- [Float](/post/float/)
-- [Wander](/post/wander/)
+- [Glide](/zh/post/glide/)
+- [Slide](/zh/post/slide/)
+- [Float](/zh/post/float/)
+- [Wander](/zh/post/wander/)
 - Meander

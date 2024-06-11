@@ -7,41 +7,41 @@ description = '[səːˈvei] vt.俯瞰；检查；测量'
 keywords = ['ai words', 'survey']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈvaɪr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[survey](/en/post/survey/)** ([noun](/en/post/noun/)) refers [to](/en/post/to/):
-1. An [examination](/en/post/examination/) [or](/en/post/or/) [investigation](/en/post/investigation/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [topic](/en/post/topic/), [area](/en/post/area/), [or](/en/post/or/) [group](/en/post/group/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) collecting [data](/en/post/data/) [or](/en/post/or/) opinions. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) conducted [a](/en/post/a/) [market](/en/post/market/) [survey](/en/post/survey/) [to](/en/post/to/) [understand](/en/post/understand/) [customer](/en/post/customer/) preferences."
-2. [A](/en/post/a/) systematic questionnaire [or](/en/post/or/) [form](/en/post/form/) filled [out](/en/post/out/) [by](/en/post/by/) respondents. [For](/en/post/for/) [example](/en/post/example/): "Employees were asked [to](/en/post/to/) [complete](/en/post/complete/) [a](/en/post/a/) workplace [satisfaction](/en/post/satisfaction/) [survey](/en/post/survey/)."
+### [Noun](/post/noun/)
+[A](/post/a/) **[survey](/post/survey/)** ([noun](/post/noun/)) refers [to](/post/to/):
+1. An [examination](/post/examination/) [or](/post/or/) [investigation](/post/investigation/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [topic](/post/topic/), [area](/post/area/), [or](/post/or/) [group](/post/group/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) collecting [data](/post/data/) [or](/post/or/) opinions. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) conducted [a](/post/a/) [market](/post/market/) [survey](/post/survey/) [to](/post/to/) [understand](/post/understand/) [customer](/post/customer/) preferences."
+2. [A](/post/a/) systematic questionnaire [or](/post/or/) [form](/post/form/) filled [out](/post/out/) [by](/post/by/) respondents. [For](/post/for/) [example](/post/example/): "Employees were asked [to](/post/to/) [complete](/post/complete/) [a](/post/a/) workplace [satisfaction](/post/satisfaction/) [survey](/post/survey/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[survey](/en/post/survey/)** ([verb](/en/post/verb/)) [means](/en/post/means/):
-1. [To](/en/post/to/) [examine](/en/post/examine/) [or](/en/post/or/) [study](/en/post/study/) [something](/en/post/something/) [in](/en/post/in/) [detail](/en/post/detail/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) archaeologist surveyed [the](/en/post/the/) ruins [to](/en/post/to/) [identify](/en/post/identify/) artifacts."
-2. [To](/en/post/to/) administer [a](/en/post/a/) questionnaire [or](/en/post/or/) assessment. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) surveyed [her](/en/post/her/) [class](/en/post/class/) [about](/en/post/about/) [their](/en/post/their/) favorite books."
+### [Verb](/post/verb/)
+[To](/post/to/) **[survey](/post/survey/)** ([verb](/post/verb/)) [means](/post/means/):
+1. [To](/post/to/) [examine](/post/examine/) [or](/post/or/) [study](/post/study/) [something](/post/something/) [in](/post/in/) [detail](/post/detail/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) archaeologist surveyed [the](/post/the/) ruins [to](/post/to/) [identify](/post/identify/) artifacts."
+2. [To](/post/to/) administer [a](/post/a/) questionnaire [or](/post/or/) assessment. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) surveyed [her](/post/her/) [class](/post/class/) [about](/post/about/) [their](/post/their/) favorite books."
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) [some](/en/post/some/) cases, "survey-like" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) resembling [a](/en/post/a/) [survey](/en/post/survey/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [study](/en/post/study/) had [a](/en/post/a/) survey-like [design](/en/post/design/) [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) user-friendly."
+### [Adjective](/post/adjective/)
+[In](/post/in/) [some](/post/some/) cases, "survey-like" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) resembling [a](/post/a/) [survey](/post/survey/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [study](/post/study/) had [a](/post/a/) survey-like [design](/post/design/) [to](/post/to/) [make](/post/make/) [it](/post/it/) user-friendly."
 
 ## Phrases
-- "[Conduct](/en/post/conduct/) [a](/en/post/a/) [survey](/en/post/survey/)" [means](/en/post/means/) [to](/en/post/to/) initiate [or](/en/post/or/) [carry](/en/post/carry/) [out](/en/post/out/) [a](/en/post/a/) [research](/en/post/research/) [project](/en/post/project/).
-- "[Fill](/en/post/fill/) [out](/en/post/out/) [a](/en/post/a/) [survey](/en/post/survey/)" is [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) responding [to](/en/post/to/) questions [on](/en/post/on/) [a](/en/post/a/) [form](/en/post/form/).
-- "[A](/en/post/a/) [preliminary](/en/post/preliminary/) [survey](/en/post/survey/)" refers [to](/en/post/to/) an [initial](/en/post/initial/) exploration [or](/en/post/or/) assessment.
+- "[Conduct](/post/conduct/) [a](/post/a/) [survey](/post/survey/)" [means](/post/means/) [to](/post/to/) initiate [or](/post/or/) [carry](/post/carry/) [out](/post/out/) [a](/post/a/) [research](/post/research/) [project](/post/project/).
+- "[Fill](/post/fill/) [out](/post/out/) [a](/post/a/) [survey](/post/survey/)" is [the](/post/the/) [action](/post/action/) [of](/post/of/) responding [to](/post/to/) questions [on](/post/on/) [a](/post/a/) [form](/post/form/).
+- "[A](/post/a/) [preliminary](/post/preliminary/) [survey](/post/survey/)" refers [to](/post/to/) an [initial](/post/initial/) exploration [or](/post/or/) assessment.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [team](/en/post/team/) is analyzing [the](/en/post/the/) results [of](/en/post/of/) [the](/en/post/the/) [employee](/en/post/employee/) engagement [survey](/en/post/survey/)."
-- **[Verb](/en/post/verb/)**: "[Before](/en/post/before/) [building](/en/post/building/) [the](/en/post/the/) [bridge](/en/post/bridge/), engineers surveyed [the](/en/post/the/) riverbed [for](/en/post/for/) [potential](/en/post/potential/) hazards."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) survey-like [feedback](/en/post/feedback/) [system](/en/post/system/) [provided](/en/post/provided/) [valuable](/en/post/valuable/) insights."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [team](/post/team/) is analyzing [the](/post/the/) results [of](/post/of/) [the](/post/the/) [employee](/post/employee/) engagement [survey](/post/survey/)."
+- **[Verb](/post/verb/)**: "[Before](/post/before/) [building](/post/building/) [the](/post/the/) [bridge](/post/bridge/), engineers surveyed [the](/post/the/) riverbed [for](/post/for/) [potential](/post/potential/) hazards."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) survey-like [feedback](/post/feedback/) [system](/post/system/) [provided](/post/provided/) [valuable](/post/valuable/) insights."
 
 ## Synonyms
-- [Study](/en/post/study/)
-- [Research](/en/post/research/)
-- [Inquiry](/en/post/inquiry/)
-- [Examination](/en/post/examination/)
+- [Study](/post/study/)
+- [Research](/post/research/)
+- [Inquiry](/post/inquiry/)
+- [Examination](/post/examination/)
 - Poll
 
 ## Antonyms
-- [Ignore](/en/post/ignore/)
+- [Ignore](/post/ignore/)
 - Skip
-- [Avoid](/en/post/avoid/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) conducting [a](/en/post/a/) [survey](/en/post/survey/))
+- [Avoid](/post/avoid/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) conducting [a](/post/a/) [survey](/post/survey/))

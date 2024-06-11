@@ -7,39 +7,39 @@ description = '[silk] n.蚕丝，丝，丝织品'
 keywords = ['ai words', 'silk']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪlk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Silk](/en/post/silk/)** ([noun](/en/post/noun/))
-1. [A](/en/post/a/) luxurious, [strong](/en/post/strong/), [and](/en/post/and/) lustrous [natural](/en/post/natural/) fiber produced [by](/en/post/by/) [certain](/en/post/certain/) insects, specifically silkworms, [from](/en/post/from/) [their](/en/post/their/) cocoons. [It](/en/post/it/) is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [make](/en/post/make/) [fine](/en/post/fine/) fabrics [like](/en/post/like/) [silk](/en/post/silk/) dresses, scarves, [and](/en/post/and/) ties.
-2. [A](/en/post/a/) [fabric](/en/post/fabric/) made [from](/en/post/from/) [this](/en/post/this/) [natural](/en/post/natural/) fiber, known [for](/en/post/for/) [its](/en/post/its/) smoothness, softness, [and](/en/post/and/) sheen.
+### [Noun](/post/noun/)
+**[Silk](/post/silk/)** ([noun](/post/noun/))
+1. [A](/post/a/) luxurious, [strong](/post/strong/), [and](/post/and/) lustrous [natural](/post/natural/) fiber produced [by](/post/by/) [certain](/post/certain/) insects, specifically silkworms, [from](/post/from/) [their](/post/their/) cocoons. [It](/post/it/) is [often](/post/often/) [used](/post/used/) [to](/post/to/) [make](/post/make/) [fine](/post/fine/) fabrics [like](/post/like/) [silk](/post/silk/) dresses, scarves, [and](/post/and/) ties.
+2. [A](/post/a/) [fabric](/post/fabric/) made [from](/post/from/) [this](/post/this/) [natural](/post/natural/) fiber, known [for](/post/for/) [its](/post/its/) smoothness, softness, [and](/post/and/) sheen.
 
-### [Verb](/en/post/verb/)
-**[Silk](/en/post/silk/)** ([verb](/en/post/verb/), [as](/en/post/as/) [a](/en/post/a/) transitive [verb](/en/post/verb/))
-1. [To](/en/post/to/) [treat](/en/post/treat/) [with](/en/post/with/) [silk](/en/post/silk/) [or](/en/post/or/) silk-like [material](/en/post/material/), [as](/en/post/as/) [in](/en/post/in/) [clothing](/en/post/clothing/) [or](/en/post/or/) upholstery.
-2. (figurative) [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) luxurious [or](/en/post/or/) [smooth](/en/post/smooth/) [appearance](/en/post/appearance/) [or](/en/post/or/) texture [to](/en/post/to/) [something](/en/post/something/).
+### [Verb](/post/verb/)
+**[Silk](/post/silk/)** ([verb](/post/verb/), [as](/post/as/) [a](/post/a/) transitive [verb](/post/verb/))
+1. [To](/post/to/) [treat](/post/treat/) [with](/post/with/) [silk](/post/silk/) [or](/post/or/) silk-like [material](/post/material/), [as](/post/as/) [in](/post/in/) [clothing](/post/clothing/) [or](/post/or/) upholstery.
+2. (figurative) [To](/post/to/) [give](/post/give/) [a](/post/a/) luxurious [or](/post/or/) [smooth](/post/smooth/) [appearance](/post/appearance/) [or](/post/or/) texture [to](/post/to/) [something](/post/something/).
 
-### [Adjective](/en/post/adjective/)
-**Silky** ([adjective](/en/post/adjective/))
-1. Characterized [by](/en/post/by/) [the](/en/post/the/) [smooth](/en/post/smooth/), [soft](/en/post/soft/), [and](/en/post/and/) lustrous texture [of](/en/post/of/) [silk](/en/post/silk/).
-2. Describing [something](/en/post/something/) [that](/en/post/that/) moves [or](/en/post/or/) feels pleasantly [smooth](/en/post/smooth/), [like](/en/post/like/) [a](/en/post/a/) silky [hair](/en/post/hair/) [or](/en/post/or/) [a](/en/post/a/) silky [glide](/en/post/glide/).
+### [Adjective](/post/adjective/)
+**Silky** ([adjective](/post/adjective/))
+1. Characterized [by](/post/by/) [the](/post/the/) [smooth](/post/smooth/), [soft](/post/soft/), [and](/post/and/) lustrous texture [of](/post/of/) [silk](/post/silk/).
+2. Describing [something](/post/something/) [that](/post/that/) moves [or](/post/or/) feels pleasantly [smooth](/post/smooth/), [like](/post/like/) [a](/post/a/) silky [hair](/post/hair/) [or](/post/or/) [a](/post/a/) silky [glide](/post/glide/).
 
-### [Adverb](/en/post/adverb/)
-**Silkily** ([adverb](/en/post/adverb/))
-1. [In](/en/post/in/) [a](/en/post/a/) [smooth](/en/post/smooth/), [slippery](/en/post/slippery/), [or](/en/post/or/) flowing [manner](/en/post/manner/), reminiscent [of](/en/post/of/) [silk](/en/post/silk/).
+### [Adverb](/post/adverb/)
+**Silkily** ([adverb](/post/adverb/))
+1. [In](/post/in/) [a](/post/a/) [smooth](/post/smooth/), [slippery](/post/slippery/), [or](/post/or/) flowing [manner](/post/manner/), reminiscent [of](/post/of/) [silk](/post/silk/).
 
 ## Phrases
-- "[Wear](/en/post/wear/) [silk](/en/post/silk/) [for](/en/post/for/) [comfort](/en/post/comfort/)" suggests using [silk](/en/post/silk/) [as](/en/post/as/) [a](/en/post/a/) [material](/en/post/material/) [for](/en/post/for/) [its](/en/post/its/) [gentle](/en/post/gentle/) [touch](/en/post/touch/).
-- "[She](/en/post/she/) handled [the](/en/post/the/) [silk](/en/post/silk/) [fabric](/en/post/fabric/) [with](/en/post/with/) [care](/en/post/care/)" indicates gentleness [when](/en/post/when/) working [with](/en/post/with/) [silk](/en/post/silk/).
-- "[A](/en/post/a/) [silk](/en/post/silk/) [road](/en/post/road/)" historically refers [to](/en/post/to/) [a](/en/post/a/) [network](/en/post/network/) [of](/en/post/of/) [trade](/en/post/trade/) routes connecting [Asia](/en/post/asia/) [and](/en/post/and/) Europe.
+- "[Wear](/post/wear/) [silk](/post/silk/) [for](/post/for/) [comfort](/post/comfort/)" suggests using [silk](/post/silk/) [as](/post/as/) [a](/post/a/) [material](/post/material/) [for](/post/for/) [its](/post/its/) [gentle](/post/gentle/) [touch](/post/touch/).
+- "[She](/post/she/) handled [the](/post/the/) [silk](/post/silk/) [fabric](/post/fabric/) [with](/post/with/) [care](/post/care/)" indicates gentleness [when](/post/when/) working [with](/post/with/) [silk](/post/silk/).
+- "[A](/post/a/) [silk](/post/silk/) [road](/post/road/)" historically refers [to](/post/to/) [a](/post/a/) [network](/post/network/) [of](/post/of/) [trade](/post/trade/) routes connecting [Asia](/post/asia/) [and](/post/and/) Europe.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [dress](/en/post/dress/) was made [of](/en/post/of/) [the](/en/post/the/) finest [silk](/en/post/silk/), exuding elegance."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) professionally silked [the](/en/post/the/) upholstery [to](/en/post/to/) [remove](/en/post/remove/) wrinkles."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/) was [a](/en/post/a/) [deep](/en/post/deep/), velvety [blue](/en/post/blue/), [with](/en/post/with/) stars shining silkily."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) moved silkily [across](/en/post/across/) [the](/en/post/the/) [dance](/en/post/dance/) [floor](/en/post/floor/), captivating [the](/en/post/the/) [audience](/en/post/audience/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [dress](/post/dress/) was made [of](/post/of/) [the](/post/the/) finest [silk](/post/silk/), exuding elegance."
+- **[Verb](/post/verb/)**: "[She](/post/she/) professionally silked [the](/post/the/) upholstery [to](/post/to/) [remove](/post/remove/) wrinkles."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [night](/post/night/) [sky](/post/sky/) was [a](/post/a/) [deep](/post/deep/), velvety [blue](/post/blue/), [with](/post/with/) stars shining silkily."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) moved silkily [across](/post/across/) [the](/post/the/) [dance](/post/dance/) [floor](/post/floor/), captivating [the](/post/the/) [audience](/post/audience/)."
 
 ## Synonyms
 - Satin
@@ -47,5 +47,5 @@ keywords = ['ai words', 'silk']
 - Lustrous
 - Satinette
 - Silken
-- [Smooth](/en/post/smooth/)
+- [Smooth](/post/smooth/)
 - Silklike

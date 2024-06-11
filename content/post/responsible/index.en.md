@@ -7,29 +7,29 @@ description = '[risˈpɔnsəbl] a.有责任的；尽责的'
 keywords = ['ai words', 'responsible']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈspɒnsəbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Having [the](/en/post/the/) [duty](/en/post/duty/) [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) [take](/en/post/take/) [care](/en/post/care/) [of](/en/post/of/) [something](/en/post/something/); accountable. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) [leader](/en/post/leader/) is [responsible](/en/post/responsible/) [for](/en/post/for/) managing [the](/en/post/the/) [project](/en/post/project/)."
-- **[Adjective](/en/post/adjective/)**: 2. Showing [a](/en/post/a/) readiness [to](/en/post/to/) [accept](/en/post/accept/) [blame](/en/post/blame/) [or](/en/post/or/) consequences. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) felt [responsible](/en/post/responsible/) [for](/en/post/for/) [the](/en/post/the/) [mistake](/en/post/mistake/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) accountable [for](/en/post/for/) one's actions [or](/en/post/or/) decisions. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) takes [responsibility](/en/post/responsibility/) [for](/en/post/for/) [his](/en/post/his/) actions."
+- **[Adjective](/post/adjective/)**: 1. Having [the](/post/the/) [duty](/post/duty/) [or](/post/or/) [ability](/post/ability/) [to](/post/to/) [take](/post/take/) [care](/post/care/) [of](/post/of/) [something](/post/something/); accountable. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [team](/post/team/) [leader](/post/leader/) is [responsible](/post/responsible/) [for](/post/for/) managing [the](/post/the/) [project](/post/project/)."
+- **[Adjective](/post/adjective/)**: 2. Showing [a](/post/a/) readiness [to](/post/to/) [accept](/post/accept/) [blame](/post/blame/) [or](/post/or/) consequences. [For](/post/for/) [example](/post/example/): "[She](/post/she/) felt [responsible](/post/responsible/) [for](/post/for/) [the](/post/the/) [mistake](/post/mistake/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) accountable [for](/post/for/) one's actions [or](/post/or/) decisions. [For](/post/for/) [example](/post/example/): "[He](/post/he/) takes [responsibility](/post/responsibility/) [for](/post/for/) [his](/post/his/) actions."
 
 ## Phrases
-- "[Be](/en/post/be/) [responsible](/en/post/responsible/) [for](/en/post/for/)" implies accountability [or](/en/post/or/) [ownership](/en/post/ownership/).
-- "[Take](/en/post/take/) [responsibility](/en/post/responsibility/)" [means](/en/post/means/) [to](/en/post/to/) acknowledge [and](/en/post/and/) [act](/en/post/act/) [upon](/en/post/upon/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [situation](/en/post/situation/).
-- "[Act](/en/post/act/) responsibly" encourages [proper](/en/post/proper/) [conduct](/en/post/conduct/) [and](/en/post/and/) decision-making.
+- "[Be](/post/be/) [responsible](/post/responsible/) [for](/post/for/)" implies accountability [or](/post/or/) [ownership](/post/ownership/).
+- "[Take](/post/take/) [responsibility](/post/responsibility/)" [means](/post/means/) [to](/post/to/) acknowledge [and](/post/and/) [act](/post/act/) [upon](/post/upon/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [situation](/post/situation/).
+- "[Act](/post/act/) responsibly" encourages [proper](/post/proper/) [conduct](/post/conduct/) [and](/post/and/) decision-making.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Each](/en/post/each/) [employee](/en/post/employee/) is [responsible](/en/post/responsible/) [for](/en/post/for/) [their](/en/post/their/) [work](/en/post/work/) [area](/en/post/area/) cleanliness."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) realizing [the](/en/post/the/) [mistake](/en/post/mistake/), [he](/en/post/he/) took [responsibility](/en/post/responsibility/) [and](/en/post/and/) offered [a](/en/post/a/) [solution](/en/post/solution/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) [always](/en/post/always/) acts responsibly [when](/en/post/when/) making [important](/en/post/important/) decisions."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Each](/post/each/) [employee](/post/employee/) is [responsible](/post/responsible/) [for](/post/for/) [their](/post/their/) [work](/post/work/) [area](/post/area/) cleanliness."
+- **[Verb](/post/verb/)**: "[After](/post/after/) realizing [the](/post/the/) [mistake](/post/mistake/), [he](/post/he/) took [responsibility](/post/responsibility/) [and](/post/and/) offered [a](/post/a/) [solution](/post/solution/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) [always](/post/always/) acts responsibly [when](/post/when/) making [important](/post/important/) decisions."
 
 ## Synonyms
 - Accountable
-- [Liable](/en/post/liable/)
+- [Liable](/post/liable/)
 - Answerable
-- [Reliable](/en/post/reliable/)
+- [Reliable](/post/reliable/)
 - Dutiful
 
 ## Antonyms

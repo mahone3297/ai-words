@@ -7,28 +7,28 @@ description = '[ˈnæsti] a.龌龊的；淫猥的'
 keywords = ['ai words', 'nasty']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnæsti/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: ([nasty](/en/post/nasty/)) Characterized [by](/en/post/by/) [being](/en/post/being/) offensive, [unpleasant](/en/post/unpleasant/), [unkind](/en/post/unkind/), [or](/en/post/or/) mean-spirited. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was surprised [by](/en/post/by/) [his](/en/post/his/) [nasty](/en/post/nasty/) [attitude](/en/post/attitude/)."
-  - *[The](/en/post/the/) [weather](/en/post/weather/) was [really](/en/post/really/) [nasty](/en/post/nasty/) [today](/en/post/today/).*
-  - *[He](/en/post/he/) received [a](/en/post/a/) [nasty](/en/post/nasty/) [shock](/en/post/shock/) [when](/en/post/when/) [he](/en/post/he/) [saw](/en/post/saw/) [the](/en/post/the/) [bill](/en/post/bill/).*
+- **[Adjective](/post/adjective/)**: ([nasty](/post/nasty/)) Characterized [by](/post/by/) [being](/post/being/) offensive, [unpleasant](/post/unpleasant/), [unkind](/post/unkind/), [or](/post/or/) mean-spirited. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was surprised [by](/post/by/) [his](/post/his/) [nasty](/post/nasty/) [attitude](/post/attitude/)."
+  - *[The](/post/the/) [weather](/post/weather/) was [really](/post/really/) [nasty](/post/nasty/) [today](/post/today/).*
+  - *[He](/post/he/) received [a](/post/a/) [nasty](/post/nasty/) [shock](/post/shock/) [when](/post/when/) [he](/post/he/) [saw](/post/saw/) [the](/post/the/) [bill](/post/bill/).*
 
-- **[Noun](/en/post/noun/)**: (informal) [A](/en/post/a/) contemptible [or](/en/post/or/) [unpleasant](/en/post/unpleasant/) [person](/en/post/person/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) called [him](/en/post/him/) [a](/en/post/a/) [nasty](/en/post/nasty/) [piece](/en/post/piece/) [of](/en/post/of/) [work](/en/post/work/)."
-  - *"[Stay](/en/post/stay/) [away](/en/post/away/) [from](/en/post/from/) [him](/en/post/him/); he's [a](/en/post/a/) [real](/en/post/real/) [nasty](/en/post/nasty/)."*
+- **[Noun](/post/noun/)**: (informal) [A](/post/a/) contemptible [or](/post/or/) [unpleasant](/post/unpleasant/) [person](/post/person/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) called [him](/post/him/) [a](/post/a/) [nasty](/post/nasty/) [piece](/post/piece/) [of](/post/of/) [work](/post/work/)."
+  - *"[Stay](/post/stay/) [away](/post/away/) [from](/post/from/) [him](/post/him/); he's [a](/post/a/) [real](/post/real/) [nasty](/post/nasty/)."*
 
 ## Phrases
-- "[In](/en/post/in/) [a](/en/post/a/) [nasty](/en/post/nasty/) [mood](/en/post/mood/)": Describes [someone](/en/post/someone/) [who](/en/post/who/) is [feeling](/en/post/feeling/) [particularly](/en/post/particularly/) irritable [or](/en/post/or/) [hostile](/en/post/hostile/).
-  - *"[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [he](/en/post/he/) came [home](/en/post/home/) [in](/en/post/in/) [a](/en/post/a/) [nasty](/en/post/nasty/) [mood](/en/post/mood/)."*
+- "[In](/post/in/) [a](/post/a/) [nasty](/post/nasty/) [mood](/post/mood/)": Describes [someone](/post/someone/) [who](/post/who/) is [feeling](/post/feeling/) [particularly](/post/particularly/) irritable [or](/post/or/) [hostile](/post/hostile/).
+  - *"[After](/post/after/) [the](/post/the/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [he](/post/he/) came [home](/post/home/) [in](/post/in/) [a](/post/a/) [nasty](/post/nasty/) [mood](/post/mood/)."*
 
-- "[Get](/en/post/get/) [into](/en/post/into/) [a](/en/post/a/) [nasty](/en/post/nasty/) [fight](/en/post/fight/)": [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [very](/en/post/very/) heated [or](/en/post/or/) [aggressive](/en/post/aggressive/) [argument](/en/post/argument/) [or](/en/post/or/) [physical](/en/post/physical/) altercation.
-  - *"[The](/en/post/the/) [two](/en/post/two/) neighbors [nearly](/en/post/nearly/) got [into](/en/post/into/) [a](/en/post/a/) [nasty](/en/post/nasty/) [fight](/en/post/fight/) [over](/en/post/over/) [the](/en/post/the/) [property](/en/post/property/) [line](/en/post/line/) [dispute](/en/post/dispute/)."*
+- "[Get](/post/get/) [into](/post/into/) [a](/post/a/) [nasty](/post/nasty/) [fight](/post/fight/)": [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [very](/post/very/) heated [or](/post/or/) [aggressive](/post/aggressive/) [argument](/post/argument/) [or](/post/or/) [physical](/post/physical/) altercation.
+  - *"[The](/post/the/) [two](/post/two/) neighbors [nearly](/post/nearly/) got [into](/post/into/) [a](/post/a/) [nasty](/post/nasty/) [fight](/post/fight/) [over](/post/over/) [the](/post/the/) [property](/post/property/) [line](/post/line/) [dispute](/post/dispute/)."*
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [food](/en/post/food/) had gone [off](/en/post/off/) [and](/en/post/and/) [left](/en/post/left/) [a](/en/post/a/) [nasty](/en/post/nasty/) [smell](/en/post/smell/) [in](/en/post/in/) [the](/en/post/the/) [kitchen](/en/post/kitchen/)."
-- **[Noun](/en/post/noun/)**: "[Nobody](/en/post/nobody/) likes dealing [with](/en/post/with/) [that](/en/post/that/) [nasty](/en/post/nasty/); he's [always](/en/post/always/) causing [trouble](/en/post/trouble/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [food](/post/food/) had gone [off](/post/off/) [and](/post/and/) [left](/post/left/) [a](/post/a/) [nasty](/post/nasty/) [smell](/post/smell/) [in](/post/in/) [the](/post/the/) [kitchen](/post/kitchen/)."
+- **[Noun](/post/noun/)**: "[Nobody](/post/nobody/) likes dealing [with](/post/with/) [that](/post/that/) [nasty](/post/nasty/); he's [always](/post/always/) causing [trouble](/post/trouble/)."
 
 ## Synonyms
-- [Adjective](/en/post/adjective/): Disgusting, vile, repulsive, foul, malicious, spiteful, [mean](/en/post/mean/), horrid, disagreeable
-- [Noun](/en/post/noun/): Jerk, bully, [brute](/en/post/brute/), villain, [creep](/en/post/creep/), scoundrel
+- [Adjective](/post/adjective/): Disgusting, vile, repulsive, foul, malicious, spiteful, [mean](/post/mean/), horrid, disagreeable
+- [Noun](/post/noun/): Jerk, bully, [brute](/post/brute/), villain, [creep](/post/creep/), scoundrel

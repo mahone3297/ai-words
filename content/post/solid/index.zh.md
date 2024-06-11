@@ -11,23 +11,23 @@ keywords = ['ai words', 'solid']
 /ˈsɑːlɪd/
 
 ## 释义
-- **形容词**: 固体的，有形的，实体的。例如: "[This](/post/this/) [object](/post/object/) is [solid](/post/solid/), [not](/post/not/) [liquid](/post/liquid/) [or](/post/or/) [gas](/post/gas/)."
-- **名词**: 固体，实体。例如: "[The](/post/the/) [solid](/post/solid/) [state](/post/state/) [of](/post/of/) [matter](/post/matter/) has [a](/post/a/) defined [shape](/post/shape/) [and](/post/and/) [volume](/post/volume/)."
-- **动词**: (使)坚固，巩固。例如: "[Their](/post/their/) [friendship](/post/friendship/) solidified [after](/post/after/) [they](/post/they/) went [through](/post/through/) [a](/post/a/) [tough](/post/tough/) [time](/post/time/) [together](/post/together/)."
+- **形容词**: 固体的，有形的，实体的。例如: "[This](/zh/post/this/) [object](/zh/post/object/) is [solid](/zh/post/solid/), [not](/zh/post/not/) [liquid](/zh/post/liquid/) [or](/zh/post/or/) [gas](/zh/post/gas/)."
+- **名词**: 固体，实体。例如: "[The](/zh/post/the/) [solid](/zh/post/solid/) [state](/zh/post/state/) [of](/zh/post/of/) [matter](/zh/post/matter/) has [a](/zh/post/a/) defined [shape](/zh/post/shape/) [and](/zh/post/and/) [volume](/zh/post/volume/)."
+- **动词**: (使)坚固，巩固。例如: "[Their](/zh/post/their/) [friendship](/zh/post/friendship/) solidified [after](/zh/post/after/) [they](/zh/post/they/) went [through](/zh/post/through/) [a](/zh/post/a/) [tough](/zh/post/tough/) [time](/zh/post/time/) [together](/zh/post/together/)."
 
 ## 短语
-- "[in](/post/in/) [solid](/post/solid/) [form](/post/form/)" 表示以固体形式存在。
-- "[solid](/post/solid/) [ground](/post/ground/)" 指坚实的地面或可靠的依据。
-- "[solid](/post/solid/) [support](/post/support/)" 意为坚定的支持或支援。
+- "[in](/zh/post/in/) [solid](/zh/post/solid/) [form](/zh/post/form/)" 表示以固体形式存在。
+- "[solid](/zh/post/solid/) [ground](/zh/post/ground/)" 指坚实的地面或可靠的依据。
+- "[solid](/zh/post/solid/) [support](/zh/post/support/)" 意为坚定的支持或支援。
 
 ## 例句
-- 形容词: "[The](/post/the/) [block](/post/block/) [of](/post/of/) [ice](/post/ice/) is [solid](/post/solid/) [at](/post/at/) [this](/post/this/) [temperature](/post/temperature/)."
-- 名词: "[The](/post/the/) elements [in](/post/in/) [the](/post/the/) periodic [table](/post/table/) [can](/post/can/) [exist](/post/exist/) [as](/post/as/) solids, liquids, [or](/post/or/) gases."
-- 动词: "[Their](/post/their/) teamwork solidified [their](/post/their/) chances [of](/post/of/) winning [the](/post/the/) tournament."
+- 形容词: "[The](/zh/post/the/) [block](/zh/post/block/) [of](/zh/post/of/) [ice](/zh/post/ice/) is [solid](/zh/post/solid/) [at](/zh/post/at/) [this](/zh/post/this/) [temperature](/zh/post/temperature/)."
+- 名词: "[The](/zh/post/the/) elements [in](/zh/post/in/) [the](/zh/post/the/) periodic [table](/zh/post/table/) [can](/zh/post/can/) [exist](/zh/post/exist/) [as](/zh/post/as/) solids, liquids, [or](/zh/post/or/) gases."
+- 动词: "[Their](/zh/post/their/) teamwork solidified [their](/zh/post/their/) chances [of](/zh/post/of/) winning [the](/zh/post/the/) tournament."
 
 ## 同义词
-- [firm](/post/firm/)
+- [firm](/zh/post/firm/)
 - unyielding
-- [stable](/post/stable/)
+- [stable](/zh/post/stable/)
 - dependable
-- [substantial](/post/substantial/)
+- [substantial](/zh/post/substantial/)

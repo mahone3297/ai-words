@@ -7,47 +7,47 @@ description = '[ədˈvent∫ə] n.冒险；惊险活动'
 keywords = ['ai words', 'adventure']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ədˈventʃər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **An [exciting](/en/post/exciting/) [experience](/en/post/experience/) [or](/en/post/or/) [pursuit](/en/post/pursuit/) involving [unusual](/en/post/unusual/) risks [or](/en/post/or/) [new](/en/post/new/) activities.**
-   - [Example](/en/post/example/): "[Their](/en/post/their/) [love](/en/post/love/) [for](/en/post/for/) [adventure](/en/post/adventure/) led [them](/en/post/them/) [to](/en/post/to/) hike [through](/en/post/through/) [the](/en/post/the/) Amazon rainforest."
-   - Synonyms: expedition, [journey](/en/post/journey/), quest, escapade, quest, [pursuit](/en/post/pursuit/)
+### [Noun](/post/noun/)
+1. **An [exciting](/post/exciting/) [experience](/post/experience/) [or](/post/or/) [pursuit](/post/pursuit/) involving [unusual](/post/unusual/) risks [or](/post/or/) [new](/post/new/) activities.**
+   - [Example](/post/example/): "[Their](/post/their/) [love](/post/love/) [for](/post/for/) [adventure](/post/adventure/) led [them](/post/them/) [to](/post/to/) hike [through](/post/through/) [the](/post/the/) Amazon rainforest."
+   - Synonyms: expedition, [journey](/post/journey/), quest, escapade, quest, [pursuit](/post/pursuit/)
 
-2. **[A](/en/post/a/) thrilling [story](/en/post/story/) [or](/en/post/or/) [book](/en/post/book/) [that](/en/post/that/) contains [exciting](/en/post/exciting/) events [and](/en/post/and/) adventures.**
-   - [Example](/en/post/example/): "[The](/en/post/the/) children loved [reading](/en/post/reading/) [adventure](/en/post/adventure/) novels [full](/en/post/full/) [of](/en/post/of/) [mystery](/en/post/mystery/) [and](/en/post/and/) [danger](/en/post/danger/)."
+2. **[A](/post/a/) thrilling [story](/post/story/) [or](/post/or/) [book](/post/book/) [that](/post/that/) contains [exciting](/post/exciting/) events [and](/post/and/) adventures.**
+   - [Example](/post/example/): "[The](/post/the/) children loved [reading](/post/reading/) [adventure](/post/adventure/) novels [full](/post/full/) [of](/post/of/) [mystery](/post/mystery/) [and](/post/and/) [danger](/post/danger/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [or](/en/post/or/) [undertake](/en/post/undertake/) an adventurous [activity](/en/post/activity/) [or](/en/post/or/) [journey](/en/post/journey/).**
-   - [Example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [adventure](/en/post/adventure/) [into](/en/post/into/) [the](/en/post/the/) [unknown](/en/post/unknown/) wilderness."
-   - Synonyms: embark, [explore](/en/post/explore/), [venture](/en/post/venture/), [travel](/en/post/travel/), [set](/en/post/set/) [out](/en/post/out/)
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [engage](/post/engage/) [in](/post/in/) [or](/post/or/) [undertake](/post/undertake/) an adventurous [activity](/post/activity/) [or](/post/or/) [journey](/post/journey/).**
+   - [Example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [adventure](/post/adventure/) [into](/post/into/) [the](/post/the/) [unknown](/post/unknown/) wilderness."
+   - Synonyms: embark, [explore](/post/explore/), [venture](/post/venture/), [travel](/post/travel/), [set](/post/set/) [out](/post/out/)
 
-2. **[To](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [chance](/en/post/chance/) [or](/en/post/or/) [act](/en/post/act/) courageously [in](/en/post/in/) [a](/en/post/a/) [new](/en/post/new/) [situation](/en/post/situation/).**
-   - [Example](/en/post/example/): "She冒险接受了这份工作，knowing [it](/en/post/it/) [would](/en/post/would/) [be](/en/post/be/) [a](/en/post/a/) [challenge](/en/post/challenge/)."
+2. **[To](/post/to/) [take](/post/take/) [a](/post/a/) [chance](/post/chance/) [or](/post/or/) [act](/post/act/) courageously [in](/post/in/) [a](/post/a/) [new](/post/new/) [situation](/post/situation/).**
+   - [Example](/post/example/): "She冒险接受了这份工作，knowing [it](/post/it/) [would](/post/would/) [be](/post/be/) [a](/post/a/) [challenge](/post/challenge/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Characterizing [something](/en/post/something/) [as](/en/post/as/) [exciting](/en/post/exciting/), [full](/en/post/full/) [of](/en/post/of/) [unexpected](/en/post/unexpected/) events, [or](/en/post/or/) [daring](/en/post/daring/).**
-   - [Example](/en/post/example/): "[The](/en/post/the/) [adventure](/en/post/adventure/) [film](/en/post/film/) had [a](/en/post/a/) gripping storyline [and](/en/post/and/) breathtaking [scenery](/en/post/scenery/)."
+### [Adjective](/post/adjective/)
+1. **Characterizing [something](/post/something/) [as](/post/as/) [exciting](/post/exciting/), [full](/post/full/) [of](/post/of/) [unexpected](/post/unexpected/) events, [or](/post/or/) [daring](/post/daring/).**
+   - [Example](/post/example/): "[The](/post/the/) [adventure](/post/adventure/) [film](/post/film/) had [a](/post/a/) gripping storyline [and](/post/and/) breathtaking [scenery](/post/scenery/)."
 
 ## Phrases
-- "Embark [on](/en/post/on/) an [adventure](/en/post/adventure/)" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) [a](/en/post/a/) [journey](/en/post/journey/) [or](/en/post/or/) [undertaking](/en/post/undertaking/) filled [with](/en/post/with/) excitement.
-- "[Live](/en/post/live/) [life](/en/post/life/) [like](/en/post/like/) an [adventure](/en/post/adventure/)" encourages taking risks [and](/en/post/and/) embracing [new](/en/post/new/) experiences.
-- "[Adventure](/en/post/adventure/) awaits" suggests [a](/en/post/a/) thrilling [opportunity](/en/post/opportunity/) is imminent.
+- "Embark [on](/post/on/) an [adventure](/post/adventure/)" [means](/post/means/) [to](/post/to/) [start](/post/start/) [a](/post/a/) [journey](/post/journey/) [or](/post/or/) [undertaking](/post/undertaking/) filled [with](/post/with/) excitement.
+- "[Live](/post/live/) [life](/post/life/) [like](/post/like/) an [adventure](/post/adventure/)" encourages taking risks [and](/post/and/) embracing [new](/post/new/) experiences.
+- "[Adventure](/post/adventure/) awaits" suggests [a](/post/a/) thrilling [opportunity](/post/opportunity/) is imminent.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) family's [annual](/en/post/annual/) camping [trip](/en/post/trip/) was [a](/en/post/a/) memorable [adventure](/en/post/adventure/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) graduating, he冒险去了欧洲背包旅行，拓宽了视野。"
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) felt [a](/en/post/a/) [rush](/en/post/rush/) [of](/en/post/of/) adrenaline [as](/en/post/as/) [she](/en/post/she/) embarked [on](/en/post/on/) [her](/en/post/her/) adventurous lifestyle."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Their](/post/their/) family's [annual](/post/annual/) camping [trip](/post/trip/) was [a](/post/a/) memorable [adventure](/post/adventure/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) graduating, he冒险去了欧洲背包旅行，拓宽了视野。"
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) felt [a](/post/a/) [rush](/post/rush/) [of](/post/of/) adrenaline [as](/post/as/) [she](/post/she/) embarked [on](/post/on/) [her](/post/her/) adventurous lifestyle."
 
 ## Synonyms
-- [Excursion](/en/post/excursion/)
+- [Excursion](/post/excursion/)
 - Expedition
 - Trek
 - Quest
 - Jamboree
 - Romp
-- [Dare](/en/post/dare/)
+- [Dare](/post/dare/)
 - Gamble
-- [Plunge](/en/post/plunge/)
+- [Plunge](/post/plunge/)

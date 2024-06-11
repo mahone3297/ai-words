@@ -11,20 +11,20 @@ keywords = ['ai words', 'commonly']
 /ˈkɑːmənli/
 
 ## 释义
-- **副词**: 平常地；通常；普遍地。例如: "[It](/post/it/) is [commonly](/post/commonly/) believed [that](/post/that/) [exercise](/post/exercise/) is [good](/post/good/) [for](/post/for/) [health](/post/health/)."
-- **形容词**: 常见的；普通的。例如: "[The](/post/the/) [most](/post/most/) [commonly](/post/commonly/) [used](/post/used/) [word](/post/word/) [in](/post/in/) English is '[the](/post/the/)'."
+- **副词**: 平常地；通常；普遍地。例如: "[It](/zh/post/it/) is [commonly](/zh/post/commonly/) believed [that](/zh/post/that/) [exercise](/zh/post/exercise/) is [good](/zh/post/good/) [for](/zh/post/for/) [health](/zh/post/health/)."
+- **形容词**: 常见的；普通的。例如: "[The](/zh/post/the/) [most](/zh/post/most/) [commonly](/zh/post/commonly/) [used](/zh/post/used/) [word](/zh/post/word/) [in](/zh/post/in/) English is '[the](/zh/post/the/)'."
 
 ## 短语
-- "[In](/post/in/) [common](/post/common/)" 意为共同的，共有的。例如: "[We](/post/we/) [have](/post/have/) [a](/post/a/) [love](/post/love/) [for](/post/for/) [music](/post/music/) [in](/post/in/) [common](/post/common/)."
-- "[Common](/post/common/) [sense](/post/sense/)" 指常识。例如: "Using [common](/post/common/) [sense](/post/sense/) [can](/post/can/) [often](/post/often/) [prevent](/post/prevent/) accidents."
+- "[In](/zh/post/in/) [common](/zh/post/common/)" 意为共同的，共有的。例如: "[We](/zh/post/we/) [have](/zh/post/have/) [a](/zh/post/a/) [love](/zh/post/love/) [for](/zh/post/for/) [music](/zh/post/music/) [in](/zh/post/in/) [common](/zh/post/common/)."
+- "[Common](/zh/post/common/) [sense](/zh/post/sense/)" 指常识。例如: "Using [common](/zh/post/common/) [sense](/zh/post/sense/) [can](/zh/post/can/) [often](/zh/post/often/) [prevent](/zh/post/prevent/) accidents."
 
 ## 例句
-- 副词: "[People](/post/people/) [commonly](/post/commonly/) [mistake](/post/mistake/) [him](/post/him/) [for](/post/for/) [his](/post/his/) [twin](/post/twin/) [brother](/post/brother/)."
-- 形容词: "[The](/post/the/) [common](/post/common/) [cold](/post/cold/) is [a](/post/a/) [very](/post/very/) contagious [illness](/post/illness/)."
+- 副词: "[People](/zh/post/people/) [commonly](/zh/post/commonly/) [mistake](/zh/post/mistake/) [him](/zh/post/him/) [for](/zh/post/for/) [his](/zh/post/his/) [twin](/zh/post/twin/) [brother](/zh/post/brother/)."
+- 形容词: "[The](/zh/post/the/) [common](/zh/post/common/) [cold](/zh/post/cold/) is [a](/zh/post/a/) [very](/zh/post/very/) contagious [illness](/zh/post/illness/)."
 
 ## 同义词
-- [Frequently](/post/frequently/)
+- [Frequently](/zh/post/frequently/)
 - Ordinarily
-- [Usually](/post/usually/)
-- [Generally](/post/generally/)
-- [Often](/post/often/)
+- [Usually](/zh/post/usually/)
+- [Generally](/zh/post/generally/)
+- [Often](/zh/post/often/)

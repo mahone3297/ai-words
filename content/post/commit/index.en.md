@@ -7,42 +7,42 @@ description = '[kəˈmit] vt.犯(错误);干(坏事)'
 keywords = ['ai words', 'commit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈmɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Commitment**: [A](/en/post/a/) [promise](/en/post/promise/) [or](/en/post/or/) [agreement](/en/post/agreement/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [often](/en/post/often/) involving [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) obligation [or](/en/post/or/) dedication. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) commitment [to](/en/post/to/) [the](/en/post/the/) [project](/en/post/project/) was unwavering."
-- **[Crime](/en/post/crime/)**: An [act](/en/post/act/) [that](/en/post/that/) is [against](/en/post/against/) [the](/en/post/the/) [law](/en/post/law/) [and](/en/post/and/) punishable [by](/en/post/by/) [a](/en/post/a/) [court](/en/post/court/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [bank](/en/post/bank/) [robbery](/en/post/robbery/) was [a](/en/post/a/) [serious](/en/post/serious/) [crime](/en/post/crime/)."
-- **Commitment [ceremony](/en/post/ceremony/)**: [A](/en/post/a/) [formal](/en/post/formal/) [event](/en/post/event/) marking [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [a](/en/post/a/) long-term [relationship](/en/post/relationship/), [like](/en/post/like/) [a](/en/post/a/) [wedding](/en/post/wedding/) [without](/en/post/without/) [the](/en/post/the/) [legal](/en/post/legal/) aspects. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) held [a](/en/post/a/) [small](/en/post/small/) commitment [ceremony](/en/post/ceremony/) [before](/en/post/before/) getting [married](/en/post/married/)."
+### [Noun](/post/noun/)
+- **Commitment**: [A](/post/a/) [promise](/post/promise/) [or](/post/or/) [agreement](/post/agreement/) [to](/post/to/) [do](/post/do/) [something](/post/something/), [often](/post/often/) involving [a](/post/a/) [sense](/post/sense/) [of](/post/of/) obligation [or](/post/or/) dedication. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) commitment [to](/post/to/) [the](/post/the/) [project](/post/project/) was unwavering."
+- **[Crime](/post/crime/)**: An [act](/post/act/) [that](/post/that/) is [against](/post/against/) [the](/post/the/) [law](/post/law/) [and](/post/and/) punishable [by](/post/by/) [a](/post/a/) [court](/post/court/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [bank](/post/bank/) [robbery](/post/robbery/) was [a](/post/a/) [serious](/post/serious/) [crime](/post/crime/)."
+- **Commitment [ceremony](/post/ceremony/)**: [A](/post/a/) [formal](/post/formal/) [event](/post/event/) marking [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [a](/post/a/) long-term [relationship](/post/relationship/), [like](/post/like/) [a](/post/a/) [wedding](/post/wedding/) [without](/post/without/) [the](/post/the/) [legal](/post/legal/) aspects. [For](/post/for/) [example](/post/example/): "[They](/post/they/) held [a](/post/a/) [small](/post/small/) commitment [ceremony](/post/ceremony/) [before](/post/before/) getting [married](/post/married/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [commit](/en/post/commit/)**: [To](/en/post/to/) [do](/en/post/do/) [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) (an [action](/en/post/action/)), pledge, [or](/en/post/or/) dedicate [oneself](/en/post/oneself/) [to](/en/post/to/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) committed [herself](/en/post/herself/) [to](/en/post/to/) [daily](/en/post/daily/) [exercise](/en/post/exercise/)."
-- **[To](/en/post/to/) [commit](/en/post/commit/) [a](/en/post/a/) [crime](/en/post/crime/)**: [To](/en/post/to/) [perform](/en/post/perform/) an [illegal](/en/post/illegal/) [act](/en/post/act/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was charged [with](/en/post/with/) committing fraud."
-- **[To](/en/post/to/) [commit](/en/post/commit/) [to](/en/post/to/) [memory](/en/post/memory/)**: [To](/en/post/to/) [learn](/en/post/learn/) [something](/en/post/something/) [by](/en/post/by/) [heart](/en/post/heart/). [For](/en/post/for/) [example](/en/post/example/): "I've committed [the](/en/post/the/) [speech](/en/post/speech/) [to](/en/post/to/) [memory](/en/post/memory/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [commit](/post/commit/)**: [To](/post/to/) [do](/post/do/) [or](/post/or/) [engage](/post/engage/) [in](/post/in/) (an [action](/post/action/)), pledge, [or](/post/or/) dedicate [oneself](/post/oneself/) [to](/post/to/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) committed [herself](/post/herself/) [to](/post/to/) [daily](/post/daily/) [exercise](/post/exercise/)."
+- **[To](/post/to/) [commit](/post/commit/) [a](/post/a/) [crime](/post/crime/)**: [To](/post/to/) [perform](/post/perform/) an [illegal](/post/illegal/) [act](/post/act/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) was charged [with](/post/with/) committing fraud."
+- **[To](/post/to/) [commit](/post/commit/) [to](/post/to/) [memory](/post/memory/)**: [To](/post/to/) [learn](/post/learn/) [something](/post/something/) [by](/post/by/) [heart](/post/heart/). [For](/post/for/) [example](/post/example/): "I've committed [the](/post/the/) [speech](/post/speech/) [to](/post/to/) [memory](/post/memory/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Commit](/en/post/commit/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [being](/en/post/being/) dedicated [or](/en/post/or/) [loyal](/en/post/loyal/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) committed environmentalist."
+### [Adjective](/post/adjective/)
+- **[Commit](/post/commit/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [being](/post/being/) dedicated [or](/post/or/) [loyal](/post/loyal/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) committed environmentalist."
 
-### [Adverb](/en/post/adverb/)
-- **Committedly**: [In](/en/post/in/) [a](/en/post/a/) committed [manner](/en/post/manner/); sincerely. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke committedly [about](/en/post/about/) [her](/en/post/her/) [passion](/en/post/passion/) [for](/en/post/for/) [the](/en/post/the/) [cause](/en/post/cause/)."
+### [Adverb](/post/adverb/)
+- **Committedly**: [In](/post/in/) [a](/post/a/) committed [manner](/post/manner/); sincerely. [For](/post/for/) [example](/post/example/): "[She](/post/she/) spoke committedly [about](/post/about/) [her](/post/her/) [passion](/post/passion/) [for](/post/for/) [the](/post/the/) [cause](/post/cause/)."
 
 ## Phrases
-- "[Commit](/en/post/commit/) [to](/en/post/to/) [a](/en/post/a/) [goal](/en/post/goal/)" [means](/en/post/means/) [to](/en/post/to/) pledge [oneself](/en/post/oneself/) [to](/en/post/to/) achieving [a](/en/post/a/) [particular](/en/post/particular/) [objective](/en/post/objective/).
-- "[Commit](/en/post/commit/) [oneself](/en/post/oneself/) [to](/en/post/to/) [someone](/en/post/someone/)" implies [a](/en/post/a/) [strong](/en/post/strong/) [emotional](/en/post/emotional/) attachment [or](/en/post/or/) [loyalty](/en/post/loyalty/).
-- "[Commit](/en/post/commit/) resources" signifies allocating funds, [time](/en/post/time/), [or](/en/post/or/) [effort](/en/post/effort/) towards [a](/en/post/a/) [project](/en/post/project/).
+- "[Commit](/post/commit/) [to](/post/to/) [a](/post/a/) [goal](/post/goal/)" [means](/post/means/) [to](/post/to/) pledge [oneself](/post/oneself/) [to](/post/to/) achieving [a](/post/a/) [particular](/post/particular/) [objective](/post/objective/).
+- "[Commit](/post/commit/) [oneself](/post/oneself/) [to](/post/to/) [someone](/post/someone/)" implies [a](/post/a/) [strong](/post/strong/) [emotional](/post/emotional/) attachment [or](/post/or/) [loyalty](/post/loyalty/).
+- "[Commit](/post/commit/) resources" signifies allocating funds, [time](/post/time/), [or](/post/or/) [effort](/post/effort/) towards [a](/post/a/) [project](/post/project/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) commitment [to](/en/post/to/) [the](/en/post/the/) team's [success](/en/post/success/) was [evident](/en/post/evident/) [in](/en/post/in/) [his](/en/post/his/) tireless [work](/en/post/work/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) [research](/en/post/research/), [he](/en/post/he/) [finally](/en/post/finally/) committed [the](/en/post/the/) [theory](/en/post/theory/) [to](/en/post/to/) [paper](/en/post/paper/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) committed volunteers spent [their](/en/post/their/) weekends [at](/en/post/at/) [the](/en/post/the/) [shelter](/en/post/shelter/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) committededly pursued [her](/en/post/her/) [education](/en/post/education/), knowing [it](/en/post/it/) was [the](/en/post/the/) [key](/en/post/key/) [to](/en/post/to/) [her](/en/post/her/) [future](/en/post/future/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) commitment [to](/post/to/) [the](/post/the/) team's [success](/post/success/) was [evident](/post/evident/) [in](/post/in/) [his](/post/his/) tireless [work](/post/work/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) years [of](/post/of/) [research](/post/research/), [he](/post/he/) [finally](/post/finally/) committed [the](/post/the/) [theory](/post/theory/) [to](/post/to/) [paper](/post/paper/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) committed volunteers spent [their](/post/their/) weekends [at](/post/at/) [the](/post/the/) [shelter](/post/shelter/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) committededly pursued [her](/post/her/) [education](/post/education/), knowing [it](/post/it/) was [the](/post/the/) [key](/post/key/) [to](/post/to/) [her](/post/her/) [future](/post/future/)."
 
 ## Synonyms
-- [Devote](/en/post/devote/)
+- [Devote](/post/devote/)
 - Pledge
-- [Engage](/en/post/engage/)
-- [Bound](/en/post/bound/)
+- [Engage](/post/engage/)
+- [Bound](/post/bound/)
 - Dedicated
-- [Loyal](/en/post/loyal/)
+- [Loyal](/post/loyal/)
 - Committedly

@@ -11,19 +11,19 @@ keywords = ['ai words', 'loud']
 /lɔːd/
 
 ## 释义
-- **形容词**: 大声的，响亮的。例如: "[She](/post/she/) sang [in](/post/in/) [a](/post/a/) [loud](/post/loud/) [voice](/post/voice/)."
-- **副词**: 大声地，响亮地。例如: "[Speak](/post/speak/) louder [so](/post/so/) [everyone](/post/everyone/) [can](/post/can/) [hear](/post/hear/) [you](/post/you/)."
+- **形容词**: 大声的，响亮的。例如: "[She](/zh/post/she/) sang [in](/zh/post/in/) [a](/zh/post/a/) [loud](/zh/post/loud/) [voice](/zh/post/voice/)."
+- **副词**: 大声地，响亮地。例如: "[Speak](/zh/post/speak/) louder [so](/zh/post/so/) [everyone](/zh/post/everyone/) [can](/zh/post/can/) [hear](/zh/post/hear/) [you](/zh/post/you/)."
 
 ## 短语
-- "[Loud](/post/loud/) [music](/post/music/)" 指声音大的音乐。
-- "[A](/post/a/) [loud](/post/loud/) [noise](/post/noise/)" 表示噪音或大声的声音。
+- "[Loud](/zh/post/loud/) [music](/zh/post/music/)" 指声音大的音乐。
+- "[A](/zh/post/a/) [loud](/zh/post/loud/) [noise](/zh/post/noise/)" 表示噪音或大声的声音。
 
 ## 例句
-- 形容词: "[The](/post/the/) children were playing [with](/post/with/) [loud](/post/loud/) toys, [which](/post/which/) bothered [the](/post/the/) neighbors."
-- 副词: "[He](/post/he/) shouted [so](/post/so/) [loud](/post/loud/) [that](/post/that/) [the](/post/the/) [whole](/post/whole/) neighborhood [could](/post/could/) [hear](/post/hear/) [him](/post/him/)."
+- 形容词: "[The](/zh/post/the/) children were playing [with](/zh/post/with/) [loud](/zh/post/loud/) toys, [which](/zh/post/which/) bothered [the](/zh/post/the/) neighbors."
+- 副词: "[He](/zh/post/he/) shouted [so](/zh/post/so/) [loud](/zh/post/loud/) [that](/zh/post/that/) [the](/zh/post/the/) [whole](/zh/post/whole/) neighborhood [could](/zh/post/could/) [hear](/zh/post/hear/) [him](/zh/post/him/)."
 
 ## 同义词
-- [Noisy](/post/noisy/)
+- [Noisy](/zh/post/noisy/)
 - Amplified
 - Forceful
 - Boisterous

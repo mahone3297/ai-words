@@ -7,31 +7,31 @@ description = '[ˈgudnis] n.优良，德性，仁慈'
 keywords = ['ai words', 'goodness']
 +++
 
-## [Word](/en/post/word/): [Goodness](/en/post/goodness/)
+## [Word](/post/word/): [Goodness](/post/goodness/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡʊdnəs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [good](/en/post/good/), [moral](/en/post/moral/) excellence, [or](/en/post/or/) [virtue](/en/post/virtue/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) inherent [goodness](/en/post/goodness/) [or](/en/post/or/) [positive](/en/post/positive/) aspects [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [goodness](/en/post/goodness/) [of](/en/post/of/) [his](/en/post/his/) [heart](/en/post/heart/) was [evident](/en/post/evident/) [in](/en/post/in/) [his](/en/post/his/) actions."
-   - *Food-related [meaning](/en/post/meaning/)*: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [good](/en/post/good/) [or](/en/post/or/) [beneficial](/en/post/beneficial/), [especially](/en/post/especially/) [regarding](/en/post/regarding/) [the](/en/post/the/) nutritional [value](/en/post/value/) [or](/en/post/or/) [taste](/en/post/taste/) [of](/en/post/of/) [food](/en/post/food/). [Example](/en/post/example/): "[This](/en/post/this/) [organic](/en/post/organic/) [honey](/en/post/honey/) is [full](/en/post/full/) [of](/en/post/of/) [natural](/en/post/natural/) [goodness](/en/post/goodness/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [good](/post/good/), [moral](/post/moral/) excellence, [or](/post/or/) [virtue](/post/virtue/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) inherent [goodness](/post/goodness/) [or](/post/or/) [positive](/post/positive/) aspects [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [goodness](/post/goodness/) [of](/post/of/) [his](/post/his/) [heart](/post/heart/) was [evident](/post/evident/) [in](/post/in/) [his](/post/his/) actions."
+   - *Food-related [meaning](/post/meaning/)*: [The](/post/the/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [good](/post/good/) [or](/post/or/) [beneficial](/post/beneficial/), [especially](/post/especially/) [regarding](/post/regarding/) [the](/post/the/) nutritional [value](/post/value/) [or](/post/or/) [taste](/post/taste/) [of](/post/of/) [food](/post/food/). [Example](/post/example/): "[This](/post/this/) [organic](/post/organic/) [honey](/post/honey/) is [full](/post/full/) [of](/post/of/) [natural](/post/natural/) [goodness](/post/goodness/)."
 
-- **Interjection**: An [expression](/en/post/expression/) [of](/en/post/of/) [surprise](/en/post/surprise/), bewilderment, [or](/en/post/or/) [emphasis](/en/post/emphasis/), [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [convey](/en/post/convey/) [mild](/en/post/mild/) annoyance [or](/en/post/or/) frustration. [Example](/en/post/example/): "[Goodness](/en/post/goodness/) [gracious](/en/post/gracious/), [how](/en/post/how/) did [that](/en/post/that/) [happen](/en/post/happen/)?"
+- **Interjection**: An [expression](/post/expression/) [of](/post/of/) [surprise](/post/surprise/), bewilderment, [or](/post/or/) [emphasis](/post/emphasis/), [often](/post/often/) [used](/post/used/) [to](/post/to/) [convey](/post/convey/) [mild](/post/mild/) annoyance [or](/post/or/) frustration. [Example](/post/example/): "[Goodness](/post/goodness/) [gracious](/post/gracious/), [how](/post/how/) did [that](/post/that/) [happen](/post/happen/)?"
 
 ## Phrases
-- "[For](/en/post/for/) [goodness](/en/post/goodness/)' [sake](/en/post/sake/)": An idiomatic [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) impatience, frustration, [or](/en/post/or/) exasperation, [similar](/en/post/similar/) [to](/en/post/to/) '[for](/en/post/for/) heaven's [sake](/en/post/sake/).' [Example](/en/post/example/): "[For](/en/post/for/) [goodness](/en/post/goodness/)' [sake](/en/post/sake/), [hurry](/en/post/hurry/) [up](/en/post/up/)!"
-- "[Goodness](/en/post/goodness/) knows": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) uncertainty [or](/en/post/or/) [emphasize](/en/post/emphasize/) [a](/en/post/a/) [point](/en/post/point/), implying [that](/en/post/that/) [only](/en/post/only/) [a](/en/post/a/) higher [power](/en/post/power/) [could](/en/post/could/) [know](/en/post/know/) [the](/en/post/the/) [answer](/en/post/answer/). [Example](/en/post/example/): "[Goodness](/en/post/goodness/) knows [when](/en/post/when/) he'll [arrive](/en/post/arrive/)."
+- "[For](/post/for/) [goodness](/post/goodness/)' [sake](/post/sake/)": An idiomatic [expression](/post/expression/) [used](/post/used/) [to](/post/to/) [express](/post/express/) impatience, frustration, [or](/post/or/) exasperation, [similar](/post/similar/) [to](/post/to/) '[for](/post/for/) heaven's [sake](/post/sake/).' [Example](/post/example/): "[For](/post/for/) [goodness](/post/goodness/)' [sake](/post/sake/), [hurry](/post/hurry/) [up](/post/up/)!"
+- "[Goodness](/post/goodness/) knows": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) uncertainty [or](/post/or/) [emphasize](/post/emphasize/) [a](/post/a/) [point](/post/point/), implying [that](/post/that/) [only](/post/only/) [a](/post/a/) higher [power](/post/power/) [could](/post/could/) [know](/post/know/) [the](/post/the/) [answer](/post/answer/). [Example](/post/example/): "[Goodness](/post/goodness/) knows [when](/post/when/) he'll [arrive](/post/arrive/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) unwavering commitment [to](/en/post/to/) [honesty](/en/post/honesty/) was [a](/en/post/a/) testament [to](/en/post/to/) [the](/en/post/the/) [depth](/en/post/depth/) [of](/en/post/of/) [her](/en/post/her/) [goodness](/en/post/goodness/)."
-- **Food-related [Noun](/en/post/noun/)**: "Grandma's homemade [apple](/en/post/apple/) [pie](/en/post/pie/) is filled [with](/en/post/with/) [the](/en/post/the/) [goodness](/en/post/goodness/) [of](/en/post/of/) [fresh](/en/post/fresh/) [fruit](/en/post/fruit/) [and](/en/post/and/) [natural](/en/post/natural/) ingredients."
-- **Interjection**: "[Goodness](/en/post/goodness/) [me](/en/post/me/), it's been ages [since](/en/post/since/) [we](/en/post/we/) [last](/en/post/last/) spoke!"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) unwavering commitment [to](/post/to/) [honesty](/post/honesty/) was [a](/post/a/) testament [to](/post/to/) [the](/post/the/) [depth](/post/depth/) [of](/post/of/) [her](/post/her/) [goodness](/post/goodness/)."
+- **Food-related [Noun](/post/noun/)**: "Grandma's homemade [apple](/post/apple/) [pie](/post/pie/) is filled [with](/post/with/) [the](/post/the/) [goodness](/post/goodness/) [of](/post/of/) [fresh](/post/fresh/) [fruit](/post/fruit/) [and](/post/and/) [natural](/post/natural/) ingredients."
+- **Interjection**: "[Goodness](/post/goodness/) [me](/post/me/), it's been ages [since](/post/since/) [we](/post/we/) [last](/post/last/) spoke!"
 
 ## Synonyms
-- [Virtue](/en/post/virtue/)
+- [Virtue](/post/virtue/)
 - Morality
 - Benevolence
-- [Kindness](/en/post/kindness/)
-- Decency ([for](/en/post/for/) [moral](/en/post/moral/) [goodness](/en/post/goodness/))
-- Nutrient [content](/en/post/content/)
-- Healthiness ([for](/en/post/for/) food-related [goodness](/en/post/goodness/))
+- [Kindness](/post/kindness/)
+- Decency ([for](/post/for/) [moral](/post/moral/) [goodness](/post/goodness/))
+- Nutrient [content](/post/content/)
+- Healthiness ([for](/post/for/) food-related [goodness](/post/goodness/))

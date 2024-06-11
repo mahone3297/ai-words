@@ -7,32 +7,32 @@ description = '[inˈkʌridʒ] vt.鼓励，支持，助长'
 keywords = ['ai words', 'encourage']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈkʌrɪdʒ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [inspire](/en/post/inspire/) [with](/en/post/with/) [courage](/en/post/courage/), [spirit](/en/post/spirit/), [or](/en/post/or/) [confidence](/en/post/confidence/); [to](/en/post/to/) hearten [or](/en/post/or/) embolden [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) encouraging words helped [him](/en/post/him/) [to](/en/post/to/) [face](/en/post/face/) [his](/en/post/his/) fears."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [stimulate](/en/post/stimulate/) [by](/en/post/by/) assistance, [approval](/en/post/approval/), [or](/en/post/or/) promotion; [to](/en/post/to/) [give](/en/post/give/) [support](/en/post/support/), backing, [or](/en/post/or/) [help](/en/post/help/) [to](/en/post/to/) [something](/en/post/something/) [such](/en/post/such/) [as](/en/post/as/) an [action](/en/post/action/), [plan](/en/post/plan/), [or](/en/post/or/) [idea](/en/post/idea/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) encourages [her](/en/post/her/) students [to](/en/post/to/) [think](/en/post/think/) creatively."
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) inspiring [with](/en/post/with/) [hope](/en/post/hope/), [courage](/en/post/courage/), [or](/en/post/or/) [confidence](/en/post/confidence/); an inducement [or](/en/post/or/) stimulus. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) encouragement motivated [the](/en/post/the/) [team](/en/post/team/) [to](/en/post/to/) [work](/en/post/work/) harder."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [inspire](/post/inspire/) [with](/post/with/) [courage](/post/courage/), [spirit](/post/spirit/), [or](/post/or/) [confidence](/post/confidence/); [to](/post/to/) hearten [or](/post/or/) embolden [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) encouraging words helped [him](/post/him/) [to](/post/to/) [face](/post/face/) [his](/post/his/) fears."
+- **[Verb](/post/verb/)**: [To](/post/to/) [stimulate](/post/stimulate/) [by](/post/by/) assistance, [approval](/post/approval/), [or](/post/or/) promotion; [to](/post/to/) [give](/post/give/) [support](/post/support/), backing, [or](/post/or/) [help](/post/help/) [to](/post/to/) [something](/post/something/) [such](/post/such/) [as](/post/as/) an [action](/post/action/), [plan](/post/plan/), [or](/post/or/) [idea](/post/idea/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) encourages [her](/post/her/) students [to](/post/to/) [think](/post/think/) creatively."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) inspiring [with](/post/with/) [hope](/post/hope/), [courage](/post/courage/), [or](/post/or/) [confidence](/post/confidence/); an inducement [or](/post/or/) stimulus. [For](/post/for/) [example](/post/example/): "[His](/post/his/) encouragement motivated [the](/post/the/) [team](/post/team/) [to](/post/to/) [work](/post/work/) harder."
 
 ## Phrases
-- "[Encourage](/en/post/encourage/) [someone](/en/post/someone/) [on](/en/post/on/)" [means](/en/post/means/) [to](/en/post/to/) [cheer](/en/post/cheer/) [someone](/en/post/someone/) [on](/en/post/on/) [or](/en/post/or/) [give](/en/post/give/) [them](/en/post/them/) [moral](/en/post/moral/) [support](/en/post/support/).
-- "[To](/en/post/to/) [encourage](/en/post/encourage/) [good](/en/post/good/) [behavior](/en/post/behavior/)" refers [to](/en/post/to/) motivating [someone](/en/post/someone/) [to](/en/post/to/) [behave](/en/post/behave/) [well](/en/post/well/) [or](/en/post/or/) [act](/en/post/act/) positively.
-- "I [encourage](/en/post/encourage/) [you](/en/post/you/) [to](/en/post/to/)..." is [often](/en/post/often/) [used](/en/post/used/) [when](/en/post/when/) giving [someone](/en/post/someone/) [advice](/en/post/advice/) [or](/en/post/or/) urging [them](/en/post/them/) [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [certain](/en/post/certain/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/).
+- "[Encourage](/post/encourage/) [someone](/post/someone/) [on](/post/on/)" [means](/post/means/) [to](/post/to/) [cheer](/post/cheer/) [someone](/post/someone/) [on](/post/on/) [or](/post/or/) [give](/post/give/) [them](/post/them/) [moral](/post/moral/) [support](/post/support/).
+- "[To](/post/to/) [encourage](/post/encourage/) [good](/post/good/) [behavior](/post/behavior/)" refers [to](/post/to/) motivating [someone](/post/someone/) [to](/post/to/) [behave](/post/behave/) [well](/post/well/) [or](/post/or/) [act](/post/act/) positively.
+- "I [encourage](/post/encourage/) [you](/post/you/) [to](/post/to/)..." is [often](/post/often/) [used](/post/used/) [when](/post/when/) giving [someone](/post/someone/) [advice](/post/advice/) [or](/post/or/) urging [them](/post/them/) [to](/post/to/) [take](/post/take/) [a](/post/a/) [certain](/post/certain/) [course](/post/course/) [of](/post/of/) [action](/post/action/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [coach](/en/post/coach/) encouraged [the](/en/post/the/) [team](/en/post/team/) [to](/en/post/to/) persevere [through](/en/post/through/) [their](/en/post/their/) [training](/en/post/training/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [constant](/en/post/constant/) encouragement was [a](/en/post/a/) driving [force](/en/post/force/) [behind](/en/post/behind/) [his](/en/post/his/) [success](/en/post/success/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [coach](/post/coach/) encouraged [the](/post/the/) [team](/post/team/) [to](/post/to/) persevere [through](/post/through/) [their](/post/their/) [training](/post/training/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [constant](/post/constant/) encouragement was [a](/post/a/) driving [force](/post/force/) [behind](/post/behind/) [his](/post/his/) [success](/post/success/)."
 
 ## Synonyms
-- [Motivate](/en/post/motivate/)
-- [Inspire](/en/post/inspire/)
-- [Support](/en/post/support/)
-- [Spur](/en/post/spur/)
+- [Motivate](/post/motivate/)
+- [Inspire](/post/inspire/)
+- [Support](/post/support/)
+- [Spur](/post/spur/)
 - Hearten
 - Uplift
 - Boost
 - Stoke
-- [Promote](/en/post/promote/)
-- [Cheer](/en/post/cheer/) ([on](/en/post/on/))
-- Instigate ([in](/en/post/in/) [a](/en/post/a/) [positive](/en/post/positive/) [sense](/en/post/sense/))
+- [Promote](/post/promote/)
+- [Cheer](/post/cheer/) ([on](/post/on/))
+- Instigate ([in](/post/in/) [a](/post/a/) [positive](/post/positive/) [sense](/post/sense/))

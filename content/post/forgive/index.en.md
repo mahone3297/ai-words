@@ -7,32 +7,32 @@ description = '[fəˈgiv] vt.原谅，饶恕，宽恕'
 keywords = ['ai words', 'forgive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fərˈɡɪv/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) absolve [someone](/en/post/someone/) [of](/en/post/of/) [blame](/en/post/blame/) [or](/en/post/or/) [punishment](/en/post/punishment/) [for](/en/post/for/) [a](/en/post/a/) [fault](/en/post/fault/) [or](/en/post/or/) offense; [to](/en/post/to/) [pardon](/en/post/pardon/) [or](/en/post/or/) [excuse](/en/post/excuse/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) forgave [him](/en/post/him/) [for](/en/post/for/) [his](/en/post/his/) [mistake](/en/post/mistake/)."
-  - **[To](/en/post/to/) [give](/en/post/give/) [up](/en/post/up/) resentment [against](/en/post/against/)**: "[It](/en/post/it/) takes [time](/en/post/time/) [to](/en/post/to/) [forgive](/en/post/forgive/) [and](/en/post/and/) [forget](/en/post/forget/) [after](/en/post/after/) [a](/en/post/a/) [serious](/en/post/serious/) [argument](/en/post/argument/)."
-  - **[To](/en/post/to/) [cancel](/en/post/cancel/) [or](/en/post/or/) remit ([a](/en/post/a/) [debt](/en/post/debt/), obligation, penalty, etc.)**: "[The](/en/post/the/) [king](/en/post/king/) decided [to](/en/post/to/) [forgive](/en/post/forgive/) [all](/en/post/all/) taxes owed [by](/en/post/by/) [the](/en/post/the/) peasants."
+- **[Verb](/post/verb/)**: [To](/post/to/) absolve [someone](/post/someone/) [of](/post/of/) [blame](/post/blame/) [or](/post/or/) [punishment](/post/punishment/) [for](/post/for/) [a](/post/a/) [fault](/post/fault/) [or](/post/or/) offense; [to](/post/to/) [pardon](/post/pardon/) [or](/post/or/) [excuse](/post/excuse/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) forgave [him](/post/him/) [for](/post/for/) [his](/post/his/) [mistake](/post/mistake/)."
+  - **[To](/post/to/) [give](/post/give/) [up](/post/up/) resentment [against](/post/against/)**: "[It](/post/it/) takes [time](/post/time/) [to](/post/to/) [forgive](/post/forgive/) [and](/post/and/) [forget](/post/forget/) [after](/post/after/) [a](/post/a/) [serious](/post/serious/) [argument](/post/argument/)."
+  - **[To](/post/to/) [cancel](/post/cancel/) [or](/post/or/) remit ([a](/post/a/) [debt](/post/debt/), obligation, penalty, etc.)**: "[The](/post/the/) [king](/post/king/) decided [to](/post/to/) [forgive](/post/forgive/) [all](/post/all/) taxes owed [by](/post/by/) [the](/post/the/) peasants."
 
 ### Phrases
-- "[Forgive](/en/post/forgive/) [and](/en/post/and/) [forget](/en/post/forget/)": [To](/en/post/to/) [pardon](/en/post/pardon/) [someone](/en/post/someone/) [for](/en/post/for/) [something](/en/post/something/) [wrong](/en/post/wrong/) they've done [and](/en/post/and/) [not](/en/post/not/) [hold](/en/post/hold/) [it](/en/post/it/) [against](/en/post/against/) [them](/en/post/them/) anymore.
-- "[Forgive](/en/post/forgive/) [me](/en/post/me/)/[us](/en/post/us/)/[them](/en/post/them/)": An [expression](/en/post/expression/) [used](/en/post/used/) [when](/en/post/when/) apologizing [or](/en/post/or/) seeking [pardon](/en/post/pardon/) [for](/en/post/for/) [oneself](/en/post/oneself/) [or](/en/post/or/) others.
-- "[To](/en/post/to/) [be](/en/post/be/) forgiven": [To](/en/post/to/) [have](/en/post/have/) one's mistakes [or](/en/post/or/) transgressions pardoned.
+- "[Forgive](/post/forgive/) [and](/post/and/) [forget](/post/forget/)": [To](/post/to/) [pardon](/post/pardon/) [someone](/post/someone/) [for](/post/for/) [something](/post/something/) [wrong](/post/wrong/) they've done [and](/post/and/) [not](/post/not/) [hold](/post/hold/) [it](/post/it/) [against](/post/against/) [them](/post/them/) anymore.
+- "[Forgive](/post/forgive/) [me](/post/me/)/[us](/post/us/)/[them](/post/them/)": An [expression](/post/expression/) [used](/post/used/) [when](/post/when/) apologizing [or](/post/or/) seeking [pardon](/post/pardon/) [for](/post/for/) [oneself](/post/oneself/) [or](/post/or/) others.
+- "[To](/post/to/) [be](/post/be/) forgiven": [To](/post/to/) [have](/post/have/) one's mistakes [or](/post/or/) transgressions pardoned.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [hope](/en/post/hope/) [she](/en/post/she/) [can](/en/post/can/) [forgive](/en/post/forgive/) [me](/en/post/me/) [for](/en/post/for/) breaking [her](/en/post/her/) [vase](/en/post/vase/)."
-- "[He](/en/post/he/) forgave [his](/en/post/his/) friend's betrayal [and](/en/post/and/) chose [to](/en/post/to/) [move](/en/post/move/) [on](/en/post/on/) [with](/en/post/with/) [their](/en/post/their/) [friendship](/en/post/friendship/)."
-- "[If](/en/post/if/) [you](/en/post/you/) [forgive](/en/post/forgive/) [your](/en/post/your/) [brother](/en/post/brother/), [it](/en/post/it/) [will](/en/post/will/) [help](/en/post/help/) [heal](/en/post/heal/) [the](/en/post/the/) rift [between](/en/post/between/) [you](/en/post/you/) [both](/en/post/both/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [hope](/post/hope/) [she](/post/she/) [can](/post/can/) [forgive](/post/forgive/) [me](/post/me/) [for](/post/for/) breaking [her](/post/her/) [vase](/post/vase/)."
+- "[He](/post/he/) forgave [his](/post/his/) friend's betrayal [and](/post/and/) chose [to](/post/to/) [move](/post/move/) [on](/post/on/) [with](/post/with/) [their](/post/their/) [friendship](/post/friendship/)."
+- "[If](/post/if/) [you](/post/you/) [forgive](/post/forgive/) [your](/post/your/) [brother](/post/brother/), [it](/post/it/) [will](/post/will/) [help](/post/help/) [heal](/post/heal/) [the](/post/the/) rift [between](/post/between/) [you](/post/you/) [both](/post/both/)."
 
 ## Synonyms
-- [Pardon](/en/post/pardon/)
+- [Pardon](/post/pardon/)
 - Absolve
-- [Excuse](/en/post/excuse/)
+- [Excuse](/post/excuse/)
 - Exonerate
 - Remit
-- [Let](/en/post/let/) [go](/en/post/go/)
-- [Release](/en/post/release/)
+- [Let](/post/let/) [go](/post/go/)
+- [Release](/post/release/)
 - Forbear
-- [Bear](/en/post/bear/) [no](/en/post/no/) grudge
-- [Show](/en/post/show/) [mercy](/en/post/mercy/)
+- [Bear](/post/bear/) [no](/post/no/) grudge
+- [Show](/post/show/) [mercy](/post/mercy/)

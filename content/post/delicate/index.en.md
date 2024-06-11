@@ -7,33 +7,33 @@ description = '[ˈdelikit] a.纤细的；易碎的'
 keywords = ['ai words', 'delicate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈleɪtəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [easily](/en/post/easily/) damaged, requiring [great](/en/post/great/) [care](/en/post/care/) [or](/en/post/or/) sensitivity. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [graceful](/en/post/graceful/), refined, [or](/en/post/or/) having [a](/en/post/a/) subtle elegance. [For](/en/post/for/) [example](/en/post/example/):
-  - "[The](/en/post/the/) porcelain [vase](/en/post/vase/) was [so](/en/post/so/) [delicate](/en/post/delicate/) [that](/en/post/that/) [it](/en/post/it/) [could](/en/post/could/) [break](/en/post/break/) [with](/en/post/with/) [just](/en/post/just/) [a](/en/post/a/) [gentle](/en/post/gentle/) [touch](/en/post/touch/)."
-  - "[Her](/en/post/her/) [voice](/en/post/voice/) had [a](/en/post/a/) [delicate](/en/post/delicate/) [quality](/en/post/quality/), [like](/en/post/like/) [a](/en/post/a/) [soft](/en/post/soft/) melody."
+- **[Adjective](/post/adjective/)**: Refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is [easily](/post/easily/) damaged, requiring [great](/post/great/) [care](/post/care/) [or](/post/or/) sensitivity. [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [graceful](/post/graceful/), refined, [or](/post/or/) having [a](/post/a/) subtle elegance. [For](/post/for/) [example](/post/example/):
+  - "[The](/post/the/) porcelain [vase](/post/vase/) was [so](/post/so/) [delicate](/post/delicate/) [that](/post/that/) [it](/post/it/) [could](/post/could/) [break](/post/break/) [with](/post/with/) [just](/post/just/) [a](/post/a/) [gentle](/post/gentle/) [touch](/post/touch/)."
+  - "[Her](/post/her/) [voice](/post/voice/) had [a](/post/a/) [delicate](/post/delicate/) [quality](/post/quality/), [like](/post/like/) [a](/post/a/) [soft](/post/soft/) melody."
 
-- **[Adverb](/en/post/adverb/)**: Describing [how](/en/post/how/) [something](/en/post/something/) is done [or](/en/post/or/) suggesting [a](/en/post/a/) [gentle](/en/post/gentle/) [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/):
-  - "[She](/en/post/she/) handled [the](/en/post/the/) [situation](/en/post/situation/) [with](/en/post/with/) [such](/en/post/such/) [delicate](/en/post/delicate/) diplomacy."
-  - "[He](/en/post/he/) took [the](/en/post/the/) [medicine](/en/post/medicine/) [with](/en/post/with/) [a](/en/post/a/) [delicate](/en/post/delicate/) [touch](/en/post/touch/)."
+- **[Adverb](/post/adverb/)**: Describing [how](/post/how/) [something](/post/something/) is done [or](/post/or/) suggesting [a](/post/a/) [gentle](/post/gentle/) [manner](/post/manner/). [For](/post/for/) [example](/post/example/):
+  - "[She](/post/she/) handled [the](/post/the/) [situation](/post/situation/) [with](/post/with/) [such](/post/such/) [delicate](/post/delicate/) diplomacy."
+  - "[He](/post/he/) took [the](/post/the/) [medicine](/post/medicine/) [with](/post/with/) [a](/post/a/) [delicate](/post/delicate/) [touch](/post/touch/)."
 
 ## Phrases
-- "[A](/en/post/a/) [delicate](/en/post/delicate/) [balance](/en/post/balance/)" implies [a](/en/post/a/) [careful](/en/post/careful/) equilibrium.
-- "[To](/en/post/to/) [handle](/en/post/handle/) [something](/en/post/something/) delicately" [means](/en/post/means/) [to](/en/post/to/) [treat](/en/post/treat/) [it](/en/post/it/) [with](/en/post/with/) [great](/en/post/great/) [care](/en/post/care/) [and](/en/post/and/) sensitivity.
-- "[A](/en/post/a/) [delicate](/en/post/delicate/) [touch](/en/post/touch/)" refers [to](/en/post/to/) [skillful](/en/post/skillful/) handling [with](/en/post/with/) [care](/en/post/care/).
+- "[A](/post/a/) [delicate](/post/delicate/) [balance](/post/balance/)" implies [a](/post/a/) [careful](/post/careful/) equilibrium.
+- "[To](/post/to/) [handle](/post/handle/) [something](/post/something/) delicately" [means](/post/means/) [to](/post/to/) [treat](/post/treat/) [it](/post/it/) [with](/post/with/) [great](/post/great/) [care](/post/care/) [and](/post/and/) sensitivity.
+- "[A](/post/a/) [delicate](/post/delicate/) [touch](/post/touch/)" refers [to](/post/to/) [skillful](/post/skillful/) handling [with](/post/with/) [care](/post/care/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) dancer's movements were [so](/en/post/so/) [delicate](/en/post/delicate/) [that](/en/post/that/) [they](/en/post/they/) seemed [to](/en/post/to/) [float](/en/post/float/) [on](/en/post/on/) [air](/en/post/air/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) spoke [about](/en/post/about/) [the](/en/post/the/) [issue](/en/post/issue/) [with](/en/post/with/) [a](/en/post/a/) [delicate](/en/post/delicate/) [approach](/en/post/approach/), trying [not](/en/post/not/) [to](/en/post/to/) [offend](/en/post/offend/) [anyone](/en/post/anyone/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) dancer's movements were [so](/post/so/) [delicate](/post/delicate/) [that](/post/that/) [they](/post/they/) seemed [to](/post/to/) [float](/post/float/) [on](/post/on/) [air](/post/air/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) spoke [about](/post/about/) [the](/post/the/) [issue](/post/issue/) [with](/post/with/) [a](/post/a/) [delicate](/post/delicate/) [approach](/post/approach/), trying [not](/post/not/) [to](/post/to/) [offend](/post/offend/) [anyone](/post/anyone/)."
 
 ## Synonyms
 - Fragile
-- [Delicate](/en/post/delicate/) [nature](/en/post/nature/)
-- [Sensitive](/en/post/sensitive/)
+- [Delicate](/post/delicate/) [nature](/post/nature/)
+- [Sensitive](/post/sensitive/)
 - Tactful
-- [Graceful](/en/post/graceful/)
+- [Graceful](/post/graceful/)
 - Subtle
 - Exquisite
 - Finely wrought

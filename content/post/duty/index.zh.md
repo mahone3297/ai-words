@@ -12,28 +12,28 @@ keywords = ['ai words', 'duty']
 
 ## 释义
 - **名词**:
-  - 责任，义务：It's [your](/post/your/) [duty](/post/duty/) [to](/post/to/) [vote](/post/vote/) [in](/post/in/) [the](/post/the/) [election](/post/election/).
-  - 职责，工作：[She](/post/she/) performed [her](/post/her/) duties [as](/post/as/) [a](/post/a/) [nurse](/post/nurse/) [with](/post/with/) [great](/post/great/) dedication.
-  - 税务，关税：Customs [duty](/post/duty/) is charged [on](/post/on/) imported [goods](/post/goods/).
-  - 兵役，服役：[He](/post/he/) served [his](/post/his/) [country](/post/country/) [for](/post/for/) [two](/post/two/) years [in](/post/in/) [the](/post/the/) [army](/post/army/).
+  - 责任，义务：It's [your](/zh/post/your/) [duty](/zh/post/duty/) [to](/zh/post/to/) [vote](/zh/post/vote/) [in](/zh/post/in/) [the](/zh/post/the/) [election](/zh/post/election/).
+  - 职责，工作：[She](/zh/post/she/) performed [her](/zh/post/her/) duties [as](/zh/post/as/) [a](/zh/post/a/) [nurse](/zh/post/nurse/) [with](/zh/post/with/) [great](/zh/post/great/) dedication.
+  - 税务，关税：Customs [duty](/zh/post/duty/) is charged [on](/zh/post/on/) imported [goods](/zh/post/goods/).
+  - 兵役，服役：[He](/zh/post/he/) served [his](/zh/post/his/) [country](/zh/post/country/) [for](/zh/post/for/) [two](/zh/post/two/) years [in](/zh/post/in/) [the](/zh/post/the/) [army](/zh/post/army/).
 
 - **动词**:
-  - 履行职责：[He](/post/he/) dutifully cleaned [up](/post/up/) [after](/post/after/) [the](/post/the/) [party](/post/party/).
-  - 执行任务：[The](/post/the/) [police](/post/police/) [officer](/post/officer/) was duty-bound [to](/post/to/) [arrest](/post/arrest/) [the](/post/the/) [suspect](/post/suspect/).
+  - 履行职责：[He](/zh/post/he/) dutifully cleaned [up](/zh/post/up/) [after](/zh/post/after/) [the](/zh/post/the/) [party](/zh/post/party/).
+  - 执行任务：[The](/zh/post/the/) [police](/zh/post/police/) [officer](/zh/post/officer/) was duty-bound [to](/zh/post/to/) [arrest](/zh/post/arrest/) [the](/zh/post/the/) [suspect](/zh/post/suspect/).
 
 ## 短语
-- "[On](/post/on/) [duty](/post/duty/)" 表示正在值班或工作。
+- "[On](/zh/post/on/) [duty](/zh/post/duty/)" 表示正在值班或工作。
 - "Duty-free" 指免税的，如免税店。
-- "[Duty](/post/duty/) roster" 是工作轮班表。
+- "[Duty](/zh/post/duty/) roster" 是工作轮班表。
 
 ## 例句
-- 名词: "[He](/post/he/) took [his](/post/his/) [duty](/post/duty/) [to](/post/to/) [protect](/post/protect/) [the](/post/the/) [environment](/post/environment/) [very](/post/very/) [seriously](/post/seriously/)."
-- 动词: "[As](/post/as/) [a](/post/a/) [parent](/post/parent/), it's [my](/post/my/) [duty](/post/duty/) [to](/post/to/) [provide](/post/provide/) [for](/post/for/) [my](/post/my/) children."
-- 情景: "[The](/post/the/) customs [officer](/post/officer/) was [on](/post/on/) [duty](/post/duty/) [at](/post/at/) [the](/post/the/) [airport](/post/airport/)."
+- 名词: "[He](/zh/post/he/) took [his](/zh/post/his/) [duty](/zh/post/duty/) [to](/zh/post/to/) [protect](/zh/post/protect/) [the](/zh/post/the/) [environment](/zh/post/environment/) [very](/zh/post/very/) [seriously](/zh/post/seriously/)."
+- 动词: "[As](/zh/post/as/) [a](/zh/post/a/) [parent](/zh/post/parent/), it's [my](/zh/post/my/) [duty](/zh/post/duty/) [to](/zh/post/to/) [provide](/zh/post/provide/) [for](/zh/post/for/) [my](/zh/post/my/) children."
+- 情景: "[The](/zh/post/the/) customs [officer](/zh/post/officer/) was [on](/zh/post/on/) [duty](/zh/post/duty/) [at](/zh/post/at/) [the](/zh/post/the/) [airport](/zh/post/airport/)."
 
 ## 同义词
-- [Responsibility](/post/responsibility/)
+- [Responsibility](/zh/post/responsibility/)
 - Obligation
-- [Task](/post/task/)
+- [Task](/zh/post/task/)
 - Commitment
-- [Function](/post/function/)
+- [Function](/zh/post/function/)

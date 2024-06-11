@@ -7,53 +7,53 @@ description = '[pɑːs] vt.经过；通过；度过'
 keywords = ['ai words', 'pass']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pæs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [[verb](/en/post/verb/)](#[verb](/en/post/verb/)) [that](/en/post/that/) involves [the](/en/post/the/) [transmission](/en/post/transmission/) [or](/en/post/or/) [movement](/en/post/movement/) [from](/en/post/from/) [one](/en/post/one/) [person](/en/post/person/) [or](/en/post/or/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) [through](/en/post/through/) [a](/en/post/a/) [medium](/en/post/medium/) [or](/en/post/or/) [with](/en/post/with/) [the](/en/post/the/) assistance [of](/en/post/of/) [something](/en/post/something/).
-- [A](/en/post/a/) [certificate](/en/post/certificate/) [or](/en/post/or/) [document](/en/post/document/) allowing [entry](/en/post/entry/) [or](/en/post/or/) [travel](/en/post/travel/): "[He](/en/post/he/) showed [his](/en/post/his/) [passport](/en/post/passport/) [at](/en/post/at/) [the](/en/post/the/) [border](/en/post/border/)."
-- [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) going [past](/en/post/past/) [or](/en/post/or/) [by](/en/post/by/): "[The](/en/post/the/) [bus](/en/post/bus/) passed [the](/en/post/the/) [stop](/en/post/stop/)."
-- [A](/en/post/a/) momentary [visit](/en/post/visit/) [or](/en/post/or/) [stay](/en/post/stay/): "[We](/en/post/we/) had [a](/en/post/a/) [brief](/en/post/brief/) [pass](/en/post/pass/) [through](/en/post/through/) [the](/en/post/the/) [museum](/en/post/museum/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) [[verb](/post/verb/)](#[verb](/post/verb/)) [that](/post/that/) involves [the](/post/the/) [transmission](/post/transmission/) [or](/post/or/) [movement](/post/movement/) [from](/post/from/) [one](/post/one/) [person](/post/person/) [or](/post/or/) [place](/post/place/) [to](/post/to/) [another](/post/another/), [often](/post/often/) [through](/post/through/) [a](/post/a/) [medium](/post/medium/) [or](/post/or/) [with](/post/with/) [the](/post/the/) assistance [of](/post/of/) [something](/post/something/).
+- [A](/post/a/) [certificate](/post/certificate/) [or](/post/or/) [document](/post/document/) allowing [entry](/post/entry/) [or](/post/or/) [travel](/post/travel/): "[He](/post/he/) showed [his](/post/his/) [passport](/post/passport/) [at](/post/at/) [the](/post/the/) [border](/post/border/)."
+- [The](/post/the/) [act](/post/act/) [of](/post/of/) going [past](/post/past/) [or](/post/or/) [by](/post/by/): "[The](/post/the/) [bus](/post/bus/) passed [the](/post/the/) [stop](/post/stop/)."
+- [A](/post/a/) momentary [visit](/post/visit/) [or](/post/or/) [stay](/post/stay/): "[We](/post/we/) had [a](/post/a/) [brief](/post/brief/) [pass](/post/pass/) [through](/post/through/) [the](/post/the/) [museum](/post/museum/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [move](/en/post/move/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/), [usually](/en/post/usually/) temporarily: "[The](/en/post/the/) [car](/en/post/car/) passed [the](/en/post/the/) [traffic](/en/post/traffic/) lights."
-- [To](/en/post/to/) [transfer](/en/post/transfer/) [possession](/en/post/possession/) [or](/en/post/or/) [control](/en/post/control/): "[She](/en/post/she/) passed [the](/en/post/the/) baton [to](/en/post/to/) [her](/en/post/her/) teammate."
-- [To](/en/post/to/) [complete](/en/post/complete/) [a](/en/post/a/) required [course](/en/post/course/) [or](/en/post/or/) [examination](/en/post/examination/): "[After](/en/post/after/) months [of](/en/post/of/) [study](/en/post/study/), [he](/en/post/he/) passed [the](/en/post/the/) driving [test](/en/post/test/)."
-- [To](/en/post/to/) [convey](/en/post/convey/) [or](/en/post/or/) [communicate](/en/post/communicate/) [information](/en/post/information/): "[The](/en/post/the/) [news](/en/post/news/) was passed [on](/en/post/on/) [to](/en/post/to/) [the](/en/post/the/) higher authorities."
+### [Verb](/post/verb/)
+- [To](/post/to/) [move](/post/move/) [from](/post/from/) [one](/post/one/) [place](/post/place/) [to](/post/to/) [another](/post/another/), [usually](/post/usually/) temporarily: "[The](/post/the/) [car](/post/car/) passed [the](/post/the/) [traffic](/post/traffic/) lights."
+- [To](/post/to/) [transfer](/post/transfer/) [possession](/post/possession/) [or](/post/or/) [control](/post/control/): "[She](/post/she/) passed [the](/post/the/) baton [to](/post/to/) [her](/post/her/) teammate."
+- [To](/post/to/) [complete](/post/complete/) [a](/post/a/) required [course](/post/course/) [or](/post/or/) [examination](/post/examination/): "[After](/post/after/) months [of](/post/of/) [study](/post/study/), [he](/post/he/) passed [the](/post/the/) driving [test](/post/test/)."
+- [To](/post/to/) [convey](/post/convey/) [or](/post/or/) [communicate](/post/communicate/) [information](/post/information/): "[The](/post/the/) [news](/post/news/) was passed [on](/post/on/) [to](/post/to/) [the](/post/the/) higher authorities."
 
-### [Adjective](/en/post/adjective/)
-- Permitting [or](/en/post/or/) allowing [passage](/en/post/passage/): "[The](/en/post/the/) [gate](/en/post/gate/) had [a](/en/post/a/) [pass](/en/post/pass/) [for](/en/post/for/) visitors."
-- [Not](/en/post/not/) requiring [special](/en/post/special/) [permission](/en/post/permission/) [or](/en/post/or/) [access](/en/post/access/): "[A](/en/post/a/) [general](/en/post/general/) [admission](/en/post/admission/) [pass](/en/post/pass/)."
+### [Adjective](/post/adjective/)
+- Permitting [or](/post/or/) allowing [passage](/post/passage/): "[The](/post/the/) [gate](/post/gate/) had [a](/post/a/) [pass](/post/pass/) [for](/post/for/) visitors."
+- [Not](/post/not/) requiring [special](/post/special/) [permission](/post/permission/) [or](/post/or/) [access](/post/access/): "[A](/post/a/) [general](/post/general/) [admission](/post/admission/) [pass](/post/pass/)."
 
-### [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) allows [or](/en/post/or/) facilitates [passage](/en/post/passage/): "[The](/en/post/the/) [corridor](/en/post/corridor/) was [wide](/en/post/wide/) [enough](/en/post/enough/) [to](/en/post/to/) [pass](/en/post/pass/) [easily](/en/post/easily/)."
-- Temporarily [or](/en/post/or/) briefly: "He'll [be](/en/post/be/) [back](/en/post/back/) [in](/en/post/in/) [a](/en/post/a/) [few](/en/post/few/) days, [just](/en/post/just/) passing [through](/en/post/through/)."
+### [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) allows [or](/post/or/) facilitates [passage](/post/passage/): "[The](/post/the/) [corridor](/post/corridor/) was [wide](/post/wide/) [enough](/post/enough/) [to](/post/to/) [pass](/post/pass/) [easily](/post/easily/)."
+- Temporarily [or](/post/or/) briefly: "He'll [be](/post/be/) [back](/post/back/) [in](/post/in/) [a](/post/a/) [few](/post/few/) days, [just](/post/just/) passing [through](/post/through/)."
 
 ## Phrases
-- "[Pass](/en/post/pass/) [the](/en/post/the/) [salt](/en/post/salt/)" - Requesting [someone](/en/post/someone/) [to](/en/post/to/) [hand](/en/post/hand/) [over](/en/post/over/) [a](/en/post/a/) condiment.
-- "[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [pass](/en/post/pass/)" - [To](/en/post/to/) [possess](/en/post/possess/) [a](/en/post/a/) [ticket](/en/post/ticket/) [or](/en/post/or/) authorization.
-- "[Passenger](/en/post/passenger/) [train](/en/post/train/)" - [A](/en/post/a/) [train](/en/post/train/) designed [to](/en/post/to/) [carry](/en/post/carry/) [people](/en/post/people/).
-- "[No](/en/post/no/) [pass](/en/post/pass/), [no](/en/post/no/) [play](/en/post/play/)" - [A](/en/post/a/) [rule](/en/post/rule/) [in](/en/post/in/) sports [that](/en/post/that/) disallows [action](/en/post/action/) [if](/en/post/if/) [a](/en/post/a/) [player](/en/post/player/) doesn't [have](/en/post/have/) [the](/en/post/the/) [ball](/en/post/ball/).
+- "[Pass](/post/pass/) [the](/post/the/) [salt](/post/salt/)" - Requesting [someone](/post/someone/) [to](/post/to/) [hand](/post/hand/) [over](/post/over/) [a](/post/a/) condiment.
+- "[To](/post/to/) [have](/post/have/) [a](/post/a/) [pass](/post/pass/)" - [To](/post/to/) [possess](/post/possess/) [a](/post/a/) [ticket](/post/ticket/) [or](/post/or/) authorization.
+- "[Passenger](/post/passenger/) [train](/post/train/)" - [A](/post/a/) [train](/post/train/) designed [to](/post/to/) [carry](/post/carry/) [people](/post/people/).
+- "[No](/post/no/) [pass](/post/pass/), [no](/post/no/) [play](/post/play/)" - [A](/post/a/) [rule](/post/rule/) [in](/post/in/) sports [that](/post/that/) disallows [action](/post/action/) [if](/post/if/) [a](/post/a/) [player](/post/player/) doesn't [have](/post/have/) [the](/post/the/) [ball](/post/ball/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) hiker made [it](/en/post/it/) [safely](/en/post/safely/) [past](/en/post/past/) [the](/en/post/the/) [steep](/en/post/steep/) cliffs."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) passed [the](/en/post/the/) [test](/en/post/test/) [with](/en/post/with/) flying colors."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [athlete](/en/post/athlete/) had [a](/en/post/a/) [clean](/en/post/clean/) [pass](/en/post/pass/) [in](/en/post/in/) [the](/en/post/the/) hurdles [race](/en/post/race/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [car](/en/post/car/) passed [the](/en/post/the/) checkpoint [without](/en/post/without/) [incident](/en/post/incident/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) hiker made [it](/post/it/) [safely](/post/safely/) [past](/post/past/) [the](/post/the/) [steep](/post/steep/) cliffs."
+- **[Verb](/post/verb/)**: "[He](/post/he/) passed [the](/post/the/) [test](/post/test/) [with](/post/with/) flying colors."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [athlete](/post/athlete/) had [a](/post/a/) [clean](/post/clean/) [pass](/post/pass/) [in](/post/in/) [the](/post/the/) hurdles [race](/post/race/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [car](/post/car/) passed [the](/post/the/) checkpoint [without](/post/without/) [incident](/post/incident/)."
 
 ## Synonyms
-- [Move](/en/post/move/)
+- [Move](/post/move/)
 - Traverse
-- [Cross](/en/post/cross/)
+- [Cross](/post/cross/)
 - Circumvent
-- [Overcome](/en/post/overcome/)
-- [Clear](/en/post/clear/)
+- [Overcome](/post/overcome/)
+- [Clear](/post/clear/)
 
 ## Antonyms
-- [Block](/en/post/block/)
+- [Block](/post/block/)
 - Hinder
 - Obstruct
-- [Prevent](/en/post/prevent/)
-- [Retain](/en/post/retain/)
+- [Prevent](/post/prevent/)
+- [Retain](/post/retain/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'hamburger']
 /hæmˈbɜːɡər/
 
 ## 释义
-- **名词**: 一种通常由烤制的牛肉饼夹在两片面包之间，配有生菜、番茄、奶酪和其他配料的快餐食品。例如: "I had [a](/post/a/) [delicious](/post/delicious/) [hamburger](/post/hamburger/) [for](/post/for/) [lunch](/post/lunch/)."
-- **动词**: 用汉堡肉做食物。例如: "[She](/post/she/) decided [to](/post/to/) [hamburger](/post/hamburger/) [the](/post/the/) [ground](/post/ground/) [beef](/post/beef/) [for](/post/for/) [dinner](/post/dinner/)."
+- **名词**: 一种通常由烤制的牛肉饼夹在两片面包之间，配有生菜、番茄、奶酪和其他配料的快餐食品。例如: "I had [a](/zh/post/a/) [delicious](/zh/post/delicious/) [hamburger](/zh/post/hamburger/) [for](/zh/post/for/) [lunch](/zh/post/lunch/)."
+- **动词**: 用汉堡肉做食物。例如: "[She](/zh/post/she/) decided [to](/zh/post/to/) [hamburger](/zh/post/hamburger/) [the](/zh/post/the/) [ground](/zh/post/ground/) [beef](/zh/post/beef/) [for](/zh/post/for/) [dinner](/zh/post/dinner/)."
 
 ## 短语
-- "[Have](/post/have/) [a](/post/a/) burger" 意味着吃一个汉堡。
-- "Burger [joint](/post/joint/)" 是指卖汉堡的快餐店。
+- "[Have](/zh/post/have/) [a](/zh/post/a/) burger" 意味着吃一个汉堡。
+- "Burger [joint](/zh/post/joint/)" 是指卖汉堡的快餐店。
 
 ## 例句
-- 名词: "[The](/post/the/) kids [love](/post/love/) [to](/post/to/) [eat](/post/eat/) hamburgers [at](/post/at/) [the](/post/the/) amusement [park](/post/park/)."
-- 动词: "[She](/post/she/) [learned](/post/learned/) [how](/post/how/) [to](/post/to/) [hamburger](/post/hamburger/) [the](/post/the/) [meat](/post/meat/) [herself](/post/herself/)."
+- 名词: "[The](/zh/post/the/) kids [love](/zh/post/love/) [to](/zh/post/to/) [eat](/zh/post/eat/) hamburgers [at](/zh/post/at/) [the](/zh/post/the/) amusement [park](/zh/post/park/)."
+- 动词: "[She](/zh/post/she/) [learned](/zh/post/learned/) [how](/zh/post/how/) [to](/zh/post/to/) [hamburger](/zh/post/hamburger/) [the](/zh/post/the/) [meat](/zh/post/meat/) [herself](/zh/post/herself/)."
 
 ## 同义词
-- [Beef](/post/beef/) burger
+- [Beef](/zh/post/beef/) burger
 - Cheeseburger
-- [Hamburger](/post/hamburger/) [sandwich](/post/sandwich/)
-- Patty [melt](/post/melt/)
+- [Hamburger](/zh/post/hamburger/) [sandwich](/zh/post/sandwich/)
+- Patty [melt](/zh/post/melt/)
 - Slider

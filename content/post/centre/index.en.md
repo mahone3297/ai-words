@@ -7,46 +7,46 @@ description = '[ˈsentə] n.中心；中枢 vt.集中'
 keywords = ['ai words', 'centre']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsentə(r)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [central](/en/post/central/) [point](/en/post/point/) [or](/en/post/or/) [core](/en/post/core/) [of](/en/post/of/) [a](/en/post/a/) [place](/en/post/place/), [organization](/en/post/organization/), [or](/en/post/or/) [system](/en/post/system/). 2. (British) [A](/en/post/a/) [central](/en/post/central/) [location](/en/post/location/) [or](/en/post/or/) [facility](/en/post/facility/). 3. [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is [central](/en/post/central/) [to](/en/post/to/) an [event](/en/post/event/) [or](/en/post/or/) [situation](/en/post/situation/). 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [or](/en/post/or/) [act](/en/post/act/) [as](/en/post/as/) [the](/en/post/the/) center; [to](/en/post/to/) [be](/en/post/be/) [at](/en/post/at/) [the](/en/post/the/) focal [point](/en/post/point/). 
-- **[Adjective](/en/post/adjective/)**: [Central](/en/post/central/), [principal](/en/post/principal/), [or](/en/post/or/) [main](/en/post/main/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [central](/post/central/) [point](/post/point/) [or](/post/or/) [core](/post/core/) [of](/post/of/) [a](/post/a/) [place](/post/place/), [organization](/post/organization/), [or](/post/or/) [system](/post/system/). 2. (British) [A](/post/a/) [central](/post/central/) [location](/post/location/) [or](/post/or/) [facility](/post/facility/). 3. [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is [central](/post/central/) [to](/post/to/) an [event](/post/event/) [or](/post/or/) [situation](/post/situation/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) [or](/post/or/) [act](/post/act/) [as](/post/as/) [the](/post/the/) center; [to](/post/to/) [be](/post/be/) [at](/post/at/) [the](/post/the/) focal [point](/post/point/). 
+- **[Adjective](/post/adjective/)**: [Central](/post/central/), [principal](/post/principal/), [or](/post/or/) [main](/post/main/).
 
 ## Phrases
-- "[At](/en/post/at/) [the](/en/post/the/) center [of](/en/post/of/) [attention](/en/post/attention/)"
-- "[The](/en/post/the/) hub [of](/en/post/of/) [activity](/en/post/activity/)"
-- "[To](/en/post/to/) [locate](/en/post/locate/) [something](/en/post/something/) [in](/en/post/in/) [the](/en/post/the/) center"
-- "[A](/en/post/a/) focal [point](/en/post/point/) [of](/en/post/of/) [interest](/en/post/interest/)"
+- "[At](/post/at/) [the](/post/the/) center [of](/post/of/) [attention](/post/attention/)"
+- "[The](/post/the/) hub [of](/post/of/) [activity](/post/activity/)"
+- "[To](/post/to/) [locate](/post/locate/) [something](/post/something/) [in](/post/in/) [the](/post/the/) center"
+- "[A](/post/a/) focal [point](/post/point/) [of](/post/of/) [interest](/post/interest/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [library](/en/post/library/) is [the](/en/post/the/) cultural center [of](/en/post/of/) [our](/en/post/our/) [town](/en/post/town/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) placed [the](/en/post/the/) [table](/en/post/table/) [at](/en/post/at/) [the](/en/post/the/) center [of](/en/post/of/) [the](/en/post/the/) [room](/en/post/room/) [for](/en/post/for/) [everyone](/en/post/everyone/) [to](/en/post/to/) [gather](/en/post/gather/) [around](/en/post/around/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [role](/en/post/role/) was [central](/en/post/central/) [to](/en/post/to/) [the](/en/post/the/) [success](/en/post/success/) [of](/en/post/of/) [the](/en/post/the/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [library](/post/library/) is [the](/post/the/) cultural center [of](/post/of/) [our](/post/our/) [town](/post/town/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) placed [the](/post/the/) [table](/post/table/) [at](/post/at/) [the](/post/the/) center [of](/post/of/) [the](/post/the/) [room](/post/room/) [for](/post/for/) [everyone](/post/everyone/) [to](/post/to/) [gather](/post/gather/) [around](/post/around/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [role](/post/role/) was [central](/post/central/) [to](/post/to/) [the](/post/the/) [success](/post/success/) [of](/post/of/) [the](/post/the/) [project](/post/project/)."
 
 ## Synonyms
-- [Heart](/en/post/heart/)
-- [Core](/en/post/core/)
-- [Central](/en/post/central/) [point](/en/post/point/)
+- [Heart](/post/heart/)
+- [Core](/post/core/)
+- [Central](/post/central/) [point](/post/point/)
 - Pivot
 - Hub
 - Epicenter
-- [Middle](/en/post/middle/)
-- [Focus](/en/post/focus/)
+- [Middle](/post/middle/)
+- [Focus](/post/focus/)
 
 ## Antonyms
 - Peripheral
-- [Outer](/en/post/outer/)
+- [Outer](/post/outer/)
 - Marginal
-- [Remote](/en/post/remote/)
+- [Remote](/post/remote/)
 - Isolated
 
-## [Usage](/en/post/usage/)
-### [Noun](/en/post/noun/)
-- [Sentence](/en/post/sentence/): [The](/en/post/the/) [art](/en/post/art/) gallery's [main](/en/post/main/) [attraction](/en/post/attraction/) was [the](/en/post/the/) sculpture displayed [at](/en/post/at/) [the](/en/post/the/) center [of](/en/post/of/) [the](/en/post/the/) [gallery](/en/post/gallery/).
-### [Verb](/en/post/verb/)
-- [Sentence](/en/post/sentence/): [He](/en/post/he/) centered [his](/en/post/his/) presentation [around](/en/post/around/) [the](/en/post/the/) [key](/en/post/key/) points [he](/en/post/he/) wanted [to](/en/post/to/) [convey](/en/post/convey/).
-### [Adjective](/en/post/adjective/)
-- [Sentence](/en/post/sentence/): [The](/en/post/the/) city's downtown [area](/en/post/area/) is [a](/en/post/a/) bustling [commercial](/en/post/commercial/) center.
+## [Usage](/post/usage/)
+### [Noun](/post/noun/)
+- [Sentence](/post/sentence/): [The](/post/the/) [art](/post/art/) gallery's [main](/post/main/) [attraction](/post/attraction/) was [the](/post/the/) sculpture displayed [at](/post/at/) [the](/post/the/) center [of](/post/of/) [the](/post/the/) [gallery](/post/gallery/).
+### [Verb](/post/verb/)
+- [Sentence](/post/sentence/): [He](/post/he/) centered [his](/post/his/) presentation [around](/post/around/) [the](/post/the/) [key](/post/key/) points [he](/post/he/) wanted [to](/post/to/) [convey](/post/convey/).
+### [Adjective](/post/adjective/)
+- [Sentence](/post/sentence/): [The](/post/the/) city's downtown [area](/post/area/) is [a](/post/a/) bustling [commercial](/post/commercial/) center.

@@ -7,40 +7,40 @@ description = '[əˈwei] ad.离开，远离；…去'
 keywords = ['ai words', 'away']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈweɪ/
 
 ## Definitions
-### [Adverb](/en/post/adverb/)
-- **Refers [to](/en/post/to/)**: [The](/en/post/the/) [distance](/en/post/distance/) [or](/en/post/or/) [direction](/en/post/direction/) [away](/en/post/away/) [from](/en/post/from/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [aside](/en/post/aside/) [or](/en/post/or/) [apart](/en/post/apart/).
-- **[Usage](/en/post/usage/)**: Describes [movement](/en/post/movement/), [position](/en/post/position/), [or](/en/post/or/) [separation](/en/post/separation/).
+### [Adverb](/post/adverb/)
+- **Refers [to](/post/to/)**: [The](/post/the/) [distance](/post/distance/) [or](/post/or/) [direction](/post/direction/) [away](/post/away/) [from](/post/from/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [aside](/post/aside/) [or](/post/or/) [apart](/post/apart/).
+- **[Usage](/post/usage/)**: Describes [movement](/post/movement/), [position](/post/position/), [or](/post/or/) [separation](/post/separation/).
 
-### [Adjective](/en/post/adjective/)
-- **Refers [to](/en/post/to/)**: [Not](/en/post/not/) [present](/en/post/present/) [or](/en/post/or/) [absent](/en/post/absent/); [distant](/en/post/distant/) [in](/en/post/in/) [time](/en/post/time/) [or](/en/post/or/) [space](/en/post/space/). [Can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [remote](/en/post/remote/) [or](/en/post/or/) detached emotionally.
-- **[Usage](/en/post/usage/)**: Modifies nouns, indicating [a](/en/post/a/) [lack](/en/post/lack/) [or](/en/post/or/) [separation](/en/post/separation/) [from](/en/post/from/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [or](/en/post/or/) [state](/en/post/state/).
+### [Adjective](/post/adjective/)
+- **Refers [to](/post/to/)**: [Not](/post/not/) [present](/post/present/) [or](/post/or/) [absent](/post/absent/); [distant](/post/distant/) [in](/post/in/) [time](/post/time/) [or](/post/or/) [space](/post/space/). [Can](/post/can/) [also](/post/also/) [mean](/post/mean/) [remote](/post/remote/) [or](/post/or/) detached emotionally.
+- **[Usage](/post/usage/)**: Modifies nouns, indicating [a](/post/a/) [lack](/post/lack/) [or](/post/or/) [separation](/post/separation/) [from](/post/from/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/) [or](/post/or/) [state](/post/state/).
 
-### [Preposition](/en/post/preposition/)
-- **Refers [to](/en/post/to/)**: Expresses [the](/en/post/the/) [relationship](/en/post/relationship/) [between](/en/post/between/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [pronoun](/en/post/pronoun/) [and](/en/post/and/) [a](/en/post/a/) [point](/en/post/point/) [of](/en/post/of/) [reference](/en/post/reference/), [often](/en/post/often/) indicating [direction](/en/post/direction/) [or](/en/post/or/) [distance](/en/post/distance/).
-- **[Usage](/en/post/usage/)**: "[away](/en/post/away/) [from](/en/post/from/)", "[go](/en/post/go/) [away](/en/post/away/)", "[put](/en/post/put/) [it](/en/post/it/) [away](/en/post/away/)"
+### [Preposition](/post/preposition/)
+- **Refers [to](/post/to/)**: Expresses [the](/post/the/) [relationship](/post/relationship/) [between](/post/between/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [pronoun](/post/pronoun/) [and](/post/and/) [a](/post/a/) [point](/post/point/) [of](/post/of/) [reference](/post/reference/), [often](/post/often/) indicating [direction](/post/direction/) [or](/post/or/) [distance](/post/distance/).
+- **[Usage](/post/usage/)**: "[away](/post/away/) [from](/post/from/)", "[go](/post/go/) [away](/post/away/)", "[put](/post/put/) [it](/post/it/) [away](/post/away/)"
 
-### [Noun](/en/post/noun/)
-- **Refers [to](/en/post/to/)**: [A](/en/post/a/) [period](/en/post/period/) [or](/en/post/or/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) [away](/en/post/away/), [especially](/en/post/especially/) [from](/en/post/from/) [a](/en/post/a/) [location](/en/post/location/) [or](/en/post/or/) [situation](/en/post/situation/).
-- **[Usage](/en/post/usage/)**: "[a](/en/post/a/) [long](/en/post/long/) [absence](/en/post/absence/)", "[take](/en/post/take/) [a](/en/post/a/) [vacation](/en/post/vacation/) [away](/en/post/away/)"
+### [Noun](/post/noun/)
+- **Refers [to](/post/to/)**: [A](/post/a/) [period](/post/period/) [or](/post/or/) [act](/post/act/) [of](/post/of/) [being](/post/being/) [away](/post/away/), [especially](/post/especially/) [from](/post/from/) [a](/post/a/) [location](/post/location/) [or](/post/or/) [situation](/post/situation/).
+- **[Usage](/post/usage/)**: "[a](/post/a/) [long](/post/long/) [absence](/post/absence/)", "[take](/post/take/) [a](/post/a/) [vacation](/post/vacation/) [away](/post/away/)"
 
 ## Phrases
-- "[Be](/en/post/be/) [away](/en/post/away/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) temporarily [not](/en/post/not/) [present](/en/post/present/).
-- "[Away](/en/post/away/) [from](/en/post/from/) [home](/en/post/home/)" describes [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [elsewhere](/en/post/elsewhere/) [than](/en/post/than/) one's [usual](/en/post/usual/) [residence](/en/post/residence/).
-- "[Take](/en/post/take/) [a](/en/post/a/) [break](/en/post/break/) [away](/en/post/away/)" suggests going [somewhere](/en/post/somewhere/) [to](/en/post/to/) [relax](/en/post/relax/) [or](/en/post/or/) recharge.
+- "[Be](/post/be/) [away](/post/away/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) temporarily [not](/post/not/) [present](/post/present/).
+- "[Away](/post/away/) [from](/post/from/) [home](/post/home/)" describes [a](/post/a/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [elsewhere](/post/elsewhere/) [than](/post/than/) one's [usual](/post/usual/) [residence](/post/residence/).
+- "[Take](/post/take/) [a](/post/a/) [break](/post/break/) [away](/post/away/)" suggests going [somewhere](/post/somewhere/) [to](/post/to/) [relax](/post/relax/) [or](/post/or/) recharge.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) children played happily [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/), [far](/en/post/far/) [away](/en/post/away/) [from](/en/post/from/) [their](/en/post/their/) parents' watchful eyes."
-- **[Adjective](/en/post/adjective/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [he](/en/post/he/) felt emotionally detached [from](/en/post/from/) [his](/en/post/his/) coworkers."
-- **[Preposition](/en/post/preposition/)**: "I [need](/en/post/need/) [to](/en/post/to/) [go](/en/post/go/) [away](/en/post/away/) [for](/en/post/for/) [a](/en/post/a/) [while](/en/post/while/) [to](/en/post/to/) [clear](/en/post/clear/) [my](/en/post/my/) [head](/en/post/head/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [package](/en/post/package/) was delivered [to](/en/post/to/) [her](/en/post/her/) [office](/en/post/office/), [but](/en/post/but/) [she](/en/post/she/) wasn't [in](/en/post/in/), [so](/en/post/so/) [it](/en/post/it/) was [left](/en/post/left/) [away](/en/post/away/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) children played happily [in](/post/in/) [the](/post/the/) [park](/post/park/), [far](/post/far/) [away](/post/away/) [from](/post/from/) [their](/post/their/) parents' watchful eyes."
+- **[Adjective](/post/adjective/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [he](/post/he/) felt emotionally detached [from](/post/from/) [his](/post/his/) coworkers."
+- **[Preposition](/post/preposition/)**: "I [need](/post/need/) [to](/post/to/) [go](/post/go/) [away](/post/away/) [for](/post/for/) [a](/post/a/) [while](/post/while/) [to](/post/to/) [clear](/post/clear/) [my](/post/my/) [head](/post/head/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [package](/post/package/) was delivered [to](/post/to/) [her](/post/her/) [office](/post/office/), [but](/post/but/) [she](/post/she/) wasn't [in](/post/in/), [so](/post/so/) [it](/post/it/) was [left](/post/left/) [away](/post/away/)."
 
 ## Synonyms
-- [Off](/en/post/off/)
+- [Off](/post/off/)
 - Departed
-- [Absent](/en/post/absent/)
+- [Absent](/post/absent/)
 - Removed
-- [Distant](/en/post/distant/)
+- [Distant](/post/distant/)

@@ -11,22 +11,22 @@ keywords = ['ai words', 'sway']
 /sweɪ/
 
 ## 释义
-- **动词**: 使摇摆，使摆动。例如: "[The](/post/the/) [tree](/post/tree/) branches swayed [in](/post/in/) [the](/post/the/) [wind](/post/wind/)."
-- **名词**: 摇摆，摆动的动作。例如: "[The](/post/the/) ship's [deck](/post/deck/) had [a](/post/a/) [gentle](/post/gentle/) [sway](/post/sway/)."
-- **形容词**: 有影响力的，能说服人的。例如: "[His](/post/his/) [sway](/post/sway/) [over](/post/over/) [the](/post/the/) [public](/post/public/) was [considerable](/post/considerable/)."
+- **动词**: 使摇摆，使摆动。例如: "[The](/zh/post/the/) [tree](/zh/post/tree/) branches swayed [in](/zh/post/in/) [the](/zh/post/the/) [wind](/zh/post/wind/)."
+- **名词**: 摇摆，摆动的动作。例如: "[The](/zh/post/the/) ship's [deck](/zh/post/deck/) had [a](/zh/post/a/) [gentle](/zh/post/gentle/) [sway](/zh/post/sway/)."
+- **形容词**: 有影响力的，能说服人的。例如: "[His](/zh/post/his/) [sway](/zh/post/sway/) [over](/zh/post/over/) [the](/zh/post/the/) [public](/zh/post/public/) was [considerable](/zh/post/considerable/)."
 
 ## 短语
-- "[Sway](/post/sway/) [back](/post/back/) [and](/post/and/) [forth](/post/forth/)" 意为来回摇摆。
-- "[Under](/post/under/) someone's [sway](/post/sway/)" 意味在某人的影响或控制之下。
+- "[Sway](/zh/post/sway/) [back](/zh/post/back/) [and](/zh/post/and/) [forth](/zh/post/forth/)" 意为来回摇摆。
+- "[Under](/zh/post/under/) someone's [sway](/zh/post/sway/)" 意味在某人的影响或控制之下。
 
 ## 例句
-- 动词: "[The](/post/the/) dancers' bodies swayed rhythmically [to](/post/to/) [the](/post/the/) [music](/post/music/)."
-- 名词: "[The](/post/the/) [baby](/post/baby/) fell [asleep](/post/asleep/) [to](/post/to/) [the](/post/the/) soothing [sway](/post/sway/) [of](/post/of/) [the](/post/the/) cradle."
-- 形容词: "[Her](/post/her/) persuasive [speech](/post/speech/) held [the](/post/the/) [audience](/post/audience/) [under](/post/under/) [her](/post/her/) [sway](/post/sway/)."
+- 动词: "[The](/zh/post/the/) dancers' bodies swayed rhythmically [to](/zh/post/to/) [the](/zh/post/the/) [music](/zh/post/music/)."
+- 名词: "[The](/zh/post/the/) [baby](/zh/post/baby/) fell [asleep](/zh/post/asleep/) [to](/zh/post/to/) [the](/zh/post/the/) soothing [sway](/zh/post/sway/) [of](/zh/post/of/) [the](/zh/post/the/) cradle."
+- 形容词: "[Her](/zh/post/her/) persuasive [speech](/zh/post/speech/) held [the](/zh/post/the/) [audience](/zh/post/audience/) [under](/zh/post/under/) [her](/zh/post/her/) [sway](/zh/post/sway/)."
 
 ## 同义词
 - Budge (动词)
 - Tilt (动词)
 - Inclination (名词)
-- [Influence](/post/influence/) (名词)
+- [Influence](/zh/post/influence/) (名词)
 - Persuasiveness (名词)

@@ -7,44 +7,44 @@ description = '[disˈkləuz] vt.揭开，揭发；透露'
 keywords = ['ai words', 'disclose']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈskloʊz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) disclosure [or](/en/post/or/) revelation [of](/en/post/of/) [information](/en/post/information/), secrets, [or](/en/post/or/) facts, [often](/en/post/often/) [by](/en/post/by/) [authority](/en/post/authority/) [or](/en/post/or/) obligation. **[Example](/en/post/example/)**: "[The](/en/post/the/) [witness](/en/post/witness/) was required [to](/en/post/to/) [disclose](/en/post/disclose/) [any](/en/post/any/) [relevant](/en/post/relevant/) details [about](/en/post/about/) [the](/en/post/the/) [case](/en/post/case/)."
+### [Noun](/post/noun/)
+[A](/post/a/) disclosure [or](/post/or/) revelation [of](/post/of/) [information](/post/information/), secrets, [or](/post/or/) facts, [often](/post/often/) [by](/post/by/) [authority](/post/authority/) [or](/post/or/) obligation. **[Example](/post/example/)**: "[The](/post/the/) [witness](/post/witness/) was required [to](/post/to/) [disclose](/post/disclose/) [any](/post/any/) [relevant](/post/relevant/) details [about](/post/about/) [the](/post/the/) [case](/post/case/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [reveal](/en/post/reveal/) [or](/en/post/or/) [make](/en/post/make/) known ([information](/en/post/information/), secrets, [or](/en/post/or/) facts) intentionally [or](/en/post/or/) unintentionally. **[Example](/en/post/example/)**: "[The](/en/post/the/) CEO disclosed [the](/en/post/the/) company's [financial](/en/post/financial/) results [during](/en/post/during/) [the](/en/post/the/) [annual](/en/post/annual/) [meeting](/en/post/meeting/)."
-2. [To](/en/post/to/) [expose](/en/post/expose/) [or](/en/post/or/) [uncover](/en/post/uncover/) ([something](/en/post/something/) hidden [or](/en/post/or/) confidential). **[Example](/en/post/example/)**: "[The](/en/post/the/) hacker disclosed [a](/en/post/a/) [major](/en/post/major/) [security](/en/post/security/) breach [in](/en/post/in/) [the](/en/post/the/) [system](/en/post/system/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [reveal](/post/reveal/) [or](/post/or/) [make](/post/make/) known ([information](/post/information/), secrets, [or](/post/or/) facts) intentionally [or](/post/or/) unintentionally. **[Example](/post/example/)**: "[The](/post/the/) CEO disclosed [the](/post/the/) company's [financial](/post/financial/) results [during](/post/during/) [the](/post/the/) [annual](/post/annual/) [meeting](/post/meeting/)."
+2. [To](/post/to/) [expose](/post/expose/) [or](/post/or/) [uncover](/post/uncover/) ([something](/post/something/) hidden [or](/post/or/) confidential). **[Example](/post/example/)**: "[The](/post/the/) hacker disclosed [a](/post/a/) [major](/post/major/) [security](/post/security/) breach [in](/post/in/) [the](/post/the/) [system](/post/system/)."
 
-### [Adjective](/en/post/adjective/)
-Characterizing [or](/en/post/or/) involving [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) disclosing. **[Example](/en/post/example/)**: "[A](/en/post/a/) non-disclosure [agreement](/en/post/agreement/) prevents employees [from](/en/post/from/) disclosing [trade](/en/post/trade/) secrets."
+### [Adjective](/post/adjective/)
+Characterizing [or](/post/or/) involving [the](/post/the/) [act](/post/act/) [of](/post/of/) disclosing. **[Example](/post/example/)**: "[A](/post/a/) non-disclosure [agreement](/post/agreement/) prevents employees [from](/post/from/) disclosing [trade](/post/trade/) secrets."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) disclosure" [means](/en/post/means/) [to](/en/post/to/) [reveal](/en/post/reveal/) [information](/en/post/information/) officially.
-- "[Disclose](/en/post/disclose/) [sensitive](/en/post/sensitive/) [information](/en/post/information/)" alerts [someone](/en/post/someone/) [to](/en/post/to/) [keep](/en/post/keep/) [something](/en/post/something/) [private](/en/post/private/).
-- "[Disclose](/en/post/disclose/) [personal](/en/post/personal/) details" [means](/en/post/means/) [to](/en/post/to/) [share](/en/post/share/) [personal](/en/post/personal/) [information](/en/post/information/) [with](/en/post/with/) others.
+- "[Make](/post/make/) [a](/post/a/) disclosure" [means](/post/means/) [to](/post/to/) [reveal](/post/reveal/) [information](/post/information/) officially.
+- "[Disclose](/post/disclose/) [sensitive](/post/sensitive/) [information](/post/information/)" alerts [someone](/post/someone/) [to](/post/to/) [keep](/post/keep/) [something](/post/something/) [private](/post/private/).
+- "[Disclose](/post/disclose/) [personal](/post/personal/) details" [means](/post/means/) [to](/post/to/) [share](/post/share/) [personal](/post/personal/) [information](/post/information/) [with](/post/with/) others.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) whistleblower disclosed [the](/en/post/the/) corruption [within](/en/post/within/) [the](/en/post/the/) [organization](/en/post/organization/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) secrecy, [he](/en/post/he/) [finally](/en/post/finally/) disclosed [the](/en/post/the/) [location](/en/post/location/) [of](/en/post/of/) [the](/en/post/the/) [treasure](/en/post/treasure/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [policy](/en/post/policy/) encourages [open](/en/post/open/) [and](/en/post/and/) [honest](/en/post/honest/) disclosure [of](/en/post/of/) errors."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) whistleblower disclosed [the](/post/the/) corruption [within](/post/within/) [the](/post/the/) [organization](/post/organization/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) years [of](/post/of/) secrecy, [he](/post/he/) [finally](/post/finally/) disclosed [the](/post/the/) [location](/post/location/) [of](/post/of/) [the](/post/the/) [treasure](/post/treasure/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [policy](/post/policy/) encourages [open](/post/open/) [and](/post/and/) [honest](/post/honest/) disclosure [of](/post/of/) errors."
 
 ## Synonyms
-- [Reveal](/en/post/reveal/)
-- [Uncover](/en/post/uncover/)
-- [Expose](/en/post/expose/)
-- [Reveal](/en/post/reveal/) secrets
-- [Disclose](/en/post/disclose/) [information](/en/post/information/)
-- [Lay](/en/post/lay/) [bare](/en/post/bare/)
-- [Open](/en/post/open/) [up](/en/post/up/)
+- [Reveal](/post/reveal/)
+- [Uncover](/post/uncover/)
+- [Expose](/post/expose/)
+- [Reveal](/post/reveal/) secrets
+- [Disclose](/post/disclose/) [information](/post/information/)
+- [Lay](/post/lay/) [bare](/post/bare/)
+- [Open](/post/open/) [up](/post/up/)
 - Confide
 
 ## Antonyms
-- [Conceal](/en/post/conceal/)
-- [Hide](/en/post/hide/)
+- [Conceal](/post/conceal/)
+- [Hide](/post/hide/)
 - Withhold
-- [Keep](/en/post/keep/) [secret](/en/post/secret/)
-- [Shelter](/en/post/shelter/)
-- [Protect](/en/post/protect/)
+- [Keep](/post/keep/) [secret](/post/secret/)
+- [Shelter](/post/shelter/)
+- [Protect](/post/protect/)

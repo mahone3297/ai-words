@@ -7,45 +7,45 @@ description = '[meik] vt.使；做，制造'
 keywords = ['ai words', 'make']
 +++
 
-## [Word](/en/post/word/): [Make](/en/post/make/)
+## [Word](/post/word/): [Make](/post/make/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /meɪk/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-  - (transitive) [To](/en/post/to/) [create](/en/post/create/), [produce](/en/post/produce/), [or](/en/post/or/) [bring](/en/post/bring/) [into](/en/post/into/) [existence](/en/post/existence/) [something](/en/post/something/), [often](/en/post/often/) [by](/en/post/by/) using tools, materials, [or](/en/post/or/) [mental](/en/post/mental/) [effort](/en/post/effort/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) made [a](/en/post/a/) [beautiful](/en/post/beautiful/) [painting](/en/post/painting/)." 
-  - (transitive) [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/) [or](/en/post/or/) [exist](/en/post/exist/); [to](/en/post/to/) [bring](/en/post/bring/) [about](/en/post/about/) an [event](/en/post/event/) [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) [will](/en/post/will/) [make](/en/post/make/) [a](/en/post/a/) [significant](/en/post/significant/) [change](/en/post/change/)."
-  - (intransitive) [To](/en/post/to/) [earn](/en/post/earn/) [or](/en/post/or/) [gain](/en/post/gain/) [money](/en/post/money/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) makes [a](/en/post/a/) [good](/en/post/good/) [living](/en/post/living/) [from](/en/post/from/) [his](/en/post/his/) online [business](/en/post/business/)."
-  - (transitive) [To](/en/post/to/) [prepare](/en/post/prepare/) [or](/en/post/or/) [cook](/en/post/cook/) [food](/en/post/food/). [For](/en/post/for/) [example](/en/post/example/): "She's making [dinner](/en/post/dinner/) [tonight](/en/post/tonight/)."
-  - (transitive) [To](/en/post/to/) [become](/en/post/become/) [or](/en/post/or/) [to](/en/post/to/) [be](/en/post/be/) identified [as](/en/post/as/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [fabric](/en/post/fabric/) [can](/en/post/can/) [make](/en/post/make/) [great](/en/post/great/) curtains."
+- **[Verb](/post/verb/)**: 
+  - (transitive) [To](/post/to/) [create](/post/create/), [produce](/post/produce/), [or](/post/or/) [bring](/post/bring/) [into](/post/into/) [existence](/post/existence/) [something](/post/something/), [often](/post/often/) [by](/post/by/) using tools, materials, [or](/post/or/) [mental](/post/mental/) [effort](/post/effort/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) made [a](/post/a/) [beautiful](/post/beautiful/) [painting](/post/painting/)." 
+  - (transitive) [To](/post/to/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [happen](/post/happen/) [or](/post/or/) [exist](/post/exist/); [to](/post/to/) [bring](/post/bring/) [about](/post/about/) an [event](/post/event/) [or](/post/or/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) [will](/post/will/) [make](/post/make/) [a](/post/a/) [significant](/post/significant/) [change](/post/change/)."
+  - (intransitive) [To](/post/to/) [earn](/post/earn/) [or](/post/or/) [gain](/post/gain/) [money](/post/money/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) makes [a](/post/a/) [good](/post/good/) [living](/post/living/) [from](/post/from/) [his](/post/his/) online [business](/post/business/)."
+  - (transitive) [To](/post/to/) [prepare](/post/prepare/) [or](/post/or/) [cook](/post/cook/) [food](/post/food/). [For](/post/for/) [example](/post/example/): "She's making [dinner](/post/dinner/) [tonight](/post/tonight/)."
+  - (transitive) [To](/post/to/) [become](/post/become/) [or](/post/or/) [to](/post/to/) [be](/post/be/) identified [as](/post/as/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [fabric](/post/fabric/) [can](/post/can/) [make](/post/make/) [great](/post/great/) curtains."
   
-- **[Noun](/en/post/noun/)**: 
-  - [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) creating, manufacturing, [or](/en/post/or/) producing [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) specializes [in](/en/post/in/) [the](/en/post/the/) [make](/en/post/make/) [of](/en/post/of/) high-quality [furniture](/en/post/furniture/)."
-  - [A](/en/post/a/) [particular](/en/post/particular/) [type](/en/post/type/) [or](/en/post/or/) [brand](/en/post/brand/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[That](/en/post/that/) [car](/en/post/car/) is an [old](/en/post/old/) [model](/en/post/model/) [but](/en/post/but/) [a](/en/post/a/) [reliable](/en/post/reliable/) [make](/en/post/make/)."
-  - [The](/en/post/the/) [total](/en/post/total/) [amount](/en/post/amount/) [that](/en/post/that/) [one](/en/post/one/) earns [or](/en/post/or/) receives. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [weekly](/en/post/weekly/) [make](/en/post/make/) is [enough](/en/post/enough/) [to](/en/post/to/) [cover](/en/post/cover/) [all](/en/post/all/) expenses."
+- **[Noun](/post/noun/)**: 
+  - [The](/post/the/) [process](/post/process/) [of](/post/of/) creating, manufacturing, [or](/post/or/) producing [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) specializes [in](/post/in/) [the](/post/the/) [make](/post/make/) [of](/post/of/) high-quality [furniture](/post/furniture/)."
+  - [A](/post/a/) [particular](/post/particular/) [type](/post/type/) [or](/post/or/) [brand](/post/brand/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[That](/post/that/) [car](/post/car/) is an [old](/post/old/) [model](/post/model/) [but](/post/but/) [a](/post/a/) [reliable](/post/reliable/) [make](/post/make/)."
+  - [The](/post/the/) [total](/post/total/) [amount](/post/amount/) [that](/post/that/) [one](/post/one/) earns [or](/post/or/) receives. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [weekly](/post/weekly/) [make](/post/make/) is [enough](/post/enough/) [to](/post/to/) [cover](/post/cover/) [all](/post/all/) expenses."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [difference](/en/post/difference/)": [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [significant](/en/post/significant/) [impact](/en/post/impact/) [or](/en/post/or/) [effect](/en/post/effect/) [on](/en/post/on/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/).
-- "[Make](/en/post/make/) [up](/en/post/up/)": [To](/en/post/to/) [invent](/en/post/invent/) [or](/en/post/or/) [compose](/en/post/compose/) [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [story](/en/post/story/) [or](/en/post/or/) [excuse](/en/post/excuse/); [also](/en/post/also/) [to](/en/post/to/) [apply](/en/post/apply/) makeup [or](/en/post/or/) cosmetics.
-- "[Make](/en/post/make/) [do](/en/post/do/)": [To](/en/post/to/) [manage](/en/post/manage/) [with](/en/post/with/) [what](/en/post/what/) is [available](/en/post/available/), [even](/en/post/even/) [if](/en/post/if/) [it](/en/post/it/)’s [not](/en/post/not/) [ideal](/en/post/ideal/).
-- "[Make](/en/post/make/) [peace](/en/post/peace/)": [To](/en/post/to/) [resolve](/en/post/resolve/) differences [and](/en/post/and/) [restore](/en/post/restore/) [friendly](/en/post/friendly/) relations.
-- "[Make](/en/post/make/) [hay](/en/post/hay/) [while](/en/post/while/) [the](/en/post/the/) [sun](/en/post/sun/) shines": [To](/en/post/to/) [take](/en/post/take/) [advantage](/en/post/advantage/) [of](/en/post/of/) an [opportunity](/en/post/opportunity/) [when](/en/post/when/) [it](/en/post/it/) presents [itself](/en/post/itself/).
+- "[Make](/post/make/) [a](/post/a/) [difference](/post/difference/)": [To](/post/to/) [have](/post/have/) [a](/post/a/) [significant](/post/significant/) [impact](/post/impact/) [or](/post/or/) [effect](/post/effect/) [on](/post/on/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/).
+- "[Make](/post/make/) [up](/post/up/)": [To](/post/to/) [invent](/post/invent/) [or](/post/or/) [compose](/post/compose/) [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [story](/post/story/) [or](/post/or/) [excuse](/post/excuse/); [also](/post/also/) [to](/post/to/) [apply](/post/apply/) makeup [or](/post/or/) cosmetics.
+- "[Make](/post/make/) [do](/post/do/)": [To](/post/to/) [manage](/post/manage/) [with](/post/with/) [what](/post/what/) is [available](/post/available/), [even](/post/even/) [if](/post/if/) [it](/post/it/)’s [not](/post/not/) [ideal](/post/ideal/).
+- "[Make](/post/make/) [peace](/post/peace/)": [To](/post/to/) [resolve](/post/resolve/) differences [and](/post/and/) [restore](/post/restore/) [friendly](/post/friendly/) relations.
+- "[Make](/post/make/) [hay](/post/hay/) [while](/post/while/) [the](/post/the/) [sun](/post/sun/) shines": [To](/post/to/) [take](/post/take/) [advantage](/post/advantage/) [of](/post/of/) an [opportunity](/post/opportunity/) [when](/post/when/) [it](/post/it/) presents [itself](/post/itself/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [make](/en/post/make/) [their](/en/post/their/) [own](/en/post/own/) Halloween costumes [this](/en/post/this/) [year](/en/post/year/)."
-- "[After](/en/post/after/) finishing [school](/en/post/school/), [he](/en/post/he/) hopes [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [name](/en/post/name/) [for](/en/post/for/) [himself](/en/post/himself/) [in](/en/post/in/) [the](/en/post/the/) [art](/en/post/art/) [world](/en/post/world/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [make](/en/post/make/) [and](/en/post/and/) [model](/en/post/model/) [of](/en/post/of/) [your](/en/post/your/) [phone](/en/post/phone/) [can](/en/post/can/) [affect](/en/post/affect/) [its](/en/post/its/) resale [value](/en/post/value/)."
-- "[The](/en/post/the/) team's [strong](/en/post/strong/) [work](/en/post/work/) ethic was reflected [in](/en/post/in/) [their](/en/post/their/) [impressive](/en/post/impressive/) [make](/en/post/make/) [during](/en/post/during/) [the](/en/post/the/) fundraiser."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[They](/post/they/) decided [to](/post/to/) [make](/post/make/) [their](/post/their/) [own](/post/own/) Halloween costumes [this](/post/this/) [year](/post/year/)."
+- "[After](/post/after/) finishing [school](/post/school/), [he](/post/he/) hopes [to](/post/to/) [make](/post/make/) [a](/post/a/) [name](/post/name/) [for](/post/for/) [himself](/post/himself/) [in](/post/in/) [the](/post/the/) [art](/post/art/) [world](/post/world/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [make](/post/make/) [and](/post/and/) [model](/post/model/) [of](/post/of/) [your](/post/your/) [phone](/post/phone/) [can](/post/can/) [affect](/post/affect/) [its](/post/its/) resale [value](/post/value/)."
+- "[The](/post/the/) team's [strong](/post/strong/) [work](/post/work/) ethic was reflected [in](/post/in/) [their](/post/their/) [impressive](/post/impressive/) [make](/post/make/) [during](/post/during/) [the](/post/the/) fundraiser."
 
 ## Synonyms
-- [Create](/en/post/create/)
-- [Produce](/en/post/produce/)
-- [Construct](/en/post/construct/)
-- [Manufacture](/en/post/manufacture/)
-- [Earn](/en/post/earn/)
-- [Cook](/en/post/cook/)
-- [Build](/en/post/build/)
-- [Fashion](/en/post/fashion/)
-- Forge (depending [on](/en/post/on/) context)
-- [Establish](/en/post/establish/) ([for](/en/post/for/) [certain](/en/post/certain/) uses)
+- [Create](/post/create/)
+- [Produce](/post/produce/)
+- [Construct](/post/construct/)
+- [Manufacture](/post/manufacture/)
+- [Earn](/post/earn/)
+- [Cook](/post/cook/)
+- [Build](/post/build/)
+- [Fashion](/post/fashion/)
+- Forge (depending [on](/post/on/) context)
+- [Establish](/post/establish/) ([for](/post/for/) [certain](/post/certain/) uses)

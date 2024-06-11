@@ -11,21 +11,21 @@ keywords = ['ai words', 'officer']
 /ˈəfɪsər/
 
 ## 释义
-- **名词 (n)**: 职员，官员；警官，军官。指在政府、公司、军队等组织中担任一定职务的人。例如: "[The](/post/the/) [police](/post/police/) [officer](/post/officer/) arrested [the](/post/the/) [suspect](/post/suspect/)."
-- **名词**: （尤指学校的）教官，指导员。例如: "[The](/post/the/) cadet's [drill](/post/drill/) [officer](/post/officer/) was [strict](/post/strict/) [about](/post/about/) [discipline](/post/discipline/)."
+- **名词 (n)**: 职员，官员；警官，军官。指在政府、公司、军队等组织中担任一定职务的人。例如: "[The](/zh/post/the/) [police](/zh/post/police/) [officer](/zh/post/officer/) arrested [the](/zh/post/the/) [suspect](/zh/post/suspect/)."
+- **名词**: （尤指学校的）教官，指导员。例如: "[The](/zh/post/the/) cadet's [drill](/zh/post/drill/) [officer](/zh/post/officer/) was [strict](/zh/post/strict/) [about](/zh/post/about/) [discipline](/zh/post/discipline/)."
 
 ## 短语
-- "[Officer](/post/officer/) [in](/post/in/) [charge](/post/charge/)" 指负责人或主管官员。
-- "[Police](/post/police/) [officer](/post/officer/)" 特指警察。
-- "[Company](/post/company/) [officer](/post/officer/)" 在商业环境中指的是公司管理层的成员。
+- "[Officer](/zh/post/officer/) [in](/zh/post/in/) [charge](/zh/post/charge/)" 指负责人或主管官员。
+- "[Police](/zh/post/police/) [officer](/zh/post/officer/)" 特指警察。
+- "[Company](/zh/post/company/) [officer](/zh/post/officer/)" 在商业环境中指的是公司管理层的成员。
 
 ## 例句
-- 名词: "[The](/post/the/) [officer](/post/officer/) [read](/post/read/) [the](/post/the/) [suspect](/post/suspect/) [his](/post/his/) rights [before](/post/before/) questioning [him](/post/him/)."
-- 名词: "[She](/post/she/) aspired [to](/post/to/) [become](/post/become/) [a](/post/a/) high-ranking [army](/post/army/) [officer](/post/officer/)."
+- 名词: "[The](/zh/post/the/) [officer](/zh/post/officer/) [read](/zh/post/read/) [the](/zh/post/the/) [suspect](/zh/post/suspect/) [his](/zh/post/his/) rights [before](/zh/post/before/) questioning [him](/zh/post/him/)."
+- 名词: "[She](/zh/post/she/) aspired [to](/zh/post/to/) [become](/zh/post/become/) [a](/zh/post/a/) high-ranking [army](/zh/post/army/) [officer](/zh/post/officer/)."
 
 ## 同义词
-- [Official](/post/official/)
-- [Representative](/post/representative/)
-- [Agent](/post/agent/)
-- [Commander](/post/commander/)
+- [Official](/zh/post/official/)
+- [Representative](/zh/post/representative/)
+- [Agent](/zh/post/agent/)
+- [Commander](/zh/post/commander/)
 - Superintendent

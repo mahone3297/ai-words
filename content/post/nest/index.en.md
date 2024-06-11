@@ -7,34 +7,34 @@ description = '[nest] n.巢，窝，穴'
 keywords = ['ai words', 'nest']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /nes(t)/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-1. **[A](/en/post/a/) [structure](/en/post/structure/) built [by](/en/post/by/) [certain](/en/post/certain/) animals, [especially](/en/post/especially/) birds, [to](/en/post/to/) [hold](/en/post/hold/) eggs [and](/en/post/and/) [young](/en/post/young/)**: Birds [construct](/en/post/construct/) nests [from](/en/post/from/) [various](/en/post/various/) materials [such](/en/post/such/) [as](/en/post/as/) twigs, leaves, [and](/en/post/and/) [grass](/en/post/grass/) [where](/en/post/where/) [they](/en/post/they/) [lay](/en/post/lay/) [their](/en/post/their/) eggs [and](/en/post/and/) [raise](/en/post/raise/) [their](/en/post/their/) chicks. [Example](/en/post/example/): "[The](/en/post/the/) robin built [its](/en/post/its/) [nest](/en/post/nest/) [high](/en/post/high/) [up](/en/post/up/) [in](/en/post/in/) [the](/en/post/the/) [tree](/en/post/tree/)."
-2. **[A](/en/post/a/) [place](/en/post/place/) resembling [a](/en/post/a/) bird's [nest](/en/post/nest/) [in](/en/post/in/) [shape](/en/post/shape/) [or](/en/post/or/) [function](/en/post/function/)**: [This](/en/post/this/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) snug [or](/en/post/or/) cozy [retreat](/en/post/retreat/). [Example](/en/post/example/): "[The](/en/post/the/) [family](/en/post/family/) had made [a](/en/post/a/) [little](/en/post/little/) [nest](/en/post/nest/) [of](/en/post/of/) blankets [and](/en/post/and/) pillows [on](/en/post/on/) [the](/en/post/the/) couch."
-3. **[A](/en/post/a/) [home](/en/post/home/) [or](/en/post/or/) [dwelling](/en/post/dwelling/)**: [This](/en/post/this/) [often](/en/post/often/) refers [to](/en/post/to/) [a](/en/post/a/) [small](/en/post/small/), [comfortable](/en/post/comfortable/) [home](/en/post/home/). [Example](/en/post/example/): "[They](/en/post/they/) [found](/en/post/found/) [a](/en/post/a/) [lovely](/en/post/lovely/) [little](/en/post/little/) [nest](/en/post/nest/) [in](/en/post/in/) [the](/en/post/the/) suburbs."
-4. **[A](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) [similar](/en/post/similar/) things gathered [together](/en/post/together/)**: [This](/en/post/this/) [could](/en/post/could/) [apply](/en/post/apply/) [to](/en/post/to/) [anything](/en/post/anything/) arranged [in](/en/post/in/) [a](/en/post/a/) [heap](/en/post/heap/) [or](/en/post/or/) cluster. [Example](/en/post/example/): "[She](/en/post/she/) kept [her](/en/post/her/) jewelry [in](/en/post/in/) [a](/en/post/a/) [nest](/en/post/nest/) [of](/en/post/of/) boxes [on](/en/post/on/) [her](/en/post/her/) dresser."
+### [Noun](/post/noun/) (n)
+1. **[A](/post/a/) [structure](/post/structure/) built [by](/post/by/) [certain](/post/certain/) animals, [especially](/post/especially/) birds, [to](/post/to/) [hold](/post/hold/) eggs [and](/post/and/) [young](/post/young/)**: Birds [construct](/post/construct/) nests [from](/post/from/) [various](/post/various/) materials [such](/post/such/) [as](/post/as/) twigs, leaves, [and](/post/and/) [grass](/post/grass/) [where](/post/where/) [they](/post/they/) [lay](/post/lay/) [their](/post/their/) eggs [and](/post/and/) [raise](/post/raise/) [their](/post/their/) chicks. [Example](/post/example/): "[The](/post/the/) robin built [its](/post/its/) [nest](/post/nest/) [high](/post/high/) [up](/post/up/) [in](/post/in/) [the](/post/the/) [tree](/post/tree/)."
+2. **[A](/post/a/) [place](/post/place/) resembling [a](/post/a/) bird's [nest](/post/nest/) [in](/post/in/) [shape](/post/shape/) [or](/post/or/) [function](/post/function/)**: [This](/post/this/) [can](/post/can/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [a](/post/a/) snug [or](/post/or/) cozy [retreat](/post/retreat/). [Example](/post/example/): "[The](/post/the/) [family](/post/family/) had made [a](/post/a/) [little](/post/little/) [nest](/post/nest/) [of](/post/of/) blankets [and](/post/and/) pillows [on](/post/on/) [the](/post/the/) couch."
+3. **[A](/post/a/) [home](/post/home/) [or](/post/or/) [dwelling](/post/dwelling/)**: [This](/post/this/) [often](/post/often/) refers [to](/post/to/) [a](/post/a/) [small](/post/small/), [comfortable](/post/comfortable/) [home](/post/home/). [Example](/post/example/): "[They](/post/they/) [found](/post/found/) [a](/post/a/) [lovely](/post/lovely/) [little](/post/little/) [nest](/post/nest/) [in](/post/in/) [the](/post/the/) suburbs."
+4. **[A](/post/a/) [collection](/post/collection/) [of](/post/of/) [similar](/post/similar/) things gathered [together](/post/together/)**: [This](/post/this/) [could](/post/could/) [apply](/post/apply/) [to](/post/to/) [anything](/post/anything/) arranged [in](/post/in/) [a](/post/a/) [heap](/post/heap/) [or](/post/or/) cluster. [Example](/post/example/): "[She](/post/she/) kept [her](/post/her/) jewelry [in](/post/in/) [a](/post/a/) [nest](/post/nest/) [of](/post/of/) boxes [on](/post/on/) [her](/post/her/) dresser."
 
-### [Verb](/en/post/verb/) (v)
-**[To](/en/post/to/) [build](/en/post/build/) [or](/en/post/or/) [settle](/en/post/settle/) [into](/en/post/into/) [a](/en/post/a/) [nest](/en/post/nest/)**: [This](/en/post/this/) [usage](/en/post/usage/) typically applies [to](/en/post/to/) animals [but](/en/post/but/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) figuratively [for](/en/post/for/) humans settling [into](/en/post/into/) [a](/en/post/a/) [new](/en/post/new/) [home](/en/post/home/) [or](/en/post/or/) [environment](/en/post/environment/). [Example](/en/post/example/): "[The](/en/post/the/) swallows nested [under](/en/post/under/) [the](/en/post/the/) eaves [of](/en/post/of/) [our](/en/post/our/) [house](/en/post/house/) [every](/en/post/every/) [spring](/en/post/spring/)."
+### [Verb](/post/verb/) (v)
+**[To](/post/to/) [build](/post/build/) [or](/post/or/) [settle](/post/settle/) [into](/post/into/) [a](/post/a/) [nest](/post/nest/)**: [This](/post/this/) [usage](/post/usage/) typically applies [to](/post/to/) animals [but](/post/but/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) figuratively [for](/post/for/) humans settling [into](/post/into/) [a](/post/a/) [new](/post/new/) [home](/post/home/) [or](/post/or/) [environment](/post/environment/). [Example](/post/example/): "[The](/post/the/) swallows nested [under](/post/under/) [the](/post/the/) eaves [of](/post/of/) [our](/post/our/) [house](/post/house/) [every](/post/every/) [spring](/post/spring/)."
 
 ### Phrases
-- "[Feather](/en/post/feather/) one's [nest](/en/post/nest/)": [To](/en/post/to/) [accumulate](/en/post/accumulate/) [wealth](/en/post/wealth/) [or](/en/post/or/) resources [for](/en/post/for/) [oneself](/en/post/oneself/), [often](/en/post/often/) [through](/en/post/through/) less-than-honest [means](/en/post/means/).
-- "Birds [of](/en/post/of/) [a](/en/post/a/) [feather](/en/post/feather/) [flock](/en/post/flock/) [together](/en/post/together/)": [This](/en/post/this/) [idiom](/en/post/idiom/) suggests [that](/en/post/that/) [people](/en/post/people/) [with](/en/post/with/) [similar](/en/post/similar/) characteristics [or](/en/post/or/) interests [tend](/en/post/tend/) [to](/en/post/to/) [group](/en/post/group/) [together](/en/post/together/), akin [to](/en/post/to/) [how](/en/post/how/) birds [gather](/en/post/gather/) materials [to](/en/post/to/) [build](/en/post/build/) [a](/en/post/a/) shared [nest](/en/post/nest/).
+- "[Feather](/post/feather/) one's [nest](/post/nest/)": [To](/post/to/) [accumulate](/post/accumulate/) [wealth](/post/wealth/) [or](/post/or/) resources [for](/post/for/) [oneself](/post/oneself/), [often](/post/often/) [through](/post/through/) less-than-honest [means](/post/means/).
+- "Birds [of](/post/of/) [a](/post/a/) [feather](/post/feather/) [flock](/post/flock/) [together](/post/together/)": [This](/post/this/) [idiom](/post/idiom/) suggests [that](/post/that/) [people](/post/people/) [with](/post/with/) [similar](/post/similar/) characteristics [or](/post/or/) interests [tend](/post/tend/) [to](/post/to/) [group](/post/group/) [together](/post/together/), akin [to](/post/to/) [how](/post/how/) birds [gather](/post/gather/) materials [to](/post/to/) [build](/post/build/) [a](/post/a/) shared [nest](/post/nest/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [she](/en/post/she/) retreated [to](/en/post/to/) [the](/en/post/the/) [comfort](/en/post/comfort/) [of](/en/post/of/) [her](/en/post/her/) cozy [nest](/en/post/nest/)."
-- **[Verb](/en/post/verb/)**: "[Every](/en/post/every/) [year](/en/post/year/), [the](/en/post/the/) [couple](/en/post/couple/) [would](/en/post/would/) [return](/en/post/return/) [to](/en/post/to/) [their](/en/post/their/) [summer](/en/post/summer/) [cottage](/en/post/cottage/) [to](/en/post/to/) [nest](/en/post/nest/) [and](/en/post/and/) [enjoy](/en/post/enjoy/) [the](/en/post/the/) [peace](/en/post/peace/) [and](/en/post/and/) [quiet](/en/post/quiet/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [she](/post/she/) retreated [to](/post/to/) [the](/post/the/) [comfort](/post/comfort/) [of](/post/of/) [her](/post/her/) cozy [nest](/post/nest/)."
+- **[Verb](/post/verb/)**: "[Every](/post/every/) [year](/post/year/), [the](/post/the/) [couple](/post/couple/) [would](/post/would/) [return](/post/return/) [to](/post/to/) [their](/post/their/) [summer](/post/summer/) [cottage](/post/cottage/) [to](/post/to/) [nest](/post/nest/) [and](/post/and/) [enjoy](/post/enjoy/) [the](/post/the/) [peace](/post/peace/) [and](/post/and/) [quiet](/post/quiet/)."
 
 ## Synonyms
-- [Home](/en/post/home/)
-- [Dwelling](/en/post/dwelling/)
+- [Home](/post/home/)
+- [Dwelling](/post/dwelling/)
 - Abode
-- [Retreat](/en/post/retreat/)
+- [Retreat](/post/retreat/)
 - Roost
-- [Shelter](/en/post/shelter/)
+- [Shelter](/post/shelter/)
 - Sanctuary
-- [Heap](/en/post/heap/)
-- Cluster ([for](/en/post/for/) [the](/en/post/the/) [sense](/en/post/sense/) referring [to](/en/post/to/) [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) items)
+- [Heap](/post/heap/)
+- Cluster ([for](/post/for/) [the](/post/the/) [sense](/post/sense/) referring [to](/post/to/) [a](/post/a/) [collection](/post/collection/) [of](/post/of/) items)

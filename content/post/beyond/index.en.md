@@ -7,47 +7,47 @@ description = '[biˈjɔnd] prep.在…的那边'
 keywords = ['ai words', 'beyond']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈjɒnd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [Beyond](/en/post/beyond/) refers [to](/en/post/to/) [a](/en/post/a/) [point](/en/post/point/) [or](/en/post/or/) [extent](/en/post/extent/) [that](/en/post/that/) is [farther](/en/post/farther/) [than](/en/post/than/) [what](/en/post/what/) is currently known, seen, [or](/en/post/or/) considered. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [level](/en/post/level/) [that](/en/post/that/) is [not](/en/post/not/) [within](/en/post/within/) [reach](/en/post/reach/) [or](/en/post/or/) [comprehension](/en/post/comprehension/). [Example](/en/post/example/): "[The](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) [mountain](/en/post/mountain/) was breathtaking, stretching [beyond](/en/post/beyond/) [the](/en/post/the/) [horizon](/en/post/horizon/)."
-2. [In](/en/post/in/) terms [of](/en/post/of/) [time](/en/post/time/) [or](/en/post/or/) [space](/en/post/space/), [it](/en/post/it/) signifies [after](/en/post/after/) [or](/en/post/or/) [past](/en/post/past/) [a](/en/post/a/) [certain](/en/post/certain/) [point](/en/post/point/) [or](/en/post/or/) [limit](/en/post/limit/). [Example](/en/post/example/): "[Beyond](/en/post/beyond/) [tomorrow](/en/post/tomorrow/), we'll [discuss](/en/post/discuss/) [the](/en/post/the/) [next](/en/post/next/) steps."
+### [Noun](/post/noun/)
+1. [Beyond](/post/beyond/) refers [to](/post/to/) [a](/post/a/) [point](/post/point/) [or](/post/or/) [extent](/post/extent/) [that](/post/that/) is [farther](/post/farther/) [than](/post/than/) [what](/post/what/) is currently known, seen, [or](/post/or/) considered. [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [level](/post/level/) [that](/post/that/) is [not](/post/not/) [within](/post/within/) [reach](/post/reach/) [or](/post/or/) [comprehension](/post/comprehension/). [Example](/post/example/): "[The](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) [mountain](/post/mountain/) was breathtaking, stretching [beyond](/post/beyond/) [the](/post/the/) [horizon](/post/horizon/)."
+2. [In](/post/in/) terms [of](/post/of/) [time](/post/time/) [or](/post/or/) [space](/post/space/), [it](/post/it/) signifies [after](/post/after/) [or](/post/or/) [past](/post/past/) [a](/post/a/) [certain](/post/certain/) [point](/post/point/) [or](/post/or/) [limit](/post/limit/). [Example](/post/example/): "[Beyond](/post/beyond/) [tomorrow](/post/tomorrow/), we'll [discuss](/post/discuss/) [the](/post/the/) [next](/post/next/) steps."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [go](/en/post/go/) [or](/en/post/or/) [extend](/en/post/extend/) [beyond](/en/post/beyond/) [a](/en/post/a/) [particular](/en/post/particular/) [boundary](/en/post/boundary/) [or](/en/post/or/) [limitation](/en/post/limitation/). [Example](/en/post/example/): "[Her](/en/post/her/) [imagination](/en/post/imagination/) [often](/en/post/often/) reaches [beyond](/en/post/beyond/) [the](/en/post/the/) boundaries [of](/en/post/of/) [reality](/en/post/reality/)."
-2. [To](/en/post/to/) surpass [or](/en/post/or/) [exceed](/en/post/exceed/) [in](/en/post/in/) [some](/en/post/some/) [aspect](/en/post/aspect/). [Example](/en/post/example/): "[His](/en/post/his/) skills surpassed [what](/en/post/what/) was expected, going [beyond](/en/post/beyond/) [the](/en/post/the/) norm."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [go](/post/go/) [or](/post/or/) [extend](/post/extend/) [beyond](/post/beyond/) [a](/post/a/) [particular](/post/particular/) [boundary](/post/boundary/) [or](/post/or/) [limitation](/post/limitation/). [Example](/post/example/): "[Her](/post/her/) [imagination](/post/imagination/) [often](/post/often/) reaches [beyond](/post/beyond/) [the](/post/the/) boundaries [of](/post/of/) [reality](/post/reality/)."
+2. [To](/post/to/) surpass [or](/post/or/) [exceed](/post/exceed/) [in](/post/in/) [some](/post/some/) [aspect](/post/aspect/). [Example](/post/example/): "[His](/post/his/) skills surpassed [what](/post/what/) was expected, going [beyond](/post/beyond/) [the](/post/the/) norm."
 
-### [Adverb](/en/post/adverb/)
-1. Describing [action](/en/post/action/) [that](/en/post/that/) occurs [after](/en/post/after/) [or](/en/post/or/) [outside](/en/post/outside/) [a](/en/post/a/) specified [area](/en/post/area/) [or](/en/post/or/) [period](/en/post/period/). [Example](/en/post/example/): "[The](/en/post/the/) [event](/en/post/event/) [will](/en/post/will/) [take](/en/post/take/) [place](/en/post/place/) [beyond](/en/post/beyond/) [the](/en/post/the/) [city](/en/post/city/) limits."
-2. Expressing [a](/en/post/a/) higher [degree](/en/post/degree/) [or](/en/post/or/) [intensity](/en/post/intensity/) [than](/en/post/than/) [something](/en/post/something/) [else](/en/post/else/). [Example](/en/post/example/): "[Her](/en/post/her/) [kindness](/en/post/kindness/) extended [far](/en/post/far/) [beyond](/en/post/beyond/) [just](/en/post/just/) [a](/en/post/a/) [simple](/en/post/simple/) [gesture](/en/post/gesture/)."
+### [Adverb](/post/adverb/)
+1. Describing [action](/post/action/) [that](/post/that/) occurs [after](/post/after/) [or](/post/or/) [outside](/post/outside/) [a](/post/a/) specified [area](/post/area/) [or](/post/or/) [period](/post/period/). [Example](/post/example/): "[The](/post/the/) [event](/post/event/) [will](/post/will/) [take](/post/take/) [place](/post/place/) [beyond](/post/beyond/) [the](/post/the/) [city](/post/city/) limits."
+2. Expressing [a](/post/a/) higher [degree](/post/degree/) [or](/post/or/) [intensity](/post/intensity/) [than](/post/than/) [something](/post/something/) [else](/post/else/). [Example](/post/example/): "[Her](/post/her/) [kindness](/post/kindness/) extended [far](/post/far/) [beyond](/post/beyond/) [just](/post/just/) [a](/post/a/) [simple](/post/simple/) [gesture](/post/gesture/)."
 
 ## Phrases
-- "[Beyond](/en/post/beyond/) [compare](/en/post/compare/)" [means](/en/post/means/) [excellent](/en/post/excellent/) [or](/en/post/or/) [superior](/en/post/superior/) [to](/en/post/to/) [all](/en/post/all/) others.
-- "[Beyond](/en/post/beyond/) [this](/en/post/this/) [point](/en/post/point/)" indicates an [area](/en/post/area/) [or](/en/post/or/) [situation](/en/post/situation/) [that](/en/post/that/) follows.
-- "[Beyond](/en/post/beyond/) [the](/en/post/the/) [pale](/en/post/pale/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is unacceptable [or](/en/post/or/) inappropriate.
+- "[Beyond](/post/beyond/) [compare](/post/compare/)" [means](/post/means/) [excellent](/post/excellent/) [or](/post/or/) [superior](/post/superior/) [to](/post/to/) [all](/post/all/) others.
+- "[Beyond](/post/beyond/) [this](/post/this/) [point](/post/point/)" indicates an [area](/post/area/) [or](/post/or/) [situation](/post/situation/) [that](/post/that/) follows.
+- "[Beyond](/post/beyond/) [the](/post/the/) [pale](/post/pale/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is unacceptable [or](/post/or/) inappropriate.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [future](/en/post/future/) possibilities seemed [to](/en/post/to/) [stretch](/en/post/stretch/) [beyond](/en/post/beyond/) [our](/en/post/our/) wildest dreams."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) was determined [to](/en/post/to/) [push](/en/post/push/) [her](/en/post/her/) boundaries [and](/en/post/and/) [explore](/en/post/explore/) [new](/en/post/new/) horizons."
-- **[Adverb](/en/post/adverb/)**: "[His](/en/post/his/) generosity went [beyond](/en/post/beyond/) [just](/en/post/just/) helping [with](/en/post/with/) [the](/en/post/the/) [project](/en/post/project/); [he](/en/post/he/) [also](/en/post/also/) [provided](/en/post/provided/) [financial](/en/post/financial/) [support](/en/post/support/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [future](/post/future/) possibilities seemed [to](/post/to/) [stretch](/post/stretch/) [beyond](/post/beyond/) [our](/post/our/) wildest dreams."
+- **[Verb](/post/verb/)**: "[She](/post/she/) was determined [to](/post/to/) [push](/post/push/) [her](/post/her/) boundaries [and](/post/and/) [explore](/post/explore/) [new](/post/new/) horizons."
+- **[Adverb](/post/adverb/)**: "[His](/post/his/) generosity went [beyond](/post/beyond/) [just](/post/just/) helping [with](/post/with/) [the](/post/the/) [project](/post/project/); [he](/post/he/) [also](/post/also/) [provided](/post/provided/) [financial](/post/financial/) [support](/post/support/)."
 
 ## Synonyms
-- [Past](/en/post/past/)
-- [Further](/en/post/further/)
+- [Past](/post/past/)
+- [Further](/post/further/)
 - Exceeding
-- [Over](/en/post/over/)
-- [Outside](/en/post/outside/)
-- [Farther](/en/post/farther/)
+- [Over](/post/over/)
+- [Outside](/post/outside/)
+- [Farther](/post/farther/)
 - Deeper
-- [Additional](/en/post/additional/)
-- [Extra](/en/post/extra/)
+- [Additional](/post/additional/)
+- [Extra](/post/extra/)
 
 ## Antonyms
-- [Inside](/en/post/inside/)
-- [Within](/en/post/within/)
-- [Limited](/en/post/limited/)
+- [Inside](/post/inside/)
+- [Within](/post/within/)
+- [Limited](/post/limited/)
 - Restricted
-- [Close](/en/post/close/)
-- [Nearby](/en/post/nearby/)
+- [Close](/post/close/)
+- [Nearby](/post/nearby/)

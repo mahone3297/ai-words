@@ -7,38 +7,38 @@ description = '[ˈwaiəlis] a.不用电线的，无线的'
 keywords = ['ai words', 'wireless']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɪˈleɪs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Wireless](/en/post/wireless/)**: [A](/en/post/a/) [technology](/en/post/technology/) [that](/en/post/that/) allows devices [to](/en/post/to/) [communicate](/en/post/communicate/) [without](/en/post/without/) using [physical](/en/post/physical/) cables, [often](/en/post/often/) referring [to](/en/post/to/) [radio](/en/post/radio/) [frequency](/en/post/frequency/) (RF) [communication](/en/post/communication/) systems. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wireless](/en/post/wireless/) [network](/en/post/network/) connects [my](/en/post/my/) laptop [to](/en/post/to/) [the](/en/post/the/) internet."
-- **[Wireless](/en/post/wireless/) [device](/en/post/device/)**: [A](/en/post/a/) gadget [or](/en/post/or/) [equipment](/en/post/equipment/) [that](/en/post/that/) operates [without](/en/post/without/) wires, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) Wi-Fi router [or](/en/post/or/) smartphone. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wireless](/en/post/wireless/) [speaker](/en/post/speaker/) [can](/en/post/can/) [be](/en/post/be/) controlled [from](/en/post/from/) [anywhere](/en/post/anywhere/) [in](/en/post/in/) [the](/en/post/the/) [room](/en/post/room/)."
+### [Noun](/post/noun/)
+- **[Wireless](/post/wireless/)**: [A](/post/a/) [technology](/post/technology/) [that](/post/that/) allows devices [to](/post/to/) [communicate](/post/communicate/) [without](/post/without/) using [physical](/post/physical/) cables, [often](/post/often/) referring [to](/post/to/) [radio](/post/radio/) [frequency](/post/frequency/) (RF) [communication](/post/communication/) systems. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wireless](/post/wireless/) [network](/post/network/) connects [my](/post/my/) laptop [to](/post/to/) [the](/post/the/) internet."
+- **[Wireless](/post/wireless/) [device](/post/device/)**: [A](/post/a/) gadget [or](/post/or/) [equipment](/post/equipment/) [that](/post/that/) operates [without](/post/without/) wires, [such](/post/such/) [as](/post/as/) [a](/post/a/) Wi-Fi router [or](/post/or/) smartphone. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wireless](/post/wireless/) [speaker](/post/speaker/) [can](/post/can/) [be](/post/be/) controlled [from](/post/from/) [anywhere](/post/anywhere/) [in](/post/in/) [the](/post/the/) [room](/post/room/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [go](/en/post/go/) [wireless](/en/post/wireless/)**: [To](/en/post/to/) [convert](/en/post/convert/) [or](/en/post/or/) [equip](/en/post/equip/) [something](/en/post/something/) [with](/en/post/with/) [wireless](/en/post/wireless/) capabilities. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) decided [to](/en/post/to/) [go](/en/post/go/) [wireless](/en/post/wireless/) [for](/en/post/for/) [our](/en/post/our/) [home](/en/post/home/) theater setup."
-- **[To](/en/post/to/) [use](/en/post/use/) [wireless](/en/post/wireless/)**: [To](/en/post/to/) [operate](/en/post/operate/) [or](/en/post/or/) [connect](/en/post/connect/) [to](/en/post/to/) [a](/en/post/a/) [device](/en/post/device/) wirelessly. [For](/en/post/for/) [example](/en/post/example/): "I [use](/en/post/use/) [my](/en/post/my/) Bluetooth headphones [to](/en/post/to/) [listen](/en/post/listen/) [to](/en/post/to/) [music](/en/post/music/) wirelessly."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [go](/post/go/) [wireless](/post/wireless/)**: [To](/post/to/) [convert](/post/convert/) [or](/post/or/) [equip](/post/equip/) [something](/post/something/) [with](/post/with/) [wireless](/post/wireless/) capabilities. [For](/post/for/) [example](/post/example/): "[We](/post/we/) decided [to](/post/to/) [go](/post/go/) [wireless](/post/wireless/) [for](/post/for/) [our](/post/our/) [home](/post/home/) theater setup."
+- **[To](/post/to/) [use](/post/use/) [wireless](/post/wireless/)**: [To](/post/to/) [operate](/post/operate/) [or](/post/or/) [connect](/post/connect/) [to](/post/to/) [a](/post/a/) [device](/post/device/) wirelessly. [For](/post/for/) [example](/post/example/): "I [use](/post/use/) [my](/post/my/) Bluetooth headphones [to](/post/to/) [listen](/post/listen/) [to](/post/to/) [music](/post/music/) wirelessly."
 
-### [Adjective](/en/post/adjective/)
-- **[Wireless](/en/post/wireless/) [connection](/en/post/connection/)**: [A](/en/post/a/) [connection](/en/post/connection/) established [between](/en/post/between/) devices [without](/en/post/without/) [physical](/en/post/physical/) cables. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wireless](/en/post/wireless/) [connection](/en/post/connection/) was [stable](/en/post/stable/) [throughout](/en/post/throughout/) [the](/en/post/the/) presentation."
+### [Adjective](/post/adjective/)
+- **[Wireless](/post/wireless/) [connection](/post/connection/)**: [A](/post/a/) [connection](/post/connection/) established [between](/post/between/) devices [without](/post/without/) [physical](/post/physical/) cables. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wireless](/post/wireless/) [connection](/post/connection/) was [stable](/post/stable/) [throughout](/post/throughout/) [the](/post/the/) presentation."
 
 ## Phrases
-- "[Go](/en/post/go/) [wireless](/en/post/wireless/)" [or](/en/post/or/) "wirelessly enabled" refers [to](/en/post/to/) devices [or](/en/post/or/) systems [that](/en/post/that/) [have](/en/post/have/) adopted [wireless](/en/post/wireless/) functionality.
-- "[Wireless](/en/post/wireless/) [range](/en/post/range/)" describes [the](/en/post/the/) [area](/en/post/area/) [over](/en/post/over/) [which](/en/post/which/) [a](/en/post/a/) [wireless](/en/post/wireless/) [signal](/en/post/signal/) [can](/en/post/can/) [be](/en/post/be/) received.
-- "[Wireless](/en/post/wireless/) charger" is [a](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) allows [for](/en/post/for/) charging [electronic](/en/post/electronic/) devices [without](/en/post/without/) cables.
+- "[Go](/post/go/) [wireless](/post/wireless/)" [or](/post/or/) "wirelessly enabled" refers [to](/post/to/) devices [or](/post/or/) systems [that](/post/that/) [have](/post/have/) adopted [wireless](/post/wireless/) functionality.
+- "[Wireless](/post/wireless/) [range](/post/range/)" describes [the](/post/the/) [area](/post/area/) [over](/post/over/) [which](/post/which/) [a](/post/a/) [wireless](/post/wireless/) [signal](/post/signal/) [can](/post/can/) [be](/post/be/) received.
+- "[Wireless](/post/wireless/) charger" is [a](/post/a/) [device](/post/device/) [that](/post/that/) allows [for](/post/for/) charging [electronic](/post/electronic/) devices [without](/post/without/) cables.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) smartphone has [a](/en/post/a/) long-range [wireless](/en/post/wireless/) [connection](/en/post/connection/)."
-- **[Verb](/en/post/verb/)**: "I connected [my](/en/post/my/) laptop [to](/en/post/to/) [the](/en/post/the/) [conference](/en/post/conference/) hotspot [to](/en/post/to/) [go](/en/post/go/) [wireless](/en/post/wireless/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [office](/en/post/office/) has [recently](/en/post/recently/) upgraded [their](/en/post/their/) [wireless](/en/post/wireless/) infrastructure."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) smartphone has [a](/post/a/) long-range [wireless](/post/wireless/) [connection](/post/connection/)."
+- **[Verb](/post/verb/)**: "I connected [my](/post/my/) laptop [to](/post/to/) [the](/post/the/) [conference](/post/conference/) hotspot [to](/post/to/) [go](/post/go/) [wireless](/post/wireless/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [office](/post/office/) has [recently](/post/recently/) upgraded [their](/post/their/) [wireless](/post/wireless/) infrastructure."
 
 ## Synonyms
 - Cordless
 - Radiofrequency
 - RF
-- [Mobile](/en/post/mobile/)
+- [Mobile](/post/mobile/)
 - Inductive
 - Bluetooth
-- NFC ([Near](/en/post/near/) [Field](/en/post/field/) [Communication](/en/post/communication/))
+- NFC ([Near](/post/near/) [Field](/post/field/) [Communication](/post/communication/))
 - Unwired
 - Cable-free

@@ -7,40 +7,40 @@ description = '[ˈɔːdəli] a.整洁的；有秩序的'
 keywords = ['ai words', 'orderly']
 +++
 
-## [Word](/en/post/word/): [Orderly](/en/post/orderly/)
+## [Word](/post/word/): [Orderly](/post/orderly/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːrdərli/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Arranged [in](/en/post/in/) [a](/en/post/a/) [neat](/en/post/neat/), [tidy](/en/post/tidy/), [or](/en/post/or/) systematic [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) books were placed [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/) [in](/en/post/in/) an [orderly](/en/post/orderly/) [fashion](/en/post/fashion/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/), typically [a](/en/post/a/) [hospital](/en/post/hospital/) attendant, [who](/en/post/who/) helps [maintain](/en/post/maintain/) [order](/en/post/order/) [and](/en/post/and/) [care](/en/post/care/) [for](/en/post/for/) patients. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [orderly](/en/post/orderly/) helped [the](/en/post/the/) [patient](/en/post/patient/) [to](/en/post/to/) [his](/en/post/his/) feet."
+- **[Adjective](/post/adjective/)**: Arranged [in](/post/in/) [a](/post/a/) [neat](/post/neat/), [tidy](/post/tidy/), [or](/post/or/) systematic [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) books were placed [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/) [in](/post/in/) an [orderly](/post/orderly/) [fashion](/post/fashion/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/), typically [a](/post/a/) [hospital](/post/hospital/) attendant, [who](/post/who/) helps [maintain](/post/maintain/) [order](/post/order/) [and](/post/and/) [care](/post/care/) [for](/post/for/) patients. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [orderly](/post/orderly/) helped [the](/post/the/) [patient](/post/patient/) [to](/post/to/) [his](/post/his/) feet."
 
-### [As](/en/post/as/) [Adjective](/en/post/adjective/)
-- An [orderly](/en/post/orderly/) [process](/en/post/process/) implies [that](/en/post/that/) [it](/en/post/it/) is well-organized [and](/en/post/and/) structured. [Example](/en/post/example/): "[The](/en/post/the/) evacuation was conducted [in](/en/post/in/) an [orderly](/en/post/orderly/) [manner](/en/post/manner/)."
-- An [orderly](/en/post/orderly/) [desk](/en/post/desk/) suggests [that](/en/post/that/) it's [clean](/en/post/clean/) [and](/en/post/and/) [everything](/en/post/everything/) is [in](/en/post/in/) [its](/en/post/its/) [proper](/en/post/proper/) [place](/en/post/place/). [Example](/en/post/example/): "[She](/en/post/she/) kept [her](/en/post/her/) [desk](/en/post/desk/) [orderly](/en/post/orderly/) [so](/en/post/so/) [she](/en/post/she/) [could](/en/post/could/) [find](/en/post/find/) documents [easily](/en/post/easily/)."
+### [As](/post/as/) [Adjective](/post/adjective/)
+- An [orderly](/post/orderly/) [process](/post/process/) implies [that](/post/that/) [it](/post/it/) is well-organized [and](/post/and/) structured. [Example](/post/example/): "[The](/post/the/) evacuation was conducted [in](/post/in/) an [orderly](/post/orderly/) [manner](/post/manner/)."
+- An [orderly](/post/orderly/) [desk](/post/desk/) suggests [that](/post/that/) it's [clean](/post/clean/) [and](/post/and/) [everything](/post/everything/) is [in](/post/in/) [its](/post/its/) [proper](/post/proper/) [place](/post/place/). [Example](/post/example/): "[She](/post/she/) kept [her](/post/her/) [desk](/post/desk/) [orderly](/post/orderly/) [so](/post/so/) [she](/post/she/) [could](/post/could/) [find](/post/find/) documents [easily](/post/easily/)."
 
-### [As](/en/post/as/) [Noun](/en/post/noun/)
-- [In](/en/post/in/) [a](/en/post/a/) [medical](/en/post/medical/) context, an [orderly](/en/post/orderly/) [might](/en/post/might/) [assist](/en/post/assist/) [with](/en/post/with/) moving patients, cleaning rooms, [and](/en/post/and/) [basic](/en/post/basic/) [patient](/en/post/patient/) [care](/en/post/care/) tasks. [Example](/en/post/example/): "[The](/en/post/the/) [hospital](/en/post/hospital/) [orderly](/en/post/orderly/) ensured [the](/en/post/the/) patient's [room](/en/post/room/) was [clean](/en/post/clean/) [and](/en/post/and/) [comfortable](/en/post/comfortable/)."
+### [As](/post/as/) [Noun](/post/noun/)
+- [In](/post/in/) [a](/post/a/) [medical](/post/medical/) context, an [orderly](/post/orderly/) [might](/post/might/) [assist](/post/assist/) [with](/post/with/) moving patients, cleaning rooms, [and](/post/and/) [basic](/post/basic/) [patient](/post/patient/) [care](/post/care/) tasks. [Example](/post/example/): "[The](/post/the/) [hospital](/post/hospital/) [orderly](/post/orderly/) ensured [the](/post/the/) patient's [room](/post/room/) was [clean](/post/clean/) [and](/post/and/) [comfortable](/post/comfortable/)."
 
 ## Phrases
-- "[Maintain](/en/post/maintain/) [order](/en/post/order/)": [Keep](/en/post/keep/) things [in](/en/post/in/) an [orderly](/en/post/orderly/) [state](/en/post/state/).
-- "[Serve](/en/post/serve/) [as](/en/post/as/) an [orderly](/en/post/orderly/)": [Work](/en/post/work/) [as](/en/post/as/) [a](/en/post/a/) healthcare attendant [responsible](/en/post/responsible/) [for](/en/post/for/) helping patients [and](/en/post/and/) maintaining cleanliness.
+- "[Maintain](/post/maintain/) [order](/post/order/)": [Keep](/post/keep/) things [in](/post/in/) an [orderly](/post/orderly/) [state](/post/state/).
+- "[Serve](/post/serve/) [as](/post/as/) an [orderly](/post/orderly/)": [Work](/post/work/) [as](/post/as/) [a](/post/a/) healthcare attendant [responsible](/post/responsible/) [for](/post/for/) helping patients [and](/post/and/) maintaining cleanliness.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sergeant demanded [that](/en/post/that/) [the](/en/post/the/) soldiers [form](/en/post/form/) an [orderly](/en/post/orderly/) [queue](/en/post/queue/) [for](/en/post/for/) [roll](/en/post/roll/) [call](/en/post/call/)."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [surgery](/en/post/surgery/), [the](/en/post/the/) [patient](/en/post/patient/) relied [heavily](/en/post/heavily/) [on](/en/post/on/) [the](/en/post/the/) [kindness](/en/post/kindness/) [and](/en/post/and/) [support](/en/post/support/) [of](/en/post/of/) [the](/en/post/the/) [hospital](/en/post/hospital/) [orderly](/en/post/orderly/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sergeant demanded [that](/post/that/) [the](/post/the/) soldiers [form](/post/form/) an [orderly](/post/orderly/) [queue](/post/queue/) [for](/post/for/) [roll](/post/roll/) [call](/post/call/)."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [surgery](/post/surgery/), [the](/post/the/) [patient](/post/patient/) relied [heavily](/post/heavily/) [on](/post/on/) [the](/post/the/) [kindness](/post/kindness/) [and](/post/and/) [support](/post/support/) [of](/post/of/) [the](/post/the/) [hospital](/post/hospital/) [orderly](/post/orderly/)."
 
 ## Synonyms
-- [Neat](/en/post/neat/) ([as](/en/post/as/) an [adjective](/en/post/adjective/))
+- [Neat](/post/neat/) ([as](/post/as/) an [adjective](/post/adjective/))
 - Organized
 - Systematic
-- [Tidy](/en/post/tidy/)
+- [Tidy](/post/tidy/)
 - Methodical
-- Disciplined ([in](/en/post/in/) terms [of](/en/post/of/) [behavior](/en/post/behavior/))
+- Disciplined ([in](/post/in/) terms [of](/post/of/) [behavior](/post/behavior/))
   
-[For](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) '[orderly](/en/post/orderly/)':
+[For](/post/for/) [the](/post/the/) [noun](/post/noun/) '[orderly](/post/orderly/)':
 - Attendant
-- Healthcare [assistant](/en/post/assistant/)
-- [Nurse](/en/post/nurse/) aide
-- Caregiver ([in](/en/post/in/) [a](/en/post/a/) healthcare [setting](/en/post/setting/))
+- Healthcare [assistant](/post/assistant/)
+- [Nurse](/post/nurse/) aide
+- Caregiver ([in](/post/in/) [a](/post/a/) healthcare [setting](/post/setting/))

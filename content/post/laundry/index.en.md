@@ -7,26 +7,26 @@ description = '[ˈlɔːndri] n.洗衣房，洗衣店'
 keywords = ['ai words', 'laundry']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɔːn.dri/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) washing, drying, [and](/en/post/and/) ironing [of](/en/post/of/) [clothes](/en/post/clothes/) [and](/en/post/and/) linens, [often](/en/post/often/) done commercially [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) [separate](/en/post/separate/) [room](/en/post/room/) [or](/en/post/or/) [area](/en/post/area/) [of](/en/post/of/) [a](/en/post/a/) [house](/en/post/house/); [also](/en/post/also/) refers [to](/en/post/to/) [a](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [this](/en/post/this/) is done. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spends [her](/en/post/her/) weekends doing [the](/en/post/the/) [laundry](/en/post/laundry/)."
-- **[Noun](/en/post/noun/) ([US](/en/post/us/) slang)**: [Clothes](/en/post/clothes/) [that](/en/post/that/) [need](/en/post/need/) [to](/en/post/to/) [be](/en/post/be/) washed [or](/en/post/or/) [that](/en/post/that/) [have](/en/post/have/) been washed. [For](/en/post/for/) [example](/en/post/example/): "I [have](/en/post/have/) [a](/en/post/a/) [basket](/en/post/basket/) [full](/en/post/full/) [of](/en/post/of/) [laundry](/en/post/laundry/) waiting [to](/en/post/to/) [be](/en/post/be/) folded."
+- **[Noun](/post/noun/)**: [The](/post/the/) washing, drying, [and](/post/and/) ironing [of](/post/of/) [clothes](/post/clothes/) [and](/post/and/) linens, [often](/post/often/) done commercially [or](/post/or/) [in](/post/in/) [a](/post/a/) [separate](/post/separate/) [room](/post/room/) [or](/post/or/) [area](/post/area/) [of](/post/of/) [a](/post/a/) [house](/post/house/); [also](/post/also/) refers [to](/post/to/) [a](/post/a/) [place](/post/place/) [where](/post/where/) [this](/post/this/) is done. [For](/post/for/) [example](/post/example/): "[She](/post/she/) spends [her](/post/her/) weekends doing [the](/post/the/) [laundry](/post/laundry/)."
+- **[Noun](/post/noun/) ([US](/post/us/) slang)**: [Clothes](/post/clothes/) [that](/post/that/) [need](/post/need/) [to](/post/to/) [be](/post/be/) washed [or](/post/or/) [that](/post/that/) [have](/post/have/) been washed. [For](/post/for/) [example](/post/example/): "I [have](/post/have/) [a](/post/a/) [basket](/post/basket/) [full](/post/full/) [of](/post/of/) [laundry](/post/laundry/) waiting [to](/post/to/) [be](/post/be/) folded."
 
 ## Phrases
-- "[Do](/en/post/do/) [the](/en/post/the/) [laundry](/en/post/laundry/)": [To](/en/post/to/) [wash](/en/post/wash/), [dry](/en/post/dry/), [and](/en/post/and/) [possibly](/en/post/possibly/) [iron](/en/post/iron/) [clothes](/en/post/clothes/) [or](/en/post/or/) linens.
-- "[Laundry](/en/post/laundry/) [list](/en/post/list/)": [A](/en/post/a/) [long](/en/post/long/), [often](/en/post/often/) exhaustive [list](/en/post/list/) [of](/en/post/of/) items [or](/en/post/or/) complaints. [This](/en/post/this/) metaphorical [usage](/en/post/usage/) comes [from](/en/post/from/) [the](/en/post/the/) [idea](/en/post/idea/) [of](/en/post/of/) listing [all](/en/post/all/) [the](/en/post/the/) items [that](/en/post/that/) [need](/en/post/need/) [to](/en/post/to/) [be](/en/post/be/) laundered.
-- "[Take](/en/post/take/) [the](/en/post/the/) [laundry](/en/post/laundry/) [to](/en/post/to/) [the](/en/post/the/) cleaners": [To](/en/post/to/) [bring](/en/post/bring/) one's [clothes](/en/post/clothes/) [to](/en/post/to/) [a](/en/post/a/) [professional](/en/post/professional/) cleaning [service](/en/post/service/).
+- "[Do](/post/do/) [the](/post/the/) [laundry](/post/laundry/)": [To](/post/to/) [wash](/post/wash/), [dry](/post/dry/), [and](/post/and/) [possibly](/post/possibly/) [iron](/post/iron/) [clothes](/post/clothes/) [or](/post/or/) linens.
+- "[Laundry](/post/laundry/) [list](/post/list/)": [A](/post/a/) [long](/post/long/), [often](/post/often/) exhaustive [list](/post/list/) [of](/post/of/) items [or](/post/or/) complaints. [This](/post/this/) metaphorical [usage](/post/usage/) comes [from](/post/from/) [the](/post/the/) [idea](/post/idea/) [of](/post/of/) listing [all](/post/all/) [the](/post/the/) items [that](/post/that/) [need](/post/need/) [to](/post/to/) [be](/post/be/) laundered.
+- "[Take](/post/take/) [the](/post/the/) [laundry](/post/laundry/) [to](/post/to/) [the](/post/the/) cleaners": [To](/post/to/) [bring](/post/bring/) one's [clothes](/post/clothes/) [to](/post/to/) [a](/post/a/) [professional](/post/professional/) cleaning [service](/post/service/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [hotel](/en/post/hotel/) offers [a](/en/post/a/) same-day [laundry](/en/post/laundry/) [service](/en/post/service/) [for](/en/post/for/) [its](/en/post/its/) guests."
-- **[Noun](/en/post/noun/) (slang)**: "I [need](/en/post/need/) [to](/en/post/to/) [sort](/en/post/sort/) [out](/en/post/out/) [my](/en/post/my/) darks [and](/en/post/and/) whites [before](/en/post/before/) putting [them](/en/post/them/) [in](/en/post/in/) [the](/en/post/the/) [laundry](/en/post/laundry/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [hotel](/post/hotel/) offers [a](/post/a/) same-day [laundry](/post/laundry/) [service](/post/service/) [for](/post/for/) [its](/post/its/) guests."
+- **[Noun](/post/noun/) (slang)**: "I [need](/post/need/) [to](/post/to/) [sort](/post/sort/) [out](/post/out/) [my](/post/my/) darks [and](/post/and/) whites [before](/post/before/) putting [them](/post/them/) [in](/post/in/) [the](/post/the/) [laundry](/post/laundry/)."
   
 ## Synonyms
-- [Wash](/en/post/wash/)
+- [Wash](/post/wash/)
 - Washing
 - Laundering
-- Cleaners ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [commercial](/en/post/commercial/) [establishment](/en/post/establishment/))
-- Washroom ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) designated [area](/en/post/area/) [for](/en/post/for/) doing [laundry](/en/post/laundry/))
-- Laundromat ([North](/en/post/north/) [American](/en/post/american/) English)
+- Cleaners ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [commercial](/post/commercial/) [establishment](/post/establishment/))
+- Washroom ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) designated [area](/post/area/) [for](/post/for/) doing [laundry](/post/laundry/))
+- Laundromat ([North](/post/north/) [American](/post/american/) English)

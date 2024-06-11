@@ -7,38 +7,38 @@ description = '[ˈæspekt] n.方面；样子，外表'
 keywords = ['ai words', 'aspect']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæspekt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Aspect](/en/post/aspect/)**: [In](/en/post/in/) [grammar](/en/post/grammar/), [it](/en/post/it/) refers [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [way](/en/post/way/) [in](/en/post/in/) [which](/en/post/which/) [a](/en/post/a/) [verb](/en/post/verb/) is inflected [to](/en/post/to/) [show](/en/post/show/) [time](/en/post/time/), [manner](/en/post/manner/), [direction](/en/post/direction/), [or](/en/post/or/) [other](/en/post/other/) [grammatical](/en/post/grammatical/) features. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [progressive](/en/post/progressive/) [aspect](/en/post/aspect/) shows [continuous](/en/post/continuous/) [action](/en/post/action/)."
-- **[Phenomenon](/en/post/phenomenon/)**: [A](/en/post/a/) [general](/en/post/general/) [feature](/en/post/feature/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) [quality](/en/post/quality/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) observed [or](/en/post/or/) experienced. [For](/en/post/for/) [example](/en/post/example/): "[Climate](/en/post/climate/) [change](/en/post/change/) is [a](/en/post/a/) global [aspect](/en/post/aspect/) [of](/en/post/of/) [our](/en/post/our/) [modern](/en/post/modern/) [world](/en/post/world/)."
+### [Noun](/post/noun/)
+- **[Aspect](/post/aspect/)**: [In](/post/in/) [grammar](/post/grammar/), [it](/post/it/) refers [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [way](/post/way/) [in](/post/in/) [which](/post/which/) [a](/post/a/) [verb](/post/verb/) is inflected [to](/post/to/) [show](/post/show/) [time](/post/time/), [manner](/post/manner/), [direction](/post/direction/), [or](/post/or/) [other](/post/other/) [grammatical](/post/grammatical/) features. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [progressive](/post/progressive/) [aspect](/post/aspect/) shows [continuous](/post/continuous/) [action](/post/action/)."
+- **[Phenomenon](/post/phenomenon/)**: [A](/post/a/) [general](/post/general/) [feature](/post/feature/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [something](/post/something/), [often](/post/often/) referring [to](/post/to/) [a](/post/a/) [quality](/post/quality/) [that](/post/that/) [can](/post/can/) [be](/post/be/) observed [or](/post/or/) experienced. [For](/post/for/) [example](/post/example/): "[Climate](/post/climate/) [change](/post/change/) is [a](/post/a/) global [aspect](/post/aspect/) [of](/post/of/) [our](/post/our/) [modern](/post/modern/) [world](/post/world/)."
 
-### [Verb](/en/post/verb/)
-- **Aspectualize**: [To](/en/post/to/) [express](/en/post/express/) [the](/en/post/the/) [aspect](/en/post/aspect/) ([time](/en/post/time/) [or](/en/post/or/) [manner](/en/post/manner/)) [of](/en/post/of/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) aspectualized [the](/en/post/the/) [verb](/en/post/verb/) '[to](/en/post/to/) [learn](/en/post/learn/)' [to](/en/post/to/) [show](/en/post/show/) [the](/en/post/the/) [progressive](/en/post/progressive/) [aspect](/en/post/aspect/)."
-- **[Considerate](/en/post/considerate/)**: [To](/en/post/to/) [show](/en/post/show/) thoughtfulness [or](/en/post/or/) attentiveness [to](/en/post/to/) another's needs [or](/en/post/or/) feelings, [often](/en/post/often/) [in](/en/post/in/) terms [of](/en/post/of/) [how](/en/post/how/) actions are performed. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [considerate](/en/post/considerate/) [person](/en/post/person/) pays [attention](/en/post/attention/) [to](/en/post/to/) [the](/en/post/the/) aspects [that](/en/post/that/) [matter](/en/post/matter/) [to](/en/post/to/) others."
+### [Verb](/post/verb/)
+- **Aspectualize**: [To](/post/to/) [express](/post/express/) [the](/post/the/) [aspect](/post/aspect/) ([time](/post/time/) [or](/post/or/) [manner](/post/manner/)) [of](/post/of/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [a](/post/a/) [sentence](/post/sentence/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) aspectualized [the](/post/the/) [verb](/post/verb/) '[to](/post/to/) [learn](/post/learn/)' [to](/post/to/) [show](/post/show/) [the](/post/the/) [progressive](/post/progressive/) [aspect](/post/aspect/)."
+- **[Considerate](/post/considerate/)**: [To](/post/to/) [show](/post/show/) thoughtfulness [or](/post/or/) attentiveness [to](/post/to/) another's needs [or](/post/or/) feelings, [often](/post/often/) [in](/post/in/) terms [of](/post/of/) [how](/post/how/) actions are performed. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [considerate](/post/considerate/) [person](/post/person/) pays [attention](/post/attention/) [to](/post/to/) [the](/post/the/) aspects [that](/post/that/) [matter](/post/matter/) [to](/post/to/) others."
 
-### [Adjective](/en/post/adjective/)
-- **Aspects**: Referring [to](/en/post/to/) [various](/en/post/various/) features [or](/en/post/or/) qualities [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [course](/en/post/course/) covers [different](/en/post/different/) aspects [of](/en/post/of/) [history](/en/post/history/)."
-- **Temporal**: Relating [to](/en/post/to/) [time](/en/post/time/) [or](/en/post/or/) [duration](/en/post/duration/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) has [several](/en/post/several/) temporal aspects [to](/en/post/to/) [manage](/en/post/manage/)."
+### [Adjective](/post/adjective/)
+- **Aspects**: Referring [to](/post/to/) [various](/post/various/) features [or](/post/or/) qualities [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [course](/post/course/) covers [different](/post/different/) aspects [of](/post/of/) [history](/post/history/)."
+- **Temporal**: Relating [to](/post/to/) [time](/post/time/) [or](/post/or/) [duration](/post/duration/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) has [several](/post/several/) temporal aspects [to](/post/to/) [manage](/post/manage/)."
 
 ## Phrases
-- "Aspectual markers" are linguistic elements [that](/en/post/that/) [indicate](/en/post/indicate/) [verb](/en/post/verb/) aspects.
-- "Cultural aspects" refers [to](/en/post/to/) [the](/en/post/the/) features [of](/en/post/of/) [a](/en/post/a/) [society](/en/post/society/) [or](/en/post/or/) [tradition](/en/post/tradition/).
-- "[Focus](/en/post/focus/) [on](/en/post/on/) [the](/en/post/the/) [positive](/en/post/positive/) aspects" [means](/en/post/means/) [to](/en/post/to/) [concentrate](/en/post/concentrate/) [on](/en/post/on/) [the](/en/post/the/) [good](/en/post/good/) points.
+- "Aspectual markers" are linguistic elements [that](/post/that/) [indicate](/post/indicate/) [verb](/post/verb/) aspects.
+- "Cultural aspects" refers [to](/post/to/) [the](/post/the/) features [of](/post/of/) [a](/post/a/) [society](/post/society/) [or](/post/or/) [tradition](/post/tradition/).
+- "[Focus](/post/focus/) [on](/post/on/) [the](/post/the/) [positive](/post/positive/) aspects" [means](/post/means/) [to](/post/to/) [concentrate](/post/concentrate/) [on](/post/on/) [the](/post/the/) [good](/post/good/) points.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was studying [the](/en/post/the/) [different](/en/post/different/) aspects [of](/en/post/of/) [the](/en/post/the/) [language](/en/post/language/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) explained [the](/en/post/the/) perfective [aspect](/en/post/aspect/) [of](/en/post/of/) [the](/en/post/the/) [past](/en/post/past/) [tense](/en/post/tense/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [course](/en/post/course/) highlights [the](/en/post/the/) [historical](/en/post/historical/) aspects [that](/en/post/that/) shaped [our](/en/post/our/) [world](/en/post/world/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was studying [the](/post/the/) [different](/post/different/) aspects [of](/post/of/) [the](/post/the/) [language](/post/language/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) explained [the](/post/the/) perfective [aspect](/post/aspect/) [of](/post/of/) [the](/post/the/) [past](/post/past/) [tense](/post/tense/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [course](/post/course/) highlights [the](/post/the/) [historical](/post/historical/) aspects [that](/post/that/) shaped [our](/post/our/) [world](/post/world/)."
 
 ## Synonyms
-- [Characteristic](/en/post/characteristic/)
-- [Feature](/en/post/feature/)
-- [Element](/en/post/element/)
-- [Component](/en/post/component/)
+- [Characteristic](/post/characteristic/)
+- [Feature](/post/feature/)
+- [Element](/post/element/)
+- [Component](/post/component/)
 - Facet
-- [Nature](/en/post/nature/)
-- [Quality](/en/post/quality/)
-- Elemental [part](/en/post/part/)
+- [Nature](/post/nature/)
+- [Quality](/post/quality/)
+- Elemental [part](/post/part/)

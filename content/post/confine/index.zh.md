@@ -12,21 +12,21 @@ keywords = ['ai words', 'confine']
 
 ## 释义
 - **动词**:
-  - 将（某人）限制在某个地方：例如，"[The](/post/the/) [prisoner](/post/prisoner/) was confined [to](/post/to/) [his](/post/his/) [cell](/post/cell/)."
-  - 限制；限定：例如，"[Her](/post/her/) [illness](/post/illness/) confines [her](/post/her/) [to](/post/to/) [the](/post/the/) [house](/post/house/)."
-  - 使局限于；限定于：例如，"[His](/post/his/) ideas are confined [to](/post/to/) [a](/post/a/) [narrow](/post/narrow/) [range](/post/range/)."
+  - 将（某人）限制在某个地方：例如，"[The](/zh/post/the/) [prisoner](/zh/post/prisoner/) was confined [to](/zh/post/to/) [his](/zh/post/his/) [cell](/zh/post/cell/)."
+  - 限制；限定：例如，"[Her](/zh/post/her/) [illness](/zh/post/illness/) confines [her](/zh/post/her/) [to](/zh/post/to/) [the](/zh/post/the/) [house](/zh/post/house/)."
+  - 使局限于；限定于：例如，"[His](/zh/post/his/) ideas are confined [to](/zh/post/to/) [a](/zh/post/a/) [narrow](/zh/post/narrow/) [range](/zh/post/range/)."
 
 ## 短语
-- "[confine](/post/confine/) [oneself](/post/oneself/) [to](/post/to/)" 意味着把自己限制在某个范围内，例如："[He](/post/he/) has [to](/post/to/) [confine](/post/confine/) [himself](/post/himself/) [to](/post/to/) [a](/post/a/) [strict](/post/strict/) diet."
-- "[confine](/post/confine/) [something](/post/something/) [to](/post/to/) [something](/post/something/) [else](/post/else/)" 表示将某物局限在另一物内，例如："[The](/post/the/) [discussion](/post/discussion/) was confined [to](/post/to/) [the](/post/the/) [main](/post/main/) [topic](/post/topic/)."
+- "[confine](/zh/post/confine/) [oneself](/zh/post/oneself/) [to](/zh/post/to/)" 意味着把自己限制在某个范围内，例如："[He](/zh/post/he/) has [to](/zh/post/to/) [confine](/zh/post/confine/) [himself](/zh/post/himself/) [to](/zh/post/to/) [a](/zh/post/a/) [strict](/zh/post/strict/) diet."
+- "[confine](/zh/post/confine/) [something](/zh/post/something/) [to](/zh/post/to/) [something](/zh/post/something/) [else](/zh/post/else/)" 表示将某物局限在另一物内，例如："[The](/zh/post/the/) [discussion](/zh/post/discussion/) was confined [to](/zh/post/to/) [the](/zh/post/the/) [main](/zh/post/main/) [topic](/zh/post/topic/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [doctor](/post/doctor/) advised [her](/post/her/) [to](/post/to/) [confine](/post/confine/) [herself](/post/herself/) [to](/post/to/) [bed](/post/bed/) [for](/post/for/) [a](/post/a/) [few](/post/few/) days."
-- "[The](/post/the/) library's [opening](/post/opening/) hours are confined [to](/post/to/) weekdays [only](/post/only/)."
+- 动词: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) advised [her](/zh/post/her/) [to](/zh/post/to/) [confine](/zh/post/confine/) [herself](/zh/post/herself/) [to](/zh/post/to/) [bed](/zh/post/bed/) [for](/zh/post/for/) [a](/zh/post/a/) [few](/zh/post/few/) days."
+- "[The](/zh/post/the/) library's [opening](/zh/post/opening/) hours are confined [to](/zh/post/to/) weekdays [only](/zh/post/only/)."
 
 ## 同义词
-- [restrict](/post/restrict/)
-- [limit](/post/limit/)
-- [confine](/post/confine/) [to](/post/to/)
-- [keep](/post/keep/) [within](/post/within/)
-- [bound](/post/bound/)
+- [restrict](/zh/post/restrict/)
+- [limit](/zh/post/limit/)
+- [confine](/zh/post/confine/) [to](/zh/post/to/)
+- [keep](/zh/post/keep/) [within](/zh/post/within/)
+- [bound](/zh/post/bound/)

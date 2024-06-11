@@ -11,20 +11,20 @@ keywords = ['ai words', 'responsible']
 /rɪˈspɑːnsəbl/
 
 ## 释义
-- **形容词**: 有责任的；负责的；可靠的。例如: "[She](/post/she/) is [responsible](/post/responsible/) [for](/post/for/) managing [the](/post/the/) [project](/post/project/)."
-- **动词**: 承担责任；对...负责。例如: "I [take](/post/take/) [full](/post/full/) [responsibility](/post/responsibility/) [for](/post/for/) [the](/post/the/) [mistake](/post/mistake/)."
+- **形容词**: 有责任的；负责的；可靠的。例如: "[She](/zh/post/she/) is [responsible](/zh/post/responsible/) [for](/zh/post/for/) managing [the](/zh/post/the/) [project](/zh/post/project/)."
+- **动词**: 承担责任；对...负责。例如: "I [take](/zh/post/take/) [full](/zh/post/full/) [responsibility](/zh/post/responsibility/) [for](/zh/post/for/) [the](/zh/post/the/) [mistake](/zh/post/mistake/)."
 
 ## 短语
-- "[be](/post/be/) [responsible](/post/responsible/) [for](/post/for/)" 意味着对...负有责任。
-- "[take](/post/take/) [responsibility](/post/responsibility/)" 表示接受并承担后果或义务。
+- "[be](/zh/post/be/) [responsible](/zh/post/responsible/) [for](/zh/post/for/)" 意味着对...负有责任。
+- "[take](/zh/post/take/) [responsibility](/zh/post/responsibility/)" 表示接受并承担后果或义务。
 
 ## 例句
-- 形容词: "[As](/post/as/) [a](/post/a/) manager, [he](/post/he/) is [responsible](/post/responsible/) [for](/post/for/) [his](/post/his/) team's [performance](/post/performance/)."
-- 动词: "[She](/post/she/) decided [to](/post/to/) [take](/post/take/) [responsibility](/post/responsibility/) [and](/post/and/) [apologize](/post/apologize/) [for](/post/for/) [the](/post/the/) [error](/post/error/)."
+- 形容词: "[As](/zh/post/as/) [a](/zh/post/a/) manager, [he](/zh/post/he/) is [responsible](/zh/post/responsible/) [for](/zh/post/for/) [his](/zh/post/his/) team's [performance](/zh/post/performance/)."
+- 动词: "[She](/zh/post/she/) decided [to](/zh/post/to/) [take](/zh/post/take/) [responsibility](/zh/post/responsibility/) [and](/zh/post/and/) [apologize](/zh/post/apologize/) [for](/zh/post/for/) [the](/zh/post/the/) [error](/zh/post/error/)."
 
 ## 同义词
 - accountable
 - dependable
-- [liable](/post/liable/)
+- [liable](/zh/post/liable/)
 - answerable
 - trustworthy

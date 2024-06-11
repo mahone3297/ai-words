@@ -11,20 +11,20 @@ keywords = ['ai words', 'conventional']
 /ˈkɑːnvənʃənl/
 
 ## 释义
-- **形容词**: 符合传统或常规的；遵循习俗的。例如: "[Her](/post/her/) [wedding](/post/wedding/) was [a](/post/a/) [very](/post/very/) [conventional](/post/conventional/) [affair](/post/affair/)."
-- **名词**: 传统的事物或做法。例如: "[They](/post/they/) followed [the](/post/the/) [conventional](/post/conventional/) [wisdom](/post/wisdom/) [on](/post/on/) [the](/post/the/) [matter](/post/matter/)."
+- **形容词**: 符合传统或常规的；遵循习俗的。例如: "[Her](/zh/post/her/) [wedding](/zh/post/wedding/) was [a](/zh/post/a/) [very](/zh/post/very/) [conventional](/zh/post/conventional/) [affair](/zh/post/affair/)."
+- **名词**: 传统的事物或做法。例如: "[They](/zh/post/they/) followed [the](/zh/post/the/) [conventional](/zh/post/conventional/) [wisdom](/zh/post/wisdom/) [on](/zh/post/on/) [the](/zh/post/the/) [matter](/zh/post/matter/)."
 
 ## 短语
-- "[Conventional](/post/conventional/) thinking" 意为传统的思维方式。
-- "Non-conventional [energy](/post/energy/)" 指非传统能源，如太阳能或风能。
+- "[Conventional](/zh/post/conventional/) thinking" 意为传统的思维方式。
+- "Non-conventional [energy](/zh/post/energy/)" 指非传统能源，如太阳能或风能。
 
 ## 例句
-- 形容词: "[His](/post/his/) [art](/post/art/) is unconventional, breaking [away](/post/away/) [from](/post/from/) [traditional](/post/traditional/) styles."
-- 名词: "[The](/post/the/) [use](/post/use/) [of](/post/of/) [coal](/post/coal/) [as](/post/as/) an [energy](/post/energy/) [source](/post/source/) is [a](/post/a/) [conventional](/post/conventional/) [method](/post/method/)."
+- 形容词: "[His](/zh/post/his/) [art](/zh/post/art/) is unconventional, breaking [away](/zh/post/away/) [from](/zh/post/from/) [traditional](/zh/post/traditional/) styles."
+- 名词: "[The](/zh/post/the/) [use](/zh/post/use/) [of](/zh/post/of/) [coal](/zh/post/coal/) [as](/zh/post/as/) an [energy](/zh/post/energy/) [source](/zh/post/source/) is [a](/zh/post/a/) [conventional](/zh/post/conventional/) [method](/zh/post/method/)."
 
 ## 同义词
-- [Traditional](/post/traditional/)
-- [Usual](/post/usual/)
-- [Normal](/post/normal/)
-- [Standard](/post/standard/)
+- [Traditional](/zh/post/traditional/)
+- [Usual](/zh/post/usual/)
+- [Normal](/zh/post/normal/)
+- [Standard](/zh/post/standard/)
 - Customary

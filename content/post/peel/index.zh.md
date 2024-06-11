@@ -11,20 +11,20 @@ keywords = ['ai words', 'peel']
 /piːl/
 
 ## 释义
-- **动词**: 去除（水果或蔬菜）的皮或外层。例如: "I [need](/post/need/) [to](/post/to/) [peel](/post/peel/) an [apple](/post/apple/) [before](/post/before/) eating [it](/post/it/)."
-- **名词**: 皮，外层，剥离物。例如: "[The](/post/the/) [peel](/post/peel/) [of](/post/of/) an [orange](/post/orange/) is [often](/post/often/) [used](/post/used/) [in](/post/in/) cooking."
+- **动词**: 去除（水果或蔬菜）的皮或外层。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [peel](/zh/post/peel/) an [apple](/zh/post/apple/) [before](/zh/post/before/) eating [it](/zh/post/it/)."
+- **名词**: 皮，外层，剥离物。例如: "[The](/zh/post/the/) [peel](/zh/post/peel/) [of](/zh/post/of/) an [orange](/zh/post/orange/) is [often](/zh/post/often/) [used](/zh/post/used/) [in](/zh/post/in/) cooking."
 
 ## 短语
-- "[peel](/post/peel/) [off](/post/off/)" 意为撕掉或剥落。例如: "[The](/post/the/) [old](/post/old/) [paint](/post/paint/) started [to](/post/to/) [peel](/post/peel/) [off](/post/off/) [the](/post/the/) [wall](/post/wall/)."
-- "[peel](/post/peel/) an [onion](/post/onion/)" 指剥洋葱。例如: "Carefully [peel](/post/peel/) [the](/post/the/) [onion](/post/onion/) [without](/post/without/) cutting [yourself](/post/yourself/)."
+- "[peel](/zh/post/peel/) [off](/zh/post/off/)" 意为撕掉或剥落。例如: "[The](/zh/post/the/) [old](/zh/post/old/) [paint](/zh/post/paint/) started [to](/zh/post/to/) [peel](/zh/post/peel/) [off](/zh/post/off/) [the](/zh/post/the/) [wall](/zh/post/wall/)."
+- "[peel](/zh/post/peel/) an [onion](/zh/post/onion/)" 指剥洋葱。例如: "Carefully [peel](/zh/post/peel/) [the](/zh/post/the/) [onion](/zh/post/onion/) [without](/zh/post/without/) cutting [yourself](/zh/post/yourself/)."
 
 ## 例句
-- 动词: "[He](/post/he/) peeled [the](/post/the/) potatoes [for](/post/for/) [the](/post/the/) [dinner](/post/dinner/)."
-- 名词: "[She](/post/she/) [put](/post/put/) [the](/post/the/) [potato](/post/potato/) peels [in](/post/in/) [the](/post/the/) compost bin."
+- 动词: "[He](/zh/post/he/) peeled [the](/zh/post/the/) potatoes [for](/zh/post/for/) [the](/zh/post/the/) [dinner](/zh/post/dinner/)."
+- 名词: "[She](/zh/post/she/) [put](/zh/post/put/) [the](/zh/post/the/) [potato](/zh/post/potato/) peels [in](/zh/post/in/) [the](/zh/post/the/) compost bin."
 
 ## 同义词
-- [remove](/post/remove/) [the](/post/the/) [skin](/post/skin/)
-- [strip](/post/strip/)
-- [take](/post/take/) [off](/post/off/) [the](/post/the/) [outer](/post/outer/) [layer](/post/layer/)
+- [remove](/zh/post/remove/) [the](/zh/post/the/) [skin](/zh/post/skin/)
+- [strip](/zh/post/strip/)
+- [take](/zh/post/take/) [off](/zh/post/off/) [the](/zh/post/the/) [outer](/zh/post/outer/) [layer](/zh/post/layer/)
 - pare
-- [skin](/post/skin/)
+- [skin](/zh/post/skin/)

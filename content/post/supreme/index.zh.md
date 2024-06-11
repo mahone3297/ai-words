@@ -11,20 +11,20 @@ keywords = ['ai words', 'supreme']
 /suːˈpriːm/
 
 ## 释义
-- **形容词**: 最高（级）的，至高无上的；极好的。例如: "[The](/post/the/) [Supreme](/post/supreme/) [Court](/post/court/) is [the](/post/the/) highest [legal](/post/legal/) [authority](/post/authority/) [in](/post/in/) [the](/post/the/) [country](/post/country/)." 
-- **名词**: (某些国家的)最高法院。例如: "[The](/post/the/) [decision](/post/decision/) was made [by](/post/by/) [the](/post/the/) [US](/post/us/) [Supreme](/post/supreme/) [Court](/post/court/)."
+- **形容词**: 最高（级）的，至高无上的；极好的。例如: "[The](/zh/post/the/) [Supreme](/zh/post/supreme/) [Court](/zh/post/court/) is [the](/zh/post/the/) highest [legal](/zh/post/legal/) [authority](/zh/post/authority/) [in](/zh/post/in/) [the](/zh/post/the/) [country](/zh/post/country/)." 
+- **名词**: (某些国家的)最高法院。例如: "[The](/zh/post/the/) [decision](/zh/post/decision/) was made [by](/zh/post/by/) [the](/zh/post/the/) [US](/zh/post/us/) [Supreme](/zh/post/supreme/) [Court](/zh/post/court/)."
 
 ## 短语
-- "[supreme](/post/supreme/) [authority](/post/authority/)" 指最高权力或权威。
-- "[supreme](/post/supreme/) [ruler](/post/ruler/)" 指至高无上的统治者。
+- "[supreme](/zh/post/supreme/) [authority](/zh/post/authority/)" 指最高权力或权威。
+- "[supreme](/zh/post/supreme/) [ruler](/zh/post/ruler/)" 指至高无上的统治者。
 
 ## 例句
-- 形容词: "[Her](/post/her/) cooking skills are [supreme](/post/supreme/), making [every](/post/every/) [meal](/post/meal/) [a](/post/a/) [delight](/post/delight/)."
-- 名词: "[The](/post/the/) [Supreme](/post/supreme/) [Court](/post/court/) has [the](/post/the/) [power](/post/power/) [to](/post/to/) [interpret](/post/interpret/) [the](/post/the/) [constitution](/post/constitution/)."
+- 形容词: "[Her](/zh/post/her/) cooking skills are [supreme](/zh/post/supreme/), making [every](/zh/post/every/) [meal](/zh/post/meal/) [a](/zh/post/a/) [delight](/zh/post/delight/)."
+- 名词: "[The](/zh/post/the/) [Supreme](/zh/post/supreme/) [Court](/zh/post/court/) has [the](/zh/post/the/) [power](/zh/post/power/) [to](/zh/post/to/) [interpret](/zh/post/interpret/) [the](/zh/post/the/) [constitution](/zh/post/constitution/)."
 
 ## 同义词
-- [Ultimate](/post/ultimate/)
+- [Ultimate](/zh/post/ultimate/)
 - Topmost
 - Greatest
-- [Utmost](/post/utmost/)
+- [Utmost](/zh/post/utmost/)
 - Apex

@@ -7,33 +7,33 @@ description = '[prəːˈvaidid] conj.以…为条件'
 keywords = ['ai words', 'provided']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /həˈlɒʊ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [greeting](/en/post/greeting/) [or](/en/post/or/) [expression](/en/post/expression/) [of](/en/post/of/) acknowledgement, [often](/en/post/often/) informal. [Example](/en/post/example/): "[She](/en/post/she/) waved [a](/en/post/a/) [friendly](/en/post/friendly/) [hello](/en/post/hello/) [to](/en/post/to/) [her](/en/post/her/) neighbor."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) initiate [a](/en/post/a/) [conversation](/en/post/conversation/) [or](/en/post/or/) [greet](/en/post/greet/) [someone](/en/post/someone/) [with](/en/post/with/) "[hello](/en/post/hello/)." [Example](/en/post/example/): "[He](/en/post/he/) greeted [the](/en/post/the/) [teacher](/en/post/teacher/) [with](/en/post/with/) [a](/en/post/a/) hearty [hello](/en/post/hello/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/)."
-- **[Adjective](/en/post/adjective/)**: Expressing [or](/en/post/or/) characterized [by](/en/post/by/) friendliness [or](/en/post/or/) [warmth](/en/post/warmth/). [Example](/en/post/example/): "[A](/en/post/a/) cheery [hello](/en/post/hello/) filled [the](/en/post/the/) [room](/en/post/room/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [friendly](/en/post/friendly/) [or](/en/post/or/) welcoming [manner](/en/post/manner/). [Example](/en/post/example/): "[He](/en/post/he/) said [hello](/en/post/hello/) warmly [to](/en/post/to/) [his](/en/post/his/) colleagues."
+- **[Noun](/post/noun/)**: [A](/post/a/) [greeting](/post/greeting/) [or](/post/or/) [expression](/post/expression/) [of](/post/of/) acknowledgement, [often](/post/often/) informal. [Example](/post/example/): "[She](/post/she/) waved [a](/post/a/) [friendly](/post/friendly/) [hello](/post/hello/) [to](/post/to/) [her](/post/her/) neighbor."
+- **[Verb](/post/verb/)**: [To](/post/to/) initiate [a](/post/a/) [conversation](/post/conversation/) [or](/post/or/) [greet](/post/greet/) [someone](/post/someone/) [with](/post/with/) "[hello](/post/hello/)." [Example](/post/example/): "[He](/post/he/) greeted [the](/post/the/) [teacher](/post/teacher/) [with](/post/with/) [a](/post/a/) hearty [hello](/post/hello/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- **[Adjective](/post/adjective/)**: Expressing [or](/post/or/) characterized [by](/post/by/) friendliness [or](/post/or/) [warmth](/post/warmth/). [Example](/post/example/): "[A](/post/a/) cheery [hello](/post/hello/) filled [the](/post/the/) [room](/post/room/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [friendly](/post/friendly/) [or](/post/or/) welcoming [manner](/post/manner/). [Example](/post/example/): "[He](/post/he/) said [hello](/post/hello/) warmly [to](/post/to/) [his](/post/his/) colleagues."
 
 ## Phrases
-- "[Say](/en/post/say/) [hello](/en/post/hello/) [on](/en/post/on/) one's [behalf](/en/post/behalf/)" [to](/en/post/to/) [convey](/en/post/convey/) greetings [on](/en/post/on/) [someone](/en/post/someone/) else's [behalf](/en/post/behalf/).
-- "[Goodbye](/en/post/goodbye/), [hello](/en/post/hello/)" refers [to](/en/post/to/) [a](/en/post/a/) [cycle](/en/post/cycle/) [of](/en/post/of/) parting [and](/en/post/and/) reuniting.
-- "[Hello](/en/post/hello/), [stranger](/en/post/stranger/)" is [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [address](/en/post/address/) [someone](/en/post/someone/) [you](/en/post/you/) don't [know](/en/post/know/).
+- "[Say](/post/say/) [hello](/post/hello/) [on](/post/on/) one's [behalf](/post/behalf/)" [to](/post/to/) [convey](/post/convey/) greetings [on](/post/on/) [someone](/post/someone/) else's [behalf](/post/behalf/).
+- "[Goodbye](/post/goodbye/), [hello](/post/hello/)" refers [to](/post/to/) [a](/post/a/) [cycle](/post/cycle/) [of](/post/of/) parting [and](/post/and/) reuniting.
+- "[Hello](/post/hello/), [stranger](/post/stranger/)" is [a](/post/a/) [way](/post/way/) [to](/post/to/) [address](/post/address/) [someone](/post/someone/) [you](/post/you/) don't [know](/post/know/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [hello](/en/post/hello/) was [so](/en/post/so/) [genuine](/en/post/genuine/) [that](/en/post/that/) [it](/en/post/it/) made [everyone](/en/post/everyone/) [feel](/en/post/feel/) [welcome](/en/post/welcome/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [he](/en/post/he/) greeted [his](/en/post/his/) [family](/en/post/family/) [with](/en/post/with/) [a](/en/post/a/) [weary](/en/post/weary/) [but](/en/post/but/) loving [hello](/en/post/hello/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) children exchanged [happy](/en/post/happy/) hellos [as](/en/post/as/) [they](/en/post/they/) started [their](/en/post/their/) [day](/en/post/day/) [at](/en/post/at/) [school](/en/post/school/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) greeted [the](/en/post/the/) [old](/en/post/old/) [friend](/en/post/friend/) [with](/en/post/with/) [a](/en/post/a/) heartfelt [hello](/en/post/hello/) [after](/en/post/after/) years [apart](/en/post/apart/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [hello](/post/hello/) was [so](/post/so/) [genuine](/post/genuine/) [that](/post/that/) [it](/post/it/) made [everyone](/post/everyone/) [feel](/post/feel/) [welcome](/post/welcome/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) greeted [his](/post/his/) [family](/post/family/) [with](/post/with/) [a](/post/a/) [weary](/post/weary/) [but](/post/but/) loving [hello](/post/hello/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) children exchanged [happy](/post/happy/) hellos [as](/post/as/) [they](/post/they/) started [their](/post/their/) [day](/post/day/) [at](/post/at/) [school](/post/school/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) greeted [the](/post/the/) [old](/post/old/) [friend](/post/friend/) [with](/post/with/) [a](/post/a/) heartfelt [hello](/post/hello/) [after](/post/after/) years [apart](/post/apart/)."
 
 ## Synonyms
-- [Hi](/en/post/hi/)
+- [Hi](/post/hi/)
 - Hey
 - Greetings
 - Salutations
 - Hail
 - Yo
 - Ahoy
-- Howdy (informal, [mainly](/en/post/mainly/) [American](/en/post/american/))
+- Howdy (informal, [mainly](/post/mainly/) [American](/post/american/))
 - Aloha (Polynesian)

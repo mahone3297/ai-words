@@ -7,26 +7,26 @@ description = '[ɔkˈtəubə] n.十月'
 keywords = ['ai words', 'October']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɒkˈtəʊbər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [tenth](/en/post/tenth/) [month](/en/post/month/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/) [in](/en/post/in/) [the](/en/post/the/) Gregorian [calendar](/en/post/calendar/), coming [after](/en/post/after/) September [and](/en/post/and/) [before](/en/post/before/) November. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) leaves [turn](/en/post/turn/) [red](/en/post/red/) [and](/en/post/and/) [gold](/en/post/gold/) [in](/en/post/in/) October."
+- **[Noun](/post/noun/)**: [The](/post/the/) [tenth](/post/tenth/) [month](/post/month/) [of](/post/of/) [the](/post/the/) [year](/post/year/) [in](/post/in/) [the](/post/the/) Gregorian [calendar](/post/calendar/), coming [after](/post/after/) September [and](/post/and/) [before](/post/before/) November. [For](/post/for/) [example](/post/example/): "[The](/post/the/) leaves [turn](/post/turn/) [red](/post/red/) [and](/post/and/) [gold](/post/gold/) [in](/post/in/) October."
   
 ## Phrases
-- "[In](/en/post/in/) October [of](/en/post/of/) [last](/en/post/last/) [year](/en/post/year/)": Refers [to](/en/post/to/) [the](/en/post/the/) [same](/en/post/same/) [month](/en/post/month/) [but](/en/post/but/) [in](/en/post/in/) [a](/en/post/a/) [previous](/en/post/previous/) [year](/en/post/year/). [Example](/en/post/example/): "[In](/en/post/in/) October [of](/en/post/of/) 2021, [we](/en/post/we/) went [on](/en/post/on/) [a](/en/post/a/) [trip](/en/post/trip/) [to](/en/post/to/) [the](/en/post/the/) mountains."
-- "Octoberfest": An [annual](/en/post/annual/) [festival](/en/post/festival/) held [in](/en/post/in/) Munich, Germany, [usually](/en/post/usually/) running [from](/en/post/from/) [late](/en/post/late/) September [to](/en/post/to/) [the](/en/post/the/) [first](/en/post/first/) [weekend](/en/post/weekend/) [in](/en/post/in/) October, featuring [beer](/en/post/beer/), [food](/en/post/food/), [and](/en/post/and/) [various](/en/post/various/) cultural events.
-- "October [Surprise](/en/post/surprise/)": [A](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [in](/en/post/in/) [American](/en/post/american/) [politics](/en/post/politics/) referring [to](/en/post/to/) [a](/en/post/a/) [surprising](/en/post/surprising/) [event](/en/post/event/) [that](/en/post/that/) [can](/en/post/can/) [influence](/en/post/influence/) [the](/en/post/the/) [outcome](/en/post/outcome/) [of](/en/post/of/) an [election](/en/post/election/) taking [place](/en/post/place/) [in](/en/post/in/) November.
+- "[In](/post/in/) October [of](/post/of/) [last](/post/last/) [year](/post/year/)": Refers [to](/post/to/) [the](/post/the/) [same](/post/same/) [month](/post/month/) [but](/post/but/) [in](/post/in/) [a](/post/a/) [previous](/post/previous/) [year](/post/year/). [Example](/post/example/): "[In](/post/in/) October [of](/post/of/) 2021, [we](/post/we/) went [on](/post/on/) [a](/post/a/) [trip](/post/trip/) [to](/post/to/) [the](/post/the/) mountains."
+- "Octoberfest": An [annual](/post/annual/) [festival](/post/festival/) held [in](/post/in/) Munich, Germany, [usually](/post/usually/) running [from](/post/from/) [late](/post/late/) September [to](/post/to/) [the](/post/the/) [first](/post/first/) [weekend](/post/weekend/) [in](/post/in/) October, featuring [beer](/post/beer/), [food](/post/food/), [and](/post/and/) [various](/post/various/) cultural events.
+- "October [Surprise](/post/surprise/)": [A](/post/a/) [term](/post/term/) [used](/post/used/) [in](/post/in/) [American](/post/american/) [politics](/post/politics/) referring [to](/post/to/) [a](/post/a/) [surprising](/post/surprising/) [event](/post/event/) [that](/post/that/) [can](/post/can/) [influence](/post/influence/) [the](/post/the/) [outcome](/post/outcome/) [of](/post/of/) an [election](/post/election/) taking [place](/post/place/) [in](/post/in/) November.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) Halloween decorations went [up](/en/post/up/) [early](/en/post/early/) [in](/en/post/in/) October."
-- "October's [weather](/en/post/weather/) [can](/en/post/can/) [be](/en/post/be/) unpredictable, ranging [from](/en/post/from/) [warm](/en/post/warm/) [autumn](/en/post/autumn/) days [to](/en/post/to/) chilly evenings."
-- "[Their](/en/post/their/) [wedding](/en/post/wedding/) anniversary falls [on](/en/post/on/) [the](/en/post/the/) 15th [of](/en/post/of/) October."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) Halloween decorations went [up](/post/up/) [early](/post/early/) [in](/post/in/) October."
+- "October's [weather](/post/weather/) [can](/post/can/) [be](/post/be/) unpredictable, ranging [from](/post/from/) [warm](/post/warm/) [autumn](/post/autumn/) days [to](/post/to/) chilly evenings."
+- "[Their](/post/their/) [wedding](/post/wedding/) anniversary falls [on](/post/on/) [the](/post/the/) 15th [of](/post/of/) October."
 
 ## Synonyms
 - Oct.
-- [Tenth](/en/post/tenth/) [Month](/en/post/month/)
-- [Autumn](/en/post/autumn/) ([in](/en/post/in/) [the](/en/post/the/) [Northern](/en/post/northern/) Hemisphere)
-- [Fall](/en/post/fall/) ([mainly](/en/post/mainly/) [in](/en/post/in/) [North](/en/post/north/) [America](/en/post/america/)) 
+- [Tenth](/post/tenth/) [Month](/post/month/)
+- [Autumn](/post/autumn/) ([in](/post/in/) [the](/post/the/) [Northern](/post/northern/) Hemisphere)
+- [Fall](/post/fall/) ([mainly](/post/mainly/) [in](/post/in/) [North](/post/north/) [America](/post/america/)) 
 
-[Note](/en/post/note/): [While](/en/post/while/) "October" does [not](/en/post/not/) [have](/en/post/have/) [different](/en/post/different/) part-of-speech usages [like](/en/post/like/) verbs [or](/en/post/or/) adjectives, [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) idiomatic expressions [and](/en/post/and/) phrases [as](/en/post/as/) shown [above](/en/post/above/).
+[Note](/post/note/): [While](/post/while/) "October" does [not](/post/not/) [have](/post/have/) [different](/post/different/) part-of-speech usages [like](/post/like/) verbs [or](/post/or/) adjectives, [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) idiomatic expressions [and](/post/and/) phrases [as](/post/as/) shown [above](/post/above/).

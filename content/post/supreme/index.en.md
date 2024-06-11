@@ -7,34 +7,34 @@ description = '[sjuːˈpriːm] a.最高的；最大的'
 keywords = ['ai words', 'supreme']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /suːmˈpiːrm/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Of](/en/post/of/) [the](/en/post/the/) highest [rank](/en/post/rank/), [most](/en/post/most/) [important](/en/post/important/), [or](/en/post/or/) [most](/en/post/most/) [excellent](/en/post/excellent/); paramount. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [supreme](/en/post/supreme/) [court](/en/post/court/) is [the](/en/post/the/) highest judicial [authority](/en/post/authority/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) considered [to](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [best](/en/post/best/) [or](/en/post/or/) [most](/en/post/most/) [important](/en/post/important/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was crowned [the](/en/post/the/) [supreme](/en/post/supreme/) [champion](/en/post/champion/) [of](/en/post/of/) [the](/en/post/the/) [competition](/en/post/competition/)."
-- **[Adverb](/en/post/adverb/)**: [Absolutely](/en/post/absolutely/), [without](/en/post/without/) [comparison](/en/post/comparison/); [to](/en/post/to/) [the](/en/post/the/) [utmost](/en/post/utmost/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) worked [supreme](/en/post/supreme/) [effort](/en/post/effort/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [on](/en/post/on/) [time](/en/post/time/)."
+- **[Adjective](/post/adjective/)**: [Of](/post/of/) [the](/post/the/) highest [rank](/post/rank/), [most](/post/most/) [important](/post/important/), [or](/post/or/) [most](/post/most/) [excellent](/post/excellent/); paramount. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [supreme](/post/supreme/) [court](/post/court/) is [the](/post/the/) highest judicial [authority](/post/authority/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) considered [to](/post/to/) [be](/post/be/) [the](/post/the/) [best](/post/best/) [or](/post/or/) [most](/post/most/) [important](/post/important/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was crowned [the](/post/the/) [supreme](/post/supreme/) [champion](/post/champion/) [of](/post/of/) [the](/post/the/) [competition](/post/competition/)."
+- **[Adverb](/post/adverb/)**: [Absolutely](/post/absolutely/), [without](/post/without/) [comparison](/post/comparison/); [to](/post/to/) [the](/post/the/) [utmost](/post/utmost/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) worked [supreme](/post/supreme/) [effort](/post/effort/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [on](/post/on/) [time](/post/time/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [supreme](/en/post/supreme/) [in](/en/post/in/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) excel [or](/en/post/or/) [be](/en/post/be/) [the](/en/post/the/) [best](/en/post/best/) [at](/en/post/at/) [it](/en/post/it/).
-- "[Supreme](/en/post/supreme/) [authority](/en/post/authority/)" refers [to](/en/post/to/) [the](/en/post/the/) highest [level](/en/post/level/) [of](/en/post/of/) [control](/en/post/control/) [or](/en/post/or/) [command](/en/post/command/).
-- "[Supreme](/en/post/supreme/) [comfort](/en/post/comfort/)" describes [the](/en/post/the/) [utmost](/en/post/utmost/) [level](/en/post/level/) [of](/en/post/of/) [ease](/en/post/ease/) [or](/en/post/or/) relaxation.
+- "[Be](/post/be/) [supreme](/post/supreme/) [in](/post/in/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) excel [or](/post/or/) [be](/post/be/) [the](/post/the/) [best](/post/best/) [at](/post/at/) [it](/post/it/).
+- "[Supreme](/post/supreme/) [authority](/post/authority/)" refers [to](/post/to/) [the](/post/the/) highest [level](/post/level/) [of](/post/of/) [control](/post/control/) [or](/post/or/) [command](/post/command/).
+- "[Supreme](/post/supreme/) [comfort](/post/comfort/)" describes [the](/post/the/) [utmost](/post/utmost/) [level](/post/level/) [of](/post/of/) [ease](/post/ease/) [or](/post/or/) relaxation.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [supreme](/en/post/supreme/) [commander](/en/post/commander/) made [a](/en/post/a/) crucial [decision](/en/post/decision/) [during](/en/post/during/) [the](/en/post/the/) [war](/en/post/war/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was [the](/en/post/the/) [supreme](/en/post/supreme/) [leader](/en/post/leader/) [of](/en/post/of/) [the](/en/post/the/) [orchestra](/en/post/orchestra/), guiding [every](/en/post/every/) [note](/en/post/note/) [with](/en/post/with/) [precision](/en/post/precision/)."
-- **[Adverb](/en/post/adverb/)**: "[His](/en/post/his/) dedication [to](/en/post/to/) [his](/en/post/his/) [work](/en/post/work/) was [truly](/en/post/truly/) [supreme](/en/post/supreme/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [supreme](/post/supreme/) [commander](/post/commander/) made [a](/post/a/) crucial [decision](/post/decision/) [during](/post/during/) [the](/post/the/) [war](/post/war/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) was [the](/post/the/) [supreme](/post/supreme/) [leader](/post/leader/) [of](/post/of/) [the](/post/the/) [orchestra](/post/orchestra/), guiding [every](/post/every/) [note](/post/note/) [with](/post/with/) [precision](/post/precision/)."
+- **[Adverb](/post/adverb/)**: "[His](/post/his/) dedication [to](/post/to/) [his](/post/his/) [work](/post/work/) was [truly](/post/truly/) [supreme](/post/supreme/)."
 
 ## Synonyms
-- [Top](/en/post/top/)
-- [Ultimate](/en/post/ultimate/)
+- [Top](/post/top/)
+- [Ultimate](/post/ultimate/)
 - Highest
 - Preeminent
-- [Excellent](/en/post/excellent/)
+- [Excellent](/post/excellent/)
 - Exalted
 
 ## Antonyms
-- [Low](/en/post/low/)
+- [Low](/post/low/)
 - Insignificant
 - Mediocre
 - Lesser

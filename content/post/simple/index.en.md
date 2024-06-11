@@ -7,38 +7,38 @@ description = '[ˈsimpl] a.简单的；朴素的'
 keywords = ['ai words', 'simple']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪmpl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Easy](/en/post/easy/) [to](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [deal](/en/post/deal/) [with](/en/post/with/); [not](/en/post/not/) [complicated](/en/post/complicated/). "[The](/en/post/the/) instructions were [simple](/en/post/simple/) [to](/en/post/to/) [follow](/en/post/follow/)."
-   - **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is [not](/en/post/not/) [complex](/en/post/complex/) [or](/en/post/or/) [elaborate](/en/post/elaborate/); [basic](/en/post/basic/). "[A](/en/post/a/) [simple](/en/post/simple/) [solution](/en/post/solution/) [to](/en/post/to/) [the](/en/post/the/) [problem](/en/post/problem/)."
-   - **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) straightforward [or](/en/post/or/) unpretentious [manner](/en/post/manner/). "[She](/en/post/she/) solved [the](/en/post/the/) [issue](/en/post/issue/) [simply](/en/post/simply/)."
+- **[Adjective](/post/adjective/)**: 1. [Easy](/post/easy/) [to](/post/to/) [understand](/post/understand/) [or](/post/or/) [deal](/post/deal/) [with](/post/with/); [not](/post/not/) [complicated](/post/complicated/). "[The](/post/the/) instructions were [simple](/post/simple/) [to](/post/to/) [follow](/post/follow/)."
+   - **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is [not](/post/not/) [complex](/post/complex/) [or](/post/or/) [elaborate](/post/elaborate/); [basic](/post/basic/). "[A](/post/a/) [simple](/post/simple/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/)."
+   - **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) straightforward [or](/post/or/) unpretentious [manner](/post/manner/). "[She](/post/she/) solved [the](/post/the/) [issue](/post/issue/) [simply](/post/simply/)."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [it](/en/post/it/) [simple](/en/post/simple/)" suggests [simplicity](/en/post/simplicity/) [in](/en/post/in/) [design](/en/post/design/) [or](/en/post/or/) [approach](/en/post/approach/).
-- "[Simple](/en/post/simple/) [explanation](/en/post/explanation/)" refers [to](/en/post/to/) [a](/en/post/a/) [clear](/en/post/clear/) [and](/en/post/and/) concise [understanding](/en/post/understanding/).
-- "[Simple](/en/post/simple/) pleasures" denote [small](/en/post/small/) joys [without](/en/post/without/) [much](/en/post/much/) fuss.
+- "[Keep](/post/keep/) [it](/post/it/) [simple](/post/simple/)" suggests [simplicity](/post/simplicity/) [in](/post/in/) [design](/post/design/) [or](/post/or/) [approach](/post/approach/).
+- "[Simple](/post/simple/) [explanation](/post/explanation/)" refers [to](/post/to/) [a](/post/a/) [clear](/post/clear/) [and](/post/and/) concise [understanding](/post/understanding/).
+- "[Simple](/post/simple/) pleasures" denote [small](/post/small/) joys [without](/post/without/) [much](/post/much/) fuss.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [child](/en/post/child/) was fascinated [by](/en/post/by/) [the](/en/post/the/) [simple](/en/post/simple/) [mechanics](/en/post/mechanics/) [of](/en/post/of/) [the](/en/post/the/) [toy](/en/post/toy/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) recipe [for](/en/post/for/) pancakes is [a](/en/post/a/) [simple](/en/post/simple/) [one](/en/post/one/), using [just](/en/post/just/) [a](/en/post/a/) [few](/en/post/few/) ingredients."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) answered [the](/en/post/the/) [question](/en/post/question/) [simply](/en/post/simply/), avoiding [unnecessary](/en/post/unnecessary/) details."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [child](/post/child/) was fascinated [by](/post/by/) [the](/post/the/) [simple](/post/simple/) [mechanics](/post/mechanics/) [of](/post/of/) [the](/post/the/) [toy](/post/toy/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) recipe [for](/post/for/) pancakes is [a](/post/a/) [simple](/post/simple/) [one](/post/one/), using [just](/post/just/) [a](/post/a/) [few](/post/few/) ingredients."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) answered [the](/post/the/) [question](/post/question/) [simply](/post/simply/), avoiding [unnecessary](/post/unnecessary/) details."
 
 ## Synonyms
-- [Basic](/en/post/basic/)
-- [Easy](/en/post/easy/)
+- [Basic](/post/basic/)
+- [Easy](/post/easy/)
 - Uncomplicated
 - Straightforward
-- Simple-minded (informal, [may](/en/post/may/) [imply](/en/post/imply/) [lack](/en/post/lack/) [of](/en/post/of/) sophistication)
-- [Elementary](/en/post/elementary/)
-- [Plain](/en/post/plain/)
-- [Pure](/en/post/pure/)
+- Simple-minded (informal, [may](/post/may/) [imply](/post/imply/) [lack](/post/lack/) [of](/post/of/) sophistication)
+- [Elementary](/post/elementary/)
+- [Plain](/post/plain/)
+- [Pure](/post/pure/)
 
 ## Antonyms
-- [Complicated](/en/post/complicated/)
-- [Elaborate](/en/post/elaborate/)
+- [Complicated](/post/complicated/)
+- [Elaborate](/post/elaborate/)
 - Intricate
-- [Complex](/en/post/complex/)
+- [Complex](/post/complex/)
 - Ambiguous
 - Confusing

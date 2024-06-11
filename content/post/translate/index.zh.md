@@ -11,20 +11,20 @@ keywords = ['ai words', 'translate']
 /ˈtrænzˌleɪt/
 
 ## 释义
-- **动词**: 把（一种语言）翻译成另一种语言。例如: "I [need](/post/need/) [to](/post/to/) [translate](/post/translate/) [this](/post/this/) French [letter](/post/letter/) [into](/post/into/) English."
-- **名词**: 翻译的结果，译文。例如: "[The](/post/the/) [book](/post/book/) has been translated [into](/post/into/) [multiple](/post/multiple/) languages, [and](/post/and/) [the](/post/the/) latest [translate](/post/translate/) is [very](/post/very/) [accurate](/post/accurate/)."
+- **动词**: 把（一种语言）翻译成另一种语言。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [translate](/zh/post/translate/) [this](/zh/post/this/) French [letter](/zh/post/letter/) [into](/zh/post/into/) English."
+- **名词**: 翻译的结果，译文。例如: "[The](/zh/post/the/) [book](/zh/post/book/) has been translated [into](/zh/post/into/) [multiple](/zh/post/multiple/) languages, [and](/zh/post/and/) [the](/zh/post/the/) latest [translate](/zh/post/translate/) is [very](/zh/post/very/) [accurate](/zh/post/accurate/)."
 
 ## 短语
-- "[translate](/post/translate/) sth. [from](/post/from/) [A](/post/a/) [to](/post/to/) B" 意味着将某事物从A语言翻译成B语言。
-- "word-for-word [translate](/post/translate/)" 指逐字逐句的翻译，通常不太注重语境。
+- "[translate](/zh/post/translate/) sth. [from](/zh/post/from/) [A](/zh/post/a/) [to](/zh/post/to/) B" 意味着将某事物从A语言翻译成B语言。
+- "word-for-word [translate](/zh/post/translate/)" 指逐字逐句的翻译，通常不太注重语境。
 
 ## 例句
-- 动词: "She's [a](/post/a/) [professional](/post/professional/) translator [who](/post/who/) [can](/post/can/) [translate](/post/translate/) [ancient](/post/ancient/) texts fluently."
-- 名词: "[The](/post/the/) movie's [title](/post/title/) [in](/post/in/) [the](/post/the/) Chinese [translate](/post/translate/) is '浪漫星球'."
+- 动词: "She's [a](/zh/post/a/) [professional](/zh/post/professional/) translator [who](/zh/post/who/) [can](/zh/post/can/) [translate](/zh/post/translate/) [ancient](/zh/post/ancient/) texts fluently."
+- 名词: "[The](/zh/post/the/) movie's [title](/zh/post/title/) [in](/zh/post/in/) [the](/zh/post/the/) Chinese [translate](/zh/post/translate/) is '浪漫星球'."
 
 ## 同义词
-- [Interpret](/post/interpret/)
-- [Render](/post/render/)
-- [Convert](/post/convert/)
+- [Interpret](/zh/post/interpret/)
+- [Render](/zh/post/render/)
+- [Convert](/zh/post/convert/)
 - Transcribe
-- [Render](/post/render/) ([into](/post/into/) [another](/post/another/) [language](/post/language/))
+- [Render](/zh/post/render/) ([into](/zh/post/into/) [another](/zh/post/another/) [language](/zh/post/language/))

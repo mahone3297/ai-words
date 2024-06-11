@@ -7,32 +7,32 @@ description = '[krɔːl] vi.爬，爬行'
 keywords = ['ai words', 'crawl']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kraʊl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[crawl](/en/post/crawl/)** is [a](/en/post/a/) [slow](/en/post/slow/), laborious [movement](/en/post/movement/) [or](/en/post/or/) progression, [often](/en/post/often/) [on](/en/post/on/) hands [and](/en/post/and/) knees, typically [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [mode](/en/post/mode/) [of](/en/post/of/) [movement](/en/post/movement/) [or](/en/post/or/) exploration, [especially](/en/post/especially/) [by](/en/post/by/) infants [or](/en/post/or/) animals.
+### [Noun](/post/noun/)
+[A](/post/a/) **[crawl](/post/crawl/)** is [a](/post/a/) [slow](/post/slow/), laborious [movement](/post/movement/) [or](/post/or/) progression, [often](/post/often/) [on](/post/on/) hands [and](/post/and/) knees, typically [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [mode](/post/mode/) [of](/post/of/) [movement](/post/movement/) [or](/post/or/) exploration, [especially](/post/especially/) [by](/post/by/) infants [or](/post/or/) animals.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[crawl](/en/post/crawl/)** [means](/en/post/means/) [to](/en/post/to/) [move](/en/post/move/) [along](/en/post/along/) [the](/en/post/the/) [ground](/en/post/ground/) [on](/en/post/on/) [your](/en/post/your/) hands [and](/en/post/and/) knees [or](/en/post/or/) [with](/en/post/with/) [difficulty](/en/post/difficulty/), [especially](/en/post/especially/) [at](/en/post/at/) [a](/en/post/a/) [slow](/en/post/slow/) [pace](/en/post/pace/), [or](/en/post/or/) [to](/en/post/to/) [progress](/en/post/progress/) [slowly](/en/post/slowly/) [through](/en/post/through/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [process](/en/post/process/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[crawl](/post/crawl/)** [means](/post/means/) [to](/post/to/) [move](/post/move/) [along](/post/along/) [the](/post/the/) [ground](/post/ground/) [on](/post/on/) [your](/post/your/) hands [and](/post/and/) knees [or](/post/or/) [with](/post/with/) [difficulty](/post/difficulty/), [especially](/post/especially/) [at](/post/at/) [a](/post/a/) [slow](/post/slow/) [pace](/post/pace/), [or](/post/or/) [to](/post/to/) [progress](/post/progress/) [slowly](/post/slowly/) [through](/post/through/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [process](/post/process/).
 
-### [Adjective](/en/post/adjective/)
-Crawling [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) moves [or](/en/post/or/) progresses [very](/en/post/very/) [slowly](/en/post/slowly/) [or](/en/post/or/) laboriously, [like](/en/post/like/) [a](/en/post/a/) crawling internet [connection](/en/post/connection/).
+### [Adjective](/post/adjective/)
+Crawling [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) moves [or](/post/or/) progresses [very](/post/very/) [slowly](/post/slowly/) [or](/post/or/) laboriously, [like](/post/like/) [a](/post/a/) crawling internet [connection](/post/connection/).
 
 ## Phrases
-- "Crawling [around](/en/post/around/) [under](/en/post/under/) [furniture](/en/post/furniture/)" implies searching [or](/en/post/or/) moving [slowly](/en/post/slowly/) [in](/en/post/in/) [tight](/en/post/tight/) spaces.
-- "[The](/en/post/the/) [baby](/en/post/baby/) [learned](/en/post/learned/) [to](/en/post/to/) [crawl](/en/post/crawl/) [at](/en/post/at/) [six](/en/post/six/) months" refers [to](/en/post/to/) [the](/en/post/the/) [typical](/en/post/typical/) developmental milestone.
-- "[A](/en/post/a/) snail crawled [across](/en/post/across/) [the](/en/post/the/) [garden](/en/post/garden/) [path](/en/post/path/)" describes [the](/en/post/the/) [slow](/en/post/slow/) [motion](/en/post/motion/) [of](/en/post/of/) [the](/en/post/the/) [creature](/en/post/creature/).
+- "Crawling [around](/post/around/) [under](/post/under/) [furniture](/post/furniture/)" implies searching [or](/post/or/) moving [slowly](/post/slowly/) [in](/post/in/) [tight](/post/tight/) spaces.
+- "[The](/post/the/) [baby](/post/baby/) [learned](/post/learned/) [to](/post/to/) [crawl](/post/crawl/) [at](/post/at/) [six](/post/six/) months" refers [to](/post/to/) [the](/post/the/) [typical](/post/typical/) developmental milestone.
+- "[A](/post/a/) snail crawled [across](/post/across/) [the](/post/the/) [garden](/post/garden/) [path](/post/path/)" describes [the](/post/the/) [slow](/post/slow/) [motion](/post/motion/) [of](/post/of/) [the](/post/the/) [creature](/post/creature/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [baby](/en/post/baby/) was crawling [around](/en/post/around/) [the](/en/post/the/) [floor](/en/post/floor/), exploring [the](/en/post/the/) [room](/en/post/room/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [he](/en/post/he/) crawled [into](/en/post/into/) [bed](/en/post/bed/), exhausted."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) internet [connection](/en/post/connection/) felt [like](/en/post/like/) [a](/en/post/a/) crawling [snake](/en/post/snake/), taking [forever](/en/post/forever/) [to](/en/post/to/) [load](/en/post/load/) [a](/en/post/a/) [page](/en/post/page/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [baby](/post/baby/) was crawling [around](/post/around/) [the](/post/the/) [floor](/post/floor/), exploring [the](/post/the/) [room](/post/room/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) crawled [into](/post/into/) [bed](/post/bed/), exhausted."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) internet [connection](/post/connection/) felt [like](/post/like/) [a](/post/a/) crawling [snake](/post/snake/), taking [forever](/post/forever/) [to](/post/to/) [load](/post/load/) [a](/post/a/) [page](/post/page/)."
 
 ## Synonyms
-- [Creep](/en/post/creep/) ([for](/en/post/for/) [slow](/en/post/slow/) [movement](/en/post/movement/))
-- [Inch](/en/post/inch/) ([to](/en/post/to/) [move](/en/post/move/) [very](/en/post/very/) [slowly](/en/post/slowly/))
-- Inchworm (informal [for](/en/post/for/) [slow](/en/post/slow/) [movement](/en/post/movement/))
-- Scramble (informal, [especially](/en/post/especially/) [when](/en/post/when/) hurried)
-- Plod ([to](/en/post/to/) [move](/en/post/move/) [slowly](/en/post/slowly/) [but](/en/post/but/) [steadily](/en/post/steadily/))
+- [Creep](/post/creep/) ([for](/post/for/) [slow](/post/slow/) [movement](/post/movement/))
+- [Inch](/post/inch/) ([to](/post/to/) [move](/post/move/) [very](/post/very/) [slowly](/post/slowly/))
+- Inchworm (informal [for](/post/for/) [slow](/post/slow/) [movement](/post/movement/))
+- Scramble (informal, [especially](/post/especially/) [when](/post/when/) hurried)
+- Plod ([to](/post/to/) [move](/post/move/) [slowly](/post/slowly/) [but](/post/but/) [steadily](/post/steadily/))

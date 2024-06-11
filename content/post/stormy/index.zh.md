@@ -11,20 +11,20 @@ keywords = ['ai words', 'stormy']
 /stɔːrmɪ/
 
 ## 释义
-- **形容词**: 形容天气状况为暴风雨的，狂风暴雨的。例如: "[A](/post/a/) [stormy](/post/stormy/) [night](/post/night/) [with](/post/with/) [heavy](/post/heavy/) [rain](/post/rain/) [and](/post/and/) [thunder](/post/thunder/)."
-- **形容词**: 形容情况或气氛紧张、动荡不安的。例如: "[The](/post/the/) [meeting](/post/meeting/) was [stormy](/post/stormy/) [due](/post/due/) [to](/post/to/) disagreements [among](/post/among/) [the](/post/the/) participants."
+- **形容词**: 形容天气状况为暴风雨的，狂风暴雨的。例如: "[A](/zh/post/a/) [stormy](/zh/post/stormy/) [night](/zh/post/night/) [with](/zh/post/with/) [heavy](/zh/post/heavy/) [rain](/zh/post/rain/) [and](/zh/post/and/) [thunder](/zh/post/thunder/)."
+- **形容词**: 形容情况或气氛紧张、动荡不安的。例如: "[The](/zh/post/the/) [meeting](/zh/post/meeting/) was [stormy](/zh/post/stormy/) [due](/zh/post/due/) [to](/zh/post/to/) disagreements [among](/zh/post/among/) [the](/zh/post/the/) participants."
 
 ## 短语
-- "[stormy](/post/stormy/) [weather](/post/weather/)" 指恶劣的气候条件，通常与强风和雨有关。
-- "[stormy](/post/stormy/) [relationship](/post/relationship/)" 表示充满冲突或不和谐的关系。
+- "[stormy](/zh/post/stormy/) [weather](/zh/post/weather/)" 指恶劣的气候条件，通常与强风和雨有关。
+- "[stormy](/zh/post/stormy/) [relationship](/zh/post/relationship/)" 表示充满冲突或不和谐的关系。
 
 ## 例句
-- 形容词: "[The](/post/the/) sailors braved [the](/post/the/) [stormy](/post/stormy/) seas [during](/post/during/) [their](/post/their/) [voyage](/post/voyage/)."
-- 形容词: "[Their](/post/their/) [marriage](/post/marriage/) had been [through](/post/through/) [many](/post/many/) [stormy](/post/stormy/) patches, [but](/post/but/) [they](/post/they/) managed [to](/post/to/) [work](/post/work/) things [out](/post/out/)."
+- 形容词: "[The](/zh/post/the/) sailors braved [the](/zh/post/the/) [stormy](/zh/post/stormy/) seas [during](/zh/post/during/) [their](/zh/post/their/) [voyage](/zh/post/voyage/)."
+- 形容词: "[Their](/zh/post/their/) [marriage](/zh/post/marriage/) had been [through](/zh/post/through/) [many](/zh/post/many/) [stormy](/zh/post/stormy/) patches, [but](/zh/post/but/) [they](/zh/post/they/) managed [to](/zh/post/to/) [work](/zh/post/work/) things [out](/zh/post/out/)."
 
 ## 同义词
-- [Turbulent](/post/turbulent/)
-- [Rough](/post/rough/)
-- [Violent](/post/violent/)
+- [Turbulent](/zh/post/turbulent/)
+- [Rough](/zh/post/rough/)
+- [Violent](/zh/post/violent/)
 - Unsettled
 - tempestuous

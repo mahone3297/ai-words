@@ -7,37 +7,37 @@ description = '[piəs] vt.剌穿 vi.穿入'
 keywords = ['ai words', 'pierce']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pɪərˈsaɪz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) piercing, [especially](/en/post/especially/) [with](/en/post/with/) [a](/en/post/a/) [sharp](/en/post/sharp/) [object](/en/post/object/), [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [hole](/en/post/hole/) [through](/en/post/through/) [something](/en/post/something/) [solid](/en/post/solid/): *[She](/en/post/she/) wore [a](/en/post/a/) pierced earring.*
-2. [A](/en/post/a/) [hole](/en/post/hole/) [or](/en/post/or/) [opening](/en/post/opening/) made [by](/en/post/by/) piercing: *[The](/en/post/the/) [arrow](/en/post/arrow/) pierced [the](/en/post/the/) armor.*
-3. [A](/en/post/a/) piercing ([usually](/en/post/usually/) [a](/en/post/a/) [body](/en/post/body/) modification): *[Many](/en/post/many/) [people](/en/post/people/) [have](/en/post/have/) pierced ears [or](/en/post/or/) noses.*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) piercing, [especially](/post/especially/) [with](/post/with/) [a](/post/a/) [sharp](/post/sharp/) [object](/post/object/), [to](/post/to/) [make](/post/make/) [a](/post/a/) [hole](/post/hole/) [through](/post/through/) [something](/post/something/) [solid](/post/solid/): *[She](/post/she/) wore [a](/post/a/) pierced earring.*
+2. [A](/post/a/) [hole](/post/hole/) [or](/post/or/) [opening](/post/opening/) made [by](/post/by/) piercing: *[The](/post/the/) [arrow](/post/arrow/) pierced [the](/post/the/) armor.*
+3. [A](/post/a/) piercing ([usually](/post/usually/) [a](/post/a/) [body](/post/body/) modification): *[Many](/post/many/) [people](/post/people/) [have](/post/have/) pierced ears [or](/post/or/) noses.*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [hole](/en/post/hole/) [or](/en/post/or/) [opening](/en/post/opening/) [through](/en/post/through/) [something](/en/post/something/) [with](/en/post/with/) [a](/en/post/a/) [sharp](/en/post/sharp/) [instrument](/en/post/instrument/): *[He](/en/post/he/) pierced [the](/en/post/the/) [leather](/en/post/leather/) [to](/en/post/to/) [attach](/en/post/attach/) [the](/en/post/the/) buckle.*
-2. [To](/en/post/to/) [penetrate](/en/post/penetrate/) [or](/en/post/or/) [pass](/en/post/pass/) [through](/en/post/through/) ([a](/en/post/a/) [substance](/en/post/substance/) [or](/en/post/or/) [surface](/en/post/surface/)): *[The](/en/post/the/) [needle](/en/post/needle/) pierced [the](/en/post/the/) [fabric](/en/post/fabric/).*
-3. (figurative) [To](/en/post/to/) [affect](/en/post/affect/) [or](/en/post/or/) [touch](/en/post/touch/) deeply: *[His](/en/post/his/) words pierced [her](/en/post/her/) [heart](/en/post/heart/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [make](/post/make/) [a](/post/a/) [hole](/post/hole/) [or](/post/or/) [opening](/post/opening/) [through](/post/through/) [something](/post/something/) [with](/post/with/) [a](/post/a/) [sharp](/post/sharp/) [instrument](/post/instrument/): *[He](/post/he/) pierced [the](/post/the/) [leather](/post/leather/) [to](/post/to/) [attach](/post/attach/) [the](/post/the/) buckle.*
+2. [To](/post/to/) [penetrate](/post/penetrate/) [or](/post/or/) [pass](/post/pass/) [through](/post/through/) ([a](/post/a/) [substance](/post/substance/) [or](/post/or/) [surface](/post/surface/)): *[The](/post/the/) [needle](/post/needle/) pierced [the](/post/the/) [fabric](/post/fabric/).*
+3. (figurative) [To](/post/to/) [affect](/post/affect/) [or](/post/or/) [touch](/post/touch/) deeply: *[His](/post/his/) words pierced [her](/post/her/) [heart](/post/heart/).*
 
 ## Phrases
-- "[Pierce](/en/post/pierce/) one's [ear](/en/post/ear/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) getting an [ear](/en/post/ear/) pierced.
-- "Pierced jewelry" refers [to](/en/post/to/) [body](/en/post/body/) adornments made [by](/en/post/by/) piercing.
-- "[Pierce](/en/post/pierce/) [through](/en/post/through/)" implies passing [completely](/en/post/completely/) [through](/en/post/through/) an [object](/en/post/object/).
+- "[Pierce](/post/pierce/) one's [ear](/post/ear/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) getting an [ear](/post/ear/) pierced.
+- "Pierced jewelry" refers [to](/post/to/) [body](/post/body/) adornments made [by](/post/by/) piercing.
+- "[Pierce](/post/pierce/) [through](/post/through/)" implies passing [completely](/post/completely/) [through](/post/through/) an [object](/post/object/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [scar](/en/post/scar/) [on](/en/post/on/) [his](/en/post/his/) [hand](/en/post/hand/) was [a](/en/post/a/) reminder [of](/en/post/of/) [the](/en/post/the/) [time](/en/post/time/) [he](/en/post/he/) pierced [a](/en/post/a/) [tree](/en/post/tree/) [branch](/en/post/branch/) [while](/en/post/while/) climbing."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully pierced [the](/en/post/the/) [balloon](/en/post/balloon/) [without](/en/post/without/) popping [it](/en/post/it/)."
-- **[Verb](/en/post/verb/) (figurative)**: "[His](/en/post/his/) words pierced [the](/en/post/the/) [silence](/en/post/silence/) [of](/en/post/of/) [the](/en/post/the/) [room](/en/post/room/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [scar](/post/scar/) [on](/post/on/) [his](/post/his/) [hand](/post/hand/) was [a](/post/a/) reminder [of](/post/of/) [the](/post/the/) [time](/post/time/) [he](/post/he/) pierced [a](/post/a/) [tree](/post/tree/) [branch](/post/branch/) [while](/post/while/) climbing."
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully pierced [the](/post/the/) [balloon](/post/balloon/) [without](/post/without/) popping [it](/post/it/)."
+- **[Verb](/post/verb/) (figurative)**: "[His](/post/his/) words pierced [the](/post/the/) [silence](/post/silence/) [of](/post/of/) [the](/post/the/) [room](/post/room/)."
 
 ## Synonyms
 -穿透
--[penetrate](/en/post/penetrate/)
+-[penetrate](/post/penetrate/)
 -impale
--[stab](/en/post/stab/)
+-[stab](/post/stab/)
 -intrude
 刺穿
 - puncture
 - perforate
-- [stab](/en/post/stab/) [through](/en/post/through/)
+- [stab](/post/stab/) [through](/post/through/)

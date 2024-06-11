@@ -7,37 +7,37 @@ description = '[bjuəˈrəu] n.局，司，处；社，所'
 keywords = ['ai words', 'bureau']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bjʊˈroʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [bureau](/en/post/bureau/)** is [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [furniture](/en/post/furniture/) [with](/en/post/with/) drawers [or](/en/post/or/) compartments, typically [used](/en/post/used/) [for](/en/post/for/) storing papers, files, [or](/en/post/or/) [office](/en/post/office/) supplies. [In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [government](/en/post/government/) [agency](/en/post/agency/), [it](/en/post/it/) refers [to](/en/post/to/) an administrative [department](/en/post/department/) [or](/en/post/or/) [office](/en/post/office/).
-- **An [office](/en/post/office/) [or](/en/post/or/) [desk](/en/post/desk/)** [in](/en/post/in/) [a](/en/post/a/) [professional](/en/post/professional/) [setting](/en/post/setting/), [often](/en/post/often/) associated [with](/en/post/with/) [a](/en/post/a/) [civil](/en/post/civil/) [servant](/en/post/servant/) [or](/en/post/or/) administrative [staff](/en/post/staff/).
+### [Noun](/post/noun/)
+- **[A](/post/a/) [bureau](/post/bureau/)** is [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [furniture](/post/furniture/) [with](/post/with/) drawers [or](/post/or/) compartments, typically [used](/post/used/) [for](/post/for/) storing papers, files, [or](/post/or/) [office](/post/office/) supplies. [In](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [government](/post/government/) [agency](/post/agency/), [it](/post/it/) refers [to](/post/to/) an administrative [department](/post/department/) [or](/post/or/) [office](/post/office/).
+- **An [office](/post/office/) [or](/post/or/) [desk](/post/desk/)** [in](/post/in/) [a](/post/a/) [professional](/post/professional/) [setting](/post/setting/), [often](/post/often/) associated [with](/post/with/) [a](/post/a/) [civil](/post/civil/) [servant](/post/servant/) [or](/post/or/) administrative [staff](/post/staff/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) **[bureau](/en/post/bureau/)** [something](/en/post/something/) (informal) [means](/en/post/means/) [to](/en/post/to/) [file](/en/post/file/) [or](/en/post/or/) [organize](/en/post/organize/) documents [in](/en/post/in/) [a](/en/post/a/) [cabinet](/en/post/cabinet/) [or](/en/post/or/) [office](/en/post/office/) [supply](/en/post/supply/) [system](/en/post/system/).
+### [Verb](/post/verb/)
+- [To](/post/to/) **[bureau](/post/bureau/)** [something](/post/something/) (informal) [means](/post/means/) [to](/post/to/) [file](/post/file/) [or](/post/or/) [organize](/post/organize/) documents [in](/post/in/) [a](/post/a/) [cabinet](/post/cabinet/) [or](/post/or/) [office](/post/office/) [supply](/post/supply/) [system](/post/system/).
 
 ## Phrases
-- "[Set](/en/post/set/) [up](/en/post/up/) [a](/en/post/a/) [new](/en/post/new/) [bureau](/en/post/bureau/) [in](/en/post/in/) [the](/en/post/the/) [office](/en/post/office/)"
-- "[Use](/en/post/use/) [the](/en/post/the/) [bureau](/en/post/bureau/) [to](/en/post/to/) [store](/en/post/store/) [important](/en/post/important/) documents"
-- "[The](/en/post/the/) HR [bureau](/en/post/bureau/) handles [employee](/en/post/employee/) records"
+- "[Set](/post/set/) [up](/post/up/) [a](/post/a/) [new](/post/new/) [bureau](/post/bureau/) [in](/post/in/) [the](/post/the/) [office](/post/office/)"
+- "[Use](/post/use/) [the](/post/the/) [bureau](/post/bureau/) [to](/post/to/) [store](/post/store/) [important](/post/important/) documents"
+- "[The](/post/the/) HR [bureau](/post/bureau/) handles [employee](/post/employee/) records"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) organized [her](/en/post/her/) paperwork [on](/en/post/on/) [the](/en/post/the/) [new](/en/post/new/) [bureau](/en/post/bureau/) [in](/en/post/in/) [her](/en/post/her/) [home](/en/post/home/) [office](/en/post/office/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [her](/en/post/her/) [work](/en/post/work/), [she](/en/post/she/) bureaus [all](/en/post/all/) [the](/en/post/the/) reports [in](/en/post/in/) [their](/en/post/their/) [proper](/en/post/proper/) folders."
-- **Informal**: "[The](/en/post/the/) company's [IT](/en/post/it/) [bureau](/en/post/bureau/) ensures [data](/en/post/data/) [security](/en/post/security/) [for](/en/post/for/) [all](/en/post/all/) employees."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) organized [her](/post/her/) paperwork [on](/post/on/) [the](/post/the/) [new](/post/new/) [bureau](/post/bureau/) [in](/post/in/) [her](/post/her/) [home](/post/home/) [office](/post/office/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) finishing [her](/post/her/) [work](/post/work/), [she](/post/she/) bureaus [all](/post/all/) [the](/post/the/) reports [in](/post/in/) [their](/post/their/) [proper](/post/proper/) folders."
+- **Informal**: "[The](/post/the/) company's [IT](/post/it/) [bureau](/post/bureau/) ensures [data](/post/data/) [security](/post/security/) [for](/post/for/) [all](/post/all/) employees."
 
 ## Synonyms
-- [Desk](/en/post/desk/)
-- Filing [cabinet](/en/post/cabinet/)
-- [Office](/en/post/office/) [supply](/en/post/supply/) center
-- Records [department](/en/post/department/)
-- Admin [unit](/en/post/unit/)
+- [Desk](/post/desk/)
+- Filing [cabinet](/post/cabinet/)
+- [Office](/post/office/) [supply](/post/supply/) center
+- Records [department](/post/department/)
+- Admin [unit](/post/unit/)
 
 ## Related Words
-- [Cabinet](/en/post/cabinet/)
+- [Cabinet](/post/cabinet/)
 - Stationery
-- [File](/en/post/file/) [cabinet](/en/post/cabinet/)
+- [File](/post/file/) [cabinet](/post/cabinet/)
 - Organizer
 - Workspace

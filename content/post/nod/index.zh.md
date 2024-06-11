@@ -11,20 +11,20 @@ keywords = ['ai words', 'nod']
 /nɒd/
 
 ## 释义
-- **动词**: 轻轻地点头，以示同意、理解或打招呼。例如: "[He](/post/he/) nodded [in](/post/in/) [approval](/post/approval/) [when](/post/when/) [he](/post/he/) heard [the](/post/the/) [good](/post/good/) [news](/post/news/)."
-- **名词**: 点头的动作或示意。例如: "[She](/post/she/) gave [me](/post/me/) [a](/post/a/) [small](/post/small/) [nod](/post/nod/) [of](/post/of/) encouragement."
+- **动词**: 轻轻地点头，以示同意、理解或打招呼。例如: "[He](/zh/post/he/) nodded [in](/zh/post/in/) [approval](/zh/post/approval/) [when](/zh/post/when/) [he](/zh/post/he/) heard [the](/zh/post/the/) [good](/zh/post/good/) [news](/zh/post/news/)."
+- **名词**: 点头的动作或示意。例如: "[She](/zh/post/she/) gave [me](/zh/post/me/) [a](/zh/post/a/) [small](/zh/post/small/) [nod](/zh/post/nod/) [of](/zh/post/of/) encouragement."
 
 ## 短语
-- "[nod](/post/nod/) [off](/post/off/)" 意思是打盹，小睡一会儿。
-- "[nod](/post/nod/) one's [head](/post/head/)" 表示点头。
+- "[nod](/zh/post/nod/) [off](/zh/post/off/)" 意思是打盹，小睡一会儿。
+- "[nod](/zh/post/nod/) one's [head](/zh/post/head/)" 表示点头。
 
 ## 例句
-- 动词: "John nodded [his](/post/his/) [consent](/post/consent/) [to](/post/to/) [the](/post/the/) [plan](/post/plan/)."
-- 名词: "[A](/post/a/) [quick](/post/quick/) [nod](/post/nod/) was [her](/post/her/) [only](/post/only/) [response](/post/response/)."
+- 动词: "John nodded [his](/zh/post/his/) [consent](/zh/post/consent/) [to](/zh/post/to/) [the](/zh/post/the/) [plan](/zh/post/plan/)."
+- 名词: "[A](/zh/post/a/) [quick](/zh/post/quick/) [nod](/zh/post/nod/) was [her](/zh/post/her/) [only](/zh/post/only/) [response](/zh/post/response/)."
 
 ## 同义词
 - acknowledge
-- [signal](/post/signal/)
-- [gesture](/post/gesture/)
-- [indicate](/post/indicate/)
-- [approve](/post/approve/) (仅限动词形式)
+- [signal](/zh/post/signal/)
+- [gesture](/zh/post/gesture/)
+- [indicate](/zh/post/indicate/)
+- [approve](/zh/post/approve/) (仅限动词形式)

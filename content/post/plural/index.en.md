@@ -7,30 +7,30 @@ description = '[ˈpluərəl] a.复数的 n.复数'
 keywords = ['ai words', 'plural']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pləˈtərəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [form](/en/post/form/) [of](/en/post/of/) [a](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [a](/en/post/a/) [noun](/en/post/noun/) [that](/en/post/that/) indicates [more](/en/post/more/) [than](/en/post/than/) [one](/en/post/one/) [person](/en/post/person/), [thing](/en/post/thing/), [or](/en/post/or/) [idea](/en/post/idea/), [usually](/en/post/usually/) indicated [by](/en/post/by/) [the](/en/post/the/) [addition](/en/post/addition/) [of](/en/post/of/) -s [or](/en/post/or/) -es. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [plural](/en/post/plural/) [of](/en/post/of/) [cat](/en/post/cat/) is cats."
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [more](/en/post/more/) [than](/en/post/than/) [one](/en/post/one/) [individual](/en/post/individual/) [or](/en/post/or/) entity [of](/en/post/of/) [the](/en/post/the/) [same](/en/post/same/) [kind](/en/post/kind/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [family](/en/post/family/) has [five](/en/post/five/) children, [all](/en/post/all/) [of](/en/post/of/) [them](/en/post/them/) [in](/en/post/in/) [the](/en/post/the/) [plural](/en/post/plural/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [form](/post/form/) [of](/post/of/) [a](/post/a/) [word](/post/word/) [or](/post/or/) [a](/post/a/) [noun](/post/noun/) [that](/post/that/) indicates [more](/post/more/) [than](/post/than/) [one](/post/one/) [person](/post/person/), [thing](/post/thing/), [or](/post/or/) [idea](/post/idea/), [usually](/post/usually/) indicated [by](/post/by/) [the](/post/the/) [addition](/post/addition/) [of](/post/of/) -s [or](/post/or/) -es. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [plural](/post/plural/) [of](/post/of/) [cat](/post/cat/) is cats."
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [more](/post/more/) [than](/post/than/) [one](/post/one/) [individual](/post/individual/) [or](/post/or/) entity [of](/post/of/) [the](/post/the/) [same](/post/same/) [kind](/post/kind/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [family](/post/family/) has [five](/post/five/) children, [all](/post/all/) [of](/post/of/) [them](/post/them/) [in](/post/in/) [the](/post/the/) [plural](/post/plural/)."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [plural](/en/post/plural/)" specifies [when](/en/post/when/) referring [to](/en/post/to/) [multiple](/en/post/multiple/) items [of](/en/post/of/) [something](/en/post/something/).
-- "[Both](/en/post/both/) [singular](/en/post/singular/) [and](/en/post/and/) [plural](/en/post/plural/) forms" refers [to](/en/post/to/) [a](/en/post/a/) word's [single](/en/post/single/) [and](/en/post/and/) [multiple](/en/post/multiple/) versions.
-- "[Plural](/en/post/plural/) nouns" are [the](/en/post/the/) nouns [used](/en/post/used/) [to](/en/post/to/) [represent](/en/post/represent/) [multiple](/en/post/multiple/) entities.
+- "[In](/post/in/) [the](/post/the/) [plural](/post/plural/)" specifies [when](/post/when/) referring [to](/post/to/) [multiple](/post/multiple/) items [of](/post/of/) [something](/post/something/).
+- "[Both](/post/both/) [singular](/post/singular/) [and](/post/and/) [plural](/post/plural/) forms" refers [to](/post/to/) [a](/post/a/) word's [single](/post/single/) [and](/post/and/) [multiple](/post/multiple/) versions.
+- "[Plural](/post/plural/) nouns" are [the](/post/the/) nouns [used](/post/used/) [to](/post/to/) [represent](/post/represent/) [multiple](/post/multiple/) entities.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Each](/en/post/each/) [book](/en/post/book/) [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/) had [a](/en/post/a/) [bright](/en/post/bright/) [cover](/en/post/cover/), [in](/en/post/in/) [various](/en/post/various/) shades [of](/en/post/of/) [red](/en/post/red/), [in](/en/post/in/) [the](/en/post/the/) [plural](/en/post/plural/)."
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [rule](/en/post/rule/) applies [to](/en/post/to/) [both](/en/post/both/) [the](/en/post/the/) [singular](/en/post/singular/) [and](/en/post/and/) [plural](/en/post/plural/) subjects."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Each](/post/each/) [book](/post/book/) [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/) had [a](/post/a/) [bright](/post/bright/) [cover](/post/cover/), [in](/post/in/) [various](/post/various/) shades [of](/post/of/) [red](/post/red/), [in](/post/in/) [the](/post/the/) [plural](/post/plural/)."
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [rule](/post/rule/) applies [to](/post/to/) [both](/post/both/) [the](/post/the/) [singular](/post/singular/) [and](/post/and/) [plural](/post/plural/) subjects."
 
 ## Synonyms
-- [Multiple](/en/post/multiple/)
-- [Several](/en/post/several/)
-- [Many](/en/post/many/)
-- [Several](/en/post/several/) instances
-- [Multiple](/en/post/multiple/) entities
-- [Multiple](/en/post/multiple/) copies
+- [Multiple](/post/multiple/)
+- [Several](/post/several/)
+- [Many](/post/many/)
+- [Several](/post/several/) instances
+- [Multiple](/post/multiple/) entities
+- [Multiple](/post/multiple/) copies
 
-## [Usage](/en/post/usage/) Notes
-- Plurals [can](/en/post/can/) [be](/en/post/be/) formed using [specific](/en/post/specific/) rules [for](/en/post/for/) nouns [in](/en/post/in/) English, [such](/en/post/such/) [as](/en/post/as/) adding -s [or](/en/post/or/) -es (e.g., [child](/en/post/child/) → children, [foot](/en/post/foot/) → feet), [irregular](/en/post/irregular/) forms (e.g., [mouse](/en/post/mouse/) → mice), [or](/en/post/or/) [different](/en/post/different/) endings [for](/en/post/for/) [certain](/en/post/certain/) words (e.g., [man](/en/post/man/) → men, [woman](/en/post/woman/) → women).
-- [Irregular](/en/post/irregular/) plurals, [like](/en/post/like/) [those](/en/post/those/) mentioned [above](/en/post/above/), are exceptions [to](/en/post/to/) [the](/en/post/the/) [general](/en/post/general/) [rule](/en/post/rule/), making [them](/en/post/them/) [more](/en/post/more/) challenging [to](/en/post/to/) [learn](/en/post/learn/).
+## [Usage](/post/usage/) Notes
+- Plurals [can](/post/can/) [be](/post/be/) formed using [specific](/post/specific/) rules [for](/post/for/) nouns [in](/post/in/) English, [such](/post/such/) [as](/post/as/) adding -s [or](/post/or/) -es (e.g., [child](/post/child/) → children, [foot](/post/foot/) → feet), [irregular](/post/irregular/) forms (e.g., [mouse](/post/mouse/) → mice), [or](/post/or/) [different](/post/different/) endings [for](/post/for/) [certain](/post/certain/) words (e.g., [man](/post/man/) → men, [woman](/post/woman/) → women).
+- [Irregular](/post/irregular/) plurals, [like](/post/like/) [those](/post/those/) mentioned [above](/post/above/), are exceptions [to](/post/to/) [the](/post/the/) [general](/post/general/) [rule](/post/rule/), making [them](/post/them/) [more](/post/more/) challenging [to](/post/to/) [learn](/post/learn/).

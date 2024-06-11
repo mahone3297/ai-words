@@ -7,35 +7,35 @@ description = '[ˈfæktə] n.因素；因子，系数'
 keywords = ['ai words', 'factor']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfæk.tər/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) contributing [element](/en/post/element/) [or](/en/post/or/) [influence](/en/post/influence/); [something](/en/post/something/) [that](/en/post/that/) contributes [to](/en/post/to/) [a](/en/post/a/) [result](/en/post/result/) [or](/en/post/or/) [outcome](/en/post/outcome/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) was [a](/en/post/a/) [key](/en/post/key/) [factor](/en/post/factor/) [in](/en/post/in/) deciding [whether](/en/post/whether/) [to](/en/post/to/) [have](/en/post/have/) [the](/en/post/the/) [event](/en/post/event/) [outdoors](/en/post/outdoors/)."
-  - [In](/en/post/in/) [mathematics](/en/post/mathematics/) [or](/en/post/or/) statistics, it's [a](/en/post/a/) [number](/en/post/number/) [or](/en/post/or/) algebraic [expression](/en/post/expression/) multiplied [in](/en/post/in/) [a](/en/post/a/) [product](/en/post/product/) [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) polynomial.
-  - [In](/en/post/in/) [business](/en/post/business/), [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [company](/en/post/company/) [or](/en/post/or/) [individual](/en/post/individual/) engaged [in](/en/post/in/) buying [and](/en/post/and/) selling [goods](/en/post/goods/) [or](/en/post/or/) services.
-  - [In](/en/post/in/) [science](/en/post/science/), [it](/en/post/it/) [might](/en/post/might/) [be](/en/post/be/) [a](/en/post/a/) [substance](/en/post/substance/) [or](/en/post/or/) [condition](/en/post/condition/) [necessary](/en/post/necessary/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [reaction](/en/post/reaction/) [or](/en/post/or/) [process](/en/post/process/) [to](/en/post/to/) [occur](/en/post/occur/).
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) contributing [element](/post/element/) [or](/post/or/) [influence](/post/influence/); [something](/post/something/) [that](/post/that/) contributes [to](/post/to/) [a](/post/a/) [result](/post/result/) [or](/post/or/) [outcome](/post/outcome/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) was [a](/post/a/) [key](/post/key/) [factor](/post/factor/) [in](/post/in/) deciding [whether](/post/whether/) [to](/post/to/) [have](/post/have/) [the](/post/the/) [event](/post/event/) [outdoors](/post/outdoors/)."
+  - [In](/post/in/) [mathematics](/post/mathematics/) [or](/post/or/) statistics, it's [a](/post/a/) [number](/post/number/) [or](/post/or/) algebraic [expression](/post/expression/) multiplied [in](/post/in/) [a](/post/a/) [product](/post/product/) [to](/post/to/) [form](/post/form/) [a](/post/a/) polynomial.
+  - [In](/post/in/) [business](/post/business/), [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [company](/post/company/) [or](/post/or/) [individual](/post/individual/) engaged [in](/post/in/) buying [and](/post/and/) selling [goods](/post/goods/) [or](/post/or/) services.
+  - [In](/post/in/) [science](/post/science/), [it](/post/it/) [might](/post/might/) [be](/post/be/) [a](/post/a/) [substance](/post/substance/) [or](/post/or/) [condition](/post/condition/) [necessary](/post/necessary/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [reaction](/post/reaction/) [or](/post/or/) [process](/post/process/) [to](/post/to/) [occur](/post/occur/).
 
-  [Example](/en/post/example/) [sentence](/en/post/sentence/): "[One](/en/post/one/) [important](/en/post/important/) [risk](/en/post/risk/) [factor](/en/post/factor/) [for](/en/post/for/) [heart](/en/post/heart/) [disease](/en/post/disease/) is [high](/en/post/high/) [blood](/en/post/blood/) [pressure](/en/post/pressure/)."
+  [Example](/post/example/) [sentence](/post/sentence/): "[One](/post/one/) [important](/post/important/) [risk](/post/risk/) [factor](/post/factor/) [for](/post/for/) [heart](/post/heart/) [disease](/post/disease/) is [high](/post/high/) [blood](/post/blood/) [pressure](/post/pressure/)."
 
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [determine](/en/post/determine/) [or](/en/post/or/) [calculate](/en/post/calculate/) [by](/en/post/by/) multiplying numbers [or](/en/post/or/) quantities [together](/en/post/together/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [factor](/en/post/factor/) [in](/en/post/in/) [the](/en/post/the/) [cost](/en/post/cost/) [of](/en/post/of/) materials [when](/en/post/when/) calculating [the](/en/post/the/) [final](/en/post/final/) [price](/en/post/price/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [determine](/post/determine/) [or](/post/or/) [calculate](/post/calculate/) [by](/post/by/) multiplying numbers [or](/post/or/) quantities [together](/post/together/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [factor](/post/factor/) [in](/post/in/) [the](/post/the/) [cost](/post/cost/) [of](/post/of/) materials [when](/post/when/) calculating [the](/post/the/) [final](/post/final/) [price](/post/price/)."
 
-  [Example](/en/post/example/) [sentence](/en/post/sentence/): "Don't [forget](/en/post/forget/) [to](/en/post/to/) [factor](/en/post/factor/) [your](/en/post/your/) commuting [time](/en/post/time/) [into](/en/post/into/) [your](/en/post/your/) [daily](/en/post/daily/) [schedule](/en/post/schedule/)."
+  [Example](/post/example/) [sentence](/post/sentence/): "Don't [forget](/post/forget/) [to](/post/to/) [factor](/post/factor/) [your](/post/your/) commuting [time](/post/time/) [into](/post/into/) [your](/post/your/) [daily](/post/daily/) [schedule](/post/schedule/)."
 
 ## Phrases
-- "[Factor](/en/post/factor/) [in](/en/post/in/)": [To](/en/post/to/) [consider](/en/post/consider/) [something](/en/post/something/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [calculation](/en/post/calculation/), [decision](/en/post/decision/), [or](/en/post/or/) assessment. [For](/en/post/for/) [instance](/en/post/instance/): "[They](/en/post/they/) factored [in](/en/post/in/) [their](/en/post/their/) children's [education](/en/post/education/) expenses [when](/en/post/when/) planning [their](/en/post/their/) retirement savings."
-- "[Break](/en/post/break/) [down](/en/post/down/) [into](/en/post/into/) factors": [To](/en/post/to/) analyze [something](/en/post/something/) [into](/en/post/into/) [its](/en/post/its/) [component](/en/post/component/) parts [or](/en/post/or/) elements. [Example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) helped [her](/en/post/her/) students [break](/en/post/break/) [down](/en/post/down/) [the](/en/post/the/) [equation](/en/post/equation/) [into](/en/post/into/) [its](/en/post/its/) [prime](/en/post/prime/) factors."
+- "[Factor](/post/factor/) [in](/post/in/)": [To](/post/to/) [consider](/post/consider/) [something](/post/something/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [calculation](/post/calculation/), [decision](/post/decision/), [or](/post/or/) assessment. [For](/post/for/) [instance](/post/instance/): "[They](/post/they/) factored [in](/post/in/) [their](/post/their/) children's [education](/post/education/) expenses [when](/post/when/) planning [their](/post/their/) retirement savings."
+- "[Break](/post/break/) [down](/post/down/) [into](/post/into/) factors": [To](/post/to/) analyze [something](/post/something/) [into](/post/into/) [its](/post/its/) [component](/post/component/) parts [or](/post/or/) elements. [Example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) helped [her](/post/her/) students [break](/post/break/) [down](/post/down/) [the](/post/the/) [equation](/post/equation/) [into](/post/into/) [its](/post/its/) [prime](/post/prime/) factors."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Genetics is [just](/en/post/just/) [one](/en/post/one/) [of](/en/post/of/) [several](/en/post/several/) factors affecting [a](/en/post/a/) person's [height](/en/post/height/)."
-- **[Verb](/en/post/verb/)**: "[Before](/en/post/before/) signing [the](/en/post/the/) [contract](/en/post/contract/), [we](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [factor](/en/post/factor/) [in](/en/post/in/) [potential](/en/post/potential/) delays [and](/en/post/and/) budget overruns."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Genetics is [just](/post/just/) [one](/post/one/) [of](/post/of/) [several](/post/several/) factors affecting [a](/post/a/) person's [height](/post/height/)."
+- **[Verb](/post/verb/)**: "[Before](/post/before/) signing [the](/post/the/) [contract](/post/contract/), [we](/post/we/) [need](/post/need/) [to](/post/to/) [factor](/post/factor/) [in](/post/in/) [potential](/post/potential/) delays [and](/post/and/) budget overruns."
 
 ## Synonyms
-- [Element](/en/post/element/)
-- [Component](/en/post/component/)
-- [Consideration](/en/post/consideration/)
+- [Element](/post/element/)
+- [Component](/post/component/)
+- [Consideration](/post/consideration/)
 - Contributor
-- Influencer ([noun](/en/post/noun/))
-- [Calculate](/en/post/calculate/)
-- [Consider](/en/post/consider/)
-- Analyze ([verb](/en/post/verb/))
+- Influencer ([noun](/post/noun/))
+- [Calculate](/post/calculate/)
+- [Consider](/post/consider/)
+- Analyze ([verb](/post/verb/))

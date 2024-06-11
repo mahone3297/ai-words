@@ -7,30 +7,30 @@ description = '[ˈmelən] n.瓜，甜瓜'
 keywords = ['ai words', 'melon']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɛlən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/), edible [fruit](/en/post/fruit/) [with](/en/post/with/) [a](/en/post/a/) [hard](/en/post/hard/) rind [and](/en/post/and/) [sweet](/en/post/sweet/), juicy [flesh](/en/post/flesh/), typically [round](/en/post/round/) [or](/en/post/or/) oblong [in](/en/post/in/) [shape](/en/post/shape/). [It](/en/post/it/) comes [in](/en/post/in/) [various](/en/post/various/) varieties [such](/en/post/such/) [as](/en/post/as/) watermelon, cantaloupe, [and](/en/post/and/) honeydew. [Example](/en/post/example/): "I [love](/en/post/love/) [to](/en/post/to/) [eat](/en/post/eat/) chilled slices [of](/en/post/of/) [fresh](/en/post/fresh/) [melon](/en/post/melon/) [on](/en/post/on/) [hot](/en/post/hot/) [summer](/en/post/summer/) days."
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/), edible [fruit](/post/fruit/) [with](/post/with/) [a](/post/a/) [hard](/post/hard/) rind [and](/post/and/) [sweet](/post/sweet/), juicy [flesh](/post/flesh/), typically [round](/post/round/) [or](/post/or/) oblong [in](/post/in/) [shape](/post/shape/). [It](/post/it/) comes [in](/post/in/) [various](/post/various/) varieties [such](/post/such/) [as](/post/as/) watermelon, cantaloupe, [and](/post/and/) honeydew. [Example](/post/example/): "I [love](/post/love/) [to](/post/to/) [eat](/post/eat/) chilled slices [of](/post/of/) [fresh](/post/fresh/) [melon](/post/melon/) [on](/post/on/) [hot](/post/hot/) [summer](/post/summer/) days."
 
-[Example](/en/post/example/) Sentences:
-- "[At](/en/post/at/) [the](/en/post/the/) farmers' [market](/en/post/market/), [they](/en/post/they/) sold locally grown melons [that](/en/post/that/) were exceptionally [sweet](/en/post/sweet/)."
-- "[The](/en/post/the/) [picnic](/en/post/picnic/) [basket](/en/post/basket/) was filled [with](/en/post/with/) sandwiches, [cheese](/en/post/cheese/), [and](/en/post/and/) [a](/en/post/a/) [big](/en/post/big/), [ripe](/en/post/ripe/) [melon](/en/post/melon/) [for](/en/post/for/) dessert."
+[Example](/post/example/) Sentences:
+- "[At](/post/at/) [the](/post/the/) farmers' [market](/post/market/), [they](/post/they/) sold locally grown melons [that](/post/that/) were exceptionally [sweet](/post/sweet/)."
+- "[The](/post/the/) [picnic](/post/picnic/) [basket](/post/basket/) was filled [with](/post/with/) sandwiches, [cheese](/post/cheese/), [and](/post/and/) [a](/post/a/) [big](/post/big/), [ripe](/post/ripe/) [melon](/post/melon/) [for](/post/for/) dessert."
 
 ## Phrases
-- "[As](/en/post/as/) [cool](/en/post/cool/) [as](/en/post/as/) [a](/en/post/a/) [cucumber](/en/post/cucumber/)": [This](/en/post/this/) idiomatic [phrase](/en/post/phrase/) [can](/en/post/can/) [sometimes](/en/post/sometimes/) [be](/en/post/be/) replaced [with](/en/post/with/) "[as](/en/post/as/) [cool](/en/post/cool/) [as](/en/post/as/) [a](/en/post/a/) [melon](/en/post/melon/)" [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [who](/en/post/who/) is [calm](/en/post/calm/) [and](/en/post/and/) composed [under](/en/post/under/) [pressure](/en/post/pressure/).
-- "Cutting [a](/en/post/a/) [melon](/en/post/melon/)": [This](/en/post/this/) refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) slicing [open](/en/post/open/) [a](/en/post/a/) [melon](/en/post/melon/) [to](/en/post/to/) [serve](/en/post/serve/) [or](/en/post/or/) [eat](/en/post/eat/) [it](/en/post/it/).
+- "[As](/post/as/) [cool](/post/cool/) [as](/post/as/) [a](/post/a/) [cucumber](/post/cucumber/)": [This](/post/this/) idiomatic [phrase](/post/phrase/) [can](/post/can/) [sometimes](/post/sometimes/) [be](/post/be/) replaced [with](/post/with/) "[as](/post/as/) [cool](/post/cool/) [as](/post/as/) [a](/post/a/) [melon](/post/melon/)" [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [who](/post/who/) is [calm](/post/calm/) [and](/post/and/) composed [under](/post/under/) [pressure](/post/pressure/).
+- "Cutting [a](/post/a/) [melon](/post/melon/)": [This](/post/this/) refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) slicing [open](/post/open/) [a](/post/a/) [melon](/post/melon/) [to](/post/to/) [serve](/post/serve/) [or](/post/or/) [eat](/post/eat/) [it](/post/it/).
 
 ## Synonyms
-- [Cucumber](/en/post/cucumber/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) "[cool](/en/post/cool/) [as](/en/post/as/) [a](/en/post/a/) [cucumber](/en/post/cucumber/)/[melon](/en/post/melon/)")
+- [Cucumber](/post/cucumber/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) "[cool](/post/cool/) [as](/post/as/) [a](/post/a/) [cucumber](/post/cucumber/)/[melon](/post/melon/)")
 - Watermelon
 - Cantaloupe
 - Honeydew
 - Muskmelon
 
-## Varieties [of](/en/post/of/) [Melon](/en/post/melon/)
-- **Watermelon**: [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [melon](/en/post/melon/) characterized [by](/en/post/by/) [its](/en/post/its/) [large](/en/post/large/) [size](/en/post/size/), [green](/en/post/green/) rind, [and](/en/post/and/) [red](/en/post/red/) [or](/en/post/or/) [yellow](/en/post/yellow/) [flesh](/en/post/flesh/).
-- **Cantaloupe**: [A](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) muskmelon [with](/en/post/with/) [a](/en/post/a/) [round](/en/post/round/) [or](/en/post/or/) [slightly](/en/post/slightly/) oval [shape](/en/post/shape/), ribbed [skin](/en/post/skin/), [and](/en/post/and/) [sweet](/en/post/sweet/) [orange](/en/post/orange/) [flesh](/en/post/flesh/).
-- **Honeydew**: [A](/en/post/a/) smooth-skinned [melon](/en/post/melon/) [with](/en/post/with/) [pale](/en/post/pale/) [green](/en/post/green/) [or](/en/post/or/) [yellow](/en/post/yellow/) [exterior](/en/post/exterior/) [and](/en/post/and/) [sweet](/en/post/sweet/), [pale](/en/post/pale/) [green](/en/post/green/) [or](/en/post/or/) [white](/en/post/white/) [interior](/en/post/interior/).
+## Varieties [of](/post/of/) [Melon](/post/melon/)
+- **Watermelon**: [A](/post/a/) [type](/post/type/) [of](/post/of/) [melon](/post/melon/) characterized [by](/post/by/) [its](/post/its/) [large](/post/large/) [size](/post/size/), [green](/post/green/) rind, [and](/post/and/) [red](/post/red/) [or](/post/or/) [yellow](/post/yellow/) [flesh](/post/flesh/).
+- **Cantaloupe**: [A](/post/a/) [variety](/post/variety/) [of](/post/of/) muskmelon [with](/post/with/) [a](/post/a/) [round](/post/round/) [or](/post/or/) [slightly](/post/slightly/) oval [shape](/post/shape/), ribbed [skin](/post/skin/), [and](/post/and/) [sweet](/post/sweet/) [orange](/post/orange/) [flesh](/post/flesh/).
+- **Honeydew**: [A](/post/a/) smooth-skinned [melon](/post/melon/) [with](/post/with/) [pale](/post/pale/) [green](/post/green/) [or](/post/or/) [yellow](/post/yellow/) [exterior](/post/exterior/) [and](/post/and/) [sweet](/post/sweet/), [pale](/post/pale/) [green](/post/green/) [or](/post/or/) [white](/post/white/) [interior](/post/interior/).
   
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) [while](/en/post/while/) [melon](/en/post/melon/) [itself](/en/post/itself/) does [not](/en/post/not/) [have](/en/post/have/) [verb](/en/post/verb/) [or](/en/post/or/) adjectival uses [like](/en/post/like/) [the](/en/post/the/) [example](/en/post/example/) given [for](/en/post/for/) "[hello](/en/post/hello/)," [it](/en/post/it/) is [primarily](/en/post/primarily/) [a](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [fruit](/en/post/fruit/). [The](/en/post/the/) examples [provided](/en/post/provided/) [above](/en/post/above/) [illustrate](/en/post/illustrate/) [its](/en/post/its/) [usage](/en/post/usage/) [in](/en/post/in/) [different](/en/post/different/) contexts [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/).
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) [while](/post/while/) [melon](/post/melon/) [itself](/post/itself/) does [not](/post/not/) [have](/post/have/) [verb](/post/verb/) [or](/post/or/) adjectival uses [like](/post/like/) [the](/post/the/) [example](/post/example/) given [for](/post/for/) "[hello](/post/hello/)," [it](/post/it/) is [primarily](/post/primarily/) [a](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [fruit](/post/fruit/). [The](/post/the/) examples [provided](/post/provided/) [above](/post/above/) [illustrate](/post/illustrate/) [its](/post/its/) [usage](/post/usage/) [in](/post/in/) [different](/post/different/) contexts [as](/post/as/) [a](/post/a/) [noun](/post/noun/).

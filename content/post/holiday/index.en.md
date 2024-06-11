@@ -7,34 +7,34 @@ description = '[ˈhɔlidei] n.假日，节日；假期'
 keywords = ['ai words', 'holiday']
 +++
 
-## [Word](/en/post/word/): [Holiday](/en/post/holiday/)
+## [Word](/post/word/): [Holiday](/post/holiday/)
 
-## [Pronunciation](/en/post/pronunciation/)
-/ˈhɑːlədeɪ/ (UK), /ˈhoʊlədeɪ/ ([US](/en/post/us/))
+## [Pronunciation](/post/pronunciation/)
+/ˈhɑːlədeɪ/ (UK), /ˈhoʊlədeɪ/ ([US](/post/us/))
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [when](/en/post/when/) [one](/en/post/one/) does [not](/en/post/not/) [go](/en/post/go/) [to](/en/post/to/) [work](/en/post/work/) [or](/en/post/or/) [school](/en/post/school/) [but](/en/post/but/) is [free](/en/post/free/) [to](/en/post/to/) [rest](/en/post/rest/), [travel](/en/post/travel/), [or](/en/post/or/) [enjoy](/en/post/enjoy/) [leisure](/en/post/leisure/) activities; [often](/en/post/often/) associated [with](/en/post/with/) [religious](/en/post/religious/) [or](/en/post/or/) cultural celebrations. _E.g._ "We're planning [a](/en/post/a/) two-week [holiday](/en/post/holiday/) [in](/en/post/in/) Spain [this](/en/post/this/) [summer](/en/post/summer/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) [plural](/en/post/plural/) [form](/en/post/form/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [specific](/en/post/specific/) days designated [as](/en/post/as/) non-working [or](/en/post/or/) celebratory. _E.g._ "[New](/en/post/new/) Year's [Day](/en/post/day/) is [a](/en/post/a/) [public](/en/post/public/) [holiday](/en/post/holiday/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [when](/post/when/) [one](/post/one/) does [not](/post/not/) [go](/post/go/) [to](/post/to/) [work](/post/work/) [or](/post/or/) [school](/post/school/) [but](/post/but/) is [free](/post/free/) [to](/post/to/) [rest](/post/rest/), [travel](/post/travel/), [or](/post/or/) [enjoy](/post/enjoy/) [leisure](/post/leisure/) activities; [often](/post/often/) associated [with](/post/with/) [religious](/post/religious/) [or](/post/or/) cultural celebrations. _E.g._ "We're planning [a](/post/a/) two-week [holiday](/post/holiday/) [in](/post/in/) Spain [this](/post/this/) [summer](/post/summer/)."
+  - [Also](/post/also/) [used](/post/used/) [in](/post/in/) [the](/post/the/) [plural](/post/plural/) [form](/post/form/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [specific](/post/specific/) days designated [as](/post/as/) non-working [or](/post/or/) celebratory. _E.g._ "[New](/post/new/) Year's [Day](/post/day/) is [a](/post/a/) [public](/post/public/) [holiday](/post/holiday/)."
 
-- **[Verb](/en/post/verb/)**: (informal) [To](/en/post/to/) [take](/en/post/take/) [or](/en/post/or/) [spend](/en/post/spend/) [a](/en/post/a/) [holiday](/en/post/holiday/). _E.g._ "[They](/en/post/they/) decided [to](/en/post/to/) [holiday](/en/post/holiday/) [in](/en/post/in/) [the](/en/post/the/) [countryside](/en/post/countryside/) [this](/en/post/this/) [year](/en/post/year/)."
+- **[Verb](/post/verb/)**: (informal) [To](/post/to/) [take](/post/take/) [or](/post/or/) [spend](/post/spend/) [a](/post/a/) [holiday](/post/holiday/). _E.g._ "[They](/post/they/) decided [to](/post/to/) [holiday](/post/holiday/) [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/) [this](/post/this/) [year](/post/year/)."
 
 ## Phrases
-- "[On](/en/post/on/) [holiday](/en/post/holiday/)": [Being](/en/post/being/) [away](/en/post/away/) [from](/en/post/from/) [work](/en/post/work/) [or](/en/post/or/) [school](/en/post/school/) [for](/en/post/for/) [a](/en/post/a/) [vacation](/en/post/vacation/). _E.g._ "I'm [on](/en/post/on/) [holiday](/en/post/holiday/) [until](/en/post/until/) [next](/en/post/next/) Monday."
-- "[Bank](/en/post/bank/) [holiday](/en/post/holiday/)": [A](/en/post/a/) [public](/en/post/public/) [holiday](/en/post/holiday/) [in](/en/post/in/) [the](/en/post/the/) UK, typically [a](/en/post/a/) [day](/en/post/day/) [off](/en/post/off/) [work](/en/post/work/).
-- "[Holiday](/en/post/holiday/) [season](/en/post/season/)": [The](/en/post/the/) [period](/en/post/period/) [around](/en/post/around/) Christmas [and](/en/post/and/) [New](/en/post/new/) [Year](/en/post/year/) [when](/en/post/when/) [many](/en/post/many/) [people](/en/post/people/) [have](/en/post/have/) holidays [or](/en/post/or/) [celebrate](/en/post/celebrate/) festivals.
+- "[On](/post/on/) [holiday](/post/holiday/)": [Being](/post/being/) [away](/post/away/) [from](/post/from/) [work](/post/work/) [or](/post/or/) [school](/post/school/) [for](/post/for/) [a](/post/a/) [vacation](/post/vacation/). _E.g._ "I'm [on](/post/on/) [holiday](/post/holiday/) [until](/post/until/) [next](/post/next/) Monday."
+- "[Bank](/post/bank/) [holiday](/post/holiday/)": [A](/post/a/) [public](/post/public/) [holiday](/post/holiday/) [in](/post/in/) [the](/post/the/) UK, typically [a](/post/a/) [day](/post/day/) [off](/post/off/) [work](/post/work/).
+- "[Holiday](/post/holiday/) [season](/post/season/)": [The](/post/the/) [period](/post/period/) [around](/post/around/) Christmas [and](/post/and/) [New](/post/new/) [Year](/post/year/) [when](/post/when/) [many](/post/many/) [people](/post/people/) [have](/post/have/) holidays [or](/post/or/) [celebrate](/post/celebrate/) festivals.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was looking [forward](/en/post/forward/) [to](/en/post/to/) [her](/en/post/her/) long-awaited [summer](/en/post/summer/) [holiday](/en/post/holiday/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) holidayed [in](/en/post/in/) [a](/en/post/a/) [charming](/en/post/charming/) [cottage](/en/post/cottage/) [by](/en/post/by/) [the](/en/post/the/) [sea](/en/post/sea/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was looking [forward](/post/forward/) [to](/post/to/) [her](/post/her/) long-awaited [summer](/post/summer/) [holiday](/post/holiday/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) holidayed [in](/post/in/) [a](/post/a/) [charming](/post/charming/) [cottage](/post/cottage/) [by](/post/by/) [the](/post/the/) [sea](/post/sea/)."
 
 ## Synonyms
-- [Vacation](/en/post/vacation/)
-- [Break](/en/post/break/)
-- [Leave](/en/post/leave/)
-- [Trip](/en/post/trip/)
+- [Vacation](/post/vacation/)
+- [Break](/post/break/)
+- [Leave](/post/leave/)
+- [Trip](/post/trip/)
 - Getaway
-- [Leisure](/en/post/leisure/) [time](/en/post/time/)
-- [Time](/en/post/time/) [off](/en/post/off/)
-- Festive [season](/en/post/season/) ([for](/en/post/for/) [holiday](/en/post/holiday/) [season](/en/post/season/))
-- [Public](/en/post/public/) [holiday](/en/post/holiday/)
-- [Day](/en/post/day/) [off](/en/post/off/)
+- [Leisure](/post/leisure/) [time](/post/time/)
+- [Time](/post/time/) [off](/post/off/)
+- Festive [season](/post/season/) ([for](/post/for/) [holiday](/post/holiday/) [season](/post/season/))
+- [Public](/post/public/) [holiday](/post/holiday/)
+- [Day](/post/day/) [off](/post/off/)

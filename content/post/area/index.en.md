@@ -7,41 +7,41 @@ description = '[ˈeəriə] n.面积；地区；领域'
 keywords = ['ai words', 'area']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeəriə/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **An [area](/en/post/area/) [of](/en/post/of/) [land](/en/post/land/)**: [A](/en/post/a/) [region](/en/post/region/) [or](/en/post/or/) [portion](/en/post/portion/) [of](/en/post/of/) [the](/en/post/the/) earth's [surface](/en/post/surface/), [often](/en/post/often/) [with](/en/post/with/) defined boundaries [or](/en/post/or/) [a](/en/post/a/) [specific](/en/post/specific/) [function](/en/post/function/). [Example](/en/post/example/): "[The](/en/post/the/) [park](/en/post/park/) occupies [a](/en/post/a/) [large](/en/post/large/) [area](/en/post/area/) [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/) center."
-2. **[A](/en/post/a/) [region](/en/post/region/) [or](/en/post/or/) sector**: [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) larger [space](/en/post/space/) [or](/en/post/or/) [topic](/en/post/topic/), [often](/en/post/often/) classified [by](/en/post/by/) [subject](/en/post/subject/) [matter](/en/post/matter/) [or](/en/post/or/) [interest](/en/post/interest/). [Example](/en/post/example/): "[The](/en/post/the/) [business](/en/post/business/) [area](/en/post/area/) [of](/en/post/of/) [the](/en/post/the/) [town](/en/post/town/) has [many](/en/post/many/) offices [and](/en/post/and/) shops."
-3. **[Extent](/en/post/extent/) [or](/en/post/or/) [scope](/en/post/scope/)**: [The](/en/post/the/) [degree](/en/post/degree/) [or](/en/post/or/) [range](/en/post/range/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[Her](/en/post/her/) [knowledge](/en/post/knowledge/) covers [a](/en/post/a/) [wide](/en/post/wide/) [area](/en/post/area/) [of](/en/post/of/) [science](/en/post/science/)."
-4. **[A](/en/post/a/) sector [of](/en/post/of/) [a](/en/post/a/) [game](/en/post/game/) [or](/en/post/or/) [activity](/en/post/activity/)**: [In](/en/post/in/) sports, [a](/en/post/a/) designated [region](/en/post/region/) [for](/en/post/for/) [play](/en/post/play/) [or](/en/post/or/) [competition](/en/post/competition/). [Example](/en/post/example/): "[The](/en/post/the/) attacking [area](/en/post/area/) [in](/en/post/in/) [soccer](/en/post/soccer/) is [where](/en/post/where/) players [try](/en/post/try/) [to](/en/post/to/) [score](/en/post/score/) goals."
+### [Noun](/post/noun/)
+1. **An [area](/post/area/) [of](/post/of/) [land](/post/land/)**: [A](/post/a/) [region](/post/region/) [or](/post/or/) [portion](/post/portion/) [of](/post/of/) [the](/post/the/) earth's [surface](/post/surface/), [often](/post/often/) [with](/post/with/) defined boundaries [or](/post/or/) [a](/post/a/) [specific](/post/specific/) [function](/post/function/). [Example](/post/example/): "[The](/post/the/) [park](/post/park/) occupies [a](/post/a/) [large](/post/large/) [area](/post/area/) [in](/post/in/) [the](/post/the/) [city](/post/city/) center."
+2. **[A](/post/a/) [region](/post/region/) [or](/post/or/) sector**: [A](/post/a/) [part](/post/part/) [of](/post/of/) [a](/post/a/) larger [space](/post/space/) [or](/post/or/) [topic](/post/topic/), [often](/post/often/) classified [by](/post/by/) [subject](/post/subject/) [matter](/post/matter/) [or](/post/or/) [interest](/post/interest/). [Example](/post/example/): "[The](/post/the/) [business](/post/business/) [area](/post/area/) [of](/post/of/) [the](/post/the/) [town](/post/town/) has [many](/post/many/) offices [and](/post/and/) shops."
+3. **[Extent](/post/extent/) [or](/post/or/) [scope](/post/scope/)**: [The](/post/the/) [degree](/post/degree/) [or](/post/or/) [range](/post/range/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[Her](/post/her/) [knowledge](/post/knowledge/) covers [a](/post/a/) [wide](/post/wide/) [area](/post/area/) [of](/post/of/) [science](/post/science/)."
+4. **[A](/post/a/) sector [of](/post/of/) [a](/post/a/) [game](/post/game/) [or](/post/or/) [activity](/post/activity/)**: [In](/post/in/) sports, [a](/post/a/) designated [region](/post/region/) [for](/post/for/) [play](/post/play/) [or](/post/or/) [competition](/post/competition/). [Example](/post/example/): "[The](/post/the/) attacking [area](/post/area/) [in](/post/in/) [soccer](/post/soccer/) is [where](/post/where/) players [try](/post/try/) [to](/post/to/) [score](/post/score/) goals."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [cover](/en/post/cover/) [or](/en/post/or/) [occupy](/en/post/occupy/) [a](/en/post/a/) [space](/en/post/space/)**: [To](/en/post/to/) [extend](/en/post/extend/) [over](/en/post/over/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/). [Example](/en/post/example/): "[The](/en/post/the/) [furniture](/en/post/furniture/) arranged [itself](/en/post/itself/) [to](/en/post/to/) [fill](/en/post/fill/) [the](/en/post/the/) [available](/en/post/available/) [area](/en/post/area/)."
-2. **[To](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [or](/en/post/or/) [focus](/en/post/focus/) [on](/en/post/on/)**: [To](/en/post/to/) [give](/en/post/give/) [attention](/en/post/attention/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [region](/en/post/region/) [or](/en/post/or/) [aspect](/en/post/aspect/). [Example](/en/post/example/): "[The](/en/post/the/) architect is currently working [on](/en/post/on/) designing [the](/en/post/the/) [living](/en/post/living/) [area](/en/post/area/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [cover](/post/cover/) [or](/post/or/) [occupy](/post/occupy/) [a](/post/a/) [space](/post/space/)**: [To](/post/to/) [extend](/post/extend/) [over](/post/over/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/). [Example](/post/example/): "[The](/post/the/) [furniture](/post/furniture/) arranged [itself](/post/itself/) [to](/post/to/) [fill](/post/fill/) [the](/post/the/) [available](/post/available/) [area](/post/area/)."
+2. **[To](/post/to/) [deal](/post/deal/) [with](/post/with/) [or](/post/or/) [focus](/post/focus/) [on](/post/on/)**: [To](/post/to/) [give](/post/give/) [attention](/post/attention/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [region](/post/region/) [or](/post/or/) [aspect](/post/aspect/). [Example](/post/example/): "[The](/post/the/) architect is currently working [on](/post/on/) designing [the](/post/the/) [living](/post/living/) [area](/post/area/)."
 
 ## Phrases
-- "Covering [a](/en/post/a/) [broad](/en/post/broad/) [area](/en/post/area/)"
-- "[Area](/en/post/area/) [code](/en/post/code/) 555"
-- "[Focus](/en/post/focus/) [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/) [of](/en/post/of/) [study](/en/post/study/)"
-- "Working [in](/en/post/in/) [the](/en/post/the/) marketing [area](/en/post/area/)"
+- "Covering [a](/post/a/) [broad](/post/broad/) [area](/post/area/)"
+- "[Area](/post/area/) [code](/post/code/) 555"
+- "[Focus](/post/focus/) [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/) [of](/post/of/) [study](/post/study/)"
+- "Working [in](/post/in/) [the](/post/the/) marketing [area](/post/area/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [garden](/en/post/garden/) was divided [into](/en/post/into/) [several](/en/post/several/) [distinct](/en/post/distinct/) areas [for](/en/post/for/) [different](/en/post/different/) plants."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) cleared [the](/en/post/the/) [area](/en/post/area/) [to](/en/post/to/) [make](/en/post/make/) [room](/en/post/room/) [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [construction](/en/post/construction/) [project](/en/post/project/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [her](/en/post/her/) students [to](/en/post/to/) analyze [the](/en/post/the/) [literature](/en/post/literature/) [in](/en/post/in/) [different](/en/post/different/) [historical](/en/post/historical/) areas."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [garden](/post/garden/) was divided [into](/post/into/) [several](/post/several/) [distinct](/post/distinct/) areas [for](/post/for/) [different](/post/different/) plants."
+- **[Verb](/post/verb/)**: "[They](/post/they/) cleared [the](/post/the/) [area](/post/area/) [to](/post/to/) [make](/post/make/) [room](/post/room/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [construction](/post/construction/) [project](/post/project/)."
+- **[As](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) asked [her](/post/her/) students [to](/post/to/) analyze [the](/post/the/) [literature](/post/literature/) [in](/post/in/) [different](/post/different/) [historical](/post/historical/) areas."
 
 ## Synonyms
-- [Zone](/en/post/zone/)
-- [Region](/en/post/region/)
+- [Zone](/post/zone/)
+- [Region](/post/region/)
 - Sector
-- [Territory](/en/post/territory/)
-- [Space](/en/post/space/)
+- [Territory](/post/territory/)
+- [Space](/post/space/)
 - Domain
-- [Scope](/en/post/scope/)
-- [Extent](/en/post/extent/)
-- [Section](/en/post/section/)
-- [Plot](/en/post/plot/)
+- [Scope](/post/scope/)
+- [Extent](/post/extent/)
+- [Section](/post/section/)
+- [Plot](/post/plot/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) [of](/en/post/of/) "[area](/en/post/area/)" is [not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) standalone [action](/en/post/action/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [compound](/en/post/compound/) verbs [like](/en/post/like/) "[cover](/en/post/cover/) [area](/en/post/area/)" [or](/en/post/or/) "[work](/en/post/work/) [in](/en/post/in/) [the](/en/post/the/) [area](/en/post/area/)."
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) [of](/post/of/) "[area](/post/area/)" is [not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) [a](/post/a/) standalone [action](/post/action/), [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [compound](/post/compound/) verbs [like](/post/like/) "[cover](/post/cover/) [area](/post/area/)" [or](/post/or/) "[work](/post/work/) [in](/post/in/) [the](/post/the/) [area](/post/area/)."

@@ -7,40 +7,40 @@ description = '[θɔːt] n.思想；思维；想法'
 keywords = ['ai words', 'thought']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /θɔːt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Thought](/en/post/thought/)**: [A](/en/post/a/) [mental](/en/post/mental/) [activity](/en/post/activity/) involving [the](/en/post/the/) [consideration](/en/post/consideration/) [or](/en/post/or/) recollection [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) an [emotional](/en/post/emotional/) [component](/en/post/component/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was lost [in](/en/post/in/) [her](/en/post/her/) thoughts [while](/en/post/while/) staring [at](/en/post/at/) [the](/en/post/the/) [sunset](/en/post/sunset/)."
-- **[Thought](/en/post/thought/) [process](/en/post/process/)**: [The](/en/post/the/) [series](/en/post/series/) [of](/en/post/of/) [mental](/en/post/mental/) steps involved [in](/en/post/in/) problem-solving [or](/en/post/or/) decision-making. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [thought](/en/post/thought/) [process](/en/post/process/) was [logical](/en/post/logical/) [and](/en/post/and/) [efficient](/en/post/efficient/)."
+### [Noun](/post/noun/)
+- **[Thought](/post/thought/)**: [A](/post/a/) [mental](/post/mental/) [activity](/post/activity/) involving [the](/post/the/) [consideration](/post/consideration/) [or](/post/or/) recollection [of](/post/of/) [something](/post/something/), [often](/post/often/) [with](/post/with/) an [emotional](/post/emotional/) [component](/post/component/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was lost [in](/post/in/) [her](/post/her/) thoughts [while](/post/while/) staring [at](/post/at/) [the](/post/the/) [sunset](/post/sunset/)."
+- **[Thought](/post/thought/) [process](/post/process/)**: [The](/post/the/) [series](/post/series/) [of](/post/of/) [mental](/post/mental/) steps involved [in](/post/in/) problem-solving [or](/post/or/) decision-making. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [thought](/post/thought/) [process](/post/process/) was [logical](/post/logical/) [and](/post/and/) [efficient](/post/efficient/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [think](/en/post/think/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [mental](/en/post/mental/) [process](/en/post/process/) [or](/en/post/or/) [idea](/en/post/idea/), [often](/en/post/often/) involving reasoning [or](/en/post/or/) contemplation. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [thought](/en/post/thought/) [about](/en/post/about/) [her](/en/post/her/) options [before](/en/post/before/) making [a](/en/post/a/) [decision](/en/post/decision/)."
-- **[To](/en/post/to/) ponder**: [To](/en/post/to/) [think](/en/post/think/) deeply [or](/en/post/or/) [at](/en/post/at/) [length](/en/post/length/) [on](/en/post/on/) [a](/en/post/a/) [subject](/en/post/subject/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) spent hours pondering [the](/en/post/the/) [meaning](/en/post/meaning/) [of](/en/post/of/) [life](/en/post/life/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [think](/post/think/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [mental](/post/mental/) [process](/post/process/) [or](/post/or/) [idea](/post/idea/), [often](/post/often/) involving reasoning [or](/post/or/) contemplation. [For](/post/for/) [example](/post/example/): "[She](/post/she/) [thought](/post/thought/) [about](/post/about/) [her](/post/her/) options [before](/post/before/) making [a](/post/a/) [decision](/post/decision/)."
+- **[To](/post/to/) ponder**: [To](/post/to/) [think](/post/think/) deeply [or](/post/or/) [at](/post/at/) [length](/post/length/) [on](/post/on/) [a](/post/a/) [subject](/post/subject/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) spent hours pondering [the](/post/the/) [meaning](/post/meaning/) [of](/post/of/) [life](/post/life/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Thoughtful](/en/post/thoughtful/)**: Displaying [consideration](/en/post/consideration/) [or](/en/post/or/) [care](/en/post/care/) [for](/en/post/for/) others' feelings [or](/en/post/or/) well-being. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [thoughtful](/en/post/thoughtful/) [gift](/en/post/gift/) shows [you](/en/post/you/) [really](/en/post/really/) [put](/en/post/put/) [effort](/en/post/effort/) [into](/en/post/into/) [it](/en/post/it/)."
-- **Thought-provoking**: Stimulating one's [mind](/en/post/mind/) [to](/en/post/to/) [think](/en/post/think/) [or](/en/post/or/) [consider](/en/post/consider/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) book's [ending](/en/post/ending/) was [both](/en/post/both/) [surprising](/en/post/surprising/) [and](/en/post/and/) thought-provoking."
+### [Adjective](/post/adjective/)
+- **[Thoughtful](/post/thoughtful/)**: Displaying [consideration](/post/consideration/) [or](/post/or/) [care](/post/care/) [for](/post/for/) others' feelings [or](/post/or/) well-being. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [thoughtful](/post/thoughtful/) [gift](/post/gift/) shows [you](/post/you/) [really](/post/really/) [put](/post/put/) [effort](/post/effort/) [into](/post/into/) [it](/post/it/)."
+- **Thought-provoking**: Stimulating one's [mind](/post/mind/) [to](/post/to/) [think](/post/think/) [or](/post/or/) [consider](/post/consider/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) book's [ending](/post/ending/) was [both](/post/both/) [surprising](/post/surprising/) [and](/post/and/) thought-provoking."
 
-### [Adverb](/en/post/adverb/)
-- **Thoughtfully**: [In](/en/post/in/) [a](/en/post/a/) [thoughtful](/en/post/thoughtful/) [manner](/en/post/manner/), carefully considering one's actions [or](/en/post/or/) words. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) spoke thoughtfully [about](/en/post/about/) [the](/en/post/the/) [issue](/en/post/issue/)."
+### [Adverb](/post/adverb/)
+- **Thoughtfully**: [In](/post/in/) [a](/post/a/) [thoughtful](/post/thoughtful/) [manner](/post/manner/), carefully considering one's actions [or](/post/or/) words. [For](/post/for/) [example](/post/example/): "[He](/post/he/) spoke thoughtfully [about](/post/about/) [the](/post/the/) [issue](/post/issue/)."
 
 ## Phrases
-- "Lost [in](/en/post/in/) [thought](/en/post/thought/)" [means](/en/post/means/) absorbed [in](/en/post/in/) [deep](/en/post/deep/) contemplation.
-- "[Think](/en/post/think/) [outside](/en/post/outside/) [the](/en/post/the/) [box](/en/post/box/)" encourages creativity [and](/en/post/and/) unconventional thinking.
-- "[Thought](/en/post/thought/) [experiment](/en/post/experiment/)" is [a](/en/post/a/) hypothetical scenario [used](/en/post/used/) [to](/en/post/to/) [explore](/en/post/explore/) ideas [or](/en/post/or/) concepts.
+- "Lost [in](/post/in/) [thought](/post/thought/)" [means](/post/means/) absorbed [in](/post/in/) [deep](/post/deep/) contemplation.
+- "[Think](/post/think/) [outside](/post/outside/) [the](/post/the/) [box](/post/box/)" encourages creativity [and](/post/and/) unconventional thinking.
+- "[Thought](/post/thought/) [experiment](/post/experiment/)" is [a](/post/a/) hypothetical scenario [used](/post/used/) [to](/post/to/) [explore](/post/explore/) ideas [or](/post/or/) concepts.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [mind](/en/post/mind/) was filled [with](/en/post/with/) thoughts [about](/en/post/about/) [the](/en/post/the/) [future](/en/post/future/)."
-- **[Verb](/en/post/verb/)**: "I couldn't [help](/en/post/help/) [but](/en/post/but/) [think](/en/post/think/) [about](/en/post/about/) [how](/en/post/how/) [different](/en/post/different/) [our](/en/post/our/) lives [would](/en/post/would/) [be](/en/post/be/) [if](/en/post/if/) [we](/en/post/we/) took [that](/en/post/that/) [path](/en/post/path/)."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) was [a](/en/post/a/) [thoughtful](/en/post/thoughtful/) [friend](/en/post/friend/) [who](/en/post/who/) [always](/en/post/always/) remembered [important](/en/post/important/) dates."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [mind](/post/mind/) was filled [with](/post/with/) thoughts [about](/post/about/) [the](/post/the/) [future](/post/future/)."
+- **[Verb](/post/verb/)**: "I couldn't [help](/post/help/) [but](/post/but/) [think](/post/think/) [about](/post/about/) [how](/post/how/) [different](/post/different/) [our](/post/our/) lives [would](/post/would/) [be](/post/be/) [if](/post/if/) [we](/post/we/) took [that](/post/that/) [path](/post/path/)."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) was [a](/post/a/) [thoughtful](/post/thoughtful/) [friend](/post/friend/) [who](/post/who/) [always](/post/always/) remembered [important](/post/important/) dates."
 
 ## Synonyms
-- [Reflection](/en/post/reflection/)
+- [Reflection](/post/reflection/)
 - Contemplation
 - Meditation
-- [Consideration](/en/post/consideration/)
+- [Consideration](/post/consideration/)
 - Speculation
 - Reflections
 - cogitation

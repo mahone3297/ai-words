@@ -12,26 +12,26 @@ keywords = ['ai words', 'cash']
 
 ## 释义
 - **名词**:
-   - 现金；零钱。例如: "I paid [for](/post/for/) [the](/post/the/) [book](/post/book/) [with](/post/with/) [cash](/post/cash/)."
-   - 资金；现款。例如: "[The](/post/the/) [company](/post/company/) has [a](/post/a/) [large](/post/large/) [cash](/post/cash/) [reserve](/post/reserve/)."
-   - 货币形式的交易。例如: "[We](/post/we/) [prefer](/post/prefer/) [cash](/post/cash/) payments [rather](/post/rather/) [than](/post/than/) [credit](/post/credit/) cards."
+   - 现金；零钱。例如: "I paid [for](/zh/post/for/) [the](/zh/post/the/) [book](/zh/post/book/) [with](/zh/post/with/) [cash](/zh/post/cash/)."
+   - 资金；现款。例如: "[The](/zh/post/the/) [company](/zh/post/company/) has [a](/zh/post/a/) [large](/zh/post/large/) [cash](/zh/post/cash/) [reserve](/zh/post/reserve/)."
+   - 货币形式的交易。例如: "[We](/zh/post/we/) [prefer](/zh/post/prefer/) [cash](/zh/post/cash/) payments [rather](/zh/post/rather/) [than](/zh/post/than/) [credit](/zh/post/credit/) cards."
 
 - **动词**:
-   - 将（支票）兑现为现金。例如: "[Can](/post/can/) [you](/post/you/) [cash](/post/cash/) [this](/post/this/) [check](/post/check/) [at](/post/at/) [the](/post/the/) [bank](/post/bank/)?"
-   - 以现金支付。例如: "I'll [cash](/post/cash/) [out](/post/out/) [my](/post/my/) winnings [now](/post/now/)."
+   - 将（支票）兑现为现金。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [cash](/zh/post/cash/) [this](/zh/post/this/) [check](/zh/post/check/) [at](/zh/post/at/) [the](/zh/post/the/) [bank](/zh/post/bank/)?"
+   - 以现金支付。例如: "I'll [cash](/zh/post/cash/) [out](/zh/post/out/) [my](/zh/post/my/) winnings [now](/zh/post/now/)."
 
 ## 短语
-- "[Cash](/post/cash/) [on](/post/on/) [delivery](/post/delivery/)" (COD) 指货到付款。
-- "[Cash](/post/cash/) [flow](/post/flow/)" 指企业收入和支出的流动资金。
-- "[Cash](/post/cash/) [in](/post/in/) [hand](/post/hand/)" 指手头的现金。
+- "[Cash](/zh/post/cash/) [on](/zh/post/on/) [delivery](/zh/post/delivery/)" (COD) 指货到付款。
+- "[Cash](/zh/post/cash/) [flow](/zh/post/flow/)" 指企业收入和支出的流动资金。
+- "[Cash](/zh/post/cash/) [in](/zh/post/in/) [hand](/zh/post/hand/)" 指手头的现金。
 
 ## 例句
-- 名词: "[She](/post/she/) counted [the](/post/the/) [cash](/post/cash/) [in](/post/in/) [the](/post/the/) [register](/post/register/)."
-- 动词: "I [need](/post/need/) [to](/post/to/) [cash](/post/cash/) [my](/post/my/) paycheck [before](/post/before/) [the](/post/the/) [bank](/post/bank/) closes."
-- "[Sorry](/post/sorry/), [we](/post/we/) don't [accept](/post/accept/) checks; it's [cash](/post/cash/) [only](/post/only/)."
+- 名词: "[She](/zh/post/she/) counted [the](/zh/post/the/) [cash](/zh/post/cash/) [in](/zh/post/in/) [the](/zh/post/the/) [register](/zh/post/register/)."
+- 动词: "I [need](/zh/post/need/) [to](/zh/post/to/) [cash](/zh/post/cash/) [my](/zh/post/my/) paycheck [before](/zh/post/before/) [the](/zh/post/the/) [bank](/zh/post/bank/) closes."
+- "[Sorry](/zh/post/sorry/), [we](/zh/post/we/) don't [accept](/zh/post/accept/) checks; it's [cash](/zh/post/cash/) [only](/zh/post/only/)."
 
 ## 同义词
-- [Money](/post/money/)
+- [Money](/zh/post/money/)
 - Currency
 - Funds
 - Dough

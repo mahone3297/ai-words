@@ -12,32 +12,32 @@ keywords = ['ai words', 'patch']
 
 ## 释义
 - **名词**:
-  - 一块小地方，一小片：[A](/post/a/) [small](/post/small/) [area](/post/area/) [or](/post/or/) [section](/post/section/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [land](/post/land/).
-  - 补丁，修补程序：[A](/post/a/) [piece](/post/piece/) [of](/post/of/) [cloth](/post/cloth/) [or](/post/or/) [other](/post/other/) [material](/post/material/) [used](/post/used/) [to](/post/to/) [repair](/post/repair/) [a](/post/a/) torn [or](/post/or/) worn [part](/post/part/); [in](/post/in/) computing, [a](/post/a/) software update [to](/post/to/) [fix](/post/fix/) errors.
+  - 一块小地方，一小片：[A](/zh/post/a/) [small](/zh/post/small/) [area](/zh/post/area/) [or](/zh/post/or/) [section](/zh/post/section/), [such](/zh/post/such/) [as](/zh/post/as/) [a](/zh/post/a/) [piece](/zh/post/piece/) [of](/zh/post/of/) [land](/zh/post/land/).
+  - 补丁，修补程序：[A](/zh/post/a/) [piece](/zh/post/piece/) [of](/zh/post/of/) [cloth](/zh/post/cloth/) [or](/zh/post/or/) [other](/zh/post/other/) [material](/zh/post/material/) [used](/zh/post/used/) [to](/zh/post/to/) [repair](/zh/post/repair/) [a](/zh/post/a/) torn [or](/zh/post/or/) worn [part](/zh/post/part/); [in](/zh/post/in/) computing, [a](/zh/post/a/) software update [to](/zh/post/to/) [fix](/zh/post/fix/) errors.
 
 - **动词**:
-  - 修补，缝补：[To](/post/to/) [mend](/post/mend/) [or](/post/or/) [repair](/post/repair/) [by](/post/by/) applying [a](/post/a/) [patch](/post/patch/).
-  - 给软件打补丁：[To](/post/to/) [apply](/post/apply/) [a](/post/a/) software [patch](/post/patch/) [to](/post/to/) [fix](/post/fix/) issues.
+  - 修补，缝补：[To](/zh/post/to/) [mend](/zh/post/mend/) [or](/zh/post/or/) [repair](/zh/post/repair/) [by](/zh/post/by/) applying [a](/zh/post/a/) [patch](/zh/post/patch/).
+  - 给软件打补丁：[To](/zh/post/to/) [apply](/zh/post/apply/) [a](/zh/post/a/) software [patch](/zh/post/patch/) [to](/zh/post/to/) [fix](/zh/post/fix/) issues.
 
 - **形容词**:
-  - 补丁状的，拼凑的：Consisting [of](/post/of/) patches [or](/post/or/) made [up](/post/up/) [of](/post/of/) [various](/post/various/) elements; pieced [together](/post/together/).
+  - 补丁状的，拼凑的：Consisting [of](/zh/post/of/) patches [or](/zh/post/or/) made [up](/zh/post/up/) [of](/zh/post/of/) [various](/zh/post/various/) elements; pieced [together](/zh/post/together/).
 
 ## 短语
-- "[patch](/post/patch/) [up](/post/up/)" 意为修复关系或物品。
-- "[patch](/post/patch/) [something](/post/something/) [together](/post/together/)" 表示仓促地组合或修理。
+- "[patch](/zh/post/patch/) [up](/zh/post/up/)" 意为修复关系或物品。
+- "[patch](/zh/post/patch/) [something](/zh/post/something/) [together](/zh/post/together/)" 表示仓促地组合或修理。
 
 ## 例句
-- 名词: "[He](/post/he/) sewed [a](/post/a/) [small](/post/small/) [patch](/post/patch/) [on](/post/on/) [his](/post/his/) jeans [to](/post/to/) [cover](/post/cover/) [the](/post/the/) [hole](/post/hole/)."
-- 动词: "[The](/post/the/) programmer applied [a](/post/a/) [patch](/post/patch/) [to](/post/to/) [the](/post/the/) software [to](/post/to/) [resolve](/post/resolve/) [the](/post/the/) bug."
-- 形容词: "[Her](/post/her/) [dress](/post/dress/) was [a](/post/a/) patchwork [of](/post/of/) [different](/post/different/) fabrics."
+- 名词: "[He](/zh/post/he/) sewed [a](/zh/post/a/) [small](/zh/post/small/) [patch](/zh/post/patch/) [on](/zh/post/on/) [his](/zh/post/his/) jeans [to](/zh/post/to/) [cover](/zh/post/cover/) [the](/zh/post/the/) [hole](/zh/post/hole/)."
+- 动词: "[The](/zh/post/the/) programmer applied [a](/zh/post/a/) [patch](/zh/post/patch/) [to](/zh/post/to/) [the](/zh/post/the/) software [to](/zh/post/to/) [resolve](/zh/post/resolve/) [the](/zh/post/the/) bug."
+- 形容词: "[Her](/zh/post/her/) [dress](/zh/post/dress/) was [a](/zh/post/a/) patchwork [of](/zh/post/of/) [different](/zh/post/different/) fabrics."
 
 ## 同义词
 - 名词:
-  - [Section](/post/section/)
-  - [Fragment](/post/fragment/)
+  - [Section](/zh/post/section/)
+  - [Fragment](/zh/post/fragment/)
 - 动词:
-  - [Mend](/post/mend/)
-  - [Repair](/post/repair/)
+  - [Mend](/zh/post/mend/)
+  - [Repair](/zh/post/repair/)
 - 形容词:
   - Heterogeneous
   - Jumbled

@@ -11,21 +11,21 @@ keywords = ['ai words', 'deadly']
 /ˈdedli/
 
 ## 释义
-- **形容词**: 极度的，致命的，非常严重的。例如: "[The](/post/the/) [poison](/post/poison/) is [deadly](/post/deadly/) [if](/post/if/) ingested."（这种毒药如果吞食是致命的。）
-- **副词**: 绝对地，肯定地。例如: "[He](/post/he/) plays [the](/post/the/) [game](/post/game/) [deadly](/post/deadly/) [seriously](/post/seriously/)."（他绝对认真地玩游戏。）
+- **形容词**: 极度的，致命的，非常严重的。例如: "[The](/zh/post/the/) [poison](/zh/post/poison/) is [deadly](/zh/post/deadly/) [if](/zh/post/if/) ingested."（这种毒药如果吞食是致命的。）
+- **副词**: 绝对地，肯定地。例如: "[He](/zh/post/he/) plays [the](/zh/post/the/) [game](/zh/post/game/) [deadly](/zh/post/deadly/) [seriously](/zh/post/seriously/)."（他绝对认真地玩游戏。）
 
 ## 短语
-- "[deadly](/post/deadly/) [accurate](/post/accurate/)" 意思是非常精确的。
-- "[deadly](/post/deadly/) [enemy](/post/enemy/)" 指致命的敌人或极其仇视的人。
-- "[deadly](/post/deadly/) [silence](/post/silence/)" 表示死一般的寂静，非常安静。
+- "[deadly](/zh/post/deadly/) [accurate](/zh/post/accurate/)" 意思是非常精确的。
+- "[deadly](/zh/post/deadly/) [enemy](/zh/post/enemy/)" 指致命的敌人或极其仇视的人。
+- "[deadly](/zh/post/deadly/) [silence](/zh/post/silence/)" 表示死一般的寂静，非常安静。
 
 ## 例句
-- 形容词: "[The](/post/the/) snake's venom is [deadly](/post/deadly/) [and](/post/and/) [can](/post/can/) [kill](/post/kill/) [within](/post/within/) minutes."
-- 副词: "[She](/post/she/) [hit](/post/hit/) [the](/post/the/) [target](/post/target/) [with](/post/with/) [a](/post/a/) [deadly](/post/deadly/) [aim](/post/aim/), [not](/post/not/) [missing](/post/missing/) [once](/post/once/)."
+- 形容词: "[The](/zh/post/the/) snake's venom is [deadly](/zh/post/deadly/) [and](/zh/post/and/) [can](/zh/post/can/) [kill](/zh/post/kill/) [within](/zh/post/within/) minutes."
+- 副词: "[She](/zh/post/she/) [hit](/zh/post/hit/) [the](/zh/post/the/) [target](/zh/post/target/) [with](/zh/post/with/) [a](/zh/post/a/) [deadly](/zh/post/deadly/) [aim](/zh/post/aim/), [not](/zh/post/not/) [missing](/zh/post/missing/) [once](/zh/post/once/)."
 
 ## 同义词
-- [fatal](/post/fatal/)
+- [fatal](/zh/post/fatal/)
 - lethal
-- [mortal](/post/mortal/)
+- [mortal](/zh/post/mortal/)
 - devastating
-- [extremely](/post/extremely/)
+- [extremely](/zh/post/extremely/)

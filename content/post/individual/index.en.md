@@ -7,33 +7,33 @@ description = '[ˌindiˈvidjuəl] a.个别的；独特的'
 keywords = ['ai words', 'individual']
 +++
 
-## [Word](/en/post/word/): [Individual](/en/post/individual/)
+## [Word](/post/word/): [Individual](/post/individual/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɪndɪˈvɪdʒuəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [single](/en/post/single/) [person](/en/post/person/) considered [separately](/en/post/separately/) [from](/en/post/from/) others; [a](/en/post/a/) [distinct](/en/post/distinct/) [being](/en/post/being/) [or](/en/post/or/) entity. [Example](/en/post/example/): "[Each](/en/post/each/) [individual](/en/post/individual/) has [their](/en/post/their/) [own](/en/post/own/) [unique](/en/post/unique/) [set](/en/post/set/) [of](/en/post/of/) talents."
-  - _As [a](/en/post/a/) countable noun_: "[The](/en/post/the/) individuals [in](/en/post/in/) [the](/en/post/the/) [group](/en/post/group/) had [different](/en/post/different/) opinions."
-  - _As an uncountable [noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))_: "Individuality is [what](/en/post/what/) sets [us](/en/post/us/) [apart](/en/post/apart/) [from](/en/post/from/) [one](/en/post/one/) [another](/en/post/another/)."
-- **[Adjective](/en/post/adjective/)**: [Separate](/en/post/separate/); [distinct](/en/post/distinct/); [not](/en/post/not/) shared [by](/en/post/by/) others. [Example](/en/post/example/): "[Each](/en/post/each/) [student](/en/post/student/) has [their](/en/post/their/) [individual](/en/post/individual/) [learning](/en/post/learning/) [style](/en/post/style/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [single](/post/single/) [person](/post/person/) considered [separately](/post/separately/) [from](/post/from/) others; [a](/post/a/) [distinct](/post/distinct/) [being](/post/being/) [or](/post/or/) entity. [Example](/post/example/): "[Each](/post/each/) [individual](/post/individual/) has [their](/post/their/) [own](/post/own/) [unique](/post/unique/) [set](/post/set/) [of](/post/of/) talents."
+  - _As [a](/post/a/) countable noun_: "[The](/post/the/) individuals [in](/post/in/) [the](/post/the/) [group](/post/group/) had [different](/post/different/) opinions."
+  - _As an uncountable [noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))_: "Individuality is [what](/post/what/) sets [us](/post/us/) [apart](/post/apart/) [from](/post/from/) [one](/post/one/) [another](/post/another/)."
+- **[Adjective](/post/adjective/)**: [Separate](/post/separate/); [distinct](/post/distinct/); [not](/post/not/) shared [by](/post/by/) others. [Example](/post/example/): "[Each](/post/each/) [student](/post/student/) has [their](/post/their/) [individual](/post/individual/) [learning](/post/learning/) [style](/post/style/)."
 
 ## Phrases
-- "[As](/en/post/as/) an [individual](/en/post/individual/)": Referring [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [in](/en/post/in/) isolation [from](/en/post/from/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [collective](/en/post/collective/).
-- "[Individual](/en/post/individual/) rights": Rights [that](/en/post/that/) [belong](/en/post/belong/) [to](/en/post/to/) [each](/en/post/each/) [person](/en/post/person/) [as](/en/post/as/) [a](/en/post/a/) [separate](/en/post/separate/) entity.
-- "[In](/en/post/in/) [the](/en/post/the/) [individual](/en/post/individual/) sports category": Referring [to](/en/post/to/) sports [where](/en/post/where/) athletes [compete](/en/post/compete/) [on](/en/post/on/) [their](/en/post/their/) [own](/en/post/own/) [rather](/en/post/rather/) [than](/en/post/than/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [team](/en/post/team/).
+- "[As](/post/as/) an [individual](/post/individual/)": Referring [to](/post/to/) [a](/post/a/) [person](/post/person/) [in](/post/in/) isolation [from](/post/from/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [collective](/post/collective/).
+- "[Individual](/post/individual/) rights": Rights [that](/post/that/) [belong](/post/belong/) [to](/post/to/) [each](/post/each/) [person](/post/person/) [as](/post/as/) [a](/post/a/) [separate](/post/separate/) entity.
+- "[In](/post/in/) [the](/post/the/) [individual](/post/individual/) sports category": Referring [to](/post/to/) sports [where](/post/where/) athletes [compete](/post/compete/) [on](/post/on/) [their](/post/their/) [own](/post/own/) [rather](/post/rather/) [than](/post/than/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [team](/post/team/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) [policy](/en/post/policy/) applies [to](/en/post/to/) [all](/en/post/all/) employees, [regardless](/en/post/regardless/) [of](/en/post/of/) [their](/en/post/their/) [individual](/en/post/individual/) roles."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) values [her](/en/post/her/) [individual](/en/post/individual/) [freedom](/en/post/freedom/) [to](/en/post/to/) [make](/en/post/make/) [personal](/en/post/personal/) choices."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) [policy](/post/policy/) applies [to](/post/to/) [all](/post/all/) employees, [regardless](/post/regardless/) [of](/post/of/) [their](/post/their/) [individual](/post/individual/) roles."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) values [her](/post/her/) [individual](/post/individual/) [freedom](/post/freedom/) [to](/post/to/) [make](/post/make/) [personal](/post/personal/) choices."
 
 ## Synonyms
-- [Person](/en/post/person/)
-- [Human](/en/post/human/) [being](/en/post/being/)
+- [Person](/post/person/)
+- [Human](/post/human/) [being](/post/being/)
 - Entity
-- [Single](/en/post/single/)
-- [Unique](/en/post/unique/)
-- [Separate](/en/post/separate/)
-- [Distinct](/en/post/distinct/)
-- [Singular](/en/post/singular/)
-- [Specific](/en/post/specific/) ([as](/en/post/as/) an [adjective](/en/post/adjective/))
+- [Single](/post/single/)
+- [Unique](/post/unique/)
+- [Separate](/post/separate/)
+- [Distinct](/post/distinct/)
+- [Singular](/post/singular/)
+- [Specific](/post/specific/) ([as](/post/as/) an [adjective](/post/adjective/))

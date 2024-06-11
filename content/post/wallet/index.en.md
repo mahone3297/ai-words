@@ -7,37 +7,37 @@ description = '[ˈwɔlit] n.钱包，皮夹子'
 keywords = ['ai words', 'wallet']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wɒlɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [wallet](/en/post/wallet/)** (n): [A](/en/post/a/) [small](/en/post/small/), [usually](/en/post/usually/) [leather](/en/post/leather/) [or](/en/post/or/) [fabric](/en/post/fabric/) [container](/en/post/container/) [used](/en/post/used/) [to](/en/post/to/) [carry](/en/post/carry/) [money](/en/post/money/), [credit](/en/post/credit/) cards, identification, [and](/en/post/and/) [other](/en/post/other/) [small](/en/post/small/) [personal](/en/post/personal/) items.
-   - [Definition](/en/post/definition/): An [item](/en/post/item/) [that](/en/post/that/) holds [financial](/en/post/financial/) documents [and](/en/post/and/) [personal](/en/post/personal/) belongings, typically carried [in](/en/post/in/) one's [pocket](/en/post/pocket/) [or](/en/post/or/) [purse](/en/post/purse/).
-   - [Example](/en/post/example/): "I [put](/en/post/put/) [my](/en/post/my/) [wallet](/en/post/wallet/) [in](/en/post/in/) [my](/en/post/my/) [back](/en/post/back/) [pocket](/en/post/pocket/) [before](/en/post/before/) leaving [the](/en/post/the/) [house](/en/post/house/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [wallet](/post/wallet/)** (n): [A](/post/a/) [small](/post/small/), [usually](/post/usually/) [leather](/post/leather/) [or](/post/or/) [fabric](/post/fabric/) [container](/post/container/) [used](/post/used/) [to](/post/to/) [carry](/post/carry/) [money](/post/money/), [credit](/post/credit/) cards, identification, [and](/post/and/) [other](/post/other/) [small](/post/small/) [personal](/post/personal/) items.
+   - [Definition](/post/definition/): An [item](/post/item/) [that](/post/that/) holds [financial](/post/financial/) documents [and](/post/and/) [personal](/post/personal/) belongings, typically carried [in](/post/in/) one's [pocket](/post/pocket/) [or](/post/or/) [purse](/post/purse/).
+   - [Example](/post/example/): "I [put](/post/put/) [my](/post/my/) [wallet](/post/wallet/) [in](/post/in/) [my](/post/my/) [back](/post/back/) [pocket](/post/pocket/) [before](/post/before/) leaving [the](/post/the/) [house](/post/house/)."
 
-2. [Slang] **[A](/en/post/a/) person's finances** (n): Refers [to](/en/post/to/) [their](/en/post/their/) [money](/en/post/money/) [and](/en/post/and/) assets.
-   - [Definition](/en/post/definition/): [The](/en/post/the/) [sum](/en/post/sum/) [of](/en/post/of/) [money](/en/post/money/) [and](/en/post/and/) assets [a](/en/post/a/) [person](/en/post/person/) possesses, [often](/en/post/often/) metaphorically [used](/en/post/used/).
-   - [Example](/en/post/example/): "[After](/en/post/after/) losing [his](/en/post/his/) [job](/en/post/job/), [he](/en/post/he/) had [to](/en/post/to/) downsize [his](/en/post/his/) [wallet](/en/post/wallet/)."
+2. [Slang] **[A](/post/a/) person's finances** (n): Refers [to](/post/to/) [their](/post/their/) [money](/post/money/) [and](/post/and/) assets.
+   - [Definition](/post/definition/): [The](/post/the/) [sum](/post/sum/) [of](/post/of/) [money](/post/money/) [and](/post/and/) assets [a](/post/a/) [person](/post/person/) possesses, [often](/post/often/) metaphorically [used](/post/used/).
+   - [Example](/post/example/): "[After](/post/after/) losing [his](/post/his/) [job](/post/job/), [he](/post/he/) had [to](/post/to/) downsize [his](/post/his/) [wallet](/post/wallet/)."
 
-### [Verb](/en/post/verb/)
-- [Not](/en/post/not/) [a](/en/post/a/) [common](/en/post/common/) [verb](/en/post/verb/) [in](/en/post/in/) [its](/en/post/its/) [standard](/en/post/standard/) [form](/en/post/form/), [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/) [to](/en/post/to/) [describe](/en/post/describe/) managing [or](/en/post/or/) organizing one's finances.
-   - [Example](/en/post/example/): "She's [really](/en/post/really/) [good](/en/post/good/) [at](/en/post/at/) keeping [her](/en/post/her/) [financial](/en/post/financial/) [wallet](/en/post/wallet/) [in](/en/post/in/) [order](/en/post/order/)."
+### [Verb](/post/verb/)
+- [Not](/post/not/) [a](/post/a/) [common](/post/common/) [verb](/post/verb/) [in](/post/in/) [its](/post/its/) [standard](/post/standard/) [form](/post/form/), [but](/post/but/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/) [to](/post/to/) [describe](/post/describe/) managing [or](/post/or/) organizing one's finances.
+   - [Example](/post/example/): "She's [really](/post/really/) [good](/post/good/) [at](/post/at/) keeping [her](/post/her/) [financial](/post/financial/) [wallet](/post/wallet/) [in](/post/in/) [order](/post/order/)."
 
 ## Phrases
-- "[Carry](/en/post/carry/) [a](/en/post/a/) [wallet](/en/post/wallet/)" [or](/en/post/or/) "[hold](/en/post/hold/) [a](/en/post/a/) [wallet](/en/post/wallet/)"
-- "[Keep](/en/post/keep/) [your](/en/post/your/) [wallet](/en/post/wallet/) [secure](/en/post/secure/)"
-- "[Empty](/en/post/empty/) [your](/en/post/your/) [wallet](/en/post/wallet/)" ([to](/en/post/to/) [spend](/en/post/spend/) [all](/en/post/all/) one's [money](/en/post/money/))
+- "[Carry](/post/carry/) [a](/post/a/) [wallet](/post/wallet/)" [or](/post/or/) "[hold](/post/hold/) [a](/post/a/) [wallet](/post/wallet/)"
+- "[Keep](/post/keep/) [your](/post/your/) [wallet](/post/wallet/) [secure](/post/secure/)"
+- "[Empty](/post/empty/) [your](/post/your/) [wallet](/post/wallet/)" ([to](/post/to/) [spend](/post/spend/) [all](/post/all/) one's [money](/post/money/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) took [out](/en/post/out/) [his](/en/post/his/) [wallet](/en/post/wallet/) [to](/en/post/to/) [pay](/en/post/pay/) [for](/en/post/for/) [the](/en/post/the/) [coffee](/en/post/coffee/)."
-- **Slang**: "[After](/en/post/after/) [a](/en/post/a/) [few](/en/post/few/) months [on](/en/post/on/) [a](/en/post/a/) [tight](/en/post/tight/) budget, [she](/en/post/she/) had [to](/en/post/to/) [cut](/en/post/cut/) [back](/en/post/back/) [on](/en/post/on/) [her](/en/post/her/) spending [to](/en/post/to/) [lighten](/en/post/lighten/) [her](/en/post/her/) [financial](/en/post/financial/) [wallet](/en/post/wallet/)."
-- **[Verb](/en/post/verb/)**: "She's known [for](/en/post/for/) [being](/en/post/being/) frugal, [always](/en/post/always/) keeping [a](/en/post/a/) [close](/en/post/close/) [eye](/en/post/eye/) [on](/en/post/on/) [her](/en/post/her/) [wallet](/en/post/wallet/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) took [out](/post/out/) [his](/post/his/) [wallet](/post/wallet/) [to](/post/to/) [pay](/post/pay/) [for](/post/for/) [the](/post/the/) [coffee](/post/coffee/)."
+- **Slang**: "[After](/post/after/) [a](/post/a/) [few](/post/few/) months [on](/post/on/) [a](/post/a/) [tight](/post/tight/) budget, [she](/post/she/) had [to](/post/to/) [cut](/post/cut/) [back](/post/back/) [on](/post/on/) [her](/post/her/) spending [to](/post/to/) [lighten](/post/lighten/) [her](/post/her/) [financial](/post/financial/) [wallet](/post/wallet/)."
+- **[Verb](/post/verb/)**: "She's known [for](/post/for/) [being](/post/being/) frugal, [always](/post/always/) keeping [a](/post/a/) [close](/post/close/) [eye](/post/eye/) [on](/post/on/) [her](/post/her/) [wallet](/post/wallet/)."
 
 ## Synonyms
-- [Purse](/en/post/purse/) ([for](/en/post/for/) women)
+- [Purse](/post/purse/) ([for](/post/for/) women)
 - Billfold
-- Portfolio ([for](/en/post/for/) carrying [important](/en/post/important/) documents)
-- [Wallet](/en/post/wallet/) [case](/en/post/case/)
+- Portfolio ([for](/post/for/) carrying [important](/post/important/) documents)
+- [Wallet](/post/wallet/) [case](/post/case/)
 - Cashbox
-- Finances ([in](/en/post/in/) [a](/en/post/a/) [general](/en/post/general/) [sense](/en/post/sense/))
+- Finances ([in](/post/in/) [a](/post/a/) [general](/post/general/) [sense](/post/sense/))

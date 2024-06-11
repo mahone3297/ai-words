@@ -7,27 +7,27 @@ description = '[ˈautset] n.开始，开端'
 keywords = ['ai words', 'outset']
 +++
 
-## [Word](/en/post/word/): [Outset](/en/post/outset/)
+## [Word](/post/word/): [Outset](/post/outset/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaʊtˌsɛt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [beginning](/en/post/beginning/) [or](/en/post/or/) [start](/en/post/start/) [of](/en/post/of/) [something](/en/post/something/); [the](/en/post/the/) [initial](/en/post/initial/) [stage](/en/post/stage/). [For](/en/post/for/) [example](/en/post/example/): "[From](/en/post/from/) [the](/en/post/the/) [outset](/en/post/outset/), [it](/en/post/it/) was [clear](/en/post/clear/) [that](/en/post/that/) [the](/en/post/the/) [project](/en/post/project/) [would](/en/post/would/) [be](/en/post/be/) challenging."
+- **[Noun](/post/noun/)**: [The](/post/the/) [beginning](/post/beginning/) [or](/post/or/) [start](/post/start/) [of](/post/of/) [something](/post/something/); [the](/post/the/) [initial](/post/initial/) [stage](/post/stage/). [For](/post/for/) [example](/post/example/): "[From](/post/from/) [the](/post/the/) [outset](/post/outset/), [it](/post/it/) was [clear](/post/clear/) [that](/post/that/) [the](/post/the/) [project](/post/project/) [would](/post/would/) [be](/post/be/) challenging."
 
-  - [Phrase](/en/post/phrase/): "[from](/en/post/from/) [the](/en/post/the/) [outset](/en/post/outset/)" [means](/en/post/means/) [from](/en/post/from/) [the](/en/post/the/) [very](/en/post/very/) [beginning](/en/post/beginning/) [or](/en/post/or/) [at](/en/post/at/) [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[From](/en/post/from/) [the](/en/post/the/) [outset](/en/post/outset/), [they](/en/post/they/) knew [it](/en/post/it/) wouldn't [be](/en/post/be/) an [easy](/en/post/easy/) [task](/en/post/task/)."
+  - [Phrase](/post/phrase/): "[from](/post/from/) [the](/post/the/) [outset](/post/outset/)" [means](/post/means/) [from](/post/from/) [the](/post/the/) [very](/post/very/) [beginning](/post/beginning/) [or](/post/or/) [at](/post/at/) [the](/post/the/) [start](/post/start/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[From](/post/from/) [the](/post/the/) [outset](/post/outset/), [they](/post/they/) knew [it](/post/it/) wouldn't [be](/post/be/) an [easy](/post/easy/) [task](/post/task/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[At](/en/post/at/) [the](/en/post/the/) [outset](/en/post/outset/) [of](/en/post/of/) [her](/en/post/her/) [career](/en/post/career/), [she](/en/post/she/) decided [to](/en/post/to/) [specialize](/en/post/specialize/) [in](/en/post/in/) environmental [law](/en/post/law/)."
-- "[They](/en/post/they/) planned [their](/en/post/their/) [strategy](/en/post/strategy/) [well](/en/post/well/) [from](/en/post/from/) [the](/en/post/the/) [outset](/en/post/outset/) [to](/en/post/to/) [ensure](/en/post/ensure/) [success](/en/post/success/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[At](/post/at/) [the](/post/the/) [outset](/post/outset/) [of](/post/of/) [her](/post/her/) [career](/post/career/), [she](/post/she/) decided [to](/post/to/) [specialize](/post/specialize/) [in](/post/in/) environmental [law](/post/law/)."
+- "[They](/post/they/) planned [their](/post/their/) [strategy](/post/strategy/) [well](/post/well/) [from](/post/from/) [the](/post/the/) [outset](/post/outset/) [to](/post/to/) [ensure](/post/ensure/) [success](/post/success/)."
 
 ## Synonyms
-- [Beginning](/en/post/beginning/)
-- [Start](/en/post/start/)
+- [Beginning](/post/beginning/)
+- [Start](/post/start/)
 - Commencement
 - Initiation
-- [Dawn](/en/post/dawn/)
+- [Dawn](/post/dawn/)
 - Threshold
 - Kickoff
 
-[Note](/en/post/note/): [Unlike](/en/post/unlike/) [your](/en/post/your/) [example](/en/post/example/) [prompt](/en/post/prompt/), "[outset](/en/post/outset/)" is typically [only](/en/post/only/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [and](/en/post/and/) does [not](/en/post/not/) [have](/en/post/have/) [verb](/en/post/verb/) [or](/en/post/or/) [other](/en/post/other/) part-of-speech usages [with](/en/post/with/) [separate](/en/post/separate/) definitions.
+[Note](/post/note/): [Unlike](/post/unlike/) [your](/post/your/) [example](/post/example/) [prompt](/post/prompt/), "[outset](/post/outset/)" is typically [only](/post/only/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [and](/post/and/) does [not](/post/not/) [have](/post/have/) [verb](/post/verb/) [or](/post/or/) [other](/post/other/) part-of-speech usages [with](/post/with/) [separate](/post/separate/) definitions.

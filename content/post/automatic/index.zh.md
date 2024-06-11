@@ -11,17 +11,17 @@ keywords = ['ai words', 'automatic']
 /ˌɔːtəˈmætɪk/
 
 ## 释义
-- **形容词**: 自动的；无需人工操作的；由机器控制的。例如: "[The](/post/the/) [new](/post/new/) [car](/post/car/) has an [automatic](/post/automatic/) [transmission](/post/transmission/)."
-- **名词**: 自动装置；自动化设备。例如: "[He](/post/he/) installed an [automatic](/post/automatic/) sprinkler [system](/post/system/) [in](/post/in/) [his](/post/his/) [garden](/post/garden/)."
+- **形容词**: 自动的；无需人工操作的；由机器控制的。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [car](/zh/post/car/) has an [automatic](/zh/post/automatic/) [transmission](/zh/post/transmission/)."
+- **名词**: 自动装置；自动化设备。例如: "[He](/zh/post/he/) installed an [automatic](/zh/post/automatic/) sprinkler [system](/zh/post/system/) [in](/zh/post/in/) [his](/zh/post/his/) [garden](/zh/post/garden/)."
 
 ## 短语
-- "[Automatic](/post/automatic/) [weapon](/post/weapon/)" 指自动射击的武器。
-- "[Automatic](/post/automatic/) [pilot](/post/pilot/)" 在飞机或船只上指自动驾驶系统。
-- "[On](/post/on/) [automatic](/post/automatic/)" 意味着在自动模式下运行。
+- "[Automatic](/zh/post/automatic/) [weapon](/zh/post/weapon/)" 指自动射击的武器。
+- "[Automatic](/zh/post/automatic/) [pilot](/zh/post/pilot/)" 在飞机或船只上指自动驾驶系统。
+- "[On](/zh/post/on/) [automatic](/zh/post/automatic/)" 意味着在自动模式下运行。
 
 ## 例句
-- 形容词: "[The](/post/the/) [factory](/post/factory/) uses robots [for](/post/for/) [many](/post/many/) [of](/post/of/) [its](/post/its/) [automatic](/post/automatic/) processes."
-- 名词: "[The](/post/the/) bank's ATM is an [automatic](/post/automatic/) teller [machine](/post/machine/)."
+- 形容词: "[The](/zh/post/the/) [factory](/zh/post/factory/) uses robots [for](/zh/post/for/) [many](/zh/post/many/) [of](/zh/post/of/) [its](/zh/post/its/) [automatic](/zh/post/automatic/) processes."
+- 名词: "[The](/zh/post/the/) bank's ATM is an [automatic](/zh/post/automatic/) teller [machine](/zh/post/machine/)."
 
 ## 同义词
 - Self-acting

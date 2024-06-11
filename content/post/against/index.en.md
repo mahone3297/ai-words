@@ -7,32 +7,32 @@ description = '[əˈgeinst] prep.倚在；逆，对着'
 keywords = ['ai words', 'against']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈɡaɪnst/
 
 ## Definitions
-### [Adverb](/en/post/adverb/)
-1. [Opposite](/en/post/opposite/) [or](/en/post/or/) [in](/en/post/in/) opposition [to](/en/post/to/); contrarily. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) stood [up](/en/post/up/) [for](/en/post/for/) [his](/en/post/his/) rights [against](/en/post/against/) injustice."
-2. [In](/en/post/in/) [the](/en/post/the/) [face](/en/post/face/) [of](/en/post/of/); [with](/en/post/with/) [resistance](/en/post/resistance/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) fought [against](/en/post/against/) [the](/en/post/the/) [current](/en/post/current/) [to](/en/post/to/) [stay](/en/post/stay/) afloat."
-3. [As](/en/post/as/) [a](/en/post/a/) defense; [in](/en/post/in/) self-defense. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) defendant argued [that](/en/post/that/) [they](/en/post/they/) acted [in](/en/post/in/) self-defense [against](/en/post/against/) [the](/en/post/the/) attacker."
+### [Adverb](/post/adverb/)
+1. [Opposite](/post/opposite/) [or](/post/or/) [in](/post/in/) opposition [to](/post/to/); contrarily. [For](/post/for/) [example](/post/example/): "[He](/post/he/) stood [up](/post/up/) [for](/post/for/) [his](/post/his/) rights [against](/post/against/) injustice."
+2. [In](/post/in/) [the](/post/the/) [face](/post/face/) [of](/post/of/); [with](/post/with/) [resistance](/post/resistance/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) fought [against](/post/against/) [the](/post/the/) [current](/post/current/) [to](/post/to/) [stay](/post/stay/) afloat."
+3. [As](/post/as/) [a](/post/a/) defense; [in](/post/in/) self-defense. [For](/post/for/) [example](/post/example/): "[The](/post/the/) defendant argued [that](/post/that/) [they](/post/they/) acted [in](/post/in/) self-defense [against](/post/against/) [the](/post/the/) attacker."
 
-### [Preposition](/en/post/preposition/)
-1. Opposed [to](/en/post/to/); [in](/en/post/in/) [contrast](/en/post/contrast/) [to](/en/post/to/). [For](/en/post/for/) [example](/en/post/example/): "I [prefer](/en/post/prefer/) [red](/en/post/red/) [over](/en/post/over/) [blue](/en/post/blue/), [but](/en/post/but/) [he](/en/post/he/) likes [blue](/en/post/blue/) [against](/en/post/against/) [black](/en/post/black/)."
-2. Opposing [or](/en/post/or/) countering [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) arguments were [often](/en/post/often/) [against](/en/post/against/) [each](/en/post/each/) other's proposals."
+### [Preposition](/post/preposition/)
+1. Opposed [to](/post/to/); [in](/post/in/) [contrast](/post/contrast/) [to](/post/to/). [For](/post/for/) [example](/post/example/): "I [prefer](/post/prefer/) [red](/post/red/) [over](/post/over/) [blue](/post/blue/), [but](/post/but/) [he](/post/he/) likes [blue](/post/blue/) [against](/post/against/) [black](/post/black/)."
+2. Opposing [or](/post/or/) countering [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Their](/post/their/) arguments were [often](/post/often/) [against](/post/against/) [each](/post/each/) other's proposals."
 
 ## Phrases
-- "[Stand](/en/post/stand/) [up](/en/post/up/) [for](/en/post/for/) [oneself](/en/post/oneself/) [against](/en/post/against/)" [means](/en/post/means/) [to](/en/post/to/) [defend](/en/post/defend/) [oneself](/en/post/oneself/) [against](/en/post/against/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/).
-- "[In](/en/post/in/) defense [against](/en/post/against/)" indicates [protection](/en/post/protection/) [from](/en/post/from/) [or](/en/post/or/) opposition [to](/en/post/to/).
-- "Counterarguments [against](/en/post/against/)" refers [to](/en/post/to/) opposing views [or](/en/post/or/) reasons given [to](/en/post/to/) [refute](/en/post/refute/) [something](/en/post/something/).
+- "[Stand](/post/stand/) [up](/post/up/) [for](/post/for/) [oneself](/post/oneself/) [against](/post/against/)" [means](/post/means/) [to](/post/to/) [defend](/post/defend/) [oneself](/post/oneself/) [against](/post/against/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/).
+- "[In](/post/in/) defense [against](/post/against/)" indicates [protection](/post/protection/) [from](/post/from/) [or](/post/or/) opposition [to](/post/to/).
+- "Counterarguments [against](/post/against/)" refers [to](/post/to/) opposing views [or](/post/or/) reasons given [to](/post/to/) [refute](/post/refute/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- "[He](/en/post/he/) was determined [to](/en/post/to/) [fight](/en/post/fight/) [against](/en/post/against/) [poverty](/en/post/poverty/) [in](/en/post/in/) [his](/en/post/his/) [community](/en/post/community/)."
-- "[She](/en/post/she/) locked [her](/en/post/her/) [door](/en/post/door/) [against](/en/post/against/) intruders."
-- "[The](/en/post/the/) [team](/en/post/team/) organized [a](/en/post/a/) [strong](/en/post/strong/) defense [against](/en/post/against/) [their](/en/post/their/) rivals' [attack](/en/post/attack/)."
+## [Example](/post/example/) Sentences
+- "[He](/post/he/) was determined [to](/post/to/) [fight](/post/fight/) [against](/post/against/) [poverty](/post/poverty/) [in](/post/in/) [his](/post/his/) [community](/post/community/)."
+- "[She](/post/she/) locked [her](/post/her/) [door](/post/door/) [against](/post/against/) intruders."
+- "[The](/post/the/) [team](/post/team/) organized [a](/post/a/) [strong](/post/strong/) defense [against](/post/against/) [their](/post/their/) rivals' [attack](/post/attack/)."
 
 ## Synonyms
-- [Oppose](/en/post/oppose/)
-- [Counter](/en/post/counter/)
+- [Oppose](/post/oppose/)
+- [Counter](/post/counter/)
 -抵制
 - Opposing
 - Contra

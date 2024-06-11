@@ -7,40 +7,40 @@ description = '[ˈjuːnit] n.单位；单元；部件'
 keywords = ['ai words', 'unit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjuːnɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [single](/en/post/single/), self-contained [item](/en/post/item/) [or](/en/post/or/) [component](/en/post/component/) [that](/en/post/that/) forms [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) larger [system](/en/post/system/) [or](/en/post/or/) [structure](/en/post/structure/), [often](/en/post/often/) having [a](/en/post/a/) [specific](/en/post/specific/) [function](/en/post/function/) [or](/en/post/or/) [purpose](/en/post/purpose/). **[Example](/en/post/example/)**: "[The](/en/post/the/) building's [design](/en/post/design/) consists [of](/en/post/of/) modular units [for](/en/post/for/) [easy](/en/post/easy/) rearrangement."
-2. [A](/en/post/a/) [standard](/en/post/standard/) [measure](/en/post/measure/) [of](/en/post/of/) [quantity](/en/post/quantity/) [or](/en/post/or/) [value](/en/post/value/), [especially](/en/post/especially/) [in](/en/post/in/) [science](/en/post/science/), [engineering](/en/post/engineering/), [or](/en/post/or/) computing. **[Example](/en/post/example/)**: "[A](/en/post/a/) byte is [a](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [digital](/en/post/digital/) [information](/en/post/information/)."
-3. [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [group](/en/post/group/) functioning [as](/en/post/as/) [a](/en/post/a/) [single](/en/post/single/) entity, [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) shared [goal](/en/post/goal/) [or](/en/post/or/) [purpose](/en/post/purpose/). **[Example](/en/post/example/)**: "[The](/en/post/the/) [research](/en/post/research/) [team](/en/post/team/) worked [as](/en/post/as/) [a](/en/post/a/) cohesive [unit](/en/post/unit/)."
-4. An [element](/en/post/element/) [or](/en/post/or/) [component](/en/post/component/) [of](/en/post/of/) [a](/en/post/a/) [military](/en/post/military/) [formation](/en/post/formation/) [or](/en/post/or/) [organization](/en/post/organization/). **[Example](/en/post/example/)**: "[Each](/en/post/each/) platoon is divided [into](/en/post/into/) smaller units."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [single](/post/single/), self-contained [item](/post/item/) [or](/post/or/) [component](/post/component/) [that](/post/that/) forms [part](/post/part/) [of](/post/of/) [a](/post/a/) larger [system](/post/system/) [or](/post/or/) [structure](/post/structure/), [often](/post/often/) having [a](/post/a/) [specific](/post/specific/) [function](/post/function/) [or](/post/or/) [purpose](/post/purpose/). **[Example](/post/example/)**: "[The](/post/the/) building's [design](/post/design/) consists [of](/post/of/) modular units [for](/post/for/) [easy](/post/easy/) rearrangement."
+2. [A](/post/a/) [standard](/post/standard/) [measure](/post/measure/) [of](/post/of/) [quantity](/post/quantity/) [or](/post/or/) [value](/post/value/), [especially](/post/especially/) [in](/post/in/) [science](/post/science/), [engineering](/post/engineering/), [or](/post/or/) computing. **[Example](/post/example/)**: "[A](/post/a/) byte is [a](/post/a/) [unit](/post/unit/) [of](/post/of/) [digital](/post/digital/) [information](/post/information/)."
+3. [A](/post/a/) [person](/post/person/) [or](/post/or/) [group](/post/group/) functioning [as](/post/as/) [a](/post/a/) [single](/post/single/) entity, [often](/post/often/) [with](/post/with/) [a](/post/a/) shared [goal](/post/goal/) [or](/post/or/) [purpose](/post/purpose/). **[Example](/post/example/)**: "[The](/post/the/) [research](/post/research/) [team](/post/team/) worked [as](/post/as/) [a](/post/a/) cohesive [unit](/post/unit/)."
+4. An [element](/post/element/) [or](/post/or/) [component](/post/component/) [of](/post/of/) [a](/post/a/) [military](/post/military/) [formation](/post/formation/) [or](/post/or/) [organization](/post/organization/). **[Example](/post/example/)**: "[Each](/post/each/) platoon is divided [into](/post/into/) smaller units."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [consider](/en/post/consider/), [deal](/en/post/deal/) [with](/en/post/with/), [or](/en/post/or/) [treat](/en/post/treat/) [something](/en/post/something/) [as](/en/post/as/) [a](/en/post/a/) [single](/en/post/single/), indivisible entity [or](/en/post/or/) [component](/en/post/component/). **[Example](/en/post/example/)**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [break](/en/post/break/) [down](/en/post/down/) [the](/en/post/the/) [project](/en/post/project/) [into](/en/post/into/) smaller units [to](/en/post/to/) [manage](/en/post/manage/) [it](/en/post/it/) efficiently."
+### [Verb](/post/verb/)
+[To](/post/to/) [consider](/post/consider/), [deal](/post/deal/) [with](/post/with/), [or](/post/or/) [treat](/post/treat/) [something](/post/something/) [as](/post/as/) [a](/post/a/) [single](/post/single/), indivisible entity [or](/post/or/) [component](/post/component/). **[Example](/post/example/)**: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [break](/post/break/) [down](/post/down/) [the](/post/the/) [project](/post/project/) [into](/post/into/) smaller units [to](/post/to/) [manage](/post/manage/) [it](/post/it/) efficiently."
 
-### [Adjective](/en/post/adjective/)
-1. Designated [by](/en/post/by/) [a](/en/post/a/) [single](/en/post/single/) [number](/en/post/number/) [or](/en/post/or/) [label](/en/post/label/); [distinct](/en/post/distinct/). **[Example](/en/post/example/)**: "[Each](/en/post/each/) [apartment](/en/post/apartment/) [in](/en/post/in/) [the](/en/post/the/) [complex](/en/post/complex/) has [its](/en/post/its/) [own](/en/post/own/) [unique](/en/post/unique/) [unit](/en/post/unit/) [number](/en/post/number/)."
-2. Constituent [or](/en/post/or/) [separate](/en/post/separate/). **[Example](/en/post/example/)**: "[The](/en/post/the/) [unit](/en/post/unit/) tests [ensure](/en/post/ensure/) [each](/en/post/each/) [function](/en/post/function/) works independently."
+### [Adjective](/post/adjective/)
+1. Designated [by](/post/by/) [a](/post/a/) [single](/post/single/) [number](/post/number/) [or](/post/or/) [label](/post/label/); [distinct](/post/distinct/). **[Example](/post/example/)**: "[Each](/post/each/) [apartment](/post/apartment/) [in](/post/in/) [the](/post/the/) [complex](/post/complex/) has [its](/post/its/) [own](/post/own/) [unique](/post/unique/) [unit](/post/unit/) [number](/post/number/)."
+2. Constituent [or](/post/or/) [separate](/post/separate/). **[Example](/post/example/)**: "[The](/post/the/) [unit](/post/unit/) tests [ensure](/post/ensure/) [each](/post/each/) [function](/post/function/) works independently."
 
 ## Phrases
-- "[Operate](/en/post/operate/) [as](/en/post/as/) [a](/en/post/a/) [unit](/en/post/unit/)" [means](/en/post/means/) [to](/en/post/to/) [work](/en/post/work/) [together](/en/post/together/) seamlessly.
-- "[A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/)" refers [to](/en/post/to/) [a](/en/post/a/) [standard](/en/post/standard/) [scale](/en/post/scale/) [for](/en/post/for/) quantifying [something](/en/post/something/).
-- "[Unit](/en/post/unit/) [price](/en/post/price/)" is [the](/en/post/the/) [cost](/en/post/cost/) [per](/en/post/per/) [unit](/en/post/unit/).
+- "[Operate](/post/operate/) [as](/post/as/) [a](/post/a/) [unit](/post/unit/)" [means](/post/means/) [to](/post/to/) [work](/post/work/) [together](/post/together/) seamlessly.
+- "[A](/post/a/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/)" refers [to](/post/to/) [a](/post/a/) [standard](/post/standard/) [scale](/post/scale/) [for](/post/for/) quantifying [something](/post/something/).
+- "[Unit](/post/unit/) [price](/post/price/)" is [the](/post/the/) [cost](/post/cost/) [per](/post/per/) [unit](/post/unit/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [school](/en/post/school/) curriculum is divided [into](/en/post/into/) [several](/en/post/several/) [academic](/en/post/academic/) units."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [unite](/en/post/unite/) [their](/en/post/their/) efforts [to](/en/post/to/) [solve](/en/post/solve/) [the](/en/post/the/) [problem](/en/post/problem/)."
-- **[Adjective](/en/post/adjective/)**: "[Each](/en/post/each/) [employee](/en/post/employee/) was assigned [a](/en/post/a/) [specific](/en/post/specific/) [unit](/en/post/unit/) [to](/en/post/to/) [manage](/en/post/manage/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [school](/post/school/) curriculum is divided [into](/post/into/) [several](/post/several/) [academic](/post/academic/) units."
+- **[Verb](/post/verb/)**: "[They](/post/they/) decided [to](/post/to/) [unite](/post/unite/) [their](/post/their/) efforts [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [problem](/post/problem/)."
+- **[Adjective](/post/adjective/)**: "[Each](/post/each/) [employee](/post/employee/) was assigned [a](/post/a/) [specific](/post/specific/) [unit](/post/unit/) [to](/post/to/) [manage](/post/manage/)."
 
 ## Synonyms
 - Segment
-- [Component](/en/post/component/)
-- [Element](/en/post/element/)
-- [Part](/en/post/part/)
-- [Member](/en/post/member/)
+- [Component](/post/component/)
+- [Element](/post/element/)
+- [Part](/post/part/)
+- [Member](/post/member/)
 - Sector
 - Module
-- [Brick](/en/post/brick/) ([in](/en/post/in/) [a](/en/post/a/) larger [structure](/en/post/structure/))
-- [Cell](/en/post/cell/) ([in](/en/post/in/) [a](/en/post/a/) grid [or](/en/post/or/) [organization](/en/post/organization/))
+- [Brick](/post/brick/) ([in](/post/in/) [a](/post/a/) larger [structure](/post/structure/))
+- [Cell](/post/cell/) ([in](/post/in/) [a](/post/a/) grid [or](/post/or/) [organization](/post/organization/))

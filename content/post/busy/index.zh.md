@@ -12,19 +12,19 @@ keywords = ['ai words', 'busy']
 
 ## 释义
 - **形容词**: 忙碌的，繁忙的。表示某人或某事正忙于进行各种活动或有大量工作要处理。
-- **名词**: 忙碌的状态或时期。例如: "She's going [through](/post/through/) [a](/post/a/) [busy](/post/busy/) [period](/post/period/) [at](/post/at/) [work](/post/work/)."
+- **名词**: 忙碌的状态或时期。例如: "She's going [through](/zh/post/through/) [a](/zh/post/a/) [busy](/zh/post/busy/) [period](/zh/post/period/) [at](/zh/post/at/) [work](/zh/post/work/)."
 
 ## 短语
-- "[be](/post/be/) [busy](/post/busy/) [with](/post/with/)" 忙于做某事。例如: "I'm [busy](/post/busy/) [with](/post/with/) [my](/post/my/) homework [right](/post/right/) [now](/post/now/)."
-- "[too](/post/too/) [busy](/post/busy/) [to](/post/to/)" 太忙而无法做某事。例如: "I'm [too](/post/too/) [busy](/post/busy/) [to](/post/to/) [go](/post/go/) [out](/post/out/) [tonight](/post/tonight/)."
+- "[be](/zh/post/be/) [busy](/zh/post/busy/) [with](/zh/post/with/)" 忙于做某事。例如: "I'm [busy](/zh/post/busy/) [with](/zh/post/with/) [my](/zh/post/my/) homework [right](/zh/post/right/) [now](/zh/post/now/)."
+- "[too](/zh/post/too/) [busy](/zh/post/busy/) [to](/zh/post/to/)" 太忙而无法做某事。例如: "I'm [too](/zh/post/too/) [busy](/zh/post/busy/) [to](/zh/post/to/) [go](/zh/post/go/) [out](/zh/post/out/) [tonight](/zh/post/tonight/)."
 
 ## 例句
-- 形容词: "She's [always](/post/always/) [busy](/post/busy/) juggling [her](/post/her/) [job](/post/job/) [and](/post/and/) [family](/post/family/) responsibilities."
-- 名词: "[The](/post/the/) [restaurant](/post/restaurant/) is [usually](/post/usually/) [very](/post/very/) [busy](/post/busy/) [during](/post/during/) lunchtime."
+- 形容词: "She's [always](/zh/post/always/) [busy](/zh/post/busy/) juggling [her](/zh/post/her/) [job](/zh/post/job/) [and](/zh/post/and/) [family](/zh/post/family/) responsibilities."
+- 名词: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) is [usually](/zh/post/usually/) [very](/zh/post/very/) [busy](/zh/post/busy/) [during](/zh/post/during/) lunchtime."
 
 ## 同义词
 - occupied
 - hectic
 - engaged
-- [active](/post/active/)
+- [active](/zh/post/active/)
 - swamped

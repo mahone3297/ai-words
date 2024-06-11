@@ -7,44 +7,44 @@ description = '[vɔlˈkeinəu] n.火山'
 keywords = ['ai words', 'volcano']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vəˈkɑːləʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [volcano](/en/post/volcano/) is [a](/en/post/a/) geological [feature](/en/post/feature/) characterized [by](/en/post/by/) [its](/en/post/its/) [ability](/en/post/ability/) [to](/en/post/to/) erupt, typically [through](/en/post/through/) [the](/en/post/the/) vent [of](/en/post/of/) [a](/en/post/a/) magma [chamber](/en/post/chamber/), expelling lava, [ash](/en/post/ash/), [and](/en/post/and/) gases. Volcanoes are formed [when](/en/post/when/) tectonic plates interact, causing magma [to](/en/post/to/) [rise](/en/post/rise/) [to](/en/post/to/) [the](/en/post/the/) Earth's [surface](/en/post/surface/).
+### [Noun](/post/noun/)
+[A](/post/a/) [volcano](/post/volcano/) is [a](/post/a/) geological [feature](/post/feature/) characterized [by](/post/by/) [its](/post/its/) [ability](/post/ability/) [to](/post/to/) erupt, typically [through](/post/through/) [the](/post/the/) vent [of](/post/of/) [a](/post/a/) magma [chamber](/post/chamber/), expelling lava, [ash](/post/ash/), [and](/post/and/) gases. Volcanoes are formed [when](/post/when/) tectonic plates interact, causing magma [to](/post/to/) [rise](/post/rise/) [to](/post/to/) [the](/post/the/) Earth's [surface](/post/surface/).
 
-### [Verb](/en/post/verb/) (Transitive)
-[To](/en/post/to/) [become](/en/post/become/) [active](/en/post/active/) [as](/en/post/as/) [a](/en/post/a/) [volcano](/en/post/volcano/); erupt. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [volcano](/en/post/volcano/) [suddenly](/en/post/suddenly/) erupted, spewing lava [across](/en/post/across/) [the](/en/post/the/) landscape."
-### [Adjective](/en/post/adjective/)
-Related [to](/en/post/to/) [or](/en/post/or/) denoting [a](/en/post/a/) [volcano](/en/post/volcano/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) volcanic landscape was [both](/en/post/both/) awe-inspiring [and](/en/post/and/) [dangerous](/en/post/dangerous/)."
+### [Verb](/post/verb/) (Transitive)
+[To](/post/to/) [become](/post/become/) [active](/post/active/) [as](/post/as/) [a](/post/a/) [volcano](/post/volcano/); erupt. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [volcano](/post/volcano/) [suddenly](/post/suddenly/) erupted, spewing lava [across](/post/across/) [the](/post/the/) landscape."
+### [Adjective](/post/adjective/)
+Related [to](/post/to/) [or](/post/or/) denoting [a](/post/a/) [volcano](/post/volcano/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) volcanic landscape was [both](/post/both/) awe-inspiring [and](/post/and/) [dangerous](/post/dangerous/)."
 
 ## Phrases
-- "Volcanic eruption" describes [the](/en/post/the/) [event](/en/post/event/) [of](/en/post/of/) [a](/en/post/a/) [volcano](/en/post/volcano/) releasing [its](/en/post/its/) contents.
-- "Volcanic [ash](/en/post/ash/)" refers [to](/en/post/to/) [the](/en/post/the/) [fine](/en/post/fine/) particles expelled [during](/en/post/during/) an eruption.
-- "Volcanic [activity](/en/post/activity/)" signifies ongoing volcanic processes.
+- "Volcanic eruption" describes [the](/post/the/) [event](/post/event/) [of](/post/of/) [a](/post/a/) [volcano](/post/volcano/) releasing [its](/post/its/) contents.
+- "Volcanic [ash](/post/ash/)" refers [to](/post/to/) [the](/post/the/) [fine](/post/fine/) particles expelled [during](/post/during/) an eruption.
+- "Volcanic [activity](/post/activity/)" signifies ongoing volcanic processes.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) dormant [volcano](/en/post/volcano/) [on](/en/post/on/) [the](/en/post/the/) [island](/en/post/island/) had been [active](/en/post/active/) [for](/en/post/for/) centuries."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [recent](/en/post/recent/) volcanic eruption forced thousands [to](/en/post/to/) evacuate [their](/en/post/their/) homes."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) volcanic terrain created [unique](/en/post/unique/) ecosystems [with](/en/post/with/) adapted plants [and](/en/post/and/) animals."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) dormant [volcano](/post/volcano/) [on](/post/on/) [the](/post/the/) [island](/post/island/) had been [active](/post/active/) [for](/post/for/) centuries."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [recent](/post/recent/) volcanic eruption forced thousands [to](/post/to/) evacuate [their](/post/their/) homes."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) volcanic terrain created [unique](/post/unique/) ecosystems [with](/post/with/) adapted plants [and](/post/and/) animals."
 
 ## Synonyms
 - Eruptive
 - Lava-spewing
-- Volcanic [flow](/en/post/flow/)
+- Volcanic [flow](/post/flow/)
 - Geothermal
 - Strombolian
-- Hekla-like (referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [type](/en/post/type/) [of](/en/post/of/) [explosive](/en/post/explosive/) eruption)
+- Hekla-like (referring [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [type](/post/type/) [of](/post/of/) [explosive](/post/explosive/) eruption)
 
 ## Related Terms
 - Eruption
 - Magma
 - Lava
-- Tectonic [plate](/en/post/plate/)
+- Tectonic [plate](/post/plate/)
 - Volcanic vent
 - Stratovolcano
 - Cinder cone
 - Caldera
-- Volcanic [hazard](/en/post/hazard/)
-- Volcanic [ash](/en/post/ash/) [fall](/en/post/fall/)
+- Volcanic [hazard](/post/hazard/)
+- Volcanic [ash](/post/ash/) [fall](/post/fall/)

@@ -7,28 +7,28 @@ description = '[ˌpɔːtjuˈgiːz] n.葡萄牙人/语'
 keywords = ['ai words', 'Portuguese']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌpɔːrtjuˈɡɪz/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [people](/en/post/people/), [language](/en/post/language/), [or](/en/post/or/) [culture](/en/post/culture/) [of](/en/post/of/) Portugal [or](/en/post/or/) [its](/en/post/its/) inhabitants. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) Portuguese cuisine is known [for](/en/post/for/) [its](/en/post/its/) seafood dishes."
-- **[Adjective](/en/post/adjective/)**: Describing [something](/en/post/something/) related [to](/en/post/to/) Portugal [or](/en/post/or/) [its](/en/post/its/) [people](/en/post/people/), [language](/en/post/language/), [or](/en/post/or/) [culture](/en/post/culture/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) Portuguese [flag](/en/post/flag/) has [a](/en/post/a/) distinctive [yellow](/en/post/yellow/) [and](/en/post/and/) [green](/en/post/green/) [design](/en/post/design/)."
-- **[Adjective](/en/post/adjective/) ([nationality](/en/post/nationality/))**: Referring [to](/en/post/to/) [someone](/en/post/someone/) [from](/en/post/from/) Portugal. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) Portuguese [sailor](/en/post/sailor/) was an experienced navigator."
+- **[Noun](/post/noun/)**: [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [people](/post/people/), [language](/post/language/), [or](/post/or/) [culture](/post/culture/) [of](/post/of/) Portugal [or](/post/or/) [its](/post/its/) inhabitants. [For](/post/for/) [example](/post/example/): "[The](/post/the/) Portuguese cuisine is known [for](/post/for/) [its](/post/its/) seafood dishes."
+- **[Adjective](/post/adjective/)**: Describing [something](/post/something/) related [to](/post/to/) Portugal [or](/post/or/) [its](/post/its/) [people](/post/people/), [language](/post/language/), [or](/post/or/) [culture](/post/culture/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) Portuguese [flag](/post/flag/) has [a](/post/a/) distinctive [yellow](/post/yellow/) [and](/post/and/) [green](/post/green/) [design](/post/design/)."
+- **[Adjective](/post/adjective/) ([nationality](/post/nationality/))**: Referring [to](/post/to/) [someone](/post/someone/) [from](/post/from/) Portugal. [For](/post/for/) [example](/post/example/): "[The](/post/the/) Portuguese [sailor](/post/sailor/) was an experienced navigator."
 
 ## Phrases
-- "Portuguese [language](/en/post/language/)" refers [to](/en/post/to/) [the](/en/post/the/) Romance [language](/en/post/language/) spoken [mainly](/en/post/mainly/) [in](/en/post/in/) Portugal [and](/en/post/and/) Brazil.
-- "Portuguese [wine](/en/post/wine/)" denotes high-quality wines produced [in](/en/post/in/) Portugal.
-- "Portuguese colonial [history](/en/post/history/)" refers [to](/en/post/to/) [the](/en/post/the/) [period](/en/post/period/) [when](/en/post/when/) Portugal controlled territories [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/).
+- "Portuguese [language](/post/language/)" refers [to](/post/to/) [the](/post/the/) Romance [language](/post/language/) spoken [mainly](/post/mainly/) [in](/post/in/) Portugal [and](/post/and/) Brazil.
+- "Portuguese [wine](/post/wine/)" denotes high-quality wines produced [in](/post/in/) Portugal.
+- "Portuguese colonial [history](/post/history/)" refers [to](/post/to/) [the](/post/the/) [period](/post/period/) [when](/post/when/) Portugal controlled territories [around](/post/around/) [the](/post/the/) [world](/post/world/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) Portuguese [festival](/en/post/festival/) celebrated [their](/en/post/their/) [rich](/en/post/rich/) cultural heritage."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) coastal [architecture](/en/post/architecture/) is characterized [by](/en/post/by/) [its](/en/post/its/) vibrant Portuguese tiles."
-- **[Adjective](/en/post/adjective/) ([nationality](/en/post/nationality/))**: "[The](/en/post/the/) Portuguese sailor's expertise was crucial [for](/en/post/for/) [the](/en/post/the/) expedition."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) Portuguese [festival](/post/festival/) celebrated [their](/post/their/) [rich](/post/rich/) cultural heritage."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) coastal [architecture](/post/architecture/) is characterized [by](/post/by/) [its](/post/its/) vibrant Portuguese tiles."
+- **[Adjective](/post/adjective/) ([nationality](/post/nationality/))**: "[The](/post/the/) Portuguese sailor's expertise was crucial [for](/post/for/) [the](/post/the/) expedition."
 
 ## Synonyms
-- Brazilian ([for](/en/post/for/) [the](/en/post/the/) [nationality](/en/post/nationality/))
-- Iberian (relating [to](/en/post/to/) [the](/en/post/the/) Iberian [Peninsula](/en/post/peninsula/), [where](/en/post/where/) Portugal is located)
-- Lusophone (referring [to](/en/post/to/) speakers [of](/en/post/of/) Portuguese)
-- Castilian (historically, [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) [the](/en/post/the/) Romance [language](/en/post/language/) spoken [in](/en/post/in/) Spain, [but](/en/post/but/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) Portuguese speakers)
+- Brazilian ([for](/post/for/) [the](/post/the/) [nationality](/post/nationality/))
+- Iberian (relating [to](/post/to/) [the](/post/the/) Iberian [Peninsula](/post/peninsula/), [where](/post/where/) Portugal is located)
+- Lusophone (referring [to](/post/to/) speakers [of](/post/of/) Portuguese)
+- Castilian (historically, [often](/post/often/) [used](/post/used/) [for](/post/for/) [the](/post/the/) Romance [language](/post/language/) spoken [in](/post/in/) Spain, [but](/post/but/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) Portuguese speakers)
 
-[Note](/en/post/note/): [The](/en/post/the/) adjectives "Brazilian" [and](/en/post/and/) "Castilian" [may](/en/post/may/) [not](/en/post/not/) [be](/en/post/be/) [strictly](/en/post/strictly/) synonymous [with](/en/post/with/) "Portuguese" [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) related [in](/en/post/in/) [certain](/en/post/certain/) contexts.
+[Note](/post/note/): [The](/post/the/) adjectives "Brazilian" [and](/post/and/) "Castilian" [may](/post/may/) [not](/post/not/) [be](/post/be/) [strictly](/post/strictly/) synonymous [with](/post/with/) "Portuguese" [but](/post/but/) [can](/post/can/) [be](/post/be/) related [in](/post/in/) [certain](/post/certain/) contexts.

@@ -7,27 +7,27 @@ description = '[səkˈsesfuli] ad.成功地'
 keywords = ['ai words', 'successfully']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səkˈsesflɪli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [successful](/en/post/successful/) [manner](/en/post/manner/); effectively. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) completed [the](/en/post/the/) [task](/en/post/task/) [successfully](/en/post/successfully/)."
-- **[Adjective](/en/post/adjective/)**: Accomplished [with](/en/post/with/) [success](/en/post/success/); resulting [in](/en/post/in/) [a](/en/post/a/) favorable [outcome](/en/post/outcome/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) was [successfully](/en/post/successfully/) completed."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [perform](/en/post/perform/) [or](/en/post/or/) [accomplish](/en/post/accomplish/) [something](/en/post/something/) [with](/en/post/with/) [success](/en/post/success/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [successfully](/en/post/successfully/) defended [his](/en/post/his/) thesis."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [successful](/post/successful/) [manner](/post/manner/); effectively. [For](/post/for/) [example](/post/example/): "[She](/post/she/) completed [the](/post/the/) [task](/post/task/) [successfully](/post/successfully/)."
+- **[Adjective](/post/adjective/)**: Accomplished [with](/post/with/) [success](/post/success/); resulting [in](/post/in/) [a](/post/a/) favorable [outcome](/post/outcome/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [project](/post/project/) was [successfully](/post/successfully/) completed."
+- **[Verb](/post/verb/)**: [To](/post/to/) [perform](/post/perform/) [or](/post/or/) [accomplish](/post/accomplish/) [something](/post/something/) [with](/post/with/) [success](/post/success/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) [successfully](/post/successfully/) defended [his](/post/his/) thesis."
 
 ## Phrases
-- "[Successfully](/en/post/successfully/) completed" implies [a](/en/post/a/) [job](/en/post/job/) [well](/en/post/well/) done.
-- "Effortlessly [successful](/en/post/successful/)" describes [ease](/en/post/ease/) [of](/en/post/of/) accomplishment.
-- "[A](/en/post/a/) [successful](/en/post/successful/) collaboration" highlights [a](/en/post/a/) [productive](/en/post/productive/) teamwork.
+- "[Successfully](/post/successfully/) completed" implies [a](/post/a/) [job](/post/job/) [well](/post/well/) done.
+- "Effortlessly [successful](/post/successful/)" describes [ease](/post/ease/) [of](/post/of/) accomplishment.
+- "[A](/post/a/) [successful](/post/successful/) collaboration" highlights [a](/post/a/) [productive](/post/productive/) teamwork.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [surgery](/en/post/surgery/) was performed [successfully](/en/post/successfully/), [and](/en/post/and/) [the](/en/post/the/) [patient](/en/post/patient/) recovered [quickly](/en/post/quickly/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) presentation was [a](/en/post/a/) resounding [success](/en/post/success/), winning [first](/en/post/first/) [prize](/en/post/prize/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [many](/en/post/many/) attempts, [he](/en/post/he/) [successfully](/en/post/successfully/) launched [his](/en/post/his/) [own](/en/post/own/) [business](/en/post/business/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [surgery](/post/surgery/) was performed [successfully](/post/successfully/), [and](/post/and/) [the](/post/the/) [patient](/post/patient/) recovered [quickly](/post/quickly/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) presentation was [a](/post/a/) resounding [success](/post/success/), winning [first](/post/first/) [prize](/post/prize/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [many](/post/many/) attempts, [he](/post/he/) [successfully](/post/successfully/) launched [his](/post/his/) [own](/post/own/) [business](/post/business/)."
 
 ## Synonyms
 - Effectively
-- [Successfully](/en/post/successfully/)
+- [Successfully](/post/successfully/)
 - Fruitfully
 - Accomplished
 - Profitably

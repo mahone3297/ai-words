@@ -12,24 +12,24 @@ keywords = ['ai words', 'spur']
 
 ## 释义
 - **名词**:
-  - 鼓励，激励；刺激物。例如: "[The](/post/the/) [prospect](/post/prospect/) [of](/post/of/) [a](/post/a/) promotion was [a](/post/a/) [strong](/post/strong/) [spur](/post/spur/) [to](/post/to/) [his](/post/his/) efforts."
-  - 马蹄铁上的尖刺，用于刺激马匹前进。例如: "[He](/post/he/) adjusted [the](/post/the/) spurs [on](/post/on/) [his](/post/his/) riding boots."
+  - 鼓励，激励；刺激物。例如: "[The](/zh/post/the/) [prospect](/zh/post/prospect/) [of](/zh/post/of/) [a](/zh/post/a/) promotion was [a](/zh/post/a/) [strong](/zh/post/strong/) [spur](/zh/post/spur/) [to](/zh/post/to/) [his](/zh/post/his/) efforts."
+  - 马蹄铁上的尖刺，用于刺激马匹前进。例如: "[He](/zh/post/he/) adjusted [the](/zh/post/the/) spurs [on](/zh/post/on/) [his](/zh/post/his/) riding boots."
 
 - **动词**:
-  - 刺激，鼓舞。例如: "[The](/post/the/) coach's inspiring words spurred [the](/post/the/) [team](/post/team/) [to](/post/to/) [victory](/post/victory/)."
-  - 用马刺刺（马）。例如: "[The](/post/the/) jockey spurred [his](/post/his/) [horse](/post/horse/) [to](/post/to/) [go](/post/go/) faster."
+  - 刺激，鼓舞。例如: "[The](/zh/post/the/) coach's inspiring words spurred [the](/zh/post/the/) [team](/zh/post/team/) [to](/zh/post/to/) [victory](/zh/post/victory/)."
+  - 用马刺刺（马）。例如: "[The](/zh/post/the/) jockey spurred [his](/zh/post/his/) [horse](/zh/post/horse/) [to](/zh/post/to/) [go](/zh/post/go/) faster."
 
 ## 短语
-- "[spur](/post/spur/) [on](/post/on/)" 意为鼓励或激励某人去做某事。例如: "[Her](/post/her/) parents' encouragement spurred [her](/post/her/) [to](/post/to/) [pursue](/post/pursue/) [her](/post/her/) dreams."
-- "[a](/post/a/) [spur](/post/spur/) [of](/post/of/) [the](/post/the/) [moment](/post/moment/) [decision](/post/decision/)" 指的是临时决定。例如: "[We](/post/we/) decided [to](/post/to/) [go](/post/go/) [on](/post/on/) [a](/post/a/) [road](/post/road/) [trip](/post/trip/) [on](/post/on/) [a](/post/a/) [spur](/post/spur/) [of](/post/of/) [the](/post/the/) [moment](/post/moment/)."
+- "[spur](/zh/post/spur/) [on](/zh/post/on/)" 意为鼓励或激励某人去做某事。例如: "[Her](/zh/post/her/) parents' encouragement spurred [her](/zh/post/her/) [to](/zh/post/to/) [pursue](/zh/post/pursue/) [her](/zh/post/her/) dreams."
+- "[a](/zh/post/a/) [spur](/zh/post/spur/) [of](/zh/post/of/) [the](/zh/post/the/) [moment](/zh/post/moment/) [decision](/zh/post/decision/)" 指的是临时决定。例如: "[We](/zh/post/we/) decided [to](/zh/post/to/) [go](/zh/post/go/) [on](/zh/post/on/) [a](/zh/post/a/) [road](/zh/post/road/) [trip](/zh/post/trip/) [on](/zh/post/on/) [a](/zh/post/a/) [spur](/zh/post/spur/) [of](/zh/post/of/) [the](/zh/post/the/) [moment](/zh/post/moment/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [threat](/post/threat/) [of](/post/of/) losing [their](/post/their/) jobs was [a](/post/a/) [spur](/post/spur/) [to](/post/to/) increased productivity."
-- 动词: "[His](/post/his/) coach's [sharp](/post/sharp/) words spurred [him](/post/him/) [to](/post/to/) [train](/post/train/) harder [than](/post/than/) [ever](/post/ever/) [before](/post/before/)."
+- 名词: "[The](/zh/post/the/) [threat](/zh/post/threat/) [of](/zh/post/of/) losing [their](/zh/post/their/) jobs was [a](/zh/post/a/) [spur](/zh/post/spur/) [to](/zh/post/to/) increased productivity."
+- 动词: "[His](/zh/post/his/) coach's [sharp](/zh/post/sharp/) words spurred [him](/zh/post/him/) [to](/zh/post/to/) [train](/zh/post/train/) harder [than](/zh/post/than/) [ever](/zh/post/ever/) [before](/zh/post/before/)."
 
 ## 同义词
-- [Stimulate](/post/stimulate/)
-- [Encourage](/post/encourage/)
-- [Motivate](/post/motivate/)
+- [Stimulate](/zh/post/stimulate/)
+- [Encourage](/zh/post/encourage/)
+- [Motivate](/zh/post/motivate/)
 - Provoke
 - Boost

@@ -7,31 +7,31 @@ description = '[fəuk] n.人们，家属，亲属'
 keywords = ['ai words', 'folk']
 +++
 
-## [Word](/en/post/word/): [Folk](/en/post/folk/)
+## [Word](/post/word/): [Folk](/post/folk/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /fōk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [People](/en/post/people/) [in](/en/post/in/) [general](/en/post/general/), [especially](/en/post/especially/) [those](/en/post/those/) sharing [a](/en/post/a/) [particular](/en/post/particular/) [characteristic](/en/post/characteristic/), [tradition](/en/post/tradition/), [or](/en/post/or/) [interest](/en/post/interest/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [folk](/en/post/folk/) [of](/en/post/of/) [this](/en/post/this/) [village](/en/post/village/) [have](/en/post/have/) [a](/en/post/a/) [unique](/en/post/unique/) [custom](/en/post/custom/)."
-  - [Also](/en/post/also/) refers [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [with](/en/post/with/) [a](/en/post/a/) [common](/en/post/common/) heritage [or](/en/post/or/) [culture](/en/post/culture/). [For](/en/post/for/) [example](/en/post/example/): "[Folk](/en/post/folk/) [music](/en/post/music/) [often](/en/post/often/) reflects [the](/en/post/the/) stories [and](/en/post/and/) traditions [of](/en/post/of/) [a](/en/post/a/) nation's [folk](/en/post/folk/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [the](/en/post/the/) [traditional](/en/post/traditional/) [art](/en/post/art/), [music](/en/post/music/), tales, [or](/en/post/or/) customs [of](/en/post/of/) [ordinary](/en/post/ordinary/) [people](/en/post/people/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [folk](/en/post/folk/) [tale](/en/post/tale/) passed [down](/en/post/down/) [through](/en/post/through/) generations."
+- **[Noun](/post/noun/)**: [People](/post/people/) [in](/post/in/) [general](/post/general/), [especially](/post/especially/) [those](/post/those/) sharing [a](/post/a/) [particular](/post/particular/) [characteristic](/post/characteristic/), [tradition](/post/tradition/), [or](/post/or/) [interest](/post/interest/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [folk](/post/folk/) [of](/post/of/) [this](/post/this/) [village](/post/village/) [have](/post/have/) [a](/post/a/) [unique](/post/unique/) [custom](/post/custom/)."
+  - [Also](/post/also/) refers [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [with](/post/with/) [a](/post/a/) [common](/post/common/) heritage [or](/post/or/) [culture](/post/culture/). [For](/post/for/) [example](/post/example/): "[Folk](/post/folk/) [music](/post/music/) [often](/post/often/) reflects [the](/post/the/) stories [and](/post/and/) traditions [of](/post/of/) [a](/post/a/) nation's [folk](/post/folk/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [the](/post/the/) [traditional](/post/traditional/) [art](/post/art/), [music](/post/music/), tales, [or](/post/or/) customs [of](/post/of/) [ordinary](/post/ordinary/) [people](/post/people/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [folk](/post/folk/) [tale](/post/tale/) passed [down](/post/down/) [through](/post/through/) generations."
   
 ## Phrases
-- "Folklore" refers [to](/en/post/to/) [the](/en/post/the/) [traditional](/en/post/traditional/) beliefs, legends, customs, [and](/en/post/and/) practices [of](/en/post/of/) [a](/en/post/a/) [community](/en/post/community/) [or](/en/post/or/) [culture](/en/post/culture/).
-- "[Folk](/en/post/folk/) [music](/en/post/music/)" is [a](/en/post/a/) genre [that](/en/post/that/) encompasses [traditional](/en/post/traditional/) [or](/en/post/or/) [contemporary](/en/post/contemporary/) [music](/en/post/music/) rooted [in](/en/post/in/) and表达 [the](/en/post/the/) values [of](/en/post/of/) [a](/en/post/a/) [specific](/en/post/specific/) [culture](/en/post/culture/) [or](/en/post/or/) [region](/en/post/region/).
-- "[Amongst](/en/post/amongst/) [the](/en/post/the/) [folk](/en/post/folk/)" suggests [being](/en/post/being/) [among](/en/post/among/) [the](/en/post/the/) [general](/en/post/general/) populace [or](/en/post/or/) [within](/en/post/within/) [a](/en/post/a/) [specific](/en/post/specific/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/).
+- "Folklore" refers [to](/post/to/) [the](/post/the/) [traditional](/post/traditional/) beliefs, legends, customs, [and](/post/and/) practices [of](/post/of/) [a](/post/a/) [community](/post/community/) [or](/post/or/) [culture](/post/culture/).
+- "[Folk](/post/folk/) [music](/post/music/)" is [a](/post/a/) genre [that](/post/that/) encompasses [traditional](/post/traditional/) [or](/post/or/) [contemporary](/post/contemporary/) [music](/post/music/) rooted [in](/post/in/) and表达 [the](/post/the/) values [of](/post/of/) [a](/post/a/) [specific](/post/specific/) [culture](/post/culture/) [or](/post/or/) [region](/post/region/).
+- "[Amongst](/post/amongst/) [the](/post/the/) [folk](/post/folk/)" suggests [being](/post/being/) [among](/post/among/) [the](/post/the/) [general](/post/general/) populace [or](/post/or/) [within](/post/within/) [a](/post/a/) [specific](/post/specific/) [group](/post/group/) [of](/post/of/) [people](/post/people/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [festival](/en/post/festival/) attracted folks [from](/en/post/from/) [all](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [country](/en/post/country/) [who](/en/post/who/) shared [a](/en/post/a/) [passion](/en/post/passion/) [for](/en/post/for/) storytelling."
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [museum](/en/post/museum/) showcases [a](/en/post/a/) [rich](/en/post/rich/) [collection](/en/post/collection/) [of](/en/post/of/) [folk](/en/post/folk/) [art](/en/post/art/) [that](/en/post/that/) beautifully depicts [rural](/en/post/rural/) [life](/en/post/life/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [festival](/post/festival/) attracted folks [from](/post/from/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [country](/post/country/) [who](/post/who/) shared [a](/post/a/) [passion](/post/passion/) [for](/post/for/) storytelling."
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [museum](/post/museum/) showcases [a](/post/a/) [rich](/post/rich/) [collection](/post/collection/) [of](/post/of/) [folk](/post/folk/) [art](/post/art/) [that](/post/that/) beautifully depicts [rural](/post/rural/) [life](/post/life/)."
 
 ## Synonyms
-- [People](/en/post/people/)
+- [People](/post/people/)
 - Folks (informal)
 - Populace
 - Masses
-- [Nation](/en/post/nation/)
-- [Community](/en/post/community/)
-- [Tribe](/en/post/tribe/) ([in](/en/post/in/) [a](/en/post/a/) cultural context) 
-- [Traditional](/en/post/traditional/) ([as](/en/post/as/) an [adjective](/en/post/adjective/))
+- [Nation](/post/nation/)
+- [Community](/post/community/)
+- [Tribe](/post/tribe/) ([in](/post/in/) [a](/post/a/) cultural context) 
+- [Traditional](/post/traditional/) ([as](/post/as/) an [adjective](/post/adjective/))

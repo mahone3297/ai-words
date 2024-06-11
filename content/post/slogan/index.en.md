@@ -7,32 +7,32 @@ description = '[ˈsləugən] n.标语，口号'
 keywords = ['ai words', 'slogan']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈlɑːɡən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [short](/en/post/short/), memorable [phrase](/en/post/phrase/) [or](/en/post/or/) [slogan](/en/post/slogan/) [used](/en/post/used/) [to](/en/post/to/) [convey](/en/post/convey/) [a](/en/post/a/) [message](/en/post/message/), [often](/en/post/often/) [for](/en/post/for/) advertising, marketing, [or](/en/post/or/) promoting [a](/en/post/a/) [product](/en/post/product/), [idea](/en/post/idea/), [or](/en/post/or/) [cause](/en/post/cause/). [It](/en/post/it/) aims [to](/en/post/to/) [be](/en/post/be/) catchy [and](/en/post/and/) [easily](/en/post/easily/) remembered. [Example](/en/post/example/): "[Just](/en/post/just/) [Do](/en/post/do/) [It](/en/post/it/)" [for](/en/post/for/) Nike.
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [use](/en/post/use/) [a](/en/post/a/) [slogan](/en/post/slogan/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [campaign](/en/post/campaign/) [or](/en/post/or/) branding [strategy](/en/post/strategy/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) rebrand [with](/en/post/with/) [a](/en/post/a/) [new](/en/post/new/) [slogan](/en/post/slogan/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [short](/post/short/), memorable [phrase](/post/phrase/) [or](/post/or/) [slogan](/post/slogan/) [used](/post/used/) [to](/post/to/) [convey](/post/convey/) [a](/post/a/) [message](/post/message/), [often](/post/often/) [for](/post/for/) advertising, marketing, [or](/post/or/) promoting [a](/post/a/) [product](/post/product/), [idea](/post/idea/), [or](/post/or/) [cause](/post/cause/). [It](/post/it/) aims [to](/post/to/) [be](/post/be/) catchy [and](/post/and/) [easily](/post/easily/) remembered. [Example](/post/example/): "[Just](/post/just/) [Do](/post/do/) [It](/post/it/)" [for](/post/for/) Nike.
+- **[Verb](/post/verb/)**: [To](/post/to/) [create](/post/create/) [or](/post/or/) [use](/post/use/) [a](/post/a/) [slogan](/post/slogan/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [campaign](/post/campaign/) [or](/post/or/) branding [strategy](/post/strategy/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) rebrand [with](/post/with/) [a](/post/a/) [new](/post/new/) [slogan](/post/slogan/)."
 
 ## Phrases
-- "[A](/en/post/a/) catchy [slogan](/en/post/slogan/)" implies [a](/en/post/a/) [slogan](/en/post/slogan/) [that](/en/post/that/) is [easy](/en/post/easy/) [to](/en/post/to/) [remember](/en/post/remember/) [and](/en/post/and/) attracts [attention](/en/post/attention/).
-- "Slogans resonate [with](/en/post/with/) consumers" highlights [their](/en/post/their/) effectiveness [in](/en/post/in/) connecting [with](/en/post/with/) [people](/en/post/people/).
-- "Slogans are [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) taglines" [to](/en/post/to/) [summarize](/en/post/summarize/) [a](/en/post/a/) brand's essence.
+- "[A](/post/a/) catchy [slogan](/post/slogan/)" implies [a](/post/a/) [slogan](/post/slogan/) [that](/post/that/) is [easy](/post/easy/) [to](/post/to/) [remember](/post/remember/) [and](/post/and/) attracts [attention](/post/attention/).
+- "Slogans resonate [with](/post/with/) consumers" highlights [their](/post/their/) effectiveness [in](/post/in/) connecting [with](/post/with/) [people](/post/people/).
+- "Slogans are [often](/post/often/) [used](/post/used/) [in](/post/in/) taglines" [to](/post/to/) [summarize](/post/summarize/) [a](/post/a/) brand's essence.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) environmental group's [slogan](/en/post/slogan/), '[Reduce](/en/post/reduce/), Reuse, Recycle,' has [become](/en/post/become/) [a](/en/post/a/) [household](/en/post/household/) [name](/en/post/name/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) marketing [team](/en/post/team/) brainstormed [a](/en/post/a/) [new](/en/post/new/) [slogan](/en/post/slogan/) [to](/en/post/to/) revitalize [the](/en/post/the/) brand's [image](/en/post/image/)."
-- **[Sentence](/en/post/sentence/)**: "[The](/en/post/the/) company's [slogan](/en/post/slogan/) '[Think](/en/post/think/) [Different](/en/post/different/)' inspired [a](/en/post/a/) [generation](/en/post/generation/) [of](/en/post/of/) [Apple](/en/post/apple/) customers."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) environmental group's [slogan](/post/slogan/), '[Reduce](/post/reduce/), Reuse, Recycle,' has [become](/post/become/) [a](/post/a/) [household](/post/household/) [name](/post/name/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) marketing [team](/post/team/) brainstormed [a](/post/a/) [new](/post/new/) [slogan](/post/slogan/) [to](/post/to/) revitalize [the](/post/the/) brand's [image](/post/image/)."
+- **[Sentence](/post/sentence/)**: "[The](/post/the/) company's [slogan](/post/slogan/) '[Think](/post/think/) [Different](/post/different/)' inspired [a](/post/a/) [generation](/post/generation/) [of](/post/of/) [Apple](/post/apple/) customers."
 
 ## Synonyms
 - Advertising catchphrase
 - Jingle
-- [Campaign](/en/post/campaign/) [slogan](/en/post/slogan/)
+- [Campaign](/post/campaign/) [slogan](/post/slogan/)
 - Tagline
-- [Message](/en/post/message/)
-- Branding [statement](/en/post/statement/)
+- [Message](/post/message/)
+- Branding [statement](/post/statement/)
 
 ## Antonyms
 - Obscurity
 - Clarity
-- Complexity ([in](/en/post/in/) terms [of](/en/post/of/) [being](/en/post/being/) [simple](/en/post/simple/))
+- Complexity ([in](/post/in/) terms [of](/post/of/) [being](/post/being/) [simple](/post/simple/))

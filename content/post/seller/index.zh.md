@@ -11,20 +11,20 @@ keywords = ['ai words', 'seller']
 /ˈselər/
 
 ## 释义
-- **名词**: 卖方；销售者；零售商。例如: "[The](/post/the/) [seller](/post/seller/) presented [several](/post/several/) options [for](/post/for/) [the](/post/the/) [product](/post/product/)."
-- **动词**: 出售；卖。例如: "[She](/post/she/) is trying [to](/post/to/) [sell](/post/sell/) [her](/post/her/) [old](/post/old/) [car](/post/car/)."
+- **名词**: 卖方；销售者；零售商。例如: "[The](/zh/post/the/) [seller](/zh/post/seller/) presented [several](/zh/post/several/) options [for](/zh/post/for/) [the](/zh/post/the/) [product](/zh/post/product/)."
+- **动词**: 出售；卖。例如: "[She](/zh/post/she/) is trying [to](/zh/post/to/) [sell](/zh/post/sell/) [her](/zh/post/her/) [old](/zh/post/old/) [car](/zh/post/car/)."
 
 ## 短语
-- "seller's [market](/post/market/)" 指的是买方需求大于供应，卖家有更多议价权的市场状况。
+- "seller's [market](/zh/post/market/)" 指的是买方需求大于供应，卖家有更多议价权的市场状况。
 - "seller's remorse" 指卖家在出售物品后感到后悔的情绪。
 
 ## 例句
-- 名词: "[The](/post/the/) [seller](/post/seller/) assured [us](/post/us/) [that](/post/that/) [the](/post/the/) [product](/post/product/) was [in](/post/in/) [excellent](/post/excellent/) [condition](/post/condition/)."
-- 动词: "[He](/post/he/) has been trying [to](/post/to/) [sell](/post/sell/) [his](/post/his/) [house](/post/house/) [for](/post/for/) months."
+- 名词: "[The](/zh/post/the/) [seller](/zh/post/seller/) assured [us](/zh/post/us/) [that](/zh/post/that/) [the](/zh/post/the/) [product](/zh/post/product/) was [in](/zh/post/in/) [excellent](/zh/post/excellent/) [condition](/zh/post/condition/)."
+- 动词: "[He](/zh/post/he/) has been trying [to](/zh/post/to/) [sell](/zh/post/sell/) [his](/zh/post/his/) [house](/zh/post/house/) [for](/zh/post/for/) months."
 
 ## 同义词
 - vendor
-- [merchant](/post/merchant/)
+- [merchant](/zh/post/merchant/)
 - dealer
 - retailer
 - marketer

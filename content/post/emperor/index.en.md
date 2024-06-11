@@ -7,26 +7,26 @@ description = '[ˈempərə] n.皇帝'
 keywords = ['ai words', 'emperor']
 +++
 
-# [Emperor](/en/post/emperor/)
+# [Emperor](/post/emperor/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɛmpərər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [male](/en/post/male/) monarch [or](/en/post/or/) [supreme](/en/post/supreme/) [ruler](/en/post/ruler/) [of](/en/post/of/) an [empire](/en/post/empire/), typically [with](/en/post/with/) [vast](/en/post/vast/) territories [and](/en/post/and/) [great](/en/post/great/) [power](/en/post/power/) [or](/en/post/or/) [authority](/en/post/authority/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) Roman [Empire](/en/post/empire/) had [many](/en/post/many/) [powerful](/en/post/powerful/) emperors [throughout](/en/post/throughout/) [its](/en/post/its/) [history](/en/post/history/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [male](/post/male/) monarch [or](/post/or/) [supreme](/post/supreme/) [ruler](/post/ruler/) [of](/post/of/) an [empire](/post/empire/), typically [with](/post/with/) [vast](/post/vast/) territories [and](/post/and/) [great](/post/great/) [power](/post/power/) [or](/post/or/) [authority](/post/authority/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) Roman [Empire](/post/empire/) had [many](/post/many/) [powerful](/post/powerful/) emperors [throughout](/post/throughout/) [its](/post/its/) [history](/post/history/)."
 
-### [Phrase](/en/post/phrase/)
-- **[Emperor](/en/post/emperor/) [of](/en/post/of/) [all](/en/post/all/) Russia**: [A](/en/post/a/) [title](/en/post/title/) [used](/en/post/used/) [by](/en/post/by/) Russian czars [from](/en/post/from/) [the](/en/post/the/) 18th [century](/en/post/century/) onwards.
-- **[The](/en/post/the/) Emperor's [New](/en/post/new/) [Clothes](/en/post/clothes/)**: [A](/en/post/a/) [well-known](/en/post/well-known/) fairy [tale](/en/post/tale/) [by](/en/post/by/) Hans Christian Andersen [about](/en/post/about/) an [emperor](/en/post/emperor/) [who](/en/post/who/) is deceived [into](/en/post/into/) believing [he](/en/post/he/) is wearing [magnificent](/en/post/magnificent/) [clothes](/en/post/clothes/) [when](/en/post/when/) [in](/en/post/in/) [reality](/en/post/reality/) [he](/en/post/he/) is [naked](/en/post/naked/), illustrating [the](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) perceived [power](/en/post/power/) versus [truth](/en/post/truth/).
+### [Phrase](/post/phrase/)
+- **[Emperor](/post/emperor/) [of](/post/of/) [all](/post/all/) Russia**: [A](/post/a/) [title](/post/title/) [used](/post/used/) [by](/post/by/) Russian czars [from](/post/from/) [the](/post/the/) 18th [century](/post/century/) onwards.
+- **[The](/post/the/) Emperor's [New](/post/new/) [Clothes](/post/clothes/)**: [A](/post/a/) [well-known](/post/well-known/) fairy [tale](/post/tale/) [by](/post/by/) Hans Christian Andersen [about](/post/about/) an [emperor](/post/emperor/) [who](/post/who/) is deceived [into](/post/into/) believing [he](/post/he/) is wearing [magnificent](/post/magnificent/) [clothes](/post/clothes/) [when](/post/when/) [in](/post/in/) [reality](/post/reality/) [he](/post/he/) is [naked](/post/naked/), illustrating [the](/post/the/) [concept](/post/concept/) [of](/post/of/) perceived [power](/post/power/) versus [truth](/post/truth/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [young](/en/post/young/) [prince](/en/post/prince/) was destined [to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) [just](/en/post/just/) [and](/en/post/and/) [fair](/en/post/fair/) [emperor](/en/post/emperor/), loved [by](/en/post/by/) [his](/en/post/his/) subjects."
-- "[Under](/en/post/under/) [the](/en/post/the/) [reign](/en/post/reign/) [of](/en/post/of/) [the](/en/post/the/) mighty [emperor](/en/post/emperor/), [the](/en/post/the/) arts [and](/en/post/and/) sciences flourished [in](/en/post/in/) [the](/en/post/the/) [kingdom](/en/post/kingdom/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [young](/post/young/) [prince](/post/prince/) was destined [to](/post/to/) [become](/post/become/) [a](/post/a/) [just](/post/just/) [and](/post/and/) [fair](/post/fair/) [emperor](/post/emperor/), loved [by](/post/by/) [his](/post/his/) subjects."
+- "[Under](/post/under/) [the](/post/the/) [reign](/post/reign/) [of](/post/of/) [the](/post/the/) mighty [emperor](/post/emperor/), [the](/post/the/) arts [and](/post/and/) sciences flourished [in](/post/in/) [the](/post/the/) [kingdom](/post/kingdom/)."
 
 ## Synonyms
 - Monarch
 - Sovereign
-- [Ruler](/en/post/ruler/)
-- [King](/en/post/king/) ([in](/en/post/in/) [a](/en/post/a/) non-imperial context)
-- Czar (historically [for](/en/post/for/) Russian emperors)
-- Kaiser (historically [for](/en/post/for/) German [and](/en/post/and/) [Holy](/en/post/holy/) Roman emperors)
+- [Ruler](/post/ruler/)
+- [King](/post/king/) ([in](/post/in/) [a](/post/a/) non-imperial context)
+- Czar (historically [for](/post/for/) Russian emperors)
+- Kaiser (historically [for](/post/for/) German [and](/post/and/) [Holy](/post/holy/) Roman emperors)

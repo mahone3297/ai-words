@@ -7,34 +7,34 @@ description = '[riˈhəːsəl] n.排练，排演；练习'
 keywords = ['ai words', 'rehearsal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈheərləs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[rehearsal](/en/post/rehearsal/)** ([noun](/en/post/noun/)) refers [to](/en/post/to/) [a](/en/post/a/) [practice](/en/post/practice/) [session](/en/post/session/) [or](/en/post/or/) [performance](/en/post/performance/) run-through [before](/en/post/before/) [the](/en/post/the/) [actual](/en/post/actual/) [event](/en/post/event/), [often](/en/post/often/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) theater, [music](/en/post/music/), [or](/en/post/or/) [any](/en/post/any/) [performance](/en/post/performance/) [art](/en/post/art/). [It](/en/post/it/) is [a](/en/post/a/) preparatory [activity](/en/post/activity/) [to](/en/post/to/) [refine](/en/post/refine/) skills, [work](/en/post/work/) [out](/en/post/out/) logistics, [and](/en/post/and/) [build](/en/post/build/) [confidence](/en/post/confidence/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[rehearsal](/post/rehearsal/)** ([noun](/post/noun/)) refers [to](/post/to/) [a](/post/a/) [practice](/post/practice/) [session](/post/session/) [or](/post/or/) [performance](/post/performance/) run-through [before](/post/before/) [the](/post/the/) [actual](/post/actual/) [event](/post/event/), [often](/post/often/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) theater, [music](/post/music/), [or](/post/or/) [any](/post/any/) [performance](/post/performance/) [art](/post/art/). [It](/post/it/) is [a](/post/a/) preparatory [activity](/post/activity/) [to](/post/to/) [refine](/post/refine/) skills, [work](/post/work/) [out](/post/out/) logistics, [and](/post/and/) [build](/post/build/) [confidence](/post/confidence/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **rehearse** ([verb](/en/post/verb/)) [means](/en/post/means/) [to](/en/post/to/) [practice](/en/post/practice/) [or](/en/post/or/) [go](/en/post/go/) [through](/en/post/through/) [the](/en/post/the/) steps [of](/en/post/of/) [a](/en/post/a/) [performance](/en/post/performance/) [or](/en/post/or/) presentation [repeatedly](/en/post/repeatedly/) [in](/en/post/in/) [advance](/en/post/advance/), [usually](/en/post/usually/) [in](/en/post/in/) [preparation](/en/post/preparation/) [for](/en/post/for/) [a](/en/post/a/) [live](/en/post/live/) [show](/en/post/show/) [or](/en/post/or/) [event](/en/post/event/).
+### [Verb](/post/verb/)
+[To](/post/to/) **rehearse** ([verb](/post/verb/)) [means](/post/means/) [to](/post/to/) [practice](/post/practice/) [or](/post/or/) [go](/post/go/) [through](/post/through/) [the](/post/the/) steps [of](/post/of/) [a](/post/a/) [performance](/post/performance/) [or](/post/or/) presentation [repeatedly](/post/repeatedly/) [in](/post/in/) [advance](/post/advance/), [usually](/post/usually/) [in](/post/in/) [preparation](/post/preparation/) [for](/post/for/) [a](/post/a/) [live](/post/live/) [show](/post/show/) [or](/post/or/) [event](/post/event/).
 
 ## Phrases
-- "Rehearse [a](/en/post/a/) [scene](/en/post/scene/)" involves practicing [a](/en/post/a/) [specific](/en/post/specific/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [play](/en/post/play/) [or](/en/post/or/) script.
-- "Full-scale [rehearsal](/en/post/rehearsal/)" signifies an [extensive](/en/post/extensive/) [and](/en/post/and/) [thorough](/en/post/thorough/) [practice](/en/post/practice/) [session](/en/post/session/).
-- "Warm-up [rehearsal](/en/post/rehearsal/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [casual](/en/post/casual/) [practice](/en/post/practice/) [session](/en/post/session/) [to](/en/post/to/) [get](/en/post/get/) [ready](/en/post/ready/) [for](/en/post/for/) [the](/en/post/the/) [main](/en/post/main/) [event](/en/post/event/).
+- "Rehearse [a](/post/a/) [scene](/post/scene/)" involves practicing [a](/post/a/) [specific](/post/specific/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [play](/post/play/) [or](/post/or/) script.
+- "Full-scale [rehearsal](/post/rehearsal/)" signifies an [extensive](/post/extensive/) [and](/post/and/) [thorough](/post/thorough/) [practice](/post/practice/) [session](/post/session/).
+- "Warm-up [rehearsal](/post/rehearsal/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [casual](/post/casual/) [practice](/post/practice/) [session](/post/session/) [to](/post/to/) [get](/post/get/) [ready](/post/ready/) [for](/post/for/) [the](/post/the/) [main](/post/main/) [event](/post/event/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) actors were rehearsing [their](/en/post/their/) lines [for](/en/post/for/) [the](/en/post/the/) upcoming [play](/en/post/play/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [band](/en/post/band/) members rehearsed [their](/en/post/their/) [new](/en/post/new/) [song](/en/post/song/) [until](/en/post/until/) [they](/en/post/they/) felt [confident](/en/post/confident/) performing [it](/en/post/it/) [live](/en/post/live/)."
-- **[Sentence](/en/post/sentence/) [with](/en/post/with/) 'rehearse' [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[We](/en/post/we/) had [to](/en/post/to/) rehearse [the](/en/post/the/) [dance](/en/post/dance/) [routine](/en/post/routine/) [several](/en/post/several/) times [before](/en/post/before/) [the](/en/post/the/) [competition](/en/post/competition/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) actors were rehearsing [their](/post/their/) lines [for](/post/for/) [the](/post/the/) upcoming [play](/post/play/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [band](/post/band/) members rehearsed [their](/post/their/) [new](/post/new/) [song](/post/song/) [until](/post/until/) [they](/post/they/) felt [confident](/post/confident/) performing [it](/post/it/) [live](/post/live/)."
+- **[Sentence](/post/sentence/) [with](/post/with/) 'rehearse' [as](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "[We](/post/we/) had [to](/post/to/) rehearse [the](/post/the/) [dance](/post/dance/) [routine](/post/routine/) [several](/post/several/) times [before](/post/before/) [the](/post/the/) [competition](/post/competition/)."
 
 ## Synonyms
-- [Practice](/en/post/practice/)
+- [Practice](/post/practice/)
 - Rehearse-through
-- [Drill](/en/post/drill/)
+- [Drill](/post/drill/)
 - Run-through
 - Warm-up
 - Rehearsement
 
 ## Antonyms
-- [Performance](/en/post/performance/) ([since](/en/post/since/) [a](/en/post/a/) [rehearsal](/en/post/rehearsal/) is [the](/en/post/the/) [opposite](/en/post/opposite/) [of](/en/post/of/) [a](/en/post/a/) [live](/en/post/live/) [performance](/en/post/performance/))
-- Unpreparedness ([as](/en/post/as/) [rehearsal](/en/post/rehearsal/) implies [preparation](/en/post/preparation/))
+- [Performance](/post/performance/) ([since](/post/since/) [a](/post/a/) [rehearsal](/post/rehearsal/) is [the](/post/the/) [opposite](/post/opposite/) [of](/post/of/) [a](/post/a/) [live](/post/live/) [performance](/post/performance/))
+- Unpreparedness ([as](/post/as/) [rehearsal](/post/rehearsal/) implies [preparation](/post/preparation/))

@@ -7,28 +7,28 @@ description = '[ˈkɔn∫əns] n.良心，道德心'
 keywords = ['ai words', 'conscience']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈskɒns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) an individual's [moral](/en/post/moral/) [sense](/en/post/sense/) [or](/en/post/or/) an [inner](/en/post/inner/) [voice](/en/post/voice/) [that](/en/post/that/) guides [them](/en/post/them/) [regarding](/en/post/regarding/) [right](/en/post/right/) [and](/en/post/and/) [wrong](/en/post/wrong/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [conscience](/en/post/conscience/) was bothering [her](/en/post/her/) [over](/en/post/over/) [the](/en/post/the/) [decision](/en/post/decision/)."
-- **[Adjective](/en/post/adjective/)**: Reflecting one's [sense](/en/post/sense/) [of](/en/post/of/) morality [or](/en/post/or/) ethics. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) conscience-stricken [person](/en/post/person/) [may](/en/post/may/) [feel](/en/post/feel/) [guilty](/en/post/guilty/) [about](/en/post/about/) [their](/en/post/their/) actions."
+- **[Noun](/post/noun/)**: [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) an individual's [moral](/post/moral/) [sense](/post/sense/) [or](/post/or/) an [inner](/post/inner/) [voice](/post/voice/) [that](/post/that/) guides [them](/post/them/) [regarding](/post/regarding/) [right](/post/right/) [and](/post/and/) [wrong](/post/wrong/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [conscience](/post/conscience/) was bothering [her](/post/her/) [over](/post/over/) [the](/post/the/) [decision](/post/decision/)."
+- **[Adjective](/post/adjective/)**: Reflecting one's [sense](/post/sense/) [of](/post/of/) morality [or](/post/or/) ethics. [For](/post/for/) [example](/post/example/): "[A](/post/a/) conscience-stricken [person](/post/person/) [may](/post/may/) [feel](/post/feel/) [guilty](/post/guilty/) [about](/post/about/) [their](/post/their/) actions."
 
 ## Phrases
-- "[Act](/en/post/act/) [on](/en/post/on/) one's [conscience](/en/post/conscience/)" [means](/en/post/means/) [to](/en/post/to/) [do](/en/post/do/) [what](/en/post/what/) [one](/en/post/one/) believes is morally [right](/en/post/right/).
-- "[To](/en/post/to/) [clear](/en/post/clear/) one's [conscience](/en/post/conscience/)" signifies resolving [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) guilt [or](/en/post/or/) remorse.
-- "Conscienceless" describes [someone](/en/post/someone/) [without](/en/post/without/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) guilt [or](/en/post/or/) [moral](/en/post/moral/) [responsibility](/en/post/responsibility/).
+- "[Act](/post/act/) [on](/post/on/) one's [conscience](/post/conscience/)" [means](/post/means/) [to](/post/to/) [do](/post/do/) [what](/post/what/) [one](/post/one/) believes is morally [right](/post/right/).
+- "[To](/post/to/) [clear](/post/clear/) one's [conscience](/post/conscience/)" signifies resolving [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) guilt [or](/post/or/) remorse.
+- "Conscienceless" describes [someone](/post/someone/) [without](/post/without/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) guilt [or](/post/or/) [moral](/post/moral/) [responsibility](/post/responsibility/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) couldn't [sleep](/en/post/sleep/) knowing [he](/en/post/he/) had neglected [his](/en/post/his/) [conscience](/en/post/conscience/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) conscience-admonished [choice](/en/post/choice/) was [to](/en/post/to/) donate [the](/en/post/the/) [money](/en/post/money/) [to](/en/post/to/) [charity](/en/post/charity/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) spoke [with](/en/post/with/) [a](/en/post/a/) [heavy](/en/post/heavy/) [conscience](/en/post/conscience/), [aware](/en/post/aware/) [of](/en/post/of/) [the](/en/post/the/) [harm](/en/post/harm/) [she](/en/post/she/) had caused."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) couldn't [sleep](/post/sleep/) knowing [he](/post/he/) had neglected [his](/post/his/) [conscience](/post/conscience/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) conscience-admonished [choice](/post/choice/) was [to](/post/to/) donate [the](/post/the/) [money](/post/money/) [to](/post/to/) [charity](/post/charity/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) spoke [with](/post/with/) [a](/post/a/) [heavy](/post/heavy/) [conscience](/post/conscience/), [aware](/post/aware/) [of](/post/of/) [the](/post/the/) [harm](/post/harm/) [she](/post/she/) had caused."
 
 ## Synonyms
-- [Moral](/en/post/moral/) [compass](/en/post/compass/)
-- [Inner](/en/post/inner/) [voice](/en/post/voice/)
-- [Sense](/en/post/sense/) [of](/en/post/of/) [right](/en/post/right/) [and](/en/post/and/) [wrong](/en/post/wrong/)
-- Gut [feeling](/en/post/feeling/)
+- [Moral](/post/moral/) [compass](/post/compass/)
+- [Inner](/post/inner/) [voice](/post/voice/)
+- [Sense](/post/sense/) [of](/post/of/) [right](/post/right/) [and](/post/and/) [wrong](/post/wrong/)
+- Gut [feeling](/post/feeling/)
 - Conscience-pricking
 
 ## Antonyms
@@ -36,4 +36,4 @@ keywords = ['ai words', 'conscience']
 - Immoral
 - Dishonest
 - Unethical
-- Guilt-free ([opposite](/en/post/opposite/) [of](/en/post/of/) conscience-stricken)
+- Guilt-free ([opposite](/post/opposite/) [of](/post/of/) conscience-stricken)

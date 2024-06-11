@@ -11,20 +11,20 @@ keywords = ['ai words', 'youthful']
 /ˈjʌθfəl/
 
 ## 释义
-- **形容词**: 具有青春活力的，年轻的，早年的。例如: "[She](/post/she/) looked [youthful](/post/youthful/) [and](/post/and/) [full](/post/full/) [of](/post/of/) [energy](/post/energy/)."
-- **名词**: 青春期，年轻时期。例如: "[They](/post/they/) were [both](/post/both/) [in](/post/in/) [their](/post/their/) [youthful](/post/youthful/) years."
+- **形容词**: 具有青春活力的，年轻的，早年的。例如: "[She](/zh/post/she/) looked [youthful](/zh/post/youthful/) [and](/zh/post/and/) [full](/zh/post/full/) [of](/zh/post/of/) [energy](/zh/post/energy/)."
+- **名词**: 青春期，年轻时期。例如: "[They](/zh/post/they/) were [both](/zh/post/both/) [in](/zh/post/in/) [their](/zh/post/their/) [youthful](/zh/post/youthful/) years."
 
 ## 短语
-- "[youthful](/post/youthful/) exuberance" 年轻人的活力四溢。
-- "[youthful](/post/youthful/) [appearance](/post/appearance/)" 年轻的外表。
+- "[youthful](/zh/post/youthful/) exuberance" 年轻人的活力四溢。
+- "[youthful](/zh/post/youthful/) [appearance](/zh/post/appearance/)" 年轻的外表。
 
 ## 例句
-- 形容词: "[Despite](/post/despite/) [his](/post/his/) [age](/post/age/), [he](/post/he/) maintained [a](/post/a/) [youthful](/post/youthful/) [enthusiasm](/post/enthusiasm/) [for](/post/for/) [life](/post/life/)."
-- 名词: "[The](/post/the/) [youthful](/post/youthful/) years are [often](/post/often/) remembered [as](/post/as/) [a](/post/a/) [time](/post/time/) [of](/post/of/) exploration [and](/post/and/) [discovery](/post/discovery/)."
+- 形容词: "[Despite](/zh/post/despite/) [his](/zh/post/his/) [age](/zh/post/age/), [he](/zh/post/he/) maintained [a](/zh/post/a/) [youthful](/zh/post/youthful/) [enthusiasm](/zh/post/enthusiasm/) [for](/zh/post/for/) [life](/zh/post/life/)."
+- 名词: "[The](/zh/post/the/) [youthful](/zh/post/youthful/) years are [often](/zh/post/often/) remembered [as](/zh/post/as/) [a](/zh/post/a/) [time](/zh/post/time/) [of](/zh/post/of/) exploration [and](/zh/post/and/) [discovery](/zh/post/discovery/)."
 
 ## 同义词
 - Juvenile
 - Teenage
-- [Young](/post/young/)
+- [Young](/zh/post/young/)
 - Inexperienced
 - Novice

@@ -7,42 +7,42 @@ description = '[ɔd] a.奇数的；单只的'
 keywords = ['ai words', 'odd']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɒd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) [even](/en/post/even/); [not](/en/post/not/) divisible [by](/en/post/by/) [two](/en/post/two/) [without](/en/post/without/) [a](/en/post/a/) remainder; [not](/en/post/not/) [capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) evenly paired [off](/en/post/off/). [Example](/en/post/example/): "There's [one](/en/post/one/) [odd](/en/post/odd/) [sock](/en/post/sock/) [left](/en/post/left/) [after](/en/post/after/) [the](/en/post/the/) [laundry](/en/post/laundry/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) is [unusual](/en/post/unusual/), [peculiar](/en/post/peculiar/), [or](/en/post/or/) [unexpected](/en/post/unexpected/). [Example](/en/post/example/): "[Her](/en/post/her/) [behavior](/en/post/behavior/) was [rather](/en/post/rather/) [odd](/en/post/odd/) [lately](/en/post/lately/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [number](/en/post/number/) [that](/en/post/that/) cannot [be](/en/post/be/) expressed [as](/en/post/as/) [the](/en/post/the/) [sum](/en/post/sum/) [of](/en/post/of/) [two](/en/post/two/) [equal](/en/post/equal/) integers; an [odd](/en/post/odd/) [number](/en/post/number/). [Example](/en/post/example/): "[All](/en/post/all/) [the](/en/post/the/) [odd](/en/post/odd/) numbers [between](/en/post/between/) 10 [and](/en/post/and/) 20 are 11, 13, 15, 17, [and](/en/post/and/) 19."
-  - [In](/en/post/in/) gambling, [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) an [unlikely](/en/post/unlikely/) [event](/en/post/event/) [or](/en/post/or/) [bet](/en/post/bet/). [Example](/en/post/example/): "[The](/en/post/the/) odds were [against](/en/post/against/) [him](/en/post/him/) winning, [but](/en/post/but/) [he](/en/post/he/) placed an [odd](/en/post/odd/) [on](/en/post/on/) [it](/en/post/it/) [anyway](/en/post/anyway/)."
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) [even](/post/even/); [not](/post/not/) divisible [by](/post/by/) [two](/post/two/) [without](/post/without/) [a](/post/a/) remainder; [not](/post/not/) [capable](/post/capable/) [of](/post/of/) [being](/post/being/) evenly paired [off](/post/off/). [Example](/post/example/): "There's [one](/post/one/) [odd](/post/odd/) [sock](/post/sock/) [left](/post/left/) [after](/post/after/) [the](/post/the/) [laundry](/post/laundry/)."
+  - [Also](/post/also/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) is [unusual](/post/unusual/), [peculiar](/post/peculiar/), [or](/post/or/) [unexpected](/post/unexpected/). [Example](/post/example/): "[Her](/post/her/) [behavior](/post/behavior/) was [rather](/post/rather/) [odd](/post/odd/) [lately](/post/lately/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [number](/post/number/) [that](/post/that/) cannot [be](/post/be/) expressed [as](/post/as/) [the](/post/the/) [sum](/post/sum/) [of](/post/of/) [two](/post/two/) [equal](/post/equal/) integers; an [odd](/post/odd/) [number](/post/number/). [Example](/post/example/): "[All](/post/all/) [the](/post/the/) [odd](/post/odd/) numbers [between](/post/between/) 10 [and](/post/and/) 20 are 11, 13, 15, 17, [and](/post/and/) 19."
+  - [In](/post/in/) gambling, [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) an [unlikely](/post/unlikely/) [event](/post/event/) [or](/post/or/) [bet](/post/bet/). [Example](/post/example/): "[The](/post/the/) odds were [against](/post/against/) [him](/post/him/) winning, [but](/post/but/) [he](/post/he/) placed an [odd](/post/odd/) [on](/post/on/) [it](/post/it/) [anyway](/post/anyway/)."
 
 ## Phrases
-- "[Odd](/en/post/odd/) [man](/en/post/man/) [out](/en/post/out/)": [The](/en/post/the/) [person](/en/post/person/) [who](/en/post/who/) does [not](/en/post/not/) [fit](/en/post/fit/) [in](/en/post/in/) [or](/en/post/or/) [match](/en/post/match/) [with](/en/post/with/) others [in](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/), [often](/en/post/often/) [due](/en/post/due/) [to](/en/post/to/) [a](/en/post/a/) numerical disparity. [Example](/en/post/example/): "[In](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [four](/en/post/four/) friends, [he](/en/post/he/) felt [like](/en/post/like/) [the](/en/post/the/) [odd](/en/post/odd/) [man](/en/post/man/) [out](/en/post/out/)."
-- "[At](/en/post/at/) [odd](/en/post/odd/) hours": [At](/en/post/at/) [irregular](/en/post/irregular/) [or](/en/post/or/) unpredictable times. [Example](/en/post/example/): "[She](/en/post/she/) [would](/en/post/would/) [work](/en/post/work/) [on](/en/post/on/) [her](/en/post/her/) [art](/en/post/art/) projects [at](/en/post/at/) [odd](/en/post/odd/) hours [during](/en/post/during/) [the](/en/post/the/) [night](/en/post/night/)."
-- "[By](/en/post/by/) [odd](/en/post/odd/) coincidence": [When](/en/post/when/) [something](/en/post/something/) happens unexpectedly [and](/en/post/and/) [surprisingly](/en/post/surprisingly/) coincidentally. [Example](/en/post/example/): "[By](/en/post/by/) [odd](/en/post/odd/) coincidence, [we](/en/post/we/) [both](/en/post/both/) wore [the](/en/post/the/) [same](/en/post/same/) [dress](/en/post/dress/) [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/)."
+- "[Odd](/post/odd/) [man](/post/man/) [out](/post/out/)": [The](/post/the/) [person](/post/person/) [who](/post/who/) does [not](/post/not/) [fit](/post/fit/) [in](/post/in/) [or](/post/or/) [match](/post/match/) [with](/post/with/) others [in](/post/in/) [a](/post/a/) [group](/post/group/), [often](/post/often/) [due](/post/due/) [to](/post/to/) [a](/post/a/) numerical disparity. [Example](/post/example/): "[In](/post/in/) [a](/post/a/) [group](/post/group/) [of](/post/of/) [four](/post/four/) friends, [he](/post/he/) felt [like](/post/like/) [the](/post/the/) [odd](/post/odd/) [man](/post/man/) [out](/post/out/)."
+- "[At](/post/at/) [odd](/post/odd/) hours": [At](/post/at/) [irregular](/post/irregular/) [or](/post/or/) unpredictable times. [Example](/post/example/): "[She](/post/she/) [would](/post/would/) [work](/post/work/) [on](/post/on/) [her](/post/her/) [art](/post/art/) projects [at](/post/at/) [odd](/post/odd/) hours [during](/post/during/) [the](/post/the/) [night](/post/night/)."
+- "[By](/post/by/) [odd](/post/odd/) coincidence": [When](/post/when/) [something](/post/something/) happens unexpectedly [and](/post/and/) [surprisingly](/post/surprisingly/) coincidentally. [Example](/post/example/): "[By](/post/by/) [odd](/post/odd/) coincidence, [we](/post/we/) [both](/post/both/) wore [the](/post/the/) [same](/post/same/) [dress](/post/dress/) [to](/post/to/) [the](/post/the/) [party](/post/party/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) noticed an [odd](/en/post/odd/) [smell](/en/post/smell/) coming [from](/en/post/from/) [the](/en/post/the/) [kitchen](/en/post/kitchen/)."
-- **[Noun](/en/post/noun/)**: "[Make](/en/post/make/) [sure](/en/post/sure/) [you](/en/post/you/) [include](/en/post/include/) [both](/en/post/both/) [even](/en/post/even/) [and](/en/post/and/) [odd](/en/post/odd/) numbers [in](/en/post/in/) [your](/en/post/your/) calculations."
-- "It's [quite](/en/post/quite/) an [odd](/en/post/odd/) coincidence [that](/en/post/that/) [we](/en/post/we/) [both](/en/post/both/) chose [the](/en/post/the/) [same](/en/post/same/) [vacation](/en/post/vacation/) [spot](/en/post/spot/) [this](/en/post/this/) [year](/en/post/year/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) noticed an [odd](/post/odd/) [smell](/post/smell/) coming [from](/post/from/) [the](/post/the/) [kitchen](/post/kitchen/)."
+- **[Noun](/post/noun/)**: "[Make](/post/make/) [sure](/post/sure/) [you](/post/you/) [include](/post/include/) [both](/post/both/) [even](/post/even/) [and](/post/and/) [odd](/post/odd/) numbers [in](/post/in/) [your](/post/your/) calculations."
+- "It's [quite](/post/quite/) an [odd](/post/odd/) coincidence [that](/post/that/) [we](/post/we/) [both](/post/both/) chose [the](/post/the/) [same](/post/same/) [vacation](/post/vacation/) [spot](/post/spot/) [this](/post/this/) [year](/post/year/)."
 
 ## Synonyms
-- Uneven ([for](/en/post/for/) [the](/en/post/the/) '[not](/en/post/not/) divisible [by](/en/post/by/) [two](/en/post/two/)' [meaning](/en/post/meaning/))
-- [Unusual](/en/post/unusual/)
-- [Strange](/en/post/strange/)
-- [Peculiar](/en/post/peculiar/)
-- [Curious](/en/post/curious/)
-- [Singular](/en/post/singular/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [unusual](/en/post/unusual/))
+- Uneven ([for](/post/for/) [the](/post/the/) '[not](/post/not/) divisible [by](/post/by/) [two](/post/two/)' [meaning](/post/meaning/))
+- [Unusual](/post/unusual/)
+- [Strange](/post/strange/)
+- [Peculiar](/post/peculiar/)
+- [Curious](/post/curious/)
+- [Singular](/post/singular/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [unusual](/post/unusual/))
 - Unpredictable
-- [Irregular](/en/post/irregular/)
+- [Irregular](/post/irregular/)
 
-[For](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [meaning](/en/post/meaning/) referring [to](/en/post/to/) numbers:
-- [Odd](/en/post/odd/) [number](/en/post/number/)
-- Uneven [number](/en/post/number/)
-- Non-even [number](/en/post/number/)
+[For](/post/for/) [the](/post/the/) [noun](/post/noun/) [meaning](/post/meaning/) referring [to](/post/to/) numbers:
+- [Odd](/post/odd/) [number](/post/number/)
+- Uneven [number](/post/number/)
+- Non-even [number](/post/number/)
 
-[For](/en/post/for/) [the](/en/post/the/) [adjective](/en/post/adjective/) [meaning](/en/post/meaning/) describing [people](/en/post/people/) [or](/en/post/or/) things:
+[For](/post/for/) [the](/post/the/) [adjective](/post/adjective/) [meaning](/post/meaning/) describing [people](/post/people/) [or](/post/or/) things:
 - Eccentric
 - Quirky
 - Bizarre
-- [Out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [ordinary](/en/post/ordinary/)
+- [Out](/post/out/) [of](/post/of/) [the](/post/the/) [ordinary](/post/ordinary/)

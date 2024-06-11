@@ -7,31 +7,31 @@ description = '[ˈbɑːθruːm] n.浴室；盥洗室'
 keywords = ['ai words', 'bathroom']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɑːθˈruːm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [room](/en/post/room/) [in](/en/post/in/) [a](/en/post/a/) [building](/en/post/building/), typically [with](/en/post/with/) facilities [for](/en/post/for/) [personal](/en/post/personal/) hygiene [and](/en/post/and/) washing, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [sink](/en/post/sink/), [toilet](/en/post/toilet/), [and](/en/post/and/) [sometimes](/en/post/sometimes/) [a](/en/post/a/) bathtub [or](/en/post/or/) [shower](/en/post/shower/). 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [use](/en/post/use/) [or](/en/post/or/) [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [bathroom](/en/post/bathroom/). [For](/en/post/for/) [example](/en/post/example/): "I'll [be](/en/post/be/) [right](/en/post/right/) [back](/en/post/back/), I [need](/en/post/need/) [to](/en/post/to/) [use](/en/post/use/) [the](/en/post/the/) [bathroom](/en/post/bathroom/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [room](/post/room/) [in](/post/in/) [a](/post/a/) [building](/post/building/), typically [with](/post/with/) facilities [for](/post/for/) [personal](/post/personal/) hygiene [and](/post/and/) washing, [such](/post/such/) [as](/post/as/) [a](/post/a/) [sink](/post/sink/), [toilet](/post/toilet/), [and](/post/and/) [sometimes](/post/sometimes/) [a](/post/a/) bathtub [or](/post/or/) [shower](/post/shower/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [use](/post/use/) [or](/post/or/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [bathroom](/post/bathroom/). [For](/post/for/) [example](/post/example/): "I'll [be](/post/be/) [right](/post/right/) [back](/post/back/), I [need](/post/need/) [to](/post/to/) [use](/post/use/) [the](/post/the/) [bathroom](/post/bathroom/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [bathroom](/en/post/bathroom/) [break](/en/post/break/)" [means](/en/post/means/) [to](/en/post/to/) [pause](/en/post/pause/) [for](/en/post/for/) [a](/en/post/a/) [moment](/en/post/moment/) [to](/en/post/to/) [use](/en/post/use/) [the](/en/post/the/) restroom.
-- "[The](/en/post/the/) [bathroom](/en/post/bathroom/) is [down](/en/post/down/) [the](/en/post/the/) [hall](/en/post/hall/)" gives directions [to](/en/post/to/) [the](/en/post/the/) washroom.
-- "[Bathroom](/en/post/bathroom/) humor" refers [to](/en/post/to/) jokes [or](/en/post/or/) lighthearted topics related [to](/en/post/to/) bathrooms.
+- "[Take](/post/take/) [a](/post/a/) [bathroom](/post/bathroom/) [break](/post/break/)" [means](/post/means/) [to](/post/to/) [pause](/post/pause/) [for](/post/for/) [a](/post/a/) [moment](/post/moment/) [to](/post/to/) [use](/post/use/) [the](/post/the/) restroom.
+- "[The](/post/the/) [bathroom](/post/bathroom/) is [down](/post/down/) [the](/post/the/) [hall](/post/hall/)" gives directions [to](/post/to/) [the](/post/the/) washroom.
+- "[Bathroom](/post/bathroom/) humor" refers [to](/post/to/) jokes [or](/post/or/) lighthearted topics related [to](/post/to/) bathrooms.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) locked [the](/en/post/the/) [bathroom](/en/post/bathroom/) [door](/en/post/door/) [to](/en/post/to/) [have](/en/post/have/) [some](/en/post/some/) privacy."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [walk](/en/post/walk/), [he](/en/post/he/) stopped [to](/en/post/to/) [use](/en/post/use/) [the](/en/post/the/) [bathroom](/en/post/bathroom/)."
-- **Prepositional [Phrase](/en/post/phrase/)**: "[The](/en/post/the/) children were playing [in](/en/post/in/) [the](/en/post/the/) [bathroom](/en/post/bathroom/) [while](/en/post/while/) [their](/en/post/their/) parents prepared [dinner](/en/post/dinner/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) locked [the](/post/the/) [bathroom](/post/bathroom/) [door](/post/door/) [to](/post/to/) [have](/post/have/) [some](/post/some/) privacy."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [long](/post/long/) [walk](/post/walk/), [he](/post/he/) stopped [to](/post/to/) [use](/post/use/) [the](/post/the/) [bathroom](/post/bathroom/)."
+- **Prepositional [Phrase](/post/phrase/)**: "[The](/post/the/) children were playing [in](/post/in/) [the](/post/the/) [bathroom](/post/bathroom/) [while](/post/while/) [their](/post/their/) parents prepared [dinner](/post/dinner/)."
 
 ## Synonyms
 - Restroom
 - Washroom
-- [Lavatory](/en/post/lavatory/)
-- [Water](/en/post/water/) closet
-- [Powder](/en/post/powder/) [room](/en/post/room/)
+- [Lavatory](/post/lavatory/)
+- [Water](/post/water/) closet
+- [Powder](/post/powder/) [room](/post/room/)
 
 ## Antonyms
-- [Outside](/en/post/outside/)
-- [Kitchen](/en/post/kitchen/)
-- [Living](/en/post/living/) [room](/en/post/room/) ([generally](/en/post/generally/) [not](/en/post/not/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) synonym [for](/en/post/for/) [bathroom](/en/post/bathroom/))
+- [Outside](/post/outside/)
+- [Kitchen](/post/kitchen/)
+- [Living](/post/living/) [room](/post/room/) ([generally](/post/generally/) [not](/post/not/) [used](/post/used/) [as](/post/as/) [a](/post/a/) synonym [for](/post/for/) [bathroom](/post/bathroom/))

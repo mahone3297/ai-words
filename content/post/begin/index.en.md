@@ -7,36 +7,36 @@ description = '[biˈgin] vi.开始 vt.开始'
 keywords = ['ai words', 'begin']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈɡɪn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [start](/en/post/start/), commence, [or](/en/post/or/) initiate [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [meeting](/en/post/meeting/) began [at](/en/post/at/) 10 am."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) starting [point](/en/post/point/) [or](/en/post/or/) [the](/en/post/the/) [initial](/en/post/initial/) [stage](/en/post/stage/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [the](/en/post/the/) [story](/en/post/story/) is [quite](/en/post/quite/) intriguing."
-- **[Adverb](/en/post/adverb/)**: Expressing [the](/en/post/the/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) an [action](/en/post/action/) starts. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) began [her](/en/post/her/) presentation calmly."
+- **[Verb](/post/verb/)**: [To](/post/to/) [start](/post/start/), commence, [or](/post/or/) initiate [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [meeting](/post/meeting/) began [at](/post/at/) 10 am."
+- **[Noun](/post/noun/)**: [The](/post/the/) starting [point](/post/point/) [or](/post/or/) [the](/post/the/) [initial](/post/initial/) [stage](/post/stage/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [the](/post/the/) [story](/post/story/) is [quite](/post/quite/) intriguing."
+- **[Adverb](/post/adverb/)**: Expressing [the](/post/the/) [manner](/post/manner/) [in](/post/in/) [which](/post/which/) an [action](/post/action/) starts. [For](/post/for/) [example](/post/example/): "[She](/post/she/) began [her](/post/her/) presentation calmly."
 
 ## Phrases
-- "[Beginning](/en/post/beginning/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/)" refers [to](/en/post/to/) [the](/en/post/the/) [start](/en/post/start/) [of](/en/post/of/) [a](/en/post/a/) [calendar](/en/post/calendar/) [year](/en/post/year/).
-- "[To](/en/post/to/) [begin](/en/post/begin/) [with](/en/post/with/)" is [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [point](/en/post/point/) [or](/en/post/or/) [topic](/en/post/topic/).
-- "[Begin](/en/post/begin/) anew" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) afresh [or](/en/post/or/) restart.
+- "[Beginning](/post/beginning/) [of](/post/of/) [the](/post/the/) [year](/post/year/)" refers [to](/post/to/) [the](/post/the/) [start](/post/start/) [of](/post/of/) [a](/post/a/) [calendar](/post/calendar/) [year](/post/year/).
+- "[To](/post/to/) [begin](/post/begin/) [with](/post/with/)" is [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [point](/post/point/) [or](/post/or/) [topic](/post/topic/).
+- "[Begin](/post/begin/) anew" [means](/post/means/) [to](/post/to/) [start](/post/start/) afresh [or](/post/or/) restart.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [break](/en/post/break/), [they](/en/post/they/) began discussing [the](/en/post/the/) agenda."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) book's [beginning](/en/post/beginning/) was [a](/en/post/a/) cliffhanger [that](/en/post/that/) [left](/en/post/left/) readers [eager](/en/post/eager/) [to](/en/post/to/) [continue](/en/post/continue/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) began singing [softly](/en/post/softly/), [then](/en/post/then/) [gradually](/en/post/gradually/) increased [her](/en/post/her/) [volume](/en/post/volume/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [break](/post/break/), [they](/post/they/) began discussing [the](/post/the/) agenda."
+- **[Noun](/post/noun/)**: "[The](/post/the/) book's [beginning](/post/beginning/) was [a](/post/a/) cliffhanger [that](/post/that/) [left](/post/left/) readers [eager](/post/eager/) [to](/post/to/) [continue](/post/continue/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) began singing [softly](/post/softly/), [then](/post/then/) [gradually](/post/gradually/) increased [her](/post/her/) [volume](/post/volume/)."
 
 ## Synonyms
 - Commence
-- [Start](/en/post/start/)
+- [Start](/post/start/)
 - Initiate
-- [Launch](/en/post/launch/)
-- [Set](/en/post/set/) [out](/en/post/out/)
-- [Kick](/en/post/kick/) [off](/en/post/off/)
-- [Open](/en/post/open/)
+- [Launch](/post/launch/)
+- [Set](/post/set/) [out](/post/out/)
+- [Kick](/post/kick/) [off](/post/off/)
+- [Open](/post/open/)
 
 ## Antonyms
-- [End](/en/post/end/)
-- [Finish](/en/post/finish/)
+- [End](/post/end/)
+- [Finish](/post/finish/)
 - Terminate
-- [Cease](/en/post/cease/)
-- [Stop](/en/post/stop/)
+- [Cease](/post/cease/)
+- [Stop](/post/stop/)

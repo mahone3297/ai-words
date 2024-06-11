@@ -7,37 +7,37 @@ description = '[ˈkɔləm] n.柱，支柱，圆柱'
 keywords = ['ai words', 'column']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈlʌm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [column](/en/post/column/) is [a](/en/post/a/) [long](/en/post/long/), [slender](/en/post/slender/), [vertical](/en/post/vertical/) [structure](/en/post/structure/) [or](/en/post/or/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) [data](/en/post/data/) [in](/en/post/in/) [a](/en/post/a/) printed [or](/en/post/or/) [digital](/en/post/digital/) [publication](/en/post/publication/), typically organized [by](/en/post/by/) headings [or](/en/post/or/) labels, [and](/en/post/and/) [used](/en/post/used/) [to](/en/post/to/) [display](/en/post/display/) [information](/en/post/information/) [in](/en/post/in/) [a](/en/post/a/) systematic [manner](/en/post/manner/). [In](/en/post/in/) [a](/en/post/a/) [newspaper](/en/post/newspaper/) [or](/en/post/or/) [magazine](/en/post/magazine/), [it](/en/post/it/) [may](/en/post/may/) [contain](/en/post/contain/) [text](/en/post/text/), images, [or](/en/post/or/) [both](/en/post/both/). [In](/en/post/in/) [a](/en/post/a/) database [or](/en/post/or/) spreadsheet, it's [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) cells [that](/en/post/that/) [share](/en/post/share/) [a](/en/post/a/) [common](/en/post/common/) [label](/en/post/label/).
+### [Noun](/post/noun/)
+[A](/post/a/) [column](/post/column/) is [a](/post/a/) [long](/post/long/), [slender](/post/slender/), [vertical](/post/vertical/) [structure](/post/structure/) [or](/post/or/) [arrangement](/post/arrangement/) [of](/post/of/) [data](/post/data/) [in](/post/in/) [a](/post/a/) printed [or](/post/or/) [digital](/post/digital/) [publication](/post/publication/), typically organized [by](/post/by/) headings [or](/post/or/) labels, [and](/post/and/) [used](/post/used/) [to](/post/to/) [display](/post/display/) [information](/post/information/) [in](/post/in/) [a](/post/a/) systematic [manner](/post/manner/). [In](/post/in/) [a](/post/a/) [newspaper](/post/newspaper/) [or](/post/or/) [magazine](/post/magazine/), [it](/post/it/) [may](/post/may/) [contain](/post/contain/) [text](/post/text/), images, [or](/post/or/) [both](/post/both/). [In](/post/in/) [a](/post/a/) database [or](/post/or/) spreadsheet, it's [a](/post/a/) [series](/post/series/) [of](/post/of/) cells [that](/post/that/) [share](/post/share/) [a](/post/a/) [common](/post/common/) [label](/post/label/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [column](/en/post/column/) ([or](/en/post/or/) [to](/en/post/to/) [arrange](/en/post/arrange/) [in](/en/post/in/) columns) [means](/en/post/means/) [to](/en/post/to/) [organize](/en/post/organize/) [content](/en/post/content/) [or](/en/post/or/) [data](/en/post/data/) [into](/en/post/into/) [parallel](/en/post/parallel/) rows [or](/en/post/or/) sections, [usually](/en/post/usually/) [for](/en/post/for/) [better](/en/post/better/) readability [or](/en/post/or/) presentation.
+### [Verb](/post/verb/)
+[To](/post/to/) [column](/post/column/) ([or](/post/or/) [to](/post/to/) [arrange](/post/arrange/) [in](/post/in/) columns) [means](/post/means/) [to](/post/to/) [organize](/post/organize/) [content](/post/content/) [or](/post/or/) [data](/post/data/) [into](/post/into/) [parallel](/post/parallel/) rows [or](/post/or/) sections, [usually](/post/usually/) [for](/post/for/) [better](/post/better/) readability [or](/post/or/) presentation.
 
-### [Adjective](/en/post/adjective/)
-Columnar [can](/en/post/can/) [describe](/en/post/describe/) [something](/en/post/something/) arranged [in](/en/post/in/) columns [or](/en/post/or/) having [a](/en/post/a/) column-like [structure](/en/post/structure/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) columnar [layout](/en/post/layout/) [or](/en/post/or/) columnar [data](/en/post/data/).
+### [Adjective](/post/adjective/)
+Columnar [can](/post/can/) [describe](/post/describe/) [something](/post/something/) arranged [in](/post/in/) columns [or](/post/or/) having [a](/post/a/) column-like [structure](/post/structure/), [such](/post/such/) [as](/post/as/) [a](/post/a/) columnar [layout](/post/layout/) [or](/post/or/) columnar [data](/post/data/).
 
 ## Phrases
-- "[Organize](/en/post/organize/) [data](/en/post/data/) [in](/en/post/in/) columns" refers [to](/en/post/to/) arranging [information](/en/post/information/) [in](/en/post/in/) [a](/en/post/a/) [vertical](/en/post/vertical/) format.
-- "[Column](/en/post/column/) headers" are [the](/en/post/the/) titles [or](/en/post/or/) labels [found](/en/post/found/) [at](/en/post/at/) [the](/en/post/the/) [top](/en/post/top/) [of](/en/post/of/) [a](/en/post/a/) [column](/en/post/column/).
-- "Two-column format" is [a](/en/post/a/) [layout](/en/post/layout/) [with](/en/post/with/) [content](/en/post/content/) divided [into](/en/post/into/) [two](/en/post/two/) [parallel](/en/post/parallel/) columns.
+- "[Organize](/post/organize/) [data](/post/data/) [in](/post/in/) columns" refers [to](/post/to/) arranging [information](/post/information/) [in](/post/in/) [a](/post/a/) [vertical](/post/vertical/) format.
+- "[Column](/post/column/) headers" are [the](/post/the/) titles [or](/post/or/) labels [found](/post/found/) [at](/post/at/) [the](/post/the/) [top](/post/top/) [of](/post/of/) [a](/post/a/) [column](/post/column/).
+- "Two-column format" is [a](/post/a/) [layout](/post/layout/) [with](/post/with/) [content](/post/content/) divided [into](/post/into/) [two](/post/two/) [parallel](/post/parallel/) columns.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) spreadsheet had [several](/en/post/several/) columns [for](/en/post/for/) [each](/en/post/each/) employee's [name](/en/post/name/), ID, [and](/en/post/and/) [salary](/en/post/salary/).
-- **[Verb](/en/post/verb/)**: [She](/en/post/she/) decided [to](/en/post/to/) reorganize [the](/en/post/the/) articles [in](/en/post/in/) [a](/en/post/a/) columnar format [for](/en/post/for/) easier scanning.
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) columnar [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [building](/en/post/building/) made [it](/en/post/it/) visually striking.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) spreadsheet had [several](/post/several/) columns [for](/post/for/) [each](/post/each/) employee's [name](/post/name/), ID, [and](/post/and/) [salary](/post/salary/).
+- **[Verb](/post/verb/)**: [She](/post/she/) decided [to](/post/to/) reorganize [the](/post/the/) articles [in](/post/in/) [a](/post/a/) columnar format [for](/post/for/) easier scanning.
+- **[Adjective](/post/adjective/)**: [The](/post/the/) columnar [design](/post/design/) [of](/post/of/) [the](/post/the/) [building](/post/building/) made [it](/post/it/) visually striking.
 
 ## Synonyms
-- [Row](/en/post/row/)
-- [Series](/en/post/series/)
+- [Row](/post/row/)
+- [Series](/post/series/)
 - Alignment
-- [Block](/en/post/block/)
+- [Block](/post/block/)
 - Segmented
 
 ## Antonyms
-- [Scatter](/en/post/scatter/) (random [arrangement](/en/post/arrangement/))
+- [Scatter](/post/scatter/) (random [arrangement](/post/arrangement/))
 - Unstructured
 - Haphazard

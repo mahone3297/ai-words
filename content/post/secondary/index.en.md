@@ -7,30 +7,30 @@ description = '[ˈsekəndəri] a.第二的；次要的'
 keywords = ['ai words', 'secondary']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪˈsɛndri/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Coming [after](/en/post/after/) [the](/en/post/the/) [main](/en/post/main/) [or](/en/post/or/) [primary](/en/post/primary/); [second](/en/post/second/) [in](/en/post/in/) [rank](/en/post/rank/) [or](/en/post/or/) [importance](/en/post/importance/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [secondary](/en/post/secondary/) [school](/en/post/school/) is [across](/en/post/across/) [the](/en/post/the/) [street](/en/post/street/) [from](/en/post/from/) [the](/en/post/the/) [primary](/en/post/primary/) [school](/en/post/school/)."
-- **[Adjective](/en/post/adjective/) (informal)**: [Less](/en/post/less/) [important](/en/post/important/) [or](/en/post/or/) [significant](/en/post/significant/); [secondary](/en/post/secondary/) [role](/en/post/role/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [secondary](/en/post/secondary/) interests [include](/en/post/include/) [painting](/en/post/painting/) [and](/en/post/and/) [reading](/en/post/reading/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) attending [a](/en/post/a/) [secondary](/en/post/secondary/) [school](/en/post/school/), [or](/en/post/or/) [a](/en/post/a/) [less](/en/post/less/) [important](/en/post/important/) [school](/en/post/school/) [or](/en/post/or/) [college](/en/post/college/). [For](/en/post/for/) [example](/en/post/example/): "[Many](/en/post/many/) students [attend](/en/post/attend/) [secondary](/en/post/secondary/) schools [after](/en/post/after/) [primary](/en/post/primary/) [school](/en/post/school/)."
-- **[Noun](/en/post/noun/) (computing)**: [A](/en/post/a/) backup [or](/en/post/or/) [secondary](/en/post/secondary/) [storage](/en/post/storage/) [device](/en/post/device/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [data](/en/post/data/) is stored [on](/en/post/on/) [both](/en/post/both/) [the](/en/post/the/) [primary](/en/post/primary/) [and](/en/post/and/) [secondary](/en/post/secondary/) drives."
+- **[Adjective](/post/adjective/)**: Coming [after](/post/after/) [the](/post/the/) [main](/post/main/) [or](/post/or/) [primary](/post/primary/); [second](/post/second/) [in](/post/in/) [rank](/post/rank/) [or](/post/or/) [importance](/post/importance/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [secondary](/post/secondary/) [school](/post/school/) is [across](/post/across/) [the](/post/the/) [street](/post/street/) [from](/post/from/) [the](/post/the/) [primary](/post/primary/) [school](/post/school/)."
+- **[Adjective](/post/adjective/) (informal)**: [Less](/post/less/) [important](/post/important/) [or](/post/or/) [significant](/post/significant/); [secondary](/post/secondary/) [role](/post/role/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [secondary](/post/secondary/) interests [include](/post/include/) [painting](/post/painting/) [and](/post/and/) [reading](/post/reading/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) attending [a](/post/a/) [secondary](/post/secondary/) [school](/post/school/), [or](/post/or/) [a](/post/a/) [less](/post/less/) [important](/post/important/) [school](/post/school/) [or](/post/or/) [college](/post/college/). [For](/post/for/) [example](/post/example/): "[Many](/post/many/) students [attend](/post/attend/) [secondary](/post/secondary/) schools [after](/post/after/) [primary](/post/primary/) [school](/post/school/)."
+- **[Noun](/post/noun/) (computing)**: [A](/post/a/) backup [or](/post/or/) [secondary](/post/secondary/) [storage](/post/storage/) [device](/post/device/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [data](/post/data/) is stored [on](/post/on/) [both](/post/both/) [the](/post/the/) [primary](/post/primary/) [and](/post/and/) [secondary](/post/secondary/) drives."
 
 ## Phrases
-- "[Secondary](/en/post/secondary/) [education](/en/post/education/)" refers [to](/en/post/to/) [high](/en/post/high/) [school](/en/post/school/) [or](/en/post/or/) post-primary schooling.
-- "[Secondary](/en/post/secondary/) [purpose](/en/post/purpose/)" describes [a](/en/post/a/) lesser [goal](/en/post/goal/) [or](/en/post/or/) [function](/en/post/function/).
-- "[Secondary](/en/post/secondary/) [character](/en/post/character/)" is [a](/en/post/a/) supporting [role](/en/post/role/) [in](/en/post/in/) [a](/en/post/a/) [story](/en/post/story/) [or](/en/post/or/) [film](/en/post/film/).
+- "[Secondary](/post/secondary/) [education](/post/education/)" refers [to](/post/to/) [high](/post/high/) [school](/post/school/) [or](/post/or/) post-primary schooling.
+- "[Secondary](/post/secondary/) [purpose](/post/purpose/)" describes [a](/post/a/) lesser [goal](/post/goal/) [or](/post/or/) [function](/post/function/).
+- "[Secondary](/post/secondary/) [character](/post/character/)" is [a](/post/a/) supporting [role](/post/role/) [in](/post/in/) [a](/post/a/) [story](/post/story/) [or](/post/or/) [film](/post/film/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [secondary](/en/post/secondary/) roads are [often](/en/post/often/) narrower [than](/en/post/than/) [the](/en/post/the/) [primary](/en/post/primary/) highways."
-- **[Adjective](/en/post/adjective/) (informal)**: "[In](/en/post/in/) [his](/en/post/his/) [free](/en/post/free/) [time](/en/post/time/), [he](/en/post/he/) focuses [on](/en/post/on/) [his](/en/post/his/) [secondary](/en/post/secondary/) passions [like](/en/post/like/) photography."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) completed [her](/en/post/her/) [secondary](/en/post/secondary/) [education](/en/post/education/) [at](/en/post/at/) [a](/en/post/a/) [local](/en/post/local/) [college](/en/post/college/)."
-- **[Noun](/en/post/noun/) (computing)**: "[The](/en/post/the/) [system](/en/post/system/) automatically transfers [data](/en/post/data/) [to](/en/post/to/) [the](/en/post/the/) [secondary](/en/post/secondary/) [drive](/en/post/drive/) [during](/en/post/during/) [low](/en/post/low/) [usage](/en/post/usage/) periods."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [secondary](/post/secondary/) roads are [often](/post/often/) narrower [than](/post/than/) [the](/post/the/) [primary](/post/primary/) highways."
+- **[Adjective](/post/adjective/) (informal)**: "[In](/post/in/) [his](/post/his/) [free](/post/free/) [time](/post/time/), [he](/post/he/) focuses [on](/post/on/) [his](/post/his/) [secondary](/post/secondary/) passions [like](/post/like/) photography."
+- **[Noun](/post/noun/)**: "[She](/post/she/) completed [her](/post/her/) [secondary](/post/secondary/) [education](/post/education/) [at](/post/at/) [a](/post/a/) [local](/post/local/) [college](/post/college/)."
+- **[Noun](/post/noun/) (computing)**: "[The](/post/the/) [system](/post/system/) automatically transfers [data](/post/data/) [to](/post/to/) [the](/post/the/) [secondary](/post/secondary/) [drive](/post/drive/) [during](/post/during/) [low](/post/low/) [usage](/post/usage/) periods."
 
 ## Synonyms
-- [Secondary](/en/post/secondary/)
+- [Secondary](/post/secondary/)
 - Subordinate
 - Supporting
 - Backup
-- [Less](/en/post/less/) [important](/en/post/important/)
+- [Less](/post/less/) [important](/post/important/)
 - Second-tier

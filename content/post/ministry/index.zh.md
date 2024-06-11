@@ -16,17 +16,17 @@ keywords = ['ai words', 'ministry']
   - (基督教) 教会；神职：指基督教中的教会组织或神职人员。
 
 ## 短语
-- "[the](/post/the/) [Ministry](/post/ministry/) [of](/post/of/) [Education](/post/education/)" 教育部
-- "[the](/post/the/) clergy [ministry](/post/ministry/)" 神职工作
-- "[foreign](/post/foreign/) [ministry](/post/ministry/)" 外交部
+- "[the](/zh/post/the/) [Ministry](/zh/post/ministry/) [of](/zh/post/of/) [Education](/zh/post/education/)" 教育部
+- "[the](/zh/post/the/) clergy [ministry](/zh/post/ministry/)" 神职工作
+- "[foreign](/zh/post/foreign/) [ministry](/zh/post/ministry/)" 外交部
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [Minister](/post/minister/) [for](/post/for/) [Health](/post/health/) was appointed [from](/post/from/) [within](/post/within/) [the](/post/the/) [Ministry](/post/ministry/)."
-- 名词: "[The](/post/the/) [ministry](/post/ministry/) organized [a](/post/a/) [conference](/post/conference/) [on](/post/on/) [religious](/post/religious/) [tolerance](/post/tolerance/)."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [Minister](/zh/post/minister/) [for](/zh/post/for/) [Health](/zh/post/health/) was appointed [from](/zh/post/from/) [within](/zh/post/within/) [the](/zh/post/the/) [Ministry](/zh/post/ministry/)."
+- 名词: "[The](/zh/post/the/) [ministry](/zh/post/ministry/) organized [a](/zh/post/a/) [conference](/zh/post/conference/) [on](/zh/post/on/) [religious](/zh/post/religious/) [tolerance](/zh/post/tolerance/)."
 
 ## 同义词
-- [Department](/post/department/)
-- [Agency](/post/agency/)
-- [Bureau](/post/bureau/)
+- [Department](/zh/post/department/)
+- [Agency](/zh/post/agency/)
+- [Bureau](/zh/post/bureau/)
 - Directorate
 - Portfolio

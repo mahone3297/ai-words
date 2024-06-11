@@ -7,33 +7,33 @@ description = '[ˈlekt∫ə] n.&vi.演讲，讲课'
 keywords = ['ai words', 'lecture']
 +++
 
-# [Lecture](/en/post/lecture/)
+# [Lecture](/post/lecture/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɛktʃər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [formal](/en/post/formal/) [talk](/en/post/talk/) [or](/en/post/or/) discourse [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/), [usually](/en/post/usually/) given [by](/en/post/by/) [a](/en/post/a/) [teacher](/en/post/teacher/) [or](/en/post/or/) [expert](/en/post/expert/) [to](/en/post/to/) an [audience](/en/post/audience/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [professor](/en/post/professor/) delivered an engaging [lecture](/en/post/lecture/) [on](/en/post/on/) quantum [physics](/en/post/physics/)."
-  - _In [education](/en/post/education/) context_: [A](/en/post/a/) [teaching](/en/post/teaching/) [session](/en/post/session/) [at](/en/post/at/) [a](/en/post/a/) [college](/en/post/college/) [or](/en/post/or/) [university](/en/post/university/) [where](/en/post/where/) [information](/en/post/information/) is presented [to](/en/post/to/) students. [Example](/en/post/example/): "[She](/en/post/she/) attended [three](/en/post/three/) lectures [every](/en/post/every/) [week](/en/post/week/) [during](/en/post/during/) [her](/en/post/her/) [first](/en/post/first/) [semester](/en/post/semester/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [formal](/en/post/formal/) [talk](/en/post/talk/) [or](/en/post/or/) discourse [on](/en/post/on/) [a](/en/post/a/) [specific](/en/post/specific/) [topic](/en/post/topic/). [Example](/en/post/example/): "[The](/en/post/the/) visiting [scholar](/en/post/scholar/) [will](/en/post/will/) [lecture](/en/post/lecture/) [on](/en/post/on/) [the](/en/post/the/) [history](/en/post/history/) [of](/en/post/of/) [art](/en/post/art/) [tomorrow](/en/post/tomorrow/) [afternoon](/en/post/afternoon/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [formal](/post/formal/) [talk](/post/talk/) [or](/post/or/) discourse [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/), [usually](/post/usually/) given [by](/post/by/) [a](/post/a/) [teacher](/post/teacher/) [or](/post/or/) [expert](/post/expert/) [to](/post/to/) an [audience](/post/audience/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [professor](/post/professor/) delivered an engaging [lecture](/post/lecture/) [on](/post/on/) quantum [physics](/post/physics/)."
+  - _In [education](/post/education/) context_: [A](/post/a/) [teaching](/post/teaching/) [session](/post/session/) [at](/post/at/) [a](/post/a/) [college](/post/college/) [or](/post/or/) [university](/post/university/) [where](/post/where/) [information](/post/information/) is presented [to](/post/to/) students. [Example](/post/example/): "[She](/post/she/) attended [three](/post/three/) lectures [every](/post/every/) [week](/post/week/) [during](/post/during/) [her](/post/her/) [first](/post/first/) [semester](/post/semester/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [give](/post/give/) [a](/post/a/) [formal](/post/formal/) [talk](/post/talk/) [or](/post/or/) discourse [on](/post/on/) [a](/post/a/) [specific](/post/specific/) [topic](/post/topic/). [Example](/post/example/): "[The](/post/the/) visiting [scholar](/post/scholar/) [will](/post/will/) [lecture](/post/lecture/) [on](/post/on/) [the](/post/the/) [history](/post/history/) [of](/post/of/) [art](/post/art/) [tomorrow](/post/tomorrow/) [afternoon](/post/afternoon/)."
 
 ## Phrases
-- "[Lecture](/en/post/lecture/) [series](/en/post/series/)": [A](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) consecutive lectures [on](/en/post/on/) related topics given [over](/en/post/over/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/).
-- "[Lecture](/en/post/lecture/) [hall](/en/post/hall/)": [A](/en/post/a/) [large](/en/post/large/) [room](/en/post/room/) [or](/en/post/or/) auditorium specifically designed [for](/en/post/for/) delivering lectures.
-- "[Lecture](/en/post/lecture/) notes": Written [or](/en/post/or/) printed [material](/en/post/material/) summarizing [the](/en/post/the/) [content](/en/post/content/) [of](/en/post/of/) [a](/en/post/a/) [lecture](/en/post/lecture/).
+- "[Lecture](/post/lecture/) [series](/post/series/)": [A](/post/a/) [set](/post/set/) [of](/post/of/) consecutive lectures [on](/post/on/) related topics given [over](/post/over/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/).
+- "[Lecture](/post/lecture/) [hall](/post/hall/)": [A](/post/a/) [large](/post/large/) [room](/post/room/) [or](/post/or/) auditorium specifically designed [for](/post/for/) delivering lectures.
+- "[Lecture](/post/lecture/) notes": Written [or](/post/or/) printed [material](/post/material/) summarizing [the](/post/the/) [content](/post/content/) [of](/post/of/) [a](/post/a/) [lecture](/post/lecture/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [guest](/en/post/guest/) speaker's insightful [lecture](/en/post/lecture/) [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/) captivated [the](/en/post/the/) [audience](/en/post/audience/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) lectures part-time [at](/en/post/at/) [the](/en/post/the/) [local](/en/post/local/) [community](/en/post/community/) [college](/en/post/college/) [in](/en/post/in/) [addition](/en/post/addition/) [to](/en/post/to/) [her](/en/post/her/) [research](/en/post/research/) [work](/en/post/work/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [guest](/post/guest/) speaker's insightful [lecture](/post/lecture/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/) captivated [the](/post/the/) [audience](/post/audience/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) lectures part-time [at](/post/at/) [the](/post/the/) [local](/post/local/) [community](/post/community/) [college](/post/college/) [in](/post/in/) [addition](/post/addition/) [to](/post/to/) [her](/post/her/) [research](/post/research/) [work](/post/work/)."
 
 ## Synonyms
-- [Talk](/en/post/talk/)
-- [Address](/en/post/address/)
-- [Speech](/en/post/speech/)
+- [Talk](/post/talk/)
+- [Address](/post/address/)
+- [Speech](/post/speech/)
 - Presentation
 - Seminar
 - Tutorial
 - Disquisition
 - Discourse
-- [Instruction](/en/post/instruction/)
-- Monologue ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- [Instruction](/post/instruction/)
+- Monologue ([in](/post/in/) [certain](/post/certain/) contexts)

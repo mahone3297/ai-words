@@ -7,30 +7,30 @@ description = '[wud] aux.v.将；愿；总是'
 keywords = ['ai words', 'would']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wʊd/
 
 ## Definitions
-- **Modal [verb](/en/post/verb/)**: [Would](/en/post/would/) is [a](/en/post/a/) modal [auxiliary](/en/post/auxiliary/) [verb](/en/post/verb/) [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [possibility](/en/post/possibility/), [desire](/en/post/desire/), [or](/en/post/or/) hypothetical situations.
-- **[Past](/en/post/past/) [tense](/en/post/tense/) [of](/en/post/of/) [will](/en/post/will/)**: [In](/en/post/in/) questions [and](/en/post/and/) conditional statements, [it](/en/post/it/) combines [with](/en/post/with/) [the](/en/post/the/) [base](/en/post/base/) [form](/en/post/form/) [of](/en/post/of/) [the](/en/post/the/) [main](/en/post/main/) [verb](/en/post/verb/) [to](/en/post/to/) [form](/en/post/form/) questions [about](/en/post/about/) [future](/en/post/future/) actions [or](/en/post/or/) hypothetical events. [For](/en/post/for/) [example](/en/post/example/): "I [would](/en/post/would/) [go](/en/post/go/) [if](/en/post/if/) [it](/en/post/it/) were [sunny](/en/post/sunny/)."
-- **Indicates [a](/en/post/a/) [polite](/en/post/polite/) [request](/en/post/request/)**: [Would](/en/post/would/) is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [make](/en/post/make/) [polite](/en/post/polite/) requests [or](/en/post/or/) suggestions, [like](/en/post/like/) "[Would](/en/post/would/) [you](/en/post/you/) [mind](/en/post/mind/) passing [the](/en/post/the/) [salt](/en/post/salt/)?"
-- **[Potential](/en/post/potential/) [or](/en/post/or/) [ability](/en/post/ability/)**: [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) someone's [potential](/en/post/potential/) [or](/en/post/or/) [ability](/en/post/ability/), [like](/en/post/like/) "[She](/en/post/she/) [would](/en/post/would/) [make](/en/post/make/) [a](/en/post/a/) [great](/en/post/great/) [team](/en/post/team/) [leader](/en/post/leader/)."
+- **Modal [verb](/post/verb/)**: [Would](/post/would/) is [a](/post/a/) modal [auxiliary](/post/auxiliary/) [verb](/post/verb/) [used](/post/used/) [to](/post/to/) [express](/post/express/) [possibility](/post/possibility/), [desire](/post/desire/), [or](/post/or/) hypothetical situations.
+- **[Past](/post/past/) [tense](/post/tense/) [of](/post/of/) [will](/post/will/)**: [In](/post/in/) questions [and](/post/and/) conditional statements, [it](/post/it/) combines [with](/post/with/) [the](/post/the/) [base](/post/base/) [form](/post/form/) [of](/post/of/) [the](/post/the/) [main](/post/main/) [verb](/post/verb/) [to](/post/to/) [form](/post/form/) questions [about](/post/about/) [future](/post/future/) actions [or](/post/or/) hypothetical events. [For](/post/for/) [example](/post/example/): "I [would](/post/would/) [go](/post/go/) [if](/post/if/) [it](/post/it/) were [sunny](/post/sunny/)."
+- **Indicates [a](/post/a/) [polite](/post/polite/) [request](/post/request/)**: [Would](/post/would/) is [often](/post/often/) [used](/post/used/) [to](/post/to/) [make](/post/make/) [polite](/post/polite/) requests [or](/post/or/) suggestions, [like](/post/like/) "[Would](/post/would/) [you](/post/you/) [mind](/post/mind/) passing [the](/post/the/) [salt](/post/salt/)?"
+- **[Potential](/post/potential/) [or](/post/or/) [ability](/post/ability/)**: [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) someone's [potential](/post/potential/) [or](/post/or/) [ability](/post/ability/), [like](/post/like/) "[She](/post/she/) [would](/post/would/) [make](/post/make/) [a](/post/a/) [great](/post/great/) [team](/post/team/) [leader](/post/leader/)."
 
 ## Phrases
-- "[Would](/en/post/would/) [you](/en/post/you/) [like](/en/post/like/)...?" is [a](/en/post/a/) [polite](/en/post/polite/) [way](/en/post/way/) [to](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) [something](/en/post/something/).
-- "[If](/en/post/if/) I were [you](/en/post/you/), I [would](/en/post/would/)..." suggests [a](/en/post/a/) hypothetical [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/).
-- "I [would](/en/post/would/) [have](/en/post/have/) done [it](/en/post/it/) differently" expresses [regret](/en/post/regret/) [about](/en/post/about/) [a](/en/post/a/) [past](/en/post/past/) [action](/en/post/action/).
+- "[Would](/post/would/) [you](/post/you/) [like](/post/like/)...?" is [a](/post/a/) [polite](/post/polite/) [way](/post/way/) [to](/post/to/) [ask](/post/ask/) [for](/post/for/) [something](/post/something/).
+- "[If](/post/if/) I were [you](/post/you/), I [would](/post/would/)..." suggests [a](/post/a/) hypothetical [course](/post/course/) [of](/post/of/) [action](/post/action/).
+- "I [would](/post/would/) [have](/post/have/) done [it](/post/it/) differently" expresses [regret](/post/regret/) [about](/post/about/) [a](/post/a/) [past](/post/past/) [action](/post/action/).
 
-## [Example](/en/post/example/) Sentences
-- **[Desire](/en/post/desire/)**: "I [would](/en/post/would/) [love](/en/post/love/) [to](/en/post/to/) [go](/en/post/go/) [on](/en/post/on/) [vacation](/en/post/vacation/) [this](/en/post/this/) [summer](/en/post/summer/)."
-- **Conditional [statement](/en/post/statement/)**: "[If](/en/post/if/) [it](/en/post/it/) rains, I [would](/en/post/would/) [stay](/en/post/stay/) [inside](/en/post/inside/)."
-- **[Polite](/en/post/polite/) [request](/en/post/request/)**: "[Would](/en/post/would/) [you](/en/post/you/) [please](/en/post/please/) [pass](/en/post/pass/) [the](/en/post/the/) [salt](/en/post/salt/)?"
+## [Example](/post/example/) Sentences
+- **[Desire](/post/desire/)**: "I [would](/post/would/) [love](/post/love/) [to](/post/to/) [go](/post/go/) [on](/post/on/) [vacation](/post/vacation/) [this](/post/this/) [summer](/post/summer/)."
+- **Conditional [statement](/post/statement/)**: "[If](/post/if/) [it](/post/it/) rains, I [would](/post/would/) [stay](/post/stay/) [inside](/post/inside/)."
+- **[Polite](/post/polite/) [request](/post/request/)**: "[Would](/post/would/) [you](/post/you/) [please](/post/please/) [pass](/post/pass/) [the](/post/the/) [salt](/post/salt/)?"
 
 ## Synonyms
-- [Should](/en/post/should/)
-- [Could](/en/post/could/)
-- [Might](/en/post/might/)
-- [Intend](/en/post/intend/) [to](/en/post/to/)
-- [Would](/en/post/would/) [rather](/en/post/rather/)
+- [Should](/post/should/)
+- [Could](/post/could/)
+- [Might](/post/might/)
+- [Intend](/post/intend/) [to](/post/to/)
+- [Would](/post/would/) [rather](/post/rather/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [last](/en/post/last/) synonym "[Would](/en/post/would/) [rather](/en/post/rather/)" is [not](/en/post/not/) [a](/en/post/a/) [direct](/en/post/direct/) synonym [but](/en/post/but/) implies [a](/en/post/a/) [preference](/en/post/preference/) [over](/en/post/over/) [another](/en/post/another/) [option](/en/post/option/).
+[Note](/post/note/): [The](/post/the/) [last](/post/last/) synonym "[Would](/post/would/) [rather](/post/rather/)" is [not](/post/not/) [a](/post/a/) [direct](/post/direct/) synonym [but](/post/but/) implies [a](/post/a/) [preference](/post/preference/) [over](/post/over/) [another](/post/another/) [option](/post/option/).

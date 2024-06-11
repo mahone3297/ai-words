@@ -7,35 +7,35 @@ description = 'n.剩余部分；其余的人'
 keywords = ['ai words', 'rest']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[rest](/en/post/rest/)/
+## [Pronunciation](/post/pronunciation/)
+/[rest](/post/rest/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - 1. [The](/en/post/the/) remaining [part](/en/post/part/) [or](/en/post/or/) [quantity](/en/post/quantity/) [after](/en/post/after/) [something](/en/post/something/) [else](/en/post/else/) has been taken [or](/en/post/or/) [used](/en/post/used/); remainder. [Example](/en/post/example/): "[After](/en/post/after/) eating [dinner](/en/post/dinner/), [there](/en/post/there/) was [still](/en/post/still/) [some](/en/post/some/) [food](/en/post/food/) [left](/en/post/left/) [in](/en/post/in/) [the](/en/post/the/) [plate](/en/post/plate/)."
-  - 2. [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [rest](/en/post/rest/) [or](/en/post/or/) relaxation. [Example](/en/post/example/): "[We](/en/post/we/) took [a](/en/post/a/) [rest](/en/post/rest/) [after](/en/post/after/) hiking [for](/en/post/for/) [several](/en/post/several/) hours."
-  - 3. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [free](/en/post/free/) [from](/en/post/from/) [work](/en/post/work/) [or](/en/post/or/) [activity](/en/post/activity/). [Example](/en/post/example/): "[She](/en/post/she/) enjoyed [the](/en/post/the/) [peaceful](/en/post/peaceful/) [rest](/en/post/rest/) [of](/en/post/of/) [her](/en/post/her/) [weekend](/en/post/weekend/)."
-  - 4. ([Physics](/en/post/physics/)) [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) an [object](/en/post/object/) [at](/en/post/at/) [complete](/en/post/complete/) [stop](/en/post/stop/) [or](/en/post/or/) [without](/en/post/without/) [motion](/en/post/motion/) [relative](/en/post/relative/) [to](/en/post/to/) [its](/en/post/its/) [surroundings](/en/post/surroundings/). [Example](/en/post/example/): "[The](/en/post/the/) [ball](/en/post/ball/) came [to](/en/post/to/) [rest](/en/post/rest/) [on](/en/post/on/) [the](/en/post/the/) [ground](/en/post/ground/)."
+- **[Noun](/post/noun/)**: 
+  - 1. [The](/post/the/) remaining [part](/post/part/) [or](/post/or/) [quantity](/post/quantity/) [after](/post/after/) [something](/post/something/) [else](/post/else/) has been taken [or](/post/or/) [used](/post/used/); remainder. [Example](/post/example/): "[After](/post/after/) eating [dinner](/post/dinner/), [there](/post/there/) was [still](/post/still/) [some](/post/some/) [food](/post/food/) [left](/post/left/) [in](/post/in/) [the](/post/the/) [plate](/post/plate/)."
+  - 2. [A](/post/a/) [period](/post/period/) [of](/post/of/) [rest](/post/rest/) [or](/post/or/) relaxation. [Example](/post/example/): "[We](/post/we/) took [a](/post/a/) [rest](/post/rest/) [after](/post/after/) hiking [for](/post/for/) [several](/post/several/) hours."
+  - 3. [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [free](/post/free/) [from](/post/from/) [work](/post/work/) [or](/post/or/) [activity](/post/activity/). [Example](/post/example/): "[She](/post/she/) enjoyed [the](/post/the/) [peaceful](/post/peaceful/) [rest](/post/rest/) [of](/post/of/) [her](/post/her/) [weekend](/post/weekend/)."
+  - 4. ([Physics](/post/physics/)) [The](/post/the/) [state](/post/state/) [of](/post/of/) an [object](/post/object/) [at](/post/at/) [complete](/post/complete/) [stop](/post/stop/) [or](/post/or/) [without](/post/without/) [motion](/post/motion/) [relative](/post/relative/) [to](/post/to/) [its](/post/its/) [surroundings](/post/surroundings/). [Example](/post/example/): "[The](/post/the/) [ball](/post/ball/) came [to](/post/to/) [rest](/post/rest/) [on](/post/on/) [the](/post/the/) [ground](/post/ground/)."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [pause](/en/post/pause/) [or](/en/post/or/) [cease](/en/post/cease/) [active](/en/post/active/) [movement](/en/post/movement/), [often](/en/post/often/) [for](/en/post/for/) recuperation [or](/en/post/or/) relaxation. [Example](/en/post/example/): "[The](/en/post/the/) children rested [after](/en/post/after/) playing [all](/en/post/all/) [day](/en/post/day/)."
-- **[Adjective](/en/post/adjective/)**: Characterizing [or](/en/post/or/) relating [to](/en/post/to/) [rest](/en/post/rest/) [or](/en/post/or/) repose. [Example](/en/post/example/): "[A](/en/post/a/) restful [vacation](/en/post/vacation/) allowed [them](/en/post/them/) [to](/en/post/to/) recharge."
+- **[Verb](/post/verb/)**: [To](/post/to/) [pause](/post/pause/) [or](/post/or/) [cease](/post/cease/) [active](/post/active/) [movement](/post/movement/), [often](/post/often/) [for](/post/for/) recuperation [or](/post/or/) relaxation. [Example](/post/example/): "[The](/post/the/) children rested [after](/post/after/) playing [all](/post/all/) [day](/post/day/)."
+- **[Adjective](/post/adjective/)**: Characterizing [or](/post/or/) relating [to](/post/to/) [rest](/post/rest/) [or](/post/or/) repose. [Example](/post/example/): "[A](/post/a/) restful [vacation](/post/vacation/) allowed [them](/post/them/) [to](/post/to/) recharge."
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [rest](/en/post/rest/)" [means](/en/post/means/) [to](/en/post/to/) [pause](/en/post/pause/) [and](/en/post/and/) [relax](/en/post/relax/).
-- "[Get](/en/post/get/) [some](/en/post/some/) [rest](/en/post/rest/)" is an [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) [advise](/en/post/advise/) [someone](/en/post/someone/) [to](/en/post/to/) [sleep](/en/post/sleep/) [or](/en/post/or/) [recover](/en/post/recover/).
-- "[Rest](/en/post/rest/) [and](/en/post/and/) recuperate" implies allowing [time](/en/post/time/) [for](/en/post/for/) [recovery](/en/post/recovery/) [from](/en/post/from/) [illness](/en/post/illness/) [or](/en/post/or/) exertion.
+- "[Take](/post/take/) [a](/post/a/) [rest](/post/rest/)" [means](/post/means/) [to](/post/to/) [pause](/post/pause/) [and](/post/and/) [relax](/post/relax/).
+- "[Get](/post/get/) [some](/post/some/) [rest](/post/rest/)" is an [expression](/post/expression/) [used](/post/used/) [to](/post/to/) [advise](/post/advise/) [someone](/post/someone/) [to](/post/to/) [sleep](/post/sleep/) [or](/post/or/) [recover](/post/recover/).
+- "[Rest](/post/rest/) [and](/post/and/) recuperate" implies allowing [time](/post/time/) [for](/post/for/) [recovery](/post/recovery/) [from](/post/from/) [illness](/post/illness/) [or](/post/or/) exertion.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [flight](/en/post/flight/), [he](/en/post/he/) needed [a](/en/post/a/) [good](/en/post/good/) night's [rest](/en/post/rest/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [athlete](/en/post/athlete/) rested [her](/en/post/her/) [sore](/en/post/sore/) muscles [before](/en/post/before/) continuing [the](/en/post/the/) workout."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) restful [atmosphere](/en/post/atmosphere/) [of](/en/post/of/) [the](/en/post/the/) [countryside](/en/post/countryside/) helped [him](/en/post/him/) unwind."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [long](/post/long/) [flight](/post/flight/), [he](/post/he/) needed [a](/post/a/) [good](/post/good/) night's [rest](/post/rest/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [athlete](/post/athlete/) rested [her](/post/her/) [sore](/post/sore/) muscles [before](/post/before/) continuing [the](/post/the/) workout."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) restful [atmosphere](/post/atmosphere/) [of](/post/of/) [the](/post/the/) [countryside](/post/countryside/) helped [him](/post/him/) unwind."
 
 ## Synonyms
 - Relaxation
 - Repose
-- [Break](/en/post/break/)
-- [Pause](/en/post/pause/)
+- [Break](/post/break/)
+- [Pause](/post/pause/)
 - Respite
 - Rejuvenation
-- [Recovery](/en/post/recovery/)
+- [Recovery](/post/recovery/)
 - Quiescence

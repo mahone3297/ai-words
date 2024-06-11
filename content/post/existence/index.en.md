@@ -7,31 +7,31 @@ description = '[igˈzistəns] n.存在，实在；生存'
 keywords = ['ai words', 'existence']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪɡˈzɪstəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [fact](/en/post/fact/) [of](/en/post/of/) [being](/en/post/being/); [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) existing, [especially](/en/post/especially/) [as](/en/post/as/) contrasted [with](/en/post/with/) nonexistence. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) continuance [or](/en/post/or/) [duration](/en/post/duration/) [of](/en/post/of/) [life](/en/post/life/); [the](/en/post/the/) [period](/en/post/period/) [during](/en/post/during/) [which](/en/post/which/) [something](/en/post/something/) exists [or](/en/post/or/) lives.
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [or](/post/or/) [fact](/post/fact/) [of](/post/of/) [being](/post/being/); [the](/post/the/) [state](/post/state/) [of](/post/of/) existing, [especially](/post/especially/) [as](/post/as/) contrasted [with](/post/with/) nonexistence. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) continuance [or](/post/or/) [duration](/post/duration/) [of](/post/of/) [life](/post/life/); [the](/post/the/) [period](/post/period/) [during](/post/during/) [which](/post/which/) [something](/post/something/) exists [or](/post/or/) lives.
 
-  - _Example sentence_: "[The](/en/post/the/) [existence](/en/post/existence/) [of](/en/post/of/) extraterrestrial [life](/en/post/life/) has [long](/en/post/long/) been [a](/en/post/a/) [topic](/en/post/topic/) [of](/en/post/of/) [debate](/en/post/debate/) [among](/en/post/among/) scientists."
-  - _Another example_: "[His](/en/post/his/) [existence](/en/post/existence/) was marked [by](/en/post/by/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) struggles [that](/en/post/that/) defined [his](/en/post/his/) [character](/en/post/character/)."
+  - _Example sentence_: "[The](/post/the/) [existence](/post/existence/) [of](/post/of/) extraterrestrial [life](/post/life/) has [long](/post/long/) been [a](/post/a/) [topic](/post/topic/) [of](/post/of/) [debate](/post/debate/) [among](/post/among/) scientists."
+  - _Another example_: "[His](/post/his/) [existence](/post/existence/) was marked [by](/post/by/) [a](/post/a/) [series](/post/series/) [of](/post/of/) struggles [that](/post/that/) defined [his](/post/his/) [character](/post/character/)."
 
 ## Phrases
-- "[In](/en/post/in/) [existence](/en/post/existence/)": Refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) currently exists [or](/en/post/or/) has existed [up](/en/post/up/) [until](/en/post/until/) [now](/en/post/now/). [Example](/en/post/example/): "[This](/en/post/this/) [tradition](/en/post/tradition/) has been [in](/en/post/in/) [existence](/en/post/existence/) [since](/en/post/since/) medieval times."
-- "[Question](/en/post/question/) one's [existence](/en/post/existence/)": [To](/en/post/to/) [doubt](/en/post/doubt/) [or](/en/post/or/) contemplate [the](/en/post/the/) [purpose](/en/post/purpose/) [or](/en/post/or/) [reality](/en/post/reality/) [of](/en/post/of/) one's [own](/en/post/own/) [life](/en/post/life/). [Example](/en/post/example/): "[After](/en/post/after/) losing [his](/en/post/his/) [job](/en/post/job/), [he](/en/post/he/) began questioning [his](/en/post/his/) [very](/en/post/very/) [existence](/en/post/existence/)."
-- "Existential [crisis](/en/post/crisis/)": [A](/en/post/a/) [moment](/en/post/moment/) [of](/en/post/of/) [intense](/en/post/intense/) soul-searching [where](/en/post/where/) [one](/en/post/one/) questions [the](/en/post/the/) [meaning](/en/post/meaning/) [and](/en/post/and/) [purpose](/en/post/purpose/) [of](/en/post/of/) [their](/en/post/their/) [life](/en/post/life/).
+- "[In](/post/in/) [existence](/post/existence/)": Refers [to](/post/to/) [something](/post/something/) [that](/post/that/) currently exists [or](/post/or/) has existed [up](/post/up/) [until](/post/until/) [now](/post/now/). [Example](/post/example/): "[This](/post/this/) [tradition](/post/tradition/) has been [in](/post/in/) [existence](/post/existence/) [since](/post/since/) medieval times."
+- "[Question](/post/question/) one's [existence](/post/existence/)": [To](/post/to/) [doubt](/post/doubt/) [or](/post/or/) contemplate [the](/post/the/) [purpose](/post/purpose/) [or](/post/or/) [reality](/post/reality/) [of](/post/of/) one's [own](/post/own/) [life](/post/life/). [Example](/post/example/): "[After](/post/after/) losing [his](/post/his/) [job](/post/job/), [he](/post/he/) began questioning [his](/post/his/) [very](/post/very/) [existence](/post/existence/)."
+- "Existential [crisis](/post/crisis/)": [A](/post/a/) [moment](/post/moment/) [of](/post/of/) [intense](/post/intense/) soul-searching [where](/post/where/) [one](/post/one/) questions [the](/post/the/) [meaning](/post/meaning/) [and](/post/and/) [purpose](/post/purpose/) [of](/post/of/) [their](/post/their/) [life](/post/life/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [mere](/en/post/mere/) [existence](/en/post/existence/) [of](/en/post/of/) [such](/en/post/such/) creatures [in](/en/post/in/) [the](/en/post/the/) depths [of](/en/post/of/) [the](/en/post/the/) [ocean](/en/post/ocean/) amazed [marine](/en/post/marine/) biologists."
-- "[Their](/en/post/their/) [friendship](/en/post/friendship/) transcended [time](/en/post/time/) [and](/en/post/and/) [space](/en/post/space/), proving [that](/en/post/that/) [love](/en/post/love/) is [as](/en/post/as/) [real](/en/post/real/) [and](/en/post/and/) tangible [as](/en/post/as/) [any](/en/post/any/) [other](/en/post/other/) [aspect](/en/post/aspect/) [of](/en/post/of/) [existence](/en/post/existence/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [mere](/post/mere/) [existence](/post/existence/) [of](/post/of/) [such](/post/such/) creatures [in](/post/in/) [the](/post/the/) depths [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/) amazed [marine](/post/marine/) biologists."
+- "[Their](/post/their/) [friendship](/post/friendship/) transcended [time](/post/time/) [and](/post/and/) [space](/post/space/), proving [that](/post/that/) [love](/post/love/) is [as](/post/as/) [real](/post/real/) [and](/post/and/) tangible [as](/post/as/) [any](/post/any/) [other](/post/other/) [aspect](/post/aspect/) [of](/post/of/) [existence](/post/existence/)."
 
 ## Synonyms
-- [Being](/en/post/being/)
-- [Existence](/en/post/existence/)
-- [Reality](/en/post/reality/)
-- [Presence](/en/post/presence/)
-- [Life](/en/post/life/)
+- [Being](/post/being/)
+- [Existence](/post/existence/)
+- [Reality](/post/reality/)
+- [Presence](/post/presence/)
+- [Life](/post/life/)
 - Survival
 - subsistence
-- Ontology ([in](/en/post/in/) philosophical context)
+- Ontology ([in](/post/in/) philosophical context)
 - Beingness (informal)

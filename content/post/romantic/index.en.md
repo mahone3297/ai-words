@@ -7,43 +7,43 @@ description = '[rəˈmæntik] a.浪漫的；传奇的'
 keywords = ['ai words', 'romantic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəʊˈmæntɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [romantic](/en/post/romantic/) refers [to](/en/post/to/):
-1. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is characterized [by](/en/post/by/) [a](/en/post/a/) [strong](/en/post/strong/) [interest](/en/post/interest/) [in](/en/post/in/) [love](/en/post/love/), [affection](/en/post/affection/), [and](/en/post/and/) [poetry](/en/post/poetry/), [often](/en/post/often/) idealizing [love](/en/post/love/) [or](/en/post/or/) relationships.
-2. [A](/en/post/a/) [style](/en/post/style/) [or](/en/post/or/) [period](/en/post/period/) marked [by](/en/post/by/) [enthusiasm](/en/post/enthusiasm/) [for](/en/post/for/) [or](/en/post/or/) [expression](/en/post/expression/) [of](/en/post/of/) emotions, [imagination](/en/post/imagination/), [and](/en/post/and/) idealism, typically [in](/en/post/in/) [literature](/en/post/literature/), [art](/en/post/art/), [or](/en/post/or/) [music](/en/post/music/).
-3. [A](/en/post/a/) [romantic](/en/post/romantic/) [film](/en/post/film/) [or](/en/post/or/) [story](/en/post/story/) [that](/en/post/that/) focuses [on](/en/post/on/) [love](/en/post/love/) [and](/en/post/and/) [emotional](/en/post/emotional/) [intensity](/en/post/intensity/).
+### [Noun](/post/noun/)
+[A](/post/a/) [romantic](/post/romantic/) refers [to](/post/to/):
+1. [A](/post/a/) [person](/post/person/) [who](/post/who/) is characterized [by](/post/by/) [a](/post/a/) [strong](/post/strong/) [interest](/post/interest/) [in](/post/in/) [love](/post/love/), [affection](/post/affection/), [and](/post/and/) [poetry](/post/poetry/), [often](/post/often/) idealizing [love](/post/love/) [or](/post/or/) relationships.
+2. [A](/post/a/) [style](/post/style/) [or](/post/or/) [period](/post/period/) marked [by](/post/by/) [enthusiasm](/post/enthusiasm/) [for](/post/for/) [or](/post/or/) [expression](/post/expression/) [of](/post/of/) emotions, [imagination](/post/imagination/), [and](/post/and/) idealism, typically [in](/post/in/) [literature](/post/literature/), [art](/post/art/), [or](/post/or/) [music](/post/music/).
+3. [A](/post/a/) [romantic](/post/romantic/) [film](/post/film/) [or](/post/or/) [story](/post/story/) [that](/post/that/) focuses [on](/post/on/) [love](/post/love/) [and](/post/and/) [emotional](/post/emotional/) [intensity](/post/intensity/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) romanticize (v):
-1. [To](/en/post/to/) [attribute](/en/post/attribute/) an idealized [or](/en/post/or/) exaggerated [sense](/en/post/sense/) [of](/en/post/of/) romance [or](/en/post/or/) sentimentality [to](/en/post/to/) [something](/en/post/something/).
-2. [To](/en/post/to/) [interpret](/en/post/interpret/) [or](/en/post/or/) [view](/en/post/view/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [person](/en/post/person/) [in](/en/post/in/) [a](/en/post/a/) [highly](/en/post/highly/) [romantic](/en/post/romantic/) [or](/en/post/or/) idealized [manner](/en/post/manner/).
+### [Verb](/post/verb/)
+[To](/post/to/) romanticize (v):
+1. [To](/post/to/) [attribute](/post/attribute/) an idealized [or](/post/or/) exaggerated [sense](/post/sense/) [of](/post/of/) romance [or](/post/or/) sentimentality [to](/post/to/) [something](/post/something/).
+2. [To](/post/to/) [interpret](/post/interpret/) [or](/post/or/) [view](/post/view/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [person](/post/person/) [in](/post/in/) [a](/post/a/) [highly](/post/highly/) [romantic](/post/romantic/) [or](/post/or/) idealized [manner](/post/manner/).
 
-### [Adjective](/en/post/adjective/)
-[Romantic](/en/post/romantic/) (adj):
-1. Relating [to](/en/post/to/) [or](/en/post/or/) characterized [by](/en/post/by/) feelings [of](/en/post/of/) [love](/en/post/love/), [passion](/en/post/passion/), [or](/en/post/or/) idealism.
-2. Expressive [of](/en/post/of/) [or](/en/post/or/) involving [strong](/en/post/strong/) emotions [or](/en/post/or/) [imagination](/en/post/imagination/).
-3. Designating [a](/en/post/a/) [style](/en/post/style/) [or](/en/post/or/) [period](/en/post/period/) [in](/en/post/in/) [art](/en/post/art/), [literature](/en/post/literature/), [or](/en/post/or/) [music](/en/post/music/) [that](/en/post/that/) emphasizes [emotion](/en/post/emotion/) [and](/en/post/and/) idealization.
+### [Adjective](/post/adjective/)
+[Romantic](/post/romantic/) (adj):
+1. Relating [to](/post/to/) [or](/post/or/) characterized [by](/post/by/) feelings [of](/post/of/) [love](/post/love/), [passion](/post/passion/), [or](/post/or/) idealism.
+2. Expressive [of](/post/of/) [or](/post/or/) involving [strong](/post/strong/) emotions [or](/post/or/) [imagination](/post/imagination/).
+3. Designating [a](/post/a/) [style](/post/style/) [or](/post/or/) [period](/post/period/) [in](/post/in/) [art](/post/art/), [literature](/post/literature/), [or](/post/or/) [music](/post/music/) [that](/post/that/) emphasizes [emotion](/post/emotion/) [and](/post/and/) idealization.
 
 ## Phrases
-- "[A](/en/post/a/) [romantic](/en/post/romantic/) [dinner](/en/post/dinner/)" implies [a](/en/post/a/) [meal](/en/post/meal/) [with](/en/post/with/) [a](/en/post/a/) [focus](/en/post/focus/) [on](/en/post/on/) ambiance [and](/en/post/and/) sentiment.
-- "She's [a](/en/post/a/) [hopeless](/en/post/hopeless/) [romantic](/en/post/romantic/)" describes [someone](/en/post/someone/) [who](/en/post/who/) is overly inclined [to](/en/post/to/) idealize [love](/en/post/love/).
-- "[Romantic](/en/post/romantic/) comedies" are films [that](/en/post/that/) typically [feature](/en/post/feature/) [a](/en/post/a/) [romantic](/en/post/romantic/) storyline [with](/en/post/with/) [humorous](/en/post/humorous/) elements.
+- "[A](/post/a/) [romantic](/post/romantic/) [dinner](/post/dinner/)" implies [a](/post/a/) [meal](/post/meal/) [with](/post/with/) [a](/post/a/) [focus](/post/focus/) [on](/post/on/) ambiance [and](/post/and/) sentiment.
+- "She's [a](/post/a/) [hopeless](/post/hopeless/) [romantic](/post/romantic/)" describes [someone](/post/someone/) [who](/post/who/) is overly inclined [to](/post/to/) idealize [love](/post/love/).
+- "[Romantic](/post/romantic/) comedies" are films [that](/post/that/) typically [feature](/post/feature/) [a](/post/a/) [romantic](/post/romantic/) storyline [with](/post/with/) [humorous](/post/humorous/) elements.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was [always](/en/post/always/) [a](/en/post/a/) [hopeless](/en/post/hopeless/) [romantic](/en/post/romantic/), dreaming [of](/en/post/of/) [finding](/en/post/finding/) [her](/en/post/her/) soulmate."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [author](/en/post/author/) romanticized [the](/en/post/the/) olden days, creating [a](/en/post/a/) nostalgic [atmosphere](/en/post/atmosphere/) [in](/en/post/in/) [her](/en/post/her/) [novel](/en/post/novel/)."
-- **[Adjective](/en/post/adjective/)**: "[Their](/en/post/their/) [relationship](/en/post/relationship/) was filled [with](/en/post/with/) [romantic](/en/post/romantic/) gestures [and](/en/post/and/) [thoughtful](/en/post/thoughtful/) surprises."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) was [always](/post/always/) [a](/post/a/) [hopeless](/post/hopeless/) [romantic](/post/romantic/), dreaming [of](/post/of/) [finding](/post/finding/) [her](/post/her/) soulmate."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [author](/post/author/) romanticized [the](/post/the/) olden days, creating [a](/post/a/) nostalgic [atmosphere](/post/atmosphere/) [in](/post/in/) [her](/post/her/) [novel](/post/novel/)."
+- **[Adjective](/post/adjective/)**: "[Their](/post/their/) [relationship](/post/relationship/) was filled [with](/post/with/) [romantic](/post/romantic/) gestures [and](/post/and/) [thoughtful](/post/thoughtful/) surprises."
 
 ## Synonyms
 - Passionate
 - Sentimental
 - Idealistic
 - Poetic
-- [Emotional](/en/post/emotional/)
+- [Emotional](/post/emotional/)
 - Love-struck
 - Enchanted
 - Dreamy

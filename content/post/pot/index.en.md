@@ -7,42 +7,42 @@ description = '[pɔt] n.锅，壶，罐，盆'
 keywords = ['ai words', 'pot']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəʊt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [container](/en/post/container/) [with](/en/post/with/) [a](/en/post/a/) [wide](/en/post/wide/) [mouth](/en/post/mouth/) [and](/en/post/and/) [a](/en/post/a/) fixed [handle](/en/post/handle/), typically [used](/en/post/used/) [for](/en/post/for/) holding [or](/en/post/or/) cooking [food](/en/post/food/): *I bought [a](/en/post/a/) [new](/en/post/new/) [pot](/en/post/pot/) [to](/en/post/to/) [cook](/en/post/cook/) [soup](/en/post/soup/) [in](/en/post/in/).*
-2. [A](/en/post/a/) [container](/en/post/container/) [with](/en/post/with/) [a](/en/post/a/) [lid](/en/post/lid/), [often](/en/post/often/) made [of](/en/post/of/) [metal](/en/post/metal/) [or](/en/post/or/) ceramic, [for](/en/post/for/) storing [food](/en/post/food/) [or](/en/post/or/) liquids: *[Keep](/en/post/keep/) [the](/en/post/the/) [milk](/en/post/milk/) [in](/en/post/in/) [the](/en/post/the/) [cold](/en/post/cold/) [storage](/en/post/storage/) [pot](/en/post/pot/).*
-3. [A](/en/post/a/) person's [skill](/en/post/skill/) [or](/en/post/or/) [ability](/en/post/ability/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/): *[She](/en/post/she/) has [a](/en/post/a/) [real](/en/post/real/) [pot](/en/post/pot/) [for](/en/post/for/) gardening.*
-4. [In](/en/post/in/) British English, [a](/en/post/a/) [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [kettle](/en/post/kettle/): *[The](/en/post/the/) [pot](/en/post/pot/) was boiling [when](/en/post/when/) I got [home](/en/post/home/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [container](/post/container/) [with](/post/with/) [a](/post/a/) [wide](/post/wide/) [mouth](/post/mouth/) [and](/post/and/) [a](/post/a/) fixed [handle](/post/handle/), typically [used](/post/used/) [for](/post/for/) holding [or](/post/or/) cooking [food](/post/food/): *I bought [a](/post/a/) [new](/post/new/) [pot](/post/pot/) [to](/post/to/) [cook](/post/cook/) [soup](/post/soup/) [in](/post/in/).*
+2. [A](/post/a/) [container](/post/container/) [with](/post/with/) [a](/post/a/) [lid](/post/lid/), [often](/post/often/) made [of](/post/of/) [metal](/post/metal/) [or](/post/or/) ceramic, [for](/post/for/) storing [food](/post/food/) [or](/post/or/) liquids: *[Keep](/post/keep/) [the](/post/the/) [milk](/post/milk/) [in](/post/in/) [the](/post/the/) [cold](/post/cold/) [storage](/post/storage/) [pot](/post/pot/).*
+3. [A](/post/a/) person's [skill](/post/skill/) [or](/post/or/) [ability](/post/ability/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/): *[She](/post/she/) has [a](/post/a/) [real](/post/real/) [pot](/post/pot/) [for](/post/for/) gardening.*
+4. [In](/post/in/) British English, [a](/post/a/) [term](/post/term/) [for](/post/for/) [a](/post/a/) [kettle](/post/kettle/): *[The](/post/the/) [pot](/post/pot/) was boiling [when](/post/when/) I got [home](/post/home/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [cook](/en/post/cook/) [food](/en/post/food/) [in](/en/post/in/) [a](/en/post/a/) [pot](/en/post/pot/): *[We](/en/post/we/) boiled vegetables [in](/en/post/in/) [a](/en/post/a/) [large](/en/post/large/) [pot](/en/post/pot/) [on](/en/post/on/) [the](/en/post/the/) [stove](/en/post/stove/).*
-2. [To](/en/post/to/) [place](/en/post/place/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [pot](/en/post/pot/) [for](/en/post/for/) [storage](/en/post/storage/) [or](/en/post/or/) [display](/en/post/display/): *[He](/en/post/he/) potted [his](/en/post/his/) [collection](/en/post/collection/) [of](/en/post/of/) seashells [in](/en/post/in/) decorative pots.*
-3. (informal) [To](/en/post/to/) [bet](/en/post/bet/) [or](/en/post/or/) gamble: *I'm going [to](/en/post/to/) [pot](/en/post/pot/) [a](/en/post/a/) [few](/en/post/few/) dollars [on](/en/post/on/) [the](/en/post/the/) [football](/en/post/football/) [game](/en/post/game/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [cook](/post/cook/) [food](/post/food/) [in](/post/in/) [a](/post/a/) [pot](/post/pot/): *[We](/post/we/) boiled vegetables [in](/post/in/) [a](/post/a/) [large](/post/large/) [pot](/post/pot/) [on](/post/on/) [the](/post/the/) [stove](/post/stove/).*
+2. [To](/post/to/) [place](/post/place/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [pot](/post/pot/) [for](/post/for/) [storage](/post/storage/) [or](/post/or/) [display](/post/display/): *[He](/post/he/) potted [his](/post/his/) [collection](/post/collection/) [of](/post/of/) seashells [in](/post/in/) decorative pots.*
+3. (informal) [To](/post/to/) [bet](/post/bet/) [or](/post/or/) gamble: *I'm going [to](/post/to/) [pot](/post/pot/) [a](/post/a/) [few](/post/few/) dollars [on](/post/on/) [the](/post/the/) [football](/post/football/) [game](/post/game/).*
 
-### [Adjective](/en/post/adjective/)
-1. Designating [a](/en/post/a/) [container](/en/post/container/) [with](/en/post/with/) [a](/en/post/a/) [wide](/en/post/wide/) [opening](/en/post/opening/): *[A](/en/post/a/) saucepan is [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [pot](/en/post/pot/).*
-2. Having [a](/en/post/a/) [large](/en/post/large/) [quantity](/en/post/quantity/) [or](/en/post/or/) [amount](/en/post/amount/): *[She](/en/post/she/) won [a](/en/post/a/) [pot](/en/post/pot/) [of](/en/post/of/) [money](/en/post/money/) [in](/en/post/in/) [the](/en/post/the/) lottery.*
-3. (UK) Referring [to](/en/post/to/) [a](/en/post/a/) [kettle](/en/post/kettle/): *That's [a](/en/post/a/) nice-looking [pot](/en/post/pot/) [kettle](/en/post/kettle/) [you](/en/post/you/) [have](/en/post/have/).*
+### [Adjective](/post/adjective/)
+1. Designating [a](/post/a/) [container](/post/container/) [with](/post/with/) [a](/post/a/) [wide](/post/wide/) [opening](/post/opening/): *[A](/post/a/) saucepan is [a](/post/a/) [type](/post/type/) [of](/post/of/) [pot](/post/pot/).*
+2. Having [a](/post/a/) [large](/post/large/) [quantity](/post/quantity/) [or](/post/or/) [amount](/post/amount/): *[She](/post/she/) won [a](/post/a/) [pot](/post/pot/) [of](/post/of/) [money](/post/money/) [in](/post/in/) [the](/post/the/) lottery.*
+3. (UK) Referring [to](/post/to/) [a](/post/a/) [kettle](/post/kettle/): *That's [a](/post/a/) nice-looking [pot](/post/pot/) [kettle](/post/kettle/) [you](/post/you/) [have](/post/have/).*
 
 ## Phrases
-- "Cooking [pot](/en/post/pot/)" [for](/en/post/for/) [a](/en/post/a/) [pot](/en/post/pot/) [used](/en/post/used/) [for](/en/post/for/) preparing meals.
-- "Potluck [dinner](/en/post/dinner/)" [where](/en/post/where/) [each](/en/post/each/) [guest](/en/post/guest/) brings [a](/en/post/a/) [dish](/en/post/dish/) [to](/en/post/to/) [share](/en/post/share/).
-- "[In](/en/post/in/) [a](/en/post/a/) [pot](/en/post/pot/)" [or](/en/post/or/) "[On](/en/post/on/) [the](/en/post/the/) [boil](/en/post/boil/)" [when](/en/post/when/) [something](/en/post/something/) is happening [or](/en/post/or/) developing [rapidly](/en/post/rapidly/).
+- "Cooking [pot](/post/pot/)" [for](/post/for/) [a](/post/a/) [pot](/post/pot/) [used](/post/used/) [for](/post/for/) preparing meals.
+- "Potluck [dinner](/post/dinner/)" [where](/post/where/) [each](/post/each/) [guest](/post/guest/) brings [a](/post/a/) [dish](/post/dish/) [to](/post/to/) [share](/post/share/).
+- "[In](/post/in/) [a](/post/a/) [pot](/post/pot/)" [or](/post/or/) "[On](/post/on/) [the](/post/the/) [boil](/post/boil/)" [when](/post/when/) [something](/post/something/) is happening [or](/post/or/) developing [rapidly](/post/rapidly/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) placed [the](/en/post/the/) [soup](/en/post/soup/) [pot](/en/post/pot/) [on](/en/post/on/) [the](/en/post/the/) [stove](/en/post/stove/) [to](/en/post/to/) simmer."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) potted [the](/en/post/the/) seedlings [into](/en/post/into/) [small](/en/post/small/) pots [to](/en/post/to/) [grow](/en/post/grow/) [them](/en/post/them/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [pot](/en/post/pot/) [of](/en/post/of/) [gold](/en/post/gold/) [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [rainbow](/en/post/rainbow/) symbolizes [success](/en/post/success/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) placed [the](/post/the/) [soup](/post/soup/) [pot](/post/pot/) [on](/post/on/) [the](/post/the/) [stove](/post/stove/) [to](/post/to/) simmer."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [gardener](/post/gardener/) potted [the](/post/the/) seedlings [into](/post/into/) [small](/post/small/) pots [to](/post/to/) [grow](/post/grow/) [them](/post/them/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [pot](/post/pot/) [of](/post/of/) [gold](/post/gold/) [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [rainbow](/post/rainbow/) symbolizes [success](/post/success/)."
 
 ## Synonyms
-- [Pan](/en/post/pan/)
+- [Pan](/post/pan/)
 - Cauldron
-- [Container](/en/post/container/)
+- [Container](/post/container/)
 - Pottery
 - Jug
-- [Kettle](/en/post/kettle/) (UK)
-- [Container](/en/post/container/) ([for](/en/post/for/) [storage](/en/post/storage/))
-- Potency ([as](/en/post/as/) [in](/en/post/in/) [skill](/en/post/skill/) [or](/en/post/or/) [ability](/en/post/ability/))
+- [Kettle](/post/kettle/) (UK)
+- [Container](/post/container/) ([for](/post/for/) [storage](/post/storage/))
+- Potency ([as](/post/as/) [in](/post/in/) [skill](/post/skill/) [or](/post/or/) [ability](/post/ability/))

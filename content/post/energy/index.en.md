@@ -7,35 +7,35 @@ description = '[ˈenədʒi] n.活力；精力；能'
 keywords = ['ai words', 'energy']
 +++
 
-## [Word](/en/post/word/): [Energy](/en/post/energy/)
+## [Word](/post/word/): [Energy](/post/energy/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈenərɡi/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [ability](/en/post/ability/) [or](/en/post/or/) [capacity](/en/post/capacity/) [to](/en/post/to/) [do](/en/post/do/) [work](/en/post/work/); [a](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [the](/en/post/the/) [strength](/en/post/strength/) [and](/en/post/and/) vitality required [to](/en/post/to/) [undertake](/en/post/undertake/) [physical](/en/post/physical/) [or](/en/post/or/) [mental](/en/post/mental/) activities. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [various](/en/post/various/) forms [of](/en/post/of/) [power](/en/post/power/) derived [from](/en/post/from/) sources [such](/en/post/such/) [as](/en/post/as/) fossil fuels, [nuclear](/en/post/nuclear/) reactions, [or](/en/post/or/) renewable resources. [Example](/en/post/example/): "[The](/en/post/the/) team's [energy](/en/post/energy/) was [high](/en/post/high/) [during](/en/post/during/) [the](/en/post/the/) [final](/en/post/final/) [match](/en/post/match/)."
-- **[Noun](/en/post/noun/) ([Physics](/en/post/physics/))**: [A](/en/post/a/) [property](/en/post/property/) [of](/en/post/of/) objects [which](/en/post/which/) [can](/en/post/can/) [be](/en/post/be/) transferred [to](/en/post/to/) [other](/en/post/other/) objects [or](/en/post/or/) converted [into](/en/post/into/) [different](/en/post/different/) forms, [but](/en/post/but/) cannot [be](/en/post/be/) created [or](/en/post/or/) destroyed. [Example](/en/post/example/): "[Energy](/en/post/energy/) is conserved [in](/en/post/in/) [any](/en/post/any/) closed [system](/en/post/system/) according [to](/en/post/to/) [the](/en/post/the/) [first](/en/post/first/) [law](/en/post/law/) [of](/en/post/of/) thermodynamics."
-- **[Noun](/en/post/noun/) (Metaphorical [use](/en/post/use/))**: Vigor, [enthusiasm](/en/post/enthusiasm/), [or](/en/post/or/) excitement. [Example](/en/post/example/): "[Her](/en/post/her/) [passion](/en/post/passion/) [and](/en/post/and/) [energy](/en/post/energy/) were contagious, inspiring others [to](/en/post/to/) [join](/en/post/join/) [her](/en/post/her/) [cause](/en/post/cause/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [ability](/post/ability/) [or](/post/or/) [capacity](/post/capacity/) [to](/post/to/) [do](/post/do/) [work](/post/work/); [a](/post/a/) [measure](/post/measure/) [of](/post/of/) [the](/post/the/) [strength](/post/strength/) [and](/post/and/) vitality required [to](/post/to/) [undertake](/post/undertake/) [physical](/post/physical/) [or](/post/or/) [mental](/post/mental/) activities. [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [various](/post/various/) forms [of](/post/of/) [power](/post/power/) derived [from](/post/from/) sources [such](/post/such/) [as](/post/as/) fossil fuels, [nuclear](/post/nuclear/) reactions, [or](/post/or/) renewable resources. [Example](/post/example/): "[The](/post/the/) team's [energy](/post/energy/) was [high](/post/high/) [during](/post/during/) [the](/post/the/) [final](/post/final/) [match](/post/match/)."
+- **[Noun](/post/noun/) ([Physics](/post/physics/))**: [A](/post/a/) [property](/post/property/) [of](/post/of/) objects [which](/post/which/) [can](/post/can/) [be](/post/be/) transferred [to](/post/to/) [other](/post/other/) objects [or](/post/or/) converted [into](/post/into/) [different](/post/different/) forms, [but](/post/but/) cannot [be](/post/be/) created [or](/post/or/) destroyed. [Example](/post/example/): "[Energy](/post/energy/) is conserved [in](/post/in/) [any](/post/any/) closed [system](/post/system/) according [to](/post/to/) [the](/post/the/) [first](/post/first/) [law](/post/law/) [of](/post/of/) thermodynamics."
+- **[Noun](/post/noun/) (Metaphorical [use](/post/use/))**: Vigor, [enthusiasm](/post/enthusiasm/), [or](/post/or/) excitement. [Example](/post/example/): "[Her](/post/her/) [passion](/post/passion/) [and](/post/and/) [energy](/post/energy/) were contagious, inspiring others [to](/post/to/) [join](/post/join/) [her](/post/her/) [cause](/post/cause/)."
 
 ## Phrases
-- "Kinetic [energy](/en/post/energy/)": [The](/en/post/the/) [energy](/en/post/energy/) possessed [by](/en/post/by/) an [object](/en/post/object/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [motion](/en/post/motion/).
-- "[Potential](/en/post/potential/) [energy](/en/post/energy/)": Stored [energy](/en/post/energy/) [that](/en/post/that/) has [the](/en/post/the/) [potential](/en/post/potential/) [to](/en/post/to/) [be](/en/post/be/) converted [into](/en/post/into/) kinetic [energy](/en/post/energy/).
-- "Renewable [energy](/en/post/energy/)": [Energy](/en/post/energy/) obtained [from](/en/post/from/) [naturally](/en/post/naturally/) replenished resources [that](/en/post/that/) are [virtually](/en/post/virtually/) inexhaustible [and](/en/post/and/) [do](/en/post/do/) [not](/en/post/not/) [produce](/en/post/produce/) [harmful](/en/post/harmful/) emissions.
-- "[Positive](/en/post/positive/) [energy](/en/post/energy/)": [A](/en/post/a/) [concept](/en/post/concept/) referring [to](/en/post/to/) [a](/en/post/a/) person's [optimistic](/en/post/optimistic/) [attitude](/en/post/attitude/) [or](/en/post/or/) an environment's uplifting [atmosphere](/en/post/atmosphere/).
-- "[Energy](/en/post/energy/) [crisis](/en/post/crisis/)": [A](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [there](/en/post/there/) is [a](/en/post/a/) [significant](/en/post/significant/) [shortage](/en/post/shortage/) [of](/en/post/of/) [energy](/en/post/energy/) supplies, [often](/en/post/often/) [leading](/en/post/leading/) [to](/en/post/to/) [economic](/en/post/economic/) [and](/en/post/and/) societal issues.
+- "Kinetic [energy](/post/energy/)": [The](/post/the/) [energy](/post/energy/) possessed [by](/post/by/) an [object](/post/object/) [due](/post/due/) [to](/post/to/) [its](/post/its/) [motion](/post/motion/).
+- "[Potential](/post/potential/) [energy](/post/energy/)": Stored [energy](/post/energy/) [that](/post/that/) has [the](/post/the/) [potential](/post/potential/) [to](/post/to/) [be](/post/be/) converted [into](/post/into/) kinetic [energy](/post/energy/).
+- "Renewable [energy](/post/energy/)": [Energy](/post/energy/) obtained [from](/post/from/) [naturally](/post/naturally/) replenished resources [that](/post/that/) are [virtually](/post/virtually/) inexhaustible [and](/post/and/) [do](/post/do/) [not](/post/not/) [produce](/post/produce/) [harmful](/post/harmful/) emissions.
+- "[Positive](/post/positive/) [energy](/post/energy/)": [A](/post/a/) [concept](/post/concept/) referring [to](/post/to/) [a](/post/a/) person's [optimistic](/post/optimistic/) [attitude](/post/attitude/) [or](/post/or/) an environment's uplifting [atmosphere](/post/atmosphere/).
+- "[Energy](/post/energy/) [crisis](/post/crisis/)": [A](/post/a/) [situation](/post/situation/) [where](/post/where/) [there](/post/there/) is [a](/post/a/) [significant](/post/significant/) [shortage](/post/shortage/) [of](/post/of/) [energy](/post/energy/) supplies, [often](/post/often/) [leading](/post/leading/) [to](/post/to/) [economic](/post/economic/) [and](/post/and/) societal issues.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([Physical](/en/post/physical/) [energy](/en/post/energy/))**: "[The](/en/post/the/) [machine](/en/post/machine/) operates using [solar](/en/post/solar/) [energy](/en/post/energy/)."
-- **[Noun](/en/post/noun/) (Metaphorical [energy](/en/post/energy/))**: "[The](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/) [leader](/en/post/leader/) brought [fresh](/en/post/fresh/) [energy](/en/post/energy/) [to](/en/post/to/) [the](/en/post/the/) [team](/en/post/team/)."
-- **[Physics](/en/post/physics/)**: "[When](/en/post/when/) [the](/en/post/the/) [roller](/en/post/roller/) coaster reaches [the](/en/post/the/) [peak](/en/post/peak/), [it](/en/post/it/) has [maximum](/en/post/maximum/) [potential](/en/post/potential/) [energy](/en/post/energy/) [which](/en/post/which/) is [then](/en/post/then/) converted [into](/en/post/into/) kinetic [energy](/en/post/energy/) [as](/en/post/as/) [it](/en/post/it/) descends."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([Physical](/post/physical/) [energy](/post/energy/))**: "[The](/post/the/) [machine](/post/machine/) operates using [solar](/post/solar/) [energy](/post/energy/)."
+- **[Noun](/post/noun/) (Metaphorical [energy](/post/energy/))**: "[The](/post/the/) [new](/post/new/) [project](/post/project/) [leader](/post/leader/) brought [fresh](/post/fresh/) [energy](/post/energy/) [to](/post/to/) [the](/post/the/) [team](/post/team/)."
+- **[Physics](/post/physics/)**: "[When](/post/when/) [the](/post/the/) [roller](/post/roller/) coaster reaches [the](/post/the/) [peak](/post/peak/), [it](/post/it/) has [maximum](/post/maximum/) [potential](/post/potential/) [energy](/post/energy/) [which](/post/which/) is [then](/post/then/) converted [into](/post/into/) kinetic [energy](/post/energy/) [as](/post/as/) [it](/post/it/) descends."
 
 ## Synonyms
-- [Power](/en/post/power/)
+- [Power](/post/power/)
 - Vigor
 - Stamina
 - Vitality
-- [Force](/en/post/force/)
-- [Zeal](/en/post/zeal/)
-- [Enthusiasm](/en/post/enthusiasm/)
+- [Force](/post/force/)
+- [Zeal](/post/zeal/)
+- [Enthusiasm](/post/enthusiasm/)
 - Ardor
 - Dynamism

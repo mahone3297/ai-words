@@ -11,22 +11,22 @@ keywords = ['ai words', 'specimen']
 /ˈspɪsɪmən/
 
 ## 释义
-- **名词**: 一个事物或生物的样本，标本，通常用于研究或展示。例如: "[The](/post/the/) [scientist](/post/scientist/) studied [various](/post/various/) [insect](/post/insect/) specimens [under](/post/under/) [the](/post/the/) [microscope](/post/microscope/)."
-- **名词**: 在医学或实验室环境中，指患者的血液、尿液等检查样本。例如: "[Please](/post/please/) [provide](/post/provide/) [a](/post/a/) urine [specimen](/post/specimen/) [for](/post/for/) [the](/post/the/) [lab](/post/lab/) [test](/post/test/)."
+- **名词**: 一个事物或生物的样本，标本，通常用于研究或展示。例如: "[The](/zh/post/the/) [scientist](/zh/post/scientist/) studied [various](/zh/post/various/) [insect](/zh/post/insect/) specimens [under](/zh/post/under/) [the](/zh/post/the/) [microscope](/zh/post/microscope/)."
+- **名词**: 在医学或实验室环境中，指患者的血液、尿液等检查样本。例如: "[Please](/zh/post/please/) [provide](/zh/post/provide/) [a](/zh/post/a/) urine [specimen](/zh/post/specimen/) [for](/zh/post/for/) [the](/zh/post/the/) [lab](/zh/post/lab/) [test](/zh/post/test/)."
 
 ## 短语
-- "[blood](/post/blood/) [specimen](/post/specimen/)" 指血液样本。
-- "pathological [specimen](/post/specimen/)" 指病理学中的样本。
-- "[typical](/post/typical/) [specimen](/post/specimen/)" 指典型的或有代表性的样本。
+- "[blood](/zh/post/blood/) [specimen](/zh/post/specimen/)" 指血液样本。
+- "pathological [specimen](/zh/post/specimen/)" 指病理学中的样本。
+- "[typical](/zh/post/typical/) [specimen](/zh/post/specimen/)" 指典型的或有代表性的样本。
 
 ## 例句
-- "[The](/post/the/) [museum](/post/museum/) has an [impressive](/post/impressive/) [collection](/post/collection/) [of](/post/of/) dinosaur specimens."
-- "[The](/post/the/) [doctor](/post/doctor/) requested [a](/post/a/) [stool](/post/stool/) [specimen](/post/specimen/) [for](/post/for/) [further](/post/further/) [analysis](/post/analysis/)."
-- "[The](/post/the/) botanist compared [different](/post/different/) [tree](/post/tree/) specimens [to](/post/to/) [identify](/post/identify/) [the](/post/the/) species."
+- "[The](/zh/post/the/) [museum](/zh/post/museum/) has an [impressive](/zh/post/impressive/) [collection](/zh/post/collection/) [of](/zh/post/of/) dinosaur specimens."
+- "[The](/zh/post/the/) [doctor](/zh/post/doctor/) requested [a](/zh/post/a/) [stool](/zh/post/stool/) [specimen](/zh/post/specimen/) [for](/zh/post/for/) [further](/zh/post/further/) [analysis](/zh/post/analysis/)."
+- "[The](/zh/post/the/) botanist compared [different](/zh/post/different/) [tree](/zh/post/tree/) specimens [to](/zh/post/to/) [identify](/zh/post/identify/) [the](/zh/post/the/) species."
 
 ## 同义词
-- [Sample](/post/sample/)
-- [Example](/post/example/)
-- [Instance](/post/instance/)
-- [Case](/post/case/)
+- [Sample](/zh/post/sample/)
+- [Example](/zh/post/example/)
+- [Instance](/zh/post/instance/)
+- [Case](/zh/post/case/)
 - Extract

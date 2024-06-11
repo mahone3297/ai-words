@@ -7,34 +7,34 @@ description = '[diə] n.鹿'
 keywords = ['ai words', 'deer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [deer](/en/post/deer/) is [a](/en/post/a/) hoofed mammal, typically having [a](/en/post/a/) [single](/en/post/single/) [pair](/en/post/pair/) [of](/en/post/of/) horns, [that](/en/post/that/) belongs [to](/en/post/to/) [the](/en/post/the/) [family](/en/post/family/) Cervidae. [They](/en/post/they/) are [commonly](/en/post/commonly/) [found](/en/post/found/) [in](/en/post/in/) forests [and](/en/post/and/) grasslands, known [for](/en/post/for/) [their](/en/post/their/) agility [and](/en/post/and/) [grace](/en/post/grace/).
+### [Noun](/post/noun/)
+[A](/post/a/) [deer](/post/deer/) is [a](/post/a/) hoofed mammal, typically having [a](/post/a/) [single](/post/single/) [pair](/post/pair/) [of](/post/of/) horns, [that](/post/that/) belongs [to](/post/to/) [the](/post/the/) [family](/post/family/) Cervidae. [They](/post/they/) are [commonly](/post/commonly/) [found](/post/found/) [in](/post/in/) forests [and](/post/and/) grasslands, known [for](/post/for/) [their](/post/their/) agility [and](/post/and/) [grace](/post/grace/).
 
-### [Verb](/en/post/verb/) (informal)
-[To](/en/post/to/) [hunt](/en/post/hunt/) [or](/en/post/or/) [chase](/en/post/chase/) [deer](/en/post/deer/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) recreational [or](/en/post/or/) [sport](/en/post/sport/) [setting](/en/post/setting/).
+### [Verb](/post/verb/) (informal)
+[To](/post/to/) [hunt](/post/hunt/) [or](/post/or/) [chase](/post/chase/) [deer](/post/deer/), [often](/post/often/) [in](/post/in/) [a](/post/a/) recreational [or](/post/or/) [sport](/post/sport/) [setting](/post/setting/).
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [or](/en/post/or/) resembling [deer](/en/post/deer/), [such](/en/post/such/) [as](/en/post/as/) [in](/en/post/in/) [appearance](/en/post/appearance/) [or](/en/post/or/) [behavior](/en/post/behavior/).
-2. [Soft](/en/post/soft/) [and](/en/post/and/) [delicate](/en/post/delicate/), [like](/en/post/like/) [the](/en/post/the/) [touch](/en/post/touch/) [of](/en/post/of/) deer's [fur](/en/post/fur/).
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [or](/post/or/) resembling [deer](/post/deer/), [such](/post/such/) [as](/post/as/) [in](/post/in/) [appearance](/post/appearance/) [or](/post/or/) [behavior](/post/behavior/).
+2. [Soft](/post/soft/) [and](/post/and/) [delicate](/post/delicate/), [like](/post/like/) [the](/post/the/) [touch](/post/touch/) [of](/post/of/) deer's [fur](/post/fur/).
 
 ## Phrases
-- "[A](/en/post/a/) [herd](/en/post/herd/) [of](/en/post/of/) [deer](/en/post/deer/)"
-- "[The](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) [a](/en/post/a/) [deer](/en/post/deer/) calling"
-- "Buck [season](/en/post/season/)" (referring [to](/en/post/to/) hunting [season](/en/post/season/) [for](/en/post/for/) [male](/en/post/male/) [deer](/en/post/deer/))
+- "[A](/post/a/) [herd](/post/herd/) [of](/post/of/) [deer](/post/deer/)"
+- "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) [a](/post/a/) [deer](/post/deer/) calling"
+- "Buck [season](/post/season/)" (referring [to](/post/to/) hunting [season](/post/season/) [for](/post/for/) [male](/post/male/) [deer](/post/deer/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [deer](/en/post/deer/) grazed peacefully [in](/en/post/in/) [the](/en/post/the/) [meadow](/en/post/meadow/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) hunters were tracking [the](/en/post/the/) [deer](/en/post/deer/) [through](/en/post/through/) [the](/en/post/the/) woods."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) deer's antlers glistened [in](/en/post/in/) [the](/en/post/the/) [sunlight](/en/post/sunlight/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [deer](/post/deer/) grazed peacefully [in](/post/in/) [the](/post/the/) [meadow](/post/meadow/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) hunters were tracking [the](/post/the/) [deer](/post/deer/) [through](/post/through/) [the](/post/the/) woods."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) deer's antlers glistened [in](/post/in/) [the](/post/the/) [sunlight](/post/sunlight/)."
 
 ## Synonyms
-- Doe ([female](/en/post/female/) [deer](/en/post/deer/))
-- Buck ([male](/en/post/male/) [deer](/en/post/deer/))
-- Stag ([adult](/en/post/adult/) [male](/en/post/male/) [deer](/en/post/deer/))
-- Fallow [deer](/en/post/deer/) ([a](/en/post/a/) [specific](/en/post/specific/) species)
-- [Red](/en/post/red/) [deer](/en/post/deer/) ([another](/en/post/another/) [specific](/en/post/specific/) species)
-- Bambi ([as](/en/post/as/) [a](/en/post/a/) colloquial [term](/en/post/term/) [or](/en/post/or/) [character](/en/post/character/) [reference](/en/post/reference/))
+- Doe ([female](/post/female/) [deer](/post/deer/))
+- Buck ([male](/post/male/) [deer](/post/deer/))
+- Stag ([adult](/post/adult/) [male](/post/male/) [deer](/post/deer/))
+- Fallow [deer](/post/deer/) ([a](/post/a/) [specific](/post/specific/) species)
+- [Red](/post/red/) [deer](/post/deer/) ([another](/post/another/) [specific](/post/specific/) species)
+- Bambi ([as](/post/as/) [a](/post/a/) colloquial [term](/post/term/) [or](/post/or/) [character](/post/character/) [reference](/post/reference/))

@@ -7,33 +7,33 @@ description = '[faund] vt.创立，创办；建立'
 keywords = ['ai words', 'found']
 +++
 
-## [Word](/en/post/word/): [Found](/en/post/found/)
+## [Word](/post/word/): [Found](/post/found/)
 
-## [Pronunciation](/en/post/pronunciation/)
-/[found](/en/post/found/)/
+## [Pronunciation](/post/pronunciation/)
+/[found](/post/found/)/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [discover](/en/post/discover/) [something](/en/post/something/) [by](/en/post/by/) [chance](/en/post/chance/) [or](/en/post/or/) [after](/en/post/after/) searching, [especially](/en/post/especially/) [something](/en/post/something/) [that](/en/post/that/) was lost [or](/en/post/or/) misplaced. [For](/en/post/for/) [example](/en/post/example/): "I [found](/en/post/found/) [my](/en/post/my/) keys [under](/en/post/under/) [the](/en/post/the/) sofa."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [start](/en/post/start/) [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) an [organization](/en/post/organization/) [or](/en/post/or/) [institution](/en/post/institution/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) founded [the](/en/post/the/) [charity](/en/post/charity/) [in](/en/post/in/) 1995 [to](/en/post/to/) [help](/en/post/help/) homeless children."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [base](/en/post/base/) an [argument](/en/post/argument/), [theory](/en/post/theory/), [or](/en/post/or/) [decision](/en/post/decision/) [on](/en/post/on/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [research](/en/post/research/) findings formed [the](/en/post/the/) [foundation](/en/post/foundation/) [of](/en/post/of/) [her](/en/post/her/) doctoral thesis."
-- **[Adjective](/en/post/adjective/) (adj)**: Having been discovered [or](/en/post/or/) [come](/en/post/come/) [upon](/en/post/upon/), [often](/en/post/often/) unexpectedly. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) archaeologists made [a](/en/post/a/) fascinating [found](/en/post/found/) artifact [from](/en/post/from/) [the](/en/post/the/) Roman [era](/en/post/era/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [discover](/post/discover/) [something](/post/something/) [by](/post/by/) [chance](/post/chance/) [or](/post/or/) [after](/post/after/) searching, [especially](/post/especially/) [something](/post/something/) [that](/post/that/) was lost [or](/post/or/) misplaced. [For](/post/for/) [example](/post/example/): "I [found](/post/found/) [my](/post/my/) keys [under](/post/under/) [the](/post/the/) sofa."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [establish](/post/establish/) [or](/post/or/) [start](/post/start/) [something](/post/something/), [such](/post/such/) [as](/post/as/) an [organization](/post/organization/) [or](/post/or/) [institution](/post/institution/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) founded [the](/post/the/) [charity](/post/charity/) [in](/post/in/) 1995 [to](/post/to/) [help](/post/help/) homeless children."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [base](/post/base/) an [argument](/post/argument/), [theory](/post/theory/), [or](/post/or/) [decision](/post/decision/) [on](/post/on/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [research](/post/research/) findings formed [the](/post/the/) [foundation](/post/foundation/) [of](/post/of/) [her](/post/her/) doctoral thesis."
+- **[Adjective](/post/adjective/) (adj)**: Having been discovered [or](/post/or/) [come](/post/come/) [upon](/post/upon/), [often](/post/often/) unexpectedly. [For](/post/for/) [example](/post/example/): "[The](/post/the/) archaeologists made [a](/post/a/) fascinating [found](/post/found/) artifact [from](/post/from/) [the](/post/the/) Roman [era](/post/era/)."
   
 ## Phrases
-- "[Find](/en/post/find/) [oneself](/en/post/oneself/)" [means](/en/post/means/) [to](/en/post/to/) [understand](/en/post/understand/) one's [own](/en/post/own/) [character](/en/post/character/), feelings, [or](/en/post/or/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) traveling [the](/en/post/the/) [world](/en/post/world/), [he](/en/post/he/) [finally](/en/post/finally/) [found](/en/post/found/) [himself](/en/post/himself/)."
-- "[Found](/en/post/found/) [guilty](/en/post/guilty/)" is [a](/en/post/a/) [legal](/en/post/legal/) [term](/en/post/term/) [meaning](/en/post/meaning/) [to](/en/post/to/) [be](/en/post/be/) declared [responsible](/en/post/responsible/) [for](/en/post/for/) [a](/en/post/a/) [crime](/en/post/crime/) [in](/en/post/in/) [a](/en/post/a/) [court](/en/post/court/) [of](/en/post/of/) [law](/en/post/law/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [jury](/en/post/jury/) [found](/en/post/found/) [the](/en/post/the/) defendant [guilty](/en/post/guilty/) [of](/en/post/of/) theft."
-- "[To](/en/post/to/) [be](/en/post/be/) [found](/en/post/found/) wanting" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) judged [as](/en/post/as/) inadequate [or](/en/post/or/) [insufficient](/en/post/insufficient/). [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) [customer](/en/post/customer/) [service](/en/post/service/) was [found](/en/post/found/) wanting [in](/en/post/in/) [the](/en/post/the/) [review](/en/post/review/)."
+- "[Find](/post/find/) [oneself](/post/oneself/)" [means](/post/means/) [to](/post/to/) [understand](/post/understand/) one's [own](/post/own/) [character](/post/character/), feelings, [or](/post/or/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) traveling [the](/post/the/) [world](/post/world/), [he](/post/he/) [finally](/post/finally/) [found](/post/found/) [himself](/post/himself/)."
+- "[Found](/post/found/) [guilty](/post/guilty/)" is [a](/post/a/) [legal](/post/legal/) [term](/post/term/) [meaning](/post/meaning/) [to](/post/to/) [be](/post/be/) declared [responsible](/post/responsible/) [for](/post/for/) [a](/post/a/) [crime](/post/crime/) [in](/post/in/) [a](/post/a/) [court](/post/court/) [of](/post/of/) [law](/post/law/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [jury](/post/jury/) [found](/post/found/) [the](/post/the/) defendant [guilty](/post/guilty/) [of](/post/of/) theft."
+- "[To](/post/to/) [be](/post/be/) [found](/post/found/) wanting" [means](/post/means/) [to](/post/to/) [be](/post/be/) judged [as](/post/as/) inadequate [or](/post/or/) [insufficient](/post/insufficient/). [For](/post/for/) [example](/post/example/): "[Their](/post/their/) [customer](/post/customer/) [service](/post/service/) was [found](/post/found/) wanting [in](/post/in/) [the](/post/the/) [review](/post/review/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) hours [of](/en/post/of/) searching, [we](/en/post/we/) [finally](/en/post/finally/) [found](/en/post/found/) [the](/en/post/the/) [missing](/en/post/missing/) [page](/en/post/page/) [in](/en/post/in/) [the](/en/post/the/) manuscript."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [found](/en/post/found/) [a](/en/post/a/) tech startup focusing [on](/en/post/on/) AI solutions."
-- **[Adjective](/en/post/adjective/)**: "[Among](/en/post/among/) [the](/en/post/the/) [old](/en/post/old/) books, [she](/en/post/she/) [found](/en/post/found/) [a](/en/post/a/) [rare](/en/post/rare/) [and](/en/post/and/) [valuable](/en/post/valuable/) [found](/en/post/found/) [edition](/en/post/edition/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) hours [of](/post/of/) searching, [we](/post/we/) [finally](/post/finally/) [found](/post/found/) [the](/post/the/) [missing](/post/missing/) [page](/post/page/) [in](/post/in/) [the](/post/the/) manuscript."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [found](/post/found/) [a](/post/a/) tech startup focusing [on](/post/on/) AI solutions."
+- **[Adjective](/post/adjective/)**: "[Among](/post/among/) [the](/post/the/) [old](/post/old/) books, [she](/post/she/) [found](/post/found/) [a](/post/a/) [rare](/post/rare/) [and](/post/and/) [valuable](/post/valuable/) [found](/post/found/) [edition](/post/edition/)."
 
 ## Synonyms
-- [Discover](/en/post/discover/) (v)
-- [Locate](/en/post/locate/) (v)
-- [Establish](/en/post/establish/) (v)
-- [Create](/en/post/create/) (v)
-- [Uncover](/en/post/uncover/) (v)
-- [Determine](/en/post/determine/) (v)
-- Invented (v) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) founding an [institution](/en/post/institution/) [or](/en/post/or/) [idea](/en/post/idea/))
+- [Discover](/post/discover/) (v)
+- [Locate](/post/locate/) (v)
+- [Establish](/post/establish/) (v)
+- [Create](/post/create/) (v)
+- [Uncover](/post/uncover/) (v)
+- [Determine](/post/determine/) (v)
+- Invented (v) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) founding an [institution](/post/institution/) [or](/post/or/) [idea](/post/idea/))
 - Discovered (adj)

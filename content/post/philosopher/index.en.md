@@ -7,30 +7,30 @@ description = '[fiˈlɔsəfə] n.哲学家'
 keywords = ['ai words', 'philosopher']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfələsəfər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) practices [philosophy](/en/post/philosophy/), studies [or](/en/post/or/) teaches [about](/en/post/about/) [fundamental](/en/post/fundamental/) principles, ethics, [and](/en/post/and/) [the](/en/post/the/) [nature](/en/post/nature/) [of](/en/post/of/) [reality](/en/post/reality/). **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) philosophers [or](/en/post/or/) [their](/en/post/their/) ideas. **[Verb](/en/post/verb/)**: [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) philosophical thinking [or](/en/post/or/) discourse.
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) practices [philosophy](/post/philosophy/), studies [or](/post/or/) teaches [about](/post/about/) [fundamental](/post/fundamental/) principles, ethics, [and](/post/and/) [the](/post/the/) [nature](/post/nature/) [of](/post/of/) [reality](/post/reality/). **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) philosophers [or](/post/or/) [their](/post/their/) ideas. **[Verb](/post/verb/)**: [To](/post/to/) [engage](/post/engage/) [in](/post/in/) philosophical thinking [or](/post/or/) discourse.
 
 ## Phrases
-- "Philosopher's [stone](/en/post/stone/)" (Metaphorical) - [A](/en/post/a/) legendary [substance](/en/post/substance/) [that](/en/post/that/) was sought [after](/en/post/after/) [for](/en/post/for/) [its](/en/post/its/) supposed [ability](/en/post/ability/) [to](/en/post/to/) transmute [base](/en/post/base/) metals [into](/en/post/into/) [gold](/en/post/gold/).
-- "Philosophical [inquiry](/en/post/inquiry/)" - [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) seeking [knowledge](/en/post/knowledge/) [through](/en/post/through/) [critical](/en/post/critical/) thinking [and](/en/post/and/) [reflection](/en/post/reflection/).
-- "Philosophical [debate](/en/post/debate/)" - An [argument](/en/post/argument/) [or](/en/post/or/) [discussion](/en/post/discussion/) [about](/en/post/about/) [abstract](/en/post/abstract/) concepts [or](/en/post/or/) ideas.
+- "Philosopher's [stone](/post/stone/)" (Metaphorical) - [A](/post/a/) legendary [substance](/post/substance/) [that](/post/that/) was sought [after](/post/after/) [for](/post/for/) [its](/post/its/) supposed [ability](/post/ability/) [to](/post/to/) transmute [base](/post/base/) metals [into](/post/into/) [gold](/post/gold/).
+- "Philosophical [inquiry](/post/inquiry/)" - [The](/post/the/) [process](/post/process/) [of](/post/of/) seeking [knowledge](/post/knowledge/) [through](/post/through/) [critical](/post/critical/) thinking [and](/post/and/) [reflection](/post/reflection/).
+- "Philosophical [debate](/post/debate/)" - An [argument](/post/argument/) [or](/post/or/) [discussion](/post/discussion/) [about](/post/about/) [abstract](/post/abstract/) concepts [or](/post/or/) ideas.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [philosopher](/en/post/philosopher/) pondered [the](/en/post/the/) [meaning](/en/post/meaning/) [of](/en/post/of/) [life](/en/post/life/) [in](/en/post/in/) [his](/en/post/his/) [quiet](/en/post/quiet/) [study](/en/post/study/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) writings were deeply philosophical, challenging [conventional](/en/post/conventional/) [wisdom](/en/post/wisdom/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) had [a](/en/post/a/) philosophical [conversation](/en/post/conversation/) [over](/en/post/over/) [dinner](/en/post/dinner/), discussing [the](/en/post/the/) [nature](/en/post/nature/) [of](/en/post/of/) [existence](/en/post/existence/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [philosopher](/post/philosopher/) pondered [the](/post/the/) [meaning](/post/meaning/) [of](/post/of/) [life](/post/life/) [in](/post/in/) [his](/post/his/) [quiet](/post/quiet/) [study](/post/study/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) writings were deeply philosophical, challenging [conventional](/post/conventional/) [wisdom](/post/wisdom/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) had [a](/post/a/) philosophical [conversation](/post/conversation/) [over](/post/over/) [dinner](/post/dinner/), discussing [the](/post/the/) [nature](/post/nature/) [of](/post/of/) [existence](/post/existence/)."
 
 ## Synonyms
 - Thinker
-- [Intellectual](/en/post/intellectual/)
+- [Intellectual](/post/intellectual/)
 - Meditator
-- [Scholar](/en/post/scholar/)
+- [Scholar](/post/scholar/)
 - Sagesse
 
 ## Antonyms
 - Materialist
 - Dogmatist
-- [Practical](/en/post/practical/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [not](/en/post/not/) [theoretical](/en/post/theoretical/) [or](/en/post/or/) [abstract](/en/post/abstract/))
+- [Practical](/post/practical/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [not](/post/not/) [theoretical](/post/theoretical/) [or](/post/or/) [abstract](/post/abstract/))

@@ -7,32 +7,32 @@ description = '[ˈdaunwəd] a.向下的 ad.向下地'
 keywords = ['ai words', 'downward']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dəˈwɔːrd/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [the](/en/post/the/) [direction](/en/post/direction/) towards [lower](/en/post/lower/) levels, downwards, [or](/en/post/or/) toward [a](/en/post/a/) [lower](/en/post/lower/) [position](/en/post/position/) [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [rain](/en/post/rain/) was falling [downward](/en/post/downward/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/), moving, [or](/en/post/or/) situated [in](/en/post/in/) [a](/en/post/a/) [lower](/en/post/lower/) [direction](/en/post/direction/) [or](/en/post/or/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) stairs led [downward](/en/post/downward/) [to](/en/post/to/) [the](/en/post/the/) basement."
-- **[Pronoun](/en/post/pronoun/)**: [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [lower](/en/post/lower/) [position](/en/post/position/) [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "I [prefer](/en/post/prefer/) [to](/en/post/to/) [slide](/en/post/slide/) [down](/en/post/down/) [the](/en/post/the/) [hill](/en/post/hill/) [rather](/en/post/rather/) [than](/en/post/than/) [climb](/en/post/climb/) [upward](/en/post/upward/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [the](/post/the/) [direction](/post/direction/) towards [lower](/post/lower/) levels, downwards, [or](/post/or/) toward [a](/post/a/) [lower](/post/lower/) [position](/post/position/) [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [rain](/post/rain/) was falling [downward](/post/downward/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/), moving, [or](/post/or/) situated [in](/post/in/) [a](/post/a/) [lower](/post/lower/) [direction](/post/direction/) [or](/post/or/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) stairs led [downward](/post/downward/) [to](/post/to/) [the](/post/the/) basement."
+- **[Pronoun](/post/pronoun/)**: [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [lower](/post/lower/) [position](/post/position/) [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "I [prefer](/post/prefer/) [to](/post/to/) [slide](/post/slide/) [down](/post/down/) [the](/post/the/) [hill](/post/hill/) [rather](/post/rather/) [than](/post/than/) [climb](/post/climb/) [upward](/post/upward/)."
 
 ## Phrases
-- "[Move](/en/post/move/) [downward](/en/post/downward/)" refers [to](/en/post/to/) going [in](/en/post/in/) [a](/en/post/a/) [lower](/en/post/lower/) [direction](/en/post/direction/).
-- "[Shift](/en/post/shift/) [downward](/en/post/downward/)" implies [a](/en/post/a/) [change](/en/post/change/) [to](/en/post/to/) [a](/en/post/a/) [lower](/en/post/lower/) [level](/en/post/level/) [or](/en/post/or/) [position](/en/post/position/).
-- "[Gradually](/en/post/gradually/) [downward](/en/post/downward/)" describes [a](/en/post/a/) [slow](/en/post/slow/) descent.
+- "[Move](/post/move/) [downward](/post/downward/)" refers [to](/post/to/) going [in](/post/in/) [a](/post/a/) [lower](/post/lower/) [direction](/post/direction/).
+- "[Shift](/post/shift/) [downward](/post/downward/)" implies [a](/post/a/) [change](/post/change/) [to](/post/to/) [a](/post/a/) [lower](/post/lower/) [level](/post/level/) [or](/post/or/) [position](/post/position/).
+- "[Gradually](/post/gradually/) [downward](/post/downward/)" describes [a](/post/a/) [slow](/post/slow/) descent.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [sun](/en/post/sun/) began [to](/en/post/to/) [set](/en/post/set/), casting [its](/en/post/its/) [light](/en/post/light/) [downward](/en/post/downward/) [onto](/en/post/onto/) [the](/en/post/the/) [valley](/en/post/valley/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [arrow](/en/post/arrow/) pointed [straight](/en/post/straight/) [downward](/en/post/downward/)."
-- **[Pronoun](/en/post/pronoun/)**: "[The](/en/post/the/) [temperature](/en/post/temperature/) tends [to](/en/post/to/) [drop](/en/post/drop/) [downward](/en/post/downward/) [during](/en/post/during/) [winter](/en/post/winter/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [sun](/post/sun/) began [to](/post/to/) [set](/post/set/), casting [its](/post/its/) [light](/post/light/) [downward](/post/downward/) [onto](/post/onto/) [the](/post/the/) [valley](/post/valley/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [arrow](/post/arrow/) pointed [straight](/post/straight/) [downward](/post/downward/)."
+- **[Pronoun](/post/pronoun/)**: "[The](/post/the/) [temperature](/post/temperature/) tends [to](/post/to/) [drop](/post/drop/) [downward](/post/downward/) [during](/post/during/) [winter](/post/winter/)."
 
 ## Synonyms
-- [Down](/en/post/down/)
+- [Down](/post/down/)
 - Downwards
 - Downhill
 - Descending
 - Lowering
 
 ## Antonyms
-- [Upward](/en/post/upward/)
+- [Upward](/post/upward/)
 - Ascending
 - Rising

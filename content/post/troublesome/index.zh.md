@@ -11,20 +11,20 @@ keywords = ['ai words', 'troublesome']
 /trəˈməsən/
 
 ## 释义
-- **形容词**: 造成麻烦的，令人烦恼的，困难的。例如: "[The](/post/the/) [troublesome](/post/troublesome/) machinery kept breaking [down](/post/down/)."
-- **副词**: 令人烦恼地，引起麻烦地。例如: "[The](/post/the/) [child](/post/child/) behaved [troublesome](/post/troublesome/) [throughout](/post/throughout/) [the](/post/the/) [entire](/post/entire/) [flight](/post/flight/)."
+- **形容词**: 造成麻烦的，令人烦恼的，困难的。例如: "[The](/zh/post/the/) [troublesome](/zh/post/troublesome/) machinery kept breaking [down](/zh/post/down/)."
+- **副词**: 令人烦恼地，引起麻烦地。例如: "[The](/zh/post/the/) [child](/zh/post/child/) behaved [troublesome](/zh/post/troublesome/) [throughout](/zh/post/throughout/) [the](/zh/post/the/) [entire](/zh/post/entire/) [flight](/zh/post/flight/)."
 
 ## 短语
-- "[troublesome](/post/troublesome/) [behavior](/post/behavior/)" 指引起问题的行为。
-- "[a](/post/a/) [troublesome](/post/troublesome/) [issue](/post/issue/)" 指一个棘手的问题。
+- "[troublesome](/zh/post/troublesome/) [behavior](/zh/post/behavior/)" 指引起问题的行为。
+- "[a](/zh/post/a/) [troublesome](/zh/post/troublesome/) [issue](/zh/post/issue/)" 指一个棘手的问题。
 
 ## 例句
-- 形容词: "[The](/post/the/) [troublesome](/post/troublesome/) neighbor complained [about](/post/about/) [every](/post/every/) [little](/post/little/) [noise](/post/noise/)."
-- 副词: "[His](/post/his/) [troublesome](/post/troublesome/) [attitude](/post/attitude/) made [it](/post/it/) [difficult](/post/difficult/) [for](/post/for/) others [to](/post/to/) [work](/post/work/) [with](/post/with/) [him](/post/him/)."
+- 形容词: "[The](/zh/post/the/) [troublesome](/zh/post/troublesome/) neighbor complained [about](/zh/post/about/) [every](/zh/post/every/) [little](/zh/post/little/) [noise](/zh/post/noise/)."
+- 副词: "[His](/zh/post/his/) [troublesome](/zh/post/troublesome/) [attitude](/zh/post/attitude/) made [it](/zh/post/it/) [difficult](/zh/post/difficult/) [for](/zh/post/for/) others [to](/zh/post/to/) [work](/zh/post/work/) [with](/zh/post/with/) [him](/zh/post/him/)."
 
 ## 同义词
 - Inconvenient
-- [Difficult](/post/difficult/)
+- [Difficult](/zh/post/difficult/)
 - Frustrating
 - Annoying
 - Problematic

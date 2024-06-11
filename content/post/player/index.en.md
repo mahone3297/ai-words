@@ -7,47 +7,47 @@ description = '[ˈpleiə] n.游戏的人；比赛者'
 keywords = ['ai words', 'player']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈpleɪər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) plays [a](/en/post/a/) [musical](/en/post/musical/) [instrument](/en/post/instrument/) [or](/en/post/or/) sports**: [A](/en/post/a/) [professional](/en/post/professional/) [football](/en/post/football/) [player](/en/post/player/).
-- **[A](/en/post/a/) participant [in](/en/post/in/) [a](/en/post/a/) [game](/en/post/game/) [or](/en/post/or/) [contest](/en/post/contest/)**: [The](/en/post/the/) [lead](/en/post/lead/) [actor](/en/post/actor/) [in](/en/post/in/) [the](/en/post/the/) [play](/en/post/play/).
-- **[A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) engages [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/) [or](/en/post/or/) [hobby](/en/post/hobby/)**: [Chess](/en/post/chess/) players [often](/en/post/often/) [gather](/en/post/gather/) [at](/en/post/at/) [the](/en/post/the/) [local](/en/post/local/) [club](/en/post/club/).
-- **[A](/en/post/a/) [person](/en/post/person/) using [a](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) software**: [Video](/en/post/video/) [game](/en/post/game/) [player](/en/post/player/).
+### [Noun](/post/noun/)
+- **[A](/post/a/) [person](/post/person/) [who](/post/who/) plays [a](/post/a/) [musical](/post/musical/) [instrument](/post/instrument/) [or](/post/or/) sports**: [A](/post/a/) [professional](/post/professional/) [football](/post/football/) [player](/post/player/).
+- **[A](/post/a/) participant [in](/post/in/) [a](/post/a/) [game](/post/game/) [or](/post/or/) [contest](/post/contest/)**: [The](/post/the/) [lead](/post/lead/) [actor](/post/actor/) [in](/post/in/) [the](/post/the/) [play](/post/play/).
+- **[A](/post/a/) [person](/post/person/) [who](/post/who/) engages [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/) [or](/post/or/) [hobby](/post/hobby/)**: [Chess](/post/chess/) players [often](/post/often/) [gather](/post/gather/) [at](/post/at/) [the](/post/the/) [local](/post/local/) [club](/post/club/).
+- **[A](/post/a/) [person](/post/person/) using [a](/post/a/) [device](/post/device/) [or](/post/or/) software**: [Video](/post/video/) [game](/post/game/) [player](/post/player/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [game](/en/post/game/) [or](/en/post/or/) [sport](/en/post/sport/)**: He's [a](/en/post/a/) [skilled](/en/post/skilled/) [player](/en/post/player/) [in](/en/post/in/) [chess](/en/post/chess/).
-- **[To](/en/post/to/) [operate](/en/post/operate/) [or](/en/post/or/) interact [with](/en/post/with/) [a](/en/post/a/) [device](/en/post/device/)**: She's [a](/en/post/a/) pro [at](/en/post/at/) playing [the](/en/post/the/) [piano](/en/post/piano/).
-- **[To](/en/post/to/) [be](/en/post/be/) involved [or](/en/post/or/) [competent](/en/post/competent/) [in](/en/post/in/) [a](/en/post/a/) [role](/en/post/role/)**: He's [a](/en/post/a/) [key](/en/post/key/) [player](/en/post/player/) [in](/en/post/in/) [the](/en/post/the/) company's [strategy](/en/post/strategy/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) [game](/post/game/) [or](/post/or/) [sport](/post/sport/)**: He's [a](/post/a/) [skilled](/post/skilled/) [player](/post/player/) [in](/post/in/) [chess](/post/chess/).
+- **[To](/post/to/) [operate](/post/operate/) [or](/post/or/) interact [with](/post/with/) [a](/post/a/) [device](/post/device/)**: She's [a](/post/a/) pro [at](/post/at/) playing [the](/post/the/) [piano](/post/piano/).
+- **[To](/post/to/) [be](/post/be/) involved [or](/post/or/) [competent](/post/competent/) [in](/post/in/) [a](/post/a/) [role](/post/role/)**: He's [a](/post/a/) [key](/post/key/) [player](/post/player/) [in](/post/in/) [the](/post/the/) company's [strategy](/post/strategy/).
 
-### [Adjective](/en/post/adjective/)
-- **[Skillful](/en/post/skillful/) [or](/en/post/or/) proficient [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/)**: [A](/en/post/a/) talented [player](/en/post/player/).
-- **Playing [a](/en/post/a/) [role](/en/post/role/) [in](/en/post/in/) [something](/en/post/something/)**: [The](/en/post/the/) [main](/en/post/main/) [character](/en/post/character/) [in](/en/post/in/) [the](/en/post/the/) [play](/en/post/play/).
+### [Adjective](/post/adjective/)
+- **[Skillful](/post/skillful/) [or](/post/or/) proficient [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [activity](/post/activity/)**: [A](/post/a/) talented [player](/post/player/).
+- **Playing [a](/post/a/) [role](/post/role/) [in](/post/in/) [something](/post/something/)**: [The](/post/the/) [main](/post/main/) [character](/post/character/) [in](/post/in/) [the](/post/the/) [play](/post/play/).
 
-### [Adverb](/en/post/adverb/)
-- (Informal) **[In](/en/post/in/) [a](/en/post/a/) playful [manner](/en/post/manner/)**: [She](/en/post/she/) playedfully teased [her](/en/post/her/) [brother](/en/post/brother/).
+### [Adverb](/post/adverb/)
+- (Informal) **[In](/post/in/) [a](/post/a/) playful [manner](/post/manner/)**: [She](/post/she/) playedfully teased [her](/post/her/) [brother](/post/brother/).
 
 ## Phrases
-- "[Play](/en/post/play/) [a](/en/post/a/) [musical](/en/post/musical/) [instrument](/en/post/instrument/)": She's been playing [the](/en/post/the/) [violin](/en/post/violin/) [since](/en/post/since/) [childhood](/en/post/childhood/).
-- "[Play](/en/post/play/) [someone](/en/post/someone/) [in](/en/post/in/) [a](/en/post/a/) [match](/en/post/match/)": [The](/en/post/the/) [team](/en/post/team/) is hoping [to](/en/post/to/) [play](/en/post/play/) [their](/en/post/their/) archrivals [next](/en/post/next/) [week](/en/post/week/).
-- "[Play](/en/post/play/) [a](/en/post/a/) [part](/en/post/part/) [in](/en/post/in/)": [His](/en/post/his/) actions played [a](/en/post/a/) [significant](/en/post/significant/) [role](/en/post/role/) [in](/en/post/in/) [the](/en/post/the/) [election](/en/post/election/) results.
+- "[Play](/post/play/) [a](/post/a/) [musical](/post/musical/) [instrument](/post/instrument/)": She's been playing [the](/post/the/) [violin](/post/violin/) [since](/post/since/) [childhood](/post/childhood/).
+- "[Play](/post/play/) [someone](/post/someone/) [in](/post/in/) [a](/post/a/) [match](/post/match/)": [The](/post/the/) [team](/post/team/) is hoping [to](/post/to/) [play](/post/play/) [their](/post/their/) archrivals [next](/post/next/) [week](/post/week/).
+- "[Play](/post/play/) [a](/post/a/) [part](/post/part/) [in](/post/in/)": [His](/post/his/) actions played [a](/post/a/) [significant](/post/significant/) [role](/post/role/) [in](/post/in/) [the](/post/the/) [election](/post/election/) results.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [basketball](/en/post/basketball/) player's dunk [left](/en/post/left/) [the](/en/post/the/) [crowd](/en/post/crowd/) [in](/en/post/in/) awe.
-- **[Verb](/en/post/verb/)**: He's been playing [the](/en/post/the/) [piano](/en/post/piano/) [since](/en/post/since/) [he](/en/post/he/) was [five](/en/post/five/) years [old](/en/post/old/).
-- **[Adjective](/en/post/adjective/)**: She's [a](/en/post/a/) [key](/en/post/key/) [player](/en/post/player/) [in](/en/post/in/) [the](/en/post/the/) company's marketing [campaign](/en/post/campaign/).
-- **[Adverb](/en/post/adverb/)**: [The](/en/post/the/) children played happily [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [basketball](/post/basketball/) player's dunk [left](/post/left/) [the](/post/the/) [crowd](/post/crowd/) [in](/post/in/) awe.
+- **[Verb](/post/verb/)**: He's been playing [the](/post/the/) [piano](/post/piano/) [since](/post/since/) [he](/post/he/) was [five](/post/five/) years [old](/post/old/).
+- **[Adjective](/post/adjective/)**: She's [a](/post/a/) [key](/post/key/) [player](/post/player/) [in](/post/in/) [the](/post/the/) company's marketing [campaign](/post/campaign/).
+- **[Adverb](/post/adverb/)**: [The](/post/the/) children played happily [in](/post/in/) [the](/post/the/) [park](/post/park/).
 
 ## Synonyms
-- [Athlete](/en/post/athlete/)
+- [Athlete](/post/athlete/)
 - Performer
 - Competitor
 - Actuator
-- [Operator](/en/post/operator/)
-- [Player](/en/post/player/) ([in](/en/post/in/) [a](/en/post/a/) [game](/en/post/game/))
-- Performer ([in](/en/post/in/) [a](/en/post/a/) [play](/en/post/play/))
-- [Expert](/en/post/expert/) ([in](/en/post/in/) [a](/en/post/a/) [hobby](/en/post/hobby/))
-- [Skilled](/en/post/skilled/) [individual](/en/post/individual/)
-- [Active](/en/post/active/) participant
+- [Operator](/post/operator/)
+- [Player](/post/player/) ([in](/post/in/) [a](/post/a/) [game](/post/game/))
+- Performer ([in](/post/in/) [a](/post/a/) [play](/post/play/))
+- [Expert](/post/expert/) ([in](/post/in/) [a](/post/a/) [hobby](/post/hobby/))
+- [Skilled](/post/skilled/) [individual](/post/individual/)
+- [Active](/post/active/) participant

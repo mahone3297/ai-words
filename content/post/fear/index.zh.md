@@ -11,20 +11,20 @@ keywords = ['ai words', 'fear']
 /fɪr/
 
 ## 释义
-- **名词**: 害怕，恐惧；畏惧。例如: "[She](/post/she/) felt [a](/post/a/) [deep](/post/deep/) [fear](/post/fear/) [when](/post/when/) [she](/post/she/) was [alone](/post/alone/) [in](/post/in/) [the](/post/the/) [dark](/post/dark/)."
-- **动词**: 使害怕，使恐惧。例如: "[The](/post/the/) [loud](/post/loud/) [noise](/post/noise/) fear-ed [the](/post/the/) [child](/post/child/)."
+- **名词**: 害怕，恐惧；畏惧。例如: "[She](/zh/post/she/) felt [a](/zh/post/a/) [deep](/zh/post/deep/) [fear](/zh/post/fear/) [when](/zh/post/when/) [she](/zh/post/she/) was [alone](/zh/post/alone/) [in](/zh/post/in/) [the](/zh/post/the/) [dark](/zh/post/dark/)."
+- **动词**: 使害怕，使恐惧。例如: "[The](/zh/post/the/) [loud](/zh/post/loud/) [noise](/zh/post/noise/) fear-ed [the](/zh/post/the/) [child](/zh/post/child/)."
 
 ## 短语
-- "[live](/post/live/) [in](/post/in/) [fear](/post/fear/) [of](/post/of/) [something](/post/something/)" 意为生活在对某事物的恐惧之中。
-- "[to](/post/to/) [fear](/post/fear/) [for](/post/for/) [someone](/post/someone/)/[something](/post/something/)" 表示担心某人或某事。
+- "[live](/zh/post/live/) [in](/zh/post/in/) [fear](/zh/post/fear/) [of](/zh/post/of/) [something](/zh/post/something/)" 意为生活在对某事物的恐惧之中。
+- "[to](/zh/post/to/) [fear](/zh/post/fear/) [for](/zh/post/for/) [someone](/zh/post/someone/)/[something](/zh/post/something/)" 表示担心某人或某事。
 
 ## 例句
-- 名词: "[The](/post/the/) [fear](/post/fear/) [of](/post/of/) [failure](/post/failure/) held [him](/post/him/) [back](/post/back/) [from](/post/from/) trying."
-- 动词: "[The](/post/the/) thunderstorm fear-ed [the](/post/the/) [little](/post/little/) [dog](/post/dog/)."
+- 名词: "[The](/zh/post/the/) [fear](/zh/post/fear/) [of](/zh/post/of/) [failure](/zh/post/failure/) held [him](/zh/post/him/) [back](/zh/post/back/) [from](/zh/post/from/) trying."
+- 动词: "[The](/zh/post/the/) thunderstorm fear-ed [the](/zh/post/the/) [little](/zh/post/little/) [dog](/zh/post/dog/)."
 
 ## 同义词
-- [Anxiety](/post/anxiety/)
-- [Terror](/post/terror/)
-- [Dread](/post/dread/)
+- [Anxiety](/zh/post/anxiety/)
+- [Terror](/zh/post/terror/)
+- [Dread](/zh/post/dread/)
 - Apprehension
 - Nervousness

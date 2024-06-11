@@ -11,24 +11,24 @@ keywords = ['ai words', 'bear']
 /bɛər/
 
 ## 释义
-- **名词**: 大型哺乳动物，如熊。例如: "[The](/post/the/) [bear](/post/bear/) roamed [through](/post/through/) [the](/post/the/) [forest](/post/forest/) [in](/post/in/) [search](/post/search/) [of](/post/of/) [food](/post/food/)."
-- **动词**: 承受，忍受。例如: "[She](/post/she/) had [to](/post/to/) [bear](/post/bear/) [the](/post/the/) [pain](/post/pain/) [of](/post/of/) losing [her](/post/her/) loved [one](/post/one/)."
-- **动词**: 承担，承受（责任、费用等）。例如: "[He](/post/he/) [will](/post/will/) [bear](/post/bear/) [the](/post/the/) [cost](/post/cost/) [of](/post/of/) [the](/post/the/) damages."
-- **动词**: 生育，产仔。例如: "[The](/post/the/) [mother](/post/mother/) [bear](/post/bear/) has [just](/post/just/) given [birth](/post/birth/) [to](/post/to/) [two](/post/two/) cubs."
-- **形容词**: 耐寒的，有熊皮的。例如: "[Bear](/post/bear/) [skin](/post/skin/) rugs are [often](/post/often/) [used](/post/used/) [for](/post/for/) decoration."
+- **名词**: 大型哺乳动物，如熊。例如: "[The](/zh/post/the/) [bear](/zh/post/bear/) roamed [through](/zh/post/through/) [the](/zh/post/the/) [forest](/zh/post/forest/) [in](/zh/post/in/) [search](/zh/post/search/) [of](/zh/post/of/) [food](/zh/post/food/)."
+- **动词**: 承受，忍受。例如: "[She](/zh/post/she/) had [to](/zh/post/to/) [bear](/zh/post/bear/) [the](/zh/post/the/) [pain](/zh/post/pain/) [of](/zh/post/of/) losing [her](/zh/post/her/) loved [one](/zh/post/one/)."
+- **动词**: 承担，承受（责任、费用等）。例如: "[He](/zh/post/he/) [will](/zh/post/will/) [bear](/zh/post/bear/) [the](/zh/post/the/) [cost](/zh/post/cost/) [of](/zh/post/of/) [the](/zh/post/the/) damages."
+- **动词**: 生育，产仔。例如: "[The](/zh/post/the/) [mother](/zh/post/mother/) [bear](/zh/post/bear/) has [just](/zh/post/just/) given [birth](/zh/post/birth/) [to](/zh/post/to/) [two](/zh/post/two/) cubs."
+- **形容词**: 耐寒的，有熊皮的。例如: "[Bear](/zh/post/bear/) [skin](/zh/post/skin/) rugs are [often](/zh/post/often/) [used](/zh/post/used/) [for](/zh/post/for/) decoration."
 
 ## 短语
-- "[bear](/post/bear/) [with](/post/with/) sb." 耐心对待，容忍。例如: "[Please](/post/please/) [bear](/post/bear/) [with](/post/with/) [me](/post/me/) [while](/post/while/) I [finish](/post/finish/) [this](/post/this/) [task](/post/task/)."
-- "[bear](/post/bear/) [in](/post/in/) [mind](/post/mind/)" 记住，切勿忘记。例如: "[Bear](/post/bear/) [in](/post/in/) [mind](/post/mind/) [that](/post/that/) [we](/post/we/) [need](/post/need/) [to](/post/to/) [leave](/post/leave/) [early](/post/early/) [tomorrow](/post/tomorrow/) [morning](/post/morning/)."
-- "[bear](/post/bear/) [out](/post/out/)" 证明是正确的，证实。例如: "[The](/post/the/) [evidence](/post/evidence/) bears [out](/post/out/) [our](/post/our/) [theory](/post/theory/)."
+- "[bear](/zh/post/bear/) [with](/zh/post/with/) sb." 耐心对待，容忍。例如: "[Please](/zh/post/please/) [bear](/zh/post/bear/) [with](/zh/post/with/) [me](/zh/post/me/) [while](/zh/post/while/) I [finish](/zh/post/finish/) [this](/zh/post/this/) [task](/zh/post/task/)."
+- "[bear](/zh/post/bear/) [in](/zh/post/in/) [mind](/zh/post/mind/)" 记住，切勿忘记。例如: "[Bear](/zh/post/bear/) [in](/zh/post/in/) [mind](/zh/post/mind/) [that](/zh/post/that/) [we](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [leave](/zh/post/leave/) [early](/zh/post/early/) [tomorrow](/zh/post/tomorrow/) [morning](/zh/post/morning/)."
+- "[bear](/zh/post/bear/) [out](/zh/post/out/)" 证明是正确的，证实。例如: "[The](/zh/post/the/) [evidence](/zh/post/evidence/) bears [out](/zh/post/out/) [our](/zh/post/our/) [theory](/zh/post/theory/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [park](/post/park/) ranger warned [us](/post/us/) [about](/post/about/) [a](/post/a/) grizzly [bear](/post/bear/) [in](/post/in/) [the](/post/the/) [area](/post/area/)."
-- 动词(承受): "[She](/post/she/) tried [to](/post/to/) [bear](/post/bear/) [the](/post/the/) [burden](/post/burden/) [of](/post/of/) [her](/post/her/) problems [alone](/post/alone/)."
-- 动词(承担): "[He](/post/he/) agreed [to](/post/to/) [bear](/post/bear/) [full](/post/full/) [responsibility](/post/responsibility/) [for](/post/for/) [the](/post/the/) [accident](/post/accident/)."
-- 形容词: "[The](/post/the/) [cabin](/post/cabin/) was cozy [and](/post/and/) [warm](/post/warm/), [with](/post/with/) [a](/post/a/) [large](/post/large/) [bear](/post/bear/) [rug](/post/rug/) [in](/post/in/) [the](/post/the/) center."
+- 名词: "[The](/zh/post/the/) [park](/zh/post/park/) ranger warned [us](/zh/post/us/) [about](/zh/post/about/) [a](/zh/post/a/) grizzly [bear](/zh/post/bear/) [in](/zh/post/in/) [the](/zh/post/the/) [area](/zh/post/area/)."
+- 动词(承受): "[She](/zh/post/she/) tried [to](/zh/post/to/) [bear](/zh/post/bear/) [the](/zh/post/the/) [burden](/zh/post/burden/) [of](/zh/post/of/) [her](/zh/post/her/) problems [alone](/zh/post/alone/)."
+- 动词(承担): "[He](/zh/post/he/) agreed [to](/zh/post/to/) [bear](/zh/post/bear/) [full](/zh/post/full/) [responsibility](/zh/post/responsibility/) [for](/zh/post/for/) [the](/zh/post/the/) [accident](/zh/post/accident/)."
+- 形容词: "[The](/zh/post/the/) [cabin](/zh/post/cabin/) was cozy [and](/zh/post/and/) [warm](/zh/post/warm/), [with](/zh/post/with/) [a](/zh/post/a/) [large](/zh/post/large/) [bear](/zh/post/bear/) [rug](/zh/post/rug/) [in](/zh/post/in/) [the](/zh/post/the/) center."
 
 ## 同义词
-- 忍受: [tolerate](/post/tolerate/), [endure](/post/endure/), [stand](/post/stand/)
-- 承担: [shoulder](/post/shoulder/), [take](/post/take/) [on](/post/on/), [assume](/post/assume/)
-- 生育: [give](/post/give/) [birth](/post/birth/), sire, [produce](/post/produce/)
+- 忍受: [tolerate](/zh/post/tolerate/), [endure](/zh/post/endure/), [stand](/zh/post/stand/)
+- 承担: [shoulder](/zh/post/shoulder/), [take](/zh/post/take/) [on](/zh/post/on/), [assume](/zh/post/assume/)
+- 生育: [give](/zh/post/give/) [birth](/zh/post/birth/), sire, [produce](/zh/post/produce/)

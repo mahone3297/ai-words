@@ -11,21 +11,21 @@ keywords = ['ai words', 'permission']
 /ˌpərˈmɪʃn/
 
 ## 释义
-- **名词**: 允许，许可，授权。例如: "[You](/post/you/) [need](/post/need/) [permission](/post/permission/) [from](/post/from/) [the](/post/the/) [owner](/post/owner/) [to](/post/to/) [enter](/post/enter/) [the](/post/the/) [property](/post/property/)."
-- **动词**: 给予许可，允许。例如: "[The](/post/the/) [teacher](/post/teacher/) permitted [the](/post/the/) students [to](/post/to/) [leave](/post/leave/) [early](/post/early/)."
+- **名词**: 允许，许可，授权。例如: "[You](/zh/post/you/) [need](/zh/post/need/) [permission](/zh/post/permission/) [from](/zh/post/from/) [the](/zh/post/the/) [owner](/zh/post/owner/) [to](/zh/post/to/) [enter](/zh/post/enter/) [the](/zh/post/the/) [property](/zh/post/property/)."
+- **动词**: 给予许可，允许。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) permitted [the](/zh/post/the/) students [to](/zh/post/to/) [leave](/zh/post/leave/) [early](/zh/post/early/)."
 
 ## 短语
-- "[Ask](/post/ask/) [for](/post/for/) [permission](/post/permission/)" 请求许可。
-- "[Give](/post/give/) [permission](/post/permission/) [to](/post/to/)" 授权给。
-- "[Without](/post/without/) [permission](/post/permission/)" 未经许可。
+- "[Ask](/zh/post/ask/) [for](/zh/post/for/) [permission](/zh/post/permission/)" 请求许可。
+- "[Give](/zh/post/give/) [permission](/zh/post/permission/) [to](/zh/post/to/)" 授权给。
+- "[Without](/zh/post/without/) [permission](/zh/post/permission/)" 未经许可。
 
 ## 例句
-- 名词: "[The](/post/the/) [event](/post/event/) organizer needs [to](/post/to/) [obtain](/post/obtain/) [a](/post/a/) [permit](/post/permit/) [from](/post/from/) [the](/post/the/) [city](/post/city/) [council](/post/council/)."
-- 动词: "[The](/post/the/) parents [have](/post/have/) given [their](/post/their/) [permission](/post/permission/) [for](/post/for/) [their](/post/their/) [child](/post/child/) [to](/post/to/) [travel](/post/travel/) [alone](/post/alone/)."
+- 名词: "[The](/zh/post/the/) [event](/zh/post/event/) organizer needs [to](/zh/post/to/) [obtain](/zh/post/obtain/) [a](/zh/post/a/) [permit](/zh/post/permit/) [from](/zh/post/from/) [the](/zh/post/the/) [city](/zh/post/city/) [council](/zh/post/council/)."
+- 动词: "[The](/zh/post/the/) parents [have](/zh/post/have/) given [their](/zh/post/their/) [permission](/zh/post/permission/) [for](/zh/post/for/) [their](/zh/post/their/) [child](/zh/post/child/) [to](/zh/post/to/) [travel](/zh/post/travel/) [alone](/zh/post/alone/)."
 
 ## 同义词
-- [Consent](/post/consent/)
+- [Consent](/zh/post/consent/)
 - Authorization
-- [Approval](/post/approval/)
+- [Approval](/zh/post/approval/)
 - Allowance
-- [License](/post/license/)
+- [License](/zh/post/license/)

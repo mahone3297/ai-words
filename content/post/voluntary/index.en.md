@@ -7,30 +7,30 @@ description = '[ˈvɔləntəri; (US) -teri] a.自/志愿的'
 keywords = ['ai words', 'voluntary']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vəˈlʌntəri/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Done [by](/en/post/by/) [choice](/en/post/choice/), willingly, [or](/en/post/or/) [without](/en/post/without/) compulsion. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) took [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/) voluntarily."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) offers [their](/en/post/their/) services [or](/en/post/or/) participation [without](/en/post/without/) [being](/en/post/being/) forced. [For](/en/post/for/) [example](/en/post/example/): "[Many](/en/post/many/) volunteers helped [at](/en/post/at/) [the](/en/post/the/) [charity](/en/post/charity/) [event](/en/post/event/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [perform](/en/post/perform/) an [action](/en/post/action/) willingly [or](/en/post/or/) [by](/en/post/by/) [choice](/en/post/choice/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) volunteered [to](/en/post/to/) [clean](/en/post/clean/) [up](/en/post/up/) [the](/en/post/the/) [park](/en/post/park/)."
+- **[Adjective](/post/adjective/)**: Done [by](/post/by/) [choice](/post/choice/), willingly, [or](/post/or/) [without](/post/without/) compulsion. [For](/post/for/) [example](/post/example/): "[He](/post/he/) took [on](/post/on/) [the](/post/the/) [project](/post/project/) voluntarily."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) offers [their](/post/their/) services [or](/post/or/) participation [without](/post/without/) [being](/post/being/) forced. [For](/post/for/) [example](/post/example/): "[Many](/post/many/) volunteers helped [at](/post/at/) [the](/post/the/) [charity](/post/charity/) [event](/post/event/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [perform](/post/perform/) an [action](/post/action/) willingly [or](/post/or/) [by](/post/by/) [choice](/post/choice/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) volunteered [to](/post/to/) [clean](/post/clean/) [up](/post/up/) [the](/post/the/) [park](/post/park/)."
 
 ## Phrases
-- "[Voluntary](/en/post/voluntary/) [work](/en/post/work/)" refers [to](/en/post/to/) tasks done [without](/en/post/without/) [payment](/en/post/payment/) [or](/en/post/or/) obligation.
-- "Volunteer [your](/en/post/your/) [time](/en/post/time/)" [means](/en/post/means/) [to](/en/post/to/) [offer](/en/post/offer/) [your](/en/post/your/) services [freely](/en/post/freely/).
-- "[Voluntary](/en/post/voluntary/) [resignation](/en/post/resignation/)" is [when](/en/post/when/) [someone](/en/post/someone/) leaves [a](/en/post/a/) [job](/en/post/job/) willingly.
+- "[Voluntary](/post/voluntary/) [work](/post/work/)" refers [to](/post/to/) tasks done [without](/post/without/) [payment](/post/payment/) [or](/post/or/) obligation.
+- "Volunteer [your](/post/your/) [time](/post/time/)" [means](/post/means/) [to](/post/to/) [offer](/post/offer/) [your](/post/your/) services [freely](/post/freely/).
+- "[Voluntary](/post/voluntary/) [resignation](/post/resignation/)" is [when](/post/when/) [someone](/post/someone/) leaves [a](/post/a/) [job](/post/job/) willingly.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [decision](/en/post/decision/) was entirely [voluntary](/en/post/voluntary/), based [on](/en/post/on/) [his](/en/post/his/) [passion](/en/post/passion/) [for](/en/post/for/) [the](/en/post/the/) [cause](/en/post/cause/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [organization](/en/post/organization/) relies [heavily](/en/post/heavily/) [on](/en/post/on/) volunteers [to](/en/post/to/) [maintain](/en/post/maintain/) [its](/en/post/its/) operations."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) volunteered [to](/en/post/to/) [teach](/en/post/teach/) English [in](/en/post/in/) [a](/en/post/a/) [remote](/en/post/remote/) [village](/en/post/village/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [decision](/post/decision/) was entirely [voluntary](/post/voluntary/), based [on](/post/on/) [his](/post/his/) [passion](/post/passion/) [for](/post/for/) [the](/post/the/) [cause](/post/cause/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [organization](/post/organization/) relies [heavily](/post/heavily/) [on](/post/on/) volunteers [to](/post/to/) [maintain](/post/maintain/) [its](/post/its/) operations."
+- **[Verb](/post/verb/)**: "[He](/post/he/) volunteered [to](/post/to/) [teach](/post/teach/) English [in](/post/in/) [a](/post/a/) [remote](/post/remote/) [village](/post/village/)."
 
 ## Synonyms
-- [Optional](/en/post/optional/)
+- [Optional](/post/optional/)
 - Self-motivated
 - Uncompelled
 - Free-willed
-- [Willing](/en/post/willing/)
+- [Willing](/post/willing/)
 
 ## Antonyms
 - Compulsory

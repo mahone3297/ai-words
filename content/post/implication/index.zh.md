@@ -12,23 +12,23 @@ keywords = ['ai words', 'implication']
 
 ## 释义
 - **名词**:
-    - 含义1: 暗示，隐含。例如: "[There](/post/there/) are [serious](/post/serious/) implications [for](/post/for/) [the](/post/the/) [economy](/post/economy/) [if](/post/if/) [interest](/post/interest/) rates [rise](/post/rise/)."
-    - 含义2: 结果，影响。例如: "[The](/post/the/) [policy](/post/policy/) [change](/post/change/) has far-reaching implications [for](/post/for/) [small](/post/small/) businesses."
+    - 含义1: 暗示，隐含。例如: "[There](/zh/post/there/) are [serious](/zh/post/serious/) implications [for](/zh/post/for/) [the](/zh/post/the/) [economy](/zh/post/economy/) [if](/zh/post/if/) [interest](/zh/post/interest/) rates [rise](/zh/post/rise/)."
+    - 含义2: 结果，影响。例如: "[The](/zh/post/the/) [policy](/zh/post/policy/) [change](/zh/post/change/) has far-reaching implications [for](/zh/post/for/) [small](/zh/post/small/) businesses."
 
 - **动词**:
-    - 引起（某种后果或结果）。例如: "[This](/post/this/) [decision](/post/decision/) implicates [a](/post/a/) [shift](/post/shift/) [in](/post/in/) [our](/post/our/) company's [strategy](/post/strategy/)."
+    - 引起（某种后果或结果）。例如: "[This](/zh/post/this/) [decision](/zh/post/decision/) implicates [a](/zh/post/a/) [shift](/zh/post/shift/) [in](/zh/post/in/) [our](/zh/post/our/) company's [strategy](/zh/post/strategy/)."
 
 ## 短语
-- "Implications [of](/post/of/) [something](/post/something/)" 指的是某事的含义或影响。
-- "[To](/post/to/) [imply](/post/imply/) [something](/post/something/)" 意味着暗示或表明某事。
+- "Implications [of](/zh/post/of/) [something](/zh/post/something/)" 指的是某事的含义或影响。
+- "[To](/zh/post/to/) [imply](/zh/post/imply/) [something](/zh/post/something/)" 意味着暗示或表明某事。
 
 ## 例句
-- 名词: "[The](/post/the/) [study](/post/study/) reveals [potential](/post/potential/) implications [for](/post/for/) [future](/post/future/) [medical](/post/medical/) treatments."
-- 动词: "[His](/post/his/) [silence](/post/silence/) implies [that](/post/that/) [he](/post/he/) doesn't [agree](/post/agree/) [with](/post/with/) [the](/post/the/) [proposal](/post/proposal/)."
+- 名词: "[The](/zh/post/the/) [study](/zh/post/study/) reveals [potential](/zh/post/potential/) implications [for](/zh/post/for/) [future](/zh/post/future/) [medical](/zh/post/medical/) treatments."
+- 动词: "[His](/zh/post/his/) [silence](/zh/post/silence/) implies [that](/zh/post/that/) [he](/zh/post/he/) doesn't [agree](/zh/post/agree/) [with](/zh/post/with/) [the](/zh/post/the/) [proposal](/zh/post/proposal/)."
 
 ## 同义词
-- [Consequence](/post/consequence/)
-- [Result](/post/result/)
-- [Effect](/post/effect/)
+- [Consequence](/zh/post/consequence/)
+- [Result](/zh/post/result/)
+- [Effect](/zh/post/effect/)
 - Inference
-- [Outcome](/post/outcome/)
+- [Outcome](/zh/post/outcome/)

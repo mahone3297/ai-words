@@ -12,25 +12,25 @@ keywords = ['ai words', 'settle']
 
 ## 释义
 - **动词**:
-1. 安定，定居：使（某人）安顿下来；在新的地方建立家园。例如: "[They](/post/they/) settled [in](/post/in/) [a](/post/a/) [small](/post/small/) [town](/post/town/) [after](/post/after/) retiring."
-2. 解决，处理：达成协议或决定一个问题。例如: "[The](/post/the/) [dispute](/post/dispute/) was [finally](/post/finally/) settled [out](/post/out/) [of](/post/of/) [court](/post/court/)."
-3. （款项）付清：支付债务或账单。例如: "I've settled [my](/post/my/) [credit](/post/credit/) [card](/post/card/) [bill](/post/bill/) [for](/post/for/) [this](/post/this/) [month](/post/month/)."
+1. 安定，定居：使（某人）安顿下来；在新的地方建立家园。例如: "[They](/zh/post/they/) settled [in](/zh/post/in/) [a](/zh/post/a/) [small](/zh/post/small/) [town](/zh/post/town/) [after](/zh/post/after/) retiring."
+2. 解决，处理：达成协议或决定一个问题。例如: "[The](/zh/post/the/) [dispute](/zh/post/dispute/) was [finally](/zh/post/finally/) settled [out](/zh/post/out/) [of](/zh/post/of/) [court](/zh/post/court/)."
+3. （款项）付清：支付债务或账单。例如: "I've settled [my](/zh/post/my/) [credit](/zh/post/credit/) [card](/zh/post/card/) [bill](/zh/post/bill/) [for](/zh/post/for/) [this](/zh/post/this/) [month](/zh/post/month/)."
 
 - **名词**:
-1. 定居，安顿：在新地方开始生活的过程。例如: "[The](/post/the/) family's [first](/post/first/) [few](/post/few/) months [of](/post/of/) [settlement](/post/settlement/) were challenging."
-2. 和解，协议：解决争端的正式安排。例如: "[They](/post/they/) reached [a](/post/a/) [financial](/post/financial/) [settlement](/post/settlement/) [with](/post/with/) [the](/post/the/) [insurance](/post/insurance/) [company](/post/company/)."
+1. 定居，安顿：在新地方开始生活的过程。例如: "[The](/zh/post/the/) family's [first](/zh/post/first/) [few](/zh/post/few/) months [of](/zh/post/of/) [settlement](/zh/post/settlement/) were challenging."
+2. 和解，协议：解决争端的正式安排。例如: "[They](/zh/post/they/) reached [a](/zh/post/a/) [financial](/zh/post/financial/) [settlement](/zh/post/settlement/) [with](/zh/post/with/) [the](/zh/post/the/) [insurance](/zh/post/insurance/) [company](/zh/post/company/)."
 
 ## 短语
-- "[settle](/post/settle/) [down](/post/down/)" 意味着安定下来或开始过平静的生活。例如: "[After](/post/after/) years [of](/post/of/) traveling, [he](/post/he/) decided [it](/post/it/) was [time](/post/time/) [to](/post/to/) [settle](/post/settle/) [down](/post/down/)."
-- "[settle](/post/settle/) [the](/post/the/) [score](/post/score/)" 意为报复或了结恩怨。例如: "[He](/post/he/) wanted [to](/post/to/) [settle](/post/settle/) [the](/post/the/) [score](/post/score/) [with](/post/with/) [his](/post/his/) [opponent](/post/opponent/) [once](/post/once/) [and](/post/and/) [for](/post/for/) [all](/post/all/)."
+- "[settle](/zh/post/settle/) [down](/zh/post/down/)" 意味着安定下来或开始过平静的生活。例如: "[After](/zh/post/after/) years [of](/zh/post/of/) traveling, [he](/zh/post/he/) decided [it](/zh/post/it/) was [time](/zh/post/time/) [to](/zh/post/to/) [settle](/zh/post/settle/) [down](/zh/post/down/)."
+- "[settle](/zh/post/settle/) [the](/zh/post/the/) [score](/zh/post/score/)" 意为报复或了结恩怨。例如: "[He](/zh/post/he/) wanted [to](/zh/post/to/) [settle](/zh/post/settle/) [the](/zh/post/the/) [score](/zh/post/score/) [with](/zh/post/with/) [his](/zh/post/his/) [opponent](/zh/post/opponent/) [once](/zh/post/once/) [and](/zh/post/and/) [for](/zh/post/for/) [all](/zh/post/all/)."
 
 ## 例句
-- 动词: "[They](/post/they/) started [building](/post/building/) [their](/post/their/) [new](/post/new/) [house](/post/house/), settling [into](/post/into/) [the](/post/the/) [countryside](/post/countryside/) [life](/post/life/)."
-- 名词: "[The](/post/the/) [divorce](/post/divorce/) [settlement](/post/settlement/) included [joint](/post/joint/) custody [of](/post/of/) [the](/post/the/) children."
+- 动词: "[They](/zh/post/they/) started [building](/zh/post/building/) [their](/zh/post/their/) [new](/zh/post/new/) [house](/zh/post/house/), settling [into](/zh/post/into/) [the](/zh/post/the/) [countryside](/zh/post/countryside/) [life](/zh/post/life/)."
+- 名词: "[The](/zh/post/the/) [divorce](/zh/post/divorce/) [settlement](/zh/post/settlement/) included [joint](/zh/post/joint/) custody [of](/zh/post/of/) [the](/zh/post/the/) children."
 
 ## 同义词
-- [establish](/post/establish/)
-- [arrange](/post/arrange/)
-- [resolve](/post/resolve/)
-- [fix](/post/fix/)
-- [establish](/post/establish/) [oneself](/post/oneself/)
+- [establish](/zh/post/establish/)
+- [arrange](/zh/post/arrange/)
+- [resolve](/zh/post/resolve/)
+- [fix](/zh/post/fix/)
+- [establish](/zh/post/establish/) [oneself](/zh/post/oneself/)

@@ -7,14 +7,14 @@ description = '[inˈventə(r)] n.发明者；发明家'
 keywords = ['ai words', 'inventor']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈvɛntər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) invents [something](/en/post/something/), typically [a](/en/post/a/) [new](/en/post/new/) [device](/en/post/device/), [process](/en/post/process/), [or](/en/post/or/) [technique](/en/post/technique/). [They](/en/post/they/) [create](/en/post/create/) [or](/en/post/or/) [design](/en/post/design/) [original](/en/post/original/) items [or](/en/post/or/) concepts [that](/en/post/that/) [often](/en/post/often/) [lead](/en/post/lead/) [to](/en/post/to/) patents [and](/en/post/and/) [practical](/en/post/practical/) applications [in](/en/post/in/) [various](/en/post/various/) fields [like](/en/post/like/) [science](/en/post/science/), [technology](/en/post/technology/), [and](/en/post/and/) [engineering](/en/post/engineering/).
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) invents [something](/post/something/), typically [a](/post/a/) [new](/post/new/) [device](/post/device/), [process](/post/process/), [or](/post/or/) [technique](/post/technique/). [They](/post/they/) [create](/post/create/) [or](/post/or/) [design](/post/design/) [original](/post/original/) items [or](/post/or/) concepts [that](/post/that/) [often](/post/often/) [lead](/post/lead/) [to](/post/to/) patents [and](/post/and/) [practical](/post/practical/) applications [in](/post/in/) [various](/post/various/) fields [like](/post/like/) [science](/post/science/), [technology](/post/technology/), [and](/post/and/) [engineering](/post/engineering/).
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
-- _Alexander Graham [Bell](/en/post/bell/) was [the](/en/post/the/) [inventor](/en/post/inventor/) [of](/en/post/of/) [the](/en/post/the/) [telephone](/en/post/telephone/)._
+[Example](/post/example/) [Sentence](/post/sentence/): 
+- _Alexander Graham [Bell](/post/bell/) was [the](/post/the/) [inventor](/post/inventor/) [of](/post/of/) [the](/post/the/) [telephone](/post/telephone/)._
 
 Synonyms:
 - Creator
@@ -23,19 +23,19 @@ Synonyms:
 - Discoverer
 - Founder
 - Developer
-- [Pioneer](/en/post/pioneer/)
+- [Pioneer](/post/pioneer/)
 
 ### Phrases
-- "[The](/en/post/the/) [inventor](/en/post/inventor/) [of](/en/post/of/)" - [used](/en/post/used/) [to](/en/post/to/) [attribute](/en/post/attribute/) [the](/en/post/the/) creation [of](/en/post/of/) [something](/en/post/something/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [individual](/en/post/individual/). [For](/en/post/for/) [example](/en/post/example/): "Thomas Edison was [the](/en/post/the/) [inventor](/en/post/inventor/) [of](/en/post/of/) [the](/en/post/the/) [light](/en/post/light/) [bulb](/en/post/bulb/)."
-- "Inventor's [mind](/en/post/mind/)" - referring [to](/en/post/to/) [a](/en/post/a/) [creative](/en/post/creative/) [and](/en/post/and/) innovative [thought](/en/post/thought/) [process](/en/post/process/). [Example](/en/post/example/): "[Only](/en/post/only/) an inventor's [mind](/en/post/mind/) [could](/en/post/could/) [devise](/en/post/devise/) [such](/en/post/such/) [a](/en/post/a/) [unique](/en/post/unique/) [solution](/en/post/solution/)."
+- "[The](/post/the/) [inventor](/post/inventor/) [of](/post/of/)" - [used](/post/used/) [to](/post/to/) [attribute](/post/attribute/) [the](/post/the/) creation [of](/post/of/) [something](/post/something/) [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [individual](/post/individual/). [For](/post/for/) [example](/post/example/): "Thomas Edison was [the](/post/the/) [inventor](/post/inventor/) [of](/post/of/) [the](/post/the/) [light](/post/light/) [bulb](/post/bulb/)."
+- "Inventor's [mind](/post/mind/)" - referring [to](/post/to/) [a](/post/a/) [creative](/post/creative/) [and](/post/and/) innovative [thought](/post/thought/) [process](/post/process/). [Example](/post/example/): "[Only](/post/only/) an inventor's [mind](/post/mind/) [could](/post/could/) [devise](/post/devise/) [such](/post/such/) [a](/post/a/) [unique](/post/unique/) [solution](/post/solution/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) dreamed [of](/en/post/of/) becoming an [inventor](/en/post/inventor/) [from](/en/post/from/) [a](/en/post/a/) [young](/en/post/young/) [age](/en/post/age/), constantly tinkering [with](/en/post/with/) machines [and](/en/post/and/) creating prototypes."
-- "[As](/en/post/as/) [a](/en/post/a/) prolific [inventor](/en/post/inventor/), [he](/en/post/he/) held [over](/en/post/over/) [a](/en/post/a/) [hundred](/en/post/hundred/) patents [throughout](/en/post/throughout/) [his](/en/post/his/) [lifetime](/en/post/lifetime/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) dreamed [of](/post/of/) becoming an [inventor](/post/inventor/) [from](/post/from/) [a](/post/a/) [young](/post/young/) [age](/post/age/), constantly tinkering [with](/post/with/) machines [and](/post/and/) creating prototypes."
+- "[As](/post/as/) [a](/post/a/) prolific [inventor](/post/inventor/), [he](/post/he/) held [over](/post/over/) [a](/post/a/) [hundred](/post/hundred/) patents [throughout](/post/throughout/) [his](/post/his/) [lifetime](/post/lifetime/)."
 
 ## Related Terms & Phrases
 - Patent holder
-- [Genius](/en/post/genius/)
+- [Genius](/post/genius/)
 - Visionary
-- [Creative](/en/post/creative/) thinker
+- [Creative](/post/creative/) thinker
 - Technological innovator

@@ -11,17 +11,17 @@ keywords = ['ai words', 'merchant']
 /ˈmɜːrtʃənt/
 
 ## 释义
-- **名词**: 商人，尤指批发商或零售商。例如: "[The](/post/the/) [merchant](/post/merchant/) sold [various](/post/various/) [goods](/post/goods/) [in](/post/in/) [his](/post/his/) [store](/post/store/)."
-- **形容词**: 商业的，与贸易相关的。例如: "[The](/post/the/) [merchant](/post/merchant/) [navy](/post/navy/) is [responsible](/post/responsible/) [for](/post/for/) transporting [goods](/post/goods/) worldwide."
+- **名词**: 商人，尤指批发商或零售商。例如: "[The](/zh/post/the/) [merchant](/zh/post/merchant/) sold [various](/zh/post/various/) [goods](/zh/post/goods/) [in](/zh/post/in/) [his](/zh/post/his/) [store](/zh/post/store/)."
+- **形容词**: 商业的，与贸易相关的。例如: "[The](/zh/post/the/) [merchant](/zh/post/merchant/) [navy](/zh/post/navy/) is [responsible](/zh/post/responsible/) [for](/zh/post/for/) transporting [goods](/zh/post/goods/) worldwide."
 
 ## 短语
-- "[merchant](/post/merchant/) [ship](/post/ship/)" 商船，指用于商业运输的船只。
-- "[merchant](/post/merchant/) [prince](/post/prince/)" 商业巨头，指非常富有的商人。
-- "[merchant](/post/merchant/) [bank](/post/bank/)" 投资银行，提供金融服务，特别是为企业提供资本和咨询。
+- "[merchant](/zh/post/merchant/) [ship](/zh/post/ship/)" 商船，指用于商业运输的船只。
+- "[merchant](/zh/post/merchant/) [prince](/zh/post/prince/)" 商业巨头，指非常富有的商人。
+- "[merchant](/zh/post/merchant/) [bank](/zh/post/bank/)" 投资银行，提供金融服务，特别是为企业提供资本和咨询。
 
 ## 例句
-- 名词: "[The](/post/the/) [local](/post/local/) [merchant](/post/merchant/) was [well-known](/post/well-known/) [for](/post/for/) [his](/post/his/) [fair](/post/fair/) prices."
-- 形容词: "[The](/post/the/) [merchant](/post/merchant/) [class](/post/class/) played [a](/post/a/) [significant](/post/significant/) [role](/post/role/) [in](/post/in/) medieval [society](/post/society/)."
+- 名词: "[The](/zh/post/the/) [local](/zh/post/local/) [merchant](/zh/post/merchant/) was [well-known](/zh/post/well-known/) [for](/zh/post/for/) [his](/zh/post/his/) [fair](/zh/post/fair/) prices."
+- 形容词: "[The](/zh/post/the/) [merchant](/zh/post/merchant/) [class](/zh/post/class/) played [a](/zh/post/a/) [significant](/zh/post/significant/) [role](/zh/post/role/) [in](/zh/post/in/) medieval [society](/zh/post/society/)."
 
 ## 同义词
 - businessman

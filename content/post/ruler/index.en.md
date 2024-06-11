@@ -7,37 +7,37 @@ description = '[ˈruːlə] n.统治者；尺，直尺'
 keywords = ['ai words', 'ruler']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rʌlər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [device](/en/post/device/) [with](/en/post/with/) [a](/en/post/a/) [blade](/en/post/blade/) [or](/en/post/or/) [flat](/en/post/flat/) [surface](/en/post/surface/) [used](/en/post/used/) [for](/en/post/for/) marking lines [or](/en/post/or/) [drawing](/en/post/drawing/) [straight](/en/post/straight/) lines, [often](/en/post/often/) attached [to](/en/post/to/) [a](/en/post/a/) [handle](/en/post/handle/).
-   - [Example](/en/post/example/): [The](/en/post/the/) [student](/en/post/student/) was using [a](/en/post/a/) [ruler](/en/post/ruler/) [to](/en/post/to/) [measure](/en/post/measure/) [the](/en/post/the/) [length](/en/post/length/) [of](/en/post/of/) [the](/en/post/the/) [paper](/en/post/paper/).
-2. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [authority](/en/post/authority/) [over](/en/post/over/) others, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [political](/en/post/political/) context.
-   - [Example](/en/post/example/): [The](/en/post/the/) [king](/en/post/king/) was [the](/en/post/the/) [supreme](/en/post/supreme/) [ruler](/en/post/ruler/) [of](/en/post/of/) [the](/en/post/the/) [kingdom](/en/post/kingdom/).
-3. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) uses [power](/en/post/power/) [or](/en/post/or/) [control](/en/post/control/) [over](/en/post/over/) others, [often](/en/post/often/) metaphorically.
-   - [Example](/en/post/example/): She's [the](/en/post/the/) de facto [ruler](/en/post/ruler/) [of](/en/post/of/) [the](/en/post/the/) [company](/en/post/company/), making [important](/en/post/important/) decisions.
+### [Noun](/post/noun/)
+1. [A](/post/a/) [device](/post/device/) [with](/post/with/) [a](/post/a/) [blade](/post/blade/) [or](/post/or/) [flat](/post/flat/) [surface](/post/surface/) [used](/post/used/) [for](/post/for/) marking lines [or](/post/or/) [drawing](/post/drawing/) [straight](/post/straight/) lines, [often](/post/often/) attached [to](/post/to/) [a](/post/a/) [handle](/post/handle/).
+   - [Example](/post/example/): [The](/post/the/) [student](/post/student/) was using [a](/post/a/) [ruler](/post/ruler/) [to](/post/to/) [measure](/post/measure/) [the](/post/the/) [length](/post/length/) [of](/post/of/) [the](/post/the/) [paper](/post/paper/).
+2. [A](/post/a/) [person](/post/person/) [who](/post/who/) has [authority](/post/authority/) [over](/post/over/) others, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [political](/post/political/) context.
+   - [Example](/post/example/): [The](/post/the/) [king](/post/king/) was [the](/post/the/) [supreme](/post/supreme/) [ruler](/post/ruler/) [of](/post/of/) [the](/post/the/) [kingdom](/post/kingdom/).
+3. [A](/post/a/) [person](/post/person/) [who](/post/who/) uses [power](/post/power/) [or](/post/or/) [control](/post/control/) [over](/post/over/) others, [often](/post/often/) metaphorically.
+   - [Example](/post/example/): She's [the](/post/the/) de facto [ruler](/post/ruler/) [of](/post/of/) [the](/post/the/) [company](/post/company/), making [important](/post/important/) decisions.
 
-### [Verb](/en/post/verb/)
-- (Informal) [To](/en/post/to/) [govern](/en/post/govern/) [or](/en/post/or/) administer, [particularly](/en/post/particularly/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [area](/en/post/area/) [or](/en/post/or/) domain.
-   - [Example](/en/post/example/): [The](/en/post/the/) [new](/en/post/new/) [ruler](/en/post/ruler/) implemented [various](/en/post/various/) reforms [to](/en/post/to/) [improve](/en/post/improve/) [the](/en/post/the/) [economy](/en/post/economy/).
+### [Verb](/post/verb/)
+- (Informal) [To](/post/to/) [govern](/post/govern/) [or](/post/or/) administer, [particularly](/post/particularly/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [area](/post/area/) [or](/post/or/) domain.
+   - [Example](/post/example/): [The](/post/the/) [new](/post/new/) [ruler](/post/ruler/) implemented [various](/post/various/) reforms [to](/post/to/) [improve](/post/improve/) [the](/post/the/) [economy](/post/economy/).
 
 ## Phrases
-- "[Rule](/en/post/rule/) [over](/en/post/over/)" [means](/en/post/means/) [to](/en/post/to/) [exercise](/en/post/exercise/) [authority](/en/post/authority/) [or](/en/post/or/) [control](/en/post/control/).
-- "[Ruler](/en/post/ruler/) [and](/en/post/and/) [compass](/en/post/compass/)" is [a](/en/post/a/) [set](/en/post/set/) [used](/en/post/used/) [in](/en/post/in/) [geometry](/en/post/geometry/) [for](/en/post/for/) [drawing](/en/post/drawing/) [precise](/en/post/precise/) shapes.
-- "Dictatorial [ruler](/en/post/ruler/)" refers [to](/en/post/to/) [a](/en/post/a/) [leader](/en/post/leader/) [with](/en/post/with/) [absolute](/en/post/absolute/) [power](/en/post/power/).
+- "[Rule](/post/rule/) [over](/post/over/)" [means](/post/means/) [to](/post/to/) [exercise](/post/exercise/) [authority](/post/authority/) [or](/post/or/) [control](/post/control/).
+- "[Ruler](/post/ruler/) [and](/post/and/) [compass](/post/compass/)" is [a](/post/a/) [set](/post/set/) [used](/post/used/) [in](/post/in/) [geometry](/post/geometry/) [for](/post/for/) [drawing](/post/drawing/) [precise](/post/precise/) shapes.
+- "Dictatorial [ruler](/post/ruler/)" refers [to](/post/to/) [a](/post/a/) [leader](/post/leader/) [with](/post/with/) [absolute](/post/absolute/) [power](/post/power/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [carpenter](/en/post/carpenter/) carefully measured [the](/en/post/the/) [ruler](/en/post/ruler/) [to](/en/post/to/) [ensure](/en/post/ensure/) [the](/en/post/the/) [perfect](/en/post/perfect/) [fit](/en/post/fit/).
-- **[Verb](/en/post/verb/)**: [After](/en/post/after/) [the](/en/post/the/) [revolution](/en/post/revolution/), [a](/en/post/a/) [new](/en/post/new/) [socialist](/en/post/socialist/) [ruler](/en/post/ruler/) took [charge](/en/post/charge/) [of](/en/post/of/) [the](/en/post/the/) [country](/en/post/country/).
-- **Metaphorical [Usage](/en/post/usage/)**: [His](/en/post/his/) [leadership](/en/post/leadership/) [style](/en/post/style/) was [a](/en/post/a/) [blend](/en/post/blend/) [of](/en/post/of/) autocratic [ruler](/en/post/ruler/) [and](/en/post/and/) benevolent counselor.
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [carpenter](/post/carpenter/) carefully measured [the](/post/the/) [ruler](/post/ruler/) [to](/post/to/) [ensure](/post/ensure/) [the](/post/the/) [perfect](/post/perfect/) [fit](/post/fit/).
+- **[Verb](/post/verb/)**: [After](/post/after/) [the](/post/the/) [revolution](/post/revolution/), [a](/post/a/) [new](/post/new/) [socialist](/post/socialist/) [ruler](/post/ruler/) took [charge](/post/charge/) [of](/post/of/) [the](/post/the/) [country](/post/country/).
+- **Metaphorical [Usage](/post/usage/)**: [His](/post/his/) [leadership](/post/leadership/) [style](/post/style/) was [a](/post/a/) [blend](/post/blend/) [of](/post/of/) autocratic [ruler](/post/ruler/) [and](/post/and/) benevolent counselor.
 
 ## Synonyms
 - Monarch
 - Despot
 - Sovereign
-- [Governor](/en/post/governor/)
+- [Governor](/post/governor/)
 - Administrator
-- Dictator (informal, [negative](/en/post/negative/) connotation)
-- [Ruler](/en/post/ruler/) ([less](/en/post/less/) [formal](/en/post/formal/), [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [tool](/en/post/tool/))
+- Dictator (informal, [negative](/post/negative/) connotation)
+- [Ruler](/post/ruler/) ([less](/post/less/) [formal](/post/formal/), [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [tool](/post/tool/))

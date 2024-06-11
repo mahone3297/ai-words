@@ -7,33 +7,33 @@ description = '[iksˈtent] n.广度；范围；程度'
 keywords = ['ai words', 'extent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈstɛnt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [range](/en/post/range/) [or](/en/post/or/) [scope](/en/post/scope/) [of](/en/post/of/) [something](/en/post/something/), typically referring [to](/en/post/to/) [its](/en/post/its/) [size](/en/post/size/), [area](/en/post/area/), [or](/en/post/or/) [duration](/en/post/duration/); [how](/en/post/how/) [far](/en/post/far/) [it](/en/post/it/) extends [or](/en/post/or/) spreads. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [extent](/en/post/extent/) [of](/en/post/of/) [the](/en/post/the/) [damage](/en/post/damage/) was [not](/en/post/not/) [immediately](/en/post/immediately/) [clear](/en/post/clear/)."
-- **[Noun](/en/post/noun/) ([Law](/en/post/law/))**: [The](/en/post/the/) [full](/en/post/full/) [range](/en/post/range/) [or](/en/post/or/) [reach](/en/post/reach/) [of](/en/post/of/) [a](/en/post/a/) [legal](/en/post/legal/) [authority](/en/post/authority/), [right](/en/post/right/), [or](/en/post/or/) jurisdiction. [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) court's [decision](/en/post/decision/) had far-reaching [extent](/en/post/extent/) [on](/en/post/on/) [future](/en/post/future/) cases."
-- **[Verb](/en/post/verb/) ([Rarely](/en/post/rarely/) [used](/en/post/used/))**: [To](/en/post/to/) [extend](/en/post/extend/) [or](/en/post/or/) [stretch](/en/post/stretch/) [out](/en/post/out/) [over](/en/post/over/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/) [or](/en/post/or/) [period](/en/post/period/). [Example](/en/post/example/): "[The](/en/post/the/) [forest](/en/post/forest/) extents [for](/en/post/for/) miles [along](/en/post/along/) [the](/en/post/the/) riverbank."
+- **[Noun](/post/noun/)**: [The](/post/the/) [range](/post/range/) [or](/post/or/) [scope](/post/scope/) [of](/post/of/) [something](/post/something/), typically referring [to](/post/to/) [its](/post/its/) [size](/post/size/), [area](/post/area/), [or](/post/or/) [duration](/post/duration/); [how](/post/how/) [far](/post/far/) [it](/post/it/) extends [or](/post/or/) spreads. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [extent](/post/extent/) [of](/post/of/) [the](/post/the/) [damage](/post/damage/) was [not](/post/not/) [immediately](/post/immediately/) [clear](/post/clear/)."
+- **[Noun](/post/noun/) ([Law](/post/law/))**: [The](/post/the/) [full](/post/full/) [range](/post/range/) [or](/post/or/) [reach](/post/reach/) [of](/post/of/) [a](/post/a/) [legal](/post/legal/) [authority](/post/authority/), [right](/post/right/), [or](/post/or/) jurisdiction. [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) court's [decision](/post/decision/) had far-reaching [extent](/post/extent/) [on](/post/on/) [future](/post/future/) cases."
+- **[Verb](/post/verb/) ([Rarely](/post/rarely/) [used](/post/used/))**: [To](/post/to/) [extend](/post/extend/) [or](/post/or/) [stretch](/post/stretch/) [out](/post/out/) [over](/post/over/) [a](/post/a/) [particular](/post/particular/) [area](/post/area/) [or](/post/or/) [period](/post/period/). [Example](/post/example/): "[The](/post/the/) [forest](/post/forest/) extents [for](/post/for/) miles [along](/post/along/) [the](/post/the/) riverbank."
 
 ## Phrases
-- "[To](/en/post/to/) [some](/en/post/some/) [extent](/en/post/extent/)": Indicating [that](/en/post/that/) [something](/en/post/something/) is [true](/en/post/true/) [or](/en/post/or/) [valid](/en/post/valid/) [up](/en/post/up/) [to](/en/post/to/) [a](/en/post/a/) [certain](/en/post/certain/) [limit](/en/post/limit/) [or](/en/post/or/) [degree](/en/post/degree/). E.g., "I [agree](/en/post/agree/) [with](/en/post/with/) [your](/en/post/your/) [argument](/en/post/argument/) [to](/en/post/to/) [some](/en/post/some/) [extent](/en/post/extent/)."
-- "[Extent](/en/post/extent/) [of](/en/post/of/) one's [knowledge](/en/post/knowledge/)": Referring [to](/en/post/to/) [the](/en/post/the/) limits [of](/en/post/of/) [what](/en/post/what/) [one](/en/post/one/) knows [or](/en/post/or/) understands. [Example](/en/post/example/): "[The](/en/post/the/) [report](/en/post/report/) covered [the](/en/post/the/) [full](/en/post/full/) [extent](/en/post/extent/) [of](/en/post/of/) [her](/en/post/her/) [research](/en/post/research/) findings."
-- "[To](/en/post/to/) [the](/en/post/the/) greatest [extent](/en/post/extent/) [possible](/en/post/possible/)": [Meaning](/en/post/meaning/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [as](/en/post/as/) [much](/en/post/much/) [as](/en/post/as/) [one](/en/post/one/) [can](/en/post/can/). [Example](/en/post/example/): "[We](/en/post/we/) [must](/en/post/must/) conserve resources [to](/en/post/to/) [the](/en/post/the/) greatest [extent](/en/post/extent/) [possible](/en/post/possible/)."
+- "[To](/post/to/) [some](/post/some/) [extent](/post/extent/)": Indicating [that](/post/that/) [something](/post/something/) is [true](/post/true/) [or](/post/or/) [valid](/post/valid/) [up](/post/up/) [to](/post/to/) [a](/post/a/) [certain](/post/certain/) [limit](/post/limit/) [or](/post/or/) [degree](/post/degree/). E.g., "I [agree](/post/agree/) [with](/post/with/) [your](/post/your/) [argument](/post/argument/) [to](/post/to/) [some](/post/some/) [extent](/post/extent/)."
+- "[Extent](/post/extent/) [of](/post/of/) one's [knowledge](/post/knowledge/)": Referring [to](/post/to/) [the](/post/the/) limits [of](/post/of/) [what](/post/what/) [one](/post/one/) knows [or](/post/or/) understands. [Example](/post/example/): "[The](/post/the/) [report](/post/report/) covered [the](/post/the/) [full](/post/full/) [extent](/post/extent/) [of](/post/of/) [her](/post/her/) [research](/post/research/) findings."
+- "[To](/post/to/) [the](/post/the/) greatest [extent](/post/extent/) [possible](/post/possible/)": [Meaning](/post/meaning/) [to](/post/to/) [do](/post/do/) [something](/post/something/) [as](/post/as/) [much](/post/much/) [as](/post/as/) [one](/post/one/) [can](/post/can/). [Example](/post/example/): "[We](/post/we/) [must](/post/must/) conserve resources [to](/post/to/) [the](/post/the/) greatest [extent](/post/extent/) [possible](/post/possible/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [extent](/en/post/extent/) [of](/en/post/of/) [his](/en/post/his/) [influence](/en/post/influence/) [on](/en/post/on/) [modern](/en/post/modern/) [art](/en/post/art/) cannot [be](/en/post/be/) overstated."
-- **[Legal](/en/post/legal/) [Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [law](/en/post/law/) increased [the](/en/post/the/) government's regulatory [extent](/en/post/extent/) [over](/en/post/over/) online platforms."
-- **[Verb](/en/post/verb/) ([Rarely](/en/post/rarely/) [used](/en/post/used/))**: "[The](/en/post/the/) empire's borders extended [across](/en/post/across/) continents, reaching an [immense](/en/post/immense/) [extent](/en/post/extent/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [extent](/post/extent/) [of](/post/of/) [his](/post/his/) [influence](/post/influence/) [on](/post/on/) [modern](/post/modern/) [art](/post/art/) cannot [be](/post/be/) overstated."
+- **[Legal](/post/legal/) [Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [law](/post/law/) increased [the](/post/the/) government's regulatory [extent](/post/extent/) [over](/post/over/) online platforms."
+- **[Verb](/post/verb/) ([Rarely](/post/rarely/) [used](/post/used/))**: "[The](/post/the/) empire's borders extended [across](/post/across/) continents, reaching an [immense](/post/immense/) [extent](/post/extent/)."
 
 ## Synonyms
-- [Range](/en/post/range/)
-- [Scope](/en/post/scope/)
-- [Breadth](/en/post/breadth/)
-- [Dimension](/en/post/dimension/)
+- [Range](/post/range/)
+- [Scope](/post/scope/)
+- [Breadth](/post/breadth/)
+- [Dimension](/post/dimension/)
 - Magnitude
-- [Size](/en/post/size/)
-- [Length](/en/post/length/)
-- [Reach](/en/post/reach/)
-- [Scale](/en/post/scale/)
-- [Span](/en/post/span/)
+- [Size](/post/size/)
+- [Length](/post/length/)
+- [Reach](/post/reach/)
+- [Scale](/post/scale/)
+- [Span](/post/span/)
 - Coverage

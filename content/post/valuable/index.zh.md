@@ -11,20 +11,20 @@ keywords = ['ai words', 'valuable']
 /ˈvæljuəbl/
 
 ## 释义
-- **形容词**: 有价值的；宝贵的；贵重的。例如: "[This](/post/this/) antique [vase](/post/vase/) is [very](/post/very/) [valuable](/post/valuable/)."
-- **名词**: 价值；重要性。例如: "[The](/post/the/) [experience](/post/experience/) gained is invaluable, [but](/post/but/) it's [also](/post/also/) [important](/post/important/) [to](/post/to/) [measure](/post/measure/) [the](/post/the/) tangible [valuable](/post/valuable/)."
+- **形容词**: 有价值的；宝贵的；贵重的。例如: "[This](/zh/post/this/) antique [vase](/zh/post/vase/) is [very](/zh/post/very/) [valuable](/zh/post/valuable/)."
+- **名词**: 价值；重要性。例如: "[The](/zh/post/the/) [experience](/zh/post/experience/) gained is invaluable, [but](/zh/post/but/) it's [also](/zh/post/also/) [important](/zh/post/important/) [to](/zh/post/to/) [measure](/zh/post/measure/) [the](/zh/post/the/) tangible [valuable](/zh/post/valuable/)."
 
 ## 短语
-- "[Valuable](/post/valuable/) assets" 指有价值或重要的财产或资源。
-- "[Valuable](/post/valuable/) [feedback](/post/feedback/)" 指有建设性的批评或建议。
+- "[Valuable](/zh/post/valuable/) assets" 指有价值或重要的财产或资源。
+- "[Valuable](/zh/post/valuable/) [feedback](/zh/post/feedback/)" 指有建设性的批评或建议。
 
 ## 例句
-- 形容词: "[The](/post/the/) [painting](/post/painting/) is considered [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [valuable](/post/valuable/) [in](/post/in/) [the](/post/the/) museum's [collection](/post/collection/)."
-- 名词: "[His](/post/his/) contribution [to](/post/to/) [the](/post/the/) [project](/post/project/) was immeasurable, making [him](/post/him/) [a](/post/a/) [valuable](/post/valuable/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [team](/post/team/)."
+- 形容词: "[The](/zh/post/the/) [painting](/zh/post/painting/) is considered [one](/zh/post/one/) [of](/zh/post/of/) [the](/zh/post/the/) [most](/zh/post/most/) [valuable](/zh/post/valuable/) [in](/zh/post/in/) [the](/zh/post/the/) museum's [collection](/zh/post/collection/)."
+- 名词: "[His](/zh/post/his/) contribution [to](/zh/post/to/) [the](/zh/post/the/) [project](/zh/post/project/) was immeasurable, making [him](/zh/post/him/) [a](/zh/post/a/) [valuable](/zh/post/valuable/) [member](/zh/post/member/) [of](/zh/post/of/) [the](/zh/post/the/) [team](/zh/post/team/)."
 
 ## 同义词
-- [Precious](/post/precious/)
+- [Precious](/zh/post/precious/)
 - Priceless
 - Invaluable
-- [Important](/post/important/)
-- [Significant](/post/significant/)
+- [Important](/zh/post/important/)
+- [Significant](/zh/post/significant/)

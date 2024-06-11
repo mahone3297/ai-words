@@ -11,22 +11,22 @@ keywords = ['ai words', 'sail']
 /saɪl/
 
 ## 释义
-- **名词**: 1. 船帆；帆。例如: "[The](/post/the/) [wind](/post/wind/) filled [the](/post/the/) sails [of](/post/of/) [the](/post/the/) [ship](/post/ship/)."
-          2. （尤指航海）航行；航程。例如: "[They](/post/they/) had [a](/post/a/) [long](/post/long/) [and](/post/and/) [difficult](/post/difficult/) [sail](/post/sail/) [across](/post/across/) [the](/post/the/) [Atlantic](/post/atlantic/)."
+- **名词**: 1. 船帆；帆。例如: "[The](/zh/post/the/) [wind](/zh/post/wind/) filled [the](/zh/post/the/) sails [of](/zh/post/of/) [the](/zh/post/the/) [ship](/zh/post/ship/)."
+          2. （尤指航海）航行；航程。例如: "[They](/zh/post/they/) had [a](/zh/post/a/) [long](/zh/post/long/) [and](/zh/post/and/) [difficult](/zh/post/difficult/) [sail](/zh/post/sail/) [across](/zh/post/across/) [the](/zh/post/the/) [Atlantic](/zh/post/atlantic/)."
 
-- **动词**: 驾船航行。例如: "[We](/post/we/) sailed [along](/post/along/) [the](/post/the/) coastline [for](/post/for/) hours."
+- **动词**: 驾船航行。例如: "[We](/zh/post/we/) sailed [along](/zh/post/along/) [the](/zh/post/the/) coastline [for](/zh/post/for/) hours."
 
 ## 短语
-- "[Set](/post/set/) [sail](/post/sail/)" 意为启航，出发。例如: "The舰队set [sail](/post/sail/) [for](/post/for/) [new](/post/new/) lands."
-- "[Full](/post/full/) [sail](/post/sail/)" 表示全速前进或全力以赴。例如: "[The](/post/the/) [ship](/post/ship/) was [under](/post/under/) [full](/post/full/) [sail](/post/sail/) towards [the](/post/the/) [horizon](/post/horizon/)."
+- "[Set](/zh/post/set/) [sail](/zh/post/sail/)" 意为启航，出发。例如: "The舰队set [sail](/zh/post/sail/) [for](/zh/post/for/) [new](/zh/post/new/) lands."
+- "[Full](/zh/post/full/) [sail](/zh/post/sail/)" 表示全速前进或全力以赴。例如: "[The](/zh/post/the/) [ship](/zh/post/ship/) was [under](/zh/post/under/) [full](/zh/post/full/) [sail](/zh/post/sail/) towards [the](/zh/post/the/) [horizon](/zh/post/horizon/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [beautiful](/post/beautiful/) yacht had [three](/post/three/) [large](/post/large/) sails."
-- 动词: "[They](/post/they/) sailed [from](/post/from/) Europe [to](/post/to/) [America](/post/america/) [in](/post/in/) [a](/post/a/) [traditional](/post/traditional/) [wooden](/post/wooden/) [boat](/post/boat/)."
+- 名词: "[The](/zh/post/the/) [beautiful](/zh/post/beautiful/) yacht had [three](/zh/post/three/) [large](/zh/post/large/) sails."
+- 动词: "[They](/zh/post/they/) sailed [from](/zh/post/from/) Europe [to](/zh/post/to/) [America](/zh/post/america/) [in](/zh/post/in/) [a](/zh/post/a/) [traditional](/zh/post/traditional/) [wooden](/zh/post/wooden/) [boat](/zh/post/boat/)."
 
 ## 同义词
 - Navigate
 - Cruise
-- [Travel](/post/travel/) [by](/post/by/) [water](/post/water/)
-- [Steer](/post/steer/)
-- Manoeuvre ([ship](/post/ship/))
+- [Travel](/zh/post/travel/) [by](/zh/post/by/) [water](/zh/post/water/)
+- [Steer](/zh/post/steer/)
+- Manoeuvre ([ship](/zh/post/ship/))

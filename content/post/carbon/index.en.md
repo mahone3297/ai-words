@@ -7,41 +7,41 @@ description = '[ˈkɑːbən] n.碳'
 keywords = ['ai words', 'carbon']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈrɑːbən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Carbon](/en/post/carbon/)** ([symbol](/en/post/symbol/) C) - [A](/en/post/a/) [chemical](/en/post/chemical/) [element](/en/post/element/) [with](/en/post/with/) [the](/en/post/the/) [atomic](/en/post/atomic/) [number](/en/post/number/) 6, [essential](/en/post/essential/) [for](/en/post/for/) [life](/en/post/life/), forming [the](/en/post/the/) backbone [of](/en/post/of/) [organic](/en/post/organic/) molecules [such](/en/post/such/) [as](/en/post/as/) proteins [and](/en/post/and/) carbohydrates, [and](/en/post/and/) occurring [in](/en/post/in/) [various](/en/post/various/) compounds [like](/en/post/like/) graphite, [diamond](/en/post/diamond/), [and](/en/post/and/) [coal](/en/post/coal/).
-2. **[Carbon](/en/post/carbon/) dioxide** (CO2) - [A](/en/post/a/) colorless [gas](/en/post/gas/) composed [of](/en/post/of/) [one](/en/post/one/) [carbon](/en/post/carbon/) [atom](/en/post/atom/) bonded [to](/en/post/to/) [two](/en/post/two/) oxygen atoms, contributing [to](/en/post/to/) [climate](/en/post/climate/) [change](/en/post/change/) [and](/en/post/and/) [essential](/en/post/essential/) [for](/en/post/for/) [plant](/en/post/plant/) respiration.
+### [Noun](/post/noun/)
+1. **[Carbon](/post/carbon/)** ([symbol](/post/symbol/) C) - [A](/post/a/) [chemical](/post/chemical/) [element](/post/element/) [with](/post/with/) [the](/post/the/) [atomic](/post/atomic/) [number](/post/number/) 6, [essential](/post/essential/) [for](/post/for/) [life](/post/life/), forming [the](/post/the/) backbone [of](/post/of/) [organic](/post/organic/) molecules [such](/post/such/) [as](/post/as/) proteins [and](/post/and/) carbohydrates, [and](/post/and/) occurring [in](/post/in/) [various](/post/various/) compounds [like](/post/like/) graphite, [diamond](/post/diamond/), [and](/post/and/) [coal](/post/coal/).
+2. **[Carbon](/post/carbon/) dioxide** (CO2) - [A](/post/a/) colorless [gas](/post/gas/) composed [of](/post/of/) [one](/post/one/) [carbon](/post/carbon/) [atom](/post/atom/) bonded [to](/post/to/) [two](/post/two/) oxygen atoms, contributing [to](/post/to/) [climate](/post/climate/) [change](/post/change/) [and](/post/and/) [essential](/post/essential/) [for](/post/for/) [plant](/post/plant/) respiration.
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) **[emit](/en/post/emit/) [carbon](/en/post/carbon/)** - [To](/en/post/to/) [release](/en/post/release/) [carbon](/en/post/carbon/) dioxide [or](/en/post/or/) [other](/en/post/other/) carbon-based substances [into](/en/post/into/) [the](/en/post/the/) [atmosphere](/en/post/atmosphere/).
-2. [To](/en/post/to/) [be](/en/post/be/) **carbon-based** - [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [structure](/en/post/structure/) [or](/en/post/or/) [composition](/en/post/composition/) containing [carbon](/en/post/carbon/), [as](/en/post/as/) [in](/en/post/in/) [living](/en/post/living/) organisms.
+### [Verb](/post/verb/)
+1. [To](/post/to/) **[emit](/post/emit/) [carbon](/post/carbon/)** - [To](/post/to/) [release](/post/release/) [carbon](/post/carbon/) dioxide [or](/post/or/) [other](/post/other/) carbon-based substances [into](/post/into/) [the](/post/the/) [atmosphere](/post/atmosphere/).
+2. [To](/post/to/) [be](/post/be/) **carbon-based** - [To](/post/to/) [have](/post/have/) [a](/post/a/) [structure](/post/structure/) [or](/post/or/) [composition](/post/composition/) containing [carbon](/post/carbon/), [as](/post/as/) [in](/post/in/) [living](/post/living/) organisms.
 
-### [Adjective](/en/post/adjective/)
-1. **[Carbon](/en/post/carbon/) fiber** - [A](/en/post/a/) lightweight [and](/en/post/and/) [strong](/en/post/strong/) [material](/en/post/material/) made [from](/en/post/from/) [carbon](/en/post/carbon/) [and](/en/post/and/) polymer fibers.
-2. **[Carbon](/en/post/carbon/) footprint** - [The](/en/post/the/) [total](/en/post/total/) [amount](/en/post/amount/) [of](/en/post/of/) [greenhouse](/en/post/greenhouse/) gases emitted [as](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/) [of](/en/post/of/) an [individual](/en/post/individual/), [organization](/en/post/organization/), [or](/en/post/or/) product's activities.
+### [Adjective](/post/adjective/)
+1. **[Carbon](/post/carbon/) fiber** - [A](/post/a/) lightweight [and](/post/and/) [strong](/post/strong/) [material](/post/material/) made [from](/post/from/) [carbon](/post/carbon/) [and](/post/and/) polymer fibers.
+2. **[Carbon](/post/carbon/) footprint** - [The](/post/the/) [total](/post/total/) [amount](/post/amount/) [of](/post/of/) [greenhouse](/post/greenhouse/) gases emitted [as](/post/as/) [a](/post/a/) [result](/post/result/) [of](/post/of/) an [individual](/post/individual/), [organization](/post/organization/), [or](/post/or/) product's activities.
 
-### [Adverb](/en/post/adverb/)
-[Not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [in](/en/post/in/) English.
+### [Adverb](/post/adverb/)
+[Not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/) [in](/post/in/) English.
 
 ## Phrases
-- "[Carbon](/en/post/carbon/) footprint [reduction](/en/post/reduction/)" - Efforts [to](/en/post/to/) minimize [the](/en/post/the/) environmental [impact](/en/post/impact/) [of](/en/post/of/) [carbon](/en/post/carbon/) emissions.
-- "[Organic](/en/post/organic/) [carbon](/en/post/carbon/)" - [Carbon](/en/post/carbon/) [found](/en/post/found/) [in](/en/post/in/) [natural](/en/post/natural/), carbon-containing compounds.
-- "[Carbon](/en/post/carbon/) [capture](/en/post/capture/) [and](/en/post/and/) [storage](/en/post/storage/)" - [A](/en/post/a/) [technology](/en/post/technology/) [that](/en/post/that/) captures CO2 emissions [and](/en/post/and/) stores [them](/en/post/them/) [underground](/en/post/underground/).
+- "[Carbon](/post/carbon/) footprint [reduction](/post/reduction/)" - Efforts [to](/post/to/) minimize [the](/post/the/) environmental [impact](/post/impact/) [of](/post/of/) [carbon](/post/carbon/) emissions.
+- "[Organic](/post/organic/) [carbon](/post/carbon/)" - [Carbon](/post/carbon/) [found](/post/found/) [in](/post/in/) [natural](/post/natural/), carbon-containing compounds.
+- "[Carbon](/post/carbon/) [capture](/post/capture/) [and](/post/and/) [storage](/post/storage/)" - [A](/post/a/) [technology](/post/technology/) [that](/post/that/) captures CO2 emissions [and](/post/and/) stores [them](/post/them/) [underground](/post/underground/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [tree](/en/post/tree/) absorbed [carbon](/en/post/carbon/) dioxide [during](/en/post/during/) photosynthesis."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [power](/en/post/power/) [plant](/en/post/plant/) emits massive amounts [of](/en/post/of/) [carbon](/en/post/carbon/) dioxide [into](/en/post/into/) [the](/en/post/the/) [atmosphere](/en/post/atmosphere/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [car](/en/post/car/) has [a](/en/post/a/) lightweight [carbon](/en/post/carbon/) fiber [body](/en/post/body/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [tree](/post/tree/) absorbed [carbon](/post/carbon/) dioxide [during](/post/during/) photosynthesis."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [power](/post/power/) [plant](/post/plant/) emits massive amounts [of](/post/of/) [carbon](/post/carbon/) dioxide [into](/post/into/) [the](/post/the/) [atmosphere](/post/atmosphere/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [car](/post/car/) has [a](/post/a/) lightweight [carbon](/post/carbon/) fiber [body](/post/body/)."
 
 ## Synonyms
 - Carbonaceous
 - Carbyne
 - Graphitic
 - Diamond-like
-- Fossil [fuel](/en/post/fuel/)
+- Fossil [fuel](/post/fuel/)
 
-## [Note](/en/post/note/)
-[While](/en/post/while/) "[carbon](/en/post/carbon/)" [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [verb](/en/post/verb/), [and](/en/post/and/) [adjective](/en/post/adjective/), it's [primarily](/en/post/primarily/) known [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [in](/en/post/in/) [these](/en/post/these/) contexts. [As](/en/post/as/) an [adverb](/en/post/adverb/), it's [not](/en/post/not/) [a](/en/post/a/) [common](/en/post/common/) [usage](/en/post/usage/) [in](/en/post/in/) English.
+## [Note](/post/note/)
+[While](/post/while/) "[carbon](/post/carbon/)" [can](/post/can/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [verb](/post/verb/), [and](/post/and/) [adjective](/post/adjective/), it's [primarily](/post/primarily/) known [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [in](/post/in/) [these](/post/these/) contexts. [As](/post/as/) an [adverb](/post/adverb/), it's [not](/post/not/) [a](/post/a/) [common](/post/common/) [usage](/post/usage/) [in](/post/in/) English.

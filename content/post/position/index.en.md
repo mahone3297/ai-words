@@ -7,42 +7,42 @@ description = '[pəˈzi∫ən] n.位置；职位；姿势'
 keywords = ['ai words', 'position']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈziʃn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [position](/en/post/position/)** - [The](/en/post/the/) [place](/en/post/place/) [or](/en/post/or/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) [something](/en/post/something/) [in](/en/post/in/) [relation](/en/post/relation/) [to](/en/post/to/) others, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) context [or](/en/post/or/) hierarchy. [Example](/en/post/example/): "[The](/en/post/the/) [chair](/en/post/chair/) occupied [a](/en/post/a/) [central](/en/post/central/) [position](/en/post/position/) [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/) [table](/en/post/table/)."
-2. **[Job](/en/post/job/) [or](/en/post/or/) [role](/en/post/role/)** - [A](/en/post/a/) [particular](/en/post/particular/) [assignment](/en/post/assignment/) [or](/en/post/or/) [function](/en/post/function/) [within](/en/post/within/) an [organization](/en/post/organization/). [Example](/en/post/example/): "[He](/en/post/he/) was promoted [to](/en/post/to/) [a](/en/post/a/) [senior](/en/post/senior/) [management](/en/post/management/) [position](/en/post/position/)."
-3. **[Physical](/en/post/physical/) [location](/en/post/location/)** - [Where](/en/post/where/) [something](/en/post/something/) is situated [in](/en/post/in/) [space](/en/post/space/). [Example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) is located [on](/en/post/on/) [a](/en/post/a/) hilltop [with](/en/post/with/) [a](/en/post/a/) stunning [view](/en/post/view/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [position](/post/position/)** - [The](/post/the/) [place](/post/place/) [or](/post/or/) [arrangement](/post/arrangement/) [of](/post/of/) [something](/post/something/) [in](/post/in/) [relation](/post/relation/) [to](/post/to/) others, [often](/post/often/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) context [or](/post/or/) hierarchy. [Example](/post/example/): "[The](/post/the/) [chair](/post/chair/) occupied [a](/post/a/) [central](/post/central/) [position](/post/position/) [at](/post/at/) [the](/post/the/) [conference](/post/conference/) [table](/post/table/)."
+2. **[Job](/post/job/) [or](/post/or/) [role](/post/role/)** - [A](/post/a/) [particular](/post/particular/) [assignment](/post/assignment/) [or](/post/or/) [function](/post/function/) [within](/post/within/) an [organization](/post/organization/). [Example](/post/example/): "[He](/post/he/) was promoted [to](/post/to/) [a](/post/a/) [senior](/post/senior/) [management](/post/management/) [position](/post/position/)."
+3. **[Physical](/post/physical/) [location](/post/location/)** - [Where](/post/where/) [something](/post/something/) is situated [in](/post/in/) [space](/post/space/). [Example](/post/example/): "[The](/post/the/) [house](/post/house/) is located [on](/post/on/) [a](/post/a/) hilltop [with](/post/with/) [a](/post/a/) stunning [view](/post/view/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [occupy](/en/post/occupy/) [a](/en/post/a/) [position](/en/post/position/)** - [To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [or](/en/post/or/) [have](/en/post/have/) [a](/en/post/a/) specified [job](/en/post/job/). [Example](/en/post/example/): "[She](/en/post/she/) occupies [a](/en/post/a/) [key](/en/post/key/) [position](/en/post/position/) [in](/en/post/in/) [the](/en/post/the/) company's decision-making [process](/en/post/process/)."
-2. **[To](/en/post/to/) [assume](/en/post/assume/) [a](/en/post/a/) [position](/en/post/position/)** - [To](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [particular](/en/post/particular/) stance [or](/en/post/or/) posture. [Example](/en/post/example/): "Players [assume](/en/post/assume/) [their](/en/post/their/) starting positions [before](/en/post/before/) [a](/en/post/a/) [game](/en/post/game/) begins."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [occupy](/post/occupy/) [a](/post/a/) [position](/post/position/)** - [To](/post/to/) [be](/post/be/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/) [or](/post/or/) [have](/post/have/) [a](/post/a/) specified [job](/post/job/). [Example](/post/example/): "[She](/post/she/) occupies [a](/post/a/) [key](/post/key/) [position](/post/position/) [in](/post/in/) [the](/post/the/) company's decision-making [process](/post/process/)."
+2. **[To](/post/to/) [assume](/post/assume/) [a](/post/a/) [position](/post/position/)** - [To](/post/to/) [take](/post/take/) [a](/post/a/) [particular](/post/particular/) stance [or](/post/or/) posture. [Example](/post/example/): "Players [assume](/post/assume/) [their](/post/their/) starting positions [before](/post/before/) [a](/post/a/) [game](/post/game/) begins."
 
-### [Adjective](/en/post/adjective/)
-1. **[Relative](/en/post/relative/) [position](/en/post/position/)** - [The](/en/post/the/) placement [in](/en/post/in/) [comparison](/en/post/comparison/) [to](/en/post/to/) [other](/en/post/other/) things. [Example](/en/post/example/): "[The](/en/post/the/) [planet](/en/post/planet/) [Earth](/en/post/earth/) has [a](/en/post/a/) [stable](/en/post/stable/) [position](/en/post/position/) [in](/en/post/in/) [the](/en/post/the/) [solar](/en/post/solar/) [system](/en/post/system/)."
-2. **Fixed [or](/en/post/or/) established** - Having [a](/en/post/a/) [permanent](/en/post/permanent/) [or](/en/post/or/) determined [location](/en/post/location/). [Example](/en/post/example/): "[The](/en/post/the/) company's [headquarters](/en/post/headquarters/) is [in](/en/post/in/) [a](/en/post/a/) [prominent](/en/post/prominent/) [position](/en/post/position/) [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/)."
+### [Adjective](/post/adjective/)
+1. **[Relative](/post/relative/) [position](/post/position/)** - [The](/post/the/) placement [in](/post/in/) [comparison](/post/comparison/) [to](/post/to/) [other](/post/other/) things. [Example](/post/example/): "[The](/post/the/) [planet](/post/planet/) [Earth](/post/earth/) has [a](/post/a/) [stable](/post/stable/) [position](/post/position/) [in](/post/in/) [the](/post/the/) [solar](/post/solar/) [system](/post/system/)."
+2. **Fixed [or](/post/or/) established** - Having [a](/post/a/) [permanent](/post/permanent/) [or](/post/or/) determined [location](/post/location/). [Example](/post/example/): "[The](/post/the/) company's [headquarters](/post/headquarters/) is [in](/post/in/) [a](/post/a/) [prominent](/post/prominent/) [position](/post/position/) [in](/post/in/) [the](/post/the/) [city](/post/city/)."
 
 ## Phrases
-- "[Hold](/en/post/hold/) [a](/en/post/a/) [position](/en/post/position/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [specific](/en/post/specific/) [spot](/en/post/spot/) [or](/en/post/or/) [role](/en/post/role/).
-- "[Change](/en/post/change/) positions" refers [to](/en/post/to/) swapping roles [or](/en/post/or/) places.
-- "Advantageous [position](/en/post/position/)" indicates [a](/en/post/a/) [beneficial](/en/post/beneficial/) standing [or](/en/post/or/) [location](/en/post/location/).
-- "[Out](/en/post/out/) [of](/en/post/of/) [position](/en/post/position/)" suggests [being](/en/post/being/) [in](/en/post/in/) [the](/en/post/the/) [wrong](/en/post/wrong/) [place](/en/post/place/) [or](/en/post/or/) [not](/en/post/not/) acting appropriately.
+- "[Hold](/post/hold/) [a](/post/a/) [position](/post/position/)" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [specific](/post/specific/) [spot](/post/spot/) [or](/post/or/) [role](/post/role/).
+- "[Change](/post/change/) positions" refers [to](/post/to/) swapping roles [or](/post/or/) places.
+- "Advantageous [position](/post/position/)" indicates [a](/post/a/) [beneficial](/post/beneficial/) standing [or](/post/or/) [location](/post/location/).
+- "[Out](/post/out/) [of](/post/of/) [position](/post/position/)" suggests [being](/post/being/) [in](/post/in/) [the](/post/the/) [wrong](/post/wrong/) [place](/post/place/) [or](/post/or/) [not](/post/not/) acting appropriately.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) team's [star](/en/post/star/) [player](/en/post/player/) took [up](/en/post/up/) [a](/en/post/a/) strategic [position](/en/post/position/) [on](/en/post/on/) [the](/en/post/the/) [field](/en/post/field/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) graduating, [he](/en/post/he/) secured [a](/en/post/a/) [position](/en/post/position/) [at](/en/post/at/) [a](/en/post/a/) prestigious [law](/en/post/law/) [firm](/en/post/firm/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) sits [in](/en/post/in/) [a](/en/post/a/) commanding [position](/en/post/position/) overlooking [the](/en/post/the/) [lake](/en/post/lake/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) team's [star](/post/star/) [player](/post/player/) took [up](/post/up/) [a](/post/a/) strategic [position](/post/position/) [on](/post/on/) [the](/post/the/) [field](/post/field/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) graduating, [he](/post/he/) secured [a](/post/a/) [position](/post/position/) [at](/post/at/) [a](/post/a/) prestigious [law](/post/law/) [firm](/post/firm/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) sits [in](/post/in/) [a](/post/a/) commanding [position](/post/position/) overlooking [the](/post/the/) [lake](/post/lake/)."
 
 ## Synonyms
-- [Spot](/en/post/spot/)
-- [Place](/en/post/place/)
-- [Post](/en/post/post/)
-- [Role](/en/post/role/)
+- [Spot](/post/spot/)
+- [Place](/post/place/)
+- [Post](/post/post/)
+- [Role](/post/role/)
 - Slot
 - Standing
 - Placement
-- [Location](/en/post/location/)
+- [Location](/post/location/)
 - Spotting
-- [Seat](/en/post/seat/)
+- [Seat](/post/seat/)

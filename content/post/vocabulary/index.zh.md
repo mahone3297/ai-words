@@ -11,20 +11,20 @@ keywords = ['ai words', 'vocabulary']
 /ˈvɒkəbələri/
 
 ## 释义
-- **名词**: 词汇，词汇量，全部的词汇或知识。例如: "[She](/post/she/) has an [extensive](/post/extensive/) [vocabulary](/post/vocabulary/) [in](/post/in/) French." 
-- **名词**: 词汇表，词汇书，特别是教学或学习中的词汇资源。例如: "[The](/post/the/) students were given [a](/post/a/) [new](/post/new/) [vocabulary](/post/vocabulary/) [list](/post/list/) [for](/post/for/) [the](/post/the/) [week](/post/week/)."
+- **名词**: 词汇，词汇量，全部的词汇或知识。例如: "[She](/zh/post/she/) has an [extensive](/zh/post/extensive/) [vocabulary](/zh/post/vocabulary/) [in](/zh/post/in/) French." 
+- **名词**: 词汇表，词汇书，特别是教学或学习中的词汇资源。例如: "[The](/zh/post/the/) students were given [a](/zh/post/a/) [new](/zh/post/new/) [vocabulary](/zh/post/vocabulary/) [list](/zh/post/list/) [for](/zh/post/for/) [the](/zh/post/the/) [week](/zh/post/week/)."
 
 ## 短语
-- "扩大词汇" [means](/post/means/) [to](/post/to/) [increase](/post/increase/) one's [vocabulary](/post/vocabulary/).
-- "词汇学习" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) [learning](/post/learning/) [new](/post/new/) words.
+- "扩大词汇" [means](/zh/post/means/) [to](/zh/post/to/) [increase](/zh/post/increase/) one's [vocabulary](/zh/post/vocabulary/).
+- "词汇学习" refers [to](/zh/post/to/) [the](/zh/post/the/) [process](/zh/post/process/) [of](/zh/post/of/) [learning](/zh/post/learning/) [new](/zh/post/new/) words.
 
 ## 例句
-- "[His](/post/his/) [large](/post/large/) [vocabulary](/post/vocabulary/) impressed [the](/post/the/) interviewer [during](/post/during/) [the](/post/the/) [job](/post/job/) [interview](/post/interview/)."
-- "[The](/post/the/) children are [learning](/post/learning/) [new](/post/new/) [vocabulary](/post/vocabulary/) [through](/post/through/) [reading](/post/reading/) stories."
+- "[His](/zh/post/his/) [large](/zh/post/large/) [vocabulary](/zh/post/vocabulary/) impressed [the](/zh/post/the/) interviewer [during](/zh/post/during/) [the](/zh/post/the/) [job](/zh/post/job/) [interview](/zh/post/interview/)."
+- "[The](/zh/post/the/) children are [learning](/zh/post/learning/) [new](/zh/post/new/) [vocabulary](/zh/post/vocabulary/) [through](/zh/post/through/) [reading](/zh/post/reading/) stories."
 
 ## 同义词
 - Lexicon
-- [Word](/post/word/) [stock](/post/stock/)
-- [Vocabulary](/post/vocabulary/) [list](/post/list/)
+- [Word](/zh/post/word/) [stock](/zh/post/stock/)
+- [Vocabulary](/zh/post/vocabulary/) [list](/zh/post/list/)
 - Terminology
 - Glossary

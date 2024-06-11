@@ -7,28 +7,28 @@ description = '[ˈherəuin] n.女主角；女英雄'
 keywords = ['ai words', 'heroine']
 +++
 
-## [Word](/en/post/word/): [Heroine](/en/post/heroine/)
+## [Word](/post/word/): [Heroine](/post/heroine/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈherəʊɪn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [woman](/en/post/woman/) admired [for](/en/post/for/) [her](/en/post/her/) [courage](/en/post/courage/), [outstanding](/en/post/outstanding/) achievements, [or](/en/post/or/) [noble](/en/post/noble/) qualities. [For](/en/post/for/) [example](/en/post/example/): "Malala Yousafzai is [a](/en/post/a/) modern-day [heroine](/en/post/heroine/) [for](/en/post/for/) [her](/en/post/her/) advocacy [for](/en/post/for/) women's [education](/en/post/education/)."
-- **[Noun](/en/post/noun/) ([literary](/en/post/literary/))**: [The](/en/post/the/) [main](/en/post/main/) [female](/en/post/female/) [character](/en/post/character/) [in](/en/post/in/) [a](/en/post/a/) [story](/en/post/story/), [play](/en/post/play/), [or](/en/post/or/) [film](/en/post/film/) [who](/en/post/who/) [often](/en/post/often/) displays admirable traits [and](/en/post/and/) experiences [significant](/en/post/significant/) [development](/en/post/development/) [throughout](/en/post/throughout/) [the](/en/post/the/) narrative. [For](/en/post/for/) [instance](/en/post/instance/): "[In](/en/post/in/) [the](/en/post/the/) [novel](/en/post/novel/) '[Pride](/en/post/pride/) [and](/en/post/and/) [Prejudice](/en/post/prejudice/)', Elizabeth Bennet is [the](/en/post/the/) [heroine](/en/post/heroine/) [whose](/en/post/whose/) [wit](/en/post/wit/) [and](/en/post/and/) [independence](/en/post/independence/) captivate readers."
+- **[Noun](/post/noun/)**: [A](/post/a/) [woman](/post/woman/) admired [for](/post/for/) [her](/post/her/) [courage](/post/courage/), [outstanding](/post/outstanding/) achievements, [or](/post/or/) [noble](/post/noble/) qualities. [For](/post/for/) [example](/post/example/): "Malala Yousafzai is [a](/post/a/) modern-day [heroine](/post/heroine/) [for](/post/for/) [her](/post/her/) advocacy [for](/post/for/) women's [education](/post/education/)."
+- **[Noun](/post/noun/) ([literary](/post/literary/))**: [The](/post/the/) [main](/post/main/) [female](/post/female/) [character](/post/character/) [in](/post/in/) [a](/post/a/) [story](/post/story/), [play](/post/play/), [or](/post/or/) [film](/post/film/) [who](/post/who/) [often](/post/often/) displays admirable traits [and](/post/and/) experiences [significant](/post/significant/) [development](/post/development/) [throughout](/post/throughout/) [the](/post/the/) narrative. [For](/post/for/) [instance](/post/instance/): "[In](/post/in/) [the](/post/the/) [novel](/post/novel/) '[Pride](/post/pride/) [and](/post/and/) [Prejudice](/post/prejudice/)', Elizabeth Bennet is [the](/post/the/) [heroine](/post/heroine/) [whose](/post/whose/) [wit](/post/wit/) [and](/post/and/) [independence](/post/independence/) captivate readers."
 
 ## Phrases
-- "[The](/en/post/the/) heroin [of](/en/post/of/) [the](/en/post/the/) [story](/en/post/story/)" - Referring [to](/en/post/to/) [the](/en/post/the/) [primary](/en/post/primary/) [female](/en/post/female/) [character](/en/post/character/) [in](/en/post/in/) [a](/en/post/a/) narrative.
-- "[A](/en/post/a/) [heroine](/en/post/heroine/) [of](/en/post/of/) [the](/en/post/the/) [resistance](/en/post/resistance/)" - Describing [a](/en/post/a/) [woman](/en/post/woman/) [who](/en/post/who/) played [a](/en/post/a/) [significant](/en/post/significant/) [role](/en/post/role/) [in](/en/post/in/) [a](/en/post/a/) [movement](/en/post/movement/) [against](/en/post/against/) oppression [or](/en/post/or/) injustice.
+- "[The](/post/the/) heroin [of](/post/of/) [the](/post/the/) [story](/post/story/)" - Referring [to](/post/to/) [the](/post/the/) [primary](/post/primary/) [female](/post/female/) [character](/post/character/) [in](/post/in/) [a](/post/a/) narrative.
+- "[A](/post/a/) [heroine](/post/heroine/) [of](/post/of/) [the](/post/the/) [resistance](/post/resistance/)" - Describing [a](/post/a/) [woman](/post/woman/) [who](/post/who/) played [a](/post/a/) [significant](/post/significant/) [role](/post/role/) [in](/post/in/) [a](/post/a/) [movement](/post/movement/) [against](/post/against/) oppression [or](/post/or/) injustice.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (real-life heroines)**: "Rosa Parks became an enduring [heroine](/en/post/heroine/) [of](/en/post/of/) [the](/en/post/the/) [Civil](/en/post/civil/) Rights [Movement](/en/post/movement/) [in](/en/post/in/) [the](/en/post/the/) United States [for](/en/post/for/) refusing [to](/en/post/to/) [give](/en/post/give/) [up](/en/post/up/) [her](/en/post/her/) [bus](/en/post/bus/) [seat](/en/post/seat/)."
-- **[Noun](/en/post/noun/) (fictional heroines)**: "[In](/en/post/in/) [the](/en/post/the/) Harry Potter [series](/en/post/series/), Hermione Granger is [a](/en/post/a/) [beloved](/en/post/beloved/) [heroine](/en/post/heroine/) known [for](/en/post/for/) [her](/en/post/her/) [intelligence](/en/post/intelligence/) [and](/en/post/and/) bravery."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (real-life heroines)**: "Rosa Parks became an enduring [heroine](/post/heroine/) [of](/post/of/) [the](/post/the/) [Civil](/post/civil/) Rights [Movement](/post/movement/) [in](/post/in/) [the](/post/the/) United States [for](/post/for/) refusing [to](/post/to/) [give](/post/give/) [up](/post/up/) [her](/post/her/) [bus](/post/bus/) [seat](/post/seat/)."
+- **[Noun](/post/noun/) (fictional heroines)**: "[In](/post/in/) [the](/post/the/) Harry Potter [series](/post/series/), Hermione Granger is [a](/post/a/) [beloved](/post/beloved/) [heroine](/post/heroine/) known [for](/post/for/) [her](/post/her/) [intelligence](/post/intelligence/) [and](/post/and/) bravery."
 
 ## Synonyms
-- [Female](/en/post/female/) [hero](/en/post/hero/)
-- [Leading](/en/post/leading/) [lady](/en/post/lady/)
-- [Principal](/en/post/principal/) [character](/en/post/character/) ([female](/en/post/female/))
-- [Lady](/en/post/lady/) protagonist
-- [Female](/en/post/female/) [champion](/en/post/champion/)
+- [Female](/post/female/) [hero](/post/hero/)
+- [Leading](/post/leading/) [lady](/post/lady/)
+- [Principal](/post/principal/) [character](/post/character/) ([female](/post/female/))
+- [Lady](/post/lady/) protagonist
+- [Female](/post/female/) [champion](/post/champion/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [word](/en/post/word/) "[heroine](/en/post/heroine/)" [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [drug](/en/post/drug/) derived [from](/en/post/from/) opium, [but](/en/post/but/) [this](/en/post/this/) [usage](/en/post/usage/) is [not](/en/post/not/) covered [in](/en/post/in/) [the](/en/post/the/) [provided](/en/post/provided/) format [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [distinct](/en/post/distinct/) [meaning](/en/post/meaning/) [and](/en/post/and/) connotations.
+[Note](/post/note/): [The](/post/the/) [word](/post/word/) "[heroine](/post/heroine/)" [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [drug](/post/drug/) derived [from](/post/from/) opium, [but](/post/but/) [this](/post/this/) [usage](/post/usage/) is [not](/post/not/) covered [in](/post/in/) [the](/post/the/) [provided](/post/provided/) format [due](/post/due/) [to](/post/to/) [its](/post/its/) [distinct](/post/distinct/) [meaning](/post/meaning/) [and](/post/and/) connotations.

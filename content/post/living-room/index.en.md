@@ -7,30 +7,30 @@ description = 'n.起居室'
 keywords = ['ai words', 'living-room']
 +++
 
-## [Word](/en/post/word/): [Living-room](/en/post/living-room/)
+## [Word](/post/word/): [Living-room](/post/living-room/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɪvɪŋ ruːm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [room](/en/post/room/) [in](/en/post/in/) [a](/en/post/a/) [house](/en/post/house/) [or](/en/post/or/) [apartment](/en/post/apartment/) [used](/en/post/used/) [primarily](/en/post/primarily/) [for](/en/post/for/) relaxing, socializing, [and](/en/post/and/) entertaining guests. [It](/en/post/it/) typically contains [comfortable](/en/post/comfortable/) seating, [furniture](/en/post/furniture/) [such](/en/post/such/) [as](/en/post/as/) sofas [and](/en/post/and/) chairs, [and](/en/post/and/) [may](/en/post/may/) [also](/en/post/also/) [include](/en/post/include/) entertainment systems [and](/en/post/and/) decorations [that](/en/post/that/) [reflect](/en/post/reflect/) [the](/en/post/the/) homeowner's [taste](/en/post/taste/).
+- **[Noun](/post/noun/)**: [A](/post/a/) [room](/post/room/) [in](/post/in/) [a](/post/a/) [house](/post/house/) [or](/post/or/) [apartment](/post/apartment/) [used](/post/used/) [primarily](/post/primarily/) [for](/post/for/) relaxing, socializing, [and](/post/and/) entertaining guests. [It](/post/it/) typically contains [comfortable](/post/comfortable/) seating, [furniture](/post/furniture/) [such](/post/such/) [as](/post/as/) sofas [and](/post/and/) chairs, [and](/post/and/) [may](/post/may/) [also](/post/also/) [include](/post/include/) entertainment systems [and](/post/and/) decorations [that](/post/that/) [reflect](/post/reflect/) [the](/post/the/) homeowner's [taste](/post/taste/).
 
-### [Example](/en/post/example/) Sentences
-- [The](/en/post/the/) [family](/en/post/family/) gathered [around](/en/post/around/) [the](/en/post/the/) fireplace [in](/en/post/in/) [the](/en/post/the/) cozy [living-room](/en/post/living-room/) [on](/en/post/on/) Christmas [Eve](/en/post/eve/).
-- [We](/en/post/we/) decided [to](/en/post/to/) rearrange [the](/en/post/the/) [furniture](/en/post/furniture/) [in](/en/post/in/) [our](/en/post/our/) [living-room](/en/post/living-room/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [more](/en/post/more/) [open](/en/post/open/) [space](/en/post/space/) [for](/en/post/for/) hosting parties.
-- [The](/en/post/the/) [large](/en/post/large/) windows [in](/en/post/in/) [the](/en/post/the/) [living-room](/en/post/living-room/) [let](/en/post/let/) [in](/en/post/in/) [plenty](/en/post/plenty/) [of](/en/post/of/) [natural](/en/post/natural/) [light](/en/post/light/), making [it](/en/post/it/) [the](/en/post/the/) [perfect](/en/post/perfect/) [spot](/en/post/spot/) [to](/en/post/to/) [read](/en/post/read/) [a](/en/post/a/) [book](/en/post/book/).
+### [Example](/post/example/) Sentences
+- [The](/post/the/) [family](/post/family/) gathered [around](/post/around/) [the](/post/the/) fireplace [in](/post/in/) [the](/post/the/) cozy [living-room](/post/living-room/) [on](/post/on/) Christmas [Eve](/post/eve/).
+- [We](/post/we/) decided [to](/post/to/) rearrange [the](/post/the/) [furniture](/post/furniture/) [in](/post/in/) [our](/post/our/) [living-room](/post/living-room/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [more](/post/more/) [open](/post/open/) [space](/post/space/) [for](/post/for/) hosting parties.
+- [The](/post/the/) [large](/post/large/) windows [in](/post/in/) [the](/post/the/) [living-room](/post/living-room/) [let](/post/let/) [in](/post/in/) [plenty](/post/plenty/) [of](/post/of/) [natural](/post/natural/) [light](/post/light/), making [it](/post/it/) [the](/post/the/) [perfect](/post/perfect/) [spot](/post/spot/) [to](/post/to/) [read](/post/read/) [a](/post/a/) [book](/post/book/).
 
 ## Phrases
-- "[The](/en/post/the/) [heart](/en/post/heart/) [of](/en/post/of/) [the](/en/post/the/) [home](/en/post/home/)" [often](/en/post/often/) refers [to](/en/post/to/) [the](/en/post/the/) [living-room](/en/post/living-room/) [as](/en/post/as/) [it](/en/post/it/) is [where](/en/post/where/) [family](/en/post/family/) members [spend](/en/post/spend/) [much](/en/post/much/) [of](/en/post/of/) [their](/en/post/their/) [time](/en/post/time/) [together](/en/post/together/).
-- "[Family](/en/post/family/) [room](/en/post/room/)" [or](/en/post/or/) "sitting [room](/en/post/room/)" are [alternative](/en/post/alternative/) terms [for](/en/post/for/) [a](/en/post/a/) [living-room](/en/post/living-room/), [especially](/en/post/especially/) [when](/en/post/when/) emphasizing [its](/en/post/its/) [function](/en/post/function/) [within](/en/post/within/) [the](/en/post/the/) [household](/en/post/household/).
+- "[The](/post/the/) [heart](/post/heart/) [of](/post/of/) [the](/post/the/) [home](/post/home/)" [often](/post/often/) refers [to](/post/to/) [the](/post/the/) [living-room](/post/living-room/) [as](/post/as/) [it](/post/it/) is [where](/post/where/) [family](/post/family/) members [spend](/post/spend/) [much](/post/much/) [of](/post/of/) [their](/post/their/) [time](/post/time/) [together](/post/together/).
+- "[Family](/post/family/) [room](/post/room/)" [or](/post/or/) "sitting [room](/post/room/)" are [alternative](/post/alternative/) terms [for](/post/for/) [a](/post/a/) [living-room](/post/living-room/), [especially](/post/especially/) [when](/post/when/) emphasizing [its](/post/its/) [function](/post/function/) [within](/post/within/) [the](/post/the/) [household](/post/household/).
 
 ## Synonyms
 - Lounge
-- Sitting [room](/en/post/room/)
-- [Family](/en/post/family/) [room](/en/post/room/)
+- Sitting [room](/post/room/)
+- [Family](/post/family/) [room](/post/room/)
 - Den
-- [Drawing](/en/post/drawing/) [room](/en/post/room/)
-- [Front](/en/post/front/) [room](/en/post/room/)
-- Parlour ([in](/en/post/in/) British English)
+- [Drawing](/post/drawing/) [room](/post/room/)
+- [Front](/post/front/) [room](/post/room/)
+- Parlour ([in](/post/in/) British English)
 
-[Note](/en/post/note/): "[Living-room](/en/post/living-room/)" doesn't [have](/en/post/have/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) [aside](/en/post/aside/) [from](/en/post/from/) [being](/en/post/being/) [a](/en/post/a/) [noun](/en/post/noun/), [hence](/en/post/hence/) [no](/en/post/no/) examples [for](/en/post/for/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), etc., are [provided](/en/post/provided/).
+[Note](/post/note/): "[Living-room](/post/living-room/)" doesn't [have](/post/have/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) [aside](/post/aside/) [from](/post/from/) [being](/post/being/) [a](/post/a/) [noun](/post/noun/), [hence](/post/hence/) [no](/post/no/) examples [for](/post/for/) [verb](/post/verb/), [adjective](/post/adjective/), [adverb](/post/adverb/), etc., are [provided](/post/provided/).

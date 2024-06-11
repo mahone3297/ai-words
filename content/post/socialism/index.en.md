@@ -7,36 +7,36 @@ description = '[ˈsəu∫əlizəm] n.社会主义'
 keywords = ['ai words', 'socialism']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səʊʃəˈlɪzəm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Socialism](/en/post/socialism/)** is [a](/en/post/a/) [political](/en/post/political/) [and](/en/post/and/) [economic](/en/post/economic/) [system](/en/post/system/) characterized [by](/en/post/by/) [collective](/en/post/collective/) [ownership](/en/post/ownership/) [of](/en/post/of/) [means](/en/post/means/) [of](/en/post/of/) [production](/en/post/production/), [distribution](/en/post/distribution/), [and](/en/post/and/) [exchange](/en/post/exchange/), [with](/en/post/with/) [the](/en/post/the/) [goal](/en/post/goal/) [of](/en/post/of/) achieving [social](/en/post/social/) [equality](/en/post/equality/) [and](/en/post/and/) [often](/en/post/often/) communal [control](/en/post/control/) [over](/en/post/over/) resources. [It](/en/post/it/) contrasts [with](/en/post/with/) capitalism, [where](/en/post/where/) [private](/en/post/private/) [property](/en/post/property/) [and](/en/post/and/) [profit](/en/post/profit/) [play](/en/post/play/) [a](/en/post/a/) [central](/en/post/central/) [role](/en/post/role/).
+### [Noun](/post/noun/)
+**[Socialism](/post/socialism/)** is [a](/post/a/) [political](/post/political/) [and](/post/and/) [economic](/post/economic/) [system](/post/system/) characterized [by](/post/by/) [collective](/post/collective/) [ownership](/post/ownership/) [of](/post/of/) [means](/post/means/) [of](/post/of/) [production](/post/production/), [distribution](/post/distribution/), [and](/post/and/) [exchange](/post/exchange/), [with](/post/with/) [the](/post/the/) [goal](/post/goal/) [of](/post/of/) achieving [social](/post/social/) [equality](/post/equality/) [and](/post/and/) [often](/post/often/) communal [control](/post/control/) [over](/post/over/) resources. [It](/post/it/) contrasts [with](/post/with/) capitalism, [where](/post/where/) [private](/post/private/) [property](/post/property/) [and](/post/and/) [profit](/post/profit/) [play](/post/play/) [a](/post/a/) [central](/post/central/) [role](/post/role/).
 
-### [Verb](/en/post/verb/) (Transitive)
-[To](/en/post/to/) **implement [socialism](/en/post/socialism/)** [means](/en/post/means/) [to](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [introduce](/en/post/introduce/) [socialist](/en/post/socialist/) policies [and](/en/post/and/) principles [in](/en/post/in/) [a](/en/post/a/) [society](/en/post/society/) [or](/en/post/or/) [organization](/en/post/organization/).
-[To](/en/post/to/) **advocate [socialism](/en/post/socialism/)** is [to](/en/post/to/) [support](/en/post/support/) [or](/en/post/or/) [promote](/en/post/promote/) [the](/en/post/the/) ideas [and](/en/post/and/) principles [of](/en/post/of/) [socialism](/en/post/socialism/).
+### [Verb](/post/verb/) (Transitive)
+[To](/post/to/) **implement [socialism](/post/socialism/)** [means](/post/means/) [to](/post/to/) [establish](/post/establish/) [or](/post/or/) [introduce](/post/introduce/) [socialist](/post/socialist/) policies [and](/post/and/) principles [in](/post/in/) [a](/post/a/) [society](/post/society/) [or](/post/or/) [organization](/post/organization/).
+[To](/post/to/) **advocate [socialism](/post/socialism/)** is [to](/post/to/) [support](/post/support/) [or](/post/or/) [promote](/post/promote/) [the](/post/the/) ideas [and](/post/and/) principles [of](/post/of/) [socialism](/post/socialism/).
 
-### [Adjective](/en/post/adjective/)
-**[Socialist](/en/post/socialist/)** describes [something](/en/post/something/) related [to](/en/post/to/) [or](/en/post/or/) based [on](/en/post/on/) [socialism](/en/post/socialism/), emphasizing [collective](/en/post/collective/) [ownership](/en/post/ownership/) [and](/en/post/and/) equitable [distribution](/en/post/distribution/).
+### [Adjective](/post/adjective/)
+**[Socialist](/post/socialist/)** describes [something](/post/something/) related [to](/post/to/) [or](/post/or/) based [on](/post/on/) [socialism](/post/socialism/), emphasizing [collective](/post/collective/) [ownership](/post/ownership/) [and](/post/and/) equitable [distribution](/post/distribution/).
 
-### [Adjective](/en/post/adjective/) (Characterization)
-**[Communist](/en/post/communist/)** (synonym) refers [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [form](/en/post/form/) [of](/en/post/of/) [socialism](/en/post/socialism/) [where](/en/post/where/) [the](/en/post/the/) [state](/en/post/state/) owns [everything](/en/post/everything/) [and](/en/post/and/) controls [the](/en/post/the/) [economy](/en/post/economy/).
+### [Adjective](/post/adjective/) (Characterization)
+**[Communist](/post/communist/)** (synonym) refers [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [form](/post/form/) [of](/post/of/) [socialism](/post/socialism/) [where](/post/where/) [the](/post/the/) [state](/post/state/) owns [everything](/post/everything/) [and](/post/and/) controls [the](/post/the/) [economy](/post/economy/).
 
 ## Phrases
-- "Advocate [for](/en/post/for/) [socialist](/en/post/socialist/) reforms"
-- "[Living](/en/post/living/) [in](/en/post/in/) [a](/en/post/a/) [socialist](/en/post/socialist/) [country](/en/post/country/)"
-- "[A](/en/post/a/) [socialist](/en/post/socialist/) utopia"
+- "Advocate [for](/post/for/) [socialist](/post/socialist/) reforms"
+- "[Living](/post/living/) [in](/post/in/) [a](/post/a/) [socialist](/post/socialist/) [country](/post/country/)"
+- "[A](/post/a/) [socialist](/post/socialist/) utopia"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [government](/en/post/government/) is committed [to](/en/post/to/) implementing [socialist](/en/post/socialist/) policies [to](/en/post/to/) [reduce](/en/post/reduce/) [income](/en/post/income/) inequality."
-- **[Verb](/en/post/verb/)**: "[Many](/en/post/many/) activists [have](/en/post/have/) been advocating [for](/en/post/for/) [a](/en/post/a/) [more](/en/post/more/) [socialist](/en/post/socialist/) [approach](/en/post/approach/) [to](/en/post/to/) healthcare."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [socialist](/en/post/socialist/) housing [project](/en/post/project/) aimed [to](/en/post/to/) [provide](/en/post/provide/) affordable homes [for](/en/post/for/) [all](/en/post/all/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [government](/post/government/) is committed [to](/post/to/) implementing [socialist](/post/socialist/) policies [to](/post/to/) [reduce](/post/reduce/) [income](/post/income/) inequality."
+- **[Verb](/post/verb/)**: "[Many](/post/many/) activists [have](/post/have/) been advocating [for](/post/for/) [a](/post/a/) [more](/post/more/) [socialist](/post/socialist/) [approach](/post/approach/) [to](/post/to/) healthcare."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [socialist](/post/socialist/) housing [project](/post/project/) aimed [to](/post/to/) [provide](/post/provide/) affordable homes [for](/post/for/) [all](/post/all/)."
 
 ## Synonyms
 - Collectivism
-- [Communism](/en/post/communism/) ([partial](/en/post/partial/) synonym, referring specifically [to](/en/post/to/) [the](/en/post/the/) Marxist variant)
-- [State](/en/post/state/) [socialism](/en/post/socialism/)
-- [Social](/en/post/social/) [democracy](/en/post/democracy/) ([less](/en/post/less/) radical [alternative](/en/post/alternative/))
+- [Communism](/post/communism/) ([partial](/post/partial/) synonym, referring specifically [to](/post/to/) [the](/post/the/) Marxist variant)
+- [State](/post/state/) [socialism](/post/socialism/)
+- [Social](/post/social/) [democracy](/post/democracy/) ([less](/post/less/) radical [alternative](/post/alternative/))
 - Labor-based economics

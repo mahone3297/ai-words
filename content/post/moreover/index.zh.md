@@ -11,17 +11,17 @@ keywords = ['ai words', 'moreover']
 /mərˈoʊvər/
 
 ## 释义
-- **连词**: 表示添加进一步的信息或论点，通常用于引出一个递进的观点。例如: "[She](/post/she/) is [not](/post/not/) [only](/post/only/) [intelligent](/post/intelligent/), [but](/post/but/) [moreover](/post/moreover/), [she](/post/she/) is [very](/post/very/) hardworking."
+- **连词**: 表示添加进一步的信息或论点，通常用于引出一个递进的观点。例如: "[She](/zh/post/she/) is [not](/zh/post/not/) [only](/zh/post/only/) [intelligent](/zh/post/intelligent/), [but](/zh/post/but/) [moreover](/zh/post/moreover/), [she](/zh/post/she/) is [very](/zh/post/very/) hardworking."
 
 ## 短语
-- "[Moreover](/post/moreover/),..." 用于引出额外的、支持性的信息。
+- "[Moreover](/zh/post/moreover/),..." 用于引出额外的、支持性的信息。
 
 ## 例句
-- "[He](/post/he/) has [experience](/post/experience/) [in](/post/in/) [the](/post/the/) [field](/post/field/), [and](/post/and/) [moreover](/post/moreover/), [he](/post/he/) possesses [excellent](/post/excellent/) [communication](/post/communication/) skills."
+- "[He](/zh/post/he/) has [experience](/zh/post/experience/) [in](/zh/post/in/) [the](/zh/post/the/) [field](/zh/post/field/), [and](/zh/post/and/) [moreover](/zh/post/moreover/), [he](/zh/post/he/) possesses [excellent](/zh/post/excellent/) [communication](/zh/post/communication/) skills."
 
 ## 同义词
-- [Furthermore](/post/furthermore/)
+- [Furthermore](/zh/post/furthermore/)
 - Additionally
-- [Besides](/post/besides/)
-- [In](/post/in/) [addition](/post/addition/)
-- [Also](/post/also/)
+- [Besides](/zh/post/besides/)
+- [In](/zh/post/in/) [addition](/zh/post/addition/)
+- [Also](/zh/post/also/)

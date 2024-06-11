@@ -7,45 +7,45 @@ description = '[prəˈses] n.过程；工序 vt.加工'
 keywords = ['ai words', 'process']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[process](/en/post/process/)/
+## [Pronunciation](/post/pronunciation/)
+/[process](/post/process/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [process](/en/post/process/) refers [to](/en/post/to/):
-1. An ongoing [series](/en/post/series/) [of](/en/post/of/) actions [or](/en/post/or/) steps involved [in](/en/post/in/) completing [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) achieving [a](/en/post/a/) [goal](/en/post/goal/). ([noun](/en/post/noun/)) [Example](/en/post/example/): "[The](/en/post/the/) manufacturing [process](/en/post/process/) involves [several](/en/post/several/) stages."
-2. [A](/en/post/a/) [natural](/en/post/natural/) [sequence](/en/post/sequence/) [of](/en/post/of/) events [that](/en/post/that/) leads [to](/en/post/to/) [a](/en/post/a/) [result](/en/post/result/) [or](/en/post/or/) [transformation](/en/post/transformation/). ([noun](/en/post/noun/)) [Example](/en/post/example/): "[The](/en/post/the/) [growth](/en/post/growth/) [process](/en/post/process/) [of](/en/post/of/) [a](/en/post/a/) [plant](/en/post/plant/) [from](/en/post/from/) [seed](/en/post/seed/) [to](/en/post/to/) maturity."
-3. [A](/en/post/a/) [mental](/en/post/mental/) [activity](/en/post/activity/) [or](/en/post/or/) [thought](/en/post/thought/) [pattern](/en/post/pattern/). ([noun](/en/post/noun/)) [Example](/en/post/example/): "[His](/en/post/his/) [creative](/en/post/creative/) [process](/en/post/process/) [for](/en/post/for/) solving problems."
+### [Noun](/post/noun/)
+[A](/post/a/) [process](/post/process/) refers [to](/post/to/):
+1. An ongoing [series](/post/series/) [of](/post/of/) actions [or](/post/or/) steps involved [in](/post/in/) completing [a](/post/a/) [task](/post/task/) [or](/post/or/) achieving [a](/post/a/) [goal](/post/goal/). ([noun](/post/noun/)) [Example](/post/example/): "[The](/post/the/) manufacturing [process](/post/process/) involves [several](/post/several/) stages."
+2. [A](/post/a/) [natural](/post/natural/) [sequence](/post/sequence/) [of](/post/of/) events [that](/post/that/) leads [to](/post/to/) [a](/post/a/) [result](/post/result/) [or](/post/or/) [transformation](/post/transformation/). ([noun](/post/noun/)) [Example](/post/example/): "[The](/post/the/) [growth](/post/growth/) [process](/post/process/) [of](/post/of/) [a](/post/a/) [plant](/post/plant/) [from](/post/from/) [seed](/post/seed/) [to](/post/to/) maturity."
+3. [A](/post/a/) [mental](/post/mental/) [activity](/post/activity/) [or](/post/or/) [thought](/post/thought/) [pattern](/post/pattern/). ([noun](/post/noun/)) [Example](/post/example/): "[His](/post/his/) [creative](/post/creative/) [process](/post/process/) [for](/post/for/) solving problems."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [process](/en/post/process/) [means](/en/post/means/):
-1. [To](/en/post/to/) [handle](/en/post/handle/), [treat](/en/post/treat/), [or](/en/post/or/) manipulate [data](/en/post/data/), materials, [or](/en/post/or/) [information](/en/post/information/). ([verb](/en/post/verb/)) [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) processes thousands [of](/en/post/of/) orders [daily](/en/post/daily/)."
-2. [To](/en/post/to/) [undergo](/en/post/undergo/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) steps [to](/en/post/to/) [change](/en/post/change/) [or](/en/post/or/) [develop](/en/post/develop/). ([verb](/en/post/verb/)) [Example](/en/post/example/): "[The](/en/post/the/) [paper](/en/post/paper/) goes [through](/en/post/through/) [a](/en/post/a/) printing [process](/en/post/process/)."
-3. [To](/en/post/to/) analyze [or](/en/post/or/) [make](/en/post/make/) [sense](/en/post/sense/) [of](/en/post/of/) [something](/en/post/something/). ([verb](/en/post/verb/)) [Example](/en/post/example/): "She's [still](/en/post/still/) processing [the](/en/post/the/) [information](/en/post/information/) [from](/en/post/from/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+### [Verb](/post/verb/)
+[To](/post/to/) [process](/post/process/) [means](/post/means/):
+1. [To](/post/to/) [handle](/post/handle/), [treat](/post/treat/), [or](/post/or/) manipulate [data](/post/data/), materials, [or](/post/or/) [information](/post/information/). ([verb](/post/verb/)) [Example](/post/example/): "[The](/post/the/) [company](/post/company/) processes thousands [of](/post/of/) orders [daily](/post/daily/)."
+2. [To](/post/to/) [undergo](/post/undergo/) [a](/post/a/) [series](/post/series/) [of](/post/of/) steps [to](/post/to/) [change](/post/change/) [or](/post/or/) [develop](/post/develop/). ([verb](/post/verb/)) [Example](/post/example/): "[The](/post/the/) [paper](/post/paper/) goes [through](/post/through/) [a](/post/a/) printing [process](/post/process/)."
+3. [To](/post/to/) analyze [or](/post/or/) [make](/post/make/) [sense](/post/sense/) [of](/post/of/) [something](/post/something/). ([verb](/post/verb/)) [Example](/post/example/): "She's [still](/post/still/) processing [the](/post/the/) [information](/post/information/) [from](/post/from/) [the](/post/the/) [meeting](/post/meeting/)."
 
-### [Adjective](/en/post/adjective/)
-1. [Concerning](/en/post/concerning/) [or](/en/post/or/) involving [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) steps [or](/en/post/or/) actions. ([adjective](/en/post/adjective/)) [Example](/en/post/example/): "[A](/en/post/a/) well-organized [process](/en/post/process/)"
-2. Involving [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) machinery [or](/en/post/or/) [technology](/en/post/technology/). ([adjective](/en/post/adjective/)) [Example](/en/post/example/): "An automated processing [system](/en/post/system/)"
+### [Adjective](/post/adjective/)
+1. [Concerning](/post/concerning/) [or](/post/or/) involving [a](/post/a/) [series](/post/series/) [of](/post/of/) steps [or](/post/or/) actions. ([adjective](/post/adjective/)) [Example](/post/example/): "[A](/post/a/) well-organized [process](/post/process/)"
+2. Involving [the](/post/the/) [use](/post/use/) [of](/post/of/) machinery [or](/post/or/) [technology](/post/technology/). ([adjective](/post/adjective/)) [Example](/post/example/): "An automated processing [system](/post/system/)"
 
-### [Adverb](/en/post/adverb/)
-Describing [how](/en/post/how/) [something](/en/post/something/) is processed, typically efficiently. ([adverb](/en/post/adverb/)) [Example](/en/post/example/): "Efficiently processing [large](/en/post/large/) amounts [of](/en/post/of/) [data](/en/post/data/)."
+### [Adverb](/post/adverb/)
+Describing [how](/post/how/) [something](/post/something/) is processed, typically efficiently. ([adverb](/post/adverb/)) [Example](/post/example/): "Efficiently processing [large](/post/large/) amounts [of](/post/of/) [data](/post/data/)."
 
 ## Phrases
-- "[Process](/en/post/process/) [the](/en/post/the/) [information](/en/post/information/)" [means](/en/post/means/) [to](/en/post/to/) analyze [or](/en/post/or/) [understand](/en/post/understand/) [it](/en/post/it/).
-- "[Undergo](/en/post/undergo/) [a](/en/post/a/) [process](/en/post/process/)" implies going [through](/en/post/through/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) steps [or](/en/post/or/) stages.
-- "[Process](/en/post/process/) [improvement](/en/post/improvement/)" refers [to](/en/post/to/) making changes [to](/en/post/to/) enhance [efficiency](/en/post/efficiency/).
+- "[Process](/post/process/) [the](/post/the/) [information](/post/information/)" [means](/post/means/) [to](/post/to/) analyze [or](/post/or/) [understand](/post/understand/) [it](/post/it/).
+- "[Undergo](/post/undergo/) [a](/post/a/) [process](/post/process/)" implies going [through](/post/through/) [a](/post/a/) [series](/post/series/) [of](/post/of/) steps [or](/post/or/) stages.
+- "[Process](/post/process/) [improvement](/post/improvement/)" refers [to](/post/to/) making changes [to](/post/to/) enhance [efficiency](/post/efficiency/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) recycling [process](/en/post/process/) converts [waste](/en/post/waste/) materials [into](/en/post/into/) [new](/en/post/new/) products."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [application](/en/post/application/) [process](/en/post/process/) [for](/en/post/for/) [college](/en/post/college/) [can](/en/post/can/) [be](/en/post/be/) [quite](/en/post/quite/) lengthy."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [factory](/en/post/factory/) has implemented [a](/en/post/a/) streamlined processing [system](/en/post/system/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) [quickly](/en/post/quickly/) processed [the](/en/post/the/) [payment](/en/post/payment/) [request](/en/post/request/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) recycling [process](/post/process/) converts [waste](/post/waste/) materials [into](/post/into/) [new](/post/new/) products."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [application](/post/application/) [process](/post/process/) [for](/post/for/) [college](/post/college/) [can](/post/can/) [be](/post/be/) [quite](/post/quite/) lengthy."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [factory](/post/factory/) has implemented [a](/post/a/) streamlined processing [system](/post/system/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) [quickly](/post/quickly/) processed [the](/post/the/) [payment](/post/payment/) [request](/post/request/)."
 
 ## Synonyms
-- [Procedure](/en/post/procedure/)
-- [Operation](/en/post/operation/)
-- [Treatment](/en/post/treatment/)
-- [Management](/en/post/management/)
+- [Procedure](/post/procedure/)
+- [Operation](/post/operation/)
+- [Treatment](/post/treatment/)
+- [Management](/post/management/)
 - Handling
 - Execution
 - Workflow

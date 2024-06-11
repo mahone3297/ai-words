@@ -7,33 +7,33 @@ description = '[prəˈpɔː∫ən] n.比，比率，部分'
 keywords = ['ai words', 'proportion']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈpɔːrʃən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[proportion](/en/post/proportion/)** is [a](/en/post/a/) [relationship](/en/post/relationship/) [between](/en/post/between/) [two](/en/post/two/) quantities [or](/en/post/or/) magnitudes [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) expressed [as](/en/post/as/) [a](/en/post/a/) [ratio](/en/post/ratio/) [or](/en/post/or/) [a](/en/post/a/) [fraction](/en/post/fraction/). [It](/en/post/it/) describes [how](/en/post/how/) [much](/en/post/much/) [one](/en/post/one/) [thing](/en/post/thing/) is [relative](/en/post/relative/) [to](/en/post/to/) [another](/en/post/another/), [often](/en/post/often/) [in](/en/post/in/) terms [of](/en/post/of/) [size](/en/post/size/), [quantity](/en/post/quantity/), [or](/en/post/or/) part-to-whole [relationship](/en/post/relationship/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[proportion](/post/proportion/)** is [a](/post/a/) [relationship](/post/relationship/) [between](/post/between/) [two](/post/two/) quantities [or](/post/or/) magnitudes [that](/post/that/) [can](/post/can/) [be](/post/be/) expressed [as](/post/as/) [a](/post/a/) [ratio](/post/ratio/) [or](/post/or/) [a](/post/a/) [fraction](/post/fraction/). [It](/post/it/) describes [how](/post/how/) [much](/post/much/) [one](/post/one/) [thing](/post/thing/) is [relative](/post/relative/) [to](/post/to/) [another](/post/another/), [often](/post/often/) [in](/post/in/) terms [of](/post/of/) [size](/post/size/), [quantity](/post/quantity/), [or](/post/or/) part-to-whole [relationship](/post/relationship/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[proportion](/en/post/proportion/)** [something](/en/post/something/) [means](/en/post/means/) [to](/en/post/to/) [determine](/en/post/determine/) [its](/en/post/its/) [size](/en/post/size/), [shape](/en/post/shape/), [or](/en/post/or/) [arrangement](/en/post/arrangement/) according [to](/en/post/to/) [a](/en/post/a/) given [ratio](/en/post/ratio/) [or](/en/post/or/) [standard](/en/post/standard/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[proportion](/post/proportion/)** [something](/post/something/) [means](/post/means/) [to](/post/to/) [determine](/post/determine/) [its](/post/its/) [size](/post/size/), [shape](/post/shape/), [or](/post/or/) [arrangement](/post/arrangement/) according [to](/post/to/) [a](/post/a/) given [ratio](/post/ratio/) [or](/post/or/) [standard](/post/standard/).
 
 ## Phrases
-- "[In](/en/post/in/) [proper](/en/post/proper/) [proportion](/en/post/proportion/)" indicates [a](/en/post/a/) balanced [or](/en/post/or/) harmonious [relationship](/en/post/relationship/).
-- "[Out](/en/post/out/) [of](/en/post/of/) [proportion](/en/post/proportion/)" suggests an imbalance [or](/en/post/or/) disproportion.
-- "Proportionate [response](/en/post/response/)" refers [to](/en/post/to/) an [adequate](/en/post/adequate/) [or](/en/post/or/) [suitable](/en/post/suitable/) [reaction](/en/post/reaction/) based [on](/en/post/on/) [the](/en/post/the/) [situation](/en/post/situation/).
+- "[In](/post/in/) [proper](/post/proper/) [proportion](/post/proportion/)" indicates [a](/post/a/) balanced [or](/post/or/) harmonious [relationship](/post/relationship/).
+- "[Out](/post/out/) [of](/post/of/) [proportion](/post/proportion/)" suggests an imbalance [or](/post/or/) disproportion.
+- "Proportionate [response](/post/response/)" refers [to](/post/to/) an [adequate](/post/adequate/) [or](/post/or/) [suitable](/post/suitable/) [reaction](/post/reaction/) based [on](/post/on/) [the](/post/the/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [house](/en/post/house/) was designed [with](/en/post/with/) [large](/en/post/large/) windows [in](/en/post/in/) [proportion](/en/post/proportion/) [to](/en/post/to/) [its](/en/post/its/) [size](/en/post/size/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) proportioned [her](/en/post/her/) [time](/en/post/time/) [between](/en/post/between/) [work](/en/post/work/) [and](/en/post/and/) [leisure](/en/post/leisure/) activities."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [anger](/en/post/anger/) was [not](/en/post/not/) [in](/en/post/in/) [proportion](/en/post/proportion/) [to](/en/post/to/) [the](/en/post/the/) [issue](/en/post/issue/) [at](/en/post/at/) [hand](/en/post/hand/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [house](/post/house/) was designed [with](/post/with/) [large](/post/large/) windows [in](/post/in/) [proportion](/post/proportion/) [to](/post/to/) [its](/post/its/) [size](/post/size/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) proportioned [her](/post/her/) [time](/post/time/) [between](/post/between/) [work](/post/work/) [and](/post/and/) [leisure](/post/leisure/) activities."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [anger](/post/anger/) was [not](/post/not/) [in](/post/in/) [proportion](/post/proportion/) [to](/post/to/) [the](/post/the/) [issue](/post/issue/) [at](/post/at/) [hand](/post/hand/)."
 
 ## Synonyms
-- [Ratio](/en/post/ratio/)
-- [Relative](/en/post/relative/) [size](/en/post/size/)
-- [Balance](/en/post/balance/)
-- [Proportional](/en/post/proportional/)
-- [Comparative](/en/post/comparative/) [measure](/en/post/measure/)
-- [Distribution](/en/post/distribution/)
+- [Ratio](/post/ratio/)
+- [Relative](/post/relative/) [size](/post/size/)
+- [Balance](/post/balance/)
+- [Proportional](/post/proportional/)
+- [Comparative](/post/comparative/) [measure](/post/measure/)
+- [Distribution](/post/distribution/)
 
 ## Antonyms
 - Disproportion

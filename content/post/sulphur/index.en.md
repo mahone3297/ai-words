@@ -7,22 +7,22 @@ description = '[ˈsʌlfə] n.硫(磺)，硫黄'
 keywords = ['ai words', 'sulphur']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈlfər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [chemical](/en/post/chemical/) [element](/en/post/element/) [with](/en/post/with/) [the](/en/post/the/) [symbol](/en/post/symbol/) S [and](/en/post/and/) [atomic](/en/post/atomic/) [number](/en/post/number/) 16, known [for](/en/post/for/) [its](/en/post/its/) yellowish-gray [color](/en/post/color/) [and](/en/post/and/) [characteristic](/en/post/characteristic/) [smell](/en/post/smell/). [It](/en/post/it/) is [a](/en/post/a/) nonmetallic [solid](/en/post/solid/) [that](/en/post/that/) occurs [naturally](/en/post/naturally/) [in](/en/post/in/) volcanic regions [and](/en/post/and/) is [used](/en/post/used/) [in](/en/post/in/) [various](/en/post/various/) [industrial](/en/post/industrial/) processes [and](/en/post/and/) compounds, [such](/en/post/such/) [as](/en/post/as/) matches, [gunpowder](/en/post/gunpowder/), [and](/en/post/and/) fertilizers.
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) containing sulfur; sulfurous. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) volcanic fumes emitted [a](/en/post/a/) pungent [sulphur](/en/post/sulphur/) [smell](/en/post/smell/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [chemical](/post/chemical/) [element](/post/element/) [with](/post/with/) [the](/post/the/) [symbol](/post/symbol/) S [and](/post/and/) [atomic](/post/atomic/) [number](/post/number/) 16, known [for](/post/for/) [its](/post/its/) yellowish-gray [color](/post/color/) [and](/post/and/) [characteristic](/post/characteristic/) [smell](/post/smell/). [It](/post/it/) is [a](/post/a/) nonmetallic [solid](/post/solid/) [that](/post/that/) occurs [naturally](/post/naturally/) [in](/post/in/) volcanic regions [and](/post/and/) is [used](/post/used/) [in](/post/in/) [various](/post/various/) [industrial](/post/industrial/) processes [and](/post/and/) compounds, [such](/post/such/) [as](/post/as/) matches, [gunpowder](/post/gunpowder/), [and](/post/and/) fertilizers.
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) containing sulfur; sulfurous. [For](/post/for/) [example](/post/example/): "[The](/post/the/) volcanic fumes emitted [a](/post/a/) pungent [sulphur](/post/sulphur/) [smell](/post/smell/)."
 
 ## Phrases
-- "Sulphuric [acid](/en/post/acid/)" is [the](/en/post/the/) [scientific](/en/post/scientific/) [name](/en/post/name/) [for](/en/post/for/) [a](/en/post/a/) [strong](/en/post/strong/) [mineral](/en/post/mineral/) [acid](/en/post/acid/) derived [from](/en/post/from/) sulfur.
-- "Sulfur dioxide" (SO2) is [a](/en/post/a/) [gas](/en/post/gas/) emitted [during](/en/post/during/) volcanic eruptions [and](/en/post/and/) [industrial](/en/post/industrial/) processes.
-- "Sulfuric fertilizers" are [used](/en/post/used/) [to](/en/post/to/) enhance [soil](/en/post/soil/) fertility.
+- "Sulphuric [acid](/post/acid/)" is [the](/post/the/) [scientific](/post/scientific/) [name](/post/name/) [for](/post/for/) [a](/post/a/) [strong](/post/strong/) [mineral](/post/mineral/) [acid](/post/acid/) derived [from](/post/from/) sulfur.
+- "Sulfur dioxide" (SO2) is [a](/post/a/) [gas](/post/gas/) emitted [during](/post/during/) volcanic eruptions [and](/post/and/) [industrial](/post/industrial/) processes.
+- "Sulfuric fertilizers" are [used](/post/used/) [to](/post/to/) enhance [soil](/post/soil/) fertility.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [mine](/en/post/mine/) yielded [vast](/en/post/vast/) reserves [of](/en/post/of/) sulfur, [which](/en/post/which/) were [then](/en/post/then/) processed [for](/en/post/for/) [use](/en/post/use/) [in](/en/post/in/) [various](/en/post/various/) industries."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [cave](/en/post/cave/) walls were stained [with](/en/post/with/) [a](/en/post/a/) [faint](/en/post/faint/) [sulphur](/en/post/sulphur/) hue."
-- "[The](/en/post/the/) sulfur springs [near](/en/post/near/) [the](/en/post/the/) [town](/en/post/town/) [provided](/en/post/provided/) [a](/en/post/a/) [source](/en/post/source/) [of](/en/post/of/) thermal [energy](/en/post/energy/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [mine](/post/mine/) yielded [vast](/post/vast/) reserves [of](/post/of/) sulfur, [which](/post/which/) were [then](/post/then/) processed [for](/post/for/) [use](/post/use/) [in](/post/in/) [various](/post/various/) industries."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [cave](/post/cave/) walls were stained [with](/post/with/) [a](/post/a/) [faint](/post/faint/) [sulphur](/post/sulphur/) hue."
+- "[The](/post/the/) sulfur springs [near](/post/near/) [the](/post/the/) [town](/post/town/) [provided](/post/provided/) [a](/post/a/) [source](/post/source/) [of](/post/of/) thermal [energy](/post/energy/)."
 
 ## Synonyms
 - Sulfuric
@@ -31,4 +31,4 @@ keywords = ['ai words', 'sulphur']
 - Volcanic
 - Elemental sulfur
 
-## [Note](/en/post/note/): [Although](/en/post/although/) "[sulphur](/en/post/sulphur/)" is an older [spelling](/en/post/spelling/), [the](/en/post/the/) [modern](/en/post/modern/) [form](/en/post/form/) is "sulfur." [The](/en/post/the/) British [spelling](/en/post/spelling/) is [still](/en/post/still/) [occasionally](/en/post/occasionally/) [used](/en/post/used/) [in](/en/post/in/) [scientific](/en/post/scientific/) contexts.
+## [Note](/post/note/): [Although](/post/although/) "[sulphur](/post/sulphur/)" is an older [spelling](/post/spelling/), [the](/post/the/) [modern](/post/modern/) [form](/post/form/) is "sulfur." [The](/post/the/) British [spelling](/post/spelling/) is [still](/post/still/) [occasionally](/post/occasionally/) [used](/post/used/) [in](/post/in/) [scientific](/post/scientific/) contexts.

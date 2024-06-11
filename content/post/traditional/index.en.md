@@ -7,40 +7,40 @@ description = '[trəˈdi∫ən(ə)l] a.传统的，惯例的'
 keywords = ['ai words', 'traditional']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /trəˈdɪʃənl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Adjective](/en/post/adjective/)**: Belonging [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [culture](/en/post/culture/), [period](/en/post/period/), [or](/en/post/or/) [society](/en/post/society/); customary [or](/en/post/or/) [usual](/en/post/usual/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [or](/en/post/or/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [traditional](/en/post/traditional/) [clothing](/en/post/clothing/) [of](/en/post/of/) [the](/en/post/the/) [region](/en/post/region/) is colorful [and](/en/post/and/) intricate."
-2. **[Noun](/en/post/noun/)**: [A](/en/post/a/) [custom](/en/post/custom/), [practice](/en/post/practice/), [or](/en/post/or/) [belief](/en/post/belief/) [that](/en/post/that/) has been passed [down](/en/post/down/) [through](/en/post/through/) generations. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [follow](/en/post/follow/) [a](/en/post/a/) [traditional](/en/post/traditional/) [wedding](/en/post/wedding/) [ceremony](/en/post/ceremony/)."
+### [Noun](/post/noun/)
+1. **[Adjective](/post/adjective/)**: Belonging [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [culture](/post/culture/), [period](/post/period/), [or](/post/or/) [society](/post/society/); customary [or](/post/or/) [usual](/post/usual/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [place](/post/place/) [or](/post/or/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [traditional](/post/traditional/) [clothing](/post/clothing/) [of](/post/of/) [the](/post/the/) [region](/post/region/) is colorful [and](/post/and/) intricate."
+2. **[Noun](/post/noun/)**: [A](/post/a/) [custom](/post/custom/), [practice](/post/practice/), [or](/post/or/) [belief](/post/belief/) [that](/post/that/) has been passed [down](/post/down/) [through](/post/through/) generations. [For](/post/for/) [example](/post/example/): "[They](/post/they/) [follow](/post/follow/) [a](/post/a/) [traditional](/post/traditional/) [wedding](/post/wedding/) [ceremony](/post/ceremony/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) adhere [to](/en/post/to/) [or](/en/post/or/) [continue](/en/post/continue/) using customs, practices, [or](/en/post/or/) beliefs [that](/en/post/that/) [have](/en/post/have/) been handed [down](/en/post/down/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [family](/en/post/family/) has traditionally celebrated Christmas [with](/en/post/with/) [a](/en/post/a/) [big](/en/post/big/) [feast](/en/post/feast/)."
-2. [To](/en/post/to/) [maintain](/en/post/maintain/) [or](/en/post/or/) uphold [in](/en/post/in/) [a](/en/post/a/) [traditional](/en/post/traditional/) [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) decided [to](/en/post/to/) [keep](/en/post/keep/) [the](/en/post/the/) [house](/en/post/house/) [in](/en/post/in/) [its](/en/post/its/) [traditional](/en/post/traditional/) [style](/en/post/style/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) adhere [to](/post/to/) [or](/post/or/) [continue](/post/continue/) using customs, practices, [or](/post/or/) beliefs [that](/post/that/) [have](/post/have/) been handed [down](/post/down/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [family](/post/family/) has traditionally celebrated Christmas [with](/post/with/) [a](/post/a/) [big](/post/big/) [feast](/post/feast/)."
+2. [To](/post/to/) [maintain](/post/maintain/) [or](/post/or/) uphold [in](/post/in/) [a](/post/a/) [traditional](/post/traditional/) [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) decided [to](/post/to/) [keep](/post/keep/) [the](/post/the/) [house](/post/house/) [in](/post/in/) [its](/post/its/) [traditional](/post/traditional/) [style](/post/style/)."
 
 ## Phrases
-- "[Traditional](/en/post/traditional/) values" refers [to](/en/post/to/) long-standing beliefs [or](/en/post/or/) customs.
-- "[A](/en/post/a/) [traditional](/en/post/traditional/) diet" includes foods [that](/en/post/that/) are [typical](/en/post/typical/) [of](/en/post/of/) [a](/en/post/a/) [specific](/en/post/specific/) [culture](/en/post/culture/) [or](/en/post/or/) [region](/en/post/region/).
-- "[Traditional](/en/post/traditional/) arts [and](/en/post/and/) crafts" encompass skills [and](/en/post/and/) techniques passed [down](/en/post/down/) [through](/en/post/through/) generations.
+- "[Traditional](/post/traditional/) values" refers [to](/post/to/) long-standing beliefs [or](/post/or/) customs.
+- "[A](/post/a/) [traditional](/post/traditional/) diet" includes foods [that](/post/that/) are [typical](/post/typical/) [of](/post/of/) [a](/post/a/) [specific](/post/specific/) [culture](/post/culture/) [or](/post/or/) [region](/post/region/).
+- "[Traditional](/post/traditional/) arts [and](/post/and/) crafts" encompass skills [and](/post/and/) techniques passed [down](/post/down/) [through](/post/through/) generations.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [festival](/en/post/festival/) showcased [traditional](/en/post/traditional/) dances [from](/en/post/from/) [various](/en/post/various/) parts [of](/en/post/of/) [the](/en/post/the/) [country](/en/post/country/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) wanted [to](/en/post/to/) [pass](/en/post/pass/) [on](/en/post/on/) [her](/en/post/her/) grandmother's [traditional](/en/post/traditional/) recipes [to](/en/post/to/) [the](/en/post/the/) [next](/en/post/next/) [generation](/en/post/generation/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [village](/en/post/village/) retained [its](/en/post/its/) [traditional](/en/post/traditional/) charm [despite](/en/post/despite/) [modern](/en/post/modern/) developments."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [festival](/post/festival/) showcased [traditional](/post/traditional/) dances [from](/post/from/) [various](/post/various/) parts [of](/post/of/) [the](/post/the/) [country](/post/country/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) wanted [to](/post/to/) [pass](/post/pass/) [on](/post/on/) [her](/post/her/) grandmother's [traditional](/post/traditional/) recipes [to](/post/to/) [the](/post/the/) [next](/post/next/) [generation](/post/generation/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [village](/post/village/) retained [its](/post/its/) [traditional](/post/traditional/) charm [despite](/post/despite/) [modern](/post/modern/) developments."
 
 ## Synonyms
 - Customary
 - Time-honored
 - Established
-- [Conventional](/en/post/conventional/)
-- [Ancient](/en/post/ancient/)
+- [Conventional](/post/conventional/)
+- [Ancient](/post/ancient/)
 - Folklore
 - Heritage
 
 ## Antonyms
-- [Modern](/en/post/modern/)
-- [Contemporary](/en/post/contemporary/)
+- [Modern](/post/modern/)
+- [Contemporary](/post/contemporary/)
 - Innovative
-- [Progressive](/en/post/progressive/)
+- [Progressive](/post/progressive/)
 - Reformist

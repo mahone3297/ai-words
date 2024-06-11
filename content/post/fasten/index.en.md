@@ -7,37 +7,37 @@ description = '[fæ sn] vt.扎牢，扣住'
 keywords = ['ai words', 'fasten']
 +++
 
-## [Word](/en/post/word/): [Fasten](/en/post/fasten/)
+## [Word](/post/word/): [Fasten](/post/fasten/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfæsn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [attach](/en/post/attach/) [or](/en/post/or/) [secure](/en/post/secure/) [something](/en/post/something/) firmly [in](/en/post/in/) [place](/en/post/place/), [often](/en/post/often/) [by](/en/post/by/) [means](/en/post/means/) [of](/en/post/of/) [a](/en/post/a/) buckle, clip, [knot](/en/post/knot/), [lock](/en/post/lock/), [or](/en/post/or/) [other](/en/post/other/) mechanism. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) fastened [her](/en/post/her/) seatbelt [before](/en/post/before/) driving [off](/en/post/off/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [tight](/en/post/tight/) [or](/en/post/or/) immovable; [to](/en/post/to/) [close](/en/post/close/) securely. [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [fasten](/en/post/fasten/) [the](/en/post/the/) [lid](/en/post/lid/) [on](/en/post/on/) [the](/en/post/the/) [jar](/en/post/jar/) tightly."
-- **[Verb](/en/post/verb/)**: (archaic) [To](/en/post/to/) [make](/en/post/make/) [firm](/en/post/firm/) [or](/en/post/or/) [stable](/en/post/stable/); [to](/en/post/to/) [settle](/en/post/settle/) [or](/en/post/or/) [fix](/en/post/fix/) firmly. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) roots [of](/en/post/of/) [the](/en/post/the/) [tree](/en/post/tree/) [have](/en/post/have/) fastened [themselves](/en/post/themselves/) [deep](/en/post/deep/) [in](/en/post/in/) [the](/en/post/the/) [ground](/en/post/ground/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [attach](/post/attach/) [or](/post/or/) [secure](/post/secure/) [something](/post/something/) firmly [in](/post/in/) [place](/post/place/), [often](/post/often/) [by](/post/by/) [means](/post/means/) [of](/post/of/) [a](/post/a/) buckle, clip, [knot](/post/knot/), [lock](/post/lock/), [or](/post/or/) [other](/post/other/) mechanism. [For](/post/for/) [example](/post/example/): "[She](/post/she/) fastened [her](/post/her/) seatbelt [before](/post/before/) driving [off](/post/off/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [tight](/post/tight/) [or](/post/or/) immovable; [to](/post/to/) [close](/post/close/) securely. [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [fasten](/post/fasten/) [the](/post/the/) [lid](/post/lid/) [on](/post/on/) [the](/post/the/) [jar](/post/jar/) tightly."
+- **[Verb](/post/verb/)**: (archaic) [To](/post/to/) [make](/post/make/) [firm](/post/firm/) [or](/post/or/) [stable](/post/stable/); [to](/post/to/) [settle](/post/settle/) [or](/post/or/) [fix](/post/fix/) firmly. [For](/post/for/) [example](/post/example/): "[The](/post/the/) roots [of](/post/of/) [the](/post/the/) [tree](/post/tree/) [have](/post/have/) fastened [themselves](/post/themselves/) [deep](/post/deep/) [in](/post/in/) [the](/post/the/) [ground](/post/ground/)."
 
 ## Phrases
-- "[Fasten](/en/post/fasten/) [your](/en/post/your/) seatbelt": An [instruction](/en/post/instruction/) given [to](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) [travel](/en/post/travel/), [particularly](/en/post/particularly/) [in](/en/post/in/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), [to](/en/post/to/) [ensure](/en/post/ensure/) [safety](/en/post/safety/) [during](/en/post/during/) [movement](/en/post/movement/).
-- "[Fasten](/en/post/fasten/) one's [gaze](/en/post/gaze/)": [To](/en/post/to/) [direct](/en/post/direct/) [and](/en/post/and/) [fix](/en/post/fix/) one's [attention](/en/post/attention/) [strongly](/en/post/strongly/) [on](/en/post/on/) [something](/en/post/something/).
-- "[Fasten](/en/post/fasten/) [onto](/en/post/onto/) [something](/en/post/something/)": [To](/en/post/to/) grab [hold](/en/post/hold/) [of](/en/post/of/) [something](/en/post/something/) physically [or](/en/post/or/) mentally [and](/en/post/and/) [not](/en/post/not/) [let](/en/post/let/) [go](/en/post/go/).
+- "[Fasten](/post/fasten/) [your](/post/your/) seatbelt": An [instruction](/post/instruction/) given [to](/post/to/) [prepare](/post/prepare/) [for](/post/for/) [travel](/post/travel/), [particularly](/post/particularly/) [in](/post/in/) [a](/post/a/) [vehicle](/post/vehicle/), [to](/post/to/) [ensure](/post/ensure/) [safety](/post/safety/) [during](/post/during/) [movement](/post/movement/).
+- "[Fasten](/post/fasten/) one's [gaze](/post/gaze/)": [To](/post/to/) [direct](/post/direct/) [and](/post/and/) [fix](/post/fix/) one's [attention](/post/attention/) [strongly](/post/strongly/) [on](/post/on/) [something](/post/something/).
+- "[Fasten](/post/fasten/) [onto](/post/onto/) [something](/post/something/)": [To](/post/to/) grab [hold](/post/hold/) [of](/post/of/) [something](/post/something/) physically [or](/post/or/) mentally [and](/post/and/) [not](/post/not/) [let](/post/let/) [go](/post/go/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (attaching)**: "[Make](/en/post/make/) [sure](/en/post/sure/) [to](/en/post/to/) [fasten](/en/post/fasten/) [the](/en/post/the/) [gate](/en/post/gate/) [so](/en/post/so/) [the](/en/post/the/) [dog](/en/post/dog/) doesn't [escape](/en/post/escape/)."
-- **[Verb](/en/post/verb/) (closing)**: "I fastened [the](/en/post/the/) [window](/en/post/window/) shutters [against](/en/post/against/) [the](/en/post/the/) [storm](/en/post/storm/)."
-- **[Verb](/en/post/verb/) (fixing [attention](/en/post/attention/))**: "[He](/en/post/he/) fastened [his](/en/post/his/) [gaze](/en/post/gaze/) [on](/en/post/on/) [the](/en/post/the/) [painting](/en/post/painting/), admiring [its](/en/post/its/) intricate details."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (attaching)**: "[Make](/post/make/) [sure](/post/sure/) [to](/post/to/) [fasten](/post/fasten/) [the](/post/the/) [gate](/post/gate/) [so](/post/so/) [the](/post/the/) [dog](/post/dog/) doesn't [escape](/post/escape/)."
+- **[Verb](/post/verb/) (closing)**: "I fastened [the](/post/the/) [window](/post/window/) shutters [against](/post/against/) [the](/post/the/) [storm](/post/storm/)."
+- **[Verb](/post/verb/) (fixing [attention](/post/attention/))**: "[He](/post/he/) fastened [his](/post/his/) [gaze](/post/gaze/) [on](/post/on/) [the](/post/the/) [painting](/post/painting/), admiring [its](/post/its/) intricate details."
 
 ## Synonyms
-- [Secure](/en/post/secure/)
-- [Attach](/en/post/attach/)
+- [Secure](/post/secure/)
+- [Attach](/post/attach/)
 - Buckle
 - Clamp
-- [Bind](/en/post/bind/)
-- [Tie](/en/post/tie/)
+- [Bind](/post/bind/)
+- [Tie](/post/tie/)
 -Latch
-- [Lock](/en/post/lock/)
-- [Close](/en/post/close/)
-- [Seal](/en/post/seal/)
-- [Fix](/en/post/fix/)
+- [Lock](/post/lock/)
+- [Close](/post/close/)
+- [Seal](/post/seal/)
+- [Fix](/post/fix/)
 - Affix
 - Tighten

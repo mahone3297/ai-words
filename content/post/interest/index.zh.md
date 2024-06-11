@@ -12,25 +12,25 @@ keywords = ['ai words', 'interest']
 
 ## 释义
 - **名词**:
-   - 兴趣；爱好：例如 "[He](/post/he/) has [a](/post/a/) [great](/post/great/) [interest](/post/interest/) [in](/post/in/) photography."
-   - 利益；权益：例如 "[The](/post/the/) company's [financial](/post/financial/) interests are [at](/post/at/) [stake](/post/stake/)."
-   - 债务的利息：例如 "[She](/post/she/) pays 5% [interest](/post/interest/) [on](/post/on/) [her](/post/her/) [loan](/post/loan/)."
+   - 兴趣；爱好：例如 "[He](/zh/post/he/) has [a](/zh/post/a/) [great](/zh/post/great/) [interest](/zh/post/interest/) [in](/zh/post/in/) photography."
+   - 利益；权益：例如 "[The](/zh/post/the/) company's [financial](/zh/post/financial/) interests are [at](/zh/post/at/) [stake](/zh/post/stake/)."
+   - 债务的利息：例如 "[She](/zh/post/she/) pays 5% [interest](/zh/post/interest/) [on](/zh/post/on/) [her](/zh/post/her/) [loan](/zh/post/loan/)."
 
 - **动词**:
-   - 使感兴趣；引起关注：例如 "[The](/post/the/) [lecture](/post/lecture/) interested [everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) [audience](/post/audience/)."
-   - 在意；关心：例如 "I [really](/post/really/) don't [interest](/post/interest/) [in](/post/in/) [politics](/post/politics/)."
+   - 使感兴趣；引起关注：例如 "[The](/zh/post/the/) [lecture](/zh/post/lecture/) interested [everyone](/zh/post/everyone/) [in](/zh/post/in/) [the](/zh/post/the/) [audience](/zh/post/audience/)."
+   - 在意；关心：例如 "I [really](/zh/post/really/) don't [interest](/zh/post/interest/) [in](/zh/post/in/) [politics](/zh/post/politics/)."
 
 ## 短语
-- "[Take](/post/take/) an [interest](/post/interest/) [in](/post/in/) [something](/post/something/)" 意为对某事产生兴趣。
-- "[Loss](/post/loss/) [of](/post/of/) [interest](/post/interest/)" 表示失去兴趣或兴趣减退。
+- "[Take](/zh/post/take/) an [interest](/zh/post/interest/) [in](/zh/post/in/) [something](/zh/post/something/)" 意为对某事产生兴趣。
+- "[Loss](/zh/post/loss/) [of](/zh/post/of/) [interest](/zh/post/interest/)" 表示失去兴趣或兴趣减退。
 
 ## 例句
-- 名词: "[Her](/post/her/) [interest](/post/interest/) [in](/post/in/) [painting](/post/painting/) started [at](/post/at/) [a](/post/a/) [young](/post/young/) [age](/post/age/)."
-- 动词: "[The](/post/the/) [new](/post/new/) [project](/post/project/) [immediately](/post/immediately/) interested [the](/post/the/) [team](/post/team/) members."
+- 名词: "[Her](/zh/post/her/) [interest](/zh/post/interest/) [in](/zh/post/in/) [painting](/zh/post/painting/) started [at](/zh/post/at/) [a](/zh/post/a/) [young](/zh/post/young/) [age](/zh/post/age/)."
+- 动词: "[The](/zh/post/the/) [new](/zh/post/new/) [project](/zh/post/project/) [immediately](/zh/post/immediately/) interested [the](/zh/post/the/) [team](/zh/post/team/) members."
 
 ## 同义词
-- [Curiosity](/post/curiosity/)
+- [Curiosity](/zh/post/curiosity/)
 - Fascination
-- [Enthusiasm](/post/enthusiasm/)
-- [Passion](/post/passion/)
-- [Attraction](/post/attraction/)
+- [Enthusiasm](/zh/post/enthusiasm/)
+- [Passion](/zh/post/passion/)
+- [Attraction](/zh/post/attraction/)

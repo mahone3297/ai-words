@@ -7,30 +7,30 @@ description = '[t∫ek] n.支票'
 keywords = ['ai words', 'cheque']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃek/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [financial](/en/post/financial/) [document](/en/post/document/), typically written [on](/en/post/on/) [paper](/en/post/paper/), [that](/en/post/that/) orders [a](/en/post/a/) [bank](/en/post/bank/) [to](/en/post/to/) [pay](/en/post/pay/) [a](/en/post/a/) specified [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) [to](/en/post/to/) [the](/en/post/the/) [person](/en/post/person/) [or](/en/post/or/) [company](/en/post/company/) named [on](/en/post/on/) [it](/en/post/it/). ([US](/en/post/us/)) /ˈtʃek/ (UK)
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [write](/en/post/write/) [a](/en/post/a/) [cheque](/en/post/cheque/) [or](/en/post/or/) [use](/en/post/use/) [one](/en/post/one/) [as](/en/post/as/) [payment](/en/post/payment/). ([US](/en/post/us/)) /ˈtʃek/ (UK)
+- **[Noun](/post/noun/)**: [A](/post/a/) [financial](/post/financial/) [document](/post/document/), typically written [on](/post/on/) [paper](/post/paper/), [that](/post/that/) orders [a](/post/a/) [bank](/post/bank/) [to](/post/to/) [pay](/post/pay/) [a](/post/a/) specified [amount](/post/amount/) [of](/post/of/) [money](/post/money/) [to](/post/to/) [the](/post/the/) [person](/post/person/) [or](/post/or/) [company](/post/company/) named [on](/post/on/) [it](/post/it/). ([US](/post/us/)) /ˈtʃek/ (UK)
+- **[Verb](/post/verb/)**: [To](/post/to/) [write](/post/write/) [a](/post/a/) [cheque](/post/cheque/) [or](/post/or/) [use](/post/use/) [one](/post/one/) [as](/post/as/) [payment](/post/payment/). ([US](/post/us/)) /ˈtʃek/ (UK)
 
 ## Phrases
-- "[Pay](/en/post/pay/) [by](/en/post/by/) [cheque](/en/post/cheque/)" [means](/en/post/means/) [to](/en/post/to/) [pay](/en/post/pay/) [with](/en/post/with/) [a](/en/post/a/) [check](/en/post/check/).
-- "[Draw](/en/post/draw/) [a](/en/post/a/) [cheque](/en/post/cheque/)" [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [check](/en/post/check/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [amount](/en/post/amount/).
-- "[Present](/en/post/present/) [a](/en/post/a/) [cheque](/en/post/cheque/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [a](/en/post/a/) [check](/en/post/check/) [to](/en/post/to/) [someone](/en/post/someone/) [in](/en/post/in/) [exchange](/en/post/exchange/) [for](/en/post/for/) [goods](/en/post/goods/) [or](/en/post/or/) services.
+- "[Pay](/post/pay/) [by](/post/by/) [cheque](/post/cheque/)" [means](/post/means/) [to](/post/to/) [pay](/post/pay/) [with](/post/with/) [a](/post/a/) [check](/post/check/).
+- "[Draw](/post/draw/) [a](/post/a/) [cheque](/post/cheque/)" [means](/post/means/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [check](/post/check/) [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [amount](/post/amount/).
+- "[Present](/post/present/) [a](/post/a/) [cheque](/post/cheque/)" is [the](/post/the/) [act](/post/act/) [of](/post/of/) giving [a](/post/a/) [check](/post/check/) [to](/post/to/) [someone](/post/someone/) [in](/post/in/) [exchange](/post/exchange/) [for](/post/for/) [goods](/post/goods/) [or](/post/or/) services.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I deposited [the](/en/post/the/) [cheque](/en/post/cheque/) [into](/en/post/into/) [my](/en/post/my/) [bank](/en/post/bank/) [account](/en/post/account/) [last](/en/post/last/) [week](/en/post/week/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) wrote [a](/en/post/a/) [cheque](/en/post/cheque/) [for](/en/post/for/) [the](/en/post/the/) [rent](/en/post/rent/) [and](/en/post/and/) handed [it](/en/post/it/) [to](/en/post/to/) [the](/en/post/the/) [landlord](/en/post/landlord/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[She](/en/post/she/) requested [her](/en/post/her/) [employer](/en/post/employer/) [to](/en/post/to/) [issue](/en/post/issue/) [her](/en/post/her/) [a](/en/post/a/) [cheque](/en/post/cheque/) [for](/en/post/for/) [the](/en/post/the/) bonus."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I deposited [the](/post/the/) [cheque](/post/cheque/) [into](/post/into/) [my](/post/my/) [bank](/post/bank/) [account](/post/account/) [last](/post/last/) [week](/post/week/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) wrote [a](/post/a/) [cheque](/post/cheque/) [for](/post/for/) [the](/post/the/) [rent](/post/rent/) [and](/post/and/) handed [it](/post/it/) [to](/post/to/) [the](/post/the/) [landlord](/post/landlord/)."
+- **Phrasal [Verb](/post/verb/)**: "[She](/post/she/) requested [her](/post/her/) [employer](/post/employer/) [to](/post/to/) [issue](/post/issue/) [her](/post/her/) [a](/post/a/) [cheque](/post/cheque/) [for](/post/for/) [the](/post/the/) bonus."
 
 ## Synonyms
-- [Check](/en/post/check/) ([US](/en/post/us/))
-- [Bank](/en/post/bank/) [draft](/en/post/draft/) (informal)
-- [Money](/en/post/money/) [order](/en/post/order/) (informal)
-- [Instrument](/en/post/instrument/) [of](/en/post/of/) [payment](/en/post/payment/)
+- [Check](/post/check/) ([US](/post/us/))
+- [Bank](/post/bank/) [draft](/post/draft/) (informal)
+- [Money](/post/money/) [order](/post/order/) (informal)
+- [Instrument](/post/instrument/) [of](/post/of/) [payment](/post/payment/)
 
 ## Antonyms
-- [Cash](/en/post/cash/) (in-person [payment](/en/post/payment/))
-- [Credit](/en/post/credit/)/debit [card](/en/post/card/) ([digital](/en/post/digital/) [payment](/en/post/payment/))
-- Cashier's [check](/en/post/check/) ([US](/en/post/us/))
+- [Cash](/post/cash/) (in-person [payment](/post/payment/))
+- [Credit](/post/credit/)/debit [card](/post/card/) ([digital](/post/digital/) [payment](/post/payment/))
+- Cashier's [check](/post/check/) ([US](/post/us/))

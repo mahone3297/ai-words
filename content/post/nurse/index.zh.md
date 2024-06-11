@@ -11,21 +11,21 @@ keywords = ['ai words', 'nurse']
 /nɜːrs/
 
 ## 释义
-- **名词 (n)**: 护士；护理人员。例如: "[The](/post/the/) [nurse](/post/nurse/) took [the](/post/the/) patient's [temperature](/post/temperature/)."
-- **动词 (v)**: 照顾，呵护。例如: "[She](/post/she/) is nursing [her](/post/her/) injured [ankle](/post/ankle/) [back](/post/back/) [to](/post/to/) [health](/post/health/)."
+- **名词 (n)**: 护士；护理人员。例如: "[The](/zh/post/the/) [nurse](/zh/post/nurse/) took [the](/zh/post/the/) patient's [temperature](/zh/post/temperature/)."
+- **动词 (v)**: 照顾，呵护。例如: "[She](/zh/post/she/) is nursing [her](/zh/post/her/) injured [ankle](/zh/post/ankle/) [back](/zh/post/back/) [to](/zh/post/to/) [health](/zh/post/health/)."
 
 ## 短语
-- "[on](/post/on/) [duty](/post/duty/) [nurse](/post/nurse/)" 在职护士
-- "[nurse](/post/nurse/) manager" 护理经理
-- "[nurse](/post/nurse/) practitioner" 高级执业护士
+- "[on](/zh/post/on/) [duty](/zh/post/duty/) [nurse](/zh/post/nurse/)" 在职护士
+- "[nurse](/zh/post/nurse/) manager" 护理经理
+- "[nurse](/zh/post/nurse/) practitioner" 高级执业护士
 
 ## 例句
-- 名词: "[The](/post/the/) [kind](/post/kind/) [nurse](/post/nurse/) held [the](/post/the/) child's [hand](/post/hand/) [to](/post/to/) [comfort](/post/comfort/) [him](/post/him/) [during](/post/during/) [the](/post/the/) [procedure](/post/procedure/)."
-- 动词: "[She](/post/she/) is nursing [her](/post/her/) newborn [baby](/post/baby/) [through](/post/through/) [the](/post/the/) [night](/post/night/)."
+- 名词: "[The](/zh/post/the/) [kind](/zh/post/kind/) [nurse](/zh/post/nurse/) held [the](/zh/post/the/) child's [hand](/zh/post/hand/) [to](/zh/post/to/) [comfort](/zh/post/comfort/) [him](/zh/post/him/) [during](/zh/post/during/) [the](/zh/post/the/) [procedure](/zh/post/procedure/)."
+- 动词: "[She](/zh/post/she/) is nursing [her](/zh/post/her/) newborn [baby](/zh/post/baby/) [through](/zh/post/through/) [the](/zh/post/the/) [night](/zh/post/night/)."
 
 ## 同义词
 - Carer
 - Attendant
-- Healthcare [professional](/post/professional/)
-- [Medical](/post/medical/) practitioner
+- Healthcare [professional](/zh/post/professional/)
+- [Medical](/zh/post/medical/) practitioner
 - Sanitarian

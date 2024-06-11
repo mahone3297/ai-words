@@ -11,22 +11,22 @@ keywords = ['ai words', 'glance']
 /glæns/
 
 ## 释义
-- **名词**: 1. 快速一瞥；扫视。例如: "[She](/post/she/) caught [a](/post/a/) [glimpse](/post/glimpse/) [of](/post/of/) [him](/post/him/) [through](/post/through/) [the](/post/the/) [window](/post/window/)."
-- **动词**: 1. 瞥一眼；快速查看。例如: "[He](/post/he/) glanced [at](/post/at/) [his](/post/his/) [watch](/post/watch/) [to](/post/to/) [check](/post/check/) [the](/post/the/) [time](/post/time/)."
-- **形容词**: 1. (尤指短暂的)匆匆的，一瞥的。例如: "[They](/post/they/) had [only](/post/only/) [a](/post/a/) [glance](/post/glance/) [exchange](/post/exchange/) [before](/post/before/) [the](/post/the/) [train](/post/train/) departed."
+- **名词**: 1. 快速一瞥；扫视。例如: "[She](/zh/post/she/) caught [a](/zh/post/a/) [glimpse](/zh/post/glimpse/) [of](/zh/post/of/) [him](/zh/post/him/) [through](/zh/post/through/) [the](/zh/post/the/) [window](/zh/post/window/)."
+- **动词**: 1. 瞥一眼；快速查看。例如: "[He](/zh/post/he/) glanced [at](/zh/post/at/) [his](/zh/post/his/) [watch](/zh/post/watch/) [to](/zh/post/to/) [check](/zh/post/check/) [the](/zh/post/the/) [time](/zh/post/time/)."
+- **形容词**: 1. (尤指短暂的)匆匆的，一瞥的。例如: "[They](/zh/post/they/) had [only](/zh/post/only/) [a](/zh/post/a/) [glance](/zh/post/glance/) [exchange](/zh/post/exchange/) [before](/zh/post/before/) [the](/zh/post/the/) [train](/zh/post/train/) departed."
 
 ## 短语
-- "[give](/post/give/) sb. [a](/post/a/) [glance](/post/glance/)" 意为快速看一眼某人。
-- "[at](/post/at/) [a](/post/a/) [glance](/post/glance/)" 表示迅速地看一眼，一眼就看出。例如: "[She](/post/she/) [can](/post/can/) [tell](/post/tell/) [how](/post/how/) [busy](/post/busy/) [the](/post/the/) [day](/post/day/) [will](/post/will/) [be](/post/be/) [at](/post/at/) [a](/post/a/) [glance](/post/glance/) [at](/post/at/) [her](/post/her/) [schedule](/post/schedule/)."
+- "[give](/zh/post/give/) sb. [a](/zh/post/a/) [glance](/zh/post/glance/)" 意为快速看一眼某人。
+- "[at](/zh/post/at/) [a](/zh/post/a/) [glance](/zh/post/glance/)" 表示迅速地看一眼，一眼就看出。例如: "[She](/zh/post/she/) [can](/zh/post/can/) [tell](/zh/post/tell/) [how](/zh/post/how/) [busy](/zh/post/busy/) [the](/zh/post/the/) [day](/zh/post/day/) [will](/zh/post/will/) [be](/zh/post/be/) [at](/zh/post/at/) [a](/zh/post/a/) [glance](/zh/post/glance/) [at](/zh/post/at/) [her](/zh/post/her/) [schedule](/zh/post/schedule/)."
 
 ## 例句
-- 名词: "[He](/post/he/) gave [her](/post/her/) [a](/post/a/) [quick](/post/quick/) [glance](/post/glance/) [before](/post/before/) [turning](/post/turning/) [away](/post/away/)."
-- 动词: "[She](/post/she/) glanced [over](/post/over/) [her](/post/her/) [shoulder](/post/shoulder/) [to](/post/to/) [make](/post/make/) [sure](/post/sure/) [no](/post/no/) [one](/post/one/) was [following](/post/following/) [her](/post/her/)."
-- 形容词: "[The](/post/the/) [menu](/post/menu/) offers [a](/post/a/) [glance](/post/glance/) [at](/post/at/) [the](/post/the/) restaurant's specialties."
+- 名词: "[He](/zh/post/he/) gave [her](/zh/post/her/) [a](/zh/post/a/) [quick](/zh/post/quick/) [glance](/zh/post/glance/) [before](/zh/post/before/) [turning](/zh/post/turning/) [away](/zh/post/away/)."
+- 动词: "[She](/zh/post/she/) glanced [over](/zh/post/over/) [her](/zh/post/her/) [shoulder](/zh/post/shoulder/) [to](/zh/post/to/) [make](/zh/post/make/) [sure](/zh/post/sure/) [no](/zh/post/no/) [one](/zh/post/one/) was [following](/zh/post/following/) [her](/zh/post/her/)."
+- 形容词: "[The](/zh/post/the/) [menu](/zh/post/menu/) offers [a](/zh/post/a/) [glance](/zh/post/glance/) [at](/zh/post/at/) [the](/zh/post/the/) restaurant's specialties."
 
 ## 同义词
-- [look](/post/look/)
+- [look](/zh/post/look/)
 - peek
-- [glimpse](/post/glimpse/)
-- [scan](/post/scan/)
-- [survey](/post/survey/)
+- [glimpse](/zh/post/glimpse/)
+- [scan](/zh/post/scan/)
+- [survey](/zh/post/survey/)

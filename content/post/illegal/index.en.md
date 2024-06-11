@@ -7,26 +7,26 @@ description = '[iˈliːgəl] a.不合法的，非法的'
 keywords = ['ai words', 'illegal']
 +++
 
-## [Word](/en/post/word/): [Illegal](/en/post/illegal/)
+## [Word](/post/word/): [Illegal](/post/illegal/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈlɛɡəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) conforming [to](/en/post/to/), permitted [by](/en/post/by/), [or](/en/post/or/) recognized [by](/en/post/by/) [law](/en/post/law/); unlawful. [It](/en/post/it/) describes [something](/en/post/something/) [that](/en/post/that/) breaks [the](/en/post/the/) rules [or](/en/post/or/) laws established [by](/en/post/by/) [a](/en/post/a/) governing [body](/en/post/body/).
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) conforming [to](/post/to/), permitted [by](/post/by/), [or](/post/or/) recognized [by](/post/by/) [law](/post/law/); unlawful. [It](/post/it/) describes [something](/post/something/) [that](/post/that/) breaks [the](/post/the/) rules [or](/post/or/) laws established [by](/post/by/) [a](/post/a/) governing [body](/post/body/).
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _The [act](/en/post/act/) [of](/en/post/of/) downloading copyrighted [material](/en/post/material/) [without](/en/post/without/) [permission](/en/post/permission/) is [illegal](/en/post/illegal/)._
+[Example](/post/example/) [sentence](/post/sentence/): _The [act](/post/act/) [of](/post/of/) downloading copyrighted [material](/post/material/) [without](/post/without/) [permission](/post/permission/) is [illegal](/post/illegal/)._
 
 ## Phrases
-- **[Illegal](/en/post/illegal/) [activity](/en/post/activity/)**: [Any](/en/post/any/) [action](/en/post/action/) [that](/en/post/that/) violates [the](/en/post/the/) [law](/en/post/law/), [such](/en/post/such/) [as](/en/post/as/) theft, [drug](/en/post/drug/) trafficking, [or](/en/post/or/) embezzlement.
-- **[Illegal](/en/post/illegal/) [immigrant](/en/post/immigrant/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has entered [or](/en/post/or/) resides [in](/en/post/in/) [a](/en/post/a/) [country](/en/post/country/) [without](/en/post/without/) [legal](/en/post/legal/) authorization.
-- **[Illegal](/en/post/illegal/) dumping**: [The](/en/post/the/) unauthorized [disposal](/en/post/disposal/) [of](/en/post/of/) [waste](/en/post/waste/) materials [in](/en/post/in/) [a](/en/post/a/) [location](/en/post/location/) [that](/en/post/that/) violates [local](/en/post/local/), [state](/en/post/state/), [or](/en/post/or/) [federal](/en/post/federal/) laws.
-- **[Illegal](/en/post/illegal/) substances**: Drugs [or](/en/post/or/) [other](/en/post/other/) items [that](/en/post/that/) are forbidden [by](/en/post/by/) [law](/en/post/law/), [such](/en/post/such/) [as](/en/post/as/) narcotics.
+- **[Illegal](/post/illegal/) [activity](/post/activity/)**: [Any](/post/any/) [action](/post/action/) [that](/post/that/) violates [the](/post/the/) [law](/post/law/), [such](/post/such/) [as](/post/as/) theft, [drug](/post/drug/) trafficking, [or](/post/or/) embezzlement.
+- **[Illegal](/post/illegal/) [immigrant](/post/immigrant/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) has entered [or](/post/or/) resides [in](/post/in/) [a](/post/a/) [country](/post/country/) [without](/post/without/) [legal](/post/legal/) authorization.
+- **[Illegal](/post/illegal/) dumping**: [The](/post/the/) unauthorized [disposal](/post/disposal/) [of](/post/of/) [waste](/post/waste/) materials [in](/post/in/) [a](/post/a/) [location](/post/location/) [that](/post/that/) violates [local](/post/local/), [state](/post/state/), [or](/post/or/) [federal](/post/federal/) laws.
+- **[Illegal](/post/illegal/) substances**: Drugs [or](/post/or/) [other](/post/other/) items [that](/post/that/) are forbidden [by](/post/by/) [law](/post/law/), [such](/post/such/) [as](/post/as/) narcotics.
 
-## [Example](/en/post/example/) Sentences
-- _Driving [under](/en/post/under/) [the](/en/post/the/) [influence](/en/post/influence/) [of](/en/post/of/) [alcohol](/en/post/alcohol/) is considered an [illegal](/en/post/illegal/) [act](/en/post/act/)._
-- _The [landlord](/en/post/landlord/) threatened [to](/en/post/to/) evict [the](/en/post/the/) tenants engaging [in](/en/post/in/) [illegal](/en/post/illegal/) subletting._
-- _It's [illegal](/en/post/illegal/) [to](/en/post/to/) [hunt](/en/post/hunt/) endangered species, [regardless](/en/post/regardless/) [of](/en/post/of/) [where](/en/post/where/) they're [found](/en/post/found/)._
+## [Example](/post/example/) Sentences
+- _Driving [under](/post/under/) [the](/post/the/) [influence](/post/influence/) [of](/post/of/) [alcohol](/post/alcohol/) is considered an [illegal](/post/illegal/) [act](/post/act/)._
+- _The [landlord](/post/landlord/) threatened [to](/post/to/) evict [the](/post/the/) tenants engaging [in](/post/in/) [illegal](/post/illegal/) subletting._
+- _It's [illegal](/post/illegal/) [to](/post/to/) [hunt](/post/hunt/) endangered species, [regardless](/post/regardless/) [of](/post/of/) [where](/post/where/) they're [found](/post/found/)._
 
 ## Synonyms
 - Unlawful
@@ -34,6 +34,6 @@ keywords = ['ai words', 'illegal']
 - Prohibited
 - Forbidden
 - Unauthorized
-- [Criminal](/en/post/criminal/)
-- Contraband ([when](/en/post/when/) referring [to](/en/post/to/) [goods](/en/post/goods/))
+- [Criminal](/post/criminal/)
+- Contraband ([when](/post/when/) referring [to](/post/to/) [goods](/post/goods/))
 - Unsanctioned

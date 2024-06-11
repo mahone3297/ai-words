@@ -7,40 +7,40 @@ description = '[ˈsekrəteri] n.秘书；书记；大臣'
 keywords = ['ai words', 'secretary']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /-ˈsɛkrətri/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [in](/en/post/in/) [charge](/en/post/charge/) [of](/en/post/of/) managing correspondence, appointments, [or](/en/post/or/) [other](/en/post/other/) administrative tasks [for](/en/post/for/) an [individual](/en/post/individual/) [or](/en/post/or/) [organization](/en/post/organization/).
-- [A](/en/post/a/) [professional](/en/post/professional/) [who](/en/post/who/) keeps records [and](/en/post/and/) handles [various](/en/post/various/) [office](/en/post/office/) duties [for](/en/post/for/) [a](/en/post/a/) [company](/en/post/company/) [or](/en/post/or/) an [individual](/en/post/individual/).
+### [Noun](/post/noun/)
+- [A](/post/a/) [person](/post/person/) [who](/post/who/) is [in](/post/in/) [charge](/post/charge/) [of](/post/of/) managing correspondence, appointments, [or](/post/or/) [other](/post/other/) administrative tasks [for](/post/for/) an [individual](/post/individual/) [or](/post/or/) [organization](/post/organization/).
+- [A](/post/a/) [professional](/post/professional/) [who](/post/who/) keeps records [and](/post/and/) handles [various](/post/various/) [office](/post/office/) duties [for](/post/for/) [a](/post/a/) [company](/post/company/) [or](/post/or/) an [individual](/post/individual/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [perform](/en/post/perform/) secretarial duties [or](/en/post/or/) [act](/en/post/act/) [as](/en/post/as/) [a](/en/post/a/) [secretary](/en/post/secretary/).
-- [To](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) [coordinate](/en/post/coordinate/) (appointments, meetings, etc.) [on](/en/post/on/) [behalf](/en/post/behalf/) [of](/en/post/of/) [someone](/en/post/someone/) [else](/en/post/else/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [perform](/post/perform/) secretarial duties [or](/post/or/) [act](/post/act/) [as](/post/as/) [a](/post/a/) [secretary](/post/secretary/).
+- [To](/post/to/) [arrange](/post/arrange/) [or](/post/or/) [coordinate](/post/coordinate/) (appointments, meetings, etc.) [on](/post/on/) [behalf](/post/behalf/) [of](/post/of/) [someone](/post/someone/) [else](/post/else/).
 
-### [Adjective](/en/post/adjective/)
-- Designating [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [job](/en/post/job/) [that](/en/post/that/) involves supporting [and](/en/post/and/) assisting others [with](/en/post/with/) clerical tasks.
+### [Adjective](/post/adjective/)
+- Designating [a](/post/a/) [position](/post/position/) [or](/post/or/) [job](/post/job/) [that](/post/that/) involves supporting [and](/post/and/) assisting others [with](/post/with/) clerical tasks.
 
 ## Phrases
-- "[Act](/en/post/act/) [as](/en/post/as/) [a](/en/post/a/) [secretary](/en/post/secretary/)" [means](/en/post/means/) [to](/en/post/to/) fulfill [the](/en/post/the/) [role](/en/post/role/) [of](/en/post/of/) [a](/en/post/a/) [secretary](/en/post/secretary/).
-- "[Desk](/en/post/desk/) [secretary](/en/post/secretary/)" refers [to](/en/post/to/) [a](/en/post/a/) [secretary](/en/post/secretary/) [who](/en/post/who/) works [at](/en/post/at/) [a](/en/post/a/) [desk](/en/post/desk/).
-- "Virtual [secretary](/en/post/secretary/)" is [a](/en/post/a/) [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [remote](/en/post/remote/) [or](/en/post/or/) online administrative [assistant](/en/post/assistant/).
+- "[Act](/post/act/) [as](/post/as/) [a](/post/a/) [secretary](/post/secretary/)" [means](/post/means/) [to](/post/to/) fulfill [the](/post/the/) [role](/post/role/) [of](/post/of/) [a](/post/a/) [secretary](/post/secretary/).
+- "[Desk](/post/desk/) [secretary](/post/secretary/)" refers [to](/post/to/) [a](/post/a/) [secretary](/post/secretary/) [who](/post/who/) works [at](/post/at/) [a](/post/a/) [desk](/post/desk/).
+- "Virtual [secretary](/post/secretary/)" is [a](/post/a/) [term](/post/term/) [for](/post/for/) [a](/post/a/) [remote](/post/remote/) [or](/post/or/) online administrative [assistant](/post/assistant/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [office](/en/post/office/) manager hired [a](/en/post/a/) dedicated [secretary](/en/post/secretary/) [to](/en/post/to/) [handle](/en/post/handle/) [all](/en/post/all/) [the](/en/post/the/) paperwork."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) scheduled [a](/en/post/a/) [meeting](/en/post/meeting/) [with](/en/post/with/) [the](/en/post/the/) [secretary](/en/post/secretary/) [to](/en/post/to/) [discuss](/en/post/discuss/) [the](/en/post/the/) upcoming [project](/en/post/project/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [assistant](/en/post/assistant/), [a](/en/post/a/) [skilled](/en/post/skilled/) [secretary](/en/post/secretary/), organized [the](/en/post/the/) files efficiently."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [office](/post/office/) manager hired [a](/post/a/) dedicated [secretary](/post/secretary/) [to](/post/to/) [handle](/post/handle/) [all](/post/all/) [the](/post/the/) paperwork."
+- **[Verb](/post/verb/)**: "[She](/post/she/) scheduled [a](/post/a/) [meeting](/post/meeting/) [with](/post/with/) [the](/post/the/) [secretary](/post/secretary/) [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) upcoming [project](/post/project/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [assistant](/post/assistant/), [a](/post/a/) [skilled](/post/skilled/) [secretary](/post/secretary/), organized [the](/post/the/) files efficiently."
 
 ## Synonyms
-- [Assistant](/en/post/assistant/)
-- PA ([Personal](/en/post/personal/) [Assistant](/en/post/assistant/))
-- [Clerk](/en/post/clerk/)
+- [Assistant](/post/assistant/)
+- PA ([Personal](/post/personal/) [Assistant](/post/assistant/))
+- [Clerk](/post/clerk/)
 - Admin
-- [Office](/en/post/office/) manager ([in](/en/post/in/) [some](/en/post/some/) contexts)
-- [Support](/en/post/support/) [staff](/en/post/staff/)
+- [Office](/post/office/) manager ([in](/post/in/) [some](/post/some/) contexts)
+- [Support](/post/support/) [staff](/post/staff/)
 - Secretaryship
 
 ## Antonyms
-- Unsecretary (informal, [not](/en/post/not/) [a](/en/post/a/) [standard](/en/post/standard/) [term](/en/post/term/))
-- Manager (implies higher-level [leadership](/en/post/leadership/), [not](/en/post/not/) [just](/en/post/just/) administrative tasks)
+- Unsecretary (informal, [not](/post/not/) [a](/post/a/) [standard](/post/standard/) [term](/post/term/))
+- Manager (implies higher-level [leadership](/post/leadership/), [not](/post/not/) [just](/post/just/) administrative tasks)

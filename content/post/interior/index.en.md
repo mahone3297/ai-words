@@ -7,34 +7,34 @@ description = '[inˈtiəriə] a.内的；内地的 n.内部'
 keywords = ['ai words', 'interior']
 +++
 
-## [Word](/en/post/word/): [Interior](/en/post/interior/)
+## [Word](/post/word/): [Interior](/post/interior/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈtɛrɪər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [inner](/en/post/inner/) [part](/en/post/part/) [or](/en/post/or/) [inside](/en/post/inside/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) [room](/en/post/room/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [interior](/en/post/interior/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/) was decorated [with](/en/post/with/) minimalist [style](/en/post/style/)."
-  - _Geographical sense_: [The](/en/post/the/) inland parts [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/) [or](/en/post/or/) [region](/en/post/region/), [distant](/en/post/distant/) [from](/en/post/from/) [the](/en/post/the/) [coast](/en/post/coast/) [or](/en/post/or/) borders. "[The](/en/post/the/) nation's [vast](/en/post/vast/) [interior](/en/post/interior/) [remains](/en/post/remains/) [largely](/en/post/largely/) unexplored."
-  - _Figurative sense_: [The](/en/post/the/) [inner](/en/post/inner/) [or](/en/post/or/) deeper aspects [of](/en/post/of/) [a](/en/post/a/) person's thoughts [or](/en/post/or/) feelings. "[The](/en/post/the/) [novel](/en/post/novel/) explores [the](/en/post/the/) [interior](/en/post/interior/) [life](/en/post/life/) [of](/en/post/of/) [its](/en/post/its/) protagonist."
+- **[Noun](/post/noun/)**: [The](/post/the/) [inner](/post/inner/) [part](/post/part/) [or](/post/or/) [inside](/post/inside/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [building](/post/building/) [or](/post/or/) [room](/post/room/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [interior](/post/interior/) [of](/post/of/) [the](/post/the/) [house](/post/house/) was decorated [with](/post/with/) minimalist [style](/post/style/)."
+  - _Geographical sense_: [The](/post/the/) inland parts [of](/post/of/) [a](/post/a/) [country](/post/country/) [or](/post/or/) [region](/post/region/), [distant](/post/distant/) [from](/post/from/) [the](/post/the/) [coast](/post/coast/) [or](/post/or/) borders. "[The](/post/the/) nation's [vast](/post/vast/) [interior](/post/interior/) [remains](/post/remains/) [largely](/post/largely/) unexplored."
+  - _Figurative sense_: [The](/post/the/) [inner](/post/inner/) [or](/post/or/) deeper aspects [of](/post/of/) [a](/post/a/) person's thoughts [or](/post/or/) feelings. "[The](/post/the/) [novel](/post/novel/) explores [the](/post/the/) [interior](/post/interior/) [life](/post/life/) [of](/post/of/) [its](/post/its/) protagonist."
 
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) situated [within](/en/post/within/) [the](/en/post/the/) [inside](/en/post/inside/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [interior](/en/post/interior/) [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [hotel](/en/post/hotel/) was praised [by](/en/post/by/) critics."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) situated [within](/post/within/) [the](/post/the/) [inside](/post/inside/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [interior](/post/interior/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [hotel](/post/hotel/) was praised [by](/post/by/) critics."
 
 ## Phrases
-- "[Interior](/en/post/interior/) [design](/en/post/design/)": [The](/en/post/the/) [art](/en/post/art/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) designing [the](/en/post/the/) decoration, [layout](/en/post/layout/), [and](/en/post/and/) furnishings [of](/en/post/of/) [the](/en/post/the/) [inside](/en/post/inside/) [of](/en/post/of/) [a](/en/post/a/) [building](/en/post/building/).
-- "[Interior](/en/post/interior/) decorating": [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) furnishing [or](/en/post/or/) adorning [the](/en/post/the/) [inside](/en/post/inside/) [of](/en/post/of/) [a](/en/post/a/) [room](/en/post/room/) [or](/en/post/or/) [building](/en/post/building/).
-- "[Interior](/en/post/interior/) [minister](/en/post/minister/)": [A](/en/post/a/) [government](/en/post/government/) [official](/en/post/official/) [responsible](/en/post/responsible/) [for](/en/post/for/) [internal](/en/post/internal/) affairs [or](/en/post/or/) homeland [security](/en/post/security/) [in](/en/post/in/) [a](/en/post/a/) [country](/en/post/country/).
+- "[Interior](/post/interior/) [design](/post/design/)": [The](/post/the/) [art](/post/art/) [or](/post/or/) [process](/post/process/) [of](/post/of/) designing [the](/post/the/) decoration, [layout](/post/layout/), [and](/post/and/) furnishings [of](/post/of/) [the](/post/the/) [inside](/post/inside/) [of](/post/of/) [a](/post/a/) [building](/post/building/).
+- "[Interior](/post/interior/) decorating": [The](/post/the/) [act](/post/act/) [of](/post/of/) furnishing [or](/post/or/) adorning [the](/post/the/) [inside](/post/inside/) [of](/post/of/) [a](/post/a/) [room](/post/room/) [or](/post/or/) [building](/post/building/).
+- "[Interior](/post/interior/) [minister](/post/minister/)": [A](/post/a/) [government](/post/government/) [official](/post/official/) [responsible](/post/responsible/) [for](/post/for/) [internal](/post/internal/) affairs [or](/post/or/) homeland [security](/post/security/) [in](/post/in/) [a](/post/a/) [country](/post/country/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) hired an [expert](/en/post/expert/) [to](/en/post/to/) [handle](/en/post/handle/) [the](/en/post/the/) renovation [of](/en/post/of/) [our](/en/post/our/) home's [interior](/en/post/interior/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [car](/en/post/car/) has [a](/en/post/a/) spacious [and](/en/post/and/) [comfortable](/en/post/comfortable/) [interior](/en/post/interior/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) hired an [expert](/post/expert/) [to](/post/to/) [handle](/post/handle/) [the](/post/the/) renovation [of](/post/of/) [our](/post/our/) home's [interior](/post/interior/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [car](/post/car/) has [a](/post/a/) spacious [and](/post/and/) [comfortable](/post/comfortable/) [interior](/post/interior/)."
 
 ## Synonyms
-- [Inside](/en/post/inside/)
-- [Inner](/en/post/inner/)
+- [Inside](/post/inside/)
+- [Inner](/post/inner/)
 - Innards (informal)
-- [Heart](/en/post/heart/)
-- [Core](/en/post/core/) (figurative)
-- [Inward](/en/post/inward/) ([adjective](/en/post/adjective/)) 
+- [Heart](/post/heart/)
+- [Core](/post/core/) (figurative)
+- [Inward](/post/inward/) ([adjective](/post/adjective/)) 
 
-### [Note](/en/post/note/) [on](/en/post/on/) [Verb](/en/post/verb/) [Usage](/en/post/usage/)
-[While](/en/post/while/) "[interior](/en/post/interior/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) describing nouns related [to](/en/post/to/) [the](/en/post/the/) [inside](/en/post/inside/), [it](/en/post/it/) does [not](/en/post/not/) typically [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [standard](/en/post/standard/) English. [Therefore](/en/post/therefore/), [no](/en/post/no/) examples [of](/en/post/of/) "[interior](/en/post/interior/)" [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) are [provided](/en/post/provided/) [above](/en/post/above/).
+### [Note](/post/note/) [on](/post/on/) [Verb](/post/verb/) [Usage](/post/usage/)
+[While](/post/while/) "[interior](/post/interior/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) describing nouns related [to](/post/to/) [the](/post/the/) [inside](/post/inside/), [it](/post/it/) does [not](/post/not/) typically [function](/post/function/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [standard](/post/standard/) English. [Therefore](/post/therefore/), [no](/post/no/) examples [of](/post/of/) "[interior](/post/interior/)" [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) are [provided](/post/provided/) [above](/post/above/).

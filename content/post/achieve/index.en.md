@@ -7,38 +7,38 @@ description = '[əˈt∫iːv] vt.完成，实现；达到'
 keywords = ['ai words', 'achieve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈθiːv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) accomplishing [or](/en/post/or/) reaching [a](/en/post/a/) [goal](/en/post/goal/); attainment: *[He](/en/post/he/) achieved [great](/en/post/great/) [success](/en/post/success/) [in](/en/post/in/) [his](/en/post/his/) [career](/en/post/career/).*
-2. [A](/en/post/a/) milestone [or](/en/post/or/) accomplishment: *[The](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/) was [a](/en/post/a/) [significant](/en/post/significant/) [achievement](/en/post/achievement/).*
-3. [A](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) [performance](/en/post/performance/) [or](/en/post/or/) [skill](/en/post/skill/): *[Her](/en/post/her/) [musical](/en/post/musical/) achievements are [impressive](/en/post/impressive/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) accomplishing [or](/post/or/) reaching [a](/post/a/) [goal](/post/goal/); attainment: *[He](/post/he/) achieved [great](/post/great/) [success](/post/success/) [in](/post/in/) [his](/post/his/) [career](/post/career/).*
+2. [A](/post/a/) milestone [or](/post/or/) accomplishment: *[The](/post/the/) [new](/post/new/) [project](/post/project/) was [a](/post/a/) [significant](/post/significant/) [achievement](/post/achievement/).*
+3. [A](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) [performance](/post/performance/) [or](/post/or/) [skill](/post/skill/): *[Her](/post/her/) [musical](/post/musical/) achievements are [impressive](/post/impressive/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [reach](/en/post/reach/) [or](/en/post/or/) [attain](/en/post/attain/) ([a](/en/post/a/) [goal](/en/post/goal/), [standard](/en/post/standard/), [or](/en/post/or/) [position](/en/post/position/)): *[She](/en/post/she/) achieved [her](/en/post/her/) [dream](/en/post/dream/) [of](/en/post/of/) becoming [a](/en/post/a/) [doctor](/en/post/doctor/).*
-2. [To](/en/post/to/) [bring](/en/post/bring/) [about](/en/post/about/) [or](/en/post/or/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/): *[Their](/en/post/their/) [hard](/en/post/hard/) [work](/en/post/work/) helped [to](/en/post/to/) [achieve](/en/post/achieve/) [the](/en/post/the/) desired [outcome](/en/post/outcome/).*
-3. [To](/en/post/to/) [earn](/en/post/earn/) [or](/en/post/or/) [gain](/en/post/gain/) ([a](/en/post/a/) [title](/en/post/title/), [award](/en/post/award/), etc.): *[He](/en/post/he/) achieved [the](/en/post/the/) [title](/en/post/title/) [of](/en/post/of/) Olympic [gold](/en/post/gold/) medalist.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [reach](/post/reach/) [or](/post/or/) [attain](/post/attain/) ([a](/post/a/) [goal](/post/goal/), [standard](/post/standard/), [or](/post/or/) [position](/post/position/)): *[She](/post/she/) achieved [her](/post/her/) [dream](/post/dream/) [of](/post/of/) becoming [a](/post/a/) [doctor](/post/doctor/).*
+2. [To](/post/to/) [bring](/post/bring/) [about](/post/about/) [or](/post/or/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [happen](/post/happen/): *[Their](/post/their/) [hard](/post/hard/) [work](/post/work/) helped [to](/post/to/) [achieve](/post/achieve/) [the](/post/the/) desired [outcome](/post/outcome/).*
+3. [To](/post/to/) [earn](/post/earn/) [or](/post/or/) [gain](/post/gain/) ([a](/post/a/) [title](/post/title/), [award](/post/award/), etc.): *[He](/post/he/) achieved [the](/post/the/) [title](/post/title/) [of](/post/of/) Olympic [gold](/post/gold/) medalist.*
 
 ## Phrases
-- "[Achieve](/en/post/achieve/) one's objectives"
-- "[Achieve](/en/post/achieve/) excellence"
-- "[Achieve](/en/post/achieve/) [a](/en/post/a/) [balance](/en/post/balance/)"
-- "[Achieve](/en/post/achieve/) [recognition](/en/post/recognition/)"
-- "[Set](/en/post/set/) [and](/en/post/and/) [achieve](/en/post/achieve/) goals"
+- "[Achieve](/post/achieve/) one's objectives"
+- "[Achieve](/post/achieve/) excellence"
+- "[Achieve](/post/achieve/) [a](/post/a/) [balance](/post/balance/)"
+- "[Achieve](/post/achieve/) [recognition](/post/recognition/)"
+- "[Set](/post/set/) [and](/post/and/) [achieve](/post/achieve/) goals"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) years [of](/en/post/of/) [study](/en/post/study/), [he](/en/post/he/) [finally](/en/post/finally/) achieved [his](/en/post/his/) PhD."
-- **[Verb](/en/post/verb/)**: "[Through](/en/post/through/) perseverance, [she](/en/post/she/) achieved [her](/en/post/her/) lifelong [dream](/en/post/dream/) [of](/en/post/of/) becoming [a](/en/post/a/) published [author](/en/post/author/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [team](/en/post/team/) worked tirelessly [to](/en/post/to/) [achieve](/en/post/achieve/) [their](/en/post/their/) sales [target](/en/post/target/) [for](/en/post/for/) [the](/en/post/the/) [quarter](/en/post/quarter/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) years [of](/post/of/) [study](/post/study/), [he](/post/he/) [finally](/post/finally/) achieved [his](/post/his/) PhD."
+- **[Verb](/post/verb/)**: "[Through](/post/through/) perseverance, [she](/post/she/) achieved [her](/post/her/) lifelong [dream](/post/dream/) [of](/post/of/) becoming [a](/post/a/) published [author](/post/author/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [team](/post/team/) worked tirelessly [to](/post/to/) [achieve](/post/achieve/) [their](/post/their/) sales [target](/post/target/) [for](/post/for/) [the](/post/the/) [quarter](/post/quarter/)."
 
 ## Synonyms
-- [Obtain](/en/post/obtain/)
-- [Realize](/en/post/realize/)
-- [Attain](/en/post/attain/)
-- [Secure](/en/post/secure/)
+- [Obtain](/post/obtain/)
+- [Realize](/post/realize/)
+- [Attain](/post/attain/)
+- [Secure](/post/secure/)
 - Fulfill
-- [Earn](/en/post/earn/)
-- [Complete](/en/post/complete/)
-- [Reach](/en/post/reach/)
+- [Earn](/post/earn/)
+- [Complete](/post/complete/)
+- [Reach](/post/reach/)

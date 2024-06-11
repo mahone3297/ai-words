@@ -11,21 +11,21 @@ keywords = ['ai words', 'investigation']
 /ɪnˈveɪʃən/
 
 ## 释义
-- **名词**: 调查，探究，研究。例如: "[The](/post/the/) [police](/post/police/) launched an [investigation](/post/investigation/) [into](/post/into/) [the](/post/the/) theft."
-- **动词**: 进行调查，研究。例如: "[They](/post/they/) are investigating [the](/post/the/) [cause](/post/cause/) [of](/post/of/) [the](/post/the/) [accident](/post/accident/)."
+- **名词**: 调查，探究，研究。例如: "[The](/zh/post/the/) [police](/zh/post/police/) launched an [investigation](/zh/post/investigation/) [into](/zh/post/into/) [the](/zh/post/the/) theft."
+- **动词**: 进行调查，研究。例如: "[They](/zh/post/they/) are investigating [the](/zh/post/the/) [cause](/zh/post/cause/) [of](/zh/post/of/) [the](/zh/post/the/) [accident](/zh/post/accident/)."
 
 ## 短语
-- "[criminal](/post/criminal/) [investigation](/post/investigation/)" 刑事调查
-- "[scientific](/post/scientific/) [investigation](/post/investigation/)" 科学研究
-- "[to](/post/to/) [investigate](/post/investigate/) [a](/post/a/) [problem](/post/problem/)" 研究问题
+- "[criminal](/zh/post/criminal/) [investigation](/zh/post/investigation/)" 刑事调查
+- "[scientific](/zh/post/scientific/) [investigation](/zh/post/investigation/)" 科学研究
+- "[to](/zh/post/to/) [investigate](/zh/post/investigate/) [a](/zh/post/a/) [problem](/zh/post/problem/)" 研究问题
 
 ## 例句
-- 名词: "[The](/post/the/) [company](/post/company/) is conducting an [internal](/post/internal/) [investigation](/post/investigation/) [into](/post/into/) [the](/post/the/) accounting irregularities."
-- 动词: "[The](/post/the/) [journalist](/post/journalist/) decided [to](/post/to/) [investigate](/post/investigate/) [the](/post/the/) rumors surrounding [the](/post/the/) [politician](/post/politician/)."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) is conducting an [internal](/zh/post/internal/) [investigation](/zh/post/investigation/) [into](/zh/post/into/) [the](/zh/post/the/) accounting irregularities."
+- 动词: "[The](/zh/post/the/) [journalist](/zh/post/journalist/) decided [to](/zh/post/to/) [investigate](/zh/post/investigate/) [the](/zh/post/the/) rumors surrounding [the](/zh/post/the/) [politician](/zh/post/politician/)."
 
 ## 同义词
-- [inquiry](/post/inquiry/)
+- [inquiry](/zh/post/inquiry/)
 - probe
-- [examination](/post/examination/)
+- [examination](/zh/post/examination/)
 - scrutiny
-- [research](/post/research/)
+- [research](/zh/post/research/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'cheat']
 /ʧiːt/
 
 ## 释义
-- **名词**: 不诚实的行为；欺骗。例如: "[He](/post/he/) was caught [in](/post/in/) [a](/post/a/) cheating scandal."
-- **动词**: 欺骗，作弊。例如: "[She](/post/she/) cheated [on](/post/on/) [the](/post/the/) [exam](/post/exam/) [by](/post/by/) looking [at](/post/at/) [her](/post/her/) neighbor's [paper](/post/paper/)."
+- **名词**: 不诚实的行为；欺骗。例如: "[He](/zh/post/he/) was caught [in](/zh/post/in/) [a](/zh/post/a/) cheating scandal."
+- **动词**: 欺骗，作弊。例如: "[She](/zh/post/she/) cheated [on](/zh/post/on/) [the](/zh/post/the/) [exam](/zh/post/exam/) [by](/zh/post/by/) looking [at](/zh/post/at/) [her](/zh/post/her/) neighbor's [paper](/zh/post/paper/)."
 
 ## 短语
-- "Cheating [someone](/post/someone/) [out](/post/out/) [of](/post/of/) [something](/post/something/)" 意为骗取某人的某物。
-- "[To](/post/to/) [cheat](/post/cheat/) [on](/post/on/) [someone](/post/someone/)" 指在感情关系中不忠。
+- "Cheating [someone](/zh/post/someone/) [out](/zh/post/out/) [of](/zh/post/of/) [something](/zh/post/something/)" 意为骗取某人的某物。
+- "[To](/zh/post/to/) [cheat](/zh/post/cheat/) [on](/zh/post/on/) [someone](/zh/post/someone/)" 指在感情关系中不忠。
 
 ## 例句
-- 名词: "[The](/post/the/) [athlete](/post/athlete/) was disqualified [for](/post/for/) using performance-enhancing drugs, [which](/post/which/) was considered cheating."
-- 动词: "[He](/post/he/) felt [guilty](/post/guilty/) [for](/post/for/) cheating [his](/post/his/) [friend](/post/friend/) [in](/post/in/) [the](/post/the/) [business](/post/business/) [deal](/post/deal/)."
+- 名词: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) was disqualified [for](/zh/post/for/) using performance-enhancing drugs, [which](/zh/post/which/) was considered cheating."
+- 动词: "[He](/zh/post/he/) felt [guilty](/zh/post/guilty/) [for](/zh/post/for/) cheating [his](/zh/post/his/) [friend](/zh/post/friend/) [in](/zh/post/in/) [the](/zh/post/the/) [business](/zh/post/business/) [deal](/zh/post/deal/)."
 
 ## 同义词
-- [Deceive](/post/deceive/)
-- [Trick](/post/trick/)
-- [Fool](/post/fool/)
+- [Deceive](/zh/post/deceive/)
+- [Trick](/zh/post/trick/)
+- [Fool](/zh/post/fool/)
 - Swindle
 - Defraud

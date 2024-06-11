@@ -7,35 +7,35 @@ description = '[niːd] vt.需要 v.aux.需要'
 keywords = ['ai words', 'need']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /niːd/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [requirement](/en/post/requirement/) [or](/en/post/or/) [necessity](/en/post/necessity/); [something](/en/post/something/) [that](/en/post/that/) is [essential](/en/post/essential/) [or](/en/post/or/) wanted. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) has [a](/en/post/a/) [great](/en/post/great/) [need](/en/post/need/) [for](/en/post/for/) [skilled](/en/post/skilled/) programmers."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [require](/en/post/require/) [or](/en/post/or/) [feel](/en/post/feel/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) implying it's [essential](/en/post/essential/) [or](/en/post/or/) [desirable](/en/post/desirable/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) needs [a](/en/post/a/) [vacation](/en/post/vacation/) [to](/en/post/to/) recharge [her](/en/post/her/) batteries."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [duty](/en/post/duty/) [or](/en/post/or/) [responsibility](/en/post/responsibility/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [finish](/en/post/finish/) [this](/en/post/this/) [project](/en/post/project/) [by](/en/post/by/) [tomorrow](/en/post/tomorrow/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [want](/en/post/want/) [or](/en/post/or/) [desire](/en/post/desire/) [something](/en/post/something/), [sometimes](/en/post/sometimes/) suggesting [a](/en/post/a/) [lack](/en/post/lack/) [without](/en/post/without/) [which](/en/post/which/) [one](/en/post/one/) cannot [continue](/en/post/continue/) [or](/en/post/or/) [be](/en/post/be/) satisfied. [For](/en/post/for/) [example](/en/post/example/): "I [really](/en/post/really/) [need](/en/post/need/) [a](/en/post/a/) [cup](/en/post/cup/) [of](/en/post/of/) [coffee](/en/post/coffee/) [before](/en/post/before/) I [start](/en/post/start/) [work](/en/post/work/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [requirement](/post/requirement/) [or](/post/or/) [necessity](/post/necessity/); [something](/post/something/) [that](/post/that/) is [essential](/post/essential/) [or](/post/or/) wanted. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) has [a](/post/a/) [great](/post/great/) [need](/post/need/) [for](/post/for/) [skilled](/post/skilled/) programmers."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [require](/post/require/) [or](/post/or/) [feel](/post/feel/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [something](/post/something/), [often](/post/often/) implying it's [essential](/post/essential/) [or](/post/or/) [desirable](/post/desirable/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) needs [a](/post/a/) [vacation](/post/vacation/) [to](/post/to/) recharge [her](/post/her/) batteries."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [duty](/post/duty/) [or](/post/or/) [responsibility](/post/responsibility/) [to](/post/to/) [do](/post/do/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [finish](/post/finish/) [this](/post/this/) [project](/post/project/) [by](/post/by/) [tomorrow](/post/tomorrow/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [want](/post/want/) [or](/post/or/) [desire](/post/desire/) [something](/post/something/), [sometimes](/post/sometimes/) suggesting [a](/post/a/) [lack](/post/lack/) [without](/post/without/) [which](/post/which/) [one](/post/one/) cannot [continue](/post/continue/) [or](/post/or/) [be](/post/be/) satisfied. [For](/post/for/) [example](/post/example/): "I [really](/post/really/) [need](/post/need/) [a](/post/a/) [cup](/post/cup/) [of](/post/of/) [coffee](/post/coffee/) [before](/post/before/) I [start](/post/start/) [work](/post/work/)."
 
 ## Phrases
-- "[In](/en/post/in/) [need](/en/post/need/) [of](/en/post/of/)" indicates [a](/en/post/a/) deficiency [or](/en/post/or/) [requirement](/en/post/requirement/) [for](/en/post/for/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) is [in](/en/post/in/) [need](/en/post/need/) [of](/en/post/of/) [repair](/en/post/repair/)."
-- "[There](/en/post/there/) is [no](/en/post/no/) [need](/en/post/need/)" implies [that](/en/post/that/) [something](/en/post/something/) isn't [necessary](/en/post/necessary/) [or](/en/post/or/) required. [For](/en/post/for/) [example](/en/post/example/): "There's [no](/en/post/no/) [need](/en/post/need/) [to](/en/post/to/) [rush](/en/post/rush/); [we](/en/post/we/) [have](/en/post/have/) [plenty](/en/post/plenty/) [of](/en/post/of/) [time](/en/post/time/)."
-- "[If](/en/post/if/) [need](/en/post/need/) [be](/en/post/be/)" suggests [that](/en/post/that/) [something](/en/post/something/) [may](/en/post/may/) [be](/en/post/be/) [necessary](/en/post/necessary/) [or](/en/post/or/) done [if](/en/post/if/) required. [For](/en/post/for/) [example](/en/post/example/): "I'll [stay](/en/post/stay/) [late](/en/post/late/) [at](/en/post/at/) [work](/en/post/work/) [if](/en/post/if/) [need](/en/post/need/) [be](/en/post/be/)."
+- "[In](/post/in/) [need](/post/need/) [of](/post/of/)" indicates [a](/post/a/) deficiency [or](/post/or/) [requirement](/post/requirement/) [for](/post/for/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [house](/post/house/) is [in](/post/in/) [need](/post/need/) [of](/post/of/) [repair](/post/repair/)."
+- "[There](/post/there/) is [no](/post/no/) [need](/post/need/)" implies [that](/post/that/) [something](/post/something/) isn't [necessary](/post/necessary/) [or](/post/or/) required. [For](/post/for/) [example](/post/example/): "There's [no](/post/no/) [need](/post/need/) [to](/post/to/) [rush](/post/rush/); [we](/post/we/) [have](/post/have/) [plenty](/post/plenty/) [of](/post/of/) [time](/post/time/)."
+- "[If](/post/if/) [need](/post/need/) [be](/post/be/)" suggests [that](/post/that/) [something](/post/something/) [may](/post/may/) [be](/post/be/) [necessary](/post/necessary/) [or](/post/or/) done [if](/post/if/) required. [For](/post/for/) [example](/post/example/): "I'll [stay](/post/stay/) [late](/post/late/) [at](/post/at/) [work](/post/work/) [if](/post/if/) [need](/post/need/) [be](/post/be/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Food](/en/post/food/), [water](/en/post/water/), [and](/en/post/and/) [shelter](/en/post/shelter/) are [basic](/en/post/basic/) [human](/en/post/human/) needs."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) needed [help](/en/post/help/) [with](/en/post/with/) [their](/en/post/their/) homework."
-- **[Verb](/en/post/verb/)**: "It's [important](/en/post/important/) [that](/en/post/that/) [we](/en/post/we/) [understand](/en/post/understand/) [what](/en/post/what/) [our](/en/post/our/) customers [truly](/en/post/truly/) [need](/en/post/need/)."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [store](/en/post/store/) [before](/en/post/before/) [it](/en/post/it/) closes."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Food](/post/food/), [water](/post/water/), [and](/post/and/) [shelter](/post/shelter/) are [basic](/post/basic/) [human](/post/human/) needs."
+- **[Verb](/post/verb/)**: "[They](/post/they/) needed [help](/post/help/) [with](/post/with/) [their](/post/their/) homework."
+- **[Verb](/post/verb/)**: "It's [important](/post/important/) [that](/post/that/) [we](/post/we/) [understand](/post/understand/) [what](/post/what/) [our](/post/our/) customers [truly](/post/truly/) [need](/post/need/)."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [store](/post/store/) [before](/post/before/) [it](/post/it/) closes."
 
 ## Synonyms
-- [Necessity](/en/post/necessity/)
-- [Requirement](/en/post/requirement/)
-- Obligation ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
-- [Require](/en/post/require/)
-- [Demand](/en/post/demand/)
-- [Lack](/en/post/lack/)
-- [Want](/en/post/want/)
-- Yearn [for](/en/post/for/)
-- [Desire](/en/post/desire/)
+- [Necessity](/post/necessity/)
+- [Requirement](/post/requirement/)
+- Obligation ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))
+- [Require](/post/require/)
+- [Demand](/post/demand/)
+- [Lack](/post/lack/)
+- [Want](/post/want/)
+- Yearn [for](/post/for/)
+- [Desire](/post/desire/)
 
-[For](/en/post/for/) verbs related [to](/en/post/to/) '[need](/en/post/need/)', depending [on](/en/post/on/) context, synonyms [might](/en/post/might/) [include](/en/post/include/) '[must](/en/post/must/)', '[ought](/en/post/ought/) [to](/en/post/to/)', '[should](/en/post/should/)', '[have](/en/post/have/) [to](/en/post/to/)'.
+[For](/post/for/) verbs related [to](/post/to/) '[need](/post/need/)', depending [on](/post/on/) context, synonyms [might](/post/might/) [include](/post/include/) '[must](/post/must/)', '[ought](/post/ought/) [to](/post/to/)', '[should](/post/should/)', '[have](/post/have/) [to](/post/to/)'.

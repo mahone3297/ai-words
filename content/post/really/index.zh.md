@@ -11,19 +11,19 @@ keywords = ['ai words', 'really']
 /ˈriːəli/
 
 ## 释义
-- **副词**: 真正地，实际上，确实。例如: "I [really](/post/really/) enjoyed [the](/post/the/) [movie](/post/movie/)." (我真的很喜欢这部电影。)
-- **副词**: 很，非常。例如: "[She](/post/she/) was [really](/post/really/) [happy](/post/happy/) [about](/post/about/) [the](/post/the/) [news](/post/news/)." (她对这个消息非常高兴。)
+- **副词**: 真正地，实际上，确实。例如: "I [really](/zh/post/really/) enjoyed [the](/zh/post/the/) [movie](/zh/post/movie/)." (我真的很喜欢这部电影。)
+- **副词**: 很，非常。例如: "[She](/zh/post/she/) was [really](/zh/post/really/) [happy](/zh/post/happy/) [about](/zh/post/about/) [the](/zh/post/the/) [news](/zh/post/news/)." (她对这个消息非常高兴。)
 
 ## 短语
-- "[really](/post/really/) [well](/post/well/)" 表示非常好，例如: "[She](/post/she/) did [really](/post/really/) [well](/post/well/) [on](/post/on/) [her](/post/her/) [exam](/post/exam/)." (她在考试中表现非常好。)
+- "[really](/zh/post/really/) [well](/zh/post/well/)" 表示非常好，例如: "[She](/zh/post/she/) did [really](/zh/post/really/) [well](/zh/post/well/) [on](/zh/post/on/) [her](/zh/post/her/) [exam](/zh/post/exam/)." (她在考试中表现非常好。)
 
 ## 例句
-- "[Do](/post/do/) [you](/post/you/) [really](/post/really/) [think](/post/think/) that's [a](/post/a/) [good](/post/good/) [idea](/post/idea/)?" (你真的认为那是个好主意吗？)
-- "I'm [really](/post/really/) looking [forward](/post/forward/) [to](/post/to/) [the](/post/the/) [weekend](/post/weekend/)." (我非常期待周末的到来。)
+- "[Do](/zh/post/do/) [you](/zh/post/you/) [really](/zh/post/really/) [think](/zh/post/think/) that's [a](/zh/post/a/) [good](/zh/post/good/) [idea](/zh/post/idea/)?" (你真的认为那是个好主意吗？)
+- "I'm [really](/zh/post/really/) looking [forward](/zh/post/forward/) [to](/zh/post/to/) [the](/zh/post/the/) [weekend](/zh/post/weekend/)." (我非常期待周末的到来。)
 
 ## 同义词
-- [truly](/post/truly/)
-- [actually](/post/actually/)
+- [truly](/zh/post/truly/)
+- [actually](/zh/post/actually/)
 - genuinely
 - sincerely
 - utterly

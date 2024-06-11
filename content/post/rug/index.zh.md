@@ -11,20 +11,20 @@ keywords = ['ai words', 'rug']
 /ˈrʌɡ/
 
 ## 释义
-- **名词**: 地毯，小毯子。一种铺在地板上的软垫织物，通常用于装饰或保暖。例如: "[She](/post/she/) carefully chose [a](/post/a/) Persian [rug](/post/rug/) [for](/post/for/) [her](/post/her/) [living](/post/living/) [room](/post/room/)."
-- **动词**: （非标准用法）拖拉，拽。例如: "[The](/post/the/) [child](/post/child/) ruged [the](/post/the/) [heavy](/post/heavy/) [box](/post/box/) [across](/post/across/) [the](/post/the/) [floor](/post/floor/)."
+- **名词**: 地毯，小毯子。一种铺在地板上的软垫织物，通常用于装饰或保暖。例如: "[She](/zh/post/she/) carefully chose [a](/zh/post/a/) Persian [rug](/zh/post/rug/) [for](/zh/post/for/) [her](/zh/post/her/) [living](/zh/post/living/) [room](/zh/post/room/)."
+- **动词**: （非标准用法）拖拉，拽。例如: "[The](/zh/post/the/) [child](/zh/post/child/) ruged [the](/zh/post/the/) [heavy](/zh/post/heavy/) [box](/zh/post/box/) [across](/zh/post/across/) [the](/zh/post/the/) [floor](/zh/post/floor/)."
 
 ## 短语
-- "[Throw](/post/throw/) [a](/post/a/) [rug](/post/rug/) [over](/post/over/)" 意味着把毯子覆盖在某物上。
-- "[Area](/post/area/) [rug](/post/rug/)" 指的是只覆盖部分区域的地毯，不同于全房间的地毯。
+- "[Throw](/zh/post/throw/) [a](/zh/post/a/) [rug](/zh/post/rug/) [over](/zh/post/over/)" 意味着把毯子覆盖在某物上。
+- "[Area](/zh/post/area/) [rug](/zh/post/rug/)" 指的是只覆盖部分区域的地毯，不同于全房间的地毯。
 
 ## 例句
-- 名词: "[The](/post/the/) [oriental](/post/oriental/) [rug](/post/rug/) added [a](/post/a/) [touch](/post/touch/) [of](/post/of/) elegance [to](/post/to/) [the](/post/the/) [room](/post/room/)."
-- 动词: "[He](/post/he/) ruged [the](/post/the/) sofa [to](/post/to/) [move](/post/move/) [it](/post/it/) [across](/post/across/) [the](/post/the/) [room](/post/room/)."
+- 名词: "[The](/zh/post/the/) [oriental](/zh/post/oriental/) [rug](/zh/post/rug/) added [a](/zh/post/a/) [touch](/zh/post/touch/) [of](/zh/post/of/) elegance [to](/zh/post/to/) [the](/zh/post/the/) [room](/zh/post/room/)."
+- 动词: "[He](/zh/post/he/) ruged [the](/zh/post/the/) sofa [to](/zh/post/to/) [move](/zh/post/move/) [it](/zh/post/it/) [across](/zh/post/across/) [the](/zh/post/the/) [room](/zh/post/room/)."
 
 ## 同义词
-- [Carpet](/post/carpet/)
-- [Mat](/post/mat/)
+- [Carpet](/zh/post/carpet/)
+- [Mat](/zh/post/mat/)
 - Tapestry
-- [Throw](/post/throw/)
-- [Blanket](/post/blanket/)
+- [Throw](/zh/post/throw/)
+- [Blanket](/zh/post/blanket/)

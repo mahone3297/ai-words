@@ -7,36 +7,36 @@ description = '[bəun] n.骨，骨骼'
 keywords = ['ai words', 'bone']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bəʊn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [hard](/en/post/hard/), [usually](/en/post/usually/) calcified [tissue](/en/post/tissue/) [found](/en/post/found/) [in](/en/post/in/) [the](/en/post/the/) [body](/en/post/body/) [of](/en/post/of/) animals, supporting [and](/en/post/and/) protecting [internal](/en/post/internal/) organs. 2. [A](/en/post/a/) skeletal [structure](/en/post/structure/) [or](/en/post/or/) [framework](/en/post/framework/), [especially](/en/post/especially/) [of](/en/post/of/) [a](/en/post/a/) person's [body](/en/post/body/). 3. (informal) [A](/en/post/a/) person's [character](/en/post/character/) [or](/en/post/or/) personality. 4. (slang) An [essential](/en/post/essential/) [part](/en/post/part/) [or](/en/post/or/) [component](/en/post/component/); [a](/en/post/a/) crucial [element](/en/post/element/). 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [support](/en/post/support/) [or](/en/post/or/) [hold](/en/post/hold/) [together](/en/post/together/) [with](/en/post/with/) bones. [To](/en/post/to/) extract [or](/en/post/or/) [find](/en/post/find/) [a](/en/post/a/) [bone](/en/post/bone/) ([as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [meal](/en/post/meal/)). 3. (figurative) [To](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) [the](/en/post/the/) [basis](/en/post/basis/) [or](/en/post/or/) [foundation](/en/post/foundation/) [for](/en/post/for/) [something](/en/post/something/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [hard](/post/hard/), [usually](/post/usually/) calcified [tissue](/post/tissue/) [found](/post/found/) [in](/post/in/) [the](/post/the/) [body](/post/body/) [of](/post/of/) animals, supporting [and](/post/and/) protecting [internal](/post/internal/) organs. 2. [A](/post/a/) skeletal [structure](/post/structure/) [or](/post/or/) [framework](/post/framework/), [especially](/post/especially/) [of](/post/of/) [a](/post/a/) person's [body](/post/body/). 3. (informal) [A](/post/a/) person's [character](/post/character/) [or](/post/or/) personality. 4. (slang) An [essential](/post/essential/) [part](/post/part/) [or](/post/or/) [component](/post/component/); [a](/post/a/) crucial [element](/post/element/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [support](/post/support/) [or](/post/or/) [hold](/post/hold/) [together](/post/together/) [with](/post/with/) bones. [To](/post/to/) extract [or](/post/or/) [find](/post/find/) [a](/post/a/) [bone](/post/bone/) ([as](/post/as/) [in](/post/in/) [a](/post/a/) [meal](/post/meal/)). 3. (figurative) [To](/post/to/) [serve](/post/serve/) [as](/post/as/) [the](/post/the/) [basis](/post/basis/) [or](/post/or/) [foundation](/post/foundation/) [for](/post/for/) [something](/post/something/).
 
 ## Phrases
-- "[Keep](/en/post/keep/) [your](/en/post/your/) bones [strong](/en/post/strong/)" [means](/en/post/means/) [maintain](/en/post/maintain/) [good](/en/post/good/) [bone](/en/post/bone/) [health](/en/post/health/).
-- "[A](/en/post/a/) [broken](/en/post/broken/) [bone](/en/post/bone/)" refers [to](/en/post/to/) [a](/en/post/a/) fractured [bone](/en/post/bone/).
-- "[Grow](/en/post/grow/) [like](/en/post/like/) [a](/en/post/a/) [weed](/en/post/weed/) [on](/en/post/on/) calcium [and](/en/post/and/) [bone](/en/post/bone/)" is [a](/en/post/a/) metaphor [for](/en/post/for/) [rapid](/en/post/rapid/) [growth](/en/post/growth/).
+- "[Keep](/post/keep/) [your](/post/your/) bones [strong](/post/strong/)" [means](/post/means/) [maintain](/post/maintain/) [good](/post/good/) [bone](/post/bone/) [health](/post/health/).
+- "[A](/post/a/) [broken](/post/broken/) [bone](/post/bone/)" refers [to](/post/to/) [a](/post/a/) fractured [bone](/post/bone/).
+- "[Grow](/post/grow/) [like](/post/like/) [a](/post/a/) [weed](/post/weed/) [on](/post/on/) calcium [and](/post/and/) [bone](/post/bone/)" is [a](/post/a/) metaphor [for](/post/for/) [rapid](/post/rapid/) [growth](/post/growth/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) examined [her](/en/post/her/) [arm](/en/post/arm/), examining [the](/en/post/the/) [broken](/en/post/broken/) [bone](/en/post/bone/) carefully."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) tree's roots [hold](/en/post/hold/) [the](/en/post/the/) [mountain](/en/post/mountain/) bone-tight [to](/en/post/to/) [the](/en/post/the/) [earth](/en/post/earth/)."
-- **Figurative**: "[His](/en/post/his/) ideas [form](/en/post/form/) [the](/en/post/the/) backbone [of](/en/post/of/) [our](/en/post/our/) marketing [strategy](/en/post/strategy/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [doctor](/post/doctor/) examined [her](/post/her/) [arm](/post/arm/), examining [the](/post/the/) [broken](/post/broken/) [bone](/post/bone/) carefully."
+- **[Verb](/post/verb/)**: "[The](/post/the/) tree's roots [hold](/post/hold/) [the](/post/the/) [mountain](/post/mountain/) bone-tight [to](/post/to/) [the](/post/the/) [earth](/post/earth/)."
+- **Figurative**: "[His](/post/his/) ideas [form](/post/form/) [the](/post/the/) backbone [of](/post/of/) [our](/post/our/) marketing [strategy](/post/strategy/)."
 
 ## Synonyms
 - Skeleton
 - Ribs
-- [Frame](/en/post/frame/)
-- [Structure](/en/post/structure/)
+- [Frame](/post/frame/)
+- [Structure](/post/structure/)
 - Pivot
-- [Foundation](/en/post/foundation/)
-- [Support](/en/post/support/)
-- [Core](/en/post/core/)
+- [Foundation](/post/foundation/)
+- [Support](/post/support/)
+- [Core](/post/core/)
 
 ## Antonyms
-- [Soft](/en/post/soft/) [tissue](/en/post/tissue/)
-- [Weakness](/en/post/weakness/)
+- [Soft](/post/soft/) [tissue](/post/tissue/)
+- [Weakness](/post/weakness/)
 - Fragility
-- [Lack](/en/post/lack/) [of](/en/post/of/) [support](/en/post/support/)
+- [Lack](/post/lack/) [of](/post/of/) [support](/post/support/)
 - Unstructured

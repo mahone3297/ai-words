@@ -11,20 +11,20 @@ keywords = ['ai words', 'contradiction']
 /ˌkɒntrəˈdɪkʃən/
 
 ## 释义
-- **名词**: 相矛盾；不一致；反驳。例如: "[There](/post/there/) is [a](/post/a/) [contradiction](/post/contradiction/) [between](/post/between/) [his](/post/his/) words [and](/post/and/) actions."
-- **动词**: 与…相矛盾；反驳。例如: "[Her](/post/her/) [statement](/post/statement/) contradicts [what](/post/what/) [she](/post/she/) said earlier."
+- **名词**: 相矛盾；不一致；反驳。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [contradiction](/zh/post/contradiction/) [between](/zh/post/between/) [his](/zh/post/his/) words [and](/zh/post/and/) actions."
+- **动词**: 与…相矛盾；反驳。例如: "[Her](/zh/post/her/) [statement](/zh/post/statement/) contradicts [what](/zh/post/what/) [she](/zh/post/she/) said earlier."
 
 ## 短语
 - "Self-contradiction" 指自我矛盾的情况。
-- "Contradict [each](/post/each/) [other](/post/other/)" 意味着两个或多个观点相互冲突。
+- "Contradict [each](/zh/post/each/) [other](/zh/post/other/)" 意味着两个或多个观点相互冲突。
 
 ## 例句
-- 名词: "[The](/post/the/) [report](/post/report/) contains [several](/post/several/) contradictions [that](/post/that/) [need](/post/need/) [to](/post/to/) [be](/post/be/) resolved."
-- 动词: "[His](/post/his/) [new](/post/new/) [theory](/post/theory/) contradicts established [scientific](/post/scientific/) principles."
+- 名词: "[The](/zh/post/the/) [report](/zh/post/report/) contains [several](/zh/post/several/) contradictions [that](/zh/post/that/) [need](/zh/post/need/) [to](/zh/post/to/) [be](/zh/post/be/) resolved."
+- 动词: "[His](/zh/post/his/) [new](/zh/post/new/) [theory](/zh/post/theory/) contradicts established [scientific](/zh/post/scientific/) principles."
 
 ## 同义词
 - Inconsistency
 - Disagreement
-- [Conflict](/post/conflict/)
+- [Conflict](/zh/post/conflict/)
 - Contrariety
 - Oppositeness

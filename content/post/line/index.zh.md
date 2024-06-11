@@ -12,33 +12,33 @@ keywords = ['ai words', 'line']
 
 ## 释义
 - **名词**:
-  - 1. 直线，如数学中的线。例如: "[The](/post/the/) [line](/post/line/) [on](/post/on/) [the](/post/the/) [graph](/post/graph/) represents sales [over](/post/over/) [time](/post/time/)."
-  - 2. 排队，行列。例如: "There's [a](/post/a/) [long](/post/long/) [line](/post/line/) [of](/post/of/) [people](/post/people/) waiting [for](/post/for/) tickets."
-  - 3. 电话线路或通话。例如: "[Can](/post/can/) [you](/post/you/) [hold](/post/hold/) [the](/post/the/) [line](/post/line/) [for](/post/for/) [a](/post/a/) [moment](/post/moment/)?"
-  - 4. 行业，领域。例如: "[She](/post/she/) works [in](/post/in/) [the](/post/the/) [fashion](/post/fashion/) [line](/post/line/)."
-  - 5. 阵线，队伍。例如: "[The](/post/the/) [two](/post/two/) teams stood [in](/post/in/) [their](/post/their/) [respective](/post/respective/) lines [before](/post/before/) [the](/post/the/) [match](/post/match/)."
+  - 1. 直线，如数学中的线。例如: "[The](/zh/post/the/) [line](/zh/post/line/) [on](/zh/post/on/) [the](/zh/post/the/) [graph](/zh/post/graph/) represents sales [over](/zh/post/over/) [time](/zh/post/time/)."
+  - 2. 排队，行列。例如: "There's [a](/zh/post/a/) [long](/zh/post/long/) [line](/zh/post/line/) [of](/zh/post/of/) [people](/zh/post/people/) waiting [for](/zh/post/for/) tickets."
+  - 3. 电话线路或通话。例如: "[Can](/zh/post/can/) [you](/zh/post/you/) [hold](/zh/post/hold/) [the](/zh/post/the/) [line](/zh/post/line/) [for](/zh/post/for/) [a](/zh/post/a/) [moment](/zh/post/moment/)?"
+  - 4. 行业，领域。例如: "[She](/zh/post/she/) works [in](/zh/post/in/) [the](/zh/post/the/) [fashion](/zh/post/fashion/) [line](/zh/post/line/)."
+  - 5. 阵线，队伍。例如: "[The](/zh/post/the/) [two](/zh/post/two/) teams stood [in](/zh/post/in/) [their](/zh/post/their/) [respective](/zh/post/respective/) lines [before](/zh/post/before/) [the](/zh/post/the/) [match](/zh/post/match/)."
 
 - **动词**:
-  - 1. 排成行。例如: "[The](/post/the/) students lined [up](/post/up/) [outside](/post/outside/) [the](/post/the/) [classroom](/post/classroom/)."
-  - 2. 沿着...画线。例如: "[He](/post/he/) lined [the](/post/the/) edges [of](/post/of/) [the](/post/the/) [page](/post/page/) [with](/post/with/) [a](/post/a/) [ruler](/post/ruler/)."
-  - 3. 填充，布置。例如: "[The](/post/the/) shelves were lined [with](/post/with/) books."
+  - 1. 排成行。例如: "[The](/zh/post/the/) students lined [up](/zh/post/up/) [outside](/zh/post/outside/) [the](/zh/post/the/) [classroom](/zh/post/classroom/)."
+  - 2. 沿着...画线。例如: "[He](/zh/post/he/) lined [the](/zh/post/the/) edges [of](/zh/post/of/) [the](/zh/post/the/) [page](/zh/post/page/) [with](/zh/post/with/) [a](/zh/post/a/) [ruler](/zh/post/ruler/)."
+  - 3. 填充，布置。例如: "[The](/zh/post/the/) shelves were lined [with](/zh/post/with/) books."
 
 - **形容词**:
-  - 1. 系列的，成行的。例如: "[The](/post/the/) [company](/post/company/) offers [a](/post/a/) [line](/post/line/) [of](/post/of/) [beauty](/post/beauty/) products."
-  - 2. 相关的，属于同一类的。例如: "[They](/post/they/) [come](/post/come/) [from](/post/from/) [a](/post/a/) [long](/post/long/) [line](/post/line/) [of](/post/of/) musicians."
+  - 1. 系列的，成行的。例如: "[The](/zh/post/the/) [company](/zh/post/company/) offers [a](/zh/post/a/) [line](/zh/post/line/) [of](/zh/post/of/) [beauty](/zh/post/beauty/) products."
+  - 2. 相关的，属于同一类的。例如: "[They](/zh/post/they/) [come](/zh/post/come/) [from](/zh/post/from/) [a](/zh/post/a/) [long](/zh/post/long/) [line](/zh/post/line/) [of](/zh/post/of/) musicians."
 
 ## 短语
-- "[On](/post/on/) [the](/post/the/) [line](/post/line/)" 意味着有风险或处于危险之中。例如: "[Your](/post/your/) [job](/post/job/) is [on](/post/on/) [the](/post/the/) [line](/post/line/) [if](/post/if/) [you](/post/you/) [keep](/post/keep/) [missing](/post/missing/) deadlines."
-- "[In](/post/in/) [a](/post/a/) [straight](/post/straight/) [line](/post/line/)" 指沿着直线。例如: "[The](/post/the/) [path](/post/path/) goes [in](/post/in/) [a](/post/a/) [straight](/post/straight/) [line](/post/line/) [through](/post/through/) [the](/post/the/) [forest](/post/forest/)."
-- "[Family](/post/family/) [line](/post/line/)" 指家族血统。例如: "[He](/post/he/) is [the](/post/the/) eldest [in](/post/in/) [his](/post/his/) [family](/post/family/) [line](/post/line/)."
+- "[On](/zh/post/on/) [the](/zh/post/the/) [line](/zh/post/line/)" 意味着有风险或处于危险之中。例如: "[Your](/zh/post/your/) [job](/zh/post/job/) is [on](/zh/post/on/) [the](/zh/post/the/) [line](/zh/post/line/) [if](/zh/post/if/) [you](/zh/post/you/) [keep](/zh/post/keep/) [missing](/zh/post/missing/) deadlines."
+- "[In](/zh/post/in/) [a](/zh/post/a/) [straight](/zh/post/straight/) [line](/zh/post/line/)" 指沿着直线。例如: "[The](/zh/post/the/) [path](/zh/post/path/) goes [in](/zh/post/in/) [a](/zh/post/a/) [straight](/zh/post/straight/) [line](/zh/post/line/) [through](/zh/post/through/) [the](/zh/post/the/) [forest](/zh/post/forest/)."
+- "[Family](/zh/post/family/) [line](/zh/post/line/)" 指家族血统。例如: "[He](/zh/post/he/) is [the](/zh/post/the/) eldest [in](/zh/post/in/) [his](/zh/post/his/) [family](/zh/post/family/) [line](/zh/post/line/)."
 
 ## 例句
-- 名词: "[The](/post/the/) dancers formed [a](/post/a/) [straight](/post/straight/) [line](/post/line/) [across](/post/across/) [the](/post/the/) [stage](/post/stage/)."
-- 动词: "[She](/post/she/) lined [the](/post/the/) cups [up](/post/up/) neatly [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/)."
-- 形容词: "[The](/post/the/) [store](/post/store/) has [a](/post/a/) [new](/post/new/) [line](/post/line/) [of](/post/of/) eco-friendly [clothing](/post/clothing/)."
+- 名词: "[The](/zh/post/the/) dancers formed [a](/zh/post/a/) [straight](/zh/post/straight/) [line](/zh/post/line/) [across](/zh/post/across/) [the](/zh/post/the/) [stage](/zh/post/stage/)."
+- 动词: "[She](/zh/post/she/) lined [the](/zh/post/the/) cups [up](/zh/post/up/) neatly [on](/zh/post/on/) [the](/zh/post/the/) [shelf](/zh/post/shelf/)."
+- 形容词: "[The](/zh/post/the/) [store](/zh/post/store/) has [a](/zh/post/a/) [new](/zh/post/new/) [line](/zh/post/line/) [of](/zh/post/of/) eco-friendly [clothing](/zh/post/clothing/)."
 
 ## 同义词
-- [Row](/post/row/) (名词)
-- [Series](/post/series/) (名词)
-- [Arrange](/post/arrange/) (动词)
-- [Straight](/post/straight/) (形容词)
+- [Row](/zh/post/row/) (名词)
+- [Series](/zh/post/series/) (名词)
+- [Arrange](/zh/post/arrange/) (动词)
+- [Straight](/zh/post/straight/) (形容词)

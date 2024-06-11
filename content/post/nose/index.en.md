@@ -7,32 +7,32 @@ description = '[nəuz] n.鼻子；突出部分'
 keywords = ['ai words', 'nose']
 +++
 
-## [Word](/en/post/word/): [Nose](/en/post/nose/)
+## [Word](/post/word/): [Nose](/post/nose/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /NOHZ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [organ](/en/post/organ/) [on](/en/post/on/) [the](/en/post/the/) [face](/en/post/face/) [of](/en/post/of/) humans [and](/en/post/and/) animals [that](/en/post/that/) is [used](/en/post/used/) [for](/en/post/for/) breathing, smelling, [and](/en/post/and/) ([in](/en/post/in/) [some](/en/post/some/) animals) feeding. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [small](/en/post/small/), [straight](/en/post/straight/) [nose](/en/post/nose/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) metaphorically: "[He](/en/post/he/) stuck [his](/en/post/his/) [nose](/en/post/nose/) [into](/en/post/into/) [other](/en/post/other/) people's [business](/en/post/business/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [search](/en/post/search/) [or](/en/post/or/) [locate](/en/post/locate/) [something](/en/post/something/) using one's [sense](/en/post/sense/) [of](/en/post/of/) [smell](/en/post/smell/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [dog](/en/post/dog/) nosed [around](/en/post/around/) [for](/en/post/for/) [a](/en/post/a/) [bone](/en/post/bone/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) figuratively: "[She](/en/post/she/) nosed [through](/en/post/through/) [the](/en/post/the/) bookshelves [for](/en/post/for/) [her](/en/post/her/) favorite [novel](/en/post/novel/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [organ](/post/organ/) [on](/post/on/) [the](/post/the/) [face](/post/face/) [of](/post/of/) humans [and](/post/and/) animals [that](/post/that/) is [used](/post/used/) [for](/post/for/) breathing, smelling, [and](/post/and/) ([in](/post/in/) [some](/post/some/) animals) feeding. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [small](/post/small/), [straight](/post/straight/) [nose](/post/nose/)."
+  - [Also](/post/also/) [used](/post/used/) metaphorically: "[He](/post/he/) stuck [his](/post/his/) [nose](/post/nose/) [into](/post/into/) [other](/post/other/) people's [business](/post/business/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [search](/post/search/) [or](/post/or/) [locate](/post/locate/) [something](/post/something/) using one's [sense](/post/sense/) [of](/post/of/) [smell](/post/smell/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [dog](/post/dog/) nosed [around](/post/around/) [for](/post/for/) [a](/post/a/) [bone](/post/bone/)."
+  - [Also](/post/also/) [used](/post/used/) figuratively: "[She](/post/she/) nosed [through](/post/through/) [the](/post/the/) bookshelves [for](/post/for/) [her](/post/her/) favorite [novel](/post/novel/)."
 
 ## Phrases
-- "[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [nose](/en/post/nose/) [for](/en/post/for/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [natural](/en/post/natural/) [ability](/en/post/ability/) [or](/en/post/or/) [instinct](/en/post/instinct/) [to](/en/post/to/) [detect](/en/post/detect/) [or](/en/post/or/) [identify](/en/post/identify/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [real](/en/post/real/) [nose](/en/post/nose/) [for](/en/post/for/) [news](/en/post/news/)."
-- "[Blow](/en/post/blow/) one's [nose](/en/post/nose/)" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) clearing mucus [from](/en/post/from/) [the](/en/post/the/) nasal passages. [Example](/en/post/example/): "[He](/en/post/he/) blew [his](/en/post/his/) [nose](/en/post/nose/) [into](/en/post/into/) [a](/en/post/a/) [tissue](/en/post/tissue/)."
-- "[Cut](/en/post/cut/) [off](/en/post/off/) one's [nose](/en/post/nose/) [to](/en/post/to/) spite one's [face](/en/post/face/)" is an [idiom](/en/post/idiom/) [meaning](/en/post/meaning/) [to](/en/post/to/) [harm](/en/post/harm/) [oneself](/en/post/oneself/) [in](/en/post/in/) an [attempt](/en/post/attempt/) [to](/en/post/to/) [harm](/en/post/harm/) [another](/en/post/another/) [person](/en/post/person/). [Example](/en/post/example/): "Refusing [to](/en/post/to/) [attend](/en/post/attend/) [the](/en/post/the/) [meeting](/en/post/meeting/) [just](/en/post/just/) [because](/en/post/because/) [you](/en/post/you/) [dislike](/en/post/dislike/) [the](/en/post/the/) organizer [would](/en/post/would/) [be](/en/post/be/) cutting [off](/en/post/off/) [your](/en/post/your/) [nose](/en/post/nose/) [to](/en/post/to/) spite [your](/en/post/your/) [face](/en/post/face/)."
+- "[To](/post/to/) [have](/post/have/) [a](/post/a/) [nose](/post/nose/) [for](/post/for/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [natural](/post/natural/) [ability](/post/ability/) [or](/post/or/) [instinct](/post/instinct/) [to](/post/to/) [detect](/post/detect/) [or](/post/or/) [identify](/post/identify/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [real](/post/real/) [nose](/post/nose/) [for](/post/for/) [news](/post/news/)."
+- "[Blow](/post/blow/) one's [nose](/post/nose/)" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) clearing mucus [from](/post/from/) [the](/post/the/) nasal passages. [Example](/post/example/): "[He](/post/he/) blew [his](/post/his/) [nose](/post/nose/) [into](/post/into/) [a](/post/a/) [tissue](/post/tissue/)."
+- "[Cut](/post/cut/) [off](/post/off/) one's [nose](/post/nose/) [to](/post/to/) spite one's [face](/post/face/)" is an [idiom](/post/idiom/) [meaning](/post/meaning/) [to](/post/to/) [harm](/post/harm/) [oneself](/post/oneself/) [in](/post/in/) an [attempt](/post/attempt/) [to](/post/to/) [harm](/post/harm/) [another](/post/another/) [person](/post/person/). [Example](/post/example/): "Refusing [to](/post/to/) [attend](/post/attend/) [the](/post/the/) [meeting](/post/meeting/) [just](/post/just/) [because](/post/because/) [you](/post/you/) [dislike](/post/dislike/) [the](/post/the/) organizer [would](/post/would/) [be](/post/be/) cutting [off](/post/off/) [your](/post/your/) [nose](/post/nose/) [to](/post/to/) spite [your](/post/your/) [face](/post/face/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [child](/en/post/child/) wiped [the](/en/post/the/) snot [from](/en/post/from/) [under](/en/post/under/) [his](/en/post/his/) [nose](/en/post/nose/) [with](/en/post/with/) [the](/en/post/the/) [back](/en/post/back/) [of](/en/post/of/) [his](/en/post/his/) [hand](/en/post/hand/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) detective nosed [around](/en/post/around/) [the](/en/post/the/) [crime](/en/post/crime/) [scene](/en/post/scene/) [for](/en/post/for/) clues."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [child](/post/child/) wiped [the](/post/the/) snot [from](/post/from/) [under](/post/under/) [his](/post/his/) [nose](/post/nose/) [with](/post/with/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [his](/post/his/) [hand](/post/hand/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) detective nosed [around](/post/around/) [the](/post/the/) [crime](/post/crime/) [scene](/post/scene/) [for](/post/for/) clues."
 
 ## Synonyms
-- Snout ([for](/en/post/for/) animals)
-- Nasal [organ](/en/post/organ/)
-- Olfactory [organ](/en/post/organ/)
-- Proboscis ([for](/en/post/for/) [certain](/en/post/certain/) animals [like](/en/post/like/) elephants)
-- [Sense](/en/post/sense/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [meaning](/en/post/meaning/) [to](/en/post/to/) [detect](/en/post/detect/) [by](/en/post/by/) [smell](/en/post/smell/))
+- Snout ([for](/post/for/) animals)
+- Nasal [organ](/post/organ/)
+- Olfactory [organ](/post/organ/)
+- Proboscis ([for](/post/for/) [certain](/post/certain/) animals [like](/post/like/) elephants)
+- [Sense](/post/sense/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [meaning](/post/meaning/) [to](/post/to/) [detect](/post/detect/) [by](/post/by/) [smell](/post/smell/))
 
-### [Note](/en/post/note/) [about](/en/post/about/) [Verb](/en/post/verb/) Synonyms:
-[When](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), "[nose](/en/post/nose/)" doesn't [have](/en/post/have/) [direct](/en/post/direct/) synonyms [that](/en/post/that/) [convey](/en/post/convey/) [both](/en/post/both/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) smelling [and](/en/post/and/) searching; [however](/en/post/however/), depending [on](/en/post/on/) context, verbs [like](/en/post/like/) "sniff", "[smell](/en/post/smell/)", [or](/en/post/or/) "[detect](/en/post/detect/)" [could](/en/post/could/) [be](/en/post/be/) considered related.
+### [Note](/post/note/) [about](/post/about/) [Verb](/post/verb/) Synonyms:
+[When](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), "[nose](/post/nose/)" doesn't [have](/post/have/) [direct](/post/direct/) synonyms [that](/post/that/) [convey](/post/convey/) [both](/post/both/) [the](/post/the/) [act](/post/act/) [of](/post/of/) smelling [and](/post/and/) searching; [however](/post/however/), depending [on](/post/on/) context, verbs [like](/post/like/) "sniff", "[smell](/post/smell/)", [or](/post/or/) "[detect](/post/detect/)" [could](/post/could/) [be](/post/be/) considered related.

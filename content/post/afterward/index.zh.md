@@ -11,17 +11,17 @@ keywords = ['ai words', 'afterward']
 /ˈɑːftəwərdz/
 
 ## 释义
-- **副词**: 在时间上指“后来”，“随后”。例如: "I'll [call](/post/call/) [you](/post/you/) [afterward](/post/afterward/) [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) details."
+- **副词**: 在时间上指“后来”，“随后”。例如: "I'll [call](/zh/post/call/) [you](/zh/post/you/) [afterward](/zh/post/afterward/) [to](/zh/post/to/) [discuss](/zh/post/discuss/) [the](/zh/post/the/) details."
 
 ## 短语
-- "[Afterward](/post/afterward/), [we](/post/we/) [can](/post/can/) [talk](/post/talk/) [about](/post/about/) [the](/post/the/) [plan](/post/plan/)." 意思是在某个事件或行动之后进行讨论。
+- "[Afterward](/zh/post/afterward/), [we](/zh/post/we/) [can](/zh/post/can/) [talk](/zh/post/talk/) [about](/zh/post/about/) [the](/zh/post/the/) [plan](/zh/post/plan/)." 意思是在某个事件或行动之后进行讨论。
 
 ## 例句
-- "[We](/post/we/) had [a](/post/a/) [meeting](/post/meeting/), [and](/post/and/) [afterward](/post/afterward/), I went [for](/post/for/) [a](/post/a/) [coffee](/post/coffee/) [with](/post/with/) [a](/post/a/) [colleague](/post/colleague/)."
+- "[We](/zh/post/we/) had [a](/zh/post/a/) [meeting](/zh/post/meeting/), [and](/zh/post/and/) [afterward](/zh/post/afterward/), I went [for](/zh/post/for/) [a](/zh/post/a/) [coffee](/zh/post/coffee/) [with](/zh/post/with/) [a](/zh/post/a/) [colleague](/zh/post/colleague/)."
 
 ## 同义词
-- [Later](/post/later/)
+- [Later](/zh/post/later/)
 - Afterwards
 - Subsequently
-- [Then](/post/then/)
-- [In](/post/in/) [the](/post/the/) [end](/post/end/)
+- [Then](/zh/post/then/)
+- [In](/zh/post/in/) [the](/zh/post/the/) [end](/zh/post/end/)

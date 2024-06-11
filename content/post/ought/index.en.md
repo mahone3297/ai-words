@@ -7,30 +7,30 @@ description = '[ɔːt] v.aux.应当，应该'
 keywords = ['ai words', 'ought']
 +++
 
-## [Word](/en/post/word/): [Ought](/en/post/ought/)
+## [Word](/post/word/): [Ought](/post/ought/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɔːt/
 
 ## Definitions
-- **Modal [Verb](/en/post/verb/)**: [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) obligation, [duty](/en/post/duty/), [or](/en/post/or/) correctness, typically [when](/en/post/when/) giving [advice](/en/post/advice/) [or](/en/post/or/) stating [what](/en/post/what/) [should](/en/post/should/) [be](/en/post/be/) done [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/). [It](/en/post/it/) [often](/en/post/often/) expresses [moral](/en/post/moral/) [or](/en/post/or/) ethical considerations.
-  - [Example](/en/post/example/): "[You](/en/post/you/) [ought](/en/post/ought/) [to](/en/post/to/) [study](/en/post/study/) harder [for](/en/post/for/) [your](/en/post/your/) exams."
-- **[Auxiliary](/en/post/auxiliary/) [Verb](/en/post/verb/)**: [To](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is [probable](/en/post/probable/) [or](/en/post/or/) [desirable](/en/post/desirable/) based [on](/en/post/on/) [logical](/en/post/logical/) reasoning [or](/en/post/or/) [expectation](/en/post/expectation/).
-  - [Example](/en/post/example/): "[It](/en/post/it/) [ought](/en/post/ought/) [to](/en/post/to/) [rain](/en/post/rain/) [soon](/en/post/soon/); [the](/en/post/the/) [sky](/en/post/sky/) is [very](/en/post/very/) [dark](/en/post/dark/)."
+- **Modal [Verb](/post/verb/)**: [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) obligation, [duty](/post/duty/), [or](/post/or/) correctness, typically [when](/post/when/) giving [advice](/post/advice/) [or](/post/or/) stating [what](/post/what/) [should](/post/should/) [be](/post/be/) done [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/). [It](/post/it/) [often](/post/often/) expresses [moral](/post/moral/) [or](/post/or/) ethical considerations.
+  - [Example](/post/example/): "[You](/post/you/) [ought](/post/ought/) [to](/post/to/) [study](/post/study/) harder [for](/post/for/) [your](/post/your/) exams."
+- **[Auxiliary](/post/auxiliary/) [Verb](/post/verb/)**: [To](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is [probable](/post/probable/) [or](/post/or/) [desirable](/post/desirable/) based [on](/post/on/) [logical](/post/logical/) reasoning [or](/post/or/) [expectation](/post/expectation/).
+  - [Example](/post/example/): "[It](/post/it/) [ought](/post/ought/) [to](/post/to/) [rain](/post/rain/) [soon](/post/soon/); [the](/post/the/) [sky](/post/sky/) is [very](/post/very/) [dark](/post/dark/)."
   
 ## Phrases
-- "[Ought](/en/post/ought/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/)": [This](/en/post/this/) [phrase](/en/post/phrase/) suggests [a](/en/post/a/) [strong](/en/post/strong/) [moral](/en/post/moral/) [or](/en/post/or/) [practical](/en/post/practical/) obligation [to](/en/post/to/) [perform](/en/post/perform/) [a](/en/post/a/) [certain](/en/post/certain/) [action](/en/post/action/).
-  - [Example](/en/post/example/): "[You](/en/post/you/) [ought](/en/post/ought/) [to](/en/post/to/) [apologize](/en/post/apologize/) [for](/en/post/for/) [your](/en/post/your/) [behavior](/en/post/behavior/)."
-- "[Ought](/en/post/ought/) [not](/en/post/not/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/)": Expresses [that](/en/post/that/) [it](/en/post/it/) [would](/en/post/would/) [be](/en/post/be/) [better](/en/post/better/) [or](/en/post/or/) [more](/en/post/more/) [appropriate](/en/post/appropriate/) [not](/en/post/not/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/).
-  - [Example](/en/post/example/): "[You](/en/post/you/) [ought](/en/post/ought/) [not](/en/post/not/) [to](/en/post/to/) [smoke](/en/post/smoke/) [so](/en/post/so/) [much](/en/post/much/); it's [bad](/en/post/bad/) [for](/en/post/for/) [your](/en/post/your/) [health](/en/post/health/)."
+- "[Ought](/post/ought/) [to](/post/to/) [do](/post/do/) [something](/post/something/)": [This](/post/this/) [phrase](/post/phrase/) suggests [a](/post/a/) [strong](/post/strong/) [moral](/post/moral/) [or](/post/or/) [practical](/post/practical/) obligation [to](/post/to/) [perform](/post/perform/) [a](/post/a/) [certain](/post/certain/) [action](/post/action/).
+  - [Example](/post/example/): "[You](/post/you/) [ought](/post/ought/) [to](/post/to/) [apologize](/post/apologize/) [for](/post/for/) [your](/post/your/) [behavior](/post/behavior/)."
+- "[Ought](/post/ought/) [not](/post/not/) [to](/post/to/) [do](/post/do/) [something](/post/something/)": Expresses [that](/post/that/) [it](/post/it/) [would](/post/would/) [be](/post/be/) [better](/post/better/) [or](/post/or/) [more](/post/more/) [appropriate](/post/appropriate/) [not](/post/not/) [to](/post/to/) [do](/post/do/) [something](/post/something/).
+  - [Example](/post/example/): "[You](/post/you/) [ought](/post/ought/) [not](/post/not/) [to](/post/to/) [smoke](/post/smoke/) [so](/post/so/) [much](/post/much/); it's [bad](/post/bad/) [for](/post/for/) [your](/post/your/) [health](/post/health/)."
 
-## [Example](/en/post/example/) Sentences
-- **Modal [Verb](/en/post/verb/)**: "[They](/en/post/they/) [ought](/en/post/ought/) [to](/en/post/to/) [arrive](/en/post/arrive/) [by](/en/post/by/) [noon](/en/post/noon/) [if](/en/post/if/) [they](/en/post/they/) [left](/en/post/left/) [early](/en/post/early/) [this](/en/post/this/) [morning](/en/post/morning/)."
-- **[Auxiliary](/en/post/auxiliary/) [Verb](/en/post/verb/)**: "Given [how](/en/post/how/) [much](/en/post/much/) [effort](/en/post/effort/) [she](/en/post/she/) [put](/en/post/put/) [in](/en/post/in/), [she](/en/post/she/) [ought](/en/post/ought/) [to](/en/post/to/) [succeed](/en/post/succeed/)."
+## [Example](/post/example/) Sentences
+- **Modal [Verb](/post/verb/)**: "[They](/post/they/) [ought](/post/ought/) [to](/post/to/) [arrive](/post/arrive/) [by](/post/by/) [noon](/post/noon/) [if](/post/if/) [they](/post/they/) [left](/post/left/) [early](/post/early/) [this](/post/this/) [morning](/post/morning/)."
+- **[Auxiliary](/post/auxiliary/) [Verb](/post/verb/)**: "Given [how](/post/how/) [much](/post/much/) [effort](/post/effort/) [she](/post/she/) [put](/post/put/) [in](/post/in/), [she](/post/she/) [ought](/post/ought/) [to](/post/to/) [succeed](/post/succeed/)."
 
 ## Synonyms
-- [Should](/en/post/should/) ([in](/en/post/in/) terms [of](/en/post/of/) indicating obligation [or](/en/post/or/) advisability)
-- Needs [to](/en/post/to/) ([when](/en/post/when/) expressing [necessity](/en/post/necessity/))
-- Is expected [to](/en/post/to/) ([for](/en/post/for/) [probability](/en/post/probability/) [or](/en/post/or/) likelihood) 
+- [Should](/post/should/) ([in](/post/in/) terms [of](/post/of/) indicating obligation [or](/post/or/) advisability)
+- Needs [to](/post/to/) ([when](/post/when/) expressing [necessity](/post/necessity/))
+- Is expected [to](/post/to/) ([for](/post/for/) [probability](/post/probability/) [or](/post/or/) likelihood) 
 
-[Note](/en/post/note/): "[Ought](/en/post/ought/)" is [not](/en/post/not/) classified [under](/en/post/under/) [any](/en/post/any/) [specific](/en/post/specific/) [part](/en/post/part/) [of](/en/post/of/) [speech](/en/post/speech/) [like](/en/post/like/) [noun](/en/post/noun/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), etc., [but](/en/post/but/) [rather](/en/post/rather/) functions [as](/en/post/as/) [a](/en/post/a/) modal [verb](/en/post/verb/) [in](/en/post/in/) English [grammar](/en/post/grammar/). Modal verbs [express](/en/post/express/) modality—providing [additional](/en/post/additional/) [meaning](/en/post/meaning/) [to](/en/post/to/) [the](/en/post/the/) [main](/en/post/main/) [verb](/en/post/verb/) [in](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/) [by](/en/post/by/) indicating [possibility](/en/post/possibility/), [necessity](/en/post/necessity/), [permission](/en/post/permission/), [or](/en/post/or/) obligation.
+[Note](/post/note/): "[Ought](/post/ought/)" is [not](/post/not/) classified [under](/post/under/) [any](/post/any/) [specific](/post/specific/) [part](/post/part/) [of](/post/of/) [speech](/post/speech/) [like](/post/like/) [noun](/post/noun/), [adjective](/post/adjective/), [adverb](/post/adverb/), etc., [but](/post/but/) [rather](/post/rather/) functions [as](/post/as/) [a](/post/a/) modal [verb](/post/verb/) [in](/post/in/) English [grammar](/post/grammar/). Modal verbs [express](/post/express/) modality—providing [additional](/post/additional/) [meaning](/post/meaning/) [to](/post/to/) [the](/post/the/) [main](/post/main/) [verb](/post/verb/) [in](/post/in/) [a](/post/a/) [sentence](/post/sentence/) [by](/post/by/) indicating [possibility](/post/possibility/), [necessity](/post/necessity/), [permission](/post/permission/), [or](/post/or/) obligation.

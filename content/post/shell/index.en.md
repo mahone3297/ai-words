@@ -7,43 +7,43 @@ description = '[∫el] n.壳；贝壳；炮弹'
 keywords = ['ai words', 'shell']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /shel/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [shell](/en/post/shell/) ([noun](/en/post/noun/)) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/):
-1. [The](/en/post/the/) [outer](/en/post/outer/) [protective](/en/post/protective/) covering [of](/en/post/of/) [a](/en/post/a/) mollusk [or](/en/post/or/) [other](/en/post/other/) [sea](/en/post/sea/) [creature](/en/post/creature/): *[The](/en/post/the/) seashell was filled [with](/en/post/with/) [sand](/en/post/sand/).*
-2. [The](/en/post/the/) [outer](/en/post/outer/) covering [of](/en/post/of/) [a](/en/post/a/) [nut](/en/post/nut/) [or](/en/post/or/) [fruit](/en/post/fruit/): *[The](/en/post/the/) walnut [shell](/en/post/shell/) is [hard](/en/post/hard/) [and](/en/post/and/) [brown](/en/post/brown/).*
-3. [A](/en/post/a/) [hollow](/en/post/hollow/) [structure](/en/post/structure/) [or](/en/post/or/) [container](/en/post/container/) made [from](/en/post/from/) [a](/en/post/a/) [material](/en/post/material/) [like](/en/post/like/) [wood](/en/post/wood/) [or](/en/post/or/) [metal](/en/post/metal/): *[The](/en/post/the/) [wooden](/en/post/wooden/) [boat](/en/post/boat/) had [a](/en/post/a/) [beautiful](/en/post/beautiful/) mahogany [shell](/en/post/shell/).*
-4. [In](/en/post/in/) computing, [the](/en/post/the/) outermost [layer](/en/post/layer/) [of](/en/post/of/) [a](/en/post/a/) software [application](/en/post/application/) [or](/en/post/or/) operating [system](/en/post/system/): *Click [on](/en/post/on/) [the](/en/post/the/) [Start](/en/post/start/) [button](/en/post/button/) [to](/en/post/to/) [open](/en/post/open/) [the](/en/post/the/) Windows [shell](/en/post/shell/).*
-5. [A](/en/post/a/) person's [outer](/en/post/outer/) [appearance](/en/post/appearance/) [or](/en/post/or/) persona: *[She](/en/post/she/) [put](/en/post/put/) [on](/en/post/on/) [a](/en/post/a/) [brave](/en/post/brave/) [face](/en/post/face/), [though](/en/post/though/) [her](/en/post/her/) [heart](/en/post/heart/) was breaking.*
+### [Noun](/post/noun/)
+[A](/post/a/) [shell](/post/shell/) ([noun](/post/noun/)) [can](/post/can/) [refer](/post/refer/) [to](/post/to/):
+1. [The](/post/the/) [outer](/post/outer/) [protective](/post/protective/) covering [of](/post/of/) [a](/post/a/) mollusk [or](/post/or/) [other](/post/other/) [sea](/post/sea/) [creature](/post/creature/): *[The](/post/the/) seashell was filled [with](/post/with/) [sand](/post/sand/).*
+2. [The](/post/the/) [outer](/post/outer/) covering [of](/post/of/) [a](/post/a/) [nut](/post/nut/) [or](/post/or/) [fruit](/post/fruit/): *[The](/post/the/) walnut [shell](/post/shell/) is [hard](/post/hard/) [and](/post/and/) [brown](/post/brown/).*
+3. [A](/post/a/) [hollow](/post/hollow/) [structure](/post/structure/) [or](/post/or/) [container](/post/container/) made [from](/post/from/) [a](/post/a/) [material](/post/material/) [like](/post/like/) [wood](/post/wood/) [or](/post/or/) [metal](/post/metal/): *[The](/post/the/) [wooden](/post/wooden/) [boat](/post/boat/) had [a](/post/a/) [beautiful](/post/beautiful/) mahogany [shell](/post/shell/).*
+4. [In](/post/in/) computing, [the](/post/the/) outermost [layer](/post/layer/) [of](/post/of/) [a](/post/a/) software [application](/post/application/) [or](/post/or/) operating [system](/post/system/): *Click [on](/post/on/) [the](/post/the/) [Start](/post/start/) [button](/post/button/) [to](/post/to/) [open](/post/open/) [the](/post/the/) Windows [shell](/post/shell/).*
+5. [A](/post/a/) person's [outer](/post/outer/) [appearance](/post/appearance/) [or](/post/or/) persona: *[She](/post/she/) [put](/post/put/) [on](/post/on/) [a](/post/a/) [brave](/post/brave/) [face](/post/face/), [though](/post/though/) [her](/post/her/) [heart](/post/heart/) was breaking.*
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [shell](/en/post/shell/) ([verb](/en/post/verb/)) [can](/en/post/can/) [mean](/en/post/mean/):
-1. [To](/en/post/to/) [remove](/en/post/remove/) [the](/en/post/the/) [outer](/en/post/outer/) [layer](/en/post/layer/) [or](/en/post/or/) covering [from](/en/post/from/) [a](/en/post/a/) [fruit](/en/post/fruit/) [or](/en/post/or/) [nut](/en/post/nut/): *[She](/en/post/she/) shelled [the](/en/post/the/) peas [for](/en/post/for/) [dinner](/en/post/dinner/).*
-2. [In](/en/post/in/) computing, [to](/en/post/to/) [execute](/en/post/execute/) [a](/en/post/a/) [command](/en/post/command/) [or](/en/post/or/) script: *[The](/en/post/the/) [user](/en/post/user/) shelled [out](/en/post/out/) [to](/en/post/to/) [run](/en/post/run/) [a](/en/post/a/) backup script.*
-3. (informal) [To](/en/post/to/) [defeat](/en/post/defeat/) [or](/en/post/or/) overpower [someone](/en/post/someone/) [easily](/en/post/easily/): *[The](/en/post/the/) [team](/en/post/team/) [easily](/en/post/easily/) shellacked [their](/en/post/their/) opponents [in](/en/post/in/) [the](/en/post/the/) [game](/en/post/game/).*
+### [Verb](/post/verb/)
+[To](/post/to/) [shell](/post/shell/) ([verb](/post/verb/)) [can](/post/can/) [mean](/post/mean/):
+1. [To](/post/to/) [remove](/post/remove/) [the](/post/the/) [outer](/post/outer/) [layer](/post/layer/) [or](/post/or/) covering [from](/post/from/) [a](/post/a/) [fruit](/post/fruit/) [or](/post/or/) [nut](/post/nut/): *[She](/post/she/) shelled [the](/post/the/) peas [for](/post/for/) [dinner](/post/dinner/).*
+2. [In](/post/in/) computing, [to](/post/to/) [execute](/post/execute/) [a](/post/a/) [command](/post/command/) [or](/post/or/) script: *[The](/post/the/) [user](/post/user/) shelled [out](/post/out/) [to](/post/to/) [run](/post/run/) [a](/post/a/) backup script.*
+3. (informal) [To](/post/to/) [defeat](/post/defeat/) [or](/post/or/) overpower [someone](/post/someone/) [easily](/post/easily/): *[The](/post/the/) [team](/post/team/) [easily](/post/easily/) shellacked [their](/post/their/) opponents [in](/post/in/) [the](/post/the/) [game](/post/game/).*
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) [some](/en/post/some/) contexts, "shell-shocked" is an [adjective](/en/post/adjective/) referring [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) has experienced [severe](/en/post/severe/) [emotional](/en/post/emotional/) trauma, [especially](/en/post/especially/) [after](/en/post/after/) combat: *[The](/en/post/the/) [soldier](/en/post/soldier/) was shell-shocked [after](/en/post/after/) witnessing [the](/en/post/the/) [battle](/en/post/battle/).*
+### [Adjective](/post/adjective/)
+[In](/post/in/) [some](/post/some/) contexts, "shell-shocked" is an [adjective](/post/adjective/) referring [to](/post/to/) [someone](/post/someone/) [who](/post/who/) has experienced [severe](/post/severe/) [emotional](/post/emotional/) trauma, [especially](/post/especially/) [after](/post/after/) combat: *[The](/post/the/) [soldier](/post/soldier/) was shell-shocked [after](/post/after/) witnessing [the](/post/the/) [battle](/post/battle/).*
 
 ## Phrases
-- "[Put](/en/post/put/) [on](/en/post/on/) [your](/en/post/your/) armor" [can](/en/post/can/) metaphorically [mean](/en/post/mean/) [to](/en/post/to/) [prepare](/en/post/prepare/) [or](/en/post/or/) [present](/en/post/present/) [oneself](/en/post/oneself/) confidently.
-- "[Shell](/en/post/shell/) [out](/en/post/out/)" is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) spending [money](/en/post/money/), [especially](/en/post/especially/) extravagantly: *[They](/en/post/they/) had [to](/en/post/to/) [shell](/en/post/shell/) [out](/en/post/out/) [a](/en/post/a/) [lot](/en/post/lot/) [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [car](/en/post/car/).*
-- "[Shell](/en/post/shell/) [game](/en/post/game/)" refers [to](/en/post/to/) [a](/en/post/a/) deceptive [trick](/en/post/trick/) involving moving objects [to](/en/post/to/) [confuse](/en/post/confuse/) [people](/en/post/people/): *[He](/en/post/he/) [saw](/en/post/saw/) [through](/en/post/through/) [the](/en/post/the/) [simple](/en/post/simple/) [shell](/en/post/shell/) [game](/en/post/game/) [the](/en/post/the/) con [artist](/en/post/artist/) was trying [to](/en/post/to/) [pull](/en/post/pull/).*
+- "[Put](/post/put/) [on](/post/on/) [your](/post/your/) armor" [can](/post/can/) metaphorically [mean](/post/mean/) [to](/post/to/) [prepare](/post/prepare/) [or](/post/or/) [present](/post/present/) [oneself](/post/oneself/) confidently.
+- "[Shell](/post/shell/) [out](/post/out/)" is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [act](/post/act/) [of](/post/of/) spending [money](/post/money/), [especially](/post/especially/) extravagantly: *[They](/post/they/) had [to](/post/to/) [shell](/post/shell/) [out](/post/out/) [a](/post/a/) [lot](/post/lot/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [car](/post/car/).*
+- "[Shell](/post/shell/) [game](/post/game/)" refers [to](/post/to/) [a](/post/a/) deceptive [trick](/post/trick/) involving moving objects [to](/post/to/) [confuse](/post/confuse/) [people](/post/people/): *[He](/post/he/) [saw](/post/saw/) [through](/post/through/) [the](/post/the/) [simple](/post/simple/) [shell](/post/shell/) [game](/post/game/) [the](/post/the/) con [artist](/post/artist/) was trying [to](/post/to/) [pull](/post/pull/).*
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) collected seashells [while](/en/post/while/) [on](/en/post/on/) [vacation](/en/post/vacation/) [at](/en/post/at/) [the](/en/post/the/) [beach](/en/post/beach/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [shell](/en/post/shell/) [the](/en/post/the/) [house](/en/post/house/) [before](/en/post/before/) putting [it](/en/post/it/) [on](/en/post/on/) [the](/en/post/the/) [market](/en/post/market/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) soldiers were shell-shocked [after](/en/post/after/) [the](/en/post/the/) [intense](/en/post/intense/) [battle](/en/post/battle/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) collected seashells [while](/post/while/) [on](/post/on/) [vacation](/post/vacation/) [at](/post/at/) [the](/post/the/) [beach](/post/beach/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [shell](/post/shell/) [the](/post/the/) [house](/post/house/) [before](/post/before/) putting [it](/post/it/) [on](/post/on/) [the](/post/the/) [market](/post/market/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) soldiers were shell-shocked [after](/post/after/) [the](/post/the/) [intense](/post/intense/) [battle](/post/battle/)."
 
 ## Synonyms
-- [Outer](/en/post/outer/) covering
+- [Outer](/post/outer/) covering
 - Housing
 - Encasement
-- [Framework](/en/post/framework/)
-- [Exterior](/en/post/exterior/)
+- [Framework](/post/framework/)
+- [Exterior](/post/exterior/)
 - Armor
-- [Command](/en/post/command/) [prompt](/en/post/prompt/) (computing)
+- [Command](/post/command/) [prompt](/post/prompt/) (computing)
 - Unhinged (shell-shocked)

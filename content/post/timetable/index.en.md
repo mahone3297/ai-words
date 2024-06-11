@@ -7,35 +7,35 @@ description = '[ˈtaimteib(ə)l] n.时间表，时刻表'
 keywords = ['ai words', 'timetable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɪmˈtaɪbəl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [schedule](/en/post/schedule/) [or](/en/post/or/) [arrangement](/en/post/arrangement/) showing times [for](/en/post/for/) events, [usually](/en/post/usually/) [public](/en/post/public/) [transport](/en/post/transport/) [or](/en/post/or/) [school](/en/post/school/) lessons. [Also](/en/post/also/) known [as](/en/post/as/) [a](/en/post/a/) '[timetable](/en/post/timetable/) [plan](/en/post/plan/)' [or](/en/post/or/) '[schedule](/en/post/schedule/)'.
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [follow](/en/post/follow/) [a](/en/post/a/) [timetable](/en/post/timetable/), [especially](/en/post/especially/) [in](/en/post/in/) terms [of](/en/post/of/) organizing one's activities [or](/en/post/or/) [a](/en/post/a/) [public](/en/post/public/) [service](/en/post/service/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [train](/en/post/train/) follows [a](/en/post/a/) [strict](/en/post/strict/) [timetable](/en/post/timetable/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [schedule](/post/schedule/) [or](/post/or/) [arrangement](/post/arrangement/) showing times [for](/post/for/) events, [usually](/post/usually/) [public](/post/public/) [transport](/post/transport/) [or](/post/or/) [school](/post/school/) lessons. [Also](/post/also/) known [as](/post/as/) [a](/post/a/) '[timetable](/post/timetable/) [plan](/post/plan/)' [or](/post/or/) '[schedule](/post/schedule/)'.
+- **[Verb](/post/verb/)**: [To](/post/to/) [create](/post/create/) [or](/post/or/) [follow](/post/follow/) [a](/post/a/) [timetable](/post/timetable/), [especially](/post/especially/) [in](/post/in/) terms [of](/post/of/) organizing one's activities [or](/post/or/) [a](/post/a/) [public](/post/public/) [service](/post/service/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [train](/post/train/) follows [a](/post/a/) [strict](/post/strict/) [timetable](/post/timetable/)."
 
 ## Phrases
-- "[Stick](/en/post/stick/) [to](/en/post/to/) [a](/en/post/a/) [timetable](/en/post/timetable/)" [means](/en/post/means/) [to](/en/post/to/) adhere [to](/en/post/to/) [a](/en/post/a/) planned [schedule](/en/post/schedule/).
-- "[Timetable](/en/post/timetable/) changes" refers [to](/en/post/to/) alterations [to](/en/post/to/) [a](/en/post/a/) planned [schedule](/en/post/schedule/).
-- "[Public](/en/post/public/) [transport](/en/post/transport/) [timetable](/en/post/timetable/)" is [the](/en/post/the/) [list](/en/post/list/) [of](/en/post/of/) scheduled routes [and](/en/post/and/) departures.
+- "[Stick](/post/stick/) [to](/post/to/) [a](/post/a/) [timetable](/post/timetable/)" [means](/post/means/) [to](/post/to/) adhere [to](/post/to/) [a](/post/a/) planned [schedule](/post/schedule/).
+- "[Timetable](/post/timetable/) changes" refers [to](/post/to/) alterations [to](/post/to/) [a](/post/a/) planned [schedule](/post/schedule/).
+- "[Public](/post/public/) [transport](/post/transport/) [timetable](/post/timetable/)" is [the](/post/the/) [list](/post/list/) [of](/post/of/) scheduled routes [and](/post/and/) departures.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) students referred [to](/en/post/to/) [the](/en/post/the/) [school](/en/post/school/) [timetable](/en/post/timetable/) [to](/en/post/to/) [plan](/en/post/plan/) [their](/en/post/their/) extracurricular activities."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [airline](/en/post/airline/) updated [the](/en/post/the/) [flight](/en/post/flight/) [timetable](/en/post/timetable/) [due](/en/post/due/) [to](/en/post/to/) [weather](/en/post/weather/) conditions."
-- **Prepositional [phrase](/en/post/phrase/)**: "[She](/en/post/she/) arrived [on](/en/post/on/) [time](/en/post/time/), [as](/en/post/as/) [she](/en/post/she/) [always](/en/post/always/) does, [following](/en/post/following/) [her](/en/post/her/) [daily](/en/post/daily/) [work](/en/post/work/) [timetable](/en/post/timetable/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) students referred [to](/post/to/) [the](/post/the/) [school](/post/school/) [timetable](/post/timetable/) [to](/post/to/) [plan](/post/plan/) [their](/post/their/) extracurricular activities."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [airline](/post/airline/) updated [the](/post/the/) [flight](/post/flight/) [timetable](/post/timetable/) [due](/post/due/) [to](/post/to/) [weather](/post/weather/) conditions."
+- **Prepositional [phrase](/post/phrase/)**: "[She](/post/she/) arrived [on](/post/on/) [time](/post/time/), [as](/post/as/) [she](/post/she/) [always](/post/always/) does, [following](/post/following/) [her](/post/her/) [daily](/post/daily/) [work](/post/work/) [timetable](/post/timetable/)."
 
 ## Synonyms
-- [Schedule](/en/post/schedule/)
+- [Schedule](/post/schedule/)
 - Agenda
-- [Calendar](/en/post/calendar/)
-- [Plan](/en/post/plan/)
-- [Routine](/en/post/routine/)
-- [Program](/en/post/program/)
-- [Outline](/en/post/outline/)
-- [Chart](/en/post/chart/)
-- [Table](/en/post/table/) [of](/en/post/of/) contents
+- [Calendar](/post/calendar/)
+- [Plan](/post/plan/)
+- [Routine](/post/routine/)
+- [Program](/post/program/)
+- [Outline](/post/outline/)
+- [Chart](/post/chart/)
+- [Table](/post/table/) [of](/post/of/) contents
 
 ## Antonyms
 - Unstructured
 - Disorganized
-- [Spontaneous](/en/post/spontaneous/) ([for](/en/post/for/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) planning)
+- [Spontaneous](/post/spontaneous/) ([for](/post/for/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) planning)

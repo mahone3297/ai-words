@@ -7,27 +7,27 @@ description = '[səˈfi∫əntli] ad.足够地，充分地'
 keywords = ['ai words', 'sufficiently']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈfɪʃli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) an [adequate](/en/post/adequate/) [or](/en/post/or/) [sufficient](/en/post/sufficient/) [degree](/en/post/degree/); adequately [or](/en/post/or/) [enough](/en/post/enough/). [It](/en/post/it/) modifies verbs, adjectives, [or](/en/post/or/) [other](/en/post/other/) adverbs. [For](/en/post/for/) [example](/en/post/example/), "[The](/en/post/the/) [work](/en/post/work/) was done [sufficiently](/en/post/sufficiently/) [well](/en/post/well/)."
+- **[Adverb](/post/adverb/)**: [To](/post/to/) an [adequate](/post/adequate/) [or](/post/or/) [sufficient](/post/sufficient/) [degree](/post/degree/); adequately [or](/post/or/) [enough](/post/enough/). [It](/post/it/) modifies verbs, adjectives, [or](/post/or/) [other](/post/other/) adverbs. [For](/post/for/) [example](/post/example/), "[The](/post/the/) [work](/post/work/) was done [sufficiently](/post/sufficiently/) [well](/post/well/)."
 
 ## Phrases
-- "[Sufficiently](/en/post/sufficiently/) [large](/en/post/large/)" [means](/en/post/means/) ample [or](/en/post/or/) [adequate](/en/post/adequate/) [in](/en/post/in/) [size](/en/post/size/).
-- "[Sufficiently](/en/post/sufficiently/) qualified" implies having [the](/en/post/the/) [necessary](/en/post/necessary/) skills [or](/en/post/or/) credentials.
-- "[He](/en/post/he/) speaks English [sufficiently](/en/post/sufficiently/) [well](/en/post/well/) [to](/en/post/to/) [communicate](/en/post/communicate/) [with](/en/post/with/) foreigners."
+- "[Sufficiently](/post/sufficiently/) [large](/post/large/)" [means](/post/means/) ample [or](/post/or/) [adequate](/post/adequate/) [in](/post/in/) [size](/post/size/).
+- "[Sufficiently](/post/sufficiently/) qualified" implies having [the](/post/the/) [necessary](/post/necessary/) skills [or](/post/or/) credentials.
+- "[He](/post/he/) speaks English [sufficiently](/post/sufficiently/) [well](/post/well/) [to](/post/to/) [communicate](/post/communicate/) [with](/post/with/) foreigners."
 
-## [Example](/en/post/example/) Sentences
-- "[The](/en/post/the/) [project](/en/post/project/) was completed [sufficiently](/en/post/sufficiently/) [on](/en/post/on/) [time](/en/post/time/)."
-- "[The](/en/post/the/) [weather](/en/post/weather/) was [warm](/en/post/warm/) [enough](/en/post/enough/), [but](/en/post/but/) [not](/en/post/not/) [sufficiently](/en/post/sufficiently/) [hot](/en/post/hot/) [for](/en/post/for/) swimming."
-- "[She](/en/post/she/) studied [hard](/en/post/hard/), [and](/en/post/and/) [her](/en/post/her/) [performance](/en/post/performance/) was [sufficiently](/en/post/sufficiently/) [impressive](/en/post/impressive/)."
+## [Example](/post/example/) Sentences
+- "[The](/post/the/) [project](/post/project/) was completed [sufficiently](/post/sufficiently/) [on](/post/on/) [time](/post/time/)."
+- "[The](/post/the/) [weather](/post/weather/) was [warm](/post/warm/) [enough](/post/enough/), [but](/post/but/) [not](/post/not/) [sufficiently](/post/sufficiently/) [hot](/post/hot/) [for](/post/for/) swimming."
+- "[She](/post/she/) studied [hard](/post/hard/), [and](/post/and/) [her](/post/her/) [performance](/post/performance/) was [sufficiently](/post/sufficiently/) [impressive](/post/impressive/)."
 
 ## Synonyms
 - Adequately
 - Amply
-- [Enough](/en/post/enough/)
-- [Properly](/en/post/properly/)
+- [Enough](/post/enough/)
+- [Properly](/post/properly/)
 - Competently
 
 ## Antonyms

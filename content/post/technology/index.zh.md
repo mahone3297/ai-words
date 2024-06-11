@@ -11,21 +11,21 @@ keywords = ['ai words', 'technology']
 /ˈtɛknələdʒi/
 
 ## 释义
-- **名词**: 科学和技术的总称，尤指应用于工业和商业的发明、方法和知识。例如: "Advances [in](/post/in/) [technology](/post/technology/) [have](/post/have/) transformed [our](/post/our/) [daily](/post/daily/) lives."
-- **动词**: 使用或应用科学技术。例如: "[The](/post/the/) [company](/post/company/) is technologizing [its](/post/its/) [production](/post/production/) [process](/post/process/) [to](/post/to/) [increase](/post/increase/) [efficiency](/post/efficiency/)."
+- **名词**: 科学和技术的总称，尤指应用于工业和商业的发明、方法和知识。例如: "Advances [in](/zh/post/in/) [technology](/zh/post/technology/) [have](/zh/post/have/) transformed [our](/zh/post/our/) [daily](/zh/post/daily/) lives."
+- **动词**: 使用或应用科学技术。例如: "[The](/zh/post/the/) [company](/zh/post/company/) is technologizing [its](/zh/post/its/) [production](/zh/post/production/) [process](/zh/post/process/) [to](/zh/post/to/) [increase](/zh/post/increase/) [efficiency](/zh/post/efficiency/)."
 
 ## 短语
-- "[Information](/post/information/) [technology](/post/technology/)" (信息技术) 涵盖了处理和通信数据的系统。
-- "[High](/post/high/) [technology](/post/technology/)" (高科技) 指尖端或最新的科技产品或技术。
-- "[Technology](/post/technology/) [transfer](/post/transfer/)" (技术转移) 指将技术从一个组织转移到另一个组织的过程。
+- "[Information](/zh/post/information/) [technology](/zh/post/technology/)" (信息技术) 涵盖了处理和通信数据的系统。
+- "[High](/zh/post/high/) [technology](/zh/post/technology/)" (高科技) 指尖端或最新的科技产品或技术。
+- "[Technology](/zh/post/technology/) [transfer](/zh/post/transfer/)" (技术转移) 指将技术从一个组织转移到另一个组织的过程。
 
 ## 例句
-- 名词: "[Modern](/post/modern/) [technology](/post/technology/) has made [communication](/post/communication/) faster [and](/post/and/) [more](/post/more/) [convenient](/post/convenient/) [than](/post/than/) [ever](/post/ever/) [before](/post/before/)."
-- 动词: "[They](/post/they/) are technologizing [their](/post/their/) manufacturing processes [to](/post/to/) [reduce](/post/reduce/) [waste](/post/waste/)."
+- 名词: "[Modern](/zh/post/modern/) [technology](/zh/post/technology/) has made [communication](/zh/post/communication/) faster [and](/zh/post/and/) [more](/zh/post/more/) [convenient](/zh/post/convenient/) [than](/zh/post/than/) [ever](/zh/post/ever/) [before](/zh/post/before/)."
+- 动词: "[They](/zh/post/they/) are technologizing [their](/zh/post/their/) manufacturing processes [to](/zh/post/to/) [reduce](/zh/post/reduce/) [waste](/zh/post/waste/)."
 
 ## 同义词
-- [Science](/post/science/)
-- [Engineering](/post/engineering/)
-- [Invention](/post/invention/)
+- [Science](/zh/post/science/)
+- [Engineering](/zh/post/engineering/)
+- [Invention](/zh/post/invention/)
 - Innovation
 - Know-how

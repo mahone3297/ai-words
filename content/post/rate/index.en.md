@@ -7,41 +7,41 @@ description = '[reit] n.比率；速度；价格'
 keywords = ['ai words', 'rate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /r eɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [speed](/en/post/speed/) [at](/en/post/at/) [which](/en/post/which/) [something](/en/post/something/) is done, measured, [or](/en/post/or/) occurring: *[The](/en/post/the/) car's [top](/en/post/top/) [speed](/en/post/speed/) is 150 miles [per](/en/post/per/) [hour](/en/post/hour/).* 
-2. [A](/en/post/a/) [price](/en/post/price/) [or](/en/post/or/) [amount](/en/post/amount/) [per](/en/post/per/) [unit](/en/post/unit/): *[The](/en/post/the/) [hotel](/en/post/hotel/) charges [a](/en/post/a/) nightly [rate](/en/post/rate/) [of](/en/post/of/) $100.*
-3. [A](/en/post/a/) [degree](/en/post/degree/) [of](/en/post/of/) [quality](/en/post/quality/) [or](/en/post/or/) [value](/en/post/value/): *[This](/en/post/this/) [painting](/en/post/painting/) is [of](/en/post/of/) [a](/en/post/a/) [high](/en/post/high/) [artistic](/en/post/artistic/) [rate](/en/post/rate/).*
-4. [A](/en/post/a/) [ratio](/en/post/ratio/) [or](/en/post/or/) [comparative](/en/post/comparative/) [measurement](/en/post/measurement/): *[The](/en/post/the/) [exchange](/en/post/exchange/) [rate](/en/post/rate/) [between](/en/post/between/) dollars [and](/en/post/and/) euros fluctuates [daily](/en/post/daily/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [speed](/post/speed/) [at](/post/at/) [which](/post/which/) [something](/post/something/) is done, measured, [or](/post/or/) occurring: *[The](/post/the/) car's [top](/post/top/) [speed](/post/speed/) is 150 miles [per](/post/per/) [hour](/post/hour/).* 
+2. [A](/post/a/) [price](/post/price/) [or](/post/or/) [amount](/post/amount/) [per](/post/per/) [unit](/post/unit/): *[The](/post/the/) [hotel](/post/hotel/) charges [a](/post/a/) nightly [rate](/post/rate/) [of](/post/of/) $100.*
+3. [A](/post/a/) [degree](/post/degree/) [of](/post/of/) [quality](/post/quality/) [or](/post/or/) [value](/post/value/): *[This](/post/this/) [painting](/post/painting/) is [of](/post/of/) [a](/post/a/) [high](/post/high/) [artistic](/post/artistic/) [rate](/post/rate/).*
+4. [A](/post/a/) [ratio](/post/ratio/) [or](/post/or/) [comparative](/post/comparative/) [measurement](/post/measurement/): *[The](/post/the/) [exchange](/post/exchange/) [rate](/post/rate/) [between](/post/between/) dollars [and](/post/and/) euros fluctuates [daily](/post/daily/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [evaluate](/en/post/evaluate/) [or](/en/post/or/) [assign](/en/post/assign/) [a](/en/post/a/) [value](/en/post/value/) [or](/en/post/or/) [score](/en/post/score/) [to](/en/post/to/): *I'll [rate](/en/post/rate/) [this](/en/post/this/) [movie](/en/post/movie/) based [on](/en/post/on/) [its](/en/post/its/) storyline [and](/en/post/and/) acting.*
-2. [To](/en/post/to/) [set](/en/post/set/) [or](/en/post/or/) [determine](/en/post/determine/) [the](/en/post/the/) [price](/en/post/price/) [or](/en/post/or/) [charge](/en/post/charge/): *[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [rate](/en/post/rate/) [their](/en/post/their/) services higher [next](/en/post/next/) [year](/en/post/year/).*
-3. [To](/en/post/to/) [perceive](/en/post/perceive/) [or](/en/post/or/) [judge](/en/post/judge/) [the](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [level](/en/post/level/) [of](/en/post/of/): *[She](/en/post/she/) rates [her](/en/post/her/) students' [work](/en/post/work/) [on](/en/post/on/) [a](/en/post/a/) [scale](/en/post/scale/) [of](/en/post/of/) 1 [to](/en/post/to/) 10.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [evaluate](/post/evaluate/) [or](/post/or/) [assign](/post/assign/) [a](/post/a/) [value](/post/value/) [or](/post/or/) [score](/post/score/) [to](/post/to/): *I'll [rate](/post/rate/) [this](/post/this/) [movie](/post/movie/) based [on](/post/on/) [its](/post/its/) storyline [and](/post/and/) acting.*
+2. [To](/post/to/) [set](/post/set/) [or](/post/or/) [determine](/post/determine/) [the](/post/the/) [price](/post/price/) [or](/post/or/) [charge](/post/charge/): *[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [rate](/post/rate/) [their](/post/their/) services higher [next](/post/next/) [year](/post/year/).*
+3. [To](/post/to/) [perceive](/post/perceive/) [or](/post/or/) [judge](/post/judge/) [the](/post/the/) [quality](/post/quality/) [or](/post/or/) [level](/post/level/) [of](/post/of/): *[She](/post/she/) rates [her](/post/her/) students' [work](/post/work/) [on](/post/on/) [a](/post/a/) [scale](/post/scale/) [of](/post/of/) 1 [to](/post/to/) 10.*
 
-### [Adjective](/en/post/adjective/)
-1. Measured [by](/en/post/by/) [a](/en/post/a/) [standard](/en/post/standard/) [or](/en/post/or/) [scale](/en/post/scale/): *[Her](/en/post/her/) [performance](/en/post/performance/) was rated [excellent](/en/post/excellent/).*
-2. Characterized [by](/en/post/by/) [a](/en/post/a/) [specific](/en/post/specific/) [level](/en/post/level/) [or](/en/post/or/) [degree](/en/post/degree/): *[A](/en/post/a/) five-star [hotel](/en/post/hotel/) offers [a](/en/post/a/) luxurious [rate](/en/post/rate/) [of](/en/post/of/) [service](/en/post/service/).*
+### [Adjective](/post/adjective/)
+1. Measured [by](/post/by/) [a](/post/a/) [standard](/post/standard/) [or](/post/or/) [scale](/post/scale/): *[Her](/post/her/) [performance](/post/performance/) was rated [excellent](/post/excellent/).*
+2. Characterized [by](/post/by/) [a](/post/a/) [specific](/post/specific/) [level](/post/level/) [or](/post/or/) [degree](/post/degree/): *[A](/post/a/) five-star [hotel](/post/hotel/) offers [a](/post/a/) luxurious [rate](/post/rate/) [of](/post/of/) [service](/post/service/).*
 
 ## Phrases
-- "[Rate](/en/post/rate/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) numerical [value](/en/post/value/) [or](/en/post/or/) assessment.
-- "[Go](/en/post/go/) [by](/en/post/by/) [rate](/en/post/rate/)" refers [to](/en/post/to/) [being](/en/post/being/) determined [or](/en/post/or/) calculated according [to](/en/post/to/) [a](/en/post/a/) [set](/en/post/set/) [price](/en/post/price/).
-- "[Below](/en/post/below/) [average](/en/post/average/) [rate](/en/post/rate/)" indicates [a](/en/post/a/) lesser [quality](/en/post/quality/) [or](/en/post/or/) [performance](/en/post/performance/).
+- "[Rate](/post/rate/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [give](/post/give/) [a](/post/a/) numerical [value](/post/value/) [or](/post/or/) assessment.
+- "[Go](/post/go/) [by](/post/by/) [rate](/post/rate/)" refers [to](/post/to/) [being](/post/being/) determined [or](/post/or/) calculated according [to](/post/to/) [a](/post/a/) [set](/post/set/) [price](/post/price/).
+- "[Below](/post/below/) [average](/post/average/) [rate](/post/rate/)" indicates [a](/post/a/) lesser [quality](/post/quality/) [or](/post/or/) [performance](/post/performance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[The](/en/post/the/) unemployment [rate](/en/post/rate/) dropped significantly [last](/en/post/last/) [quarter](/en/post/quarter/).*
-- **[Verb](/en/post/verb/)**: *[The](/en/post/the/) [mechanic](/en/post/mechanic/) rated [the](/en/post/the/) [engine](/en/post/engine/) [as](/en/post/as/) needing [a](/en/post/a/) tune-up.*
-- **[Adjective](/en/post/adjective/)**: *[The](/en/post/the/) restaurant's dining [experience](/en/post/experience/) is rated [four](/en/post/four/) stars [for](/en/post/for/) [its](/en/post/its/) impeccable [service](/en/post/service/).*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[The](/post/the/) unemployment [rate](/post/rate/) dropped significantly [last](/post/last/) [quarter](/post/quarter/).*
+- **[Verb](/post/verb/)**: *[The](/post/the/) [mechanic](/post/mechanic/) rated [the](/post/the/) [engine](/post/engine/) [as](/post/as/) needing [a](/post/a/) tune-up.*
+- **[Adjective](/post/adjective/)**: *[The](/post/the/) restaurant's dining [experience](/post/experience/) is rated [four](/post/four/) stars [for](/post/for/) [its](/post/its/) impeccable [service](/post/service/).*
 
 ## Synonyms
-- [Speed](/en/post/speed/)
-- [Degree](/en/post/degree/)
+- [Speed](/post/speed/)
+- [Degree](/post/degree/)
 - Assessment
 - Valuation
 - Evaluation
 - Ranking
 - Tier
-- [Standard](/en/post/standard/)
+- [Standard](/post/standard/)

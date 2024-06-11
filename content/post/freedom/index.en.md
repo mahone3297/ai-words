@@ -7,32 +7,32 @@ description = '[ˈfriːdəm] n.自由；自主'
 keywords = ['ai words', 'freedom']
 +++
 
-## [Word](/en/post/word/): [Freedom](/en/post/freedom/)
+## [Word](/post/word/): [Freedom](/post/freedom/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfriːdəm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [free](/en/post/free/), [especially](/en/post/especially/) [from](/en/post/from/) oppressive restrictions [or](/en/post/or/) [control](/en/post/control/) [by](/en/post/by/) [another](/en/post/another/) [person](/en/post/person/) [or](/en/post/or/) [by](/en/post/by/) [a](/en/post/a/) [government](/en/post/government/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [power](/en/post/power/) [or](/en/post/or/) [right](/en/post/right/) [to](/en/post/to/) [act](/en/post/act/), [speak](/en/post/speak/), [or](/en/post/or/) [think](/en/post/think/) [without](/en/post/without/) externally imposed restraints. [For](/en/post/for/) [instance](/en/post/instance/): "[They](/en/post/they/) [finally](/en/post/finally/) achieved [their](/en/post/their/) long-fought-for [freedom](/en/post/freedom/) [from](/en/post/from/) tyranny."
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [free](/post/free/), [especially](/post/especially/) [from](/post/from/) oppressive restrictions [or](/post/or/) [control](/post/control/) [by](/post/by/) [another](/post/another/) [person](/post/person/) [or](/post/or/) [by](/post/by/) [a](/post/a/) [government](/post/government/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [power](/post/power/) [or](/post/or/) [right](/post/right/) [to](/post/to/) [act](/post/act/), [speak](/post/speak/), [or](/post/or/) [think](/post/think/) [without](/post/without/) externally imposed restraints. [For](/post/for/) [instance](/post/instance/): "[They](/post/they/) [finally](/post/finally/) achieved [their](/post/their/) long-fought-for [freedom](/post/freedom/) [from](/post/from/) tyranny."
 
-[Example](/en/post/example/) [sentence](/en/post/sentence/): _"[The](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) [freedom](/en/post/freedom/) is [central](/en/post/central/) [to](/en/post/to/) [many](/en/post/many/) [political](/en/post/political/) [and](/en/post/and/) philosophical discussions."_
+[Example](/post/example/) [sentence](/post/sentence/): _"[The](/post/the/) [concept](/post/concept/) [of](/post/of/) [freedom](/post/freedom/) is [central](/post/central/) [to](/post/to/) [many](/post/many/) [political](/post/political/) [and](/post/and/) philosophical discussions."_
   
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) [under](/en/post/under/) [the](/en/post/the/) [control](/en/post/control/) [or](/en/post/or/) [in](/en/post/in/) [the](/en/post/the/) [power](/en/post/power/) [of](/en/post/of/) [another](/en/post/another/); [able](/en/post/able/) [to](/en/post/to/) [act](/en/post/act/) [or](/en/post/or/) [be](/en/post/be/) done [as](/en/post/as/) [one](/en/post/one/) wishes. [Example](/en/post/example/) [sentence](/en/post/sentence/): _"[Freedom](/en/post/freedom/) [of](/en/post/of/) [speech](/en/post/speech/) allows individuals [to](/en/post/to/) [express](/en/post/express/) [their](/en/post/their/) opinions openly."_
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) [under](/post/under/) [the](/post/the/) [control](/post/control/) [or](/post/or/) [in](/post/in/) [the](/post/the/) [power](/post/power/) [of](/post/of/) [another](/post/another/); [able](/post/able/) [to](/post/to/) [act](/post/act/) [or](/post/or/) [be](/post/be/) done [as](/post/as/) [one](/post/one/) wishes. [Example](/post/example/) [sentence](/post/sentence/): _"[Freedom](/post/freedom/) [of](/post/of/) [speech](/post/speech/) allows individuals [to](/post/to/) [express](/post/express/) [their](/post/their/) opinions openly."_
 
 ## Phrases
-- "[Personal](/en/post/personal/) [freedom](/en/post/freedom/)": [The](/en/post/the/) [liberty](/en/post/liberty/) an [individual](/en/post/individual/) has [to](/en/post/to/) [make](/en/post/make/) choices [without](/en/post/without/) [external](/en/post/external/) constraints.
-- "[Political](/en/post/political/) [freedom](/en/post/freedom/)": [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [able](/en/post/able/) [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [politics](/en/post/politics/) [and](/en/post/and/) [civil](/en/post/civil/) [society](/en/post/society/) [without](/en/post/without/) [fear](/en/post/fear/) [of](/en/post/of/) oppression [or](/en/post/or/) censorship.
-- "[Freedom](/en/post/freedom/) fighter": [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) takes [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [resistance](/en/post/resistance/) [movement](/en/post/movement/) [against](/en/post/against/) an oppressive regime.
+- "[Personal](/post/personal/) [freedom](/post/freedom/)": [The](/post/the/) [liberty](/post/liberty/) an [individual](/post/individual/) has [to](/post/to/) [make](/post/make/) choices [without](/post/without/) [external](/post/external/) constraints.
+- "[Political](/post/political/) [freedom](/post/freedom/)": [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [able](/post/able/) [to](/post/to/) [participate](/post/participate/) [in](/post/in/) [politics](/post/politics/) [and](/post/and/) [civil](/post/civil/) [society](/post/society/) [without](/post/without/) [fear](/post/fear/) [of](/post/of/) oppression [or](/post/or/) censorship.
+- "[Freedom](/post/freedom/) fighter": [A](/post/a/) [person](/post/person/) [who](/post/who/) takes [part](/post/part/) [in](/post/in/) [a](/post/a/) [resistance](/post/resistance/) [movement](/post/movement/) [against](/post/against/) an oppressive regime.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) country's declaration [of](/en/post/of/) [independence](/en/post/independence/) marked [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [its](/en/post/its/) [journey](/en/post/journey/) towards [true](/en/post/true/) [freedom](/en/post/freedom/)."
-- **[Adjective](/en/post/adjective/)**: "[A](/en/post/a/) freedom-loving [people](/en/post/people/) [will](/en/post/will/) [always](/en/post/always/) strive [to](/en/post/to/) [protect](/en/post/protect/) [their](/en/post/their/) liberties."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) country's declaration [of](/post/of/) [independence](/post/independence/) marked [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [its](/post/its/) [journey](/post/journey/) towards [true](/post/true/) [freedom](/post/freedom/)."
+- **[Adjective](/post/adjective/)**: "[A](/post/a/) freedom-loving [people](/post/people/) [will](/post/will/) [always](/post/always/) strive [to](/post/to/) [protect](/post/protect/) [their](/post/their/) liberties."
 
 ## Synonyms
-- [Liberty](/en/post/liberty/)
-- [Independence](/en/post/independence/)
+- [Liberty](/post/liberty/)
+- [Independence](/post/independence/)
 - Autonomy
 - Unrestrainedness
-- [Liberation](/en/post/liberation/)
+- [Liberation](/post/liberation/)
 - Self-determination
 - Emancipation

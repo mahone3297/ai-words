@@ -7,37 +7,37 @@ description = '[bruːd] n.同窝幼鸟 vt.孵(蛋)'
 keywords = ['ai words', 'brood']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /broʊd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [brood](/en/post/brood/) refers [to](/en/post/to/):
-1. [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) offspring, [especially](/en/post/especially/) [young](/en/post/young/) birds [or](/en/post/or/) insects, [that](/en/post/that/) are [being](/en/post/being/) cared [for](/en/post/for/) [by](/en/post/by/) [their](/en/post/their/) parents: "[The](/en/post/the/) birds were [busy](/en/post/busy/) brooding [over](/en/post/over/) [their](/en/post/their/) [newly](/en/post/newly/) hatched [brood](/en/post/brood/)."
-2. [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [during](/en/post/during/) [which](/en/post/which/) [someone](/en/post/someone/) sits [on](/en/post/on/) eggs [to](/en/post/to/) incubate [them](/en/post/them/), typically [by](/en/post/by/) birds: "[The](/en/post/the/) [mother](/en/post/mother/) [hen](/en/post/hen/) was brooding [over](/en/post/over/) [her](/en/post/her/) eggs [in](/en/post/in/) [the](/en/post/the/) [nest](/en/post/nest/)."
+### [Noun](/post/noun/)
+[A](/post/a/) [brood](/post/brood/) refers [to](/post/to/):
+1. [A](/post/a/) [group](/post/group/) [of](/post/of/) offspring, [especially](/post/especially/) [young](/post/young/) birds [or](/post/or/) insects, [that](/post/that/) are [being](/post/being/) cared [for](/post/for/) [by](/post/by/) [their](/post/their/) parents: "[The](/post/the/) birds were [busy](/post/busy/) brooding [over](/post/over/) [their](/post/their/) [newly](/post/newly/) hatched [brood](/post/brood/)."
+2. [A](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/) [during](/post/during/) [which](/post/which/) [someone](/post/someone/) sits [on](/post/on/) eggs [to](/post/to/) incubate [them](/post/them/), typically [by](/post/by/) birds: "[The](/post/the/) [mother](/post/mother/) [hen](/post/hen/) was brooding [over](/post/over/) [her](/post/her/) eggs [in](/post/in/) [the](/post/the/) [nest](/post/nest/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [brood](/en/post/brood/) [means](/en/post/means/):
-1. [To](/en/post/to/) [sit](/en/post/sit/) thoughtfully [or](/en/post/or/) [with](/en/post/with/) [deep](/en/post/deep/) [concern](/en/post/concern/), [often](/en/post/often/) [over](/en/post/over/) [a](/en/post/a/) [problem](/en/post/problem/) [or](/en/post/or/) [loss](/en/post/loss/): "[After](/en/post/after/) [the](/en/post/the/) breakup, [she](/en/post/she/) spent months brooding [over](/en/post/over/) [the](/en/post/the/) [past](/en/post/past/) [relationship](/en/post/relationship/)."
-2. (Transitive) [To](/en/post/to/) [hatch](/en/post/hatch/) [or](/en/post/or/) incubate (eggs): "[The](/en/post/the/) chickens were brooding [their](/en/post/their/) eggs [for](/en/post/for/) [the](/en/post/the/) [next](/en/post/next/) [generation](/en/post/generation/)."
+### [Verb](/post/verb/)
+[To](/post/to/) [brood](/post/brood/) [means](/post/means/):
+1. [To](/post/to/) [sit](/post/sit/) thoughtfully [or](/post/or/) [with](/post/with/) [deep](/post/deep/) [concern](/post/concern/), [often](/post/often/) [over](/post/over/) [a](/post/a/) [problem](/post/problem/) [or](/post/or/) [loss](/post/loss/): "[After](/post/after/) [the](/post/the/) breakup, [she](/post/she/) spent months brooding [over](/post/over/) [the](/post/the/) [past](/post/past/) [relationship](/post/relationship/)."
+2. (Transitive) [To](/post/to/) [hatch](/post/hatch/) [or](/post/or/) incubate (eggs): "[The](/post/the/) chickens were brooding [their](/post/their/) eggs [for](/post/for/) [the](/post/the/) [next](/post/next/) [generation](/post/generation/)."
 
-### [Adjective](/en/post/adjective/)
-Brooding [can](/en/post/can/) [describe](/en/post/describe/):
-1. Characterized [by](/en/post/by/) introspection [or](/en/post/or/) [gloomy](/en/post/gloomy/) thoughts: "[A](/en/post/a/) brooding [atmosphere](/en/post/atmosphere/) hung [over](/en/post/over/) [the](/en/post/the/) [dark](/en/post/dark/) [forest](/en/post/forest/)."
-2. Intent [on](/en/post/on/) brooding [over](/en/post/over/) [something](/en/post/something/): "[He](/en/post/he/) had [a](/en/post/a/) brooding [expression](/en/post/expression/) [on](/en/post/on/) [his](/en/post/his/) [face](/en/post/face/)."
+### [Adjective](/post/adjective/)
+Brooding [can](/post/can/) [describe](/post/describe/):
+1. Characterized [by](/post/by/) introspection [or](/post/or/) [gloomy](/post/gloomy/) thoughts: "[A](/post/a/) brooding [atmosphere](/post/atmosphere/) hung [over](/post/over/) [the](/post/the/) [dark](/post/dark/) [forest](/post/forest/)."
+2. Intent [on](/post/on/) brooding [over](/post/over/) [something](/post/something/): "[He](/post/he/) had [a](/post/a/) brooding [expression](/post/expression/) [on](/post/on/) [his](/post/his/) [face](/post/face/)."
 
 ## Phrases
-- "[Brood](/en/post/brood/) [over](/en/post/over/)" implies [to](/en/post/to/) dwell [on](/en/post/on/) [or](/en/post/or/) ponder intensively.
-- "She's brooding [because](/en/post/because/) she's [upset](/en/post/upset/)."
-- "[The](/en/post/the/) [old](/en/post/old/) [owl](/en/post/owl/) was perched [on](/en/post/on/) [a](/en/post/a/) [branch](/en/post/branch/), brooding silently."
+- "[Brood](/post/brood/) [over](/post/over/)" implies [to](/post/to/) dwell [on](/post/on/) [or](/post/or/) ponder intensively.
+- "She's brooding [because](/post/because/) she's [upset](/post/upset/)."
+- "[The](/post/the/) [old](/post/old/) [owl](/post/owl/) was perched [on](/post/on/) [a](/post/a/) [branch](/post/branch/), brooding silently."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [nest](/en/post/nest/) contained [several](/en/post/several/) eggs, waiting [for](/en/post/for/) [the](/en/post/the/) [mother](/en/post/mother/) [bird](/en/post/bird/) [to](/en/post/to/) [brood](/en/post/brood/) [over](/en/post/over/) [them](/en/post/them/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) losing [her](/en/post/her/) [job](/en/post/job/), [she](/en/post/she/) retreated [to](/en/post/to/) [her](/en/post/her/) [room](/en/post/room/), brooding [over](/en/post/over/) [her](/en/post/her/) [future](/en/post/future/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) brooding clouds indicated an approaching [storm](/en/post/storm/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [nest](/post/nest/) contained [several](/post/several/) eggs, waiting [for](/post/for/) [the](/post/the/) [mother](/post/mother/) [bird](/post/bird/) [to](/post/to/) [brood](/post/brood/) [over](/post/over/) [them](/post/them/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) losing [her](/post/her/) [job](/post/job/), [she](/post/she/) retreated [to](/post/to/) [her](/post/her/) [room](/post/room/), brooding [over](/post/over/) [her](/post/her/) [future](/post/future/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) brooding clouds indicated an approaching [storm](/post/storm/)."
 
 ## Synonyms
-- Parental [care](/en/post/care/)
+- Parental [care](/post/care/)
 - Incubation
 - Mournful
 - Reflective

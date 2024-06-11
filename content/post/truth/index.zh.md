@@ -11,21 +11,21 @@ keywords = ['ai words', 'truth']
 /truːθ/
 
 ## 释义
-- **名词**: 真实，事实，真相。例如: "[The](/post/the/) [truth](/post/truth/) [will](/post/will/) [eventually](/post/eventually/) [come](/post/come/) [out](/post/out/)."
-- **形容词**: 真实的，符合事实的。例如: "[She](/post/she/) spoke [with](/post/with/) [a](/post/a/) [truth](/post/truth/) [that](/post/that/) [left](/post/left/) [no](/post/no/) [doubt](/post/doubt/) [in](/post/in/) anyone's [mind](/post/mind/)."
+- **名词**: 真实，事实，真相。例如: "[The](/zh/post/the/) [truth](/zh/post/truth/) [will](/zh/post/will/) [eventually](/zh/post/eventually/) [come](/zh/post/come/) [out](/zh/post/out/)."
+- **形容词**: 真实的，符合事实的。例如: "[She](/zh/post/she/) spoke [with](/zh/post/with/) [a](/zh/post/a/) [truth](/zh/post/truth/) [that](/zh/post/that/) [left](/zh/post/left/) [no](/zh/post/no/) [doubt](/zh/post/doubt/) [in](/zh/post/in/) anyone's [mind](/zh/post/mind/)."
 
 ## 短语
-- "[Tell](/post/tell/) [the](/post/the/) [truth](/post/truth/)" 意为说实话，讲真话。
-- "[The](/post/the/) [whole](/post/whole/) [truth](/post/truth/)" 指全部的事实，没有遗漏。
-- "[In](/post/in/) [search](/post/search/) [of](/post/of/) [truth](/post/truth/)" 表示寻求真相。
+- "[Tell](/zh/post/tell/) [the](/zh/post/the/) [truth](/zh/post/truth/)" 意为说实话，讲真话。
+- "[The](/zh/post/the/) [whole](/zh/post/whole/) [truth](/zh/post/truth/)" 指全部的事实，没有遗漏。
+- "[In](/zh/post/in/) [search](/zh/post/search/) [of](/zh/post/of/) [truth](/zh/post/truth/)" 表示寻求真相。
 
 ## 例句
-- 名词: "[We](/post/we/) [should](/post/should/) [always](/post/always/) strive [to](/post/to/) [uncover](/post/uncover/) [the](/post/the/) [truth](/post/truth/), [no](/post/no/) [matter](/post/matter/) [how](/post/how/) [difficult](/post/difficult/) [it](/post/it/) [may](/post/may/) [be](/post/be/)."
-- 形容词: "[His](/post/his/) [statement](/post/statement/) was [so](/post/so/) convincing [that](/post/that/) [it](/post/it/) seemed [to](/post/to/) [be](/post/be/) [the](/post/the/) [truth](/post/truth/)."
+- 名词: "[We](/zh/post/we/) [should](/zh/post/should/) [always](/zh/post/always/) strive [to](/zh/post/to/) [uncover](/zh/post/uncover/) [the](/zh/post/the/) [truth](/zh/post/truth/), [no](/zh/post/no/) [matter](/zh/post/matter/) [how](/zh/post/how/) [difficult](/zh/post/difficult/) [it](/zh/post/it/) [may](/zh/post/may/) [be](/zh/post/be/)."
+- 形容词: "[His](/zh/post/his/) [statement](/zh/post/statement/) was [so](/zh/post/so/) convincing [that](/zh/post/that/) [it](/zh/post/it/) seemed [to](/zh/post/to/) [be](/zh/post/be/) [the](/zh/post/the/) [truth](/zh/post/truth/)."
 
 ## 同义词
-- [Fact](/post/fact/)
-- [Reality](/post/reality/)
-- [Accuracy](/post/accuracy/)
-- [Honesty](/post/honesty/)
+- [Fact](/zh/post/fact/)
+- [Reality](/zh/post/reality/)
+- [Accuracy](/zh/post/accuracy/)
+- [Honesty](/zh/post/honesty/)
 - Veracity

@@ -11,23 +11,23 @@ keywords = ['ai words', 'milk']
 /mɪlk/
 
 ## 释义
-- **名词**: 乳汁，尤指哺乳动物（如牛）分泌的乳汁。例如: "[She](/post/she/) drank [a](/post/a/) [glass](/post/glass/) [of](/post/of/) [cold](/post/cold/) [milk](/post/milk/) [for](/post/for/) [breakfast](/post/breakfast/)."
-- **名词**: 牛奶制品，如奶粉、酸奶、黄油等。例如: "I [love](/post/love/) [to](/post/to/) [have](/post/have/) cereal [with](/post/with/) [milk](/post/milk/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
-- **动词**: 从乳房中挤出乳汁。例如: "[The](/post/the/) [farmer](/post/farmer/) milked [the](/post/the/) cows [early](/post/early/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
-- **动词**: 指榨取某物的最大利益或好处。例如: "They're milking [the](/post/the/) [situation](/post/situation/) [for](/post/for/) [all](/post/all/) it's [worth](/post/worth/)."
+- **名词**: 乳汁，尤指哺乳动物（如牛）分泌的乳汁。例如: "[She](/zh/post/she/) drank [a](/zh/post/a/) [glass](/zh/post/glass/) [of](/zh/post/of/) [cold](/zh/post/cold/) [milk](/zh/post/milk/) [for](/zh/post/for/) [breakfast](/zh/post/breakfast/)."
+- **名词**: 牛奶制品，如奶粉、酸奶、黄油等。例如: "I [love](/zh/post/love/) [to](/zh/post/to/) [have](/zh/post/have/) cereal [with](/zh/post/with/) [milk](/zh/post/milk/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+- **动词**: 从乳房中挤出乳汁。例如: "[The](/zh/post/the/) [farmer](/zh/post/farmer/) milked [the](/zh/post/the/) cows [early](/zh/post/early/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+- **动词**: 指榨取某物的最大利益或好处。例如: "They're milking [the](/zh/post/the/) [situation](/zh/post/situation/) [for](/zh/post/for/) [all](/zh/post/all/) it's [worth](/zh/post/worth/)."
 
 ## 短语
-- "[milk](/post/milk/) [the](/post/the/) [cow](/post/cow/)" 指挤牛奶或比喻榨取利益。
-- "[milk](/post/milk/) [tea](/post/tea/)" 奶茶，一种混合了茶叶和牛奶的饮品。
+- "[milk](/zh/post/milk/) [the](/zh/post/the/) [cow](/zh/post/cow/)" 指挤牛奶或比喻榨取利益。
+- "[milk](/zh/post/milk/) [tea](/zh/post/tea/)" 奶茶，一种混合了茶叶和牛奶的饮品。
 
 ## 例句
-- 名词: "[My](/post/my/) [baby](/post/baby/) drinks [formula](/post/formula/) made [from](/post/from/) powdered [milk](/post/milk/)."
-- 动词: "[She](/post/she/) milks [her](/post/her/) [own](/post/own/) goats [every](/post/every/) [day](/post/day/)."
-- 动词 (比喻): "[Some](/post/some/) companies [milk](/post/milk/) [their](/post/their/) customers [by](/post/by/) charging hidden fees."
+- 名词: "[My](/zh/post/my/) [baby](/zh/post/baby/) drinks [formula](/zh/post/formula/) made [from](/zh/post/from/) powdered [milk](/zh/post/milk/)."
+- 动词: "[She](/zh/post/she/) milks [her](/zh/post/her/) [own](/zh/post/own/) goats [every](/zh/post/every/) [day](/zh/post/day/)."
+- 动词 (比喻): "[Some](/zh/post/some/) companies [milk](/zh/post/milk/) [their](/zh/post/their/) customers [by](/zh/post/by/) charging hidden fees."
 
 ## 同义词
-- [Dairy](/post/dairy/)
-- [Cream](/post/cream/)
+- [Dairy](/zh/post/dairy/)
+- [Cream](/zh/post/cream/)
 - Lactate
-- [Milk](/post/milk/) [product](/post/product/)
+- [Milk](/zh/post/milk/) [product](/zh/post/product/)
 - Beverage

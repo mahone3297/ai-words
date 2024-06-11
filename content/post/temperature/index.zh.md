@@ -12,21 +12,21 @@ keywords = ['ai words', 'temperature']
 
 ## 释义
 - **名词 n**:
-  - 温度：物体或环境的冷热程度，通常以摄氏度（Celsius）或华氏度（Fahrenheit）为单位测量。例如: "[The](/post/the/) [temperature](/post/temperature/) [outside](/post/outside/) is 25 degrees Celsius."
-  - 气氛：特定情境下的情绪或感觉。例如: "[There](/post/there/) was [a](/post/a/) [tense](/post/tense/) [temperature](/post/temperature/) [in](/post/in/) [the](/post/the/) [room](/post/room/) [during](/post/during/) [the](/post/the/) [argument](/post/argument/)."
+  - 温度：物体或环境的冷热程度，通常以摄氏度（Celsius）或华氏度（Fahrenheit）为单位测量。例如: "[The](/zh/post/the/) [temperature](/zh/post/temperature/) [outside](/zh/post/outside/) is 25 degrees Celsius."
+  - 气氛：特定情境下的情绪或感觉。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [tense](/zh/post/tense/) [temperature](/zh/post/temperature/) [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/) [during](/zh/post/during/) [the](/zh/post/the/) [argument](/zh/post/argument/)."
 
 ## 短语
-- "[temperature](/post/temperature/) [gauge](/post/gauge/)" 温度计，用来测量温度的工具。
-- "[body](/post/body/) [temperature](/post/temperature/)" 体温，人体内部的温度。
-- "[room](/post/room/) [temperature](/post/temperature/)" 室温，室内未受调节的空气温度。
+- "[temperature](/zh/post/temperature/) [gauge](/zh/post/gauge/)" 温度计，用来测量温度的工具。
+- "[body](/zh/post/body/) [temperature](/zh/post/temperature/)" 体温，人体内部的温度。
+- "[room](/zh/post/room/) [temperature](/zh/post/temperature/)" 室温，室内未受调节的空气温度。
 
 ## 例句
-- 名词: "[The](/post/the/) [temperature](/post/temperature/) dropped [suddenly](/post/suddenly/), [and](/post/and/) [we](/post/we/) had [to](/post/to/) [put](/post/put/) [on](/post/on/) [more](/post/more/) [clothes](/post/clothes/)."
-- 气氛: "[After](/post/after/) [the](/post/the/) [speech](/post/speech/), [the](/post/the/) [temperature](/post/temperature/) [in](/post/in/) [the](/post/the/) [room](/post/room/) seemed [to](/post/to/) [rise](/post/rise/) [with](/post/with/) excitement."
+- 名词: "[The](/zh/post/the/) [temperature](/zh/post/temperature/) dropped [suddenly](/zh/post/suddenly/), [and](/zh/post/and/) [we](/zh/post/we/) had [to](/zh/post/to/) [put](/zh/post/put/) [on](/zh/post/on/) [more](/zh/post/more/) [clothes](/zh/post/clothes/)."
+- 气氛: "[After](/zh/post/after/) [the](/zh/post/the/) [speech](/zh/post/speech/), [the](/zh/post/the/) [temperature](/zh/post/temperature/) [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/) seemed [to](/zh/post/to/) [rise](/zh/post/rise/) [with](/zh/post/with/) excitement."
 
 ## 同义词
-- [heat](/post/heat/)
-- [warmth](/post/warmth/)
+- [heat](/zh/post/heat/)
+- [warmth](/zh/post/warmth/)
 - coldness
-- [chill](/post/chill/)
-- thermal [level](/post/level/)
+- [chill](/zh/post/chill/)
+- thermal [level](/zh/post/level/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'prominent']
 /prəˈmɪnənt/
 
 ## 释义
-- **形容词**: 显著的，突出的，重要的。例如: "[He](/post/he/) played [a](/post/a/) [prominent](/post/prominent/) [role](/post/role/) [in](/post/in/) [the](/post/the/) [project](/post/project/)."
-- **名词**: 有名望的人，杰出人物。例如: "[She](/post/she/) is [a](/post/a/) [prominent](/post/prominent/) [figure](/post/figure/) [in](/post/in/) [the](/post/the/) [art](/post/art/) [world](/post/world/)."
+- **形容词**: 显著的，突出的，重要的。例如: "[He](/zh/post/he/) played [a](/zh/post/a/) [prominent](/zh/post/prominent/) [role](/zh/post/role/) [in](/zh/post/in/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- **名词**: 有名望的人，杰出人物。例如: "[She](/zh/post/she/) is [a](/zh/post/a/) [prominent](/zh/post/prominent/) [figure](/zh/post/figure/) [in](/zh/post/in/) [the](/zh/post/the/) [art](/zh/post/art/) [world](/zh/post/world/)."
 
 ## 短语
-- "[prominent](/post/prominent/) [feature](/post/feature/)" 指的是显著的特征或特点。
-- "[prominent](/post/prominent/) [position](/post/position/)" 意味着显眼或重要的位置。
+- "[prominent](/zh/post/prominent/) [feature](/zh/post/feature/)" 指的是显著的特征或特点。
+- "[prominent](/zh/post/prominent/) [position](/zh/post/position/)" 意味着显眼或重要的位置。
 
 ## 例句
-- 形容词: "[The](/post/the/) [mountain](/post/mountain/) [peak](/post/peak/) is [so](/post/so/) [prominent](/post/prominent/) [that](/post/that/) [it](/post/it/) [can](/post/can/) [be](/post/be/) seen [from](/post/from/) miles [away](/post/away/)."
-- 名词: "[He](/post/he/) is [a](/post/a/) [prominent](/post/prominent/) [scientist](/post/scientist/) [whose](/post/whose/) [work](/post/work/) has influenced [many](/post/many/) others."
+- 形容词: "[The](/zh/post/the/) [mountain](/zh/post/mountain/) [peak](/zh/post/peak/) is [so](/zh/post/so/) [prominent](/zh/post/prominent/) [that](/zh/post/that/) [it](/zh/post/it/) [can](/zh/post/can/) [be](/zh/post/be/) seen [from](/zh/post/from/) miles [away](/zh/post/away/)."
+- 名词: "[He](/zh/post/he/) is [a](/zh/post/a/) [prominent](/zh/post/prominent/) [scientist](/zh/post/scientist/) [whose](/zh/post/whose/) [work](/zh/post/work/) has influenced [many](/zh/post/many/) others."
 
 ## 同义词
-- [Outstanding](/post/outstanding/)
+- [Outstanding](/zh/post/outstanding/)
 - Notable
-- [Famous](/post/famous/)
+- [Famous](/zh/post/famous/)
 - Distinguished
-- [Prominent](/post/prominent/) personage
+- [Prominent](/zh/post/prominent/) personage

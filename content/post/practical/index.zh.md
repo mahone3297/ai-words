@@ -11,21 +11,21 @@ keywords = ['ai words', 'practical']
 /prækˈtɪkl/
 
 ## 释义
-- **形容词**: 实际的，实用的，切合实际的。例如: "[She](/post/she/) has [a](/post/a/) [very](/post/very/) [practical](/post/practical/) [approach](/post/approach/) [to](/post/to/) problem-solving."
-- **名词**: 实践，实际操作。例如: "[The](/post/the/) [course](/post/course/) includes [some](/post/some/) [practical](/post/practical/) sessions [in](/post/in/) [the](/post/the/) [lab](/post/lab/)."
+- **形容词**: 实际的，实用的，切合实际的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [very](/zh/post/very/) [practical](/zh/post/practical/) [approach](/zh/post/approach/) [to](/zh/post/to/) problem-solving."
+- **名词**: 实践，实际操作。例如: "[The](/zh/post/the/) [course](/zh/post/course/) includes [some](/zh/post/some/) [practical](/zh/post/practical/) sessions [in](/zh/post/in/) [the](/zh/post/the/) [lab](/zh/post/lab/)."
 
 ## 短语
-- "[practical](/post/practical/) skills" 指实际操作或应用技能。
-- "[practical](/post/practical/) [knowledge](/post/knowledge/)" 指通过实践获得的知识。
-- "[put](/post/put/) [something](/post/something/) [into](/post/into/) [practice](/post/practice/)" 意为将理论付诸实践。
+- "[practical](/zh/post/practical/) skills" 指实际操作或应用技能。
+- "[practical](/zh/post/practical/) [knowledge](/zh/post/knowledge/)" 指通过实践获得的知识。
+- "[put](/zh/post/put/) [something](/zh/post/something/) [into](/zh/post/into/) [practice](/zh/post/practice/)" 意为将理论付诸实践。
 
 ## 例句
-- 形容词: "[The](/post/the/) [new](/post/new/) [design](/post/design/) is [not](/post/not/) [only](/post/only/) stylish [but](/post/but/) [also](/post/also/) [very](/post/very/) [practical](/post/practical/) [for](/post/for/) [everyday](/post/everyday/) [use](/post/use/)."
-- 名词: "[In](/post/in/) [the](/post/the/) cooking [class](/post/class/), students [learn](/post/learn/) [both](/post/both/) [the](/post/the/) [theory](/post/theory/) [and](/post/and/) [the](/post/the/) [practical](/post/practical/) aspects [of](/post/of/) cooking."
+- 形容词: "[The](/zh/post/the/) [new](/zh/post/new/) [design](/zh/post/design/) is [not](/zh/post/not/) [only](/zh/post/only/) stylish [but](/zh/post/but/) [also](/zh/post/also/) [very](/zh/post/very/) [practical](/zh/post/practical/) [for](/zh/post/for/) [everyday](/zh/post/everyday/) [use](/zh/post/use/)."
+- 名词: "[In](/zh/post/in/) [the](/zh/post/the/) cooking [class](/zh/post/class/), students [learn](/zh/post/learn/) [both](/zh/post/both/) [the](/zh/post/the/) [theory](/zh/post/theory/) [and](/zh/post/and/) [the](/zh/post/the/) [practical](/zh/post/practical/) aspects [of](/zh/post/of/) cooking."
 
 ## 同义词
 - Applied
 - Realistic
-- [Sensible](/post/sensible/)
+- [Sensible](/zh/post/sensible/)
 - Workable
-- [Feasible](/post/feasible/)
+- [Feasible](/zh/post/feasible/)

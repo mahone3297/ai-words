@@ -7,39 +7,39 @@ description = '[ˈprɔpəti] n.财产，资产；性质'
 keywords = ['ai words', 'property']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈprɒpərti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Ownership](/en/post/ownership/) [or](/en/post/or/) [possession](/en/post/possession/)**: [The](/en/post/the/) [legal](/en/post/legal/) [right](/en/post/right/) [to](/en/post/to/) [use](/en/post/use/), [control](/en/post/control/), [or](/en/post/or/) [have](/en/post/have/) [something](/en/post/something/), typically [land](/en/post/land/) [or](/en/post/or/) buildings. [Example](/en/post/example/): "[The](/en/post/the/) [property](/en/post/property/) was passed [down](/en/post/down/) [through](/en/post/through/) generations."
-2. **Characteristics [or](/en/post/or/) features**: [The](/en/post/the/) distinctive qualities [or](/en/post/or/) attributes [of](/en/post/of/) [a](/en/post/a/) [thing](/en/post/thing/) [or](/en/post/or/) [person](/en/post/person/). [Example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) has [many](/en/post/many/) [unique](/en/post/unique/) architectural properties."
-3. **[State](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/)**: [A](/en/post/a/) [particular](/en/post/particular/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [that](/en/post/that/) [something](/en/post/something/) possesses. [Example](/en/post/example/): "[The](/en/post/the/) [property](/en/post/property/) [of](/en/post/of/) [being](/en/post/being/) [waterproof](/en/post/waterproof/) is [essential](/en/post/essential/) [for](/en/post/for/) [a](/en/post/a/) raincoat."
-4. (Economics) **[Resource](/en/post/resource/)**: An [item](/en/post/item/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) [production](/en/post/production/) [or](/en/post/or/) [business](/en/post/business/). [Example](/en/post/example/): "[Real](/en/post/real/) estate is [a](/en/post/a/) [valuable](/en/post/valuable/) [property](/en/post/property/) [in](/en/post/in/) [the](/en/post/the/) [market](/en/post/market/)."
+### [Noun](/post/noun/)
+1. **[Ownership](/post/ownership/) [or](/post/or/) [possession](/post/possession/)**: [The](/post/the/) [legal](/post/legal/) [right](/post/right/) [to](/post/to/) [use](/post/use/), [control](/post/control/), [or](/post/or/) [have](/post/have/) [something](/post/something/), typically [land](/post/land/) [or](/post/or/) buildings. [Example](/post/example/): "[The](/post/the/) [property](/post/property/) was passed [down](/post/down/) [through](/post/through/) generations."
+2. **Characteristics [or](/post/or/) features**: [The](/post/the/) distinctive qualities [or](/post/or/) attributes [of](/post/of/) [a](/post/a/) [thing](/post/thing/) [or](/post/or/) [person](/post/person/). [Example](/post/example/): "[The](/post/the/) [house](/post/house/) has [many](/post/many/) [unique](/post/unique/) architectural properties."
+3. **[State](/post/state/) [or](/post/or/) [condition](/post/condition/)**: [A](/post/a/) [particular](/post/particular/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [that](/post/that/) [something](/post/something/) possesses. [Example](/post/example/): "[The](/post/the/) [property](/post/property/) [of](/post/of/) [being](/post/being/) [waterproof](/post/waterproof/) is [essential](/post/essential/) [for](/post/for/) [a](/post/a/) raincoat."
+4. (Economics) **[Resource](/post/resource/)**: An [item](/post/item/) [that](/post/that/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [in](/post/in/) [production](/post/production/) [or](/post/or/) [business](/post/business/). [Example](/post/example/): "[Real](/post/real/) estate is [a](/post/a/) [valuable](/post/valuable/) [property](/post/property/) [in](/post/in/) [the](/post/the/) [market](/post/market/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [possess](/en/post/possess/) [or](/en/post/or/) [own](/en/post/own/)**: [To](/en/post/to/) [have](/en/post/have/) [legal](/en/post/legal/) rights [to](/en/post/to/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) acquired [several](/en/post/several/) [new](/en/post/new/) properties [last](/en/post/last/) [year](/en/post/year/)."
-2. **[To](/en/post/to/) [attribute](/en/post/attribute/) [or](/en/post/or/) ascribe**: [To](/en/post/to/) [consider](/en/post/consider/) [a](/en/post/a/) [characteristic](/en/post/characteristic/) [or](/en/post/or/) [feature](/en/post/feature/) [to](/en/post/to/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [Example](/en/post/example/): "[She](/en/post/she/) attributed [her](/en/post/her/) [success](/en/post/success/) [to](/en/post/to/) [hard](/en/post/hard/) [work](/en/post/work/) [and](/en/post/and/) [determination](/en/post/determination/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [possess](/post/possess/) [or](/post/or/) [own](/post/own/)**: [To](/post/to/) [have](/post/have/) [legal](/post/legal/) rights [to](/post/to/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) acquired [several](/post/several/) [new](/post/new/) properties [last](/post/last/) [year](/post/year/)."
+2. **[To](/post/to/) [attribute](/post/attribute/) [or](/post/or/) ascribe**: [To](/post/to/) [consider](/post/consider/) [a](/post/a/) [characteristic](/post/characteristic/) [or](/post/or/) [feature](/post/feature/) [to](/post/to/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [Example](/post/example/): "[She](/post/she/) attributed [her](/post/her/) [success](/post/success/) [to](/post/to/) [hard](/post/hard/) [work](/post/work/) [and](/post/and/) [determination](/post/determination/)."
 
 ## Phrases
-- "[Personal](/en/post/personal/) [property](/en/post/property/)" refers [to](/en/post/to/) possessions [not](/en/post/not/) attached [to](/en/post/to/) [land](/en/post/land/).
-- "[Property](/en/post/property/) rights" denote [the](/en/post/the/) [legal](/en/post/legal/) claims [over](/en/post/over/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [land](/en/post/land/) [or](/en/post/or/) asset.
-- "Immovable [property](/en/post/property/)" is [land](/en/post/land/) [or](/en/post/or/) buildings [that](/en/post/that/) cannot [be](/en/post/be/) [easily](/en/post/easily/) moved.
+- "[Personal](/post/personal/) [property](/post/property/)" refers [to](/post/to/) possessions [not](/post/not/) attached [to](/post/to/) [land](/post/land/).
+- "[Property](/post/property/) rights" denote [the](/post/the/) [legal](/post/legal/) claims [over](/post/over/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [land](/post/land/) [or](/post/or/) asset.
+- "Immovable [property](/post/property/)" is [land](/post/land/) [or](/post/or/) buildings [that](/post/that/) cannot [be](/post/be/) [easily](/post/easily/) moved.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [property](/en/post/property/) values [in](/en/post/in/) [this](/en/post/this/) [area](/en/post/area/) [have](/en/post/have/) been [steadily](/en/post/steadily/) rising."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [family](/en/post/family/) inherited [a](/en/post/a/) [large](/en/post/large/) [property](/en/post/property/) [in](/en/post/in/) [the](/en/post/the/) [countryside](/en/post/countryside/)."
-- **Intransitive**: "[The](/en/post/the/) [property](/en/post/property/) [of](/en/post/of/) [sound](/en/post/sound/) waves is [that](/en/post/that/) [they](/en/post/they/) [travel](/en/post/travel/) [through](/en/post/through/) [air](/en/post/air/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [property](/post/property/) values [in](/post/in/) [this](/post/this/) [area](/post/area/) [have](/post/have/) been [steadily](/post/steadily/) rising."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [family](/post/family/) inherited [a](/post/a/) [large](/post/large/) [property](/post/property/) [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/)."
+- **Intransitive**: "[The](/post/the/) [property](/post/property/) [of](/post/of/) [sound](/post/sound/) waves is [that](/post/that/) [they](/post/they/) [travel](/post/travel/) [through](/post/through/) [air](/post/air/)."
 
 ## Synonyms
 - Asset
 - Estate
-- [Real](/en/post/real/) estate
-- [Possession](/en/post/possession/)
-- [Ownership](/en/post/ownership/)
+- [Real](/post/real/) estate
+- [Possession](/post/possession/)
+- [Ownership](/post/ownership/)
 - Attributes
 - Qualities
-- [Characteristic](/en/post/characteristic/)
-- [Feature](/en/post/feature/)
+- [Characteristic](/post/characteristic/)
+- [Feature](/post/feature/)
 - Inheritance
-- [Right](/en/post/right/) ([legal](/en/post/legal/))
+- [Right](/post/right/) ([legal](/post/legal/))

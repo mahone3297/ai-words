@@ -7,39 +7,39 @@ description = '[ˈpistl] n.手枪'
 keywords = ['ai words', 'pistol']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pɪsˈtəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [pistol](/en/post/pistol/) is [a](/en/post/a/) [small](/en/post/small/), handheld firearm typically designed [for](/en/post/for/) [personal](/en/post/personal/) defense [or](/en/post/or/) compact [size](/en/post/size/). [It](/en/post/it/) is [often](/en/post/often/) semi-automatic [or](/en/post/or/) revolver [and](/en/post/and/) [may](/en/post/may/) [be](/en/post/be/) chambered [for](/en/post/for/) [various](/en/post/various/) calibers.
+### [Noun](/post/noun/)
+[A](/post/a/) [pistol](/post/pistol/) is [a](/post/a/) [small](/post/small/), handheld firearm typically designed [for](/post/for/) [personal](/post/personal/) defense [or](/post/or/) compact [size](/post/size/). [It](/post/it/) is [often](/post/often/) semi-automatic [or](/post/or/) revolver [and](/post/and/) [may](/post/may/) [be](/post/be/) chambered [for](/post/for/) [various](/post/various/) calibers.
 
-### [Verb](/en/post/verb/) (informal)
-[To](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [pistol](/en/post/pistol/) [or](/en/post/or/) [imitate](/en/post/imitate/) [its](/en/post/its/) [sound](/en/post/sound/), [usually](/en/post/usually/) [for](/en/post/for/) [emphasis](/en/post/emphasis/) [or](/en/post/or/) playfully. "[He](/en/post/he/) fired [a](/en/post/a/) [pretend](/en/post/pretend/) [pistol](/en/post/pistol/) [during](/en/post/during/) [the](/en/post/the/) [game](/en/post/game/)."
+### [Verb](/post/verb/) (informal)
+[To](/post/to/) [use](/post/use/) [a](/post/a/) [pistol](/post/pistol/) [or](/post/or/) [imitate](/post/imitate/) [its](/post/its/) [sound](/post/sound/), [usually](/post/usually/) [for](/post/for/) [emphasis](/post/emphasis/) [or](/post/or/) playfully. "[He](/post/he/) fired [a](/post/a/) [pretend](/post/pretend/) [pistol](/post/pistol/) [during](/post/during/) [the](/post/the/) [game](/post/game/)."
 
-### [Adjective](/en/post/adjective/)
-Referring [to](/en/post/to/) [a](/en/post/a/) firearm [with](/en/post/with/) [a](/en/post/a/) compact [design](/en/post/design/) [or](/en/post/or/) [used](/en/post/used/) [in](/en/post/in/) [close](/en/post/close/) quarters. "[A](/en/post/a/) concealed [carry](/en/post/carry/) [pistol](/en/post/pistol/) [for](/en/post/for/) self-defense."
+### [Adjective](/post/adjective/)
+Referring [to](/post/to/) [a](/post/a/) firearm [with](/post/with/) [a](/post/a/) compact [design](/post/design/) [or](/post/or/) [used](/post/used/) [in](/post/in/) [close](/post/close/) quarters. "[A](/post/a/) concealed [carry](/post/carry/) [pistol](/post/pistol/) [for](/post/for/) self-defense."
 
 ## Phrases
-- "[Draw](/en/post/draw/) [your](/en/post/your/) [pistol](/en/post/pistol/)" [means](/en/post/means/) [to](/en/post/to/) [quickly](/en/post/quickly/) [bring](/en/post/bring/) [a](/en/post/a/) concealed [weapon](/en/post/weapon/) [out](/en/post/out/) [for](/en/post/for/) [protection](/en/post/protection/).
-- "Pistol-whip" is [a](/en/post/a/) slang [term](/en/post/term/) [for](/en/post/for/) using [a](/en/post/a/) [whip](/en/post/whip/) [or](/en/post/or/) [similar](/en/post/similar/) [object](/en/post/object/) [to](/en/post/to/) [strike](/en/post/strike/) [someone](/en/post/someone/) forcefully.
-- "Pistol-packing" refers [to](/en/post/to/) carrying [a](/en/post/a/) concealed [pistol](/en/post/pistol/).
+- "[Draw](/post/draw/) [your](/post/your/) [pistol](/post/pistol/)" [means](/post/means/) [to](/post/to/) [quickly](/post/quickly/) [bring](/post/bring/) [a](/post/a/) concealed [weapon](/post/weapon/) [out](/post/out/) [for](/post/for/) [protection](/post/protection/).
+- "Pistol-whip" is [a](/post/a/) slang [term](/post/term/) [for](/post/for/) using [a](/post/a/) [whip](/post/whip/) [or](/post/or/) [similar](/post/similar/) [object](/post/object/) [to](/post/to/) [strike](/post/strike/) [someone](/post/someone/) forcefully.
+- "Pistol-packing" refers [to](/post/to/) carrying [a](/post/a/) concealed [pistol](/post/pistol/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [officer](/en/post/officer/) holstered [his](/en/post/his/) [service](/en/post/service/) [pistol](/en/post/pistol/) [after](/en/post/after/) securing [the](/en/post/the/) [area](/en/post/area/)."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) self-defense, [he](/en/post/he/) had [to](/en/post/to/) pistol-whip [the](/en/post/the/) attacker."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) was [nervous](/en/post/nervous/) [about](/en/post/about/) carrying [a](/en/post/a/) [pistol](/en/post/pistol/) [in](/en/post/in/) [a](/en/post/a/) crowded [city](/en/post/city/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [officer](/post/officer/) holstered [his](/post/his/) [service](/post/service/) [pistol](/post/pistol/) [after](/post/after/) securing [the](/post/the/) [area](/post/area/)."
+- **[Verb](/post/verb/)**: "[In](/post/in/) self-defense, [he](/post/he/) had [to](/post/to/) pistol-whip [the](/post/the/) attacker."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) was [nervous](/post/nervous/) [about](/post/about/) carrying [a](/post/a/) [pistol](/post/pistol/) [in](/post/in/) [a](/post/a/) crowded [city](/post/city/)."
 
 ## Synonyms
 - Handgun
 - Sidearm
 - Revolver
-- [Pistol](/en/post/pistol/) [grip](/en/post/grip/) ([as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [rifle](/en/post/rifle/) [or](/en/post/or/) shotgun)
+- [Pistol](/post/pistol/) [grip](/post/grip/) ([as](/post/as/) [in](/post/in/) [a](/post/a/) [rifle](/post/rifle/) [or](/post/or/) shotgun)
 - Compact firearm
 
 ## Antonyms
 - Shotgun
-- [Rifle](/en/post/rifle/)
-- [Long](/en/post/long/) [gun](/en/post/gun/)
+- [Rifle](/post/rifle/)
+- [Long](/post/long/) [gun](/post/gun/)
 - Full-size firearm
-- [Heavy](/en/post/heavy/) caliber [weapon](/en/post/weapon/) ([for](/en/post/for/) [small](/en/post/small/), compact pistols)
+- [Heavy](/post/heavy/) caliber [weapon](/post/weapon/) ([for](/post/for/) [small](/post/small/), compact pistols)

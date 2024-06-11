@@ -7,30 +7,30 @@ description = '[ˈflʌri∫] vi.繁荣，茂盛，兴旺'
 keywords = ['ai words', 'flourish']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈflʌrɪʃ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) luxuriant [growth](/en/post/growth/) [or](/en/post/or/) [development](/en/post/development/); [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [great](/en/post/great/) [success](/en/post/success/), [prosperity](/en/post/prosperity/), [or](/en/post/or/) productivity. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was [a](/en/post/a/) [flourish](/en/post/flourish/) [of](/en/post/of/) colors [and](/en/post/and/) scents."
-- **[Verb](/en/post/verb/)**: (1) [To](/en/post/to/) [grow](/en/post/grow/) [or](/en/post/or/) [develop](/en/post/develop/) [in](/en/post/in/) [a](/en/post/a/) [healthy](/en/post/healthy/) [or](/en/post/or/) [vigorous](/en/post/vigorous/) [way](/en/post/way/), [often](/en/post/often/) [used](/en/post/used/) [with](/en/post/with/) [the](/en/post/the/) [preposition](/en/post/preposition/) '[into](/en/post/into/)'. [For](/en/post/for/) [example](/en/post/example/): "[Under](/en/post/under/) [her](/en/post/her/) [care](/en/post/care/), [the](/en/post/the/) [business](/en/post/business/) flourished [into](/en/post/into/) [a](/en/post/a/) [successful](/en/post/successful/) enterprise." (2) [To](/en/post/to/) [wave](/en/post/wave/) [or](/en/post/or/) brandish [something](/en/post/something/) dramatically [or](/en/post/or/) stylishly. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) magician flourished [his](/en/post/his/) wand [before](/en/post/before/) making [the](/en/post/the/) [rabbit](/en/post/rabbit/) [disappear](/en/post/disappear/)." (3) [To](/en/post/to/) [execute](/en/post/execute/) [a](/en/post/a/) [bold](/en/post/bold/) [or](/en/post/or/) decorative [stroke](/en/post/stroke/) [or](/en/post/or/) [gesture](/en/post/gesture/), typically [in](/en/post/in/) [writing](/en/post/writing/) [or](/en/post/or/) [drawing](/en/post/drawing/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) signed [her](/en/post/her/) [name](/en/post/name/) [with](/en/post/with/) [a](/en/post/a/) [flourish](/en/post/flourish/) [at](/en/post/at/) [the](/en/post/the/) [bottom](/en/post/bottom/) [of](/en/post/of/) [the](/en/post/the/) [page](/en/post/page/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) luxuriant [growth](/post/growth/) [or](/post/or/) [development](/post/development/); [a](/post/a/) [period](/post/period/) [of](/post/of/) [great](/post/great/) [success](/post/success/), [prosperity](/post/prosperity/), [or](/post/or/) productivity. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was [a](/post/a/) [flourish](/post/flourish/) [of](/post/of/) colors [and](/post/and/) scents."
+- **[Verb](/post/verb/)**: (1) [To](/post/to/) [grow](/post/grow/) [or](/post/or/) [develop](/post/develop/) [in](/post/in/) [a](/post/a/) [healthy](/post/healthy/) [or](/post/or/) [vigorous](/post/vigorous/) [way](/post/way/), [often](/post/often/) [used](/post/used/) [with](/post/with/) [the](/post/the/) [preposition](/post/preposition/) '[into](/post/into/)'. [For](/post/for/) [example](/post/example/): "[Under](/post/under/) [her](/post/her/) [care](/post/care/), [the](/post/the/) [business](/post/business/) flourished [into](/post/into/) [a](/post/a/) [successful](/post/successful/) enterprise." (2) [To](/post/to/) [wave](/post/wave/) [or](/post/or/) brandish [something](/post/something/) dramatically [or](/post/or/) stylishly. [For](/post/for/) [example](/post/example/): "[The](/post/the/) magician flourished [his](/post/his/) wand [before](/post/before/) making [the](/post/the/) [rabbit](/post/rabbit/) [disappear](/post/disappear/)." (3) [To](/post/to/) [execute](/post/execute/) [a](/post/a/) [bold](/post/bold/) [or](/post/or/) decorative [stroke](/post/stroke/) [or](/post/or/) [gesture](/post/gesture/), typically [in](/post/in/) [writing](/post/writing/) [or](/post/or/) [drawing](/post/drawing/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) signed [her](/post/her/) [name](/post/name/) [with](/post/with/) [a](/post/a/) [flourish](/post/flourish/) [at](/post/at/) [the](/post/the/) [bottom](/post/bottom/) [of](/post/of/) [the](/post/the/) [page](/post/page/)."
 
 ## Phrases
-- "[A](/en/post/a/) [flourish](/en/post/flourish/) [of](/en/post/of/) trumpets" describes [a](/en/post/a/) ceremonial [or](/en/post/or/) triumphant fanfare played [on](/en/post/on/) trumpets.
-- "[With](/en/post/with/) [a](/en/post/a/) [flourish](/en/post/flourish/)" implies [that](/en/post/that/) [something](/en/post/something/) is done [with](/en/post/with/) [style](/en/post/style/), panache, [or](/en/post/or/) [a](/en/post/a/) [dramatic](/en/post/dramatic/) [gesture](/en/post/gesture/).
-- "[To](/en/post/to/) [flourish](/en/post/flourish/) [under](/en/post/under/) [new](/en/post/new/) [management](/en/post/management/)" suggests [that](/en/post/that/) [something](/en/post/something/), [like](/en/post/like/) [a](/en/post/a/) [business](/en/post/business/) [or](/en/post/or/) [project](/en/post/project/), thrives [under](/en/post/under/) [new](/en/post/new/) [leadership](/en/post/leadership/).
+- "[A](/post/a/) [flourish](/post/flourish/) [of](/post/of/) trumpets" describes [a](/post/a/) ceremonial [or](/post/or/) triumphant fanfare played [on](/post/on/) trumpets.
+- "[With](/post/with/) [a](/post/a/) [flourish](/post/flourish/)" implies [that](/post/that/) [something](/post/something/) is done [with](/post/with/) [style](/post/style/), panache, [or](/post/or/) [a](/post/a/) [dramatic](/post/dramatic/) [gesture](/post/gesture/).
+- "[To](/post/to/) [flourish](/post/flourish/) [under](/post/under/) [new](/post/new/) [management](/post/management/)" suggests [that](/post/that/) [something](/post/something/), [like](/post/like/) [a](/post/a/) [business](/post/business/) [or](/post/or/) [project](/post/project/), thrives [under](/post/under/) [new](/post/new/) [leadership](/post/leadership/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) [the](/en/post/the/) [spring](/en/post/spring/), [the](/en/post/the/) [cherry](/en/post/cherry/) blossoms [create](/en/post/create/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) [flourish](/en/post/flourish/) [throughout](/en/post/throughout/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [her](/en/post/her/) [health](/en/post/health/) [finally](/en/post/finally/) began [to](/en/post/to/) [flourish](/en/post/flourish/)."
-- **[Verb](/en/post/verb/) ([writing](/en/post/writing/)/[drawing](/en/post/drawing/))**: "[The](/en/post/the/) [artist](/en/post/artist/) added [a](/en/post/a/) [final](/en/post/final/) [flourish](/en/post/flourish/) [to](/en/post/to/) [complete](/en/post/complete/) [the](/en/post/the/) [painting](/en/post/painting/)."
-- **[Verb](/en/post/verb/) (brandishing)**: "[The](/en/post/the/) swordsman entered [the](/en/post/the/) arena, flourishing [his](/en/post/his/) [sword](/en/post/sword/) impressively."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[In](/post/in/) [the](/post/the/) [spring](/post/spring/), [the](/post/the/) [cherry](/post/cherry/) blossoms [create](/post/create/) [a](/post/a/) [beautiful](/post/beautiful/) [flourish](/post/flourish/) [throughout](/post/throughout/) [the](/post/the/) [city](/post/city/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [her](/post/her/) [health](/post/health/) [finally](/post/finally/) began [to](/post/to/) [flourish](/post/flourish/)."
+- **[Verb](/post/verb/) ([writing](/post/writing/)/[drawing](/post/drawing/))**: "[The](/post/the/) [artist](/post/artist/) added [a](/post/a/) [final](/post/final/) [flourish](/post/flourish/) [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [painting](/post/painting/)."
+- **[Verb](/post/verb/) (brandishing)**: "[The](/post/the/) swordsman entered [the](/post/the/) arena, flourishing [his](/post/his/) [sword](/post/sword/) impressively."
 
 ## Synonyms
 - Prosper
-- [Thrive](/en/post/thrive/)
-- [Blossom](/en/post/blossom/)
+- [Thrive](/post/thrive/)
+- [Blossom](/post/blossom/)
 - Boom
-- [Grow](/en/post/grow/) vigorously
+- [Grow](/post/grow/) vigorously
 - Excel
-- [Wave](/en/post/wave/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) brandishing)
-- [Decorate](/en/post/decorate/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [writing](/en/post/writing/) [or](/en/post/or/) [drawing](/en/post/drawing/))
+- [Wave](/post/wave/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) brandishing)
+- [Decorate](/post/decorate/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [writing](/post/writing/) [or](/post/or/) [drawing](/post/drawing/))

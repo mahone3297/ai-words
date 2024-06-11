@@ -7,32 +7,32 @@ description = '[maus] n.鼠，耗子'
 keywords = ['ai words', 'mouse']
 +++
 
-## [Word](/en/post/word/): [Mouse](/en/post/mouse/)
+## [Word](/post/word/): [Mouse](/post/mouse/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /maʊs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/) rodent [with](/en/post/with/) [a](/en/post/a/) pointed snout, typically having [a](/en/post/a/) [long](/en/post/long/) [tail](/en/post/tail/), [large](/en/post/large/) ears, [and](/en/post/and/) [a](/en/post/a/) high-pitched [voice](/en/post/voice/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [cat](/en/post/cat/) caught [a](/en/post/a/) [mouse](/en/post/mouse/) [in](/en/post/in/) [the](/en/post/the/) [kitchen](/en/post/kitchen/)."
-  - [In](/en/post/in/) computing, [a](/en/post/a/) [mouse](/en/post/mouse/) ([computer](/en/post/computer/) [mouse](/en/post/mouse/)) is [a](/en/post/a/) handheld pointing [device](/en/post/device/) [that](/en/post/that/) detects two-dimensional [motion](/en/post/motion/) [relative](/en/post/relative/) [to](/en/post/to/) [a](/en/post/a/) [surface](/en/post/surface/) [and](/en/post/and/) typically translates [that](/en/post/that/) [motion](/en/post/motion/) [into](/en/post/into/) [the](/en/post/the/) [motion](/en/post/motion/) [of](/en/post/of/) [a](/en/post/a/) pointer [on](/en/post/on/) [a](/en/post/a/) [display](/en/post/display/) [screen](/en/post/screen/). [Example](/en/post/example/): "[She](/en/post/she/) moved [the](/en/post/the/) cursor [on](/en/post/on/) [the](/en/post/the/) [screen](/en/post/screen/) using [her](/en/post/her/) [computer](/en/post/computer/) [mouse](/en/post/mouse/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/) rodent [with](/post/with/) [a](/post/a/) pointed snout, typically having [a](/post/a/) [long](/post/long/) [tail](/post/tail/), [large](/post/large/) ears, [and](/post/and/) [a](/post/a/) high-pitched [voice](/post/voice/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [cat](/post/cat/) caught [a](/post/a/) [mouse](/post/mouse/) [in](/post/in/) [the](/post/the/) [kitchen](/post/kitchen/)."
+  - [In](/post/in/) computing, [a](/post/a/) [mouse](/post/mouse/) ([computer](/post/computer/) [mouse](/post/mouse/)) is [a](/post/a/) handheld pointing [device](/post/device/) [that](/post/that/) detects two-dimensional [motion](/post/motion/) [relative](/post/relative/) [to](/post/to/) [a](/post/a/) [surface](/post/surface/) [and](/post/and/) typically translates [that](/post/that/) [motion](/post/motion/) [into](/post/into/) [the](/post/the/) [motion](/post/motion/) [of](/post/of/) [a](/post/a/) pointer [on](/post/on/) [a](/post/a/) [display](/post/display/) [screen](/post/screen/). [Example](/post/example/): "[She](/post/she/) moved [the](/post/the/) cursor [on](/post/on/) [the](/post/the/) [screen](/post/screen/) using [her](/post/her/) [computer](/post/computer/) [mouse](/post/mouse/)."
 
-- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [track](/en/post/track/) [or](/en/post/or/) [search](/en/post/search/) [for](/en/post/for/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) persistently [and](/en/post/and/) carefully, [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [to](/en/post/to/) [catch](/en/post/catch/) [or](/en/post/or/) [trap](/en/post/trap/). [Example](/en/post/example/): "[The](/en/post/the/) [cat](/en/post/cat/) moused [around](/en/post/around/) [the](/en/post/the/) [garden](/en/post/garden/) [all](/en/post/all/) [night](/en/post/night/)."
+- **[Verb](/post/verb/)**: (transitive) [To](/post/to/) [track](/post/track/) [or](/post/or/) [search](/post/search/) [for](/post/for/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) persistently [and](/post/and/) carefully, [often](/post/often/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [to](/post/to/) [catch](/post/catch/) [or](/post/or/) [trap](/post/trap/). [Example](/post/example/): "[The](/post/the/) [cat](/post/cat/) moused [around](/post/around/) [the](/post/the/) [garden](/post/garden/) [all](/post/all/) [night](/post/night/)."
 
 ## Phrases
-- "[To](/en/post/to/) [play](/en/post/play/) [cat](/en/post/cat/) [and](/en/post/and/) [mouse](/en/post/mouse/)" [means](/en/post/means/) [to](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) teasing [or](/en/post/or/) manipulative [relationship](/en/post/relationship/) [where](/en/post/where/) [one](/en/post/one/) [person](/en/post/person/) has [power](/en/post/power/) [over](/en/post/over/) [the](/en/post/the/) [other](/en/post/other/).
-- "[Quiet](/en/post/quiet/) [as](/en/post/as/) [a](/en/post/a/) [mouse](/en/post/mouse/)" describes [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [being](/en/post/being/) [very](/en/post/very/) [quiet](/en/post/quiet/) [or](/en/post/or/) unobtrusive.
-- "[Computer](/en/post/computer/) [mouse](/en/post/mouse/)" refers [to](/en/post/to/) [the](/en/post/the/) [input](/en/post/input/) [device](/en/post/device/) [used](/en/post/used/) [with](/en/post/with/) computers.
+- "[To](/post/to/) [play](/post/play/) [cat](/post/cat/) [and](/post/and/) [mouse](/post/mouse/)" [means](/post/means/) [to](/post/to/) [engage](/post/engage/) [in](/post/in/) [a](/post/a/) teasing [or](/post/or/) manipulative [relationship](/post/relationship/) [where](/post/where/) [one](/post/one/) [person](/post/person/) has [power](/post/power/) [over](/post/over/) [the](/post/the/) [other](/post/other/).
+- "[Quiet](/post/quiet/) [as](/post/as/) [a](/post/a/) [mouse](/post/mouse/)" describes [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [being](/post/being/) [very](/post/very/) [quiet](/post/quiet/) [or](/post/or/) unobtrusive.
+- "[Computer](/post/computer/) [mouse](/post/mouse/)" refers [to](/post/to/) [the](/post/the/) [input](/post/input/) [device](/post/device/) [used](/post/used/) [with](/post/with/) computers.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I heard [the](/en/post/the/) rustling [of](/en/post/of/) [a](/en/post/a/) [mouse](/en/post/mouse/) [in](/en/post/in/) [the](/en/post/the/) walls."
-- **Computing [Noun](/en/post/noun/)**: "[Connect](/en/post/connect/) [the](/en/post/the/) [mouse](/en/post/mouse/) [to](/en/post/to/) [your](/en/post/your/) [computer](/en/post/computer/) [via](/en/post/via/) USB [cable](/en/post/cable/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) terrier was expertly mousing [along](/en/post/along/) [the](/en/post/the/) hedgerow."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I heard [the](/post/the/) rustling [of](/post/of/) [a](/post/a/) [mouse](/post/mouse/) [in](/post/in/) [the](/post/the/) walls."
+- **Computing [Noun](/post/noun/)**: "[Connect](/post/connect/) [the](/post/the/) [mouse](/post/mouse/) [to](/post/to/) [your](/post/your/) [computer](/post/computer/) [via](/post/via/) USB [cable](/post/cable/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) terrier was expertly mousing [along](/post/along/) [the](/post/the/) hedgerow."
 
 ## Synonyms
 - Rodent
-- [Rat](/en/post/rat/) (informal, smaller species)
-- Pointer ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [computer](/en/post/computer/) [mouse](/en/post/mouse/))
-- Trackball ([alternative](/en/post/alternative/) pointing [device](/en/post/device/))
+- [Rat](/post/rat/) (informal, smaller species)
+- Pointer ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [computer](/post/computer/) [mouse](/post/mouse/))
+- Trackball ([alternative](/post/alternative/) pointing [device](/post/device/))
 
 ## Phrasal Verbs
-- **[Mouse](/en/post/mouse/) [around](/en/post/around/)**: [To](/en/post/to/) [move](/en/post/move/) [the](/en/post/the/) cursor [on](/en/post/on/) [a](/en/post/a/) [computer](/en/post/computer/) [screen](/en/post/screen/) randomly [or](/en/post/or/) aimlessly, [often](/en/post/often/) exploring [different](/en/post/different/) options [or](/en/post/or/) features. [Example](/en/post/example/): "[She](/en/post/she/) moused [around](/en/post/around/) [the](/en/post/the/) website [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [contact](/en/post/contact/) [information](/en/post/information/)."
+- **[Mouse](/post/mouse/) [around](/post/around/)**: [To](/post/to/) [move](/post/move/) [the](/post/the/) cursor [on](/post/on/) [a](/post/a/) [computer](/post/computer/) [screen](/post/screen/) randomly [or](/post/or/) aimlessly, [often](/post/often/) exploring [different](/post/different/) options [or](/post/or/) features. [Example](/post/example/): "[She](/post/she/) moused [around](/post/around/) [the](/post/the/) website [to](/post/to/) [find](/post/find/) [the](/post/the/) [contact](/post/contact/) [information](/post/information/)."

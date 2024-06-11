@@ -7,36 +7,36 @@ description = '[ˈmuːvi] n.电影；电影院'
 keywords = ['ai words', 'movie']
 +++
 
-## [Word](/en/post/word/): [Movie](/en/post/movie/)
+## [Word](/post/word/): [Movie](/post/movie/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmuːvi/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [film](/en/post/film/), typically [a](/en/post/a/) feature-length [story](/en/post/story/) [or](/en/post/or/) documentary [that](/en/post/that/) is shown [in](/en/post/in/) [a](/en/post/a/) [cinema](/en/post/cinema/) [or](/en/post/or/) [on](/en/post/on/) [television](/en/post/television/). It's [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [visual](/en/post/visual/) storytelling involving moving images, [sound](/en/post/sound/), [and](/en/post/and/) [often](/en/post/often/) dialogue, [which](/en/post/which/) [can](/en/post/can/) [entertain](/en/post/entertain/), [educate](/en/post/educate/), [inspire](/en/post/inspire/), [or](/en/post/or/) [inform](/en/post/inform/) viewers. 
+- **[Noun](/post/noun/)**: [A](/post/a/) [film](/post/film/), typically [a](/post/a/) feature-length [story](/post/story/) [or](/post/or/) documentary [that](/post/that/) is shown [in](/post/in/) [a](/post/a/) [cinema](/post/cinema/) [or](/post/or/) [on](/post/on/) [television](/post/television/). It's [a](/post/a/) [form](/post/form/) [of](/post/of/) [visual](/post/visual/) storytelling involving moving images, [sound](/post/sound/), [and](/post/and/) [often](/post/often/) dialogue, [which](/post/which/) [can](/post/can/) [entertain](/post/entertain/), [educate](/post/educate/), [inspire](/post/inspire/), [or](/post/or/) [inform](/post/inform/) viewers. 
 
-[Example](/en/post/example/) sentences:
-- _"We're going [to](/en/post/to/) [watch](/en/post/watch/) [the](/en/post/the/) [new](/en/post/new/) [action](/en/post/action/) [movie](/en/post/movie/) [tonight](/en/post/tonight/)."_
-- _"[Her](/en/post/her/) favorite [movie](/en/post/movie/) is 'Gone [with](/en/post/with/) [the](/en/post/the/) [Wind](/en/post/wind/)'."_
-- _"[The](/en/post/the/) [director](/en/post/director/) has made [several](/en/post/several/) critically acclaimed movies [over](/en/post/over/) [his](/en/post/his/) [career](/en/post/career/)."_
+[Example](/post/example/) sentences:
+- _"We're going [to](/post/to/) [watch](/post/watch/) [the](/post/the/) [new](/post/new/) [action](/post/action/) [movie](/post/movie/) [tonight](/post/tonight/)."_
+- _"[Her](/post/her/) favorite [movie](/post/movie/) is 'Gone [with](/post/with/) [the](/post/the/) [Wind](/post/wind/)'."_
+- _"[The](/post/the/) [director](/post/director/) has made [several](/post/several/) critically acclaimed movies [over](/post/over/) [his](/post/his/) [career](/post/career/)."_
 
 ## Phrases
-- "[Movie](/en/post/movie/) [night](/en/post/night/)": [A](/en/post/a/) [regular](/en/post/regular/) [or](/en/post/or/) planned [event](/en/post/event/) [where](/en/post/where/) [people](/en/post/people/) [gather](/en/post/gather/) [to](/en/post/to/) [watch](/en/post/watch/) [a](/en/post/a/) [movie](/en/post/movie/), [usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) [home](/en/post/home/) [setting](/en/post/setting/).
-- "[At](/en/post/at/) [the](/en/post/the/) movies": [Being](/en/post/being/) [at](/en/post/at/) [a](/en/post/a/) [cinema](/en/post/cinema/) [to](/en/post/to/) [watch](/en/post/watch/) [a](/en/post/a/) [movie](/en/post/movie/).
-- "[Movie](/en/post/movie/) theater" ([US](/en/post/us/))/"[Cinema](/en/post/cinema/)" (UK): [A](/en/post/a/) [building](/en/post/building/) designed [for](/en/post/for/) showing films [to](/en/post/to/) an [audience](/en/post/audience/).
-- "[Movie](/en/post/movie/) [star](/en/post/star/)": [A](/en/post/a/) [famous](/en/post/famous/) [actor](/en/post/actor/) [or](/en/post/or/) [actress](/en/post/actress/) [primarily](/en/post/primarily/) known [for](/en/post/for/) [their](/en/post/their/) roles [in](/en/post/in/) movies.
+- "[Movie](/post/movie/) [night](/post/night/)": [A](/post/a/) [regular](/post/regular/) [or](/post/or/) planned [event](/post/event/) [where](/post/where/) [people](/post/people/) [gather](/post/gather/) [to](/post/to/) [watch](/post/watch/) [a](/post/a/) [movie](/post/movie/), [usually](/post/usually/) [in](/post/in/) [a](/post/a/) [home](/post/home/) [setting](/post/setting/).
+- "[At](/post/at/) [the](/post/the/) movies": [Being](/post/being/) [at](/post/at/) [a](/post/a/) [cinema](/post/cinema/) [to](/post/to/) [watch](/post/watch/) [a](/post/a/) [movie](/post/movie/).
+- "[Movie](/post/movie/) theater" ([US](/post/us/))/"[Cinema](/post/cinema/)" (UK): [A](/post/a/) [building](/post/building/) designed [for](/post/for/) showing films [to](/post/to/) an [audience](/post/audience/).
+- "[Movie](/post/movie/) [star](/post/star/)": [A](/post/a/) [famous](/post/famous/) [actor](/post/actor/) [or](/post/or/) [actress](/post/actress/) [primarily](/post/primarily/) known [for](/post/for/) [their](/post/their/) roles [in](/post/in/) movies.
   
-## [Example](/en/post/example/) Sentences
-- _"Let's [make](/en/post/make/) [it](/en/post/it/) [a](/en/post/a/) pizza [and](/en/post/and/) [movie](/en/post/movie/) [night](/en/post/night/) [this](/en/post/this/) Friday."_
-- _"I [love](/en/post/love/) [the](/en/post/the/) [smell](/en/post/smell/) [of](/en/post/of/) popcorn [when](/en/post/when/) I'm [at](/en/post/at/) [the](/en/post/the/) movies."_ 
-- _"[He](/en/post/he/) dreams [of](/en/post/of/) becoming [a](/en/post/a/) [big](/en/post/big/) [movie](/en/post/movie/) [star](/en/post/star/) someday."_
+## [Example](/post/example/) Sentences
+- _"Let's [make](/post/make/) [it](/post/it/) [a](/post/a/) pizza [and](/post/and/) [movie](/post/movie/) [night](/post/night/) [this](/post/this/) Friday."_
+- _"I [love](/post/love/) [the](/post/the/) [smell](/post/smell/) [of](/post/of/) popcorn [when](/post/when/) I'm [at](/post/at/) [the](/post/the/) movies."_ 
+- _"[He](/post/he/) dreams [of](/post/of/) becoming [a](/post/a/) [big](/post/big/) [movie](/post/movie/) [star](/post/star/) someday."_
 
 ## Synonyms
-- [Film](/en/post/film/)
-- [Picture](/en/post/picture/)
+- [Film](/post/film/)
+- [Picture](/post/picture/)
 - Flick
-- [Motion](/en/post/motion/) [picture](/en/post/picture/)
-- [Cinema](/en/post/cinema/)
-- [Feature](/en/post/feature/) [film](/en/post/film/)
-- [Video](/en/post/video/) ([in](/en/post/in/) informal contexts, referring [to](/en/post/to/) movies watched [at](/en/post/at/) [home](/en/post/home/))
-- Screenplay (referring [to](/en/post/to/) [the](/en/post/the/) script [of](/en/post/of/) [a](/en/post/a/) [movie](/en/post/movie/))
+- [Motion](/post/motion/) [picture](/post/picture/)
+- [Cinema](/post/cinema/)
+- [Feature](/post/feature/) [film](/post/film/)
+- [Video](/post/video/) ([in](/post/in/) informal contexts, referring [to](/post/to/) movies watched [at](/post/at/) [home](/post/home/))
+- Screenplay (referring [to](/post/to/) [the](/post/the/) script [of](/post/of/) [a](/post/a/) [movie](/post/movie/))

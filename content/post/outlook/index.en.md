@@ -7,31 +7,31 @@ description = '[ˈautluk] n.观点，看法；展望'
 keywords = ['ai words', 'outlook']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaʊt.lʊk/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [way](/en/post/way/) [someone](/en/post/someone/) expects [the](/en/post/the/) [future](/en/post/future/) [to](/en/post/to/) [be](/en/post/be/); [a](/en/post/a/) person's [view](/en/post/view/) [or](/en/post/or/) [attitude](/en/post/attitude/) toward [future](/en/post/future/) events [or](/en/post/or/) situations. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [positive](/en/post/positive/) [outlook](/en/post/outlook/) [on](/en/post/on/) [life](/en/post/life/) [despite](/en/post/despite/) [her](/en/post/her/) [recent](/en/post/recent/) setbacks."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) person's [general](/en/post/general/) [attitude](/en/post/attitude/), principles, [or](/en/post/or/) [viewpoint](/en/post/viewpoint/) [regarding](/en/post/regarding/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/) [or](/en/post/or/) [the](/en/post/the/) [world](/en/post/world/) [in](/en/post/in/) [general](/en/post/general/). [Example](/en/post/example/): "[His](/en/post/his/) [political](/en/post/political/) [outlook](/en/post/outlook/) was shaped [by](/en/post/by/) [his](/en/post/his/) upbringing."
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [aspect](/en/post/aspect/) [or](/en/post/or/) [visual](/en/post/visual/) [appearance](/en/post/appearance/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [when](/en/post/when/) seen [from](/en/post/from/) [a](/en/post/a/) [particular](/en/post/particular/) [direction](/en/post/direction/) [or](/en/post/or/) [perspective](/en/post/perspective/). [Example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) has [a](/en/post/a/) [beautiful](/en/post/beautiful/) [outlook](/en/post/outlook/) [over](/en/post/over/) [the](/en/post/the/) [sea](/en/post/sea/)."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [way](/post/way/) [someone](/post/someone/) expects [the](/post/the/) [future](/post/future/) [to](/post/to/) [be](/post/be/); [a](/post/a/) person's [view](/post/view/) [or](/post/or/) [attitude](/post/attitude/) toward [future](/post/future/) events [or](/post/or/) situations. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [positive](/post/positive/) [outlook](/post/outlook/) [on](/post/on/) [life](/post/life/) [despite](/post/despite/) [her](/post/her/) [recent](/post/recent/) setbacks."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) person's [general](/post/general/) [attitude](/post/attitude/), principles, [or](/post/or/) [viewpoint](/post/viewpoint/) [regarding](/post/regarding/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/) [or](/post/or/) [the](/post/the/) [world](/post/world/) [in](/post/in/) [general](/post/general/). [Example](/post/example/): "[His](/post/his/) [political](/post/political/) [outlook](/post/outlook/) was shaped [by](/post/by/) [his](/post/his/) upbringing."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [aspect](/post/aspect/) [or](/post/or/) [visual](/post/visual/) [appearance](/post/appearance/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [when](/post/when/) seen [from](/post/from/) [a](/post/a/) [particular](/post/particular/) [direction](/post/direction/) [or](/post/or/) [perspective](/post/perspective/). [Example](/post/example/): "[The](/post/the/) [house](/post/house/) has [a](/post/a/) [beautiful](/post/beautiful/) [outlook](/post/outlook/) [over](/post/over/) [the](/post/the/) [sea](/post/sea/)."
 
 ## Phrases
-- "[Outlook](/en/post/outlook/) [on](/en/post/on/) [life](/en/post/life/)": [A](/en/post/a/) person's [overall](/en/post/overall/) [perspective](/en/post/perspective/) [or](/en/post/or/) [philosophy](/en/post/philosophy/) [about](/en/post/about/) [existence](/en/post/existence/) [and](/en/post/and/) [their](/en/post/their/) expectations [for](/en/post/for/) [the](/en/post/the/) [future](/en/post/future/).
-- "[Change](/en/post/change/) one's [outlook](/en/post/outlook/)": [To](/en/post/to/) [alter](/en/post/alter/) one's [perspective](/en/post/perspective/) [or](/en/post/or/) [point](/en/post/point/) [of](/en/post/of/) [view](/en/post/view/).
-- "[Outlook](/en/post/outlook/) email client": Refers [to](/en/post/to/) Microsoft [Outlook](/en/post/outlook/), [a](/en/post/a/) [popular](/en/post/popular/) email [and](/en/post/and/) [calendar](/en/post/calendar/) [application](/en/post/application/) [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [business](/en/post/business/) settings.
+- "[Outlook](/post/outlook/) [on](/post/on/) [life](/post/life/)": [A](/post/a/) person's [overall](/post/overall/) [perspective](/post/perspective/) [or](/post/or/) [philosophy](/post/philosophy/) [about](/post/about/) [existence](/post/existence/) [and](/post/and/) [their](/post/their/) expectations [for](/post/for/) [the](/post/the/) [future](/post/future/).
+- "[Change](/post/change/) one's [outlook](/post/outlook/)": [To](/post/to/) [alter](/post/alter/) one's [perspective](/post/perspective/) [or](/post/or/) [point](/post/point/) [of](/post/of/) [view](/post/view/).
+- "[Outlook](/post/outlook/) email client": Refers [to](/post/to/) Microsoft [Outlook](/post/outlook/), [a](/post/a/) [popular](/post/popular/) email [and](/post/and/) [calendar](/post/calendar/) [application](/post/application/) [often](/post/often/) [used](/post/used/) [in](/post/in/) [business](/post/business/) settings.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (expectations [for](/en/post/for/) [the](/en/post/the/) [future](/en/post/future/))**: "[Despite](/en/post/despite/) [the](/en/post/the/) [economic](/en/post/economic/) downturn, [her](/en/post/her/) [outlook](/en/post/outlook/) [remains](/en/post/remains/) [optimistic](/en/post/optimistic/)."
-- **[Noun](/en/post/noun/) ([attitude](/en/post/attitude/) [or](/en/post/or/) [viewpoint](/en/post/viewpoint/))**: "[His](/en/post/his/) environmental [outlook](/en/post/outlook/) led [him](/en/post/him/) [to](/en/post/to/) [live](/en/post/live/) [a](/en/post/a/) sustainable lifestyle."
-- **[Noun](/en/post/noun/) ([visual](/en/post/visual/) [appearance](/en/post/appearance/))**: "[The](/en/post/the/) [hotel](/en/post/hotel/) [room](/en/post/room/) offered [a](/en/post/a/) stunning [outlook](/en/post/outlook/) [across](/en/post/across/) [the](/en/post/the/) [city](/en/post/city/) skyline."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (expectations [for](/post/for/) [the](/post/the/) [future](/post/future/))**: "[Despite](/post/despite/) [the](/post/the/) [economic](/post/economic/) downturn, [her](/post/her/) [outlook](/post/outlook/) [remains](/post/remains/) [optimistic](/post/optimistic/)."
+- **[Noun](/post/noun/) ([attitude](/post/attitude/) [or](/post/or/) [viewpoint](/post/viewpoint/))**: "[His](/post/his/) environmental [outlook](/post/outlook/) led [him](/post/him/) [to](/post/to/) [live](/post/live/) [a](/post/a/) sustainable lifestyle."
+- **[Noun](/post/noun/) ([visual](/post/visual/) [appearance](/post/appearance/))**: "[The](/post/the/) [hotel](/post/hotel/) [room](/post/room/) offered [a](/post/a/) stunning [outlook](/post/outlook/) [across](/post/across/) [the](/post/the/) [city](/post/city/) skyline."
 
 ## Synonyms
-- [Perspective](/en/post/perspective/)
-- [Viewpoint](/en/post/viewpoint/)
-- [Attitude](/en/post/attitude/)
-- [Vision](/en/post/vision/)
-- [Expectation](/en/post/expectation/)
-- [View](/en/post/view/)
+- [Perspective](/post/perspective/)
+- [Viewpoint](/post/viewpoint/)
+- [Attitude](/post/attitude/)
+- [Vision](/post/vision/)
+- [Expectation](/post/expectation/)
+- [View](/post/view/)
 - Prospects
 - Anticipation
-- [Aspect](/en/post/aspect/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [visual](/en/post/visual/) [appearance](/en/post/appearance/))
+- [Aspect](/post/aspect/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [visual](/post/visual/) [appearance](/post/appearance/))

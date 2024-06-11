@@ -7,40 +7,40 @@ description = '[ˈraitə] n.作者，作家，文学家'
 keywords = ['ai words', 'writer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈtɜːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) produces written works, [especially](/en/post/especially/) books [or](/en/post/or/) articles, professionally [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [hobby](/en/post/hobby/). ["[She](/en/post/she/) is [a](/en/post/a/) talented [writer](/en/post/writer/) [who](/en/post/who/) pens thrilling novels."]
-2. An [author](/en/post/author/); [a](/en/post/a/) composer [of](/en/post/of/) written works. ["John is [a](/en/post/a/) renowned [writer](/en/post/writer/) [of](/en/post/of/) [historical](/en/post/historical/) [fiction](/en/post/fiction/)."]
-3. [A](/en/post/a/) creator [or](/en/post/or/) contributor [of](/en/post/of/) written [content](/en/post/content/) [for](/en/post/for/) [various](/en/post/various/) media, [such](/en/post/such/) [as](/en/post/as/) journalism [or](/en/post/or/) advertising. ["[The](/en/post/the/) freelance [writer](/en/post/writer/) delivered [the](/en/post/the/) [article](/en/post/article/) [on](/en/post/on/) [time](/en/post/time/).]
+### [Noun](/post/noun/)
+1. [A](/post/a/) [person](/post/person/) [who](/post/who/) produces written works, [especially](/post/especially/) books [or](/post/or/) articles, professionally [or](/post/or/) [as](/post/as/) [a](/post/a/) [hobby](/post/hobby/). ["[She](/post/she/) is [a](/post/a/) talented [writer](/post/writer/) [who](/post/who/) pens thrilling novels."]
+2. An [author](/post/author/); [a](/post/a/) composer [of](/post/of/) written works. ["John is [a](/post/a/) renowned [writer](/post/writer/) [of](/post/of/) [historical](/post/historical/) [fiction](/post/fiction/)."]
+3. [A](/post/a/) creator [or](/post/or/) contributor [of](/post/of/) written [content](/post/content/) [for](/post/for/) [various](/post/various/) media, [such](/post/such/) [as](/post/as/) journalism [or](/post/or/) advertising. ["[The](/post/the/) freelance [writer](/post/writer/) delivered [the](/post/the/) [article](/post/article/) [on](/post/on/) [time](/post/time/).]
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [produce](/en/post/produce/) written works, [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [profession](/en/post/profession/) [or](/en/post/or/) [creative](/en/post/creative/) endeavor. ["[She](/en/post/she/) spends [her](/en/post/her/) days [writing](/en/post/writing/) articles [for](/en/post/for/) [the](/en/post/the/) [magazine](/en/post/magazine/)."]
-2. [To](/en/post/to/) [compose](/en/post/compose/) [or](/en/post/or/) [create](/en/post/create/) written [content](/en/post/content/), [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [story](/en/post/story/) [or](/en/post/or/) [essay](/en/post/essay/). ["[He](/en/post/he/) was [writing](/en/post/writing/) [a](/en/post/a/) [new](/en/post/new/) [novel](/en/post/novel/) [that](/en/post/that/) [year](/en/post/year/)."]
+### [Verb](/post/verb/)
+1. [To](/post/to/) [produce](/post/produce/) written works, [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [profession](/post/profession/) [or](/post/or/) [creative](/post/creative/) endeavor. ["[She](/post/she/) spends [her](/post/her/) days [writing](/post/writing/) articles [for](/post/for/) [the](/post/the/) [magazine](/post/magazine/)."]
+2. [To](/post/to/) [compose](/post/compose/) [or](/post/or/) [create](/post/create/) written [content](/post/content/), [as](/post/as/) [in](/post/in/) [a](/post/a/) [story](/post/story/) [or](/post/or/) [essay](/post/essay/). ["[He](/post/he/) was [writing](/post/writing/) [a](/post/a/) [new](/post/new/) [novel](/post/novel/) [that](/post/that/) [year](/post/year/)."]
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) involving [writing](/en/post/writing/); [literary](/en/post/literary/). ["[The](/en/post/the/) writer's [style](/en/post/style/) was praised [by](/en/post/by/) critics."]
-2. Engaged [in](/en/post/in/) [writing](/en/post/writing/) [or](/en/post/or/) [skilled](/en/post/skilled/) [in](/en/post/in/) written [expression](/en/post/expression/). ["[She](/en/post/she/) is [a](/en/post/a/) [writer](/en/post/writer/) [with](/en/post/with/) [a](/en/post/a/) [unique](/en/post/unique/) [voice](/en/post/voice/)."]
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) [or](/post/or/) involving [writing](/post/writing/); [literary](/post/literary/). ["[The](/post/the/) writer's [style](/post/style/) was praised [by](/post/by/) critics."]
+2. Engaged [in](/post/in/) [writing](/post/writing/) [or](/post/or/) [skilled](/post/skilled/) [in](/post/in/) written [expression](/post/expression/). ["[She](/post/she/) is [a](/post/a/) [writer](/post/writer/) [with](/post/with/) [a](/post/a/) [unique](/post/unique/) [voice](/post/voice/)."]
 
 ## Phrases
-- "[Write](/en/post/write/) [a](/en/post/a/) [book](/en/post/book/)" [or](/en/post/or/) "[write](/en/post/write/) an [article](/en/post/article/)"
-- "[Be](/en/post/be/) [a](/en/post/a/) [writer](/en/post/writer/)" [or](/en/post/or/) "[become](/en/post/become/) [a](/en/post/a/) [professional](/en/post/professional/) [writer](/en/post/writer/)"
-- "Writer's [block](/en/post/block/)" ([a](/en/post/a/) [temporary](/en/post/temporary/) inability [to](/en/post/to/) [write](/en/post/write/))
+- "[Write](/post/write/) [a](/post/a/) [book](/post/book/)" [or](/post/or/) "[write](/post/write/) an [article](/post/article/)"
+- "[Be](/post/be/) [a](/post/a/) [writer](/post/writer/)" [or](/post/or/) "[become](/post/become/) [a](/post/a/) [professional](/post/professional/) [writer](/post/writer/)"
+- "Writer's [block](/post/block/)" ([a](/post/a/) [temporary](/post/temporary/) inability [to](/post/to/) [write](/post/write/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) writer's latest [novel](/en/post/novel/) [hit](/en/post/hit/) [the](/en/post/the/) bestseller [list](/en/post/list/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) [writer](/en/post/writer/) [after](/en/post/after/) graduating [from](/en/post/from/) [college](/en/post/college/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) writer's descriptive prose brought [the](/en/post/the/) [story](/en/post/story/) [to](/en/post/to/) [life](/en/post/life/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) writer's latest [novel](/post/novel/) [hit](/post/hit/) [the](/post/the/) bestseller [list](/post/list/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [become](/post/become/) [a](/post/a/) [writer](/post/writer/) [after](/post/after/) graduating [from](/post/from/) [college](/post/college/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) writer's descriptive prose brought [the](/post/the/) [story](/post/story/) [to](/post/to/) [life](/post/life/)."
 
 ## Synonyms
-- [Author](/en/post/author/)
+- [Author](/post/author/)
 - Composer
 - Scribe
 - Penner
 - Creator
-- [Journalist](/en/post/journalist/)
+- [Journalist](/post/journalist/)
 - Blogger
 - Novelist
 - Essayist

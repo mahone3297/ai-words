@@ -7,39 +7,39 @@ description = '[∫aut] n.&vi.呼喊，喊叫'
 keywords = ['ai words', 'shout']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /shəʊt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [loud](/en/post/loud/) [cry](/en/post/cry/) [or](/en/post/or/) exclamation [to](/en/post/to/) [attract](/en/post/attract/) [attention](/en/post/attention/) [or](/en/post/or/) [express](/en/post/express/) [strong](/en/post/strong/) [emotion](/en/post/emotion/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [let](/en/post/let/) [out](/en/post/out/) [a](/en/post/a/) [loud](/en/post/loud/) [shout](/en/post/shout/) [to](/en/post/to/) alert [the](/en/post/the/) others."
-- **Synonyms**: [yell](/en/post/yell/), [cry](/en/post/cry/), exclamation, outburst
+### [Noun](/post/noun/)
+[A](/post/a/) [loud](/post/loud/) [cry](/post/cry/) [or](/post/or/) exclamation [to](/post/to/) [attract](/post/attract/) [attention](/post/attention/) [or](/post/or/) [express](/post/express/) [strong](/post/strong/) [emotion](/post/emotion/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) [let](/post/let/) [out](/post/out/) [a](/post/a/) [loud](/post/loud/) [shout](/post/shout/) [to](/post/to/) alert [the](/post/the/) others."
+- **Synonyms**: [yell](/post/yell/), [cry](/post/cry/), exclamation, outburst
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [utter](/en/post/utter/) [a](/en/post/a/) [loud](/en/post/loud/) [cry](/en/post/cry/) [or](/en/post/or/) [sound](/en/post/sound/), [especially](/en/post/especially/) [in](/en/post/in/) [anger](/en/post/anger/) [or](/en/post/or/) excitement. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) children shouted [with](/en/post/with/) [joy](/en/post/joy/) [when](/en/post/when/) [they](/en/post/they/) received [their](/en/post/their/) presents."
-2. [To](/en/post/to/) [express](/en/post/express/) [or](/en/post/or/) [communicate](/en/post/communicate/) [a](/en/post/a/) [message](/en/post/message/) [by](/en/post/by/) shouting. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) shouted instructions [to](/en/post/to/) [the](/en/post/the/) [crowd](/en/post/crowd/) [during](/en/post/during/) [the](/en/post/the/) [protest](/en/post/protest/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [utter](/post/utter/) [a](/post/a/) [loud](/post/loud/) [cry](/post/cry/) [or](/post/or/) [sound](/post/sound/), [especially](/post/especially/) [in](/post/in/) [anger](/post/anger/) [or](/post/or/) excitement. [For](/post/for/) [example](/post/example/): "[The](/post/the/) children shouted [with](/post/with/) [joy](/post/joy/) [when](/post/when/) [they](/post/they/) received [their](/post/their/) presents."
+2. [To](/post/to/) [express](/post/express/) [or](/post/or/) [communicate](/post/communicate/) [a](/post/a/) [message](/post/message/) [by](/post/by/) shouting. [For](/post/for/) [example](/post/example/): "[He](/post/he/) shouted instructions [to](/post/to/) [the](/post/the/) [crowd](/post/crowd/) [during](/post/during/) [the](/post/the/) [protest](/post/protest/)."
 
-### [Adverb](/en/post/adverb/)
-[In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [of](/en/post/of/) shouting [or](/en/post/or/) loudly. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) shouted [her](/en/post/her/) [answer](/en/post/answer/) [across](/en/post/across/) [the](/en/post/the/) [room](/en/post/room/)."
+### [Adverb](/post/adverb/)
+[In](/post/in/) [a](/post/a/) [manner](/post/manner/) [of](/post/of/) shouting [or](/post/or/) loudly. [For](/post/for/) [example](/post/example/): "[She](/post/she/) shouted [her](/post/her/) [answer](/post/answer/) [across](/post/across/) [the](/post/the/) [room](/post/room/)."
 
 ## Phrases
-- "[Shout](/en/post/shout/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) [call](/en/post/call/) [out](/en/post/out/) [or](/en/post/or/) [announce](/en/post/announce/) [something](/en/post/something/) publicly.
-- "[To](/en/post/to/) [shout](/en/post/shout/) encouragement" is [to](/en/post/to/) [cheer](/en/post/cheer/) [someone](/en/post/someone/) [on](/en/post/on/) vociferously.
-- "[Loud](/en/post/loud/) [shout](/en/post/shout/) [of](/en/post/of/) [laughter](/en/post/laughter/)" describes [a](/en/post/a/) hearty, boisterous [laugh](/en/post/laugh/).
+- "[Shout](/post/shout/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) [call](/post/call/) [out](/post/out/) [or](/post/or/) [announce](/post/announce/) [something](/post/something/) publicly.
+- "[To](/post/to/) [shout](/post/shout/) encouragement" is [to](/post/to/) [cheer](/post/cheer/) [someone](/post/someone/) [on](/post/on/) vociferously.
+- "[Loud](/post/loud/) [shout](/post/shout/) [of](/post/of/) [laughter](/post/laughter/)" describes [a](/post/a/) hearty, boisterous [laugh](/post/laugh/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [crowd](/en/post/crowd/) erupted [in](/en/post/in/) [a](/en/post/a/) [shout](/en/post/shout/) [of](/en/post/of/) [approval](/en/post/approval/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) shouted [his](/en/post/his/) [name](/en/post/name/) [to](/en/post/to/) [be](/en/post/be/) heard [over](/en/post/over/) [the](/en/post/the/) [music](/en/post/music/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) shouted commands [to](/en/post/to/) [her](/en/post/her/) [team](/en/post/team/) [during](/en/post/during/) [the](/en/post/the/) [game](/en/post/game/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [crowd](/post/crowd/) erupted [in](/post/in/) [a](/post/a/) [shout](/post/shout/) [of](/post/of/) [approval](/post/approval/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) shouted [his](/post/his/) [name](/post/name/) [to](/post/to/) [be](/post/be/) heard [over](/post/over/) [the](/post/the/) [music](/post/music/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) shouted commands [to](/post/to/) [her](/post/her/) [team](/post/team/) [during](/post/during/) [the](/post/the/) [game](/post/game/)."
 
-## Synonyms ([for](/en/post/for/) [Verb](/en/post/verb/))
-- [Yell](/en/post/yell/)
-- [Cry](/en/post/cry/) [out](/en/post/out/)
-- [Roar](/en/post/roar/)
-- [Shriek](/en/post/shriek/)
+## Synonyms ([for](/post/for/) [Verb](/post/verb/))
+- [Yell](/post/yell/)
+- [Cry](/post/cry/) [out](/post/out/)
+- [Roar](/post/roar/)
+- [Shriek](/post/shriek/)
 - Bellow
 
 ## Antonyms
-- [Whisper](/en/post/whisper/)
-- [Mutter](/en/post/mutter/)
-- [Whisper](/en/post/whisper/) ([for](/en/post/for/) [Verb](/en/post/verb/))
+- [Whisper](/post/whisper/)
+- [Mutter](/post/mutter/)
+- [Whisper](/post/whisper/) ([for](/post/for/) [Verb](/post/verb/))

@@ -12,39 +12,39 @@ keywords = ['ai words', 'mean']
 
 ## 释义
 - **名词**:
-  - 主要的；重要的：例如: "[The](/post/the/) [main](/post/main/) [reason](/post/reason/) [for](/post/for/) [his](/post/his/) [success](/post/success/) is [hard](/post/hard/) [work](/post/work/)."
-  - 要点；本质：例如: "Let's [focus](/post/focus/) [on](/post/on/) [the](/post/the/) [main](/post/main/) [point](/post/point/) [of](/post/of/) [the](/post/the/) [discussion](/post/discussion/)."
-  - 平均值；中值：例如: "[The](/post/the/) [mean](/post/mean/) [of](/post/of/) [these](/post/these/) numbers is 10."
+  - 主要的；重要的：例如: "[The](/zh/post/the/) [main](/zh/post/main/) [reason](/zh/post/reason/) [for](/zh/post/for/) [his](/zh/post/his/) [success](/zh/post/success/) is [hard](/zh/post/hard/) [work](/zh/post/work/)."
+  - 要点；本质：例如: "Let's [focus](/zh/post/focus/) [on](/zh/post/on/) [the](/zh/post/the/) [main](/zh/post/main/) [point](/zh/post/point/) [of](/zh/post/of/) [the](/zh/post/the/) [discussion](/zh/post/discussion/)."
+  - 平均值；中值：例如: "[The](/zh/post/the/) [mean](/zh/post/mean/) [of](/zh/post/of/) [these](/zh/post/these/) numbers is 10."
 
 - **形容词**:
-  - 刻薄的；卑鄙的：例如: "[She](/post/she/) [can](/post/can/) [be](/post/be/) [really](/post/really/) [mean](/post/mean/) [sometimes](/post/sometimes/)."
-  - 意味着；打算：例如: "I didn't [mean](/post/mean/) [to](/post/to/) [hurt](/post/hurt/) [your](/post/your/) feelings."
+  - 刻薄的；卑鄙的：例如: "[She](/zh/post/she/) [can](/zh/post/can/) [be](/zh/post/be/) [really](/zh/post/really/) [mean](/zh/post/mean/) [sometimes](/zh/post/sometimes/)."
+  - 意味着；打算：例如: "I didn't [mean](/zh/post/mean/) [to](/zh/post/to/) [hurt](/zh/post/hurt/) [your](/zh/post/your/) feelings."
 
 - **动词**:
-  - 意思；意味着：例如: "[What](/post/what/) does [this](/post/this/) [symbol](/post/symbol/) [mean](/post/mean/) [in](/post/in/) [the](/post/the/) [equation](/post/equation/)?"
-  - 旨在；打算：例如: "I [mean](/post/mean/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [by](/post/by/) [tomorrow](/post/tomorrow/)."
+  - 意思；意味着：例如: "[What](/zh/post/what/) does [this](/zh/post/this/) [symbol](/zh/post/symbol/) [mean](/zh/post/mean/) [in](/zh/post/in/) [the](/zh/post/the/) [equation](/zh/post/equation/)?"
+  - 旨在；打算：例如: "I [mean](/zh/post/mean/) [to](/zh/post/to/) [finish](/zh/post/finish/) [the](/zh/post/the/) [project](/zh/post/project/) [by](/zh/post/by/) [tomorrow](/zh/post/tomorrow/)."
 
 ## 短语
-- "[Mean](/post/mean/) [something](/post/something/) [to](/post/to/) [someone](/post/someone/)" 表示对某人有重要意义。
-- "[Mean](/post/mean/) [well](/post/well/)" 意向良好，本意是好的。
+- "[Mean](/zh/post/mean/) [something](/zh/post/something/) [to](/zh/post/to/) [someone](/zh/post/someone/)" 表示对某人有重要意义。
+- "[Mean](/zh/post/mean/) [well](/zh/post/well/)" 意向良好，本意是好的。
 
 ## 例句
-- 名词: "[The](/post/the/) [main](/post/main/) [issue](/post/issue/) [we](/post/we/) [need](/post/need/) [to](/post/to/) [address](/post/address/) is [climate](/post/climate/) [change](/post/change/)."
-- 形容词: "He's [so](/post/so/) [mean](/post/mean/) [that](/post/that/) [he](/post/he/) [never](/post/never/) shares [his](/post/his/) toys [with](/post/with/) others."
-- 动词: "[When](/post/when/) [she](/post/she/) said 'it's [nothing](/post/nothing/)', [she](/post/she/) [really](/post/really/) meant [it](/post/it/)."
+- 名词: "[The](/zh/post/the/) [main](/zh/post/main/) [issue](/zh/post/issue/) [we](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [address](/zh/post/address/) is [climate](/zh/post/climate/) [change](/zh/post/change/)."
+- 形容词: "He's [so](/zh/post/so/) [mean](/zh/post/mean/) [that](/zh/post/that/) [he](/zh/post/he/) [never](/zh/post/never/) shares [his](/zh/post/his/) toys [with](/zh/post/with/) others."
+- 动词: "[When](/zh/post/when/) [she](/zh/post/she/) said 'it's [nothing](/zh/post/nothing/)', [she](/zh/post/she/) [really](/zh/post/really/) meant [it](/zh/post/it/)."
 
 ## 同义词
-- [Noun](/post/noun/):
-  - [Central](/post/central/)
-  - [Principal](/post/principal/)
-  - [Key](/post/key/)
+- [Noun](/zh/post/noun/):
+  - [Central](/zh/post/central/)
+  - [Principal](/zh/post/principal/)
+  - [Key](/zh/post/key/)
 
-- [Adjective](/post/adjective/):
-  - [Unkind](/post/unkind/)
-  - [Nasty](/post/nasty/)
+- [Adjective](/zh/post/adjective/):
+  - [Unkind](/zh/post/unkind/)
+  - [Nasty](/zh/post/nasty/)
   - Miserly
 
-- [Verb](/post/verb/):
-  - [Intend](/post/intend/)
+- [Verb](/zh/post/verb/):
+  - [Intend](/zh/post/intend/)
   - Connote
   - Denote

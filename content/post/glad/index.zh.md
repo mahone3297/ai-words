@@ -11,20 +11,20 @@ keywords = ['ai words', 'glad']
 /ɡlæd/
 
 ## 释义
-- **形容词**: 高兴的，愉快的。例如: "I'm [so](/post/so/) [glad](/post/glad/) [to](/post/to/) [see](/post/see/) [you](/post/you/) [again](/post/again/)."
-- **动词**: 对...感到高兴，对...满意。例如: "[She](/post/she/) was [glad](/post/glad/) [to](/post/to/) [hear](/post/hear/) [the](/post/the/) [good](/post/good/) [news](/post/news/)."
+- **形容词**: 高兴的，愉快的。例如: "I'm [so](/zh/post/so/) [glad](/zh/post/glad/) [to](/zh/post/to/) [see](/zh/post/see/) [you](/zh/post/you/) [again](/zh/post/again/)."
+- **动词**: 对...感到高兴，对...满意。例如: "[She](/zh/post/she/) was [glad](/zh/post/glad/) [to](/zh/post/to/) [hear](/zh/post/hear/) [the](/zh/post/the/) [good](/zh/post/good/) [news](/zh/post/news/)."
 
 ## 短语
-- "[glad](/post/glad/) [of](/post/of/) [something](/post/something/)" 对某事感到庆幸。例如: "I'm [glad](/post/glad/) [of](/post/of/) [the](/post/the/) [chance](/post/chance/) [to](/post/to/) [talk](/post/talk/) [with](/post/with/) [you](/post/you/)."
-- "[glad](/post/glad/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" 愿意做某事，乐于做某事。例如: "I'd [be](/post/be/) [glad](/post/glad/) [to](/post/to/) [help](/post/help/) [you](/post/you/) [with](/post/with/) [your](/post/your/) [project](/post/project/)."
+- "[glad](/zh/post/glad/) [of](/zh/post/of/) [something](/zh/post/something/)" 对某事感到庆幸。例如: "I'm [glad](/zh/post/glad/) [of](/zh/post/of/) [the](/zh/post/the/) [chance](/zh/post/chance/) [to](/zh/post/to/) [talk](/zh/post/talk/) [with](/zh/post/with/) [you](/zh/post/you/)."
+- "[glad](/zh/post/glad/) [to](/zh/post/to/) [do](/zh/post/do/) [something](/zh/post/something/)" 愿意做某事，乐于做某事。例如: "I'd [be](/zh/post/be/) [glad](/zh/post/glad/) [to](/zh/post/to/) [help](/zh/post/help/) [you](/zh/post/you/) [with](/zh/post/with/) [your](/zh/post/your/) [project](/zh/post/project/)."
 
 ## 例句
-- 形容词: "[She](/post/she/) looked [glad](/post/glad/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [her](/post/her/) [old](/post/old/) [friend](/post/friend/)."
-- 动词: "[He](/post/he/) was [glad](/post/glad/) [to](/post/to/) [receive](/post/receive/) [the](/post/the/) [job](/post/job/) [offer](/post/offer/)."
+- 形容词: "[She](/zh/post/she/) looked [glad](/zh/post/glad/) [when](/zh/post/when/) [she](/zh/post/she/) [saw](/zh/post/saw/) [her](/zh/post/her/) [old](/zh/post/old/) [friend](/zh/post/friend/)."
+- 动词: "[He](/zh/post/he/) was [glad](/zh/post/glad/) [to](/zh/post/to/) [receive](/zh/post/receive/) [the](/zh/post/the/) [job](/zh/post/job/) [offer](/zh/post/offer/)."
 
 ## 同义词
-- [Happy](/post/happy/)
-- [Joyful](/post/joyful/)
+- [Happy](/zh/post/happy/)
+- [Joyful](/zh/post/joyful/)
 - Delighted
 - Pleased
 - Ecstatic

@@ -7,47 +7,47 @@ description = '[bel] n.钟，铃，门铃；钟声'
 keywords = ['ai words', 'bell']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɛl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) produces [a](/en/post/a/) ringing [sound](/en/post/sound/) [when](/en/post/when/) struck, typically [used](/en/post/used/) [to](/en/post/to/) [signal](/en/post/signal/) [or](/en/post/or/) [announce](/en/post/announce/) [something](/en/post/something/).
-- [A](/en/post/a/) [musical](/en/post/musical/) [instrument](/en/post/instrument/) consisting [of](/en/post/of/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) bells [that](/en/post/that/) [produce](/en/post/produce/) [different](/en/post/different/) tones [when](/en/post/when/) struck.
-- [A](/en/post/a/) warning [or](/en/post/or/) [alarm](/en/post/alarm/) [signal](/en/post/signal/), [often](/en/post/often/) [mechanical](/en/post/mechanical/) [or](/en/post/or/) [electronic](/en/post/electronic/).
-- [In](/en/post/in/) British [usage](/en/post/usage/), [a](/en/post/a/) [tax](/en/post/tax/) [on](/en/post/on/) [goods](/en/post/goods/) [or](/en/post/or/) services.
+### [Noun](/post/noun/)
+- [A](/post/a/) [device](/post/device/) [that](/post/that/) produces [a](/post/a/) ringing [sound](/post/sound/) [when](/post/when/) struck, typically [used](/post/used/) [to](/post/to/) [signal](/post/signal/) [or](/post/or/) [announce](/post/announce/) [something](/post/something/).
+- [A](/post/a/) [musical](/post/musical/) [instrument](/post/instrument/) consisting [of](/post/of/) [a](/post/a/) [series](/post/series/) [of](/post/of/) bells [that](/post/that/) [produce](/post/produce/) [different](/post/different/) tones [when](/post/when/) struck.
+- [A](/post/a/) warning [or](/post/or/) [alarm](/post/alarm/) [signal](/post/signal/), [often](/post/often/) [mechanical](/post/mechanical/) [or](/post/or/) [electronic](/post/electronic/).
+- [In](/post/in/) British [usage](/post/usage/), [a](/post/a/) [tax](/post/tax/) [on](/post/on/) [goods](/post/goods/) [or](/post/or/) services.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [sound](/en/post/sound/) [a](/en/post/a/) [bell](/en/post/bell/), [especially](/en/post/especially/) [to](/en/post/to/) alert others [or](/en/post/or/) [indicate](/en/post/indicate/) [a](/en/post/a/) [specific](/en/post/specific/) [event](/en/post/event/).
-- [To](/en/post/to/) [call](/en/post/call/) [or](/en/post/or/) summon [someone](/en/post/someone/) using [a](/en/post/a/) [bell](/en/post/bell/).
-- [To](/en/post/to/) [signal](/en/post/signal/) [or](/en/post/or/) [mark](/en/post/mark/) [the](/en/post/the/) [beginning](/en/post/beginning/) [or](/en/post/or/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) [period](/en/post/period/) (e.g., [school](/en/post/school/) [bell](/en/post/bell/)).
+### [Verb](/post/verb/)
+- [To](/post/to/) [sound](/post/sound/) [a](/post/a/) [bell](/post/bell/), [especially](/post/especially/) [to](/post/to/) alert others [or](/post/or/) [indicate](/post/indicate/) [a](/post/a/) [specific](/post/specific/) [event](/post/event/).
+- [To](/post/to/) [call](/post/call/) [or](/post/or/) summon [someone](/post/someone/) using [a](/post/a/) [bell](/post/bell/).
+- [To](/post/to/) [signal](/post/signal/) [or](/post/or/) [mark](/post/mark/) [the](/post/the/) [beginning](/post/beginning/) [or](/post/or/) [end](/post/end/) [of](/post/of/) [a](/post/a/) [period](/post/period/) (e.g., [school](/post/school/) [bell](/post/bell/)).
 
-### [Adjective](/en/post/adjective/)
-- Characterized [by](/en/post/by/) [a](/en/post/a/) bell-like [sound](/en/post/sound/) [or](/en/post/or/) [tone](/en/post/tone/).
-- Signifying an alert [or](/en/post/or/) warning.
+### [Adjective](/post/adjective/)
+- Characterized [by](/post/by/) [a](/post/a/) bell-like [sound](/post/sound/) [or](/post/or/) [tone](/post/tone/).
+- Signifying an alert [or](/post/or/) warning.
 
-### [Adverb](/en/post/adverb/)
-- [With](/en/post/with/) [a](/en/post/a/) bell-like [sound](/en/post/sound/) [or](/en/post/or/) [tone](/en/post/tone/).
-- [As](/en/post/as/) [a](/en/post/a/) [signal](/en/post/signal/) [or](/en/post/or/) announcement, typically [by](/en/post/by/) ringing [a](/en/post/a/) [bell](/en/post/bell/).
+### [Adverb](/post/adverb/)
+- [With](/post/with/) [a](/post/a/) bell-like [sound](/post/sound/) [or](/post/or/) [tone](/post/tone/).
+- [As](/post/as/) [a](/post/a/) [signal](/post/signal/) [or](/post/or/) announcement, typically [by](/post/by/) ringing [a](/post/a/) [bell](/post/bell/).
 
 ## Phrases
-- "[Ring](/en/post/ring/) [a](/en/post/a/) [bell](/en/post/bell/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [familiar](/en/post/familiar/) [or](/en/post/or/) [relevant](/en/post/relevant/) (idiomatically).
-- "Bell-bottoms" refers [to](/en/post/to/) wide-legged pants [with](/en/post/with/) [a](/en/post/a/) bell-shaped hem.
-- "Ding-dong [bell](/en/post/bell/)" is [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) doorbell.
-- "[Bell](/en/post/bell/) [curve](/en/post/curve/)" describes [a](/en/post/a/) [statistical](/en/post/statistical/) [distribution](/en/post/distribution/) [with](/en/post/with/) [a](/en/post/a/) [shape](/en/post/shape/) [like](/en/post/like/) [a](/en/post/a/) [bell](/en/post/bell/).
+- "[Ring](/post/ring/) [a](/post/a/) [bell](/post/bell/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) [familiar](/post/familiar/) [or](/post/or/) [relevant](/post/relevant/) (idiomatically).
+- "Bell-bottoms" refers [to](/post/to/) wide-legged pants [with](/post/with/) [a](/post/a/) bell-shaped hem.
+- "Ding-dong [bell](/post/bell/)" is [a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) [a](/post/a/) doorbell.
+- "[Bell](/post/bell/) [curve](/post/curve/)" describes [a](/post/a/) [statistical](/post/statistical/) [distribution](/post/distribution/) [with](/post/with/) [a](/post/a/) [shape](/post/shape/) [like](/post/like/) [a](/post/a/) [bell](/post/bell/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [church](/en/post/church/) [bell](/en/post/bell/) tolled [five](/en/post/five/) o'clock."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) rang [the](/en/post/the/) doorbell [to](/en/post/to/) [announce](/en/post/announce/) [her](/en/post/her/) [arrival](/en/post/arrival/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [wind](/en/post/wind/) chimes created [a](/en/post/a/) melodic bell-like [sound](/en/post/sound/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [fire](/en/post/fire/) [alarm](/en/post/alarm/) went [off](/en/post/off/) [with](/en/post/with/) [a](/en/post/a/) [loud](/en/post/loud/) bell-like [noise](/en/post/noise/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [church](/post/church/) [bell](/post/bell/) tolled [five](/post/five/) o'clock."
+- **[Verb](/post/verb/)**: "[She](/post/she/) rang [the](/post/the/) doorbell [to](/post/to/) [announce](/post/announce/) [her](/post/her/) [arrival](/post/arrival/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [wind](/post/wind/) chimes created [a](/post/a/) melodic bell-like [sound](/post/sound/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [fire](/post/fire/) [alarm](/post/alarm/) went [off](/post/off/) [with](/post/with/) [a](/post/a/) [loud](/post/loud/) bell-like [noise](/post/noise/)."
 
 ## Synonyms
 - Bell-ringer
 - Gong
 - Toller
-- [Alarm](/en/post/alarm/)
-- [Signal](/en/post/signal/)
+- [Alarm](/post/alarm/)
+- [Signal](/post/signal/)
 - Ringtone
 - Jingle
 - Tinkling

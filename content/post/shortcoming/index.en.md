@@ -7,29 +7,29 @@ description = '[ˈ∫ɔːtkʌmiŋ] n.短处，缺点'
 keywords = ['ai words', 'shortcoming']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʃɔːrtkʌmɪŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) deficiency, [limitation](/en/post/limitation/), [or](/en/post/or/) imperfection; [a](/en/post/a/) [shortcoming](/en/post/shortcoming/) [or](/en/post/or/) [weakness](/en/post/weakness/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) biggest [shortcoming](/en/post/shortcoming/) was [her](/en/post/her/) [lack](/en/post/lack/) [of](/en/post/of/) self-confidence."
-- **[Adjective](/en/post/adjective/)**: Characterizing [something](/en/post/something/) [as](/en/post/as/) having [a](/en/post/a/) [defect](/en/post/defect/) [or](/en/post/or/) [not](/en/post/not/) [being](/en/post/being/) [adequate](/en/post/adequate/) [in](/en/post/in/) [some](/en/post/some/) [aspect](/en/post/aspect/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [design](/en/post/design/) had [several](/en/post/several/) [technical](/en/post/technical/) shortcomings."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [point](/en/post/point/) [out](/en/post/out/) [or](/en/post/or/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [shortcoming](/en/post/shortcoming/), [fault](/en/post/fault/), [or](/en/post/or/) imperfection. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) highlighted [the](/en/post/the/) students' [shortcoming](/en/post/shortcoming/) [in](/en/post/in/) [time](/en/post/time/) [management](/en/post/management/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) deficiency, [limitation](/post/limitation/), [or](/post/or/) imperfection; [a](/post/a/) [shortcoming](/post/shortcoming/) [or](/post/or/) [weakness](/post/weakness/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) biggest [shortcoming](/post/shortcoming/) was [her](/post/her/) [lack](/post/lack/) [of](/post/of/) self-confidence."
+- **[Adjective](/post/adjective/)**: Characterizing [something](/post/something/) [as](/post/as/) having [a](/post/a/) [defect](/post/defect/) [or](/post/or/) [not](/post/not/) [being](/post/being/) [adequate](/post/adequate/) [in](/post/in/) [some](/post/some/) [aspect](/post/aspect/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [design](/post/design/) had [several](/post/several/) [technical](/post/technical/) shortcomings."
+- **[Verb](/post/verb/)**: [To](/post/to/) [point](/post/point/) [out](/post/out/) [or](/post/or/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [shortcoming](/post/shortcoming/), [fault](/post/fault/), [or](/post/or/) imperfection. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) highlighted [the](/post/the/) students' [shortcoming](/post/shortcoming/) [in](/post/in/) [time](/post/time/) [management](/post/management/)."
 
 ## Phrases
-- "Addressing [a](/en/post/a/) [shortcoming](/en/post/shortcoming/)" [means](/en/post/means/) [to](/en/post/to/) [focus](/en/post/focus/) [on](/en/post/on/) [or](/en/post/or/) [work](/en/post/work/) [to](/en/post/to/) [improve](/en/post/improve/) [a](/en/post/a/) deficiency.
-- "[Recognize](/en/post/recognize/) one's [own](/en/post/own/) [shortcoming](/en/post/shortcoming/)" involves acknowledging [personal](/en/post/personal/) weaknesses.
-- "Mitigate shortfalls" [means](/en/post/means/) [to](/en/post/to/) compensate [for](/en/post/for/) [or](/en/post/or/) [reduce](/en/post/reduce/) [the](/en/post/the/) effects [of](/en/post/of/) [a](/en/post/a/) deficiency.
+- "Addressing [a](/post/a/) [shortcoming](/post/shortcoming/)" [means](/post/means/) [to](/post/to/) [focus](/post/focus/) [on](/post/on/) [or](/post/or/) [work](/post/work/) [to](/post/to/) [improve](/post/improve/) [a](/post/a/) deficiency.
+- "[Recognize](/post/recognize/) one's [own](/post/own/) [shortcoming](/post/shortcoming/)" involves acknowledging [personal](/post/personal/) weaknesses.
+- "Mitigate shortfalls" [means](/post/means/) [to](/post/to/) compensate [for](/post/for/) [or](/post/or/) [reduce](/post/reduce/) [the](/post/the/) effects [of](/post/of/) [a](/post/a/) deficiency.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) inability [to](/en/post/to/) [speak](/en/post/speak/) [a](/en/post/a/) [second](/en/post/second/) [language](/en/post/language/) was [a](/en/post/a/) [significant](/en/post/significant/) [shortcoming](/en/post/shortcoming/) [in](/en/post/in/) [his](/en/post/his/) [job](/en/post/job/) [application](/en/post/application/)."
-- **[Adjective](/en/post/adjective/)**: "[Despite](/en/post/despite/) [her](/en/post/her/) [talent](/en/post/talent/), [her](/en/post/her/) [performance](/en/post/performance/) lacked [the](/en/post/the/) creativity [that](/en/post/that/) [would](/en/post/would/) [have](/en/post/have/) made [it](/en/post/it/) [truly](/en/post/truly/) [outstanding](/en/post/outstanding/), [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [technical](/en/post/technical/) shortcomings."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) mentor encouraged [the](/en/post/the/) [student](/en/post/student/) [to](/en/post/to/) actively [work](/en/post/work/) [on](/en/post/on/) overcoming [their](/en/post/their/) [shortcoming](/en/post/shortcoming/) [in](/en/post/in/) [public](/en/post/public/) speaking."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) inability [to](/post/to/) [speak](/post/speak/) [a](/post/a/) [second](/post/second/) [language](/post/language/) was [a](/post/a/) [significant](/post/significant/) [shortcoming](/post/shortcoming/) [in](/post/in/) [his](/post/his/) [job](/post/job/) [application](/post/application/)."
+- **[Adjective](/post/adjective/)**: "[Despite](/post/despite/) [her](/post/her/) [talent](/post/talent/), [her](/post/her/) [performance](/post/performance/) lacked [the](/post/the/) creativity [that](/post/that/) [would](/post/would/) [have](/post/have/) made [it](/post/it/) [truly](/post/truly/) [outstanding](/post/outstanding/), [due](/post/due/) [to](/post/to/) [its](/post/its/) [technical](/post/technical/) shortcomings."
+- **[Verb](/post/verb/)**: "[The](/post/the/) mentor encouraged [the](/post/the/) [student](/post/student/) [to](/post/to/) actively [work](/post/work/) [on](/post/on/) overcoming [their](/post/their/) [shortcoming](/post/shortcoming/) [in](/post/in/) [public](/post/public/) speaking."
 
 ## Synonyms
 - Flaw
 - Drawback
 - Shortfall
-- [Limitation](/en/post/limitation/)
-- [Weakness](/en/post/weakness/)
-- [Fault](/en/post/fault/)
+- [Limitation](/post/limitation/)
+- [Weakness](/post/weakness/)
+- [Fault](/post/fault/)
 - Insufficiency

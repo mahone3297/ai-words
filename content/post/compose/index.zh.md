@@ -11,20 +11,20 @@ keywords = ['ai words', 'compose']
 /comˈpoʊz/
 
 ## 释义
-- **动词**: 组成，构成。创作（音乐、诗歌、文章等）。例如: "[He](/post/he/) composed [a](/post/a/) [beautiful](/post/beautiful/) symphony."
-- **名词**: 作品，作曲。例如: "[The](/post/the/) composer's latest [work](/post/work/) is [a](/post/a/) [piano](/post/piano/) [composition](/post/composition/)."
+- **动词**: 组成，构成。创作（音乐、诗歌、文章等）。例如: "[He](/zh/post/he/) composed [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) symphony."
+- **名词**: 作品，作曲。例如: "[The](/zh/post/the/) composer's latest [work](/zh/post/work/) is [a](/zh/post/a/) [piano](/zh/post/piano/) [composition](/zh/post/composition/)."
 
 ## 短语
-- "[compose](/post/compose/) [oneself](/post/oneself/)" 平静下来，镇定自若。例如: "[Take](/post/take/) [a](/post/a/) [deep](/post/deep/) [breath](/post/breath/) [and](/post/and/) [compose](/post/compose/) [yourself](/post/yourself/) [before](/post/before/) going [on](/post/on/) [stage](/post/stage/)."
-- "[to](/post/to/) [be](/post/be/) composed [of](/post/of/)" 由...组成。例如: "[The](/post/the/) [atmosphere](/post/atmosphere/) is composed [mainly](/post/mainly/) [of](/post/of/) [nitrogen](/post/nitrogen/) [and](/post/and/) oxygen."
+- "[compose](/zh/post/compose/) [oneself](/zh/post/oneself/)" 平静下来，镇定自若。例如: "[Take](/zh/post/take/) [a](/zh/post/a/) [deep](/zh/post/deep/) [breath](/zh/post/breath/) [and](/zh/post/and/) [compose](/zh/post/compose/) [yourself](/zh/post/yourself/) [before](/zh/post/before/) going [on](/zh/post/on/) [stage](/zh/post/stage/)."
+- "[to](/zh/post/to/) [be](/zh/post/be/) composed [of](/zh/post/of/)" 由...组成。例如: "[The](/zh/post/the/) [atmosphere](/zh/post/atmosphere/) is composed [mainly](/zh/post/mainly/) [of](/zh/post/of/) [nitrogen](/zh/post/nitrogen/) [and](/zh/post/and/) oxygen."
 
 ## 例句
-- 动词: "[She](/post/she/) spent hours composing [a](/post/a/) heartfelt [letter](/post/letter/) [to](/post/to/) [her](/post/her/) [friend](/post/friend/)."
-- 名词: "[The](/post/the/) musician's [performance](/post/performance/) included [several](/post/several/) [original](/post/original/) compositions."
+- 动词: "[She](/zh/post/she/) spent hours composing [a](/zh/post/a/) heartfelt [letter](/zh/post/letter/) [to](/zh/post/to/) [her](/zh/post/her/) [friend](/zh/post/friend/)."
+- 名词: "[The](/zh/post/the/) musician's [performance](/zh/post/performance/) included [several](/zh/post/several/) [original](/zh/post/original/) compositions."
 
 ## 同义词
-- [create](/post/create/)
-- [write](/post/write/)
-- [construct](/post/construct/)
-- [assemble](/post/assemble/)
-- [compile](/post/compile/)
+- [create](/zh/post/create/)
+- [write](/zh/post/write/)
+- [construct](/zh/post/construct/)
+- [assemble](/zh/post/assemble/)
+- [compile](/zh/post/compile/)

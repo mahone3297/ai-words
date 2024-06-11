@@ -7,32 +7,32 @@ description = '[i(ː)ˈkwɔliti] n.等同，平等；相等'
 keywords = ['ai words', 'equality']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈkwɑːlɪti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [equal](/en/post/equal/); specifically, [the](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/) discrimination [or](/en/post/or/) [prejudice](/en/post/prejudice/) based [on](/en/post/on/) factors [such](/en/post/such/) [as](/en/post/as/) [race](/en/post/race/), gender, [age](/en/post/age/), [or](/en/post/or/) [social](/en/post/social/) [class](/en/post/class/), [and](/en/post/and/) [the](/en/post/the/) [provision](/en/post/provision/) [of](/en/post/of/) [fair](/en/post/fair/) [treatment](/en/post/treatment/) [and](/en/post/and/) opportunities [for](/en/post/for/) [all](/en/post/all/) individuals [or](/en/post/or/) groups. [For](/en/post/for/) [example](/en/post/example/): "Gender [equality](/en/post/equality/) is [a](/en/post/a/) [fundamental](/en/post/fundamental/) [human](/en/post/human/) [right](/en/post/right/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [equal](/post/equal/); specifically, [the](/post/the/) [absence](/post/absence/) [of](/post/of/) discrimination [or](/post/or/) [prejudice](/post/prejudice/) based [on](/post/on/) factors [such](/post/such/) [as](/post/as/) [race](/post/race/), gender, [age](/post/age/), [or](/post/or/) [social](/post/social/) [class](/post/class/), [and](/post/and/) [the](/post/the/) [provision](/post/provision/) [of](/post/of/) [fair](/post/fair/) [treatment](/post/treatment/) [and](/post/and/) opportunities [for](/post/for/) [all](/post/all/) individuals [or](/post/or/) groups. [For](/post/for/) [example](/post/example/): "Gender [equality](/post/equality/) is [a](/post/a/) [fundamental](/post/fundamental/) [human](/post/human/) [right](/post/right/)."
   
-  > "[They](/en/post/they/) advocate [for](/en/post/for/) [equality](/en/post/equality/) [in](/en/post/in/) [education](/en/post/education/) [and](/en/post/and/) [employment](/en/post/employment/) opportunities."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [equal](/en/post/equal/) rights, [status](/en/post/status/), [or](/en/post/or/) [opportunity](/en/post/opportunity/) [for](/en/post/for/) [all](/en/post/all/) members [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/). [For](/en/post/for/) [example](/en/post/example/): "An [equality](/en/post/equality/) [of](/en/post/of/) voices was encouraged [in](/en/post/in/) [the](/en/post/the/) [town](/en/post/town/) [hall](/en/post/hall/) [meeting](/en/post/meeting/)."
+  > "[They](/post/they/) advocate [for](/post/for/) [equality](/post/equality/) [in](/post/in/) [education](/post/education/) [and](/post/and/) [employment](/post/employment/) opportunities."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [equal](/post/equal/) rights, [status](/post/status/), [or](/post/or/) [opportunity](/post/opportunity/) [for](/post/for/) [all](/post/all/) members [of](/post/of/) [a](/post/a/) [group](/post/group/). [For](/post/for/) [example](/post/example/): "An [equality](/post/equality/) [of](/post/of/) voices was encouraged [in](/post/in/) [the](/post/the/) [town](/post/town/) [hall](/post/hall/) [meeting](/post/meeting/)."
 
-  > "[The](/en/post/the/) [law](/en/post/law/) strives [to](/en/post/to/) [ensure](/en/post/ensure/) [equality](/en/post/equality/) [before](/en/post/before/) [the](/en/post/the/) [law](/en/post/law/) [for](/en/post/for/) [every](/en/post/every/) [citizen](/en/post/citizen/)."
+  > "[The](/post/the/) [law](/post/law/) strives [to](/post/to/) [ensure](/post/ensure/) [equality](/post/equality/) [before](/post/before/) [the](/post/the/) [law](/post/law/) [for](/post/for/) [every](/post/every/) [citizen](/post/citizen/)."
 
 ## Phrases
-- "[Equality](/en/post/equality/) [of](/en/post/of/) [opportunity](/en/post/opportunity/)": Refers [to](/en/post/to/) [the](/en/post/the/) [concept](/en/post/concept/) [that](/en/post/that/) [every](/en/post/every/) [individual](/en/post/individual/) has an [equal](/en/post/equal/) [chance](/en/post/chance/) [to](/en/post/to/) [succeed](/en/post/succeed/) [regardless](/en/post/regardless/) [of](/en/post/of/) [their](/en/post/their/) [background](/en/post/background/) [or](/en/post/or/) circumstances.
-- "[Social](/en/post/social/) [equality](/en/post/equality/)": Denotes [a](/en/post/a/) [state](/en/post/state/) [where](/en/post/where/) [all](/en/post/all/) members [of](/en/post/of/) [a](/en/post/a/) [society](/en/post/society/) [have](/en/post/have/) [the](/en/post/the/) [same](/en/post/same/) rights, privileges, [and](/en/post/and/) opportunities [regardless](/en/post/regardless/) [of](/en/post/of/) [their](/en/post/their/) [social](/en/post/social/) [class](/en/post/class/), [economic](/en/post/economic/) [status](/en/post/status/), [or](/en/post/or/) [other](/en/post/other/) characteristics.
-- "Gender [equality](/en/post/equality/)": Focuses [on](/en/post/on/) [the](/en/post/the/) rights [and](/en/post/and/) freedoms [of](/en/post/of/) men [and](/en/post/and/) women [to](/en/post/to/) [be](/en/post/be/) treated equally [and](/en/post/and/) [have](/en/post/have/) [access](/en/post/access/) [to](/en/post/to/) [the](/en/post/the/) [same](/en/post/same/) opportunities.
+- "[Equality](/post/equality/) [of](/post/of/) [opportunity](/post/opportunity/)": Refers [to](/post/to/) [the](/post/the/) [concept](/post/concept/) [that](/post/that/) [every](/post/every/) [individual](/post/individual/) has an [equal](/post/equal/) [chance](/post/chance/) [to](/post/to/) [succeed](/post/succeed/) [regardless](/post/regardless/) [of](/post/of/) [their](/post/their/) [background](/post/background/) [or](/post/or/) circumstances.
+- "[Social](/post/social/) [equality](/post/equality/)": Denotes [a](/post/a/) [state](/post/state/) [where](/post/where/) [all](/post/all/) members [of](/post/of/) [a](/post/a/) [society](/post/society/) [have](/post/have/) [the](/post/the/) [same](/post/same/) rights, privileges, [and](/post/and/) opportunities [regardless](/post/regardless/) [of](/post/of/) [their](/post/their/) [social](/post/social/) [class](/post/class/), [economic](/post/economic/) [status](/post/status/), [or](/post/or/) [other](/post/other/) characteristics.
+- "Gender [equality](/post/equality/)": Focuses [on](/post/on/) [the](/post/the/) rights [and](/post/and/) freedoms [of](/post/of/) men [and](/post/and/) women [to](/post/to/) [be](/post/be/) treated equally [and](/post/and/) [have](/post/have/) [access](/post/access/) [to](/post/to/) [the](/post/the/) [same](/post/same/) opportunities.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [civil](/en/post/civil/) rights [movement](/en/post/movement/) fought tirelessly [for](/en/post/for/) [racial](/en/post/racial/) [equality](/en/post/equality/)."
-- **[Adjective](/en/post/adjective/)**: "[In](/en/post/in/) [our](/en/post/our/) [company](/en/post/company/), [we](/en/post/we/) [promote](/en/post/promote/) [a](/en/post/a/) workplace [culture](/en/post/culture/) [of](/en/post/of/) [equality](/en/post/equality/) [and](/en/post/and/) inclusivity."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [civil](/post/civil/) rights [movement](/post/movement/) fought tirelessly [for](/post/for/) [racial](/post/racial/) [equality](/post/equality/)."
+- **[Adjective](/post/adjective/)**: "[In](/post/in/) [our](/post/our/) [company](/post/company/), [we](/post/we/) [promote](/post/promote/) [a](/post/a/) workplace [culture](/post/culture/) [of](/post/of/) [equality](/post/equality/) [and](/post/and/) inclusivity."
 
 ## Synonyms
 - Fairness
 - Equitability
 - Parity
 - Non-discrimination
-- Uniformity ([in](/en/post/in/) [treatment](/en/post/treatment/))
+- Uniformity ([in](/post/in/) [treatment](/post/treatment/))
 - Levelness
-- [Balance](/en/post/balance/)
+- [Balance](/post/balance/)
 - Equity

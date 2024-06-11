@@ -7,28 +7,28 @@ description = '[ˈlaikli] a.可能的 ad.很可能'
 keywords = ['ai words', 'likely']
 +++
 
-## [Word](/en/post/word/): [Likely](/en/post/likely/)
+## [Word](/post/word/): [Likely](/post/likely/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlaɪkli/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) [strong](/en/post/strong/) [probability](/en/post/probability/) [of](/en/post/of/) occurring [or](/en/post/or/) [being](/en/post/being/) [true](/en/post/true/); [probable](/en/post/probable/). [For](/en/post/for/) [example](/en/post/example/): "It's [likely](/en/post/likely/) [to](/en/post/to/) [rain](/en/post/rain/) [today](/en/post/today/)."
-  - [Usage](/en/post/usage/): "Based [on](/en/post/on/) [the](/en/post/the/) [forecast](/en/post/forecast/), it's [likely](/en/post/likely/) [that](/en/post/that/) we'll [have](/en/post/have/) [a](/en/post/a/) [sunny](/en/post/sunny/) [weekend](/en/post/weekend/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [all](/en/post/all/) [probability](/en/post/probability/); [most](/en/post/most/) [probably](/en/post/probably/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [will](/en/post/will/) [likely](/en/post/likely/) [arrive](/en/post/arrive/) [late](/en/post/late/) [due](/en/post/due/) [to](/en/post/to/) [traffic](/en/post/traffic/)."
-  - [Usage](/en/post/usage/): "She's [likely](/en/post/likely/) going [to](/en/post/to/) [finish](/en/post/finish/) [her](/en/post/her/) [project](/en/post/project/) [ahead](/en/post/ahead/) [of](/en/post/of/) [schedule](/en/post/schedule/)."
+- **[Adjective](/post/adjective/)**: Having [a](/post/a/) [strong](/post/strong/) [probability](/post/probability/) [of](/post/of/) occurring [or](/post/or/) [being](/post/being/) [true](/post/true/); [probable](/post/probable/). [For](/post/for/) [example](/post/example/): "It's [likely](/post/likely/) [to](/post/to/) [rain](/post/rain/) [today](/post/today/)."
+  - [Usage](/post/usage/): "Based [on](/post/on/) [the](/post/the/) [forecast](/post/forecast/), it's [likely](/post/likely/) [that](/post/that/) we'll [have](/post/have/) [a](/post/a/) [sunny](/post/sunny/) [weekend](/post/weekend/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [all](/post/all/) [probability](/post/probability/); [most](/post/most/) [probably](/post/probably/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) [will](/post/will/) [likely](/post/likely/) [arrive](/post/arrive/) [late](/post/late/) [due](/post/due/) [to](/post/to/) [traffic](/post/traffic/)."
+  - [Usage](/post/usage/): "She's [likely](/post/likely/) going [to](/post/to/) [finish](/post/finish/) [her](/post/her/) [project](/post/project/) [ahead](/post/ahead/) [of](/post/of/) [schedule](/post/schedule/)."
 
 ## Phrases
-- **[As](/en/post/as/) [likely](/en/post/likely/) [as](/en/post/as/) [not](/en/post/not/)**: [With](/en/post/with/) [equal](/en/post/equal/) [probability](/en/post/probability/) [of](/en/post/of/) [either](/en/post/either/) [outcome](/en/post/outcome/). [For](/en/post/for/) [example](/en/post/example/): "[As](/en/post/as/) [likely](/en/post/likely/) [as](/en/post/as/) [not](/en/post/not/), he'll [decide](/en/post/decide/) [to](/en/post/to/) [stay](/en/post/stay/) [home](/en/post/home/) [tonight](/en/post/tonight/)."
-- **[Likely](/en/post/likely/) [enough](/en/post/enough/)**: [Probably](/en/post/probably/), [quite](/en/post/quite/) [possibly](/en/post/possibly/). [For](/en/post/for/) [example](/en/post/example/): "[Likely](/en/post/likely/) [enough](/en/post/enough/), we'll [have](/en/post/have/) [to](/en/post/to/) [postpone](/en/post/postpone/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **[Be](/en/post/be/) [likely](/en/post/likely/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [tendency](/en/post/tendency/) [or](/en/post/or/) [expectation](/en/post/expectation/) [of](/en/post/of/) doing [something](/en/post/something/). [Example](/en/post/example/): "[New](/en/post/new/) students are [likely](/en/post/likely/) [to](/en/post/to/) [experience](/en/post/experience/) homesickness [during](/en/post/during/) [their](/en/post/their/) [first](/en/post/first/) [semester](/en/post/semester/)."
+- **[As](/post/as/) [likely](/post/likely/) [as](/post/as/) [not](/post/not/)**: [With](/post/with/) [equal](/post/equal/) [probability](/post/probability/) [of](/post/of/) [either](/post/either/) [outcome](/post/outcome/). [For](/post/for/) [example](/post/example/): "[As](/post/as/) [likely](/post/likely/) [as](/post/as/) [not](/post/not/), he'll [decide](/post/decide/) [to](/post/to/) [stay](/post/stay/) [home](/post/home/) [tonight](/post/tonight/)."
+- **[Likely](/post/likely/) [enough](/post/enough/)**: [Probably](/post/probably/), [quite](/post/quite/) [possibly](/post/possibly/). [For](/post/for/) [example](/post/example/): "[Likely](/post/likely/) [enough](/post/enough/), we'll [have](/post/have/) [to](/post/to/) [postpone](/post/postpone/) [the](/post/the/) [meeting](/post/meeting/)."
+- **[Be](/post/be/) [likely](/post/likely/) [to](/post/to/) [do](/post/do/) [something](/post/something/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) [tendency](/post/tendency/) [or](/post/or/) [expectation](/post/expectation/) [of](/post/of/) doing [something](/post/something/). [Example](/post/example/): "[New](/post/new/) students are [likely](/post/likely/) [to](/post/to/) [experience](/post/experience/) homesickness [during](/post/during/) [their](/post/their/) [first](/post/first/) [semester](/post/semester/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "Given [his](/en/post/his/) skills, he's [the](/en/post/the/) [most](/en/post/most/) [likely](/en/post/likely/) [candidate](/en/post/candidate/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/)."
-- **[Adverb](/en/post/adverb/)**: "[With](/en/post/with/) [the](/en/post/the/) [current](/en/post/current/) [wind](/en/post/wind/) [direction](/en/post/direction/), [the](/en/post/the/) [fire](/en/post/fire/) is [likely](/en/post/likely/) [to](/en/post/to/) [spread](/en/post/spread/) towards [the](/en/post/the/) [north](/en/post/north/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "Given [his](/post/his/) skills, he's [the](/post/the/) [most](/post/most/) [likely](/post/likely/) [candidate](/post/candidate/) [for](/post/for/) [the](/post/the/) [job](/post/job/)."
+- **[Adverb](/post/adverb/)**: "[With](/post/with/) [the](/post/the/) [current](/post/current/) [wind](/post/wind/) [direction](/post/direction/), [the](/post/the/) [fire](/post/fire/) is [likely](/post/likely/) [to](/post/to/) [spread](/post/spread/) towards [the](/post/the/) [north](/post/north/)."
 
 ## Synonyms
-- [Probable](/en/post/probable/)
+- [Probable](/post/probable/)
 - Presumably
 - Expectedly
 - Apparently
@@ -36,4 +36,4 @@ keywords = ['ai words', 'likely']
 - Plausibly
 - Conceivably
 - Chances are
-- [Probably](/en/post/probably/)
+- [Probably](/post/probably/)

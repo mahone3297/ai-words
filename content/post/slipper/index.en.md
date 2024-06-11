@@ -7,35 +7,35 @@ description = '[ˈslipə] n.拖鞋，便鞋'
 keywords = ['ai words', 'slipper']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /slɪpər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) footwear typically worn [in](/en/post/in/) [the](/en/post/the/) [house](/en/post/house/) [or](/en/post/or/) [while](/en/post/while/) relaxing, [often](/en/post/often/) made [of](/en/post/of/) [soft](/en/post/soft/) [material](/en/post/material/) [with](/en/post/with/) [a](/en/post/a/) [loose](/en/post/loose/) [fit](/en/post/fit/). [Example](/en/post/example/): "[She](/en/post/she/) wore [her](/en/post/her/) favorite slippers [to](/en/post/to/) [bed](/en/post/bed/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [slide](/en/post/slide/) [or](/en/post/or/) [move](/en/post/move/) [easily](/en/post/easily/), [often](/en/post/often/) unintentionally, [on](/en/post/on/) [a](/en/post/a/) [surface](/en/post/surface/). [Example](/en/post/example/): "[He](/en/post/he/) slipped [on](/en/post/on/) [the](/en/post/the/) [wet](/en/post/wet/) [floor](/en/post/floor/) [and](/en/post/and/) fell."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [being](/en/post/being/) [smooth](/en/post/smooth/), unobtrusive, [or](/en/post/or/) informal. [Example](/en/post/example/): "[A](/en/post/a/) [quiet](/en/post/quiet/), [slipper](/en/post/slipper/) [living](/en/post/living/) [room](/en/post/room/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [type](/post/type/) [of](/post/of/) footwear typically worn [in](/post/in/) [the](/post/the/) [house](/post/house/) [or](/post/or/) [while](/post/while/) relaxing, [often](/post/often/) made [of](/post/of/) [soft](/post/soft/) [material](/post/material/) [with](/post/with/) [a](/post/a/) [loose](/post/loose/) [fit](/post/fit/). [Example](/post/example/): "[She](/post/she/) wore [her](/post/her/) favorite slippers [to](/post/to/) [bed](/post/bed/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [slide](/post/slide/) [or](/post/or/) [move](/post/move/) [easily](/post/easily/), [often](/post/often/) unintentionally, [on](/post/on/) [a](/post/a/) [surface](/post/surface/). [Example](/post/example/): "[He](/post/he/) slipped [on](/post/on/) [the](/post/the/) [wet](/post/wet/) [floor](/post/floor/) [and](/post/and/) fell."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [being](/post/being/) [smooth](/post/smooth/), unobtrusive, [or](/post/or/) informal. [Example](/post/example/): "[A](/post/a/) [quiet](/post/quiet/), [slipper](/post/slipper/) [living](/post/living/) [room](/post/room/)."
 
 ## Phrases
-- "[Slide](/en/post/slide/) [into](/en/post/into/) [your](/en/post/your/) slippers" [means](/en/post/means/) [to](/en/post/to/) [put](/en/post/put/) [on](/en/post/on/) [comfortable](/en/post/comfortable/) slippers [after](/en/post/after/) waking [up](/en/post/up/) [or](/en/post/or/) coming [home](/en/post/home/).
-- "[Slippery](/en/post/slippery/) [when](/en/post/when/) [wet](/en/post/wet/)" is [a](/en/post/a/) warning [sign](/en/post/sign/) indicating [a](/en/post/a/) potentially hazardous [surface](/en/post/surface/).
-- "[Slipper](/en/post/slipper/) socks" are designed [to](/en/post/to/) [be](/en/post/be/) worn [inside](/en/post/inside/) shoes [for](/en/post/for/) added [comfort](/en/post/comfort/).
+- "[Slide](/post/slide/) [into](/post/into/) [your](/post/your/) slippers" [means](/post/means/) [to](/post/to/) [put](/post/put/) [on](/post/on/) [comfortable](/post/comfortable/) slippers [after](/post/after/) waking [up](/post/up/) [or](/post/or/) coming [home](/post/home/).
+- "[Slippery](/post/slippery/) [when](/post/when/) [wet](/post/wet/)" is [a](/post/a/) warning [sign](/post/sign/) indicating [a](/post/a/) potentially hazardous [surface](/post/surface/).
+- "[Slipper](/post/slipper/) socks" are designed [to](/post/to/) [be](/post/be/) worn [inside](/post/inside/) shoes [for](/post/for/) added [comfort](/post/comfort/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [she](/en/post/she/) sank [into](/en/post/into/) [her](/en/post/her/) [soft](/en/post/soft/) slippers [by](/en/post/by/) [the](/en/post/the/) fireplace."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) slipped [the](/en/post/the/) [letter](/en/post/letter/) [under](/en/post/under/) [her](/en/post/her/) [door](/en/post/door/) [without](/en/post/without/) [being](/en/post/being/) seen."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) children loved [the](/en/post/the/) relaxed [and](/en/post/and/) [slipper](/en/post/slipper/) [atmosphere](/en/post/atmosphere/) [of](/en/post/of/) [the](/en/post/the/) [vacation](/en/post/vacation/) [home](/en/post/home/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [she](/post/she/) sank [into](/post/into/) [her](/post/her/) [soft](/post/soft/) slippers [by](/post/by/) [the](/post/the/) fireplace."
+- **[Verb](/post/verb/)**: "[He](/post/he/) slipped [the](/post/the/) [letter](/post/letter/) [under](/post/under/) [her](/post/her/) [door](/post/door/) [without](/post/without/) [being](/post/being/) seen."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) children loved [the](/post/the/) relaxed [and](/post/and/) [slipper](/post/slipper/) [atmosphere](/post/atmosphere/) [of](/post/of/) [the](/post/the/) [vacation](/post/vacation/) [home](/post/home/)."
 
 ## Synonyms
-- [House](/en/post/house/) [shoe](/en/post/shoe/)
-- Indoor [shoe](/en/post/shoe/)
-- Cozy [sock](/en/post/sock/)
-- [Soft](/en/post/soft/) [sole](/en/post/sole/)
+- [House](/post/house/) [shoe](/post/shoe/)
+- Indoor [shoe](/post/shoe/)
+- Cozy [sock](/post/sock/)
+- [Soft](/post/soft/) [sole](/post/sole/)
 - Non-slip mule
 - Slip-on
 
 ## Antonyms
-- [Outdoor](/en/post/outdoor/) [shoe](/en/post/shoe/)
-- Heeled [shoe](/en/post/shoe/)
+- [Outdoor](/post/outdoor/) [shoe](/post/shoe/)
+- Heeled [shoe](/post/shoe/)
 - Form-fitting
-- [Formal](/en/post/formal/)
-- Slip-resistant ([opposite](/en/post/opposite/) [meaning](/en/post/meaning/) [for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/))
+- [Formal](/post/formal/)
+- Slip-resistant ([opposite](/post/opposite/) [meaning](/post/meaning/) [for](/post/for/) [the](/post/the/) [verb](/post/verb/))

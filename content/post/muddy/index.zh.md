@@ -11,19 +11,19 @@ keywords = ['ai words', 'muddy']
 /ˈmʌdi/
 
 ## 释义
-- **形容词**: 泥泞的；含糊不清的；混乱的。例如: "[The](/post/the/) [road](/post/road/) was [muddy](/post/muddy/) [after](/post/after/) [the](/post/the/) [rain](/post/rain/)." 或 "[His](/post/his/) [explanation](/post/explanation/) was [so](/post/so/) [muddy](/post/muddy/) [that](/post/that/) [nobody](/post/nobody/) [could](/post/could/) [understand](/post/understand/) [it](/post/it/)."
-- **名词**: 泥浆；浑水。例如: "[The](/post/the/) children were playing [in](/post/in/) [the](/post/the/) [muddy](/post/muddy/) puddles."
+- **形容词**: 泥泞的；含糊不清的；混乱的。例如: "[The](/zh/post/the/) [road](/zh/post/road/) was [muddy](/zh/post/muddy/) [after](/zh/post/after/) [the](/zh/post/the/) [rain](/zh/post/rain/)." 或 "[His](/zh/post/his/) [explanation](/zh/post/explanation/) was [so](/zh/post/so/) [muddy](/zh/post/muddy/) [that](/zh/post/that/) [nobody](/zh/post/nobody/) [could](/zh/post/could/) [understand](/zh/post/understand/) [it](/zh/post/it/)."
+- **名词**: 泥浆；浑水。例如: "[The](/zh/post/the/) children were playing [in](/zh/post/in/) [the](/zh/post/the/) [muddy](/zh/post/muddy/) puddles."
 
 ## 短语
-- "[Muddy](/post/muddy/) waters" 比喻情况复杂或难以理解的事物。
-- "[Muddy](/post/muddy/) thinking" 指思维混乱或不清晰。
+- "[Muddy](/zh/post/muddy/) waters" 比喻情况复杂或难以理解的事物。
+- "[Muddy](/zh/post/muddy/) thinking" 指思维混乱或不清晰。
 
 ## 例句
-- 形容词: "[After](/post/after/) [the](/post/the/) [storm](/post/storm/), [the](/post/the/) [ground](/post/ground/) became [extremely](/post/extremely/) [muddy](/post/muddy/), making [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [walk](/post/walk/)."
-- 名词: "[The](/post/the/) [dog](/post/dog/) came [back](/post/back/) [with](/post/with/) [muddy](/post/muddy/) paws, tracking [dirt](/post/dirt/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [floor](/post/floor/)."
+- 形容词: "[After](/zh/post/after/) [the](/zh/post/the/) [storm](/zh/post/storm/), [the](/zh/post/the/) [ground](/zh/post/ground/) became [extremely](/zh/post/extremely/) [muddy](/zh/post/muddy/), making [it](/zh/post/it/) [difficult](/zh/post/difficult/) [to](/zh/post/to/) [walk](/zh/post/walk/)."
+- 名词: "[The](/zh/post/the/) [dog](/zh/post/dog/) came [back](/zh/post/back/) [with](/zh/post/with/) [muddy](/zh/post/muddy/) paws, tracking [dirt](/zh/post/dirt/) [all](/zh/post/all/) [over](/zh/post/over/) [the](/zh/post/the/) [floor](/zh/post/floor/)."
 
 ## 同义词
-- [Dirty](/post/dirty/)
+- [Dirty](/zh/post/dirty/)
 - Messy
 - Unclear
 - Confusing

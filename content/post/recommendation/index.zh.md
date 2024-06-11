@@ -11,21 +11,21 @@ keywords = ['ai words', 'recommendation']
 /ˌrekəmˈmen.dəˈkeɪ.ʃən/
 
 ## 释义
-- **名词**: 一个建议、提议或推荐。例如: "I [need](/post/need/) [a](/post/a/) [recommendation](/post/recommendation/) [for](/post/for/) [a](/post/a/) [good](/post/good/) [restaurant](/post/restaurant/) [in](/post/in/) [the](/post/the/) [area](/post/area/)."
-- **动词**: 提供或做出推荐。例如: "[She](/post/she/) recommended [the](/post/the/) [book](/post/book/) [to](/post/to/) [all](/post/all/) [her](/post/her/) friends."
+- **名词**: 一个建议、提议或推荐。例如: "I [need](/zh/post/need/) [a](/zh/post/a/) [recommendation](/zh/post/recommendation/) [for](/zh/post/for/) [a](/zh/post/a/) [good](/zh/post/good/) [restaurant](/zh/post/restaurant/) [in](/zh/post/in/) [the](/zh/post/the/) [area](/zh/post/area/)."
+- **动词**: 提供或做出推荐。例如: "[She](/zh/post/she/) recommended [the](/zh/post/the/) [book](/zh/post/book/) [to](/zh/post/to/) [all](/zh/post/all/) [her](/zh/post/her/) friends."
 
 ## 短语
-- "[Personal](/post/personal/) [recommendation](/post/recommendation/)" 指的是个人的建议或背书。
-- "[Professional](/post/professional/) [recommendation](/post/recommendation/)" 指的是在工作场合的推荐信或评价。
-- "[Product](/post/product/) [recommendation](/post/recommendation/) [system](/post/system/)" 是一种自动推荐用户可能感兴趣商品的系统。
+- "[Personal](/zh/post/personal/) [recommendation](/zh/post/recommendation/)" 指的是个人的建议或背书。
+- "[Professional](/zh/post/professional/) [recommendation](/zh/post/recommendation/)" 指的是在工作场合的推荐信或评价。
+- "[Product](/zh/post/product/) [recommendation](/zh/post/recommendation/) [system](/zh/post/system/)" 是一种自动推荐用户可能感兴趣商品的系统。
 
 ## 例句
-- 名词: "[The](/post/the/) [teacher](/post/teacher/) gave [me](/post/me/) [a](/post/a/) [strong](/post/strong/) [recommendation](/post/recommendation/) [for](/post/for/) [the](/post/the/) [college](/post/college/) [application](/post/application/)."
-- 动词: "[The](/post/the/) [travel](/post/travel/) [agent](/post/agent/) recommended visiting [the](/post/the/) [local](/post/local/) [museum](/post/museum/)."
+- 名词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) gave [me](/zh/post/me/) [a](/zh/post/a/) [strong](/zh/post/strong/) [recommendation](/zh/post/recommendation/) [for](/zh/post/for/) [the](/zh/post/the/) [college](/zh/post/college/) [application](/zh/post/application/)."
+- 动词: "[The](/zh/post/the/) [travel](/zh/post/travel/) [agent](/zh/post/agent/) recommended visiting [the](/zh/post/the/) [local](/zh/post/local/) [museum](/zh/post/museum/)."
 
 ## 同义词
-- [Suggestion](/post/suggestion/)
-- [Proposal](/post/proposal/)
+- [Suggestion](/zh/post/suggestion/)
+- [Proposal](/zh/post/proposal/)
 - Endorsement
-- [Advice](/post/advice/)
+- [Advice](/zh/post/advice/)
 - Advocacy

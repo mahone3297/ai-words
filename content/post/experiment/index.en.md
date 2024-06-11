@@ -7,33 +7,33 @@ description = '[iksˈperimənt] n.实验；试验'
 keywords = ['ai words', 'experiment']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈsperɪmənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [scientific](/en/post/scientific/) [procedure](/en/post/procedure/) undertaken [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [discovery](/en/post/discovery/), [test](/en/post/test/) [a](/en/post/a/) hypothesis, [or](/en/post/or/) [demonstrate](/en/post/demonstrate/) [a](/en/post/a/) known [fact](/en/post/fact/), typically [by](/en/post/by/) collecting [data](/en/post/data/) [through](/en/post/through/) [observation](/en/post/observation/) [and](/en/post/and/) [measurement](/en/post/measurement/). [Example](/en/post/example/): "[The](/en/post/the/) [professor](/en/post/professor/) supervised [her](/en/post/her/) students' experiments [on](/en/post/on/) photosynthesis."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [conduct](/en/post/conduct/) [such](/en/post/such/) [a](/en/post/a/) [scientific](/en/post/scientific/) [procedure](/en/post/procedure/) [or](/en/post/or/) [test](/en/post/test/). [Example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [experiment](/en/post/experiment/) [with](/en/post/with/) [different](/en/post/different/) methods [of](/en/post/of/) composting [to](/en/post/to/) [determine](/en/post/determine/) [which](/en/post/which/) was [most](/en/post/most/) [efficient](/en/post/efficient/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [try](/en/post/try/) [out](/en/post/out/) [something](/en/post/something/) [new](/en/post/new/) [or](/en/post/or/) unfamiliar, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) controlled [or](/en/post/or/) cautious [manner](/en/post/manner/), [to](/en/post/to/) [see](/en/post/see/) [how](/en/post/how/) [it](/en/post/it/) works [or](/en/post/or/) [what](/en/post/what/) [effect](/en/post/effect/) [it](/en/post/it/) has. [Example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [experiment](/en/post/experiment/) [with](/en/post/with/) vegan cooking [this](/en/post/this/) [month](/en/post/month/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [scientific](/post/scientific/) [procedure](/post/procedure/) undertaken [to](/post/to/) [make](/post/make/) [a](/post/a/) [discovery](/post/discovery/), [test](/post/test/) [a](/post/a/) hypothesis, [or](/post/or/) [demonstrate](/post/demonstrate/) [a](/post/a/) known [fact](/post/fact/), typically [by](/post/by/) collecting [data](/post/data/) [through](/post/through/) [observation](/post/observation/) [and](/post/and/) [measurement](/post/measurement/). [Example](/post/example/): "[The](/post/the/) [professor](/post/professor/) supervised [her](/post/her/) students' experiments [on](/post/on/) photosynthesis."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [conduct](/post/conduct/) [such](/post/such/) [a](/post/a/) [scientific](/post/scientific/) [procedure](/post/procedure/) [or](/post/or/) [test](/post/test/). [Example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [experiment](/post/experiment/) [with](/post/with/) [different](/post/different/) methods [of](/post/of/) composting [to](/post/to/) [determine](/post/determine/) [which](/post/which/) was [most](/post/most/) [efficient](/post/efficient/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [try](/post/try/) [out](/post/out/) [something](/post/something/) [new](/post/new/) [or](/post/or/) unfamiliar, [often](/post/often/) [in](/post/in/) [a](/post/a/) controlled [or](/post/or/) cautious [manner](/post/manner/), [to](/post/to/) [see](/post/see/) [how](/post/how/) [it](/post/it/) works [or](/post/or/) [what](/post/what/) [effect](/post/effect/) [it](/post/it/) has. [Example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [experiment](/post/experiment/) [with](/post/with/) vegan cooking [this](/post/this/) [month](/post/month/)."
 
 ## Phrases
-- "[A](/en/post/a/) [laboratory](/en/post/laboratory/) [experiment](/en/post/experiment/)" refers [to](/en/post/to/) [a](/en/post/a/) controlled [scientific](/en/post/scientific/) [investigation](/en/post/investigation/) conducted [in](/en/post/in/) [a](/en/post/a/) [lab](/en/post/lab/) [setting](/en/post/setting/).
-- "[Field](/en/post/field/) [experiment](/en/post/experiment/)" refers [to](/en/post/to/) an [experimental](/en/post/experimental/) [study](/en/post/study/) conducted [outside](/en/post/outside/) [of](/en/post/of/) [a](/en/post/a/) [laboratory](/en/post/laboratory/) [environment](/en/post/environment/).
-- "[Experiment](/en/post/experiment/) [on](/en/post/on/) ([something](/en/post/something/)/[someone](/en/post/someone/))" implies testing [or](/en/post/or/) trying [out](/en/post/out/) [something](/en/post/something/) [on](/en/post/on/) [a](/en/post/a/) [subject](/en/post/subject/) [matter](/en/post/matter/) [or](/en/post/or/) [person](/en/post/person/).
-- "[By](/en/post/by/) [trial](/en/post/trial/) [and](/en/post/and/) [error](/en/post/error/), [they](/en/post/they/) [eventually](/en/post/eventually/) [found](/en/post/found/) [the](/en/post/the/) [right](/en/post/right/) [formula](/en/post/formula/) [through](/en/post/through/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) experiments."
+- "[A](/post/a/) [laboratory](/post/laboratory/) [experiment](/post/experiment/)" refers [to](/post/to/) [a](/post/a/) controlled [scientific](/post/scientific/) [investigation](/post/investigation/) conducted [in](/post/in/) [a](/post/a/) [lab](/post/lab/) [setting](/post/setting/).
+- "[Field](/post/field/) [experiment](/post/experiment/)" refers [to](/post/to/) an [experimental](/post/experimental/) [study](/post/study/) conducted [outside](/post/outside/) [of](/post/of/) [a](/post/a/) [laboratory](/post/laboratory/) [environment](/post/environment/).
+- "[Experiment](/post/experiment/) [on](/post/on/) ([something](/post/something/)/[someone](/post/someone/))" implies testing [or](/post/or/) trying [out](/post/out/) [something](/post/something/) [on](/post/on/) [a](/post/a/) [subject](/post/subject/) [matter](/post/matter/) [or](/post/or/) [person](/post/person/).
+- "[By](/post/by/) [trial](/post/trial/) [and](/post/and/) [error](/post/error/), [they](/post/they/) [eventually](/post/eventually/) [found](/post/found/) [the](/post/the/) [right](/post/right/) [formula](/post/formula/) [through](/post/through/) [a](/post/a/) [series](/post/series/) [of](/post/of/) experiments."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) results [of](/en/post/of/) [the](/en/post/the/) [experiment](/en/post/experiment/) showed [that](/en/post/that/) [the](/en/post/the/) [new](/en/post/new/) [drug](/en/post/drug/) significantly reduced symptoms."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) researchers [will](/en/post/will/) [experiment](/en/post/experiment/) [by](/en/post/by/) varying [the](/en/post/the/) levels [of](/en/post/of/) [light](/en/post/light/) [exposure](/en/post/exposure/) [to](/en/post/to/) [observe](/en/post/observe/) [its](/en/post/its/) [impact](/en/post/impact/) [on](/en/post/on/) [plant](/en/post/plant/) [growth](/en/post/growth/)."
-- **[Verb](/en/post/verb/)**: "He's experimenting [with](/en/post/with/) [different](/en/post/different/) [camera](/en/post/camera/) settings [to](/en/post/to/) [capture](/en/post/capture/) [the](/en/post/the/) [perfect](/en/post/perfect/) [shot](/en/post/shot/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) results [of](/post/of/) [the](/post/the/) [experiment](/post/experiment/) showed [that](/post/that/) [the](/post/the/) [new](/post/new/) [drug](/post/drug/) significantly reduced symptoms."
+- **[Verb](/post/verb/)**: "[The](/post/the/) researchers [will](/post/will/) [experiment](/post/experiment/) [by](/post/by/) varying [the](/post/the/) levels [of](/post/of/) [light](/post/light/) [exposure](/post/exposure/) [to](/post/to/) [observe](/post/observe/) [its](/post/its/) [impact](/post/impact/) [on](/post/on/) [plant](/post/plant/) [growth](/post/growth/)."
+- **[Verb](/post/verb/)**: "He's experimenting [with](/post/with/) [different](/post/different/) [camera](/post/camera/) settings [to](/post/to/) [capture](/post/capture/) [the](/post/the/) [perfect](/post/perfect/) [shot](/post/shot/)."
 
 ## Synonyms
-- [Test](/en/post/test/)
-- [Trial](/en/post/trial/)
+- [Test](/post/test/)
+- [Trial](/post/trial/)
 - Experimentation
-- [Research](/en/post/research/)
-- [Study](/en/post/study/)
-- [Investigation](/en/post/investigation/)
+- [Research](/post/research/)
+- [Study](/post/study/)
+- [Investigation](/post/investigation/)
 - Probe
-- [Analysis](/en/post/analysis/)
+- [Analysis](/post/analysis/)
 - Exploration
 - Demonstration

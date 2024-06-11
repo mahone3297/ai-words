@@ -12,21 +12,21 @@ keywords = ['ai words', 'textile']
 
 ## 释义
 - **名词 n**:
-  - 与纺织品相关的产品，如布料、纱线或织物。例如: "[The](/post/the/) [company](/post/company/) specializes [in](/post/in/) high-quality textiles [for](/post/for/) [clothing](/post/clothing/)."
-  - 纺织业或纺织工艺。例如: "Textiles [have](/post/have/) been an [important](/post/important/) [industry](/post/industry/) [in](/post/in/) [this](/post/this/) [region](/post/region/) [for](/post/for/) centuries."
+  - 与纺织品相关的产品，如布料、纱线或织物。例如: "[The](/zh/post/the/) [company](/zh/post/company/) specializes [in](/zh/post/in/) high-quality textiles [for](/zh/post/for/) [clothing](/zh/post/clothing/)."
+  - 纺织业或纺织工艺。例如: "Textiles [have](/zh/post/have/) been an [important](/zh/post/important/) [industry](/zh/post/industry/) [in](/zh/post/in/) [this](/zh/post/this/) [region](/zh/post/region/) [for](/zh/post/for/) centuries."
 
 ## 短语
-- "[Textile](/post/textile/) [industry](/post/industry/)" 指的是生产和制造纺织品的工业。
-- "[Textile](/post/textile/) [design](/post/design/)" 涉及到纺织品的图案和颜色设计。
+- "[Textile](/zh/post/textile/) [industry](/zh/post/industry/)" 指的是生产和制造纺织品的工业。
+- "[Textile](/zh/post/textile/) [design](/zh/post/design/)" 涉及到纺织品的图案和颜色设计。
 
 ## 例句
-- "[Her](/post/her/) [dress](/post/dress/) was made [from](/post/from/) [a](/post/a/) [beautiful](/post/beautiful/) [silk](/post/silk/) [textile](/post/textile/)."
-- "[The](/post/the/) [textile](/post/textile/) [mill](/post/mill/) employs thousands [of](/post/of/) workers [in](/post/in/) [the](/post/the/) [area](/post/area/)."
-- "[She](/post/she/) studied [textile](/post/textile/) [art](/post/art/) [at](/post/at/) [university](/post/university/)."
+- "[Her](/zh/post/her/) [dress](/zh/post/dress/) was made [from](/zh/post/from/) [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [silk](/zh/post/silk/) [textile](/zh/post/textile/)."
+- "[The](/zh/post/the/) [textile](/zh/post/textile/) [mill](/zh/post/mill/) employs thousands [of](/zh/post/of/) workers [in](/zh/post/in/) [the](/zh/post/the/) [area](/zh/post/area/)."
+- "[She](/zh/post/she/) studied [textile](/zh/post/textile/) [art](/zh/post/art/) [at](/zh/post/at/) [university](/zh/post/university/)."
 
 ## 同义词
-- [Fabric](/post/fabric/)
-- [Cloth](/post/cloth/)
-- [Material](/post/material/)
+- [Fabric](/zh/post/fabric/)
+- [Cloth](/zh/post/cloth/)
+- [Material](/zh/post/material/)
 - Garment
 - Weaving

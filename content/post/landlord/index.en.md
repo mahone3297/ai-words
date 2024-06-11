@@ -7,31 +7,31 @@ description = '[ˈlændlɔːd] n.地主；房东，店主'
 keywords = ['ai words', 'landlord']
 +++
 
-## [Word](/en/post/word/): [Landlord](/en/post/landlord/)
+## [Word](/post/word/): [Landlord](/post/landlord/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlændlɔːd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) owns [a](/en/post/a/) [house](/en/post/house/), [apartment](/en/post/apartment/), [or](/en/post/or/) [other](/en/post/other/) [property](/en/post/property/) [which](/en/post/which/) [they](/en/post/they/) [let](/en/post/let/) [to](/en/post/to/) tenants [for](/en/post/for/) [rent](/en/post/rent/). _Example:_ "[The](/en/post/the/) [landlord](/en/post/landlord/) promised [to](/en/post/to/) [fix](/en/post/fix/) [the](/en/post/the/) leaky faucet [this](/en/post/this/) [week](/en/post/week/)."
-  - _Phrasal Verb_: ([landlord](/en/post/landlord/) [over](/en/post/over/)) [To](/en/post/to/) [exercise](/en/post/exercise/) [authority](/en/post/authority/) [or](/en/post/or/) [control](/en/post/control/) [over](/en/post/over/) [someone](/en/post/someone/) [like](/en/post/like/) [a](/en/post/a/) [landlord](/en/post/landlord/) does [over](/en/post/over/) [their](/en/post/their/) [property](/en/post/property/). _Example:_ "[She](/en/post/she/) felt [he](/en/post/he/) was trying [to](/en/post/to/) [landlord](/en/post/landlord/) [over](/en/post/over/) [her](/en/post/her/) [every](/en/post/every/) [decision](/en/post/decision/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) owns [a](/post/a/) [house](/post/house/), [apartment](/post/apartment/), [or](/post/or/) [other](/post/other/) [property](/post/property/) [which](/post/which/) [they](/post/they/) [let](/post/let/) [to](/post/to/) tenants [for](/post/for/) [rent](/post/rent/). _Example:_ "[The](/post/the/) [landlord](/post/landlord/) promised [to](/post/to/) [fix](/post/fix/) [the](/post/the/) leaky faucet [this](/post/this/) [week](/post/week/)."
+  - _Phrasal Verb_: ([landlord](/post/landlord/) [over](/post/over/)) [To](/post/to/) [exercise](/post/exercise/) [authority](/post/authority/) [or](/post/or/) [control](/post/control/) [over](/post/over/) [someone](/post/someone/) [like](/post/like/) [a](/post/a/) [landlord](/post/landlord/) does [over](/post/over/) [their](/post/their/) [property](/post/property/). _Example:_ "[She](/post/she/) felt [he](/post/he/) was trying [to](/post/to/) [landlord](/post/landlord/) [over](/post/over/) [her](/post/her/) [every](/post/every/) [decision](/post/decision/)."
 
 ### Phrases
-- "Landlord-tenant [relationship](/en/post/relationship/)": [The](/en/post/the/) [legal](/en/post/legal/) [and](/en/post/and/) [practical](/en/post/practical/) [relationship](/en/post/relationship/) [between](/en/post/between/) [the](/en/post/the/) [owner](/en/post/owner/) [of](/en/post/of/) [a](/en/post/a/) [property](/en/post/property/) [and](/en/post/and/) [the](/en/post/the/) [person](/en/post/person/) [who](/en/post/who/) occupies [it](/en/post/it/) [under](/en/post/under/) [a](/en/post/a/) lease.
-- "[Meet](/en/post/meet/) [the](/en/post/the/) [landlord](/en/post/landlord/)": [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [meeting](/en/post/meeting/) [with](/en/post/with/) [the](/en/post/the/) [property](/en/post/property/) [owner](/en/post/owner/), [often](/en/post/often/) [when](/en/post/when/) viewing [a](/en/post/a/) rental [property](/en/post/property/) [or](/en/post/or/) discussing tenancy terms.
-- "[Pay](/en/post/pay/) [the](/en/post/the/) [landlord](/en/post/landlord/)": [To](/en/post/to/) [give](/en/post/give/) [payment](/en/post/payment/) ([rent](/en/post/rent/)) [to](/en/post/to/) [the](/en/post/the/) [property](/en/post/property/) [owner](/en/post/owner/).
+- "Landlord-tenant [relationship](/post/relationship/)": [The](/post/the/) [legal](/post/legal/) [and](/post/and/) [practical](/post/practical/) [relationship](/post/relationship/) [between](/post/between/) [the](/post/the/) [owner](/post/owner/) [of](/post/of/) [a](/post/a/) [property](/post/property/) [and](/post/and/) [the](/post/the/) [person](/post/person/) [who](/post/who/) occupies [it](/post/it/) [under](/post/under/) [a](/post/a/) lease.
+- "[Meet](/post/meet/) [the](/post/the/) [landlord](/post/landlord/)": [To](/post/to/) [have](/post/have/) [a](/post/a/) [meeting](/post/meeting/) [with](/post/with/) [the](/post/the/) [property](/post/property/) [owner](/post/owner/), [often](/post/often/) [when](/post/when/) viewing [a](/post/a/) rental [property](/post/property/) [or](/post/or/) discussing tenancy terms.
+- "[Pay](/post/pay/) [the](/post/the/) [landlord](/post/landlord/)": [To](/post/to/) [give](/post/give/) [payment](/post/payment/) ([rent](/post/rent/)) [to](/post/to/) [the](/post/the/) [property](/post/property/) [owner](/post/owner/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) [landlord](/en/post/landlord/) has agreed [to](/en/post/to/) [reduce](/en/post/reduce/) [the](/en/post/the/) [rent](/en/post/rent/) [for](/en/post/for/) [the](/en/post/the/) [first](/en/post/first/) [three](/en/post/three/) months."
-- "[As](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) lease [agreement](/en/post/agreement/), tenants [must](/en/post/must/) [inform](/en/post/inform/) [the](/en/post/the/) [landlord](/en/post/landlord/) [before](/en/post/before/) making [any](/en/post/any/) changes [to](/en/post/to/) [the](/en/post/the/) [property](/en/post/property/)."
-- _Phrasal Verb_: "[He](/en/post/he/) had [a](/en/post/a/) [tendency](/en/post/tendency/) [to](/en/post/to/) [landlord](/en/post/landlord/) [over](/en/post/over/) [his](/en/post/his/) friends, deciding [where](/en/post/where/) [they](/en/post/they/) [would](/en/post/would/) [go](/en/post/go/) [and](/en/post/and/) [what](/en/post/what/) [they](/en/post/they/) [would](/en/post/would/) [do](/en/post/do/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) [landlord](/post/landlord/) has agreed [to](/post/to/) [reduce](/post/reduce/) [the](/post/the/) [rent](/post/rent/) [for](/post/for/) [the](/post/the/) [first](/post/first/) [three](/post/three/) months."
+- "[As](/post/as/) [part](/post/part/) [of](/post/of/) [the](/post/the/) lease [agreement](/post/agreement/), tenants [must](/post/must/) [inform](/post/inform/) [the](/post/the/) [landlord](/post/landlord/) [before](/post/before/) making [any](/post/any/) changes [to](/post/to/) [the](/post/the/) [property](/post/property/)."
+- _Phrasal Verb_: "[He](/post/he/) had [a](/post/a/) [tendency](/post/tendency/) [to](/post/to/) [landlord](/post/landlord/) [over](/post/over/) [his](/post/his/) friends, deciding [where](/post/where/) [they](/post/they/) [would](/post/would/) [go](/post/go/) [and](/post/and/) [what](/post/what/) [they](/post/they/) [would](/post/would/) [do](/post/do/)."
 
 ## Synonyms
 - Proprietor
-- [Owner](/en/post/owner/)
-- [Property](/en/post/property/) [owner](/en/post/owner/)
+- [Owner](/post/owner/)
+- [Property](/post/property/) [owner](/post/owner/)
 - Leaseholder
 - Lessor
 - Rentier
-- Estate [owner](/en/post/owner/)
-- [Landlady](/en/post/landlady/) ([if](/en/post/if/) referring [to](/en/post/to/) [a](/en/post/a/) [female](/en/post/female/))
+- Estate [owner](/post/owner/)
+- [Landlady](/post/landlady/) ([if](/post/if/) referring [to](/post/to/) [a](/post/a/) [female](/post/female/))

@@ -7,35 +7,35 @@ description = '[ˈfiːliŋ] n.感情；感觉，知觉'
 keywords = ['ai words', 'feeling']
 +++
 
-## [Word](/en/post/word/): [Feeling](/en/post/feeling/)
+## [Word](/post/word/): [Feeling](/post/feeling/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfiːlɪŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An [emotional](/en/post/emotional/) [state](/en/post/state/) [or](/en/post/or/) [reaction](/en/post/reaction/); [a](/en/post/a/) subjective [response](/en/post/response/) [to](/en/post/to/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [experience](/en/post/experience/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [sadness](/en/post/sadness/) [after](/en/post/after/) [reading](/en/post/reading/) [the](/en/post/the/) [letter](/en/post/letter/)."
-  - [A](/en/post/a/) perception [through](/en/post/through/) [touch](/en/post/touch/) [or](/en/post/or/) [other](/en/post/other/) senses, [rather](/en/post/rather/) [than](/en/post/than/) [sight](/en/post/sight/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) cat's [fur](/en/post/fur/) had [a](/en/post/a/) [soft](/en/post/soft/) [feeling](/en/post/feeling/)."
-- **[Verb](/en/post/verb/)**: ([usually](/en/post/usually/) [in](/en/post/in/) [the](/en/post/the/) [form](/en/post/form/) '[feel](/en/post/feel/)') [To](/en/post/to/) [perceive](/en/post/perceive/) [or](/en/post/or/) [sense](/en/post/sense/) [something](/en/post/something/) [through](/en/post/through/) [touch](/en/post/touch/) [or](/en/post/or/) [by](/en/post/by/) [a](/en/post/a/) non-visual [means](/en/post/means/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) felt [the](/en/post/the/) [warmth](/en/post/warmth/) [of](/en/post/of/) [the](/en/post/the/) [sun](/en/post/sun/) [on](/en/post/on/) [his](/en/post/his/) [face](/en/post/face/)."
-  - [To](/en/post/to/) [have](/en/post/have/) an [emotional](/en/post/emotional/) [experience](/en/post/experience/) [or](/en/post/or/) [reaction](/en/post/reaction/). [For](/en/post/for/) [example](/en/post/example/): "I'm [feeling](/en/post/feeling/) [much](/en/post/much/) [better](/en/post/better/) [today](/en/post/today/)."
+- **[Noun](/post/noun/)**: An [emotional](/post/emotional/) [state](/post/state/) [or](/post/or/) [reaction](/post/reaction/); [a](/post/a/) subjective [response](/post/response/) [to](/post/to/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [experience](/post/experience/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) had [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [sadness](/post/sadness/) [after](/post/after/) [reading](/post/reading/) [the](/post/the/) [letter](/post/letter/)."
+  - [A](/post/a/) perception [through](/post/through/) [touch](/post/touch/) [or](/post/or/) [other](/post/other/) senses, [rather](/post/rather/) [than](/post/than/) [sight](/post/sight/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) cat's [fur](/post/fur/) had [a](/post/a/) [soft](/post/soft/) [feeling](/post/feeling/)."
+- **[Verb](/post/verb/)**: ([usually](/post/usually/) [in](/post/in/) [the](/post/the/) [form](/post/form/) '[feel](/post/feel/)') [To](/post/to/) [perceive](/post/perceive/) [or](/post/or/) [sense](/post/sense/) [something](/post/something/) [through](/post/through/) [touch](/post/touch/) [or](/post/or/) [by](/post/by/) [a](/post/a/) non-visual [means](/post/means/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) felt [the](/post/the/) [warmth](/post/warmth/) [of](/post/of/) [the](/post/the/) [sun](/post/sun/) [on](/post/on/) [his](/post/his/) [face](/post/face/)."
+  - [To](/post/to/) [have](/post/have/) an [emotional](/post/emotional/) [experience](/post/experience/) [or](/post/or/) [reaction](/post/reaction/). [For](/post/for/) [example](/post/example/): "I'm [feeling](/post/feeling/) [much](/post/much/) [better](/post/better/) [today](/post/today/)."
 
 ## Phrases
-- "[Feeling](/en/post/feeling/) [down](/en/post/down/)" refers [to](/en/post/to/) [being](/en/post/being/) [sad](/en/post/sad/) [or](/en/post/or/) depressed.
-- "[Feeling](/en/post/feeling/) [under](/en/post/under/) [the](/en/post/the/) [weather](/en/post/weather/)" describes [not](/en/post/not/) [feeling](/en/post/feeling/) [well](/en/post/well/) [or](/en/post/or/) [being](/en/post/being/) [sick](/en/post/sick/).
-- "[A](/en/post/a/) gut [feeling](/en/post/feeling/)" is an instinctive [or](/en/post/or/) intuitive [sense](/en/post/sense/) [about](/en/post/about/) [something](/en/post/something/).
-- "[In](/en/post/in/) [the](/en/post/the/) [mood](/en/post/mood/)" suggests having [a](/en/post/a/) [particular](/en/post/particular/) [feeling](/en/post/feeling/) [that](/en/post/that/) affects one's actions [or](/en/post/or/) preferences.
+- "[Feeling](/post/feeling/) [down](/post/down/)" refers [to](/post/to/) [being](/post/being/) [sad](/post/sad/) [or](/post/or/) depressed.
+- "[Feeling](/post/feeling/) [under](/post/under/) [the](/post/the/) [weather](/post/weather/)" describes [not](/post/not/) [feeling](/post/feeling/) [well](/post/well/) [or](/post/or/) [being](/post/being/) [sick](/post/sick/).
+- "[A](/post/a/) gut [feeling](/post/feeling/)" is an instinctive [or](/post/or/) intuitive [sense](/post/sense/) [about](/post/about/) [something](/post/something/).
+- "[In](/post/in/) [the](/post/the/) [mood](/post/mood/)" suggests having [a](/post/a/) [particular](/post/particular/) [feeling](/post/feeling/) [that](/post/that/) affects one's actions [or](/post/or/) preferences.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [feeling](/en/post/feeling/) [of](/en/post/of/) nostalgia overwhelmed [him](/en/post/him/) [when](/en/post/when/) [he](/en/post/he/) revisited [his](/en/post/his/) [childhood](/en/post/childhood/) [home](/en/post/home/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) felt [a](/en/post/a/) [chill](/en/post/chill/) [run](/en/post/run/) [down](/en/post/down/) [her](/en/post/her/) spine [as](/en/post/as/) [she](/en/post/she/) heard [the](/en/post/the/) eerie [sound](/en/post/sound/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [feeling](/post/feeling/) [of](/post/of/) nostalgia overwhelmed [him](/post/him/) [when](/post/when/) [he](/post/he/) revisited [his](/post/his/) [childhood](/post/childhood/) [home](/post/home/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) felt [a](/post/a/) [chill](/post/chill/) [run](/post/run/) [down](/post/down/) [her](/post/her/) spine [as](/post/as/) [she](/post/she/) heard [the](/post/the/) eerie [sound](/post/sound/)."
 
 ## Synonyms
-- [Emotion](/en/post/emotion/)
+- [Emotion](/post/emotion/)
 - Sensation
 - Perception
-- [Mood](/en/post/mood/)
+- [Mood](/post/mood/)
 - Sentiment
 - Intuition
 - Vibe
 - Sensibility
-- [Affect](/en/post/affect/) ([in](/en/post/in/) [psychological](/en/post/psychological/) contexts)
-- [Touch](/en/post/touch/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [physical](/en/post/physical/) sensation)
+- [Affect](/post/affect/) ([in](/post/in/) [psychological](/post/psychological/) contexts)
+- [Touch](/post/touch/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [physical](/post/physical/) sensation)

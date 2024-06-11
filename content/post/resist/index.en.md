@@ -7,37 +7,37 @@ description = '[riˈzist] vt.&vi.抵抗，抵制'
 keywords = ['ai words', 'resist']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈzɪst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) **[resistance](/en/post/resistance/)** is [the](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) [oppose](/en/post/oppose/) [or](/en/post/or/) [withstand](/en/post/withstand/) [something](/en/post/something/), [often](/en/post/often/) [force](/en/post/force/) [or](/en/post/or/) [influence](/en/post/influence/). [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) faced [strong](/en/post/strong/) [resistance](/en/post/resistance/) [from](/en/post/from/) [some](/en/post/some/) employees."
-- [A](/en/post/a/) **resistor** is an [electronic](/en/post/electronic/) [component](/en/post/component/) [that](/en/post/that/) opposes [the](/en/post/the/) [flow](/en/post/flow/) [of](/en/post/of/) [electric](/en/post/electric/) [current](/en/post/current/). [Example](/en/post/example/): "[In](/en/post/in/) [a](/en/post/a/) [circuit](/en/post/circuit/), [the](/en/post/the/) resistor limits [the](/en/post/the/) current's [passage](/en/post/passage/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) **[resistance](/post/resistance/)** is [the](/post/the/) [act](/post/act/) [or](/post/or/) [ability](/post/ability/) [to](/post/to/) [oppose](/post/oppose/) [or](/post/or/) [withstand](/post/withstand/) [something](/post/something/), [often](/post/often/) [force](/post/force/) [or](/post/or/) [influence](/post/influence/). [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) faced [strong](/post/strong/) [resistance](/post/resistance/) [from](/post/from/) [some](/post/some/) employees."
+- [A](/post/a/) **resistor** is an [electronic](/post/electronic/) [component](/post/component/) [that](/post/that/) opposes [the](/post/the/) [flow](/post/flow/) [of](/post/of/) [electric](/post/electric/) [current](/post/current/). [Example](/post/example/): "[In](/post/in/) [a](/post/a/) [circuit](/post/circuit/), [the](/post/the/) resistor limits [the](/post/the/) current's [passage](/post/passage/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [resist](/en/post/resist/)** [means](/en/post/means/) [to](/en/post/to/) [oppose](/en/post/oppose/), [withstand](/en/post/withstand/), [or](/en/post/or/) [refuse](/en/post/refuse/) [to](/en/post/to/) comply [with](/en/post/with/) [something](/en/post/something/). [Example](/en/post/example/): "[She](/en/post/she/) refused [to](/en/post/to/) [resist](/en/post/resist/) [her](/en/post/her/) [curiosity](/en/post/curiosity/) [and](/en/post/and/) opened [the](/en/post/the/) forbidden [book](/en/post/book/)."
-- **[To](/en/post/to/) [be](/en/post/be/) [resistant](/en/post/resistant/)** (adj) describes [something](/en/post/something/) [that](/en/post/that/) is [hard](/en/post/hard/) [to](/en/post/to/) [change](/en/post/change/) [or](/en/post/or/) [affect](/en/post/affect/). [Example](/en/post/example/): "[The](/en/post/the/) [material](/en/post/material/) is [highly](/en/post/highly/) [resistant](/en/post/resistant/) [to](/en/post/to/) [water](/en/post/water/) [damage](/en/post/damage/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [resist](/post/resist/)** [means](/post/means/) [to](/post/to/) [oppose](/post/oppose/), [withstand](/post/withstand/), [or](/post/or/) [refuse](/post/refuse/) [to](/post/to/) comply [with](/post/with/) [something](/post/something/). [Example](/post/example/): "[She](/post/she/) refused [to](/post/to/) [resist](/post/resist/) [her](/post/her/) [curiosity](/post/curiosity/) [and](/post/and/) opened [the](/post/the/) forbidden [book](/post/book/)."
+- **[To](/post/to/) [be](/post/be/) [resistant](/post/resistant/)** (adj) describes [something](/post/something/) [that](/post/that/) is [hard](/post/hard/) [to](/post/to/) [change](/post/change/) [or](/post/or/) [affect](/post/affect/). [Example](/post/example/): "[The](/post/the/) [material](/post/material/) is [highly](/post/highly/) [resistant](/post/resistant/) [to](/post/to/) [water](/post/water/) [damage](/post/damage/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Resistant](/en/post/resistant/)** refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) [can](/en/post/can/) [withstand](/en/post/withstand/) [or](/en/post/or/) [oppose](/en/post/oppose/) [force](/en/post/force/) [or](/en/post/or/) [influence](/en/post/influence/). [Example](/en/post/example/): "Antibiotics are [resistant](/en/post/resistant/) [to](/en/post/to/) [certain](/en/post/certain/) [bacteria](/en/post/bacteria/)."
+### [Adjective](/post/adjective/)
+- **[Resistant](/post/resistant/)** refers [to](/post/to/) [something](/post/something/) [that](/post/that/) [can](/post/can/) [withstand](/post/withstand/) [or](/post/or/) [oppose](/post/oppose/) [force](/post/force/) [or](/post/or/) [influence](/post/influence/). [Example](/post/example/): "Antibiotics are [resistant](/post/resistant/) [to](/post/to/) [certain](/post/certain/) [bacteria](/post/bacteria/)."
 
 ## Phrases
-- "[Resistance](/en/post/resistance/) is futile" implies [that](/en/post/that/) opposition is pointless.
-- "[Be](/en/post/be/) [resistant](/en/post/resistant/) [to](/en/post/to/) peer [pressure](/en/post/pressure/)" advises [someone](/en/post/someone/) [to](/en/post/to/) [withstand](/en/post/withstand/) [the](/en/post/the/) [influence](/en/post/influence/) [of](/en/post/of/) others.
-- "[A](/en/post/a/) virus [can](/en/post/can/) [become](/en/post/become/) [resistant](/en/post/resistant/) [to](/en/post/to/) medication" [means](/en/post/means/) [it](/en/post/it/) becomes [less](/en/post/less/) susceptible [to](/en/post/to/) [treatment](/en/post/treatment/).
+- "[Resistance](/post/resistance/) is futile" implies [that](/post/that/) opposition is pointless.
+- "[Be](/post/be/) [resistant](/post/resistant/) [to](/post/to/) peer [pressure](/post/pressure/)" advises [someone](/post/someone/) [to](/post/to/) [withstand](/post/withstand/) [the](/post/the/) [influence](/post/influence/) [of](/post/of/) others.
+- "[A](/post/a/) virus [can](/post/can/) [become](/post/become/) [resistant](/post/resistant/) [to](/post/to/) medication" [means](/post/means/) [it](/post/it/) becomes [less](/post/less/) susceptible [to](/post/to/) [treatment](/post/treatment/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) soldiers had [to](/en/post/to/) [overcome](/en/post/overcome/) [enemy](/en/post/enemy/) [resistance](/en/post/resistance/) [to](/en/post/to/) [advance](/en/post/advance/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) [resist](/en/post/resist/) [the](/en/post/the/) [temptation](/en/post/temptation/) [to](/en/post/to/) [eat](/en/post/eat/) dessert."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) plants were bred [to](/en/post/to/) [be](/en/post/be/) [resistant](/en/post/resistant/) [to](/en/post/to/) pests."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) soldiers had [to](/post/to/) [overcome](/post/overcome/) [enemy](/post/enemy/) [resistance](/post/resistance/) [to](/post/to/) [advance](/post/advance/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) tried [to](/post/to/) [resist](/post/resist/) [the](/post/the/) [temptation](/post/temptation/) [to](/post/to/) [eat](/post/eat/) dessert."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) plants were bred [to](/post/to/) [be](/post/be/) [resistant](/post/resistant/) [to](/post/to/) pests."
 
 ## Synonyms
-- [Oppose](/en/post/oppose/)
-- [Withstand](/en/post/withstand/)
+- [Oppose](/post/oppose/)
+- [Withstand](/post/withstand/)
 - Refrain
 - Obstruct
 - Counteract
 -抵制
-- [Hold](/en/post/hold/) [back](/en/post/back/)
-- [Stand](/en/post/stand/) [up](/en/post/up/) [to](/en/post/to/)
+- [Hold](/post/hold/) [back](/post/back/)
+- [Stand](/post/stand/) [up](/post/up/) [to](/post/to/)

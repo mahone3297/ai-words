@@ -11,20 +11,20 @@ keywords = ['ai words', 'yes']
 /jes/
 
 ## 释义
-- **副词**: 表示同意、确认或承认。例如: "[Yes](/post/yes/), I [understand](/post/understand/)." (是的，我明白。)
-- **名词**: 用作对话中的简短回答，表示肯定。例如: "Is [it](/post/it/) raining? [Yes](/post/yes/), [it](/post/it/) is." (在下雨吗？是的，在下。)
+- **副词**: 表示同意、确认或承认。例如: "[Yes](/zh/post/yes/), I [understand](/zh/post/understand/)." (是的，我明白。)
+- **名词**: 用作对话中的简短回答，表示肯定。例如: "Is [it](/zh/post/it/) raining? [Yes](/zh/post/yes/), [it](/zh/post/it/) is." (在下雨吗？是的，在下。)
 
 ## 短语
-- "[Yes](/post/yes/) [or](/post/or/) [no](/post/no/)" 表示要求二选一的回答。
-- "[Yes](/post/yes/), [indeed](/post/indeed/)" 强调肯定的答复，表示确实如此。
+- "[Yes](/zh/post/yes/) [or](/zh/post/or/) [no](/zh/post/no/)" 表示要求二选一的回答。
+- "[Yes](/zh/post/yes/), [indeed](/zh/post/indeed/)" 强调肯定的答复，表示确实如此。
 
 ## 例句
-- 副词: "[Will](/post/will/) [you](/post/you/) [come](/post/come/) [to](/post/to/) [the](/post/the/) [party](/post/party/)? [Yes](/post/yes/), I'll [be](/post/be/) [there](/post/there/)."
-- 名词: "[The](/post/the/) [answer](/post/answer/) was [a](/post/a/) [simple](/post/simple/) '[yes](/post/yes/)'."
+- 副词: "[Will](/zh/post/will/) [you](/zh/post/you/) [come](/zh/post/come/) [to](/zh/post/to/) [the](/zh/post/the/) [party](/zh/post/party/)? [Yes](/zh/post/yes/), I'll [be](/zh/post/be/) [there](/zh/post/there/)."
+- 名词: "[The](/zh/post/the/) [answer](/zh/post/answer/) was [a](/zh/post/a/) [simple](/zh/post/simple/) '[yes](/zh/post/yes/)'."
 
 ## 同义词
-- [Indeed](/post/indeed/)
-- [Absolutely](/post/absolutely/)
-- [Of](/post/of/) [course](/post/course/)
-- [Sure](/post/sure/)
+- [Indeed](/zh/post/indeed/)
+- [Absolutely](/zh/post/absolutely/)
+- [Of](/zh/post/of/) [course](/zh/post/course/)
+- [Sure](/zh/post/sure/)
 - Affirmative

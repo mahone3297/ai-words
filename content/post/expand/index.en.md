@@ -7,42 +7,42 @@ description = '[iksˈpænd] vt.扩大；使膨胀'
 keywords = ['ai words', 'expand']
 +++
 
-## [Word](/en/post/word/): [Expand](/en/post/expand/)
+## [Word](/post/word/): [Expand](/post/expand/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈspænd/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [increase](/en/post/increase/) [in](/en/post/in/) [size](/en/post/size/), [extent](/en/post/extent/), [or](/en/post/or/) [range](/en/post/range/); [to](/en/post/to/) [spread](/en/post/spread/) [out](/en/post/out/) [or](/en/post/or/) [open](/en/post/open/) [up](/en/post/up/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) making [something](/en/post/something/) larger [or](/en/post/or/) [more](/en/post/more/) [comprehensive](/en/post/comprehensive/) [by](/en/post/by/) adding details [or](/en/post/or/) [content](/en/post/content/). 
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [increase](/post/increase/) [in](/post/in/) [size](/post/size/), [extent](/post/extent/), [or](/post/or/) [range](/post/range/); [to](/post/to/) [spread](/post/spread/) [out](/post/out/) [or](/post/or/) [open](/post/open/) [up](/post/up/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) making [something](/post/something/) larger [or](/post/or/) [more](/post/more/) [comprehensive](/post/comprehensive/) [by](/post/by/) adding details [or](/post/or/) [content](/post/content/). 
 
-  > *[Example](/en/post/example/) [Sentence](/en/post/sentence/)*: [The](/en/post/the/) [company](/en/post/company/) plans [to](/en/post/to/) [expand](/en/post/expand/) [its](/en/post/its/) operations [overseas](/en/post/overseas/).
-  > *[Another](/en/post/another/) [Example](/en/post/example/)*: [The](/en/post/the/) [universe](/en/post/universe/) continues [to](/en/post/to/) [expand](/en/post/expand/) [since](/en/post/since/) [the](/en/post/the/) [Big](/en/post/big/) [Bang](/en/post/bang/).
+  > *[Example](/post/example/) [Sentence](/post/sentence/)*: [The](/post/the/) [company](/post/company/) plans [to](/post/to/) [expand](/post/expand/) [its](/post/its/) operations [overseas](/post/overseas/).
+  > *[Another](/post/another/) [Example](/post/example/)*: [The](/post/the/) [universe](/post/universe/) continues [to](/post/to/) [expand](/post/expand/) [since](/post/since/) [the](/post/the/) [Big](/post/big/) [Bang](/post/bang/).
 
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) expanding, [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) expanded. [This](/en/post/this/) [could](/en/post/could/) [be](/en/post/be/) [a](/en/post/a/) [physical](/en/post/physical/) [expansion](/en/post/expansion/) [or](/en/post/or/) an [abstract](/en/post/abstract/) [one](/en/post/one/) [like](/en/post/like/) [growth](/en/post/growth/) [or](/en/post/or/) [development](/en/post/development/).
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) expanding, [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) expanded. [This](/post/this/) [could](/post/could/) [be](/post/be/) [a](/post/a/) [physical](/post/physical/) [expansion](/post/expansion/) [or](/post/or/) an [abstract](/post/abstract/) [one](/post/one/) [like](/post/like/) [growth](/post/growth/) [or](/post/or/) [development](/post/development/).
 
-  > *[Example](/en/post/example/) [Sentence](/en/post/sentence/)*: [The](/en/post/the/) [recent](/en/post/recent/) [expansion](/en/post/expansion/) [of](/en/post/of/) [our](/en/post/our/) [product](/en/post/product/) [line](/en/post/line/) has led [to](/en/post/to/) increased sales.
+  > *[Example](/post/example/) [Sentence](/post/sentence/)*: [The](/post/the/) [recent](/post/recent/) [expansion](/post/expansion/) [of](/post/of/) [our](/post/our/) [product](/post/product/) [line](/post/line/) has led [to](/post/to/) increased sales.
 
 ## Phrases
-- **[Expand](/en/post/expand/) [on](/en/post/on/) [something](/en/post/something/)**: [To](/en/post/to/) [give](/en/post/give/) [more](/en/post/more/) [information](/en/post/information/) [about](/en/post/about/) [or](/en/post/or/) [explain](/en/post/explain/) [something](/en/post/something/) [in](/en/post/in/) greater [detail](/en/post/detail/).
-  > "*[Let](/en/post/let/) [me](/en/post/me/) [expand](/en/post/expand/) [on](/en/post/on/) [that](/en/post/that/) [idea](/en/post/idea/) [so](/en/post/so/) [you](/en/post/you/) [can](/en/post/can/) fully [understand](/en/post/understand/) [it](/en/post/it/).*"
+- **[Expand](/post/expand/) [on](/post/on/) [something](/post/something/)**: [To](/post/to/) [give](/post/give/) [more](/post/more/) [information](/post/information/) [about](/post/about/) [or](/post/or/) [explain](/post/explain/) [something](/post/something/) [in](/post/in/) greater [detail](/post/detail/).
+  > "*[Let](/post/let/) [me](/post/me/) [expand](/post/expand/) [on](/post/on/) [that](/post/that/) [idea](/post/idea/) [so](/post/so/) [you](/post/you/) [can](/post/can/) fully [understand](/post/understand/) [it](/post/it/).*"
 
-- **[Expand](/en/post/expand/) [into](/en/post/into/) [something](/en/post/something/)**: [To](/en/post/to/) [move](/en/post/move/) [into](/en/post/into/) [a](/en/post/a/) [new](/en/post/new/) [area](/en/post/area/) [or](/en/post/or/) [field](/en/post/field/), [usually](/en/post/usually/) [in](/en/post/in/) [business](/en/post/business/) [or](/en/post/or/) [territory](/en/post/territory/).
-  > "*[The](/en/post/the/) startup plans [to](/en/post/to/) [expand](/en/post/expand/) [into](/en/post/into/) [the](/en/post/the/) European [market](/en/post/market/) [this](/en/post/this/) [year](/en/post/year/).*"
+- **[Expand](/post/expand/) [into](/post/into/) [something](/post/something/)**: [To](/post/to/) [move](/post/move/) [into](/post/into/) [a](/post/a/) [new](/post/new/) [area](/post/area/) [or](/post/or/) [field](/post/field/), [usually](/post/usually/) [in](/post/in/) [business](/post/business/) [or](/post/or/) [territory](/post/territory/).
+  > "*[The](/post/the/) startup plans [to](/post/to/) [expand](/post/expand/) [into](/post/into/) [the](/post/the/) European [market](/post/market/) [this](/post/this/) [year](/post/year/).*"
 
-- **[Expand](/en/post/expand/) [upon](/en/post/upon/) [something](/en/post/something/)**: [To](/en/post/to/) [develop](/en/post/develop/) [or](/en/post/or/) [elaborate](/en/post/elaborate/) [further](/en/post/further/) [upon](/en/post/upon/) an [idea](/en/post/idea/) [or](/en/post/or/) [topic](/en/post/topic/).
-  > "*[In](/en/post/in/) [his](/en/post/his/) [next](/en/post/next/) [chapter](/en/post/chapter/), [the](/en/post/the/) [author](/en/post/author/) expands [upon](/en/post/upon/) [the](/en/post/the/) theories presented earlier.*
+- **[Expand](/post/expand/) [upon](/post/upon/) [something](/post/something/)**: [To](/post/to/) [develop](/post/develop/) [or](/post/or/) [elaborate](/post/elaborate/) [further](/post/further/) [upon](/post/upon/) an [idea](/post/idea/) [or](/post/or/) [topic](/post/topic/).
+  > "*[In](/post/in/) [his](/post/his/) [next](/post/next/) [chapter](/post/chapter/), [the](/post/the/) [author](/post/author/) expands [upon](/post/upon/) [the](/post/the/) theories presented earlier.*
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[As](/en/post/as/) [the](/en/post/the/) dough proofs, [it](/en/post/it/) [will](/en/post/will/) [expand](/en/post/expand/) [until](/en/post/until/) [it](/en/post/it/) doubles [in](/en/post/in/) [size](/en/post/size/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [rapid](/en/post/rapid/) [expansion](/en/post/expansion/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) necessitated [the](/en/post/the/) [construction](/en/post/construction/) [of](/en/post/of/) [new](/en/post/new/) infrastructure."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[As](/post/as/) [the](/post/the/) dough proofs, [it](/post/it/) [will](/post/will/) [expand](/post/expand/) [until](/post/until/) [it](/post/it/) doubles [in](/post/in/) [size](/post/size/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [rapid](/post/rapid/) [expansion](/post/expansion/) [of](/post/of/) [the](/post/the/) [city](/post/city/) necessitated [the](/post/the/) [construction](/post/construction/) [of](/post/of/) [new](/post/new/) infrastructure."
 
 ## Synonyms
-- [Enlarge](/en/post/enlarge/)
-- [Increase](/en/post/increase/)
-- [Widen](/en/post/widen/)
-- [Grow](/en/post/grow/)
-- [Extend](/en/post/extend/)
+- [Enlarge](/post/enlarge/)
+- [Increase](/post/increase/)
+- [Widen](/post/widen/)
+- [Grow](/post/grow/)
+- [Extend](/post/extend/)
 - Magnify
-- [Develop](/en/post/develop/)
+- [Develop](/post/develop/)
 - Augment
-- [Amplify](/en/post/amplify/)
+- [Amplify](/post/amplify/)

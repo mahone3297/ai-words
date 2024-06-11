@@ -7,39 +7,39 @@ description = '[sɔlv] vt.解答，解释，解决'
 keywords = ['ai words', 'solve']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈloʊv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [solution](/en/post/solution/)** (n): [A](/en/post/a/) [method](/en/post/method/) [or](/en/post/or/) [answer](/en/post/answer/) [to](/en/post/to/) [a](/en/post/a/) [problem](/en/post/problem/), [difficulty](/en/post/difficulty/), [or](/en/post/or/) [equation](/en/post/equation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) developed [a](/en/post/a/) [new](/en/post/new/) [solution](/en/post/solution/) [to](/en/post/to/) [the](/en/post/the/) [complex](/en/post/complex/) [issue](/en/post/issue/)."
-- **[A](/en/post/a/) solver** (n): [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [tool](/en/post/tool/) [capable](/en/post/capable/) [of](/en/post/of/) [finding](/en/post/finding/) [a](/en/post/a/) [solution](/en/post/solution/). [For](/en/post/for/) [example](/en/post/example/): "He's an [excellent](/en/post/excellent/) [problem](/en/post/problem/) solver."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [solution](/post/solution/)** (n): [A](/post/a/) [method](/post/method/) [or](/post/or/) [answer](/post/answer/) [to](/post/to/) [a](/post/a/) [problem](/post/problem/), [difficulty](/post/difficulty/), [or](/post/or/) [equation](/post/equation/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [team](/post/team/) developed [a](/post/a/) [new](/post/new/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [complex](/post/complex/) [issue](/post/issue/)."
+- **[A](/post/a/) solver** (n): [A](/post/a/) [person](/post/person/) [or](/post/or/) [tool](/post/tool/) [capable](/post/capable/) [of](/post/of/) [finding](/post/finding/) [a](/post/a/) [solution](/post/solution/). [For](/post/for/) [example](/post/example/): "He's an [excellent](/post/excellent/) [problem](/post/problem/) solver."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [solve](/en/post/solve/)** (v): [To](/en/post/to/) [find](/en/post/find/) [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [or](/en/post/or/) [resolve](/en/post/resolve/) [a](/en/post/a/) [problem](/en/post/problem/), [puzzle](/en/post/puzzle/), [or](/en/post/or/) [task](/en/post/task/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) solved [the](/en/post/the/) math [problem](/en/post/problem/) [quickly](/en/post/quickly/)."
-- **[To](/en/post/to/) [resolve](/en/post/resolve/)** (v): [Similar](/en/post/similar/) [to](/en/post/to/) solving, [but](/en/post/but/) [often](/en/post/often/) implies [a](/en/post/a/) [more](/en/post/more/) [final](/en/post/final/) [or](/en/post/or/) [permanent](/en/post/permanent/) [settlement](/en/post/settlement/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [conflict](/en/post/conflict/) was [finally](/en/post/finally/) resolved [through](/en/post/through/) negotiation."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [solve](/post/solve/)** (v): [To](/post/to/) [find](/post/find/) [a](/post/a/) [way](/post/way/) [to](/post/to/) [deal](/post/deal/) [with](/post/with/) [or](/post/or/) [resolve](/post/resolve/) [a](/post/a/) [problem](/post/problem/), [puzzle](/post/puzzle/), [or](/post/or/) [task](/post/task/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) solved [the](/post/the/) math [problem](/post/problem/) [quickly](/post/quickly/)."
+- **[To](/post/to/) [resolve](/post/resolve/)** (v): [Similar](/post/similar/) [to](/post/to/) solving, [but](/post/but/) [often](/post/often/) implies [a](/post/a/) [more](/post/more/) [final](/post/final/) [or](/post/or/) [permanent](/post/permanent/) [settlement](/post/settlement/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [conflict](/post/conflict/) was [finally](/post/finally/) resolved [through](/post/through/) negotiation."
 
 ## Phrases
-- "[Find](/en/post/find/) [a](/en/post/a/) [solution](/en/post/solution/) [to](/en/post/to/)" [means](/en/post/means/) [to](/en/post/to/) [discover](/en/post/discover/) [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [address](/en/post/address/) [or](/en/post/or/) [fix](/en/post/fix/) [a](/en/post/a/) [problem](/en/post/problem/).
-- "Solving [a](/en/post/a/) [riddle](/en/post/riddle/)" refers [to](/en/post/to/) deciphering [a](/en/post/a/) [puzzle](/en/post/puzzle/) [or](/en/post/or/) enigma.
-- "[Solve](/en/post/solve/) [a](/en/post/a/) [mystery](/en/post/mystery/)" [means](/en/post/means/) [to](/en/post/to/) [uncover](/en/post/uncover/) [the](/en/post/the/) [truth](/en/post/truth/) [about](/en/post/about/) [a](/en/post/a/) confusing [or](/en/post/or/) [unknown](/en/post/unknown/) [situation](/en/post/situation/).
+- "[Find](/post/find/) [a](/post/a/) [solution](/post/solution/) [to](/post/to/)" [means](/post/means/) [to](/post/to/) [discover](/post/discover/) [a](/post/a/) [way](/post/way/) [to](/post/to/) [address](/post/address/) [or](/post/or/) [fix](/post/fix/) [a](/post/a/) [problem](/post/problem/).
+- "Solving [a](/post/a/) [riddle](/post/riddle/)" refers [to](/post/to/) deciphering [a](/post/a/) [puzzle](/post/puzzle/) [or](/post/or/) enigma.
+- "[Solve](/post/solve/) [a](/post/a/) [mystery](/post/mystery/)" [means](/post/means/) [to](/post/to/) [uncover](/post/uncover/) [the](/post/the/) [truth](/post/truth/) [about](/post/about/) [a](/post/a/) confusing [or](/post/or/) [unknown](/post/unknown/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) architect presented [a](/en/post/a/) viable [solution](/en/post/solution/) [for](/en/post/for/) [the](/en/post/the/) [design](/en/post/design/) [problem](/en/post/problem/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) hours [of](/en/post/of/) [research](/en/post/research/), [he](/en/post/he/) [finally](/en/post/finally/) solved [the](/en/post/the/) [mystery](/en/post/mystery/) [of](/en/post/of/) [the](/en/post/the/) [ancient](/en/post/ancient/) artifact."
-- **Intransitive**: "[The](/en/post/the/) software is designed [to](/en/post/to/) [solve](/en/post/solve/) [complex](/en/post/complex/) calculations automatically."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) architect presented [a](/post/a/) viable [solution](/post/solution/) [for](/post/for/) [the](/post/the/) [design](/post/design/) [problem](/post/problem/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) hours [of](/post/of/) [research](/post/research/), [he](/post/he/) [finally](/post/finally/) solved [the](/post/the/) [mystery](/post/mystery/) [of](/post/of/) [the](/post/the/) [ancient](/post/ancient/) artifact."
+- **Intransitive**: "[The](/post/the/) software is designed [to](/post/to/) [solve](/post/solve/) [complex](/post/complex/) calculations automatically."
 
 ## Synonyms
-- [Resolve](/en/post/resolve/)
-- [Answer](/en/post/answer/)
-- [Fix](/en/post/fix/)
-- [Settle](/en/post/settle/)
+- [Resolve](/post/resolve/)
+- [Answer](/post/answer/)
+- [Fix](/post/fix/)
+- [Settle](/post/settle/)
 - Unravel
-- [Crack](/en/post/crack/)
+- [Crack](/post/crack/)
 - Decode
 
 ## Antonyms
-- [Create](/en/post/create/) ([problem](/en/post/problem/))
-- [Complicate](/en/post/complicate/)
+- [Create](/post/create/) ([problem](/post/problem/))
+- [Complicate](/post/complicate/)
 - Perplex
 - Obscure

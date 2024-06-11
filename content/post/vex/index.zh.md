@@ -12,20 +12,20 @@ keywords = ['ai words', 'vex']
 
 ## 释义
 - **动词**:
-    - 使烦恼；困扰：例如: "[The](/post/the/) [constant](/post/constant/) [noise](/post/noise/) vexes [me](/post/me/)."
-    - 使焦虑；使忧心：例如: "[The](/post/the/) unresolved [problem](/post/problem/) vexes [her](/post/her/) [mind](/post/mind/)."
+    - 使烦恼；困扰：例如: "[The](/zh/post/the/) [constant](/zh/post/constant/) [noise](/zh/post/noise/) vexes [me](/zh/post/me/)."
+    - 使焦虑；使忧心：例如: "[The](/zh/post/the/) unresolved [problem](/zh/post/problem/) vexes [her](/zh/post/her/) [mind](/zh/post/mind/)."
 
 ## 短语
-- "[vex](/post/vex/) [with](/post/with/)" 意为因某事而烦恼或困扰某人，如: "[She](/post/she/) was vexed [with](/post/with/) [endless](/post/endless/) paperwork."
-- "[to](/post/to/) [vex](/post/vex/) [about](/post/about/)" 意为为某事担忧或烦恼，如: "[He](/post/he/) vexes [about](/post/about/) [his](/post/his/) [future](/post/future/) [career](/post/career/)."
+- "[vex](/zh/post/vex/) [with](/zh/post/with/)" 意为因某事而烦恼或困扰某人，如: "[She](/zh/post/she/) was vexed [with](/zh/post/with/) [endless](/zh/post/endless/) paperwork."
+- "[to](/zh/post/to/) [vex](/zh/post/vex/) [about](/zh/post/about/)" 意为为某事担忧或烦恼，如: "[He](/zh/post/he/) vexes [about](/zh/post/about/) [his](/zh/post/his/) [future](/zh/post/future/) [career](/zh/post/career/)."
 
 ## 例句
-- "[The](/post/the/) [difficult](/post/difficult/) [customer](/post/customer/) vexed [the](/post/the/) salesperson [with](/post/with/) [endless](/post/endless/) complaints."
-- "[His](/post/his/) indecisiveness vexes [his](/post/his/) friends, [who](/post/who/) [want](/post/want/) [him](/post/him/) [to](/post/to/) [make](/post/make/) [up](/post/up/) [his](/post/his/) [mind](/post/mind/)."
+- "[The](/zh/post/the/) [difficult](/zh/post/difficult/) [customer](/zh/post/customer/) vexed [the](/zh/post/the/) salesperson [with](/zh/post/with/) [endless](/zh/post/endless/) complaints."
+- "[His](/zh/post/his/) indecisiveness vexes [his](/zh/post/his/) friends, [who](/zh/post/who/) [want](/zh/post/want/) [him](/zh/post/him/) [to](/zh/post/to/) [make](/zh/post/make/) [up](/zh/post/up/) [his](/zh/post/his/) [mind](/zh/post/mind/)."
 
 ## 同义词
 - Irritate
-- [Annoy](/post/annoy/)
+- [Annoy](/zh/post/annoy/)
 - Troubled
 - Aggravate
-- [Nuisance](/post/nuisance/)
+- [Nuisance](/zh/post/nuisance/)

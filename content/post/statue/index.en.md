@@ -7,34 +7,34 @@ description = '[ˈstæt∫uː] n.塑像，雕像，铸像'
 keywords = ['ai words', 'statue']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /statjuː/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [statue](/en/post/statue/) is [a](/en/post/a/) [solid](/en/post/solid/), [often](/en/post/often/) lifelike representation [of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/), [animal](/en/post/animal/), [or](/en/post/or/) [object](/en/post/object/), typically made [of](/en/post/of/) [stone](/en/post/stone/), [metal](/en/post/metal/), [or](/en/post/or/) [other](/en/post/other/) [durable](/en/post/durable/) materials. [It](/en/post/it/) is [a](/en/post/a/) sculptural [work](/en/post/work/) meant [to](/en/post/to/) depict [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/) [or](/en/post/or/) [scene](/en/post/scene/).
+### [Noun](/post/noun/)
+[A](/post/a/) [statue](/post/statue/) is [a](/post/a/) [solid](/post/solid/), [often](/post/often/) lifelike representation [of](/post/of/) [a](/post/a/) [person](/post/person/), [animal](/post/animal/), [or](/post/or/) [object](/post/object/), typically made [of](/post/of/) [stone](/post/stone/), [metal](/post/metal/), [or](/post/or/) [other](/post/other/) [durable](/post/durable/) materials. [It](/post/it/) is [a](/post/a/) sculptural [work](/post/work/) meant [to](/post/to/) depict [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/) [or](/post/or/) [scene](/post/scene/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [statue](/en/post/statue/), [in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/), [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) immortalize [or](/en/post/or/) [create](/en/post/create/) [a](/en/post/a/) lasting [image](/en/post/image/) [or](/en/post/or/) representation [of](/en/post/of/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [through](/en/post/through/) [a](/en/post/a/) [statue](/en/post/statue/) [or](/en/post/or/) sculpture.
+### [Verb](/post/verb/)
+[To](/post/to/) [statue](/post/statue/), [in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), [can](/post/can/) [mean](/post/mean/) [to](/post/to/) immortalize [or](/post/or/) [create](/post/create/) [a](/post/a/) lasting [image](/post/image/) [or](/post/or/) representation [of](/post/of/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [through](/post/through/) [a](/post/a/) [statue](/post/statue/) [or](/post/or/) sculpture.
 
-### [Adjective](/en/post/adjective/)
-Statuesque refers [to](/en/post/to/) having [a](/en/post/a/) [tall](/en/post/tall/), dignified, [or](/en/post/or/) [impressive](/en/post/impressive/) [appearance](/en/post/appearance/), reminiscent [of](/en/post/of/) [a](/en/post/a/) [statue](/en/post/statue/).
+### [Adjective](/post/adjective/)
+Statuesque refers [to](/post/to/) having [a](/post/a/) [tall](/post/tall/), dignified, [or](/post/or/) [impressive](/post/impressive/) [appearance](/post/appearance/), reminiscent [of](/post/of/) [a](/post/a/) [statue](/post/statue/).
 
 ## Phrases
-- "Carved [from](/en/post/from/) [marble](/en/post/marble/), [the](/en/post/the/) [statue](/en/post/statue/) stood [tall](/en/post/tall/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- "[The](/en/post/the/) [monument](/en/post/monument/) was [a](/en/post/a/) [statue](/en/post/statue/) [of](/en/post/of/) [the](/en/post/the/) country's founding [father](/en/post/father/)."
-- "[Her](/en/post/her/) statuesque [figure](/en/post/figure/) commanded [attention](/en/post/attention/) [in](/en/post/in/) [the](/en/post/the/) [room](/en/post/room/)."
+- "Carved [from](/post/from/) [marble](/post/marble/), [the](/post/the/) [statue](/post/statue/) stood [tall](/post/tall/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- "[The](/post/the/) [monument](/post/monument/) was [a](/post/a/) [statue](/post/statue/) [of](/post/of/) [the](/post/the/) country's founding [father](/post/father/)."
+- "[Her](/post/her/) statuesque [figure](/post/figure/) commanded [attention](/post/attention/) [in](/post/in/) [the](/post/the/) [room](/post/room/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [city](/en/post/city/) was filled [with](/en/post/with/) [magnificent](/en/post/magnificent/) statues [that](/en/post/that/) told [the](/en/post/the/) [story](/en/post/story/) [of](/en/post/of/) [its](/en/post/its/) [history](/en/post/history/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [artist](/en/post/artist/) spent years working [on](/en/post/on/) [the](/en/post/the/) [statue](/en/post/statue/), hoping [to](/en/post/to/) [capture](/en/post/capture/) [the](/en/post/the/) essence [of](/en/post/of/) [the](/en/post/the/) [subject](/en/post/subject/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) had [a](/en/post/a/) statuesque [grace](/en/post/grace/) [that](/en/post/that/) commanded [respect](/en/post/respect/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ancient](/post/ancient/) [city](/post/city/) was filled [with](/post/with/) [magnificent](/post/magnificent/) statues [that](/post/that/) told [the](/post/the/) [story](/post/story/) [of](/post/of/) [its](/post/its/) [history](/post/history/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [artist](/post/artist/) spent years working [on](/post/on/) [the](/post/the/) [statue](/post/statue/), hoping [to](/post/to/) [capture](/post/capture/) [the](/post/the/) essence [of](/post/of/) [the](/post/the/) [subject](/post/subject/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) had [a](/post/a/) statuesque [grace](/post/grace/) [that](/post/that/) commanded [respect](/post/respect/)."
 
 ## Synonyms
 -塑像
 -Statuette
--[Work](/en/post/work/) [of](/en/post/of/) [art](/en/post/art/)
--[Image](/en/post/image/)
+-[Work](/post/work/) [of](/post/of/) [art](/post/art/)
+-[Image](/post/image/)
 -Sculpture
--[Portrait](/en/post/portrait/) ([in](/en/post/in/) [a](/en/post/a/) broader [sense](/en/post/sense/))
+-[Portrait](/post/portrait/) ([in](/post/in/) [a](/post/a/) broader [sense](/post/sense/))
 -Representation

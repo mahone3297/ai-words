@@ -7,34 +7,34 @@ description = '[ˈterə] n.恐怖，惊骇'
 keywords = ['ai words', 'terror']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtɛrər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [Intense](/en/post/intense/) [fear](/en/post/fear/), [dread](/en/post/dread/), [or](/en/post/or/) [horror](/en/post/horror/) caused [by](/en/post/by/) an [immediate](/en/post/immediate/) [threat](/en/post/threat/) [or](/en/post/or/) [danger](/en/post/danger/). 2. [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) causing [such](/en/post/such/) [fear](/en/post/fear/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) terrorist [attack](/en/post/attack/) filled [the](/en/post/the/) [city](/en/post/city/) [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [terror](/en/post/terror/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [inspire](/en/post/inspire/) [or](/en/post/or/) [create](/en/post/create/) [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [fear](/en/post/fear/) [or](/en/post/or/) [terror](/en/post/terror/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) movie's [plot](/en/post/plot/) terrorized [the](/en/post/the/) [audience](/en/post/audience/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [fear](/en/post/fear/) [or](/en/post/or/) [terror](/en/post/terror/); horrifying. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) haunted [house](/en/post/house/) was [a](/en/post/a/) terrifying [experience](/en/post/experience/)."
+- **[Noun](/post/noun/)**: 1. [Intense](/post/intense/) [fear](/post/fear/), [dread](/post/dread/), [or](/post/or/) [horror](/post/horror/) caused [by](/post/by/) an [immediate](/post/immediate/) [threat](/post/threat/) [or](/post/or/) [danger](/post/danger/). 2. [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) causing [such](/post/such/) [fear](/post/fear/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) terrorist [attack](/post/attack/) filled [the](/post/the/) [city](/post/city/) [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [terror](/post/terror/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [inspire](/post/inspire/) [or](/post/or/) [create](/post/create/) [a](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [fear](/post/fear/) [or](/post/or/) [terror](/post/terror/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) movie's [plot](/post/plot/) terrorized [the](/post/the/) [audience](/post/audience/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [fear](/post/fear/) [or](/post/or/) [terror](/post/terror/); horrifying. [For](/post/for/) [example](/post/example/): "[The](/post/the/) haunted [house](/post/house/) was [a](/post/a/) terrifying [experience](/post/experience/)."
 
 ## Phrases
-- "[Feel](/en/post/feel/) [the](/en/post/the/) [terror](/en/post/terror/) [in](/en/post/in/) [their](/en/post/their/) hearts" describes [the](/en/post/the/) [emotional](/en/post/emotional/) [state](/en/post/state/) [of](/en/post/of/) [fear](/en/post/fear/).
-- "[She](/en/post/she/) lived [with](/en/post/with/) [the](/en/post/the/) [constant](/en/post/constant/) [terror](/en/post/terror/) [of](/en/post/of/) [being](/en/post/being/) attacked."
-- "[A](/en/post/a/) [campaign](/en/post/campaign/) [to](/en/post/to/) eradicate terrorism worldwide."
+- "[Feel](/post/feel/) [the](/post/the/) [terror](/post/terror/) [in](/post/in/) [their](/post/their/) hearts" describes [the](/post/the/) [emotional](/post/emotional/) [state](/post/state/) [of](/post/of/) [fear](/post/fear/).
+- "[She](/post/she/) lived [with](/post/with/) [the](/post/the/) [constant](/post/constant/) [terror](/post/terror/) [of](/post/of/) [being](/post/being/) attacked."
+- "[A](/post/a/) [campaign](/post/campaign/) [to](/post/to/) eradicate terrorism worldwide."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) survivors [still](/en/post/still/) [live](/en/post/live/) [with](/en/post/with/) [the](/en/post/the/) [terror](/en/post/terror/) [of](/en/post/of/) [that](/en/post/that/) [night](/en/post/night/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) terrorist group's actions [have](/en/post/have/) terrorized [the](/en/post/the/) [region](/en/post/region/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [dark](/en/post/dark/), eerie [forest](/en/post/forest/) was [a](/en/post/a/) terrifying landscape [to](/en/post/to/) navigate."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) survivors [still](/post/still/) [live](/post/live/) [with](/post/with/) [the](/post/the/) [terror](/post/terror/) [of](/post/of/) [that](/post/that/) [night](/post/night/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) terrorist group's actions [have](/post/have/) terrorized [the](/post/the/) [region](/post/region/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [dark](/post/dark/), eerie [forest](/post/forest/) was [a](/post/a/) terrifying landscape [to](/post/to/) navigate."
 
 ## Synonyms
-- [Horror](/en/post/horror/)
-- [Fear](/en/post/fear/)
-- [Dread](/en/post/dread/)
+- [Horror](/post/horror/)
+- [Fear](/post/fear/)
+- [Dread](/post/dread/)
 - Panic
 - Apprehension
 
 ## Antonyms
-- [Courage](/en/post/courage/)
-- [Calm](/en/post/calm/)
+- [Courage](/post/courage/)
+- [Calm](/post/calm/)
 - Relaxation
 - Serenity
 - Assurance

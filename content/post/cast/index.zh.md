@@ -12,31 +12,31 @@ keywords = ['ai words', 'cast']
 
 ## 释义
 - **名词**:
-  - (演员)阵容；演员表: "[The](/post/the/) [cast](/post/cast/) [of](/post/of/) [the](/post/the/) [play](/post/play/) includes [famous](/post/famous/) actors."
-  - (铸造)铸件；模型: "[The](/post/the/) [metal](/post/metal/) was [still](/post/still/) [hot](/post/hot/) [when](/post/when/) [it](/post/it/) was removed [from](/post/from/) [the](/post/the/) [cast](/post/cast/)."
+  - (演员)阵容；演员表: "[The](/zh/post/the/) [cast](/zh/post/cast/) [of](/zh/post/of/) [the](/zh/post/the/) [play](/zh/post/play/) includes [famous](/zh/post/famous/) actors."
+  - (铸造)铸件；模型: "[The](/zh/post/the/) [metal](/zh/post/metal/) was [still](/zh/post/still/) [hot](/zh/post/hot/) [when](/zh/post/when/) [it](/zh/post/it/) was removed [from](/zh/post/from/) [the](/zh/post/the/) [cast](/zh/post/cast/)."
 
 - **动词**:
-  - 投；抛；扔: "[He](/post/he/) [cast](/post/cast/) [the](/post/the/) fishing [line](/post/line/) [into](/post/into/) [the](/post/the/) [lake](/post/lake/)."
-  - 铸造；塑造: "[The](/post/the/) [artist](/post/artist/) [cast](/post/cast/) [a](/post/a/) [bronze](/post/bronze/) [statue](/post/statue/)."
-  - 播出（节目）: "[The](/post/the/) [new](/post/new/) TV [series](/post/series/) [will](/post/will/) [be](/post/be/) [cast](/post/cast/) [on](/post/on/) Monday nights."
-  - 分配角色；选角: "[The](/post/the/) [director](/post/director/) is casting [for](/post/for/) [the](/post/the/) [lead](/post/lead/) [role](/post/role/) [in](/post/in/) [the](/post/the/) [movie](/post/movie/)."
+  - 投；抛；扔: "[He](/zh/post/he/) [cast](/zh/post/cast/) [the](/zh/post/the/) fishing [line](/zh/post/line/) [into](/zh/post/into/) [the](/zh/post/the/) [lake](/zh/post/lake/)."
+  - 铸造；塑造: "[The](/zh/post/the/) [artist](/zh/post/artist/) [cast](/zh/post/cast/) [a](/zh/post/a/) [bronze](/zh/post/bronze/) [statue](/zh/post/statue/)."
+  - 播出（节目）: "[The](/zh/post/the/) [new](/zh/post/new/) TV [series](/zh/post/series/) [will](/zh/post/will/) [be](/zh/post/be/) [cast](/zh/post/cast/) [on](/zh/post/on/) Monday nights."
+  - 分配角色；选角: "[The](/zh/post/the/) [director](/zh/post/director/) is casting [for](/zh/post/for/) [the](/zh/post/the/) [lead](/zh/post/lead/) [role](/zh/post/role/) [in](/zh/post/in/) [the](/zh/post/the/) [movie](/zh/post/movie/)."
 
 - **名词** (口语中常作形容词):
-  - 固定的；石膏的: "She's wearing [a](/post/a/) [cast](/post/cast/) [on](/post/on/) [her](/post/her/) [arm](/post/arm/) [after](/post/after/) breaking [it](/post/it/)."
+  - 固定的；石膏的: "She's wearing [a](/zh/post/a/) [cast](/zh/post/cast/) [on](/zh/post/on/) [her](/zh/post/her/) [arm](/zh/post/arm/) [after](/zh/post/after/) breaking [it](/zh/post/it/)."
 
 ## 短语
-- "[cast](/post/cast/) [doubt](/post/doubt/) [on](/post/on/)" 表示对某事产生怀疑或不信任: "[His](/post/his/) [story](/post/story/) casts [doubt](/post/doubt/) [on](/post/on/) [his](/post/his/) innocence."
-- "[cast](/post/cast/) [off](/post/off/)" 解开系绳，开始航行或编织: "[They](/post/they/) [cast](/post/cast/) [off](/post/off/) [the](/post/the/) ropes [and](/post/and/) [set](/post/set/) [sail](/post/sail/)."
-- "[cast](/post/cast/) [aside](/post/aside/)" 抛弃，忽略: "[She](/post/she/) decided [to](/post/to/) [cast](/post/cast/) [aside](/post/aside/) [her](/post/her/) fears [and](/post/and/) [face](/post/face/) [the](/post/the/) [challenge](/post/challenge/)."
+- "[cast](/zh/post/cast/) [doubt](/zh/post/doubt/) [on](/zh/post/on/)" 表示对某事产生怀疑或不信任: "[His](/zh/post/his/) [story](/zh/post/story/) casts [doubt](/zh/post/doubt/) [on](/zh/post/on/) [his](/zh/post/his/) innocence."
+- "[cast](/zh/post/cast/) [off](/zh/post/off/)" 解开系绳，开始航行或编织: "[They](/zh/post/they/) [cast](/zh/post/cast/) [off](/zh/post/off/) [the](/zh/post/the/) ropes [and](/zh/post/and/) [set](/zh/post/set/) [sail](/zh/post/sail/)."
+- "[cast](/zh/post/cast/) [aside](/zh/post/aside/)" 抛弃，忽略: "[She](/zh/post/she/) decided [to](/zh/post/to/) [cast](/zh/post/cast/) [aside](/zh/post/aside/) [her](/zh/post/her/) fears [and](/zh/post/and/) [face](/zh/post/face/) [the](/zh/post/the/) [challenge](/zh/post/challenge/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [cast](/post/cast/) [of](/post/of/) [the](/post/the/) [musical](/post/musical/) rehearsed [for](/post/for/) hours [to](/post/to/) [perfect](/post/perfect/) [their](/post/their/) performances."
-- 动词: "[He](/post/he/) [cast](/post/cast/) [the](/post/the/) dice [and](/post/and/) hoped [for](/post/for/) [a](/post/a/) [lucky](/post/lucky/) [roll](/post/roll/)."
-- 形容词: "[She](/post/she/) had [to](/post/to/) [wear](/post/wear/) [a](/post/a/) [cast](/post/cast/) [for](/post/for/) [six](/post/six/) weeks [after](/post/after/) [surgery](/post/surgery/)."
+- 名词: "[The](/zh/post/the/) [cast](/zh/post/cast/) [of](/zh/post/of/) [the](/zh/post/the/) [musical](/zh/post/musical/) rehearsed [for](/zh/post/for/) hours [to](/zh/post/to/) [perfect](/zh/post/perfect/) [their](/zh/post/their/) performances."
+- 动词: "[He](/zh/post/he/) [cast](/zh/post/cast/) [the](/zh/post/the/) dice [and](/zh/post/and/) hoped [for](/zh/post/for/) [a](/zh/post/a/) [lucky](/zh/post/lucky/) [roll](/zh/post/roll/)."
+- 形容词: "[She](/zh/post/she/) had [to](/zh/post/to/) [wear](/zh/post/wear/) [a](/zh/post/a/) [cast](/zh/post/cast/) [for](/zh/post/for/) [six](/zh/post/six/) weeks [after](/zh/post/after/) [surgery](/zh/post/surgery/)."
 
 ## 同义词
-- [throw](/post/throw/)
-- [toss](/post/toss/)
-- [pitch](/post/pitch/)
+- [throw](/zh/post/throw/)
+- [toss](/zh/post/toss/)
+- [pitch](/zh/post/pitch/)
 - hurl
 - mold

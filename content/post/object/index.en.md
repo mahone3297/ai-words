@@ -7,29 +7,29 @@ description = '[ˈɔbdʒikt] vi.反对；抱反感'
 keywords = ['ai words', 'object']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɑːbdʒekt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - (n) [A](/en/post/a/) [thing](/en/post/thing/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) seen [and](/en/post/and/) touched; [a](/en/post/a/) [material](/en/post/material/) entity. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [vase](/en/post/vase/) [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/) is [a](/en/post/a/) [beautiful](/en/post/beautiful/) [object](/en/post/object/)."
-  - (n) [Something](/en/post/something/) [that](/en/post/that/) is [the](/en/post/the/) [focus](/en/post/focus/) [of](/en/post/of/) [attention](/en/post/attention/), [interest](/en/post/interest/), [or](/en/post/or/) [activity](/en/post/activity/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [main](/en/post/main/) [object](/en/post/object/) [of](/en/post/of/) [the](/en/post/the/) [exercise](/en/post/exercise/) was [to](/en/post/to/) [improve](/en/post/improve/) fitness."
-  - (n) [In](/en/post/in/) computing, an [item](/en/post/item/) [that](/en/post/that/) has [distinct](/en/post/distinct/) properties [and](/en/post/and/) actions associated [with](/en/post/with/) [it](/en/post/it/), [often](/en/post/often/) [data](/en/post/data/) [that](/en/post/that/) [a](/en/post/a/) [program](/en/post/program/) manipulates. [Example](/en/post/example/): "[In](/en/post/in/) OOP, [a](/en/post/a/) [class](/en/post/class/) defines [how](/en/post/how/) objects [of](/en/post/of/) [a](/en/post/a/) [certain](/en/post/certain/) [type](/en/post/type/) [behave](/en/post/behave/)."
-  - (n) [In](/en/post/in/) [grammar](/en/post/grammar/), [the](/en/post/the/) [noun](/en/post/noun/) [or](/en/post/or/) [noun](/en/post/noun/) [phrase](/en/post/phrase/) [that](/en/post/that/) receives [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) [a](/en/post/a/) [verb](/en/post/verb/) [or](/en/post/or/) shows [the](/en/post/the/) [relationship](/en/post/relationship/) [of](/en/post/of/) [a](/en/post/a/) [preposition](/en/post/preposition/). [Example](/en/post/example/): "[In](/en/post/in/) [the](/en/post/the/) [sentence](/en/post/sentence/) '[She](/en/post/she/) [saw](/en/post/saw/) [the](/en/post/the/) [bird](/en/post/bird/)', '[the](/en/post/the/) [bird](/en/post/bird/)' is [the](/en/post/the/) [direct](/en/post/direct/) [object](/en/post/object/)."
+- **[Noun](/post/noun/)**: 
+  - (n) [A](/post/a/) [thing](/post/thing/) [that](/post/that/) [can](/post/can/) [be](/post/be/) seen [and](/post/and/) touched; [a](/post/a/) [material](/post/material/) entity. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [vase](/post/vase/) [on](/post/on/) [the](/post/the/) [table](/post/table/) is [a](/post/a/) [beautiful](/post/beautiful/) [object](/post/object/)."
+  - (n) [Something](/post/something/) [that](/post/that/) is [the](/post/the/) [focus](/post/focus/) [of](/post/of/) [attention](/post/attention/), [interest](/post/interest/), [or](/post/or/) [activity](/post/activity/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [main](/post/main/) [object](/post/object/) [of](/post/of/) [the](/post/the/) [exercise](/post/exercise/) was [to](/post/to/) [improve](/post/improve/) fitness."
+  - (n) [In](/post/in/) computing, an [item](/post/item/) [that](/post/that/) has [distinct](/post/distinct/) properties [and](/post/and/) actions associated [with](/post/with/) [it](/post/it/), [often](/post/often/) [data](/post/data/) [that](/post/that/) [a](/post/a/) [program](/post/program/) manipulates. [Example](/post/example/): "[In](/post/in/) OOP, [a](/post/a/) [class](/post/class/) defines [how](/post/how/) objects [of](/post/of/) [a](/post/a/) [certain](/post/certain/) [type](/post/type/) [behave](/post/behave/)."
+  - (n) [In](/post/in/) [grammar](/post/grammar/), [the](/post/the/) [noun](/post/noun/) [or](/post/or/) [noun](/post/noun/) [phrase](/post/phrase/) [that](/post/that/) receives [the](/post/the/) [action](/post/action/) [of](/post/of/) [a](/post/a/) [verb](/post/verb/) [or](/post/or/) shows [the](/post/the/) [relationship](/post/relationship/) [of](/post/of/) [a](/post/a/) [preposition](/post/preposition/). [Example](/post/example/): "[In](/post/in/) [the](/post/the/) [sentence](/post/sentence/) '[She](/post/she/) [saw](/post/saw/) [the](/post/the/) [bird](/post/bird/)', '[the](/post/the/) [bird](/post/bird/)' is [the](/post/the/) [direct](/post/direct/) [object](/post/object/)."
 
-- **[Verb](/en/post/verb/)**:
-  - (v) [To](/en/post/to/) [oppose](/en/post/oppose/) [or](/en/post/or/) [resist](/en/post/resist/) [something](/en/post/something/) forcefully. [Example](/en/post/example/): "[Many](/en/post/many/) [people](/en/post/people/) [object](/en/post/object/) [to](/en/post/to/) [the](/en/post/the/) proposed changes [in](/en/post/in/) [the](/en/post/the/) [law](/en/post/law/)."
-  - (v) [To](/en/post/to/) [express](/en/post/express/) disapproval [or](/en/post/or/) dissent. [Example](/en/post/example/): "I [must](/en/post/must/) [object](/en/post/object/) [to](/en/post/to/) [your](/en/post/your/) characterization [of](/en/post/of/) events."
+- **[Verb](/post/verb/)**:
+  - (v) [To](/post/to/) [oppose](/post/oppose/) [or](/post/or/) [resist](/post/resist/) [something](/post/something/) forcefully. [Example](/post/example/): "[Many](/post/many/) [people](/post/people/) [object](/post/object/) [to](/post/to/) [the](/post/the/) proposed changes [in](/post/in/) [the](/post/the/) [law](/post/law/)."
+  - (v) [To](/post/to/) [express](/post/express/) disapproval [or](/post/or/) dissent. [Example](/post/example/): "I [must](/post/must/) [object](/post/object/) [to](/post/to/) [your](/post/your/) characterization [of](/post/of/) events."
 
 ## Phrases
-- "[Object](/en/post/object/) [of](/en/post/of/) [desire](/en/post/desire/)" refers [to](/en/post/to/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [that](/en/post/that/) [one](/en/post/one/) desires intensely.
-- "[Object](/en/post/object/) [lesson](/en/post/lesson/)" is [a](/en/post/a/) [practical](/en/post/practical/) demonstration [or](/en/post/or/) [example](/en/post/example/) [used](/en/post/used/) [to](/en/post/to/) [teach](/en/post/teach/) [a](/en/post/a/) [moral](/en/post/moral/) [or](/en/post/or/) [principle](/en/post/principle/).
-- "[Take](/en/post/take/) [objection](/en/post/objection/) [to](/en/post/to/)" [means](/en/post/means/) [to](/en/post/to/) [disagree](/en/post/disagree/) [with](/en/post/with/) [or](/en/post/or/) [challenge](/en/post/challenge/) [something](/en/post/something/).
+- "[Object](/post/object/) [of](/post/of/) [desire](/post/desire/)" refers [to](/post/to/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [that](/post/that/) [one](/post/one/) desires intensely.
+- "[Object](/post/object/) [lesson](/post/lesson/)" is [a](/post/a/) [practical](/post/practical/) demonstration [or](/post/or/) [example](/post/example/) [used](/post/used/) [to](/post/to/) [teach](/post/teach/) [a](/post/a/) [moral](/post/moral/) [or](/post/or/) [principle](/post/principle/).
+- "[Take](/post/take/) [objection](/post/objection/) [to](/post/to/)" [means](/post/means/) [to](/post/to/) [disagree](/post/disagree/) [with](/post/with/) [or](/post/or/) [challenge](/post/challenge/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [painting](/en/post/painting/) became [the](/en/post/the/) [object](/en/post/object/) [of](/en/post/of/) admiration [for](/en/post/for/) [all](/en/post/all/) visitors."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [strongly](/en/post/strongly/) objected [to](/en/post/to/) [the](/en/post/the/) [suggestion](/en/post/suggestion/) [that](/en/post/that/) [he](/en/post/he/) had been dishonest."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [painting](/post/painting/) became [the](/post/the/) [object](/post/object/) [of](/post/of/) admiration [for](/post/for/) [all](/post/all/) visitors."
+- **[Verb](/post/verb/)**: "[He](/post/he/) [strongly](/post/strongly/) objected [to](/post/to/) [the](/post/the/) [suggestion](/post/suggestion/) [that](/post/that/) [he](/post/he/) had been dishonest."
 
 ## Synonyms
-- [Noun](/en/post/noun/): [Item](/en/post/item/), [thing](/en/post/thing/), entity, [target](/en/post/target/), [subject](/en/post/subject/) ([in](/en/post/in/) [the](/en/post/the/) [grammatical](/en/post/grammatical/) [sense](/en/post/sense/))
-- [Verb](/en/post/verb/): [Oppose](/en/post/oppose/), [resist](/en/post/resist/), dissent, [protest](/en/post/protest/), [take](/en/post/take/) [exception](/en/post/exception/)
+- [Noun](/post/noun/): [Item](/post/item/), [thing](/post/thing/), entity, [target](/post/target/), [subject](/post/subject/) ([in](/post/in/) [the](/post/the/) [grammatical](/post/grammatical/) [sense](/post/sense/))
+- [Verb](/post/verb/): [Oppose](/post/oppose/), [resist](/post/resist/), dissent, [protest](/post/protest/), [take](/post/take/) [exception](/post/exception/)

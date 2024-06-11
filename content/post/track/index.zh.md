@@ -12,28 +12,28 @@ keywords = ['ai words', 'track']
 
 ## 释义
 - **名词**:
-  - 轨道，痕迹：[A](/post/a/) [path](/post/path/) [or](/post/or/) [mark](/post/mark/) [left](/post/left/) [by](/post/by/) [something](/post/something/) [that](/post/that/) has passed, [such](/post/such/) [as](/post/as/) [the](/post/the/) wheels [of](/post/of/) [a](/post/a/) [vehicle](/post/vehicle/).
-  - 记录，轨迹：[A](/post/a/) [record](/post/record/) [or](/post/or/) [trace](/post/trace/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [in](/post/in/) [electronic](/post/electronic/) [or](/post/or/) [digital](/post/digital/) [form](/post/form/).
-  - 音轨：[A](/post/a/) [separate](/post/separate/) recording [channel](/post/channel/) [on](/post/on/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [music](/post/music/), [film](/post/film/), [or](/post/or/) [video](/post/video/).
-  - 路线，航线：[A](/post/a/) [course](/post/course/) [or](/post/or/) [direction](/post/direction/) followed.
+  - 轨道，痕迹：[A](/zh/post/a/) [path](/zh/post/path/) [or](/zh/post/or/) [mark](/zh/post/mark/) [left](/zh/post/left/) [by](/zh/post/by/) [something](/zh/post/something/) [that](/zh/post/that/) has passed, [such](/zh/post/such/) [as](/zh/post/as/) [the](/zh/post/the/) wheels [of](/zh/post/of/) [a](/zh/post/a/) [vehicle](/zh/post/vehicle/).
+  - 记录，轨迹：[A](/zh/post/a/) [record](/zh/post/record/) [or](/zh/post/or/) [trace](/zh/post/trace/) [of](/zh/post/of/) [something](/zh/post/something/), [especially](/zh/post/especially/) [in](/zh/post/in/) [electronic](/zh/post/electronic/) [or](/zh/post/or/) [digital](/zh/post/digital/) [form](/zh/post/form/).
+  - 音轨：[A](/zh/post/a/) [separate](/zh/post/separate/) recording [channel](/zh/post/channel/) [on](/zh/post/on/) [a](/zh/post/a/) [piece](/zh/post/piece/) [of](/zh/post/of/) [music](/zh/post/music/), [film](/zh/post/film/), [or](/zh/post/or/) [video](/zh/post/video/).
+  - 路线，航线：[A](/zh/post/a/) [course](/zh/post/course/) [or](/zh/post/or/) [direction](/zh/post/direction/) followed.
 
 - **动词**:
-  - 追踪，跟踪：[To](/post/to/) [follow](/post/follow/) [or](/post/or/) [monitor](/post/monitor/) [the](/post/the/) movements [or](/post/or/) actions [of](/post/of/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/).
-  - 保持在正确的路径上：[To](/post/to/) [stay](/post/stay/) [on](/post/on/) [course](/post/course/) [or](/post/or/) [on](/post/on/) [track](/post/track/).
+  - 追踪，跟踪：[To](/zh/post/to/) [follow](/zh/post/follow/) [or](/zh/post/or/) [monitor](/zh/post/monitor/) [the](/zh/post/the/) movements [or](/zh/post/or/) actions [of](/zh/post/of/) [someone](/zh/post/someone/) [or](/zh/post/or/) [something](/zh/post/something/).
+  - 保持在正确的路径上：[To](/zh/post/to/) [stay](/zh/post/stay/) [on](/zh/post/on/) [course](/zh/post/course/) [or](/zh/post/or/) [on](/zh/post/on/) [track](/zh/post/track/).
 
 ## 短语
-- "[on](/post/on/) [track](/post/track/)" 意为进展顺利或按计划进行。
-- "lost [track](/post/track/) [of](/post/of/)" 意为失去了对某事物的追踪或忘记了关于某事的细节。
-- "[keep](/post/keep/) [track](/post/track/) [of](/post/of/)" 意为记录并了解某事物的最新情况。
+- "[on](/zh/post/on/) [track](/zh/post/track/)" 意为进展顺利或按计划进行。
+- "lost [track](/zh/post/track/) [of](/zh/post/of/)" 意为失去了对某事物的追踪或忘记了关于某事的细节。
+- "[keep](/zh/post/keep/) [track](/zh/post/track/) [of](/zh/post/of/)" 意为记录并了解某事物的最新情况。
 
 ## 例句
-- 名词: "[The](/post/the/) [train](/post/train/) was running [on](/post/on/) [its](/post/its/) designated [track](/post/track/)."
-- 动词: "[The](/post/the/) detective was tracking [the](/post/the/) suspect's movements [through](/post/through/) [the](/post/the/) [city](/post/city/)."
-- 短语: "[Our](/post/our/) [project](/post/project/) is [still](/post/still/) [on](/post/on/) [track](/post/track/) [for](/post/for/) completion [by](/post/by/) [next](/post/next/) [month](/post/month/)."
+- 名词: "[The](/zh/post/the/) [train](/zh/post/train/) was running [on](/zh/post/on/) [its](/zh/post/its/) designated [track](/zh/post/track/)."
+- 动词: "[The](/zh/post/the/) detective was tracking [the](/zh/post/the/) suspect's movements [through](/zh/post/through/) [the](/zh/post/the/) [city](/zh/post/city/)."
+- 短语: "[Our](/zh/post/our/) [project](/zh/post/project/) is [still](/zh/post/still/) [on](/zh/post/on/) [track](/zh/post/track/) [for](/zh/post/for/) completion [by](/zh/post/by/) [next](/zh/post/next/) [month](/zh/post/month/)."
 
 ## 同义词
-- [Trail](/post/trail/)
-- [Mark](/post/mark/)
-- [Path](/post/path/)
+- [Trail](/zh/post/trail/)
+- [Mark](/zh/post/mark/)
+- [Path](/zh/post/path/)
 - Footprint
-- [Route](/post/route/)
+- [Route](/zh/post/route/)

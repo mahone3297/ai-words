@@ -7,31 +7,31 @@ description = '[ˈəudə] n.气味，香气；味道'
 keywords = ['ai words', 'odour']
 +++
 
-## [Word](/en/post/word/): [Odour](/en/post/odour/)
+## [Word](/post/word/): [Odour](/post/odour/)
 
-## [Pronunciation](/en/post/pronunciation/)
-/ˈoʊ.dər/ (British English) /ˈoʊ.dər/ ([American](/en/post/american/) English)
+## [Pronunciation](/post/pronunciation/)
+/ˈoʊ.dər/ (British English) /ˈoʊ.dər/ ([American](/post/american/) English)
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) distinctive [smell](/en/post/smell/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is [unpleasant](/en/post/unpleasant/) [or](/en/post/or/) [strong](/en/post/strong/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) pungent [odour](/en/post/odour/) [of](/en/post/of/) onions filled [the](/en/post/the/) [kitchen](/en/post/kitchen/)."
-  - *[Formal](/en/post/formal/) synonym*: [scent](/en/post/scent/), fragrance, aroma
+- **[Noun](/post/noun/)**: [A](/post/a/) distinctive [smell](/post/smell/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is [unpleasant](/post/unpleasant/) [or](/post/or/) [strong](/post/strong/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) pungent [odour](/post/odour/) [of](/post/of/) onions filled [the](/post/the/) [kitchen](/post/kitchen/)."
+  - *[Formal](/post/formal/) synonym*: [scent](/post/scent/), fragrance, aroma
   - *Informal synonym*: stench, stink, whiff
-- **[Verb](/en/post/verb/)**: (rarer [usage](/en/post/usage/)) [To](/en/post/to/) [emit](/en/post/emit/) [or](/en/post/or/) [give](/en/post/give/) [off](/en/post/off/) an [odour](/en/post/odour/); [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [particular](/en/post/particular/) [smell](/en/post/smell/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) flowers odoured sweetly [in](/en/post/in/) [the](/en/post/the/) [spring](/en/post/spring/) [air](/en/post/air/)."
+- **[Verb](/post/verb/)**: (rarer [usage](/post/usage/)) [To](/post/to/) [emit](/post/emit/) [or](/post/or/) [give](/post/give/) [off](/post/off/) an [odour](/post/odour/); [to](/post/to/) [have](/post/have/) [a](/post/a/) [particular](/post/particular/) [smell](/post/smell/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) flowers odoured sweetly [in](/post/in/) [the](/post/the/) [spring](/post/spring/) [air](/post/air/)."
 
 ## Phrases
-- "[A](/en/post/a/) [bad](/en/post/bad/) [odour](/en/post/odour/)": Refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) has an [unpleasant](/en/post/unpleasant/) [smell](/en/post/smell/) [or](/en/post/or/) metaphorically [to](/en/post/to/) [a](/en/post/a/) [situation](/en/post/situation/) [with](/en/post/with/) [negative](/en/post/negative/) implications.
-- "An [odour](/en/post/odour/) [of](/en/post/of/) sanctity": [A](/en/post/a/) figurative [expression](/en/post/expression/) describing [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) seems [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) morally [or](/en/post/or/) spiritually [pure](/en/post/pure/) aura [about](/en/post/about/) [them](/en/post/them/).
+- "[A](/post/a/) [bad](/post/bad/) [odour](/post/odour/)": Refers [to](/post/to/) [something](/post/something/) [that](/post/that/) has an [unpleasant](/post/unpleasant/) [smell](/post/smell/) [or](/post/or/) metaphorically [to](/post/to/) [a](/post/a/) [situation](/post/situation/) [with](/post/with/) [negative](/post/negative/) implications.
+- "An [odour](/post/odour/) [of](/post/of/) sanctity": [A](/post/a/) figurative [expression](/post/expression/) describing [a](/post/a/) [person](/post/person/) [who](/post/who/) seems [to](/post/to/) [have](/post/have/) [a](/post/a/) morally [or](/post/or/) spiritually [pure](/post/pure/) aura [about](/post/about/) [them](/post/them/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [distinct](/en/post/distinct/) [odour](/en/post/odour/) [of](/en/post/of/) [fresh](/en/post/fresh/) [coffee](/en/post/coffee/) wafted [through](/en/post/through/) [the](/en/post/the/) [house](/en/post/house/), waking [everyone](/en/post/everyone/) [up](/en/post/up/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [damp](/en/post/damp/) [carpet](/en/post/carpet/) began [to](/en/post/to/) [odour](/en/post/odour/) [after](/en/post/after/) [the](/en/post/the/) [flood](/en/post/flood/), signaling [the](/en/post/the/) [need](/en/post/need/) [for](/en/post/for/) replacement."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [distinct](/post/distinct/) [odour](/post/odour/) [of](/post/of/) [fresh](/post/fresh/) [coffee](/post/coffee/) wafted [through](/post/through/) [the](/post/the/) [house](/post/house/), waking [everyone](/post/everyone/) [up](/post/up/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [damp](/post/damp/) [carpet](/post/carpet/) began [to](/post/to/) [odour](/post/odour/) [after](/post/after/) [the](/post/the/) [flood](/post/flood/), signaling [the](/post/the/) [need](/post/need/) [for](/post/for/) replacement."
 
 ## Synonyms
-- [Scent](/en/post/scent/)
+- [Scent](/post/scent/)
 - Fragrance
 - Aroma
-- [Smell](/en/post/smell/)
-- Stench ([for](/en/post/for/) [unpleasant](/en/post/unpleasant/) odours)
-- [Perfume](/en/post/perfume/) ([for](/en/post/for/) [pleasant](/en/post/pleasant/) odours)
-- Bouquet (typically [for](/en/post/for/) [pleasant](/en/post/pleasant/) fragrances [from](/en/post/from/) [wine](/en/post/wine/), flowers, etc.)
-- Whiff ([a](/en/post/a/) [brief](/en/post/brief/) [indication](/en/post/indication/) [of](/en/post/of/) an [odour](/en/post/odour/))
+- [Smell](/post/smell/)
+- Stench ([for](/post/for/) [unpleasant](/post/unpleasant/) odours)
+- [Perfume](/post/perfume/) ([for](/post/for/) [pleasant](/post/pleasant/) odours)
+- Bouquet (typically [for](/post/for/) [pleasant](/post/pleasant/) fragrances [from](/post/from/) [wine](/post/wine/), flowers, etc.)
+- Whiff ([a](/post/a/) [brief](/post/brief/) [indication](/post/indication/) [of](/post/of/) an [odour](/post/odour/))

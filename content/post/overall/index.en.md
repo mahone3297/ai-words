@@ -7,28 +7,28 @@ description = '[ˈəuvərɔːl] n.工装裤 a.全面的'
 keywords = ['ai words', 'overall']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌoʊvərˈɔːl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Concerning](/en/post/concerning/) [or](/en/post/or/) applying [to](/en/post/to/) [all](/en/post/all/) aspects [or](/en/post/or/) parts; [total](/en/post/total/) [or](/en/post/or/) [comprehensive](/en/post/comprehensive/). [For](/en/post/for/) [example](/en/post/example/): "[Overall](/en/post/overall/), [it](/en/post/it/) was [a](/en/post/a/) [successful](/en/post/successful/) [year](/en/post/year/) [for](/en/post/for/) [the](/en/post/the/) [company](/en/post/company/)."
-- **[Adverb](/en/post/adverb/)**: [As](/en/post/as/) [a](/en/post/a/) [whole](/en/post/whole/); taking [everything](/en/post/everything/) [into](/en/post/into/) [account](/en/post/account/). [For](/en/post/for/) [example](/en/post/example/): "[Overall](/en/post/overall/), [the](/en/post/the/) [project](/en/post/project/) went [smoothly](/en/post/smoothly/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [protective](/en/post/protective/) garment [that](/en/post/that/) covers [the](/en/post/the/) [whole](/en/post/whole/) [body](/en/post/body/) [or](/en/post/or/) [most](/en/post/most/) [of](/en/post/of/) [it](/en/post/it/), [often](/en/post/often/) worn [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [uniform](/en/post/uniform/) [or](/en/post/or/) [during](/en/post/during/) messy tasks. [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [painter](/en/post/painter/) [put](/en/post/put/) [on](/en/post/on/) [his](/en/post/his/) [white](/en/post/white/) [overall](/en/post/overall/) [before](/en/post/before/) starting [work](/en/post/work/)."
+- **[Adjective](/post/adjective/)**: [Concerning](/post/concerning/) [or](/post/or/) applying [to](/post/to/) [all](/post/all/) aspects [or](/post/or/) parts; [total](/post/total/) [or](/post/or/) [comprehensive](/post/comprehensive/). [For](/post/for/) [example](/post/example/): "[Overall](/post/overall/), [it](/post/it/) was [a](/post/a/) [successful](/post/successful/) [year](/post/year/) [for](/post/for/) [the](/post/the/) [company](/post/company/)."
+- **[Adverb](/post/adverb/)**: [As](/post/as/) [a](/post/a/) [whole](/post/whole/); taking [everything](/post/everything/) [into](/post/into/) [account](/post/account/). [For](/post/for/) [example](/post/example/): "[Overall](/post/overall/), [the](/post/the/) [project](/post/project/) went [smoothly](/post/smoothly/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [protective](/post/protective/) garment [that](/post/that/) covers [the](/post/the/) [whole](/post/whole/) [body](/post/body/) [or](/post/or/) [most](/post/most/) [of](/post/of/) [it](/post/it/), [often](/post/often/) worn [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [uniform](/post/uniform/) [or](/post/or/) [during](/post/during/) messy tasks. [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [painter](/post/painter/) [put](/post/put/) [on](/post/on/) [his](/post/his/) [white](/post/white/) [overall](/post/overall/) [before](/post/before/) starting [work](/post/work/)."
 
 ## Phrases
-- "[In](/en/post/in/) [general](/en/post/general/)/[overall](/en/post/overall/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [when](/en/post/when/) summarizing [or](/en/post/or/) giving [a](/en/post/a/) [broad](/en/post/broad/) [perspective](/en/post/perspective/) based [on](/en/post/on/) [all](/en/post/all/) elements considered. [Example](/en/post/example/): "[In](/en/post/in/) [general](/en/post/general/)/[overall](/en/post/overall/), [the](/en/post/the/) reviews [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [movie](/en/post/movie/) were [positive](/en/post/positive/)."
-- "[Overall](/en/post/overall/) [view](/en/post/view/)/[situation](/en/post/situation/)/[plan](/en/post/plan/)": Refers [to](/en/post/to/) [a](/en/post/a/) [broad](/en/post/broad/) [or](/en/post/or/) [comprehensive](/en/post/comprehensive/) [understanding](/en/post/understanding/) [or](/en/post/or/) [design](/en/post/design/). [Example](/en/post/example/): "[The](/en/post/the/) manager presented an [overall](/en/post/overall/) [plan](/en/post/plan/) [for](/en/post/for/) [the](/en/post/the/) company's restructuring."
+- "[In](/post/in/) [general](/post/general/)/[overall](/post/overall/)": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [when](/post/when/) summarizing [or](/post/or/) giving [a](/post/a/) [broad](/post/broad/) [perspective](/post/perspective/) based [on](/post/on/) [all](/post/all/) elements considered. [Example](/post/example/): "[In](/post/in/) [general](/post/general/)/[overall](/post/overall/), [the](/post/the/) reviews [for](/post/for/) [the](/post/the/) [new](/post/new/) [movie](/post/movie/) were [positive](/post/positive/)."
+- "[Overall](/post/overall/) [view](/post/view/)/[situation](/post/situation/)/[plan](/post/plan/)": Refers [to](/post/to/) [a](/post/a/) [broad](/post/broad/) [or](/post/or/) [comprehensive](/post/comprehensive/) [understanding](/post/understanding/) [or](/post/or/) [design](/post/design/). [Example](/post/example/): "[The](/post/the/) manager presented an [overall](/post/overall/) [plan](/post/plan/) [for](/post/for/) [the](/post/the/) company's restructuring."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[There](/en/post/there/) was an [overall](/en/post/overall/) [improvement](/en/post/improvement/) [in](/en/post/in/) [her](/en/post/her/) grades [this](/en/post/this/) [semester](/en/post/semester/)."
-- **[Adverb](/en/post/adverb/)**: "[Overall](/en/post/overall/), [the](/en/post/the/) [team](/en/post/team/) played [well](/en/post/well/) [despite](/en/post/despite/) [some](/en/post/some/) [individual](/en/post/individual/) mistakes."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [mechanic](/en/post/mechanic/) changed [his](/en/post/his/) oil-stained [overall](/en/post/overall/) [before](/en/post/before/) going [home](/en/post/home/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[There](/post/there/) was an [overall](/post/overall/) [improvement](/post/improvement/) [in](/post/in/) [her](/post/her/) grades [this](/post/this/) [semester](/post/semester/)."
+- **[Adverb](/post/adverb/)**: "[Overall](/post/overall/), [the](/post/the/) [team](/post/team/) played [well](/post/well/) [despite](/post/despite/) [some](/post/some/) [individual](/post/individual/) mistakes."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [mechanic](/post/mechanic/) changed [his](/post/his/) oil-stained [overall](/post/overall/) [before](/post/before/) going [home](/post/home/)."
 
 ## Synonyms
-- [Total](/en/post/total/)
-- [Comprehensive](/en/post/comprehensive/)
+- [Total](/post/total/)
+- [Comprehensive](/post/comprehensive/)
 - All-encompassing
 - Broadly speaking
-- [Generally](/en/post/generally/)
-- [Universal](/en/post/universal/) ([adjective](/en/post/adjective/))
-- Coverall ([noun](/en/post/noun/))
+- [Generally](/post/generally/)
+- [Universal](/post/universal/) ([adjective](/post/adjective/))
+- Coverall ([noun](/post/noun/))

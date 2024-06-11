@@ -12,14 +12,14 @@ keywords = ['ai words', 'retire']
 
 ## 释义
 - **动词**:
-1. 停止工作或活动，通常是因为年龄或退休年龄到达。例如: "[He](/post/he/) retired [from](/post/from/) [his](/post/his/) [job](/post/job/) [after](/post/after/) 40 years [of](/post/of/) [service](/post/service/)."
-2. （运动员）退出比赛或职业运动。例如: "[The](/post/the/) boxer announced [his](/post/his/) retirement [from](/post/from/) [the](/post/the/) [ring](/post/ring/)."
-3. 隐退，移居到较安静的地方。例如: "[They](/post/they/) retired [to](/post/to/) [a](/post/a/) [small](/post/small/) [village](/post/village/) [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/)."
+1. 停止工作或活动，通常是因为年龄或退休年龄到达。例如: "[He](/zh/post/he/) retired [from](/zh/post/from/) [his](/zh/post/his/) [job](/zh/post/job/) [after](/zh/post/after/) 40 years [of](/zh/post/of/) [service](/zh/post/service/)."
+2. （运动员）退出比赛或职业运动。例如: "[The](/zh/post/the/) boxer announced [his](/zh/post/his/) retirement [from](/zh/post/from/) [the](/zh/post/the/) [ring](/zh/post/ring/)."
+3. 隐退，移居到较安静的地方。例如: "[They](/zh/post/they/) retired [to](/zh/post/to/) [a](/zh/post/a/) [small](/zh/post/small/) [village](/zh/post/village/) [in](/zh/post/in/) [the](/zh/post/the/) [countryside](/zh/post/countryside/)."
 
 ## 短语
-- "retirement [age](/post/age/)" 法定退休年龄
-- "[to](/post/to/) [retire](/post/retire/) [from](/post/from/) [something](/post/something/)" 从某事物中退休或退出
-- "[in](/post/in/) retirement" 在退休生活中
+- "retirement [age](/zh/post/age/)" 法定退休年龄
+- "[to](/zh/post/to/) [retire](/zh/post/retire/) [from](/zh/post/from/) [something](/zh/post/something/)" 从某事物中退休或退出
+- "[in](/zh/post/in/) retirement" 在退休生活中
 
 ## 例句
 - 他55岁时从公司退休，开始享受悠闲的生活。
@@ -27,8 +27,8 @@ keywords = ['ai words', 'retire']
 - 他们退休后，搬到了一个靠近海边的小镇。
 
 ## 同义词
-- [resign](/post/resign/)
-- [quit](/post/quit/)
-- [leave](/post/leave/)
-- [step](/post/step/) [down](/post/down/)
-- [exit](/post/exit/)
+- [resign](/zh/post/resign/)
+- [quit](/zh/post/quit/)
+- [leave](/zh/post/leave/)
+- [step](/zh/post/step/) [down](/zh/post/down/)
+- [exit](/zh/post/exit/)

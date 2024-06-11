@@ -7,39 +7,39 @@ description = '[ˈt∫aiˈniːz] a.中国的 n.中国人'
 keywords = ['ai words', 'Chinese']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /chɪˈniːz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **Chinese** (n): [A](/en/post/a/) [large](/en/post/large/) [and](/en/post/and/) [diverse](/en/post/diverse/) [language](/en/post/language/) [family](/en/post/family/) spoken [by](/en/post/by/) [over](/en/post/over/) [a](/en/post/a/) [billion](/en/post/billion/) [people](/en/post/people/), [primarily](/en/post/primarily/) [in](/en/post/in/) [China](/en/post/china/), Taiwan, [and](/en/post/and/) [other](/en/post/other/) parts [of](/en/post/of/) [Asia](/en/post/asia/). [It](/en/post/it/) includes languages [like](/en/post/like/) Mandarin, Cantonese, [and](/en/post/and/) [many](/en/post/many/) regional dialects.
-2. **Chinese [culture](/en/post/culture/)** (n): [The](/en/post/the/) customs, traditions, [art](/en/post/art/), [literature](/en/post/literature/), [and](/en/post/and/) [history](/en/post/history/) [of](/en/post/of/) [the](/en/post/the/) Chinese [people](/en/post/people/).
-3. **Chinese cuisine** (n): [The](/en/post/the/) [wide](/en/post/wide/) [variety](/en/post/variety/) [of](/en/post/of/) [traditional](/en/post/traditional/) dishes [and](/en/post/and/) culinary styles [from](/en/post/from/) [China](/en/post/china/), known [for](/en/post/for/) [its](/en/post/its/) [distinct](/en/post/distinct/) flavors [and](/en/post/and/) cooking techniques.
+### [Noun](/post/noun/)
+1. **Chinese** (n): [A](/post/a/) [large](/post/large/) [and](/post/and/) [diverse](/post/diverse/) [language](/post/language/) [family](/post/family/) spoken [by](/post/by/) [over](/post/over/) [a](/post/a/) [billion](/post/billion/) [people](/post/people/), [primarily](/post/primarily/) [in](/post/in/) [China](/post/china/), Taiwan, [and](/post/and/) [other](/post/other/) parts [of](/post/of/) [Asia](/post/asia/). [It](/post/it/) includes languages [like](/post/like/) Mandarin, Cantonese, [and](/post/and/) [many](/post/many/) regional dialects.
+2. **Chinese [culture](/post/culture/)** (n): [The](/post/the/) customs, traditions, [art](/post/art/), [literature](/post/literature/), [and](/post/and/) [history](/post/history/) [of](/post/of/) [the](/post/the/) Chinese [people](/post/people/).
+3. **Chinese cuisine** (n): [The](/post/the/) [wide](/post/wide/) [variety](/post/variety/) [of](/post/of/) [traditional](/post/traditional/) dishes [and](/post/and/) culinary styles [from](/post/from/) [China](/post/china/), known [for](/post/for/) [its](/post/its/) [distinct](/post/distinct/) flavors [and](/post/and/) cooking techniques.
 
-### [Adjective](/en/post/adjective/)
-1. **Chinese** (adj): Relating [to](/en/post/to/) [China](/en/post/china/), [its](/en/post/its/) [people](/en/post/people/), [or](/en/post/or/) [their](/en/post/their/) [language](/en/post/language/) [and](/en/post/and/) [culture](/en/post/culture/).
-2. **Sinocentric** (adj): Focused [on](/en/post/on/) [or](/en/post/or/) centered [around](/en/post/around/) [China](/en/post/china/) [or](/en/post/or/) Chinese perspectives.
+### [Adjective](/post/adjective/)
+1. **Chinese** (adj): Relating [to](/post/to/) [China](/post/china/), [its](/post/its/) [people](/post/people/), [or](/post/or/) [their](/post/their/) [language](/post/language/) [and](/post/and/) [culture](/post/culture/).
+2. **Sinocentric** (adj): Focused [on](/post/on/) [or](/post/or/) centered [around](/post/around/) [China](/post/china/) [or](/post/or/) Chinese perspectives.
 
-### [Proper](/en/post/proper/) [noun](/en/post/noun/)
-1. **[China](/en/post/china/)** (n): [A](/en/post/a/) [country](/en/post/country/) [in](/en/post/in/) [East](/en/post/east/) [Asia](/en/post/asia/) [with](/en/post/with/) [a](/en/post/a/) [long](/en/post/long/) [history](/en/post/history/), [the](/en/post/the/) world's [most](/en/post/most/) populous [nation](/en/post/nation/), [and](/en/post/and/) [the](/en/post/the/) [home](/en/post/home/) [of](/en/post/of/) [the](/en/post/the/) Chinese [civilization](/en/post/civilization/).
+### [Proper](/post/proper/) [noun](/post/noun/)
+1. **[China](/post/china/)** (n): [A](/post/a/) [country](/post/country/) [in](/post/in/) [East](/post/east/) [Asia](/post/asia/) [with](/post/with/) [a](/post/a/) [long](/post/long/) [history](/post/history/), [the](/post/the/) world's [most](/post/most/) populous [nation](/post/nation/), [and](/post/and/) [the](/post/the/) [home](/post/home/) [of](/post/of/) [the](/post/the/) Chinese [civilization](/post/civilization/).
 
 ## Phrases
-- "Mandarin Chinese" [or](/en/post/or/) "Simplified Chinese" (referring [to](/en/post/to/) [the](/en/post/the/) [official](/en/post/official/) [language](/en/post/language/))
-- "Cantonese Chinese" ([a](/en/post/a/) [major](/en/post/major/) [dialect](/en/post/dialect/) spoken [in](/en/post/in/) [southern](/en/post/southern/) [China](/en/post/china/))
-- "[Learn](/en/post/learn/) Chinese" (an [expression](/en/post/expression/) [for](/en/post/for/) studying [the](/en/post/the/) [language](/en/post/language/))
-- "Chinese [New](/en/post/new/) [Year](/en/post/year/)" ([the](/en/post/the/) lunar [new](/en/post/new/) [year](/en/post/year/) celebrated [by](/en/post/by/) Chinese communities)
+- "Mandarin Chinese" [or](/post/or/) "Simplified Chinese" (referring [to](/post/to/) [the](/post/the/) [official](/post/official/) [language](/post/language/))
+- "Cantonese Chinese" ([a](/post/a/) [major](/post/major/) [dialect](/post/dialect/) spoken [in](/post/in/) [southern](/post/southern/) [China](/post/china/))
+- "[Learn](/post/learn/) Chinese" (an [expression](/post/expression/) [for](/post/for/) studying [the](/post/the/) [language](/post/language/))
+- "Chinese [New](/post/new/) [Year](/post/year/)" ([the](/post/the/) lunar [new](/post/new/) [year](/post/year/) celebrated [by](/post/by/) Chinese communities)
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [study](/en/post/study/) Chinese [to](/en/post/to/) [better](/en/post/better/) [understand](/en/post/understand/) [her](/en/post/her/) grandparents' heritage."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) Chinese calligraphy [exhibit](/en/post/exhibit/) was mesmerizing [with](/en/post/with/) [its](/en/post/its/) intricate brushwork."
-- **[Proper](/en/post/proper/) [noun](/en/post/noun/)**: "[The](/en/post/the/) [Great](/en/post/great/) [Wall](/en/post/wall/) [of](/en/post/of/) [China](/en/post/china/) is [a](/en/post/a/) testament [to](/en/post/to/) [ancient](/en/post/ancient/) [engineering](/en/post/engineering/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) decided [to](/post/to/) [study](/post/study/) Chinese [to](/post/to/) [better](/post/better/) [understand](/post/understand/) [her](/post/her/) grandparents' heritage."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) Chinese calligraphy [exhibit](/post/exhibit/) was mesmerizing [with](/post/with/) [its](/post/its/) intricate brushwork."
+- **[Proper](/post/proper/) [noun](/post/noun/)**: "[The](/post/the/) [Great](/post/great/) [Wall](/post/wall/) [of](/post/of/) [China](/post/china/) is [a](/post/a/) testament [to](/post/to/) [ancient](/post/ancient/) [engineering](/post/engineering/)."
 
 ## Synonyms
 - Mandarin
 - Cantonese
 - Sinophone
-- [Oriental](/en/post/oriental/)
-- [Eastern](/en/post/eastern/) [Asian](/en/post/asian/)
+- [Oriental](/post/oriental/)
+- [Eastern](/post/eastern/) [Asian](/post/asian/)
 - Han
 
-## [Note](/en/post/note/): [The](/en/post/the/) [provided](/en/post/provided/) examples [and](/en/post/and/) synonyms [may](/en/post/may/) [not](/en/post/not/) [cover](/en/post/cover/) [all](/en/post/all/) aspects [of](/en/post/of/) [the](/en/post/the/) [word](/en/post/word/) "Chinese," [as](/en/post/as/) [it](/en/post/it/) [can](/en/post/can/) [have](/en/post/have/) [multiple](/en/post/multiple/) meanings depending [on](/en/post/on/) context.
+## [Note](/post/note/): [The](/post/the/) [provided](/post/provided/) examples [and](/post/and/) synonyms [may](/post/may/) [not](/post/not/) [cover](/post/cover/) [all](/post/all/) aspects [of](/post/of/) [the](/post/the/) [word](/post/word/) "Chinese," [as](/post/as/) [it](/post/it/) [can](/post/can/) [have](/post/have/) [multiple](/post/multiple/) meanings depending [on](/post/on/) context.

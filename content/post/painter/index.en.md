@@ -7,28 +7,28 @@ description = '[ˈpeintə] n.漆工，画家，绘画者'
 keywords = ['ai words', 'painter']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈpeɪntər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) practices [the](/en/post/the/) [art](/en/post/art/) [or](/en/post/or/) [craft](/en/post/craft/) [of](/en/post/of/) [painting](/en/post/painting/), [especially](/en/post/especially/) [as](/en/post/as/) an [occupation](/en/post/occupation/) [or](/en/post/or/) [profession](/en/post/profession/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [painter](/en/post/painter/) created [a](/en/post/a/) stunning landscape [on](/en/post/on/) [canvas](/en/post/canvas/)."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [machine](/en/post/machine/) [or](/en/post/or/) [device](/en/post/device/) [that](/en/post/that/) applies [paint](/en/post/paint/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [spray](/en/post/spray/) [painter](/en/post/painter/) [or](/en/post/or/) [road](/en/post/road/) marking [painter](/en/post/painter/).
-- **[Noun](/en/post/noun/) (archaic)**: [One](/en/post/one/) [who](/en/post/who/) paints [or](/en/post/or/) colors [something](/en/post/something/); [could](/en/post/could/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) applies makeup [or](/en/post/or/) cosmetics.
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) practices [the](/post/the/) [art](/post/art/) [or](/post/or/) [craft](/post/craft/) [of](/post/of/) [painting](/post/painting/), [especially](/post/especially/) [as](/post/as/) an [occupation](/post/occupation/) [or](/post/or/) [profession](/post/profession/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [painter](/post/painter/) created [a](/post/a/) stunning landscape [on](/post/on/) [canvas](/post/canvas/)."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [machine](/post/machine/) [or](/post/or/) [device](/post/device/) [that](/post/that/) applies [paint](/post/paint/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [spray](/post/spray/) [painter](/post/painter/) [or](/post/or/) [road](/post/road/) marking [painter](/post/painter/).
+- **[Noun](/post/noun/) (archaic)**: [One](/post/one/) [who](/post/who/) paints [or](/post/or/) colors [something](/post/something/); [could](/post/could/) [refer](/post/refer/) [to](/post/to/) [someone](/post/someone/) [who](/post/who/) applies makeup [or](/post/or/) cosmetics.
 
 ## Phrases
-- "Painter's [tape](/en/post/tape/)" is [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) masking [tape](/en/post/tape/) [used](/en/post/used/) [by](/en/post/by/) painters [to](/en/post/to/) [mask](/en/post/mask/) [off](/en/post/off/) areas [while](/en/post/while/) [painting](/en/post/painting/).
-- "[A](/en/post/a/) [house](/en/post/house/) [painter](/en/post/painter/)" specifically refers [to](/en/post/to/) [a](/en/post/a/) [professional](/en/post/professional/) [who](/en/post/who/) paints buildings [and](/en/post/and/) houses.
-- "[To](/en/post/to/) [put](/en/post/put/) [oneself](/en/post/oneself/) [in](/en/post/in/) [the](/en/post/the/) [picture](/en/post/picture/)", [a](/en/post/a/) figurative [expression](/en/post/expression/) [often](/en/post/often/) [used](/en/post/used/) [when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [painter](/en/post/painter/), [means](/en/post/means/) [to](/en/post/to/) [imagine](/en/post/imagine/) [oneself](/en/post/oneself/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/).
+- "Painter's [tape](/post/tape/)" is [a](/post/a/) [type](/post/type/) [of](/post/of/) masking [tape](/post/tape/) [used](/post/used/) [by](/post/by/) painters [to](/post/to/) [mask](/post/mask/) [off](/post/off/) areas [while](/post/while/) [painting](/post/painting/).
+- "[A](/post/a/) [house](/post/house/) [painter](/post/painter/)" specifically refers [to](/post/to/) [a](/post/a/) [professional](/post/professional/) [who](/post/who/) paints buildings [and](/post/and/) houses.
+- "[To](/post/to/) [put](/post/put/) [oneself](/post/oneself/) [in](/post/in/) [the](/post/the/) [picture](/post/picture/)", [a](/post/a/) figurative [expression](/post/expression/) [often](/post/often/) [used](/post/used/) [when](/post/when/) referring [to](/post/to/) [a](/post/a/) [painter](/post/painter/), [means](/post/means/) [to](/post/to/) [imagine](/post/imagine/) [oneself](/post/oneself/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([artist](/en/post/artist/))**: "[The](/en/post/the/) [famous](/en/post/famous/) [painter](/en/post/painter/) exhibited [his](/en/post/his/) latest [collection](/en/post/collection/) [at](/en/post/at/) [the](/en/post/the/) [gallery](/en/post/gallery/)."
-- **[Noun](/en/post/noun/) ([device](/en/post/device/))**: "[We](/en/post/we/) hired [a](/en/post/a/) [professional](/en/post/professional/) [team](/en/post/team/) [with](/en/post/with/) [advanced](/en/post/advanced/) painters [to](/en/post/to/) [quickly](/en/post/quickly/) [finish](/en/post/finish/) [the](/en/post/the/) [exterior](/en/post/exterior/) [wall](/en/post/wall/) [painting](/en/post/painting/)."
-- **[Noun](/en/post/noun/) (archaic)**: "[In](/en/post/in/) Elizabethan times, [a](/en/post/a/) [painter](/en/post/painter/) was employed [to](/en/post/to/) [apply](/en/post/apply/) rouge [and](/en/post/and/) [powder](/en/post/powder/) [to](/en/post/to/) [the](/en/post/the/) queen's [face](/en/post/face/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([artist](/post/artist/))**: "[The](/post/the/) [famous](/post/famous/) [painter](/post/painter/) exhibited [his](/post/his/) latest [collection](/post/collection/) [at](/post/at/) [the](/post/the/) [gallery](/post/gallery/)."
+- **[Noun](/post/noun/) ([device](/post/device/))**: "[We](/post/we/) hired [a](/post/a/) [professional](/post/professional/) [team](/post/team/) [with](/post/with/) [advanced](/post/advanced/) painters [to](/post/to/) [quickly](/post/quickly/) [finish](/post/finish/) [the](/post/the/) [exterior](/post/exterior/) [wall](/post/wall/) [painting](/post/painting/)."
+- **[Noun](/post/noun/) (archaic)**: "[In](/post/in/) Elizabethan times, [a](/post/a/) [painter](/post/painter/) was employed [to](/post/to/) [apply](/post/apply/) rouge [and](/post/and/) [powder](/post/powder/) [to](/post/to/) [the](/post/the/) queen's [face](/post/face/)."
 
 ## Synonyms
-- [Artist](/en/post/artist/)
+- [Artist](/post/artist/)
 - Artisan
-- Decorator ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [painting](/en/post/painting/))
+- Decorator ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [painting](/post/painting/))
 - Brush-wielder (informal)
-- Colorist (referring [to](/en/post/to/) an [artist](/en/post/artist/) specializing [in](/en/post/in/) [color](/en/post/color/) [use](/en/post/use/))
-- Painter-decorator ([for](/en/post/for/) [those](/en/post/those/) [who](/en/post/who/) [specialize](/en/post/specialize/) [in](/en/post/in/) decorating homes [and](/en/post/and/) buildings)
+- Colorist (referring [to](/post/to/) an [artist](/post/artist/) specializing [in](/post/in/) [color](/post/color/) [use](/post/use/))
+- Painter-decorator ([for](/post/for/) [those](/post/those/) [who](/post/who/) [specialize](/post/specialize/) [in](/post/in/) decorating homes [and](/post/and/) buildings)

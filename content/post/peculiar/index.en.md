@@ -7,33 +7,33 @@ description = '[piˈkjuːljə] a.特有的；特别的'
 keywords = ['ai words', 'peculiar']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pɪkˈuːliə/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [or](/en/post/or/) [unusual](/en/post/unusual/); [not](/en/post/not/) [common](/en/post/common/) [or](/en/post/or/) [typical](/en/post/typical/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [peculiar](/en/post/peculiar/) [behavior](/en/post/behavior/) caught everyone's [attention](/en/post/attention/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [peculiar](/en/post/peculiar/) [manner](/en/post/manner/); [unusually](/en/post/unusually/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) spoke [in](/en/post/in/) [a](/en/post/a/) [peculiar](/en/post/peculiar/) [tone](/en/post/tone/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [or](/post/or/) [unusual](/post/unusual/); [not](/post/not/) [common](/post/common/) [or](/post/or/) [typical](/post/typical/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [peculiar](/post/peculiar/) [behavior](/post/behavior/) caught everyone's [attention](/post/attention/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [peculiar](/post/peculiar/) [manner](/post/manner/); [unusually](/post/unusually/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) spoke [in](/post/in/) [a](/post/a/) [peculiar](/post/peculiar/) [tone](/post/tone/)."
 
 ## Phrases
-- "[A](/en/post/a/) [peculiar](/en/post/peculiar/) [individual](/en/post/individual/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is [unusual](/en/post/unusual/) [or](/en/post/or/) [unique](/en/post/unique/).
-- "[His](/en/post/his/) [peculiar](/en/post/peculiar/) habits" describes [unusual](/en/post/unusual/) [or](/en/post/or/) idiosyncratic routines.
-- "That's [a](/en/post/a/) [peculiar](/en/post/peculiar/) [way](/en/post/way/) [to](/en/post/to/) [solve](/en/post/solve/) [the](/en/post/the/) [problem](/en/post/problem/)" implies an unconventional [approach](/en/post/approach/).
+- "[A](/post/a/) [peculiar](/post/peculiar/) [individual](/post/individual/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is [unusual](/post/unusual/) [or](/post/or/) [unique](/post/unique/).
+- "[His](/post/his/) [peculiar](/post/peculiar/) habits" describes [unusual](/post/unusual/) [or](/post/or/) idiosyncratic routines.
+- "That's [a](/post/a/) [peculiar](/post/peculiar/) [way](/post/way/) [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [problem](/post/problem/)" implies an unconventional [approach](/post/approach/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) had [a](/en/post/a/) [peculiar](/en/post/peculiar/) [mix](/en/post/mix/) [of](/en/post/of/) antique [furniture](/en/post/furniture/) [and](/en/post/and/) [modern](/en/post/modern/) [art](/en/post/art/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) handled [the](/en/post/the/) [situation](/en/post/situation/) [in](/en/post/in/) [a](/en/post/a/) [very](/en/post/very/) [peculiar](/en/post/peculiar/) [way](/en/post/way/), [which](/en/post/which/) surprised [everyone](/en/post/everyone/)."
-- "[Her](/en/post/her/) [peculiar](/en/post/peculiar/) [sense](/en/post/sense/) [of](/en/post/of/) humor was [both](/en/post/both/) endearing [and](/en/post/and/) confusing."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) had [a](/post/a/) [peculiar](/post/peculiar/) [mix](/post/mix/) [of](/post/of/) antique [furniture](/post/furniture/) [and](/post/and/) [modern](/post/modern/) [art](/post/art/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) handled [the](/post/the/) [situation](/post/situation/) [in](/post/in/) [a](/post/a/) [very](/post/very/) [peculiar](/post/peculiar/) [way](/post/way/), [which](/post/which/) surprised [everyone](/post/everyone/)."
+- "[Her](/post/her/) [peculiar](/post/peculiar/) [sense](/post/sense/) [of](/post/of/) humor was [both](/post/both/) endearing [and](/post/and/) confusing."
 
 ## Synonyms
-- [Odd](/en/post/odd/)
-- [Unusual](/en/post/unusual/)
-- [Strange](/en/post/strange/)
+- [Odd](/post/odd/)
+- [Unusual](/post/unusual/)
+- [Strange](/post/strange/)
 - Bizarre
 - Uncommon
 
 ## Antonyms
-- [Normal](/en/post/normal/)
+- [Normal](/post/normal/)
 - Commonplace
-- [Familiar](/en/post/familiar/)
-- [Regular](/en/post/regular/)
-- [Ordinary](/en/post/ordinary/)
+- [Familiar](/post/familiar/)
+- [Regular](/post/regular/)
+- [Ordinary](/post/ordinary/)

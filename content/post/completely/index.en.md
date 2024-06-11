@@ -7,28 +7,28 @@ description = '[kəmˈpliːtli] ad.十分，完全地'
 keywords = ['ai words', 'completely']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈpliːtli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Expressing [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) entirely, [without](/en/post/without/) reservation, [or](/en/post/or/) [to](/en/post/to/) [a](/en/post/a/) [great](/en/post/great/) [extent](/en/post/extent/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) completed [the](/en/post/the/) [task](/en/post/task/) [completely](/en/post/completely/)."
-- **[Adjective](/en/post/adjective/)**: Having [no](/en/post/no/) gaps, deficiencies, [or](/en/post/or/) reservations; [total](/en/post/total/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) renovation was completed [perfectly](/en/post/perfectly/)."
-- **[Pronoun](/en/post/pronoun/)**: (informal) [In](/en/post/in/) [its](/en/post/its/) entirety, [without](/en/post/without/) [exception](/en/post/exception/). [For](/en/post/for/) [example](/en/post/example/): "I [understand](/en/post/understand/) [the](/en/post/the/) [plan](/en/post/plan/) [completely](/en/post/completely/)."
+- **[Adverb](/post/adverb/)**: Expressing [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) entirely, [without](/post/without/) reservation, [or](/post/or/) [to](/post/to/) [a](/post/a/) [great](/post/great/) [extent](/post/extent/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) completed [the](/post/the/) [task](/post/task/) [completely](/post/completely/)."
+- **[Adjective](/post/adjective/)**: Having [no](/post/no/) gaps, deficiencies, [or](/post/or/) reservations; [total](/post/total/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) renovation was completed [perfectly](/post/perfectly/)."
+- **[Pronoun](/post/pronoun/)**: (informal) [In](/post/in/) [its](/post/its/) entirety, [without](/post/without/) [exception](/post/exception/). [For](/post/for/) [example](/post/example/): "I [understand](/post/understand/) [the](/post/the/) [plan](/post/plan/) [completely](/post/completely/)."
 
 ## Phrases
-- "[Completely](/en/post/completely/) finished" [means](/en/post/means/) [something](/en/post/something/) has been done [to](/en/post/to/) completion.
-- "[Completely](/en/post/completely/) satisfied" expresses [full](/en/post/full/) contentment.
-- "I [completely](/en/post/completely/) [agree](/en/post/agree/)" indicates [complete](/en/post/complete/) [agreement](/en/post/agreement/) [with](/en/post/with/) [a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [proposal](/en/post/proposal/).
+- "[Completely](/post/completely/) finished" [means](/post/means/) [something](/post/something/) has been done [to](/post/to/) completion.
+- "[Completely](/post/completely/) satisfied" expresses [full](/post/full/) contentment.
+- "I [completely](/post/completely/) [agree](/post/agree/)" indicates [complete](/post/complete/) [agreement](/post/agreement/) [with](/post/with/) [a](/post/a/) [statement](/post/statement/) [or](/post/or/) [proposal](/post/proposal/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) worked [completely](/en/post/completely/) [through](/en/post/through/) [the](/en/post/the/) [night](/en/post/night/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) was [completely](/en/post/completely/) redecorated, transforming [its](/en/post/its/) [appearance](/en/post/appearance/)."
-- **[Pronoun](/en/post/pronoun/)**: "I [have](/en/post/have/) [no](/en/post/no/) complaints – I [completely](/en/post/completely/) enjoyed [the](/en/post/the/) [event](/en/post/event/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) worked [completely](/post/completely/) [through](/post/through/) [the](/post/the/) [night](/post/night/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) was [completely](/post/completely/) redecorated, transforming [its](/post/its/) [appearance](/post/appearance/)."
+- **[Pronoun](/post/pronoun/)**: "I [have](/post/have/) [no](/post/no/) complaints – I [completely](/post/completely/) enjoyed [the](/post/the/) [event](/post/event/)."
 
 ## Synonyms
 - Entirely
 - Thoroughly
-- [Absolutely](/en/post/absolutely/)
+- [Absolutely](/post/absolutely/)
 - Fully
-- [Completely](/en/post/completely/) satisfied ([when](/en/post/when/) referring [to](/en/post/to/) emotions)
+- [Completely](/post/completely/) satisfied ([when](/post/when/) referring [to](/post/to/) emotions)
 - Unreservedly

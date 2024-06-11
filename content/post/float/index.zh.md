@@ -15,19 +15,19 @@ keywords = ['ai words', 'float']
 - **动词**: 1. 漂浮；2. 使浮动；3. （金融）发行（股票或债券）；4. （想法、计划）提出，试探
 
 ## 短语
-- "[float](/post/float/) [on](/post/on/) [water](/post/water/)" 在水上漂浮
-- "[float](/post/float/) [a](/post/a/) [new](/post/new/) [issue](/post/issue/)" 发行新股票或债券
-- "[float](/post/float/) an [idea](/post/idea/)" 提出一个想法
+- "[float](/zh/post/float/) [on](/zh/post/on/) [water](/zh/post/water/)" 在水上漂浮
+- "[float](/zh/post/float/) [a](/zh/post/a/) [new](/zh/post/new/) [issue](/zh/post/issue/)" 发行新股票或债券
+- "[float](/zh/post/float/) an [idea](/zh/post/idea/)" 提出一个想法
 
 ## 例句
-- 名词: "[The](/post/the/) raft was made [of](/post/of/) [wood](/post/wood/) [and](/post/and/) [could](/post/could/) [easily](/post/easily/) [float](/post/float/) [on](/post/on/) [the](/post/the/) [river](/post/river/)."
-- 动词: "[The](/post/the/) helium-filled [balloon](/post/balloon/) floated [up](/post/up/) [into](/post/into/) [the](/post/the/) [sky](/post/sky/)."
-- 金融用语: "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [float](/post/float/) [on](/post/on/) [the](/post/the/) [stock](/post/stock/) [market](/post/market/)."
-- 想法提出: "[They](/post/they/) floated [the](/post/the/) [proposal](/post/proposal/) [of](/post/of/) [building](/post/building/) [a](/post/a/) [new](/post/new/) [park](/post/park/) [in](/post/in/) [the](/post/the/) [city](/post/city/)."
+- 名词: "[The](/zh/post/the/) raft was made [of](/zh/post/of/) [wood](/zh/post/wood/) [and](/zh/post/and/) [could](/zh/post/could/) [easily](/zh/post/easily/) [float](/zh/post/float/) [on](/zh/post/on/) [the](/zh/post/the/) [river](/zh/post/river/)."
+- 动词: "[The](/zh/post/the/) helium-filled [balloon](/zh/post/balloon/) floated [up](/zh/post/up/) [into](/zh/post/into/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
+- 金融用语: "[The](/zh/post/the/) [company](/zh/post/company/) decided [to](/zh/post/to/) [float](/zh/post/float/) [on](/zh/post/on/) [the](/zh/post/the/) [stock](/zh/post/stock/) [market](/zh/post/market/)."
+- 想法提出: "[They](/zh/post/they/) floated [the](/zh/post/the/) [proposal](/zh/post/proposal/) [of](/zh/post/of/) [building](/zh/post/building/) [a](/zh/post/a/) [new](/zh/post/new/) [park](/zh/post/park/) [in](/zh/post/in/) [the](/zh/post/the/) [city](/zh/post/city/)."
 
 ## 同义词
-- [drift](/post/drift/)
+- [drift](/zh/post/drift/)
 - bob
-- [suspend](/post/suspend/)
+- [suspend](/zh/post/suspend/)
 - proposition
-- [tender](/post/tender/)
+- [tender](/zh/post/tender/)

@@ -12,22 +12,22 @@ keywords = ['ai words', 'contribute']
 
 ## 释义
 - **动词**:
-  - 贡献；提供。例如: "[She](/post/she/) contributed [a](/post/a/) [significant](/post/significant/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) [to](/post/to/) [the](/post/the/) [charity](/post/charity/)."
-  - 参与；投稿。例如: "[He](/post/he/) [regularly](/post/regularly/) contributes articles [to](/post/to/) [the](/post/the/) [local](/post/local/) [newspaper](/post/newspaper/)."
-  - 有助于；促进。例如: "Exercising [regularly](/post/regularly/) contributes [to](/post/to/) [a](/post/a/) [healthy](/post/healthy/) lifestyle."
+  - 贡献；提供。例如: "[She](/zh/post/she/) contributed [a](/zh/post/a/) [significant](/zh/post/significant/) [amount](/zh/post/amount/) [of](/zh/post/of/) [money](/zh/post/money/) [to](/zh/post/to/) [the](/zh/post/the/) [charity](/zh/post/charity/)."
+  - 参与；投稿。例如: "[He](/zh/post/he/) [regularly](/zh/post/regularly/) contributes articles [to](/zh/post/to/) [the](/zh/post/the/) [local](/zh/post/local/) [newspaper](/zh/post/newspaper/)."
+  - 有助于；促进。例如: "Exercising [regularly](/zh/post/regularly/) contributes [to](/zh/post/to/) [a](/zh/post/a/) [healthy](/zh/post/healthy/) lifestyle."
 
 ## 短语
-- "[Contribute](/post/contribute/) [to](/post/to/) [something](/post/something/)" 意为对某事做出贡献或导致某种结果。
-- "[Contribute](/post/contribute/) one's [share](/post/share/)" 表示尽自己的一份力。
-- "[Contribute](/post/contribute/) [to](/post/to/) [the](/post/the/) [discussion](/post/discussion/)" 是参与讨论的意思。
+- "[Contribute](/zh/post/contribute/) [to](/zh/post/to/) [something](/zh/post/something/)" 意为对某事做出贡献或导致某种结果。
+- "[Contribute](/zh/post/contribute/) one's [share](/zh/post/share/)" 表示尽自己的一份力。
+- "[Contribute](/zh/post/contribute/) [to](/zh/post/to/) [the](/zh/post/the/) [discussion](/zh/post/discussion/)" 是参与讨论的意思。
 
 ## 例句
-- 动词: "[Everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) [team](/post/team/) was asked [to](/post/to/) [contribute](/post/contribute/) [their](/post/their/) ideas [for](/post/for/) [the](/post/the/) [project](/post/project/)."
-- 有助于: "Eating [a](/post/a/) balanced diet contributes [to](/post/to/) maintaining [a](/post/a/) [good](/post/good/) [weight](/post/weight/)."
+- 动词: "[Everyone](/zh/post/everyone/) [in](/zh/post/in/) [the](/zh/post/the/) [team](/zh/post/team/) was asked [to](/zh/post/to/) [contribute](/zh/post/contribute/) [their](/zh/post/their/) ideas [for](/zh/post/for/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- 有助于: "Eating [a](/zh/post/a/) balanced diet contributes [to](/zh/post/to/) maintaining [a](/zh/post/a/) [good](/zh/post/good/) [weight](/zh/post/weight/)."
 
 ## 同义词
 - Donate
-- [Give](/post/give/)
-- [Add](/post/add/)
-- [Offer](/post/offer/)
-- [Input](/post/input/)
+- [Give](/zh/post/give/)
+- [Add](/zh/post/add/)
+- [Offer](/zh/post/offer/)
+- [Input](/zh/post/input/)

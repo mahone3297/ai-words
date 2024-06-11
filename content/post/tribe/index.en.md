@@ -7,38 +7,38 @@ description = '[traib] n.部落，宗族'
 keywords = ['ai words', 'tribe']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /trɪb/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[tribe](/en/post/tribe/)** is [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) [share](/en/post/share/) [a](/en/post/a/) [common](/en/post/common/) descent, [culture](/en/post/culture/), [or](/en/post/or/) [language](/en/post/language/), [often](/en/post/often/) [living](/en/post/living/) [together](/en/post/together/) [in](/en/post/in/) [a](/en/post/a/) [relatively](/en/post/relatively/) isolated [community](/en/post/community/) [and](/en/post/and/) maintaining [a](/en/post/a/) [distinct](/en/post/distinct/) identity.
+### [Noun](/post/noun/)
+[A](/post/a/) **[tribe](/post/tribe/)** is [a](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [who](/post/who/) [share](/post/share/) [a](/post/a/) [common](/post/common/) descent, [culture](/post/culture/), [or](/post/or/) [language](/post/language/), [often](/post/often/) [living](/post/living/) [together](/post/together/) [in](/post/in/) [a](/post/a/) [relatively](/post/relatively/) isolated [community](/post/community/) [and](/post/and/) maintaining [a](/post/a/) [distinct](/post/distinct/) identity.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[tribe](/en/post/tribe/)** ([as](/en/post/as/) [in](/en/post/in/) "[tribe](/en/post/tribe/) [together](/en/post/together/)") [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) affiliate [or](/en/post/or/) [form](/en/post/form/) [a](/en/post/a/) close-knit [group](/en/post/group/), [especially](/en/post/especially/) [in](/en/post/in/) terms [of](/en/post/of/) shared interests [or](/en/post/or/) beliefs.
+### [Verb](/post/verb/)
+[To](/post/to/) **[tribe](/post/tribe/)** ([as](/post/as/) [in](/post/in/) "[tribe](/post/tribe/) [together](/post/together/)") [can](/post/can/) [mean](/post/mean/) [to](/post/to/) affiliate [or](/post/or/) [form](/post/form/) [a](/post/a/) close-knit [group](/post/group/), [especially](/post/especially/) [in](/post/in/) terms [of](/post/of/) shared interests [or](/post/or/) beliefs.
 
 ## Phrases
-- "[Join](/en/post/join/) [the](/en/post/the/) [tribe](/en/post/tribe/)" signifies becoming [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [community](/en/post/community/) [or](/en/post/or/) [movement](/en/post/movement/).
-- "[Born](/en/post/born/) [into](/en/post/into/) [a](/en/post/a/) [tribe](/en/post/tribe/)" refers [to](/en/post/to/) [being](/en/post/being/) [born](/en/post/born/) [into](/en/post/into/) [a](/en/post/a/) [specific](/en/post/specific/) cultural [or](/en/post/or/) familial [group](/en/post/group/).
-- "[Lose](/en/post/lose/) [touch](/en/post/touch/) [with](/en/post/with/) one's [tribe](/en/post/tribe/)" [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) disconnected [from](/en/post/from/) one's cultural roots [or](/en/post/or/) [community](/en/post/community/).
+- "[Join](/post/join/) [the](/post/the/) [tribe](/post/tribe/)" signifies becoming [part](/post/part/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [community](/post/community/) [or](/post/or/) [movement](/post/movement/).
+- "[Born](/post/born/) [into](/post/into/) [a](/post/a/) [tribe](/post/tribe/)" refers [to](/post/to/) [being](/post/being/) [born](/post/born/) [into](/post/into/) [a](/post/a/) [specific](/post/specific/) cultural [or](/post/or/) familial [group](/post/group/).
+- "[Lose](/post/lose/) [touch](/post/touch/) [with](/post/with/) one's [tribe](/post/tribe/)" [means](/post/means/) [to](/post/to/) [become](/post/become/) disconnected [from](/post/from/) one's cultural roots [or](/post/or/) [community](/post/community/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) indigenous [tribe](/en/post/tribe/) lived harmoniously [in](/en/post/in/) [their](/en/post/their/) ancestral [land](/en/post/land/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [tribe](/en/post/tribe/) [together](/en/post/together/) [and](/en/post/and/) [start](/en/post/start/) [a](/en/post/a/) sustainable farming [project](/en/post/project/)."
-- **Implied [Verb](/en/post/verb/)**: "[Her](/en/post/her/) children were raised [to](/en/post/to/) [feel](/en/post/feel/) [a](/en/post/a/) [strong](/en/post/strong/) [connection](/en/post/connection/) [to](/en/post/to/) [their](/en/post/their/) tribe's traditions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) indigenous [tribe](/post/tribe/) lived harmoniously [in](/post/in/) [their](/post/their/) ancestral [land](/post/land/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) decided [to](/post/to/) [tribe](/post/tribe/) [together](/post/together/) [and](/post/and/) [start](/post/start/) [a](/post/a/) sustainable farming [project](/post/project/)."
+- **Implied [Verb](/post/verb/)**: "[Her](/post/her/) children were raised [to](/post/to/) [feel](/post/feel/) [a](/post/a/) [strong](/post/strong/) [connection](/post/connection/) [to](/post/to/) [their](/post/their/) tribe's traditions."
 
 ## Synonyms
 - Clan
-- [Community](/en/post/community/)
+- [Community](/post/community/)
 - Kinfolk
-- [Group](/en/post/group/)
-- [Collective](/en/post/collective/)
+- [Group](/post/group/)
+- [Collective](/post/collective/)
 - Congregation
-- [Band](/en/post/band/)
+- [Band](/post/band/)
 
 ## Antonyms
 - Outsider
-- [Individual](/en/post/individual/)
+- [Individual](/post/individual/)
 - Isolation
-- [Separation](/en/post/separation/)
+- [Separation](/post/separation/)
 - Detachment

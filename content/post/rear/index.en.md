@@ -7,43 +7,43 @@ description = 'vt.抚养，培养；栽种'
 keywords = ['ai words', 'rear']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Rear](/en/post/rear/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [back](/en/post/back/) [part](/en/post/part/) [or](/en/post/or/) [end](/en/post/end/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [when](/en/post/when/) [it](/en/post/it/) comes [to](/en/post/to/) [position](/en/post/position/) [or](/en/post/or/) [location](/en/post/location/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) car's [rear](/en/post/rear/) lights were [visible](/en/post/visible/) [from](/en/post/from/) [a](/en/post/a/) [distance](/en/post/distance/)."
-2. **[Rear](/en/post/rear/)** ([noun](/en/post/noun/), [military](/en/post/military/)): [The](/en/post/the/) [part](/en/post/part/) [of](/en/post/of/) an [army](/en/post/army/) [or](/en/post/or/) [fleet](/en/post/fleet/) [that](/en/post/that/) is situated [behind](/en/post/behind/) [the](/en/post/the/) [main](/en/post/main/) [body](/en/post/body/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [rear](/en/post/rear/) [guard](/en/post/guard/) held [their](/en/post/their/) [ground](/en/post/ground/) [against](/en/post/against/) [the](/en/post/the/) advancing [enemy](/en/post/enemy/)."
-3. **Rear-end**: [The](/en/post/the/) [back](/en/post/back/) [of](/en/post/of/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), typically [used](/en/post/used/) figuratively [to](/en/post/to/) [describe](/en/post/describe/) an [accident](/en/post/accident/) involving [the](/en/post/the/) [back](/en/post/back/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was cited [for](/en/post/for/) rear-ending [another](/en/post/another/) [car](/en/post/car/)."
+### [Noun](/post/noun/)
+1. **[Rear](/post/rear/)** ([noun](/post/noun/)): [The](/post/the/) [back](/post/back/) [part](/post/part/) [or](/post/or/) [end](/post/end/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [when](/post/when/) [it](/post/it/) comes [to](/post/to/) [position](/post/position/) [or](/post/or/) [location](/post/location/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) car's [rear](/post/rear/) lights were [visible](/post/visible/) [from](/post/from/) [a](/post/a/) [distance](/post/distance/)."
+2. **[Rear](/post/rear/)** ([noun](/post/noun/), [military](/post/military/)): [The](/post/the/) [part](/post/part/) [of](/post/of/) an [army](/post/army/) [or](/post/or/) [fleet](/post/fleet/) [that](/post/that/) is situated [behind](/post/behind/) [the](/post/the/) [main](/post/main/) [body](/post/body/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [rear](/post/rear/) [guard](/post/guard/) held [their](/post/their/) [ground](/post/ground/) [against](/post/against/) [the](/post/the/) advancing [enemy](/post/enemy/)."
+3. **Rear-end**: [The](/post/the/) [back](/post/back/) [of](/post/of/) [a](/post/a/) [vehicle](/post/vehicle/), typically [used](/post/used/) figuratively [to](/post/to/) [describe](/post/describe/) an [accident](/post/accident/) involving [the](/post/the/) [back](/post/back/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) was cited [for](/post/for/) rear-ending [another](/post/another/) [car](/post/car/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [place](/en/post/place/) [or](/en/post/or/) [move](/en/post/move/) [something](/en/post/something/) [to](/en/post/to/) [the](/en/post/the/) [back](/en/post/back/) [or](/en/post/or/) [rear](/en/post/rear/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [rear](/en/post/rear/) [the](/en/post/the/) [furniture](/en/post/furniture/) [to](/en/post/to/) [make](/en/post/make/) [more](/en/post/more/) [space](/en/post/space/)."
-2. (figurative) [To](/en/post/to/) [support](/en/post/support/) [or](/en/post/or/) [encourage](/en/post/encourage/) [someone](/en/post/someone/) [from](/en/post/from/) [behind](/en/post/behind/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [his](/en/post/his/) [constant](/en/post/constant/) [emotional](/en/post/emotional/) [rear](/en/post/rear/) [during](/en/post/during/) [their](/en/post/their/) [difficult](/en/post/difficult/) times."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [place](/post/place/) [or](/post/or/) [move](/post/move/) [something](/post/something/) [to](/post/to/) [the](/post/the/) [back](/post/back/) [or](/post/or/) [rear](/post/rear/) [position](/post/position/). [For](/post/for/) [example](/post/example/): "I [need](/post/need/) [to](/post/to/) [rear](/post/rear/) [the](/post/the/) [furniture](/post/furniture/) [to](/post/to/) [make](/post/make/) [more](/post/more/) [space](/post/space/)."
+2. (figurative) [To](/post/to/) [support](/post/support/) [or](/post/or/) [encourage](/post/encourage/) [someone](/post/someone/) [from](/post/from/) [behind](/post/behind/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [his](/post/his/) [constant](/post/constant/) [emotional](/post/emotional/) [rear](/post/rear/) [during](/post/during/) [their](/post/their/) [difficult](/post/difficult/) times."
 
-### [Adjective](/en/post/adjective/)
-1. Located [or](/en/post/or/) situated [at](/en/post/at/) [the](/en/post/the/) [back](/en/post/back/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) has [a](/en/post/a/) [large](/en/post/large/) [rear](/en/post/rear/) [garden](/en/post/garden/)."
-2. Occurring [or](/en/post/or/) coming [after](/en/post/after/) [something](/en/post/something/) [else](/en/post/else/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [meeting](/en/post/meeting/) [will](/en/post/will/) [take](/en/post/take/) [place](/en/post/place/) [in](/en/post/in/) [the](/en/post/the/) [rear](/en/post/rear/) [conference](/en/post/conference/) [room](/en/post/room/)."
+### [Adjective](/post/adjective/)
+1. Located [or](/post/or/) situated [at](/post/at/) [the](/post/the/) [back](/post/back/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [house](/post/house/) has [a](/post/a/) [large](/post/large/) [rear](/post/rear/) [garden](/post/garden/)."
+2. Occurring [or](/post/or/) coming [after](/post/after/) [something](/post/something/) [else](/post/else/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [meeting](/post/meeting/) [will](/post/will/) [take](/post/take/) [place](/post/place/) [in](/post/in/) [the](/post/the/) [rear](/post/rear/) [conference](/post/conference/) [room](/post/room/)."
 
 ## Phrases
-- "[Bring](/en/post/bring/) [something](/en/post/something/) [to](/en/post/to/) [the](/en/post/the/) [rear](/en/post/rear/)" [means](/en/post/means/) [to](/en/post/to/) [move](/en/post/move/) [it](/en/post/it/) [to](/en/post/to/) [the](/en/post/the/) [back](/en/post/back/).
-- "[The](/en/post/the/) [rear](/en/post/rear/) [view](/en/post/view/) [mirror](/en/post/mirror/)" refers [to](/en/post/to/) [the](/en/post/the/) [mirror](/en/post/mirror/) [on](/en/post/on/) [the](/en/post/the/) [back](/en/post/back/) [of](/en/post/of/) [a](/en/post/a/) [vehicle](/en/post/vehicle/).
-- "[Handle](/en/post/handle/) [the](/en/post/the/) [rear](/en/post/rear/)" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [be](/en/post/be/) [responsible](/en/post/responsible/) [for](/en/post/for/) [the](/en/post/the/) [less](/en/post/less/) [visible](/en/post/visible/) [or](/en/post/or/) [less](/en/post/less/) [important](/en/post/important/) aspects [of](/en/post/of/) [a](/en/post/a/) [task](/en/post/task/).
+- "[Bring](/post/bring/) [something](/post/something/) [to](/post/to/) [the](/post/the/) [rear](/post/rear/)" [means](/post/means/) [to](/post/to/) [move](/post/move/) [it](/post/it/) [to](/post/to/) [the](/post/the/) [back](/post/back/).
+- "[The](/post/the/) [rear](/post/rear/) [view](/post/view/) [mirror](/post/mirror/)" refers [to](/post/to/) [the](/post/the/) [mirror](/post/mirror/) [on](/post/on/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [a](/post/a/) [vehicle](/post/vehicle/).
+- "[Handle](/post/handle/) [the](/post/the/) [rear](/post/rear/)" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [be](/post/be/) [responsible](/post/responsible/) [for](/post/for/) [the](/post/the/) [less](/post/less/) [visible](/post/visible/) [or](/post/or/) [less](/post/less/) [important](/post/important/) aspects [of](/post/of/) [a](/post/a/) [task](/post/task/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) leaned [out](/en/post/out/) [the](/en/post/the/) [rear](/en/post/rear/) [window](/en/post/window/) [to](/en/post/to/) [catch](/en/post/catch/) [a](/en/post/a/) [glimpse](/en/post/glimpse/) [of](/en/post/of/) [the](/en/post/the/) [scenery](/en/post/scenery/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) soldiers formed [a](/en/post/a/) [line](/en/post/line/), [with](/en/post/with/) [the](/en/post/the/) [rear](/en/post/rear/) [formation](/en/post/formation/) providing [cover](/en/post/cover/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) had [a](/en/post/a/) cozy [living](/en/post/living/) [room](/en/post/room/) [with](/en/post/with/) [a](/en/post/a/) [comfortable](/en/post/comfortable/) sofa [at](/en/post/at/) [the](/en/post/the/) [rear](/en/post/rear/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) leaned [out](/post/out/) [the](/post/the/) [rear](/post/rear/) [window](/post/window/) [to](/post/to/) [catch](/post/catch/) [a](/post/a/) [glimpse](/post/glimpse/) [of](/post/of/) [the](/post/the/) [scenery](/post/scenery/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) soldiers formed [a](/post/a/) [line](/post/line/), [with](/post/with/) [the](/post/the/) [rear](/post/rear/) [formation](/post/formation/) providing [cover](/post/cover/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) had [a](/post/a/) cozy [living](/post/living/) [room](/post/room/) [with](/post/with/) [a](/post/a/) [comfortable](/post/comfortable/) sofa [at](/post/at/) [the](/post/the/) [rear](/post/rear/)."
 
 ## Synonyms
-- [Back](/en/post/back/)
+- [Back](/post/back/)
 - Rearward
 - Rearwards
-- [Tail](/en/post/tail/)
+- [Tail](/post/tail/)
 - Apex
-- [End](/en/post/end/)
+- [End](/post/end/)
 
 ## Antonyms
-- [Front](/en/post/front/)
+- [Front](/post/front/)
 - Forefront
 - Proximate
-- [Ahead](/en/post/ahead/)
+- [Ahead](/post/ahead/)

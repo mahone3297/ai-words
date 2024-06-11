@@ -7,35 +7,35 @@ description = '[inˈ∫uə] vt.给…保险；确保'
 keywords = ['ai words', 'insure']
 +++
 
-## [Word](/en/post/word/): [Insure](/en/post/insure/)
+## [Word](/post/word/): [Insure](/post/insure/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈʃʊr/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [arrange](/en/post/arrange/) [insurance](/en/post/insurance/) [for](/en/post/for/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [against](/en/post/against/) [loss](/en/post/loss/), [damage](/en/post/damage/), [illness](/en/post/illness/), [death](/en/post/death/), [or](/en/post/or/) [other](/en/post/other/) specified risks; [to](/en/post/to/) [protect](/en/post/protect/) financially [by](/en/post/by/) [means](/en/post/means/) [of](/en/post/of/) an [insurance](/en/post/insurance/) [policy](/en/post/policy/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [insure](/en/post/insure/) [her](/en/post/her/) [car](/en/post/car/) [against](/en/post/against/) theft [and](/en/post/and/) accidents."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [arrange](/post/arrange/) [insurance](/post/insurance/) [for](/post/for/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [against](/post/against/) [loss](/post/loss/), [damage](/post/damage/), [illness](/post/illness/), [death](/post/death/), [or](/post/or/) [other](/post/other/) specified risks; [to](/post/to/) [protect](/post/protect/) financially [by](/post/by/) [means](/post/means/) [of](/post/of/) an [insurance](/post/insurance/) [policy](/post/policy/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [insure](/post/insure/) [her](/post/her/) [car](/post/car/) [against](/post/against/) theft [and](/post/and/) accidents."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): "I [need](/en/post/need/) [to](/en/post/to/) [insure](/en/post/insure/) [my](/en/post/my/) [new](/en/post/new/) [house](/en/post/house/) [against](/en/post/against/) [fire](/en/post/fire/) [and](/en/post/and/) [flood](/en/post/flood/) [damage](/en/post/damage/)."
+[Example](/post/example/) [Sentence](/post/sentence/): "I [need](/post/need/) [to](/post/to/) [insure](/post/insure/) [my](/post/my/) [new](/post/new/) [house](/post/house/) [against](/post/against/) [fire](/post/fire/) [and](/post/and/) [flood](/post/flood/) [damage](/post/damage/)."
 
-- **[Verb](/en/post/verb/)**: (archaic [or](/en/post/or/) [American](/en/post/american/) English) [To](/en/post/to/) [make](/en/post/make/) [certain](/en/post/certain/) [or](/en/post/or/) [secure](/en/post/secure/); [guarantee](/en/post/guarantee/). [For](/en/post/for/) [instance](/en/post/instance/): "[By](/en/post/by/) studying diligently, [he](/en/post/he/) insured [his](/en/post/his/) [success](/en/post/success/) [on](/en/post/on/) [the](/en/post/the/) [exam](/en/post/exam/)."
+- **[Verb](/post/verb/)**: (archaic [or](/post/or/) [American](/post/american/) English) [To](/post/to/) [make](/post/make/) [certain](/post/certain/) [or](/post/or/) [secure](/post/secure/); [guarantee](/post/guarantee/). [For](/post/for/) [instance](/post/instance/): "[By](/post/by/) studying diligently, [he](/post/he/) insured [his](/post/his/) [success](/post/success/) [on](/post/on/) [the](/post/the/) [exam](/post/exam/)."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): "[They](/en/post/they/) took [every](/en/post/every/) [precaution](/en/post/precaution/) [to](/en/post/to/) [insure](/en/post/insure/) [the](/en/post/the/) [safety](/en/post/safety/) [of](/en/post/of/) [the](/en/post/the/) guests."
+[Example](/post/example/) [Sentence](/post/sentence/): "[They](/post/they/) took [every](/post/every/) [precaution](/post/precaution/) [to](/post/to/) [insure](/post/insure/) [the](/post/the/) [safety](/post/safety/) [of](/post/of/) [the](/post/the/) guests."
 
 ## Phrases
-- "[Insure](/en/post/insure/) [against](/en/post/against/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [when](/en/post/when/) talking [about](/en/post/about/) taking [out](/en/post/out/) [insurance](/en/post/insurance/) coverage [for](/en/post/for/) [specific](/en/post/specific/) risks. [Example](/en/post/example/): "We're insuring [against](/en/post/against/) [any](/en/post/any/) [potential](/en/post/potential/) liability issues."
+- "[Insure](/post/insure/) [against](/post/against/)": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [when](/post/when/) talking [about](/post/about/) taking [out](/post/out/) [insurance](/post/insurance/) coverage [for](/post/for/) [specific](/post/specific/) risks. [Example](/post/example/): "We're insuring [against](/post/against/) [any](/post/any/) [potential](/post/potential/) liability issues."
   
-- "[To](/en/post/to/) [be](/en/post/be/) fully insured": [This](/en/post/this/) [means](/en/post/means/) [that](/en/post/that/) [all](/en/post/all/) [possible](/en/post/possible/) risks [or](/en/post/or/) losses [have](/en/post/have/) been covered [by](/en/post/by/) [insurance](/en/post/insurance/) policies. [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is fully insured [against](/en/post/against/) [natural](/en/post/natural/) disasters."
+- "[To](/post/to/) [be](/post/be/) fully insured": [This](/post/this/) [means](/post/means/) [that](/post/that/) [all](/post/all/) [possible](/post/possible/) risks [or](/post/or/) losses [have](/post/have/) been covered [by](/post/by/) [insurance](/post/insurance/) policies. [Example](/post/example/): "[The](/post/the/) [company](/post/company/) is fully insured [against](/post/against/) [natural](/post/natural/) disasters."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([insurance](/en/post/insurance/))**: "[Before](/en/post/before/) traveling [abroad](/en/post/abroad/), [he](/en/post/he/) made [sure](/en/post/sure/) [to](/en/post/to/) [insure](/en/post/insure/) [his](/en/post/his/) [health](/en/post/health/) [for](/en/post/for/) [any](/en/post/any/) [unexpected](/en/post/unexpected/) [medical](/en/post/medical/) emergencies."
-- **[Verb](/en/post/verb/) ([guarantee](/en/post/guarantee/))**: "[His](/en/post/his/) tireless [work](/en/post/work/) ethic insured [him](/en/post/him/) [a](/en/post/a/) [spot](/en/post/spot/) [on](/en/post/on/) [the](/en/post/the/) Olympic [team](/en/post/team/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([insurance](/post/insurance/))**: "[Before](/post/before/) traveling [abroad](/post/abroad/), [he](/post/he/) made [sure](/post/sure/) [to](/post/to/) [insure](/post/insure/) [his](/post/his/) [health](/post/health/) [for](/post/for/) [any](/post/any/) [unexpected](/post/unexpected/) [medical](/post/medical/) emergencies."
+- **[Verb](/post/verb/) ([guarantee](/post/guarantee/))**: "[His](/post/his/) tireless [work](/post/work/) ethic insured [him](/post/him/) [a](/post/a/) [spot](/post/spot/) [on](/post/on/) [the](/post/the/) Olympic [team](/post/team/)."
 
 ## Synonyms
-- [Ensure](/en/post/ensure/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) guaranteeing [something](/en/post/something/))
-- [Protect](/en/post/protect/)
-- [Cover](/en/post/cover/) ([with](/en/post/with/) [insurance](/en/post/insurance/))
+- [Ensure](/post/ensure/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) guaranteeing [something](/post/something/))
+- [Protect](/post/protect/)
+- [Cover](/post/cover/) ([with](/post/with/) [insurance](/post/insurance/))
 - Indemnify
-- [Guarantee](/en/post/guarantee/)
-- [Secure](/en/post/secure/) ([against](/en/post/against/) [risk](/en/post/risk/))
+- [Guarantee](/post/guarantee/)
+- [Secure](/post/secure/) ([against](/post/against/) [risk](/post/risk/))
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) '[ensure](/en/post/ensure/)' is [often](/en/post/often/) confused [with](/en/post/with/) '[insure](/en/post/insure/)', [but](/en/post/but/) [while](/en/post/while/) '[insure](/en/post/insure/)' [generally](/en/post/generally/) relates [to](/en/post/to/) [financial](/en/post/financial/) [protection](/en/post/protection/) [through](/en/post/through/) [insurance](/en/post/insurance/), '[ensure](/en/post/ensure/)' typically [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [certain](/en/post/certain/) [that](/en/post/that/) [something](/en/post/something/) happens [or](/en/post/or/) is [the](/en/post/the/) [case](/en/post/case/). [In](/en/post/in/) [some](/en/post/some/) cases, [especially](/en/post/especially/) [in](/en/post/in/) [American](/en/post/american/) English, '[insure](/en/post/insure/)' [may](/en/post/may/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [mean](/en/post/mean/) '[ensure](/en/post/ensure/)'. [However](/en/post/however/), [this](/en/post/this/) [usage](/en/post/usage/) is considered non-standard [by](/en/post/by/) [some](/en/post/some/) [and](/en/post/and/) is [more](/en/post/more/) [common](/en/post/common/) [in](/en/post/in/) informal contexts.
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) '[ensure](/post/ensure/)' is [often](/post/often/) confused [with](/post/with/) '[insure](/post/insure/)', [but](/post/but/) [while](/post/while/) '[insure](/post/insure/)' [generally](/post/generally/) relates [to](/post/to/) [financial](/post/financial/) [protection](/post/protection/) [through](/post/through/) [insurance](/post/insurance/), '[ensure](/post/ensure/)' typically [means](/post/means/) [to](/post/to/) [make](/post/make/) [certain](/post/certain/) [that](/post/that/) [something](/post/something/) happens [or](/post/or/) is [the](/post/the/) [case](/post/case/). [In](/post/in/) [some](/post/some/) cases, [especially](/post/especially/) [in](/post/in/) [American](/post/american/) English, '[insure](/post/insure/)' [may](/post/may/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [mean](/post/mean/) '[ensure](/post/ensure/)'. [However](/post/however/), [this](/post/this/) [usage](/post/usage/) is considered non-standard [by](/post/by/) [some](/post/some/) [and](/post/and/) is [more](/post/more/) [common](/post/common/) [in](/post/in/) informal contexts.

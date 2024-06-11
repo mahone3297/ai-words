@@ -7,35 +7,35 @@ description = '[bu∫] n.灌木，灌木丛，矮树'
 keywords = ['ai words', 'bush']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bʊʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [bush](/en/post/bush/)** is [a](/en/post/a/) [small](/en/post/small/), low-growing shrub [with](/en/post/with/) [many](/en/post/many/) branches, typically having [thin](/en/post/thin/), [usually](/en/post/usually/) [green](/en/post/green/) leaves [and](/en/post/and/) [often](/en/post/often/) bearing flowers [or](/en/post/or/) [fruit](/en/post/fruit/). [Example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was filled [with](/en/post/with/) [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) colorful bushes."
-- **[A](/en/post/a/) bushy [plant](/en/post/plant/)** refers [to](/en/post/to/) [a](/en/post/a/) [plant](/en/post/plant/) with茂密的枝叶. [Example](/en/post/example/): "[The](/en/post/the/) evergreen bushy shrubs [provided](/en/post/provided/) privacy [for](/en/post/for/) [the](/en/post/the/) backyard."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [bush](/post/bush/)** is [a](/post/a/) [small](/post/small/), low-growing shrub [with](/post/with/) [many](/post/many/) branches, typically having [thin](/post/thin/), [usually](/post/usually/) [green](/post/green/) leaves [and](/post/and/) [often](/post/often/) bearing flowers [or](/post/or/) [fruit](/post/fruit/). [Example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) [a](/post/a/) [variety](/post/variety/) [of](/post/of/) colorful bushes."
+- **[A](/post/a/) bushy [plant](/post/plant/)** refers [to](/post/to/) [a](/post/a/) [plant](/post/plant/) with茂密的枝叶. [Example](/post/example/): "[The](/post/the/) evergreen bushy shrubs [provided](/post/provided/) privacy [for](/post/for/) [the](/post/the/) backyard."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) **[bush](/en/post/bush/)** (informal) [means](/en/post/means/) [to](/en/post/to/) [grow](/en/post/grow/) [or](/en/post/or/) [spread](/en/post/spread/) [rapidly](/en/post/rapidly/), [often](/en/post/often/) [used](/en/post/used/) metaphorically. [Example](/en/post/example/): "[The](/en/post/the/) [vine](/en/post/vine/) [quickly](/en/post/quickly/) bushed [along](/en/post/along/) [the](/en/post/the/) [fence](/en/post/fence/)."
-- [In](/en/post/in/) [some](/en/post/some/) contexts, [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) grooming [action](/en/post/action/) [for](/en/post/for/) animals, [like](/en/post/like/) trimming [their](/en/post/their/) [fur](/en/post/fur/). [Example](/en/post/example/): "[The](/en/post/the/) veterinarian is bushing [the](/en/post/the/) dog's [coat](/en/post/coat/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) **[bush](/post/bush/)** (informal) [means](/post/means/) [to](/post/to/) [grow](/post/grow/) [or](/post/or/) [spread](/post/spread/) [rapidly](/post/rapidly/), [often](/post/often/) [used](/post/used/) metaphorically. [Example](/post/example/): "[The](/post/the/) [vine](/post/vine/) [quickly](/post/quickly/) bushed [along](/post/along/) [the](/post/the/) [fence](/post/fence/)."
+- [In](/post/in/) [some](/post/some/) contexts, [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) grooming [action](/post/action/) [for](/post/for/) animals, [like](/post/like/) trimming [their](/post/their/) [fur](/post/fur/). [Example](/post/example/): "[The](/post/the/) veterinarian is bushing [the](/post/the/) dog's [coat](/post/coat/)."
 
-### [Adjective](/en/post/adjective/)
-- **Bushy** describes [something](/en/post/something/) [that](/en/post/that/) is densely filled [with](/en/post/with/) foliage [or](/en/post/or/) branches. [Example](/en/post/example/): "[The](/en/post/the/) [forest](/en/post/forest/) had [a](/en/post/a/) [dense](/en/post/dense/), bushy undergrowth."
-- **Bushy-haired** is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [with](/en/post/with/) [thick](/en/post/thick/), unruly [hair](/en/post/hair/). [Example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) had [a](/en/post/a/) [wild](/en/post/wild/), bushy-haired [appearance](/en/post/appearance/)."
+### [Adjective](/post/adjective/)
+- **Bushy** describes [something](/post/something/) [that](/post/that/) is densely filled [with](/post/with/) foliage [or](/post/or/) branches. [Example](/post/example/): "[The](/post/the/) [forest](/post/forest/) had [a](/post/a/) [dense](/post/dense/), bushy undergrowth."
+- **Bushy-haired** is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [with](/post/with/) [thick](/post/thick/), unruly [hair](/post/hair/). [Example](/post/example/): "[The](/post/the/) [child](/post/child/) had [a](/post/a/) [wild](/post/wild/), bushy-haired [appearance](/post/appearance/)."
 
 ## Phrases
-- "[To](/en/post/to/) [bush](/en/post/bush/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) [grow](/en/post/grow/) [or](/en/post/or/) [develop](/en/post/develop/) [quickly](/en/post/quickly/).
-- "[A](/en/post/a/) bushel [of](/en/post/of/) berries" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [for](/en/post/for/) [a](/en/post/a/) [large](/en/post/large/) [quantity](/en/post/quantity/) [of](/en/post/of/) [them](/en/post/them/).
-- "[Clear](/en/post/clear/) [the](/en/post/the/) [bush](/en/post/bush/)" is [a](/en/post/a/) sailing [term](/en/post/term/) [for](/en/post/for/) navigating [through](/en/post/through/) [dense](/en/post/dense/) vegetation.
+- "[To](/post/to/) [bush](/post/bush/) [up](/post/up/)" [means](/post/means/) [to](/post/to/) [grow](/post/grow/) [or](/post/or/) [develop](/post/develop/) [quickly](/post/quickly/).
+- "[A](/post/a/) bushel [of](/post/of/) berries" is [a](/post/a/) colloquial [expression](/post/expression/) [for](/post/for/) [a](/post/a/) [large](/post/large/) [quantity](/post/quantity/) [of](/post/of/) [them](/post/them/).
+- "[Clear](/post/clear/) [the](/post/the/) [bush](/post/bush/)" is [a](/post/a/) sailing [term](/post/term/) [for](/post/for/) navigating [through](/post/through/) [dense](/post/dense/) vegetation.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) pruned [the](/en/post/the/) overgrown bushes [to](/en/post/to/) [let](/en/post/let/) [in](/en/post/in/) [more](/en/post/more/) [sunlight](/en/post/sunlight/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [rain](/en/post/rain/), [the](/en/post/the/) plants seemed [to](/en/post/to/) [bush](/en/post/bush/) [overnight](/en/post/overnight/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) bushy [hedge](/en/post/hedge/) [provided](/en/post/provided/) [a](/en/post/a/) cozy backdrop [for](/en/post/for/) [the](/en/post/the/) [garden](/en/post/garden/) [path](/en/post/path/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [gardener](/post/gardener/) pruned [the](/post/the/) overgrown bushes [to](/post/to/) [let](/post/let/) [in](/post/in/) [more](/post/more/) [sunlight](/post/sunlight/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [rain](/post/rain/), [the](/post/the/) plants seemed [to](/post/to/) [bush](/post/bush/) [overnight](/post/overnight/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) bushy [hedge](/post/hedge/) [provided](/post/provided/) [a](/post/a/) cozy backdrop [for](/post/for/) [the](/post/the/) [garden](/post/garden/) [path](/post/path/)."
 
 ## Synonyms
 - Undergrowth
 - Scrub
-- [Dense](/en/post/dense/)
+- [Dense](/post/dense/)
 - Untrimmed
-- Hairy ([in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) hairiness)
+- Hairy ([in](/post/in/) [reference](/post/reference/) [to](/post/to/) hairiness)

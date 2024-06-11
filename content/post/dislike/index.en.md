@@ -7,34 +7,34 @@ description = '[disˈlaik] vt.&n.不喜爱，厌恶'
 keywords = ['ai words', 'dislike']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪsˈlaɪk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) aversion [or](/en/post/or/) disapproval towards [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [dislike](/en/post/dislike/) [for](/en/post/for/) spinach was [well-known](/en/post/well-known/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [negative](/en/post/negative/) [feeling](/en/post/feeling/) [or](/en/post/or/) [preference](/en/post/preference/) towards; [to](/en/post/to/) [object](/en/post/object/) [to](/en/post/to/). [For](/en/post/for/) [example](/en/post/example/): "I [dislike](/en/post/dislike/) [the](/en/post/the/) [way](/en/post/way/) [he](/en/post/he/) [always](/en/post/always/) interrupts."
-- **[Adjective](/en/post/adjective/)**: Expressing [or](/en/post/or/) showing disapproval [or](/en/post/or/) aversion. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [expression](/en/post/expression/) showed [a](/en/post/a/) [strong](/en/post/strong/) [dislike](/en/post/dislike/) [for](/en/post/for/) [the](/en/post/the/) [proposal](/en/post/proposal/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) aversion [or](/post/or/) disapproval towards [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [dislike](/post/dislike/) [for](/post/for/) spinach was [well-known](/post/well-known/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [negative](/post/negative/) [feeling](/post/feeling/) [or](/post/or/) [preference](/post/preference/) towards; [to](/post/to/) [object](/post/object/) [to](/post/to/). [For](/post/for/) [example](/post/example/): "I [dislike](/post/dislike/) [the](/post/the/) [way](/post/way/) [he](/post/he/) [always](/post/always/) interrupts."
+- **[Adjective](/post/adjective/)**: Expressing [or](/post/or/) showing disapproval [or](/post/or/) aversion. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [expression](/post/expression/) showed [a](/post/a/) [strong](/post/strong/) [dislike](/post/dislike/) [for](/post/for/) [the](/post/the/) [proposal](/post/proposal/)."
 
 ## Phrases
-- "[Dislike](/en/post/dislike/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) an unfavorable [opinion](/en/post/opinion/) [or](/en/post/or/) [feeling](/en/post/feeling/) towards [it](/en/post/it/).
-- "[A](/en/post/a/) [dislike](/en/post/dislike/) [for](/en/post/for/)..." indicates [a](/en/post/a/) [specific](/en/post/specific/) aversion [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [thing](/en/post/thing/).
-- "[In](/en/post/in/) spite [of](/en/post/of/) [her](/en/post/her/) [dislike](/en/post/dislike/)..." suggests [that](/en/post/that/) [someone](/en/post/someone/) does [something](/en/post/something/) [despite](/en/post/despite/) having [a](/en/post/a/) [negative](/en/post/negative/) [feeling](/en/post/feeling/).
+- "[Dislike](/post/dislike/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) an unfavorable [opinion](/post/opinion/) [or](/post/or/) [feeling](/post/feeling/) towards [it](/post/it/).
+- "[A](/post/a/) [dislike](/post/dislike/) [for](/post/for/)..." indicates [a](/post/a/) [specific](/post/specific/) aversion [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [thing](/post/thing/).
+- "[In](/post/in/) spite [of](/post/of/) [her](/post/her/) [dislike](/post/dislike/)..." suggests [that](/post/that/) [someone](/post/someone/) does [something](/post/something/) [despite](/post/despite/) having [a](/post/a/) [negative](/post/negative/) [feeling](/post/feeling/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [dislike](/en/post/dislike/) [for](/en/post/for/) [loud](/en/post/loud/) [music](/en/post/music/) made [it](/en/post/it/) [hard](/en/post/hard/) [for](/en/post/for/) [her](/en/post/her/) [to](/en/post/to/) [concentrate](/en/post/concentrate/)."
-- **[Verb](/en/post/verb/)**: "I [dislike](/en/post/dislike/) [being](/en/post/being/) treated unfairly [at](/en/post/at/) [work](/en/post/work/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [dislike](/en/post/dislike/) [for](/en/post/for/) spicy [food](/en/post/food/) was [evident](/en/post/evident/) [in](/en/post/in/) [his](/en/post/his/) [choice](/en/post/choice/) [of](/en/post/of/) meals."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [dislike](/post/dislike/) [for](/post/for/) [loud](/post/loud/) [music](/post/music/) made [it](/post/it/) [hard](/post/hard/) [for](/post/for/) [her](/post/her/) [to](/post/to/) [concentrate](/post/concentrate/)."
+- **[Verb](/post/verb/)**: "I [dislike](/post/dislike/) [being](/post/being/) treated unfairly [at](/post/at/) [work](/post/work/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [dislike](/post/dislike/) [for](/post/for/) spicy [food](/post/food/) was [evident](/post/evident/) [in](/post/in/) [his](/post/his/) [choice](/post/choice/) [of](/post/of/) meals."
 
 ## Synonyms
-- [Hatred](/en/post/hatred/)
+- [Hatred](/post/hatred/)
 - Repulsion
 - Antipathy
 - Aversion
 - Disfavor
 
 ## Antonyms
-- [Love](/en/post/love/)
+- [Love](/post/love/)
 - Favor
 - Appreciation
 - Admiration
-- [Affection](/en/post/affection/)
+- [Affection](/post/affection/)

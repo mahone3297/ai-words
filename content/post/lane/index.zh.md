@@ -11,20 +11,20 @@ keywords = ['ai words', 'lane']
 /leɪn/
 
 ## 释义
-- **名词**: 一条狭窄的道路或路径，通常在公路、运动场或游泳池中。例如: "[The](/post/the/) cars were driving [in](/post/in/) [separate](/post/separate/) lanes [on](/post/on/) [the](/post/the/) [highway](/post/highway/)."
-- **名词**: (体育)跑道的一条分道。例如: "[Each](/post/each/) [athlete](/post/athlete/) had [their](/post/their/) [own](/post/own/) [lane](/post/lane/) [for](/post/for/) [the](/post/the/) 100-meter [dash](/post/dash/)."
+- **名词**: 一条狭窄的道路或路径，通常在公路、运动场或游泳池中。例如: "[The](/zh/post/the/) cars were driving [in](/zh/post/in/) [separate](/zh/post/separate/) lanes [on](/zh/post/on/) [the](/zh/post/the/) [highway](/zh/post/highway/)."
+- **名词**: (体育)跑道的一条分道。例如: "[Each](/zh/post/each/) [athlete](/zh/post/athlete/) had [their](/zh/post/their/) [own](/zh/post/own/) [lane](/zh/post/lane/) [for](/zh/post/for/) [the](/zh/post/the/) 100-meter [dash](/zh/post/dash/)."
 
 ## 短语
-- "[lane](/post/lane/) [change](/post/change/)" 指车辆在道路上变换车道。
-- "swimming [lane](/post/lane/)" 是游泳池中的分道线，供游泳者保持直线。
+- "[lane](/zh/post/lane/) [change](/zh/post/change/)" 指车辆在道路上变换车道。
+- "swimming [lane](/zh/post/lane/)" 是游泳池中的分道线，供游泳者保持直线。
 
 ## 例句
-- "[The](/post/the/) cyclists rode [safely](/post/safely/) [in](/post/in/) [their](/post/their/) designated lanes."
-- "[She](/post/she/) was [in](/post/in/) [lane](/post/lane/) [three](/post/three/) [during](/post/during/) [the](/post/the/) swimming [competition](/post/competition/)."
+- "[The](/zh/post/the/) cyclists rode [safely](/zh/post/safely/) [in](/zh/post/in/) [their](/zh/post/their/) designated lanes."
+- "[She](/zh/post/she/) was [in](/zh/post/in/) [lane](/zh/post/lane/) [three](/zh/post/three/) [during](/zh/post/during/) [the](/zh/post/the/) swimming [competition](/zh/post/competition/)."
 
 ## 同义词
-- [Path](/post/path/)
-- [Track](/post/track/)
-- [Route](/post/route/)
-- [Passage](/post/passage/)
-- [Corridor](/post/corridor/)
+- [Path](/zh/post/path/)
+- [Track](/zh/post/track/)
+- [Route](/zh/post/route/)
+- [Passage](/zh/post/passage/)
+- [Corridor](/zh/post/corridor/)

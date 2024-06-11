@@ -11,20 +11,20 @@ keywords = ['ai words', 'occurrence']
 /əˈkɜːrəns/
 
 ## 释义
-- **名词**: 发生；出现；事件；存在。例如: "[There](/post/there/) [have](/post/have/) been [several](/post/several/) occurrences [of](/post/of/) theft [in](/post/in/) [the](/post/the/) [area](/post/area/) [lately](/post/lately/)."
-- **动词**: 发生；出现。例如: "[The](/post/the/) [occurrence](/post/occurrence/) [of](/post/of/) [natural](/post/natural/) disasters has increased [over](/post/over/) [the](/post/the/) [past](/post/past/) [decade](/post/decade/)."
+- **名词**: 发生；出现；事件；存在。例如: "[There](/zh/post/there/) [have](/zh/post/have/) been [several](/zh/post/several/) occurrences [of](/zh/post/of/) theft [in](/zh/post/in/) [the](/zh/post/the/) [area](/zh/post/area/) [lately](/zh/post/lately/)."
+- **动词**: 发生；出现。例如: "[The](/zh/post/the/) [occurrence](/zh/post/occurrence/) [of](/zh/post/of/) [natural](/zh/post/natural/) disasters has increased [over](/zh/post/over/) [the](/zh/post/the/) [past](/zh/post/past/) [decade](/zh/post/decade/)."
 
 ## 短语
-- "[Frequency](/post/frequency/) [of](/post/of/) [occurrence](/post/occurrence/)" 表示发生的频率或次数。
-- "[Unexpected](/post/unexpected/) [occurrence](/post/occurrence/)" 指的是意外发生的事情。
+- "[Frequency](/zh/post/frequency/) [of](/zh/post/of/) [occurrence](/zh/post/occurrence/)" 表示发生的频率或次数。
+- "[Unexpected](/zh/post/unexpected/) [occurrence](/zh/post/occurrence/)" 指的是意外发生的事情。
 
 ## 例句
-- 名词: "[The](/post/the/) [police](/post/police/) are investigating [the](/post/the/) [occurrence](/post/occurrence/) [of](/post/of/) [a](/post/a/) break-in [at](/post/at/) [the](/post/the/) [local](/post/local/) [store](/post/store/)."
-- 动词: "An [unusual](/post/unusual/) [occurrence](/post/occurrence/) took [place](/post/place/) [during](/post/during/) [the](/post/the/) [experiment](/post/experiment/)."
+- 名词: "[The](/zh/post/the/) [police](/zh/post/police/) are investigating [the](/zh/post/the/) [occurrence](/zh/post/occurrence/) [of](/zh/post/of/) [a](/zh/post/a/) break-in [at](/zh/post/at/) [the](/zh/post/the/) [local](/zh/post/local/) [store](/zh/post/store/)."
+- 动词: "An [unusual](/zh/post/unusual/) [occurrence](/zh/post/occurrence/) took [place](/zh/post/place/) [during](/zh/post/during/) [the](/zh/post/the/) [experiment](/zh/post/experiment/)."
 
 ## 同义词
-- [Incident](/post/incident/)
-- [Event](/post/event/)
+- [Incident](/zh/post/incident/)
+- [Event](/zh/post/event/)
 - Happening
-- [Occasion](/post/occasion/)
-- [Case](/post/case/)
+- [Occasion](/zh/post/occasion/)
+- [Case](/zh/post/case/)

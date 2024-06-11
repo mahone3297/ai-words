@@ -7,35 +7,35 @@ description = '[ˈkɔpi] n.抄件 vt.抄写，复制'
 keywords = ['ai words', 'copy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/kəˈpɪ/ (UK) [or](/en/post/or/) /ˈkɑːpi/ ([US](/en/post/us/))
+## [Pronunciation](/post/pronunciation/)
+/kəˈpɪ/ (UK) [or](/post/or/) /ˈkɑːpi/ ([US](/post/us/))
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) printed [or](/en/post/or/) written reproduction [of](/en/post/of/) [a](/en/post/a/) [document](/en/post/document/), artwork, [or](/en/post/or/) [text](/en/post/text/), typically produced [for](/en/post/for/) [distribution](/en/post/distribution/) [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) backup.
-   - [Example](/en/post/example/): "I made [several](/en/post/several/) copies [of](/en/post/of/) [the](/en/post/the/) [report](/en/post/report/) [before](/en/post/before/) submitting [it](/en/post/it/) [to](/en/post/to/) [the](/en/post/the/) [boss](/en/post/boss/)."
-2. [A](/en/post/a/) duplicate [or](/en/post/or/) imitation, [especially](/en/post/especially/) [of](/en/post/of/) [something](/en/post/something/) [original](/en/post/original/) [or](/en/post/or/) [valuable](/en/post/valuable/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) bought [a](/en/post/a/) vintage poster [as](/en/post/as/) [a](/en/post/a/) [copy](/en/post/copy/) [of](/en/post/of/) [the](/en/post/the/) [original](/en/post/original/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) printed [or](/post/or/) written reproduction [of](/post/of/) [a](/post/a/) [document](/post/document/), artwork, [or](/post/or/) [text](/post/text/), typically produced [for](/post/for/) [distribution](/post/distribution/) [or](/post/or/) [as](/post/as/) [a](/post/a/) backup.
+   - [Example](/post/example/): "I made [several](/post/several/) copies [of](/post/of/) [the](/post/the/) [report](/post/report/) [before](/post/before/) submitting [it](/post/it/) [to](/post/to/) [the](/post/the/) [boss](/post/boss/)."
+2. [A](/post/a/) duplicate [or](/post/or/) imitation, [especially](/post/especially/) [of](/post/of/) [something](/post/something/) [original](/post/original/) [or](/post/or/) [valuable](/post/valuable/).
+   - [Example](/post/example/): "[She](/post/she/) bought [a](/post/a/) vintage poster [as](/post/as/) [a](/post/a/) [copy](/post/copy/) [of](/post/of/) [the](/post/the/) [original](/post/original/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) duplicate [or](/en/post/or/) reproduction [of](/en/post/of/) [something](/en/post/something/), [usually](/en/post/usually/) using [a](/en/post/a/) copying [machine](/en/post/machine/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [secretary](/en/post/secretary/) copied [the](/en/post/the/) documents [onto](/en/post/onto/) [the](/en/post/the/) [computer](/en/post/computer/)."
-2. [To](/en/post/to/) [take](/en/post/take/) notes [or](/en/post/or/) [write](/en/post/write/) [down](/en/post/down/), [especially](/en/post/especially/) [while](/en/post/while/) [reading](/en/post/reading/) [or](/en/post/or/) listening.
-   - [Example](/en/post/example/): "[She](/en/post/she/) copied [down](/en/post/down/) [the](/en/post/the/) [important](/en/post/important/) points [from](/en/post/from/) [the](/en/post/the/) [lecture](/en/post/lecture/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [make](/post/make/) [a](/post/a/) duplicate [or](/post/or/) reproduction [of](/post/of/) [something](/post/something/), [usually](/post/usually/) using [a](/post/a/) copying [machine](/post/machine/).
+   - [Example](/post/example/): "[The](/post/the/) [secretary](/post/secretary/) copied [the](/post/the/) documents [onto](/post/onto/) [the](/post/the/) [computer](/post/computer/)."
+2. [To](/post/to/) [take](/post/take/) notes [or](/post/or/) [write](/post/write/) [down](/post/down/), [especially](/post/especially/) [while](/post/while/) [reading](/post/reading/) [or](/post/or/) listening.
+   - [Example](/post/example/): "[She](/post/she/) copied [down](/post/down/) [the](/post/the/) [important](/post/important/) points [from](/post/from/) [the](/post/the/) [lecture](/post/lecture/)."
 
-### [Adjective](/en/post/adjective/)
-1. [Concerning](/en/post/concerning/) [or](/en/post/or/) relating [to](/en/post/to/) [a](/en/post/a/) duplication [or](/en/post/or/) reproduction.
-   - [Example](/en/post/example/): "[A](/en/post/a/) copyright infringement is an [act](/en/post/act/) [that](/en/post/that/) copies protected [work](/en/post/work/) [without](/en/post/without/) [permission](/en/post/permission/)."
+### [Adjective](/post/adjective/)
+1. [Concerning](/post/concerning/) [or](/post/or/) relating [to](/post/to/) [a](/post/a/) duplication [or](/post/or/) reproduction.
+   - [Example](/post/example/): "[A](/post/a/) copyright infringement is an [act](/post/act/) [that](/post/that/) copies protected [work](/post/work/) [without](/post/without/) [permission](/post/permission/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [copy](/en/post/copy/)" [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) duplicate.
-- "[Keep](/en/post/keep/) [a](/en/post/a/) [copy](/en/post/copy/) [for](/en/post/for/) [yourself](/en/post/yourself/)" suggests retaining [a](/en/post/a/) duplicate [for](/en/post/for/) [personal](/en/post/personal/) [record](/en/post/record/).
-- "[Original](/en/post/original/) [and](/en/post/and/) [copy](/en/post/copy/)" contrasts [the](/en/post/the/) [original](/en/post/original/) [with](/en/post/with/) [its](/en/post/its/) reproduction.
+- "[Make](/post/make/) [a](/post/a/) [copy](/post/copy/)" [means](/post/means/) [to](/post/to/) [create](/post/create/) [a](/post/a/) duplicate.
+- "[Keep](/post/keep/) [a](/post/a/) [copy](/post/copy/) [for](/post/for/) [yourself](/post/yourself/)" suggests retaining [a](/post/a/) duplicate [for](/post/for/) [personal](/post/personal/) [record](/post/record/).
+- "[Original](/post/original/) [and](/post/and/) [copy](/post/copy/)" contrasts [the](/post/the/) [original](/post/original/) [with](/post/with/) [its](/post/its/) reproduction.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [need](/en/post/need/) [to](/en/post/to/) [make](/en/post/make/) [three](/en/post/three/) copies [of](/en/post/of/) [the](/en/post/the/) [contract](/en/post/contract/) [for](/en/post/for/) [each](/en/post/each/) client."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) copied [her](/en/post/her/) friend's [essay](/en/post/essay/), [but](/en/post/but/) [it](/en/post/it/) was [quickly](/en/post/quickly/) discovered."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [museum](/en/post/museum/) has an [impressive](/en/post/impressive/) [collection](/en/post/collection/) [of](/en/post/of/) [original](/en/post/original/) paintings [and](/en/post/and/) [their](/en/post/their/) copies."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [need](/post/need/) [to](/post/to/) [make](/post/make/) [three](/post/three/) copies [of](/post/of/) [the](/post/the/) [contract](/post/contract/) [for](/post/for/) [each](/post/each/) client."
+- **[Verb](/post/verb/)**: "[She](/post/she/) copied [her](/post/her/) friend's [essay](/post/essay/), [but](/post/but/) [it](/post/it/) was [quickly](/post/quickly/) discovered."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [museum](/post/museum/) has an [impressive](/post/impressive/) [collection](/post/collection/) [of](/post/of/) [original](/post/original/) paintings [and](/post/and/) [their](/post/their/) copies."
 
 ## Synonyms
 - Reproduction
@@ -45,6 +45,6 @@ keywords = ['ai words', 'copy']
 - Mimicry
 
 ## Antonyms
-- [Original](/en/post/original/)
-- [Unique](/en/post/unique/)
+- [Original](/post/original/)
+- [Unique](/post/unique/)
 - Authentic

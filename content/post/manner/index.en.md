@@ -7,32 +7,32 @@ description = '[ˈmænə] n.方式；态度；礼貌'
 keywords = ['ai words', 'manner']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmænər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [way](/en/post/way/) [in](/en/post/in/) [which](/en/post/which/) [something](/en/post/something/) is done, conducted, [or](/en/post/or/) performed; [a](/en/post/a/) [mode](/en/post/mode/) [of](/en/post/of/) [action](/en/post/action/), [behavior](/en/post/behavior/), [or](/en/post/or/) [conduct](/en/post/conduct/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) did [it](/en/post/it/) [in](/en/post/in/) [a](/en/post/a/) [polite](/en/post/polite/) [manner](/en/post/manner/)."
-  - [Also](/en/post/also/) refers [to](/en/post/to/) [a](/en/post/a/) person's habits, bearing, [or](/en/post/or/) [way](/en/post/way/) [of](/en/post/of/) conducting [themselves](/en/post/themselves/): "[His](/en/post/his/) gentlemanly [manner](/en/post/manner/) impressed [everyone](/en/post/everyone/)."
-- **[Noun](/en/post/noun/) (archaic)**: [A](/en/post/a/) [way](/en/post/way/) [of](/en/post/of/) acting [or](/en/post/or/) behaving [that](/en/post/that/) conforms [to](/en/post/to/) socially accepted norms [or](/en/post/or/) etiquette: "[They](/en/post/they/) were taught [good](/en/post/good/) manners [from](/en/post/from/) [a](/en/post/a/) [young](/en/post/young/) [age](/en/post/age/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [way](/post/way/) [in](/post/in/) [which](/post/which/) [something](/post/something/) is done, conducted, [or](/post/or/) performed; [a](/post/a/) [mode](/post/mode/) [of](/post/of/) [action](/post/action/), [behavior](/post/behavior/), [or](/post/or/) [conduct](/post/conduct/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) did [it](/post/it/) [in](/post/in/) [a](/post/a/) [polite](/post/polite/) [manner](/post/manner/)."
+  - [Also](/post/also/) refers [to](/post/to/) [a](/post/a/) person's habits, bearing, [or](/post/or/) [way](/post/way/) [of](/post/of/) conducting [themselves](/post/themselves/): "[His](/post/his/) gentlemanly [manner](/post/manner/) impressed [everyone](/post/everyone/)."
+- **[Noun](/post/noun/) (archaic)**: [A](/post/a/) [way](/post/way/) [of](/post/of/) acting [or](/post/or/) behaving [that](/post/that/) conforms [to](/post/to/) socially accepted norms [or](/post/or/) etiquette: "[They](/post/they/) were taught [good](/post/good/) manners [from](/post/from/) [a](/post/a/) [young](/post/young/) [age](/post/age/)."
 
 ## Phrases
-- "[In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [of](/en/post/of/) speaking": Indicating [that](/en/post/that/) [what](/en/post/what/) is said [should](/en/post/should/) [not](/en/post/not/) [be](/en/post/be/) taken [too](/en/post/too/) literally. [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [of](/en/post/of/) speaking, [he](/en/post/he/) was [right](/en/post/right/)."
-- "Mannerisms": [The](/en/post/the/) distinctive ways [in](/en/post/in/) [which](/en/post/which/) [a](/en/post/a/) [person](/en/post/person/) behaves [or](/en/post/or/) moves, [especially](/en/post/especially/) [if](/en/post/if/) [these](/en/post/these/) are considered [to](/en/post/to/) [be](/en/post/be/) [peculiar](/en/post/peculiar/) [or](/en/post/or/) affected.
-- "[Good](/en/post/good/) manners": Refers [to](/en/post/to/) [polite](/en/post/polite/) [social](/en/post/social/) [behavior](/en/post/behavior/) [and](/en/post/and/) [conduct](/en/post/conduct/).
+- "[In](/post/in/) [a](/post/a/) [manner](/post/manner/) [of](/post/of/) speaking": Indicating [that](/post/that/) [what](/post/what/) is said [should](/post/should/) [not](/post/not/) [be](/post/be/) taken [too](/post/too/) literally. [For](/post/for/) [example](/post/example/): "[In](/post/in/) [a](/post/a/) [manner](/post/manner/) [of](/post/of/) speaking, [he](/post/he/) was [right](/post/right/)."
+- "Mannerisms": [The](/post/the/) distinctive ways [in](/post/in/) [which](/post/which/) [a](/post/a/) [person](/post/person/) behaves [or](/post/or/) moves, [especially](/post/especially/) [if](/post/if/) [these](/post/these/) are considered [to](/post/to/) [be](/post/be/) [peculiar](/post/peculiar/) [or](/post/or/) affected.
+- "[Good](/post/good/) manners": Refers [to](/post/to/) [polite](/post/polite/) [social](/post/social/) [behavior](/post/behavior/) [and](/post/and/) [conduct](/post/conduct/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) completed [the](/en/post/the/) [task](/en/post/task/) [with](/en/post/with/) [great](/en/post/great/) [efficiency](/en/post/efficiency/) [and](/en/post/and/) professionalism, showing [her](/en/post/her/) impeccable [work](/en/post/work/) [manner](/en/post/manner/)."
-- **[Noun](/en/post/noun/) ([behavior](/en/post/behavior/))**: "[His](/en/post/his/) [quiet](/en/post/quiet/) [and](/en/post/and/) unassuming [manner](/en/post/manner/) made [him](/en/post/him/) [popular](/en/post/popular/) [among](/en/post/among/) [his](/en/post/his/) colleagues."
-- **[Noun](/en/post/noun/) (archaic)**: "[Their](/en/post/their/) upbringing ensured [they](/en/post/they/) displayed [the](/en/post/the/) [utmost](/en/post/utmost/) courtesy [and](/en/post/and/) [good](/en/post/good/) manners [at](/en/post/at/) [all](/en/post/all/) times."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) completed [the](/post/the/) [task](/post/task/) [with](/post/with/) [great](/post/great/) [efficiency](/post/efficiency/) [and](/post/and/) professionalism, showing [her](/post/her/) impeccable [work](/post/work/) [manner](/post/manner/)."
+- **[Noun](/post/noun/) ([behavior](/post/behavior/))**: "[His](/post/his/) [quiet](/post/quiet/) [and](/post/and/) unassuming [manner](/post/manner/) made [him](/post/him/) [popular](/post/popular/) [among](/post/among/) [his](/post/his/) colleagues."
+- **[Noun](/post/noun/) (archaic)**: "[Their](/post/their/) upbringing ensured [they](/post/they/) displayed [the](/post/the/) [utmost](/post/utmost/) courtesy [and](/post/and/) [good](/post/good/) manners [at](/post/at/) [all](/post/all/) times."
 
 ## Synonyms
-- [Way](/en/post/way/)
-- [Fashion](/en/post/fashion/)
-- [Style](/en/post/style/)
-- [Method](/en/post/method/)
-- [Approach](/en/post/approach/)
+- [Way](/post/way/)
+- [Fashion](/post/fashion/)
+- [Style](/post/style/)
+- [Method](/post/method/)
+- [Approach](/post/approach/)
 - Bearing
-- [Conduct](/en/post/conduct/)
+- [Conduct](/post/conduct/)
 - Etiquette
-- [Behavior](/en/post/behavior/)
-- Customary [practice](/en/post/practice/)
+- [Behavior](/post/behavior/)
+- Customary [practice](/post/practice/)

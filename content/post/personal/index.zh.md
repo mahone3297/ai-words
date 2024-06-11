@@ -11,23 +11,23 @@ keywords = ['ai words', 'personal']
 /pərˈsənl/
 
 ## 释义
-- **形容词**: 个人的，私人的，涉及个人特性的。例如: "[This](/post/this/) is [a](/post/a/) [personal](/post/personal/) [matter](/post/matter/) [and](/post/and/) [should](/post/should/) [not](/post/not/) [be](/post/be/) discussed publicly."
-- **名词**: 个人助手，秘书。例如: "[She](/post/she/) works [as](/post/as/) [his](/post/his/) [personal](/post/personal/) [assistant](/post/assistant/)."
-- **名词**: 个性，人格。例如: "[Each](/post/each/) [person](/post/person/) has [their](/post/their/) [own](/post/own/) [unique](/post/unique/) [personal](/post/personal/) [style](/post/style/)."
+- **形容词**: 个人的，私人的，涉及个人特性的。例如: "[This](/zh/post/this/) is [a](/zh/post/a/) [personal](/zh/post/personal/) [matter](/zh/post/matter/) [and](/zh/post/and/) [should](/zh/post/should/) [not](/zh/post/not/) [be](/zh/post/be/) discussed publicly."
+- **名词**: 个人助手，秘书。例如: "[She](/zh/post/she/) works [as](/zh/post/as/) [his](/zh/post/his/) [personal](/zh/post/personal/) [assistant](/zh/post/assistant/)."
+- **名词**: 个性，人格。例如: "[Each](/zh/post/each/) [person](/zh/post/person/) has [their](/zh/post/their/) [own](/zh/post/own/) [unique](/zh/post/unique/) [personal](/zh/post/personal/) [style](/zh/post/style/)."
 
 ## 短语
-- "[Personal](/post/personal/) belongings" 意为个人物品。
-- "[Personal](/post/personal/) [space](/post/space/)" 指的是个人的私人空间或领域。
-- "[Personal](/post/personal/) [relationship](/post/relationship/)" 指的是个人关系，如友谊或家庭关系。
+- "[Personal](/zh/post/personal/) belongings" 意为个人物品。
+- "[Personal](/zh/post/personal/) [space](/zh/post/space/)" 指的是个人的私人空间或领域。
+- "[Personal](/zh/post/personal/) [relationship](/zh/post/relationship/)" 指的是个人关系，如友谊或家庭关系。
 
 ## 例句
-- 形容词: "[Please](/post/please/) [keep](/post/keep/) [your](/post/your/) [personal](/post/personal/) opinions [out](/post/out/) [of](/post/of/) [the](/post/the/) [discussion](/post/discussion/)."
-- 名词: "[She](/post/she/) [left](/post/left/) [her](/post/her/) [personal](/post/personal/) items [in](/post/in/) [the](/post/the/) [hotel](/post/hotel/) [room](/post/room/)."
-- 名词: "[Their](/post/their/) [personal](/post/personal/) [connection](/post/connection/) made [them](/post/them/) [great](/post/great/) partners [in](/post/in/) [business](/post/business/)."
+- 形容词: "[Please](/zh/post/please/) [keep](/zh/post/keep/) [your](/zh/post/your/) [personal](/zh/post/personal/) opinions [out](/zh/post/out/) [of](/zh/post/of/) [the](/zh/post/the/) [discussion](/zh/post/discussion/)."
+- 名词: "[She](/zh/post/she/) [left](/zh/post/left/) [her](/zh/post/her/) [personal](/zh/post/personal/) items [in](/zh/post/in/) [the](/zh/post/the/) [hotel](/zh/post/hotel/) [room](/zh/post/room/)."
+- 名词: "[Their](/zh/post/their/) [personal](/zh/post/personal/) [connection](/zh/post/connection/) made [them](/zh/post/them/) [great](/zh/post/great/) partners [in](/zh/post/in/) [business](/zh/post/business/)."
 
 ## 同义词
-- [Individual](/post/individual/)
-- [Private](/post/private/)
+- [Individual](/zh/post/individual/)
+- [Private](/zh/post/private/)
 - Confidential
-- [Own](/post/own/)
+- [Own](/zh/post/own/)
 - Subjective

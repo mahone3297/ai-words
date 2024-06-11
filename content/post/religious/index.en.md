@@ -7,44 +7,44 @@ description = '[riˈlidʒəs] a.宗教的；虔诚的'
 keywords = ['ai words', 'religious']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈlɪdʒəs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Religious](/en/post/religious/)** (adj): Pertaining [to](/en/post/to/) matters [of](/en/post/of/) [faith](/en/post/faith/), [belief](/en/post/belief/), [or](/en/post/or/) organized [religion](/en/post/religion/); devoted [or](/en/post/or/) committed [to](/en/post/to/) [religious](/en/post/religious/) practices [or](/en/post/or/) beliefs.
-   - [Definition](/en/post/definition/): [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is deeply involved [in](/en/post/in/) [their](/en/post/their/) [spiritual](/en/post/spiritual/) [or](/en/post/or/) denominational traditions.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [religious](/en/post/religious/) [community](/en/post/community/) organizes [annual](/en/post/annual/) [charity](/en/post/charity/) events."
+### [Noun](/post/noun/)
+1. **[Religious](/post/religious/)** (adj): Pertaining [to](/post/to/) matters [of](/post/of/) [faith](/post/faith/), [belief](/post/belief/), [or](/post/or/) organized [religion](/post/religion/); devoted [or](/post/or/) committed [to](/post/to/) [religious](/post/religious/) practices [or](/post/or/) beliefs.
+   - [Definition](/post/definition/): [A](/post/a/) [person](/post/person/) [who](/post/who/) is deeply involved [in](/post/in/) [their](/post/their/) [spiritual](/post/spiritual/) [or](/post/or/) denominational traditions.
+   - [Example](/post/example/): "[The](/post/the/) [religious](/post/religious/) [community](/post/community/) organizes [annual](/post/annual/) [charity](/post/charity/) events."
 
-2. **Religiousness** (n): [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [religious](/en/post/religious/); [the](/en/post/the/) [degree](/en/post/degree/) [of](/en/post/of/) commitment [to](/en/post/to/) one's [faith](/en/post/faith/).
-   - [Example](/en/post/example/): "[Her](/en/post/her/) religiousness was [a](/en/post/a/) [source](/en/post/source/) [of](/en/post/of/) [strength](/en/post/strength/) [for](/en/post/for/) [her](/en/post/her/) [family](/en/post/family/)."
+2. **Religiousness** (n): [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [religious](/post/religious/); [the](/post/the/) [degree](/post/degree/) [of](/post/of/) commitment [to](/post/to/) one's [faith](/post/faith/).
+   - [Example](/post/example/): "[Her](/post/her/) religiousness was [a](/post/a/) [source](/post/source/) [of](/post/of/) [strength](/post/strength/) [for](/post/for/) [her](/post/her/) [family](/post/family/)."
 
-### [Verb](/en/post/verb/)
-- [Not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) standalone [verb](/en/post/verb/), [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [the](/en/post/the/) [phrase](/en/post/phrase/) "[to](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [religious](/en/post/religious/) activities."
+### [Verb](/post/verb/)
+- [Not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) [a](/post/a/) standalone [verb](/post/verb/), [but](/post/but/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [the](/post/the/) [phrase](/post/phrase/) "[to](/post/to/) [engage](/post/engage/) [in](/post/in/) [religious](/post/religious/) activities."
 
-### [Adjective](/en/post/adjective/)
-- [Sometimes](/en/post/sometimes/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) has [a](/en/post/a/) [religious](/en/post/religious/) [character](/en/post/character/) [or](/en/post/or/) [significance](/en/post/significance/).
-   - [Example](/en/post/example/): "[A](/en/post/a/) [religious](/en/post/religious/) [painting](/en/post/painting/) depicts神圣的 figures."
+### [Adjective](/post/adjective/)
+- [Sometimes](/post/sometimes/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) has [a](/post/a/) [religious](/post/religious/) [character](/post/character/) [or](/post/or/) [significance](/post/significance/).
+   - [Example](/post/example/): "[A](/post/a/) [religious](/post/religious/) [painting](/post/painting/) depicts神圣的 figures."
 
 ## Phrases
-- "[Practice](/en/post/practice/) [religious](/en/post/religious/) rituals"
-- "[Display](/en/post/display/) [religious](/en/post/religious/) symbols"
-- "[Hold](/en/post/hold/) [religious](/en/post/religious/) beliefs"
+- "[Practice](/post/practice/) [religious](/post/religious/) rituals"
+- "[Display](/post/display/) [religious](/post/religious/) symbols"
+- "[Hold](/post/hold/) [religious](/post/religious/) beliefs"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [religious](/en/post/religious/) [leader](/en/post/leader/) delivered [a](/en/post/a/) moving sermon [on](/en/post/on/) Sunday."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [temple](/en/post/temple/) was adorned [with](/en/post/with/) [religious](/en/post/religious/) [art](/en/post/art/)."
-- "[She](/en/post/she/) decided [to](/en/post/to/) [study](/en/post/study/) [different](/en/post/different/) religions [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [her](/en/post/her/) [research](/en/post/research/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [religious](/post/religious/) [leader](/post/leader/) delivered [a](/post/a/) moving sermon [on](/post/on/) Sunday."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [ancient](/post/ancient/) [temple](/post/temple/) was adorned [with](/post/with/) [religious](/post/religious/) [art](/post/art/)."
+- "[She](/post/she/) decided [to](/post/to/) [study](/post/study/) [different](/post/different/) religions [as](/post/as/) [part](/post/part/) [of](/post/of/) [her](/post/her/) [research](/post/research/) [project](/post/project/)."
 
 ## Synonyms
 - Devout
 - Pious
-- [Faithful](/en/post/faithful/)
-- [Spiritual](/en/post/spiritual/)
-- [Sacred](/en/post/sacred/)
+- [Faithful](/post/faithful/)
+- [Spiritual](/post/spiritual/)
+- [Sacred](/post/sacred/)
 
 ## Antonyms
 - Secular
 - Non-religious
 - Irreligious
-- Unconcerned [with](/en/post/with/) [religion](/en/post/religion/)
+- Unconcerned [with](/post/with/) [religion](/post/religion/)

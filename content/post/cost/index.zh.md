@@ -11,23 +11,23 @@ keywords = ['ai words', 'cost']
 /ˈkɒst/
 
 ## 释义
-- **名词**: 费用，代价。例如: "[The](/post/the/) [project](/post/project/) [will](/post/will/) [have](/post/have/) [a](/post/a/) [high](/post/high/) [cost](/post/cost/) [in](/post/in/) terms [of](/post/of/) [time](/post/time/) [and](/post/and/) [money](/post/money/)."
-- **动词**: 花费（金钱、时间等）。例如: "[It](/post/it/) costs $10 [to](/post/to/) [enter](/post/enter/) [the](/post/the/) [museum](/post/museum/)."
-- **形容词**: 成本的，需付费的。例如: "[The](/post/the/) [cost](/post/cost/) [of](/post/of/) [living](/post/living/) has increased significantly."
+- **名词**: 费用，代价。例如: "[The](/zh/post/the/) [project](/zh/post/project/) [will](/zh/post/will/) [have](/zh/post/have/) [a](/zh/post/a/) [high](/zh/post/high/) [cost](/zh/post/cost/) [in](/zh/post/in/) terms [of](/zh/post/of/) [time](/zh/post/time/) [and](/zh/post/and/) [money](/zh/post/money/)."
+- **动词**: 花费（金钱、时间等）。例如: "[It](/zh/post/it/) costs $10 [to](/zh/post/to/) [enter](/zh/post/enter/) [the](/zh/post/the/) [museum](/zh/post/museum/)."
+- **形容词**: 成本的，需付费的。例如: "[The](/zh/post/the/) [cost](/zh/post/cost/) [of](/zh/post/of/) [living](/zh/post/living/) has increased significantly."
 
 ## 短语
-- "[Cost](/post/cost/) [of](/post/of/) [goods](/post/goods/) sold" 商品销售成本。
-- "[At](/post/at/) [what](/post/what/) [cost](/post/cost/)?" 表示询问付出的代价是什么。
-- "[To](/post/to/) [bear](/post/bear/) [the](/post/the/) [cost](/post/cost/)" 承担费用。
+- "[Cost](/zh/post/cost/) [of](/zh/post/of/) [goods](/zh/post/goods/) sold" 商品销售成本。
+- "[At](/zh/post/at/) [what](/zh/post/what/) [cost](/zh/post/cost/)?" 表示询问付出的代价是什么。
+- "[To](/zh/post/to/) [bear](/zh/post/bear/) [the](/zh/post/the/) [cost](/zh/post/cost/)" 承担费用。
 
 ## 例句
-- 名词: "[The](/post/the/) [total](/post/total/) [cost](/post/cost/) [for](/post/for/) [the](/post/the/) [trip](/post/trip/) was [more](/post/more/) [than](/post/than/) [we](/post/we/) expected."
-- 动词: "[This](/post/this/) [new](/post/new/) software is going [to](/post/to/) [cost](/post/cost/) [us](/post/us/) [a](/post/a/) [fortune](/post/fortune/)."
-- 形容词: "[The](/post/the/) cost-effective [solution](/post/solution/) saved [us](/post/us/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [money](/post/money/)."
+- 名词: "[The](/zh/post/the/) [total](/zh/post/total/) [cost](/zh/post/cost/) [for](/zh/post/for/) [the](/zh/post/the/) [trip](/zh/post/trip/) was [more](/zh/post/more/) [than](/zh/post/than/) [we](/zh/post/we/) expected."
+- 动词: "[This](/zh/post/this/) [new](/zh/post/new/) software is going [to](/zh/post/to/) [cost](/zh/post/cost/) [us](/zh/post/us/) [a](/zh/post/a/) [fortune](/zh/post/fortune/)."
+- 形容词: "[The](/zh/post/the/) cost-effective [solution](/zh/post/solution/) saved [us](/zh/post/us/) [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) [money](/zh/post/money/)."
 
 ## 同义词
-- [Expense](/post/expense/)
-- [Charge](/post/charge/)
-- [Price](/post/price/)
-- [Fee](/post/fee/)
+- [Expense](/zh/post/expense/)
+- [Charge](/zh/post/charge/)
+- [Price](/zh/post/price/)
+- [Fee](/zh/post/fee/)
 - Expenditure

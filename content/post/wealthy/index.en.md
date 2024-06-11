@@ -7,33 +7,33 @@ description = '[ˈwelθi] a.富的，富裕的'
 keywords = ['ai words', 'wealthy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwɛθli/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Possessing [a](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/), [property](/en/post/property/), [or](/en/post/or/) [material](/en/post/material/) [goods](/en/post/goods/); [rich](/en/post/rich/). 
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [wealthy](/en/post/wealthy/) [or](/en/post/or/) possessing [great](/en/post/great/) [wealth](/en/post/wealth/).
+- **[Adjective](/post/adjective/)**: Possessing [a](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/), [property](/post/property/), [or](/post/or/) [material](/post/material/) [goods](/post/goods/); [rich](/post/rich/). 
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [wealthy](/post/wealthy/) [or](/post/or/) possessing [great](/post/great/) [wealth](/post/wealth/).
 
 ## Phrases
-- "[Live](/en/post/live/) [a](/en/post/a/) [wealthy](/en/post/wealthy/) lifestyle"
-- "[Born](/en/post/born/) [into](/en/post/into/) [a](/en/post/a/) [wealthy](/en/post/wealthy/) [family](/en/post/family/)"
-- "[Be](/en/post/be/) [as](/en/post/as/) [wealthy](/en/post/wealthy/) [as](/en/post/as/) Croesus" ([a](/en/post/a/) [very](/en/post/very/) [wealthy](/en/post/wealthy/) [person](/en/post/person/) [from](/en/post/from/) [ancient](/en/post/ancient/) times)
+- "[Live](/post/live/) [a](/post/a/) [wealthy](/post/wealthy/) lifestyle"
+- "[Born](/post/born/) [into](/post/into/) [a](/post/a/) [wealthy](/post/wealthy/) [family](/post/family/)"
+- "[Be](/post/be/) [as](/post/as/) [wealthy](/post/wealthy/) [as](/post/as/) Croesus" ([a](/post/a/) [very](/post/very/) [wealthy](/post/wealthy/) [person](/post/person/) [from](/post/from/) [ancient](/post/ancient/) times)
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [wealthy](/en/post/wealthy/) businessman donated [a](/en/post/a/) [substantial](/en/post/substantial/) [sum](/en/post/sum/) [to](/en/post/to/) [charity](/en/post/charity/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [wealthy](/en/post/wealthy/) heiress inherited [a](/en/post/a/) [vast](/en/post/vast/) [fortune](/en/post/fortune/) [from](/en/post/from/) [her](/en/post/her/) [grandfather](/en/post/grandfather/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) was known [for](/en/post/for/) [her](/en/post/her/) [wealthy](/en/post/wealthy/) [taste](/en/post/taste/) [in](/en/post/in/) [art](/en/post/art/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [wealthy](/post/wealthy/) businessman donated [a](/post/a/) [substantial](/post/substantial/) [sum](/post/sum/) [to](/post/to/) [charity](/post/charity/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [wealthy](/post/wealthy/) heiress inherited [a](/post/a/) [vast](/post/vast/) [fortune](/post/fortune/) [from](/post/from/) [her](/post/her/) [grandfather](/post/grandfather/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) was known [for](/post/for/) [her](/post/her/) [wealthy](/post/wealthy/) [taste](/post/taste/) [in](/post/in/) [art](/post/art/)."
 
 ## Synonyms
 - Affluent
-- [Rich](/en/post/rich/)
-- [Prosperous](/en/post/prosperous/)
+- [Rich](/post/rich/)
+- [Prosperous](/post/prosperous/)
 - Well-off
-- [Fortunate](/en/post/fortunate/)
+- [Fortunate](/post/fortunate/)
 
 ## Antonyms
-- [Poor](/en/post/poor/)
+- [Poor](/post/poor/)
 - Indigent
 - Destitute
-- Barely scraping [by](/en/post/by/)
+- Barely scraping [by](/post/by/)
 - Penniless

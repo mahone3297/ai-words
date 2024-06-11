@@ -11,19 +11,19 @@ keywords = ['ai words', 'ourselves']
 /ɑːˈselvz/
 
 ## 释义
-- **代词 (pron)**: 第一人称复数的反身代词，表示我们自己。例如: "[We](/post/we/) did [it](/post/it/) [ourselves](/post/ourselves/)."
+- **代词 (pron)**: 第一人称复数的反身代词，表示我们自己。例如: "[We](/zh/post/we/) did [it](/zh/post/it/) [ourselves](/zh/post/ourselves/)."
 
 ## 短语
-- "[Do](/post/do/) [it](/post/it/) [ourselves](/post/ourselves/)" 意味着我们自己做这件事。
-- "[Take](/post/take/) [care](/post/care/) [of](/post/of/) [ourselves](/post/ourselves/)" 强调我们照顾我们自己。
+- "[Do](/zh/post/do/) [it](/zh/post/it/) [ourselves](/zh/post/ourselves/)" 意味着我们自己做这件事。
+- "[Take](/zh/post/take/) [care](/zh/post/care/) [of](/zh/post/of/) [ourselves](/zh/post/ourselves/)" 强调我们照顾我们自己。
 
 ## 例句
-- "[We](/post/we/) cooked [dinner](/post/dinner/) [ourselves](/post/ourselves/) [instead](/post/instead/) [of](/post/of/) going [out](/post/out/) [to](/post/to/) [eat](/post/eat/)."
-- "[We](/post/we/) [need](/post/need/) [to](/post/to/) [learn](/post/learn/) [to](/post/to/) [rely](/post/rely/) [on](/post/on/) [ourselves](/post/ourselves/) [in](/post/in/) times [of](/post/of/) [crisis](/post/crisis/)."
+- "[We](/zh/post/we/) cooked [dinner](/zh/post/dinner/) [ourselves](/zh/post/ourselves/) [instead](/zh/post/instead/) [of](/zh/post/of/) going [out](/zh/post/out/) [to](/zh/post/to/) [eat](/zh/post/eat/)."
+- "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [learn](/zh/post/learn/) [to](/zh/post/to/) [rely](/zh/post/rely/) [on](/zh/post/on/) [ourselves](/zh/post/ourselves/) [in](/zh/post/in/) times [of](/zh/post/of/) [crisis](/zh/post/crisis/)."
 
 ## 同义词
-- [ourselves](/post/ourselves/): 
-  - 我们自己：[ourselves](/post/ourselves/), [our](/post/our/) [own](/post/own/), [we](/post/we/) [ourselves](/post/ourselves/)
-  - 反身代词的其他形式：[themselves](/post/themselves/), [themselves](/post/themselves/), [oneself](/post/oneself/), [themselves](/post/themselves/)
+- [ourselves](/zh/post/ourselves/): 
+  - 我们自己：[ourselves](/zh/post/ourselves/), [our](/zh/post/our/) [own](/zh/post/own/), [we](/zh/post/we/) [ourselves](/zh/post/ourselves/)
+  - 反身代词的其他形式：[themselves](/zh/post/themselves/), [themselves](/zh/post/themselves/), [oneself](/zh/post/oneself/), [themselves](/zh/post/themselves/)
 
-请注意，"[ourselves](/post/ourselves/)" 主要作为反身代词使用，没有名词、动词、形容词、副词、介词、连词等形式。
+请注意，"[ourselves](/zh/post/ourselves/)" 主要作为反身代词使用，没有名词、动词、形容词、副词、介词、连词等形式。

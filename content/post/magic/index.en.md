@@ -7,22 +7,22 @@ description = '[ˈmædʒik] n.魔法，巫术；戏法'
 keywords = ['ai words', 'magic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmædʒɪk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) rituals, spells, [or](/en/post/or/) abilities believed [to](/en/post/to/) [harness](/en/post/harness/) supernatural forces [to](/en/post/to/) [produce](/en/post/produce/) [a](/en/post/a/) desired [outcome](/en/post/outcome/) [or](/en/post/or/) [effect](/en/post/effect/), [often](/en/post/often/) seen [in](/en/post/in/) [fiction](/en/post/fiction/) [or](/en/post/or/) folklore. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) wizard [cast](/en/post/cast/) [a](/en/post/a/) [powerful](/en/post/powerful/) [magic](/en/post/magic/) [spell](/en/post/spell/) [to](/en/post/to/) [defeat](/en/post/defeat/) [the](/en/post/the/) [dark](/en/post/dark/) forces."
-- **[Noun](/en/post/noun/)**: [Something](/en/post/something/) [that](/en/post/that/) seems inexplicable [by](/en/post/by/) [natural](/en/post/natural/) forces; [a](/en/post/a/) [mysterious](/en/post/mysterious/) [quality](/en/post/quality/) [or](/en/post/or/) [power](/en/post/power/) [that](/en/post/that/) evokes [wonder](/en/post/wonder/) [or](/en/post/or/) awe. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) magician's tricks were [pure](/en/post/pure/) [magic](/en/post/magic/), leaving [the](/en/post/the/) [audience](/en/post/audience/) mesmerized."
-- **[Adjective](/en/post/adjective/)**: [Of](/en/post/of/), relating [to](/en/post/to/), [or](/en/post/or/) using [magic](/en/post/magic/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) fairy tales, [magic](/en/post/magic/) forests are filled [with](/en/post/with/) enchanted creatures."
+- **[Noun](/post/noun/)**: [The](/post/the/) [use](/post/use/) [of](/post/of/) rituals, spells, [or](/post/or/) abilities believed [to](/post/to/) [harness](/post/harness/) supernatural forces [to](/post/to/) [produce](/post/produce/) [a](/post/a/) desired [outcome](/post/outcome/) [or](/post/or/) [effect](/post/effect/), [often](/post/often/) seen [in](/post/in/) [fiction](/post/fiction/) [or](/post/or/) folklore. [For](/post/for/) [example](/post/example/): "[The](/post/the/) wizard [cast](/post/cast/) [a](/post/a/) [powerful](/post/powerful/) [magic](/post/magic/) [spell](/post/spell/) [to](/post/to/) [defeat](/post/defeat/) [the](/post/the/) [dark](/post/dark/) forces."
+- **[Noun](/post/noun/)**: [Something](/post/something/) [that](/post/that/) seems inexplicable [by](/post/by/) [natural](/post/natural/) forces; [a](/post/a/) [mysterious](/post/mysterious/) [quality](/post/quality/) [or](/post/or/) [power](/post/power/) [that](/post/that/) evokes [wonder](/post/wonder/) [or](/post/or/) awe. [For](/post/for/) [example](/post/example/): "[The](/post/the/) magician's tricks were [pure](/post/pure/) [magic](/post/magic/), leaving [the](/post/the/) [audience](/post/audience/) mesmerized."
+- **[Adjective](/post/adjective/)**: [Of](/post/of/), relating [to](/post/to/), [or](/post/or/) using [magic](/post/magic/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) fairy tales, [magic](/post/magic/) forests are filled [with](/post/with/) enchanted creatures."
 
 ## Phrases
-- "[Magic](/en/post/magic/) wand" refers [to](/en/post/to/) [a](/en/post/a/) fictional [tool](/en/post/tool/) [used](/en/post/used/) [to](/en/post/to/) [perform](/en/post/perform/) magical spells.
-- "[Work](/en/post/work/) [like](/en/post/like/) [magic](/en/post/magic/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) an unexpectedly [effective](/en/post/effective/) [or](/en/post/or/) [immediate](/en/post/immediate/) [result](/en/post/result/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [new](/en/post/new/) cleaning [solution](/en/post/solution/) works [like](/en/post/like/) [magic](/en/post/magic/) [on](/en/post/on/) [tough](/en/post/tough/) stains."
-- "That's [the](/en/post/the/) [magic](/en/post/magic/) [word](/en/post/word/)" is said [when](/en/post/when/) [someone](/en/post/someone/) uses [the](/en/post/the/) [exact](/en/post/exact/) [right](/en/post/right/) [word](/en/post/word/) [or](/en/post/or/) [phrase](/en/post/phrase/) [to](/en/post/to/) [get](/en/post/get/) [what](/en/post/what/) [they](/en/post/they/) [want](/en/post/want/).
+- "[Magic](/post/magic/) wand" refers [to](/post/to/) [a](/post/a/) fictional [tool](/post/tool/) [used](/post/used/) [to](/post/to/) [perform](/post/perform/) magical spells.
+- "[Work](/post/work/) [like](/post/like/) [magic](/post/magic/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) an unexpectedly [effective](/post/effective/) [or](/post/or/) [immediate](/post/immediate/) [result](/post/result/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [new](/post/new/) cleaning [solution](/post/solution/) works [like](/post/like/) [magic](/post/magic/) [on](/post/on/) [tough](/post/tough/) stains."
+- "That's [the](/post/the/) [magic](/post/magic/) [word](/post/word/)" is said [when](/post/when/) [someone](/post/someone/) uses [the](/post/the/) [exact](/post/exact/) [right](/post/right/) [word](/post/word/) [or](/post/or/) [phrase](/post/phrase/) [to](/post/to/) [get](/post/get/) [what](/post/what/) [they](/post/they/) [want](/post/want/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [civilization](/en/post/civilization/) believed [in](/en/post/in/) [the](/en/post/the/) [power](/en/post/power/) [of](/en/post/of/) [magic](/en/post/magic/) [to](/en/post/to/) [heal](/en/post/heal/) [and](/en/post/and/) [protect](/en/post/protect/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) wove [a](/en/post/a/) [magic](/en/post/magic/) [tale](/en/post/tale/) [that](/en/post/that/) captivated [her](/en/post/her/) listeners [from](/en/post/from/) [beginning](/en/post/beginning/) [to](/en/post/to/) [end](/en/post/end/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ancient](/post/ancient/) [civilization](/post/civilization/) believed [in](/post/in/) [the](/post/the/) [power](/post/power/) [of](/post/of/) [magic](/post/magic/) [to](/post/to/) [heal](/post/heal/) [and](/post/and/) [protect](/post/protect/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) wove [a](/post/a/) [magic](/post/magic/) [tale](/post/tale/) [that](/post/that/) captivated [her](/post/her/) listeners [from](/post/from/) [beginning](/post/beginning/) [to](/post/to/) [end](/post/end/)."
 
 ## Synonyms
 - Sorcery
@@ -32,4 +32,4 @@ keywords = ['ai words', 'magic']
 - Wizardry
 - Charm
 - Spellbinding
-- [Miracle](/en/post/miracle/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) seemingly inexplicable phenomena)
+- [Miracle](/post/miracle/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) seemingly inexplicable phenomena)

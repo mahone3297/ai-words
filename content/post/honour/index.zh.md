@@ -11,23 +11,23 @@ keywords = ['ai words', 'honour']
 /həˈnɔːr/
 
 ## 释义
-- **名词**: 尊敬，尊重；荣誉，名誉。例如: "[He](/post/he/) received an [honour](/post/honour/) [for](/post/for/) [his](/post/his/) bravery."
-- **动词**: 尊敬，给予荣誉。例如: "[The](/post/the/) [queen](/post/queen/) [will](/post/will/) [honour](/post/honour/) [the](/post/the/) [winner](/post/winner/) [with](/post/with/) [a](/post/a/) [medal](/post/medal/)."
-- **形容词**: 受尊敬的，光荣的。例如: "an [honourable](/post/honourable/) [member](/post/member/) [of](/post/of/) [society](/post/society/)"
+- **名词**: 尊敬，尊重；荣誉，名誉。例如: "[He](/zh/post/he/) received an [honour](/zh/post/honour/) [for](/zh/post/for/) [his](/zh/post/his/) bravery."
+- **动词**: 尊敬，给予荣誉。例如: "[The](/zh/post/the/) [queen](/zh/post/queen/) [will](/zh/post/will/) [honour](/zh/post/honour/) [the](/zh/post/the/) [winner](/zh/post/winner/) [with](/zh/post/with/) [a](/zh/post/a/) [medal](/zh/post/medal/)."
+- **形容词**: 受尊敬的，光荣的。例如: "an [honourable](/zh/post/honourable/) [member](/zh/post/member/) [of](/zh/post/of/) [society](/zh/post/society/)"
 
 ## 短语
-- "[to](/post/to/) [do](/post/do/) [someone](/post/someone/) [honour](/post/honour/)" 表示尊重某人。
-- "[honour](/post/honour/) [code](/post/code/)" 在某些组织或学校中指行为准则或荣誉守则。
-- "[honour](/post/honour/) [roll](/post/roll/)" 通常指学校中的优秀学生名单。
+- "[to](/zh/post/to/) [do](/zh/post/do/) [someone](/zh/post/someone/) [honour](/zh/post/honour/)" 表示尊重某人。
+- "[honour](/zh/post/honour/) [code](/zh/post/code/)" 在某些组织或学校中指行为准则或荣誉守则。
+- "[honour](/zh/post/honour/) [roll](/zh/post/roll/)" 通常指学校中的优秀学生名单。
 
 ## 例句
-- 名词: "[She](/post/she/) wore [her](/post/her/) [academic](/post/academic/) honours [with](/post/with/) [pride](/post/pride/)."
-- 动词: "[The](/post/the/) [company](/post/company/) [will](/post/will/) [honour](/post/honour/) [its](/post/its/) commitment [to](/post/to/) [customer](/post/customer/) [satisfaction](/post/satisfaction/)."
-- 形容词: "[It](/post/it/) is an [honour](/post/honour/) [to](/post/to/) [be](/post/be/) invited [to](/post/to/) [speak](/post/speak/) [at](/post/at/) [this](/post/this/) [event](/post/event/)."
+- 名词: "[She](/zh/post/she/) wore [her](/zh/post/her/) [academic](/zh/post/academic/) honours [with](/zh/post/with/) [pride](/zh/post/pride/)."
+- 动词: "[The](/zh/post/the/) [company](/zh/post/company/) [will](/zh/post/will/) [honour](/zh/post/honour/) [its](/zh/post/its/) commitment [to](/zh/post/to/) [customer](/zh/post/customer/) [satisfaction](/zh/post/satisfaction/)."
+- 形容词: "[It](/zh/post/it/) is an [honour](/zh/post/honour/) [to](/zh/post/to/) [be](/zh/post/be/) invited [to](/zh/post/to/) [speak](/zh/post/speak/) [at](/zh/post/at/) [this](/zh/post/this/) [event](/zh/post/event/)."
 
 ## 同义词
-- [Respect](/post/respect/)
+- [Respect](/zh/post/respect/)
 - Esteem
 - Reverence
-- [Glory](/post/glory/)
+- [Glory](/zh/post/glory/)
 - Prestige

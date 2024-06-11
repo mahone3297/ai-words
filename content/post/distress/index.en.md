@@ -7,35 +7,35 @@ description = '[disˈtres] n.忧虑，悲伤；不幸'
 keywords = ['ai words', 'distress']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /distres/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. Suffering [or](/en/post/or/) [anxiety](/en/post/anxiety/) caused [by](/en/post/by/) [severe](/en/post/severe/) [or](/en/post/or/) prolonged [hardship](/en/post/hardship/), misfortune, [or](/en/post/or/) [danger](/en/post/danger/). 2. An [expression](/en/post/expression/) [of](/en/post/of/) [sympathy](/en/post/sympathy/) [or](/en/post/or/) [concern](/en/post/concern/) [for](/en/post/for/) someone's suffering. 3. [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [great](/en/post/great/) [worry](/en/post/worry/) [or](/en/post/or/) agitation. [Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[distress](/en/post/distress/))
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [cause](/en/post/cause/) [someone](/en/post/someone/) [to](/en/post/to/) [experience](/en/post/experience/) [distress](/en/post/distress/) [or](/en/post/or/) suffering. 2. [To](/en/post/to/) [seek](/en/post/seek/) [help](/en/post/help/) [or](/en/post/or/) assistance [in](/en/post/in/) times [of](/en/post/of/) [trouble](/en/post/trouble/) [or](/en/post/or/) [need](/en/post/need/). [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[distress](/en/post/distress/))
+- **[Noun](/post/noun/)**: 1. Suffering [or](/post/or/) [anxiety](/post/anxiety/) caused [by](/post/by/) [severe](/post/severe/) [or](/post/or/) prolonged [hardship](/post/hardship/), misfortune, [or](/post/or/) [danger](/post/danger/). 2. An [expression](/post/expression/) [of](/post/of/) [sympathy](/post/sympathy/) [or](/post/or/) [concern](/post/concern/) [for](/post/for/) someone's suffering. 3. [A](/post/a/) [state](/post/state/) [of](/post/of/) [great](/post/great/) [worry](/post/worry/) [or](/post/or/) agitation. [Oxford](https://en.oxforddictionaries.com/[definition](/post/definition/)/[distress](/post/distress/))
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [cause](/post/cause/) [someone](/post/someone/) [to](/post/to/) [experience](/post/experience/) [distress](/post/distress/) [or](/post/or/) suffering. 2. [To](/post/to/) [seek](/post/seek/) [help](/post/help/) [or](/post/or/) assistance [in](/post/in/) times [of](/post/of/) [trouble](/post/trouble/) [or](/post/or/) [need](/post/need/). [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[distress](/post/distress/))
 
 ## Phrases
-- "[In](/en/post/in/) [great](/en/post/great/) [distress](/en/post/distress/)" indicates [someone](/en/post/someone/) is [in](/en/post/in/) [a](/en/post/a/) [very](/en/post/very/) [difficult](/en/post/difficult/) [situation](/en/post/situation/).
-- "[Ease](/en/post/ease/) someone's [distress](/en/post/distress/)" [means](/en/post/means/) [to](/en/post/to/) alleviate [their](/en/post/their/) suffering [or](/en/post/or/) [worry](/en/post/worry/).
-- "[Call](/en/post/call/) [for](/en/post/for/) [immediate](/en/post/immediate/) assistance" is [a](/en/post/a/) [request](/en/post/request/) [to](/en/post/to/) [come](/en/post/come/) [to](/en/post/to/) someone's [aid](/en/post/aid/) [when](/en/post/when/) [they](/en/post/they/) are [in](/en/post/in/) [distress](/en/post/distress/).
+- "[In](/post/in/) [great](/post/great/) [distress](/post/distress/)" indicates [someone](/post/someone/) is [in](/post/in/) [a](/post/a/) [very](/post/very/) [difficult](/post/difficult/) [situation](/post/situation/).
+- "[Ease](/post/ease/) someone's [distress](/post/distress/)" [means](/post/means/) [to](/post/to/) alleviate [their](/post/their/) suffering [or](/post/or/) [worry](/post/worry/).
+- "[Call](/post/call/) [for](/post/for/) [immediate](/post/immediate/) assistance" is [a](/post/a/) [request](/post/request/) [to](/post/to/) [come](/post/come/) [to](/post/to/) someone's [aid](/post/aid/) [when](/post/when/) [they](/post/they/) are [in](/post/in/) [distress](/post/distress/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) refugees were [in](/en/post/in/) [constant](/en/post/constant/) [distress](/en/post/distress/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [harsh](/en/post/harsh/) [living](/en/post/living/) conditions."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [first](/en/post/first/) responder rushed [to](/en/post/to/) [the](/en/post/the/) [scene](/en/post/scene/) [to](/en/post/to/) [try](/en/post/try/) [to](/en/post/to/) [distress](/en/post/distress/) [the](/en/post/the/) injured [person](/en/post/person/)."
-- **Interjection**: "[Oh](/en/post/oh/) [no](/en/post/no/), [my](/en/post/my/) [car](/en/post/car/) broke [down](/en/post/down/)! I'm [in](/en/post/in/) [such](/en/post/such/) [distress](/en/post/distress/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) refugees were [in](/post/in/) [constant](/post/constant/) [distress](/post/distress/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [harsh](/post/harsh/) [living](/post/living/) conditions."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [first](/post/first/) responder rushed [to](/post/to/) [the](/post/the/) [scene](/post/scene/) [to](/post/to/) [try](/post/try/) [to](/post/to/) [distress](/post/distress/) [the](/post/the/) injured [person](/post/person/)."
+- **Interjection**: "[Oh](/post/oh/) [no](/post/no/), [my](/post/my/) [car](/post/car/) broke [down](/post/down/)! I'm [in](/post/in/) [such](/post/such/) [distress](/post/distress/)."
 
 ## Synonyms
-- [Agony](/en/post/agony/)
+- [Agony](/post/agony/)
 - Suffering
 - Torment
 -anguish
-- [Alarm](/en/post/alarm/)
+- [Alarm](/post/alarm/)
 - Panic
-- [Despair](/en/post/despair/)
+- [Despair](/post/despair/)
 
 ## Antonyms
-- [Relief](/en/post/relief/)
-- [Comfort](/en/post/comfort/)
-- [Ease](/en/post/ease/)
-- [Happiness](/en/post/happiness/)
+- [Relief](/post/relief/)
+- [Comfort](/post/comfort/)
+- [Ease](/post/ease/)
+- [Happiness](/post/happiness/)
 - Serenity

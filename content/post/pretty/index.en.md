@@ -7,33 +7,33 @@ description = '[ˈpriti] a.漂亮的，标致的'
 keywords = ['ai words', 'pretty']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪˈti/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) pleasing [appearance](/en/post/appearance/), attractiveness, [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was prettier [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/)."
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [a](/en/post/a/) [moderate](/en/post/moderate/) [extent](/en/post/extent/) [or](/en/post/or/) [quite](/en/post/quite/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) dances [quite](/en/post/quite/) prettily."
+- **[Adjective](/post/adjective/)**: Having [a](/post/a/) pleasing [appearance](/post/appearance/), attractiveness, [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was prettier [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- **[Adverb](/post/adverb/)**: [To](/post/to/) [a](/post/a/) [moderate](/post/moderate/) [extent](/post/extent/) [or](/post/or/) [quite](/post/quite/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) dances [quite](/post/quite/) prettily."
 
 ## Phrases
-- "[She](/en/post/she/) looked [really](/en/post/really/) [pretty](/en/post/pretty/) [in](/en/post/in/) [her](/en/post/her/) [new](/en/post/new/) [dress](/en/post/dress/)."
-- "[The](/en/post/the/) [view](/en/post/view/) was prettily decorated [with](/en/post/with/) colorful flowers."
-- "[It](/en/post/it/) was prettily [cold](/en/post/cold/) [outside](/en/post/outside/), [so](/en/post/so/) [we](/en/post/we/) decided [to](/en/post/to/) [stay](/en/post/stay/) [indoors](/en/post/indoors/)."
+- "[She](/post/she/) looked [really](/post/really/) [pretty](/post/pretty/) [in](/post/in/) [her](/post/her/) [new](/post/new/) [dress](/post/dress/)."
+- "[The](/post/the/) [view](/post/view/) was prettily decorated [with](/post/with/) colorful flowers."
+- "[It](/post/it/) was prettily [cold](/post/cold/) [outside](/post/outside/), [so](/post/so/) [we](/post/we/) decided [to](/post/to/) [stay](/post/stay/) [indoors](/post/indoors/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sunset](/en/post/sunset/) painted [the](/en/post/the/) [sky](/en/post/sky/) [in](/en/post/in/) [a](/en/post/a/) prettily array [of](/en/post/of/) colors."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) sang [the](/en/post/the/) [song](/en/post/song/) prettily, capturing everyone's [attention](/en/post/attention/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sunset](/post/sunset/) painted [the](/post/the/) [sky](/post/sky/) [in](/post/in/) [a](/post/a/) prettily array [of](/post/of/) colors."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) sang [the](/post/the/) [song](/post/song/) prettily, capturing everyone's [attention](/post/attention/)."
 
 ## Synonyms
-- [Attractive](/en/post/attractive/)
+- [Attractive](/post/attractive/)
 - Cute
-- [Beautiful](/en/post/beautiful/)
-- [Handsome](/en/post/handsome/) ([for](/en/post/for/) things)
+- [Beautiful](/post/beautiful/)
+- [Handsome](/post/handsome/) ([for](/post/for/) things)
 - Delightful
-- [Graceful](/en/post/graceful/)
+- [Graceful](/post/graceful/)
 
 ## Antonyms
-- [Ugly](/en/post/ugly/)
+- [Ugly](/post/ugly/)
 - Unattractive
-- [Plain](/en/post/plain/)
-- [Dull](/en/post/dull/)
-- [Awkward](/en/post/awkward/)
+- [Plain](/post/plain/)
+- [Dull](/post/dull/)
+- [Awkward](/post/awkward/)

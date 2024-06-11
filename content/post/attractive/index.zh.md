@@ -11,19 +11,19 @@ keywords = ['ai words', 'attractive']
 /əˈtræktɪv/
 
 ## 释义
-- **形容词**: 有吸引力的，诱人的。例如: "[She](/post/she/) has an [attractive](/post/attractive/) personality."
-- **动词**: 吸引（注意力、兴趣等）。例如: "[The](/post/the/) [exhibition](/post/exhibition/) attracted [many](/post/many/) visitors."
+- **形容词**: 有吸引力的，诱人的。例如: "[She](/zh/post/she/) has an [attractive](/zh/post/attractive/) personality."
+- **动词**: 吸引（注意力、兴趣等）。例如: "[The](/zh/post/the/) [exhibition](/zh/post/exhibition/) attracted [many](/zh/post/many/) visitors."
 
 ## 短语
 - "attractively priced" 意为价格吸引人。
-- "[attractive](/post/attractive/) [offer](/post/offer/)" 指有诱惑力的提议或优惠。
+- "[attractive](/zh/post/attractive/) [offer](/zh/post/offer/)" 指有诱惑力的提议或优惠。
 
 ## 例句
-- 形容词: "[The](/post/the/) [restaurant](/post/restaurant/) has an [attractive](/post/attractive/) [menu](/post/menu/) [with](/post/with/) [a](/post/a/) [variety](/post/variety/) [of](/post/of/) options."
-- 动词: "[Her](/post/her/) [talent](/post/talent/) attracts [attention](/post/attention/) [from](/post/from/) [all](/post/all/) [around](/post/around/)."
+- 形容词: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) has an [attractive](/zh/post/attractive/) [menu](/zh/post/menu/) [with](/zh/post/with/) [a](/zh/post/a/) [variety](/zh/post/variety/) [of](/zh/post/of/) options."
+- 动词: "[Her](/zh/post/her/) [talent](/zh/post/talent/) attracts [attention](/zh/post/attention/) [from](/zh/post/from/) [all](/zh/post/all/) [around](/zh/post/around/)."
 
 ## 同义词
-- [Beautiful](/post/beautiful/)
+- [Beautiful](/zh/post/beautiful/)
 - Stunning
 - Appealing
 - Fascinating

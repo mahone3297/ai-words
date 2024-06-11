@@ -11,23 +11,23 @@ keywords = ['ai words', 'operation']
 /ˈɑːpəreɪʃn/
 
 ## 释义
-- **名词**: 行动或过程；操作。例如: "[The](/post/the/) [doctor](/post/doctor/) [will](/post/will/) [perform](/post/perform/) [a](/post/a/) surgical [operation](/post/operation/)."
-- **名词**: 组织或企业的运作方式。例如: "[The](/post/the/) company's [daily](/post/daily/) [operation](/post/operation/) runs [smoothly](/post/smoothly/)."
-- **名词**: 指令或命令，尤指计算机指令。例如: "[This](/post/this/) software requires [a](/post/a/) [specific](/post/specific/) [operation](/post/operation/) [to](/post/to/) [install](/post/install/)."
+- **名词**: 行动或过程；操作。例如: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) [will](/zh/post/will/) [perform](/zh/post/perform/) [a](/zh/post/a/) surgical [operation](/zh/post/operation/)."
+- **名词**: 组织或企业的运作方式。例如: "[The](/zh/post/the/) company's [daily](/zh/post/daily/) [operation](/zh/post/operation/) runs [smoothly](/zh/post/smoothly/)."
+- **名词**: 指令或命令，尤指计算机指令。例如: "[This](/zh/post/this/) software requires [a](/zh/post/a/) [specific](/zh/post/specific/) [operation](/zh/post/operation/) [to](/zh/post/to/) [install](/zh/post/install/)."
 
 ## 短语
-- "[Operation](/post/operation/) theater" 手术室。
-- "[Business](/post/business/) [operation](/post/operation/)" 业务运营。
-- "[Military](/post/military/) [operation](/post/operation/)" 军事行动。
+- "[Operation](/zh/post/operation/) theater" 手术室。
+- "[Business](/zh/post/business/) [operation](/zh/post/operation/)" 业务运营。
+- "[Military](/zh/post/military/) [operation](/zh/post/operation/)" 军事行动。
 
 ## 例句
-- 名词: "[The](/post/the/) [complex](/post/complex/) [operation](/post/operation/) lasted [several](/post/several/) hours."
-- 名词: "[The](/post/the/) [company](/post/company/) is restructuring [its](/post/its/) [entire](/post/entire/) [operation](/post/operation/)."
-- 名词: "[The](/post/the/) [computer](/post/computer/) follows [a](/post/a/) [series](/post/series/) [of](/post/of/) operations [to](/post/to/) [complete](/post/complete/) [a](/post/a/) [task](/post/task/)."
+- 名词: "[The](/zh/post/the/) [complex](/zh/post/complex/) [operation](/zh/post/operation/) lasted [several](/zh/post/several/) hours."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) is restructuring [its](/zh/post/its/) [entire](/zh/post/entire/) [operation](/zh/post/operation/)."
+- 名词: "[The](/zh/post/the/) [computer](/zh/post/computer/) follows [a](/zh/post/a/) [series](/zh/post/series/) [of](/zh/post/of/) operations [to](/zh/post/to/) [complete](/zh/post/complete/) [a](/zh/post/a/) [task](/zh/post/task/)."
 
 ## 同义词
-- [Procedure](/post/procedure/)
-- [Action](/post/action/)
+- [Procedure](/zh/post/procedure/)
+- [Action](/zh/post/action/)
 - Maneuver
-- [Function](/post/function/)
-- [Task](/post/task/)
+- [Function](/zh/post/function/)
+- [Task](/zh/post/task/)

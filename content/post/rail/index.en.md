@@ -7,39 +7,39 @@ description = '[reil] n.横条，横杆；铁轨'
 keywords = ['ai words', 'rail']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /r eɪl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Railroad](/en/post/railroad/) [track](/en/post/track/) [or](/en/post/or/) [system](/en/post/system/)**: [The](/en/post/the/) [structure](/en/post/structure/) consisting [of](/en/post/of/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) connected [metal](/en/post/metal/) bars laid [along](/en/post/along/) [which](/en/post/which/) trains [run](/en/post/run/). [Example](/en/post/example/): "[The](/en/post/the/) [train](/en/post/train/) was [smoothly](/en/post/smoothly/) gliding [along](/en/post/along/) [the](/en/post/the/) [iron](/en/post/iron/) [rail](/en/post/rail/)."
-2. **[Rail](/en/post/rail/) [fence](/en/post/fence/)**: [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [paragraph](/en/post/paragraph/) [structure](/en/post/structure/) [where](/en/post/where/) [each](/en/post/each/) [line](/en/post/line/) is formed [by](/en/post/by/) [a](/en/post/a/) [sequence](/en/post/sequence/) [of](/en/post/of/) words [from](/en/post/from/) [the](/en/post/the/) [same](/en/post/same/) [sentence](/en/post/sentence/), [usually](/en/post/usually/) alternating [between](/en/post/between/) [two](/en/post/two/) directions. [Example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was divided [into](/en/post/into/) [neat](/en/post/neat/) sections [by](/en/post/by/) [a](/en/post/a/) [rail](/en/post/rail/) [fence](/en/post/fence/)."
-3. **[Rail](/en/post/rail/)**: [A](/en/post/a/) [horizontal](/en/post/horizontal/) [support](/en/post/support/) [for](/en/post/for/) [a](/en/post/a/) [window](/en/post/window/), [door](/en/post/door/), [or](/en/post/or/) [roof](/en/post/roof/), typically made [of](/en/post/of/) [wood](/en/post/wood/) [or](/en/post/or/) [metal](/en/post/metal/). [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) had [charming](/en/post/charming/) [wooden](/en/post/wooden/) rails [around](/en/post/around/) [its](/en/post/its/) [porch](/en/post/porch/)."
-4. **Railings**: [Safety](/en/post/safety/) barriers, [often](/en/post/often/) [metal](/en/post/metal/), installed [on](/en/post/on/) balconies, stairs, [or](/en/post/or/) decks [to](/en/post/to/) [prevent](/en/post/prevent/) falls. [Example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) was holding [onto](/en/post/onto/) [the](/en/post/the/) railing [for](/en/post/for/) [balance](/en/post/balance/)."
+### [Noun](/post/noun/)
+1. **[Railroad](/post/railroad/) [track](/post/track/) [or](/post/or/) [system](/post/system/)**: [The](/post/the/) [structure](/post/structure/) consisting [of](/post/of/) [a](/post/a/) [series](/post/series/) [of](/post/of/) connected [metal](/post/metal/) bars laid [along](/post/along/) [which](/post/which/) trains [run](/post/run/). [Example](/post/example/): "[The](/post/the/) [train](/post/train/) was [smoothly](/post/smoothly/) gliding [along](/post/along/) [the](/post/the/) [iron](/post/iron/) [rail](/post/rail/)."
+2. **[Rail](/post/rail/) [fence](/post/fence/)**: [A](/post/a/) [type](/post/type/) [of](/post/of/) [paragraph](/post/paragraph/) [structure](/post/structure/) [where](/post/where/) [each](/post/each/) [line](/post/line/) is formed [by](/post/by/) [a](/post/a/) [sequence](/post/sequence/) [of](/post/of/) words [from](/post/from/) [the](/post/the/) [same](/post/same/) [sentence](/post/sentence/), [usually](/post/usually/) alternating [between](/post/between/) [two](/post/two/) directions. [Example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was divided [into](/post/into/) [neat](/post/neat/) sections [by](/post/by/) [a](/post/a/) [rail](/post/rail/) [fence](/post/fence/)."
+3. **[Rail](/post/rail/)**: [A](/post/a/) [horizontal](/post/horizontal/) [support](/post/support/) [for](/post/for/) [a](/post/a/) [window](/post/window/), [door](/post/door/), [or](/post/or/) [roof](/post/roof/), typically made [of](/post/of/) [wood](/post/wood/) [or](/post/or/) [metal](/post/metal/). [Example](/post/example/): "[The](/post/the/) [old](/post/old/) [house](/post/house/) had [charming](/post/charming/) [wooden](/post/wooden/) rails [around](/post/around/) [its](/post/its/) [porch](/post/porch/)."
+4. **Railings**: [Safety](/post/safety/) barriers, [often](/post/often/) [metal](/post/metal/), installed [on](/post/on/) balconies, stairs, [or](/post/or/) decks [to](/post/to/) [prevent](/post/prevent/) falls. [Example](/post/example/): "[The](/post/the/) [child](/post/child/) was holding [onto](/post/onto/) [the](/post/the/) railing [for](/post/for/) [balance](/post/balance/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [ride](/en/post/ride/) [the](/en/post/the/) [rail](/en/post/rail/)**: [To](/en/post/to/) [travel](/en/post/travel/) [by](/en/post/by/) [train](/en/post/train/), [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [passenger](/en/post/passenger/) [without](/en/post/without/) [a](/en/post/a/) [ticket](/en/post/ticket/). [Example](/en/post/example/): "[The](/en/post/the/) hobo decided [to](/en/post/to/) [ride](/en/post/ride/) [the](/en/post/the/) [rail](/en/post/rail/) [across](/en/post/across/) [the](/en/post/the/) [country](/en/post/country/)."
-2. **[To](/en/post/to/) [touch](/en/post/touch/) [or](/en/post/or/) [handle](/en/post/handle/)**: [To](/en/post/to/) physically interact [with](/en/post/with/) [a](/en/post/a/) [rail](/en/post/rail/), [such](/en/post/such/) [as](/en/post/as/) [when](/en/post/when/) adjusting [a](/en/post/a/) [window](/en/post/window/) [or](/en/post/or/) [door](/en/post/door/). [Example](/en/post/example/): "[He](/en/post/he/) leaned [against](/en/post/against/) [the](/en/post/the/) [rail](/en/post/rail/) [to](/en/post/to/) [rest](/en/post/rest/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [ride](/post/ride/) [the](/post/the/) [rail](/post/rail/)**: [To](/post/to/) [travel](/post/travel/) [by](/post/by/) [train](/post/train/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [passenger](/post/passenger/) [without](/post/without/) [a](/post/a/) [ticket](/post/ticket/). [Example](/post/example/): "[The](/post/the/) hobo decided [to](/post/to/) [ride](/post/ride/) [the](/post/the/) [rail](/post/rail/) [across](/post/across/) [the](/post/the/) [country](/post/country/)."
+2. **[To](/post/to/) [touch](/post/touch/) [or](/post/or/) [handle](/post/handle/)**: [To](/post/to/) physically interact [with](/post/with/) [a](/post/a/) [rail](/post/rail/), [such](/post/such/) [as](/post/as/) [when](/post/when/) adjusting [a](/post/a/) [window](/post/window/) [or](/post/or/) [door](/post/door/). [Example](/post/example/): "[He](/post/he/) leaned [against](/post/against/) [the](/post/the/) [rail](/post/rail/) [to](/post/to/) [rest](/post/rest/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Rail-mounted**: Attached [or](/en/post/or/) positioned [on](/en/post/on/) [a](/en/post/a/) [rail](/en/post/rail/) [or](/en/post/or/) [track](/en/post/track/). [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [security](/en/post/security/) [camera](/en/post/camera/) was mounted [on](/en/post/on/) [a](/en/post/a/) [rail](/en/post/rail/) [above](/en/post/above/) [the](/en/post/the/) [entrance](/en/post/entrance/)."
-2. **Railway-related**: Pertaining [to](/en/post/to/) railways [or](/en/post/or/) trains. [Example](/en/post/example/): "[The](/en/post/the/) [railway](/en/post/railway/) [museum](/en/post/museum/) showcased [various](/en/post/various/) [rail](/en/post/rail/) artifacts."
+### [Adjective](/post/adjective/)
+1. **Rail-mounted**: Attached [or](/post/or/) positioned [on](/post/on/) [a](/post/a/) [rail](/post/rail/) [or](/post/or/) [track](/post/track/). [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [security](/post/security/) [camera](/post/camera/) was mounted [on](/post/on/) [a](/post/a/) [rail](/post/rail/) [above](/post/above/) [the](/post/the/) [entrance](/post/entrance/)."
+2. **Railway-related**: Pertaining [to](/post/to/) railways [or](/post/or/) trains. [Example](/post/example/): "[The](/post/the/) [railway](/post/railway/) [museum](/post/museum/) showcased [various](/post/various/) [rail](/post/rail/) artifacts."
 
 ## Phrases
-- "[Take](/en/post/take/) [the](/en/post/the/) [rail](/en/post/rail/)" (informal) [to](/en/post/to/) [use](/en/post/use/) [public](/en/post/public/) [transportation](/en/post/transportation/).
-- "Switching [on](/en/post/on/) [the](/en/post/the/) [rail](/en/post/rail/)" ([railway](/en/post/railway/) slang) [to](/en/post/to/) [change](/en/post/change/) tracks.
-- "Rails-to-trails" refers [to](/en/post/to/) converting unused [railway](/en/post/railway/) lines [into](/en/post/into/) recreational trails.
+- "[Take](/post/take/) [the](/post/the/) [rail](/post/rail/)" (informal) [to](/post/to/) [use](/post/use/) [public](/post/public/) [transportation](/post/transportation/).
+- "Switching [on](/post/on/) [the](/post/the/) [rail](/post/rail/)" ([railway](/post/railway/) slang) [to](/post/to/) [change](/post/change/) tracks.
+- "Rails-to-trails" refers [to](/post/to/) converting unused [railway](/post/railway/) lines [into](/post/into/) recreational trails.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) train's wheels clattered rhythmically [on](/en/post/on/) [the](/en/post/the/) [steel](/en/post/steel/) [rail](/en/post/rail/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) leaned [on](/en/post/on/) [the](/en/post/the/) railing overlooking [the](/en/post/the/) [city](/en/post/city/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [railway](/en/post/railway/) [station](/en/post/station/) had [modern](/en/post/modern/), sleek rail-mounted escalators."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) train's wheels clattered rhythmically [on](/post/on/) [the](/post/the/) [steel](/post/steel/) [rail](/post/rail/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) leaned [on](/post/on/) [the](/post/the/) railing overlooking [the](/post/the/) [city](/post/city/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [railway](/post/railway/) [station](/post/station/) had [modern](/post/modern/), sleek rail-mounted escalators."
 
 ## Synonyms
-- [Track](/en/post/track/)
+- [Track](/post/track/)
 - Rails
 - Railings
 - Trainline
-- [Railway](/en/post/railway/)
+- [Railway](/post/railway/)
 - Trackwork
-- [Railroad](/en/post/railroad/) ties
+- [Railroad](/post/railroad/) ties

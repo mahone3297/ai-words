@@ -11,20 +11,20 @@ keywords = ['ai words', 'sympathetic']
 /sɪmpəˈθetɪk/
 
 ## 释义
-- **形容词**: 表示同情的，有共鸣的。例如: "[She](/post/she/) was [very](/post/very/) [sympathetic](/post/sympathetic/) towards [his](/post/his/) [situation](/post/situation/)."
-- **名词**: (常与to连用) 同情，共鸣。例如: "[There](/post/there/) was [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [sympathy](/post/sympathy/) [for](/post/for/) [the](/post/the/) victims."
+- **形容词**: 表示同情的，有共鸣的。例如: "[She](/zh/post/she/) was [very](/zh/post/very/) [sympathetic](/zh/post/sympathetic/) towards [his](/zh/post/his/) [situation](/zh/post/situation/)."
+- **名词**: (常与to连用) 同情，共鸣。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) [sympathy](/zh/post/sympathy/) [for](/zh/post/for/) [the](/zh/post/the/) victims."
 
 ## 短语
-- "[Be](/post/be/) [sympathetic](/post/sympathetic/) [to](/post/to/) [someone](/post/someone/)" 表示对某人表示同情或理解。
-- "[Show](/post/show/) [sympathy](/post/sympathy/)" 意为表现出同情心。
+- "[Be](/zh/post/be/) [sympathetic](/zh/post/sympathetic/) [to](/zh/post/to/) [someone](/zh/post/someone/)" 表示对某人表示同情或理解。
+- "[Show](/zh/post/show/) [sympathy](/zh/post/sympathy/)" 意为表现出同情心。
 
 ## 例句
-- 形容词: "[The](/post/the/) [nurse](/post/nurse/) was [very](/post/very/) [sympathetic](/post/sympathetic/) [when](/post/when/) I told [her](/post/her/) [about](/post/about/) [my](/post/my/) [pain](/post/pain/)."
-- 名词: "[They](/post/they/) showed [great](/post/great/) [sympathy](/post/sympathy/) [after](/post/after/) hearing [the](/post/the/) [news](/post/news/) [of](/post/of/) [her](/post/her/) [loss](/post/loss/)."
+- 形容词: "[The](/zh/post/the/) [nurse](/zh/post/nurse/) was [very](/zh/post/very/) [sympathetic](/zh/post/sympathetic/) [when](/zh/post/when/) I told [her](/zh/post/her/) [about](/zh/post/about/) [my](/zh/post/my/) [pain](/zh/post/pain/)."
+- 名词: "[They](/zh/post/they/) showed [great](/zh/post/great/) [sympathy](/zh/post/sympathy/) [after](/zh/post/after/) hearing [the](/zh/post/the/) [news](/zh/post/news/) [of](/zh/post/of/) [her](/zh/post/her/) [loss](/zh/post/loss/)."
 
 ## 同义词
 - Compassionate
 - Empathetic
-- [Understanding](/post/understanding/)
-- [Sympathetic](/post/sympathetic/) towards
-- [Feeling](/post/feeling/) [for](/post/for/)
+- [Understanding](/zh/post/understanding/)
+- [Sympathetic](/zh/post/sympathetic/) towards
+- [Feeling](/zh/post/feeling/) [for](/zh/post/for/)

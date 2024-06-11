@@ -11,20 +11,20 @@ keywords = ['ai words', 'illness']
 /ɪlˈnɛs/
 
 ## 释义
-- **名词 (n)**: 疾病，不适。指身体或精神上的不健康状态。例如: "She's been suffering [from](/post/from/) an [illness](/post/illness/) [for](/post/for/) weeks."
-- **形容词 (adj)**: 多用于构成复合名词，如"illnesses"，指各种疾病。例如: "[The](/post/the/) [doctor](/post/doctor/) treats [a](/post/a/) [variety](/post/variety/) [of](/post/of/) illnesses."
+- **名词 (n)**: 疾病，不适。指身体或精神上的不健康状态。例如: "She's been suffering [from](/zh/post/from/) an [illness](/zh/post/illness/) [for](/zh/post/for/) weeks."
+- **形容词 (adj)**: 多用于构成复合名词，如"illnesses"，指各种疾病。例如: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) treats [a](/zh/post/a/) [variety](/zh/post/variety/) [of](/zh/post/of/) illnesses."
 
 ## 短语
-- "[Physical](/post/physical/) [illness](/post/illness/)" 指身体上的疾病。
-- "[Mental](/post/mental/) [illness](/post/illness/)" 指精神或心理上的疾病。
+- "[Physical](/zh/post/physical/) [illness](/zh/post/illness/)" 指身体上的疾病。
+- "[Mental](/zh/post/mental/) [illness](/zh/post/illness/)" 指精神或心理上的疾病。
 
 ## 例句
-- 名词: "[His](/post/his/) long-term [illness](/post/illness/) prevented [him](/post/him/) [from](/post/from/) working."
-- 形容词: "[The](/post/the/) [hospital](/post/hospital/) specializes [in](/post/in/) treating [various](/post/various/) [mental](/post/mental/) illnesses."
+- 名词: "[His](/zh/post/his/) long-term [illness](/zh/post/illness/) prevented [him](/zh/post/him/) [from](/zh/post/from/) working."
+- 形容词: "[The](/zh/post/the/) [hospital](/zh/post/hospital/) specializes [in](/zh/post/in/) treating [various](/zh/post/various/) [mental](/zh/post/mental/) illnesses."
 
 ## 同义词
-- [Sickness](/post/sickness/)
-- [Disease](/post/disease/)
-- [Disorder](/post/disorder/)
+- [Sickness](/zh/post/sickness/)
+- [Disease](/zh/post/disease/)
+- [Disorder](/zh/post/disorder/)
 - Ailment
 - Malady

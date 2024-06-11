@@ -11,20 +11,20 @@ keywords = ['ai words', 'noise']
 /naɪz/
 
 ## 释义
-- **名词**: 响声，噪音，嘈杂声。指不悦耳或无目的的声音。例如: "[The](/post/the/) [noise](/post/noise/) [from](/post/from/) [the](/post/the/) [construction](/post/construction/) [site](/post/site/) kept [me](/post/me/) [awake](/post/awake/) [all](/post/all/) [night](/post/night/)."
-- **动词**: 制造噪音。例如: "[The](/post/the/) children were running [around](/post/around/), noises filling [the](/post/the/) [house](/post/house/)."
+- **名词**: 响声，噪音，嘈杂声。指不悦耳或无目的的声音。例如: "[The](/zh/post/the/) [noise](/zh/post/noise/) [from](/zh/post/from/) [the](/zh/post/the/) [construction](/zh/post/construction/) [site](/zh/post/site/) kept [me](/zh/post/me/) [awake](/zh/post/awake/) [all](/zh/post/all/) [night](/zh/post/night/)."
+- **动词**: 制造噪音。例如: "[The](/zh/post/the/) children were running [around](/zh/post/around/), noises filling [the](/zh/post/the/) [house](/zh/post/house/)."
 
 ## 短语
-- "背景噪音" ([background](/post/background/) [noise](/post/noise/)) 指在某一环境中的持续噪声。
-- "降低噪音" ([reduce](/post/reduce/) [noise](/post/noise/)) 指减少或消除不需要的声音。
+- "背景噪音" ([background](/zh/post/background/) [noise](/zh/post/noise/)) 指在某一环境中的持续噪声。
+- "降低噪音" ([reduce](/zh/post/reduce/) [noise](/zh/post/noise/)) 指减少或消除不需要的声音。
 
 ## 例句
-- 名词: "[The](/post/the/) [noise](/post/noise/) [level](/post/level/) [in](/post/in/) [the](/post/the/) [stadium](/post/stadium/) was deafening [during](/post/during/) [the](/post/the/) [match](/post/match/)."
-- 动词: "[The](/post/the/) machines [in](/post/in/) [the](/post/the/) [factory](/post/factory/) were noiselessly operating [after](/post/after/) [the](/post/the/) [maintenance](/post/maintenance/)."
+- 名词: "[The](/zh/post/the/) [noise](/zh/post/noise/) [level](/zh/post/level/) [in](/zh/post/in/) [the](/zh/post/the/) [stadium](/zh/post/stadium/) was deafening [during](/zh/post/during/) [the](/zh/post/the/) [match](/zh/post/match/)."
+- 动词: "[The](/zh/post/the/) machines [in](/zh/post/in/) [the](/zh/post/the/) [factory](/zh/post/factory/) were noiselessly operating [after](/zh/post/after/) [the](/zh/post/the/) [maintenance](/zh/post/maintenance/)."
 
 ## 同义词
-- [Sound](/post/sound/)
+- [Sound](/zh/post/sound/)
 - Disturbance
-- [Racket](/post/racket/)
+- [Racket](/zh/post/racket/)
 - Hubbub
 - Clamor

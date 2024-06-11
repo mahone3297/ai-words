@@ -7,48 +7,48 @@ description = '[ˈtəːniŋ] n.旋转；变向；转弯处'
 keywords = ['ai words', 'turning']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtɜːrnɪŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [position](/en/post/position/) [or](/en/post/or/) [direction](/en/post/direction/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) [turning](/en/post/turning/); [rotation](/en/post/rotation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wheel](/en/post/wheel/) was [turning](/en/post/turning/) [smoothly](/en/post/smoothly/)."
-- **[A](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) one's [opinion](/en/post/opinion/) [or](/en/post/or/) feelings**: [Conversion](/en/post/conversion/) [or](/en/post/or/) [shift](/en/post/shift/) [in](/en/post/in/) [attitude](/en/post/attitude/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) thoughts began [to](/en/post/to/) [turn](/en/post/turn/) towards [a](/en/post/a/) [new](/en/post/new/) [career](/en/post/career/) [path](/en/post/path/)."
-- **[A](/en/post/a/) [phase](/en/post/phase/) [or](/en/post/or/) [stage](/en/post/stage/) [in](/en/post/in/) [a](/en/post/a/) [process](/en/post/process/)**: [A](/en/post/a/) [point](/en/post/point/) [in](/en/post/in/) [time](/en/post/time/) [or](/en/post/or/) [development](/en/post/development/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [turning](/en/post/turning/) [point](/en/post/point/) [in](/en/post/in/) [the](/en/post/the/) [game](/en/post/game/) came [with](/en/post/with/) [a](/en/post/a/) crucial [goal](/en/post/goal/)."
-- **[A](/en/post/a/) person's [turn](/en/post/turn/)**: [The](/en/post/the/) [opportunity](/en/post/opportunity/) [to](/en/post/to/) [take](/en/post/take/) [part](/en/post/part/) [or](/en/post/or/) [act](/en/post/act/). [For](/en/post/for/) [example](/en/post/example/): "It's [your](/en/post/your/) [turn](/en/post/turn/) [to](/en/post/to/) [bat](/en/post/bat/) [now](/en/post/now/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [change](/post/change/) [in](/post/in/) [position](/post/position/) [or](/post/or/) [direction](/post/direction/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) [turning](/post/turning/); [rotation](/post/rotation/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wheel](/post/wheel/) was [turning](/post/turning/) [smoothly](/post/smoothly/)."
+- **[A](/post/a/) [change](/post/change/) [in](/post/in/) one's [opinion](/post/opinion/) [or](/post/or/) feelings**: [Conversion](/post/conversion/) [or](/post/or/) [shift](/post/shift/) [in](/post/in/) [attitude](/post/attitude/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) thoughts began [to](/post/to/) [turn](/post/turn/) towards [a](/post/a/) [new](/post/new/) [career](/post/career/) [path](/post/path/)."
+- **[A](/post/a/) [phase](/post/phase/) [or](/post/or/) [stage](/post/stage/) [in](/post/in/) [a](/post/a/) [process](/post/process/)**: [A](/post/a/) [point](/post/point/) [in](/post/in/) [time](/post/time/) [or](/post/or/) [development](/post/development/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [turning](/post/turning/) [point](/post/point/) [in](/post/in/) [the](/post/the/) [game](/post/game/) came [with](/post/with/) [a](/post/a/) crucial [goal](/post/goal/)."
+- **[A](/post/a/) person's [turn](/post/turn/)**: [The](/post/the/) [opportunity](/post/opportunity/) [to](/post/to/) [take](/post/take/) [part](/post/part/) [or](/post/or/) [act](/post/act/). [For](/post/for/) [example](/post/example/): "It's [your](/post/your/) [turn](/post/turn/) [to](/post/to/) [bat](/post/bat/) [now](/post/now/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [rotate](/en/post/rotate/) [or](/en/post/or/) [move](/en/post/move/) [around](/en/post/around/) [a](/en/post/a/) [central](/en/post/central/) [axis](/en/post/axis/)**: [She](/en/post/she/) turned [the](/en/post/the/) doorknob [to](/en/post/to/) [open](/en/post/open/) [the](/en/post/the/) [door](/en/post/door/).
-- **[To](/en/post/to/) [cause](/en/post/cause/) [to](/en/post/to/) [change](/en/post/change/) [direction](/en/post/direction/) [or](/en/post/or/) [face](/en/post/face/)**: [He](/en/post/he/) turned [to](/en/post/to/) [face](/en/post/face/) [the](/en/post/the/) approaching [danger](/en/post/danger/).
-- **[To](/en/post/to/) [change](/en/post/change/) one's [mind](/en/post/mind/) [or](/en/post/or/) [opinion](/en/post/opinion/)**: [He](/en/post/he/) couldn't [decide](/en/post/decide/), [so](/en/post/so/) [he](/en/post/he/) turned [his](/en/post/his/) [attention](/en/post/attention/) [elsewhere](/en/post/elsewhere/).
-- **[To](/en/post/to/) [hand](/en/post/hand/) [over](/en/post/over/) [control](/en/post/control/) [or](/en/post/or/) [responsibility](/en/post/responsibility/)**: [The](/en/post/the/) [teacher](/en/post/teacher/) turned [the](/en/post/the/) [class](/en/post/class/) [over](/en/post/over/) [to](/en/post/to/) [the](/en/post/the/) [substitute](/en/post/substitute/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [rotate](/post/rotate/) [or](/post/or/) [move](/post/move/) [around](/post/around/) [a](/post/a/) [central](/post/central/) [axis](/post/axis/)**: [She](/post/she/) turned [the](/post/the/) doorknob [to](/post/to/) [open](/post/open/) [the](/post/the/) [door](/post/door/).
+- **[To](/post/to/) [cause](/post/cause/) [to](/post/to/) [change](/post/change/) [direction](/post/direction/) [or](/post/or/) [face](/post/face/)**: [He](/post/he/) turned [to](/post/to/) [face](/post/face/) [the](/post/the/) approaching [danger](/post/danger/).
+- **[To](/post/to/) [change](/post/change/) one's [mind](/post/mind/) [or](/post/or/) [opinion](/post/opinion/)**: [He](/post/he/) couldn't [decide](/post/decide/), [so](/post/so/) [he](/post/he/) turned [his](/post/his/) [attention](/post/attention/) [elsewhere](/post/elsewhere/).
+- **[To](/post/to/) [hand](/post/hand/) [over](/post/over/) [control](/post/control/) [or](/post/or/) [responsibility](/post/responsibility/)**: [The](/post/the/) [teacher](/post/teacher/) turned [the](/post/the/) [class](/post/class/) [over](/post/over/) [to](/post/to/) [the](/post/the/) [substitute](/post/substitute/).
 
-### [Adjective](/en/post/adjective/)
-- **[In](/en/post/in/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) changing**: [The](/en/post/the/) [turning](/en/post/turning/) leaves [on](/en/post/on/) [the](/en/post/the/) trees [signal](/en/post/signal/) [autumn](/en/post/autumn/).
-- **Changing [or](/en/post/or/) undergoing [transformation](/en/post/transformation/)**: [The](/en/post/the/) [economy](/en/post/economy/) is currently [in](/en/post/in/) [a](/en/post/a/) [turning](/en/post/turning/) [point](/en/post/point/).
-- **Requiring [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [choice](/en/post/choice/)**: [The](/en/post/the/) [situation](/en/post/situation/) presented [a](/en/post/a/) [turning](/en/post/turning/) [point](/en/post/point/) [in](/en/post/in/) [their](/en/post/their/) lives.
+### [Adjective](/post/adjective/)
+- **[In](/post/in/) [the](/post/the/) [process](/post/process/) [of](/post/of/) changing**: [The](/post/the/) [turning](/post/turning/) leaves [on](/post/on/) [the](/post/the/) trees [signal](/post/signal/) [autumn](/post/autumn/).
+- **Changing [or](/post/or/) undergoing [transformation](/post/transformation/)**: [The](/post/the/) [economy](/post/economy/) is currently [in](/post/in/) [a](/post/a/) [turning](/post/turning/) [point](/post/point/).
+- **Requiring [a](/post/a/) [decision](/post/decision/) [or](/post/or/) [choice](/post/choice/)**: [The](/post/the/) [situation](/post/situation/) presented [a](/post/a/) [turning](/post/turning/) [point](/post/point/) [in](/post/in/) [their](/post/their/) lives.
 
-### [Adverb](/en/post/adverb/)
-- **Describing [the](/en/post/the/) [manner](/en/post/manner/) [of](/en/post/of/) [turning](/en/post/turning/)**: [She](/en/post/she/) turned [slowly](/en/post/slowly/) [to](/en/post/to/) [avoid](/en/post/avoid/) tripping.
-- **Indicating [a](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [direction](/en/post/direction/)**: [He](/en/post/he/) turned [left](/en/post/left/) [at](/en/post/at/) [the](/en/post/the/) intersection.
+### [Adverb](/post/adverb/)
+- **Describing [the](/post/the/) [manner](/post/manner/) [of](/post/of/) [turning](/post/turning/)**: [She](/post/she/) turned [slowly](/post/slowly/) [to](/post/to/) [avoid](/post/avoid/) tripping.
+- **Indicating [a](/post/a/) [change](/post/change/) [in](/post/in/) [direction](/post/direction/)**: [He](/post/he/) turned [left](/post/left/) [at](/post/at/) [the](/post/the/) intersection.
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) [turning](/en/post/turning/)": [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [sudden](/en/post/sudden/) [change](/en/post/change/) [in](/en/post/in/) [direction](/en/post/direction/) [or](/en/post/or/) [plan](/en/post/plan/).
-- "[Turn](/en/post/turn/) [of](/en/post/of/) events": An [unexpected](/en/post/unexpected/) [development](/en/post/development/) [in](/en/post/in/) [a](/en/post/a/) [situation](/en/post/situation/).
-- "[Turning](/en/post/turning/) [point](/en/post/point/)": [A](/en/post/a/) [critical](/en/post/critical/) juncture [that](/en/post/that/) leads [to](/en/post/to/) [a](/en/post/a/) [significant](/en/post/significant/) [change](/en/post/change/).
+- "[Take](/post/take/) [a](/post/a/) [turning](/post/turning/)": [To](/post/to/) [make](/post/make/) [a](/post/a/) [sudden](/post/sudden/) [change](/post/change/) [in](/post/in/) [direction](/post/direction/) [or](/post/or/) [plan](/post/plan/).
+- "[Turn](/post/turn/) [of](/post/of/) events": An [unexpected](/post/unexpected/) [development](/post/development/) [in](/post/in/) [a](/post/a/) [situation](/post/situation/).
+- "[Turning](/post/turning/) [point](/post/point/)": [A](/post/a/) [critical](/post/critical/) juncture [that](/post/that/) leads [to](/post/to/) [a](/post/a/) [significant](/post/significant/) [change](/post/change/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [car](/en/post/car/) took [a](/en/post/a/) [sharp](/en/post/sharp/) [turning](/en/post/turning/) [on](/en/post/on/) [the](/en/post/the/) winding [road](/en/post/road/).
-- **[Verb](/en/post/verb/)**: [After](/en/post/after/) months [of](/en/post/of/) contemplation, [he](/en/post/he/) decided [to](/en/post/to/) [turn](/en/post/turn/) [his](/en/post/his/) [life](/en/post/life/) [around](/en/post/around/).
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) [top](/en/post/top/) [of](/en/post/of/) [the](/en/post/the/) [mountain](/en/post/mountain/) offered [a](/en/post/a/) stunning [turning](/en/post/turning/) [of](/en/post/of/) [the](/en/post/the/) landscape.
-- **[Adverb](/en/post/adverb/)**: [He](/en/post/he/) took [a](/en/post/a/) [sudden](/en/post/sudden/) [turning](/en/post/turning/) [and](/en/post/and/) disappeared [from](/en/post/from/) [sight](/en/post/sight/).
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [car](/post/car/) took [a](/post/a/) [sharp](/post/sharp/) [turning](/post/turning/) [on](/post/on/) [the](/post/the/) winding [road](/post/road/).
+- **[Verb](/post/verb/)**: [After](/post/after/) months [of](/post/of/) contemplation, [he](/post/he/) decided [to](/post/to/) [turn](/post/turn/) [his](/post/his/) [life](/post/life/) [around](/post/around/).
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) [top](/post/top/) [of](/post/of/) [the](/post/the/) [mountain](/post/mountain/) offered [a](/post/a/) stunning [turning](/post/turning/) [of](/post/of/) [the](/post/the/) landscape.
+- **[Adverb](/post/adverb/)**: [He](/post/he/) took [a](/post/a/) [sudden](/post/sudden/) [turning](/post/turning/) [and](/post/and/) disappeared [from](/post/from/) [sight](/post/sight/).
 
 ## Synonyms
-- [Rotation](/en/post/rotation/)
-- [Conversion](/en/post/conversion/)
+- [Rotation](/post/rotation/)
+- [Conversion](/post/conversion/)
 - Pivot
-- [Shift](/en/post/shift/)
+- [Shift](/post/shift/)
 - U-turn
 - volte-face
-- [Change](/en/post/change/) [of](/en/post/of/) [heart](/en/post/heart/)
-- [Transformation](/en/post/transformation/)
+- [Change](/post/change/) [of](/post/of/) [heart](/post/heart/)
+- [Transformation](/post/transformation/)

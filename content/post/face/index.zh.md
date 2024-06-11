@@ -11,23 +11,23 @@ keywords = ['ai words', 'face']
 /feɪs/
 
 ## 释义
-- **名词 (n)**: 脸，面部特征。例如: "[She](/post/she/) has [a](/post/a/) [beautiful](/post/beautiful/) [face](/post/face/)."
-- **名词**: 面对，面向。例如: "[He](/post/he/) had [to](/post/to/) [face](/post/face/) [his](/post/his/) fears."
-- **动词 (v)**: 面对，正视。例如: "[She](/post/she/) faced [her](/post/her/) challenges [with](/post/with/) [courage](/post/courage/)."
+- **名词 (n)**: 脸，面部特征。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [face](/zh/post/face/)."
+- **名词**: 面对，面向。例如: "[He](/zh/post/he/) had [to](/zh/post/to/) [face](/zh/post/face/) [his](/zh/post/his/) fears."
+- **动词 (v)**: 面对，正视。例如: "[She](/zh/post/she/) faced [her](/zh/post/her/) challenges [with](/zh/post/with/) [courage](/zh/post/courage/)."
 
 ## 短语
-- "[Put](/post/put/) [on](/post/on/) [a](/post/a/) [brave](/post/brave/) [face](/post/face/)" 意味着表现得坚强，即使内心害怕。
-- "[In](/post/in/) [the](/post/the/) [face](/post/face/) [of](/post/of/) adversity" 指在困难或挑战面前。
-- "[Face](/post/face/) [up](/post/up/) [to](/post/to/) [something](/post/something/)" 意为勇敢地接受或面对问题。
+- "[Put](/zh/post/put/) [on](/zh/post/on/) [a](/zh/post/a/) [brave](/zh/post/brave/) [face](/zh/post/face/)" 意味着表现得坚强，即使内心害怕。
+- "[In](/zh/post/in/) [the](/zh/post/the/) [face](/zh/post/face/) [of](/zh/post/of/) adversity" 指在困难或挑战面前。
+- "[Face](/zh/post/face/) [up](/zh/post/up/) [to](/zh/post/to/) [something](/zh/post/something/)" 意为勇敢地接受或面对问题。
 
 ## 例句
-- 名词: "[The](/post/the/) baby's [face](/post/face/) lit [up](/post/up/) [when](/post/when/) [he](/post/he/) [saw](/post/saw/) [his](/post/his/) [mother](/post/mother/)."
-- 动词: "[She](/post/she/) faced [the](/post/the/) [crowd](/post/crowd/) [with](/post/with/) [confidence](/post/confidence/)."
-- 名词（面对）: "[He](/post/he/) couldn't [hide](/post/hide/) [his](/post/his/) disappointment [in](/post/in/) [the](/post/the/) [face](/post/face/) [of](/post/of/) [failure](/post/failure/)."
+- 名词: "[The](/zh/post/the/) baby's [face](/zh/post/face/) lit [up](/zh/post/up/) [when](/zh/post/when/) [he](/zh/post/he/) [saw](/zh/post/saw/) [his](/zh/post/his/) [mother](/zh/post/mother/)."
+- 动词: "[She](/zh/post/she/) faced [the](/zh/post/the/) [crowd](/zh/post/crowd/) [with](/zh/post/with/) [confidence](/zh/post/confidence/)."
+- 名词（面对）: "[He](/zh/post/he/) couldn't [hide](/zh/post/hide/) [his](/zh/post/his/) disappointment [in](/zh/post/in/) [the](/zh/post/the/) [face](/zh/post/face/) [of](/zh/post/of/) [failure](/zh/post/failure/)."
 
 ## 同义词
 - Countenance
 - Visage
-- [Front](/post/front/)
-- [Appearance](/post/appearance/)
-- [Look](/post/look/)
+- [Front](/zh/post/front/)
+- [Appearance](/zh/post/appearance/)
+- [Look](/zh/post/look/)

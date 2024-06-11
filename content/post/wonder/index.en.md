@@ -7,32 +7,32 @@ description = '[ˈwʌndə] n.惊异，惊奇；奇迹'
 keywords = ['ai words', 'wonder']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /wʌndər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[wonder](/en/post/wonder/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [surprise](/en/post/surprise/), admiration, [or](/en/post/or/) [curiosity](/en/post/curiosity/) [at](/en/post/at/) [something](/en/post/something/) [extraordinary](/en/post/extraordinary/) [or](/en/post/or/) [difficult](/en/post/difficult/) [to](/en/post/to/) [understand](/en/post/understand/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) child's [imagination](/en/post/imagination/) was filled [with](/en/post/with/) wonders [of](/en/post/of/) [the](/en/post/the/) [universe](/en/post/universe/)."
-- **amazement** ([noun](/en/post/noun/)): [A](/en/post/a/) [strong](/en/post/strong/) [sense](/en/post/sense/) [of](/en/post/of/) [wonder](/en/post/wonder/) [and](/en/post/and/) [surprise](/en/post/surprise/) [at](/en/post/at/) [something](/en/post/something/) [impressive](/en/post/impressive/). [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) [achievement](/en/post/achievement/) sparked amazement [among](/en/post/among/) [their](/en/post/their/) peers."
-- **奇迹** (Chinese): [A](/en/post/a/) [remarkable](/en/post/remarkable/) [event](/en/post/event/) [that](/en/post/that/) seems [unlikely](/en/post/unlikely/) [or](/en/post/or/) [impossible](/en/post/impossible/).
+### [Noun](/post/noun/)
+- **[wonder](/post/wonder/)** ([noun](/post/noun/)): [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [surprise](/post/surprise/), admiration, [or](/post/or/) [curiosity](/post/curiosity/) [at](/post/at/) [something](/post/something/) [extraordinary](/post/extraordinary/) [or](/post/or/) [difficult](/post/difficult/) [to](/post/to/) [understand](/post/understand/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) child's [imagination](/post/imagination/) was filled [with](/post/with/) wonders [of](/post/of/) [the](/post/the/) [universe](/post/universe/)."
+- **amazement** ([noun](/post/noun/)): [A](/post/a/) [strong](/post/strong/) [sense](/post/sense/) [of](/post/of/) [wonder](/post/wonder/) [and](/post/and/) [surprise](/post/surprise/) [at](/post/at/) [something](/post/something/) [impressive](/post/impressive/). [For](/post/for/) [example](/post/example/): "[Their](/post/their/) [achievement](/post/achievement/) sparked amazement [among](/post/among/) [their](/post/their/) peers."
+- **奇迹** (Chinese): [A](/post/a/) [remarkable](/post/remarkable/) [event](/post/event/) [that](/post/that/) seems [unlikely](/post/unlikely/) [or](/post/or/) [impossible](/post/impossible/).
 
-### [Verb](/en/post/verb/)
-- **[to](/en/post/to/) [wonder](/en/post/wonder/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [think](/en/post/think/) [or](/en/post/or/) [feel](/en/post/feel/) unsure [about](/en/post/about/) [something](/en/post/something/), [or](/en/post/or/) [to](/en/post/to/) [be](/en/post/be/) [curious](/en/post/curious/) [or](/en/post/or/) puzzled [by](/en/post/by/) [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) couldn't [help](/en/post/help/) [but](/en/post/but/) [wonder](/en/post/wonder/) [how](/en/post/how/) [they](/en/post/they/) managed [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [so](/en/post/so/) [quickly](/en/post/quickly/)."
-- **[to](/en/post/to/) marvel** ([verb](/en/post/verb/)): [To](/en/post/to/) [be](/en/post/be/) filled [with](/en/post/with/) [wonder](/en/post/wonder/) [and](/en/post/and/) admiration [over](/en/post/over/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) marveled [at](/en/post/at/) [the](/en/post/the/) breathtaking [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) [mountain](/en/post/mountain/) [top](/en/post/top/)."
+### [Verb](/post/verb/)
+- **[to](/post/to/) [wonder](/post/wonder/)** ([verb](/post/verb/)): [To](/post/to/) [think](/post/think/) [or](/post/or/) [feel](/post/feel/) unsure [about](/post/about/) [something](/post/something/), [or](/post/or/) [to](/post/to/) [be](/post/be/) [curious](/post/curious/) [or](/post/or/) puzzled [by](/post/by/) [it](/post/it/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) couldn't [help](/post/help/) [but](/post/but/) [wonder](/post/wonder/) [how](/post/how/) [they](/post/they/) managed [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [so](/post/so/) [quickly](/post/quickly/)."
+- **[to](/post/to/) marvel** ([verb](/post/verb/)): [To](/post/to/) [be](/post/be/) filled [with](/post/with/) [wonder](/post/wonder/) [and](/post/and/) admiration [over](/post/over/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) marveled [at](/post/at/) [the](/post/the/) breathtaking [view](/post/view/) [from](/post/from/) [the](/post/the/) [mountain](/post/mountain/) [top](/post/top/)."
 
-### [Adjective](/en/post/adjective/)
-- **[wonderful](/en/post/wonderful/)** ([adjective](/en/post/adjective/)): [Extremely](/en/post/extremely/) [good](/en/post/good/) [or](/en/post/or/) pleasing; delightful. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) was [wonderful](/en/post/wonderful/) [for](/en/post/for/) [a](/en/post/a/) [picnic](/en/post/picnic/)."
-- **[marvelous](/en/post/marvelous/)** ([adjective](/en/post/adjective/)): [Impressive](/en/post/impressive/) [or](/en/post/or/) [extraordinary](/en/post/extraordinary/) [in](/en/post/in/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) magician's [performance](/en/post/performance/) was [absolutely](/en/post/absolutely/) [marvelous](/en/post/marvelous/)."
+### [Adjective](/post/adjective/)
+- **[wonderful](/post/wonderful/)** ([adjective](/post/adjective/)): [Extremely](/post/extremely/) [good](/post/good/) [or](/post/or/) pleasing; delightful. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) was [wonderful](/post/wonderful/) [for](/post/for/) [a](/post/a/) [picnic](/post/picnic/)."
+- **[marvelous](/post/marvelous/)** ([adjective](/post/adjective/)): [Impressive](/post/impressive/) [or](/post/or/) [extraordinary](/post/extraordinary/) [in](/post/in/) [quality](/post/quality/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) magician's [performance](/post/performance/) was [absolutely](/post/absolutely/) [marvelous](/post/marvelous/)."
 
 ## Phrases
-- "Wonders [of](/en/post/of/) [the](/en/post/the/) [world](/en/post/world/)" refers [to](/en/post/to/) [remarkable](/en/post/remarkable/) [or](/en/post/or/) [impressive](/en/post/impressive/) [natural](/en/post/natural/) [or](/en/post/or/) human-made features.
-- "[Wonder](/en/post/wonder/) [what](/en/post/what/)..." is [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [curiosity](/en/post/curiosity/) [or](/en/post/or/) speculation. "I [wonder](/en/post/wonder/) [what](/en/post/what/) she's thinking."
-- "[Childhood](/en/post/childhood/) [wonder](/en/post/wonder/)" describes [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) amazement [and](/en/post/and/) excitement felt [during](/en/post/during/) [early](/en/post/early/) years.
+- "Wonders [of](/post/of/) [the](/post/the/) [world](/post/world/)" refers [to](/post/to/) [remarkable](/post/remarkable/) [or](/post/or/) [impressive](/post/impressive/) [natural](/post/natural/) [or](/post/or/) human-made features.
+- "[Wonder](/post/wonder/) [what](/post/what/)..." is [used](/post/used/) [to](/post/to/) [express](/post/express/) [curiosity](/post/curiosity/) [or](/post/or/) speculation. "I [wonder](/post/wonder/) [what](/post/what/) she's thinking."
+- "[Childhood](/post/childhood/) [wonder](/post/wonder/)" describes [the](/post/the/) [sense](/post/sense/) [of](/post/of/) amazement [and](/post/and/) excitement felt [during](/post/during/) [early](/post/early/) years.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sight](/en/post/sight/) [of](/en/post/of/) [the](/en/post/the/) stars filled [her](/en/post/her/) [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [wonder](/en/post/wonder/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) couldn't [help](/en/post/help/) [but](/en/post/but/) [wonder](/en/post/wonder/) [if](/en/post/if/) [the](/en/post/the/) [solution](/en/post/solution/) was [really](/en/post/really/) [that](/en/post/that/) [simple](/en/post/simple/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) magician's tricks were [nothing](/en/post/nothing/) [short](/en/post/short/) [of](/en/post/of/) [wonderful](/en/post/wonderful/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sight](/post/sight/) [of](/post/of/) [the](/post/the/) stars filled [her](/post/her/) [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [wonder](/post/wonder/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) couldn't [help](/post/help/) [but](/post/but/) [wonder](/post/wonder/) [if](/post/if/) [the](/post/the/) [solution](/post/solution/) was [really](/post/really/) [that](/post/that/) [simple](/post/simple/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) magician's tricks were [nothing](/post/nothing/) [short](/post/short/) [of](/post/of/) [wonderful](/post/wonderful/)."
 
 ## Synonyms
 - Astonishment

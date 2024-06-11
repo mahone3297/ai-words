@@ -7,34 +7,34 @@ description = '[ˈplænit] n.行星'
 keywords = ['ai words', 'planet']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /plænɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **Astronomy**: [A](/en/post/a/) celestial [body](/en/post/body/) [that](/en/post/that/) revolves [around](/en/post/around/) [a](/en/post/a/) [star](/en/post/star/) [and](/en/post/and/) is [not](/en/post/not/) [a](/en/post/a/) [star](/en/post/star/) [itself](/en/post/itself/), typically having [sufficient](/en/post/sufficient/) [mass](/en/post/mass/) [to](/en/post/to/) [assume](/en/post/assume/) [a](/en/post/a/) [nearly](/en/post/nearly/) spherical [shape](/en/post/shape/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [own](/en/post/own/) [gravity](/en/post/gravity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [solar](/en/post/solar/) [system](/en/post/system/) has [eight](/en/post/eight/) planets: [Mercury](/en/post/mercury/), Venus, [Earth](/en/post/earth/), Mars, Jupiter, Saturn, Uranus, [and](/en/post/and/) Neptune."
-2. **[Science](/en/post/science/)**: [A](/en/post/a/) [large](/en/post/large/), [usually](/en/post/usually/) spherical [object](/en/post/object/) [in](/en/post/in/) [space](/en/post/space/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) defined [atmosphere](/en/post/atmosphere/) [and](/en/post/and/) [capable](/en/post/capable/) [of](/en/post/of/) supporting [life](/en/post/life/) ([Earth](/en/post/earth/) is [the](/en/post/the/) [only](/en/post/only/) known [planet](/en/post/planet/) [with](/en/post/with/) [life](/en/post/life/)).
+### [Noun](/post/noun/)
+1. **Astronomy**: [A](/post/a/) celestial [body](/post/body/) [that](/post/that/) revolves [around](/post/around/) [a](/post/a/) [star](/post/star/) [and](/post/and/) is [not](/post/not/) [a](/post/a/) [star](/post/star/) [itself](/post/itself/), typically having [sufficient](/post/sufficient/) [mass](/post/mass/) [to](/post/to/) [assume](/post/assume/) [a](/post/a/) [nearly](/post/nearly/) spherical [shape](/post/shape/) [due](/post/due/) [to](/post/to/) [its](/post/its/) [own](/post/own/) [gravity](/post/gravity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [solar](/post/solar/) [system](/post/system/) has [eight](/post/eight/) planets: [Mercury](/post/mercury/), Venus, [Earth](/post/earth/), Mars, Jupiter, Saturn, Uranus, [and](/post/and/) Neptune."
+2. **[Science](/post/science/)**: [A](/post/a/) [large](/post/large/), [usually](/post/usually/) spherical [object](/post/object/) [in](/post/in/) [space](/post/space/), [often](/post/often/) [with](/post/with/) [a](/post/a/) defined [atmosphere](/post/atmosphere/) [and](/post/and/) [capable](/post/capable/) [of](/post/of/) supporting [life](/post/life/) ([Earth](/post/earth/) is [the](/post/the/) [only](/post/only/) known [planet](/post/planet/) [with](/post/with/) [life](/post/life/)).
 
-### [Adjective](/en/post/adjective/)
-1. Designating [a](/en/post/a/) celestial [body](/en/post/body/) fulfilling [the](/en/post/the/) criteria mentioned [above](/en/post/above/).
+### [Adjective](/post/adjective/)
+1. Designating [a](/post/a/) celestial [body](/post/body/) fulfilling [the](/post/the/) criteria mentioned [above](/post/above/).
 
 ## Phrases
-- "[Planet](/en/post/planet/) [Earth](/en/post/earth/)" refers [to](/en/post/to/) [our](/en/post/our/) [home](/en/post/home/) [planet](/en/post/planet/).
-- "Planetary [system](/en/post/system/)" denotes [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) celestial bodies orbiting [a](/en/post/a/) [central](/en/post/central/) [star](/en/post/star/).
-- "Exoplanet" is [a](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [for](/en/post/for/) [a](/en/post/a/) [planet](/en/post/planet/) located [outside](/en/post/outside/) [our](/en/post/our/) [solar](/en/post/solar/) [system](/en/post/system/).
+- "[Planet](/post/planet/) [Earth](/post/earth/)" refers [to](/post/to/) [our](/post/our/) [home](/post/home/) [planet](/post/planet/).
+- "Planetary [system](/post/system/)" denotes [a](/post/a/) [group](/post/group/) [of](/post/of/) celestial bodies orbiting [a](/post/a/) [central](/post/central/) [star](/post/star/).
+- "Exoplanet" is [a](/post/a/) [term](/post/term/) [used](/post/used/) [for](/post/for/) [a](/post/a/) [planet](/post/planet/) located [outside](/post/outside/) [our](/post/our/) [solar](/post/solar/) [system](/post/system/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Jupiter is [the](/en/post/the/) largest [planet](/en/post/planet/) [in](/en/post/in/) [our](/en/post/our/) [solar](/en/post/solar/) [system](/en/post/system/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) exoplanet Proxima Centauri b is considered [a](/en/post/a/) rocky [planet](/en/post/planet/)."
-- "[The](/en/post/the/) [scientific](/en/post/scientific/) [study](/en/post/study/) [of](/en/post/of/) planets is called planetary [science](/en/post/science/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Jupiter is [the](/post/the/) largest [planet](/post/planet/) [in](/post/in/) [our](/post/our/) [solar](/post/solar/) [system](/post/system/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) exoplanet Proxima Centauri b is considered [a](/post/a/) rocky [planet](/post/planet/)."
+- "[The](/post/the/) [scientific](/post/scientific/) [study](/post/study/) [of](/post/of/) planets is called planetary [science](/post/science/)."
 
 ## Synonyms
-- [World](/en/post/world/)
-- [Solar](/en/post/solar/) [body](/en/post/body/)
-- Celestial [body](/en/post/body/)
-- Orbital [body](/en/post/body/)
+- [World](/post/world/)
+- [Solar](/post/solar/) [body](/post/body/)
+- Celestial [body](/post/body/)
+- Orbital [body](/post/body/)
 - Exo-world
 
 ## Antonyms
-- [Satellite](/en/post/satellite/)
-- Dwarf [planet](/en/post/planet/) ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [classification](/en/post/classification/) [within](/en/post/within/) [our](/en/post/our/) [solar](/en/post/solar/) [system](/en/post/system/))
+- [Satellite](/post/satellite/)
+- Dwarf [planet](/post/planet/) ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) [classification](/post/classification/) [within](/post/within/) [our](/post/our/) [solar](/post/solar/) [system](/post/system/))

@@ -11,20 +11,20 @@ keywords = ['ai words', 'investigate']
 /ɪnˈvestɪɡeɪt/
 
 ## 释义
-- **动词**: 进行调查，研究。例如: "[The](/post/the/) [police](/post/police/) are investigating [the](/post/the/) [crime](/post/crime/) [scene](/post/scene/)."
-- **名词**: 调查，探究。例如: "[The](/post/the/) [investigation](/post/investigation/) uncovered [new](/post/new/) [evidence](/post/evidence/)."
+- **动词**: 进行调查，研究。例如: "[The](/zh/post/the/) [police](/zh/post/police/) are investigating [the](/zh/post/the/) [crime](/zh/post/crime/) [scene](/zh/post/scene/)."
+- **名词**: 调查，探究。例如: "[The](/zh/post/the/) [investigation](/zh/post/investigation/) uncovered [new](/zh/post/new/) [evidence](/zh/post/evidence/)."
 
 ## 短语
-- "[To](/post/to/) [investigate](/post/investigate/) [something](/post/something/)" 意为对某事进行调查。
-- "[Investigate](/post/investigate/) thoroughly" 意味着彻底调查。
+- "[To](/zh/post/to/) [investigate](/zh/post/investigate/) [something](/zh/post/something/)" 意为对某事进行调查。
+- "[Investigate](/zh/post/investigate/) thoroughly" 意味着彻底调查。
 
 ## 例句
-- 动词: "[The](/post/the/) [journalist](/post/journalist/) is investigating [the](/post/the/) corruption allegations."
-- 名词: "[The](/post/the/) [company](/post/company/) launched an [internal](/post/internal/) [investigation](/post/investigation/) [into](/post/into/) [the](/post/the/) [safety](/post/safety/) [issue](/post/issue/)."
+- 动词: "[The](/zh/post/the/) [journalist](/zh/post/journalist/) is investigating [the](/zh/post/the/) corruption allegations."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) launched an [internal](/zh/post/internal/) [investigation](/zh/post/investigation/) [into](/zh/post/into/) [the](/zh/post/the/) [safety](/zh/post/safety/) [issue](/zh/post/issue/)."
 
 ## 同义词
-- [Examine](/post/examine/)
+- [Examine](/zh/post/examine/)
 - Probe
-- [Research](/post/research/)
+- [Research](/zh/post/research/)
 - Scrutinize
-- [Study](/post/study/)
+- [Study](/zh/post/study/)

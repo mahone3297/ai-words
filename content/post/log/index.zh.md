@@ -12,26 +12,26 @@ keywords = ['ai words', 'log']
 
 ## 释义
 - **名词**:
-   - 记录或日志，通常是指计算机中的系统记录或航海日志。例如: "I checked [the](/post/the/) server logs [for](/post/for/) [any](/post/any/) errors."
-   - 木头块，原木。例如: "[The](/post/the/) lumberjack [cut](/post/cut/) [down](/post/down/) [the](/post/the/) [tree](/post/tree/) [and](/post/and/) [left](/post/left/) [a](/post/a/) [large](/post/large/) [log](/post/log/) [on](/post/on/) [the](/post/the/) [ground](/post/ground/)."
+   - 记录或日志，通常是指计算机中的系统记录或航海日志。例如: "I checked [the](/zh/post/the/) server logs [for](/zh/post/for/) [any](/zh/post/any/) errors."
+   - 木头块，原木。例如: "[The](/zh/post/the/) lumberjack [cut](/zh/post/cut/) [down](/zh/post/down/) [the](/zh/post/the/) [tree](/zh/post/tree/) [and](/zh/post/and/) [left](/zh/post/left/) [a](/zh/post/a/) [large](/zh/post/large/) [log](/zh/post/log/) [on](/zh/post/on/) [the](/zh/post/the/) [ground](/zh/post/ground/)."
 
 - **动词**:
-   - 记录或登记。例如: "[The](/post/the/) [program](/post/program/) automatically logs [all](/post/all/) [user](/post/user/) activities."
-   - 切成或劈成木头块。例如: "[He](/post/he/) logged [the](/post/the/) [wood](/post/wood/) [for](/post/for/) [winter](/post/winter/) [fuel](/post/fuel/)."
+   - 记录或登记。例如: "[The](/zh/post/the/) [program](/zh/post/program/) automatically logs [all](/zh/post/all/) [user](/zh/post/user/) activities."
+   - 切成或劈成木头块。例如: "[He](/zh/post/he/) logged [the](/zh/post/the/) [wood](/zh/post/wood/) [for](/zh/post/for/) [winter](/zh/post/winter/) [fuel](/zh/post/fuel/)."
 
 ## 短语
-- "[Log](/post/log/) [in](/post/in/)/[out](/post/out/)" 登录/退出（账户）。
-- "[Activity](/post/activity/) [log](/post/log/)" 活动日志，记录了某段时间内的活动。
-- "[Cut](/post/cut/) logs" 切割原木。
+- "[Log](/zh/post/log/) [in](/zh/post/in/)/[out](/zh/post/out/)" 登录/退出（账户）。
+- "[Activity](/zh/post/activity/) [log](/zh/post/log/)" 活动日志，记录了某段时间内的活动。
+- "[Cut](/zh/post/cut/) logs" 切割原木。
 
 ## 例句
-- 名词: "[The](/post/the/) [forest](/post/forest/) ranger reviewed [the](/post/the/) [daily](/post/daily/) [log](/post/log/) [to](/post/to/) [monitor](/post/monitor/) wildlife sightings."
-- 动词: "[She](/post/she/) logged [every](/post/every/) [book](/post/book/) [she](/post/she/) [read](/post/read/) [during](/post/during/) [the](/post/the/) [summer](/post/summer/) [vacation](/post/vacation/)."
-- "[He](/post/he/) stacked [the](/post/the/) freshly [cut](/post/cut/) logs neatly [by](/post/by/) [the](/post/the/) [shed](/post/shed/)."
+- 名词: "[The](/zh/post/the/) [forest](/zh/post/forest/) ranger reviewed [the](/zh/post/the/) [daily](/zh/post/daily/) [log](/zh/post/log/) [to](/zh/post/to/) [monitor](/zh/post/monitor/) wildlife sightings."
+- 动词: "[She](/zh/post/she/) logged [every](/zh/post/every/) [book](/zh/post/book/) [she](/zh/post/she/) [read](/zh/post/read/) [during](/zh/post/during/) [the](/zh/post/the/) [summer](/zh/post/summer/) [vacation](/zh/post/vacation/)."
+- "[He](/zh/post/he/) stacked [the](/zh/post/the/) freshly [cut](/zh/post/cut/) logs neatly [by](/zh/post/by/) [the](/zh/post/the/) [shed](/zh/post/shed/)."
 
 ## 同义词
-- [Record](/post/record/)
-- [Journal](/post/journal/)
-- [Register](/post/register/)
+- [Record](/zh/post/record/)
+- [Journal](/zh/post/journal/)
+- [Register](/zh/post/register/)
 - Chronicle
-- [Entry](/post/entry/)
+- [Entry](/zh/post/entry/)

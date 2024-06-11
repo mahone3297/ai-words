@@ -7,41 +7,41 @@ description = '[sjuːˈpiəriə] a.较高的；优越的'
 keywords = ['ai words', 'superior']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /suːˈpɪriər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **Superiority**: [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [better](/en/post/better/) [or](/en/post/or/) [more](/en/post/more/) [advanced](/en/post/advanced/) [than](/en/post/than/) others [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/) [or](/en/post/or/) [comparison](/en/post/comparison/). [Example](/en/post/example/): "[Their](/en/post/their/) architectural [design](/en/post/design/) holds [a](/en/post/a/) [certain](/en/post/certain/) aesthetic superiority."
-2. **[Superior](/en/post/superior/)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is considered [to](/en/post/to/) [be](/en/post/be/) [of](/en/post/of/) higher [rank](/en/post/rank/), [quality](/en/post/quality/), [or](/en/post/or/) [ability](/en/post/ability/). [Example](/en/post/example/): "[The](/en/post/the/) team's [captain](/en/post/captain/) is [often](/en/post/often/) seen [as](/en/post/as/) [the](/en/post/the/) [superior](/en/post/superior/) [leader](/en/post/leader/)."
+### [Noun](/post/noun/)
+1. **Superiority**: [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [better](/post/better/) [or](/post/or/) [more](/post/more/) [advanced](/post/advanced/) [than](/post/than/) others [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/) [or](/post/or/) [comparison](/post/comparison/). [Example](/post/example/): "[Their](/post/their/) architectural [design](/post/design/) holds [a](/post/a/) [certain](/post/certain/) aesthetic superiority."
+2. **[Superior](/post/superior/)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is considered [to](/post/to/) [be](/post/be/) [of](/post/of/) higher [rank](/post/rank/), [quality](/post/quality/), [or](/post/or/) [ability](/post/ability/). [Example](/post/example/): "[The](/post/the/) team's [captain](/post/captain/) is [often](/post/often/) seen [as](/post/as/) [the](/post/the/) [superior](/post/superior/) [leader](/post/leader/)."
 
-### [Adjective](/en/post/adjective/)
-1. [Rank](/en/post/rank/) [above](/en/post/above/) others [in](/en/post/in/) terms [of](/en/post/of/) [quality](/en/post/quality/), [skill](/en/post/skill/), [or](/en/post/or/) [importance](/en/post/importance/). [Example](/en/post/example/): "[The](/en/post/the/) [superior](/en/post/superior/) [officer](/en/post/officer/) gave orders [to](/en/post/to/) [the](/en/post/the/) troops."
-2. Higher [in](/en/post/in/) [degree](/en/post/degree/) [or](/en/post/or/) [standard](/en/post/standard/). [Example](/en/post/example/): "[A](/en/post/a/) [superior](/en/post/superior/) [performance](/en/post/performance/) [on](/en/post/on/) [the](/en/post/the/) [exam](/en/post/exam/)."
-3. [Excellent](/en/post/excellent/) [or](/en/post/or/) [outstanding](/en/post/outstanding/). [Example](/en/post/example/): "[Her](/en/post/her/) cooking skills are [truly](/en/post/truly/) [superior](/en/post/superior/)."
+### [Adjective](/post/adjective/)
+1. [Rank](/post/rank/) [above](/post/above/) others [in](/post/in/) terms [of](/post/of/) [quality](/post/quality/), [skill](/post/skill/), [or](/post/or/) [importance](/post/importance/). [Example](/post/example/): "[The](/post/the/) [superior](/post/superior/) [officer](/post/officer/) gave orders [to](/post/to/) [the](/post/the/) troops."
+2. Higher [in](/post/in/) [degree](/post/degree/) [or](/post/or/) [standard](/post/standard/). [Example](/post/example/): "[A](/post/a/) [superior](/post/superior/) [performance](/post/performance/) [on](/post/on/) [the](/post/the/) [exam](/post/exam/)."
+3. [Excellent](/post/excellent/) [or](/post/or/) [outstanding](/post/outstanding/). [Example](/post/example/): "[Her](/post/her/) cooking skills are [truly](/post/truly/) [superior](/post/superior/)."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) [superior](/en/post/superior/) [manner](/en/post/manner/) [or](/en/post/or/) [to](/en/post/to/) [a](/en/post/a/) greater [extent](/en/post/extent/). [Example](/en/post/example/): "[He](/en/post/he/) solved [the](/en/post/the/) [problem](/en/post/problem/) [in](/en/post/in/) [a](/en/post/a/) [superior](/en/post/superior/) [way](/en/post/way/)."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) [superior](/post/superior/) [manner](/post/manner/) [or](/post/or/) [to](/post/to/) [a](/post/a/) greater [extent](/post/extent/). [Example](/post/example/): "[He](/post/he/) solved [the](/post/the/) [problem](/post/problem/) [in](/post/in/) [a](/post/a/) [superior](/post/superior/) [way](/post/way/)."
 
 ## Phrases
-- "[Hold](/en/post/hold/) [your](/en/post/your/) [own](/en/post/own/) [against](/en/post/against/) [the](/en/post/the/) [superior](/en/post/superior/) [opponent](/en/post/opponent/)"
-- "[Be](/en/post/be/) [superior](/en/post/superior/) [to](/en/post/to/) [something](/en/post/something/) [else](/en/post/else/)"
-- "Acting [in](/en/post/in/) [a](/en/post/a/) [superior](/en/post/superior/) [manner](/en/post/manner/)"
-- "[The](/en/post/the/) [superior](/en/post/superior/) [mind](/en/post/mind/)"
-- "[The](/en/post/the/) [superior](/en/post/superior/) intellect"
+- "[Hold](/post/hold/) [your](/post/your/) [own](/post/own/) [against](/post/against/) [the](/post/the/) [superior](/post/superior/) [opponent](/post/opponent/)"
+- "[Be](/post/be/) [superior](/post/superior/) [to](/post/to/) [something](/post/something/) [else](/post/else/)"
+- "Acting [in](/post/in/) [a](/post/a/) [superior](/post/superior/) [manner](/post/manner/)"
+- "[The](/post/the/) [superior](/post/superior/) [mind](/post/mind/)"
+- "[The](/post/the/) [superior](/post/superior/) intellect"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) architect's [design](/en/post/design/) was praised [for](/en/post/for/) [its](/en/post/its/) architectural superiority."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [employee](/en/post/employee/) showed [a](/en/post/a/) [superior](/en/post/superior/) [work](/en/post/work/) ethic compared [to](/en/post/to/) [her](/en/post/her/) colleagues."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) managed [to](/en/post/to/) [complete](/en/post/complete/) [the](/en/post/the/) [task](/en/post/task/) [with](/en/post/with/) [superior](/en/post/superior/) [efficiency](/en/post/efficiency/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) architect's [design](/post/design/) was praised [for](/post/for/) [its](/post/its/) architectural superiority."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [employee](/post/employee/) showed [a](/post/a/) [superior](/post/superior/) [work](/post/work/) ethic compared [to](/post/to/) [her](/post/her/) colleagues."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) managed [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [task](/post/task/) [with](/post/with/) [superior](/post/superior/) [efficiency](/post/efficiency/)."
 
 ## Synonyms
-- [Better](/en/post/better/)
+- [Better](/post/better/)
 - Exceptional
 - Exemplary
 - Peerless
-- [Outstanding](/en/post/outstanding/)
+- [Outstanding](/post/outstanding/)
 - High-ranking
 - Elite
 - First-rate
-- [Supreme](/en/post/supreme/)
+- [Supreme](/post/supreme/)

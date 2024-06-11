@@ -7,41 +7,41 @@ description = '[ˈtɔləreit] vt.忍受，容忍，宽恕'
 keywords = ['ai words', 'tolerate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /təˈlərənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Tolerance](/en/post/tolerance/)**: [The](/en/post/the/) [ability](/en/post/ability/) [or](/en/post/or/) willingness [to](/en/post/to/) [accept](/en/post/accept/) [or](/en/post/or/) [endure](/en/post/endure/) [something](/en/post/something/), [especially](/en/post/especially/) [something](/en/post/something/) [one](/en/post/one/) [might](/en/post/might/) [normally](/en/post/normally/) [dislike](/en/post/dislike/) [or](/en/post/or/) [disagree](/en/post/disagree/) [with](/en/post/with/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [community](/en/post/community/) showed [great](/en/post/great/) [tolerance](/en/post/tolerance/) towards [different](/en/post/different/) lifestyles."
-**Indifference**: [Lack](/en/post/lack/) [of](/en/post/of/) [interest](/en/post/interest/) [or](/en/post/or/) [concern](/en/post/concern/) [about](/en/post/about/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) indifference towards [the](/en/post/the/) [situation](/en/post/situation/) was [surprising](/en/post/surprising/)."
+### [Noun](/post/noun/)
+**[Tolerance](/post/tolerance/)**: [The](/post/the/) [ability](/post/ability/) [or](/post/or/) willingness [to](/post/to/) [accept](/post/accept/) [or](/post/or/) [endure](/post/endure/) [something](/post/something/), [especially](/post/especially/) [something](/post/something/) [one](/post/one/) [might](/post/might/) [normally](/post/normally/) [dislike](/post/dislike/) [or](/post/or/) [disagree](/post/disagree/) [with](/post/with/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [community](/post/community/) showed [great](/post/great/) [tolerance](/post/tolerance/) towards [different](/post/different/) lifestyles."
+**Indifference**: [Lack](/post/lack/) [of](/post/of/) [interest](/post/interest/) [or](/post/or/) [concern](/post/concern/) [about](/post/about/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) indifference towards [the](/post/the/) [situation](/post/situation/) was [surprising](/post/surprising/)."
 
-### [Verb](/en/post/verb/)
-**[To](/en/post/to/) [tolerate](/en/post/tolerate/)**: [To](/en/post/to/) [put](/en/post/put/) [up](/en/post/up/) [with](/en/post/with/) [or](/en/post/or/) [endure](/en/post/endure/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [some](/en/post/some/) [level](/en/post/level/) [of](/en/post/of/) discomfort [or](/en/post/or/) disapproval. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) tolerated [her](/en/post/her/) [noisy](/en/post/noisy/) neighbors [without](/en/post/without/) [complaint](/en/post/complaint/)."
-**[To](/en/post/to/) [bear](/en/post/bear/)**: [To](/en/post/to/) [endure](/en/post/endure/) [or](/en/post/or/) [withstand](/en/post/withstand/), [especially](/en/post/especially/) [hardship](/en/post/hardship/) [or](/en/post/or/) [pain](/en/post/pain/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [bore](/en/post/bore/) [the](/en/post/the/) [long](/en/post/long/) [journey](/en/post/journey/) [with](/en/post/with/) [remarkable](/en/post/remarkable/) [patience](/en/post/patience/)."
+### [Verb](/post/verb/)
+**[To](/post/to/) [tolerate](/post/tolerate/)**: [To](/post/to/) [put](/post/put/) [up](/post/up/) [with](/post/with/) [or](/post/or/) [endure](/post/endure/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [some](/post/some/) [level](/post/level/) [of](/post/of/) discomfort [or](/post/or/) disapproval. [For](/post/for/) [example](/post/example/): "[She](/post/she/) tolerated [her](/post/her/) [noisy](/post/noisy/) neighbors [without](/post/without/) [complaint](/post/complaint/)."
+**[To](/post/to/) [bear](/post/bear/)**: [To](/post/to/) [endure](/post/endure/) [or](/post/or/) [withstand](/post/withstand/), [especially](/post/especially/) [hardship](/post/hardship/) [or](/post/or/) [pain](/post/pain/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) [bore](/post/bore/) [the](/post/the/) [long](/post/long/) [journey](/post/journey/) [with](/post/with/) [remarkable](/post/remarkable/) [patience](/post/patience/)."
 
-### [Adjective](/en/post/adjective/)
-**Tolerant**: Characterized [by](/en/post/by/) [or](/en/post/or/) showing [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [accept](/en/post/accept/) [or](/en/post/or/) [endure](/en/post/endure/) differences [or](/en/post/or/) views [without](/en/post/without/) judgment. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) tolerant [teacher](/en/post/teacher/) allows students [to](/en/post/to/) [express](/en/post/express/) [their](/en/post/their/) opinions [freely](/en/post/freely/)."
-**[Patient](/en/post/patient/)**: [Able](/en/post/able/) [to](/en/post/to/) [endure](/en/post/endure/) delays, difficulties, [or](/en/post/or/) frustration [without](/en/post/without/) becoming annoyed. [For](/en/post/for/) [example](/en/post/example/): "She's [very](/en/post/very/) [patient](/en/post/patient/) [with](/en/post/with/) [her](/en/post/her/) [young](/en/post/young/) children."
+### [Adjective](/post/adjective/)
+**Tolerant**: Characterized [by](/post/by/) [or](/post/or/) showing [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [accept](/post/accept/) [or](/post/or/) [endure](/post/endure/) differences [or](/post/or/) views [without](/post/without/) judgment. [For](/post/for/) [example](/post/example/): "[A](/post/a/) tolerant [teacher](/post/teacher/) allows students [to](/post/to/) [express](/post/express/) [their](/post/their/) opinions [freely](/post/freely/)."
+**[Patient](/post/patient/)**: [Able](/post/able/) [to](/post/to/) [endure](/post/endure/) delays, difficulties, [or](/post/or/) frustration [without](/post/without/) becoming annoyed. [For](/post/for/) [example](/post/example/): "She's [very](/post/very/) [patient](/post/patient/) [with](/post/with/) [her](/post/her/) [young](/post/young/) children."
 
 ## Phrases
-- "[Be](/en/post/be/) tolerant [of](/en/post/of/)": [To](/en/post/to/) [accept](/en/post/accept/) [or](/en/post/or/) [allow](/en/post/allow/) [something](/en/post/something/), [even](/en/post/even/) [if](/en/post/if/) it's [not](/en/post/not/) [to](/en/post/to/) one's liking.
-- "[Show](/en/post/show/) [no](/en/post/no/) [tolerance](/en/post/tolerance/) [for](/en/post/for/)": [To](/en/post/to/) [have](/en/post/have/) [zero](/en/post/zero/) [tolerance](/en/post/tolerance/) [or](/en/post/or/) [acceptance](/en/post/acceptance/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [behavior](/en/post/behavior/) [or](/en/post/or/) [action](/en/post/action/).
-- "[Tolerate](/en/post/tolerate/) [a](/en/post/a/) [certain](/en/post/certain/) [level](/en/post/level/) [of](/en/post/of/)": [To](/en/post/to/) [endure](/en/post/endure/) [a](/en/post/a/) [specific](/en/post/specific/) [amount](/en/post/amount/) [of](/en/post/of/) [something](/en/post/something/), [usually](/en/post/usually/) [a](/en/post/a/) [negative](/en/post/negative/) [aspect](/en/post/aspect/).
+- "[Be](/post/be/) tolerant [of](/post/of/)": [To](/post/to/) [accept](/post/accept/) [or](/post/or/) [allow](/post/allow/) [something](/post/something/), [even](/post/even/) [if](/post/if/) it's [not](/post/not/) [to](/post/to/) one's liking.
+- "[Show](/post/show/) [no](/post/no/) [tolerance](/post/tolerance/) [for](/post/for/)": [To](/post/to/) [have](/post/have/) [zero](/post/zero/) [tolerance](/post/tolerance/) [or](/post/or/) [acceptance](/post/acceptance/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [behavior](/post/behavior/) [or](/post/or/) [action](/post/action/).
+- "[Tolerate](/post/tolerate/) [a](/post/a/) [certain](/post/certain/) [level](/post/level/) [of](/post/of/)": [To](/post/to/) [endure](/post/endure/) [a](/post/a/) [specific](/post/specific/) [amount](/post/amount/) [of](/post/of/) [something](/post/something/), [usually](/post/usually/) [a](/post/a/) [negative](/post/negative/) [aspect](/post/aspect/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) boss's [tolerance](/en/post/tolerance/) [for](/en/post/for/) mistakes is有限的 ([limited](/en/post/limited/))."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tried [to](/en/post/to/) [tolerate](/en/post/tolerate/) [her](/en/post/her/) roommate's messy habits."
-- **[Adjective](/en/post/adjective/)**: "[A](/en/post/a/) tolerant [society](/en/post/society/) values diversity."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) boss's [tolerance](/post/tolerance/) [for](/post/for/) mistakes is有限的 ([limited](/post/limited/))."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tried [to](/post/to/) [tolerate](/post/tolerate/) [her](/post/her/) roommate's messy habits."
+- **[Adjective](/post/adjective/)**: "[A](/post/a/) tolerant [society](/post/society/) values diversity."
 
 ## Synonyms
-- [Acceptance](/en/post/acceptance/)
+- [Acceptance](/post/acceptance/)
 - Perseverance
 - Endurance
-- [Patience](/en/post/patience/)
+- [Patience](/post/patience/)
 - Indulgence
 - Forgiveness
 - Leniency
-- [Tolerance](/en/post/tolerance/) [of](/en/post/of/) differences
-- [Accommodation](/en/post/accommodation/)
+- [Tolerance](/post/tolerance/) [of](/post/of/) differences
+- [Accommodation](/post/accommodation/)
 
-[Note](/en/post/note/): [Some](/en/post/some/) words [may](/en/post/may/) [have](/en/post/have/) [multiple](/en/post/multiple/) meanings depending [on](/en/post/on/) context.
+[Note](/post/note/): [Some](/post/some/) words [may](/post/may/) [have](/post/have/) [multiple](/post/multiple/) meanings depending [on](/post/on/) context.

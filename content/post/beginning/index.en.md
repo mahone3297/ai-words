@@ -7,34 +7,34 @@ description = '[biˈginiŋ] n.开始，开端；起源'
 keywords = ['ai words', 'beginning']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈgɪniŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [initial](/en/post/initial/) [part](/en/post/part/) [or](/en/post/or/) [point](/en/post/point/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) marked [by](/en/post/by/) [a](/en/post/a/) [start](/en/post/start/) [or](/en/post/or/) commencement. 2. (figurative) [The](/en/post/the/) [beginning](/en/post/beginning/) [or](/en/post/or/) [start](/en/post/start/) [of](/en/post/of/) an [activity](/en/post/activity/) [or](/en/post/or/) [process](/en/post/process/). 3. [[Physics](/en/post/physics/)] [The](/en/post/the/) [first](/en/post/first/) [term](/en/post/term/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) representing [a](/en/post/a/) [physical](/en/post/physical/) [quantity](/en/post/quantity/), [often](/en/post/often/) denoted [by](/en/post/by/) "B".
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) commence [or](/en/post/or/) [start](/en/post/start/) [something](/en/post/something/); [to](/en/post/to/) [begin](/en/post/begin/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [action](/en/post/action/). 3. [To](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) earliest [or](/en/post/or/) [most](/en/post/most/) [primitive](/en/post/primitive/) [form](/en/post/form/) [of](/en/post/of/) [something](/en/post/something/).
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [initial](/post/initial/) [part](/post/part/) [or](/post/or/) [point](/post/point/) [of](/post/of/) [something](/post/something/), [often](/post/often/) marked [by](/post/by/) [a](/post/a/) [start](/post/start/) [or](/post/or/) commencement. 2. (figurative) [The](/post/the/) [beginning](/post/beginning/) [or](/post/or/) [start](/post/start/) [of](/post/of/) an [activity](/post/activity/) [or](/post/or/) [process](/post/process/). 3. [[Physics](/post/physics/)] [The](/post/the/) [first](/post/first/) [term](/post/term/) [in](/post/in/) [a](/post/a/) [series](/post/series/) representing [a](/post/a/) [physical](/post/physical/) [quantity](/post/quantity/), [often](/post/often/) denoted [by](/post/by/) "B".
+- **[Verb](/post/verb/)**: [To](/post/to/) commence [or](/post/or/) [start](/post/start/) [something](/post/something/); [to](/post/to/) [begin](/post/begin/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [action](/post/action/). 3. [To](/post/to/) [be](/post/be/) [the](/post/the/) earliest [or](/post/or/) [most](/post/most/) [primitive](/post/primitive/) [form](/post/form/) [of](/post/of/) [something](/post/something/).
 
 ## Phrases
-- "[At](/en/post/at/) [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [the](/en/post/the/) [day](/en/post/day/)"
-- "[In](/en/post/in/) [the](/en/post/the/) [beginning](/en/post/beginning/), [there](/en/post/there/) was..."
-- "[Start](/en/post/start/) [from](/en/post/from/) [the](/en/post/the/) [beginning](/en/post/beginning/)"
+- "[At](/post/at/) [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [the](/post/the/) [day](/post/day/)"
+- "[In](/post/in/) [the](/post/the/) [beginning](/post/beginning/), [there](/post/there/) was..."
+- "[Start](/post/start/) [from](/post/from/) [the](/post/the/) [beginning](/post/beginning/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) book's prologue tells [the](/en/post/the/) [story](/en/post/story/) [from](/en/post/from/) [the](/en/post/the/) [very](/en/post/very/) [beginning](/en/post/beginning/)."
-- **[Verb](/en/post/verb/)**: "Let's [begin](/en/post/begin/) [by](/en/post/by/) reviewing [the](/en/post/the/) agenda [for](/en/post/for/) today's [meeting](/en/post/meeting/)."
-- **Starting [a](/en/post/a/) [new](/en/post/new/) [chapter](/en/post/chapter/)**: "[After](/en/post/after/) finishing [her](/en/post/her/) [degree](/en/post/degree/), [she](/en/post/she/) decided [to](/en/post/to/) [begin](/en/post/begin/) [a](/en/post/a/) [new](/en/post/new/) [career](/en/post/career/) [path](/en/post/path/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) book's prologue tells [the](/post/the/) [story](/post/story/) [from](/post/from/) [the](/post/the/) [very](/post/very/) [beginning](/post/beginning/)."
+- **[Verb](/post/verb/)**: "Let's [begin](/post/begin/) [by](/post/by/) reviewing [the](/post/the/) agenda [for](/post/for/) today's [meeting](/post/meeting/)."
+- **Starting [a](/post/a/) [new](/post/new/) [chapter](/post/chapter/)**: "[After](/post/after/) finishing [her](/post/her/) [degree](/post/degree/), [she](/post/she/) decided [to](/post/to/) [begin](/post/begin/) [a](/post/a/) [new](/post/new/) [career](/post/career/) [path](/post/path/)."
 
 ## Synonyms
 - Commence
 - Initiate
-- [Launch](/en/post/launch/)
-- [Start](/en/post/start/)
-- [Open](/en/post/open/)
-- [Establish](/en/post/establish/)
-- [Found](/en/post/found/)
+- [Launch](/post/launch/)
+- [Start](/post/start/)
+- [Open](/post/open/)
+- [Establish](/post/establish/)
+- [Found](/post/found/)
 
 ## Antonyms
-- [End](/en/post/end/)
-- [Finish](/en/post/finish/)
+- [End](/post/end/)
+- [Finish](/post/finish/)
 - Terminate
-- [Conclude](/en/post/conclude/)
+- [Conclude](/post/conclude/)

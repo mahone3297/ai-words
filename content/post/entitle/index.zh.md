@@ -12,24 +12,24 @@ keywords = ['ai words', 'entitle']
 
 ## 释义
 - **动词**:
-1. 给予权利或资格；使有权利。例如: "[The](/post/the/) company's [policy](/post/policy/) entitles employees [to](/post/to/) [a](/post/a/) paid [vacation](/post/vacation/) [each](/post/each/) [year](/post/year/)."
-2. 标题，冠以名称。例如: "[The](/post/the/) [book](/post/book/) is entitled '[To](/post/to/) [Kill](/post/kill/) [a](/post/a/) Mockingbird'."
+1. 给予权利或资格；使有权利。例如: "[The](/zh/post/the/) company's [policy](/zh/post/policy/) entitles employees [to](/zh/post/to/) [a](/zh/post/a/) paid [vacation](/zh/post/vacation/) [each](/zh/post/each/) [year](/zh/post/year/)."
+2. 标题，冠以名称。例如: "[The](/zh/post/the/) [book](/zh/post/book/) is entitled '[To](/zh/post/to/) [Kill](/zh/post/kill/) [a](/zh/post/a/) Mockingbird'."
 
 - **名词**:
-1. 标题，书名。例如: "[The](/post/the/) [title](/post/title/) [of](/post/of/) [the](/post/the/) [song](/post/song/) is 'Bohemian Rhapsody'."
-2. 权利，应得之物。例如: "Employees [feel](/post/feel/) entitled [to](/post/to/) [better](/post/better/) working conditions."
+1. 标题，书名。例如: "[The](/zh/post/the/) [title](/zh/post/title/) [of](/zh/post/of/) [the](/zh/post/the/) [song](/zh/post/song/) is 'Bohemian Rhapsody'."
+2. 权利，应得之物。例如: "Employees [feel](/zh/post/feel/) entitled [to](/zh/post/to/) [better](/zh/post/better/) working conditions."
 
 ## 短语
-- "Entitled [to](/post/to/) [something](/post/something/)" 意味着有权获得某物或有资格做某事。
-- "Entitled [attitude](/post/attitude/)" 描述一种自以为是，认为自己应得特别待遇的心态。
+- "Entitled [to](/zh/post/to/) [something](/zh/post/something/)" 意味着有权获得某物或有资格做某事。
+- "Entitled [attitude](/zh/post/attitude/)" 描述一种自以为是，认为自己应得特别待遇的心态。
 
 ## 例句
-- 动词: "According [to](/post/to/) [the](/post/the/) [contract](/post/contract/), you're entitled [to](/post/to/) [a](/post/a/) [raise](/post/raise/) [after](/post/after/) [one](/post/one/) [year](/post/year/) [of](/post/of/) [service](/post/service/)."
-- 名词: "[She](/post/she/) felt entitled [to](/post/to/) [express](/post/express/) [her](/post/her/) [opinion](/post/opinion/) [in](/post/in/) [the](/post/the/) [meeting](/post/meeting/)."
+- 动词: "According [to](/zh/post/to/) [the](/zh/post/the/) [contract](/zh/post/contract/), you're entitled [to](/zh/post/to/) [a](/zh/post/a/) [raise](/zh/post/raise/) [after](/zh/post/after/) [one](/zh/post/one/) [year](/zh/post/year/) [of](/zh/post/of/) [service](/zh/post/service/)."
+- 名词: "[She](/zh/post/she/) felt entitled [to](/zh/post/to/) [express](/zh/post/express/) [her](/zh/post/her/) [opinion](/zh/post/opinion/) [in](/zh/post/in/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
 
 ## 同义词
-- [Grant](/post/grant/)
+- [Grant](/zh/post/grant/)
 - Bestow
-- [Award](/post/award/)
+- [Award](/zh/post/award/)
 - Confer
 - Allowance

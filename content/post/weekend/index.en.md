@@ -7,41 +7,41 @@ description = '[wiːkˈend] n.周末，周末假期'
 keywords = ['ai words', 'weekend']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /n ˈwɛkˈend/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[weekend](/en/post/weekend/)** is [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) typically occurring [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) workweek, [usually](/en/post/usually/) [from](/en/post/from/) Friday [evening](/en/post/evening/) [to](/en/post/to/) Sunday [night](/en/post/night/), [during](/en/post/during/) [which](/en/post/which/) [people](/en/post/people/) [have](/en/post/have/) [leisure](/en/post/leisure/) [time](/en/post/time/) [and](/en/post/and/) [often](/en/post/often/) [engage](/en/post/engage/) [in](/en/post/in/) recreational activities.
+### [Noun](/post/noun/)
+[A](/post/a/) **[weekend](/post/weekend/)** is [a](/post/a/) [period](/post/period/) [of](/post/of/) [time](/post/time/) typically occurring [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [a](/post/a/) workweek, [usually](/post/usually/) [from](/post/from/) Friday [evening](/post/evening/) [to](/post/to/) Sunday [night](/post/night/), [during](/post/during/) [which](/post/which/) [people](/post/people/) [have](/post/have/) [leisure](/post/leisure/) [time](/post/time/) [and](/post/and/) [often](/post/often/) [engage](/post/engage/) [in](/post/in/) recreational activities.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[spend](/en/post/spend/) [the](/en/post/the/) [weekend](/en/post/weekend/)** ([or](/en/post/or/) **[have](/en/post/have/) [a](/en/post/a/) [weekend](/en/post/weekend/)**) [means](/en/post/means/) [to](/en/post/to/) allocate [that](/en/post/that/) [time](/en/post/time/) [off](/en/post/off/) [for](/en/post/for/) [rest](/en/post/rest/), relaxation, [or](/en/post/or/) [social](/en/post/social/) activities.
+### [Verb](/post/verb/)
+[To](/post/to/) **[spend](/post/spend/) [the](/post/the/) [weekend](/post/weekend/)** ([or](/post/or/) **[have](/post/have/) [a](/post/a/) [weekend](/post/weekend/)**) [means](/post/means/) [to](/post/to/) allocate [that](/post/that/) [time](/post/time/) [off](/post/off/) [for](/post/for/) [rest](/post/rest/), relaxation, [or](/post/or/) [social](/post/social/) activities.
 
-### [Adjective](/en/post/adjective/)
-- "[Weekend](/en/post/weekend/) getaway" describes [a](/en/post/a/) [short](/en/post/short/) [vacation](/en/post/vacation/) taken [over](/en/post/over/) [the](/en/post/the/) [weekend](/en/post/weekend/).
+### [Adjective](/post/adjective/)
+- "[Weekend](/post/weekend/) getaway" describes [a](/post/a/) [short](/post/short/) [vacation](/post/vacation/) taken [over](/post/over/) [the](/post/the/) [weekend](/post/weekend/).
 
 ## Phrases
-- "[Enjoy](/en/post/enjoy/) [your](/en/post/your/) [weekend](/en/post/weekend/)" is [a](/en/post/a/) [common](/en/post/common/) [expression](/en/post/expression/) wishing [someone](/en/post/someone/) [a](/en/post/a/) [good](/en/post/good/) [time](/en/post/time/).
-- "[Weekend](/en/post/weekend/) [routine](/en/post/routine/)" refers [to](/en/post/to/) [a](/en/post/a/) person's [typical](/en/post/typical/) activities [on](/en/post/on/) [the](/en/post/the/) weekends.
-- "[Long](/en/post/long/) [weekend](/en/post/weekend/)" is [a](/en/post/a/) [weekend](/en/post/weekend/) [that](/en/post/that/) is longer [than](/en/post/than/) [usual](/en/post/usual/), [often](/en/post/often/) extending [to](/en/post/to/) Monday.
+- "[Enjoy](/post/enjoy/) [your](/post/your/) [weekend](/post/weekend/)" is [a](/post/a/) [common](/post/common/) [expression](/post/expression/) wishing [someone](/post/someone/) [a](/post/a/) [good](/post/good/) [time](/post/time/).
+- "[Weekend](/post/weekend/) [routine](/post/routine/)" refers [to](/post/to/) [a](/post/a/) person's [typical](/post/typical/) activities [on](/post/on/) [the](/post/the/) weekends.
+- "[Long](/post/long/) [weekend](/post/weekend/)" is [a](/post/a/) [weekend](/post/weekend/) [that](/post/that/) is longer [than](/post/than/) [usual](/post/usual/), [often](/post/often/) extending [to](/post/to/) Monday.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) planned [a](/en/post/a/) fun-filled [weekend](/en/post/weekend/) [at](/en/post/at/) [the](/en/post/the/) [beach](/en/post/beach/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [busy](/en/post/busy/) [week](/en/post/week/), [we](/en/post/we/) decided [to](/en/post/to/) [spend](/en/post/spend/) [the](/en/post/the/) [weekend](/en/post/weekend/) hiking [in](/en/post/in/) [the](/en/post/the/) mountains."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) looked [forward](/en/post/forward/) [to](/en/post/to/) [her](/en/post/her/) relaxing [weekend](/en/post/weekend/) getaway."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) planned [a](/post/a/) fun-filled [weekend](/post/weekend/) [at](/post/at/) [the](/post/the/) [beach](/post/beach/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [busy](/post/busy/) [week](/post/week/), [we](/post/we/) decided [to](/post/to/) [spend](/post/spend/) [the](/post/the/) [weekend](/post/weekend/) hiking [in](/post/in/) [the](/post/the/) mountains."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) looked [forward](/post/forward/) [to](/post/to/) [her](/post/her/) relaxing [weekend](/post/weekend/) getaway."
 
 ## Synonyms
-- [Weekend](/en/post/weekend/) [break](/en/post/break/)
-- [Vacation](/en/post/vacation/) days
-- [Leisure](/en/post/leisure/) [time](/en/post/time/)
+- [Weekend](/post/weekend/) [break](/post/break/)
+- [Vacation](/post/vacation/) days
+- [Leisure](/post/leisure/) [time](/post/time/)
 -休闲时光
 - Off-day
-- [Day](/en/post/day/) [off](/en/post/off/)
-- Two-day [weekend](/en/post/weekend/)
-- [Weekend](/en/post/weekend/) recess
+- [Day](/post/day/) [off](/post/off/)
+- Two-day [weekend](/post/weekend/)
+- [Weekend](/post/weekend/) recess
 
 ## Antonyms
 - Workdays
 - weekdays
-- [Busy](/en/post/busy/) [schedule](/en/post/schedule/)
-- [Regular](/en/post/regular/) [routine](/en/post/routine/)
+- [Busy](/post/busy/) [schedule](/post/schedule/)
+- [Regular](/post/regular/) [routine](/post/routine/)

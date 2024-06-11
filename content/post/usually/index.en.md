@@ -7,32 +7,32 @@ description = '[ˈjuːʒuəli] ad.通常'
 keywords = ['ai words', 'usually']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjuːʒuəli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Typically [or](/en/post/or/) [commonly](/en/post/commonly/); [in](/en/post/in/) [a](/en/post/a/) [usual](/en/post/usual/) [manner](/en/post/manner/). [It](/en/post/it/) modifies verbs, adjectives, [or](/en/post/or/) [other](/en/post/other/) adverbs [to](/en/post/to/) [indicate](/en/post/indicate/) [frequency](/en/post/frequency/) [or](/en/post/or/) regularity. [For](/en/post/for/) [example](/en/post/example/), "[She](/en/post/she/) [usually](/en/post/usually/) arrives [early](/en/post/early/)."
+- **[Adverb](/post/adverb/)**: Typically [or](/post/or/) [commonly](/post/commonly/); [in](/post/in/) [a](/post/a/) [usual](/post/usual/) [manner](/post/manner/). [It](/post/it/) modifies verbs, adjectives, [or](/post/or/) [other](/post/other/) adverbs [to](/post/to/) [indicate](/post/indicate/) [frequency](/post/frequency/) [or](/post/or/) regularity. [For](/post/for/) [example](/post/example/), "[She](/post/she/) [usually](/post/usually/) arrives [early](/post/early/)."
 
 ## Phrases
-- "[As](/en/post/as/) [usual](/en/post/usual/)" implies [that](/en/post/that/) [something](/en/post/something/) happens [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [way](/en/post/way/) [it](/en/post/it/) [normally](/en/post/normally/) does.
-- "[Usually](/en/post/usually/), [he](/en/post/he/) studies [late](/en/post/late/) [at](/en/post/at/) [night](/en/post/night/)."
-- "[She](/en/post/she/) [usually](/en/post/usually/) takes [a](/en/post/a/) [walk](/en/post/walk/) [after](/en/post/after/) [dinner](/en/post/dinner/)."
+- "[As](/post/as/) [usual](/post/usual/)" implies [that](/post/that/) [something](/post/something/) happens [in](/post/in/) [the](/post/the/) [same](/post/same/) [way](/post/way/) [it](/post/it/) [normally](/post/normally/) does.
+- "[Usually](/post/usually/), [he](/post/he/) studies [late](/post/late/) [at](/post/at/) [night](/post/night/)."
+- "[She](/post/she/) [usually](/post/usually/) takes [a](/post/a/) [walk](/post/walk/) [after](/post/after/) [dinner](/post/dinner/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) [usually](/en/post/usually/) finishes [his](/en/post/his/) homework [before](/en/post/before/) [dinner](/en/post/dinner/)."
-- "[The](/en/post/the/) [weather](/en/post/weather/) is [usually](/en/post/usually/) [mild](/en/post/mild/) [in](/en/post/in/) [this](/en/post/this/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [country](/en/post/country/)."
-- "[She](/en/post/she/) [usually](/en/post/usually/) wakes [up](/en/post/up/) [at](/en/post/at/) 6 am."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) [usually](/post/usually/) finishes [his](/post/his/) homework [before](/post/before/) [dinner](/post/dinner/)."
+- "[The](/post/the/) [weather](/post/weather/) is [usually](/post/usually/) [mild](/post/mild/) [in](/post/in/) [this](/post/this/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [country](/post/country/)."
+- "[She](/post/she/) [usually](/post/usually/) wakes [up](/post/up/) [at](/post/at/) 6 am."
 
 ## Synonyms
-- [Normally](/en/post/normally/)
+- [Normally](/post/normally/)
 - Ordinarily
 - Typically
-- [Regularly](/en/post/regularly/)
-- [Frequently](/en/post/frequently/)
+- [Regularly](/post/regularly/)
+- [Frequently](/post/frequently/)
 
 ## Antonyms
-- [Occasionally](/en/post/occasionally/)
-- [Seldom](/en/post/seldom/)
-- [Rarely](/en/post/rarely/)
-- [Unusually](/en/post/unusually/)
+- [Occasionally](/post/occasionally/)
+- [Seldom](/post/seldom/)
+- [Rarely](/post/rarely/)
+- [Unusually](/post/unusually/)
 - Abnormally

@@ -7,27 +7,27 @@ description = '[nəuˈvembə] n.十一月'
 keywords = ['ai words', 'November']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /nəʊˈvɛmbə(r)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [eleventh](/en/post/eleventh/) [month](/en/post/month/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/) [in](/en/post/in/) [the](/en/post/the/) Gregorian [calendar](/en/post/calendar/), coming [between](/en/post/between/) October [and](/en/post/and/) December. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [autumn](/en/post/autumn/) leaves [fall](/en/post/fall/) [in](/en/post/in/) abundance [during](/en/post/during/) November."
+- **[Noun](/post/noun/)**: [The](/post/the/) [eleventh](/post/eleventh/) [month](/post/month/) [of](/post/of/) [the](/post/the/) [year](/post/year/) [in](/post/in/) [the](/post/the/) Gregorian [calendar](/post/calendar/), coming [between](/post/between/) October [and](/post/and/) December. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [autumn](/post/autumn/) leaves [fall](/post/fall/) [in](/post/in/) abundance [during](/post/during/) November."
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- "Thanksgiving [Day](/en/post/day/) is celebrated [in](/en/post/in/) November [in](/en/post/in/) [the](/en/post/the/) United States."
-- "[They](/en/post/they/) scheduled [their](/en/post/their/) [wedding](/en/post/wedding/) [for](/en/post/for/) [the](/en/post/the/) [last](/en/post/last/) [week](/en/post/week/) [of](/en/post/of/) November."
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- "Thanksgiving [Day](/post/day/) is celebrated [in](/post/in/) November [in](/post/in/) [the](/post/the/) United States."
+- "[They](/post/they/) scheduled [their](/post/their/) [wedding](/post/wedding/) [for](/post/for/) [the](/post/the/) [last](/post/last/) [week](/post/week/) [of](/post/of/) November."
 
 ## Phrases
-- "[In](/en/post/in/) November [of](/en/post/of/) [that](/en/post/that/) [year](/en/post/year/)" - Refers [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [time](/en/post/time/) [within](/en/post/within/) [the](/en/post/the/) [month](/en/post/month/).
-- "November [rain](/en/post/rain/)" - [A](/en/post/a/) colloquial [expression](/en/post/expression/) [for](/en/post/for/) [late](/en/post/late/) [autumn](/en/post/autumn/) rains [which](/en/post/which/) are [characteristic](/en/post/characteristic/) [of](/en/post/of/) [the](/en/post/the/) [month](/en/post/month/).
-- "[Remember](/en/post/remember/), [remember](/en/post/remember/) [the](/en/post/the/) [fifth](/en/post/fifth/) [of](/en/post/of/) November" - [A](/en/post/a/) [famous](/en/post/famous/) [line](/en/post/line/) [from](/en/post/from/) [a](/en/post/a/) British [poem](/en/post/poem/) referring [to](/en/post/to/) Guy Fawkes [Night](/en/post/night/) (Bonfire [Night](/en/post/night/)).
+- "[In](/post/in/) November [of](/post/of/) [that](/post/that/) [year](/post/year/)" - Refers [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [time](/post/time/) [within](/post/within/) [the](/post/the/) [month](/post/month/).
+- "November [rain](/post/rain/)" - [A](/post/a/) colloquial [expression](/post/expression/) [for](/post/for/) [late](/post/late/) [autumn](/post/autumn/) rains [which](/post/which/) are [characteristic](/post/characteristic/) [of](/post/of/) [the](/post/the/) [month](/post/month/).
+- "[Remember](/post/remember/), [remember](/post/remember/) [the](/post/the/) [fifth](/post/fifth/) [of](/post/of/) November" - [A](/post/a/) [famous](/post/famous/) [line](/post/line/) [from](/post/from/) [a](/post/a/) British [poem](/post/poem/) referring [to](/post/to/) Guy Fawkes [Night](/post/night/) (Bonfire [Night](/post/night/)).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[By](/en/post/by/) November, [the](/en/post/the/) [weather](/en/post/weather/) had turned [quite](/en/post/quite/) [cold](/en/post/cold/) [and](/en/post/and/) frosty."
-- "[Her](/en/post/her/) [birthday](/en/post/birthday/) falls [on](/en/post/on/) [the](/en/post/the/) 17th [of](/en/post/of/) November."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[By](/post/by/) November, [the](/post/the/) [weather](/post/weather/) had turned [quite](/post/quite/) [cold](/post/cold/) [and](/post/and/) frosty."
+- "[Her](/post/her/) [birthday](/post/birthday/) falls [on](/post/on/) [the](/post/the/) 17th [of](/post/of/) November."
 
 ## Synonyms
-- [Fall](/en/post/fall/) ([in](/en/post/in/) [North](/en/post/north/) [American](/en/post/american/) English)
-- [Autumn](/en/post/autumn/) ([in](/en/post/in/) British English)
+- [Fall](/post/fall/) ([in](/post/in/) [North](/post/north/) [American](/post/american/) English)
+- [Autumn](/post/autumn/) ([in](/post/in/) British English)
   
-[Note](/en/post/note/): [Unlike](/en/post/unlike/) [some](/en/post/some/) words [that](/en/post/that/) [have](/en/post/have/) [multiple](/en/post/multiple/) parts [of](/en/post/of/) [speech](/en/post/speech/), "November" is [primarily](/en/post/primarily/) [a](/en/post/a/) [noun](/en/post/noun/) denoting [the](/en/post/the/) [eleventh](/en/post/eleventh/) [month](/en/post/month/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/), [and](/en/post/and/) does [not](/en/post/not/) typically [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), etc.
+[Note](/post/note/): [Unlike](/post/unlike/) [some](/post/some/) words [that](/post/that/) [have](/post/have/) [multiple](/post/multiple/) parts [of](/post/of/) [speech](/post/speech/), "November" is [primarily](/post/primarily/) [a](/post/a/) [noun](/post/noun/) denoting [the](/post/the/) [eleventh](/post/eleventh/) [month](/post/month/) [of](/post/of/) [the](/post/the/) [year](/post/year/), [and](/post/and/) does [not](/post/not/) typically [function](/post/function/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [adjective](/post/adjective/), [adverb](/post/adverb/), etc.

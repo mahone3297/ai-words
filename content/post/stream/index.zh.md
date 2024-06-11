@@ -11,22 +11,22 @@ keywords = ['ai words', 'stream']
 /strɪm/
 
 ## 释义
-- **名词 (n)**: 流，溪流；连续流动的东西；广播或互联网上的媒体流。例如: "[The](/post/the/) [river](/post/river/) flows [into](/post/into/) [a](/post/a/) [calm](/post/calm/) [stream](/post/stream/)."，"[We](/post/we/) watched [a](/post/a/) [live](/post/live/) [stream](/post/stream/) [of](/post/of/) [the](/post/the/) [concert](/post/concert/)."
-- **动词 (v)**: 流动，像水流一样传播；连续不断地涌现。例如: "[Water](/post/water/) streamed [down](/post/down/) [the](/post/the/) windows [during](/post/during/) [the](/post/the/) [heavy](/post/heavy/) [rain](/post/rain/)."，"[News](/post/news/) [about](/post/about/) [the](/post/the/) [event](/post/event/) streamed [across](/post/across/) [social](/post/social/) media."
+- **名词 (n)**: 流，溪流；连续流动的东西；广播或互联网上的媒体流。例如: "[The](/zh/post/the/) [river](/zh/post/river/) flows [into](/zh/post/into/) [a](/zh/post/a/) [calm](/zh/post/calm/) [stream](/zh/post/stream/)."，"[We](/zh/post/we/) watched [a](/zh/post/a/) [live](/zh/post/live/) [stream](/zh/post/stream/) [of](/zh/post/of/) [the](/zh/post/the/) [concert](/zh/post/concert/)."
+- **动词 (v)**: 流动，像水流一样传播；连续不断地涌现。例如: "[Water](/zh/post/water/) streamed [down](/zh/post/down/) [the](/zh/post/the/) windows [during](/zh/post/during/) [the](/zh/post/the/) [heavy](/zh/post/heavy/) [rain](/zh/post/rain/)."，"[News](/zh/post/news/) [about](/zh/post/about/) [the](/zh/post/the/) [event](/zh/post/event/) streamed [across](/zh/post/across/) [social](/zh/post/social/) media."
 
 ## 短语
-- "[stream](/post/stream/) [of](/post/of/) [consciousness](/post/consciousness/)" 意识流，指连续不断的思绪或想法。
-- "[live](/post/live/) [stream](/post/stream/)" 直播，实况转播。
-- "[data](/post/data/) [stream](/post/stream/)" 数据流，指连续传输的数据。
+- "[stream](/zh/post/stream/) [of](/zh/post/of/) [consciousness](/zh/post/consciousness/)" 意识流，指连续不断的思绪或想法。
+- "[live](/zh/post/live/) [stream](/zh/post/stream/)" 直播，实况转播。
+- "[data](/zh/post/data/) [stream](/zh/post/stream/)" 数据流，指连续传输的数据。
 
 ## 例句
-- 名词: "[The](/post/the/) [mountain](/post/mountain/) [stream](/post/stream/) was [crystal](/post/crystal/) [clear](/post/clear/) [and](/post/and/) inviting [for](/post/for/) [a](/post/a/) refreshing [swim](/post/swim/)."
-- 动词: "[Her](/post/her/) thoughts streamed [through](/post/through/) [her](/post/her/) [mind](/post/mind/) [as](/post/as/) [she](/post/she/) wrote [the](/post/the/) [story](/post/story/)."
-- 感叹词（非正式使用）: "Hey, [stream](/post/stream/) [this](/post/this/) [new](/post/new/) [song](/post/song/) [on](/post/on/) Spotify!"
+- 名词: "[The](/zh/post/the/) [mountain](/zh/post/mountain/) [stream](/zh/post/stream/) was [crystal](/zh/post/crystal/) [clear](/zh/post/clear/) [and](/zh/post/and/) inviting [for](/zh/post/for/) [a](/zh/post/a/) refreshing [swim](/zh/post/swim/)."
+- 动词: "[Her](/zh/post/her/) thoughts streamed [through](/zh/post/through/) [her](/zh/post/her/) [mind](/zh/post/mind/) [as](/zh/post/as/) [she](/zh/post/she/) wrote [the](/zh/post/the/) [story](/zh/post/story/)."
+- 感叹词（非正式使用）: "Hey, [stream](/zh/post/stream/) [this](/zh/post/this/) [new](/zh/post/new/) [song](/zh/post/song/) [on](/zh/post/on/) Spotify!"
 
 ## 同义词
-- [Flow](/post/flow/)
-- [Current](/post/current/)
-- [Rush](/post/rush/)
+- [Flow](/zh/post/flow/)
+- [Current](/zh/post/current/)
+- [Rush](/zh/post/rush/)
 - Cascade
-- [Broadcast](/post/broadcast/) ([for](/post/for/) media streaming)
+- [Broadcast](/zh/post/broadcast/) ([for](/zh/post/for/) media streaming)

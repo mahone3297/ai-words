@@ -7,42 +7,42 @@ description = '[lait] a.轻的，少量的'
 keywords = ['ai words', 'light']
 +++
 
-## [Word](/en/post/word/): [Light](/en/post/light/)
+## [Word](/post/word/): [Light](/post/light/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /laɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [natural](/en/post/natural/) [agent](/en/post/agent/) [that](/en/post/that/) stimulates [sight](/en/post/sight/) [and](/en/post/and/) makes things [visible](/en/post/visible/); electromagnetic [radiation](/en/post/radiation/) [within](/en/post/within/) [a](/en/post/a/) [certain](/en/post/certain/) [portion](/en/post/portion/) [of](/en/post/of/) [the](/en/post/the/) spectrum perceivable [by](/en/post/by/) [the](/en/post/the/) [human](/en/post/human/) [eye](/en/post/eye/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sun](/en/post/sun/) is [the](/en/post/the/) [primary](/en/post/primary/) [source](/en/post/source/) [of](/en/post/of/) [light](/en/post/light/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) emits [light](/en/post/light/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [lamp](/en/post/lamp/) [or](/en/post/or/) [a](/en/post/a/) [candle](/en/post/candle/). [Example](/en/post/example/): "[She](/en/post/she/) turned [on](/en/post/on/) [the](/en/post/the/) [light](/en/post/light/) [to](/en/post/to/) [read](/en/post/read/) [her](/en/post/her/) [book](/en/post/book/)."
-- **[Noun](/en/post/noun/)**: Illumination [or](/en/post/or/) brightness. [Example](/en/post/example/): "[The](/en/post/the/) [room](/en/post/room/) was filled [with](/en/post/with/) [a](/en/post/a/) [soft](/en/post/soft/), [warm](/en/post/warm/) [light](/en/post/light/)."
-- **[Noun](/en/post/noun/)**: [Understanding](/en/post/understanding/) [or](/en/post/or/) enlightenment; clarity [of](/en/post/of/) [thought](/en/post/thought/). [Example](/en/post/example/): "[The](/en/post/the/) [lecture](/en/post/lecture/) [shed](/en/post/shed/) [light](/en/post/light/) [on](/en/post/on/) [the](/en/post/the/) [complex](/en/post/complex/) [topic](/en/post/topic/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) ignite [or](/en/post/or/) [switch](/en/post/switch/) [on](/en/post/on/) [a](/en/post/a/) [light](/en/post/light/) [source](/en/post/source/). [Example](/en/post/example/): "[Please](/en/post/please/) [light](/en/post/light/) [the](/en/post/the/) candles [so](/en/post/so/) [we](/en/post/we/) [can](/en/post/can/) [see](/en/post/see/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [brighten](/en/post/brighten/) [or](/en/post/or/) illuminate [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [moon](/en/post/moon/) lights [up](/en/post/up/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [less](/en/post/less/) [heavy](/en/post/heavy/) [or](/en/post/or/) burdensome. [Example](/en/post/example/): "[This](/en/post/this/) [new](/en/post/new/) [material](/en/post/material/) [will](/en/post/will/) [light](/en/post/light/) [the](/en/post/the/) [load](/en/post/load/) [for](/en/post/for/) astronauts [in](/en/post/in/) [space](/en/post/space/)."
-- **[Adjective](/en/post/adjective/) (adj)**: Having [little](/en/post/little/) [weight](/en/post/weight/); [not](/en/post/not/) [heavy](/en/post/heavy/). [Example](/en/post/example/): "[A](/en/post/a/) [light](/en/post/light/) backpack made [the](/en/post/the/) hike [more](/en/post/more/) enjoyable."
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) [dark](/en/post/dark/) [or](/en/post/or/) [gloomy](/en/post/gloomy/); well-lit. [Example](/en/post/example/): "[The](/en/post/the/) [room](/en/post/room/) was [light](/en/post/light/) [and](/en/post/and/) airy."
-- **[Adjective](/en/post/adjective/)**: [Of](/en/post/of/) [low](/en/post/low/) [intensity](/en/post/intensity/), [amount](/en/post/amount/), [or](/en/post/or/) [degree](/en/post/degree/). [Example](/en/post/example/): "[Take](/en/post/take/) [it](/en/post/it/) [easy](/en/post/easy/); let's [have](/en/post/have/) [a](/en/post/a/) [light](/en/post/light/) workout [today](/en/post/today/)."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [natural](/post/natural/) [agent](/post/agent/) [that](/post/that/) stimulates [sight](/post/sight/) [and](/post/and/) makes things [visible](/post/visible/); electromagnetic [radiation](/post/radiation/) [within](/post/within/) [a](/post/a/) [certain](/post/certain/) [portion](/post/portion/) [of](/post/of/) [the](/post/the/) spectrum perceivable [by](/post/by/) [the](/post/the/) [human](/post/human/) [eye](/post/eye/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sun](/post/sun/) is [the](/post/the/) [primary](/post/primary/) [source](/post/source/) [of](/post/of/) [light](/post/light/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [device](/post/device/) [that](/post/that/) emits [light](/post/light/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [lamp](/post/lamp/) [or](/post/or/) [a](/post/a/) [candle](/post/candle/). [Example](/post/example/): "[She](/post/she/) turned [on](/post/on/) [the](/post/the/) [light](/post/light/) [to](/post/to/) [read](/post/read/) [her](/post/her/) [book](/post/book/)."
+- **[Noun](/post/noun/)**: Illumination [or](/post/or/) brightness. [Example](/post/example/): "[The](/post/the/) [room](/post/room/) was filled [with](/post/with/) [a](/post/a/) [soft](/post/soft/), [warm](/post/warm/) [light](/post/light/)."
+- **[Noun](/post/noun/)**: [Understanding](/post/understanding/) [or](/post/or/) enlightenment; clarity [of](/post/of/) [thought](/post/thought/). [Example](/post/example/): "[The](/post/the/) [lecture](/post/lecture/) [shed](/post/shed/) [light](/post/light/) [on](/post/on/) [the](/post/the/) [complex](/post/complex/) [topic](/post/topic/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) ignite [or](/post/or/) [switch](/post/switch/) [on](/post/on/) [a](/post/a/) [light](/post/light/) [source](/post/source/). [Example](/post/example/): "[Please](/post/please/) [light](/post/light/) [the](/post/the/) candles [so](/post/so/) [we](/post/we/) [can](/post/can/) [see](/post/see/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [brighten](/post/brighten/) [or](/post/or/) illuminate [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [moon](/post/moon/) lights [up](/post/up/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [less](/post/less/) [heavy](/post/heavy/) [or](/post/or/) burdensome. [Example](/post/example/): "[This](/post/this/) [new](/post/new/) [material](/post/material/) [will](/post/will/) [light](/post/light/) [the](/post/the/) [load](/post/load/) [for](/post/for/) astronauts [in](/post/in/) [space](/post/space/)."
+- **[Adjective](/post/adjective/) (adj)**: Having [little](/post/little/) [weight](/post/weight/); [not](/post/not/) [heavy](/post/heavy/). [Example](/post/example/): "[A](/post/a/) [light](/post/light/) backpack made [the](/post/the/) hike [more](/post/more/) enjoyable."
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) [dark](/post/dark/) [or](/post/or/) [gloomy](/post/gloomy/); well-lit. [Example](/post/example/): "[The](/post/the/) [room](/post/room/) was [light](/post/light/) [and](/post/and/) airy."
+- **[Adjective](/post/adjective/)**: [Of](/post/of/) [low](/post/low/) [intensity](/post/intensity/), [amount](/post/amount/), [or](/post/or/) [degree](/post/degree/). [Example](/post/example/): "[Take](/post/take/) [it](/post/it/) [easy](/post/easy/); let's [have](/post/have/) [a](/post/a/) [light](/post/light/) workout [today](/post/today/)."
 
 ## Phrases
-- "[Light](/en/post/light/) [up](/en/post/up/)": [To](/en/post/to/) ignite [or](/en/post/or/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [emit](/en/post/emit/) [light](/en/post/light/). "[The](/en/post/the/) fireworks lit [up](/en/post/up/) [the](/en/post/the/) [sky](/en/post/sky/)."
-- "[Let](/en/post/let/) [there](/en/post/there/) [be](/en/post/be/) [light](/en/post/light/)": An [expression](/en/post/expression/) referring [to](/en/post/to/) creation [or](/en/post/or/) enlightenment.
-- "[Light](/en/post/light/) [at](/en/post/at/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [tunnel](/en/post/tunnel/)": [A](/en/post/a/) [sign](/en/post/sign/) [that](/en/post/that/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/) is coming [to](/en/post/to/) an [end](/en/post/end/).
-- "[See](/en/post/see/) [the](/en/post/the/) [light](/en/post/light/)": [To](/en/post/to/) [suddenly](/en/post/suddenly/) [understand](/en/post/understand/) [or](/en/post/or/) [realize](/en/post/realize/) [something](/en/post/something/) [after](/en/post/after/) [confusion](/en/post/confusion/) [or](/en/post/or/) ignorance.
+- "[Light](/post/light/) [up](/post/up/)": [To](/post/to/) ignite [or](/post/or/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [emit](/post/emit/) [light](/post/light/). "[The](/post/the/) fireworks lit [up](/post/up/) [the](/post/the/) [sky](/post/sky/)."
+- "[Let](/post/let/) [there](/post/there/) [be](/post/be/) [light](/post/light/)": An [expression](/post/expression/) referring [to](/post/to/) creation [or](/post/or/) enlightenment.
+- "[Light](/post/light/) [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [tunnel](/post/tunnel/)": [A](/post/a/) [sign](/post/sign/) [that](/post/that/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/) is coming [to](/post/to/) an [end](/post/end/).
+- "[See](/post/see/) [the](/post/the/) [light](/post/light/)": [To](/post/to/) [suddenly](/post/suddenly/) [understand](/post/understand/) [or](/post/or/) [realize](/post/realize/) [something](/post/something/) [after](/post/after/) [confusion](/post/confusion/) [or](/post/or/) ignorance.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [fire](/en/post/fire/) [cast](/en/post/cast/) [a](/en/post/a/) flickering [light](/en/post/light/) [across](/en/post/across/) [their](/en/post/their/) faces."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) lit [a](/en/post/a/) [match](/en/post/match/) [to](/en/post/to/) [start](/en/post/start/) [the](/en/post/the/) campfire."
-- **[Adjective](/en/post/adjective/)**: "[They](/en/post/they/) chose [a](/en/post/a/) light-colored [paint](/en/post/paint/) [for](/en/post/for/) [the](/en/post/the/) bedroom [to](/en/post/to/) [create](/en/post/create/) an [open](/en/post/open/) [feel](/en/post/feel/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [fire](/post/fire/) [cast](/post/cast/) [a](/post/a/) flickering [light](/post/light/) [across](/post/across/) [their](/post/their/) faces."
+- **[Verb](/post/verb/)**: "[She](/post/she/) lit [a](/post/a/) [match](/post/match/) [to](/post/to/) [start](/post/start/) [the](/post/the/) campfire."
+- **[Adjective](/post/adjective/)**: "[They](/post/they/) chose [a](/post/a/) light-colored [paint](/post/paint/) [for](/post/for/) [the](/post/the/) bedroom [to](/post/to/) [create](/post/create/) an [open](/post/open/) [feel](/post/feel/)."
 
 ## Synonyms
 - Radiance
-- [Glow](/en/post/glow/)
-- [Shine](/en/post/shine/)
+- [Glow](/post/glow/)
+- [Shine](/post/shine/)
 - Brightness
-- [Torch](/en/post/torch/)
+- [Torch](/post/torch/)
 - Luminescence
-- Weightlessness ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [sense](/en/post/sense/))
-- Featherweight ([for](/en/post/for/) [the](/en/post/the/) [adjective](/en/post/adjective/) [sense](/en/post/sense/)) 
+- Weightlessness ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [sense](/post/sense/))
+- Featherweight ([for](/post/for/) [the](/post/the/) [adjective](/post/adjective/) [sense](/post/sense/)) 
 
-[Note](/en/post/note/): Synonyms [provided](/en/post/provided/) [may](/en/post/may/) [vary](/en/post/vary/) depending [on](/en/post/on/) [the](/en/post/the/) [specific](/en/post/specific/) context [in](/en/post/in/) [which](/en/post/which/) '[light](/en/post/light/)' is [being](/en/post/being/) [used](/en/post/used/).
+[Note](/post/note/): Synonyms [provided](/post/provided/) [may](/post/may/) [vary](/post/vary/) depending [on](/post/on/) [the](/post/the/) [specific](/post/specific/) context [in](/post/in/) [which](/post/which/) '[light](/post/light/)' is [being](/post/being/) [used](/post/used/).

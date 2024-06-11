@@ -7,34 +7,34 @@ description = '[mju(ː)ˈziəm] n.博物馆；展览馆'
 keywords = ['ai words', 'museum']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /maɪˈziəm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) [institution](/en/post/institution/) [where](/en/post/where/) objects [of](/en/post/of/) [historical](/en/post/historical/), [scientific](/en/post/scientific/), [artistic](/en/post/artistic/), [or](/en/post/or/) cultural [interest](/en/post/interest/) are stored [and](/en/post/and/) displayed [for](/en/post/for/) [public](/en/post/public/) viewing. 
+- **[Noun](/post/noun/)**: [A](/post/a/) [building](/post/building/) [or](/post/or/) [institution](/post/institution/) [where](/post/where/) objects [of](/post/of/) [historical](/post/historical/), [scientific](/post/scientific/), [artistic](/post/artistic/), [or](/post/or/) cultural [interest](/post/interest/) are stored [and](/post/and/) displayed [for](/post/for/) [public](/post/public/) viewing. 
 
-### [Noun](/en/post/noun/) [Usage](/en/post/usage/) Examples
-- [The](/en/post/the/) British [Museum](/en/post/museum/) houses [some](/en/post/some/) [of](/en/post/of/) [the](/en/post/the/) world's [most](/en/post/most/) [valuable](/en/post/valuable/) artifacts.
-- [We](/en/post/we/) spent [the](/en/post/the/) [afternoon](/en/post/afternoon/) exploring [the](/en/post/the/) [natural](/en/post/natural/) [history](/en/post/history/) [museum](/en/post/museum/).
-- [The](/en/post/the/) Louvre [Museum](/en/post/museum/) [in](/en/post/in/) Paris is [famous](/en/post/famous/) [for](/en/post/for/) [its](/en/post/its/) [extensive](/en/post/extensive/) [art](/en/post/art/) [collection](/en/post/collection/), including Leonardo da Vinci's Mona Lisa.
+### [Noun](/post/noun/) [Usage](/post/usage/) Examples
+- [The](/post/the/) British [Museum](/post/museum/) houses [some](/post/some/) [of](/post/of/) [the](/post/the/) world's [most](/post/most/) [valuable](/post/valuable/) artifacts.
+- [We](/post/we/) spent [the](/post/the/) [afternoon](/post/afternoon/) exploring [the](/post/the/) [natural](/post/natural/) [history](/post/history/) [museum](/post/museum/).
+- [The](/post/the/) Louvre [Museum](/post/museum/) [in](/post/in/) Paris is [famous](/post/famous/) [for](/post/for/) [its](/post/its/) [extensive](/post/extensive/) [art](/post/art/) [collection](/post/collection/), including Leonardo da Vinci's Mona Lisa.
 
 ## Phrases
-- "[Museum](/en/post/museum/) [exhibit](/en/post/exhibit/)": [A](/en/post/a/) [display](/en/post/display/) [within](/en/post/within/) [a](/en/post/a/) [museum](/en/post/museum/) [that](/en/post/that/) showcases [specific](/en/post/specific/) items [or](/en/post/or/) themes.
-- "[A](/en/post/a/) [day](/en/post/day/) [at](/en/post/at/) [the](/en/post/the/) [museum](/en/post/museum/)": Refers [to](/en/post/to/) spending [a](/en/post/a/) [day](/en/post/day/) visiting [and](/en/post/and/) [learning](/en/post/learning/) [from](/en/post/from/) [a](/en/post/a/) [museum](/en/post/museum/).
-- "[Museum](/en/post/museum/) curator": [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) manages [and](/en/post/and/) oversees collections [and](/en/post/and/) exhibitions [at](/en/post/at/) [a](/en/post/a/) [museum](/en/post/museum/).
+- "[Museum](/post/museum/) [exhibit](/post/exhibit/)": [A](/post/a/) [display](/post/display/) [within](/post/within/) [a](/post/a/) [museum](/post/museum/) [that](/post/that/) showcases [specific](/post/specific/) items [or](/post/or/) themes.
+- "[A](/post/a/) [day](/post/day/) [at](/post/at/) [the](/post/the/) [museum](/post/museum/)": Refers [to](/post/to/) spending [a](/post/a/) [day](/post/day/) visiting [and](/post/and/) [learning](/post/learning/) [from](/post/from/) [a](/post/a/) [museum](/post/museum/).
+- "[Museum](/post/museum/) curator": [A](/post/a/) [person](/post/person/) [who](/post/who/) manages [and](/post/and/) oversees collections [and](/post/and/) exhibitions [at](/post/at/) [a](/post/a/) [museum](/post/museum/).
 
-## [Example](/en/post/example/) Sentences
-- [The](/en/post/the/) children were fascinated [by](/en/post/by/) [the](/en/post/the/) dinosaur skeletons [at](/en/post/at/) [the](/en/post/the/) [museum](/en/post/museum/).
-- [She](/en/post/she/) had [a](/en/post/a/) [dream](/en/post/dream/) [job](/en/post/job/) working [as](/en/post/as/) [a](/en/post/a/) conservator [in](/en/post/in/) [a](/en/post/a/) [fine](/en/post/fine/) arts [museum](/en/post/museum/).
-- [After](/en/post/after/) [the](/en/post/the/) renovation, [the](/en/post/the/) [local](/en/post/local/) [history](/en/post/history/) [museum](/en/post/museum/) was reopened [with](/en/post/with/) improved interactive exhibits.
+## [Example](/post/example/) Sentences
+- [The](/post/the/) children were fascinated [by](/post/by/) [the](/post/the/) dinosaur skeletons [at](/post/at/) [the](/post/the/) [museum](/post/museum/).
+- [She](/post/she/) had [a](/post/a/) [dream](/post/dream/) [job](/post/job/) working [as](/post/as/) [a](/post/a/) conservator [in](/post/in/) [a](/post/a/) [fine](/post/fine/) arts [museum](/post/museum/).
+- [After](/post/after/) [the](/post/the/) renovation, [the](/post/the/) [local](/post/local/) [history](/post/history/) [museum](/post/museum/) was reopened [with](/post/with/) improved interactive exhibits.
 
 ## Synonyms
-- [Gallery](/en/post/gallery/)
-- [Exhibition](/en/post/exhibition/) [hall](/en/post/hall/)
-- [Art](/en/post/art/) [gallery](/en/post/gallery/)
+- [Gallery](/post/gallery/)
+- [Exhibition](/post/exhibition/) [hall](/post/hall/)
+- [Art](/post/art/) [gallery](/post/gallery/)
 - Archive
 - Repository
-- [Memorial](/en/post/memorial/)
-- [Institute](/en/post/institute/)
-- [Collection](/en/post/collection/)
+- [Memorial](/post/memorial/)
+- [Institute](/post/institute/)
+- [Collection](/post/collection/)
 - Showcase

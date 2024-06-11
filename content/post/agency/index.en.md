@@ -7,46 +7,46 @@ description = '[ˈeidʒənsi] n.经办；代理；代理处'
 keywords = ['ai words', 'agency']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈeɪdʒənsi/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [business](/en/post/business/) [or](/en/post/or/) [organization](/en/post/organization/) [that](/en/post/that/) provides services, [especially](/en/post/especially/) administrative [or](/en/post/or/) [professional](/en/post/professional/) services, [on](/en/post/on/) [behalf](/en/post/behalf/) [of](/en/post/of/) others.
-   - [Definition](/en/post/definition/): An [agency](/en/post/agency/) acts [as](/en/post/as/) [a](/en/post/a/) middleman, assisting clients [in](/en/post/in/) [various](/en/post/various/) tasks [or](/en/post/or/) transactions.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [travel](/en/post/travel/) [agency](/en/post/agency/) helped [me](/en/post/me/) [book](/en/post/book/) [a](/en/post/a/) [flight](/en/post/flight/) [to](/en/post/to/) Europe."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [business](/post/business/) [or](/post/or/) [organization](/post/organization/) [that](/post/that/) provides services, [especially](/post/especially/) administrative [or](/post/or/) [professional](/post/professional/) services, [on](/post/on/) [behalf](/post/behalf/) [of](/post/of/) others.
+   - [Definition](/post/definition/): An [agency](/post/agency/) acts [as](/post/as/) [a](/post/a/) middleman, assisting clients [in](/post/in/) [various](/post/various/) tasks [or](/post/or/) transactions.
+   - [Example](/post/example/): "[The](/post/the/) [travel](/post/travel/) [agency](/post/agency/) helped [me](/post/me/) [book](/post/book/) [a](/post/a/) [flight](/post/flight/) [to](/post/to/) Europe."
 
-2. [The](/en/post/the/) [power](/en/post/power/) [or](/en/post/or/) [authority](/en/post/authority/) [to](/en/post/to/) [act](/en/post/act/) [on](/en/post/on/) [behalf](/en/post/behalf/) [of](/en/post/of/) [another](/en/post/another/) [person](/en/post/person/) [or](/en/post/or/) [organization](/en/post/organization/).
-   - [Definition](/en/post/definition/): An [agent](/en/post/agent/) has [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [make](/en/post/make/) decisions [or](/en/post/or/) [perform](/en/post/perform/) actions [for](/en/post/for/) [their](/en/post/their/) [principal](/en/post/principal/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) has [the](/en/post/the/) [agency](/en/post/agency/) [to](/en/post/to/) negotiate [the](/en/post/the/) [contract](/en/post/contract/) [for](/en/post/for/) [the](/en/post/the/) [company](/en/post/company/)."
+2. [The](/post/the/) [power](/post/power/) [or](/post/or/) [authority](/post/authority/) [to](/post/to/) [act](/post/act/) [on](/post/on/) [behalf](/post/behalf/) [of](/post/of/) [another](/post/another/) [person](/post/person/) [or](/post/or/) [organization](/post/organization/).
+   - [Definition](/post/definition/): An [agent](/post/agent/) has [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [make](/post/make/) decisions [or](/post/or/) [perform](/post/perform/) actions [for](/post/for/) [their](/post/their/) [principal](/post/principal/).
+   - [Example](/post/example/): "[She](/post/she/) has [the](/post/the/) [agency](/post/agency/) [to](/post/to/) negotiate [the](/post/the/) [contract](/post/contract/) [for](/post/for/) [the](/post/the/) [company](/post/company/)."
 
-3. [Influence](/en/post/influence/) [or](/en/post/or/) [control](/en/post/control/) [over](/en/post/over/) events [or](/en/post/or/) circumstances.
-   - [Definition](/en/post/definition/): An [agency](/en/post/agency/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [extent](/en/post/extent/) [to](/en/post/to/) [which](/en/post/which/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) affects [or](/en/post/or/) directs [a](/en/post/a/) [situation](/en/post/situation/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) [agency](/en/post/agency/) predicted [heavy](/en/post/heavy/) [rain](/en/post/rain/) [for](/en/post/for/) [the](/en/post/the/) [weekend](/en/post/weekend/)."
+3. [Influence](/post/influence/) [or](/post/or/) [control](/post/control/) [over](/post/over/) events [or](/post/or/) circumstances.
+   - [Definition](/post/definition/): An [agency](/post/agency/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [extent](/post/extent/) [to](/post/to/) [which](/post/which/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) affects [or](/post/or/) directs [a](/post/a/) [situation](/post/situation/).
+   - [Example](/post/example/): "[The](/post/the/) [weather](/post/weather/) [agency](/post/agency/) predicted [heavy](/post/heavy/) [rain](/post/rain/) [for](/post/for/) [the](/post/the/) [weekend](/post/weekend/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) an intermediary [or](/en/post/or/) [representative](/en/post/representative/) [for](/en/post/for/) [someone](/en/post/someone/) [else](/en/post/else/).
-   - [Definition](/en/post/definition/): [To](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) facilitate services [or](/en/post/or/) transactions [through](/en/post/through/) an [agency](/en/post/agency/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [real](/en/post/real/) estate [agency](/en/post/agency/) listed [the](/en/post/the/) [property](/en/post/property/) [for](/en/post/for/) [sale](/en/post/sale/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [act](/post/act/) [as](/post/as/) an intermediary [or](/post/or/) [representative](/post/representative/) [for](/post/for/) [someone](/post/someone/) [else](/post/else/).
+   - [Definition](/post/definition/): [To](/post/to/) [arrange](/post/arrange/) [or](/post/or/) facilitate services [or](/post/or/) transactions [through](/post/through/) an [agency](/post/agency/).
+   - [Example](/post/example/): "[The](/post/the/) [real](/post/real/) estate [agency](/post/agency/) listed [the](/post/the/) [property](/post/property/) [for](/post/for/) [sale](/post/sale/)."
 
-2. [To](/en/post/to/) [have](/en/post/have/) [or](/en/post/or/) [exert](/en/post/exert/) [influence](/en/post/influence/) [or](/en/post/or/) [control](/en/post/control/) [over](/en/post/over/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [situation](/en/post/situation/).
-   - [Definition](/en/post/definition/): [To](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) driving [force](/en/post/force/) [behind](/en/post/behind/) someone's actions [or](/en/post/or/) decisions.
-   - [Example](/en/post/example/): "[Her](/en/post/her/) [new](/en/post/new/) [job](/en/post/job/) gives [her](/en/post/her/) greater [agency](/en/post/agency/) [in](/en/post/in/) [her](/en/post/her/) [career](/en/post/career/) choices."
+2. [To](/post/to/) [have](/post/have/) [or](/post/or/) [exert](/post/exert/) [influence](/post/influence/) [or](/post/or/) [control](/post/control/) [over](/post/over/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [situation](/post/situation/).
+   - [Definition](/post/definition/): [To](/post/to/) [be](/post/be/) [the](/post/the/) driving [force](/post/force/) [behind](/post/behind/) someone's actions [or](/post/or/) decisions.
+   - [Example](/post/example/): "[Her](/post/her/) [new](/post/new/) [job](/post/job/) gives [her](/post/her/) greater [agency](/post/agency/) [in](/post/in/) [her](/post/her/) [career](/post/career/) choices."
 
-### [Adjective](/en/post/adjective/)
-1. Characterizing [a](/en/post/a/) [system](/en/post/system/) [or](/en/post/or/) [process](/en/post/process/) [where](/en/post/where/) decision-making is decentralized [or](/en/post/or/) distributed [among](/en/post/among/) individuals [or](/en/post/or/) groups.
-   - [Definition](/en/post/definition/): An agency-driven [approach](/en/post/approach/) allows [for](/en/post/for/) [more](/en/post/more/) autonomy.
-   - [Example](/en/post/example/): "[A](/en/post/a/) self-governing [school](/en/post/school/) [with](/en/post/with/) an autonomous [agency](/en/post/agency/) [model](/en/post/model/)."
+### [Adjective](/post/adjective/)
+1. Characterizing [a](/post/a/) [system](/post/system/) [or](/post/or/) [process](/post/process/) [where](/post/where/) decision-making is decentralized [or](/post/or/) distributed [among](/post/among/) individuals [or](/post/or/) groups.
+   - [Definition](/post/definition/): An agency-driven [approach](/post/approach/) allows [for](/post/for/) [more](/post/more/) autonomy.
+   - [Example](/post/example/): "[A](/post/a/) self-governing [school](/post/school/) [with](/post/with/) an autonomous [agency](/post/agency/) [model](/post/model/)."
 
 ## Phrases
-- "[Agency](/en/post/agency/) representation" refers [to](/en/post/to/) an [arrangement](/en/post/arrangement/) [where](/en/post/where/) an [agency](/en/post/agency/) acts [as](/en/post/as/) [the](/en/post/the/) exclusive [representative](/en/post/representative/) [of](/en/post/of/) [a](/en/post/a/) client.
-- "[Agency](/en/post/agency/) [theory](/en/post/theory/)" discusses [how](/en/post/how/) organizations delegate [authority](/en/post/authority/) [and](/en/post/and/) decision-making.
-- "Acting [on](/en/post/on/) one's [own](/en/post/own/) [agency](/en/post/agency/)" [means](/en/post/means/) making decisions independently.
+- "[Agency](/post/agency/) representation" refers [to](/post/to/) an [arrangement](/post/arrangement/) [where](/post/where/) an [agency](/post/agency/) acts [as](/post/as/) [the](/post/the/) exclusive [representative](/post/representative/) [of](/post/of/) [a](/post/a/) client.
+- "[Agency](/post/agency/) [theory](/post/theory/)" discusses [how](/post/how/) organizations delegate [authority](/post/authority/) [and](/post/and/) decision-making.
+- "Acting [on](/post/on/) one's [own](/post/own/) [agency](/post/agency/)" [means](/post/means/) making decisions independently.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) advertising [agency](/en/post/agency/) created [a](/en/post/a/) compelling [campaign](/en/post/campaign/) [for](/en/post/for/) [our](/en/post/our/) [product](/en/post/product/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [government](/en/post/government/) [agency](/en/post/agency/) enforces environmental regulations."
-- **[Adjective](/en/post/adjective/)**: "[In](/en/post/in/) an [agency](/en/post/agency/) [culture](/en/post/culture/), employees are encouraged [to](/en/post/to/) [take](/en/post/take/) [ownership](/en/post/ownership/) [of](/en/post/of/) [their](/en/post/their/) projects."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) advertising [agency](/post/agency/) created [a](/post/a/) compelling [campaign](/post/campaign/) [for](/post/for/) [our](/post/our/) [product](/post/product/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [government](/post/government/) [agency](/post/agency/) enforces environmental regulations."
+- **[Adjective](/post/adjective/)**: "[In](/post/in/) an [agency](/post/agency/) [culture](/post/culture/), employees are encouraged [to](/post/to/) [take](/post/take/) [ownership](/post/ownership/) [of](/post/of/) [their](/post/their/) projects."
 
 ## Synonyms
 - Brokerage
@@ -54,6 +54,6 @@ keywords = ['ai words', 'agency']
 - Mediation
 - Intermediary
 - Delegate
-- [Power](/en/post/power/)
-- [Control](/en/post/control/)
+- [Power](/post/power/)
+- [Control](/post/control/)
 - Autonomy

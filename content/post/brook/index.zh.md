@@ -11,24 +11,24 @@ keywords = ['ai words', 'brook']
 /broʊk/
 
 ## 释义
-- **名词**: 一条小溪或小河流。例如: "[The](/post/the/) [cottage](/post/cottage/) was situated [by](/post/by/) [a](/post/a/) babbling [brook](/post/brook/)."
-- **动词**: 容忍，忍受（常与won't或can't连用，表示不能接受或不容许）。例如: "I won't [brook](/post/brook/) [any](/post/any/) [interference](/post/interference/) [in](/post/in/) [my](/post/my/) affairs."
+- **名词**: 一条小溪或小河流。例如: "[The](/zh/post/the/) [cottage](/zh/post/cottage/) was situated [by](/zh/post/by/) [a](/zh/post/a/) babbling [brook](/zh/post/brook/)."
+- **动词**: 容忍，忍受（常与won't或can't连用，表示不能接受或不容许）。例如: "I won't [brook](/zh/post/brook/) [any](/zh/post/any/) [interference](/zh/post/interference/) [in](/zh/post/in/) [my](/zh/post/my/) affairs."
 
 ## 短语
-- "[to](/post/to/) [brook](/post/brook/) [no](/post/no/) [delay](/post/delay/)" 表示不容许有任何延误。
-- "can't [brook](/post/brook/) [criticism](/post/criticism/)" 意味着不能忍受批评。
+- "[to](/zh/post/to/) [brook](/zh/post/brook/) [no](/zh/post/no/) [delay](/zh/post/delay/)" 表示不容许有任何延误。
+- "can't [brook](/zh/post/brook/) [criticism](/zh/post/criticism/)" 意味着不能忍受批评。
 
 ## 例句
-- 名词: "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) [the](/post/the/) [brook](/post/brook/) [could](/post/could/) [be](/post/be/) heard [from](/post/from/) [the](/post/the/) [garden](/post/garden/)."
-- 动词: "[She](/post/she/) can't [brook](/post/brook/) [being](/post/being/) told [what](/post/what/) [to](/post/to/) [do](/post/do/)."
+- 名词: "[The](/zh/post/the/) [sound](/zh/post/sound/) [of](/zh/post/of/) [the](/zh/post/the/) [brook](/zh/post/brook/) [could](/zh/post/could/) [be](/zh/post/be/) heard [from](/zh/post/from/) [the](/zh/post/the/) [garden](/zh/post/garden/)."
+- 动词: "[She](/zh/post/she/) can't [brook](/zh/post/brook/) [being](/zh/post/being/) told [what](/zh/post/what/) [to](/zh/post/to/) [do](/zh/post/do/)."
 
 ## 同义词
-- [Stream](/post/stream/)
+- [Stream](/zh/post/stream/)
 - Creek
 - Riverlet
 - Tributary
 -耐受:
-- [Tolerate](/post/tolerate/)
-- [Endure](/post/endure/)
-- [Put](/post/put/) [up](/post/up/) [with](/post/with/)
+- [Tolerate](/zh/post/tolerate/)
+- [Endure](/zh/post/endure/)
+- [Put](/zh/post/put/) [up](/zh/post/up/) [with](/zh/post/with/)
 - Abide

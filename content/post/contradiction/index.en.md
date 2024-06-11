@@ -7,26 +7,26 @@ description = '[ˌkɔntrəˈdik∫ən] n.矛盾，不一致；否认'
 keywords = ['ai words', 'contradiction']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈtraɪdɪkʃ(ə)n/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [fact](/en/post/fact/) [that](/en/post/that/) is [in](/en/post/in/) [direct](/en/post/direct/) opposition [to](/en/post/to/) [another](/en/post/another/), typically [one](/en/post/one/) [that](/en/post/that/) disproves [or](/en/post/or/) contradicts [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [claim](/en/post/claim/) contradicted [the](/en/post/the/) [evidence](/en/post/evidence/) [provided](/en/post/provided/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [disagree](/en/post/disagree/) [with](/en/post/with/) [or](/en/post/or/) [oppose](/en/post/oppose/) ([a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [belief](/en/post/belief/)), typically [by](/en/post/by/) providing [a](/en/post/a/) conflicting [one](/en/post/one/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) contradicted [her](/en/post/her/) partner's [opinion](/en/post/opinion/) [on](/en/post/on/) [the](/en/post/the/) [matter](/en/post/matter/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) containing [a](/en/post/a/) [contradiction](/en/post/contradiction/); conflicting. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [argument](/en/post/argument/) was [full](/en/post/full/) [of](/en/post/of/) contradictory statements."
+- **[Noun](/post/noun/)**: [A](/post/a/) [statement](/post/statement/) [or](/post/or/) [fact](/post/fact/) [that](/post/that/) is [in](/post/in/) [direct](/post/direct/) opposition [to](/post/to/) [another](/post/another/), typically [one](/post/one/) [that](/post/that/) disproves [or](/post/or/) contradicts [it](/post/it/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [claim](/post/claim/) contradicted [the](/post/the/) [evidence](/post/evidence/) [provided](/post/provided/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [disagree](/post/disagree/) [with](/post/with/) [or](/post/or/) [oppose](/post/oppose/) ([a](/post/a/) [statement](/post/statement/) [or](/post/or/) [belief](/post/belief/)), typically [by](/post/by/) providing [a](/post/a/) conflicting [one](/post/one/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) contradicted [her](/post/her/) partner's [opinion](/post/opinion/) [on](/post/on/) [the](/post/the/) [matter](/post/matter/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [or](/post/or/) containing [a](/post/a/) [contradiction](/post/contradiction/); conflicting. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [argument](/post/argument/) was [full](/post/full/) [of](/post/of/) contradictory statements."
 
 ## Phrases
-- "Contradict [oneself](/en/post/oneself/)" [means](/en/post/means/) [to](/en/post/to/) [say](/en/post/say/) [or](/en/post/or/) [imply](/en/post/imply/) [something](/en/post/something/) [that](/en/post/that/) goes [against](/en/post/against/) [what](/en/post/what/) [one](/en/post/one/) [previously](/en/post/previously/) said [or](/en/post/or/) believed.
-- "[A](/en/post/a/) [contradiction](/en/post/contradiction/) [in](/en/post/in/) terms" refers [to](/en/post/to/) [a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [idea](/en/post/idea/) [that](/en/post/that/) is inherently self-contradictory [and](/en/post/and/) [therefore](/en/post/therefore/) meaningless.
-- "Contradicting [evidence](/en/post/evidence/)" is [proof](/en/post/proof/) [that](/en/post/that/) goes [against](/en/post/against/) [another](/en/post/another/) [piece](/en/post/piece/) [of](/en/post/of/) [evidence](/en/post/evidence/) [or](/en/post/or/) testimony.
+- "Contradict [oneself](/post/oneself/)" [means](/post/means/) [to](/post/to/) [say](/post/say/) [or](/post/or/) [imply](/post/imply/) [something](/post/something/) [that](/post/that/) goes [against](/post/against/) [what](/post/what/) [one](/post/one/) [previously](/post/previously/) said [or](/post/or/) believed.
+- "[A](/post/a/) [contradiction](/post/contradiction/) [in](/post/in/) terms" refers [to](/post/to/) [a](/post/a/) [statement](/post/statement/) [or](/post/or/) [idea](/post/idea/) [that](/post/that/) is inherently self-contradictory [and](/post/and/) [therefore](/post/therefore/) meaningless.
+- "Contradicting [evidence](/post/evidence/)" is [proof](/post/proof/) [that](/post/that/) goes [against](/post/against/) [another](/post/another/) [piece](/post/piece/) [of](/post/of/) [evidence](/post/evidence/) [or](/post/or/) testimony.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [explanation](/en/post/explanation/) contradicted [the](/en/post/the/) witness's [account](/en/post/account/) [of](/en/post/of/) events."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) researching [further](/en/post/further/), [he](/en/post/he/) [found](/en/post/found/) [several](/en/post/several/) [scientific](/en/post/scientific/) papers [that](/en/post/that/) contradicted [his](/en/post/his/) [initial](/en/post/initial/) [theory](/en/post/theory/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [policy](/en/post/policy/) appeared contradictory, offering [both](/en/post/both/) [support](/en/post/support/) [and](/en/post/and/) restrictions simultaneously."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [explanation](/post/explanation/) contradicted [the](/post/the/) witness's [account](/post/account/) [of](/post/of/) events."
+- **[Verb](/post/verb/)**: "[After](/post/after/) researching [further](/post/further/), [he](/post/he/) [found](/post/found/) [several](/post/several/) [scientific](/post/scientific/) papers [that](/post/that/) contradicted [his](/post/his/) [initial](/post/initial/) [theory](/post/theory/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [policy](/post/policy/) appeared contradictory, offering [both](/post/both/) [support](/post/support/) [and](/post/and/) restrictions simultaneously."
 
 ## Synonyms
-- [Conflict](/en/post/conflict/)
+- [Conflict](/post/conflict/)
 - Inconsistency
 - Disagreement
 - Rebuttal
@@ -34,8 +34,8 @@ keywords = ['ai words', 'contradiction']
 - Discord
 
 ## Antonyms
-- [Agreement](/en/post/agreement/)
+- [Agreement](/post/agreement/)
 - Consistency
-- [Harmony](/en/post/harmony/)
+- [Harmony](/post/harmony/)
 - Confirmation
 - Compatibility

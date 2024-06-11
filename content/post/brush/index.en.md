@@ -7,39 +7,39 @@ description = '[brʌ∫] n.刷子，毛刷；画笔'
 keywords = ['ai words', 'brush']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /brʌʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [tool](/en/post/tool/) [with](/en/post/with/) bristles [or](/en/post/or/) hairs [used](/en/post/used/) [for](/en/post/for/) grooming, cleaning, [or](/en/post/or/) [painting](/en/post/painting/), typically [a](/en/post/a/) [flat](/en/post/flat/) [one](/en/post/one/) [with](/en/post/with/) [a](/en/post/a/) [handle](/en/post/handle/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) [used](/en/post/used/) [a](/en/post/a/) paintbrush [to](/en/post/to/) [create](/en/post/create/) [her](/en/post/her/) [masterpiece](/en/post/masterpiece/)."
-2. An [action](/en/post/action/) [or](/en/post/or/) [movement](/en/post/movement/) [of](/en/post/of/) brushing [something](/en/post/something/), [especially](/en/post/especially/) [with](/en/post/with/) [a](/en/post/a/) bristled [tool](/en/post/tool/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) brushed [her](/en/post/her/) [hair](/en/post/hair/) [before](/en/post/before/) going [to](/en/post/to/) [bed](/en/post/bed/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [tool](/post/tool/) [with](/post/with/) bristles [or](/post/or/) hairs [used](/post/used/) [for](/post/for/) grooming, cleaning, [or](/post/or/) [painting](/post/painting/), typically [a](/post/a/) [flat](/post/flat/) [one](/post/one/) [with](/post/with/) [a](/post/a/) [handle](/post/handle/).
+   - [Example](/post/example/): "[The](/post/the/) [artist](/post/artist/) [used](/post/used/) [a](/post/a/) paintbrush [to](/post/to/) [create](/post/create/) [her](/post/her/) [masterpiece](/post/masterpiece/)."
+2. An [action](/post/action/) [or](/post/or/) [movement](/post/movement/) [of](/post/of/) brushing [something](/post/something/), [especially](/post/especially/) [with](/post/with/) [a](/post/a/) bristled [tool](/post/tool/).
+   - [Example](/post/example/): "[She](/post/she/) brushed [her](/post/her/) [hair](/post/hair/) [before](/post/before/) going [to](/post/to/) [bed](/post/bed/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [clean](/en/post/clean/) [or](/en/post/or/) [smooth](/en/post/smooth/) using [a](/en/post/a/) [brush](/en/post/brush/).
-   - [Example](/en/post/example/): "[He](/en/post/he/) brushed [the](/en/post/the/) [dust](/en/post/dust/) [off](/en/post/off/) [his](/en/post/his/) [shirt](/en/post/shirt/)."
-2. [To](/en/post/to/) [pass](/en/post/pass/) [over](/en/post/over/) [quickly](/en/post/quickly/) [with](/en/post/with/) [a](/en/post/a/) sweeping [motion](/en/post/motion/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [casual](/en/post/casual/) [manner](/en/post/manner/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) brushed [past](/en/post/past/) [him](/en/post/him/) [without](/en/post/without/) acknowledging [him](/en/post/him/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [clean](/post/clean/) [or](/post/or/) [smooth](/post/smooth/) using [a](/post/a/) [brush](/post/brush/).
+   - [Example](/post/example/): "[He](/post/he/) brushed [the](/post/the/) [dust](/post/dust/) [off](/post/off/) [his](/post/his/) [shirt](/post/shirt/)."
+2. [To](/post/to/) [pass](/post/pass/) [over](/post/over/) [quickly](/post/quickly/) [with](/post/with/) [a](/post/a/) sweeping [motion](/post/motion/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [casual](/post/casual/) [manner](/post/manner/).
+   - [Example](/post/example/): "[She](/post/she/) brushed [past](/post/past/) [him](/post/him/) [without](/post/without/) acknowledging [him](/post/him/)."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) brushing [or](/en/post/or/) having bristles.
-   - [Example](/en/post/example/): "[A](/en/post/a/) brush-like [plant](/en/post/plant/) [with](/en/post/with/) [delicate](/en/post/delicate/) foliage."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) brushing [or](/post/or/) having bristles.
+   - [Example](/post/example/): "[A](/post/a/) brush-like [plant](/post/plant/) [with](/post/with/) [delicate](/post/delicate/) foliage."
 
 ## Phrases
-- "[To](/en/post/to/) [give](/en/post/give/) [someone](/en/post/someone/) [a](/en/post/a/) brush-off" [means](/en/post/means/) [to](/en/post/to/) [dismiss](/en/post/dismiss/) [or](/en/post/or/) [ignore](/en/post/ignore/) [them](/en/post/them/).
-- "[Brush](/en/post/brush/) [up](/en/post/up/) [on](/en/post/on/)" suggests reviewing [or](/en/post/or/) improving one's [knowledge](/en/post/knowledge/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/).
-- "[Brush](/en/post/brush/) teeth" is [a](/en/post/a/) [common](/en/post/common/) [daily](/en/post/daily/) hygiene [practice](/en/post/practice/).
+- "[To](/post/to/) [give](/post/give/) [someone](/post/someone/) [a](/post/a/) brush-off" [means](/post/means/) [to](/post/to/) [dismiss](/post/dismiss/) [or](/post/or/) [ignore](/post/ignore/) [them](/post/them/).
+- "[Brush](/post/brush/) [up](/post/up/) [on](/post/on/)" suggests reviewing [or](/post/or/) improving one's [knowledge](/post/knowledge/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/).
+- "[Brush](/post/brush/) teeth" is [a](/post/a/) [common](/post/common/) [daily](/post/daily/) hygiene [practice](/post/practice/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) carefully chose [a](/en/post/a/) [new](/en/post/new/) toothbrush [from](/en/post/from/) [the](/en/post/the/) [store](/en/post/store/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [painter](/en/post/painter/) expertly brushed [the](/en/post/the/) colors [onto](/en/post/onto/) [the](/en/post/the/) [canvas](/en/post/canvas/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [brush](/en/post/brush/) marks [on](/en/post/on/) [the](/en/post/the/) [wall](/en/post/wall/) indicated [a](/en/post/a/) hurried [touch](/en/post/touch/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) carefully chose [a](/post/a/) [new](/post/new/) toothbrush [from](/post/from/) [the](/post/the/) [store](/post/store/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [painter](/post/painter/) expertly brushed [the](/post/the/) colors [onto](/post/onto/) [the](/post/the/) [canvas](/post/canvas/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [brush](/post/brush/) marks [on](/post/on/) [the](/post/the/) [wall](/post/wall/) indicated [a](/post/a/) hurried [touch](/post/touch/)."
 
 ## Synonyms
-- [Bristle](/en/post/bristle/)
+- [Bristle](/post/bristle/)
 -清扫
-- [Stroke](/en/post/stroke/) ([for](/en/post/for/) [the](/en/post/the/) [action](/en/post/action/))
-- [Polish](/en/post/polish/) ([for](/en/post/for/) [the](/en/post/the/) cleaning [sense](/en/post/sense/))
-- [Comb](/en/post/comb/) ([for](/en/post/for/) grooming, [often](/en/post/often/) referring [to](/en/post/to/) [hair](/en/post/hair/))
+- [Stroke](/post/stroke/) ([for](/post/for/) [the](/post/the/) [action](/post/action/))
+- [Polish](/post/polish/) ([for](/post/for/) [the](/post/the/) cleaning [sense](/post/sense/))
+- [Comb](/post/comb/) ([for](/post/for/) grooming, [often](/post/often/) referring [to](/post/to/) [hair](/post/hair/))

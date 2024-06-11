@@ -7,41 +7,41 @@ description = '[spɑːk] n.火花，火星'
 keywords = ['ai words', 'spark']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /spɑːrk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [spark](/en/post/spark/) is [a](/en/post/a/) [small](/en/post/small/) [burst](/en/post/burst/) [of](/en/post/of/) [energy](/en/post/energy/), [light](/en/post/light/), [or](/en/post/or/) [heat](/en/post/heat/) [that](/en/post/that/) ignites [or](/en/post/or/) initiates [something](/en/post/something/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) an [idea](/en/post/idea/), inspiration, [or](/en/post/or/) [a](/en/post/a/) [small](/en/post/small/) [flame](/en/post/flame/).
+### [Noun](/post/noun/)
+[A](/post/a/) [spark](/post/spark/) is [a](/post/a/) [small](/post/small/) [burst](/post/burst/) [of](/post/of/) [energy](/post/energy/), [light](/post/light/), [or](/post/or/) [heat](/post/heat/) [that](/post/that/) ignites [or](/post/or/) initiates [something](/post/something/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) an [idea](/post/idea/), inspiration, [or](/post/or/) [a](/post/a/) [small](/post/small/) [flame](/post/flame/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [spark](/en/post/spark/) (v): [To](/en/post/to/) ignite, [stimulate](/en/post/stimulate/), [or](/en/post/or/) [set](/en/post/set/) [off](/en/post/off/) [a](/en/post/a/) [reaction](/en/post/reaction/), [often](/en/post/often/) an [interest](/en/post/interest/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [cause](/en/post/cause/) [a](/en/post/a/) [spark](/en/post/spark/) [to](/en/post/to/) [occur](/en/post/occur/).
+### [Verb](/post/verb/)
+[To](/post/to/) [spark](/post/spark/) (v): [To](/post/to/) ignite, [stimulate](/post/stimulate/), [or](/post/or/) [set](/post/set/) [off](/post/off/) [a](/post/a/) [reaction](/post/reaction/), [often](/post/often/) an [interest](/post/interest/) [or](/post/or/) [enthusiasm](/post/enthusiasm/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) [cause](/post/cause/) [a](/post/a/) [spark](/post/spark/) [to](/post/to/) [occur](/post/occur/).
 
-### [Adjective](/en/post/adjective/)
-Sparkling [or](/en/post/or/) [electric](/en/post/electric/): Characterized [by](/en/post/by/) [energy](/en/post/energy/), liveliness, [or](/en/post/or/) brilliance.
+### [Adjective](/post/adjective/)
+Sparkling [or](/post/or/) [electric](/post/electric/): Characterized [by](/post/by/) [energy](/post/energy/), liveliness, [or](/post/or/) brilliance.
 
-### [Adverb](/en/post/adverb/)
-Sparks-like: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) reminiscent [of](/en/post/of/) [or](/en/post/or/) suggesting sparks.
+### [Adverb](/post/adverb/)
+Sparks-like: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) reminiscent [of](/post/of/) [or](/post/or/) suggesting sparks.
 
 ## Phrases
-- "[Spark](/en/post/spark/) [a](/en/post/a/) [conversation](/en/post/conversation/)" [means](/en/post/means/) [to](/en/post/to/) initiate [a](/en/post/a/) [discussion](/en/post/discussion/).
-- "[A](/en/post/a/) [spark](/en/post/spark/) [of](/en/post/of/) creativity" refers [to](/en/post/to/) [a](/en/post/a/) [sudden](/en/post/sudden/) [burst](/en/post/burst/) [of](/en/post/of/) inspiration.
-- "[Spark](/en/post/spark/) [joy](/en/post/joy/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) brings [happiness](/en/post/happiness/).
+- "[Spark](/post/spark/) [a](/post/a/) [conversation](/post/conversation/)" [means](/post/means/) [to](/post/to/) initiate [a](/post/a/) [discussion](/post/discussion/).
+- "[A](/post/a/) [spark](/post/spark/) [of](/post/of/) creativity" refers [to](/post/to/) [a](/post/a/) [sudden](/post/sudden/) [burst](/post/burst/) [of](/post/of/) inspiration.
+- "[Spark](/post/spark/) [joy](/post/joy/)" is [a](/post/a/) [phrase](/post/phrase/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) brings [happiness](/post/happiness/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [match](/en/post/match/) sparked [a](/en/post/a/) [fire](/en/post/fire/) [in](/en/post/in/) [the](/en/post/the/) fireplace."
-- **[Verb](/en/post/verb/)**: "[Her](/en/post/her/) [passion](/en/post/passion/) [for](/en/post/for/) [music](/en/post/music/) sparked [a](/en/post/a/) [new](/en/post/new/) [interest](/en/post/interest/) [in](/en/post/in/) [her](/en/post/her/) [son](/en/post/son/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) wore [a](/en/post/a/) sparkling [dress](/en/post/dress/) [to](/en/post/to/) [the](/en/post/the/) gala."
-- **[Adverb](/en/post/adverb/)**: "[His](/en/post/his/) eyes sparkled [with](/en/post/with/) excitement."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [match](/post/match/) sparked [a](/post/a/) [fire](/post/fire/) [in](/post/in/) [the](/post/the/) fireplace."
+- **[Verb](/post/verb/)**: "[Her](/post/her/) [passion](/post/passion/) [for](/post/for/) [music](/post/music/) sparked [a](/post/a/) [new](/post/new/) [interest](/post/interest/) [in](/post/in/) [her](/post/her/) [son](/post/son/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) wore [a](/post/a/) sparkling [dress](/post/dress/) [to](/post/to/) [the](/post/the/) gala."
+- **[Adverb](/post/adverb/)**: "[His](/post/his/) eyes sparkled [with](/post/with/) excitement."
 
 ## Synonyms
-- [Flame](/en/post/flame/)
-- [Burst](/en/post/burst/)
-- [Flash](/en/post/flash/)
+- [Flame](/post/flame/)
+- [Burst](/post/burst/)
+- [Flash](/post/flash/)
 - Glint
 - Energetic impulse
 - Inspiration
 - Zing
 - Vitality
-- [Enthusiasm](/en/post/enthusiasm/)
+- [Enthusiasm](/post/enthusiasm/)
 - Flicker

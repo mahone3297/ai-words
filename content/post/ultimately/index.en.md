@@ -7,38 +7,38 @@ description = '[ˈʌltimətli] ad.最终，最后'
 keywords = ['ai words', 'ultimately']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʌltɪmətli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [the](/en/post/the/) [final](/en/post/final/) [stage](/en/post/stage/) [or](/en/post/or/) [result](/en/post/result/); [eventually](/en/post/eventually/); [finally](/en/post/finally/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [many](/en/post/many/) trials, [they](/en/post/they/) [ultimately](/en/post/ultimately/) succeeded."
-- **[Adjective](/en/post/adjective/)**: Characterizing [something](/en/post/something/) [by](/en/post/by/) [being](/en/post/being/) [the](/en/post/the/) decisive [or](/en/post/or/) conclusive [factor](/en/post/factor/); [fundamental](/en/post/fundamental/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [ultimate](/en/post/ultimate/) [goal](/en/post/goal/) is [world](/en/post/world/) [peace](/en/post/peace/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [conclusion](/en/post/conclusion/) [or](/en/post/or/) [end](/en/post/end/) [point](/en/post/point/) [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/); [a](/en/post/a/) [final](/en/post/final/) [state](/en/post/state/) [or](/en/post/or/) [outcome](/en/post/outcome/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [ultimate](/en/post/ultimate/) [decision](/en/post/decision/) was [to](/en/post/to/) [move](/en/post/move/) [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [city](/en/post/city/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [the](/post/the/) [final](/post/final/) [stage](/post/stage/) [or](/post/or/) [result](/post/result/); [eventually](/post/eventually/); [finally](/post/finally/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) [many](/post/many/) trials, [they](/post/they/) [ultimately](/post/ultimately/) succeeded."
+- **[Adjective](/post/adjective/)**: Characterizing [something](/post/something/) [by](/post/by/) [being](/post/being/) [the](/post/the/) decisive [or](/post/or/) conclusive [factor](/post/factor/); [fundamental](/post/fundamental/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [ultimate](/post/ultimate/) [goal](/post/goal/) is [world](/post/world/) [peace](/post/peace/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [conclusion](/post/conclusion/) [or](/post/or/) [end](/post/end/) [point](/post/point/) [of](/post/of/) [a](/post/a/) [process](/post/process/); [a](/post/a/) [final](/post/final/) [state](/post/state/) [or](/post/or/) [outcome](/post/outcome/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) [ultimate](/post/ultimate/) [decision](/post/decision/) was [to](/post/to/) [move](/post/move/) [to](/post/to/) [a](/post/a/) [new](/post/new/) [city](/post/city/)."
 
 ## Phrases
-- "[Ultimately](/en/post/ultimately/), [he](/en/post/he/) changed [his](/en/post/his/) [mind](/en/post/mind/)."
-- "[The](/en/post/the/) [ultimate](/en/post/ultimate/) [truth](/en/post/truth/) lies [within](/en/post/within/) [oneself](/en/post/oneself/)."
-- "[Her](/en/post/her/) [hard](/en/post/hard/) [work](/en/post/work/) paid [off](/en/post/off/) [ultimately](/en/post/ultimately/)."
+- "[Ultimately](/post/ultimately/), [he](/post/he/) changed [his](/post/his/) [mind](/post/mind/)."
+- "[The](/post/the/) [ultimate](/post/ultimate/) [truth](/post/truth/) lies [within](/post/within/) [oneself](/post/oneself/)."
+- "[Her](/post/her/) [hard](/post/hard/) [work](/post/work/) paid [off](/post/off/) [ultimately](/post/ultimately/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[They](/en/post/they/) [ultimately](/en/post/ultimately/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [different](/en/post/different/) [approach](/en/post/approach/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [ultimate](/en/post/ultimate/) [responsibility](/en/post/responsibility/) lies [with](/en/post/with/) [the](/en/post/the/) leaders."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [ultimate](/en/post/ultimate/) [dream](/en/post/dream/) was [to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) [professional](/en/post/professional/) [athlete](/en/post/athlete/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[They](/post/they/) [ultimately](/post/ultimately/) decided [to](/post/to/) [take](/post/take/) [a](/post/a/) [different](/post/different/) [approach](/post/approach/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [ultimate](/post/ultimate/) [responsibility](/post/responsibility/) lies [with](/post/with/) [the](/post/the/) leaders."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [ultimate](/post/ultimate/) [dream](/post/dream/) was [to](/post/to/) [become](/post/become/) [a](/post/a/) [professional](/post/professional/) [athlete](/post/athlete/)."
 
 ## Synonyms
-- [Eventually](/en/post/eventually/)
-- [In](/en/post/in/) [the](/en/post/the/) [end](/en/post/end/)
-- [Ultimately](/en/post/ultimately/), lastly
-- [Finally](/en/post/finally/)
-- [Consequently](/en/post/consequently/)
-- [Ultimately](/en/post/ultimately/) speaking
-- [At](/en/post/at/) [last](/en/post/last/)
-- [Ultimately](/en/post/ultimately/), [in](/en/post/in/) [the](/en/post/the/) [long](/en/post/long/) [run](/en/post/run/)
+- [Eventually](/post/eventually/)
+- [In](/post/in/) [the](/post/the/) [end](/post/end/)
+- [Ultimately](/post/ultimately/), lastly
+- [Finally](/post/finally/)
+- [Consequently](/post/consequently/)
+- [Ultimately](/post/ultimately/) speaking
+- [At](/post/at/) [last](/post/last/)
+- [Ultimately](/post/ultimately/), [in](/post/in/) [the](/post/the/) [long](/post/long/) [run](/post/run/)
 
 ## Antonyms
 - Initially
-- [Primarily](/en/post/primarily/)
+- [Primarily](/post/primarily/)
 - Temporarily
-- [Immediately](/en/post/immediately/)
+- [Immediately](/post/immediately/)
 - Initially speaking
-- [Conversely](/en/post/conversely/)
+- [Conversely](/post/conversely/)

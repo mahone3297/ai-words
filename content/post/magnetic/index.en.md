@@ -7,34 +7,34 @@ description = '[mægˈnetik] a.磁的，有吸引力的'
 keywords = ['ai words', 'magnetic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌmæɡ.nəˈtɪk/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) having [the](/en/post/the/) properties [of](/en/post/of/) [a](/en/post/a/) [magnet](/en/post/magnet/); [able](/en/post/able/) [to](/en/post/to/) [attract](/en/post/attract/) [iron](/en/post/iron/) [or](/en/post/or/) [steel](/en/post/steel/): "[The](/en/post/the/) [magnetic](/en/post/magnetic/) [force](/en/post/force/) [between](/en/post/between/) [two](/en/post/two/) magnets."
-  - _Example Sentence_: "[The](/en/post/the/) [child](/en/post/child/) was fascinated [by](/en/post/by/) [the](/en/post/the/) [magnetic](/en/post/magnetic/) [pull](/en/post/pull/) [of](/en/post/of/) [the](/en/post/the/) [refrigerator](/en/post/refrigerator/) magnets."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) having [the](/post/the/) properties [of](/post/of/) [a](/post/a/) [magnet](/post/magnet/); [able](/post/able/) [to](/post/to/) [attract](/post/attract/) [iron](/post/iron/) [or](/post/or/) [steel](/post/steel/): "[The](/post/the/) [magnetic](/post/magnetic/) [force](/post/force/) [between](/post/between/) [two](/post/two/) magnets."
+  - _Example Sentence_: "[The](/post/the/) [child](/post/child/) was fascinated [by](/post/by/) [the](/post/the/) [magnetic](/post/magnetic/) [pull](/post/pull/) [of](/post/of/) [the](/post/the/) [refrigerator](/post/refrigerator/) magnets."
   
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [force](/en/post/force/) [that](/en/post/that/) attracts [iron](/en/post/iron/) [and](/en/post/and/) [other](/en/post/other/) metals, [or](/en/post/or/) [the](/en/post/the/) [ability](/en/post/ability/) [of](/en/post/of/) [a](/en/post/a/) [material](/en/post/material/) [to](/en/post/to/) [produce](/en/post/produce/) [such](/en/post/such/) [a](/en/post/a/) [force](/en/post/force/): "[The](/en/post/the/) earth's [magnetic](/en/post/magnetic/) [field](/en/post/field/)."
-  - _Example Sentence_: "[The](/en/post/the/) [compass](/en/post/compass/) [needle](/en/post/needle/) aligns [with](/en/post/with/) [the](/en/post/the/) Earth's [magnetic](/en/post/magnetic/) [north](/en/post/north/) [pole](/en/post/pole/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [force](/post/force/) [that](/post/that/) attracts [iron](/post/iron/) [and](/post/and/) [other](/post/other/) metals, [or](/post/or/) [the](/post/the/) [ability](/post/ability/) [of](/post/of/) [a](/post/a/) [material](/post/material/) [to](/post/to/) [produce](/post/produce/) [such](/post/such/) [a](/post/a/) [force](/post/force/): "[The](/post/the/) earth's [magnetic](/post/magnetic/) [field](/post/field/)."
+  - _Example Sentence_: "[The](/post/the/) [compass](/post/compass/) [needle](/post/needle/) aligns [with](/post/with/) [the](/post/the/) Earth's [magnetic](/post/magnetic/) [north](/post/north/) [pole](/post/pole/)."
   
-- **[Noun](/en/post/noun/)**: (informal) [A](/en/post/a/) charismatic [quality](/en/post/quality/) [that](/en/post/that/) attracts [people](/en/post/people/): "[Her](/en/post/her/) personality had [a](/en/post/a/) [magnetic](/en/post/magnetic/) charm."
-  - _Example Sentence_: "[The](/en/post/the/) [new](/en/post/new/) CEO possesses [a](/en/post/a/) [magnetic](/en/post/magnetic/) [presence](/en/post/presence/) [that](/en/post/that/) inspires [confidence](/en/post/confidence/)."
+- **[Noun](/post/noun/)**: (informal) [A](/post/a/) charismatic [quality](/post/quality/) [that](/post/that/) attracts [people](/post/people/): "[Her](/post/her/) personality had [a](/post/a/) [magnetic](/post/magnetic/) charm."
+  - _Example Sentence_: "[The](/post/the/) [new](/post/new/) CEO possesses [a](/post/a/) [magnetic](/post/magnetic/) [presence](/post/presence/) [that](/post/that/) inspires [confidence](/post/confidence/)."
 
 ## Phrases
-- "[Magnetic](/en/post/magnetic/) [field](/en/post/field/)": An [area](/en/post/area/) [around](/en/post/around/) [a](/en/post/a/) [magnet](/en/post/magnet/) [or](/en/post/or/) [electric](/en/post/electric/) [current](/en/post/current/) [within](/en/post/within/) [which](/en/post/which/) [magnetic](/en/post/magnetic/) forces [can](/en/post/can/) [be](/en/post/be/) detected.
-- "[Magnetic](/en/post/magnetic/) resonance imaging (MRI)": [A](/en/post/a/) [medical](/en/post/medical/) imaging [technique](/en/post/technique/) using [magnetic](/en/post/magnetic/) fields [to](/en/post/to/) [create](/en/post/create/) detailed images [of](/en/post/of/) [internal](/en/post/internal/) [body](/en/post/body/) structures.
-- "[Magnetic](/en/post/magnetic/) [attraction](/en/post/attraction/)": [A](/en/post/a/) [strong](/en/post/strong/) [emotional](/en/post/emotional/) [or](/en/post/or/) [physical](/en/post/physical/) [draw](/en/post/draw/) [between](/en/post/between/) [two](/en/post/two/) [people](/en/post/people/) [or](/en/post/or/) things.
+- "[Magnetic](/post/magnetic/) [field](/post/field/)": An [area](/post/area/) [around](/post/around/) [a](/post/a/) [magnet](/post/magnet/) [or](/post/or/) [electric](/post/electric/) [current](/post/current/) [within](/post/within/) [which](/post/which/) [magnetic](/post/magnetic/) forces [can](/post/can/) [be](/post/be/) detected.
+- "[Magnetic](/post/magnetic/) resonance imaging (MRI)": [A](/post/a/) [medical](/post/medical/) imaging [technique](/post/technique/) using [magnetic](/post/magnetic/) fields [to](/post/to/) [create](/post/create/) detailed images [of](/post/of/) [internal](/post/internal/) [body](/post/body/) structures.
+- "[Magnetic](/post/magnetic/) [attraction](/post/attraction/)": [A](/post/a/) [strong](/post/strong/) [emotional](/post/emotional/) [or](/post/or/) [physical](/post/physical/) [draw](/post/draw/) [between](/post/between/) [two](/post/two/) [people](/post/people/) [or](/post/or/) things.
 
-## [Example](/en/post/example/) Sentences
-- _Adjective_: "[The](/en/post/the/) ship's navigational [system](/en/post/system/) relies [on](/en/post/on/) [a](/en/post/a/) [highly](/en/post/highly/) [accurate](/en/post/accurate/) [magnetic](/en/post/magnetic/) sensor."
-- _Noun ([force](/en/post/force/))_ : "Scientists discovered [that](/en/post/that/) [certain](/en/post/certain/) rocks [have](/en/post/have/) [a](/en/post/a/) [weak](/en/post/weak/) [magnetic](/en/post/magnetic/) polarity."
-- _Noun ([quality](/en/post/quality/))_ : "[His](/en/post/his/) [magnetic](/en/post/magnetic/) [energy](/en/post/energy/) filled [the](/en/post/the/) auditorium [during](/en/post/during/) [his](/en/post/his/) [performance](/en/post/performance/)."
+## [Example](/post/example/) Sentences
+- _Adjective_: "[The](/post/the/) ship's navigational [system](/post/system/) relies [on](/post/on/) [a](/post/a/) [highly](/post/highly/) [accurate](/post/accurate/) [magnetic](/post/magnetic/) sensor."
+- _Noun ([force](/post/force/))_ : "Scientists discovered [that](/post/that/) [certain](/post/certain/) rocks [have](/post/have/) [a](/post/a/) [weak](/post/weak/) [magnetic](/post/magnetic/) polarity."
+- _Noun ([quality](/post/quality/))_ : "[His](/post/his/) [magnetic](/post/magnetic/) [energy](/post/energy/) filled [the](/post/the/) auditorium [during](/post/during/) [his](/post/his/) [performance](/post/performance/)."
 
 ## Synonyms
-- [Attractive](/en/post/attractive/)
+- [Attractive](/post/attractive/)
 - Charismatic
 - Mesmerizing
 - Enthralling
-- Electromagnetic ([in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [the](/en/post/the/) [force](/en/post/force/))
-- [Magnetic](/en/post/magnetic/) [property](/en/post/property/) ([as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [attribute](/en/post/attribute/) [of](/en/post/of/) [a](/en/post/a/) [material](/en/post/material/))
-- Magnetism ([both](/en/post/both/) [as](/en/post/as/) [the](/en/post/the/) [force](/en/post/force/) [itself](/en/post/itself/) [and](/en/post/and/) [as](/en/post/as/) an [attractive](/en/post/attractive/) [quality](/en/post/quality/))
+- Electromagnetic ([in](/post/in/) [reference](/post/reference/) [to](/post/to/) [the](/post/the/) [force](/post/force/))
+- [Magnetic](/post/magnetic/) [property](/post/property/) ([as](/post/as/) [a](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [attribute](/post/attribute/) [of](/post/of/) [a](/post/a/) [material](/post/material/))
+- Magnetism ([both](/post/both/) [as](/post/as/) [the](/post/the/) [force](/post/force/) [itself](/post/itself/) [and](/post/and/) [as](/post/as/) an [attractive](/post/attractive/) [quality](/post/quality/))

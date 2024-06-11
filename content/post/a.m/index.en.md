@@ -7,28 +7,28 @@ description = '(缩)上午，午前'
 keywords = ['ai words', 'a.m']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /aɪ.ˈɛm/
 
 ## Definitions
-- **Abbreviation**: Abbreviation [for](/en/post/for/) "ante meridiem," [which](/en/post/which/) is Latin [for](/en/post/for/) "[before](/en/post/before/) [midday](/en/post/midday/)." [It](/en/post/it/) is [commonly](/en/post/commonly/) [used](/en/post/used/) [to](/en/post/to/) denote [the](/en/post/the/) [time](/en/post/time/) [of](/en/post/of/) [day](/en/post/day/), specifically 12:00 AM.
+- **Abbreviation**: Abbreviation [for](/post/for/) "ante meridiem," [which](/post/which/) is Latin [for](/post/for/) "[before](/post/before/) [midday](/post/midday/)." [It](/post/it/) is [commonly](/post/commonly/) [used](/post/used/) [to](/post/to/) denote [the](/post/the/) [time](/post/time/) [of](/post/of/) [day](/post/day/), specifically 12:00 AM.
 
-## [Usage](/en/post/usage/)
-- **[Noun](/en/post/noun/)**: [In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [time](/en/post/time/), [it](/en/post/it/) is [a](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [period](/en/post/period/) [from](/en/post/from/) [midnight](/en/post/midnight/) [to](/en/post/to/) [noon](/en/post/noon/). [Example](/en/post/example/): "[The](/en/post/the/) [meeting](/en/post/meeting/) starts [at](/en/post/at/) 9 [a](/en/post/a/).m."
-- **[Adjective](/en/post/adjective/)**: [Occasionally](/en/post/occasionally/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) happening [before](/en/post/before/) [midday](/en/post/midday/). [Example](/en/post/example/): "[The](/en/post/the/) [morning](/en/post/morning/) jog [usually](/en/post/usually/) begins [at](/en/post/at/) 6 [a](/en/post/a/).m."
+## [Usage](/post/usage/)
+- **[Noun](/post/noun/)**: [In](/post/in/) [the](/post/the/) context [of](/post/of/) [time](/post/time/), [it](/post/it/) is [a](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [period](/post/period/) [from](/post/from/) [midnight](/post/midnight/) [to](/post/to/) [noon](/post/noon/). [Example](/post/example/): "[The](/post/the/) [meeting](/post/meeting/) starts [at](/post/at/) 9 [a](/post/a/).m."
+- **[Adjective](/post/adjective/)**: [Occasionally](/post/occasionally/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) happening [before](/post/before/) [midday](/post/midday/). [Example](/post/example/): "[The](/post/the/) [morning](/post/morning/) jog [usually](/post/usually/) begins [at](/post/at/) 6 [a](/post/a/).m."
 
 ## Phrases
-- "[Meet](/en/post/meet/) [you](/en/post/you/) [at](/en/post/at/) 8 [a](/en/post/a/).m." [to](/en/post/to/) [schedule](/en/post/schedule/) [a](/en/post/a/) [morning](/en/post/morning/) [appointment](/en/post/appointment/).
-- "Starting [work](/en/post/work/) [at](/en/post/at/) 9 [a](/en/post/a/).m." [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) [a](/en/post/a/) [daily](/en/post/daily/) [routine](/en/post/routine/).
-- "It's [already](/en/post/already/) [past](/en/post/past/) [noon](/en/post/noon/), [but](/en/post/but/) I [still](/en/post/still/) [have](/en/post/have/) an [hour](/en/post/hour/) [left](/en/post/left/) [of](/en/post/of/) [a](/en/post/a/).m."
+- "[Meet](/post/meet/) [you](/post/you/) [at](/post/at/) 8 [a](/post/a/).m." [to](/post/to/) [schedule](/post/schedule/) [a](/post/a/) [morning](/post/morning/) [appointment](/post/appointment/).
+- "Starting [work](/post/work/) [at](/post/at/) 9 [a](/post/a/).m." [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [a](/post/a/) [daily](/post/daily/) [routine](/post/routine/).
+- "It's [already](/post/already/) [past](/post/past/) [noon](/post/noon/), [but](/post/but/) I [still](/post/still/) [have](/post/have/) an [hour](/post/hour/) [left](/post/left/) [of](/post/of/) [a](/post/a/).m."
 
-## [Example](/en/post/example/) Sentences
-- "I [usually](/en/post/usually/) [wake](/en/post/wake/) [up](/en/post/up/) [at](/en/post/at/) 6 [a](/en/post/a/).m. [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [sunrise](/en/post/sunrise/)."
-- "[The](/en/post/the/) [school](/en/post/school/) [day](/en/post/day/) officially starts [at](/en/post/at/) 8 [a](/en/post/a/).m."
-- "We'll [discuss](/en/post/discuss/) [the](/en/post/the/) [project](/en/post/project/) [during](/en/post/during/) [our](/en/post/our/) [morning](/en/post/morning/) [a](/en/post/a/).m. [meeting](/en/post/meeting/)."
+## [Example](/post/example/) Sentences
+- "I [usually](/post/usually/) [wake](/post/wake/) [up](/post/up/) [at](/post/at/) 6 [a](/post/a/).m. [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [sunrise](/post/sunrise/)."
+- "[The](/post/the/) [school](/post/school/) [day](/post/day/) officially starts [at](/post/at/) 8 [a](/post/a/).m."
+- "We'll [discuss](/post/discuss/) [the](/post/the/) [project](/post/project/) [during](/post/during/) [our](/post/our/) [morning](/post/morning/) [a](/post/a/).m. [meeting](/post/meeting/)."
 
 ## Synonyms
-- AM (abbreviation, [not](/en/post/not/) [a](/en/post/a/) [word](/en/post/word/))
-- [Morning](/en/post/morning/)
-- [Early](/en/post/early/) hours
-- Ante meridiem (Latin [term](/en/post/term/))
+- AM (abbreviation, [not](/post/not/) [a](/post/a/) [word](/post/word/))
+- [Morning](/post/morning/)
+- [Early](/post/early/) hours
+- Ante meridiem (Latin [term](/post/term/))

@@ -7,33 +7,33 @@ description = 'vi.渴望，极想念'
 keywords = ['ai words', 'long']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lɒŋ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [great](/en/post/great/) [length](/en/post/length/); extending [for](/en/post/for/) [a](/en/post/a/) [considerable](/en/post/considerable/) [distance](/en/post/distance/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [river](/en/post/river/) runs [for](/en/post/for/) [a](/en/post/a/) [long](/en/post/long/) [distance](/en/post/distance/) [through](/en/post/through/) [the](/en/post/the/) [forest](/en/post/forest/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [duration](/en/post/duration/) [of](/en/post/of/) [time](/en/post/time/): "[We](/en/post/we/) spent [a](/en/post/a/) [long](/en/post/long/) [weekend](/en/post/weekend/) [at](/en/post/at/) [the](/en/post/the/) [beach](/en/post/beach/)."
-  - Describing [something](/en/post/something/) [that](/en/post/that/) is [more](/en/post/more/) extended [than](/en/post/than/) [usual](/en/post/usual/) [in](/en/post/in/) terms [of](/en/post/of/) [size](/en/post/size/), [shape](/en/post/shape/), [or](/en/post/or/) [duration](/en/post/duration/): "[She](/en/post/she/) has [long](/en/post/long/) [hair](/en/post/hair/)."
-  - Metaphorical [use](/en/post/use/): "[A](/en/post/a/) [long](/en/post/long/) [history](/en/post/history/) [of](/en/post/of/) [friendship](/en/post/friendship/) [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) countries."
-- **[Adverb](/en/post/adverb/)**: [For](/en/post/for/) [a](/en/post/a/) [considerable](/en/post/considerable/) [distance](/en/post/distance/) [or](/en/post/or/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/). [Example](/en/post/example/): "[The](/en/post/the/) [train](/en/post/train/) ran [long](/en/post/long/) [into](/en/post/into/) [the](/en/post/the/) [night](/en/post/night/)."
-  - [In](/en/post/in/) [certain](/en/post/certain/) expressions: "[Long](/en/post/long/) [after](/en/post/after/) [the](/en/post/the/) [sun](/en/post/sun/) had [set](/en/post/set/)", "[long](/en/post/long/) [before](/en/post/before/) [anyone](/en/post/anyone/) arrived".
+- **[Adjective](/post/adjective/)**: Having [great](/post/great/) [length](/post/length/); extending [for](/post/for/) [a](/post/a/) [considerable](/post/considerable/) [distance](/post/distance/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [river](/post/river/) runs [for](/post/for/) [a](/post/a/) [long](/post/long/) [distance](/post/distance/) [through](/post/through/) [the](/post/the/) [forest](/post/forest/)."
+  - [Also](/post/also/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [duration](/post/duration/) [of](/post/of/) [time](/post/time/): "[We](/post/we/) spent [a](/post/a/) [long](/post/long/) [weekend](/post/weekend/) [at](/post/at/) [the](/post/the/) [beach](/post/beach/)."
+  - Describing [something](/post/something/) [that](/post/that/) is [more](/post/more/) extended [than](/post/than/) [usual](/post/usual/) [in](/post/in/) terms [of](/post/of/) [size](/post/size/), [shape](/post/shape/), [or](/post/or/) [duration](/post/duration/): "[She](/post/she/) has [long](/post/long/) [hair](/post/hair/)."
+  - Metaphorical [use](/post/use/): "[A](/post/a/) [long](/post/long/) [history](/post/history/) [of](/post/of/) [friendship](/post/friendship/) [between](/post/between/) [the](/post/the/) [two](/post/two/) countries."
+- **[Adverb](/post/adverb/)**: [For](/post/for/) [a](/post/a/) [considerable](/post/considerable/) [distance](/post/distance/) [or](/post/or/) [period](/post/period/) [of](/post/of/) [time](/post/time/). [Example](/post/example/): "[The](/post/the/) [train](/post/train/) ran [long](/post/long/) [into](/post/into/) [the](/post/the/) [night](/post/night/)."
+  - [In](/post/in/) [certain](/post/certain/) expressions: "[Long](/post/long/) [after](/post/after/) [the](/post/the/) [sun](/post/sun/) had [set](/post/set/)", "[long](/post/long/) [before](/post/before/) [anyone](/post/anyone/) arrived".
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [long](/en/post/long/) [run](/en/post/run/)" suggests [a](/en/post/a/) [future](/en/post/future/) [point](/en/post/point/) [where](/en/post/where/) [the](/en/post/the/) [ultimate](/en/post/ultimate/) effects [of](/en/post/of/) actions [or](/en/post/or/) decisions [become](/en/post/become/) [clear](/en/post/clear/).
-- "[Long](/en/post/long/) [story](/en/post/story/) [short](/en/post/short/)" precedes [a](/en/post/a/) [summary](/en/post/summary/) [of](/en/post/of/) [a](/en/post/a/) lengthy narrative.
-- "[Long](/en/post/long/) [time](/en/post/time/) [no](/en/post/no/) [see](/en/post/see/)" is an informal [greeting](/en/post/greeting/) [used](/en/post/used/) [when](/en/post/when/) [one](/en/post/one/) hasn't seen [someone](/en/post/someone/) [for](/en/post/for/) [a](/en/post/a/) [while](/en/post/while/).
+- "[In](/post/in/) [the](/post/the/) [long](/post/long/) [run](/post/run/)" suggests [a](/post/a/) [future](/post/future/) [point](/post/point/) [where](/post/where/) [the](/post/the/) [ultimate](/post/ultimate/) effects [of](/post/of/) actions [or](/post/or/) decisions [become](/post/become/) [clear](/post/clear/).
+- "[Long](/post/long/) [story](/post/story/) [short](/post/short/)" precedes [a](/post/a/) [summary](/post/summary/) [of](/post/of/) [a](/post/a/) lengthy narrative.
+- "[Long](/post/long/) [time](/post/time/) [no](/post/no/) [see](/post/see/)" is an informal [greeting](/post/greeting/) [used](/post/used/) [when](/post/when/) [one](/post/one/) hasn't seen [someone](/post/someone/) [for](/post/for/) [a](/post/a/) [while](/post/while/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [road](/en/post/road/) was [so](/en/post/so/) [long](/en/post/long/) [that](/en/post/that/) [it](/en/post/it/) took [us](/en/post/us/) hours [to](/en/post/to/) [drive](/en/post/drive/) [to](/en/post/to/) [our](/en/post/our/) [destination](/en/post/destination/)."
-- "[She](/en/post/she/) wore [a](/en/post/a/) [beautiful](/en/post/beautiful/) [dress](/en/post/dress/) [with](/en/post/with/) [a](/en/post/a/) [long](/en/post/long/), flowing [skirt](/en/post/skirt/)."
-- **[Adverb](/en/post/adverb/)**: "I haven't spoken [to](/en/post/to/) [him](/en/post/him/) [since](/en/post/since/) [he](/en/post/he/) [left](/en/post/left/) [town](/en/post/town/); [that](/en/post/that/) was [long](/en/post/long/) [ago](/en/post/ago/)."
-- "[The](/en/post/the/) [movie](/en/post/movie/) lasted [so](/en/post/so/) [long](/en/post/long/) [that](/en/post/that/) [some](/en/post/some/) [people](/en/post/people/) started leaving [before](/en/post/before/) [it](/en/post/it/) ended."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [road](/post/road/) was [so](/post/so/) [long](/post/long/) [that](/post/that/) [it](/post/it/) took [us](/post/us/) hours [to](/post/to/) [drive](/post/drive/) [to](/post/to/) [our](/post/our/) [destination](/post/destination/)."
+- "[She](/post/she/) wore [a](/post/a/) [beautiful](/post/beautiful/) [dress](/post/dress/) [with](/post/with/) [a](/post/a/) [long](/post/long/), flowing [skirt](/post/skirt/)."
+- **[Adverb](/post/adverb/)**: "I haven't spoken [to](/post/to/) [him](/post/him/) [since](/post/since/) [he](/post/he/) [left](/post/left/) [town](/post/town/); [that](/post/that/) was [long](/post/long/) [ago](/post/ago/)."
+- "[The](/post/the/) [movie](/post/movie/) lasted [so](/post/so/) [long](/post/long/) [that](/post/that/) [some](/post/some/) [people](/post/people/) started leaving [before](/post/before/) [it](/post/it/) ended."
 
 ## Synonyms
 - Lengthy (adj.)
 - Extended (adj.)
 - Prolonged (adj./adv.)
-- [Far](/en/post/far/) (adv.)
+- [Far](/post/far/) (adv.)
 - Enduring (adj.)
-- [Big](/en/post/big/) ([in](/en/post/in/) informal contexts [for](/en/post/for/) [duration](/en/post/duration/))
-- [Tall](/en/post/tall/) ([when](/en/post/when/) referring [to](/en/post/to/) [height](/en/post/height/))
+- [Big](/post/big/) ([in](/post/in/) informal contexts [for](/post/for/) [duration](/post/duration/))
+- [Tall](/post/tall/) ([when](/post/when/) referring [to](/post/to/) [height](/post/height/))

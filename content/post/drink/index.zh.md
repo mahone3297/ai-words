@@ -11,25 +11,25 @@ keywords = ['ai words', 'drink']
 /drɪŋk/
 
 ## 释义
-- **名词**: 1. 饮料；饮品。例如: "[Can](/post/can/) I [have](/post/have/) [a](/post/a/) [drink](/post/drink/) [of](/post/of/) [water](/post/water/), [please](/post/please/)?"
-   2. 一杯酒；一份饮料。例如: "I'll [have](/post/have/) [a](/post/a/) [drink](/post/drink/) [of](/post/of/) whiskey."
+- **名词**: 1. 饮料；饮品。例如: "[Can](/zh/post/can/) I [have](/zh/post/have/) [a](/zh/post/a/) [drink](/zh/post/drink/) [of](/zh/post/of/) [water](/zh/post/water/), [please](/zh/post/please/)?"
+   2. 一杯酒；一份饮料。例如: "I'll [have](/zh/post/have/) [a](/zh/post/a/) [drink](/zh/post/drink/) [of](/zh/post/of/) whiskey."
 
-- **动词**: 1. 喝；饮用。例如: "[He](/post/he/) drank [his](/post/his/) [coffee](/post/coffee/) [slowly](/post/slowly/)."
-   2. 醉饮；酗酒。例如: "[She](/post/she/) was warned [not](/post/not/) [to](/post/to/) [drink](/post/drink/) [too](/post/too/) [much](/post/much/)."
+- **动词**: 1. 喝；饮用。例如: "[He](/zh/post/he/) drank [his](/zh/post/his/) [coffee](/zh/post/coffee/) [slowly](/zh/post/slowly/)."
+   2. 醉饮；酗酒。例如: "[She](/zh/post/she/) was warned [not](/zh/post/not/) [to](/zh/post/to/) [drink](/zh/post/drink/) [too](/zh/post/too/) [much](/zh/post/much/)."
 
 ## 短语
-- "[Have](/post/have/) [a](/post/a/) [drink](/post/drink/)" 意味着享用一杯饮料。
-- "[To](/post/to/) [drink](/post/drink/) [something](/post/something/) [down](/post/down/)" 指快速或完全地喝掉某物。
-- "[Under](/post/under/) [the](/post/the/) [influence](/post/influence/) [of](/post/of/) [drink](/post/drink/)" 指在酒精的影响下。
+- "[Have](/zh/post/have/) [a](/zh/post/a/) [drink](/zh/post/drink/)" 意味着享用一杯饮料。
+- "[To](/zh/post/to/) [drink](/zh/post/drink/) [something](/zh/post/something/) [down](/zh/post/down/)" 指快速或完全地喝掉某物。
+- "[Under](/zh/post/under/) [the](/zh/post/the/) [influence](/zh/post/influence/) [of](/zh/post/of/) [drink](/zh/post/drink/)" 指在酒精的影响下。
 
 ## 例句
-- 名词: "Let's [order](/post/order/) [some](/post/some/) drinks [before](/post/before/) [the](/post/the/) [meal](/post/meal/) starts."
-- 动词: "[She](/post/she/) drank [the](/post/the/) [whole](/post/whole/) [glass](/post/glass/) [of](/post/of/) [wine](/post/wine/) [in](/post/in/) [one](/post/one/) [go](/post/go/)."
-- 动词（酗酒）: "[He](/post/he/) was [so](/post/so/) [drunk](/post/drunk/) [that](/post/that/) [he](/post/he/) couldn't [even](/post/even/) [stand](/post/stand/) [up](/post/up/)."
+- 名词: "Let's [order](/zh/post/order/) [some](/zh/post/some/) drinks [before](/zh/post/before/) [the](/zh/post/the/) [meal](/zh/post/meal/) starts."
+- 动词: "[She](/zh/post/she/) drank [the](/zh/post/the/) [whole](/zh/post/whole/) [glass](/zh/post/glass/) [of](/zh/post/of/) [wine](/zh/post/wine/) [in](/zh/post/in/) [one](/zh/post/one/) [go](/zh/post/go/)."
+- 动词（酗酒）: "[He](/zh/post/he/) was [so](/zh/post/so/) [drunk](/zh/post/drunk/) [that](/zh/post/that/) [he](/zh/post/he/) couldn't [even](/zh/post/even/) [stand](/zh/post/stand/) [up](/zh/post/up/)."
 
 ## 同义词
-- [Consume](/post/consume/)
+- [Consume](/zh/post/consume/)
 - Quaff
 - Sip
 - Guzzle
-- [Swallow](/post/swallow/)
+- [Swallow](/zh/post/swallow/)

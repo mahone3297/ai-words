@@ -7,36 +7,36 @@ description = '[drip] vi.滴下；漏水 n.水滴'
 keywords = ['ai words', 'drip']
 +++
 
-## [Word](/en/post/word/): [Drip](/en/post/drip/)
+## [Word](/post/word/): [Drip](/post/drip/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /drɪp/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-1. [A](/en/post/a/) [small](/en/post/small/) [drop](/en/post/drop/) [of](/en/post/of/) [liquid](/en/post/liquid/) [that](/en/post/that/) falls [or](/en/post/or/) hangs [from](/en/post/from/) [something](/en/post/something/) [due](/en/post/due/) [to](/en/post/to/) [gravity](/en/post/gravity/), [often](/en/post/often/) [from](/en/post/from/) condensation [or](/en/post/or/) [a](/en/post/a/) [leak](/en/post/leak/). [Example](/en/post/example/): "[A](/en/post/a/) [steady](/en/post/steady/) [drip](/en/post/drip/) [from](/en/post/from/) [the](/en/post/the/) faucet kept [him](/en/post/him/) [awake](/en/post/awake/) [all](/en/post/all/) [night](/en/post/night/)."
-2. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) dresses [or](/en/post/or/) behaves [in](/en/post/in/) [a](/en/post/a/) flashy, showy, [or](/en/post/or/) exaggerated [manner](/en/post/manner/), [often](/en/post/often/) trying [too](/en/post/too/) [hard](/en/post/hard/) [to](/en/post/to/) [impress](/en/post/impress/) others. Informal [usage](/en/post/usage/). [Example](/en/post/example/): "He's [such](/en/post/such/) [a](/en/post/a/) [drip](/en/post/drip/) [with](/en/post/with/) [his](/en/post/his/) designer [clothes](/en/post/clothes/) [and](/en/post/and/) [constant](/en/post/constant/) bragging."
+### [Noun](/post/noun/) (n)
+1. [A](/post/a/) [small](/post/small/) [drop](/post/drop/) [of](/post/of/) [liquid](/post/liquid/) [that](/post/that/) falls [or](/post/or/) hangs [from](/post/from/) [something](/post/something/) [due](/post/due/) [to](/post/to/) [gravity](/post/gravity/), [often](/post/often/) [from](/post/from/) condensation [or](/post/or/) [a](/post/a/) [leak](/post/leak/). [Example](/post/example/): "[A](/post/a/) [steady](/post/steady/) [drip](/post/drip/) [from](/post/from/) [the](/post/the/) faucet kept [him](/post/him/) [awake](/post/awake/) [all](/post/all/) [night](/post/night/)."
+2. [A](/post/a/) [person](/post/person/) [who](/post/who/) dresses [or](/post/or/) behaves [in](/post/in/) [a](/post/a/) flashy, showy, [or](/post/or/) exaggerated [manner](/post/manner/), [often](/post/often/) trying [too](/post/too/) [hard](/post/hard/) [to](/post/to/) [impress](/post/impress/) others. Informal [usage](/post/usage/). [Example](/post/example/): "He's [such](/post/such/) [a](/post/a/) [drip](/post/drip/) [with](/post/with/) [his](/post/his/) designer [clothes](/post/clothes/) [and](/post/and/) [constant](/post/constant/) bragging."
 
-### [Verb](/en/post/verb/) (v)
-1. [To](/en/post/to/) [fall](/en/post/fall/) [or](/en/post/or/) [let](/en/post/let/) [fall](/en/post/fall/) [in](/en/post/in/) drops; [to](/en/post/to/) trickle. [Example](/en/post/example/): "[Water](/en/post/water/) was dripping [slowly](/en/post/slowly/) [from](/en/post/from/) [the](/en/post/the/) [roof](/en/post/roof/) [after](/en/post/after/) [the](/en/post/the/) [rain](/en/post/rain/)."
-2. [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [fall](/en/post/fall/) [in](/en/post/in/) drops, [especially](/en/post/especially/) [by](/en/post/by/) releasing [it](/en/post/it/) [gradually](/en/post/gradually/). [Example](/en/post/example/): "[She](/en/post/she/) dripped [honey](/en/post/honey/) [onto](/en/post/onto/) [her](/en/post/her/) [toast](/en/post/toast/)."
-3. [To](/en/post/to/) [hang](/en/post/hang/) [or](/en/post/or/) [move](/en/post/move/) [in](/en/post/in/) [a](/en/post/a/) [slow](/en/post/slow/), leisurely, [or](/en/post/or/) relaxed [way](/en/post/way/). Colloquial [use](/en/post/use/). [Example](/en/post/example/): "[He](/en/post/he/) was [just](/en/post/just/) dripping [with](/en/post/with/) sarcasm [as](/en/post/as/) [he](/en/post/he/) spoke."
+### [Verb](/post/verb/) (v)
+1. [To](/post/to/) [fall](/post/fall/) [or](/post/or/) [let](/post/let/) [fall](/post/fall/) [in](/post/in/) drops; [to](/post/to/) trickle. [Example](/post/example/): "[Water](/post/water/) was dripping [slowly](/post/slowly/) [from](/post/from/) [the](/post/the/) [roof](/post/roof/) [after](/post/after/) [the](/post/the/) [rain](/post/rain/)."
+2. [To](/post/to/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [fall](/post/fall/) [in](/post/in/) drops, [especially](/post/especially/) [by](/post/by/) releasing [it](/post/it/) [gradually](/post/gradually/). [Example](/post/example/): "[She](/post/she/) dripped [honey](/post/honey/) [onto](/post/onto/) [her](/post/her/) [toast](/post/toast/)."
+3. [To](/post/to/) [hang](/post/hang/) [or](/post/or/) [move](/post/move/) [in](/post/in/) [a](/post/a/) [slow](/post/slow/), leisurely, [or](/post/or/) relaxed [way](/post/way/). Colloquial [use](/post/use/). [Example](/post/example/): "[He](/post/he/) was [just](/post/just/) dripping [with](/post/with/) sarcasm [as](/post/as/) [he](/post/he/) spoke."
 
-### [Adjective](/en/post/adjective/) (adj)
-1. (informal) Describing [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [that](/en/post/that/) displays [a](/en/post/a/) [particular](/en/post/particular/) [style](/en/post/style/) [or](/en/post/or/) [quality](/en/post/quality/) [to](/en/post/to/) an [excessive](/en/post/excessive/) [or](/en/post/or/) ostentatious [degree](/en/post/degree/). [Example](/en/post/example/): "[The](/en/post/the/) rapper wore diamond-encrusted jewelry, drip-style."
+### [Adjective](/post/adjective/) (adj)
+1. (informal) Describing [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [that](/post/that/) displays [a](/post/a/) [particular](/post/particular/) [style](/post/style/) [or](/post/or/) [quality](/post/quality/) [to](/post/to/) an [excessive](/post/excessive/) [or](/post/or/) ostentatious [degree](/post/degree/). [Example](/post/example/): "[The](/post/the/) rapper wore diamond-encrusted jewelry, drip-style."
 
 ## Phrases
-- "[Drip](/en/post/drip/) [feed](/en/post/feed/)": [to](/en/post/to/) [release](/en/post/release/) [information](/en/post/information/) [or](/en/post/or/) [make](/en/post/make/) [something](/en/post/something/) [available](/en/post/available/) [gradually](/en/post/gradually/) [over](/en/post/over/) [time](/en/post/time/).
-- "[A](/en/post/a/) [drip](/en/post/drip/) [under](/en/post/under/) [pressure](/en/post/pressure/)": colloquially, [a](/en/post/a/) [reference](/en/post/reference/) [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is stressed [or](/en/post/or/) overwhelmed.
-- "Dripping [with](/en/post/with/)": [to](/en/post/to/) [be](/en/post/be/) [full](/en/post/full/) [of](/en/post/of/) [or](/en/post/or/) exhibiting [something](/en/post/something/) [to](/en/post/to/) an [excessive](/en/post/excessive/) [extent](/en/post/extent/), [often](/en/post/often/) implying [a](/en/post/a/) [negative](/en/post/negative/) connotation [like](/en/post/like/) pretentiousness [or](/en/post/or/) arrogance.
+- "[Drip](/post/drip/) [feed](/post/feed/)": [to](/post/to/) [release](/post/release/) [information](/post/information/) [or](/post/or/) [make](/post/make/) [something](/post/something/) [available](/post/available/) [gradually](/post/gradually/) [over](/post/over/) [time](/post/time/).
+- "[A](/post/a/) [drip](/post/drip/) [under](/post/under/) [pressure](/post/pressure/)": colloquially, [a](/post/a/) [reference](/post/reference/) [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is stressed [or](/post/or/) overwhelmed.
+- "Dripping [with](/post/with/)": [to](/post/to/) [be](/post/be/) [full](/post/full/) [of](/post/of/) [or](/post/or/) exhibiting [something](/post/something/) [to](/post/to/) an [excessive](/post/excessive/) [extent](/post/extent/), [often](/post/often/) implying [a](/post/a/) [negative](/post/negative/) connotation [like](/post/like/) pretentiousness [or](/post/or/) arrogance.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) [the](/en/post/the/) [water](/en/post/water/) dripping [in](/en/post/in/) [the](/en/post/the/) [cave](/en/post/cave/) echoed eerily."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) carefully dripped [hot](/en/post/hot/) [wax](/en/post/wax/) [onto](/en/post/onto/) [the](/en/post/the/) [candle](/en/post/candle/) [to](/en/post/to/) [shape](/en/post/shape/) [it](/en/post/it/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) Instagram posts were dripping [with](/en/post/with/) designer labels [and](/en/post/and/) [luxury](/en/post/luxury/) cars."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) [the](/post/the/) [water](/post/water/) dripping [in](/post/in/) [the](/post/the/) [cave](/post/cave/) echoed eerily."
+- **[Verb](/post/verb/)**: "[She](/post/she/) carefully dripped [hot](/post/hot/) [wax](/post/wax/) [onto](/post/onto/) [the](/post/the/) [candle](/post/candle/) [to](/post/to/) [shape](/post/shape/) [it](/post/it/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) Instagram posts were dripping [with](/post/with/) designer labels [and](/post/and/) [luxury](/post/luxury/) cars."
 
 ## Synonyms
-- [Drop](/en/post/drop/) ([noun](/en/post/noun/) [when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) falling [liquid](/en/post/liquid/))
-- Trickle ([verb](/en/post/verb/))
-- Ostentatious ([adjective](/en/post/adjective/) [when](/en/post/when/) referring [to](/en/post/to/) showy [behavior](/en/post/behavior/))
-- Flaunting ([adjective](/en/post/adjective/) [in](/en/post/in/) informal context)
+- [Drop](/post/drop/) ([noun](/post/noun/) [when](/post/when/) referring [to](/post/to/) [a](/post/a/) falling [liquid](/post/liquid/))
+- Trickle ([verb](/post/verb/))
+- Ostentatious ([adjective](/post/adjective/) [when](/post/when/) referring [to](/post/to/) showy [behavior](/post/behavior/))
+- Flaunting ([adjective](/post/adjective/) [in](/post/in/) informal context)

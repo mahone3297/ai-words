@@ -11,20 +11,20 @@ keywords = ['ai words', 'similar']
 /sɪˈmələr/
 
 ## 释义
-- **形容词**: 相似的，相像的。例如: "[These](/post/these/) [two](/post/two/) paintings are [very](/post/very/) [similar](/post/similar/) [in](/post/in/) [style](/post/style/)."
-- **副词**: 相似地，类似地。例如: "[They](/post/they/) performed [the](/post/the/) [task](/post/task/) [similarly](/post/similarly/), [with](/post/with/) [slight](/post/slight/) differences."
+- **形容词**: 相似的，相像的。例如: "[These](/zh/post/these/) [two](/zh/post/two/) paintings are [very](/zh/post/very/) [similar](/zh/post/similar/) [in](/zh/post/in/) [style](/zh/post/style/)."
+- **副词**: 相似地，类似地。例如: "[They](/zh/post/they/) performed [the](/zh/post/the/) [task](/zh/post/task/) [similarly](/zh/post/similarly/), [with](/zh/post/with/) [slight](/zh/post/slight/) differences."
 
 ## 短语
-- "[similar](/post/similar/) [to](/post/to/)" 表示与...相似。例如: "[Her](/post/her/) [situation](/post/situation/) is [similar](/post/similar/) [to](/post/to/) [mine](/post/mine/)."
-- "[in](/post/in/) similarity [with](/post/with/)" 表示在...方面相似。例如: "[Their](/post/their/) opinions were [in](/post/in/) similarity [with](/post/with/) [ours](/post/ours/)."
+- "[similar](/zh/post/similar/) [to](/zh/post/to/)" 表示与...相似。例如: "[Her](/zh/post/her/) [situation](/zh/post/situation/) is [similar](/zh/post/similar/) [to](/zh/post/to/) [mine](/zh/post/mine/)."
+- "[in](/zh/post/in/) similarity [with](/zh/post/with/)" 表示在...方面相似。例如: "[Their](/zh/post/their/) opinions were [in](/zh/post/in/) similarity [with](/zh/post/with/) [ours](/zh/post/ours/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) [twin](/post/twin/) brothers [have](/post/have/) [similar](/post/similar/) features."
-- 副词: "[Their](/post/their/) approaches [to](/post/to/) problem-solving are [similar](/post/similar/), [but](/post/but/) [not](/post/not/) [identical](/post/identical/)."
+- 形容词: "[The](/zh/post/the/) [twin](/zh/post/twin/) brothers [have](/zh/post/have/) [similar](/zh/post/similar/) features."
+- 副词: "[Their](/zh/post/their/) approaches [to](/zh/post/to/) problem-solving are [similar](/zh/post/similar/), [but](/zh/post/but/) [not](/zh/post/not/) [identical](/zh/post/identical/)."
 
 ## 同义词
-- [Alike](/post/alike/)
+- [Alike](/zh/post/alike/)
 - Comparable
-- [Identical](/post/identical/) (在某些情况下)
-- [Equivalent](/post/equivalent/)
+- [Identical](/zh/post/identical/) (在某些情况下)
+- [Equivalent](/zh/post/equivalent/)
 - Near-identical

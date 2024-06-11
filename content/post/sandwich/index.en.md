@@ -7,43 +7,43 @@ description = '[ˈsænwidʒ] n.三明治 vt.夹入'
 keywords = ['ai words', 'sandwich']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sænˈdɪʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[sandwich](/en/post/sandwich/)** is [a](/en/post/a/) [food](/en/post/food/) [dish](/en/post/dish/) typically consisting [of](/en/post/of/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) slices [of](/en/post/of/) [bread](/en/post/bread/) [or](/en/post/or/) [a](/en/post/a/) [single](/en/post/single/) [slice](/en/post/slice/) acting [as](/en/post/as/) [a](/en/post/a/) wrapper, [with](/en/post/with/) [various](/en/post/various/) fillings [between](/en/post/between/) [them](/en/post/them/). [The](/en/post/the/) fillings [can](/en/post/can/) [be](/en/post/be/) made [from](/en/post/from/) meats, cheeses, vegetables, spreads, [or](/en/post/or/) condiments.
+### [Noun](/post/noun/)
+[A](/post/a/) **[sandwich](/post/sandwich/)** is [a](/post/a/) [food](/post/food/) [dish](/post/dish/) typically consisting [of](/post/of/) [two](/post/two/) [or](/post/or/) [more](/post/more/) slices [of](/post/of/) [bread](/post/bread/) [or](/post/or/) [a](/post/a/) [single](/post/single/) [slice](/post/slice/) acting [as](/post/as/) [a](/post/a/) wrapper, [with](/post/with/) [various](/post/various/) fillings [between](/post/between/) [them](/post/them/). [The](/post/the/) fillings [can](/post/can/) [be](/post/be/) made [from](/post/from/) meats, cheeses, vegetables, spreads, [or](/post/or/) condiments.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[sandwich](/en/post/sandwich/)** [something](/en/post/something/) [means](/en/post/means/) [to](/en/post/to/) [place](/en/post/place/) [it](/en/post/it/) [between](/en/post/between/) [two](/en/post/two/) [other](/en/post/other/) things, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [parallel](/en/post/parallel/) [or](/en/post/or/) sequential [manner](/en/post/manner/), [as](/en/post/as/) [if](/en/post/if/) forming [a](/en/post/a/) [sandwich](/en/post/sandwich/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[sandwich](/post/sandwich/)** [something](/post/something/) [means](/post/means/) [to](/post/to/) [place](/post/place/) [it](/post/it/) [between](/post/between/) [two](/post/two/) [other](/post/other/) things, [often](/post/often/) [in](/post/in/) [a](/post/a/) [parallel](/post/parallel/) [or](/post/or/) sequential [manner](/post/manner/), [as](/post/as/) [if](/post/if/) forming [a](/post/a/) [sandwich](/post/sandwich/).
 
-### [Adjective](/en/post/adjective/)
-[A](/en/post/a/) **sandwiched** [situation](/en/post/situation/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [being](/en/post/being/) caught [or](/en/post/or/) trapped [between](/en/post/between/) [two](/en/post/two/) opposing forces [or](/en/post/or/) circumstances.
+### [Adjective](/post/adjective/)
+[A](/post/a/) **sandwiched** [situation](/post/situation/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [being](/post/being/) caught [or](/post/or/) trapped [between](/post/between/) [two](/post/two/) opposing forces [or](/post/or/) circumstances.
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [sandwich](/en/post/sandwich/)" [or](/en/post/or/) "[build](/en/post/build/) [a](/en/post/a/) [sandwich](/en/post/sandwich/)"
-- "[A](/en/post/a/) classic [sandwich](/en/post/sandwich/)" [or](/en/post/or/) "[a](/en/post/a/) BLT (bacon, lettuce, [and](/en/post/and/) [tomato](/en/post/tomato/)) [sandwich](/en/post/sandwich/)"
-- "[The](/en/post/the/) triple-decker [sandwich](/en/post/sandwich/)" [or](/en/post/or/) "[a](/en/post/a/) double-decker [club](/en/post/club/) [sandwich](/en/post/sandwich/)"
-- "[A](/en/post/a/) [cold](/en/post/cold/) [sandwich](/en/post/sandwich/)" [or](/en/post/or/) "[a](/en/post/a/) [hot](/en/post/hot/) [sandwich](/en/post/sandwich/)"
+- "[Make](/post/make/) [a](/post/a/) [sandwich](/post/sandwich/)" [or](/post/or/) "[build](/post/build/) [a](/post/a/) [sandwich](/post/sandwich/)"
+- "[A](/post/a/) classic [sandwich](/post/sandwich/)" [or](/post/or/) "[a](/post/a/) BLT (bacon, lettuce, [and](/post/and/) [tomato](/post/tomato/)) [sandwich](/post/sandwich/)"
+- "[The](/post/the/) triple-decker [sandwich](/post/sandwich/)" [or](/post/or/) "[a](/post/a/) double-decker [club](/post/club/) [sandwich](/post/sandwich/)"
+- "[A](/post/a/) [cold](/post/cold/) [sandwich](/post/sandwich/)" [or](/post/or/) "[a](/post/a/) [hot](/post/hot/) [sandwich](/post/sandwich/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I grabbed [a](/en/post/a/) [turkey](/en/post/turkey/) [sandwich](/en/post/sandwich/) [on](/en/post/on/) [my](/en/post/my/) [way](/en/post/way/) [to](/en/post/to/) [work](/en/post/work/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [menu](/en/post/menu/) offered [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) [sandwich](/en/post/sandwich/) options [to](/en/post/to/) [choose](/en/post/choose/) [from](/en/post/from/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) felt sandwiched [between](/en/post/between/) [her](/en/post/her/) demanding [job](/en/post/job/) [and](/en/post/and/) [family](/en/post/family/) responsibilities."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I grabbed [a](/post/a/) [turkey](/post/turkey/) [sandwich](/post/sandwich/) [on](/post/on/) [my](/post/my/) [way](/post/way/) [to](/post/to/) [work](/post/work/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [menu](/post/menu/) offered [a](/post/a/) [variety](/post/variety/) [of](/post/of/) [sandwich](/post/sandwich/) options [to](/post/to/) [choose](/post/choose/) [from](/post/from/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) felt sandwiched [between](/post/between/) [her](/post/her/) demanding [job](/post/job/) [and](/post/and/) [family](/post/family/) responsibilities."
 
 ## Synonyms
 - Sub
 - Bun
-- [Triangle](/en/post/triangle/)
+- [Triangle](/post/triangle/)
 - Hoagie
 - Panini
-- [Wrap](/en/post/wrap/)
-- Pastrami [on](/en/post/on/) rye
-- Grilled [cheese](/en/post/cheese/)
+- [Wrap](/post/wrap/)
+- Pastrami [on](/post/on/) rye
+- Grilled [cheese](/post/cheese/)
 
 ## Food-related Terms
-- Blandwich ([a](/en/post/a/) [play](/en/post/play/) [on](/en/post/on/) words [for](/en/post/for/) "[sandwich](/en/post/sandwich/)")
+- Blandwich ([a](/post/a/) [play](/post/play/) [on](/post/on/) words [for](/post/for/) "[sandwich](/post/sandwich/)")
 - Sammie
-- Sanga (informal [term](/en/post/term/), [especially](/en/post/especially/) [in](/en/post/in/) [the](/en/post/the/) [US](/en/post/us/) [South](/en/post/south/))
-- Snackwich ([a](/en/post/a/) smaller, [portable](/en/post/portable/) [sandwich](/en/post/sandwich/))
-- [Pocket](/en/post/pocket/) [sandwich](/en/post/sandwich/) ([a](/en/post/a/) handheld [version](/en/post/version/))
+- Sanga (informal [term](/post/term/), [especially](/post/especially/) [in](/post/in/) [the](/post/the/) [US](/post/us/) [South](/post/south/))
+- Snackwich ([a](/post/a/) smaller, [portable](/post/portable/) [sandwich](/post/sandwich/))
+- [Pocket](/post/pocket/) [sandwich](/post/sandwich/) ([a](/post/a/) handheld [version](/post/version/))

@@ -7,37 +7,37 @@ description = '[ˈpeərənt] n.父亲，母亲，双亲'
 keywords = ['ai words', 'parent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈpɛərənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Parent](/en/post/parent/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) brings [up](/en/post/up/) [or](/en/post/or/) gives [birth](/en/post/birth/) [to](/en/post/to/) [a](/en/post/a/) [child](/en/post/child/), [or](/en/post/or/) [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [two](/en/post/two/) individuals ([usually](/en/post/usually/) [a](/en/post/a/) [mother](/en/post/mother/) [and](/en/post/and/) [a](/en/post/a/) [father](/en/post/father/)) [who](/en/post/who/) [combine](/en/post/combine/) [to](/en/post/to/) [produce](/en/post/produce/) offspring.
-- **[Legal](/en/post/legal/) [parent](/en/post/parent/)**: [A](/en/post/a/) [person](/en/post/person/) recognized [by](/en/post/by/) [law](/en/post/law/) [as](/en/post/as/) having parental rights [and](/en/post/and/) responsibilities, [such](/en/post/such/) [as](/en/post/as/) custody [or](/en/post/or/) guardianship.
+### [Noun](/post/noun/)
+- **[Parent](/post/parent/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) brings [up](/post/up/) [or](/post/or/) gives [birth](/post/birth/) [to](/post/to/) [a](/post/a/) [child](/post/child/), [or](/post/or/) [one](/post/one/) [of](/post/of/) [the](/post/the/) [two](/post/two/) individuals ([usually](/post/usually/) [a](/post/a/) [mother](/post/mother/) [and](/post/and/) [a](/post/a/) [father](/post/father/)) [who](/post/who/) [combine](/post/combine/) [to](/post/to/) [produce](/post/produce/) offspring.
+- **[Legal](/post/legal/) [parent](/post/parent/)**: [A](/post/a/) [person](/post/person/) recognized [by](/post/by/) [law](/post/law/) [as](/post/as/) having parental rights [and](/post/and/) responsibilities, [such](/post/such/) [as](/post/as/) custody [or](/post/or/) guardianship.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [parent](/en/post/parent/)**: [To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) [a](/en/post/a/) [parent](/en/post/parent/), providing [care](/en/post/care/), [guidance](/en/post/guidance/), [and](/en/post/and/) [support](/en/post/support/) [to](/en/post/to/) [a](/en/post/a/) [child](/en/post/child/) [or](/en/post/or/) child-like [individual](/en/post/individual/).
-- **[To](/en/post/to/) parentify**: [To](/en/post/to/) [treat](/en/post/treat/) [someone](/en/post/someone/), [especially](/en/post/especially/) an [adult](/en/post/adult/), [as](/en/post/as/) [if](/en/post/if/) [they](/en/post/they/) were [a](/en/post/a/) [child](/en/post/child/) [or](/en/post/or/) [to](/en/post/to/) imbue [them](/en/post/them/) [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [being](/en/post/being/) [a](/en/post/a/) [parent](/en/post/parent/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [parent](/post/parent/)**: [To](/post/to/) [act](/post/act/) [as](/post/as/) [a](/post/a/) [parent](/post/parent/), providing [care](/post/care/), [guidance](/post/guidance/), [and](/post/and/) [support](/post/support/) [to](/post/to/) [a](/post/a/) [child](/post/child/) [or](/post/or/) child-like [individual](/post/individual/).
+- **[To](/post/to/) parentify**: [To](/post/to/) [treat](/post/treat/) [someone](/post/someone/), [especially](/post/especially/) an [adult](/post/adult/), [as](/post/as/) [if](/post/if/) [they](/post/they/) were [a](/post/a/) [child](/post/child/) [or](/post/or/) [to](/post/to/) imbue [them](/post/them/) [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [being](/post/being/) [a](/post/a/) [parent](/post/parent/).
 
 ## Phrases
-- "Parental [responsibility](/en/post/responsibility/)" refers [to](/en/post/to/) [the](/en/post/the/) duties [and](/en/post/and/) obligations [that](/en/post/that/) [come](/en/post/come/) [with](/en/post/with/) raising [a](/en/post/a/) [child](/en/post/child/).
-- "Single-parent [household](/en/post/household/)" describes [a](/en/post/a/) [family](/en/post/family/) [where](/en/post/where/) [only](/en/post/only/) [one](/en/post/one/) [parent](/en/post/parent/) is [present](/en/post/present/) [to](/en/post/to/) [raise](/en/post/raise/) children.
-- "Co-parenting" refers [to](/en/post/to/) [the](/en/post/the/) cooperative [arrangement](/en/post/arrangement/) [between](/en/post/between/) divorced [or](/en/post/or/) separated parents [in](/en/post/in/) sharing parenting responsibilities.
+- "Parental [responsibility](/post/responsibility/)" refers [to](/post/to/) [the](/post/the/) duties [and](/post/and/) obligations [that](/post/that/) [come](/post/come/) [with](/post/with/) raising [a](/post/a/) [child](/post/child/).
+- "Single-parent [household](/post/household/)" describes [a](/post/a/) [family](/post/family/) [where](/post/where/) [only](/post/only/) [one](/post/one/) [parent](/post/parent/) is [present](/post/present/) [to](/post/to/) [raise](/post/raise/) children.
+- "Co-parenting" refers [to](/post/to/) [the](/post/the/) cooperative [arrangement](/post/arrangement/) [between](/post/between/) divorced [or](/post/or/) separated parents [in](/post/in/) sharing parenting responsibilities.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Both](/en/post/both/) [the](/en/post/the/) [mother](/en/post/mother/) [and](/en/post/and/) [father](/en/post/father/) are devoted parents [to](/en/post/to/) [their](/en/post/their/) [three](/en/post/three/) children."
-- **[Verb](/en/post/verb/)**: "[As](/en/post/as/) [a](/en/post/a/) [single](/en/post/single/) [parent](/en/post/parent/), [she](/en/post/she/) had [to](/en/post/to/) juggle [work](/en/post/work/) [and](/en/post/and/) childcare responsibilities."
-- **Phrasal [verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [divorce](/en/post/divorce/), [they](/en/post/they/) worked [out](/en/post/out/) [a](/en/post/a/) co-parenting [plan](/en/post/plan/) [for](/en/post/for/) [their](/en/post/their/) kids."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Both](/post/both/) [the](/post/the/) [mother](/post/mother/) [and](/post/and/) [father](/post/father/) are devoted parents [to](/post/to/) [their](/post/their/) [three](/post/three/) children."
+- **[Verb](/post/verb/)**: "[As](/post/as/) [a](/post/a/) [single](/post/single/) [parent](/post/parent/), [she](/post/she/) had [to](/post/to/) juggle [work](/post/work/) [and](/post/and/) childcare responsibilities."
+- **Phrasal [verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [divorce](/post/divorce/), [they](/post/they/) worked [out](/post/out/) [a](/post/a/) co-parenting [plan](/post/plan/) [for](/post/for/) [their](/post/their/) kids."
 
 ## Synonyms
-- [Mother](/en/post/mother/)/[father](/en/post/father/)
-- [Parent](/en/post/parent/) [figure](/en/post/figure/)
+- [Mother](/post/mother/)/[father](/post/father/)
+- [Parent](/post/parent/) [figure](/post/figure/)
 - Guardian
 - Caregiver
-- Foster [parent](/en/post/parent/)
-- Adoptive [parent](/en/post/parent/)
+- Foster [parent](/post/parent/)
+- Adoptive [parent](/post/parent/)
 
 ## Antonyms
 - Childless
 - Non-parent
-- Aparent (implying [not](/en/post/not/) [actually](/en/post/actually/) [a](/en/post/a/) [parent](/en/post/parent/))
+- Aparent (implying [not](/post/not/) [actually](/post/actually/) [a](/post/a/) [parent](/post/parent/))

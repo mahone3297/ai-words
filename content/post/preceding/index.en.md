@@ -7,28 +7,28 @@ description = '[pri(ː)ˈsiːdiŋ] a.在前的；在先的'
 keywords = ['ai words', 'preceding']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /həˈlɛp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [tool](/en/post/tool/) [used](/en/post/used/) [for](/en/post/for/) [writing](/en/post/writing/), [drawing](/en/post/drawing/), [or](/en/post/or/) marking, typically consisting [of](/en/post/of/) [a](/en/post/a/) [flat](/en/post/flat/) [surface](/en/post/surface/) [with](/en/post/with/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) [writing](/en/post/writing/) instruments attached. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) worked [on](/en/post/on/) [her](/en/post/her/) [canvas](/en/post/canvas/) [with](/en/post/with/) [a](/en/post/a/) paintbrush."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [pen](/en/post/pen/) [for](/en/post/for/) [writing](/en/post/writing/) [or](/en/post/or/) [drawing](/en/post/drawing/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) carefully penciled [in](/en/post/in/) [the](/en/post/the/) details [of](/en/post/of/) [the](/en/post/the/) [drawing](/en/post/drawing/)."
-- **[Noun](/en/post/noun/)**: (colloquial) [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) writes [or](/en/post/or/) creates [content](/en/post/content/), [especially](/en/post/especially/) professionally. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [author](/en/post/author/) is known [for](/en/post/for/) [her](/en/post/her/) captivating [pen](/en/post/pen/) names."
+- **[Noun](/post/noun/)**: [A](/post/a/) [device](/post/device/) [or](/post/or/) [tool](/post/tool/) [used](/post/used/) [for](/post/for/) [writing](/post/writing/), [drawing](/post/drawing/), [or](/post/or/) marking, typically consisting [of](/post/of/) [a](/post/a/) [flat](/post/flat/) [surface](/post/surface/) [with](/post/with/) [one](/post/one/) [or](/post/or/) [more](/post/more/) [writing](/post/writing/) instruments attached. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [artist](/post/artist/) worked [on](/post/on/) [her](/post/her/) [canvas](/post/canvas/) [with](/post/with/) [a](/post/a/) paintbrush."
+- **[Verb](/post/verb/)**: [To](/post/to/) [use](/post/use/) [a](/post/a/) [pen](/post/pen/) [for](/post/for/) [writing](/post/writing/) [or](/post/or/) [drawing](/post/drawing/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) carefully penciled [in](/post/in/) [the](/post/the/) details [of](/post/of/) [the](/post/the/) [drawing](/post/drawing/)."
+- **[Noun](/post/noun/)**: (colloquial) [A](/post/a/) [person](/post/person/) [who](/post/who/) writes [or](/post/or/) creates [content](/post/content/), [especially](/post/especially/) professionally. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [author](/post/author/) is known [for](/post/for/) [her](/post/her/) captivating [pen](/post/pen/) names."
 
 ## Phrases
-- "[Put](/en/post/put/) [pen](/en/post/pen/) [to](/en/post/to/) [paper](/en/post/paper/)" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) [writing](/en/post/writing/).
-- "[With](/en/post/with/) [a](/en/post/a/) [pen](/en/post/pen/) [in](/en/post/in/) [hand](/en/post/hand/)" describes [someone](/en/post/someone/) preparing [to](/en/post/to/) [write](/en/post/write/).
-- "[A](/en/post/a/) writer's [pen](/en/post/pen/)" symbolizes creativity [and](/en/post/and/) [expression](/en/post/expression/).
+- "[Put](/post/put/) [pen](/post/pen/) [to](/post/to/) [paper](/post/paper/)" [means](/post/means/) [to](/post/to/) [start](/post/start/) [writing](/post/writing/).
+- "[With](/post/with/) [a](/post/a/) [pen](/post/pen/) [in](/post/in/) [hand](/post/hand/)" describes [someone](/post/someone/) preparing [to](/post/to/) [write](/post/write/).
+- "[A](/post/a/) writer's [pen](/post/pen/)" symbolizes creativity [and](/post/and/) [expression](/post/expression/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) picked [up](/en/post/up/) [his](/en/post/his/) [pen](/en/post/pen/) [and](/en/post/and/) began sketching [a](/en/post/a/) [portrait](/en/post/portrait/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [her](/en/post/her/) [essay](/en/post/essay/), [she](/en/post/she/) signed [her](/en/post/her/) [name](/en/post/name/) [with](/en/post/with/) [a](/en/post/a/) [flourish](/en/post/flourish/)."
-- **Colloquial**: "[As](/en/post/as/) [a](/en/post/a/) freelance [pen](/en/post/pen/), [she](/en/post/she/) churns [out](/en/post/out/) articles [for](/en/post/for/) [various](/en/post/various/) publications."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) picked [up](/post/up/) [his](/post/his/) [pen](/post/pen/) [and](/post/and/) began sketching [a](/post/a/) [portrait](/post/portrait/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) finishing [her](/post/her/) [essay](/post/essay/), [she](/post/she/) signed [her](/post/her/) [name](/post/name/) [with](/post/with/) [a](/post/a/) [flourish](/post/flourish/)."
+- **Colloquial**: "[As](/post/as/) [a](/post/a/) freelance [pen](/post/pen/), [she](/post/she/) churns [out](/post/out/) articles [for](/post/for/) [various](/post/various/) publications."
 
 ## Synonyms
-- [Pencil](/en/post/pencil/)
+- [Pencil](/post/pencil/)
 - Quill
 - Marker
-- [Instrument](/en/post/instrument/)
-- [Writing](/en/post/writing/) utensil
-- Penman (archaic, referring [to](/en/post/to/) [a](/en/post/a/) [skilled](/en/post/skilled/) [writer](/en/post/writer/))
+- [Instrument](/post/instrument/)
+- [Writing](/post/writing/) utensil
+- Penman (archaic, referring [to](/post/to/) [a](/post/a/) [skilled](/post/skilled/) [writer](/post/writer/))

@@ -7,37 +7,37 @@ description = '[ˈtjuːtə] n.家庭教师；导师'
 keywords = ['ai words', 'tutor']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tuːˈtər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [tutor](/en/post/tutor/) is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) provides [instruction](/en/post/instruction/) [or](/en/post/or/) [guidance](/en/post/guidance/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) specialized [subject](/en/post/subject/), [to](/en/post/to/) an [individual](/en/post/individual/) [or](/en/post/or/) [group](/en/post/group/), typically [on](/en/post/on/) [a](/en/post/a/) [regular](/en/post/regular/) [basis](/en/post/basis/). [This](/en/post/this/) [can](/en/post/can/) [include](/en/post/include/) [academic](/en/post/academic/) tutoring, [career](/en/post/career/) [guidance](/en/post/guidance/), [or](/en/post/or/) [private](/en/post/private/) lessons.
+### [Noun](/post/noun/)
+[A](/post/a/) [tutor](/post/tutor/) is [a](/post/a/) [person](/post/person/) [who](/post/who/) provides [instruction](/post/instruction/) [or](/post/or/) [guidance](/post/guidance/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) specialized [subject](/post/subject/), [to](/post/to/) an [individual](/post/individual/) [or](/post/or/) [group](/post/group/), typically [on](/post/on/) [a](/post/a/) [regular](/post/regular/) [basis](/post/basis/). [This](/post/this/) [can](/post/can/) [include](/post/include/) [academic](/post/academic/) tutoring, [career](/post/career/) [guidance](/post/guidance/), [or](/post/or/) [private](/post/private/) lessons.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [tutor](/en/post/tutor/) [someone](/en/post/someone/) is [to](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) [their](/en/post/their/) [teacher](/en/post/teacher/) [or](/en/post/or/) mentor, guiding [them](/en/post/them/) [in](/en/post/in/) [learning](/en/post/learning/) [or](/en/post/or/) mastering [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/) [or](/en/post/or/) [skill](/en/post/skill/).
+### [Verb](/post/verb/)
+[To](/post/to/) [tutor](/post/tutor/) [someone](/post/someone/) is [to](/post/to/) [act](/post/act/) [as](/post/as/) [their](/post/their/) [teacher](/post/teacher/) [or](/post/or/) mentor, guiding [them](/post/them/) [in](/post/in/) [learning](/post/learning/) [or](/post/or/) mastering [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/) [or](/post/or/) [skill](/post/skill/).
 
 ## Phrases
-- "[Tutor](/en/post/tutor/) [a](/en/post/a/) [student](/en/post/student/)" refers [to](/en/post/to/) [teaching](/en/post/teaching/) [or](/en/post/or/) helping [a](/en/post/a/) [student](/en/post/student/) [with](/en/post/with/) [their](/en/post/their/) studies.
-- "Tutoring sessions" are planned periods [of](/en/post/of/) [instruction](/en/post/instruction/).
-- "Online tutoring" is [the](/en/post/the/) [provision](/en/post/provision/) [of](/en/post/of/) educational [support](/en/post/support/) remotely.
+- "[Tutor](/post/tutor/) [a](/post/a/) [student](/post/student/)" refers [to](/post/to/) [teaching](/post/teaching/) [or](/post/or/) helping [a](/post/a/) [student](/post/student/) [with](/post/with/) [their](/post/their/) studies.
+- "Tutoring sessions" are planned periods [of](/post/of/) [instruction](/post/instruction/).
+- "Online tutoring" is [the](/post/the/) [provision](/post/provision/) [of](/post/of/) educational [support](/post/support/) remotely.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) math [tutor](/en/post/tutor/) helped [the](/en/post/the/) struggling [student](/en/post/student/) [improve](/en/post/improve/) [their](/en/post/their/) [understanding](/en/post/understanding/) [of](/en/post/of/) algebra."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [school](/en/post/school/), [she](/en/post/she/) tutored [her](/en/post/her/) younger [sister](/en/post/sister/) [in](/en/post/in/) [piano](/en/post/piano/)."
-- **Phrasal [verb](/en/post/verb/)**: "[He](/en/post/he/) hired [a](/en/post/a/) [tutor](/en/post/tutor/) [to](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) [his](/en/post/his/) upcoming exams."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) math [tutor](/post/tutor/) helped [the](/post/the/) struggling [student](/post/student/) [improve](/post/improve/) [their](/post/their/) [understanding](/post/understanding/) [of](/post/of/) algebra."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [school](/post/school/), [she](/post/she/) tutored [her](/post/her/) younger [sister](/post/sister/) [in](/post/in/) [piano](/post/piano/)."
+- **Phrasal [verb](/post/verb/)**: "[He](/post/he/) hired [a](/post/a/) [tutor](/post/tutor/) [to](/post/to/) [prepare](/post/prepare/) [for](/post/for/) [his](/post/his/) upcoming exams."
 
 ## Synonyms
 - Instructor
-- [Teacher](/en/post/teacher/)
+- [Teacher](/post/teacher/)
 - Mentor
-- [Coach](/en/post/coach/)
-- [Guide](/en/post/guide/)
-- Tutoring [expert](/en/post/expert/)
-- [Private](/en/post/private/) instructor
+- [Coach](/post/coach/)
+- [Guide](/post/guide/)
+- Tutoring [expert](/post/expert/)
+- [Private](/post/private/) instructor
 
 ## Related Words
 - Instructor (n.)
-- Mentorship ([noun](/en/post/noun/))
-- Coaching ([verb](/en/post/verb/), [often](/en/post/often/) related [to](/en/post/to/) sports [or](/en/post/or/) skills [development](/en/post/development/))
-- [Academic](/en/post/academic/) advisor ([for](/en/post/for/) [college](/en/post/college/) [or](/en/post/or/) [university](/en/post/university/) settings)
+- Mentorship ([noun](/post/noun/))
+- Coaching ([verb](/post/verb/), [often](/post/often/) related [to](/post/to/) sports [or](/post/or/) skills [development](/post/development/))
+- [Academic](/post/academic/) advisor ([for](/post/for/) [college](/post/college/) [or](/post/or/) [university](/post/university/) settings)

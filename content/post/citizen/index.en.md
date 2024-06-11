@@ -7,45 +7,45 @@ description = '[ˈsitizn] n.公民；市民，居民'
 keywords = ['ai words', 'citizen']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /cɪˈzɪtən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) belongs [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [country](/en/post/country/), [state](/en/post/state/), [or](/en/post/or/) [city](/en/post/city/) [by](/en/post/by/) [birth](/en/post/birth/), [residence](/en/post/residence/), [or](/en/post/or/) naturalization, [and](/en/post/and/) is entitled [to](/en/post/to/) rights [and](/en/post/and/) obligations [under](/en/post/under/) [its](/en/post/its/) laws.
-   - [Example](/en/post/example/): "[As](/en/post/as/) [a](/en/post/a/) [citizen](/en/post/citizen/) [of](/en/post/of/) France, [he](/en/post/he/) has [the](/en/post/the/) [right](/en/post/right/) [to](/en/post/to/) [vote](/en/post/vote/) [in](/en/post/in/) elections."
-2. [A](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [political](/en/post/political/) [community](/en/post/community/) [or](/en/post/or/) [society](/en/post/society/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) is an [active](/en/post/active/) participant [in](/en/post/in/) [local](/en/post/local/) [citizen](/en/post/citizen/) groups."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [person](/post/person/) [who](/post/who/) belongs [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [country](/post/country/), [state](/post/state/), [or](/post/or/) [city](/post/city/) [by](/post/by/) [birth](/post/birth/), [residence](/post/residence/), [or](/post/or/) naturalization, [and](/post/and/) is entitled [to](/post/to/) rights [and](/post/and/) obligations [under](/post/under/) [its](/post/its/) laws.
+   - [Example](/post/example/): "[As](/post/as/) [a](/post/a/) [citizen](/post/citizen/) [of](/post/of/) France, [he](/post/he/) has [the](/post/the/) [right](/post/right/) [to](/post/to/) [vote](/post/vote/) [in](/post/in/) elections."
+2. [A](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [political](/post/political/) [community](/post/community/) [or](/post/or/) [society](/post/society/).
+   - [Example](/post/example/): "[She](/post/she/) is an [active](/post/active/) participant [in](/post/in/) [local](/post/local/) [citizen](/post/citizen/) groups."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [nation](/en/post/nation/) [or](/en/post/or/) [country](/en/post/country/) [by](/en/post/by/) [birth](/en/post/birth/) [or](/en/post/or/) [choice](/en/post/choice/).
-   - [Example](/en/post/example/): "[After](/en/post/after/) [living](/en/post/living/) [in](/en/post/in/) [the](/en/post/the/) [US](/en/post/us/) [for](/en/post/for/) 10 years, [she](/en/post/she/) became [a](/en/post/a/) naturalized [citizen](/en/post/citizen/)."
-2. [To](/en/post/to/) [qualify](/en/post/qualify/) [as](/en/post/as/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [community](/en/post/community/) [or](/en/post/or/) [group](/en/post/group/) [through](/en/post/through/) shared interests [or](/en/post/or/) responsibilities.
-   - [Example](/en/post/example/): "[Many](/en/post/many/) citizens volunteered [during](/en/post/during/) [the](/en/post/the/) pandemic [to](/en/post/to/) [help](/en/post/help/) [their](/en/post/their/) neighbors."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [be](/post/be/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [nation](/post/nation/) [or](/post/or/) [country](/post/country/) [by](/post/by/) [birth](/post/birth/) [or](/post/or/) [choice](/post/choice/).
+   - [Example](/post/example/): "[After](/post/after/) [living](/post/living/) [in](/post/in/) [the](/post/the/) [US](/post/us/) [for](/post/for/) 10 years, [she](/post/she/) became [a](/post/a/) naturalized [citizen](/post/citizen/)."
+2. [To](/post/to/) [qualify](/post/qualify/) [as](/post/as/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [community](/post/community/) [or](/post/or/) [group](/post/group/) [through](/post/through/) shared interests [or](/post/or/) responsibilities.
+   - [Example](/post/example/): "[Many](/post/many/) citizens volunteered [during](/post/during/) [the](/post/the/) pandemic [to](/post/to/) [help](/post/help/) [their](/post/their/) neighbors."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [country](/en/post/country/) [or](/en/post/or/) [state](/en/post/state/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [citizen](/en/post/citizen/) [survey](/en/post/survey/) showed [widespread](/en/post/widespread/) [support](/en/post/support/) [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/)."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [country](/post/country/) [or](/post/or/) [state](/post/state/).
+   - [Example](/post/example/): "[The](/post/the/) [citizen](/post/citizen/) [survey](/post/survey/) showed [widespread](/post/widespread/) [support](/post/support/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [policy](/post/policy/)."
 
 ## Phrases
-- "[To](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [loyal](/en/post/loyal/) [citizen](/en/post/citizen/)" emphasizes dedication [to](/en/post/to/) one's [country](/en/post/country/).
-- "[Citizen](/en/post/citizen/) rights" refers [to](/en/post/to/) [the](/en/post/the/) [legal](/en/post/legal/) protections granted [to](/en/post/to/) individuals [by](/en/post/by/) [their](/en/post/their/) [government](/en/post/government/).
-- "[Citizen](/en/post/citizen/) [science](/en/post/science/)" involves non-experts contributing [to](/en/post/to/) [scientific](/en/post/scientific/) [research](/en/post/research/).
+- "[To](/post/to/) [be](/post/be/) [a](/post/a/) [loyal](/post/loyal/) [citizen](/post/citizen/)" emphasizes dedication [to](/post/to/) one's [country](/post/country/).
+- "[Citizen](/post/citizen/) rights" refers [to](/post/to/) [the](/post/the/) [legal](/post/legal/) protections granted [to](/post/to/) individuals [by](/post/by/) [their](/post/their/) [government](/post/government/).
+- "[Citizen](/post/citizen/) [science](/post/science/)" involves non-experts contributing [to](/post/to/) [scientific](/post/scientific/) [research](/post/research/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) is [a](/en/post/a/) [proud](/en/post/proud/) Canadian [citizen](/en/post/citizen/) [who](/en/post/who/) takes [part](/en/post/part/) [in](/en/post/in/) [various](/en/post/various/) [community](/en/post/community/) events."
-- **[Verb](/en/post/verb/)**: "[As](/en/post/as/) citizens, [we](/en/post/we/) [must](/en/post/must/) uphold [the](/en/post/the/) [law](/en/post/law/) [and](/en/post/and/) [respect](/en/post/respect/) [our](/en/post/our/) [fellow](/en/post/fellow/) citizens."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [citizen](/en/post/citizen/) journalists played [a](/en/post/a/) crucial [role](/en/post/role/) [in](/en/post/in/) reporting [the](/en/post/the/) [news](/en/post/news/) [during](/en/post/during/) [the](/en/post/the/) [crisis](/en/post/crisis/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) is [a](/post/a/) [proud](/post/proud/) Canadian [citizen](/post/citizen/) [who](/post/who/) takes [part](/post/part/) [in](/post/in/) [various](/post/various/) [community](/post/community/) events."
+- **[Verb](/post/verb/)**: "[As](/post/as/) citizens, [we](/post/we/) [must](/post/must/) uphold [the](/post/the/) [law](/post/law/) [and](/post/and/) [respect](/post/respect/) [our](/post/our/) [fellow](/post/fellow/) citizens."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [citizen](/post/citizen/) journalists played [a](/post/a/) crucial [role](/post/role/) [in](/post/in/) reporting [the](/post/the/) [news](/post/news/) [during](/post/during/) [the](/post/the/) [crisis](/post/crisis/)."
 
 ## Synonyms
-- [National](/en/post/national/)
-- [Resident](/en/post/resident/)
-- [Inhabitant](/en/post/inhabitant/)
-- [Subject](/en/post/subject/)
+- [National](/post/national/)
+- [Resident](/post/resident/)
+- [Inhabitant](/post/inhabitant/)
+- [Subject](/post/subject/)
 - Denizen
-- [Fellow](/en/post/fellow/)
-- [Public](/en/post/public/)
+- [Fellow](/post/fellow/)
+- [Public](/post/public/)
 
 ---
 
-[Note](/en/post/note/): [The](/en/post/the/) "[Verb](/en/post/verb/)" [definition](/en/post/definition/) [for](/en/post/for/) "[citizen](/en/post/citizen/)" includes [two](/en/post/two/) meanings, [but](/en/post/but/) [in](/en/post/in/) [common](/en/post/common/) [usage](/en/post/usage/), [it](/en/post/it/) is [often](/en/post/often/) associated [with](/en/post/with/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) becoming [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/), [rather](/en/post/rather/) [than](/en/post/than/) [greeting](/en/post/greeting/) [someone](/en/post/someone/). [If](/en/post/if/) you'd [like](/en/post/like/) [to](/en/post/to/) [separate](/en/post/separate/) [these](/en/post/these/) meanings, [you](/en/post/you/) [could](/en/post/could/) [consider](/en/post/consider/) creating [two](/en/post/two/) [separate](/en/post/separate/) entries [for](/en/post/for/) "[become](/en/post/become/) [a](/en/post/a/) [citizen](/en/post/citizen/)" ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)) [and](/en/post/and/) "[greet](/en/post/greet/) [someone](/en/post/someone/) [as](/en/post/as/) [a](/en/post/a/) [citizen](/en/post/citizen/)" ([as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [action](/en/post/action/)).
+[Note](/post/note/): [The](/post/the/) "[Verb](/post/verb/)" [definition](/post/definition/) [for](/post/for/) "[citizen](/post/citizen/)" includes [two](/post/two/) meanings, [but](/post/but/) [in](/post/in/) [common](/post/common/) [usage](/post/usage/), [it](/post/it/) is [often](/post/often/) associated [with](/post/with/) [the](/post/the/) [act](/post/act/) [of](/post/of/) becoming [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [country](/post/country/), [rather](/post/rather/) [than](/post/than/) [greeting](/post/greeting/) [someone](/post/someone/). [If](/post/if/) you'd [like](/post/like/) [to](/post/to/) [separate](/post/separate/) [these](/post/these/) meanings, [you](/post/you/) [could](/post/could/) [consider](/post/consider/) creating [two](/post/two/) [separate](/post/separate/) entries [for](/post/for/) "[become](/post/become/) [a](/post/a/) [citizen](/post/citizen/)" ([as](/post/as/) [a](/post/a/) [verb](/post/verb/)) [and](/post/and/) "[greet](/post/greet/) [someone](/post/someone/) [as](/post/as/) [a](/post/a/) [citizen](/post/citizen/)" ([as](/post/as/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [action](/post/action/)).

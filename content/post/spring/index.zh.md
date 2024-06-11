@@ -12,30 +12,30 @@ keywords = ['ai words', 'spring']
 
 ## 释义
 - **名词**:
-   - 春天，一年中的季节。例如: "[Spring](/post/spring/) is [the](/post/the/) [season](/post/season/) [of](/post/of/) blooming flowers [and](/post/and/) [new](/post/new/) beginnings."
-   - 弹簧，用于储存和释放能量的装置。例如: "[The](/post/the/) [toy](/post/toy/) has [a](/post/a/) coiled [spring](/post/spring/) [inside](/post/inside/) [that](/post/that/) makes [it](/post/it/) [jump](/post/jump/)."
+   - 春天，一年中的季节。例如: "[Spring](/zh/post/spring/) is [the](/zh/post/the/) [season](/zh/post/season/) [of](/zh/post/of/) blooming flowers [and](/zh/post/and/) [new](/zh/post/new/) beginnings."
+   - 弹簧，用于储存和释放能量的装置。例如: "[The](/zh/post/the/) [toy](/zh/post/toy/) has [a](/zh/post/a/) coiled [spring](/zh/post/spring/) [inside](/zh/post/inside/) [that](/zh/post/that/) makes [it](/zh/post/it/) [jump](/zh/post/jump/)."
 
 - **动词**:
-   - 跳跃，突然跳起。例如: "[The](/post/the/) [cat](/post/cat/) sprang [up](/post/up/) [onto](/post/onto/) [the](/post/the/) [table](/post/table/)."
-   - 发生，出现。例如: "[News](/post/news/) [of](/post/of/) [the](/post/the/) [event](/post/event/) sprung [up](/post/up/) [suddenly](/post/suddenly/)."
+   - 跳跃，突然跳起。例如: "[The](/zh/post/the/) [cat](/zh/post/cat/) sprang [up](/zh/post/up/) [onto](/zh/post/onto/) [the](/zh/post/the/) [table](/zh/post/table/)."
+   - 发生，出现。例如: "[News](/zh/post/news/) [of](/zh/post/of/) [the](/zh/post/the/) [event](/zh/post/event/) sprung [up](/zh/post/up/) [suddenly](/zh/post/suddenly/)."
 
 - **形容词**:
-   - 春季的，与春天相关的。例如: "[Spring](/post/spring/) flowers [decorate](/post/decorate/) [the](/post/the/) [garden](/post/garden/)."
-   - 活泼的，充满活力的。例如: "[She](/post/she/) had [a](/post/a/) [spring](/post/spring/) [in](/post/in/) [her](/post/her/) [step](/post/step/)."
+   - 春季的，与春天相关的。例如: "[Spring](/zh/post/spring/) flowers [decorate](/zh/post/decorate/) [the](/zh/post/the/) [garden](/zh/post/garden/)."
+   - 活泼的，充满活力的。例如: "[She](/zh/post/she/) had [a](/zh/post/a/) [spring](/zh/post/spring/) [in](/zh/post/in/) [her](/zh/post/her/) [step](/zh/post/step/)."
 
 ## 短语
-- "[Spring](/post/spring/) [forward](/post/forward/)" 在日光节约时间中，意味着将时钟往前调一小时。
-- "[Spring](/post/spring/) cleaning" 指春季进行的大扫除。
-- "[To](/post/to/) [spring](/post/spring/) [a](/post/a/) [surprise](/post/surprise/)" 意为给某人一个惊喜。
+- "[Spring](/zh/post/spring/) [forward](/zh/post/forward/)" 在日光节约时间中，意味着将时钟往前调一小时。
+- "[Spring](/zh/post/spring/) cleaning" 指春季进行的大扫除。
+- "[To](/zh/post/to/) [spring](/zh/post/spring/) [a](/zh/post/a/) [surprise](/zh/post/surprise/)" 意为给某人一个惊喜。
 
 ## 例句
-- 名词: "[In](/post/in/) [spring](/post/spring/), [the](/post/the/) [countryside](/post/countryside/) is filled [with](/post/with/) [the](/post/the/) sounds [of](/post/of/) birds chirping."
-- 动词: "[The](/post/the/) [rabbit](/post/rabbit/) sprang [away](/post/away/) [from](/post/from/) [the](/post/the/) predator."
-- 形容词: "[The](/post/the/) colors [of](/post/of/) [the](/post/the/) [dress](/post/dress/) were vibrant [and](/post/and/) spring-like."
+- 名词: "[In](/zh/post/in/) [spring](/zh/post/spring/), [the](/zh/post/the/) [countryside](/zh/post/countryside/) is filled [with](/zh/post/with/) [the](/zh/post/the/) sounds [of](/zh/post/of/) birds chirping."
+- 动词: "[The](/zh/post/the/) [rabbit](/zh/post/rabbit/) sprang [away](/zh/post/away/) [from](/zh/post/from/) [the](/zh/post/the/) predator."
+- 形容词: "[The](/zh/post/the/) colors [of](/zh/post/of/) [the](/zh/post/the/) [dress](/zh/post/dress/) were vibrant [and](/zh/post/and/) spring-like."
 
 ## 同义词
-- [Season](/post/season/) [of](/post/of/) renewal
+- [Season](/zh/post/season/) [of](/zh/post/of/) renewal
 - Awakening
-- [Bounce](/post/bounce/)
-- [Leap](/post/leap/)
+- [Bounce](/zh/post/bounce/)
+- [Leap](/zh/post/leap/)
 - Energetic

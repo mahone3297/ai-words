@@ -7,36 +7,36 @@ description = '[miks] vt.使混合，混淆'
 keywords = ['ai words', 'mix']
 +++
 
-## [Word](/en/post/word/): [Mix](/en/post/mix/)
+## [Word](/post/word/): [Mix](/post/mix/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /mɪks/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [combination](/en/post/combination/) [of](/en/post/of/) [different](/en/post/different/) things; [a](/en/post/a/) [blend](/en/post/blend/) [or](/en/post/or/) [mixture](/en/post/mixture/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [mix](/en/post/mix/) [of](/en/post/of/) [fruit](/en/post/fruit/) [and](/en/post/and/) nuts [in](/en/post/in/) [a](/en/post/a/) [bowl](/en/post/bowl/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) [for](/en/post/for/) [music](/en/post/music/): [A](/en/post/a/) compilation [of](/en/post/of/) songs played [or](/en/post/or/) recorded [together](/en/post/together/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [order](/en/post/order/) [or](/en/post/or/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/). [Example](/en/post/example/): "[The](/en/post/the/) DJ played an energetic [mix](/en/post/mix/) [of](/en/post/of/) [dance](/en/post/dance/) tracks."
+- **[Noun](/post/noun/)**: [A](/post/a/) [combination](/post/combination/) [of](/post/of/) [different](/post/different/) things; [a](/post/a/) [blend](/post/blend/) [or](/post/or/) [mixture](/post/mixture/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [mix](/post/mix/) [of](/post/of/) [fruit](/post/fruit/) [and](/post/and/) nuts [in](/post/in/) [a](/post/a/) [bowl](/post/bowl/)."
+  - [Also](/post/also/) [used](/post/used/) [for](/post/for/) [music](/post/music/): [A](/post/a/) compilation [of](/post/of/) songs played [or](/post/or/) recorded [together](/post/together/), [often](/post/often/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [order](/post/order/) [or](/post/or/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/). [Example](/post/example/): "[The](/post/the/) DJ played an energetic [mix](/post/mix/) [of](/post/of/) [dance](/post/dance/) tracks."
 
-- **[Verb](/en/post/verb/)**: 
-  - (transitive) [To](/en/post/to/) [combine](/en/post/combine/) [or](/en/post/or/) [blend](/en/post/blend/) [different](/en/post/different/) elements [together](/en/post/together/) thoroughly. [Example](/en/post/example/): "[She](/en/post/she/) mixed [flour](/en/post/flour/), [sugar](/en/post/sugar/), [and](/en/post/and/) eggs [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [cake](/en/post/cake/) batter."
-  - (intransitive) [To](/en/post/to/) [be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/) [exist](/en/post/exist/) [or](/en/post/or/) interact harmoniously [with](/en/post/with/) others. [Example](/en/post/example/): "[His](/en/post/his/) hobbies don't [really](/en/post/really/) [mix](/en/post/mix/) [well](/en/post/well/) [with](/en/post/with/) [his](/en/post/his/) [work](/en/post/work/) [schedule](/en/post/schedule/)."
-  - (figurative) [To](/en/post/to/) [involve](/en/post/involve/) [oneself](/en/post/oneself/) [in](/en/post/in/) [multiple](/en/post/multiple/) activities [or](/en/post/or/) areas. [Example](/en/post/example/): "[She](/en/post/she/) likes [to](/en/post/to/) [mix](/en/post/mix/) [business](/en/post/business/) [with](/en/post/with/) [pleasure](/en/post/pleasure/) [during](/en/post/during/) [her](/en/post/her/) travels."
+- **[Verb](/post/verb/)**: 
+  - (transitive) [To](/post/to/) [combine](/post/combine/) [or](/post/or/) [blend](/post/blend/) [different](/post/different/) elements [together](/post/together/) thoroughly. [Example](/post/example/): "[She](/post/she/) mixed [flour](/post/flour/), [sugar](/post/sugar/), [and](/post/and/) eggs [to](/post/to/) [make](/post/make/) [a](/post/a/) [cake](/post/cake/) batter."
+  - (intransitive) [To](/post/to/) [be](/post/be/) [able](/post/able/) [to](/post/to/) [exist](/post/exist/) [or](/post/or/) interact harmoniously [with](/post/with/) others. [Example](/post/example/): "[His](/post/his/) hobbies don't [really](/post/really/) [mix](/post/mix/) [well](/post/well/) [with](/post/with/) [his](/post/his/) [work](/post/work/) [schedule](/post/schedule/)."
+  - (figurative) [To](/post/to/) [involve](/post/involve/) [oneself](/post/oneself/) [in](/post/in/) [multiple](/post/multiple/) activities [or](/post/or/) areas. [Example](/post/example/): "[She](/post/she/) likes [to](/post/to/) [mix](/post/mix/) [business](/post/business/) [with](/post/with/) [pleasure](/post/pleasure/) [during](/post/during/) [her](/post/her/) travels."
 
 ## Phrases
-- "[Mix](/en/post/mix/) [it](/en/post/it/) [up](/en/post/up/)": [To](/en/post/to/) [stir](/en/post/stir/) things [up](/en/post/up/), [create](/en/post/create/) [variety](/en/post/variety/), [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) [lively](/en/post/lively/) [interaction](/en/post/interaction/) [or](/en/post/or/) [conflict](/en/post/conflict/).
-- "[A](/en/post/a/) mixed [bag](/en/post/bag/)": [A](/en/post/a/) varied assortment [or](/en/post/or/) [collection](/en/post/collection/), [sometimes](/en/post/sometimes/) implying [both](/en/post/both/) [positive](/en/post/positive/) [and](/en/post/and/) [negative](/en/post/negative/) elements.
-- "[Mix](/en/post/mix/) [and](/en/post/and/) [match](/en/post/match/)": [To](/en/post/to/) [combine](/en/post/combine/) items [from](/en/post/from/) [different](/en/post/different/) sets [or](/en/post/or/) categories, [especially](/en/post/especially/) [when](/en/post/when/) selecting [clothes](/en/post/clothes/).
+- "[Mix](/post/mix/) [it](/post/it/) [up](/post/up/)": [To](/post/to/) [stir](/post/stir/) things [up](/post/up/), [create](/post/create/) [variety](/post/variety/), [or](/post/or/) [engage](/post/engage/) [in](/post/in/) [lively](/post/lively/) [interaction](/post/interaction/) [or](/post/or/) [conflict](/post/conflict/).
+- "[A](/post/a/) mixed [bag](/post/bag/)": [A](/post/a/) varied assortment [or](/post/or/) [collection](/post/collection/), [sometimes](/post/sometimes/) implying [both](/post/both/) [positive](/post/positive/) [and](/post/and/) [negative](/post/negative/) elements.
+- "[Mix](/post/mix/) [and](/post/and/) [match](/post/match/)": [To](/post/to/) [combine](/post/combine/) items [from](/post/from/) [different](/post/different/) sets [or](/post/or/) categories, [especially](/post/especially/) [when](/post/when/) selecting [clothes](/post/clothes/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [salad](/en/post/salad/) was [a](/en/post/a/) tasty [mix](/en/post/mix/) [of](/en/post/of/) [fresh](/en/post/fresh/) vegetables [and](/en/post/and/) herbs."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) mixed [all](/en/post/all/) [the](/en/post/the/) ingredients [together](/en/post/together/) [until](/en/post/until/) [the](/en/post/the/) dough was [smooth](/en/post/smooth/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [party](/en/post/party/) had [a](/en/post/a/) mixed [crowd](/en/post/crowd/) [of](/en/post/of/) [young](/en/post/young/) professionals [and](/en/post/and/) [college](/en/post/college/) students."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [salad](/post/salad/) was [a](/post/a/) tasty [mix](/post/mix/) [of](/post/of/) [fresh](/post/fresh/) vegetables [and](/post/and/) herbs."
+- **[Verb](/post/verb/)**: "[He](/post/he/) mixed [all](/post/all/) [the](/post/the/) ingredients [together](/post/together/) [until](/post/until/) [the](/post/the/) dough was [smooth](/post/smooth/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [party](/post/party/) had [a](/post/a/) mixed [crowd](/post/crowd/) [of](/post/of/) [young](/post/young/) professionals [and](/post/and/) [college](/post/college/) students."
 
 ## Synonyms
-- [Blend](/en/post/blend/)
-- [Combine](/en/post/combine/)
+- [Blend](/post/blend/)
+- [Combine](/post/combine/)
 - Merge
-- [Stir](/en/post/stir/)
+- [Stir](/post/stir/)
 - Fuse
 - Integrate
-- Jumble ([for](/en/post/for/) [a](/en/post/a/) [less](/en/post/less/) [orderly](/en/post/orderly/) [mix](/en/post/mix/))
-- Mash-up (informal, [particularly](/en/post/particularly/) [for](/en/post/for/) [music](/en/post/music/) [or](/en/post/or/) [creative](/en/post/creative/) combinations)
+- Jumble ([for](/post/for/) [a](/post/a/) [less](/post/less/) [orderly](/post/orderly/) [mix](/post/mix/))
+- Mash-up (informal, [particularly](/post/particularly/) [for](/post/for/) [music](/post/music/) [or](/post/or/) [creative](/post/creative/) combinations)

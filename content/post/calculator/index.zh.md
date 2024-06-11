@@ -11,19 +11,19 @@ keywords = ['ai words', 'calculator']
 /ˈkælkjəleɪtər/
 
 ## 释义
-- **名词 (n)**: 一种电子设备或程序，用于进行数学计算。例如: "I [used](/post/used/) [a](/post/a/) [calculator](/post/calculator/) [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [complex](/post/complex/) [equation](/post/equation/)."
-- **动词 (v)**: 使用计算器进行计算。例如: "[She](/post/she/) calculatored [the](/post/the/) [total](/post/total/) [cost](/post/cost/) [of](/post/of/) [the](/post/the/) groceries."
+- **名词 (n)**: 一种电子设备或程序，用于进行数学计算。例如: "I [used](/zh/post/used/) [a](/zh/post/a/) [calculator](/zh/post/calculator/) [to](/zh/post/to/) [solve](/zh/post/solve/) [the](/zh/post/the/) [complex](/zh/post/complex/) [equation](/zh/post/equation/)."
+- **动词 (v)**: 使用计算器进行计算。例如: "[She](/zh/post/she/) calculatored [the](/zh/post/the/) [total](/zh/post/total/) [cost](/zh/post/cost/) [of](/zh/post/of/) [the](/zh/post/the/) groceries."
 
 ## 短语
-- "[scientific](/post/scientific/) [calculator](/post/calculator/)" 科学计算器，具有高级功能，如对数和三角函数。
-- "[calculator](/post/calculator/) app" 计算器应用，手机或电脑上的软件计算器。
+- "[scientific](/zh/post/scientific/) [calculator](/zh/post/calculator/)" 科学计算器，具有高级功能，如对数和三角函数。
+- "[calculator](/zh/post/calculator/) app" 计算器应用，手机或电脑上的软件计算器。
 
 ## 例句
-- 名词: "[The](/post/the/) [engineer](/post/engineer/) kept [a](/post/a/) trusty [calculator](/post/calculator/) [on](/post/on/) [his](/post/his/) [desk](/post/desk/) [for](/post/for/) [quick](/post/quick/) calculations."
-- 动词: "[He](/post/he/) calculatored [the](/post/the/) [distance](/post/distance/) [between](/post/between/) [two](/post/two/) cities using an online [tool](/post/tool/)."
+- 名词: "[The](/zh/post/the/) [engineer](/zh/post/engineer/) kept [a](/zh/post/a/) trusty [calculator](/zh/post/calculator/) [on](/zh/post/on/) [his](/zh/post/his/) [desk](/zh/post/desk/) [for](/zh/post/for/) [quick](/zh/post/quick/) calculations."
+- 动词: "[He](/zh/post/he/) calculatored [the](/zh/post/the/) [distance](/zh/post/distance/) [between](/zh/post/between/) [two](/zh/post/two/) cities using an online [tool](/zh/post/tool/)."
 
 ## 同义词
-- Computation [device](/post/device/)
-- Computing [machine](/post/machine/)
-- Adding [machine](/post/machine/)
+- Computation [device](/zh/post/device/)
+- Computing [machine](/zh/post/machine/)
+- Adding [machine](/zh/post/machine/)
 - Abacus (传统手动计算工具)

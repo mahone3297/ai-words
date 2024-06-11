@@ -7,33 +7,33 @@ description = '[ˈsimplifai] vt.简化，使单纯'
 keywords = ['ai words', 'simplify']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈplaɪfaɪ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [less](/en/post/less/) [complex](/en/post/complex/) [or](/en/post/or/) [difficult](/en/post/difficult/) [to](/en/post/to/) [understand](/en/post/understand/), [use](/en/post/use/), [or](/en/post/or/) [deal](/en/post/deal/) [with](/en/post/with/). [To](/en/post/to/) [reduce](/en/post/reduce/) [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) steps [or](/en/post/or/) components involved.
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [simplicity](/en/post/simplicity/); [easy](/en/post/easy/) [to](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [use](/en/post/use/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [less](/post/less/) [complex](/post/complex/) [or](/post/or/) [difficult](/post/difficult/) [to](/post/to/) [understand](/post/understand/), [use](/post/use/), [or](/post/or/) [deal](/post/deal/) [with](/post/with/). [To](/post/to/) [reduce](/post/reduce/) [the](/post/the/) [number](/post/number/) [of](/post/of/) steps [or](/post/or/) components involved.
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [simplicity](/post/simplicity/); [easy](/post/easy/) [to](/post/to/) [understand](/post/understand/) [or](/post/or/) [use](/post/use/).
 
 ## Phrases
-- "[Simplify](/en/post/simplify/) [a](/en/post/a/) [process](/en/post/process/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) [more](/en/post/more/) straightforward.
-- "Simplified instructions" are [clear](/en/post/clear/) [and](/en/post/and/) concise explanations.
-- "Simplifying [tax](/en/post/tax/) laws" is [a](/en/post/a/) [proposal](/en/post/proposal/) [to](/en/post/to/) [reduce](/en/post/reduce/) [their](/en/post/their/) complexity.
+- "[Simplify](/post/simplify/) [a](/post/a/) [process](/post/process/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [it](/post/it/) [more](/post/more/) straightforward.
+- "Simplified instructions" are [clear](/post/clear/) [and](/post/and/) concise explanations.
+- "Simplifying [tax](/post/tax/) laws" is [a](/post/a/) [proposal](/post/proposal/) [to](/post/to/) [reduce](/post/reduce/) [their](/post/their/) complexity.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [simplify](/en/post/simplify/) [her](/en/post/her/) [daily](/en/post/daily/) [routine](/en/post/routine/) [to](/en/post/to/) [manage](/en/post/manage/) [her](/en/post/her/) [time](/en/post/time/) [better](/en/post/better/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) software [design](/en/post/design/) is designed [to](/en/post/to/) [be](/en/post/be/) [highly](/en/post/highly/) simplified [for](/en/post/for/) users."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) explained [the](/en/post/the/) [concept](/en/post/concept/) [in](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) [would](/en/post/would/) [simplify](/en/post/simplify/) [the](/en/post/the/) [understanding](/en/post/understanding/) [for](/en/post/for/) students."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [simplify](/post/simplify/) [her](/post/her/) [daily](/post/daily/) [routine](/post/routine/) [to](/post/to/) [manage](/post/manage/) [her](/post/her/) [time](/post/time/) [better](/post/better/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) software [design](/post/design/) is designed [to](/post/to/) [be](/post/be/) [highly](/post/highly/) simplified [for](/post/for/) users."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [teacher](/post/teacher/) explained [the](/post/the/) [concept](/post/concept/) [in](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) [would](/post/would/) [simplify](/post/simplify/) [the](/post/the/) [understanding](/post/understanding/) [for](/post/for/) students."
 
 ## Synonyms
 - Streamline
-- [Ease](/en/post/ease/)
-- [Condense](/en/post/condense/)
-- [Clarify](/en/post/clarify/)
+- [Ease](/post/ease/)
+- [Condense](/post/condense/)
+- [Clarify](/post/clarify/)
 - Minimize
 
 ## Antonyms
-- [Complicate](/en/post/complicate/)
+- [Complicate](/post/complicate/)
 - Obscure
-- [Confuse](/en/post/confuse/)
+- [Confuse](/post/confuse/)
 - Compund
 - Embellish

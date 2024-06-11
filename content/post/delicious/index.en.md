@@ -7,25 +7,25 @@ description = '[diˈli∫əs] a.美味的，怡人的'
 keywords = ['ai words', 'delicious']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈlɪʃəs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Adjective](/en/post/adjective/)**: Describing [something](/en/post/something/) [that](/en/post/that/) is [extremely](/en/post/extremely/) tasty, enjoyable, [or](/en/post/or/) appealing [to](/en/post/to/) [the](/en/post/the/) senses. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [cake](/en/post/cake/) was [so](/en/post/so/) [delicious](/en/post/delicious/) [that](/en/post/that/) [everyone](/en/post/everyone/) wanted seconds."
+### [Noun](/post/noun/)
+**[Adjective](/post/adjective/)**: Describing [something](/post/something/) [that](/post/that/) is [extremely](/post/extremely/) tasty, enjoyable, [or](/post/or/) appealing [to](/post/to/) [the](/post/the/) senses. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [cake](/post/cake/) was [so](/post/so/) [delicious](/post/delicious/) [that](/post/that/) [everyone](/post/everyone/) wanted seconds."
 
-### [Verb](/en/post/verb/)
-**[Adverb](/en/post/adverb/)**: [Used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [how](/en/post/how/) [something](/en/post/something/) tastes [or](/en/post/or/) is perceived, [often](/en/post/often/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) describing someone's enjoyment. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) savored [the](/en/post/the/) [delicious](/en/post/delicious/) flavor [of](/en/post/of/) [the](/en/post/the/) [chocolate](/en/post/chocolate/) truffle."
+### [Verb](/post/verb/)
+**[Adverb](/post/adverb/)**: [Used](/post/used/) [to](/post/to/) [describe](/post/describe/) [how](/post/how/) [something](/post/something/) tastes [or](/post/or/) is perceived, [often](/post/often/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) describing someone's enjoyment. [For](/post/for/) [example](/post/example/): "[She](/post/she/) savored [the](/post/the/) [delicious](/post/delicious/) flavor [of](/post/of/) [the](/post/the/) [chocolate](/post/chocolate/) truffle."
 
 ## Phrases
-- "[A](/en/post/a/) [delicious](/en/post/delicious/) [meal](/en/post/meal/)" refers [to](/en/post/to/) [a](/en/post/a/) [very](/en/post/very/) pleasing [and](/en/post/and/) appetizing [food](/en/post/food/).
-- "[Delicious](/en/post/delicious/) aroma" describes [the](/en/post/the/) [pleasant](/en/post/pleasant/) [smell](/en/post/smell/) [of](/en/post/of/) [something](/en/post/something/) [being](/en/post/being/) cooked [or](/en/post/or/) baked.
-- "[She](/en/post/she/) has [a](/en/post/a/) knack [for](/en/post/for/) making [delicious](/en/post/delicious/) recipes."
+- "[A](/post/a/) [delicious](/post/delicious/) [meal](/post/meal/)" refers [to](/post/to/) [a](/post/a/) [very](/post/very/) pleasing [and](/post/and/) appetizing [food](/post/food/).
+- "[Delicious](/post/delicious/) aroma" describes [the](/post/the/) [pleasant](/post/pleasant/) [smell](/post/smell/) [of](/post/of/) [something](/post/something/) [being](/post/being/) cooked [or](/post/or/) baked.
+- "[She](/post/she/) has [a](/post/a/) knack [for](/post/for/) making [delicious](/post/delicious/) recipes."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) restaurant's [signature](/en/post/signature/) [dish](/en/post/dish/) was [a](/en/post/a/) [delicious](/en/post/delicious/) [blend](/en/post/blend/) [of](/en/post/of/) flavors."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) couldn't [stop](/en/post/stop/) raving [about](/en/post/about/) [the](/en/post/the/) [delicious](/en/post/delicious/) pasta [he](/en/post/he/) had [just](/en/post/just/) eaten."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) took [a](/en/post/a/) [deep](/en/post/deep/) [breath](/en/post/breath/), relishing [the](/en/post/the/) [delicious](/en/post/delicious/) [scent](/en/post/scent/) [of](/en/post/of/) [the](/en/post/the/) freshly baked [bread](/en/post/bread/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) restaurant's [signature](/post/signature/) [dish](/post/dish/) was [a](/post/a/) [delicious](/post/delicious/) [blend](/post/blend/) [of](/post/of/) flavors."
+- **[Verb](/post/verb/)**: "[He](/post/he/) couldn't [stop](/post/stop/) raving [about](/post/about/) [the](/post/the/) [delicious](/post/delicious/) pasta [he](/post/he/) had [just](/post/just/) eaten."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) took [a](/post/a/) [deep](/post/deep/) [breath](/post/breath/), relishing [the](/post/the/) [delicious](/post/delicious/) [scent](/post/scent/) [of](/post/of/) [the](/post/the/) freshly baked [bread](/post/bread/)."
 
 ## Synonyms
 - Tasty
@@ -42,5 +42,5 @@ keywords = ['ai words', 'delicious']
 - Unappetizing
 - Bland
 - Disgusting
-- [Unpleasant](/en/post/unpleasant/)
+- [Unpleasant](/post/unpleasant/)
 - Unpalatable

@@ -11,21 +11,21 @@ keywords = ['ai words', 'mineral']
 /minərəl/
 
 ## 释义
-- **名词**: 自然界中存在的无机物质，通常指矿石，可作为资源开采。例如: "[Iron](/post/iron/) is [a](/post/a/) [common](/post/common/) [mineral](/post/mineral/) [found](/post/found/) [in](/post/in/) rocks."
-- **名词**: 生物体需要的微量元素，如钙、铁、锌等。例如: "Minerals [like](/post/like/) calcium [and](/post/and/) potassium are [essential](/post/essential/) [for](/post/for/) [good](/post/good/) [health](/post/health/)."
+- **名词**: 自然界中存在的无机物质，通常指矿石，可作为资源开采。例如: "[Iron](/zh/post/iron/) is [a](/zh/post/a/) [common](/zh/post/common/) [mineral](/zh/post/mineral/) [found](/zh/post/found/) [in](/zh/post/in/) rocks."
+- **名词**: 生物体需要的微量元素，如钙、铁、锌等。例如: "Minerals [like](/zh/post/like/) calcium [and](/zh/post/and/) potassium are [essential](/zh/post/essential/) [for](/zh/post/for/) [good](/zh/post/good/) [health](/zh/post/health/)."
 
 ## 短语
-- "[Mineral](/post/mineral/) [deposit](/post/deposit/)" 指矿产沉积，是矿物集中形成矿床的地方。
-- "[Mineral](/post/mineral/) [water](/post/water/)" 是含有天然矿物质的水。
-- "[Mineral](/post/mineral/) resources" 指可供人类利用的各种矿物资源。
+- "[Mineral](/zh/post/mineral/) [deposit](/zh/post/deposit/)" 指矿产沉积，是矿物集中形成矿床的地方。
+- "[Mineral](/zh/post/mineral/) [water](/zh/post/water/)" 是含有天然矿物质的水。
+- "[Mineral](/zh/post/mineral/) resources" 指可供人类利用的各种矿物资源。
 
 ## 例句
-- 名词: "[The](/post/the/) [mine](/post/mine/) produces [large](/post/large/) quantities [of](/post/of/) [valuable](/post/valuable/) minerals [every](/post/every/) [year](/post/year/)."
-- 名词: "Drinking [mineral](/post/mineral/) [water](/post/water/) [can](/post/can/) [provide](/post/provide/) [your](/post/your/) [body](/post/body/) [with](/post/with/) [necessary](/post/necessary/) minerals."
+- 名词: "[The](/zh/post/the/) [mine](/zh/post/mine/) produces [large](/zh/post/large/) quantities [of](/zh/post/of/) [valuable](/zh/post/valuable/) minerals [every](/zh/post/every/) [year](/zh/post/year/)."
+- 名词: "Drinking [mineral](/zh/post/mineral/) [water](/zh/post/water/) [can](/zh/post/can/) [provide](/zh/post/provide/) [your](/zh/post/your/) [body](/zh/post/body/) [with](/zh/post/with/) [necessary](/zh/post/necessary/) minerals."
 
 ## 同义词
-- [Ore](/post/ore/)
-- [Stone](/post/stone/)
-- [Rock](/post/rock/)
-- [Element](/post/element/)
-- [Compound](/post/compound/) (在某些上下文中)
+- [Ore](/zh/post/ore/)
+- [Stone](/zh/post/stone/)
+- [Rock](/zh/post/rock/)
+- [Element](/zh/post/element/)
+- [Compound](/zh/post/compound/) (在某些上下文中)

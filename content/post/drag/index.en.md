@@ -7,45 +7,45 @@ description = '[dræg] vt.拖，拉；拖曳'
 keywords = ['ai words', 'drag']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dræɡ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Drag](/en/post/drag/)** ([noun](/en/post/noun/)): 1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) pulling [something](/en/post/something/) [along](/en/post/along/) [or](/en/post/or/) [behind](/en/post/behind/), [often](/en/post/often/) [with](/en/post/with/) [difficulty](/en/post/difficulty/) [or](/en/post/or/) [resistance](/en/post/resistance/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [car](/en/post/car/) was dragged [through](/en/post/through/) [the](/en/post/the/) [mud](/en/post/mud/)."
-   - **[Fashion](/en/post/fashion/) [drag](/en/post/drag/)**: [A](/en/post/a/) [performance](/en/post/performance/) [art](/en/post/art/) [form](/en/post/form/) [where](/en/post/where/) individuals [dress](/en/post/dress/) [up](/en/post/up/) [in](/en/post/in/) exaggerated, [often](/en/post/often/) stereotypical [clothing](/en/post/clothing/) [to](/en/post/to/) parody gender norms. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was dressed [in](/en/post/in/) [drag](/en/post/drag/) [as](/en/post/as/) [a](/en/post/a/) Marilyn Monroe impersonator."
-   - **[Drag](/en/post/drag/) [race](/en/post/race/)**: [A](/en/post/a/) competitive [event](/en/post/event/) [where](/en/post/where/) vehicles [race](/en/post/race/) [against](/en/post/against/) [each](/en/post/each/) [other](/en/post/other/), [often](/en/post/often/) [with](/en/post/with/) [one](/en/post/one/) [vehicle](/en/post/vehicle/) having [a](/en/post/a/) [significant](/en/post/significant/) [power](/en/post/power/) [advantage](/en/post/advantage/) (dragsters). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [muscle](/en/post/muscle/) [car](/en/post/car/) was [a](/en/post/a/) dominating [force](/en/post/force/) [in](/en/post/in/) [the](/en/post/the/) [drag](/en/post/drag/) [race](/en/post/race/)."
+### [Noun](/post/noun/)
+- **[Drag](/post/drag/)** ([noun](/post/noun/)): 1. [The](/post/the/) [act](/post/act/) [of](/post/of/) pulling [something](/post/something/) [along](/post/along/) [or](/post/or/) [behind](/post/behind/), [often](/post/often/) [with](/post/with/) [difficulty](/post/difficulty/) [or](/post/or/) [resistance](/post/resistance/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [old](/post/old/) [car](/post/car/) was dragged [through](/post/through/) [the](/post/the/) [mud](/post/mud/)."
+   - **[Fashion](/post/fashion/) [drag](/post/drag/)**: [A](/post/a/) [performance](/post/performance/) [art](/post/art/) [form](/post/form/) [where](/post/where/) individuals [dress](/post/dress/) [up](/post/up/) [in](/post/in/) exaggerated, [often](/post/often/) stereotypical [clothing](/post/clothing/) [to](/post/to/) parody gender norms. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was dressed [in](/post/in/) [drag](/post/drag/) [as](/post/as/) [a](/post/a/) Marilyn Monroe impersonator."
+   - **[Drag](/post/drag/) [race](/post/race/)**: [A](/post/a/) competitive [event](/post/event/) [where](/post/where/) vehicles [race](/post/race/) [against](/post/against/) [each](/post/each/) [other](/post/other/), [often](/post/often/) [with](/post/with/) [one](/post/one/) [vehicle](/post/vehicle/) having [a](/post/a/) [significant](/post/significant/) [power](/post/power/) [advantage](/post/advantage/) (dragsters). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [muscle](/post/muscle/) [car](/post/car/) was [a](/post/a/) dominating [force](/post/force/) [in](/post/in/) [the](/post/the/) [drag](/post/drag/) [race](/post/race/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [drag](/en/post/drag/)** ([verb](/en/post/verb/)): 1. [To](/en/post/to/) [pull](/en/post/pull/) [something](/en/post/something/) [along](/en/post/along/) [or](/en/post/or/) [across](/en/post/across/) [a](/en/post/a/) [surface](/en/post/surface/) [with](/en/post/with/) [effort](/en/post/effort/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) dragged [the](/en/post/the/) [heavy](/en/post/heavy/) [trunk](/en/post/trunk/) [up](/en/post/up/) [the](/en/post/the/) stairs."
-   - **[To](/en/post/to/) [drag](/en/post/drag/) [oneself](/en/post/oneself/)**: [To](/en/post/to/) [move](/en/post/move/) laboriously [or](/en/post/or/) unwillingly. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) dragged [herself](/en/post/herself/) [out](/en/post/out/) [of](/en/post/of/) [bed](/en/post/bed/) [on](/en/post/on/) [a](/en/post/a/) [rainy](/en/post/rainy/) [morning](/en/post/morning/)."
-   - **[To](/en/post/to/) [drag](/en/post/drag/) [out](/en/post/out/) [a](/en/post/a/) [process](/en/post/process/)**: [To](/en/post/to/) prolong an [activity](/en/post/activity/) unnecessarily. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [meeting](/en/post/meeting/) seemed [to](/en/post/to/) [drag](/en/post/drag/) [on](/en/post/on/) [forever](/en/post/forever/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [drag](/post/drag/)** ([verb](/post/verb/)): 1. [To](/post/to/) [pull](/post/pull/) [something](/post/something/) [along](/post/along/) [or](/post/or/) [across](/post/across/) [a](/post/a/) [surface](/post/surface/) [with](/post/with/) [effort](/post/effort/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) dragged [the](/post/the/) [heavy](/post/heavy/) [trunk](/post/trunk/) [up](/post/up/) [the](/post/the/) stairs."
+   - **[To](/post/to/) [drag](/post/drag/) [oneself](/post/oneself/)**: [To](/post/to/) [move](/post/move/) laboriously [or](/post/or/) unwillingly. [For](/post/for/) [example](/post/example/): "[She](/post/she/) dragged [herself](/post/herself/) [out](/post/out/) [of](/post/of/) [bed](/post/bed/) [on](/post/on/) [a](/post/a/) [rainy](/post/rainy/) [morning](/post/morning/)."
+   - **[To](/post/to/) [drag](/post/drag/) [out](/post/out/) [a](/post/a/) [process](/post/process/)**: [To](/post/to/) prolong an [activity](/post/activity/) unnecessarily. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [meeting](/post/meeting/) seemed [to](/post/to/) [drag](/post/drag/) [on](/post/on/) [forever](/post/forever/)."
 
-### [Adjective](/en/post/adjective/)
-- **Dragged** ([adjective](/en/post/adjective/)): Characterized [by](/en/post/by/) [slow](/en/post/slow/) [movement](/en/post/movement/) [or](/en/post/or/) [being](/en/post/being/) pulled [along](/en/post/along/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) dragged [tire](/en/post/tire/) made [a](/en/post/a/) [loud](/en/post/loud/) screech [on](/en/post/on/) [the](/en/post/the/) [road](/en/post/road/)."
+### [Adjective](/post/adjective/)
+- **Dragged** ([adjective](/post/adjective/)): Characterized [by](/post/by/) [slow](/post/slow/) [movement](/post/movement/) [or](/post/or/) [being](/post/being/) pulled [along](/post/along/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) dragged [tire](/post/tire/) made [a](/post/a/) [loud](/post/loud/) screech [on](/post/on/) [the](/post/the/) [road](/post/road/)."
 
-### [Adverb](/en/post/adverb/)
-- **Draggedly** ([adverb](/en/post/adverb/)): [In](/en/post/in/) [a](/en/post/a/) [slow](/en/post/slow/) [and](/en/post/and/) laborious [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) walked draggedly [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/)."
+### [Adverb](/post/adverb/)
+- **Draggedly** ([adverb](/post/adverb/)): [In](/post/in/) [a](/post/a/) [slow](/post/slow/) [and](/post/and/) laborious [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) walked draggedly [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/)."
 
 ## Phrases
-- "Dragging [a](/en/post/a/) [heavy](/en/post/heavy/) [load](/en/post/load/)" refers [to](/en/post/to/) carrying [or](/en/post/or/) moving [something](/en/post/something/) [that](/en/post/that/) is [very](/en/post/very/) [heavy](/en/post/heavy/).
-- "[A](/en/post/a/) [drag](/en/post/drag/) [show](/en/post/show/)" is [a](/en/post/a/) [performance](/en/post/performance/) featuring [drag](/en/post/drag/) performers.
-- "[The](/en/post/the/) [drag](/en/post/drag/) [on](/en/post/on/) [a](/en/post/a/) [cigarette](/en/post/cigarette/)" refers [to](/en/post/to/) [the](/en/post/the/) [resistance](/en/post/resistance/) felt [when](/en/post/when/) inhaling [smoke](/en/post/smoke/).
+- "Dragging [a](/post/a/) [heavy](/post/heavy/) [load](/post/load/)" refers [to](/post/to/) carrying [or](/post/or/) moving [something](/post/something/) [that](/post/that/) is [very](/post/very/) [heavy](/post/heavy/).
+- "[A](/post/a/) [drag](/post/drag/) [show](/post/show/)" is [a](/post/a/) [performance](/post/performance/) featuring [drag](/post/drag/) performers.
+- "[The](/post/the/) [drag](/post/drag/) [on](/post/on/) [a](/post/a/) [cigarette](/post/cigarette/)" refers [to](/post/to/) [the](/post/the/) [resistance](/post/resistance/) felt [when](/post/when/) inhaling [smoke](/post/smoke/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) dragged [the](/en/post/the/) hose [across](/en/post/across/) [the](/en/post/the/) [lawn](/en/post/lawn/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) dragged [himself](/en/post/himself/) [to](/en/post/to/) [the](/en/post/the/) doctor's [appointment](/en/post/appointment/), [despite](/en/post/despite/) [feeling](/en/post/feeling/) unwell."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) car's [engine](/en/post/engine/) sounded dragged [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [faulty](/en/post/faulty/) [spark](/en/post/spark/) [plug](/en/post/plug/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [gardener](/post/gardener/) dragged [the](/post/the/) hose [across](/post/across/) [the](/post/the/) [lawn](/post/lawn/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) dragged [himself](/post/himself/) [to](/post/to/) [the](/post/the/) doctor's [appointment](/post/appointment/), [despite](/post/despite/) [feeling](/post/feeling/) unwell."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) car's [engine](/post/engine/) sounded dragged [due](/post/due/) [to](/post/to/) [the](/post/the/) [faulty](/post/faulty/) [spark](/post/spark/) [plug](/post/plug/)."
 
 ## Synonyms
-- [Pull](/en/post/pull/)
+- [Pull](/post/pull/)
 - Tug
-- [Draw](/en/post/draw/)
+- [Draw](/post/draw/)
 -曳
 - Haul
 
 ## Antonyms
-- [Ease](/en/post/ease/)
-- [Glide](/en/post/glide/)
+- [Ease](/post/ease/)
+- [Glide](/post/glide/)
 - Swiftly
 - Effortlessly

@@ -12,23 +12,23 @@ keywords = ['ai words', 'law']
 
 ## 释义
 - **名词**:
-  - 法律，法规：[A](/post/a/) [set](/post/set/) [of](/post/of/) rules [or](/post/or/) principles governing [a](/post/a/) [specific](/post/specific/) [area](/post/area/) [or](/post/or/) [society](/post/society/). (一套管理特定领域或社会的规则或原则)
-  - 法学，法律学：[The](/post/the/) [study](/post/study/) [of](/post/of/) [law](/post/law/) [and](/post/and/) [its](/post/its/) [application](/post/application/). (法律及其应用的研究)
+  - 法律，法规：[A](/zh/post/a/) [set](/zh/post/set/) [of](/zh/post/of/) rules [or](/zh/post/or/) principles governing [a](/zh/post/a/) [specific](/zh/post/specific/) [area](/zh/post/area/) [or](/zh/post/or/) [society](/zh/post/society/). (一套管理特定领域或社会的规则或原则)
+  - 法学，法律学：[The](/zh/post/the/) [study](/zh/post/study/) [of](/zh/post/of/) [law](/zh/post/law/) [and](/zh/post/and/) [its](/zh/post/its/) [application](/zh/post/application/). (法律及其应用的研究)
 
 - **动词**:
-  - 遵守（法律）：[To](/post/to/) [act](/post/act/) [in](/post/in/) [accordance](/post/accordance/) [with](/post/with/) [the](/post/the/) [law](/post/law/). (按照法律行事)
+  - 遵守（法律）：[To](/zh/post/to/) [act](/zh/post/act/) [in](/zh/post/in/) [accordance](/zh/post/accordance/) [with](/zh/post/with/) [the](/zh/post/the/) [law](/zh/post/law/). (按照法律行事)
 
 ## 短语
-- "[the](/post/the/) [rule](/post/rule/) [of](/post/of/) [law](/post/law/)" 意为法治，即法律高于个人或政府机构。
-- "[law](/post/law/) [and](/post/and/) [order](/post/order/)" 通常指维护社会治安和稳定。
+- "[the](/zh/post/the/) [rule](/zh/post/rule/) [of](/zh/post/of/) [law](/zh/post/law/)" 意为法治，即法律高于个人或政府机构。
+- "[law](/zh/post/law/) [and](/zh/post/and/) [order](/zh/post/order/)" 通常指维护社会治安和稳定。
 
 ## 例句
-- 名词: "[The](/post/the/) [new](/post/new/) [law](/post/law/) aims [to](/post/to/) [protect](/post/protect/) consumers [from](/post/from/) [unfair](/post/unfair/) practices."
-- 动词: "Drivers [must](/post/must/) [law](/post/law/) [the](/post/the/) [speed](/post/speed/) [limit](/post/limit/) [on](/post/on/) highways."
+- 名词: "[The](/zh/post/the/) [new](/zh/post/new/) [law](/zh/post/law/) aims [to](/zh/post/to/) [protect](/zh/post/protect/) consumers [from](/zh/post/from/) [unfair](/zh/post/unfair/) practices."
+- 动词: "Drivers [must](/zh/post/must/) [law](/zh/post/law/) [the](/zh/post/the/) [speed](/zh/post/speed/) [limit](/zh/post/limit/) [on](/zh/post/on/) highways."
 
 ## 同义词
-- [regulation](/post/regulation/)
+- [regulation](/zh/post/regulation/)
 - statute
-- [code](/post/code/)
+- [code](/zh/post/code/)
 - ordinance
-- [act](/post/act/)
+- [act](/zh/post/act/)

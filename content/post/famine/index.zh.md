@@ -11,20 +11,20 @@ keywords = ['ai words', 'famine']
 /fəˈmiːn/
 
 ## 释义
-- **名词**: 大规模的饥饿；饥荒；粮食短缺。例如: "[The](/post/the/) [country](/post/country/) suffered [from](/post/from/) [a](/post/a/) [severe](/post/severe/) [famine](/post/famine/) [due](/post/due/) [to](/post/to/) [drought](/post/drought/)."
-- **形容词**: 极度缺乏的；饥饿的。例如: "[The](/post/the/) famine-stricken [people](/post/people/) were [desperate](/post/desperate/) [for](/post/for/) [food](/post/food/)."
+- **名词**: 大规模的饥饿；饥荒；粮食短缺。例如: "[The](/zh/post/the/) [country](/zh/post/country/) suffered [from](/zh/post/from/) [a](/zh/post/a/) [severe](/zh/post/severe/) [famine](/zh/post/famine/) [due](/zh/post/due/) [to](/zh/post/to/) [drought](/zh/post/drought/)."
+- **形容词**: 极度缺乏的；饥饿的。例如: "[The](/zh/post/the/) famine-stricken [people](/zh/post/people/) were [desperate](/zh/post/desperate/) [for](/zh/post/for/) [food](/zh/post/food/)."
 
 ## 短语
-- "[famine](/post/famine/) [relief](/post/relief/)" 饥荒救济
-- "[famine](/post/famine/) conditions" 饥荒状况
+- "[famine](/zh/post/famine/) [relief](/zh/post/relief/)" 饥荒救济
+- "[famine](/zh/post/famine/) conditions" 饥荒状况
 
 ## 例句
-- 名词: "[International](/post/international/) [aid](/post/aid/) organizations rushed [to](/post/to/) [provide](/post/provide/) [famine](/post/famine/) [relief](/post/relief/) [to](/post/to/) [the](/post/the/) affected regions."
-- 形容词: "[During](/post/during/) [the](/post/the/) [famine](/post/famine/) years, [many](/post/many/) [people](/post/people/) had [to](/post/to/) [resort](/post/resort/) [to](/post/to/) eating [wild](/post/wild/) plants [just](/post/just/) [to](/post/to/) [survive](/post/survive/)."
+- 名词: "[International](/zh/post/international/) [aid](/zh/post/aid/) organizations rushed [to](/zh/post/to/) [provide](/zh/post/provide/) [famine](/zh/post/famine/) [relief](/zh/post/relief/) [to](/zh/post/to/) [the](/zh/post/the/) affected regions."
+- 形容词: "[During](/zh/post/during/) [the](/zh/post/the/) [famine](/zh/post/famine/) years, [many](/zh/post/many/) [people](/zh/post/people/) had [to](/zh/post/to/) [resort](/zh/post/resort/) [to](/zh/post/to/) eating [wild](/zh/post/wild/) plants [just](/zh/post/just/) [to](/zh/post/to/) [survive](/zh/post/survive/)."
 
 ## 同义词
-- [Hunger](/post/hunger/)
+- [Hunger](/zh/post/hunger/)
 - Starvation
-- [Food](/post/food/) [shortage](/post/shortage/)
+- [Food](/zh/post/food/) [shortage](/zh/post/shortage/)
 - Scarcity
-- [Drought](/post/drought/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) causing [famine](/post/famine/))
+- [Drought](/zh/post/drought/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) causing [famine](/zh/post/famine/))

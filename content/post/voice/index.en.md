@@ -7,48 +7,48 @@ description = '[vɔis] n.说话声；意见；语态'
 keywords = ['ai words', 'voice']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /voʊs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Voice](/en/post/voice/)**: 1. [The](/en/post/the/) [sound](/en/post/sound/) produced [by](/en/post/by/) [a](/en/post/a/) person's vocal cords [when](/en/post/when/) speaking, [often](/en/post/often/) differentiated [by](/en/post/by/) gender, [tone](/en/post/tone/), [or](/en/post/or/) [accent](/en/post/accent/). [Example](/en/post/example/): "[Each](/en/post/each/) [child](/en/post/child/) had [a](/en/post/a/) [unique](/en/post/unique/) [voice](/en/post/voice/)."
-- 2. [A](/en/post/a/) distinctive [quality](/en/post/quality/) [or](/en/post/or/) [character](/en/post/character/) [that](/en/post/that/) distinguishes [one](/en/post/one/) person's [speech](/en/post/speech/) [from](/en/post/from/) [another](/en/post/another/). [Example](/en/post/example/): "[Her](/en/post/her/) [voice](/en/post/voice/) is [immediately](/en/post/immediately/) recognizable [on](/en/post/on/) [the](/en/post/the/) [phone](/en/post/phone/)."
-- 3. [A](/en/post/a/) person's [opinion](/en/post/opinion/) [or](/en/post/or/) [viewpoint](/en/post/viewpoint/). [Example](/en/post/example/): "Everyone's [voice](/en/post/voice/) [should](/en/post/should/) [be](/en/post/be/) heard [in](/en/post/in/) [the](/en/post/the/) decision-making [process](/en/post/process/)."
-- 4. (Computing) [The](/en/post/the/) [output](/en/post/output/) [from](/en/post/from/) [a](/en/post/a/) [computer](/en/post/computer/) [or](/en/post/or/) [device](/en/post/device/), [often](/en/post/often/) referring [to](/en/post/to/) [sound](/en/post/sound/) [or](/en/post/or/) [text](/en/post/text/). [Example](/en/post/example/): "[The](/en/post/the/) [voice](/en/post/voice/) [recognition](/en/post/recognition/) software accurately interpreted [his](/en/post/his/) commands."
+### [Noun](/post/noun/)
+- **[Voice](/post/voice/)**: 1. [The](/post/the/) [sound](/post/sound/) produced [by](/post/by/) [a](/post/a/) person's vocal cords [when](/post/when/) speaking, [often](/post/often/) differentiated [by](/post/by/) gender, [tone](/post/tone/), [or](/post/or/) [accent](/post/accent/). [Example](/post/example/): "[Each](/post/each/) [child](/post/child/) had [a](/post/a/) [unique](/post/unique/) [voice](/post/voice/)."
+- 2. [A](/post/a/) distinctive [quality](/post/quality/) [or](/post/or/) [character](/post/character/) [that](/post/that/) distinguishes [one](/post/one/) person's [speech](/post/speech/) [from](/post/from/) [another](/post/another/). [Example](/post/example/): "[Her](/post/her/) [voice](/post/voice/) is [immediately](/post/immediately/) recognizable [on](/post/on/) [the](/post/the/) [phone](/post/phone/)."
+- 3. [A](/post/a/) person's [opinion](/post/opinion/) [or](/post/or/) [viewpoint](/post/viewpoint/). [Example](/post/example/): "Everyone's [voice](/post/voice/) [should](/post/should/) [be](/post/be/) heard [in](/post/in/) [the](/post/the/) decision-making [process](/post/process/)."
+- 4. (Computing) [The](/post/the/) [output](/post/output/) [from](/post/from/) [a](/post/a/) [computer](/post/computer/) [or](/post/or/) [device](/post/device/), [often](/post/often/) referring [to](/post/to/) [sound](/post/sound/) [or](/post/or/) [text](/post/text/). [Example](/post/example/): "[The](/post/the/) [voice](/post/voice/) [recognition](/post/recognition/) software accurately interpreted [his](/post/his/) commands."
 
-### [Verb](/en/post/verb/)
-- **[Voice](/en/post/voice/)**: 1. [To](/en/post/to/) articulate [or](/en/post/or/) [express](/en/post/express/) (an [opinion](/en/post/opinion/), [thought](/en/post/thought/), [or](/en/post/or/) [feeling](/en/post/feeling/)). [Example](/en/post/example/): "[They](/en/post/they/) voiced [their](/en/post/their/) concerns [about](/en/post/about/) [the](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/)."
-- 2. [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [particular](/en/post/particular/) [quality](/en/post/quality/) [or](/en/post/or/) [character](/en/post/character/) [to](/en/post/to/) ([a](/en/post/a/) [sound](/en/post/sound/) [or](/en/post/or/) [instrument](/en/post/instrument/)). [Example](/en/post/example/): "[The](/en/post/the/) [singer](/en/post/singer/) trained [her](/en/post/her/) [voice](/en/post/voice/) [to](/en/post/to/) [reach](/en/post/reach/) higher notes."
-- 3. [In](/en/post/in/) [technical](/en/post/technical/) contexts, [to](/en/post/to/) [assign](/en/post/assign/) [or](/en/post/or/) [attribute](/en/post/attribute/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [responsibility](/en/post/responsibility/) [to](/en/post/to/) [a](/en/post/a/) [system](/en/post/system/) [or](/en/post/or/) mechanism. [Example](/en/post/example/): "[The](/en/post/the/) [system](/en/post/system/) voices notifications [when](/en/post/when/) [a](/en/post/a/) [new](/en/post/new/) email arrives."
+### [Verb](/post/verb/)
+- **[Voice](/post/voice/)**: 1. [To](/post/to/) articulate [or](/post/or/) [express](/post/express/) (an [opinion](/post/opinion/), [thought](/post/thought/), [or](/post/or/) [feeling](/post/feeling/)). [Example](/post/example/): "[They](/post/they/) voiced [their](/post/their/) concerns [about](/post/about/) [the](/post/the/) [new](/post/new/) [policy](/post/policy/)."
+- 2. [To](/post/to/) [give](/post/give/) [a](/post/a/) [particular](/post/particular/) [quality](/post/quality/) [or](/post/or/) [character](/post/character/) [to](/post/to/) ([a](/post/a/) [sound](/post/sound/) [or](/post/or/) [instrument](/post/instrument/)). [Example](/post/example/): "[The](/post/the/) [singer](/post/singer/) trained [her](/post/her/) [voice](/post/voice/) [to](/post/to/) [reach](/post/reach/) higher notes."
+- 3. [In](/post/in/) [technical](/post/technical/) contexts, [to](/post/to/) [assign](/post/assign/) [or](/post/or/) [attribute](/post/attribute/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [responsibility](/post/responsibility/) [to](/post/to/) [a](/post/a/) [system](/post/system/) [or](/post/or/) mechanism. [Example](/post/example/): "[The](/post/the/) [system](/post/system/) voices notifications [when](/post/when/) [a](/post/a/) [new](/post/new/) email arrives."
 
-### [Adjective](/en/post/adjective/)
-- **Voiced**: Referring [to](/en/post/to/) [a](/en/post/a/) [sound](/en/post/sound/) produced [with](/en/post/with/) [the](/en/post/the/) [help](/en/post/help/) [of](/en/post/of/) [the](/en/post/the/) vocal cords, [as](/en/post/as/) opposed [to](/en/post/to/) [a](/en/post/a/) [silent](/en/post/silent/) [or](/en/post/or/) unvoiced [sound](/en/post/sound/). [Example](/en/post/example/): "[A](/en/post/a/) voiced consonant [like](/en/post/like/) 'b' is easier [for](/en/post/for/) [some](/en/post/some/) [people](/en/post/people/) [to](/en/post/to/) [pronounce](/en/post/pronounce/) [than](/en/post/than/) an unvoiced [one](/en/post/one/) [like](/en/post/like/) 'h'."
+### [Adjective](/post/adjective/)
+- **Voiced**: Referring [to](/post/to/) [a](/post/a/) [sound](/post/sound/) produced [with](/post/with/) [the](/post/the/) [help](/post/help/) [of](/post/of/) [the](/post/the/) vocal cords, [as](/post/as/) opposed [to](/post/to/) [a](/post/a/) [silent](/post/silent/) [or](/post/or/) unvoiced [sound](/post/sound/). [Example](/post/example/): "[A](/post/a/) voiced consonant [like](/post/like/) 'b' is easier [for](/post/for/) [some](/post/some/) [people](/post/people/) [to](/post/to/) [pronounce](/post/pronounce/) [than](/post/than/) an unvoiced [one](/post/one/) [like](/post/like/) 'h'."
 
-### [Adverb](/en/post/adverb/)
-- ([rarely](/en/post/rarely/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/)) **Voicibly**: [In](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) heard [or](/en/post/or/) perceived [through](/en/post/through/) [the](/en/post/the/) [voice](/en/post/voice/). [Example](/en/post/example/): "[She](/en/post/she/) spoke voicibly [with](/en/post/with/) [emotion](/en/post/emotion/)."
+### [Adverb](/post/adverb/)
+- ([rarely](/post/rarely/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/)) **Voicibly**: [In](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) [can](/post/can/) [be](/post/be/) heard [or](/post/or/) perceived [through](/post/through/) [the](/post/the/) [voice](/post/voice/). [Example](/post/example/): "[She](/post/she/) spoke voicibly [with](/post/with/) [emotion](/post/emotion/)."
 
 ## Phrases
-- "[Speak](/en/post/speak/) [your](/en/post/your/) [voice](/en/post/voice/)" encourages expressing one's opinions [or](/en/post/or/) beliefs.
-- "Voiceless" refers [to](/en/post/to/) sounds made [without](/en/post/without/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [the](/en/post/the/) vocal cords, [like](/en/post/like/) whispering.
-- "Voiceover narration" is [when](/en/post/when/) [a](/en/post/a/) narrator's [voice](/en/post/voice/) is heard [without](/en/post/without/) [being](/en/post/being/) seen [on](/en/post/on/) [screen](/en/post/screen/).
+- "[Speak](/post/speak/) [your](/post/your/) [voice](/post/voice/)" encourages expressing one's opinions [or](/post/or/) beliefs.
+- "Voiceless" refers [to](/post/to/) sounds made [without](/post/without/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [the](/post/the/) vocal cords, [like](/post/like/) whispering.
+- "Voiceover narration" is [when](/post/when/) [a](/post/a/) narrator's [voice](/post/voice/) is heard [without](/post/without/) [being](/post/being/) seen [on](/post/on/) [screen](/post/screen/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [voice](/en/post/voice/) was filled [with](/en/post/with/) [sadness](/en/post/sadness/) [when](/en/post/when/) [she](/en/post/she/) shared [her](/en/post/her/) [story](/en/post/story/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) voiced [his](/en/post/his/) [agreement](/en/post/agreement/) [with](/en/post/with/) [the](/en/post/the/) [proposal](/en/post/proposal/) [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) unvoiced complaints led [to](/en/post/to/) [a](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [management](/en/post/management/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) recording featured [a](/en/post/a/) voicibly expressive [performance](/en/post/performance/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [voice](/post/voice/) was filled [with](/post/with/) [sadness](/post/sadness/) [when](/post/when/) [she](/post/she/) shared [her](/post/her/) [story](/post/story/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) voiced [his](/post/his/) [agreement](/post/agreement/) [with](/post/with/) [the](/post/the/) [proposal](/post/proposal/) [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) unvoiced complaints led [to](/post/to/) [a](/post/a/) [change](/post/change/) [in](/post/in/) [management](/post/management/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) recording featured [a](/post/a/) voicibly expressive [performance](/post/performance/)."
 
 ## Synonyms
-- [Tone](/en/post/tone/)
-- [Accent](/en/post/accent/)
-- [Sound](/en/post/sound/)
-- [Opinion](/en/post/opinion/)
-- [Perspective](/en/post/perspective/)
+- [Tone](/post/tone/)
+- [Accent](/post/accent/)
+- [Sound](/post/sound/)
+- [Opinion](/post/opinion/)
+- [Perspective](/post/perspective/)
 - Utterance
-- [Expression](/en/post/expression/)
-- [Feedback](/en/post/feedback/)
-- [Comment](/en/post/comment/)
-- [Statement](/en/post/statement/)
+- [Expression](/post/expression/)
+- [Feedback](/post/feedback/)
+- [Comment](/post/comment/)
+- [Statement](/post/statement/)
 - Audible
 - Vocalized

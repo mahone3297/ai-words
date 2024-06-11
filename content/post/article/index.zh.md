@@ -11,27 +11,27 @@ keywords = ['ai words', 'article']
 /ˈɑːrtɪkl/
 
 ## 释义
-- **名词 (n)**: 文章，论文；(报纸、杂志等中的)特写；(法律、条约等的)条款；冠词（[a](/post/a/), an, [the](/post/the/)）。
-    - 例如: "[She](/post/she/) wrote an [interesting](/post/interesting/) [article](/post/article/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/)."
-    - 例如: "[The](/post/the/) [contract](/post/contract/) contains [several](/post/several/) [important](/post/important/) articles."
-    - 例如: "[In](/post/in/) English, [we](/post/we/) [use](/post/use/) [the](/post/the/) [definite](/post/definite/) [article](/post/article/) '[the](/post/the/)' [before](/post/before/) [singular](/post/singular/) countable nouns."
+- **名词 (n)**: 文章，论文；(报纸、杂志等中的)特写；(法律、条约等的)条款；冠词（[a](/zh/post/a/), an, [the](/zh/post/the/)）。
+    - 例如: "[She](/zh/post/she/) wrote an [interesting](/zh/post/interesting/) [article](/zh/post/article/) [on](/zh/post/on/) [climate](/zh/post/climate/) [change](/zh/post/change/)."
+    - 例如: "[The](/zh/post/the/) [contract](/zh/post/contract/) contains [several](/zh/post/several/) [important](/zh/post/important/) articles."
+    - 例如: "[In](/zh/post/in/) English, [we](/zh/post/we/) [use](/zh/post/use/) [the](/zh/post/the/) [definite](/zh/post/definite/) [article](/zh/post/article/) '[the](/zh/post/the/)' [before](/zh/post/before/) [singular](/zh/post/singular/) countable nouns."
 
 - **形容词 (adj)**: 特定的，具体的；文章的；(商品)非必需品的。
-    - 例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [some](/post/some/) [new](/post/new/) [household](/post/household/) articles."
-    - 例如: "[This](/post/this/) is an [article](/post/article/) [of](/post/of/) [clothing](/post/clothing/) [that](/post/that/) [never](/post/never/) goes [out](/post/out/) [of](/post/of/) [style](/post/style/)."
+    - 例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [buy](/zh/post/buy/) [some](/zh/post/some/) [new](/zh/post/new/) [household](/zh/post/household/) articles."
+    - 例如: "[This](/zh/post/this/) is an [article](/zh/post/article/) [of](/zh/post/of/) [clothing](/zh/post/clothing/) [that](/zh/post/that/) [never](/zh/post/never/) goes [out](/zh/post/out/) [of](/zh/post/of/) [style](/zh/post/style/)."
 
 ## 短语
-- "An [article](/post/article/) [of](/post/of/) [faith](/post/faith/)" 指信仰的一个条目。
-- "Articles [of](/post/of/) incorporation" 在公司法中指的是公司章程。
-- "Articles [of](/post/of/) [agreement](/post/agreement/)" 指的是合同条款。
+- "An [article](/zh/post/article/) [of](/zh/post/of/) [faith](/zh/post/faith/)" 指信仰的一个条目。
+- "Articles [of](/zh/post/of/) incorporation" 在公司法中指的是公司章程。
+- "Articles [of](/zh/post/of/) [agreement](/zh/post/agreement/)" 指的是合同条款。
 
 ## 例句
-- 名词: "[The](/post/the/) magazine's latest [article](/post/article/) discusses [the](/post/the/) benefits [of](/post/of/) meditation."
-- 形容词: "[The](/post/the/) [store](/post/store/) sells [a](/post/a/) [variety](/post/variety/) [of](/post/of/) articles [for](/post/for/) [home](/post/home/) decoration."
+- 名词: "[The](/zh/post/the/) magazine's latest [article](/zh/post/article/) discusses [the](/zh/post/the/) benefits [of](/zh/post/of/) meditation."
+- 形容词: "[The](/zh/post/the/) [store](/zh/post/store/) sells [a](/zh/post/a/) [variety](/zh/post/variety/) [of](/zh/post/of/) articles [for](/zh/post/for/) [home](/zh/post/home/) decoration."
 
 ## 同义词
-- [Piece](/post/piece/)
-- [Composition](/post/composition/)
-- [Writing](/post/writing/)
-- [Essay](/post/essay/)
-- [Item](/post/item/)
+- [Piece](/zh/post/piece/)
+- [Composition](/zh/post/composition/)
+- [Writing](/zh/post/writing/)
+- [Essay](/zh/post/essay/)
+- [Item](/zh/post/item/)

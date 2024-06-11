@@ -11,20 +11,20 @@ keywords = ['ai words', 'speak']
 /speek/
 
 ## 释义
-- **动词**: 发出声音；说话；表达。例如: "[She](/post/she/) [can](/post/can/) [speak](/post/speak/) [three](/post/three/) languages fluently."
-- **名词**: 演讲；发言；谈话。例如: "[The](/post/the/) [politician](/post/politician/) gave [a](/post/a/) [powerful](/post/powerful/) [speech](/post/speech/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/)."
+- **动词**: 发出声音；说话；表达。例如: "[She](/zh/post/she/) [can](/zh/post/can/) [speak](/zh/post/speak/) [three](/zh/post/three/) languages fluently."
+- **名词**: 演讲；发言；谈话。例如: "[The](/zh/post/the/) [politician](/zh/post/politician/) gave [a](/zh/post/a/) [powerful](/zh/post/powerful/) [speech](/zh/post/speech/) [on](/zh/post/on/) [climate](/zh/post/climate/) [change](/zh/post/change/)."
 
 ## 短语
-- "[Speak](/post/speak/) [up](/post/up/)" 意味着提高音量以便别人能听见。
-- "[Speak](/post/speak/) [of](/post/of/) [the](/post/the/) [devil](/post/devil/)" 是一个习语，意思是提到某人时，此人恰好出现。
+- "[Speak](/zh/post/speak/) [up](/zh/post/up/)" 意味着提高音量以便别人能听见。
+- "[Speak](/zh/post/speak/) [of](/zh/post/of/) [the](/zh/post/the/) [devil](/zh/post/devil/)" 是一个习语，意思是提到某人时，此人恰好出现。
 
 ## 例句
-- 动词: "[Please](/post/please/) [speak](/post/speak/) [slowly](/post/slowly/) [so](/post/so/) I [can](/post/can/) [understand](/post/understand/) [you](/post/you/)."
-- 名词: "[He](/post/he/) was invited [to](/post/to/) [speak](/post/speak/) [at](/post/at/) [the](/post/the/) [conference](/post/conference/) [about](/post/about/) [his](/post/his/) [research](/post/research/)."
+- 动词: "[Please](/zh/post/please/) [speak](/zh/post/speak/) [slowly](/zh/post/slowly/) [so](/zh/post/so/) I [can](/zh/post/can/) [understand](/zh/post/understand/) [you](/zh/post/you/)."
+- 名词: "[He](/zh/post/he/) was invited [to](/zh/post/to/) [speak](/zh/post/speak/) [at](/zh/post/at/) [the](/zh/post/the/) [conference](/zh/post/conference/) [about](/zh/post/about/) [his](/zh/post/his/) [research](/zh/post/research/)."
 
 ## 同义词
-- [Talk](/post/talk/)
-- [Utter](/post/utter/)
-- [Express](/post/express/)
+- [Talk](/zh/post/talk/)
+- [Utter](/zh/post/utter/)
+- [Express](/zh/post/express/)
 - Chat
 - Discourse

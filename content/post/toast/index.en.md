@@ -7,35 +7,35 @@ description = 'n.祝酒；祝酒词'
 keywords = ['ai words', 'toast']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /təʊst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [food](/en/post/food/)**: [A](/en/post/a/) [slice](/en/post/slice/) [of](/en/post/of/) [bread](/en/post/bread/) [that](/en/post/that/) has been toasted, [often](/en/post/often/) served [with](/en/post/with/) [butter](/en/post/butter/), [jam](/en/post/jam/), [or](/en/post/or/) [cheese](/en/post/cheese/), [and](/en/post/and/) [sometimes](/en/post/sometimes/) [as](/en/post/as/) an accompaniment [to](/en/post/to/) meals.
-- **Toasting [ceremony](/en/post/ceremony/)**: [A](/en/post/a/) [formal](/en/post/formal/) [or](/en/post/or/) informal [event](/en/post/event/) [where](/en/post/where/) [a](/en/post/a/) [toast](/en/post/toast/) is made [to](/en/post/to/) honor [or](/en/post/or/) [celebrate](/en/post/celebrate/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/).
-- **Toastmaster**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) presides [over](/en/post/over/) [a](/en/post/a/) toast-making [session](/en/post/session/) [at](/en/post/at/) [a](/en/post/a/) gathering.
+### [Noun](/post/noun/)
+- **[A](/post/a/) [type](/post/type/) [of](/post/of/) [food](/post/food/)**: [A](/post/a/) [slice](/post/slice/) [of](/post/of/) [bread](/post/bread/) [that](/post/that/) has been toasted, [often](/post/often/) served [with](/post/with/) [butter](/post/butter/), [jam](/post/jam/), [or](/post/or/) [cheese](/post/cheese/), [and](/post/and/) [sometimes](/post/sometimes/) [as](/post/as/) an accompaniment [to](/post/to/) meals.
+- **Toasting [ceremony](/post/ceremony/)**: [A](/post/a/) [formal](/post/formal/) [or](/post/or/) informal [event](/post/event/) [where](/post/where/) [a](/post/a/) [toast](/post/toast/) is made [to](/post/to/) honor [or](/post/or/) [celebrate](/post/celebrate/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/).
+- **Toastmaster**: [A](/post/a/) [person](/post/person/) [who](/post/who/) presides [over](/post/over/) [a](/post/a/) toast-making [session](/post/session/) [at](/post/at/) [a](/post/a/) gathering.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [raise](/en/post/raise/) [a](/en/post/a/) [toast](/en/post/toast/)**: [To](/en/post/to/) [propose](/en/post/propose/) [a](/en/post/a/) [drink](/en/post/drink/) [or](/en/post/or/) [expression](/en/post/expression/) [of](/en/post/of/) goodwill [in](/en/post/in/) honor [of](/en/post/of/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/), [often](/en/post/often/) followed [by](/en/post/by/) clinking glasses.
-- **Toasted**: ([of](/en/post/of/) [bread](/en/post/bread/)) Grilled [or](/en/post/or/) browned [on](/en/post/on/) [one](/en/post/one/) [side](/en/post/side/), [as](/en/post/as/) [by](/en/post/by/) [exposure](/en/post/exposure/) [to](/en/post/to/) [heat](/en/post/heat/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [raise](/post/raise/) [a](/post/a/) [toast](/post/toast/)**: [To](/post/to/) [propose](/post/propose/) [a](/post/a/) [drink](/post/drink/) [or](/post/or/) [expression](/post/expression/) [of](/post/of/) goodwill [in](/post/in/) honor [of](/post/of/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/), [often](/post/often/) followed [by](/post/by/) clinking glasses.
+- **Toasted**: ([of](/post/of/) [bread](/post/bread/)) Grilled [or](/post/or/) browned [on](/post/on/) [one](/post/one/) [side](/post/side/), [as](/post/as/) [by](/post/by/) [exposure](/post/exposure/) [to](/post/to/) [heat](/post/heat/).
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [toast](/en/post/toast/)" [or](/en/post/or/) "[raise](/en/post/raise/) [a](/en/post/a/) [toast](/en/post/toast/)" [means](/en/post/means/) [to](/en/post/to/) [propose](/en/post/propose/) [a](/en/post/a/) [toast](/en/post/toast/).
-- "Cheers [to](/en/post/to/) [your](/en/post/your/) [health](/en/post/health/)/[to](/en/post/to/) [your](/en/post/your/) [success](/en/post/success/)/[to](/en/post/to/) [friendship](/en/post/friendship/)" are [common](/en/post/common/) toasts.
-- "Toasting someone's [birthday](/en/post/birthday/)" is [a](/en/post/a/) [tradition](/en/post/tradition/) [to](/en/post/to/) honor [a](/en/post/a/) [person](/en/post/person/) [on](/en/post/on/) [their](/en/post/their/) [special](/en/post/special/) [day](/en/post/day/).
+- "[Make](/post/make/) [a](/post/a/) [toast](/post/toast/)" [or](/post/or/) "[raise](/post/raise/) [a](/post/a/) [toast](/post/toast/)" [means](/post/means/) [to](/post/to/) [propose](/post/propose/) [a](/post/a/) [toast](/post/toast/).
+- "Cheers [to](/post/to/) [your](/post/your/) [health](/post/health/)/[to](/post/to/) [your](/post/your/) [success](/post/success/)/[to](/post/to/) [friendship](/post/friendship/)" are [common](/post/common/) toasts.
+- "Toasting someone's [birthday](/post/birthday/)" is [a](/post/a/) [tradition](/post/tradition/) [to](/post/to/) honor [a](/post/a/) [person](/post/person/) [on](/post/on/) [their](/post/their/) [special](/post/special/) [day](/post/day/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [put](/en/post/put/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [bread](/en/post/bread/) [in](/en/post/in/) [the](/en/post/the/) toaster [and](/en/post/and/) waited [for](/en/post/for/) [it](/en/post/it/) [to](/en/post/to/) [turn](/en/post/turn/) [golden](/en/post/golden/) [brown](/en/post/brown/)."
-- **[Verb](/en/post/verb/)**: "[At](/en/post/at/) [the](/en/post/the/) [wedding](/en/post/wedding/) [reception](/en/post/reception/), [the](/en/post/the/) [couple](/en/post/couple/) toasted [each](/en/post/each/) other's [love](/en/post/love/) [and](/en/post/and/) commitment."
-- **Toasting**: "Let's [raise](/en/post/raise/) [a](/en/post/a/) [glass](/en/post/glass/) [to](/en/post/to/) [our](/en/post/our/) [new](/en/post/new/) [business](/en/post/business/) [venture](/en/post/venture/), cheers!"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [put](/post/put/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [bread](/post/bread/) [in](/post/in/) [the](/post/the/) toaster [and](/post/and/) waited [for](/post/for/) [it](/post/it/) [to](/post/to/) [turn](/post/turn/) [golden](/post/golden/) [brown](/post/brown/)."
+- **[Verb](/post/verb/)**: "[At](/post/at/) [the](/post/the/) [wedding](/post/wedding/) [reception](/post/reception/), [the](/post/the/) [couple](/post/couple/) toasted [each](/post/each/) other's [love](/post/love/) [and](/post/and/) commitment."
+- **Toasting**: "Let's [raise](/post/raise/) [a](/post/a/) [glass](/post/glass/) [to](/post/to/) [our](/post/our/) [new](/post/new/) [business](/post/business/) [venture](/post/venture/), cheers!"
 
 ## Synonyms
-- [Salute](/en/post/salute/)
-- [Raise](/en/post/raise/) [a](/en/post/a/) [glass](/en/post/glass/)
+- [Salute](/post/salute/)
+- [Raise](/post/raise/) [a](/post/a/) [glass](/post/glass/)
 - Clink glasses
-- [Drink](/en/post/drink/) [to](/en/post/to/)
+- [Drink](/post/drink/) [to](/post/to/)
 - Honor
-- [Celebrate](/en/post/celebrate/)
+- [Celebrate](/post/celebrate/)
 
-## [Note](/en/post/note/): [In](/en/post/in/) [addition](/en/post/addition/) [to](/en/post/to/) [these](/en/post/these/) definitions, "[toast](/en/post/toast/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) metaphorically, referring [to](/en/post/to/) [praise](/en/post/praise/) [or](/en/post/or/) admiration expressed [in](/en/post/in/) words, [as](/en/post/as/) [in](/en/post/in/) "[He](/en/post/he/) was [the](/en/post/the/) [toast](/en/post/toast/) [of](/en/post/of/) [the](/en/post/the/) [town](/en/post/town/)."
+## [Note](/post/note/): [In](/post/in/) [addition](/post/addition/) [to](/post/to/) [these](/post/these/) definitions, "[toast](/post/toast/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) metaphorically, referring [to](/post/to/) [praise](/post/praise/) [or](/post/or/) admiration expressed [in](/post/in/) words, [as](/post/as/) [in](/post/in/) "[He](/post/he/) was [the](/post/the/) [toast](/post/toast/) [of](/post/of/) [the](/post/the/) [town](/post/town/)."

@@ -7,48 +7,48 @@ description = '[stænd] vi.站；坐落 n.架，台'
 keywords = ['ai words', 'stand']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈstænd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Stand](/en/post/stand/)**: 1. [A](/en/post/a/) raised [platform](/en/post/platform/), [usually](/en/post/usually/) [with](/en/post/with/) [a](/en/post/a/) backrest, [where](/en/post/where/) [someone](/en/post/someone/) [can](/en/post/can/) [place](/en/post/place/) [themselves](/en/post/themselves/) [to](/en/post/to/) [be](/en/post/be/) seen [or](/en/post/or/) [work](/en/post/work/). [Example](/en/post/example/): "[The](/en/post/the/) books are displayed [on](/en/post/on/) [tall](/en/post/tall/) stands [at](/en/post/at/) [the](/en/post/the/) [library](/en/post/library/)."
-- 2. [A](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [place](/en/post/place/) [where](/en/post/where/) [one](/en/post/one/) typically waits [or](/en/post/or/) performs an [action](/en/post/action/). [Example](/en/post/example/): "[He](/en/post/he/) took [his](/en/post/his/) [turn](/en/post/turn/) [at](/en/post/at/) [the](/en/post/the/) checkout [stand](/en/post/stand/)."
-- 3. [A](/en/post/a/) [point](/en/post/point/) [of](/en/post/of/) [view](/en/post/view/) [or](/en/post/or/) [opinion](/en/post/opinion/). [Example](/en/post/example/): "[Her](/en/post/her/) [perspective](/en/post/perspective/) [on](/en/post/on/) [the](/en/post/the/) [issue](/en/post/issue/) was [clear](/en/post/clear/) [from](/en/post/from/) [her](/en/post/her/) [moral](/en/post/moral/) [stand](/en/post/stand/)."
+### [Noun](/post/noun/)
+- **[Stand](/post/stand/)**: 1. [A](/post/a/) raised [platform](/post/platform/), [usually](/post/usually/) [with](/post/with/) [a](/post/a/) backrest, [where](/post/where/) [someone](/post/someone/) [can](/post/can/) [place](/post/place/) [themselves](/post/themselves/) [to](/post/to/) [be](/post/be/) seen [or](/post/or/) [work](/post/work/). [Example](/post/example/): "[The](/post/the/) books are displayed [on](/post/on/) [tall](/post/tall/) stands [at](/post/at/) [the](/post/the/) [library](/post/library/)."
+- 2. [A](/post/a/) [position](/post/position/) [or](/post/or/) [place](/post/place/) [where](/post/where/) [one](/post/one/) typically waits [or](/post/or/) performs an [action](/post/action/). [Example](/post/example/): "[He](/post/he/) took [his](/post/his/) [turn](/post/turn/) [at](/post/at/) [the](/post/the/) checkout [stand](/post/stand/)."
+- 3. [A](/post/a/) [point](/post/point/) [of](/post/of/) [view](/post/view/) [or](/post/or/) [opinion](/post/opinion/). [Example](/post/example/): "[Her](/post/her/) [perspective](/post/perspective/) [on](/post/on/) [the](/post/the/) [issue](/post/issue/) was [clear](/post/clear/) [from](/post/from/) [her](/post/her/) [moral](/post/moral/) [stand](/post/stand/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [stand](/en/post/stand/)**: 1. [To](/en/post/to/) [have](/en/post/have/) an [upright](/en/post/upright/) [position](/en/post/position/) [with](/en/post/with/) one's feet [on](/en/post/on/) [the](/en/post/the/) [ground](/en/post/ground/). [Example](/en/post/example/): "[She](/en/post/she/) stood [up](/en/post/up/) [straight](/en/post/straight/) [when](/en/post/when/) [she](/en/post/she/) heard [her](/en/post/her/) [name](/en/post/name/) called."
-- 2. [To](/en/post/to/) [remain](/en/post/remain/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [position](/en/post/position/) [without](/en/post/without/) moving. [Example](/en/post/example/): "[The](/en/post/the/) [statue](/en/post/statue/) stands [guard](/en/post/guard/) [at](/en/post/at/) [the](/en/post/the/) [entrance](/en/post/entrance/)."
-- 3. [To](/en/post/to/) [support](/en/post/support/) [or](/en/post/or/) uphold [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [law](/en/post/law/) stands [in](/en/post/in/) favor [of](/en/post/of/) [equal](/en/post/equal/) rights."
-- 4. [To](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) [side](/en/post/side/) [in](/en/post/in/) an [argument](/en/post/argument/) [or](/en/post/or/) [debate](/en/post/debate/). [Example](/en/post/example/): "[He](/en/post/he/) stands [by](/en/post/by/) [his](/en/post/his/) [decision](/en/post/decision/) [even](/en/post/even/) [though](/en/post/though/) others [disagree](/en/post/disagree/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [stand](/post/stand/)**: 1. [To](/post/to/) [have](/post/have/) an [upright](/post/upright/) [position](/post/position/) [with](/post/with/) one's feet [on](/post/on/) [the](/post/the/) [ground](/post/ground/). [Example](/post/example/): "[She](/post/she/) stood [up](/post/up/) [straight](/post/straight/) [when](/post/when/) [she](/post/she/) heard [her](/post/her/) [name](/post/name/) called."
+- 2. [To](/post/to/) [remain](/post/remain/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [position](/post/position/) [without](/post/without/) moving. [Example](/post/example/): "[The](/post/the/) [statue](/post/statue/) stands [guard](/post/guard/) [at](/post/at/) [the](/post/the/) [entrance](/post/entrance/)."
+- 3. [To](/post/to/) [support](/post/support/) [or](/post/or/) uphold [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [law](/post/law/) stands [in](/post/in/) favor [of](/post/of/) [equal](/post/equal/) rights."
+- 4. [To](/post/to/) [take](/post/take/) [a](/post/a/) [position](/post/position/) [or](/post/or/) [side](/post/side/) [in](/post/in/) an [argument](/post/argument/) [or](/post/or/) [debate](/post/debate/). [Example](/post/example/): "[He](/post/he/) stands [by](/post/by/) [his](/post/his/) [decision](/post/decision/) [even](/post/even/) [though](/post/though/) others [disagree](/post/disagree/)."
 
-### [Adjective](/en/post/adjective/)
-- **Standing**: 1. Existing [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [state](/en/post/state/) [or](/en/post/or/) [position](/en/post/position/). [Example](/en/post/example/): "[The](/en/post/the/) standing [water](/en/post/water/) collected [in](/en/post/in/) [the](/en/post/the/) puddle."
-- 2. [Permanently](/en/post/permanently/) established [or](/en/post/or/) recognized. [Example](/en/post/example/): "[His](/en/post/his/) [reputation](/en/post/reputation/) [as](/en/post/as/) [a](/en/post/a/) [skilled](/en/post/skilled/) [artist](/en/post/artist/) has [a](/en/post/a/) [strong](/en/post/strong/) standing."
+### [Adjective](/post/adjective/)
+- **Standing**: 1. Existing [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [state](/post/state/) [or](/post/or/) [position](/post/position/). [Example](/post/example/): "[The](/post/the/) standing [water](/post/water/) collected [in](/post/in/) [the](/post/the/) puddle."
+- 2. [Permanently](/post/permanently/) established [or](/post/or/) recognized. [Example](/post/example/): "[His](/post/his/) [reputation](/post/reputation/) [as](/post/as/) [a](/post/a/) [skilled](/post/skilled/) [artist](/post/artist/) has [a](/post/a/) [strong](/post/strong/) standing."
 
-### [Adverb](/en/post/adverb/)
-- **[Steadily](/en/post/steadily/)**: [In](/en/post/in/) [a](/en/post/a/) [stable](/en/post/stable/) [and](/en/post/and/) [consistent](/en/post/consistent/) [manner](/en/post/manner/). [Example](/en/post/example/): "[He](/en/post/he/) [steadily](/en/post/steadily/) increased [his](/en/post/his/) [speed](/en/post/speed/) [as](/en/post/as/) [he](/en/post/he/) ran."
+### [Adverb](/post/adverb/)
+- **[Steadily](/post/steadily/)**: [In](/post/in/) [a](/post/a/) [stable](/post/stable/) [and](/post/and/) [consistent](/post/consistent/) [manner](/post/manner/). [Example](/post/example/): "[He](/post/he/) [steadily](/post/steadily/) increased [his](/post/his/) [speed](/post/speed/) [as](/post/as/) [he](/post/he/) ran."
 
 ## Phrases
-- "[Stand](/en/post/stand/) [tall](/en/post/tall/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [strong](/en/post/strong/) [and](/en/post/and/) [confident](/en/post/confident/) posture.
-- "[Stand](/en/post/stand/) [out](/en/post/out/)" refers [to](/en/post/to/) [being](/en/post/being/) [noticeable](/en/post/noticeable/) [or](/en/post/or/) exceptional.
-- "[Stand](/en/post/stand/) [by](/en/post/by/)" implies readiness [to](/en/post/to/) [support](/en/post/support/) [or](/en/post/or/) [defend](/en/post/defend/).
-- "[Stand](/en/post/stand/) [up](/en/post/up/) [for](/en/post/for/)" [means](/en/post/means/) [to](/en/post/to/) [defend](/en/post/defend/) [or](/en/post/or/) [support](/en/post/support/) [someone](/en/post/someone/) [or](/en/post/or/) [a](/en/post/a/) [cause](/en/post/cause/).
+- "[Stand](/post/stand/) [tall](/post/tall/)" [means](/post/means/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [strong](/post/strong/) [and](/post/and/) [confident](/post/confident/) posture.
+- "[Stand](/post/stand/) [out](/post/out/)" refers [to](/post/to/) [being](/post/being/) [noticeable](/post/noticeable/) [or](/post/or/) exceptional.
+- "[Stand](/post/stand/) [by](/post/by/)" implies readiness [to](/post/to/) [support](/post/support/) [or](/post/or/) [defend](/post/defend/).
+- "[Stand](/post/stand/) [up](/post/up/) [for](/post/for/)" [means](/post/means/) [to](/post/to/) [defend](/post/defend/) [or](/post/or/) [support](/post/support/) [someone](/post/someone/) [or](/post/or/) [a](/post/a/) [cause](/post/cause/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) flowers are arranged [on](/en/post/on/) colorful stands [at](/en/post/at/) [the](/en/post/the/) [flower](/en/post/flower/) [market](/en/post/market/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) stood [firm](/en/post/firm/) [in](/en/post/in/) [his](/en/post/his/) [belief](/en/post/belief/), refusing [to](/en/post/to/) [back](/en/post/back/) [down](/en/post/down/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) standing ovation showed [the](/en/post/the/) audience's appreciation."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) stood [steadily](/en/post/steadily/) [on](/en/post/on/) [one](/en/post/one/) [leg](/en/post/leg/) [while](/en/post/while/) waiting [for](/en/post/for/) [her](/en/post/her/) [turn](/en/post/turn/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) flowers are arranged [on](/post/on/) colorful stands [at](/post/at/) [the](/post/the/) [flower](/post/flower/) [market](/post/market/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) stood [firm](/post/firm/) [in](/post/in/) [his](/post/his/) [belief](/post/belief/), refusing [to](/post/to/) [back](/post/back/) [down](/post/down/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) standing ovation showed [the](/post/the/) audience's appreciation."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) stood [steadily](/post/steadily/) [on](/post/on/) [one](/post/one/) [leg](/post/leg/) [while](/post/while/) waiting [for](/post/for/) [her](/post/her/) [turn](/post/turn/)."
 
 ## Synonyms
-- [Rise](/en/post/rise/)
-- [Rise](/en/post/rise/) [up](/en/post/up/)
-- [Erect](/en/post/erect/)
+- [Rise](/post/rise/)
+- [Rise](/post/rise/) [up](/post/up/)
+- [Erect](/post/erect/)
 - Posture
-- [Maintain](/en/post/maintain/)
-- [Support](/en/post/support/)
-- [Endure](/en/post/endure/)
-- [Position](/en/post/position/)
+- [Maintain](/post/maintain/)
+- [Support](/post/support/)
+- [Endure](/post/endure/)
+- [Position](/post/position/)
 - Elevate
-- [Hold](/en/post/hold/) ([oneself](/en/post/oneself/))
+- [Hold](/post/hold/) ([oneself](/post/oneself/))

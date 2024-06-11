@@ -7,42 +7,42 @@ description = '[ˈprivilidʒ] n.特权，优惠'
 keywords = ['ai words', 'privilege']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪˈvɪljəs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [special](/en/post/special/) [right](/en/post/right/) [or](/en/post/or/) [advantage](/en/post/advantage/) given [to](/en/post/to/) [someone](/en/post/someone/), [often](/en/post/often/) [by](/en/post/by/) [authority](/en/post/authority/) [or](/en/post/or/) [custom](/en/post/custom/). [Example](/en/post/example/): "[The](/en/post/the/) [privilege](/en/post/privilege/) [of](/en/post/of/) attending [the](/en/post/the/) exclusive [event](/en/post/event/) was reserved [for](/en/post/for/) VIPs."
-2. An honor [or](/en/post/or/) favor bestowed [upon](/en/post/upon/) [someone](/en/post/someone/). [Example](/en/post/example/): "[Being](/en/post/being/) chosen [for](/en/post/for/) [this](/en/post/this/) prestigious [research](/en/post/research/) [project](/en/post/project/) was [a](/en/post/a/) [great](/en/post/great/) [privilege](/en/post/privilege/)."
-3. Exclusive [or](/en/post/or/) favored [treatment](/en/post/treatment/). [Example](/en/post/example/): "[She](/en/post/she/) enjoyed [the](/en/post/the/) [privilege](/en/post/privilege/) [of](/en/post/of/) having [a](/en/post/a/) [personal](/en/post/personal/) [assistant](/en/post/assistant/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [special](/post/special/) [right](/post/right/) [or](/post/or/) [advantage](/post/advantage/) given [to](/post/to/) [someone](/post/someone/), [often](/post/often/) [by](/post/by/) [authority](/post/authority/) [or](/post/or/) [custom](/post/custom/). [Example](/post/example/): "[The](/post/the/) [privilege](/post/privilege/) [of](/post/of/) attending [the](/post/the/) exclusive [event](/post/event/) was reserved [for](/post/for/) VIPs."
+2. An honor [or](/post/or/) favor bestowed [upon](/post/upon/) [someone](/post/someone/). [Example](/post/example/): "[Being](/post/being/) chosen [for](/post/for/) [this](/post/this/) prestigious [research](/post/research/) [project](/post/project/) was [a](/post/a/) [great](/post/great/) [privilege](/post/privilege/)."
+3. Exclusive [or](/post/or/) favored [treatment](/post/treatment/). [Example](/post/example/): "[She](/post/she/) enjoyed [the](/post/the/) [privilege](/post/privilege/) [of](/post/of/) having [a](/post/a/) [personal](/post/personal/) [assistant](/post/assistant/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [have](/en/post/have/) [or](/en/post/or/) [exercise](/en/post/exercise/) [a](/en/post/a/) [special](/en/post/special/) [right](/en/post/right/) [or](/en/post/or/) [advantage](/en/post/advantage/). [Example](/en/post/example/): "[They](/en/post/they/) were privileged [to](/en/post/to/) [witness](/en/post/witness/) [the](/en/post/the/) signing [of](/en/post/of/) [the](/en/post/the/) [treaty](/en/post/treaty/)."
-2. [To](/en/post/to/) [enjoy](/en/post/enjoy/) [a](/en/post/a/) [certain](/en/post/certain/) [benefit](/en/post/benefit/) [or](/en/post/or/) [status](/en/post/status/). [Example](/en/post/example/): "Students [at](/en/post/at/) [this](/en/post/this/) [school](/en/post/school/) are privileged [with](/en/post/with/) [access](/en/post/access/) [to](/en/post/to/) top-notch facilities."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [have](/post/have/) [or](/post/or/) [exercise](/post/exercise/) [a](/post/a/) [special](/post/special/) [right](/post/right/) [or](/post/or/) [advantage](/post/advantage/). [Example](/post/example/): "[They](/post/they/) were privileged [to](/post/to/) [witness](/post/witness/) [the](/post/the/) signing [of](/post/of/) [the](/post/the/) [treaty](/post/treaty/)."
+2. [To](/post/to/) [enjoy](/post/enjoy/) [a](/post/a/) [certain](/post/certain/) [benefit](/post/benefit/) [or](/post/or/) [status](/post/status/). [Example](/post/example/): "Students [at](/post/at/) [this](/post/this/) [school](/post/school/) are privileged [with](/post/with/) [access](/post/access/) [to](/post/to/) top-notch facilities."
 
 ## Phrases
-- "[Take](/en/post/take/) [advantage](/en/post/advantage/) [of](/en/post/of/) [a](/en/post/a/) [privilege](/en/post/privilege/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [use](/en/post/use/) [of](/en/post/of/) [a](/en/post/a/) [special](/en/post/special/) [right](/en/post/right/) [or](/en/post/or/) [opportunity](/en/post/opportunity/).
-- "[Without](/en/post/without/) [privilege](/en/post/privilege/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [not](/en/post/not/) [available](/en/post/available/) [or](/en/post/or/) accessible [to](/en/post/to/) [everyone](/en/post/everyone/).
-- "Enjoying [equal](/en/post/equal/) privileges" signifies fairness [and](/en/post/and/) [equality](/en/post/equality/) [in](/en/post/in/) [treatment](/en/post/treatment/).
+- "[Take](/post/take/) [advantage](/post/advantage/) [of](/post/of/) [a](/post/a/) [privilege](/post/privilege/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [use](/post/use/) [of](/post/of/) [a](/post/a/) [special](/post/special/) [right](/post/right/) [or](/post/or/) [opportunity](/post/opportunity/).
+- "[Without](/post/without/) [privilege](/post/privilege/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is [not](/post/not/) [available](/post/available/) [or](/post/or/) accessible [to](/post/to/) [everyone](/post/everyone/).
+- "Enjoying [equal](/post/equal/) privileges" signifies fairness [and](/post/and/) [equality](/post/equality/) [in](/post/in/) [treatment](/post/treatment/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Having [access](/en/post/access/) [to](/en/post/to/) [the](/en/post/the/) library's [rare](/en/post/rare/) books was [a](/en/post/a/) [privilege](/en/post/privilege/) [for](/en/post/for/) [the](/en/post/the/) scholars."
-- **[Verb](/en/post/verb/)**: "[Not](/en/post/not/) [everyone](/en/post/everyone/) is priviledged [with](/en/post/with/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [travel](/en/post/travel/) [the](/en/post/the/) [world](/en/post/world/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) children were treated [with](/en/post/with/) [all](/en/post/all/) [the](/en/post/the/) privileges befitting [their](/en/post/their/) [noble](/en/post/noble/) [birth](/en/post/birth/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Having [access](/post/access/) [to](/post/to/) [the](/post/the/) library's [rare](/post/rare/) books was [a](/post/a/) [privilege](/post/privilege/) [for](/post/for/) [the](/post/the/) scholars."
+- **[Verb](/post/verb/)**: "[Not](/post/not/) [everyone](/post/everyone/) is priviledged [with](/post/with/) [the](/post/the/) [ability](/post/ability/) [to](/post/to/) [travel](/post/travel/) [the](/post/the/) [world](/post/world/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) children were treated [with](/post/with/) [all](/post/all/) [the](/post/the/) privileges befitting [their](/post/their/) [noble](/post/noble/) [birth](/post/birth/)."
 
 ## Synonyms
-- [Advantage](/en/post/advantage/)
+- [Advantage](/post/advantage/)
 - Exemption
 - Favor
 - Immunity
-- [Liberty](/en/post/liberty/)
-- [Special](/en/post/special/) [treatment](/en/post/treatment/)
-- [Exception](/en/post/exception/)
+- [Liberty](/post/liberty/)
+- [Special](/post/special/) [treatment](/post/treatment/)
+- [Exception](/post/exception/)
 
 ## Antonyms
-- [Disadvantage](/en/post/disadvantage/)
+- [Disadvantage](/post/disadvantage/)
 - Constraint
 - Inequality
-- [Lack](/en/post/lack/)
+- [Lack](/post/lack/)
 - Oppression
-- [Restriction](/en/post/restriction/)
+- [Restriction](/post/restriction/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'greet']
 /griːt/
 
 ## 释义
-- **动词**: 向某人问候或打招呼。例如: "[He](/post/he/) greeted [her](/post/her/) [with](/post/with/) [a](/post/a/) [smile](/post/smile/)."
-- **名词**: 问候的行为或表达问候的话语。例如: "[They](/post/they/) exchanged [friendly](/post/friendly/) greetings."
+- **动词**: 向某人问候或打招呼。例如: "[He](/zh/post/he/) greeted [her](/zh/post/her/) [with](/zh/post/with/) [a](/zh/post/a/) [smile](/zh/post/smile/)."
+- **名词**: 问候的行为或表达问候的话语。例如: "[They](/zh/post/they/) exchanged [friendly](/zh/post/friendly/) greetings."
 
 ## 短语
-- "[Greet](/post/greet/) [someone](/post/someone/) warmly" 热情地问候某人。
-- "[Greet](/post/greet/) [the](/post/the/) [day](/post/day/)" 意味着以积极的态度迎接新的一天。
+- "[Greet](/zh/post/greet/) [someone](/zh/post/someone/) warmly" 热情地问候某人。
+- "[Greet](/zh/post/greet/) [the](/zh/post/the/) [day](/zh/post/day/)" 意味着以积极的态度迎接新的一天。
 
 ## 例句
-- 动词: "[She](/post/she/) greeted [him](/post/him/) [with](/post/with/) [a](/post/a/) hug [when](/post/when/) [he](/post/he/) arrived."
-- 名词: "[The](/post/the/) receptionist's [job](/post/job/) is [to](/post/to/) [greet](/post/greet/) guests [as](/post/as/) [they](/post/they/) [enter](/post/enter/)."
+- 动词: "[She](/zh/post/she/) greeted [him](/zh/post/him/) [with](/zh/post/with/) [a](/zh/post/a/) hug [when](/zh/post/when/) [he](/zh/post/he/) arrived."
+- 名词: "[The](/zh/post/the/) receptionist's [job](/zh/post/job/) is [to](/zh/post/to/) [greet](/zh/post/greet/) guests [as](/zh/post/as/) [they](/zh/post/they/) [enter](/zh/post/enter/)."
 
 ## 同义词
-- [Welcome](/post/welcome/)
-- [Salute](/post/salute/)
+- [Welcome](/zh/post/welcome/)
+- [Salute](/zh/post/salute/)
 - Hail
 - Acknowledge
-- Bid [farewell](/post/farewell/) (反义词)
+- Bid [farewell](/zh/post/farewell/) (反义词)

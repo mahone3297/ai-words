@@ -11,20 +11,20 @@ keywords = ['ai words', 'now']
 /naʊ/
 
 ## 释义
-- **副词**: 表示现在的时间或强调当前的状态。例如: "I am [busy](/post/busy/) [now](/post/now/)." 
-- **连词**: 引导时间状语从句，表示在某一时刻或时间段。例如: "[Now](/post/now/), let's [talk](/post/talk/) [about](/post/about/) [the](/post/the/) [plan](/post/plan/)."
+- **副词**: 表示现在的时间或强调当前的状态。例如: "I am [busy](/zh/post/busy/) [now](/zh/post/now/)." 
+- **连词**: 引导时间状语从句，表示在某一时刻或时间段。例如: "[Now](/zh/post/now/), let's [talk](/zh/post/talk/) [about](/zh/post/about/) [the](/zh/post/the/) [plan](/zh/post/plan/)."
 
 ## 短语
-- "[Right](/post/right/) [now](/post/now/)" 意为"此刻"或"马上"，例如: "I [need](/post/need/) [your](/post/your/) [help](/post/help/) [right](/post/right/) [now](/post/now/)."
-- "[As](/post/as/) [of](/post/of/) [now](/post/now/)" 表示"从现在起"，例如: "[As](/post/as/) [of](/post/of/) [now](/post/now/), [we](/post/we/) [will](/post/will/) [be](/post/be/) working [on](/post/on/) [this](/post/this/) [project](/post/project/) [together](/post/together/)."
+- "[Right](/zh/post/right/) [now](/zh/post/now/)" 意为"此刻"或"马上"，例如: "I [need](/zh/post/need/) [your](/zh/post/your/) [help](/zh/post/help/) [right](/zh/post/right/) [now](/zh/post/now/)."
+- "[As](/zh/post/as/) [of](/zh/post/of/) [now](/zh/post/now/)" 表示"从现在起"，例如: "[As](/zh/post/as/) [of](/zh/post/of/) [now](/zh/post/now/), [we](/zh/post/we/) [will](/zh/post/will/) [be](/zh/post/be/) working [on](/zh/post/on/) [this](/zh/post/this/) [project](/zh/post/project/) [together](/zh/post/together/)."
 
 ## 例句
-- 副词: "It's raining [now](/post/now/), [so](/post/so/) [take](/post/take/) an [umbrella](/post/umbrella/) [with](/post/with/) [you](/post/you/)."
-- 连词: "[Now](/post/now/) [that](/post/that/) [everyone](/post/everyone/) is [here](/post/here/), [we](/post/we/) [can](/post/can/) [start](/post/start/) [the](/post/the/) [meeting](/post/meeting/)."
+- 副词: "It's raining [now](/zh/post/now/), [so](/zh/post/so/) [take](/zh/post/take/) an [umbrella](/zh/post/umbrella/) [with](/zh/post/with/) [you](/zh/post/you/)."
+- 连词: "[Now](/zh/post/now/) [that](/zh/post/that/) [everyone](/zh/post/everyone/) is [here](/zh/post/here/), [we](/zh/post/we/) [can](/zh/post/can/) [start](/zh/post/start/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
 
 ## 同义词
 - Currently
-- [At](/post/at/) [present](/post/present/)
-- [Immediately](/post/immediately/)
-- [Straight](/post/straight/) [away](/post/away/)
-- [In](/post/in/) [the](/post/the/) [present](/post/present/) [moment](/post/moment/)
+- [At](/zh/post/at/) [present](/zh/post/present/)
+- [Immediately](/zh/post/immediately/)
+- [Straight](/zh/post/straight/) [away](/zh/post/away/)
+- [In](/zh/post/in/) [the](/zh/post/the/) [present](/zh/post/present/) [moment](/zh/post/moment/)

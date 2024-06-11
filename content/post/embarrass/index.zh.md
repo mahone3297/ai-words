@@ -12,20 +12,20 @@ keywords = ['ai words', 'embarrass']
 
 ## 释义
 - **动词**:
-  - 使尴尬，使难堪。例如: "[She](/post/she/) felt embarrassed [when](/post/when/) [she](/post/she/) spilled [coffee](/post/coffee/) [on](/post/on/) [her](/post/her/) [dress](/post/dress/)."
-  - 使困窘，使局促不安。例如: "[The](/post/the/) [unexpected](/post/unexpected/) [question](/post/question/) embarrassed [the](/post/the/) [speaker](/post/speaker/)."
+  - 使尴尬，使难堪。例如: "[She](/zh/post/she/) felt embarrassed [when](/zh/post/when/) [she](/zh/post/she/) spilled [coffee](/zh/post/coffee/) [on](/zh/post/on/) [her](/zh/post/her/) [dress](/zh/post/dress/)."
+  - 使困窘，使局促不安。例如: "[The](/zh/post/the/) [unexpected](/zh/post/unexpected/) [question](/zh/post/question/) embarrassed [the](/zh/post/the/) [speaker](/zh/post/speaker/)."
 
 ## 短语
-- "[embarrass](/post/embarrass/) [someone](/post/someone/) [into](/post/into/) doing [something](/post/something/)" 让某人因为尴尬而做某事。例如: "[The](/post/the/) [teacher](/post/teacher/) embarrassed [him](/post/him/) [into](/post/into/) apologizing."
-- "embarrassing [situation](/post/situation/)" 尴尬的情况。例如: "[She](/post/she/) [found](/post/found/) [herself](/post/herself/) [in](/post/in/) an embarrassing [situation](/post/situation/) [when](/post/when/) [her](/post/her/) zipper broke."
+- "[embarrass](/zh/post/embarrass/) [someone](/zh/post/someone/) [into](/zh/post/into/) doing [something](/zh/post/something/)" 让某人因为尴尬而做某事。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) embarrassed [him](/zh/post/him/) [into](/zh/post/into/) apologizing."
+- "embarrassing [situation](/zh/post/situation/)" 尴尬的情况。例如: "[She](/zh/post/she/) [found](/zh/post/found/) [herself](/zh/post/herself/) [in](/zh/post/in/) an embarrassing [situation](/zh/post/situation/) [when](/zh/post/when/) [her](/zh/post/her/) zipper broke."
 
 ## 例句
-- "[His](/post/his/) [constant](/post/constant/) teasing embarrassed [his](/post/his/) younger [sister](/post/sister/)."
-- "[She](/post/she/) tried [not](/post/not/) [to](/post/to/) [show](/post/show/) [how](/post/how/) embarrassed [she](/post/she/) was [by](/post/by/) [the](/post/the/) [mistake](/post/mistake/)."
+- "[His](/zh/post/his/) [constant](/zh/post/constant/) teasing embarrassed [his](/zh/post/his/) younger [sister](/zh/post/sister/)."
+- "[She](/zh/post/she/) tried [not](/zh/post/not/) [to](/zh/post/to/) [show](/zh/post/show/) [how](/zh/post/how/) embarrassed [she](/zh/post/she/) was [by](/zh/post/by/) [the](/zh/post/the/) [mistake](/zh/post/mistake/)."
 
 ## 同义词
-- [Awkward](/post/awkward/)
+- [Awkward](/zh/post/awkward/)
 - Inconvenient
-- [Uncomfortable](/post/uncomfortable/)
+- [Uncomfortable](/zh/post/uncomfortable/)
 - Self-conscious
 - Mortify

@@ -11,19 +11,19 @@ keywords = ['ai words', 'submarine']
 /ˌsʌbˈmɪrɪn/
 
 ## 释义
-- **名词 (n)**: 一种能在水下操作和航行的船只，通常用于军事或科研目的。例如: "[The](/post/the/) [submarine](/post/submarine/) sank [the](/post/the/) [enemy](/post/enemy/) [ship](/post/ship/) [with](/post/with/) [a](/post/a/) torpedo."
-- **形容词 (adj)**: 潜水的，水下的。例如: "[The](/post/the/) [submarine](/post/submarine/) species [live](/post/live/) [in](/post/in/) [the](/post/the/) [deep](/post/deep/) [ocean](/post/ocean/)."
+- **名词 (n)**: 一种能在水下操作和航行的船只，通常用于军事或科研目的。例如: "[The](/zh/post/the/) [submarine](/zh/post/submarine/) sank [the](/zh/post/the/) [enemy](/zh/post/enemy/) [ship](/zh/post/ship/) [with](/zh/post/with/) [a](/zh/post/a/) torpedo."
+- **形容词 (adj)**: 潜水的，水下的。例如: "[The](/zh/post/the/) [submarine](/zh/post/submarine/) species [live](/zh/post/live/) [in](/zh/post/in/) [the](/zh/post/the/) [deep](/zh/post/deep/) [ocean](/zh/post/ocean/)."
 
 ## 短语
-- "[Submarine](/post/submarine/) warfare" 指的是在水下进行的战斗活动。
-- "[Submarine](/post/submarine/) [cable](/post/cable/)" 指海底电缆，用于电信传输。
+- "[Submarine](/zh/post/submarine/) warfare" 指的是在水下进行的战斗活动。
+- "[Submarine](/zh/post/submarine/) [cable](/zh/post/cable/)" 指海底电缆，用于电信传输。
 
 ## 例句
-- 名词: "[The](/post/the/) [captain](/post/captain/) [of](/post/of/) [the](/post/the/) [submarine](/post/submarine/) led [his](/post/his/) [crew](/post/crew/) [on](/post/on/) [a](/post/a/) [daring](/post/daring/) [mission](/post/mission/)."
-- 形容词: "[The](/post/the/) underwater explorers discovered [a](/post/a/) fascinating [world](/post/world/) [in](/post/in/) [the](/post/the/) [submarine](/post/submarine/) depths."
+- 名词: "[The](/zh/post/the/) [captain](/zh/post/captain/) [of](/zh/post/of/) [the](/zh/post/the/) [submarine](/zh/post/submarine/) led [his](/zh/post/his/) [crew](/zh/post/crew/) [on](/zh/post/on/) [a](/zh/post/a/) [daring](/zh/post/daring/) [mission](/zh/post/mission/)."
+- 形容词: "[The](/zh/post/the/) underwater explorers discovered [a](/zh/post/a/) fascinating [world](/zh/post/world/) [in](/zh/post/in/) [the](/zh/post/the/) [submarine](/zh/post/submarine/) depths."
 
 ## 同义词
 - Submersible
-- Underwater [vessel](/post/vessel/)
+- Underwater [vessel](/zh/post/vessel/)
 -潜水艇
 - 水下船

@@ -11,23 +11,23 @@ keywords = ['ai words', 'equal']
 /ˈiːkwəl/
 
 ## 释义
-- **形容词**: 相同的，等同的。例如: "[The](/post/the/) [two](/post/two/) sides [of](/post/of/) [the](/post/the/) [balance](/post/balance/) are [equal](/post/equal/) [in](/post/in/) [weight](/post/weight/)."
-- **动词**: 使相等，比得上。例如: "[Her](/post/her/) [talent](/post/talent/) equals [that](/post/that/) [of](/post/of/) [any](/post/any/) [professional](/post/professional/) [athlete](/post/athlete/)."
-- **名词**: 平等的人，相等物。例如: "[We](/post/we/) [should](/post/should/) [treat](/post/treat/) [all](/post/all/) [people](/post/people/) [as](/post/as/) equals."
+- **形容词**: 相同的，等同的。例如: "[The](/zh/post/the/) [two](/zh/post/two/) sides [of](/zh/post/of/) [the](/zh/post/the/) [balance](/zh/post/balance/) are [equal](/zh/post/equal/) [in](/zh/post/in/) [weight](/zh/post/weight/)."
+- **动词**: 使相等，比得上。例如: "[Her](/zh/post/her/) [talent](/zh/post/talent/) equals [that](/zh/post/that/) [of](/zh/post/of/) [any](/zh/post/any/) [professional](/zh/post/professional/) [athlete](/zh/post/athlete/)."
+- **名词**: 平等的人，相等物。例如: "[We](/zh/post/we/) [should](/zh/post/should/) [treat](/zh/post/treat/) [all](/zh/post/all/) [people](/zh/post/people/) [as](/zh/post/as/) equals."
 
 ## 短语
-- "[Equal](/post/equal/) rights" 意为平等的权利。
-- "[Be](/post/be/) [equal](/post/equal/) [to](/post/to/) [the](/post/the/) [task](/post/task/)" 意为胜任某项任务。
-- "[Equal](/post/equal/) [opportunity](/post/opportunity/)" 指的是平等的机会。
+- "[Equal](/zh/post/equal/) rights" 意为平等的权利。
+- "[Be](/zh/post/be/) [equal](/zh/post/equal/) [to](/zh/post/to/) [the](/zh/post/the/) [task](/zh/post/task/)" 意为胜任某项任务。
+- "[Equal](/zh/post/equal/) [opportunity](/zh/post/opportunity/)" 指的是平等的机会。
 
 ## 例句
-- 形容词: "Men [and](/post/and/) women [should](/post/should/) [have](/post/have/) [equal](/post/equal/) [pay](/post/pay/) [for](/post/for/) [equal](/post/equal/) [work](/post/work/)."
-- 动词: "[His](/post/his/) skills [equal](/post/equal/) [those](/post/those/) [of](/post/of/) [the](/post/the/) [best](/post/best/) players [in](/post/in/) [the](/post/the/) [league](/post/league/)."
-- 名词: "[Every](/post/every/) [citizen](/post/citizen/) is an [equal](/post/equal/) [in](/post/in/) [the](/post/the/) eyes [of](/post/of/) [the](/post/the/) [law](/post/law/)."
+- 形容词: "Men [and](/zh/post/and/) women [should](/zh/post/should/) [have](/zh/post/have/) [equal](/zh/post/equal/) [pay](/zh/post/pay/) [for](/zh/post/for/) [equal](/zh/post/equal/) [work](/zh/post/work/)."
+- 动词: "[His](/zh/post/his/) skills [equal](/zh/post/equal/) [those](/zh/post/those/) [of](/zh/post/of/) [the](/zh/post/the/) [best](/zh/post/best/) players [in](/zh/post/in/) [the](/zh/post/the/) [league](/zh/post/league/)."
+- 名词: "[Every](/zh/post/every/) [citizen](/zh/post/citizen/) is an [equal](/zh/post/equal/) [in](/zh/post/in/) [the](/zh/post/the/) eyes [of](/zh/post/of/) [the](/zh/post/the/) [law](/zh/post/law/)."
 
 ## 同义词
-- [Same](/post/same/)
-- [Identical](/post/identical/)
+- [Same](/zh/post/same/)
+- [Identical](/zh/post/identical/)
 - Comparable
-- [Equivalent](/post/equivalent/)
+- [Equivalent](/zh/post/equivalent/)
 - Parity

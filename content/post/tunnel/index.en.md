@@ -7,35 +7,35 @@ description = '[ˈtʌnl] n.隧道，坑道，地道'
 keywords = ['ai words', 'tunnel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tʌnəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [tunnel](/en/post/tunnel/)** is [a](/en/post/a/) [long](/en/post/long/), [underground](/en/post/underground/) passageway, typically dug [through](/en/post/through/) [earth](/en/post/earth/) [or](/en/post/or/) [rock](/en/post/rock/), designed [for](/en/post/for/) [the](/en/post/the/) [movement](/en/post/movement/) [of](/en/post/of/) [people](/en/post/people/), vehicles, [or](/en/post/or/) utilities.
-- [In](/en/post/in/) [architecture](/en/post/architecture/) [or](/en/post/or/) [engineering](/en/post/engineering/), [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) conduit [or](/en/post/or/) [passage](/en/post/passage/) [for](/en/post/for/) pipes [or](/en/post/or/) cables.
-- [In](/en/post/in/) figurative [usage](/en/post/usage/), [it](/en/post/it/) [may](/en/post/may/) denote [a](/en/post/a/) [channel](/en/post/channel/) [or](/en/post/or/) conduit [for](/en/post/for/) [something](/en/post/something/) [like](/en/post/like/) ideas [or](/en/post/or/) [information](/en/post/information/).
+### [Noun](/post/noun/)
+- **[A](/post/a/) [tunnel](/post/tunnel/)** is [a](/post/a/) [long](/post/long/), [underground](/post/underground/) passageway, typically dug [through](/post/through/) [earth](/post/earth/) [or](/post/or/) [rock](/post/rock/), designed [for](/post/for/) [the](/post/the/) [movement](/post/movement/) [of](/post/of/) [people](/post/people/), vehicles, [or](/post/or/) utilities.
+- [In](/post/in/) [architecture](/post/architecture/) [or](/post/or/) [engineering](/post/engineering/), [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) conduit [or](/post/or/) [passage](/post/passage/) [for](/post/for/) pipes [or](/post/or/) cables.
+- [In](/post/in/) figurative [usage](/post/usage/), [it](/post/it/) [may](/post/may/) denote [a](/post/a/) [channel](/post/channel/) [or](/post/or/) conduit [for](/post/for/) [something](/post/something/) [like](/post/like/) ideas [or](/post/or/) [information](/post/information/).
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) **[tunnel](/en/post/tunnel/)** [means](/en/post/means/) [to](/en/post/to/) excavate [a](/en/post/a/) [passage](/en/post/passage/), [usually](/en/post/usually/) [underground](/en/post/underground/), [usually](/en/post/usually/) [for](/en/post/for/) [transportation](/en/post/transportation/) [or](/en/post/or/) [communication](/en/post/communication/) purposes.
-- [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) creating [a](/en/post/a/) [path](/en/post/path/) [or](/en/post/or/) [passage](/en/post/passage/) [through](/en/post/through/) [a](/en/post/a/) [medium](/en/post/medium/), [such](/en/post/such/) [as](/en/post/as/) [data](/en/post/data/) tunnels [in](/en/post/in/) networking.
+### [Verb](/post/verb/)
+- [To](/post/to/) **[tunnel](/post/tunnel/)** [means](/post/means/) [to](/post/to/) excavate [a](/post/a/) [passage](/post/passage/), [usually](/post/usually/) [underground](/post/underground/), [usually](/post/usually/) [for](/post/for/) [transportation](/post/transportation/) [or](/post/or/) [communication](/post/communication/) purposes.
+- [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) creating [a](/post/a/) [path](/post/path/) [or](/post/or/) [passage](/post/passage/) [through](/post/through/) [a](/post/a/) [medium](/post/medium/), [such](/post/such/) [as](/post/as/) [data](/post/data/) tunnels [in](/post/in/) networking.
 
 ## Phrases
-- "[Tunnel](/en/post/tunnel/) [through](/en/post/through/) [the](/en/post/the/) [mountain](/en/post/mountain/)" describes [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) digging [a](/en/post/a/) [passage](/en/post/passage/) [through](/en/post/through/) [solid](/en/post/solid/) [rock](/en/post/rock/).
-- "[Traffic](/en/post/traffic/) tunnels" are infrastructures [found](/en/post/found/) [in](/en/post/in/) urban areas.
-- "[Data](/en/post/data/) tunneling" is [a](/en/post/a/) [method](/en/post/method/) [used](/en/post/used/) [to](/en/post/to/) securely [transmit](/en/post/transmit/) [data](/en/post/data/) [over](/en/post/over/) [the](/en/post/the/) internet.
+- "[Tunnel](/post/tunnel/) [through](/post/through/) [the](/post/the/) [mountain](/post/mountain/)" describes [the](/post/the/) [process](/post/process/) [of](/post/of/) digging [a](/post/a/) [passage](/post/passage/) [through](/post/through/) [solid](/post/solid/) [rock](/post/rock/).
+- "[Traffic](/post/traffic/) tunnels" are infrastructures [found](/post/found/) [in](/post/in/) urban areas.
+- "[Data](/post/data/) tunneling" is [a](/post/a/) [method](/post/method/) [used](/post/used/) [to](/post/to/) securely [transmit](/post/transmit/) [data](/post/data/) [over](/post/over/) [the](/post/the/) internet.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) workers were excavating [a](/en/post/a/) [new](/en/post/new/) subway [tunnel](/en/post/tunnel/) [beneath](/en/post/beneath/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Verb](/en/post/verb/)**: "The鼹鼠 tunneled [through](/en/post/through/) [the](/en/post/the/) [garden](/en/post/garden/), creating [a](/en/post/a/) [network](/en/post/network/) [of](/en/post/of/) paths."
-- **[Figure](/en/post/figure/) [of](/en/post/of/) [speech](/en/post/speech/)**: "[The](/en/post/the/) internet provides [a](/en/post/a/) [digital](/en/post/digital/) [tunnel](/en/post/tunnel/) [for](/en/post/for/) [people](/en/post/people/) [to](/en/post/to/) [share](/en/post/share/) ideas."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) workers were excavating [a](/post/a/) [new](/post/new/) subway [tunnel](/post/tunnel/) [beneath](/post/beneath/) [the](/post/the/) [city](/post/city/)."
+- **[Verb](/post/verb/)**: "The鼹鼠 tunneled [through](/post/through/) [the](/post/the/) [garden](/post/garden/), creating [a](/post/a/) [network](/post/network/) [of](/post/of/) paths."
+- **[Figure](/post/figure/) [of](/post/of/) [speech](/post/speech/)**: "[The](/post/the/) internet provides [a](/post/a/) [digital](/post/digital/) [tunnel](/post/tunnel/) [for](/post/for/) [people](/post/people/) [to](/post/to/) [share](/post/share/) ideas."
 
 ## Synonyms
 - Excavate
-- [Drill](/en/post/drill/)
-- [Dig](/en/post/dig/)
-- [Bore](/en/post/bore/)
+- [Drill](/post/drill/)
+- [Dig](/post/dig/)
+- [Bore](/post/bore/)
 -凿通
-- [Crawl](/en/post/crawl/) [space](/en/post/space/) (informal, referring [to](/en/post/to/) [a](/en/post/a/) [small](/en/post/small/) [tunnel](/en/post/tunnel/))
+- [Crawl](/post/crawl/) [space](/post/space/) (informal, referring [to](/post/to/) [a](/post/a/) [small](/post/small/) [tunnel](/post/tunnel/))
 - Passageway
-- [Corridor](/en/post/corridor/) ([less](/en/post/less/) [specific](/en/post/specific/) [to](/en/post/to/) an [underground](/en/post/underground/) context)
+- [Corridor](/post/corridor/) ([less](/post/less/) [specific](/post/specific/) [to](/post/to/) an [underground](/post/underground/) context)

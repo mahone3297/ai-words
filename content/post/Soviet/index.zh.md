@@ -11,20 +11,20 @@ keywords = ['ai words', 'Soviet']
 /ˈsoʊvʲɪt/
 
 ## 释义
-- **名词 (n)**: 苏联的简称，全称为“苏维埃社会主义共和国联盟”([Union](/post/union/) [of](/post/of/) Soviet [Socialist](/post/socialist/) Republics, USSR)，指1922年至1991年间存在于欧亚大陆上的联邦制社会主义国家。
+- **名词 (n)**: 苏联的简称，全称为“苏维埃社会主义共和国联盟”([Union](/zh/post/union/) [of](/zh/post/of/) Soviet [Socialist](/zh/post/socialist/) Republics, USSR)，指1922年至1991年间存在于欧亚大陆上的联邦制社会主义国家。
 
 ## 短语
-- "Soviet [Union](/post/union/)" 指苏联本身。
-- "Soviet [system](/post/system/)" 指苏联的政治和经济体系。
+- "Soviet [Union](/zh/post/union/)" 指苏联本身。
+- "Soviet [system](/zh/post/system/)" 指苏联的政治和经济体系。
 - "Soviet bloc" 指在冷战期间与苏联结盟的东欧国家。
 
 ## 例句
-- "[The](/post/the/) [collapse](/post/collapse/) [of](/post/of/) [the](/post/the/) Soviet [Union](/post/union/) marked [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [Cold](/post/cold/) [War](/post/war/)."
-- "[Many](/post/many/) changes occurred [in](/post/in/) [Eastern](/post/eastern/) Europe [after](/post/after/) [the](/post/the/) [fall](/post/fall/) [of](/post/of/) [the](/post/the/) Soviet regime."
+- "[The](/zh/post/the/) [collapse](/zh/post/collapse/) [of](/zh/post/of/) [the](/zh/post/the/) Soviet [Union](/zh/post/union/) marked [the](/zh/post/the/) [end](/zh/post/end/) [of](/zh/post/of/) [the](/zh/post/the/) [Cold](/zh/post/cold/) [War](/zh/post/war/)."
+- "[Many](/zh/post/many/) changes occurred [in](/zh/post/in/) [Eastern](/zh/post/eastern/) Europe [after](/zh/post/after/) [the](/zh/post/the/) [fall](/zh/post/fall/) [of](/zh/post/of/) [the](/zh/post/the/) Soviet regime."
 
 ## 同义词
 - USSR
-- [Communist](/post/communist/) Russia
-- [Red](/post/red/) [Empire](/post/empire/)
-- [Union](/post/union/) [of](/post/of/) [Socialist](/post/socialist/) Republics
-- Soviet [State](/post/state/)
+- [Communist](/zh/post/communist/) Russia
+- [Red](/zh/post/red/) [Empire](/zh/post/empire/)
+- [Union](/zh/post/union/) [of](/zh/post/of/) [Socialist](/zh/post/socialist/) Republics
+- Soviet [State](/zh/post/state/)

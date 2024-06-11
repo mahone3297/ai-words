@@ -7,30 +7,30 @@ description = '[dred] n.畏惧；恐怖 vt.惧怕'
 keywords = ['ai words', 'dread']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dred/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [great](/en/post/great/) apprehension, [fear](/en/post/fear/), [or](/en/post/or/) [anxiety](/en/post/anxiety/); [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) an [intense](/en/post/intense/) anticipation [of](/en/post/of/) [something](/en/post/something/) [unpleasant](/en/post/unpleasant/) [or](/en/post/or/) formidable. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [thought](/en/post/thought/) [of](/en/post/of/) [public](/en/post/public/) speaking fills [her](/en/post/her/) [with](/en/post/with/) [dread](/en/post/dread/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [anticipate](/en/post/anticipate/) [with](/en/post/with/) [great](/en/post/great/) [fear](/en/post/fear/) [or](/en/post/or/) [anxiety](/en/post/anxiety/); [to](/en/post/to/) [be](/en/post/be/) [afraid](/en/post/afraid/) [of](/en/post/of/) ([something](/en/post/something/) happening). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) dreads [the](/en/post/the/) [day](/en/post/day/) [when](/en/post/when/) [she](/en/post/she/) has [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [speech](/en/post/speech/) [in](/en/post/in/) [front](/en/post/front/) [of](/en/post/of/) [a](/en/post/a/) [large](/en/post/large/) [audience](/en/post/audience/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [great](/post/great/) apprehension, [fear](/post/fear/), [or](/post/or/) [anxiety](/post/anxiety/); [often](/post/often/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) an [intense](/post/intense/) anticipation [of](/post/of/) [something](/post/something/) [unpleasant](/post/unpleasant/) [or](/post/or/) formidable. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [thought](/post/thought/) [of](/post/of/) [public](/post/public/) speaking fills [her](/post/her/) [with](/post/with/) [dread](/post/dread/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [anticipate](/post/anticipate/) [with](/post/with/) [great](/post/great/) [fear](/post/fear/) [or](/post/or/) [anxiety](/post/anxiety/); [to](/post/to/) [be](/post/be/) [afraid](/post/afraid/) [of](/post/of/) ([something](/post/something/) happening). [For](/post/for/) [example](/post/example/): "[She](/post/she/) dreads [the](/post/the/) [day](/post/day/) [when](/post/when/) [she](/post/she/) has [to](/post/to/) [give](/post/give/) [a](/post/a/) [speech](/post/speech/) [in](/post/in/) [front](/post/front/) [of](/post/of/) [a](/post/a/) [large](/post/large/) [audience](/post/audience/)."
 
 ## Phrases
-- "[Dread](/en/post/dread/) [of](/en/post/of/) [something](/en/post/something/)": [A](/en/post/a/) [strong](/en/post/strong/) [fear](/en/post/fear/) [or](/en/post/or/) aversion towards [something](/en/post/something/), e.g., "[He](/en/post/he/) has [a](/en/post/a/) [dread](/en/post/dread/) [of](/en/post/of/) heights."
-- "[In](/en/post/in/) [dread](/en/post/dread/) [of](/en/post/of/)": [Feeling](/en/post/feeling/) [fearful](/en/post/fearful/) [about](/en/post/about/) [something](/en/post/something/) [that](/en/post/that/) [might](/en/post/might/) [happen](/en/post/happen/), e.g., "[She](/en/post/she/) was [in](/en/post/in/) [dread](/en/post/dread/) [of](/en/post/of/) facing [her](/en/post/her/) [boss](/en/post/boss/) [after](/en/post/after/) making [the](/en/post/the/) [mistake](/en/post/mistake/)."
-- "Dreadful": An [adjective](/en/post/adjective/) derived [from](/en/post/from/) "[dread](/en/post/dread/)" [which](/en/post/which/) [means](/en/post/means/) [extremely](/en/post/extremely/) [bad](/en/post/bad/) [or](/en/post/or/) [unpleasant](/en/post/unpleasant/), e.g., "[The](/en/post/the/) [weather](/en/post/weather/) [forecast](/en/post/forecast/) predicts [a](/en/post/a/) dreadful [storm](/en/post/storm/) [tonight](/en/post/tonight/)."
+- "[Dread](/post/dread/) [of](/post/of/) [something](/post/something/)": [A](/post/a/) [strong](/post/strong/) [fear](/post/fear/) [or](/post/or/) aversion towards [something](/post/something/), e.g., "[He](/post/he/) has [a](/post/a/) [dread](/post/dread/) [of](/post/of/) heights."
+- "[In](/post/in/) [dread](/post/dread/) [of](/post/of/)": [Feeling](/post/feeling/) [fearful](/post/fearful/) [about](/post/about/) [something](/post/something/) [that](/post/that/) [might](/post/might/) [happen](/post/happen/), e.g., "[She](/post/she/) was [in](/post/in/) [dread](/post/dread/) [of](/post/of/) facing [her](/post/her/) [boss](/post/boss/) [after](/post/after/) making [the](/post/the/) [mistake](/post/mistake/)."
+- "Dreadful": An [adjective](/post/adjective/) derived [from](/post/from/) "[dread](/post/dread/)" [which](/post/which/) [means](/post/means/) [extremely](/post/extremely/) [bad](/post/bad/) [or](/post/or/) [unpleasant](/post/unpleasant/), e.g., "[The](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/) predicts [a](/post/a/) dreadful [storm](/post/storm/) [tonight](/post/tonight/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [prospect](/en/post/prospect/) [of](/en/post/of/) [a](/en/post/a/) [long](/en/post/long/), [dark](/en/post/dark/) [winter](/en/post/winter/) filled [her](/en/post/her/) [with](/en/post/with/) [dread](/en/post/dread/)."
-- **[Verb](/en/post/verb/)**: "I [dread](/en/post/dread/) going [to](/en/post/to/) [the](/en/post/the/) dentist, [even](/en/post/even/) [though](/en/post/though/) I [know](/en/post/know/) it's [important](/en/post/important/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [prospect](/post/prospect/) [of](/post/of/) [a](/post/a/) [long](/post/long/), [dark](/post/dark/) [winter](/post/winter/) filled [her](/post/her/) [with](/post/with/) [dread](/post/dread/)."
+- **[Verb](/post/verb/)**: "I [dread](/post/dread/) going [to](/post/to/) [the](/post/the/) dentist, [even](/post/even/) [though](/post/though/) I [know](/post/know/) it's [important](/post/important/)."
 
 ## Synonyms
-- [Fear](/en/post/fear/)
-- [Anxiety](/en/post/anxiety/)
+- [Fear](/post/fear/)
+- [Anxiety](/post/anxiety/)
 - Apprehension
-- [Terror](/en/post/terror/)
-- [Horror](/en/post/horror/)
+- [Terror](/post/terror/)
+- [Horror](/post/horror/)
 - Misgiving
 - Unease
-- [Worry](/en/post/worry/)
-- [Concern](/en/post/concern/)
-- Anticipation ([in](/en/post/in/) [a](/en/post/a/) [negative](/en/post/negative/) [sense](/en/post/sense/))
+- [Worry](/post/worry/)
+- [Concern](/post/concern/)
+- Anticipation ([in](/post/in/) [a](/post/a/) [negative](/post/negative/) [sense](/post/sense/))

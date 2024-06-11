@@ -7,28 +7,28 @@ description = '[ˈkɔnstənt] a.经常的；永恒的'
 keywords = ['ai words', 'constant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈstnt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Remaining unchanged [or](/en/post/or/) unaltered; [steady](/en/post/steady/) [or](/en/post/or/) [regular](/en/post/regular/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) is constantly [sunny](/en/post/sunny/) [today](/en/post/today/)."
-- **[Adjective](/en/post/adjective/)**: 2. Characterized [by](/en/post/by/) persistence [or](/en/post/or/) recurrence; [continual](/en/post/continual/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [constant](/en/post/constant/) efforts paid [off](/en/post/off/) [in](/en/post/in/) [the](/en/post/the/) [end](/en/post/end/)."
-- **[Noun](/en/post/noun/)**: An uninterrupted [or](/en/post/or/) unchanging [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [constant](/en/post/constant/) hum [of](/en/post/of/) [the](/en/post/the/) [traffic](/en/post/traffic/) was annoying."
+- **[Adjective](/post/adjective/)**: 1. Remaining unchanged [or](/post/or/) unaltered; [steady](/post/steady/) [or](/post/or/) [regular](/post/regular/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) is constantly [sunny](/post/sunny/) [today](/post/today/)."
+- **[Adjective](/post/adjective/)**: 2. Characterized [by](/post/by/) persistence [or](/post/or/) recurrence; [continual](/post/continual/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [constant](/post/constant/) efforts paid [off](/post/off/) [in](/post/in/) [the](/post/the/) [end](/post/end/)."
+- **[Noun](/post/noun/)**: An uninterrupted [or](/post/or/) unchanging [state](/post/state/) [or](/post/or/) [quality](/post/quality/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [constant](/post/constant/) hum [of](/post/of/) [the](/post/the/) [traffic](/post/traffic/) was annoying."
 
 ## Phrases
-- "[Constant](/en/post/constant/) [change](/en/post/change/)" refers [to](/en/post/to/) [frequent](/en/post/frequent/) alterations [or](/en/post/or/) transformations.
-- "[In](/en/post/in/) [constant](/en/post/constant/) [motion](/en/post/motion/)" [means](/en/post/means/) [never](/en/post/never/) stopping [or](/en/post/or/) [at](/en/post/at/) [rest](/en/post/rest/).
-- "[A](/en/post/a/) [constant](/en/post/constant/) [presence](/en/post/presence/)" [means](/en/post/means/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [that](/en/post/that/) is [always](/en/post/always/) [there](/en/post/there/).
+- "[Constant](/post/constant/) [change](/post/change/)" refers [to](/post/to/) [frequent](/post/frequent/) alterations [or](/post/or/) transformations.
+- "[In](/post/in/) [constant](/post/constant/) [motion](/post/motion/)" [means](/post/means/) [never](/post/never/) stopping [or](/post/or/) [at](/post/at/) [rest](/post/rest/).
+- "[A](/post/a/) [constant](/post/constant/) [presence](/post/presence/)" [means](/post/means/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [that](/post/that/) is [always](/post/always/) [there](/post/there/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) (1)**: "[She](/en/post/she/) maintained [a](/en/post/a/) [constant](/en/post/constant/) [smile](/en/post/smile/) [throughout](/en/post/throughout/) [the](/en/post/the/) presentation."
-- **[Adjective](/en/post/adjective/) (2)**: "[His](/en/post/his/) [constant](/en/post/constant/) [support](/en/post/support/) kept [me](/en/post/me/) motivated [during](/en/post/during/) [tough](/en/post/tough/) times."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [constant](/en/post/constant/) buzz [of](/en/post/of/) [activity](/en/post/activity/) [in](/en/post/in/) [the](/en/post/the/) [office](/en/post/office/) [never](/en/post/never/) ceased."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) (1)**: "[She](/post/she/) maintained [a](/post/a/) [constant](/post/constant/) [smile](/post/smile/) [throughout](/post/throughout/) [the](/post/the/) presentation."
+- **[Adjective](/post/adjective/) (2)**: "[His](/post/his/) [constant](/post/constant/) [support](/post/support/) kept [me](/post/me/) motivated [during](/post/during/) [tough](/post/tough/) times."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [constant](/post/constant/) buzz [of](/post/of/) [activity](/post/activity/) [in](/post/in/) [the](/post/the/) [office](/post/office/) [never](/post/never/) ceased."
 
 ## Synonyms
 - Unwavering
-- [Steady](/en/post/steady/)
-- [Regular](/en/post/regular/)
+- [Steady](/post/steady/)
+- [Regular](/post/regular/)
 - Persistent
 - Repeated
 - Uninterrupted
@@ -36,8 +36,8 @@ keywords = ['ai words', 'constant']
 
 ## Antonyms
 - Fluctuating
-- [Irregular](/en/post/irregular/)
+- [Irregular](/post/irregular/)
 - Inconstant
-- [Variable](/en/post/variable/)
+- [Variable](/post/variable/)
 - Fickle
 - Unpredictable

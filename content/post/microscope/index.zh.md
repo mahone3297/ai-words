@@ -11,20 +11,20 @@ keywords = ['ai words', 'microscope']
 /maɪˈskrəʊsəʊp/
 
 ## 释义
-- **名词**: 一种精密仪器，用来放大微小物体，使细节可见。常用于科学实验和医学研究。例如: "[The](/post/the/) biologist [used](/post/used/) [a](/post/a/) [microscope](/post/microscope/) [to](/post/to/) [study](/post/study/) [the](/post/the/) cells."
-- **动词**: 使用显微镜进行观察。例如: "[She](/post/she/) microscoped [the](/post/the/) [slide](/post/slide/) [to](/post/to/) [examine](/post/examine/) [the](/post/the/) [bacteria](/post/bacteria/)."
+- **名词**: 一种精密仪器，用来放大微小物体，使细节可见。常用于科学实验和医学研究。例如: "[The](/zh/post/the/) biologist [used](/zh/post/used/) [a](/zh/post/a/) [microscope](/zh/post/microscope/) [to](/zh/post/to/) [study](/zh/post/study/) [the](/zh/post/the/) cells."
+- **动词**: 使用显微镜进行观察。例如: "[She](/zh/post/she/) microscoped [the](/zh/post/the/) [slide](/zh/post/slide/) [to](/zh/post/to/) [examine](/zh/post/examine/) [the](/zh/post/the/) [bacteria](/zh/post/bacteria/)."
 
 ## 短语
-- "[under](/post/under/) [the](/post/the/) [microscope](/post/microscope/)" 意为仔细检查或严密审视。例如: "[Their](/post/their/) [work](/post/work/) is currently [under](/post/under/) [the](/post/the/) [microscope](/post/microscope/) [for](/post/for/) [quality](/post/quality/) [control](/post/control/)."
-- "microscopic details" 指极其微小的细节。例如: "[The](/post/the/) [artist](/post/artist/) captured [even](/post/even/) [the](/post/the/) microscopic details [of](/post/of/) [the](/post/the/) [flower](/post/flower/)."
+- "[under](/zh/post/under/) [the](/zh/post/the/) [microscope](/zh/post/microscope/)" 意为仔细检查或严密审视。例如: "[Their](/zh/post/their/) [work](/zh/post/work/) is currently [under](/zh/post/under/) [the](/zh/post/the/) [microscope](/zh/post/microscope/) [for](/zh/post/for/) [quality](/zh/post/quality/) [control](/zh/post/control/)."
+- "microscopic details" 指极其微小的细节。例如: "[The](/zh/post/the/) [artist](/zh/post/artist/) captured [even](/zh/post/even/) [the](/zh/post/the/) microscopic details [of](/zh/post/of/) [the](/zh/post/the/) [flower](/zh/post/flower/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [student](/post/student/) borrowed [a](/post/a/) high-powered [microscope](/post/microscope/) [from](/post/from/) [the](/post/the/) [lab](/post/lab/)."
-- 动词: "[The](/post/the/) [scientist](/post/scientist/) microscoped [the](/post/the/) [sample](/post/sample/) [to](/post/to/) [identify](/post/identify/) [the](/post/the/) species."
+- 名词: "[The](/zh/post/the/) [student](/zh/post/student/) borrowed [a](/zh/post/a/) high-powered [microscope](/zh/post/microscope/) [from](/zh/post/from/) [the](/zh/post/the/) [lab](/zh/post/lab/)."
+- 动词: "[The](/zh/post/the/) [scientist](/zh/post/scientist/) microscoped [the](/zh/post/the/) [sample](/zh/post/sample/) [to](/zh/post/to/) [identify](/zh/post/identify/) [the](/zh/post/the/) species."
 
 ## 同义词
 - magnifier
-- [optical](/post/optical/) [microscope](/post/microscope/)
-- [compound](/post/compound/) [microscope](/post/microscope/)
-- [electron](/post/electron/) [microscope](/post/microscope/)
-- zoom [lens](/post/lens/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [digital](/post/digital/) zoom)
+- [optical](/zh/post/optical/) [microscope](/zh/post/microscope/)
+- [compound](/zh/post/compound/) [microscope](/zh/post/microscope/)
+- [electron](/zh/post/electron/) [microscope](/zh/post/microscope/)
+- zoom [lens](/zh/post/lens/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [digital](/zh/post/digital/) zoom)

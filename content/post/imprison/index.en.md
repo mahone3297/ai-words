@@ -7,36 +7,36 @@ description = '[imˈprizn] vt.关押，监禁；限制'
 keywords = ['ai words', 'imprison']
 +++
 
-## [Word](/en/post/word/): [Imprison](/en/post/imprison/)
+## [Word](/post/word/): [Imprison](/post/imprison/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪmˈprɪzn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [confine](/en/post/confine/) [someone](/en/post/someone/) [in](/en/post/in/) [a](/en/post/a/) [prison](/en/post/prison/) [or](/en/post/or/) [place](/en/post/place/) [them](/en/post/them/) [under](/en/post/under/) [arrest](/en/post/arrest/), typically [as](/en/post/as/) [a](/en/post/a/) [punishment](/en/post/punishment/) [for](/en/post/for/) [a](/en/post/a/) [crime](/en/post/crime/) [or](/en/post/or/) [for](/en/post/for/) detention pending [trial](/en/post/trial/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [confine](/post/confine/) [someone](/post/someone/) [in](/post/in/) [a](/post/a/) [prison](/post/prison/) [or](/post/or/) [place](/post/place/) [them](/post/them/) [under](/post/under/) [arrest](/post/arrest/), typically [as](/post/as/) [a](/post/a/) [punishment](/post/punishment/) [for](/post/for/) [a](/post/a/) [crime](/post/crime/) [or](/post/or/) [for](/post/for/) detention pending [trial](/post/trial/). 
 
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): [He](/en/post/he/) was imprisoned [for](/en/post/for/) [his](/en/post/his/) [role](/en/post/role/) [in](/en/post/in/) [the](/en/post/the/) fraud [scheme](/en/post/scheme/).
+  > [Example](/post/example/) [Sentence](/post/sentence/): [He](/post/he/) was imprisoned [for](/post/for/) [his](/post/his/) [role](/post/role/) [in](/post/in/) [the](/post/the/) fraud [scheme](/post/scheme/).
   
-- **[Noun](/en/post/noun/) (Derived [Form](/en/post/form/)): Imprisonment**
-  > [Definition](/en/post/definition/): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) confined [in](/en/post/in/) [a](/en/post/a/) [prison](/en/post/prison/); [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) imprisoned.
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): [His](/en/post/his/) [sentence](/en/post/sentence/) included [a](/en/post/a/) year's imprisonment.
+- **[Noun](/post/noun/) (Derived [Form](/post/form/)): Imprisonment**
+  > [Definition](/post/definition/): [The](/post/the/) [act](/post/act/) [of](/post/of/) [being](/post/being/) confined [in](/post/in/) [a](/post/a/) [prison](/post/prison/); [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) imprisoned.
+  > [Example](/post/example/) [Sentence](/post/sentence/): [His](/post/his/) [sentence](/post/sentence/) included [a](/post/a/) year's imprisonment.
 
 ## Phrases
-- "[To](/en/post/to/) [be](/en/post/be/) imprisoned": [To](/en/post/to/) [be](/en/post/be/) [put](/en/post/put/) [in](/en/post/in/) [jail](/en/post/jail/) [or](/en/post/or/) held [captive](/en/post/captive/).
-- "[Imprison](/en/post/imprison/) one's [mind](/en/post/mind/)": Figuratively, [to](/en/post/to/) [restrict](/en/post/restrict/) someone's thoughts [or](/en/post/or/) creativity.
-- "[Do](/en/post/do/) [time](/en/post/time/)": [To](/en/post/to/) [serve](/en/post/serve/) [a](/en/post/a/) [prison](/en/post/prison/) [sentence](/en/post/sentence/).
+- "[To](/post/to/) [be](/post/be/) imprisoned": [To](/post/to/) [be](/post/be/) [put](/post/put/) [in](/post/in/) [jail](/post/jail/) [or](/post/or/) held [captive](/post/captive/).
+- "[Imprison](/post/imprison/) one's [mind](/post/mind/)": Figuratively, [to](/post/to/) [restrict](/post/restrict/) someone's thoughts [or](/post/or/) creativity.
+- "[Do](/post/do/) [time](/post/time/)": [To](/post/to/) [serve](/post/serve/) [a](/post/a/) [prison](/post/prison/) [sentence](/post/sentence/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) accused was [immediately](/en/post/immediately/) imprisoned [after](/en/post/after/) [the](/en/post/the/) [court](/en/post/court/) pronounced [its](/en/post/its/) verdict."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [experience](/en/post/experience/) [during](/en/post/during/) [his](/en/post/his/) [long](/en/post/long/) years [of](/en/post/of/) imprisonment had profoundly changed [him](/en/post/him/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) accused was [immediately](/post/immediately/) imprisoned [after](/post/after/) [the](/post/the/) [court](/post/court/) pronounced [its](/post/its/) verdict."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [experience](/post/experience/) [during](/post/during/) [his](/post/his/) [long](/post/long/) years [of](/post/of/) imprisonment had profoundly changed [him](/post/him/)."
 
 ## Synonyms
 - Incarcerate
 - Detain
-- [Confine](/en/post/confine/)
-- [Jail](/en/post/jail/)
-- [Lock](/en/post/lock/) [up](/en/post/up/)
-- [Hold](/en/post/hold/) [captive](/en/post/captive/)
-- [Put](/en/post/put/) [behind](/en/post/behind/) bars
-- [Condemn](/en/post/condemn/) [to](/en/post/to/) [prison](/en/post/prison/)
-- [Sentence](/en/post/sentence/) [to](/en/post/to/) [prison](/en/post/prison/)
+- [Confine](/post/confine/)
+- [Jail](/post/jail/)
+- [Lock](/post/lock/) [up](/post/up/)
+- [Hold](/post/hold/) [captive](/post/captive/)
+- [Put](/post/put/) [behind](/post/behind/) bars
+- [Condemn](/post/condemn/) [to](/post/to/) [prison](/post/prison/)
+- [Sentence](/post/sentence/) [to](/post/to/) [prison](/post/prison/)

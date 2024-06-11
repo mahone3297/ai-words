@@ -7,29 +7,29 @@ description = '[ˈæθliːt] n.运动员；田径运动员'
 keywords = ['ai words', 'athlete']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæθlət/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-An **[athlete](/en/post/athlete/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is professionally [or](/en/post/or/) competitively engaged [in](/en/post/in/) sports, [especially](/en/post/especially/) [one](/en/post/one/) [who](/en/post/who/) displays exceptional [skill](/en/post/skill/) [or](/en/post/or/) [ability](/en/post/ability/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [physical](/en/post/physical/) [discipline](/en/post/discipline/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is [a](/en/post/a/) rising [star](/en/post/star/) [in](/en/post/in/) [the](/en/post/the/) gymnastics [world](/en/post/world/), aspiring [to](/en/post/to/) [become](/en/post/become/) an Olympic [athlete](/en/post/athlete/)."
+### [Noun](/post/noun/)
+An **[athlete](/post/athlete/)** is [a](/post/a/) [person](/post/person/) [who](/post/who/) is professionally [or](/post/or/) competitively engaged [in](/post/in/) sports, [especially](/post/especially/) [one](/post/one/) [who](/post/who/) displays exceptional [skill](/post/skill/) [or](/post/or/) [ability](/post/ability/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [physical](/post/physical/) [discipline](/post/discipline/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) is [a](/post/a/) rising [star](/post/star/) [in](/post/in/) [the](/post/the/) gymnastics [world](/post/world/), aspiring [to](/post/to/) [become](/post/become/) an Olympic [athlete](/post/athlete/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[athlete](/en/post/athlete/)** (informally) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) athletic activities [or](/en/post/or/) [participate](/en/post/participate/) [in](/en/post/in/) sports. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) has been [athlete](/en/post/athlete/) [training](/en/post/training/) [for](/en/post/for/) [the](/en/post/the/) marathon [for](/en/post/for/) months."
+### [Verb](/post/verb/)
+[To](/post/to/) **[athlete](/post/athlete/)** (informally) [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [engage](/post/engage/) [in](/post/in/) athletic activities [or](/post/or/) [participate](/post/participate/) [in](/post/in/) sports. [For](/post/for/) [example](/post/example/): "[He](/post/he/) has been [athlete](/post/athlete/) [training](/post/training/) [for](/post/for/) [the](/post/the/) marathon [for](/post/for/) months."
 
 ## Phrases
-- "Athlete's [performance](/en/post/performance/)" refers [to](/en/post/to/) [their](/en/post/their/) [physical](/en/post/physical/) prowess [during](/en/post/during/) [a](/en/post/a/) [competition](/en/post/competition/).
-- "She's an all-around [athlete](/en/post/athlete/)" highlights someone's versatility [in](/en/post/in/) [multiple](/en/post/multiple/) sports.
-- "[To](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [role](/en/post/role/) [model](/en/post/model/) [for](/en/post/for/) athletes" [means](/en/post/means/) [to](/en/post/to/) [inspire](/en/post/inspire/) others [through](/en/post/through/) one's dedication.
+- "Athlete's [performance](/post/performance/)" refers [to](/post/to/) [their](/post/their/) [physical](/post/physical/) prowess [during](/post/during/) [a](/post/a/) [competition](/post/competition/).
+- "She's an all-around [athlete](/post/athlete/)" highlights someone's versatility [in](/post/in/) [multiple](/post/multiple/) sports.
+- "[To](/post/to/) [be](/post/be/) [a](/post/a/) [role](/post/role/) [model](/post/model/) [for](/post/for/) athletes" [means](/post/means/) [to](/post/to/) [inspire](/post/inspire/) others [through](/post/through/) one's dedication.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) Olympic [athlete](/en/post/athlete/) won [a](/en/post/a/) [gold](/en/post/gold/) [medal](/en/post/medal/) [in](/en/post/in/) [the](/en/post/the/) 100-meter sprint."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) has been athlete'ing [since](/en/post/since/) [childhood](/en/post/childhood/), mastering [various](/en/post/various/) sports disciplines."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [young](/en/post/young/) athlete's dedication [to](/en/post/to/) [her](/en/post/her/) [craft](/en/post/craft/) is [truly](/en/post/truly/) admirable."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) Olympic [athlete](/post/athlete/) won [a](/post/a/) [gold](/post/gold/) [medal](/post/medal/) [in](/post/in/) [the](/post/the/) 100-meter sprint."
+- **[Verb](/post/verb/)**: "[He](/post/he/) has been athlete'ing [since](/post/since/) [childhood](/post/childhood/), mastering [various](/post/various/) sports disciplines."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [young](/post/young/) athlete's dedication [to](/post/to/) [her](/post/her/) [craft](/post/craft/) is [truly](/post/truly/) admirable."
 
 ## Synonyms
-- [Sportsman](/en/post/sportsman/)/[woman](/en/post/woman/)
-- [Player](/en/post/player/)
+- [Sportsman](/post/sportsman/)/[woman](/post/woman/)
+- [Player](/post/player/)
 - Competitor
 - Jock
 - Sportsperson
@@ -37,5 +37,5 @@ An **[athlete](/en/post/athlete/)** is [a](/en/post/a/) [person](/en/post/person
 
 ## Antonyms
 - Non-athlete
-- Couch [potato](/en/post/potato/)
+- Couch [potato](/post/potato/)
 - Spectator

@@ -7,29 +7,29 @@ description = '[veis] n.瓶，花瓶'
 keywords = ['ai words', 'vase']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vəz/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [container](/en/post/container/) [with](/en/post/with/) [a](/en/post/a/) [stem](/en/post/stem/) [and](/en/post/and/) [a](/en/post/a/) [wide](/en/post/wide/) [mouth](/en/post/mouth/), [often](/en/post/often/) made [of](/en/post/of/) ceramic [or](/en/post/or/) [glass](/en/post/glass/), [used](/en/post/used/) [for](/en/post/for/) holding flowers [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) decorative [item](/en/post/item/). [Example](/en/post/example/): "[The](/en/post/the/) antique [vase](/en/post/vase/) was [a](/en/post/a/) prized [possession](/en/post/possession/) [in](/en/post/in/) [the](/en/post/the/) [museum](/en/post/museum/)."
-- **[Verb](/en/post/verb/)**: (informal) [To](/en/post/to/) [place](/en/post/place/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [vase](/en/post/vase/), typically flowers. [Example](/en/post/example/): "I'll [put](/en/post/put/) [the](/en/post/the/) roses [in](/en/post/in/) [a](/en/post/a/) [vase](/en/post/vase/) [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [container](/post/container/) [with](/post/with/) [a](/post/a/) [stem](/post/stem/) [and](/post/and/) [a](/post/a/) [wide](/post/wide/) [mouth](/post/mouth/), [often](/post/often/) made [of](/post/of/) ceramic [or](/post/or/) [glass](/post/glass/), [used](/post/used/) [for](/post/for/) holding flowers [or](/post/or/) [as](/post/as/) [a](/post/a/) decorative [item](/post/item/). [Example](/post/example/): "[The](/post/the/) antique [vase](/post/vase/) was [a](/post/a/) prized [possession](/post/possession/) [in](/post/in/) [the](/post/the/) [museum](/post/museum/)."
+- **[Verb](/post/verb/)**: (informal) [To](/post/to/) [place](/post/place/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [vase](/post/vase/), typically flowers. [Example](/post/example/): "I'll [put](/post/put/) [the](/post/the/) roses [in](/post/in/) [a](/post/a/) [vase](/post/vase/) [on](/post/on/) [the](/post/the/) [table](/post/table/)."
 
 ## Phrases
-- "[Display](/en/post/display/) [a](/en/post/a/) [vase](/en/post/vase/)" [means](/en/post/means/) [to](/en/post/to/) [show](/en/post/show/) [off](/en/post/off/) [a](/en/post/a/) [vase](/en/post/vase/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) decoration.
-- "[Fill](/en/post/fill/) [a](/en/post/a/) [vase](/en/post/vase/) [with](/en/post/with/)" indicates [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) placing contents [inside](/en/post/inside/) [a](/en/post/a/) [vase](/en/post/vase/).
-- "[A](/en/post/a/) [vase](/en/post/vase/) [of](/en/post/of/) [fresh](/en/post/fresh/) flowers" is [a](/en/post/a/) [common](/en/post/common/) [description](/en/post/description/) [of](/en/post/of/) [a](/en/post/a/) decorative [arrangement](/en/post/arrangement/).
+- "[Display](/post/display/) [a](/post/a/) [vase](/post/vase/)" [means](/post/means/) [to](/post/to/) [show](/post/show/) [off](/post/off/) [a](/post/a/) [vase](/post/vase/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) decoration.
+- "[Fill](/post/fill/) [a](/post/a/) [vase](/post/vase/) [with](/post/with/)" indicates [the](/post/the/) [act](/post/act/) [of](/post/of/) placing contents [inside](/post/inside/) [a](/post/a/) [vase](/post/vase/).
+- "[A](/post/a/) [vase](/post/vase/) [of](/post/of/) [fresh](/post/fresh/) flowers" is [a](/post/a/) [common](/post/common/) [description](/post/description/) [of](/post/of/) [a](/post/a/) decorative [arrangement](/post/arrangement/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) placed [the](/en/post/the/) bouquet [of](/en/post/of/) lilies [in](/en/post/in/) [a](/en/post/a/) [tall](/en/post/tall/) [vase](/en/post/vase/) [on](/en/post/on/) [the](/en/post/the/) windowsill."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) filled [the](/en/post/the/) [vase](/en/post/vase/) [with](/en/post/with/) colorful wildflowers [from](/en/post/from/) [the](/en/post/the/) [garden](/en/post/garden/)."
-- "[The](/en/post/the/) [vase](/en/post/vase/) stood [empty](/en/post/empty/) [on](/en/post/on/) [the](/en/post/the/) mantelpiece, waiting [for](/en/post/for/) [some](/en/post/some/) flowers."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) placed [the](/post/the/) bouquet [of](/post/of/) lilies [in](/post/in/) [a](/post/a/) [tall](/post/tall/) [vase](/post/vase/) [on](/post/on/) [the](/post/the/) windowsill."
+- **[Verb](/post/verb/)**: "[He](/post/he/) filled [the](/post/the/) [vase](/post/vase/) [with](/post/with/) colorful wildflowers [from](/post/from/) [the](/post/the/) [garden](/post/garden/)."
+- "[The](/post/the/) [vase](/post/vase/) stood [empty](/post/empty/) [on](/post/on/) [the](/post/the/) mantelpiece, waiting [for](/post/for/) [some](/post/some/) flowers."
 
 ## Synonyms
 - Vasepiece
 - Urn
-- [Container](/en/post/container/)
+- [Container](/post/container/)
 - Floral holder
 - Decorative receptacle
 
 ## Antonyms
-- [None](/en/post/none/) ([since](/en/post/since/) [a](/en/post/a/) [vase](/en/post/vase/) serves [as](/en/post/as/) [a](/en/post/a/) [container](/en/post/container/) [and](/en/post/and/) is [generally](/en/post/generally/) [not](/en/post/not/) associated [with](/en/post/with/) opposites)
+- [None](/post/none/) ([since](/post/since/) [a](/post/a/) [vase](/post/vase/) serves [as](/post/as/) [a](/post/a/) [container](/post/container/) [and](/post/and/) is [generally](/post/generally/) [not](/post/not/) associated [with](/post/with/) opposites)

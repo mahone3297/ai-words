@@ -7,31 +7,31 @@ description = '[ˈsiksˈtiːn] num.十六，十六个'
 keywords = ['ai words', 'sixteen']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪksˈtiːn/
 
 ## Definitions
-- **Numeral**: [A](/en/post/a/) cardinal [number](/en/post/number/) indicating [the](/en/post/the/) [quantity](/en/post/quantity/) [or](/en/post/or/) [position](/en/post/position/) [between](/en/post/between/) [fifteen](/en/post/fifteen/) [and](/en/post/and/) [seventeen](/en/post/seventeen/). (16)
-- **[Adjective](/en/post/adjective/)**: Describing [a](/en/post/a/) [quantity](/en/post/quantity/) [or](/en/post/or/) [position](/en/post/position/) [as](/en/post/as/) [being](/en/post/being/) [the](/en/post/the/) sixteenth [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/). (e.g., [The](/en/post/the/) sixteenth [book](/en/post/book/) [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/).)
+- **Numeral**: [A](/post/a/) cardinal [number](/post/number/) indicating [the](/post/the/) [quantity](/post/quantity/) [or](/post/or/) [position](/post/position/) [between](/post/between/) [fifteen](/post/fifteen/) [and](/post/and/) [seventeen](/post/seventeen/). (16)
+- **[Adjective](/post/adjective/)**: Describing [a](/post/a/) [quantity](/post/quantity/) [or](/post/or/) [position](/post/position/) [as](/post/as/) [being](/post/being/) [the](/post/the/) sixteenth [in](/post/in/) [a](/post/a/) [series](/post/series/). (e.g., [The](/post/the/) sixteenth [book](/post/book/) [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/).)
 
 ## Phrases
-- "[At](/en/post/at/) [the](/en/post/the/) [age](/en/post/age/) [of](/en/post/of/) [sixteen](/en/post/sixteen/)" refers [to](/en/post/to/) someone's sixteenth [birthday](/en/post/birthday/) [or](/en/post/or/) [the](/en/post/the/) [corresponding](/en/post/corresponding/) developmental [stage](/en/post/stage/).
-- "[Sixteen](/en/post/sixteen/) candles" typically signifies [a](/en/post/a/) teenager's [sweet](/en/post/sweet/) [sixteen](/en/post/sixteen/) [party](/en/post/party/).
-- "[Sixteen](/en/post/sixteen/) years [old](/en/post/old/)" is [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [describe](/en/post/describe/) someone's [age](/en/post/age/).
+- "[At](/post/at/) [the](/post/the/) [age](/post/age/) [of](/post/of/) [sixteen](/post/sixteen/)" refers [to](/post/to/) someone's sixteenth [birthday](/post/birthday/) [or](/post/or/) [the](/post/the/) [corresponding](/post/corresponding/) developmental [stage](/post/stage/).
+- "[Sixteen](/post/sixteen/) candles" typically signifies [a](/post/a/) teenager's [sweet](/post/sweet/) [sixteen](/post/sixteen/) [party](/post/party/).
+- "[Sixteen](/post/sixteen/) years [old](/post/old/)" is [a](/post/a/) [way](/post/way/) [to](/post/to/) [describe](/post/describe/) someone's [age](/post/age/).
 
-## [Example](/en/post/example/) Sentences
-- **Numeral**: "[There](/en/post/there/) were [sixteen](/en/post/sixteen/) participants [in](/en/post/in/) [the](/en/post/the/) [race](/en/post/race/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sixteenth [chapter](/en/post/chapter/) covers [advanced](/en/post/advanced/) algebra topics."
-- "[She](/en/post/she/) turned [sixteen](/en/post/sixteen/) [last](/en/post/last/) [week](/en/post/week/) [and](/en/post/and/) received [her](/en/post/her/) driver's [license](/en/post/license/)."
+## [Example](/post/example/) Sentences
+- **Numeral**: "[There](/post/there/) were [sixteen](/post/sixteen/) participants [in](/post/in/) [the](/post/the/) [race](/post/race/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sixteenth [chapter](/post/chapter/) covers [advanced](/post/advanced/) algebra topics."
+- "[She](/post/she/) turned [sixteen](/post/sixteen/) [last](/post/last/) [week](/post/week/) [and](/post/and/) received [her](/post/her/) driver's [license](/post/license/)."
 
 ## Synonyms
 - 16
-- [Half](/en/post/half/) [a](/en/post/a/) [score](/en/post/score/)
-- [One](/en/post/one/) [and](/en/post/and/) [a](/en/post/a/) [half](/en/post/half/) [dozen](/en/post/dozen/)
-- [The](/en/post/the/) sixteenth
+- [Half](/post/half/) [a](/post/a/) [score](/post/score/)
+- [One](/post/one/) [and](/post/and/) [a](/post/a/) [half](/post/half/) [dozen](/post/dozen/)
+- [The](/post/the/) sixteenth
 - 16th
 
 ## Related Words
-- Teens ([as](/en/post/as/) [in](/en/post/in/) ages 13-19)
-- Adolescence ([the](/en/post/the/) developmental [stage](/en/post/stage/) [around](/en/post/around/) [sixteen](/en/post/sixteen/))
-- Quindecennial ([every](/en/post/every/) [fifteen](/en/post/fifteen/) years)
+- Teens ([as](/post/as/) [in](/post/in/) ages 13-19)
+- Adolescence ([the](/post/the/) developmental [stage](/post/stage/) [around](/post/around/) [sixteen](/post/sixteen/))
+- Quindecennial ([every](/post/every/) [fifteen](/post/fifteen/) years)

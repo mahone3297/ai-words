@@ -7,38 +7,38 @@ description = '[disˈpəuzəl] n.丢掉，处理，销毁'
 keywords = ['ai words', 'disposal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈspəʊzəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) getting [rid](/en/post/rid/) [of](/en/post/of/) [waste](/en/post/waste/) [or](/en/post/or/) unwanted items, typically [by](/en/post/by/) throwing [them](/en/post/them/) [away](/en/post/away/) [or](/en/post/or/) arranging [for](/en/post/for/) [their](/en/post/their/) [disposal](/en/post/disposal/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) has [a](/en/post/a/) [program](/en/post/program/) [for](/en/post/for/) [proper](/en/post/proper/) [waste](/en/post/waste/) [disposal](/en/post/disposal/)."
-2. [The](/en/post/the/) [method](/en/post/method/) [or](/en/post/or/) [place](/en/post/place/) [where](/en/post/where/) [something](/en/post/something/) is disposed [of](/en/post/of/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is researching eco-friendly methods [of](/en/post/of/) [disposal](/en/post/disposal/) [for](/en/post/for/) hazardous materials."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) getting [rid](/post/rid/) [of](/post/of/) [waste](/post/waste/) [or](/post/or/) unwanted items, typically [by](/post/by/) throwing [them](/post/them/) [away](/post/away/) [or](/post/or/) arranging [for](/post/for/) [their](/post/their/) [disposal](/post/disposal/).
+   - [Example](/post/example/): "[The](/post/the/) [city](/post/city/) has [a](/post/a/) [program](/post/program/) [for](/post/for/) [proper](/post/proper/) [waste](/post/waste/) [disposal](/post/disposal/)."
+2. [The](/post/the/) [method](/post/method/) [or](/post/or/) [place](/post/place/) [where](/post/where/) [something](/post/something/) is disposed [of](/post/of/).
+   - [Example](/post/example/): "[The](/post/the/) [company](/post/company/) is researching eco-friendly methods [of](/post/of/) [disposal](/post/disposal/) [for](/post/for/) hazardous materials."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [or](/en/post/or/) [manage](/en/post/manage/) ([waste](/en/post/waste/)) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [manner](/en/post/manner/), [often](/en/post/often/) implying [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) throwing [away](/en/post/away/) [or](/en/post/or/) getting [rid](/en/post/rid/) [of](/en/post/of/).
-   - [Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [dispose](/en/post/dispose/) [of](/en/post/of/) [the](/en/post/the/) [old](/en/post/old/) [electronics](/en/post/electronics/) responsibly."
-2. [To](/en/post/to/) [get](/en/post/get/) [rid](/en/post/rid/) [of](/en/post/of/), [particularly](/en/post/particularly/) [with](/en/post/with/) finality [or](/en/post/or/) definiteness.
-   - [Example](/en/post/example/): "[They](/en/post/they/) disposed [of](/en/post/of/) [the](/en/post/the/) outdated [equipment](/en/post/equipment/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [deal](/post/deal/) [with](/post/with/) [or](/post/or/) [manage](/post/manage/) ([waste](/post/waste/)) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [manner](/post/manner/), [often](/post/often/) implying [the](/post/the/) [process](/post/process/) [of](/post/of/) throwing [away](/post/away/) [or](/post/or/) getting [rid](/post/rid/) [of](/post/of/).
+   - [Example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) [dispose](/post/dispose/) [of](/post/of/) [the](/post/the/) [old](/post/old/) [electronics](/post/electronics/) responsibly."
+2. [To](/post/to/) [get](/post/get/) [rid](/post/rid/) [of](/post/of/), [particularly](/post/particularly/) [with](/post/with/) finality [or](/post/or/) definiteness.
+   - [Example](/post/example/): "[They](/post/they/) disposed [of](/post/of/) [the](/post/the/) outdated [equipment](/post/equipment/)."
 
 ## Phrases
-- "[Dispose](/en/post/dispose/) [of](/en/post/of/) [waste](/en/post/waste/)" [means](/en/post/means/) [to](/en/post/to/) [remove](/en/post/remove/) [or](/en/post/or/) [manage](/en/post/manage/) trash.
-- "[Disposal](/en/post/disposal/) facilities" are places [where](/en/post/where/) [waste](/en/post/waste/) is sent [for](/en/post/for/) [treatment](/en/post/treatment/) [or](/en/post/or/) [removal](/en/post/removal/).
-- "[Proper](/en/post/proper/) [disposal](/en/post/disposal/) [of](/en/post/of/) e-waste" is [important](/en/post/important/) [for](/en/post/for/) environmental sustainability.
+- "[Dispose](/post/dispose/) [of](/post/of/) [waste](/post/waste/)" [means](/post/means/) [to](/post/to/) [remove](/post/remove/) [or](/post/or/) [manage](/post/manage/) trash.
+- "[Disposal](/post/disposal/) facilities" are places [where](/post/where/) [waste](/post/waste/) is sent [for](/post/for/) [treatment](/post/treatment/) [or](/post/or/) [removal](/post/removal/).
+- "[Proper](/post/proper/) [disposal](/post/disposal/) [of](/post/of/) e-waste" is [important](/post/important/) [for](/post/for/) environmental sustainability.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [construction](/en/post/construction/) [site](/en/post/site/) has [a](/en/post/a/) designated [area](/en/post/area/) [for](/en/post/for/) [waste](/en/post/waste/) [disposal](/en/post/disposal/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) had [to](/en/post/to/) [dispose](/en/post/dispose/) [of](/en/post/of/) [her](/en/post/her/) grandmother's [old](/en/post/old/) [furniture](/en/post/furniture/) [before](/en/post/before/) moving."
-- **[Sentence](/en/post/sentence/)**: "[The](/en/post/the/) [company](/en/post/company/) [must](/en/post/must/) [ensure](/en/post/ensure/) [the](/en/post/the/) [safe](/en/post/safe/) [disposal](/en/post/disposal/) [of](/en/post/of/) toxic chemicals."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [construction](/post/construction/) [site](/post/site/) has [a](/post/a/) designated [area](/post/area/) [for](/post/for/) [waste](/post/waste/) [disposal](/post/disposal/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) had [to](/post/to/) [dispose](/post/dispose/) [of](/post/of/) [her](/post/her/) grandmother's [old](/post/old/) [furniture](/post/furniture/) [before](/post/before/) moving."
+- **[Sentence](/post/sentence/)**: "[The](/post/the/) [company](/post/company/) [must](/post/must/) [ensure](/post/ensure/) [the](/post/the/) [safe](/post/safe/) [disposal](/post/disposal/) [of](/post/of/) toxic chemicals."
 
 ## Synonyms
-- [Disposal](/en/post/disposal/)
-- [Elimination](/en/post/elimination/)
-- [Disposal](/en/post/disposal/) [process](/en/post/process/)
-- [Removal](/en/post/removal/)
-- Trash [management](/en/post/management/)
+- [Disposal](/post/disposal/)
+- [Elimination](/post/elimination/)
+- [Disposal](/post/disposal/) [process](/post/process/)
+- [Removal](/post/removal/)
+- Trash [management](/post/management/)
 - Recycling
 - Sanitation
-- [Waste](/en/post/waste/) [management](/en/post/management/)
+- [Waste](/post/waste/) [management](/post/management/)

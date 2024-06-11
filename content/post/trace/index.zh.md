@@ -11,23 +11,23 @@ keywords = ['ai words', 'trace']
 /treɪs/
 
 ## 释义
-- **名词**: 微量、痕迹；迹象，踪迹。例如: "[The](/post/the/) detective followed [a](/post/a/) [faint](/post/faint/) [trace](/post/trace/) [of](/post/of/) [blood](/post/blood/) [to](/post/to/) [the](/post/the/) suspect's hideout."
-- **动词**: 追踪，追溯。例如: "[She](/post/she/) tried [to](/post/to/) [trace](/post/trace/) [her](/post/her/) ancestors [back](/post/back/) [to](/post/to/) [the](/post/the/) 17th [century](/post/century/)."
-- **名词**: (艺术)轮廓，线条。例如: "[The](/post/the/) [artist](/post/artist/) carefully traced [the](/post/the/) [outline](/post/outline/) [of](/post/of/) [the](/post/the/) [tree](/post/tree/) [onto](/post/onto/) [the](/post/the/) [canvas](/post/canvas/)."
-- **名词**: (技术)跟踪，追踪（如网络活动）。例如: "[The](/post/the/) [system](/post/system/) [can](/post/can/) [trace](/post/trace/) [user](/post/user/) [activity](/post/activity/) [for](/post/for/) [security](/post/security/) purposes."
+- **名词**: 微量、痕迹；迹象，踪迹。例如: "[The](/zh/post/the/) detective followed [a](/zh/post/a/) [faint](/zh/post/faint/) [trace](/zh/post/trace/) [of](/zh/post/of/) [blood](/zh/post/blood/) [to](/zh/post/to/) [the](/zh/post/the/) suspect's hideout."
+- **动词**: 追踪，追溯。例如: "[She](/zh/post/she/) tried [to](/zh/post/to/) [trace](/zh/post/trace/) [her](/zh/post/her/) ancestors [back](/zh/post/back/) [to](/zh/post/to/) [the](/zh/post/the/) 17th [century](/zh/post/century/)."
+- **名词**: (艺术)轮廓，线条。例如: "[The](/zh/post/the/) [artist](/zh/post/artist/) carefully traced [the](/zh/post/the/) [outline](/zh/post/outline/) [of](/zh/post/of/) [the](/zh/post/the/) [tree](/zh/post/tree/) [onto](/zh/post/onto/) [the](/zh/post/the/) [canvas](/zh/post/canvas/)."
+- **名词**: (技术)跟踪，追踪（如网络活动）。例如: "[The](/zh/post/the/) [system](/zh/post/system/) [can](/zh/post/can/) [trace](/zh/post/trace/) [user](/zh/post/user/) [activity](/zh/post/activity/) [for](/zh/post/for/) [security](/zh/post/security/) purposes."
 
 ## 短语
-- "[trace](/post/trace/) [back](/post/back/) [to](/post/to/)" 意味着回溯到某个源头。例如: "[Their](/post/their/) [family](/post/family/) [history](/post/history/) [can](/post/can/) [be](/post/be/) traced [back](/post/back/) [to](/post/to/) medieval times."
-- "[trace](/post/trace/) one's steps" 指重新走过之前的路线。例如: "[He](/post/he/) retraced [his](/post/his/) steps [to](/post/to/) [find](/post/find/) [the](/post/the/) lost [wallet](/post/wallet/)."
+- "[trace](/zh/post/trace/) [back](/zh/post/back/) [to](/zh/post/to/)" 意味着回溯到某个源头。例如: "[Their](/zh/post/their/) [family](/zh/post/family/) [history](/zh/post/history/) [can](/zh/post/can/) [be](/zh/post/be/) traced [back](/zh/post/back/) [to](/zh/post/to/) medieval times."
+- "[trace](/zh/post/trace/) one's steps" 指重新走过之前的路线。例如: "[He](/zh/post/he/) retraced [his](/zh/post/his/) steps [to](/zh/post/to/) [find](/zh/post/find/) [the](/zh/post/the/) lost [wallet](/zh/post/wallet/)."
 
 ## 例句
-- 名词: "[There](/post/there/) was [only](/post/only/) [a](/post/a/) [trace](/post/trace/) [of](/post/of/) [moisture](/post/moisture/) [left](/post/left/) [on](/post/on/) [the](/post/the/) [ground](/post/ground/) [after](/post/after/) [the](/post/the/) [rain](/post/rain/) had stopped."
-- 动词: "[The](/post/the/) [private](/post/private/) investigator was hired [to](/post/to/) [trace](/post/trace/) [the](/post/the/) [missing](/post/missing/) person's [phone](/post/phone/) calls."
-- 名词: "[The](/post/the/) [artist](/post/artist/) drew [a](/post/a/) [delicate](/post/delicate/) [trace](/post/trace/) [around](/post/around/) [the](/post/the/) [figure](/post/figure/) [in](/post/in/) [pencil](/post/pencil/)."
+- 名词: "[There](/zh/post/there/) was [only](/zh/post/only/) [a](/zh/post/a/) [trace](/zh/post/trace/) [of](/zh/post/of/) [moisture](/zh/post/moisture/) [left](/zh/post/left/) [on](/zh/post/on/) [the](/zh/post/the/) [ground](/zh/post/ground/) [after](/zh/post/after/) [the](/zh/post/the/) [rain](/zh/post/rain/) had stopped."
+- 动词: "[The](/zh/post/the/) [private](/zh/post/private/) investigator was hired [to](/zh/post/to/) [trace](/zh/post/trace/) [the](/zh/post/the/) [missing](/zh/post/missing/) person's [phone](/zh/post/phone/) calls."
+- 名词: "[The](/zh/post/the/) [artist](/zh/post/artist/) drew [a](/zh/post/a/) [delicate](/zh/post/delicate/) [trace](/zh/post/trace/) [around](/zh/post/around/) [the](/zh/post/the/) [figure](/zh/post/figure/) [in](/zh/post/in/) [pencil](/zh/post/pencil/)."
 
 ## 同义词
-- [track](/post/track/)
-- [follow](/post/follow/)
-- [locate](/post/locate/)
-- [discover](/post/discover/)
-- [pursuit](/post/pursuit/)
+- [track](/zh/post/track/)
+- [follow](/zh/post/follow/)
+- [locate](/zh/post/locate/)
+- [discover](/zh/post/discover/)
+- [pursuit](/zh/post/pursuit/)

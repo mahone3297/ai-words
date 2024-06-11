@@ -12,21 +12,21 @@ keywords = ['ai words', 'flesh']
 
 ## 释义
 - **名词**:
-  - 肉，肌肉：[The](/post/the/) [flesh](/post/flesh/) [on](/post/on/) [her](/post/her/) arms was [firm](/post/firm/) [and](/post/and/) toned.
-  - 人体，肉体：[He](/post/he/) had [to](/post/to/) [discipline](/post/discipline/) [his](/post/his/) [flesh](/post/flesh/) [to](/post/to/) [resist](/post/resist/) [temptation](/post/temptation/).
-  - 皮肤：[The](/post/the/) child's [flesh](/post/flesh/) was [soft](/post/soft/) [and](/post/and/) [smooth](/post/smooth/).
+  - 肉，肌肉：[The](/zh/post/the/) [flesh](/zh/post/flesh/) [on](/zh/post/on/) [her](/zh/post/her/) arms was [firm](/zh/post/firm/) [and](/zh/post/and/) toned.
+  - 人体，肉体：[He](/zh/post/he/) had [to](/zh/post/to/) [discipline](/zh/post/discipline/) [his](/zh/post/his/) [flesh](/zh/post/flesh/) [to](/zh/post/to/) [resist](/zh/post/resist/) [temptation](/zh/post/temptation/).
+  - 皮肤：[The](/zh/post/the/) child's [flesh](/zh/post/flesh/) was [soft](/zh/post/soft/) [and](/zh/post/and/) [smooth](/zh/post/smooth/).
 
 ## 短语
-- "[in](/post/in/) [the](/post/the/) [flesh](/post/flesh/)" 实际上，亲自：I [finally](/post/finally/) met [my](/post/my/) favorite [singer](/post/singer/) [in](/post/in/) [the](/post/the/) [flesh](/post/flesh/) [at](/post/at/) [the](/post/the/) [concert](/post/concert/).
-- "[flesh](/post/flesh/) [out](/post/out/)" 填充，详述（如故事、想法）：[The](/post/the/) [author](/post/author/) fleshed [out](/post/out/) [the](/post/the/) characters [in](/post/in/) [his](/post/his/) [novel](/post/novel/), giving [them](/post/them/) [unique](/post/unique/) backstories.
+- "[in](/zh/post/in/) [the](/zh/post/the/) [flesh](/zh/post/flesh/)" 实际上，亲自：I [finally](/zh/post/finally/) met [my](/zh/post/my/) favorite [singer](/zh/post/singer/) [in](/zh/post/in/) [the](/zh/post/the/) [flesh](/zh/post/flesh/) [at](/zh/post/at/) [the](/zh/post/the/) [concert](/zh/post/concert/).
+- "[flesh](/zh/post/flesh/) [out](/zh/post/out/)" 填充，详述（如故事、想法）：[The](/zh/post/the/) [author](/zh/post/author/) fleshed [out](/zh/post/out/) [the](/zh/post/the/) characters [in](/zh/post/in/) [his](/zh/post/his/) [novel](/zh/post/novel/), giving [them](/zh/post/them/) [unique](/zh/post/unique/) backstories.
 
 ## 例句
-- 名词: "[The](/post/the/) chef added [some](/post/some/) [fresh](/post/fresh/) herbs [to](/post/to/) [the](/post/the/) [meat](/post/meat/) [to](/post/to/) enhance [the](/post/the/) flavor [of](/post/of/) [the](/post/the/) [flesh](/post/flesh/)."
-- 形容词: "[The](/post/the/) [statue](/post/statue/) was carved [from](/post/from/) [a](/post/a/) [single](/post/single/) [piece](/post/piece/) [of](/post/of/) [wood](/post/wood/), revealing [the](/post/the/) figure's muscular [flesh](/post/flesh/)."
+- 名词: "[The](/zh/post/the/) chef added [some](/zh/post/some/) [fresh](/zh/post/fresh/) herbs [to](/zh/post/to/) [the](/zh/post/the/) [meat](/zh/post/meat/) [to](/zh/post/to/) enhance [the](/zh/post/the/) flavor [of](/zh/post/of/) [the](/zh/post/the/) [flesh](/zh/post/flesh/)."
+- 形容词: "[The](/zh/post/the/) [statue](/zh/post/statue/) was carved [from](/zh/post/from/) [a](/zh/post/a/) [single](/zh/post/single/) [piece](/zh/post/piece/) [of](/zh/post/of/) [wood](/zh/post/wood/), revealing [the](/zh/post/the/) figure's muscular [flesh](/zh/post/flesh/)."
 
 ## 同义词
-- [Meat](/post/meat/)
-- [Muscle](/post/muscle/)
-- [Body](/post/body/)
-- [Tissue](/post/tissue/)
-- [Substance](/post/substance/)
+- [Meat](/zh/post/meat/)
+- [Muscle](/zh/post/muscle/)
+- [Body](/zh/post/body/)
+- [Tissue](/zh/post/tissue/)
+- [Substance](/zh/post/substance/)

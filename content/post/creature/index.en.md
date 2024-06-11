@@ -7,40 +7,40 @@ description = '[ˈkriːt∫ə] n.生物，动物，家畜'
 keywords = ['ai words', 'creature']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kriˈeɪ.tʃə(r)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[creature](/en/post/creature/)** [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/):
-1. An [animal](/en/post/animal/), [often](/en/post/often/) [living](/en/post/living/), typically regarded [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [natural](/en/post/natural/) [world](/en/post/world/): "[The](/en/post/the/) [jungle](/en/post/jungle/) was [home](/en/post/home/) [to](/en/post/to/) countless [strange](/en/post/strange/) creatures."
-2. [A](/en/post/a/) [being](/en/post/being/), [especially](/en/post/especially/) [a](/en/post/a/) [human](/en/post/human/) [being](/en/post/being/), considered [to](/en/post/to/) [be](/en/post/be/) an entity [with](/en/post/with/) [life](/en/post/life/): "[Each](/en/post/each/) [child](/en/post/child/) was [a](/en/post/a/) [unique](/en/post/unique/) [creature](/en/post/creature/), [with](/en/post/with/) [their](/en/post/their/) [own](/en/post/own/) thoughts [and](/en/post/and/) dreams."
-3. [A](/en/post/a/) [person](/en/post/person/), [often](/en/post/often/) [used](/en/post/used/) informally [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) metaphorical [sense](/en/post/sense/): "She's [a](/en/post/a/) [fierce](/en/post/fierce/) [creature](/en/post/creature/) [when](/en/post/when/) [it](/en/post/it/) comes [to](/en/post/to/) protecting [her](/en/post/her/) [family](/en/post/family/)."
+### [Noun](/post/noun/)
+[A](/post/a/) **[creature](/post/creature/)** [can](/post/can/) [refer](/post/refer/) [to](/post/to/):
+1. An [animal](/post/animal/), [often](/post/often/) [living](/post/living/), typically regarded [as](/post/as/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [natural](/post/natural/) [world](/post/world/): "[The](/post/the/) [jungle](/post/jungle/) was [home](/post/home/) [to](/post/to/) countless [strange](/post/strange/) creatures."
+2. [A](/post/a/) [being](/post/being/), [especially](/post/especially/) [a](/post/a/) [human](/post/human/) [being](/post/being/), considered [to](/post/to/) [be](/post/be/) an entity [with](/post/with/) [life](/post/life/): "[Each](/post/each/) [child](/post/child/) was [a](/post/a/) [unique](/post/unique/) [creature](/post/creature/), [with](/post/with/) [their](/post/their/) [own](/post/own/) thoughts [and](/post/and/) dreams."
+3. [A](/post/a/) [person](/post/person/), [often](/post/often/) [used](/post/used/) informally [or](/post/or/) [in](/post/in/) [a](/post/a/) metaphorical [sense](/post/sense/): "She's [a](/post/a/) [fierce](/post/fierce/) [creature](/post/creature/) [when](/post/when/) [it](/post/it/) comes [to](/post/to/) protecting [her](/post/her/) [family](/post/family/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[create](/en/post/create/)** [or](/en/post/or/) [bring](/en/post/bring/) [into](/en/post/into/) [existence](/en/post/existence/): "[The](/en/post/the/) [artist](/en/post/artist/) created [a](/en/post/a/) [new](/en/post/new/) [creature](/en/post/creature/) [from](/en/post/from/) [scratch](/en/post/scratch/)."
-*Synonyms: [fashion](/en/post/fashion/), [produce](/en/post/produce/), [generate](/en/post/generate/)*
+### [Verb](/post/verb/)
+[To](/post/to/) **[create](/post/create/)** [or](/post/or/) [bring](/post/bring/) [into](/post/into/) [existence](/post/existence/): "[The](/post/the/) [artist](/post/artist/) created [a](/post/a/) [new](/post/new/) [creature](/post/creature/) [from](/post/from/) [scratch](/post/scratch/)."
+*Synonyms: [fashion](/post/fashion/), [produce](/post/produce/), [generate](/post/generate/)*
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/), indicating [something](/en/post/something/) [unusual](/en/post/unusual/) [or](/en/post/or/) [extraordinary](/en/post/extraordinary/): "[Her](/en/post/her/) [imagination](/en/post/imagination/) produced [a](/en/post/a/) [creature](/en/post/creature/) [beyond](/en/post/beyond/) [the](/en/post/the/) [realm](/en/post/realm/) [of](/en/post/of/) [reality](/en/post/reality/)."
+### [Adjective](/post/adjective/)
+[In](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), indicating [something](/post/something/) [unusual](/post/unusual/) [or](/post/or/) [extraordinary](/post/extraordinary/): "[Her](/post/her/) [imagination](/post/imagination/) produced [a](/post/a/) [creature](/post/creature/) [beyond](/post/beyond/) [the](/post/the/) [realm](/post/realm/) [of](/post/of/) [reality](/post/reality/)."
 
-### [Adverb](/en/post/adverb/)
-([Not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/))
+### [Adverb](/post/adverb/)
+([Not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/))
 
 ## Phrases
-- "[What](/en/post/what/) [a](/en/post/a/) [strange](/en/post/strange/) [creature](/en/post/creature/) [that](/en/post/that/) is!"
-- "[He](/en/post/he/) observed [the](/en/post/the/) creature's [behavior](/en/post/behavior/) [closely](/en/post/closely/)."
-- "[The](/en/post/the/) [creature](/en/post/creature/) scurried [away](/en/post/away/) [into](/en/post/into/) [the](/en/post/the/) darkness."
+- "[What](/post/what/) [a](/post/a/) [strange](/post/strange/) [creature](/post/creature/) [that](/post/that/) is!"
+- "[He](/post/he/) observed [the](/post/the/) creature's [behavior](/post/behavior/) [closely](/post/closely/)."
+- "[The](/post/the/) [creature](/post/creature/) scurried [away](/post/away/) [into](/post/into/) [the](/post/the/) darkness."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) biologist studied [various](/en/post/various/) creatures [in](/en/post/in/) [the](/en/post/the/) rainforest."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [scientist](/en/post/scientist/) created [a](/en/post/a/) virtual [creature](/en/post/creature/) [for](/en/post/for/) [their](/en/post/their/) [experiment](/en/post/experiment/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) alien [creature](/en/post/creature/) had [a](/en/post/a/) mesmerizing [appearance](/en/post/appearance/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) biologist studied [various](/post/various/) creatures [in](/post/in/) [the](/post/the/) rainforest."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [scientist](/post/scientist/) created [a](/post/a/) virtual [creature](/post/creature/) [for](/post/for/) [their](/post/their/) [experiment](/post/experiment/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) alien [creature](/post/creature/) had [a](/post/a/) mesmerizing [appearance](/post/appearance/)."
 
 ## Synonyms
-- [Being](/en/post/being/)
+- [Being](/post/being/)
 - Entity
-- [Animal](/en/post/animal/)
-- [Inhabitant](/en/post/inhabitant/)
+- [Animal](/post/animal/)
+- [Inhabitant](/post/inhabitant/)
 - Personage
-- [Specimen](/en/post/specimen/)
+- [Specimen](/post/specimen/)

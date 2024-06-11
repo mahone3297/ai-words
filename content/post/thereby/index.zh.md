@@ -11,20 +11,20 @@ keywords = ['ai words', 'thereby']
 /ˈðɛrˈbaɪ/
 
 ## 释义
-- **副词**: 通过这种方式；因此；因而。例如: "[By](/post/by/) exercising [regularly](/post/regularly/), you'll [improve](/post/improve/) [your](/post/your/) [health](/post/health/) [thereby](/post/thereby/) [living](/post/living/) longer."
-- **介词**: 引导方式状语，表示结果。例如: "[She](/post/she/) reduced [her](/post/her/) [stress](/post/stress/) levels, [thereby](/post/thereby/) increasing [her](/post/her/) productivity."
+- **副词**: 通过这种方式；因此；因而。例如: "[By](/zh/post/by/) exercising [regularly](/zh/post/regularly/), you'll [improve](/zh/post/improve/) [your](/zh/post/your/) [health](/zh/post/health/) [thereby](/zh/post/thereby/) [living](/zh/post/living/) longer."
+- **介词**: 引导方式状语，表示结果。例如: "[She](/zh/post/she/) reduced [her](/zh/post/her/) [stress](/zh/post/stress/) levels, [thereby](/zh/post/thereby/) increasing [her](/zh/post/her/) productivity."
 
 ## 短语
-- "[Thereby](/post/thereby/) achieving" 表示通过某种方式达到目的。例如: "[Thereby](/post/thereby/) achieving [success](/post/success/) [in](/post/in/) [her](/post/her/) [career](/post/career/)."
-- "[Thereby](/post/thereby/) causing" 表示因此造成。例如: "[His](/post/his/) [decision](/post/decision/) led [to](/post/to/) [a](/post/a/) [conflict](/post/conflict/), [thereby](/post/thereby/) causing tension [among](/post/among/) [team](/post/team/) members."
+- "[Thereby](/zh/post/thereby/) achieving" 表示通过某种方式达到目的。例如: "[Thereby](/zh/post/thereby/) achieving [success](/zh/post/success/) [in](/zh/post/in/) [her](/zh/post/her/) [career](/zh/post/career/)."
+- "[Thereby](/zh/post/thereby/) causing" 表示因此造成。例如: "[His](/zh/post/his/) [decision](/zh/post/decision/) led [to](/zh/post/to/) [a](/zh/post/a/) [conflict](/zh/post/conflict/), [thereby](/zh/post/thereby/) causing tension [among](/zh/post/among/) [team](/zh/post/team/) members."
 
 ## 例句
-- 副词: "[The](/post/the/) [new](/post/new/) [technology](/post/technology/) has simplified [the](/post/the/) [process](/post/process/), [thereby](/post/thereby/) [saving](/post/saving/) [time](/post/time/) [and](/post/and/) [effort](/post/effort/)."
-- 介词: "[She](/post/she/) corrected [the](/post/the/) [mistake](/post/mistake/) promptly, [thereby](/post/thereby/) avoiding [any](/post/any/) [further](/post/further/) complications."
+- 副词: "[The](/zh/post/the/) [new](/zh/post/new/) [technology](/zh/post/technology/) has simplified [the](/zh/post/the/) [process](/zh/post/process/), [thereby](/zh/post/thereby/) [saving](/zh/post/saving/) [time](/zh/post/time/) [and](/zh/post/and/) [effort](/zh/post/effort/)."
+- 介词: "[She](/zh/post/she/) corrected [the](/zh/post/the/) [mistake](/zh/post/mistake/) promptly, [thereby](/zh/post/thereby/) avoiding [any](/zh/post/any/) [further](/zh/post/further/) complications."
 
 ## 同义词
-- [Thus](/post/thus/)
-- [Hence](/post/hence/)
-- [Consequently](/post/consequently/)
-- [As](/post/as/) [a](/post/a/) [result](/post/result/)
-- [So](/post/so/)
+- [Thus](/zh/post/thus/)
+- [Hence](/zh/post/hence/)
+- [Consequently](/zh/post/consequently/)
+- [As](/zh/post/as/) [a](/zh/post/a/) [result](/zh/post/result/)
+- [So](/zh/post/so/)

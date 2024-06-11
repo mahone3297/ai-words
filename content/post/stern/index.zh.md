@@ -11,22 +11,22 @@ keywords = ['ai words', 'stern']
 /stɜːrn/
 
 ## 释义
-- **名词**: 船的后部或尾部。例如: "[The](/post/the/) [captain](/post/captain/) stood [at](/post/at/) [the](/post/the/) [stern](/post/stern/) [of](/post/of/) [the](/post/the/) [ship](/post/ship/)."
-- **形容词**: 严厉的，苛刻的。例如: "[She](/post/she/) has [a](/post/a/) [stern](/post/stern/) [expression](/post/expression/) [on](/post/on/) [her](/post/her/) [face](/post/face/)."
-- **副词**: 严格地，坚定地。例如: "[He](/post/he/) sternly warned [the](/post/the/) children [not](/post/not/) [to](/post/to/) [play](/post/play/) [with](/post/with/) matches."
+- **名词**: 船的后部或尾部。例如: "[The](/zh/post/the/) [captain](/zh/post/captain/) stood [at](/zh/post/at/) [the](/zh/post/the/) [stern](/zh/post/stern/) [of](/zh/post/of/) [the](/zh/post/the/) [ship](/zh/post/ship/)."
+- **形容词**: 严厉的，苛刻的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [stern](/zh/post/stern/) [expression](/zh/post/expression/) [on](/zh/post/on/) [her](/zh/post/her/) [face](/zh/post/face/)."
+- **副词**: 严格地，坚定地。例如: "[He](/zh/post/he/) sternly warned [the](/zh/post/the/) children [not](/zh/post/not/) [to](/zh/post/to/) [play](/zh/post/play/) [with](/zh/post/with/) matches."
 
 ## 短语
-- "[At](/post/at/) [the](/post/the/) [stern](/post/stern/)" 指的是在船的尾部。
-- "[Stern](/post/stern/) [lecture](/post/lecture/)" 意味着严厉的训斥或批评。
+- "[At](/zh/post/at/) [the](/zh/post/the/) [stern](/zh/post/stern/)" 指的是在船的尾部。
+- "[Stern](/zh/post/stern/) [lecture](/zh/post/lecture/)" 意味着严厉的训斥或批评。
 
 ## 例句
-- 名词: "[The](/post/the/) lifeboats were stored [at](/post/at/) [the](/post/the/) [stern](/post/stern/)."
-- 形容词: "[His](/post/his/) [stern](/post/stern/) demeanor made [the](/post/the/) [new](/post/new/) employees [nervous](/post/nervous/)."
-- 副词: "[The](/post/the/) [teacher](/post/teacher/) looked sternly [at](/post/at/) [the](/post/the/) [student](/post/student/) [who](/post/who/) was talking [during](/post/during/) [class](/post/class/)."
+- 名词: "[The](/zh/post/the/) lifeboats were stored [at](/zh/post/at/) [the](/zh/post/the/) [stern](/zh/post/stern/)."
+- 形容词: "[His](/zh/post/his/) [stern](/zh/post/stern/) demeanor made [the](/zh/post/the/) [new](/zh/post/new/) employees [nervous](/zh/post/nervous/)."
+- 副词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) looked sternly [at](/zh/post/at/) [the](/zh/post/the/) [student](/zh/post/student/) [who](/zh/post/who/) was talking [during](/zh/post/during/) [class](/zh/post/class/)."
 
 ## 同义词
-- [Harsh](/post/harsh/)
-- [Severe](/post/severe/)
-- [Strict](/post/strict/)
-- [Rigid](/post/rigid/)
+- [Harsh](/zh/post/harsh/)
+- [Severe](/zh/post/severe/)
+- [Strict](/zh/post/strict/)
+- [Rigid](/zh/post/rigid/)
 - Uncompromising

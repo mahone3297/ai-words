@@ -7,26 +7,26 @@ description = '[ˈgrændˌfɑːðə] n.祖父；外祖父'
 keywords = ['ai words', 'grandfather']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡrænfɑːðər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [father](/en/post/father/) [of](/en/post/of/) one's [own](/en/post/own/) [parent](/en/post/parent/); [a](/en/post/a/) [man](/en/post/man/) [from](/en/post/from/) [whom](/en/post/whom/) [one](/en/post/one/) is descended [through](/en/post/through/) one's [mother](/en/post/mother/) [or](/en/post/or/) [father](/en/post/father/). [For](/en/post/for/) [example](/en/post/example/): "I inherited [my](/en/post/my/) [love](/en/post/love/) [of](/en/post/of/) fishing [from](/en/post/from/) [my](/en/post/my/) [grandfather](/en/post/grandfather/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [father](/post/father/) [of](/post/of/) one's [own](/post/own/) [parent](/post/parent/); [a](/post/a/) [man](/post/man/) [from](/post/from/) [whom](/post/whom/) [one](/post/one/) is descended [through](/post/through/) one's [mother](/post/mother/) [or](/post/or/) [father](/post/father/). [For](/post/for/) [example](/post/example/): "I inherited [my](/post/my/) [love](/post/love/) [of](/post/of/) fishing [from](/post/from/) [my](/post/my/) [grandfather](/post/grandfather/)."
 
-  - **[Noun](/en/post/noun/) (informal)**: [A](/en/post/a/) [respectful](/en/post/respectful/) [or](/en/post/or/) affectionate [term](/en/post/term/) [for](/en/post/for/) an [old](/en/post/old/) [man](/en/post/man/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [little](/en/post/little/) [boy](/en/post/boy/) smiled [at](/en/post/at/) [the](/en/post/the/) kindly [old](/en/post/old/) [man](/en/post/man/), [whom](/en/post/whom/) [he](/en/post/he/) called '[grandfather](/en/post/grandfather/)'."
+  - **[Noun](/post/noun/) (informal)**: [A](/post/a/) [respectful](/post/respectful/) [or](/post/or/) affectionate [term](/post/term/) [for](/post/for/) an [old](/post/old/) [man](/post/man/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) [little](/post/little/) [boy](/post/boy/) smiled [at](/post/at/) [the](/post/the/) kindly [old](/post/old/) [man](/post/man/), [whom](/post/whom/) [he](/post/he/) called '[grandfather](/post/grandfather/)'."
 
 ## Phrases
-- "[Grandfather](/en/post/grandfather/) clause": [A](/en/post/a/) [provision](/en/post/provision/) exempting [certain](/en/post/certain/) [people](/en/post/people/) [or](/en/post/or/) groups [from](/en/post/from/) [new](/en/post/new/) laws, regulations, [or](/en/post/or/) requirements [because](/en/post/because/) [they](/en/post/they/) were [already](/en/post/already/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/) [before](/en/post/before/) [the](/en/post/the/) [new](/en/post/new/) rules were implemented.
-- "[Grandfather](/en/post/grandfather/) [clock](/en/post/clock/)": [A](/en/post/a/) [tall](/en/post/tall/), freestanding pendulum [clock](/en/post/clock/), [often](/en/post/often/) [with](/en/post/with/) weights [and](/en/post/and/) [a](/en/post/a/) [large](/en/post/large/) [face](/en/post/face/), typically passed [down](/en/post/down/) [from](/en/post/from/) older generations.
+- "[Grandfather](/post/grandfather/) clause": [A](/post/a/) [provision](/post/provision/) exempting [certain](/post/certain/) [people](/post/people/) [or](/post/or/) groups [from](/post/from/) [new](/post/new/) laws, regulations, [or](/post/or/) requirements [because](/post/because/) [they](/post/they/) were [already](/post/already/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/) [before](/post/before/) [the](/post/the/) [new](/post/new/) rules were implemented.
+- "[Grandfather](/post/grandfather/) [clock](/post/clock/)": [A](/post/a/) [tall](/post/tall/), freestanding pendulum [clock](/post/clock/), [often](/post/often/) [with](/post/with/) weights [and](/post/and/) [a](/post/a/) [large](/post/large/) [face](/post/face/), typically passed [down](/post/down/) [from](/post/from/) older generations.
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([family](/en/post/family/) [member](/en/post/member/))**: "[My](/en/post/my/) [grandfather](/en/post/grandfather/) taught [me](/en/post/me/) [how](/en/post/how/) [to](/en/post/to/) [play](/en/post/play/) [chess](/en/post/chess/) [when](/en/post/when/) I was [young](/en/post/young/)."
-- **[Noun](/en/post/noun/) (informal [use](/en/post/use/))**: "[The](/en/post/the/) [wise](/en/post/wise/) [old](/en/post/old/) [grandfather](/en/post/grandfather/) [of](/en/post/of/) [the](/en/post/the/) [village](/en/post/village/) shared stories [around](/en/post/around/) [the](/en/post/the/) campfire [each](/en/post/each/) [night](/en/post/night/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([family](/post/family/) [member](/post/member/))**: "[My](/post/my/) [grandfather](/post/grandfather/) taught [me](/post/me/) [how](/post/how/) [to](/post/to/) [play](/post/play/) [chess](/post/chess/) [when](/post/when/) I was [young](/post/young/)."
+- **[Noun](/post/noun/) (informal [use](/post/use/))**: "[The](/post/the/) [wise](/post/wise/) [old](/post/old/) [grandfather](/post/grandfather/) [of](/post/of/) [the](/post/the/) [village](/post/village/) shared stories [around](/post/around/) [the](/post/the/) campfire [each](/post/each/) [night](/post/night/)."
 
 ## Synonyms
 - Grandpa
 - Gramps
 - Granddad
 - Grandpapa
-- Patriarch ([in](/en/post/in/) [a](/en/post/a/) [family](/en/post/family/) context)
-- Forefather ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [ancestor](/en/post/ancestor/))
+- Patriarch ([in](/post/in/) [a](/post/a/) [family](/post/family/) context)
+- Forefather ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [ancestor](/post/ancestor/))

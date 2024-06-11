@@ -7,49 +7,49 @@ description = '[rʌn] vi.跑，奔；行驶；流'
 keywords = ['ai words', 'run']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rʌn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [continuous](/en/post/continuous/) [or](/en/post/or/) repeated [act](/en/post/act/) [of](/en/post/of/) moving [at](/en/post/at/) [a](/en/post/a/) [speed](/en/post/speed/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) reaching [a](/en/post/a/) [destination](/en/post/destination/). "[The](/en/post/the/) marathon [runner](/en/post/runner/) pushed [themselves](/en/post/themselves/) [to](/en/post/to/) [the](/en/post/the/) [finish](/en/post/finish/) [line](/en/post/line/)."
-- [The](/en/post/the/) [result](/en/post/result/) [or](/en/post/or/) [outcome](/en/post/outcome/) [of](/en/post/of/) [a](/en/post/a/) [competition](/en/post/competition/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) events. "[In](/en/post/in/) [the](/en/post/the/) [election](/en/post/election/), [he](/en/post/he/) had [a](/en/post/a/) [clear](/en/post/clear/) [run](/en/post/run/) [to](/en/post/to/) [victory](/en/post/victory/)."
-- [A](/en/post/a/) [period](/en/post/period/) [without](/en/post/without/) [interference](/en/post/interference/) [or](/en/post/or/) [interruption](/en/post/interruption/). "[They](/en/post/they/) had [a](/en/post/a/) [quiet](/en/post/quiet/) [run](/en/post/run/) [of](/en/post/of/) [good](/en/post/good/) [weather](/en/post/weather/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) [continuous](/post/continuous/) [or](/post/or/) repeated [act](/post/act/) [of](/post/of/) moving [at](/post/at/) [a](/post/a/) [speed](/post/speed/), [often](/post/often/) [with](/post/with/) [the](/post/the/) [intention](/post/intention/) [of](/post/of/) reaching [a](/post/a/) [destination](/post/destination/). "[The](/post/the/) marathon [runner](/post/runner/) pushed [themselves](/post/themselves/) [to](/post/to/) [the](/post/the/) [finish](/post/finish/) [line](/post/line/)."
+- [The](/post/the/) [result](/post/result/) [or](/post/or/) [outcome](/post/outcome/) [of](/post/of/) [a](/post/a/) [competition](/post/competition/) [or](/post/or/) [series](/post/series/) [of](/post/of/) events. "[In](/post/in/) [the](/post/the/) [election](/post/election/), [he](/post/he/) had [a](/post/a/) [clear](/post/clear/) [run](/post/run/) [to](/post/to/) [victory](/post/victory/)."
+- [A](/post/a/) [period](/post/period/) [without](/post/without/) [interference](/post/interference/) [or](/post/or/) [interruption](/post/interruption/). "[They](/post/they/) had [a](/post/a/) [quiet](/post/quiet/) [run](/post/run/) [of](/post/of/) [good](/post/good/) [weather](/post/weather/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [move](/en/post/move/) swiftly [or](/en/post/or/) continuously [along](/en/post/along/) [a](/en/post/a/) [course](/en/post/course/), [path](/en/post/path/), [or](/en/post/or/) [track](/en/post/track/). "[The](/en/post/the/) [dog](/en/post/dog/) likes [to](/en/post/to/) [run](/en/post/run/) [through](/en/post/through/) [the](/en/post/the/) [park](/en/post/park/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/)."
-- [To](/en/post/to/) [operate](/en/post/operate/) [or](/en/post/or/) [perform](/en/post/perform/) ([a](/en/post/a/) [machine](/en/post/machine/), [equipment](/en/post/equipment/), etc.). "[The](/en/post/the/) [car](/en/post/car/) [engine](/en/post/engine/) runs [smoothly](/en/post/smoothly/)."
-- [To](/en/post/to/) [have](/en/post/have/) [control](/en/post/control/) [or](/en/post/or/) [be](/en/post/be/) [in](/en/post/in/) [charge](/en/post/charge/) [of](/en/post/of/) [something](/en/post/something/). "[She](/en/post/she/) had [a](/en/post/a/) [run](/en/post/run/) [of](/en/post/of/) [the](/en/post/the/) [company](/en/post/company/) [while](/en/post/while/) [her](/en/post/her/) [boss](/en/post/boss/) was [away](/en/post/away/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [move](/post/move/) swiftly [or](/post/or/) continuously [along](/post/along/) [a](/post/a/) [course](/post/course/), [path](/post/path/), [or](/post/or/) [track](/post/track/). "[The](/post/the/) [dog](/post/dog/) likes [to](/post/to/) [run](/post/run/) [through](/post/through/) [the](/post/the/) [park](/post/park/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- [To](/post/to/) [operate](/post/operate/) [or](/post/or/) [perform](/post/perform/) ([a](/post/a/) [machine](/post/machine/), [equipment](/post/equipment/), etc.). "[The](/post/the/) [car](/post/car/) [engine](/post/engine/) runs [smoothly](/post/smoothly/)."
+- [To](/post/to/) [have](/post/have/) [control](/post/control/) [or](/post/or/) [be](/post/be/) [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [something](/post/something/). "[She](/post/she/) had [a](/post/a/) [run](/post/run/) [of](/post/of/) [the](/post/the/) [company](/post/company/) [while](/post/while/) [her](/post/her/) [boss](/post/boss/) was [away](/post/away/)."
 
-### [Adjective](/en/post/adjective/)
-- [Quick](/en/post/quick/) [or](/en/post/or/) fast-paced. "[He](/en/post/he/) completed [the](/en/post/the/) [race](/en/post/race/) [in](/en/post/in/) [record](/en/post/record/) [run](/en/post/run/) [time](/en/post/time/)."
-- [Regular](/en/post/regular/) [or](/en/post/or/) uninterrupted. "[We](/en/post/we/) had [a](/en/post/a/) [run](/en/post/run/) [of](/en/post/of/) [successful](/en/post/successful/) [business](/en/post/business/) months."
-- Unopposed [or](/en/post/or/) unchallenged. "[He](/en/post/he/) had [a](/en/post/a/) [run](/en/post/run/) [for](/en/post/for/) [the](/en/post/the/) presidency."
+### [Adjective](/post/adjective/)
+- [Quick](/post/quick/) [or](/post/or/) fast-paced. "[He](/post/he/) completed [the](/post/the/) [race](/post/race/) [in](/post/in/) [record](/post/record/) [run](/post/run/) [time](/post/time/)."
+- [Regular](/post/regular/) [or](/post/or/) uninterrupted. "[We](/post/we/) had [a](/post/a/) [run](/post/run/) [of](/post/of/) [successful](/post/successful/) [business](/post/business/) months."
+- Unopposed [or](/post/or/) unchallenged. "[He](/post/he/) had [a](/post/a/) [run](/post/run/) [for](/post/for/) [the](/post/the/) presidency."
 
-### [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) running [motion](/en/post/motion/) [or](/en/post/or/) continuously. "[The](/en/post/the/) children were playing [tag](/en/post/tag/), running [around](/en/post/around/) [the](/en/post/the/) [playground](/en/post/playground/)."
-- [Without](/en/post/without/) [pause](/en/post/pause/) [or](/en/post/or/) [interruption](/en/post/interruption/). "[They](/en/post/they/) ran [the](/en/post/the/) [experiment](/en/post/experiment/) [multiple](/en/post/multiple/) times [to](/en/post/to/) [ensure](/en/post/ensure/) [accuracy](/en/post/accuracy/)."
+### [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) running [motion](/post/motion/) [or](/post/or/) continuously. "[The](/post/the/) children were playing [tag](/post/tag/), running [around](/post/around/) [the](/post/the/) [playground](/post/playground/)."
+- [Without](/post/without/) [pause](/post/pause/) [or](/post/or/) [interruption](/post/interruption/). "[They](/post/they/) ran [the](/post/the/) [experiment](/post/experiment/) [multiple](/post/multiple/) times [to](/post/to/) [ensure](/post/ensure/) [accuracy](/post/accuracy/)."
 
 ## Phrases
-- "[Have](/en/post/have/) [a](/en/post/a/) [good](/en/post/good/) [run](/en/post/run/)" is [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [wish](/en/post/wish/) [someone](/en/post/someone/) [well](/en/post/well/) [in](/en/post/in/) [a](/en/post/a/) [race](/en/post/race/) [or](/en/post/or/) endeavor.
-- "[A](/en/post/a/) [run](/en/post/run/) [for](/en/post/for/) [office](/en/post/office/)" refers [to](/en/post/to/) [a](/en/post/a/) [campaign](/en/post/campaign/) [for](/en/post/for/) [political](/en/post/political/) [office](/en/post/office/).
-- "[Run](/en/post/run/) [out](/en/post/out/) [of](/en/post/of/)" [means](/en/post/means/) [to](/en/post/to/) [exhaust](/en/post/exhaust/) [or](/en/post/or/) deplete [something](/en/post/something/).
+- "[Have](/post/have/) [a](/post/a/) [good](/post/good/) [run](/post/run/)" is [a](/post/a/) [way](/post/way/) [to](/post/to/) [wish](/post/wish/) [someone](/post/someone/) [well](/post/well/) [in](/post/in/) [a](/post/a/) [race](/post/race/) [or](/post/or/) endeavor.
+- "[A](/post/a/) [run](/post/run/) [for](/post/for/) [office](/post/office/)" refers [to](/post/to/) [a](/post/a/) [campaign](/post/campaign/) [for](/post/for/) [political](/post/political/) [office](/post/office/).
+- "[Run](/post/run/) [out](/post/out/) [of](/post/of/)" [means](/post/means/) [to](/post/to/) [exhaust](/post/exhaust/) [or](/post/or/) deplete [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) had [a](/en/post/a/) [long](/en/post/long/) [run](/en/post/run/) [of](/en/post/of/) [bad](/en/post/bad/) [luck](/en/post/luck/) [on](/en/post/on/) [the](/en/post/the/) racetrack."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) started [the](/en/post/the/) [car](/en/post/car/) [and](/en/post/and/) [let](/en/post/let/) [it](/en/post/it/) [run](/en/post/run/) [warm](/en/post/warm/) [before](/en/post/before/) hitting [the](/en/post/the/) [road](/en/post/road/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [athlete](/en/post/athlete/) had an [impressive](/en/post/impressive/) [run](/en/post/run/) [in](/en/post/in/) [the](/en/post/the/) 100-meter [dash](/en/post/dash/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) ran [the](/en/post/the/) errand [as](/en/post/as/) [quickly](/en/post/quickly/) [as](/en/post/as/) [he](/en/post/he/) [could](/en/post/could/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) had [a](/post/a/) [long](/post/long/) [run](/post/run/) [of](/post/of/) [bad](/post/bad/) [luck](/post/luck/) [on](/post/on/) [the](/post/the/) racetrack."
+- **[Verb](/post/verb/)**: "[She](/post/she/) started [the](/post/the/) [car](/post/car/) [and](/post/and/) [let](/post/let/) [it](/post/it/) [run](/post/run/) [warm](/post/warm/) [before](/post/before/) hitting [the](/post/the/) [road](/post/road/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [athlete](/post/athlete/) had an [impressive](/post/impressive/) [run](/post/run/) [in](/post/in/) [the](/post/the/) 100-meter [dash](/post/dash/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) ran [the](/post/the/) errand [as](/post/as/) [quickly](/post/quickly/) [as](/post/as/) [he](/post/he/) [could](/post/could/)."
 
 ## Synonyms
 - Sprint
-- [Dash](/en/post/dash/)
+- [Dash](/post/dash/)
 - Jog
 - Hike
-- [Course](/en/post/course/)
-- [Career](/en/post/career/)
+- [Course](/post/course/)
+- [Career](/post/career/)
 - Sprinter
 - Dasher
-- [Progress](/en/post/progress/)
-- [Movement](/en/post/movement/)
-- [Operation](/en/post/operation/)
+- [Progress](/post/progress/)
+- [Movement](/post/movement/)
+- [Operation](/post/operation/)

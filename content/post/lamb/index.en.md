@@ -7,33 +7,33 @@ description = '[læm] n.羔羊，小羊；羔羊肉'
 keywords = ['ai words', 'lamb']
 +++
 
-## [Word](/en/post/word/): [Lamb](/en/post/lamb/)
+## [Word](/post/word/): [Lamb](/post/lamb/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /læm/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [young](/en/post/young/) [sheep](/en/post/sheep/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is [less](/en/post/less/) [than](/en/post/than/) [a](/en/post/a/) [year](/en/post/year/) [old](/en/post/old/). [Example](/en/post/example/): "[The](/en/post/the/) [shepherd](/en/post/shepherd/) tended [to](/en/post/to/) [his](/en/post/his/) [flock](/en/post/flock/) [of](/en/post/of/) lambs [in](/en/post/in/) [the](/en/post/the/) [spring](/en/post/spring/)."
-- **[Noun](/en/post/noun/) (n, informal)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [gentle](/en/post/gentle/), [innocent](/en/post/innocent/), [or](/en/post/or/) naive. [Example](/en/post/example/): "[She](/en/post/she/) was [as](/en/post/as/) meek [as](/en/post/as/) [a](/en/post/a/) [lamb](/en/post/lamb/) [despite](/en/post/despite/) [the](/en/post/the/) [harsh](/en/post/harsh/) [treatment](/en/post/treatment/) [she](/en/post/she/) received."
-- **[Noun](/en/post/noun/) (n, [religious](/en/post/religious/))**: [In](/en/post/in/) Christianity, Jesus Christ is [often](/en/post/often/) referred [to](/en/post/to/) [as](/en/post/as/) [the](/en/post/the/) "[Lamb](/en/post/lamb/) [of](/en/post/of/) God," symbolizing [his](/en/post/his/) innocence [and](/en/post/and/) [sacrifice](/en/post/sacrifice/).
-- **[Verb](/en/post/verb/) (v, transitive)**: [To](/en/post/to/) [give](/en/post/give/) [birth](/en/post/birth/) [to](/en/post/to/) [a](/en/post/a/) [lamb](/en/post/lamb/). [Example](/en/post/example/): "[The](/en/post/the/) ewe lambed [three](/en/post/three/) [healthy](/en/post/healthy/) offspring [this](/en/post/this/) [season](/en/post/season/)."
-- **[Verb](/en/post/verb/) (v, culinary)**: [To](/en/post/to/) [prepare](/en/post/prepare/) [or](/en/post/or/) [cook](/en/post/cook/) [lamb](/en/post/lamb/) [meat](/en/post/meat/) [for](/en/post/for/) [consumption](/en/post/consumption/). [Example](/en/post/example/): "[The](/en/post/the/) chef specializes [in](/en/post/in/) lambing dishes [from](/en/post/from/) [around](/en/post/around/) [the](/en/post/the/) Mediterranean."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [young](/post/young/) [sheep](/post/sheep/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is [less](/post/less/) [than](/post/than/) [a](/post/a/) [year](/post/year/) [old](/post/old/). [Example](/post/example/): "[The](/post/the/) [shepherd](/post/shepherd/) tended [to](/post/to/) [his](/post/his/) [flock](/post/flock/) [of](/post/of/) lambs [in](/post/in/) [the](/post/the/) [spring](/post/spring/)."
+- **[Noun](/post/noun/) (n, informal)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [gentle](/post/gentle/), [innocent](/post/innocent/), [or](/post/or/) naive. [Example](/post/example/): "[She](/post/she/) was [as](/post/as/) meek [as](/post/as/) [a](/post/a/) [lamb](/post/lamb/) [despite](/post/despite/) [the](/post/the/) [harsh](/post/harsh/) [treatment](/post/treatment/) [she](/post/she/) received."
+- **[Noun](/post/noun/) (n, [religious](/post/religious/))**: [In](/post/in/) Christianity, Jesus Christ is [often](/post/often/) referred [to](/post/to/) [as](/post/as/) [the](/post/the/) "[Lamb](/post/lamb/) [of](/post/of/) God," symbolizing [his](/post/his/) innocence [and](/post/and/) [sacrifice](/post/sacrifice/).
+- **[Verb](/post/verb/) (v, transitive)**: [To](/post/to/) [give](/post/give/) [birth](/post/birth/) [to](/post/to/) [a](/post/a/) [lamb](/post/lamb/). [Example](/post/example/): "[The](/post/the/) ewe lambed [three](/post/three/) [healthy](/post/healthy/) offspring [this](/post/this/) [season](/post/season/)."
+- **[Verb](/post/verb/) (v, culinary)**: [To](/post/to/) [prepare](/post/prepare/) [or](/post/or/) [cook](/post/cook/) [lamb](/post/lamb/) [meat](/post/meat/) [for](/post/for/) [consumption](/post/consumption/). [Example](/post/example/): "[The](/post/the/) chef specializes [in](/post/in/) lambing dishes [from](/post/from/) [around](/post/around/) [the](/post/the/) Mediterranean."
 
 ## Phrases
-- "[Like](/en/post/like/) [a](/en/post/a/) [lamb](/en/post/lamb/) [to](/en/post/to/) [the](/en/post/the/) slaughter": Refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) goes innocently [or](/en/post/or/) unsuspectingly [into](/en/post/into/) [a](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [they](/en/post/they/) [will](/en/post/will/) [be](/en/post/be/) harmed.
-- "[A](/en/post/a/) sacrificial [lamb](/en/post/lamb/)": [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) suffers [or](/en/post/or/) is sacrificed [for](/en/post/for/) [the](/en/post/the/) [benefit](/en/post/benefit/) [or](/en/post/or/) well-being [of](/en/post/of/) others.
+- "[Like](/post/like/) [a](/post/a/) [lamb](/post/lamb/) [to](/post/to/) [the](/post/the/) slaughter": Refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) goes innocently [or](/post/or/) unsuspectingly [into](/post/into/) [a](/post/a/) [situation](/post/situation/) [where](/post/where/) [they](/post/they/) [will](/post/will/) [be](/post/be/) harmed.
+- "[A](/post/a/) sacrificial [lamb](/post/lamb/)": [A](/post/a/) [person](/post/person/) [who](/post/who/) suffers [or](/post/or/) is sacrificed [for](/post/for/) [the](/post/the/) [benefit](/post/benefit/) [or](/post/or/) well-being [of](/post/of/) others.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([animal](/en/post/animal/))**: "[The](/en/post/the/) [little](/en/post/little/) [girl](/en/post/girl/) bottle-fed [the](/en/post/the/) orphaned [lamb](/en/post/lamb/) [until](/en/post/until/) [it](/en/post/it/) [could](/en/post/could/) [eat](/en/post/eat/) [on](/en/post/on/) [its](/en/post/its/) [own](/en/post/own/)."
-- **[Noun](/en/post/noun/) ([person](/en/post/person/))**: "[Despite](/en/post/despite/) [being](/en/post/being/) [new](/en/post/new/) [to](/en/post/to/) [the](/en/post/the/) [political](/en/post/political/) arena, [he](/en/post/he/) was [quickly](/en/post/quickly/) labeled [as](/en/post/as/) [a](/en/post/a/) [lamb](/en/post/lamb/) [due](/en/post/due/) [to](/en/post/to/) [his](/en/post/his/) trusting [nature](/en/post/nature/)."
-- **[Religious](/en/post/religious/)**: "[In](/en/post/in/) John's Gospel, Jesus is called [the](/en/post/the/) [Lamb](/en/post/lamb/) [of](/en/post/of/) God, signifying [his](/en/post/his/) [role](/en/post/role/) [in](/en/post/in/) salvation."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) had [to](/en/post/to/) [lamb](/en/post/lamb/) [several](/en/post/several/) ewes [during](/en/post/during/) [the](/en/post/the/) [difficult](/en/post/difficult/) [winter](/en/post/winter/) months."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([animal](/post/animal/))**: "[The](/post/the/) [little](/post/little/) [girl](/post/girl/) bottle-fed [the](/post/the/) orphaned [lamb](/post/lamb/) [until](/post/until/) [it](/post/it/) [could](/post/could/) [eat](/post/eat/) [on](/post/on/) [its](/post/its/) [own](/post/own/)."
+- **[Noun](/post/noun/) ([person](/post/person/))**: "[Despite](/post/despite/) [being](/post/being/) [new](/post/new/) [to](/post/to/) [the](/post/the/) [political](/post/political/) arena, [he](/post/he/) was [quickly](/post/quickly/) labeled [as](/post/as/) [a](/post/a/) [lamb](/post/lamb/) [due](/post/due/) [to](/post/to/) [his](/post/his/) trusting [nature](/post/nature/)."
+- **[Religious](/post/religious/)**: "[In](/post/in/) John's Gospel, Jesus is called [the](/post/the/) [Lamb](/post/lamb/) [of](/post/of/) God, signifying [his](/post/his/) [role](/post/role/) [in](/post/in/) salvation."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [farmer](/post/farmer/) had [to](/post/to/) [lamb](/post/lamb/) [several](/post/several/) ewes [during](/post/during/) [the](/post/the/) [difficult](/post/difficult/) [winter](/post/winter/) months."
 
 ## Synonyms
 - Ewe's offspring
-- [Young](/en/post/young/) [sheep](/en/post/sheep/)
-- Yearling ([in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [a](/en/post/a/) [sheep](/en/post/sheep/))
-- [Innocent](/en/post/innocent/) [person](/en/post/person/)
-- Naive [individual](/en/post/individual/) ([in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/)) 
+- [Young](/post/young/) [sheep](/post/sheep/)
+- Yearling ([in](/post/in/) [reference](/post/reference/) [to](/post/to/) [a](/post/a/) [sheep](/post/sheep/))
+- [Innocent](/post/innocent/) [person](/post/person/)
+- Naive [individual](/post/individual/) ([in](/post/in/) [reference](/post/reference/) [to](/post/to/) [a](/post/a/) [person](/post/person/)) 
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) [of](/en/post/of/) "[lamb](/en/post/lamb/)" does [not](/en/post/not/) [have](/en/post/have/) [direct](/en/post/direct/) synonyms [in](/en/post/in/) [its](/en/post/its/) [sense](/en/post/sense/) related [to](/en/post/to/) giving [birth](/en/post/birth/) [to](/en/post/to/) lambs [or](/en/post/or/) preparing [lamb](/en/post/lamb/) [meat](/en/post/meat/), [but](/en/post/but/) [the](/en/post/the/) actions [can](/en/post/can/) [be](/en/post/be/) described using [other](/en/post/other/) verbs [like](/en/post/like/) "[give](/en/post/give/) [birth](/en/post/birth/) [to](/en/post/to/)" [or](/en/post/or/) "[prepare](/en/post/prepare/)/[cook](/en/post/cook/)."
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) [of](/post/of/) "[lamb](/post/lamb/)" does [not](/post/not/) [have](/post/have/) [direct](/post/direct/) synonyms [in](/post/in/) [its](/post/its/) [sense](/post/sense/) related [to](/post/to/) giving [birth](/post/birth/) [to](/post/to/) lambs [or](/post/or/) preparing [lamb](/post/lamb/) [meat](/post/meat/), [but](/post/but/) [the](/post/the/) actions [can](/post/can/) [be](/post/be/) described using [other](/post/other/) verbs [like](/post/like/) "[give](/post/give/) [birth](/post/birth/) [to](/post/to/)" [or](/post/or/) "[prepare](/post/prepare/)/[cook](/post/cook/)."

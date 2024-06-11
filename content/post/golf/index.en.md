@@ -7,31 +7,31 @@ description = '[gɔlf] n.高尔夫球'
 keywords = ['ai words', 'golf']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡɑːlf/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [sport](/en/post/sport/) played [on](/en/post/on/) [a](/en/post/a/) [large](/en/post/large/) [outdoor](/en/post/outdoor/) [course](/en/post/course/) [where](/en/post/where/) players [use](/en/post/use/) clubs [to](/en/post/to/) [hit](/en/post/hit/) [a](/en/post/a/) [small](/en/post/small/), [hard](/en/post/hard/) [ball](/en/post/ball/) [into](/en/post/into/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) holes [with](/en/post/with/) [the](/en/post/the/) fewest [number](/en/post/number/) [of](/en/post/of/) strokes [possible](/en/post/possible/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) spent [his](/en/post/his/) weekends playing [golf](/en/post/golf/) [with](/en/post/with/) [his](/en/post/his/) friends [at](/en/post/at/) [the](/en/post/the/) [country](/en/post/country/) [club](/en/post/club/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [sport](/post/sport/) played [on](/post/on/) [a](/post/a/) [large](/post/large/) [outdoor](/post/outdoor/) [course](/post/course/) [where](/post/where/) players [use](/post/use/) clubs [to](/post/to/) [hit](/post/hit/) [a](/post/a/) [small](/post/small/), [hard](/post/hard/) [ball](/post/ball/) [into](/post/into/) [a](/post/a/) [series](/post/series/) [of](/post/of/) holes [with](/post/with/) [the](/post/the/) fewest [number](/post/number/) [of](/post/of/) strokes [possible](/post/possible/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) spent [his](/post/his/) weekends playing [golf](/post/golf/) [with](/post/with/) [his](/post/his/) friends [at](/post/at/) [the](/post/the/) [country](/post/country/) [club](/post/club/)."
   - *Phrasal Verbs*:
-    - "[to](/en/post/to/) [go](/en/post/go/) golfing": [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [the](/en/post/the/) [activity](/en/post/activity/) [of](/en/post/of/) playing [golf](/en/post/golf/). [Example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [go](/en/post/go/) golfing [on](/en/post/on/) [their](/en/post/their/) [vacation](/en/post/vacation/)."
-    - "[to](/en/post/to/) tee [off](/en/post/off/)": [To](/en/post/to/) [begin](/en/post/begin/) [a](/en/post/a/) [round](/en/post/round/) [of](/en/post/of/) [golf](/en/post/golf/) [by](/en/post/by/) hitting [the](/en/post/the/) [first](/en/post/first/) [shot](/en/post/shot/) [from](/en/post/from/) [the](/en/post/the/) teeing [ground](/en/post/ground/). [Example](/en/post/example/): "[The](/en/post/the/) golfer teed [off](/en/post/off/) [early](/en/post/early/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/) [to](/en/post/to/) [avoid](/en/post/avoid/) [the](/en/post/the/) [heat](/en/post/heat/)."
+    - "[to](/post/to/) [go](/post/go/) golfing": [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [the](/post/the/) [activity](/post/activity/) [of](/post/of/) playing [golf](/post/golf/). [Example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [go](/post/go/) golfing [on](/post/on/) [their](/post/their/) [vacation](/post/vacation/)."
+    - "[to](/post/to/) tee [off](/post/off/)": [To](/post/to/) [begin](/post/begin/) [a](/post/a/) [round](/post/round/) [of](/post/of/) [golf](/post/golf/) [by](/post/by/) hitting [the](/post/the/) [first](/post/first/) [shot](/post/shot/) [from](/post/from/) [the](/post/the/) teeing [ground](/post/ground/). [Example](/post/example/): "[The](/post/the/) golfer teed [off](/post/off/) [early](/post/early/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/) [to](/post/to/) [avoid](/post/avoid/) [the](/post/the/) [heat](/post/heat/)."
 
 ## Phrases
-- "[Hole](/en/post/hole/) [in](/en/post/in/) [one](/en/post/one/)": Refers [to](/en/post/to/) [when](/en/post/when/) [a](/en/post/a/) golfer hits [the](/en/post/the/) [ball](/en/post/ball/) [directly](/en/post/directly/) [into](/en/post/into/) [the](/en/post/the/) [hole](/en/post/hole/) [from](/en/post/from/) [the](/en/post/the/) tee [with](/en/post/with/) [just](/en/post/just/) [one](/en/post/one/) [stroke](/en/post/stroke/).
-- "Par [for](/en/post/for/) [the](/en/post/the/) [course](/en/post/course/)": Originating [from](/en/post/from/) [golf](/en/post/golf/), [this](/en/post/this/) [phrase](/en/post/phrase/) [now](/en/post/now/) [means](/en/post/means/) [that](/en/post/that/) [something](/en/post/something/) is [normal](/en/post/normal/) [or](/en/post/or/) expected [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/).
-- "Fore": [A](/en/post/a/) warning shouted [by](/en/post/by/) [a](/en/post/a/) golfer [to](/en/post/to/) alert others [nearby](/en/post/nearby/) [that](/en/post/that/) [a](/en/post/a/) [ball](/en/post/ball/) [might](/en/post/might/) [be](/en/post/be/) [heading](/en/post/heading/) [in](/en/post/in/) [their](/en/post/their/) [direction](/en/post/direction/).
+- "[Hole](/post/hole/) [in](/post/in/) [one](/post/one/)": Refers [to](/post/to/) [when](/post/when/) [a](/post/a/) golfer hits [the](/post/the/) [ball](/post/ball/) [directly](/post/directly/) [into](/post/into/) [the](/post/the/) [hole](/post/hole/) [from](/post/from/) [the](/post/the/) tee [with](/post/with/) [just](/post/just/) [one](/post/one/) [stroke](/post/stroke/).
+- "Par [for](/post/for/) [the](/post/the/) [course](/post/course/)": Originating [from](/post/from/) [golf](/post/golf/), [this](/post/this/) [phrase](/post/phrase/) [now](/post/now/) [means](/post/means/) [that](/post/that/) [something](/post/something/) is [normal](/post/normal/) [or](/post/or/) expected [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/).
+- "Fore": [A](/post/a/) warning shouted [by](/post/by/) [a](/post/a/) golfer [to](/post/to/) alert others [nearby](/post/nearby/) [that](/post/that/) [a](/post/a/) [ball](/post/ball/) [might](/post/might/) [be](/post/be/) [heading](/post/heading/) [in](/post/in/) [their](/post/their/) [direction](/post/direction/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Golf](/en/post/golf/) requires [both](/en/post/both/) [physical](/en/post/physical/) [skill](/en/post/skill/) [and](/en/post/and/) [mental](/en/post/mental/) [strategy](/en/post/strategy/) [to](/en/post/to/) navigate [the](/en/post/the/) [various](/en/post/various/) terrains [of](/en/post/of/) [the](/en/post/the/) [course](/en/post/course/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[After](/en/post/after/) retiring, [he](/en/post/he/) took [up](/en/post/up/) golfing [as](/en/post/as/) [a](/en/post/a/) [hobby](/en/post/hobby/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[With](/en/post/with/) [a](/en/post/a/) [powerful](/en/post/powerful/) [swing](/en/post/swing/), [she](/en/post/she/) [successfully](/en/post/successfully/) teed [off](/en/post/off/) [on](/en/post/on/) [the](/en/post/the/) challenging [first](/en/post/first/) [hole](/en/post/hole/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Golf](/post/golf/) requires [both](/post/both/) [physical](/post/physical/) [skill](/post/skill/) [and](/post/and/) [mental](/post/mental/) [strategy](/post/strategy/) [to](/post/to/) navigate [the](/post/the/) [various](/post/various/) terrains [of](/post/of/) [the](/post/the/) [course](/post/course/)."
+- **Phrasal [Verb](/post/verb/)**: "[After](/post/after/) retiring, [he](/post/he/) took [up](/post/up/) golfing [as](/post/as/) [a](/post/a/) [hobby](/post/hobby/)."
+- **Phrasal [Verb](/post/verb/)**: "[With](/post/with/) [a](/post/a/) [powerful](/post/powerful/) [swing](/post/swing/), [she](/post/she/) [successfully](/post/successfully/) teed [off](/post/off/) [on](/post/on/) [the](/post/the/) challenging [first](/post/first/) [hole](/post/hole/)."
 
 ## Synonyms
 - Links
-- [Golf](/en/post/golf/) [game](/en/post/game/)
-- [Golf](/en/post/golf/) [match](/en/post/match/)
-- [Golf](/en/post/golf/) tournament
+- [Golf](/post/golf/) [game](/post/game/)
+- [Golf](/post/golf/) [match](/post/match/)
+- [Golf](/post/golf/) tournament
 - Fairway
-- Driving [range](/en/post/range/)
+- Driving [range](/post/range/)
 
-[Note](/en/post/note/): [While](/en/post/while/) "[golf](/en/post/golf/)" [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [in](/en/post/in/) [certain](/en/post/certain/) phrasal contexts ([like](/en/post/like/) "[go](/en/post/go/) golfing" [or](/en/post/or/) "tee [off](/en/post/off/)"), [it](/en/post/it/) doesn't [have](/en/post/have/) [a](/en/post/a/) [distinct](/en/post/distinct/) [entry](/en/post/entry/) [as](/en/post/as/) [a](/en/post/a/) standalone [verb](/en/post/verb/) [in](/en/post/in/) [traditional](/en/post/traditional/) English dictionaries.
+[Note](/post/note/): [While](/post/while/) "[golf](/post/golf/)" [can](/post/can/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [in](/post/in/) [certain](/post/certain/) phrasal contexts ([like](/post/like/) "[go](/post/go/) golfing" [or](/post/or/) "tee [off](/post/off/)"), [it](/post/it/) doesn't [have](/post/have/) [a](/post/a/) [distinct](/post/distinct/) [entry](/post/entry/) [as](/post/as/) [a](/post/a/) standalone [verb](/post/verb/) [in](/post/in/) [traditional](/post/traditional/) English dictionaries.

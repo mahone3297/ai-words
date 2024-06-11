@@ -7,43 +7,43 @@ description = '[mɑːk] n.斑点；记号 vt.标明'
 keywords = ['ai words', 'mark']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /mɑːrk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - [A](/en/post/a/) [symbol](/en/post/symbol/) [or](/en/post/or/) [sign](/en/post/sign/) [that](/en/post/that/) is [used](/en/post/used/) [to](/en/post/to/) [identify](/en/post/identify/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/), [often](/en/post/often/) serving [as](/en/post/as/) [a](/en/post/a/) [label](/en/post/label/) [or](/en/post/or/) [brand](/en/post/brand/) [name](/en/post/name/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) logo is [their](/en/post/their/) [unique](/en/post/unique/) [mark](/en/post/mark/)."
-  - [A](/en/post/a/) [visible](/en/post/visible/) [impression](/en/post/impression/), [stain](/en/post/stain/), [or](/en/post/or/) blemish [left](/en/post/left/) [on](/en/post/on/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) was [a](/en/post/a/) [water](/en/post/water/) [mark](/en/post/mark/) [on](/en/post/on/) [the](/en/post/the/) [ceiling](/en/post/ceiling/)."
-  - [A](/en/post/a/) [score](/en/post/score/) [or](/en/post/or/) [grade](/en/post/grade/) given [in](/en/post/in/) an evaluation [or](/en/post/or/) assessment. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) received [high](/en/post/high/) marks [in](/en/post/in/) [her](/en/post/her/) math [exam](/en/post/exam/)."
-  - [In](/en/post/in/) [legal](/en/post/legal/) terms, [it](/en/post/it/) refers [to](/en/post/to/) [a](/en/post/a/) registered trademark [symbol](/en/post/symbol/) (™) [or](/en/post/or/) [a](/en/post/a/) copyright [symbol](/en/post/symbol/) (©).
+- **[Noun](/post/noun/)**: 
+  - [A](/post/a/) [symbol](/post/symbol/) [or](/post/or/) [sign](/post/sign/) [that](/post/that/) is [used](/post/used/) [to](/post/to/) [identify](/post/identify/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/), [often](/post/often/) serving [as](/post/as/) [a](/post/a/) [label](/post/label/) [or](/post/or/) [brand](/post/brand/) [name](/post/name/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) logo is [their](/post/their/) [unique](/post/unique/) [mark](/post/mark/)."
+  - [A](/post/a/) [visible](/post/visible/) [impression](/post/impression/), [stain](/post/stain/), [or](/post/or/) blemish [left](/post/left/) [on](/post/on/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[There](/post/there/) was [a](/post/a/) [water](/post/water/) [mark](/post/mark/) [on](/post/on/) [the](/post/the/) [ceiling](/post/ceiling/)."
+  - [A](/post/a/) [score](/post/score/) [or](/post/or/) [grade](/post/grade/) given [in](/post/in/) an evaluation [or](/post/or/) assessment. [For](/post/for/) [example](/post/example/): "[She](/post/she/) received [high](/post/high/) marks [in](/post/in/) [her](/post/her/) math [exam](/post/exam/)."
+  - [In](/post/in/) [legal](/post/legal/) terms, [it](/post/it/) refers [to](/post/to/) [a](/post/a/) registered trademark [symbol](/post/symbol/) (™) [or](/post/or/) [a](/post/a/) copyright [symbol](/post/symbol/) (©).
   
-- **[Verb](/en/post/verb/)**:
-  - [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [visible](/en/post/visible/) [impression](/en/post/impression/) [or](/en/post/or/) [stain](/en/post/stain/) [on](/en/post/on/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [dog](/en/post/dog/) marked [the](/en/post/the/) [tree](/en/post/tree/) [with](/en/post/with/) [its](/en/post/its/) [scent](/en/post/scent/)."
-  - [To](/en/post/to/) [indicate](/en/post/indicate/) one's [presence](/en/post/presence/) [or](/en/post/or/) [passage](/en/post/passage/) [by](/en/post/by/) leaving [a](/en/post/a/) [sign](/en/post/sign/) [or](/en/post/or/) [symbol](/en/post/symbol/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) marked [the](/en/post/the/) [trail](/en/post/trail/) [so](/en/post/so/) [we](/en/post/we/) wouldn't [get](/en/post/get/) lost."
-  - [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [grade](/en/post/grade/) [or](/en/post/or/) [score](/en/post/score/) [to](/en/post/to/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) marked [the](/en/post/the/) students' essays."
-  - [To](/en/post/to/) [identify](/en/post/identify/) [or](/en/post/or/) [distinguish](/en/post/distinguish/) [something](/en/post/something/) [by](/en/post/by/) giving [it](/en/post/it/) [a](/en/post/a/) [specific](/en/post/specific/) [characteristic](/en/post/characteristic/) [or](/en/post/or/) [feature](/en/post/feature/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) artist's [work](/en/post/work/) is [easily](/en/post/easily/) marked [by](/en/post/by/) [his](/en/post/his/) [unique](/en/post/unique/) [style](/en/post/style/)."
+- **[Verb](/post/verb/)**:
+  - [To](/post/to/) [make](/post/make/) [a](/post/a/) [visible](/post/visible/) [impression](/post/impression/) [or](/post/or/) [stain](/post/stain/) [on](/post/on/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [dog](/post/dog/) marked [the](/post/the/) [tree](/post/tree/) [with](/post/with/) [its](/post/its/) [scent](/post/scent/)."
+  - [To](/post/to/) [indicate](/post/indicate/) one's [presence](/post/presence/) [or](/post/or/) [passage](/post/passage/) [by](/post/by/) leaving [a](/post/a/) [sign](/post/sign/) [or](/post/or/) [symbol](/post/symbol/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) marked [the](/post/the/) [trail](/post/trail/) [so](/post/so/) [we](/post/we/) wouldn't [get](/post/get/) lost."
+  - [To](/post/to/) [give](/post/give/) [a](/post/a/) [grade](/post/grade/) [or](/post/or/) [score](/post/score/) [to](/post/to/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) marked [the](/post/the/) students' essays."
+  - [To](/post/to/) [identify](/post/identify/) [or](/post/or/) [distinguish](/post/distinguish/) [something](/post/something/) [by](/post/by/) giving [it](/post/it/) [a](/post/a/) [specific](/post/specific/) [characteristic](/post/characteristic/) [or](/post/or/) [feature](/post/feature/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) artist's [work](/post/work/) is [easily](/post/easily/) marked [by](/post/by/) [his](/post/his/) [unique](/post/unique/) [style](/post/style/)."
   
-- **[Adjective](/en/post/adjective/)**:
-  - [Characteristic](/en/post/characteristic/) [or](/en/post/or/) distinctive; indicative [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [quality](/en/post/quality/) [or](/en/post/or/) trait. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [behavior](/en/post/behavior/) was markedly [different](/en/post/different/) [from](/en/post/from/) [the](/en/post/the/) others."
+- **[Adjective](/post/adjective/)**:
+  - [Characteristic](/post/characteristic/) [or](/post/or/) distinctive; indicative [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [quality](/post/quality/) [or](/post/or/) trait. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [behavior](/post/behavior/) was markedly [different](/post/different/) [from](/post/from/) [the](/post/the/) others."
 
 ## Phrases
-- "[Make](/en/post/make/) [your](/en/post/your/) [mark](/en/post/mark/)" [means](/en/post/means/) [to](/en/post/to/) [achieve](/en/post/achieve/) [something](/en/post/something/) [significant](/en/post/significant/) [or](/en/post/or/) [leave](/en/post/leave/) [a](/en/post/a/) lasting [impact](/en/post/impact/).
-- "[Mark](/en/post/mark/) [my](/en/post/my/) words" is [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [the](/en/post/the/) speaker's [belief](/en/post/belief/) [in](/en/post/in/) [the](/en/post/the/) [truth](/en/post/truth/) [or](/en/post/or/) [importance](/en/post/importance/) [of](/en/post/of/) [what](/en/post/what/) they're saying.
-- "[To](/en/post/to/) [be](/en/post/be/) [off](/en/post/off/) [the](/en/post/the/) [mark](/en/post/mark/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) inaccurate [or](/en/post/or/) [not](/en/post/not/) hitting [the](/en/post/the/) [target](/en/post/target/).
+- "[Make](/post/make/) [your](/post/your/) [mark](/post/mark/)" [means](/post/means/) [to](/post/to/) [achieve](/post/achieve/) [something](/post/something/) [significant](/post/significant/) [or](/post/or/) [leave](/post/leave/) [a](/post/a/) lasting [impact](/post/impact/).
+- "[Mark](/post/mark/) [my](/post/my/) words" is [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [the](/post/the/) speaker's [belief](/post/belief/) [in](/post/in/) [the](/post/the/) [truth](/post/truth/) [or](/post/or/) [importance](/post/importance/) [of](/post/of/) [what](/post/what/) they're saying.
+- "[To](/post/to/) [be](/post/be/) [off](/post/off/) [the](/post/the/) [mark](/post/mark/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) inaccurate [or](/post/or/) [not](/post/not/) hitting [the](/post/the/) [target](/post/target/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [athlete](/en/post/athlete/) made [his](/en/post/his/) [mark](/en/post/mark/) [on](/en/post/on/) [the](/en/post/the/) [sport](/en/post/sport/) [with](/en/post/with/) [multiple](/en/post/multiple/) records."
-- **[Verb](/en/post/verb/)**: "I'll [mark](/en/post/mark/) [the](/en/post/the/) pages [in](/en/post/in/) [the](/en/post/the/) [book](/en/post/book/) [that](/en/post/that/) [need](/en/post/need/) [further](/en/post/further/) [review](/en/post/review/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) innovative ideas were [a](/en/post/a/) [mark](/en/post/mark/) [of](/en/post/of/) [his](/en/post/his/) [creative](/en/post/creative/) [genius](/en/post/genius/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [athlete](/post/athlete/) made [his](/post/his/) [mark](/post/mark/) [on](/post/on/) [the](/post/the/) [sport](/post/sport/) [with](/post/with/) [multiple](/post/multiple/) records."
+- **[Verb](/post/verb/)**: "I'll [mark](/post/mark/) [the](/post/the/) pages [in](/post/in/) [the](/post/the/) [book](/post/book/) [that](/post/that/) [need](/post/need/) [further](/post/further/) [review](/post/review/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) innovative ideas were [a](/post/a/) [mark](/post/mark/) [of](/post/of/) [his](/post/his/) [creative](/post/creative/) [genius](/post/genius/)."
 
 ## Synonyms
-- [Sign](/en/post/sign/)
-- [Symbol](/en/post/symbol/)
-- [Stamp](/en/post/stamp/)
-- [Score](/en/post/score/)
-- [Grade](/en/post/grade/)
-- [Trace](/en/post/trace/)
-- [Stain](/en/post/stain/)
-- [Brand](/en/post/brand/)
-- [Identify](/en/post/identify/)
-- [Distinguish](/en/post/distinguish/)
+- [Sign](/post/sign/)
+- [Symbol](/post/symbol/)
+- [Stamp](/post/stamp/)
+- [Score](/post/score/)
+- [Grade](/post/grade/)
+- [Trace](/post/trace/)
+- [Stain](/post/stain/)
+- [Brand](/post/brand/)
+- [Identify](/post/identify/)
+- [Distinguish](/post/distinguish/)

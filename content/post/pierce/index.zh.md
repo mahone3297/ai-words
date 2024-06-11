@@ -11,22 +11,22 @@ keywords = ['ai words', 'pierce']
 /pɪərs/
 
 ## 释义
-- **动词**: 刺穿，穿透。例如: "[The](/post/the/) [arrow](/post/arrow/) pierced [the](/post/the/) [target](/post/target/)."
-- **名词**: 穿孔，刺孔。例如: "[She](/post/she/) has [a](/post/a/) piercing [in](/post/in/) [her](/post/her/) [nose](/post/nose/)."
-- **名词**: （码头上的）突堤，栈桥。例如: "[The](/post/the/) ferry docked [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) pier."
+- **动词**: 刺穿，穿透。例如: "[The](/zh/post/the/) [arrow](/zh/post/arrow/) pierced [the](/zh/post/the/) [target](/zh/post/target/)."
+- **名词**: 穿孔，刺孔。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) piercing [in](/zh/post/in/) [her](/zh/post/her/) [nose](/zh/post/nose/)."
+- **名词**: （码头上的）突堤，栈桥。例如: "[The](/zh/post/the/) ferry docked [at](/zh/post/at/) [the](/zh/post/the/) [end](/zh/post/end/) [of](/zh/post/of/) [the](/zh/post/the/) pier."
 
 ## 短语
-- "[pierce](/post/pierce/) [through](/post/through/)" 穿透，刺透。例如: "[The](/post/the/) [sword](/post/sword/) pierced [through](/post/through/) [the](/post/the/) armor."
-- "[ear](/post/ear/) piercing" 耳洞。例如: "[She](/post/she/) got [her](/post/her/) ears pierced [last](/post/last/) [week](/post/week/)."
+- "[pierce](/zh/post/pierce/) [through](/zh/post/through/)" 穿透，刺透。例如: "[The](/zh/post/the/) [sword](/zh/post/sword/) pierced [through](/zh/post/through/) [the](/zh/post/the/) armor."
+- "[ear](/zh/post/ear/) piercing" 耳洞。例如: "[She](/zh/post/she/) got [her](/zh/post/her/) ears pierced [last](/zh/post/last/) [week](/zh/post/week/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [spear](/post/spear/) pierced [the](/post/the/) knight's [shield](/post/shield/)."
-- 名词: "[The](/post/the/) [child](/post/child/) was fascinated [by](/post/by/) [the](/post/the/) colorful lights [on](/post/on/) [the](/post/the/) pier."
-- 名词: "[She](/post/she/) sat [on](/post/on/) [the](/post/the/) pier, enjoying [the](/post/the/) [sea](/post/sea/) [breeze](/post/breeze/)."
+- 动词: "[The](/zh/post/the/) [spear](/zh/post/spear/) pierced [the](/zh/post/the/) knight's [shield](/zh/post/shield/)."
+- 名词: "[The](/zh/post/the/) [child](/zh/post/child/) was fascinated [by](/zh/post/by/) [the](/zh/post/the/) colorful lights [on](/zh/post/on/) [the](/zh/post/the/) pier."
+- 名词: "[She](/zh/post/she/) sat [on](/zh/post/on/) [the](/zh/post/the/) pier, enjoying [the](/zh/post/the/) [sea](/zh/post/sea/) [breeze](/zh/post/breeze/)."
 
 ## 同义词
-- [stab](/post/stab/)
-- [penetrate](/post/penetrate/)
+- [stab](/zh/post/stab/)
+- [penetrate](/zh/post/penetrate/)
 - perforate
-- [bore](/post/bore/)
-- [cut](/post/cut/) [through](/post/through/)
+- [bore](/zh/post/bore/)
+- [cut](/zh/post/cut/) [through](/zh/post/through/)

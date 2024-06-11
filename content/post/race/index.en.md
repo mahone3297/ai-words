@@ -7,42 +7,42 @@ description = 'n.人种，种族，民族'
 keywords = ['ai words', 'race']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈseɪs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [competition](/en/post/competition/)** [between](/en/post/between/) individuals [or](/en/post/or/) teams, [often](/en/post/often/) based [on](/en/post/on/) [speed](/en/post/speed/), [skill](/en/post/skill/), [or](/en/post/or/) endurance: "[The](/en/post/the/) [annual](/en/post/annual/) marathon [race](/en/post/race/) drew thousands [of](/en/post/of/) participants."
-2. **Biological [classification](/en/post/classification/)** [of](/en/post/of/) organisms, typically based [on](/en/post/on/) shared [physical](/en/post/physical/) characteristics: "[There](/en/post/there/) are [many](/en/post/many/) [different](/en/post/different/) species [within](/en/post/within/) [the](/en/post/the/) [human](/en/post/human/) [race](/en/post/race/)."
-3. **[Social](/en/post/social/) [group](/en/post/group/) [or](/en/post/or/) ethnicity** [with](/en/post/with/) [a](/en/post/a/) [common](/en/post/common/) ancestry [or](/en/post/or/) cultural heritage: "[The](/en/post/the/) Irish [race](/en/post/race/) has [a](/en/post/a/) [rich](/en/post/rich/) [tradition](/en/post/tradition/) [of](/en/post/of/) storytelling."
-4. **[A](/en/post/a/) [particular](/en/post/particular/) [event](/en/post/event/) [or](/en/post/or/) [instance](/en/post/instance/)** [in](/en/post/in/) [time](/en/post/time/): "[The](/en/post/the/) [race](/en/post/race/) [for](/en/post/for/) [the](/en/post/the/) presidency is [heating](/en/post/heating/) [up](/en/post/up/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [competition](/post/competition/)** [between](/post/between/) individuals [or](/post/or/) teams, [often](/post/often/) based [on](/post/on/) [speed](/post/speed/), [skill](/post/skill/), [or](/post/or/) endurance: "[The](/post/the/) [annual](/post/annual/) marathon [race](/post/race/) drew thousands [of](/post/of/) participants."
+2. **Biological [classification](/post/classification/)** [of](/post/of/) organisms, typically based [on](/post/on/) shared [physical](/post/physical/) characteristics: "[There](/post/there/) are [many](/post/many/) [different](/post/different/) species [within](/post/within/) [the](/post/the/) [human](/post/human/) [race](/post/race/)."
+3. **[Social](/post/social/) [group](/post/group/) [or](/post/or/) ethnicity** [with](/post/with/) [a](/post/a/) [common](/post/common/) ancestry [or](/post/or/) cultural heritage: "[The](/post/the/) Irish [race](/post/race/) has [a](/post/a/) [rich](/post/rich/) [tradition](/post/tradition/) [of](/post/of/) storytelling."
+4. **[A](/post/a/) [particular](/post/particular/) [event](/post/event/) [or](/post/or/) [instance](/post/instance/)** [in](/post/in/) [time](/post/time/): "[The](/post/the/) [race](/post/race/) [for](/post/for/) [the](/post/the/) presidency is [heating](/post/heating/) [up](/post/up/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [compete](/en/post/compete/)** [in](/en/post/in/) [a](/en/post/a/) [race](/en/post/race/) [or](/en/post/or/) [contest](/en/post/contest/): "She's [training](/en/post/training/) [hard](/en/post/hard/) [to](/en/post/to/) [race](/en/post/race/) [against](/en/post/against/) [her](/en/post/her/) [rival](/en/post/rival/)."
-2. **[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [natural](/en/post/natural/) [tendency](/en/post/tendency/) [or](/en/post/or/) predisposition** [for](/en/post/for/) [something](/en/post/something/): "[He](/en/post/he/) has [a](/en/post/a/) [natural](/en/post/natural/) [race](/en/post/race/) [for](/en/post/for/) [speed](/en/post/speed/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [compete](/post/compete/)** [in](/post/in/) [a](/post/a/) [race](/post/race/) [or](/post/or/) [contest](/post/contest/): "She's [training](/post/training/) [hard](/post/hard/) [to](/post/to/) [race](/post/race/) [against](/post/against/) [her](/post/her/) [rival](/post/rival/)."
+2. **[To](/post/to/) [have](/post/have/) [a](/post/a/) [natural](/post/natural/) [tendency](/post/tendency/) [or](/post/or/) predisposition** [for](/post/for/) [something](/post/something/): "[He](/post/he/) has [a](/post/a/) [natural](/post/natural/) [race](/post/race/) [for](/post/for/) [speed](/post/speed/)."
 
-### [Adjective](/en/post/adjective/)
-1. **[Of](/en/post/of/) [or](/en/post/or/) related [to](/en/post/to/) [a](/en/post/a/) [competition](/en/post/competition/)** [or](/en/post/or/) [contest](/en/post/contest/): "[The](/en/post/the/) racecar was designed [for](/en/post/for/) [speed](/en/post/speed/)."
-2. **Marking [a](/en/post/a/) [difference](/en/post/difference/) [in](/en/post/in/) [appearance](/en/post/appearance/) [or](/en/post/or/) [ability](/en/post/ability/)** [among](/en/post/among/) individuals: "[Her](/en/post/her/) [hair](/en/post/hair/) [color](/en/post/color/) is [a](/en/post/a/) distinguishing [racial](/en/post/racial/) [feature](/en/post/feature/)."
+### [Adjective](/post/adjective/)
+1. **[Of](/post/of/) [or](/post/or/) related [to](/post/to/) [a](/post/a/) [competition](/post/competition/)** [or](/post/or/) [contest](/post/contest/): "[The](/post/the/) racecar was designed [for](/post/for/) [speed](/post/speed/)."
+2. **Marking [a](/post/a/) [difference](/post/difference/) [in](/post/in/) [appearance](/post/appearance/) [or](/post/or/) [ability](/post/ability/)** [among](/post/among/) individuals: "[Her](/post/her/) [hair](/post/hair/) [color](/post/color/) is [a](/post/a/) distinguishing [racial](/post/racial/) [feature](/post/feature/)."
 
 ## Phrases
-- "[Come](/en/post/come/) [race](/en/post/race/) [against](/en/post/against/) [me](/en/post/me/)"
-- "[The](/en/post/the/) [finish](/en/post/finish/) [line](/en/post/line/) is [in](/en/post/in/) [sight](/en/post/sight/)"
-- "[Racial](/en/post/racial/) diversity [in](/en/post/in/) sports"
+- "[Come](/post/come/) [race](/post/race/) [against](/post/against/) [me](/post/me/)"
+- "[The](/post/the/) [finish](/post/finish/) [line](/post/line/) is [in](/post/in/) [sight](/post/sight/)"
+- "[Racial](/post/racial/) diversity [in](/post/in/) sports"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) racecars roared [down](/en/post/down/) [the](/en/post/the/) [track](/en/post/track/), [their](/en/post/their/) engines roaring [in](/en/post/in/) unison."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [enter](/en/post/enter/) [the](/en/post/the/) [charity](/en/post/charity/) [race](/en/post/race/) [to](/en/post/to/) [raise](/en/post/raise/) funds [for](/en/post/for/) [a](/en/post/a/) [good](/en/post/good/) [cause](/en/post/cause/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) athlete's muscular [build](/en/post/build/) gives [them](/en/post/them/) [a](/en/post/a/) competitive [edge](/en/post/edge/) [in](/en/post/in/) [the](/en/post/the/) [race](/en/post/race/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) racecars roared [down](/post/down/) [the](/post/the/) [track](/post/track/), [their](/post/their/) engines roaring [in](/post/in/) unison."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [enter](/post/enter/) [the](/post/the/) [charity](/post/charity/) [race](/post/race/) [to](/post/to/) [raise](/post/raise/) funds [for](/post/for/) [a](/post/a/) [good](/post/good/) [cause](/post/cause/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) athlete's muscular [build](/post/build/) gives [them](/post/them/) [a](/post/a/) competitive [edge](/post/edge/) [in](/post/in/) [the](/post/the/) [race](/post/race/)."
 
 ## Synonyms
-- [Competition](/en/post/competition/)
-- [Contest](/en/post/contest/)
+- [Competition](/post/competition/)
+- [Contest](/post/contest/)
 - Sprint
-- [Dash](/en/post/dash/)
+- [Dash](/post/dash/)
 - Genetic lineage
 - Ethnicity
-- Genetic [background](/en/post/background/)
-- [Natural](/en/post/natural/) aptitude
-- Competitive [edge](/en/post/edge/)
-- Diversity ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) races)
+- Genetic [background](/post/background/)
+- [Natural](/post/natural/) aptitude
+- Competitive [edge](/post/edge/)
+- Diversity ([in](/post/in/) [the](/post/the/) context [of](/post/of/) races)

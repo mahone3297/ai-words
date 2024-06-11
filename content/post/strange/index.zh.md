@@ -11,20 +11,20 @@ keywords = ['ai words', 'strange']
 /strændʒ/
 
 ## 释义
-- **形容词**: 不寻常的，奇怪的，陌生的。例如: "[She](/post/she/) felt [strange](/post/strange/) [in](/post/in/) [the](/post/the/) [new](/post/new/) [city](/post/city/)."
-- **名词**: 陌生人，外地人。例如: "[The](/post/the/) [stranger](/post/stranger/) introduced [himself](/post/himself/) [to](/post/to/) [the](/post/the/) [group](/post/group/)."
+- **形容词**: 不寻常的，奇怪的，陌生的。例如: "[She](/zh/post/she/) felt [strange](/zh/post/strange/) [in](/zh/post/in/) [the](/zh/post/the/) [new](/zh/post/new/) [city](/zh/post/city/)."
+- **名词**: 陌生人，外地人。例如: "[The](/zh/post/the/) [stranger](/zh/post/stranger/) introduced [himself](/zh/post/himself/) [to](/zh/post/to/) [the](/zh/post/the/) [group](/zh/post/group/)."
 
 ## 短语
-- "[Something](/post/something/) [strange](/post/strange/) happened" 表示有不寻常的事情发生。
-- "[a](/post/a/) [strange](/post/strange/) [feeling](/post/feeling/)" 指一种不熟悉或难以解释的情绪。
+- "[Something](/zh/post/something/) [strange](/zh/post/strange/) happened" 表示有不寻常的事情发生。
+- "[a](/zh/post/a/) [strange](/zh/post/strange/) [feeling](/zh/post/feeling/)" 指一种不熟悉或难以解释的情绪。
 
 ## 例句
-- 形容词: "[There](/post/there/) was [a](/post/a/) [strange](/post/strange/) [noise](/post/noise/) coming [from](/post/from/) [the](/post/the/) basement."
-- 名词: "[The](/post/the/) [stranger](/post/stranger/) [at](/post/at/) [the](/post/the/) [door](/post/door/) seemed [nervous](/post/nervous/)."
+- 形容词: "[There](/zh/post/there/) was [a](/zh/post/a/) [strange](/zh/post/strange/) [noise](/zh/post/noise/) coming [from](/zh/post/from/) [the](/zh/post/the/) basement."
+- 名词: "[The](/zh/post/the/) [stranger](/zh/post/stranger/) [at](/zh/post/at/) [the](/zh/post/the/) [door](/zh/post/door/) seemed [nervous](/zh/post/nervous/)."
 
 ## 同义词
-- [Unusual](/post/unusual/)
-- [Peculiar](/post/peculiar/)
-- [Odd](/post/odd/)
+- [Unusual](/zh/post/unusual/)
+- [Peculiar](/zh/post/peculiar/)
+- [Odd](/zh/post/odd/)
 - Bizarre
-- [Out](/post/out/) [of](/post/of/) [the](/post/the/) [ordinary](/post/ordinary/)
+- [Out](/zh/post/out/) [of](/zh/post/of/) [the](/zh/post/the/) [ordinary](/zh/post/ordinary/)

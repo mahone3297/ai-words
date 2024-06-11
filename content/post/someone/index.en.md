@@ -7,31 +7,31 @@ description = '[ˈsʌmwʌn] pron.某人，有人'
 keywords = ['ai words', 'someone']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈmʌn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [person](/en/post/person/), [often](/en/post/often/) unspecified [or](/en/post/or/) [unknown](/en/post/unknown/), referred [to](/en/post/to/) [in](/en/post/in/) [a](/en/post/a/) [sentence](/en/post/sentence/) [or](/en/post/or/) context. 2. [A](/en/post/a/) [particular](/en/post/particular/) [individual](/en/post/individual/), [with](/en/post/with/) [or](/en/post/or/) [without](/en/post/without/) specifying [who](/en/post/who/) [exactly](/en/post/exactly/). 3. [A](/en/post/a/) generic [term](/en/post/term/) [for](/en/post/for/) [someone](/en/post/someone/), [used](/en/post/used/) [when](/en/post/when/) [the](/en/post/the/) identity is unimportant. 
-- **[Pronoun](/en/post/pronoun/)**: [Used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) an [unknown](/en/post/unknown/) [or](/en/post/or/) unspecified [person](/en/post/person/), typically [in](/en/post/in/) [a](/en/post/a/) [question](/en/post/question/) [or](/en/post/or/) [indirect](/en/post/indirect/) [reference](/en/post/reference/). 
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [person](/post/person/), [often](/post/often/) unspecified [or](/post/or/) [unknown](/post/unknown/), referred [to](/post/to/) [in](/post/in/) [a](/post/a/) [sentence](/post/sentence/) [or](/post/or/) context. 2. [A](/post/a/) [particular](/post/particular/) [individual](/post/individual/), [with](/post/with/) [or](/post/or/) [without](/post/without/) specifying [who](/post/who/) [exactly](/post/exactly/). 3. [A](/post/a/) generic [term](/post/term/) [for](/post/for/) [someone](/post/someone/), [used](/post/used/) [when](/post/when/) [the](/post/the/) identity is unimportant. 
+- **[Pronoun](/post/pronoun/)**: [Used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) an [unknown](/post/unknown/) [or](/post/or/) unspecified [person](/post/person/), typically [in](/post/in/) [a](/post/a/) [question](/post/question/) [or](/post/or/) [indirect](/post/indirect/) [reference](/post/reference/). 
 
 ## Phrases
-- "[Someone](/en/post/someone/) is waiting [for](/en/post/for/) [you](/en/post/you/)."
-- "[Can](/en/post/can/) [you](/en/post/you/) [help](/en/post/help/) [me](/en/post/me/) [find](/en/post/find/) [someone](/en/post/someone/)?"
-- "[Anyone](/en/post/anyone/) interested [in](/en/post/in/) [this](/en/post/this/) [should](/en/post/should/) [speak](/en/post/speak/) [up](/en/post/up/)."
+- "[Someone](/post/someone/) is waiting [for](/post/for/) [you](/post/you/)."
+- "[Can](/post/can/) [you](/post/you/) [help](/post/help/) [me](/post/me/) [find](/post/find/) [someone](/post/someone/)?"
+- "[Anyone](/post/anyone/) interested [in](/post/in/) [this](/post/this/) [should](/post/should/) [speak](/post/speak/) [up](/post/up/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I [saw](/en/post/saw/) [someone](/en/post/someone/) walking [down](/en/post/down/) [the](/en/post/the/) [street](/en/post/street/)." 
-- **[Pronoun](/en/post/pronoun/)**: "Did [anyone](/en/post/anyone/) [call](/en/post/call/) [while](/en/post/while/) I was [out](/en/post/out/)?"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I [saw](/post/saw/) [someone](/post/someone/) walking [down](/post/down/) [the](/post/the/) [street](/post/street/)." 
+- **[Pronoun](/post/pronoun/)**: "Did [anyone](/post/anyone/) [call](/post/call/) [while](/post/while/) I was [out](/post/out/)?"
 
 ## Synonyms
-- [Somebody](/en/post/somebody/)
-- [Certain](/en/post/certain/) [person](/en/post/person/)
+- [Somebody](/post/somebody/)
+- [Certain](/post/certain/) [person](/post/person/)
 - Anonymous
-- An [individual](/en/post/individual/)
-- [A](/en/post/a/) [somebody](/en/post/somebody/)
+- An [individual](/post/individual/)
+- [A](/post/a/) [somebody](/post/somebody/)
 
 ## Antonyms
-- [Nobody](/en/post/nobody/)
-- [No](/en/post/no/) [one](/en/post/one/)
-- [Unknown](/en/post/unknown/)
+- [Nobody](/post/nobody/)
+- [No](/post/no/) [one](/post/one/)
+- [Unknown](/post/unknown/)
 - Unspecified

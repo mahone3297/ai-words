@@ -11,22 +11,22 @@ keywords = ['ai words', 'along']
 /əˈlɒŋ/
 
 ## 释义
-- **介词**: 沿着，顺着。例如: "[We](/post/we/) walked [along](/post/along/) [the](/post/the/) riverbank."
-- **副词**: 一起，同时。例如: "[They](/post/they/) worked [along](/post/along/) [on](/post/on/) [the](/post/the/) [project](/post/project/) [for](/post/for/) hours."
-- **形容词**: 长时间的，连续的。例如: "[We](/post/we/) had an [along](/post/along/) [conversation](/post/conversation/) [about](/post/about/) [their](/post/their/) [trip](/post/trip/)."
+- **介词**: 沿着，顺着。例如: "[We](/zh/post/we/) walked [along](/zh/post/along/) [the](/zh/post/the/) riverbank."
+- **副词**: 一起，同时。例如: "[They](/zh/post/they/) worked [along](/zh/post/along/) [on](/zh/post/on/) [the](/zh/post/the/) [project](/zh/post/project/) [for](/zh/post/for/) hours."
+- **形容词**: 长时间的，连续的。例如: "[We](/zh/post/we/) had an [along](/zh/post/along/) [conversation](/zh/post/conversation/) [about](/zh/post/about/) [their](/zh/post/their/) [trip](/zh/post/trip/)."
 
 ## 短语
-- "[Go](/post/go/) [along](/post/along/) [with](/post/with/)" 意为同意或陪同某人。例如: "I decided [to](/post/to/) [go](/post/go/) [along](/post/along/) [with](/post/with/) [her](/post/her/) [plan](/post/plan/)."
-- "[Move](/post/move/) [along](/post/along/)" 用于让某人继续前行或离开。例如: "[Please](/post/please/) [move](/post/move/) [along](/post/along/), there's [a](/post/a/) [queue](/post/queue/)."
+- "[Go](/zh/post/go/) [along](/zh/post/along/) [with](/zh/post/with/)" 意为同意或陪同某人。例如: "I decided [to](/zh/post/to/) [go](/zh/post/go/) [along](/zh/post/along/) [with](/zh/post/with/) [her](/zh/post/her/) [plan](/zh/post/plan/)."
+- "[Move](/zh/post/move/) [along](/zh/post/along/)" 用于让某人继续前行或离开。例如: "[Please](/zh/post/please/) [move](/zh/post/move/) [along](/zh/post/along/), there's [a](/zh/post/a/) [queue](/zh/post/queue/)."
 
 ## 例句
-- 介词: "[The](/post/the/) children played [along](/post/along/) [the](/post/the/) [sandy](/post/sandy/) [beach](/post/beach/)."
-- 副词: "[She](/post/she/) sang [along](/post/along/) [to](/post/to/) [her](/post/her/) favorite [song](/post/song/)."
-- 形容词: "[He](/post/he/) shared [some](/post/some/) [along](/post/along/) stories [from](/post/from/) [his](/post/his/) [childhood](/post/childhood/)."
+- 介词: "[The](/zh/post/the/) children played [along](/zh/post/along/) [the](/zh/post/the/) [sandy](/zh/post/sandy/) [beach](/zh/post/beach/)."
+- 副词: "[She](/zh/post/she/) sang [along](/zh/post/along/) [to](/zh/post/to/) [her](/zh/post/her/) favorite [song](/zh/post/song/)."
+- 形容词: "[He](/zh/post/he/) shared [some](/zh/post/some/) [along](/zh/post/along/) stories [from](/zh/post/from/) [his](/zh/post/his/) [childhood](/zh/post/childhood/)."
 
 ## 同义词
-- [Beside](/post/beside/)
-- [Next](/post/next/) [to](/post/to/)
-- [In](/post/in/) [the](/post/the/) [direction](/post/direction/) [of](/post/of/)
+- [Beside](/zh/post/beside/)
+- [Next](/zh/post/next/) [to](/zh/post/to/)
+- [In](/zh/post/in/) [the](/zh/post/the/) [direction](/zh/post/direction/) [of](/zh/post/of/)
 - Concurrently
 - Lengthwise

@@ -7,28 +7,28 @@ description = '[ˈnjuːsns] n.讨厌的东西'
 keywords = ['ai words', 'nuisance']
 +++
 
-## [Word](/en/post/word/): [Nuisance](/en/post/nuisance/)
+## [Word](/post/word/): [Nuisance](/post/nuisance/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈnjuːsns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) causing inconvenience, annoyance, [or](/en/post/or/) discomfort, [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is [difficult](/en/post/difficult/) [to](/en/post/to/) [get](/en/post/get/) [rid](/en/post/rid/) [of](/en/post/of/) [or](/en/post/or/) [avoid](/en/post/avoid/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [noisy](/en/post/noisy/) neighbors are [a](/en/post/a/) [real](/en/post/real/) [nuisance](/en/post/nuisance/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) causing inconvenience, annoyance, [or](/post/or/) discomfort, [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is [difficult](/post/difficult/) [to](/post/to/) [get](/post/get/) [rid](/post/rid/) [of](/post/of/) [or](/post/or/) [avoid](/post/avoid/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [noisy](/post/noisy/) neighbors are [a](/post/a/) [real](/post/real/) [nuisance](/post/nuisance/)."
   
-  > _"[The](/en/post/the/) [constant](/en/post/constant/) barking [of](/en/post/of/) [the](/en/post/the/) neighbor's [dog](/en/post/dog/) has [become](/en/post/become/) [quite](/en/post/quite/) [the](/en/post/the/) [nuisance](/en/post/nuisance/)."_
+  > _"[The](/post/the/) [constant](/post/constant/) barking [of](/post/of/) [the](/post/the/) neighbor's [dog](/post/dog/) has [become](/post/become/) [quite](/post/quite/) [the](/post/the/) [nuisance](/post/nuisance/)."_
   
-- **[Verb](/en/post/verb/) (usu. [in](/en/post/in/) [passive](/en/post/passive/) [form](/en/post/form/))**: [To](/en/post/to/) [cause](/en/post/cause/) inconvenience [or](/en/post/or/) annoyance [to](/en/post/to/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [construction](/en/post/construction/) [work](/en/post/work/) is nuisanced [by](/en/post/by/) [frequent](/en/post/frequent/) [power](/en/post/power/) outages."
+- **[Verb](/post/verb/) (usu. [in](/post/in/) [passive](/post/passive/) [form](/post/form/))**: [To](/post/to/) [cause](/post/cause/) inconvenience [or](/post/or/) annoyance [to](/post/to/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [construction](/post/construction/) [work](/post/work/) is nuisanced [by](/post/by/) [frequent](/post/frequent/) [power](/post/power/) outages."
   
-  > _"[My](/en/post/my/) [sleep](/en/post/sleep/) is [being](/en/post/being/) continually nuisanced [by](/en/post/by/) [the](/en/post/the/) [bright](/en/post/bright/) streetlights [outside](/en/post/outside/) [my](/en/post/my/) bedroom [window](/en/post/window/)."_
+  > _"[My](/post/my/) [sleep](/post/sleep/) is [being](/post/being/) continually nuisanced [by](/post/by/) [the](/post/the/) [bright](/post/bright/) streetlights [outside](/post/outside/) [my](/post/my/) bedroom [window](/post/window/)."_
 
 ## Phrases
-- "[Public](/en/post/public/) [nuisance](/en/post/nuisance/)": An [activity](/en/post/activity/) [or](/en/post/or/) [condition](/en/post/condition/) [that](/en/post/that/) disturbs [the](/en/post/the/) [public](/en/post/public/) [peace](/en/post/peace/) [or](/en/post/or/) causes offense, [danger](/en/post/danger/), [or](/en/post/or/) [damage](/en/post/damage/) [to](/en/post/to/) [the](/en/post/the/) [community](/en/post/community/).
-- "[A](/en/post/a/) [pain](/en/post/pain/) [in](/en/post/in/) [the](/en/post/the/) [neck](/en/post/neck/)": An informal [expression](/en/post/expression/) [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is considered [a](/en/post/a/) [nuisance](/en/post/nuisance/) [or](/en/post/or/) irritation.
-- "[To](/en/post/to/) abate [a](/en/post/a/) [nuisance](/en/post/nuisance/)": [To](/en/post/to/) [take](/en/post/take/) [action](/en/post/action/) [to](/en/post/to/) [stop](/en/post/stop/) [or](/en/post/or/) [remove](/en/post/remove/) [something](/en/post/something/) [that](/en/post/that/) is causing [a](/en/post/a/) [nuisance](/en/post/nuisance/).
+- "[Public](/post/public/) [nuisance](/post/nuisance/)": An [activity](/post/activity/) [or](/post/or/) [condition](/post/condition/) [that](/post/that/) disturbs [the](/post/the/) [public](/post/public/) [peace](/post/peace/) [or](/post/or/) causes offense, [danger](/post/danger/), [or](/post/or/) [damage](/post/damage/) [to](/post/to/) [the](/post/the/) [community](/post/community/).
+- "[A](/post/a/) [pain](/post/pain/) [in](/post/in/) [the](/post/the/) [neck](/post/neck/)": An informal [expression](/post/expression/) [often](/post/often/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [person](/post/person/) [who](/post/who/) is considered [a](/post/a/) [nuisance](/post/nuisance/) [or](/post/or/) irritation.
+- "[To](/post/to/) abate [a](/post/a/) [nuisance](/post/nuisance/)": [To](/post/to/) [take](/post/take/) [action](/post/action/) [to](/post/to/) [stop](/post/stop/) [or](/post/or/) [remove](/post/remove/) [something](/post/something/) [that](/post/that/) is causing [a](/post/a/) [nuisance](/post/nuisance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) leaky faucet was [such](/en/post/such/) [a](/en/post/a/) [nuisance](/en/post/nuisance/) [that](/en/post/that/) [it](/en/post/it/) kept [me](/en/post/me/) [up](/en/post/up/) [all](/en/post/all/) [night](/en/post/night/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [traffic](/en/post/traffic/) [jam](/en/post/jam/) [during](/en/post/during/) [rush](/en/post/rush/) [hour](/en/post/hour/) [really](/en/post/really/) nuisances [my](/en/post/my/) [daily](/en/post/daily/) commute."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) leaky faucet was [such](/post/such/) [a](/post/a/) [nuisance](/post/nuisance/) [that](/post/that/) [it](/post/it/) kept [me](/post/me/) [up](/post/up/) [all](/post/all/) [night](/post/night/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [traffic](/post/traffic/) [jam](/post/jam/) [during](/post/during/) [rush](/post/rush/) [hour](/post/hour/) [really](/post/really/) nuisances [my](/post/my/) [daily](/post/daily/) commute."
 
 ## Synonyms
 - Annoyance
@@ -39,5 +39,5 @@ keywords = ['ai words', 'nuisance']
 - Pest
 - Intrusion
 - Inconvenience
-- [bother](/en/post/bother/)
-- [trouble](/en/post/trouble/)
+- [bother](/post/bother/)
+- [trouble](/post/trouble/)

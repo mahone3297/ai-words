@@ -7,46 +7,46 @@ description = '[blʌd] n.血，血液；血统'
 keywords = ['ai words', 'blood']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bloʊd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [The](/en/post/the/) [fluid](/en/post/fluid/) [that](/en/post/that/) circulates [in](/en/post/in/) [the](/en/post/the/) [body](/en/post/body/), containing [red](/en/post/red/) [and](/en/post/and/) [white](/en/post/white/) [blood](/en/post/blood/) cells, platelets, [and](/en/post/and/) plasma, [and](/en/post/and/) serving [to](/en/post/to/) [transport](/en/post/transport/) oxygen, nutrients, [waste](/en/post/waste/) products, [and](/en/post/and/) clotting factors.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [doctor](/en/post/doctor/) took [her](/en/post/her/) [blood](/en/post/blood/) [pressure](/en/post/pressure/) [to](/en/post/to/) [check](/en/post/check/) [for](/en/post/for/) [any](/en/post/any/) abnormalities."
-   - [Phrase](/en/post/phrase/): "[A](/en/post/a/) [drop](/en/post/drop/) [of](/en/post/of/) [his](/en/post/his/) [own](/en/post/own/) [blood](/en/post/blood/) was crucial [to](/en/post/to/) [the](/en/post/the/) transfusion."
-   - Synonyms: arterial [fluid](/en/post/fluid/), corpuscles, hematopoietic [tissue](/en/post/tissue/)
+### [Noun](/post/noun/)
+- **1.** [The](/post/the/) [fluid](/post/fluid/) [that](/post/that/) circulates [in](/post/in/) [the](/post/the/) [body](/post/body/), containing [red](/post/red/) [and](/post/and/) [white](/post/white/) [blood](/post/blood/) cells, platelets, [and](/post/and/) plasma, [and](/post/and/) serving [to](/post/to/) [transport](/post/transport/) oxygen, nutrients, [waste](/post/waste/) products, [and](/post/and/) clotting factors.
+   - [Example](/post/example/): "[The](/post/the/) [doctor](/post/doctor/) took [her](/post/her/) [blood](/post/blood/) [pressure](/post/pressure/) [to](/post/to/) [check](/post/check/) [for](/post/for/) [any](/post/any/) abnormalities."
+   - [Phrase](/post/phrase/): "[A](/post/a/) [drop](/post/drop/) [of](/post/of/) [his](/post/his/) [own](/post/own/) [blood](/post/blood/) was crucial [to](/post/to/) [the](/post/the/) transfusion."
+   - Synonyms: arterial [fluid](/post/fluid/), corpuscles, hematopoietic [tissue](/post/tissue/)
 
-### 2. (colloquial) [A](/en/post/a/) person's emotions [or](/en/post/or/) feelings, [especially](/en/post/especially/) [when](/en/post/when/) [intense](/en/post/intense/).
-   - [Example](/en/post/example/): "[Her](/en/post/her/) [anger](/en/post/anger/) boiled [over](/en/post/over/) [with](/en/post/with/) frustration."
-   - [Phrase](/en/post/phrase/): "[He](/en/post/he/) felt [a](/en/post/a/) surge [of](/en/post/of/) adrenaline [and](/en/post/and/) [blood](/en/post/blood/) [when](/en/post/when/) [he](/en/post/he/) won [the](/en/post/the/) [race](/en/post/race/)."
+### 2. (colloquial) [A](/post/a/) person's emotions [or](/post/or/) feelings, [especially](/post/especially/) [when](/post/when/) [intense](/post/intense/).
+   - [Example](/post/example/): "[Her](/post/her/) [anger](/post/anger/) boiled [over](/post/over/) [with](/post/with/) frustration."
+   - [Phrase](/post/phrase/): "[He](/post/he/) felt [a](/post/a/) surge [of](/post/of/) adrenaline [and](/post/and/) [blood](/post/blood/) [when](/post/when/) [he](/post/he/) won [the](/post/the/) [race](/post/race/)."
 
-### [Verb](/en/post/verb/)
-- **1.** [To](/en/post/to/) [cause](/en/post/cause/) [or](/en/post/or/) [receive](/en/post/receive/) [the](/en/post/the/) [flow](/en/post/flow/) [of](/en/post/of/) [blood](/en/post/blood/) [from](/en/post/from/) [a](/en/post/a/) [wound](/en/post/wound/) [or](/en/post/or/) [injury](/en/post/injury/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [nurse](/en/post/nurse/) skillfully stopped [the](/en/post/the/) bleeding [from](/en/post/from/) [the](/en/post/the/) [cut](/en/post/cut/)."
-   - Synonym: [bleed](/en/post/bleed/)
+### [Verb](/post/verb/)
+- **1.** [To](/post/to/) [cause](/post/cause/) [or](/post/or/) [receive](/post/receive/) [the](/post/the/) [flow](/post/flow/) [of](/post/of/) [blood](/post/blood/) [from](/post/from/) [a](/post/a/) [wound](/post/wound/) [or](/post/or/) [injury](/post/injury/).
+   - [Example](/post/example/): "[The](/post/the/) [nurse](/post/nurse/) skillfully stopped [the](/post/the/) bleeding [from](/post/from/) [the](/post/the/) [cut](/post/cut/)."
+   - Synonym: [bleed](/post/bleed/)
 
-### 2. (figurative) [To](/en/post/to/) [supply](/en/post/supply/) [or](/en/post/or/) nourish [with](/en/post/with/) [energy](/en/post/energy/) [or](/en/post/or/) vitality.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [music](/en/post/music/) pumps [new](/en/post/new/) [life](/en/post/life/) [into](/en/post/into/) [his](/en/post/his/) [creative](/en/post/creative/) [process](/en/post/process/)."
-   - [Phrase](/en/post/phrase/): "[The](/en/post/the/) [project](/en/post/project/) has [really](/en/post/really/) blooded [her](/en/post/her/) [career](/en/post/career/)."
+### 2. (figurative) [To](/post/to/) [supply](/post/supply/) [or](/post/or/) nourish [with](/post/with/) [energy](/post/energy/) [or](/post/or/) vitality.
+   - [Example](/post/example/): "[The](/post/the/) [music](/post/music/) pumps [new](/post/new/) [life](/post/life/) [into](/post/into/) [his](/post/his/) [creative](/post/creative/) [process](/post/process/)."
+   - [Phrase](/post/phrase/): "[The](/post/the/) [project](/post/project/) has [really](/post/really/) blooded [her](/post/her/) [career](/post/career/)."
 
 ## Phrases
-- "[Draw](/en/post/draw/) [blood](/en/post/blood/)" [means](/en/post/means/) [to](/en/post/to/) [ask](/en/post/ask/) [a](/en/post/a/) [tough](/en/post/tough/) [question](/en/post/question/) [or](/en/post/or/) [challenge](/en/post/challenge/) [someone](/en/post/someone/).
-- "[Get](/en/post/get/) [your](/en/post/your/) [blood](/en/post/blood/) [up](/en/post/up/)" encourages excitement [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/).
-- "[On](/en/post/on/) [the](/en/post/the/) [blood](/en/post/blood/)" refers [to](/en/post/to/) [a](/en/post/a/) [strong](/en/post/strong/) [emotional](/en/post/emotional/) attachment [or](/en/post/or/) [loyalty](/en/post/loyalty/).
+- "[Draw](/post/draw/) [blood](/post/blood/)" [means](/post/means/) [to](/post/to/) [ask](/post/ask/) [a](/post/a/) [tough](/post/tough/) [question](/post/question/) [or](/post/or/) [challenge](/post/challenge/) [someone](/post/someone/).
+- "[Get](/post/get/) [your](/post/your/) [blood](/post/blood/) [up](/post/up/)" encourages excitement [or](/post/or/) [enthusiasm](/post/enthusiasm/).
+- "[On](/post/on/) [the](/post/the/) [blood](/post/blood/)" refers [to](/post/to/) [a](/post/a/) [strong](/post/strong/) [emotional](/post/emotional/) attachment [or](/post/or/) [loyalty](/post/loyalty/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) instructed [her](/en/post/her/) [to](/en/post/to/) [avoid](/en/post/avoid/) activities [that](/en/post/that/) [might](/en/post/might/) [thin](/en/post/thin/) [her](/en/post/her/) [blood](/en/post/blood/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) athlete's [training](/en/post/training/) [routine](/en/post/routine/) helped [him](/en/post/him/) [build](/en/post/build/) [up](/en/post/up/) [his](/en/post/his/) endurance [and](/en/post/and/) [blood](/en/post/blood/)."
-- **Interjection**: "[Oh](/en/post/oh/) [no](/en/post/no/), [my](/en/post/my/) [finger](/en/post/finger/) is bleeding!"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [doctor](/post/doctor/) instructed [her](/post/her/) [to](/post/to/) [avoid](/post/avoid/) activities [that](/post/that/) [might](/post/might/) [thin](/post/thin/) [her](/post/her/) [blood](/post/blood/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) athlete's [training](/post/training/) [routine](/post/routine/) helped [him](/post/him/) [build](/post/build/) [up](/post/up/) [his](/post/his/) endurance [and](/post/and/) [blood](/post/blood/)."
+- **Interjection**: "[Oh](/post/oh/) [no](/post/no/), [my](/post/my/) [finger](/post/finger/) is bleeding!"
 
 ## Synonyms
 - Plasma
-- [Red](/en/post/red/) cells
-- [White](/en/post/white/) cells
+- [Red](/post/red/) cells
+- [White](/post/white/) cells
 - Hemoglobin
 - Vitality
-- [Emotion](/en/post/emotion/)
+- [Emotion](/post/emotion/)
 - Ardor
-- [Passion](/en/post/passion/)
-- [Energy](/en/post/energy/)
+- [Passion](/post/passion/)
+- [Energy](/post/energy/)

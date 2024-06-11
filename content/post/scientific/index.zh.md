@@ -11,20 +11,20 @@ keywords = ['ai words', 'scientific']
 /ˈsɪkəntɪfɪk/
 
 ## 释义
-- **形容词**: 关于科学的；遵循科学方法的；基于科学研究的。例如: "[The](/post/the/) [research](/post/research/) was [highly](/post/highly/) [scientific](/post/scientific/) [and](/post/and/) well-documented."
-- **名词**: 科学家。例如: "[She](/post/she/) is an accomplished [scientific](/post/scientific/) [with](/post/with/) [numerous](/post/numerous/) publications."
+- **形容词**: 关于科学的；遵循科学方法的；基于科学研究的。例如: "[The](/zh/post/the/) [research](/zh/post/research/) was [highly](/zh/post/highly/) [scientific](/zh/post/scientific/) [and](/zh/post/and/) well-documented."
+- **名词**: 科学家。例如: "[She](/zh/post/she/) is an accomplished [scientific](/zh/post/scientific/) [with](/zh/post/with/) [numerous](/zh/post/numerous/) publications."
 
 ## 短语
-- "[Scientific](/post/scientific/) [method](/post/method/)" 指科学研究中系统和逻辑的方法。
-- "[Scientific](/post/scientific/) [theory](/post/theory/)" 指经过验证和广泛接受的科学解释。
+- "[Scientific](/zh/post/scientific/) [method](/zh/post/method/)" 指科学研究中系统和逻辑的方法。
+- "[Scientific](/zh/post/scientific/) [theory](/zh/post/theory/)" 指经过验证和广泛接受的科学解释。
 
 ## 例句
-- 形容词: "[The](/post/the/) [study](/post/study/) employed [a](/post/a/) [scientific](/post/scientific/) [approach](/post/approach/) [to](/post/to/) analyze [the](/post/the/) [data](/post/data/)."
-- 名词: "[Many](/post/many/) [scientific](/post/scientific/) discoveries [have](/post/have/) changed [our](/post/our/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [world](/post/world/)."
+- 形容词: "[The](/zh/post/the/) [study](/zh/post/study/) employed [a](/zh/post/a/) [scientific](/zh/post/scientific/) [approach](/zh/post/approach/) [to](/zh/post/to/) analyze [the](/zh/post/the/) [data](/zh/post/data/)."
+- 名词: "[Many](/zh/post/many/) [scientific](/zh/post/scientific/) discoveries [have](/zh/post/have/) changed [our](/zh/post/our/) [understanding](/zh/post/understanding/) [of](/zh/post/of/) [the](/zh/post/the/) [world](/zh/post/world/)."
 
 ## 同义词
 - Research-based
 - Evidence-based
 - Scholarly
 - Methodical
-- [Rational](/post/rational/)
+- [Rational](/zh/post/rational/)

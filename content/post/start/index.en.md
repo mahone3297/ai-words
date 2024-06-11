@@ -7,36 +7,36 @@ description = '[stɑːt] vi.跳起；出发；开始'
 keywords = ['ai words', 'start']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[start](/en/post/start/)/
+## [Pronunciation](/post/pronunciation/)
+/[start](/post/start/)/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (n) [To](/en/post/to/) [begin](/en/post/begin/), commence, [or](/en/post/or/) initiate [something](/en/post/something/). **v**: [To](/en/post/to/) [set](/en/post/set/) [in](/en/post/in/) [motion](/en/post/motion/), [to](/en/post/to/) [establish](/en/post/establish/) [the](/en/post/the/) [beginning](/en/post/beginning/) [of](/en/post/of/) an [activity](/en/post/activity/), [process](/en/post/process/), [or](/en/post/or/) [event](/en/post/event/). **adj**: Characterizing [the](/en/post/the/) [initial](/en/post/initial/) [stage](/en/post/stage/) [or](/en/post/or/) [point](/en/post/point/) [of](/en/post/of/) [something](/en/post/something/).
+- **[Verb](/post/verb/)**: (n) [To](/post/to/) [begin](/post/begin/), commence, [or](/post/or/) initiate [something](/post/something/). **v**: [To](/post/to/) [set](/post/set/) [in](/post/in/) [motion](/post/motion/), [to](/post/to/) [establish](/post/establish/) [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) an [activity](/post/activity/), [process](/post/process/), [or](/post/or/) [event](/post/event/). **adj**: Characterizing [the](/post/the/) [initial](/post/initial/) [stage](/post/stage/) [or](/post/or/) [point](/post/point/) [of](/post/of/) [something](/post/something/).
 
 ## Phrases
-- "[Start](/en/post/start/) [a](/en/post/a/) [new](/en/post/new/) [project](/en/post/project/)"
-- "[The](/en/post/the/) [day](/en/post/day/) starts [early](/en/post/early/) [for](/en/post/for/) [me](/en/post/me/)"
-- "[She](/en/post/she/) started [her](/en/post/her/) presentation [with](/en/post/with/) [a](/en/post/a/) [joke](/en/post/joke/)"
+- "[Start](/post/start/) [a](/post/a/) [new](/post/new/) [project](/post/project/)"
+- "[The](/post/the/) [day](/post/day/) starts [early](/post/early/) [for](/post/for/) [me](/post/me/)"
+- "[She](/post/she/) started [her](/post/her/) presentation [with](/post/with/) [a](/post/a/) [joke](/post/joke/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [to](/en/post/to/) [start](/en/post/start/) packing [for](/en/post/for/) [my](/en/post/my/) [trip](/en/post/trip/) [tomorrow](/en/post/tomorrow/)."
-- **Adj**: "[The](/en/post/the/) company's [success](/en/post/success/) started [with](/en/post/with/) [a](/en/post/a/) [small](/en/post/small/) [idea](/en/post/idea/)."
-- **[Noun](/en/post/noun/)**: "[Remember](/en/post/remember/) [to](/en/post/to/) [always](/en/post/always/) [start](/en/post/start/) [on](/en/post/on/) [your](/en/post/your/) homework [as](/en/post/as/) [soon](/en/post/soon/) [as](/en/post/as/) [you](/en/post/you/) [get](/en/post/get/) [home](/en/post/home/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [to](/post/to/) [start](/post/start/) packing [for](/post/for/) [my](/post/my/) [trip](/post/trip/) [tomorrow](/post/tomorrow/)."
+- **Adj**: "[The](/post/the/) company's [success](/post/success/) started [with](/post/with/) [a](/post/a/) [small](/post/small/) [idea](/post/idea/)."
+- **[Noun](/post/noun/)**: "[Remember](/post/remember/) [to](/post/to/) [always](/post/always/) [start](/post/start/) [on](/post/on/) [your](/post/your/) homework [as](/post/as/) [soon](/post/soon/) [as](/post/as/) [you](/post/you/) [get](/post/get/) [home](/post/home/)."
 
 ## Synonyms
-- [Begin](/en/post/begin/)
+- [Begin](/post/begin/)
 - Commence
 - Initiate
-- [Launch](/en/post/launch/)
-- [Set](/en/post/set/) [off](/en/post/off/)
+- [Launch](/post/launch/)
+- [Set](/post/set/) [off](/post/off/)
 - Beginnings
-- [Kick](/en/post/kick/) [off](/en/post/off/)
-- [Start](/en/post/start/) [up](/en/post/up/)
+- [Kick](/post/kick/) [off](/post/off/)
+- [Start](/post/start/) [up](/post/up/)
 
 ## Antonyms
-- [End](/en/post/end/)
-- [Finish](/en/post/finish/)
+- [End](/post/end/)
+- [Finish](/post/finish/)
 - Terminate
-- [Cease](/en/post/cease/)
-- [Stop](/en/post/stop/)
-- [Wind](/en/post/wind/) [down](/en/post/down/)
+- [Cease](/post/cease/)
+- [Stop](/post/stop/)
+- [Wind](/post/wind/) [down](/post/down/)

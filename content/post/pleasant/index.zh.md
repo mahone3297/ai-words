@@ -11,21 +11,21 @@ keywords = ['ai words', 'pleasant']
 /ˈpleznt/
 
 ## 释义
-- **形容词**: 愉快的，令人愉悦的。例如: "[The](/post/the/) [weather](/post/weather/) was pleasantly [warm](/post/warm/) [for](/post/for/) an [autumn](/post/autumn/) [day](/post/day/)."
-- **副词**: 愉快地，和蔼可亲地。例如: "[He](/post/he/) greeted [us](/post/us/) pleasantly."
+- **形容词**: 愉快的，令人愉悦的。例如: "[The](/zh/post/the/) [weather](/zh/post/weather/) was pleasantly [warm](/zh/post/warm/) [for](/zh/post/for/) an [autumn](/zh/post/autumn/) [day](/zh/post/day/)."
+- **副词**: 愉快地，和蔼可亲地。例如: "[He](/zh/post/he/) greeted [us](/zh/post/us/) pleasantly."
 
 ## 短语
-- "[pleasant](/post/pleasant/) [company](/post/company/)" 意为愉快的陪伴。
-- "[a](/post/a/) [pleasant](/post/pleasant/) [surprise](/post/surprise/)" 指的是意想不到的好事或好消息。
-- "[pleasant](/post/pleasant/) [conversation](/post/conversation/)" 指的是轻松愉快的交谈。
+- "[pleasant](/zh/post/pleasant/) [company](/zh/post/company/)" 意为愉快的陪伴。
+- "[a](/zh/post/a/) [pleasant](/zh/post/pleasant/) [surprise](/zh/post/surprise/)" 指的是意想不到的好事或好消息。
+- "[pleasant](/zh/post/pleasant/) [conversation](/zh/post/conversation/)" 指的是轻松愉快的交谈。
 
 ## 例句
-- 形容词: "[The](/post/the/) [park](/post/park/) was filled [with](/post/with/) [the](/post/the/) [pleasant](/post/pleasant/) [smell](/post/smell/) [of](/post/of/) blooming flowers."
-- 副词: "[She](/post/she/) answered [my](/post/my/) questions pleasantly, making [me](/post/me/) [feel](/post/feel/) [at](/post/at/) [ease](/post/ease/)."
+- 形容词: "[The](/zh/post/the/) [park](/zh/post/park/) was filled [with](/zh/post/with/) [the](/zh/post/the/) [pleasant](/zh/post/pleasant/) [smell](/zh/post/smell/) [of](/zh/post/of/) blooming flowers."
+- 副词: "[She](/zh/post/she/) answered [my](/zh/post/my/) questions pleasantly, making [me](/zh/post/me/) [feel](/zh/post/feel/) [at](/zh/post/at/) [ease](/zh/post/ease/)."
 
 ## 同义词
 - Enjoyable
 - Agreeable
-- [Friendly](/post/friendly/)
+- [Friendly](/zh/post/friendly/)
 - Amiable
-- [Nice](/post/nice/)
+- [Nice](/zh/post/nice/)

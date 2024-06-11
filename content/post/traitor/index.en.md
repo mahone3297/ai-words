@@ -7,25 +7,25 @@ description = '[ˈtreitə] n.叛徒，卖国贼'
 keywords = ['ai words', 'traitor']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /trəɪˈtɔːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[traitor](/en/post/traitor/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) betrays [their](/en/post/their/) [own](/en/post/own/) [country](/en/post/country/), [group](/en/post/group/), [or](/en/post/or/) [cause](/en/post/cause/) [by](/en/post/by/) acting [against](/en/post/against/) [it](/en/post/it/), [often](/en/post/often/) [out](/en/post/out/) [of](/en/post/of/) [selfish](/en/post/selfish/) motives [or](/en/post/or/) [to](/en/post/to/) [gain](/en/post/gain/) [advantage](/en/post/advantage/) [for](/en/post/for/) an opposing [side](/en/post/side/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) abandons [their](/en/post/their/) principles [or](/en/post/or/) [loyalty](/en/post/loyalty/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[traitor](/post/traitor/)** is [a](/post/a/) [person](/post/person/) [who](/post/who/) betrays [their](/post/their/) [own](/post/own/) [country](/post/country/), [group](/post/group/), [or](/post/or/) [cause](/post/cause/) [by](/post/by/) acting [against](/post/against/) [it](/post/it/), [often](/post/often/) [out](/post/out/) [of](/post/of/) [selfish](/post/selfish/) motives [or](/post/or/) [to](/post/to/) [gain](/post/gain/) [advantage](/post/advantage/) [for](/post/for/) an opposing [side](/post/side/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [someone](/post/someone/) [who](/post/who/) abandons [their](/post/their/) principles [or](/post/or/) [loyalty](/post/loyalty/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[traitor](/en/post/traitor/)** [someone](/en/post/someone/) is [to](/en/post/to/) [betray](/en/post/betray/) [them](/en/post/them/), [usually](/en/post/usually/) [by](/en/post/by/) committing an [act](/en/post/act/) [of](/en/post/of/) treachery [or](/en/post/or/) disclosing confidential [information](/en/post/information/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[traitor](/post/traitor/)** [someone](/post/someone/) is [to](/post/to/) [betray](/post/betray/) [them](/post/them/), [usually](/post/usually/) [by](/post/by/) committing an [act](/post/act/) [of](/post/of/) treachery [or](/post/or/) disclosing confidential [information](/post/information/).
 
 ## Phrases
-- "[Sell](/en/post/sell/) [out](/en/post/out/) [as](/en/post/as/) [a](/en/post/a/) [traitor](/en/post/traitor/)"
-- "Betrayer [of](/en/post/of/) [trust](/en/post/trust/)"
+- "[Sell](/post/sell/) [out](/post/out/) [as](/post/as/) [a](/post/a/) [traitor](/post/traitor/)"
+- "Betrayer [of](/post/of/) [trust](/post/trust/)"
 - "Turncoat"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) traitor's actions led [to](/en/post/to/) [the](/en/post/the/) downfall [of](/en/post/of/) [the](/en/post/the/) [secret](/en/post/secret/) [resistance](/en/post/resistance/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was accused [of](/en/post/of/) [being](/en/post/being/) [a](/en/post/a/) [traitor](/en/post/traitor/) [for](/en/post/for/) passing [on](/en/post/on/) [military](/en/post/military/) secrets [to](/en/post/to/) [the](/en/post/the/) [enemy](/en/post/enemy/)."
-- **Phrasal**: "[After](/en/post/after/) years [of](/en/post/of/) [loyalty](/en/post/loyalty/), [he](/en/post/he/) became [a](/en/post/a/) [traitor](/en/post/traitor/) [to](/en/post/to/) [the](/en/post/the/) [family](/en/post/family/) [business](/en/post/business/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) traitor's actions led [to](/post/to/) [the](/post/the/) downfall [of](/post/of/) [the](/post/the/) [secret](/post/secret/) [resistance](/post/resistance/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) was accused [of](/post/of/) [being](/post/being/) [a](/post/a/) [traitor](/post/traitor/) [for](/post/for/) passing [on](/post/on/) [military](/post/military/) secrets [to](/post/to/) [the](/post/the/) [enemy](/post/enemy/)."
+- **Phrasal**: "[After](/post/after/) years [of](/post/of/) [loyalty](/post/loyalty/), [he](/post/he/) became [a](/post/a/) [traitor](/post/traitor/) [to](/post/to/) [the](/post/the/) [family](/post/family/) [business](/post/business/)."
 
 ## Synonyms
 -叛徒
@@ -38,9 +38,9 @@ keywords = ['ai words', 'traitor']
 - Defector
 
 ## Antonyms
-- [Loyalty](/en/post/loyalty/)
+- [Loyalty](/post/loyalty/)
 - Patriot
-- [Faithful](/en/post/faithful/)
+- [Faithful](/post/faithful/)
 - Devoted
-- [Reliable](/en/post/reliable/)
+- [Reliable](/post/reliable/)
 - Trustworthy

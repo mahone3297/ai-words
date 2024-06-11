@@ -7,37 +7,37 @@ description = '[ˈlibərəl] a.心胸宽大的；慷慨的'
 keywords = ['ai words', 'liberal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɪbərəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) 1. Open-minded [or](/en/post/or/) tolerant, [especially](/en/post/especially/) [free](/en/post/free/) [from](/en/post/from/) [prejudice](/en/post/prejudice/) [or](/en/post/or/) bias; characterized [by](/en/post/by/) [a](/en/post/a/) willingness [to](/en/post/to/) [respect](/en/post/respect/) [and](/en/post/and/) [accept](/en/post/accept/) [different](/en/post/different/) opinions, lifestyles, [or](/en/post/or/) conditions. [Example](/en/post/example/): "[He](/en/post/he/) has [a](/en/post/a/) [liberal](/en/post/liberal/) [attitude](/en/post/attitude/) towards [different](/en/post/different/) cultures."
-   2. [Generous](/en/post/generous/) [or](/en/post/or/) bounteous, [often](/en/post/often/) referring [to](/en/post/to/) [the](/en/post/the/) giving [or](/en/post/or/) sharing [of](/en/post/of/) things [in](/en/post/in/) abundance. [Example](/en/post/example/): "[The](/en/post/the/) millionaire was known [for](/en/post/for/) [his](/en/post/his/) [liberal](/en/post/liberal/) donations [to](/en/post/to/) [charity](/en/post/charity/)."
-   3. [In](/en/post/in/) [politics](/en/post/politics/), [it](/en/post/it/) refers [to](/en/post/to/) advocating [individual](/en/post/individual/) [freedom](/en/post/freedom/), [social](/en/post/social/) [equality](/en/post/equality/), [and](/en/post/and/) [government](/en/post/government/) intervention [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) promoting [social](/en/post/social/) [justice](/en/post/justice/). [Example](/en/post/example/): "[She](/en/post/she/) identifies [with](/en/post/with/) [the](/en/post/the/) [liberal](/en/post/liberal/) [wing](/en/post/wing/) [of](/en/post/of/) [the](/en/post/the/) [political](/en/post/political/) [party](/en/post/party/)."
+- **[Adjective](/post/adjective/)**: (adj) 1. Open-minded [or](/post/or/) tolerant, [especially](/post/especially/) [free](/post/free/) [from](/post/from/) [prejudice](/post/prejudice/) [or](/post/or/) bias; characterized [by](/post/by/) [a](/post/a/) willingness [to](/post/to/) [respect](/post/respect/) [and](/post/and/) [accept](/post/accept/) [different](/post/different/) opinions, lifestyles, [or](/post/or/) conditions. [Example](/post/example/): "[He](/post/he/) has [a](/post/a/) [liberal](/post/liberal/) [attitude](/post/attitude/) towards [different](/post/different/) cultures."
+   2. [Generous](/post/generous/) [or](/post/or/) bounteous, [often](/post/often/) referring [to](/post/to/) [the](/post/the/) giving [or](/post/or/) sharing [of](/post/of/) things [in](/post/in/) abundance. [Example](/post/example/): "[The](/post/the/) millionaire was known [for](/post/for/) [his](/post/his/) [liberal](/post/liberal/) donations [to](/post/to/) [charity](/post/charity/)."
+   3. [In](/post/in/) [politics](/post/politics/), [it](/post/it/) refers [to](/post/to/) advocating [individual](/post/individual/) [freedom](/post/freedom/), [social](/post/social/) [equality](/post/equality/), [and](/post/and/) [government](/post/government/) intervention [for](/post/for/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) promoting [social](/post/social/) [justice](/post/justice/). [Example](/post/example/): "[She](/post/she/) identifies [with](/post/with/) [the](/post/the/) [liberal](/post/liberal/) [wing](/post/wing/) [of](/post/of/) [the](/post/the/) [political](/post/political/) [party](/post/party/)."
 
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) holds [such](/en/post/such/) [political](/en/post/political/) views [that](/en/post/that/) [support](/en/post/support/) [individual](/en/post/individual/) rights, [civil](/en/post/civil/) liberties, [and](/en/post/and/) [democratic](/en/post/democratic/) [reform](/en/post/reform/). [Example](/en/post/example/): "[Many](/en/post/many/) liberals [argue](/en/post/argue/) [for](/en/post/for/) increased funding [for](/en/post/for/) [education](/en/post/education/) [and](/en/post/and/) healthcare."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [person](/post/person/) [who](/post/who/) holds [such](/post/such/) [political](/post/political/) views [that](/post/that/) [support](/post/support/) [individual](/post/individual/) rights, [civil](/post/civil/) liberties, [and](/post/and/) [democratic](/post/democratic/) [reform](/post/reform/). [Example](/post/example/): "[Many](/post/many/) liberals [argue](/post/argue/) [for](/post/for/) increased funding [for](/post/for/) [education](/post/education/) [and](/post/and/) healthcare."
 
 ## Phrases
-- "[Liberal](/en/post/liberal/) arts" refers [to](/en/post/to/) [academic](/en/post/academic/) studies [that](/en/post/that/) [aim](/en/post/aim/) [to](/en/post/to/) [develop](/en/post/develop/) [general](/en/post/general/) [knowledge](/en/post/knowledge/) [and](/en/post/and/) [intellectual](/en/post/intellectual/) abilities [rather](/en/post/rather/) [than](/en/post/than/) [professional](/en/post/professional/) [or](/en/post/or/) vocational skills.
-- "[Liberal](/en/post/liberal/) [democracy](/en/post/democracy/)" is [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [government](/en/post/government/) [where](/en/post/where/) [power](/en/post/power/) is held [by](/en/post/by/) [the](/en/post/the/) [people](/en/post/people/) [and](/en/post/and/) [their](/en/post/their/) elected representatives, [with](/en/post/with/) [protection](/en/post/protection/) [for](/en/post/for/) [minority](/en/post/minority/) rights [and](/en/post/and/) [civil](/en/post/civil/) liberties.
-- "[Liberal](/en/post/liberal/) policies" [refer](/en/post/refer/) [to](/en/post/to/) [those](/en/post/those/) aimed [at](/en/post/at/) reducing [economic](/en/post/economic/) inequality, protecting [personal](/en/post/personal/) freedoms, [and](/en/post/and/) promoting [social](/en/post/social/) [welfare](/en/post/welfare/).
+- "[Liberal](/post/liberal/) arts" refers [to](/post/to/) [academic](/post/academic/) studies [that](/post/that/) [aim](/post/aim/) [to](/post/to/) [develop](/post/develop/) [general](/post/general/) [knowledge](/post/knowledge/) [and](/post/and/) [intellectual](/post/intellectual/) abilities [rather](/post/rather/) [than](/post/than/) [professional](/post/professional/) [or](/post/or/) vocational skills.
+- "[Liberal](/post/liberal/) [democracy](/post/democracy/)" is [a](/post/a/) [form](/post/form/) [of](/post/of/) [government](/post/government/) [where](/post/where/) [power](/post/power/) is held [by](/post/by/) [the](/post/the/) [people](/post/people/) [and](/post/and/) [their](/post/their/) elected representatives, [with](/post/with/) [protection](/post/protection/) [for](/post/for/) [minority](/post/minority/) rights [and](/post/and/) [civil](/post/civil/) liberties.
+- "[Liberal](/post/liberal/) policies" [refer](/post/refer/) [to](/post/to/) [those](/post/those/) aimed [at](/post/at/) reducing [economic](/post/economic/) inequality, protecting [personal](/post/personal/) freedoms, [and](/post/and/) promoting [social](/post/social/) [welfare](/post/welfare/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [liberal](/en/post/liberal/) [approach](/en/post/approach/) [to](/en/post/to/) parenting allowed [his](/en/post/his/) children [to](/en/post/to/) [explore](/en/post/explore/) [their](/en/post/their/) [own](/en/post/own/) interests [freely](/en/post/freely/)."
-- **[Noun](/en/post/noun/)**: "[As](/en/post/as/) [a](/en/post/a/) [liberal](/en/post/liberal/), [he](/en/post/he/) supports [progressive](/en/post/progressive/) taxation [and](/en/post/and/) [universal](/en/post/universal/) [access](/en/post/access/) [to](/en/post/to/) [public](/en/post/public/) services."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [liberal](/post/liberal/) [approach](/post/approach/) [to](/post/to/) parenting allowed [his](/post/his/) children [to](/post/to/) [explore](/post/explore/) [their](/post/their/) [own](/post/own/) interests [freely](/post/freely/)."
+- **[Noun](/post/noun/)**: "[As](/post/as/) [a](/post/a/) [liberal](/post/liberal/), [he](/post/he/) supports [progressive](/post/progressive/) taxation [and](/post/and/) [universal](/post/universal/) [access](/post/access/) [to](/post/to/) [public](/post/public/) services."
 
 ## Synonyms
-- [Progressive](/en/post/progressive/)
+- [Progressive](/post/progressive/)
 - Open-minded
 - Tolerant
 - Free-thinking
 - Permissive
 - Unprejudiced
-- [Generous](/en/post/generous/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [being](/en/post/being/) [generous](/en/post/generous/) [with](/en/post/with/) resources)
+- [Generous](/post/generous/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [being](/post/being/) [generous](/post/generous/) [with](/post/with/) resources)
 - Broad-minded
 
-[For](/en/post/for/) [the](/en/post/the/) [political](/en/post/political/) context:
+[For](/post/for/) [the](/post/the/) [political](/post/political/) context:
 - Left-wing
-- [Democratic](/en/post/democratic/)
-- [Progressive](/en/post/progressive/)
+- [Democratic](/post/democratic/)
+- [Progressive](/post/progressive/)
 - Reformist

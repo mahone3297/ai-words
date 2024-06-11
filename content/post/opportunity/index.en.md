@@ -7,37 +7,37 @@ description = '[ˌɔpəˈtjuːniti] n.机会，良机'
 keywords = ['ai words', 'opportunity']
 +++
 
-## [Word](/en/post/word/): [Opportunity](/en/post/opportunity/)
+## [Word](/post/word/): [Opportunity](/post/opportunity/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɑːpərˈtjuːnɪti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) favorable [occasion](/en/post/occasion/) [or](/en/post/or/) [situation](/en/post/situation/) [that](/en/post/that/) presents [itself](/en/post/itself/), [often](/en/post/often/) unexpectedly, [which](/en/post/which/) allows [one](/en/post/one/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [they](/en/post/they/) [want](/en/post/want/) [or](/en/post/or/) [need](/en/post/need/) [to](/en/post/to/) [do](/en/post/do/), [or](/en/post/or/) [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) desired [outcome](/en/post/outcome/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) circumstances [that](/en/post/that/) [make](/en/post/make/) [it](/en/post/it/) [possible](/en/post/possible/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/).
+- **[Noun](/post/noun/)**: [A](/post/a/) favorable [occasion](/post/occasion/) [or](/post/or/) [situation](/post/situation/) [that](/post/that/) presents [itself](/post/itself/), [often](/post/often/) unexpectedly, [which](/post/which/) allows [one](/post/one/) [to](/post/to/) [do](/post/do/) [something](/post/something/) [they](/post/they/) [want](/post/want/) [or](/post/or/) [need](/post/need/) [to](/post/to/) [do](/post/do/), [or](/post/or/) [to](/post/to/) [achieve](/post/achieve/) [a](/post/a/) desired [outcome](/post/outcome/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [set](/post/set/) [of](/post/of/) circumstances [that](/post/that/) [make](/post/make/) [it](/post/it/) [possible](/post/possible/) [to](/post/to/) [do](/post/do/) [something](/post/something/).
 
-[Example](/en/post/example/) sentences:
-- _The [job](/en/post/job/) [fair](/en/post/fair/) was [a](/en/post/a/) [great](/en/post/great/) [opportunity](/en/post/opportunity/) [for](/en/post/for/) [her](/en/post/her/) [to](/en/post/to/) [network](/en/post/network/) [with](/en/post/with/) [potential](/en/post/potential/) employers._
-- _This [investment](/en/post/investment/) [opportunity](/en/post/opportunity/) [could](/en/post/could/) [lead](/en/post/lead/) [to](/en/post/to/) [significant](/en/post/significant/) [financial](/en/post/financial/) gains._
+[Example](/post/example/) sentences:
+- _The [job](/post/job/) [fair](/post/fair/) was [a](/post/a/) [great](/post/great/) [opportunity](/post/opportunity/) [for](/post/for/) [her](/post/her/) [to](/post/to/) [network](/post/network/) [with](/post/with/) [potential](/post/potential/) employers._
+- _This [investment](/post/investment/) [opportunity](/post/opportunity/) [could](/post/could/) [lead](/post/lead/) [to](/post/to/) [significant](/post/significant/) [financial](/post/financial/) gains._
 
 ## Phrases
-- **[Seize](/en/post/seize/) [the](/en/post/the/) [opportunity](/en/post/opportunity/)**: [To](/en/post/to/) [take](/en/post/take/) [advantage](/en/post/advantage/) [of](/en/post/of/) [a](/en/post/a/) [chance](/en/post/chance/) [when](/en/post/when/) [it](/en/post/it/) arises.
-  - "[When](/en/post/when/) [the](/en/post/the/) [chance](/en/post/chance/) [to](/en/post/to/) [study](/en/post/study/) [abroad](/en/post/abroad/) came [up](/en/post/up/), [he](/en/post/he/) seized [the](/en/post/the/) [opportunity](/en/post/opportunity/) [without](/en/post/without/) hesitation."
-- **[Miss](/en/post/miss/) an [opportunity](/en/post/opportunity/)**: [To](/en/post/to/) [fail](/en/post/fail/) [to](/en/post/to/) [take](/en/post/take/) [advantage](/en/post/advantage/) [of](/en/post/of/) [a](/en/post/a/) [beneficial](/en/post/beneficial/) [situation](/en/post/situation/).
-  - "[She](/en/post/she/) missed [the](/en/post/the/) [opportunity](/en/post/opportunity/) [to](/en/post/to/) [ask](/en/post/ask/) [him](/en/post/him/) [about](/en/post/about/) [the](/en/post/the/) promotion [because](/en/post/because/) [she](/en/post/she/) was [too](/en/post/too/) [nervous](/en/post/nervous/)."
-- **An [opportunity](/en/post/opportunity/) knocks [only](/en/post/only/) [once](/en/post/once/)**: [This](/en/post/this/) idiomatic [expression](/en/post/expression/) suggests [that](/en/post/that/) [certain](/en/post/certain/) opportunities are [rare](/en/post/rare/) [and](/en/post/and/) [should](/en/post/should/) [not](/en/post/not/) [be](/en/post/be/) ignored.
+- **[Seize](/post/seize/) [the](/post/the/) [opportunity](/post/opportunity/)**: [To](/post/to/) [take](/post/take/) [advantage](/post/advantage/) [of](/post/of/) [a](/post/a/) [chance](/post/chance/) [when](/post/when/) [it](/post/it/) arises.
+  - "[When](/post/when/) [the](/post/the/) [chance](/post/chance/) [to](/post/to/) [study](/post/study/) [abroad](/post/abroad/) came [up](/post/up/), [he](/post/he/) seized [the](/post/the/) [opportunity](/post/opportunity/) [without](/post/without/) hesitation."
+- **[Miss](/post/miss/) an [opportunity](/post/opportunity/)**: [To](/post/to/) [fail](/post/fail/) [to](/post/to/) [take](/post/take/) [advantage](/post/advantage/) [of](/post/of/) [a](/post/a/) [beneficial](/post/beneficial/) [situation](/post/situation/).
+  - "[She](/post/she/) missed [the](/post/the/) [opportunity](/post/opportunity/) [to](/post/to/) [ask](/post/ask/) [him](/post/him/) [about](/post/about/) [the](/post/the/) promotion [because](/post/because/) [she](/post/she/) was [too](/post/too/) [nervous](/post/nervous/)."
+- **An [opportunity](/post/opportunity/) knocks [only](/post/only/) [once](/post/once/)**: [This](/post/this/) idiomatic [expression](/post/expression/) suggests [that](/post/that/) [certain](/post/certain/) opportunities are [rare](/post/rare/) [and](/post/and/) [should](/post/should/) [not](/post/not/) [be](/post/be/) ignored.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) couldn't [believe](/en/post/believe/) [his](/en/post/his/) [luck](/en/post/luck/) [when](/en/post/when/) [this](/en/post/this/) career-changing [opportunity](/en/post/opportunity/) arose."
-- "[The](/en/post/the/) [company](/en/post/company/) [saw](/en/post/saw/) an [opportunity](/en/post/opportunity/) [to](/en/post/to/) [expand](/en/post/expand/) [its](/en/post/its/) [market](/en/post/market/) [share](/en/post/share/) [by](/en/post/by/) introducing [new](/en/post/new/) products."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) couldn't [believe](/post/believe/) [his](/post/his/) [luck](/post/luck/) [when](/post/when/) [this](/post/this/) career-changing [opportunity](/post/opportunity/) arose."
+- "[The](/post/the/) [company](/post/company/) [saw](/post/saw/) an [opportunity](/post/opportunity/) [to](/post/to/) [expand](/post/expand/) [its](/post/its/) [market](/post/market/) [share](/post/share/) [by](/post/by/) introducing [new](/post/new/) products."
 
 ## Synonyms
-- [Chance](/en/post/chance/)
-- [Occasion](/en/post/occasion/)
-- [Opening](/en/post/opening/)
-- [Prospect](/en/post/prospect/)
-- [Break](/en/post/break/)
-- [Window](/en/post/window/)
-- [Avenue](/en/post/avenue/)
-- [Possibility](/en/post/possibility/)
-- [Shot](/en/post/shot/)
-- [Moment](/en/post/moment/)
+- [Chance](/post/chance/)
+- [Occasion](/post/occasion/)
+- [Opening](/post/opening/)
+- [Prospect](/post/prospect/)
+- [Break](/post/break/)
+- [Window](/post/window/)
+- [Avenue](/post/avenue/)
+- [Possibility](/post/possibility/)
+- [Shot](/post/shot/)
+- [Moment](/post/moment/)

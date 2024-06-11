@@ -7,33 +7,33 @@ description = '[ˈiːzi] a.容易的；安逸的'
 keywords = ['ai words', 'easy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈiːzi/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Easy](/en/post/easy/) [can](/en/post/can/) [be](/en/post/be/) defined [as](/en/post/as/) [something](/en/post/something/) [that](/en/post/that/) requires [little](/en/post/little/) [effort](/en/post/effort/), [simple](/en/post/simple/) [to](/en/post/to/) [do](/en/post/do/), [understand](/en/post/understand/), [or](/en/post/or/) [deal](/en/post/deal/) [with](/en/post/with/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [describe](/en/post/describe/) [a](/en/post/a/) person's [nature](/en/post/nature/) [as](/en/post/as/) [not](/en/post/not/) demanding, [strict](/en/post/strict/), [or](/en/post/or/) [difficult](/en/post/difficult/) [to](/en/post/to/) [please](/en/post/please/).
+- **[Adjective](/post/adjective/)**: [Easy](/post/easy/) [can](/post/can/) [be](/post/be/) defined [as](/post/as/) [something](/post/something/) [that](/post/that/) requires [little](/post/little/) [effort](/post/effort/), [simple](/post/simple/) [to](/post/to/) [do](/post/do/), [understand](/post/understand/), [or](/post/or/) [deal](/post/deal/) [with](/post/with/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [describe](/post/describe/) [a](/post/a/) person's [nature](/post/nature/) [as](/post/as/) [not](/post/not/) demanding, [strict](/post/strict/), [or](/post/or/) [difficult](/post/difficult/) [to](/post/to/) [please](/post/please/).
 
-[Example](/en/post/example/) sentences:
-- **[As](/en/post/as/) an [Adjective](/en/post/adjective/) describing [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [situation](/en/post/situation/)**: "[Learning](/en/post/learning/) Spanish was [easy](/en/post/easy/) [for](/en/post/for/) [her](/en/post/her/) [because](/en/post/because/) [she](/en/post/she/) [already](/en/post/already/) spoke French."
-- **Describing [a](/en/post/a/) person's disposition**: "[He](/en/post/he/) has an easy-going personality [which](/en/post/which/) makes [him](/en/post/him/) [popular](/en/post/popular/) [among](/en/post/among/) friends."
+[Example](/post/example/) sentences:
+- **[As](/post/as/) an [Adjective](/post/adjective/) describing [a](/post/a/) [task](/post/task/) [or](/post/or/) [situation](/post/situation/)**: "[Learning](/post/learning/) Spanish was [easy](/post/easy/) [for](/post/for/) [her](/post/her/) [because](/post/because/) [she](/post/she/) [already](/post/already/) spoke French."
+- **Describing [a](/post/a/) person's disposition**: "[He](/post/he/) has an easy-going personality [which](/post/which/) makes [him](/post/him/) [popular](/post/popular/) [among](/post/among/) friends."
 
 ### Phrases
-- "[Take](/en/post/take/) [it](/en/post/it/) [easy](/en/post/easy/)": [This](/en/post/this/) [phrase](/en/post/phrase/) suggests relaxing [or](/en/post/or/) [not](/en/post/not/) worrying [too](/en/post/too/) [much](/en/post/much/) [about](/en/post/about/) [something](/en/post/something/). [For](/en/post/for/) [instance](/en/post/instance/), "[After](/en/post/after/) [a](/en/post/a/) [hard](/en/post/hard/) day's [work](/en/post/work/), [he](/en/post/he/) likes [to](/en/post/to/) [take](/en/post/take/) [it](/en/post/it/) [easy](/en/post/easy/) [at](/en/post/at/) [home](/en/post/home/)."
-- "[Easy](/en/post/easy/) does [it](/en/post/it/)": [Often](/en/post/often/) said [when](/en/post/when/) cautioning [someone](/en/post/someone/) [to](/en/post/to/) [move](/en/post/move/) [slowly](/en/post/slowly/) [or](/en/post/or/) carefully, [like](/en/post/like/) "[When](/en/post/when/) lifting [heavy](/en/post/heavy/) objects, [remember](/en/post/remember/) [to](/en/post/to/) [go](/en/post/go/) [easy](/en/post/easy/) does [it](/en/post/it/)."
-- "[Easy](/en/post/easy/) [come](/en/post/come/), [easy](/en/post/easy/) [go](/en/post/go/)": Refers [to](/en/post/to/) [how](/en/post/how/) [quickly](/en/post/quickly/) [wealth](/en/post/wealth/) [or](/en/post/or/) possessions [can](/en/post/can/) [be](/en/post/be/) gained [and](/en/post/and/) lost, e.g., "[He](/en/post/he/) won [the](/en/post/the/) lottery [but](/en/post/but/) spent [it](/en/post/it/) [all](/en/post/all/) [within](/en/post/within/) months; [easy](/en/post/easy/) [come](/en/post/come/), [easy](/en/post/easy/) [go](/en/post/go/)."
+- "[Take](/post/take/) [it](/post/it/) [easy](/post/easy/)": [This](/post/this/) [phrase](/post/phrase/) suggests relaxing [or](/post/or/) [not](/post/not/) worrying [too](/post/too/) [much](/post/much/) [about](/post/about/) [something](/post/something/). [For](/post/for/) [instance](/post/instance/), "[After](/post/after/) [a](/post/a/) [hard](/post/hard/) day's [work](/post/work/), [he](/post/he/) likes [to](/post/to/) [take](/post/take/) [it](/post/it/) [easy](/post/easy/) [at](/post/at/) [home](/post/home/)."
+- "[Easy](/post/easy/) does [it](/post/it/)": [Often](/post/often/) said [when](/post/when/) cautioning [someone](/post/someone/) [to](/post/to/) [move](/post/move/) [slowly](/post/slowly/) [or](/post/or/) carefully, [like](/post/like/) "[When](/post/when/) lifting [heavy](/post/heavy/) objects, [remember](/post/remember/) [to](/post/to/) [go](/post/go/) [easy](/post/easy/) does [it](/post/it/)."
+- "[Easy](/post/easy/) [come](/post/come/), [easy](/post/easy/) [go](/post/go/)": Refers [to](/post/to/) [how](/post/how/) [quickly](/post/quickly/) [wealth](/post/wealth/) [or](/post/or/) possessions [can](/post/can/) [be](/post/be/) gained [and](/post/and/) lost, e.g., "[He](/post/he/) won [the](/post/the/) lottery [but](/post/but/) spent [it](/post/it/) [all](/post/all/) [within](/post/within/) months; [easy](/post/easy/) [come](/post/come/), [easy](/post/easy/) [go](/post/go/)."
 
-## [Example](/en/post/example/) Sentences
-- **Describing [a](/en/post/a/) [task](/en/post/task/)**: "[This](/en/post/this/) recipe is [easy](/en/post/easy/) [enough](/en/post/enough/) [for](/en/post/for/) beginners [to](/en/post/to/) [follow](/en/post/follow/)."
-- **Describing [a](/en/post/a/) [person](/en/post/person/)**: "[The](/en/post/the/) [new](/en/post/new/) [boss](/en/post/boss/) has an [easy](/en/post/easy/) [manner](/en/post/manner/) [that](/en/post/that/) puts employees [at](/en/post/at/) [ease](/en/post/ease/)."
-- **[In](/en/post/in/) [a](/en/post/a/) proverbial [sense](/en/post/sense/)**: "[Money](/en/post/money/) earned [easily](/en/post/easily/) is [often](/en/post/often/) spent [without](/en/post/without/) [much](/en/post/much/) [thought](/en/post/thought/); that's [why](/en/post/why/) [they](/en/post/they/) [say](/en/post/say/) '[easy](/en/post/easy/) [come](/en/post/come/), [easy](/en/post/easy/) [go](/en/post/go/)'."
+## [Example](/post/example/) Sentences
+- **Describing [a](/post/a/) [task](/post/task/)**: "[This](/post/this/) recipe is [easy](/post/easy/) [enough](/post/enough/) [for](/post/for/) beginners [to](/post/to/) [follow](/post/follow/)."
+- **Describing [a](/post/a/) [person](/post/person/)**: "[The](/post/the/) [new](/post/new/) [boss](/post/boss/) has an [easy](/post/easy/) [manner](/post/manner/) [that](/post/that/) puts employees [at](/post/at/) [ease](/post/ease/)."
+- **[In](/post/in/) [a](/post/a/) proverbial [sense](/post/sense/)**: "[Money](/post/money/) earned [easily](/post/easily/) is [often](/post/often/) spent [without](/post/without/) [much](/post/much/) [thought](/post/thought/); that's [why](/post/why/) [they](/post/they/) [say](/post/say/) '[easy](/post/easy/) [come](/post/come/), [easy](/post/easy/) [go](/post/go/)'."
 
 ## Synonyms
-- [Simple](/en/post/simple/)
+- [Simple](/post/simple/)
 - Effortless
 - Uncomplicated
 - Straightforward
 - Undemanding
-- User-friendly ([in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [technology](/en/post/technology/))
-- [Smooth](/en/post/smooth/)
-- [Light](/en/post/light/)
-- Leisurely ([when](/en/post/when/) referring [to](/en/post/to/) [pace](/en/post/pace/) [or](/en/post/or/) [movement](/en/post/movement/))
+- User-friendly ([in](/post/in/) [reference](/post/reference/) [to](/post/to/) [technology](/post/technology/))
+- [Smooth](/post/smooth/)
+- [Light](/post/light/)
+- Leisurely ([when](/post/when/) referring [to](/post/to/) [pace](/post/pace/) [or](/post/or/) [movement](/post/movement/))

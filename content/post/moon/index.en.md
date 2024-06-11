@@ -7,34 +7,34 @@ description = '[muːn] n.月球，月亮；卫星'
 keywords = ['ai words', 'moon']
 +++
 
-## [Word](/en/post/word/): [Moon](/en/post/moon/)
+## [Word](/post/word/): [Moon](/post/moon/)
 
-## [Pronunciation](/en/post/pronunciation/)
-/[moon](/en/post/moon/)/
+## [Pronunciation](/post/pronunciation/)
+/[moon](/post/moon/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [natural](/en/post/natural/) [satellite](/en/post/satellite/) [of](/en/post/of/) [Earth](/en/post/earth/), orbiting [around](/en/post/around/) [it](/en/post/it/) [and](/en/post/and/) appearing [as](/en/post/as/) [a](/en/post/a/) [bright](/en/post/bright/), shining [object](/en/post/object/) [in](/en/post/in/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/). It's [the](/en/post/the/) [fifth](/en/post/fifth/) largest [moon](/en/post/moon/) [in](/en/post/in/) [the](/en/post/the/) [solar](/en/post/solar/) [system](/en/post/system/). [Example](/en/post/example/): "[The](/en/post/the/) [full](/en/post/full/) [moon](/en/post/moon/) illuminated [the](/en/post/the/) [dark](/en/post/dark/) [forest](/en/post/forest/)."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) celestial [body](/en/post/body/) [that](/en/post/that/) orbits [around](/en/post/around/) [another](/en/post/another/) [planet](/en/post/planet/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [other](/en/post/other/) planets having moons. [Example](/en/post/example/): "Jupiter has [many](/en/post/many/) moons."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [month](/en/post/month/), [especially](/en/post/especially/) [a](/en/post/a/) lunar [month](/en/post/month/) based [on](/en/post/on/) [the](/en/post/the/) phases [of](/en/post/of/) [the](/en/post/the/) [moon](/en/post/moon/). [Example](/en/post/example/): "[The](/en/post/the/) [festival](/en/post/festival/) takes [place](/en/post/place/) [once](/en/post/once/) [a](/en/post/a/) [moon](/en/post/moon/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [gaze](/en/post/gaze/) [at](/en/post/at/) [or](/en/post/or/) [admire](/en/post/admire/) [the](/en/post/the/) [moon](/en/post/moon/). [Example](/en/post/example/): "[They](/en/post/they/) spent [the](/en/post/the/) [evening](/en/post/evening/) mooning [over](/en/post/over/) [the](/en/post/the/) [ocean](/en/post/ocean/)."
-- **[Verb](/en/post/verb/) (v)**: (informal) [To](/en/post/to/) [expose](/en/post/expose/) one's buttocks publicly [as](/en/post/as/) [a](/en/post/a/) prank [or](/en/post/or/) [gesture](/en/post/gesture/). [Example](/en/post/example/): "[The](/en/post/the/) mischievous boys were caught mooning passersby [from](/en/post/from/) [the](/en/post/the/) [school](/en/post/school/) [roof](/en/post/roof/)."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [natural](/post/natural/) [satellite](/post/satellite/) [of](/post/of/) [Earth](/post/earth/), orbiting [around](/post/around/) [it](/post/it/) [and](/post/and/) appearing [as](/post/as/) [a](/post/a/) [bright](/post/bright/), shining [object](/post/object/) [in](/post/in/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/). It's [the](/post/the/) [fifth](/post/fifth/) largest [moon](/post/moon/) [in](/post/in/) [the](/post/the/) [solar](/post/solar/) [system](/post/system/). [Example](/post/example/): "[The](/post/the/) [full](/post/full/) [moon](/post/moon/) illuminated [the](/post/the/) [dark](/post/dark/) [forest](/post/forest/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) celestial [body](/post/body/) [that](/post/that/) orbits [around](/post/around/) [another](/post/another/) [planet](/post/planet/), [often](/post/often/) [used](/post/used/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) [other](/post/other/) planets having moons. [Example](/post/example/): "Jupiter has [many](/post/many/) moons."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [month](/post/month/), [especially](/post/especially/) [a](/post/a/) lunar [month](/post/month/) based [on](/post/on/) [the](/post/the/) phases [of](/post/of/) [the](/post/the/) [moon](/post/moon/). [Example](/post/example/): "[The](/post/the/) [festival](/post/festival/) takes [place](/post/place/) [once](/post/once/) [a](/post/a/) [moon](/post/moon/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [gaze](/post/gaze/) [at](/post/at/) [or](/post/or/) [admire](/post/admire/) [the](/post/the/) [moon](/post/moon/). [Example](/post/example/): "[They](/post/they/) spent [the](/post/the/) [evening](/post/evening/) mooning [over](/post/over/) [the](/post/the/) [ocean](/post/ocean/)."
+- **[Verb](/post/verb/) (v)**: (informal) [To](/post/to/) [expose](/post/expose/) one's buttocks publicly [as](/post/as/) [a](/post/a/) prank [or](/post/or/) [gesture](/post/gesture/). [Example](/post/example/): "[The](/post/the/) mischievous boys were caught mooning passersby [from](/post/from/) [the](/post/the/) [school](/post/school/) [roof](/post/roof/)."
   
 ## Phrases
-- "[Shoot](/en/post/shoot/) [for](/en/post/for/) [the](/en/post/the/) [moon](/en/post/moon/)": [Aim](/en/post/aim/) ambitiously [high](/en/post/high/).
-- "[Once](/en/post/once/) [in](/en/post/in/) [a](/en/post/a/) [blue](/en/post/blue/) [moon](/en/post/moon/)": [Rarely](/en/post/rarely/) [or](/en/post/or/) infrequently.
-- "[Under](/en/post/under/) [the](/en/post/the/) moonlight": [In](/en/post/in/) [the](/en/post/the/) [light](/en/post/light/) [of](/en/post/of/) [the](/en/post/the/) [moon](/en/post/moon/), [often](/en/post/often/) suggesting romance [or](/en/post/or/) [mystery](/en/post/mystery/).
-- "[Moon](/en/post/moon/) [landing](/en/post/landing/)": [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [a](/en/post/a/) [spacecraft](/en/post/spacecraft/) reaching [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [the](/en/post/the/) [moon](/en/post/moon/).
+- "[Shoot](/post/shoot/) [for](/post/for/) [the](/post/the/) [moon](/post/moon/)": [Aim](/post/aim/) ambitiously [high](/post/high/).
+- "[Once](/post/once/) [in](/post/in/) [a](/post/a/) [blue](/post/blue/) [moon](/post/moon/)": [Rarely](/post/rarely/) [or](/post/or/) infrequently.
+- "[Under](/post/under/) [the](/post/the/) moonlight": [In](/post/in/) [the](/post/the/) [light](/post/light/) [of](/post/of/) [the](/post/the/) [moon](/post/moon/), [often](/post/often/) suggesting romance [or](/post/or/) [mystery](/post/mystery/).
+- "[Moon](/post/moon/) [landing](/post/landing/)": [The](/post/the/) [act](/post/act/) [of](/post/of/) [a](/post/a/) [spacecraft](/post/spacecraft/) reaching [the](/post/the/) [surface](/post/surface/) [of](/post/of/) [the](/post/the/) [moon](/post/moon/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([moon](/en/post/moon/) [as](/en/post/as/) Earth's [satellite](/en/post/satellite/))**: "[The](/en/post/the/) astronauts planted [the](/en/post/the/) [flag](/en/post/flag/) [of](/en/post/of/) [their](/en/post/their/) [country](/en/post/country/) [on](/en/post/on/) [the](/en/post/the/) [moon](/en/post/moon/)."
-- **[Noun](/en/post/noun/) ([moon](/en/post/moon/) [as](/en/post/as/) [a](/en/post/a/) celestial [body](/en/post/body/))**: "Titan is [the](/en/post/the/) largest [moon](/en/post/moon/) [of](/en/post/of/) Saturn."
-- **[Verb](/en/post/verb/) (admiring [the](/en/post/the/) [moon](/en/post/moon/))**: "[We](/en/post/we/) sat [outside](/en/post/outside/) [under](/en/post/under/) [the](/en/post/the/) stars, mooning [over](/en/post/over/) [the](/en/post/the/) [beauty](/en/post/beauty/) [of](/en/post/of/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/)."
-- **[Verb](/en/post/verb/) (informal [sense](/en/post/sense/))**: "[His](/en/post/his/) juvenile [behavior](/en/post/behavior/) included mooning [people](/en/post/people/) [from](/en/post/from/) [the](/en/post/the/) [bus](/en/post/bus/) [window](/en/post/window/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([moon](/post/moon/) [as](/post/as/) Earth's [satellite](/post/satellite/))**: "[The](/post/the/) astronauts planted [the](/post/the/) [flag](/post/flag/) [of](/post/of/) [their](/post/their/) [country](/post/country/) [on](/post/on/) [the](/post/the/) [moon](/post/moon/)."
+- **[Noun](/post/noun/) ([moon](/post/moon/) [as](/post/as/) [a](/post/a/) celestial [body](/post/body/))**: "Titan is [the](/post/the/) largest [moon](/post/moon/) [of](/post/of/) Saturn."
+- **[Verb](/post/verb/) (admiring [the](/post/the/) [moon](/post/moon/))**: "[We](/post/we/) sat [outside](/post/outside/) [under](/post/under/) [the](/post/the/) stars, mooning [over](/post/over/) [the](/post/the/) [beauty](/post/beauty/) [of](/post/of/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/)."
+- **[Verb](/post/verb/) (informal [sense](/post/sense/))**: "[His](/post/his/) juvenile [behavior](/post/behavior/) included mooning [people](/post/people/) [from](/post/from/) [the](/post/the/) [bus](/post/bus/) [window](/post/window/)."
 
 ## Synonyms
 - Lunar orb
-- [Satellite](/en/post/satellite/)
+- [Satellite](/post/satellite/)
 - Luna
-- [Month](/en/post/month/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) lunar cycles)
-- ([As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), '[gaze](/en/post/gaze/) [at](/en/post/at/) [the](/en/post/the/) [moon](/en/post/moon/)')
-- ([As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), '[expose](/en/post/expose/) [oneself](/en/post/oneself/)', [no](/en/post/no/) [real](/en/post/real/) synonym [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) informal [nature](/en/post/nature/))
+- [Month](/post/month/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) lunar cycles)
+- ([As](/post/as/) [a](/post/a/) [verb](/post/verb/), '[gaze](/post/gaze/) [at](/post/at/) [the](/post/the/) [moon](/post/moon/)')
+- ([As](/post/as/) [a](/post/a/) [verb](/post/verb/), '[expose](/post/expose/) [oneself](/post/oneself/)', [no](/post/no/) [real](/post/real/) synonym [due](/post/due/) [to](/post/to/) [its](/post/its/) informal [nature](/post/nature/))

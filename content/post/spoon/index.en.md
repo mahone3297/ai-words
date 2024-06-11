@@ -7,46 +7,46 @@ description = '[spuːn] n.匙，调羹'
 keywords = ['ai words', 'spoon']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /snuː/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) utensil [with](/en/post/with/) [a](/en/post/a/) bowl-like [cup](/en/post/cup/) [and](/en/post/and/) [a](/en/post/a/) [handle](/en/post/handle/), [used](/en/post/used/) [for](/en/post/for/) eating [liquid](/en/post/liquid/) [or](/en/post/or/) [solid](/en/post/solid/) [food](/en/post/food/).
-- [In](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/), [a](/en/post/a/) [small](/en/post/small/) [quantity](/en/post/quantity/) [or](/en/post/or/) [amount](/en/post/amount/).
-- [In](/en/post/in/) gaming, [a](/en/post/a/) [point](/en/post/point/) [or](/en/post/or/) [score](/en/post/score/) awarded, [often](/en/post/often/) [in](/en/post/in/) [card](/en/post/card/) games.
+### [Noun](/post/noun/)
+- [A](/post/a/) utensil [with](/post/with/) [a](/post/a/) bowl-like [cup](/post/cup/) [and](/post/and/) [a](/post/a/) [handle](/post/handle/), [used](/post/used/) [for](/post/for/) eating [liquid](/post/liquid/) [or](/post/or/) [solid](/post/solid/) [food](/post/food/).
+- [In](/post/in/) [a](/post/a/) figurative [sense](/post/sense/), [a](/post/a/) [small](/post/small/) [quantity](/post/quantity/) [or](/post/or/) [amount](/post/amount/).
+- [In](/post/in/) gaming, [a](/post/a/) [point](/post/point/) [or](/post/or/) [score](/post/score/) awarded, [often](/post/often/) [in](/post/in/) [card](/post/card/) games.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [serve](/en/post/serve/) [or](/en/post/or/) [eat](/en/post/eat/) [food](/en/post/food/) using [a](/en/post/a/) [spoon](/en/post/spoon/).
-- [To](/en/post/to/) [take](/en/post/take/) [or](/en/post/or/) [use](/en/post/use/) [a](/en/post/a/) spoonful [of](/en/post/of/) [something](/en/post/something/).
-- [To](/en/post/to/) scoop [or](/en/post/or/) [gather](/en/post/gather/) ([a](/en/post/a/) [substance](/en/post/substance/)) [with](/en/post/with/) [a](/en/post/a/) [spoon](/en/post/spoon/).
+### [Verb](/post/verb/)
+- [To](/post/to/) [serve](/post/serve/) [or](/post/or/) [eat](/post/eat/) [food](/post/food/) using [a](/post/a/) [spoon](/post/spoon/).
+- [To](/post/to/) [take](/post/take/) [or](/post/or/) [use](/post/use/) [a](/post/a/) spoonful [of](/post/of/) [something](/post/something/).
+- [To](/post/to/) scoop [or](/post/or/) [gather](/post/gather/) ([a](/post/a/) [substance](/post/substance/)) [with](/post/with/) [a](/post/a/) [spoon](/post/spoon/).
 
-### [Adjective](/en/post/adjective/)
-- Relating [to](/en/post/to/) [or](/en/post/or/) denoting [a](/en/post/a/) [spoon](/en/post/spoon/) [as](/en/post/as/) [a](/en/post/a/) utensil.
-- [Small](/en/post/small/) [or](/en/post/or/) [delicate](/en/post/delicate/) [in](/en/post/in/) [quantity](/en/post/quantity/) [or](/en/post/or/) [size](/en/post/size/).
+### [Adjective](/post/adjective/)
+- Relating [to](/post/to/) [or](/post/or/) denoting [a](/post/a/) [spoon](/post/spoon/) [as](/post/as/) [a](/post/a/) utensil.
+- [Small](/post/small/) [or](/post/or/) [delicate](/post/delicate/) [in](/post/in/) [quantity](/post/quantity/) [or](/post/or/) [size](/post/size/).
 
 ## Phrases
-- "[Take](/en/post/take/) [a](/en/post/a/) spoonful [of](/en/post/of/) [sugar](/en/post/sugar/)"
-- "[Eat](/en/post/eat/) [with](/en/post/with/) [a](/en/post/a/) [spoon](/en/post/spoon/)"
-- "[A](/en/post/a/) spoonful [of](/en/post/of/) [kindness](/en/post/kindness/) goes [a](/en/post/a/) [long](/en/post/long/) [way](/en/post/way/)"
+- "[Take](/post/take/) [a](/post/a/) spoonful [of](/post/of/) [sugar](/post/sugar/)"
+- "[Eat](/post/eat/) [with](/post/with/) [a](/post/a/) [spoon](/post/spoon/)"
+- "[A](/post/a/) spoonful [of](/post/of/) [kindness](/post/kindness/) goes [a](/post/a/) [long](/post/long/) [way](/post/way/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) ladled [soup](/en/post/soup/) [into](/en/post/into/) [each](/en/post/each/) person's [bowl](/en/post/bowl/) [with](/en/post/with/) [a](/en/post/a/) [large](/en/post/large/) serving [spoon](/en/post/spoon/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) scooped [some](/en/post/some/) [ice](/en/post/ice/) [cream](/en/post/cream/) [into](/en/post/into/) [his](/en/post/his/) [bowl](/en/post/bowl/) using [a](/en/post/a/) long-handled [spoon](/en/post/spoon/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) children enjoyed [their](/en/post/their/) dessert, [each](/en/post/each/) holding [a](/en/post/a/) brightly colored [plastic](/en/post/plastic/) [spoon](/en/post/spoon/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) ladled [soup](/post/soup/) [into](/post/into/) [each](/post/each/) person's [bowl](/post/bowl/) [with](/post/with/) [a](/post/a/) [large](/post/large/) serving [spoon](/post/spoon/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) scooped [some](/post/some/) [ice](/post/ice/) [cream](/post/cream/) [into](/post/into/) [his](/post/his/) [bowl](/post/bowl/) using [a](/post/a/) long-handled [spoon](/post/spoon/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) children enjoyed [their](/post/their/) dessert, [each](/post/each/) holding [a](/post/a/) brightly colored [plastic](/post/plastic/) [spoon](/post/spoon/)."
 
 ## Synonyms
 - Spatula
-- Basting [brush](/en/post/brush/)
+- Basting [brush](/post/brush/)
 - Utensil
 - Ladle
-- [Measure](/en/post/measure/) ([in](/en/post/in/) [a](/en/post/a/) [small](/en/post/small/) [quantity](/en/post/quantity/))
-- [Tea](/en/post/tea/) [spoon](/en/post/spoon/)
-- Dessert [spoon](/en/post/spoon/)
+- [Measure](/post/measure/) ([in](/post/in/) [a](/post/a/) [small](/post/small/) [quantity](/post/quantity/))
+- [Tea](/post/tea/) [spoon](/post/spoon/)
+- Dessert [spoon](/post/spoon/)
 
 ## Antonyms
-- [Fork](/en/post/fork/)
-- [Knife](/en/post/knife/)
+- [Fork](/post/fork/)
+- [Knife](/post/knife/)
 - Chisel
-- [Large](/en/post/large/) [quantity](/en/post/quantity/)
-- [Heavy](/en/post/heavy/) [dose](/en/post/dose/) ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/))
+- [Large](/post/large/) [quantity](/post/quantity/)
+- [Heavy](/post/heavy/) [dose](/post/dose/) ([in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/))

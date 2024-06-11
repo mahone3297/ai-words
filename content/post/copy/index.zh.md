@@ -11,22 +11,22 @@ keywords = ['ai words', 'copy']
 /kɒpɪ/
 
 ## 释义
-- **名词**: 复制品，副本。例如: "[Please](/post/please/) [make](/post/make/) [me](/post/me/) [a](/post/a/) [copy](/post/copy/) [of](/post/of/) [this](/post/this/) [document](/post/document/)."
-- **动词**: 复制，拷贝。例如: "I [need](/post/need/) [to](/post/to/) [copy](/post/copy/) [this](/post/this/) [file](/post/file/) [onto](/post/onto/) [my](/post/my/) USB [drive](/post/drive/)."
-- **名词**: 版权，著作权。例如: "[The](/post/the/) [artist](/post/artist/) is concerned [about](/post/about/) [copy](/post/copy/) issues [with](/post/with/) [their](/post/their/) [music](/post/music/) online."
+- **名词**: 复制品，副本。例如: "[Please](/zh/post/please/) [make](/zh/post/make/) [me](/zh/post/me/) [a](/zh/post/a/) [copy](/zh/post/copy/) [of](/zh/post/of/) [this](/zh/post/this/) [document](/zh/post/document/)."
+- **动词**: 复制，拷贝。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [copy](/zh/post/copy/) [this](/zh/post/this/) [file](/zh/post/file/) [onto](/zh/post/onto/) [my](/zh/post/my/) USB [drive](/zh/post/drive/)."
+- **名词**: 版权，著作权。例如: "[The](/zh/post/the/) [artist](/zh/post/artist/) is concerned [about](/zh/post/about/) [copy](/zh/post/copy/) issues [with](/zh/post/with/) [their](/zh/post/their/) [music](/zh/post/music/) online."
 
 ## 短语
-- "[copy](/post/copy/) [something](/post/something/) [down](/post/down/)" 写下或打印出某物的副本。
-- "[copy](/post/copy/) someone's [work](/post/work/)" 模仿或抄袭某人的作品。
+- "[copy](/zh/post/copy/) [something](/zh/post/something/) [down](/zh/post/down/)" 写下或打印出某物的副本。
+- "[copy](/zh/post/copy/) someone's [work](/zh/post/work/)" 模仿或抄袭某人的作品。
 
 ## 例句
-- 名词: "I [left](/post/left/) [the](/post/the/) [original](/post/original/) [on](/post/on/) [my](/post/my/) [desk](/post/desk/) [and](/post/and/) [only](/post/only/) took [a](/post/a/) [copy](/post/copy/) [with](/post/with/) [me](/post/me/)."
-- 动词: "[Can](/post/can/) [you](/post/you/) [help](/post/help/) [me](/post/me/) [copy](/post/copy/) [these](/post/these/) pages [for](/post/for/) [the](/post/the/) [meeting](/post/meeting/)?"
-- 名词: "[The](/post/the/) [artist](/post/artist/) mentioned copyright infringement [in](/post/in/) [her](/post/her/) lawsuit."
+- 名词: "I [left](/zh/post/left/) [the](/zh/post/the/) [original](/zh/post/original/) [on](/zh/post/on/) [my](/zh/post/my/) [desk](/zh/post/desk/) [and](/zh/post/and/) [only](/zh/post/only/) took [a](/zh/post/a/) [copy](/zh/post/copy/) [with](/zh/post/with/) [me](/zh/post/me/)."
+- 动词: "[Can](/zh/post/can/) [you](/zh/post/you/) [help](/zh/post/help/) [me](/zh/post/me/) [copy](/zh/post/copy/) [these](/zh/post/these/) pages [for](/zh/post/for/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)?"
+- 名词: "[The](/zh/post/the/) [artist](/zh/post/artist/) mentioned copyright infringement [in](/zh/post/in/) [her](/zh/post/her/) lawsuit."
 
 ## 同义词
 - Reproduction
 - Duplicate
 - Replica
-- [Carbon](/post/carbon/)
+- [Carbon](/zh/post/carbon/)
 - Printout

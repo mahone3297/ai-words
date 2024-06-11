@@ -7,31 +7,31 @@ description = '[skiː] n.滑橇 vi.滑雪'
 keywords = ['ai words', 'ski']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /skaɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) recreational [activity](/en/post/activity/) involving gliding [down](/en/post/down/) snow-covered slopes [on](/en/post/on/) skis, typically [for](/en/post/for/) [sport](/en/post/sport/) [or](/en/post/or/) [leisure](/en/post/leisure/). [1]
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) skiing [as](/en/post/as/) [a](/en/post/a/) [pastime](/en/post/pastime/) [or](/en/post/or/) [sport](/en/post/sport/). [2]
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [device](/en/post/device/) [with](/en/post/with/) [two](/en/post/two/) [narrow](/en/post/narrow/) runners [or](/en/post/or/) blades attached [to](/en/post/to/) boots, [used](/en/post/used/) [for](/en/post/for/) skiing. [3]
+- **[Noun](/post/noun/)**: [A](/post/a/) recreational [activity](/post/activity/) involving gliding [down](/post/down/) snow-covered slopes [on](/post/on/) skis, typically [for](/post/for/) [sport](/post/sport/) [or](/post/or/) [leisure](/post/leisure/). [1]
+- **[Verb](/post/verb/)**: [To](/post/to/) [engage](/post/engage/) [in](/post/in/) skiing [as](/post/as/) [a](/post/a/) [pastime](/post/pastime/) [or](/post/or/) [sport](/post/sport/). [2]
+- **[Noun](/post/noun/)**: [A](/post/a/) [device](/post/device/) [with](/post/with/) [two](/post/two/) [narrow](/post/narrow/) runners [or](/post/or/) blades attached [to](/post/to/) boots, [used](/post/used/) [for](/post/for/) skiing. [3]
 
 ## Phrases
-- "[Hit](/en/post/hit/) [the](/en/post/the/) slopes" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) skiing.
-- "[Learn](/en/post/learn/) [to](/en/post/to/) [ski](/en/post/ski/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) [for](/en/post/for/) starting [to](/en/post/to/) [acquire](/en/post/acquire/) skiing skills.
-- "Off-piste skiing" refers [to](/en/post/to/) skiing [outside](/en/post/outside/) designated trails.
+- "[Hit](/post/hit/) [the](/post/the/) slopes" [means](/post/means/) [to](/post/to/) [go](/post/go/) skiing.
+- "[Learn](/post/learn/) [to](/post/to/) [ski](/post/ski/)" is [a](/post/a/) [phrase](/post/phrase/) [for](/post/for/) starting [to](/post/to/) [acquire](/post/acquire/) skiing skills.
+- "Off-piste skiing" refers [to](/post/to/) skiing [outside](/post/outside/) designated trails.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) spent [her](/en/post/her/) [winter](/en/post/winter/) [vacation](/en/post/vacation/) skiing [in](/en/post/in/) [the](/en/post/the/) Alps."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) mastering [basic](/en/post/basic/) techniques, [he](/en/post/he/) decided [to](/en/post/to/) [ski](/en/post/ski/) [down](/en/post/down/) [the](/en/post/the/) challenging [slope](/en/post/slope/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) skis were carefully stored [in](/en/post/in/) [the](/en/post/the/) [garage](/en/post/garage/) [during](/en/post/during/) [the](/en/post/the/) [summer](/en/post/summer/) months."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) spent [her](/post/her/) [winter](/post/winter/) [vacation](/post/vacation/) skiing [in](/post/in/) [the](/post/the/) Alps."
+- **[Verb](/post/verb/)**: "[After](/post/after/) mastering [basic](/post/basic/) techniques, [he](/post/he/) decided [to](/post/to/) [ski](/post/ski/) [down](/post/down/) [the](/post/the/) challenging [slope](/post/slope/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) skis were carefully stored [in](/post/in/) [the](/post/the/) [garage](/post/garage/) [during](/post/during/) [the](/post/the/) [summer](/post/summer/) months."
 
 ## Synonyms
 - Skiing
 - Snowboarding (informal)
-- Alpine skiing ([specific](/en/post/specific/) [type](/en/post/type/))
-- Cross-country skiing ([another](/en/post/another/) [type](/en/post/type/))
+- Alpine skiing ([specific](/post/specific/) [type](/post/type/))
+- Cross-country skiing ([another](/post/another/) [type](/post/type/))
 
 ## Notes
-[1]: https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[ski](/en/post/ski/)
-[2]: https://www.oxfordlearnersdictionaries.com/[definition](/en/post/definition/)/english/[ski](/en/post/ski/)
-[3]: https://www.[vocabulary](/en/post/vocabulary/).com/[dictionary](/en/post/dictionary/)/[ski](/en/post/ski/)
+[1]: https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[ski](/post/ski/)
+[2]: https://www.oxfordlearnersdictionaries.com/[definition](/post/definition/)/english/[ski](/post/ski/)
+[3]: https://www.[vocabulary](/post/vocabulary/).com/[dictionary](/post/dictionary/)/[ski](/post/ski/)

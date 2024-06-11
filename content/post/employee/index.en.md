@@ -7,34 +7,34 @@ description = '[ˌemplɔiˈiː] n.受雇者，雇员，雇工'
 keywords = ['ai words', 'employee']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪmˈplɔɪiː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) works [for](/en/post/for/) an [organization](/en/post/organization/) [or](/en/post/or/) [individual](/en/post/individual/) [and](/en/post/and/) receives [payment](/en/post/payment/) [for](/en/post/for/) [their](/en/post/their/) services, [often](/en/post/often/) [under](/en/post/under/) [a](/en/post/a/) [contract](/en/post/contract/) [of](/en/post/of/) [employment](/en/post/employment/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) hired [several](/en/post/several/) [new](/en/post/new/) employees [last](/en/post/last/) [month](/en/post/month/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) works [for](/post/for/) an [organization](/post/organization/) [or](/post/or/) [individual](/post/individual/) [and](/post/and/) receives [payment](/post/payment/) [for](/post/for/) [their](/post/their/) services, [often](/post/often/) [under](/post/under/) [a](/post/a/) [contract](/post/contract/) [of](/post/of/) [employment](/post/employment/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) hired [several](/post/several/) [new](/post/new/) employees [last](/post/last/) [month](/post/month/)."
 
-  > _Example [Sentence](/en/post/sentence/):_ "[As](/en/post/as/) an [employee](/en/post/employee/), [you](/en/post/you/) are entitled [to](/en/post/to/) [certain](/en/post/certain/) benefits [such](/en/post/such/) [as](/en/post/as/) [health](/en/post/health/) [insurance](/en/post/insurance/) [and](/en/post/and/) paid [leave](/en/post/leave/)."
+  > _Example [Sentence](/post/sentence/):_ "[As](/post/as/) an [employee](/post/employee/), [you](/post/you/) are entitled [to](/post/to/) [certain](/post/certain/) benefits [such](/post/such/) [as](/post/as/) [health](/post/health/) [insurance](/post/insurance/) [and](/post/and/) paid [leave](/post/leave/)."
 
-- **[Noun](/en/post/noun/) (derivative [form](/en/post/form/)):** [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) employed; [employment](/en/post/employment/). [Example](/en/post/example/): "[He](/en/post/he/) has been [in](/en/post/in/) [the](/en/post/the/) [employee](/en/post/employee/) [of](/en/post/of/) [this](/en/post/this/) [firm](/en/post/firm/) [for](/en/post/for/) [over](/en/post/over/) [a](/en/post/a/) [decade](/en/post/decade/)."
+- **[Noun](/post/noun/) (derivative [form](/post/form/)):** [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) employed; [employment](/post/employment/). [Example](/post/example/): "[He](/post/he/) has been [in](/post/in/) [the](/post/the/) [employee](/post/employee/) [of](/post/of/) [this](/post/this/) [firm](/post/firm/) [for](/post/for/) [over](/post/over/) [a](/post/a/) [decade](/post/decade/)."
 
-  > _Example [Sentence](/en/post/sentence/):_ "[Finding](/en/post/finding/) long-term [employee](/en/post/employee/) is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [key](/en/post/key/) goals [of](/en/post/of/) [our](/en/post/our/) HR [department](/en/post/department/)."
+  > _Example [Sentence](/post/sentence/):_ "[Finding](/post/finding/) long-term [employee](/post/employee/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) [key](/post/key/) goals [of](/post/of/) [our](/post/our/) HR [department](/post/department/)."
 
 ## Phrases
-- "[Employee](/en/post/employee/) benefits": [Additional](/en/post/additional/) advantages [provided](/en/post/provided/) [by](/en/post/by/) an [employer](/en/post/employer/) [to](/en/post/to/) [its](/en/post/its/) employees [beyond](/en/post/beyond/) [salary](/en/post/salary/) [or](/en/post/or/) wages, e.g., healthcare, retirement plans, [vacation](/en/post/vacation/) days.
-- "[Employee](/en/post/employee/) handbook": [A](/en/post/a/) [document](/en/post/document/) [that](/en/post/that/) outlines [a](/en/post/a/) company's policies, procedures, [and](/en/post/and/) expectations [for](/en/post/for/) [its](/en/post/its/) employees.
-- "[Employee](/en/post/employee/) [of](/en/post/of/) [the](/en/post/the/) [month](/en/post/month/)": An [award](/en/post/award/) given [to](/en/post/to/) [a](/en/post/a/) [worker](/en/post/worker/) [who](/en/post/who/) demonstrates [outstanding](/en/post/outstanding/) [performance](/en/post/performance/) [or](/en/post/or/) [achievement](/en/post/achievement/) [within](/en/post/within/) [a](/en/post/a/) [specific](/en/post/specific/) [time](/en/post/time/) [frame](/en/post/frame/).
+- "[Employee](/post/employee/) benefits": [Additional](/post/additional/) advantages [provided](/post/provided/) [by](/post/by/) an [employer](/post/employer/) [to](/post/to/) [its](/post/its/) employees [beyond](/post/beyond/) [salary](/post/salary/) [or](/post/or/) wages, e.g., healthcare, retirement plans, [vacation](/post/vacation/) days.
+- "[Employee](/post/employee/) handbook": [A](/post/a/) [document](/post/document/) [that](/post/that/) outlines [a](/post/a/) company's policies, procedures, [and](/post/and/) expectations [for](/post/for/) [its](/post/its/) employees.
+- "[Employee](/post/employee/) [of](/post/of/) [the](/post/the/) [month](/post/month/)": An [award](/post/award/) given [to](/post/to/) [a](/post/a/) [worker](/post/worker/) [who](/post/who/) demonstrates [outstanding](/post/outstanding/) [performance](/post/performance/) [or](/post/or/) [achievement](/post/achievement/) [within](/post/within/) [a](/post/a/) [specific](/post/specific/) [time](/post/time/) [frame](/post/frame/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) offers competitive salaries [and](/en/post/and/) [comprehensive](/en/post/comprehensive/) [employee](/en/post/employee/) benefits."
-- **Derivative [Noun](/en/post/noun/)**: "[Her](/en/post/her/) dedication [to](/en/post/to/) [her](/en/post/her/) [work](/en/post/work/) made [her](/en/post/her/) [the](/en/post/the/) [most](/en/post/most/) valued [employee](/en/post/employee/) [in](/en/post/in/) [the](/en/post/the/) [department](/en/post/department/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) offers competitive salaries [and](/post/and/) [comprehensive](/post/comprehensive/) [employee](/post/employee/) benefits."
+- **Derivative [Noun](/post/noun/)**: "[Her](/post/her/) dedication [to](/post/to/) [her](/post/her/) [work](/post/work/) made [her](/post/her/) [the](/post/the/) [most](/post/most/) valued [employee](/post/employee/) [in](/post/in/) [the](/post/the/) [department](/post/department/)."
 
 ## Synonyms
-- [Staff](/en/post/staff/) [member](/en/post/member/)
-- [Worker](/en/post/worker/)
-- Workforce [member](/en/post/member/)
+- [Staff](/post/staff/) [member](/post/member/)
+- [Worker](/post/worker/)
+- Workforce [member](/post/member/)
 - Staffer
-- [Hire](/en/post/hire/)
+- [Hire](/post/hire/)
 - Employeee
-- [Team](/en/post/team/) [member](/en/post/member/)
-- [Wage](/en/post/wage/) earner
-- Paid [staff](/en/post/staff/)
+- [Team](/post/team/) [member](/post/member/)
+- [Wage](/post/wage/) earner
+- Paid [staff](/post/staff/)

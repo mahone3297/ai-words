@@ -11,19 +11,19 @@ keywords = ['ai words', 'spaceship']
 /ˈspækspleɪn/
 
 ## 释义
-- **名词 (n)**: 一种能够太空旅行的飞行器，通常指载人航天器。例如: "[The](/post/the/) [spaceship](/post/spaceship/) carried astronauts [to](/post/to/) [the](/post/the/) [International](/post/international/) [Space](/post/space/) [Station](/post/station/)."
+- **名词 (n)**: 一种能够太空旅行的飞行器，通常指载人航天器。例如: "[The](/zh/post/the/) [spaceship](/zh/post/spaceship/) carried astronauts [to](/zh/post/to/) [the](/zh/post/the/) [International](/zh/post/international/) [Space](/zh/post/space/) [Station](/zh/post/station/)."
 
 ## 短语
-- "[Spaceship](/post/spaceship/) [Earth](/post/earth/)" 用来描述地球作为一个在宇宙中的封闭系统。
-- "[rocket](/post/rocket/) [spaceship](/post/spaceship/)" 指由火箭推进的宇宙飞船。
+- "[Spaceship](/zh/post/spaceship/) [Earth](/zh/post/earth/)" 用来描述地球作为一个在宇宙中的封闭系统。
+- "[rocket](/zh/post/rocket/) [spaceship](/zh/post/spaceship/)" 指由火箭推进的宇宙飞船。
 
 ## 例句
-- "[The](/post/the/) [spaceship](/post/spaceship/) launched [into](/post/into/) [orbit](/post/orbit/) [around](/post/around/) [the](/post/the/) [moon](/post/moon/)."
-- "[In](/post/in/) [science](/post/science/) [fiction](/post/fiction/), spaceships [often](/post/often/) [travel](/post/travel/) faster [than](/post/than/) [the](/post/the/) [speed](/post/speed/) [of](/post/of/) [light](/post/light/)."
+- "[The](/zh/post/the/) [spaceship](/zh/post/spaceship/) launched [into](/zh/post/into/) [orbit](/zh/post/orbit/) [around](/zh/post/around/) [the](/zh/post/the/) [moon](/zh/post/moon/)."
+- "[In](/zh/post/in/) [science](/zh/post/science/) [fiction](/zh/post/fiction/), spaceships [often](/zh/post/often/) [travel](/zh/post/travel/) faster [than](/zh/post/than/) [the](/zh/post/the/) [speed](/zh/post/speed/) [of](/zh/post/of/) [light](/zh/post/light/)."
 
 ## 同义词
-- [Spacecraft](/post/spacecraft/)
+- [Spacecraft](/zh/post/spacecraft/)
 - Rocketship
-- Astronautic [vehicle](/post/vehicle/)
+- Astronautic [vehicle](/zh/post/vehicle/)
 - Starship
-- [Vessel](/post/vessel/)
+- [Vessel](/zh/post/vessel/)

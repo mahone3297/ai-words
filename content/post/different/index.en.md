@@ -7,36 +7,36 @@ description = '[ˈdifrənt] a.差异的；各种的'
 keywords = ['ai words', 'different']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈfrɛnt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) [quality](/en/post/quality/) [or](/en/post/or/) [nature](/en/post/nature/) [that](/en/post/that/) is [not](/en/post/not/) [the](/en/post/the/) [same](/en/post/same/) [as](/en/post/as/) [another](/en/post/another/); [distinct](/en/post/distinct/) [or](/en/post/or/) [unlike](/en/post/unlike/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) colors [of](/en/post/of/) [the](/en/post/the/) [sunset](/en/post/sunset/) were [different](/en/post/different/) [from](/en/post/from/) [any](/en/post/any/) I had seen [before](/en/post/before/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [different](/en/post/different/) [manner](/en/post/manner/) [or](/en/post/or/) [way](/en/post/way/); diversely. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) approached [the](/en/post/the/) [problem](/en/post/problem/) differently [than](/en/post/than/) [her](/en/post/her/) classmates."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) distinguishing [quality](/en/post/quality/) [or](/en/post/or/) [characteristic](/en/post/characteristic/). [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) [person](/en/post/person/) has [their](/en/post/their/) [own](/en/post/own/) [unique](/en/post/unique/) differences."
+- **[Adjective](/post/adjective/)**: Having [a](/post/a/) [quality](/post/quality/) [or](/post/or/) [nature](/post/nature/) [that](/post/that/) is [not](/post/not/) [the](/post/the/) [same](/post/same/) [as](/post/as/) [another](/post/another/); [distinct](/post/distinct/) [or](/post/or/) [unlike](/post/unlike/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) colors [of](/post/of/) [the](/post/the/) [sunset](/post/sunset/) were [different](/post/different/) [from](/post/from/) [any](/post/any/) I had seen [before](/post/before/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [different](/post/different/) [manner](/post/manner/) [or](/post/or/) [way](/post/way/); diversely. [For](/post/for/) [example](/post/example/): "[She](/post/she/) approached [the](/post/the/) [problem](/post/problem/) differently [than](/post/than/) [her](/post/her/) classmates."
+- **[Noun](/post/noun/)**: [A](/post/a/) distinguishing [quality](/post/quality/) [or](/post/or/) [characteristic](/post/characteristic/). [For](/post/for/) [example](/post/example/): "[Each](/post/each/) [person](/post/person/) has [their](/post/their/) [own](/post/own/) [unique](/post/unique/) differences."
 
 ## Phrases
-- "[Be](/en/post/be/) [different](/en/post/different/)" encourages individuality [or](/en/post/or/) uniqueness.
-- "[Not](/en/post/not/) [the](/en/post/the/) [same](/en/post/same/) [as](/en/post/as/)" emphasizes [contrast](/en/post/contrast/).
-- "[In](/en/post/in/) [different](/en/post/different/) ways" highlights [diverse](/en/post/diverse/) approaches.
+- "[Be](/post/be/) [different](/post/different/)" encourages individuality [or](/post/or/) uniqueness.
+- "[Not](/post/not/) [the](/post/the/) [same](/post/same/) [as](/post/as/)" emphasizes [contrast](/post/contrast/).
+- "[In](/post/in/) [different](/post/different/) ways" highlights [diverse](/post/diverse/) approaches.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Their](/en/post/their/) opinions were [different](/en/post/different/), [leading](/en/post/leading/) [to](/en/post/to/) [a](/en/post/a/) heated [debate](/en/post/debate/)."
-- **[Adverb](/en/post/adverb/)**: "[They](/en/post/they/) solved [the](/en/post/the/) [problem](/en/post/problem/) differently, using [alternative](/en/post/alternative/) methods."
-- **[Noun](/en/post/noun/)**: "[Every](/en/post/every/) child's [learning](/en/post/learning/) [style](/en/post/style/) is [different](/en/post/different/), [so](/en/post/so/) it's [important](/en/post/important/) [to](/en/post/to/) [adapt](/en/post/adapt/) [teaching](/en/post/teaching/) methods."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Their](/post/their/) opinions were [different](/post/different/), [leading](/post/leading/) [to](/post/to/) [a](/post/a/) heated [debate](/post/debate/)."
+- **[Adverb](/post/adverb/)**: "[They](/post/they/) solved [the](/post/the/) [problem](/post/problem/) differently, using [alternative](/post/alternative/) methods."
+- **[Noun](/post/noun/)**: "[Every](/post/every/) child's [learning](/post/learning/) [style](/post/style/) is [different](/post/different/), [so](/post/so/) it's [important](/post/important/) [to](/post/to/) [adapt](/post/adapt/) [teaching](/post/teaching/) methods."
 
 ## Synonyms
 - Varied
 - Distinctive
-- [Diverse](/en/post/diverse/)
-- [Unique](/en/post/unique/)
-- [Various](/en/post/various/)
+- [Diverse](/post/diverse/)
+- [Unique](/post/unique/)
+- [Various](/post/various/)
 - Differentiated
 - Unalike
 
 ## Antonyms
-- [Same](/en/post/same/)
-- [Identical](/en/post/identical/)
-- [Uniform](/en/post/uniform/)
+- [Same](/post/same/)
+- [Identical](/post/identical/)
+- [Uniform](/post/uniform/)
 - Conforming
 - Homogeneous

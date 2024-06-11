@@ -8,23 +8,23 @@ keywords = ['ai words', 'harness']
 +++
 
 ## 读音
-/[harness](/post/harness/)/
+/[harness](/zh/post/harness/)/
 
 ## 释义
-- **名词** (n): 装备，挽具，尤其指给马或其他动物套上的皮革或金属配件，用于牵引车辆或农具。例如: "[The](/post/the/) [horse](/post/horse/) was fitted [with](/post/with/) [a](/post/a/) [new](/post/new/) [harness](/post/harness/)."
-- **动词** (v): 利用，控制，使发挥作用。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [harness](/post/harness/) [the](/post/the/) [power](/post/power/) [of](/post/of/) [technology](/post/technology/) [for](/post/for/) [the](/post/the/) betterment [of](/post/of/) [society](/post/society/)."
+- **名词** (n): 装备，挽具，尤其指给马或其他动物套上的皮革或金属配件，用于牵引车辆或农具。例如: "[The](/zh/post/the/) [horse](/zh/post/horse/) was fitted [with](/zh/post/with/) [a](/zh/post/a/) [new](/zh/post/new/) [harness](/zh/post/harness/)."
+- **动词** (v): 利用，控制，使发挥作用。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [harness](/zh/post/harness/) [the](/zh/post/the/) [power](/zh/post/power/) [of](/zh/post/of/) [technology](/zh/post/technology/) [for](/zh/post/for/) [the](/zh/post/the/) betterment [of](/zh/post/of/) [society](/zh/post/society/)."
 
 ## 短语
-- "[Harness](/post/harness/) one's [energy](/post/energy/)" 意为充分利用某人的能量或能力。
-- "[Harness](/post/harness/) [the](/post/the/) [wind](/post/wind/)" 指利用风力发电。
+- "[Harness](/zh/post/harness/) one's [energy](/zh/post/energy/)" 意为充分利用某人的能量或能力。
+- "[Harness](/zh/post/harness/) [the](/zh/post/the/) [wind](/zh/post/wind/)" 指利用风力发电。
 
 ## 例句
-- 名词: "[The](/post/the/) [farmer](/post/farmer/) carefully adjusted [the](/post/the/) [harness](/post/harness/) [on](/post/on/) [his](/post/his/) workhorse."
-- 动词: "[The](/post/the/) [company](/post/company/) is working [to](/post/to/) [harness](/post/harness/) renewable resources [to](/post/to/) [reduce](/post/reduce/) [its](/post/its/) [carbon](/post/carbon/) footprint."
+- 名词: "[The](/zh/post/the/) [farmer](/zh/post/farmer/) carefully adjusted [the](/zh/post/the/) [harness](/zh/post/harness/) [on](/zh/post/on/) [his](/zh/post/his/) workhorse."
+- 动词: "[The](/zh/post/the/) [company](/zh/post/company/) is working [to](/zh/post/to/) [harness](/zh/post/harness/) renewable resources [to](/zh/post/to/) [reduce](/zh/post/reduce/) [its](/zh/post/its/) [carbon](/zh/post/carbon/) footprint."
 
 ## 同义词
-- [Utilize](/post/utilize/)
-- [Control](/post/control/)
-- [Tap](/post/tap/)
-- [Employ](/post/employ/)
-- [Exploit](/post/exploit/)
+- [Utilize](/zh/post/utilize/)
+- [Control](/zh/post/control/)
+- [Tap](/zh/post/tap/)
+- [Employ](/zh/post/employ/)
+- [Exploit](/zh/post/exploit/)

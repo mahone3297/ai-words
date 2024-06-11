@@ -11,20 +11,20 @@ keywords = ['ai words', 'maid']
 /meɪd/
 
 ## 释义
-- **名词 (n)**: 女佣，女仆。通常是指在私人住宅中工作，负责家务和清洁的人。例如: "[The](/post/the/) [maid](/post/maid/) cleaned [the](/post/the/) bedrooms [every](/post/every/) [morning](/post/morning/)."
-- **名词 (n)**: 在某些文学或历史背景下，也可以指未婚少女或侍女。例如: "[In](/post/in/) [ancient](/post/ancient/) stories, [the](/post/the/) king's [maid](/post/maid/) was [often](/post/often/) [a](/post/a/) [central](/post/central/) [character](/post/character/)."
+- **名词 (n)**: 女佣，女仆。通常是指在私人住宅中工作，负责家务和清洁的人。例如: "[The](/zh/post/the/) [maid](/zh/post/maid/) cleaned [the](/zh/post/the/) bedrooms [every](/zh/post/every/) [morning](/zh/post/morning/)."
+- **名词 (n)**: 在某些文学或历史背景下，也可以指未婚少女或侍女。例如: "[In](/zh/post/in/) [ancient](/zh/post/ancient/) stories, [the](/zh/post/the/) king's [maid](/zh/post/maid/) was [often](/zh/post/often/) [a](/zh/post/a/) [central](/zh/post/central/) [character](/zh/post/character/)."
 
 ## 短语
-- "[maid](/post/maid/) [service](/post/service/)" 指酒店或住宿提供的清洁服务。
-- "[maid](/post/maid/) [of](/post/of/) honor" 是婚礼中的伴娘，通常是新娘最亲密的朋友或亲戚。
+- "[maid](/zh/post/maid/) [service](/zh/post/service/)" 指酒店或住宿提供的清洁服务。
+- "[maid](/zh/post/maid/) [of](/zh/post/of/) honor" 是婚礼中的伴娘，通常是新娘最亲密的朋友或亲戚。
 
 ## 例句
-- "[The](/post/the/) [maid](/post/maid/) arrived [early](/post/early/) [to](/post/to/) [start](/post/start/) [her](/post/her/) [daily](/post/daily/) chores."
-- "[She](/post/she/) was [the](/post/the/) [maid](/post/maid/) [of](/post/of/) honor [at](/post/at/) [her](/post/her/) sister's [wedding](/post/wedding/)."
+- "[The](/zh/post/the/) [maid](/zh/post/maid/) arrived [early](/zh/post/early/) [to](/zh/post/to/) [start](/zh/post/start/) [her](/zh/post/her/) [daily](/zh/post/daily/) chores."
+- "[She](/zh/post/she/) was [the](/zh/post/the/) [maid](/zh/post/maid/) [of](/zh/post/of/) honor [at](/zh/post/at/) [her](/zh/post/her/) sister's [wedding](/zh/post/wedding/)."
 
 ## 同义词
 - Housekeeper
-- [Servant](/post/servant/)
+- [Servant](/zh/post/servant/)
 - Cleaner
-- [Domestic](/post/domestic/) [worker](/post/worker/)
+- [Domestic](/zh/post/domestic/) [worker](/zh/post/worker/)
 - Governess (特指教育儿童的女佣)

@@ -7,32 +7,32 @@ description = '[hʌt] n.小屋，棚屋'
 keywords = ['ai words', 'hut']
 +++
 
-## [Word](/en/post/word/): [Hut](/en/post/hut/)
+## [Word](/post/word/): [Hut](/post/hut/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌhʌt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [small](/en/post/small/), [simple](/en/post/simple/) [dwelling](/en/post/dwelling/), [often](/en/post/often/) made [of](/en/post/of/) rudimentary materials [such](/en/post/such/) [as](/en/post/as/) [wood](/en/post/wood/), leaves, [or](/en/post/or/) [mud](/en/post/mud/), [and](/en/post/and/) having [a](/en/post/a/) [single](/en/post/single/) [room](/en/post/room/) [or](/en/post/or/) [just](/en/post/just/) [one](/en/post/one/) [main](/en/post/main/) [room](/en/post/room/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [shelter](/en/post/shelter/) [or](/en/post/or/) [refuge](/en/post/refuge/) built [in](/en/post/in/) [various](/en/post/various/) settings [like](/en/post/like/) mountains, forests, [or](/en/post/or/) beaches. [Example](/en/post/example/): "[The](/en/post/the/) hikers [found](/en/post/found/) [a](/en/post/a/) [wooden](/en/post/wooden/) [hut](/en/post/hut/) [to](/en/post/to/) [spend](/en/post/spend/) [the](/en/post/the/) [night](/en/post/night/) [in](/en/post/in/) [during](/en/post/during/) [their](/en/post/their/) expedition."
+- **[Noun](/post/noun/)**: [A](/post/a/) [small](/post/small/), [simple](/post/simple/) [dwelling](/post/dwelling/), [often](/post/often/) made [of](/post/of/) rudimentary materials [such](/post/such/) [as](/post/as/) [wood](/post/wood/), leaves, [or](/post/or/) [mud](/post/mud/), [and](/post/and/) having [a](/post/a/) [single](/post/single/) [room](/post/room/) [or](/post/or/) [just](/post/just/) [one](/post/one/) [main](/post/main/) [room](/post/room/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [shelter](/post/shelter/) [or](/post/or/) [refuge](/post/refuge/) built [in](/post/in/) [various](/post/various/) settings [like](/post/like/) mountains, forests, [or](/post/or/) beaches. [Example](/post/example/): "[The](/post/the/) hikers [found](/post/found/) [a](/post/a/) [wooden](/post/wooden/) [hut](/post/hut/) [to](/post/to/) [spend](/post/spend/) [the](/post/the/) [night](/post/night/) [in](/post/in/) [during](/post/during/) [their](/post/their/) expedition."
   
-  - **[Noun](/en/post/noun/) ([Military](/en/post/military/))**: [A](/en/post/a/) [temporary](/en/post/temporary/) [structure](/en/post/structure/) [used](/en/post/used/) [as](/en/post/as/) [living](/en/post/living/) quarters, [storage](/en/post/storage/), [or](/en/post/or/) [other](/en/post/other/) purposes [on](/en/post/on/) [a](/en/post/a/) [military](/en/post/military/) [base](/en/post/base/) [or](/en/post/or/) [training](/en/post/training/) [ground](/en/post/ground/). [Example](/en/post/example/): "Soldiers were assigned [to](/en/post/to/) [sleep](/en/post/sleep/) [in](/en/post/in/) [the](/en/post/the/) barracks [until](/en/post/until/) [the](/en/post/the/) [new](/en/post/new/) huts were constructed."
+  - **[Noun](/post/noun/) ([Military](/post/military/))**: [A](/post/a/) [temporary](/post/temporary/) [structure](/post/structure/) [used](/post/used/) [as](/post/as/) [living](/post/living/) quarters, [storage](/post/storage/), [or](/post/or/) [other](/post/other/) purposes [on](/post/on/) [a](/post/a/) [military](/post/military/) [base](/post/base/) [or](/post/or/) [training](/post/training/) [ground](/post/ground/). [Example](/post/example/): "Soldiers were assigned [to](/post/to/) [sleep](/post/sleep/) [in](/post/in/) [the](/post/the/) barracks [until](/post/until/) [the](/post/the/) [new](/post/new/) huts were constructed."
 
 ## Phrases
-- "[Hut](/en/post/hut/), [two](/en/post/two/), [three](/en/post/three/), [four](/en/post/four/)" is [a](/en/post/a/) [traditional](/en/post/traditional/) [military](/en/post/military/) cadence [call](/en/post/call/) [used](/en/post/used/) [during](/en/post/during/) marching drills.
-- "[A](/en/post/a/) thatched [hut](/en/post/hut/)" refers [to](/en/post/to/) [a](/en/post/a/) [hut](/en/post/hut/) [with](/en/post/with/) [a](/en/post/a/) [roof](/en/post/roof/) made [from](/en/post/from/) [dry](/en/post/dry/) vegetation [such](/en/post/such/) [as](/en/post/as/) [straw](/en/post/straw/) [or](/en/post/or/) [palm](/en/post/palm/) leaves.
+- "[Hut](/post/hut/), [two](/post/two/), [three](/post/three/), [four](/post/four/)" is [a](/post/a/) [traditional](/post/traditional/) [military](/post/military/) cadence [call](/post/call/) [used](/post/used/) [during](/post/during/) marching drills.
+- "[A](/post/a/) thatched [hut](/post/hut/)" refers [to](/post/to/) [a](/post/a/) [hut](/post/hut/) [with](/post/with/) [a](/post/a/) [roof](/post/roof/) made [from](/post/from/) [dry](/post/dry/) vegetation [such](/post/such/) [as](/post/as/) [straw](/post/straw/) [or](/post/or/) [palm](/post/palm/) leaves.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) [the](/en/post/the/) [African](/en/post/african/) savannah, [many](/en/post/many/) tribes [still](/en/post/still/) [live](/en/post/live/) [in](/en/post/in/) [traditional](/en/post/traditional/) huts."
-- **[Noun](/en/post/noun/) ([Military](/en/post/military/))**: "[During](/en/post/during/) [basic](/en/post/basic/) [training](/en/post/training/), recruits [learn](/en/post/learn/) [to](/en/post/to/) [build](/en/post/build/) [field](/en/post/field/) huts [for](/en/post/for/) survival exercises."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[In](/post/in/) [the](/post/the/) [African](/post/african/) savannah, [many](/post/many/) tribes [still](/post/still/) [live](/post/live/) [in](/post/in/) [traditional](/post/traditional/) huts."
+- **[Noun](/post/noun/) ([Military](/post/military/))**: "[During](/post/during/) [basic](/post/basic/) [training](/post/training/), recruits [learn](/post/learn/) [to](/post/to/) [build](/post/build/) [field](/post/field/) huts [for](/post/for/) survival exercises."
 
 ## Synonyms
-- [Cabin](/en/post/cabin/)
+- [Cabin](/post/cabin/)
 - Shack
-- [Shelter](/en/post/shelter/)
-- [Cottage](/en/post/cottage/)
-- [Dwelling](/en/post/dwelling/)
+- [Shelter](/post/shelter/)
+- [Cottage](/post/cottage/)
+- [Dwelling](/post/dwelling/)
 - Abode
-- Thatched [house](/en/post/house/)
+- Thatched [house](/post/house/)
 - Lean-to
-- [Tent](/en/post/tent/) ([in](/en/post/in/) [some](/en/post/some/) camping contexts)
-- Barracks ([in](/en/post/in/) [a](/en/post/a/) [military](/en/post/military/) context)
+- [Tent](/post/tent/) ([in](/post/in/) [some](/post/some/) camping contexts)
+- Barracks ([in](/post/in/) [a](/post/a/) [military](/post/military/) context)

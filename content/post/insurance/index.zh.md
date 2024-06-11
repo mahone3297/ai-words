@@ -11,21 +11,21 @@ keywords = ['ai words', 'insurance']
 /ɪnˈʃʊrəns/
 
 ## 释义
-- **名词 (n)**: 一种金融产品，为可能发生的损失提供经济补偿。例如: "[Car](/post/car/) [insurance](/post/insurance/) is mandatory [in](/post/in/) [most](/post/most/) countries."
-- **动词 (v)**: 购买或提供保险。例如: "I [need](/post/need/) [to](/post/to/) [insurance](/post/insurance/) [my](/post/my/) [new](/post/new/) [house](/post/house/) [against](/post/against/) [fire](/post/fire/) [and](/post/and/) theft."
+- **名词 (n)**: 一种金融产品，为可能发生的损失提供经济补偿。例如: "[Car](/zh/post/car/) [insurance](/zh/post/insurance/) is mandatory [in](/zh/post/in/) [most](/zh/post/most/) countries."
+- **动词 (v)**: 购买或提供保险。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [insurance](/zh/post/insurance/) [my](/zh/post/my/) [new](/zh/post/new/) [house](/zh/post/house/) [against](/zh/post/against/) [fire](/zh/post/fire/) [and](/zh/post/and/) theft."
 
 ## 短语
-- "[Life](/post/life/) [insurance](/post/insurance/)" 指人寿保险，为被保险人的死亡或生存提供经济保障。
-- "[Health](/post/health/) [insurance](/post/insurance/)" 提供医疗费用的保障。
-- "[Auto](/post/auto/) [insurance](/post/insurance/)" 或 "[car](/post/car/) [insurance](/post/insurance/)" 是汽车保险，用于保护车主免受意外损失。
+- "[Life](/zh/post/life/) [insurance](/zh/post/insurance/)" 指人寿保险，为被保险人的死亡或生存提供经济保障。
+- "[Health](/zh/post/health/) [insurance](/zh/post/insurance/)" 提供医疗费用的保障。
+- "[Auto](/zh/post/auto/) [insurance](/zh/post/insurance/)" 或 "[car](/zh/post/car/) [insurance](/zh/post/insurance/)" 是汽车保险，用于保护车主免受意外损失。
 
 ## 例句
-- 名词: "[The](/post/the/) [monthly](/post/monthly/) premium [for](/post/for/) [her](/post/her/) [car](/post/car/) [insurance](/post/insurance/) was [quite](/post/quite/) [high](/post/high/)."
-- 动词: "[Before](/post/before/) traveling, [he](/post/he/) made [sure](/post/sure/) [to](/post/to/) [insurance](/post/insurance/) [himself](/post/himself/) [against](/post/against/) [any](/post/any/) unforeseen circumstances."
+- 名词: "[The](/zh/post/the/) [monthly](/zh/post/monthly/) premium [for](/zh/post/for/) [her](/zh/post/her/) [car](/zh/post/car/) [insurance](/zh/post/insurance/) was [quite](/zh/post/quite/) [high](/zh/post/high/)."
+- 动词: "[Before](/zh/post/before/) traveling, [he](/zh/post/he/) made [sure](/zh/post/sure/) [to](/zh/post/to/) [insurance](/zh/post/insurance/) [himself](/zh/post/himself/) [against](/zh/post/against/) [any](/zh/post/any/) unforeseen circumstances."
 
 ## 同义词
 - Assurance
 - Indemnity
 - Coverage
-- [Protection](/post/protection/)
-- [Security](/post/security/)
+- [Protection](/zh/post/protection/)
+- [Security](/zh/post/security/)

@@ -7,45 +7,45 @@ description = '[siːm] vi.好像，似乎'
 keywords = ['ai words', 'seem']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /siːm/
 
 ## Definitions
-### [Verb](/en/post/verb/)
-1. **[Verb](/en/post/verb/) (transitive)**: [To](/en/post/to/) [give](/en/post/give/) [the](/en/post/the/) [appearance](/en/post/appearance/) [of](/en/post/of/); [to](/en/post/to/) [suggest](/en/post/suggest/) [or](/en/post/or/) [imply](/en/post/imply/) [something](/en/post/something/) [without](/en/post/without/) [being](/en/post/being/) [certain](/en/post/certain/). ["[The](/en/post/the/) [weather](/en/post/weather/) seems [fine](/en/post/fine/) [today](/en/post/today/)."]
-2. **[Verb](/en/post/verb/) (intransitive)**: [To](/en/post/to/) [appear](/en/post/appear/) [or](/en/post/or/) [be](/en/post/be/) perceived [as](/en/post/as/) [such](/en/post/such/); [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [particular](/en/post/particular/) [quality](/en/post/quality/) [or](/en/post/or/) [characteristic](/en/post/characteristic/). ["[Her](/en/post/her/) words seemed [sincere](/en/post/sincere/)."]
+### [Verb](/post/verb/)
+1. **[Verb](/post/verb/) (transitive)**: [To](/post/to/) [give](/post/give/) [the](/post/the/) [appearance](/post/appearance/) [of](/post/of/); [to](/post/to/) [suggest](/post/suggest/) [or](/post/or/) [imply](/post/imply/) [something](/post/something/) [without](/post/without/) [being](/post/being/) [certain](/post/certain/). ["[The](/post/the/) [weather](/post/weather/) seems [fine](/post/fine/) [today](/post/today/)."]
+2. **[Verb](/post/verb/) (intransitive)**: [To](/post/to/) [appear](/post/appear/) [or](/post/or/) [be](/post/be/) perceived [as](/post/as/) [such](/post/such/); [to](/post/to/) [have](/post/have/) [a](/post/a/) [particular](/post/particular/) [quality](/post/quality/) [or](/post/or/) [characteristic](/post/characteristic/). ["[Her](/post/her/) words seemed [sincere](/post/sincere/)."]
 
-### [Adjective](/en/post/adjective/)
-1. **Describing perception**: Seeming [or](/en/post/or/) appearing [to](/en/post/to/) [be](/en/post/be/) [true](/en/post/true/) [or](/en/post/or/) [real](/en/post/real/). ["[It](/en/post/it/) seems [like](/en/post/like/) [a](/en/post/a/) [good](/en/post/good/) [idea](/en/post/idea/)."]
-2. **Expressing [probability](/en/post/probability/)**: Giving [the](/en/post/the/) [impression](/en/post/impression/) [that](/en/post/that/) [something](/en/post/something/) is [likely](/en/post/likely/) [to](/en/post/to/) [happen](/en/post/happen/). ["[It](/en/post/it/) seems [likely](/en/post/likely/) [that](/en/post/that/) [they](/en/post/they/) [will](/en/post/will/) [arrive](/en/post/arrive/) [soon](/en/post/soon/)."]
+### [Adjective](/post/adjective/)
+1. **Describing perception**: Seeming [or](/post/or/) appearing [to](/post/to/) [be](/post/be/) [true](/post/true/) [or](/post/or/) [real](/post/real/). ["[It](/post/it/) seems [like](/post/like/) [a](/post/a/) [good](/post/good/) [idea](/post/idea/)."]
+2. **Expressing [probability](/post/probability/)**: Giving [the](/post/the/) [impression](/post/impression/) [that](/post/that/) [something](/post/something/) is [likely](/post/likely/) [to](/post/to/) [happen](/post/happen/). ["[It](/post/it/) seems [likely](/post/likely/) [that](/post/that/) [they](/post/they/) [will](/post/will/) [arrive](/post/arrive/) [soon](/post/soon/)."]
 
 ## Phrases
-- "[Seem](/en/post/seem/) [normal](/en/post/normal/)"
-- "[Seem](/en/post/seem/) [impossible](/en/post/impossible/)"
-- "[Seem](/en/post/seem/) [to](/en/post/to/) [be](/en/post/be/)"
-- "Seemingly [obvious](/en/post/obvious/)"
-- "Seems [like](/en/post/like/) [a](/en/post/a/) no-brainer"
+- "[Seem](/post/seem/) [normal](/post/normal/)"
+- "[Seem](/post/seem/) [impossible](/post/impossible/)"
+- "[Seem](/post/seem/) [to](/post/to/) [be](/post/be/)"
+- "Seemingly [obvious](/post/obvious/)"
+- "Seems [like](/post/like/) [a](/post/a/) no-brainer"
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (transitive):** "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) seemed abandoned, [but](/en/post/but/) [we](/en/post/we/) [later](/en/post/later/) [learned](/en/post/learned/) [it](/en/post/it/) was [just](/en/post/just/) unoccupied."
-- **[Verb](/en/post/verb/) (intransitive):** "[Her](/en/post/her/) [explanation](/en/post/explanation/) seemed [reasonable](/en/post/reasonable/), [so](/en/post/so/) I accepted [it](/en/post/it/)."
-- **[Adjective](/en/post/adjective/):** "[His](/en/post/his/) [success](/en/post/success/) seems [almost](/en/post/almost/) effortless."
-- **Phrases:** "[The](/en/post/the/) [situation](/en/post/situation/) seems dire" [or](/en/post/or/) "[The](/en/post/the/) [solution](/en/post/solution/) seems straightforward."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (transitive):** "[The](/post/the/) [old](/post/old/) [house](/post/house/) seemed abandoned, [but](/post/but/) [we](/post/we/) [later](/post/later/) [learned](/post/learned/) [it](/post/it/) was [just](/post/just/) unoccupied."
+- **[Verb](/post/verb/) (intransitive):** "[Her](/post/her/) [explanation](/post/explanation/) seemed [reasonable](/post/reasonable/), [so](/post/so/) I accepted [it](/post/it/)."
+- **[Adjective](/post/adjective/):** "[His](/post/his/) [success](/post/success/) seems [almost](/post/almost/) effortless."
+- **Phrases:** "[The](/post/the/) [situation](/post/situation/) seems dire" [or](/post/or/) "[The](/post/the/) [solution](/post/solution/) seems straightforward."
 
 ## Synonyms
-- [Appear](/en/post/appear/)
+- [Appear](/post/appear/)
 - Seemingly
-- [Give](/en/post/give/) [the](/en/post/the/) [impression](/en/post/impression/) [of](/en/post/of/)
-- [Suggest](/en/post/suggest/)
-- [Indicate](/en/post/indicate/)
-- [Imply](/en/post/imply/)
+- [Give](/post/give/) [the](/post/the/) [impression](/post/impression/) [of](/post/of/)
+- [Suggest](/post/suggest/)
+- [Indicate](/post/indicate/)
+- [Imply](/post/imply/)
 - Pose
-- [Present](/en/post/present/) [as](/en/post/as/)
+- [Present](/post/present/) [as](/post/as/)
 
 ## Antonyms
-- [Conceal](/en/post/conceal/)
-- [Deny](/en/post/deny/)
+- [Conceal](/post/conceal/)
+- [Deny](/post/deny/)
 - Misrepresent
 - Counterfeit
-- [Mislead](/en/post/mislead/)
+- [Mislead](/post/mislead/)
 - Misinterpret

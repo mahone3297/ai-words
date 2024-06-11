@@ -7,34 +7,34 @@ description = '[ˈkɔtn] n.棉；棉线；棉布'
 keywords = ['ai words', 'cotton']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɒtən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Cotton](/en/post/cotton/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [soft](/en/post/soft/), fluffy, cellulose fiber [that](/en/post/that/) grows [in](/en/post/in/) [the](/en/post/the/) seeds [of](/en/post/of/) plants [in](/en/post/in/) [the](/en/post/the/) *Malvaceae* [family](/en/post/family/), [primarily](/en/post/primarily/) [from](/en/post/from/) [the](/en/post/the/) genus _Gossypium_. [It](/en/post/it/) is [widely](/en/post/widely/) [used](/en/post/used/) [for](/en/post/for/) textiles, [clothing](/en/post/clothing/), [and](/en/post/and/) [various](/en/post/various/) [industrial](/en/post/industrial/) applications.
-2. **Cottonwood** ([noun](/en/post/noun/)): [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) deciduous [tree](/en/post/tree/) (genus _Populus_), characterized [by](/en/post/by/) [its](/en/post/its/) [long](/en/post/long/), [soft](/en/post/soft/) fibers [and](/en/post/and/) [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) [lumber](/en/post/lumber/).
+### [Noun](/post/noun/)
+1. **[Cotton](/post/cotton/)** ([noun](/post/noun/)): [A](/post/a/) [soft](/post/soft/), fluffy, cellulose fiber [that](/post/that/) grows [in](/post/in/) [the](/post/the/) seeds [of](/post/of/) plants [in](/post/in/) [the](/post/the/) *Malvaceae* [family](/post/family/), [primarily](/post/primarily/) [from](/post/from/) [the](/post/the/) genus _Gossypium_. [It](/post/it/) is [widely](/post/widely/) [used](/post/used/) [for](/post/for/) textiles, [clothing](/post/clothing/), [and](/post/and/) [various](/post/various/) [industrial](/post/industrial/) applications.
+2. **Cottonwood** ([noun](/post/noun/)): [A](/post/a/) [type](/post/type/) [of](/post/of/) deciduous [tree](/post/tree/) (genus _Populus_), characterized [by](/post/by/) [its](/post/its/) [long](/post/long/), [soft](/post/soft/) fibers [and](/post/and/) [often](/post/often/) [used](/post/used/) [for](/post/for/) [lumber](/post/lumber/).
 
-### [Verb](/en/post/verb/)
-- [Not](/en/post/not/) [a](/en/post/a/) [common](/en/post/common/) [verb](/en/post/verb/); [cotton](/en/post/cotton/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [mean](/en/post/mean/) "[to](/en/post/to/) adhere" [or](/en/post/or/) "[to](/en/post/to/) [gather](/en/post/gather/)," [but](/en/post/but/) [not](/en/post/not/) [as](/en/post/as/) [a](/en/post/a/) [primary](/en/post/primary/) [action](/en/post/action/) [verb](/en/post/verb/).
+### [Verb](/post/verb/)
+- [Not](/post/not/) [a](/post/a/) [common](/post/common/) [verb](/post/verb/); [cotton](/post/cotton/) [can](/post/can/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [mean](/post/mean/) "[to](/post/to/) adhere" [or](/post/or/) "[to](/post/to/) [gather](/post/gather/)," [but](/post/but/) [not](/post/not/) [as](/post/as/) [a](/post/a/) [primary](/post/primary/) [action](/post/action/) [verb](/post/verb/).
 
-### [Adjective](/en/post/adjective/)
-- **Cottony** ([adjective](/en/post/adjective/)): Having [a](/en/post/a/) [soft](/en/post/soft/), [light](/en/post/light/), [and](/en/post/and/) fluffy texture resembling [cotton](/en/post/cotton/).
+### [Adjective](/post/adjective/)
+- **Cottony** ([adjective](/post/adjective/)): Having [a](/post/a/) [soft](/post/soft/), [light](/post/light/), [and](/post/and/) fluffy texture resembling [cotton](/post/cotton/).
 
-### [Adverb](/en/post/adverb/)
-- [Not](/en/post/not/) [applicable](/en/post/applicable/).
+### [Adverb](/post/adverb/)
+- [Not](/post/not/) [applicable](/post/applicable/).
 
 ## Phrases
-- "Made [of](/en/post/of/) [cotton](/en/post/cotton/)" refers [to](/en/post/to/) [a](/en/post/a/) [material](/en/post/material/) [composition](/en/post/composition/).
-- "[Cotton](/en/post/cotton/) [candy](/en/post/candy/)" is [a](/en/post/a/) [sweet](/en/post/sweet/), fluffy [treat](/en/post/treat/) made [from](/en/post/from/) [sugar](/en/post/sugar/) [and](/en/post/and/) [water](/en/post/water/).
-- "Cottonseed [oil](/en/post/oil/)" is extracted [from](/en/post/from/) [cotton](/en/post/cotton/) seeds.
+- "Made [of](/post/of/) [cotton](/post/cotton/)" refers [to](/post/to/) [a](/post/a/) [material](/post/material/) [composition](/post/composition/).
+- "[Cotton](/post/cotton/) [candy](/post/candy/)" is [a](/post/a/) [sweet](/post/sweet/), fluffy [treat](/post/treat/) made [from](/post/from/) [sugar](/post/sugar/) [and](/post/and/) [water](/post/water/).
+- "Cottonseed [oil](/post/oil/)" is extracted [from](/post/from/) [cotton](/post/cotton/) seeds.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [dress](/en/post/dress/) was made [of](/en/post/of/) 100% [cotton](/en/post/cotton/), [which](/en/post/which/) felt [very](/en/post/very/) [comfortable](/en/post/comfortable/)."
-- **Metaphorical [usage](/en/post/usage/)**: "[The](/en/post/the/) ideas stuck [in](/en/post/in/) [his](/en/post/his/) [mind](/en/post/mind/) [like](/en/post/like/) [cotton](/en/post/cotton/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [dress](/post/dress/) was made [of](/post/of/) 100% [cotton](/post/cotton/), [which](/post/which/) felt [very](/post/very/) [comfortable](/post/comfortable/)."
+- **Metaphorical [usage](/post/usage/)**: "[The](/post/the/) ideas stuck [in](/post/in/) [his](/post/his/) [mind](/post/mind/) [like](/post/like/) [cotton](/post/cotton/)."
 
 ## Synonyms
-- ([Noun](/en/post/noun/)) Flax, hemp, [linen](/en/post/linen/), sisal
-- ([Adjective](/en/post/adjective/)) [Soft](/en/post/soft/), downy, fluffy
+- ([Noun](/post/noun/)) Flax, hemp, [linen](/post/linen/), sisal
+- ([Adjective](/post/adjective/)) [Soft](/post/soft/), downy, fluffy
 
-## [Note](/en/post/note/): [As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [cotton](/en/post/cotton/) is [not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) standalone [term](/en/post/term/) [in](/en/post/in/) [standard](/en/post/standard/) English, [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [certain](/en/post/certain/) regional dialects [or](/en/post/or/) idiomatic expressions. [The](/en/post/the/) [most](/en/post/most/) [common](/en/post/common/) [verb](/en/post/verb/) forms [for](/en/post/for/) [greeting](/en/post/greeting/) are "[to](/en/post/to/) [greet](/en/post/greet/)" [or](/en/post/or/) "[to](/en/post/to/) [say](/en/post/say/) [hello](/en/post/hello/)."
+## [Note](/post/note/): [As](/post/as/) [a](/post/a/) [verb](/post/verb/), [cotton](/post/cotton/) is [not](/post/not/) typically [used](/post/used/) [as](/post/as/) [a](/post/a/) standalone [term](/post/term/) [in](/post/in/) [standard](/post/standard/) English, [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [certain](/post/certain/) regional dialects [or](/post/or/) idiomatic expressions. [The](/post/the/) [most](/post/most/) [common](/post/common/) [verb](/post/verb/) forms [for](/post/for/) [greeting](/post/greeting/) are "[to](/post/to/) [greet](/post/greet/)" [or](/post/or/) "[to](/post/to/) [say](/post/say/) [hello](/post/hello/)."

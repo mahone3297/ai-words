@@ -7,30 +7,30 @@ description = '[ˈvɔlibɔːl] n.排球，排球运动'
 keywords = ['ai words', 'volleyball']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vɒˈbaʊlt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [sport](/en/post/sport/) played [with](/en/post/with/) [a](/en/post/a/) [ball](/en/post/ball/) [between](/en/post/between/) [two](/en/post/two/) teams [of](/en/post/of/) [six](/en/post/six/) players [each](/en/post/each/) [on](/en/post/on/) [a](/en/post/a/) raised [court](/en/post/court/), [usually](/en/post/usually/) divided [by](/en/post/by/) [a](/en/post/a/) [net](/en/post/net/). [TFD](https://www.thefreedictionary.com.[volleyball](/en/post/volleyball/))
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [play](/en/post/play/) [the](/en/post/the/) [game](/en/post/game/) [of](/en/post/of/) [volleyball](/en/post/volleyball/), [often](/en/post/often/) informally. [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[volleyball](/en/post/volleyball/))
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [action](/en/post/action/) [of](/en/post/of/) striking [the](/en/post/the/) [ball](/en/post/ball/) [in](/en/post/in/) [this](/en/post/this/) [sport](/en/post/sport/) using one's hands [or](/en/post/or/) arms. [Cambridge](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[volleyball](/en/post/volleyball/))
+- **[Noun](/post/noun/)**: [A](/post/a/) [sport](/post/sport/) played [with](/post/with/) [a](/post/a/) [ball](/post/ball/) [between](/post/between/) [two](/post/two/) teams [of](/post/of/) [six](/post/six/) players [each](/post/each/) [on](/post/on/) [a](/post/a/) raised [court](/post/court/), [usually](/post/usually/) divided [by](/post/by/) [a](/post/a/) [net](/post/net/). [TFD](https://www.thefreedictionary.com.[volleyball](/post/volleyball/))
+- **[Verb](/post/verb/)**: [To](/post/to/) [play](/post/play/) [the](/post/the/) [game](/post/game/) [of](/post/of/) [volleyball](/post/volleyball/), [often](/post/often/) informally. [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[volleyball](/post/volleyball/))
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) [action](/post/action/) [of](/post/of/) striking [the](/post/the/) [ball](/post/ball/) [in](/post/in/) [this](/post/this/) [sport](/post/sport/) using one's hands [or](/post/or/) arms. [Cambridge](https://[dictionary](/post/dictionary/).cambridge.org/[dictionary](/post/dictionary/)/english/[volleyball](/post/volleyball/))
 
 ## Phrases
-- "[Play](/en/post/play/) [volleyball](/en/post/volleyball/)" [or](/en/post/or/) "[join](/en/post/join/) [in](/en/post/in/) [a](/en/post/a/) [volleyball](/en/post/volleyball/) [game](/en/post/game/)"
-- "[Serve](/en/post/serve/) [a](/en/post/a/) [volleyball](/en/post/volleyball/)" [or](/en/post/or/) "[hit](/en/post/hit/) [the](/en/post/the/) [volleyball](/en/post/volleyball/) [over](/en/post/over/) [the](/en/post/the/) [net](/en/post/net/)"
-- "[Practice](/en/post/practice/) [volleyball](/en/post/volleyball/) drills" [or](/en/post/or/) "[improve](/en/post/improve/) [your](/en/post/your/) [volleyball](/en/post/volleyball/) skills"
+- "[Play](/post/play/) [volleyball](/post/volleyball/)" [or](/post/or/) "[join](/post/join/) [in](/post/in/) [a](/post/a/) [volleyball](/post/volleyball/) [game](/post/game/)"
+- "[Serve](/post/serve/) [a](/post/a/) [volleyball](/post/volleyball/)" [or](/post/or/) "[hit](/post/hit/) [the](/post/the/) [volleyball](/post/volleyball/) [over](/post/over/) [the](/post/the/) [net](/post/net/)"
+- "[Practice](/post/practice/) [volleyball](/post/volleyball/) drills" [or](/post/or/) "[improve](/post/improve/) [your](/post/your/) [volleyball](/post/volleyball/) skills"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [team](/en/post/team/) was thrilled [to](/en/post/to/) [win](/en/post/win/) [the](/en/post/the/) [volleyball](/en/post/volleyball/) championship."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) decided [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [friendly](/en/post/friendly/) [volleyball](/en/post/volleyball/) [match](/en/post/match/) [after](/en/post/after/) [work](/en/post/work/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was an ace [at](/en/post/at/) [setting](/en/post/setting/) [the](/en/post/the/) [volleyball](/en/post/volleyball/) [for](/en/post/for/) [her](/en/post/her/) teammates."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [team](/post/team/) was thrilled [to](/post/to/) [win](/post/win/) [the](/post/the/) [volleyball](/post/volleyball/) championship."
+- **[Verb](/post/verb/)**: "[We](/post/we/) decided [to](/post/to/) [have](/post/have/) [a](/post/a/) [friendly](/post/friendly/) [volleyball](/post/volleyball/) [match](/post/match/) [after](/post/after/) [work](/post/work/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) was an ace [at](/post/at/) [setting](/post/setting/) [the](/post/the/) [volleyball](/post/volleyball/) [for](/post/for/) [her](/post/her/) teammates."
 
 ## Synonyms
 - Volley (informal)
-- [Beach](/en/post/beach/) [volleyball](/en/post/volleyball/)
-- Indoor [volleyball](/en/post/volleyball/)
+- [Beach](/post/beach/) [volleyball](/post/volleyball/)
+- Indoor [volleyball](/post/volleyball/)
 - Spiking
 - Bumping
 - Passing
 
-## [Note](/en/post/note/): "[Hello](/en/post/hello/)" is [not](/en/post/not/) [applicable](/en/post/applicable/) [here](/en/post/here/) [as](/en/post/as/) [it](/en/post/it/) is [a](/en/post/a/) [different](/en/post/different/) [word](/en/post/word/) [with](/en/post/with/) [a](/en/post/a/) [different](/en/post/different/) [meaning](/en/post/meaning/) [and](/en/post/and/) [usage](/en/post/usage/).
+## [Note](/post/note/): "[Hello](/post/hello/)" is [not](/post/not/) [applicable](/post/applicable/) [here](/post/here/) [as](/post/as/) [it](/post/it/) is [a](/post/a/) [different](/post/different/) [word](/post/word/) [with](/post/with/) [a](/post/a/) [different](/post/different/) [meaning](/post/meaning/) [and](/post/and/) [usage](/post/usage/).

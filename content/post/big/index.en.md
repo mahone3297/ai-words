@@ -7,32 +7,32 @@ description = '[big] a.大的，巨大的'
 keywords = ['ai words', 'big']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[big](/en/post/big/)/
+## [Pronunciation](/post/pronunciation/)
+/[big](/post/big/)/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Of](/en/post/of/) [considerable](/en/post/considerable/) [size](/en/post/size/), dimensions, [or](/en/post/or/) magnitude; [large](/en/post/large/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [elephant](/en/post/elephant/) was [a](/en/post/a/) [big](/en/post/big/) [animal](/en/post/animal/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [significant](/en/post/significant/) [or](/en/post/or/) [noticeable](/en/post/noticeable/) [manner](/en/post/manner/); [greatly](/en/post/greatly/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sang [big](/en/post/big/), filling [the](/en/post/the/) [room](/en/post/room/) [with](/en/post/with/) [her](/en/post/her/) [voice](/en/post/voice/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [quality](/en/post/quality/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [that](/en/post/that/) is [prominent](/en/post/prominent/) [or](/en/post/or/) [outstanding](/en/post/outstanding/). [For](/en/post/for/) [example](/en/post/example/): "[Kindness](/en/post/kindness/) is [one](/en/post/one/) [of](/en/post/of/) [her](/en/post/her/) [big](/en/post/big/) strengths."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [become](/en/post/become/) [or](/en/post/or/) [grow](/en/post/grow/) larger; [expand](/en/post/expand/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) has been growing [big](/en/post/big/) [this](/en/post/this/) [year](/en/post/year/)."
+- **[Adjective](/post/adjective/)**: [Of](/post/of/) [considerable](/post/considerable/) [size](/post/size/), dimensions, [or](/post/or/) magnitude; [large](/post/large/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [elephant](/post/elephant/) was [a](/post/a/) [big](/post/big/) [animal](/post/animal/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [significant](/post/significant/) [or](/post/or/) [noticeable](/post/noticeable/) [manner](/post/manner/); [greatly](/post/greatly/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) sang [big](/post/big/), filling [the](/post/the/) [room](/post/room/) [with](/post/with/) [her](/post/her/) [voice](/post/voice/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [quality](/post/quality/) [or](/post/or/) [characteristic](/post/characteristic/) [that](/post/that/) is [prominent](/post/prominent/) [or](/post/or/) [outstanding](/post/outstanding/). [For](/post/for/) [example](/post/example/): "[Kindness](/post/kindness/) is [one](/post/one/) [of](/post/of/) [her](/post/her/) [big](/post/big/) strengths."
+- **[Verb](/post/verb/)**: [To](/post/to/) [become](/post/become/) [or](/post/or/) [grow](/post/grow/) larger; [expand](/post/expand/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) has been growing [big](/post/big/) [this](/post/this/) [year](/post/year/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [big](/en/post/big/) [on](/en/post/on/) [something](/en/post/something/)" implies having [a](/en/post/a/) [strong](/en/post/strong/) [interest](/en/post/interest/) [or](/en/post/or/) expertise [in](/en/post/in/) [a](/en/post/a/) [subject](/en/post/subject/).
-- "[Think](/en/post/think/) [big](/en/post/big/)" encourages [bold](/en/post/bold/) [and](/en/post/and/) ambitious thinking.
-- "[Make](/en/post/make/) [a](/en/post/a/) [big](/en/post/big/) [deal](/en/post/deal/) [out](/en/post/out/) [of](/en/post/of/) [something](/en/post/something/)"过分重视或夸大某事。
+- "[Be](/post/be/) [big](/post/big/) [on](/post/on/) [something](/post/something/)" implies having [a](/post/a/) [strong](/post/strong/) [interest](/post/interest/) [or](/post/or/) expertise [in](/post/in/) [a](/post/a/) [subject](/post/subject/).
+- "[Think](/post/think/) [big](/post/big/)" encourages [bold](/post/bold/) [and](/post/and/) ambitious thinking.
+- "[Make](/post/make/) [a](/post/a/) [big](/post/big/) [deal](/post/deal/) [out](/post/out/) [of](/post/of/) [something](/post/something/)"过分重视或夸大某事。
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) had [a](/en/post/a/) [big](/en/post/big/) backyard [where](/en/post/where/) [we](/en/post/we/) played [as](/en/post/as/) children."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) sang [big](/en/post/big/), [drawing](/en/post/drawing/) [the](/en/post/the/) audience's [attention](/en/post/attention/)."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [big](/en/post/big/) [idea](/en/post/idea/) was [to](/en/post/to/) [start](/en/post/start/) an online [business](/en/post/business/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [project](/en/post/project/) grew [big](/en/post/big/) [after](/en/post/after/) receiving [additional](/en/post/additional/) funding."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) had [a](/post/a/) [big](/post/big/) backyard [where](/post/where/) [we](/post/we/) played [as](/post/as/) children."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) sang [big](/post/big/), [drawing](/post/drawing/) [the](/post/the/) audience's [attention](/post/attention/)."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [big](/post/big/) [idea](/post/idea/) was [to](/post/to/) [start](/post/start/) an online [business](/post/business/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [project](/post/project/) grew [big](/post/big/) [after](/post/after/) receiving [additional](/post/additional/) funding."
 
 ## Synonyms
-- [Large](/en/post/large/)
-- [Huge](/en/post/huge/)
-- [Enormous](/en/post/enormous/)
+- [Large](/post/large/)
+- [Huge](/post/huge/)
+- [Enormous](/post/enormous/)
 - Massive
 - Gigantic
-- [Immense](/en/post/immense/)
+- [Immense](/post/immense/)
 - Jumbo
 - Mammoth

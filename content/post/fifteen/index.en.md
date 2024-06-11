@@ -7,28 +7,28 @@ description = '[ˈfifˈtiːn] num.十五；十五个'
 keywords = ['ai words', 'fifteen']
 +++
 
-## [Word](/en/post/word/): [Fifteen](/en/post/fifteen/)
+## [Word](/post/word/): [Fifteen](/post/fifteen/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌfɪfˈtiːn/
 
 ## Definitions
-**Numeral**: [The](/en/post/the/) cardinal [number](/en/post/number/) occurring [after](/en/post/after/) [fourteen](/en/post/fourteen/) [and](/en/post/and/) [before](/en/post/before/) [sixteen](/en/post/sixteen/), represented [in](/en/post/in/) numerals [as](/en/post/as/) 15. [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [quantity](/en/post/quantity/), [position](/en/post/position/) [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/), [or](/en/post/or/) [a](/en/post/a/) [specific](/en/post/specific/) [time](/en/post/time/) (e.g., [quarter](/en/post/quarter/) [past](/en/post/past/) [three](/en/post/three/)).
+**Numeral**: [The](/post/the/) cardinal [number](/post/number/) occurring [after](/post/after/) [fourteen](/post/fourteen/) [and](/post/and/) [before](/post/before/) [sixteen](/post/sixteen/), represented [in](/post/in/) numerals [as](/post/as/) 15. [It](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [quantity](/post/quantity/), [position](/post/position/) [in](/post/in/) [a](/post/a/) [series](/post/series/), [or](/post/or/) [a](/post/a/) [specific](/post/specific/) [time](/post/time/) (e.g., [quarter](/post/quarter/) [past](/post/past/) [three](/post/three/)).
 
 ### Phrases
-- "[Fifteen](/en/post/fifteen/) minutes": [A](/en/post/a/) [quarter](/en/post/quarter/) [of](/en/post/of/) an [hour](/en/post/hour/).
-- "[Fifteen](/en/post/fifteen/) years [old](/en/post/old/)": Refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) has reached [that](/en/post/that/) [age](/en/post/age/).
-- "[Fifteen](/en/post/fifteen/) items [or](/en/post/or/) [less](/en/post/less/)": [A](/en/post/a/) [common](/en/post/common/) [phrase](/en/post/phrase/) [used](/en/post/used/) [in](/en/post/in/) supermarkets [for](/en/post/for/) [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) items allowed [in](/en/post/in/) [a](/en/post/a/) checkout [line](/en/post/line/).
-- "[A](/en/post/a/) baker's [dozen](/en/post/dozen/)": [A](/en/post/a/) [phrase](/en/post/phrase/) [meaning](/en/post/meaning/) 13, [with](/en/post/with/) "[fifteen](/en/post/fifteen/)" [sometimes](/en/post/sometimes/) [being](/en/post/being/) [used](/en/post/used/) humorously [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) 14 [because](/en/post/because/) [it](/en/post/it/) adds an [extra](/en/post/extra/) [item](/en/post/item/) [to](/en/post/to/) [make](/en/post/make/) [up](/en/post/up/) [for](/en/post/for/) [any](/en/post/any/) [potential](/en/post/potential/) shortfall (i.e., "[a](/en/post/a/) baker's [fifteen](/en/post/fifteen/)").
+- "[Fifteen](/post/fifteen/) minutes": [A](/post/a/) [quarter](/post/quarter/) [of](/post/of/) an [hour](/post/hour/).
+- "[Fifteen](/post/fifteen/) years [old](/post/old/)": Refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) has reached [that](/post/that/) [age](/post/age/).
+- "[Fifteen](/post/fifteen/) items [or](/post/or/) [less](/post/less/)": [A](/post/a/) [common](/post/common/) [phrase](/post/phrase/) [used](/post/used/) [in](/post/in/) supermarkets [for](/post/for/) [the](/post/the/) [number](/post/number/) [of](/post/of/) items allowed [in](/post/in/) [a](/post/a/) checkout [line](/post/line/).
+- "[A](/post/a/) baker's [dozen](/post/dozen/)": [A](/post/a/) [phrase](/post/phrase/) [meaning](/post/meaning/) 13, [with](/post/with/) "[fifteen](/post/fifteen/)" [sometimes](/post/sometimes/) [being](/post/being/) [used](/post/used/) humorously [to](/post/to/) [refer](/post/refer/) [to](/post/to/) 14 [because](/post/because/) [it](/post/it/) adds an [extra](/post/extra/) [item](/post/item/) [to](/post/to/) [make](/post/make/) [up](/post/up/) [for](/post/for/) [any](/post/any/) [potential](/post/potential/) shortfall (i.e., "[a](/post/a/) baker's [fifteen](/post/fifteen/)").
 
-## [Example](/en/post/example/) Sentences
-- **Numeral**: "[There](/en/post/there/) were [fifteen](/en/post/fifteen/) [people](/en/post/people/) [at](/en/post/at/) [the](/en/post/the/) [dinner](/en/post/dinner/) [party](/en/post/party/) [last](/en/post/last/) [night](/en/post/night/)."
-- "[She](/en/post/she/) celebrated [her](/en/post/her/) fifteenth [birthday](/en/post/birthday/) [with](/en/post/with/) [a](/en/post/a/) [big](/en/post/big/) [party](/en/post/party/)."
-- "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [wait](/en/post/wait/) [for](/en/post/for/) [another](/en/post/another/) [fifteen](/en/post/fifteen/) minutes [before](/en/post/before/) [the](/en/post/the/) [train](/en/post/train/) arrives."
+## [Example](/post/example/) Sentences
+- **Numeral**: "[There](/post/there/) were [fifteen](/post/fifteen/) [people](/post/people/) [at](/post/at/) [the](/post/the/) [dinner](/post/dinner/) [party](/post/party/) [last](/post/last/) [night](/post/night/)."
+- "[She](/post/she/) celebrated [her](/post/her/) fifteenth [birthday](/post/birthday/) [with](/post/with/) [a](/post/a/) [big](/post/big/) [party](/post/party/)."
+- "[We](/post/we/) [need](/post/need/) [to](/post/to/) [wait](/post/wait/) [for](/post/for/) [another](/post/another/) [fifteen](/post/fifteen/) minutes [before](/post/before/) [the](/post/the/) [train](/post/train/) arrives."
 
 ## Synonyms
 - 15
-- XV ([in](/en/post/in/) Roman numerals)
-- [A](/en/post/a/) quince (informal)
+- XV ([in](/post/in/) Roman numerals)
+- [A](/post/a/) quince (informal)
 
-[Note](/en/post/note/): [As](/en/post/as/) "[fifteen](/en/post/fifteen/)" is [a](/en/post/a/) numeral, [it](/en/post/it/) doesn't [have](/en/post/have/) [direct](/en/post/direct/) synonyms [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [sense](/en/post/sense/) [that](/en/post/that/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) [do](/en/post/do/). [However](/en/post/however/), [when](/en/post/when/) referring [to](/en/post/to/) [the](/en/post/the/) [same](/en/post/same/) [quantity](/en/post/quantity/), [one](/en/post/one/) [could](/en/post/could/) [use](/en/post/use/) [alternative](/en/post/alternative/) ways [to](/en/post/to/) [express](/en/post/express/) [the](/en/post/the/) [number](/en/post/number/) [fifteen](/en/post/fifteen/) ([as](/en/post/as/) shown [above](/en/post/above/)).
+[Note](/post/note/): [As](/post/as/) "[fifteen](/post/fifteen/)" is [a](/post/a/) numeral, [it](/post/it/) doesn't [have](/post/have/) [direct](/post/direct/) synonyms [in](/post/in/) [the](/post/the/) [same](/post/same/) [sense](/post/sense/) [that](/post/that/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) [do](/post/do/). [However](/post/however/), [when](/post/when/) referring [to](/post/to/) [the](/post/the/) [same](/post/same/) [quantity](/post/quantity/), [one](/post/one/) [could](/post/could/) [use](/post/use/) [alternative](/post/alternative/) ways [to](/post/to/) [express](/post/express/) [the](/post/the/) [number](/post/number/) [fifteen](/post/fifteen/) ([as](/post/as/) shown [above](/post/above/)).

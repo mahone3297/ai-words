@@ -7,40 +7,40 @@ description = '[ˈbildiŋ] n.建筑物，大楼；建筑'
 keywords = ['ai words', 'building']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbɪldɪŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [structure](/en/post/structure/) [with](/en/post/with/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) floors [and](/en/post/and/) walls, typically consisting [of](/en/post/of/) [a](/en/post/a/) [permanent](/en/post/permanent/) [framework](/en/post/framework/), [used](/en/post/used/) [for](/en/post/for/) housing, [commercial](/en/post/commercial/) purposes, [or](/en/post/or/) [public](/en/post/public/) facilities. [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [office](/en/post/office/) [building](/en/post/building/) [will](/en/post/will/) [be](/en/post/be/) completed [next](/en/post/next/) [year](/en/post/year/)."
-2. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) constructing [or](/en/post/or/) assembling [a](/en/post/a/) [building](/en/post/building/). [Example](/en/post/example/): "They're working [on](/en/post/on/) [the](/en/post/the/) [building](/en/post/building/) [of](/en/post/of/) [the](/en/post/the/) [bridge](/en/post/bridge/)."
-3. [A](/en/post/a/) [collective](/en/post/collective/) [term](/en/post/term/) [for](/en/post/for/) [the](/en/post/the/) [people](/en/post/people/) [who](/en/post/who/) [work](/en/post/work/) [or](/en/post/or/) [study](/en/post/study/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [institution](/en/post/institution/), [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) [school](/en/post/school/) [or](/en/post/or/) [company](/en/post/company/). [Example](/en/post/example/): "[The](/en/post/the/) [entire](/en/post/entire/) [building](/en/post/building/) was buzzing [with](/en/post/with/) students [during](/en/post/during/) [exam](/en/post/exam/) [week](/en/post/week/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [structure](/post/structure/) [with](/post/with/) [one](/post/one/) [or](/post/or/) [more](/post/more/) floors [and](/post/and/) walls, typically consisting [of](/post/of/) [a](/post/a/) [permanent](/post/permanent/) [framework](/post/framework/), [used](/post/used/) [for](/post/for/) housing, [commercial](/post/commercial/) purposes, [or](/post/or/) [public](/post/public/) facilities. [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [office](/post/office/) [building](/post/building/) [will](/post/will/) [be](/post/be/) completed [next](/post/next/) [year](/post/year/)."
+2. [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) constructing [or](/post/or/) assembling [a](/post/a/) [building](/post/building/). [Example](/post/example/): "They're working [on](/post/on/) [the](/post/the/) [building](/post/building/) [of](/post/of/) [the](/post/the/) [bridge](/post/bridge/)."
+3. [A](/post/a/) [collective](/post/collective/) [term](/post/term/) [for](/post/for/) [the](/post/the/) [people](/post/people/) [who](/post/who/) [work](/post/work/) [or](/post/or/) [study](/post/study/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [institution](/post/institution/), [often](/post/often/) referring [to](/post/to/) [a](/post/a/) [school](/post/school/) [or](/post/or/) [company](/post/company/). [Example](/post/example/): "[The](/post/the/) [entire](/post/entire/) [building](/post/building/) was buzzing [with](/post/with/) students [during](/post/during/) [exam](/post/exam/) [week](/post/week/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [construct](/en/post/construct/) [or](/en/post/or/) [erect](/en/post/erect/) [a](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) edifice. [Example](/en/post/example/): "[The](/en/post/the/) contractor is [building](/en/post/building/) [a](/en/post/a/) [new](/en/post/new/) [house](/en/post/house/) [for](/en/post/for/) [the](/en/post/the/) [family](/en/post/family/)."
+### [Verb](/post/verb/)
+[To](/post/to/) [construct](/post/construct/) [or](/post/or/) [erect](/post/erect/) [a](/post/a/) [building](/post/building/) [or](/post/or/) edifice. [Example](/post/example/): "[The](/post/the/) contractor is [building](/post/building/) [a](/post/a/) [new](/post/new/) [house](/post/house/) [for](/post/for/) [the](/post/the/) [family](/post/family/)."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [a](/en/post/a/) [building](/en/post/building/) [or](/en/post/or/) [construction](/en/post/construction/). [Example](/en/post/example/): "[The](/en/post/the/) historic building's [architecture](/en/post/architecture/) is [a](/en/post/a/) [blend](/en/post/blend/) [of](/en/post/of/) styles."
-2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [community](/en/post/community/) [or](/en/post/or/) neighborhood. [Example](/en/post/example/): "[The](/en/post/the/) [building](/en/post/building/) blocks [of](/en/post/of/) [a](/en/post/a/) [strong](/en/post/strong/) [community](/en/post/community/) are [its](/en/post/its/) schools [and](/en/post/and/) [local](/en/post/local/) businesses."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [a](/post/a/) [building](/post/building/) [or](/post/or/) [construction](/post/construction/). [Example](/post/example/): "[The](/post/the/) historic building's [architecture](/post/architecture/) is [a](/post/a/) [blend](/post/blend/) [of](/post/of/) styles."
+2. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [community](/post/community/) [or](/post/or/) neighborhood. [Example](/post/example/): "[The](/post/the/) [building](/post/building/) blocks [of](/post/of/) [a](/post/a/) [strong](/post/strong/) [community](/post/community/) are [its](/post/its/) schools [and](/post/and/) [local](/post/local/) businesses."
 
 ## Phrases
-- "[Build](/en/post/build/) [a](/en/post/a/) [new](/en/post/new/) [home](/en/post/home/)" [or](/en/post/or/) "[build](/en/post/build/) [a](/en/post/a/) [house](/en/post/house/)"
-- "[The](/en/post/the/) [building](/en/post/building/) [project](/en/post/project/) is [behind](/en/post/behind/) [schedule](/en/post/schedule/)."
-- "[A](/en/post/a/) [city](/en/post/city/) skyline is dominated [by](/en/post/by/) [tall](/en/post/tall/) buildings."
-- "[Building](/en/post/building/) [up](/en/post/up/) one's [confidence](/en/post/confidence/)"
+- "[Build](/post/build/) [a](/post/a/) [new](/post/new/) [home](/post/home/)" [or](/post/or/) "[build](/post/build/) [a](/post/a/) [house](/post/house/)"
+- "[The](/post/the/) [building](/post/building/) [project](/post/project/) is [behind](/post/behind/) [schedule](/post/schedule/)."
+- "[A](/post/a/) [city](/post/city/) skyline is dominated [by](/post/by/) [tall](/post/tall/) buildings."
+- "[Building](/post/building/) [up](/post/up/) one's [confidence](/post/confidence/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [church](/en/post/church/) [building](/en/post/building/) has been restored [to](/en/post/to/) [its](/en/post/its/) [former](/en/post/former/) [glory](/en/post/glory/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [construction](/en/post/construction/) workers were [busy](/en/post/busy/) [building](/en/post/building/) [the](/en/post/the/) [foundation](/en/post/foundation/) [for](/en/post/for/) [the](/en/post/the/) [apartment](/en/post/apartment/) [complex](/en/post/complex/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) city's tallest [building](/en/post/building/), [the](/en/post/the/) [Empire](/en/post/empire/) [State](/en/post/state/) [Building](/en/post/building/), stands proudly [in](/en/post/in/) [the](/en/post/the/) [heart](/en/post/heart/) [of](/en/post/of/) Manhattan."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [church](/post/church/) [building](/post/building/) has been restored [to](/post/to/) [its](/post/its/) [former](/post/former/) [glory](/post/glory/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [construction](/post/construction/) workers were [busy](/post/busy/) [building](/post/building/) [the](/post/the/) [foundation](/post/foundation/) [for](/post/for/) [the](/post/the/) [apartment](/post/apartment/) [complex](/post/complex/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) city's tallest [building](/post/building/), [the](/post/the/) [Empire](/post/empire/) [State](/post/state/) [Building](/post/building/), stands proudly [in](/post/in/) [the](/post/the/) [heart](/post/heart/) [of](/post/of/) Manhattan."
 
 ## Synonyms
-- [Structure](/en/post/structure/)
+- [Structure](/post/structure/)
 - edifice
-- [Dwelling](/en/post/dwelling/)
-- [Residence](/en/post/residence/)
-- Architectural [masterpiece](/en/post/masterpiece/)
-- [Institution](/en/post/institution/)
-- [Establishment](/en/post/establishment/)
-- [Framework](/en/post/framework/)
-- [Development](/en/post/development/)
+- [Dwelling](/post/dwelling/)
+- [Residence](/post/residence/)
+- Architectural [masterpiece](/post/masterpiece/)
+- [Institution](/post/institution/)
+- [Establishment](/post/establishment/)
+- [Framework](/post/framework/)
+- [Development](/post/development/)

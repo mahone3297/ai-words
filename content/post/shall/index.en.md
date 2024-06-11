@@ -7,27 +7,27 @@ description = '[∫æl] aux.v.将要；必须；应'
 keywords = ['ai words', 'shall']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /shæl/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (1) [A](/en/post/a/) modal [auxiliary](/en/post/auxiliary/) [verb](/en/post/verb/) indicating [future](/en/post/future/) [action](/en/post/action/) [or](/en/post/or/) obligation, typically [used](/en/post/used/) [with](/en/post/with/) [the](/en/post/the/) first-person [singular](/en/post/singular/) [and](/en/post/and/) [plural](/en/post/plural/) forms [of](/en/post/of/) [the](/en/post/the/) [base](/en/post/base/) [form](/en/post/form/) [of](/en/post/of/) [a](/en/post/a/) [verb](/en/post/verb/). [For](/en/post/for/) [example](/en/post/example/): "I [shall](/en/post/shall/) [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [store](/en/post/store/) [tomorrow](/en/post/tomorrow/)." (2) Expressing [a](/en/post/a/) [strong](/en/post/strong/) [intention](/en/post/intention/) [or](/en/post/or/) commitment. [For](/en/post/for/) [example](/en/post/example/): "[You](/en/post/you/) [shall](/en/post/shall/) [finish](/en/post/finish/) [your](/en/post/your/) homework [before](/en/post/before/) [dinner](/en/post/dinner/)."
+- **[Verb](/post/verb/)**: (1) [A](/post/a/) modal [auxiliary](/post/auxiliary/) [verb](/post/verb/) indicating [future](/post/future/) [action](/post/action/) [or](/post/or/) obligation, typically [used](/post/used/) [with](/post/with/) [the](/post/the/) first-person [singular](/post/singular/) [and](/post/and/) [plural](/post/plural/) forms [of](/post/of/) [the](/post/the/) [base](/post/base/) [form](/post/form/) [of](/post/of/) [a](/post/a/) [verb](/post/verb/). [For](/post/for/) [example](/post/example/): "I [shall](/post/shall/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [store](/post/store/) [tomorrow](/post/tomorrow/)." (2) Expressing [a](/post/a/) [strong](/post/strong/) [intention](/post/intention/) [or](/post/or/) commitment. [For](/post/for/) [example](/post/example/): "[You](/post/you/) [shall](/post/shall/) [finish](/post/finish/) [your](/post/your/) homework [before](/post/before/) [dinner](/post/dinner/)."
 
 ## Phrases
-- "[Shall](/en/post/shall/) [we](/en/post/we/)..." is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [propose](/en/post/propose/) an [action](/en/post/action/) [or](/en/post/or/) [suggest](/en/post/suggest/) [a](/en/post/a/) [plan](/en/post/plan/).
-- "[One](/en/post/one/) [shall](/en/post/shall/) [not](/en/post/not/) [pass](/en/post/pass/)" is [a](/en/post/a/) [quote](/en/post/quote/) [from](/en/post/from/) J.R.R. Tolkien's "[The](/en/post/the/) [Lord](/en/post/lord/) [of](/en/post/of/) [the](/en/post/the/) Rings," referring [to](/en/post/to/) [the](/en/post/the/) [barrier](/en/post/barrier/) [between](/en/post/between/) [life](/en/post/life/) [and](/en/post/and/) [death](/en/post/death/).
+- "[Shall](/post/shall/) [we](/post/we/)..." is [often](/post/often/) [used](/post/used/) [to](/post/to/) [propose](/post/propose/) an [action](/post/action/) [or](/post/or/) [suggest](/post/suggest/) [a](/post/a/) [plan](/post/plan/).
+- "[One](/post/one/) [shall](/post/shall/) [not](/post/not/) [pass](/post/pass/)" is [a](/post/a/) [quote](/post/quote/) [from](/post/from/) J.R.R. Tolkien's "[The](/post/the/) [Lord](/post/lord/) [of](/post/of/) [the](/post/the/) Rings," referring [to](/post/to/) [the](/post/the/) [barrier](/post/barrier/) [between](/post/between/) [life](/post/life/) [and](/post/and/) [death](/post/death/).
 
-## [Example](/en/post/example/) Sentences
-- **[Future](/en/post/future/) [tense](/en/post/tense/)**: "[Shall](/en/post/shall/) I [bring](/en/post/bring/) [you](/en/post/you/) [some](/en/post/some/) [coffee](/en/post/coffee/) [while](/en/post/while/) I'm [up](/en/post/up/)?"
-- **Obligation**: "[You](/en/post/you/) [shall](/en/post/shall/) [return](/en/post/return/) [the](/en/post/the/) [book](/en/post/book/) [by](/en/post/by/) Friday, [as](/en/post/as/) agreed."
-- **[Strong](/en/post/strong/) [intention](/en/post/intention/)**: "[If](/en/post/if/) [you](/en/post/you/) don't [study](/en/post/study/), [you](/en/post/you/) [shall](/en/post/shall/) [fail](/en/post/fail/) [the](/en/post/the/) [exam](/en/post/exam/)."
+## [Example](/post/example/) Sentences
+- **[Future](/post/future/) [tense](/post/tense/)**: "[Shall](/post/shall/) I [bring](/post/bring/) [you](/post/you/) [some](/post/some/) [coffee](/post/coffee/) [while](/post/while/) I'm [up](/post/up/)?"
+- **Obligation**: "[You](/post/you/) [shall](/post/shall/) [return](/post/return/) [the](/post/the/) [book](/post/book/) [by](/post/by/) Friday, [as](/post/as/) agreed."
+- **[Strong](/post/strong/) [intention](/post/intention/)**: "[If](/post/if/) [you](/post/you/) don't [study](/post/study/), [you](/post/you/) [shall](/post/shall/) [fail](/post/fail/) [the](/post/the/) [exam](/post/exam/)."
 
 ## Synonyms
-- [Will](/en/post/will/)
-- [Intend](/en/post/intend/)
-- [Mean](/en/post/mean/) [to](/en/post/to/)
-- [Purpose](/en/post/purpose/) [to](/en/post/to/)
-- [Be](/en/post/be/) going [to](/en/post/to/)
+- [Will](/post/will/)
+- [Intend](/post/intend/)
+- [Mean](/post/mean/) [to](/post/to/)
+- [Purpose](/post/purpose/) [to](/post/to/)
+- [Be](/post/be/) going [to](/post/to/)
 
 ## Notes
-- [In](/en/post/in/) British English, "[shall](/en/post/shall/)" is [more](/en/post/more/) [commonly](/en/post/commonly/) [used](/en/post/used/) [for](/en/post/for/) [both](/en/post/both/) [future](/en/post/future/) actions [and](/en/post/and/) [for](/en/post/for/) making suggestions, [while](/en/post/while/) "[will](/en/post/will/)" is [more](/en/post/more/) prevalent [in](/en/post/in/) [American](/en/post/american/) English [for](/en/post/for/) [these](/en/post/these/) purposes. [However](/en/post/however/), "[will](/en/post/will/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) British English [for](/en/post/for/) [the](/en/post/the/) [future](/en/post/future/) [tense](/en/post/tense/), [particularly](/en/post/particularly/) [with](/en/post/with/) [the](/en/post/the/) [second](/en/post/second/) [person](/en/post/person/) ("[you](/en/post/you/) [will](/en/post/will/)").
+- [In](/post/in/) British English, "[shall](/post/shall/)" is [more](/post/more/) [commonly](/post/commonly/) [used](/post/used/) [for](/post/for/) [both](/post/both/) [future](/post/future/) actions [and](/post/and/) [for](/post/for/) making suggestions, [while](/post/while/) "[will](/post/will/)" is [more](/post/more/) prevalent [in](/post/in/) [American](/post/american/) English [for](/post/for/) [these](/post/these/) purposes. [However](/post/however/), "[will](/post/will/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [in](/post/in/) British English [for](/post/for/) [the](/post/the/) [future](/post/future/) [tense](/post/tense/), [particularly](/post/particularly/) [with](/post/with/) [the](/post/the/) [second](/post/second/) [person](/post/person/) ("[you](/post/you/) [will](/post/will/)").

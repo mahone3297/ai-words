@@ -11,16 +11,16 @@ keywords = ['ai words', 'praise']
 /prais/
 
 ## 释义
-- **动词**: 赞扬，表扬。例如: "[The](/post/the/) [teacher](/post/teacher/) praised [the](/post/the/) [student](/post/student/) [for](/post/for/) [his](/post/his/) [hard](/post/hard/) [work](/post/work/)."
-- **名词**: 赞扬，称赞。例如: "[He](/post/he/) received [high](/post/high/) [praise](/post/praise/) [from](/post/from/) [his](/post/his/) colleagues."
+- **动词**: 赞扬，表扬。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) praised [the](/zh/post/the/) [student](/zh/post/student/) [for](/zh/post/for/) [his](/zh/post/his/) [hard](/zh/post/hard/) [work](/zh/post/work/)."
+- **名词**: 赞扬，称赞。例如: "[He](/zh/post/he/) received [high](/zh/post/high/) [praise](/zh/post/praise/) [from](/zh/post/from/) [his](/zh/post/his/) colleagues."
 
 ## 短语
-- "[to](/post/to/) [heap](/post/heap/) [praise](/post/praise/) [upon](/post/upon/) [someone](/post/someone/)" 表示大量赞扬某人。
-- "[praise](/post/praise/) [be](/post/be/) [to](/post/to/)..." 用于表达感激或敬意，例如 "[Praise](/post/praise/) [be](/post/be/) [to](/post/to/) God."
+- "[to](/zh/post/to/) [heap](/zh/post/heap/) [praise](/zh/post/praise/) [upon](/zh/post/upon/) [someone](/zh/post/someone/)" 表示大量赞扬某人。
+- "[praise](/zh/post/praise/) [be](/zh/post/be/) [to](/zh/post/to/)..." 用于表达感激或敬意，例如 "[Praise](/zh/post/praise/) [be](/zh/post/be/) [to](/zh/post/to/) God."
 
 ## 例句
-- 动词: "[Her](/post/her/) parents [often](/post/often/) praised [her](/post/her/) [for](/post/for/) [her](/post/her/) [excellent](/post/excellent/) grades."
-- 名词: "[The](/post/the/) [actor](/post/actor/) received lavish [praise](/post/praise/) [for](/post/for/) [his](/post/his/) [performance](/post/performance/)."
+- 动词: "[Her](/zh/post/her/) parents [often](/zh/post/often/) praised [her](/zh/post/her/) [for](/zh/post/for/) [her](/zh/post/her/) [excellent](/zh/post/excellent/) grades."
+- 名词: "[The](/zh/post/the/) [actor](/zh/post/actor/) received lavish [praise](/zh/post/praise/) [for](/zh/post/for/) [his](/zh/post/his/) [performance](/zh/post/performance/)."
 
 ## 同义词
 - commend

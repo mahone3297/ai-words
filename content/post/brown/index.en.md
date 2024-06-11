@@ -7,34 +7,34 @@ description = '[braun] n.褐色，棕色'
 keywords = ['ai words', 'brown']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /braʊn/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Having [a](/en/post/a/) [color](/en/post/color/) [similar](/en/post/similar/) [to](/en/post/to/) [that](/en/post/that/) [of](/en/post/of/) dried leaves, ranging [from](/en/post/from/) yellowish-green [to](/en/post/to/) [dark](/en/post/dark/) red-brown. [Example](/en/post/example/): "[The](/en/post/the/) [tree](/en/post/tree/) had [a](/en/post/a/) [rich](/en/post/rich/) [brown](/en/post/brown/) [bark](/en/post/bark/)."
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [shade](/en/post/shade/) [or](/en/post/or/) [variety](/en/post/variety/) [of](/en/post/of/) [brown](/en/post/brown/). [Example](/en/post/example/): "[A](/en/post/a/) palette [of](/en/post/of/) [different](/en/post/different/) browns was [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) [painting](/en/post/painting/)."
-- **[Pronoun](/en/post/pronoun/)**: (informal) Referring [to](/en/post/to/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [of](/en/post/of/) [a](/en/post/a/) [brown](/en/post/brown/) [color](/en/post/color/). [Example](/en/post/example/): "I [love](/en/post/love/) [my](/en/post/my/) [brown](/en/post/brown/) [sweater](/en/post/sweater/)."
+- **[Adjective](/post/adjective/)**: 1. Having [a](/post/a/) [color](/post/color/) [similar](/post/similar/) [to](/post/to/) [that](/post/that/) [of](/post/of/) dried leaves, ranging [from](/post/from/) yellowish-green [to](/post/to/) [dark](/post/dark/) red-brown. [Example](/post/example/): "[The](/post/the/) [tree](/post/tree/) had [a](/post/a/) [rich](/post/rich/) [brown](/post/brown/) [bark](/post/bark/)."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [shade](/post/shade/) [or](/post/or/) [variety](/post/variety/) [of](/post/of/) [brown](/post/brown/). [Example](/post/example/): "[A](/post/a/) palette [of](/post/of/) [different](/post/different/) browns was [used](/post/used/) [in](/post/in/) [the](/post/the/) [painting](/post/painting/)."
+- **[Pronoun](/post/pronoun/)**: (informal) Referring [to](/post/to/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [of](/post/of/) [a](/post/a/) [brown](/post/brown/) [color](/post/color/). [Example](/post/example/): "I [love](/post/love/) [my](/post/my/) [brown](/post/brown/) [sweater](/post/sweater/)."
 
 ## Phrases
-- "[Brown](/en/post/brown/) eyes" [or](/en/post/or/) "brown-haired" [describe](/en/post/describe/) [physical](/en/post/physical/) attributes.
-- "[Dark](/en/post/dark/) [brown](/en/post/brown/)" [or](/en/post/or/) "[light](/en/post/light/) [brown](/en/post/brown/)" [specify](/en/post/specify/) shades [of](/en/post/of/) [the](/en/post/the/) [color](/en/post/color/).
-- "[Brown](/en/post/brown/) [leather](/en/post/leather/)" refers [to](/en/post/to/) [leather](/en/post/leather/) [with](/en/post/with/) [a](/en/post/a/) [brown](/en/post/brown/) hue.
+- "[Brown](/post/brown/) eyes" [or](/post/or/) "brown-haired" [describe](/post/describe/) [physical](/post/physical/) attributes.
+- "[Dark](/post/dark/) [brown](/post/brown/)" [or](/post/or/) "[light](/post/light/) [brown](/post/brown/)" [specify](/post/specify/) shades [of](/post/of/) [the](/post/the/) [color](/post/color/).
+- "[Brown](/post/brown/) [leather](/post/leather/)" refers [to](/post/to/) [leather](/post/leather/) [with](/post/with/) [a](/post/a/) [brown](/post/brown/) hue.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [chocolate](/en/post/chocolate/) [cake](/en/post/cake/) had [a](/en/post/a/) [deep](/en/post/deep/) [brown](/en/post/brown/) glaze [on](/en/post/on/) [top](/en/post/top/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) chose [a](/en/post/a/) [brown](/en/post/brown/) sofa [for](/en/post/for/) [her](/en/post/her/) [living](/en/post/living/) [room](/en/post/room/)."
-- **[Pronoun](/en/post/pronoun/)**: "[My](/en/post/my/) [brown](/en/post/brown/) [dog](/en/post/dog/) loves chasing squirrels."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [chocolate](/post/chocolate/) [cake](/post/cake/) had [a](/post/a/) [deep](/post/deep/) [brown](/post/brown/) glaze [on](/post/on/) [top](/post/top/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) chose [a](/post/a/) [brown](/post/brown/) sofa [for](/post/for/) [her](/post/her/) [living](/post/living/) [room](/post/room/)."
+- **[Pronoun](/post/pronoun/)**: "[My](/post/my/) [brown](/post/brown/) [dog](/post/dog/) loves chasing squirrels."
 
 ## Synonyms
-- [Tan](/en/post/tan/)
+- [Tan](/post/tan/)
 - Chestnut
 - Ochre
 - Russet
 - Sienna
 
 ## Antonyms
-- [White](/en/post/white/)
-- [Black](/en/post/black/)
-- [Red](/en/post/red/)
-- [Yellow](/en/post/yellow/)
-- [Green](/en/post/green/) ([in](/en/post/in/) terms [of](/en/post/of/) [color](/en/post/color/))
+- [White](/post/white/)
+- [Black](/post/black/)
+- [Red](/post/red/)
+- [Yellow](/post/yellow/)
+- [Green](/post/green/) ([in](/post/in/) terms [of](/post/of/) [color](/post/color/))

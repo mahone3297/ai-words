@@ -7,32 +7,32 @@ description = '[rʌf] a.表面不平的；粗略的'
 keywords = ['ai words', 'rough']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rʌf/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) [harsh](/en/post/harsh/) [or](/en/post/or/) uneven [surface](/en/post/surface/); [not](/en/post/not/) [smooth](/en/post/smooth/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wooden](/en/post/wooden/) [table](/en/post/table/) has [a](/en/post/a/) [rough](/en/post/rough/) texture."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [rough](/en/post/rough/) [manner](/en/post/manner/); [roughly](/en/post/roughly/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) drove [the](/en/post/the/) [car](/en/post/car/) [roughly](/en/post/roughly/) [down](/en/post/down/) [the](/en/post/the/) [road](/en/post/road/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [treat](/en/post/treat/) [roughly](/en/post/roughly/) [or](/en/post/or/) [roughly](/en/post/roughly/) [handle](/en/post/handle/). [For](/en/post/for/) [example](/en/post/example/): "Don't [rough](/en/post/rough/) [up](/en/post/up/) [the](/en/post/the/) children."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [tough](/en/post/tough/) [or](/en/post/or/) [aggressive](/en/post/aggressive/). [For](/en/post/for/) [example](/en/post/example/): "He's [a](/en/post/a/) [rough](/en/post/rough/) [character](/en/post/character/)."
-- **[Adjective](/en/post/adjective/)**: (informal) Unprepared [or](/en/post/or/) unorganized. [For](/en/post/for/) [example](/en/post/example/): "She's [a](/en/post/a/) [bit](/en/post/bit/) [rough](/en/post/rough/) [around](/en/post/around/) [the](/en/post/the/) edges, [but](/en/post/but/) [she](/en/post/she/) [means](/en/post/means/) [well](/en/post/well/)."
+- **[Adjective](/post/adjective/)**: Having [a](/post/a/) [harsh](/post/harsh/) [or](/post/or/) uneven [surface](/post/surface/); [not](/post/not/) [smooth](/post/smooth/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wooden](/post/wooden/) [table](/post/table/) has [a](/post/a/) [rough](/post/rough/) texture."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [rough](/post/rough/) [manner](/post/manner/); [roughly](/post/roughly/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) drove [the](/post/the/) [car](/post/car/) [roughly](/post/roughly/) [down](/post/down/) [the](/post/the/) [road](/post/road/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [treat](/post/treat/) [roughly](/post/roughly/) [or](/post/or/) [roughly](/post/roughly/) [handle](/post/handle/). [For](/post/for/) [example](/post/example/): "Don't [rough](/post/rough/) [up](/post/up/) [the](/post/the/) children."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [tough](/post/tough/) [or](/post/or/) [aggressive](/post/aggressive/). [For](/post/for/) [example](/post/example/): "He's [a](/post/a/) [rough](/post/rough/) [character](/post/character/)."
+- **[Adjective](/post/adjective/)**: (informal) Unprepared [or](/post/or/) unorganized. [For](/post/for/) [example](/post/example/): "She's [a](/post/a/) [bit](/post/bit/) [rough](/post/rough/) [around](/post/around/) [the](/post/the/) edges, [but](/post/but/) [she](/post/she/) [means](/post/means/) [well](/post/well/)."
 
 ## Phrases
-- "[Rough](/en/post/rough/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) physically [harm](/en/post/harm/) [or](/en/post/or/) intimidate.
-- "[A](/en/post/a/) [rough](/en/post/rough/) [night](/en/post/night/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) challenging or动荡 [evening](/en/post/evening/).
-- "[Rough](/en/post/rough/) [estimate](/en/post/estimate/)" signifies an [approximate](/en/post/approximate/) [calculation](/en/post/calculation/) [or](/en/post/or/) [guess](/en/post/guess/).
+- "[Rough](/post/rough/) [up](/post/up/)" [means](/post/means/) [to](/post/to/) physically [harm](/post/harm/) [or](/post/or/) intimidate.
+- "[A](/post/a/) [rough](/post/rough/) [night](/post/night/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) challenging or动荡 [evening](/post/evening/).
+- "[Rough](/post/rough/) [estimate](/post/estimate/)" signifies an [approximate](/post/approximate/) [calculation](/post/calculation/) [or](/post/or/) [guess](/post/guess/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [stone](/en/post/stone/) [wall](/en/post/wall/) was covered [in](/en/post/in/) [a](/en/post/a/) [thick](/en/post/thick/) [layer](/en/post/layer/) [of](/en/post/of/) moss, making [it](/en/post/it/) [feel](/en/post/feel/) [rough](/en/post/rough/) [to](/en/post/to/) [the](/en/post/the/) [touch](/en/post/touch/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [rough](/en/post/rough/) [outline](/en/post/outline/) [of](/en/post/of/) [the](/en/post/the/) [project](/en/post/project/) [before](/en/post/before/) diving [into](/en/post/into/) details."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [construction](/en/post/construction/) workers were instructed [not](/en/post/not/) [to](/en/post/to/) [rough](/en/post/rough/) [the](/en/post/the/) [new](/en/post/new/) employees."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [rough](/en/post/rough/) [gang](/en/post/gang/) controlled [the](/en/post/the/) neighborhood."
-- **[Adjective](/en/post/adjective/) (informal)**: "She's had [a](/en/post/a/) [rough](/en/post/rough/) [week](/en/post/week/), [so](/en/post/so/) she's [not](/en/post/not/) [in](/en/post/in/) [the](/en/post/the/) [best](/en/post/best/) [mood](/en/post/mood/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) [stone](/post/stone/) [wall](/post/wall/) was covered [in](/post/in/) [a](/post/a/) [thick](/post/thick/) [layer](/post/layer/) [of](/post/of/) moss, making [it](/post/it/) [feel](/post/feel/) [rough](/post/rough/) [to](/post/to/) [the](/post/the/) [touch](/post/touch/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) tried [to](/post/to/) [give](/post/give/) [a](/post/a/) [rough](/post/rough/) [outline](/post/outline/) [of](/post/of/) [the](/post/the/) [project](/post/project/) [before](/post/before/) diving [into](/post/into/) details."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [construction](/post/construction/) workers were instructed [not](/post/not/) [to](/post/to/) [rough](/post/rough/) [the](/post/the/) [new](/post/new/) employees."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [rough](/post/rough/) [gang](/post/gang/) controlled [the](/post/the/) neighborhood."
+- **[Adjective](/post/adjective/) (informal)**: "She's had [a](/post/a/) [rough](/post/rough/) [week](/post/week/), [so](/post/so/) she's [not](/post/not/) [in](/post/in/) [the](/post/the/) [best](/post/best/) [mood](/post/mood/)."
 
 ## Synonyms
-- [Coarse](/en/post/coarse/)
+- [Coarse](/post/coarse/)
 - Jagged
 - Roughened
-- [Aggressive](/en/post/aggressive/)
+- [Aggressive](/post/aggressive/)
 - Unrefined
 - Unpolished

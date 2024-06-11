@@ -11,20 +11,20 @@ keywords = ['ai words', 'inquire']
 /inˈkwaɪr/
 
 ## 释义
-- **动词**: 查问；询问。例如: "I [need](/post/need/) [to](/post/to/) [inquire](/post/inquire/) [about](/post/about/) [the](/post/the/) hotel's cancellation [policy](/post/policy/)."
-- **名词**: 查询；询问。例如: "[They](/post/they/) received [several](/post/several/) inquiries [about](/post/about/) [the](/post/the/) [product](/post/product/)."
+- **动词**: 查问；询问。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [inquire](/zh/post/inquire/) [about](/zh/post/about/) [the](/zh/post/the/) hotel's cancellation [policy](/zh/post/policy/)."
+- **名词**: 查询；询问。例如: "[They](/zh/post/they/) received [several](/zh/post/several/) inquiries [about](/zh/post/about/) [the](/zh/post/the/) [product](/zh/post/product/)."
 
 ## 短语
-- "[Make](/post/make/) an [inquiry](/post/inquiry/)" 意为进行询问或调查。
-- "[Inquire](/post/inquire/) [within](/post/within/)" 常见于商店招牌，意思是店内有更多信息可询问。
+- "[Make](/zh/post/make/) an [inquiry](/zh/post/inquiry/)" 意为进行询问或调查。
+- "[Inquire](/zh/post/inquire/) [within](/zh/post/within/)" 常见于商店招牌，意思是店内有更多信息可询问。
 
 ## 例句
-- 动词: "[Please](/post/please/) [inquire](/post/inquire/) [at](/post/at/) [the](/post/the/) [front](/post/front/) [desk](/post/desk/) [for](/post/for/) directions [to](/post/to/) [your](/post/your/) [room](/post/room/)."
-- 名词: "[The](/post/the/) [customer](/post/customer/) [service](/post/service/) [department](/post/department/) handles [all](/post/all/) inquiries [during](/post/during/) [business](/post/business/) hours."
+- 动词: "[Please](/zh/post/please/) [inquire](/zh/post/inquire/) [at](/zh/post/at/) [the](/zh/post/the/) [front](/zh/post/front/) [desk](/zh/post/desk/) [for](/zh/post/for/) directions [to](/zh/post/to/) [your](/zh/post/your/) [room](/zh/post/room/)."
+- 名词: "[The](/zh/post/the/) [customer](/zh/post/customer/) [service](/zh/post/service/) [department](/zh/post/department/) handles [all](/zh/post/all/) inquiries [during](/zh/post/during/) [business](/zh/post/business/) hours."
 
 ## 同义词
-- [Ask](/post/ask/)
-- [Question](/post/question/)
+- [Ask](/zh/post/ask/)
+- [Question](/zh/post/question/)
 - Query
-- [Seek](/post/seek/) [information](/post/information/)
-- [Request](/post/request/) [information](/post/information/)
+- [Seek](/zh/post/seek/) [information](/zh/post/information/)
+- [Request](/zh/post/request/) [information](/zh/post/information/)

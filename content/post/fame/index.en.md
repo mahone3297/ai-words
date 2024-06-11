@@ -7,33 +7,33 @@ description = '[feim] n.名声，名望'
 keywords = ['ai words', 'fame']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /feɪm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) known [or](/en/post/or/) talked [about](/en/post/about/) [by](/en/post/by/) [many](/en/post/many/) [people](/en/post/people/), [often](/en/post/often/) [on](/en/post/on/) [account](/en/post/account/) [of](/en/post/of/) notable achievements. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [talent](/en/post/talent/) [and](/en/post/and/) [hard](/en/post/hard/) [work](/en/post/work/) brought [her](/en/post/her/) [fame](/en/post/fame/)."
-  - _Derived Forms_: [famous](/en/post/famous/) (adj.), famously (adv.)
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) known [or](/post/or/) talked [about](/post/about/) [by](/post/by/) [many](/post/many/) [people](/post/people/), [often](/post/often/) [on](/post/on/) [account](/post/account/) [of](/post/of/) notable achievements. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [talent](/post/talent/) [and](/post/and/) [hard](/post/hard/) [work](/post/work/) brought [her](/post/her/) [fame](/post/fame/)."
+  - _Derived Forms_: [famous](/post/famous/) (adj.), famously (adv.)
   
-  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) musician's [fame](/en/post/fame/) skyrocketed [after](/en/post/after/) [his](/en/post/his/) [first](/en/post/first/) album topped [the](/en/post/the/) charts."
+  > [Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) musician's [fame](/post/fame/) skyrocketed [after](/post/after/) [his](/post/his/) [first](/post/first/) album topped [the](/post/the/) charts."
 
-- **[Verb](/en/post/verb/)**: ([rarely](/en/post/rarely/) [used](/en/post/used/)) [To](/en/post/to/) [make](/en/post/make/) [famous](/en/post/famous/) [or](/en/post/or/) celebrated. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) groundbreaking [research](/en/post/research/) was fated [to](/en/post/to/) [fame](/en/post/fame/) [him](/en/post/him/) [among](/en/post/among/) [his](/en/post/his/) peers."
+- **[Verb](/post/verb/)**: ([rarely](/post/rarely/) [used](/post/used/)) [To](/post/to/) [make](/post/make/) [famous](/post/famous/) [or](/post/or/) celebrated. [For](/post/for/) [example](/post/example/): "[His](/post/his/) groundbreaking [research](/post/research/) was fated [to](/post/to/) [fame](/post/fame/) [him](/post/him/) [among](/post/among/) [his](/post/his/) peers."
 
 ## Phrases
-- "[Fame](/en/post/fame/) [and](/en/post/and/) [fortune](/en/post/fortune/)" refers [to](/en/post/to/) [both](/en/post/both/) [widespread](/en/post/widespread/) [recognition](/en/post/recognition/) [and](/en/post/and/) [wealth](/en/post/wealth/).
-- "[A](/en/post/a/) [taste](/en/post/taste/) [of](/en/post/of/) [fame](/en/post/fame/)" implies experiencing [a](/en/post/a/) [brief](/en/post/brief/) [period](/en/post/period/) [of](/en/post/of/) [being](/en/post/being/) [well-known](/en/post/well-known/).
-- "Seeking [fame](/en/post/fame/)" suggests attempting [to](/en/post/to/) [become](/en/post/become/) [widely](/en/post/widely/) recognized [or](/en/post/or/) celebrated.
+- "[Fame](/post/fame/) [and](/post/and/) [fortune](/post/fortune/)" refers [to](/post/to/) [both](/post/both/) [widespread](/post/widespread/) [recognition](/post/recognition/) [and](/post/and/) [wealth](/post/wealth/).
+- "[A](/post/a/) [taste](/post/taste/) [of](/post/of/) [fame](/post/fame/)" implies experiencing [a](/post/a/) [brief](/post/brief/) [period](/post/period/) [of](/post/of/) [being](/post/being/) [well-known](/post/well-known/).
+- "Seeking [fame](/post/fame/)" suggests attempting [to](/post/to/) [become](/post/become/) [widely](/post/widely/) recognized [or](/post/or/) celebrated.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) book's [success](/en/post/success/) brought [its](/en/post/its/) [author](/en/post/author/) [international](/en/post/international/) [fame](/en/post/fame/)."
-- "Winning [the](/en/post/the/) [gold](/en/post/gold/) [medal](/en/post/medal/) guaranteed [her](/en/post/her/) eternal [fame](/en/post/fame/) [in](/en/post/in/) [the](/en/post/the/) [sport](/en/post/sport/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) book's [success](/post/success/) brought [its](/post/its/) [author](/post/author/) [international](/post/international/) [fame](/post/fame/)."
+- "Winning [the](/post/the/) [gold](/post/gold/) [medal](/post/medal/) guaranteed [her](/post/her/) eternal [fame](/post/fame/) [in](/post/in/) [the](/post/the/) [sport](/post/sport/)."
   
 ## Synonyms
 - Renown
-- [Reputation](/en/post/reputation/)
+- [Reputation](/post/reputation/)
 - Celebrity
-- Notoriety (depending [on](/en/post/on/) context)
+- Notoriety (depending [on](/post/on/) context)
 - Prestige
-- [Glory](/en/post/glory/)
+- [Glory](/post/glory/)
 - Eminence
 
 ## Antonyms

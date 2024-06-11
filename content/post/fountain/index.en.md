@@ -7,33 +7,33 @@ description = '[ˈfauntin] n.泉水，喷泉；源泉'
 keywords = ['ai words', 'fountain']
 +++
 
-## [Word](/en/post/word/): [Fountain](/en/post/fountain/)
+## [Word](/post/word/): [Fountain](/post/fountain/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfaʊntən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) decorative [structure](/en/post/structure/) [from](/en/post/from/) [which](/en/post/which/) [water](/en/post/water/) flows [or](/en/post/or/) spouts [into](/en/post/into/) [a](/en/post/a/) [basin](/en/post/basin/) [or](/en/post/or/) [pool](/en/post/pool/), [often](/en/post/often/) designed [for](/en/post/for/) ornamentation [in](/en/post/in/) [public](/en/post/public/) places [or](/en/post/or/) gardens. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) plaza was centered [around](/en/post/around/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) [stone](/en/post/stone/) [fountain](/en/post/fountain/)."
-  - *Metaphorical [Usage](/en/post/usage/)*: [A](/en/post/a/) [source](/en/post/source/) [or](/en/post/or/) abundance [of](/en/post/of/) [something](/en/post/something/). "[The](/en/post/the/) city's [economy](/en/post/economy/) is [a](/en/post/a/) veritable [fountain](/en/post/fountain/) [of](/en/post/of/) [job](/en/post/job/) opportunities."
+- **[Noun](/post/noun/)**: [A](/post/a/) decorative [structure](/post/structure/) [from](/post/from/) [which](/post/which/) [water](/post/water/) flows [or](/post/or/) spouts [into](/post/into/) [a](/post/a/) [basin](/post/basin/) [or](/post/or/) [pool](/post/pool/), [often](/post/often/) designed [for](/post/for/) ornamentation [in](/post/in/) [public](/post/public/) places [or](/post/or/) gardens. [For](/post/for/) [example](/post/example/): "[The](/post/the/) plaza was centered [around](/post/around/) [a](/post/a/) [beautiful](/post/beautiful/) [stone](/post/stone/) [fountain](/post/fountain/)."
+  - *Metaphorical [Usage](/post/usage/)*: [A](/post/a/) [source](/post/source/) [or](/post/or/) abundance [of](/post/of/) [something](/post/something/). "[The](/post/the/) city's [economy](/post/economy/) is [a](/post/a/) veritable [fountain](/post/fountain/) [of](/post/of/) [job](/post/job/) opportunities."
   
-- **[Verb](/en/post/verb/)**: ([rarely](/en/post/rarely/) [used](/en/post/used/)) [To](/en/post/to/) [issue](/en/post/issue/) [forth](/en/post/forth/) [or](/en/post/or/) [flow](/en/post/flow/) [like](/en/post/like/) [a](/en/post/a/) [fountain](/en/post/fountain/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [spring](/en/post/spring/) fountained [clear](/en/post/clear/) [water](/en/post/water/) [into](/en/post/into/) [the](/en/post/the/) [stream](/en/post/stream/)."
+- **[Verb](/post/verb/)**: ([rarely](/post/rarely/) [used](/post/used/)) [To](/post/to/) [issue](/post/issue/) [forth](/post/forth/) [or](/post/or/) [flow](/post/flow/) [like](/post/like/) [a](/post/a/) [fountain](/post/fountain/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [spring](/post/spring/) fountained [clear](/post/clear/) [water](/post/water/) [into](/post/into/) [the](/post/the/) [stream](/post/stream/)."
 
 ## Phrases
-- "[Fountain](/en/post/fountain/) [of](/en/post/of/) [youth](/en/post/youth/)": [A](/en/post/a/) mythical [spring](/en/post/spring/) [that](/en/post/that/) restores [the](/en/post/the/) [youth](/en/post/youth/) [of](/en/post/of/) [anyone](/en/post/anyone/) [who](/en/post/who/) drinks [or](/en/post/or/) bathes [in](/en/post/in/) [its](/en/post/its/) waters; [it](/en/post/it/) is [often](/en/post/often/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [anything](/en/post/anything/) believed [to](/en/post/to/) [reverse](/en/post/reverse/) aging [or](/en/post/or/) rejuvenate.
-- "Drinking [from](/en/post/from/) [the](/en/post/the/) [fountain](/en/post/fountain/) [of](/en/post/of/) [knowledge](/en/post/knowledge/)": [A](/en/post/a/) metaphorical [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [gain](/en/post/gain/) [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [information](/en/post/information/) [or](/en/post/or/) [wisdom](/en/post/wisdom/).
-- "[A](/en/post/a/) [fountain](/en/post/fountain/) [pen](/en/post/pen/)": [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [pen](/en/post/pen/) [with](/en/post/with/) an [internal](/en/post/internal/) [reservoir](/en/post/reservoir/) [of](/en/post/of/) [ink](/en/post/ink/).
+- "[Fountain](/post/fountain/) [of](/post/of/) [youth](/post/youth/)": [A](/post/a/) mythical [spring](/post/spring/) [that](/post/that/) restores [the](/post/the/) [youth](/post/youth/) [of](/post/of/) [anyone](/post/anyone/) [who](/post/who/) drinks [or](/post/or/) bathes [in](/post/in/) [its](/post/its/) waters; [it](/post/it/) is [often](/post/often/) [used](/post/used/) metaphorically [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [anything](/post/anything/) believed [to](/post/to/) [reverse](/post/reverse/) aging [or](/post/or/) rejuvenate.
+- "Drinking [from](/post/from/) [the](/post/the/) [fountain](/post/fountain/) [of](/post/of/) [knowledge](/post/knowledge/)": [A](/post/a/) metaphorical [expression](/post/expression/) [meaning](/post/meaning/) [to](/post/to/) [gain](/post/gain/) [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [information](/post/information/) [or](/post/or/) [wisdom](/post/wisdom/).
+- "[A](/post/a/) [fountain](/post/fountain/) [pen](/post/pen/)": [A](/post/a/) [type](/post/type/) [of](/post/of/) [pen](/post/pen/) [with](/post/with/) an [internal](/post/internal/) [reservoir](/post/reservoir/) [of](/post/of/) [ink](/post/ink/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Children threw coins [into](/en/post/into/) [the](/en/post/the/) wishing [well](/en/post/well/), hoping [for](/en/post/for/) [good](/en/post/good/) [luck](/en/post/luck/) [as](/en/post/as/) [the](/en/post/the/) [water](/en/post/water/) bubbled [up](/en/post/up/) [from](/en/post/from/) [the](/en/post/the/) [fountain](/en/post/fountain/)."
-- *Metaphorical [Usage](/en/post/usage/)*: "[The](/en/post/the/) [old](/en/post/old/) [library](/en/post/library/) has been [a](/en/post/a/) [fountain](/en/post/fountain/) [of](/en/post/of/) [knowledge](/en/post/knowledge/) [for](/en/post/for/) generations [of](/en/post/of/) scholars."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Children threw coins [into](/post/into/) [the](/post/the/) wishing [well](/post/well/), hoping [for](/post/for/) [good](/post/good/) [luck](/post/luck/) [as](/post/as/) [the](/post/the/) [water](/post/water/) bubbled [up](/post/up/) [from](/post/from/) [the](/post/the/) [fountain](/post/fountain/)."
+- *Metaphorical [Usage](/post/usage/)*: "[The](/post/the/) [old](/post/old/) [library](/post/library/) has been [a](/post/a/) [fountain](/post/fountain/) [of](/post/of/) [knowledge](/post/knowledge/) [for](/post/for/) generations [of](/post/of/) scholars."
 
 ## Synonyms
-- [Jet](/en/post/jet/)
-- [Spring](/en/post/spring/)
-- [Water](/en/post/water/) [feature](/en/post/feature/)
+- [Jet](/post/jet/)
+- [Spring](/post/spring/)
+- [Water](/post/water/) [feature](/post/feature/)
 - Cascade
 - Spout
-- [Basin](/en/post/basin/)
-- Ornamental [pond](/en/post/pond/)
-- Geyser ([in](/en/post/in/) [some](/en/post/some/) contexts)
-- [Source](/en/post/source/) (metaphorical [usage](/en/post/usage/))
+- [Basin](/post/basin/)
+- Ornamental [pond](/post/pond/)
+- Geyser ([in](/post/in/) [some](/post/some/) contexts)
+- [Source](/post/source/) (metaphorical [usage](/post/usage/))

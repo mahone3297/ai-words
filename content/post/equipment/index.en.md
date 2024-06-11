@@ -7,36 +7,36 @@ description = '[iˈkwipmənt] n.装备，设备，配备'
 keywords = ['ai words', 'equipment']
 +++
 
-## [Word](/en/post/word/): [Equipment](/en/post/equipment/)
+## [Word](/post/word/): [Equipment](/post/equipment/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈkwɪpmənt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [set](/en/post/set/) [of](/en/post/of/) tools, machinery, appliances, vehicles, weapons, [or](/en/post/or/) [other](/en/post/other/) items [that](/en/post/that/) are [necessary](/en/post/necessary/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/), [activity](/en/post/activity/), [or](/en/post/or/) [operation](/en/post/operation/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) resources [and](/en/post/and/) facilities, [especially](/en/post/especially/) [those](/en/post/those/) [that](/en/post/that/) are [technical](/en/post/technical/) [or](/en/post/or/) specialized, required [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/).
+- **[Noun](/post/noun/)**: [The](/post/the/) [set](/post/set/) [of](/post/of/) tools, machinery, appliances, vehicles, weapons, [or](/post/or/) [other](/post/other/) items [that](/post/that/) are [necessary](/post/necessary/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/), [activity](/post/activity/), [or](/post/or/) [operation](/post/operation/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) resources [and](/post/and/) facilities, [especially](/post/especially/) [those](/post/those/) [that](/post/that/) are [technical](/post/technical/) [or](/post/or/) specialized, required [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/).
 
-[Example](/en/post/example/) sentences:
-- _The [laboratory](/en/post/laboratory/) was fully equipped [with](/en/post/with/) state-of-the-art [scientific](/en/post/scientific/) [equipment](/en/post/equipment/)._
-- _The hiking [trip](/en/post/trip/) requires sturdy boots [and](/en/post/and/) [proper](/en/post/proper/) [outdoor](/en/post/outdoor/) [equipment](/en/post/equipment/)._
-- _We [need](/en/post/need/) [new](/en/post/new/) sports [equipment](/en/post/equipment/) [for](/en/post/for/) [our](/en/post/our/) school's [gymnasium](/en/post/gymnasium/)._
+[Example](/post/example/) sentences:
+- _The [laboratory](/post/laboratory/) was fully equipped [with](/post/with/) state-of-the-art [scientific](/post/scientific/) [equipment](/post/equipment/)._
+- _The hiking [trip](/post/trip/) requires sturdy boots [and](/post/and/) [proper](/post/proper/) [outdoor](/post/outdoor/) [equipment](/post/equipment/)._
+- _We [need](/post/need/) [new](/post/new/) sports [equipment](/post/equipment/) [for](/post/for/) [our](/post/our/) school's [gymnasium](/post/gymnasium/)._
 
 ## Phrases
-- "[Equipment](/en/post/equipment/) [failure](/en/post/failure/)": Occurs [when](/en/post/when/) [any](/en/post/any/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [system](/en/post/system/) [or](/en/post/or/) machinery stops functioning [properly](/en/post/properly/) [or](/en/post/or/) fails entirely.
-- "[Check](/en/post/check/) [your](/en/post/your/) [equipment](/en/post/equipment/)": [Means](/en/post/means/) [to](/en/post/to/) [examine](/en/post/examine/) [and](/en/post/and/) [verify](/en/post/verify/) [that](/en/post/that/) [all](/en/post/all/) [necessary](/en/post/necessary/) tools [or](/en/post/or/) gear are [present](/en/post/present/) [and](/en/post/and/) [in](/en/post/in/) [good](/en/post/good/) working [condition](/en/post/condition/).
-- "[Safety](/en/post/safety/) [equipment](/en/post/equipment/)": Refers [to](/en/post/to/) [protective](/en/post/protective/) gear [or](/en/post/or/) devices worn [or](/en/post/or/) [used](/en/post/used/) [to](/en/post/to/) [prevent](/en/post/prevent/) [injury](/en/post/injury/) [or](/en/post/or/) accidents [in](/en/post/in/) [various](/en/post/various/) activities [or](/en/post/or/) workplaces.
+- "[Equipment](/post/equipment/) [failure](/post/failure/)": Occurs [when](/post/when/) [any](/post/any/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [system](/post/system/) [or](/post/or/) machinery stops functioning [properly](/post/properly/) [or](/post/or/) fails entirely.
+- "[Check](/post/check/) [your](/post/your/) [equipment](/post/equipment/)": [Means](/post/means/) [to](/post/to/) [examine](/post/examine/) [and](/post/and/) [verify](/post/verify/) [that](/post/that/) [all](/post/all/) [necessary](/post/necessary/) tools [or](/post/or/) gear are [present](/post/present/) [and](/post/and/) [in](/post/in/) [good](/post/good/) working [condition](/post/condition/).
+- "[Safety](/post/safety/) [equipment](/post/equipment/)": Refers [to](/post/to/) [protective](/post/protective/) gear [or](/post/or/) devices worn [or](/post/or/) [used](/post/used/) [to](/post/to/) [prevent](/post/prevent/) [injury](/post/injury/) [or](/post/or/) accidents [in](/post/in/) [various](/post/various/) activities [or](/post/or/) workplaces.
 
-## [Example](/en/post/example/) Sentences
-- _After [the](/en/post/the/) [equipment](/en/post/equipment/) [failure](/en/post/failure/), [the](/en/post/the/) [factory](/en/post/factory/) had [to](/en/post/to/) [halt](/en/post/halt/) [production](/en/post/production/) [for](/en/post/for/) [several](/en/post/several/) hours._
-- _Before embarking [on](/en/post/on/) [the](/en/post/the/) expedition, [they](/en/post/they/) carefully checked [their](/en/post/their/) camping [and](/en/post/and/) survival [equipment](/en/post/equipment/)._
-- _All employees [must](/en/post/must/) [wear](/en/post/wear/) [safety](/en/post/safety/) [equipment](/en/post/equipment/) [such](/en/post/such/) [as](/en/post/as/) [hard](/en/post/hard/) hats [and](/en/post/and/) goggles [while](/en/post/while/) [on](/en/post/on/) [the](/en/post/the/) [construction](/en/post/construction/) [site](/en/post/site/)._
+## [Example](/post/example/) Sentences
+- _After [the](/post/the/) [equipment](/post/equipment/) [failure](/post/failure/), [the](/post/the/) [factory](/post/factory/) had [to](/post/to/) [halt](/post/halt/) [production](/post/production/) [for](/post/for/) [several](/post/several/) hours._
+- _Before embarking [on](/post/on/) [the](/post/the/) expedition, [they](/post/they/) carefully checked [their](/post/their/) camping [and](/post/and/) survival [equipment](/post/equipment/)._
+- _All employees [must](/post/must/) [wear](/post/wear/) [safety](/post/safety/) [equipment](/post/equipment/) [such](/post/such/) [as](/post/as/) [hard](/post/hard/) hats [and](/post/and/) goggles [while](/post/while/) [on](/post/on/) [the](/post/the/) [construction](/post/construction/) [site](/post/site/)._
 
 ## Synonyms
 - Gear
 - Tools
-- [Apparatus](/en/post/apparatus/)
+- [Apparatus](/post/apparatus/)
 - Machinery
 - Implements
 - Devices
 - Instrumentation
 - Kit (esp. informal)
-- Outfit (esp. [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/))
+- Outfit (esp. [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/))

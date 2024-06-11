@@ -7,43 +7,43 @@ description = '[ˈveikənt] a.空的；未被占用的'
 keywords = ['ai words', 'vacant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /vəˈkeɪnt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Vacant](/en/post/vacant/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [position](/en/post/position/), [room](/en/post/room/), [or](/en/post/or/) [area](/en/post/area/) [that](/en/post/that/) is [empty](/en/post/empty/) [or](/en/post/or/) unoccupied. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [apartment](/en/post/apartment/) was [left](/en/post/left/) [vacant](/en/post/vacant/) [after](/en/post/after/) [the](/en/post/the/) [tenant](/en/post/tenant/) moved [out](/en/post/out/)."
-- **[Vacant](/en/post/vacant/) [seat](/en/post/seat/)** ([noun](/en/post/noun/)): An [empty](/en/post/empty/) [seat](/en/post/seat/) [in](/en/post/in/) [a](/en/post/a/) theater, [classroom](/en/post/classroom/), [or](/en/post/or/) [other](/en/post/other/) gathering [place](/en/post/place/). [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) were [several](/en/post/several/) [vacant](/en/post/vacant/) seats [in](/en/post/in/) [the](/en/post/the/) auditorium."
-- **[Vacant](/en/post/vacant/) [look](/en/post/look/)** ([noun](/en/post/noun/)): A茫然或空洞的眼神, 表示缺乏注意力或思考。[For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) [vacant](/en/post/vacant/) [look](/en/post/look/) [on](/en/post/on/) [her](/en/post/her/) [face](/en/post/face/) [when](/en/post/when/) [she](/en/post/she/) heard [the](/en/post/the/) [news](/en/post/news/)."
+### [Noun](/post/noun/)
+- **[Vacant](/post/vacant/)** ([noun](/post/noun/)): [A](/post/a/) [position](/post/position/), [room](/post/room/), [or](/post/or/) [area](/post/area/) [that](/post/that/) is [empty](/post/empty/) [or](/post/or/) unoccupied. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [apartment](/post/apartment/) was [left](/post/left/) [vacant](/post/vacant/) [after](/post/after/) [the](/post/the/) [tenant](/post/tenant/) moved [out](/post/out/)."
+- **[Vacant](/post/vacant/) [seat](/post/seat/)** ([noun](/post/noun/)): An [empty](/post/empty/) [seat](/post/seat/) [in](/post/in/) [a](/post/a/) theater, [classroom](/post/classroom/), [or](/post/or/) [other](/post/other/) gathering [place](/post/place/). [For](/post/for/) [example](/post/example/): "[There](/post/there/) were [several](/post/several/) [vacant](/post/vacant/) seats [in](/post/in/) [the](/post/the/) auditorium."
+- **[Vacant](/post/vacant/) [look](/post/look/)** ([noun](/post/noun/)): A茫然或空洞的眼神, 表示缺乏注意力或思考。[For](/post/for/) [example](/post/example/): "[She](/post/she/) had [a](/post/a/) [vacant](/post/vacant/) [look](/post/look/) [on](/post/on/) [her](/post/her/) [face](/post/face/) [when](/post/when/) [she](/post/she/) heard [the](/post/the/) [news](/post/news/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) vacate** ([verb](/en/post/verb/)): [To](/en/post/to/) [leave](/en/post/leave/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [give](/en/post/give/) [up](/en/post/up/) [a](/en/post/a/) [position](/en/post/position/), [usually](/en/post/usually/) temporarily. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) tenants were required [to](/en/post/to/) vacate [the](/en/post/the/) [apartment](/en/post/apartment/) [by](/en/post/by/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [month](/en/post/month/)."
-- **[To](/en/post/to/) [become](/en/post/become/) [vacant](/en/post/vacant/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [become](/en/post/become/) unoccupied [or](/en/post/or/) [empty](/en/post/empty/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [job](/en/post/job/) became [vacant](/en/post/vacant/) [after](/en/post/after/) [the](/en/post/the/) [previous](/en/post/previous/) [employee](/en/post/employee/) resigned."
+### [Verb](/post/verb/)
+- **[To](/post/to/) vacate** ([verb](/post/verb/)): [To](/post/to/) [leave](/post/leave/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [give](/post/give/) [up](/post/up/) [a](/post/a/) [position](/post/position/), [usually](/post/usually/) temporarily. [For](/post/for/) [example](/post/example/): "[The](/post/the/) tenants were required [to](/post/to/) vacate [the](/post/the/) [apartment](/post/apartment/) [by](/post/by/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [month](/post/month/)."
+- **[To](/post/to/) [become](/post/become/) [vacant](/post/vacant/)** ([verb](/post/verb/)): [To](/post/to/) [become](/post/become/) unoccupied [or](/post/or/) [empty](/post/empty/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [job](/post/job/) became [vacant](/post/vacant/) [after](/post/after/) [the](/post/the/) [previous](/post/previous/) [employee](/post/employee/) resigned."
 
 ## Phrases
-- "[A](/en/post/a/) [vacant](/en/post/vacant/) [lot](/en/post/lot/)" refers [to](/en/post/to/) an [empty](/en/post/empty/) [piece](/en/post/piece/) [of](/en/post/of/) [land](/en/post/land/).
-- "[The](/en/post/the/) [seat](/en/post/seat/) remained [vacant](/en/post/vacant/) [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- "[The](/en/post/the/) [position](/en/post/position/) has been [vacant](/en/post/vacant/) [for](/en/post/for/) weeks."
+- "[A](/post/a/) [vacant](/post/vacant/) [lot](/post/lot/)" refers [to](/post/to/) an [empty](/post/empty/) [piece](/post/piece/) [of](/post/of/) [land](/post/land/).
+- "[The](/post/the/) [seat](/post/seat/) remained [vacant](/post/vacant/) [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
+- "[The](/post/the/) [position](/post/position/) has been [vacant](/post/vacant/) [for](/post/for/) weeks."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [office](/en/post/office/) was [left](/en/post/left/) [vacant](/en/post/vacant/) [after](/en/post/after/) [the](/en/post/the/) manager's [sudden](/en/post/sudden/) [resignation](/en/post/resignation/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [landlord](/en/post/landlord/) asked [the](/en/post/the/) tenants [to](/en/post/to/) vacate [the](/en/post/the/) premises [before](/en/post/before/) [the](/en/post/the/) scheduled renovation."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) store's shelves were [quickly](/en/post/quickly/) emptied [as](/en/post/as/) customers started [to](/en/post/to/) vacate."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [office](/post/office/) was [left](/post/left/) [vacant](/post/vacant/) [after](/post/after/) [the](/post/the/) manager's [sudden](/post/sudden/) [resignation](/post/resignation/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [landlord](/post/landlord/) asked [the](/post/the/) tenants [to](/post/to/) vacate [the](/post/the/) premises [before](/post/before/) [the](/post/the/) scheduled renovation."
+- **[Verb](/post/verb/)**: "[The](/post/the/) store's shelves were [quickly](/post/quickly/) emptied [as](/post/as/) customers started [to](/post/to/) vacate."
 
 ## Synonyms
 - Unoccupied
-- [Empty](/en/post/empty/)
+- [Empty](/post/empty/)
 - Vacant-minded
-- [Available](/en/post/available/)
+- [Available](/post/available/)
 - Unfilled
 - Abandoned
-- [Idle](/en/post/idle/)
+- [Idle](/post/idle/)
 - Sequestered
 
 ## Antonyms
 - Occupied
-- [Full](/en/post/full/)
+- [Full](/post/full/)
 - Taken
-- [Busy](/en/post/busy/)
+- [Busy](/post/busy/)
 - Engaged
 - Filled

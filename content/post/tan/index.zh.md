@@ -12,23 +12,23 @@ keywords = ['ai words', 'tan']
 
 ## 释义
 - **名词**:
-1. 肤色因日晒而变黑的状态。例如: "[She](/post/she/) has [a](/post/a/) [beautiful](/post/beautiful/) [tan](/post/tan/) [from](/post/from/) [her](/post/her/) [vacation](/post/vacation/) [in](/post/in/) Spain."
-2. 深褐色，棕褐色。例如: "[The](/post/the/) [leather](/post/leather/) sofa has [a](/post/a/) [rich](/post/rich/) [tan](/post/tan/) [color](/post/color/)."
+1. 肤色因日晒而变黑的状态。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [tan](/zh/post/tan/) [from](/zh/post/from/) [her](/zh/post/her/) [vacation](/zh/post/vacation/) [in](/zh/post/in/) Spain."
+2. 深褐色，棕褐色。例如: "[The](/zh/post/the/) [leather](/zh/post/leather/) sofa has [a](/zh/post/a/) [rich](/zh/post/rich/) [tan](/zh/post/tan/) [color](/zh/post/color/)."
 
 - **动词**:
-使皮肤晒成棕褐色。例如: "I'm going [to](/post/to/) [tan](/post/tan/) [by](/post/by/) [the](/post/the/) [pool](/post/pool/) [this](/post/this/) [afternoon](/post/afternoon/)."
+使皮肤晒成棕褐色。例如: "I'm going [to](/zh/post/to/) [tan](/zh/post/tan/) [by](/zh/post/by/) [the](/zh/post/the/) [pool](/zh/post/pool/) [this](/zh/post/this/) [afternoon](/zh/post/afternoon/)."
 
 ## 短语
-- "[get](/post/get/) [a](/post/a/) [tan](/post/tan/)" 意为晒黑。
-- "[tan](/post/tan/) [line](/post/line/)" 指晒太阳后皮肤与未晒部分的分界线。
+- "[get](/zh/post/get/) [a](/zh/post/a/) [tan](/zh/post/tan/)" 意为晒黑。
+- "[tan](/zh/post/tan/) [line](/zh/post/line/)" 指晒太阳后皮肤与未晒部分的分界线。
 
 ## 例句
-- 名词: "[Her](/post/her/) [tan](/post/tan/) made [her](/post/her/) [look](/post/look/) healthier [and](/post/and/) [more](/post/more/) vibrant."
-- 动词: "[After](/post/after/) [a](/post/a/) [day](/post/day/) [at](/post/at/) [the](/post/the/) [beach](/post/beach/), [he](/post/he/) was [well](/post/well/) [on](/post/on/) [his](/post/his/) [way](/post/way/) [to](/post/to/) tanning [his](/post/his/) [skin](/post/skin/)."
+- 名词: "[Her](/zh/post/her/) [tan](/zh/post/tan/) made [her](/zh/post/her/) [look](/zh/post/look/) healthier [and](/zh/post/and/) [more](/zh/post/more/) vibrant."
+- 动词: "[After](/zh/post/after/) [a](/zh/post/a/) [day](/zh/post/day/) [at](/zh/post/at/) [the](/zh/post/the/) [beach](/zh/post/beach/), [he](/zh/post/he/) was [well](/zh/post/well/) [on](/zh/post/on/) [his](/zh/post/his/) [way](/zh/post/way/) [to](/zh/post/to/) tanning [his](/zh/post/his/) [skin](/zh/post/skin/)."
 
 ## 同义词
-- [bronze](/post/bronze/)
+- [bronze](/zh/post/bronze/)
 - sunburn
 - darken
-- [brown](/post/brown/)
+- [brown](/zh/post/brown/)
 - complexion (在描述肤色变深时)

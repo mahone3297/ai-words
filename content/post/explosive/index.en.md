@@ -7,30 +7,30 @@ description = '[iksˈpləusiv] n.炸药 a.爆炸的'
 keywords = ['ai words', 'explosive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈsplosɪv/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) having [the](/en/post/the/) [property](/en/post/property/) [of](/en/post/of/) exploding [with](/en/post/with/) [great](/en/post/great/) [force](/en/post/force/) [on](/en/post/on/) ignition [or](/en/post/or/) [impact](/en/post/impact/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) demolition [team](/en/post/team/) [used](/en/post/used/) an [explosive](/en/post/explosive/) [device](/en/post/device/) [to](/en/post/to/) [bring](/en/post/bring/) [down](/en/post/down/) [the](/en/post/the/) [old](/en/post/old/) [building](/en/post/building/)."
-  - *[Chemistry](/en/post/chemistry/)*: Describing [a](/en/post/a/) [substance](/en/post/substance/) [that](/en/post/that/) decomposes [rapidly](/en/post/rapidly/), producing [heat](/en/post/heat/), [gas](/en/post/gas/), [and](/en/post/and/) [often](/en/post/often/) [noise](/en/post/noise/); [capable](/en/post/capable/) [of](/en/post/of/) undergoing combustion [or](/en/post/or/) [a](/en/post/a/) [rapid](/en/post/rapid/) [chemical](/en/post/chemical/) [change](/en/post/change/) [with](/en/post/with/) [the](/en/post/the/) [production](/en/post/production/) [of](/en/post/of/) [gas](/en/post/gas/).
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) having [the](/post/the/) [property](/post/property/) [of](/post/of/) exploding [with](/post/with/) [great](/post/great/) [force](/post/force/) [on](/post/on/) ignition [or](/post/or/) [impact](/post/impact/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) demolition [team](/post/team/) [used](/post/used/) an [explosive](/post/explosive/) [device](/post/device/) [to](/post/to/) [bring](/post/bring/) [down](/post/down/) [the](/post/the/) [old](/post/old/) [building](/post/building/)."
+  - *[Chemistry](/post/chemistry/)*: Describing [a](/post/a/) [substance](/post/substance/) [that](/post/that/) decomposes [rapidly](/post/rapidly/), producing [heat](/post/heat/), [gas](/post/gas/), [and](/post/and/) [often](/post/often/) [noise](/post/noise/); [capable](/post/capable/) [of](/post/of/) undergoing combustion [or](/post/or/) [a](/post/a/) [rapid](/post/rapid/) [chemical](/post/chemical/) [change](/post/change/) [with](/post/with/) [the](/post/the/) [production](/post/production/) [of](/post/of/) [gas](/post/gas/).
   
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [substance](/en/post/substance/) [or](/en/post/or/) [device](/en/post/device/) [that](/en/post/that/) [can](/en/post/can/) [cause](/en/post/cause/) [a](/en/post/a/) [sudden](/en/post/sudden/), [violent](/en/post/violent/) [release](/en/post/release/) [of](/en/post/of/) [energy](/en/post/energy/) [through](/en/post/through/) [chemical](/en/post/chemical/) [reaction](/en/post/reaction/), [nuclear](/en/post/nuclear/) fission, [or](/en/post/or/) fusion. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [bomb](/en/post/bomb/) squad [safely](/en/post/safely/) disposed [of](/en/post/of/) [the](/en/post/the/) unexploded [explosive](/en/post/explosive/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [substance](/post/substance/) [or](/post/or/) [device](/post/device/) [that](/post/that/) [can](/post/can/) [cause](/post/cause/) [a](/post/a/) [sudden](/post/sudden/), [violent](/post/violent/) [release](/post/release/) [of](/post/of/) [energy](/post/energy/) [through](/post/through/) [chemical](/post/chemical/) [reaction](/post/reaction/), [nuclear](/post/nuclear/) fission, [or](/post/or/) fusion. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [bomb](/post/bomb/) squad [safely](/post/safely/) disposed [of](/post/of/) [the](/post/the/) unexploded [explosive](/post/explosive/)."
 
 ## Phrases
-- "[Highly](/en/post/highly/) [explosive](/en/post/explosive/)": Referring [to](/en/post/to/) an [explosive](/en/post/explosive/) [substance](/en/post/substance/) [that](/en/post/that/) is [very](/en/post/very/) [sensitive](/en/post/sensitive/) [and](/en/post/and/) has [a](/en/post/a/) [powerful](/en/post/powerful/) [blast](/en/post/blast/).
-- "[Explosive](/en/post/explosive/) [device](/en/post/device/)": [A](/en/post/a/) generic [term](/en/post/term/) [for](/en/post/for/) [any](/en/post/any/) [object](/en/post/object/) [or](/en/post/or/) mechanism designed [to](/en/post/to/) [explode](/en/post/explode/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [bomb](/en/post/bomb/) [or](/en/post/or/) [mine](/en/post/mine/).
-- "[Explosive](/en/post/explosive/) [atmosphere](/en/post/atmosphere/)": An [environment](/en/post/environment/) [where](/en/post/where/) [a](/en/post/a/) [mixture](/en/post/mixture/) [of](/en/post/of/) [air](/en/post/air/), flammable substances, [and](/en/post/and/)/[or](/en/post/or/) [easily](/en/post/easily/) ignited materials [could](/en/post/could/) ignite [or](/en/post/or/) [explode](/en/post/explode/) [if](/en/post/if/) exposed [to](/en/post/to/) [a](/en/post/a/) [source](/en/post/source/) [of](/en/post/of/) ignition.
+- "[Highly](/post/highly/) [explosive](/post/explosive/)": Referring [to](/post/to/) an [explosive](/post/explosive/) [substance](/post/substance/) [that](/post/that/) is [very](/post/very/) [sensitive](/post/sensitive/) [and](/post/and/) has [a](/post/a/) [powerful](/post/powerful/) [blast](/post/blast/).
+- "[Explosive](/post/explosive/) [device](/post/device/)": [A](/post/a/) generic [term](/post/term/) [for](/post/for/) [any](/post/any/) [object](/post/object/) [or](/post/or/) mechanism designed [to](/post/to/) [explode](/post/explode/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [bomb](/post/bomb/) [or](/post/or/) [mine](/post/mine/).
+- "[Explosive](/post/explosive/) [atmosphere](/post/atmosphere/)": An [environment](/post/environment/) [where](/post/where/) [a](/post/a/) [mixture](/post/mixture/) [of](/post/of/) [air](/post/air/), flammable substances, [and](/post/and/)/[or](/post/or/) [easily](/post/easily/) ignited materials [could](/post/could/) ignite [or](/post/or/) [explode](/post/explode/) [if](/post/if/) exposed [to](/post/to/) [a](/post/a/) [source](/post/source/) [of](/post/of/) ignition.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) fireworks [display](/en/post/display/) featured [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [highly](/en/post/highly/) [explosive](/en/post/explosive/) pyrotechnics."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) authorities discovered [a](/en/post/a/) cache [of](/en/post/of/) [illegal](/en/post/illegal/) explosives hidden [in](/en/post/in/) [the](/en/post/the/) basement."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) fireworks [display](/post/display/) featured [a](/post/a/) [series](/post/series/) [of](/post/of/) [highly](/post/highly/) [explosive](/post/explosive/) pyrotechnics."
+- **[Noun](/post/noun/)**: "[The](/post/the/) authorities discovered [a](/post/a/) cache [of](/post/of/) [illegal](/post/illegal/) explosives hidden [in](/post/in/) [the](/post/the/) basement."
 
 ## Synonyms
 - Detonative
 - Combustible
 - Ignitable
-- Volatile ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- Volatile ([in](/post/in/) [certain](/post/certain/) contexts)
 - Blastable
-- Incendiary ([for](/en/post/for/) substances)
-- [Bomb](/en/post/bomb/)
-- Grenade ([as](/en/post/as/) [specific](/en/post/specific/) types [of](/en/post/of/) explosives)
+- Incendiary ([for](/post/for/) substances)
+- [Bomb](/post/bomb/)
+- Grenade ([as](/post/as/) [specific](/post/specific/) types [of](/post/of/) explosives)

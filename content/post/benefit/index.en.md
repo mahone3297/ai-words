@@ -7,55 +7,55 @@ description = '[ˈbenifit] n.利益；恩惠；津贴'
 keywords = ['ai words', 'benefit']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɪˈnɛfɪt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. An [advantage](/en/post/advantage/) [or](/en/post/or/) [gain](/en/post/gain/); [something](/en/post/something/) [that](/en/post/that/) is [beneficial](/en/post/beneficial/) [or](/en/post/or/) advantageous.
-   - "[Regular](/en/post/regular/) [exercise](/en/post/exercise/) has [numerous](/en/post/numerous/) [health](/en/post/health/) benefits."
-   - "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) [will](/en/post/will/) [bring](/en/post/bring/) [many](/en/post/many/) [economic](/en/post/economic/) benefits [to](/en/post/to/) [the](/en/post/the/) [region](/en/post/region/)."
+### [Noun](/post/noun/)
+1. An [advantage](/post/advantage/) [or](/post/or/) [gain](/post/gain/); [something](/post/something/) [that](/post/that/) is [beneficial](/post/beneficial/) [or](/post/or/) advantageous.
+   - "[Regular](/post/regular/) [exercise](/post/exercise/) has [numerous](/post/numerous/) [health](/post/health/) benefits."
+   - "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) [will](/post/will/) [bring](/post/bring/) [many](/post/many/) [economic](/post/economic/) benefits [to](/post/to/) [the](/post/the/) [region](/post/region/)."
 
-2. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) benefiting [or](/en/post/or/) receiving [some](/en/post/some/) [advantage](/en/post/advantage/) [from](/en/post/from/) [something](/en/post/something/).
-   - "[She](/en/post/she/) derived [great](/en/post/great/) [benefit](/en/post/benefit/) [from](/en/post/from/) [her](/en/post/her/) mentor's [guidance](/en/post/guidance/)."
-   - "[The](/en/post/the/) [charity](/en/post/charity/) aims [to](/en/post/to/) [provide](/en/post/provide/) educational benefits [to](/en/post/to/) underprivileged children."
+2. [The](/post/the/) [act](/post/act/) [of](/post/of/) benefiting [or](/post/or/) receiving [some](/post/some/) [advantage](/post/advantage/) [from](/post/from/) [something](/post/something/).
+   - "[She](/post/she/) derived [great](/post/great/) [benefit](/post/benefit/) [from](/post/from/) [her](/post/her/) mentor's [guidance](/post/guidance/)."
+   - "[The](/post/the/) [charity](/post/charity/) aims [to](/post/to/) [provide](/post/provide/) educational benefits [to](/post/to/) underprivileged children."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [receive](/en/post/receive/) [or](/en/post/or/) [obtain](/en/post/obtain/) [some](/en/post/some/) [advantage](/en/post/advantage/) [or](/en/post/or/) [good](/en/post/good/) [from](/en/post/from/) [something](/en/post/something/).
-   - "Taking breaks [at](/en/post/at/) [work](/en/post/work/) [can](/en/post/can/) [actually](/en/post/actually/) [benefit](/en/post/benefit/) productivity."
-   - "[The](/en/post/the/) company's [stock](/en/post/stock/) is expected [to](/en/post/to/) [benefit](/en/post/benefit/) [from](/en/post/from/) [the](/en/post/the/) [new](/en/post/new/) [product](/en/post/product/) [launch](/en/post/launch/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [receive](/post/receive/) [or](/post/or/) [obtain](/post/obtain/) [some](/post/some/) [advantage](/post/advantage/) [or](/post/or/) [good](/post/good/) [from](/post/from/) [something](/post/something/).
+   - "Taking breaks [at](/post/at/) [work](/post/work/) [can](/post/can/) [actually](/post/actually/) [benefit](/post/benefit/) productivity."
+   - "[The](/post/the/) company's [stock](/post/stock/) is expected [to](/post/to/) [benefit](/post/benefit/) [from](/post/from/) [the](/post/the/) [new](/post/new/) [product](/post/product/) [launch](/post/launch/)."
 
-2. [To](/en/post/to/) confer [or](/en/post/or/) [contribute](/en/post/contribute/) [to](/en/post/to/) [the](/en/post/the/) well-being [or](/en/post/or/) [advantage](/en/post/advantage/) [of](/en/post/of/) [someone](/en/post/someone/).
-   - "[The](/en/post/the/) [government](/en/post/government/) implemented policies [to](/en/post/to/) [benefit](/en/post/benefit/) [the](/en/post/the/) elderly [population](/en/post/population/)."
-   - "[The](/en/post/the/) [program](/en/post/program/) was designed [to](/en/post/to/) [benefit](/en/post/benefit/) [both](/en/post/both/) employees [and](/en/post/and/) customers."
+2. [To](/post/to/) confer [or](/post/or/) [contribute](/post/contribute/) [to](/post/to/) [the](/post/the/) well-being [or](/post/or/) [advantage](/post/advantage/) [of](/post/of/) [someone](/post/someone/).
+   - "[The](/post/the/) [government](/post/government/) implemented policies [to](/post/to/) [benefit](/post/benefit/) [the](/post/the/) elderly [population](/post/population/)."
+   - "[The](/post/the/) [program](/post/program/) was designed [to](/post/to/) [benefit](/post/benefit/) [both](/post/both/) employees [and](/post/and/) customers."
 
 ## Phrases
-- "[Derive](/en/post/derive/) [a](/en/post/a/) [benefit](/en/post/benefit/) [from](/en/post/from/)" signifies gaining [advantage](/en/post/advantage/) [from](/en/post/from/) [something](/en/post/something/).
-- "Maximize [the](/en/post/the/) benefits" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [the](/en/post/the/) [most](/en/post/most/) [of](/en/post/of/) advantages.
-- "Long-term benefits" refers [to](/en/post/to/) advantages [that](/en/post/that/) [last](/en/post/last/) [over](/en/post/over/) [time](/en/post/time/).
+- "[Derive](/post/derive/) [a](/post/a/) [benefit](/post/benefit/) [from](/post/from/)" signifies gaining [advantage](/post/advantage/) [from](/post/from/) [something](/post/something/).
+- "Maximize [the](/post/the/) benefits" [means](/post/means/) [to](/post/to/) [make](/post/make/) [the](/post/the/) [most](/post/most/) [of](/post/of/) advantages.
+- "Long-term benefits" refers [to](/post/to/) advantages [that](/post/that/) [last](/post/last/) [over](/post/over/) [time](/post/time/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [new](/en/post/new/) diet [plan](/en/post/plan/) promised [to](/en/post/to/) [bring](/en/post/bring/) [significant](/en/post/significant/) [health](/en/post/health/) benefits."
-- **[Verb](/en/post/verb/)**: "Investing [in](/en/post/in/) [education](/en/post/education/) [can](/en/post/can/) [greatly](/en/post/greatly/) [benefit](/en/post/benefit/) [your](/en/post/your/) [future](/en/post/future/) [career](/en/post/career/) prospects."
-- **Phrasal [Verb](/en/post/verb/)**: "[Her](/en/post/her/) dedication [to](/en/post/to/) [her](/en/post/her/) [job](/en/post/job/) has resulted [in](/en/post/in/) [numerous](/en/post/numerous/) [professional](/en/post/professional/) benefits."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [new](/post/new/) diet [plan](/post/plan/) promised [to](/post/to/) [bring](/post/bring/) [significant](/post/significant/) [health](/post/health/) benefits."
+- **[Verb](/post/verb/)**: "Investing [in](/post/in/) [education](/post/education/) [can](/post/can/) [greatly](/post/greatly/) [benefit](/post/benefit/) [your](/post/your/) [future](/post/future/) [career](/post/career/) prospects."
+- **Phrasal [Verb](/post/verb/)**: "[Her](/post/her/) dedication [to](/post/to/) [her](/post/her/) [job](/post/job/) has resulted [in](/post/in/) [numerous](/post/numerous/) [professional](/post/professional/) benefits."
 
 ## Synonyms
-- [Advantage](/en/post/advantage/)
-- [Profit](/en/post/profit/)
-- [Gain](/en/post/gain/)
+- [Advantage](/post/advantage/)
+- [Profit](/post/profit/)
+- [Gain](/post/gain/)
 - Advantageous
-- [Positive](/en/post/positive/) [effect](/en/post/effect/)
-- [Outcome](/en/post/outcome/)
-- [Return](/en/post/return/)
-- [Good](/en/post/good/)
+- [Positive](/post/positive/) [effect](/post/effect/)
+- [Outcome](/post/outcome/)
+- [Return](/post/return/)
+- [Good](/post/good/)
 - Blessing
 
 ## Antonyms
-- [Loss](/en/post/loss/)
+- [Loss](/post/loss/)
 - Detriment
-- [Harm](/en/post/harm/)
+- [Harm](/post/harm/)
 - Drawback
-- [Disadvantage](/en/post/disadvantage/)
-- [Negative](/en/post/negative/) [effect](/en/post/effect/)
-- [Harmful](/en/post/harmful/)
+- [Disadvantage](/post/disadvantage/)
+- [Negative](/post/negative/) [effect](/post/effect/)
+- [Harmful](/post/harmful/)
 - Unfavorable

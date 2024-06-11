@@ -11,16 +11,16 @@ keywords = ['ai words', 'prejudice']
 /prɪˈdʒuːdɪs/
 
 ## 释义
-- **名词**: 预先判断；成见；偏见。例如: "[He](/post/he/) tried [to](/post/to/) [overcome](/post/overcome/) [his](/post/his/) [prejudice](/post/prejudice/) [against](/post/against/) [people](/post/people/) [from](/post/from/) [different](/post/different/) cultures."
-- **动词**: 对…持有成见；对…有偏见。例如: "Don't [prejudice](/post/prejudice/) [the](/post/the/) [case](/post/case/) [before](/post/before/) hearing [all](/post/all/) [the](/post/the/) [evidence](/post/evidence/)."
+- **名词**: 预先判断；成见；偏见。例如: "[He](/zh/post/he/) tried [to](/zh/post/to/) [overcome](/zh/post/overcome/) [his](/zh/post/his/) [prejudice](/zh/post/prejudice/) [against](/zh/post/against/) [people](/zh/post/people/) [from](/zh/post/from/) [different](/zh/post/different/) cultures."
+- **动词**: 对…持有成见；对…有偏见。例如: "Don't [prejudice](/zh/post/prejudice/) [the](/zh/post/the/) [case](/zh/post/case/) [before](/zh/post/before/) hearing [all](/zh/post/all/) [the](/zh/post/the/) [evidence](/zh/post/evidence/)."
 
 ## 短语
-- "[racial](/post/racial/) [prejudice](/post/prejudice/)" 种族偏见
-- "[prejudice](/post/prejudice/) someone's chances" 影响某人的机会
+- "[racial](/zh/post/racial/) [prejudice](/zh/post/prejudice/)" 种族偏见
+- "[prejudice](/zh/post/prejudice/) someone's chances" 影响某人的机会
 
 ## 例句
-- 名词: "It's [important](/post/important/) [to](/post/to/) [judge](/post/judge/) [people](/post/people/) based [on](/post/on/) [their](/post/their/) actions, [not](/post/not/) [on](/post/on/) [our](/post/our/) prejudices."
-- 动词: "[Her](/post/her/) [opinion](/post/opinion/) was prejudiced [by](/post/by/) [the](/post/the/) rumors [she](/post/she/) had heard."
+- 名词: "It's [important](/zh/post/important/) [to](/zh/post/to/) [judge](/zh/post/judge/) [people](/zh/post/people/) based [on](/zh/post/on/) [their](/zh/post/their/) actions, [not](/zh/post/not/) [on](/zh/post/on/) [our](/zh/post/our/) prejudices."
+- 动词: "[Her](/zh/post/her/) [opinion](/zh/post/opinion/) was prejudiced [by](/zh/post/by/) [the](/zh/post/the/) rumors [she](/zh/post/she/) had heard."
 
 ## 同义词
 - Bias

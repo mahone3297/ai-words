@@ -7,49 +7,49 @@ description = '[ˈriəlaiz] vt.实现；认识到'
 keywords = ['ai words', 'realize']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈaɪzəl/
 
 ## Definitions
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [realize](/en/post/realize/) (v):**
-   - **[Meaning](/en/post/meaning/)**: [To](/en/post/to/) [become](/en/post/become/) [aware](/en/post/aware/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [after](/en/post/after/) [some](/en/post/some/) [thought](/en/post/thought/) [or](/en/post/or/) [effort](/en/post/effort/); [to](/en/post/to/) comprehend [or](/en/post/or/) acknowledge [the](/en/post/the/) [truth](/en/post/truth/) [or](/en/post/or/) [significance](/en/post/significance/) [of](/en/post/of/) [a](/en/post/a/) [fact](/en/post/fact/), [idea](/en/post/idea/), [or](/en/post/or/) [situation](/en/post/situation/).
-   - **[Example](/en/post/example/)**: "[After](/en/post/after/) years [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [he](/en/post/he/) [finally](/en/post/finally/) realized [his](/en/post/his/) [dream](/en/post/dream/) [of](/en/post/of/) becoming [a](/en/post/a/) [doctor](/en/post/doctor/)."
-   - **Synonyms**: acknowledge, comprehend, [grasp](/en/post/grasp/), [understand](/en/post/understand/), [perceive](/en/post/perceive/)
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [realize](/post/realize/) (v):**
+   - **[Meaning](/post/meaning/)**: [To](/post/to/) [become](/post/become/) [aware](/post/aware/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [after](/post/after/) [some](/post/some/) [thought](/post/thought/) [or](/post/or/) [effort](/post/effort/); [to](/post/to/) comprehend [or](/post/or/) acknowledge [the](/post/the/) [truth](/post/truth/) [or](/post/or/) [significance](/post/significance/) [of](/post/of/) [a](/post/a/) [fact](/post/fact/), [idea](/post/idea/), [or](/post/or/) [situation](/post/situation/).
+   - **[Example](/post/example/)**: "[After](/post/after/) years [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) [finally](/post/finally/) realized [his](/post/his/) [dream](/post/dream/) [of](/post/of/) becoming [a](/post/a/) [doctor](/post/doctor/)."
+   - **Synonyms**: acknowledge, comprehend, [grasp](/post/grasp/), [understand](/post/understand/), [perceive](/post/perceive/)
 
-2. **[To](/en/post/to/) actualize (v, informal):**
-   - **[Meaning](/en/post/meaning/)**: [To](/en/post/to/) [bring](/en/post/bring/) (an [idea](/en/post/idea/) [or](/en/post/or/) [plan](/en/post/plan/)) [into](/en/post/into/) [existence](/en/post/existence/) [or](/en/post/or/) [reality](/en/post/reality/).
-   - **[Example](/en/post/example/)**: "[Their](/en/post/their/) [vision](/en/post/vision/) [for](/en/post/for/) [a](/en/post/a/) sustainable [community](/en/post/community/) was [successfully](/en/post/successfully/) realized [through](/en/post/through/) collaborative efforts."
+2. **[To](/post/to/) actualize (v, informal):**
+   - **[Meaning](/post/meaning/)**: [To](/post/to/) [bring](/post/bring/) (an [idea](/post/idea/) [or](/post/or/) [plan](/post/plan/)) [into](/post/into/) [existence](/post/existence/) [or](/post/or/) [reality](/post/reality/).
+   - **[Example](/post/example/)**: "[Their](/post/their/) [vision](/post/vision/) [for](/post/for/) [a](/post/a/) sustainable [community](/post/community/) was [successfully](/post/successfully/) realized [through](/post/through/) collaborative efforts."
 
-### [Noun](/en/post/noun/)
-- **Realization ([noun](/en/post/noun/)):**
-   - **[Meaning](/en/post/meaning/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) realizing [something](/en/post/something/), [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) realized.
-   - **[Example](/en/post/example/)**: "[The](/en/post/the/) realization [of](/en/post/of/) [their](/en/post/their/) shared [goal](/en/post/goal/) brought [them](/en/post/them/) closer [together](/en/post/together/)."
-   - **Synonyms**: [understanding](/en/post/understanding/), [comprehension](/en/post/comprehension/), awareness, realization, [achievement](/en/post/achievement/)
+### [Noun](/post/noun/)
+- **Realization ([noun](/post/noun/)):**
+   - **[Meaning](/post/meaning/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) realizing [something](/post/something/), [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) realized.
+   - **[Example](/post/example/)**: "[The](/post/the/) realization [of](/post/of/) [their](/post/their/) shared [goal](/post/goal/) brought [them](/post/them/) closer [together](/post/together/)."
+   - **Synonyms**: [understanding](/post/understanding/), [comprehension](/post/comprehension/), awareness, realization, [achievement](/post/achievement/)
 
-### [Adjective](/en/post/adjective/)
+### [Adjective](/post/adjective/)
 - **Realized (adj):**
-   - **[Meaning](/en/post/meaning/)**: Having been made [real](/en/post/real/) [or](/en/post/or/) [actual](/en/post/actual/); accomplished.
-   - **[Example](/en/post/example/)**: "[The](/en/post/the/) [project](/en/post/project/) was [a](/en/post/a/) realized [success](/en/post/success/), exceeding expectations."
-   - **Synonyms**: fulfilled, [actual](/en/post/actual/), implemented, attained
+   - **[Meaning](/post/meaning/)**: Having been made [real](/post/real/) [or](/post/or/) [actual](/post/actual/); accomplished.
+   - **[Example](/post/example/)**: "[The](/post/the/) [project](/post/project/) was [a](/post/a/) realized [success](/post/success/), exceeding expectations."
+   - **Synonyms**: fulfilled, [actual](/post/actual/), implemented, attained
 
 ## Phrases
-- "[Realize](/en/post/realize/) [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) [something](/en/post/something/)"
-- "[A](/en/post/a/) [sudden](/en/post/sudden/) realization [hit](/en/post/hit/) [him](/en/post/him/)"
-- "[The](/en/post/the/) realization [of](/en/post/of/) one's [potential](/en/post/potential/)"
-- "[The](/en/post/the/) project's realized benefits"
+- "[Realize](/post/realize/) [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [something](/post/something/)"
+- "[A](/post/a/) [sudden](/post/sudden/) realization [hit](/post/hit/) [him](/post/him/)"
+- "[The](/post/the/) realization [of](/post/of/) one's [potential](/post/potential/)"
+- "[The](/post/the/) project's realized benefits"
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[Only](/en/post/only/) [after](/en/post/after/) [the](/en/post/the/) [meeting](/en/post/meeting/) did [he](/en/post/he/) fully [realize](/en/post/realize/) [the](/en/post/the/) magnitude [of](/en/post/of/) [the](/en/post/the/) [problem](/en/post/problem/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) lifelong [dream](/en/post/dream/) had [finally](/en/post/finally/) [come](/en/post/come/) [to](/en/post/to/) fruition [with](/en/post/with/) [her](/en/post/her/) [music](/en/post/music/) album's realization."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [project](/en/post/project/) was [a](/en/post/a/) well-realized [plan](/en/post/plan/), [with](/en/post/with/) [all](/en/post/all/) components completed."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[Only](/post/only/) [after](/post/after/) [the](/post/the/) [meeting](/post/meeting/) did [he](/post/he/) fully [realize](/post/realize/) [the](/post/the/) magnitude [of](/post/of/) [the](/post/the/) [problem](/post/problem/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) lifelong [dream](/post/dream/) had [finally](/post/finally/) [come](/post/come/) [to](/post/to/) fruition [with](/post/with/) [her](/post/her/) [music](/post/music/) album's realization."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [project](/post/project/) was [a](/post/a/) well-realized [plan](/post/plan/), [with](/post/with/) [all](/post/all/) components completed."
 
 ## Synonyms
-- [Understand](/en/post/understand/)
-- [Become](/en/post/become/) [aware](/en/post/aware/) [of](/en/post/of/)
-- [Recognize](/en/post/recognize/)
+- [Understand](/post/understand/)
+- [Become](/post/become/) [aware](/post/aware/) [of](/post/of/)
+- [Recognize](/post/recognize/)
 - Acknowledge
-- [Achieve](/en/post/achieve/)
+- [Achieve](/post/achieve/)
 - Actualize
-- [Grasp](/en/post/grasp/)
-- [Perceive](/en/post/perceive/)
+- [Grasp](/post/grasp/)
+- [Perceive](/post/perceive/)

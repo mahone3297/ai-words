@@ -12,20 +12,20 @@ keywords = ['ai words', 'widen']
 
 ## 释义
 - **动词**:
-  - 扩大；放宽：使变得更宽或更广。例如: "[The](/post/the/) [road](/post/road/) has been widened [to](/post/to/) [accommodate](/post/accommodate/) [more](/post/more/) [traffic](/post/traffic/)."
-  - 增加（知识、视野等）：扩展或增加了解的范围。例如: "[Reading](/post/reading/) [different](/post/different/) genres [can](/post/can/) [widen](/post/widen/) [your](/post/your/) horizons."
+  - 扩大；放宽：使变得更宽或更广。例如: "[The](/zh/post/the/) [road](/zh/post/road/) has been widened [to](/zh/post/to/) [accommodate](/zh/post/accommodate/) [more](/zh/post/more/) [traffic](/zh/post/traffic/)."
+  - 增加（知识、视野等）：扩展或增加了解的范围。例如: "[Reading](/zh/post/reading/) [different](/zh/post/different/) genres [can](/zh/post/can/) [widen](/zh/post/widen/) [your](/zh/post/your/) horizons."
 
 ## 短语
-- "[widen](/post/widen/) [the](/post/the/) [gap](/post/gap/)" 增大差距或分歧。例如: "[Their](/post/their/) policies [only](/post/only/) [seem](/post/seem/) [to](/post/to/) [widen](/post/widen/) [the](/post/the/) [gap](/post/gap/) [between](/post/between/) [the](/post/the/) [rich](/post/rich/) [and](/post/and/) [the](/post/the/) [poor](/post/poor/)."
-- "[widen](/post/widen/) one's [perspective](/post/perspective/)" 扩大视野或观点。例如: "Traveling [can](/post/can/) [help](/post/help/) [to](/post/to/) [widen](/post/widen/) one's [perspective](/post/perspective/) [on](/post/on/) [life](/post/life/)."
+- "[widen](/zh/post/widen/) [the](/zh/post/the/) [gap](/zh/post/gap/)" 增大差距或分歧。例如: "[Their](/zh/post/their/) policies [only](/zh/post/only/) [seem](/zh/post/seem/) [to](/zh/post/to/) [widen](/zh/post/widen/) [the](/zh/post/the/) [gap](/zh/post/gap/) [between](/zh/post/between/) [the](/zh/post/the/) [rich](/zh/post/rich/) [and](/zh/post/and/) [the](/zh/post/the/) [poor](/zh/post/poor/)."
+- "[widen](/zh/post/widen/) one's [perspective](/zh/post/perspective/)" 扩大视野或观点。例如: "Traveling [can](/zh/post/can/) [help](/zh/post/help/) [to](/zh/post/to/) [widen](/zh/post/widen/) one's [perspective](/zh/post/perspective/) [on](/zh/post/on/) [life](/zh/post/life/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [government](/post/government/) plans [to](/post/to/) [widen](/post/widen/) [the](/post/the/) [main](/post/main/) [street](/post/street/) [to](/post/to/) [reduce](/post/reduce/) [traffic](/post/traffic/) congestion."
-- 动词: "Studying [abroad](/post/abroad/) widened [her](/post/her/) [understanding](/post/understanding/) [of](/post/of/) [different](/post/different/) cultures."
+- 动词: "[The](/zh/post/the/) [government](/zh/post/government/) plans [to](/zh/post/to/) [widen](/zh/post/widen/) [the](/zh/post/the/) [main](/zh/post/main/) [street](/zh/post/street/) [to](/zh/post/to/) [reduce](/zh/post/reduce/) [traffic](/zh/post/traffic/) congestion."
+- 动词: "Studying [abroad](/zh/post/abroad/) widened [her](/zh/post/her/) [understanding](/zh/post/understanding/) [of](/zh/post/of/) [different](/zh/post/different/) cultures."
 
 ## 同义词
-- [Expand](/post/expand/)
-- [Enlarge](/post/enlarge/)
+- [Expand](/zh/post/expand/)
+- [Enlarge](/zh/post/enlarge/)
 - Broaden
 - Augment
-- [Increase](/post/increase/)
+- [Increase](/zh/post/increase/)

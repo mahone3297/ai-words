@@ -7,37 +7,37 @@ description = '[viˈlɔsiti] n.速度，速率'
 keywords = ['ai words', 'velocity']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈvɛləsiˌtɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Velocity](/en/post/velocity/)** is [a](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [speed](/en/post/speed/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [direction](/en/post/direction/). [It](/en/post/it/) combines [both](/en/post/both/) [the](/en/post/the/) magnitude ([speed](/en/post/speed/)) [and](/en/post/and/) [direction](/en/post/direction/) [of](/en/post/of/) [motion](/en/post/motion/).
+### [Noun](/post/noun/)
+**[Velocity](/post/velocity/)** is [a](/post/a/) [measure](/post/measure/) [of](/post/of/) [speed](/post/speed/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [direction](/post/direction/). [It](/post/it/) combines [both](/post/both/) [the](/post/the/) magnitude ([speed](/post/speed/)) [and](/post/and/) [direction](/post/direction/) [of](/post/of/) [motion](/post/motion/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[move](/en/post/move/) [with](/en/post/with/) [velocity](/en/post/velocity/)** [or](/en/post/or/) **[achieve](/en/post/achieve/) [velocity](/en/post/velocity/)** [means](/en/post/means/) [to](/en/post/to/) [travel](/en/post/travel/) [quickly](/en/post/quickly/) [or](/en/post/or/) [change](/en/post/change/) [position](/en/post/position/) [rapidly](/en/post/rapidly/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[move](/post/move/) [with](/post/with/) [velocity](/post/velocity/)** [or](/post/or/) **[achieve](/post/achieve/) [velocity](/post/velocity/)** [means](/post/means/) [to](/post/to/) [travel](/post/travel/) [quickly](/post/quickly/) [or](/post/or/) [change](/post/change/) [position](/post/position/) [rapidly](/post/rapidly/).
 
 ## Phrases
-- "[Reach](/en/post/reach/) [a](/en/post/a/) [high](/en/post/high/) [velocity](/en/post/velocity/)" signifies achieving [a](/en/post/a/) [rapid](/en/post/rapid/) [speed](/en/post/speed/).
-- "[Maintain](/en/post/maintain/) [a](/en/post/a/) [constant](/en/post/constant/) [velocity](/en/post/velocity/)" refers [to](/en/post/to/) moving [at](/en/post/at/) [a](/en/post/a/) [steady](/en/post/steady/) [pace](/en/post/pace/).
-- "Decelerate [to](/en/post/to/) [a](/en/post/a/) [safe](/en/post/safe/) [velocity](/en/post/velocity/)" [means](/en/post/means/) slowing [down](/en/post/down/) [gradually](/en/post/gradually/).
+- "[Reach](/post/reach/) [a](/post/a/) [high](/post/high/) [velocity](/post/velocity/)" signifies achieving [a](/post/a/) [rapid](/post/rapid/) [speed](/post/speed/).
+- "[Maintain](/post/maintain/) [a](/post/a/) [constant](/post/constant/) [velocity](/post/velocity/)" refers [to](/post/to/) moving [at](/post/at/) [a](/post/a/) [steady](/post/steady/) [pace](/post/pace/).
+- "Decelerate [to](/post/to/) [a](/post/a/) [safe](/post/safe/) [velocity](/post/velocity/)" [means](/post/means/) slowing [down](/post/down/) [gradually](/post/gradually/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [car](/en/post/car/) accelerated [to](/en/post/to/) [a](/en/post/a/) [high](/en/post/high/) [velocity](/en/post/velocity/) [on](/en/post/on/) [the](/en/post/the/) [highway](/en/post/highway/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [astronaut](/en/post/astronaut/) maneuvered [the](/en/post/the/) [spacecraft](/en/post/spacecraft/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [constant](/en/post/constant/) [velocity](/en/post/velocity/) [during](/en/post/during/) [orbit](/en/post/orbit/)."
-- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) bullet's [velocity](/en/post/velocity/) [upon](/en/post/upon/) [impact](/en/post/impact/) was crucial [to](/en/post/to/) [its](/en/post/its/) effectiveness."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [car](/post/car/) accelerated [to](/post/to/) [a](/post/a/) [high](/post/high/) [velocity](/post/velocity/) [on](/post/on/) [the](/post/the/) [highway](/post/highway/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [astronaut](/post/astronaut/) maneuvered [the](/post/the/) [spacecraft](/post/spacecraft/) [to](/post/to/) [maintain](/post/maintain/) [a](/post/a/) [constant](/post/constant/) [velocity](/post/velocity/) [during](/post/during/) [orbit](/post/orbit/)."
+- **Phrasal [Verb](/post/verb/)**: "[The](/post/the/) bullet's [velocity](/post/velocity/) [upon](/post/upon/) [impact](/post/impact/) was crucial [to](/post/to/) [its](/post/its/) effectiveness."
 
 ## Synonyms
-- [Speed](/en/post/speed/)
-- [Rate](/en/post/rate/)
-- [Pace](/en/post/pace/)
+- [Speed](/post/speed/)
+- [Rate](/post/rate/)
+- [Pace](/post/pace/)
 - Speediness
-- Kinetic [energy](/en/post/energy/)
-- [Motion](/en/post/motion/)
+- Kinetic [energy](/post/energy/)
+- [Motion](/post/motion/)
 
 ## Antonyms
 - Slowness
 - Slowdown
 - Stagnation
 - Inertia
-- [Lack](/en/post/lack/) [of](/en/post/of/) [movement](/en/post/movement/)
+- [Lack](/post/lack/) [of](/post/of/) [movement](/post/movement/)

@@ -7,39 +7,39 @@ description = '[brɑːs] n.黄铜；黄铜器'
 keywords = ['ai words', 'brass']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bræs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Brass](/en/post/brass/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [metal](/en/post/metal/) [alloy](/en/post/alloy/), typically made [primarily](/en/post/primarily/) [of](/en/post/of/) [copper](/en/post/copper/) [with](/en/post/with/) zinc, [that](/en/post/that/) has [a](/en/post/a/) yellowish-gold [color](/en/post/color/) [and](/en/post/and/) is known [for](/en/post/for/) [its](/en/post/its/) durability [and](/en/post/and/) decorative properties. [It](/en/post/it/) is [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [musical](/en/post/musical/) instruments, [household](/en/post/household/) items, [and](/en/post/and/) [as](/en/post/as/) [a](/en/post/a/) [material](/en/post/material/) [for](/en/post/for/) sculptures.
-- **[Brass](/en/post/brass/) [band](/en/post/band/)**: [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) musicians [who](/en/post/who/) [play](/en/post/play/) [music](/en/post/music/), [especially](/en/post/especially/) [military](/en/post/military/) marches, [on](/en/post/on/) [brass](/en/post/brass/) instruments.
-- **Brassiere**: [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) undergarment worn [to](/en/post/to/) [support](/en/post/support/) [and](/en/post/and/) [shape](/en/post/shape/) [the](/en/post/the/) breasts.
+### [Noun](/post/noun/)
+- **[Brass](/post/brass/)**: [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [type](/post/type/) [of](/post/of/) [metal](/post/metal/) [alloy](/post/alloy/), typically made [primarily](/post/primarily/) [of](/post/of/) [copper](/post/copper/) [with](/post/with/) zinc, [that](/post/that/) has [a](/post/a/) yellowish-gold [color](/post/color/) [and](/post/and/) is known [for](/post/for/) [its](/post/its/) durability [and](/post/and/) decorative properties. [It](/post/it/) is [often](/post/often/) [used](/post/used/) [in](/post/in/) [musical](/post/musical/) instruments, [household](/post/household/) items, [and](/post/and/) [as](/post/as/) [a](/post/a/) [material](/post/material/) [for](/post/for/) sculptures.
+- **[Brass](/post/brass/) [band](/post/band/)**: [A](/post/a/) [group](/post/group/) [of](/post/of/) musicians [who](/post/who/) [play](/post/play/) [music](/post/music/), [especially](/post/especially/) [military](/post/military/) marches, [on](/post/on/) [brass](/post/brass/) instruments.
+- **Brassiere**: [A](/post/a/) [type](/post/type/) [of](/post/of/) undergarment worn [to](/post/to/) [support](/post/support/) [and](/post/and/) [shape](/post/shape/) [the](/post/the/) breasts.
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [brass](/en/post/brass/)**: [Not](/en/post/not/) [a](/en/post/a/) [common](/en/post/common/) [verb](/en/post/verb/) [in](/en/post/in/) [standard](/en/post/standard/) English; it's [not](/en/post/not/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) an [action](/en/post/action/) related [to](/en/post/to/) [the](/en/post/the/) [noun](/en/post/noun/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [brass](/post/brass/)**: [Not](/post/not/) [a](/post/a/) [common](/post/common/) [verb](/post/verb/) [in](/post/in/) [standard](/post/standard/) English; it's [not](/post/not/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) an [action](/post/action/) related [to](/post/to/) [the](/post/the/) [noun](/post/noun/).
 
-### [Adjective](/en/post/adjective/)
-- **Brassy**: Describing [something](/en/post/something/) [that](/en/post/that/) has [a](/en/post/a/) [bright](/en/post/bright/), shiny, [or](/en/post/or/) metallic [appearance](/en/post/appearance/), [similar](/en/post/similar/) [to](/en/post/to/) [brass](/en/post/brass/). [Can](/en/post/can/) [also](/en/post/also/) [imply](/en/post/imply/) showiness [or](/en/post/or/) arrogance.
+### [Adjective](/post/adjective/)
+- **Brassy**: Describing [something](/post/something/) [that](/post/that/) has [a](/post/a/) [bright](/post/bright/), shiny, [or](/post/or/) metallic [appearance](/post/appearance/), [similar](/post/similar/) [to](/post/to/) [brass](/post/brass/). [Can](/post/can/) [also](/post/also/) [imply](/post/imply/) showiness [or](/post/or/) arrogance.
 
-### [Adverb](/en/post/adverb/)
-- [Not](/en/post/not/) [applicable](/en/post/applicable/) [for](/en/post/for/) "[brass](/en/post/brass/)" [as](/en/post/as/) an [adverb](/en/post/adverb/).
+### [Adverb](/post/adverb/)
+- [Not](/post/not/) [applicable](/post/applicable/) [for](/post/for/) "[brass](/post/brass/)" [as](/post/as/) an [adverb](/post/adverb/).
 
 ## Phrases
-- "Made [of](/en/post/of/) [brass](/en/post/brass/)" [to](/en/post/to/) [describe](/en/post/describe/) an object's [material](/en/post/material/).
-- "[A](/en/post/a/) [brass](/en/post/brass/) [instrument](/en/post/instrument/) [section](/en/post/section/)" [in](/en/post/in/) [a](/en/post/a/) [musical](/en/post/musical/) ensemble.
-- "[She](/en/post/she/) played [the](/en/post/the/) [trumpet](/en/post/trumpet/) [with](/en/post/with/) [a](/en/post/a/) [strong](/en/post/strong/) [brass](/en/post/brass/) [tone](/en/post/tone/)."
+- "Made [of](/post/of/) [brass](/post/brass/)" [to](/post/to/) [describe](/post/describe/) an object's [material](/post/material/).
+- "[A](/post/a/) [brass](/post/brass/) [instrument](/post/instrument/) [section](/post/section/)" [in](/post/in/) [a](/post/a/) [musical](/post/musical/) ensemble.
+- "[She](/post/she/) played [the](/post/the/) [trumpet](/post/trumpet/) [with](/post/with/) [a](/post/a/) [strong](/post/strong/) [brass](/post/brass/) [tone](/post/tone/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [statue](/en/post/statue/) was made [of](/en/post/of/) [solid](/en/post/solid/) [brass](/en/post/brass/) [and](/en/post/and/) had intricate designs."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) brassy [light](/en/post/light/) [from](/en/post/from/) [the](/en/post/the/) [street](/en/post/street/) [lamp](/en/post/lamp/) reflected [off](/en/post/off/) [the](/en/post/the/) [brass](/en/post/brass/) doorknob."
-- **[Not](/en/post/not/) [applicable](/en/post/applicable/) ([verb](/en/post/verb/))**
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [statue](/post/statue/) was made [of](/post/of/) [solid](/post/solid/) [brass](/post/brass/) [and](/post/and/) had intricate designs."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) brassy [light](/post/light/) [from](/post/from/) [the](/post/the/) [street](/post/street/) [lamp](/post/lamp/) reflected [off](/post/off/) [the](/post/the/) [brass](/post/brass/) doorknob."
+- **[Not](/post/not/) [applicable](/post/applicable/) ([verb](/post/verb/))**
 
 ## Synonyms
 - Coppery
 - Gold-plated
-- [Yellow](/en/post/yellow/) [metal](/en/post/metal/)
+- [Yellow](/post/yellow/) [metal](/post/metal/)
 - Metalwork
 - Ornamental
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) "[to](/en/post/to/) [brass](/en/post/brass/)" is [not](/en/post/not/) [a](/en/post/a/) [standard](/en/post/standard/) English [usage](/en/post/usage/), [so](/en/post/so/) [there](/en/post/there/) aren't [any](/en/post/any/) synonyms specifically [for](/en/post/for/) [that](/en/post/that/) context.
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [form](/post/form/) "[to](/post/to/) [brass](/post/brass/)" is [not](/post/not/) [a](/post/a/) [standard](/post/standard/) English [usage](/post/usage/), [so](/post/so/) [there](/post/there/) aren't [any](/post/any/) synonyms specifically [for](/post/for/) [that](/post/that/) context.

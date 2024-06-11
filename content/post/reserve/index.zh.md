@@ -12,29 +12,29 @@ keywords = ['ai words', 'reserve']
 
 ## 释义
 - **名词**:
-  - 预留；预订：例如 "I've booked [a](/post/a/) [table](/post/table/) [at](/post/at/) [the](/post/the/) [restaurant](/post/restaurant/), [so](/post/so/) [we](/post/we/) [have](/post/have/) [a](/post/a/) [reserve](/post/reserve/)."
-  - 储备；储存：例如 "[The](/post/the/) [bank](/post/bank/) keeps [large](/post/large/) reserves [of](/post/of/) [cash](/post/cash/) [to](/post/to/) [handle](/post/handle/) withdrawals."
-  - 保护区；保护区的动物：例如 "[The](/post/the/) wildlife [reserve](/post/reserve/) is [home](/post/home/) [to](/post/to/) endangered species."
-  - （体育）替补队员：例如 "[The](/post/the/) [reserve](/post/reserve/) [player](/post/player/) stepped [in](/post/in/) [when](/post/when/) [the](/post/the/) starter got injured."
+  - 预留；预订：例如 "I've booked [a](/zh/post/a/) [table](/zh/post/table/) [at](/zh/post/at/) [the](/zh/post/the/) [restaurant](/zh/post/restaurant/), [so](/zh/post/so/) [we](/zh/post/we/) [have](/zh/post/have/) [a](/zh/post/a/) [reserve](/zh/post/reserve/)."
+  - 储备；储存：例如 "[The](/zh/post/the/) [bank](/zh/post/bank/) keeps [large](/zh/post/large/) reserves [of](/zh/post/of/) [cash](/zh/post/cash/) [to](/zh/post/to/) [handle](/zh/post/handle/) withdrawals."
+  - 保护区；保护区的动物：例如 "[The](/zh/post/the/) wildlife [reserve](/zh/post/reserve/) is [home](/zh/post/home/) [to](/zh/post/to/) endangered species."
+  - （体育）替补队员：例如 "[The](/zh/post/the/) [reserve](/zh/post/reserve/) [player](/zh/post/player/) stepped [in](/zh/post/in/) [when](/zh/post/when/) [the](/zh/post/the/) starter got injured."
 
 - **动词**:
-  - 预定；预留：例如 "[Please](/post/please/) [reserve](/post/reserve/) [a](/post/a/) [hotel](/post/hotel/) [room](/post/room/) [for](/post/for/) [two](/post/two/) nights."
-  - 保存；保留：例如 "[We](/post/we/) [need](/post/need/) [to](/post/to/) [reserve](/post/reserve/) [some](/post/some/) [energy](/post/energy/) [for](/post/for/) [the](/post/the/) [final](/post/final/) sprint."
-  - （在金融中）储备：例如 "Banks are required [to](/post/to/) [reserve](/post/reserve/) [a](/post/a/) [certain](/post/certain/) [percentage](/post/percentage/) [of](/post/of/) deposits."
+  - 预定；预留：例如 "[Please](/zh/post/please/) [reserve](/zh/post/reserve/) [a](/zh/post/a/) [hotel](/zh/post/hotel/) [room](/zh/post/room/) [for](/zh/post/for/) [two](/zh/post/two/) nights."
+  - 保存；保留：例如 "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [reserve](/zh/post/reserve/) [some](/zh/post/some/) [energy](/zh/post/energy/) [for](/zh/post/for/) [the](/zh/post/the/) [final](/zh/post/final/) sprint."
+  - （在金融中）储备：例如 "Banks are required [to](/zh/post/to/) [reserve](/zh/post/reserve/) [a](/zh/post/a/) [certain](/zh/post/certain/) [percentage](/zh/post/percentage/) [of](/zh/post/of/) deposits."
 
 ## 短语
-- "[reserve](/post/reserve/) [a](/post/a/) [seat](/post/seat/)" 预定座位
-- "[reserve](/post/reserve/) funds" 储备金
-- "[reserve](/post/reserve/) [the](/post/the/) [right](/post/right/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" 保有做某事的权利
+- "[reserve](/zh/post/reserve/) [a](/zh/post/a/) [seat](/zh/post/seat/)" 预定座位
+- "[reserve](/zh/post/reserve/) funds" 储备金
+- "[reserve](/zh/post/reserve/) [the](/zh/post/the/) [right](/zh/post/right/) [to](/zh/post/to/) [do](/zh/post/do/) [something](/zh/post/something/)" 保有做某事的权利
 
 ## 例句
-- 名词: "[The](/post/the/) [hotel](/post/hotel/) has [a](/post/a/) [policy](/post/policy/) [of](/post/of/) holding [a](/post/a/) [certain](/post/certain/) [number](/post/number/) [of](/post/of/) rooms [as](/post/as/) reserves [for](/post/for/) [regular](/post/regular/) guests."
-- 动词: "[Can](/post/can/) [you](/post/you/) [reserve](/post/reserve/) [a](/post/a/) [table](/post/table/) [for](/post/for/) [six](/post/six/) [people](/post/people/) [at](/post/at/) [the](/post/the/) Italian [restaurant](/post/restaurant/)?"
-- 副词: "[The](/post/the/) team's [star](/post/star/) [player](/post/player/) was injured, [so](/post/so/) [they](/post/they/) called [up](/post/up/) [a](/post/a/) [reserve](/post/reserve/) [from](/post/from/) [the](/post/the/) minors."
+- 名词: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) has [a](/zh/post/a/) [policy](/zh/post/policy/) [of](/zh/post/of/) holding [a](/zh/post/a/) [certain](/zh/post/certain/) [number](/zh/post/number/) [of](/zh/post/of/) rooms [as](/zh/post/as/) reserves [for](/zh/post/for/) [regular](/zh/post/regular/) guests."
+- 动词: "[Can](/zh/post/can/) [you](/zh/post/you/) [reserve](/zh/post/reserve/) [a](/zh/post/a/) [table](/zh/post/table/) [for](/zh/post/for/) [six](/zh/post/six/) [people](/zh/post/people/) [at](/zh/post/at/) [the](/zh/post/the/) Italian [restaurant](/zh/post/restaurant/)?"
+- 副词: "[The](/zh/post/the/) team's [star](/zh/post/star/) [player](/zh/post/player/) was injured, [so](/zh/post/so/) [they](/zh/post/they/) called [up](/zh/post/up/) [a](/zh/post/a/) [reserve](/zh/post/reserve/) [from](/zh/post/from/) [the](/zh/post/the/) minors."
 
 ## 同义词
-- [keep](/post/keep/) [back](/post/back/)
-- [hold](/post/hold/) [in](/post/in/) [store](/post/store/)
-- [set](/post/set/) [aside](/post/aside/)
-- [save](/post/save/) [up](/post/up/)
+- [keep](/zh/post/keep/) [back](/zh/post/back/)
+- [hold](/zh/post/hold/) [in](/zh/post/in/) [store](/zh/post/store/)
+- [set](/zh/post/set/) [aside](/zh/post/aside/)
+- [save](/zh/post/save/) [up](/zh/post/up/)
 - allocate

@@ -11,18 +11,18 @@ keywords = ['ai words', 'textbook']
 /ˈtekstboʊk/
 
 ## 释义
-- **名词 (n)**: 一种正式的教科书，通常在学校里使用，包含特定主题的详细信息和练习。例如: "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) [textbook](/post/textbook/) [for](/post/for/) [my](/post/my/) [history](/post/history/) [class](/post/class/)."
+- **名词 (n)**: 一种正式的教科书，通常在学校里使用，包含特定主题的详细信息和练习。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [buy](/zh/post/buy/) [a](/zh/post/a/) [new](/zh/post/new/) [textbook](/zh/post/textbook/) [for](/zh/post/for/) [my](/zh/post/my/) [history](/zh/post/history/) [class](/zh/post/class/)."
   
 ## 短语
-- "[Follow](/post/follow/) [the](/post/the/) [textbook](/post/textbook/)" 意味着按照书中的指导进行学习。
-- "[Open](/post/open/) [your](/post/your/) textbooks" 是教师在课堂上让学生准备上课的指示。
+- "[Follow](/zh/post/follow/) [the](/zh/post/the/) [textbook](/zh/post/textbook/)" 意味着按照书中的指导进行学习。
+- "[Open](/zh/post/open/) [your](/zh/post/your/) textbooks" 是教师在课堂上让学生准备上课的指示。
 
 ## 例句
-- 名词: "[The](/post/the/) students were asked [to](/post/to/) [read](/post/read/) [Chapter](/post/chapter/) 3 [in](/post/in/) [their](/post/their/) [chemistry](/post/chemistry/) textbooks."
+- 名词: "[The](/zh/post/the/) students were asked [to](/zh/post/to/) [read](/zh/post/read/) [Chapter](/zh/post/chapter/) 3 [in](/zh/post/in/) [their](/zh/post/their/) [chemistry](/zh/post/chemistry/) textbooks."
 
 ## 同义词
 - Coursebook
-- [Study](/post/study/) [guide](/post/guide/)
-- [Manual](/post/manual/)
-- [Reference](/post/reference/) [book](/post/book/)
+- [Study](/zh/post/study/) [guide](/zh/post/guide/)
+- [Manual](/zh/post/manual/)
+- [Reference](/zh/post/reference/) [book](/zh/post/book/)
 - Workbook

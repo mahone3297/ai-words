@@ -7,36 +7,36 @@ description = '[dəus] n.剂量，用量；一剂'
 keywords = ['ai words', 'dose']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dəʊs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [quantity](/en/post/quantity/) [of](/en/post/of/) [medicine](/en/post/medicine/) [or](/en/post/or/) [other](/en/post/other/) [substance](/en/post/substance/) given [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/), [especially](/en/post/especially/) [at](/en/post/at/) [regular](/en/post/regular/) intervals**: "[The](/en/post/the/) [doctor](/en/post/doctor/) prescribed [a](/en/post/a/) [daily](/en/post/daily/) [dose](/en/post/dose/) [of](/en/post/of/) medication."
-2. **[The](/en/post/the/) [effect](/en/post/effect/) [or](/en/post/or/) [impact](/en/post/impact/) [of](/en/post/of/) [something](/en/post/something/)**: "[His](/en/post/his/) words had [a](/en/post/a/) [strong](/en/post/strong/) [dose](/en/post/dose/) [of](/en/post/of/) [truth](/en/post/truth/)."
-3. **An [amount](/en/post/amount/) [or](/en/post/or/) serving [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [substance](/en/post/substance/)**: "[A](/en/post/a/) [shot](/en/post/shot/) [of](/en/post/of/) espresso contains [a](/en/post/a/) [double](/en/post/double/) [dose](/en/post/dose/) [of](/en/post/of/) caffeine."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [quantity](/post/quantity/) [of](/post/of/) [medicine](/post/medicine/) [or](/post/or/) [other](/post/other/) [substance](/post/substance/) given [to](/post/to/) [a](/post/a/) [person](/post/person/), [especially](/post/especially/) [at](/post/at/) [regular](/post/regular/) intervals**: "[The](/post/the/) [doctor](/post/doctor/) prescribed [a](/post/a/) [daily](/post/daily/) [dose](/post/dose/) [of](/post/of/) medication."
+2. **[The](/post/the/) [effect](/post/effect/) [or](/post/or/) [impact](/post/impact/) [of](/post/of/) [something](/post/something/)**: "[His](/post/his/) words had [a](/post/a/) [strong](/post/strong/) [dose](/post/dose/) [of](/post/of/) [truth](/post/truth/)."
+3. **An [amount](/post/amount/) [or](/post/or/) serving [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [substance](/post/substance/)**: "[A](/post/a/) [shot](/post/shot/) [of](/post/of/) espresso contains [a](/post/a/) [double](/post/double/) [dose](/post/dose/) [of](/post/of/) caffeine."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) administer [or](/en/post/or/) [take](/en/post/take/) [a](/en/post/a/) specified [amount](/en/post/amount/) [of](/en/post/of/) ([medicine](/en/post/medicine/) [or](/en/post/or/) [a](/en/post/a/) [substance](/en/post/substance/))**: "[She](/en/post/she/) took [her](/en/post/her/) [morning](/en/post/morning/) [dose](/en/post/dose/) [of](/en/post/of/) vitamins."
-2. **[To](/en/post/to/) [give](/en/post/give/) [or](/en/post/or/) [provide](/en/post/provide/) [a](/en/post/a/) [particular](/en/post/particular/) [quantity](/en/post/quantity/)**: "[He](/en/post/he/) dosed [the](/en/post/the/) plants [with](/en/post/with/) [fertilizer](/en/post/fertilizer/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) administer [or](/post/or/) [take](/post/take/) [a](/post/a/) specified [amount](/post/amount/) [of](/post/of/) ([medicine](/post/medicine/) [or](/post/or/) [a](/post/a/) [substance](/post/substance/))**: "[She](/post/she/) took [her](/post/her/) [morning](/post/morning/) [dose](/post/dose/) [of](/post/of/) vitamins."
+2. **[To](/post/to/) [give](/post/give/) [or](/post/or/) [provide](/post/provide/) [a](/post/a/) [particular](/post/particular/) [quantity](/post/quantity/)**: "[He](/post/he/) dosed [the](/post/the/) plants [with](/post/with/) [fertilizer](/post/fertilizer/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Involving [or](/en/post/or/) relating [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [amount](/en/post/amount/) [or](/en/post/or/) [quantity](/en/post/quantity/)**: "[The](/en/post/the/) high-dose [experiment](/en/post/experiment/) showed [promising](/en/post/promising/) results."
+### [Adjective](/post/adjective/)
+1. **Involving [or](/post/or/) relating [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [amount](/post/amount/) [or](/post/or/) [quantity](/post/quantity/)**: "[The](/post/the/) high-dose [experiment](/post/experiment/) showed [promising](/post/promising/) results."
 
 ## Phrases
-- "[Take](/en/post/take/) [two](/en/post/two/) doses [a](/en/post/a/) [day](/en/post/day/)" [means](/en/post/means/) [to](/en/post/to/) [consume](/en/post/consume/) [the](/en/post/the/) [medicine](/en/post/medicine/) [twice](/en/post/twice/) [daily](/en/post/daily/).
-- "[A](/en/post/a/) [double](/en/post/double/) [dose](/en/post/dose/)" refers [to](/en/post/to/) [a](/en/post/a/) larger [than](/en/post/than/) [normal](/en/post/normal/) [amount](/en/post/amount/).
-- "Dose-dependent effects" [describe](/en/post/describe/) reactions [that](/en/post/that/) [vary](/en/post/vary/) depending [on](/en/post/on/) [the](/en/post/the/) [amount](/en/post/amount/) taken.
+- "[Take](/post/take/) [two](/post/two/) doses [a](/post/a/) [day](/post/day/)" [means](/post/means/) [to](/post/to/) [consume](/post/consume/) [the](/post/the/) [medicine](/post/medicine/) [twice](/post/twice/) [daily](/post/daily/).
+- "[A](/post/a/) [double](/post/double/) [dose](/post/dose/)" refers [to](/post/to/) [a](/post/a/) larger [than](/post/than/) [normal](/post/normal/) [amount](/post/amount/).
+- "Dose-dependent effects" [describe](/post/describe/) reactions [that](/post/that/) [vary](/post/vary/) depending [on](/post/on/) [the](/post/the/) [amount](/post/amount/) taken.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [patient](/en/post/patient/) was carefully monitored [for](/en/post/for/) [any](/en/post/any/) adverse effects [after](/en/post/after/) taking [the](/en/post/the/) [new](/en/post/new/) [dose](/en/post/dose/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) pharmacist reminded [him](/en/post/him/) [to](/en/post/to/) [take](/en/post/take/) [his](/en/post/his/) antibiotics [exactly](/en/post/exactly/) [as](/en/post/as/) prescribed, [three](/en/post/three/) times [a](/en/post/a/) [day](/en/post/day/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) high-dose chemotherapy caused [severe](/en/post/severe/) [side](/en/post/side/) effects [in](/en/post/in/) [some](/en/post/some/) patients."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [patient](/post/patient/) was carefully monitored [for](/post/for/) [any](/post/any/) adverse effects [after](/post/after/) taking [the](/post/the/) [new](/post/new/) [dose](/post/dose/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) pharmacist reminded [him](/post/him/) [to](/post/to/) [take](/post/take/) [his](/post/his/) antibiotics [exactly](/post/exactly/) [as](/post/as/) prescribed, [three](/post/three/) times [a](/post/a/) [day](/post/day/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) high-dose chemotherapy caused [severe](/post/severe/) [side](/post/side/) effects [in](/post/in/) [some](/post/some/) patients."
 
 ## Synonyms
-- [Amount](/en/post/amount/)
-- [Quantity](/en/post/quantity/)
+- [Amount](/post/amount/)
+- [Quantity](/post/quantity/)
 - Dose-size
 - Dose-amount
 - Serving
-- [Amount](/en/post/amount/) [of](/en/post/of/) [medicine](/en/post/medicine/)
+- [Amount](/post/amount/) [of](/post/of/) [medicine](/post/medicine/)

@@ -7,46 +7,46 @@ description = '[ˈprəugræm] n.节目单；大纲；程序'
 keywords = ['ai words', 'program']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prəˈgræm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [sequence](/en/post/sequence/) [of](/en/post/of/) instructions designed [to](/en/post/to/) [be](/en/post/be/) executed [by](/en/post/by/) [a](/en/post/a/) [computer](/en/post/computer/), [often](/en/post/often/) [for](/en/post/for/) performing [a](/en/post/a/) [specific](/en/post/specific/) [task](/en/post/task/) [or](/en/post/or/) [operation](/en/post/operation/).
-   - "[The](/en/post/the/) [computer](/en/post/computer/) runs [various](/en/post/various/) programs [to](/en/post/to/) [manage](/en/post/manage/) [its](/en/post/its/) functions."
-2. [A](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) organized steps [or](/en/post/or/) tasks [that](/en/post/that/) [make](/en/post/make/) [up](/en/post/up/) [a](/en/post/a/) [project](/en/post/project/) [or](/en/post/or/) [activity](/en/post/activity/).
-   - "[The](/en/post/the/) school's after-school [program](/en/post/program/) includes sports [and](/en/post/and/) arts activities."
-3. An [instance](/en/post/instance/) [of](/en/post/of/) [a](/en/post/a/) software [application](/en/post/application/).
-   - "I [need](/en/post/need/) [to](/en/post/to/) update [my](/en/post/my/) antivirus [program](/en/post/program/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [sequence](/post/sequence/) [of](/post/of/) instructions designed [to](/post/to/) [be](/post/be/) executed [by](/post/by/) [a](/post/a/) [computer](/post/computer/), [often](/post/often/) [for](/post/for/) performing [a](/post/a/) [specific](/post/specific/) [task](/post/task/) [or](/post/or/) [operation](/post/operation/).
+   - "[The](/post/the/) [computer](/post/computer/) runs [various](/post/various/) programs [to](/post/to/) [manage](/post/manage/) [its](/post/its/) functions."
+2. [A](/post/a/) [set](/post/set/) [of](/post/of/) organized steps [or](/post/or/) tasks [that](/post/that/) [make](/post/make/) [up](/post/up/) [a](/post/a/) [project](/post/project/) [or](/post/or/) [activity](/post/activity/).
+   - "[The](/post/the/) school's after-school [program](/post/program/) includes sports [and](/post/and/) arts activities."
+3. An [instance](/post/instance/) [of](/post/of/) [a](/post/a/) software [application](/post/application/).
+   - "I [need](/post/need/) [to](/post/to/) update [my](/post/my/) antivirus [program](/post/program/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) initiate [or](/en/post/or/) [start](/en/post/start/) ([a](/en/post/a/) [computer](/en/post/computer/) [process](/en/post/process/) [or](/en/post/or/) software).
-   - "[To](/en/post/to/) [run](/en/post/run/) [the](/en/post/the/) [program](/en/post/program/), double-click [on](/en/post/on/) [the](/en/post/the/) icon."
-2. [To](/en/post/to/) [carry](/en/post/carry/) [out](/en/post/out/) [or](/en/post/or/) [execute](/en/post/execute/) [a](/en/post/a/) [plan](/en/post/plan/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) actions.
-   - "[The](/en/post/the/) [team](/en/post/team/) programmed [a](/en/post/a/) [new](/en/post/new/) marketing [campaign](/en/post/campaign/) [for](/en/post/for/) [the](/en/post/the/) [product](/en/post/product/) [launch](/en/post/launch/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) initiate [or](/post/or/) [start](/post/start/) ([a](/post/a/) [computer](/post/computer/) [process](/post/process/) [or](/post/or/) software).
+   - "[To](/post/to/) [run](/post/run/) [the](/post/the/) [program](/post/program/), double-click [on](/post/on/) [the](/post/the/) icon."
+2. [To](/post/to/) [carry](/post/carry/) [out](/post/out/) [or](/post/or/) [execute](/post/execute/) [a](/post/a/) [plan](/post/plan/) [or](/post/or/) [series](/post/series/) [of](/post/of/) actions.
+   - "[The](/post/the/) [team](/post/team/) programmed [a](/post/a/) [new](/post/new/) marketing [campaign](/post/campaign/) [for](/post/for/) [the](/post/the/) [product](/post/product/) [launch](/post/launch/)."
 
 ## Phrases
-- "[Run](/en/post/run/) [a](/en/post/a/) [program](/en/post/program/)"
-- "[Install](/en/post/install/) [a](/en/post/a/) [program](/en/post/program/)"
-- "[Write](/en/post/write/) [a](/en/post/a/) [program](/en/post/program/)"
+- "[Run](/post/run/) [a](/post/a/) [program](/post/program/)"
+- "[Install](/post/install/) [a](/post/a/) [program](/post/program/)"
+- "[Write](/post/write/) [a](/post/a/) [program](/post/program/)"
 - "Programmed events"
-- "Automated [program](/en/post/program/)"
+- "Automated [program](/post/program/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) spent hours [writing](/en/post/writing/) [a](/en/post/a/) [program](/en/post/program/) [to](/en/post/to/) analyze [customer](/en/post/customer/) [data](/en/post/data/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [IT](/en/post/it/) [specialist](/en/post/specialist/) programmed [the](/en/post/the/) server [to](/en/post/to/) [back](/en/post/back/) [up](/en/post/up/) files [every](/en/post/every/) [night](/en/post/night/)."
-- **Phrases**: "[The](/en/post/the/) [program](/en/post/program/) was designed [to](/en/post/to/) streamline [the](/en/post/the/) workflow."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) spent hours [writing](/post/writing/) [a](/post/a/) [program](/post/program/) [to](/post/to/) analyze [customer](/post/customer/) [data](/post/data/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [IT](/post/it/) [specialist](/post/specialist/) programmed [the](/post/the/) server [to](/post/to/) [back](/post/back/) [up](/post/up/) files [every](/post/every/) [night](/post/night/)."
+- **Phrases**: "[The](/post/the/) [program](/post/program/) was designed [to](/post/to/) streamline [the](/post/the/) workflow."
 
 ## Synonyms
 - Software
-- [Application](/en/post/application/)
-- [Code](/en/post/code/)
+- [Application](/post/application/)
+- [Code](/post/code/)
 - Script
-- [Routine](/en/post/routine/)
-- [System](/en/post/system/)
+- [Routine](/post/routine/)
+- [System](/post/system/)
 - Module
 
 ## Antonyms
 - Uninstall
 - Terminate
-- [Disable](/en/post/disable/)
+- [Disable](/post/disable/)

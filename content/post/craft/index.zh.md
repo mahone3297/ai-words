@@ -17,15 +17,15 @@ keywords = ['ai words', 'craft']
 ## 短语
 - "Craftsmanship" 指精巧的手工艺或技艺。
 - "Woodcraft" 指木工技艺或与木材相关的技能。
-- "[Spacecraft](/post/spacecraft/)" 或 "astronautics" 用来指太空船或航天科技。
+- "[Spacecraft](/zh/post/spacecraft/)" 或 "astronautics" 用来指太空船或航天科技。
 
 ## 例句
-- 名词: "[She](/post/she/) displayed [her](/post/her/) [craft](/post/craft/) [by](/post/by/) creating [beautiful](/post/beautiful/) pottery."
-- 动词: "[The](/post/the/) [artist](/post/artist/) crafted [a](/post/a/) [unique](/post/unique/) sculpture [from](/post/from/) [marble](/post/marble/)."
-- 名词: "[The](/post/the/) [spacecraft](/post/spacecraft/) landed [safely](/post/safely/) [on](/post/on/) [the](/post/the/) [moon](/post/moon/)."
+- 名词: "[She](/zh/post/she/) displayed [her](/zh/post/her/) [craft](/zh/post/craft/) [by](/zh/post/by/) creating [beautiful](/zh/post/beautiful/) pottery."
+- 动词: "[The](/zh/post/the/) [artist](/zh/post/artist/) crafted [a](/zh/post/a/) [unique](/zh/post/unique/) sculpture [from](/zh/post/from/) [marble](/zh/post/marble/)."
+- 名词: "[The](/zh/post/the/) [spacecraft](/zh/post/spacecraft/) landed [safely](/zh/post/safely/) [on](/zh/post/on/) [the](/zh/post/the/) [moon](/zh/post/moon/)."
 
 ## 同义词
-- [Skill](/post/skill/)
+- [Skill](/zh/post/skill/)
 - Artistry
 - Expertise
 - Dexterity

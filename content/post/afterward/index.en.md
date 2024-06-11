@@ -7,34 +7,34 @@ description = '[ˈɑːftəwəd] ad.后来，以后'
 keywords = ['ai words', 'afterward']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈɑːfərˈwərd/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Happening [or](/en/post/or/) coming [after](/en/post/after/) [something](/en/post/something/) [else](/en/post/else/) has occurred; subsequently. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) discussed [the](/en/post/the/) [matter](/en/post/matter/) [afterward](/en/post/afterward/)."
-- **[Adjective](/en/post/adjective/)**: Occurring [or](/en/post/or/) happening [after](/en/post/after/) [something](/en/post/something/) [else](/en/post/else/); [subsequent](/en/post/subsequent/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [meeting](/en/post/meeting/) was scheduled [for](/en/post/for/) [the](/en/post/the/) [afternoon](/en/post/afternoon/), [with](/en/post/with/) [a](/en/post/a/) [break](/en/post/break/) [afterward](/en/post/afterward/)."
+- **[Adverb](/post/adverb/)**: Happening [or](/post/or/) coming [after](/post/after/) [something](/post/something/) [else](/post/else/) has occurred; subsequently. [For](/post/for/) [example](/post/example/): "[We](/post/we/) discussed [the](/post/the/) [matter](/post/matter/) [afterward](/post/afterward/)."
+- **[Adjective](/post/adjective/)**: Occurring [or](/post/or/) happening [after](/post/after/) [something](/post/something/) [else](/post/else/); [subsequent](/post/subsequent/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [meeting](/post/meeting/) was scheduled [for](/post/for/) [the](/post/the/) [afternoon](/post/afternoon/), [with](/post/with/) [a](/post/a/) [break](/post/break/) [afterward](/post/afterward/)."
 
 ## Phrases
-- "[Afterward](/en/post/afterward/), [we](/en/post/we/) went [for](/en/post/for/) [coffee](/en/post/coffee/)" indicates [that](/en/post/that/) an [action](/en/post/action/) [will](/en/post/will/) [follow](/en/post/follow/) [another](/en/post/another/) [at](/en/post/at/) [a](/en/post/a/) [later](/en/post/later/) [time](/en/post/time/).
-- "[She](/en/post/she/) slept [for](/en/post/for/) hours [afterward](/en/post/afterward/)" implies [rest](/en/post/rest/) [or](/en/post/or/) [recovery](/en/post/recovery/) [following](/en/post/following/) an [event](/en/post/event/).
-- "[He](/en/post/he/) reflected [on](/en/post/on/) [the](/en/post/the/) [day](/en/post/day/) [afterward](/en/post/afterward/)" suggests contemplation [or](/en/post/or/) [review](/en/post/review/) [after](/en/post/after/) [the](/en/post/the/) [fact](/en/post/fact/).
+- "[Afterward](/post/afterward/), [we](/post/we/) went [for](/post/for/) [coffee](/post/coffee/)" indicates [that](/post/that/) an [action](/post/action/) [will](/post/will/) [follow](/post/follow/) [another](/post/another/) [at](/post/at/) [a](/post/a/) [later](/post/later/) [time](/post/time/).
+- "[She](/post/she/) slept [for](/post/for/) hours [afterward](/post/afterward/)" implies [rest](/post/rest/) [or](/post/or/) [recovery](/post/recovery/) [following](/post/following/) an [event](/post/event/).
+- "[He](/post/he/) reflected [on](/post/on/) [the](/post/the/) [day](/post/day/) [afterward](/post/afterward/)" suggests contemplation [or](/post/or/) [review](/post/review/) [after](/post/after/) [the](/post/the/) [fact](/post/fact/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I finished [my](/en/post/my/) [work](/en/post/work/) [early](/en/post/early/), [so](/en/post/so/) I had [some](/en/post/some/) [time](/en/post/time/) [to](/en/post/to/) [read](/en/post/read/) [afterward](/en/post/afterward/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) celebration was held [afterward](/en/post/afterward/), [to](/en/post/to/) [mark](/en/post/mark/) [their](/en/post/their/) [victory](/en/post/victory/)."
-- "[We](/en/post/we/) decided [to](/en/post/to/) [relax](/en/post/relax/) [and](/en/post/and/) [enjoy](/en/post/enjoy/) [the](/en/post/the/) [scenery](/en/post/scenery/) [afterward](/en/post/afterward/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I finished [my](/post/my/) [work](/post/work/) [early](/post/early/), [so](/post/so/) I had [some](/post/some/) [time](/post/time/) [to](/post/to/) [read](/post/read/) [afterward](/post/afterward/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) celebration was held [afterward](/post/afterward/), [to](/post/to/) [mark](/post/mark/) [their](/post/their/) [victory](/post/victory/)."
+- "[We](/post/we/) decided [to](/post/to/) [relax](/post/relax/) [and](/post/and/) [enjoy](/post/enjoy/) [the](/post/the/) [scenery](/post/scenery/) [afterward](/post/afterward/)."
 
 ## Synonyms
 - Subsequently
-- [Later](/en/post/later/)
+- [Later](/post/later/)
 - Posteventually
-- [After](/en/post/after/)
-- [Consequently](/en/post/consequently/)
-- [Then](/en/post/then/)
+- [After](/post/after/)
+- [Consequently](/post/consequently/)
+- [Then](/post/then/)
 
 ## Antonyms
-- [Prior](/en/post/prior/)
-- [Previously](/en/post/previously/)
+- [Prior](/post/prior/)
+- [Previously](/post/previously/)
 - Initially
 - Beforehand
-- [Instantly](/en/post/instantly/)
+- [Instantly](/post/instantly/)

@@ -8,26 +8,26 @@ keywords = ['ai words', 'watch']
 +++
 
 ## 读音
-/[watch](/post/watch/)/
+/[watch](/zh/post/watch/)/
 
 ## 释义
-- **名词**: 手表，时钟。例如: "[He](/post/he/) checked [his](/post/his/) [watch](/post/watch/) [to](/post/to/) [see](/post/see/) [the](/post/the/) [time](/post/time/)."
-- **动词**: 观看，注视。例如: "I watched [the](/post/the/) [movie](/post/movie/) [with](/post/with/) [great](/post/great/) [interest](/post/interest/)."
-- **及物动词**: 监视，守护。例如: "[The](/post/the/) [security](/post/security/) [guard](/post/guard/) was watching [over](/post/over/) [the](/post/the/) [entrance](/post/entrance/)."
+- **名词**: 手表，时钟。例如: "[He](/zh/post/he/) checked [his](/zh/post/his/) [watch](/zh/post/watch/) [to](/zh/post/to/) [see](/zh/post/see/) [the](/zh/post/the/) [time](/zh/post/time/)."
+- **动词**: 观看，注视。例如: "I watched [the](/zh/post/the/) [movie](/zh/post/movie/) [with](/zh/post/with/) [great](/zh/post/great/) [interest](/zh/post/interest/)."
+- **及物动词**: 监视，守护。例如: "[The](/zh/post/the/) [security](/zh/post/security/) [guard](/zh/post/guard/) was watching [over](/zh/post/over/) [the](/zh/post/the/) [entrance](/zh/post/entrance/)."
 
 ## 短语
-- "[Keep](/post/keep/) an [eye](/post/eye/) [on](/post/on/) ([watch](/post/watch/))" 意思是照看，留意。
-- "[Watch](/post/watch/) [out](/post/out/) [for](/post/for/)" 警惕，小心。例如: "[Watch](/post/watch/) [out](/post/out/) [for](/post/for/) [that](/post/that/) [car](/post/car/) [turning](/post/turning/)!"
-- "[Watch](/post/watch/) [something](/post/something/) unfold" 观察事情的发展。
+- "[Keep](/zh/post/keep/) an [eye](/zh/post/eye/) [on](/zh/post/on/) ([watch](/zh/post/watch/))" 意思是照看，留意。
+- "[Watch](/zh/post/watch/) [out](/zh/post/out/) [for](/zh/post/for/)" 警惕，小心。例如: "[Watch](/zh/post/watch/) [out](/zh/post/out/) [for](/zh/post/for/) [that](/zh/post/that/) [car](/zh/post/car/) [turning](/zh/post/turning/)!"
+- "[Watch](/zh/post/watch/) [something](/zh/post/something/) unfold" 观察事情的发展。
 
 ## 例句
-- 名词: "[She](/post/she/) wears [a](/post/a/) stylish [silver](/post/silver/) [watch](/post/watch/) [on](/post/on/) [her](/post/her/) [wrist](/post/wrist/)."
-- 动词: "[We](/post/we/) watched [the](/post/the/) [sunset](/post/sunset/) [together](/post/together/) [on](/post/on/) [the](/post/the/) [beach](/post/beach/)."
-- 及物动词: "[The](/post/the/) parents watched [their](/post/their/) [child](/post/child/) playing [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- 名词: "[She](/zh/post/she/) wears [a](/zh/post/a/) stylish [silver](/zh/post/silver/) [watch](/zh/post/watch/) [on](/zh/post/on/) [her](/zh/post/her/) [wrist](/zh/post/wrist/)."
+- 动词: "[We](/zh/post/we/) watched [the](/zh/post/the/) [sunset](/zh/post/sunset/) [together](/zh/post/together/) [on](/zh/post/on/) [the](/zh/post/the/) [beach](/zh/post/beach/)."
+- 及物动词: "[The](/zh/post/the/) parents watched [their](/zh/post/their/) [child](/zh/post/child/) playing [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/)."
 
 ## 同义词
-- [Observe](/post/observe/)
-- [View](/post/view/)
-- [See](/post/see/)
-- [Glance](/post/glance/)
-- [Monitor](/post/monitor/)
+- [Observe](/zh/post/observe/)
+- [View](/zh/post/view/)
+- [See](/zh/post/see/)
+- [Glance](/zh/post/glance/)
+- [Monitor](/zh/post/monitor/)

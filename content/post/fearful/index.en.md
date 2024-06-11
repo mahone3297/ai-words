@@ -7,31 +7,31 @@ description = '[ˈfiəful] a.害怕的，可怕的'
 keywords = ['ai words', 'fearful']
 +++
 
-## [Word](/en/post/word/): [Fearful](/en/post/fearful/)
+## [Word](/post/word/): [Fearful](/post/fearful/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɪrfl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Filled [with](/en/post/with/) [fear](/en/post/fear/); [afraid](/en/post/afraid/) [or](/en/post/or/) apprehensive. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) inspiring [fear](/en/post/fear/) [or](/en/post/or/) awe. 
+- **[Adjective](/post/adjective/)**: Filled [with](/post/with/) [fear](/post/fear/); [afraid](/post/afraid/) [or](/post/or/) apprehensive. [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) inspiring [fear](/post/fear/) [or](/post/or/) awe. 
 
-  - [Example](/en/post/example/) ([afraid](/en/post/afraid/)): _She felt [a](/en/post/a/) [fearful](/en/post/fearful/) [dread](/en/post/dread/) [before](/en/post/before/) [her](/en/post/her/) [first](/en/post/first/) [public](/en/post/public/) [speech](/en/post/speech/)._
-  - [Example](/en/post/example/) (inspiring [fear](/en/post/fear/)): _The [sight](/en/post/sight/) [of](/en/post/of/) [the](/en/post/the/) towering thunderclouds was [fearful](/en/post/fearful/) [indeed](/en/post/indeed/)._
+  - [Example](/post/example/) ([afraid](/post/afraid/)): _She felt [a](/post/a/) [fearful](/post/fearful/) [dread](/post/dread/) [before](/post/before/) [her](/post/her/) [first](/post/first/) [public](/post/public/) [speech](/post/speech/)._
+  - [Example](/post/example/) (inspiring [fear](/post/fear/)): _The [sight](/post/sight/) [of](/post/of/) [the](/post/the/) towering thunderclouds was [fearful](/post/fearful/) [indeed](/post/indeed/)._
 
 ## Phrases
-- "[Fearful](/en/post/fearful/) [of](/en/post/of/) [something](/en/post/something/)": Describes [being](/en/post/being/) [afraid](/en/post/afraid/) [or](/en/post/or/) having [a](/en/post/a/) [strong](/en/post/strong/) aversion towards [something](/en/post/something/). E.g., "[He](/en/post/he/) is [fearful](/en/post/fearful/) [of](/en/post/of/) heights."
-- "[Fearful](/en/post/fearful/) [that](/en/post/that/)": [Used](/en/post/used/) [when](/en/post/when/) expressing [concern](/en/post/concern/) [or](/en/post/or/) prediction [of](/en/post/of/) [a](/en/post/a/) [negative](/en/post/negative/) [outcome](/en/post/outcome/). E.g., "[She](/en/post/she/) is [fearful](/en/post/fearful/) [that](/en/post/that/) [the](/en/post/the/) [storm](/en/post/storm/) [will](/en/post/will/) [damage](/en/post/damage/) [her](/en/post/her/) [house](/en/post/house/)."
+- "[Fearful](/post/fearful/) [of](/post/of/) [something](/post/something/)": Describes [being](/post/being/) [afraid](/post/afraid/) [or](/post/or/) having [a](/post/a/) [strong](/post/strong/) aversion towards [something](/post/something/). E.g., "[He](/post/he/) is [fearful](/post/fearful/) [of](/post/of/) heights."
+- "[Fearful](/post/fearful/) [that](/post/that/)": [Used](/post/used/) [when](/post/when/) expressing [concern](/post/concern/) [or](/post/or/) prediction [of](/post/of/) [a](/post/a/) [negative](/post/negative/) [outcome](/post/outcome/). E.g., "[She](/post/she/) is [fearful](/post/fearful/) [that](/post/that/) [the](/post/the/) [storm](/post/storm/) [will](/post/will/) [damage](/post/damage/) [her](/post/her/) [house](/post/house/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) ([afraid](/en/post/afraid/))**: _The children huddled [together](/en/post/together/), looking [fearful](/en/post/fearful/) [as](/en/post/as/) [the](/en/post/the/) [dark](/en/post/dark/) clouds gathered [overhead](/en/post/overhead/)._
-- **[Adjective](/en/post/adjective/) (inspiring [fear](/en/post/fear/))**: _The [old](/en/post/old/) mansion [on](/en/post/on/) [the](/en/post/the/) [hill](/en/post/hill/) had [a](/en/post/a/) [fearful](/en/post/fearful/) [presence](/en/post/presence/) [that](/en/post/that/) kept [most](/en/post/most/) [people](/en/post/people/) [away](/en/post/away/)._
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) ([afraid](/post/afraid/))**: _The children huddled [together](/post/together/), looking [fearful](/post/fearful/) [as](/post/as/) [the](/post/the/) [dark](/post/dark/) clouds gathered [overhead](/post/overhead/)._
+- **[Adjective](/post/adjective/) (inspiring [fear](/post/fear/))**: _The [old](/post/old/) mansion [on](/post/on/) [the](/post/the/) [hill](/post/hill/) had [a](/post/a/) [fearful](/post/fearful/) [presence](/post/presence/) [that](/post/that/) kept [most](/post/most/) [people](/post/people/) [away](/post/away/)._
 
 ## Synonyms
-- [Afraid](/en/post/afraid/)
+- [Afraid](/post/afraid/)
 - Terrified
 - Scared
 - Horrified
 - Apprehensive
-- [Timid](/en/post/timid/)
+- [Timid](/post/timid/)
 - Awe-struck
-- Dreadful ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) inspiring [fear](/en/post/fear/))
+- Dreadful ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) inspiring [fear](/post/fear/))

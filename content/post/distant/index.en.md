@@ -7,26 +7,26 @@ description = '[ˈdistənt] a.在远处的，疏远的'
 keywords = ['ai words', 'distant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈstnt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Far](/en/post/far/) [away](/en/post/away/) [in](/en/post/in/) [space](/en/post/space/) [or](/en/post/or/) [time](/en/post/time/); [remote](/en/post/remote/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [distant](/en/post/distant/) mountains were [visible](/en/post/visible/) [on](/en/post/on/) [a](/en/post/a/) [clear](/en/post/clear/) [day](/en/post/day/)."
-- **[Adverb](/en/post/adverb/)**: [At](/en/post/at/) [a](/en/post/a/) [distance](/en/post/distance/); [far](/en/post/far/) [from](/en/post/from/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sat quietly [in](/en/post/in/) [the](/en/post/the/) [distant](/en/post/distant/) [corner](/en/post/corner/) [of](/en/post/of/) [the](/en/post/the/) [room](/en/post/room/)."
-- **[Noun](/en/post/noun/)**: remoteness [or](/en/post/or/) [separation](/en/post/separation/) [in](/en/post/in/) terms [of](/en/post/of/) [physical](/en/post/physical/) [or](/en/post/or/) [emotional](/en/post/emotional/) [distance](/en/post/distance/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) family's [distant](/en/post/distant/) relatives [rarely](/en/post/rarely/) visited."
+- **[Adjective](/post/adjective/)**: [Far](/post/far/) [away](/post/away/) [in](/post/in/) [space](/post/space/) [or](/post/or/) [time](/post/time/); [remote](/post/remote/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [distant](/post/distant/) mountains were [visible](/post/visible/) [on](/post/on/) [a](/post/a/) [clear](/post/clear/) [day](/post/day/)."
+- **[Adverb](/post/adverb/)**: [At](/post/at/) [a](/post/a/) [distance](/post/distance/); [far](/post/far/) [from](/post/from/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) sat quietly [in](/post/in/) [the](/post/the/) [distant](/post/distant/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [room](/post/room/)."
+- **[Noun](/post/noun/)**: remoteness [or](/post/or/) [separation](/post/separation/) [in](/post/in/) terms [of](/post/of/) [physical](/post/physical/) [or](/post/or/) [emotional](/post/emotional/) [distance](/post/distance/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) family's [distant](/post/distant/) relatives [rarely](/post/rarely/) visited."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [a](/en/post/a/) [distant](/en/post/distant/) [watch](/en/post/watch/)" implies keeping an [eye](/en/post/eye/) [from](/en/post/from/) [a](/en/post/a/) [safe](/en/post/safe/) [distance](/en/post/distance/).
-- "[A](/en/post/a/) [distant](/en/post/distant/) [memory](/en/post/memory/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is remembered [but](/en/post/but/) [not](/en/post/not/) [recent](/en/post/recent/).
-- "[Maintain](/en/post/maintain/) [a](/en/post/a/) [distant](/en/post/distant/) [relationship](/en/post/relationship/)" [means](/en/post/means/) having [a](/en/post/a/) [limited](/en/post/limited/) [connection](/en/post/connection/) [with](/en/post/with/) [someone](/en/post/someone/).
+- "[Keep](/post/keep/) [a](/post/a/) [distant](/post/distant/) [watch](/post/watch/)" implies keeping an [eye](/post/eye/) [from](/post/from/) [a](/post/a/) [safe](/post/safe/) [distance](/post/distance/).
+- "[A](/post/a/) [distant](/post/distant/) [memory](/post/memory/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is remembered [but](/post/but/) [not](/post/not/) [recent](/post/recent/).
+- "[Maintain](/post/maintain/) [a](/post/a/) [distant](/post/distant/) [relationship](/post/relationship/)" [means](/post/means/) having [a](/post/a/) [limited](/post/limited/) [connection](/post/connection/) [with](/post/with/) [someone](/post/someone/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [distant](/en/post/distant/) stars闪烁 [in](/en/post/in/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) heard [her](/en/post/her/) [voice](/en/post/voice/) faintly [from](/en/post/from/) [the](/en/post/the/) [distant](/en/post/distant/) hallway."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) longed [for](/en/post/for/) [a](/en/post/a/) closer [connection](/en/post/connection/) [with](/en/post/with/) [her](/en/post/her/) [distant](/en/post/distant/) [friend](/en/post/friend/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [distant](/post/distant/) stars闪烁 [in](/post/in/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) heard [her](/post/her/) [voice](/post/voice/) faintly [from](/post/from/) [the](/post/the/) [distant](/post/distant/) hallway."
+- **[Noun](/post/noun/)**: "[She](/post/she/) longed [for](/post/for/) [a](/post/a/) closer [connection](/post/connection/) [with](/post/with/) [her](/post/her/) [distant](/post/distant/) [friend](/post/friend/)."
 
 ## Synonyms
-- [Remote](/en/post/remote/)
+- [Remote](/post/remote/)
 - Far-off
 - Secluded
 - Isolated

@@ -7,39 +7,39 @@ description = '[kæt] n.猫，猫科，猫皮'
 keywords = ['ai words', 'cat']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kæt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) domesticated carnivorous mammal [with](/en/post/with/) [fur](/en/post/fur/), [four](/en/post/four/) legs, [and](/en/post/and/) retractable claws, [often](/en/post/often/) kept [as](/en/post/as/) [a](/en/post/a/) [pet](/en/post/pet/).**
-   - [Example](/en/post/example/): "[The](/en/post/the/) fluffy [cat](/en/post/cat/) purred contentedly [on](/en/post/on/) [the](/en/post/the/) windowsill."
-   - Synonyms: feline, kitty, puss, tabby, tomcat ([male](/en/post/male/)), [queen](/en/post/queen/) ([female](/en/post/female/))
+### [Noun](/post/noun/)
+1. **[A](/post/a/) domesticated carnivorous mammal [with](/post/with/) [fur](/post/fur/), [four](/post/four/) legs, [and](/post/and/) retractable claws, [often](/post/often/) kept [as](/post/as/) [a](/post/a/) [pet](/post/pet/).**
+   - [Example](/post/example/): "[The](/post/the/) fluffy [cat](/post/cat/) purred contentedly [on](/post/on/) [the](/post/the/) windowsill."
+   - Synonyms: feline, kitty, puss, tabby, tomcat ([male](/post/male/)), [queen](/post/queen/) ([female](/post/female/))
 
-2. **[A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) behaves [or](/en/post/or/) acts [like](/en/post/like/) [a](/en/post/a/) [cat](/en/post/cat/), [especially](/en/post/especially/) [in](/en/post/in/) terms [of](/en/post/of/) [being](/en/post/being/) [independent](/en/post/independent/) [or](/en/post/or/) aloof.**
-   - [Example](/en/post/example/): "She's [such](/en/post/such/) [a](/en/post/a/) [cat](/en/post/cat/); [she](/en/post/she/) [never](/en/post/never/) asks [for](/en/post/for/) [help](/en/post/help/)."
+2. **[A](/post/a/) [person](/post/person/) [who](/post/who/) behaves [or](/post/or/) acts [like](/post/like/) [a](/post/a/) [cat](/post/cat/), [especially](/post/especially/) [in](/post/in/) terms [of](/post/of/) [being](/post/being/) [independent](/post/independent/) [or](/post/or/) aloof.**
+   - [Example](/post/example/): "She's [such](/post/such/) [a](/post/a/) [cat](/post/cat/); [she](/post/she/) [never](/post/never/) asks [for](/post/for/) [help](/post/help/)."
 
-### [Verb](/en/post/verb/)
-- Informal [way](/en/post/way/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) petting [or](/en/post/or/) grooming [a](/en/post/a/) [cat](/en/post/cat/), [or](/en/post/or/) [to](/en/post/to/) mimic [its](/en/post/its/) [behavior](/en/post/behavior/).
-   - [Example](/en/post/example/): "I gave [the](/en/post/the/) [cat](/en/post/cat/) [a](/en/post/a/) [quick](/en/post/quick/) [scratch](/en/post/scratch/) [behind](/en/post/behind/) [the](/en/post/the/) ears."
+### [Verb](/post/verb/)
+- Informal [way](/post/way/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) petting [or](/post/or/) grooming [a](/post/a/) [cat](/post/cat/), [or](/post/or/) [to](/post/to/) mimic [its](/post/its/) [behavior](/post/behavior/).
+   - [Example](/post/example/): "I gave [the](/post/the/) [cat](/post/cat/) [a](/post/a/) [quick](/post/quick/) [scratch](/post/scratch/) [behind](/post/behind/) [the](/post/the/) ears."
 
-### [Adjective](/en/post/adjective/)
-- Describing [something](/en/post/something/) having [the](/en/post/the/) [appearance](/en/post/appearance/) [or](/en/post/or/) qualities [of](/en/post/of/) [a](/en/post/a/) [cat](/en/post/cat/), e.g., [a](/en/post/a/) cat-shaped [object](/en/post/object/) [or](/en/post/or/) [a](/en/post/a/) [smooth](/en/post/smooth/), sleek [design](/en/post/design/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) antique [vase](/en/post/vase/) had [a](/en/post/a/) [delicate](/en/post/delicate/) cat-foot [base](/en/post/base/)."
+### [Adjective](/post/adjective/)
+- Describing [something](/post/something/) having [the](/post/the/) [appearance](/post/appearance/) [or](/post/or/) qualities [of](/post/of/) [a](/post/a/) [cat](/post/cat/), e.g., [a](/post/a/) cat-shaped [object](/post/object/) [or](/post/or/) [a](/post/a/) [smooth](/post/smooth/), sleek [design](/post/design/).
+   - [Example](/post/example/): "[The](/post/the/) antique [vase](/post/vase/) had [a](/post/a/) [delicate](/post/delicate/) cat-foot [base](/post/base/)."
 
 ## Phrases
-- "[A](/en/post/a/) [cat](/en/post/cat/) [nap](/en/post/nap/)" is [a](/en/post/a/) [short](/en/post/short/) [sleep](/en/post/sleep/) [or](/en/post/or/) [rest](/en/post/rest/).
-- "[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [soft](/en/post/soft/) [spot](/en/post/spot/) [for](/en/post/for/) [a](/en/post/a/) [cat](/en/post/cat/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [fond](/en/post/fond/) [or](/en/post/or/) [particularly](/en/post/particularly/) liking cats.
-- "Cat's cradle" is [a](/en/post/a/) [simple](/en/post/simple/) [game](/en/post/game/) played [with](/en/post/with/) [a](/en/post/a/) [rope](/en/post/rope/) [or](/en/post/or/) [string](/en/post/string/).
+- "[A](/post/a/) [cat](/post/cat/) [nap](/post/nap/)" is [a](/post/a/) [short](/post/short/) [sleep](/post/sleep/) [or](/post/or/) [rest](/post/rest/).
+- "[To](/post/to/) [have](/post/have/) [a](/post/a/) [soft](/post/soft/) [spot](/post/spot/) [for](/post/for/) [a](/post/a/) [cat](/post/cat/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) [fond](/post/fond/) [or](/post/or/) [particularly](/post/particularly/) liking cats.
+- "Cat's cradle" is [a](/post/a/) [simple](/post/simple/) [game](/post/game/) played [with](/post/with/) [a](/post/a/) [rope](/post/rope/) [or](/post/or/) [string](/post/string/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [cat](/en/post/cat/) sat [on](/en/post/on/) [the](/en/post/the/) windowsill, basking [in](/en/post/in/) [the](/en/post/the/) [sun](/en/post/sun/)."
-- **[Verb](/en/post/verb/)**: "I couldn't [get](/en/post/get/) [the](/en/post/the/) [cat](/en/post/cat/) [off](/en/post/off/) [my](/en/post/my/) [lap](/en/post/lap/), [she](/en/post/she/) was purring [so](/en/post/so/) loudly."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) porcelain figurine had [a](/en/post/a/) [beautiful](/en/post/beautiful/) cat-like [grace](/en/post/grace/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [cat](/post/cat/) sat [on](/post/on/) [the](/post/the/) windowsill, basking [in](/post/in/) [the](/post/the/) [sun](/post/sun/)."
+- **[Verb](/post/verb/)**: "I couldn't [get](/post/get/) [the](/post/the/) [cat](/post/cat/) [off](/post/off/) [my](/post/my/) [lap](/post/lap/), [she](/post/she/) was purring [so](/post/so/) loudly."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) porcelain figurine had [a](/post/a/) [beautiful](/post/beautiful/) cat-like [grace](/post/grace/)."
 
 ## Synonyms
-- Felis catus ([scientific](/en/post/scientific/) [name](/en/post/name/))
+- Felis catus ([scientific](/post/scientific/) [name](/post/name/))
 - Kitten
 - Claws
-- Feline [friend](/en/post/friend/)
+- Feline [friend](/post/friend/)
 - Purrball

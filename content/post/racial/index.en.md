@@ -7,36 +7,36 @@ description = '[ˈrei∫əl] a.种族的，人种的'
 keywords = ['ai words', 'racial']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rəˈkeɪʃəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Racial](/en/post/racial/)**: Referring [to](/en/post/to/) [or](/en/post/or/) based [on](/en/post/on/) [race](/en/post/race/); specifically, belonging [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [racial](/en/post/racial/) [group](/en/post/group/) [or](/en/post/or/) involving matters [of](/en/post/of/) [race](/en/post/race/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) explores [racial](/en/post/racial/) tensions [in](/en/post/in/) [the](/en/post/the/) workplace."
-- **Racism**: [Prejudice](/en/post/prejudice/) [or](/en/post/or/) discrimination based [on](/en/post/on/) [race](/en/post/race/); [the](/en/post/the/) [belief](/en/post/belief/) [in](/en/post/in/) [the](/en/post/the/) inherent superiority [or](/en/post/or/) inferiority [of](/en/post/of/) [one](/en/post/one/) [race](/en/post/race/) [over](/en/post/over/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) fought [against](/en/post/against/) [racial](/en/post/racial/) discrimination [in](/en/post/in/) housing policies."
+### [Noun](/post/noun/)
+- **[Racial](/post/racial/)**: Referring [to](/post/to/) [or](/post/or/) based [on](/post/on/) [race](/post/race/); specifically, belonging [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [racial](/post/racial/) [group](/post/group/) [or](/post/or/) involving matters [of](/post/of/) [race](/post/race/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) explores [racial](/post/racial/) tensions [in](/post/in/) [the](/post/the/) workplace."
+- **Racism**: [Prejudice](/post/prejudice/) [or](/post/or/) discrimination based [on](/post/on/) [race](/post/race/); [the](/post/the/) [belief](/post/belief/) [in](/post/in/) [the](/post/the/) inherent superiority [or](/post/or/) inferiority [of](/post/of/) [one](/post/one/) [race](/post/race/) [over](/post/over/) [another](/post/another/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) fought [against](/post/against/) [racial](/post/racial/) discrimination [in](/post/in/) housing policies."
 
-### [Adjective](/en/post/adjective/)
-- Characterizing [or](/en/post/or/) related [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [race](/en/post/race/) [or](/en/post/or/) ethnicity. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) curriculum includes [diverse](/en/post/diverse/) [racial](/en/post/racial/) perspectives."
+### [Adjective](/post/adjective/)
+- Characterizing [or](/post/or/) related [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [race](/post/race/) [or](/post/or/) ethnicity. [For](/post/for/) [example](/post/example/): "[The](/post/the/) curriculum includes [diverse](/post/diverse/) [racial](/post/racial/) perspectives."
 
-### [Adjective](/en/post/adjective/) (archaic)
-- Having [a](/en/post/a/) complexion [or](/en/post/or/) [appearance](/en/post/appearance/) [typical](/en/post/typical/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [race](/en/post/race/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) facial features were [of](/en/post/of/) [a](/en/post/a/) [racial](/en/post/racial/) [type](/en/post/type/) [distinct](/en/post/distinct/) [from](/en/post/from/) [his](/en/post/his/) parents'."
+### [Adjective](/post/adjective/) (archaic)
+- Having [a](/post/a/) complexion [or](/post/or/) [appearance](/post/appearance/) [typical](/post/typical/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [race](/post/race/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) facial features were [of](/post/of/) [a](/post/a/) [racial](/post/racial/) [type](/post/type/) [distinct](/post/distinct/) [from](/post/from/) [his](/post/his/) parents'."
 
 ## Phrases
-- "[Racial](/en/post/racial/) diversity" denotes [the](/en/post/the/) [variety](/en/post/variety/) [of](/en/post/of/) [racial](/en/post/racial/) backgrounds [in](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [environment](/en/post/environment/).
-- "Addressing [racial](/en/post/racial/) disparities" focuses [on](/en/post/on/) reducing unequal [treatment](/en/post/treatment/) based [on](/en/post/on/) [race](/en/post/race/).
-- "[Racial](/en/post/racial/) profiling" refers [to](/en/post/to/) [the](/en/post/the/) [practice](/en/post/practice/) [of](/en/post/of/) targeting individuals based [on](/en/post/on/) [their](/en/post/their/) perceived [race](/en/post/race/).
+- "[Racial](/post/racial/) diversity" denotes [the](/post/the/) [variety](/post/variety/) [of](/post/of/) [racial](/post/racial/) backgrounds [in](/post/in/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [environment](/post/environment/).
+- "Addressing [racial](/post/racial/) disparities" focuses [on](/post/on/) reducing unequal [treatment](/post/treatment/) based [on](/post/on/) [race](/post/race/).
+- "[Racial](/post/racial/) profiling" refers [to](/post/to/) [the](/post/the/) [practice](/post/practice/) [of](/post/of/) targeting individuals based [on](/post/on/) [their](/post/their/) perceived [race](/post/race/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [incident](/en/post/incident/) sparked [a](/en/post/a/) [national](/en/post/national/) [conversation](/en/post/conversation/) [about](/en/post/about/) [racial](/en/post/racial/) inequalities [in](/en/post/in/) healthcare."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [school](/en/post/school/) aims [to](/en/post/to/) [promote](/en/post/promote/) [racial](/en/post/racial/) [harmony](/en/post/harmony/) [among](/en/post/among/) [its](/en/post/its/) students."
-- **[Adjective](/en/post/adjective/) (archaic)**: "[The](/en/post/the/) colonial [painter](/en/post/painter/) captured [the](/en/post/the/) [racial](/en/post/racial/) nuances [in](/en/post/in/) [the](/en/post/the/) [local](/en/post/local/) [population](/en/post/population/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [incident](/post/incident/) sparked [a](/post/a/) [national](/post/national/) [conversation](/post/conversation/) [about](/post/about/) [racial](/post/racial/) inequalities [in](/post/in/) healthcare."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [school](/post/school/) aims [to](/post/to/) [promote](/post/promote/) [racial](/post/racial/) [harmony](/post/harmony/) [among](/post/among/) [its](/post/its/) students."
+- **[Adjective](/post/adjective/) (archaic)**: "[The](/post/the/) colonial [painter](/post/painter/) captured [the](/post/the/) [racial](/post/racial/) nuances [in](/post/in/) [the](/post/the/) [local](/post/local/) [population](/post/population/)."
 
 ## Synonyms
 - Ethnic
 - Racially
--肤色的 ([In](/en/post/in/) Chinese)
-- Racist ([as](/en/post/as/) an [adjective](/en/post/adjective/), describing [prejudice](/en/post/prejudice/))
-- Discriminatory ([when](/en/post/when/) referring [to](/en/post/to/) practices)
+-肤色的 ([In](/post/in/) Chinese)
+- Racist ([as](/post/as/) an [adjective](/post/adjective/), describing [prejudice](/post/prejudice/))
+- Discriminatory ([when](/post/when/) referring [to](/post/to/) practices)
 
 ## Antonyms
 - Colorblind

@@ -7,29 +7,29 @@ description = '[ˈfæmili] n.家，家庭；家族'
 keywords = ['ai words', 'family']
 +++
 
-## [Word](/en/post/word/): [Family](/en/post/family/)
+## [Word](/post/word/): [Family](/post/family/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfæməli/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) are related [by](/en/post/by/) [blood](/en/post/blood/), [marriage](/en/post/marriage/), adoption, [or](/en/post/or/) [who](/en/post/who/) [live](/en/post/live/) [together](/en/post/together/) [as](/en/post/as/) [a](/en/post/a/) [household](/en/post/household/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) had [a](/en/post/a/) [big](/en/post/big/) [family](/en/post/family/) reunion [last](/en/post/last/) [summer](/en/post/summer/)."
-  - [Also](/en/post/also/) refers [to](/en/post/to/) [all](/en/post/all/) [the](/en/post/the/) descendants [of](/en/post/of/) [a](/en/post/a/) [common](/en/post/common/) [ancestor](/en/post/ancestor/); [a](/en/post/a/) lineage [or](/en/post/or/) clan. [Example](/en/post/example/): "[The](/en/post/the/) [royal](/en/post/royal/) [family](/en/post/family/) has ruled [this](/en/post/this/) [country](/en/post/country/) [for](/en/post/for/) centuries."
-  - [In](/en/post/in/) [a](/en/post/a/) broader [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [closely](/en/post/closely/) associated [for](/en/post/for/) [any](/en/post/any/) [reason](/en/post/reason/), [like](/en/post/like/) [a](/en/post/a/) [work](/en/post/work/) [family](/en/post/family/), [school](/en/post/school/) [family](/en/post/family/), [or](/en/post/or/) [church](/en/post/church/) [family](/en/post/family/).
+- **[Noun](/post/noun/)**: [A](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [who](/post/who/) are related [by](/post/by/) [blood](/post/blood/), [marriage](/post/marriage/), adoption, [or](/post/or/) [who](/post/who/) [live](/post/live/) [together](/post/together/) [as](/post/as/) [a](/post/a/) [household](/post/household/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) had [a](/post/a/) [big](/post/big/) [family](/post/family/) reunion [last](/post/last/) [summer](/post/summer/)."
+  - [Also](/post/also/) refers [to](/post/to/) [all](/post/all/) [the](/post/the/) descendants [of](/post/of/) [a](/post/a/) [common](/post/common/) [ancestor](/post/ancestor/); [a](/post/a/) lineage [or](/post/or/) clan. [Example](/post/example/): "[The](/post/the/) [royal](/post/royal/) [family](/post/family/) has ruled [this](/post/this/) [country](/post/country/) [for](/post/for/) centuries."
+  - [In](/post/in/) [a](/post/a/) broader [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [closely](/post/closely/) associated [for](/post/for/) [any](/post/any/) [reason](/post/reason/), [like](/post/like/) [a](/post/a/) [work](/post/work/) [family](/post/family/), [school](/post/school/) [family](/post/family/), [or](/post/or/) [church](/post/church/) [family](/post/family/).
   
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [family](/en/post/family/). [Example](/en/post/example/): "[Family](/en/post/family/) values are [important](/en/post/important/) [to](/en/post/to/) [us](/en/post/us/)."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) things [that](/en/post/that/) are related [or](/en/post/or/) [belong](/en/post/belong/) [together](/en/post/together/), e.g., "[The](/en/post/the/) [dog](/en/post/dog/) [breed](/en/post/breed/) belongs [to](/en/post/to/) [the](/en/post/the/) terrier [family](/en/post/family/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) [characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [family](/post/family/). [Example](/post/example/): "[Family](/post/family/) values are [important](/post/important/) [to](/post/to/) [us](/post/us/)."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [group](/post/group/) [of](/post/of/) things [that](/post/that/) are related [or](/post/or/) [belong](/post/belong/) [together](/post/together/), e.g., "[The](/post/the/) [dog](/post/dog/) [breed](/post/breed/) belongs [to](/post/to/) [the](/post/the/) terrier [family](/post/family/)."
 
 ## Phrases
-- "[Family](/en/post/family/) [tree](/en/post/tree/)": [A](/en/post/a/) [diagram](/en/post/diagram/) showing [the](/en/post/the/) relationships [among](/en/post/among/) members [of](/en/post/of/) [a](/en/post/a/) [family](/en/post/family/) [over](/en/post/over/) [several](/en/post/several/) generations.
-- "[Family](/en/post/family/) [bond](/en/post/bond/)": [Strong](/en/post/strong/) [emotional](/en/post/emotional/) ties [between](/en/post/between/) [family](/en/post/family/) members.
-- "[Family](/en/post/family/) matters": Issues [or](/en/post/or/) concerns related [to](/en/post/to/) one's [family](/en/post/family/) [life](/en/post/life/).
-- "Blended [family](/en/post/family/)": [A](/en/post/a/) [family](/en/post/family/) formed [when](/en/post/when/) [two](/en/post/two/) [people](/en/post/people/) [with](/en/post/with/) children [from](/en/post/from/) [previous](/en/post/previous/) relationships [marry](/en/post/marry/).
+- "[Family](/post/family/) [tree](/post/tree/)": [A](/post/a/) [diagram](/post/diagram/) showing [the](/post/the/) relationships [among](/post/among/) members [of](/post/of/) [a](/post/a/) [family](/post/family/) [over](/post/over/) [several](/post/several/) generations.
+- "[Family](/post/family/) [bond](/post/bond/)": [Strong](/post/strong/) [emotional](/post/emotional/) ties [between](/post/between/) [family](/post/family/) members.
+- "[Family](/post/family/) matters": Issues [or](/post/or/) concerns related [to](/post/to/) one's [family](/post/family/) [life](/post/life/).
+- "Blended [family](/post/family/)": [A](/post/a/) [family](/post/family/) formed [when](/post/when/) [two](/post/two/) [people](/post/people/) [with](/post/with/) children [from](/post/from/) [previous](/post/previous/) relationships [marry](/post/marry/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (relatives)**: "I [come](/en/post/come/) [from](/en/post/from/) [a](/en/post/a/) [large](/en/post/large/), close-knit [family](/en/post/family/)."
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [restaurant](/en/post/restaurant/) offers [a](/en/post/a/) family-friendly [atmosphere](/en/post/atmosphere/)."
-- **[Noun](/en/post/noun/) ([group](/en/post/group/) [of](/en/post/of/) related things)**: "Dolphins [belong](/en/post/belong/) [to](/en/post/to/) [the](/en/post/the/) cetacean [family](/en/post/family/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (relatives)**: "I [come](/post/come/) [from](/post/from/) [a](/post/a/) [large](/post/large/), close-knit [family](/post/family/)."
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [restaurant](/post/restaurant/) offers [a](/post/a/) family-friendly [atmosphere](/post/atmosphere/)."
+- **[Noun](/post/noun/) ([group](/post/group/) [of](/post/of/) related things)**: "Dolphins [belong](/post/belong/) [to](/post/to/) [the](/post/the/) cetacean [family](/post/family/)."
 
 ## Synonyms
 - Kin
@@ -39,4 +39,4 @@ keywords = ['ai words', 'family']
 - Clan
 - Households
 - Folks
-- Brethren ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/) sharing [similar](/en/post/similar/) characteristics)
+- Brethren ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [group](/post/group/) sharing [similar](/post/similar/) characteristics)

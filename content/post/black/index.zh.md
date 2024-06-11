@@ -11,22 +11,22 @@ keywords = ['ai words', 'black']
 /ˈblæk/
 
 ## 释义
-- **形容词**: 黑色的；黑暗的；表示种族的黑人。例如: "[The](/post/the/) [dress](/post/dress/) is [black](/post/black/)."，"[The](/post/the/) [room](/post/room/) was pitch-black [at](/post/at/) [night](/post/night/)."，"[She](/post/she/) is [proud](/post/proud/) [of](/post/of/) [her](/post/her/) African-American heritage."
-- **名词**: 黑色（颜色）；黑人；煤炭。例如: "[Black](/post/black/) is [the](/post/the/) [absence](/post/absence/) [of](/post/of/) [light](/post/light/)."，"[The](/post/the/) miners were covered [in](/post/in/) [black](/post/black/) [dust](/post/dust/) [from](/post/from/) [the](/post/the/) [coal](/post/coal/) mines."
+- **形容词**: 黑色的；黑暗的；表示种族的黑人。例如: "[The](/zh/post/the/) [dress](/zh/post/dress/) is [black](/zh/post/black/)."，"[The](/zh/post/the/) [room](/zh/post/room/) was pitch-black [at](/zh/post/at/) [night](/zh/post/night/)."，"[She](/zh/post/she/) is [proud](/zh/post/proud/) [of](/zh/post/of/) [her](/zh/post/her/) African-American heritage."
+- **名词**: 黑色（颜色）；黑人；煤炭。例如: "[Black](/zh/post/black/) is [the](/zh/post/the/) [absence](/zh/post/absence/) [of](/zh/post/of/) [light](/zh/post/light/)."，"[The](/zh/post/the/) miners were covered [in](/zh/post/in/) [black](/zh/post/black/) [dust](/zh/post/dust/) [from](/zh/post/from/) [the](/zh/post/the/) [coal](/zh/post/coal/) mines."
 
 ## 短语
-- "[In](/post/in/) [the](/post/the/) [black](/post/black/)" 表示财务状况良好，有盈余。
-- "[Black](/post/black/) [market](/post/market/)" 非法交易市场。
-- "[Black](/post/black/) [sheep](/post/sheep/)" 指家庭或团体中的败类或不受欢迎的人。
+- "[In](/zh/post/in/) [the](/zh/post/the/) [black](/zh/post/black/)" 表示财务状况良好，有盈余。
+- "[Black](/zh/post/black/) [market](/zh/post/market/)" 非法交易市场。
+- "[Black](/zh/post/black/) [sheep](/zh/post/sheep/)" 指家庭或团体中的败类或不受欢迎的人。
 
 ## 例句
-- 形容词: "[She](/post/she/) wore [a](/post/a/) [black](/post/black/) [coat](/post/coat/) [to](/post/to/) [the](/post/the/) [funeral](/post/funeral/)."
-- 名词: "[The](/post/the/) [black](/post/black/) [cat](/post/cat/) jumped [onto](/post/onto/) [the](/post/the/) windowsill."
-- "[The](/post/the/) [economy](/post/economy/) is [finally](/post/finally/) [in](/post/in/) [the](/post/the/) [black](/post/black/) [after](/post/after/) [several](/post/several/) years [of](/post/of/) recession."
+- 形容词: "[She](/zh/post/she/) wore [a](/zh/post/a/) [black](/zh/post/black/) [coat](/zh/post/coat/) [to](/zh/post/to/) [the](/zh/post/the/) [funeral](/zh/post/funeral/)."
+- 名词: "[The](/zh/post/the/) [black](/zh/post/black/) [cat](/zh/post/cat/) jumped [onto](/zh/post/onto/) [the](/zh/post/the/) windowsill."
+- "[The](/zh/post/the/) [economy](/zh/post/economy/) is [finally](/zh/post/finally/) [in](/zh/post/in/) [the](/zh/post/the/) [black](/zh/post/black/) [after](/zh/post/after/) [several](/zh/post/several/) years [of](/zh/post/of/) recession."
 
 ## 同义词
-- [Dark](/post/dark/)
+- [Dark](/zh/post/dark/)
 - Ebony
-- [Jet](/post/jet/)
+- [Jet](/zh/post/jet/)
 - Blackish
 - Shadowy

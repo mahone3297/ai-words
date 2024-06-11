@@ -7,39 +7,39 @@ description = '[əˈses] vt.对(财产等)估价'
 keywords = ['ai words', 'assess']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈses/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) estimating [the](/en/post/the/) [value](/en/post/value/), [worth](/en/post/worth/), [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [something](/en/post/something/). *[She](/en/post/she/) was assessing [the](/en/post/the/) [damage](/en/post/damage/) [to](/en/post/to/) [her](/en/post/her/) [car](/en/post/car/).*
-2. [A](/en/post/a/) [formal](/en/post/formal/) evaluation [or](/en/post/or/) appraisal, [often](/en/post/often/) [of](/en/post/of/) [a](/en/post/a/) person's abilities [or](/en/post/or/) [knowledge](/en/post/knowledge/). *[The](/en/post/the/) [teacher](/en/post/teacher/) administered an assessment [test](/en/post/test/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) estimating [the](/post/the/) [value](/post/value/), [worth](/post/worth/), [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [something](/post/something/). *[She](/post/she/) was assessing [the](/post/the/) [damage](/post/damage/) [to](/post/to/) [her](/post/her/) [car](/post/car/).*
+2. [A](/post/a/) [formal](/post/formal/) evaluation [or](/post/or/) appraisal, [often](/post/often/) [of](/post/of/) [a](/post/a/) person's abilities [or](/post/or/) [knowledge](/post/knowledge/). *[The](/post/the/) [teacher](/post/teacher/) administered an assessment [test](/post/test/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [judge](/en/post/judge/) [or](/en/post/or/) [estimate](/en/post/estimate/) [the](/en/post/the/) [value](/en/post/value/), [importance](/en/post/importance/), [or](/en/post/or/) [condition](/en/post/condition/) [of](/en/post/of/) [something](/en/post/something/). *[He](/en/post/he/) [quickly](/en/post/quickly/) assessed [the](/en/post/the/) [situation](/en/post/situation/) [before](/en/post/before/) making [a](/en/post/a/) [decision](/en/post/decision/).*
-2. [To](/en/post/to/) [assign](/en/post/assign/) [a](/en/post/a/) [grade](/en/post/grade/) [or](/en/post/or/) [score](/en/post/score/) based [on](/en/post/on/) an [examination](/en/post/examination/) [or](/en/post/or/) evaluation. *Students [will](/en/post/will/) [be](/en/post/be/) assessed [on](/en/post/on/) [their](/en/post/their/) participation [in](/en/post/in/) [class](/en/post/class/) discussions.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [judge](/post/judge/) [or](/post/or/) [estimate](/post/estimate/) [the](/post/the/) [value](/post/value/), [importance](/post/importance/), [or](/post/or/) [condition](/post/condition/) [of](/post/of/) [something](/post/something/). *[He](/post/he/) [quickly](/post/quickly/) assessed [the](/post/the/) [situation](/post/situation/) [before](/post/before/) making [a](/post/a/) [decision](/post/decision/).*
+2. [To](/post/to/) [assign](/post/assign/) [a](/post/a/) [grade](/post/grade/) [or](/post/or/) [score](/post/score/) based [on](/post/on/) an [examination](/post/examination/) [or](/post/or/) evaluation. *Students [will](/post/will/) [be](/post/be/) assessed [on](/post/on/) [their](/post/their/) participation [in](/post/in/) [class](/post/class/) discussions.*
 
-### [Adjective](/en/post/adjective/)
-1. [Concerning](/en/post/concerning/) [or](/en/post/or/) involving [the](/en/post/the/) [determination](/en/post/determination/) [of](/en/post/of/) [value](/en/post/value/) [or](/en/post/or/) [worth](/en/post/worth/). *[The](/en/post/the/) assessment [report](/en/post/report/) highlighted areas [for](/en/post/for/) [improvement](/en/post/improvement/).*
-2. Requiring [or](/en/post/or/) involving [mental](/en/post/mental/) estimation [or](/en/post/or/) judgment. *[A](/en/post/a/) self-assessment [quiz](/en/post/quiz/) [can](/en/post/can/) [help](/en/post/help/) [you](/en/post/you/) [identify](/en/post/identify/) [your](/en/post/your/) strengths [and](/en/post/and/) weaknesses.*
+### [Adjective](/post/adjective/)
+1. [Concerning](/post/concerning/) [or](/post/or/) involving [the](/post/the/) [determination](/post/determination/) [of](/post/of/) [value](/post/value/) [or](/post/or/) [worth](/post/worth/). *[The](/post/the/) assessment [report](/post/report/) highlighted areas [for](/post/for/) [improvement](/post/improvement/).*
+2. Requiring [or](/post/or/) involving [mental](/post/mental/) estimation [or](/post/or/) judgment. *[A](/post/a/) self-assessment [quiz](/post/quiz/) [can](/post/can/) [help](/post/help/) [you](/post/you/) [identify](/post/identify/) [your](/post/your/) strengths [and](/post/and/) weaknesses.*
 
 ## Phrases
-- "[Assess](/en/post/assess/) [the](/en/post/the/) [situation](/en/post/situation/)" [means](/en/post/means/) [to](/en/post/to/) [evaluate](/en/post/evaluate/) [the](/en/post/the/) [current](/en/post/current/) circumstances.
-- "[Formal](/en/post/formal/) assessment" refers [to](/en/post/to/) [a](/en/post/a/) structured [process](/en/post/process/) [of](/en/post/of/) evaluation.
-- "Self-assessment" is [when](/en/post/when/) [someone](/en/post/someone/) evaluates [their](/en/post/their/) [own](/en/post/own/) [performance](/en/post/performance/) [or](/en/post/or/) skills.
+- "[Assess](/post/assess/) [the](/post/the/) [situation](/post/situation/)" [means](/post/means/) [to](/post/to/) [evaluate](/post/evaluate/) [the](/post/the/) [current](/post/current/) circumstances.
+- "[Formal](/post/formal/) assessment" refers [to](/post/to/) [a](/post/a/) structured [process](/post/process/) [of](/post/of/) evaluation.
+- "Self-assessment" is [when](/post/when/) [someone](/post/someone/) evaluates [their](/post/their/) [own](/post/own/) [performance](/post/performance/) [or](/post/or/) skills.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) appraisers conducted [a](/en/post/a/) [thorough](/en/post/thorough/) assessment [of](/en/post/of/) [the](/en/post/the/) [property](/en/post/property/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) assessed [her](/en/post/her/) students' [understanding](/en/post/understanding/) [before](/en/post/before/) moving [on](/en/post/on/) [to](/en/post/to/) [the](/en/post/the/) [next](/en/post/next/) [topic](/en/post/topic/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) assessment [process](/en/post/process/) was rigorous [and](/en/post/and/) [fair](/en/post/fair/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) appraisers conducted [a](/post/a/) [thorough](/post/thorough/) assessment [of](/post/of/) [the](/post/the/) [property](/post/property/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) assessed [her](/post/her/) students' [understanding](/post/understanding/) [before](/post/before/) moving [on](/post/on/) [to](/post/to/) [the](/post/the/) [next](/post/next/) [topic](/post/topic/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) assessment [process](/post/process/) was rigorous [and](/post/and/) [fair](/post/fair/)."
 
 ## Synonyms
-- [Evaluate](/en/post/evaluate/)
+- [Evaluate](/post/evaluate/)
 - Appraise
-- [Judge](/en/post/judge/)
-- [Estimate](/en/post/estimate/)
-- [Gauge](/en/post/gauge/)
-- [Determine](/en/post/determine/)
+- [Judge](/post/judge/)
+- [Estimate](/post/estimate/)
+- [Gauge](/post/gauge/)
+- [Determine](/post/determine/)
 - Assessments
 - Evaluation
 - Rating

@@ -7,33 +7,33 @@ description = '[ˈkɔːnə] n.角；犄角；边远地区'
 keywords = ['ai words', 'corner']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɔːrnər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Corner](/en/post/corner/)**: [A](/en/post/a/) [point](/en/post/point/) [where](/en/post/where/) [two](/en/post/two/) sides [of](/en/post/of/) [a](/en/post/a/) [room](/en/post/room/), [corridor](/en/post/corridor/), [or](/en/post/or/) [building](/en/post/building/) [meet](/en/post/meet/); an [angle](/en/post/angle/) [or](/en/post/or/) nook. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) bookshelf was placed [in](/en/post/in/) [the](/en/post/the/) [corner](/en/post/corner/) [of](/en/post/of/) [the](/en/post/the/) [room](/en/post/room/)."
-- **[Financial](/en/post/financial/) [Corner](/en/post/corner/)**: [A](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [aspect](/en/post/aspect/) [of](/en/post/of/) [finance](/en/post/finance/), [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) [market](/en/post/market/) [or](/en/post/or/) [investment](/en/post/investment/) [strategy](/en/post/strategy/). [For](/en/post/for/) [example](/en/post/example/): "He's an [expert](/en/post/expert/) [on](/en/post/on/) [the](/en/post/the/) [stock](/en/post/stock/) [market](/en/post/market/) [corner](/en/post/corner/)."
-- **Sports [Corner](/en/post/corner/)**: [A](/en/post/a/) designated [area](/en/post/area/) [for](/en/post/for/) sports [equipment](/en/post/equipment/) [or](/en/post/or/) activities. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [school](/en/post/school/) gym has [a](/en/post/a/) [basketball](/en/post/basketball/) [corner](/en/post/corner/) [for](/en/post/for/) students [to](/en/post/to/) [practice](/en/post/practice/)."
+### [Noun](/post/noun/)
+- **[Corner](/post/corner/)**: [A](/post/a/) [point](/post/point/) [where](/post/where/) [two](/post/two/) sides [of](/post/of/) [a](/post/a/) [room](/post/room/), [corridor](/post/corridor/), [or](/post/or/) [building](/post/building/) [meet](/post/meet/); an [angle](/post/angle/) [or](/post/or/) nook. [For](/post/for/) [example](/post/example/): "[The](/post/the/) bookshelf was placed [in](/post/in/) [the](/post/the/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [room](/post/room/)."
+- **[Financial](/post/financial/) [Corner](/post/corner/)**: [A](/post/a/) [situation](/post/situation/) [or](/post/or/) [aspect](/post/aspect/) [of](/post/of/) [finance](/post/finance/), [often](/post/often/) referring [to](/post/to/) [a](/post/a/) [market](/post/market/) [or](/post/or/) [investment](/post/investment/) [strategy](/post/strategy/). [For](/post/for/) [example](/post/example/): "He's an [expert](/post/expert/) [on](/post/on/) [the](/post/the/) [stock](/post/stock/) [market](/post/market/) [corner](/post/corner/)."
+- **Sports [Corner](/post/corner/)**: [A](/post/a/) designated [area](/post/area/) [for](/post/for/) sports [equipment](/post/equipment/) [or](/post/or/) activities. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [school](/post/school/) gym has [a](/post/a/) [basketball](/post/basketball/) [corner](/post/corner/) [for](/post/for/) students [to](/post/to/) [practice](/post/practice/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [a](/en/post/a/) [corner](/en/post/corner/)**: [To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [a](/en/post/a/) [difficult](/en/post/difficult/) [or](/en/post/or/) disadvantageous [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [found](/en/post/found/) [herself](/en/post/herself/) [in](/en/post/in/) [a](/en/post/a/) [corner](/en/post/corner/) [after](/en/post/after/) making [a](/en/post/a/) [poor](/en/post/poor/) [investment](/en/post/investment/) [decision](/en/post/decision/)."
-- **[To](/en/post/to/) [turn](/en/post/turn/) [a](/en/post/a/) [corner](/en/post/corner/)**: [To](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [a](/en/post/a/) [street](/en/post/street/) [or](/en/post/or/) hallway, [or](/en/post/or/) [to](/en/post/to/) [make](/en/post/make/) [progress](/en/post/progress/) [in](/en/post/in/) [a](/en/post/a/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [he](/en/post/he/) [finally](/en/post/finally/) turned [the](/en/post/the/) [corner](/en/post/corner/) [in](/en/post/in/) [his](/en/post/his/) [career](/en/post/career/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [be](/post/be/) [in](/post/in/) [a](/post/a/) [corner](/post/corner/)**: [To](/post/to/) [be](/post/be/) [in](/post/in/) [a](/post/a/) [difficult](/post/difficult/) [or](/post/or/) disadvantageous [position](/post/position/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [found](/post/found/) [herself](/post/herself/) [in](/post/in/) [a](/post/a/) [corner](/post/corner/) [after](/post/after/) making [a](/post/a/) [poor](/post/poor/) [investment](/post/investment/) [decision](/post/decision/)."
+- **[To](/post/to/) [turn](/post/turn/) [a](/post/a/) [corner](/post/corner/)**: [To](/post/to/) [reach](/post/reach/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [a](/post/a/) [street](/post/street/) [or](/post/or/) hallway, [or](/post/or/) [to](/post/to/) [make](/post/make/) [progress](/post/progress/) [in](/post/in/) [a](/post/a/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) months [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) [finally](/post/finally/) turned [the](/post/the/) [corner](/post/corner/) [in](/post/in/) [his](/post/his/) [career](/post/career/)."
 
-### [Adjective](/en/post/adjective/)
-- **Cornered**: [In](/en/post/in/) [a](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [escape](/en/post/escape/) [or](/en/post/or/) evasion seems [impossible](/en/post/impossible/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [police](/en/post/police/) had cornered [the](/en/post/the/) [suspect](/en/post/suspect/) [in](/en/post/in/) [the](/en/post/the/) alley."
+### [Adjective](/post/adjective/)
+- **Cornered**: [In](/post/in/) [a](/post/a/) [situation](/post/situation/) [where](/post/where/) [escape](/post/escape/) [or](/post/or/) evasion seems [impossible](/post/impossible/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [police](/post/police/) had cornered [the](/post/the/) [suspect](/post/suspect/) [in](/post/in/) [the](/post/the/) alley."
 
 ## Phrases
-- "[Be](/en/post/be/) [at](/en/post/at/) [the](/en/post/the/) [corner](/en/post/corner/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) waiting [at](/en/post/at/) [a](/en/post/a/) [specific](/en/post/specific/) [location](/en/post/location/).
-- "[Make](/en/post/make/) [a](/en/post/a/) [corner](/en/post/corner/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) taking [a](/en/post/a/) [sharp](/en/post/sharp/) [turn](/en/post/turn/) [or](/en/post/or/) rounding [a](/en/post/a/) [corner](/en/post/corner/).
-- "[Take](/en/post/take/) [a](/en/post/a/) [corner](/en/post/corner/)" is [a](/en/post/a/) [football](/en/post/football/)/[soccer](/en/post/soccer/) [term](/en/post/term/) [for](/en/post/for/) kicking [the](/en/post/the/) [ball](/en/post/ball/) [sharply](/en/post/sharply/) [to](/en/post/to/) [change](/en/post/change/) [direction](/en/post/direction/).
+- "[Be](/post/be/) [at](/post/at/) [the](/post/the/) [corner](/post/corner/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) waiting [at](/post/at/) [a](/post/a/) [specific](/post/specific/) [location](/post/location/).
+- "[Make](/post/make/) [a](/post/a/) [corner](/post/corner/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) taking [a](/post/a/) [sharp](/post/sharp/) [turn](/post/turn/) [or](/post/or/) rounding [a](/post/a/) [corner](/post/corner/).
+- "[Take](/post/take/) [a](/post/a/) [corner](/post/corner/)" is [a](/post/a/) [football](/post/football/)/[soccer](/post/soccer/) [term](/post/term/) [for](/post/for/) kicking [the](/post/the/) [ball](/post/ball/) [sharply](/post/sharply/) [to](/post/to/) [change](/post/change/) [direction](/post/direction/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [cat](/en/post/cat/) curled [up](/en/post/up/) [in](/en/post/in/) [the](/en/post/the/) cozy [corner](/en/post/corner/) [by](/en/post/by/) [the](/en/post/the/) [window](/en/post/window/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) turned [the](/en/post/the/) [corner](/en/post/corner/) [and](/en/post/and/) [saw](/en/post/saw/) [his](/en/post/his/) [friend](/en/post/friend/) waiting [for](/en/post/for/) [him](/en/post/him/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [thief](/en/post/thief/) was cornered [by](/en/post/by/) [the](/en/post/the/) [police](/en/post/police/) [in](/en/post/in/) [the](/en/post/the/) [dark](/en/post/dark/) alley."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [cat](/post/cat/) curled [up](/post/up/) [in](/post/in/) [the](/post/the/) cozy [corner](/post/corner/) [by](/post/by/) [the](/post/the/) [window](/post/window/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) turned [the](/post/the/) [corner](/post/corner/) [and](/post/and/) [saw](/post/saw/) [his](/post/his/) [friend](/post/friend/) waiting [for](/post/for/) [him](/post/him/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [thief](/post/thief/) was cornered [by](/post/by/) [the](/post/the/) [police](/post/police/) [in](/post/in/) [the](/post/the/) [dark](/post/dark/) alley."
 
 ## Synonyms
-- [Noun](/en/post/noun/): [Edge](/en/post/edge/), nook, niche, [bend](/en/post/bend/), juncture
-- [Verb](/en/post/verb/): [Reach](/en/post/reach/), [approach](/en/post/approach/), [arrive](/en/post/arrive/) [at](/en/post/at/), [locate](/en/post/locate/)
-- [Adjective](/en/post/adjective/): Enclosed, secluded, out-of-the-way, isolated
+- [Noun](/post/noun/): [Edge](/post/edge/), nook, niche, [bend](/post/bend/), juncture
+- [Verb](/post/verb/): [Reach](/post/reach/), [approach](/post/approach/), [arrive](/post/arrive/) [at](/post/at/), [locate](/post/locate/)
+- [Adjective](/post/adjective/): Enclosed, secluded, out-of-the-way, isolated

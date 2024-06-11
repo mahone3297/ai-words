@@ -7,27 +7,27 @@ description = '[ˈelsˈweə] ad.在别处，向别处'
 keywords = ['ai words', 'elsewhere']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɛlsəˈwɛr/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [or](/en/post/or/) [to](/en/post/to/) [a](/en/post/a/) [different](/en/post/different/) [place](/en/post/place/); [away](/en/post/away/) [from](/en/post/from/) [here](/en/post/here/). [For](/en/post/for/) [example](/en/post/example/): "I couldn't [find](/en/post/find/) [the](/en/post/the/) [book](/en/post/book/) [here](/en/post/here/), [so](/en/post/so/) I looked [elsewhere](/en/post/elsewhere/)."
-- **[Adjective](/en/post/adjective/)**: Happening [or](/en/post/or/) existing [in](/en/post/in/) [other](/en/post/other/) places [or](/en/post/or/) situations. [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) are [better](/en/post/better/) opportunities [elsewhere](/en/post/elsewhere/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [or](/post/or/) [to](/post/to/) [a](/post/a/) [different](/post/different/) [place](/post/place/); [away](/post/away/) [from](/post/from/) [here](/post/here/). [For](/post/for/) [example](/post/example/): "I couldn't [find](/post/find/) [the](/post/the/) [book](/post/book/) [here](/post/here/), [so](/post/so/) I looked [elsewhere](/post/elsewhere/)."
+- **[Adjective](/post/adjective/)**: Happening [or](/post/or/) existing [in](/post/in/) [other](/post/other/) places [or](/post/or/) situations. [For](/post/for/) [example](/post/example/): "[There](/post/there/) are [better](/post/better/) opportunities [elsewhere](/post/elsewhere/)."
 
 ## Phrases
-- "[Go](/en/post/go/) [elsewhere](/en/post/elsewhere/)" suggests moving [to](/en/post/to/) [a](/en/post/a/) [different](/en/post/different/) [location](/en/post/location/) [or](/en/post/or/) seeking [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [different](/en/post/different/) [place](/en/post/place/).
-- "[Search](/en/post/search/) [elsewhere](/en/post/elsewhere/)" implies looking [for](/en/post/for/) [something](/en/post/something/) [in](/en/post/in/) [alternative](/en/post/alternative/) locations.
-- "[Find](/en/post/find/) [it](/en/post/it/) [elsewhere](/en/post/elsewhere/)" [means](/en/post/means/) [to](/en/post/to/) [discover](/en/post/discover/) [or](/en/post/or/) [locate](/en/post/locate/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [different](/en/post/different/) [place](/en/post/place/).
+- "[Go](/post/go/) [elsewhere](/post/elsewhere/)" suggests moving [to](/post/to/) [a](/post/a/) [different](/post/different/) [location](/post/location/) [or](/post/or/) seeking [something](/post/something/) [in](/post/in/) [a](/post/a/) [different](/post/different/) [place](/post/place/).
+- "[Search](/post/search/) [elsewhere](/post/elsewhere/)" implies looking [for](/post/for/) [something](/post/something/) [in](/post/in/) [alternative](/post/alternative/) locations.
+- "[Find](/post/find/) [it](/post/it/) [elsewhere](/post/elsewhere/)" [means](/post/means/) [to](/post/to/) [discover](/post/discover/) [or](/post/or/) [locate](/post/locate/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [different](/post/different/) [place](/post/place/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[If](/en/post/if/) [you](/en/post/you/) can't [get](/en/post/get/) [what](/en/post/what/) [you](/en/post/you/) [need](/en/post/need/) [here](/en/post/here/), [try](/en/post/try/) looking [elsewhere](/en/post/elsewhere/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [invest](/en/post/invest/) [its](/en/post/its/) resources [in](/en/post/in/) markets [elsewhere](/en/post/elsewhere/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[If](/post/if/) [you](/post/you/) can't [get](/post/get/) [what](/post/what/) [you](/post/you/) [need](/post/need/) [here](/post/here/), [try](/post/try/) looking [elsewhere](/post/elsewhere/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [invest](/post/invest/) [its](/post/its/) resources [in](/post/in/) markets [elsewhere](/post/elsewhere/) [around](/post/around/) [the](/post/the/) [world](/post/world/)."
 
 ## Synonyms
-- [Elsewhere](/en/post/elsewhere/) [can](/en/post/can/) [be](/en/post/be/) synonymous [with](/en/post/with/):
-- [Somewhere](/en/post/somewhere/) [else](/en/post/else/)
-- [In](/en/post/in/) [another](/en/post/another/) [place](/en/post/place/)
-- [Beyond](/en/post/beyond/) [this](/en/post/this/) [place](/en/post/place/)
-- [Away](/en/post/away/)
-- [Abroad](/en/post/abroad/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
-- Off-site ([in](/en/post/in/) [specific](/en/post/specific/) [professional](/en/post/professional/) settings)
+- [Elsewhere](/post/elsewhere/) [can](/post/can/) [be](/post/be/) synonymous [with](/post/with/):
+- [Somewhere](/post/somewhere/) [else](/post/else/)
+- [In](/post/in/) [another](/post/another/) [place](/post/place/)
+- [Beyond](/post/beyond/) [this](/post/this/) [place](/post/place/)
+- [Away](/post/away/)
+- [Abroad](/post/abroad/) ([in](/post/in/) [some](/post/some/) contexts)
+- Off-site ([in](/post/in/) [specific](/post/specific/) [professional](/post/professional/) settings)

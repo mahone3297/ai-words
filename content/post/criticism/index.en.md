@@ -7,39 +7,39 @@ description = '[ˈkritisiz(ə)m] n.批评；批判；评论'
 keywords = ['ai words', 'criticism']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kriˈmɪʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. An [expression](/en/post/expression/) [of](/en/post/of/) disapproval [or](/en/post/or/) [a](/en/post/a/) [critical](/en/post/critical/) [remark](/en/post/remark/); [a](/en/post/a/) [comment](/en/post/comment/) expressing censure [or](/en/post/or/) [fault](/en/post/fault/). 2. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) judging [or](/en/post/or/) evaluating [something](/en/post/something/), [often](/en/post/often/) negatively. 3. [A](/en/post/a/) [particular](/en/post/particular/) [instance](/en/post/instance/) [of](/en/post/of/) [such](/en/post/such/) evaluation. 4. Articulated opinions [or](/en/post/or/) evaluations, [especially](/en/post/especially/) [in](/en/post/in/) [literary](/en/post/literary/) [or](/en/post/or/) [artistic](/en/post/artistic/) works.
+- **[Noun](/post/noun/)**: 1. An [expression](/post/expression/) [of](/post/of/) disapproval [or](/post/or/) [a](/post/a/) [critical](/post/critical/) [remark](/post/remark/); [a](/post/a/) [comment](/post/comment/) expressing censure [or](/post/or/) [fault](/post/fault/). 2. [The](/post/the/) [act](/post/act/) [of](/post/of/) judging [or](/post/or/) evaluating [something](/post/something/), [often](/post/often/) negatively. 3. [A](/post/a/) [particular](/post/particular/) [instance](/post/instance/) [of](/post/of/) [such](/post/such/) evaluation. 4. Articulated opinions [or](/post/or/) evaluations, [especially](/post/especially/) [in](/post/in/) [literary](/post/literary/) [or](/post/or/) [artistic](/post/artistic/) works.
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [offer](/en/post/offer/) [or](/en/post/or/) [express](/en/post/express/) [critical](/en/post/critical/) comments [or](/en/post/or/) judgments; [to](/en/post/to/) [criticize](/en/post/criticize/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [offer](/post/offer/) [or](/post/or/) [express](/post/express/) [critical](/post/critical/) comments [or](/post/or/) judgments; [to](/post/to/) [criticize](/post/criticize/).
 
 ## Phrases
-- "[Subject](/en/post/subject/) [to](/en/post/to/) [criticism](/en/post/criticism/)" [means](/en/post/means/) [open](/en/post/open/) [to](/en/post/to/) [being](/en/post/being/) judged [or](/en/post/or/) evaluated harshly.
-- "[Voice](/en/post/voice/) [your](/en/post/your/) [criticism](/en/post/criticism/)" encourages [someone](/en/post/someone/) [to](/en/post/to/) [share](/en/post/share/) [their](/en/post/their/) opinions [or](/en/post/or/) concerns.
-- "Constructive [criticism](/en/post/criticism/)" refers [to](/en/post/to/) [feedback](/en/post/feedback/) [that](/en/post/that/) is [helpful](/en/post/helpful/) [for](/en/post/for/) [improvement](/en/post/improvement/).
+- "[Subject](/post/subject/) [to](/post/to/) [criticism](/post/criticism/)" [means](/post/means/) [open](/post/open/) [to](/post/to/) [being](/post/being/) judged [or](/post/or/) evaluated harshly.
+- "[Voice](/post/voice/) [your](/post/your/) [criticism](/post/criticism/)" encourages [someone](/post/someone/) [to](/post/to/) [share](/post/share/) [their](/post/their/) opinions [or](/post/or/) concerns.
+- "Constructive [criticism](/post/criticism/)" refers [to](/post/to/) [feedback](/post/feedback/) [that](/post/that/) is [helpful](/post/helpful/) [for](/post/for/) [improvement](/post/improvement/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [novel](/en/post/novel/) was praised [for](/en/post/for/) [its](/en/post/its/) compelling [plot](/en/post/plot/) [but](/en/post/but/) criticized [for](/en/post/for/) [its](/en/post/its/) [weak](/en/post/weak/) [character](/en/post/character/) [development](/en/post/development/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) felt encouraged [to](/en/post/to/) [criticize](/en/post/criticize/) [the](/en/post/the/) [proposal](/en/post/proposal/) openly [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **[Criticism](/en/post/criticism/)**: "[The](/en/post/the/) [painting](/en/post/painting/) received mixed [criticism](/en/post/criticism/) [from](/en/post/from/) [art](/en/post/art/) critics."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [novel](/post/novel/) was praised [for](/post/for/) [its](/post/its/) compelling [plot](/post/plot/) [but](/post/but/) criticized [for](/post/for/) [its](/post/its/) [weak](/post/weak/) [character](/post/character/) [development](/post/development/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) felt encouraged [to](/post/to/) [criticize](/post/criticize/) [the](/post/the/) [proposal](/post/proposal/) openly [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
+- **[Criticism](/post/criticism/)**: "[The](/post/the/) [painting](/post/painting/) received mixed [criticism](/post/criticism/) [from](/post/from/) [art](/post/art/) critics."
 
 ## Synonyms
 - Critique
 - Evaluation
 - Judgment
-- [Comment](/en/post/comment/)
+- [Comment](/post/comment/)
 - Assessment
-- [Observation](/en/post/observation/)
+- [Observation](/post/observation/)
 - Flaw
-- [Fault](/en/post/fault/)
+- [Fault](/post/fault/)
 - Detraction
 
 ## Antonyms
-- [Praise](/en/post/praise/)
+- [Praise](/post/praise/)
 - Appreciation
 - Endorsement
-- [Approval](/en/post/approval/)
-- [Support](/en/post/support/)
-- [Acceptance](/en/post/acceptance/)
+- [Approval](/post/approval/)
+- [Support](/post/support/)
+- [Acceptance](/post/acceptance/)

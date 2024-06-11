@@ -7,33 +7,33 @@ description = '[ˈdautful] a.难以预测的；怀疑的'
 keywords = ['ai words', 'doubtful']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dʌˈbəlt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Uncertain](/en/post/uncertain/); [not](/en/post/not/) fully convincing; questionable. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [evidence](/en/post/evidence/) was [doubtful](/en/post/doubtful/), leaving [the](/en/post/the/) verdict [in](/en/post/in/) [doubt](/en/post/doubt/)."
-- **[Adverb](/en/post/adverb/)**: [With](/en/post/with/) uncertainty [or](/en/post/or/) hesitation; dubiously. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) doubted [if](/en/post/if/) [she](/en/post/she/) [should](/en/post/should/) [accept](/en/post/accept/) [the](/en/post/the/) [job](/en/post/job/) [offer](/en/post/offer/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) uncertainty [or](/en/post/or/) mistrust. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) had [a](/en/post/a/) nagging [doubt](/en/post/doubt/) [about](/en/post/about/) [their](/en/post/their/) plans."
+- **[Adjective](/post/adjective/)**: [Uncertain](/post/uncertain/); [not](/post/not/) fully convincing; questionable. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [evidence](/post/evidence/) was [doubtful](/post/doubtful/), leaving [the](/post/the/) verdict [in](/post/in/) [doubt](/post/doubt/)."
+- **[Adverb](/post/adverb/)**: [With](/post/with/) uncertainty [or](/post/or/) hesitation; dubiously. [For](/post/for/) [example](/post/example/): "[She](/post/she/) doubted [if](/post/if/) [she](/post/she/) [should](/post/should/) [accept](/post/accept/) [the](/post/the/) [job](/post/job/) [offer](/post/offer/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) uncertainty [or](/post/or/) mistrust. [For](/post/for/) [example](/post/example/): "[He](/post/he/) had [a](/post/a/) nagging [doubt](/post/doubt/) [about](/post/about/) [their](/post/their/) plans."
 
 ## Phrases
-- "[Be](/en/post/be/) [doubtful](/en/post/doubtful/) [about](/en/post/about/) [something](/en/post/something/)" implies skepticism [or](/en/post/or/) uncertainty.
-- "[Doubtful](/en/post/doubtful/) circumstances" refers [to](/en/post/to/) situations [that](/en/post/that/) are unclear [or](/en/post/or/) suspicious.
-- "[Without](/en/post/without/) [a](/en/post/a/) [doubt](/en/post/doubt/)" expresses [certainty](/en/post/certainty/).
+- "[Be](/post/be/) [doubtful](/post/doubtful/) [about](/post/about/) [something](/post/something/)" implies skepticism [or](/post/or/) uncertainty.
+- "[Doubtful](/post/doubtful/) circumstances" refers [to](/post/to/) situations [that](/post/that/) are unclear [or](/post/or/) suspicious.
+- "[Without](/post/without/) [a](/post/a/) [doubt](/post/doubt/)" expresses [certainty](/post/certainty/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [explanation](/en/post/explanation/) was [doubtful](/en/post/doubtful/), [and](/en/post/and/) [many](/en/post/many/) [people](/en/post/people/) remained unconvinced."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) spoke [doubtful](/en/post/doubtful/) [about](/en/post/about/) [her](/en/post/her/) chances [of](/en/post/of/) winning [the](/en/post/the/) [competition](/en/post/competition/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) detective's [doubt](/en/post/doubt/) lingered [after](/en/post/after/) examining [the](/en/post/the/) [crime](/en/post/crime/) [scene](/en/post/scene/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [explanation](/post/explanation/) was [doubtful](/post/doubtful/), [and](/post/and/) [many](/post/many/) [people](/post/people/) remained unconvinced."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) spoke [doubtful](/post/doubtful/) [about](/post/about/) [her](/post/her/) chances [of](/post/of/) winning [the](/post/the/) [competition](/post/competition/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) detective's [doubt](/post/doubt/) lingered [after](/post/after/) examining [the](/post/the/) [crime](/post/crime/) [scene](/post/scene/)."
 
 ## Synonyms
-- [Uncertain](/en/post/uncertain/)
+- [Uncertain](/post/uncertain/)
 - Questionable
 - Skeptical
 - Unclear
 - Hesitant
 
 ## Antonyms
-- [Certain](/en/post/certain/)
-- [Clear](/en/post/clear/)
-- [Confident](/en/post/confident/)
+- [Certain](/post/certain/)
+- [Clear](/post/clear/)
+- [Confident](/post/confident/)
 - Believable

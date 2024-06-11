@@ -7,37 +7,37 @@ description = '[ˈsizəz] n.剪刀，剪子'
 keywords = ['ai words', 'scissors']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /scɪzərz/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [pair](/en/post/pair/) [of](/en/post/of/) sharp-edged tools [with](/en/post/with/) handles, [used](/en/post/used/) [for](/en/post/for/) cutting [paper](/en/post/paper/), [cloth](/en/post/cloth/), [or](/en/post/or/) [other](/en/post/other/) [thin](/en/post/thin/) materials. *[Example](/en/post/example/): [She](/en/post/she/) picked [up](/en/post/up/) [a](/en/post/a/) [pair](/en/post/pair/) [of](/en/post/of/) [scissors](/en/post/scissors/) [from](/en/post/from/) [the](/en/post/the/) [drawer](/en/post/drawer/).*
+### [Noun](/post/noun/)
+[A](/post/a/) [pair](/post/pair/) [of](/post/of/) sharp-edged tools [with](/post/with/) handles, [used](/post/used/) [for](/post/for/) cutting [paper](/post/paper/), [cloth](/post/cloth/), [or](/post/or/) [other](/post/other/) [thin](/post/thin/) materials. *[Example](/post/example/): [She](/post/she/) picked [up](/post/up/) [a](/post/a/) [pair](/post/pair/) [of](/post/of/) [scissors](/post/scissors/) [from](/post/from/) [the](/post/the/) [drawer](/post/drawer/).*
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [cut](/en/post/cut/) [with](/en/post/with/) [scissors](/en/post/scissors/) [or](/en/post/or/) [use](/en/post/use/) [them](/en/post/them/) [as](/en/post/as/) [a](/en/post/a/) [tool](/en/post/tool/) [for](/en/post/for/) trimming [or](/en/post/or/) separating things. *[Example](/en/post/example/): [He](/en/post/he/) carefully [scissors](/en/post/scissors/) [the](/en/post/the/) [excess](/en/post/excess/) [fabric](/en/post/fabric/) [from](/en/post/from/) [the](/en/post/the/) edges.*
+### [Verb](/post/verb/)
+[To](/post/to/) [cut](/post/cut/) [with](/post/with/) [scissors](/post/scissors/) [or](/post/or/) [use](/post/use/) [them](/post/them/) [as](/post/as/) [a](/post/a/) [tool](/post/tool/) [for](/post/for/) trimming [or](/post/or/) separating things. *[Example](/post/example/): [He](/post/he/) carefully [scissors](/post/scissors/) [the](/post/the/) [excess](/post/excess/) [fabric](/post/fabric/) [from](/post/from/) [the](/post/the/) edges.*
 
-### [Adjective](/en/post/adjective/)
-Referring [to](/en/post/to/) [the](/en/post/the/) tools [themselves](/en/post/themselves/), typically [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [their](/en/post/their/) [function](/en/post/function/) [or](/en/post/or/) [presence](/en/post/presence/). *[Example](/en/post/example/): [The](/en/post/the/) [metal](/en/post/metal/) [scissors](/en/post/scissors/) were [old](/en/post/old/) [but](/en/post/but/) [still](/en/post/still/) functional.*
+### [Adjective](/post/adjective/)
+Referring [to](/post/to/) [the](/post/the/) tools [themselves](/post/themselves/), typically [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [their](/post/their/) [function](/post/function/) [or](/post/or/) [presence](/post/presence/). *[Example](/post/example/): [The](/post/the/) [metal](/post/metal/) [scissors](/post/scissors/) were [old](/post/old/) [but](/post/but/) [still](/post/still/) functional.*
 
 ## Phrases
-- "Snip [with](/en/post/with/) [scissors](/en/post/scissors/)" implies using [the](/en/post/the/) [tool](/en/post/tool/) [for](/en/post/for/) cutting.
-- "[She](/en/post/she/) handled [the](/en/post/the/) [scissors](/en/post/scissors/) deftly" describes [skillful](/en/post/skillful/) [use](/en/post/use/).
-- "[Scissors](/en/post/scissors/) [work](/en/post/work/) wonders [on](/en/post/on/) [paper](/en/post/paper/)" highlights [their](/en/post/their/) effectiveness.
+- "Snip [with](/post/with/) [scissors](/post/scissors/)" implies using [the](/post/the/) [tool](/post/tool/) [for](/post/for/) cutting.
+- "[She](/post/she/) handled [the](/post/the/) [scissors](/post/scissors/) deftly" describes [skillful](/post/skillful/) [use](/post/use/).
+- "[Scissors](/post/scissors/) [work](/post/work/) wonders [on](/post/on/) [paper](/post/paper/)" highlights [their](/post/their/) effectiveness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [tailor](/en/post/tailor/) [used](/en/post/used/) [a](/en/post/a/) [pair](/en/post/pair/) [of](/en/post/of/) [fabric](/en/post/fabric/) [scissors](/en/post/scissors/) [to](/en/post/to/) [cut](/en/post/cut/) [the](/en/post/the/) [pattern](/en/post/pattern/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) snipped [the](/en/post/the/) tags [off](/en/post/off/) [the](/en/post/the/) [new](/en/post/new/) [shirt](/en/post/shirt/) [with](/en/post/with/) [her](/en/post/her/) [nail](/en/post/nail/) [scissors](/en/post/scissors/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) kids were fascinated [by](/en/post/by/) [the](/en/post/the/) intricate [work](/en/post/work/) done [with](/en/post/with/) sewing [scissors](/en/post/scissors/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [tailor](/post/tailor/) [used](/post/used/) [a](/post/a/) [pair](/post/pair/) [of](/post/of/) [fabric](/post/fabric/) [scissors](/post/scissors/) [to](/post/to/) [cut](/post/cut/) [the](/post/the/) [pattern](/post/pattern/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) snipped [the](/post/the/) tags [off](/post/off/) [the](/post/the/) [new](/post/new/) [shirt](/post/shirt/) [with](/post/with/) [her](/post/her/) [nail](/post/nail/) [scissors](/post/scissors/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) kids were fascinated [by](/post/by/) [the](/post/the/) intricate [work](/post/work/) done [with](/post/with/) sewing [scissors](/post/scissors/)."
 
 ## Synonyms
 - Shears
 - Scissor-like
-- Cutting [instrument](/en/post/instrument/)
-- [Paper](/en/post/paper/) cutter
-- Dressmaker's shears ([for](/en/post/for/) specialized types)
+- Cutting [instrument](/post/instrument/)
+- [Paper](/post/paper/) cutter
+- Dressmaker's shears ([for](/post/for/) specialized types)
 
 ## Antonyms
-- [Nail](/en/post/nail/) clippers
+- [Nail](/post/nail/) clippers
 - Pliers
-- [Safety](/en/post/safety/) [scissors](/en/post/scissors/) ([for](/en/post/for/) non-cutting [variety](/en/post/variety/))
+- [Safety](/post/safety/) [scissors](/post/scissors/) ([for](/post/for/) non-cutting [variety](/post/variety/))

@@ -11,20 +11,20 @@ keywords = ['ai words', 'accustom']
 /əˈkʌstəm/
 
 ## 释义
-- **动词**: 使习惯于，使适应。例如: "[He](/post/he/) has [accustomed](/post/accustomed/) [himself](/post/himself/) [to](/post/to/) waking [up](/post/up/) [early](/post/early/) [every](/post/every/) [day](/post/day/)."
-- **名词**: 习惯，习俗。例如: "It's [a](/post/a/) [local](/post/local/) [custom](/post/custom/) [to](/post/to/) [wear](/post/wear/) [traditional](/post/traditional/) [clothing](/post/clothing/) [during](/post/during/) festivals."
+- **动词**: 使习惯于，使适应。例如: "[He](/zh/post/he/) has [accustomed](/zh/post/accustomed/) [himself](/zh/post/himself/) [to](/zh/post/to/) waking [up](/zh/post/up/) [early](/zh/post/early/) [every](/zh/post/every/) [day](/zh/post/day/)."
+- **名词**: 习惯，习俗。例如: "It's [a](/zh/post/a/) [local](/zh/post/local/) [custom](/zh/post/custom/) [to](/zh/post/to/) [wear](/zh/post/wear/) [traditional](/zh/post/traditional/) [clothing](/zh/post/clothing/) [during](/zh/post/during/) festivals."
 
 ## 短语
-- "[accustom](/post/accustom/) [oneself](/post/oneself/) [to](/post/to/) [something](/post/something/)" 意味着让自己习惯于某事。
-- "[get](/post/get/) [accustomed](/post/accustomed/) [to](/post/to/)" 与 "[accustom](/post/accustom/) [oneself](/post/oneself/) [to](/post/to/)" 类似，表示逐渐适应。
+- "[accustom](/zh/post/accustom/) [oneself](/zh/post/oneself/) [to](/zh/post/to/) [something](/zh/post/something/)" 意味着让自己习惯于某事。
+- "[get](/zh/post/get/) [accustomed](/zh/post/accustomed/) [to](/zh/post/to/)" 与 "[accustom](/zh/post/accustom/) [oneself](/zh/post/oneself/) [to](/zh/post/to/)" 类似，表示逐渐适应。
 
 ## 例句
-- 动词: "[After](/post/after/) [a](/post/a/) [few](/post/few/) weeks, [she](/post/she/) had [accustomed](/post/accustomed/) [herself](/post/herself/) [to](/post/to/) [the](/post/the/) [new](/post/new/) job's demands."
-- 名词: "[The](/post/the/) children were fascinated [by](/post/by/) [the](/post/the/) [different](/post/different/) customs [they](/post/they/) observed [in](/post/in/) [the](/post/the/) [foreign](/post/foreign/) [country](/post/country/)."
+- 动词: "[After](/zh/post/after/) [a](/zh/post/a/) [few](/zh/post/few/) weeks, [she](/zh/post/she/) had [accustomed](/zh/post/accustomed/) [herself](/zh/post/herself/) [to](/zh/post/to/) [the](/zh/post/the/) [new](/zh/post/new/) job's demands."
+- 名词: "[The](/zh/post/the/) children were fascinated [by](/zh/post/by/) [the](/zh/post/the/) [different](/zh/post/different/) customs [they](/zh/post/they/) observed [in](/zh/post/in/) [the](/zh/post/the/) [foreign](/zh/post/foreign/) [country](/zh/post/country/)."
 
 ## 同义词
-- [adapt](/post/adapt/)
+- [adapt](/zh/post/adapt/)
 - familiarize
-- [get](/post/get/) [used](/post/used/) [to](/post/to/)
+- [get](/zh/post/get/) [used](/zh/post/used/) [to](/zh/post/to/)
 - acclimate
 - habituate

@@ -11,22 +11,22 @@ keywords = ['ai words', 'show']
 /ʃəʊ/
 
 ## 释义
-- **动词**: 显示，展示。例如: "[The](/post/the/) [artist](/post/artist/) showed [his](/post/his/) paintings [in](/post/in/) an [exhibition](/post/exhibition/)."
-- **名词**: 展示，表演。例如: "[There](/post/there/) [will](/post/will/) [be](/post/be/) [a](/post/a/) [magic](/post/magic/) [show](/post/show/) [tonight](/post/tonight/)."
-- **名词**: (电视或广播的)节目。例如: "I [love](/post/love/) watching [talk](/post/talk/) shows."
+- **动词**: 显示，展示。例如: "[The](/zh/post/the/) [artist](/zh/post/artist/) showed [his](/zh/post/his/) paintings [in](/zh/post/in/) an [exhibition](/zh/post/exhibition/)."
+- **名词**: 展示，表演。例如: "[There](/zh/post/there/) [will](/zh/post/will/) [be](/zh/post/be/) [a](/zh/post/a/) [magic](/zh/post/magic/) [show](/zh/post/show/) [tonight](/zh/post/tonight/)."
+- **名词**: (电视或广播的)节目。例如: "I [love](/zh/post/love/) watching [talk](/zh/post/talk/) shows."
 
 ## 短语
-- "[show](/post/show/) [off](/post/off/)" 展示，炫耀。例如: "[He](/post/he/) was showing [off](/post/off/) [his](/post/his/) [new](/post/new/) [car](/post/car/) [to](/post/to/) [all](/post/all/) [his](/post/his/) friends."
-- "[put](/post/put/) [on](/post/on/) [a](/post/a/) [show](/post/show/)" 表演，作秀。例如: "[The](/post/the/) children [put](/post/put/) [on](/post/on/) [a](/post/a/) [show](/post/show/) [for](/post/for/) [their](/post/their/) parents."
+- "[show](/zh/post/show/) [off](/zh/post/off/)" 展示，炫耀。例如: "[He](/zh/post/he/) was showing [off](/zh/post/off/) [his](/zh/post/his/) [new](/zh/post/new/) [car](/zh/post/car/) [to](/zh/post/to/) [all](/zh/post/all/) [his](/zh/post/his/) friends."
+- "[put](/zh/post/put/) [on](/zh/post/on/) [a](/zh/post/a/) [show](/zh/post/show/)" 表演，作秀。例如: "[The](/zh/post/the/) children [put](/zh/post/put/) [on](/zh/post/on/) [a](/zh/post/a/) [show](/zh/post/show/) [for](/zh/post/for/) [their](/zh/post/their/) parents."
 
 ## 例句
-- 动词: "[She](/post/she/) showed [us](/post/us/) [her](/post/her/) [collection](/post/collection/) [of](/post/of/) antique dolls."
-- 名词: "[The](/post/the/) magician's [show](/post/show/) was [full](/post/full/) [of](/post/of/) [impressive](/post/impressive/) tricks."
-- 名词: "[The](/post/the/) late-night [show](/post/show/) [always](/post/always/) has [interesting](/post/interesting/) guests."
+- 动词: "[She](/zh/post/she/) showed [us](/zh/post/us/) [her](/zh/post/her/) [collection](/zh/post/collection/) [of](/zh/post/of/) antique dolls."
+- 名词: "[The](/zh/post/the/) magician's [show](/zh/post/show/) was [full](/zh/post/full/) [of](/zh/post/of/) [impressive](/zh/post/impressive/) tricks."
+- 名词: "[The](/zh/post/the/) late-night [show](/zh/post/show/) [always](/zh/post/always/) has [interesting](/zh/post/interesting/) guests."
 
 ## 同义词
-- [display](/post/display/)
-- [exhibit](/post/exhibit/)
-- [present](/post/present/)
-- [demonstrate](/post/demonstrate/)
-- [reveal](/post/reveal/)
+- [display](/zh/post/display/)
+- [exhibit](/zh/post/exhibit/)
+- [present](/zh/post/present/)
+- [demonstrate](/zh/post/demonstrate/)
+- [reveal](/zh/post/reveal/)

@@ -11,21 +11,21 @@ keywords = ['ai words', 'minimum']
 /ˈmɪnɪməm/
 
 ## 释义
-- **名词**: 最低限度；最小量；最低点。例如: "[The](/post/the/) [minimum](/post/minimum/) [age](/post/age/) [for](/post/for/) [this](/post/this/) [job](/post/job/) is 18 years [old](/post/old/)."
-- **形容词**: 最小的；最低的。例如: "[We](/post/we/) [need](/post/need/) [a](/post/a/) [minimum](/post/minimum/) [number](/post/number/) [of](/post/of/) participants [for](/post/for/) [the](/post/the/) [event](/post/event/) [to](/post/to/) [go](/post/go/) [ahead](/post/ahead/)."
+- **名词**: 最低限度；最小量；最低点。例如: "[The](/zh/post/the/) [minimum](/zh/post/minimum/) [age](/zh/post/age/) [for](/zh/post/for/) [this](/zh/post/this/) [job](/zh/post/job/) is 18 years [old](/zh/post/old/)."
+- **形容词**: 最小的；最低的。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [a](/zh/post/a/) [minimum](/zh/post/minimum/) [number](/zh/post/number/) [of](/zh/post/of/) participants [for](/zh/post/for/) [the](/zh/post/the/) [event](/zh/post/event/) [to](/zh/post/to/) [go](/zh/post/go/) [ahead](/zh/post/ahead/)."
 
 ## 短语
-- "[minimum](/post/minimum/) [wage](/post/wage/)" 最低工资
-- "[minimum](/post/minimum/) requirements" 最低要求
-- "[minimum](/post/minimum/) [deposit](/post/deposit/)" 最低存款
+- "[minimum](/zh/post/minimum/) [wage](/zh/post/wage/)" 最低工资
+- "[minimum](/zh/post/minimum/) requirements" 最低要求
+- "[minimum](/zh/post/minimum/) [deposit](/zh/post/deposit/)" 最低存款
 
 ## 例句
-- 名词: "[The](/post/the/) [airline](/post/airline/) allows [a](/post/a/) [minimum](/post/minimum/) [baggage](/post/baggage/) [weight](/post/weight/) [of](/post/of/) 20 kilograms [per](/post/per/) [passenger](/post/passenger/)."
-- 形容词: "[We](/post/we/) [must](/post/must/) [maintain](/post/maintain/) [a](/post/a/) [minimum](/post/minimum/) [level](/post/level/) [of](/post/of/) [water](/post/water/) [in](/post/in/) [the](/post/the/) [tank](/post/tank/) [for](/post/for/) [the](/post/the/) [fish](/post/fish/) [to](/post/to/) [survive](/post/survive/)."
+- 名词: "[The](/zh/post/the/) [airline](/zh/post/airline/) allows [a](/zh/post/a/) [minimum](/zh/post/minimum/) [baggage](/zh/post/baggage/) [weight](/zh/post/weight/) [of](/zh/post/of/) 20 kilograms [per](/zh/post/per/) [passenger](/zh/post/passenger/)."
+- 形容词: "[We](/zh/post/we/) [must](/zh/post/must/) [maintain](/zh/post/maintain/) [a](/zh/post/a/) [minimum](/zh/post/minimum/) [level](/zh/post/level/) [of](/zh/post/of/) [water](/zh/post/water/) [in](/zh/post/in/) [the](/zh/post/the/) [tank](/zh/post/tank/) [for](/zh/post/for/) [the](/zh/post/the/) [fish](/zh/post/fish/) [to](/zh/post/to/) [survive](/zh/post/survive/)."
 
 ## 同义词
-- [least](/post/least/)
+- [least](/zh/post/least/)
 - lowest
 - smallest
-- [bare](/post/bare/) [minimum](/post/minimum/)
-- [floor](/post/floor/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [a](/post/a/) [floor](/post/floor/) [price](/post/price/) [or](/post/or/) [minimum](/post/minimum/) threshold)
+- [bare](/zh/post/bare/) [minimum](/zh/post/minimum/)
+- [floor](/zh/post/floor/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) [a](/zh/post/a/) [floor](/zh/post/floor/) [price](/zh/post/price/) [or](/zh/post/or/) [minimum](/zh/post/minimum/) threshold)

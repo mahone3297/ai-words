@@ -7,34 +7,34 @@ description = '[liːg] n.同盟，联盟；联合会'
 keywords = ['ai words', 'league']
 +++
 
-## [Word](/en/post/word/): [League](/en/post/league/)
+## [Word](/post/word/): [League](/post/league/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /liːɡ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) 
-  - [A](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [association](/en/post/association/) [of](/en/post/of/) [people](/en/post/people/), countries, [or](/en/post/or/) organizations [with](/en/post/with/) [similar](/en/post/similar/) aims [or](/en/post/or/) interests [that](/en/post/that/) [work](/en/post/work/) [together](/en/post/together/) [or](/en/post/or/) [compete](/en/post/compete/) [against](/en/post/against/) [each](/en/post/each/) [other](/en/post/other/). [For](/en/post/for/) [instance](/en/post/instance/): "[They](/en/post/they/) formed [a](/en/post/a/) [trade](/en/post/trade/) [league](/en/post/league/) [to](/en/post/to/) [protect](/en/post/protect/) [their](/en/post/their/) [mutual](/en/post/mutual/) interests."
-  - [A](/en/post/a/) [level](/en/post/level/) [of](/en/post/of/) [competition](/en/post/competition/) [or](/en/post/or/) [a](/en/post/a/) [division](/en/post/division/) [in](/en/post/in/) sports, [usually](/en/post/usually/) based [on](/en/post/on/) [skill](/en/post/skill/) [or](/en/post/or/) geographical [location](/en/post/location/). [Example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) was promoted [to](/en/post/to/) [the](/en/post/the/) [top](/en/post/top/) tier [of](/en/post/of/) [the](/en/post/the/) [football](/en/post/football/) [league](/en/post/league/)."
-  - [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [measurement](/en/post/measurement/) [equivalent](/en/post/equivalent/) [to](/en/post/to/) [about](/en/post/about/) [three](/en/post/three/) miles ([approximately](/en/post/approximately/) 4.8 kilometers), traditionally [used](/en/post/used/) [for](/en/post/for/) distances [at](/en/post/at/) [sea](/en/post/sea/) [or](/en/post/or/) [across](/en/post/across/) [land](/en/post/land/). [Example](/en/post/example/): "[The](/en/post/the/) [port](/en/post/port/) was [just](/en/post/just/) [ten](/en/post/ten/) leagues [away](/en/post/away/) [from](/en/post/from/) [our](/en/post/our/) [current](/en/post/current/) [position](/en/post/position/)."
+- **[Noun](/post/noun/)**: (n) 
+  - [A](/post/a/) [group](/post/group/) [or](/post/or/) [association](/post/association/) [of](/post/of/) [people](/post/people/), countries, [or](/post/or/) organizations [with](/post/with/) [similar](/post/similar/) aims [or](/post/or/) interests [that](/post/that/) [work](/post/work/) [together](/post/together/) [or](/post/or/) [compete](/post/compete/) [against](/post/against/) [each](/post/each/) [other](/post/other/). [For](/post/for/) [instance](/post/instance/): "[They](/post/they/) formed [a](/post/a/) [trade](/post/trade/) [league](/post/league/) [to](/post/to/) [protect](/post/protect/) [their](/post/their/) [mutual](/post/mutual/) interests."
+  - [A](/post/a/) [level](/post/level/) [of](/post/of/) [competition](/post/competition/) [or](/post/or/) [a](/post/a/) [division](/post/division/) [in](/post/in/) sports, [usually](/post/usually/) based [on](/post/on/) [skill](/post/skill/) [or](/post/or/) geographical [location](/post/location/). [Example](/post/example/): "[The](/post/the/) [team](/post/team/) was promoted [to](/post/to/) [the](/post/the/) [top](/post/top/) tier [of](/post/of/) [the](/post/the/) [football](/post/football/) [league](/post/league/)."
+  - [A](/post/a/) [unit](/post/unit/) [of](/post/of/) [measurement](/post/measurement/) [equivalent](/post/equivalent/) [to](/post/to/) [about](/post/about/) [three](/post/three/) miles ([approximately](/post/approximately/) 4.8 kilometers), traditionally [used](/post/used/) [for](/post/for/) distances [at](/post/at/) [sea](/post/sea/) [or](/post/or/) [across](/post/across/) [land](/post/land/). [Example](/post/example/): "[The](/post/the/) [port](/post/port/) was [just](/post/just/) [ten](/post/ten/) leagues [away](/post/away/) [from](/post/from/) [our](/post/our/) [current](/post/current/) [position](/post/position/)."
 
 ### Phrases
-- "[In](/en/post/in/) [a](/en/post/a/) [league](/en/post/league/) [of](/en/post/of/) one's [own](/en/post/own/)": [This](/en/post/this/) [phrase](/en/post/phrase/) [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [superior](/en/post/superior/) [or](/en/post/or/) [unique](/en/post/unique/) compared [to](/en/post/to/) others [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/). [Example](/en/post/example/): "[Her](/en/post/her/) [talent](/en/post/talent/) [for](/en/post/for/) [music](/en/post/music/) puts [her](/en/post/her/) [in](/en/post/in/) [a](/en/post/a/) [league](/en/post/league/) [of](/en/post/of/) [her](/en/post/her/) [own](/en/post/own/)."
-- "[Join](/en/post/join/) forces / leagues": [To](/en/post/to/) [combine](/en/post/combine/) efforts [or](/en/post/or/) collaborate [with](/en/post/with/) others, [often](/en/post/often/) [for](/en/post/for/) [a](/en/post/a/) shared [goal](/en/post/goal/). [Example](/en/post/example/): "[Several](/en/post/several/) environmental groups decided [to](/en/post/to/) [join](/en/post/join/) forces [in](/en/post/in/) [a](/en/post/a/) [new](/en/post/new/) [conservation](/en/post/conservation/) [league](/en/post/league/)."
+- "[In](/post/in/) [a](/post/a/) [league](/post/league/) [of](/post/of/) one's [own](/post/own/)": [This](/post/this/) [phrase](/post/phrase/) [means](/post/means/) [to](/post/to/) [be](/post/be/) [superior](/post/superior/) [or](/post/or/) [unique](/post/unique/) compared [to](/post/to/) others [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/). [Example](/post/example/): "[Her](/post/her/) [talent](/post/talent/) [for](/post/for/) [music](/post/music/) puts [her](/post/her/) [in](/post/in/) [a](/post/a/) [league](/post/league/) [of](/post/of/) [her](/post/her/) [own](/post/own/)."
+- "[Join](/post/join/) forces / leagues": [To](/post/to/) [combine](/post/combine/) efforts [or](/post/or/) collaborate [with](/post/with/) others, [often](/post/often/) [for](/post/for/) [a](/post/a/) shared [goal](/post/goal/). [Example](/post/example/): "[Several](/post/several/) environmental groups decided [to](/post/to/) [join](/post/join/) forces [in](/post/in/) [a](/post/a/) [new](/post/new/) [conservation](/post/conservation/) [league](/post/league/)."
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([association](/en/post/association/))**: "[The](/en/post/the/) European [Union](/en/post/union/) is [a](/en/post/a/) [political](/en/post/political/) [and](/en/post/and/) [economic](/en/post/economic/) [league](/en/post/league/) [of](/en/post/of/) 27 [member](/en/post/member/) states."
-- **[Noun](/en/post/noun/) (sports)**: "[After](/en/post/after/) winning [the](/en/post/the/) championship, [they](/en/post/they/) were hailed [as](/en/post/as/) [the](/en/post/the/) [best](/en/post/best/) [team](/en/post/team/) [in](/en/post/in/) [the](/en/post/the/) [league](/en/post/league/)."
-- **[Noun](/en/post/noun/) ([measurement](/en/post/measurement/))**: "[During](/en/post/during/) [the](/en/post/the/) [Age](/en/post/age/) [of](/en/post/of/) [Sail](/en/post/sail/), ships [could](/en/post/could/) [cover](/en/post/cover/) [several](/en/post/several/) leagues [in](/en/post/in/) [a](/en/post/a/) [day](/en/post/day/) [under](/en/post/under/) favorable winds."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([association](/post/association/))**: "[The](/post/the/) European [Union](/post/union/) is [a](/post/a/) [political](/post/political/) [and](/post/and/) [economic](/post/economic/) [league](/post/league/) [of](/post/of/) 27 [member](/post/member/) states."
+- **[Noun](/post/noun/) (sports)**: "[After](/post/after/) winning [the](/post/the/) championship, [they](/post/they/) were hailed [as](/post/as/) [the](/post/the/) [best](/post/best/) [team](/post/team/) [in](/post/in/) [the](/post/the/) [league](/post/league/)."
+- **[Noun](/post/noun/) ([measurement](/post/measurement/))**: "[During](/post/during/) [the](/post/the/) [Age](/post/age/) [of](/post/of/) [Sail](/post/sail/), ships [could](/post/could/) [cover](/post/cover/) [several](/post/several/) leagues [in](/post/in/) [a](/post/a/) [day](/post/day/) [under](/post/under/) favorable winds."
 
 ## Synonyms
-- [Association](/en/post/association/)
+- [Association](/post/association/)
 - Alliance
 - Confederation
-- [Conference](/en/post/conference/)
-- [Group](/en/post/group/)
-- [Union](/en/post/union/)
+- [Conference](/post/conference/)
+- [Group](/post/group/)
+- [Union](/post/union/)
 - Coalition
-- Partnership (depending [on](/en/post/on/) context)
+- Partnership (depending [on](/post/on/) context)
 - Tier
-- [Division](/en/post/division/) ([in](/en/post/in/) [the](/en/post/the/) sports context)
+- [Division](/post/division/) ([in](/post/in/) [the](/post/the/) sports context)

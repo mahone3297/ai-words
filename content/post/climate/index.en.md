@@ -7,37 +7,37 @@ description = '[ˈklaimit] n.气候；风土，地带'
 keywords = ['ai words', 'climate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /klaɪmət/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[Climate](/en/post/climate/) is [a](/en/post/a/) **[noun](/en/post/noun/)** [that](/en/post/that/) refers [to](/en/post/to/) [the](/en/post/the/) long-term [weather](/en/post/weather/) patterns [and](/en/post/and/) conditions [characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [region](/en/post/region/) [or](/en/post/or/) [time](/en/post/time/) [period](/en/post/period/). [It](/en/post/it/) includes factors [such](/en/post/such/) [as](/en/post/as/) [temperature](/en/post/temperature/), precipitation, humidity, [and](/en/post/and/) [wind](/en/post/wind/), [which](/en/post/which/) are influenced [by](/en/post/by/) [various](/en/post/various/) [atmospheric](/en/post/atmospheric/), geographical, [and](/en/post/and/) geological factors.
+### [Noun](/post/noun/)
+[Climate](/post/climate/) is [a](/post/a/) **[noun](/post/noun/)** [that](/post/that/) refers [to](/post/to/) [the](/post/the/) long-term [weather](/post/weather/) patterns [and](/post/and/) conditions [characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) [region](/post/region/) [or](/post/or/) [time](/post/time/) [period](/post/period/). [It](/post/it/) includes factors [such](/post/such/) [as](/post/as/) [temperature](/post/temperature/), precipitation, humidity, [and](/post/and/) [wind](/post/wind/), [which](/post/which/) are influenced [by](/post/by/) [various](/post/various/) [atmospheric](/post/atmospheric/), geographical, [and](/post/and/) geological factors.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[climate](/en/post/climate/)** [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [overall](/en/post/overall/) [trend](/en/post/trend/) [or](/en/post/or/) [atmosphere](/en/post/atmosphere/) [of](/en/post/of/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [topic](/en/post/topic/), [often](/en/post/often/) implying [a](/en/post/a/) [gradual](/en/post/gradual/) [shift](/en/post/shift/) [or](/en/post/or/) adjustment [over](/en/post/over/) [time](/en/post/time/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[climate](/post/climate/)** [can](/post/can/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [overall](/post/overall/) [trend](/post/trend/) [or](/post/or/) [atmosphere](/post/atmosphere/) [of](/post/of/) [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [topic](/post/topic/), [often](/post/often/) implying [a](/post/a/) [gradual](/post/gradual/) [shift](/post/shift/) [or](/post/or/) adjustment [over](/post/over/) [time](/post/time/).
 
-### [Adjective](/en/post/adjective/)
-Climate-related adjectives [describe](/en/post/describe/) conditions based [on](/en/post/on/) [the](/en/post/the/) [climate](/en/post/climate/) [of](/en/post/of/) [a](/en/post/a/) [place](/en/post/place/), [like](/en/post/like/) "temperate" [or](/en/post/or/) "[tropical](/en/post/tropical/)."
+### [Adjective](/post/adjective/)
+Climate-related adjectives [describe](/post/describe/) conditions based [on](/post/on/) [the](/post/the/) [climate](/post/climate/) [of](/post/of/) [a](/post/a/) [place](/post/place/), [like](/post/like/) "temperate" [or](/post/or/) "[tropical](/post/tropical/)."
 
 ## Phrases
-- "[Adapt](/en/post/adapt/) [to](/en/post/to/) [the](/en/post/the/) [local](/en/post/local/) [climate](/en/post/climate/)"
-- "[Climate](/en/post/climate/) [change](/en/post/change/) is [a](/en/post/a/) global [concern](/en/post/concern/)"
-- "[The](/en/post/the/) [desert](/en/post/desert/) [climate](/en/post/climate/) is [harsh](/en/post/harsh/) [and](/en/post/and/) arid"
+- "[Adapt](/post/adapt/) [to](/post/to/) [the](/post/the/) [local](/post/local/) [climate](/post/climate/)"
+- "[Climate](/post/climate/) [change](/post/change/) is [a](/post/a/) global [concern](/post/concern/)"
+- "[The](/post/the/) [desert](/post/desert/) [climate](/post/climate/) is [harsh](/post/harsh/) [and](/post/and/) arid"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [region](/en/post/region/) has [a](/en/post/a/) Mediterranean [climate](/en/post/climate/) [with](/en/post/with/) [mild](/en/post/mild/), [wet](/en/post/wet/) winters [and](/en/post/and/) [hot](/en/post/hot/), [dry](/en/post/dry/) summers."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) company's [culture](/en/post/culture/) is [slowly](/en/post/slowly/) changing [to](/en/post/to/) [become](/en/post/become/) [more](/en/post/more/) environmentally [conscious](/en/post/conscious/), reflecting [the](/en/post/the/) [new](/en/post/new/) [climate](/en/post/climate/) [of](/en/post/of/) sustainability."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [tropical](/en/post/tropical/) [climate](/en/post/climate/) [in](/en/post/in/) [the](/en/post/the/) rainforest supports [a](/en/post/a/) [wide](/en/post/wide/) [variety](/en/post/variety/) [of](/en/post/of/) [plant](/en/post/plant/) [and](/en/post/and/) [animal](/en/post/animal/) species."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [region](/post/region/) has [a](/post/a/) Mediterranean [climate](/post/climate/) [with](/post/with/) [mild](/post/mild/), [wet](/post/wet/) winters [and](/post/and/) [hot](/post/hot/), [dry](/post/dry/) summers."
+- **[Verb](/post/verb/)**: "[The](/post/the/) company's [culture](/post/culture/) is [slowly](/post/slowly/) changing [to](/post/to/) [become](/post/become/) [more](/post/more/) environmentally [conscious](/post/conscious/), reflecting [the](/post/the/) [new](/post/new/) [climate](/post/climate/) [of](/post/of/) sustainability."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [tropical](/post/tropical/) [climate](/post/climate/) [in](/post/in/) [the](/post/the/) rainforest supports [a](/post/a/) [wide](/post/wide/) [variety](/post/variety/) [of](/post/of/) [plant](/post/plant/) [and](/post/and/) [animal](/post/animal/) species."
 
 ## Synonyms
-- [Weather](/en/post/weather/) [pattern](/en/post/pattern/)
-- [Atmospheric](/en/post/atmospheric/) conditions
+- [Weather](/post/weather/) [pattern](/post/pattern/)
+- [Atmospheric](/post/atmospheric/) conditions
 - Microclimate
 - Weathering
-- [Weather](/en/post/weather/) regime
+- [Weather](/post/weather/) regime
 - Climatic regime
 
 ## Antonyms
-- [Weather](/en/post/weather/) ([since](/en/post/since/) [it](/en/post/it/) refers [to](/en/post/to/) short-term conditions)
-- [Artificial](/en/post/artificial/) (referring [to](/en/post/to/) human-made [or](/en/post/or/) controlled environments)
+- [Weather](/post/weather/) ([since](/post/since/) [it](/post/it/) refers [to](/post/to/) short-term conditions)
+- [Artificial](/post/artificial/) (referring [to](/post/to/) human-made [or](/post/or/) controlled environments)

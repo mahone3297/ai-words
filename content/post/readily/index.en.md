@@ -7,35 +7,35 @@ description = '[ˈredili] ad.乐意地；无困难地'
 keywords = ['ai words', 'readily']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈdɪlɪ/
 
 ## Definitions
-### [Adverb](/en/post/adverb/)
-- Refers [to](/en/post/to/) [the](/en/post/the/) readiness [or](/en/post/or/) willingness [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [without](/en/post/without/) hesitation [or](/en/post/or/) [delay](/en/post/delay/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [readily](/en/post/readily/) agreed [to](/en/post/to/) [help](/en/post/help/)."
-- Describes [how](/en/post/how/) [easily](/en/post/easily/) [or](/en/post/or/) [quickly](/en/post/quickly/) [a](/en/post/a/) [task](/en/post/task/) is performed. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) instructions were [so](/en/post/so/) [clear](/en/post/clear/) [that](/en/post/that/) [anyone](/en/post/anyone/) [could](/en/post/could/) [complete](/en/post/complete/) [them](/en/post/them/) [readily](/en/post/readily/)."
+### [Adverb](/post/adverb/)
+- Refers [to](/post/to/) [the](/post/the/) readiness [or](/post/or/) willingness [to](/post/to/) [do](/post/do/) [something](/post/something/) [without](/post/without/) hesitation [or](/post/or/) [delay](/post/delay/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [readily](/post/readily/) agreed [to](/post/to/) [help](/post/help/)."
+- Describes [how](/post/how/) [easily](/post/easily/) [or](/post/or/) [quickly](/post/quickly/) [a](/post/a/) [task](/post/task/) is performed. [For](/post/for/) [example](/post/example/): "[The](/post/the/) instructions were [so](/post/so/) [clear](/post/clear/) [that](/post/that/) [anyone](/post/anyone/) [could](/post/could/) [complete](/post/complete/) [them](/post/them/) [readily](/post/readily/)."
 
 ## Phrases
-- "[Readily](/en/post/readily/) [available](/en/post/available/)" [means](/en/post/means/) [easily](/en/post/easily/) accessible [or](/en/post/or/) [present](/en/post/present/).
-- "[Ready](/en/post/ready/) [to](/en/post/to/) [assist](/en/post/assist/)" indicates [being](/en/post/being/) prepared [to](/en/post/to/) [help](/en/post/help/) [without](/en/post/without/) [delay](/en/post/delay/).
-- "[With](/en/post/with/) [ease](/en/post/ease/)" implies [a](/en/post/a/) [smooth](/en/post/smooth/) [and](/en/post/and/) effortless accomplishment, [often](/en/post/often/) [with](/en/post/with/) "[readily](/en/post/readily/)."
+- "[Readily](/post/readily/) [available](/post/available/)" [means](/post/means/) [easily](/post/easily/) accessible [or](/post/or/) [present](/post/present/).
+- "[Ready](/post/ready/) [to](/post/to/) [assist](/post/assist/)" indicates [being](/post/being/) prepared [to](/post/to/) [help](/post/help/) [without](/post/without/) [delay](/post/delay/).
+- "[With](/post/with/) [ease](/post/ease/)" implies [a](/post/a/) [smooth](/post/smooth/) [and](/post/and/) effortless accomplishment, [often](/post/often/) [with](/post/with/) "[readily](/post/readily/)."
 
-## [Example](/en/post/example/) Sentences
-- "[He](/en/post/he/) [readily](/en/post/readily/) accepted [the](/en/post/the/) [challenge](/en/post/challenge/), showing [his](/en/post/his/) [determination](/en/post/determination/)."
-- "[The](/en/post/the/) volunteers were [readily](/en/post/readily/) [on](/en/post/on/) [hand](/en/post/hand/) [to](/en/post/to/) [help](/en/post/help/) [with](/en/post/with/) [the](/en/post/the/) [event](/en/post/event/)."
-- "[She](/en/post/she/) speaks French [readily](/en/post/readily/), having lived [in](/en/post/in/) Paris [for](/en/post/for/) [several](/en/post/several/) years."
+## [Example](/post/example/) Sentences
+- "[He](/post/he/) [readily](/post/readily/) accepted [the](/post/the/) [challenge](/post/challenge/), showing [his](/post/his/) [determination](/post/determination/)."
+- "[The](/post/the/) volunteers were [readily](/post/readily/) [on](/post/on/) [hand](/post/hand/) [to](/post/to/) [help](/post/help/) [with](/post/with/) [the](/post/the/) [event](/post/event/)."
+- "[She](/post/she/) speaks French [readily](/post/readily/), having lived [in](/post/in/) Paris [for](/post/for/) [several](/post/several/) years."
 
 ## Synonyms
 - Promptly
 - Swiftly
-- [Without](/en/post/without/) hesitation
-- [Easily](/en/post/easily/)
+- [Without](/post/without/) hesitation
+- [Easily](/post/easily/)
 - Voluntarily
 - Gracefully
 
 ## Antonyms
-- [Slowly](/en/post/slowly/)
+- [Slowly](/post/slowly/)
 - Reluctantly
 - Unwillingly
-- [Difficulty](/en/post/difficulty/)
+- [Difficulty](/post/difficulty/)
 - Procrastination

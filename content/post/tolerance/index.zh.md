@@ -11,20 +11,20 @@ keywords = ['ai words', 'tolerance']
 /təˈlɔːrəns/
 
 ## 释义
-- **名词**: 能够接受、忍受不同观点、行为或情况的程度；宽容。例如: "[The](/post/the/) [country](/post/country/) is known [for](/post/for/) [its](/post/its/) [religious](/post/religious/) [tolerance](/post/tolerance/)."
-- **动词**: 容忍，忍受。例如: "[She](/post/she/) tolerates [his](/post/his/) annoying habits [because](/post/because/) [she](/post/she/) loves [him](/post/him/)."
+- **名词**: 能够接受、忍受不同观点、行为或情况的程度；宽容。例如: "[The](/zh/post/the/) [country](/zh/post/country/) is known [for](/zh/post/for/) [its](/zh/post/its/) [religious](/zh/post/religious/) [tolerance](/zh/post/tolerance/)."
+- **动词**: 容忍，忍受。例如: "[She](/zh/post/she/) tolerates [his](/zh/post/his/) annoying habits [because](/zh/post/because/) [she](/zh/post/she/) loves [him](/zh/post/him/)."
 
 ## 短语
-- "[Tolerance](/post/tolerance/) [of](/post/of/) diversity" 意味着对多样性的接纳和尊重。
-- "[Zero](/post/zero/) [tolerance](/post/tolerance/)" 表示对某种行为绝对不容忍的政策。
+- "[Tolerance](/zh/post/tolerance/) [of](/zh/post/of/) diversity" 意味着对多样性的接纳和尊重。
+- "[Zero](/zh/post/zero/) [tolerance](/zh/post/tolerance/)" 表示对某种行为绝对不容忍的政策。
 
 ## 例句
-- 名词: "[Our](/post/our/) [society](/post/society/) values [and](/post/and/) promotes [tolerance](/post/tolerance/) towards [all](/post/all/) cultures."
-- 动词: "[Despite](/post/despite/) [their](/post/their/) differences, [they](/post/they/) [learned](/post/learned/) [to](/post/to/) [tolerate](/post/tolerate/) [each](/post/each/) [other](/post/other/) [for](/post/for/) [the](/post/the/) [sake](/post/sake/) [of](/post/of/) [peace](/post/peace/)."
+- 名词: "[Our](/zh/post/our/) [society](/zh/post/society/) values [and](/zh/post/and/) promotes [tolerance](/zh/post/tolerance/) towards [all](/zh/post/all/) cultures."
+- 动词: "[Despite](/zh/post/despite/) [their](/zh/post/their/) differences, [they](/zh/post/they/) [learned](/zh/post/learned/) [to](/zh/post/to/) [tolerate](/zh/post/tolerate/) [each](/zh/post/each/) [other](/zh/post/other/) [for](/zh/post/for/) [the](/zh/post/the/) [sake](/zh/post/sake/) [of](/zh/post/of/) [peace](/zh/post/peace/)."
 
 ## 同义词
 - Endurance
 - Forbearance
-- [Patience](/post/patience/)
+- [Patience](/zh/post/patience/)
 - Long-suffering
 - Open-mindedness

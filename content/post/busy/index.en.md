@@ -7,32 +7,32 @@ description = '[ˈbizi] a.忙的，繁忙的'
 keywords = ['ai words', 'busy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbɪzi/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[noun](/en/post/noun/)** [in](/en/post/in/) [this](/en/post/this/) context refers [to](/en/post/to/) [the](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) occupied [with](/en/post/with/) [work](/en/post/work/), tasks, [or](/en/post/or/) activities [to](/en/post/to/) [such](/en/post/such/) an [extent](/en/post/extent/) [that](/en/post/that/) [one](/en/post/one/) has [little](/en/post/little/) [time](/en/post/time/) [for](/en/post/for/) [other](/en/post/other/) things. [Example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) [busy](/en/post/busy/) [day](/en/post/day/) [at](/en/post/at/) [the](/en/post/the/) [office](/en/post/office/)."
+### [Noun](/post/noun/)
+[A](/post/a/) **[noun](/post/noun/)** [in](/post/in/) [this](/post/this/) context refers [to](/post/to/) [the](/post/the/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) occupied [with](/post/with/) [work](/post/work/), tasks, [or](/post/or/) activities [to](/post/to/) [such](/post/such/) an [extent](/post/extent/) [that](/post/that/) [one](/post/one/) has [little](/post/little/) [time](/post/time/) [for](/post/for/) [other](/post/other/) things. [Example](/post/example/): "[She](/post/she/) had [a](/post/a/) [busy](/post/busy/) [day](/post/day/) [at](/post/at/) [the](/post/the/) [office](/post/office/)."
 
-### [Verb](/en/post/verb/)
-[As](/en/post/as/) [a](/en/post/a/) **[verb](/en/post/verb/)**, "[busy](/en/post/busy/)" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [keep](/en/post/keep/) [someone](/en/post/someone/) occupied [or](/en/post/or/) engaged, [often](/en/post/often/) [to](/en/post/to/) [the](/en/post/the/) [point](/en/post/point/) [of](/en/post/of/) having [no](/en/post/no/) [spare](/en/post/spare/) [time](/en/post/time/). [Example](/en/post/example/): "[The](/en/post/the/) manager was [busy](/en/post/busy/) organizing [the](/en/post/the/) team's [schedule](/en/post/schedule/)."
+### [Verb](/post/verb/)
+[As](/post/as/) [a](/post/a/) **[verb](/post/verb/)**, "[busy](/post/busy/)" [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [keep](/post/keep/) [someone](/post/someone/) occupied [or](/post/or/) engaged, [often](/post/often/) [to](/post/to/) [the](/post/the/) [point](/post/point/) [of](/post/of/) having [no](/post/no/) [spare](/post/spare/) [time](/post/time/). [Example](/post/example/): "[The](/post/the/) manager was [busy](/post/busy/) organizing [the](/post/the/) team's [schedule](/post/schedule/)."
 
-### [Adjective](/en/post/adjective/)
-An **[adjective](/en/post/adjective/)** describing [a](/en/post/a/) [person](/en/post/person/), [place](/en/post/place/), [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is occupied, [active](/en/post/active/), [or](/en/post/or/) having [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [work](/en/post/work/) [or](/en/post/or/) [activity](/en/post/activity/). [Example](/en/post/example/): "[The](/en/post/the/) [construction](/en/post/construction/) [site](/en/post/site/) was [a](/en/post/a/) hive [of](/en/post/of/) [busy](/en/post/busy/) workers."
+### [Adjective](/post/adjective/)
+An **[adjective](/post/adjective/)** describing [a](/post/a/) [person](/post/person/), [place](/post/place/), [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is occupied, [active](/post/active/), [or](/post/or/) having [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [work](/post/work/) [or](/post/or/) [activity](/post/activity/). [Example](/post/example/): "[The](/post/the/) [construction](/post/construction/) [site](/post/site/) was [a](/post/a/) hive [of](/post/of/) [busy](/post/busy/) workers."
 
-### [Adverb](/en/post/adverb/)
-[In](/en/post/in/) [some](/en/post/some/) cases, "[busy](/en/post/busy/)" [can](/en/post/can/) [also](/en/post/also/) [function](/en/post/function/) [as](/en/post/as/) an **[adverb](/en/post/adverb/)** [to](/en/post/to/) [describe](/en/post/describe/) [how](/en/post/how/) [something](/en/post/something/) is done, [often](/en/post/often/) emphasizing [speed](/en/post/speed/) [or](/en/post/or/) [intensity](/en/post/intensity/). [Example](/en/post/example/): "[She](/en/post/she/) works busy-handed, completing tasks [quickly](/en/post/quickly/)."
+### [Adverb](/post/adverb/)
+[In](/post/in/) [some](/post/some/) cases, "[busy](/post/busy/)" [can](/post/can/) [also](/post/also/) [function](/post/function/) [as](/post/as/) an **[adverb](/post/adverb/)** [to](/post/to/) [describe](/post/describe/) [how](/post/how/) [something](/post/something/) is done, [often](/post/often/) emphasizing [speed](/post/speed/) [or](/post/or/) [intensity](/post/intensity/). [Example](/post/example/): "[She](/post/she/) works busy-handed, completing tasks [quickly](/post/quickly/)."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [someone](/en/post/someone/) [busy](/en/post/busy/)" implies giving [them](/en/post/them/) tasks [or](/en/post/or/) activities [to](/en/post/to/) [occupy](/en/post/occupy/) [their](/en/post/their/) [time](/en/post/time/).
-- "[Too](/en/post/too/) [busy](/en/post/busy/) [to](/en/post/to/) [reply](/en/post/reply/)" suggests [someone](/en/post/someone/) is [too](/en/post/too/) occupied [to](/en/post/to/) [respond](/en/post/respond/) [immediately](/en/post/immediately/).
-- "[Busy](/en/post/busy/) signals" are [when](/en/post/when/) [phone](/en/post/phone/) lines [or](/en/post/or/) systems [indicate](/en/post/indicate/) [they](/en/post/they/) are occupied.
+- "[Keep](/post/keep/) [someone](/post/someone/) [busy](/post/busy/)" implies giving [them](/post/them/) tasks [or](/post/or/) activities [to](/post/to/) [occupy](/post/occupy/) [their](/post/their/) [time](/post/time/).
+- "[Too](/post/too/) [busy](/post/busy/) [to](/post/to/) [reply](/post/reply/)" suggests [someone](/post/someone/) is [too](/post/too/) occupied [to](/post/to/) [respond](/post/respond/) [immediately](/post/immediately/).
+- "[Busy](/post/busy/) signals" are [when](/post/when/) [phone](/post/phone/) lines [or](/post/or/) systems [indicate](/post/indicate/) [they](/post/they/) are occupied.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [busy](/en/post/busy/) [schedule](/en/post/schedule/) [left](/en/post/left/) [her](/en/post/her/) [with](/en/post/with/) barely [any](/en/post/any/) [free](/en/post/free/) [time](/en/post/time/) [for](/en/post/for/) hobbies."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) kept [the](/en/post/the/) children [busy](/en/post/busy/) [with](/en/post/with/) [various](/en/post/various/) activities [during](/en/post/during/) recess."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) businessman was [so](/en/post/so/) [busy](/en/post/busy/) [that](/en/post/that/) [he](/en/post/he/) barely noticed [the](/en/post/the/) passing hours."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) hurriedly finished [her](/en/post/her/) [work](/en/post/work/), working busily [all](/en/post/all/) [day](/en/post/day/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [busy](/post/busy/) [schedule](/post/schedule/) [left](/post/left/) [her](/post/her/) [with](/post/with/) barely [any](/post/any/) [free](/post/free/) [time](/post/time/) [for](/post/for/) hobbies."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) kept [the](/post/the/) children [busy](/post/busy/) [with](/post/with/) [various](/post/various/) activities [during](/post/during/) recess."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) businessman was [so](/post/so/) [busy](/post/busy/) [that](/post/that/) [he](/post/he/) barely noticed [the](/post/the/) passing hours."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) hurriedly finished [her](/post/her/) [work](/post/work/), working busily [all](/post/all/) [day](/post/day/)."
 
 ## Synonyms
 - Occupied
@@ -40,4 +40,4 @@ An **[adjective](/en/post/adjective/)** describing [a](/en/post/a/) [person](/en
 - Frazzled
 - Occupied
 - Heaving (informal)
-- Thriving ([in](/en/post/in/) terms [of](/en/post/of/) [business](/en/post/business/) [or](/en/post/or/) [activity](/en/post/activity/))
+- Thriving ([in](/post/in/) terms [of](/post/of/) [business](/post/business/) [or](/post/or/) [activity](/post/activity/))

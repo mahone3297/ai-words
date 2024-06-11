@@ -7,35 +7,35 @@ description = '[riˈlaiəbl] a.可靠的，可信赖的'
 keywords = ['ai words', 'reliable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈlaɪəbl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Reliable](/en/post/reliable/)**: An [adjective](/en/post/adjective/) [that](/en/post/that/) describes [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) trusted [to](/en/post/to/) [be](/en/post/be/) dependable [or](/en/post/or/) consistently [good](/en/post/good/) [in](/en/post/in/) [quality](/en/post/quality/) [or](/en/post/or/) [performance](/en/post/performance/).
-- [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [car](/en/post/car/) was [a](/en/post/a/) [reliable](/en/post/reliable/) [mode](/en/post/mode/) [of](/en/post/of/) [transportation](/en/post/transportation/)."
+### [Noun](/post/noun/)
+- **[Reliable](/post/reliable/)**: An [adjective](/post/adjective/) [that](/post/that/) describes [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [that](/post/that/) [can](/post/can/) [be](/post/be/) trusted [to](/post/to/) [be](/post/be/) dependable [or](/post/or/) consistently [good](/post/good/) [in](/post/in/) [quality](/post/quality/) [or](/post/or/) [performance](/post/performance/).
+- [Example](/post/example/): "[The](/post/the/) [old](/post/old/) [car](/post/car/) was [a](/post/a/) [reliable](/post/reliable/) [mode](/post/mode/) [of](/post/of/) [transportation](/post/transportation/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [be](/en/post/be/) [reliable](/en/post/reliable/)**: [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [be](/en/post/be/) dependable [or](/en/post/or/) trustworthy; [to](/en/post/to/) fulfill expectations consistently.
-- [Example](/en/post/example/): "She's known [for](/en/post/for/) [being](/en/post/being/) [a](/en/post/a/) [reliable](/en/post/reliable/) [team](/en/post/team/) [member](/en/post/member/) [who](/en/post/who/) [always](/en/post/always/) finishes [her](/en/post/her/) tasks [on](/en/post/on/) [time](/en/post/time/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [be](/post/be/) [reliable](/post/reliable/)**: [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [be](/post/be/) dependable [or](/post/or/) trustworthy; [to](/post/to/) fulfill expectations consistently.
+- [Example](/post/example/): "She's known [for](/post/for/) [being](/post/being/) [a](/post/a/) [reliable](/post/reliable/) [team](/post/team/) [member](/post/member/) [who](/post/who/) [always](/post/always/) finishes [her](/post/her/) tasks [on](/post/on/) [time](/post/time/)."
 
 ## Phrases
-- "[A](/en/post/a/) [reliable](/en/post/reliable/) [source](/en/post/source/)" refers [to](/en/post/to/) an [accurate](/en/post/accurate/) [and](/en/post/and/) trustworthy [information](/en/post/information/) provider.
-- "[A](/en/post/a/) [reliable](/en/post/reliable/) [friend](/en/post/friend/)" is [someone](/en/post/someone/) [who](/en/post/who/) [can](/en/post/can/) [be](/en/post/be/) counted [on](/en/post/on/) [in](/en/post/in/) times [of](/en/post/of/) [need](/en/post/need/).
-- "Dependable [service](/en/post/service/)" indicates [a](/en/post/a/) [consistent](/en/post/consistent/) [level](/en/post/level/) [of](/en/post/of/) excellence [in](/en/post/in/) [customer](/en/post/customer/) [care](/en/post/care/).
+- "[A](/post/a/) [reliable](/post/reliable/) [source](/post/source/)" refers [to](/post/to/) an [accurate](/post/accurate/) [and](/post/and/) trustworthy [information](/post/information/) provider.
+- "[A](/post/a/) [reliable](/post/reliable/) [friend](/post/friend/)" is [someone](/post/someone/) [who](/post/who/) [can](/post/can/) [be](/post/be/) counted [on](/post/on/) [in](/post/in/) times [of](/post/of/) [need](/post/need/).
+- "Dependable [service](/post/service/)" indicates [a](/post/a/) [consistent](/post/consistent/) [level](/post/level/) [of](/post/of/) excellence [in](/post/in/) [customer](/post/customer/) [care](/post/care/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) hired [a](/en/post/a/) [new](/en/post/new/) [employee](/en/post/employee/) [with](/en/post/with/) [a](/en/post/a/) proven [track](/en/post/track/) [record](/en/post/record/) [of](/en/post/of/) [reliability](/en/post/reliability/)."
-- **[Verb](/en/post/verb/)**: "[My](/en/post/my/) neighbor is [so](/en/post/so/) [reliable](/en/post/reliable/); I [can](/en/post/can/) [always](/en/post/always/) [ask](/en/post/ask/) [them](/en/post/them/) [to](/en/post/to/) [watch](/en/post/watch/) [my](/en/post/my/) plants [when](/en/post/when/) I'm [away](/en/post/away/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) weatherman predicted [a](/en/post/a/) [reliable](/en/post/reliable/) [sunny](/en/post/sunny/) [day](/en/post/day/), [and](/en/post/and/) [it](/en/post/it/) [actually](/en/post/actually/) turned [out](/en/post/out/) [that](/en/post/that/) [way](/en/post/way/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [company](/post/company/) hired [a](/post/a/) [new](/post/new/) [employee](/post/employee/) [with](/post/with/) [a](/post/a/) proven [track](/post/track/) [record](/post/record/) [of](/post/of/) [reliability](/post/reliability/)."
+- **[Verb](/post/verb/)**: "[My](/post/my/) neighbor is [so](/post/so/) [reliable](/post/reliable/); I [can](/post/can/) [always](/post/always/) [ask](/post/ask/) [them](/post/them/) [to](/post/to/) [watch](/post/watch/) [my](/post/my/) plants [when](/post/when/) I'm [away](/post/away/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) weatherman predicted [a](/post/a/) [reliable](/post/reliable/) [sunny](/post/sunny/) [day](/post/day/), [and](/post/and/) [it](/post/it/) [actually](/post/actually/) turned [out](/post/out/) [that](/post/that/) [way](/post/way/)."
 
 ## Synonyms
 - Trustworthy
 - Dependable
-- [Loyal](/en/post/loyal/)
-- [Consistent](/en/post/consistent/)
+- [Loyal](/post/loyal/)
+- [Consistent](/post/consistent/)
 - Sturdy
-- [Solid](/en/post/solid/)
+- [Solid](/post/solid/)
 - Dependable
-- [Steady](/en/post/steady/)
-- Unfailingly [honest](/en/post/honest/)
+- [Steady](/post/steady/)
+- Unfailingly [honest](/post/honest/)

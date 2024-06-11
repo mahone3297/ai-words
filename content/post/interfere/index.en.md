@@ -7,23 +7,23 @@ description = '[ˌintəˈfiə] vi.干涉，干预；妨碍'
 keywords = ['ai words', 'interfere']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌɪntərˈfɪər/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [involve](/en/post/involve/) [oneself](/en/post/oneself/) [in](/en/post/in/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) causes disruption, obstruction, [or](/en/post/or/) hindrance; [to](/en/post/to/) intervene [without](/en/post/without/) [invitation](/en/post/invitation/) [or](/en/post/or/) [necessity](/en/post/necessity/), [often](/en/post/often/) [leading](/en/post/leading/) [to](/en/post/to/) [negative](/en/post/negative/) consequences. [Example](/en/post/example/): "[The](/en/post/the/) [noisy](/en/post/noisy/) [construction](/en/post/construction/) [work](/en/post/work/) [next](/en/post/next/) [door](/en/post/door/) was interfering [with](/en/post/with/) [my](/en/post/my/) [ability](/en/post/ability/) [to](/en/post/to/) [concentrate](/en/post/concentrate/)."
-  - [To](/en/post/to/) clash [or](/en/post/or/) [compete](/en/post/compete/) [with](/en/post/with/) [something](/en/post/something/) [else](/en/post/else/), [often](/en/post/often/) causing [confusion](/en/post/confusion/) [or](/en/post/or/) incompatibility. [Example](/en/post/example/): "[Her](/en/post/her/) [personal](/en/post/personal/) beliefs interfered [with](/en/post/with/) [her](/en/post/her/) [ability](/en/post/ability/) [to](/en/post/to/) [carry](/en/post/carry/) [out](/en/post/out/) [the](/en/post/the/) [task](/en/post/task/) assigned."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [involve](/post/involve/) [oneself](/post/oneself/) [in](/post/in/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) causes disruption, obstruction, [or](/post/or/) hindrance; [to](/post/to/) intervene [without](/post/without/) [invitation](/post/invitation/) [or](/post/or/) [necessity](/post/necessity/), [often](/post/often/) [leading](/post/leading/) [to](/post/to/) [negative](/post/negative/) consequences. [Example](/post/example/): "[The](/post/the/) [noisy](/post/noisy/) [construction](/post/construction/) [work](/post/work/) [next](/post/next/) [door](/post/door/) was interfering [with](/post/with/) [my](/post/my/) [ability](/post/ability/) [to](/post/to/) [concentrate](/post/concentrate/)."
+  - [To](/post/to/) clash [or](/post/or/) [compete](/post/compete/) [with](/post/with/) [something](/post/something/) [else](/post/else/), [often](/post/often/) causing [confusion](/post/confusion/) [or](/post/or/) incompatibility. [Example](/post/example/): "[Her](/post/her/) [personal](/post/personal/) beliefs interfered [with](/post/with/) [her](/post/her/) [ability](/post/ability/) [to](/post/to/) [carry](/post/carry/) [out](/post/out/) [the](/post/the/) [task](/post/task/) assigned."
   
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) interfering, meddling, [or](/en/post/or/) obstructing. [Example](/en/post/example/): "[His](/en/post/his/) [constant](/en/post/constant/) [interference](/en/post/interference/) [in](/en/post/in/) [our](/en/post/our/) [project](/en/post/project/) caused [several](/en/post/several/) delays."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [act](/post/act/) [of](/post/of/) interfering, meddling, [or](/post/or/) obstructing. [Example](/post/example/): "[His](/post/his/) [constant](/post/constant/) [interference](/post/interference/) [in](/post/in/) [our](/post/our/) [project](/post/project/) caused [several](/post/several/) delays."
 
 ## Phrases
-- "[Interfere](/en/post/interfere/) [with](/en/post/with/)": [To](/en/post/to/) disrupt [or](/en/post/or/) obstruct [something](/en/post/something/) [or](/en/post/or/) someone's [progress](/en/post/progress/) [or](/en/post/or/) [action](/en/post/action/). [Example](/en/post/example/): "Don't [interfere](/en/post/interfere/) [with](/en/post/with/) [the](/en/post/the/) [experiment](/en/post/experiment/) [while](/en/post/while/) it's running."
-- "[Without](/en/post/without/) [interference](/en/post/interference/)": [This](/en/post/this/) implies [no](/en/post/no/) disruption [or](/en/post/or/) intervention [from](/en/post/from/) [external](/en/post/external/) factors. [Example](/en/post/example/): "[The](/en/post/the/) [experiment](/en/post/experiment/) was conducted [without](/en/post/without/) [any](/en/post/any/) [interference](/en/post/interference/)."
+- "[Interfere](/post/interfere/) [with](/post/with/)": [To](/post/to/) disrupt [or](/post/or/) obstruct [something](/post/something/) [or](/post/or/) someone's [progress](/post/progress/) [or](/post/or/) [action](/post/action/). [Example](/post/example/): "Don't [interfere](/post/interfere/) [with](/post/with/) [the](/post/the/) [experiment](/post/experiment/) [while](/post/while/) it's running."
+- "[Without](/post/without/) [interference](/post/interference/)": [This](/post/this/) implies [no](/post/no/) disruption [or](/post/or/) intervention [from](/post/from/) [external](/post/external/) factors. [Example](/post/example/): "[The](/post/the/) [experiment](/post/experiment/) was conducted [without](/post/without/) [any](/post/any/) [interference](/post/interference/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "I [wish](/en/post/wish/) [my](/en/post/my/) [little](/en/post/little/) [brother](/en/post/brother/) wouldn't [interfere](/en/post/interfere/) [when](/en/post/when/) I'm studying."
-- "[The](/en/post/the/) [government](/en/post/government/) vowed [not](/en/post/not/) [to](/en/post/to/) [interfere](/en/post/interfere/) [in](/en/post/in/) [the](/en/post/the/) [private](/en/post/private/) affairs [of](/en/post/of/) [its](/en/post/its/) citizens."
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) [constant](/en/post/constant/) [interference](/en/post/interference/) [in](/en/post/in/) [our](/en/post/our/) plans made [it](/en/post/it/) [difficult](/en/post/difficult/) [to](/en/post/to/) [reach](/en/post/reach/) [our](/en/post/our/) goals [on](/en/post/on/) [time](/en/post/time/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "I [wish](/post/wish/) [my](/post/my/) [little](/post/little/) [brother](/post/brother/) wouldn't [interfere](/post/interfere/) [when](/post/when/) I'm studying."
+- "[The](/post/the/) [government](/post/government/) vowed [not](/post/not/) [to](/post/to/) [interfere](/post/interfere/) [in](/post/in/) [the](/post/the/) [private](/post/private/) affairs [of](/post/of/) [its](/post/its/) citizens."
+- **[Noun](/post/noun/)**: "[Their](/post/their/) [constant](/post/constant/) [interference](/post/interference/) [in](/post/in/) [our](/post/our/) plans made [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [reach](/post/reach/) [our](/post/our/) goals [on](/post/on/) [time](/post/time/)."
 
 ## Synonyms
 - Obstruct
@@ -34,7 +34,7 @@ keywords = ['ai words', 'interfere']
 - Hinder
 - Interpose
 - Disrupt
-- [Interrupt](/en/post/interrupt/)
+- [Interrupt](/post/interrupt/)
 - Impede
-- [Compromise](/en/post/compromise/)
+- [Compromise](/post/compromise/)
 - Tamper

@@ -7,38 +7,38 @@ description = '[ˈskwirəl] n.松鼠'
 keywords = ['ai words', 'squirrel']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈkrɪl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [small](/en/post/small/), tree-dwelling mammal [with](/en/post/with/) [a](/en/post/a/) bushy [tail](/en/post/tail/), typically [brown](/en/post/brown/) [or](/en/post/or/) [gray](/en/post/gray/), [that](/en/post/that/) feeds [on](/en/post/on/) nuts [and](/en/post/and/) seeds. **[Example](/en/post/example/):** "[The](/en/post/the/) [squirrel](/en/post/squirrel/) scampered [up](/en/post/up/) [the](/en/post/the/) [tree](/en/post/tree/), storing acorns [for](/en/post/for/) [winter](/en/post/winter/)."
+### [Noun](/post/noun/)
+[A](/post/a/) [small](/post/small/), tree-dwelling mammal [with](/post/with/) [a](/post/a/) bushy [tail](/post/tail/), typically [brown](/post/brown/) [or](/post/or/) [gray](/post/gray/), [that](/post/that/) feeds [on](/post/on/) nuts [and](/post/and/) seeds. **[Example](/post/example/):** "[The](/post/the/) [squirrel](/post/squirrel/) scampered [up](/post/up/) [the](/post/the/) [tree](/post/tree/), storing acorns [for](/post/for/) [winter](/post/winter/)."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [gather](/en/post/gather/) [or](/en/post/or/) hoard [food](/en/post/food/), [often](/en/post/often/) referring [to](/en/post/to/) squirrels' [behavior](/en/post/behavior/). **[Example](/en/post/example/):** "Squirrels are known [for](/en/post/for/) [their](/en/post/their/) [habit](/en/post/habit/) [of](/en/post/of/) squirreling [away](/en/post/away/) nuts [for](/en/post/for/) [the](/en/post/the/) [season](/en/post/season/)."
+### [Verb](/post/verb/)
+[To](/post/to/) [gather](/post/gather/) [or](/post/or/) hoard [food](/post/food/), [often](/post/often/) referring [to](/post/to/) squirrels' [behavior](/post/behavior/). **[Example](/post/example/):** "Squirrels are known [for](/post/for/) [their](/post/their/) [habit](/post/habit/) [of](/post/of/) squirreling [away](/post/away/) nuts [for](/post/for/) [the](/post/the/) [season](/post/season/)."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) squirrels [or](/en/post/or/) [their](/en/post/their/) actions. **[Example](/en/post/example/):** "[The](/en/post/the/) squirrel-themed [garden](/en/post/garden/) was [a](/en/post/a/) [delight](/en/post/delight/) [to](/en/post/to/) behold."
-2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [being](/en/post/being/) [active](/en/post/active/) [or](/en/post/or/) energetic. **[Example](/en/post/example/):** "[Her](/en/post/her/) squirrelly [energy](/en/post/energy/) [never](/en/post/never/) seemed [to](/en/post/to/) [fade](/en/post/fade/)."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) squirrels [or](/post/or/) [their](/post/their/) actions. **[Example](/post/example/):** "[The](/post/the/) squirrel-themed [garden](/post/garden/) was [a](/post/a/) [delight](/post/delight/) [to](/post/to/) behold."
+2. [Characteristic](/post/characteristic/) [of](/post/of/) [being](/post/being/) [active](/post/active/) [or](/post/or/) energetic. **[Example](/post/example/):** "[Her](/post/her/) squirrelly [energy](/post/energy/) [never](/post/never/) seemed [to](/post/to/) [fade](/post/fade/)."
 
-### [Adverb](/en/post/adverb/)
-[In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) resembling [a](/en/post/a/) squirrel's [activity](/en/post/activity/) [or](/en/post/or/) agility. **[Example](/en/post/example/):** "[The](/en/post/the/) squirrelily nimble climber managed [to](/en/post/to/) [escape](/en/post/escape/) [the](/en/post/the/) [trap](/en/post/trap/)."
+### [Adverb](/post/adverb/)
+[In](/post/in/) [a](/post/a/) [manner](/post/manner/) resembling [a](/post/a/) squirrel's [activity](/post/activity/) [or](/post/or/) agility. **[Example](/post/example/):** "[The](/post/the/) squirrelily nimble climber managed [to](/post/to/) [escape](/post/escape/) [the](/post/the/) [trap](/post/trap/)."
 
 ## Phrases
-- "[Squirrel](/en/post/squirrel/) [about](/en/post/about/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [restless](/en/post/restless/) [or](/en/post/or/) fidgety.
-- "[Squirrel](/en/post/squirrel/) [away](/en/post/away/)" signifies [saving](/en/post/saving/) [or](/en/post/or/) hiding [something](/en/post/something/).
-- "[Squirrel](/en/post/squirrel/) [out](/en/post/out/)" is slang [for](/en/post/for/) getting lost [or](/en/post/or/) disoriented.
+- "[Squirrel](/post/squirrel/) [about](/post/about/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) [restless](/post/restless/) [or](/post/or/) fidgety.
+- "[Squirrel](/post/squirrel/) [away](/post/away/)" signifies [saving](/post/saving/) [or](/post/or/) hiding [something](/post/something/).
+- "[Squirrel](/post/squirrel/) [out](/post/out/)" is slang [for](/post/for/) getting lost [or](/post/or/) disoriented.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children watched [the](/en/post/the/) [squirrel](/en/post/squirrel/) [play](/en/post/play/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) squirrelled seeds [in](/en/post/in/) [different](/en/post/different/) sections [of](/en/post/of/) [the](/en/post/the/) [garden](/en/post/garden/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) squirrelly [nature](/en/post/nature/) made [her](/en/post/her/) [the](/en/post/the/) [life](/en/post/life/) [of](/en/post/of/) [the](/en/post/the/) [party](/en/post/party/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) squirrelishly [quick](/en/post/quick/) burglar slipped [through](/en/post/through/) [the](/en/post/the/) [security](/en/post/security/) measures."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children watched [the](/post/the/) [squirrel](/post/squirrel/) [play](/post/play/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [gardener](/post/gardener/) squirrelled seeds [in](/post/in/) [different](/post/different/) sections [of](/post/of/) [the](/post/the/) [garden](/post/garden/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) squirrelly [nature](/post/nature/) made [her](/post/her/) [the](/post/the/) [life](/post/life/) [of](/post/of/) [the](/post/the/) [party](/post/party/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) squirrelishly [quick](/post/quick/) burglar slipped [through](/post/through/) [the](/post/the/) [security](/post/security/) measures."
 
 ## Synonyms
 - Squirmy
 - Nutty (informal)
 - Nut-gathering
 - Chipmunkish
-- [Active](/en/post/active/)
+- [Active](/post/active/)
 - Agile

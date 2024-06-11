@@ -7,46 +7,46 @@ description = '[ˈædvəːb] n.副词'
 keywords = ['ai words', 'adverb']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈædvɜːrb/
 
 ## Definitions
-**[Adverb](/en/post/adverb/)** (n): [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [speech](/en/post/speech/) [that](/en/post/that/) modifies [or](/en/post/or/) describes [a](/en/post/a/) [verb](/en/post/verb/), an [adjective](/en/post/adjective/), [another](/en/post/another/) [adverb](/en/post/adverb/), [or](/en/post/or/) [a](/en/post/a/) [whole](/en/post/whole/) [sentence](/en/post/sentence/), [often](/en/post/often/) indicating [manner](/en/post/manner/), [place](/en/post/place/), [time](/en/post/time/), [frequency](/en/post/frequency/), [degree](/en/post/degree/), [or](/en/post/or/) [exception](/en/post/exception/). [It](/en/post/it/) provides [additional](/en/post/additional/) [information](/en/post/information/) [about](/en/post/about/) [the](/en/post/the/) [action](/en/post/action/) [or](/en/post/or/) [quality](/en/post/quality/) [it](/en/post/it/) modifies.
+**[Adverb](/post/adverb/)** (n): [A](/post/a/) [part](/post/part/) [of](/post/of/) [speech](/post/speech/) [that](/post/that/) modifies [or](/post/or/) describes [a](/post/a/) [verb](/post/verb/), an [adjective](/post/adjective/), [another](/post/another/) [adverb](/post/adverb/), [or](/post/or/) [a](/post/a/) [whole](/post/whole/) [sentence](/post/sentence/), [often](/post/often/) indicating [manner](/post/manner/), [place](/post/place/), [time](/post/time/), [frequency](/post/frequency/), [degree](/post/degree/), [or](/post/or/) [exception](/post/exception/). [It](/post/it/) provides [additional](/post/additional/) [information](/post/information/) [about](/post/about/) [the](/post/the/) [action](/post/action/) [or](/post/or/) [quality](/post/quality/) [it](/post/it/) modifies.
 
-**[Adverb](/en/post/adverb/)** (v): [To](/en/post/to/) [modify](/en/post/modify/) [or](/en/post/or/) [qualify](/en/post/qualify/) [a](/en/post/a/) [verb](/en/post/verb/), [usually](/en/post/usually/) [by](/en/post/by/) specifying [how](/en/post/how/), [when](/en/post/when/), [where](/en/post/where/), [or](/en/post/or/) [to](/en/post/to/) [what](/en/post/what/) [extent](/en/post/extent/) [something](/en/post/something/) is done.
+**[Adverb](/post/adverb/)** (v): [To](/post/to/) [modify](/post/modify/) [or](/post/or/) [qualify](/post/qualify/) [a](/post/a/) [verb](/post/verb/), [usually](/post/usually/) [by](/post/by/) specifying [how](/post/how/), [when](/post/when/), [where](/post/where/), [or](/post/or/) [to](/post/to/) [what](/post/what/) [extent](/post/extent/) [something](/post/something/) is done.
 
 ## Phrases
-- "[In](/en/post/in/) [a](/en/post/a/) [friendly](/en/post/friendly/) [manner](/en/post/manner/)"
-- "[After](/en/post/after/) finishing [his](/en/post/his/) [work](/en/post/work/)"
-- "[With](/en/post/with/) [great](/en/post/great/) [enthusiasm](/en/post/enthusiasm/)"
-- "[Slightly](/en/post/slightly/) colder [than](/en/post/than/) [usual](/en/post/usual/)"
-- "[To](/en/post/to/) [a](/en/post/a/) [certain](/en/post/certain/) [extent](/en/post/extent/)"
+- "[In](/post/in/) [a](/post/a/) [friendly](/post/friendly/) [manner](/post/manner/)"
+- "[After](/post/after/) finishing [his](/post/his/) [work](/post/work/)"
+- "[With](/post/with/) [great](/post/great/) [enthusiasm](/post/enthusiasm/)"
+- "[Slightly](/post/slightly/) colder [than](/post/than/) [usual](/post/usual/)"
+- "[To](/post/to/) [a](/post/a/) [certain](/post/certain/) [extent](/post/extent/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/) modifying [a](/en/post/a/) [verb](/en/post/verb/)**: "[She](/en/post/she/) sings beautifully."
-- **[Adverb](/en/post/adverb/) modifying an [adjective](/en/post/adjective/)**: "[The](/en/post/the/) [car](/en/post/car/) drove [smoothly](/en/post/smoothly/)."
-- **[Adverb](/en/post/adverb/) modifying [another](/en/post/another/) [adverb](/en/post/adverb/)**: "[He](/en/post/he/) speaks loudly [and](/en/post/and/) [clearly](/en/post/clearly/)."
-- **[Adverb](/en/post/adverb/) modifying [a](/en/post/a/) [sentence](/en/post/sentence/)**: "[He](/en/post/he/) [usually](/en/post/usually/) arrives [early](/en/post/early/), [but](/en/post/but/) [today](/en/post/today/) he's running [late](/en/post/late/)."
-- **[Adverb](/en/post/adverb/) expressing [manner](/en/post/manner/)**: "[He](/en/post/he/) laughed heartily."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/) modifying [a](/post/a/) [verb](/post/verb/)**: "[She](/post/she/) sings beautifully."
+- **[Adverb](/post/adverb/) modifying an [adjective](/post/adjective/)**: "[The](/post/the/) [car](/post/car/) drove [smoothly](/post/smoothly/)."
+- **[Adverb](/post/adverb/) modifying [another](/post/another/) [adverb](/post/adverb/)**: "[He](/post/he/) speaks loudly [and](/post/and/) [clearly](/post/clearly/)."
+- **[Adverb](/post/adverb/) modifying [a](/post/a/) [sentence](/post/sentence/)**: "[He](/post/he/) [usually](/post/usually/) arrives [early](/post/early/), [but](/post/but/) [today](/post/today/) he's running [late](/post/late/)."
+- **[Adverb](/post/adverb/) expressing [manner](/post/manner/)**: "[He](/post/he/) laughed heartily."
 
 ## Synonyms
 - Adelante
-- [Consequently](/en/post/consequently/)
-- [Likewise](/en/post/likewise/)
-- [Consequently](/en/post/consequently/)
-- [Accordingly](/en/post/accordingly/)
-- [Occasionally](/en/post/occasionally/)
-- [Regularly](/en/post/regularly/)
-- [Frequently](/en/post/frequently/)
-- [Occasionally](/en/post/occasionally/)
+- [Consequently](/post/consequently/)
+- [Likewise](/post/likewise/)
+- [Consequently](/post/consequently/)
+- [Accordingly](/post/accordingly/)
+- [Occasionally](/post/occasionally/)
+- [Regularly](/post/regularly/)
+- [Frequently](/post/frequently/)
+- [Occasionally](/post/occasionally/)
 - Typically
 - Specifically
-- [Approximately](/en/post/approximately/)
-- [Consequently](/en/post/consequently/)
-- [Hence](/en/post/hence/)
-- [Consequently](/en/post/consequently/)
-- [Thus](/en/post/thus/)
-- [Generally](/en/post/generally/)
+- [Approximately](/post/approximately/)
+- [Consequently](/post/consequently/)
+- [Hence](/post/hence/)
+- [Consequently](/post/consequently/)
+- [Thus](/post/thus/)
+- [Generally](/post/generally/)
 - Emphatically
 
-[Note](/en/post/note/): [The](/en/post/the/) [list](/en/post/list/) [of](/en/post/of/) synonyms [provided](/en/post/provided/) is [not](/en/post/not/) exhaustive [and](/en/post/and/) [may](/en/post/may/) [vary](/en/post/vary/) depending [on](/en/post/on/) [the](/en/post/the/) context [in](/en/post/in/) [which](/en/post/which/) [the](/en/post/the/) [adverb](/en/post/adverb/) is [used](/en/post/used/).
+[Note](/post/note/): [The](/post/the/) [list](/post/list/) [of](/post/of/) synonyms [provided](/post/provided/) is [not](/post/not/) exhaustive [and](/post/and/) [may](/post/may/) [vary](/post/vary/) depending [on](/post/on/) [the](/post/the/) context [in](/post/in/) [which](/post/which/) [the](/post/the/) [adverb](/post/adverb/) is [used](/post/used/).

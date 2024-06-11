@@ -11,19 +11,19 @@ keywords = ['ai words', 'and']
 /ænd/
 
 ## 释义
-- **连词**: 连接两个词、短语或句子，表示并列关系。例如: "I [like](/post/like/) [coffee](/post/coffee/) [and](/post/and/) [tea](/post/tea/)."
-- **名词**: 在某些固定表达中，如 "[and](/post/and/) [so](/post/so/) [on](/post/on/)"（等等），"[and](/post/and/) [all](/post/all/)"（所有这些）。
+- **连词**: 连接两个词、短语或句子，表示并列关系。例如: "I [like](/zh/post/like/) [coffee](/zh/post/coffee/) [and](/zh/post/and/) [tea](/zh/post/tea/)."
+- **名词**: 在某些固定表达中，如 "[and](/zh/post/and/) [so](/zh/post/so/) [on](/zh/post/on/)"（等等），"[and](/zh/post/and/) [all](/zh/post/all/)"（所有这些）。
 
 ## 短语
-- "[And](/post/and/) [so](/post/so/) [on](/post/on/)" 表示列举未尽的其他事物。
-- "[And](/post/and/) [all](/post/all/)" 用来概括包括在内的其他相关事物。
+- "[And](/zh/post/and/) [so](/zh/post/so/) [on](/zh/post/on/)" 表示列举未尽的其他事物。
+- "[And](/zh/post/and/) [all](/zh/post/all/)" 用来概括包括在内的其他相关事物。
 
 ## 例句
-- 连词: "[She](/post/she/) likes [painting](/post/painting/), dancing, [and](/post/and/) singing."
-- 名词: "[There](/post/there/) were [many](/post/many/) items [on](/post/on/) [the](/post/the/) [list](/post/list/), including apples, oranges, [and](/post/and/) [so](/post/so/) [on](/post/on/)."
+- 连词: "[She](/zh/post/she/) likes [painting](/zh/post/painting/), dancing, [and](/zh/post/and/) singing."
+- 名词: "[There](/zh/post/there/) were [many](/zh/post/many/) items [on](/zh/post/on/) [the](/zh/post/the/) [list](/zh/post/list/), including apples, oranges, [and](/zh/post/and/) [so](/zh/post/so/) [on](/zh/post/on/)."
 
 ## 同义词
-- [Plus](/post/plus/)
-- [As](/post/as/) [well](/post/well/) [as](/post/as/)
-- [In](/post/in/) [addition](/post/addition/)
-- [Not](/post/not/) [only](/post/only/)...[but](/post/but/) [also](/post/also/)...
+- [Plus](/zh/post/plus/)
+- [As](/zh/post/as/) [well](/zh/post/well/) [as](/zh/post/as/)
+- [In](/zh/post/in/) [addition](/zh/post/addition/)
+- [Not](/zh/post/not/) [only](/zh/post/only/)...[but](/zh/post/but/) [also](/zh/post/also/)...

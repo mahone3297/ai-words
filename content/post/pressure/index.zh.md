@@ -11,23 +11,23 @@ keywords = ['ai words', 'pressure']
 /prɪˈsʌst/
 
 ## 释义
-- **名词**: 压力；重压；负担。例如: "[The](/post/the/) [high](/post/high/) workload [put](/post/put/) [too](/post/too/) [much](/post/much/) [pressure](/post/pressure/) [on](/post/on/) [the](/post/the/) employees."
-- **动词**: 对...施加压力；逼迫。例如: "[They](/post/they/) pressured [him](/post/him/) [into](/post/into/) signing [the](/post/the/) [contract](/post/contract/)."
-- **形容词**: 压力的；紧张的。例如: "[She](/post/she/) felt [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [pressure](/post/pressure/) [before](/post/before/) [the](/post/the/) [exam](/post/exam/)."
+- **名词**: 压力；重压；负担。例如: "[The](/zh/post/the/) [high](/zh/post/high/) workload [put](/zh/post/put/) [too](/zh/post/too/) [much](/zh/post/much/) [pressure](/zh/post/pressure/) [on](/zh/post/on/) [the](/zh/post/the/) employees."
+- **动词**: 对...施加压力；逼迫。例如: "[They](/zh/post/they/) pressured [him](/zh/post/him/) [into](/zh/post/into/) signing [the](/zh/post/the/) [contract](/zh/post/contract/)."
+- **形容词**: 压力的；紧张的。例如: "[She](/zh/post/she/) felt [a](/zh/post/a/) [lot](/zh/post/lot/) [of](/zh/post/of/) [pressure](/zh/post/pressure/) [before](/zh/post/before/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
 
 ## 短语
-- "[Under](/post/under/) [pressure](/post/pressure/)" 意为在压力下。
-- "[Pressure](/post/pressure/) cooker" 指高压锅，也可比喻为充满压力的环境。
-- "[Blood](/post/blood/) [pressure](/post/pressure/)" 血压，医学术语。
+- "[Under](/zh/post/under/) [pressure](/zh/post/pressure/)" 意为在压力下。
+- "[Pressure](/zh/post/pressure/) cooker" 指高压锅，也可比喻为充满压力的环境。
+- "[Blood](/zh/post/blood/) [pressure](/zh/post/pressure/)" 血压，医学术语。
 
 ## 例句
-- 名词: "[The](/post/the/) [pilot](/post/pilot/) had [to](/post/to/) [deal](/post/deal/) [with](/post/with/) [extreme](/post/extreme/) [pressure](/post/pressure/) [at](/post/at/) [high](/post/high/) altitudes."
-- 动词: "[Her](/post/her/) parents pressured [her](/post/her/) [to](/post/to/) [choose](/post/choose/) [a](/post/a/) [more](/post/more/) [stable](/post/stable/) [career](/post/career/) [path](/post/path/)."
-- 形容词: "[The](/post/the/) [athlete](/post/athlete/) performed [well](/post/well/) [despite](/post/despite/) [the](/post/the/) [pressure](/post/pressure/) [of](/post/of/) [the](/post/the/) [competition](/post/competition/)."
+- 名词: "[The](/zh/post/the/) [pilot](/zh/post/pilot/) had [to](/zh/post/to/) [deal](/zh/post/deal/) [with](/zh/post/with/) [extreme](/zh/post/extreme/) [pressure](/zh/post/pressure/) [at](/zh/post/at/) [high](/zh/post/high/) altitudes."
+- 动词: "[Her](/zh/post/her/) parents pressured [her](/zh/post/her/) [to](/zh/post/to/) [choose](/zh/post/choose/) [a](/zh/post/a/) [more](/zh/post/more/) [stable](/zh/post/stable/) [career](/zh/post/career/) [path](/zh/post/path/)."
+- 形容词: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) performed [well](/zh/post/well/) [despite](/zh/post/despite/) [the](/zh/post/the/) [pressure](/zh/post/pressure/) [of](/zh/post/of/) [the](/zh/post/the/) [competition](/zh/post/competition/)."
 
 ## 同义词
-- [Stress](/post/stress/)
-- [Strain](/post/strain/)
-- [Force](/post/force/)
+- [Stress](/zh/post/stress/)
+- [Strain](/zh/post/strain/)
+- [Force](/zh/post/force/)
 - Compulsion
-- [Burden](/post/burden/)
+- [Burden](/zh/post/burden/)

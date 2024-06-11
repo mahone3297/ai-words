@@ -7,27 +7,27 @@ description = '[ˈmiljən] num.百万 n.许多'
 keywords = ['ai words', 'million']
 +++
 
-## [Word](/en/post/word/): [Million](/en/post/million/)
+## [Word](/post/word/): [Million](/post/million/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɪl.jən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [number](/en/post/number/) [equal](/en/post/equal/) [to](/en/post/to/) 1,000,000, [which](/en/post/which/) is [one](/en/post/one/) [thousand](/en/post/thousand/) thousands, [commonly](/en/post/commonly/) [used](/en/post/used/) [to](/en/post/to/) [represent](/en/post/represent/) [a](/en/post/a/) [large](/en/post/large/) [quantity](/en/post/quantity/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) has sold millions [of](/en/post/of/) copies [of](/en/post/of/) [the](/en/post/the/) [book](/en/post/book/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [number](/post/number/) [equal](/post/equal/) [to](/post/to/) 1,000,000, [which](/post/which/) is [one](/post/one/) [thousand](/post/thousand/) thousands, [commonly](/post/commonly/) [used](/post/used/) [to](/post/to/) [represent](/post/represent/) [a](/post/a/) [large](/post/large/) [quantity](/post/quantity/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) has sold millions [of](/post/of/) copies [of](/post/of/) [the](/post/the/) [book](/post/book/)."
   
-  [Phrase](/en/post/phrase/): 
-  - "[A](/en/post/a/) [million](/en/post/million/) dollars/pounds/euros" is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) denote [a](/en/post/a/) [substantial](/en/post/substantial/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/). [Example](/en/post/example/): "[He](/en/post/he/) won [a](/en/post/a/) [million](/en/post/million/) dollars [in](/en/post/in/) [the](/en/post/the/) lottery."
-  - "[One](/en/post/one/) [in](/en/post/in/) [a](/en/post/a/) [million](/en/post/million/)" is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [that](/en/post/that/) is [extremely](/en/post/extremely/) [rare](/en/post/rare/) [or](/en/post/or/) [unique](/en/post/unique/). [Example](/en/post/example/): "She's [a](/en/post/a/) one-in-a-million [talent](/en/post/talent/)."
+  [Phrase](/post/phrase/): 
+  - "[A](/post/a/) [million](/post/million/) dollars/pounds/euros" is [often](/post/often/) [used](/post/used/) [to](/post/to/) denote [a](/post/a/) [substantial](/post/substantial/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/). [Example](/post/example/): "[He](/post/he/) won [a](/post/a/) [million](/post/million/) dollars [in](/post/in/) [the](/post/the/) lottery."
+  - "[One](/post/one/) [in](/post/in/) [a](/post/a/) [million](/post/million/)" is [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [that](/post/that/) is [extremely](/post/extremely/) [rare](/post/rare/) [or](/post/or/) [unique](/post/unique/). [Example](/post/example/): "She's [a](/post/a/) one-in-a-million [talent](/post/talent/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[There](/en/post/there/) are [approximately](/en/post/approximately/) [a](/en/post/a/) [million](/en/post/million/) stars [in](/en/post/in/) [our](/en/post/our/) galaxy."
-- "[She](/en/post/she/) dreams [of](/en/post/of/) becoming [a](/en/post/a/) millionaire [by](/en/post/by/) starting [her](/en/post/her/) [own](/en/post/own/) [business](/en/post/business/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[There](/post/there/) are [approximately](/post/approximately/) [a](/post/a/) [million](/post/million/) stars [in](/post/in/) [our](/post/our/) galaxy."
+- "[She](/post/she/) dreams [of](/post/of/) becoming [a](/post/a/) millionaire [by](/post/by/) starting [her](/post/her/) [own](/post/own/) [business](/post/business/)."
 
 ## Synonyms
-- ([in](/en/post/in/) terms [of](/en/post/of/) [quantity](/en/post/quantity/)) Thousands [of](/en/post/of/) thousands
-- [A](/en/post/a/) [great](/en/post/great/) [many](/en/post/many/)
-- [A](/en/post/a/) [vast](/en/post/vast/) [number](/en/post/number/)
+- ([in](/post/in/) terms [of](/post/of/) [quantity](/post/quantity/)) Thousands [of](/post/of/) thousands
+- [A](/post/a/) [great](/post/great/) [many](/post/many/)
+- [A](/post/a/) [vast](/post/vast/) [number](/post/number/)
 - Countless
 - Myriad
 
-[Please](/en/post/please/) [note](/en/post/note/) [that](/en/post/that/) '[million](/en/post/million/)' does [not](/en/post/not/) typically [have](/en/post/have/) [verb](/en/post/verb/) [or](/en/post/or/) [adjective](/en/post/adjective/) uses [like](/en/post/like/) [the](/en/post/the/) [example](/en/post/example/) [provided](/en/post/provided/) [with](/en/post/with/) "[hello](/en/post/hello/)." [It](/en/post/it/) is [primarily](/en/post/primarily/) [a](/en/post/a/) numerical [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [quantity](/en/post/quantity/). [However](/en/post/however/), [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) idiomatically [in](/en/post/in/) [various](/en/post/various/) phrases [as](/en/post/as/) shown [above](/en/post/above/).
+[Please](/post/please/) [note](/post/note/) [that](/post/that/) '[million](/post/million/)' does [not](/post/not/) typically [have](/post/have/) [verb](/post/verb/) [or](/post/or/) [adjective](/post/adjective/) uses [like](/post/like/) [the](/post/the/) [example](/post/example/) [provided](/post/provided/) [with](/post/with/) "[hello](/post/hello/)." [It](/post/it/) is [primarily](/post/primarily/) [a](/post/a/) numerical [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [specific](/post/specific/) [quantity](/post/quantity/). [However](/post/however/), [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) idiomatically [in](/post/in/) [various](/post/various/) phrases [as](/post/as/) shown [above](/post/above/).

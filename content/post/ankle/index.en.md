@@ -7,32 +7,32 @@ description = '[ˈæŋkl] n.踝，踝节部'
 keywords = ['ai words', 'ankle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæŋkl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[Ankle](/en/post/ankle/) is [a](/en/post/a/) [noun](/en/post/noun/) [that](/en/post/that/) refers [to](/en/post/to/) [the](/en/post/the/) [joint](/en/post/joint/) connecting [the](/en/post/the/) [lower](/en/post/lower/) [leg](/en/post/leg/) [to](/en/post/to/) [the](/en/post/the/) [foot](/en/post/foot/), typically located [where](/en/post/where/) [the](/en/post/the/) [leg](/en/post/leg/) bones (tibia [and](/en/post/and/) fibula) [meet](/en/post/meet/) [the](/en/post/the/) [foot](/en/post/foot/) bones (metatarsals).
+### [Noun](/post/noun/)
+[Ankle](/post/ankle/) is [a](/post/a/) [noun](/post/noun/) [that](/post/that/) refers [to](/post/to/) [the](/post/the/) [joint](/post/joint/) connecting [the](/post/the/) [lower](/post/lower/) [leg](/post/leg/) [to](/post/to/) [the](/post/the/) [foot](/post/foot/), typically located [where](/post/where/) [the](/post/the/) [leg](/post/leg/) bones (tibia [and](/post/and/) fibula) [meet](/post/meet/) [the](/post/the/) [foot](/post/foot/) bones (metatarsals).
 
-### [Verb](/en/post/verb/)
-[The](/en/post/the/) [term](/en/post/term/) "[ankle](/en/post/ankle/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) informally [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [particularly](/en/post/particularly/) [in](/en/post/in/) British English, [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) twisting [or](/en/post/or/) spraining one's [ankle](/en/post/ankle/), [as](/en/post/as/) [in](/en/post/in/) "[He](/en/post/he/) twisted [his](/en/post/his/) [ankle](/en/post/ankle/) playing [soccer](/en/post/soccer/)."
+### [Verb](/post/verb/)
+[The](/post/the/) [term](/post/term/) "[ankle](/post/ankle/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) informally [as](/post/as/) [a](/post/a/) [verb](/post/verb/), [particularly](/post/particularly/) [in](/post/in/) British English, [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [act](/post/act/) [of](/post/of/) twisting [or](/post/or/) spraining one's [ankle](/post/ankle/), [as](/post/as/) [in](/post/in/) "[He](/post/he/) twisted [his](/post/his/) [ankle](/post/ankle/) playing [soccer](/post/soccer/)."
 
 ## Phrases
-- "Sprain [your](/en/post/your/) [ankle](/en/post/ankle/)" refers [to](/en/post/to/) [the](/en/post/the/) [injury](/en/post/injury/) [that](/en/post/that/) occurs [when](/en/post/when/) [the](/en/post/the/) [ankle](/en/post/ankle/) [joint](/en/post/joint/) is overstretched [or](/en/post/or/) twisted.
-- "[Roll](/en/post/roll/) [your](/en/post/your/) [ankle](/en/post/ankle/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [for](/en/post/for/) accidentally [turning](/en/post/turning/) [your](/en/post/your/) [ankle](/en/post/ankle/), [often](/en/post/often/) [during](/en/post/during/) [physical](/en/post/physical/) [activity](/en/post/activity/).
-- "[Ankle](/en/post/ankle/) [support](/en/post/support/)" [or](/en/post/or/) "[ankle](/en/post/ankle/) brace" are terms [for](/en/post/for/) devices worn [to](/en/post/to/) [protect](/en/post/protect/) [or](/en/post/or/) stabilize [the](/en/post/the/) [ankle](/en/post/ankle/).
+- "Sprain [your](/post/your/) [ankle](/post/ankle/)" refers [to](/post/to/) [the](/post/the/) [injury](/post/injury/) [that](/post/that/) occurs [when](/post/when/) [the](/post/the/) [ankle](/post/ankle/) [joint](/post/joint/) is overstretched [or](/post/or/) twisted.
+- "[Roll](/post/roll/) [your](/post/your/) [ankle](/post/ankle/)" is [a](/post/a/) colloquial [expression](/post/expression/) [for](/post/for/) accidentally [turning](/post/turning/) [your](/post/your/) [ankle](/post/ankle/), [often](/post/often/) [during](/post/during/) [physical](/post/physical/) [activity](/post/activity/).
+- "[Ankle](/post/ankle/) [support](/post/support/)" [or](/post/or/) "[ankle](/post/ankle/) brace" are terms [for](/post/for/) devices worn [to](/post/to/) [protect](/post/protect/) [or](/post/or/) stabilize [the](/post/the/) [ankle](/post/ankle/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) gingerly examined [her](/en/post/her/) swollen [ankle](/en/post/ankle/) [after](/en/post/after/) [the](/en/post/the/) [fall](/en/post/fall/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) carefully rolled [his](/en/post/his/) [ankle](/en/post/ankle/) [back](/en/post/back/) [and](/en/post/and/) [forth](/en/post/forth/) [to](/en/post/to/) regain mobility."
-- **Informal [Verb](/en/post/verb/)**: "[He](/en/post/he/) [hurt](/en/post/hurt/) [his](/en/post/his/) [ankle](/en/post/ankle/) [during](/en/post/during/) [the](/en/post/the/) hiking [trip](/en/post/trip/) [and](/en/post/and/) had [to](/en/post/to/) [rest](/en/post/rest/) [for](/en/post/for/) [a](/en/post/a/) [while](/en/post/while/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) gingerly examined [her](/post/her/) swollen [ankle](/post/ankle/) [after](/post/after/) [the](/post/the/) [fall](/post/fall/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) carefully rolled [his](/post/his/) [ankle](/post/ankle/) [back](/post/back/) [and](/post/and/) [forth](/post/forth/) [to](/post/to/) regain mobility."
+- **Informal [Verb](/post/verb/)**: "[He](/post/he/) [hurt](/post/hurt/) [his](/post/his/) [ankle](/post/ankle/) [during](/post/during/) [the](/post/the/) hiking [trip](/post/trip/) [and](/post/and/) had [to](/post/to/) [rest](/post/rest/) [for](/post/for/) [a](/post/a/) [while](/post/while/)."
 
 ## Synonyms
-- [Foot](/en/post/foot/) [joint](/en/post/joint/)
-- [Lower](/en/post/lower/) [leg](/en/post/leg/) [joint](/en/post/joint/)
-- Tibiofibular [joint](/en/post/joint/)
-- Calf [link](/en/post/link/)
-- Sprain [site](/en/post/site/)
+- [Foot](/post/foot/) [joint](/post/joint/)
+- [Lower](/post/lower/) [leg](/post/leg/) [joint](/post/joint/)
+- Tibiofibular [joint](/post/joint/)
+- Calf [link](/post/link/)
+- Sprain [site](/post/site/)
 
 ## Antonyms
-- [No](/en/post/no/) synonyms [for](/en/post/for/) "[ankle](/en/post/ankle/)" [in](/en/post/in/) [this](/en/post/this/) context, [as](/en/post/as/) [it](/en/post/it/) is [a](/en/post/a/) [specific](/en/post/specific/) anatomical [term](/en/post/term/). [However](/en/post/however/), "uninjured" [or](/en/post/or/) "unhurt" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [opposite](/en/post/opposite/) [state](/en/post/state/) [of](/en/post/of/) [the](/en/post/the/) [ankle](/en/post/ankle/).
+- [No](/post/no/) synonyms [for](/post/for/) "[ankle](/post/ankle/)" [in](/post/in/) [this](/post/this/) context, [as](/post/as/) [it](/post/it/) is [a](/post/a/) [specific](/post/specific/) anatomical [term](/post/term/). [However](/post/however/), "uninjured" [or](/post/or/) "unhurt" [can](/post/can/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [the](/post/the/) [opposite](/post/opposite/) [state](/post/state/) [of](/post/of/) [the](/post/the/) [ankle](/post/ankle/).

@@ -11,21 +11,21 @@ keywords = ['ai words', 'her']
 /hɜːr/
 
 ## 释义
-- **代词**: 她，她的。指女性第三人称单数。例如: "[She](/post/she/) is [reading](/post/reading/) [her](/post/her/) [book](/post/book/)."
-- **形容词**: 属于她的，关于她的。例如: "[This](/post/this/) is [her](/post/her/) [car](/post/car/)."
+- **代词**: 她，她的。指女性第三人称单数。例如: "[She](/zh/post/she/) is [reading](/zh/post/reading/) [her](/zh/post/her/) [book](/zh/post/book/)."
+- **形容词**: 属于她的，关于她的。例如: "[This](/zh/post/this/) is [her](/zh/post/her/) [car](/zh/post/car/)."
 
 ## 短语
-- "Belonging [to](/post/to/) [her](/post/her/)" 指的是属于她的东西。
-- "[About](/post/about/) [her](/post/her/)" 关于她的事情或情况。
+- "Belonging [to](/zh/post/to/) [her](/zh/post/her/)" 指的是属于她的东西。
+- "[About](/zh/post/about/) [her](/zh/post/her/)" 关于她的事情或情况。
 
 ## 例句
-- 代词: "[He](/post/he/) gave [her](/post/her/) [a](/post/a/) [beautiful](/post/beautiful/) [present](/post/present/) [for](/post/for/) [her](/post/her/) [birthday](/post/birthday/)."
-- 形容词: "[The](/post/the/) [dress](/post/dress/) is [so](/post/so/) elegant, it's [just](/post/just/) [her](/post/her/) [style](/post/style/)."
+- 代词: "[He](/zh/post/he/) gave [her](/zh/post/her/) [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [present](/zh/post/present/) [for](/zh/post/for/) [her](/zh/post/her/) [birthday](/zh/post/birthday/)."
+- 形容词: "[The](/zh/post/the/) [dress](/zh/post/dress/) is [so](/zh/post/so/) elegant, it's [just](/zh/post/just/) [her](/zh/post/her/) [style](/zh/post/style/)."
 
 ## 同义词
 - 她（代词）:
-  - [She](/post/she/)
-  - [Her](/post/her/)
+  - [She](/zh/post/she/)
+  - [Her](/zh/post/her/)
 - 属于她的（形容词）:
-  - [Hers](/post/hers/)
-  - [Of](/post/of/) [hers](/post/hers/)
+  - [Hers](/zh/post/hers/)
+  - [Of](/zh/post/of/) [hers](/zh/post/hers/)

@@ -7,41 +7,41 @@ description = '[ˈfæbrik] n.织物，纺织品；结构'
 keywords = ['ai words', 'fabric']
 +++
 
-# [fabric](/en/post/fabric/)
+# [fabric](/post/fabric/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfæbrɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-- [A](/en/post/a/) [cloth](/en/post/cloth/) [material](/en/post/material/) made [by](/en/post/by/) weaving, knitting, [or](/en/post/or/) felting fibers, typically [from](/en/post/from/) [wool](/en/post/wool/), [cotton](/en/post/cotton/), [silk](/en/post/silk/), [or](/en/post/or/) [synthetic](/en/post/synthetic/) yarns: "[The](/en/post/the/) [dress](/en/post/dress/) was made [from](/en/post/from/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) floral [fabric](/en/post/fabric/)."
-- [The](/en/post/the/) underlying [structure](/en/post/structure/) [or](/en/post/or/) [framework](/en/post/framework/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) metaphorically: "[The](/en/post/the/) [fabric](/en/post/fabric/) [of](/en/post/of/) [society](/en/post/society/)."
-- An intricate [network](/en/post/network/) [or](/en/post/or/) [system](/en/post/system/) formed [by](/en/post/by/) interconnected parts: "[A](/en/post/a/) [fabric](/en/post/fabric/) [of](/en/post/of/) lies."
+### [Noun](/post/noun/) (n)
+- [A](/post/a/) [cloth](/post/cloth/) [material](/post/material/) made [by](/post/by/) weaving, knitting, [or](/post/or/) felting fibers, typically [from](/post/from/) [wool](/post/wool/), [cotton](/post/cotton/), [silk](/post/silk/), [or](/post/or/) [synthetic](/post/synthetic/) yarns: "[The](/post/the/) [dress](/post/dress/) was made [from](/post/from/) [a](/post/a/) [beautiful](/post/beautiful/) floral [fabric](/post/fabric/)."
+- [The](/post/the/) underlying [structure](/post/structure/) [or](/post/or/) [framework](/post/framework/) [of](/post/of/) [something](/post/something/), [often](/post/often/) metaphorically: "[The](/post/the/) [fabric](/post/fabric/) [of](/post/of/) [society](/post/society/)."
+- An intricate [network](/post/network/) [or](/post/or/) [system](/post/system/) formed [by](/post/by/) interconnected parts: "[A](/post/a/) [fabric](/post/fabric/) [of](/post/of/) lies."
 
-[Example](/en/post/example/) Sentences:
-- *[The](/en/post/the/) decorator chose [a](/en/post/a/) [rich](/en/post/rich/) [velvet](/en/post/velvet/) [fabric](/en/post/fabric/) [for](/en/post/for/) [the](/en/post/the/) curtains.*
-- *[His](/en/post/his/) actions threatened [to](/en/post/to/) [tear](/en/post/tear/) [apart](/en/post/apart/) [the](/en/post/the/) [very](/en/post/very/) [fabric](/en/post/fabric/) [of](/en/post/of/) [our](/en/post/our/) [community](/en/post/community/).*
+[Example](/post/example/) Sentences:
+- *[The](/post/the/) decorator chose [a](/post/a/) [rich](/post/rich/) [velvet](/post/velvet/) [fabric](/post/fabric/) [for](/post/for/) [the](/post/the/) curtains.*
+- *[His](/post/his/) actions threatened [to](/post/to/) [tear](/post/tear/) [apart](/post/apart/) [the](/post/the/) [very](/post/very/) [fabric](/post/fabric/) [of](/post/of/) [our](/post/our/) [community](/post/community/).*
 
-### [Verb](/en/post/verb/) (v)
-- [To](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [manufacture](/en/post/manufacture/) ([something](/en/post/something/)) [by](/en/post/by/) weaving, knitting, [or](/en/post/or/) sewing: "[She](/en/post/she/) fabricates intricate tapestries."
-- (figuratively) [To](/en/post/to/) [make](/en/post/make/) [up](/en/post/up/), [construct](/en/post/construct/), [or](/en/post/or/) [invent](/en/post/invent/), [often](/en/post/often/) [with](/en/post/with/) deceptive intent: "[They](/en/post/they/) fabricated [a](/en/post/a/) [story](/en/post/story/) [to](/en/post/to/) [cover](/en/post/cover/) [their](/en/post/their/) [mistake](/en/post/mistake/)."
+### [Verb](/post/verb/) (v)
+- [To](/post/to/) [create](/post/create/) [or](/post/or/) [manufacture](/post/manufacture/) ([something](/post/something/)) [by](/post/by/) weaving, knitting, [or](/post/or/) sewing: "[She](/post/she/) fabricates intricate tapestries."
+- (figuratively) [To](/post/to/) [make](/post/make/) [up](/post/up/), [construct](/post/construct/), [or](/post/or/) [invent](/post/invent/), [often](/post/often/) [with](/post/with/) deceptive intent: "[They](/post/they/) fabricated [a](/post/a/) [story](/post/story/) [to](/post/to/) [cover](/post/cover/) [their](/post/their/) [mistake](/post/mistake/)."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/):
-- *[The](/en/post/the/) artisan fabrics [new](/en/post/new/) designs inspired [by](/en/post/by/) [nature](/en/post/nature/).*
+[Example](/post/example/) [Sentence](/post/sentence/):
+- *[The](/post/the/) artisan fabrics [new](/post/new/) designs inspired [by](/post/by/) [nature](/post/nature/).*
 
 ## Phrases
-- "[The](/en/post/the/) [fabric](/en/post/fabric/) [of](/en/post/of/) [life](/en/post/life/)": Refers [to](/en/post/to/) [the](/en/post/the/) interconnected elements [that](/en/post/that/) [make](/en/post/make/) [up](/en/post/up/) [existence](/en/post/existence/) [or](/en/post/or/) [society](/en/post/society/).
-- "[Off](/en/post/off/) [the](/en/post/the/) [fabric](/en/post/fabric/)": [A](/en/post/a/) [phrase](/en/post/phrase/) indicating [something](/en/post/something/) that's [not](/en/post/not/) [genuine](/en/post/genuine/) [or](/en/post/or/) [original](/en/post/original/); derived [or](/en/post/or/) copied.
+- "[The](/post/the/) [fabric](/post/fabric/) [of](/post/of/) [life](/post/life/)": Refers [to](/post/to/) [the](/post/the/) interconnected elements [that](/post/that/) [make](/post/make/) [up](/post/up/) [existence](/post/existence/) [or](/post/or/) [society](/post/society/).
+- "[Off](/post/off/) [the](/post/the/) [fabric](/post/fabric/)": [A](/post/a/) [phrase](/post/phrase/) indicating [something](/post/something/) that's [not](/post/not/) [genuine](/post/genuine/) [or](/post/or/) [original](/post/original/); derived [or](/post/or/) copied.
 
 ## Synonyms
-- [Material](/en/post/material/)
-- [Textile](/en/post/textile/)
-- [Cloth](/en/post/cloth/)
-- [Substance](/en/post/substance/)
-- [Weave](/en/post/weave/)
-- [Framework](/en/post/framework/)
-- [Structure](/en/post/structure/)
-- [Network](/en/post/network/)
-- [Manufacture](/en/post/manufacture/)
-- [Construct](/en/post/construct/)
-- [Invent](/en/post/invent/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
+- [Material](/post/material/)
+- [Textile](/post/textile/)
+- [Cloth](/post/cloth/)
+- [Substance](/post/substance/)
+- [Weave](/post/weave/)
+- [Framework](/post/framework/)
+- [Structure](/post/structure/)
+- [Network](/post/network/)
+- [Manufacture](/post/manufacture/)
+- [Construct](/post/construct/)
+- [Invent](/post/invent/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/))

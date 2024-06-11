@@ -11,21 +11,21 @@ keywords = ['ai words', 'campus']
 /kæmˈpʌs/
 
 ## 释义
-- **名词**: 大学校园，学院区。例如: "[The](/post/the/) university's [campus](/post/campus/) covers [a](/post/a/) [large](/post/large/) [area](/post/area/) [with](/post/with/) [beautiful](/post/beautiful/) gardens [and](/post/and/) historic buildings."
-- **名词**: 机构或组织的办公地点。例如: "[The](/post/the/) company's [headquarters](/post/headquarters/) is located [on](/post/on/) [a](/post/a/) [modern](/post/modern/) [campus](/post/campus/) [in](/post/in/) [the](/post/the/) [city](/post/city/) center."
+- **名词**: 大学校园，学院区。例如: "[The](/zh/post/the/) university's [campus](/zh/post/campus/) covers [a](/zh/post/a/) [large](/zh/post/large/) [area](/zh/post/area/) [with](/zh/post/with/) [beautiful](/zh/post/beautiful/) gardens [and](/zh/post/and/) historic buildings."
+- **名词**: 机构或组织的办公地点。例如: "[The](/zh/post/the/) company's [headquarters](/zh/post/headquarters/) is located [on](/zh/post/on/) [a](/zh/post/a/) [modern](/zh/post/modern/) [campus](/zh/post/campus/) [in](/zh/post/in/) [the](/zh/post/the/) [city](/zh/post/city/) center."
 
 ## 短语
-- "[on](/post/on/) [campus](/post/campus/)" 在校园内
-- "[off](/post/off/) [campus](/post/campus/)" 在校园外
-- "[campus](/post/campus/) [life](/post/life/)" 校园生活
+- "[on](/zh/post/on/) [campus](/zh/post/campus/)" 在校园内
+- "[off](/zh/post/off/) [campus](/zh/post/campus/)" 在校园外
+- "[campus](/zh/post/campus/) [life](/zh/post/life/)" 校园生活
 
 ## 例句
-- 名词: "Students [often](/post/often/) [gather](/post/gather/) [in](/post/in/) [the](/post/the/) [central](/post/central/) plaza [of](/post/of/) [the](/post/the/) [campus](/post/campus/) [after](/post/after/) classes."
-- 名词: "[She](/post/she/) lives [off](/post/off/) [campus](/post/campus/) [in](/post/in/) [a](/post/a/) rented [apartment](/post/apartment/)."
+- 名词: "Students [often](/zh/post/often/) [gather](/zh/post/gather/) [in](/zh/post/in/) [the](/zh/post/the/) [central](/zh/post/central/) plaza [of](/zh/post/of/) [the](/zh/post/the/) [campus](/zh/post/campus/) [after](/zh/post/after/) classes."
+- 名词: "[She](/zh/post/she/) lives [off](/zh/post/off/) [campus](/zh/post/campus/) [in](/zh/post/in/) [a](/zh/post/a/) rented [apartment](/zh/post/apartment/)."
 
 ## 同义词
 - grounds
-- [compound](/post/compound/)
+- [compound](/zh/post/compound/)
 - precincts
-- [site](/post/site/)
-- [location](/post/location/)
+- [site](/zh/post/site/)
+- [location](/zh/post/location/)

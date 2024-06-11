@@ -7,30 +7,30 @@ description = '[pɔː] n.脚爪，爪子'
 keywords = ['ai words', 'paw']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pɔː/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [foot](/en/post/foot/) [of](/en/post/of/) [a](/en/post/a/) mammal, typically [with](/en/post/with/) claws. 2. [A](/en/post/a/) hand-like projection [on](/en/post/on/) [a](/en/post/a/) [robot](/en/post/robot/) [or](/en/post/or/) [other](/en/post/other/) [device](/en/post/device/), [used](/en/post/used/) [for](/en/post/for/) manipulation. 3. [A](/en/post/a/) [gesture](/en/post/gesture/) [or](/en/post/or/) [movement](/en/post/movement/) made [with](/en/post/with/) [the](/en/post/the/) [hand](/en/post/hand/), [especially](/en/post/especially/) [to](/en/post/to/) [request](/en/post/request/) [attention](/en/post/attention/) [or](/en/post/or/) petting. 4. (informal) [A](/en/post/a/) slap [or](/en/post/or/) [hit](/en/post/hit/). 
-- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [touch](/en/post/touch/) [or](/en/post/or/) [grasp](/en/post/grasp/) [with](/en/post/with/) [a](/en/post/a/) [paw](/en/post/paw/), [especially](/en/post/especially/) affectionately. 2. [To](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [paw](/en/post/paw/) [in](/en/post/in/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [action](/en/post/action/). 3. (colloquial) [To](/en/post/to/) [strike](/en/post/strike/) [or](/en/post/or/) [push](/en/post/push/) [with](/en/post/with/) [the](/en/post/the/) [hand](/en/post/hand/), [especially](/en/post/especially/) playfully.
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [foot](/post/foot/) [of](/post/of/) [a](/post/a/) mammal, typically [with](/post/with/) claws. 2. [A](/post/a/) hand-like projection [on](/post/on/) [a](/post/a/) [robot](/post/robot/) [or](/post/or/) [other](/post/other/) [device](/post/device/), [used](/post/used/) [for](/post/for/) manipulation. 3. [A](/post/a/) [gesture](/post/gesture/) [or](/post/or/) [movement](/post/movement/) made [with](/post/with/) [the](/post/the/) [hand](/post/hand/), [especially](/post/especially/) [to](/post/to/) [request](/post/request/) [attention](/post/attention/) [or](/post/or/) petting. 4. (informal) [A](/post/a/) slap [or](/post/or/) [hit](/post/hit/). 
+- **[Verb](/post/verb/)**: 1. [To](/post/to/) [touch](/post/touch/) [or](/post/or/) [grasp](/post/grasp/) [with](/post/with/) [a](/post/a/) [paw](/post/paw/), [especially](/post/especially/) affectionately. 2. [To](/post/to/) [use](/post/use/) [a](/post/a/) [paw](/post/paw/) [in](/post/in/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [action](/post/action/). 3. (colloquial) [To](/post/to/) [strike](/post/strike/) [or](/post/or/) [push](/post/push/) [with](/post/with/) [the](/post/the/) [hand](/post/hand/), [especially](/post/especially/) playfully.
 
 ## Phrases
-- "[Give](/en/post/give/) [the](/en/post/the/) [cat](/en/post/cat/) [a](/en/post/a/) [gentle](/en/post/gentle/) [paw](/en/post/paw/)" [means](/en/post/means/) [to](/en/post/to/) [stroke](/en/post/stroke/) [or](/en/post/or/) [pat](/en/post/pat/) [a](/en/post/a/) [cat](/en/post/cat/) [gently](/en/post/gently/).
-- "[Paw](/en/post/paw/) [through](/en/post/through/) [something](/en/post/something/)" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) searching [through](/en/post/through/) items casually.
-- "[A](/en/post/a/) dog's [paw](/en/post/paw/) prints" are distinctive marks [left](/en/post/left/) [behind](/en/post/behind/) [by](/en/post/by/) [a](/en/post/a/) dog's [paw](/en/post/paw/).
+- "[Give](/post/give/) [the](/post/the/) [cat](/post/cat/) [a](/post/a/) [gentle](/post/gentle/) [paw](/post/paw/)" [means](/post/means/) [to](/post/to/) [stroke](/post/stroke/) [or](/post/or/) [pat](/post/pat/) [a](/post/a/) [cat](/post/cat/) [gently](/post/gently/).
+- "[Paw](/post/paw/) [through](/post/through/) [something](/post/something/)" refers [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) searching [through](/post/through/) items casually.
+- "[A](/post/a/) dog's [paw](/post/paw/) prints" are distinctive marks [left](/post/left/) [behind](/post/behind/) [by](/post/by/) [a](/post/a/) dog's [paw](/post/paw/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) puppy was wagging [its](/en/post/its/) [tail](/en/post/tail/) [and](/en/post/and/) extending [its](/en/post/its/) [paw](/en/post/paw/) [to](/en/post/to/) [be](/en/post/be/) petted."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [mechanic](/en/post/mechanic/) [used](/en/post/used/) [a](/en/post/a/) wrench [to](/en/post/to/) unscrew [the](/en/post/the/) [bolt](/en/post/bolt/), using [a](/en/post/a/) specialized [paw](/en/post/paw/) attachment."
-- **Colloquial**: "[He](/en/post/he/) accidentally patted [her](/en/post/her/) [on](/en/post/on/) [the](/en/post/the/) [head](/en/post/head/) [with](/en/post/with/) [his](/en/post/his/) [paw](/en/post/paw/) [during](/en/post/during/) [the](/en/post/the/) playful [argument](/en/post/argument/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) puppy was wagging [its](/post/its/) [tail](/post/tail/) [and](/post/and/) extending [its](/post/its/) [paw](/post/paw/) [to](/post/to/) [be](/post/be/) petted."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [mechanic](/post/mechanic/) [used](/post/used/) [a](/post/a/) wrench [to](/post/to/) unscrew [the](/post/the/) [bolt](/post/bolt/), using [a](/post/a/) specialized [paw](/post/paw/) attachment."
+- **Colloquial**: "[He](/post/he/) accidentally patted [her](/post/her/) [on](/post/on/) [the](/post/the/) [head](/post/head/) [with](/post/with/) [his](/post/his/) [paw](/post/paw/) [during](/post/during/) [the](/post/the/) playful [argument](/post/argument/)."
 
 ## Synonyms
-- [Claw](/en/post/claw/)
+- [Claw](/post/claw/)
 - Pawprint
-- [Clasp](/en/post/clasp/) (informal)
-- [Scratch](/en/post/scratch/) (informal)
-- [Touch](/en/post/touch/) (informal, [when](/en/post/when/) gesturing)
+- [Clasp](/post/clasp/) (informal)
+- [Scratch](/post/scratch/) (informal)
+- [Touch](/post/touch/) (informal, [when](/post/when/) gesturing)
 
 ## Antonyms
-- [Claw](/en/post/claw/) ([opposite](/en/post/opposite/) [meaning](/en/post/meaning/), [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) sharp-edged [tool](/en/post/tool/))
-- [Withdraw](/en/post/withdraw/) ([action](/en/post/action/) [of](/en/post/of/) retracting [a](/en/post/a/) [paw](/en/post/paw/))
+- [Claw](/post/claw/) ([opposite](/post/opposite/) [meaning](/post/meaning/), [as](/post/as/) [in](/post/in/) [a](/post/a/) sharp-edged [tool](/post/tool/))
+- [Withdraw](/post/withdraw/) ([action](/post/action/) [of](/post/of/) retracting [a](/post/a/) [paw](/post/paw/))

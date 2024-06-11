@@ -11,22 +11,22 @@ keywords = ['ai words', 'damp']
 /dæmp/
 
 ## 释义
-- **形容词**: 潮湿的，湿润的。例如: "[The](/post/the/) [air](/post/air/) was [damp](/post/damp/) [after](/post/after/) [the](/post/the/) [rain](/post/rain/)."
-- **动词**: 使潮湿，弄湿。例如: "Don't [damp](/post/damp/) [the](/post/the/) [cloth](/post/cloth/) [too](/post/too/) [much](/post/much/); [just](/post/just/) dampen [it](/post/it/) [slightly](/post/slightly/)."
-- **名词**: 潮湿的气氛或状态。例如: "[There](/post/there/) was [a](/post/a/) [damp](/post/damp/) [in](/post/in/) [the](/post/the/) basement."
+- **形容词**: 潮湿的，湿润的。例如: "[The](/zh/post/the/) [air](/zh/post/air/) was [damp](/zh/post/damp/) [after](/zh/post/after/) [the](/zh/post/the/) [rain](/zh/post/rain/)."
+- **动词**: 使潮湿，弄湿。例如: "Don't [damp](/zh/post/damp/) [the](/zh/post/the/) [cloth](/zh/post/cloth/) [too](/zh/post/too/) [much](/zh/post/much/); [just](/zh/post/just/) dampen [it](/zh/post/it/) [slightly](/zh/post/slightly/)."
+- **名词**: 潮湿的气氛或状态。例如: "[There](/zh/post/there/) was [a](/zh/post/a/) [damp](/zh/post/damp/) [in](/zh/post/in/) [the](/zh/post/the/) basement."
 
 ## 短语
-- "[to](/post/to/) [damp](/post/damp/) [down](/post/down/)" 意为压制，平息（如情绪或火焰）。
-- "[damp](/post/damp/) proofing" 是防止潮湿进入建筑物的过程。
+- "[to](/zh/post/to/) [damp](/zh/post/damp/) [down](/zh/post/down/)" 意为压制，平息（如情绪或火焰）。
+- "[damp](/zh/post/damp/) proofing" 是防止潮湿进入建筑物的过程。
 
 ## 例句
-- 形容词: "[The](/post/the/) walls were [damp](/post/damp/) [from](/post/from/) [the](/post/the/) [high](/post/high/) humidity."
-- 动词: "[She](/post/she/) dampened [the](/post/the/) [cloth](/post/cloth/) [with](/post/with/) [water](/post/water/) [before](/post/before/) wiping [the](/post/the/) [table](/post/table/)."
-- 名词: "[The](/post/the/) dampness [in](/post/in/) [the](/post/the/) [room](/post/room/) made [the](/post/the/) books moldy."
+- 形容词: "[The](/zh/post/the/) walls were [damp](/zh/post/damp/) [from](/zh/post/from/) [the](/zh/post/the/) [high](/zh/post/high/) humidity."
+- 动词: "[She](/zh/post/she/) dampened [the](/zh/post/the/) [cloth](/zh/post/cloth/) [with](/zh/post/with/) [water](/zh/post/water/) [before](/zh/post/before/) wiping [the](/zh/post/the/) [table](/zh/post/table/)."
+- 名词: "[The](/zh/post/the/) dampness [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/) made [the](/zh/post/the/) books moldy."
 
 ## 同义词
-- [Moist](/post/moist/)
-- [Wet](/post/wet/)
+- [Moist](/zh/post/moist/)
+- [Wet](/zh/post/wet/)
 - Drenched
-- [Humid](/post/humid/)
+- [Humid](/zh/post/humid/)
 - Muggy

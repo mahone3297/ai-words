@@ -11,22 +11,22 @@ keywords = ['ai words', 'sour']
 /ˈsaʊər/
 
 ## 释义
-- **形容词**: 酸的，发酸的，味酸的。例如: "[The](/post/the/) lemonade was [too](/post/too/) [sour](/post/sour/) [for](/post/for/) [my](/post/my/) [taste](/post/taste/)."
-- **动词**: （使）变酸，发酵。例如: "[The](/post/the/) [milk](/post/milk/) has soured [in](/post/in/) [the](/post/the/) [heat](/post/heat/)."
-- **名词**: 酸味，酸性物质。例如: "[She](/post/she/) added [a](/post/a/) [touch](/post/touch/) [of](/post/of/) [sour](/post/sour/) [to](/post/to/) [balance](/post/balance/) [the](/post/the/) sweetness."
+- **形容词**: 酸的，发酸的，味酸的。例如: "[The](/zh/post/the/) lemonade was [too](/zh/post/too/) [sour](/zh/post/sour/) [for](/zh/post/for/) [my](/zh/post/my/) [taste](/zh/post/taste/)."
+- **动词**: （使）变酸，发酵。例如: "[The](/zh/post/the/) [milk](/zh/post/milk/) has soured [in](/zh/post/in/) [the](/zh/post/the/) [heat](/zh/post/heat/)."
+- **名词**: 酸味，酸性物质。例如: "[She](/zh/post/she/) added [a](/zh/post/a/) [touch](/zh/post/touch/) [of](/zh/post/of/) [sour](/zh/post/sour/) [to](/zh/post/to/) [balance](/zh/post/balance/) [the](/zh/post/the/) sweetness."
 
 ## 短语
-- "[sour](/post/sour/) [cream](/post/cream/)" 酸奶油，常用于烹饪和烘焙。
-- "[sour](/post/sour/) grapes" 嫉妒心作祟，酸葡萄心理。
+- "[sour](/zh/post/sour/) [cream](/zh/post/cream/)" 酸奶油，常用于烹饪和烘焙。
+- "[sour](/zh/post/sour/) grapes" 嫉妒心作祟，酸葡萄心理。
 
 ## 例句
-- 形容词: "I [love](/post/love/) [the](/post/the/) [sour](/post/sour/) [taste](/post/taste/) [of](/post/of/) pickles."
-- 动词: "[The](/post/the/) [wine](/post/wine/) had soured [after](/post/after/) [being](/post/being/) [left](/post/left/) [open](/post/open/) [for](/post/for/) [too](/post/too/) [long](/post/long/)."
-- 名词: "[He](/post/he/) [used](/post/used/) [a](/post/a/) spoonful [of](/post/of/) [sour](/post/sour/) [to](/post/to/) enhance [the](/post/the/) dish's flavor."
+- 形容词: "I [love](/zh/post/love/) [the](/zh/post/the/) [sour](/zh/post/sour/) [taste](/zh/post/taste/) [of](/zh/post/of/) pickles."
+- 动词: "[The](/zh/post/the/) [wine](/zh/post/wine/) had soured [after](/zh/post/after/) [being](/zh/post/being/) [left](/zh/post/left/) [open](/zh/post/open/) [for](/zh/post/for/) [too](/zh/post/too/) [long](/zh/post/long/)."
+- 名词: "[He](/zh/post/he/) [used](/zh/post/used/) [a](/zh/post/a/) spoonful [of](/zh/post/of/) [sour](/zh/post/sour/) [to](/zh/post/to/) enhance [the](/zh/post/the/) dish's flavor."
 
 ## 同义词
-- [Acid](/post/acid/)
+- [Acid](/zh/post/acid/)
 - Tart
-- [Bitter](/post/bitter/)
-- [Sharp](/post/sharp/)
+- [Bitter](/zh/post/bitter/)
+- [Sharp](/zh/post/sharp/)
 - Pungent

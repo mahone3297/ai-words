@@ -11,19 +11,19 @@ keywords = ['ai words', 'obstacle']
 /ˈɑːb.stl/
 
 ## 释义
-- **名词**: 障碍物；阻碍；困难。例如: "[There](/post/there/) are [several](/post/several/) obstacles [to](/post/to/) [overcome](/post/overcome/) [before](/post/before/) [we](/post/we/) [can](/post/can/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/)."
-- **动词**: 阻碍；阻挡。例如: "[The](/post/the/) [broken](/post/broken/) [bridge](/post/bridge/) obstructed [our](/post/our/) [way](/post/way/) [and](/post/and/) became an [obstacle](/post/obstacle/)."
+- **名词**: 障碍物；阻碍；困难。例如: "[There](/zh/post/there/) are [several](/zh/post/several/) obstacles [to](/zh/post/to/) [overcome](/zh/post/overcome/) [before](/zh/post/before/) [we](/zh/post/we/) [can](/zh/post/can/) [finish](/zh/post/finish/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- **动词**: 阻碍；阻挡。例如: "[The](/zh/post/the/) [broken](/zh/post/broken/) [bridge](/zh/post/bridge/) obstructed [our](/zh/post/our/) [way](/zh/post/way/) [and](/zh/post/and/) became an [obstacle](/zh/post/obstacle/)."
 
 ## 短语
-- "[Obstacle](/post/obstacle/) [course](/post/course/)" 指的是障碍赛跑或训练课程。
-- "[Remove](/post/remove/) obstacles" 意味着消除障碍或解决问题。
+- "[Obstacle](/zh/post/obstacle/) [course](/zh/post/course/)" 指的是障碍赛跑或训练课程。
+- "[Remove](/zh/post/remove/) obstacles" 意味着消除障碍或解决问题。
 
 ## 例句
-- 名词: "[The](/post/the/) [construction](/post/construction/) [site](/post/site/) has [become](/post/become/) [a](/post/a/) [major](/post/major/) [obstacle](/post/obstacle/) [for](/post/for/) pedestrians."
-- 动词: "[His](/post/his/) [lack](/post/lack/) [of](/post/of/) [experience](/post/experience/) didn't [obstacle](/post/obstacle/) [his](/post/his/) promotion; [he](/post/he/) was [still](/post/still/) given [the](/post/the/) [job](/post/job/)."
+- 名词: "[The](/zh/post/the/) [construction](/zh/post/construction/) [site](/zh/post/site/) has [become](/zh/post/become/) [a](/zh/post/a/) [major](/zh/post/major/) [obstacle](/zh/post/obstacle/) [for](/zh/post/for/) pedestrians."
+- 动词: "[His](/zh/post/his/) [lack](/zh/post/lack/) [of](/zh/post/of/) [experience](/zh/post/experience/) didn't [obstacle](/zh/post/obstacle/) [his](/zh/post/his/) promotion; [he](/zh/post/he/) was [still](/zh/post/still/) given [the](/zh/post/the/) [job](/zh/post/job/)."
 
 ## 同义词
-- [Barrier](/post/barrier/)
+- [Barrier](/zh/post/barrier/)
 - Hindrance
 - Blockade
 - Impediment

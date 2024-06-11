@@ -7,31 +7,31 @@ description = '[iːst] n.东；东部 ad.在东方'
 keywords = ['ai words', 'east']
 +++
 
-## [Word](/en/post/word/): [East](/en/post/east/)
+## [Word](/post/word/): [East](/post/east/)
 
-## [Pronunciation](/en/post/pronunciation/)
-/[east](/en/post/east/)/
+## [Pronunciation](/post/pronunciation/)
+/[east](/post/east/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [One](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [four](/en/post/four/) cardinal directions [on](/en/post/on/) [a](/en/post/a/) [compass](/en/post/compass/), situated 90 degrees [from](/en/post/from/) [north](/en/post/north/) [and](/en/post/and/) [opposite](/en/post/opposite/) [west](/en/post/west/). [It](/en/post/it/) is [where](/en/post/where/) [the](/en/post/the/) [sun](/en/post/sun/) rises [and](/en/post/and/) [often](/en/post/often/) symbolizes [the](/en/post/the/) [beginning](/en/post/beginning/) [or](/en/post/or/) [origin](/en/post/origin/). [Example](/en/post/example/): "[The](/en/post/the/) [sun](/en/post/sun/) rises [in](/en/post/in/) [the](/en/post/the/) [east](/en/post/east/) [every](/en/post/every/) [morning](/en/post/morning/)."
-- **[Adjective](/en/post/adjective/)**: Situated [or](/en/post/or/) directed toward [the](/en/post/the/) [east](/en/post/east/); coming [from](/en/post/from/) [or](/en/post/or/) moving toward [the](/en/post/the/) [east](/en/post/east/). [Example](/en/post/example/): "[The](/en/post/the/) [east](/en/post/east/) [wing](/en/post/wing/) [of](/en/post/of/) [the](/en/post/the/) mansion faces [the](/en/post/the/) [sunrise](/en/post/sunrise/)."
-- **[Adverb](/en/post/adverb/)**: Toward [the](/en/post/the/) [east](/en/post/east/); [in](/en/post/in/) an easterly [direction](/en/post/direction/). [Example](/en/post/example/): "[The](/en/post/the/) [ship](/en/post/ship/) sailed [east](/en/post/east/) [until](/en/post/until/) [it](/en/post/it/) reached [the](/en/post/the/) [coast](/en/post/coast/)."
+- **[Noun](/post/noun/)**: [One](/post/one/) [of](/post/of/) [the](/post/the/) [four](/post/four/) cardinal directions [on](/post/on/) [a](/post/a/) [compass](/post/compass/), situated 90 degrees [from](/post/from/) [north](/post/north/) [and](/post/and/) [opposite](/post/opposite/) [west](/post/west/). [It](/post/it/) is [where](/post/where/) [the](/post/the/) [sun](/post/sun/) rises [and](/post/and/) [often](/post/often/) symbolizes [the](/post/the/) [beginning](/post/beginning/) [or](/post/or/) [origin](/post/origin/). [Example](/post/example/): "[The](/post/the/) [sun](/post/sun/) rises [in](/post/in/) [the](/post/the/) [east](/post/east/) [every](/post/every/) [morning](/post/morning/)."
+- **[Adjective](/post/adjective/)**: Situated [or](/post/or/) directed toward [the](/post/the/) [east](/post/east/); coming [from](/post/from/) [or](/post/or/) moving toward [the](/post/the/) [east](/post/east/). [Example](/post/example/): "[The](/post/the/) [east](/post/east/) [wing](/post/wing/) [of](/post/of/) [the](/post/the/) mansion faces [the](/post/the/) [sunrise](/post/sunrise/)."
+- **[Adverb](/post/adverb/)**: Toward [the](/post/the/) [east](/post/east/); [in](/post/in/) an easterly [direction](/post/direction/). [Example](/post/example/): "[The](/post/the/) [ship](/post/ship/) sailed [east](/post/east/) [until](/post/until/) [it](/post/it/) reached [the](/post/the/) [coast](/post/coast/)."
 
 ## Phrases
-- "[East](/en/post/east/) [of](/en/post/of/)": Denotes [a](/en/post/a/) [location](/en/post/location/) [that](/en/post/that/) is [to](/en/post/to/) [the](/en/post/the/) [east](/en/post/east/) [relative](/en/post/relative/) [to](/en/post/to/) [another](/en/post/another/) [place](/en/post/place/). [Example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) is located [east](/en/post/east/) [of](/en/post/of/) [the](/en/post/the/) [river](/en/post/river/)."
-- "[Go](/en/post/go/) [east](/en/post/east/)": [Travel](/en/post/travel/) [in](/en/post/in/) [the](/en/post/the/) [direction](/en/post/direction/) [of](/en/post/of/) [the](/en/post/the/) [east](/en/post/east/). [Example](/en/post/example/): "[After](/en/post/after/) crossing [the](/en/post/the/) mountains, [they](/en/post/they/) decided [to](/en/post/to/) [go](/en/post/go/) [east](/en/post/east/) towards [the](/en/post/the/) [coast](/en/post/coast/)."
-- "[To](/en/post/to/) [the](/en/post/the/) [east](/en/post/east/)": [In](/en/post/in/) [the](/en/post/the/) [direction](/en/post/direction/) [or](/en/post/or/) [region](/en/post/region/) [of](/en/post/of/) [the](/en/post/the/) [east](/en/post/east/). [Example](/en/post/example/): "[In](/en/post/in/) [the](/en/post/the/) [distance](/en/post/distance/), [to](/en/post/to/) [the](/en/post/the/) [east](/en/post/east/), [we](/en/post/we/) [could](/en/post/could/) [see](/en/post/see/) [the](/en/post/the/) [first](/en/post/first/) [light](/en/post/light/) [of](/en/post/of/) [dawn](/en/post/dawn/)."
+- "[East](/post/east/) [of](/post/of/)": Denotes [a](/post/a/) [location](/post/location/) [that](/post/that/) is [to](/post/to/) [the](/post/the/) [east](/post/east/) [relative](/post/relative/) [to](/post/to/) [another](/post/another/) [place](/post/place/). [Example](/post/example/): "[The](/post/the/) [city](/post/city/) is located [east](/post/east/) [of](/post/of/) [the](/post/the/) [river](/post/river/)."
+- "[Go](/post/go/) [east](/post/east/)": [Travel](/post/travel/) [in](/post/in/) [the](/post/the/) [direction](/post/direction/) [of](/post/of/) [the](/post/the/) [east](/post/east/). [Example](/post/example/): "[After](/post/after/) crossing [the](/post/the/) mountains, [they](/post/they/) decided [to](/post/to/) [go](/post/go/) [east](/post/east/) towards [the](/post/the/) [coast](/post/coast/)."
+- "[To](/post/to/) [the](/post/the/) [east](/post/east/)": [In](/post/in/) [the](/post/the/) [direction](/post/direction/) [or](/post/or/) [region](/post/region/) [of](/post/of/) [the](/post/the/) [east](/post/east/). [Example](/post/example/): "[In](/post/in/) [the](/post/the/) [distance](/post/distance/), [to](/post/to/) [the](/post/the/) [east](/post/east/), [we](/post/we/) [could](/post/could/) [see](/post/see/) [the](/post/the/) [first](/post/first/) [light](/post/light/) [of](/post/of/) [dawn](/post/dawn/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) winds blowing [from](/en/post/from/) [the](/en/post/the/) [east](/en/post/east/) brought cooler temperatures."
-- **[Adjective](/en/post/adjective/)**: "[We](/en/post/we/) took [the](/en/post/the/) eastbound [train](/en/post/train/) [to](/en/post/to/) [reach](/en/post/reach/) [our](/en/post/our/) [destination](/en/post/destination/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) birds migrated [east](/en/post/east/) [during](/en/post/during/) [the](/en/post/the/) [winter](/en/post/winter/) months."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) winds blowing [from](/post/from/) [the](/post/the/) [east](/post/east/) brought cooler temperatures."
+- **[Adjective](/post/adjective/)**: "[We](/post/we/) took [the](/post/the/) eastbound [train](/post/train/) [to](/post/to/) [reach](/post/reach/) [our](/post/our/) [destination](/post/destination/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) birds migrated [east](/post/east/) [during](/post/during/) [the](/post/the/) [winter](/post/winter/) months."
 
 ## Synonyms
-- [Eastern](/en/post/eastern/)
+- [Eastern](/post/eastern/)
 - Orient
 - Easterly
 - Eastward
 - Eastwards
-- [Sunrise](/en/post/sunrise/) ([direction](/en/post/direction/))
-- Leeward ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- [Sunrise](/post/sunrise/) ([direction](/post/direction/))
+- Leeward ([in](/post/in/) [certain](/post/certain/) contexts)

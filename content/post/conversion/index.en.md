@@ -7,40 +7,40 @@ description = '[kənˈvəː∫ən] n.转变，转化；改变'
 keywords = ['ai words', 'conversion']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /həˈloʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [to](/en/post/to/) [greet](/en/post/greet/) [or](/en/post/or/) [address](/en/post/address/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) gave [her](/en/post/her/) [a](/en/post/a/) [friendly](/en/post/friendly/) [hello](/en/post/hello/) [when](/en/post/when/) [she](/en/post/she/) entered [the](/en/post/the/) café."
+### [Noun](/post/noun/)
+[A](/post/a/) [term](/post/term/) [used](/post/used/) [to](/post/to/) [greet](/post/greet/) [or](/post/or/) [address](/post/address/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) gave [her](/post/her/) [a](/post/a/) [friendly](/post/friendly/) [hello](/post/hello/) [when](/post/when/) [she](/post/she/) entered [the](/post/the/) café."
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [say](/en/post/say/) "[hello](/en/post/hello/)" [or](/en/post/or/) [greet](/en/post/greet/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) greeted [the](/en/post/the/) [teacher](/en/post/teacher/) [with](/en/post/with/) [a](/en/post/a/) [cheerful](/en/post/cheerful/) [hello](/en/post/hello/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/)."
+### [Verb](/post/verb/)
+[To](/post/to/) [say](/post/say/) "[hello](/post/hello/)" [or](/post/or/) [greet](/post/greet/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) greeted [the](/post/the/) [teacher](/post/teacher/) [with](/post/with/) [a](/post/a/) [cheerful](/post/cheerful/) [hello](/post/hello/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
 
-### [Adjective](/en/post/adjective/)
-Characterizing [or](/en/post/or/) expressing friendliness [or](/en/post/or/) familiarity. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [warm](/en/post/warm/) [hello](/en/post/hello/) [from](/en/post/from/) [the](/en/post/the/) [host](/en/post/host/) welcomed [the](/en/post/the/) guests."
+### [Adjective](/post/adjective/)
+Characterizing [or](/post/or/) expressing friendliness [or](/post/or/) familiarity. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [warm](/post/warm/) [hello](/post/hello/) [from](/post/from/) [the](/post/the/) [host](/post/host/) welcomed [the](/post/the/) guests."
 
-### [Adverb](/en/post/adverb/)
-[Used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [greeting](/en/post/greeting/), [often](/en/post/often/) informally. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) said [hello](/en/post/hello/) loudly [to](/en/post/to/) [be](/en/post/be/) heard [over](/en/post/over/) [the](/en/post/the/) [noise](/en/post/noise/)."
+### [Adverb](/post/adverb/)
+[Used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [the](/post/the/) [act](/post/act/) [of](/post/of/) [greeting](/post/greeting/), [often](/post/often/) informally. [For](/post/for/) [example](/post/example/): "[He](/post/he/) said [hello](/post/hello/) loudly [to](/post/to/) [be](/post/be/) heard [over](/post/over/) [the](/post/the/) [noise](/post/noise/)."
 
 ## Phrases
-- "[Pay](/en/post/pay/) [your](/en/post/your/) [hello](/en/post/hello/)" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [polite](/en/post/polite/) [greeting](/en/post/greeting/).
-- "[Hello](/en/post/hello/), [how](/en/post/how/) are [you](/en/post/you/)?" is [a](/en/post/a/) [standard](/en/post/standard/) [conversation](/en/post/conversation/) starter.
-- "[Hello](/en/post/hello/), [old](/en/post/old/) [friend](/en/post/friend/)" is [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [address](/en/post/address/) [a](/en/post/a/) long-lost [acquaintance](/en/post/acquaintance/).
+- "[Pay](/post/pay/) [your](/post/your/) [hello](/post/hello/)" [means](/post/means/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [polite](/post/polite/) [greeting](/post/greeting/).
+- "[Hello](/post/hello/), [how](/post/how/) are [you](/post/you/)?" is [a](/post/a/) [standard](/post/standard/) [conversation](/post/conversation/) starter.
+- "[Hello](/post/hello/), [old](/post/old/) [friend](/post/friend/)" is [a](/post/a/) [way](/post/way/) [to](/post/to/) [address](/post/address/) [a](/post/a/) long-lost [acquaintance](/post/acquaintance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children exchanged hellos [as](/en/post/as/) [they](/en/post/they/) played [together](/en/post/together/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) gave [a](/en/post/a/) hearty [hello](/en/post/hello/) [to](/en/post/to/) [his](/en/post/his/) [boss](/en/post/boss/) [before](/en/post/before/) starting [work](/en/post/work/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [gentle](/en/post/gentle/) [hello](/en/post/hello/) filled [the](/en/post/the/) [room](/en/post/room/) [with](/en/post/with/) [warmth](/en/post/warmth/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children exchanged hellos [as](/post/as/) [they](/post/they/) played [together](/post/together/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) gave [a](/post/a/) hearty [hello](/post/hello/) [to](/post/to/) [his](/post/his/) [boss](/post/boss/) [before](/post/before/) starting [work](/post/work/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [gentle](/post/gentle/) [hello](/post/hello/) filled [the](/post/the/) [room](/post/room/) [with](/post/with/) [warmth](/post/warmth/)."
 
 ## Synonyms
-- [Hi](/en/post/hi/)
+- [Hi](/post/hi/)
 - Hey
 - Greetings
 - Salutations
 - Hail
 - Yo (informal)
-- [Welcome](/en/post/welcome/)
+- [Welcome](/post/welcome/)
 - Aloha (Hawaiian)
 - Bonjour (French)
 - Ciao (Italian)

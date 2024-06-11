@@ -7,37 +7,37 @@ description = '[ˈkreizi] a.疯狂的，荒唐的'
 keywords = ['ai words', 'crazy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kraɪz/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Having [or](/en/post/or/) showing [extreme](/en/post/extreme/) [mental](/en/post/mental/) [or](/en/post/or/) [emotional](/en/post/emotional/) disturbance; insane. [Example](/en/post/example/): "He's acting [very](/en/post/very/) [crazy](/en/post/crazy/) [today](/en/post/today/)."
-   - **[Noun](/en/post/noun/)**: 2. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is mentally [unstable](/en/post/unstable/) [or](/en/post/or/) unpredictable. [Example](/en/post/example/): "[The](/en/post/the/) [crowd](/en/post/crowd/) was filled [with](/en/post/with/) [crazy](/en/post/crazy/) fans cheering."
-   - **[Adverb](/en/post/adverb/)**: 1. [In](/en/post/in/) [a](/en/post/a/) [crazy](/en/post/crazy/) [or](/en/post/or/) frenzied [manner](/en/post/manner/). [Example](/en/post/example/): "[She](/en/post/she/) danced crazily [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/)."
+- **[Adjective](/post/adjective/)**: 1. Having [or](/post/or/) showing [extreme](/post/extreme/) [mental](/post/mental/) [or](/post/or/) [emotional](/post/emotional/) disturbance; insane. [Example](/post/example/): "He's acting [very](/post/very/) [crazy](/post/crazy/) [today](/post/today/)."
+   - **[Noun](/post/noun/)**: 2. [A](/post/a/) [person](/post/person/) [who](/post/who/) is mentally [unstable](/post/unstable/) [or](/post/or/) unpredictable. [Example](/post/example/): "[The](/post/the/) [crowd](/post/crowd/) was filled [with](/post/with/) [crazy](/post/crazy/) fans cheering."
+   - **[Adverb](/post/adverb/)**: 1. [In](/post/in/) [a](/post/a/) [crazy](/post/crazy/) [or](/post/or/) frenzied [manner](/post/manner/). [Example](/post/example/): "[She](/post/she/) danced crazily [at](/post/at/) [the](/post/the/) [party](/post/party/)."
 
 ## Phrases
-- "[Go](/en/post/go/) [crazy](/en/post/crazy/) [over](/en/post/over/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [extremely](/en/post/extremely/) [enthusiastic](/en/post/enthusiastic/) [or](/en/post/or/) fascinated [about](/en/post/about/) [it](/en/post/it/).
-- "[Be](/en/post/be/) [crazy](/en/post/crazy/) [about](/en/post/about/) [someone](/en/post/someone/)" refers [to](/en/post/to/) [being](/en/post/being/) [extremely](/en/post/extremely/) [fond](/en/post/fond/) [or](/en/post/or/) infatuated [with](/en/post/with/) [them](/en/post/them/).
-- "[Crazy](/en/post/crazy/) ideas" indicates unconventional [or](/en/post/or/) impractical thoughts.
+- "[Go](/post/go/) [crazy](/post/crazy/) [over](/post/over/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [be](/post/be/) [extremely](/post/extremely/) [enthusiastic](/post/enthusiastic/) [or](/post/or/) fascinated [about](/post/about/) [it](/post/it/).
+- "[Be](/post/be/) [crazy](/post/crazy/) [about](/post/about/) [someone](/post/someone/)" refers [to](/post/to/) [being](/post/being/) [extremely](/post/extremely/) [fond](/post/fond/) [or](/post/or/) infatuated [with](/post/with/) [them](/post/them/).
+- "[Crazy](/post/crazy/) ideas" indicates unconventional [or](/post/or/) impractical thoughts.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) had [a](/en/post/a/) [crazy](/en/post/crazy/) [theory](/en/post/theory/) [about](/en/post/about/) [the](/en/post/the/) [missing](/en/post/missing/) [key](/en/post/key/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [crazy](/en/post/crazy/) [man](/en/post/man/) [on](/en/post/on/) [the](/en/post/the/) [street](/en/post/street/) was telling jokes [to](/en/post/to/) passersby."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) worked crazily [all](/en/post/all/) [weekend](/en/post/weekend/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) had [a](/post/a/) [crazy](/post/crazy/) [theory](/post/theory/) [about](/post/about/) [the](/post/the/) [missing](/post/missing/) [key](/post/key/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [crazy](/post/crazy/) [man](/post/man/) [on](/post/on/) [the](/post/the/) [street](/post/street/) was telling jokes [to](/post/to/) passersby."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) worked crazily [all](/post/all/) [weekend](/post/weekend/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/)."
 
 ## Synonyms
 - Insane
 - Unhinged
 - Bonkers
 - Deranged
-- [Mad](/en/post/mad/)
+- [Mad](/post/mad/)
 - Eccentric
 - Lunatic
 
 ## Antonyms
 - Sane
-- [Calm](/en/post/calm/)
+- [Calm](/post/calm/)
 - Level-headed
-- [Rational](/en/post/rational/)
-- [Stable](/en/post/stable/)
-- [Normal](/en/post/normal/)
+- [Rational](/post/rational/)
+- [Stable](/post/stable/)
+- [Normal](/post/normal/)

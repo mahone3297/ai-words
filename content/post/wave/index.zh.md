@@ -11,25 +11,25 @@ keywords = ['ai words', 'wave']
 /weɪv/
 
 ## 释义
-- **名词**: 波浪，振动，波状运动。例如: "[The](/post/the/) [ocean](/post/ocean/) was [calm](/post/calm/) [except](/post/except/) [for](/post/for/) [a](/post/a/) [few](/post/few/) [gentle](/post/gentle/) waves."
-- **动词**: 摇动，挥舞。例如: "[She](/post/she/) waved [her](/post/her/) [hand](/post/hand/) [in](/post/in/) [greeting](/post/greeting/)."
-- **名词**: 打招呼，致意。例如: "[He](/post/he/) gave [a](/post/a/) [friendly](/post/friendly/) [wave](/post/wave/) [from](/post/from/) [across](/post/across/) [the](/post/the/) [street](/post/street/)."
-- **动词**: 流行，风靡。例如: "[That](/post/that/) [song](/post/song/) [really](/post/really/) waved [last](/post/last/) [summer](/post/summer/)."
+- **名词**: 波浪，振动，波状运动。例如: "[The](/zh/post/the/) [ocean](/zh/post/ocean/) was [calm](/zh/post/calm/) [except](/zh/post/except/) [for](/zh/post/for/) [a](/zh/post/a/) [few](/zh/post/few/) [gentle](/zh/post/gentle/) waves."
+- **动词**: 摇动，挥舞。例如: "[She](/zh/post/she/) waved [her](/zh/post/her/) [hand](/zh/post/hand/) [in](/zh/post/in/) [greeting](/zh/post/greeting/)."
+- **名词**: 打招呼，致意。例如: "[He](/zh/post/he/) gave [a](/zh/post/a/) [friendly](/zh/post/friendly/) [wave](/zh/post/wave/) [from](/zh/post/from/) [across](/zh/post/across/) [the](/zh/post/the/) [street](/zh/post/street/)."
+- **动词**: 流行，风靡。例如: "[That](/zh/post/that/) [song](/zh/post/song/) [really](/zh/post/really/) waved [last](/zh/post/last/) [summer](/zh/post/summer/)."
 
 ## 短语
-- "[Wave](/post/wave/) [goodbye](/post/goodbye/)" 意为挥手告别。
-- "[Wave](/post/wave/) [hello](/post/hello/)" 指挥手打招呼。
-- "[A](/post/a/) [wave](/post/wave/) [of](/post/of/) [emotion](/post/emotion/)" 指一阵强烈的情感。
+- "[Wave](/zh/post/wave/) [goodbye](/zh/post/goodbye/)" 意为挥手告别。
+- "[Wave](/zh/post/wave/) [hello](/zh/post/hello/)" 指挥手打招呼。
+- "[A](/zh/post/a/) [wave](/zh/post/wave/) [of](/zh/post/of/) [emotion](/zh/post/emotion/)" 指一阵强烈的情感。
 
 ## 例句
-- 名词: "[The](/post/the/) surfer rode [the](/post/the/) [powerful](/post/powerful/) [wave](/post/wave/) [with](/post/with/) [ease](/post/ease/)."
-- 动词: "[He](/post/he/) waved [his](/post/his/) arms [to](/post/to/) [get](/post/get/) [the](/post/the/) waiter's [attention](/post/attention/)."
-- 名词: "[She](/post/she/) gave [us](/post/us/) [a](/post/a/) [wave](/post/wave/) [as](/post/as/) [she](/post/she/) got [on](/post/on/) [the](/post/the/) [bus](/post/bus/)."
-- 动词: "[The](/post/the/) fans waved [their](/post/their/) team's flags enthusiastically."
+- 名词: "[The](/zh/post/the/) surfer rode [the](/zh/post/the/) [powerful](/zh/post/powerful/) [wave](/zh/post/wave/) [with](/zh/post/with/) [ease](/zh/post/ease/)."
+- 动词: "[He](/zh/post/he/) waved [his](/zh/post/his/) arms [to](/zh/post/to/) [get](/zh/post/get/) [the](/zh/post/the/) waiter's [attention](/zh/post/attention/)."
+- 名词: "[She](/zh/post/she/) gave [us](/zh/post/us/) [a](/zh/post/a/) [wave](/zh/post/wave/) [as](/zh/post/as/) [she](/zh/post/she/) got [on](/zh/post/on/) [the](/zh/post/the/) [bus](/zh/post/bus/)."
+- 动词: "[The](/zh/post/the/) fans waved [their](/zh/post/their/) team's flags enthusiastically."
 
 ## 同义词
-- [Move](/post/move/)
+- [Move](/zh/post/move/)
 - Flutter
-- [Swing](/post/swing/)
-- [gesture](/post/gesture/)
-- [Signal](/post/signal/)
+- [Swing](/zh/post/swing/)
+- [gesture](/zh/post/gesture/)
+- [Signal](/zh/post/signal/)

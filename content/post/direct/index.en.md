@@ -7,47 +7,47 @@ description = '[diˈrekt] a.直接的；直率的'
 keywords = ['ai words', 'direct']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈrekt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **Directness**: [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) straightforward, [without](/en/post/without/) indirectness [or](/en/post/or/) subtlety. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) straightforward [manner](/en/post/manner/) was [a](/en/post/a/) [welcome](/en/post/welcome/) [change](/en/post/change/)."
-- **[Director](/en/post/director/)**: [A](/en/post/a/) [person](/en/post/person/) [in](/en/post/in/) [charge](/en/post/charge/) [of](/en/post/of/) [a](/en/post/a/) [film](/en/post/film/), [play](/en/post/play/), [or](/en/post/or/) [other](/en/post/other/) [creative](/en/post/creative/) [project](/en/post/project/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [director](/en/post/director/) called [for](/en/post/for/) [quiet](/en/post/quiet/) [on](/en/post/on/) [set](/en/post/set/)."
-- **Recipient**: [The](/en/post/the/) [person](/en/post/person/) [to](/en/post/to/) [whom](/en/post/whom/) [something](/en/post/something/) is sent [or](/en/post/or/) addressed [directly](/en/post/directly/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [package](/en/post/package/) was sent [directly](/en/post/directly/) [to](/en/post/to/) [the](/en/post/the/) recipient's [address](/en/post/address/)."
-- **[Direction](/en/post/direction/)**: [Guidance](/en/post/guidance/) [or](/en/post/or/) instructions [for](/en/post/for/) [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [map](/en/post/map/) [provided](/en/post/provided/) [clear](/en/post/clear/) directions [to](/en/post/to/) [the](/en/post/the/) [museum](/en/post/museum/)."
+### [Noun](/post/noun/)
+- **Directness**: [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) straightforward, [without](/post/without/) indirectness [or](/post/or/) subtlety. [For](/post/for/) [example](/post/example/): "[His](/post/his/) straightforward [manner](/post/manner/) was [a](/post/a/) [welcome](/post/welcome/) [change](/post/change/)."
+- **[Director](/post/director/)**: [A](/post/a/) [person](/post/person/) [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [a](/post/a/) [film](/post/film/), [play](/post/play/), [or](/post/or/) [other](/post/other/) [creative](/post/creative/) [project](/post/project/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [director](/post/director/) called [for](/post/for/) [quiet](/post/quiet/) [on](/post/on/) [set](/post/set/)."
+- **Recipient**: [The](/post/the/) [person](/post/person/) [to](/post/to/) [whom](/post/whom/) [something](/post/something/) is sent [or](/post/or/) addressed [directly](/post/directly/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [package](/post/package/) was sent [directly](/post/directly/) [to](/post/to/) [the](/post/the/) recipient's [address](/post/address/)."
+- **[Direction](/post/direction/)**: [Guidance](/post/guidance/) [or](/post/or/) instructions [for](/post/for/) [action](/post/action/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [map](/post/map/) [provided](/post/provided/) [clear](/post/clear/) directions [to](/post/to/) [the](/post/the/) [museum](/post/museum/)."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [direct](/en/post/direct/)**: [Guide](/en/post/guide/) [or](/en/post/or/) [control](/en/post/control/) [the](/en/post/the/) actions [of](/en/post/of/) others, [often](/en/post/often/) visually [or](/en/post/or/) artistically. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [director](/en/post/director/) directed [the](/en/post/the/) actors [on](/en/post/on/) [stage](/en/post/stage/)."
-- **[Indicate](/en/post/indicate/)**: [Point](/en/post/point/) [or](/en/post/or/) [show](/en/post/show/) [the](/en/post/the/) [way](/en/post/way/); [suggest](/en/post/suggest/) [or](/en/post/or/) [imply](/en/post/imply/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) words [directly](/en/post/directly/) indicated [her](/en/post/her/) dissatisfaction [with](/en/post/with/) [the](/en/post/the/) [proposal](/en/post/proposal/)."
-- **[Control](/en/post/control/)**: Supervise [or](/en/post/or/) [manage](/en/post/manage/) [the](/en/post/the/) [course](/en/post/course/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) [directly](/en/post/directly/) controls [the](/en/post/the/) classroom's [learning](/en/post/learning/) [environment](/en/post/environment/)."
+### [Verb](/post/verb/)
+- **[To](/post/to/) [direct](/post/direct/)**: [Guide](/post/guide/) [or](/post/or/) [control](/post/control/) [the](/post/the/) actions [of](/post/of/) others, [often](/post/often/) visually [or](/post/or/) artistically. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [director](/post/director/) directed [the](/post/the/) actors [on](/post/on/) [stage](/post/stage/)."
+- **[Indicate](/post/indicate/)**: [Point](/post/point/) [or](/post/or/) [show](/post/show/) [the](/post/the/) [way](/post/way/); [suggest](/post/suggest/) [or](/post/or/) [imply](/post/imply/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) words [directly](/post/directly/) indicated [her](/post/her/) dissatisfaction [with](/post/with/) [the](/post/the/) [proposal](/post/proposal/)."
+- **[Control](/post/control/)**: Supervise [or](/post/or/) [manage](/post/manage/) [the](/post/the/) [course](/post/course/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) [directly](/post/directly/) controls [the](/post/the/) classroom's [learning](/post/learning/) [environment](/post/environment/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Direct](/en/post/direct/)**: Going [straight](/en/post/straight/) [or](/en/post/or/) unobstructed; [not](/en/post/not/) roundabout. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [direct](/en/post/direct/) [route](/en/post/route/) [to](/en/post/to/) [the](/en/post/the/) [airport](/en/post/airport/) saves [time](/en/post/time/)."
-- **Straightforward**: [Easy](/en/post/easy/) [to](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [deal](/en/post/deal/) [with](/en/post/with/), [without](/en/post/without/) hidden meanings [or](/en/post/or/) complications. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) instructions were given [in](/en/post/in/) [a](/en/post/a/) [direct](/en/post/direct/) [and](/en/post/and/) [simple](/en/post/simple/) [manner](/en/post/manner/)."
-- **[Executive](/en/post/executive/)**: Characterized [by](/en/post/by/) decisiveness [and](/en/post/and/) [efficiency](/en/post/efficiency/) [in](/en/post/in/) [leadership](/en/post/leadership/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [executive](/en/post/executive/) [director](/en/post/director/) made [quick](/en/post/quick/) decisions."
+### [Adjective](/post/adjective/)
+- **[Direct](/post/direct/)**: Going [straight](/post/straight/) [or](/post/or/) unobstructed; [not](/post/not/) roundabout. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [direct](/post/direct/) [route](/post/route/) [to](/post/to/) [the](/post/the/) [airport](/post/airport/) saves [time](/post/time/)."
+- **Straightforward**: [Easy](/post/easy/) [to](/post/to/) [understand](/post/understand/) [or](/post/or/) [deal](/post/deal/) [with](/post/with/), [without](/post/without/) hidden meanings [or](/post/or/) complications. [For](/post/for/) [example](/post/example/): "[The](/post/the/) instructions were given [in](/post/in/) [a](/post/a/) [direct](/post/direct/) [and](/post/and/) [simple](/post/simple/) [manner](/post/manner/)."
+- **[Executive](/post/executive/)**: Characterized [by](/post/by/) decisiveness [and](/post/and/) [efficiency](/post/efficiency/) [in](/post/in/) [leadership](/post/leadership/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [executive](/post/executive/) [director](/post/director/) made [quick](/post/quick/) decisions."
 
-### [Adverb](/en/post/adverb/)
-- **[Directly](/en/post/directly/)**: [In](/en/post/in/) [a](/en/post/a/) [straight](/en/post/straight/) [line](/en/post/line/) [or](/en/post/or/) [manner](/en/post/manner/); [without](/en/post/without/) intermediaries. [For](/en/post/for/) [example](/en/post/example/): "[Speak](/en/post/speak/) [directly](/en/post/directly/) [to](/en/post/to/) [the](/en/post/the/) manager [if](/en/post/if/) [you](/en/post/you/) [have](/en/post/have/) [any](/en/post/any/) concerns."
+### [Adverb](/post/adverb/)
+- **[Directly](/post/directly/)**: [In](/post/in/) [a](/post/a/) [straight](/post/straight/) [line](/post/line/) [or](/post/or/) [manner](/post/manner/); [without](/post/without/) intermediaries. [For](/post/for/) [example](/post/example/): "[Speak](/post/speak/) [directly](/post/directly/) [to](/post/to/) [the](/post/the/) manager [if](/post/if/) [you](/post/you/) [have](/post/have/) [any](/post/any/) concerns."
 
 ## Phrases
-- "[Give](/en/post/give/) [someone](/en/post/someone/) [direct](/en/post/direct/) [feedback](/en/post/feedback/)" [means](/en/post/means/) [to](/en/post/to/) [provide](/en/post/provide/) [honest](/en/post/honest/) [and](/en/post/and/) [specific](/en/post/specific/) [criticism](/en/post/criticism/).
-- "[Act](/en/post/act/) [directly](/en/post/directly/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [action](/en/post/action/) [without](/en/post/without/) [delay](/en/post/delay/) [or](/en/post/or/) hesitation.
-- "[Speak](/en/post/speak/) [directly](/en/post/directly/) [to](/en/post/to/) [the](/en/post/the/) [point](/en/post/point/)" [means](/en/post/means/) [to](/en/post/to/) [avoid](/en/post/avoid/) [unnecessary](/en/post/unnecessary/) elaboration.
+- "[Give](/post/give/) [someone](/post/someone/) [direct](/post/direct/) [feedback](/post/feedback/)" [means](/post/means/) [to](/post/to/) [provide](/post/provide/) [honest](/post/honest/) [and](/post/and/) [specific](/post/specific/) [criticism](/post/criticism/).
+- "[Act](/post/act/) [directly](/post/directly/)" [means](/post/means/) [to](/post/to/) [take](/post/take/) [action](/post/action/) [without](/post/without/) [delay](/post/delay/) [or](/post/or/) hesitation.
+- "[Speak](/post/speak/) [directly](/post/directly/) [to](/post/to/) [the](/post/the/) [point](/post/point/)" [means](/post/means/) [to](/post/to/) [avoid](/post/avoid/) [unnecessary](/post/unnecessary/) elaboration.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) director's [vision](/en/post/vision/) was reflected [in](/en/post/in/) [every](/en/post/every/) [scene](/en/post/scene/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [directly](/en/post/directly/) addressed [the](/en/post/the/) [issue](/en/post/issue/) [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) answers were [always](/en/post/always/) [direct](/en/post/direct/) [and](/en/post/and/) concise."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) answered [the](/en/post/the/) [question](/en/post/question/) [directly](/en/post/directly/), [without](/en/post/without/) beating [around](/en/post/around/) [the](/en/post/the/) [bush](/en/post/bush/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) director's [vision](/post/vision/) was reflected [in](/post/in/) [every](/post/every/) [scene](/post/scene/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) [directly](/post/directly/) addressed [the](/post/the/) [issue](/post/issue/) [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) answers were [always](/post/always/) [direct](/post/direct/) [and](/post/and/) concise."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) answered [the](/post/the/) [question](/post/question/) [directly](/post/directly/), [without](/post/without/) beating [around](/post/around/) [the](/post/the/) [bush](/post/bush/)."
 
 ## Synonyms
-- [Immediate](/en/post/immediate/)
-- [Immediate](/en/post/immediate/) ([for](/en/post/for/) [verb](/en/post/verb/))
+- [Immediate](/post/immediate/)
+- [Immediate](/post/immediate/) ([for](/post/for/) [verb](/post/verb/))
 - Straightforward
 - Clear-cut
 - Unambiguous
-- Handed [over](/en/post/over/)
+- Handed [over](/post/over/)
 - Managing
 - Commanding
 - Authoritative

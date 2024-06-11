@@ -7,37 +7,37 @@ description = '[ˈsiːnjə] a.年少的；地位较高的'
 keywords = ['ai words', 'senior']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪˈnɪər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) **[senior](/en/post/senior/)** is typically [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has achieved [a](/en/post/a/) [high](/en/post/high/) [rank](/en/post/rank/), [status](/en/post/status/), [or](/en/post/or/) [age](/en/post/age/) [within](/en/post/within/) [a](/en/post/a/) [group](/en/post/group/), [organization](/en/post/organization/), [or](/en/post/or/) [academic](/en/post/academic/) [setting](/en/post/setting/). [In](/en/post/in/) [education](/en/post/education/), [it](/en/post/it/) refers [to](/en/post/to/) [a](/en/post/a/) [final](/en/post/final/) [year](/en/post/year/) [student](/en/post/student/) [or](/en/post/or/) [a](/en/post/a/) [person](/en/post/person/) [in](/en/post/in/) [a](/en/post/a/) higher [position](/en/post/position/). [In](/en/post/in/) [a](/en/post/a/) [company](/en/post/company/), [it](/en/post/it/) [may](/en/post/may/) denote [a](/en/post/a/) long-serving [or](/en/post/or/) experienced [employee](/en/post/employee/).
-- [In](/en/post/in/) retirement, seniors [often](/en/post/often/) [have](/en/post/have/) [a](/en/post/a/) [title](/en/post/title/) [like](/en/post/like/) "[senior](/en/post/senior/) [citizen](/en/post/citizen/)" [or](/en/post/or/) "[senior](/en/post/senior/) advisor."
+### [Noun](/post/noun/)
+- [A](/post/a/) **[senior](/post/senior/)** is typically [a](/post/a/) [person](/post/person/) [who](/post/who/) has achieved [a](/post/a/) [high](/post/high/) [rank](/post/rank/), [status](/post/status/), [or](/post/or/) [age](/post/age/) [within](/post/within/) [a](/post/a/) [group](/post/group/), [organization](/post/organization/), [or](/post/or/) [academic](/post/academic/) [setting](/post/setting/). [In](/post/in/) [education](/post/education/), [it](/post/it/) refers [to](/post/to/) [a](/post/a/) [final](/post/final/) [year](/post/year/) [student](/post/student/) [or](/post/or/) [a](/post/a/) [person](/post/person/) [in](/post/in/) [a](/post/a/) higher [position](/post/position/). [In](/post/in/) [a](/post/a/) [company](/post/company/), [it](/post/it/) [may](/post/may/) denote [a](/post/a/) long-serving [or](/post/or/) experienced [employee](/post/employee/).
+- [In](/post/in/) retirement, seniors [often](/post/often/) [have](/post/have/) [a](/post/a/) [title](/post/title/) [like](/post/like/) "[senior](/post/senior/) [citizen](/post/citizen/)" [or](/post/or/) "[senior](/post/senior/) advisor."
 
-### [Adjective](/en/post/adjective/)
-- **[Senior](/en/post/senior/)** [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) an [adjective](/en/post/adjective/) describing [someone](/en/post/someone/) [who](/en/post/who/) is [advanced](/en/post/advanced/) [in](/en/post/in/) [age](/en/post/age/) [or](/en/post/or/) holds [a](/en/post/a/) [superior](/en/post/superior/) [position](/en/post/position/) [in](/en/post/in/) [a](/en/post/a/) hierarchy.
+### [Adjective](/post/adjective/)
+- **[Senior](/post/senior/)** [can](/post/can/) [also](/post/also/) [be](/post/be/) an [adjective](/post/adjective/) describing [someone](/post/someone/) [who](/post/who/) is [advanced](/post/advanced/) [in](/post/in/) [age](/post/age/) [or](/post/or/) holds [a](/post/a/) [superior](/post/superior/) [position](/post/position/) [in](/post/in/) [a](/post/a/) hierarchy.
 
 ## Phrases
-- "[A](/en/post/a/) [senior](/en/post/senior/) [position](/en/post/position/)" signifies [a](/en/post/a/) [leadership](/en/post/leadership/) [role](/en/post/role/).
-- "[Senior](/en/post/senior/) citizens" are [often](/en/post/often/) associated [with](/en/post/with/) retirement communities.
-- "[Senior](/en/post/senior/) [year](/en/post/year/)" refers [to](/en/post/to/) [the](/en/post/the/) [final](/en/post/final/) [year](/en/post/year/) [of](/en/post/of/) [secondary](/en/post/secondary/) [school](/en/post/school/) [or](/en/post/or/) [college](/en/post/college/).
+- "[A](/post/a/) [senior](/post/senior/) [position](/post/position/)" signifies [a](/post/a/) [leadership](/post/leadership/) [role](/post/role/).
+- "[Senior](/post/senior/) citizens" are [often](/post/often/) associated [with](/post/with/) retirement communities.
+- "[Senior](/post/senior/) [year](/post/year/)" refers [to](/post/to/) [the](/post/the/) [final](/post/final/) [year](/post/year/) [of](/post/of/) [secondary](/post/secondary/) [school](/post/school/) [or](/post/or/) [college](/post/college/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [senior](/en/post/senior/) [management](/en/post/management/) [team](/en/post/team/) decided [on](/en/post/on/) [the](/en/post/the/) [new](/en/post/new/) [strategy](/en/post/strategy/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [senior](/en/post/senior/) [officer](/en/post/officer/) was praised [for](/en/post/for/) [his](/en/post/his/) [leadership](/en/post/leadership/)."
-- "[In](/en/post/in/) [her](/en/post/her/) [senior](/en/post/senior/) [year](/en/post/year/), [she](/en/post/she/) won [a](/en/post/a/) [scholarship](/en/post/scholarship/) [for](/en/post/for/) [academic](/en/post/academic/) excellence."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [senior](/post/senior/) [management](/post/management/) [team](/post/team/) decided [on](/post/on/) [the](/post/the/) [new](/post/new/) [strategy](/post/strategy/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [senior](/post/senior/) [officer](/post/officer/) was praised [for](/post/for/) [his](/post/his/) [leadership](/post/leadership/)."
+- "[In](/post/in/) [her](/post/her/) [senior](/post/senior/) [year](/post/year/), [she](/post/she/) won [a](/post/a/) [scholarship](/post/scholarship/) [for](/post/for/) [academic](/post/academic/) excellence."
 
 ## Synonyms
 - Older
-- [Advanced](/en/post/advanced/)
+- [Advanced](/post/advanced/)
 - Experienced
-- [Prominent](/en/post/prominent/)
+- [Prominent](/post/prominent/)
 - Established
 
 ## Antonyms
-- [Junior](/en/post/junior/)
+- [Junior](/post/junior/)
 - Freshman
-- [Beginner](/en/post/beginner/)
-- [Young](/en/post/young/)
+- [Beginner](/post/beginner/)
+- [Young](/post/young/)
 - Novice

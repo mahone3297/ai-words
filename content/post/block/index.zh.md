@@ -12,25 +12,25 @@ keywords = ['ai words', 'block']
 
 ## 释义
 - **名词**:
-  1. 大块；街区：[A](/post/a/) [large](/post/large/) [solid](/post/solid/) [piece](/post/piece/) [of](/post/of/) [material](/post/material/), [such](/post/such/) [as](/post/as/) [wood](/post/wood/) [or](/post/or/) [stone](/post/stone/). [For](/post/for/) [example](/post/example/), "[The](/post/the/) [artist](/post/artist/) carved [a](/post/a/) [statue](/post/statue/) [from](/post/from/) [a](/post/a/) [single](/post/single/) [block](/post/block/) [of](/post/of/) [marble](/post/marble/)."
-  2. 建筑单元：[A](/post/a/) [group](/post/group/) [of](/post/of/) buildings forming [a](/post/a/) [unit](/post/unit/) [in](/post/in/) [a](/post/a/) [city](/post/city/) [or](/post/or/) [town](/post/town/). [For](/post/for/) [example](/post/example/), "[The](/post/the/) [apartment](/post/apartment/) is [on](/post/on/) [the](/post/the/) [third](/post/third/) [floor](/post/floor/) [of](/post/of/) [a](/post/a/) red-brick [block](/post/block/)."
-  3. 阻塞；障碍物：An [obstacle](/post/obstacle/) [or](/post/or/) hindrance [that](/post/that/) prevents [progress](/post/progress/). [For](/post/for/) [example](/post/example/), "There's [a](/post/a/) [traffic](/post/traffic/) [block](/post/block/) [on](/post/on/) [the](/post/the/) [highway](/post/highway/)."
+  1. 大块；街区：[A](/zh/post/a/) [large](/zh/post/large/) [solid](/zh/post/solid/) [piece](/zh/post/piece/) [of](/zh/post/of/) [material](/zh/post/material/), [such](/zh/post/such/) [as](/zh/post/as/) [wood](/zh/post/wood/) [or](/zh/post/or/) [stone](/zh/post/stone/). [For](/zh/post/for/) [example](/zh/post/example/), "[The](/zh/post/the/) [artist](/zh/post/artist/) carved [a](/zh/post/a/) [statue](/zh/post/statue/) [from](/zh/post/from/) [a](/zh/post/a/) [single](/zh/post/single/) [block](/zh/post/block/) [of](/zh/post/of/) [marble](/zh/post/marble/)."
+  2. 建筑单元：[A](/zh/post/a/) [group](/zh/post/group/) [of](/zh/post/of/) buildings forming [a](/zh/post/a/) [unit](/zh/post/unit/) [in](/zh/post/in/) [a](/zh/post/a/) [city](/zh/post/city/) [or](/zh/post/or/) [town](/zh/post/town/). [For](/zh/post/for/) [example](/zh/post/example/), "[The](/zh/post/the/) [apartment](/zh/post/apartment/) is [on](/zh/post/on/) [the](/zh/post/the/) [third](/zh/post/third/) [floor](/zh/post/floor/) [of](/zh/post/of/) [a](/zh/post/a/) red-brick [block](/zh/post/block/)."
+  3. 阻塞；障碍物：An [obstacle](/zh/post/obstacle/) [or](/zh/post/or/) hindrance [that](/zh/post/that/) prevents [progress](/zh/post/progress/). [For](/zh/post/for/) [example](/zh/post/example/), "There's [a](/zh/post/a/) [traffic](/zh/post/traffic/) [block](/zh/post/block/) [on](/zh/post/on/) [the](/zh/post/the/) [highway](/zh/post/highway/)."
   
 - **动词**:
-  1. 阻止；封锁：[To](/post/to/) [prevent](/post/prevent/) [or](/post/or/) obstruct [something](/post/something/), typically [movement](/post/movement/) [or](/post/or/) [communication](/post/communication/). [For](/post/for/) [example](/post/example/), "[She](/post/she/) blocked [his](/post/his/) [phone](/post/phone/) [number](/post/number/) [to](/post/to/) [avoid](/post/avoid/) further骚扰."
-  2. 阻塞（管道、道路等）：[To](/post/to/) [fill](/post/fill/) [or](/post/or/) obstruct [a](/post/a/) [passage](/post/passage/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [drain](/post/drain/). [For](/post/for/) [example](/post/example/), "[The](/post/the/) [sink](/post/sink/) is blocked [with](/post/with/) [hair](/post/hair/)."
+  1. 阻止；封锁：[To](/zh/post/to/) [prevent](/zh/post/prevent/) [or](/zh/post/or/) obstruct [something](/zh/post/something/), typically [movement](/zh/post/movement/) [or](/zh/post/or/) [communication](/zh/post/communication/). [For](/zh/post/for/) [example](/zh/post/example/), "[She](/zh/post/she/) blocked [his](/zh/post/his/) [phone](/zh/post/phone/) [number](/zh/post/number/) [to](/zh/post/to/) [avoid](/zh/post/avoid/) further骚扰."
+  2. 阻塞（管道、道路等）：[To](/zh/post/to/) [fill](/zh/post/fill/) [or](/zh/post/or/) obstruct [a](/zh/post/a/) [passage](/zh/post/passage/), [such](/zh/post/such/) [as](/zh/post/as/) [a](/zh/post/a/) [drain](/zh/post/drain/). [For](/zh/post/for/) [example](/zh/post/example/), "[The](/zh/post/the/) [sink](/zh/post/sink/) is blocked [with](/zh/post/with/) [hair](/zh/post/hair/)."
 
 ## 短语
-- "[Block](/post/block/) [off](/post/off/)" 意为封锁或预留一段时间或空间。例如: "I [need](/post/need/) [to](/post/to/) [block](/post/block/) [off](/post/off/) [the](/post/the/) [afternoon](/post/afternoon/) [for](/post/for/) [my](/post/my/) [meeting](/post/meeting/)."
-- "[Block](/post/block/) [out](/post/out/)" 意为遮挡或忽略。例如: "[She](/post/she/) blocked [out](/post/out/) [the](/post/the/) [noise](/post/noise/) [by](/post/by/) putting [in](/post/in/) earplugs."
+- "[Block](/zh/post/block/) [off](/zh/post/off/)" 意为封锁或预留一段时间或空间。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [block](/zh/post/block/) [off](/zh/post/off/) [the](/zh/post/the/) [afternoon](/zh/post/afternoon/) [for](/zh/post/for/) [my](/zh/post/my/) [meeting](/zh/post/meeting/)."
+- "[Block](/zh/post/block/) [out](/zh/post/out/)" 意为遮挡或忽略。例如: "[She](/zh/post/she/) blocked [out](/zh/post/out/) [the](/zh/post/the/) [noise](/zh/post/noise/) [by](/zh/post/by/) putting [in](/zh/post/in/) earplugs."
 
 ## 例句
-- 名词: "[The](/post/the/) [construction](/post/construction/) workers were removing [the](/post/the/) [old](/post/old/) [block](/post/block/) [wall](/post/wall/) [to](/post/to/) [make](/post/make/) [way](/post/way/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [building](/post/building/)."
-- 动词: "[The](/post/the/) protesters blocked [the](/post/the/) [entrance](/post/entrance/) [to](/post/to/) [the](/post/the/) [building](/post/building/), preventing [anyone](/post/anyone/) [from](/post/from/) entering."
+- 名词: "[The](/zh/post/the/) [construction](/zh/post/construction/) workers were removing [the](/zh/post/the/) [old](/zh/post/old/) [block](/zh/post/block/) [wall](/zh/post/wall/) [to](/zh/post/to/) [make](/zh/post/make/) [way](/zh/post/way/) [for](/zh/post/for/) [the](/zh/post/the/) [new](/zh/post/new/) [building](/zh/post/building/)."
+- 动词: "[The](/zh/post/the/) protesters blocked [the](/zh/post/the/) [entrance](/zh/post/entrance/) [to](/zh/post/to/) [the](/zh/post/the/) [building](/zh/post/building/), preventing [anyone](/zh/post/anyone/) [from](/zh/post/from/) entering."
   
 ## 同义词
-- [Obstacle](/post/obstacle/)
-- [Barrier](/post/barrier/)
+- [Obstacle](/zh/post/obstacle/)
+- [Barrier](/zh/post/barrier/)
 - Hindrance
 - Impediment
 - Obstruction

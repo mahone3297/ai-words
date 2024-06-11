@@ -7,33 +7,33 @@ description = '[ˈdɑːns] vi.跳舞；摇晃 n.舞'
 keywords = ['ai words', 'dance']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɑːns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (v.t.) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) moving rhythmically [to](/en/post/to/) [music](/en/post/music/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) steps [or](/en/post/or/) patterns. "[The](/en/post/the/) [dance](/en/post/dance/) [floor](/en/post/floor/) was filled [with](/en/post/with/) [people](/en/post/people/) gracefully moving [to](/en/post/to/) [the](/en/post/the/) [beat](/en/post/beat/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [perform](/en/post/perform/) [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) dancing. "[She](/en/post/she/) loves [to](/en/post/to/) [dance](/en/post/dance/) [at](/en/post/at/) weddings."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [social](/en/post/social/) [event](/en/post/event/) [or](/en/post/or/) [occasion](/en/post/occasion/) [where](/en/post/where/) dancing takes [place](/en/post/place/). "[The](/en/post/the/) [annual](/en/post/annual/) [dance](/en/post/dance/) [competition](/en/post/competition/) drew [many](/en/post/many/) participants."
+- **[Noun](/post/noun/)**: (v.t.) [The](/post/the/) [act](/post/act/) [of](/post/of/) moving rhythmically [to](/post/to/) [music](/post/music/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [series](/post/series/) [of](/post/of/) steps [or](/post/or/) patterns. "[The](/post/the/) [dance](/post/dance/) [floor](/post/floor/) was filled [with](/post/with/) [people](/post/people/) gracefully moving [to](/post/to/) [the](/post/the/) [beat](/post/beat/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [perform](/post/perform/) [or](/post/or/) [engage](/post/engage/) [in](/post/in/) dancing. "[She](/post/she/) loves [to](/post/to/) [dance](/post/dance/) [at](/post/at/) weddings."
+- **[Noun](/post/noun/)**: [A](/post/a/) [social](/post/social/) [event](/post/event/) [or](/post/or/) [occasion](/post/occasion/) [where](/post/where/) dancing takes [place](/post/place/). "[The](/post/the/) [annual](/post/annual/) [dance](/post/dance/) [competition](/post/competition/) drew [many](/post/many/) participants."
 
 ## Phrases
-- "[Dance](/en/post/dance/) [the](/en/post/the/) [night](/en/post/night/) [away](/en/post/away/)" [means](/en/post/means/) [to](/en/post/to/) [enjoy](/en/post/enjoy/) dancing [until](/en/post/until/) [late](/en/post/late/) [into](/en/post/into/) [the](/en/post/the/) [evening](/en/post/evening/).
-- "[Learn](/en/post/learn/) [to](/en/post/to/) [dance](/en/post/dance/)" refers [to](/en/post/to/) acquiring [the](/en/post/the/) [skill](/en/post/skill/) [of](/en/post/of/) dancing.
-- "Ballroom dancing" specifies styles [like](/en/post/like/) waltz, tango, [or](/en/post/or/) foxtrot.
+- "[Dance](/post/dance/) [the](/post/the/) [night](/post/night/) [away](/post/away/)" [means](/post/means/) [to](/post/to/) [enjoy](/post/enjoy/) dancing [until](/post/until/) [late](/post/late/) [into](/post/into/) [the](/post/the/) [evening](/post/evening/).
+- "[Learn](/post/learn/) [to](/post/to/) [dance](/post/dance/)" refers [to](/post/to/) acquiring [the](/post/the/) [skill](/post/skill/) [of](/post/of/) dancing.
+- "Ballroom dancing" specifies styles [like](/post/like/) waltz, tango, [or](/post/or/) foxtrot.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [crowd](/en/post/crowd/) gathered [around](/en/post/around/) [to](/en/post/to/) [watch](/en/post/watch/) [the](/en/post/the/) [professional](/en/post/professional/) dancers [perform](/en/post/perform/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [dinner](/en/post/dinner/), [they](/en/post/they/) danced [to](/en/post/to/) [celebrate](/en/post/celebrate/) [their](/en/post/their/) anniversary."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) had [a](/en/post/a/) [natural](/en/post/natural/) [talent](/en/post/talent/) [for](/en/post/for/) ballroom [dance](/en/post/dance/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [crowd](/post/crowd/) gathered [around](/post/around/) [to](/post/to/) [watch](/post/watch/) [the](/post/the/) [professional](/post/professional/) dancers [perform](/post/perform/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [dinner](/post/dinner/), [they](/post/they/) danced [to](/post/to/) [celebrate](/post/celebrate/) [their](/post/their/) anniversary."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) had [a](/post/a/) [natural](/post/natural/) [talent](/post/talent/) [for](/post/for/) ballroom [dance](/post/dance/)."
 
 ## Synonyms
-- [Dance](/en/post/dance/) [routine](/en/post/routine/)
-- [Movement](/en/post/movement/)
+- [Dance](/post/dance/) [routine](/post/routine/)
+- [Movement](/post/movement/)
 - Groove
-- [Step](/en/post/step/)
+- [Step](/post/step/)
 - Waltz
 - Tango
-- Foxtrot ([specific](/en/post/specific/) [dance](/en/post/dance/) styles)
-- [Swing](/en/post/swing/)
+- Foxtrot ([specific](/post/specific/) [dance](/post/dance/) styles)
+- [Swing](/post/swing/)
 - Jive
-- Belly [dance](/en/post/dance/)
-- Ballet ([a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [formal](/en/post/formal/) [dance](/en/post/dance/))
+- Belly [dance](/post/dance/)
+- Ballet ([a](/post/a/) [type](/post/type/) [of](/post/of/) [formal](/post/formal/) [dance](/post/dance/))

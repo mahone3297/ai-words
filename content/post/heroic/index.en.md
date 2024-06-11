@@ -7,38 +7,38 @@ description = '[hiˈrəuik] a.英雄的；英勇的'
 keywords = ['ai words', 'heroic']
 +++
 
-## [Word](/en/post/word/): [Heroic](/en/post/heroic/)
+## [Word](/post/word/): [Heroic](/post/heroic/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈher.ə.kɪk/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: (adj) Relating [to](/en/post/to/) heroes [or](/en/post/or/) heroism; showing [great](/en/post/great/) [courage](/en/post/courage/), bravery, [or](/en/post/or/) nobility. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) firefighter's [heroic](/en/post/heroic/) efforts saved [many](/en/post/many/) lives."
-  - *[His](/en/post/his/) [heroic](/en/post/heroic/) deeds made [him](/en/post/him/) [a](/en/post/a/) [national](/en/post/national/) icon.*
-  - *[She](/en/post/she/) displayed [heroic](/en/post/heroic/) [determination](/en/post/determination/) [in](/en/post/in/) [her](/en/post/her/) [battle](/en/post/battle/) [against](/en/post/against/) [cancer](/en/post/cancer/).*
+- **[Adjective](/post/adjective/)**: (adj) Relating [to](/post/to/) heroes [or](/post/or/) heroism; showing [great](/post/great/) [courage](/post/courage/), bravery, [or](/post/or/) nobility. [For](/post/for/) [example](/post/example/): "[The](/post/the/) firefighter's [heroic](/post/heroic/) efforts saved [many](/post/many/) lives."
+  - *[His](/post/his/) [heroic](/post/heroic/) deeds made [him](/post/him/) [a](/post/a/) [national](/post/national/) icon.*
+  - *[She](/post/she/) displayed [heroic](/post/heroic/) [determination](/post/determination/) [in](/post/in/) [her](/post/her/) [battle](/post/battle/) [against](/post/against/) [cancer](/post/cancer/).*
 
-- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [literary](/en/post/literary/) [or](/en/post/or/) [artistic](/en/post/artistic/) [work](/en/post/work/) [that](/en/post/that/) portrays [the](/en/post/the/) adventures [or](/en/post/or/) achievements [of](/en/post/of/) legendary [or](/en/post/or/) mythical heroes. [For](/en/post/for/) [instance](/en/post/instance/): "Beowulf is an epic [poem](/en/post/poem/) featuring [heroic](/en/post/heroic/) characters."
+- **[Noun](/post/noun/)**: (n) [A](/post/a/) [type](/post/type/) [of](/post/of/) [literary](/post/literary/) [or](/post/or/) [artistic](/post/artistic/) [work](/post/work/) [that](/post/that/) portrays [the](/post/the/) adventures [or](/post/or/) achievements [of](/post/of/) legendary [or](/post/or/) mythical heroes. [For](/post/for/) [instance](/post/instance/): "Beowulf is an epic [poem](/post/poem/) featuring [heroic](/post/heroic/) characters."
 
-  - *"[The](/en/post/the/) composer created [a](/en/post/a/) symphony [with](/en/post/with/) [a](/en/post/a/) [heroic](/en/post/heroic/) theme [to](/en/post/to/) [celebrate](/en/post/celebrate/) [the](/en/post/the/) nation's [independence](/en/post/independence/)."*
+  - *"[The](/post/the/) composer created [a](/post/a/) symphony [with](/post/with/) [a](/post/a/) [heroic](/post/heroic/) theme [to](/post/to/) [celebrate](/post/celebrate/) [the](/post/the/) nation's [independence](/post/independence/)."*
 
 ## Phrases
-- "[Heroic](/en/post/heroic/) [effort](/en/post/effort/)": An [extraordinary](/en/post/extraordinary/) [amount](/en/post/amount/) [of](/en/post/of/) [courage](/en/post/courage/), [strength](/en/post/strength/), [or](/en/post/or/) [determination](/en/post/determination/) shown [in](/en/post/in/) [a](/en/post/a/) challenging [situation](/en/post/situation/).
-  - *"[Their](/en/post/their/) [heroic](/en/post/heroic/) efforts led [to](/en/post/to/) [the](/en/post/the/) [successful](/en/post/successful/) [rescue](/en/post/rescue/) [mission](/en/post/mission/)."*
+- "[Heroic](/post/heroic/) [effort](/post/effort/)": An [extraordinary](/post/extraordinary/) [amount](/post/amount/) [of](/post/of/) [courage](/post/courage/), [strength](/post/strength/), [or](/post/or/) [determination](/post/determination/) shown [in](/post/in/) [a](/post/a/) challenging [situation](/post/situation/).
+  - *"[Their](/post/their/) [heroic](/post/heroic/) efforts led [to](/post/to/) [the](/post/the/) [successful](/post/successful/) [rescue](/post/rescue/) [mission](/post/mission/)."*
 
-- "[Heroic](/en/post/heroic/) verse": [Poetry](/en/post/poetry/) written [in](/en/post/in/) [a](/en/post/a/) [grand](/en/post/grand/), elevated [style](/en/post/style/) [about](/en/post/about/) [heroic](/en/post/heroic/) exploits.
-  - *"Shakespeare wrote [some](/en/post/some/) [of](/en/post/of/) [his](/en/post/his/) plays [in](/en/post/in/) [heroic](/en/post/heroic/) verse."*
+- "[Heroic](/post/heroic/) verse": [Poetry](/post/poetry/) written [in](/post/in/) [a](/post/a/) [grand](/post/grand/), elevated [style](/post/style/) [about](/post/about/) [heroic](/post/heroic/) exploits.
+  - *"Shakespeare wrote [some](/post/some/) [of](/post/of/) [his](/post/his/) plays [in](/post/in/) [heroic](/post/heroic/) verse."*
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[In](/en/post/in/) [the](/en/post/the/) [face](/en/post/face/) [of](/en/post/of/) [danger](/en/post/danger/), [he](/en/post/he/) showed [truly](/en/post/truly/) [heroic](/en/post/heroic/) qualities."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) myths [often](/en/post/often/) [feature](/en/post/feature/) stories [of](/en/post/of/) [the](/en/post/the/) [heroic](/en/post/heroic/) overcoming incredible odds."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[In](/post/in/) [the](/post/the/) [face](/post/face/) [of](/post/of/) [danger](/post/danger/), [he](/post/he/) showed [truly](/post/truly/) [heroic](/post/heroic/) qualities."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ancient](/post/ancient/) myths [often](/post/often/) [feature](/post/feature/) stories [of](/post/of/) [the](/post/the/) [heroic](/post/heroic/) overcoming incredible odds."
 
 ## Synonyms
 - Courageous
 - Valiant
-- [Brave](/en/post/brave/)
+- [Brave](/post/brave/)
 - Gallant
 - Fearless
-- [Noble](/en/post/noble/)
+- [Noble](/post/noble/)
 - Intrepid
 - Stalwart
 - Dauntless

@@ -7,41 +7,41 @@ description = '[riˈpiːt] vt.重说，重做 n.重复'
 keywords = ['ai words', 'repeat']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈpiːt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) saying [or](/en/post/or/) doing [something](/en/post/something/) [again](/en/post/again/): *[The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) students [to](/en/post/to/) [repeat](/en/post/repeat/) [their](/en/post/their/) answers.*
-2. [A](/en/post/a/) [repetition](/en/post/repetition/) [of](/en/post/of/) [a](/en/post/a/) [word](/en/post/word/), [phrase](/en/post/phrase/), [or](/en/post/or/) [sound](/en/post/sound/): *[The](/en/post/the/) [song](/en/post/song/) had [a](/en/post/a/) catchy [repeat](/en/post/repeat/) chorus.*
-3. [A](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [fact](/en/post/fact/) [that](/en/post/that/) is restated [or](/en/post/or/) recalled: *[The](/en/post/the/) [history](/en/post/history/) [teacher](/en/post/teacher/) [often](/en/post/often/) repeated [key](/en/post/key/) dates [in](/en/post/in/) [class](/en/post/class/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) saying [or](/post/or/) doing [something](/post/something/) [again](/post/again/): *[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [repeat](/post/repeat/) [their](/post/their/) answers.*
+2. [A](/post/a/) [repetition](/post/repetition/) [of](/post/of/) [a](/post/a/) [word](/post/word/), [phrase](/post/phrase/), [or](/post/or/) [sound](/post/sound/): *[The](/post/the/) [song](/post/song/) had [a](/post/a/) catchy [repeat](/post/repeat/) chorus.*
+3. [A](/post/a/) [statement](/post/statement/) [or](/post/or/) [fact](/post/fact/) [that](/post/that/) is restated [or](/post/or/) recalled: *[The](/post/the/) [history](/post/history/) [teacher](/post/teacher/) [often](/post/often/) repeated [key](/post/key/) dates [in](/post/in/) [class](/post/class/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [say](/en/post/say/) [or](/en/post/or/) [do](/en/post/do/) [something](/en/post/something/) [again](/en/post/again/): *[Please](/en/post/please/) [repeat](/en/post/repeat/) [after](/en/post/after/) [me](/en/post/me/): 'I [promise](/en/post/promise/) [to](/en/post/to/) [be](/en/post/be/) [honest](/en/post/honest/).'*
-2. [To](/en/post/to/) [perform](/en/post/perform/) ([a](/en/post/a/) [task](/en/post/task/)) [repeatedly](/en/post/repeatedly/): *[The](/en/post/the/) [machine](/en/post/machine/) is programmed [to](/en/post/to/) [repeat](/en/post/repeat/) [the](/en/post/the/) [process](/en/post/process/) automatically.*
-3. [To](/en/post/to/) replay [or](/en/post/or/) [reproduce](/en/post/reproduce/) ([a](/en/post/a/) [sound](/en/post/sound/) [or](/en/post/or/) recording): *[The](/en/post/the/) DJ repeated [the](/en/post/the/) [hit](/en/post/hit/) [song](/en/post/song/) [multiple](/en/post/multiple/) times.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [say](/post/say/) [or](/post/or/) [do](/post/do/) [something](/post/something/) [again](/post/again/): *[Please](/post/please/) [repeat](/post/repeat/) [after](/post/after/) [me](/post/me/): 'I [promise](/post/promise/) [to](/post/to/) [be](/post/be/) [honest](/post/honest/).'*
+2. [To](/post/to/) [perform](/post/perform/) ([a](/post/a/) [task](/post/task/)) [repeatedly](/post/repeatedly/): *[The](/post/the/) [machine](/post/machine/) is programmed [to](/post/to/) [repeat](/post/repeat/) [the](/post/the/) [process](/post/process/) automatically.*
+3. [To](/post/to/) replay [or](/post/or/) [reproduce](/post/reproduce/) ([a](/post/a/) [sound](/post/sound/) [or](/post/or/) recording): *[The](/post/the/) DJ repeated [the](/post/the/) [hit](/post/hit/) [song](/post/song/) [multiple](/post/multiple/) times.*
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [being](/en/post/being/) done [or](/en/post/or/) said [more](/en/post/more/) [than](/en/post/than/) [once](/en/post/once/): *[A](/en/post/a/) repetitive [pattern](/en/post/pattern/) [can](/en/post/can/) [be](/en/post/be/) annoying.*
-2. Requiring [repetition](/en/post/repetition/) [for](/en/post/for/) [learning](/en/post/learning/): *[A](/en/post/a/) [repeat](/en/post/repeat/) password is stronger [than](/en/post/than/) [a](/en/post/a/) [simple](/en/post/simple/) [one](/en/post/one/).*
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) [being](/post/being/) done [or](/post/or/) said [more](/post/more/) [than](/post/than/) [once](/post/once/): *[A](/post/a/) repetitive [pattern](/post/pattern/) [can](/post/can/) [be](/post/be/) annoying.*
+2. Requiring [repetition](/post/repetition/) [for](/post/for/) [learning](/post/learning/): *[A](/post/a/) [repeat](/post/repeat/) password is stronger [than](/post/than/) [a](/post/a/) [simple](/post/simple/) [one](/post/one/).*
 
 ## Phrases
-- "[Repeat](/en/post/repeat/) [after](/en/post/after/) [me](/en/post/me/)" is [used](/en/post/used/) [to](/en/post/to/) instruct [someone](/en/post/someone/) [to](/en/post/to/) mimic [a](/en/post/a/) [phrase](/en/post/phrase/).
-- "[Repeat](/en/post/repeat/) [performance](/en/post/performance/)" refers [to](/en/post/to/) [a](/en/post/a/) [similar](/en/post/similar/) [event](/en/post/event/) happening [again](/en/post/again/).
-- "[Repeat](/en/post/repeat/) offender" describes [someone](/en/post/someone/) [who](/en/post/who/) has done [something](/en/post/something/) [wrong](/en/post/wrong/) [repeatedly](/en/post/repeatedly/).
+- "[Repeat](/post/repeat/) [after](/post/after/) [me](/post/me/)" is [used](/post/used/) [to](/post/to/) instruct [someone](/post/someone/) [to](/post/to/) mimic [a](/post/a/) [phrase](/post/phrase/).
+- "[Repeat](/post/repeat/) [performance](/post/performance/)" refers [to](/post/to/) [a](/post/a/) [similar](/post/similar/) [event](/post/event/) happening [again](/post/again/).
+- "[Repeat](/post/repeat/) offender" describes [someone](/post/someone/) [who](/post/who/) has done [something](/post/something/) [wrong](/post/wrong/) [repeatedly](/post/repeatedly/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) students were asked [to](/en/post/to/) [repeat](/en/post/repeat/) [their](/en/post/their/) calculations [on](/en/post/on/) [the](/en/post/the/) whiteboard."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) repeated [her](/en/post/her/) [apology](/en/post/apology/) [several](/en/post/several/) times [to](/en/post/to/) [make](/en/post/make/) [sure](/en/post/sure/) [he](/en/post/he/) understood."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [lesson](/en/post/lesson/) was designed [to](/en/post/to/) [avoid](/en/post/avoid/) repetitive exercises."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) students were asked [to](/post/to/) [repeat](/post/repeat/) [their](/post/their/) calculations [on](/post/on/) [the](/post/the/) whiteboard."
+- **[Verb](/post/verb/)**: "[She](/post/she/) repeated [her](/post/her/) [apology](/post/apology/) [several](/post/several/) times [to](/post/to/) [make](/post/make/) [sure](/post/sure/) [he](/post/he/) understood."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [lesson](/post/lesson/) was designed [to](/post/to/) [avoid](/post/avoid/) repetitive exercises."
 
 ## Synonyms
-- [Recite](/en/post/recite/)
-- [Repeat](/en/post/repeat/) [oneself](/en/post/oneself/)
-- [Repetition](/en/post/repetition/)
+- [Recite](/post/recite/)
+- [Repeat](/post/repeat/) [oneself](/post/oneself/)
+- [Repetition](/post/repetition/)
 - Reiterate
 - Replay
 
 ---
 
-[Note](/en/post/note/): [The](/en/post/the/) examples [provided](/en/post/provided/) [for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) "[repeat](/en/post/repeat/)" [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [might](/en/post/might/) [not](/en/post/not/) [be](/en/post/be/) [standard](/en/post/standard/) [usage](/en/post/usage/), [but](/en/post/but/) [they](/en/post/they/) [illustrate](/en/post/illustrate/) [how](/en/post/how/) [the](/en/post/the/) [word](/en/post/word/) [can](/en/post/can/) [be](/en/post/be/) employed [in](/en/post/in/) non-traditional ways. [In](/en/post/in/) [general](/en/post/general/), [the](/en/post/the/) [noun](/en/post/noun/) [form](/en/post/form/) [of](/en/post/of/) "[repeat](/en/post/repeat/)" is [more](/en/post/more/) [commonly](/en/post/commonly/) associated [with](/en/post/with/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) saying [or](/en/post/or/) doing [something](/en/post/something/) [again](/en/post/again/) [rather](/en/post/rather/) [than](/en/post/than/) [the](/en/post/the/) [concept](/en/post/concept/) [itself](/en/post/itself/).
+[Note](/post/note/): [The](/post/the/) examples [provided](/post/provided/) [for](/post/for/) [the](/post/the/) [verb](/post/verb/) "[repeat](/post/repeat/)" [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [might](/post/might/) [not](/post/not/) [be](/post/be/) [standard](/post/standard/) [usage](/post/usage/), [but](/post/but/) [they](/post/they/) [illustrate](/post/illustrate/) [how](/post/how/) [the](/post/the/) [word](/post/word/) [can](/post/can/) [be](/post/be/) employed [in](/post/in/) non-traditional ways. [In](/post/in/) [general](/post/general/), [the](/post/the/) [noun](/post/noun/) [form](/post/form/) [of](/post/of/) "[repeat](/post/repeat/)" is [more](/post/more/) [commonly](/post/commonly/) associated [with](/post/with/) [the](/post/the/) [action](/post/action/) [of](/post/of/) saying [or](/post/or/) doing [something](/post/something/) [again](/post/again/) [rather](/post/rather/) [than](/post/than/) [the](/post/the/) [concept](/post/concept/) [itself](/post/itself/).

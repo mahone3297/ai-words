@@ -7,29 +7,29 @@ description = '[ˈɔːgəst] n.八月'
 keywords = ['ai words', 'august']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɔːɡəst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [month](/en/post/month/) [in](/en/post/in/) [the](/en/post/the/) Gregorian [calendar](/en/post/calendar/), occurring [from](/en/post/from/) [August](/en/post/august/) 1 [to](/en/post/to/) 31. [It](/en/post/it/) is [the](/en/post/the/) [eighth](/en/post/eighth/) [month](/en/post/month/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/) [and](/en/post/and/) is [usually](/en/post/usually/) associated [with](/en/post/with/) [summer](/en/post/summer/) [in](/en/post/in/) [the](/en/post/the/) [Northern](/en/post/northern/) Hemisphere. (adj.) Characterized [by](/en/post/by/) [its](/en/post/its/) [hot](/en/post/hot/) [weather](/en/post/weather/) [and](/en/post/and/) [often](/en/post/often/) associated [with](/en/post/with/) vacations [or](/en/post/or/) events [like](/en/post/like/) [Independence](/en/post/independence/) [Day](/en/post/day/) [in](/en/post/in/) [the](/en/post/the/) [US](/en/post/us/).)
+- **[Noun](/post/noun/)**: [A](/post/a/) [month](/post/month/) [in](/post/in/) [the](/post/the/) Gregorian [calendar](/post/calendar/), occurring [from](/post/from/) [August](/post/august/) 1 [to](/post/to/) 31. [It](/post/it/) is [the](/post/the/) [eighth](/post/eighth/) [month](/post/month/) [of](/post/of/) [the](/post/the/) [year](/post/year/) [and](/post/and/) is [usually](/post/usually/) associated [with](/post/with/) [summer](/post/summer/) [in](/post/in/) [the](/post/the/) [Northern](/post/northern/) Hemisphere. (adj.) Characterized [by](/post/by/) [its](/post/its/) [hot](/post/hot/) [weather](/post/weather/) [and](/post/and/) [often](/post/often/) associated [with](/post/with/) vacations [or](/post/or/) events [like](/post/like/) [Independence](/post/independence/) [Day](/post/day/) [in](/post/in/) [the](/post/the/) [US](/post/us/).)
 
 ## Phrases
-- "[In](/en/post/in/) [August](/en/post/august/)" refers [to](/en/post/to/) [the](/en/post/the/) [time](/en/post/time/) [period](/en/post/period/) [during](/en/post/during/) [this](/en/post/this/) [month](/en/post/month/).
-- "[August](/en/post/august/) [heat](/en/post/heat/)" signifies the高温天气 typically experienced [in](/en/post/in/) [August](/en/post/august/).
-- "[Summer](/en/post/summer/) [vacation](/en/post/vacation/) starts [in](/en/post/in/) [August](/en/post/august/)" is [a](/en/post/a/) [common](/en/post/common/) [reference](/en/post/reference/) [to](/en/post/to/) [holiday](/en/post/holiday/) [season](/en/post/season/) [in](/en/post/in/) [many](/en/post/many/) countries.
+- "[In](/post/in/) [August](/post/august/)" refers [to](/post/to/) [the](/post/the/) [time](/post/time/) [period](/post/period/) [during](/post/during/) [this](/post/this/) [month](/post/month/).
+- "[August](/post/august/) [heat](/post/heat/)" signifies the高温天气 typically experienced [in](/post/in/) [August](/post/august/).
+- "[Summer](/post/summer/) [vacation](/post/vacation/) starts [in](/post/in/) [August](/post/august/)" is [a](/post/a/) [common](/post/common/) [reference](/post/reference/) [to](/post/to/) [holiday](/post/holiday/) [season](/post/season/) [in](/post/in/) [many](/post/many/) countries.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [school](/en/post/school/) [year](/en/post/year/) [always](/en/post/always/) ends [in](/en/post/in/) June, [and](/en/post/and/) [the](/en/post/the/) [new](/en/post/new/) [academic](/en/post/academic/) [year](/en/post/year/) begins [in](/en/post/in/) September, [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [break](/en/post/break/) [in](/en/post/in/) [August](/en/post/august/)."
-- **[Adjective](/en/post/adjective/)**: "[August](/en/post/august/) skies were [clear](/en/post/clear/) [and](/en/post/and/) [blue](/en/post/blue/), [perfect](/en/post/perfect/) [for](/en/post/for/) [outdoor](/en/post/outdoor/) activities."
-- **Prepositional [Phrase](/en/post/phrase/)**: "[We](/en/post/we/) had [our](/en/post/our/) [annual](/en/post/annual/) [family](/en/post/family/) reunion [on](/en/post/on/) [the](/en/post/the/) [first](/en/post/first/) [weekend](/en/post/weekend/) [of](/en/post/of/) [August](/en/post/august/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [school](/post/school/) [year](/post/year/) [always](/post/always/) ends [in](/post/in/) June, [and](/post/and/) [the](/post/the/) [new](/post/new/) [academic](/post/academic/) [year](/post/year/) begins [in](/post/in/) September, [after](/post/after/) [a](/post/a/) [long](/post/long/) [break](/post/break/) [in](/post/in/) [August](/post/august/)."
+- **[Adjective](/post/adjective/)**: "[August](/post/august/) skies were [clear](/post/clear/) [and](/post/and/) [blue](/post/blue/), [perfect](/post/perfect/) [for](/post/for/) [outdoor](/post/outdoor/) activities."
+- **Prepositional [Phrase](/post/phrase/)**: "[We](/post/we/) had [our](/post/our/) [annual](/post/annual/) [family](/post/family/) reunion [on](/post/on/) [the](/post/the/) [first](/post/first/) [weekend](/post/weekend/) [of](/post/of/) [August](/post/august/)."
 
 ## Synonyms
-- July/[August](/en/post/august/) ([as](/en/post/as/) [a](/en/post/a/) [time](/en/post/time/) [period](/en/post/period/))
--暑期 ([in](/en/post/in/) Chinese)
-- [Late](/en/post/late/) [Summer](/en/post/summer/)
-- [High](/en/post/high/) [Summer](/en/post/summer/)
+- July/[August](/post/august/) ([as](/post/as/) [a](/post/a/) [time](/post/time/) [period](/post/period/))
+-暑期 ([in](/post/in/) Chinese)
+- [Late](/post/late/) [Summer](/post/summer/)
+- [High](/post/high/) [Summer](/post/summer/)
 
 ## Antonyms
-- [Winter](/en/post/winter/)
-- [Early](/en/post/early/) [Summer](/en/post/summer/)
-- [Spring](/en/post/spring/) [or](/en/post/or/) [Fall](/en/post/fall/) (depending [on](/en/post/on/) [the](/en/post/the/) context)
+- [Winter](/post/winter/)
+- [Early](/post/early/) [Summer](/post/summer/)
+- [Spring](/post/spring/) [or](/post/or/) [Fall](/post/fall/) (depending [on](/post/on/) [the](/post/the/) context)

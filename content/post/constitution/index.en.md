@@ -7,32 +7,32 @@ description = '[ˌkɔnstiˈtjuː∫ən] n.章程;体质;构造'
 keywords = ['ai words', 'constitution']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈstɪtʃuːʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) **1**. [fundamental](/en/post/fundamental/) [law](/en/post/law/) [or](/en/post/or/) [set](/en/post/set/) [of](/en/post/of/) principles governing [a](/en/post/a/) [country](/en/post/country/) [or](/en/post/or/) [organization](/en/post/organization/), outlining [its](/en/post/its/) [structure](/en/post/structure/), powers, [and](/en/post/and/) rights; **2.** [the](/en/post/the/) [body](/en/post/body/) [of](/en/post/of/) rules [that](/en/post/that/) [make](/en/post/make/) [up](/en/post/up/) [a](/en/post/a/) [constitution](/en/post/constitution/), [often](/en/post/often/) specifying [the](/en/post/the/) [system](/en/post/system/) [of](/en/post/of/) [government](/en/post/government/) [and](/en/post/and/) [division](/en/post/division/) [of](/en/post/of/) powers [between](/en/post/between/) [different](/en/post/different/) branches. [Example](/en/post/example/): "[The](/en/post/the/) [US](/en/post/us/) [Constitution](/en/post/constitution/) is [a](/en/post/a/) cornerstone [of](/en/post/of/) [American](/en/post/american/) [democracy](/en/post/democracy/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) formulate [the](/en/post/the/) [fundamental](/en/post/fundamental/) principles [or](/en/post/or/) [framework](/en/post/framework/) [of](/en/post/of/) [something](/en/post/something/), typically [a](/en/post/a/) [government](/en/post/government/) [or](/en/post/or/) [organization](/en/post/organization/). [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [constitution](/en/post/constitution/) was adopted [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [and](/en/post/and/) contentious [debate](/en/post/debate/)."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [constitution](/en/post/constitution/) [or](/en/post/or/) constitutional [system](/en/post/system/). [Example](/en/post/example/): "[A](/en/post/a/) constitutional monarchy maintains [a](/en/post/a/) hereditary [head](/en/post/head/) [of](/en/post/of/) [state](/en/post/state/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) **1**. [fundamental](/post/fundamental/) [law](/post/law/) [or](/post/or/) [set](/post/set/) [of](/post/of/) principles governing [a](/post/a/) [country](/post/country/) [or](/post/or/) [organization](/post/organization/), outlining [its](/post/its/) [structure](/post/structure/), powers, [and](/post/and/) rights; **2.** [the](/post/the/) [body](/post/body/) [of](/post/of/) rules [that](/post/that/) [make](/post/make/) [up](/post/up/) [a](/post/a/) [constitution](/post/constitution/), [often](/post/often/) specifying [the](/post/the/) [system](/post/system/) [of](/post/of/) [government](/post/government/) [and](/post/and/) [division](/post/division/) [of](/post/of/) powers [between](/post/between/) [different](/post/different/) branches. [Example](/post/example/): "[The](/post/the/) [US](/post/us/) [Constitution](/post/constitution/) is [a](/post/a/) cornerstone [of](/post/of/) [American](/post/american/) [democracy](/post/democracy/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [establish](/post/establish/) [or](/post/or/) formulate [the](/post/the/) [fundamental](/post/fundamental/) principles [or](/post/or/) [framework](/post/framework/) [of](/post/of/) [something](/post/something/), typically [a](/post/a/) [government](/post/government/) [or](/post/or/) [organization](/post/organization/). [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [constitution](/post/constitution/) was adopted [after](/post/after/) [a](/post/a/) [long](/post/long/) [and](/post/and/) contentious [debate](/post/debate/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [constitution](/post/constitution/) [or](/post/or/) constitutional [system](/post/system/). [Example](/post/example/): "[A](/post/a/) constitutional monarchy maintains [a](/post/a/) hereditary [head](/post/head/) [of](/post/of/) [state](/post/state/)."
 
 ## Phrases
-- "Constitutional amendment" refers [to](/en/post/to/) [a](/en/post/a/) [change](/en/post/change/) made [to](/en/post/to/) [a](/en/post/a/) [constitution](/en/post/constitution/).
-- "Uphold [the](/en/post/the/) [constitution](/en/post/constitution/)" [means](/en/post/means/) [to](/en/post/to/) [support](/en/post/support/) [and](/en/post/and/) [maintain](/en/post/maintain/) [its](/en/post/its/) principles.
-- "[Fundamental](/en/post/fundamental/) constitutional rights" are [the](/en/post/the/) [basic](/en/post/basic/) liberties protected [by](/en/post/by/) [a](/en/post/a/) [constitution](/en/post/constitution/).
+- "Constitutional amendment" refers [to](/post/to/) [a](/post/a/) [change](/post/change/) made [to](/post/to/) [a](/post/a/) [constitution](/post/constitution/).
+- "Uphold [the](/post/the/) [constitution](/post/constitution/)" [means](/post/means/) [to](/post/to/) [support](/post/support/) [and](/post/and/) [maintain](/post/maintain/) [its](/post/its/) principles.
+- "[Fundamental](/post/fundamental/) constitutional rights" are [the](/post/the/) [basic](/post/basic/) liberties protected [by](/post/by/) [a](/post/a/) [constitution](/post/constitution/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [constitution](/en/post/constitution/) guarantees [freedom](/en/post/freedom/) [of](/en/post/of/) [speech](/en/post/speech/) [and](/en/post/and/) [religion](/en/post/religion/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [government](/en/post/government/) is working [on](/en/post/on/) amending [the](/en/post/the/) [constitution](/en/post/constitution/) [to](/en/post/to/) [reflect](/en/post/reflect/) [modern](/en/post/modern/) values."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) country's constitutional [framework](/en/post/framework/) has remained [largely](/en/post/largely/) intact [since](/en/post/since/) [independence](/en/post/independence/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [constitution](/post/constitution/) guarantees [freedom](/post/freedom/) [of](/post/of/) [speech](/post/speech/) [and](/post/and/) [religion](/post/religion/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [government](/post/government/) is working [on](/post/on/) amending [the](/post/the/) [constitution](/post/constitution/) [to](/post/to/) [reflect](/post/reflect/) [modern](/post/modern/) values."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) country's constitutional [framework](/post/framework/) has remained [largely](/post/largely/) intact [since](/post/since/) [independence](/post/independence/)."
 
 ## Synonyms
 - Charter
-- [Framework](/en/post/framework/)
-- [Basic](/en/post/basic/) [law](/en/post/law/)
+- [Framework](/post/framework/)
+- [Basic](/post/basic/) [law](/post/law/)
 - Institutional setup
 - Constitutional principles
 
 ## Antonyms
 - Unconstitutional
 - Flawed
-- Repealed ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) changing [or](/en/post/or/) abolishing [a](/en/post/a/) [constitution](/en/post/constitution/))
+- Repealed ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) changing [or](/post/or/) abolishing [a](/post/a/) [constitution](/post/constitution/))

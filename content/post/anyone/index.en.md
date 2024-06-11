@@ -7,30 +7,30 @@ description = '[ˈeniwʌn] pron.任何人'
 keywords = ['ai words', 'anyone']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈenɪvən/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) an unspecified [person](/en/post/person/), typically [one](/en/post/one/) chosen [at](/en/post/at/) random [from](/en/post/from/) [a](/en/post/a/) [group](/en/post/group/). [Can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [pronoun](/en/post/pronoun/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [any](/en/post/any/) [person](/en/post/person/). [For](/en/post/for/) [example](/en/post/example/): "[Anyone](/en/post/anyone/) [can](/en/post/can/) volunteer [for](/en/post/for/) [this](/en/post/this/) [task](/en/post/task/)."
-- **[Pronoun](/en/post/pronoun/)**: Refers [to](/en/post/to/) an [unknown](/en/post/unknown/) [or](/en/post/or/) unspecified [person](/en/post/person/). [For](/en/post/for/) [example](/en/post/example/): "[If](/en/post/if/) [anyone](/en/post/anyone/) knows [the](/en/post/the/) [answer](/en/post/answer/), [please](/en/post/please/) [speak](/en/post/speak/) [up](/en/post/up/)."
+- **[Adjective](/post/adjective/)**: [Used](/post/used/) [to](/post/to/) [describe](/post/describe/) an unspecified [person](/post/person/), typically [one](/post/one/) chosen [at](/post/at/) random [from](/post/from/) [a](/post/a/) [group](/post/group/). [Can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [pronoun](/post/pronoun/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [any](/post/any/) [person](/post/person/). [For](/post/for/) [example](/post/example/): "[Anyone](/post/anyone/) [can](/post/can/) volunteer [for](/post/for/) [this](/post/this/) [task](/post/task/)."
+- **[Pronoun](/post/pronoun/)**: Refers [to](/post/to/) an [unknown](/post/unknown/) [or](/post/or/) unspecified [person](/post/person/). [For](/post/for/) [example](/post/example/): "[If](/post/if/) [anyone](/post/anyone/) knows [the](/post/the/) [answer](/post/answer/), [please](/post/please/) [speak](/post/speak/) [up](/post/up/)."
 
 ## Phrases
-- "[Anyone](/en/post/anyone/) interested?" is [a](/en/post/a/) [way](/en/post/way/) [of](/en/post/of/) asking [if](/en/post/if/) there's [someone](/en/post/someone/) [who](/en/post/who/) wants [to](/en/post/to/) [participate](/en/post/participate/).
-- "[Anyone](/en/post/anyone/) [can](/en/post/can/) [join](/en/post/join/)" indicates [that](/en/post/that/) [no](/en/post/no/) [specific](/en/post/specific/) qualifications are required.
-- "[Anyone](/en/post/anyone/) [but](/en/post/but/) [me](/en/post/me/)" implies [that](/en/post/that/) [a](/en/post/a/) [particular](/en/post/particular/) [person](/en/post/person/) is excluded.
+- "[Anyone](/post/anyone/) interested?" is [a](/post/a/) [way](/post/way/) [of](/post/of/) asking [if](/post/if/) there's [someone](/post/someone/) [who](/post/who/) wants [to](/post/to/) [participate](/post/participate/).
+- "[Anyone](/post/anyone/) [can](/post/can/) [join](/post/join/)" indicates [that](/post/that/) [no](/post/no/) [specific](/post/specific/) qualifications are required.
+- "[Anyone](/post/anyone/) [but](/post/but/) [me](/post/me/)" implies [that](/post/that/) [a](/post/a/) [particular](/post/particular/) [person](/post/person/) is excluded.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[We](/en/post/we/) [need](/en/post/need/) volunteers, [anyone](/en/post/anyone/) [willing](/en/post/willing/) [to](/en/post/to/) [help](/en/post/help/) is [welcome](/en/post/welcome/)."
-- **[Pronoun](/en/post/pronoun/)**: "I'm [not](/en/post/not/) [sure](/en/post/sure/) [if](/en/post/if/) [anyone](/en/post/anyone/) [saw](/en/post/saw/) [what](/en/post/what/) happened [over](/en/post/over/) [there](/en/post/there/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[We](/post/we/) [need](/post/need/) volunteers, [anyone](/post/anyone/) [willing](/post/willing/) [to](/post/to/) [help](/post/help/) is [welcome](/post/welcome/)."
+- **[Pronoun](/post/pronoun/)**: "I'm [not](/post/not/) [sure](/post/sure/) [if](/post/if/) [anyone](/post/anyone/) [saw](/post/saw/) [what](/post/what/) happened [over](/post/over/) [there](/post/there/)."
 
 ## Synonyms
-- [Somebody](/en/post/somebody/)
-- [Anybody](/en/post/anybody/)
-- [Person](/en/post/person/)
-- [Individual](/en/post/individual/)
-- [Someone](/en/post/someone/)
+- [Somebody](/post/somebody/)
+- [Anybody](/post/anybody/)
+- [Person](/post/person/)
+- [Individual](/post/individual/)
+- [Someone](/post/someone/)
 
 ## Antonyms
-- [Nobody](/en/post/nobody/)
-- [No](/en/post/no/) [one](/en/post/one/)
-- [Specific](/en/post/specific/) [person](/en/post/person/) ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) known [person](/en/post/person/))
+- [Nobody](/post/nobody/)
+- [No](/post/no/) [one](/post/one/)
+- [Specific](/post/specific/) [person](/post/person/) ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) known [person](/post/person/))

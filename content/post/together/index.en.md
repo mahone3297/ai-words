@@ -7,35 +7,35 @@ description = '[təˈgeðə] ad.共同，一起'
 keywords = ['ai words', 'together']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /toʊgether/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) united [or](/en/post/or/) concerted [manner](/en/post/manner/); jointly. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) worked [together](/en/post/together/) [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/)."
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [unity](/en/post/unity/) [or](/en/post/or/) cooperation; joined. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) worked [together](/en/post/together/) seamlessly."
-- **[Preposition](/en/post/preposition/)**: Expressing [the](/en/post/the/) [relationship](/en/post/relationship/) [of](/en/post/of/) parts [of](/en/post/of/) [a](/en/post/a/) [whole](/en/post/whole/) [or](/en/post/or/) [group](/en/post/group/); alongside. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) sat [together](/en/post/together/) [at](/en/post/at/) [the](/en/post/the/) [table](/en/post/table/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) united [or](/post/or/) concerted [manner](/post/manner/); jointly. [For](/post/for/) [example](/post/example/): "[They](/post/they/) worked [together](/post/together/) [on](/post/on/) [the](/post/the/) [project](/post/project/)."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [unity](/post/unity/) [or](/post/or/) cooperation; joined. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [team](/post/team/) worked [together](/post/together/) seamlessly."
+- **[Preposition](/post/preposition/)**: Expressing [the](/post/the/) [relationship](/post/relationship/) [of](/post/of/) parts [of](/post/of/) [a](/post/a/) [whole](/post/whole/) [or](/post/or/) [group](/post/group/); alongside. [For](/post/for/) [example](/post/example/): "[We](/post/we/) sat [together](/post/together/) [at](/post/at/) [the](/post/the/) [table](/post/table/)."
 
 ## Phrases
-- "[Work](/en/post/work/) [together](/en/post/together/)" implies collaboration [or](/en/post/or/) cooperation.
-- "[Live](/en/post/live/) [together](/en/post/together/)" signifies sharing [a](/en/post/a/) [living](/en/post/living/) [space](/en/post/space/) [with](/en/post/with/) others.
-- "[Think](/en/post/think/) [together](/en/post/together/)" [means](/en/post/means/) [to](/en/post/to/) [consider](/en/post/consider/) [or](/en/post/or/) [discuss](/en/post/discuss/) ideas jointly.
+- "[Work](/post/work/) [together](/post/together/)" implies collaboration [or](/post/or/) cooperation.
+- "[Live](/post/live/) [together](/post/together/)" signifies sharing [a](/post/a/) [living](/post/living/) [space](/post/space/) [with](/post/with/) others.
+- "[Think](/post/think/) [together](/post/together/)" [means](/post/means/) [to](/post/to/) [consider](/post/consider/) [or](/post/or/) [discuss](/post/discuss/) ideas jointly.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [go](/en/post/go/) [together](/en/post/together/) [to](/en/post/to/) [the](/en/post/the/) [beach](/en/post/beach/) [for](/en/post/for/) [the](/en/post/the/) [weekend](/en/post/weekend/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) siblings were inseparable, [always](/en/post/always/) playing [together](/en/post/together/)."
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) friends sat [together](/en/post/together/) [on](/en/post/on/) [the](/en/post/the/) couch, watching [the](/en/post/the/) [movie](/en/post/movie/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[They](/post/they/) decided [to](/post/to/) [go](/post/go/) [together](/post/together/) [to](/post/to/) [the](/post/the/) [beach](/post/beach/) [for](/post/for/) [the](/post/the/) [weekend](/post/weekend/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) siblings were inseparable, [always](/post/always/) playing [together](/post/together/)."
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) friends sat [together](/post/together/) [on](/post/on/) [the](/post/the/) couch, watching [the](/post/the/) [movie](/post/movie/)."
 
 ## Synonyms
-- [In](/en/post/in/) unison
+- [In](/post/in/) unison
 - Concurrently
-- [As](/en/post/as/) [one](/en/post/one/)
-- [Side](/en/post/side/) [by](/en/post/by/) [side](/en/post/side/)
+- [As](/post/as/) [one](/post/one/)
+- [Side](/post/side/) [by](/post/by/) [side](/post/side/)
 - United
 - Collaborative
 - Synergistic
 
 ## Antonyms
-- [Separately](/en/post/separately/)
+- [Separately](/post/separately/)
 - Individually
 - Oppositely
 - Disunited

@@ -12,27 +12,27 @@ keywords = ['ai words', 'consideration']
 
 ## 释义
 - **名词**: 考虑，思考；关心，关注；报酬，报偿；重要性，价值
-  - 例如: "[This](/post/this/) [decision](/post/decision/) requires [careful](/post/careful/) [consideration](/post/consideration/)."
-  - 例如: "[She](/post/she/) showed [great](/post/great/) [consideration](/post/consideration/) [for](/post/for/) [his](/post/his/) feelings."
-  - 例如: "[The](/post/the/) [salary](/post/salary/) is [a](/post/a/) [major](/post/major/) [consideration](/post/consideration/) [when](/post/when/) choosing [a](/post/a/) [job](/post/job/)."
+  - 例如: "[This](/zh/post/this/) [decision](/zh/post/decision/) requires [careful](/zh/post/careful/) [consideration](/zh/post/consideration/)."
+  - 例如: "[She](/zh/post/she/) showed [great](/zh/post/great/) [consideration](/zh/post/consideration/) [for](/zh/post/for/) [his](/zh/post/his/) feelings."
+  - 例如: "[The](/zh/post/the/) [salary](/zh/post/salary/) is [a](/zh/post/a/) [major](/zh/post/major/) [consideration](/zh/post/consideration/) [when](/zh/post/when/) choosing [a](/zh/post/a/) [job](/zh/post/job/)."
 
 - **动词**: 考虑，认为，审议
-  - 例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [consider](/post/consider/) [all](/post/all/) options [before](/post/before/) making [a](/post/a/) [choice](/post/choice/)."
-  - 例如: "[The](/post/the/) [committee](/post/committee/) is considering [the](/post/the/) [proposal](/post/proposal/)."
+  - 例如: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [consider](/zh/post/consider/) [all](/zh/post/all/) options [before](/zh/post/before/) making [a](/zh/post/a/) [choice](/zh/post/choice/)."
+  - 例如: "[The](/zh/post/the/) [committee](/zh/post/committee/) is considering [the](/zh/post/the/) [proposal](/zh/post/proposal/)."
 
 ## 短语
-- "[Give](/post/give/) [something](/post/something/) [due](/post/due/) [consideration](/post/consideration/)" 意为对某事给予应有的考虑。
-- "[In](/post/in/) [consideration](/post/consideration/) [of](/post/of/)" 表示"作为...的代价"或"考虑到..."
-- "[Without](/post/without/) [further](/post/further/) [consideration](/post/consideration/)" 意为"不再多加考虑"
+- "[Give](/zh/post/give/) [something](/zh/post/something/) [due](/zh/post/due/) [consideration](/zh/post/consideration/)" 意为对某事给予应有的考虑。
+- "[In](/zh/post/in/) [consideration](/zh/post/consideration/) [of](/zh/post/of/)" 表示"作为...的代价"或"考虑到..."
+- "[Without](/zh/post/without/) [further](/zh/post/further/) [consideration](/zh/post/consideration/)" 意为"不再多加考虑"
 
 ## 例句
-- 名词: "[Your](/post/your/) [opinion](/post/opinion/) deserves [serious](/post/serious/) [consideration](/post/consideration/)."
-- 动词: "[They](/post/they/) are considering [several](/post/several/) candidates [for](/post/for/) [the](/post/the/) [position](/post/position/)."
-- 名词: "[The](/post/the/) [contract](/post/contract/) included [a](/post/a/) signing bonus [in](/post/in/) [consideration](/post/consideration/) [for](/post/for/) [his](/post/his/) services."
+- 名词: "[Your](/zh/post/your/) [opinion](/zh/post/opinion/) deserves [serious](/zh/post/serious/) [consideration](/zh/post/consideration/)."
+- 动词: "[They](/zh/post/they/) are considering [several](/zh/post/several/) candidates [for](/zh/post/for/) [the](/zh/post/the/) [position](/zh/post/position/)."
+- 名词: "[The](/zh/post/the/) [contract](/zh/post/contract/) included [a](/zh/post/a/) signing bonus [in](/zh/post/in/) [consideration](/zh/post/consideration/) [for](/zh/post/for/) [his](/zh/post/his/) services."
 
 ## 同义词
-- [Thought](/post/thought/)
-- [Reflection](/post/reflection/)
+- [Thought](/zh/post/thought/)
+- [Reflection](/zh/post/reflection/)
 - Deliberation
-- [Regard](/post/regard/)
+- [Regard](/zh/post/regard/)
 - Mindfulness

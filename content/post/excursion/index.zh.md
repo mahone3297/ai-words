@@ -11,21 +11,21 @@ keywords = ['ai words', 'excursion']
 /ɪkˈskɜːrʒən/
 
 ## 释义
-- **名词**: 一次短途旅行或游览，尤指作为休闲或娱乐活动。例如: "[We](/post/we/) had an [exciting](/post/exciting/) [excursion](/post/excursion/) [to](/post/to/) [the](/post/the/) mountains."
-- **动词**: 进行短途旅行或游览。例如: "[They](/post/they/) decided [to](/post/to/) [excursion](/post/excursion/) [to](/post/to/) [the](/post/the/) [nearby](/post/nearby/) [castle](/post/castle/)."
+- **名词**: 一次短途旅行或游览，尤指作为休闲或娱乐活动。例如: "[We](/zh/post/we/) had an [exciting](/zh/post/exciting/) [excursion](/zh/post/excursion/) [to](/zh/post/to/) [the](/zh/post/the/) mountains."
+- **动词**: 进行短途旅行或游览。例如: "[They](/zh/post/they/) decided [to](/zh/post/to/) [excursion](/zh/post/excursion/) [to](/zh/post/to/) [the](/zh/post/the/) [nearby](/zh/post/nearby/) [castle](/zh/post/castle/)."
 
 ## 短语
-- "[Day](/post/day/) [excursion](/post/excursion/)" 指一天内的短途旅行。
-- "[Group](/post/group/) [excursion](/post/excursion/)" 指集体组织的旅行活动。
-- "Guided [excursion](/post/excursion/)" 指有导游带领的游览。
+- "[Day](/zh/post/day/) [excursion](/zh/post/excursion/)" 指一天内的短途旅行。
+- "[Group](/zh/post/group/) [excursion](/zh/post/excursion/)" 指集体组织的旅行活动。
+- "Guided [excursion](/zh/post/excursion/)" 指有导游带领的游览。
 
 ## 例句
-- 名词: "[The](/post/the/) [school](/post/school/) is organizing [a](/post/a/) [weekend](/post/weekend/) [excursion](/post/excursion/) [to](/post/to/) [the](/post/the/) [zoo](/post/zoo/) [for](/post/for/) [the](/post/the/) students."
-- 动词: "[They](/post/they/) [regularly](/post/regularly/) [excursion](/post/excursion/) [to](/post/to/) [different](/post/different/) museums [to](/post/to/) [learn](/post/learn/) [about](/post/about/) [art](/post/art/) [and](/post/and/) [history](/post/history/)."
+- 名词: "[The](/zh/post/the/) [school](/zh/post/school/) is organizing [a](/zh/post/a/) [weekend](/zh/post/weekend/) [excursion](/zh/post/excursion/) [to](/zh/post/to/) [the](/zh/post/the/) [zoo](/zh/post/zoo/) [for](/zh/post/for/) [the](/zh/post/the/) students."
+- 动词: "[They](/zh/post/they/) [regularly](/zh/post/regularly/) [excursion](/zh/post/excursion/) [to](/zh/post/to/) [different](/zh/post/different/) museums [to](/zh/post/to/) [learn](/zh/post/learn/) [about](/zh/post/about/) [art](/zh/post/art/) [and](/zh/post/and/) [history](/zh/post/history/)."
 
 ## 同义词
-- [Trip](/post/trip/)
-- [Tour](/post/tour/)
-- [Excursion](/post/excursion/)
+- [Trip](/zh/post/trip/)
+- [Tour](/zh/post/tour/)
+- [Excursion](/zh/post/excursion/)
 - Jaunt
 - Outing

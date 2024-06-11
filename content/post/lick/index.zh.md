@@ -12,23 +12,23 @@ keywords = ['ai words', 'lick']
 
 ## 释义
 - **动词**:
-1. 舔，用舌头触碰。例如: "[The](/post/the/) [cat](/post/cat/) licked [its](/post/its/) paws [clean](/post/clean/)."
-2. 轻轻地擦过或触碰。例如: "[He](/post/he/) licked [his](/post/his/) lips nervously."
+1. 舔，用舌头触碰。例如: "[The](/zh/post/the/) [cat](/zh/post/cat/) licked [its](/zh/post/its/) paws [clean](/zh/post/clean/)."
+2. 轻轻地擦过或触碰。例如: "[He](/zh/post/he/) licked [his](/zh/post/his/) lips nervously."
 
 - **名词**:
-1. 一舔的动作。例如: "[She](/post/she/) gave [the](/post/the/) [ice](/post/ice/) [cream](/post/cream/) [a](/post/a/) [quick](/post/quick/) [lick](/post/lick/)."
-2. 轻微的胜利。例如: "[They](/post/they/) gained [a](/post/a/) [small](/post/small/) [lick](/post/lick/) [in](/post/in/) [the](/post/the/) [debate](/post/debate/)."
+1. 一舔的动作。例如: "[She](/zh/post/she/) gave [the](/zh/post/the/) [ice](/zh/post/ice/) [cream](/zh/post/cream/) [a](/zh/post/a/) [quick](/zh/post/quick/) [lick](/zh/post/lick/)."
+2. 轻微的胜利。例如: "[They](/zh/post/they/) gained [a](/zh/post/a/) [small](/zh/post/small/) [lick](/zh/post/lick/) [in](/zh/post/in/) [the](/zh/post/the/) [debate](/zh/post/debate/)."
 
 ## 短语
-- "[lick](/post/lick/) one's chops" 表示对某事期待或贪婪的样子。例如: "[He](/post/he/) was licking [his](/post/his/) chops [at](/post/at/) [the](/post/the/) [thought](/post/thought/) [of](/post/of/) [the](/post/the/) [delicious](/post/delicious/) [dinner](/post/dinner/)."
-- "[get](/post/get/) [a](/post/a/) [lick](/post/lick/) [in](/post/in/)" 意为在短时间内完成一些事情。例如: "I [just](/post/just/) [have](/post/have/) [time](/post/time/) [for](/post/for/) [a](/post/a/) [quick](/post/quick/) [shower](/post/shower/) [before](/post/before/) [work](/post/work/); I'll [get](/post/get/) [a](/post/a/) [lick](/post/lick/) [in](/post/in/)."
+- "[lick](/zh/post/lick/) one's chops" 表示对某事期待或贪婪的样子。例如: "[He](/zh/post/he/) was licking [his](/zh/post/his/) chops [at](/zh/post/at/) [the](/zh/post/the/) [thought](/zh/post/thought/) [of](/zh/post/of/) [the](/zh/post/the/) [delicious](/zh/post/delicious/) [dinner](/zh/post/dinner/)."
+- "[get](/zh/post/get/) [a](/zh/post/a/) [lick](/zh/post/lick/) [in](/zh/post/in/)" 意为在短时间内完成一些事情。例如: "I [just](/zh/post/just/) [have](/zh/post/have/) [time](/zh/post/time/) [for](/zh/post/for/) [a](/zh/post/a/) [quick](/zh/post/quick/) [shower](/zh/post/shower/) [before](/zh/post/before/) [work](/zh/post/work/); I'll [get](/zh/post/get/) [a](/zh/post/a/) [lick](/zh/post/lick/) [in](/zh/post/in/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [dog](/post/dog/) happily licked [my](/post/my/) [hand](/post/hand/)."
-- 名词: "[He](/post/he/) managed [to](/post/to/) [get](/post/get/) [a](/post/a/) [lick](/post/lick/) [of](/post/of/) [paint](/post/paint/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/) [before](/post/before/) [the](/post/the/) [rain](/post/rain/) started."
+- 动词: "[The](/zh/post/the/) [dog](/zh/post/dog/) happily licked [my](/zh/post/my/) [hand](/zh/post/hand/)."
+- 名词: "[He](/zh/post/he/) managed [to](/zh/post/to/) [get](/zh/post/get/) [a](/zh/post/a/) [lick](/zh/post/lick/) [of](/zh/post/of/) [paint](/zh/post/paint/) [on](/zh/post/on/) [the](/zh/post/the/) [wall](/zh/post/wall/) [before](/zh/post/before/) [the](/zh/post/the/) [rain](/zh/post/rain/) started."
 
 ## 同义词
-- [taste](/post/taste/)
-- [touch](/post/touch/) [with](/post/with/) [the](/post/the/) [tongue](/post/tongue/)
+- [taste](/zh/post/taste/)
+- [touch](/zh/post/touch/) [with](/zh/post/with/) [the](/zh/post/the/) [tongue](/zh/post/tongue/)
 - smear
-- [brush](/post/brush/) [lightly](/post/lightly/)
+- [brush](/zh/post/brush/) [lightly](/zh/post/lightly/)

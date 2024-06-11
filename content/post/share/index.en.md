@@ -7,37 +7,37 @@ description = '[∫eə] n.份；份额；股份'
 keywords = ['ai words', 'share']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /shɛr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **Participation [in](/en/post/in/) [or](/en/post/or/) [distribution](/en/post/distribution/) [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) profits, [wealth](/en/post/wealth/), [or](/en/post/or/) responsibilities**: *[She](/en/post/she/) has [a](/en/post/a/) [share](/en/post/share/) [in](/en/post/in/) [the](/en/post/the/) [family](/en/post/family/) [business](/en/post/business/).*
-2. **[Portion](/en/post/portion/) [or](/en/post/or/) [amount](/en/post/amount/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) is allocated [or](/en/post/or/) received**: *[Each](/en/post/each/) [student](/en/post/student/) received an [equal](/en/post/equal/) [share](/en/post/share/) [of](/en/post/of/) [the](/en/post/the/) [cake](/en/post/cake/).*
-3. **[A](/en/post/a/) [right](/en/post/right/), [claim](/en/post/claim/), [or](/en/post/or/) [interest](/en/post/interest/) [in](/en/post/in/) [something](/en/post/something/)**: *[He](/en/post/he/) has [a](/en/post/a/) [share](/en/post/share/) [in](/en/post/in/) [the](/en/post/the/) copyright.*
+### [Noun](/post/noun/)
+1. **Participation [in](/post/in/) [or](/post/or/) [distribution](/post/distribution/) [of](/post/of/) [something](/post/something/), [especially](/post/especially/) profits, [wealth](/post/wealth/), [or](/post/or/) responsibilities**: *[She](/post/she/) has [a](/post/a/) [share](/post/share/) [in](/post/in/) [the](/post/the/) [family](/post/family/) [business](/post/business/).*
+2. **[Portion](/post/portion/) [or](/post/or/) [amount](/post/amount/) [of](/post/of/) [something](/post/something/) [that](/post/that/) is allocated [or](/post/or/) received**: *[Each](/post/each/) [student](/post/student/) received an [equal](/post/equal/) [share](/post/share/) [of](/post/of/) [the](/post/the/) [cake](/post/cake/).*
+3. **[A](/post/a/) [right](/post/right/), [claim](/post/claim/), [or](/post/or/) [interest](/post/interest/) [in](/post/in/) [something](/post/something/)**: *[He](/post/he/) has [a](/post/a/) [share](/post/share/) [in](/post/in/) [the](/post/the/) copyright.*
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [divide](/en/post/divide/) [or](/en/post/or/) allocate [a](/en/post/a/) [portion](/en/post/portion/) [of](/en/post/of/) [something](/en/post/something/)**: *Let's [share](/en/post/share/) [the](/en/post/the/) workload equally.*
-2. **[To](/en/post/to/) [distribute](/en/post/distribute/) [or](/en/post/or/) [pass](/en/post/pass/) [on](/en/post/on/) [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [information](/en/post/information/) [or](/en/post/or/) [responsibility](/en/post/responsibility/)**: *[She](/en/post/she/) shared [the](/en/post/the/) [news](/en/post/news/) [with](/en/post/with/) [her](/en/post/her/) friends.*
-3. **[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [mutual](/en/post/mutual/) [or](/en/post/or/) [common](/en/post/common/) [use](/en/post/use/) [or](/en/post/or/) [possession](/en/post/possession/) [of](/en/post/of/)**: *[We](/en/post/we/) [share](/en/post/share/) [a](/en/post/a/) [love](/en/post/love/) [for](/en/post/for/) [travel](/en/post/travel/).*
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [divide](/post/divide/) [or](/post/or/) allocate [a](/post/a/) [portion](/post/portion/) [of](/post/of/) [something](/post/something/)**: *Let's [share](/post/share/) [the](/post/the/) workload equally.*
+2. **[To](/post/to/) [distribute](/post/distribute/) [or](/post/or/) [pass](/post/pass/) [on](/post/on/) [something](/post/something/), [such](/post/such/) [as](/post/as/) [information](/post/information/) [or](/post/or/) [responsibility](/post/responsibility/)**: *[She](/post/she/) shared [the](/post/the/) [news](/post/news/) [with](/post/with/) [her](/post/her/) friends.*
+3. **[To](/post/to/) [have](/post/have/) [a](/post/a/) [mutual](/post/mutual/) [or](/post/or/) [common](/post/common/) [use](/post/use/) [or](/post/or/) [possession](/post/possession/) [of](/post/of/)**: *[We](/post/we/) [share](/post/share/) [a](/post/a/) [love](/post/love/) [for](/post/for/) [travel](/post/travel/).*
 
-### [Preposition](/en/post/preposition/)
-1. **[In](/en/post/in/) [connection](/en/post/connection/) [with](/en/post/with/)**: *[She](/en/post/she/) shares an [apartment](/en/post/apartment/) [with](/en/post/with/) [two](/en/post/two/) roommates.*
+### [Preposition](/post/preposition/)
+1. **[In](/post/in/) [connection](/post/connection/) [with](/post/with/)**: *[She](/post/she/) shares an [apartment](/post/apartment/) [with](/post/with/) [two](/post/two/) roommates.*
 
 ## Phrases
-- "[Share](/en/post/share/) [in](/en/post/in/) [the](/en/post/the/) [success](/en/post/success/)" [means](/en/post/means/) [to](/en/post/to/) [benefit](/en/post/benefit/) [from](/en/post/from/) [or](/en/post/or/) [contribute](/en/post/contribute/) [to](/en/post/to/) [a](/en/post/a/) [positive](/en/post/positive/) [outcome](/en/post/outcome/).
-- "[Share](/en/post/share/) responsibilities" refers [to](/en/post/to/) dividing tasks [among](/en/post/among/) [people](/en/post/people/).
-- "[Have](/en/post/have/) [a](/en/post/a/) [share](/en/post/share/) [in](/en/post/in/)" implies [a](/en/post/a/) [stake](/en/post/stake/) [or](/en/post/or/) [ownership](/en/post/ownership/) [in](/en/post/in/) [something](/en/post/something/).
+- "[Share](/post/share/) [in](/post/in/) [the](/post/the/) [success](/post/success/)" [means](/post/means/) [to](/post/to/) [benefit](/post/benefit/) [from](/post/from/) [or](/post/or/) [contribute](/post/contribute/) [to](/post/to/) [a](/post/a/) [positive](/post/positive/) [outcome](/post/outcome/).
+- "[Share](/post/share/) responsibilities" refers [to](/post/to/) dividing tasks [among](/post/among/) [people](/post/people/).
+- "[Have](/post/have/) [a](/post/a/) [share](/post/share/) [in](/post/in/)" implies [a](/post/a/) [stake](/post/stake/) [or](/post/or/) [ownership](/post/ownership/) [in](/post/in/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[Each](/en/post/each/) investor has [a](/en/post/a/) [share](/en/post/share/) [in](/en/post/in/) [the](/en/post/the/) company's [stock](/en/post/stock/) portfolio.*
-- **[Verb](/en/post/verb/)**: *[They](/en/post/they/) decided [to](/en/post/to/) [share](/en/post/share/) [the](/en/post/the/) [house](/en/post/house/) [after](/en/post/after/) [their](/en/post/their/) [divorce](/en/post/divorce/).*
-- **[Preposition](/en/post/preposition/)**: *[The](/en/post/the/) roommates [share](/en/post/share/) [a](/en/post/a/) [kitchen](/en/post/kitchen/) [and](/en/post/and/) [living](/en/post/living/) [area](/en/post/area/).*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[Each](/post/each/) investor has [a](/post/a/) [share](/post/share/) [in](/post/in/) [the](/post/the/) company's [stock](/post/stock/) portfolio.*
+- **[Verb](/post/verb/)**: *[They](/post/they/) decided [to](/post/to/) [share](/post/share/) [the](/post/the/) [house](/post/house/) [after](/post/after/) [their](/post/their/) [divorce](/post/divorce/).*
+- **[Preposition](/post/preposition/)**: *[The](/post/the/) roommates [share](/post/share/) [a](/post/a/) [kitchen](/post/kitchen/) [and](/post/and/) [living](/post/living/) [area](/post/area/).*
 
 ## Synonyms
-- [Stake](/en/post/stake/)
-- [Portion](/en/post/portion/)
-- [Interest](/en/post/interest/)
+- [Stake](/post/stake/)
+- [Portion](/post/portion/)
+- [Interest](/post/interest/)
 - Partition
 - Allocation
 - Dividend
@@ -46,7 +46,7 @@ keywords = ['ai words', 'share']
 
 ## Antonyms
 - Exclusive
-- [Individual](/en/post/individual/)
-- [Private](/en/post/private/)
-- [Sole](/en/post/sole/)
+- [Individual](/post/individual/)
+- [Private](/post/private/)
+- [Sole](/post/sole/)
 - Unshared

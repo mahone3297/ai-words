@@ -7,30 +7,30 @@ description = '[inˈveid] vt.入侵，侵略；侵袭'
 keywords = ['ai words', 'invade']
 +++
 
-## [Word](/en/post/word/): [Invade](/en/post/invade/)
+## [Word](/post/word/): [Invade](/post/invade/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈveɪd/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (1) [To](/en/post/to/) [enter](/en/post/enter/) [a](/en/post/a/) [country](/en/post/country/), [region](/en/post/region/), [or](/en/post/or/) [territory](/en/post/territory/) [by](/en/post/by/) [military](/en/post/military/) [force](/en/post/force/) [with](/en/post/with/) [the](/en/post/the/) [aim](/en/post/aim/) [of](/en/post/of/) conquering [or](/en/post/or/) occupying [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [army](/en/post/army/) invaded [the](/en/post/the/) neighboring [country](/en/post/country/) [last](/en/post/last/) [week](/en/post/week/)."
-   - (2) [To](/en/post/to/) intrude [into](/en/post/into/) someone's [life](/en/post/life/), privacy, [or](/en/post/or/) [personal](/en/post/personal/) [space](/en/post/space/) [in](/en/post/in/) an unwelcome [or](/en/post/or/) intrusive [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [boss](/en/post/boss/) seemed [to](/en/post/to/) [invade](/en/post/invade/) [her](/en/post/her/) [private](/en/post/private/) [time](/en/post/time/) [with](/en/post/with/) [constant](/en/post/constant/) [work](/en/post/work/) emails."
+- **[Verb](/post/verb/)**: (1) [To](/post/to/) [enter](/post/enter/) [a](/post/a/) [country](/post/country/), [region](/post/region/), [or](/post/or/) [territory](/post/territory/) [by](/post/by/) [military](/post/military/) [force](/post/force/) [with](/post/with/) [the](/post/the/) [aim](/post/aim/) [of](/post/of/) conquering [or](/post/or/) occupying [it](/post/it/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [army](/post/army/) invaded [the](/post/the/) neighboring [country](/post/country/) [last](/post/last/) [week](/post/week/)."
+   - (2) [To](/post/to/) intrude [into](/post/into/) someone's [life](/post/life/), privacy, [or](/post/or/) [personal](/post/personal/) [space](/post/space/) [in](/post/in/) an unwelcome [or](/post/or/) intrusive [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [boss](/post/boss/) seemed [to](/post/to/) [invade](/post/invade/) [her](/post/her/) [private](/post/private/) [time](/post/time/) [with](/post/with/) [constant](/post/constant/) [work](/post/work/) emails."
 
 ### Phrases
-- "[Invade](/en/post/invade/) someone's privacy": [To](/en/post/to/) intrude [on](/en/post/on/) [or](/en/post/or/) violate someone's [private](/en/post/private/) matters [without](/en/post/without/) [permission](/en/post/permission/).
-- "[Invade](/en/post/invade/) [a](/en/post/a/) [place](/en/post/place/)": [To](/en/post/to/) [enter](/en/post/enter/) [and](/en/post/and/) [take](/en/post/take/) [control](/en/post/control/) [of](/en/post/of/) [a](/en/post/a/) [location](/en/post/location/) forcefully [or](/en/post/or/) [without](/en/post/without/) [invitation](/en/post/invitation/).
-- "[Invasion](/en/post/invasion/)": [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [instance](/en/post/instance/) [of](/en/post/of/) invading, [especially](/en/post/especially/) [the](/en/post/the/) [entrance](/en/post/entrance/) [of](/en/post/of/) an armed [force](/en/post/force/) [into](/en/post/into/) [a](/en/post/a/) [territory](/en/post/territory/) [to](/en/post/to/) [conquer](/en/post/conquer/) [or](/en/post/or/) [occupy](/en/post/occupy/) [it](/en/post/it/).
+- "[Invade](/post/invade/) someone's privacy": [To](/post/to/) intrude [on](/post/on/) [or](/post/or/) violate someone's [private](/post/private/) matters [without](/post/without/) [permission](/post/permission/).
+- "[Invade](/post/invade/) [a](/post/a/) [place](/post/place/)": [To](/post/to/) [enter](/post/enter/) [and](/post/and/) [take](/post/take/) [control](/post/control/) [of](/post/of/) [a](/post/a/) [location](/post/location/) forcefully [or](/post/or/) [without](/post/without/) [invitation](/post/invitation/).
+- "[Invasion](/post/invasion/)": [The](/post/the/) [act](/post/act/) [or](/post/or/) [instance](/post/instance/) [of](/post/of/) invading, [especially](/post/especially/) [the](/post/the/) [entrance](/post/entrance/) [of](/post/of/) an armed [force](/post/force/) [into](/post/into/) [a](/post/a/) [territory](/post/territory/) [to](/post/to/) [conquer](/post/conquer/) [or](/post/or/) [occupy](/post/occupy/) [it](/post/it/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([military](/en/post/military/) [sense](/en/post/sense/))**: "[In](/en/post/in/) 1941, Germany invaded [the](/en/post/the/) Soviet [Union](/en/post/union/) [during](/en/post/during/) [World](/en/post/world/) [War](/en/post/war/) II."
-- **[Verb](/en/post/verb/) (intrusion [sense](/en/post/sense/))**: "[His](/en/post/his/) nosy neighbor had [a](/en/post/a/) [habit](/en/post/habit/) [of](/en/post/of/) invading [his](/en/post/his/) [peace](/en/post/peace/) [and](/en/post/and/) [quiet](/en/post/quiet/) [every](/en/post/every/) [weekend](/en/post/weekend/) [with](/en/post/with/) [loud](/en/post/loud/) [music](/en/post/music/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([military](/post/military/) [sense](/post/sense/))**: "[In](/post/in/) 1941, Germany invaded [the](/post/the/) Soviet [Union](/post/union/) [during](/post/during/) [World](/post/world/) [War](/post/war/) II."
+- **[Verb](/post/verb/) (intrusion [sense](/post/sense/))**: "[His](/post/his/) nosy neighbor had [a](/post/a/) [habit](/post/habit/) [of](/post/of/) invading [his](/post/his/) [peace](/post/peace/) [and](/post/and/) [quiet](/post/quiet/) [every](/post/every/) [weekend](/post/weekend/) [with](/post/with/) [loud](/post/loud/) [music](/post/music/)."
 
 ## Synonyms
-- [Raid](/en/post/raid/)
-- [Occupy](/en/post/occupy/)
-- [Conquer](/en/post/conquer/)
+- [Raid](/post/raid/)
+- [Occupy](/post/occupy/)
+- [Conquer](/post/conquer/)
 - Intrude
-- [Penetrate](/en/post/penetrate/)
-- [Storm](/en/post/storm/)
-- Invective ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) privacy [invasion](/en/post/invasion/))
-- Breach ([as](/en/post/as/) [in](/en/post/in/) breach [of](/en/post/of/) privacy)
+- [Penetrate](/post/penetrate/)
+- [Storm](/post/storm/)
+- Invective ([in](/post/in/) [the](/post/the/) context [of](/post/of/) privacy [invasion](/post/invasion/))
+- Breach ([as](/post/as/) [in](/post/in/) breach [of](/post/of/) privacy)

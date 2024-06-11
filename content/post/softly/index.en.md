@@ -7,26 +7,26 @@ description = '[ˈsɔftli] ad.柔软地；温柔地'
 keywords = ['ai words', 'softly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsɒftli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Describing [or](/en/post/or/) characterized [by](/en/post/by/) [a](/en/post/a/) [gentle](/en/post/gentle/) [or](/en/post/or/) [quiet](/en/post/quiet/) [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) spoke [softly](/en/post/softly/) [to](/en/post/to/) [avoid](/en/post/avoid/) waking [the](/en/post/the/) [baby](/en/post/baby/)."
-- **[Adjective](/en/post/adjective/)**: [Gentle](/en/post/gentle/), [not](/en/post/not/) [harsh](/en/post/harsh/) [or](/en/post/or/) [loud](/en/post/loud/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [music](/en/post/music/) was [softly](/en/post/softly/) played [in](/en/post/in/) [the](/en/post/the/) [background](/en/post/background/)."
-- **[Pronoun](/en/post/pronoun/)**: (informal) An endearing [form](/en/post/form/) [of](/en/post/of/) "[he](/en/post/he/)" [or](/en/post/or/) "[she](/en/post/she/)" [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [oneself](/en/post/oneself/) [or](/en/post/or/) [another](/en/post/another/) [in](/en/post/in/) [a](/en/post/a/) [gentle](/en/post/gentle/) [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) whispered [softly](/en/post/softly/) [to](/en/post/to/) [her](/en/post/her/) [child](/en/post/child/)."
+- **[Adverb](/post/adverb/)**: Describing [or](/post/or/) characterized [by](/post/by/) [a](/post/a/) [gentle](/post/gentle/) [or](/post/or/) [quiet](/post/quiet/) [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) spoke [softly](/post/softly/) [to](/post/to/) [avoid](/post/avoid/) waking [the](/post/the/) [baby](/post/baby/)."
+- **[Adjective](/post/adjective/)**: [Gentle](/post/gentle/), [not](/post/not/) [harsh](/post/harsh/) [or](/post/or/) [loud](/post/loud/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [music](/post/music/) was [softly](/post/softly/) played [in](/post/in/) [the](/post/the/) [background](/post/background/)."
+- **[Pronoun](/post/pronoun/)**: (informal) An endearing [form](/post/form/) [of](/post/of/) "[he](/post/he/)" [or](/post/or/) "[she](/post/she/)" [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [oneself](/post/oneself/) [or](/post/or/) [another](/post/another/) [in](/post/in/) [a](/post/a/) [gentle](/post/gentle/) [manner](/post/manner/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) whispered [softly](/post/softly/) [to](/post/to/) [her](/post/her/) [child](/post/child/)."
 
 ## Phrases
-- "[Speak](/en/post/speak/) [softly](/en/post/softly/)" [means](/en/post/means/) [to](/en/post/to/) [talk](/en/post/talk/) [in](/en/post/in/) [a](/en/post/a/) [gentle](/en/post/gentle/) [voice](/en/post/voice/).
-- "[A](/en/post/a/) [softly](/en/post/softly/) spoken [voice](/en/post/voice/)" describes [a](/en/post/a/) [quiet](/en/post/quiet/) [and](/en/post/and/) soothing [tone](/en/post/tone/).
-- "[He](/en/post/he/) kissed [her](/en/post/her/) [softly](/en/post/softly/) [on](/en/post/on/) [the](/en/post/the/) [cheek](/en/post/cheek/)."
+- "[Speak](/post/speak/) [softly](/post/softly/)" [means](/post/means/) [to](/post/to/) [talk](/post/talk/) [in](/post/in/) [a](/post/a/) [gentle](/post/gentle/) [voice](/post/voice/).
+- "[A](/post/a/) [softly](/post/softly/) spoken [voice](/post/voice/)" describes [a](/post/a/) [quiet](/post/quiet/) [and](/post/and/) soothing [tone](/post/tone/).
+- "[He](/post/he/) kissed [her](/post/her/) [softly](/post/softly/) [on](/post/on/) [the](/post/the/) [cheek](/post/cheek/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) [gently](/en/post/gently/) patted [the](/en/post/the/) dog's [head](/en/post/head/), speaking [softly](/en/post/softly/) [to](/en/post/to/) [calm](/en/post/calm/) [it](/en/post/it/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sunlight](/en/post/sunlight/) filtered [through](/en/post/through/) [the](/en/post/the/) curtains, casting [softly](/en/post/softly/) colored shadows [on](/en/post/on/) [the](/en/post/the/) [floor](/en/post/floor/)."
-- **[Pronoun](/en/post/pronoun/)**: "I whispered [softly](/en/post/softly/), 'Goodnight, [my](/en/post/my/) [love](/en/post/love/).'"
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) [gently](/post/gently/) patted [the](/post/the/) dog's [head](/post/head/), speaking [softly](/post/softly/) [to](/post/to/) [calm](/post/calm/) [it](/post/it/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sunlight](/post/sunlight/) filtered [through](/post/through/) [the](/post/the/) curtains, casting [softly](/post/softly/) colored shadows [on](/post/on/) [the](/post/the/) [floor](/post/floor/)."
+- **[Pronoun](/post/pronoun/)**: "I whispered [softly](/post/softly/), 'Goodnight, [my](/post/my/) [love](/post/love/).'"
 
 ## Synonyms
-- [Gently](/en/post/gently/)
+- [Gently](/post/gently/)
 - Quietly
 - Tenderly
 - Delicately

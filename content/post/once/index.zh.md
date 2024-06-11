@@ -11,20 +11,20 @@ keywords = ['ai words', 'once']
 / wʌns /
 
 ## 释义
-- **副词**: 一次，曾经。例如: "I [saw](/post/saw/) [him](/post/him/) [once](/post/once/) [in](/post/in/) [New](/post/new/) York."
-- **连词**: 一旦，如果…的话。例如: "[Once](/post/once/) [you](/post/you/) [start](/post/start/), [you](/post/you/) won't [be](/post/be/) [able](/post/able/) [to](/post/to/) [stop](/post/stop/)."
+- **副词**: 一次，曾经。例如: "I [saw](/zh/post/saw/) [him](/zh/post/him/) [once](/zh/post/once/) [in](/zh/post/in/) [New](/zh/post/new/) York."
+- **连词**: 一旦，如果…的话。例如: "[Once](/zh/post/once/) [you](/zh/post/you/) [start](/zh/post/start/), [you](/zh/post/you/) won't [be](/zh/post/be/) [able](/zh/post/able/) [to](/zh/post/to/) [stop](/zh/post/stop/)."
 
 ## 短语
-- "[once](/post/once/) [upon](/post/upon/) [a](/post/a/) [time](/post/time/)" 意为“从前”，常用于故事开头。
-- "[once](/post/once/) [in](/post/in/) [a](/post/a/) [while](/post/while/)" 意为“偶尔，有时”。
+- "[once](/zh/post/once/) [upon](/zh/post/upon/) [a](/zh/post/a/) [time](/zh/post/time/)" 意为“从前”，常用于故事开头。
+- "[once](/zh/post/once/) [in](/zh/post/in/) [a](/zh/post/a/) [while](/zh/post/while/)" 意为“偶尔，有时”。
 
 ## 例句
-- 副词: "I visited [that](/post/that/) [museum](/post/museum/) [once](/post/once/) [a](/post/a/) [few](/post/few/) years [ago](/post/ago/)."
-- 连词: "[Once](/post/once/) [you](/post/you/) [finish](/post/finish/) [your](/post/your/) homework, [you](/post/you/) [can](/post/can/) [play](/post/play/) [video](/post/video/) games."
+- 副词: "I visited [that](/zh/post/that/) [museum](/zh/post/museum/) [once](/zh/post/once/) [a](/zh/post/a/) [few](/zh/post/few/) years [ago](/zh/post/ago/)."
+- 连词: "[Once](/zh/post/once/) [you](/zh/post/you/) [finish](/zh/post/finish/) [your](/zh/post/your/) homework, [you](/zh/post/you/) [can](/zh/post/can/) [play](/zh/post/play/) [video](/zh/post/video/) games."
 
 ## 同义词
-- [one](/post/one/) [time](/post/time/)
-- [at](/post/at/) [one](/post/one/) [time](/post/time/)
-- [ever](/post/ever/)
-- [previously](/post/previously/)
+- [one](/zh/post/one/) [time](/zh/post/time/)
+- [at](/zh/post/at/) [one](/zh/post/one/) [time](/zh/post/time/)
+- [ever](/zh/post/ever/)
+- [previously](/zh/post/previously/)
 - formerly

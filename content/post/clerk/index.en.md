@@ -7,35 +7,35 @@ description = '[klərk] n.店员；办事员，职员'
 keywords = ['ai words', 'clerk']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kliːrk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[clerk](/en/post/clerk/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) works [in](/en/post/in/) an [office](/en/post/office/) [or](/en/post/or/) [store](/en/post/store/), typically handling administrative [or](/en/post/or/) [customer](/en/post/customer/) [service](/en/post/service/) tasks, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) retail [or](/en/post/or/) [professional](/en/post/professional/) [setting](/en/post/setting/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[clerk](/post/clerk/)** is [a](/post/a/) [person](/post/person/) [who](/post/who/) works [in](/post/in/) an [office](/post/office/) [or](/post/or/) [store](/post/store/), typically handling administrative [or](/post/or/) [customer](/post/customer/) [service](/post/service/) tasks, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) retail [or](/post/or/) [professional](/post/professional/) [setting](/post/setting/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[clerk](/en/post/clerk/)** [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [work](/en/post/work/) [as](/en/post/as/) [a](/en/post/a/) [clerk](/en/post/clerk/), [or](/en/post/or/) [to](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) [a](/en/post/a/) helper [or](/en/post/or/) [assistant](/en/post/assistant/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) retail [or](/en/post/or/) administrative [capacity](/en/post/capacity/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[clerk](/post/clerk/)** [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [work](/post/work/) [as](/post/as/) [a](/post/a/) [clerk](/post/clerk/), [or](/post/or/) [to](/post/to/) [serve](/post/serve/) [as](/post/as/) [a](/post/a/) helper [or](/post/or/) [assistant](/post/assistant/), [often](/post/often/) [in](/post/in/) [a](/post/a/) retail [or](/post/or/) administrative [capacity](/post/capacity/).
 
 ## Phrases
-- "[Desk](/en/post/desk/) [clerk](/en/post/clerk/)" refers [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) working [at](/en/post/at/) [a](/en/post/a/) [hotel](/en/post/hotel/) [or](/en/post/or/) [office](/en/post/office/) [front](/en/post/front/) [desk](/en/post/desk/).
-- "Bookkeeper [clerk](/en/post/clerk/)" is [a](/en/post/a/) [person](/en/post/person/) [responsible](/en/post/responsible/) [for](/en/post/for/) managing [financial](/en/post/financial/) records.
-- "Retail [clerk](/en/post/clerk/)" works [in](/en/post/in/) [a](/en/post/a/) retail [store](/en/post/store/).
+- "[Desk](/post/desk/) [clerk](/post/clerk/)" refers [to](/post/to/) [a](/post/a/) [person](/post/person/) working [at](/post/at/) [a](/post/a/) [hotel](/post/hotel/) [or](/post/or/) [office](/post/office/) [front](/post/front/) [desk](/post/desk/).
+- "Bookkeeper [clerk](/post/clerk/)" is [a](/post/a/) [person](/post/person/) [responsible](/post/responsible/) [for](/post/for/) managing [financial](/post/financial/) records.
+- "Retail [clerk](/post/clerk/)" works [in](/post/in/) [a](/post/a/) retail [store](/post/store/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [bank](/en/post/bank/) [clerk](/en/post/clerk/) assisted [me](/en/post/me/) [with](/en/post/with/) [opening](/en/post/opening/) [a](/en/post/a/) [new](/en/post/new/) [account](/en/post/account/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) started [her](/en/post/her/) [new](/en/post/new/) [job](/en/post/job/) [as](/en/post/as/) [a](/en/post/a/) [customer](/en/post/customer/) [service](/en/post/service/) [clerk](/en/post/clerk/) [at](/en/post/at/) [the](/en/post/the/) [post](/en/post/post/) [office](/en/post/office/)."
-- **Phrasal [verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [his](/en/post/his/) [shift](/en/post/shift/), [the](/en/post/the/) [night](/en/post/night/) [clerk](/en/post/clerk/) went [home](/en/post/home/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [bank](/post/bank/) [clerk](/post/clerk/) assisted [me](/post/me/) [with](/post/with/) [opening](/post/opening/) [a](/post/a/) [new](/post/new/) [account](/post/account/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) started [her](/post/her/) [new](/post/new/) [job](/post/job/) [as](/post/as/) [a](/post/a/) [customer](/post/customer/) [service](/post/service/) [clerk](/post/clerk/) [at](/post/at/) [the](/post/the/) [post](/post/post/) [office](/post/office/)."
+- **Phrasal [verb](/post/verb/)**: "[After](/post/after/) finishing [his](/post/his/) [shift](/post/shift/), [the](/post/the/) [night](/post/night/) [clerk](/post/clerk/) went [home](/post/home/)."
 
 ## Synonyms
-- [Assistant](/en/post/assistant/)
+- [Assistant](/post/assistant/)
 - Cashier
-- [Support](/en/post/support/) [staff](/en/post/staff/)
-- [Office](/en/post/office/) [worker](/en/post/worker/)
-- [Shop](/en/post/shop/) [assistant](/en/post/assistant/)
-- Teller ([in](/en/post/in/) [a](/en/post/a/) [bank](/en/post/bank/))
+- [Support](/post/support/) [staff](/post/staff/)
+- [Office](/post/office/) [worker](/post/worker/)
+- [Shop](/post/shop/) [assistant](/post/assistant/)
+- Teller ([in](/post/in/) [a](/post/a/) [bank](/post/bank/))
 
 ## Antonyms
-- Manager (higher [position](/en/post/position/))
-- [Executive](/en/post/executive/) (higher [position](/en/post/position/))
-- [Customer](/en/post/customer/) ([not](/en/post/not/) [a](/en/post/a/) [role](/en/post/role/))
+- Manager (higher [position](/post/position/))
+- [Executive](/post/executive/) (higher [position](/post/position/))
+- [Customer](/post/customer/) ([not](/post/not/) [a](/post/a/) [role](/post/role/))

@@ -7,32 +7,32 @@ description = '[ˈ∫ɔːtli] ad.立刻；简短地'
 keywords = ['ai words', 'shortly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʃɔːltli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [short](/en/post/short/) [time](/en/post/time/); [shortly](/en/post/shortly/) [after](/en/post/after/); [soon](/en/post/soon/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) [will](/en/post/will/) [happen](/en/post/happen/) [without](/en/post/without/) [much](/en/post/much/) [delay](/en/post/delay/).
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [short](/post/short/) [time](/post/time/); [shortly](/post/shortly/) [after](/post/after/); [soon](/post/soon/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) [will](/post/will/) [happen](/post/happen/) [without](/post/without/) [much](/post/much/) [delay](/post/delay/).
 
 ## Phrases
-- "He'll [be](/en/post/be/) [back](/en/post/back/) [shortly](/en/post/shortly/)." ([meaning](/en/post/meaning/) [he](/en/post/he/) [will](/en/post/will/) [return](/en/post/return/) [soon](/en/post/soon/))
-- "We'll [discuss](/en/post/discuss/) [the](/en/post/the/) [matter](/en/post/matter/) [shortly](/en/post/shortly/)." ([meaning](/en/post/meaning/) [they](/en/post/they/) [will](/en/post/will/) [talk](/en/post/talk/) [about](/en/post/about/) [it](/en/post/it/) [soon](/en/post/soon/))
-- "[Wait](/en/post/wait/) [a](/en/post/a/) [moment](/en/post/moment/), I'll [be](/en/post/be/) [with](/en/post/with/) [you](/en/post/you/) [shortly](/en/post/shortly/)." ([meaning](/en/post/meaning/) [they](/en/post/they/) [will](/en/post/will/) [be](/en/post/be/) [there](/en/post/there/) [soon](/en/post/soon/))
+- "He'll [be](/post/be/) [back](/post/back/) [shortly](/post/shortly/)." ([meaning](/post/meaning/) [he](/post/he/) [will](/post/will/) [return](/post/return/) [soon](/post/soon/))
+- "We'll [discuss](/post/discuss/) [the](/post/the/) [matter](/post/matter/) [shortly](/post/shortly/)." ([meaning](/post/meaning/) [they](/post/they/) [will](/post/will/) [talk](/post/talk/) [about](/post/about/) [it](/post/it/) [soon](/post/soon/))
+- "[Wait](/post/wait/) [a](/post/a/) [moment](/post/moment/), I'll [be](/post/be/) [with](/post/with/) [you](/post/you/) [shortly](/post/shortly/)." ([meaning](/post/meaning/) [they](/post/they/) [will](/post/will/) [be](/post/be/) [there](/post/there/) [soon](/post/soon/))
 
-## [Example](/en/post/example/) Sentences
-- "I'll [finish](/en/post/finish/) [this](/en/post/this/) [task](/en/post/task/) [shortly](/en/post/shortly/)." ([meaning](/en/post/meaning/) [they](/en/post/they/) [will](/en/post/will/) [complete](/en/post/complete/) [it](/en/post/it/) [soon](/en/post/soon/))
-- "[The](/en/post/the/) [train](/en/post/train/) arrives [shortly](/en/post/shortly/) [before](/en/post/before/) 5 PM." ([meaning](/en/post/meaning/) [it](/en/post/it/) [will](/en/post/will/) [arrive](/en/post/arrive/) [around](/en/post/around/) 5 PM)
-- "[Please](/en/post/please/) [hold](/en/post/hold/) [on](/en/post/on/), I'll [call](/en/post/call/) [you](/en/post/you/) [back](/en/post/back/) [shortly](/en/post/shortly/)." ([meaning](/en/post/meaning/) [they](/en/post/they/) [will](/en/post/will/) [call](/en/post/call/) [soon](/en/post/soon/))
+## [Example](/post/example/) Sentences
+- "I'll [finish](/post/finish/) [this](/post/this/) [task](/post/task/) [shortly](/post/shortly/)." ([meaning](/post/meaning/) [they](/post/they/) [will](/post/will/) [complete](/post/complete/) [it](/post/it/) [soon](/post/soon/))
+- "[The](/post/the/) [train](/post/train/) arrives [shortly](/post/shortly/) [before](/post/before/) 5 PM." ([meaning](/post/meaning/) [it](/post/it/) [will](/post/will/) [arrive](/post/arrive/) [around](/post/around/) 5 PM)
+- "[Please](/post/please/) [hold](/post/hold/) [on](/post/on/), I'll [call](/post/call/) [you](/post/you/) [back](/post/back/) [shortly](/post/shortly/)." ([meaning](/post/meaning/) [they](/post/they/) [will](/post/will/) [call](/post/call/) [soon](/post/soon/))
 
 ## Synonyms
-- [Soon](/en/post/soon/)
-- [Immediately](/en/post/immediately/)
-- [In](/en/post/in/) [a](/en/post/a/) jiffy
+- [Soon](/post/soon/)
+- [Immediately](/post/immediately/)
+- [In](/post/in/) [a](/post/a/) jiffy
 - Promptly
-- [Right](/en/post/right/) [away](/en/post/away/)
+- [Right](/post/right/) [away](/post/away/)
 
 ## Antonyms
-- [Later](/en/post/later/)
-- [Eventually](/en/post/eventually/)
-- [Gradually](/en/post/gradually/)
+- [Later](/post/later/)
+- [Eventually](/post/eventually/)
+- [Gradually](/post/gradually/)
 - Delayed
-- Soonish ([a](/en/post/a/) [less](/en/post/less/) [formal](/en/post/formal/) synonym)
+- Soonish ([a](/post/a/) [less](/post/less/) [formal](/post/formal/) synonym)

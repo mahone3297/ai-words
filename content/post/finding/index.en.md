@@ -7,33 +7,33 @@ description = '[ˈfaindiŋ] n.发现；调查的结果'
 keywords = ['ai words', 'finding']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfaɪndɪŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) discovering [or](/en/post/or/) coming [upon](/en/post/upon/) [something](/en/post/something/) [after](/en/post/after/) searching [or](/en/post/or/) seeking [it](/en/post/it/) [out](/en/post/out/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [finding](/en/post/finding/) [of](/en/post/of/) [the](/en/post/the/) lost [key](/en/post/key/) was [a](/en/post/a/) [relief](/en/post/relief/)."
-  - _Legal context_: [A](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [conclusion](/en/post/conclusion/) reached [by](/en/post/by/) [a](/en/post/a/) [judge](/en/post/judge/) [in](/en/post/in/) [a](/en/post/a/) [court](/en/post/court/) [case](/en/post/case/), based [on](/en/post/on/) presented [evidence](/en/post/evidence/) [and](/en/post/and/) facts. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) judge's findings supported [the](/en/post/the/) plaintiff's claims."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) discovering [or](/post/or/) coming [upon](/post/upon/) [something](/post/something/) [after](/post/after/) searching [or](/post/or/) seeking [it](/post/it/) [out](/post/out/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [finding](/post/finding/) [of](/post/of/) [the](/post/the/) lost [key](/post/key/) was [a](/post/a/) [relief](/post/relief/)."
+  - _Legal context_: [A](/post/a/) [decision](/post/decision/) [or](/post/or/) [conclusion](/post/conclusion/) reached [by](/post/by/) [a](/post/a/) [judge](/post/judge/) [in](/post/in/) [a](/post/a/) [court](/post/court/) [case](/post/case/), based [on](/post/on/) presented [evidence](/post/evidence/) [and](/post/and/) facts. [For](/post/for/) [example](/post/example/): "[The](/post/the/) judge's findings supported [the](/post/the/) plaintiff's claims."
   
-- **[Verb](/en/post/verb/)**: ([find](/en/post/find/)) [To](/en/post/to/) [come](/en/post/come/) [upon](/en/post/upon/) [or](/en/post/or/) [discover](/en/post/discover/) [something](/en/post/something/) [by](/en/post/by/) [chance](/en/post/chance/) [or](/en/post/or/) [by](/en/post/by/) searching; [to](/en/post/to/) [locate](/en/post/locate/) [or](/en/post/or/) [determine](/en/post/determine/) [the](/en/post/the/) [existence](/en/post/existence/), [presence](/en/post/presence/), [or](/en/post/or/) [position](/en/post/position/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "I [found](/en/post/found/) [my](/en/post/my/) keys [under](/en/post/under/) [the](/en/post/the/) couch cushions."
+- **[Verb](/post/verb/)**: ([find](/post/find/)) [To](/post/to/) [come](/post/come/) [upon](/post/upon/) [or](/post/or/) [discover](/post/discover/) [something](/post/something/) [by](/post/by/) [chance](/post/chance/) [or](/post/or/) [by](/post/by/) searching; [to](/post/to/) [locate](/post/locate/) [or](/post/or/) [determine](/post/determine/) [the](/post/the/) [existence](/post/existence/), [presence](/post/presence/), [or](/post/or/) [position](/post/position/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "I [found](/post/found/) [my](/post/my/) keys [under](/post/under/) [the](/post/the/) couch cushions."
 
 ## Phrases
-- "[Finding](/en/post/finding/) [out](/en/post/out/)" [means](/en/post/means/) [to](/en/post/to/) [discover](/en/post/discover/) [information](/en/post/information/) [through](/en/post/through/) [investigation](/en/post/investigation/) [or](/en/post/or/) [inquiry](/en/post/inquiry/). [For](/en/post/for/) [example](/en/post/example/): "[Finding](/en/post/finding/) [out](/en/post/out/) [the](/en/post/the/) [truth](/en/post/truth/) was harder [than](/en/post/than/) expected."
-- "Findings [report](/en/post/report/)" refers [to](/en/post/to/) [a](/en/post/a/) [document](/en/post/document/) [that](/en/post/that/) presents [the](/en/post/the/) results [or](/en/post/or/) conclusions [of](/en/post/of/) [research](/en/post/research/), an [investigation](/en/post/investigation/), [or](/en/post/or/) an audit.
-- "Lost [and](/en/post/and/) [found](/en/post/found/)" is [a](/en/post/a/) [department](/en/post/department/) [or](/en/post/or/) [section](/en/post/section/) [where](/en/post/where/) lost items are collected [and](/en/post/and/) kept [until](/en/post/until/) [their](/en/post/their/) owners [find](/en/post/find/) [them](/en/post/them/).
+- "[Finding](/post/finding/) [out](/post/out/)" [means](/post/means/) [to](/post/to/) [discover](/post/discover/) [information](/post/information/) [through](/post/through/) [investigation](/post/investigation/) [or](/post/or/) [inquiry](/post/inquiry/). [For](/post/for/) [example](/post/example/): "[Finding](/post/finding/) [out](/post/out/) [the](/post/the/) [truth](/post/truth/) was harder [than](/post/than/) expected."
+- "Findings [report](/post/report/)" refers [to](/post/to/) [a](/post/a/) [document](/post/document/) [that](/post/that/) presents [the](/post/the/) results [or](/post/or/) conclusions [of](/post/of/) [research](/post/research/), an [investigation](/post/investigation/), [or](/post/or/) an audit.
+- "Lost [and](/post/and/) [found](/post/found/)" is [a](/post/a/) [department](/post/department/) [or](/post/or/) [section](/post/section/) [where](/post/where/) lost items are collected [and](/post/and/) kept [until](/post/until/) [their](/post/their/) owners [find](/post/find/) [them](/post/them/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) latest archaeological [finding](/en/post/finding/) suggests [that](/en/post/that/) [the](/en/post/the/) [site](/en/post/site/) dates [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) [Bronze](/en/post/bronze/) [Age](/en/post/age/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) hours [of](/en/post/of/) searching, [they](/en/post/they/) [finally](/en/post/finally/) [found](/en/post/found/) [the](/en/post/the/) [perfect](/en/post/perfect/) [spot](/en/post/spot/) [for](/en/post/for/) [their](/en/post/their/) [picnic](/en/post/picnic/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Their](/post/their/) latest archaeological [finding](/post/finding/) suggests [that](/post/that/) [the](/post/the/) [site](/post/site/) dates [back](/post/back/) [to](/post/to/) [the](/post/the/) [Bronze](/post/bronze/) [Age](/post/age/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) hours [of](/post/of/) searching, [they](/post/they/) [finally](/post/finally/) [found](/post/found/) [the](/post/the/) [perfect](/post/perfect/) [spot](/post/spot/) [for](/post/for/) [their](/post/their/) [picnic](/post/picnic/)."
 
 ## Synonyms
-- [Discovery](/en/post/discovery/)
+- [Discovery](/post/discovery/)
 - Uncovering
-- [Recovery](/en/post/recovery/)
+- [Recovery](/post/recovery/)
 - Revelation
-- [Detection](/en/post/detection/)
+- [Detection](/post/detection/)
 - Identification
-- Realization ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [sense](/en/post/sense/))
-- [Locate](/en/post/locate/)
-- [Discover](/en/post/discover/)
+- Realization ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [sense](/post/sense/))
+- [Locate](/post/locate/)
+- [Discover](/post/discover/)
 - Unearth
-- [Encounter](/en/post/encounter/)
+- [Encounter](/post/encounter/)

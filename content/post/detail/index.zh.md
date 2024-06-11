@@ -11,19 +11,19 @@ keywords = ['ai words', 'detail']
 /ˈdiːteɪl/
 
 ## 释义
-- **名词 (n)**: 细节，具体部分。例如: "[Please](/post/please/) [pay](/post/pay/) [attention](/post/attention/) [to](/post/to/) [every](/post/every/) [detail](/post/detail/) [in](/post/in/) [the](/post/the/) [plan](/post/plan/)."
-- **动词 (v)**: 描述，详述。例如: "[She](/post/she/) detailed [her](/post/her/) experiences [in](/post/in/) [the](/post/the/) [book](/post/book/)."
-- **形容词 (adj)**: 详细的，详尽的。例如: "[The](/post/the/) [report](/post/report/) contains detailed [information](/post/information/) [about](/post/about/) [the](/post/the/) [project](/post/project/)."
+- **名词 (n)**: 细节，具体部分。例如: "[Please](/zh/post/please/) [pay](/zh/post/pay/) [attention](/zh/post/attention/) [to](/zh/post/to/) [every](/zh/post/every/) [detail](/zh/post/detail/) [in](/zh/post/in/) [the](/zh/post/the/) [plan](/zh/post/plan/)."
+- **动词 (v)**: 描述，详述。例如: "[She](/zh/post/she/) detailed [her](/zh/post/her/) experiences [in](/zh/post/in/) [the](/zh/post/the/) [book](/zh/post/book/)."
+- **形容词 (adj)**: 详细的，详尽的。例如: "[The](/zh/post/the/) [report](/zh/post/report/) contains detailed [information](/zh/post/information/) [about](/zh/post/about/) [the](/zh/post/the/) [project](/zh/post/project/)."
 
 ## 短语
-- "[Go](/post/go/) [into](/post/into/) [detail](/post/detail/)" 意味着深入讨论或解释。
-- "[Attention](/post/attention/) [to](/post/to/) [detail](/post/detail/)" 强调对细节的关注和照顾。
-- "[In](/post/in/) [great](/post/great/) [detail](/post/detail/)" 表示非常详细地。
+- "[Go](/zh/post/go/) [into](/zh/post/into/) [detail](/zh/post/detail/)" 意味着深入讨论或解释。
+- "[Attention](/zh/post/attention/) [to](/zh/post/to/) [detail](/zh/post/detail/)" 强调对细节的关注和照顾。
+- "[In](/zh/post/in/) [great](/zh/post/great/) [detail](/zh/post/detail/)" 表示非常详细地。
 
 ## 例句
-- 名词: "[The](/post/the/) [artist](/post/artist/) captured [every](/post/every/) [detail](/post/detail/) [of](/post/of/) [the](/post/the/) landscape [in](/post/in/) [his](/post/his/) [painting](/post/painting/)."
-- 动词: "[She](/post/she/) detailed [how](/post/how/) [they](/post/they/) managed [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [problem](/post/problem/)."
-- 形容词: "[The](/post/the/) instructions were [so](/post/so/) detailed [that](/post/that/) [anyone](/post/anyone/) [could](/post/could/) [follow](/post/follow/) [them](/post/them/)."
+- 名词: "[The](/zh/post/the/) [artist](/zh/post/artist/) captured [every](/zh/post/every/) [detail](/zh/post/detail/) [of](/zh/post/of/) [the](/zh/post/the/) landscape [in](/zh/post/in/) [his](/zh/post/his/) [painting](/zh/post/painting/)."
+- 动词: "[She](/zh/post/she/) detailed [how](/zh/post/how/) [they](/zh/post/they/) managed [to](/zh/post/to/) [solve](/zh/post/solve/) [the](/zh/post/the/) [problem](/zh/post/problem/)."
+- 形容词: "[The](/zh/post/the/) instructions were [so](/zh/post/so/) detailed [that](/zh/post/that/) [anyone](/zh/post/anyone/) [could](/zh/post/could/) [follow](/zh/post/follow/) [them](/zh/post/them/)."
 
 ## 同义词
 - Particulars

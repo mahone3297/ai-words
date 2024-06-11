@@ -7,33 +7,33 @@ description = '[hedˈmɑːstə(r)] n.校长'
 keywords = ['ai words', 'headmaster']
 +++
 
-## [Word](/en/post/word/): [Headmaster](/en/post/headmaster/)
+## [Word](/post/word/): [Headmaster](/post/headmaster/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhedmeɪstər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [principal](/en/post/principal/) administrative [official](/en/post/official/) [in](/en/post/in/) [charge](/en/post/charge/) [of](/en/post/of/) [a](/en/post/a/) [school](/en/post/school/), [usually](/en/post/usually/) [a](/en/post/a/) [private](/en/post/private/) [or](/en/post/or/) preparatory [school](/en/post/school/), [who](/en/post/who/) [also](/en/post/also/) [often](/en/post/often/) teaches classes, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) British context. 
+- **[Noun](/post/noun/)**: [The](/post/the/) [principal](/post/principal/) administrative [official](/post/official/) [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [a](/post/a/) [school](/post/school/), [usually](/post/usually/) [a](/post/a/) [private](/post/private/) [or](/post/or/) preparatory [school](/post/school/), [who](/post/who/) [also](/post/also/) [often](/post/often/) teaches classes, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) British context. 
 
-### Definitions [in](/en/post/in/) [Detail](/en/post/detail/)
-1. **Educational [Leader](/en/post/leader/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [overall](/en/post/overall/) [responsibility](/en/post/responsibility/) [for](/en/post/for/) [the](/en/post/the/) running [of](/en/post/of/) [a](/en/post/a/) [school](/en/post/school/), including managing [staff](/en/post/staff/), [setting](/en/post/setting/) educational standards, [and](/en/post/and/) overseeing students' [discipline](/en/post/discipline/).
-   - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [new](/en/post/new/) [headmaster](/en/post/headmaster/) brought [about](/en/post/about/) [significant](/en/post/significant/) improvements [in](/en/post/in/) [the](/en/post/the/) school's [academic](/en/post/academic/) [performance](/en/post/performance/)."
+### Definitions [in](/post/in/) [Detail](/post/detail/)
+1. **Educational [Leader](/post/leader/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) has [overall](/post/overall/) [responsibility](/post/responsibility/) [for](/post/for/) [the](/post/the/) running [of](/post/of/) [a](/post/a/) [school](/post/school/), including managing [staff](/post/staff/), [setting](/post/setting/) educational standards, [and](/post/and/) overseeing students' [discipline](/post/discipline/).
+   - [Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) [new](/post/new/) [headmaster](/post/headmaster/) brought [about](/post/about/) [significant](/post/significant/) improvements [in](/post/in/) [the](/post/the/) school's [academic](/post/academic/) [performance](/post/performance/)."
 
-2- **Institutional [Authority](/en/post/authority/) [Figure](/en/post/figure/)**: An [individual](/en/post/individual/) [with](/en/post/with/) [authority](/en/post/authority/) [over](/en/post/over/) [both](/en/post/both/) [teaching](/en/post/teaching/) [staff](/en/post/staff/) [and](/en/post/and/) students, traditionally addressed [as](/en/post/as/) "[Headmaster](/en/post/headmaster/)" [or](/en/post/or/) "Headmistress" depending [on](/en/post/on/) gender.
-   - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [headmaster](/en/post/headmaster/) delivered [a](/en/post/a/) stirring [speech](/en/post/speech/) [during](/en/post/during/) [the](/en/post/the/) [opening](/en/post/opening/) [assembly](/en/post/assembly/)."
+2- **Institutional [Authority](/post/authority/) [Figure](/post/figure/)**: An [individual](/post/individual/) [with](/post/with/) [authority](/post/authority/) [over](/post/over/) [both](/post/both/) [teaching](/post/teaching/) [staff](/post/staff/) [and](/post/and/) students, traditionally addressed [as](/post/as/) "[Headmaster](/post/headmaster/)" [or](/post/or/) "Headmistress" depending [on](/post/on/) gender.
+   - [Example](/post/example/) [Sentence](/post/sentence/): "[The](/post/the/) [headmaster](/post/headmaster/) delivered [a](/post/a/) stirring [speech](/post/speech/) [during](/post/during/) [the](/post/the/) [opening](/post/opening/) [assembly](/post/assembly/)."
 
 ## Phrases
-- "[Meet](/en/post/meet/) [with](/en/post/with/) [the](/en/post/the/) [headmaster](/en/post/headmaster/)" – [This](/en/post/this/) implies having [a](/en/post/a/) [formal](/en/post/formal/) [conversation](/en/post/conversation/) [or](/en/post/or/) [appointment](/en/post/appointment/) [with](/en/post/with/) [the](/en/post/the/) school's [principal](/en/post/principal/).
-- "Called [to](/en/post/to/) [the](/en/post/the/) headmaster's [office](/en/post/office/)" – [Often](/en/post/often/) [used](/en/post/used/) [when](/en/post/when/) [a](/en/post/a/) [student](/en/post/student/) is summoned [for](/en/post/for/) disciplinary reasons [or](/en/post/or/) [a](/en/post/a/) [discussion](/en/post/discussion/) [regarding](/en/post/regarding/) [their](/en/post/their/) [academic](/en/post/academic/) [progress](/en/post/progress/).
-- "[Under](/en/post/under/) [the](/en/post/the/) headmaster's [watch](/en/post/watch/)" – Refers [to](/en/post/to/) activities [or](/en/post/or/) changes occurring [within](/en/post/within/) [the](/en/post/the/) [school](/en/post/school/) [during](/en/post/during/) [the](/en/post/the/) tenure [of](/en/post/of/) [a](/en/post/a/) [specific](/en/post/specific/) [headmaster](/en/post/headmaster/).
+- "[Meet](/post/meet/) [with](/post/with/) [the](/post/the/) [headmaster](/post/headmaster/)" – [This](/post/this/) implies having [a](/post/a/) [formal](/post/formal/) [conversation](/post/conversation/) [or](/post/or/) [appointment](/post/appointment/) [with](/post/with/) [the](/post/the/) school's [principal](/post/principal/).
+- "Called [to](/post/to/) [the](/post/the/) headmaster's [office](/post/office/)" – [Often](/post/often/) [used](/post/used/) [when](/post/when/) [a](/post/a/) [student](/post/student/) is summoned [for](/post/for/) disciplinary reasons [or](/post/or/) [a](/post/a/) [discussion](/post/discussion/) [regarding](/post/regarding/) [their](/post/their/) [academic](/post/academic/) [progress](/post/progress/).
+- "[Under](/post/under/) [the](/post/the/) headmaster's [watch](/post/watch/)" – Refers [to](/post/to/) activities [or](/post/or/) changes occurring [within](/post/within/) [the](/post/the/) [school](/post/school/) [during](/post/during/) [the](/post/the/) tenure [of](/post/of/) [a](/post/a/) [specific](/post/specific/) [headmaster](/post/headmaster/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[As](/en/post/as/) [a](/en/post/a/) [former](/en/post/former/) [teacher](/en/post/teacher/), Mr. Thompson was appointed [as](/en/post/as/) [the](/en/post/the/) [headmaster](/en/post/headmaster/) [of](/en/post/of/) [the](/en/post/the/) prestigious St. George's [Academy](/en/post/academy/)."
-- "[When](/en/post/when/) caught cheating [on](/en/post/on/) [the](/en/post/the/) [exam](/en/post/exam/), Tom was [immediately](/en/post/immediately/) sent [to](/en/post/to/) [see](/en/post/see/) [the](/en/post/the/) [headmaster](/en/post/headmaster/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[As](/post/as/) [a](/post/a/) [former](/post/former/) [teacher](/post/teacher/), Mr. Thompson was appointed [as](/post/as/) [the](/post/the/) [headmaster](/post/headmaster/) [of](/post/of/) [the](/post/the/) prestigious St. George's [Academy](/post/academy/)."
+- "[When](/post/when/) caught cheating [on](/post/on/) [the](/post/the/) [exam](/post/exam/), Tom was [immediately](/post/immediately/) sent [to](/post/to/) [see](/post/see/) [the](/post/the/) [headmaster](/post/headmaster/)."
 
 ## Synonyms
-- [Principal](/en/post/principal/) ([American](/en/post/american/) English)
-- [School](/en/post/school/) [Principal](/en/post/principal/)
-- Rector ([in](/en/post/in/) [some](/en/post/some/) European schools)
+- [Principal](/post/principal/) ([American](/post/american/) English)
+- [School](/post/school/) [Principal](/post/principal/)
+- Rector ([in](/post/in/) [some](/post/some/) European schools)
 - Headteacher (British English) 
-- [Director](/en/post/director/) ([in](/en/post/in/) [some](/en/post/some/) [international](/en/post/international/) schools)
+- [Director](/post/director/) ([in](/post/in/) [some](/post/some/) [international](/post/international/) schools)

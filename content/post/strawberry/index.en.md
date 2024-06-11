@@ -7,32 +7,32 @@ description = '[ˈstrɔːbəri] n.草莓'
 keywords = ['ai words', 'strawberry']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈstræb(ə)rɪ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[strawberry](/en/post/strawberry/)** is [a](/en/post/a/) [small](/en/post/small/), [sweet](/en/post/sweet/), [red](/en/post/red/) [fruit](/en/post/fruit/) [with](/en/post/with/) [a](/en/post/a/) fleshy [exterior](/en/post/exterior/) [and](/en/post/and/) [many](/en/post/many/) seeds [on](/en/post/on/) [its](/en/post/its/) [interior](/en/post/interior/). [It](/en/post/it/) is [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) desserts, salads, [or](/en/post/or/) eaten [fresh](/en/post/fresh/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[strawberry](/post/strawberry/)** is [a](/post/a/) [small](/post/small/), [sweet](/post/sweet/), [red](/post/red/) [fruit](/post/fruit/) [with](/post/with/) [a](/post/a/) fleshy [exterior](/post/exterior/) [and](/post/and/) [many](/post/many/) seeds [on](/post/on/) [its](/post/its/) [interior](/post/interior/). [It](/post/it/) is [often](/post/often/) [used](/post/used/) [in](/post/in/) desserts, salads, [or](/post/or/) eaten [fresh](/post/fresh/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[strawberry](/en/post/strawberry/)** [something](/en/post/something/) (informal) [means](/en/post/means/) [to](/en/post/to/) [cover](/en/post/cover/) [it](/en/post/it/) [with](/en/post/with/) strawberries [or](/en/post/or/) [imitate](/en/post/imitate/) [their](/en/post/their/) [appearance](/en/post/appearance/), typically [in](/en/post/in/) [food](/en/post/food/) preparations [or](/en/post/or/) [art](/en/post/art/) projects.
+### [Verb](/post/verb/)
+[To](/post/to/) **[strawberry](/post/strawberry/)** [something](/post/something/) (informal) [means](/post/means/) [to](/post/to/) [cover](/post/cover/) [it](/post/it/) [with](/post/with/) strawberries [or](/post/or/) [imitate](/post/imitate/) [their](/post/their/) [appearance](/post/appearance/), typically [in](/post/in/) [food](/post/food/) preparations [or](/post/or/) [art](/post/art/) projects.
 
 ## Phrases
-- "[Top](/en/post/top/) [a](/en/post/a/) [cake](/en/post/cake/) [with](/en/post/with/) strawberries" [for](/en/post/for/) [a](/en/post/a/) dessert topping.
-- "[Make](/en/post/make/) [a](/en/post/a/) [strawberry](/en/post/strawberry/) smoothie" [for](/en/post/for/) [a](/en/post/a/) [popular](/en/post/popular/) [drink](/en/post/drink/) recipe.
-- "[Strawberry](/en/post/strawberry/) fields [forever](/en/post/forever/)" is [a](/en/post/a/) metaphor [for](/en/post/for/) an idyllic, [endless](/en/post/endless/) landscape.
+- "[Top](/post/top/) [a](/post/a/) [cake](/post/cake/) [with](/post/with/) strawberries" [for](/post/for/) [a](/post/a/) dessert topping.
+- "[Make](/post/make/) [a](/post/a/) [strawberry](/post/strawberry/) smoothie" [for](/post/for/) [a](/post/a/) [popular](/post/popular/) [drink](/post/drink/) recipe.
+- "[Strawberry](/post/strawberry/) fields [forever](/post/forever/)" is [a](/post/a/) metaphor [for](/post/for/) an idyllic, [endless](/post/endless/) landscape.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) picked [a](/en/post/a/) [basket](/en/post/basket/) [full](/en/post/full/) [of](/en/post/of/) juicy strawberries [for](/en/post/for/) [the](/en/post/the/) [market](/en/post/market/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [strawberry](/en/post/strawberry/) [her](/en/post/her/) vanilla [ice](/en/post/ice/) [cream](/en/post/cream/) [with](/en/post/with/) [fresh](/en/post/fresh/) berries."
-- **Informal**: "[The](/en/post/the/) [little](/en/post/little/) [girl](/en/post/girl/) decorated [her](/en/post/her/) cupcakes [with](/en/post/with/) [a](/en/post/a/) [layer](/en/post/layer/) [of](/en/post/of/) [strawberry](/en/post/strawberry/) frosting."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) picked [a](/post/a/) [basket](/post/basket/) [full](/post/full/) [of](/post/of/) juicy strawberries [for](/post/for/) [the](/post/the/) [market](/post/market/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [strawberry](/post/strawberry/) [her](/post/her/) vanilla [ice](/post/ice/) [cream](/post/cream/) [with](/post/with/) [fresh](/post/fresh/) berries."
+- **Informal**: "[The](/post/the/) [little](/post/little/) [girl](/post/girl/) decorated [her](/post/her/) cupcakes [with](/post/with/) [a](/post/a/) [layer](/post/layer/) [of](/post/of/) [strawberry](/post/strawberry/) frosting."
 
 ## Synonyms
 - Berries (collectively)
 - Raspberries
 - Redcurrants
-- Fruits (referring [to](/en/post/to/) [the](/en/post/the/) [type](/en/post/type/))
-- Strawberries [jam](/en/post/jam/), preserves, [or](/en/post/or/) [sauce](/en/post/sauce/) ([food](/en/post/food/) products)
+- Fruits (referring [to](/post/to/) [the](/post/the/) [type](/post/type/))
+- Strawberries [jam](/post/jam/), preserves, [or](/post/or/) [sauce](/post/sauce/) ([food](/post/food/) products)
 
 ## Antonyms
-- [None](/en/post/none/) ([as](/en/post/as/) strawberries are [a](/en/post/a/) [specific](/en/post/specific/) [fruit](/en/post/fruit/), [not](/en/post/not/) [a](/en/post/a/) descriptor)
+- [None](/post/none/) ([as](/post/as/) strawberries are [a](/post/a/) [specific](/post/specific/) [fruit](/post/fruit/), [not](/post/not/) [a](/post/a/) descriptor)

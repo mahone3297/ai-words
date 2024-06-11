@@ -7,31 +7,31 @@ description = '[ˈpəːt∫əs] n.买，购买 vt.买'
 keywords = ['ai words', 'purchase']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈrʌchəs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) buying [something](/en/post/something/), [especially](/en/post/especially/) [goods](/en/post/goods/) [or](/en/post/or/) services. **[Example](/en/post/example/)**: "I made [a](/en/post/a/) [purchase](/en/post/purchase/) [at](/en/post/at/) [the](/en/post/the/) [store](/en/post/store/)."
-2. [The](/en/post/the/) [thing](/en/post/thing/) bought, [often](/en/post/often/) [used](/en/post/used/) [with](/en/post/with/) [a](/en/post/a/) [definite](/en/post/definite/) [article](/en/post/article/). **[Example](/en/post/example/)**: "[The](/en/post/the/) [car](/en/post/car/) was [my](/en/post/my/) [most](/en/post/most/) [significant](/en/post/significant/) [purchase](/en/post/purchase/)."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) buying [something](/post/something/), [especially](/post/especially/) [goods](/post/goods/) [or](/post/or/) services. **[Example](/post/example/)**: "I made [a](/post/a/) [purchase](/post/purchase/) [at](/post/at/) [the](/post/the/) [store](/post/store/)."
+2. [The](/post/the/) [thing](/post/thing/) bought, [often](/post/often/) [used](/post/used/) [with](/post/with/) [a](/post/a/) [definite](/post/definite/) [article](/post/article/). **[Example](/post/example/)**: "[The](/post/the/) [car](/post/car/) was [my](/post/my/) [most](/post/most/) [significant](/post/significant/) [purchase](/post/purchase/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [buy](/en/post/buy/) [or](/en/post/or/) [acquire](/en/post/acquire/) [something](/en/post/something/), typically [after](/en/post/after/) making an [agreement](/en/post/agreement/). **[Example](/en/post/example/)**: "[She](/en/post/she/) purchased [a](/en/post/a/) [new](/en/post/new/) laptop [for](/en/post/for/) [her](/en/post/her/) studies."
-2. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) buying, [often](/en/post/often/) implying [a](/en/post/a/) decision-making [process](/en/post/process/). **[Example](/en/post/example/)**: "I'm going [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [purchase](/en/post/purchase/) online [later](/en/post/later/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [buy](/post/buy/) [or](/post/or/) [acquire](/post/acquire/) [something](/post/something/), typically [after](/post/after/) making an [agreement](/post/agreement/). **[Example](/post/example/)**: "[She](/post/she/) purchased [a](/post/a/) [new](/post/new/) laptop [for](/post/for/) [her](/post/her/) studies."
+2. [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [the](/post/the/) [process](/post/process/) [of](/post/of/) buying, [often](/post/often/) implying [a](/post/a/) decision-making [process](/post/process/). **[Example](/post/example/)**: "I'm going [to](/post/to/) [make](/post/make/) [a](/post/a/) [purchase](/post/purchase/) online [later](/post/later/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [purchase](/en/post/purchase/)" [means](/en/post/means/) [to](/en/post/to/) [buy](/en/post/buy/) [something](/en/post/something/).
-- "[Complete](/en/post/complete/) [a](/en/post/a/) [purchase](/en/post/purchase/)" signifies finishing [the](/en/post/the/) buying [process](/en/post/process/).
-- "[Purchase](/en/post/purchase/) [on](/en/post/on/) [credit](/en/post/credit/)" refers [to](/en/post/to/) buying [with](/en/post/with/) borrowed [money](/en/post/money/).
+- "[Make](/post/make/) [a](/post/a/) [purchase](/post/purchase/)" [means](/post/means/) [to](/post/to/) [buy](/post/buy/) [something](/post/something/).
+- "[Complete](/post/complete/) [a](/post/a/) [purchase](/post/purchase/)" signifies finishing [the](/post/the/) buying [process](/post/process/).
+- "[Purchase](/post/purchase/) [on](/post/on/) [credit](/post/credit/)" refers [to](/post/to/) buying [with](/post/with/) borrowed [money](/post/money/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) months [of](/en/post/of/) [saving](/en/post/saving/), [she](/en/post/she/) [finally](/en/post/finally/) made [a](/en/post/a/) [large](/en/post/large/) [purchase](/en/post/purchase/) [for](/en/post/for/) [her](/en/post/her/) [home](/en/post/home/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) purchased [the](/en/post/the/) tickets [for](/en/post/for/) [the](/en/post/the/) [concert](/en/post/concert/) [in](/en/post/in/) [advance](/en/post/advance/)."
-- **[Verb](/en/post/verb/)**: "I'll [be](/en/post/be/) [back](/en/post/back/) [in](/en/post/in/) [a](/en/post/a/) [few](/en/post/few/) minutes [to](/en/post/to/) finalize [my](/en/post/my/) [purchase](/en/post/purchase/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) months [of](/post/of/) [saving](/post/saving/), [she](/post/she/) [finally](/post/finally/) made [a](/post/a/) [large](/post/large/) [purchase](/post/purchase/) [for](/post/for/) [her](/post/her/) [home](/post/home/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) purchased [the](/post/the/) tickets [for](/post/for/) [the](/post/the/) [concert](/post/concert/) [in](/post/in/) [advance](/post/advance/)."
+- **[Verb](/post/verb/)**: "I'll [be](/post/be/) [back](/post/back/) [in](/post/in/) [a](/post/a/) [few](/post/few/) minutes [to](/post/to/) finalize [my](/post/my/) [purchase](/post/purchase/)."
 
 ## Synonyms
 - Buying
 - Acquisition
-- Buying [up](/en/post/up/)
-- Buying [out](/en/post/out/)
-- Buying [something](/en/post/something/) (informal)
+- Buying [up](/post/up/)
+- Buying [out](/post/out/)
+- Buying [something](/post/something/) (informal)

@@ -7,47 +7,47 @@ description = '[ˈprinsip(ə)l] a.主要的 n.负责人'
 keywords = ['ai words', 'principal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪnˈsɪpl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) **[principal](/en/post/principal/)** ([noun](/en/post/noun/)) refers [to](/en/post/to/):
-  - [The](/en/post/the/) [head](/en/post/head/) [teacher](/en/post/teacher/) [or](/en/post/or/) [school](/en/post/school/) [leader](/en/post/leader/), [often](/en/post/often/) [in](/en/post/in/) [primary](/en/post/primary/) [or](/en/post/or/) [secondary](/en/post/secondary/) [education](/en/post/education/): "[The](/en/post/the/) [principal](/en/post/principal/) greeted [the](/en/post/the/) parents [during](/en/post/during/) [the](/en/post/the/) [open](/en/post/open/) [house](/en/post/house/)."
-  - [The](/en/post/the/) [main](/en/post/main/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [in](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [organization](/en/post/organization/): "[The](/en/post/the/) [principal](/en/post/principal/) investigator [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/) is [a](/en/post/a/) renowned [scientist](/en/post/scientist/)."
-  - [The](/en/post/the/) [most](/en/post/most/) [important](/en/post/important/) [factor](/en/post/factor/) [or](/en/post/or/) [element](/en/post/element/): "[Financial](/en/post/financial/) [stability](/en/post/stability/) is [the](/en/post/the/) [principal](/en/post/principal/) [concern](/en/post/concern/) [for](/en/post/for/) [many](/en/post/many/) [small](/en/post/small/) businesses."
+### [Noun](/post/noun/)
+- [A](/post/a/) **[principal](/post/principal/)** ([noun](/post/noun/)) refers [to](/post/to/):
+  - [The](/post/the/) [head](/post/head/) [teacher](/post/teacher/) [or](/post/or/) [school](/post/school/) [leader](/post/leader/), [often](/post/often/) [in](/post/in/) [primary](/post/primary/) [or](/post/or/) [secondary](/post/secondary/) [education](/post/education/): "[The](/post/the/) [principal](/post/principal/) greeted [the](/post/the/) parents [during](/post/during/) [the](/post/the/) [open](/post/open/) [house](/post/house/)."
+  - [The](/post/the/) [main](/post/main/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [in](/post/in/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [organization](/post/organization/): "[The](/post/the/) [principal](/post/principal/) investigator [on](/post/on/) [the](/post/the/) [project](/post/project/) is [a](/post/a/) renowned [scientist](/post/scientist/)."
+  - [The](/post/the/) [most](/post/most/) [important](/post/important/) [factor](/post/factor/) [or](/post/or/) [element](/post/element/): "[Financial](/post/financial/) [stability](/post/stability/) is [the](/post/the/) [principal](/post/principal/) [concern](/post/concern/) [for](/post/for/) [many](/post/many/) [small](/post/small/) businesses."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) **[be](/en/post/be/) [principal](/en/post/principal/)** ([verb](/en/post/verb/)) [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [charge](/en/post/charge/) [or](/en/post/or/) [lead](/en/post/lead/): "[The](/en/post/the/) [principal](/en/post/principal/) is [responsible](/en/post/responsible/) [for](/en/post/for/) managing [the](/en/post/the/) school's budget."
-- [To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) [the](/en/post/the/) **[principal](/en/post/principal/) [actor](/en/post/actor/)** [or](/en/post/or/) **[principal](/en/post/principal/) [role](/en/post/role/)**: "[She](/en/post/she/) played [the](/en/post/the/) [principal](/en/post/principal/) [role](/en/post/role/) [in](/en/post/in/) [the](/en/post/the/) [film](/en/post/film/), receiving [critical](/en/post/critical/) acclaim."
+### [Verb](/post/verb/)
+- [To](/post/to/) **[be](/post/be/) [principal](/post/principal/)** ([verb](/post/verb/)) [means](/post/means/) [to](/post/to/) [be](/post/be/) [in](/post/in/) [charge](/post/charge/) [or](/post/or/) [lead](/post/lead/): "[The](/post/the/) [principal](/post/principal/) is [responsible](/post/responsible/) [for](/post/for/) managing [the](/post/the/) school's budget."
+- [To](/post/to/) [act](/post/act/) [as](/post/as/) [the](/post/the/) **[principal](/post/principal/) [actor](/post/actor/)** [or](/post/or/) **[principal](/post/principal/) [role](/post/role/)**: "[She](/post/she/) played [the](/post/the/) [principal](/post/principal/) [role](/post/role/) [in](/post/in/) [the](/post/the/) [film](/post/film/), receiving [critical](/post/critical/) acclaim."
 
-### [Adjective](/en/post/adjective/)
-- **[Principal](/en/post/principal/)** ([adjective](/en/post/adjective/)) [can](/en/post/can/) [describe](/en/post/describe/):
-  - [Of](/en/post/of/) highest [rank](/en/post/rank/) [or](/en/post/or/) [importance](/en/post/importance/): "[The](/en/post/the/) [principal](/en/post/principal/) architect designed [the](/en/post/the/) [building](/en/post/building/)."
-  - [Main](/en/post/main/) [or](/en/post/or/) [primary](/en/post/primary/): "[The](/en/post/the/) [principal](/en/post/principal/) [source](/en/post/source/) [of](/en/post/of/) [income](/en/post/income/) is [from](/en/post/from/) investments."
+### [Adjective](/post/adjective/)
+- **[Principal](/post/principal/)** ([adjective](/post/adjective/)) [can](/post/can/) [describe](/post/describe/):
+  - [Of](/post/of/) highest [rank](/post/rank/) [or](/post/or/) [importance](/post/importance/): "[The](/post/the/) [principal](/post/principal/) architect designed [the](/post/the/) [building](/post/building/)."
+  - [Main](/post/main/) [or](/post/or/) [primary](/post/primary/): "[The](/post/the/) [principal](/post/principal/) [source](/post/source/) [of](/post/of/) [income](/post/income/) is [from](/post/from/) investments."
 
 ## Phrases
-- "[Act](/en/post/act/) [as](/en/post/as/) [principal](/en/post/principal/)" signifies taking [on](/en/post/on/) [a](/en/post/a/) [leading](/en/post/leading/) [role](/en/post/role/) [or](/en/post/or/) [responsibility](/en/post/responsibility/).
-- "[In](/en/post/in/) [his](/en/post/his/) [principal](/en/post/principal/) [capacity](/en/post/capacity/)" emphasizes someone's [main](/en/post/main/) [role](/en/post/role/) [or](/en/post/or/) [function](/en/post/function/).
-- "[The](/en/post/the/) [principal](/en/post/principal/) [amount](/en/post/amount/)" refers [to](/en/post/to/) [the](/en/post/the/) [initial](/en/post/initial/) [sum](/en/post/sum/) [of](/en/post/of/) [money](/en/post/money/) [in](/en/post/in/) [a](/en/post/a/) [loan](/en/post/loan/) [or](/en/post/or/) [investment](/en/post/investment/).
+- "[Act](/post/act/) [as](/post/as/) [principal](/post/principal/)" signifies taking [on](/post/on/) [a](/post/a/) [leading](/post/leading/) [role](/post/role/) [or](/post/or/) [responsibility](/post/responsibility/).
+- "[In](/post/in/) [his](/post/his/) [principal](/post/principal/) [capacity](/post/capacity/)" emphasizes someone's [main](/post/main/) [role](/post/role/) [or](/post/or/) [function](/post/function/).
+- "[The](/post/the/) [principal](/post/principal/) [amount](/post/amount/)" refers [to](/post/to/) [the](/post/the/) [initial](/post/initial/) [sum](/post/sum/) [of](/post/of/) [money](/post/money/) [in](/post/in/) [a](/post/a/) [loan](/post/loan/) [or](/post/or/) [investment](/post/investment/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [principal](/en/post/principal/) was pleased [with](/en/post/with/) [the](/en/post/the/) students' [progress](/en/post/progress/) [this](/en/post/this/) [year](/en/post/year/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [principal](/en/post/principal/) is known [for](/en/post/for/) [her](/en/post/her/) dedication [to](/en/post/to/) [the](/en/post/the/) school's [mission](/en/post/mission/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [principal](/en/post/principal/) [factor](/en/post/factor/) contributing [to](/en/post/to/) [success](/en/post/success/) was [their](/en/post/their/) innovative [strategy](/en/post/strategy/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [principal](/post/principal/) was pleased [with](/post/with/) [the](/post/the/) students' [progress](/post/progress/) [this](/post/this/) [year](/post/year/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [principal](/post/principal/) is known [for](/post/for/) [her](/post/her/) dedication [to](/post/to/) [the](/post/the/) school's [mission](/post/mission/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [principal](/post/principal/) [factor](/post/factor/) contributing [to](/post/to/) [success](/post/success/) was [their](/post/their/) innovative [strategy](/post/strategy/)."
 
 ## Synonyms
-- [Headmaster](/en/post/headmaster/)/[mistress](/en/post/mistress/)
-- [Director](/en/post/director/)
-- [Leader](/en/post/leader/)
-- [Chief](/en/post/chief/)
-- [Top](/en/post/top/)
-- [Key](/en/post/key/)
-- [Main](/en/post/main/)
+- [Headmaster](/post/headmaster/)/[mistress](/post/mistress/)
+- [Director](/post/director/)
+- [Leader](/post/leader/)
+- [Chief](/post/chief/)
+- [Top](/post/top/)
+- [Key](/post/key/)
+- [Main](/post/main/)
 
 ## Antonyms
-- [Assistant](/en/post/assistant/)
-- [Junior](/en/post/junior/)
+- [Assistant](/post/assistant/)
+- [Junior](/post/junior/)
 - Supporting
-- [Secondary](/en/post/secondary/)
+- [Secondary](/post/secondary/)
 - Lesser

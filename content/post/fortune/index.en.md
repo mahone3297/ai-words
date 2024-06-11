@@ -7,36 +7,36 @@ description = '[ˈfɔːt∫ən] n.命运，运气；财产'
 keywords = ['ai words', 'fortune']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɔːtʃuːn/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-1. [Wealth](/en/post/wealth/), [especially](/en/post/especially/) [when](/en/post/when/) gained [suddenly](/en/post/suddenly/) [or](/en/post/or/) unexpectedly; riches: _"[He](/en/post/he/) made [a](/en/post/a/) [fortune](/en/post/fortune/) [in](/en/post/in/) [the](/en/post/the/) [stock](/en/post/stock/) [market](/en/post/market/)."_
-2. [The](/en/post/the/) [sum](/en/post/sum/) [of](/en/post/of/) [wealth](/en/post/wealth/), [property](/en/post/property/), [and](/en/post/and/) [other](/en/post/other/) possessions [that](/en/post/that/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [group](/en/post/group/) has: _"[Her](/en/post/her/) family's [fortune](/en/post/fortune/) was built [on](/en/post/on/) generations [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/)."_
-3. [Fate](/en/post/fate/) [or](/en/post/or/) [luck](/en/post/luck/), [either](/en/post/either/) [good](/en/post/good/) [or](/en/post/or/) [bad](/en/post/bad/): _"[Their](/en/post/their/) fortunes changed dramatically [after](/en/post/after/) [they](/en/post/they/) won [the](/en/post/the/) lottery."_
-4. Prediction [of](/en/post/of/) [future](/en/post/future/) events, [often](/en/post/often/) [by](/en/post/by/) interpreting signs [or](/en/post/or/) symbols: _"[The](/en/post/the/) fortuneteller [read](/en/post/read/) [my](/en/post/my/) [fortune](/en/post/fortune/) [in](/en/post/in/) [the](/en/post/the/) [tea](/en/post/tea/) leaves."_
+### [Noun](/post/noun/) (n)
+1. [Wealth](/post/wealth/), [especially](/post/especially/) [when](/post/when/) gained [suddenly](/post/suddenly/) [or](/post/or/) unexpectedly; riches: _"[He](/post/he/) made [a](/post/a/) [fortune](/post/fortune/) [in](/post/in/) [the](/post/the/) [stock](/post/stock/) [market](/post/market/)."_
+2. [The](/post/the/) [sum](/post/sum/) [of](/post/of/) [wealth](/post/wealth/), [property](/post/property/), [and](/post/and/) [other](/post/other/) possessions [that](/post/that/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [group](/post/group/) has: _"[Her](/post/her/) family's [fortune](/post/fortune/) was built [on](/post/on/) generations [of](/post/of/) [hard](/post/hard/) [work](/post/work/)."_
+3. [Fate](/post/fate/) [or](/post/or/) [luck](/post/luck/), [either](/post/either/) [good](/post/good/) [or](/post/or/) [bad](/post/bad/): _"[Their](/post/their/) fortunes changed dramatically [after](/post/after/) [they](/post/they/) won [the](/post/the/) lottery."_
+4. Prediction [of](/post/of/) [future](/post/future/) events, [often](/post/often/) [by](/post/by/) interpreting signs [or](/post/or/) symbols: _"[The](/post/the/) fortuneteller [read](/post/read/) [my](/post/my/) [fortune](/post/fortune/) [in](/post/in/) [the](/post/the/) [tea](/post/tea/) leaves."_
 
-### [Verb](/en/post/verb/) (v)
-1. [To](/en/post/to/) [have](/en/post/have/) [good](/en/post/good/) [or](/en/post/or/) [bad](/en/post/bad/) [luck](/en/post/luck/); [to](/en/post/to/) [experience](/en/post/experience/) [success](/en/post/success/) [or](/en/post/or/) [failure](/en/post/failure/) [due](/en/post/due/) [to](/en/post/to/) [chance](/en/post/chance/): _"[Despite](/en/post/despite/) [the](/en/post/the/) risks, [he](/en/post/he/) decided [to](/en/post/to/) [fortune](/en/post/fortune/) [his](/en/post/his/) [future](/en/post/future/) [on](/en/post/on/) [this](/en/post/this/) [one](/en/post/one/) [investment](/en/post/investment/)."_
-2. [To](/en/post/to/) [end](/en/post/end/) [up](/en/post/up/) [with](/en/post/with/) [something](/en/post/something/) [by](/en/post/by/) [chance](/en/post/chance/): _"[Through](/en/post/through/) [a](/en/post/a/) [fortunate](/en/post/fortunate/) [twist](/en/post/twist/) [of](/en/post/of/) [fate](/en/post/fate/), [she](/en/post/she/) [found](/en/post/found/) [herself](/en/post/herself/) fortuning [a](/en/post/a/) [comfortable](/en/post/comfortable/) [life](/en/post/life/)."_
+### [Verb](/post/verb/) (v)
+1. [To](/post/to/) [have](/post/have/) [good](/post/good/) [or](/post/or/) [bad](/post/bad/) [luck](/post/luck/); [to](/post/to/) [experience](/post/experience/) [success](/post/success/) [or](/post/or/) [failure](/post/failure/) [due](/post/due/) [to](/post/to/) [chance](/post/chance/): _"[Despite](/post/despite/) [the](/post/the/) risks, [he](/post/he/) decided [to](/post/to/) [fortune](/post/fortune/) [his](/post/his/) [future](/post/future/) [on](/post/on/) [this](/post/this/) [one](/post/one/) [investment](/post/investment/)."_
+2. [To](/post/to/) [end](/post/end/) [up](/post/up/) [with](/post/with/) [something](/post/something/) [by](/post/by/) [chance](/post/chance/): _"[Through](/post/through/) [a](/post/a/) [fortunate](/post/fortunate/) [twist](/post/twist/) [of](/post/of/) [fate](/post/fate/), [she](/post/she/) [found](/post/found/) [herself](/post/herself/) fortuning [a](/post/a/) [comfortable](/post/comfortable/) [life](/post/life/)."_
 
 ## Phrases
-- **[Make](/en/post/make/) one's [fortune](/en/post/fortune/)** - [To](/en/post/to/) [become](/en/post/become/) [very](/en/post/very/) [successful](/en/post/successful/) [or](/en/post/or/) [wealthy](/en/post/wealthy/), typically [through](/en/post/through/) [hard](/en/post/hard/) [work](/en/post/work/) [or](/en/post/or/) [good](/en/post/good/) [luck](/en/post/luck/): "_He [left](/en/post/left/) [home](/en/post/home/) [with](/en/post/with/) dreams [of](/en/post/of/) making [his](/en/post/his/) [fortune](/en/post/fortune/) [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/)._"
-- **Fortune-teller** - [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) claims [to](/en/post/to/) [be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/) [predict](/en/post/predict/) [the](/en/post/the/) [future](/en/post/future/) [or](/en/post/or/) [tell](/en/post/tell/) fortunes.
-- **[A](/en/post/a/) [stroke](/en/post/stroke/) [of](/en/post/of/) [fortune](/en/post/fortune/)** - An [event](/en/post/event/) [that](/en/post/that/) brings [about](/en/post/about/) [a](/en/post/a/) [significant](/en/post/significant/) [change](/en/post/change/) [in](/en/post/in/) one's circumstances, [either](/en/post/either/) positively [or](/en/post/or/) negatively.
+- **[Make](/post/make/) one's [fortune](/post/fortune/)** - [To](/post/to/) [become](/post/become/) [very](/post/very/) [successful](/post/successful/) [or](/post/or/) [wealthy](/post/wealthy/), typically [through](/post/through/) [hard](/post/hard/) [work](/post/work/) [or](/post/or/) [good](/post/good/) [luck](/post/luck/): "_He [left](/post/left/) [home](/post/home/) [with](/post/with/) dreams [of](/post/of/) making [his](/post/his/) [fortune](/post/fortune/) [in](/post/in/) [the](/post/the/) [city](/post/city/)._"
+- **Fortune-teller** - [A](/post/a/) [person](/post/person/) [who](/post/who/) claims [to](/post/to/) [be](/post/be/) [able](/post/able/) [to](/post/to/) [predict](/post/predict/) [the](/post/the/) [future](/post/future/) [or](/post/or/) [tell](/post/tell/) fortunes.
+- **[A](/post/a/) [stroke](/post/stroke/) [of](/post/of/) [fortune](/post/fortune/)** - An [event](/post/event/) [that](/post/that/) brings [about](/post/about/) [a](/post/a/) [significant](/post/significant/) [change](/post/change/) [in](/post/in/) one's circumstances, [either](/post/either/) positively [or](/post/or/) negatively.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) years [of](/en/post/of/) perseverance, [she](/en/post/she/) [finally](/en/post/finally/) amassed [a](/en/post/a/) [considerable](/en/post/considerable/) [fortune](/en/post/fortune/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) ventured [out](/en/post/out/) [to](/en/post/to/) [sea](/en/post/sea/), hoping [to](/en/post/to/) [fortune](/en/post/fortune/) [a](/en/post/a/) [discovery](/en/post/discovery/) [of](/en/post/of/) [new](/en/post/new/) lands."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) years [of](/post/of/) perseverance, [she](/post/she/) [finally](/post/finally/) amassed [a](/post/a/) [considerable](/post/considerable/) [fortune](/post/fortune/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) ventured [out](/post/out/) [to](/post/to/) [sea](/post/sea/), hoping [to](/post/to/) [fortune](/post/fortune/) [a](/post/a/) [discovery](/post/discovery/) [of](/post/of/) [new](/post/new/) lands."
 
 ## Synonyms
 - Riches
-- [Wealth](/en/post/wealth/)
-- [Prosperity](/en/post/prosperity/)
+- [Wealth](/post/wealth/)
+- [Prosperity](/post/prosperity/)
 - Affluence
-- [Success](/en/post/success/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [good](/en/post/good/) [fortune](/en/post/fortune/))
-- Misfortune ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [bad](/en/post/bad/) [fortune](/en/post/fortune/))
+- [Success](/post/success/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [good](/post/good/) [fortune](/post/fortune/))
+- Misfortune ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [bad](/post/bad/) [fortune](/post/fortune/))
 - Destiny
-- [Luck](/en/post/luck/)
-- [Chance](/en/post/chance/)
+- [Luck](/post/luck/)
+- [Chance](/post/chance/)

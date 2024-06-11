@@ -11,20 +11,20 @@ keywords = ['ai words', 'creative']
 /ˈkriːeɪtɪv/
 
 ## 释义
-- **形容词**: 富有创造力的，创新的，有想象力的。例如: "[She](/post/she/) has [a](/post/a/) [very](/post/very/) [creative](/post/creative/) [mind](/post/mind/)."
-- **名词**: 创作，创新，创造性的事物。例如: "[The](/post/the/) [company](/post/company/) values creativity [in](/post/in/) [their](/post/their/) products."
+- **形容词**: 富有创造力的，创新的，有想象力的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [very](/zh/post/very/) [creative](/zh/post/creative/) [mind](/zh/post/mind/)."
+- **名词**: 创作，创新，创造性的事物。例如: "[The](/zh/post/the/) [company](/zh/post/company/) values creativity [in](/zh/post/in/) [their](/zh/post/their/) products."
 
 ## 短语
-- "[Creative](/post/creative/) thinking" 指创造性思维，解决问题的新方法。
-- "[Creative](/post/creative/) industries" 包括艺术、设计和媒体等领域的行业。
+- "[Creative](/zh/post/creative/) thinking" 指创造性思维，解决问题的新方法。
+- "[Creative](/zh/post/creative/) industries" 包括艺术、设计和媒体等领域的行业。
 
 ## 例句
-- 形容词: "[The](/post/the/) artist's [creative](/post/creative/) paintings captivated [the](/post/the/) [audience](/post/audience/)."
-- 名词: "[The](/post/the/) advertising [agency](/post/agency/) is known [for](/post/for/) [its](/post/its/) cutting-edge [creative](/post/creative/) [work](/post/work/)."
+- 形容词: "[The](/zh/post/the/) artist's [creative](/zh/post/creative/) paintings captivated [the](/zh/post/the/) [audience](/zh/post/audience/)."
+- 名词: "[The](/zh/post/the/) advertising [agency](/zh/post/agency/) is known [for](/zh/post/for/) [its](/zh/post/its/) cutting-edge [creative](/zh/post/creative/) [work](/zh/post/work/)."
 
 ## 同义词
 - Innovative
 - Inventive
 - Imaginative
 - Resourceful
-- [Artistic](/post/artistic/)
+- [Artistic](/zh/post/artistic/)

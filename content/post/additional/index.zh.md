@@ -11,21 +11,21 @@ keywords = ['ai words', 'additional']
 /əˈdɪʃənl/
 
 ## 释义
-- **形容词**: 额外的，附加的，追加的。例如: "[We](/post/we/) [need](/post/need/) [some](/post/some/) [additional](/post/additional/) funding [for](/post/for/) [the](/post/the/) [project](/post/project/)."
-- **名词**: 添加物，增补。例如: "[The](/post/the/) [book](/post/book/) has an [additional](/post/additional/) [chapter](/post/chapter/) [on](/post/on/) [recent](/post/recent/) developments."
+- **形容词**: 额外的，附加的，追加的。例如: "[We](/zh/post/we/) [need](/zh/post/need/) [some](/zh/post/some/) [additional](/zh/post/additional/) funding [for](/zh/post/for/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- **名词**: 添加物，增补。例如: "[The](/zh/post/the/) [book](/zh/post/book/) has an [additional](/zh/post/additional/) [chapter](/zh/post/chapter/) [on](/zh/post/on/) [recent](/zh/post/recent/) developments."
 
 ## 短语
-- "[additional](/post/additional/) [cost](/post/cost/)" 表示额外费用。
-- "[additional](/post/additional/) [information](/post/information/)" 意为附加信息。
-- "[additional](/post/additional/) features" 指额外的功能或特性。
+- "[additional](/zh/post/additional/) [cost](/zh/post/cost/)" 表示额外费用。
+- "[additional](/zh/post/additional/) [information](/zh/post/information/)" 意为附加信息。
+- "[additional](/zh/post/additional/) features" 指额外的功能或特性。
 
 ## 例句
-- 形容词: "[The](/post/the/) [hotel](/post/hotel/) offers [additional](/post/additional/) services [like](/post/like/) [room](/post/room/) [service](/post/service/) [and](/post/and/) [a](/post/a/) gym."
-- 名词: "[Could](/post/could/) [you](/post/you/) [provide](/post/provide/) [some](/post/some/) [additional](/post/additional/) details [about](/post/about/) [your](/post/your/) [experience](/post/experience/)?"
+- 形容词: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) offers [additional](/zh/post/additional/) services [like](/zh/post/like/) [room](/zh/post/room/) [service](/zh/post/service/) [and](/zh/post/and/) [a](/zh/post/a/) gym."
+- 名词: "[Could](/zh/post/could/) [you](/zh/post/you/) [provide](/zh/post/provide/) [some](/zh/post/some/) [additional](/zh/post/additional/) details [about](/zh/post/about/) [your](/zh/post/your/) [experience](/zh/post/experience/)?"
 
 ## 同义词
-- [Extra](/post/extra/)
+- [Extra](/zh/post/extra/)
 - Supplementary
-- [More](/post/more/)
+- [More](/zh/post/more/)
 - Bonus
-- [Further](/post/further/)
+- [Further](/zh/post/further/)

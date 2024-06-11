@@ -7,39 +7,39 @@ description = '[ˈautdɔː] a.户外的，室外的'
 keywords = ['ai words', 'outdoor']
 +++
 
-## [Word](/en/post/word/): [Outdoor](/en/post/outdoor/)
+## [Word](/post/word/): [Outdoor](/post/outdoor/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌaʊtˈdoʊr/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/), taking [place](/en/post/place/) [in](/en/post/in/), [or](/en/post/or/) [suitable](/en/post/suitable/) [for](/en/post/for/) [the](/en/post/the/) [open](/en/post/open/) [air](/en/post/air/) [or](/en/post/or/) [for](/en/post/for/) [use](/en/post/use/) [outdoors](/en/post/outdoors/). [For](/en/post/for/) [example](/en/post/example/): "We're planning an [outdoor](/en/post/outdoor/) [picnic](/en/post/picnic/) [this](/en/post/this/) [weekend](/en/post/weekend/)."
-- **[Noun](/en/post/noun/)**: An [activity](/en/post/activity/) [that](/en/post/that/) takes [place](/en/post/place/) [outside](/en/post/outside/); [also](/en/post/also/), [something](/en/post/something/) designed [for](/en/post/for/) [use](/en/post/use/) [outside](/en/post/outside/). [For](/en/post/for/) [example](/en/post/example/): "Hiking is [my](/en/post/my/) favorite [outdoor](/en/post/outdoor/) [activity](/en/post/activity/)." "[The](/en/post/the/) [new](/en/post/new/) [furniture](/en/post/furniture/) [set](/en/post/set/) is [perfect](/en/post/perfect/) [for](/en/post/for/) [our](/en/post/our/) [outdoor](/en/post/outdoor/) [space](/en/post/space/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/), taking [place](/post/place/) [in](/post/in/), [or](/post/or/) [suitable](/post/suitable/) [for](/post/for/) [the](/post/the/) [open](/post/open/) [air](/post/air/) [or](/post/or/) [for](/post/for/) [use](/post/use/) [outdoors](/post/outdoors/). [For](/post/for/) [example](/post/example/): "We're planning an [outdoor](/post/outdoor/) [picnic](/post/picnic/) [this](/post/this/) [weekend](/post/weekend/)."
+- **[Noun](/post/noun/)**: An [activity](/post/activity/) [that](/post/that/) takes [place](/post/place/) [outside](/post/outside/); [also](/post/also/), [something](/post/something/) designed [for](/post/for/) [use](/post/use/) [outside](/post/outside/). [For](/post/for/) [example](/post/example/): "Hiking is [my](/post/my/) favorite [outdoor](/post/outdoor/) [activity](/post/activity/)." "[The](/post/the/) [new](/post/new/) [furniture](/post/furniture/) [set](/post/set/) is [perfect](/post/perfect/) [for](/post/for/) [our](/post/our/) [outdoor](/post/outdoor/) [space](/post/space/)."
 
-### [Adjective](/en/post/adjective/) Definitions [and](/en/post/and/) Examples
-- **[Definition](/en/post/definition/)**: Describing an [event](/en/post/event/), [activity](/en/post/activity/), [or](/en/post/or/) [item](/en/post/item/) [that](/en/post/that/) occurs [or](/en/post/or/) is located [in](/en/post/in/) [the](/en/post/the/) [open](/en/post/open/) [air](/en/post/air/), [not](/en/post/not/) [under](/en/post/under/) [a](/en/post/a/) [roof](/en/post/roof/) [or](/en/post/or/) [within](/en/post/within/) [a](/en/post/a/) [building](/en/post/building/).
-  - _Example Sentence_: "[They](/en/post/they/) organized an [outdoor](/en/post/outdoor/) [concert](/en/post/concert/) [on](/en/post/on/) [the](/en/post/the/) [lawn](/en/post/lawn/)."
+### [Adjective](/post/adjective/) Definitions [and](/post/and/) Examples
+- **[Definition](/post/definition/)**: Describing an [event](/post/event/), [activity](/post/activity/), [or](/post/or/) [item](/post/item/) [that](/post/that/) occurs [or](/post/or/) is located [in](/post/in/) [the](/post/the/) [open](/post/open/) [air](/post/air/), [not](/post/not/) [under](/post/under/) [a](/post/a/) [roof](/post/roof/) [or](/post/or/) [within](/post/within/) [a](/post/a/) [building](/post/building/).
+  - _Example Sentence_: "[They](/post/they/) organized an [outdoor](/post/outdoor/) [concert](/post/concert/) [on](/post/on/) [the](/post/the/) [lawn](/post/lawn/)."
   
-### [Noun](/en/post/noun/) Definitions [and](/en/post/and/) Examples
-- **[Definition](/en/post/definition/)**: Referring [to](/en/post/to/) an [activity](/en/post/activity/) [that](/en/post/that/) happens [in](/en/post/in/) [the](/en/post/the/) [open](/en/post/open/) [air](/en/post/air/) [or](/en/post/or/) [the](/en/post/the/) [area](/en/post/area/) [where](/en/post/where/) [such](/en/post/such/) activities [occur](/en/post/occur/).
-  - _Example Sentence_: "Playing sports [like](/en/post/like/) [soccer](/en/post/soccer/) [and](/en/post/and/) [basketball](/en/post/basketball/) are [great](/en/post/great/) [outdoor](/en/post/outdoor/) pursuits."
-  - _Example [Sentence](/en/post/sentence/) ([as](/en/post/as/) [a](/en/post/a/) [reference](/en/post/reference/) [to](/en/post/to/) an [object](/en/post/object/))_ : "[The](/en/post/the/) [outdoor](/en/post/outdoor/) lighting [really](/en/post/really/) enhanced [the](/en/post/the/) garden's [beauty](/en/post/beauty/)."
+### [Noun](/post/noun/) Definitions [and](/post/and/) Examples
+- **[Definition](/post/definition/)**: Referring [to](/post/to/) an [activity](/post/activity/) [that](/post/that/) happens [in](/post/in/) [the](/post/the/) [open](/post/open/) [air](/post/air/) [or](/post/or/) [the](/post/the/) [area](/post/area/) [where](/post/where/) [such](/post/such/) activities [occur](/post/occur/).
+  - _Example Sentence_: "Playing sports [like](/post/like/) [soccer](/post/soccer/) [and](/post/and/) [basketball](/post/basketball/) are [great](/post/great/) [outdoor](/post/outdoor/) pursuits."
+  - _Example [Sentence](/post/sentence/) ([as](/post/as/) [a](/post/a/) [reference](/post/reference/) [to](/post/to/) an [object](/post/object/))_ : "[The](/post/the/) [outdoor](/post/outdoor/) lighting [really](/post/really/) enhanced [the](/post/the/) garden's [beauty](/post/beauty/)."
 
 ## Phrases
-- "[Outdoor](/en/post/outdoor/) recreation": Activities done [for](/en/post/for/) enjoyment, [exercise](/en/post/exercise/), [or](/en/post/or/) [leisure](/en/post/leisure/) [in](/en/post/in/) [natural](/en/post/natural/) environments [or](/en/post/or/) open-air settings.
-- "[Outdoor](/en/post/outdoor/) enthusiast": [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) loves spending [time](/en/post/time/) [and](/en/post/and/) engaging [in](/en/post/in/) activities [outside](/en/post/outside/).
-- "[Outdoor](/en/post/outdoor/) gear": [Equipment](/en/post/equipment/) [or](/en/post/or/) [clothing](/en/post/clothing/) designed [for](/en/post/for/) [use](/en/post/use/) [during](/en/post/during/) [outdoor](/en/post/outdoor/) activities.
+- "[Outdoor](/post/outdoor/) recreation": Activities done [for](/post/for/) enjoyment, [exercise](/post/exercise/), [or](/post/or/) [leisure](/post/leisure/) [in](/post/in/) [natural](/post/natural/) environments [or](/post/or/) open-air settings.
+- "[Outdoor](/post/outdoor/) enthusiast": [A](/post/a/) [person](/post/person/) [who](/post/who/) loves spending [time](/post/time/) [and](/post/and/) engaging [in](/post/in/) activities [outside](/post/outside/).
+- "[Outdoor](/post/outdoor/) gear": [Equipment](/post/equipment/) [or](/post/or/) [clothing](/post/clothing/) designed [for](/post/for/) [use](/post/use/) [during](/post/during/) [outdoor](/post/outdoor/) activities.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [school](/en/post/school/) organizes [weekly](/en/post/weekly/) [outdoor](/en/post/outdoor/) [education](/en/post/education/) programs [for](/en/post/for/) [its](/en/post/its/) students."
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) [day](/en/post/day/) spent enjoying [various](/en/post/various/) [outdoor](/en/post/outdoor/) activities, [they](/en/post/they/) sat [by](/en/post/by/) [the](/en/post/the/) campfire [to](/en/post/to/) unwind."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [school](/post/school/) organizes [weekly](/post/weekly/) [outdoor](/post/outdoor/) [education](/post/education/) programs [for](/post/for/) [its](/post/its/) students."
+- **[Noun](/post/noun/)**: "[After](/post/after/) [a](/post/a/) [day](/post/day/) spent enjoying [various](/post/various/) [outdoor](/post/outdoor/) activities, [they](/post/they/) sat [by](/post/by/) [the](/post/the/) campfire [to](/post/to/) unwind."
 
 ## Synonyms
 - Outdoorsy
-- [Exterior](/en/post/exterior/)
+- [Exterior](/post/exterior/)
 - Open-air
 - Al fresco
 - Unsheltered
 - Externe
-- [External](/en/post/external/)
+- [External](/post/external/)
 - Ambient

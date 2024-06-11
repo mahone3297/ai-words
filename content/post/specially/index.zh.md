@@ -11,20 +11,20 @@ keywords = ['ai words', 'specially']
 /səˈpeʃəli/
 
 ## 释义
-- **副词**: 特别地，专门地，独特地。例如: "[He](/post/he/) prepared [the](/post/the/) [dish](/post/dish/) [specially](/post/specially/) [for](/post/for/) [her](/post/her/)."
-- **形容词**: 专门的，特别的。例如: "[This](/post/this/) is [a](/post/a/) [specially](/post/specially/) designed [tool](/post/tool/) [for](/post/for/) [that](/post/that/) [job](/post/job/)."
+- **副词**: 特别地，专门地，独特地。例如: "[He](/zh/post/he/) prepared [the](/zh/post/the/) [dish](/zh/post/dish/) [specially](/zh/post/specially/) [for](/zh/post/for/) [her](/zh/post/her/)."
+- **形容词**: 专门的，特别的。例如: "[This](/zh/post/this/) is [a](/zh/post/a/) [specially](/zh/post/specially/) designed [tool](/zh/post/tool/) [for](/zh/post/for/) [that](/zh/post/that/) [job](/zh/post/job/)."
 
 ## 短语
-- "[specially](/post/specially/) made" 意为特制的，定制的。
-- "[specially](/post/specially/) trained" 表示特别训练过的。
+- "[specially](/zh/post/specially/) made" 意为特制的，定制的。
+- "[specially](/zh/post/specially/) trained" 表示特别训练过的。
 
 ## 例句
-- 副词: "[She](/post/she/) came [to](/post/to/) [the](/post/the/) [event](/post/event/) [specially](/post/specially/) [to](/post/to/) [see](/post/see/) [him](/post/him/) [perform](/post/perform/)."
-- 形容词: "[The](/post/the/) [company](/post/company/) offers [a](/post/a/) [specially](/post/specially/) formulated [product](/post/product/) [for](/post/for/) [sensitive](/post/sensitive/) [skin](/post/skin/)."
+- 副词: "[She](/zh/post/she/) came [to](/zh/post/to/) [the](/zh/post/the/) [event](/zh/post/event/) [specially](/zh/post/specially/) [to](/zh/post/to/) [see](/zh/post/see/) [him](/zh/post/him/) [perform](/zh/post/perform/)."
+- 形容词: "[The](/zh/post/the/) [company](/zh/post/company/) offers [a](/zh/post/a/) [specially](/zh/post/specially/) formulated [product](/zh/post/product/) [for](/zh/post/for/) [sensitive](/zh/post/sensitive/) [skin](/zh/post/skin/)."
 
 ## 同义词
-- [especially](/post/especially/)
-- [particularly](/post/particularly/)
+- [especially](/zh/post/especially/)
+- [particularly](/zh/post/particularly/)
 - uniquely
 - distinctively
-- [exclusively](/post/exclusively/)
+- [exclusively](/zh/post/exclusively/)

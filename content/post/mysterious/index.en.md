@@ -7,30 +7,30 @@ description = '[misˈtiəriəs] a.神秘的；难以理解的'
 keywords = ['ai words', 'mysterious']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˌmɪstəˈriəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Impenetrably [secret](/en/post/secret/) [or](/en/post/or/) obscure; [hard](/en/post/hard/) [to](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [explain](/en/post/explain/). [It](/en/post/it/) [often](/en/post/often/) describes [something](/en/post/something/) [that](/en/post/that/) has [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) intrigue [or](/en/post/or/) [unknown](/en/post/unknown/) [quality](/en/post/quality/) [about](/en/post/about/) [it](/en/post/it/).
+- **[Adjective](/post/adjective/)**: Impenetrably [secret](/post/secret/) [or](/post/or/) obscure; [hard](/post/hard/) [to](/post/to/) [understand](/post/understand/) [or](/post/or/) [explain](/post/explain/). [It](/post/it/) [often](/post/often/) describes [something](/post/something/) [that](/post/that/) has [a](/post/a/) [sense](/post/sense/) [of](/post/of/) intrigue [or](/post/or/) [unknown](/post/unknown/) [quality](/post/quality/) [about](/post/about/) [it](/post/it/).
 
-  - _Example Sentence_: [The](/en/post/the/) [old](/en/post/old/) mansion had [a](/en/post/a/) [mysterious](/en/post/mysterious/) [air](/en/post/air/) [about](/en/post/about/) [it](/en/post/it/), [with](/en/post/with/) [its](/en/post/its/) overgrown gardens [and](/en/post/and/) boarded-up windows.
+  - _Example Sentence_: [The](/post/the/) [old](/post/old/) mansion had [a](/post/a/) [mysterious](/post/mysterious/) [air](/post/air/) [about](/post/about/) [it](/post/it/), [with](/post/with/) [its](/post/its/) overgrown gardens [and](/post/and/) boarded-up windows.
 
-- **[Noun](/en/post/noun/) (Derived [Form](/en/post/form/)):** [Something](/en/post/something/) [that](/en/post/that/) is [mysterious](/en/post/mysterious/); [a](/en/post/a/) [mystery](/en/post/mystery/). [This](/en/post/this/) [usage](/en/post/usage/) is [less](/en/post/less/) [common](/en/post/common/) [than](/en/post/than/) [the](/en/post/the/) [adjective](/en/post/adjective/) [form](/en/post/form/).
+- **[Noun](/post/noun/) (Derived [Form](/post/form/)):** [Something](/post/something/) [that](/post/that/) is [mysterious](/post/mysterious/); [a](/post/a/) [mystery](/post/mystery/). [This](/post/this/) [usage](/post/usage/) is [less](/post/less/) [common](/post/common/) [than](/post/than/) [the](/post/the/) [adjective](/post/adjective/) [form](/post/form/).
 
-  - _Example Sentence_: [The](/en/post/the/) unsolved [crime](/en/post/crime/) remained [a](/en/post/a/) [mysterious](/en/post/mysterious/) enigma [for](/en/post/for/) decades.
+  - _Example Sentence_: [The](/post/the/) unsolved [crime](/post/crime/) remained [a](/post/a/) [mysterious](/post/mysterious/) enigma [for](/post/for/) decades.
 
 ## Phrases
-- "[Mysterious](/en/post/mysterious/) ways": Refers [to](/en/post/to/) [the](/en/post/the/) unpredictable [or](/en/post/or/) inexplicable methods [by](/en/post/by/) [which](/en/post/which/) things [happen](/en/post/happen/), [especially](/en/post/especially/) [when](/en/post/when/) attributed [to](/en/post/to/) divine intervention.
+- "[Mysterious](/post/mysterious/) ways": Refers [to](/post/to/) [the](/post/the/) unpredictable [or](/post/or/) inexplicable methods [by](/post/by/) [which](/post/which/) things [happen](/post/happen/), [especially](/post/especially/) [when](/post/when/) attributed [to](/post/to/) divine intervention.
   
-  - _Example Sentence_: [She](/en/post/she/) believed [that](/en/post/that/) [fate](/en/post/fate/) worked [in](/en/post/in/) [mysterious](/en/post/mysterious/) ways.
+  - _Example Sentence_: [She](/post/she/) believed [that](/post/that/) [fate](/post/fate/) worked [in](/post/in/) [mysterious](/post/mysterious/) ways.
 
-- "[The](/en/post/the/) [mysterious](/en/post/mysterious/) [stranger](/en/post/stranger/)": [A](/en/post/a/) trope [in](/en/post/in/) [literature](/en/post/literature/) referring [to](/en/post/to/) an unfamiliar [character](/en/post/character/) [who](/en/post/who/) arrives unexpectedly [and](/en/post/and/) [whose](/en/post/whose/) intentions [or](/en/post/or/) backstory are initially unclear.
+- "[The](/post/the/) [mysterious](/post/mysterious/) [stranger](/post/stranger/)": [A](/post/a/) trope [in](/post/in/) [literature](/post/literature/) referring [to](/post/to/) an unfamiliar [character](/post/character/) [who](/post/who/) arrives unexpectedly [and](/post/and/) [whose](/post/whose/) intentions [or](/post/or/) backstory are initially unclear.
 
-  - _Example Sentence_: [The](/en/post/the/) [arrival](/en/post/arrival/) [of](/en/post/of/) [the](/en/post/the/) [mysterious](/en/post/mysterious/) [stranger](/en/post/stranger/) turned [the](/en/post/the/) [peaceful](/en/post/peaceful/) [village](/en/post/village/) upside [down](/en/post/down/).
+  - _Example Sentence_: [The](/post/the/) [arrival](/post/arrival/) [of](/post/of/) [the](/post/the/) [mysterious](/post/mysterious/) [stranger](/post/stranger/) turned [the](/post/the/) [peaceful](/post/peaceful/) [village](/post/village/) upside [down](/post/down/).
 
-## [Example](/en/post/example/) Sentences
-- _Adjective:_ There's [something](/en/post/something/) [mysterious](/en/post/mysterious/) [about](/en/post/about/) [the](/en/post/the/) unopened [letter](/en/post/letter/) [left](/en/post/left/) [on](/en/post/on/) [the](/en/post/the/) doorstep.
-- _Noun (Derived [Form](/en/post/form/)):_ [The](/en/post/the/) [mysterious](/en/post/mysterious/) entity lurking [in](/en/post/in/) [the](/en/post/the/) [forest](/en/post/forest/) sparked [fear](/en/post/fear/) [among](/en/post/among/) [the](/en/post/the/) villagers.
+## [Example](/post/example/) Sentences
+- _Adjective:_ There's [something](/post/something/) [mysterious](/post/mysterious/) [about](/post/about/) [the](/post/the/) unopened [letter](/post/letter/) [left](/post/left/) [on](/post/on/) [the](/post/the/) doorstep.
+- _Noun (Derived [Form](/post/form/)):_ [The](/post/the/) [mysterious](/post/mysterious/) entity lurking [in](/post/in/) [the](/post/the/) [forest](/post/forest/) sparked [fear](/post/fear/) [among](/post/among/) [the](/post/the/) villagers.
 
 ## Synonyms
 - Enigmatic

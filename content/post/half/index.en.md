@@ -7,35 +7,35 @@ description = '[hɑːf] n.半，一半 a.一半的'
 keywords = ['ai words', 'half']
 +++
 
-## [Word](/en/post/word/): [Half](/en/post/half/)
+## [Word](/post/word/): [Half](/post/half/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /hɑːf/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [One](/en/post/one/) [of](/en/post/of/) [two](/en/post/two/) [equal](/en/post/equal/) parts [that](/en/post/that/) [together](/en/post/together/) [make](/en/post/make/) [up](/en/post/up/) [a](/en/post/a/) [whole](/en/post/whole/). [Example](/en/post/example/): "I'll [take](/en/post/take/) [the](/en/post/the/) [top](/en/post/top/) [half](/en/post/half/) [of](/en/post/of/) [the](/en/post/the/) [sandwich](/en/post/sandwich/)."
-- **[Adjective](/en/post/adjective/)**: Constituting [or](/en/post/or/) [being](/en/post/being/) [one](/en/post/one/) [of](/en/post/of/) [two](/en/post/two/) [equal](/en/post/equal/) [or](/en/post/or/) [approximately](/en/post/approximately/) [equal](/en/post/equal/) parts [of](/en/post/of/) [a](/en/post/a/) divisible [whole](/en/post/whole/). [Example](/en/post/example/): "[Half](/en/post/half/) [of](/en/post/of/) [the](/en/post/the/) [class](/en/post/class/) is [absent](/en/post/absent/) [today](/en/post/today/)."
-- **[Verb](/en/post/verb/) (informal)**: [To](/en/post/to/) [separate](/en/post/separate/) [or](/en/post/or/) [divide](/en/post/divide/) [into](/en/post/into/) halves. [Example](/en/post/example/): "[We](/en/post/we/) [can](/en/post/can/) [half](/en/post/half/) [the](/en/post/the/) [cake](/en/post/cake/) [so](/en/post/so/) [that](/en/post/that/) [everyone](/en/post/everyone/) gets [a](/en/post/a/) [piece](/en/post/piece/)."
+- **[Noun](/post/noun/)**: [One](/post/one/) [of](/post/of/) [two](/post/two/) [equal](/post/equal/) parts [that](/post/that/) [together](/post/together/) [make](/post/make/) [up](/post/up/) [a](/post/a/) [whole](/post/whole/). [Example](/post/example/): "I'll [take](/post/take/) [the](/post/the/) [top](/post/top/) [half](/post/half/) [of](/post/of/) [the](/post/the/) [sandwich](/post/sandwich/)."
+- **[Adjective](/post/adjective/)**: Constituting [or](/post/or/) [being](/post/being/) [one](/post/one/) [of](/post/of/) [two](/post/two/) [equal](/post/equal/) [or](/post/or/) [approximately](/post/approximately/) [equal](/post/equal/) parts [of](/post/of/) [a](/post/a/) divisible [whole](/post/whole/). [Example](/post/example/): "[Half](/post/half/) [of](/post/of/) [the](/post/the/) [class](/post/class/) is [absent](/post/absent/) [today](/post/today/)."
+- **[Verb](/post/verb/) (informal)**: [To](/post/to/) [separate](/post/separate/) [or](/post/or/) [divide](/post/divide/) [into](/post/into/) halves. [Example](/post/example/): "[We](/post/we/) [can](/post/can/) [half](/post/half/) [the](/post/the/) [cake](/post/cake/) [so](/post/so/) [that](/post/that/) [everyone](/post/everyone/) gets [a](/post/a/) [piece](/post/piece/)."
 
 ## Phrases
-- "[A](/en/post/a/) half-hour": [Thirty](/en/post/thirty/) minutes.
-- "[Half](/en/post/half/) [past](/en/post/past/)": [Used](/en/post/used/) [in](/en/post/in/) telling [time](/en/post/time/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [the](/en/post/the/) [minute](/en/post/minute/) [hand](/en/post/hand/) is [on](/en/post/on/) [the](/en/post/the/) [half](/en/post/half/) [hour](/en/post/hour/) [mark](/en/post/mark/). [Example](/en/post/example/): "It's [half](/en/post/half/) [past](/en/post/past/) [six](/en/post/six/)."
-- "Halfway": [At](/en/post/at/) [the](/en/post/the/) [middle](/en/post/middle/) [point](/en/post/point/) [between](/en/post/between/) [two](/en/post/two/) places [or](/en/post/or/) stages. [Example](/en/post/example/): "We're halfway [through](/en/post/through/) [the](/en/post/the/) [project](/en/post/project/)."
-- "[In](/en/post/in/) [half](/en/post/half/)": [To](/en/post/to/) [split](/en/post/split/) [or](/en/post/or/) [divide](/en/post/divide/) [something](/en/post/something/) [into](/en/post/into/) [two](/en/post/two/) [equal](/en/post/equal/) parts. [Example](/en/post/example/): "[Can](/en/post/can/) [you](/en/post/you/) [cut](/en/post/cut/) [this](/en/post/this/) [apple](/en/post/apple/) [in](/en/post/in/) [half](/en/post/half/)?"
-- "[At](/en/post/at/) half-mast": [When](/en/post/when/) [a](/en/post/a/) [flag](/en/post/flag/) is flown halfway [up](/en/post/up/) [its](/en/post/its/) flagpole, typically [as](/en/post/as/) [a](/en/post/a/) [sign](/en/post/sign/) [of](/en/post/of/) mourning.
+- "[A](/post/a/) half-hour": [Thirty](/post/thirty/) minutes.
+- "[Half](/post/half/) [past](/post/past/)": [Used](/post/used/) [in](/post/in/) telling [time](/post/time/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [the](/post/the/) [minute](/post/minute/) [hand](/post/hand/) is [on](/post/on/) [the](/post/the/) [half](/post/half/) [hour](/post/hour/) [mark](/post/mark/). [Example](/post/example/): "It's [half](/post/half/) [past](/post/past/) [six](/post/six/)."
+- "Halfway": [At](/post/at/) [the](/post/the/) [middle](/post/middle/) [point](/post/point/) [between](/post/between/) [two](/post/two/) places [or](/post/or/) stages. [Example](/post/example/): "We're halfway [through](/post/through/) [the](/post/the/) [project](/post/project/)."
+- "[In](/post/in/) [half](/post/half/)": [To](/post/to/) [split](/post/split/) [or](/post/or/) [divide](/post/divide/) [something](/post/something/) [into](/post/into/) [two](/post/two/) [equal](/post/equal/) parts. [Example](/post/example/): "[Can](/post/can/) [you](/post/you/) [cut](/post/cut/) [this](/post/this/) [apple](/post/apple/) [in](/post/in/) [half](/post/half/)?"
+- "[At](/post/at/) half-mast": [When](/post/when/) [a](/post/a/) [flag](/post/flag/) is flown halfway [up](/post/up/) [its](/post/its/) flagpole, typically [as](/post/as/) [a](/post/a/) [sign](/post/sign/) [of](/post/of/) mourning.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) drank [only](/en/post/only/) [half](/en/post/half/) [of](/en/post/of/) [her](/en/post/her/) [coffee](/en/post/coffee/) [before](/en/post/before/) leaving [for](/en/post/for/) [work](/en/post/work/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [team](/en/post/team/) won [half](/en/post/half/) [of](/en/post/of/) [their](/en/post/their/) games [this](/en/post/this/) [season](/en/post/season/)."
-- **[Verb](/en/post/verb/)**: "Let's [half](/en/post/half/) [the](/en/post/the/) pizza; [you](/en/post/you/) [can](/en/post/can/) [have](/en/post/have/) [the](/en/post/the/) [side](/en/post/side/) [with](/en/post/with/) [extra](/en/post/extra/) [cheese](/en/post/cheese/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) drank [only](/post/only/) [half](/post/half/) [of](/post/of/) [her](/post/her/) [coffee](/post/coffee/) [before](/post/before/) leaving [for](/post/for/) [work](/post/work/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [team](/post/team/) won [half](/post/half/) [of](/post/of/) [their](/post/their/) games [this](/post/this/) [season](/post/season/)."
+- **[Verb](/post/verb/)**: "Let's [half](/post/half/) [the](/post/the/) pizza; [you](/post/you/) [can](/post/can/) [have](/post/have/) [the](/post/the/) [side](/post/side/) [with](/post/with/) [extra](/post/extra/) [cheese](/post/cheese/)."
 
 ## Synonyms
-- [Portion](/en/post/portion/)
-- [Fraction](/en/post/fraction/)
-- [Partial](/en/post/partial/)
-- [Share](/en/post/share/)
-- [Division](/en/post/division/)
+- [Portion](/post/portion/)
+- [Fraction](/post/fraction/)
+- [Partial](/post/partial/)
+- [Share](/post/share/)
+- [Division](/post/division/)
 - Segment
-- [Split](/en/post/split/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)) 
+- [Split](/post/split/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/)) 
 
-[Note](/en/post/note/): [As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), '[half](/en/post/half/)' is [less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [formal](/en/post/formal/) [writing](/en/post/writing/) [or](/en/post/or/) [speech](/en/post/speech/) [and](/en/post/and/) is [more](/en/post/more/) informal [or](/en/post/or/) colloquial. [In](/en/post/in/) [standard](/en/post/standard/) [usage](/en/post/usage/), verbs [like](/en/post/like/) '[divide](/en/post/divide/)', '[split](/en/post/split/)', [or](/en/post/or/) '[cut](/en/post/cut/)' are [often](/en/post/often/) preferred [to](/en/post/to/) [convey](/en/post/convey/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) making halves.
+[Note](/post/note/): [As](/post/as/) [a](/post/a/) [verb](/post/verb/), '[half](/post/half/)' is [less](/post/less/) [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [formal](/post/formal/) [writing](/post/writing/) [or](/post/or/) [speech](/post/speech/) [and](/post/and/) is [more](/post/more/) informal [or](/post/or/) colloquial. [In](/post/in/) [standard](/post/standard/) [usage](/post/usage/), verbs [like](/post/like/) '[divide](/post/divide/)', '[split](/post/split/)', [or](/post/or/) '[cut](/post/cut/)' are [often](/post/often/) preferred [to](/post/to/) [convey](/post/convey/) [the](/post/the/) [action](/post/action/) [of](/post/of/) making halves.

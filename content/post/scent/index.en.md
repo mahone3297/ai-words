@@ -7,23 +7,23 @@ description = '[sent] n.气味，香味；香水'
 keywords = ['ai words', 'scent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sent/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) distinctive odor [or](/en/post/or/) [smell](/en/post/smell/), [often](/en/post/often/) [pleasant](/en/post/pleasant/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) had [a](/en/post/a/) [lovely](/en/post/lovely/) [scent](/en/post/scent/) [of](/en/post/of/) roses."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [perceive](/en/post/perceive/) [or](/en/post/or/) [detect](/en/post/detect/) [a](/en/post/a/) [smell](/en/post/smell/); [experience](/en/post/experience/) [by](/en/post/by/) olfaction. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [could](/en/post/could/) [scent](/en/post/scent/) [the](/en/post/the/) [fresh](/en/post/fresh/) baked [bread](/en/post/bread/) [from](/en/post/from/) [the](/en/post/the/) bakery."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) odor; fragrant. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [air](/en/post/air/) had [a](/en/post/a/) subtle, floral [scent](/en/post/scent/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) distinctive odor [or](/post/or/) [smell](/post/smell/), [often](/post/often/) [pleasant](/post/pleasant/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [garden](/post/garden/) had [a](/post/a/) [lovely](/post/lovely/) [scent](/post/scent/) [of](/post/of/) roses."
+- **[Verb](/post/verb/)**: [To](/post/to/) [perceive](/post/perceive/) [or](/post/or/) [detect](/post/detect/) [a](/post/a/) [smell](/post/smell/); [experience](/post/experience/) [by](/post/by/) olfaction. [For](/post/for/) [example](/post/example/): "[She](/post/she/) [could](/post/could/) [scent](/post/scent/) [the](/post/the/) [fresh](/post/fresh/) baked [bread](/post/bread/) [from](/post/from/) [the](/post/the/) bakery."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [particular](/post/particular/) odor; fragrant. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [air](/post/air/) had [a](/post/a/) subtle, floral [scent](/post/scent/)."
 
 ## Phrases
-- "[Carry](/en/post/carry/) [a](/en/post/a/) [pleasant](/en/post/pleasant/) [scent](/en/post/scent/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) pleasing aroma.
-- "[The](/en/post/the/) [scent](/en/post/scent/) [of](/en/post/of/) lavender is known [for](/en/post/for/) [its](/en/post/its/) calming properties."
-- "Scented candles [add](/en/post/add/) [a](/en/post/a/) cozy [atmosphere](/en/post/atmosphere/) [to](/en/post/to/) [a](/en/post/a/) [room](/en/post/room/)."
+- "[Carry](/post/carry/) [a](/post/a/) [pleasant](/post/pleasant/) [scent](/post/scent/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [a](/post/a/) pleasing aroma.
+- "[The](/post/the/) [scent](/post/scent/) [of](/post/of/) lavender is known [for](/post/for/) [its](/post/its/) calming properties."
+- "Scented candles [add](/post/add/) [a](/post/a/) cozy [atmosphere](/post/atmosphere/) [to](/post/to/) [a](/post/a/) [room](/post/room/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [perfume](/en/post/perfume/) [left](/en/post/left/) [a](/en/post/a/) lingering [scent](/en/post/scent/) [on](/en/post/on/) [her](/en/post/her/) [skin](/en/post/skin/)."
-- **[Verb](/en/post/verb/)**: "I [could](/en/post/could/) [scent](/en/post/scent/) [the](/en/post/the/) [damp](/en/post/damp/) [earth](/en/post/earth/) [after](/en/post/after/) [the](/en/post/the/) [rain](/en/post/rain/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) flowers [in](/en/post/in/) [the](/en/post/the/) [garden](/en/post/garden/) were sweet-scented."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [perfume](/post/perfume/) [left](/post/left/) [a](/post/a/) lingering [scent](/post/scent/) [on](/post/on/) [her](/post/her/) [skin](/post/skin/)."
+- **[Verb](/post/verb/)**: "I [could](/post/could/) [scent](/post/scent/) [the](/post/the/) [damp](/post/damp/) [earth](/post/earth/) [after](/post/after/) [the](/post/the/) [rain](/post/rain/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) flowers [in](/post/in/) [the](/post/the/) [garden](/post/garden/) were sweet-scented."
 
 ## Synonyms
 - Fragrance
@@ -32,5 +32,5 @@ keywords = ['ai words', 'scent']
 - Whiff
 -馨香 (xīn xiāng) (Chinese)
 - Aroma (informal)
-- [Perfume](/en/post/perfume/) (referring [to](/en/post/to/) [a](/en/post/a/) [strong](/en/post/strong/) fragrance)
-- Essence (referring [to](/en/post/to/) [a](/en/post/a/) concentrated [scent](/en/post/scent/))
+- [Perfume](/post/perfume/) (referring [to](/post/to/) [a](/post/a/) [strong](/post/strong/) fragrance)
+- Essence (referring [to](/post/to/) [a](/post/a/) concentrated [scent](/post/scent/))

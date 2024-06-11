@@ -11,20 +11,20 @@ keywords = ['ai words', 'wolf']
 /wʊlf/
 
 ## 释义
-- **名词 (n)**: 一种哺乳动物，属于犬科，通常体型大，毛色灰色，以狩猎其他动物为生。例如: "[The](/post/the/) [wolf](/post/wolf/) is [a](/post/a/) [skilled](/post/skilled/) predator [in](/post/in/) [the](/post/the/) wilderness."
-- **名词 (比喻)**: 比喻贪婪或凶猛的人。例如: "He's [a](/post/a/) [wolf](/post/wolf/) [in](/post/in/) sheep's [clothing](/post/clothing/), pretending [to](/post/to/) [be](/post/be/) [kind](/post/kind/) [but](/post/but/) [actually](/post/actually/) ruthless."
+- **名词 (n)**: 一种哺乳动物，属于犬科，通常体型大，毛色灰色，以狩猎其他动物为生。例如: "[The](/zh/post/the/) [wolf](/zh/post/wolf/) is [a](/zh/post/a/) [skilled](/zh/post/skilled/) predator [in](/zh/post/in/) [the](/zh/post/the/) wilderness."
+- **名词 (比喻)**: 比喻贪婪或凶猛的人。例如: "He's [a](/zh/post/a/) [wolf](/zh/post/wolf/) [in](/zh/post/in/) sheep's [clothing](/zh/post/clothing/), pretending [to](/zh/post/to/) [be](/zh/post/be/) [kind](/zh/post/kind/) [but](/zh/post/but/) [actually](/zh/post/actually/) ruthless."
 
 ## 短语
-- "[wolf](/post/wolf/) [down](/post/down/)" 意思是迅速地吃掉（食物）。例如: "[He](/post/he/) wolfed [down](/post/down/) [his](/post/his/) [dinner](/post/dinner/) [in](/post/in/) [just](/post/just/) [a](/post/a/) [few](/post/few/) minutes."
-- "[the](/post/the/) lone [wolf](/post/wolf/)" 指独自行动的人。例如: "[She](/post/she/) prefers [to](/post/to/) [work](/post/work/) [as](/post/as/) [a](/post/a/) lone [wolf](/post/wolf/) [rather](/post/rather/) [than](/post/than/) [in](/post/in/) [a](/post/a/) [team](/post/team/)."
+- "[wolf](/zh/post/wolf/) [down](/zh/post/down/)" 意思是迅速地吃掉（食物）。例如: "[He](/zh/post/he/) wolfed [down](/zh/post/down/) [his](/zh/post/his/) [dinner](/zh/post/dinner/) [in](/zh/post/in/) [just](/zh/post/just/) [a](/zh/post/a/) [few](/zh/post/few/) minutes."
+- "[the](/zh/post/the/) lone [wolf](/zh/post/wolf/)" 指独自行动的人。例如: "[She](/zh/post/she/) prefers [to](/zh/post/to/) [work](/zh/post/work/) [as](/zh/post/as/) [a](/zh/post/a/) lone [wolf](/zh/post/wolf/) [rather](/zh/post/rather/) [than](/zh/post/than/) [in](/zh/post/in/) [a](/zh/post/a/) [team](/zh/post/team/)."
 
 ## 例句
-- 名词: "[The](/post/the/) howl [of](/post/of/) [a](/post/a/) [distant](/post/distant/) [wolf](/post/wolf/) echoed [through](/post/through/) [the](/post/the/) [forest](/post/forest/)."
-- 比喻名词: "[Watch](/post/watch/) [out](/post/out/) [for](/post/for/) [those](/post/those/) wolves [in](/post/in/) [the](/post/the/) [business](/post/business/) [world](/post/world/); they'll [take](/post/take/) [advantage](/post/advantage/) [of](/post/of/) [you](/post/you/) [if](/post/if/) you're [not](/post/not/) [careful](/post/careful/)."
+- 名词: "[The](/zh/post/the/) howl [of](/zh/post/of/) [a](/zh/post/a/) [distant](/zh/post/distant/) [wolf](/zh/post/wolf/) echoed [through](/zh/post/through/) [the](/zh/post/the/) [forest](/zh/post/forest/)."
+- 比喻名词: "[Watch](/zh/post/watch/) [out](/zh/post/out/) [for](/zh/post/for/) [those](/zh/post/those/) wolves [in](/zh/post/in/) [the](/zh/post/the/) [business](/zh/post/business/) [world](/zh/post/world/); they'll [take](/zh/post/take/) [advantage](/zh/post/advantage/) [of](/zh/post/of/) [you](/zh/post/you/) [if](/zh/post/if/) you're [not](/zh/post/not/) [careful](/zh/post/careful/)."
 
 ## 同义词
 - Canine
 - Predator
-- [Beast](/post/beast/)
+- [Beast](/zh/post/beast/)
 - Hunter
 - Fang (在比喻意义中)

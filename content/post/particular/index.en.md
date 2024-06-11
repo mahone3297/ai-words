@@ -7,42 +7,42 @@ description = '[pəˈtikjulə] a.特殊的；特定的'
 keywords = ['ai words', 'particular']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pərˈtɪkju.lər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [particular](/en/post/particular/) [thing](/en/post/thing/)**: [A](/en/post/a/) [specific](/en/post/specific/) [item](/en/post/item/) [or](/en/post/or/) [instance](/en/post/instance/) [among](/en/post/among/) others. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [very](/en/post/very/) interested [in](/en/post/in/) [that](/en/post/that/) [particular](/en/post/particular/) [painting](/en/post/painting/)."
-- **[A](/en/post/a/) [detail](/en/post/detail/)**: [Something](/en/post/something/) [specific](/en/post/specific/) [or](/en/post/or/) [unique](/en/post/unique/) [about](/en/post/about/) [a](/en/post/a/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) instructions were [clear](/en/post/clear/), [but](/en/post/but/) [he](/en/post/he/) wanted [a](/en/post/a/) [more](/en/post/more/) [particular](/en/post/particular/) [explanation](/en/post/explanation/)."
-- **[Preference](/en/post/preference/)**: [A](/en/post/a/) favored [choice](/en/post/choice/) [or](/en/post/or/) inclination. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) favorite [color](/en/post/color/) is [a](/en/post/a/) [particular](/en/post/particular/) [shade](/en/post/shade/) [of](/en/post/of/) [blue](/en/post/blue/)."
+### [Noun](/post/noun/)
+- **[A](/post/a/) [particular](/post/particular/) [thing](/post/thing/)**: [A](/post/a/) [specific](/post/specific/) [item](/post/item/) [or](/post/or/) [instance](/post/instance/) [among](/post/among/) others. [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [very](/post/very/) interested [in](/post/in/) [that](/post/that/) [particular](/post/particular/) [painting](/post/painting/)."
+- **[A](/post/a/) [detail](/post/detail/)**: [Something](/post/something/) [specific](/post/specific/) [or](/post/or/) [unique](/post/unique/) [about](/post/about/) [a](/post/a/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) instructions were [clear](/post/clear/), [but](/post/but/) [he](/post/he/) wanted [a](/post/a/) [more](/post/more/) [particular](/post/particular/) [explanation](/post/explanation/)."
+- **[Preference](/post/preference/)**: [A](/post/a/) favored [choice](/post/choice/) [or](/post/or/) inclination. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) favorite [color](/post/color/) is [a](/post/a/) [particular](/post/particular/) [shade](/post/shade/) [of](/post/of/) [blue](/post/blue/)."
 
-### [Adjective](/en/post/adjective/)
-- **[Specific](/en/post/specific/)**: Referring [to](/en/post/to/) [one](/en/post/one/) [thing](/en/post/thing/) [rather](/en/post/rather/) [than](/en/post/than/) [general](/en/post/general/). [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) [student](/en/post/student/) has [a](/en/post/a/) [particular](/en/post/particular/) [learning](/en/post/learning/) [style](/en/post/style/)."
-- **Exceptional**: Standing [out](/en/post/out/) [from](/en/post/from/) [the](/en/post/the/) [rest](/en/post/rest/) [due](/en/post/due/) [to](/en/post/to/) uniqueness. [For](/en/post/for/) [example](/en/post/example/): "[That](/en/post/that/) [restaurant](/en/post/restaurant/) offers [a](/en/post/a/) [particularly](/en/post/particularly/) [delicious](/en/post/delicious/) dessert."
-- **Detailed**: Carefully specified [or](/en/post/or/) [exact](/en/post/exact/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [report](/en/post/report/) [provided](/en/post/provided/) [particular](/en/post/particular/) [data](/en/post/data/) [on](/en/post/on/) [the](/en/post/the/) project's [progress](/en/post/progress/)."
+### [Adjective](/post/adjective/)
+- **[Specific](/post/specific/)**: Referring [to](/post/to/) [one](/post/one/) [thing](/post/thing/) [rather](/post/rather/) [than](/post/than/) [general](/post/general/). [For](/post/for/) [example](/post/example/): "[Each](/post/each/) [student](/post/student/) has [a](/post/a/) [particular](/post/particular/) [learning](/post/learning/) [style](/post/style/)."
+- **Exceptional**: Standing [out](/post/out/) [from](/post/from/) [the](/post/the/) [rest](/post/rest/) [due](/post/due/) [to](/post/to/) uniqueness. [For](/post/for/) [example](/post/example/): "[That](/post/that/) [restaurant](/post/restaurant/) offers [a](/post/a/) [particularly](/post/particularly/) [delicious](/post/delicious/) dessert."
+- **Detailed**: Carefully specified [or](/post/or/) [exact](/post/exact/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [report](/post/report/) [provided](/post/provided/) [particular](/post/particular/) [data](/post/data/) [on](/post/on/) [the](/post/the/) project's [progress](/post/progress/)."
 
-### [Adverb](/en/post/adverb/)
-- **Specifically**: [In](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [manner](/en/post/manner/) [or](/en/post/or/) [with](/en/post/with/) [special](/en/post/special/) [focus](/en/post/focus/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) thanked [him](/en/post/him/) specifically [for](/en/post/for/) [his](/en/post/his/) [help](/en/post/help/)."
-- **[Particularly](/en/post/particularly/)**: [Especially](/en/post/especially/) [or](/en/post/or/) [unusually](/en/post/unusually/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) was [particularly](/en/post/particularly/) [cold](/en/post/cold/) [that](/en/post/that/) [day](/en/post/day/)."
+### [Adverb](/post/adverb/)
+- **Specifically**: [In](/post/in/) [a](/post/a/) [particular](/post/particular/) [manner](/post/manner/) [or](/post/or/) [with](/post/with/) [special](/post/special/) [focus](/post/focus/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) thanked [him](/post/him/) specifically [for](/post/for/) [his](/post/his/) [help](/post/help/)."
+- **[Particularly](/post/particularly/)**: [Especially](/post/especially/) [or](/post/or/) [unusually](/post/unusually/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) was [particularly](/post/particularly/) [cold](/post/cold/) [that](/post/that/) [day](/post/day/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [particular](/en/post/particular/) [about](/en/post/about/)" implies [being](/en/post/being/) selective [or](/en/post/or/) choosy.
-- "[Take](/en/post/take/) [particular](/en/post/particular/) [notice](/en/post/notice/) [of](/en/post/of/)" [means](/en/post/means/) [to](/en/post/to/) [pay](/en/post/pay/) [close](/en/post/close/) [attention](/en/post/attention/) [to](/en/post/to/) [something](/en/post/something/).
-- "[Not](/en/post/not/) [everyone](/en/post/everyone/) shares [your](/en/post/your/) [particular](/en/post/particular/) views" [means](/en/post/means/) [some](/en/post/some/) [people](/en/post/people/) don't [agree](/en/post/agree/) [with](/en/post/with/) [your](/en/post/your/) [specific](/en/post/specific/) opinions.
+- "[Be](/post/be/) [particular](/post/particular/) [about](/post/about/)" implies [being](/post/being/) selective [or](/post/or/) choosy.
+- "[Take](/post/take/) [particular](/post/particular/) [notice](/post/notice/) [of](/post/of/)" [means](/post/means/) [to](/post/to/) [pay](/post/pay/) [close](/post/close/) [attention](/post/attention/) [to](/post/to/) [something](/post/something/).
+- "[Not](/post/not/) [everyone](/post/everyone/) shares [your](/post/your/) [particular](/post/particular/) views" [means](/post/means/) [some](/post/some/) [people](/post/people/) don't [agree](/post/agree/) [with](/post/with/) [your](/post/your/) [specific](/post/specific/) opinions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Each](/en/post/each/) [child](/en/post/child/) had [their](/en/post/their/) [own](/en/post/own/) [particular](/en/post/particular/) [toy](/en/post/toy/) [they](/en/post/they/) loved [to](/en/post/to/) [play](/en/post/play/) [with](/en/post/with/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) praised [her](/en/post/her/) [for](/en/post/for/) [her](/en/post/her/) [particular](/en/post/particular/) [talent](/en/post/talent/) [in](/en/post/in/) [mathematics](/en/post/mathematics/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) was [particularly](/en/post/particularly/) [grateful](/en/post/grateful/) [for](/en/post/for/) [the](/en/post/the/) [birthday](/en/post/birthday/) [gift](/en/post/gift/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Each](/post/each/) [child](/post/child/) had [their](/post/their/) [own](/post/own/) [particular](/post/particular/) [toy](/post/toy/) [they](/post/they/) loved [to](/post/to/) [play](/post/play/) [with](/post/with/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [teacher](/post/teacher/) praised [her](/post/her/) [for](/post/for/) [her](/post/her/) [particular](/post/particular/) [talent](/post/talent/) [in](/post/in/) [mathematics](/post/mathematics/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) was [particularly](/post/particularly/) [grateful](/post/grateful/) [for](/post/for/) [the](/post/the/) [birthday](/post/birthday/) [gift](/post/gift/)."
 
 ## Synonyms
-- [Specific](/en/post/specific/)
-- [Unique](/en/post/unique/)
-- [Special](/en/post/special/)
+- [Specific](/post/specific/)
+- [Unique](/post/unique/)
+- [Special](/post/special/)
 - Detailed
 - Particularized
 - Discriminating
 - Especial
-- [Individual](/en/post/individual/)
+- [Individual](/post/individual/)
 - Specificity
-- [Precision](/en/post/precision/)
+- [Precision](/post/precision/)

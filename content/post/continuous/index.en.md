@@ -7,30 +7,30 @@ description = '[kənˈtinjuəs] a.连续不断的，持续的'
 keywords = ['ai words', 'continuous']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkɒn.tɪnjuəs/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. [Without](/en/post/without/) breaks [or](/en/post/or/) interruptions; uninterrupted. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [rain](/en/post/rain/) fell continuously [all](/en/post/all/) [day](/en/post/day/)."
-- **[Adjective](/en/post/adjective/)**: 2. Characterized [by](/en/post/by/) [a](/en/post/a/) [steady](/en/post/steady/) [or](/en/post/or/) unchanging [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) singing [voice](/en/post/voice/) is [continuous](/en/post/continuous/) [and](/en/post/and/) soothing."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [continuous](/en/post/continuous/) [process](/en/post/process/) [or](/en/post/or/) [series](/en/post/series/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [conference](/en/post/conference/) consisted [of](/en/post/of/) [several](/en/post/several/) [continuous](/en/post/continuous/) sessions."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [maintain](/en/post/maintain/) [without](/en/post/without/) [interruption](/en/post/interruption/) [or](/en/post/or/) gaps. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) continuously [improve](/en/post/improve/) [our](/en/post/our/) skills."
+- **[Adjective](/post/adjective/)**: 1. [Without](/post/without/) breaks [or](/post/or/) interruptions; uninterrupted. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [rain](/post/rain/) fell continuously [all](/post/all/) [day](/post/day/)."
+- **[Adjective](/post/adjective/)**: 2. Characterized [by](/post/by/) [a](/post/a/) [steady](/post/steady/) [or](/post/or/) unchanging [state](/post/state/) [or](/post/or/) [quality](/post/quality/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) singing [voice](/post/voice/) is [continuous](/post/continuous/) [and](/post/and/) soothing."
+- **[Noun](/post/noun/)**: [A](/post/a/) [continuous](/post/continuous/) [process](/post/process/) [or](/post/or/) [series](/post/series/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [conference](/post/conference/) consisted [of](/post/of/) [several](/post/several/) [continuous](/post/continuous/) sessions."
+- **[Verb](/post/verb/)**: [To](/post/to/) [maintain](/post/maintain/) [without](/post/without/) [interruption](/post/interruption/) [or](/post/or/) gaps. [For](/post/for/) [example](/post/example/): "[We](/post/we/) [need](/post/need/) [to](/post/to/) continuously [improve](/post/improve/) [our](/post/our/) skills."
 
 ## Phrases
-- "[Maintain](/en/post/maintain/) [a](/en/post/a/) [continuous](/en/post/continuous/) [flow](/en/post/flow/)" refers [to](/en/post/to/) keeping [something](/en/post/something/) ongoing [without](/en/post/without/) stopping.
-- "[Continuous](/en/post/continuous/) [learning](/en/post/learning/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) acquiring [knowledge](/en/post/knowledge/) [and](/en/post/and/) skills [over](/en/post/over/) [time](/en/post/time/).
-- "[In](/en/post/in/) [continuous](/en/post/continuous/) [motion](/en/post/motion/)" describes [something](/en/post/something/) [that](/en/post/that/) is [always](/en/post/always/) moving [or](/en/post/or/) [active](/en/post/active/).
+- "[Maintain](/post/maintain/) [a](/post/a/) [continuous](/post/continuous/) [flow](/post/flow/)" refers [to](/post/to/) keeping [something](/post/something/) ongoing [without](/post/without/) stopping.
+- "[Continuous](/post/continuous/) [learning](/post/learning/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) acquiring [knowledge](/post/knowledge/) [and](/post/and/) skills [over](/post/over/) [time](/post/time/).
+- "[In](/post/in/) [continuous](/post/continuous/) [motion](/post/motion/)" describes [something](/post/something/) [that](/post/that/) is [always](/post/always/) moving [or](/post/or/) [active](/post/active/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [river](/en/post/river/) flowed continuously [through](/en/post/through/) [the](/en/post/the/) [valley](/en/post/valley/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) maintained [a](/en/post/a/) [continuous](/en/post/continuous/) [focus](/en/post/focus/) [on](/en/post/on/) [her](/en/post/her/) [work](/en/post/work/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [concert](/en/post/concert/) featured [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [continuous](/en/post/continuous/) performances."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) encouraged students [to](/en/post/to/) continuously [seek](/en/post/seek/) [feedback](/en/post/feedback/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [river](/post/river/) flowed continuously [through](/post/through/) [the](/post/the/) [valley](/post/valley/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) maintained [a](/post/a/) [continuous](/post/continuous/) [focus](/post/focus/) [on](/post/on/) [her](/post/her/) [work](/post/work/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [concert](/post/concert/) featured [a](/post/a/) [series](/post/series/) [of](/post/of/) [continuous](/post/continuous/) performances."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) encouraged students [to](/post/to/) continuously [seek](/post/seek/) [feedback](/post/feedback/)."
 
 ## Synonyms
 - Uninterrupted
-- [Steady](/en/post/steady/)
-- [Regular](/en/post/regular/)
+- [Steady](/post/steady/)
+- [Regular](/post/regular/)
 - Ongoing
 - Enduring
 - Persistent

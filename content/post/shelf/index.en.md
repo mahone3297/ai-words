@@ -7,40 +7,40 @@ description = '[∫elf] n.搁板，架子'
 keywords = ['ai words', 'shelf']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /shɛlf/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[shelf](/en/post/shelf/)** (n) is [a](/en/post/a/) [flat](/en/post/flat/), [usually](/en/post/usually/) [horizontal](/en/post/horizontal/) [surface](/en/post/surface/), typically made [of](/en/post/of/) [wood](/en/post/wood/), [metal](/en/post/metal/), [or](/en/post/or/) [plastic](/en/post/plastic/), mounted [on](/en/post/on/) [a](/en/post/a/) [wall](/en/post/wall/) [or](/en/post/or/) supported [by](/en/post/by/) brackets, [used](/en/post/used/) [for](/en/post/for/) storing books, objects, [or](/en/post/or/) displaying items.
+### [Noun](/post/noun/)
+[A](/post/a/) **[shelf](/post/shelf/)** (n) is [a](/post/a/) [flat](/post/flat/), [usually](/post/usually/) [horizontal](/post/horizontal/) [surface](/post/surface/), typically made [of](/post/of/) [wood](/post/wood/), [metal](/post/metal/), [or](/post/or/) [plastic](/post/plastic/), mounted [on](/post/on/) [a](/post/a/) [wall](/post/wall/) [or](/post/or/) supported [by](/post/by/) brackets, [used](/post/used/) [for](/post/for/) storing books, objects, [or](/post/or/) displaying items.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[shelf](/en/post/shelf/)** (v) [can](/en/post/can/) [mean](/en/post/mean/):
-1. [To](/en/post/to/) [place](/en/post/place/) [something](/en/post/something/) [on](/en/post/on/) [a](/en/post/a/) [shelf](/en/post/shelf/), [usually](/en/post/usually/) [for](/en/post/for/) [storage](/en/post/storage/) [or](/en/post/or/) [organization](/en/post/organization/). [Example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [shelf](/en/post/shelf/) [these](/en/post/these/) books [in](/en/post/in/) [the](/en/post/the/) [library](/en/post/library/)."
-2. [To](/en/post/to/) temporarily [set](/en/post/set/) [aside](/en/post/aside/) [or](/en/post/or/) [delay](/en/post/delay/) [a](/en/post/a/) [project](/en/post/project/), [idea](/en/post/idea/), [or](/en/post/or/) [decision](/en/post/decision/). [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [product](/en/post/product/) [launch](/en/post/launch/) has been shelved [until](/en/post/until/) [next](/en/post/next/) [year](/en/post/year/)."
+### [Verb](/post/verb/)
+[To](/post/to/) **[shelf](/post/shelf/)** (v) [can](/post/can/) [mean](/post/mean/):
+1. [To](/post/to/) [place](/post/place/) [something](/post/something/) [on](/post/on/) [a](/post/a/) [shelf](/post/shelf/), [usually](/post/usually/) [for](/post/for/) [storage](/post/storage/) [or](/post/or/) [organization](/post/organization/). [Example](/post/example/): "I [need](/post/need/) [to](/post/to/) [shelf](/post/shelf/) [these](/post/these/) books [in](/post/in/) [the](/post/the/) [library](/post/library/)."
+2. [To](/post/to/) temporarily [set](/post/set/) [aside](/post/aside/) [or](/post/or/) [delay](/post/delay/) [a](/post/a/) [project](/post/project/), [idea](/post/idea/), [or](/post/or/) [decision](/post/decision/). [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [product](/post/product/) [launch](/post/launch/) has been shelved [until](/post/until/) [next](/post/next/) [year](/post/year/)."
 
-### [Adjective](/en/post/adjective/)
-Shelf-like [or](/en/post/or/) shelf-related adjectives [describe](/en/post/describe/) [something](/en/post/something/) having [the](/en/post/the/) [appearance](/en/post/appearance/) [or](/en/post/or/) [function](/en/post/function/) [of](/en/post/of/) [a](/en/post/a/) [shelf](/en/post/shelf/). [Example](/en/post/example/): "[A](/en/post/a/) bookcase [with](/en/post/with/) [open](/en/post/open/), shelf-like compartments."
+### [Adjective](/post/adjective/)
+Shelf-like [or](/post/or/) shelf-related adjectives [describe](/post/describe/) [something](/post/something/) having [the](/post/the/) [appearance](/post/appearance/) [or](/post/or/) [function](/post/function/) [of](/post/of/) [a](/post/a/) [shelf](/post/shelf/). [Example](/post/example/): "[A](/post/a/) bookcase [with](/post/with/) [open](/post/open/), shelf-like compartments."
 
-### [Adverb](/en/post/adverb/)
-Shelf-stable refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) stored [without](/en/post/without/) spoiling [or](/en/post/or/) deteriorating [over](/en/post/over/) [time](/en/post/time/). [Example](/en/post/example/): "[These](/en/post/these/) canned [goods](/en/post/goods/) are shelf-stable."
+### [Adverb](/post/adverb/)
+Shelf-stable refers [to](/post/to/) [something](/post/something/) [that](/post/that/) [can](/post/can/) [be](/post/be/) stored [without](/post/without/) spoiling [or](/post/or/) deteriorating [over](/post/over/) [time](/post/time/). [Example](/post/example/): "[These](/post/these/) canned [goods](/post/goods/) are shelf-stable."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [it](/en/post/it/) [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/)" [means](/en/post/means/) [to](/en/post/to/) [leave](/en/post/leave/) [something](/en/post/something/) untouched [or](/en/post/or/) unexplored.
-- "[Take](/en/post/take/) [down](/en/post/down/) [the](/en/post/the/) [shelf](/en/post/shelf/)" [or](/en/post/or/) "[remove](/en/post/remove/) [the](/en/post/the/) [shelf](/en/post/shelf/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [the](/en/post/the/) [shelf](/en/post/shelf/) [off](/en/post/off/) [its](/en/post/its/) [support](/en/post/support/) [or](/en/post/or/) [location](/en/post/location/).
-- "[Fill](/en/post/fill/) [the](/en/post/the/) [shelf](/en/post/shelf/)" [means](/en/post/means/) [to](/en/post/to/) [place](/en/post/place/) items [on](/en/post/on/) [the](/en/post/the/) [shelf](/en/post/shelf/) [to](/en/post/to/) maximize [space](/en/post/space/).
+- "[Keep](/post/keep/) [it](/post/it/) [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/)" [means](/post/means/) [to](/post/to/) [leave](/post/leave/) [something](/post/something/) untouched [or](/post/or/) unexplored.
+- "[Take](/post/take/) [down](/post/down/) [the](/post/the/) [shelf](/post/shelf/)" [or](/post/or/) "[remove](/post/remove/) [the](/post/the/) [shelf](/post/shelf/)" [means](/post/means/) [to](/post/to/) [take](/post/take/) [the](/post/the/) [shelf](/post/shelf/) [off](/post/off/) [its](/post/its/) [support](/post/support/) [or](/post/or/) [location](/post/location/).
+- "[Fill](/post/fill/) [the](/post/the/) [shelf](/post/shelf/)" [means](/post/means/) [to](/post/to/) [place](/post/place/) items [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/) [to](/post/to/) maximize [space](/post/space/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) books were neatly arranged [on](/en/post/on/) [the](/en/post/the/) [wooden](/en/post/wooden/) shelves."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) unpacking, [she](/en/post/she/) decided [to](/en/post/to/) [shelf](/en/post/shelf/) [her](/en/post/her/) [old](/en/post/old/) [furniture](/en/post/furniture/) [in](/en/post/in/) [the](/en/post/the/) basement."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [kitchen](/en/post/kitchen/) had [a](/en/post/a/) stainless [steel](/en/post/steel/) [shelf](/en/post/shelf/) [above](/en/post/above/) [the](/en/post/the/) [sink](/en/post/sink/)."
-- **[Adverb](/en/post/adverb/)**: "[These](/en/post/these/) products are designed [to](/en/post/to/) [be](/en/post/be/) shelf-stable, [so](/en/post/so/) [they](/en/post/they/) [last](/en/post/last/) longer."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) books were neatly arranged [on](/post/on/) [the](/post/the/) [wooden](/post/wooden/) shelves."
+- **[Verb](/post/verb/)**: "[After](/post/after/) unpacking, [she](/post/she/) decided [to](/post/to/) [shelf](/post/shelf/) [her](/post/her/) [old](/post/old/) [furniture](/post/furniture/) [in](/post/in/) [the](/post/the/) basement."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [kitchen](/post/kitchen/) had [a](/post/a/) stainless [steel](/post/steel/) [shelf](/post/shelf/) [above](/post/above/) [the](/post/the/) [sink](/post/sink/)."
+- **[Adverb](/post/adverb/)**: "[These](/post/these/) products are designed [to](/post/to/) [be](/post/be/) shelf-stable, [so](/post/so/) [they](/post/they/) [last](/post/last/) longer."
 
 ## Synonyms
-- [Rack](/en/post/rack/)
-- [Stand](/en/post/stand/)
-- [Display](/en/post/display/) [unit](/en/post/unit/)
-- [Book](/en/post/book/) [rack](/en/post/rack/)
-- [Storage](/en/post/storage/) [unit](/en/post/unit/)
+- [Rack](/post/rack/)
+- [Stand](/post/stand/)
+- [Display](/post/display/) [unit](/post/unit/)
+- [Book](/post/book/) [rack](/post/rack/)
+- [Storage](/post/storage/) [unit](/post/unit/)
 - Tier
-- Tiered [structure](/en/post/structure/)
+- Tiered [structure](/post/structure/)

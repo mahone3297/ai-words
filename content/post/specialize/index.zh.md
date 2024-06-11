@@ -12,21 +12,21 @@ keywords = ['ai words', 'specialize']
 
 ## 释义
 - **动词**: 
-    - 专攻，专门从事（某一领域的工作或学习）。例如: "[She](/post/she/) specialized [in](/post/in/) [art](/post/art/) [history](/post/history/) [during](/post/during/) [her](/post/her/) studies."
-    - 使专业化，使成为专家。例如: "[The](/post/the/) [company](/post/company/) specializes [in](/post/in/) producing high-quality software."
+    - 专攻，专门从事（某一领域的工作或学习）。例如: "[She](/zh/post/she/) specialized [in](/zh/post/in/) [art](/zh/post/art/) [history](/zh/post/history/) [during](/zh/post/during/) [her](/zh/post/her/) studies."
+    - 使专业化，使成为专家。例如: "[The](/zh/post/the/) [company](/zh/post/company/) specializes [in](/zh/post/in/) producing high-quality software."
 
 ## 短语
-- "[Specialize](/post/specialize/) [in](/post/in/) [something](/post/something/)" 意味着在某个特定领域有深入的知识或技能。
-- "[To](/post/to/) [be](/post/be/) [a](/post/a/) [specialist](/post/specialist/)" 指的是在某一特定领域有专业知识的人。
+- "[Specialize](/zh/post/specialize/) [in](/zh/post/in/) [something](/zh/post/something/)" 意味着在某个特定领域有深入的知识或技能。
+- "[To](/zh/post/to/) [be](/zh/post/be/) [a](/zh/post/a/) [specialist](/zh/post/specialist/)" 指的是在某一特定领域有专业知识的人。
 
 ## 例句
-- "[He](/post/he/) specialized [in](/post/in/) quantum [physics](/post/physics/) [and](/post/and/) became [a](/post/a/) renowned [scientist](/post/scientist/)."
-- "[The](/post/the/) [restaurant](/post/restaurant/) specializes [in](/post/in/) Italian cuisine, offering [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) pasta dishes."
-- "[She](/post/she/) decided [to](/post/to/) [specialize](/post/specialize/) [in](/post/in/) environmental [law](/post/law/) [to](/post/to/) [help](/post/help/) [protect](/post/protect/) [the](/post/the/) [planet](/post/planet/)."
+- "[He](/zh/post/he/) specialized [in](/zh/post/in/) quantum [physics](/zh/post/physics/) [and](/zh/post/and/) became [a](/zh/post/a/) renowned [scientist](/zh/post/scientist/)."
+- "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) specializes [in](/zh/post/in/) Italian cuisine, offering [a](/zh/post/a/) [wide](/zh/post/wide/) [range](/zh/post/range/) [of](/zh/post/of/) pasta dishes."
+- "[She](/zh/post/she/) decided [to](/zh/post/to/) [specialize](/zh/post/specialize/) [in](/zh/post/in/) environmental [law](/zh/post/law/) [to](/zh/post/to/) [help](/zh/post/help/) [protect](/zh/post/protect/) [the](/zh/post/the/) [planet](/zh/post/planet/)."
 
 ## 同义词
-- [Focus](/post/focus/) [on](/post/on/)
-- [Concentrate](/post/concentrate/) [in](/post/in/)
-- [Major](/post/major/) [in](/post/in/)
-- [Be](/post/be/) proficient [in](/post/in/)
-- [Have](/post/have/) expertise [in](/post/in/)
+- [Focus](/zh/post/focus/) [on](/zh/post/on/)
+- [Concentrate](/zh/post/concentrate/) [in](/zh/post/in/)
+- [Major](/zh/post/major/) [in](/zh/post/in/)
+- [Be](/zh/post/be/) proficient [in](/zh/post/in/)
+- [Have](/zh/post/have/) expertise [in](/zh/post/in/)

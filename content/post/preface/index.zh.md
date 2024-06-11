@@ -11,20 +11,20 @@ keywords = ['ai words', 'preface']
 /priːˈfæs/
 
 ## 释义
-- **名词**: 书籍、报告或演讲等前面的引言或序言，通常介绍作者、目的或背景。例如: "[The](/post/the/) [preface](/post/preface/) [of](/post/of/) [the](/post/the/) [book](/post/book/) explains [the](/post/the/) author's motivation [for](/post/for/) [writing](/post/writing/) [it](/post/it/)."
-- **动词**: 写作或提供前言或引言。例如: "[He](/post/he/) prefaced [his](/post/his/) [speech](/post/speech/) [with](/post/with/) [a](/post/a/) [few](/post/few/) words [about](/post/about/) [his](/post/his/) [background](/post/background/)."
+- **名词**: 书籍、报告或演讲等前面的引言或序言，通常介绍作者、目的或背景。例如: "[The](/zh/post/the/) [preface](/zh/post/preface/) [of](/zh/post/of/) [the](/zh/post/the/) [book](/zh/post/book/) explains [the](/zh/post/the/) author's motivation [for](/zh/post/for/) [writing](/zh/post/writing/) [it](/zh/post/it/)."
+- **动词**: 写作或提供前言或引言。例如: "[He](/zh/post/he/) prefaced [his](/zh/post/his/) [speech](/zh/post/speech/) [with](/zh/post/with/) [a](/zh/post/a/) [few](/zh/post/few/) words [about](/zh/post/about/) [his](/zh/post/his/) [background](/zh/post/background/)."
 
 ## 短语
-- "[Preface](/post/preface/) [to](/post/to/)" 指的是某个作品或讨论的前言部分。例如: "[The](/post/the/) [preface](/post/preface/) [to](/post/to/) [the](/post/the/) [novel](/post/novel/) discusses [the](/post/the/) author's inspiration."
-- "[Preface](/post/preface/) [a](/post/a/) [statement](/post/statement/)" 意味着在陈述之前添加说明或解释。例如: "[She](/post/she/) prefaced [her](/post/her/) [comment](/post/comment/) [with](/post/with/) an [apology](/post/apology/)."
+- "[Preface](/zh/post/preface/) [to](/zh/post/to/)" 指的是某个作品或讨论的前言部分。例如: "[The](/zh/post/the/) [preface](/zh/post/preface/) [to](/zh/post/to/) [the](/zh/post/the/) [novel](/zh/post/novel/) discusses [the](/zh/post/the/) author's inspiration."
+- "[Preface](/zh/post/preface/) [a](/zh/post/a/) [statement](/zh/post/statement/)" 意味着在陈述之前添加说明或解释。例如: "[She](/zh/post/she/) prefaced [her](/zh/post/her/) [comment](/zh/post/comment/) [with](/zh/post/with/) an [apology](/zh/post/apology/)."
 
 ## 例句
-- 名词: "[In](/post/in/) [the](/post/the/) [preface](/post/preface/), [the](/post/the/) [author](/post/author/) thanks [those](/post/those/) [who](/post/who/) supported [him](/post/him/) [during](/post/during/) [the](/post/the/) [writing](/post/writing/) [process](/post/process/)."
-- 动词: "[She](/post/she/) prefaced [her](/post/her/) remarks [by](/post/by/) acknowledging [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [the](/post/the/) [issue](/post/issue/) [at](/post/at/) [hand](/post/hand/)."
+- 名词: "[In](/zh/post/in/) [the](/zh/post/the/) [preface](/zh/post/preface/), [the](/zh/post/the/) [author](/zh/post/author/) thanks [those](/zh/post/those/) [who](/zh/post/who/) supported [him](/zh/post/him/) [during](/zh/post/during/) [the](/zh/post/the/) [writing](/zh/post/writing/) [process](/zh/post/process/)."
+- 动词: "[She](/zh/post/she/) prefaced [her](/zh/post/her/) remarks [by](/zh/post/by/) acknowledging [the](/zh/post/the/) [importance](/zh/post/importance/) [of](/zh/post/of/) [the](/zh/post/the/) [issue](/zh/post/issue/) [at](/zh/post/at/) [hand](/zh/post/hand/)."
 
 ## 同义词
-- [Introduction](/post/introduction/)
+- [Introduction](/zh/post/introduction/)
 - Foreword
 - Prologue
-- [Opening](/post/opening/) remarks
-- [Preliminary](/post/preliminary/) comments
+- [Opening](/zh/post/opening/) remarks
+- [Preliminary](/zh/post/preliminary/) comments

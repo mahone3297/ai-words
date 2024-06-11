@@ -7,36 +7,36 @@ description = '[tjuːn] n.调子；和谐 vt.调谐'
 keywords = ['ai words', 'tune']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tuːn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [musical](/en/post/musical/) [arrangement](/en/post/arrangement/) [or](/en/post/or/) [composition](/en/post/composition/)** - [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) sounds [or](/en/post/or/) notes [that](/en/post/that/) [create](/en/post/create/) [a](/en/post/a/) pleasing melody, [often](/en/post/often/) associated [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [mood](/en/post/mood/) [or](/en/post/or/) [style](/en/post/style/): "[The](/en/post/the/) song's [jazz](/en/post/jazz/) [tune](/en/post/tune/) was captivating."
-2. **[A](/en/post/a/) [particular](/en/post/particular/) [sound](/en/post/sound/) [or](/en/post/or/) [style](/en/post/style/) [of](/en/post/of/) [music](/en/post/music/)** - [The](/en/post/the/) [characteristic](/en/post/characteristic/) [sound](/en/post/sound/) [of](/en/post/of/) [a](/en/post/a/) [musical](/en/post/musical/) [instrument](/en/post/instrument/) [or](/en/post/or/) [singer](/en/post/singer/): "[She](/en/post/she/) had [a](/en/post/a/) [beautiful](/en/post/beautiful/) soprano [tune](/en/post/tune/)."
-3. **[The](/en/post/the/) [pitch](/en/post/pitch/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [a](/en/post/a/) [voice](/en/post/voice/)** - [The](/en/post/the/) [way](/en/post/way/) [a](/en/post/a/) [person](/en/post/person/) speaks [or](/en/post/or/) sings, [often](/en/post/often/) referring [to](/en/post/to/) [their](/en/post/their/) [tone](/en/post/tone/): "[He](/en/post/he/) sang [with](/en/post/with/) [a](/en/post/a/) [unique](/en/post/unique/) [tune](/en/post/tune/)."
-4. **[A](/en/post/a/) [pattern](/en/post/pattern/) [or](/en/post/or/) [sequence](/en/post/sequence/)** - [In](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) [pattern](/en/post/pattern/): "[The](/en/post/the/) [furniture](/en/post/furniture/) [arrangement](/en/post/arrangement/) followed [a](/en/post/a/) [consistent](/en/post/consistent/) [tune](/en/post/tune/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [musical](/post/musical/) [arrangement](/post/arrangement/) [or](/post/or/) [composition](/post/composition/)** - [A](/post/a/) [series](/post/series/) [of](/post/of/) sounds [or](/post/or/) notes [that](/post/that/) [create](/post/create/) [a](/post/a/) pleasing melody, [often](/post/often/) associated [with](/post/with/) [a](/post/a/) [particular](/post/particular/) [mood](/post/mood/) [or](/post/or/) [style](/post/style/): "[The](/post/the/) song's [jazz](/post/jazz/) [tune](/post/tune/) was captivating."
+2. **[A](/post/a/) [particular](/post/particular/) [sound](/post/sound/) [or](/post/or/) [style](/post/style/) [of](/post/of/) [music](/post/music/)** - [The](/post/the/) [characteristic](/post/characteristic/) [sound](/post/sound/) [of](/post/of/) [a](/post/a/) [musical](/post/musical/) [instrument](/post/instrument/) [or](/post/or/) [singer](/post/singer/): "[She](/post/she/) had [a](/post/a/) [beautiful](/post/beautiful/) soprano [tune](/post/tune/)."
+3. **[The](/post/the/) [pitch](/post/pitch/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [a](/post/a/) [voice](/post/voice/)** - [The](/post/the/) [way](/post/way/) [a](/post/a/) [person](/post/person/) speaks [or](/post/or/) sings, [often](/post/often/) referring [to](/post/to/) [their](/post/their/) [tone](/post/tone/): "[He](/post/he/) sang [with](/post/with/) [a](/post/a/) [unique](/post/unique/) [tune](/post/tune/)."
+4. **[A](/post/a/) [pattern](/post/pattern/) [or](/post/or/) [sequence](/post/sequence/)** - [In](/post/in/) [a](/post/a/) [series](/post/series/) [or](/post/or/) [pattern](/post/pattern/): "[The](/post/the/) [furniture](/post/furniture/) [arrangement](/post/arrangement/) followed [a](/post/a/) [consistent](/post/consistent/) [tune](/post/tune/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [adjust](/en/post/adjust/) [or](/en/post/or/) [set](/en/post/set/) [the](/en/post/the/) [pitch](/en/post/pitch/) [of](/en/post/of/) ([a](/en/post/a/) [musical](/en/post/musical/) [instrument](/en/post/instrument/))** - "[The](/en/post/the/) pianist tuned [her](/en/post/her/) [instrument](/en/post/instrument/) [before](/en/post/before/) [the](/en/post/the/) [performance](/en/post/performance/)."
-2. **[To](/en/post/to/) [adapt](/en/post/adapt/) [or](/en/post/or/) conform [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [style](/en/post/style/) [or](/en/post/or/) [rhythm](/en/post/rhythm/)** - "[His](/en/post/his/) [writing](/en/post/writing/) [often](/en/post/often/) tunes [to](/en/post/to/) [the](/en/post/the/) [tone](/en/post/tone/) [of](/en/post/of/) [the](/en/post/the/) [story](/en/post/story/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [adjust](/post/adjust/) [or](/post/or/) [set](/post/set/) [the](/post/the/) [pitch](/post/pitch/) [of](/post/of/) ([a](/post/a/) [musical](/post/musical/) [instrument](/post/instrument/))** - "[The](/post/the/) pianist tuned [her](/post/her/) [instrument](/post/instrument/) [before](/post/before/) [the](/post/the/) [performance](/post/performance/)."
+2. **[To](/post/to/) [adapt](/post/adapt/) [or](/post/or/) conform [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [style](/post/style/) [or](/post/or/) [rhythm](/post/rhythm/)** - "[His](/post/his/) [writing](/post/writing/) [often](/post/often/) tunes [to](/post/to/) [the](/post/the/) [tone](/post/tone/) [of](/post/of/) [the](/post/the/) [story](/post/story/)."
 
 ## Phrases
-- "[Tune](/en/post/tune/) [up](/en/post/up/)" refers [to](/en/post/to/) adjusting an [instrument](/en/post/instrument/) [to](/en/post/to/) [its](/en/post/its/) optimal [sound](/en/post/sound/).
-- "[On](/en/post/on/) [a](/en/post/a/) [different](/en/post/different/) [tune](/en/post/tune/)" [means](/en/post/means/) having [a](/en/post/a/) changed [perspective](/en/post/perspective/) [or](/en/post/or/) mindset.
-- "[Out](/en/post/out/) [of](/en/post/of/) [tune](/en/post/tune/)" describes [something](/en/post/something/) [being](/en/post/being/) [not](/en/post/not/) [in](/en/post/in/) [harmony](/en/post/harmony/) [or](/en/post/or/) [agreement](/en/post/agreement/).
+- "[Tune](/post/tune/) [up](/post/up/)" refers [to](/post/to/) adjusting an [instrument](/post/instrument/) [to](/post/to/) [its](/post/its/) optimal [sound](/post/sound/).
+- "[On](/post/on/) [a](/post/a/) [different](/post/different/) [tune](/post/tune/)" [means](/post/means/) having [a](/post/a/) changed [perspective](/post/perspective/) [or](/post/or/) mindset.
+- "[Out](/post/out/) [of](/post/of/) [tune](/post/tune/)" describes [something](/post/something/) [being](/post/being/) [not](/post/not/) [in](/post/in/) [harmony](/post/harmony/) [or](/post/or/) [agreement](/post/agreement/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [orchestra](/en/post/orchestra/) played [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) tunes [from](/en/post/from/) [classical](/en/post/classical/) [to](/en/post/to/) [modern](/en/post/modern/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tuned [her](/en/post/her/) guitar [to](/en/post/to/) [match](/en/post/match/) [the](/en/post/the/) [key](/en/post/key/) [of](/en/post/of/) [the](/en/post/the/) [song](/en/post/song/)."
-- **Phrasal**: "[After](/en/post/after/) [some](/en/post/some/) [practice](/en/post/practice/), [his](/en/post/his/) singing [finally](/en/post/finally/) got [back](/en/post/back/) [in](/en/post/in/) [tune](/en/post/tune/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [orchestra](/post/orchestra/) played [a](/post/a/) [variety](/post/variety/) [of](/post/of/) tunes [from](/post/from/) [classical](/post/classical/) [to](/post/to/) [modern](/post/modern/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tuned [her](/post/her/) guitar [to](/post/to/) [match](/post/match/) [the](/post/the/) [key](/post/key/) [of](/post/of/) [the](/post/the/) [song](/post/song/)."
+- **Phrasal**: "[After](/post/after/) [some](/post/some/) [practice](/post/practice/), [his](/post/his/) singing [finally](/post/finally/) got [back](/post/back/) [in](/post/in/) [tune](/post/tune/)."
 
 ## Synonyms
 - Melody
-- [Harmony](/en/post/harmony/)
-- [Rhythm](/en/post/rhythm/)
-- [Sound](/en/post/sound/)
-- [Pitch](/en/post/pitch/)
-- [Key](/en/post/key/)
-- Tonal [quality](/en/post/quality/)
+- [Harmony](/post/harmony/)
+- [Rhythm](/post/rhythm/)
+- [Sound](/post/sound/)
+- [Pitch](/post/pitch/)
+- [Key](/post/key/)
+- Tonal [quality](/post/quality/)
 - Harmonic progression

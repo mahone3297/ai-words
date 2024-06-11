@@ -7,31 +7,31 @@ description = '[ˈmedisn] n.内服药；医学'
 keywords = ['ai words', 'medicine']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmedɪsɪn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [science](/en/post/science/) [or](/en/post/or/) [practice](/en/post/practice/) [of](/en/post/of/) diagnosing, treating, [and](/en/post/and/) preventing diseases [or](/en/post/or/) injuries using [various](/en/post/various/) methods [such](/en/post/such/) [as](/en/post/as/) drugs, [surgery](/en/post/surgery/), [and](/en/post/and/) [physical](/en/post/physical/) therapy. [Example](/en/post/example/): "[She](/en/post/she/) studied [medicine](/en/post/medicine/) [at](/en/post/at/) [the](/en/post/the/) [university](/en/post/university/) [before](/en/post/before/) becoming [a](/en/post/a/) [doctor](/en/post/doctor/)."
-   - 2. Drugs [or](/en/post/or/) [other](/en/post/other/) substances [used](/en/post/used/) [to](/en/post/to/) [treat](/en/post/treat/) [or](/en/post/or/) [prevent](/en/post/prevent/) [disease](/en/post/disease/); medication. [Example](/en/post/example/): "[The](/en/post/the/) [patient](/en/post/patient/) was prescribed [some](/en/post/some/) [pain](/en/post/pain/) [medicine](/en/post/medicine/)."
-   - 3. ([in](/en/post/in/) [alternative](/en/post/alternative/) [medicine](/en/post/medicine/)) Practices [or](/en/post/or/) treatments [that](/en/post/that/) are [not](/en/post/not/) [part](/en/post/part/) [of](/en/post/of/) [standard](/en/post/standard/) [Western](/en/post/western/) [medical](/en/post/medical/) [care](/en/post/care/) [but](/en/post/but/) are believed [by](/en/post/by/) [some](/en/post/some/) [to](/en/post/to/) [have](/en/post/have/) healing properties. [Example](/en/post/example/): "Herbal [medicine](/en/post/medicine/) has been [used](/en/post/used/) [for](/en/post/for/) centuries [to](/en/post/to/) [treat](/en/post/treat/) [various](/en/post/various/) ailments."
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [science](/post/science/) [or](/post/or/) [practice](/post/practice/) [of](/post/of/) diagnosing, treating, [and](/post/and/) preventing diseases [or](/post/or/) injuries using [various](/post/various/) methods [such](/post/such/) [as](/post/as/) drugs, [surgery](/post/surgery/), [and](/post/and/) [physical](/post/physical/) therapy. [Example](/post/example/): "[She](/post/she/) studied [medicine](/post/medicine/) [at](/post/at/) [the](/post/the/) [university](/post/university/) [before](/post/before/) becoming [a](/post/a/) [doctor](/post/doctor/)."
+   - 2. Drugs [or](/post/or/) [other](/post/other/) substances [used](/post/used/) [to](/post/to/) [treat](/post/treat/) [or](/post/or/) [prevent](/post/prevent/) [disease](/post/disease/); medication. [Example](/post/example/): "[The](/post/the/) [patient](/post/patient/) was prescribed [some](/post/some/) [pain](/post/pain/) [medicine](/post/medicine/)."
+   - 3. ([in](/post/in/) [alternative](/post/alternative/) [medicine](/post/medicine/)) Practices [or](/post/or/) treatments [that](/post/that/) are [not](/post/not/) [part](/post/part/) [of](/post/of/) [standard](/post/standard/) [Western](/post/western/) [medical](/post/medical/) [care](/post/care/) [but](/post/but/) are believed [by](/post/by/) [some](/post/some/) [to](/post/to/) [have](/post/have/) healing properties. [Example](/post/example/): "Herbal [medicine](/post/medicine/) has been [used](/post/used/) [for](/post/for/) centuries [to](/post/to/) [treat](/post/treat/) [various](/post/various/) ailments."
 
 ## Phrases
-- "[Take](/en/post/take/) [your](/en/post/your/) [medicine](/en/post/medicine/)" [means](/en/post/means/) [to](/en/post/to/) [accept](/en/post/accept/) [or](/en/post/or/) [endure](/en/post/endure/) [something](/en/post/something/) [unpleasant](/en/post/unpleasant/) [that](/en/post/that/) [one](/en/post/one/) deserves [or](/en/post/or/) needs, [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) [punishment](/en/post/punishment/) [or](/en/post/or/) [necessary](/en/post/necessary/) [treatment](/en/post/treatment/). [Example](/en/post/example/): "[After](/en/post/after/) breaking [the](/en/post/the/) rules, [he](/en/post/he/) had [to](/en/post/to/) [take](/en/post/take/) [his](/en/post/his/) [medicine](/en/post/medicine/) [and](/en/post/and/) [face](/en/post/face/) [the](/en/post/the/) consequences."
-- "[Medicine](/en/post/medicine/) [cabinet](/en/post/cabinet/)" refers [to](/en/post/to/) [a](/en/post/a/) [storage](/en/post/storage/) [place](/en/post/place/) [for](/en/post/for/) medicines [and](/en/post/and/) [first](/en/post/first/) [aid](/en/post/aid/) supplies [usually](/en/post/usually/) [found](/en/post/found/) [in](/en/post/in/) [a](/en/post/a/) [bathroom](/en/post/bathroom/).
-- "[Practice](/en/post/practice/) [of](/en/post/of/) [medicine](/en/post/medicine/)" refers [to](/en/post/to/) [the](/en/post/the/) [professional](/en/post/professional/) [activity](/en/post/activity/) [of](/en/post/of/) diagnosing [and](/en/post/and/) treating patients.
+- "[Take](/post/take/) [your](/post/your/) [medicine](/post/medicine/)" [means](/post/means/) [to](/post/to/) [accept](/post/accept/) [or](/post/or/) [endure](/post/endure/) [something](/post/something/) [unpleasant](/post/unpleasant/) [that](/post/that/) [one](/post/one/) deserves [or](/post/or/) needs, [often](/post/often/) referring [to](/post/to/) [a](/post/a/) [punishment](/post/punishment/) [or](/post/or/) [necessary](/post/necessary/) [treatment](/post/treatment/). [Example](/post/example/): "[After](/post/after/) breaking [the](/post/the/) rules, [he](/post/he/) had [to](/post/to/) [take](/post/take/) [his](/post/his/) [medicine](/post/medicine/) [and](/post/and/) [face](/post/face/) [the](/post/the/) consequences."
+- "[Medicine](/post/medicine/) [cabinet](/post/cabinet/)" refers [to](/post/to/) [a](/post/a/) [storage](/post/storage/) [place](/post/place/) [for](/post/for/) medicines [and](/post/and/) [first](/post/first/) [aid](/post/aid/) supplies [usually](/post/usually/) [found](/post/found/) [in](/post/in/) [a](/post/a/) [bathroom](/post/bathroom/).
+- "[Practice](/post/practice/) [of](/post/of/) [medicine](/post/medicine/)" refers [to](/post/to/) [the](/post/the/) [professional](/post/professional/) [activity](/post/activity/) [of](/post/of/) diagnosing [and](/post/and/) treating patients.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([traditional](/en/post/traditional/) [medicine](/en/post/medicine/))**: "[Modern](/en/post/modern/) [medicine](/en/post/medicine/) has made [significant](/en/post/significant/) strides [in](/en/post/in/) eradicating [certain](/en/post/certain/) diseases."
-- **[Noun](/en/post/noun/) (medication)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) recommended [a](/en/post/a/) [course](/en/post/course/) [of](/en/post/of/) antibiotics [as](/en/post/as/) [medicine](/en/post/medicine/) [for](/en/post/for/) [her](/en/post/her/) infection."
-- **[Noun](/en/post/noun/) ([alternative](/en/post/alternative/) [medicine](/en/post/medicine/))**: "Acupuncture is [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [traditional](/en/post/traditional/) Chinese [medicine](/en/post/medicine/) [that](/en/post/that/) involves inserting needles [into](/en/post/into/) [specific](/en/post/specific/) points [on](/en/post/on/) [the](/en/post/the/) [body](/en/post/body/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([traditional](/post/traditional/) [medicine](/post/medicine/))**: "[Modern](/post/modern/) [medicine](/post/medicine/) has made [significant](/post/significant/) strides [in](/post/in/) eradicating [certain](/post/certain/) diseases."
+- **[Noun](/post/noun/) (medication)**: "[The](/post/the/) [doctor](/post/doctor/) recommended [a](/post/a/) [course](/post/course/) [of](/post/of/) antibiotics [as](/post/as/) [medicine](/post/medicine/) [for](/post/for/) [her](/post/her/) infection."
+- **[Noun](/post/noun/) ([alternative](/post/alternative/) [medicine](/post/medicine/))**: "Acupuncture is [a](/post/a/) [form](/post/form/) [of](/post/of/) [traditional](/post/traditional/) Chinese [medicine](/post/medicine/) [that](/post/that/) involves inserting needles [into](/post/into/) [specific](/post/specific/) points [on](/post/on/) [the](/post/the/) [body](/post/body/)."
 
 ## Synonyms
 - Medication
-- [Remedy](/en/post/remedy/)
-- [Cure](/en/post/cure/)
+- [Remedy](/post/remedy/)
+- [Cure](/post/cure/)
 - Therapeutics
-- [Treatment](/en/post/treatment/)
+- [Treatment](/post/treatment/)
 - Pharmaceuticals
 - Healing Arts
-- Allopathy ([for](/en/post/for/) [conventional](/en/post/conventional/) [medicine](/en/post/medicine/))
-- Naturopathy ([for](/en/post/for/) [alternative](/en/post/alternative/) [medicine](/en/post/medicine/))
+- Allopathy ([for](/post/for/) [conventional](/post/conventional/) [medicine](/post/medicine/))
+- Naturopathy ([for](/post/for/) [alternative](/post/alternative/) [medicine](/post/medicine/))

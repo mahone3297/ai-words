@@ -7,31 +7,31 @@ description = '[ˈjuərəp] n.欧洲'
 keywords = ['ai words', 'Europe']
 +++
 
-## [Word](/en/post/word/): Europe
+## [Word](/post/word/): Europe
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈjʊrəp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [One](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [seven](/en/post/seven/) continents, located entirely [in](/en/post/in/) [the](/en/post/the/) [Northern](/en/post/northern/) Hemisphere [and](/en/post/and/) [mostly](/en/post/mostly/) [in](/en/post/in/) [the](/en/post/the/) [Western](/en/post/western/) Hemisphere, bordered [by](/en/post/by/) [the](/en/post/the/) Arctic [Ocean](/en/post/ocean/) [to](/en/post/to/) [the](/en/post/the/) [north](/en/post/north/), [the](/en/post/the/) [Atlantic](/en/post/atlantic/) [Ocean](/en/post/ocean/) [to](/en/post/to/) [the](/en/post/the/) [west](/en/post/west/), [the](/en/post/the/) Mediterranean [Sea](/en/post/sea/) [to](/en/post/to/) [the](/en/post/the/) [south](/en/post/south/), [and](/en/post/and/) [Asia](/en/post/asia/) [to](/en/post/to/) [the](/en/post/the/) [east](/en/post/east/). It's composed [of](/en/post/of/) 44 countries [and](/en/post/and/) is known [for](/en/post/for/) [its](/en/post/its/) [rich](/en/post/rich/) [history](/en/post/history/), [diverse](/en/post/diverse/) cultures, [and](/en/post/and/) [the](/en/post/the/) European [Union](/en/post/union/), [a](/en/post/a/) [political](/en/post/political/) [and](/en/post/and/) [economic](/en/post/economic/) [organization](/en/post/organization/) [of](/en/post/of/) 27 [member](/en/post/member/) states.
+- **[Noun](/post/noun/)**: [One](/post/one/) [of](/post/of/) [the](/post/the/) [seven](/post/seven/) continents, located entirely [in](/post/in/) [the](/post/the/) [Northern](/post/northern/) Hemisphere [and](/post/and/) [mostly](/post/mostly/) [in](/post/in/) [the](/post/the/) [Western](/post/western/) Hemisphere, bordered [by](/post/by/) [the](/post/the/) Arctic [Ocean](/post/ocean/) [to](/post/to/) [the](/post/the/) [north](/post/north/), [the](/post/the/) [Atlantic](/post/atlantic/) [Ocean](/post/ocean/) [to](/post/to/) [the](/post/the/) [west](/post/west/), [the](/post/the/) Mediterranean [Sea](/post/sea/) [to](/post/to/) [the](/post/the/) [south](/post/south/), [and](/post/and/) [Asia](/post/asia/) [to](/post/to/) [the](/post/the/) [east](/post/east/). It's composed [of](/post/of/) 44 countries [and](/post/and/) is known [for](/post/for/) [its](/post/its/) [rich](/post/rich/) [history](/post/history/), [diverse](/post/diverse/) cultures, [and](/post/and/) [the](/post/the/) European [Union](/post/union/), [a](/post/a/) [political](/post/political/) [and](/post/and/) [economic](/post/economic/) [organization](/post/organization/) [of](/post/of/) 27 [member](/post/member/) states.
 
 ### Examples:
-- _The Eiffel [Tower](/en/post/tower/) is an iconic landmark [in](/en/post/in/) Europe._
-- _Europe has [a](/en/post/a/) [long](/en/post/long/) [history](/en/post/history/) [of](/en/post/of/) [art](/en/post/art/), [music](/en/post/music/), [and](/en/post/and/) [scientific](/en/post/scientific/) achievements._
-- _Many [ancient](/en/post/ancient/) civilizations thrived [across](/en/post/across/) [the](/en/post/the/) [continent](/en/post/continent/) [of](/en/post/of/) Europe._
+- _The Eiffel [Tower](/post/tower/) is an iconic landmark [in](/post/in/) Europe._
+- _Europe has [a](/post/a/) [long](/post/long/) [history](/post/history/) [of](/post/of/) [art](/post/art/), [music](/post/music/), [and](/post/and/) [scientific](/post/scientific/) achievements._
+- _Many [ancient](/post/ancient/) civilizations thrived [across](/post/across/) [the](/post/the/) [continent](/post/continent/) [of](/post/of/) Europe._
 
 ## Phrases
-- "[In](/en/post/in/) Europe": Refers [to](/en/post/to/) [the](/en/post/the/) geographical [location](/en/post/location/) [or](/en/post/or/) context [within](/en/post/within/) [the](/en/post/the/) [continent](/en/post/continent/).
-- "European [Union](/en/post/union/) (EU)": An [economic](/en/post/economic/) [and](/en/post/and/) [political](/en/post/political/) [union](/en/post/union/) [of](/en/post/of/) European countries [that](/en/post/that/) operates [through](/en/post/through/) [a](/en/post/a/) [system](/en/post/system/) [of](/en/post/of/) supranational institutions [and](/en/post/and/) intergovernmental decision-making.
-- "[Old](/en/post/old/) [World](/en/post/world/)": [A](/en/post/a/) [historical](/en/post/historical/) [term](/en/post/term/) [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) collectively [refer](/en/post/refer/) [to](/en/post/to/) [Africa](/en/post/africa/), [Asia](/en/post/asia/), [and](/en/post/and/) Europe, [which](/en/post/which/) were known [to](/en/post/to/) [classical](/en/post/classical/) antiquity [and](/en/post/and/) contrasted [with](/en/post/with/) [the](/en/post/the/) "[New](/en/post/new/) [World](/en/post/world/)" [of](/en/post/of/) [the](/en/post/the/) Americas.
+- "[In](/post/in/) Europe": Refers [to](/post/to/) [the](/post/the/) geographical [location](/post/location/) [or](/post/or/) context [within](/post/within/) [the](/post/the/) [continent](/post/continent/).
+- "European [Union](/post/union/) (EU)": An [economic](/post/economic/) [and](/post/and/) [political](/post/political/) [union](/post/union/) [of](/post/of/) European countries [that](/post/that/) operates [through](/post/through/) [a](/post/a/) [system](/post/system/) [of](/post/of/) supranational institutions [and](/post/and/) intergovernmental decision-making.
+- "[Old](/post/old/) [World](/post/world/)": [A](/post/a/) [historical](/post/historical/) [term](/post/term/) [often](/post/often/) [used](/post/used/) [to](/post/to/) collectively [refer](/post/refer/) [to](/post/to/) [Africa](/post/africa/), [Asia](/post/asia/), [and](/post/and/) Europe, [which](/post/which/) were known [to](/post/to/) [classical](/post/classical/) antiquity [and](/post/and/) contrasted [with](/post/with/) [the](/post/the/) "[New](/post/new/) [World](/post/world/)" [of](/post/of/) [the](/post/the/) Americas.
 
-## [Example](/en/post/example/) Sentences
-- _Europe has [a](/en/post/a/) [strong](/en/post/strong/) [tradition](/en/post/tradition/) [of](/en/post/of/) higher [education](/en/post/education/), [with](/en/post/with/) [some](/en/post/some/) [of](/en/post/of/) [the](/en/post/the/) oldest universities [in](/en/post/in/) [the](/en/post/the/) [world](/en/post/world/)._
-- _Travelling [across](/en/post/across/) Europe allows [one](/en/post/one/) [to](/en/post/to/) [experience](/en/post/experience/) [a](/en/post/a/) multitude [of](/en/post/of/) languages [and](/en/post/and/) cultures._
-- _As [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) European [Union](/en/post/union/), [these](/en/post/these/) countries [share](/en/post/share/) [a](/en/post/a/) [common](/en/post/common/) currency, [the](/en/post/the/) Euro._
+## [Example](/post/example/) Sentences
+- _Europe has [a](/post/a/) [strong](/post/strong/) [tradition](/post/tradition/) [of](/post/of/) higher [education](/post/education/), [with](/post/with/) [some](/post/some/) [of](/post/of/) [the](/post/the/) oldest universities [in](/post/in/) [the](/post/the/) [world](/post/world/)._
+- _Travelling [across](/post/across/) Europe allows [one](/post/one/) [to](/post/to/) [experience](/post/experience/) [a](/post/a/) multitude [of](/post/of/) languages [and](/post/and/) cultures._
+- _As [part](/post/part/) [of](/post/of/) [the](/post/the/) European [Union](/post/union/), [these](/post/these/) countries [share](/post/share/) [a](/post/a/) [common](/post/common/) currency, [the](/post/the/) Euro._
 
 ## Synonyms
-- [The](/en/post/the/) [Continent](/en/post/continent/) (informal)
-- EU ([when](/en/post/when/) referring specifically [to](/en/post/to/) [the](/en/post/the/) European [Union](/en/post/union/))
+- [The](/post/the/) [Continent](/post/continent/) (informal)
+- EU ([when](/post/when/) referring specifically [to](/post/to/) [the](/post/the/) European [Union](/post/union/))
 - European landmass
-- European [region](/en/post/region/)
+- European [region](/post/region/)

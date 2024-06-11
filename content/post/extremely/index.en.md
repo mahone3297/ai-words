@@ -7,32 +7,32 @@ description = '[iksˈtriːmli] ad.极端，极其，非常'
 keywords = ['ai words', 'extremely']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈstrimli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) an [extreme](/en/post/extreme/) [degree](/en/post/degree/); [very](/en/post/very/) [much](/en/post/much/) [so](/en/post/so/). [It](/en/post/it/) modifies adjectives [and](/en/post/and/) adverbs, expressing [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) [intensity](/en/post/intensity/).
+- **[Adverb](/post/adverb/)**: [To](/post/to/) an [extreme](/post/extreme/) [degree](/post/degree/); [very](/post/very/) [much](/post/much/) [so](/post/so/). [It](/post/it/) modifies adjectives [and](/post/and/) adverbs, expressing [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) [intensity](/post/intensity/).
 
-[Example](/en/post/example/) [usage](/en/post/usage/):
-- **[Adverb](/en/post/adverb/) modifying an [adjective](/en/post/adjective/)**: "[She](/en/post/she/) was [extremely](/en/post/extremely/) [happy](/en/post/happy/) [with](/en/post/with/) [her](/en/post/her/) results."
-- **[Adverb](/en/post/adverb/) modifying [another](/en/post/another/) [adverb](/en/post/adverb/)**: "[He](/en/post/he/) ran [extremely](/en/post/extremely/) [quickly](/en/post/quickly/) [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [bus](/en/post/bus/)."
+[Example](/post/example/) [usage](/post/usage/):
+- **[Adverb](/post/adverb/) modifying an [adjective](/post/adjective/)**: "[She](/post/she/) was [extremely](/post/extremely/) [happy](/post/happy/) [with](/post/with/) [her](/post/her/) results."
+- **[Adverb](/post/adverb/) modifying [another](/post/another/) [adverb](/post/adverb/)**: "[He](/post/he/) ran [extremely](/post/extremely/) [quickly](/post/quickly/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [bus](/post/bus/)."
 
 ## Phrases
-- "[Extremely](/en/post/extremely/) [important](/en/post/important/)": Describing [something](/en/post/something/) [that](/en/post/that/) holds [utmost](/en/post/utmost/) [significance](/en/post/significance/).
-- "[Extremely](/en/post/extremely/) [unlikely](/en/post/unlikely/)": Expressing [that](/en/post/that/) [something](/en/post/something/) has [a](/en/post/a/) [very](/en/post/very/) [low](/en/post/low/) [probability](/en/post/probability/) [of](/en/post/of/) occurring.
-- "[Extremely](/en/post/extremely/) [well](/en/post/well/)": Referring [to](/en/post/to/) [outstanding](/en/post/outstanding/) [performance](/en/post/performance/) [or](/en/post/or/) accomplishment.
+- "[Extremely](/post/extremely/) [important](/post/important/)": Describing [something](/post/something/) [that](/post/that/) holds [utmost](/post/utmost/) [significance](/post/significance/).
+- "[Extremely](/post/extremely/) [unlikely](/post/unlikely/)": Expressing [that](/post/that/) [something](/post/something/) has [a](/post/a/) [very](/post/very/) [low](/post/low/) [probability](/post/probability/) [of](/post/of/) occurring.
+- "[Extremely](/post/extremely/) [well](/post/well/)": Referring [to](/post/to/) [outstanding](/post/outstanding/) [performance](/post/performance/) [or](/post/or/) accomplishment.
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: 
-  - "[The](/en/post/the/) [weather](/en/post/weather/) [today](/en/post/today/) is [extremely](/en/post/extremely/) [hot](/en/post/hot/)."
-  - "[She](/en/post/she/) speaks Spanish [extremely](/en/post/extremely/) fluently."
-  - "[This](/en/post/this/) [deal](/en/post/deal/) is [extremely](/en/post/extremely/) advantageous [for](/en/post/for/) [our](/en/post/our/) [company](/en/post/company/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: 
+  - "[The](/post/the/) [weather](/post/weather/) [today](/post/today/) is [extremely](/post/extremely/) [hot](/post/hot/)."
+  - "[She](/post/she/) speaks Spanish [extremely](/post/extremely/) fluently."
+  - "[This](/post/this/) [deal](/post/deal/) is [extremely](/post/extremely/) advantageous [for](/post/for/) [our](/post/our/) [company](/post/company/)."
 
 ## Synonyms
-- [Highly](/en/post/highly/)
-- [Greatly](/en/post/greatly/)
+- [Highly](/post/highly/)
+- [Greatly](/post/greatly/)
 - Tremendously
-- [Exceedingly](/en/post/exceedingly/)
+- [Exceedingly](/post/exceedingly/)
 - Incredibly
 - Remarkably
 - Vastly
@@ -40,4 +40,4 @@ keywords = ['ai words', 'extremely']
 - Thoroughly
 - Acutely
 
-[Note](/en/post/note/): [While](/en/post/while/) "[extremely](/en/post/extremely/)" is [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/), [it](/en/post/it/) does [not](/en/post/not/) [have](/en/post/have/) [a](/en/post/a/) [distinct](/en/post/distinct/) part-of-speech [classification](/en/post/classification/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [verb](/en/post/verb/), [adjective](/en/post/adjective/), etc., [as](/en/post/as/) [it](/en/post/it/) [solely](/en/post/solely/) functions [to](/en/post/to/) [modify](/en/post/modify/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) higher [degree](/en/post/degree/) [of](/en/post/of/) [their](/en/post/their/) qualities.
+[Note](/post/note/): [While](/post/while/) "[extremely](/post/extremely/)" is [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/), [it](/post/it/) does [not](/post/not/) [have](/post/have/) [a](/post/a/) [distinct](/post/distinct/) part-of-speech [classification](/post/classification/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [verb](/post/verb/), [adjective](/post/adjective/), etc., [as](/post/as/) [it](/post/it/) [solely](/post/solely/) functions [to](/post/to/) [modify](/post/modify/) [other](/post/other/) parts [of](/post/of/) [speech](/post/speech/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) higher [degree](/post/degree/) [of](/post/of/) [their](/post/their/) qualities.

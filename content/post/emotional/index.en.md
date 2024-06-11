@@ -7,29 +7,29 @@ description = '[iˈməu∫ənl] a.感情的，情绪的'
 keywords = ['ai words', 'emotional']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈməʊʃənl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) emotions; feelings [rather](/en/post/rather/) [than](/en/post/than/) [reason](/en/post/reason/) [or](/en/post/or/) [thought](/en/post/thought/). [It](/en/post/it/) describes [something](/en/post/something/) [that](/en/post/that/) arises [from](/en/post/from/) [or](/en/post/or/) is influenced [by](/en/post/by/) one's emotions. 
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) emotions; feelings [rather](/post/rather/) [than](/post/than/) [reason](/post/reason/) [or](/post/or/) [thought](/post/thought/). [It](/post/it/) describes [something](/post/something/) [that](/post/that/) arises [from](/post/from/) [or](/post/or/) is influenced [by](/post/by/) one's emotions. 
 
-  - _Example:_ "[She](/en/post/she/) gave an [emotional](/en/post/emotional/) [speech](/en/post/speech/) [that](/en/post/that/) moved [many](/en/post/many/) [in](/en/post/in/) [the](/en/post/the/) [audience](/en/post/audience/) [to](/en/post/to/) tears."
-- **[Noun](/en/post/noun/) ([less](/en/post/less/) [common](/en/post/common/))**: An [emotional](/en/post/emotional/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/); [a](/en/post/a/) [reference](/en/post/reference/) [to](/en/post/to/) [a](/en/post/a/) [strong](/en/post/strong/) [feeling](/en/post/feeling/) [or](/en/post/or/) [emotional](/en/post/emotional/) [state](/en/post/state/). 
-  - _Example:_ "[The](/en/post/the/) [film](/en/post/film/) was [a](/en/post/a/) rollercoaster [of](/en/post/of/) emotions, [with](/en/post/with/) [several](/en/post/several/) [intense](/en/post/intense/) [emotional](/en/post/emotional/) moments."
+  - _Example:_ "[She](/post/she/) gave an [emotional](/post/emotional/) [speech](/post/speech/) [that](/post/that/) moved [many](/post/many/) [in](/post/in/) [the](/post/the/) [audience](/post/audience/) [to](/post/to/) tears."
+- **[Noun](/post/noun/) ([less](/post/less/) [common](/post/common/))**: An [emotional](/post/emotional/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/); [a](/post/a/) [reference](/post/reference/) [to](/post/to/) [a](/post/a/) [strong](/post/strong/) [feeling](/post/feeling/) [or](/post/or/) [emotional](/post/emotional/) [state](/post/state/). 
+  - _Example:_ "[The](/post/the/) [film](/post/film/) was [a](/post/a/) rollercoaster [of](/post/of/) emotions, [with](/post/with/) [several](/post/several/) [intense](/post/intense/) [emotional](/post/emotional/) moments."
 
 ## Phrases
-- "[In](/en/post/in/) an [emotional](/en/post/emotional/) outburst": Describes [a](/en/post/a/) [sudden](/en/post/sudden/), [intense](/en/post/intense/) [display](/en/post/display/) [of](/en/post/of/) [emotion](/en/post/emotion/).
-- "[Emotional](/en/post/emotional/) [support](/en/post/support/)": [The](/en/post/the/) [kind](/en/post/kind/) [of](/en/post/of/) [help](/en/post/help/) [provided](/en/post/provided/) [to](/en/post/to/) [someone](/en/post/someone/) [through](/en/post/through/) [understanding](/en/post/understanding/), empathy, [and](/en/post/and/) encouragement [during](/en/post/during/) [difficult](/en/post/difficult/) times.
-- "[Emotional](/en/post/emotional/) [intelligence](/en/post/intelligence/)": [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [identify](/en/post/identify/), [understand](/en/post/understand/), [and](/en/post/and/) [manage](/en/post/manage/) one's [own](/en/post/own/) emotions, [as](/en/post/as/) [well](/en/post/well/) [as](/en/post/as/) [the](/en/post/the/) emotions [of](/en/post/of/) others.
+- "[In](/post/in/) an [emotional](/post/emotional/) outburst": Describes [a](/post/a/) [sudden](/post/sudden/), [intense](/post/intense/) [display](/post/display/) [of](/post/of/) [emotion](/post/emotion/).
+- "[Emotional](/post/emotional/) [support](/post/support/)": [The](/post/the/) [kind](/post/kind/) [of](/post/of/) [help](/post/help/) [provided](/post/provided/) [to](/post/to/) [someone](/post/someone/) [through](/post/through/) [understanding](/post/understanding/), empathy, [and](/post/and/) encouragement [during](/post/during/) [difficult](/post/difficult/) times.
+- "[Emotional](/post/emotional/) [intelligence](/post/intelligence/)": [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [identify](/post/identify/), [understand](/post/understand/), [and](/post/and/) [manage](/post/manage/) one's [own](/post/own/) emotions, [as](/post/as/) [well](/post/well/) [as](/post/as/) [the](/post/the/) emotions [of](/post/of/) others.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) breakup [scene](/en/post/scene/) was [the](/en/post/the/) [most](/en/post/most/) [emotional](/en/post/emotional/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [movie](/en/post/movie/)."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [emotional](/en/post/emotional/) [response](/en/post/response/) [to](/en/post/to/) [the](/en/post/the/) [news](/en/post/news/) surprised [everyone](/en/post/everyone/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) breakup [scene](/post/scene/) was [the](/post/the/) [most](/post/most/) [emotional](/post/emotional/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [movie](/post/movie/)."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [emotional](/post/emotional/) [response](/post/response/) [to](/post/to/) [the](/post/the/) [news](/post/news/) surprised [everyone](/post/everyone/)."
 
 ## Synonyms
 - Sentimental
 - Passionate
-- [Sensitive](/en/post/sensitive/)
+- [Sensitive](/post/sensitive/)
 - Feelingful
 - Heartfelt
 - Tearful
@@ -37,4 +37,4 @@ keywords = ['ai words', 'emotional']
 - Touching
 - Affecting
 
-[Note](/en/post/note/): [As](/en/post/as/) an [adjective](/en/post/adjective/), "[emotional](/en/post/emotional/)" [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) evokes [strong](/en/post/strong/) emotions [in](/en/post/in/) [people](/en/post/people/), e.g., "an [emotional](/en/post/emotional/) [song](/en/post/song/)" [or](/en/post/or/) "an [emotional](/en/post/emotional/) [moment](/en/post/moment/)".
+[Note](/post/note/): [As](/post/as/) an [adjective](/post/adjective/), "[emotional](/post/emotional/)" [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) evokes [strong](/post/strong/) emotions [in](/post/in/) [people](/post/people/), e.g., "an [emotional](/post/emotional/) [song](/post/song/)" [or](/post/or/) "an [emotional](/post/emotional/) [moment](/post/moment/)".

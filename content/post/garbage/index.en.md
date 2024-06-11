@@ -7,32 +7,32 @@ description = '[ˈgɑːbidʒ] n.垃圾，污物，废料'
 keywords = ['ai words', 'garbage']
 +++
 
-## [Word](/en/post/word/): [Garbage](/en/post/garbage/)
+## [Word](/post/word/): [Garbage](/post/garbage/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡɑːrbɪdʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (1) [Waste](/en/post/waste/) [material](/en/post/material/), typically consisting [of](/en/post/of/) [household](/en/post/household/) [refuse](/en/post/refuse/), [that](/en/post/that/) is discarded [as](/en/post/as/) [useless](/en/post/useless/) [or](/en/post/or/) unwanted. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garbage](/en/post/garbage/) [truck](/en/post/truck/) comes [every](/en/post/every/) Tuesday [to](/en/post/to/) [collect](/en/post/collect/) [our](/en/post/our/) trash."
-   - (2) [Something](/en/post/something/) regarded [as](/en/post/as/) [worthless](/en/post/worthless/), meaningless, [or](/en/post/or/) contemptible; [rubbish](/en/post/rubbish/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) theories [about](/en/post/about/) [time](/en/post/time/) [travel](/en/post/travel/) are [just](/en/post/just/) [garbage](/en/post/garbage/)."
+- **[Noun](/post/noun/)**: (1) [Waste](/post/waste/) [material](/post/material/), typically consisting [of](/post/of/) [household](/post/household/) [refuse](/post/refuse/), [that](/post/that/) is discarded [as](/post/as/) [useless](/post/useless/) [or](/post/or/) unwanted. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [garbage](/post/garbage/) [truck](/post/truck/) comes [every](/post/every/) Tuesday [to](/post/to/) [collect](/post/collect/) [our](/post/our/) trash."
+   - (2) [Something](/post/something/) regarded [as](/post/as/) [worthless](/post/worthless/), meaningless, [or](/post/or/) contemptible; [rubbish](/post/rubbish/). [For](/post/for/) [example](/post/example/): "[His](/post/his/) theories [about](/post/about/) [time](/post/time/) [travel](/post/travel/) are [just](/post/just/) [garbage](/post/garbage/)."
 
 ## Phrases
-- "[Take](/en/post/take/) [out](/en/post/out/) [the](/en/post/the/) [garbage](/en/post/garbage/)": [This](/en/post/this/) [means](/en/post/means/) [to](/en/post/to/) [remove](/en/post/remove/) [household](/en/post/household/) [waste](/en/post/waste/) [from](/en/post/from/) [inside](/en/post/inside/) [the](/en/post/the/) [house](/en/post/house/) [and](/en/post/and/) [put](/en/post/put/) [it](/en/post/it/) [in](/en/post/in/) [a](/en/post/a/) designated [area](/en/post/area/) [for](/en/post/for/) [collection](/en/post/collection/).
-- "[Garbage](/en/post/garbage/) [in](/en/post/in/), [garbage](/en/post/garbage/) [out](/en/post/out/)": [A](/en/post/a/) computing [principle](/en/post/principle/) stating [that](/en/post/that/) flawed [input](/en/post/input/) [will](/en/post/will/) [result](/en/post/result/) [in](/en/post/in/) flawed [output](/en/post/output/); [also](/en/post/also/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [how](/en/post/how/) [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [information](/en/post/information/) produced depends [on](/en/post/on/) [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [information](/en/post/information/) [provided](/en/post/provided/).
-- "Don't [throw](/en/post/throw/) [the](/en/post/the/) [baby](/en/post/baby/) [out](/en/post/out/) [with](/en/post/with/) [the](/en/post/the/) bathwater": An idiomatic [expression](/en/post/expression/) warning [against](/en/post/against/) discarding [valuable](/en/post/valuable/) things [while](/en/post/while/) getting [rid](/en/post/rid/) [of](/en/post/of/) unwanted things, [similar](/en/post/similar/) [to](/en/post/to/) [not](/en/post/not/) throwing [away](/en/post/away/) [useful](/en/post/useful/) items [in](/en/post/in/) [the](/en/post/the/) [garbage](/en/post/garbage/) accidentally.
+- "[Take](/post/take/) [out](/post/out/) [the](/post/the/) [garbage](/post/garbage/)": [This](/post/this/) [means](/post/means/) [to](/post/to/) [remove](/post/remove/) [household](/post/household/) [waste](/post/waste/) [from](/post/from/) [inside](/post/inside/) [the](/post/the/) [house](/post/house/) [and](/post/and/) [put](/post/put/) [it](/post/it/) [in](/post/in/) [a](/post/a/) designated [area](/post/area/) [for](/post/for/) [collection](/post/collection/).
+- "[Garbage](/post/garbage/) [in](/post/in/), [garbage](/post/garbage/) [out](/post/out/)": [A](/post/a/) computing [principle](/post/principle/) stating [that](/post/that/) flawed [input](/post/input/) [will](/post/will/) [result](/post/result/) [in](/post/in/) flawed [output](/post/output/); [also](/post/also/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [how](/post/how/) [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [information](/post/information/) produced depends [on](/post/on/) [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [information](/post/information/) [provided](/post/provided/).
+- "Don't [throw](/post/throw/) [the](/post/the/) [baby](/post/baby/) [out](/post/out/) [with](/post/with/) [the](/post/the/) bathwater": An idiomatic [expression](/post/expression/) warning [against](/post/against/) discarding [valuable](/post/valuable/) things [while](/post/while/) getting [rid](/post/rid/) [of](/post/of/) unwanted things, [similar](/post/similar/) [to](/post/to/) [not](/post/not/) throwing [away](/post/away/) [useful](/post/useful/) items [in](/post/in/) [the](/post/the/) [garbage](/post/garbage/) accidentally.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([refuse](/en/post/refuse/))**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [separate](/en/post/separate/) recyclables [from](/en/post/from/) [the](/en/post/the/) [rest](/en/post/rest/) [of](/en/post/of/) [the](/en/post/the/) [garbage](/en/post/garbage/) [before](/en/post/before/) [disposal](/en/post/disposal/)."
-- **[Noun](/en/post/noun/) ([worthless](/en/post/worthless/) [matter](/en/post/matter/))**: "[The](/en/post/the/) [novel](/en/post/novel/) was filled [with](/en/post/with/) [so](/en/post/so/) [much](/en/post/much/) [unnecessary](/en/post/unnecessary/) [detail](/en/post/detail/); [it](/en/post/it/) felt [like](/en/post/like/) wading [through](/en/post/through/) [garbage](/en/post/garbage/) [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [plot](/en/post/plot/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([refuse](/post/refuse/))**: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [separate](/post/separate/) recyclables [from](/post/from/) [the](/post/the/) [rest](/post/rest/) [of](/post/of/) [the](/post/the/) [garbage](/post/garbage/) [before](/post/before/) [disposal](/post/disposal/)."
+- **[Noun](/post/noun/) ([worthless](/post/worthless/) [matter](/post/matter/))**: "[The](/post/the/) [novel](/post/novel/) was filled [with](/post/with/) [so](/post/so/) [much](/post/much/) [unnecessary](/post/unnecessary/) [detail](/post/detail/); [it](/post/it/) felt [like](/post/like/) wading [through](/post/through/) [garbage](/post/garbage/) [to](/post/to/) [find](/post/find/) [the](/post/the/) [plot](/post/plot/)."
   
 ## Synonyms
-- [Rubbish](/en/post/rubbish/)
+- [Rubbish](/post/rubbish/)
 - Trash
-- [Waste](/en/post/waste/)
-- [Refuse](/en/post/refuse/)
+- [Waste](/post/waste/)
+- [Refuse](/post/refuse/)
 - Junk
 - Debris
 - Discards
 - Litter
-- [Spoil](/en/post/spoil/)
-- Offal ([for](/en/post/for/) [food](/en/post/food/) [waste](/en/post/waste/))
+- [Spoil](/post/spoil/)
+- Offal ([for](/post/for/) [food](/post/food/) [waste](/post/waste/))

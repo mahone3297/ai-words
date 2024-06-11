@@ -11,23 +11,23 @@ keywords = ['ai words', 'smile']
 /smaɪl/
 
 ## 释义
-- **名词**: 人脸上的快乐或友善的表情，通常表示高兴或满意。例如: "[She](/post/she/) had [a](/post/a/) [beautiful](/post/beautiful/) [smile](/post/smile/) [on](/post/on/) [her](/post/her/) [face](/post/face/)."
-- **动词**: 以微笑的方式表达愉快或友善。例如: "[He](/post/he/) smiled [when](/post/when/) [he](/post/he/) [saw](/post/saw/) [his](/post/his/) [friend](/post/friend/) approaching."
-- **形容词**: 形容事物带有笑容或令人愉悦的。例如: "[The](/post/the/) [baby](/post/baby/) has [a](/post/a/) [smile](/post/smile/) [that](/post/that/) lights [up](/post/up/) [the](/post/the/) [room](/post/room/)."
+- **名词**: 人脸上的快乐或友善的表情，通常表示高兴或满意。例如: "[She](/zh/post/she/) had [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [smile](/zh/post/smile/) [on](/zh/post/on/) [her](/zh/post/her/) [face](/zh/post/face/)."
+- **动词**: 以微笑的方式表达愉快或友善。例如: "[He](/zh/post/he/) smiled [when](/zh/post/when/) [he](/zh/post/he/) [saw](/zh/post/saw/) [his](/zh/post/his/) [friend](/zh/post/friend/) approaching."
+- **形容词**: 形容事物带有笑容或令人愉悦的。例如: "[The](/zh/post/the/) [baby](/zh/post/baby/) has [a](/zh/post/a/) [smile](/zh/post/smile/) [that](/zh/post/that/) lights [up](/zh/post/up/) [the](/zh/post/the/) [room](/zh/post/room/)."
 
 ## 短语
-- "[Smile](/post/smile/) [back](/post/back/)" 回以微笑。
-- "[A](/post/a/) [smile](/post/smile/) is contagious" 笑容具有传染力。
-- "[To](/post/to/) [smile](/post/smile/) [through](/post/through/) tears" 泪水中带着微笑。
+- "[Smile](/zh/post/smile/) [back](/zh/post/back/)" 回以微笑。
+- "[A](/zh/post/a/) [smile](/zh/post/smile/) is contagious" 笑容具有传染力。
+- "[To](/zh/post/to/) [smile](/zh/post/smile/) [through](/zh/post/through/) tears" 泪水中带着微笑。
 
 ## 例句
-- 名词: "[Her](/post/her/) [smile](/post/smile/) was [so](/post/so/) infectious [that](/post/that/) [it](/post/it/) made [everyone](/post/everyone/) [feel](/post/feel/) [happy](/post/happy/)."
-- 动词: "[He](/post/he/) smiled warmly [as](/post/as/) [he](/post/he/) greeted [his](/post/his/) [old](/post/old/) [friend](/post/friend/)."
-- 形容词: "[The](/post/the/) [customer](/post/customer/) [service](/post/service/) [representative](/post/representative/) was [very](/post/very/) [smile](/post/smile/) [and](/post/and/) [helpful](/post/helpful/)."
+- 名词: "[Her](/zh/post/her/) [smile](/zh/post/smile/) was [so](/zh/post/so/) infectious [that](/zh/post/that/) [it](/zh/post/it/) made [everyone](/zh/post/everyone/) [feel](/zh/post/feel/) [happy](/zh/post/happy/)."
+- 动词: "[He](/zh/post/he/) smiled warmly [as](/zh/post/as/) [he](/zh/post/he/) greeted [his](/zh/post/his/) [old](/zh/post/old/) [friend](/zh/post/friend/)."
+- 形容词: "[The](/zh/post/the/) [customer](/zh/post/customer/) [service](/zh/post/service/) [representative](/zh/post/representative/) was [very](/zh/post/very/) [smile](/zh/post/smile/) [and](/zh/post/and/) [helpful](/zh/post/helpful/)."
 
 ## 同义词
 - Grin
 - Chuckle
-- [Beam](/post/beam/)
+- [Beam](/zh/post/beam/)
 - Giggle
 - smirk

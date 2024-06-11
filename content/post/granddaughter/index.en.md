@@ -7,32 +7,32 @@ description = '[ˈgrændɔːtə(r)] n.孙女，外孙女'
 keywords = ['ai words', 'granddaughter']
 +++
 
-## [Word](/en/post/word/): [Granddaughter](/en/post/granddaughter/)
+## [Word](/post/word/): [Granddaughter](/post/granddaughter/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɡræn.dɑːtərdɔːt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [female](/en/post/female/) descendant [of](/en/post/of/) one's [child](/en/post/child/); [the](/en/post/the/) [daughter](/en/post/daughter/) [of](/en/post/of/) one's [son](/en/post/son/) [or](/en/post/or/) [daughter](/en/post/daughter/). 
+- **[Noun](/post/noun/)**: [A](/post/a/) [female](/post/female/) descendant [of](/post/of/) one's [child](/post/child/); [the](/post/the/) [daughter](/post/daughter/) [of](/post/of/) one's [son](/post/son/) [or](/post/or/) [daughter](/post/daughter/). 
 
 ### Examples:
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was overjoyed [to](/en/post/to/) [meet](/en/post/meet/) [her](/en/post/her/) [granddaughter](/en/post/granddaughter/) [for](/en/post/for/) [the](/en/post/the/) [first](/en/post/first/) [time](/en/post/time/)."
-- "[The](/en/post/the/) [little](/en/post/little/) [girl](/en/post/girl/) playing [in](/en/post/in/) [the](/en/post/the/) [garden](/en/post/garden/) is [my](/en/post/my/) [granddaughter](/en/post/granddaughter/)."
-- "[Her](/en/post/her/) [granddaughter](/en/post/granddaughter/) inherited [her](/en/post/her/) grandmother's [love](/en/post/love/) [for](/en/post/for/) [painting](/en/post/painting/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) was overjoyed [to](/post/to/) [meet](/post/meet/) [her](/post/her/) [granddaughter](/post/granddaughter/) [for](/post/for/) [the](/post/the/) [first](/post/first/) [time](/post/time/)."
+- "[The](/post/the/) [little](/post/little/) [girl](/post/girl/) playing [in](/post/in/) [the](/post/the/) [garden](/post/garden/) is [my](/post/my/) [granddaughter](/post/granddaughter/)."
+- "[Her](/post/her/) [granddaughter](/post/granddaughter/) inherited [her](/post/her/) grandmother's [love](/post/love/) [for](/post/for/) [painting](/post/painting/)."
 
 ## Phrases
-- "Granddaughter-in-law": [The](/en/post/the/) [wife](/en/post/wife/) [of](/en/post/of/) one's granddaughter's [husband](/en/post/husband/).
-- "Granddaughter-to-be": [A](/en/post/a/) [woman](/en/post/woman/) [who](/en/post/who/) is [about](/en/post/about/) [to](/en/post/to/) [become](/en/post/become/) someone's [granddaughter](/en/post/granddaughter/) [through](/en/post/through/) [marriage](/en/post/marriage/) [or](/en/post/or/) [birth](/en/post/birth/).
+- "Granddaughter-in-law": [The](/post/the/) [wife](/post/wife/) [of](/post/of/) one's granddaughter's [husband](/post/husband/).
+- "Granddaughter-to-be": [A](/post/a/) [woman](/post/woman/) [who](/post/who/) is [about](/post/about/) [to](/post/to/) [become](/post/become/) someone's [granddaughter](/post/granddaughter/) [through](/post/through/) [marriage](/post/marriage/) [or](/post/or/) [birth](/post/birth/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I'm [teaching](/en/post/teaching/) [my](/en/post/my/) [granddaughter](/en/post/granddaughter/) [how](/en/post/how/) [to](/en/post/to/) [bake](/en/post/bake/) cookies, [just](/en/post/just/) [like](/en/post/like/) [my](/en/post/my/) [mother](/en/post/mother/) taught [me](/en/post/me/)."
-- "[He](/en/post/he/) [left](/en/post/left/) [his](/en/post/his/) [entire](/en/post/entire/) [collection](/en/post/collection/) [of](/en/post/of/) vintage cars [to](/en/post/to/) [his](/en/post/his/) [only](/en/post/only/) [granddaughter](/en/post/granddaughter/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I'm [teaching](/post/teaching/) [my](/post/my/) [granddaughter](/post/granddaughter/) [how](/post/how/) [to](/post/to/) [bake](/post/bake/) cookies, [just](/post/just/) [like](/post/like/) [my](/post/my/) [mother](/post/mother/) taught [me](/post/me/)."
+- "[He](/post/he/) [left](/post/left/) [his](/post/his/) [entire](/post/entire/) [collection](/post/collection/) [of](/post/of/) vintage cars [to](/post/to/) [his](/post/his/) [only](/post/only/) [granddaughter](/post/granddaughter/)."
 
 ## Synonyms
-- Descendant ([more](/en/post/more/) [general](/en/post/general/))
-- [Female](/en/post/female/) descendant
+- Descendant ([more](/post/more/) [general](/post/general/))
+- [Female](/post/female/) descendant
 - Grandchild (gender-neutral) 
-- [Junior](/en/post/junior/) [granddaughter](/en/post/granddaughter/)
-- Progeny ([formal](/en/post/formal/), [more](/en/post/more/) [general](/en/post/general/))
+- [Junior](/post/junior/) [granddaughter](/post/granddaughter/)
+- Progeny ([formal](/post/formal/), [more](/post/more/) [general](/post/general/))
 
-[Note](/en/post/note/): [Unlike](/en/post/unlike/) "[hello](/en/post/hello/)," [which](/en/post/which/) [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [verb](/en/post/verb/), [and](/en/post/and/) interjection, "[granddaughter](/en/post/granddaughter/)" is [strictly](/en/post/strictly/) [a](/en/post/a/) [noun](/en/post/noun/) [and](/en/post/and/) does [not](/en/post/not/) [have](/en/post/have/) [other](/en/post/other/) part-of-speech variations.
+[Note](/post/note/): [Unlike](/post/unlike/) "[hello](/post/hello/)," [which](/post/which/) [can](/post/can/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [verb](/post/verb/), [and](/post/and/) interjection, "[granddaughter](/post/granddaughter/)" is [strictly](/post/strictly/) [a](/post/a/) [noun](/post/noun/) [and](/post/and/) does [not](/post/not/) [have](/post/have/) [other](/post/other/) part-of-speech variations.

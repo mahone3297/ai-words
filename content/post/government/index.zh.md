@@ -12,21 +12,21 @@ keywords = ['ai words', 'government']
 
 ## 释义
 - **名词 (n)**: 
-    - 政府；行政管理机构。例如: "[The](/post/the/) [government](/post/government/) has announced [new](/post/new/) policies [to](/post/to/) tackle inflation."
-    - 统治；管理。例如: "[They](/post/they/) [believe](/post/believe/) [in](/post/in/) self-government [in](/post/in/) [their](/post/their/) communities."
+    - 政府；行政管理机构。例如: "[The](/zh/post/the/) [government](/zh/post/government/) has announced [new](/zh/post/new/) policies [to](/zh/post/to/) tackle inflation."
+    - 统治；管理。例如: "[They](/zh/post/they/) [believe](/zh/post/believe/) [in](/zh/post/in/) self-government [in](/zh/post/in/) [their](/zh/post/their/) communities."
 
 ## 短语
-- "[central](/post/central/) [government](/post/government/)" 中央政府
-- "[local](/post/local/) [government](/post/government/)" 地方政府
-- "[government](/post/government/) [official](/post/official/)" 政府官员
+- "[central](/zh/post/central/) [government](/zh/post/government/)" 中央政府
+- "[local](/zh/post/local/) [government](/zh/post/government/)" 地方政府
+- "[government](/zh/post/government/) [official](/zh/post/official/)" 政府官员
 
 ## 例句
-- 名词: "[The](/post/the/) [government](/post/government/) is working [on](/post/on/) improving [public](/post/public/) healthcare services."
-- 名词: "[The](/post/the/) [local](/post/local/) [government](/post/government/) has introduced [new](/post/new/) recycling initiatives."
+- 名词: "[The](/zh/post/the/) [government](/zh/post/government/) is working [on](/zh/post/on/) improving [public](/zh/post/public/) healthcare services."
+- 名词: "[The](/zh/post/the/) [local](/zh/post/local/) [government](/zh/post/government/) has introduced [new](/zh/post/new/) recycling initiatives."
 
 ## 同义词
-- [administration](/post/administration/)
+- [administration](/zh/post/administration/)
 - regime
 - governance
-- [authority](/post/authority/)
-- ruling [body](/post/body/)
+- [authority](/zh/post/authority/)
+- ruling [body](/zh/post/body/)

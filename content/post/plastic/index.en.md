@@ -7,48 +7,48 @@ description = '[plɑːstik] a.可塑的 n.塑料'
 keywords = ['ai words', 'plastic']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /plæstɪk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Material](/en/post/material/) made [from](/en/post/from/) polymer resins [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) molded [or](/en/post/or/) shaped [into](/en/post/into/) [various](/en/post/various/) forms [and](/en/post/and/) [then](/en/post/then/) hardened, [often](/en/post/often/) [for](/en/post/for/) [various](/en/post/various/) purposes [such](/en/post/such/) [as](/en/post/as/) containers, packaging, [or](/en/post/or/) [household](/en/post/household/) items.** [Example](/en/post/example/): "[The](/en/post/the/) [table](/en/post/table/) was made [of](/en/post/of/) [plastic](/en/post/plastic/)."
-2. **[A](/en/post/a/) [synthetic](/en/post/synthetic/) [substance](/en/post/substance/) having [similar](/en/post/similar/) properties [to](/en/post/to/) [natural](/en/post/natural/) [rubber](/en/post/rubber/) [or](/en/post/or/) [certain](/en/post/certain/) types [of](/en/post/of/) [glass](/en/post/glass/), [used](/en/post/used/) [for](/en/post/for/) molding [or](/en/post/or/) forming.** [Example](/en/post/example/): "[Plastic](/en/post/plastic/) [surgery](/en/post/surgery/) [can](/en/post/can/) reshape [body](/en/post/body/) parts."
-3. **[A](/en/post/a/) [general](/en/post/general/) [term](/en/post/term/) [for](/en/post/for/) imitative [or](/en/post/or/) [artificial](/en/post/artificial/) qualities, [often](/en/post/often/) suggesting [a](/en/post/a/) [cheap](/en/post/cheap/) [or](/en/post/or/) disposable [nature](/en/post/nature/).** [Example](/en/post/example/): "[The](/en/post/the/) [event](/en/post/event/) had [a](/en/post/a/) [very](/en/post/very/) [plastic](/en/post/plastic/) [atmosphere](/en/post/atmosphere/)."
-4. **An imitation [of](/en/post/of/) [something](/en/post/something/) [genuine](/en/post/genuine/) [or](/en/post/or/) authentic.** [Example](/en/post/example/): "[A](/en/post/a/) [plastic](/en/post/plastic/) imitation [of](/en/post/of/) [a](/en/post/a/) vintage guitar."
+### [Noun](/post/noun/)
+1. **[Material](/post/material/) made [from](/post/from/) polymer resins [that](/post/that/) [can](/post/can/) [be](/post/be/) molded [or](/post/or/) shaped [into](/post/into/) [various](/post/various/) forms [and](/post/and/) [then](/post/then/) hardened, [often](/post/often/) [for](/post/for/) [various](/post/various/) purposes [such](/post/such/) [as](/post/as/) containers, packaging, [or](/post/or/) [household](/post/household/) items.** [Example](/post/example/): "[The](/post/the/) [table](/post/table/) was made [of](/post/of/) [plastic](/post/plastic/)."
+2. **[A](/post/a/) [synthetic](/post/synthetic/) [substance](/post/substance/) having [similar](/post/similar/) properties [to](/post/to/) [natural](/post/natural/) [rubber](/post/rubber/) [or](/post/or/) [certain](/post/certain/) types [of](/post/of/) [glass](/post/glass/), [used](/post/used/) [for](/post/for/) molding [or](/post/or/) forming.** [Example](/post/example/): "[Plastic](/post/plastic/) [surgery](/post/surgery/) [can](/post/can/) reshape [body](/post/body/) parts."
+3. **[A](/post/a/) [general](/post/general/) [term](/post/term/) [for](/post/for/) imitative [or](/post/or/) [artificial](/post/artificial/) qualities, [often](/post/often/) suggesting [a](/post/a/) [cheap](/post/cheap/) [or](/post/or/) disposable [nature](/post/nature/).** [Example](/post/example/): "[The](/post/the/) [event](/post/event/) had [a](/post/a/) [very](/post/very/) [plastic](/post/plastic/) [atmosphere](/post/atmosphere/)."
+4. **An imitation [of](/post/of/) [something](/post/something/) [genuine](/post/genuine/) [or](/post/or/) authentic.** [Example](/post/example/): "[A](/post/a/) [plastic](/post/plastic/) imitation [of](/post/of/) [a](/post/a/) vintage guitar."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [form](/en/post/form/) [or](/en/post/or/) [shape](/en/post/shape/) ([a](/en/post/a/) [material](/en/post/material/)) using plasticity.** [Example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) is [skilled](/en/post/skilled/) [in](/en/post/in/) shaping [plastic](/en/post/plastic/) [clay](/en/post/clay/)."
-2. **[To](/en/post/to/) [use](/en/post/use/) [or](/en/post/or/) [employ](/en/post/employ/) [plastic](/en/post/plastic/) materials [or](/en/post/or/) methods.** [Example](/en/post/example/): "[They](/en/post/they/) are using [plastic](/en/post/plastic/) techniques [to](/en/post/to/) [create](/en/post/create/) [the](/en/post/the/) [set](/en/post/set/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [form](/post/form/) [or](/post/or/) [shape](/post/shape/) ([a](/post/a/) [material](/post/material/)) using plasticity.** [Example](/post/example/): "[The](/post/the/) [artist](/post/artist/) is [skilled](/post/skilled/) [in](/post/in/) shaping [plastic](/post/plastic/) [clay](/post/clay/)."
+2. **[To](/post/to/) [use](/post/use/) [or](/post/or/) [employ](/post/employ/) [plastic](/post/plastic/) materials [or](/post/or/) methods.** [Example](/post/example/): "[They](/post/they/) are using [plastic](/post/plastic/) techniques [to](/post/to/) [create](/post/create/) [the](/post/the/) [set](/post/set/)."
 
-### [Adjective](/en/post/adjective/)
-1. **[Capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) [easily](/en/post/easily/) molded [or](/en/post/or/) shaped.** [Example](/en/post/example/): "Plasticine is [a](/en/post/a/) moldable [plastic](/en/post/plastic/) [material](/en/post/material/)."
-2. **[Not](/en/post/not/) [solid](/en/post/solid/) [or](/en/post/or/) [durable](/en/post/durable/); fragile [or](/en/post/or/) [brittle](/en/post/brittle/).** [Example](/en/post/example/): "[The](/en/post/the/) [vase](/en/post/vase/) feels [quite](/en/post/quite/) [plastic](/en/post/plastic/)."
-3. **Artificially [pleasant](/en/post/pleasant/) [or](/en/post/or/) insincere.** [Example](/en/post/example/): "[Her](/en/post/her/) [smile](/en/post/smile/) was overly [plastic](/en/post/plastic/)."
+### [Adjective](/post/adjective/)
+1. **[Capable](/post/capable/) [of](/post/of/) [being](/post/being/) [easily](/post/easily/) molded [or](/post/or/) shaped.** [Example](/post/example/): "Plasticine is [a](/post/a/) moldable [plastic](/post/plastic/) [material](/post/material/)."
+2. **[Not](/post/not/) [solid](/post/solid/) [or](/post/or/) [durable](/post/durable/); fragile [or](/post/or/) [brittle](/post/brittle/).** [Example](/post/example/): "[The](/post/the/) [vase](/post/vase/) feels [quite](/post/quite/) [plastic](/post/plastic/)."
+3. **Artificially [pleasant](/post/pleasant/) [or](/post/or/) insincere.** [Example](/post/example/): "[Her](/post/her/) [smile](/post/smile/) was overly [plastic](/post/plastic/)."
 
-### [Adverb](/en/post/adverb/)
-*[Very](/en/post/very/) [rare](/en/post/rare/), [not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/).*
+### [Adverb](/post/adverb/)
+*[Very](/post/very/) [rare](/post/rare/), [not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/).*
 
 ## Phrases
-- "Made [of](/en/post/of/) [plastic](/en/post/plastic/)"
-- "[Use](/en/post/use/) [plastic](/en/post/plastic/) [wrap](/en/post/wrap/) [to](/en/post/to/) [seal](/en/post/seal/) [the](/en/post/the/) [container](/en/post/container/)"
-- "[Plastic](/en/post/plastic/) [surgery](/en/post/surgery/) results"
-- "[A](/en/post/a/) [plastic](/en/post/plastic/) [smile](/en/post/smile/)"
-- "[A](/en/post/a/) [synthetic](/en/post/synthetic/) [alternative](/en/post/alternative/)"
+- "Made [of](/post/of/) [plastic](/post/plastic/)"
+- "[Use](/post/use/) [plastic](/post/plastic/) [wrap](/post/wrap/) [to](/post/to/) [seal](/post/seal/) [the](/post/the/) [container](/post/container/)"
+- "[Plastic](/post/plastic/) [surgery](/post/surgery/) results"
+- "[A](/post/a/) [plastic](/post/plastic/) [smile](/post/smile/)"
+- "[A](/post/a/) [synthetic](/post/synthetic/) [alternative](/post/alternative/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) discarded [the](/en/post/the/) [plastic](/en/post/plastic/) [bottle](/en/post/bottle/) [in](/en/post/in/) [the](/en/post/the/) recycling bin."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) architect designed [the](/en/post/the/) [house](/en/post/house/) [with](/en/post/with/) [a](/en/post/a/) [plastic](/en/post/plastic/) [sense](/en/post/sense/) [of](/en/post/of/) minimalism."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [the](/en/post/the/) [chair](/en/post/chair/) felt [cold](/en/post/cold/) [and](/en/post/and/) [plastic](/en/post/plastic/) [to](/en/post/to/) [the](/en/post/the/) [touch](/en/post/touch/)."
-- **[Adjective](/en/post/adjective/) ([as](/en/post/as/) [a](/en/post/a/) modifier [for](/en/post/for/) [smile](/en/post/smile/))**: "[Her](/en/post/her/) [face](/en/post/face/) wore [a](/en/post/a/) [plastic](/en/post/plastic/) [expression](/en/post/expression/) [throughout](/en/post/throughout/) [the](/en/post/the/) [interview](/en/post/interview/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) discarded [the](/post/the/) [plastic](/post/plastic/) [bottle](/post/bottle/) [in](/post/in/) [the](/post/the/) recycling bin."
+- **[Verb](/post/verb/)**: "[The](/post/the/) architect designed [the](/post/the/) [house](/post/house/) [with](/post/with/) [a](/post/a/) [plastic](/post/plastic/) [sense](/post/sense/) [of](/post/of/) minimalism."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [surface](/post/surface/) [of](/post/of/) [the](/post/the/) [chair](/post/chair/) felt [cold](/post/cold/) [and](/post/and/) [plastic](/post/plastic/) [to](/post/to/) [the](/post/the/) [touch](/post/touch/)."
+- **[Adjective](/post/adjective/) ([as](/post/as/) [a](/post/a/) modifier [for](/post/for/) [smile](/post/smile/))**: "[Her](/post/her/) [face](/post/face/) wore [a](/post/a/) [plastic](/post/plastic/) [expression](/post/expression/) [throughout](/post/throughout/) [the](/post/the/) [interview](/post/interview/)."
 
 ## Synonyms
-- [Synthetic](/en/post/synthetic/)
+- [Synthetic](/post/synthetic/)
 - Vinyl
-- [Flexible](/en/post/flexible/)
+- [Flexible](/post/flexible/)
 - Moldable
 - Resilient
-- [Artificial](/en/post/artificial/)
+- [Artificial](/post/artificial/)
 - Unnatural
 - Disposable
-- Faux ([for](/en/post/for/) imitation)
+- Faux ([for](/post/for/) imitation)

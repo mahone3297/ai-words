@@ -7,35 +7,35 @@ description = '[ˈdilidʒənt] a.勤勉的，勤奋的'
 keywords = ['ai words', 'diligent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈlɪdʒənt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [great](/en/post/great/) [care](/en/post/care/), perseverance, [or](/en/post/or/) [industry](/en/post/industry/) [in](/en/post/in/) one's [work](/en/post/work/) [or](/en/post/or/) duties; [diligent](/en/post/diligent/) [and](/en/post/and/) conscientious. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [diligent](/en/post/diligent/) [student](/en/post/student/) spent hours studying [for](/en/post/for/) [the](/en/post/the/) [exam](/en/post/exam/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [diligent](/en/post/diligent/); [one](/en/post/one/) [who](/en/post/who/) shows [great](/en/post/great/) [care](/en/post/care/) [and](/en/post/and/) [effort](/en/post/effort/) [in](/en/post/in/) [their](/en/post/their/) tasks. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) manager praised [her](/en/post/her/) [diligent](/en/post/diligent/) [team](/en/post/team/) members."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [great](/post/great/) [care](/post/care/), perseverance, [or](/post/or/) [industry](/post/industry/) [in](/post/in/) one's [work](/post/work/) [or](/post/or/) duties; [diligent](/post/diligent/) [and](/post/and/) conscientious. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [diligent](/post/diligent/) [student](/post/student/) spent hours studying [for](/post/for/) [the](/post/the/) [exam](/post/exam/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is [diligent](/post/diligent/); [one](/post/one/) [who](/post/who/) shows [great](/post/great/) [care](/post/care/) [and](/post/and/) [effort](/post/effort/) [in](/post/in/) [their](/post/their/) tasks. [For](/post/for/) [example](/post/example/): "[The](/post/the/) manager praised [her](/post/her/) [diligent](/post/diligent/) [team](/post/team/) members."
 
 ## Phrases
-- "[Diligent](/en/post/diligent/) [worker](/en/post/worker/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is consistently hardworking.
-- "[To](/en/post/to/) [be](/en/post/be/) [diligent](/en/post/diligent/) [about](/en/post/about/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [show](/en/post/show/) thoroughness [and](/en/post/and/) [attention](/en/post/attention/) [to](/en/post/to/) [detail](/en/post/detail/).
-- "[A](/en/post/a/) [life](/en/post/life/) [of](/en/post/of/) diligence" implies [a](/en/post/a/) committed [and](/en/post/and/) conscientious [approach](/en/post/approach/) [to](/en/post/to/) [daily](/en/post/daily/) activities.
+- "[Diligent](/post/diligent/) [worker](/post/worker/)" refers [to](/post/to/) [someone](/post/someone/) [who](/post/who/) is consistently hardworking.
+- "[To](/post/to/) [be](/post/be/) [diligent](/post/diligent/) [about](/post/about/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [show](/post/show/) thoroughness [and](/post/and/) [attention](/post/attention/) [to](/post/to/) [detail](/post/detail/).
+- "[A](/post/a/) [life](/post/life/) [of](/post/of/) diligence" implies [a](/post/a/) committed [and](/post/and/) conscientious [approach](/post/approach/) [to](/post/to/) [daily](/post/daily/) activities.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) was [a](/en/post/a/) [diligent](/en/post/diligent/) [researcher](/en/post/researcher/), pouring [over](/en/post/over/) countless books [for](/en/post/for/) [her](/en/post/her/) thesis."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [diligent](/en/post/diligent/) [gardener](/en/post/gardener/) tended [to](/en/post/to/) [his](/en/post/his/) plants [every](/en/post/every/) [morning](/en/post/morning/)."
-- **[Sentence](/en/post/sentence/)**: "[His](/en/post/his/) diligence [in](/en/post/in/) [his](/en/post/his/) [job](/en/post/job/) led [to](/en/post/to/) promotions [within](/en/post/within/) [the](/en/post/the/) [company](/en/post/company/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) was [a](/post/a/) [diligent](/post/diligent/) [researcher](/post/researcher/), pouring [over](/post/over/) countless books [for](/post/for/) [her](/post/her/) thesis."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [diligent](/post/diligent/) [gardener](/post/gardener/) tended [to](/post/to/) [his](/post/his/) plants [every](/post/every/) [morning](/post/morning/)."
+- **[Sentence](/post/sentence/)**: "[His](/post/his/) diligence [in](/post/in/) [his](/post/his/) [job](/post/job/) led [to](/post/to/) promotions [within](/post/within/) [the](/post/the/) [company](/post/company/)."
 
 ## Synonyms
 - Industrious
-- [Careful](/en/post/careful/)
-- [Responsible](/en/post/responsible/)
-- [Thorough](/en/post/thorough/)
+- [Careful](/post/careful/)
+- [Responsible](/post/responsible/)
+- [Thorough](/post/thorough/)
 - Conscientious
 - Diligently
 - Assiduous
 
 ## Antonyms
-- [Lazy](/en/post/lazy/)
-- [Careless](/en/post/careless/)
+- [Lazy](/post/lazy/)
+- [Careless](/post/careless/)
 - Indolent
 - Inattentive
 - Disorganized

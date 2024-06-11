@@ -7,33 +7,33 @@ description = '[həˈraizn] n.地平线；眼界，见识'
 keywords = ['ai words', 'horizon']
 +++
 
-## [Word](/en/post/word/): [Horizon](/en/post/horizon/)
+## [Word](/post/word/): [Horizon](/post/horizon/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhɒrɪz(ə)n/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [line](/en/post/line/) [where](/en/post/where/) [the](/en/post/the/) earth's [surface](/en/post/surface/) [and](/en/post/and/) [the](/en/post/the/) [sky](/en/post/sky/) [appear](/en/post/appear/) [to](/en/post/to/) [meet](/en/post/meet/); [the](/en/post/the/) farthest [visible](/en/post/visible/) [limit](/en/post/limit/) [of](/en/post/of/) [land](/en/post/land/), [sea](/en/post/sea/), [or](/en/post/or/) [the](/en/post/the/) Earth's curvature [from](/en/post/from/) an observer's [standpoint](/en/post/standpoint/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sun](/en/post/sun/) rises [above](/en/post/above/) [the](/en/post/the/) [horizon](/en/post/horizon/)."
-- **[Noun](/en/post/noun/) (figurative)**: [The](/en/post/the/) [limit](/en/post/limit/) [of](/en/post/of/) [a](/en/post/a/) person's [knowledge](/en/post/knowledge/), [experience](/en/post/experience/), [or](/en/post/or/) [interest](/en/post/interest/); [the](/en/post/the/) [scope](/en/post/scope/) [of](/en/post/of/) perception [or](/en/post/or/) [understanding](/en/post/understanding/). [Example](/en/post/example/): "Expanding [her](/en/post/her/) horizons [through](/en/post/through/) [travel](/en/post/travel/) opened [up](/en/post/up/) [new](/en/post/new/) opportunities."
-- **[Noun](/en/post/noun/) (astronomy)**: [The](/en/post/the/) [apparent](/en/post/apparent/) [boundary](/en/post/boundary/) [between](/en/post/between/) [the](/en/post/the/) [Earth](/en/post/earth/) [and](/en/post/and/) [the](/en/post/the/) [sky](/en/post/sky/), representing [the](/en/post/the/) [limit](/en/post/limit/) [of](/en/post/of/) [direct](/en/post/direct/) [sight](/en/post/sight/) [from](/en/post/from/) [a](/en/post/a/) [particular](/en/post/particular/) [location](/en/post/location/).
+- **[Noun](/post/noun/)**: [The](/post/the/) [line](/post/line/) [where](/post/where/) [the](/post/the/) earth's [surface](/post/surface/) [and](/post/and/) [the](/post/the/) [sky](/post/sky/) [appear](/post/appear/) [to](/post/to/) [meet](/post/meet/); [the](/post/the/) farthest [visible](/post/visible/) [limit](/post/limit/) [of](/post/of/) [land](/post/land/), [sea](/post/sea/), [or](/post/or/) [the](/post/the/) Earth's curvature [from](/post/from/) an observer's [standpoint](/post/standpoint/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sun](/post/sun/) rises [above](/post/above/) [the](/post/the/) [horizon](/post/horizon/)."
+- **[Noun](/post/noun/) (figurative)**: [The](/post/the/) [limit](/post/limit/) [of](/post/of/) [a](/post/a/) person's [knowledge](/post/knowledge/), [experience](/post/experience/), [or](/post/or/) [interest](/post/interest/); [the](/post/the/) [scope](/post/scope/) [of](/post/of/) perception [or](/post/or/) [understanding](/post/understanding/). [Example](/post/example/): "Expanding [her](/post/her/) horizons [through](/post/through/) [travel](/post/travel/) opened [up](/post/up/) [new](/post/new/) opportunities."
+- **[Noun](/post/noun/) (astronomy)**: [The](/post/the/) [apparent](/post/apparent/) [boundary](/post/boundary/) [between](/post/between/) [the](/post/the/) [Earth](/post/earth/) [and](/post/and/) [the](/post/the/) [sky](/post/sky/), representing [the](/post/the/) [limit](/post/limit/) [of](/post/of/) [direct](/post/direct/) [sight](/post/sight/) [from](/post/from/) [a](/post/a/) [particular](/post/particular/) [location](/post/location/).
 
 ## Phrases
-- "[On](/en/post/on/) [the](/en/post/the/) [horizon](/en/post/horizon/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [about](/en/post/about/) [to](/en/post/to/) [happen](/en/post/happen/) [or](/en/post/or/) [become](/en/post/become/) [visible](/en/post/visible/) [soon](/en/post/soon/). [Example](/en/post/example/): "[New](/en/post/new/) [job](/en/post/job/) opportunities are [on](/en/post/on/) [the](/en/post/the/) [horizon](/en/post/horizon/)."
-- "[Beyond](/en/post/beyond/) [the](/en/post/the/) [horizon](/en/post/horizon/)" suggests [something](/en/post/something/) [distant](/en/post/distant/) [or](/en/post/or/) [not](/en/post/not/) [yet](/en/post/yet/) known. [Example](/en/post/example/): "Exploring lands [beyond](/en/post/beyond/) [the](/en/post/the/) [horizon](/en/post/horizon/) was [his](/en/post/his/) lifelong [dream](/en/post/dream/)."
-- "[To](/en/post/to/) broaden one's horizons" [means](/en/post/means/) [to](/en/post/to/) [increase](/en/post/increase/) one's [knowledge](/en/post/knowledge/), [experience](/en/post/experience/), [or](/en/post/or/) awareness [of](/en/post/of/) [the](/en/post/the/) [world](/en/post/world/) [around](/en/post/around/) [them](/en/post/them/).
+- "[On](/post/on/) [the](/post/the/) [horizon](/post/horizon/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is [about](/post/about/) [to](/post/to/) [happen](/post/happen/) [or](/post/or/) [become](/post/become/) [visible](/post/visible/) [soon](/post/soon/). [Example](/post/example/): "[New](/post/new/) [job](/post/job/) opportunities are [on](/post/on/) [the](/post/the/) [horizon](/post/horizon/)."
+- "[Beyond](/post/beyond/) [the](/post/the/) [horizon](/post/horizon/)" suggests [something](/post/something/) [distant](/post/distant/) [or](/post/or/) [not](/post/not/) [yet](/post/yet/) known. [Example](/post/example/): "Exploring lands [beyond](/post/beyond/) [the](/post/the/) [horizon](/post/horizon/) was [his](/post/his/) lifelong [dream](/post/dream/)."
+- "[To](/post/to/) broaden one's horizons" [means](/post/means/) [to](/post/to/) [increase](/post/increase/) one's [knowledge](/post/knowledge/), [experience](/post/experience/), [or](/post/or/) awareness [of](/post/of/) [the](/post/the/) [world](/post/world/) [around](/post/around/) [them](/post/them/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (literal)**: "[As](/en/post/as/) [the](/en/post/the/) [ship](/en/post/ship/) sailed towards [the](/en/post/the/) [horizon](/en/post/horizon/), [it](/en/post/it/) [eventually](/en/post/eventually/) disappeared [from](/en/post/from/) [view](/en/post/view/)."
-- **[Noun](/en/post/noun/) (figurative)**: "[Reading](/en/post/reading/) books [can](/en/post/can/) significantly [expand](/en/post/expand/) [your](/en/post/your/) [intellectual](/en/post/intellectual/) horizons."
-- **[Noun](/en/post/noun/) (astronomy)**: "Astronauts [in](/en/post/in/) [space](/en/post/space/) [have](/en/post/have/) [no](/en/post/no/) [visible](/en/post/visible/) [horizon](/en/post/horizon/) [against](/en/post/against/) [which](/en/post/which/) [to](/en/post/to/) orient [themselves](/en/post/themselves/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (literal)**: "[As](/post/as/) [the](/post/the/) [ship](/post/ship/) sailed towards [the](/post/the/) [horizon](/post/horizon/), [it](/post/it/) [eventually](/post/eventually/) disappeared [from](/post/from/) [view](/post/view/)."
+- **[Noun](/post/noun/) (figurative)**: "[Reading](/post/reading/) books [can](/post/can/) significantly [expand](/post/expand/) [your](/post/your/) [intellectual](/post/intellectual/) horizons."
+- **[Noun](/post/noun/) (astronomy)**: "Astronauts [in](/post/in/) [space](/post/space/) [have](/post/have/) [no](/post/no/) [visible](/post/visible/) [horizon](/post/horizon/) [against](/post/against/) [which](/post/which/) [to](/post/to/) orient [themselves](/post/themselves/)."
 
 ## Synonyms
 - Skyline
-- [Limit](/en/post/limit/)
-- [Boundary](/en/post/boundary/)
-- [Edge](/en/post/edge/)
-- [Scope](/en/post/scope/)
-- [Viewpoint](/en/post/viewpoint/)
-- [Extent](/en/post/extent/)
+- [Limit](/post/limit/)
+- [Boundary](/post/boundary/)
+- [Edge](/post/edge/)
+- [Scope](/post/scope/)
+- [Viewpoint](/post/viewpoint/)
+- [Extent](/post/extent/)
 - vista
-- Endpoint ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) visibility)
+- Endpoint ([in](/post/in/) [the](/post/the/) context [of](/post/of/) visibility)

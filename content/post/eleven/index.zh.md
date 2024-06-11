@@ -11,15 +11,15 @@ keywords = ['ai words', 'eleven']
 /ɪˈlevən/
 
 ## 释义
-- **数词**: 11，数字十一。例如: "[There](/post/there/) are [eleven](/post/eleven/) players [on](/post/on/) [a](/post/a/) [football](/post/football/) [team](/post/team/)."
+- **数词**: 11，数字十一。例如: "[There](/zh/post/there/) are [eleven](/zh/post/eleven/) players [on](/zh/post/on/) [a](/zh/post/a/) [football](/zh/post/football/) [team](/zh/post/team/)."
 
 ## 短语
-- "[Eleven](/post/eleven/) [plus](/post/plus/) [two](/post/two/)" 表示11加2。
-- "[The](/post/the/) [eleventh](/post/eleventh/) [hour](/post/hour/)" 指最后时刻，关键时刻。
+- "[Eleven](/zh/post/eleven/) [plus](/zh/post/plus/) [two](/zh/post/two/)" 表示11加2。
+- "[The](/zh/post/the/) [eleventh](/zh/post/eleventh/) [hour](/zh/post/hour/)" 指最后时刻，关键时刻。
 
 ## 例句
-- "[My](/post/my/) [birthday](/post/birthday/) is [on](/post/on/) [the](/post/the/) [eleventh](/post/eleventh/) [of](/post/of/) [May](/post/may/)."
-- "[She](/post/she/) scored [eleven](/post/eleven/) goals [in](/post/in/) [the](/post/the/) [season](/post/season/)."
+- "[My](/zh/post/my/) [birthday](/zh/post/birthday/) is [on](/zh/post/on/) [the](/zh/post/the/) [eleventh](/zh/post/eleventh/) [of](/zh/post/of/) [May](/zh/post/may/)."
+- "[She](/zh/post/she/) scored [eleven](/zh/post/eleven/) goals [in](/zh/post/in/) [the](/zh/post/the/) [season](/zh/post/season/)."
 
 ## 同义词
 - 十一

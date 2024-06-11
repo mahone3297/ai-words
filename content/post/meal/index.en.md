@@ -7,34 +7,34 @@ description = '[miːl] n.膳食，一餐'
 keywords = ['ai words', 'meal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /miːl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [portion](/en/post/portion/) [of](/en/post/of/) [food](/en/post/food/) [that](/en/post/that/) is eaten [at](/en/post/at/) [one](/en/post/one/) [time](/en/post/time/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is made [up](/en/post/up/) [of](/en/post/of/) [several](/en/post/several/) dishes [or](/en/post/or/) courses; [a](/en/post/a/) repast. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) enjoyed [a](/en/post/a/) hearty [meal](/en/post/meal/) [together](/en/post/together/)."
-- **[Noun](/en/post/noun/) (figurative)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) an [instance](/en/post/instance/) [of](/en/post/of/) eating [such](/en/post/such/) [a](/en/post/a/) [portion](/en/post/portion/) [of](/en/post/of/) [food](/en/post/food/). [Example](/en/post/example/): "[They](/en/post/they/) took [their](/en/post/their/) meals [at](/en/post/at/) [regular](/en/post/regular/) intervals [throughout](/en/post/throughout/) [the](/en/post/the/) [day](/en/post/day/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [particular](/en/post/particular/) [type](/en/post/type/) [or](/en/post/or/) [kind](/en/post/kind/) [of](/en/post/of/) [food](/en/post/food/) served [or](/en/post/or/) eaten [at](/en/post/at/) [a](/en/post/a/) [specific](/en/post/specific/) [time](/en/post/time/), [like](/en/post/like/) [breakfast](/en/post/breakfast/), [lunch](/en/post/lunch/), [or](/en/post/or/) [dinner](/en/post/dinner/). [Example](/en/post/example/): "[A](/en/post/a/) [traditional](/en/post/traditional/) Thanksgiving [meal](/en/post/meal/) consists [of](/en/post/of/) [turkey](/en/post/turkey/), stuffing, [and](/en/post/and/) mashed potatoes."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [eat](/en/post/eat/) [a](/en/post/a/) [meal](/en/post/meal/). [Example](/en/post/example/): "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [of](/en/post/of/) [work](/en/post/work/), [he](/en/post/he/) [finally](/en/post/finally/) had [the](/en/post/the/) [chance](/en/post/chance/) [to](/en/post/to/) [sit](/en/post/sit/) [down](/en/post/down/) [and](/en/post/and/) [meal](/en/post/meal/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [portion](/post/portion/) [of](/post/of/) [food](/post/food/) [that](/post/that/) is eaten [at](/post/at/) [one](/post/one/) [time](/post/time/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is made [up](/post/up/) [of](/post/of/) [several](/post/several/) dishes [or](/post/or/) courses; [a](/post/a/) repast. [For](/post/for/) [example](/post/example/): "[We](/post/we/) enjoyed [a](/post/a/) hearty [meal](/post/meal/) [together](/post/together/)."
+- **[Noun](/post/noun/) (figurative)**: [The](/post/the/) [act](/post/act/) [or](/post/or/) an [instance](/post/instance/) [of](/post/of/) eating [such](/post/such/) [a](/post/a/) [portion](/post/portion/) [of](/post/of/) [food](/post/food/). [Example](/post/example/): "[They](/post/they/) took [their](/post/their/) meals [at](/post/at/) [regular](/post/regular/) intervals [throughout](/post/throughout/) [the](/post/the/) [day](/post/day/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [particular](/post/particular/) [type](/post/type/) [or](/post/or/) [kind](/post/kind/) [of](/post/of/) [food](/post/food/) served [or](/post/or/) eaten [at](/post/at/) [a](/post/a/) [specific](/post/specific/) [time](/post/time/), [like](/post/like/) [breakfast](/post/breakfast/), [lunch](/post/lunch/), [or](/post/or/) [dinner](/post/dinner/). [Example](/post/example/): "[A](/post/a/) [traditional](/post/traditional/) Thanksgiving [meal](/post/meal/) consists [of](/post/of/) [turkey](/post/turkey/), stuffing, [and](/post/and/) mashed potatoes."
+- **[Verb](/post/verb/)**: [To](/post/to/) [eat](/post/eat/) [a](/post/a/) [meal](/post/meal/). [Example](/post/example/): "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [of](/post/of/) [work](/post/work/), [he](/post/he/) [finally](/post/finally/) had [the](/post/the/) [chance](/post/chance/) [to](/post/to/) [sit](/post/sit/) [down](/post/down/) [and](/post/and/) [meal](/post/meal/)."
 
 ## Phrases
-- "[Three](/en/post/three/) [square](/en/post/square/) meals [a](/en/post/a/) [day](/en/post/day/)" refers [to](/en/post/to/) having [breakfast](/en/post/breakfast/), [lunch](/en/post/lunch/), [and](/en/post/and/) [dinner](/en/post/dinner/) [daily](/en/post/daily/).
-- "Mealtime" refers [to](/en/post/to/) [the](/en/post/the/) [usual](/en/post/usual/) [hour](/en/post/hour/) [or](/en/post/or/) [period](/en/post/period/) [for](/en/post/for/) eating [a](/en/post/a/) [meal](/en/post/meal/).
-- "[Meal](/en/post/meal/) prep" is [short](/en/post/short/) [for](/en/post/for/) [meal](/en/post/meal/) [preparation](/en/post/preparation/), [which](/en/post/which/) involves planning [and](/en/post/and/) preparing meals [in](/en/post/in/) [advance](/en/post/advance/).
+- "[Three](/post/three/) [square](/post/square/) meals [a](/post/a/) [day](/post/day/)" refers [to](/post/to/) having [breakfast](/post/breakfast/), [lunch](/post/lunch/), [and](/post/and/) [dinner](/post/dinner/) [daily](/post/daily/).
+- "Mealtime" refers [to](/post/to/) [the](/post/the/) [usual](/post/usual/) [hour](/post/hour/) [or](/post/or/) [period](/post/period/) [for](/post/for/) eating [a](/post/a/) [meal](/post/meal/).
+- "[Meal](/post/meal/) prep" is [short](/post/short/) [for](/post/for/) [meal](/post/meal/) [preparation](/post/preparation/), [which](/post/which/) involves planning [and](/post/and/) preparing meals [in](/post/in/) [advance](/post/advance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [hotel](/en/post/hotel/) offered [a](/en/post/a/) complimentary [breakfast](/en/post/breakfast/) [meal](/en/post/meal/) [each](/en/post/each/) [morning](/en/post/morning/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) meals [at](/en/post/at/) [around](/en/post/around/) 6 PM [every](/en/post/every/) [evening](/en/post/evening/)."
-- **[Noun](/en/post/noun/) (figurative)**: "Eating [healthy](/en/post/healthy/) meals [regularly](/en/post/regularly/) is [essential](/en/post/essential/) [for](/en/post/for/) maintaining [good](/en/post/good/) [health](/en/post/health/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [hotel](/post/hotel/) offered [a](/post/a/) complimentary [breakfast](/post/breakfast/) [meal](/post/meal/) [each](/post/each/) [morning](/post/morning/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) meals [at](/post/at/) [around](/post/around/) 6 PM [every](/post/every/) [evening](/post/evening/)."
+- **[Noun](/post/noun/) (figurative)**: "Eating [healthy](/post/healthy/) meals [regularly](/post/regularly/) is [essential](/post/essential/) [for](/post/for/) maintaining [good](/post/good/) [health](/post/health/)."
 
 ## Synonyms
-- [Feast](/en/post/feast/)
+- [Feast](/post/feast/)
 - Repast
-- [Supper](/en/post/supper/)
-- [Dinner](/en/post/dinner/)
-- [Lunch](/en/post/lunch/)
-- [Breakfast](/en/post/breakfast/)
+- [Supper](/post/supper/)
+- [Dinner](/post/dinner/)
+- [Lunch](/post/lunch/)
+- [Breakfast](/post/breakfast/)
 - Snack
 - Nourishment
 - Feeding
-- [Spread](/en/post/spread/)
-- [Feed](/en/post/feed/) (informal)
+- [Spread](/post/spread/)
+- [Feed](/post/feed/) (informal)

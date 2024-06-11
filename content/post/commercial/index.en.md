@@ -7,32 +7,32 @@ description = '[kəˈməː∫əl] a.商业的；商品化的'
 keywords = ['ai words', 'commercial']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈmɜːrʃəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Commerce](/en/post/commerce/)**: [The](/en/post/the/) buying [and](/en/post/and/) selling [of](/en/post/of/) [goods](/en/post/goods/) [and](/en/post/and/) services, [especially](/en/post/especially/) [on](/en/post/on/) [a](/en/post/a/) [large](/en/post/large/) [scale](/en/post/scale/) [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [major](/en/post/major/) [industry](/en/post/industry/). [Example](/en/post/example/): "[The](/en/post/the/) city's [economy](/en/post/economy/) thrives [on](/en/post/on/) [its](/en/post/its/) thriving [commercial](/en/post/commercial/) sector."
-2. **[Commercial](/en/post/commercial/) [advertisement](/en/post/advertisement/)**: [A](/en/post/a/) [public](/en/post/public/) announcement promoting [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/). [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [commercial](/en/post/commercial/) featured [a](/en/post/a/) catchy jingle [to](/en/post/to/) [attract](/en/post/attract/) customers."
-3. **[Commercial](/en/post/commercial/) [break](/en/post/break/)**: [A](/en/post/a/) [pause](/en/post/pause/) [in](/en/post/in/) [a](/en/post/a/) [television](/en/post/television/) [or](/en/post/or/) [radio](/en/post/radio/) [program](/en/post/program/) [for](/en/post/for/) advertisements. [Example](/en/post/example/): "[During](/en/post/during/) [the](/en/post/the/) [commercial](/en/post/commercial/) [break](/en/post/break/), [we](/en/post/we/) took [a](/en/post/a/) [quick](/en/post/quick/) restroom [break](/en/post/break/)."
+### [Noun](/post/noun/)
+1. **[Commerce](/post/commerce/)**: [The](/post/the/) buying [and](/post/and/) selling [of](/post/of/) [goods](/post/goods/) [and](/post/and/) services, [especially](/post/especially/) [on](/post/on/) [a](/post/a/) [large](/post/large/) [scale](/post/scale/) [or](/post/or/) [as](/post/as/) [a](/post/a/) [major](/post/major/) [industry](/post/industry/). [Example](/post/example/): "[The](/post/the/) city's [economy](/post/economy/) thrives [on](/post/on/) [its](/post/its/) thriving [commercial](/post/commercial/) sector."
+2. **[Commercial](/post/commercial/) [advertisement](/post/advertisement/)**: [A](/post/a/) [public](/post/public/) announcement promoting [a](/post/a/) [product](/post/product/) [or](/post/or/) [service](/post/service/). [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [commercial](/post/commercial/) featured [a](/post/a/) catchy jingle [to](/post/to/) [attract](/post/attract/) customers."
+3. **[Commercial](/post/commercial/) [break](/post/break/)**: [A](/post/a/) [pause](/post/pause/) [in](/post/in/) [a](/post/a/) [television](/post/television/) [or](/post/or/) [radio](/post/radio/) [program](/post/program/) [for](/post/for/) advertisements. [Example](/post/example/): "[During](/post/during/) [the](/post/the/) [commercial](/post/commercial/) [break](/post/break/), [we](/post/we/) took [a](/post/a/) [quick](/post/quick/) restroom [break](/post/break/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [commerce](/en/post/commerce/) [or](/en/post/or/) [trade](/en/post/trade/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is planning [to](/en/post/to/) [expand](/en/post/expand/) [its](/en/post/its/) [commercial](/en/post/commercial/) activities [in](/en/post/in/) [Asia](/en/post/asia/)."
-2. [To](/en/post/to/) [broadcast](/en/post/broadcast/) [or](/en/post/or/) [air](/en/post/air/) [a](/en/post/a/) [commercial](/en/post/commercial/). [Example](/en/post/example/): "[The](/en/post/the/) [television](/en/post/television/) [station](/en/post/station/) [will](/en/post/will/) [be](/en/post/be/) airing [a](/en/post/a/) [new](/en/post/new/) [commercial](/en/post/commercial/) [for](/en/post/for/) [the](/en/post/the/) upcoming [film](/en/post/film/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [engage](/post/engage/) [in](/post/in/) [commerce](/post/commerce/) [or](/post/or/) [trade](/post/trade/). [Example](/post/example/): "[The](/post/the/) [company](/post/company/) is planning [to](/post/to/) [expand](/post/expand/) [its](/post/its/) [commercial](/post/commercial/) activities [in](/post/in/) [Asia](/post/asia/)."
+2. [To](/post/to/) [broadcast](/post/broadcast/) [or](/post/or/) [air](/post/air/) [a](/post/a/) [commercial](/post/commercial/). [Example](/post/example/): "[The](/post/the/) [television](/post/television/) [station](/post/station/) [will](/post/will/) [be](/post/be/) airing [a](/post/a/) [new](/post/new/) [commercial](/post/commercial/) [for](/post/for/) [the](/post/the/) upcoming [film](/post/film/)."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [commerce](/en/post/commerce/) [or](/en/post/or/) [trade](/en/post/trade/). [Example](/en/post/example/): "[The](/en/post/the/) [commercial](/en/post/commercial/) [real](/en/post/real/) estate [market](/en/post/market/) has seen [a](/en/post/a/) [recent](/en/post/recent/) surge."
-2. Designed [for](/en/post/for/) [or](/en/post/or/) [typical](/en/post/typical/) [of](/en/post/of/) advertising. [Example](/en/post/example/): "[The](/en/post/the/) building's sleek [design](/en/post/design/) makes [it](/en/post/it/) [a](/en/post/a/) [prime](/en/post/prime/) [commercial](/en/post/commercial/) [property](/en/post/property/)."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [commerce](/post/commerce/) [or](/post/or/) [trade](/post/trade/). [Example](/post/example/): "[The](/post/the/) [commercial](/post/commercial/) [real](/post/real/) estate [market](/post/market/) has seen [a](/post/a/) [recent](/post/recent/) surge."
+2. Designed [for](/post/for/) [or](/post/or/) [typical](/post/typical/) [of](/post/of/) advertising. [Example](/post/example/): "[The](/post/the/) building's sleek [design](/post/design/) makes [it](/post/it/) [a](/post/a/) [prime](/post/prime/) [commercial](/post/commercial/) [property](/post/property/)."
 
 ## Phrases
-- "[Go](/en/post/go/) [commercial](/en/post/commercial/)" refers [to](/en/post/to/) shifting [to](/en/post/to/) [a](/en/post/a/) [more](/en/post/more/) business-oriented [approach](/en/post/approach/).
-- "Non-commercial [use](/en/post/use/)" denotes [something](/en/post/something/) [not](/en/post/not/) intended [for](/en/post/for/) [profit](/en/post/profit/).
-- "[Run](/en/post/run/) [a](/en/post/a/) [commercial](/en/post/commercial/)" [means](/en/post/means/) [to](/en/post/to/) [execute](/en/post/execute/) [or](/en/post/or/) [display](/en/post/display/) an [advertisement](/en/post/advertisement/).
+- "[Go](/post/go/) [commercial](/post/commercial/)" refers [to](/post/to/) shifting [to](/post/to/) [a](/post/a/) [more](/post/more/) business-oriented [approach](/post/approach/).
+- "Non-commercial [use](/post/use/)" denotes [something](/post/something/) [not](/post/not/) intended [for](/post/for/) [profit](/post/profit/).
+- "[Run](/post/run/) [a](/post/a/) [commercial](/post/commercial/)" [means](/post/means/) [to](/post/to/) [execute](/post/execute/) [or](/post/or/) [display](/post/display/) an [advertisement](/post/advertisement/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) downtown [area](/en/post/area/) is known [for](/en/post/for/) [its](/en/post/its/) bustling [commercial](/en/post/commercial/) [district](/en/post/district/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [airline](/en/post/airline/) decided [to](/en/post/to/) [launch](/en/post/launch/) [a](/en/post/a/) [new](/en/post/new/) [commercial](/en/post/commercial/) [flight](/en/post/flight/) [route](/en/post/route/) [to](/en/post/to/) Europe."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's website features [many](/en/post/many/) [commercial](/en/post/commercial/) ads [to](/en/post/to/) [promote](/en/post/promote/) [their](/en/post/their/) products."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) downtown [area](/post/area/) is known [for](/post/for/) [its](/post/its/) bustling [commercial](/post/commercial/) [district](/post/district/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [airline](/post/airline/) decided [to](/post/to/) [launch](/post/launch/) [a](/post/a/) [new](/post/new/) [commercial](/post/commercial/) [flight](/post/flight/) [route](/post/route/) [to](/post/to/) Europe."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) company's website features [many](/post/many/) [commercial](/post/commercial/) ads [to](/post/to/) [promote](/post/promote/) [their](/post/their/) products."
 
 ## Synonyms
 - Trade-related

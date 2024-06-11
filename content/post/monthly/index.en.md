@@ -7,29 +7,29 @@ description = '[ˈmʌnθli] a.每月的 ad.每月'
 keywords = ['ai words', 'monthly']
 +++
 
-## [Word](/en/post/word/): [Monthly](/en/post/monthly/)
+## [Word](/post/word/): [Monthly](/post/monthly/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmʌnθli/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Occurring [or](/en/post/or/) happening [once](/en/post/once/) [every](/en/post/every/) [month](/en/post/month/); occurring [every](/en/post/every/) [month](/en/post/month/) [regularly](/en/post/regularly/). [Example](/en/post/example/): "[The](/en/post/the/) [monthly](/en/post/monthly/) [magazine](/en/post/magazine/) arrives promptly [on](/en/post/on/) [the](/en/post/the/) [first](/en/post/first/) [day](/en/post/day/) [of](/en/post/of/) [each](/en/post/each/) [month](/en/post/month/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [publication](/en/post/publication/) [that](/en/post/that/) is issued [every](/en/post/every/) [month](/en/post/month/). [Example](/en/post/example/): "[She](/en/post/she/) subscribes [to](/en/post/to/) [several](/en/post/several/) [different](/en/post/different/) [monthly](/en/post/monthly/) magazines [to](/en/post/to/) [stay](/en/post/stay/) updated [on](/en/post/on/) [current](/en/post/current/) affairs."
-- **[Adverb](/en/post/adverb/)**: Happening [or](/en/post/or/) done [every](/en/post/every/) [month](/en/post/month/); [once](/en/post/once/) [a](/en/post/a/) [month](/en/post/month/). [Example](/en/post/example/): "[We](/en/post/we/) [have](/en/post/have/) [a](/en/post/a/) [monthly](/en/post/monthly/) [meeting](/en/post/meeting/) [to](/en/post/to/) [discuss](/en/post/discuss/) [the](/en/post/the/) [progress](/en/post/progress/) [of](/en/post/of/) [our](/en/post/our/) projects."
+- **[Adjective](/post/adjective/)**: Occurring [or](/post/or/) happening [once](/post/once/) [every](/post/every/) [month](/post/month/); occurring [every](/post/every/) [month](/post/month/) [regularly](/post/regularly/). [Example](/post/example/): "[The](/post/the/) [monthly](/post/monthly/) [magazine](/post/magazine/) arrives promptly [on](/post/on/) [the](/post/the/) [first](/post/first/) [day](/post/day/) [of](/post/of/) [each](/post/each/) [month](/post/month/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [publication](/post/publication/) [that](/post/that/) is issued [every](/post/every/) [month](/post/month/). [Example](/post/example/): "[She](/post/she/) subscribes [to](/post/to/) [several](/post/several/) [different](/post/different/) [monthly](/post/monthly/) magazines [to](/post/to/) [stay](/post/stay/) updated [on](/post/on/) [current](/post/current/) affairs."
+- **[Adverb](/post/adverb/)**: Happening [or](/post/or/) done [every](/post/every/) [month](/post/month/); [once](/post/once/) [a](/post/a/) [month](/post/month/). [Example](/post/example/): "[We](/post/we/) [have](/post/have/) [a](/post/a/) [monthly](/post/monthly/) [meeting](/post/meeting/) [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) [progress](/post/progress/) [of](/post/of/) [our](/post/our/) projects."
 
 ## Phrases
-- "[Monthly](/en/post/monthly/) subscription": [A](/en/post/a/) recurring [payment](/en/post/payment/) made [once](/en/post/once/) [a](/en/post/a/) [month](/en/post/month/) [for](/en/post/for/) [access](/en/post/access/) [to](/en/post/to/) [a](/en/post/a/) [service](/en/post/service/) [or](/en/post/or/) [product](/en/post/product/).
-- "[Monthly](/en/post/monthly/) [salary](/en/post/salary/)": [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) [one](/en/post/one/) earns paid [on](/en/post/on/) [a](/en/post/a/) [monthly](/en/post/monthly/) [basis](/en/post/basis/).
-- "[Monthly](/en/post/monthly/) [report](/en/post/report/)": [A](/en/post/a/) [document](/en/post/document/) prepared periodically, [usually](/en/post/usually/) [every](/en/post/every/) [month](/en/post/month/), [to](/en/post/to/) [summarize](/en/post/summarize/) activities, [progress](/en/post/progress/), [or](/en/post/or/) [financial](/en/post/financial/) [performance](/en/post/performance/).
+- "[Monthly](/post/monthly/) subscription": [A](/post/a/) recurring [payment](/post/payment/) made [once](/post/once/) [a](/post/a/) [month](/post/month/) [for](/post/for/) [access](/post/access/) [to](/post/to/) [a](/post/a/) [service](/post/service/) [or](/post/or/) [product](/post/product/).
+- "[Monthly](/post/monthly/) [salary](/post/salary/)": [The](/post/the/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) [one](/post/one/) earns paid [on](/post/on/) [a](/post/a/) [monthly](/post/monthly/) [basis](/post/basis/).
+- "[Monthly](/post/monthly/) [report](/post/report/)": [A](/post/a/) [document](/post/document/) prepared periodically, [usually](/post/usually/) [every](/post/every/) [month](/post/month/), [to](/post/to/) [summarize](/post/summarize/) activities, [progress](/post/progress/), [or](/post/or/) [financial](/post/financial/) [performance](/post/performance/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) has [a](/en/post/a/) [monthly](/en/post/monthly/) [appointment](/en/post/appointment/) [with](/en/post/with/) [her](/en/post/her/) therapist."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's [monthly](/en/post/monthly/) newsletter keeps [its](/en/post/its/) employees informed [about](/en/post/about/) [new](/en/post/new/) developments."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [rent](/en/post/rent/) [must](/en/post/must/) [be](/en/post/be/) paid [monthly](/en/post/monthly/) [to](/en/post/to/) [avoid](/en/post/avoid/) [late](/en/post/late/) fees."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) has [a](/post/a/) [monthly](/post/monthly/) [appointment](/post/appointment/) [with](/post/with/) [her](/post/her/) therapist."
+- **[Noun](/post/noun/)**: "[The](/post/the/) company's [monthly](/post/monthly/) newsletter keeps [its](/post/its/) employees informed [about](/post/about/) [new](/post/new/) developments."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [rent](/post/rent/) [must](/post/must/) [be](/post/be/) paid [monthly](/post/monthly/) [to](/post/to/) [avoid](/post/avoid/) [late](/post/late/) fees."
 
 ## Synonyms
-- Periodical ([noun](/en/post/noun/))
-- [Monthly](/en/post/monthly/) [basis](/en/post/basis/) ([adverb](/en/post/adverb/))
-- [Every](/en/post/every/) [month](/en/post/month/) ([adverb](/en/post/adverb/))
-- [Monthly](/en/post/monthly/) installment ([noun](/en/post/noun/))
-- [Monthly](/en/post/monthly/) [event](/en/post/event/) ([noun](/en/post/noun/))
+- Periodical ([noun](/post/noun/))
+- [Monthly](/post/monthly/) [basis](/post/basis/) ([adverb](/post/adverb/))
+- [Every](/post/every/) [month](/post/month/) ([adverb](/post/adverb/))
+- [Monthly](/post/monthly/) installment ([noun](/post/noun/))
+- [Monthly](/post/monthly/) [event](/post/event/) ([noun](/post/noun/))

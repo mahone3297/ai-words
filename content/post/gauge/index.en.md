@@ -7,35 +7,35 @@ description = '[gedʒ] vt.量，测量 n.量器'
 keywords = ['ai words', 'gauge']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡeɪdʒ/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [instrument](/en/post/instrument/) [for](/en/post/for/) measuring [or](/en/post/or/) determining [something](/en/post/something/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) measures [pressure](/en/post/pressure/), dimensions, [or](/en/post/or/) [capacity](/en/post/capacity/). [Example](/en/post/example/): "[A](/en/post/a/) [fuel](/en/post/fuel/) [gauge](/en/post/gauge/) shows [how](/en/post/how/) [much](/en/post/much/) [petrol](/en/post/petrol/) is [left](/en/post/left/) [in](/en/post/in/) [the](/en/post/the/) [tank](/en/post/tank/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [measure](/en/post/measure/) [or](/en/post/or/) [determine](/en/post/determine/) [the](/en/post/the/) [exact](/en/post/exact/) dimensions, [quantity](/en/post/quantity/), [or](/en/post/or/) [capacity](/en/post/capacity/) [of](/en/post/of/) [something](/en/post/something/) using [a](/en/post/a/) [gauge](/en/post/gauge/) [or](/en/post/or/) [by](/en/post/by/) estimation. [Example](/en/post/example/): "Engineers gauged [the](/en/post/the/) [depth](/en/post/depth/) [of](/en/post/of/) [the](/en/post/the/) [river](/en/post/river/) [before](/en/post/before/) constructing [the](/en/post/the/) [bridge](/en/post/bridge/)."
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [standard](/en/post/standard/) [of](/en/post/of/) [measurement](/en/post/measurement/) [or](/en/post/or/) assessment; [a](/en/post/a/) criterion. [Example](/en/post/example/): "[Customer](/en/post/customer/) [satisfaction](/en/post/satisfaction/) is an [important](/en/post/important/) [gauge](/en/post/gauge/) [for](/en/post/for/) evaluating [business](/en/post/business/) [performance](/en/post/performance/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [fit](/en/post/fit/) [a](/en/post/a/) [certain](/en/post/certain/) [size](/en/post/size/) [or](/en/post/or/) [standard](/en/post/standard/) [by](/en/post/by/) cutting, shaping, [or](/en/post/or/) modifying [it](/en/post/it/). [Example](/en/post/example/): "[The](/en/post/the/) [tailor](/en/post/tailor/) gauged [the](/en/post/the/) [fabric](/en/post/fabric/) [to](/en/post/to/) [fit](/en/post/fit/) [the](/en/post/the/) client's measurements [perfectly](/en/post/perfectly/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [device](/post/device/) [or](/post/or/) [instrument](/post/instrument/) [for](/post/for/) measuring [or](/post/or/) determining [something](/post/something/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) measures [pressure](/post/pressure/), dimensions, [or](/post/or/) [capacity](/post/capacity/). [Example](/post/example/): "[A](/post/a/) [fuel](/post/fuel/) [gauge](/post/gauge/) shows [how](/post/how/) [much](/post/much/) [petrol](/post/petrol/) is [left](/post/left/) [in](/post/in/) [the](/post/the/) [tank](/post/tank/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [measure](/post/measure/) [or](/post/or/) [determine](/post/determine/) [the](/post/the/) [exact](/post/exact/) dimensions, [quantity](/post/quantity/), [or](/post/or/) [capacity](/post/capacity/) [of](/post/of/) [something](/post/something/) using [a](/post/a/) [gauge](/post/gauge/) [or](/post/or/) [by](/post/by/) estimation. [Example](/post/example/): "Engineers gauged [the](/post/the/) [depth](/post/depth/) [of](/post/of/) [the](/post/the/) [river](/post/river/) [before](/post/before/) constructing [the](/post/the/) [bridge](/post/bridge/)."
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [standard](/post/standard/) [of](/post/of/) [measurement](/post/measurement/) [or](/post/or/) assessment; [a](/post/a/) criterion. [Example](/post/example/): "[Customer](/post/customer/) [satisfaction](/post/satisfaction/) is an [important](/post/important/) [gauge](/post/gauge/) [for](/post/for/) evaluating [business](/post/business/) [performance](/post/performance/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) [fit](/post/fit/) [a](/post/a/) [certain](/post/certain/) [size](/post/size/) [or](/post/or/) [standard](/post/standard/) [by](/post/by/) cutting, shaping, [or](/post/or/) modifying [it](/post/it/). [Example](/post/example/): "[The](/post/the/) [tailor](/post/tailor/) gauged [the](/post/the/) [fabric](/post/fabric/) [to](/post/to/) [fit](/post/fit/) [the](/post/the/) client's measurements [perfectly](/post/perfectly/)."
 
 ## Phrases
-- "[Gauge](/en/post/gauge/) [your](/en/post/your/) [reaction](/en/post/reaction/)": [To](/en/post/to/) [evaluate](/en/post/evaluate/) [or](/en/post/or/) [assess](/en/post/assess/) one's [response](/en/post/response/) [to](/en/post/to/) [a](/en/post/a/) [situation](/en/post/situation/).
-- "[To](/en/post/to/) [go](/en/post/go/) [off](/en/post/off/) [the](/en/post/the/) [gauge](/en/post/gauge/)": [To](/en/post/to/) deviate [from](/en/post/from/) [the](/en/post/the/) [standard](/en/post/standard/) [or](/en/post/or/) norm, [often](/en/post/often/) [used](/en/post/used/) metaphorically.
-- "[Pressure](/en/post/pressure/) [gauge](/en/post/gauge/)": An [instrument](/en/post/instrument/) [for](/en/post/for/) measuring [the](/en/post/the/) [pressure](/en/post/pressure/) [of](/en/post/of/) [a](/en/post/a/) [fluid](/en/post/fluid/) [or](/en/post/or/) [gas](/en/post/gas/).
+- "[Gauge](/post/gauge/) [your](/post/your/) [reaction](/post/reaction/)": [To](/post/to/) [evaluate](/post/evaluate/) [or](/post/or/) [assess](/post/assess/) one's [response](/post/response/) [to](/post/to/) [a](/post/a/) [situation](/post/situation/).
+- "[To](/post/to/) [go](/post/go/) [off](/post/off/) [the](/post/the/) [gauge](/post/gauge/)": [To](/post/to/) deviate [from](/post/from/) [the](/post/the/) [standard](/post/standard/) [or](/post/or/) norm, [often](/post/often/) [used](/post/used/) metaphorically.
+- "[Pressure](/post/pressure/) [gauge](/post/gauge/)": An [instrument](/post/instrument/) [for](/post/for/) measuring [the](/post/the/) [pressure](/post/pressure/) [of](/post/of/) [a](/post/a/) [fluid](/post/fluid/) [or](/post/or/) [gas](/post/gas/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [carpenter](/en/post/carpenter/) [used](/en/post/used/) [a](/en/post/a/) [ruler](/en/post/ruler/) [as](/en/post/as/) [a](/en/post/a/) [gauge](/en/post/gauge/) [to](/en/post/to/) [ensure](/en/post/ensure/) [the](/en/post/the/) boards were [cut](/en/post/cut/) [to](/en/post/to/) [the](/en/post/the/) [correct](/en/post/correct/) [length](/en/post/length/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) meteorologist gauged [the](/en/post/the/) [strength](/en/post/strength/) [of](/en/post/of/) [the](/en/post/the/) [storm](/en/post/storm/) based [on](/en/post/on/) [wind](/en/post/wind/) [speed](/en/post/speed/) [data](/en/post/data/)."
-- **[Noun](/en/post/noun/) ([standard](/en/post/standard/))**: "[They](/en/post/they/) [use](/en/post/use/) [market](/en/post/market/) [research](/en/post/research/) [as](/en/post/as/) [a](/en/post/a/) [gauge](/en/post/gauge/) [to](/en/post/to/) [improve](/en/post/improve/) [their](/en/post/their/) [product](/en/post/product/) [line](/en/post/line/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [carpenter](/post/carpenter/) [used](/post/used/) [a](/post/a/) [ruler](/post/ruler/) [as](/post/as/) [a](/post/a/) [gauge](/post/gauge/) [to](/post/to/) [ensure](/post/ensure/) [the](/post/the/) boards were [cut](/post/cut/) [to](/post/to/) [the](/post/the/) [correct](/post/correct/) [length](/post/length/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) meteorologist gauged [the](/post/the/) [strength](/post/strength/) [of](/post/of/) [the](/post/the/) [storm](/post/storm/) based [on](/post/on/) [wind](/post/wind/) [speed](/post/speed/) [data](/post/data/)."
+- **[Noun](/post/noun/) ([standard](/post/standard/))**: "[They](/post/they/) [use](/post/use/) [market](/post/market/) [research](/post/research/) [as](/post/as/) [a](/post/a/) [gauge](/post/gauge/) [to](/post/to/) [improve](/post/improve/) [their](/post/their/) [product](/post/product/) [line](/post/line/)."
 
 ## Synonyms
-- [Measure](/en/post/measure/)
-- [Instrument](/en/post/instrument/)
-- [Meter](/en/post/meter/)
+- [Measure](/post/measure/)
+- [Instrument](/post/instrument/)
+- [Meter](/post/meter/)
 - Indicator
 - Estimation
 - Assessment
 - Calibration
-- [Standard](/en/post/standard/)
-- [Estimate](/en/post/estimate/)
-- [Dimension](/en/post/dimension/)
-- [Capacity](/en/post/capacity/)
+- [Standard](/post/standard/)
+- [Estimate](/post/estimate/)
+- [Dimension](/post/dimension/)
+- [Capacity](/post/capacity/)
 - Evaluation

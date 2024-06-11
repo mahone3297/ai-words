@@ -7,27 +7,27 @@ description = '[ˈruːmə] n.谣言，谣传，传闻'
 keywords = ['ai words', 'rumour']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rʌˈmɔː(r)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/), [often](/en/post/often/) unconfirmed, [that](/en/post/that/) is circulating [among](/en/post/among/) [people](/en/post/people/), typically [about](/en/post/about/) [a](/en/post/a/) [person](/en/post/person/), [event](/en/post/event/), [or](/en/post/or/) [situation](/en/post/situation/). **Synonyms**: [report](/en/post/report/), rumor [mill](/en/post/mill/), speculation, hearsay, gossip.
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [spread](/en/post/spread/) [or](/en/post/or/) [circulate](/en/post/circulate/) [a](/en/post/a/) [rumour](/en/post/rumour/); [to](/en/post/to/) speculate [or](/en/post/or/) [discuss](/en/post/discuss/) [something](/en/post/something/) [without](/en/post/without/) [firm](/en/post/firm/) [evidence](/en/post/evidence/). **Synonyms**: speculate, [spread](/en/post/spread/),传言, [whisper](/en/post/whisper/), conjecture.
+- **[Noun](/post/noun/)**: [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [information](/post/information/), [often](/post/often/) unconfirmed, [that](/post/that/) is circulating [among](/post/among/) [people](/post/people/), typically [about](/post/about/) [a](/post/a/) [person](/post/person/), [event](/post/event/), [or](/post/or/) [situation](/post/situation/). **Synonyms**: [report](/post/report/), rumor [mill](/post/mill/), speculation, hearsay, gossip.
+- **[Verb](/post/verb/)**: [To](/post/to/) [spread](/post/spread/) [or](/post/or/) [circulate](/post/circulate/) [a](/post/a/) [rumour](/post/rumour/); [to](/post/to/) speculate [or](/post/or/) [discuss](/post/discuss/) [something](/post/something/) [without](/post/without/) [firm](/post/firm/) [evidence](/post/evidence/). **Synonyms**: speculate, [spread](/post/spread/),传言, [whisper](/post/whisper/), conjecture.
 
 ## Phrases
-- "[Rumour](/en/post/rumour/) has [it](/en/post/it/)..." [to](/en/post/to/) [say](/en/post/say/) [that](/en/post/that/) [a](/en/post/a/) [particular](/en/post/particular/) [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/) is [being](/en/post/being/) [widely](/en/post/widely/) discussed [but](/en/post/but/) [not](/en/post/not/) [necessarily](/en/post/necessarily/) [true](/en/post/true/).
-- "[Start](/en/post/start/) [a](/en/post/a/) [rumour](/en/post/rumour/)" [to](/en/post/to/) intentionally [create](/en/post/create/) [or](/en/post/or/) propagate [a](/en/post/a/) [false](/en/post/false/) [story](/en/post/story/).
-- "[Put](/en/post/put/) [to](/en/post/to/) [rest](/en/post/rest/) [a](/en/post/a/) [rumour](/en/post/rumour/)" [to](/en/post/to/) dispel [or](/en/post/or/) [confirm](/en/post/confirm/) [a](/en/post/a/) [previously](/en/post/previously/) circulating unconfirmed [report](/en/post/report/).
+- "[Rumour](/post/rumour/) has [it](/post/it/)..." [to](/post/to/) [say](/post/say/) [that](/post/that/) [a](/post/a/) [particular](/post/particular/) [piece](/post/piece/) [of](/post/of/) [information](/post/information/) is [being](/post/being/) [widely](/post/widely/) discussed [but](/post/but/) [not](/post/not/) [necessarily](/post/necessarily/) [true](/post/true/).
+- "[Start](/post/start/) [a](/post/a/) [rumour](/post/rumour/)" [to](/post/to/) intentionally [create](/post/create/) [or](/post/or/) propagate [a](/post/a/) [false](/post/false/) [story](/post/story/).
+- "[Put](/post/put/) [to](/post/to/) [rest](/post/rest/) [a](/post/a/) [rumour](/post/rumour/)" [to](/post/to/) dispel [or](/post/or/) [confirm](/post/confirm/) [a](/post/a/) [previously](/post/previously/) circulating unconfirmed [report](/post/report/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) latest [rumour](/en/post/rumour/) [about](/en/post/about/) [the](/en/post/the/) company's merger was causing [a](/en/post/a/) [stir](/en/post/stir/) [in](/en/post/in/) [the](/en/post/the/) [office](/en/post/office/)."
-- **[Verb](/en/post/verb/)**: "Rumours began [to](/en/post/to/) [circulate](/en/post/circulate/) [that](/en/post/that/) [the](/en/post/the/) [artist](/en/post/artist/) [would](/en/post/would/) [be](/en/post/be/) performing [at](/en/post/at/) [the](/en/post/the/) [festival](/en/post/festival/)."
-- **[Sentence](/en/post/sentence/)**: "[People](/en/post/people/) were speculating [about](/en/post/about/) [the](/en/post/the/) [reason](/en/post/reason/) [behind](/en/post/behind/) [her](/en/post/her/) [sudden](/en/post/sudden/) [departure](/en/post/departure/), [but](/en/post/but/) [no](/en/post/no/) [official](/en/post/official/) [rumour](/en/post/rumour/) was confirmed."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) latest [rumour](/post/rumour/) [about](/post/about/) [the](/post/the/) company's merger was causing [a](/post/a/) [stir](/post/stir/) [in](/post/in/) [the](/post/the/) [office](/post/office/)."
+- **[Verb](/post/verb/)**: "Rumours began [to](/post/to/) [circulate](/post/circulate/) [that](/post/that/) [the](/post/the/) [artist](/post/artist/) [would](/post/would/) [be](/post/be/) performing [at](/post/at/) [the](/post/the/) [festival](/post/festival/)."
+- **[Sentence](/post/sentence/)**: "[People](/post/people/) were speculating [about](/post/about/) [the](/post/the/) [reason](/post/reason/) [behind](/post/behind/) [her](/post/her/) [sudden](/post/sudden/) [departure](/post/departure/), [but](/post/but/) [no](/post/no/) [official](/post/official/) [rumour](/post/rumour/) was confirmed."
 
 ## Synonyms
-- Rumor ([American](/en/post/american/) English)
+- Rumor ([American](/post/american/) English)
 - Speculation
-- [Talk](/en/post/talk/)
+- [Talk](/post/talk/)
 - Gossip
 - Rumblings
 - Unconfirmed reports

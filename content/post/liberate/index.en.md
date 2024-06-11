@@ -7,36 +7,36 @@ description = '[ˈlibəreit] vt.解放；释放'
 keywords = ['ai words', 'liberate']
 +++
 
-## [Word](/en/post/word/): [Liberate](/en/post/liberate/)
+## [Word](/post/word/): [Liberate](/post/liberate/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɪbəreɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [set](/en/post/set/) ([someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/)) [free](/en/post/free/) [from](/en/post/from/) imprisonment, [slavery](/en/post/slavery/), oppression, [or](/en/post/or/) [any](/en/post/any/) [other](/en/post/other/) [form](/en/post/form/) [of](/en/post/of/) [control](/en/post/control/) [or](/en/post/or/) [restriction](/en/post/restriction/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [set](/post/set/) ([someone](/post/someone/) [or](/post/or/) [something](/post/something/)) [free](/post/free/) [from](/post/from/) imprisonment, [slavery](/post/slavery/), oppression, [or](/post/or/) [any](/post/any/) [other](/post/other/) [form](/post/form/) [of](/post/of/) [control](/post/control/) [or](/post/or/) [restriction](/post/restriction/).
 
-### Definitions [in](/en/post/in/) [detail](/en/post/detail/)
-1. **[To](/en/post/to/) [release](/en/post/release/) [from](/en/post/from/) confinement [or](/en/post/or/) bondage**: [To](/en/post/to/) [free](/en/post/free/) [people](/en/post/people/) [who](/en/post/who/) [have](/en/post/have/) been confined [or](/en/post/or/) held [against](/en/post/against/) [their](/en/post/their/) [will](/en/post/will/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) prisoners were liberated [after](/en/post/after/) months [of](/en/post/of/) captivity."
-2. **[To](/en/post/to/) [free](/en/post/free/) [from](/en/post/from/) constraints [or](/en/post/or/) limitations**: [To](/en/post/to/) [release](/en/post/release/) [a](/en/post/a/) [country](/en/post/country/) [or](/en/post/or/) [region](/en/post/region/) [from](/en/post/from/) [occupation](/en/post/occupation/) [by](/en/post/by/) an [enemy](/en/post/enemy/) [force](/en/post/force/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [army](/en/post/army/) liberated [the](/en/post/the/) [city](/en/post/city/) [from](/en/post/from/) [the](/en/post/the/) enemy's [control](/en/post/control/)."
-3. **[To](/en/post/to/) [release](/en/post/release/) [from](/en/post/from/) oppressive [or](/en/post/or/) restrictive influences**: [To](/en/post/to/) [free](/en/post/free/) [someone](/en/post/someone/) [from](/en/post/from/) [social](/en/post/social/), cultural, [or](/en/post/or/) [psychological](/en/post/psychological/) constraints. [For](/en/post/for/) [example](/en/post/example/): "[Education](/en/post/education/) [can](/en/post/can/) [liberate](/en/post/liberate/) [the](/en/post/the/) [mind](/en/post/mind/) [from](/en/post/from/) ignorance."
-4. **[To](/en/post/to/) [grant](/en/post/grant/) [freedom](/en/post/freedom/) [to](/en/post/to/) [something](/en/post/something/)**: [To](/en/post/to/) [allow](/en/post/allow/) [something](/en/post/something/) [to](/en/post/to/) [function](/en/post/function/) [or](/en/post/or/) [exist](/en/post/exist/) [without](/en/post/without/) restrictions. [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [new](/en/post/new/) [technology](/en/post/technology/) liberates [data](/en/post/data/) [storage](/en/post/storage/) [from](/en/post/from/) [physical](/en/post/physical/) [space](/en/post/space/) constraints."
+### Definitions [in](/post/in/) [detail](/post/detail/)
+1. **[To](/post/to/) [release](/post/release/) [from](/post/from/) confinement [or](/post/or/) bondage**: [To](/post/to/) [free](/post/free/) [people](/post/people/) [who](/post/who/) [have](/post/have/) been confined [or](/post/or/) held [against](/post/against/) [their](/post/their/) [will](/post/will/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) prisoners were liberated [after](/post/after/) months [of](/post/of/) captivity."
+2. **[To](/post/to/) [free](/post/free/) [from](/post/from/) constraints [or](/post/or/) limitations**: [To](/post/to/) [release](/post/release/) [a](/post/a/) [country](/post/country/) [or](/post/or/) [region](/post/region/) [from](/post/from/) [occupation](/post/occupation/) [by](/post/by/) an [enemy](/post/enemy/) [force](/post/force/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [army](/post/army/) liberated [the](/post/the/) [city](/post/city/) [from](/post/from/) [the](/post/the/) enemy's [control](/post/control/)."
+3. **[To](/post/to/) [release](/post/release/) [from](/post/from/) oppressive [or](/post/or/) restrictive influences**: [To](/post/to/) [free](/post/free/) [someone](/post/someone/) [from](/post/from/) [social](/post/social/), cultural, [or](/post/or/) [psychological](/post/psychological/) constraints. [For](/post/for/) [example](/post/example/): "[Education](/post/education/) [can](/post/can/) [liberate](/post/liberate/) [the](/post/the/) [mind](/post/mind/) [from](/post/from/) ignorance."
+4. **[To](/post/to/) [grant](/post/grant/) [freedom](/post/freedom/) [to](/post/to/) [something](/post/something/)**: [To](/post/to/) [allow](/post/allow/) [something](/post/something/) [to](/post/to/) [function](/post/function/) [or](/post/or/) [exist](/post/exist/) [without](/post/without/) restrictions. [For](/post/for/) [example](/post/example/): "[This](/post/this/) [new](/post/new/) [technology](/post/technology/) liberates [data](/post/data/) [storage](/post/storage/) [from](/post/from/) [physical](/post/physical/) [space](/post/space/) constraints."
 
 ## Phrases
-- "[Liberate](/en/post/liberate/) [a](/en/post/a/) [country](/en/post/country/)" [means](/en/post/means/) [to](/en/post/to/) [free](/en/post/free/) [it](/en/post/it/) [from](/en/post/from/) [foreign](/en/post/foreign/) domination [or](/en/post/or/) oppressive [rule](/en/post/rule/).
-- "[Liberate](/en/post/liberate/) [oneself](/en/post/oneself/)" implies freeing [oneself](/en/post/oneself/) [from](/en/post/from/) [personal](/en/post/personal/) limitations [or](/en/post/or/) [negative](/en/post/negative/) influences.
-- "[Liberate](/en/post/liberate/) [information](/en/post/information/)" suggests making [it](/en/post/it/) [available](/en/post/available/) [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/) [or](/en/post/or/) allowing [it](/en/post/it/) [to](/en/post/to/) [be](/en/post/be/) accessed [freely](/en/post/freely/).
+- "[Liberate](/post/liberate/) [a](/post/a/) [country](/post/country/)" [means](/post/means/) [to](/post/to/) [free](/post/free/) [it](/post/it/) [from](/post/from/) [foreign](/post/foreign/) domination [or](/post/or/) oppressive [rule](/post/rule/).
+- "[Liberate](/post/liberate/) [oneself](/post/oneself/)" implies freeing [oneself](/post/oneself/) [from](/post/from/) [personal](/post/personal/) limitations [or](/post/or/) [negative](/post/negative/) influences.
+- "[Liberate](/post/liberate/) [information](/post/information/)" suggests making [it](/post/it/) [available](/post/available/) [to](/post/to/) [the](/post/the/) [public](/post/public/) [or](/post/or/) allowing [it](/post/it/) [to](/post/to/) [be](/post/be/) accessed [freely](/post/freely/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [mission](/en/post/mission/) was [successful](/en/post/successful/); [they](/en/post/they/) managed [to](/en/post/to/) [liberate](/en/post/liberate/) [the](/en/post/the/) hostages [from](/en/post/from/) [their](/en/post/their/) captors."
-- "[Through](/en/post/through/) [her](/en/post/her/) [art](/en/post/art/), [she](/en/post/she/) seeks [to](/en/post/to/) [liberate](/en/post/liberate/) emotions [that](/en/post/that/) are [often](/en/post/often/) suppressed [in](/en/post/in/) [society](/en/post/society/)."
-- "[Once](/en/post/once/) [the](/en/post/the/) [new](/en/post/new/) software update is installed, [it](/en/post/it/) [will](/en/post/will/) [liberate](/en/post/liberate/) [your](/en/post/your/) [device](/en/post/device/)’s [full](/en/post/full/) [potential](/en/post/potential/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[The](/post/the/) [mission](/post/mission/) was [successful](/post/successful/); [they](/post/they/) managed [to](/post/to/) [liberate](/post/liberate/) [the](/post/the/) hostages [from](/post/from/) [their](/post/their/) captors."
+- "[Through](/post/through/) [her](/post/her/) [art](/post/art/), [she](/post/she/) seeks [to](/post/to/) [liberate](/post/liberate/) emotions [that](/post/that/) are [often](/post/often/) suppressed [in](/post/in/) [society](/post/society/)."
+- "[Once](/post/once/) [the](/post/the/) [new](/post/new/) software update is installed, [it](/post/it/) [will](/post/will/) [liberate](/post/liberate/) [your](/post/your/) [device](/post/device/)’s [full](/post/full/) [potential](/post/potential/)."
 
 ## Synonyms
-- [Free](/en/post/free/)
-- [Release](/en/post/release/)
+- [Free](/post/free/)
+- [Release](/post/release/)
 - Unshackle
 - Emancipate
 - Unchain
-- [Set](/en/post/set/) [free](/en/post/free/)
+- [Set](/post/set/) [free](/post/free/)
 - Unleash
-- [Let](/en/post/let/) [loose](/en/post/loose/)
+- [Let](/post/let/) [loose](/post/loose/)

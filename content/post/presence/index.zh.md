@@ -11,21 +11,21 @@ keywords = ['ai words', 'presence']
 /prɪˈzɛns/
 
 ## 释义
-- **名词**: 存在；出席；到场。例如: "[His](/post/his/) [presence](/post/presence/) filled [the](/post/the/) [room](/post/room/) [with](/post/with/) an [air](/post/air/) [of](/post/of/) [authority](/post/authority/)."
-- **名词**: (常与the连用) 威严；庄重。例如: "[The](/post/the/) queen's [presence](/post/presence/) demanded [respect](/post/respect/)."
-- **名词**: (常与one's连用) 个人魅力；风采。例如: "[She](/post/she/) had [a](/post/a/) captivating [presence](/post/presence/) [on](/post/on/) [stage](/post/stage/)."
+- **名词**: 存在；出席；到场。例如: "[His](/zh/post/his/) [presence](/zh/post/presence/) filled [the](/zh/post/the/) [room](/zh/post/room/) [with](/zh/post/with/) an [air](/zh/post/air/) [of](/zh/post/of/) [authority](/zh/post/authority/)."
+- **名词**: (常与the连用) 威严；庄重。例如: "[The](/zh/post/the/) queen's [presence](/zh/post/presence/) demanded [respect](/zh/post/respect/)."
+- **名词**: (常与one's连用) 个人魅力；风采。例如: "[She](/zh/post/she/) had [a](/zh/post/a/) captivating [presence](/zh/post/presence/) [on](/zh/post/on/) [stage](/zh/post/stage/)."
 
 ## 短语
-- "[in](/post/in/) [the](/post/the/) [presence](/post/presence/) [of](/post/of/)" 表示在...的面前。例如: "[They](/post/they/) behaved politely [in](/post/in/) [the](/post/the/) [presence](/post/presence/) [of](/post/of/) [their](/post/their/) elders."
-- "[a](/post/a/) commanding [presence](/post/presence/)" 指有威严或影响力的存在。例如: "[The](/post/the/) [general](/post/general/) had [a](/post/a/) commanding [presence](/post/presence/) [that](/post/that/) inspired [his](/post/his/) troops."
+- "[in](/zh/post/in/) [the](/zh/post/the/) [presence](/zh/post/presence/) [of](/zh/post/of/)" 表示在...的面前。例如: "[They](/zh/post/they/) behaved politely [in](/zh/post/in/) [the](/zh/post/the/) [presence](/zh/post/presence/) [of](/zh/post/of/) [their](/zh/post/their/) elders."
+- "[a](/zh/post/a/) commanding [presence](/zh/post/presence/)" 指有威严或影响力的存在。例如: "[The](/zh/post/the/) [general](/zh/post/general/) had [a](/zh/post/a/) commanding [presence](/zh/post/presence/) [that](/zh/post/that/) inspired [his](/zh/post/his/) troops."
 
 ## 例句
-- 名词: "[We](/post/we/) felt [his](/post/his/) [presence](/post/presence/) [even](/post/even/) [though](/post/though/) [he](/post/he/) wasn't physically [in](/post/in/) [the](/post/the/) [room](/post/room/)."
-- 名词: "[Her](/post/her/) [mere](/post/mere/) [presence](/post/presence/) lightened [the](/post/the/) [mood](/post/mood/) [of](/post/of/) [the](/post/the/) gathering."
+- 名词: "[We](/zh/post/we/) felt [his](/zh/post/his/) [presence](/zh/post/presence/) [even](/zh/post/even/) [though](/zh/post/though/) [he](/zh/post/he/) wasn't physically [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/)."
+- 名词: "[Her](/zh/post/her/) [mere](/zh/post/mere/) [presence](/zh/post/presence/) lightened [the](/zh/post/the/) [mood](/zh/post/mood/) [of](/zh/post/of/) [the](/zh/post/the/) gathering."
 
 ## 同义词
-- [existence](/post/existence/)
+- [existence](/zh/post/existence/)
 - attendance
 - visibility
 - manifestation
-- [company](/post/company/)
+- [company](/zh/post/company/)

@@ -11,19 +11,19 @@ keywords = ['ai words', 'modest']
 /ˈmɑːdɪst/
 
 ## 释义
-- **形容词**: 谦虚的；适度的；不张扬的。例如: "[She](/post/she/) was [modest](/post/modest/) [about](/post/about/) [her](/post/her/) achievements."
-- **副词**: 谦虚地；适当地。例如: "[He](/post/he/) spoke modestly [about](/post/about/) [his](/post/his/) [role](/post/role/) [in](/post/in/) [the](/post/the/) [project](/post/project/)."
+- **形容词**: 谦虚的；适度的；不张扬的。例如: "[She](/zh/post/she/) was [modest](/zh/post/modest/) [about](/zh/post/about/) [her](/zh/post/her/) achievements."
+- **副词**: 谦虚地；适当地。例如: "[He](/zh/post/he/) spoke modestly [about](/zh/post/about/) [his](/zh/post/his/) [role](/zh/post/role/) [in](/zh/post/in/) [the](/zh/post/the/) [project](/zh/post/project/)."
 
 ## 短语
-- "[modest](/post/modest/) [living](/post/living/)" 意为简朴的生活方式。
-- "[modest](/post/modest/) gains" 指适度的增长或收益。
+- "[modest](/zh/post/modest/) [living](/zh/post/living/)" 意为简朴的生活方式。
+- "[modest](/zh/post/modest/) gains" 指适度的增长或收益。
 
 ## 例句
-- 形容词: "[Her](/post/her/) [modest](/post/modest/) [dress](/post/dress/) reflected [her](/post/her/) [conservative](/post/conservative/) personality."
-- 副词: "[He](/post/he/) described [his](/post/his/) [success](/post/success/) modestly, giving [credit](/post/credit/) [to](/post/to/) [his](/post/his/) [team](/post/team/)."
+- 形容词: "[Her](/zh/post/her/) [modest](/zh/post/modest/) [dress](/zh/post/dress/) reflected [her](/zh/post/her/) [conservative](/zh/post/conservative/) personality."
+- 副词: "[He](/zh/post/he/) described [his](/zh/post/his/) [success](/zh/post/success/) modestly, giving [credit](/zh/post/credit/) [to](/zh/post/to/) [his](/zh/post/his/) [team](/zh/post/team/)."
 
 ## 同义词
-- [Humble](/post/humble/)
+- [Humble](/zh/post/humble/)
 - Unassuming
 - Discreet
 - Unpretentious

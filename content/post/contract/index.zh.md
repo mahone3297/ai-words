@@ -11,23 +11,23 @@ keywords = ['ai words', 'contract']
 /ˈkɑːntrækt/
 
 ## 释义
-- **名词 (n)**: 一份有法律约束力的协议，其中双方或多方同意进行某些交易或服务。例如: "[Both](/post/both/) parties signed [the](/post/the/) [contract](/post/contract/) [before](/post/before/) starting [the](/post/the/) [project](/post/project/)."
-- **动词 (v)**: 缩小，减少或收缩。例如: "[The](/post/the/) muscles [in](/post/in/) [his](/post/his/) arms contracted [after](/post/after/) [a](/post/a/) [long](/post/long/) workout."
-- **动词 (v)**: 订立合同或协议。例如: "[The](/post/the/) [company](/post/company/) contracted [with](/post/with/) [a](/post/a/) [new](/post/new/) supplier [for](/post/for/) [their](/post/their/) [raw](/post/raw/) materials."
+- **名词 (n)**: 一份有法律约束力的协议，其中双方或多方同意进行某些交易或服务。例如: "[Both](/zh/post/both/) parties signed [the](/zh/post/the/) [contract](/zh/post/contract/) [before](/zh/post/before/) starting [the](/zh/post/the/) [project](/zh/post/project/)."
+- **动词 (v)**: 缩小，减少或收缩。例如: "[The](/zh/post/the/) muscles [in](/zh/post/in/) [his](/zh/post/his/) arms contracted [after](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) workout."
+- **动词 (v)**: 订立合同或协议。例如: "[The](/zh/post/the/) [company](/zh/post/company/) contracted [with](/zh/post/with/) [a](/zh/post/a/) [new](/zh/post/new/) supplier [for](/zh/post/for/) [their](/zh/post/their/) [raw](/zh/post/raw/) materials."
 
 ## 短语
-- "[Contract](/post/contract/) [of](/post/of/) [employment](/post/employment/)" 意为雇佣合同。
-- "[Contract](/post/contract/) [out](/post/out/)" 指将工作或服务外包给他人。
+- "[Contract](/zh/post/contract/) [of](/zh/post/of/) [employment](/zh/post/employment/)" 意为雇佣合同。
+- "[Contract](/zh/post/contract/) [out](/zh/post/out/)" 指将工作或服务外包给他人。
 - "Contractual obligations" 指合同中的义务。
 
 ## 例句
-- 名词: "[The](/post/the/) [contract](/post/contract/) included [a](/post/a/) clause [for](/post/for/) resolving disputes [through](/post/through/) arbitration."
-- 动词 (缩小): "[The](/post/the/) [ice](/post/ice/) [cream](/post/cream/) [will](/post/will/) [contract](/post/contract/) [when](/post/when/) it's frozen."
-- 动词 (订立合同): "[They](/post/they/) contracted [with](/post/with/) [a](/post/a/) [construction](/post/construction/) [firm](/post/firm/) [to](/post/to/) [build](/post/build/) [a](/post/a/) [new](/post/new/) [office](/post/office/) [building](/post/building/)."
+- 名词: "[The](/zh/post/the/) [contract](/zh/post/contract/) included [a](/zh/post/a/) clause [for](/zh/post/for/) resolving disputes [through](/zh/post/through/) arbitration."
+- 动词 (缩小): "[The](/zh/post/the/) [ice](/zh/post/ice/) [cream](/zh/post/cream/) [will](/zh/post/will/) [contract](/zh/post/contract/) [when](/zh/post/when/) it's frozen."
+- 动词 (订立合同): "[They](/zh/post/they/) contracted [with](/zh/post/with/) [a](/zh/post/a/) [construction](/zh/post/construction/) [firm](/zh/post/firm/) [to](/zh/post/to/) [build](/zh/post/build/) [a](/zh/post/a/) [new](/zh/post/new/) [office](/zh/post/office/) [building](/zh/post/building/)."
 
 ## 同义词
-- [Agreement](/post/agreement/)
+- [Agreement](/zh/post/agreement/)
 - Pact
-- [Treaty](/post/treaty/)
-- [Bargain](/post/bargain/)
-- [Deal](/post/deal/)
+- [Treaty](/zh/post/treaty/)
+- [Bargain](/zh/post/bargain/)
+- [Deal](/zh/post/deal/)

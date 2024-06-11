@@ -7,34 +7,34 @@ description = '[ˈdʒuːnjə] a.年少的 n.晚辈'
 keywords = ['ai words', 'junior']
 +++
 
-# [junior](/en/post/junior/)
+# [junior](/post/junior/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈdʒuːniər/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Younger [or](/en/post/or/) [lower](/en/post/lower/) [in](/en/post/in/) [rank](/en/post/rank/); [less](/en/post/less/) experienced. [Often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [who](/en/post/who/) occupies [a](/en/post/a/) subordinate [position](/en/post/position/), typically [within](/en/post/within/) an educational [institution](/en/post/institution/) [or](/en/post/or/) [professional](/en/post/professional/) hierarchy. [Example](/en/post/example/): "She's [a](/en/post/a/) [junior](/en/post/junior/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) [team](/en/post/team/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is younger [or](/en/post/or/) [lower](/en/post/lower/) [in](/en/post/in/) [rank](/en/post/rank/) [than](/en/post/than/) [another](/en/post/another/), [especially](/en/post/especially/) [in](/en/post/in/) [school](/en/post/school/) [or](/en/post/or/) [at](/en/post/at/) [work](/en/post/work/). [Example](/en/post/example/): "[The](/en/post/the/) juniors [in](/en/post/in/) [high](/en/post/high/) [school](/en/post/school/) [will](/en/post/will/) [be](/en/post/be/) attending prom [this](/en/post/this/) [year](/en/post/year/)."
-- **[Noun](/en/post/noun/)**: ([in](/en/post/in/) names) [Used](/en/post/used/) [to](/en/post/to/) [distinguish](/en/post/distinguish/) [a](/en/post/a/) [son](/en/post/son/) [from](/en/post/from/) [his](/en/post/his/) [father](/en/post/father/) [when](/en/post/when/) [they](/en/post/they/) [have](/en/post/have/) [the](/en/post/the/) [same](/en/post/same/) [name](/en/post/name/), [often](/en/post/often/) indicating [that](/en/post/that/) [he](/en/post/he/) is [the](/en/post/the/) younger [one](/en/post/one/). [Example](/en/post/example/): "John Smith Jr."
+- **[Adjective](/post/adjective/)**: Younger [or](/post/or/) [lower](/post/lower/) [in](/post/in/) [rank](/post/rank/); [less](/post/less/) experienced. [Often](/post/often/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [who](/post/who/) occupies [a](/post/a/) subordinate [position](/post/position/), typically [within](/post/within/) an educational [institution](/post/institution/) [or](/post/or/) [professional](/post/professional/) hierarchy. [Example](/post/example/): "She's [a](/post/a/) [junior](/post/junior/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [team](/post/team/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is younger [or](/post/or/) [lower](/post/lower/) [in](/post/in/) [rank](/post/rank/) [than](/post/than/) [another](/post/another/), [especially](/post/especially/) [in](/post/in/) [school](/post/school/) [or](/post/or/) [at](/post/at/) [work](/post/work/). [Example](/post/example/): "[The](/post/the/) juniors [in](/post/in/) [high](/post/high/) [school](/post/school/) [will](/post/will/) [be](/post/be/) attending prom [this](/post/this/) [year](/post/year/)."
+- **[Noun](/post/noun/)**: ([in](/post/in/) names) [Used](/post/used/) [to](/post/to/) [distinguish](/post/distinguish/) [a](/post/a/) [son](/post/son/) [from](/post/from/) [his](/post/his/) [father](/post/father/) [when](/post/when/) [they](/post/they/) [have](/post/have/) [the](/post/the/) [same](/post/same/) [name](/post/name/), [often](/post/often/) indicating [that](/post/that/) [he](/post/he/) is [the](/post/the/) younger [one](/post/one/). [Example](/post/example/): "John Smith Jr."
 
 ## Phrases
-- "[Junior](/en/post/junior/) [high](/en/post/high/) [school](/en/post/school/)": [A](/en/post/a/) [school](/en/post/school/) [for](/en/post/for/) students [in](/en/post/in/) grades 7 [through](/en/post/through/) 9, [or](/en/post/or/) [sometimes](/en/post/sometimes/) 6 [through](/en/post/through/) 8, depending [on](/en/post/on/) [the](/en/post/the/) [region](/en/post/region/).
-- "[Junior](/en/post/junior/) varsity": [A](/en/post/a/) sports [team](/en/post/team/) [in](/en/post/in/) schools [or](/en/post/or/) colleges [that](/en/post/that/) is [secondary](/en/post/secondary/) [to](/en/post/to/) [the](/en/post/the/) [main](/en/post/main/) [or](/en/post/or/) varsity [team](/en/post/team/), [usually](/en/post/usually/) consisting [of](/en/post/of/) [less](/en/post/less/) experienced players.
-- "[Junior](/en/post/junior/) [associate](/en/post/associate/)": [A](/en/post/a/) [term](/en/post/term/) [in](/en/post/in/) [business](/en/post/business/) [or](/en/post/or/) [law](/en/post/law/) firms referring [to](/en/post/to/) [a](/en/post/a/) newer, [less](/en/post/less/) experienced [employee](/en/post/employee/).
+- "[Junior](/post/junior/) [high](/post/high/) [school](/post/school/)": [A](/post/a/) [school](/post/school/) [for](/post/for/) students [in](/post/in/) grades 7 [through](/post/through/) 9, [or](/post/or/) [sometimes](/post/sometimes/) 6 [through](/post/through/) 8, depending [on](/post/on/) [the](/post/the/) [region](/post/region/).
+- "[Junior](/post/junior/) varsity": [A](/post/a/) sports [team](/post/team/) [in](/post/in/) schools [or](/post/or/) colleges [that](/post/that/) is [secondary](/post/secondary/) [to](/post/to/) [the](/post/the/) [main](/post/main/) [or](/post/or/) varsity [team](/post/team/), [usually](/post/usually/) consisting [of](/post/of/) [less](/post/less/) experienced players.
+- "[Junior](/post/junior/) [associate](/post/associate/)": [A](/post/a/) [term](/post/term/) [in](/post/in/) [business](/post/business/) [or](/post/or/) [law](/post/law/) firms referring [to](/post/to/) [a](/post/a/) newer, [less](/post/less/) experienced [employee](/post/employee/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Despite](/en/post/despite/) [being](/en/post/being/) [a](/en/post/a/) [junior](/en/post/junior/) [officer](/en/post/officer/), [she](/en/post/she/) demonstrated [great](/en/post/great/) [leadership](/en/post/leadership/) skills."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) juniors organized [their](/en/post/their/) [own](/en/post/own/) fundraising [event](/en/post/event/) [for](/en/post/for/) [charity](/en/post/charity/)."
-- **[In](/en/post/in/) Names**: "William Shakespeare Jr. was [the](/en/post/the/) playwright's [son](/en/post/son/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Despite](/post/despite/) [being](/post/being/) [a](/post/a/) [junior](/post/junior/) [officer](/post/officer/), [she](/post/she/) demonstrated [great](/post/great/) [leadership](/post/leadership/) skills."
+- **[Noun](/post/noun/)**: "[The](/post/the/) juniors organized [their](/post/their/) [own](/post/own/) fundraising [event](/post/event/) [for](/post/for/) [charity](/post/charity/)."
+- **[In](/post/in/) Names**: "William Shakespeare Jr. was [the](/post/the/) playwright's [son](/post/son/)."
 
 ## Synonyms
 - Younger
-- [Less](/en/post/less/) experienced
+- [Less](/post/less/) experienced
 - Subordinate
 - Novice
 - Apprentice
 - Cadet
 - Trainee
-- [Youthful](/en/post/youthful/)
+- [Youthful](/post/youthful/)
 - Neophyte
-- Freshman ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
+- Freshman ([in](/post/in/) [certain](/post/certain/) contexts)

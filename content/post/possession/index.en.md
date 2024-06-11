@@ -7,35 +7,35 @@ description = '[pəˈze∫ən] n.有，所有；占有物'
 keywords = ['ai words', 'possession']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈzeʃ(ə)n/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Possession](/en/post/possession/)** (n): [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [fact](/en/post/fact/) [of](/en/post/of/) having [something](/en/post/something/) [as](/en/post/as/) one's [own](/en/post/own/); [ownership](/en/post/ownership/) [or](/en/post/or/) [control](/en/post/control/). [Example](/en/post/example/): "[He](/en/post/he/) has [complete](/en/post/complete/) [possession](/en/post/possession/) [of](/en/post/of/) [his](/en/post/his/) [house](/en/post/house/)."
-2. **Possessiveness** (n): [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) possessive [or](/en/post/or/) [protective](/en/post/protective/) [of](/en/post/of/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [Example](/en/post/example/): "[Her](/en/post/her/) possessiveness [over](/en/post/over/) [her](/en/post/her/) belongings was [evident](/en/post/evident/)."
-3. **[Possession](/en/post/possession/) ([legal](/en/post/legal/))** (n): [The](/en/post/the/) [legal](/en/post/legal/) [right](/en/post/right/) [to](/en/post/to/) [own](/en/post/own/) [or](/en/post/or/) [control](/en/post/control/) [property](/en/post/property/). [Example](/en/post/example/): "[The](/en/post/the/) [court](/en/post/court/) ruled [in](/en/post/in/) favor [of](/en/post/of/) [the](/en/post/the/) defendant [regarding](/en/post/regarding/) [the](/en/post/the/) disputed [possession](/en/post/possession/) [of](/en/post/of/) [the](/en/post/the/) [land](/en/post/land/)."
+### [Noun](/post/noun/)
+1. **[Possession](/post/possession/)** (n): [The](/post/the/) [state](/post/state/) [or](/post/or/) [fact](/post/fact/) [of](/post/of/) having [something](/post/something/) [as](/post/as/) one's [own](/post/own/); [ownership](/post/ownership/) [or](/post/or/) [control](/post/control/). [Example](/post/example/): "[He](/post/he/) has [complete](/post/complete/) [possession](/post/possession/) [of](/post/of/) [his](/post/his/) [house](/post/house/)."
+2. **Possessiveness** (n): [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) possessive [or](/post/or/) [protective](/post/protective/) [of](/post/of/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [Example](/post/example/): "[Her](/post/her/) possessiveness [over](/post/over/) [her](/post/her/) belongings was [evident](/post/evident/)."
+3. **[Possession](/post/possession/) ([legal](/post/legal/))** (n): [The](/post/the/) [legal](/post/legal/) [right](/post/right/) [to](/post/to/) [own](/post/own/) [or](/post/or/) [control](/post/control/) [property](/post/property/). [Example](/post/example/): "[The](/post/the/) [court](/post/court/) ruled [in](/post/in/) favor [of](/post/of/) [the](/post/the/) defendant [regarding](/post/regarding/) [the](/post/the/) disputed [possession](/post/possession/) [of](/post/of/) [the](/post/the/) [land](/post/land/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [possess](/en/post/possess/)** (v): [To](/en/post/to/) [have](/en/post/have/) [physical](/en/post/physical/) [or](/en/post/or/) [legal](/en/post/legal/) [ownership](/en/post/ownership/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[She](/en/post/she/) possesses [several](/en/post/several/) [valuable](/en/post/valuable/) [art](/en/post/art/) pieces [in](/en/post/in/) [her](/en/post/her/) [collection](/en/post/collection/)."
-2. **[To](/en/post/to/) [be](/en/post/be/) possessed [by](/en/post/by/)** (v): (figurative) [To](/en/post/to/) [be](/en/post/be/) [under](/en/post/under/) [the](/en/post/the/) [influence](/en/post/influence/) [or](/en/post/or/) [control](/en/post/control/) [of](/en/post/of/) [a](/en/post/a/) supernatural entity [or](/en/post/or/) [force](/en/post/force/). [Example](/en/post/example/): "[He](/en/post/he/) was possessed [by](/en/post/by/) an [intense](/en/post/intense/) [passion](/en/post/passion/) [for](/en/post/for/) [music](/en/post/music/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [possess](/post/possess/)** (v): [To](/post/to/) [have](/post/have/) [physical](/post/physical/) [or](/post/or/) [legal](/post/legal/) [ownership](/post/ownership/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[She](/post/she/) possesses [several](/post/several/) [valuable](/post/valuable/) [art](/post/art/) pieces [in](/post/in/) [her](/post/her/) [collection](/post/collection/)."
+2. **[To](/post/to/) [be](/post/be/) possessed [by](/post/by/)** (v): (figurative) [To](/post/to/) [be](/post/be/) [under](/post/under/) [the](/post/the/) [influence](/post/influence/) [or](/post/or/) [control](/post/control/) [of](/post/of/) [a](/post/a/) supernatural entity [or](/post/or/) [force](/post/force/). [Example](/post/example/): "[He](/post/he/) was possessed [by](/post/by/) an [intense](/post/intense/) [passion](/post/passion/) [for](/post/for/) [music](/post/music/)."
 
 ## Phrases
-- "[In](/en/post/in/) [possession](/en/post/possession/) [of](/en/post/of/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [physical](/en/post/physical/) [control](/en/post/control/) [or](/en/post/or/) [ownership](/en/post/ownership/) [of](/en/post/of/) [something](/en/post/something/).
-- "[Lack](/en/post/lack/) [of](/en/post/of/) [possession](/en/post/possession/)" refers [to](/en/post/to/) [not](/en/post/not/) having [something](/en/post/something/).
-- "[Personal](/en/post/personal/) possessions" are items owned [by](/en/post/by/) an [individual](/en/post/individual/).
-- "Bequeath [possession](/en/post/possession/)" is [to](/en/post/to/) [give](/en/post/give/) [ownership](/en/post/ownership/) [of](/en/post/of/) [something](/en/post/something/) [to](/en/post/to/) [someone](/en/post/someone/) [upon](/en/post/upon/) [death](/en/post/death/).
+- "[In](/post/in/) [possession](/post/possession/) [of](/post/of/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [physical](/post/physical/) [control](/post/control/) [or](/post/or/) [ownership](/post/ownership/) [of](/post/of/) [something](/post/something/).
+- "[Lack](/post/lack/) [of](/post/of/) [possession](/post/possession/)" refers [to](/post/to/) [not](/post/not/) having [something](/post/something/).
+- "[Personal](/post/personal/) possessions" are items owned [by](/post/by/) an [individual](/post/individual/).
+- "Bequeath [possession](/post/possession/)" is [to](/post/to/) [give](/post/give/) [ownership](/post/ownership/) [of](/post/of/) [something](/post/something/) [to](/post/to/) [someone](/post/someone/) [upon](/post/upon/) [death](/post/death/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [museum](/en/post/museum/) displayed artifacts [from](/en/post/from/) [various](/en/post/various/) periods [of](/en/post/of/) [history](/en/post/history/), showcasing [their](/en/post/their/) cultural possessions."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) auction, [he](/en/post/he/) proudly possessed [the](/en/post/the/) [rare](/en/post/rare/) [first](/en/post/first/) [edition](/en/post/edition/) [book](/en/post/book/)."
-- **[Legal](/en/post/legal/)**: "[The](/en/post/the/) [dispute](/en/post/dispute/) arose [when](/en/post/when/) [the](/en/post/the/) [landlord](/en/post/landlord/) claimed [to](/en/post/to/) [have](/en/post/have/) [possession](/en/post/possession/) [of](/en/post/of/) [the](/en/post/the/) tenant's belongings."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [museum](/post/museum/) displayed artifacts [from](/post/from/) [various](/post/various/) periods [of](/post/of/) [history](/post/history/), showcasing [their](/post/their/) cultural possessions."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) auction, [he](/post/he/) proudly possessed [the](/post/the/) [rare](/post/rare/) [first](/post/first/) [edition](/post/edition/) [book](/post/book/)."
+- **[Legal](/post/legal/)**: "[The](/post/the/) [dispute](/post/dispute/) arose [when](/post/when/) [the](/post/the/) [landlord](/post/landlord/) claimed [to](/post/to/) [have](/post/have/) [possession](/post/possession/) [of](/post/of/) [the](/post/the/) tenant's belongings."
 
 ## Synonyms
-- [Ownership](/en/post/ownership/)
-- [Property](/en/post/property/)
+- [Ownership](/post/ownership/)
+- [Property](/post/property/)
 - Belongings
-- [Ownership](/en/post/ownership/) rights
+- [Ownership](/post/ownership/) rights
 - Dominion
-- [Control](/en/post/control/)
-- Affectionate attachment ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [emotional](/en/post/emotional/) attachment)
+- [Control](/post/control/)
+- Affectionate attachment ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [emotional](/post/emotional/) attachment)

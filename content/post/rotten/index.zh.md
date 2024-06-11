@@ -11,16 +11,16 @@ keywords = ['ai words', 'rotten']
 /ˈrɑːtən/
 
 ## 释义
-- **形容词**: 腐烂的；腐朽的；变质的。例如: "[The](/post/the/) apples were [rotten](/post/rotten/) [and](/post/and/) had [to](/post/to/) [be](/post/be/) thrown [away](/post/away/)."
-- **动词**: （使）腐烂；（使）腐败。例如: "[Left](/post/left/) [outside](/post/outside/), [the](/post/the/) [wood](/post/wood/) [will](/post/will/) [soon](/post/soon/) [rot](/post/rot/)."
+- **形容词**: 腐烂的；腐朽的；变质的。例如: "[The](/zh/post/the/) apples were [rotten](/zh/post/rotten/) [and](/zh/post/and/) had [to](/zh/post/to/) [be](/zh/post/be/) thrown [away](/zh/post/away/)."
+- **动词**: （使）腐烂；（使）腐败。例如: "[Left](/zh/post/left/) [outside](/zh/post/outside/), [the](/zh/post/the/) [wood](/zh/post/wood/) [will](/zh/post/will/) [soon](/zh/post/soon/) [rot](/zh/post/rot/)."
 
 ## 短语
-- "[rotten](/post/rotten/) [to](/post/to/) [the](/post/the/) [core](/post/core/)" 意味着极其坏或腐败透顶。
-- "[a](/post/a/) [rotten](/post/rotten/) [deal](/post/deal/)" 指的是不公平或有害的交易。
+- "[rotten](/zh/post/rotten/) [to](/zh/post/to/) [the](/zh/post/the/) [core](/zh/post/core/)" 意味着极其坏或腐败透顶。
+- "[a](/zh/post/a/) [rotten](/zh/post/rotten/) [deal](/zh/post/deal/)" 指的是不公平或有害的交易。
 
 ## 例句
-- 形容词: "[The](/post/the/) [old](/post/old/) [wooden](/post/wooden/) [bridge](/post/bridge/) was [rotten](/post/rotten/) [and](/post/and/) needed [immediate](/post/immediate/) [repair](/post/repair/)."
-- 动词: "[If](/post/if/) [you](/post/you/) [leave](/post/leave/) [the](/post/the/) vegetables [in](/post/in/) [the](/post/the/) [sun](/post/sun/), they'll [rot](/post/rot/) [quickly](/post/quickly/)."
+- 形容词: "[The](/zh/post/the/) [old](/zh/post/old/) [wooden](/zh/post/wooden/) [bridge](/zh/post/bridge/) was [rotten](/zh/post/rotten/) [and](/zh/post/and/) needed [immediate](/zh/post/immediate/) [repair](/zh/post/repair/)."
+- 动词: "[If](/zh/post/if/) [you](/zh/post/you/) [leave](/zh/post/leave/) [the](/zh/post/the/) vegetables [in](/zh/post/in/) [the](/zh/post/the/) [sun](/zh/post/sun/), they'll [rot](/zh/post/rot/) [quickly](/zh/post/quickly/)."
 
 ## 同义词
 - decayed

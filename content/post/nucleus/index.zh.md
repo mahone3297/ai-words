@@ -12,20 +12,20 @@ keywords = ['ai words', 'nucleus']
 
 ## 释义
 - **名词 n**:
-   - 细胞核，细胞的中心部分，包含遗传物质DNA。例如: "[The](/post/the/) [nucleus](/post/nucleus/) is [the](/post/the/) [control](/post/control/) center [of](/post/of/) [a](/post/a/) [cell](/post/cell/)."
-   - 核心，事物的基本或重要部分。例如: "[The](/post/the/) [committee](/post/committee/) is [the](/post/the/) [nucleus](/post/nucleus/) [of](/post/of/) [the](/post/the/) [organization](/post/organization/)."
+   - 细胞核，细胞的中心部分，包含遗传物质DNA。例如: "[The](/zh/post/the/) [nucleus](/zh/post/nucleus/) is [the](/zh/post/the/) [control](/zh/post/control/) center [of](/zh/post/of/) [a](/zh/post/a/) [cell](/zh/post/cell/)."
+   - 核心，事物的基本或重要部分。例如: "[The](/zh/post/the/) [committee](/zh/post/committee/) is [the](/zh/post/the/) [nucleus](/zh/post/nucleus/) [of](/zh/post/of/) [the](/zh/post/the/) [organization](/zh/post/organization/)."
 
 ## 短语
-- "[nuclear](/post/nuclear/) [family](/post/family/)" 指由父母和子女组成的核心家庭。
-- "[atomic](/post/atomic/) [nucleus](/post/nucleus/)" 指原子的中心，由质子和中子组成。
+- "[nuclear](/zh/post/nuclear/) [family](/zh/post/family/)" 指由父母和子女组成的核心家庭。
+- "[atomic](/zh/post/atomic/) [nucleus](/zh/post/nucleus/)" 指原子的中心，由质子和中子组成。
 
 ## 例句
-- 名词: "[The](/post/the/) [nucleus](/post/nucleus/) contains genetic [material](/post/material/) [that](/post/that/) directs [all](/post/all/) [cell](/post/cell/) functions."
-- "[In](/post/in/) [a](/post/a/) [small](/post/small/) [town](/post/town/), [the](/post/the/) [local](/post/local/) [church](/post/church/) [often](/post/often/) serves [as](/post/as/) [the](/post/the/) [social](/post/social/) [nucleus](/post/nucleus/)."
+- 名词: "[The](/zh/post/the/) [nucleus](/zh/post/nucleus/) contains genetic [material](/zh/post/material/) [that](/zh/post/that/) directs [all](/zh/post/all/) [cell](/zh/post/cell/) functions."
+- "[In](/zh/post/in/) [a](/zh/post/a/) [small](/zh/post/small/) [town](/zh/post/town/), [the](/zh/post/the/) [local](/zh/post/local/) [church](/zh/post/church/) [often](/zh/post/often/) serves [as](/zh/post/as/) [the](/zh/post/the/) [social](/zh/post/social/) [nucleus](/zh/post/nucleus/)."
 
 ## 同义词
 - center
-- [heart](/post/heart/)
-- [core](/post/core/)
+- [heart](/zh/post/heart/)
+- [core](/zh/post/core/)
 - essence
 - crux

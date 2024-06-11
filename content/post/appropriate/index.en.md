@@ -7,29 +7,29 @@ description = '[əˈprəupriit] a.适当的，恰当的'
 keywords = ['ai words', 'appropriate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈprəʊpriət/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Fit](/en/post/fit/) [or](/en/post/or/) [suitable](/en/post/suitable/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/) [or](/en/post/or/) [situation](/en/post/situation/); [appropriate](/en/post/appropriate/) [in](/en/post/in/) context. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [dress](/en/post/dress/) was an [appropriate](/en/post/appropriate/) [choice](/en/post/choice/) [for](/en/post/for/) [the](/en/post/the/) [formal](/en/post/formal/) [event](/en/post/event/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [suitable](/en/post/suitable/) [or](/en/post/or/) [proper](/en/post/proper/) [manner](/en/post/manner/); correctly. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) handled [the](/en/post/the/) [situation](/en/post/situation/) appropriately."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [assign](/en/post/assign/) [or](/en/post/or/) [select](/en/post/select/) [something](/en/post/something/) [as](/en/post/as/) [suitable](/en/post/suitable/) [or](/en/post/or/) fitting. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) appropriately praised [the](/en/post/the/) students' efforts."
+- **[Adjective](/post/adjective/)**: [Fit](/post/fit/) [or](/post/or/) [suitable](/post/suitable/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/) [or](/post/or/) [situation](/post/situation/); [appropriate](/post/appropriate/) [in](/post/in/) context. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [dress](/post/dress/) was an [appropriate](/post/appropriate/) [choice](/post/choice/) [for](/post/for/) [the](/post/the/) [formal](/post/formal/) [event](/post/event/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [suitable](/post/suitable/) [or](/post/or/) [proper](/post/proper/) [manner](/post/manner/); correctly. [For](/post/for/) [example](/post/example/): "[She](/post/she/) handled [the](/post/the/) [situation](/post/situation/) appropriately."
+- **[Verb](/post/verb/)**: [To](/post/to/) [assign](/post/assign/) [or](/post/or/) [select](/post/select/) [something](/post/something/) [as](/post/as/) [suitable](/post/suitable/) [or](/post/or/) fitting. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) appropriately praised [the](/post/the/) students' efforts."
 
 ## Phrases
-- "[Be](/en/post/be/) appropriately dressed" [means](/en/post/means/) [to](/en/post/to/) [wear](/en/post/wear/) [clothes](/en/post/clothes/) [suitable](/en/post/suitable/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [occasion](/en/post/occasion/).
-- "[Think](/en/post/think/) [before](/en/post/before/) [you](/en/post/you/) [speak](/en/post/speak/)" encourages considering [whether](/en/post/whether/) [your](/en/post/your/) words are [appropriate](/en/post/appropriate/).
-- "[Act](/en/post/act/) appropriately" refers [to](/en/post/to/) behaving suitably [in](/en/post/in/) [a](/en/post/a/) given [situation](/en/post/situation/).
+- "[Be](/post/be/) appropriately dressed" [means](/post/means/) [to](/post/to/) [wear](/post/wear/) [clothes](/post/clothes/) [suitable](/post/suitable/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [occasion](/post/occasion/).
+- "[Think](/post/think/) [before](/post/before/) [you](/post/you/) [speak](/post/speak/)" encourages considering [whether](/post/whether/) [your](/post/your/) words are [appropriate](/post/appropriate/).
+- "[Act](/post/act/) appropriately" refers [to](/post/to/) behaving suitably [in](/post/in/) [a](/post/a/) given [situation](/post/situation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [answer](/en/post/answer/) was an appropriately [modest](/en/post/modest/) [response](/en/post/response/) [to](/en/post/to/) [the](/en/post/the/) compliment."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) acted appropriately [during](/en/post/during/) [the](/en/post/the/) [tense](/en/post/tense/) negotiation."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [appropriate](/en/post/appropriate/) funds [for](/en/post/for/) [the](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [answer](/post/answer/) was an appropriately [modest](/post/modest/) [response](/post/response/) [to](/post/to/) [the](/post/the/) compliment."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) acted appropriately [during](/post/during/) [the](/post/the/) [tense](/post/tense/) negotiation."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [appropriate](/post/appropriate/) funds [for](/post/for/) [the](/post/the/) [new](/post/new/) [project](/post/project/)."
 
 ## Synonyms
-- [Suitable](/en/post/suitable/)
+- [Suitable](/post/suitable/)
 - Apposite
-- [Proper](/en/post/proper/)
-- [Fit](/en/post/fit/)
+- [Proper](/post/proper/)
+- [Fit](/post/fit/)
 - Conforming
 - Adapted
 - Well-suited
@@ -38,5 +38,5 @@ keywords = ['ai words', 'appropriate']
 - Inappropriate
 - Improper
 - Inadmissible
-- [Unsuitable](/en/post/unsuitable/)
+- [Unsuitable](/post/unsuitable/)
 - Inaplicable

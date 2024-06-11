@@ -7,36 +7,36 @@ description = '[inˈ∫uər] vt.保证；保护；赋予'
 keywords = ['ai words', 'ensure']
 +++
 
-## [Word](/en/post/word/): [Ensure](/en/post/ensure/)
+## [Word](/post/word/): [Ensure](/post/ensure/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈʃʊr/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [certain](/en/post/certain/) [that](/en/post/that/) [something](/en/post/something/) [will](/en/post/will/) [happen](/en/post/happen/) [or](/en/post/or/) [be](/en/post/be/) [the](/en/post/the/) [case](/en/post/case/); [to](/en/post/to/) [guarantee](/en/post/guarantee/) [or](/en/post/or/) [confirm](/en/post/confirm/) [the](/en/post/the/) [occurrence](/en/post/occurrence/) [or](/en/post/or/) [presence](/en/post/presence/) [of](/en/post/of/) [something](/en/post/something/). 
+- **[Verb](/post/verb/)**: [To](/post/to/) [make](/post/make/) [certain](/post/certain/) [that](/post/that/) [something](/post/something/) [will](/post/will/) [happen](/post/happen/) [or](/post/or/) [be](/post/be/) [the](/post/the/) [case](/post/case/); [to](/post/to/) [guarantee](/post/guarantee/) [or](/post/or/) [confirm](/post/confirm/) [the](/post/the/) [occurrence](/post/occurrence/) [or](/post/or/) [presence](/post/presence/) [of](/post/of/) [something](/post/something/). 
 
-  - _Example [Sentence](/en/post/sentence/):_ [The](/en/post/the/) manager ensured [that](/en/post/that/) [all](/en/post/all/) employees completed [their](/en/post/their/) [training](/en/post/training/) [before](/en/post/before/) starting [work](/en/post/work/).
+  - _Example [Sentence](/post/sentence/):_ [The](/post/the/) manager ensured [that](/post/that/) [all](/post/all/) employees completed [their](/post/their/) [training](/post/training/) [before](/post/before/) starting [work](/post/work/).
   - _Phrases_:
-    - "[Ensure](/en/post/ensure/) [safety](/en/post/safety/)": [To](/en/post/to/) [take](/en/post/take/) measures [to](/en/post/to/) [guarantee](/en/post/guarantee/) [that](/en/post/that/) [no](/en/post/no/) [harm](/en/post/harm/) [or](/en/post/or/) [danger](/en/post/danger/) occurs.
-    - "[Ensure](/en/post/ensure/) [success](/en/post/success/)": [To](/en/post/to/) [take](/en/post/take/) steps [that](/en/post/that/) [make](/en/post/make/) [it](/en/post/it/) [highly](/en/post/highly/) [probable](/en/post/probable/) [that](/en/post/that/) [a](/en/post/a/) [project](/en/post/project/) [or](/en/post/or/) endeavor [will](/en/post/will/) [succeed](/en/post/succeed/).
+    - "[Ensure](/post/ensure/) [safety](/post/safety/)": [To](/post/to/) [take](/post/take/) measures [to](/post/to/) [guarantee](/post/guarantee/) [that](/post/that/) [no](/post/no/) [harm](/post/harm/) [or](/post/or/) [danger](/post/danger/) occurs.
+    - "[Ensure](/post/ensure/) [success](/post/success/)": [To](/post/to/) [take](/post/take/) steps [that](/post/that/) [make](/post/make/) [it](/post/it/) [highly](/post/highly/) [probable](/post/probable/) [that](/post/that/) [a](/post/a/) [project](/post/project/) [or](/post/or/) endeavor [will](/post/will/) [succeed](/post/succeed/).
     
-  - _Usage_: "[The](/en/post/the/) [company](/en/post/company/) ensures [quality](/en/post/quality/) [control](/en/post/control/) [by](/en/post/by/) thoroughly testing [each](/en/post/each/) [product](/en/post/product/) [before](/en/post/before/) [release](/en/post/release/)."
+  - _Usage_: "[The](/post/the/) [company](/post/company/) ensures [quality](/post/quality/) [control](/post/control/) [by](/post/by/) thoroughly testing [each](/post/each/) [product](/post/product/) [before](/post/before/) [release](/post/release/)."
 
-- **[Verb](/en/post/verb/) (archaic)**: [To](/en/post/to/) [make](/en/post/make/) [secure](/en/post/secure/) [or](/en/post/or/) [protect](/en/post/protect/) [against](/en/post/against/) [risk](/en/post/risk/).
+- **[Verb](/post/verb/) (archaic)**: [To](/post/to/) [make](/post/make/) [secure](/post/secure/) [or](/post/or/) [protect](/post/protect/) [against](/post/against/) [risk](/post/risk/).
 
-  - _Example [Sentence](/en/post/sentence/) (archaic [usage](/en/post/usage/))_ : [The](/en/post/the/) [king](/en/post/king/) took steps [to](/en/post/to/) [ensure](/en/post/ensure/) [his](/en/post/his/) [kingdom](/en/post/kingdom/) [against](/en/post/against/) [invasion](/en/post/invasion/).
+  - _Example [Sentence](/post/sentence/) (archaic [usage](/post/usage/))_ : [The](/post/the/) [king](/post/king/) took steps [to](/post/to/) [ensure](/post/ensure/) [his](/post/his/) [kingdom](/post/kingdom/) [against](/post/against/) [invasion](/post/invasion/).
 
-## [Example](/en/post/example/) Sentences
-- _Verb ([modern](/en/post/modern/) [usage](/en/post/usage/))_ : They're taking [out](/en/post/out/) [insurance](/en/post/insurance/) [to](/en/post/to/) [ensure](/en/post/ensure/) [financial](/en/post/financial/) [security](/en/post/security/) [in](/en/post/in/) [case](/en/post/case/) [of](/en/post/of/) [illness](/en/post/illness/).
-- _Verb_ : [She](/en/post/she/) [read](/en/post/read/) [the](/en/post/the/) [contract](/en/post/contract/) carefully [to](/en/post/to/) [ensure](/en/post/ensure/) [that](/en/post/that/) [her](/en/post/her/) rights were protected.
+## [Example](/post/example/) Sentences
+- _Verb ([modern](/post/modern/) [usage](/post/usage/))_ : They're taking [out](/post/out/) [insurance](/post/insurance/) [to](/post/to/) [ensure](/post/ensure/) [financial](/post/financial/) [security](/post/security/) [in](/post/in/) [case](/post/case/) [of](/post/of/) [illness](/post/illness/).
+- _Verb_ : [She](/post/she/) [read](/post/read/) [the](/post/the/) [contract](/post/contract/) carefully [to](/post/to/) [ensure](/post/ensure/) [that](/post/that/) [her](/post/her/) rights were protected.
 
 ## Synonyms
-- [Guarantee](/en/post/guarantee/)
-- [Secure](/en/post/secure/)
-- [Assure](/en/post/assure/)
+- [Guarantee](/post/guarantee/)
+- [Secure](/post/secure/)
+- [Assure](/post/assure/)
 - Validate
 - Certify
-- [Confirm](/en/post/confirm/)
+- [Confirm](/post/confirm/)
 - Uphold
-- [Protect](/en/post/protect/)
+- [Protect](/post/protect/)
 - Safeguard

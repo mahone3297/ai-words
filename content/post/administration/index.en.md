@@ -7,39 +7,39 @@ description = '[ədminisˈtrei∫ən] n.管理；管理部门'
 keywords = ['ai words', 'administration']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /adminɪˈstreɪʃn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) managing, overseeing, [or](/en/post/or/) directing [a](/en/post/a/) [business](/en/post/business/), [organization](/en/post/organization/), [or](/en/post/or/) [activity](/en/post/activity/); [the](/en/post/the/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [responsible](/en/post/responsible/) [for](/en/post/for/) [such](/en/post/such/) [management](/en/post/management/). [Example](/en/post/example/): "[The](/en/post/the/) [school](/en/post/school/) [administration](/en/post/administration/) handles [daily](/en/post/daily/) operations."
-2. [The](/en/post/the/) [system](/en/post/system/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) organizing [and](/en/post/and/) implementing rules, policies, [or](/en/post/or/) procedures. [Example](/en/post/example/): "[The](/en/post/the/) hospital's administrative [wing](/en/post/wing/) is [responsible](/en/post/responsible/) [for](/en/post/for/) [patient](/en/post/patient/) records."
-3. [A](/en/post/a/) [branch](/en/post/branch/) [of](/en/post/of/) [government](/en/post/government/) [that](/en/post/that/) deals [with](/en/post/with/) [specific](/en/post/specific/) functions [like](/en/post/like/) [finance](/en/post/finance/) [or](/en/post/or/) [personnel](/en/post/personnel/). [Example](/en/post/example/): "[The](/en/post/the/) [local](/en/post/local/) [administration](/en/post/administration/) oversees [public](/en/post/public/) services."
+- **[Noun](/post/noun/)**: 
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) managing, overseeing, [or](/post/or/) directing [a](/post/a/) [business](/post/business/), [organization](/post/organization/), [or](/post/or/) [activity](/post/activity/); [the](/post/the/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [responsible](/post/responsible/) [for](/post/for/) [such](/post/such/) [management](/post/management/). [Example](/post/example/): "[The](/post/the/) [school](/post/school/) [administration](/post/administration/) handles [daily](/post/daily/) operations."
+2. [The](/post/the/) [system](/post/system/) [or](/post/or/) [process](/post/process/) [of](/post/of/) organizing [and](/post/and/) implementing rules, policies, [or](/post/or/) procedures. [Example](/post/example/): "[The](/post/the/) hospital's administrative [wing](/post/wing/) is [responsible](/post/responsible/) [for](/post/for/) [patient](/post/patient/) records."
+3. [A](/post/a/) [branch](/post/branch/) [of](/post/of/) [government](/post/government/) [that](/post/that/) deals [with](/post/with/) [specific](/post/specific/) functions [like](/post/like/) [finance](/post/finance/) [or](/post/or/) [personnel](/post/personnel/). [Example](/post/example/): "[The](/post/the/) [local](/post/local/) [administration](/post/administration/) oversees [public](/post/public/) services."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [carry](/en/post/carry/) [out](/en/post/out/) [the](/en/post/the/) tasks involved [in](/en/post/in/) managing [or](/en/post/or/) overseeing [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) administrator [will](/en/post/will/) [be](/en/post/be/) taking [charge](/en/post/charge/) [of](/en/post/of/) [the](/en/post/the/) company's [administration](/en/post/administration/) [next](/en/post/next/) [month](/en/post/month/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [carry](/post/carry/) [out](/post/out/) [the](/post/the/) tasks involved [in](/post/in/) managing [or](/post/or/) overseeing [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [new](/post/new/) administrator [will](/post/will/) [be](/post/be/) taking [charge](/post/charge/) [of](/post/of/) [the](/post/the/) company's [administration](/post/administration/) [next](/post/next/) [month](/post/month/)."
 
 ## Phrases
-- "[Handle](/en/post/handle/) [the](/en/post/the/) [administration](/en/post/administration/)" [means](/en/post/means/) [to](/en/post/to/) [manage](/en/post/manage/) [or](/en/post/or/) supervise [a](/en/post/a/) [particular](/en/post/particular/) [aspect](/en/post/aspect/).
-- "Administrative duties" refers [to](/en/post/to/) responsibilities related [to](/en/post/to/) running an [organization](/en/post/organization/).
-- "Administrative [staff](/en/post/staff/)" are [the](/en/post/the/) employees [who](/en/post/who/) [perform](/en/post/perform/) non-clinical [or](/en/post/or/) non-teaching roles [in](/en/post/in/) an [institution](/en/post/institution/).
+- "[Handle](/post/handle/) [the](/post/the/) [administration](/post/administration/)" [means](/post/means/) [to](/post/to/) [manage](/post/manage/) [or](/post/or/) supervise [a](/post/a/) [particular](/post/particular/) [aspect](/post/aspect/).
+- "Administrative duties" refers [to](/post/to/) responsibilities related [to](/post/to/) running an [organization](/post/organization/).
+- "Administrative [staff](/post/staff/)" are [the](/post/the/) employees [who](/post/who/) [perform](/post/perform/) non-clinical [or](/post/or/) non-teaching roles [in](/post/in/) an [institution](/post/institution/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) HR [department](/en/post/department/) is [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) company's [central](/en/post/central/) [administration](/en/post/administration/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) CEO appointed [a](/en/post/a/) [new](/en/post/new/) administrator [to](/en/post/to/) streamline [the](/en/post/the/) organization's [administration](/en/post/administration/)."
-- **[Adjective](/en/post/adjective/)**: "[Effective](/en/post/effective/) [administration](/en/post/administration/) is crucial [for](/en/post/for/) [a](/en/post/a/) [smooth](/en/post/smooth/) [operation](/en/post/operation/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) HR [department](/post/department/) is [part](/post/part/) [of](/post/of/) [the](/post/the/) company's [central](/post/central/) [administration](/post/administration/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) CEO appointed [a](/post/a/) [new](/post/new/) administrator [to](/post/to/) streamline [the](/post/the/) organization's [administration](/post/administration/)."
+- **[Adjective](/post/adjective/)**: "[Effective](/post/effective/) [administration](/post/administration/) is crucial [for](/post/for/) [a](/post/a/) [smooth](/post/smooth/) [operation](/post/operation/)."
 
 ## Synonyms
-- [Management](/en/post/management/)
+- [Management](/post/management/)
 - Governance
 - Supervision
-- [Direction](/en/post/direction/)
+- [Direction](/post/direction/)
 - Coordination
-- [Executive](/en/post/executive/) [function](/en/post/function/)
-- [Operational](/en/post/operational/) [control](/en/post/control/)
+- [Executive](/post/executive/) [function](/post/function/)
+- [Operational](/post/operational/) [control](/post/control/)
 
 ## Antonyms
 - Mismanagement
 - Disorganization
-- [Lack](/en/post/lack/) [of](/en/post/of/) oversight
+- [Lack](/post/lack/) [of](/post/of/) oversight
 - Chaos
 - Anarchy

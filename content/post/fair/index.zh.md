@@ -11,23 +11,23 @@ keywords = ['ai words', 'fair']
 /fɛr/
 
 ## 释义
-- **形容词**: 公平的，公正的。例如: "[The](/post/the/) [judge](/post/judge/) made [a](/post/a/) [fair](/post/fair/) [decision](/post/decision/)."
-- **形容词**: 美丽的，好看的。例如: "[She](/post/she/) has [fair](/post/fair/) [skin](/post/skin/)."
-- **名词**: 集市，庙会。例如: "[The](/post/the/) [annual](/post/annual/) [county](/post/county/) [fair](/post/fair/) attracts [many](/post/many/) visitors."
-- **名词**: 公平的事物或行为。例如: "[We](/post/we/) [want](/post/want/) [a](/post/a/) [fair](/post/fair/) [chance](/post/chance/) [to](/post/to/) [compete](/post/compete/)."
+- **形容词**: 公平的，公正的。例如: "[The](/zh/post/the/) [judge](/zh/post/judge/) made [a](/zh/post/a/) [fair](/zh/post/fair/) [decision](/zh/post/decision/)."
+- **形容词**: 美丽的，好看的。例如: "[She](/zh/post/she/) has [fair](/zh/post/fair/) [skin](/zh/post/skin/)."
+- **名词**: 集市，庙会。例如: "[The](/zh/post/the/) [annual](/zh/post/annual/) [county](/zh/post/county/) [fair](/zh/post/fair/) attracts [many](/zh/post/many/) visitors."
+- **名词**: 公平的事物或行为。例如: "[We](/zh/post/we/) [want](/zh/post/want/) [a](/zh/post/a/) [fair](/zh/post/fair/) [chance](/zh/post/chance/) [to](/zh/post/to/) [compete](/zh/post/compete/)."
 
 ## 短语
-- "[Fair](/post/fair/) [and](/post/and/) [square](/post/square/)" 意为正直地，公平地。
-- "[Fair](/post/fair/) [game](/post/game/)" 指可以合法或合理追求的目标。
+- "[Fair](/zh/post/fair/) [and](/zh/post/and/) [square](/zh/post/square/)" 意为正直地，公平地。
+- "[Fair](/zh/post/fair/) [game](/zh/post/game/)" 指可以合法或合理追求的目标。
 
 ## 例句
-- 形容词: "[The](/post/the/) [teacher](/post/teacher/) gave [every](/post/every/) [student](/post/student/) [a](/post/a/) [fair](/post/fair/) [opportunity](/post/opportunity/) [to](/post/to/) [answer](/post/answer/) [the](/post/the/) [question](/post/question/)."
-- 名词: "[The](/post/the/) [town](/post/town/) held [a](/post/a/) [fair](/post/fair/) [to](/post/to/) [celebrate](/post/celebrate/) [the](/post/the/) [harvest](/post/harvest/)."
-- 短语: "[They](/post/they/) won [the](/post/the/) [competition](/post/competition/) [fair](/post/fair/) [and](/post/and/) [square](/post/square/)."
+- 形容词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) gave [every](/zh/post/every/) [student](/zh/post/student/) [a](/zh/post/a/) [fair](/zh/post/fair/) [opportunity](/zh/post/opportunity/) [to](/zh/post/to/) [answer](/zh/post/answer/) [the](/zh/post/the/) [question](/zh/post/question/)."
+- 名词: "[The](/zh/post/the/) [town](/zh/post/town/) held [a](/zh/post/a/) [fair](/zh/post/fair/) [to](/zh/post/to/) [celebrate](/zh/post/celebrate/) [the](/zh/post/the/) [harvest](/zh/post/harvest/)."
+- 短语: "[They](/zh/post/they/) won [the](/zh/post/the/) [competition](/zh/post/competition/) [fair](/zh/post/fair/) [and](/zh/post/and/) [square](/zh/post/square/)."
 
 ## 同义词
-- [Just](/post/just/)
+- [Just](/zh/post/just/)
 - Impartial
-- [Beautiful](/post/beautiful/) ([for](/post/for/) [appearance](/post/appearance/))
+- [Beautiful](/zh/post/beautiful/) ([for](/zh/post/for/) [appearance](/zh/post/appearance/))
 - Even-handed
-- [Open](/post/open/)
+- [Open](/zh/post/open/)

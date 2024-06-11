@@ -11,20 +11,20 @@ keywords = ['ai words', 'elephant']
 /ˈɛləfənt/
 
 ## 释义
-- **名词 (n)**: 大象，一种哺乳动物，体型庞大，有长鼻子和大耳朵。例如: "[The](/post/the/) [elephant](/post/elephant/) is [the](/post/the/) largest [land](/post/land/) [animal](/post/animal/) [on](/post/on/) [Earth](/post/earth/)."
-- **形容词 (adj)**: 像大象一样的，特别大的。例如: "[The](/post/the/) elephant-sized [cake](/post/cake/) was [enough](/post/enough/) [for](/post/for/) [the](/post/the/) [whole](/post/whole/) [party](/post/party/)."
+- **名词 (n)**: 大象，一种哺乳动物，体型庞大，有长鼻子和大耳朵。例如: "[The](/zh/post/the/) [elephant](/zh/post/elephant/) is [the](/zh/post/the/) largest [land](/zh/post/land/) [animal](/zh/post/animal/) [on](/zh/post/on/) [Earth](/zh/post/earth/)."
+- **形容词 (adj)**: 像大象一样的，特别大的。例如: "[The](/zh/post/the/) elephant-sized [cake](/zh/post/cake/) was [enough](/zh/post/enough/) [for](/zh/post/for/) [the](/zh/post/the/) [whole](/zh/post/whole/) [party](/zh/post/party/)."
 
 ## 短语
-- "[Elephant](/post/elephant/) [in](/post/in/) [the](/post/the/) [room](/post/room/)" 指一个明显但被忽视或避免讨论的问题。
-- "An [elephant](/post/elephant/) [never](/post/never/) forgets" 表示大象记忆力极好，常用来比喻人应有良好的记忆力。
+- "[Elephant](/zh/post/elephant/) [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/)" 指一个明显但被忽视或避免讨论的问题。
+- "An [elephant](/zh/post/elephant/) [never](/zh/post/never/) forgets" 表示大象记忆力极好，常用来比喻人应有良好的记忆力。
 
 ## 例句
-- 名词: "[The](/post/the/) [baby](/post/baby/) [elephant](/post/elephant/) was playing [with](/post/with/) [its](/post/its/) [mother](/post/mother/) [in](/post/in/) [the](/post/the/) [zoo](/post/zoo/)."
-- 形容词: "That's an [elephant](/post/elephant/) [problem](/post/problem/), we'll [need](/post/need/) [a](/post/a/) [big](/post/big/) [solution](/post/solution/)."
+- 名词: "[The](/zh/post/the/) [baby](/zh/post/baby/) [elephant](/zh/post/elephant/) was playing [with](/zh/post/with/) [its](/zh/post/its/) [mother](/zh/post/mother/) [in](/zh/post/in/) [the](/zh/post/the/) [zoo](/zh/post/zoo/)."
+- 形容词: "That's an [elephant](/zh/post/elephant/) [problem](/zh/post/problem/), we'll [need](/zh/post/need/) [a](/zh/post/a/) [big](/zh/post/big/) [solution](/zh/post/solution/)."
 
 ## 同义词
 - Pachyderm
 - Jumbo
-- [Beast](/post/beast/)
+- [Beast](/zh/post/beast/)
 - Colossus
 - Mammoth (古生物学上的大象)

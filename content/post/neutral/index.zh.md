@@ -11,22 +11,22 @@ keywords = ['ai words', 'neutral']
 /ˈnjuːtrəl/
 
 ## 释义
-- **形容词**: 中立的，不偏不倚的，无倾向性的。例如: "[The](/post/the/) [country](/post/country/) maintained [a](/post/a/) [neutral](/post/neutral/) stance [in](/post/in/) [the](/post/the/) [conflict](/post/conflict/)."
-- **名词**: 中立者，不偏向任何一方的人或国家。例如: "Switzerland is known [as](/post/as/) [a](/post/a/) [neutral](/post/neutral/) [nation](/post/nation/)."
-- **副词**: 中立地，不偏不倚地。例如: "[The](/post/the/) [judge](/post/judge/) handled [the](/post/the/) [case](/post/case/) neutrally."
+- **形容词**: 中立的，不偏不倚的，无倾向性的。例如: "[The](/zh/post/the/) [country](/zh/post/country/) maintained [a](/zh/post/a/) [neutral](/zh/post/neutral/) stance [in](/zh/post/in/) [the](/zh/post/the/) [conflict](/zh/post/conflict/)."
+- **名词**: 中立者，不偏向任何一方的人或国家。例如: "Switzerland is known [as](/zh/post/as/) [a](/zh/post/a/) [neutral](/zh/post/neutral/) [nation](/zh/post/nation/)."
+- **副词**: 中立地，不偏不倚地。例如: "[The](/zh/post/the/) [judge](/zh/post/judge/) handled [the](/zh/post/the/) [case](/zh/post/case/) neutrally."
 
 ## 短语
-- "[neutral](/post/neutral/) [territory](/post/territory/)" 指没有归属或冲突的地带。
-- "[neutral](/post/neutral/) [ground](/post/ground/)" 可以指双方都能接受的妥协点或讨论平台。
+- "[neutral](/zh/post/neutral/) [territory](/zh/post/territory/)" 指没有归属或冲突的地带。
+- "[neutral](/zh/post/neutral/) [ground](/zh/post/ground/)" 可以指双方都能接受的妥协点或讨论平台。
 
 ## 例句
-- 形容词: "[The](/post/the/) mediator was [careful](/post/careful/) [to](/post/to/) [remain](/post/remain/) [completely](/post/completely/) [neutral](/post/neutral/) [during](/post/during/) [the](/post/the/) negotiations."
-- 名词: "[In](/post/in/) [soccer](/post/soccer/), [the](/post/the/) goalkeeper [must](/post/must/) [wear](/post/wear/) [a](/post/a/) [shirt](/post/shirt/) [of](/post/of/) [a](/post/a/) [neutral](/post/neutral/) [color](/post/color/) [if](/post/if/) [the](/post/the/) team's colors are [too](/post/too/) [similar](/post/similar/)."
-- 副词: "[The](/post/the/) [news](/post/news/) [anchor](/post/anchor/) reported [the](/post/the/) [story](/post/story/) [without](/post/without/) [any](/post/any/) [neutral](/post/neutral/) [tone](/post/tone/), ensuring [balance](/post/balance/) [in](/post/in/) [their](/post/their/) coverage."
+- 形容词: "[The](/zh/post/the/) mediator was [careful](/zh/post/careful/) [to](/zh/post/to/) [remain](/zh/post/remain/) [completely](/zh/post/completely/) [neutral](/zh/post/neutral/) [during](/zh/post/during/) [the](/zh/post/the/) negotiations."
+- 名词: "[In](/zh/post/in/) [soccer](/zh/post/soccer/), [the](/zh/post/the/) goalkeeper [must](/zh/post/must/) [wear](/zh/post/wear/) [a](/zh/post/a/) [shirt](/zh/post/shirt/) [of](/zh/post/of/) [a](/zh/post/a/) [neutral](/zh/post/neutral/) [color](/zh/post/color/) [if](/zh/post/if/) [the](/zh/post/the/) team's colors are [too](/zh/post/too/) [similar](/zh/post/similar/)."
+- 副词: "[The](/zh/post/the/) [news](/zh/post/news/) [anchor](/zh/post/anchor/) reported [the](/zh/post/the/) [story](/zh/post/story/) [without](/zh/post/without/) [any](/zh/post/any/) [neutral](/zh/post/neutral/) [tone](/zh/post/tone/), ensuring [balance](/zh/post/balance/) [in](/zh/post/in/) [their](/zh/post/their/) coverage."
 
 ## 同义词
 - impartial
 - unbiased
 - nonpartisan
 - detached
-- [objective](/post/objective/)
+- [objective](/zh/post/objective/)

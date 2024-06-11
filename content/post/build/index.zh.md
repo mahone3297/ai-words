@@ -12,23 +12,23 @@ keywords = ['ai words', 'build']
 
 ## 释义
 - **动词**: 
-  - 建造，构建。例如: "[They](/post/they/) are [building](/post/building/) [a](/post/a/) [new](/post/new/) [bridge](/post/bridge/) [across](/post/across/) [the](/post/the/) [river](/post/river/)."
-  - 创造，建立。例如: "[The](/post/the/) [company](/post/company/) is [building](/post/building/) [a](/post/a/) [strong](/post/strong/) [reputation](/post/reputation/) [in](/post/in/) [the](/post/the/) [industry](/post/industry/)."
-  - 发展，增强。例如: "He's [building](/post/building/) [his](/post/his/) skills [as](/post/as/) [a](/post/a/) [musician](/post/musician/)."
+  - 建造，构建。例如: "[They](/zh/post/they/) are [building](/zh/post/building/) [a](/zh/post/a/) [new](/zh/post/new/) [bridge](/zh/post/bridge/) [across](/zh/post/across/) [the](/zh/post/the/) [river](/zh/post/river/)."
+  - 创造，建立。例如: "[The](/zh/post/the/) [company](/zh/post/company/) is [building](/zh/post/building/) [a](/zh/post/a/) [strong](/zh/post/strong/) [reputation](/zh/post/reputation/) [in](/zh/post/in/) [the](/zh/post/the/) [industry](/zh/post/industry/)."
+  - 发展，增强。例如: "He's [building](/zh/post/building/) [his](/zh/post/his/) skills [as](/zh/post/as/) [a](/zh/post/a/) [musician](/zh/post/musician/)."
 
 ## 短语
-- "[build](/post/build/) [up](/post/up/)" 增强，积累。例如: "[Regular](/post/regular/) [exercise](/post/exercise/) [can](/post/can/) [help](/post/help/) [build](/post/build/) [up](/post/up/) [your](/post/your/) [strength](/post/strength/)."
-- "[build](/post/build/) [something](/post/something/) [from](/post/from/) [scratch](/post/scratch/)" 从零开始建造。例如: "[They](/post/they/) had [to](/post/to/) [build](/post/build/) [the](/post/the/) [house](/post/house/) [from](/post/from/) [scratch](/post/scratch/)."
-- "[build](/post/build/) [on](/post/on/) [something](/post/something/)" 在某基础上发展。例如: "[The](/post/the/) [new](/post/new/) [design](/post/design/) builds [on](/post/on/) [the](/post/the/) [success](/post/success/) [of](/post/of/) [the](/post/the/) [previous](/post/previous/) [model](/post/model/)."
+- "[build](/zh/post/build/) [up](/zh/post/up/)" 增强，积累。例如: "[Regular](/zh/post/regular/) [exercise](/zh/post/exercise/) [can](/zh/post/can/) [help](/zh/post/help/) [build](/zh/post/build/) [up](/zh/post/up/) [your](/zh/post/your/) [strength](/zh/post/strength/)."
+- "[build](/zh/post/build/) [something](/zh/post/something/) [from](/zh/post/from/) [scratch](/zh/post/scratch/)" 从零开始建造。例如: "[They](/zh/post/they/) had [to](/zh/post/to/) [build](/zh/post/build/) [the](/zh/post/the/) [house](/zh/post/house/) [from](/zh/post/from/) [scratch](/zh/post/scratch/)."
+- "[build](/zh/post/build/) [on](/zh/post/on/) [something](/zh/post/something/)" 在某基础上发展。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [design](/zh/post/design/) builds [on](/zh/post/on/) [the](/zh/post/the/) [success](/zh/post/success/) [of](/zh/post/of/) [the](/zh/post/the/) [previous](/zh/post/previous/) [model](/zh/post/model/)."
 
 ## 例句
-- 建造: "[The](/post/the/) [construction](/post/construction/) workers are [busy](/post/busy/) [building](/post/building/) [a](/post/a/) [new](/post/new/) [apartment](/post/apartment/) [complex](/post/complex/)."
-- 创造: "She's [building](/post/building/) [her](/post/her/) [own](/post/own/) [business](/post/business/) [with](/post/with/) dedication [and](/post/and/) [hard](/post/hard/) [work](/post/work/)."
-- 发展: "[Their](/post/their/) [friendship](/post/friendship/) has been [slowly](/post/slowly/) [building](/post/building/) [over](/post/over/) [the](/post/the/) years."
+- 建造: "[The](/zh/post/the/) [construction](/zh/post/construction/) workers are [busy](/zh/post/busy/) [building](/zh/post/building/) [a](/zh/post/a/) [new](/zh/post/new/) [apartment](/zh/post/apartment/) [complex](/zh/post/complex/)."
+- 创造: "She's [building](/zh/post/building/) [her](/zh/post/her/) [own](/zh/post/own/) [business](/zh/post/business/) [with](/zh/post/with/) dedication [and](/zh/post/and/) [hard](/zh/post/hard/) [work](/zh/post/work/)."
+- 发展: "[Their](/zh/post/their/) [friendship](/zh/post/friendship/) has been [slowly](/zh/post/slowly/) [building](/zh/post/building/) [over](/zh/post/over/) [the](/zh/post/the/) years."
 
 ## 同义词
-- [construct](/post/construct/)
-- [create](/post/create/)
-- [establish](/post/establish/)
-- [develop](/post/develop/)
-- [assemble](/post/assemble/)
+- [construct](/zh/post/construct/)
+- [create](/zh/post/create/)
+- [establish](/zh/post/establish/)
+- [develop](/zh/post/develop/)
+- [assemble](/zh/post/assemble/)

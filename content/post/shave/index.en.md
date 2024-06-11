@@ -7,38 +7,38 @@ description = '[∫eiv] vt.剃，刮 vi.修面'
 keywords = ['ai words', 'shave']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /shəv/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) cutting [hair](/en/post/hair/) [close](/en/post/close/) [to](/en/post/to/) [the](/en/post/the/) [skin](/en/post/skin/) [with](/en/post/with/) [a](/en/post/a/) [razor](/en/post/razor/) [or](/en/post/or/) [other](/en/post/other/) [tool](/en/post/tool/), typically [on](/en/post/on/) [the](/en/post/the/) [face](/en/post/face/) [or](/en/post/or/) [head](/en/post/head/). [In](/en/post/in/) [a](/en/post/a/) [more](/en/post/more/) [general](/en/post/general/) [sense](/en/post/sense/), [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [removal](/en/post/removal/) [of](/en/post/of/) [hair](/en/post/hair/) [from](/en/post/from/) [any](/en/post/any/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [body](/en/post/body/).
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) cutting [hair](/post/hair/) [close](/post/close/) [to](/post/to/) [the](/post/the/) [skin](/post/skin/) [with](/post/with/) [a](/post/a/) [razor](/post/razor/) [or](/post/or/) [other](/post/other/) [tool](/post/tool/), typically [on](/post/on/) [the](/post/the/) [face](/post/face/) [or](/post/or/) [head](/post/head/). [In](/post/in/) [a](/post/a/) [more](/post/more/) [general](/post/general/) [sense](/post/sense/), [it](/post/it/) [can](/post/can/) [also](/post/also/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [removal](/post/removal/) [of](/post/of/) [hair](/post/hair/) [from](/post/from/) [any](/post/any/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [body](/post/body/).
 
-### [Verb](/en/post/verb/)
-1. **[Regular](/en/post/regular/) [verb](/en/post/verb/)**: [To](/en/post/to/) [remove](/en/post/remove/) [hair](/en/post/hair/) [from](/en/post/from/) [the](/en/post/the/) [face](/en/post/face/), [neck](/en/post/neck/), [or](/en/post/or/) [other](/en/post/other/) parts [of](/en/post/of/) [the](/en/post/the/) [body](/en/post/body/) using [a](/en/post/a/) [razor](/en/post/razor/), [electric](/en/post/electric/) shaver, [or](/en/post/or/) [other](/en/post/other/) [instrument](/en/post/instrument/).
-2. **Informal [verb](/en/post/verb/)**: [To](/en/post/to/) [cut](/en/post/cut/) [or](/en/post/or/) [trim](/en/post/trim/) ([hair](/en/post/hair/)) [in](/en/post/in/) [a](/en/post/a/) [casual](/en/post/casual/) [manner](/en/post/manner/), [without](/en/post/without/) [necessarily](/en/post/necessarily/) removing [it](/en/post/it/) [all](/en/post/all/).
+### [Verb](/post/verb/)
+1. **[Regular](/post/regular/) [verb](/post/verb/)**: [To](/post/to/) [remove](/post/remove/) [hair](/post/hair/) [from](/post/from/) [the](/post/the/) [face](/post/face/), [neck](/post/neck/), [or](/post/or/) [other](/post/other/) parts [of](/post/of/) [the](/post/the/) [body](/post/body/) using [a](/post/a/) [razor](/post/razor/), [electric](/post/electric/) shaver, [or](/post/or/) [other](/post/other/) [instrument](/post/instrument/).
+2. **Informal [verb](/post/verb/)**: [To](/post/to/) [cut](/post/cut/) [or](/post/or/) [trim](/post/trim/) ([hair](/post/hair/)) [in](/post/in/) [a](/post/a/) [casual](/post/casual/) [manner](/post/manner/), [without](/post/without/) [necessarily](/post/necessarily/) removing [it](/post/it/) [all](/post/all/).
 
 ## Phrases
-- "[Shave](/en/post/shave/) [off](/en/post/off/) facial [hair](/en/post/hair/)"
-- "[Get](/en/post/get/) [a](/en/post/a/) [shave](/en/post/shave/)"
-- "[A](/en/post/a/) [daily](/en/post/daily/) [shave](/en/post/shave/)"
-- "Women's shaving [routine](/en/post/routine/)"
+- "[Shave](/post/shave/) [off](/post/off/) facial [hair](/post/hair/)"
+- "[Get](/post/get/) [a](/post/a/) [shave](/post/shave/)"
+- "[A](/post/a/) [daily](/post/daily/) [shave](/post/shave/)"
+- "Women's shaving [routine](/post/routine/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) went [to](/en/post/to/) [the](/en/post/the/) [barber](/en/post/barber/) [for](/en/post/for/) [a](/en/post/a/) [close](/en/post/close/) [shave](/en/post/shave/) [before](/en/post/before/) [his](/en/post/his/) [wedding](/en/post/wedding/)."
-- **[Verb](/en/post/verb/)**: "I [usually](/en/post/usually/) [shave](/en/post/shave/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/), [but](/en/post/but/) [today](/en/post/today/) I skipped [it](/en/post/it/) [to](/en/post/to/) [save](/en/post/save/) [time](/en/post/time/)."
-- **Informal**: "[She](/en/post/she/) taught [him](/en/post/him/) [how](/en/post/how/) [to](/en/post/to/) [properly](/en/post/properly/) [shave](/en/post/shave/) [his](/en/post/his/) legs [for](/en/post/for/) [the](/en/post/the/) [first](/en/post/first/) [time](/en/post/time/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) went [to](/post/to/) [the](/post/the/) [barber](/post/barber/) [for](/post/for/) [a](/post/a/) [close](/post/close/) [shave](/post/shave/) [before](/post/before/) [his](/post/his/) [wedding](/post/wedding/)."
+- **[Verb](/post/verb/)**: "I [usually](/post/usually/) [shave](/post/shave/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/), [but](/post/but/) [today](/post/today/) I skipped [it](/post/it/) [to](/post/to/) [save](/post/save/) [time](/post/time/)."
+- **Informal**: "[She](/post/she/) taught [him](/post/him/) [how](/post/how/) [to](/post/to/) [properly](/post/properly/) [shave](/post/shave/) [his](/post/his/) legs [for](/post/for/) [the](/post/the/) [first](/post/first/) [time](/post/time/)."
 
 ## Synonyms
-- [Haircut](/en/post/haircut/)
-- [Trim](/en/post/trim/)
-- Whisker ([for](/en/post/for/) facial [hair](/en/post/hair/))
-- Shaving ([as](/en/post/as/) an [action](/en/post/action/))
-- Epilation ([for](/en/post/for/) women's [hair](/en/post/hair/) [removal](/en/post/removal/))
-- Blades (referring [to](/en/post/to/) razors)
+- [Haircut](/post/haircut/)
+- [Trim](/post/trim/)
+- Whisker ([for](/post/for/) facial [hair](/post/hair/))
+- Shaving ([as](/post/as/) an [action](/post/action/))
+- Epilation ([for](/post/for/) women's [hair](/post/hair/) [removal](/post/removal/))
+- Blades (referring [to](/post/to/) razors)
 
 ## Related Terms
-- Blades: Refers [to](/en/post/to/) [the](/en/post/the/) [sharp](/en/post/sharp/) tools [used](/en/post/used/) [for](/en/post/for/) shaving.
-- [Safety](/en/post/safety/) [razor](/en/post/razor/): [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [razor](/en/post/razor/) [with](/en/post/with/) replaceable blades.
--电动剃须刀: An [electric](/en/post/electric/) [device](/en/post/device/) [used](/en/post/used/) [for](/en/post/for/) shaving.
-- Pre-shave lotion: [A](/en/post/a/) [product](/en/post/product/) applied [before](/en/post/before/) shaving [to](/en/post/to/) soften [and](/en/post/and/) [prepare](/en/post/prepare/) [the](/en/post/the/) [skin](/en/post/skin/).
+- Blades: Refers [to](/post/to/) [the](/post/the/) [sharp](/post/sharp/) tools [used](/post/used/) [for](/post/for/) shaving.
+- [Safety](/post/safety/) [razor](/post/razor/): [A](/post/a/) [type](/post/type/) [of](/post/of/) [razor](/post/razor/) [with](/post/with/) replaceable blades.
+-电动剃须刀: An [electric](/post/electric/) [device](/post/device/) [used](/post/used/) [for](/post/for/) shaving.
+- Pre-shave lotion: [A](/post/a/) [product](/post/product/) applied [before](/post/before/) shaving [to](/post/to/) soften [and](/post/and/) [prepare](/post/prepare/) [the](/post/the/) [skin](/post/skin/).

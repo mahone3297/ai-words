@@ -7,32 +7,32 @@ description = '[ˈlʌvli] a.可爱的；令人愉快的'
 keywords = ['ai words', 'lovely']
 +++
 
-## [Word](/en/post/word/): [Lovely](/en/post/lovely/)
+## [Word](/post/word/): [Lovely](/post/lovely/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlʌvli/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Extremely](/en/post/extremely/) [attractive](/en/post/attractive/), [beautiful](/en/post/beautiful/), [or](/en/post/or/) delightful; [charming](/en/post/charming/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) looked [absolutely](/en/post/absolutely/) [lovely](/en/post/lovely/) [in](/en/post/in/) [her](/en/post/her/) [new](/en/post/new/) [dress](/en/post/dress/)."
-- **[Adjective](/en/post/adjective/) (informal)**: [Excellent](/en/post/excellent/) [or](/en/post/or/) [very](/en/post/very/) [good](/en/post/good/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) had [a](/en/post/a/) [lovely](/en/post/lovely/) [time](/en/post/time/) [at](/en/post/at/) [the](/en/post/the/) [beach](/en/post/beach/) [yesterday](/en/post/yesterday/)."
+- **[Adjective](/post/adjective/)**: [Extremely](/post/extremely/) [attractive](/post/attractive/), [beautiful](/post/beautiful/), [or](/post/or/) delightful; [charming](/post/charming/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) looked [absolutely](/post/absolutely/) [lovely](/post/lovely/) [in](/post/in/) [her](/post/her/) [new](/post/new/) [dress](/post/dress/)."
+- **[Adjective](/post/adjective/) (informal)**: [Excellent](/post/excellent/) [or](/post/or/) [very](/post/very/) [good](/post/good/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) had [a](/post/a/) [lovely](/post/lovely/) [time](/post/time/) [at](/post/at/) [the](/post/the/) [beach](/post/beach/) [yesterday](/post/yesterday/)."
 
-### [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) ([attractive](/en/post/attractive/))**: "[The](/en/post/the/) [garden](/en/post/garden/) was filled [with](/en/post/with/) [lovely](/en/post/lovely/) flowers [that](/en/post/that/) attracted butterflies."
-- **[Adjective](/en/post/adjective/) (informal)**: "[The](/en/post/the/) [food](/en/post/food/) [at](/en/post/at/) [the](/en/post/the/) [restaurant](/en/post/restaurant/) was [simply](/en/post/simply/) [lovely](/en/post/lovely/) – [especially](/en/post/especially/) [the](/en/post/the/) pasta [dish](/en/post/dish/)."
+### [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) ([attractive](/post/attractive/))**: "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) [lovely](/post/lovely/) flowers [that](/post/that/) attracted butterflies."
+- **[Adjective](/post/adjective/) (informal)**: "[The](/post/the/) [food](/post/food/) [at](/post/at/) [the](/post/the/) [restaurant](/post/restaurant/) was [simply](/post/simply/) [lovely](/post/lovely/) – [especially](/post/especially/) [the](/post/the/) pasta [dish](/post/dish/)."
 
 ## Phrases
-- "[Lovely](/en/post/lovely/) [day](/en/post/day/)": Refers [to](/en/post/to/) [a](/en/post/a/) [particularly](/en/post/particularly/) [beautiful](/en/post/beautiful/) [or](/en/post/or/) enjoyable [day](/en/post/day/) weather-wise [or](/en/post/or/) [otherwise](/en/post/otherwise/).
-- "[Have](/en/post/have/) [a](/en/post/a/) [lovely](/en/post/lovely/) [day](/en/post/day/)": [A](/en/post/a/) [common](/en/post/common/) [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) [wish](/en/post/wish/) [someone](/en/post/someone/) [a](/en/post/a/) [pleasant](/en/post/pleasant/) [day](/en/post/day/) [ahead](/en/post/ahead/).
-- "[A](/en/post/a/) [sight](/en/post/sight/) [for](/en/post/for/) [sore](/en/post/sore/) eyes": An idiomatic [expression](/en/post/expression/) [meaning](/en/post/meaning/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [very](/en/post/very/) pleasing [or](/en/post/or/) [lovely](/en/post/lovely/) [to](/en/post/to/) [look](/en/post/look/) [at](/en/post/at/) [after](/en/post/after/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [difficulty](/en/post/difficulty/) [or](/en/post/or/) [strain](/en/post/strain/).
+- "[Lovely](/post/lovely/) [day](/post/day/)": Refers [to](/post/to/) [a](/post/a/) [particularly](/post/particularly/) [beautiful](/post/beautiful/) [or](/post/or/) enjoyable [day](/post/day/) weather-wise [or](/post/or/) [otherwise](/post/otherwise/).
+- "[Have](/post/have/) [a](/post/a/) [lovely](/post/lovely/) [day](/post/day/)": [A](/post/a/) [common](/post/common/) [expression](/post/expression/) [used](/post/used/) [to](/post/to/) [wish](/post/wish/) [someone](/post/someone/) [a](/post/a/) [pleasant](/post/pleasant/) [day](/post/day/) [ahead](/post/ahead/).
+- "[A](/post/a/) [sight](/post/sight/) [for](/post/for/) [sore](/post/sore/) eyes": An idiomatic [expression](/post/expression/) [meaning](/post/meaning/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [very](/post/very/) pleasing [or](/post/or/) [lovely](/post/lovely/) [to](/post/to/) [look](/post/look/) [at](/post/at/) [after](/post/after/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [difficulty](/post/difficulty/) [or](/post/or/) [strain](/post/strain/).
 
 ## Synonyms
-- [Beautiful](/en/post/beautiful/)
-- [Attractive](/en/post/attractive/)
-- [Charming](/en/post/charming/)
+- [Beautiful](/post/beautiful/)
+- [Attractive](/post/attractive/)
+- [Charming](/post/charming/)
 - Delightful
 - Enchanting
 - Stunning
-- [Pretty](/en/post/pretty/)
+- [Pretty](/post/pretty/)
 - Adorable
 - Exquisite
-- [Splendid](/en/post/splendid/)
+- [Splendid](/post/splendid/)

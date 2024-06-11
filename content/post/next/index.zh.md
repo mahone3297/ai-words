@@ -11,23 +11,23 @@ keywords = ['ai words', 'next']
 /nekst/
 
 ## 释义
-- **形容词**: 下一个的，紧接着的。例如: "[The](/post/the/) [next](/post/next/) [person](/post/person/) [in](/post/in/) [line](/post/line/), [please](/post/please/)."
-- **名词**: 接下来的事物，接班人。例如: "What's [your](/post/your/) [plan](/post/plan/) [for](/post/for/) [the](/post/the/) [next](/post/next/) [project](/post/project/)?"
-- **副词**: 紧接着，随后。例如: "I'll [be](/post/be/) [with](/post/with/) [you](/post/you/) [in](/post/in/) [just](/post/just/) [a](/post/a/) [minute](/post/minute/), [next](/post/next/)."
+- **形容词**: 下一个的，紧接着的。例如: "[The](/zh/post/the/) [next](/zh/post/next/) [person](/zh/post/person/) [in](/zh/post/in/) [line](/zh/post/line/), [please](/zh/post/please/)."
+- **名词**: 接下来的事物，接班人。例如: "What's [your](/zh/post/your/) [plan](/zh/post/plan/) [for](/zh/post/for/) [the](/zh/post/the/) [next](/zh/post/next/) [project](/zh/post/project/)?"
+- **副词**: 紧接着，随后。例如: "I'll [be](/zh/post/be/) [with](/zh/post/with/) [you](/zh/post/you/) [in](/zh/post/in/) [just](/zh/post/just/) [a](/zh/post/a/) [minute](/zh/post/minute/), [next](/zh/post/next/)."
 
 ## 短语
-- "[the](/post/the/) [next](/post/next/) [day](/post/day/)" 次日，第二天。
-- "[next](/post/next/) [in](/post/in/) [line](/post/line/)" 排在下一个的，下一位。
-- "[next](/post/next/) [door](/post/door/)" 隔壁，邻近的。
+- "[the](/zh/post/the/) [next](/zh/post/next/) [day](/zh/post/day/)" 次日，第二天。
+- "[next](/zh/post/next/) [in](/zh/post/in/) [line](/zh/post/line/)" 排在下一个的，下一位。
+- "[next](/zh/post/next/) [door](/zh/post/door/)" 隔壁，邻近的。
 
 ## 例句
-- 形容词: "[The](/post/the/) [next](/post/next/) [chapter](/post/chapter/) [will](/post/will/) [explore](/post/explore/) [new](/post/new/) ideas."
-- 名词: "[Who](/post/who/) is [the](/post/the/) [next](/post/next/) [speaker](/post/speaker/) [at](/post/at/) [the](/post/the/) [conference](/post/conference/)?"
-- 副词: "We're [meeting](/post/meeting/) [at](/post/at/) [the](/post/the/) café, [and](/post/and/) [then](/post/then/) we'll [go](/post/go/) [to](/post/to/) [the](/post/the/) [movie](/post/movie/) [next](/post/next/)."
+- 形容词: "[The](/zh/post/the/) [next](/zh/post/next/) [chapter](/zh/post/chapter/) [will](/zh/post/will/) [explore](/zh/post/explore/) [new](/zh/post/new/) ideas."
+- 名词: "[Who](/zh/post/who/) is [the](/zh/post/the/) [next](/zh/post/next/) [speaker](/zh/post/speaker/) [at](/zh/post/at/) [the](/zh/post/the/) [conference](/zh/post/conference/)?"
+- 副词: "We're [meeting](/zh/post/meeting/) [at](/zh/post/at/) [the](/zh/post/the/) café, [and](/zh/post/and/) [then](/zh/post/then/) we'll [go](/zh/post/go/) [to](/zh/post/to/) [the](/zh/post/the/) [movie](/zh/post/movie/) [next](/zh/post/next/)."
 
 ## 同义词
-- [following](/post/following/)
+- [following](/zh/post/following/)
 - succeeding
 - upcoming
 - coming
-- [subsequent](/post/subsequent/)
+- [subsequent](/zh/post/subsequent/)

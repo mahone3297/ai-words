@@ -7,38 +7,38 @@ description = '[ʌnˈnesisəri] a.不必要的，多余的'
 keywords = ['ai words', 'unnecessary']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unˈnɛsərəri/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **[Meaning](/en/post/meaning/)**: [Not](/en/post/not/) [necessary](/en/post/necessary/); superfluous; lacking [in](/en/post/in/) [need](/en/post/need/) [or](/en/post/or/) [purpose](/en/post/purpose/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [extra](/en/post/extra/) [furniture](/en/post/furniture/) was [unnecessary](/en/post/unnecessary/) [in](/en/post/in/) [the](/en/post/the/) [small](/en/post/small/) [apartment](/en/post/apartment/)."
-- **Connotation**: Implies [that](/en/post/that/) [something](/en/post/something/) is dispensable [or](/en/post/or/) [not](/en/post/not/) required.
+### [Adjective](/post/adjective/)
+- **[Meaning](/post/meaning/)**: [Not](/post/not/) [necessary](/post/necessary/); superfluous; lacking [in](/post/in/) [need](/post/need/) [or](/post/or/) [purpose](/post/purpose/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [extra](/post/extra/) [furniture](/post/furniture/) was [unnecessary](/post/unnecessary/) [in](/post/in/) [the](/post/the/) [small](/post/small/) [apartment](/post/apartment/)."
+- **Connotation**: Implies [that](/post/that/) [something](/post/something/) is dispensable [or](/post/or/) [not](/post/not/) required.
 
-### [Noun](/en/post/noun/)
-- **[Meaning](/en/post/meaning/)**: An [unnecessary](/en/post/unnecessary/) [thing](/en/post/thing/) [or](/en/post/or/) [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "Removing [that](/en/post/that/) [old](/en/post/old/) [rule](/en/post/rule/) was an [unnecessary](/en/post/unnecessary/) simplification."
-- **Connotation**: Refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is surplus [or](/en/post/or/) [not](/en/post/not/) needed.
+### [Noun](/post/noun/)
+- **[Meaning](/post/meaning/)**: An [unnecessary](/post/unnecessary/) [thing](/post/thing/) [or](/post/or/) [action](/post/action/). [For](/post/for/) [example](/post/example/): "Removing [that](/post/that/) [old](/post/old/) [rule](/post/rule/) was an [unnecessary](/post/unnecessary/) simplification."
+- **Connotation**: Refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is surplus [or](/post/or/) [not](/post/not/) needed.
 
 ## Phrases
-- "An [unnecessary](/en/post/unnecessary/) [expense](/en/post/expense/)" denotes [a](/en/post/a/) [cost](/en/post/cost/) [that](/en/post/that/) isn't required.
-- "There's [no](/en/post/no/) [need](/en/post/need/) [for](/en/post/for/) [that](/en/post/that/)" suggests [something](/en/post/something/) is [unnecessary](/en/post/unnecessary/) [or](/en/post/or/) redundant.
-- "It's an [unnecessary](/en/post/unnecessary/) complication" implies [that](/en/post/that/) [a](/en/post/a/) [situation](/en/post/situation/) has been made [more](/en/post/more/) [complex](/en/post/complex/) [than](/en/post/than/) [necessary](/en/post/necessary/).
+- "An [unnecessary](/post/unnecessary/) [expense](/post/expense/)" denotes [a](/post/a/) [cost](/post/cost/) [that](/post/that/) isn't required.
+- "There's [no](/post/no/) [need](/post/need/) [for](/post/for/) [that](/post/that/)" suggests [something](/post/something/) is [unnecessary](/post/unnecessary/) [or](/post/or/) redundant.
+- "It's an [unnecessary](/post/unnecessary/) complication" implies [that](/post/that/) [a](/post/a/) [situation](/post/situation/) has been made [more](/post/more/) [complex](/post/complex/) [than](/post/than/) [necessary](/post/necessary/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [project](/en/post/project/) was completed [successfully](/en/post/successfully/) [without](/en/post/without/) [any](/en/post/any/) [unnecessary](/en/post/unnecessary/) delays."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [team](/en/post/team/) decided [to](/en/post/to/) [remove](/en/post/remove/) [all](/en/post/all/) [unnecessary](/en/post/unnecessary/) tasks [from](/en/post/from/) [their](/en/post/their/) to-do [list](/en/post/list/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) handled [the](/en/post/the/) [situation](/en/post/situation/) [with](/en/post/with/) [unnecessary](/en/post/unnecessary/) caution."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [project](/post/project/) was completed [successfully](/post/successfully/) [without](/post/without/) [any](/post/any/) [unnecessary](/post/unnecessary/) delays."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [team](/post/team/) decided [to](/post/to/) [remove](/post/remove/) [all](/post/all/) [unnecessary](/post/unnecessary/) tasks [from](/post/from/) [their](/post/their/) to-do [list](/post/list/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) handled [the](/post/the/) [situation](/post/situation/) [with](/post/with/) [unnecessary](/post/unnecessary/) caution."
 
 ## Synonyms
 - Unneeded
 - Superfluous
-- [Excess](/en/post/excess/)
+- [Excess](/post/excess/)
 - Redundant
 - Irrelevant
 
 ## Antonyms
-- [Necessary](/en/post/necessary/)
-- [Essential](/en/post/essential/)
-- [Vital](/en/post/vital/)
-- [Indispensable](/en/post/indispensable/)
+- [Necessary](/post/necessary/)
+- [Essential](/post/essential/)
+- [Vital](/post/vital/)
+- [Indispensable](/post/indispensable/)
 - Required

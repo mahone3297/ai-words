@@ -11,20 +11,20 @@ keywords = ['ai words', 'basis']
 /bəˈsɪs/
 
 ## 释义
-- **名词**: 基础，基本原理，根据。例如: "[The](/post/the/) [theory](/post/theory/) is based [on](/post/on/) [solid](/post/solid/) [scientific](/post/scientific/) [basis](/post/basis/)."
-- **名词**: (数学)基，底。例如: "[In](/post/in/) [mathematics](/post/mathematics/), [a](/post/a/) [basis](/post/basis/) is [a](/post/a/) [set](/post/set/) [of](/post/of/) vectors [that](/post/that/) [span](/post/span/) [a](/post/a/) vector [space](/post/space/)."
+- **名词**: 基础，基本原理，根据。例如: "[The](/zh/post/the/) [theory](/zh/post/theory/) is based [on](/zh/post/on/) [solid](/zh/post/solid/) [scientific](/zh/post/scientific/) [basis](/zh/post/basis/)."
+- **名词**: (数学)基，底。例如: "[In](/zh/post/in/) [mathematics](/zh/post/mathematics/), [a](/zh/post/a/) [basis](/zh/post/basis/) is [a](/zh/post/a/) [set](/zh/post/set/) [of](/zh/post/of/) vectors [that](/zh/post/that/) [span](/zh/post/span/) [a](/zh/post/a/) vector [space](/zh/post/space/)."
 
 ## 短语
-- "[on](/post/on/) [the](/post/the/) [basis](/post/basis/) [of](/post/of/)" 根据，以…为依据。例如: "[They](/post/they/) made [their](/post/their/) [decision](/post/decision/) [on](/post/on/) [the](/post/the/) [basis](/post/basis/) [of](/post/of/) [the](/post/the/) [provided](/post/provided/) [data](/post/data/)."
-- "[basic](/post/basic/) [basis](/post/basis/)" 基本要素，根本。例如: "[The](/post/the/) [basic](/post/basic/) [basis](/post/basis/) [of](/post/of/) [any](/post/any/) [successful](/post/successful/) [relationship](/post/relationship/) is [trust](/post/trust/)."
+- "[on](/zh/post/on/) [the](/zh/post/the/) [basis](/zh/post/basis/) [of](/zh/post/of/)" 根据，以…为依据。例如: "[They](/zh/post/they/) made [their](/zh/post/their/) [decision](/zh/post/decision/) [on](/zh/post/on/) [the](/zh/post/the/) [basis](/zh/post/basis/) [of](/zh/post/of/) [the](/zh/post/the/) [provided](/zh/post/provided/) [data](/zh/post/data/)."
+- "[basic](/zh/post/basic/) [basis](/zh/post/basis/)" 基本要素，根本。例如: "[The](/zh/post/the/) [basic](/zh/post/basic/) [basis](/zh/post/basis/) [of](/zh/post/of/) [any](/zh/post/any/) [successful](/zh/post/successful/) [relationship](/zh/post/relationship/) is [trust](/zh/post/trust/)."
 
 ## 例句
-- 名词: "[Our](/post/our/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [problem](/post/problem/) relies [on](/post/on/) [a](/post/a/) [strong](/post/strong/) [scientific](/post/scientific/) [basis](/post/basis/)."
-- 名词: "[The](/post/the/) company's [success](/post/success/) is built [on](/post/on/) [a](/post/a/) [solid](/post/solid/) [financial](/post/financial/) [basis](/post/basis/)."
+- 名词: "[Our](/zh/post/our/) [understanding](/zh/post/understanding/) [of](/zh/post/of/) [the](/zh/post/the/) [problem](/zh/post/problem/) relies [on](/zh/post/on/) [a](/zh/post/a/) [strong](/zh/post/strong/) [scientific](/zh/post/scientific/) [basis](/zh/post/basis/)."
+- 名词: "[The](/zh/post/the/) company's [success](/zh/post/success/) is built [on](/zh/post/on/) [a](/zh/post/a/) [solid](/zh/post/solid/) [financial](/zh/post/financial/) [basis](/zh/post/basis/)."
 
 ## 同义词
-- [foundation](/post/foundation/)
+- [foundation](/zh/post/foundation/)
 - groundwork
 - underpinning
-- [support](/post/support/)
+- [support](/zh/post/support/)
 - premise

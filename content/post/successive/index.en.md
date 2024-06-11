@@ -7,29 +7,29 @@ description = '[səkˈsesiv] a.连续的；接连的'
 keywords = ['ai words', 'successive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səkˈsɛsɪv/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Occurring [or](/en/post/or/) coming [one](/en/post/one/) [after](/en/post/after/) [another](/en/post/another/) [in](/en/post/in/) [a](/en/post/a/) [continuous](/en/post/continuous/) [sequence](/en/post/sequence/); consecutive. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [successive](/en/post/successive/) days were filled [with](/en/post/with/) [productive](/en/post/productive/) [work](/en/post/work/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) [sequence](/en/post/sequence/) [of](/en/post/of/) events [or](/en/post/or/) items, [each](/en/post/each/) [following](/en/post/following/) [the](/en/post/the/) [other](/en/post/other/) [without](/en/post/without/) [interruption](/en/post/interruption/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [museum](/en/post/museum/) displayed [successive](/en/post/successive/) generations [of](/en/post/of/) Impressionist paintings."
+- **[Adjective](/post/adjective/)**: Occurring [or](/post/or/) coming [one](/post/one/) [after](/post/after/) [another](/post/another/) [in](/post/in/) [a](/post/a/) [continuous](/post/continuous/) [sequence](/post/sequence/); consecutive. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [successive](/post/successive/) days were filled [with](/post/with/) [productive](/post/productive/) [work](/post/work/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [series](/post/series/) [or](/post/or/) [sequence](/post/sequence/) [of](/post/of/) events [or](/post/or/) items, [each](/post/each/) [following](/post/following/) [the](/post/the/) [other](/post/other/) [without](/post/without/) [interruption](/post/interruption/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [museum](/post/museum/) displayed [successive](/post/successive/) generations [of](/post/of/) Impressionist paintings."
 
 ## Phrases
-- "[In](/en/post/in/) [successive](/en/post/successive/) [order](/en/post/order/)" indicates [a](/en/post/a/) linear progression.
-- "[A](/en/post/a/) [succession](/en/post/succession/) [of](/en/post/of/) events" refers [to](/en/post/to/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) events happening [one](/en/post/one/) [after](/en/post/after/) [the](/en/post/the/) [other](/en/post/other/).
-- "[Successive](/en/post/successive/) attempts" implies [multiple](/en/post/multiple/) tries [with](/en/post/with/) [no](/en/post/no/) [break](/en/post/break/).
+- "[In](/post/in/) [successive](/post/successive/) [order](/post/order/)" indicates [a](/post/a/) linear progression.
+- "[A](/post/a/) [succession](/post/succession/) [of](/post/of/) events" refers [to](/post/to/) [a](/post/a/) [series](/post/series/) [of](/post/of/) events happening [one](/post/one/) [after](/post/after/) [the](/post/the/) [other](/post/other/).
+- "[Successive](/post/successive/) attempts" implies [multiple](/post/multiple/) tries [with](/post/with/) [no](/post/no/) [break](/post/break/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[After](/en/post/after/) winning [three](/en/post/three/) [gold](/en/post/gold/) medals, [he](/en/post/he/) had [successive](/en/post/successive/) victories [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [competition](/en/post/competition/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [book](/en/post/book/) details [the](/en/post/the/) [successive](/en/post/successive/) changes [in](/en/post/in/) [political](/en/post/political/) [leadership](/en/post/leadership/) [over](/en/post/over/) [the](/en/post/the/) [past](/en/post/past/) [century](/en/post/century/)."
-- "[The](/en/post/the/) students took turns presenting [their](/en/post/their/) projects [in](/en/post/in/) [successive](/en/post/successive/) presentations."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[After](/post/after/) winning [three](/post/three/) [gold](/post/gold/) medals, [he](/post/he/) had [successive](/post/successive/) victories [in](/post/in/) [the](/post/the/) [same](/post/same/) [competition](/post/competition/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [book](/post/book/) details [the](/post/the/) [successive](/post/successive/) changes [in](/post/in/) [political](/post/political/) [leadership](/post/leadership/) [over](/post/over/) [the](/post/the/) [past](/post/past/) [century](/post/century/)."
+- "[The](/post/the/) students took turns presenting [their](/post/their/) projects [in](/post/in/) [successive](/post/successive/) presentations."
 
 ## Synonyms
 - Consecutive
 - Sequential
 - Running
-- [Successive](/en/post/successive/) stages
-- [Continuous](/en/post/continuous/)
+- [Successive](/post/successive/) stages
+- [Continuous](/post/continuous/)
 - Uninterrupted
 
 ## Antonyms

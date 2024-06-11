@@ -12,23 +12,23 @@ keywords = ['ai words', 'bee']
 
 ## 释义
 - **名词**:
-  - 蜜蜂，一种社会性昆虫，能制造蜂蜜。例如: "[The](/post/the/) [bee](/post/bee/) buzzed [around](/post/around/) [the](/post/the/) [flower](/post/flower/)."
-  - 指“蜜蜂舞”，一种蜜蜂通过舞蹈传递信息的方式。例如: "Bees [use](/post/use/) [the](/post/the/) waggle [dance](/post/dance/) [to](/post/to/) [communicate](/post/communicate/) [with](/post/with/) [each](/post/each/) [other](/post/other/)."
+  - 蜜蜂，一种社会性昆虫，能制造蜂蜜。例如: "[The](/zh/post/the/) [bee](/zh/post/bee/) buzzed [around](/zh/post/around/) [the](/zh/post/the/) [flower](/zh/post/flower/)."
+  - 指“蜜蜂舞”，一种蜜蜂通过舞蹈传递信息的方式。例如: "Bees [use](/zh/post/use/) [the](/zh/post/the/) waggle [dance](/zh/post/dance/) [to](/zh/post/to/) [communicate](/zh/post/communicate/) [with](/zh/post/with/) [each](/zh/post/each/) [other](/zh/post/other/)."
 
 - **动词**:
-  - 参加（如蜜蜂般忙碌的）集会或活动。例如: "We're going [to](/post/to/) [bee](/post/bee/) [for](/post/for/) [the](/post/the/) [community](/post/community/) [project](/post/project/)."
+  - 参加（如蜜蜂般忙碌的）集会或活动。例如: "We're going [to](/zh/post/to/) [bee](/zh/post/bee/) [for](/zh/post/for/) [the](/zh/post/the/) [community](/zh/post/community/) [project](/zh/post/project/)."
 
 ## 短语
-- "[Busy](/post/busy/) [as](/post/as/) [a](/post/a/) [bee](/post/bee/)" 意味着非常勤劳。
-- "[Bee](/post/bee/) [in](/post/in/) one's bonnet" 指某人对某个话题过分热衷或固执己见。
+- "[Busy](/zh/post/busy/) [as](/zh/post/as/) [a](/zh/post/a/) [bee](/zh/post/bee/)" 意味着非常勤劳。
+- "[Bee](/zh/post/bee/) [in](/zh/post/in/) one's bonnet" 指某人对某个话题过分热衷或固执己见。
 
 ## 例句
-- 名词: "[The](/post/the/) bees were [hard](/post/hard/) [at](/post/at/) [work](/post/work/) collecting nectar [from](/post/from/) [the](/post/the/) flowers."
-- 动词: "[The](/post/the/) [whole](/post/whole/) [town](/post/town/) turned [out](/post/out/) [to](/post/to/) [bee](/post/bee/) [and](/post/and/) [help](/post/help/) [clean](/post/clean/) [up](/post/up/) [the](/post/the/) [park](/post/park/)."
+- 名词: "[The](/zh/post/the/) bees were [hard](/zh/post/hard/) [at](/zh/post/at/) [work](/zh/post/work/) collecting nectar [from](/zh/post/from/) [the](/zh/post/the/) flowers."
+- 动词: "[The](/zh/post/the/) [whole](/zh/post/whole/) [town](/zh/post/town/) turned [out](/zh/post/out/) [to](/zh/post/to/) [bee](/zh/post/bee/) [and](/zh/post/and/) [help](/zh/post/help/) [clean](/zh/post/clean/) [up](/zh/post/up/) [the](/zh/post/the/) [park](/zh/post/park/)."
 
 ## 同义词
-- [Insect](/post/insect/)
+- [Insect](/zh/post/insect/)
 - Honeybee
-- [Worker](/post/worker/) [bee](/post/bee/)
-- [Fly](/post/fly/)
-- [Ant](/post/ant/)
+- [Worker](/zh/post/worker/) [bee](/zh/post/bee/)
+- [Fly](/zh/post/fly/)
+- [Ant](/zh/post/ant/)

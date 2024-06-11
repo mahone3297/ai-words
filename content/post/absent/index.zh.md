@@ -11,22 +11,22 @@ keywords = ['ai words', 'absent']
 /ˈæbsənt/
 
 ## 释义
-- **形容词**: 缺席的，不在场的。例如: "[He](/post/he/) was [absent](/post/absent/) [from](/post/from/) [the](/post/the/) [meeting](/post/meeting/)."
-- **名词**: 缺席者，未出席的人。例如: "[There](/post/there/) were [three](/post/three/) [absent](/post/absent/) students [in](/post/in/) [the](/post/the/) [class](/post/class/) [today](/post/today/)."
-- **动词**: 使缺席，使不出现。例如: "[His](/post/his/) [illness](/post/illness/) [will](/post/will/) [absent](/post/absent/) [him](/post/him/) [from](/post/from/) [work](/post/work/) [for](/post/for/) [a](/post/a/) [week](/post/week/)."
+- **形容词**: 缺席的，不在场的。例如: "[He](/zh/post/he/) was [absent](/zh/post/absent/) [from](/zh/post/from/) [the](/zh/post/the/) [meeting](/zh/post/meeting/)."
+- **名词**: 缺席者，未出席的人。例如: "[There](/zh/post/there/) were [three](/zh/post/three/) [absent](/zh/post/absent/) students [in](/zh/post/in/) [the](/zh/post/the/) [class](/zh/post/class/) [today](/zh/post/today/)."
+- **动词**: 使缺席，使不出现。例如: "[His](/zh/post/his/) [illness](/zh/post/illness/) [will](/zh/post/will/) [absent](/zh/post/absent/) [him](/zh/post/him/) [from](/zh/post/from/) [work](/zh/post/work/) [for](/zh/post/for/) [a](/zh/post/a/) [week](/zh/post/week/)."
 
 ## 短语
-- "[be](/post/be/) [absent](/post/absent/) [from](/post/from/)" 意味着没有出席或存在于某个地方。例如: "I was [absent](/post/absent/) [from](/post/from/) [the](/post/the/) [office](/post/office/) [yesterday](/post/yesterday/)."
-- "[feel](/post/feel/) absent-minded" 表示心不在焉，注意力不集中。例如: "[She](/post/she/) was [so](/post/so/) [tired](/post/tired/) [that](/post/that/) [she](/post/she/) felt absent-minded [all](/post/all/) [day](/post/day/)."
+- "[be](/zh/post/be/) [absent](/zh/post/absent/) [from](/zh/post/from/)" 意味着没有出席或存在于某个地方。例如: "I was [absent](/zh/post/absent/) [from](/zh/post/from/) [the](/zh/post/the/) [office](/zh/post/office/) [yesterday](/zh/post/yesterday/)."
+- "[feel](/zh/post/feel/) absent-minded" 表示心不在焉，注意力不集中。例如: "[She](/zh/post/she/) was [so](/zh/post/so/) [tired](/zh/post/tired/) [that](/zh/post/that/) [she](/zh/post/she/) felt absent-minded [all](/zh/post/all/) [day](/zh/post/day/)."
 
 ## 例句
-- 形容词: "[She](/post/she/) is [often](/post/often/) [absent](/post/absent/) [due](/post/due/) [to](/post/to/) [her](/post/her/) [frequent](/post/frequent/) travels."
-- 名词: "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) [reason](/post/reason/) [for](/post/for/) [the](/post/the/) [absent](/post/absent/) student's [absence](/post/absence/)."
-- 动词: "[His](/post/his/) [illness](/post/illness/) [will](/post/will/) [absent](/post/absent/) [him](/post/him/) [from](/post/from/) [the](/post/the/) upcoming [conference](/post/conference/)."
+- 形容词: "[She](/zh/post/she/) is [often](/zh/post/often/) [absent](/zh/post/absent/) [due](/zh/post/due/) [to](/zh/post/to/) [her](/zh/post/her/) [frequent](/zh/post/frequent/) travels."
+- 名词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) asked [the](/zh/post/the/) [reason](/zh/post/reason/) [for](/zh/post/for/) [the](/zh/post/the/) [absent](/zh/post/absent/) student's [absence](/zh/post/absence/)."
+- 动词: "[His](/zh/post/his/) [illness](/zh/post/illness/) [will](/zh/post/will/) [absent](/zh/post/absent/) [him](/zh/post/him/) [from](/zh/post/from/) [the](/zh/post/the/) upcoming [conference](/zh/post/conference/)."
 
 ## 同义词
-- [Missing](/post/missing/)
+- [Missing](/zh/post/missing/)
 - Absentee
 - Non-present
-- [Away](/post/away/)
+- [Away](/zh/post/away/)
 - Inactive

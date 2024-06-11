@@ -11,19 +11,19 @@ keywords = ['ai words', 'microcomputer']
 /maɪˈkrəʊkəmˈpjuːtər/
 
 ## 释义
-- **名词**: 微型计算机，一种小型的个人电脑，通常用于家庭、办公室或学校等环境。它比大型计算机更便携、更经济。例如: "[She](/post/she/) uses [a](/post/a/) [microcomputer](/post/microcomputer/) [for](/post/for/) [her](/post/her/) [daily](/post/daily/) [work](/post/work/) tasks."
+- **名词**: 微型计算机，一种小型的个人电脑，通常用于家庭、办公室或学校等环境。它比大型计算机更便携、更经济。例如: "[She](/zh/post/she/) uses [a](/zh/post/a/) [microcomputer](/zh/post/microcomputer/) [for](/zh/post/for/) [her](/zh/post/her/) [daily](/zh/post/daily/) [work](/zh/post/work/) tasks."
 
 ## 短语
-- "[Microcomputer](/post/microcomputer/) [system](/post/system/)" 指微型计算机的整个系统，包括硬件和软件。
-- "[Home](/post/home/) [microcomputer](/post/microcomputer/)" 指用于家庭的个人电脑。
+- "[Microcomputer](/zh/post/microcomputer/) [system](/zh/post/system/)" 指微型计算机的整个系统，包括硬件和软件。
+- "[Home](/zh/post/home/) [microcomputer](/zh/post/microcomputer/)" 指用于家庭的个人电脑。
 
 ## 例句
-- "[The](/post/the/) [first](/post/first/) [microcomputer](/post/microcomputer/) was introduced [in](/post/in/) [the](/post/the/) [late](/post/late/) 1970s."
-- "[He](/post/he/) upgraded [his](/post/his/) [home](/post/home/) [microcomputer](/post/microcomputer/) [to](/post/to/) [have](/post/have/) [more](/post/more/) processing [power](/post/power/)."
+- "[The](/zh/post/the/) [first](/zh/post/first/) [microcomputer](/zh/post/microcomputer/) was introduced [in](/zh/post/in/) [the](/zh/post/the/) [late](/zh/post/late/) 1970s."
+- "[He](/zh/post/he/) upgraded [his](/zh/post/his/) [home](/zh/post/home/) [microcomputer](/zh/post/microcomputer/) [to](/zh/post/to/) [have](/zh/post/have/) [more](/zh/post/more/) processing [power](/zh/post/power/)."
 
 ## 同义词
-- [Personal](/post/personal/) [computer](/post/computer/) (PC)
+- [Personal](/zh/post/personal/) [computer](/zh/post/computer/) (PC)
 - Laptop
 - Desktop
 - Netbook
-- [Notebook](/post/notebook/)
+- [Notebook](/zh/post/notebook/)

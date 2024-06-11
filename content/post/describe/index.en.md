@@ -7,38 +7,38 @@ description = '[disˈkraib] vt.形容；描写，描绘'
 keywords = ['ai words', 'describe']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈskraɪb/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) detailed [account](/en/post/account/) [or](/en/post/or/) representation [of](/en/post/of/) [something](/en/post/something/), [especially](/en/post/especially/) [its](/en/post/its/) [appearance](/en/post/appearance/), features, [or](/en/post/or/) characteristics. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) wrote [a](/en/post/a/) [vivid](/en/post/vivid/) [description](/en/post/description/) [of](/en/post/of/) [the](/en/post/the/) [sunset](/en/post/sunset/)."
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) verbal [picture](/en/post/picture/) [or](/en/post/or/) [explanation](/en/post/explanation/) [of](/en/post/of/) [something](/en/post/something/), [usually](/en/post/usually/) [in](/en/post/in/) words: "[Please](/en/post/please/) [describe](/en/post/describe/) [the](/en/post/the/) [suspect](/en/post/suspect/) [to](/en/post/to/) [me](/en/post/me/)."
-2. [To](/en/post/to/) portray [or](/en/post/or/) depict [something](/en/post/something/) [in](/en/post/in/) [writing](/en/post/writing/) [or](/en/post/or/) [art](/en/post/art/): "[The](/en/post/the/) [artist](/en/post/artist/) beautifully described [the](/en/post/the/) landscape [in](/en/post/in/) [her](/en/post/her/) [painting](/en/post/painting/)."
+### [Noun](/post/noun/)
+[A](/post/a/) detailed [account](/post/account/) [or](/post/or/) representation [of](/post/of/) [something](/post/something/), [especially](/post/especially/) [its](/post/its/) [appearance](/post/appearance/), features, [or](/post/or/) characteristics. [For](/post/for/) [example](/post/example/): "[She](/post/she/) wrote [a](/post/a/) [vivid](/post/vivid/) [description](/post/description/) [of](/post/of/) [the](/post/the/) [sunset](/post/sunset/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [give](/post/give/) [a](/post/a/) verbal [picture](/post/picture/) [or](/post/or/) [explanation](/post/explanation/) [of](/post/of/) [something](/post/something/), [usually](/post/usually/) [in](/post/in/) words: "[Please](/post/please/) [describe](/post/describe/) [the](/post/the/) [suspect](/post/suspect/) [to](/post/to/) [me](/post/me/)."
+2. [To](/post/to/) portray [or](/post/or/) depict [something](/post/something/) [in](/post/in/) [writing](/post/writing/) [or](/post/or/) [art](/post/art/): "[The](/post/the/) [artist](/post/artist/) beautifully described [the](/post/the/) landscape [in](/post/in/) [her](/post/her/) [painting](/post/painting/)."
 
 ## Phrases
-- "[Describe](/en/post/describe/) an [object](/en/post/object/)" asks [for](/en/post/for/) [a](/en/post/a/) detailed depiction [of](/en/post/of/) [something](/en/post/something/).
-- "[Describe](/en/post/describe/) [your](/en/post/your/) [experience](/en/post/experience/)" is [used](/en/post/used/) [to](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) [a](/en/post/a/) person's [account](/en/post/account/) [of](/en/post/of/) an [event](/en/post/event/).
-- "Descriptive [language](/en/post/language/)" refers [to](/en/post/to/) words [that](/en/post/that/) [create](/en/post/create/) [vivid](/en/post/vivid/) images [in](/en/post/in/) [the](/en/post/the/) reader's [mind](/en/post/mind/).
+- "[Describe](/post/describe/) an [object](/post/object/)" asks [for](/post/for/) [a](/post/a/) detailed depiction [of](/post/of/) [something](/post/something/).
+- "[Describe](/post/describe/) [your](/post/your/) [experience](/post/experience/)" is [used](/post/used/) [to](/post/to/) [ask](/post/ask/) [for](/post/for/) [a](/post/a/) person's [account](/post/account/) [of](/post/of/) an [event](/post/event/).
+- "Descriptive [language](/post/language/)" refers [to](/post/to/) words [that](/post/that/) [create](/post/create/) [vivid](/post/vivid/) images [in](/post/in/) [the](/post/the/) reader's [mind](/post/mind/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) author's [description](/en/post/description/) [of](/en/post/of/) [the](/en/post/the/) medieval [castle](/en/post/castle/) was [so](/en/post/so/) [vivid](/en/post/vivid/) [that](/en/post/that/) readers felt [like](/en/post/like/) [they](/en/post/they/) were [there](/en/post/there/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) described [the](/en/post/the/) [menu](/en/post/menu/) [with](/en/post/with/) [enthusiasm](/en/post/enthusiasm/), highlighting [the](/en/post/the/) chef's [signature](/en/post/signature/) dishes."
-- **[Verb](/en/post/verb/) ([as](/en/post/as/) [a](/en/post/a/) gerund)**: "[We](/en/post/we/) spent hours describing [our](/en/post/our/) adventures [from](/en/post/from/) [the](/en/post/the/) [trip](/en/post/trip/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) author's [description](/post/description/) [of](/post/of/) [the](/post/the/) medieval [castle](/post/castle/) was [so](/post/so/) [vivid](/post/vivid/) [that](/post/that/) readers felt [like](/post/like/) [they](/post/they/) were [there](/post/there/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) described [the](/post/the/) [menu](/post/menu/) [with](/post/with/) [enthusiasm](/post/enthusiasm/), highlighting [the](/post/the/) chef's [signature](/post/signature/) dishes."
+- **[Verb](/post/verb/) ([as](/post/as/) [a](/post/a/) gerund)**: "[We](/post/we/) spent hours describing [our](/post/our/) adventures [from](/post/from/) [the](/post/the/) [trip](/post/trip/)."
 
 ## Synonyms
-- [Explain](/en/post/explain/)
-- [Illustrate](/en/post/illustrate/)
-- [Detail](/en/post/detail/)
+- [Explain](/post/explain/)
+- [Illustrate](/post/illustrate/)
+- [Detail](/post/detail/)
 - Characterize
 - Portray
 - Narrate
 - Depict
 
 ## Antonyms
-- [Conceal](/en/post/conceal/)
-- [Omit](/en/post/omit/)
-- [Vague](/en/post/vague/)
-- [Simplify](/en/post/simplify/)
+- [Conceal](/post/conceal/)
+- [Omit](/post/omit/)
+- [Vague](/post/vague/)
+- [Simplify](/post/simplify/)
 - Misrepresent

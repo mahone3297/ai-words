@@ -7,41 +7,41 @@ description = '[praiz] n.奖赏，奖金 vt.珍视'
 keywords = ['ai words', 'prize']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /praɪz/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - [A](/en/post/a/) [reward](/en/post/reward/) given [for](/en/post/for/) excellence, [achievement](/en/post/achievement/), [or](/en/post/or/) [competition](/en/post/competition/). (e.g., "[The](/en/post/the/) [winner](/en/post/winner/) received [a](/en/post/a/) [cash](/en/post/cash/) [prize](/en/post/prize/).")
-  - [Something](/en/post/something/) valued, [especially](/en/post/especially/) [a](/en/post/a/) cherished [possession](/en/post/possession/). (e.g., "[Her](/en/post/her/) grandmother's jewelry was [a](/en/post/a/) prized heirloom.")
+- **[Noun](/post/noun/)**: 
+  - [A](/post/a/) [reward](/post/reward/) given [for](/post/for/) excellence, [achievement](/post/achievement/), [or](/post/or/) [competition](/post/competition/). (e.g., "[The](/post/the/) [winner](/post/winner/) received [a](/post/a/) [cash](/post/cash/) [prize](/post/prize/).")
+  - [Something](/post/something/) valued, [especially](/post/especially/) [a](/post/a/) cherished [possession](/post/possession/). (e.g., "[Her](/post/her/) grandmother's jewelry was [a](/post/a/) prized heirloom.")
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [award](/en/post/award/) [or](/en/post/or/) bestow [a](/en/post/a/) [prize](/en/post/prize/). (e.g., "[The](/en/post/the/) judges [will](/en/post/will/) [prize](/en/post/prize/) [the](/en/post/the/) [most](/en/post/most/) innovative [design](/en/post/design/).")
-- **[Adjective](/en/post/adjective/)**: [Valuable](/en/post/valuable/) [or](/en/post/or/) esteemed. (e.g., "[The](/en/post/the/) prize-winning [painting](/en/post/painting/) was displayed prominently.")
+- **[Verb](/post/verb/)**: [To](/post/to/) [award](/post/award/) [or](/post/or/) bestow [a](/post/a/) [prize](/post/prize/). (e.g., "[The](/post/the/) judges [will](/post/will/) [prize](/post/prize/) [the](/post/the/) [most](/post/most/) innovative [design](/post/design/).")
+- **[Adjective](/post/adjective/)**: [Valuable](/post/valuable/) [or](/post/or/) esteemed. (e.g., "[The](/post/the/) prize-winning [painting](/post/painting/) was displayed prominently.")
 
 ## Phrases
-- "[Claim](/en/post/claim/) [the](/en/post/the/) [prize](/en/post/prize/)" [means](/en/post/means/) [to](/en/post/to/) [receive](/en/post/receive/) [or](/en/post/or/) [take](/en/post/take/) [the](/en/post/the/) [reward](/en/post/reward/).
-- "[Win](/en/post/win/) [a](/en/post/a/) [prize](/en/post/prize/)" signifies achieving [victory](/en/post/victory/) [and](/en/post/and/) receiving [a](/en/post/a/) [reward](/en/post/reward/).
-- "[Set](/en/post/set/) [a](/en/post/a/) [prize](/en/post/prize/)" [or](/en/post/or/) "[offer](/en/post/offer/) [a](/en/post/a/) [prize](/en/post/prize/)" are ways [to](/en/post/to/) [motivate](/en/post/motivate/) [people](/en/post/people/) [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [contest](/en/post/contest/) [or](/en/post/or/) [challenge](/en/post/challenge/).
+- "[Claim](/post/claim/) [the](/post/the/) [prize](/post/prize/)" [means](/post/means/) [to](/post/to/) [receive](/post/receive/) [or](/post/or/) [take](/post/take/) [the](/post/the/) [reward](/post/reward/).
+- "[Win](/post/win/) [a](/post/a/) [prize](/post/prize/)" signifies achieving [victory](/post/victory/) [and](/post/and/) receiving [a](/post/a/) [reward](/post/reward/).
+- "[Set](/post/set/) [a](/post/a/) [prize](/post/prize/)" [or](/post/or/) "[offer](/post/offer/) [a](/post/a/) [prize](/post/prize/)" are ways [to](/post/to/) [motivate](/post/motivate/) [people](/post/people/) [to](/post/to/) [participate](/post/participate/) [in](/post/in/) [a](/post/a/) [contest](/post/contest/) [or](/post/or/) [challenge](/post/challenge/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) months [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [he](/en/post/he/) [finally](/en/post/finally/) won [the](/en/post/the/) [grand](/en/post/grand/) [prize](/en/post/prize/) [at](/en/post/at/) [the](/en/post/the/) [science](/en/post/science/) [fair](/en/post/fair/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [charity](/en/post/charity/) organized [a](/en/post/a/) raffle [to](/en/post/to/) [prize](/en/post/prize/) donations [for](/en/post/for/) [their](/en/post/their/) [cause](/en/post/cause/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) prize-winning author's [book](/en/post/book/) sold millions [of](/en/post/of/) copies worldwide."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) months [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) [finally](/post/finally/) won [the](/post/the/) [grand](/post/grand/) [prize](/post/prize/) [at](/post/at/) [the](/post/the/) [science](/post/science/) [fair](/post/fair/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [charity](/post/charity/) organized [a](/post/a/) raffle [to](/post/to/) [prize](/post/prize/) donations [for](/post/for/) [their](/post/their/) [cause](/post/cause/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) prize-winning author's [book](/post/book/) sold millions [of](/post/of/) copies worldwide."
 
 ## Synonyms
-- [Reward](/en/post/reward/)
-- [Award](/en/post/award/)
+- [Reward](/post/reward/)
+- [Award](/post/award/)
 - Trophy
-- [Medal](/en/post/medal/)
+- [Medal](/post/medal/)
 - Honor
-- [Recognition](/en/post/recognition/)
-- [Prize](/en/post/prize/) [money](/en/post/money/)
-- [Prize](/en/post/prize/) fellowship
+- [Recognition](/post/recognition/)
+- [Prize](/post/prize/) [money](/post/money/)
+- [Prize](/post/prize/) fellowship
 
 ## Antonyms
 - Penalty
-- [Fine](/en/post/fine/)
-- [Loss](/en/post/loss/)
+- [Fine](/post/fine/)
+- [Loss](/post/loss/)
 - Disqualification
-- [Defeat](/en/post/defeat/)
-- [Failure](/en/post/failure/)
+- [Defeat](/post/defeat/)
+- [Failure](/post/failure/)

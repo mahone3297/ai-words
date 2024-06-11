@@ -7,28 +7,28 @@ description = '[diˈrektli] ad.直接地；立即'
 keywords = ['ai words', 'directly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈrektli/
 
 ## Definitions
-### [Adverb](/en/post/adverb/)
-- **Refers [to](/en/post/to/)**: Acting [or](/en/post/or/) done straightaway; [without](/en/post/without/) [delay](/en/post/delay/) [or](/en/post/or/) intervention. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) answered [the](/en/post/the/) [question](/en/post/question/) [directly](/en/post/directly/)."
-- **[Used](/en/post/used/) [to](/en/post/to/) [modify](/en/post/modify/)**: Verbs, adjectives, [or](/en/post/or/) [other](/en/post/other/) adverbs, expressing [a](/en/post/a/) [manner](/en/post/manner/) [or](/en/post/or/) [degree](/en/post/degree/) [of](/en/post/of/) [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke [directly](/en/post/directly/) [to](/en/post/to/) [the](/en/post/the/) [issue](/en/post/issue/)."
-- **Denotes**: [A](/en/post/a/) [specific](/en/post/specific/) [direction](/en/post/direction/) [or](/en/post/or/) [path](/en/post/path/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [road](/en/post/road/) runs [directly](/en/post/directly/) [to](/en/post/to/) [the](/en/post/the/) [city](/en/post/city/) center."
+### [Adverb](/post/adverb/)
+- **Refers [to](/post/to/)**: Acting [or](/post/or/) done straightaway; [without](/post/without/) [delay](/post/delay/) [or](/post/or/) intervention. [For](/post/for/) [example](/post/example/): "[He](/post/he/) answered [the](/post/the/) [question](/post/question/) [directly](/post/directly/)."
+- **[Used](/post/used/) [to](/post/to/) [modify](/post/modify/)**: Verbs, adjectives, [or](/post/or/) [other](/post/other/) adverbs, expressing [a](/post/a/) [manner](/post/manner/) [or](/post/or/) [degree](/post/degree/) [of](/post/of/) [action](/post/action/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) spoke [directly](/post/directly/) [to](/post/to/) [the](/post/the/) [issue](/post/issue/)."
+- **Denotes**: [A](/post/a/) [specific](/post/specific/) [direction](/post/direction/) [or](/post/or/) [path](/post/path/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [road](/post/road/) runs [directly](/post/directly/) [to](/post/to/) [the](/post/the/) [city](/post/city/) center."
 
 ## Phrases
-- "[Speak](/en/post/speak/) [directly](/en/post/directly/) [to](/en/post/to/) [the](/en/post/the/) [point](/en/post/point/)"
-- "Answered [the](/en/post/the/) [question](/en/post/question/) [directly](/en/post/directly/)"
-- "[He](/en/post/he/) looked [her](/en/post/her/) [directly](/en/post/directly/) [in](/en/post/in/) [the](/en/post/the/) [eye](/en/post/eye/)"
+- "[Speak](/post/speak/) [directly](/post/directly/) [to](/post/to/) [the](/post/the/) [point](/post/point/)"
+- "Answered [the](/post/the/) [question](/post/question/) [directly](/post/directly/)"
+- "[He](/post/he/) looked [her](/post/her/) [directly](/post/directly/) [in](/post/in/) [the](/post/the/) [eye](/post/eye/)"
 
-## [Example](/en/post/example/) Sentences
-- "[Please](/en/post/please/) [address](/en/post/address/) [your](/en/post/your/) concerns [directly](/en/post/directly/) [to](/en/post/to/) [the](/en/post/the/) manager."
-- "[She](/en/post/she/) danced [directly](/en/post/directly/) [under](/en/post/under/) [the](/en/post/the/) spotlight."
-- "[He](/en/post/he/) listened [directly](/en/post/directly/) [to](/en/post/to/) [what](/en/post/what/) [his](/en/post/his/) customers wanted."
+## [Example](/post/example/) Sentences
+- "[Please](/post/please/) [address](/post/address/) [your](/post/your/) concerns [directly](/post/directly/) [to](/post/to/) [the](/post/the/) manager."
+- "[She](/post/she/) danced [directly](/post/directly/) [under](/post/under/) [the](/post/the/) spotlight."
+- "[He](/post/he/) listened [directly](/post/directly/) [to](/post/to/) [what](/post/what/) [his](/post/his/) customers wanted."
 
 ## Synonyms
-- [Immediately](/en/post/immediately/)
+- [Immediately](/post/immediately/)
 - Straightforwardly
-- [Clearly](/en/post/clearly/)
+- [Clearly](/post/clearly/)
 - Unambiguously
-- [Without](/en/post/without/) hesitation
+- [Without](/post/without/) hesitation

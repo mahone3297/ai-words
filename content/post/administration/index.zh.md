@@ -11,23 +11,23 @@ keywords = ['ai words', 'administration']
 /ədˈmɪnɪstrəʃ(ə)n/
 
 ## 释义
-- **名词**: 组织或机构的管理工作，行政管理。例如: "[The](/post/the/) [new](/post/new/) [president](/post/president/) took [charge](/post/charge/) [of](/post/of/) [the](/post/the/) [administration](/post/administration/)."
-- **名词**: 政府的行政机构或管理部门。例如: "[Local](/post/local/) [administration](/post/administration/) deals [with](/post/with/) issues [like](/post/like/) [waste](/post/waste/) [management](/post/management/)."
-- **名词**: 治理、管理或执行的过程。例如: "[The](/post/the/) company's [financial](/post/financial/) [administration](/post/administration/) is [highly](/post/highly/) [efficient](/post/efficient/)."
+- **名词**: 组织或机构的管理工作，行政管理。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [president](/zh/post/president/) took [charge](/zh/post/charge/) [of](/zh/post/of/) [the](/zh/post/the/) [administration](/zh/post/administration/)."
+- **名词**: 政府的行政机构或管理部门。例如: "[Local](/zh/post/local/) [administration](/zh/post/administration/) deals [with](/zh/post/with/) issues [like](/zh/post/like/) [waste](/zh/post/waste/) [management](/zh/post/management/)."
+- **名词**: 治理、管理或执行的过程。例如: "[The](/zh/post/the/) company's [financial](/zh/post/financial/) [administration](/zh/post/administration/) is [highly](/zh/post/highly/) [efficient](/zh/post/efficient/)."
 
 ## 短语
-- "[Public](/post/public/) [administration](/post/administration/)" 指的是政府的公共事务管理。
-- "[Hospital](/post/hospital/) [administration](/post/administration/)" 涉及医院的运营管理。
+- "[Public](/zh/post/public/) [administration](/zh/post/administration/)" 指的是政府的公共事务管理。
+- "[Hospital](/zh/post/hospital/) [administration](/zh/post/administration/)" 涉及医院的运营管理。
 - "Administrative procedures" 指的是行政程序或规定。
 
 ## 例句
-- "[The](/post/the/) [administration](/post/administration/) [team](/post/team/) is [responsible](/post/responsible/) [for](/post/for/) implementing [new](/post/new/) policies."
-- "[She](/post/she/) has years [of](/post/of/) [experience](/post/experience/) [in](/post/in/) [local](/post/local/) [government](/post/government/) [administration](/post/administration/)."
-- "Improving [the](/post/the/) [administration](/post/administration/) [of](/post/of/) [justice](/post/justice/) is [a](/post/a/) [key](/post/key/) [goal](/post/goal/) [for](/post/for/) [the](/post/the/) [legal](/post/legal/) [system](/post/system/)."
+- "[The](/zh/post/the/) [administration](/zh/post/administration/) [team](/zh/post/team/) is [responsible](/zh/post/responsible/) [for](/zh/post/for/) implementing [new](/zh/post/new/) policies."
+- "[She](/zh/post/she/) has years [of](/zh/post/of/) [experience](/zh/post/experience/) [in](/zh/post/in/) [local](/zh/post/local/) [government](/zh/post/government/) [administration](/zh/post/administration/)."
+- "Improving [the](/zh/post/the/) [administration](/zh/post/administration/) [of](/zh/post/of/) [justice](/zh/post/justice/) is [a](/zh/post/a/) [key](/zh/post/key/) [goal](/zh/post/goal/) [for](/zh/post/for/) [the](/zh/post/the/) [legal](/zh/post/legal/) [system](/zh/post/system/)."
 
 ## 同义词
 - Governance
-- [Management](/post/management/)
-- [Control](/post/control/)
+- [Management](/zh/post/management/)
+- [Control](/zh/post/control/)
 - Supervision
-- [Direction](/post/direction/)
+- [Direction](/zh/post/direction/)

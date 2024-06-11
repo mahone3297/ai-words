@@ -7,34 +7,34 @@ description = '[ˈkæptiv] n.俘虏，被监禁的人'
 keywords = ['ai words', 'captive']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈpɪtɪv/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is held [prisoner](/en/post/prisoner/) [or](/en/post/or/) confined, [especially](/en/post/especially/) [against](/en/post/against/) [their](/en/post/their/) [will](/en/post/will/). [Also](/en/post/also/) [used](/en/post/used/) figuratively [for](/en/post/for/) [something](/en/post/something/) [that](/en/post/that/) is restricted [or](/en/post/or/) immobile. [Example](/en/post/example/): "[The](/en/post/the/) [captive](/en/post/captive/) [audience](/en/post/audience/) listened intently [to](/en/post/to/) [the](/en/post/the/) [speaker](/en/post/speaker/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [capture](/en/post/capture/) [or](/en/post/or/) [seize](/en/post/seize/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/), making [them](/en/post/them/) [prisoner](/en/post/prisoner/). [Example](/en/post/example/): "[The](/en/post/the/) [enemy](/en/post/enemy/) captured [the](/en/post/the/) [enemy](/en/post/enemy/) soldiers."
-- **[Adjective](/en/post/adjective/)**: Held [captive](/en/post/captive/), imprisoned, [or](/en/post/or/) restricted [in](/en/post/in/) [some](/en/post/some/) [way](/en/post/way/). [Example](/en/post/example/): "[Her](/en/post/her/) [imagination](/en/post/imagination/) was [captive](/en/post/captive/) [by](/en/post/by/) [the](/en/post/the/) story's twists [and](/en/post/and/) turns."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) is held [prisoner](/post/prisoner/) [or](/post/or/) confined, [especially](/post/especially/) [against](/post/against/) [their](/post/their/) [will](/post/will/). [Also](/post/also/) [used](/post/used/) figuratively [for](/post/for/) [something](/post/something/) [that](/post/that/) is restricted [or](/post/or/) immobile. [Example](/post/example/): "[The](/post/the/) [captive](/post/captive/) [audience](/post/audience/) listened intently [to](/post/to/) [the](/post/the/) [speaker](/post/speaker/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [capture](/post/capture/) [or](/post/or/) [seize](/post/seize/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/), making [them](/post/them/) [prisoner](/post/prisoner/). [Example](/post/example/): "[The](/post/the/) [enemy](/post/enemy/) captured [the](/post/the/) [enemy](/post/enemy/) soldiers."
+- **[Adjective](/post/adjective/)**: Held [captive](/post/captive/), imprisoned, [or](/post/or/) restricted [in](/post/in/) [some](/post/some/) [way](/post/way/). [Example](/post/example/): "[Her](/post/her/) [imagination](/post/imagination/) was [captive](/post/captive/) [by](/post/by/) [the](/post/the/) story's twists [and](/post/and/) turns."
 
 ## Phrases
-- "[Captive](/en/post/captive/) [audience](/en/post/audience/)" refers [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) are forced [to](/en/post/to/) [listen](/en/post/listen/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [performance](/en/post/performance/) [or](/en/post/or/) presentation.
-- "[Escape](/en/post/escape/) [from](/en/post/from/) captivity" describes [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) freeing [oneself](/en/post/oneself/) [from](/en/post/from/) imprisonment [or](/en/post/or/) captivity.
-- "[Captive](/en/post/captive/) [mind](/en/post/mind/)" implies [complete](/en/post/complete/) absorption [or](/en/post/or/) fixation [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [thought](/en/post/thought/) [or](/en/post/or/) [idea](/en/post/idea/).
+- "[Captive](/post/captive/) [audience](/post/audience/)" refers [to](/post/to/) [a](/post/a/) [group](/post/group/) [of](/post/of/) [people](/post/people/) [who](/post/who/) are forced [to](/post/to/) [listen](/post/listen/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [performance](/post/performance/) [or](/post/or/) presentation.
+- "[Escape](/post/escape/) [from](/post/from/) captivity" describes [the](/post/the/) [act](/post/act/) [of](/post/of/) freeing [oneself](/post/oneself/) [from](/post/from/) imprisonment [or](/post/or/) captivity.
+- "[Captive](/post/captive/) [mind](/post/mind/)" implies [complete](/post/complete/) absorption [or](/post/or/) fixation [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [thought](/post/thought/) [or](/post/or/) [idea](/post/idea/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were captives [of](/en/post/of/) [their](/en/post/their/) fears [during](/en/post/during/) [the](/en/post/the/) [storm](/en/post/storm/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) planning, [they](/en/post/they/) [finally](/en/post/finally/) managed [to](/en/post/to/) [free](/en/post/free/) [the](/en/post/the/) hostages."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) eyes were fixed [in](/en/post/in/) [a](/en/post/a/) [captive](/en/post/captive/) [gaze](/en/post/gaze/) [upon](/en/post/upon/) [the](/en/post/the/) [painting](/en/post/painting/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were captives [of](/post/of/) [their](/post/their/) fears [during](/post/during/) [the](/post/the/) [storm](/post/storm/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) planning, [they](/post/they/) [finally](/post/finally/) managed [to](/post/to/) [free](/post/free/) [the](/post/the/) hostages."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) eyes were fixed [in](/post/in/) [a](/post/a/) [captive](/post/captive/) [gaze](/post/gaze/) [upon](/post/upon/) [the](/post/the/) [painting](/post/painting/)."
 
 ## Synonyms
-- [Prisoner](/en/post/prisoner/)
-- [Captive](/en/post/captive/) [animal](/en/post/animal/)
+- [Prisoner](/post/prisoner/)
+- [Captive](/post/captive/) [animal](/post/animal/)
 - Imprisoned
 - Restricted
 - Ensnared
 - Entrapped
 
 ## Antonyms
-- [Free](/en/post/free/)
+- [Free](/post/free/)
 - Unchained
 - Unconstrained
 - Unrestricted

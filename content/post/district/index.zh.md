@@ -12,21 +12,21 @@ keywords = ['ai words', 'district']
 
 ## 释义
 - **名词**: 
-    1. 地区；区域：一个行政、地理或功能划分的特定区域。例如: "[The](/post/the/) [new](/post/new/) [school](/post/school/) [will](/post/will/) [serve](/post/serve/) [several](/post/several/) districts [in](/post/in/) [the](/post/the/) [city](/post/city/)."
-    2. 区域代表：在某些国家（如美国），指的是选民选举代表的区域。例如: "[She](/post/she/) is running [for](/post/for/) [Congress](/post/congress/) [in](/post/in/) [the](/post/the/) 5th [district](/post/district/)."
+    1. 地区；区域：一个行政、地理或功能划分的特定区域。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [school](/zh/post/school/) [will](/zh/post/will/) [serve](/zh/post/serve/) [several](/zh/post/several/) districts [in](/zh/post/in/) [the](/zh/post/the/) [city](/zh/post/city/)."
+    2. 区域代表：在某些国家（如美国），指的是选民选举代表的区域。例如: "[She](/zh/post/she/) is running [for](/zh/post/for/) [Congress](/zh/post/congress/) [in](/zh/post/in/) [the](/zh/post/the/) 5th [district](/zh/post/district/)."
 
 ## 短语
-- "[School](/post/school/) [district](/post/district/)" 学区，指教育行政区域。
-- "[Fire](/post/fire/) [district](/post/district/)" 消防区，负责消防服务的特定区域。
-- "Electoral [district](/post/district/)" 选区，选举时的划分区域。
+- "[School](/zh/post/school/) [district](/zh/post/district/)" 学区，指教育行政区域。
+- "[Fire](/zh/post/fire/) [district](/zh/post/district/)" 消防区，负责消防服务的特定区域。
+- "Electoral [district](/zh/post/district/)" 选区，选举时的划分区域。
 
 ## 例句
-- 名词: "[The](/post/the/) downtown [district](/post/district/) is known [for](/post/for/) [its](/post/its/) vibrant nightlife."
-- 名词: "[Each](/post/each/) [district](/post/district/) has [its](/post/its/) [own](/post/own/) [mayor](/post/mayor/) [and](/post/and/) [council](/post/council/)."
+- 名词: "[The](/zh/post/the/) downtown [district](/zh/post/district/) is known [for](/zh/post/for/) [its](/zh/post/its/) vibrant nightlife."
+- 名词: "[Each](/zh/post/each/) [district](/zh/post/district/) has [its](/zh/post/its/) [own](/zh/post/own/) [mayor](/zh/post/mayor/) [and](/zh/post/and/) [council](/zh/post/council/)."
 
 ## 同义词
-- [Region](/post/region/)
-- [Area](/post/area/)
-- [Territory](/post/territory/)
-- [Division](/post/division/)
+- [Region](/zh/post/region/)
+- [Area](/zh/post/area/)
+- [Territory](/zh/post/territory/)
+- [Division](/zh/post/division/)
 - Sector

@@ -11,16 +11,16 @@ keywords = ['ai words', 'aural']
 /ˈɔːrəl/
 
 ## 释义
-- **形容词**: 与听觉或耳朵相关的。例如: "[The](/post/the/) [aural](/post/aural/) [training](/post/training/) [in](/post/in/) [music](/post/music/) is crucial [for](/post/for/) musicians."
-- **名词**: 在某些语境下，指听力或声音方面的能力。例如: "[She](/post/she/) has [a](/post/a/) [great](/post/great/) [aural](/post/aural/) [memory](/post/memory/) [for](/post/for/) tunes."
+- **形容词**: 与听觉或耳朵相关的。例如: "[The](/zh/post/the/) [aural](/zh/post/aural/) [training](/zh/post/training/) [in](/zh/post/in/) [music](/zh/post/music/) is crucial [for](/zh/post/for/) musicians."
+- **名词**: 在某些语境下，指听力或声音方面的能力。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [great](/zh/post/great/) [aural](/zh/post/aural/) [memory](/zh/post/memory/) [for](/zh/post/for/) tunes."
 
 ## 短语
-- "[Aural](/post/aural/) perception" 指的是听觉感知能力。
-- "[Aural](/post/aural/) [tradition](/post/tradition/)" 在音乐中指的是通过听和模仿来传递的口头传统。
+- "[Aural](/zh/post/aural/) perception" 指的是听觉感知能力。
+- "[Aural](/zh/post/aural/) [tradition](/zh/post/tradition/)" 在音乐中指的是通过听和模仿来传递的口头传统。
 
 ## 例句
-- 形容词: "[The](/post/the/) [aural](/post/aural/) [exam](/post/exam/) tests [your](/post/your/) [ability](/post/ability/) [to](/post/to/) [identify](/post/identify/) [different](/post/different/) [musical](/post/musical/) intervals."
-- 名词: "[In](/post/in/) [language](/post/language/) [learning](/post/learning/), [aural](/post/aural/) [comprehension](/post/comprehension/) is [as](/post/as/) [important](/post/important/) [as](/post/as/) written skills."
+- 形容词: "[The](/zh/post/the/) [aural](/zh/post/aural/) [exam](/zh/post/exam/) tests [your](/zh/post/your/) [ability](/zh/post/ability/) [to](/zh/post/to/) [identify](/zh/post/identify/) [different](/zh/post/different/) [musical](/zh/post/musical/) intervals."
+- 名词: "[In](/zh/post/in/) [language](/zh/post/language/) [learning](/zh/post/learning/), [aural](/zh/post/aural/) [comprehension](/zh/post/comprehension/) is [as](/zh/post/as/) [important](/zh/post/important/) [as](/zh/post/as/) written skills."
 
 ## 同义词
 - Auditory

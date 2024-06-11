@@ -7,34 +7,34 @@ description = '[treil] n.痕迹；小径 vt.跟踪'
 keywords = ['ai words', 'trail']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[trail](/en/post/trail/)/
+## [Pronunciation](/post/pronunciation/)
+/[trail](/post/trail/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [A](/en/post/a/) [track](/en/post/track/) [or](/en/post/or/) [path](/en/post/path/), [especially](/en/post/especially/) [one](/en/post/one/) made [by](/en/post/by/) animals [or](/en/post/or/) [people](/en/post/people/) walking: *[The](/en/post/the/) hikers followed [the](/en/post/the/) [faint](/en/post/faint/) [trail](/en/post/trail/) [through](/en/post/through/) [the](/en/post/the/) woods.*
-- **2.** [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) connected events [or](/en/post/or/) actions: *[The](/en/post/the/) [story](/en/post/story/) had [a](/en/post/a/) [trail](/en/post/trail/) [of](/en/post/of/) [mysterious](/en/post/mysterious/) disappearances.*
-- **3.** [A](/en/post/a/) [line](/en/post/line/) [of](/en/post/of/) [smoke](/en/post/smoke/), [dust](/en/post/dust/), [or](/en/post/or/) particles [left](/en/post/left/) [behind](/en/post/behind/): *[The](/en/post/the/) car's [exhaust](/en/post/exhaust/) [trail](/en/post/trail/) lingered [in](/en/post/in/) [the](/en/post/the/) [air](/en/post/air/).*
-- **4.** [A](/en/post/a/) [trail](/en/post/trail/) [of](/en/post/of/) [evidence](/en/post/evidence/) [or](/en/post/or/) clues: *Detectives were [following](/en/post/following/) [a](/en/post/a/) [financial](/en/post/financial/) [trail](/en/post/trail/) [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [thief](/en/post/thief/).*
+### [Noun](/post/noun/)
+- **1.** [A](/post/a/) [track](/post/track/) [or](/post/or/) [path](/post/path/), [especially](/post/especially/) [one](/post/one/) made [by](/post/by/) animals [or](/post/or/) [people](/post/people/) walking: *[The](/post/the/) hikers followed [the](/post/the/) [faint](/post/faint/) [trail](/post/trail/) [through](/post/through/) [the](/post/the/) woods.*
+- **2.** [A](/post/a/) [series](/post/series/) [of](/post/of/) connected events [or](/post/or/) actions: *[The](/post/the/) [story](/post/story/) had [a](/post/a/) [trail](/post/trail/) [of](/post/of/) [mysterious](/post/mysterious/) disappearances.*
+- **3.** [A](/post/a/) [line](/post/line/) [of](/post/of/) [smoke](/post/smoke/), [dust](/post/dust/), [or](/post/or/) particles [left](/post/left/) [behind](/post/behind/): *[The](/post/the/) car's [exhaust](/post/exhaust/) [trail](/post/trail/) lingered [in](/post/in/) [the](/post/the/) [air](/post/air/).*
+- **4.** [A](/post/a/) [trail](/post/trail/) [of](/post/of/) [evidence](/post/evidence/) [or](/post/or/) clues: *Detectives were [following](/post/following/) [a](/post/a/) [financial](/post/financial/) [trail](/post/trail/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [thief](/post/thief/).*
 
-### [Verb](/en/post/verb/)
-- **1.** (tr) [To](/en/post/to/) [walk](/en/post/walk/) [or](/en/post/or/) [follow](/en/post/follow/) [along](/en/post/along/) [a](/en/post/a/) [trail](/en/post/trail/): *[We](/en/post/we/) decided [to](/en/post/to/) [trail](/en/post/trail/) [the](/en/post/the/) [river](/en/post/river/) upstream.*
-- **2.** (tr) [To](/en/post/to/) [leave](/en/post/leave/) [a](/en/post/a/) [trail](/en/post/trail/) [or](/en/post/or/) [track](/en/post/track/): *Leaves were trailing [from](/en/post/from/) [the](/en/post/the/) [tree](/en/post/tree/) branches.*
-- **3.** (figurative) [To](/en/post/to/) [lead](/en/post/lead/) [or](/en/post/or/) [guide](/en/post/guide/) [someone](/en/post/someone/) [by](/en/post/by/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) events [or](/en/post/or/) occurrences: *[His](/en/post/his/) [career](/en/post/career/) [trail](/en/post/trail/) led [him](/en/post/him/) [from](/en/post/from/) academia [to](/en/post/to/) [industry](/en/post/industry/).*
+### [Verb](/post/verb/)
+- **1.** (tr) [To](/post/to/) [walk](/post/walk/) [or](/post/or/) [follow](/post/follow/) [along](/post/along/) [a](/post/a/) [trail](/post/trail/): *[We](/post/we/) decided [to](/post/to/) [trail](/post/trail/) [the](/post/the/) [river](/post/river/) upstream.*
+- **2.** (tr) [To](/post/to/) [leave](/post/leave/) [a](/post/a/) [trail](/post/trail/) [or](/post/or/) [track](/post/track/): *Leaves were trailing [from](/post/from/) [the](/post/the/) [tree](/post/tree/) branches.*
+- **3.** (figurative) [To](/post/to/) [lead](/post/lead/) [or](/post/or/) [guide](/post/guide/) [someone](/post/someone/) [by](/post/by/) [a](/post/a/) [series](/post/series/) [of](/post/of/) events [or](/post/or/) occurrences: *[His](/post/his/) [career](/post/career/) [trail](/post/trail/) led [him](/post/him/) [from](/post/from/) academia [to](/post/to/) [industry](/post/industry/).*
 
 ## Phrases
-- "[Trail](/en/post/trail/) [a](/en/post/a/) [bike](/en/post/bike/)" [means](/en/post/means/) [to](/en/post/to/) [ride](/en/post/ride/) [a](/en/post/a/) [bicycle](/en/post/bicycle/) [along](/en/post/along/) [a](/en/post/a/) [path](/en/post/path/) [or](/en/post/or/) [trail](/en/post/trail/).
-- "[Trail](/en/post/trail/) [mix](/en/post/mix/)" is [a](/en/post/a/) snack made [with](/en/post/with/) nuts, dried fruits, [and](/en/post/and/) [chocolate](/en/post/chocolate/) bits.
-- "Trailblazer" refers [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) [pioneer](/en/post/pioneer/) [new](/en/post/new/) paths [or](/en/post/or/) ideas.
+- "[Trail](/post/trail/) [a](/post/a/) [bike](/post/bike/)" [means](/post/means/) [to](/post/to/) [ride](/post/ride/) [a](/post/a/) [bicycle](/post/bicycle/) [along](/post/along/) [a](/post/a/) [path](/post/path/) [or](/post/or/) [trail](/post/trail/).
+- "[Trail](/post/trail/) [mix](/post/mix/)" is [a](/post/a/) snack made [with](/post/with/) nuts, dried fruits, [and](/post/and/) [chocolate](/post/chocolate/) bits.
+- "Trailblazer" refers [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) [pioneer](/post/pioneer/) [new](/post/new/) paths [or](/post/or/) ideas.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[The](/en/post/the/) backpacker carefully picked [her](/en/post/her/) [way](/en/post/way/) [along](/en/post/along/) [the](/en/post/the/) rocky [mountain](/en/post/mountain/) [trail](/en/post/trail/).*
-- **[Verb](/en/post/verb/)**: *[He](/en/post/he/) trailed [his](/en/post/his/) fingers [along](/en/post/along/) [the](/en/post/the/) [wooden](/en/post/wooden/) [fence](/en/post/fence/), [feeling](/en/post/feeling/) [the](/en/post/the/) texture.*
-- **Figurative**: *[Her](/en/post/her/) [success](/en/post/success/) [story](/en/post/story/) is [a](/en/post/a/) [trail](/en/post/trail/) [that](/en/post/that/) [many](/en/post/many/) aspiring entrepreneurs aspire [to](/en/post/to/) [follow](/en/post/follow/).*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[The](/post/the/) backpacker carefully picked [her](/post/her/) [way](/post/way/) [along](/post/along/) [the](/post/the/) rocky [mountain](/post/mountain/) [trail](/post/trail/).*
+- **[Verb](/post/verb/)**: *[He](/post/he/) trailed [his](/post/his/) fingers [along](/post/along/) [the](/post/the/) [wooden](/post/wooden/) [fence](/post/fence/), [feeling](/post/feeling/) [the](/post/the/) texture.*
+- **Figurative**: *[Her](/post/her/) [success](/post/success/) [story](/post/story/) is [a](/post/a/) [trail](/post/trail/) [that](/post/that/) [many](/post/many/) aspiring entrepreneurs aspire [to](/post/to/) [follow](/post/follow/).*
 
 ## Synonyms
-- [Follow](/en/post/follow/)
-- [Pursue](/en/post/pursue/)
-- [Wander](/en/post/wander/)
+- [Follow](/post/follow/)
+- [Pursue](/post/pursue/)
+- [Wander](/post/wander/)
 - Roam
-- [Trace](/en/post/trace/)
+- [Trace](/post/trace/)

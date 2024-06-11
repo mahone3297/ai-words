@@ -11,18 +11,18 @@ keywords = ['ai words', 'three']
 /θriː/
 
 ## 释义
-- **数词**: 表示数字3，指三个。例如: "[There](/post/there/) are [three](/post/three/) apples [on](/post/on/) [the](/post/the/) [table](/post/table/)."
+- **数词**: 表示数字3，指三个。例如: "[There](/zh/post/there/) are [three](/zh/post/three/) apples [on](/zh/post/on/) [the](/zh/post/the/) [table](/zh/post/table/)."
 
 ## 短语
-- "[Third](/post/third/) time's [the](/post/the/) charm" 意为第三次尝试往往能成功。
-- "[One](/post/one/), [two](/post/two/), [three](/post/three/)..." 常用来计数或开始某种活动。
+- "[Third](/zh/post/third/) time's [the](/zh/post/the/) charm" 意为第三次尝试往往能成功。
+- "[One](/zh/post/one/), [two](/zh/post/two/), [three](/zh/post/three/)..." 常用来计数或开始某种活动。
 
 ## 例句
-- 作为数词使用: "[We](/post/we/) [need](/post/need/) [three](/post/three/) [more](/post/more/) volunteers [for](/post/for/) [the](/post/the/) [project](/post/project/)."
-- 在短语中: "[On](/post/on/) [the](/post/the/) [third](/post/third/) [attempt](/post/attempt/), [he](/post/he/) [finally](/post/finally/) managed [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [puzzle](/post/puzzle/)."
+- 作为数词使用: "[We](/zh/post/we/) [need](/zh/post/need/) [three](/zh/post/three/) [more](/zh/post/more/) volunteers [for](/zh/post/for/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- 在短语中: "[On](/zh/post/on/) [the](/zh/post/the/) [third](/zh/post/third/) [attempt](/zh/post/attempt/), [he](/zh/post/he/) [finally](/zh/post/finally/) managed [to](/zh/post/to/) [solve](/zh/post/solve/) [the](/zh/post/the/) [puzzle](/zh/post/puzzle/)."
 
 ## 同义词
-- [Two](/post/two/) [plus](/post/plus/) [one](/post/one/)
-- [A](/post/a/) trio
-- [A](/post/a/) [couple](/post/couple/) [and](/post/and/) [one](/post/one/) [more](/post/more/)
+- [Two](/zh/post/two/) [plus](/zh/post/plus/) [one](/zh/post/one/)
+- [A](/zh/post/a/) trio
+- [A](/zh/post/a/) [couple](/zh/post/couple/) [and](/zh/post/and/) [one](/zh/post/one/) [more](/zh/post/more/)
 - Ternary (数学术语，表示基数为3的系统)

@@ -7,31 +7,31 @@ description = '[ˈbriljənt] a.光辉的；卓越的'
 keywords = ['ai words', 'brilliant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbrɪliənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [extremely](/en/post/extremely/) [intelligent](/en/post/intelligent/), talented, [or](/en/post/or/) [impressive](/en/post/impressive/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/). [Example](/en/post/example/): "He's [a](/en/post/a/) [brilliant](/en/post/brilliant/) [musician](/en/post/musician/)."
-- [A](/en/post/a/) [noun](/en/post/noun/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) is dazzling, shining, [or](/en/post/or/) [outstanding](/en/post/outstanding/). [Example](/en/post/example/): "[The](/en/post/the/) fireworks [display](/en/post/display/) was [a](/en/post/a/) [brilliant](/en/post/brilliant/) [display](/en/post/display/) [of](/en/post/of/) [color](/en/post/color/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [a](/post/a/) [person](/post/person/) [who](/post/who/) is [extremely](/post/extremely/) [intelligent](/post/intelligent/), talented, [or](/post/or/) [impressive](/post/impressive/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/). [Example](/post/example/): "He's [a](/post/a/) [brilliant](/post/brilliant/) [musician](/post/musician/)."
+- [A](/post/a/) [noun](/post/noun/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) is dazzling, shining, [or](/post/or/) [outstanding](/post/outstanding/). [Example](/post/example/): "[The](/post/the/) fireworks [display](/post/display/) was [a](/post/a/) [brilliant](/post/brilliant/) [display](/post/display/) [of](/post/of/) [color](/post/color/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [as](/en/post/as/) [brilliant](/en/post/brilliant/) [or](/en/post/or/) [to](/en/post/to/) [express](/en/post/express/) admiration [for](/en/post/for/) [their](/en/post/their/) [intelligence](/en/post/intelligence/) [or](/en/post/or/) [achievement](/en/post/achievement/). [Example](/en/post/example/): "[She](/en/post/she/) was praised [for](/en/post/for/) [her](/en/post/her/) [brilliant](/en/post/brilliant/) [performance](/en/post/performance/)."
-- [To](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is [highly](/en/post/highly/) [impressive](/en/post/impressive/) [or](/en/post/or/) [remarkable](/en/post/remarkable/). [Example](/en/post/example/): "[His](/en/post/his/) [solution](/en/post/solution/) [to](/en/post/to/) [the](/en/post/the/) [problem](/en/post/problem/) was [truly](/en/post/truly/) [brilliant](/en/post/brilliant/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [as](/post/as/) [brilliant](/post/brilliant/) [or](/post/or/) [to](/post/to/) [express](/post/express/) admiration [for](/post/for/) [their](/post/their/) [intelligence](/post/intelligence/) [or](/post/or/) [achievement](/post/achievement/). [Example](/post/example/): "[She](/post/she/) was praised [for](/post/for/) [her](/post/her/) [brilliant](/post/brilliant/) [performance](/post/performance/)."
+- [To](/post/to/) [indicate](/post/indicate/) [that](/post/that/) [something](/post/something/) is [highly](/post/highly/) [impressive](/post/impressive/) [or](/post/or/) [remarkable](/post/remarkable/). [Example](/post/example/): "[His](/post/his/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/) was [truly](/post/truly/) [brilliant](/post/brilliant/)."
 
-### [Adjective](/en/post/adjective/)
-- An [adjective](/en/post/adjective/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [that](/en/post/that/) displays exceptional [skill](/en/post/skill/), [intelligence](/en/post/intelligence/), [or](/en/post/or/) [quality](/en/post/quality/). [Example](/en/post/example/): "[Her](/en/post/her/) [brilliant](/en/post/brilliant/) ideas led [to](/en/post/to/) [the](/en/post/the/) company's [success](/en/post/success/)."
-- An [adjective](/en/post/adjective/) [to](/en/post/to/) denote [great](/en/post/great/) brightness [or](/en/post/or/) luster. [Example](/en/post/example/): "[The](/en/post/the/) gemstone shone [with](/en/post/with/) [a](/en/post/a/) [brilliant](/en/post/brilliant/) [light](/en/post/light/)."
+### [Adjective](/post/adjective/)
+- An [adjective](/post/adjective/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [that](/post/that/) displays exceptional [skill](/post/skill/), [intelligence](/post/intelligence/), [or](/post/or/) [quality](/post/quality/). [Example](/post/example/): "[Her](/post/her/) [brilliant](/post/brilliant/) ideas led [to](/post/to/) [the](/post/the/) company's [success](/post/success/)."
+- An [adjective](/post/adjective/) [to](/post/to/) denote [great](/post/great/) brightness [or](/post/or/) luster. [Example](/post/example/): "[The](/post/the/) gemstone shone [with](/post/with/) [a](/post/a/) [brilliant](/post/brilliant/) [light](/post/light/)."
 
 ## Phrases
-- "[A](/en/post/a/) [brilliant](/en/post/brilliant/) [mind](/en/post/mind/)" refers [to](/en/post/to/) an intellect [that](/en/post/that/) is [outstanding](/en/post/outstanding/).
-- "[Brilliant](/en/post/brilliant/) [work](/en/post/work/)" is [used](/en/post/used/) [to](/en/post/to/) compliment someone's exceptional accomplishment.
-- "She's [a](/en/post/a/) [brilliant](/en/post/brilliant/) [scientist](/en/post/scientist/)" is [a](/en/post/a/) [way](/en/post/way/) [to](/en/post/to/) [praise](/en/post/praise/) someone's expertise [in](/en/post/in/) [their](/en/post/their/) [field](/en/post/field/).
+- "[A](/post/a/) [brilliant](/post/brilliant/) [mind](/post/mind/)" refers [to](/post/to/) an intellect [that](/post/that/) is [outstanding](/post/outstanding/).
+- "[Brilliant](/post/brilliant/) [work](/post/work/)" is [used](/post/used/) [to](/post/to/) compliment someone's exceptional accomplishment.
+- "She's [a](/post/a/) [brilliant](/post/brilliant/) [scientist](/post/scientist/)" is [a](/post/a/) [way](/post/way/) [to](/post/to/) [praise](/post/praise/) someone's expertise [in](/post/in/) [their](/post/their/) [field](/post/field/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "He's considered [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [most](/en/post/most/) [brilliant](/en/post/brilliant/) minds [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/) [of](/en/post/of/) [mathematics](/en/post/mathematics/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) author's [brilliant](/en/post/brilliant/) [writing](/en/post/writing/) captivated readers [from](/en/post/from/) [the](/en/post/the/) [first](/en/post/first/) [page](/en/post/page/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) diamond's brilliance caught [the](/en/post/the/) [light](/en/post/light/) beautifully."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "He's considered [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [brilliant](/post/brilliant/) minds [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [mathematics](/post/mathematics/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) author's [brilliant](/post/brilliant/) [writing](/post/writing/) captivated readers [from](/post/from/) [the](/post/the/) [first](/post/first/) [page](/post/page/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) diamond's brilliance caught [the](/post/the/) [light](/post/light/) beautifully."
 
 ## Synonyms
 - Gifted

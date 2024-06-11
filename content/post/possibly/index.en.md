@@ -7,33 +7,33 @@ description = '[ˈpɔsəbli] ad.可能地；也许'
 keywords = ['ai words', 'possibly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəsəbli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Characterizing [or](/en/post/or/) describing [the](/en/post/the/) likelihood [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [possibility](/en/post/possibility/) [or](/en/post/or/) uncertainty. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [might](/en/post/might/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [possibly](/en/post/possibly/) [today](/en/post/today/)."
-- **[Adjective](/en/post/adjective/)**: Expressing [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [possible](/en/post/possible/) [or](/en/post/or/) [capable](/en/post/capable/), [but](/en/post/but/) [not](/en/post/not/) [necessarily](/en/post/necessarily/) [certain](/en/post/certain/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) [forecast](/en/post/forecast/) indicates [a](/en/post/a/) [possibly](/en/post/possibly/) [rainy](/en/post/rainy/) [day](/en/post/day/) [tomorrow](/en/post/tomorrow/)."
+- **[Adverb](/post/adverb/)**: Characterizing [or](/post/or/) describing [the](/post/the/) likelihood [or](/post/or/) [ability](/post/ability/) [to](/post/to/) [do](/post/do/) [something](/post/something/), [often](/post/often/) [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [possibility](/post/possibility/) [or](/post/or/) uncertainty. [For](/post/for/) [example](/post/example/): "[She](/post/she/) [might](/post/might/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/) [possibly](/post/possibly/) [today](/post/today/)."
+- **[Adjective](/post/adjective/)**: Expressing [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [possible](/post/possible/) [or](/post/or/) [capable](/post/capable/), [but](/post/but/) [not](/post/not/) [necessarily](/post/necessarily/) [certain](/post/certain/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/) indicates [a](/post/a/) [possibly](/post/possibly/) [rainy](/post/rainy/) [day](/post/day/) [tomorrow](/post/tomorrow/)."
 
 ## Phrases
-- "[Possibly](/en/post/possibly/) [true](/en/post/true/)"
-- "It's [possibly](/en/post/possibly/) [a](/en/post/a/) misunderstanding"
-- "[He](/en/post/he/) [could](/en/post/could/) [arrive](/en/post/arrive/) [possibly](/en/post/possibly/) [late](/en/post/late/)"
+- "[Possibly](/post/possibly/) [true](/post/true/)"
+- "It's [possibly](/post/possibly/) [a](/post/a/) misunderstanding"
+- "[He](/post/he/) [could](/post/could/) [arrive](/post/arrive/) [possibly](/post/possibly/) [late](/post/late/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "It's [possible](/en/post/possible/) [that](/en/post/that/) they'll [arrive](/en/post/arrive/) [by](/en/post/by/) [noon](/en/post/noon/), [but](/en/post/but/) it's [not](/en/post/not/) [definite](/en/post/definite/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [solution](/en/post/solution/) is [possibly](/en/post/possibly/) [better](/en/post/better/) [than](/en/post/than/) [we](/en/post/we/) initially [thought](/en/post/thought/)."
-- **[Sentence](/en/post/sentence/) [with](/en/post/with/) [Adverb](/en/post/adverb/)**: "I [might](/en/post/might/) [be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/) [come](/en/post/come/) [to](/en/post/to/) [the](/en/post/the/) [meeting](/en/post/meeting/), [possibly](/en/post/possibly/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "It's [possible](/post/possible/) [that](/post/that/) they'll [arrive](/post/arrive/) [by](/post/by/) [noon](/post/noon/), [but](/post/but/) it's [not](/post/not/) [definite](/post/definite/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [solution](/post/solution/) is [possibly](/post/possibly/) [better](/post/better/) [than](/post/than/) [we](/post/we/) initially [thought](/post/thought/)."
+- **[Sentence](/post/sentence/) [with](/post/with/) [Adverb](/post/adverb/)**: "I [might](/post/might/) [be](/post/be/) [able](/post/able/) [to](/post/to/) [come](/post/come/) [to](/post/to/) [the](/post/the/) [meeting](/post/meeting/), [possibly](/post/possibly/)."
 
 ## Synonyms
-- [Maybe](/en/post/maybe/)
-- [Perhaps](/en/post/perhaps/)
+- [Maybe](/post/maybe/)
+- [Perhaps](/post/perhaps/)
 - Potentially
 - Uncertainly
-- [Probable](/en/post/probable/) ([with](/en/post/with/) [a](/en/post/a/) [slightly](/en/post/slightly/) stronger connotation [of](/en/post/of/) likelihood)
+- [Probable](/post/probable/) ([with](/post/with/) [a](/post/a/) [slightly](/post/slightly/) stronger connotation [of](/post/of/) likelihood)
 
 ## Antonyms
-- [Definitely](/en/post/definitely/)
-- [Absolutely](/en/post/absolutely/)
-- [Certain](/en/post/certain/)
-- [Impossible](/en/post/impossible/)
-- [Unlikely](/en/post/unlikely/)
+- [Definitely](/post/definitely/)
+- [Absolutely](/post/absolutely/)
+- [Certain](/post/certain/)
+- [Impossible](/post/impossible/)
+- [Unlikely](/post/unlikely/)

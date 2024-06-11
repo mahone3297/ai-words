@@ -7,33 +7,33 @@ description = '[feil] vi.失败；失灵；不能'
 keywords = ['ai words', 'fail']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /feɪl/
 
 ## Definitions
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [be](/en/post/be/) unsuccessful [in](/en/post/in/) achieving [a](/en/post/a/) desired [outcome](/en/post/outcome/) [or](/en/post/or/) intended [goal](/en/post/goal/); [to](/en/post/to/) [not](/en/post/not/) [succeed](/en/post/succeed/). [For](/en/post/for/) [example](/en/post/example/): "[Despite](/en/post/despite/) [his](/en/post/his/) [best](/en/post/best/) efforts, [he](/en/post/he/) failed [the](/en/post/the/) [exam](/en/post/exam/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [lack](/en/post/lack/) [something](/en/post/something/) [necessary](/en/post/necessary/) [or](/en/post/or/) [desirable](/en/post/desirable/); [to](/en/post/to/) [be](/en/post/be/) [insufficient](/en/post/insufficient/). [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [bridge](/en/post/bridge/) failed [to](/en/post/to/) [meet](/en/post/meet/) [modern](/en/post/modern/) [safety](/en/post/safety/) standards."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [cease](/en/post/cease/) functioning [or](/en/post/or/) [to](/en/post/to/) [stop](/en/post/stop/) working [properly](/en/post/properly/). [Example](/en/post/example/): "[The](/en/post/the/) [engine](/en/post/engine/) failed [on](/en/post/on/) [the](/en/post/the/) [way](/en/post/way/) [home](/en/post/home/)."
-- **[Noun](/en/post/noun/) (n)**: An [instance](/en/post/instance/) [of](/en/post/of/) failing [or](/en/post/or/) [not](/en/post/not/) achieving [success](/en/post/success/). [Example](/en/post/example/): "[Her](/en/post/her/) repeated failures [in](/en/post/in/) math [class](/en/post/class/) made [her](/en/post/her/) [consider](/en/post/consider/) switching majors."
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/) [of](/en/post/of/) [being](/en/post/being/) inadequate [or](/en/post/or/) [insufficient](/en/post/insufficient/). [Example](/en/post/example/): "[There](/en/post/there/) was [a](/en/post/a/) [failure](/en/post/failure/) [of](/en/post/of/) [communication](/en/post/communication/) [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) departments."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [be](/post/be/) unsuccessful [in](/post/in/) achieving [a](/post/a/) desired [outcome](/post/outcome/) [or](/post/or/) intended [goal](/post/goal/); [to](/post/to/) [not](/post/not/) [succeed](/post/succeed/). [For](/post/for/) [example](/post/example/): "[Despite](/post/despite/) [his](/post/his/) [best](/post/best/) efforts, [he](/post/he/) failed [the](/post/the/) [exam](/post/exam/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [lack](/post/lack/) [something](/post/something/) [necessary](/post/necessary/) [or](/post/or/) [desirable](/post/desirable/); [to](/post/to/) [be](/post/be/) [insufficient](/post/insufficient/). [Example](/post/example/): "[The](/post/the/) [old](/post/old/) [bridge](/post/bridge/) failed [to](/post/to/) [meet](/post/meet/) [modern](/post/modern/) [safety](/post/safety/) standards."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [cease](/post/cease/) functioning [or](/post/or/) [to](/post/to/) [stop](/post/stop/) working [properly](/post/properly/). [Example](/post/example/): "[The](/post/the/) [engine](/post/engine/) failed [on](/post/on/) [the](/post/the/) [way](/post/way/) [home](/post/home/)."
+- **[Noun](/post/noun/) (n)**: An [instance](/post/instance/) [of](/post/of/) failing [or](/post/or/) [not](/post/not/) achieving [success](/post/success/). [Example](/post/example/): "[Her](/post/her/) repeated failures [in](/post/in/) math [class](/post/class/) made [her](/post/her/) [consider](/post/consider/) switching majors."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [state](/post/state/) [or](/post/or/) [condition](/post/condition/) [of](/post/of/) [being](/post/being/) inadequate [or](/post/or/) [insufficient](/post/insufficient/). [Example](/post/example/): "[There](/post/there/) was [a](/post/a/) [failure](/post/failure/) [of](/post/of/) [communication](/post/communication/) [between](/post/between/) [the](/post/the/) [two](/post/two/) departments."
 
 ## Phrases
-- "[To](/en/post/to/) [fail](/en/post/fail/) miserably": [To](/en/post/to/) [fail](/en/post/fail/) [completely](/en/post/completely/) [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) [very](/en/post/very/) [obvious](/en/post/obvious/) [and](/en/post/and/) embarrassing [way](/en/post/way/).
-- "Fail-safe": [A](/en/post/a/) mechanism designed [to](/en/post/to/) [prevent](/en/post/prevent/) [failure](/en/post/failure/) [or](/en/post/or/) [ensure](/en/post/ensure/) [safe](/en/post/safe/) [operation](/en/post/operation/) [even](/en/post/even/) [if](/en/post/if/) [other](/en/post/other/) systems [fail](/en/post/fail/).
-- "[Without](/en/post/without/) [fail](/en/post/fail/)": [Always](/en/post/always/); invariably; [to](/en/post/to/) [be](/en/post/be/) [certain](/en/post/certain/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/).
-- "[Failure](/en/post/failure/) is [not](/en/post/not/) an [option](/en/post/option/)": [A](/en/post/a/) [popular](/en/post/popular/) [expression](/en/post/expression/) suggesting [that](/en/post/that/) [success](/en/post/success/) is mandatory, [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [determination](/en/post/determination/).
+- "[To](/post/to/) [fail](/post/fail/) miserably": [To](/post/to/) [fail](/post/fail/) [completely](/post/completely/) [or](/post/or/) [in](/post/in/) [a](/post/a/) [very](/post/very/) [obvious](/post/obvious/) [and](/post/and/) embarrassing [way](/post/way/).
+- "Fail-safe": [A](/post/a/) mechanism designed [to](/post/to/) [prevent](/post/prevent/) [failure](/post/failure/) [or](/post/or/) [ensure](/post/ensure/) [safe](/post/safe/) [operation](/post/operation/) [even](/post/even/) [if](/post/if/) [other](/post/other/) systems [fail](/post/fail/).
+- "[Without](/post/without/) [fail](/post/fail/)": [Always](/post/always/); invariably; [to](/post/to/) [be](/post/be/) [certain](/post/certain/) [to](/post/to/) [do](/post/do/) [something](/post/something/).
+- "[Failure](/post/failure/) is [not](/post/not/) an [option](/post/option/)": [A](/post/a/) [popular](/post/popular/) [expression](/post/expression/) suggesting [that](/post/that/) [success](/post/success/) is mandatory, [often](/post/often/) [used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [determination](/post/determination/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[If](/en/post/if/) [the](/en/post/the/) [business](/en/post/business/) doesn't [increase](/en/post/increase/) [its](/en/post/its/) sales, [it](/en/post/it/) [will](/en/post/will/) [fail](/en/post/fail/) [within](/en/post/within/) [a](/en/post/a/) [year](/en/post/year/)."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [experience](/en/post/experience/) [with](/en/post/with/) [past](/en/post/past/) failures motivated [him](/en/post/him/) [to](/en/post/to/) [work](/en/post/work/) harder [on](/en/post/on/) [his](/en/post/his/) [next](/en/post/next/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[If](/post/if/) [the](/post/the/) [business](/post/business/) doesn't [increase](/post/increase/) [its](/post/its/) sales, [it](/post/it/) [will](/post/will/) [fail](/post/fail/) [within](/post/within/) [a](/post/a/) [year](/post/year/)."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [experience](/post/experience/) [with](/post/with/) [past](/post/past/) failures motivated [him](/post/him/) [to](/post/to/) [work](/post/work/) harder [on](/post/on/) [his](/post/his/) [next](/post/next/) [project](/post/project/)."
 
 ## Synonyms
 - Misfire
 - Flunk
-- [Fall](/en/post/fall/) [short](/en/post/short/)
-- [Come](/en/post/come/) [up](/en/post/up/) [short](/en/post/short/)
-- [Lose](/en/post/lose/) [out](/en/post/out/)
-- [Miss](/en/post/miss/) [the](/en/post/the/) [mark](/en/post/mark/)
-- [Be](/en/post/be/) unsuccessful
-- [Break](/en/post/break/) [down](/en/post/down/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) machinery)
-- [Collapse](/en/post/collapse/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) systems)
+- [Fall](/post/fall/) [short](/post/short/)
+- [Come](/post/come/) [up](/post/up/) [short](/post/short/)
+- [Lose](/post/lose/) [out](/post/out/)
+- [Miss](/post/miss/) [the](/post/the/) [mark](/post/mark/)
+- [Be](/post/be/) unsuccessful
+- [Break](/post/break/) [down](/post/down/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) machinery)
+- [Collapse](/post/collapse/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) systems)

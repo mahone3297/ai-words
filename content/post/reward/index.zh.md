@@ -11,19 +11,19 @@ keywords = ['ai words', 'reward']
 /rɪˈwɔːrd/
 
 ## 释义
-- **名词**: 因某人的行为或服务而给予的报酬或奖赏。例如: "[The](/post/the/) [company](/post/company/) offers [a](/post/a/) [generous](/post/generous/) [reward](/post/reward/) [for](/post/for/) [good](/post/good/) [performance](/post/performance/)."
-- **动词**: 给予报酬或奖赏。例如: "[They](/post/they/) rewarded [him](/post/him/) [with](/post/with/) [a](/post/a/) promotion [for](/post/for/) [his](/post/his/) [hard](/post/hard/) [work](/post/work/)."
+- **名词**: 因某人的行为或服务而给予的报酬或奖赏。例如: "[The](/zh/post/the/) [company](/zh/post/company/) offers [a](/zh/post/a/) [generous](/zh/post/generous/) [reward](/zh/post/reward/) [for](/zh/post/for/) [good](/zh/post/good/) [performance](/zh/post/performance/)."
+- **动词**: 给予报酬或奖赏。例如: "[They](/zh/post/they/) rewarded [him](/zh/post/him/) [with](/zh/post/with/) [a](/zh/post/a/) promotion [for](/zh/post/for/) [his](/zh/post/his/) [hard](/zh/post/hard/) [work](/zh/post/work/)."
 
 ## 短语
-- "[Reward](/post/reward/) [system](/post/system/)" 指一种鼓励或激励行为的机制。
-- "[Performance](/post/performance/) [reward](/post/reward/)" 是对表现优秀的员工的奖励。
+- "[Reward](/zh/post/reward/) [system](/zh/post/system/)" 指一种鼓励或激励行为的机制。
+- "[Performance](/zh/post/performance/) [reward](/zh/post/reward/)" 是对表现优秀的员工的奖励。
 
 ## 例句
-- 名词: "[The](/post/the/) [police](/post/police/) are offering [a](/post/a/) [cash](/post/cash/) [reward](/post/reward/) [for](/post/for/) [information](/post/information/) [leading](/post/leading/) [to](/post/to/) [the](/post/the/) suspect's [arrest](/post/arrest/)."
-- 动词: "[The](/post/the/) [teacher](/post/teacher/) rewarded [the](/post/the/) students [with](/post/with/) [extra](/post/extra/) [credit](/post/credit/) [for](/post/for/) [their](/post/their/) [outstanding](/post/outstanding/) [effort](/post/effort/)."
+- 名词: "[The](/zh/post/the/) [police](/zh/post/police/) are offering [a](/zh/post/a/) [cash](/zh/post/cash/) [reward](/zh/post/reward/) [for](/zh/post/for/) [information](/zh/post/information/) [leading](/zh/post/leading/) [to](/zh/post/to/) [the](/zh/post/the/) suspect's [arrest](/zh/post/arrest/)."
+- 动词: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) rewarded [the](/zh/post/the/) students [with](/zh/post/with/) [extra](/zh/post/extra/) [credit](/zh/post/credit/) [for](/zh/post/for/) [their](/zh/post/their/) [outstanding](/zh/post/outstanding/) [effort](/zh/post/effort/)."
 
 ## 同义词
-- [Prize](/post/prize/)
+- [Prize](/zh/post/prize/)
 - Incentive
 - Bonus
 - Compensation

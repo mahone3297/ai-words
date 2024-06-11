@@ -7,43 +7,43 @@ description = '[ˈæltitjuːd] n.高，高度；高处'
 keywords = ['ai words', 'altitude']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæltɪtjuːd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Altitude](/en/post/altitude/)**: [The](/en/post/the/) [height](/en/post/height/) [above](/en/post/above/) [sea](/en/post/sea/) [level](/en/post/level/) [or](/en/post/or/) [mean](/en/post/mean/) [sea](/en/post/sea/) [level](/en/post/level/), typically measured [in](/en/post/in/) meters [or](/en/post/or/) feet.
-- **[Climb](/en/post/climb/) [altitude](/en/post/altitude/)**: [The](/en/post/the/) [vertical](/en/post/vertical/) [distance](/en/post/distance/) ascended [during](/en/post/during/) [a](/en/post/a/) [flight](/en/post/flight/) [or](/en/post/or/) ascent.
-- **[Altitude](/en/post/altitude/) [sickness](/en/post/sickness/)**: [A](/en/post/a/) [condition](/en/post/condition/) experienced [when](/en/post/when/) ascending [to](/en/post/to/) [high](/en/post/high/) altitudes, causing symptoms [like](/en/post/like/) dizziness [and](/en/post/and/) shortness [of](/en/post/of/) [breath](/en/post/breath/).
+### [Noun](/post/noun/)
+- **[Altitude](/post/altitude/)**: [The](/post/the/) [height](/post/height/) [above](/post/above/) [sea](/post/sea/) [level](/post/level/) [or](/post/or/) [mean](/post/mean/) [sea](/post/sea/) [level](/post/level/), typically measured [in](/post/in/) meters [or](/post/or/) feet.
+- **[Climb](/post/climb/) [altitude](/post/altitude/)**: [The](/post/the/) [vertical](/post/vertical/) [distance](/post/distance/) ascended [during](/post/during/) [a](/post/a/) [flight](/post/flight/) [or](/post/or/) ascent.
+- **[Altitude](/post/altitude/) [sickness](/post/sickness/)**: [A](/post/a/) [condition](/post/condition/) experienced [when](/post/when/) ascending [to](/post/to/) [high](/post/high/) altitudes, causing symptoms [like](/post/like/) dizziness [and](/post/and/) shortness [of](/post/of/) [breath](/post/breath/).
 
-### [Verb](/en/post/verb/)
-- **Ascend [to](/en/post/to/) [altitude](/en/post/altitude/)**: [To](/en/post/to/) [climb](/en/post/climb/) [to](/en/post/to/) [a](/en/post/a/) higher elevation [or](/en/post/or/) [altitude](/en/post/altitude/).
-- **[Maintain](/en/post/maintain/) [altitude](/en/post/altitude/)**: [To](/en/post/to/) [keep](/en/post/keep/) [a](/en/post/a/) [steady](/en/post/steady/) [height](/en/post/height/) [while](/en/post/while/) flying [or](/en/post/or/) traveling.
+### [Verb](/post/verb/)
+- **Ascend [to](/post/to/) [altitude](/post/altitude/)**: [To](/post/to/) [climb](/post/climb/) [to](/post/to/) [a](/post/a/) higher elevation [or](/post/or/) [altitude](/post/altitude/).
+- **[Maintain](/post/maintain/) [altitude](/post/altitude/)**: [To](/post/to/) [keep](/post/keep/) [a](/post/a/) [steady](/post/steady/) [height](/post/height/) [while](/post/while/) flying [or](/post/or/) traveling.
 
-### [Adjective](/en/post/adjective/)
-- **Altitudinal**: Relating [to](/en/post/to/) [altitude](/en/post/altitude/) [or](/en/post/or/) [height](/en/post/height/).
-- **[High](/en/post/high/) [altitude](/en/post/altitude/)**: Located [at](/en/post/at/) [a](/en/post/a/) [considerable](/en/post/considerable/) [distance](/en/post/distance/) [from](/en/post/from/) [sea](/en/post/sea/) [level](/en/post/level/).
+### [Adjective](/post/adjective/)
+- **Altitudinal**: Relating [to](/post/to/) [altitude](/post/altitude/) [or](/post/or/) [height](/post/height/).
+- **[High](/post/high/) [altitude](/post/altitude/)**: Located [at](/post/at/) [a](/post/a/) [considerable](/post/considerable/) [distance](/post/distance/) [from](/post/from/) [sea](/post/sea/) [level](/post/level/).
 
-### [Adverb](/en/post/adverb/)
-- **[At](/en/post/at/) [altitude](/en/post/altitude/)**: [Above](/en/post/above/) [a](/en/post/a/) [certain](/en/post/certain/) [height](/en/post/height/), [often](/en/post/often/) [in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [aviation](/en/post/aviation/).
+### [Adverb](/post/adverb/)
+- **[At](/post/at/) [altitude](/post/altitude/)**: [Above](/post/above/) [a](/post/a/) [certain](/post/certain/) [height](/post/height/), [often](/post/often/) [in](/post/in/) [reference](/post/reference/) [to](/post/to/) [aviation](/post/aviation/).
 
 ## Phrases
-- "[Fly](/en/post/fly/) [at](/en/post/at/) [a](/en/post/a/) [high](/en/post/high/) [altitude](/en/post/altitude/)" [to](/en/post/to/) [avoid](/en/post/avoid/) turbulence.
-- "[The](/en/post/the/) summit's [altitude](/en/post/altitude/) is 20,000 feet."
-- "[Altitude](/en/post/altitude/) [training](/en/post/training/) [for](/en/post/for/) athletes."
+- "[Fly](/post/fly/) [at](/post/at/) [a](/post/a/) [high](/post/high/) [altitude](/post/altitude/)" [to](/post/to/) [avoid](/post/avoid/) turbulence.
+- "[The](/post/the/) summit's [altitude](/post/altitude/) is 20,000 feet."
+- "[Altitude](/post/altitude/) [training](/post/training/) [for](/post/for/) athletes."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [plane](/en/post/plane/) leveled [off](/en/post/off/) [at](/en/post/at/) [its](/en/post/its/) cruising [altitude](/en/post/altitude/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) ascended [to](/en/post/to/) [a](/en/post/a/) higher [altitude](/en/post/altitude/) [to](/en/post/to/) [get](/en/post/get/) [a](/en/post/a/) [better](/en/post/better/) [view](/en/post/view/) [of](/en/post/of/) [the](/en/post/the/) landscape."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [weather](/en/post/weather/) improves [at](/en/post/at/) [high](/en/post/high/) altitudes."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [pilot](/en/post/pilot/) descended [to](/en/post/to/) [lower](/en/post/lower/) altitudes [before](/en/post/before/) [landing](/en/post/landing/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [plane](/post/plane/) leveled [off](/post/off/) [at](/post/at/) [its](/post/its/) cruising [altitude](/post/altitude/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) ascended [to](/post/to/) [a](/post/a/) higher [altitude](/post/altitude/) [to](/post/to/) [get](/post/get/) [a](/post/a/) [better](/post/better/) [view](/post/view/) [of](/post/of/) [the](/post/the/) landscape."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [weather](/post/weather/) improves [at](/post/at/) [high](/post/high/) altitudes."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [pilot](/post/pilot/) descended [to](/post/to/) [lower](/post/lower/) altitudes [before](/post/before/) [landing](/post/landing/)."
 
 ## Synonyms
 - Elevation
-- [Height](/en/post/height/)
-- [Height](/en/post/height/) [above](/en/post/above/) [sea](/en/post/sea/) [level](/en/post/level/)
-- [Altitude](/en/post/altitude/) [level](/en/post/level/)
-- [Vertical](/en/post/vertical/) [distance](/en/post/distance/)
-- Climactic [level](/en/post/level/)
-- Stratospheric [altitude](/en/post/altitude/)
-- [Atmospheric](/en/post/atmospheric/) [height](/en/post/height/)
+- [Height](/post/height/)
+- [Height](/post/height/) [above](/post/above/) [sea](/post/sea/) [level](/post/level/)
+- [Altitude](/post/altitude/) [level](/post/level/)
+- [Vertical](/post/vertical/) [distance](/post/distance/)
+- Climactic [level](/post/level/)
+- Stratospheric [altitude](/post/altitude/)
+- [Atmospheric](/post/atmospheric/) [height](/post/height/)

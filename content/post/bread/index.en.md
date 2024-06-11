@@ -7,38 +7,38 @@ description = '[bred] n.面包；食物，粮食'
 keywords = ['ai words', 'bread']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bred/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) baked [food](/en/post/food/) made [from](/en/post/from/) [flour](/en/post/flour/), [water](/en/post/water/), yeast, [and](/en/post/and/) [sometimes](/en/post/sometimes/) [other](/en/post/other/) ingredients, typically having [a](/en/post/a/) [soft](/en/post/soft/) [or](/en/post/or/) crusty texture [and](/en/post/and/) served [as](/en/post/as/) [a](/en/post/a/) staple [food](/en/post/food/). 2. [countable] [A](/en/post/a/) [slice](/en/post/slice/) [or](/en/post/or/) [loaf](/en/post/loaf/) [of](/en/post/of/) [bread](/en/post/bread/). 3. [uncountable] [The](/en/post/the/) sustenance [provided](/en/post/provided/) [by](/en/post/by/) [bread](/en/post/bread/), [often](/en/post/often/) metaphorically referring [to](/en/post/to/) sustenance [or](/en/post/or/) [basic](/en/post/basic/) needs. 4. [countable] [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [food](/en/post/food/), [such](/en/post/such/) [as](/en/post/as/) wholemeal [or](/en/post/or/) [white](/en/post/white/) [bread](/en/post/bread/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) baked [food](/post/food/) made [from](/post/from/) [flour](/post/flour/), [water](/post/water/), yeast, [and](/post/and/) [sometimes](/post/sometimes/) [other](/post/other/) ingredients, typically having [a](/post/a/) [soft](/post/soft/) [or](/post/or/) crusty texture [and](/post/and/) served [as](/post/as/) [a](/post/a/) staple [food](/post/food/). 2. [countable] [A](/post/a/) [slice](/post/slice/) [or](/post/or/) [loaf](/post/loaf/) [of](/post/of/) [bread](/post/bread/). 3. [uncountable] [The](/post/the/) sustenance [provided](/post/provided/) [by](/post/by/) [bread](/post/bread/), [often](/post/often/) metaphorically referring [to](/post/to/) sustenance [or](/post/or/) [basic](/post/basic/) needs. 4. [countable] [A](/post/a/) [type](/post/type/) [of](/post/of/) [food](/post/food/), [such](/post/such/) [as](/post/as/) wholemeal [or](/post/or/) [white](/post/white/) [bread](/post/bread/).
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [eat](/en/post/eat/) [bread](/en/post/bread/), [especially](/en/post/especially/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [meal](/en/post/meal/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [eat](/post/eat/) [bread](/post/bread/), [especially](/post/especially/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [meal](/post/meal/).
 
 ## Phrases
-- "[Make](/en/post/make/) [toast](/en/post/toast/) [with](/en/post/with/) [bread](/en/post/bread/)" [or](/en/post/or/) "[Eat](/en/post/eat/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [bread](/en/post/bread/)"
-- "[Breakfast](/en/post/breakfast/) [bread](/en/post/bread/)" (referring [to](/en/post/to/) [specific](/en/post/specific/) types eaten [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/))
-- "Breadwinner" ([a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) earns [the](/en/post/the/) family's [income](/en/post/income/))
-- "Breadline" ([a](/en/post/a/) [line](/en/post/line/) [of](/en/post/of/) [people](/en/post/people/) waiting [for](/en/post/for/) [free](/en/post/free/) [food](/en/post/food/), [especially](/en/post/especially/) [during](/en/post/during/) times [of](/en/post/of/) [poverty](/en/post/poverty/))
+- "[Make](/post/make/) [toast](/post/toast/) [with](/post/with/) [bread](/post/bread/)" [or](/post/or/) "[Eat](/post/eat/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [bread](/post/bread/)"
+- "[Breakfast](/post/breakfast/) [bread](/post/bread/)" (referring [to](/post/to/) [specific](/post/specific/) types eaten [in](/post/in/) [the](/post/the/) [morning](/post/morning/))
+- "Breadwinner" ([a](/post/a/) [person](/post/person/) [who](/post/who/) earns [the](/post/the/) family's [income](/post/income/))
+- "Breadline" ([a](/post/a/) [line](/post/line/) [of](/post/of/) [people](/post/people/) waiting [for](/post/for/) [free](/post/free/) [food](/post/food/), [especially](/post/especially/) [during](/post/during/) times [of](/post/of/) [poverty](/post/poverty/))
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I sliced [a](/en/post/a/) [loaf](/en/post/loaf/) [of](/en/post/of/) [fresh](/en/post/fresh/) [bread](/en/post/bread/) [for](/en/post/for/) sandwiches."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) buttered [a](/en/post/a/) [slice](/en/post/slice/) [of](/en/post/of/) [bread](/en/post/bread/) [and](/en/post/and/) [spread](/en/post/spread/) [it](/en/post/it/) [on](/en/post/on/) [her](/en/post/her/) [toast](/en/post/toast/)."
-- **Metaphorical [usage](/en/post/usage/)**: "[The](/en/post/the/) government's [promise](/en/post/promise/) [to](/en/post/to/) tackle [poverty](/en/post/poverty/) is [just](/en/post/just/) [bread](/en/post/bread/) [and](/en/post/and/) circuses [for](/en/post/for/) [the](/en/post/the/) masses."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I sliced [a](/post/a/) [loaf](/post/loaf/) [of](/post/of/) [fresh](/post/fresh/) [bread](/post/bread/) [for](/post/for/) sandwiches."
+- **[Verb](/post/verb/)**: "[She](/post/she/) buttered [a](/post/a/) [slice](/post/slice/) [of](/post/of/) [bread](/post/bread/) [and](/post/and/) [spread](/post/spread/) [it](/post/it/) [on](/post/on/) [her](/post/her/) [toast](/post/toast/)."
+- **Metaphorical [usage](/post/usage/)**: "[The](/post/the/) government's [promise](/post/promise/) [to](/post/to/) tackle [poverty](/post/poverty/) is [just](/post/just/) [bread](/post/bread/) [and](/post/and/) circuses [for](/post/for/) [the](/post/the/) masses."
 
 ## Synonyms
-- [Loaf](/en/post/loaf/)
-- Sliced [bread](/en/post/bread/)
-- [Crust](/en/post/crust/)
-- [Roll](/en/post/roll/)
+- [Loaf](/post/loaf/)
+- Sliced [bread](/post/bread/)
+- [Crust](/post/crust/)
+- [Roll](/post/roll/)
 - Bun
-- [Toast](/en/post/toast/)
+- [Toast](/post/toast/)
 - Cornbread
-- Flatbread ([for](/en/post/for/) unleavened varieties)
+- Flatbread ([for](/post/for/) unleavened varieties)
 - Staple
 - Ration
 
 ## Antonyms
-- [Cake](/en/post/cake/) ([sweet](/en/post/sweet/) baked [item](/en/post/item/), [not](/en/post/not/) [a](/en/post/a/) staple)
-- Pastry ([usually](/en/post/usually/) [sweet](/en/post/sweet/), [not](/en/post/not/) [plain](/en/post/plain/) [bread](/en/post/bread/))
-- Chips (crispy snacks, [not](/en/post/not/) [bread](/en/post/bread/))
+- [Cake](/post/cake/) ([sweet](/post/sweet/) baked [item](/post/item/), [not](/post/not/) [a](/post/a/) staple)
+- Pastry ([usually](/post/usually/) [sweet](/post/sweet/), [not](/post/not/) [plain](/post/plain/) [bread](/post/bread/))
+- Chips (crispy snacks, [not](/post/not/) [bread](/post/bread/))

@@ -11,20 +11,20 @@ keywords = ['ai words', 'remedy']
 /rɪˈmɛdi/
 
 ## 释义
-- **名词**: 解决问题的方法；补救措施；药物。例如: "[There](/post/there/) is [a](/post/a/) [simple](/post/simple/) [remedy](/post/remedy/) [for](/post/for/) [this](/post/this/) [problem](/post/problem/)."
-- **动词**: 治疗；纠正。例如: "[The](/post/the/) [doctor](/post/doctor/) prescribed [a](/post/a/) [remedy](/post/remedy/) [for](/post/for/) [his](/post/his/) [cold](/post/cold/)."
+- **名词**: 解决问题的方法；补救措施；药物。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [simple](/zh/post/simple/) [remedy](/zh/post/remedy/) [for](/zh/post/for/) [this](/zh/post/this/) [problem](/zh/post/problem/)."
+- **动词**: 治疗；纠正。例如: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) prescribed [a](/zh/post/a/) [remedy](/zh/post/remedy/) [for](/zh/post/for/) [his](/zh/post/his/) [cold](/zh/post/cold/)."
 
 ## 短语
-- "[remedy](/post/remedy/) [a](/post/a/) [situation](/post/situation/)" 意味着改善或纠正一种状况。
-- "[home](/post/home/) remedies" 指家庭常用的自然疗法或非处方治疗方法。
+- "[remedy](/zh/post/remedy/) [a](/zh/post/a/) [situation](/zh/post/situation/)" 意味着改善或纠正一种状况。
+- "[home](/zh/post/home/) remedies" 指家庭常用的自然疗法或非处方治疗方法。
 
 ## 例句
-- 名词: "[Her](/post/her/) [grandmother](/post/grandmother/) had [a](/post/a/) [folk](/post/folk/) [remedy](/post/remedy/) [for](/post/for/) [every](/post/every/) ailment."
-- 动词: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) was intended [to](/post/to/) [remedy](/post/remedy/) [the](/post/the/) [economic](/post/economic/) downturn."
+- 名词: "[Her](/zh/post/her/) [grandmother](/zh/post/grandmother/) had [a](/zh/post/a/) [folk](/zh/post/folk/) [remedy](/zh/post/remedy/) [for](/zh/post/for/) [every](/zh/post/every/) ailment."
+- 动词: "[The](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/) was intended [to](/zh/post/to/) [remedy](/zh/post/remedy/) [the](/zh/post/the/) [economic](/zh/post/economic/) downturn."
 
 ## 同义词
-- [cure](/post/cure/)
-- [treatment](/post/treatment/)
-- [solution](/post/solution/)
-- [answer](/post/answer/)
+- [cure](/zh/post/cure/)
+- [treatment](/zh/post/treatment/)
+- [solution](/zh/post/solution/)
+- [answer](/zh/post/answer/)
 - palliative

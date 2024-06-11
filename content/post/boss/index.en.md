@@ -7,36 +7,36 @@ description = '[bɔs] n.老板，上司 vt.指挥'
 keywords = ['ai words', 'boss']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbɒs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [authority](/en/post/authority/) [and](/en/post/and/) supervises others [in](/en/post/in/) [a](/en/post/a/) workplace [or](/en/post/or/) [group](/en/post/group/)**: *[The](/en/post/the/) [boss](/en/post/boss/) is [responsible](/en/post/responsible/) [for](/en/post/for/) making [important](/en/post/important/) decisions.*
-- **[A](/en/post/a/) [leader](/en/post/leader/) [or](/en/post/or/) manager**: *[The](/en/post/the/) team's [boss](/en/post/boss/) delegated tasks [to](/en/post/to/) [each](/en/post/each/) [member](/en/post/member/).*
-- **[A](/en/post/a/) [term](/en/post/term/) [of](/en/post/of/) endearment [or](/en/post/or/) familiarity [for](/en/post/for/) one's [romantic](/en/post/romantic/) [partner](/en/post/partner/)**: *He's [the](/en/post/the/) [boss](/en/post/boss/) [of](/en/post/of/) [our](/en/post/our/) [little](/en/post/little/) [company](/en/post/company/), [but](/en/post/but/) [also](/en/post/also/) [my](/en/post/my/) [better](/en/post/better/) [half](/en/post/half/).*
+### [Noun](/post/noun/)
+- **[A](/post/a/) [person](/post/person/) [who](/post/who/) has [authority](/post/authority/) [and](/post/and/) supervises others [in](/post/in/) [a](/post/a/) workplace [or](/post/or/) [group](/post/group/)**: *[The](/post/the/) [boss](/post/boss/) is [responsible](/post/responsible/) [for](/post/for/) making [important](/post/important/) decisions.*
+- **[A](/post/a/) [leader](/post/leader/) [or](/post/or/) manager**: *[The](/post/the/) team's [boss](/post/boss/) delegated tasks [to](/post/to/) [each](/post/each/) [member](/post/member/).*
+- **[A](/post/a/) [term](/post/term/) [of](/post/of/) endearment [or](/post/or/) familiarity [for](/post/for/) one's [romantic](/post/romantic/) [partner](/post/partner/)**: *He's [the](/post/the/) [boss](/post/boss/) [of](/post/of/) [our](/post/our/) [little](/post/little/) [company](/post/company/), [but](/post/but/) [also](/post/also/) [my](/post/my/) [better](/post/better/) [half](/post/half/).*
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) supervise [or](/en/post/or/) [manage](/en/post/manage/)**: *[She](/en/post/she/) was promoted [to](/en/post/to/) [boss](/en/post/boss/) [the](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/).*
-- **[To](/en/post/to/) [direct](/en/post/direct/) [or](/en/post/or/) [command](/en/post/command/)**: *[The](/en/post/the/) [boss](/en/post/boss/) ordered [his](/en/post/his/) employees [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [report](/en/post/report/) [by](/en/post/by/) [the](/en/post/the/) deadline.*
-- **[To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) [a](/en/post/a/) [leader](/en/post/leader/) [or](/en/post/or/) [guide](/en/post/guide/)**: *[The](/en/post/the/) [coach](/en/post/coach/) is known [for](/en/post/for/) bossing [the](/en/post/the/) [team](/en/post/team/) [around](/en/post/around/) [on](/en/post/on/) [the](/en/post/the/) [field](/en/post/field/).*
+### [Verb](/post/verb/)
+- **[To](/post/to/) supervise [or](/post/or/) [manage](/post/manage/)**: *[She](/post/she/) was promoted [to](/post/to/) [boss](/post/boss/) [the](/post/the/) [new](/post/new/) [project](/post/project/).*
+- **[To](/post/to/) [direct](/post/direct/) [or](/post/or/) [command](/post/command/)**: *[The](/post/the/) [boss](/post/boss/) ordered [his](/post/his/) employees [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [report](/post/report/) [by](/post/by/) [the](/post/the/) deadline.*
+- **[To](/post/to/) [act](/post/act/) [as](/post/as/) [a](/post/a/) [leader](/post/leader/) [or](/post/or/) [guide](/post/guide/)**: *[The](/post/the/) [coach](/post/coach/) is known [for](/post/for/) bossing [the](/post/the/) [team](/post/team/) [around](/post/around/) [on](/post/on/) [the](/post/the/) [field](/post/field/).*
 
 ## Phrases
-- "[Boss](/en/post/boss/) [up](/en/post/up/)" [or](/en/post/or/) "[boss](/en/post/boss/) [someone](/en/post/someone/) [around](/en/post/around/)" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) orders [or](/en/post/or/) [lead](/en/post/lead/) [someone](/en/post/someone/).
-- "[Under](/en/post/under/) [the](/en/post/the/) boss's [watch](/en/post/watch/)" signifies [being](/en/post/being/) supervised [or](/en/post/or/) managed [by](/en/post/by/) [someone](/en/post/someone/) [in](/en/post/in/) [authority](/en/post/authority/).
-- "Who's [your](/en/post/your/) [boss](/en/post/boss/)?" is [a](/en/post/a/) [question](/en/post/question/) asking [about](/en/post/about/) someone's [superior](/en/post/superior/) [or](/en/post/or/) [employer](/en/post/employer/).
+- "[Boss](/post/boss/) [up](/post/up/)" [or](/post/or/) "[boss](/post/boss/) [someone](/post/someone/) [around](/post/around/)" [means](/post/means/) [to](/post/to/) [give](/post/give/) orders [or](/post/or/) [lead](/post/lead/) [someone](/post/someone/).
+- "[Under](/post/under/) [the](/post/the/) boss's [watch](/post/watch/)" signifies [being](/post/being/) supervised [or](/post/or/) managed [by](/post/by/) [someone](/post/someone/) [in](/post/in/) [authority](/post/authority/).
+- "Who's [your](/post/your/) [boss](/post/boss/)?" is [a](/post/a/) [question](/post/question/) asking [about](/post/about/) someone's [superior](/post/superior/) [or](/post/or/) [employer](/post/employer/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: *[The](/en/post/the/) [boss](/en/post/boss/) called [a](/en/post/a/) [meeting](/en/post/meeting/) [to](/en/post/to/) [discuss](/en/post/discuss/) [the](/en/post/the/) upcoming [project](/en/post/project/).*
-- **[Verb](/en/post/verb/)**: *It's [not](/en/post/not/) uncommon [for](/en/post/for/) [the](/en/post/the/) [boss](/en/post/boss/) [to](/en/post/to/) [check](/en/post/check/) [in](/en/post/in/) [with](/en/post/with/) employees [during](/en/post/during/) [the](/en/post/the/) [day](/en/post/day/).*
-- **Interjection**: *Hey, [boss](/en/post/boss/)! [Can](/en/post/can/) [you](/en/post/you/) [spare](/en/post/spare/) [a](/en/post/a/) [moment](/en/post/moment/)?*
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: *[The](/post/the/) [boss](/post/boss/) called [a](/post/a/) [meeting](/post/meeting/) [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) upcoming [project](/post/project/).*
+- **[Verb](/post/verb/)**: *It's [not](/post/not/) uncommon [for](/post/for/) [the](/post/the/) [boss](/post/boss/) [to](/post/to/) [check](/post/check/) [in](/post/in/) [with](/post/with/) employees [during](/post/during/) [the](/post/the/) [day](/post/day/).*
+- **Interjection**: *Hey, [boss](/post/boss/)! [Can](/post/can/) [you](/post/you/) [spare](/post/spare/) [a](/post/a/) [moment](/post/moment/)?*
 
 ## Synonyms
 - Manager
 - Supervisor
-- [Director](/en/post/director/)
-- [Team](/en/post/team/) [leader](/en/post/leader/)
-- [Head](/en/post/head/)
-- [Chief](/en/post/chief/)
+- [Director](/post/director/)
+- [Team](/post/team/) [leader](/post/leader/)
+- [Head](/post/head/)
+- [Chief](/post/chief/)
 - Mastermind
-- Overlord (informal, [often](/en/post/often/) [humorous](/en/post/humorous/))
+- Overlord (informal, [often](/post/often/) [humorous](/post/humorous/))

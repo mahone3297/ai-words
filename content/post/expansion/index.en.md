@@ -7,34 +7,34 @@ description = '[iksˈpæn∫ən] n.扩大，扩充；扩张'
 keywords = ['ai words', 'expansion']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈspænʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) becoming larger [or](/en/post/or/) [more](/en/post/more/) [extensive](/en/post/extensive/); [increase](/en/post/increase/) [in](/en/post/in/) [size](/en/post/size/), [area](/en/post/area/), [volume](/en/post/volume/), [or](/en/post/or/) [scope](/en/post/scope/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) has undergone [rapid](/en/post/rapid/) [expansion](/en/post/expansion/) [over](/en/post/over/) [the](/en/post/the/) [last](/en/post/last/) [decade](/en/post/decade/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) expanded [or](/en/post/or/) [spread](/en/post/spread/) [out](/en/post/out/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) plans [to](/en/post/to/) [achieve](/en/post/achieve/) global [expansion](/en/post/expansion/) [within](/en/post/within/) [the](/en/post/the/) [next](/en/post/next/) [five](/en/post/five/) years."
-- **[Noun](/en/post/noun/)**: ([in](/en/post/in/) [business](/en/post/business/)) [The](/en/post/the/) [development](/en/post/development/) [of](/en/post/of/) [a](/en/post/a/) [company](/en/post/company/) [by](/en/post/by/) increasing [production](/en/post/production/), adding [new](/en/post/new/) products, [or](/en/post/or/) [opening](/en/post/opening/) [new](/en/post/new/) branches. [Example](/en/post/example/): "[They](/en/post/they/) achieved [market](/en/post/market/) dominance [through](/en/post/through/) strategic [expansion](/en/post/expansion/)."
-- **[Noun](/en/post/noun/)**: [In](/en/post/in/) [mathematics](/en/post/mathematics/), [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) expressing [a](/en/post/a/) [number](/en/post/number/) [or](/en/post/or/) [expression](/en/post/expression/) [as](/en/post/as/) [a](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) [product](/en/post/product/). [Example](/en/post/example/): "[The](/en/post/the/) [expansion](/en/post/expansion/) [of](/en/post/of/) (1+x)^2 is 1+2x+x^2."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [grow](/en/post/grow/) larger [or](/en/post/or/) [make](/en/post/make/) [something](/en/post/something/) larger. [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [expand](/en/post/expand/) [its](/en/post/its/) operations [into](/en/post/into/) Europe."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [express](/en/post/express/) [or](/en/post/or/) [develop](/en/post/develop/) an [idea](/en/post/idea/), [concept](/en/post/concept/), [or](/en/post/or/) [explanation](/en/post/explanation/) [in](/en/post/in/) greater [detail](/en/post/detail/) [or](/en/post/or/) [at](/en/post/at/) greater [length](/en/post/length/). [Example](/en/post/example/): "[She](/en/post/she/) expanded [on](/en/post/on/) [her](/en/post/her/) earlier remarks [during](/en/post/during/) [the](/en/post/the/) Q&[A](/en/post/a/) [session](/en/post/session/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [action](/post/action/) [of](/post/of/) becoming larger [or](/post/or/) [more](/post/more/) [extensive](/post/extensive/); [increase](/post/increase/) [in](/post/in/) [size](/post/size/), [area](/post/area/), [volume](/post/volume/), [or](/post/or/) [scope](/post/scope/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [city](/post/city/) has undergone [rapid](/post/rapid/) [expansion](/post/expansion/) [over](/post/over/) [the](/post/the/) [last](/post/last/) [decade](/post/decade/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) expanded [or](/post/or/) [spread](/post/spread/) [out](/post/out/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) plans [to](/post/to/) [achieve](/post/achieve/) global [expansion](/post/expansion/) [within](/post/within/) [the](/post/the/) [next](/post/next/) [five](/post/five/) years."
+- **[Noun](/post/noun/)**: ([in](/post/in/) [business](/post/business/)) [The](/post/the/) [development](/post/development/) [of](/post/of/) [a](/post/a/) [company](/post/company/) [by](/post/by/) increasing [production](/post/production/), adding [new](/post/new/) products, [or](/post/or/) [opening](/post/opening/) [new](/post/new/) branches. [Example](/post/example/): "[They](/post/they/) achieved [market](/post/market/) dominance [through](/post/through/) strategic [expansion](/post/expansion/)."
+- **[Noun](/post/noun/)**: [In](/post/in/) [mathematics](/post/mathematics/), [the](/post/the/) [process](/post/process/) [of](/post/of/) expressing [a](/post/a/) [number](/post/number/) [or](/post/or/) [expression](/post/expression/) [as](/post/as/) [a](/post/a/) [series](/post/series/) [or](/post/or/) [product](/post/product/). [Example](/post/example/): "[The](/post/the/) [expansion](/post/expansion/) [of](/post/of/) (1+x)^2 is 1+2x+x^2."
+- **[Verb](/post/verb/)**: [To](/post/to/) [grow](/post/grow/) larger [or](/post/or/) [make](/post/make/) [something](/post/something/) larger. [Example](/post/example/): "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [expand](/post/expand/) [its](/post/its/) operations [into](/post/into/) Europe."
+- **[Verb](/post/verb/)**: [To](/post/to/) [express](/post/express/) [or](/post/or/) [develop](/post/develop/) an [idea](/post/idea/), [concept](/post/concept/), [or](/post/or/) [explanation](/post/explanation/) [in](/post/in/) greater [detail](/post/detail/) [or](/post/or/) [at](/post/at/) greater [length](/post/length/). [Example](/post/example/): "[She](/post/she/) expanded [on](/post/on/) [her](/post/her/) earlier remarks [during](/post/during/) [the](/post/the/) Q&[A](/post/a/) [session](/post/session/)."
 
 ## Phrases
-- "[Business](/en/post/business/) [expansion](/en/post/expansion/)" refers [to](/en/post/to/) [the](/en/post/the/) [growth](/en/post/growth/) [of](/en/post/of/) [a](/en/post/a/) [business](/en/post/business/) [in](/en/post/in/) terms [of](/en/post/of/) [scale](/en/post/scale/), [size](/en/post/size/), [or](/en/post/or/) [range](/en/post/range/) [of](/en/post/of/) activities.
-- "Geographical [expansion](/en/post/expansion/)" refers [to](/en/post/to/) [the](/en/post/the/) spreading [of](/en/post/of/) [a](/en/post/a/) [company](/en/post/company/) [or](/en/post/or/) [influence](/en/post/influence/) [into](/en/post/into/) [new](/en/post/new/) territories.
-- "Conceptual [expansion](/en/post/expansion/)" refers [to](/en/post/to/) [the](/en/post/the/) broadening [or](/en/post/or/) deepening [of](/en/post/of/) an [idea](/en/post/idea/) [or](/en/post/or/) [understanding](/en/post/understanding/).
+- "[Business](/post/business/) [expansion](/post/expansion/)" refers [to](/post/to/) [the](/post/the/) [growth](/post/growth/) [of](/post/of/) [a](/post/a/) [business](/post/business/) [in](/post/in/) terms [of](/post/of/) [scale](/post/scale/), [size](/post/size/), [or](/post/or/) [range](/post/range/) [of](/post/of/) activities.
+- "Geographical [expansion](/post/expansion/)" refers [to](/post/to/) [the](/post/the/) spreading [of](/post/of/) [a](/post/a/) [company](/post/company/) [or](/post/or/) [influence](/post/influence/) [into](/post/into/) [new](/post/new/) territories.
+- "Conceptual [expansion](/post/expansion/)" refers [to](/post/to/) [the](/post/the/) broadening [or](/post/or/) deepening [of](/post/of/) an [idea](/post/idea/) [or](/post/or/) [understanding](/post/understanding/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [expansion](/en/post/expansion/) [of](/en/post/of/) [the](/en/post/the/) [universe](/en/post/universe/) has been accelerating [since](/en/post/since/) [the](/en/post/the/) [Big](/en/post/big/) [Bang](/en/post/bang/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) securing funding, [they](/en/post/they/) [immediately](/en/post/immediately/) began expanding [their](/en/post/their/) [product](/en/post/product/) [line](/en/post/line/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [expansion](/post/expansion/) [of](/post/of/) [the](/post/the/) [universe](/post/universe/) has been accelerating [since](/post/since/) [the](/post/the/) [Big](/post/big/) [Bang](/post/bang/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) securing funding, [they](/post/they/) [immediately](/post/immediately/) began expanding [their](/post/their/) [product](/post/product/) [line](/post/line/)."
 
 ## Synonyms
 - Enlargement
-- [Growth](/en/post/growth/)
-- [Extension](/en/post/extension/)
-- [Development](/en/post/development/)
-- [Spread](/en/post/spread/)
+- [Growth](/post/growth/)
+- [Extension](/post/extension/)
+- [Development](/post/development/)
+- [Spread](/post/spread/)
 - Unfolding
 - Broadening
 - Magnification
 - Ramification
-- [Increase](/en/post/increase/)
+- [Increase](/post/increase/)

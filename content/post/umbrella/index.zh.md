@@ -11,17 +11,17 @@ keywords = ['ai words', 'umbrella']
 /ʌmˈbrelə/
 
 ## 释义
-- **名词 (n)**: 一种有折叠柄的遮阳挡雨的用具，通常由布料制成，并固定在一根中心轴上。例如: "I forgot [my](/post/my/) [umbrella](/post/umbrella/) [on](/post/on/) [a](/post/a/) [rainy](/post/rainy/) [day](/post/day/)."
-- **动词 (v)**: 用伞遮蔽。例如: "[She](/post/she/) umbrellaed [her](/post/her/) children [from](/post/from/) [the](/post/the/) [rain](/post/rain/)."
+- **名词 (n)**: 一种有折叠柄的遮阳挡雨的用具，通常由布料制成，并固定在一根中心轴上。例如: "I forgot [my](/zh/post/my/) [umbrella](/zh/post/umbrella/) [on](/zh/post/on/) [a](/zh/post/a/) [rainy](/zh/post/rainy/) [day](/zh/post/day/)."
+- **动词 (v)**: 用伞遮蔽。例如: "[She](/zh/post/she/) umbrellaed [her](/zh/post/her/) children [from](/zh/post/from/) [the](/zh/post/the/) [rain](/zh/post/rain/)."
 
 ## 短语
-- "[Under](/post/under/) [the](/post/the/) [umbrella](/post/umbrella/)" 意为在保护或覆盖之下。
-- "[Umbrella](/post/umbrella/) [company](/post/company/)" 指提供法律或财务保护的公司结构。
-- "[Rain](/post/rain/) [umbrella](/post/umbrella/)" 特指防雨的伞。
+- "[Under](/zh/post/under/) [the](/zh/post/the/) [umbrella](/zh/post/umbrella/)" 意为在保护或覆盖之下。
+- "[Umbrella](/zh/post/umbrella/) [company](/zh/post/company/)" 指提供法律或财务保护的公司结构。
+- "[Rain](/zh/post/rain/) [umbrella](/zh/post/umbrella/)" 特指防雨的伞。
 
 ## 例句
-- 名词: "I [keep](/post/keep/) an [umbrella](/post/umbrella/) [in](/post/in/) [my](/post/my/) [car](/post/car/) [for](/post/for/) [unexpected](/post/unexpected/) showers."
-- 动词: "[The](/post/the/) [father](/post/father/) stood [by](/post/by/) [the](/post/the/) [door](/post/door/), umbrella-ing [his](/post/his/) [child](/post/child/) [as](/post/as/) [they](/post/they/) waited [for](/post/for/) [the](/post/the/) [bus](/post/bus/)."
+- 名词: "I [keep](/zh/post/keep/) an [umbrella](/zh/post/umbrella/) [in](/zh/post/in/) [my](/zh/post/my/) [car](/zh/post/car/) [for](/zh/post/for/) [unexpected](/zh/post/unexpected/) showers."
+- 动词: "[The](/zh/post/the/) [father](/zh/post/father/) stood [by](/zh/post/by/) [the](/zh/post/the/) [door](/zh/post/door/), umbrella-ing [his](/zh/post/his/) [child](/zh/post/child/) [as](/zh/post/as/) [they](/zh/post/they/) waited [for](/zh/post/for/) [the](/zh/post/the/) [bus](/zh/post/bus/)."
 
 ## 同义词
 - Parasol (主要用于遮阳)

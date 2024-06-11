@@ -12,24 +12,24 @@ keywords = ['ai words', 'feel']
 
 ## 释义
 - **动词**:
-1. 感觉，感知：感觉到（事物的性质、状态或情感）。例如: "I [can](/post/can/) [feel](/post/feel/) [the](/post/the/) [cold](/post/cold/) [wind](/post/wind/) [on](/post/on/) [my](/post/my/) [face](/post/face/)."
-2. 体验，经历：亲身经历某种情感或情况。例如: "[She](/post/she/) feels [happy](/post/happy/) [when](/post/when/) she's [around](/post/around/) [her](/post/her/) friends."
-3. 认为，觉得：对某事有某种看法或意见。例如: "[He](/post/he/) feels [that](/post/that/) [they](/post/they/) [should](/post/should/) [apologize](/post/apologize/)."
+1. 感觉，感知：感觉到（事物的性质、状态或情感）。例如: "I [can](/zh/post/can/) [feel](/zh/post/feel/) [the](/zh/post/the/) [cold](/zh/post/cold/) [wind](/zh/post/wind/) [on](/zh/post/on/) [my](/zh/post/my/) [face](/zh/post/face/)."
+2. 体验，经历：亲身经历某种情感或情况。例如: "[She](/zh/post/she/) feels [happy](/zh/post/happy/) [when](/zh/post/when/) she's [around](/zh/post/around/) [her](/zh/post/her/) friends."
+3. 认为，觉得：对某事有某种看法或意见。例如: "[He](/zh/post/he/) feels [that](/zh/post/that/) [they](/zh/post/they/) [should](/zh/post/should/) [apologize](/zh/post/apologize/)."
 
 - **名词**:
-感受，感觉：一种情绪或身体上的感觉。例如: "[What](/post/what/) [do](/post/do/) [you](/post/you/) [feel](/post/feel/) [about](/post/about/) [this](/post/this/) [situation](/post/situation/)?"
+感受，感觉：一种情绪或身体上的感觉。例如: "[What](/zh/post/what/) [do](/zh/post/do/) [you](/zh/post/you/) [feel](/zh/post/feel/) [about](/zh/post/about/) [this](/zh/post/this/) [situation](/zh/post/situation/)?"
 
 ## 短语
-- "[to](/post/to/) [feel](/post/feel/) [like](/post/like/) [something](/post/something/)" 想要做某事。例如: "I [feel](/post/feel/) [like](/post/like/) having [a](/post/a/) [cup](/post/cup/) [of](/post/of/) [tea](/post/tea/)."
-- "[to](/post/to/) [feel](/post/feel/) [better](/post/better/)/[worse](/post/worse/)" 感觉更好/更糟。例如: "I'm starting [to](/post/to/) [feel](/post/feel/) [better](/post/better/) [after](/post/after/) taking [some](/post/some/) [medicine](/post/medicine/)."
+- "[to](/zh/post/to/) [feel](/zh/post/feel/) [like](/zh/post/like/) [something](/zh/post/something/)" 想要做某事。例如: "I [feel](/zh/post/feel/) [like](/zh/post/like/) having [a](/zh/post/a/) [cup](/zh/post/cup/) [of](/zh/post/of/) [tea](/zh/post/tea/)."
+- "[to](/zh/post/to/) [feel](/zh/post/feel/) [better](/zh/post/better/)/[worse](/zh/post/worse/)" 感觉更好/更糟。例如: "I'm starting [to](/zh/post/to/) [feel](/zh/post/feel/) [better](/zh/post/better/) [after](/zh/post/after/) taking [some](/zh/post/some/) [medicine](/zh/post/medicine/)."
 
 ## 例句
-- 动词: "[Can](/post/can/) [you](/post/you/) [feel](/post/feel/) [the](/post/the/) tension [in](/post/in/) [the](/post/the/) [room](/post/room/)?"
-- 名词: "[She](/post/she/) expressed [her](/post/her/) feelings openly."
+- 动词: "[Can](/zh/post/can/) [you](/zh/post/you/) [feel](/zh/post/feel/) [the](/zh/post/the/) tension [in](/zh/post/in/) [the](/zh/post/the/) [room](/zh/post/room/)?"
+- 名词: "[She](/zh/post/she/) expressed [her](/zh/post/her/) feelings openly."
 
 ## 同义词
-- [sense](/post/sense/) (v.)
-- [perceive](/post/perceive/) (v.)
-- [experience](/post/experience/) (v.)
-- [emotion](/post/emotion/) (n.)
+- [sense](/zh/post/sense/) (v.)
+- [perceive](/zh/post/perceive/) (v.)
+- [experience](/zh/post/experience/) (v.)
+- [emotion](/zh/post/emotion/) (n.)
 - sensation (n.)

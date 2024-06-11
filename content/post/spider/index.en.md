@@ -7,38 +7,38 @@ description = '[ˈspaidə] n.蜘蛛'
 keywords = ['ai words', 'spider']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /spɪdər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [small](/en/post/small/), eight-legged invertebrate typically having [a](/en/post/a/) [body](/en/post/body/) divided [into](/en/post/into/) cephalothorax [and](/en/post/and/) abdomen, [with](/en/post/with/) spinnerets [for](/en/post/for/) producing [silk](/en/post/silk/), [and](/en/post/and/) [used](/en/post/used/) [for](/en/post/for/) web-making [and](/en/post/and/) catching insects: *[The](/en/post/the/) [spider](/en/post/spider/) sat [on](/en/post/on/) [its](/en/post/its/) web, patiently waiting [for](/en/post/for/) prey.*
-2. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [skilled](/en/post/skilled/) [or](/en/post/or/) [expert](/en/post/expert/) [in](/en/post/in/) spinning [or](/en/post/or/) weaving ([especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/)): *She's [a](/en/post/a/) web-design [spider](/en/post/spider/), creating stunning sites effortlessly.*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [small](/post/small/), eight-legged invertebrate typically having [a](/post/a/) [body](/post/body/) divided [into](/post/into/) cephalothorax [and](/post/and/) abdomen, [with](/post/with/) spinnerets [for](/post/for/) producing [silk](/post/silk/), [and](/post/and/) [used](/post/used/) [for](/post/for/) web-making [and](/post/and/) catching insects: *[The](/post/the/) [spider](/post/spider/) sat [on](/post/on/) [its](/post/its/) web, patiently waiting [for](/post/for/) prey.*
+2. [A](/post/a/) [person](/post/person/) [who](/post/who/) is [skilled](/post/skilled/) [or](/post/or/) [expert](/post/expert/) [in](/post/in/) spinning [or](/post/or/) weaving ([especially](/post/especially/) [in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/)): *She's [a](/post/a/) web-design [spider](/post/spider/), creating stunning sites effortlessly.*
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [spin](/en/post/spin/) webs [or](/en/post/or/) [catch](/en/post/catch/) prey using [a](/en/post/a/) web, [as](/en/post/as/) [a](/en/post/a/) [spider](/en/post/spider/) does: *Spiders [often](/en/post/often/) [spider](/en/post/spider/) [around](/en/post/around/) [the](/en/post/the/) [garden](/en/post/garden/) [at](/en/post/at/) [night](/en/post/night/).*
-- (Informal) [To](/en/post/to/) navigate [or](/en/post/or/) [deal](/en/post/deal/) [with](/en/post/with/) [something](/en/post/something/) skillfully [or](/en/post/or/) efficiently: *He's [a](/en/post/a/) [spider](/en/post/spider/) [at](/en/post/at/) managing [his](/en/post/his/) [time](/en/post/time/) [and](/en/post/and/) workload.*
+### [Verb](/post/verb/)
+- [To](/post/to/) [spin](/post/spin/) webs [or](/post/or/) [catch](/post/catch/) prey using [a](/post/a/) web, [as](/post/as/) [a](/post/a/) [spider](/post/spider/) does: *Spiders [often](/post/often/) [spider](/post/spider/) [around](/post/around/) [the](/post/the/) [garden](/post/garden/) [at](/post/at/) [night](/post/night/).*
+- (Informal) [To](/post/to/) navigate [or](/post/or/) [deal](/post/deal/) [with](/post/with/) [something](/post/something/) skillfully [or](/post/or/) efficiently: *He's [a](/post/a/) [spider](/post/spider/) [at](/post/at/) managing [his](/post/his/) [time](/post/time/) [and](/post/and/) workload.*
 
-### [Adjective](/en/post/adjective/)
-- Characterizing [or](/en/post/or/) pertaining [to](/en/post/to/) spiders [or](/en/post/or/) [their](/en/post/their/) traits: *Spider-like agility*
+### [Adjective](/post/adjective/)
+- Characterizing [or](/post/or/) pertaining [to](/post/to/) spiders [or](/post/or/) [their](/post/their/) traits: *Spider-like agility*
 
-### [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) spider-like [manner](/en/post/manner/): *[She](/en/post/she/) moved spiderily [across](/en/post/across/) [the](/en/post/the/) [room](/en/post/room/).*
+### [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) spider-like [manner](/post/manner/): *[She](/post/she/) moved spiderily [across](/post/across/) [the](/post/the/) [room](/post/room/).*
 
 ## Phrases
-- "[Catch](/en/post/catch/) [a](/en/post/a/) spider's [eye](/en/post/eye/)" [means](/en/post/means/) [to](/en/post/to/) [draw](/en/post/draw/) someone's [attention](/en/post/attention/).
-- "Spider's web" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [complex](/en/post/complex/), intricate [plan](/en/post/plan/) [or](/en/post/or/) [structure](/en/post/structure/).
-- "Spider's [sense](/en/post/sense/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [for](/en/post/for/) heightened intuition [or](/en/post/or/) awareness.
+- "[Catch](/post/catch/) [a](/post/a/) spider's [eye](/post/eye/)" [means](/post/means/) [to](/post/to/) [draw](/post/draw/) someone's [attention](/post/attention/).
+- "Spider's web" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [complex](/post/complex/), intricate [plan](/post/plan/) [or](/post/or/) [structure](/post/structure/).
+- "Spider's [sense](/post/sense/)" is [a](/post/a/) colloquial [expression](/post/expression/) [for](/post/for/) heightened intuition [or](/post/or/) awareness.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) spider's web was [so](/en/post/so/) [delicate](/en/post/delicate/) [that](/en/post/that/) [it](/en/post/it/) barely seemed [to](/en/post/to/) [touch](/en/post/touch/) [the](/en/post/the/) leaves."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) carefully removed [the](/en/post/the/) [spider](/en/post/spider/) [from](/en/post/from/) [the](/en/post/the/) [flower](/en/post/flower/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [spider](/en/post/spider/) [sense](/en/post/sense/) told [her](/en/post/her/) [something](/en/post/something/) was amiss."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) handled [the](/en/post/the/) [situation](/en/post/situation/) [with](/en/post/with/) spider-like [precision](/en/post/precision/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) spider's web was [so](/post/so/) [delicate](/post/delicate/) [that](/post/that/) [it](/post/it/) barely seemed [to](/post/to/) [touch](/post/touch/) [the](/post/the/) leaves."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [gardener](/post/gardener/) carefully removed [the](/post/the/) [spider](/post/spider/) [from](/post/from/) [the](/post/the/) [flower](/post/flower/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [spider](/post/spider/) [sense](/post/sense/) told [her](/post/her/) [something](/post/something/) was amiss."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) handled [the](/post/the/) [situation](/post/situation/) [with](/post/with/) spider-like [precision](/post/precision/)."
 
 ## Synonyms
 - Arachnid
 - Eight-legged
 - Web Weaver
 - Creepie-crawly
-- Myrmecophobe's nightmare ([as](/en/post/as/) [a](/en/post/a/) [joke](/en/post/joke/), referring [to](/en/post/to/) [someone](/en/post/someone/) [afraid](/en/post/afraid/) [of](/en/post/of/) spiders)
+- Myrmecophobe's nightmare ([as](/post/as/) [a](/post/a/) [joke](/post/joke/), referring [to](/post/to/) [someone](/post/someone/) [afraid](/post/afraid/) [of](/post/of/) spiders)

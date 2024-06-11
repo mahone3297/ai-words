@@ -11,21 +11,21 @@ keywords = ['ai words', 'matter']
 /mætər/
 
 ## 释义
-- **名词**: 物质；事情；问题；重要性。例如: "[Matter](/post/matter/) is [anything](/post/anything/) [that](/post/that/) has [mass](/post/mass/) [and](/post/and/) takes [up](/post/up/) [space](/post/space/)."，"[The](/post/the/) [matter](/post/matter/) [at](/post/at/) [hand](/post/hand/) needs [immediate](/post/immediate/) [attention](/post/attention/)."
-- **形容词**: 实质性的；重要的。例如: "That's [a](/post/a/) [matter](/post/matter/) [of](/post/of/) [great](/post/great/) [concern](/post/concern/)."
+- **名词**: 物质；事情；问题；重要性。例如: "[Matter](/zh/post/matter/) is [anything](/zh/post/anything/) [that](/zh/post/that/) has [mass](/zh/post/mass/) [and](/zh/post/and/) takes [up](/zh/post/up/) [space](/zh/post/space/)."，"[The](/zh/post/the/) [matter](/zh/post/matter/) [at](/zh/post/at/) [hand](/zh/post/hand/) needs [immediate](/zh/post/immediate/) [attention](/zh/post/attention/)."
+- **形容词**: 实质性的；重要的。例如: "That's [a](/zh/post/a/) [matter](/zh/post/matter/) [of](/zh/post/of/) [great](/zh/post/great/) [concern](/zh/post/concern/)."
 
 ## 短语
-- "[As](/post/as/) [a](/post/a/) [matter](/post/matter/) [of](/post/of/) [fact](/post/fact/)" 意为"事实上"。
-- "[It](/post/it/) doesn't [matter](/post/matter/)" 意为"没关系"，"无所谓"。
-- "[A](/post/a/) [matter](/post/matter/) [of](/post/of/) [time](/post/time/)" 指的是某事肯定会发生，只是时间问题。
+- "[As](/zh/post/as/) [a](/zh/post/a/) [matter](/zh/post/matter/) [of](/zh/post/of/) [fact](/zh/post/fact/)" 意为"事实上"。
+- "[It](/zh/post/it/) doesn't [matter](/zh/post/matter/)" 意为"没关系"，"无所谓"。
+- "[A](/zh/post/a/) [matter](/zh/post/matter/) [of](/zh/post/of/) [time](/zh/post/time/)" 指的是某事肯定会发生，只是时间问题。
 
 ## 例句
-- 名词: "[The](/post/the/) [universe](/post/universe/) is made [up](/post/up/) [of](/post/of/) [various](/post/various/) forms [of](/post/of/) [matter](/post/matter/)."
-- 形容词: "[Your](/post/your/) [opinion](/post/opinion/) [on](/post/on/) [this](/post/this/) [matter](/post/matter/) is [highly](/post/highly/) valued."
+- 名词: "[The](/zh/post/the/) [universe](/zh/post/universe/) is made [up](/zh/post/up/) [of](/zh/post/of/) [various](/zh/post/various/) forms [of](/zh/post/of/) [matter](/zh/post/matter/)."
+- 形容词: "[Your](/zh/post/your/) [opinion](/zh/post/opinion/) [on](/zh/post/on/) [this](/zh/post/this/) [matter](/zh/post/matter/) is [highly](/zh/post/highly/) valued."
 
 ## 同义词
-- [Issue](/post/issue/)
-- [Concern](/post/concern/)
-- [Subject](/post/subject/)
-- [Topic](/post/topic/)
-- [Problem](/post/problem/)
+- [Issue](/zh/post/issue/)
+- [Concern](/zh/post/concern/)
+- [Subject](/zh/post/subject/)
+- [Topic](/zh/post/topic/)
+- [Problem](/zh/post/problem/)

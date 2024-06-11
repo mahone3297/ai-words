@@ -11,23 +11,23 @@ keywords = ['ai words', 'senior']
 /ˈsiːniər/
 
 ## 释义
-- **形容词**: 年长的，资深的，上级的。例如: "[He](/post/he/) is [a](/post/a/) [senior](/post/senior/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [team](/post/team/)."
-- **名词**: 高年级学生，年长者，前辈。例如: "[Senior](/post/senior/) students [often](/post/often/) mentor [the](/post/the/) freshmen."
-- **名词 (在公司或组织中)**: 资深员工，高级职员。例如: "[She](/post/she/) was promoted [to](/post/to/) [a](/post/a/) [senior](/post/senior/) [management](/post/management/) [position](/post/position/)."
+- **形容词**: 年长的，资深的，上级的。例如: "[He](/zh/post/he/) is [a](/zh/post/a/) [senior](/zh/post/senior/) [member](/zh/post/member/) [of](/zh/post/of/) [the](/zh/post/the/) [team](/zh/post/team/)."
+- **名词**: 高年级学生，年长者，前辈。例如: "[Senior](/zh/post/senior/) students [often](/zh/post/often/) mentor [the](/zh/post/the/) freshmen."
+- **名词 (在公司或组织中)**: 资深员工，高级职员。例如: "[She](/zh/post/she/) was promoted [to](/zh/post/to/) [a](/zh/post/a/) [senior](/zh/post/senior/) [management](/zh/post/management/) [position](/zh/post/position/)."
 
 ## 短语
-- "[Senior](/post/senior/) [year](/post/year/)" 指高中或大学的最后一年。
-- "[Senior](/post/senior/) [citizen](/post/citizen/)" 指老年人。
-- "[Senior](/post/senior/) [staff](/post/staff/)" 指公司的高级员工。
+- "[Senior](/zh/post/senior/) [year](/zh/post/year/)" 指高中或大学的最后一年。
+- "[Senior](/zh/post/senior/) [citizen](/zh/post/citizen/)" 指老年人。
+- "[Senior](/zh/post/senior/) [staff](/zh/post/staff/)" 指公司的高级员工。
 
 ## 例句
-- 形容词: "[My](/post/my/) [brother](/post/brother/) is [senior](/post/senior/) [to](/post/to/) [me](/post/me/) [in](/post/in/) [both](/post/both/) [age](/post/age/) [and](/post/and/) [experience](/post/experience/)."
-- 名词: "[She](/post/she/) [just](/post/just/) started [her](/post/her/) [senior](/post/senior/) [year](/post/year/) [in](/post/in/) [college](/post/college/)."
-- 名词 (公司): "[The](/post/the/) [senior](/post/senior/) [executive](/post/executive/) made an [important](/post/important/) [decision](/post/decision/)."
+- 形容词: "[My](/zh/post/my/) [brother](/zh/post/brother/) is [senior](/zh/post/senior/) [to](/zh/post/to/) [me](/zh/post/me/) [in](/zh/post/in/) [both](/zh/post/both/) [age](/zh/post/age/) [and](/zh/post/and/) [experience](/zh/post/experience/)."
+- 名词: "[She](/zh/post/she/) [just](/zh/post/just/) started [her](/zh/post/her/) [senior](/zh/post/senior/) [year](/zh/post/year/) [in](/zh/post/in/) [college](/zh/post/college/)."
+- 名词 (公司): "[The](/zh/post/the/) [senior](/zh/post/senior/) [executive](/zh/post/executive/) made an [important](/zh/post/important/) [decision](/zh/post/decision/)."
 
 ## 同义词
-- [Elder](/post/elder/)
+- [Elder](/zh/post/elder/)
 - Older
-- [More](/post/more/) experienced
-- [Advanced](/post/advanced/)
+- [More](/zh/post/more/) experienced
+- [Advanced](/zh/post/advanced/)
 - Upperclassman

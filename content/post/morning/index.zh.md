@@ -11,21 +11,21 @@ keywords = ['ai words', 'morning']
 /ˈmɔːrnɪŋ/
 
 ## 释义
-- **名词 (n)**: 一天中的早间时段，通常指从天亮到中午之间的时间。例如: "I [usually](/post/usually/) [wake](/post/wake/) [up](/post/up/) [early](/post/early/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
-- **形容词 (adj)**: 与早晨有关的或在早晨发生的。例如: "[She](/post/she/) wears [a](/post/a/) [morning](/post/morning/) [dress](/post/dress/) [for](/post/for/) [breakfast](/post/breakfast/)."
+- **名词 (n)**: 一天中的早间时段，通常指从天亮到中午之间的时间。例如: "I [usually](/zh/post/usually/) [wake](/zh/post/wake/) [up](/zh/post/up/) [early](/zh/post/early/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/)."
+- **形容词 (adj)**: 与早晨有关的或在早晨发生的。例如: "[She](/zh/post/she/) wears [a](/zh/post/a/) [morning](/zh/post/morning/) [dress](/zh/post/dress/) [for](/zh/post/for/) [breakfast](/zh/post/breakfast/)."
 
 ## 短语
-- "[Good](/post/good/) [morning](/post/morning/)" 用于早上问候他人。
-- "[Morning](/post/morning/) [routine](/post/routine/)" 指早晨的日常习惯或例行事务。
-- "[Morning](/post/morning/) [sickness](/post/sickness/)" 孕妇在怀孕早期常有的恶心和呕吐现象。
+- "[Good](/zh/post/good/) [morning](/zh/post/morning/)" 用于早上问候他人。
+- "[Morning](/zh/post/morning/) [routine](/zh/post/routine/)" 指早晨的日常习惯或例行事务。
+- "[Morning](/zh/post/morning/) [sickness](/zh/post/sickness/)" 孕妇在怀孕早期常有的恶心和呕吐现象。
 
 ## 例句
-- 名词: "I [love](/post/love/) drinking [coffee](/post/coffee/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/) [while](/post/while/) watching [the](/post/the/) [sunrise](/post/sunrise/)."
-- 形容词: "[She](/post/she/) has [a](/post/a/) [morning](/post/morning/) jog [every](/post/every/) [day](/post/day/) [before](/post/before/) [work](/post/work/)."
+- 名词: "I [love](/zh/post/love/) drinking [coffee](/zh/post/coffee/) [in](/zh/post/in/) [the](/zh/post/the/) [morning](/zh/post/morning/) [while](/zh/post/while/) watching [the](/zh/post/the/) [sunrise](/zh/post/sunrise/)."
+- 形容词: "[She](/zh/post/she/) has [a](/zh/post/a/) [morning](/zh/post/morning/) jog [every](/zh/post/every/) [day](/zh/post/day/) [before](/zh/post/before/) [work](/zh/post/work/)."
 
 ## 同义词
-- [Dawn](/post/dawn/)
-- [Early](/post/early/) hours
-- [A](/post/a/).M.
-- [Sunrise](/post/sunrise/)
-- [Break](/post/break/) [of](/post/of/) [day](/post/day/)
+- [Dawn](/zh/post/dawn/)
+- [Early](/zh/post/early/) hours
+- [A](/zh/post/a/).M.
+- [Sunrise](/zh/post/sunrise/)
+- [Break](/zh/post/break/) [of](/zh/post/of/) [day](/zh/post/day/)

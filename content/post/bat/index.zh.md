@@ -11,23 +11,23 @@ keywords = ['ai words', 'bat']
 /bæt/
 
 ## 释义
-- **名词**: 1. 蝙蝠，一种能飞行的哺乳动物。例如: "[There](/post/there/) are [several](/post/several/) species [of](/post/of/) bats [living](/post/living/) [in](/post/in/) [this](/post/this/) [cave](/post/cave/)."
-   2. 球棒，尤指棒球中的击球工具。例如: "[He](/post/he/) swung [the](/post/the/) [bat](/post/bat/) [with](/post/with/) [great](/post/great/) [force](/post/force/)."
-   3. (板球)球拍。例如: "[The](/post/the/) [cricket](/post/cricket/) [player](/post/player/) held [his](/post/his/) [bat](/post/bat/) confidently."
+- **名词**: 1. 蝙蝠，一种能飞行的哺乳动物。例如: "[There](/zh/post/there/) are [several](/zh/post/several/) species [of](/zh/post/of/) bats [living](/zh/post/living/) [in](/zh/post/in/) [this](/zh/post/this/) [cave](/zh/post/cave/)."
+   2. 球棒，尤指棒球中的击球工具。例如: "[He](/zh/post/he/) swung [the](/zh/post/the/) [bat](/zh/post/bat/) [with](/zh/post/with/) [great](/zh/post/great/) [force](/zh/post/force/)."
+   3. (板球)球拍。例如: "[The](/zh/post/the/) [cricket](/zh/post/cricket/) [player](/zh/post/player/) held [his](/zh/post/his/) [bat](/zh/post/bat/) confidently."
 
-- **动词**: 打击，击打。例如: "[She](/post/she/) batted [the](/post/the/) [ball](/post/ball/) [over](/post/over/) [the](/post/the/) [fence](/post/fence/)."
-- **形容词**: 用来形容与蝙蝠有关的事物。例如: "[The](/post/the/) bat-shaped [kite](/post/kite/) flew [high](/post/high/) [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
+- **动词**: 打击，击打。例如: "[She](/zh/post/she/) batted [the](/zh/post/the/) [ball](/zh/post/ball/) [over](/zh/post/over/) [the](/zh/post/the/) [fence](/zh/post/fence/)."
+- **形容词**: 用来形容与蝙蝠有关的事物。例如: "[The](/zh/post/the/) bat-shaped [kite](/zh/post/kite/) flew [high](/zh/post/high/) [in](/zh/post/in/) [the](/zh/post/the/) [sky](/zh/post/sky/)."
 
 ## 短语
-- "[hit](/post/hit/) [for](/post/for/) [six](/post/six/)" 在板球中击球出界，得分六分。
-- "[bat](/post/bat/) an [eye](/post/eye/)" 不眨眼，表示惊讶或不在意。例如: "[She](/post/she/) didn't [bat](/post/bat/) an [eye](/post/eye/) [when](/post/when/) hearing [the](/post/the/) shocking [news](/post/news/)."
+- "[hit](/zh/post/hit/) [for](/zh/post/for/) [six](/zh/post/six/)" 在板球中击球出界，得分六分。
+- "[bat](/zh/post/bat/) an [eye](/zh/post/eye/)" 不眨眼，表示惊讶或不在意。例如: "[She](/zh/post/she/) didn't [bat](/zh/post/bat/) an [eye](/zh/post/eye/) [when](/zh/post/when/) hearing [the](/zh/post/the/) shocking [news](/zh/post/news/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [little](/post/little/) [brown](/post/brown/) [bat](/post/bat/) is known [for](/post/for/) [its](/post/its/) echolocation abilities."
-- 动词: "[He](/post/he/) batted [the](/post/the/) [ball](/post/ball/) [with](/post/with/) incredible [speed](/post/speed/)."
-- 形容词: "[The](/post/the/) [bat](/post/bat/) [cave](/post/cave/) was filled [with](/post/with/) thousands [of](/post/of/) sleeping bats."
+- 名词: "[The](/zh/post/the/) [little](/zh/post/little/) [brown](/zh/post/brown/) [bat](/zh/post/bat/) is known [for](/zh/post/for/) [its](/zh/post/its/) echolocation abilities."
+- 动词: "[He](/zh/post/he/) batted [the](/zh/post/the/) [ball](/zh/post/ball/) [with](/zh/post/with/) incredible [speed](/zh/post/speed/)."
+- 形容词: "[The](/zh/post/the/) [bat](/zh/post/bat/) [cave](/zh/post/cave/) was filled [with](/zh/post/with/) thousands [of](/zh/post/of/) sleeping bats."
 
 ## 同义词
-- 蝙蝠：flying [fox](/post/fox/), pipistrelle
-- 球棒：[club](/post/club/), [stick](/post/stick/)
-- 击打：swat, [hit](/post/hit/), [strike](/post/strike/)
+- 蝙蝠：flying [fox](/zh/post/fox/), pipistrelle
+- 球棒：[club](/zh/post/club/), [stick](/zh/post/stick/)
+- 击打：swat, [hit](/zh/post/hit/), [strike](/zh/post/strike/)

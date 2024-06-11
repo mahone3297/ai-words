@@ -7,35 +7,35 @@ description = '[simˈplisiti] n.简单，简易；朴素'
 keywords = ['ai words', 'simplicity']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪmplɪsəti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Simplicity](/en/post/simplicity/)**: [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [simple](/en/post/simple/); [lack](/en/post/lack/) [of](/en/post/of/) complexity [or](/en/post/or/) intricacy. "[She](/en/post/she/) admired [the](/en/post/the/) [simplicity](/en/post/simplicity/) [of](/en/post/of/) [the](/en/post/the/) [design](/en/post/design/)."
-- **[Ease](/en/post/ease/) [of](/en/post/of/) [understanding](/en/post/understanding/)**: [Something](/en/post/something/) [that](/en/post/that/) is [easy](/en/post/easy/) [to](/en/post/to/) [grasp](/en/post/grasp/) [or](/en/post/or/) [explain](/en/post/explain/). "[The](/en/post/the/) [concept](/en/post/concept/) was presented [with](/en/post/with/) [great](/en/post/great/) [simplicity](/en/post/simplicity/)."
-- **Unpretentiousness**: [A](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [excessive](/en/post/excessive/) [or](/en/post/or/) [elaborate](/en/post/elaborate/) [style](/en/post/style/); informality. "[His](/en/post/his/) lifestyle was marked [by](/en/post/by/) [simplicity](/en/post/simplicity/) [and](/en/post/and/) humility."
+### [Noun](/post/noun/)
+- **[Simplicity](/post/simplicity/)**: [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [simple](/post/simple/); [lack](/post/lack/) [of](/post/of/) complexity [or](/post/or/) intricacy. "[She](/post/she/) admired [the](/post/the/) [simplicity](/post/simplicity/) [of](/post/of/) [the](/post/the/) [design](/post/design/)."
+- **[Ease](/post/ease/) [of](/post/of/) [understanding](/post/understanding/)**: [Something](/post/something/) [that](/post/that/) is [easy](/post/easy/) [to](/post/to/) [grasp](/post/grasp/) [or](/post/or/) [explain](/post/explain/). "[The](/post/the/) [concept](/post/concept/) was presented [with](/post/with/) [great](/post/great/) [simplicity](/post/simplicity/)."
+- **Unpretentiousness**: [A](/post/a/) [lack](/post/lack/) [of](/post/of/) [excessive](/post/excessive/) [or](/post/or/) [elaborate](/post/elaborate/) [style](/post/style/); informality. "[His](/post/his/) lifestyle was marked [by](/post/by/) [simplicity](/post/simplicity/) [and](/post/and/) humility."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [simplify](/en/post/simplify/): [The](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) making [something](/en/post/something/) [less](/en/post/less/) [complex](/en/post/complex/) [or](/en/post/or/) [difficult](/en/post/difficult/). "[She](/en/post/she/) decided [to](/en/post/to/) [simplify](/en/post/simplify/) [her](/en/post/her/) [daily](/en/post/daily/) [routine](/en/post/routine/)."
-- [To](/en/post/to/) embody [simplicity](/en/post/simplicity/): [To](/en/post/to/) [represent](/en/post/represent/) [or](/en/post/or/) [display](/en/post/display/) [simplicity](/en/post/simplicity/) [in](/en/post/in/) one's actions [or](/en/post/or/) [approach](/en/post/approach/). "[The](/en/post/the/) [artist](/en/post/artist/) aimed [to](/en/post/to/) [simplify](/en/post/simplify/) [their](/en/post/their/) artwork."
+### [Verb](/post/verb/)
+- [To](/post/to/) [simplify](/post/simplify/): [The](/post/the/) [action](/post/action/) [of](/post/of/) making [something](/post/something/) [less](/post/less/) [complex](/post/complex/) [or](/post/or/) [difficult](/post/difficult/). "[She](/post/she/) decided [to](/post/to/) [simplify](/post/simplify/) [her](/post/her/) [daily](/post/daily/) [routine](/post/routine/)."
+- [To](/post/to/) embody [simplicity](/post/simplicity/): [To](/post/to/) [represent](/post/represent/) [or](/post/or/) [display](/post/display/) [simplicity](/post/simplicity/) [in](/post/in/) one's actions [or](/post/or/) [approach](/post/approach/). "[The](/post/the/) [artist](/post/artist/) aimed [to](/post/to/) [simplify](/post/simplify/) [their](/post/their/) artwork."
 
-### [Adjective](/en/post/adjective/)
-- Straightforward: Characterized [by](/en/post/by/) [a](/en/post/a/) [direct](/en/post/direct/) [and](/en/post/and/) [plain](/en/post/plain/) [manner](/en/post/manner/). "[The](/en/post/the/) instructions were written [in](/en/post/in/) [a](/en/post/a/) [simple](/en/post/simple/), easy-to-follow format."
-- [Essential](/en/post/essential/): [Basic](/en/post/basic/) [and](/en/post/and/) [necessary](/en/post/necessary/). "[Her](/en/post/her/) teachings focused [on](/en/post/on/) [the](/en/post/the/) [simple](/en/post/simple/) truths [that](/en/post/that/) [guide](/en/post/guide/) [us](/en/post/us/)."
+### [Adjective](/post/adjective/)
+- Straightforward: Characterized [by](/post/by/) [a](/post/a/) [direct](/post/direct/) [and](/post/and/) [plain](/post/plain/) [manner](/post/manner/). "[The](/post/the/) instructions were written [in](/post/in/) [a](/post/a/) [simple](/post/simple/), easy-to-follow format."
+- [Essential](/post/essential/): [Basic](/post/basic/) [and](/post/and/) [necessary](/post/necessary/). "[Her](/post/her/) teachings focused [on](/post/on/) [the](/post/the/) [simple](/post/simple/) truths [that](/post/that/) [guide](/post/guide/) [us](/post/us/)."
 
 ## Phrases
-- "[Keep](/en/post/keep/) [it](/en/post/it/) [simple](/en/post/simple/)" encourages minimalism [or](/en/post/or/) straightforwardness.
-- "[Simple](/en/post/simple/) [living](/en/post/living/)" refers [to](/en/post/to/) [a](/en/post/a/) lifestyle characterized [by](/en/post/by/) minimal [material](/en/post/material/) possessions.
-- "[Simple](/en/post/simple/) [explanation](/en/post/explanation/)" denotes [a](/en/post/a/) [clear](/en/post/clear/) [and](/en/post/and/) concise [description](/en/post/description/).
+- "[Keep](/post/keep/) [it](/post/it/) [simple](/post/simple/)" encourages minimalism [or](/post/or/) straightforwardness.
+- "[Simple](/post/simple/) [living](/post/living/)" refers [to](/post/to/) [a](/post/a/) lifestyle characterized [by](/post/by/) minimal [material](/post/material/) possessions.
+- "[Simple](/post/simple/) [explanation](/post/explanation/)" denotes [a](/post/a/) [clear](/post/clear/) [and](/post/and/) concise [description](/post/description/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) enjoyed [the](/en/post/the/) [simplicity](/en/post/simplicity/) [of](/en/post/of/) [her](/en/post/her/) [new](/en/post/new/) [home](/en/post/home/), [with](/en/post/with/) [no](/en/post/no/) [unnecessary](/en/post/unnecessary/) clutter."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) simplified [the](/en/post/the/) [project](/en/post/project/) [by](/en/post/by/) breaking [it](/en/post/it/) [down](/en/post/down/) [into](/en/post/into/) smaller tasks."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) appreciated [the](/en/post/the/) students' [ability](/en/post/ability/) [to](/en/post/to/) [grasp](/en/post/grasp/) [the](/en/post/the/) [simple](/en/post/simple/) concepts [quickly](/en/post/quickly/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) enjoyed [the](/post/the/) [simplicity](/post/simplicity/) [of](/post/of/) [her](/post/her/) [new](/post/new/) [home](/post/home/), [with](/post/with/) [no](/post/no/) [unnecessary](/post/unnecessary/) clutter."
+- **[Verb](/post/verb/)**: "[He](/post/he/) simplified [the](/post/the/) [project](/post/project/) [by](/post/by/) breaking [it](/post/it/) [down](/post/down/) [into](/post/into/) smaller tasks."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [teacher](/post/teacher/) appreciated [the](/post/the/) students' [ability](/post/ability/) [to](/post/to/) [grasp](/post/grasp/) [the](/post/the/) [simple](/post/simple/) concepts [quickly](/post/quickly/)."
 
 ## Synonyms
-- [Ease](/en/post/ease/)
+- [Ease](/post/ease/)
 - Easefulness
 - Uncomplicated
 - Straightforwardness

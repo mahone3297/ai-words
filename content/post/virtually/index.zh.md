@@ -11,20 +11,20 @@ keywords = ['ai words', 'virtually']
 /vərˈtʃuːəli/
 
 ## 释义
-- **副词**: 几乎，实际上，基本上。例如: "[The](/post/the/) virtual [reality](/post/reality/) [game](/post/game/) made [me](/post/me/) [feel](/post/feel/) [like](/post/like/) I was [actually](/post/actually/) [in](/post/in/) [another](/post/another/) [world](/post/world/)."
-- **形容词**: 虚拟的，模拟的。例如: "[The](/post/the/) virtual [classroom](/post/classroom/) allows students [to](/post/to/) [learn](/post/learn/) online."
+- **副词**: 几乎，实际上，基本上。例如: "[The](/zh/post/the/) virtual [reality](/zh/post/reality/) [game](/zh/post/game/) made [me](/zh/post/me/) [feel](/zh/post/feel/) [like](/zh/post/like/) I was [actually](/zh/post/actually/) [in](/zh/post/in/) [another](/zh/post/another/) [world](/zh/post/world/)."
+- **形容词**: 虚拟的，模拟的。例如: "[The](/zh/post/the/) virtual [classroom](/zh/post/classroom/) allows students [to](/zh/post/to/) [learn](/zh/post/learn/) online."
 
 ## 短语
-- "[virtually](/post/virtually/) [impossible](/post/impossible/)" 意为几乎不可能。
-- "virtual [reality](/post/reality/)" 指虚拟现实技术。
+- "[virtually](/zh/post/virtually/) [impossible](/zh/post/impossible/)" 意为几乎不可能。
+- "virtual [reality](/zh/post/reality/)" 指虚拟现实技术。
 
 ## 例句
-- 副词: "[She](/post/she/) [can](/post/can/) [work](/post/work/) [from](/post/from/) [home](/post/home/), [so](/post/so/) she's [virtually](/post/virtually/) [present](/post/present/) [in](/post/in/) [the](/post/the/) [office](/post/office/) meetings."
-- 形容词: "[The](/post/the/) virtual [concert](/post/concert/) allowed fans [to](/post/to/) [enjoy](/post/enjoy/) [the](/post/the/) [performance](/post/performance/) [without](/post/without/) leaving [their](/post/their/) homes."
+- 副词: "[She](/zh/post/she/) [can](/zh/post/can/) [work](/zh/post/work/) [from](/zh/post/from/) [home](/zh/post/home/), [so](/zh/post/so/) she's [virtually](/zh/post/virtually/) [present](/zh/post/present/) [in](/zh/post/in/) [the](/zh/post/the/) [office](/zh/post/office/) meetings."
+- 形容词: "[The](/zh/post/the/) virtual [concert](/zh/post/concert/) allowed fans [to](/zh/post/to/) [enjoy](/zh/post/enjoy/) [the](/zh/post/the/) [performance](/zh/post/performance/) [without](/zh/post/without/) leaving [their](/zh/post/their/) homes."
 
 ## 同义词
-- [Almost](/post/almost/)
-- [Practically](/post/practically/)
-- [Nearly](/post/nearly/)
-- [In](/post/in/) [effect](/post/effect/)
+- [Almost](/zh/post/almost/)
+- [Practically](/zh/post/practically/)
+- [Nearly](/zh/post/nearly/)
+- [In](/zh/post/in/) [effect](/zh/post/effect/)
 - Essentially

@@ -7,33 +7,33 @@ description = '[swiːt] a.甜的；愉快的'
 keywords = ['ai words', 'sweet']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /siːt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Having [a](/en/post/a/) [pleasant](/en/post/pleasant/) [taste](/en/post/taste/), aroma, [or](/en/post/or/) [quality](/en/post/quality/); delightful. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sweet](/en/post/sweet/) dessert was [a](/en/post/a/) [perfect](/en/post/perfect/) [ending](/en/post/ending/) [to](/en/post/to/) [the](/en/post/the/) [meal](/en/post/meal/)."
-- **[Adjective](/en/post/adjective/)**: 2. Expressing [affection](/en/post/affection/), [kindness](/en/post/kindness/), [or](/en/post/or/) tenderness; kindly. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [sweet](/en/post/sweet/) [smile](/en/post/smile/) melted [my](/en/post/my/) [heart](/en/post/heart/)."
-- **[Adverb](/en/post/adverb/)**: [Softly](/en/post/softly/) [or](/en/post/or/) [gently](/en/post/gently/); amiably. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sang [the](/en/post/the/) lullaby sweetly [to](/en/post/to/) [the](/en/post/the/) [baby](/en/post/baby/)."
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) confection [or](/en/post/or/) dessert made [from](/en/post/from/) [sugar](/en/post/sugar/). [For](/en/post/for/) [example](/en/post/example/): "I [love](/en/post/love/) eating [sweet](/en/post/sweet/) treats [on](/en/post/on/) [special](/en/post/special/) occasions."
-- **[Noun](/en/post/noun/)**: 2. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [kind](/en/post/kind/), [gentle](/en/post/gentle/), [or](/en/post/or/) affectionate. [For](/en/post/for/) [example](/en/post/example/): "She's [the](/en/post/the/) sweetest [person](/en/post/person/) you'll [ever](/en/post/ever/) [meet](/en/post/meet/)."
+- **[Adjective](/post/adjective/)**: 1. Having [a](/post/a/) [pleasant](/post/pleasant/) [taste](/post/taste/), aroma, [or](/post/or/) [quality](/post/quality/); delightful. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sweet](/post/sweet/) dessert was [a](/post/a/) [perfect](/post/perfect/) [ending](/post/ending/) [to](/post/to/) [the](/post/the/) [meal](/post/meal/)."
+- **[Adjective](/post/adjective/)**: 2. Expressing [affection](/post/affection/), [kindness](/post/kindness/), [or](/post/or/) tenderness; kindly. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [sweet](/post/sweet/) [smile](/post/smile/) melted [my](/post/my/) [heart](/post/heart/)."
+- **[Adverb](/post/adverb/)**: [Softly](/post/softly/) [or](/post/or/) [gently](/post/gently/); amiably. [For](/post/for/) [example](/post/example/): "[She](/post/she/) sang [the](/post/the/) lullaby sweetly [to](/post/to/) [the](/post/the/) [baby](/post/baby/)."
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) confection [or](/post/or/) dessert made [from](/post/from/) [sugar](/post/sugar/). [For](/post/for/) [example](/post/example/): "I [love](/post/love/) eating [sweet](/post/sweet/) treats [on](/post/on/) [special](/post/special/) occasions."
+- **[Noun](/post/noun/)**: 2. [A](/post/a/) [person](/post/person/) [who](/post/who/) is [kind](/post/kind/), [gentle](/post/gentle/), [or](/post/or/) affectionate. [For](/post/for/) [example](/post/example/): "She's [the](/post/the/) sweetest [person](/post/person/) you'll [ever](/post/ever/) [meet](/post/meet/)."
 
 ## Phrases
-- "[A](/en/post/a/) [sweet](/en/post/sweet/) [tooth](/en/post/tooth/)" refers [to](/en/post/to/) [a](/en/post/a/) [preference](/en/post/preference/) [for](/en/post/for/) sugary foods.
-- "[Sweet](/en/post/sweet/) [talk](/en/post/talk/)" [means](/en/post/means/) [to](/en/post/to/) [use](/en/post/use/) flattering [or](/en/post/or/) affectionate words.
-- "[Sweet](/en/post/sweet/) dreams" are wished [for](/en/post/for/) [before](/en/post/before/) [sleep](/en/post/sleep/).
+- "[A](/post/a/) [sweet](/post/sweet/) [tooth](/post/tooth/)" refers [to](/post/to/) [a](/post/a/) [preference](/post/preference/) [for](/post/for/) sugary foods.
+- "[Sweet](/post/sweet/) [talk](/post/talk/)" [means](/post/means/) [to](/post/to/) [use](/post/use/) flattering [or](/post/or/) affectionate words.
+- "[Sweet](/post/sweet/) dreams" are wished [for](/post/for/) [before](/post/before/) [sleep](/post/sleep/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sweet](/en/post/sweet/) fragrance [of](/en/post/of/) roses filled [the](/en/post/the/) [air](/en/post/air/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) spoke sweetly [to](/en/post/to/) [comfort](/en/post/comfort/) [the](/en/post/the/) crying [child](/en/post/child/)."
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) shared [a](/en/post/a/) [box](/en/post/box/) [of](/en/post/of/) chocolates [with](/en/post/with/) [his](/en/post/his/) friends, [each](/en/post/each/) [one](/en/post/one/) [a](/en/post/a/) [sweet](/en/post/sweet/) reminder [of](/en/post/of/) [their](/en/post/their/) [friendship](/en/post/friendship/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was [the](/en/post/the/) [sweet](/en/post/sweet/) [nurse](/en/post/nurse/) [who](/en/post/who/) took [care](/en/post/care/) [of](/en/post/of/) [my](/en/post/my/) [grandmother](/en/post/grandmother/) [during](/en/post/during/) [her](/en/post/her/) [illness](/en/post/illness/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [sweet](/post/sweet/) fragrance [of](/post/of/) roses filled [the](/post/the/) [air](/post/air/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) spoke sweetly [to](/post/to/) [comfort](/post/comfort/) [the](/post/the/) crying [child](/post/child/)."
+- **[Noun](/post/noun/)**: "[He](/post/he/) shared [a](/post/a/) [box](/post/box/) [of](/post/of/) chocolates [with](/post/with/) [his](/post/his/) friends, [each](/post/each/) [one](/post/one/) [a](/post/a/) [sweet](/post/sweet/) reminder [of](/post/of/) [their](/post/their/) [friendship](/post/friendship/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) was [the](/post/the/) [sweet](/post/sweet/) [nurse](/post/nurse/) [who](/post/who/) took [care](/post/care/) [of](/post/of/) [my](/post/my/) [grandmother](/post/grandmother/) [during](/post/during/) [her](/post/her/) [illness](/post/illness/)."
 
 ## Synonyms
 - Luscious
-- [Delicious](/en/post/delicious/)
+- [Delicious](/post/delicious/)
 - Amiable
-- [Tender](/en/post/tender/)
-- [Gentle](/en/post/gentle/)
-- [Cordial](/en/post/cordial/)
+- [Tender](/post/tender/)
+- [Gentle](/post/gentle/)
+- [Cordial](/post/cordial/)
 - Honeyed
 - Affectionate

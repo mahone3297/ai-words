@@ -7,21 +7,21 @@ description = '[riˈpent] vi.悔悟，悔改 vt.后悔'
 keywords = ['ai words', 'repent']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈpent/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: n. & v. 1. [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [express](/en/post/express/) remorse [or](/en/post/or/) contrition [for](/en/post/for/) [past](/en/post/past/) wrongs, sins, [or](/en/post/or/) mistakes; [regret](/en/post/regret/) deeply. 2. [To](/en/post/to/) [change](/en/post/change/) one's [behavior](/en/post/behavior/) [or](/en/post/or/) [attitude](/en/post/attitude/) [because](/en/post/because/) [of](/en/post/of/) [such](/en/post/such/) remorse; [reform](/en/post/reform/).
+- **[Verb](/post/verb/)**: n. & v. 1. [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [express](/post/express/) remorse [or](/post/or/) contrition [for](/post/for/) [past](/post/past/) wrongs, sins, [or](/post/or/) mistakes; [regret](/post/regret/) deeply. 2. [To](/post/to/) [change](/post/change/) one's [behavior](/post/behavior/) [or](/post/or/) [attitude](/post/attitude/) [because](/post/because/) [of](/post/of/) [such](/post/such/) remorse; [reform](/post/reform/).
 
 ## Phrases
-- "[Repent](/en/post/repent/) one's sins" [means](/en/post/means/) [to](/en/post/to/) acknowledge [and](/en/post/and/) [seek](/en/post/seek/) forgiveness [for](/en/post/for/) [past](/en/post/past/) wrongdoings.
-- "[Turn](/en/post/turn/) [over](/en/post/over/) [a](/en/post/a/) [new](/en/post/new/) [leaf](/en/post/leaf/)" [often](/en/post/often/) implies [a](/en/post/a/) [person](/en/post/person/) has repented [and](/en/post/and/) decided [to](/en/post/to/) [make](/en/post/make/) [significant](/en/post/significant/) changes.
-- "[Seek](/en/post/seek/) redemption" signifies [a](/en/post/a/) [desire](/en/post/desire/) [to](/en/post/to/) atone [for](/en/post/for/) [past](/en/post/past/) actions [through](/en/post/through/) repentance.
+- "[Repent](/post/repent/) one's sins" [means](/post/means/) [to](/post/to/) acknowledge [and](/post/and/) [seek](/post/seek/) forgiveness [for](/post/for/) [past](/post/past/) wrongdoings.
+- "[Turn](/post/turn/) [over](/post/over/) [a](/post/a/) [new](/post/new/) [leaf](/post/leaf/)" [often](/post/often/) implies [a](/post/a/) [person](/post/person/) has repented [and](/post/and/) decided [to](/post/to/) [make](/post/make/) [significant](/post/significant/) changes.
+- "[Seek](/post/seek/) redemption" signifies [a](/post/a/) [desire](/post/desire/) [to](/post/to/) atone [for](/post/for/) [past](/post/past/) actions [through](/post/through/) repentance.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) ([to](/en/post/to/) [repent](/en/post/repent/))**: "[After](/en/post/after/) years [of](/en/post/of/) addiction, [he](/en/post/he/) [finally](/en/post/finally/) repented [and](/en/post/and/) sought [help](/en/post/help/)."
-- **[Verb](/en/post/verb/) ([as](/en/post/as/) [a](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [behavior](/en/post/behavior/))**: "[She](/en/post/she/) repented [her](/en/post/her/) impulsive [decision](/en/post/decision/) [and](/en/post/and/) apologized [to](/en/post/to/) [her](/en/post/her/) friends."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [priest](/en/post/priest/) encouraged [the](/en/post/the/) penitent [to](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) acts [of](/en/post/of/) [charity](/en/post/charity/) [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [their](/en/post/their/) repentance [process](/en/post/process/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) ([to](/post/to/) [repent](/post/repent/))**: "[After](/post/after/) years [of](/post/of/) addiction, [he](/post/he/) [finally](/post/finally/) repented [and](/post/and/) sought [help](/post/help/)."
+- **[Verb](/post/verb/) ([as](/post/as/) [a](/post/a/) [change](/post/change/) [in](/post/in/) [behavior](/post/behavior/))**: "[She](/post/she/) repented [her](/post/her/) impulsive [decision](/post/decision/) [and](/post/and/) apologized [to](/post/to/) [her](/post/her/) friends."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [priest](/post/priest/) encouraged [the](/post/the/) penitent [to](/post/to/) [engage](/post/engage/) [in](/post/in/) acts [of](/post/of/) [charity](/post/charity/) [as](/post/as/) [part](/post/part/) [of](/post/of/) [their](/post/their/) repentance [process](/post/process/)."
 
 ## Synonyms
 - Repentance
@@ -38,4 +38,4 @@ keywords = ['ai words', 'repent']
 - Unrepentant
 - Indifference
 
-## [Note](/en/post/note/): [Repent](/en/post/repent/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [feeling](/en/post/feeling/) remorse [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [sorry](/en/post/sorry/), [but](/en/post/but/) it's [less](/en/post/less/) [common](/en/post/common/) [than](/en/post/than/) [its](/en/post/its/) [verb](/en/post/verb/) [form](/en/post/form/).
+## [Note](/post/note/): [Repent](/post/repent/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) [feeling](/post/feeling/) remorse [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [sorry](/post/sorry/), [but](/post/but/) it's [less](/post/less/) [common](/post/common/) [than](/post/than/) [its](/post/its/) [verb](/post/verb/) [form](/post/form/).

@@ -7,35 +7,35 @@ description = '[səˈluːt] n.招呼，行礼 vi.行礼'
 keywords = ['ai words', 'salute']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈluːt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [salute](/en/post/salute/) is [a](/en/post/a/) [gesture](/en/post/gesture/), [action](/en/post/action/), [or](/en/post/or/) [expression](/en/post/expression/) [of](/en/post/of/) [respect](/en/post/respect/), [often](/en/post/often/) involving raising one's [hand](/en/post/hand/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [manner](/en/post/manner/) ([such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [military](/en/post/military/) [salute](/en/post/salute/)), [as](/en/post/as/) [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [greeting](/en/post/greeting/), [or](/en/post/or/) acknowledging someone's [presence](/en/post/presence/) [or](/en/post/or/) [achievement](/en/post/achievement/).
+### [Noun](/post/noun/)
+[A](/post/a/) [salute](/post/salute/) is [a](/post/a/) [gesture](/post/gesture/), [action](/post/action/), [or](/post/or/) [expression](/post/expression/) [of](/post/of/) [respect](/post/respect/), [often](/post/often/) involving raising one's [hand](/post/hand/) [in](/post/in/) [a](/post/a/) [specific](/post/specific/) [manner](/post/manner/) ([such](/post/such/) [as](/post/as/) [a](/post/a/) [military](/post/military/) [salute](/post/salute/)), [as](/post/as/) [a](/post/a/) [form](/post/form/) [of](/post/of/) [greeting](/post/greeting/), [or](/post/or/) acknowledging someone's [presence](/post/presence/) [or](/post/or/) [achievement](/post/achievement/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [salute](/en/post/salute/) is [to](/en/post/to/) [perform](/en/post/perform/) [a](/en/post/a/) [gesture](/en/post/gesture/) [of](/en/post/of/) [respect](/en/post/respect/), [often](/en/post/often/) [by](/en/post/by/) raising one's [hand](/en/post/hand/), [as](/en/post/as/) [a](/en/post/a/) [sign](/en/post/sign/) [of](/en/post/of/) honor, [greeting](/en/post/greeting/), [or](/en/post/or/) [recognition](/en/post/recognition/). [This](/en/post/this/) [can](/en/post/can/) [apply](/en/post/apply/) [to](/en/post/to/) [military](/en/post/military/) [personnel](/en/post/personnel/), flags, [or](/en/post/or/) individuals.
+### [Verb](/post/verb/)
+[To](/post/to/) [salute](/post/salute/) is [to](/post/to/) [perform](/post/perform/) [a](/post/a/) [gesture](/post/gesture/) [of](/post/of/) [respect](/post/respect/), [often](/post/often/) [by](/post/by/) raising one's [hand](/post/hand/), [as](/post/as/) [a](/post/a/) [sign](/post/sign/) [of](/post/of/) honor, [greeting](/post/greeting/), [or](/post/or/) [recognition](/post/recognition/). [This](/post/this/) [can](/post/can/) [apply](/post/apply/) [to](/post/to/) [military](/post/military/) [personnel](/post/personnel/), flags, [or](/post/or/) individuals.
 
-### [Adjective](/en/post/adjective/)
-Salutary refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [beneficial](/en/post/beneficial/) [or](/en/post/or/) conducive [to](/en/post/to/) [health](/en/post/health/).
+### [Adjective](/post/adjective/)
+Salutary refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is [beneficial](/post/beneficial/) [or](/post/or/) conducive [to](/post/to/) [health](/post/health/).
 
 ## Phrases
-- "[Return](/en/post/return/) [the](/en/post/the/) [salute](/en/post/salute/)" [means](/en/post/means/) [to](/en/post/to/) [respond](/en/post/respond/) [with](/en/post/with/) [the](/en/post/the/) [same](/en/post/same/) [gesture](/en/post/gesture/) [or](/en/post/or/) [show](/en/post/show/) [of](/en/post/of/) [respect](/en/post/respect/).
-- "[Give](/en/post/give/) [a](/en/post/a/) [salute](/en/post/salute/) [to](/en/post/to/) [someone](/en/post/someone/)" denotes acknowledging [their](/en/post/their/) [presence](/en/post/presence/) [or](/en/post/or/) [achievement](/en/post/achievement/).
-- "[Formal](/en/post/formal/) [salute](/en/post/salute/)" signifies [a](/en/post/a/) [more](/en/post/more/) ceremonial [or](/en/post/or/) [official](/en/post/official/) [manner](/en/post/manner/) [of](/en/post/of/) [greeting](/en/post/greeting/).
+- "[Return](/post/return/) [the](/post/the/) [salute](/post/salute/)" [means](/post/means/) [to](/post/to/) [respond](/post/respond/) [with](/post/with/) [the](/post/the/) [same](/post/same/) [gesture](/post/gesture/) [or](/post/or/) [show](/post/show/) [of](/post/of/) [respect](/post/respect/).
+- "[Give](/post/give/) [a](/post/a/) [salute](/post/salute/) [to](/post/to/) [someone](/post/someone/)" denotes acknowledging [their](/post/their/) [presence](/post/presence/) [or](/post/or/) [achievement](/post/achievement/).
+- "[Formal](/post/formal/) [salute](/post/salute/)" signifies [a](/post/a/) [more](/post/more/) ceremonial [or](/post/or/) [official](/post/official/) [manner](/post/manner/) [of](/post/of/) [greeting](/post/greeting/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) soldiers stood [at](/en/post/at/) [attention](/en/post/attention/), saluting [their](/en/post/their/) [commander](/en/post/commander/)."
-- **[Verb](/en/post/verb/)**: "[When](/en/post/when/) [he](/en/post/he/) finished [his](/en/post/his/) presentation, [the](/en/post/the/) [audience](/en/post/audience/) gave [him](/en/post/him/) [a](/en/post/a/) thunderous [salute](/en/post/salute/)."
-- **[Adjective](/en/post/adjective/)**: "[A](/en/post/a/) salutary lifestyle includes [regular](/en/post/regular/) [exercise](/en/post/exercise/) [and](/en/post/and/) [a](/en/post/a/) balanced diet."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) soldiers stood [at](/post/at/) [attention](/post/attention/), saluting [their](/post/their/) [commander](/post/commander/)."
+- **[Verb](/post/verb/)**: "[When](/post/when/) [he](/post/he/) finished [his](/post/his/) presentation, [the](/post/the/) [audience](/post/audience/) gave [him](/post/him/) [a](/post/a/) thunderous [salute](/post/salute/)."
+- **[Adjective](/post/adjective/)**: "[A](/post/a/) salutary lifestyle includes [regular](/post/regular/) [exercise](/post/exercise/) [and](/post/and/) [a](/post/a/) balanced diet."
 
 ## Synonyms
 - Acknowledge
 - Honor
-- [Tip](/en/post/tip/) one's [hat](/en/post/hat/)
-- [Bow](/en/post/bow/)
-- [Wave](/en/post/wave/)
+- [Tip](/post/tip/) one's [hat](/post/hat/)
+- [Bow](/post/bow/)
+- [Wave](/post/wave/)
 - Applaud
-- [Pay](/en/post/pay/) tribute
-- [Raise](/en/post/raise/) [a](/en/post/a/) [toast](/en/post/toast/)
+- [Pay](/post/pay/) tribute
+- [Raise](/post/raise/) [a](/post/a/) [toast](/post/toast/)

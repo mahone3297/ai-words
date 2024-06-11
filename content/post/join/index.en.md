@@ -7,45 +7,45 @@ description = '[dʒɔin] vt.参加；连接'
 keywords = ['ai words', 'join']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dʒɔɪn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [connect](/en/post/connect/) [or](/en/post/or/) [bring](/en/post/bring/) [together](/en/post/together/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) things [so](/en/post/so/) [they](/en/post/they/) [become](/en/post/become/) attached [or](/en/post/or/) united. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) joined [the](/en/post/the/) pieces [of](/en/post/of/) [wood](/en/post/wood/) [with](/en/post/with/) [glue](/en/post/glue/)."
-  - [To](/en/post/to/) [come](/en/post/come/) [together](/en/post/together/) [or](/en/post/or/) [meet](/en/post/meet/) [at](/en/post/at/) [a](/en/post/a/) [point](/en/post/point/) [or](/en/post/or/) [line](/en/post/line/); [to](/en/post/to/) [unite](/en/post/unite/) physically.
-    [Example](/en/post/example/): "[The](/en/post/the/) [river](/en/post/river/) joins [the](/en/post/the/) [sea](/en/post/sea/) [at](/en/post/at/) [this](/en/post/this/) estuary."
-  - [To](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/), [organization](/en/post/organization/), [or](/en/post/or/) [club](/en/post/club/).
-    [Example](/en/post/example/): "[He](/en/post/he/) decided [to](/en/post/to/) [join](/en/post/join/) [the](/en/post/the/) [local](/en/post/local/) [chess](/en/post/chess/) [club](/en/post/club/)."
-  - [To](/en/post/to/) [participate](/en/post/participate/) [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) an [activity](/en/post/activity/) [together](/en/post/together/) [with](/en/post/with/) others.
-    [Example](/en/post/example/): "[They](/en/post/they/) invited [us](/en/post/us/) [to](/en/post/to/) [join](/en/post/join/) [them](/en/post/them/) [for](/en/post/for/) [dinner](/en/post/dinner/)."
-  - [In](/en/post/in/) computing, [to](/en/post/to/) [connect](/en/post/connect/) [to](/en/post/to/) [or](/en/post/or/) [log](/en/post/log/) [on](/en/post/on/) [to](/en/post/to/) [a](/en/post/a/) [network](/en/post/network/) [or](/en/post/or/) [system](/en/post/system/).
-    [Example](/en/post/example/): "Users [must](/en/post/must/) [join](/en/post/join/) [the](/en/post/the/) server [before](/en/post/before/) accessing shared files."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [connect](/post/connect/) [or](/post/or/) [bring](/post/bring/) [together](/post/together/) [two](/post/two/) [or](/post/or/) [more](/post/more/) things [so](/post/so/) [they](/post/they/) [become](/post/become/) attached [or](/post/or/) united. [For](/post/for/) [example](/post/example/): "[She](/post/she/) joined [the](/post/the/) pieces [of](/post/of/) [wood](/post/wood/) [with](/post/with/) [glue](/post/glue/)."
+  - [To](/post/to/) [come](/post/come/) [together](/post/together/) [or](/post/or/) [meet](/post/meet/) [at](/post/at/) [a](/post/a/) [point](/post/point/) [or](/post/or/) [line](/post/line/); [to](/post/to/) [unite](/post/unite/) physically.
+    [Example](/post/example/): "[The](/post/the/) [river](/post/river/) joins [the](/post/the/) [sea](/post/sea/) [at](/post/at/) [this](/post/this/) estuary."
+  - [To](/post/to/) [become](/post/become/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [group](/post/group/), [organization](/post/organization/), [or](/post/or/) [club](/post/club/).
+    [Example](/post/example/): "[He](/post/he/) decided [to](/post/to/) [join](/post/join/) [the](/post/the/) [local](/post/local/) [chess](/post/chess/) [club](/post/club/)."
+  - [To](/post/to/) [participate](/post/participate/) [or](/post/or/) [engage](/post/engage/) [in](/post/in/) an [activity](/post/activity/) [together](/post/together/) [with](/post/with/) others.
+    [Example](/post/example/): "[They](/post/they/) invited [us](/post/us/) [to](/post/to/) [join](/post/join/) [them](/post/them/) [for](/post/for/) [dinner](/post/dinner/)."
+  - [In](/post/in/) computing, [to](/post/to/) [connect](/post/connect/) [to](/post/to/) [or](/post/or/) [log](/post/log/) [on](/post/on/) [to](/post/to/) [a](/post/a/) [network](/post/network/) [or](/post/or/) [system](/post/system/).
+    [Example](/post/example/): "Users [must](/post/must/) [join](/post/join/) [the](/post/the/) server [before](/post/before/) accessing shared files."
 
-- **[Noun](/en/post/noun/)**: (n)
-  - [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) joining [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) joined.
-    [Example](/en/post/example/): "[Their](/en/post/their/) hands remained [in](/en/post/in/) [a](/en/post/a/) [firm](/en/post/firm/) [join](/en/post/join/) [throughout](/en/post/throughout/) [the](/en/post/the/) [ceremony](/en/post/ceremony/)."
-  - [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [two](/en/post/two/) things are connected [or](/en/post/or/) [meet](/en/post/meet/).
-    [Example](/en/post/example/): "[The](/en/post/the/) [join](/en/post/join/) [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) pipes needs [to](/en/post/to/) [be](/en/post/be/) sealed [properly](/en/post/properly/)."
-  - [In](/en/post/in/) database terms, [a](/en/post/a/) [join](/en/post/join/) refers [to](/en/post/to/) [the](/en/post/the/) [operation](/en/post/operation/) [that](/en/post/that/) combines rows [from](/en/post/from/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) tables based [on](/en/post/on/) [a](/en/post/a/) related [column](/en/post/column/) [between](/en/post/between/) [them](/en/post/them/).
+- **[Noun](/post/noun/)**: (n)
+  - [The](/post/the/) [act](/post/act/) [of](/post/of/) joining [or](/post/or/) [the](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) joined.
+    [Example](/post/example/): "[Their](/post/their/) hands remained [in](/post/in/) [a](/post/a/) [firm](/post/firm/) [join](/post/join/) [throughout](/post/throughout/) [the](/post/the/) [ceremony](/post/ceremony/)."
+  - [A](/post/a/) [place](/post/place/) [where](/post/where/) [two](/post/two/) things are connected [or](/post/or/) [meet](/post/meet/).
+    [Example](/post/example/): "[The](/post/the/) [join](/post/join/) [between](/post/between/) [the](/post/the/) [two](/post/two/) pipes needs [to](/post/to/) [be](/post/be/) sealed [properly](/post/properly/)."
+  - [In](/post/in/) database terms, [a](/post/a/) [join](/post/join/) refers [to](/post/to/) [the](/post/the/) [operation](/post/operation/) [that](/post/that/) combines rows [from](/post/from/) [two](/post/two/) [or](/post/or/) [more](/post/more/) tables based [on](/post/on/) [a](/post/a/) related [column](/post/column/) [between](/post/between/) [them](/post/them/).
 
 ## Phrases
-- "[Join](/en/post/join/) forces": [Unite](/en/post/unite/) efforts [or](/en/post/or/) resources [with](/en/post/with/) [another](/en/post/another/) [person](/en/post/person/) [or](/en/post/or/) [group](/en/post/group/) [for](/en/post/for/) [a](/en/post/a/) [common](/en/post/common/) [purpose](/en/post/purpose/).
-- "[Join](/en/post/join/) [in](/en/post/in/)": [Participate](/en/post/participate/) [or](/en/post/or/) [become](/en/post/become/) involved [in](/en/post/in/) an [activity](/en/post/activity/) [already](/en/post/already/) [being](/en/post/being/) undertaken [by](/en/post/by/) others.
-- "[Join](/en/post/join/) [up](/en/post/up/)": Enlist [in](/en/post/in/) [the](/en/post/the/) [military](/en/post/military/) [or](/en/post/or/) [become](/en/post/become/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) an [organization](/en/post/organization/).
+- "[Join](/post/join/) forces": [Unite](/post/unite/) efforts [or](/post/or/) resources [with](/post/with/) [another](/post/another/) [person](/post/person/) [or](/post/or/) [group](/post/group/) [for](/post/for/) [a](/post/a/) [common](/post/common/) [purpose](/post/purpose/).
+- "[Join](/post/join/) [in](/post/in/)": [Participate](/post/participate/) [or](/post/or/) [become](/post/become/) involved [in](/post/in/) an [activity](/post/activity/) [already](/post/already/) [being](/post/being/) undertaken [by](/post/by/) others.
+- "[Join](/post/join/) [up](/post/up/)": Enlist [in](/post/in/) [the](/post/the/) [military](/post/military/) [or](/post/or/) [become](/post/become/) [a](/post/a/) [member](/post/member/) [of](/post/of/) an [organization](/post/organization/).
   
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "We're going [to](/en/post/to/) [join](/en/post/join/) [the](/en/post/the/) hiking [club](/en/post/club/) [this](/en/post/this/) [weekend](/en/post/weekend/)."
-- "[The](/en/post/the/) [artist](/en/post/artist/) carefully joined [the](/en/post/the/) colors [on](/en/post/on/) [the](/en/post/the/) [canvas](/en/post/canvas/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) seamless [image](/en/post/image/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [join](/en/post/join/) [between](/en/post/between/) [the](/en/post/the/) [old](/en/post/old/) [and](/en/post/and/) [new](/en/post/new/) brickwork was [almost](/en/post/almost/) [invisible](/en/post/invisible/)."
-- "[A](/en/post/a/) database [join](/en/post/join/) allows [us](/en/post/us/) [to](/en/post/to/) retrieve [data](/en/post/data/) [from](/en/post/from/) [multiple](/en/post/multiple/) tables simultaneously."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "We're going [to](/post/to/) [join](/post/join/) [the](/post/the/) hiking [club](/post/club/) [this](/post/this/) [weekend](/post/weekend/)."
+- "[The](/post/the/) [artist](/post/artist/) carefully joined [the](/post/the/) colors [on](/post/on/) [the](/post/the/) [canvas](/post/canvas/) [to](/post/to/) [create](/post/create/) [a](/post/a/) seamless [image](/post/image/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [join](/post/join/) [between](/post/between/) [the](/post/the/) [old](/post/old/) [and](/post/and/) [new](/post/new/) brickwork was [almost](/post/almost/) [invisible](/post/invisible/)."
+- "[A](/post/a/) database [join](/post/join/) allows [us](/post/us/) [to](/post/to/) retrieve [data](/post/data/) [from](/post/from/) [multiple](/post/multiple/) tables simultaneously."
 
 ## Synonyms
-- [Connect](/en/post/connect/)
-- [Unite](/en/post/unite/)
-- [Combine](/en/post/combine/)
+- [Connect](/post/connect/)
+- [Unite](/post/unite/)
+- [Combine](/post/combine/)
 - Merge
-- [Link](/en/post/link/)
-- Affiliate ([with](/en/post/with/))
-- [Attach](/en/post/attach/)
+- [Link](/post/link/)
+- Affiliate ([with](/post/with/))
+- [Attach](/post/attach/)
 - Integrate
-- Enlist ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [meaning](/en/post/meaning/) '[to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) [member](/en/post/member/)')
+- Enlist ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [meaning](/post/meaning/) '[to](/post/to/) [become](/post/become/) [a](/post/a/) [member](/post/member/)')

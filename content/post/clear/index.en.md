@@ -7,44 +7,44 @@ description = '[kliə] a.清晰的 vt.清除'
 keywords = ['ai words', 'clear']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kliə/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [free](/en/post/free/) [from](/en/post/from/) obstruction, cloudiness, [or](/en/post/or/) [confusion](/en/post/confusion/); transparency. **[Example](/en/post/example/):** "[The](/en/post/the/) [sky](/en/post/sky/) was [clear](/en/post/clear/) [after](/en/post/after/) [the](/en/post/the/) [rain](/en/post/rain/)."
-2. [Evident](/en/post/evident/) [or](/en/post/or/) [easily](/en/post/easily/) understandable; unambiguous. **[Example](/en/post/example/):** "[Her](/en/post/her/) instructions were [clear](/en/post/clear/) [and](/en/post/and/) concise."
-3. [Free](/en/post/free/) [from](/en/post/from/) [dirt](/en/post/dirt/) [or](/en/post/or/) impurities. **[Example](/en/post/example/):** "[A](/en/post/a/) [clear](/en/post/clear/) [stream](/en/post/stream/) runs [through](/en/post/through/) [the](/en/post/the/) [forest](/en/post/forest/)."
-4. (Computing) [Free](/en/post/free/) [from](/en/post/from/) errors [or](/en/post/or/) bugs. **[Example](/en/post/example/):** "[The](/en/post/the/) software had [a](/en/post/a/) [clear](/en/post/clear/) interface."
+### [Noun](/post/noun/)
+1. [The](/post/the/) [state](/post/state/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [free](/post/free/) [from](/post/from/) obstruction, cloudiness, [or](/post/or/) [confusion](/post/confusion/); transparency. **[Example](/post/example/):** "[The](/post/the/) [sky](/post/sky/) was [clear](/post/clear/) [after](/post/after/) [the](/post/the/) [rain](/post/rain/)."
+2. [Evident](/post/evident/) [or](/post/or/) [easily](/post/easily/) understandable; unambiguous. **[Example](/post/example/):** "[Her](/post/her/) instructions were [clear](/post/clear/) [and](/post/and/) concise."
+3. [Free](/post/free/) [from](/post/from/) [dirt](/post/dirt/) [or](/post/or/) impurities. **[Example](/post/example/):** "[A](/post/a/) [clear](/post/clear/) [stream](/post/stream/) runs [through](/post/through/) [the](/post/the/) [forest](/post/forest/)."
+4. (Computing) [Free](/post/free/) [from](/post/from/) errors [or](/post/or/) bugs. **[Example](/post/example/):** "[The](/post/the/) software had [a](/post/a/) [clear](/post/clear/) interface."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [transparent](/en/post/transparent/) [or](/en/post/or/) unobstructed. **[Example](/en/post/example/):** "I cleared [the](/en/post/the/) [fog](/en/post/fog/) [from](/en/post/from/) [the](/en/post/the/) windshield."
-2. [To](/en/post/to/) [remove](/en/post/remove/) [or](/en/post/or/) [eliminate](/en/post/eliminate/) [something](/en/post/something/), [especially](/en/post/especially/) an [obstacle](/en/post/obstacle/) [or](/en/post/or/) [difficulty](/en/post/difficulty/). **[Example](/en/post/example/):** "[She](/en/post/she/) cleared [her](/en/post/her/) [throat](/en/post/throat/) [before](/en/post/before/) speaking."
-3. (Internet) [To](/en/post/to/) [remove](/en/post/remove/) [or](/en/post/or/) [delete](/en/post/delete/) [something](/en/post/something/), [often](/en/post/often/) messages [or](/en/post/or/) [content](/en/post/content/). **[Example](/en/post/example/):** "[He](/en/post/he/) cleared [his](/en/post/his/) chat [history](/en/post/history/)."
-4. (Informal) [To](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) comprehend [clearly](/en/post/clearly/). **[Example](/en/post/example/):** "[Could](/en/post/could/) [you](/en/post/you/) [please](/en/post/please/) [clear](/en/post/clear/) [this](/en/post/this/) [concept](/en/post/concept/) [for](/en/post/for/) [me](/en/post/me/)?"
+### [Verb](/post/verb/)
+1. [To](/post/to/) [make](/post/make/) [something](/post/something/) [transparent](/post/transparent/) [or](/post/or/) unobstructed. **[Example](/post/example/):** "I cleared [the](/post/the/) [fog](/post/fog/) [from](/post/from/) [the](/post/the/) windshield."
+2. [To](/post/to/) [remove](/post/remove/) [or](/post/or/) [eliminate](/post/eliminate/) [something](/post/something/), [especially](/post/especially/) an [obstacle](/post/obstacle/) [or](/post/or/) [difficulty](/post/difficulty/). **[Example](/post/example/):** "[She](/post/she/) cleared [her](/post/her/) [throat](/post/throat/) [before](/post/before/) speaking."
+3. (Internet) [To](/post/to/) [remove](/post/remove/) [or](/post/or/) [delete](/post/delete/) [something](/post/something/), [often](/post/often/) messages [or](/post/or/) [content](/post/content/). **[Example](/post/example/):** "[He](/post/he/) cleared [his](/post/his/) chat [history](/post/history/)."
+4. (Informal) [To](/post/to/) [understand](/post/understand/) [or](/post/or/) comprehend [clearly](/post/clearly/). **[Example](/post/example/):** "[Could](/post/could/) [you](/post/you/) [please](/post/please/) [clear](/post/clear/) [this](/post/this/) [concept](/post/concept/) [for](/post/for/) [me](/post/me/)?"
 
-### [Adjective](/en/post/adjective/)
-1. Expressing clarity [or](/en/post/or/) transparency. **[Example](/en/post/example/):** "[A](/en/post/a/) [clear](/en/post/clear/) [explanation](/en/post/explanation/) helps [with](/en/post/with/) [understanding](/en/post/understanding/)."
-2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [bright](/en/post/bright/), [open](/en/post/open/) [day](/en/post/day/). **[Example](/en/post/example/):** "[We](/en/post/we/) had [a](/en/post/a/) [clear](/en/post/clear/) [blue](/en/post/blue/) [sky](/en/post/sky/) [on](/en/post/on/) [our](/en/post/our/) hike."
-3. [Direct](/en/post/direct/) [and](/en/post/and/) straightforward. **[Example](/en/post/example/):** "[His](/en/post/his/) [writing](/en/post/writing/) [style](/en/post/style/) is [very](/en/post/very/) [clear](/en/post/clear/)."
+### [Adjective](/post/adjective/)
+1. Expressing clarity [or](/post/or/) transparency. **[Example](/post/example/):** "[A](/post/a/) [clear](/post/clear/) [explanation](/post/explanation/) helps [with](/post/with/) [understanding](/post/understanding/)."
+2. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [bright](/post/bright/), [open](/post/open/) [day](/post/day/). **[Example](/post/example/):** "[We](/post/we/) had [a](/post/a/) [clear](/post/clear/) [blue](/post/blue/) [sky](/post/sky/) [on](/post/on/) [our](/post/our/) hike."
+3. [Direct](/post/direct/) [and](/post/and/) straightforward. **[Example](/post/example/):** "[His](/post/his/) [writing](/post/writing/) [style](/post/style/) is [very](/post/very/) [clear](/post/clear/)."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) [clear](/en/post/clear/) [manner](/en/post/manner/) [or](/en/post/or/) [with](/en/post/with/) [no](/en/post/no/) obstructions. **[Example](/en/post/example/):** "[Speak](/en/post/speak/) [as](/en/post/as/) [clearly](/en/post/clearly/) [as](/en/post/as/) [you](/en/post/you/) [can](/en/post/can/)."
-2. [Clearly](/en/post/clearly/) [and](/en/post/and/) [directly](/en/post/directly/). **[Example](/en/post/example/):** "[She](/en/post/she/) answered [the](/en/post/the/) [question](/en/post/question/) [clearly](/en/post/clearly/)."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) [clear](/post/clear/) [manner](/post/manner/) [or](/post/or/) [with](/post/with/) [no](/post/no/) obstructions. **[Example](/post/example/):** "[Speak](/post/speak/) [as](/post/as/) [clearly](/post/clearly/) [as](/post/as/) [you](/post/you/) [can](/post/can/)."
+2. [Clearly](/post/clearly/) [and](/post/and/) [directly](/post/directly/). **[Example](/post/example/):** "[She](/post/she/) answered [the](/post/the/) [question](/post/question/) [clearly](/post/clearly/)."
 
 ## Phrases
-- "[Clear](/en/post/clear/) [the](/en/post/the/) [air](/en/post/air/)" [means](/en/post/means/) [to](/en/post/to/) [resolve](/en/post/resolve/) [a](/en/post/a/) misunderstanding [or](/en/post/or/) disagreement.
-- "[Clear](/en/post/clear/) sailing" refers [to](/en/post/to/) [smooth](/en/post/smooth/) [progress](/en/post/progress/) [without](/en/post/without/) problems.
-- "[Clear](/en/post/clear/) [your](/en/post/your/) [mind](/en/post/mind/)" suggests concentrating [or](/en/post/or/) calming one's thoughts.
+- "[Clear](/post/clear/) [the](/post/the/) [air](/post/air/)" [means](/post/means/) [to](/post/to/) [resolve](/post/resolve/) [a](/post/a/) misunderstanding [or](/post/or/) disagreement.
+- "[Clear](/post/clear/) sailing" refers [to](/post/to/) [smooth](/post/smooth/) [progress](/post/progress/) [without](/post/without/) problems.
+- "[Clear](/post/clear/) [your](/post/your/) [mind](/post/mind/)" suggests concentrating [or](/post/or/) calming one's thoughts.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [for](/en/post/for/) [a](/en/post/a/) [clear](/en/post/clear/) demonstration [of](/en/post/of/) [the](/en/post/the/) [experiment](/en/post/experiment/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) cleared [the](/en/post/the/) [table](/en/post/table/) [of](/en/post/of/) [all](/en/post/all/) [the](/en/post/the/) dishes [before](/en/post/before/) starting."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) teacher's instructions were given [in](/en/post/in/) [a](/en/post/a/) [clear](/en/post/clear/) [voice](/en/post/voice/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) spoke [clearly](/en/post/clearly/) [so](/en/post/so/) [everyone](/en/post/everyone/) [could](/en/post/could/) [hear](/en/post/hear/) [him](/en/post/him/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [teacher](/post/teacher/) asked [for](/post/for/) [a](/post/a/) [clear](/post/clear/) demonstration [of](/post/of/) [the](/post/the/) [experiment](/post/experiment/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) cleared [the](/post/the/) [table](/post/table/) [of](/post/of/) [all](/post/all/) [the](/post/the/) dishes [before](/post/before/) starting."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) teacher's instructions were given [in](/post/in/) [a](/post/a/) [clear](/post/clear/) [voice](/post/voice/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) spoke [clearly](/post/clearly/) [so](/post/so/) [everyone](/post/everyone/) [could](/post/could/) [hear](/post/hear/) [him](/post/him/)."
 
 ## Synonyms
-- [Transparent](/en/post/transparent/)
+- [Transparent](/post/transparent/)
 - Unclouded
 - Unobstructed
 - Unmistakable

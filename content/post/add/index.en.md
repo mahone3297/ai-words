@@ -7,38 +7,38 @@ description = '[æd] vt.添加，附加，掺加'
 keywords = ['ai words', 'add']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈd/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [include](/en/post/include/) [or](/en/post/or/) incorporate [something](/en/post/something/), [usually](/en/post/usually/) [with](/en/post/with/) [the](/en/post/the/) [help](/en/post/help/) [of](/en/post/of/) [a](/en/post/a/) [plus](/en/post/plus/) [sign](/en/post/sign/) (+) [or](/en/post/or/) [by](/en/post/by/) adding numbers [or](/en/post/or/) items [together](/en/post/together/). 
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) adding, [sum](/en/post/sum/), [or](/en/post/or/) [extra](/en/post/extra/) [quantity](/en/post/quantity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) recipe calls [for](/en/post/for/) an [additional](/en/post/additional/) tablespoon [of](/en/post/of/) [sugar](/en/post/sugar/)."
-- **[Preposition](/en/post/preposition/)**: [In](/en/post/in/) [connection](/en/post/connection/) [with](/en/post/with/) [addition](/en/post/addition/), [such](/en/post/such/) [as](/en/post/as/) "[add](/en/post/add/) [to](/en/post/to/)" [or](/en/post/or/) "[add](/en/post/add/) [up](/en/post/up/) [to](/en/post/to/)." 
+- **[Verb](/post/verb/)**: [To](/post/to/) [include](/post/include/) [or](/post/or/) incorporate [something](/post/something/), [usually](/post/usually/) [with](/post/with/) [the](/post/the/) [help](/post/help/) [of](/post/of/) [a](/post/a/) [plus](/post/plus/) [sign](/post/sign/) (+) [or](/post/or/) [by](/post/by/) adding numbers [or](/post/or/) items [together](/post/together/). 
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) adding, [sum](/post/sum/), [or](/post/or/) [extra](/post/extra/) [quantity](/post/quantity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) recipe calls [for](/post/for/) an [additional](/post/additional/) tablespoon [of](/post/of/) [sugar](/post/sugar/)."
+- **[Preposition](/post/preposition/)**: [In](/post/in/) [connection](/post/connection/) [with](/post/with/) [addition](/post/addition/), [such](/post/such/) [as](/post/as/) "[add](/post/add/) [to](/post/to/)" [or](/post/or/) "[add](/post/add/) [up](/post/up/) [to](/post/to/)." 
 
 ## Phrases
-- "[Add](/en/post/add/) [it](/en/post/it/) [to](/en/post/to/) [the](/en/post/the/) [list](/en/post/list/)" [means](/en/post/means/) [to](/en/post/to/) [include](/en/post/include/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [collection](/en/post/collection/) [or](/en/post/or/) [series](/en/post/series/).
-- "[Add](/en/post/add/) [insult](/en/post/insult/) [to](/en/post/to/) [injury](/en/post/injury/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) [used](/en/post/used/) [when](/en/post/when/) [something](/en/post/something/) makes [a](/en/post/a/) [bad](/en/post/bad/) [situation](/en/post/situation/) [worse](/en/post/worse/).
-- "[Add](/en/post/add/) [value](/en/post/value/)" refers [to](/en/post/to/) improving [the](/en/post/the/) [worth](/en/post/worth/) [or](/en/post/or/) usefulness [of](/en/post/of/) [something](/en/post/something/).
+- "[Add](/post/add/) [it](/post/it/) [to](/post/to/) [the](/post/the/) [list](/post/list/)" [means](/post/means/) [to](/post/to/) [include](/post/include/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [collection](/post/collection/) [or](/post/or/) [series](/post/series/).
+- "[Add](/post/add/) [insult](/post/insult/) [to](/post/to/) [injury](/post/injury/)" is [a](/post/a/) [phrase](/post/phrase/) [used](/post/used/) [when](/post/when/) [something](/post/something/) makes [a](/post/a/) [bad](/post/bad/) [situation](/post/situation/) [worse](/post/worse/).
+- "[Add](/post/add/) [value](/post/value/)" refers [to](/post/to/) improving [the](/post/the/) [worth](/post/worth/) [or](/post/or/) usefulness [of](/post/of/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[Please](/en/post/please/) [add](/en/post/add/) [the](/en/post/the/) [milk](/en/post/milk/) [to](/en/post/to/) [the](/en/post/the/) [coffee](/en/post/coffee/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [total](/en/post/total/) [cost](/en/post/cost/) [of](/en/post/of/) [the](/en/post/the/) [trip](/en/post/trip/) adds [up](/en/post/up/) [to](/en/post/to/) $1000."
-- **[Preposition](/en/post/preposition/)**: "[She](/en/post/she/) added [a](/en/post/a/) [note](/en/post/note/) [to](/en/post/to/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [report](/en/post/report/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[Please](/post/please/) [add](/post/add/) [the](/post/the/) [milk](/post/milk/) [to](/post/to/) [the](/post/the/) [coffee](/post/coffee/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [total](/post/total/) [cost](/post/cost/) [of](/post/of/) [the](/post/the/) [trip](/post/trip/) adds [up](/post/up/) [to](/post/to/) $1000."
+- **[Preposition](/post/preposition/)**: "[She](/post/she/) added [a](/post/a/) [note](/post/note/) [to](/post/to/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [report](/post/report/)."
 
 ## Synonyms
-- [Include](/en/post/include/)
+- [Include](/post/include/)
 - Incorporate
-- [Sum](/en/post/sum/)
-- [Increase](/en/post/increase/)
+- [Sum](/post/sum/)
+- [Increase](/post/increase/)
 - Enhance
 - Boost
-- [Add](/en/post/add/) [up](/en/post/up/)
-- [Total](/en/post/total/)
+- [Add](/post/add/) [up](/post/up/)
+- [Total](/post/total/)
 
 ## Antonyms
-- [Subtract](/en/post/subtract/)
-- [Remove](/en/post/remove/)
-- [Decrease](/en/post/decrease/)
+- [Subtract](/post/subtract/)
+- [Remove](/post/remove/)
+- [Decrease](/post/decrease/)
 - Deduct
-- [Minus](/en/post/minus/)
-- [Reduce](/en/post/reduce/)
+- [Minus](/post/minus/)
+- [Reduce](/post/reduce/)

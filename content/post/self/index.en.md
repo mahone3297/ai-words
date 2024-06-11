@@ -7,33 +7,33 @@ description = '[self] n.自我，自己'
 keywords = ['ai words', 'self']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[self](/en/post/self/)/
+## [Pronunciation](/post/pronunciation/)
+/[self](/post/self/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) reflexive [form](/en/post/form/) [of](/en/post/of/) [the](/en/post/the/) [pronoun](/en/post/pronoun/) 'I', referring [to](/en/post/to/) [oneself](/en/post/oneself/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [proud](/en/post/proud/) [of](/en/post/of/) [her](/en/post/her/) self-improvement."
-   2. An [essential](/en/post/essential/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) person's identity, [character](/en/post/character/), [or](/en/post/or/) [consciousness](/en/post/consciousness/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) [strong](/en/post/strong/) [sense](/en/post/sense/) [of](/en/post/of/) self-confidence."
-- **[Adjective](/en/post/adjective/)**: Characterizing [oneself](/en/post/oneself/); self-referential. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) self-driven [approach](/en/post/approach/) [to](/en/post/to/) [learning](/en/post/learning/) is [beneficial](/en/post/beneficial/)."
-- **[Pronoun](/en/post/pronoun/)**: Referring [back](/en/post/back/) [to](/en/post/to/) [oneself](/en/post/oneself/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) asked [himself](/en/post/himself/) [what](/en/post/what/) [he](/en/post/he/) [should](/en/post/should/) [do](/en/post/do/) [next](/en/post/next/)."
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) reflexive [form](/post/form/) [of](/post/of/) [the](/post/the/) [pronoun](/post/pronoun/) 'I', referring [to](/post/to/) [oneself](/post/oneself/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was [proud](/post/proud/) [of](/post/of/) [her](/post/her/) self-improvement."
+   2. An [essential](/post/essential/) [part](/post/part/) [of](/post/of/) [a](/post/a/) person's identity, [character](/post/character/), [or](/post/or/) [consciousness](/post/consciousness/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) had [a](/post/a/) [strong](/post/strong/) [sense](/post/sense/) [of](/post/of/) self-confidence."
+- **[Adjective](/post/adjective/)**: Characterizing [oneself](/post/oneself/); self-referential. [For](/post/for/) [example](/post/example/): "[The](/post/the/) self-driven [approach](/post/approach/) [to](/post/to/) [learning](/post/learning/) is [beneficial](/post/beneficial/)."
+- **[Pronoun](/post/pronoun/)**: Referring [back](/post/back/) [to](/post/to/) [oneself](/post/oneself/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) asked [himself](/post/himself/) [what](/post/what/) [he](/post/he/) [should](/post/should/) [do](/post/do/) [next](/post/next/)."
 
 ## Phrases
-- "[Know](/en/post/know/) thyself" is [a](/en/post/a/) [famous](/en/post/famous/) philosophical maxim emphasizing self-awareness.
-- "Self-care" is [the](/en/post/the/) [practice](/en/post/practice/) [of](/en/post/of/) taking [care](/en/post/care/) [of](/en/post/of/) one's [mental](/en/post/mental/) [and](/en/post/and/) [physical](/en/post/physical/) well-being.
-- "Selflessness" is [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) unselfish [or](/en/post/or/) disinterested [in](/en/post/in/) one's [own](/en/post/own/) [gain](/en/post/gain/).
+- "[Know](/post/know/) thyself" is [a](/post/a/) [famous](/post/famous/) philosophical maxim emphasizing self-awareness.
+- "Self-care" is [the](/post/the/) [practice](/post/practice/) [of](/post/of/) taking [care](/post/care/) [of](/post/of/) one's [mental](/post/mental/) [and](/post/and/) [physical](/post/physical/) well-being.
+- "Selflessness" is [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) unselfish [or](/post/or/) disinterested [in](/post/in/) one's [own](/post/own/) [gain](/post/gain/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) spent [time](/en/post/time/) reflecting [on](/en/post/on/) [her](/en/post/her/) [inner](/en/post/inner/) [self](/en/post/self/) [to](/en/post/to/) [find](/en/post/find/) [peace](/en/post/peace/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) self-taught skills surprised [everyone](/en/post/everyone/)."
-- **[Pronoun](/en/post/pronoun/)**: "[He](/en/post/he/) asked [his](/en/post/his/) [self](/en/post/self/) [how](/en/post/how/) [he](/en/post/he/) [could](/en/post/could/) [improve](/en/post/improve/) [his](/en/post/his/) [public](/en/post/public/) speaking."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) spent [time](/post/time/) reflecting [on](/post/on/) [her](/post/her/) [inner](/post/inner/) [self](/post/self/) [to](/post/to/) [find](/post/find/) [peace](/post/peace/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) self-taught skills surprised [everyone](/post/everyone/)."
+- **[Pronoun](/post/pronoun/)**: "[He](/post/he/) asked [his](/post/his/) [self](/post/self/) [how](/post/how/) [he](/post/he/) [could](/post/could/) [improve](/post/improve/) [his](/post/his/) [public](/post/public/) speaking."
 
 ## Synonyms
-- [Selfish](/en/post/selfish/) ([opposite](/en/post/opposite/) [meaning](/en/post/meaning/))
+- [Selfish](/post/selfish/) ([opposite](/post/opposite/) [meaning](/post/meaning/))
 - Autonomous
 - Self-reliant
-- [Conscious](/en/post/conscious/)
+- [Conscious](/post/conscious/)
 - Self-assured
 - Self-aware
 
 ---
 
-[Note](/en/post/note/): [The](/en/post/the/) "[verb](/en/post/verb/)" [definition](/en/post/definition/) [for](/en/post/for/) "[self](/en/post/self/)" is [not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) standalone [verb](/en/post/verb/) [in](/en/post/in/) [this](/en/post/this/) context, [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [compound](/en/post/compound/) words [like](/en/post/like/) "self-reflect" [or](/en/post/or/) "self-promote." [If](/en/post/if/) you're looking [for](/en/post/for/) [a](/en/post/a/) [verb](/en/post/verb/) related [to](/en/post/to/) [the](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) [self](/en/post/self/), [consider](/en/post/consider/) "[express](/en/post/express/)," "acknowledge," [or](/en/post/or/) "[realize](/en/post/realize/)" [when](/en/post/when/) discussing one's [self](/en/post/self/).
+[Note](/post/note/): [The](/post/the/) "[verb](/post/verb/)" [definition](/post/definition/) [for](/post/for/) "[self](/post/self/)" is [not](/post/not/) typically [used](/post/used/) [as](/post/as/) [a](/post/a/) standalone [verb](/post/verb/) [in](/post/in/) [this](/post/this/) context, [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [compound](/post/compound/) words [like](/post/like/) "self-reflect" [or](/post/or/) "self-promote." [If](/post/if/) you're looking [for](/post/for/) [a](/post/a/) [verb](/post/verb/) related [to](/post/to/) [the](/post/the/) [concept](/post/concept/) [of](/post/of/) [self](/post/self/), [consider](/post/consider/) "[express](/post/express/)," "acknowledge," [or](/post/or/) "[realize](/post/realize/)" [when](/post/when/) discussing one's [self](/post/self/).

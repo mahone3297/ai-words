@@ -7,32 +7,32 @@ description = '[ˈevidəns] n.根据；证据，证人'
 keywords = ['ai words', 'evidence']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɛvɪdəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [Information](/en/post/information/), facts, [or](/en/post/or/) signs [that](/en/post/that/) [help](/en/post/help/) [to](/en/post/to/) [prove](/en/post/prove/) [or](/en/post/or/) [show](/en/post/show/) [something](/en/post/something/); [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [evident](/en/post/evident/) [or](/en/post/or/) [clear](/en/post/clear/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) DNA [evidence](/en/post/evidence/) proved [his](/en/post/his/) innocence." 
-- **[Verb](/en/post/verb/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: [To](/en/post/to/) [give](/en/post/give/) [evidence](/en/post/evidence/) [or](/en/post/or/) [proof](/en/post/proof/); [to](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) [evidence](/en/post/evidence/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) tireless [work](/en/post/work/) evidenced [her](/en/post/her/) dedication [to](/en/post/to/) [the](/en/post/the/) [cause](/en/post/cause/)."
+- **[Noun](/post/noun/)**: [Information](/post/information/), facts, [or](/post/or/) signs [that](/post/that/) [help](/post/help/) [to](/post/to/) [prove](/post/prove/) [or](/post/or/) [show](/post/show/) [something](/post/something/); [the](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [evident](/post/evident/) [or](/post/or/) [clear](/post/clear/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) DNA [evidence](/post/evidence/) proved [his](/post/his/) innocence." 
+- **[Verb](/post/verb/) ([rarely](/post/rarely/) [used](/post/used/))**: [To](/post/to/) [give](/post/give/) [evidence](/post/evidence/) [or](/post/or/) [proof](/post/proof/); [to](/post/to/) [serve](/post/serve/) [as](/post/as/) [evidence](/post/evidence/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) tireless [work](/post/work/) evidenced [her](/post/her/) dedication [to](/post/to/) [the](/post/the/) [cause](/post/cause/)."
 
 ## Phrases
-- "[In](/en/post/in/) [evidence](/en/post/evidence/)": [Clearly](/en/post/clearly/) [visible](/en/post/visible/) [or](/en/post/or/) [present](/en/post/present/); [apparent](/en/post/apparent/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) nervousness was [clearly](/en/post/clearly/) [in](/en/post/in/) [evidence](/en/post/evidence/) [during](/en/post/during/) [the](/en/post/the/) [interview](/en/post/interview/)."
-- "[Beyond](/en/post/beyond/) [a](/en/post/a/) [reasonable](/en/post/reasonable/) [doubt](/en/post/doubt/)": [The](/en/post/the/) [standard](/en/post/standard/) [of](/en/post/of/) [proof](/en/post/proof/) required [in](/en/post/in/) [criminal](/en/post/criminal/) cases, [meaning](/en/post/meaning/) [the](/en/post/the/) [evidence](/en/post/evidence/) [must](/en/post/must/) [be](/en/post/be/) [so](/en/post/so/) [strong](/en/post/strong/) [that](/en/post/that/) [no](/en/post/no/) [reasonable](/en/post/reasonable/) [person](/en/post/person/) [would](/en/post/would/) [have](/en/post/have/) [any](/en/post/any/) [doubt](/en/post/doubt/) [about](/en/post/about/) [the](/en/post/the/) defendant's guilt.
-- "[Evidence](/en/post/evidence/) suggests": An [expression](/en/post/expression/) [often](/en/post/often/) [used](/en/post/used/) [when](/en/post/when/) presenting [research](/en/post/research/) findings [or](/en/post/or/) [information](/en/post/information/) [that](/en/post/that/) supports [a](/en/post/a/) [particular](/en/post/particular/) [argument](/en/post/argument/) [or](/en/post/or/) [conclusion](/en/post/conclusion/). [Example](/en/post/example/): "[Evidence](/en/post/evidence/) suggests [that](/en/post/that/) [regular](/en/post/regular/) [exercise](/en/post/exercise/) [can](/en/post/can/) [improve](/en/post/improve/) [mental](/en/post/mental/) [health](/en/post/health/)."
+- "[In](/post/in/) [evidence](/post/evidence/)": [Clearly](/post/clearly/) [visible](/post/visible/) [or](/post/or/) [present](/post/present/); [apparent](/post/apparent/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) nervousness was [clearly](/post/clearly/) [in](/post/in/) [evidence](/post/evidence/) [during](/post/during/) [the](/post/the/) [interview](/post/interview/)."
+- "[Beyond](/post/beyond/) [a](/post/a/) [reasonable](/post/reasonable/) [doubt](/post/doubt/)": [The](/post/the/) [standard](/post/standard/) [of](/post/of/) [proof](/post/proof/) required [in](/post/in/) [criminal](/post/criminal/) cases, [meaning](/post/meaning/) [the](/post/the/) [evidence](/post/evidence/) [must](/post/must/) [be](/post/be/) [so](/post/so/) [strong](/post/strong/) [that](/post/that/) [no](/post/no/) [reasonable](/post/reasonable/) [person](/post/person/) [would](/post/would/) [have](/post/have/) [any](/post/any/) [doubt](/post/doubt/) [about](/post/about/) [the](/post/the/) defendant's guilt.
+- "[Evidence](/post/evidence/) suggests": An [expression](/post/expression/) [often](/post/often/) [used](/post/used/) [when](/post/when/) presenting [research](/post/research/) findings [or](/post/or/) [information](/post/information/) [that](/post/that/) supports [a](/post/a/) [particular](/post/particular/) [argument](/post/argument/) [or](/post/or/) [conclusion](/post/conclusion/). [Example](/post/example/): "[Evidence](/post/evidence/) suggests [that](/post/that/) [regular](/post/regular/) [exercise](/post/exercise/) [can](/post/can/) [improve](/post/improve/) [mental](/post/mental/) [health](/post/health/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) detective collected crucial [evidence](/en/post/evidence/) [at](/en/post/at/) [the](/en/post/the/) [crime](/en/post/crime/) [scene](/en/post/scene/)."
-- **[Verb](/en/post/verb/)**: "[His](/en/post/his/) actions evidenced [his](/en/post/his/) commitment [to](/en/post/to/) [the](/en/post/the/) [project](/en/post/project/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) detective collected crucial [evidence](/post/evidence/) [at](/post/at/) [the](/post/the/) [crime](/post/crime/) [scene](/post/scene/)."
+- **[Verb](/post/verb/)**: "[His](/post/his/) actions evidenced [his](/post/his/) commitment [to](/post/to/) [the](/post/the/) [project](/post/project/)."
 
 ## Synonyms
-- [Proof](/en/post/proof/)
+- [Proof](/post/proof/)
 - Testimony
-- [Witness](/en/post/witness/)
-- [Indication](/en/post/indication/)
-- [Sign](/en/post/sign/)
+- [Witness](/post/witness/)
+- [Indication](/post/indication/)
+- [Sign](/post/sign/)
 - Demonstration
 - Indicator
 - Manifestation
 - Corroboration
 - Confirmation
 
-[Note](/en/post/note/): [As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), "[evidence](/en/post/evidence/)" is [less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/) [than](/en/post/than/) [its](/en/post/its/) [noun](/en/post/noun/) [form](/en/post/form/) [and](/en/post/and/) [generally](/en/post/generally/) appears [in](/en/post/in/) [more](/en/post/more/) [formal](/en/post/formal/) [or](/en/post/or/) archaic contexts. [In](/en/post/in/) [everyday](/en/post/everyday/) [language](/en/post/language/), [one](/en/post/one/) [might](/en/post/might/) [use](/en/post/use/) "[show](/en/post/show/)" [or](/en/post/or/) "[prove](/en/post/prove/)" [instead](/en/post/instead/).
+[Note](/post/note/): [As](/post/as/) [a](/post/a/) [verb](/post/verb/), "[evidence](/post/evidence/)" is [less](/post/less/) [commonly](/post/commonly/) [used](/post/used/) [than](/post/than/) [its](/post/its/) [noun](/post/noun/) [form](/post/form/) [and](/post/and/) [generally](/post/generally/) appears [in](/post/in/) [more](/post/more/) [formal](/post/formal/) [or](/post/or/) archaic contexts. [In](/post/in/) [everyday](/post/everyday/) [language](/post/language/), [one](/post/one/) [might](/post/might/) [use](/post/use/) "[show](/post/show/)" [or](/post/or/) "[prove](/post/prove/)" [instead](/post/instead/).

@@ -7,34 +7,34 @@ description = '[əˈdʒʌst] vt.调整，调节；校正'
 keywords = ['ai words', 'adjust']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈdʒʌst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) making [something](/en/post/something/) [fit](/en/post/fit/) [better](/en/post/better/) [or](/en/post/or/) conform [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [condition](/en/post/condition/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) thermostat needed [to](/en/post/to/) [be](/en/post/be/) adjusted [to](/en/post/to/) [a](/en/post/a/) warmer [temperature](/en/post/temperature/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [change](/en/post/change/) [or](/en/post/or/) [modify](/en/post/modify/) ([a](/en/post/a/) [setting](/en/post/setting/), [situation](/en/post/situation/), [or](/en/post/or/) one's [behavior](/en/post/behavior/)) [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) [more](/en/post/more/) [suitable](/en/post/suitable/) [or](/en/post/or/) [in](/en/post/in/) [line](/en/post/line/) [with](/en/post/with/) [a](/en/post/a/) [new](/en/post/new/) [requirement](/en/post/requirement/) [or](/en/post/or/) [preference](/en/post/preference/). [For](/en/post/for/) [example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [adjust](/en/post/adjust/) [my](/en/post/my/) [schedule](/en/post/schedule/) [to](/en/post/to/) [accommodate](/en/post/accommodate/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **[Adjective](/en/post/adjective/)**: Characterizing [or](/en/post/or/) relating [to](/en/post/to/) [being](/en/post/being/) [able](/en/post/able/) [to](/en/post/to/) [be](/en/post/be/) modified [or](/en/post/or/) adapted [easily](/en/post/easily/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) software is [highly](/en/post/highly/) adjustable [to](/en/post/to/) [different](/en/post/different/) [user](/en/post/user/) preferences."
+- **[Noun](/post/noun/)**: [A](/post/a/) [noun](/post/noun/) referring [to](/post/to/) [the](/post/the/) [act](/post/act/) [of](/post/of/) making [something](/post/something/) [fit](/post/fit/) [better](/post/better/) [or](/post/or/) conform [to](/post/to/) [a](/post/a/) [new](/post/new/) [condition](/post/condition/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) thermostat needed [to](/post/to/) [be](/post/be/) adjusted [to](/post/to/) [a](/post/a/) warmer [temperature](/post/temperature/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [change](/post/change/) [or](/post/or/) [modify](/post/modify/) ([a](/post/a/) [setting](/post/setting/), [situation](/post/situation/), [or](/post/or/) one's [behavior](/post/behavior/)) [to](/post/to/) [make](/post/make/) [it](/post/it/) [more](/post/more/) [suitable](/post/suitable/) [or](/post/or/) [in](/post/in/) [line](/post/line/) [with](/post/with/) [a](/post/a/) [new](/post/new/) [requirement](/post/requirement/) [or](/post/or/) [preference](/post/preference/). [For](/post/for/) [example](/post/example/): "I [need](/post/need/) [to](/post/to/) [adjust](/post/adjust/) [my](/post/my/) [schedule](/post/schedule/) [to](/post/to/) [accommodate](/post/accommodate/) [the](/post/the/) [meeting](/post/meeting/)."
+- **[Adjective](/post/adjective/)**: Characterizing [or](/post/or/) relating [to](/post/to/) [being](/post/being/) [able](/post/able/) [to](/post/to/) [be](/post/be/) modified [or](/post/or/) adapted [easily](/post/easily/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) software is [highly](/post/highly/) adjustable [to](/post/to/) [different](/post/different/) [user](/post/user/) preferences."
 
 ## Phrases
-- "[Adjust](/en/post/adjust/) [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [environment](/en/post/environment/)" [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) [accustomed](/en/post/accustomed/) [to](/en/post/to/) [a](/en/post/a/) [new](/en/post/new/) [surroundings](/en/post/surroundings/) [or](/en/post/or/) conditions.
-- "Fine-tune [or](/en/post/or/) [adjust](/en/post/adjust/) settings" implies making [minor](/en/post/minor/) changes [to](/en/post/to/) optimize [performance](/en/post/performance/).
-- "[Make](/en/post/make/) an adjustment" is [a](/en/post/a/) [general](/en/post/general/) [term](/en/post/term/) [for](/en/post/for/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) modifying [something](/en/post/something/).
+- "[Adjust](/post/adjust/) [to](/post/to/) [a](/post/a/) [new](/post/new/) [environment](/post/environment/)" [means](/post/means/) [to](/post/to/) [become](/post/become/) [accustomed](/post/accustomed/) [to](/post/to/) [a](/post/a/) [new](/post/new/) [surroundings](/post/surroundings/) [or](/post/or/) conditions.
+- "Fine-tune [or](/post/or/) [adjust](/post/adjust/) settings" implies making [minor](/post/minor/) changes [to](/post/to/) optimize [performance](/post/performance/).
+- "[Make](/post/make/) an adjustment" is [a](/post/a/) [general](/post/general/) [term](/post/term/) [for](/post/for/) [the](/post/the/) [act](/post/act/) [of](/post/of/) modifying [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [mechanic](/en/post/mechanic/) made [several](/en/post/several/) adjustments [to](/en/post/to/) [the](/en/post/the/) car's [engine](/en/post/engine/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) had [to](/en/post/to/) [adjust](/en/post/adjust/) [her](/en/post/her/) expectations [after](/en/post/after/) [the](/en/post/the/) [project](/en/post/project/) requirements changed."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [flexible](/en/post/flexible/) [furniture](/en/post/furniture/) [can](/en/post/can/) [be](/en/post/be/) [easily](/en/post/easily/) adjusted [to](/en/post/to/) [different](/en/post/different/) [room](/en/post/room/) layouts."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [mechanic](/post/mechanic/) made [several](/post/several/) adjustments [to](/post/to/) [the](/post/the/) car's [engine](/post/engine/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) had [to](/post/to/) [adjust](/post/adjust/) [her](/post/her/) expectations [after](/post/after/) [the](/post/the/) [project](/post/project/) requirements changed."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [flexible](/post/flexible/) [furniture](/post/furniture/) [can](/post/can/) [be](/post/be/) [easily](/post/easily/) adjusted [to](/post/to/) [different](/post/different/) [room](/post/room/) layouts."
 
 ## Synonyms
-- [Tune](/en/post/tune/)
+- [Tune](/post/tune/)
 - Calibrate
-- [Regulate](/en/post/regulate/)
-- [Adapt](/en/post/adapt/)
+- [Regulate](/post/regulate/)
+- [Adapt](/post/adapt/)
 - Readjust
 - Realign
 - Fine-tune
 
 ## Antonyms
-- [Maintain](/en/post/maintain/) (unchanged)
--僵化 ([rigid](/en/post/rigid/))
+- [Maintain](/post/maintain/) (unchanged)
+-僵化 ([rigid](/post/rigid/))
 - Inflexible

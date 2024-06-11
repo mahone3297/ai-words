@@ -7,32 +7,32 @@ description = '[ˈstjuːpid] a.愚蠢的；感觉迟钝的'
 keywords = ['ai words', 'stupid']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /stjuːpɪd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Having [or](/en/post/or/) showing [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [intelligence](/en/post/intelligence/) [or](/en/post/or/) [understanding](/en/post/understanding/); [foolish](/en/post/foolish/) [or](/en/post/or/) unintelligent. 2. Causing annoyance [or](/en/post/or/) frustration [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [simplicity](/en/post/simplicity/) [or](/en/post/or/) clumsiness.
+- **[Adjective](/post/adjective/)**: 1. Having [or](/post/or/) showing [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [intelligence](/post/intelligence/) [or](/post/or/) [understanding](/post/understanding/); [foolish](/post/foolish/) [or](/post/or/) unintelligent. 2. Causing annoyance [or](/post/or/) frustration [due](/post/due/) [to](/post/to/) [its](/post/its/) [simplicity](/post/simplicity/) [or](/post/or/) clumsiness.
 
 ## Phrases
-- "Acting stupidly" describes [someone](/en/post/someone/) behaving foolishly.
-- "That's [a](/en/post/a/) [stupid](/en/post/stupid/) [mistake](/en/post/mistake/)"批评某人犯了一个愚蠢的错误.
-- "She's [being](/en/post/being/) [stupid](/en/post/stupid/) [about](/en/post/about/) [it](/en/post/it/)" implies [that](/en/post/that/) [someone](/en/post/someone/) is [not](/en/post/not/) thinking [clearly](/en/post/clearly/).
+- "Acting stupidly" describes [someone](/post/someone/) behaving foolishly.
+- "That's [a](/post/a/) [stupid](/post/stupid/) [mistake](/post/mistake/)"批评某人犯了一个愚蠢的错误.
+- "She's [being](/post/being/) [stupid](/post/stupid/) [about](/post/about/) [it](/post/it/)" implies [that](/post/that/) [someone](/post/someone/) is [not](/post/not/) thinking [clearly](/post/clearly/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) made [a](/en/post/a/) [stupid](/en/post/stupid/) [decision](/en/post/decision/) [without](/en/post/without/) considering [the](/en/post/the/) consequences."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) danced [around](/en/post/around/) [the](/en/post/the/) [stage](/en/post/stage/) [in](/en/post/in/) [a](/en/post/a/) stupidly [awkward](/en/post/awkward/) [way](/en/post/way/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) scolded [the](/en/post/the/) [student](/en/post/student/) [for](/en/post/for/) [their](/en/post/their/) [stupid](/en/post/stupid/) answers."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) made [a](/post/a/) [stupid](/post/stupid/) [decision](/post/decision/) [without](/post/without/) considering [the](/post/the/) consequences."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) danced [around](/post/around/) [the](/post/the/) [stage](/post/stage/) [in](/post/in/) [a](/post/a/) stupidly [awkward](/post/awkward/) [way](/post/way/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [teacher](/post/teacher/) scolded [the](/post/the/) [student](/post/student/) [for](/post/for/) [their](/post/their/) [stupid](/post/stupid/) answers."
 
 ## Synonyms
-- [Foolish](/en/post/foolish/)
-- [Ignorant](/en/post/ignorant/)
+- [Foolish](/post/foolish/)
+- [Ignorant](/post/ignorant/)
 - Incompetent
 - Brainless
 - Foolhardy
 
 ## Antonyms
-- [Intelligent](/en/post/intelligent/)
-- [Clever](/en/post/clever/)
+- [Intelligent](/post/intelligent/)
+- [Clever](/post/clever/)
 - Witty
 - Astute
 - Sagacious

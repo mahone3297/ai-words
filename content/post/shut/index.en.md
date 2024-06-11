@@ -7,39 +7,39 @@ description = '[∫ʌt] vt.关上，闭上，关闭'
 keywords = ['ai words', 'shut']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /shʌt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-  - **[Noun](/en/post/noun/)**: [A](/en/post/a/) [mechanical](/en/post/mechanical/) [device](/en/post/device/) [that](/en/post/that/) closes [by](/en/post/by/) applying [pressure](/en/post/pressure/), [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) [door](/en/post/door/) [or](/en/post/or/) [window](/en/post/window/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) [shut](/en/post/shut/) [the](/en/post/the/) [door](/en/post/door/) quietly."
-  - **[Verb](/en/post/verb/)**: [To](/en/post/to/) [close](/en/post/close/) [with](/en/post/with/) [force](/en/post/force/) [or](/en/post/or/) firmly, [as](/en/post/as/) [a](/en/post/a/) [door](/en/post/door/) [or](/en/post/or/) [window](/en/post/window/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [shut](/en/post/shut/) [the](/en/post/the/) [book](/en/post/book/) [and](/en/post/and/) [put](/en/post/put/) [it](/en/post/it/) [down](/en/post/down/)."
-  - **[Verb](/en/post/verb/)**: [To](/en/post/to/) [stop](/en/post/stop/) [or](/en/post/or/) [cease](/en/post/cease/) functioning, [as](/en/post/as/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [factory](/en/post/factory/) [shut](/en/post/shut/) [down](/en/post/down/) [due](/en/post/due/) [to](/en/post/to/) [financial](/en/post/financial/) difficulties."
-  - **[Verb](/en/post/verb/)**: [To](/en/post/to/) [bring](/en/post/bring/) [to](/en/post/to/) an [end](/en/post/end/) [or](/en/post/or/) terminate ([a](/en/post/a/) [relationship](/en/post/relationship/), [conversation](/en/post/conversation/), etc.). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [shut](/en/post/shut/) [down](/en/post/down/) [the](/en/post/the/) [discussion](/en/post/discussion/) [after](/en/post/after/) [everyone](/en/post/everyone/) agreed [on](/en/post/on/) [the](/en/post/the/) [plan](/en/post/plan/)."
+- **[Verb](/post/verb/)**: 
+  - **[Noun](/post/noun/)**: [A](/post/a/) [mechanical](/post/mechanical/) [device](/post/device/) [that](/post/that/) closes [by](/post/by/) applying [pressure](/post/pressure/), [as](/post/as/) [in](/post/in/) [a](/post/a/) [door](/post/door/) [or](/post/or/) [window](/post/window/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [child](/post/child/) [shut](/post/shut/) [the](/post/the/) [door](/post/door/) quietly."
+  - **[Verb](/post/verb/)**: [To](/post/to/) [close](/post/close/) [with](/post/with/) [force](/post/force/) [or](/post/or/) firmly, [as](/post/as/) [a](/post/a/) [door](/post/door/) [or](/post/or/) [window](/post/window/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [shut](/post/shut/) [the](/post/the/) [book](/post/book/) [and](/post/and/) [put](/post/put/) [it](/post/it/) [down](/post/down/)."
+  - **[Verb](/post/verb/)**: [To](/post/to/) [stop](/post/stop/) [or](/post/or/) [cease](/post/cease/) functioning, [as](/post/as/) [a](/post/a/) [process](/post/process/) [or](/post/or/) [activity](/post/activity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [factory](/post/factory/) [shut](/post/shut/) [down](/post/down/) [due](/post/due/) [to](/post/to/) [financial](/post/financial/) difficulties."
+  - **[Verb](/post/verb/)**: [To](/post/to/) [bring](/post/bring/) [to](/post/to/) an [end](/post/end/) [or](/post/or/) terminate ([a](/post/a/) [relationship](/post/relationship/), [conversation](/post/conversation/), etc.). [For](/post/for/) [example](/post/example/): "[He](/post/he/) [shut](/post/shut/) [down](/post/down/) [the](/post/the/) [discussion](/post/discussion/) [after](/post/after/) [everyone](/post/everyone/) agreed [on](/post/on/) [the](/post/the/) [plan](/post/plan/)."
 
 ## Phrases
-- "[Shut](/en/post/shut/) [up](/en/post/up/)" is an informal [way](/en/post/way/) [to](/en/post/to/) [tell](/en/post/tell/) [someone](/en/post/someone/) [to](/en/post/to/) [be](/en/post/be/) [quiet](/en/post/quiet/).
-- "[Shut](/en/post/shut/) [off](/en/post/off/)" [means](/en/post/means/) [to](/en/post/to/) [turn](/en/post/turn/) [something](/en/post/something/) [off](/en/post/off/), [like](/en/post/like/) [a](/en/post/a/) faucet [or](/en/post/or/) [electricity](/en/post/electricity/).
-- "[Shut](/en/post/shut/) [down](/en/post/down/)" [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) closing [a](/en/post/a/) [business](/en/post/business/) [or](/en/post/or/) [system](/en/post/system/), [or](/en/post/or/) [simply](/en/post/simply/) stopping an [activity](/en/post/activity/).
+- "[Shut](/post/shut/) [up](/post/up/)" is an informal [way](/post/way/) [to](/post/to/) [tell](/post/tell/) [someone](/post/someone/) [to](/post/to/) [be](/post/be/) [quiet](/post/quiet/).
+- "[Shut](/post/shut/) [off](/post/off/)" [means](/post/means/) [to](/post/to/) [turn](/post/turn/) [something](/post/something/) [off](/post/off/), [like](/post/like/) [a](/post/a/) faucet [or](/post/or/) [electricity](/post/electricity/).
+- "[Shut](/post/shut/) [down](/post/down/)" [can](/post/can/) [refer](/post/refer/) [to](/post/to/) closing [a](/post/a/) [business](/post/business/) [or](/post/or/) [system](/post/system/), [or](/post/or/) [simply](/post/simply/) stopping an [activity](/post/activity/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) had [to](/en/post/to/) [shut](/en/post/shut/) [the](/en/post/the/) [oven](/en/post/oven/) [before](/en/post/before/) [the](/en/post/the/) [cake](/en/post/cake/) was fully cooked."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [shut](/en/post/shut/) [the](/en/post/the/) curtains [to](/en/post/to/) [block](/en/post/block/) [out](/en/post/out/) [the](/en/post/the/) [sunlight](/en/post/sunlight/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) [shut](/en/post/shut/) [down](/en/post/down/) temporarily [for](/en/post/for/) [maintenance](/en/post/maintenance/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [argument](/en/post/argument/), [they](/en/post/they/) decided [to](/en/post/to/) [shut](/en/post/shut/) [the](/en/post/the/) [conversation](/en/post/conversation/) [down](/en/post/down/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) had [to](/post/to/) [shut](/post/shut/) [the](/post/the/) [oven](/post/oven/) [before](/post/before/) [the](/post/the/) [cake](/post/cake/) was fully cooked."
+- **[Verb](/post/verb/)**: "[She](/post/she/) [shut](/post/shut/) [the](/post/the/) curtains [to](/post/to/) [block](/post/block/) [out](/post/out/) [the](/post/the/) [sunlight](/post/sunlight/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [company](/post/company/) [shut](/post/shut/) [down](/post/down/) temporarily [for](/post/for/) [maintenance](/post/maintenance/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [the](/post/the/) [argument](/post/argument/), [they](/post/they/) decided [to](/post/to/) [shut](/post/shut/) [the](/post/the/) [conversation](/post/conversation/) [down](/post/down/)."
 
 ## Synonyms
-- [Close](/en/post/close/)
-- [Fasten](/en/post/fasten/)
-- [Lock](/en/post/lock/)
-- [Seal](/en/post/seal/)
+- [Close](/post/close/)
+- [Fasten](/post/fasten/)
+- [Lock](/post/lock/)
+- [Seal](/post/seal/)
 - Terminate
-- [End](/en/post/end/)
+- [End](/post/end/)
 
 ## Antonyms
-- [Open](/en/post/open/)
+- [Open](/post/open/)
 - Unfasten
 - Unlock
-- [Reveal](/en/post/reveal/)
-- [Continue](/en/post/continue/)
+- [Reveal](/post/reveal/)
+- [Continue](/post/continue/)
 - Restart

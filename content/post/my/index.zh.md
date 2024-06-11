@@ -11,18 +11,18 @@ keywords = ['ai words', 'my']
 /maɪ/
 
 ## 释义
-- **代词**: 第一人称单数所有格，意为“我的”。例如: "[This](/post/this/) is [my](/post/my/) [book](/post/book/)."
-- **形容词**: 用于强调或表示所有权，意为“属于我的”。例如: "[My](/post/my/) [friend](/post/friend/) is coming [over](/post/over/) [later](/post/later/)."
+- **代词**: 第一人称单数所有格，意为“我的”。例如: "[This](/zh/post/this/) is [my](/zh/post/my/) [book](/zh/post/book/)."
+- **形容词**: 用于强调或表示所有权，意为“属于我的”。例如: "[My](/zh/post/my/) [friend](/zh/post/friend/) is coming [over](/zh/post/over/) [later](/zh/post/later/)."
 
 ## 短语
-- "[my](/post/my/) [way](/post/way/)" 意为按照我自己的方式。
-- "[my](/post/my/) [dear](/post/dear/)" 通常用于亲切地称呼别人。
+- "[my](/zh/post/my/) [way](/zh/post/way/)" 意为按照我自己的方式。
+- "[my](/zh/post/my/) [dear](/zh/post/dear/)" 通常用于亲切地称呼别人。
 
 ## 例句
-- 代词: "[My](/post/my/) [car](/post/car/) is parked [outside](/post/outside/) [the](/post/the/) [building](/post/building/)."
-- 形容词: "That's [my](/post/my/) favorite [song](/post/song/)."
+- 代词: "[My](/zh/post/my/) [car](/zh/post/car/) is parked [outside](/zh/post/outside/) [the](/zh/post/the/) [building](/zh/post/building/)."
+- 形容词: "That's [my](/zh/post/my/) favorite [song](/zh/post/song/)."
 
 ## 同义词
-- [mine](/post/mine/) (名词性物主代词)
+- [mine](/zh/post/mine/) (名词性物主代词)
 - one's
-- [your](/post/your/) (在某些情况下，当要强调或区分所有权时)
+- [your](/zh/post/your/) (在某些情况下，当要强调或区分所有权时)

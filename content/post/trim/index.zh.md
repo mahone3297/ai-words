@@ -12,29 +12,29 @@ keywords = ['ai words', 'trim']
 
 ## 释义
 - **名词**:
-  - 装饰；修饰：[The](/post/the/) curtains [have](/post/have/) [a](/post/a/) [beautiful](/post/beautiful/) [trim](/post/trim/) [in](/post/in/) [gold](/post/gold/) [thread](/post/thread/).
-  - 修剪；整饰：[She](/post/she/) gave [her](/post/her/) [hedge](/post/hedge/) [a](/post/a/) [trim](/post/trim/) [to](/post/to/) [make](/post/make/) [it](/post/it/) [look](/post/look/) [neat](/post/neat/).
+  - 装饰；修饰：[The](/zh/post/the/) curtains [have](/zh/post/have/) [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [trim](/zh/post/trim/) [in](/zh/post/in/) [gold](/zh/post/gold/) [thread](/zh/post/thread/).
+  - 修剪；整饰：[She](/zh/post/she/) gave [her](/zh/post/her/) [hedge](/zh/post/hedge/) [a](/zh/post/a/) [trim](/zh/post/trim/) [to](/zh/post/to/) [make](/zh/post/make/) [it](/zh/post/it/) [look](/zh/post/look/) [neat](/zh/post/neat/).
 
 - **动词**:
-  - 修剪；修整：[He](/post/he/) trimmed [the](/post/the/) branches [to](/post/to/) [let](/post/let/) [more](/post/more/) [light](/post/light/) [into](/post/into/) [the](/post/the/) [garden](/post/garden/).
-  - 减少；削减：[The](/post/the/) [company](/post/company/) had [to](/post/to/) [trim](/post/trim/) [its](/post/its/) expenses [due](/post/due/) [to](/post/to/) [financial](/post/financial/) difficulties.
+  - 修剪；修整：[He](/zh/post/he/) trimmed [the](/zh/post/the/) branches [to](/zh/post/to/) [let](/zh/post/let/) [more](/zh/post/more/) [light](/zh/post/light/) [into](/zh/post/into/) [the](/zh/post/the/) [garden](/zh/post/garden/).
+  - 减少；削减：[The](/zh/post/the/) [company](/zh/post/company/) had [to](/zh/post/to/) [trim](/zh/post/trim/) [its](/zh/post/its/) expenses [due](/zh/post/due/) [to](/zh/post/to/) [financial](/zh/post/financial/) difficulties.
 
 - **形容词**:
-  - 整齐的；整洁的：[The](/post/the/) [room](/post/room/) looked [trim](/post/trim/) [and](/post/and/) [tidy](/post/tidy/) [after](/post/after/) cleaning.
-  - 精致的；讲究的：[The](/post/the/) [model](/post/model/) wore [a](/post/a/) [trim](/post/trim/) [black](/post/black/) [dress](/post/dress/) [for](/post/for/) [the](/post/the/) [event](/post/event/).
+  - 整齐的；整洁的：[The](/zh/post/the/) [room](/zh/post/room/) looked [trim](/zh/post/trim/) [and](/zh/post/and/) [tidy](/zh/post/tidy/) [after](/zh/post/after/) cleaning.
+  - 精致的；讲究的：[The](/zh/post/the/) [model](/zh/post/model/) wore [a](/zh/post/a/) [trim](/zh/post/trim/) [black](/zh/post/black/) [dress](/zh/post/dress/) [for](/zh/post/for/) [the](/zh/post/the/) [event](/zh/post/event/).
 
 ## 短语
-- "[trim](/post/trim/) [the](/post/the/) sails" 在帆船上调整帆的角度以利用风力。
-- "[in](/post/in/) [trim](/post/trim/)" 表示处于良好状态或准备就绪：[The](/post/the/) [ship](/post/ship/) was [in](/post/in/) [trim](/post/trim/) [for](/post/for/) [the](/post/the/) [voyage](/post/voyage/).
+- "[trim](/zh/post/trim/) [the](/zh/post/the/) sails" 在帆船上调整帆的角度以利用风力。
+- "[in](/zh/post/in/) [trim](/zh/post/trim/)" 表示处于良好状态或准备就绪：[The](/zh/post/the/) [ship](/zh/post/ship/) was [in](/zh/post/in/) [trim](/zh/post/trim/) [for](/zh/post/for/) [the](/zh/post/the/) [voyage](/zh/post/voyage/).
 
 ## 例句
-- 名词: "[The](/post/the/) decorator added [some](/post/some/) [trim](/post/trim/) [around](/post/around/) [the](/post/the/) [window](/post/window/) [to](/post/to/) enhance [the](/post/the/) room's [appearance](/post/appearance/)."
-- 动词: "[She](/post/she/) [regularly](/post/regularly/) trims [her](/post/her/) [hair](/post/hair/) [to](/post/to/) [keep](/post/keep/) [it](/post/it/) looking [healthy](/post/healthy/)."
-- 形容词: "[The](/post/the/) [athlete](/post/athlete/) was [in](/post/in/) [excellent](/post/excellent/) [physical](/post/physical/) [trim](/post/trim/) [for](/post/for/) [the](/post/the/) [competition](/post/competition/)."
+- 名词: "[The](/zh/post/the/) decorator added [some](/zh/post/some/) [trim](/zh/post/trim/) [around](/zh/post/around/) [the](/zh/post/the/) [window](/zh/post/window/) [to](/zh/post/to/) enhance [the](/zh/post/the/) room's [appearance](/zh/post/appearance/)."
+- 动词: "[She](/zh/post/she/) [regularly](/zh/post/regularly/) trims [her](/zh/post/her/) [hair](/zh/post/hair/) [to](/zh/post/to/) [keep](/zh/post/keep/) [it](/zh/post/it/) looking [healthy](/zh/post/healthy/)."
+- 形容词: "[The](/zh/post/the/) [athlete](/zh/post/athlete/) was [in](/zh/post/in/) [excellent](/zh/post/excellent/) [physical](/zh/post/physical/) [trim](/zh/post/trim/) [for](/zh/post/for/) [the](/zh/post/the/) [competition](/zh/post/competition/)."
 
 ## 同义词
-- [decorate](/post/decorate/)
+- [decorate](/zh/post/decorate/)
 - groom
 - prune
-- [cut](/post/cut/) [back](/post/back/)
+- [cut](/zh/post/cut/) [back](/zh/post/back/)
 - neaten

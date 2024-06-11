@@ -7,43 +7,43 @@ description = '[ˈtendə] a.嫩的；脆弱的'
 keywords = ['ai words', 'tender']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tendər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **1.** [A](/en/post/a/) [document](/en/post/document/) offering [goods](/en/post/goods/) [or](/en/post/or/) services [at](/en/post/at/) [a](/en/post/a/) fixed [price](/en/post/price/), [often](/en/post/often/) [with](/en/post/with/) terms [and](/en/post/and/) conditions attached. [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) received [multiple](/en/post/multiple/) tenders [for](/en/post/for/) [the](/en/post/the/) [construction](/en/post/construction/) [project](/en/post/project/)."
-- **2.** [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [gentle](/en/post/gentle/), [sensitive](/en/post/sensitive/), [or](/en/post/or/) [easily](/en/post/easily/) [hurt](/en/post/hurt/) emotionally. [Example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) [tender](/en/post/tender/) [heart](/en/post/heart/) [for](/en/post/for/) [those](/en/post/those/) [in](/en/post/in/) [need](/en/post/need/)."
-- **3.** [A](/en/post/a/) [young](/en/post/young/) [animal](/en/post/animal/) [that](/en/post/that/) is [not](/en/post/not/) fully grown. [Example](/en/post/example/): "[The](/en/post/the/) [baby](/en/post/baby/) [deer](/en/post/deer/) was [so](/en/post/so/) [tender](/en/post/tender/) [and](/en/post/and/) cute."
+### [Noun](/post/noun/)
+- **1.** [A](/post/a/) [document](/post/document/) offering [goods](/post/goods/) [or](/post/or/) services [at](/post/at/) [a](/post/a/) fixed [price](/post/price/), [often](/post/often/) [with](/post/with/) terms [and](/post/and/) conditions attached. [Example](/post/example/): "[The](/post/the/) [company](/post/company/) received [multiple](/post/multiple/) tenders [for](/post/for/) [the](/post/the/) [construction](/post/construction/) [project](/post/project/)."
+- **2.** [A](/post/a/) [person](/post/person/) [who](/post/who/) is [gentle](/post/gentle/), [sensitive](/post/sensitive/), [or](/post/or/) [easily](/post/easily/) [hurt](/post/hurt/) emotionally. [Example](/post/example/): "[She](/post/she/) had [a](/post/a/) [tender](/post/tender/) [heart](/post/heart/) [for](/post/for/) [those](/post/those/) [in](/post/in/) [need](/post/need/)."
+- **3.** [A](/post/a/) [young](/post/young/) [animal](/post/animal/) [that](/post/that/) is [not](/post/not/) fully grown. [Example](/post/example/): "[The](/post/the/) [baby](/post/baby/) [deer](/post/deer/) was [so](/post/so/) [tender](/post/tender/) [and](/post/and/) cute."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [offer](/en/post/offer/) ([goods](/en/post/goods/) [or](/en/post/or/) services) [at](/en/post/at/) [a](/en/post/a/) specified [price](/en/post/price/) [or](/en/post/or/) [on](/en/post/on/) [specific](/en/post/specific/) terms. [Example](/en/post/example/): "[The](/en/post/the/) contractor tendered [a](/en/post/a/) [proposal](/en/post/proposal/) [for](/en/post/for/) [the](/en/post/the/) landscaping [job](/en/post/job/)."
-- [To](/en/post/to/) [show](/en/post/show/) [care](/en/post/care/) [or](/en/post/or/) [affection](/en/post/affection/), [especially](/en/post/especially/) physically. [Example](/en/post/example/): "[He](/en/post/he/) tenderly held [her](/en/post/her/) [hand](/en/post/hand/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [offer](/post/offer/) ([goods](/post/goods/) [or](/post/or/) services) [at](/post/at/) [a](/post/a/) specified [price](/post/price/) [or](/post/or/) [on](/post/on/) [specific](/post/specific/) terms. [Example](/post/example/): "[The](/post/the/) contractor tendered [a](/post/a/) [proposal](/post/proposal/) [for](/post/for/) [the](/post/the/) landscaping [job](/post/job/)."
+- [To](/post/to/) [show](/post/show/) [care](/post/care/) [or](/post/or/) [affection](/post/affection/), [especially](/post/especially/) physically. [Example](/post/example/): "[He](/post/he/) tenderly held [her](/post/her/) [hand](/post/hand/)."
 
-### [Adjective](/en/post/adjective/)
-- **1.** [Soft](/en/post/soft/) [and](/en/post/and/) [easily](/en/post/easily/) bruised [or](/en/post/or/) damaged. [Example](/en/post/example/): "[The](/en/post/the/) [tender](/en/post/tender/) [skin](/en/post/skin/) [on](/en/post/on/) [a](/en/post/a/) newborn's [face](/en/post/face/)."
-- **2.** [Gentle](/en/post/gentle/) [or](/en/post/or/) [delicate](/en/post/delicate/) [in](/en/post/in/) [nature](/en/post/nature/) [or](/en/post/or/) [treatment](/en/post/treatment/). [Example](/en/post/example/): "[A](/en/post/a/) [tender](/en/post/tender/) [touch](/en/post/touch/) [can](/en/post/can/) soothe [a](/en/post/a/) crying [child](/en/post/child/)."
-- **3.** Affectionate [or](/en/post/or/) loving. [Example](/en/post/example/): "[Tender](/en/post/tender/) memories [of](/en/post/of/) [their](/en/post/their/) [childhood](/en/post/childhood/)."
+### [Adjective](/post/adjective/)
+- **1.** [Soft](/post/soft/) [and](/post/and/) [easily](/post/easily/) bruised [or](/post/or/) damaged. [Example](/post/example/): "[The](/post/the/) [tender](/post/tender/) [skin](/post/skin/) [on](/post/on/) [a](/post/a/) newborn's [face](/post/face/)."
+- **2.** [Gentle](/post/gentle/) [or](/post/or/) [delicate](/post/delicate/) [in](/post/in/) [nature](/post/nature/) [or](/post/or/) [treatment](/post/treatment/). [Example](/post/example/): "[A](/post/a/) [tender](/post/tender/) [touch](/post/touch/) [can](/post/can/) soothe [a](/post/a/) crying [child](/post/child/)."
+- **3.** Affectionate [or](/post/or/) loving. [Example](/post/example/): "[Tender](/post/tender/) memories [of](/post/of/) [their](/post/their/) [childhood](/post/childhood/)."
 
-### [Adverb](/en/post/adverb/)
-- [In](/en/post/in/) [a](/en/post/a/) [gentle](/en/post/gentle/) [or](/en/post/or/) [considerate](/en/post/considerate/) [manner](/en/post/manner/). [Example](/en/post/example/): "[She](/en/post/she/) handled [the](/en/post/the/) [situation](/en/post/situation/) tenderly."
+### [Adverb](/post/adverb/)
+- [In](/post/in/) [a](/post/a/) [gentle](/post/gentle/) [or](/post/or/) [considerate](/post/considerate/) [manner](/post/manner/). [Example](/post/example/): "[She](/post/she/) handled [the](/post/the/) [situation](/post/situation/) tenderly."
 
 ## Phrases
-- "[Submit](/en/post/submit/) [a](/en/post/a/) [tender](/en/post/tender/)" [means](/en/post/means/) [to](/en/post/to/) [offer](/en/post/offer/) [a](/en/post/a/) [proposal](/en/post/proposal/) [for](/en/post/for/) [a](/en/post/a/) [project](/en/post/project/) [or](/en/post/or/) [contract](/en/post/contract/).
-- "[Tender](/en/post/tender/) [care](/en/post/care/)" refers [to](/en/post/to/) [gentle](/en/post/gentle/) [and](/en/post/and/) [attentive](/en/post/attentive/) [treatment](/en/post/treatment/).
-- "[Tender](/en/post/tender/) years" [may](/en/post/may/) [refer](/en/post/refer/) [to](/en/post/to/) [early](/en/post/early/) [childhood](/en/post/childhood/) [or](/en/post/or/) adolescence.
+- "[Submit](/post/submit/) [a](/post/a/) [tender](/post/tender/)" [means](/post/means/) [to](/post/to/) [offer](/post/offer/) [a](/post/a/) [proposal](/post/proposal/) [for](/post/for/) [a](/post/a/) [project](/post/project/) [or](/post/or/) [contract](/post/contract/).
+- "[Tender](/post/tender/) [care](/post/care/)" refers [to](/post/to/) [gentle](/post/gentle/) [and](/post/and/) [attentive](/post/attentive/) [treatment](/post/treatment/).
+- "[Tender](/post/tender/) years" [may](/post/may/) [refer](/post/refer/) [to](/post/to/) [early](/post/early/) [childhood](/post/childhood/) [or](/post/or/) adolescence.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) bidders submitted [their](/en/post/their/) [tender](/en/post/tender/) forms [by](/en/post/by/) [the](/en/post/the/) deadline."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [nurse](/en/post/nurse/) tendered [a](/en/post/a/) [first](/en/post/first/) [aid](/en/post/aid/) kit [to](/en/post/to/) [the](/en/post/the/) injured [person](/en/post/person/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [voice](/en/post/voice/) was filled [with](/en/post/with/) [a](/en/post/a/) [tender](/en/post/tender/) longing [for](/en/post/for/) [home](/en/post/home/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) spoke [to](/en/post/to/) [the](/en/post/the/) children [with](/en/post/with/) [a](/en/post/a/) [tender](/en/post/tender/) [patience](/en/post/patience/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) bidders submitted [their](/post/their/) [tender](/post/tender/) forms [by](/post/by/) [the](/post/the/) deadline."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [nurse](/post/nurse/) tendered [a](/post/a/) [first](/post/first/) [aid](/post/aid/) kit [to](/post/to/) [the](/post/the/) injured [person](/post/person/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [voice](/post/voice/) was filled [with](/post/with/) [a](/post/a/) [tender](/post/tender/) longing [for](/post/for/) [home](/post/home/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) spoke [to](/post/to/) [the](/post/the/) children [with](/post/with/) [a](/post/a/) [tender](/post/tender/) [patience](/post/patience/)."
 
 ## Synonyms
-- [Gentle](/en/post/gentle/)
-- [Soft](/en/post/soft/)
-- [Delicate](/en/post/delicate/)
-- [Sensitive](/en/post/sensitive/)
+- [Gentle](/post/gentle/)
+- [Soft](/post/soft/)
+- [Delicate](/post/delicate/)
+- [Sensitive](/post/sensitive/)
 - Affectionate
 - Caring
 - Nurturing

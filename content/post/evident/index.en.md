@@ -7,27 +7,27 @@ description = '[ˈevidənt] a.明显的，明白的'
 keywords = ['ai words', 'evident']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɛvɪdənt/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Clear](/en/post/clear/) [or](/en/post/or/) [obvious](/en/post/obvious/); [easily](/en/post/easily/) perceived [or](/en/post/or/) understood; [apparent](/en/post/apparent/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [evidence](/en/post/evidence/) was [evident](/en/post/evident/) [to](/en/post/to/) [the](/en/post/the/) [jury](/en/post/jury/)."
-  - *[Evident](/en/post/evident/) [truth](/en/post/truth/)*: [A](/en/post/a/) [fact](/en/post/fact/) [that](/en/post/that/) is [clearly](/en/post/clearly/) [true](/en/post/true/) [and](/en/post/and/) [not](/en/post/not/) [subject](/en/post/subject/) [to](/en/post/to/) [doubt](/en/post/doubt/).
-  - *[It](/en/post/it/) is [evident](/en/post/evident/) [that](/en/post/that/)...*: [A](/en/post/a/) [phrase](/en/post/phrase/) [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [something](/en/post/something/) [that](/en/post/that/) is [clear](/en/post/clear/) [or](/en/post/or/) self-evident.
+- **[Adjective](/post/adjective/)**: [Clear](/post/clear/) [or](/post/or/) [obvious](/post/obvious/); [easily](/post/easily/) perceived [or](/post/or/) understood; [apparent](/post/apparent/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [evidence](/post/evidence/) was [evident](/post/evident/) [to](/post/to/) [the](/post/the/) [jury](/post/jury/)."
+  - *[Evident](/post/evident/) [truth](/post/truth/)*: [A](/post/a/) [fact](/post/fact/) [that](/post/that/) is [clearly](/post/clearly/) [true](/post/true/) [and](/post/and/) [not](/post/not/) [subject](/post/subject/) [to](/post/to/) [doubt](/post/doubt/).
+  - *[It](/post/it/) is [evident](/post/evident/) [that](/post/that/)...*: [A](/post/a/) [phrase](/post/phrase/) [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [something](/post/something/) [that](/post/that/) is [clear](/post/clear/) [or](/post/or/) self-evident.
 
-### [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [talent](/en/post/talent/) [for](/en/post/for/) [music](/en/post/music/) was [evident](/en/post/evident/) [from](/en/post/from/) [a](/en/post/a/) [very](/en/post/very/) [young](/en/post/young/) [age](/en/post/age/)."
-- "[The](/en/post/the/) results [of](/en/post/of/) [the](/en/post/the/) [experiment](/en/post/experiment/) were [quite](/en/post/quite/) [evident](/en/post/evident/) [after](/en/post/after/) [just](/en/post/just/) [a](/en/post/a/) [few](/en/post/few/) days."
-- "[His](/en/post/his/) frustration was [evident](/en/post/evident/) [in](/en/post/in/) [his](/en/post/his/) facial [expression](/en/post/expression/)."
+### [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [talent](/post/talent/) [for](/post/for/) [music](/post/music/) was [evident](/post/evident/) [from](/post/from/) [a](/post/a/) [very](/post/very/) [young](/post/young/) [age](/post/age/)."
+- "[The](/post/the/) results [of](/post/of/) [the](/post/the/) [experiment](/post/experiment/) were [quite](/post/quite/) [evident](/post/evident/) [after](/post/after/) [just](/post/just/) [a](/post/a/) [few](/post/few/) days."
+- "[His](/post/his/) frustration was [evident](/post/evident/) [in](/post/in/) [his](/post/his/) facial [expression](/post/expression/)."
 
 ## Phrases
-- **[Be](/en/post/be/) [evident](/en/post/evident/) [from](/en/post/from/)**: [To](/en/post/to/) [be](/en/post/be/) [clear](/en/post/clear/) [or](/en/post/or/) understandable based [on](/en/post/on/) [something](/en/post/something/) [else](/en/post/else/). [Example](/en/post/example/): "[It](/en/post/it/) is [evident](/en/post/evident/) [from](/en/post/from/) [his](/en/post/his/) actions [that](/en/post/that/) [he](/en/post/he/) is [upset](/en/post/upset/)."
-- **[Make](/en/post/make/) [oneself](/en/post/oneself/) [evident](/en/post/evident/)**: [To](/en/post/to/) [become](/en/post/become/) [clear](/en/post/clear/) [or](/en/post/or/) [noticeable](/en/post/noticeable/). [Example](/en/post/example/): "[As](/en/post/as/) [the](/en/post/the/) [sun](/en/post/sun/) [rose](/en/post/rose/) higher, [the](/en/post/the/) [mist](/en/post/mist/) [gradually](/en/post/gradually/) made [itself](/en/post/itself/) [evident](/en/post/evident/)."
+- **[Be](/post/be/) [evident](/post/evident/) [from](/post/from/)**: [To](/post/to/) [be](/post/be/) [clear](/post/clear/) [or](/post/or/) understandable based [on](/post/on/) [something](/post/something/) [else](/post/else/). [Example](/post/example/): "[It](/post/it/) is [evident](/post/evident/) [from](/post/from/) [his](/post/his/) actions [that](/post/that/) [he](/post/he/) is [upset](/post/upset/)."
+- **[Make](/post/make/) [oneself](/post/oneself/) [evident](/post/evident/)**: [To](/post/to/) [become](/post/become/) [clear](/post/clear/) [or](/post/or/) [noticeable](/post/noticeable/). [Example](/post/example/): "[As](/post/as/) [the](/post/the/) [sun](/post/sun/) [rose](/post/rose/) higher, [the](/post/the/) [mist](/post/mist/) [gradually](/post/gradually/) made [itself](/post/itself/) [evident](/post/evident/)."
 
 ## Synonyms
-- [Clear](/en/post/clear/)
-- [Obvious](/en/post/obvious/)
-- [Apparent](/en/post/apparent/)
+- [Clear](/post/clear/)
+- [Obvious](/post/obvious/)
+- [Apparent](/post/apparent/)
 - Manifest
 - patent
 - Indisputable

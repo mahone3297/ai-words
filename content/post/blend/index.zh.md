@@ -8,23 +8,23 @@ keywords = ['ai words', 'blend']
 +++
 
 ## 读音
-/[blend](/post/blend/)/
+/[blend](/zh/post/blend/)/
 
 ## 释义
-- **动词**: 将不同的物质混合在一起，使其结合成均匀的整体。例如: "[She](/post/she/) blended [the](/post/the/) fruits [to](/post/to/) [make](/post/make/) [a](/post/a/) smoothie."
-- **名词**: 混合物，尤其是由两种或多种成分均匀混合而成的产品。例如: "[This](/post/this/) [coffee](/post/coffee/) is [a](/post/a/) [blend](/post/blend/) [of](/post/of/) Arabica [and](/post/and/) Robusta beans."
+- **动词**: 将不同的物质混合在一起，使其结合成均匀的整体。例如: "[She](/zh/post/she/) blended [the](/zh/post/the/) fruits [to](/zh/post/to/) [make](/zh/post/make/) [a](/zh/post/a/) smoothie."
+- **名词**: 混合物，尤其是由两种或多种成分均匀混合而成的产品。例如: "[This](/zh/post/this/) [coffee](/zh/post/coffee/) is [a](/zh/post/a/) [blend](/zh/post/blend/) [of](/zh/post/of/) Arabica [and](/zh/post/and/) Robusta beans."
 
 ## 短语
-- "[Blend](/post/blend/) [in](/post/in/)" 意为融入环境或群体，变得不显眼。例如: "[The](/post/the/) chameleon blends [in](/post/in/) [perfectly](/post/perfectly/) [with](/post/with/) [its](/post/its/) [surroundings](/post/surroundings/)."
-- "[Blend](/post/blend/) [together](/post/together/)" 指将不同成分混合。例如: "[To](/post/to/) [make](/post/make/) [the](/post/the/) [sauce](/post/sauce/), [blend](/post/blend/) [all](/post/all/) [the](/post/the/) ingredients [together](/post/together/) [until](/post/until/) [smooth](/post/smooth/)."
+- "[Blend](/zh/post/blend/) [in](/zh/post/in/)" 意为融入环境或群体，变得不显眼。例如: "[The](/zh/post/the/) chameleon blends [in](/zh/post/in/) [perfectly](/zh/post/perfectly/) [with](/zh/post/with/) [its](/zh/post/its/) [surroundings](/zh/post/surroundings/)."
+- "[Blend](/zh/post/blend/) [together](/zh/post/together/)" 指将不同成分混合。例如: "[To](/zh/post/to/) [make](/zh/post/make/) [the](/zh/post/the/) [sauce](/zh/post/sauce/), [blend](/zh/post/blend/) [all](/zh/post/all/) [the](/zh/post/the/) ingredients [together](/zh/post/together/) [until](/zh/post/until/) [smooth](/zh/post/smooth/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [artist](/post/artist/) expertly blended [the](/post/the/) colors [on](/post/on/) [the](/post/the/) [canvas](/post/canvas/)."
-- 名词: "[The](/post/the/) perfumer created [a](/post/a/) [new](/post/new/) [scent](/post/scent/) [blend](/post/blend/) using [rose](/post/rose/) [and](/post/and/) jasmine."
+- 动词: "[The](/zh/post/the/) [artist](/zh/post/artist/) expertly blended [the](/zh/post/the/) colors [on](/zh/post/on/) [the](/zh/post/the/) [canvas](/zh/post/canvas/)."
+- 名词: "[The](/zh/post/the/) perfumer created [a](/zh/post/a/) [new](/zh/post/new/) [scent](/zh/post/scent/) [blend](/zh/post/blend/) using [rose](/zh/post/rose/) [and](/zh/post/and/) jasmine."
 
 ## 同义词
-- [Mix](/post/mix/)
-- [Combine](/post/combine/)
+- [Mix](/zh/post/mix/)
+- [Combine](/zh/post/combine/)
 - Merge
-- [Unite](/post/unite/)
-- [Compound](/post/compound/)
+- [Unite](/zh/post/unite/)
+- [Compound](/zh/post/compound/)

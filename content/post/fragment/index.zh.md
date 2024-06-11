@@ -12,24 +12,24 @@ keywords = ['ai words', 'fragment']
 
 ## 释义
 - **名词**:
-   - 一片，碎块，碎片：[A](/post/a/) [small](/post/small/) [part](/post/part/) [of](/post/of/) [something](/post/something/) [that](/post/that/) has been [broken](/post/broken/) [or](/post/or/) separated [from](/post/from/) [the](/post/the/) [rest](/post/rest/). 例如: "[The](/post/the/) [vase](/post/vase/) shattered [into](/post/into/) [many](/post/many/) fragments."
-   - （文学、艺术作品的）片段：[A](/post/a/) [section](/post/section/) [or](/post/or/) excerpt [from](/post/from/) [a](/post/a/) larger [work](/post/work/). 例如: "[He](/post/he/) [read](/post/read/) [a](/post/a/) [fragment](/post/fragment/) [of](/post/of/) [his](/post/his/) [new](/post/new/) [novel](/post/novel/)."
+   - 一片，碎块，碎片：[A](/zh/post/a/) [small](/zh/post/small/) [part](/zh/post/part/) [of](/zh/post/of/) [something](/zh/post/something/) [that](/zh/post/that/) has been [broken](/zh/post/broken/) [or](/zh/post/or/) separated [from](/zh/post/from/) [the](/zh/post/the/) [rest](/zh/post/rest/). 例如: "[The](/zh/post/the/) [vase](/zh/post/vase/) shattered [into](/zh/post/into/) [many](/zh/post/many/) fragments."
+   - （文学、艺术作品的）片段：[A](/zh/post/a/) [section](/zh/post/section/) [or](/zh/post/or/) excerpt [from](/zh/post/from/) [a](/zh/post/a/) larger [work](/zh/post/work/). 例如: "[He](/zh/post/he/) [read](/zh/post/read/) [a](/zh/post/a/) [fragment](/zh/post/fragment/) [of](/zh/post/of/) [his](/zh/post/his/) [new](/zh/post/new/) [novel](/zh/post/novel/)."
 
 - **动词**:
-   - 分成碎片，破碎：[To](/post/to/) [break](/post/break/) [or](/post/or/) [cause](/post/cause/) [something](/post/something/) [to](/post/to/) [break](/post/break/) [into](/post/into/) pieces. 例如: "[The](/post/the/) [explosion](/post/explosion/) fragmented [the](/post/the/) [window](/post/window/)."
-   - 取得片段：[To](/post/to/) [obtain](/post/obtain/) [or](/post/or/) [create](/post/create/) [a](/post/a/) [part](/post/part/) [of](/post/of/) [something](/post/something/) larger. 例如: "[The](/post/the/) [computer](/post/computer/) [program](/post/program/) fragmented [the](/post/the/) [file](/post/file/) [into](/post/into/) smaller parts [for](/post/for/) easier [transfer](/post/transfer/)."
+   - 分成碎片，破碎：[To](/zh/post/to/) [break](/zh/post/break/) [or](/zh/post/or/) [cause](/zh/post/cause/) [something](/zh/post/something/) [to](/zh/post/to/) [break](/zh/post/break/) [into](/zh/post/into/) pieces. 例如: "[The](/zh/post/the/) [explosion](/zh/post/explosion/) fragmented [the](/zh/post/the/) [window](/zh/post/window/)."
+   - 取得片段：[To](/zh/post/to/) [obtain](/zh/post/obtain/) [or](/zh/post/or/) [create](/zh/post/create/) [a](/zh/post/a/) [part](/zh/post/part/) [of](/zh/post/of/) [something](/zh/post/something/) larger. 例如: "[The](/zh/post/the/) [computer](/zh/post/computer/) [program](/zh/post/program/) fragmented [the](/zh/post/the/) [file](/zh/post/file/) [into](/zh/post/into/) smaller parts [for](/zh/post/for/) easier [transfer](/zh/post/transfer/)."
 
 ## 短语
-- "[Fragment](/post/fragment/) [of](/post/of/) [a](/post/a/) [sentence](/post/sentence/)" 指句子的一部分。
-- "Fragmented [society](/post/society/)" 指分裂或破碎的社会结构。
+- "[Fragment](/zh/post/fragment/) [of](/zh/post/of/) [a](/zh/post/a/) [sentence](/zh/post/sentence/)" 指句子的一部分。
+- "Fragmented [society](/zh/post/society/)" 指分裂或破碎的社会结构。
 
 ## 例句
-- 名词: "[The](/post/the/) archaeologists [found](/post/found/) fragments [of](/post/of/) [ancient](/post/ancient/) pottery [in](/post/in/) [the](/post/the/) excavation [site](/post/site/)."
-- 动词: "[The](/post/the/) [rock](/post/rock/) was [hit](/post/hit/) [by](/post/by/) [a](/post/a/) [hammer](/post/hammer/) [and](/post/and/) fragmented [into](/post/into/) [tiny](/post/tiny/) pieces."
+- 名词: "[The](/zh/post/the/) archaeologists [found](/zh/post/found/) fragments [of](/zh/post/of/) [ancient](/zh/post/ancient/) pottery [in](/zh/post/in/) [the](/zh/post/the/) excavation [site](/zh/post/site/)."
+- 动词: "[The](/zh/post/the/) [rock](/zh/post/rock/) was [hit](/zh/post/hit/) [by](/zh/post/by/) [a](/zh/post/a/) [hammer](/zh/post/hammer/) [and](/zh/post/and/) fragmented [into](/zh/post/into/) [tiny](/zh/post/tiny/) pieces."
 
 ## 同义词
-- [Piece](/post/piece/)
+- [Piece](/zh/post/piece/)
 - Shard
-- [Bit](/post/bit/)
+- [Bit](/zh/post/bit/)
 - Chunk
 - Splinter

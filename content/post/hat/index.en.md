@@ -7,34 +7,34 @@ description = '[hæt] n.帽子(一般指有边的)'
 keywords = ['ai words', 'hat']
 +++
 
-## [Word](/en/post/word/): [Hat](/en/post/hat/)
+## [Word](/post/word/): [Hat](/post/hat/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhæt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [head](/en/post/head/) covering, typically [with](/en/post/with/) [a](/en/post/a/) [brim](/en/post/brim/) [and](/en/post/and/) made [of](/en/post/of/) [various](/en/post/various/) materials [such](/en/post/such/) [as](/en/post/as/) [wool](/en/post/wool/), [straw](/en/post/straw/), [or](/en/post/or/) felt. [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) worn [for](/en/post/for/) [protection](/en/post/protection/) [from](/en/post/from/) [the](/en/post/the/) [sun](/en/post/sun/), [cold](/en/post/cold/), [or](/en/post/or/) [rain](/en/post/rain/), [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) [fashion](/en/post/fashion/) [accessory](/en/post/accessory/). [Example](/en/post/example/): "[She](/en/post/she/) wore [a](/en/post/a/) wide-brimmed [hat](/en/post/hat/) [to](/en/post/to/) [the](/en/post/the/) [garden](/en/post/garden/) [party](/en/post/party/)."
-- **[Verb](/en/post/verb/) (transitive)**: [To](/en/post/to/) [put](/en/post/put/) [a](/en/post/a/) [hat](/en/post/hat/) [on](/en/post/on/) someone's [head](/en/post/head/) [or](/en/post/or/) [something](/en/post/something/). [Example](/en/post/example/): "[He](/en/post/he/) carefully [hat](/en/post/hat/) [his](/en/post/his/) newborn [son](/en/post/son/) [with](/en/post/with/) [a](/en/post/a/) [tiny](/en/post/tiny/) knitted [cap](/en/post/cap/)."
-- **[Noun](/en/post/noun/) (informal)**: [A](/en/post/a/) [specific](/en/post/specific/) [role](/en/post/role/) [or](/en/post/or/) [position](/en/post/position/); [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) [phrase](/en/post/phrase/) "[to](/en/post/to/) [wear](/en/post/wear/) [two](/en/post/two/) hats," [meaning](/en/post/meaning/) [to](/en/post/to/) [have](/en/post/have/) [multiple](/en/post/multiple/) responsibilities [or](/en/post/or/) roles. [Example](/en/post/example/): "[As](/en/post/as/) CEO, [he](/en/post/he/) wears [both](/en/post/both/) [a](/en/post/a/) [financial](/en/post/financial/) [and](/en/post/and/) [creative](/en/post/creative/) [hat](/en/post/hat/) [in](/en/post/in/) [the](/en/post/the/) [company](/en/post/company/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [head](/post/head/) covering, typically [with](/post/with/) [a](/post/a/) [brim](/post/brim/) [and](/post/and/) made [of](/post/of/) [various](/post/various/) materials [such](/post/such/) [as](/post/as/) [wool](/post/wool/), [straw](/post/straw/), [or](/post/or/) felt. [It](/post/it/) [can](/post/can/) [be](/post/be/) worn [for](/post/for/) [protection](/post/protection/) [from](/post/from/) [the](/post/the/) [sun](/post/sun/), [cold](/post/cold/), [or](/post/or/) [rain](/post/rain/), [or](/post/or/) [as](/post/as/) [a](/post/a/) [fashion](/post/fashion/) [accessory](/post/accessory/). [Example](/post/example/): "[She](/post/she/) wore [a](/post/a/) wide-brimmed [hat](/post/hat/) [to](/post/to/) [the](/post/the/) [garden](/post/garden/) [party](/post/party/)."
+- **[Verb](/post/verb/) (transitive)**: [To](/post/to/) [put](/post/put/) [a](/post/a/) [hat](/post/hat/) [on](/post/on/) someone's [head](/post/head/) [or](/post/or/) [something](/post/something/). [Example](/post/example/): "[He](/post/he/) carefully [hat](/post/hat/) [his](/post/his/) newborn [son](/post/son/) [with](/post/with/) [a](/post/a/) [tiny](/post/tiny/) knitted [cap](/post/cap/)."
+- **[Noun](/post/noun/) (informal)**: [A](/post/a/) [specific](/post/specific/) [role](/post/role/) [or](/post/or/) [position](/post/position/); [often](/post/often/) [used](/post/used/) [in](/post/in/) [the](/post/the/) [phrase](/post/phrase/) "[to](/post/to/) [wear](/post/wear/) [two](/post/two/) hats," [meaning](/post/meaning/) [to](/post/to/) [have](/post/have/) [multiple](/post/multiple/) responsibilities [or](/post/or/) roles. [Example](/post/example/): "[As](/post/as/) CEO, [he](/post/he/) wears [both](/post/both/) [a](/post/a/) [financial](/post/financial/) [and](/post/and/) [creative](/post/creative/) [hat](/post/hat/) [in](/post/in/) [the](/post/the/) [company](/post/company/)."
 
 ## Phrases
-- "[Throw](/en/post/throw/) [your](/en/post/your/) [hat](/en/post/hat/) [into](/en/post/into/) [the](/en/post/the/) [ring](/en/post/ring/)" - [to](/en/post/to/) [declare](/en/post/declare/) one's candidacy [for](/en/post/for/) an [election](/en/post/election/) [or](/en/post/or/) participation [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/).
-- "[Take](/en/post/take/) [off](/en/post/off/) [your](/en/post/your/) [hat](/en/post/hat/) [to](/en/post/to/) [someone](/en/post/someone/)" - [to](/en/post/to/) [show](/en/post/show/) [respect](/en/post/respect/) [or](/en/post/or/) admiration [for](/en/post/for/) [someone](/en/post/someone/).
-- "[Put](/en/post/put/) one's thinking [cap](/en/post/cap/) [on](/en/post/on/)" - [to](/en/post/to/) [start](/en/post/start/) thinking [seriously](/en/post/seriously/) [about](/en/post/about/) [something](/en/post/something/).
+- "[Throw](/post/throw/) [your](/post/your/) [hat](/post/hat/) [into](/post/into/) [the](/post/the/) [ring](/post/ring/)" - [to](/post/to/) [declare](/post/declare/) one's candidacy [for](/post/for/) an [election](/post/election/) [or](/post/or/) participation [in](/post/in/) [a](/post/a/) [competition](/post/competition/).
+- "[Take](/post/take/) [off](/post/off/) [your](/post/your/) [hat](/post/hat/) [to](/post/to/) [someone](/post/someone/)" - [to](/post/to/) [show](/post/show/) [respect](/post/respect/) [or](/post/or/) admiration [for](/post/for/) [someone](/post/someone/).
+- "[Put](/post/put/) one's thinking [cap](/post/cap/) [on](/post/on/)" - [to](/post/to/) [start](/post/start/) thinking [seriously](/post/seriously/) [about](/post/about/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [gentleman](/en/post/gentleman/) removed [his](/en/post/his/) [top](/en/post/top/) [hat](/en/post/hat/) [as](/en/post/as/) [he](/en/post/he/) entered [the](/en/post/the/) elegant ballroom."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [hat](/en/post/hat/) [her](/en/post/her/) [horse](/en/post/horse/) [with](/en/post/with/) [a](/en/post/a/) colorful plume-adorned riding [helmet](/en/post/helmet/)."
-- **[Noun](/en/post/noun/) (informal)**: "Working [as](/en/post/as/) [a](/en/post/a/) freelancer, [she](/en/post/she/) had [to](/en/post/to/) [hat](/en/post/hat/) [many](/en/post/many/) [different](/en/post/different/) roles [throughout](/en/post/throughout/) [the](/en/post/the/) [day](/en/post/day/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [gentleman](/post/gentleman/) removed [his](/post/his/) [top](/post/top/) [hat](/post/hat/) [as](/post/as/) [he](/post/he/) entered [the](/post/the/) elegant ballroom."
+- **[Verb](/post/verb/)**: "[She](/post/she/) [hat](/post/hat/) [her](/post/her/) [horse](/post/horse/) [with](/post/with/) [a](/post/a/) colorful plume-adorned riding [helmet](/post/helmet/)."
+- **[Noun](/post/noun/) (informal)**: "Working [as](/post/as/) [a](/post/a/) freelancer, [she](/post/she/) had [to](/post/to/) [hat](/post/hat/) [many](/post/many/) [different](/post/different/) roles [throughout](/post/throughout/) [the](/post/the/) [day](/post/day/)."
 
 ## Synonyms
-- [Cap](/en/post/cap/)
+- [Cap](/post/cap/)
 - Headgear
 - Headdress
 - Beret
 - Fedora
 - Beanie
 - Toque
-- Bonnet ([for](/en/post/for/) [certain](/en/post/certain/) types [of](/en/post/of/) hats) 
+- Bonnet ([for](/post/for/) [certain](/post/certain/) types [of](/post/of/) hats) 
 
-[Note](/en/post/note/): [The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) '[hat](/en/post/hat/)' [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) is [less](/en/post/less/) [common](/en/post/common/) [than](/en/post/than/) [its](/en/post/its/) [use](/en/post/use/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [and](/en/post/and/) [may](/en/post/may/) [not](/en/post/not/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [all](/en/post/all/) dictionaries [or](/en/post/or/) contexts. [In](/en/post/in/) [most](/en/post/most/) cases, [it](/en/post/it/) refers [to](/en/post/to/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) placing [a](/en/post/a/) [hat](/en/post/hat/) [on](/en/post/on/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/).
+[Note](/post/note/): [The](/post/the/) [use](/post/use/) [of](/post/of/) '[hat](/post/hat/)' [as](/post/as/) [a](/post/a/) [verb](/post/verb/) is [less](/post/less/) [common](/post/common/) [than](/post/than/) [its](/post/its/) [use](/post/use/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [and](/post/and/) [may](/post/may/) [not](/post/not/) [be](/post/be/) [found](/post/found/) [in](/post/in/) [all](/post/all/) dictionaries [or](/post/or/) contexts. [In](/post/in/) [most](/post/most/) cases, [it](/post/it/) refers [to](/post/to/) [the](/post/the/) [action](/post/action/) [of](/post/of/) placing [a](/post/a/) [hat](/post/hat/) [on](/post/on/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/).

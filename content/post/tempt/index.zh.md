@@ -8,27 +8,27 @@ keywords = ['ai words', 'tempt']
 +++
 
 ## 读音
-/[tempt](/post/tempt/)/
+/[tempt](/zh/post/tempt/)/
 
 ## 释义
 - **动词**:
-1. 引诱；诱惑：尝试以某种方式吸引或诱导某人做某事。例如: "[The](/post/the/) [delicious](/post/delicious/) [smell](/post/smell/) tempted [her](/post/her/) [to](/post/to/) [eat](/post/eat/) [more](/post/more/)."
-2. 使感兴趣；激起兴趣：激发某人的欲望或好奇心。例如: "[The](/post/the/) [new](/post/new/) [book](/post/book/) tempted [me](/post/me/) [with](/post/with/) [its](/post/its/) intriguing [title](/post/title/)."
+1. 引诱；诱惑：尝试以某种方式吸引或诱导某人做某事。例如: "[The](/zh/post/the/) [delicious](/zh/post/delicious/) [smell](/zh/post/smell/) tempted [her](/zh/post/her/) [to](/zh/post/to/) [eat](/zh/post/eat/) [more](/zh/post/more/)."
+2. 使感兴趣；激起兴趣：激发某人的欲望或好奇心。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [book](/zh/post/book/) tempted [me](/zh/post/me/) [with](/zh/post/with/) [its](/zh/post/its/) intriguing [title](/zh/post/title/)."
 
 - **名词**:
-- 诱惑物；引诱物：引起欲望或冲动的事物。例如: "[Chocolate](/post/chocolate/) is [a](/post/a/) [common](/post/common/) [temptation](/post/temptation/) [for](/post/for/) [many](/post/many/) [people](/post/people/)."
+- 诱惑物；引诱物：引起欲望或冲动的事物。例如: "[Chocolate](/zh/post/chocolate/) is [a](/zh/post/a/) [common](/zh/post/common/) [temptation](/zh/post/temptation/) [for](/zh/post/for/) [many](/zh/post/many/) [people](/zh/post/people/)."
 
 ## 短语
-- "[Resist](/post/resist/) [temptation](/post/temptation/)" 抵抗诱惑
-- "[Give](/post/give/) [in](/post/in/) [to](/post/to/) [temptation](/post/temptation/)" 屈服于诱惑
+- "[Resist](/zh/post/resist/) [temptation](/zh/post/temptation/)" 抵抗诱惑
+- "[Give](/zh/post/give/) [in](/zh/post/in/) [to](/zh/post/to/) [temptation](/zh/post/temptation/)" 屈服于诱惑
 
 ## 例句
-- 动词: "[The](/post/the/) [offer](/post/offer/) [of](/post/of/) [a](/post/a/) promotion tempted [him](/post/him/) [to](/post/to/) [stay](/post/stay/) [with](/post/with/) [the](/post/the/) [company](/post/company/)."
-- 名词: "[Her](/post/her/) biggest [temptation](/post/temptation/) was [the](/post/the/) [box](/post/box/) [of](/post/of/) chocolates sitting [on](/post/on/) [the](/post/the/) [kitchen](/post/kitchen/) [counter](/post/counter/)."
+- 动词: "[The](/zh/post/the/) [offer](/zh/post/offer/) [of](/zh/post/of/) [a](/zh/post/a/) promotion tempted [him](/zh/post/him/) [to](/zh/post/to/) [stay](/zh/post/stay/) [with](/zh/post/with/) [the](/zh/post/the/) [company](/zh/post/company/)."
+- 名词: "[Her](/zh/post/her/) biggest [temptation](/zh/post/temptation/) was [the](/zh/post/the/) [box](/zh/post/box/) [of](/zh/post/of/) chocolates sitting [on](/zh/post/on/) [the](/zh/post/the/) [kitchen](/zh/post/kitchen/) [counter](/zh/post/counter/)."
 
 ## 同义词
 - Entice
 - Lure
 - Seduce
-- [Draw](/post/draw/)
+- [Draw](/zh/post/draw/)
 - Allure

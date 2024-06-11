@@ -11,20 +11,20 @@ keywords = ['ai words', 'uniform']
 /ˈjuːnɪfɔːrm/
 
 ## 释义
-- **名词**: 一种统一的服装，通常在学校、军队或工作中穿着，以表明身份或遵守规定。例如: "[All](/post/all/) students [must](/post/must/) [wear](/post/wear/) [a](/post/a/) [school](/post/school/) [uniform](/post/uniform/)."
-- **形容词**: 一致的，相同的，没有变化的。例如: "[The](/post/the/) [weather](/post/weather/) has been uniformly [warm](/post/warm/) [this](/post/this/) [week](/post/week/)."
-- **动词**: 使...统一；使...穿制服。例如: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) [will](/post/will/) [uniform](/post/uniform/) [all](/post/all/) [company](/post/company/) branches."
+- **名词**: 一种统一的服装，通常在学校、军队或工作中穿着，以表明身份或遵守规定。例如: "[All](/zh/post/all/) students [must](/zh/post/must/) [wear](/zh/post/wear/) [a](/zh/post/a/) [school](/zh/post/school/) [uniform](/zh/post/uniform/)."
+- **形容词**: 一致的，相同的，没有变化的。例如: "[The](/zh/post/the/) [weather](/zh/post/weather/) has been uniformly [warm](/zh/post/warm/) [this](/zh/post/this/) [week](/zh/post/week/)."
+- **动词**: 使...统一；使...穿制服。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/) [will](/zh/post/will/) [uniform](/zh/post/uniform/) [all](/zh/post/all/) [company](/zh/post/company/) branches."
 
 ## 短语
-- "[be](/post/be/) [in](/post/in/) [uniform](/post/uniform/)" 表示穿着制服。
-- "[uniform](/post/uniform/) standards" 指的是统一的标准或准则。
+- "[be](/zh/post/be/) [in](/zh/post/in/) [uniform](/zh/post/uniform/)" 表示穿着制服。
+- "[uniform](/zh/post/uniform/) standards" 指的是统一的标准或准则。
 
 ## 例句
-- 名词: "[The](/post/the/) [football](/post/football/) [team](/post/team/) wore [their](/post/their/) [red](/post/red/) [and](/post/and/) [white](/post/white/) uniforms [for](/post/for/) [the](/post/the/) [game](/post/game/)."
-- 形容词: "[The](/post/the/) [service](/post/service/) [at](/post/at/) [this](/post/this/) [hotel](/post/hotel/) is uniformly [excellent](/post/excellent/)."
-- 动词: "[The](/post/the/) [new](/post/new/) employees were uniformed [before](/post/before/) starting [work](/post/work/)."
+- 名词: "[The](/zh/post/the/) [football](/zh/post/football/) [team](/zh/post/team/) wore [their](/zh/post/their/) [red](/zh/post/red/) [and](/zh/post/and/) [white](/zh/post/white/) uniforms [for](/zh/post/for/) [the](/zh/post/the/) [game](/zh/post/game/)."
+- 形容词: "[The](/zh/post/the/) [service](/zh/post/service/) [at](/zh/post/at/) [this](/zh/post/this/) [hotel](/zh/post/hotel/) is uniformly [excellent](/zh/post/excellent/)."
+- 动词: "[The](/zh/post/the/) [new](/zh/post/new/) employees were uniformed [before](/zh/post/before/) starting [work](/zh/post/work/)."
 
 ## 同义词
 - 根据不同词性，同义词有所不同：
-  - 名词: attire, [dress](/post/dress/), outfit
-  - 形容词: [consistent](/post/consistent/), uniformed, standardized
+  - 名词: attire, [dress](/zh/post/dress/), outfit
+  - 形容词: [consistent](/zh/post/consistent/), uniformed, standardized

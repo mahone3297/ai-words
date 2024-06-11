@@ -7,26 +7,26 @@ description = '[ˈintristiŋ] a.有趣的，引人入胜的'
 keywords = ['ai words', 'interesting']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪntrəstɪŋ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Capable](/en/post/capable/) [of](/en/post/of/) arousing [interest](/en/post/interest/); holding [or](/en/post/or/) capturing one's [attention](/en/post/attention/) [or](/en/post/or/) [curiosity](/en/post/curiosity/). [It](/en/post/it/) describes [something](/en/post/something/) [that](/en/post/that/) is engaging, thought-provoking, [or](/en/post/or/) appealing.
+- **[Adjective](/post/adjective/)**: [Capable](/post/capable/) [of](/post/of/) arousing [interest](/post/interest/); holding [or](/post/or/) capturing one's [attention](/post/attention/) [or](/post/or/) [curiosity](/post/curiosity/). [It](/post/it/) describes [something](/post/something/) [that](/post/that/) is engaging, thought-provoking, [or](/post/or/) appealing.
 
-[Example](/en/post/example/) Sentences:
-- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [new](/en/post/new/) [exhibit](/en/post/exhibit/) [at](/en/post/at/) [the](/en/post/the/) [museum](/en/post/museum/) was [really](/en/post/really/) [interesting](/en/post/interesting/), [with](/en/post/with/) artifacts [from](/en/post/from/) [all](/en/post/all/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/).
-- "[She](/en/post/she/) [found](/en/post/found/) [his](/en/post/his/) tales [of](/en/post/of/) [travel](/en/post/travel/) [to](/en/post/to/) [be](/en/post/be/) [very](/en/post/very/) [interesting](/en/post/interesting/)."
-- "[The](/en/post/the/) [scientist](/en/post/scientist/) presented [some](/en/post/some/) [interesting](/en/post/interesting/) findings [in](/en/post/in/) [her](/en/post/her/) [research](/en/post/research/) [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/)."
+[Example](/post/example/) Sentences:
+- **[Adjective](/post/adjective/)**: [The](/post/the/) [new](/post/new/) [exhibit](/post/exhibit/) [at](/post/at/) [the](/post/the/) [museum](/post/museum/) was [really](/post/really/) [interesting](/post/interesting/), [with](/post/with/) artifacts [from](/post/from/) [all](/post/all/) [around](/post/around/) [the](/post/the/) [world](/post/world/).
+- "[She](/post/she/) [found](/post/found/) [his](/post/his/) tales [of](/post/of/) [travel](/post/travel/) [to](/post/to/) [be](/post/be/) [very](/post/very/) [interesting](/post/interesting/)."
+- "[The](/post/the/) [scientist](/post/scientist/) presented [some](/post/some/) [interesting](/post/interesting/) findings [in](/post/in/) [her](/post/her/) [research](/post/research/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/)."
 
 ## Phrases
-- "An [interesting](/en/post/interesting/) [fact](/en/post/fact/)": Refers [to](/en/post/to/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/) [that](/en/post/that/) is intriguing [or](/en/post/or/) [novel](/en/post/novel/).
-- "[Find](/en/post/find/) [it](/en/post/it/) [interesting](/en/post/interesting/)": Expresses [personal](/en/post/personal/) fascination [or](/en/post/or/) [curiosity](/en/post/curiosity/) [about](/en/post/about/) [something](/en/post/something/).
-- "[Make](/en/post/make/) things [interesting](/en/post/interesting/)": [To](/en/post/to/) [add](/en/post/add/) excitement [or](/en/post/or/) novelty [to](/en/post/to/) [a](/en/post/a/) [situation](/en/post/situation/).
+- "An [interesting](/post/interesting/) [fact](/post/fact/)": Refers [to](/post/to/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [information](/post/information/) [that](/post/that/) is intriguing [or](/post/or/) [novel](/post/novel/).
+- "[Find](/post/find/) [it](/post/it/) [interesting](/post/interesting/)": Expresses [personal](/post/personal/) fascination [or](/post/or/) [curiosity](/post/curiosity/) [about](/post/about/) [something](/post/something/).
+- "[Make](/post/make/) things [interesting](/post/interesting/)": [To](/post/to/) [add](/post/add/) excitement [or](/post/or/) novelty [to](/post/to/) [a](/post/a/) [situation](/post/situation/).
   
-## [Example](/en/post/example/) Sentences
-- **Phrases**: "Did [you](/en/post/you/) [know](/en/post/know/) [that](/en/post/that/) octopuses [have](/en/post/have/) [three](/en/post/three/) hearts? That's an [interesting](/en/post/interesting/) [fact](/en/post/fact/)!"
-- "I [find](/en/post/find/) [it](/en/post/it/) [interesting](/en/post/interesting/) [how](/en/post/how/) plants [can](/en/post/can/) [communicate](/en/post/communicate/) [with](/en/post/with/) [each](/en/post/each/) [other](/en/post/other/) [through](/en/post/through/) [their](/en/post/their/) roots."
-- "[To](/en/post/to/) [make](/en/post/make/) [the](/en/post/the/) [game](/en/post/game/) [more](/en/post/more/) [interesting](/en/post/interesting/), [we](/en/post/we/) decided [to](/en/post/to/) [play](/en/post/play/) [with](/en/post/with/) [different](/en/post/different/) rules."
+## [Example](/post/example/) Sentences
+- **Phrases**: "Did [you](/post/you/) [know](/post/know/) [that](/post/that/) octopuses [have](/post/have/) [three](/post/three/) hearts? That's an [interesting](/post/interesting/) [fact](/post/fact/)!"
+- "I [find](/post/find/) [it](/post/it/) [interesting](/post/interesting/) [how](/post/how/) plants [can](/post/can/) [communicate](/post/communicate/) [with](/post/with/) [each](/post/each/) [other](/post/other/) [through](/post/through/) [their](/post/their/) roots."
+- "[To](/post/to/) [make](/post/make/) [the](/post/the/) [game](/post/game/) [more](/post/more/) [interesting](/post/interesting/), [we](/post/we/) decided [to](/post/to/) [play](/post/play/) [with](/post/with/) [different](/post/different/) rules."
 
 ## Synonyms
 - Fascinating
@@ -37,5 +37,5 @@ keywords = ['ai words', 'interesting']
 - Compelling
 - Absorbing
 - Stimulating
-- [Exciting](/en/post/exciting/)
+- [Exciting](/post/exciting/)
 - Riveting

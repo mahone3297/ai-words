@@ -12,27 +12,27 @@ keywords = ['ai words', 'screen']
 
 ## 释义
 - **名词**:
-  - 显示器，屏幕：如 "He's working [on](/post/on/) [his](/post/his/) [computer](/post/computer/) [screen](/post/screen/)."
-  - 银幕：如 "[The](/post/the/) [movie](/post/movie/) [will](/post/will/) [be](/post/be/) shown [on](/post/on/) [a](/post/a/) [giant](/post/giant/) [outdoor](/post/outdoor/) [screen](/post/screen/)."
-  - （电话或广播的）通话界面：如 "I [need](/post/need/) [to](/post/to/) [put](/post/put/) [you](/post/you/) [on](/post/on/) [hold](/post/hold/) [for](/post/for/) [a](/post/a/) [moment](/post/moment/) [while](/post/while/) I [screen](/post/screen/) [the](/post/the/) incoming calls."
-  - （防护或遮蔽物）：如 "[The](/post/the/) plants are [behind](/post/behind/) [a](/post/a/) [screen](/post/screen/) [of](/post/of/) bamboo."
+  - 显示器，屏幕：如 "He's working [on](/zh/post/on/) [his](/zh/post/his/) [computer](/zh/post/computer/) [screen](/zh/post/screen/)."
+  - 银幕：如 "[The](/zh/post/the/) [movie](/zh/post/movie/) [will](/zh/post/will/) [be](/zh/post/be/) shown [on](/zh/post/on/) [a](/zh/post/a/) [giant](/zh/post/giant/) [outdoor](/zh/post/outdoor/) [screen](/zh/post/screen/)."
+  - （电话或广播的）通话界面：如 "I [need](/zh/post/need/) [to](/zh/post/to/) [put](/zh/post/put/) [you](/zh/post/you/) [on](/zh/post/on/) [hold](/zh/post/hold/) [for](/zh/post/for/) [a](/zh/post/a/) [moment](/zh/post/moment/) [while](/zh/post/while/) I [screen](/zh/post/screen/) [the](/zh/post/the/) incoming calls."
+  - （防护或遮蔽物）：如 "[The](/zh/post/the/) plants are [behind](/zh/post/behind/) [a](/zh/post/a/) [screen](/zh/post/screen/) [of](/zh/post/of/) bamboo."
 
 - **动词**:
-  - 过滤，筛选：如 "[We](/post/we/) screened [the](/post/the/) applicants [to](/post/to/) [find](/post/find/) [the](/post/the/) [most](/post/most/) qualified candidates."
-  - 在（电影、节目等）公映前预览：如 "[The](/post/the/) [film](/post/film/) was screened [at](/post/at/) [a](/post/a/) [private](/post/private/) [event](/post/event/) [before](/post/before/) [its](/post/its/) [official](/post/official/) [release](/post/release/)."
-  - （在电话中）接听并决定是否接通：如 "[She](/post/she/) screens [her](/post/her/) calls [during](/post/during/) meetings."
+  - 过滤，筛选：如 "[We](/zh/post/we/) screened [the](/zh/post/the/) applicants [to](/zh/post/to/) [find](/zh/post/find/) [the](/zh/post/the/) [most](/zh/post/most/) qualified candidates."
+  - 在（电影、节目等）公映前预览：如 "[The](/zh/post/the/) [film](/zh/post/film/) was screened [at](/zh/post/at/) [a](/zh/post/a/) [private](/zh/post/private/) [event](/zh/post/event/) [before](/zh/post/before/) [its](/zh/post/its/) [official](/zh/post/official/) [release](/zh/post/release/)."
+  - （在电话中）接听并决定是否接通：如 "[She](/zh/post/she/) screens [her](/zh/post/her/) calls [during](/zh/post/during/) meetings."
 
 ## 短语
-- "[on](/post/on/) [the](/post/the/) [screen](/post/screen/)" 指在显示器或银幕上显示。
-- "[screen](/post/screen/) [off](/post/off/)" 用于隔绝或隐藏：如 "[Please](/post/please/) [screen](/post/screen/) [off](/post/off/) [the](/post/the/) [area](/post/area/) [so](/post/so/) [we](/post/we/) [can](/post/can/) [have](/post/have/) [some](/post/some/) privacy."
+- "[on](/zh/post/on/) [the](/zh/post/the/) [screen](/zh/post/screen/)" 指在显示器或银幕上显示。
+- "[screen](/zh/post/screen/) [off](/zh/post/off/)" 用于隔绝或隐藏：如 "[Please](/zh/post/please/) [screen](/zh/post/screen/) [off](/zh/post/off/) [the](/zh/post/the/) [area](/zh/post/area/) [so](/zh/post/so/) [we](/zh/post/we/) [can](/zh/post/can/) [have](/zh/post/have/) [some](/zh/post/some/) privacy."
 
 ## 例句
-- 名词: "[The](/post/the/) presentation [will](/post/will/) [be](/post/be/) projected [onto](/post/onto/) [a](/post/a/) [large](/post/large/) [screen](/post/screen/)."
-- 动词: "[The](/post/the/) HR [department](/post/department/) is screening resumes [for](/post/for/) [the](/post/the/) [job](/post/job/) [opening](/post/opening/)."
-- 感叹词: "[In](/post/in/) [old](/post/old/) movies, [they](/post/they/) [would](/post/would/) [often](/post/often/) [say](/post/say/) '[Hello](/post/hello/), [Screen](/post/screen/)!' [when](/post/when/) addressing [the](/post/the/) [camera](/post/camera/)."
+- 名词: "[The](/zh/post/the/) presentation [will](/zh/post/will/) [be](/zh/post/be/) projected [onto](/zh/post/onto/) [a](/zh/post/a/) [large](/zh/post/large/) [screen](/zh/post/screen/)."
+- 动词: "[The](/zh/post/the/) HR [department](/zh/post/department/) is screening resumes [for](/zh/post/for/) [the](/zh/post/the/) [job](/zh/post/job/) [opening](/zh/post/opening/)."
+- 感叹词: "[In](/zh/post/in/) [old](/zh/post/old/) movies, [they](/zh/post/they/) [would](/zh/post/would/) [often](/zh/post/often/) [say](/zh/post/say/) '[Hello](/zh/post/hello/), [Screen](/zh/post/screen/)!' [when](/zh/post/when/) addressing [the](/zh/post/the/) [camera](/zh/post/camera/)."
 
 ## 同义词
-- [Monitor](/post/monitor/) (名词时)
-- [Filter](/post/filter/) (动词时)
+- [Monitor](/zh/post/monitor/) (名词时)
+- [Filter](/zh/post/filter/) (动词时)
 - Projection (名词时，尤其指银幕)
-- [Shield](/post/shield/) (名词时，作遮蔽物之意)
+- [Shield](/zh/post/shield/) (名词时，作遮蔽物之意)

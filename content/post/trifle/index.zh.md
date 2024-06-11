@@ -11,22 +11,22 @@ keywords = ['ai words', 'trifle']
 /traɪfl/
 
 ## 释义
-- **名词**: 不重要的事物；琐碎的事；少量。例如: "That's [just](/post/just/) [a](/post/a/) [trifle](/post/trifle/), [not](/post/not/) [worth](/post/worth/) worrying [about](/post/about/)."
-- **动词**: 轻视；对待…不认真。例如: "[He](/post/he/) trifled [with](/post/with/) [her](/post/her/) feelings [by](/post/by/) [not](/post/not/) taking [their](/post/their/) [relationship](/post/relationship/) [seriously](/post/seriously/)."
-- **形容词**: 微不足道的；琐碎的。例如: "[She](/post/she/) has [a](/post/a/) [trifle](/post/trifle/) [of](/post/of/) [work](/post/work/) [left](/post/left/) [to](/post/to/) [finish](/post/finish/)."
+- **名词**: 不重要的事物；琐碎的事；少量。例如: "That's [just](/zh/post/just/) [a](/zh/post/a/) [trifle](/zh/post/trifle/), [not](/zh/post/not/) [worth](/zh/post/worth/) worrying [about](/zh/post/about/)."
+- **动词**: 轻视；对待…不认真。例如: "[He](/zh/post/he/) trifled [with](/zh/post/with/) [her](/zh/post/her/) feelings [by](/zh/post/by/) [not](/zh/post/not/) taking [their](/zh/post/their/) [relationship](/zh/post/relationship/) [seriously](/zh/post/seriously/)."
+- **形容词**: 微不足道的；琐碎的。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [trifle](/zh/post/trifle/) [of](/zh/post/of/) [work](/zh/post/work/) [left](/zh/post/left/) [to](/zh/post/to/) [finish](/zh/post/finish/)."
 
 ## 短语
-- "[a](/post/a/) [mere](/post/mere/) [trifle](/post/trifle/)" 意味着极其微小或不重要的东西。
-- "[trifle](/post/trifle/) [with](/post/with/) someone's affections" 指玩弄某人的感情。
+- "[a](/zh/post/a/) [mere](/zh/post/mere/) [trifle](/zh/post/trifle/)" 意味着极其微小或不重要的东西。
+- "[trifle](/zh/post/trifle/) [with](/zh/post/with/) someone's affections" 指玩弄某人的感情。
 
 ## 例句
-- 名词: "[The](/post/the/) disagreement was [a](/post/a/) [trifle](/post/trifle/) compared [to](/post/to/) [the](/post/the/) [main](/post/main/) [issue](/post/issue/) [they](/post/they/) needed [to](/post/to/) [address](/post/address/)."
-- 动词: "Don't [trifle](/post/trifle/) [with](/post/with/) [your](/post/your/) [health](/post/health/); [see](/post/see/) [a](/post/a/) [doctor](/post/doctor/) [if](/post/if/) you're [feeling](/post/feeling/) unwell."
-- 形容词: "[His](/post/his/) concerns were trivial, [just](/post/just/) [a](/post/a/) [trifle](/post/trifle/) [in](/post/in/) [the](/post/the/) [grand](/post/grand/) [scheme](/post/scheme/) [of](/post/of/) things."
+- 名词: "[The](/zh/post/the/) disagreement was [a](/zh/post/a/) [trifle](/zh/post/trifle/) compared [to](/zh/post/to/) [the](/zh/post/the/) [main](/zh/post/main/) [issue](/zh/post/issue/) [they](/zh/post/they/) needed [to](/zh/post/to/) [address](/zh/post/address/)."
+- 动词: "Don't [trifle](/zh/post/trifle/) [with](/zh/post/with/) [your](/zh/post/your/) [health](/zh/post/health/); [see](/zh/post/see/) [a](/zh/post/a/) [doctor](/zh/post/doctor/) [if](/zh/post/if/) you're [feeling](/zh/post/feeling/) unwell."
+- 形容词: "[His](/zh/post/his/) concerns were trivial, [just](/zh/post/just/) [a](/zh/post/a/) [trifle](/zh/post/trifle/) [in](/zh/post/in/) [the](/zh/post/the/) [grand](/zh/post/grand/) [scheme](/zh/post/scheme/) [of](/zh/post/of/) things."
 
 ## 同义词
 - insignificant
 - petty
-- insignificant [detail](/post/detail/)
-- [slight](/post/slight/)
+- insignificant [detail](/zh/post/detail/)
+- [slight](/zh/post/slight/)
 - negligible

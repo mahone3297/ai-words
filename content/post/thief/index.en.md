@@ -7,37 +7,37 @@ description = '[θiːf] n.窃贼，偷窃犯'
 keywords = ['ai words', 'thief']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /θiːf/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[thief](/en/post/thief/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) steals [or](/en/post/or/) commits theft. [They](/en/post/they/) [take](/en/post/take/) [something](/en/post/something/) [that](/en/post/that/) does [not](/en/post/not/) [belong](/en/post/belong/) [to](/en/post/to/) [them](/en/post/them/) [without](/en/post/without/) [permission](/en/post/permission/).
+### [Noun](/post/noun/)
+[A](/post/a/) **[thief](/post/thief/)** is [a](/post/a/) [person](/post/person/) [who](/post/who/) steals [or](/post/or/) commits theft. [They](/post/they/) [take](/post/take/) [something](/post/something/) [that](/post/that/) does [not](/post/not/) [belong](/post/belong/) [to](/post/to/) [them](/post/them/) [without](/post/without/) [permission](/post/permission/).
 
-### [Verb](/en/post/verb/) (Infrequent)
-[To](/en/post/to/) [steal](/en/post/steal/) [or](/en/post/or/) [commit](/en/post/commit/) theft, [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) illicitness [or](/en/post/or/) [criminal](/en/post/criminal/) [activity](/en/post/activity/).
+### [Verb](/post/verb/) (Infrequent)
+[To](/post/to/) [steal](/post/steal/) [or](/post/or/) [commit](/post/commit/) theft, [often](/post/often/) [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) illicitness [or](/post/or/) [criminal](/post/criminal/) [activity](/post/activity/).
 
 ## Phrases
-- "Caught [the](/en/post/the/) [thief](/en/post/thief/) [in](/en/post/in/) [the](/en/post/the/) [act](/en/post/act/)"
+- "Caught [the](/post/the/) [thief](/post/thief/) [in](/post/in/) [the](/post/the/) [act](/post/act/)"
 - "Theft prevention measures"
-- "[A](/en/post/a/) [career](/en/post/career/) [as](/en/post/as/) [a](/en/post/a/) [professional](/en/post/professional/) [thief](/en/post/thief/)"
+- "[A](/post/a/) [career](/post/career/) [as](/post/as/) [a](/post/a/) [professional](/post/professional/) [thief](/post/thief/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [police](/en/post/police/) were chasing [after](/en/post/after/) [the](/en/post/the/) notorious [art](/en/post/art/) [thief](/en/post/thief/)."
-- **Infrequent [Verb](/en/post/verb/)**: "[The](/en/post/the/) [thief](/en/post/thief/) slipped [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/) [without](/en/post/without/) [being](/en/post/being/) detected."
-- "[The](/en/post/the/) [victim](/en/post/victim/) reported [their](/en/post/their/) [wallet](/en/post/wallet/) [to](/en/post/to/) [the](/en/post/the/) [police](/en/post/police/) [after](/en/post/after/) discovering [it](/en/post/it/) had been stolen [by](/en/post/by/) [a](/en/post/a/) [thief](/en/post/thief/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [police](/post/police/) were chasing [after](/post/after/) [the](/post/the/) notorious [art](/post/art/) [thief](/post/thief/)."
+- **Infrequent [Verb](/post/verb/)**: "[The](/post/the/) [thief](/post/thief/) slipped [out](/post/out/) [of](/post/of/) [the](/post/the/) [house](/post/house/) [without](/post/without/) [being](/post/being/) detected."
+- "[The](/post/the/) [victim](/post/victim/) reported [their](/post/their/) [wallet](/post/wallet/) [to](/post/to/) [the](/post/the/) [police](/post/police/) [after](/post/after/) discovering [it](/post/it/) had been stolen [by](/post/by/) [a](/post/a/) [thief](/post/thief/)."
 
 ## Synonyms
 - Burglar
-- [Robber](/en/post/robber/)
+- [Robber](/post/robber/)
 -盗贼 (dào zéi) (Chinese)
 - Ladnýk (Czech)
 - Dieb (German)
 - Ladrón (Spanish)
 - Vandal (informal)
-- Pickpocket (specifically [for](/en/post/for/) [small](/en/post/small/) thefts)
+- Pickpocket (specifically [for](/post/for/) [small](/post/small/) thefts)
 
 ## Antonyms
-- [Owner](/en/post/owner/)
-- [Innocent](/en/post/innocent/)
-- Law-abiding [citizen](/en/post/citizen/)
+- [Owner](/post/owner/)
+- [Innocent](/post/innocent/)
+- Law-abiding [citizen](/post/citizen/)

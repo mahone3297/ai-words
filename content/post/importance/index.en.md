@@ -7,33 +7,33 @@ description = '[imˈpɔːtəns] n.重要；重要性'
 keywords = ['ai words', 'importance']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪmˈpɔːrtns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [important](/en/post/important/), [significance](/en/post/significance/), [or](/en/post/or/) having [great](/en/post/great/) [value](/en/post/value/) [or](/en/post/or/) [consequence](/en/post/consequence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) [education](/en/post/education/) cannot [be](/en/post/be/) overstated."
-  - _noun (countable)_ : [Something](/en/post/something/) [that](/en/post/that/) is [important](/en/post/important/) [or](/en/post/or/) has [great](/en/post/great/) [significance](/en/post/significance/). [Example](/en/post/example/): "[Conservation](/en/post/conservation/) is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [key](/en/post/key/) importances [in](/en/post/in/) maintaining biodiversity."
+- **[Noun](/post/noun/)**: [The](/post/the/) [quality](/post/quality/) [or](/post/or/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [important](/post/important/), [significance](/post/significance/), [or](/post/or/) having [great](/post/great/) [value](/post/value/) [or](/post/or/) [consequence](/post/consequence/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [importance](/post/importance/) [of](/post/of/) [education](/post/education/) cannot [be](/post/be/) overstated."
+  - _noun (countable)_ : [Something](/post/something/) [that](/post/that/) is [important](/post/important/) [or](/post/or/) has [great](/post/great/) [significance](/post/significance/). [Example](/post/example/): "[Conservation](/post/conservation/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) [key](/post/key/) importances [in](/post/in/) maintaining biodiversity."
 
 ## Phrases
-- "[Attach](/en/post/attach/) [importance](/en/post/importance/) [to](/en/post/to/) [something](/en/post/something/)": [To](/en/post/to/) [consider](/en/post/consider/) [something](/en/post/something/) [as](/en/post/as/) [significant](/en/post/significant/) [or](/en/post/or/) [give](/en/post/give/) [it](/en/post/it/) priority. [Example](/en/post/example/): "[She](/en/post/she/) attaches [great](/en/post/great/) [importance](/en/post/importance/) [to](/en/post/to/) maintaining [good](/en/post/good/) [health](/en/post/health/)."
-- "[Of](/en/post/of/) [utmost](/en/post/utmost/) [importance](/en/post/importance/)": Signifying [something](/en/post/something/) is [extremely](/en/post/extremely/) [important](/en/post/important/) [or](/en/post/or/) [critical](/en/post/critical/). [Example](/en/post/example/): "[Your](/en/post/your/) [presence](/en/post/presence/) [at](/en/post/at/) [the](/en/post/the/) [meeting](/en/post/meeting/) is [of](/en/post/of/) [utmost](/en/post/utmost/) [importance](/en/post/importance/)."
+- "[Attach](/post/attach/) [importance](/post/importance/) [to](/post/to/) [something](/post/something/)": [To](/post/to/) [consider](/post/consider/) [something](/post/something/) [as](/post/as/) [significant](/post/significant/) [or](/post/or/) [give](/post/give/) [it](/post/it/) priority. [Example](/post/example/): "[She](/post/she/) attaches [great](/post/great/) [importance](/post/importance/) [to](/post/to/) maintaining [good](/post/good/) [health](/post/health/)."
+- "[Of](/post/of/) [utmost](/post/utmost/) [importance](/post/importance/)": Signifying [something](/post/something/) is [extremely](/post/extremely/) [important](/post/important/) [or](/post/or/) [critical](/post/critical/). [Example](/post/example/): "[Your](/post/your/) [presence](/post/presence/) [at](/post/at/) [the](/post/the/) [meeting](/post/meeting/) is [of](/post/of/) [utmost](/post/utmost/) [importance](/post/importance/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Understanding](/en/post/understanding/) [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) teamwork is crucial [in](/en/post/in/) [a](/en/post/a/) [professional](/en/post/professional/) [setting](/en/post/setting/)."
-- "[The](/en/post/the/) [teacher](/en/post/teacher/) emphasized [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) [regular](/en/post/regular/) [practice](/en/post/practice/) [for](/en/post/for/) mastering [a](/en/post/a/) [language](/en/post/language/)."
-- "[The](/en/post/the/) [historical](/en/post/historical/) [monument](/en/post/monument/) holds [both](/en/post/both/) cultural [and](/en/post/and/) [national](/en/post/national/) [importance](/en/post/importance/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Understanding](/post/understanding/) [the](/post/the/) [importance](/post/importance/) [of](/post/of/) teamwork is crucial [in](/post/in/) [a](/post/a/) [professional](/post/professional/) [setting](/post/setting/)."
+- "[The](/post/the/) [teacher](/post/teacher/) emphasized [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [regular](/post/regular/) [practice](/post/practice/) [for](/post/for/) mastering [a](/post/a/) [language](/post/language/)."
+- "[The](/post/the/) [historical](/post/historical/) [monument](/post/monument/) holds [both](/post/both/) cultural [and](/post/and/) [national](/post/national/) [importance](/post/importance/)."
 
 ## Synonyms
-- [Significance](/en/post/significance/)
+- [Significance](/post/significance/)
 - Relevance
-- [Weight](/en/post/weight/)
-- [Consequence](/en/post/consequence/)
+- [Weight](/post/weight/)
+- [Consequence](/post/consequence/)
 - Vitality
-- [Importance](/en/post/importance/) [factor](/en/post/factor/)
+- [Importance](/post/importance/) [factor](/post/factor/)
 - Preeminence
 - Priority
 - Eminence
-- [Consideration](/en/post/consideration/)
+- [Consideration](/post/consideration/)
 
 ## Antonyms
 - Unimportance

@@ -11,22 +11,22 @@ keywords = ['ai words', 'spray']
 /spreɪ/
 
 ## 释义
-- **名词**: 1. 喷雾，喷射物；2. 喷洒器，喷雾器。例如: "[She](/post/she/) [used](/post/used/) [a](/post/a/) [can](/post/can/) [of](/post/of/) insecticide [spray](/post/spray/) [to](/post/to/) [kill](/post/kill/) [the](/post/the/) flies."
-- **动词**: 1. 喷洒，喷射；2. （使）四散飞溅。例如: "[The](/post/the/) [gardener](/post/gardener/) sprayed [water](/post/water/) [on](/post/on/) [the](/post/the/) flowers."
-- **形容词**: 喷射状的，散布的。例如: "[The](/post/the/) [spray](/post/spray/) [from](/post/from/) [the](/post/the/) [waterfall](/post/waterfall/) covered [us](/post/us/) [in](/post/in/) [mist](/post/mist/)."
+- **名词**: 1. 喷雾，喷射物；2. 喷洒器，喷雾器。例如: "[She](/zh/post/she/) [used](/zh/post/used/) [a](/zh/post/a/) [can](/zh/post/can/) [of](/zh/post/of/) insecticide [spray](/zh/post/spray/) [to](/zh/post/to/) [kill](/zh/post/kill/) [the](/zh/post/the/) flies."
+- **动词**: 1. 喷洒，喷射；2. （使）四散飞溅。例如: "[The](/zh/post/the/) [gardener](/zh/post/gardener/) sprayed [water](/zh/post/water/) [on](/zh/post/on/) [the](/zh/post/the/) flowers."
+- **形容词**: 喷射状的，散布的。例如: "[The](/zh/post/the/) [spray](/zh/post/spray/) [from](/zh/post/from/) [the](/zh/post/the/) [waterfall](/zh/post/waterfall/) covered [us](/zh/post/us/) [in](/zh/post/in/) [mist](/zh/post/mist/)."
 
 ## 短语
-- "[spray](/post/spray/) [paint](/post/paint/)" 指的是用喷雾罐进行喷涂的颜料。
-- "spray-on [tan](/post/tan/)" 是一种通过喷雾来实现的晒黑效果。
+- "[spray](/zh/post/spray/) [paint](/zh/post/paint/)" 指的是用喷雾罐进行喷涂的颜料。
+- "spray-on [tan](/zh/post/tan/)" 是一种通过喷雾来实现的晒黑效果。
 
 ## 例句
-- 名词: "[The](/post/the/) [perfume](/post/perfume/) comes [in](/post/in/) [a](/post/a/) [fine](/post/fine/) misty [spray](/post/spray/)."
-- 动词: "[He](/post/he/) sprayed [the](/post/the/) [wall](/post/wall/) [with](/post/with/) graffiti."
-- 形容词: "[The](/post/the/) [beach](/post/beach/) was covered [in](/post/in/) [a](/post/a/) [spray](/post/spray/) [of](/post/of/) seagulls."
+- 名词: "[The](/zh/post/the/) [perfume](/zh/post/perfume/) comes [in](/zh/post/in/) [a](/zh/post/a/) [fine](/zh/post/fine/) misty [spray](/zh/post/spray/)."
+- 动词: "[He](/zh/post/he/) sprayed [the](/zh/post/the/) [wall](/zh/post/wall/) [with](/zh/post/with/) graffiti."
+- 形容词: "[The](/zh/post/the/) [beach](/zh/post/beach/) was covered [in](/zh/post/in/) [a](/zh/post/a/) [spray](/zh/post/spray/) [of](/zh/post/of/) seagulls."
 
 ## 同义词
-- [sprinkle](/post/sprinkle/) (动词时)
-- [distribute](/post/distribute/)
-- [scatter](/post/scatter/)
+- [sprinkle](/zh/post/sprinkle/) (动词时)
+- [distribute](/zh/post/distribute/)
+- [scatter](/zh/post/scatter/)
 - atomize
 - disperse

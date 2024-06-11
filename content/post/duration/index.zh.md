@@ -12,21 +12,21 @@ keywords = ['ai words', 'duration']
 
 ## 释义
 - **名词**:
-   时间的持续；期间；持续时间。例如: "[The](/post/the/) [duration](/post/duration/) [of](/post/of/) [the](/post/the/) [flight](/post/flight/) is [five](/post/five/) hours."
-   - 持续性；耐久性。例如: "[The](/post/the/) [paint](/post/paint/) has [remarkable](/post/remarkable/) [duration](/post/duration/) [in](/post/in/) [outdoor](/post/outdoor/) conditions."
+   时间的持续；期间；持续时间。例如: "[The](/zh/post/the/) [duration](/zh/post/duration/) [of](/zh/post/of/) [the](/zh/post/the/) [flight](/zh/post/flight/) is [five](/zh/post/five/) hours."
+   - 持续性；耐久性。例如: "[The](/zh/post/the/) [paint](/zh/post/paint/) has [remarkable](/zh/post/remarkable/) [duration](/zh/post/duration/) [in](/zh/post/in/) [outdoor](/zh/post/outdoor/) conditions."
 
 ## 短语
-- "[duration](/post/duration/) [of](/post/of/) [time](/post/time/)" 指一段时间的长度。
-- "[the](/post/the/) [duration](/post/duration/) [of](/post/of/) [the](/post/the/) [contract](/post/contract/)" 指合同的有效期。
+- "[duration](/zh/post/duration/) [of](/zh/post/of/) [time](/zh/post/time/)" 指一段时间的长度。
+- "[the](/zh/post/the/) [duration](/zh/post/duration/) [of](/zh/post/of/) [the](/zh/post/the/) [contract](/zh/post/contract/)" 指合同的有效期。
 
 ## 例句
-- "[The](/post/the/) movie's [duration](/post/duration/) is [approximately](/post/approximately/) [two](/post/two/) hours."
-- "[The](/post/the/) athlete's endurance was tested [during](/post/during/) [the](/post/the/) race's [entire](/post/entire/) [duration](/post/duration/)."
-- "[Please](/post/please/) [note](/post/note/) [the](/post/the/) [duration](/post/duration/) [of](/post/of/) [your](/post/your/) warranty [for](/post/for/) [future](/post/future/) [reference](/post/reference/)."
+- "[The](/zh/post/the/) movie's [duration](/zh/post/duration/) is [approximately](/zh/post/approximately/) [two](/zh/post/two/) hours."
+- "[The](/zh/post/the/) athlete's endurance was tested [during](/zh/post/during/) [the](/zh/post/the/) race's [entire](/zh/post/entire/) [duration](/zh/post/duration/)."
+- "[Please](/zh/post/please/) [note](/zh/post/note/) [the](/zh/post/the/) [duration](/zh/post/duration/) [of](/zh/post/of/) [your](/zh/post/your/) warranty [for](/zh/post/for/) [future](/zh/post/future/) [reference](/zh/post/reference/)."
 
 ## 同义词
-- [Length](/post/length/)
-- [Period](/post/period/)
-- [Span](/post/span/)
-- [Interval](/post/interval/)
-- [Term](/post/term/)
+- [Length](/zh/post/length/)
+- [Period](/zh/post/period/)
+- [Span](/zh/post/span/)
+- [Interval](/zh/post/interval/)
+- [Term](/zh/post/term/)

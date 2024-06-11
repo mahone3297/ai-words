@@ -7,39 +7,39 @@ description = '[sei] vt.说；说明；比如说'
 keywords = ['ai words', 'say']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/sə/ ([US](/en/post/us/)) /seɪ/ (UK)
+## [Pronunciation](/post/pronunciation/)
+/sə/ ([US](/post/us/)) /seɪ/ (UK)
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[A](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [expression](/en/post/expression/) conveying [information](/en/post/information/) [or](/en/post/or/) [thought](/en/post/thought/)**: [The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) [class](/en/post/class/) [to](/en/post/to/) [say](/en/post/say/) [their](/en/post/their/) names.
-- **[A](/en/post/a/) [particular](/en/post/particular/) [expression](/en/post/expression/) [or](/en/post/or/) [manner](/en/post/manner/) [of](/en/post/of/) speaking**: [He](/en/post/he/) said [something](/en/post/something/) [that](/en/post/that/) surprised [everyone](/en/post/everyone/).
+### [Noun](/post/noun/)
+- **[A](/post/a/) [statement](/post/statement/) [or](/post/or/) [expression](/post/expression/) conveying [information](/post/information/) [or](/post/or/) [thought](/post/thought/)**: [The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) [class](/post/class/) [to](/post/to/) [say](/post/say/) [their](/post/their/) names.
+- **[A](/post/a/) [particular](/post/particular/) [expression](/post/expression/) [or](/post/or/) [manner](/post/manner/) [of](/post/of/) speaking**: [He](/post/he/) said [something](/post/something/) [that](/post/that/) surprised [everyone](/post/everyone/).
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [express](/en/post/express/) [or](/en/post/or/) [communicate](/en/post/communicate/) [a](/en/post/a/) [message](/en/post/message/) [or](/en/post/or/) [idea](/en/post/idea/)**: [She](/en/post/she/) said [goodbye](/en/post/goodbye/) [before](/en/post/before/) leaving [the](/en/post/the/) [office](/en/post/office/).
-- **[To](/en/post/to/) [repeat](/en/post/repeat/) [after](/en/post/after/) [someone](/en/post/someone/)**: [The](/en/post/the/) children were asked [to](/en/post/to/) [say](/en/post/say/) [the](/en/post/the/) [alphabet](/en/post/alphabet/).
+### [Verb](/post/verb/)
+- **[To](/post/to/) [express](/post/express/) [or](/post/or/) [communicate](/post/communicate/) [a](/post/a/) [message](/post/message/) [or](/post/or/) [idea](/post/idea/)**: [She](/post/she/) said [goodbye](/post/goodbye/) [before](/post/before/) leaving [the](/post/the/) [office](/post/office/).
+- **[To](/post/to/) [repeat](/post/repeat/) [after](/post/after/) [someone](/post/someone/)**: [The](/post/the/) children were asked [to](/post/to/) [say](/post/say/) [the](/post/the/) [alphabet](/post/alphabet/).
 
 ### Interjection
-- **An exclamation [to](/en/post/to/) [greet](/en/post/greet/), [call](/en/post/call/) [attention](/en/post/attention/), [or](/en/post/or/) [express](/en/post/express/) [emotion](/en/post/emotion/)**: [Hello](/en/post/hello/), it's [nice](/en/post/nice/) [to](/en/post/to/) [meet](/en/post/meet/) [you](/en/post/you/)!
-- **[Used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [comment](/en/post/comment/)**: [Say](/en/post/say/) [what](/en/post/what/) [you](/en/post/you/) [mean](/en/post/mean/), [please](/en/post/please/).
+- **An exclamation [to](/post/to/) [greet](/post/greet/), [call](/post/call/) [attention](/post/attention/), [or](/post/or/) [express](/post/express/) [emotion](/post/emotion/)**: [Hello](/post/hello/), it's [nice](/post/nice/) [to](/post/to/) [meet](/post/meet/) [you](/post/you/)!
+- **[Used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [statement](/post/statement/) [or](/post/or/) [comment](/post/comment/)**: [Say](/post/say/) [what](/post/what/) [you](/post/you/) [mean](/post/mean/), [please](/post/please/).
 
 ## Phrases
-- "[Say](/en/post/say/) [something](/en/post/something/)" [or](/en/post/or/) "[Say](/en/post/say/) [it](/en/post/it/) [again](/en/post/again/)"
-- "[Say](/en/post/say/) [my](/en/post/my/) [name](/en/post/name/)"
-- "I don't [understand](/en/post/understand/), [can](/en/post/can/) [you](/en/post/you/) [say](/en/post/say/) [that](/en/post/that/) differently?"
-- "I'll [be](/en/post/be/) [back](/en/post/back/) [in](/en/post/in/) [a](/en/post/a/) [moment](/en/post/moment/), [say](/en/post/say/) [hello](/en/post/hello/) [to](/en/post/to/) [the](/en/post/the/) kids"
+- "[Say](/post/say/) [something](/post/something/)" [or](/post/or/) "[Say](/post/say/) [it](/post/it/) [again](/post/again/)"
+- "[Say](/post/say/) [my](/post/my/) [name](/post/name/)"
+- "I don't [understand](/post/understand/), [can](/post/can/) [you](/post/you/) [say](/post/say/) [that](/post/that/) differently?"
+- "I'll [be](/post/be/) [back](/post/back/) [in](/post/in/) [a](/post/a/) [moment](/post/moment/), [say](/post/say/) [hello](/post/hello/) [to](/post/to/) [the](/post/the/) kids"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [teacher](/en/post/teacher/) asked [each](/en/post/each/) [student](/en/post/student/) [to](/en/post/to/) [say](/en/post/say/) [their](/en/post/their/) favorite [color](/en/post/color/).
-- **[Verb](/en/post/verb/)**: [He](/en/post/he/) said [he](/en/post/he/) had forgotten [his](/en/post/his/) keys.
-- **Interjection**: "[Hello](/en/post/hello/), [how](/en/post/how/) are [you](/en/post/you/)? It's been [a](/en/post/a/) [while](/en/post/while/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: [The](/post/the/) [teacher](/post/teacher/) asked [each](/post/each/) [student](/post/student/) [to](/post/to/) [say](/post/say/) [their](/post/their/) favorite [color](/post/color/).
+- **[Verb](/post/verb/)**: [He](/post/he/) said [he](/post/he/) had forgotten [his](/post/his/) keys.
+- **Interjection**: "[Hello](/post/hello/), [how](/post/how/) are [you](/post/you/)? It's been [a](/post/a/) [while](/post/while/)."
 
 ## Synonyms
-- [Express](/en/post/express/)
-- [Utter](/en/post/utter/)
-- [State](/en/post/state/)
-- [Announce](/en/post/announce/)
-- [Declare](/en/post/declare/)
+- [Express](/post/express/)
+- [Utter](/post/utter/)
+- [State](/post/state/)
+- [Announce](/post/announce/)
+- [Declare](/post/declare/)
 - Enunciate
-- [Speak](/en/post/speak/) [up](/en/post/up/)
-- [Call](/en/post/call/) [out](/en/post/out/)
+- [Speak](/post/speak/) [up](/post/up/)
+- [Call](/post/call/) [out](/post/out/)

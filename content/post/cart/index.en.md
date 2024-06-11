@@ -7,41 +7,41 @@ description = '[kɑːt] n.二轮运货马车'
 keywords = ['ai words', 'cart']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɑːrt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [vehicle](/en/post/vehicle/) [with](/en/post/with/) wheels, [often](/en/post/often/) [one](/en/post/one/) drawn [by](/en/post/by/) horses [or](/en/post/or/) powered [by](/en/post/by/) motors, [for](/en/post/for/) carrying [goods](/en/post/goods/) [or](/en/post/or/) passengers [on](/en/post/on/) [land](/en/post/land/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) horse-drawn [cart](/en/post/cart/) was filled [with](/en/post/with/) [hay](/en/post/hay/)."
-2. [A](/en/post/a/) [small](/en/post/small/), wheeled [platform](/en/post/platform/) [on](/en/post/on/) [which](/en/post/which/) [goods](/en/post/goods/) are placed, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [market](/en/post/market/) [or](/en/post/or/) [store](/en/post/store/).
-   - [Example](/en/post/example/): "[A](/en/post/a/) farmer's [cart](/en/post/cart/) displayed [fresh](/en/post/fresh/) [produce](/en/post/produce/) [at](/en/post/at/) [the](/en/post/the/) [market](/en/post/market/)."
-3. [A](/en/post/a/) graphical [user](/en/post/user/) interface [element](/en/post/element/) [that](/en/post/that/) resembles [a](/en/post/a/) [small](/en/post/small/) [box](/en/post/box/) [or](/en/post/or/) [window](/en/post/window/), typically [used](/en/post/used/) [to](/en/post/to/) [display](/en/post/display/) [and](/en/post/and/) [move](/en/post/move/) items [within](/en/post/within/) [a](/en/post/a/) [program](/en/post/program/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [version](/en/post/version/) [of](/en/post/of/) [the](/en/post/the/) software features [a](/en/post/a/) [more](/en/post/more/) intuitive [cart](/en/post/cart/) icon."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [vehicle](/post/vehicle/) [with](/post/with/) wheels, [often](/post/often/) [one](/post/one/) drawn [by](/post/by/) horses [or](/post/or/) powered [by](/post/by/) motors, [for](/post/for/) carrying [goods](/post/goods/) [or](/post/or/) passengers [on](/post/on/) [land](/post/land/).
+   - [Example](/post/example/): "[The](/post/the/) horse-drawn [cart](/post/cart/) was filled [with](/post/with/) [hay](/post/hay/)."
+2. [A](/post/a/) [small](/post/small/), wheeled [platform](/post/platform/) [on](/post/on/) [which](/post/which/) [goods](/post/goods/) are placed, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [market](/post/market/) [or](/post/or/) [store](/post/store/).
+   - [Example](/post/example/): "[A](/post/a/) farmer's [cart](/post/cart/) displayed [fresh](/post/fresh/) [produce](/post/produce/) [at](/post/at/) [the](/post/the/) [market](/post/market/)."
+3. [A](/post/a/) graphical [user](/post/user/) interface [element](/post/element/) [that](/post/that/) resembles [a](/post/a/) [small](/post/small/) [box](/post/box/) [or](/post/or/) [window](/post/window/), typically [used](/post/used/) [to](/post/to/) [display](/post/display/) [and](/post/and/) [move](/post/move/) items [within](/post/within/) [a](/post/a/) [program](/post/program/).
+   - [Example](/post/example/): "[The](/post/the/) [new](/post/new/) [version](/post/version/) [of](/post/of/) [the](/post/the/) software features [a](/post/a/) [more](/post/more/) intuitive [cart](/post/cart/) icon."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [transport](/en/post/transport/) [goods](/en/post/goods/) [or](/en/post/or/) [people](/en/post/people/) using [a](/en/post/a/) [cart](/en/post/cart/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) workers loaded [the](/en/post/the/) [cart](/en/post/cart/) [with](/en/post/with/) boxes [to](/en/post/to/) [carry](/en/post/carry/) [to](/en/post/to/) [the](/en/post/the/) [storage](/en/post/storage/) [area](/en/post/area/)."
-2. (informal) [To](/en/post/to/) [add](/en/post/add/) an [item](/en/post/item/) [to](/en/post/to/) an online [shopping](/en/post/shopping/) [cart](/en/post/cart/).
-   - [Example](/en/post/example/): "[She](/en/post/she/) clicked '[Add](/en/post/add/) [to](/en/post/to/) [Cart](/en/post/cart/)' [for](/en/post/for/) [the](/en/post/the/) [book](/en/post/book/) [she](/en/post/she/) wanted [to](/en/post/to/) [purchase](/en/post/purchase/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [transport](/post/transport/) [goods](/post/goods/) [or](/post/or/) [people](/post/people/) using [a](/post/a/) [cart](/post/cart/).
+   - [Example](/post/example/): "[The](/post/the/) workers loaded [the](/post/the/) [cart](/post/cart/) [with](/post/with/) boxes [to](/post/to/) [carry](/post/carry/) [to](/post/to/) [the](/post/the/) [storage](/post/storage/) [area](/post/area/)."
+2. (informal) [To](/post/to/) [add](/post/add/) an [item](/post/item/) [to](/post/to/) an online [shopping](/post/shopping/) [cart](/post/cart/).
+   - [Example](/post/example/): "[She](/post/she/) clicked '[Add](/post/add/) [to](/post/to/) [Cart](/post/cart/)' [for](/post/for/) [the](/post/the/) [book](/post/book/) [she](/post/she/) wanted [to](/post/to/) [purchase](/post/purchase/)."
 
-### [Adjective](/en/post/adjective/)
-1. Characterizing [a](/en/post/a/) [vehicle](/en/post/vehicle/) [or](/en/post/or/) [object](/en/post/object/) shaped [like](/en/post/like/) [a](/en/post/a/) [cart](/en/post/cart/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) antique [wooden](/en/post/wooden/) [cart](/en/post/cart/) had intricate carvings."
+### [Adjective](/post/adjective/)
+1. Characterizing [a](/post/a/) [vehicle](/post/vehicle/) [or](/post/or/) [object](/post/object/) shaped [like](/post/like/) [a](/post/a/) [cart](/post/cart/).
+   - [Example](/post/example/): "[The](/post/the/) antique [wooden](/post/wooden/) [cart](/post/cart/) had intricate carvings."
 
 ## Phrases
-- "[Fill](/en/post/fill/) [the](/en/post/the/) [cart](/en/post/cart/)" [means](/en/post/means/) [to](/en/post/to/) [load](/en/post/load/) [a](/en/post/a/) [cart](/en/post/cart/) [with](/en/post/with/) [goods](/en/post/goods/).
-- "[Cart](/en/post/cart/) [before](/en/post/before/) [the](/en/post/the/) [horse](/en/post/horse/)" is [a](/en/post/a/) proverb suggesting [proper](/en/post/proper/) planning, [meaning](/en/post/meaning/) don't prioritize things wrongly.
-- "[Shopping](/en/post/shopping/) [cart](/en/post/cart/)" is [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) [the](/en/post/the/) online [version](/en/post/version/).
+- "[Fill](/post/fill/) [the](/post/the/) [cart](/post/cart/)" [means](/post/means/) [to](/post/to/) [load](/post/load/) [a](/post/a/) [cart](/post/cart/) [with](/post/with/) [goods](/post/goods/).
+- "[Cart](/post/cart/) [before](/post/before/) [the](/post/the/) [horse](/post/horse/)" is [a](/post/a/) proverb suggesting [proper](/post/proper/) planning, [meaning](/post/meaning/) don't prioritize things wrongly.
+- "[Shopping](/post/shopping/) [cart](/post/cart/)" is [a](/post/a/) colloquial [term](/post/term/) [for](/post/for/) [the](/post/the/) online [version](/post/version/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [carpenter](/en/post/carpenter/) repaired [the](/en/post/the/) [old](/en/post/old/) [wooden](/en/post/wooden/) [cart](/en/post/cart/) [after](/en/post/after/) [it](/en/post/it/) broke."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) deliveryman wheeled [the](/en/post/the/) [cart](/en/post/cart/) [through](/en/post/through/) [the](/en/post/the/) [busy](/en/post/busy/) streets."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) vintage [cart](/en/post/cart/) was [a](/en/post/a/) [sight](/en/post/sight/) [to](/en/post/to/) behold [at](/en/post/at/) [the](/en/post/the/) [fair](/en/post/fair/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [carpenter](/post/carpenter/) repaired [the](/post/the/) [old](/post/old/) [wooden](/post/wooden/) [cart](/post/cart/) [after](/post/after/) [it](/post/it/) broke."
+- **[Verb](/post/verb/)**: "[The](/post/the/) deliveryman wheeled [the](/post/the/) [cart](/post/cart/) [through](/post/through/) [the](/post/the/) [busy](/post/busy/) streets."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) vintage [cart](/post/cart/) was [a](/post/a/) [sight](/post/sight/) [to](/post/to/) behold [at](/post/at/) [the](/post/the/) [fair](/post/fair/)."
 
 ## Synonyms
 - Wagon
 - Handcart
 - Trolley
-- Carts ([plural](/en/post/plural/), informal)
-- Buggy (informal, [US](/en/post/us/))
+- Carts ([plural](/post/plural/), informal)
+- Buggy (informal, [US](/post/us/))

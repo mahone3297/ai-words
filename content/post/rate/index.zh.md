@@ -12,28 +12,28 @@ keywords = ['ai words', 'rate']
 
 ## 释义
 - **名词**:
-  - 费率；价格：例如: "[The](/post/the/) hotel's [room](/post/room/) [rate](/post/rate/) is $150 [per](/post/per/) [night](/post/night/)."
-  - 评价；等级：例如: "[The](/post/the/) [restaurant](/post/restaurant/) received [high](/post/high/) ratings [for](/post/for/) [its](/post/its/) [food](/post/food/) [and](/post/and/) [service](/post/service/)."
+  - 费率；价格：例如: "[The](/zh/post/the/) hotel's [room](/zh/post/room/) [rate](/zh/post/rate/) is $150 [per](/zh/post/per/) [night](/zh/post/night/)."
+  - 评价；等级：例如: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) received [high](/zh/post/high/) ratings [for](/zh/post/for/) [its](/zh/post/its/) [food](/zh/post/food/) [and](/zh/post/and/) [service](/zh/post/service/)."
 
 - **动词**:
-  - 评估；评价：例如: "Experts [rate](/post/rate/) [this](/post/this/) [new](/post/new/) [technology](/post/technology/) [as](/post/as/) [revolutionary](/post/revolutionary/)."
-  - 认为；觉得：例如: "I [rate](/post/rate/) [her](/post/her/) chances [of](/post/of/) winning [as](/post/as/) [very](/post/very/) [high](/post/high/)."
+  - 评估；评价：例如: "Experts [rate](/zh/post/rate/) [this](/zh/post/this/) [new](/zh/post/new/) [technology](/zh/post/technology/) [as](/zh/post/as/) [revolutionary](/zh/post/revolutionary/)."
+  - 认为；觉得：例如: "I [rate](/zh/post/rate/) [her](/zh/post/her/) chances [of](/zh/post/of/) winning [as](/zh/post/as/) [very](/zh/post/very/) [high](/zh/post/high/)."
 
 - **形容词**:
-  - 普通的；通常的：例如: "[At](/post/at/) [a](/post/a/) [moderate](/post/moderate/) [rate](/post/rate/), [the](/post/the/) [project](/post/project/) [should](/post/should/) [be](/post/be/) completed [in](/post/in/) [a](/post/a/) [few](/post/few/) weeks."
+  - 普通的；通常的：例如: "[At](/zh/post/at/) [a](/zh/post/a/) [moderate](/zh/post/moderate/) [rate](/zh/post/rate/), [the](/zh/post/the/) [project](/zh/post/project/) [should](/zh/post/should/) [be](/zh/post/be/) completed [in](/zh/post/in/) [a](/zh/post/a/) [few](/zh/post/few/) weeks."
 
 ## 短语
-- "[at](/post/at/) [a](/post/a/) [rate](/post/rate/) [of](/post/of/)" 指以某种速度或频率：例如: "[The](/post/the/) [car](/post/car/) was traveling [at](/post/at/) [a](/post/a/) [rate](/post/rate/) [of](/post/of/) 60 miles [per](/post/per/) [hour](/post/hour/)."
-- "[to](/post/to/) [rate](/post/rate/) [something](/post/something/) [highly](/post/highly/)" 非常推崇或评价高：例如: "I [rate](/post/rate/) [his](/post/his/) [performance](/post/performance/) [extremely](/post/extremely/) [highly](/post/highly/)."
+- "[at](/zh/post/at/) [a](/zh/post/a/) [rate](/zh/post/rate/) [of](/zh/post/of/)" 指以某种速度或频率：例如: "[The](/zh/post/the/) [car](/zh/post/car/) was traveling [at](/zh/post/at/) [a](/zh/post/a/) [rate](/zh/post/rate/) [of](/zh/post/of/) 60 miles [per](/zh/post/per/) [hour](/zh/post/hour/)."
+- "[to](/zh/post/to/) [rate](/zh/post/rate/) [something](/zh/post/something/) [highly](/zh/post/highly/)" 非常推崇或评价高：例如: "I [rate](/zh/post/rate/) [his](/zh/post/his/) [performance](/zh/post/performance/) [extremely](/zh/post/extremely/) [highly](/zh/post/highly/)."
 
 ## 例句
-- 名词: "[The](/post/the/) shipping [company](/post/company/) charges [different](/post/different/) rates depending [on](/post/on/) [the](/post/the/) [weight](/post/weight/) [of](/post/of/) [the](/post/the/) [package](/post/package/)."
-- 动词: "[The](/post/the/) [art](/post/art/) [critic](/post/critic/) rated [the](/post/the/) [exhibit](/post/exhibit/) [as](/post/as/) [one](/post/one/) [of](/post/of/) [the](/post/the/) [best](/post/best/) [of](/post/of/) [the](/post/the/) [year](/post/year/)."
-- 形容词: "[The](/post/the/) [restaurant](/post/restaurant/) offers dishes [at](/post/at/) [a](/post/a/) [reasonable](/post/reasonable/) [rate](/post/rate/), making [it](/post/it/) [popular](/post/popular/) [among](/post/among/) locals."
+- 名词: "[The](/zh/post/the/) shipping [company](/zh/post/company/) charges [different](/zh/post/different/) rates depending [on](/zh/post/on/) [the](/zh/post/the/) [weight](/zh/post/weight/) [of](/zh/post/of/) [the](/zh/post/the/) [package](/zh/post/package/)."
+- 动词: "[The](/zh/post/the/) [art](/zh/post/art/) [critic](/zh/post/critic/) rated [the](/zh/post/the/) [exhibit](/zh/post/exhibit/) [as](/zh/post/as/) [one](/zh/post/one/) [of](/zh/post/of/) [the](/zh/post/the/) [best](/zh/post/best/) [of](/zh/post/of/) [the](/zh/post/the/) [year](/zh/post/year/)."
+- 形容词: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) offers dishes [at](/zh/post/at/) [a](/zh/post/a/) [reasonable](/zh/post/reasonable/) [rate](/zh/post/rate/), making [it](/zh/post/it/) [popular](/zh/post/popular/) [among](/zh/post/among/) locals."
 
 ## 同义词
-- [Charge](/post/charge/)
-- [Fee](/post/fee/)
+- [Charge](/zh/post/charge/)
+- [Fee](/zh/post/fee/)
 - Assessment
 - Evaluation
-- [Opinion](/post/opinion/)
+- [Opinion](/zh/post/opinion/)

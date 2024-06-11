@@ -7,40 +7,40 @@ description = '[kənˈteinə] n.容器；集装箱'
 keywords = ['ai words', 'container']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkɑːntrəɪər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [device](/en/post/device/), receptacle, [or](/en/post/or/) [structure](/en/post/structure/) designed [to](/en/post/to/) [hold](/en/post/hold/), [store](/en/post/store/), [or](/en/post/or/) [transport](/en/post/transport/) items, [often](/en/post/often/) [with](/en/post/with/) airtight [or](/en/post/or/) sealed compartments. *[Example](/en/post/example/): [The](/en/post/the/) shipping [container](/en/post/container/) holds [all](/en/post/all/) [the](/en/post/the/) products [for](/en/post/for/) [export](/en/post/export/).*
-2. [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) contains [or](/en/post/or/) accommodates [something](/en/post/something/) [else](/en/post/else/). *[Example](/en/post/example/): [The](/en/post/the/) [container](/en/post/container/) [of](/en/post/of/) [knowledge](/en/post/knowledge/) is [vast](/en/post/vast/) [and](/en/post/and/) ever-expanding.*
-3. [A](/en/post/a/) [mental](/en/post/mental/) [or](/en/post/or/) [emotional](/en/post/emotional/) receptacle [for](/en/post/for/) thoughts, feelings, [or](/en/post/or/) experiences. *[Example](/en/post/example/): [She](/en/post/she/) stored [her](/en/post/her/) memories [in](/en/post/in/) [a](/en/post/a/) [special](/en/post/special/) [container](/en/post/container/) [within](/en/post/within/) [her](/en/post/her/) [mind](/en/post/mind/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [device](/post/device/), receptacle, [or](/post/or/) [structure](/post/structure/) designed [to](/post/to/) [hold](/post/hold/), [store](/post/store/), [or](/post/or/) [transport](/post/transport/) items, [often](/post/often/) [with](/post/with/) airtight [or](/post/or/) sealed compartments. *[Example](/post/example/): [The](/post/the/) shipping [container](/post/container/) holds [all](/post/all/) [the](/post/the/) products [for](/post/for/) [export](/post/export/).*
+2. [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) contains [or](/post/or/) accommodates [something](/post/something/) [else](/post/else/). *[Example](/post/example/): [The](/post/the/) [container](/post/container/) [of](/post/of/) [knowledge](/post/knowledge/) is [vast](/post/vast/) [and](/post/and/) ever-expanding.*
+3. [A](/post/a/) [mental](/post/mental/) [or](/post/or/) [emotional](/post/emotional/) receptacle [for](/post/for/) thoughts, feelings, [or](/post/or/) experiences. *[Example](/post/example/): [She](/post/she/) stored [her](/post/her/) memories [in](/post/in/) [a](/post/a/) [special](/post/special/) [container](/post/container/) [within](/post/within/) [her](/post/her/) [mind](/post/mind/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [enclose](/en/post/enclose/), [hold](/en/post/hold/), [or](/en/post/or/) [contain](/en/post/contain/) [something](/en/post/something/) [within](/en/post/within/) [a](/en/post/a/) [container](/en/post/container/). *[Example](/en/post/example/): [The](/en/post/the/) [box](/en/post/box/) [container](/en/post/container/) [the](/en/post/the/) fragile [vase](/en/post/vase/) securely.*
-2. [To](/en/post/to/) [use](/en/post/use/) [or](/en/post/or/) [provide](/en/post/provide/) [a](/en/post/a/) [container](/en/post/container/) [for](/en/post/for/) [something](/en/post/something/). *[Example](/en/post/example/): [The](/en/post/the/) [factory](/en/post/factory/) containers [the](/en/post/the/) [raw](/en/post/raw/) materials [before](/en/post/before/) [production](/en/post/production/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [enclose](/post/enclose/), [hold](/post/hold/), [or](/post/or/) [contain](/post/contain/) [something](/post/something/) [within](/post/within/) [a](/post/a/) [container](/post/container/). *[Example](/post/example/): [The](/post/the/) [box](/post/box/) [container](/post/container/) [the](/post/the/) fragile [vase](/post/vase/) securely.*
+2. [To](/post/to/) [use](/post/use/) [or](/post/or/) [provide](/post/provide/) [a](/post/a/) [container](/post/container/) [for](/post/for/) [something](/post/something/). *[Example](/post/example/): [The](/post/the/) [factory](/post/factory/) containers [the](/post/the/) [raw](/post/raw/) materials [before](/post/before/) [production](/post/production/).*
 
-### [Adjective](/en/post/adjective/)
-1. Designated [for](/en/post/for/) holding [or](/en/post/or/) containing [a](/en/post/a/) [specific](/en/post/specific/) [substance](/en/post/substance/) [or](/en/post/or/) [item](/en/post/item/). *[Example](/en/post/example/): [The](/en/post/the/) [plastic](/en/post/plastic/) [container](/en/post/container/) is microwave-safe.*
-2. Serving [as](/en/post/as/) [a](/en/post/a/) receptacle [or](/en/post/or/) housing. *[Example](/en/post/example/): [The](/en/post/the/) [container](/en/post/container/) [garden](/en/post/garden/) showcases [various](/en/post/various/) plants.*
+### [Adjective](/post/adjective/)
+1. Designated [for](/post/for/) holding [or](/post/or/) containing [a](/post/a/) [specific](/post/specific/) [substance](/post/substance/) [or](/post/or/) [item](/post/item/). *[Example](/post/example/): [The](/post/the/) [plastic](/post/plastic/) [container](/post/container/) is microwave-safe.*
+2. Serving [as](/post/as/) [a](/post/a/) receptacle [or](/post/or/) housing. *[Example](/post/example/): [The](/post/the/) [container](/post/container/) [garden](/post/garden/) showcases [various](/post/various/) plants.*
 
 ## Phrases
-- "Containerized shipping" refers [to](/en/post/to/) [the](/en/post/the/) [method](/en/post/method/) [of](/en/post/of/) [transportation](/en/post/transportation/) using standardized shipping containers.
-- "Reusable containers" are [those](/en/post/those/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [multiple](/en/post/multiple/) times.
-- "[Container](/en/post/container/) homes" are houses built using shipping containers [as](/en/post/as/) [the](/en/post/the/) [primary](/en/post/primary/) [construction](/en/post/construction/) [material](/en/post/material/).
+- "Containerized shipping" refers [to](/post/to/) [the](/post/the/) [method](/post/method/) [of](/post/of/) [transportation](/post/transportation/) using standardized shipping containers.
+- "Reusable containers" are [those](/post/those/) [that](/post/that/) [can](/post/can/) [be](/post/be/) [used](/post/used/) [multiple](/post/multiple/) times.
+- "[Container](/post/container/) homes" are houses built using shipping containers [as](/post/as/) [the](/post/the/) [primary](/post/primary/) [construction](/post/construction/) [material](/post/material/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [kitchen](/en/post/kitchen/) is filled [with](/en/post/with/) [various](/en/post/various/) containers [of](/en/post/of/) spices [and](/en/post/and/) oils."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) movers carefully containerized [the](/en/post/the/) [furniture](/en/post/furniture/) [to](/en/post/to/) [ensure](/en/post/ensure/) [safe](/en/post/safe/) [transport](/en/post/transport/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [storage](/en/post/storage/) containers [make](/en/post/make/) organizing [the](/en/post/the/) pantry [much](/en/post/much/) easier."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [kitchen](/post/kitchen/) is filled [with](/post/with/) [various](/post/various/) containers [of](/post/of/) spices [and](/post/and/) oils."
+- **[Verb](/post/verb/)**: "[The](/post/the/) movers carefully containerized [the](/post/the/) [furniture](/post/furniture/) [to](/post/to/) [ensure](/post/ensure/) [safe](/post/safe/) [transport](/post/transport/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [storage](/post/storage/) containers [make](/post/make/) organizing [the](/post/the/) pantry [much](/post/much/) easier."
 
 ## Synonyms
 - Containerisation
-- [Case](/en/post/case/)
-- [Jar](/en/post/jar/)
-- [Vessel](/en/post/vessel/)
+- [Case](/post/case/)
+- [Jar](/post/jar/)
+- [Vessel](/post/vessel/)
 - Cask
-- [Box](/en/post/box/)
-- [Hold](/en/post/hold/)
+- [Box](/post/box/)
+- [Hold](/post/hold/)
 - Enclosure
 - receptacle

@@ -7,40 +7,40 @@ description = '[riːt∫] vt.抵达；伸出 vi.达到'
 keywords = ['ai words', 'reach']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈtʃ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) [stretch](/en/post/stretch/) [out](/en/post/out/) one's [hand](/en/post/hand/) [or](/en/post/or/) [arm](/en/post/arm/) [to](/en/post/to/) [touch](/en/post/touch/) [or](/en/post/or/) [grasp](/en/post/grasp/) [something](/en/post/something/), [especially](/en/post/especially/) [to](/en/post/to/) [attain](/en/post/attain/) [or](/en/post/or/) [get](/en/post/get/) [something](/en/post/something/): *[She](/en/post/she/) reached [for](/en/post/for/) [the](/en/post/the/) [book](/en/post/book/) [on](/en/post/on/) [the](/en/post/the/) [top](/en/post/top/) [shelf](/en/post/shelf/).*
-2. [The](/en/post/the/) [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/) [to](/en/post/to/) [which](/en/post/which/) [something](/en/post/something/) extends [or](/en/post/or/) [can](/en/post/can/) [be](/en/post/be/) extended: *[His](/en/post/his/) [voice](/en/post/voice/) had [a](/en/post/a/) [reach](/en/post/reach/) [that](/en/post/that/) filled [the](/en/post/the/) [entire](/en/post/entire/) auditorium.*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [ability](/post/ability/) [to](/post/to/) [stretch](/post/stretch/) [out](/post/out/) one's [hand](/post/hand/) [or](/post/or/) [arm](/post/arm/) [to](/post/to/) [touch](/post/touch/) [or](/post/or/) [grasp](/post/grasp/) [something](/post/something/), [especially](/post/especially/) [to](/post/to/) [attain](/post/attain/) [or](/post/or/) [get](/post/get/) [something](/post/something/): *[She](/post/she/) reached [for](/post/for/) [the](/post/the/) [book](/post/book/) [on](/post/on/) [the](/post/the/) [top](/post/top/) [shelf](/post/shelf/).*
+2. [The](/post/the/) [extent](/post/extent/) [or](/post/or/) [degree](/post/degree/) [to](/post/to/) [which](/post/which/) [something](/post/something/) extends [or](/post/or/) [can](/post/can/) [be](/post/be/) extended: *[His](/post/his/) [voice](/post/voice/) had [a](/post/a/) [reach](/post/reach/) [that](/post/that/) filled [the](/post/the/) [entire](/post/entire/) auditorium.*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [stretch](/en/post/stretch/) [or](/en/post/or/) [extend](/en/post/extend/) [oneself](/en/post/oneself/) physically [to](/en/post/to/) [touch](/en/post/touch/) [or](/en/post/or/) [grasp](/en/post/grasp/) [something](/en/post/something/): *[He](/en/post/he/) reached [across](/en/post/across/) [the](/en/post/the/) [table](/en/post/table/) [to](/en/post/to/) [pick](/en/post/pick/) [up](/en/post/up/) [the](/en/post/the/) [fork](/en/post/fork/).*
-2. [To](/en/post/to/) [attain](/en/post/attain/) [or](/en/post/or/) [come](/en/post/come/) [within](/en/post/within/) [reach](/en/post/reach/) [of](/en/post/of/) [something](/en/post/something/): *[Her](/en/post/her/) [goal](/en/post/goal/) is [to](/en/post/to/) [reach](/en/post/reach/) [financial](/en/post/financial/) [independence](/en/post/independence/) [by](/en/post/by/) 30.*
-3. [To](/en/post/to/) [communicate](/en/post/communicate/) [or](/en/post/or/) [connect](/en/post/connect/) [with](/en/post/with/) [someone](/en/post/someone/): *[She](/en/post/she/) tried [to](/en/post/to/) [reach](/en/post/reach/) [her](/en/post/her/) [friend](/en/post/friend/) [on](/en/post/on/) [the](/en/post/the/) [phone](/en/post/phone/) [but](/en/post/but/) couldn't [get](/en/post/get/) [through](/en/post/through/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [stretch](/post/stretch/) [or](/post/or/) [extend](/post/extend/) [oneself](/post/oneself/) physically [to](/post/to/) [touch](/post/touch/) [or](/post/or/) [grasp](/post/grasp/) [something](/post/something/): *[He](/post/he/) reached [across](/post/across/) [the](/post/the/) [table](/post/table/) [to](/post/to/) [pick](/post/pick/) [up](/post/up/) [the](/post/the/) [fork](/post/fork/).*
+2. [To](/post/to/) [attain](/post/attain/) [or](/post/or/) [come](/post/come/) [within](/post/within/) [reach](/post/reach/) [of](/post/of/) [something](/post/something/): *[Her](/post/her/) [goal](/post/goal/) is [to](/post/to/) [reach](/post/reach/) [financial](/post/financial/) [independence](/post/independence/) [by](/post/by/) 30.*
+3. [To](/post/to/) [communicate](/post/communicate/) [or](/post/or/) [connect](/post/connect/) [with](/post/with/) [someone](/post/someone/): *[She](/post/she/) tried [to](/post/to/) [reach](/post/reach/) [her](/post/her/) [friend](/post/friend/) [on](/post/on/) [the](/post/the/) [phone](/post/phone/) [but](/post/but/) couldn't [get](/post/get/) [through](/post/through/).*
 
-### [Adjective](/en/post/adjective/)
-1. Extending [a](/en/post/a/) [certain](/en/post/certain/) [distance](/en/post/distance/): *[The](/en/post/the/) armrests [on](/en/post/on/) [the](/en/post/the/) [long](/en/post/long/) [reach](/en/post/reach/) [desk](/en/post/desk/).*
-2. Achievable [or](/en/post/or/) accessible: *[This](/en/post/this/) [task](/en/post/task/) is [within](/en/post/within/) [reach](/en/post/reach/) [for](/en/post/for/) [most](/en/post/most/) students.*
+### [Adjective](/post/adjective/)
+1. Extending [a](/post/a/) [certain](/post/certain/) [distance](/post/distance/): *[The](/post/the/) armrests [on](/post/on/) [the](/post/the/) [long](/post/long/) [reach](/post/reach/) [desk](/post/desk/).*
+2. Achievable [or](/post/or/) accessible: *[This](/post/this/) [task](/post/task/) is [within](/post/within/) [reach](/post/reach/) [for](/post/for/) [most](/post/most/) students.*
 
 ## Phrases
-- "[Reach](/en/post/reach/) [out](/en/post/out/)" implies making [contact](/en/post/contact/) [or](/en/post/or/) offering [help](/en/post/help/).
-- "[Reach](/en/post/reach/) [a](/en/post/a/) consensus" [means](/en/post/means/) [to](/en/post/to/) [agree](/en/post/agree/) [on](/en/post/on/) [a](/en/post/a/) [decision](/en/post/decision/).
-- "[Reach](/en/post/reach/) [a](/en/post/a/) [conclusion](/en/post/conclusion/)" [means](/en/post/means/) [to](/en/post/to/) [arrive](/en/post/arrive/) [at](/en/post/at/) [a](/en/post/a/) [final](/en/post/final/) [understanding](/en/post/understanding/) [or](/en/post/or/) [opinion](/en/post/opinion/).
+- "[Reach](/post/reach/) [out](/post/out/)" implies making [contact](/post/contact/) [or](/post/or/) offering [help](/post/help/).
+- "[Reach](/post/reach/) [a](/post/a/) consensus" [means](/post/means/) [to](/post/to/) [agree](/post/agree/) [on](/post/on/) [a](/post/a/) [decision](/post/decision/).
+- "[Reach](/post/reach/) [a](/post/a/) [conclusion](/post/conclusion/)" [means](/post/means/) [to](/post/to/) [arrive](/post/arrive/) [at](/post/at/) [a](/post/a/) [final](/post/final/) [understanding](/post/understanding/) [or](/post/or/) [opinion](/post/opinion/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) couldn't [reach](/en/post/reach/) [the](/en/post/the/) cookie [jar](/en/post/jar/) [on](/en/post/on/) [the](/en/post/the/) [high](/en/post/high/) [shelf](/en/post/shelf/)."
-- **[Verb](/en/post/verb/)**: "I [need](/en/post/need/) [you](/en/post/you/) [to](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) [light](/en/post/light/) [switch](/en/post/switch/) [for](/en/post/for/) [me](/en/post/me/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) athlete's [long](/en/post/long/) [reach](/en/post/reach/) allowed [them](/en/post/them/) [to](/en/post/to/) [touch](/en/post/touch/) [the](/en/post/the/) [bar](/en/post/bar/) [during](/en/post/during/) [the](/en/post/the/) [pole](/en/post/pole/) vault."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) couldn't [reach](/post/reach/) [the](/post/the/) cookie [jar](/post/jar/) [on](/post/on/) [the](/post/the/) [high](/post/high/) [shelf](/post/shelf/)."
+- **[Verb](/post/verb/)**: "I [need](/post/need/) [you](/post/you/) [to](/post/to/) [reach](/post/reach/) [the](/post/the/) [light](/post/light/) [switch](/post/switch/) [for](/post/for/) [me](/post/me/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) athlete's [long](/post/long/) [reach](/post/reach/) allowed [them](/post/them/) [to](/post/to/) [touch](/post/touch/) [the](/post/the/) [bar](/post/bar/) [during](/post/during/) [the](/post/the/) [pole](/post/pole/) vault."
 
 ## Synonyms
-- [Grasp](/en/post/grasp/)
-- [Extend](/en/post/extend/)
-- [Touch](/en/post/touch/)
-- [Access](/en/post/access/)
-- [Achieve](/en/post/achieve/)
-- [Attain](/en/post/attain/)
-- [Extend](/en/post/extend/) one's [hand](/en/post/hand/)
+- [Grasp](/post/grasp/)
+- [Extend](/post/extend/)
+- [Touch](/post/touch/)
+- [Access](/post/access/)
+- [Achieve](/post/achieve/)
+- [Attain](/post/attain/)
+- [Extend](/post/extend/) one's [hand](/post/hand/)
 - Reachability
 - Reachable

@@ -11,20 +11,20 @@ keywords = ['ai words', 'reliable']
 /ˈrɪ.laɪ.ə.bəl/
 
 ## 释义
-- **形容词**: 可信赖的，可靠的，可信的。例如: "She's [a](/post/a/) [very](/post/very/) [reliable](/post/reliable/) [source](/post/source/) [of](/post/of/) [information](/post/information/)."
-- **名词**: 可靠的人或物。例如: "John is known [as](/post/as/) [a](/post/a/) [reliable](/post/reliable/) [worker](/post/worker/) [in](/post/in/) [the](/post/the/) [company](/post/company/)."
+- **形容词**: 可信赖的，可靠的，可信的。例如: "She's [a](/zh/post/a/) [very](/zh/post/very/) [reliable](/zh/post/reliable/) [source](/zh/post/source/) [of](/zh/post/of/) [information](/zh/post/information/)."
+- **名词**: 可靠的人或物。例如: "John is known [as](/zh/post/as/) [a](/zh/post/a/) [reliable](/zh/post/reliable/) [worker](/zh/post/worker/) [in](/zh/post/in/) [the](/zh/post/the/) [company](/zh/post/company/)."
 
 ## 短语
-- "[reliable](/post/reliable/) [source](/post/source/)" 指可信赖的信息来源。
-- "[reliable](/post/reliable/) [data](/post/data/)" 指准确无误的数据。
+- "[reliable](/zh/post/reliable/) [source](/zh/post/source/)" 指可信赖的信息来源。
+- "[reliable](/zh/post/reliable/) [data](/zh/post/data/)" 指准确无误的数据。
 
 ## 例句
-- 形容词: "[The](/post/the/) [new](/post/new/) [employee](/post/employee/) proved [to](/post/to/) [be](/post/be/) [extremely](/post/extremely/) [reliable](/post/reliable/) [from](/post/from/) [the](/post/the/) [start](/post/start/)."
-- 名词: "[You](/post/you/) [can](/post/can/) [always](/post/always/) [count](/post/count/) [on](/post/on/) [our](/post/our/) [most](/post/most/) [reliable](/post/reliable/) [team](/post/team/) [member](/post/member/) [for](/post/for/) [help](/post/help/)."
+- 形容词: "[The](/zh/post/the/) [new](/zh/post/new/) [employee](/zh/post/employee/) proved [to](/zh/post/to/) [be](/zh/post/be/) [extremely](/zh/post/extremely/) [reliable](/zh/post/reliable/) [from](/zh/post/from/) [the](/zh/post/the/) [start](/zh/post/start/)."
+- 名词: "[You](/zh/post/you/) [can](/zh/post/can/) [always](/zh/post/always/) [count](/zh/post/count/) [on](/zh/post/on/) [our](/zh/post/our/) [most](/zh/post/most/) [reliable](/zh/post/reliable/) [team](/zh/post/team/) [member](/zh/post/member/) [for](/zh/post/for/) [help](/zh/post/help/)."
 
 ## 同义词
 - Trustworthy
 - Dependable
-- [Consistent](/post/consistent/)
-- [Steady](/post/steady/)
+- [Consistent](/zh/post/consistent/)
+- [Steady](/zh/post/steady/)
 - Reputable

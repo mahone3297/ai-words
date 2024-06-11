@@ -7,36 +7,36 @@ description = '[ˈlaivli] a.活泼的；逼真的'
 keywords = ['ai words', 'lively']
 +++
 
-## [Word](/en/post/word/): [Lively](/en/post/lively/)
+## [Word](/post/word/): [Lively](/post/lively/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlaɪvli/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Full](/en/post/full/) [of](/en/post/of/) [life](/en/post/life/), [energy](/en/post/energy/), [or](/en/post/or/) [spirit](/en/post/spirit/); animated [and](/en/post/and/) [vigorous](/en/post/vigorous/). [It](/en/post/it/) [can](/en/post/can/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/), an [event](/en/post/event/), [or](/en/post/or/) [a](/en/post/a/) [place](/en/post/place/) [that](/en/post/that/) has [a](/en/post/a/) [dynamic](/en/post/dynamic/) [and](/en/post/and/) engaging [quality](/en/post/quality/).
+- **[Adjective](/post/adjective/)**: [Full](/post/full/) [of](/post/of/) [life](/post/life/), [energy](/post/energy/), [or](/post/or/) [spirit](/post/spirit/); animated [and](/post/and/) [vigorous](/post/vigorous/). [It](/post/it/) [can](/post/can/) [describe](/post/describe/) [a](/post/a/) [person](/post/person/), an [event](/post/event/), [or](/post/or/) [a](/post/a/) [place](/post/place/) [that](/post/that/) has [a](/post/a/) [dynamic](/post/dynamic/) [and](/post/and/) engaging [quality](/post/quality/).
 
-[Example](/en/post/example/) sentences:
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [party](/en/post/party/) was [lively](/en/post/lively/) [with](/en/post/with/) [music](/en/post/music/) [and](/en/post/and/) dancing [all](/en/post/all/) [night](/en/post/night/) [long](/en/post/long/)."
-- "She's [a](/en/post/a/) [lively](/en/post/lively/) [young](/en/post/young/) [girl](/en/post/girl/) [who](/en/post/who/) loves [to](/en/post/to/) [explore](/en/post/explore/) [new](/en/post/new/) places."
-- "[The](/en/post/the/) bustling [market](/en/post/market/) was [alive](/en/post/alive/) [with](/en/post/with/) [a](/en/post/a/) [lively](/en/post/lively/) [atmosphere](/en/post/atmosphere/) [on](/en/post/on/) [a](/en/post/a/) [sunny](/en/post/sunny/) Saturday [morning](/en/post/morning/)."
+[Example](/post/example/) sentences:
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [party](/post/party/) was [lively](/post/lively/) [with](/post/with/) [music](/post/music/) [and](/post/and/) dancing [all](/post/all/) [night](/post/night/) [long](/post/long/)."
+- "She's [a](/post/a/) [lively](/post/lively/) [young](/post/young/) [girl](/post/girl/) [who](/post/who/) loves [to](/post/to/) [explore](/post/explore/) [new](/post/new/) places."
+- "[The](/post/the/) bustling [market](/post/market/) was [alive](/post/alive/) [with](/post/with/) [a](/post/a/) [lively](/post/lively/) [atmosphere](/post/atmosphere/) [on](/post/on/) [a](/post/a/) [sunny](/post/sunny/) Saturday [morning](/post/morning/)."
 
 ## Phrases
-- "[A](/en/post/a/) [lively](/en/post/lively/) [discussion](/en/post/discussion/)": An animated [and](/en/post/and/) energetic [conversation](/en/post/conversation/) [where](/en/post/where/) [people](/en/post/people/) are actively participating [and](/en/post/and/) expressing [their](/en/post/their/) opinions.
-- "[Lively](/en/post/lively/) [debate](/en/post/debate/)": [A](/en/post/a/) passionate [exchange](/en/post/exchange/) [of](/en/post/of/) arguments [and](/en/post/and/) counterarguments [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [topic](/en/post/topic/).
-- "[Keep](/en/post/keep/) things [lively](/en/post/lively/)": [To](/en/post/to/) [maintain](/en/post/maintain/) an energetic [pace](/en/post/pace/) [or](/en/post/or/) stimulating [environment](/en/post/environment/).
+- "[A](/post/a/) [lively](/post/lively/) [discussion](/post/discussion/)": An animated [and](/post/and/) energetic [conversation](/post/conversation/) [where](/post/where/) [people](/post/people/) are actively participating [and](/post/and/) expressing [their](/post/their/) opinions.
+- "[Lively](/post/lively/) [debate](/post/debate/)": [A](/post/a/) passionate [exchange](/post/exchange/) [of](/post/of/) arguments [and](/post/and/) counterarguments [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [topic](/post/topic/).
+- "[Keep](/post/keep/) things [lively](/post/lively/)": [To](/post/to/) [maintain](/post/maintain/) an energetic [pace](/post/pace/) [or](/post/or/) stimulating [environment](/post/environment/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Their](/en/post/their/) performances [always](/en/post/always/) [bring](/en/post/bring/) [a](/en/post/a/) [lively](/en/post/lively/) [energy](/en/post/energy/) [to](/en/post/to/) [the](/en/post/the/) [stage](/en/post/stage/) [that](/en/post/that/) captivates [the](/en/post/the/) [audience](/en/post/audience/)."
-- "[The](/en/post/the/) [classroom](/en/post/classroom/) was enlivened [by](/en/post/by/) [her](/en/post/her/) [lively](/en/post/lively/) [teaching](/en/post/teaching/) [style](/en/post/style/), [which](/en/post/which/) kept [the](/en/post/the/) students engaged [throughout](/en/post/throughout/) [the](/en/post/the/) [lesson](/en/post/lesson/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Their](/post/their/) performances [always](/post/always/) [bring](/post/bring/) [a](/post/a/) [lively](/post/lively/) [energy](/post/energy/) [to](/post/to/) [the](/post/the/) [stage](/post/stage/) [that](/post/that/) captivates [the](/post/the/) [audience](/post/audience/)."
+- "[The](/post/the/) [classroom](/post/classroom/) was enlivened [by](/post/by/) [her](/post/her/) [lively](/post/lively/) [teaching](/post/teaching/) [style](/post/style/), [which](/post/which/) kept [the](/post/the/) students engaged [throughout](/post/throughout/) [the](/post/the/) [lesson](/post/lesson/)."
 
 ## Synonyms
 - Animated
 - Energetic
-- [Vigorous](/en/post/vigorous/)
-- [Dynamic](/en/post/dynamic/)
-- [Enthusiastic](/en/post/enthusiastic/)
+- [Vigorous](/post/vigorous/)
+- [Dynamic](/post/dynamic/)
+- [Enthusiastic](/post/enthusiastic/)
 - Sprightly
 - Zestful
-- [Vital](/en/post/vital/)
+- [Vital](/post/vital/)
 - Liveliness
 - Peppy

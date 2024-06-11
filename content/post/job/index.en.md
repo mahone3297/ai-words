@@ -7,34 +7,34 @@ description = '[dʒɔb] n.职业；工作；零活'
 keywords = ['ai words', 'job']
 +++
 
-## [Word](/en/post/word/): [Job](/en/post/job/)
+## [Word](/post/word/): [Job](/post/job/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dʒɑːb/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) paid [position](/en/post/position/) [of](/en/post/of/) [regular](/en/post/regular/) [employment](/en/post/employment/); [a](/en/post/a/) [profession](/en/post/profession/), [occupation](/en/post/occupation/), [or](/en/post/or/) [trade](/en/post/trade/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [found](/en/post/found/) [a](/en/post/a/) [new](/en/post/new/) [job](/en/post/job/) [as](/en/post/as/) [a](/en/post/a/) software [engineer](/en/post/engineer/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) informally [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [piece](/en/post/piece/) [of](/en/post/of/) [work](/en/post/work/), e.g., "[Painting](/en/post/painting/) [the](/en/post/the/) [house](/en/post/house/) was [quite](/en/post/quite/) [a](/en/post/a/) [job](/en/post/job/)!"
-- **[Verb](/en/post/verb/)**: (informal) [To](/en/post/to/) [criticize](/en/post/criticize/) [or](/en/post/or/) [scold](/en/post/scold/) [someone](/en/post/someone/) [severely](/en/post/severely/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [boss](/en/post/boss/) [really](/en/post/really/) jobbed [him](/en/post/him/) [for](/en/post/for/) [being](/en/post/being/) [late](/en/post/late/) [again](/en/post/again/)."
-- **[Noun](/en/post/noun/)** (archaic): [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [work](/en/post/work/) done [or](/en/post/or/) [to](/en/post/to/) [be](/en/post/be/) done; [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [project](/en/post/project/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) carpenter's [job](/en/post/job/) was [to](/en/post/to/) [build](/en/post/build/) [a](/en/post/a/) [cabinet](/en/post/cabinet/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) paid [position](/post/position/) [of](/post/of/) [regular](/post/regular/) [employment](/post/employment/); [a](/post/a/) [profession](/post/profession/), [occupation](/post/occupation/), [or](/post/or/) [trade](/post/trade/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [found](/post/found/) [a](/post/a/) [new](/post/new/) [job](/post/job/) [as](/post/as/) [a](/post/a/) software [engineer](/post/engineer/)."
+  - [Also](/post/also/) [used](/post/used/) informally [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [task](/post/task/) [or](/post/or/) [piece](/post/piece/) [of](/post/of/) [work](/post/work/), e.g., "[Painting](/post/painting/) [the](/post/the/) [house](/post/house/) was [quite](/post/quite/) [a](/post/a/) [job](/post/job/)!"
+- **[Verb](/post/verb/)**: (informal) [To](/post/to/) [criticize](/post/criticize/) [or](/post/or/) [scold](/post/scold/) [someone](/post/someone/) [severely](/post/severely/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [boss](/post/boss/) [really](/post/really/) jobbed [him](/post/him/) [for](/post/for/) [being](/post/being/) [late](/post/late/) [again](/post/again/)."
+- **[Noun](/post/noun/)** (archaic): [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [work](/post/work/) done [or](/post/or/) [to](/post/to/) [be](/post/be/) done; [a](/post/a/) [task](/post/task/) [or](/post/or/) [project](/post/project/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) carpenter's [job](/post/job/) was [to](/post/to/) [build](/post/build/) [a](/post/a/) [cabinet](/post/cabinet/)."
 
 ## Phrases
-- "[On](/en/post/on/) [the](/en/post/the/) [job](/en/post/job/)": Engaged [in](/en/post/in/) one's [work](/en/post/work/) [or](/en/post/or/) duties.
-- "[Job](/en/post/job/) hunting": [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) seeking [employment](/en/post/employment/).
-- "[A](/en/post/a/) [tough](/en/post/tough/) [job](/en/post/job/)": Refers [to](/en/post/to/) [a](/en/post/a/) [difficult](/en/post/difficult/) [or](/en/post/or/) demanding [task](/en/post/task/) [or](/en/post/or/) [situation](/en/post/situation/).
-- "[Do](/en/post/do/) [the](/en/post/the/) [job](/en/post/job/)": [To](/en/post/to/) [accomplish](/en/post/accomplish/) [a](/en/post/a/) [task](/en/post/task/) effectively.
+- "[On](/post/on/) [the](/post/the/) [job](/post/job/)": Engaged [in](/post/in/) one's [work](/post/work/) [or](/post/or/) duties.
+- "[Job](/post/job/) hunting": [The](/post/the/) [process](/post/process/) [of](/post/of/) seeking [employment](/post/employment/).
+- "[A](/post/a/) [tough](/post/tough/) [job](/post/job/)": Refers [to](/post/to/) [a](/post/a/) [difficult](/post/difficult/) [or](/post/or/) demanding [task](/post/task/) [or](/post/or/) [situation](/post/situation/).
+- "[Do](/post/do/) [the](/post/the/) [job](/post/job/)": [To](/post/to/) [accomplish](/post/accomplish/) [a](/post/a/) [task](/post/task/) effectively.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([employment](/en/post/employment/))**: "[After](/en/post/after/) graduating [from](/en/post/from/) [college](/en/post/college/), [he](/en/post/he/) landed [his](/en/post/his/) [dream](/en/post/dream/) [job](/en/post/job/) [at](/en/post/at/) [a](/en/post/a/) [top](/en/post/top/) tech [firm](/en/post/firm/)."
-- **[Verb](/en/post/verb/) ([criticize](/en/post/criticize/))**: "[His](/en/post/his/) [poor](/en/post/poor/) [performance](/en/post/performance/) [on](/en/post/on/) [the](/en/post/the/) [field](/en/post/field/) got [him](/en/post/him/) jobbed [by](/en/post/by/) [the](/en/post/the/) [coach](/en/post/coach/) [during](/en/post/during/) halftime."
-- **[Noun](/en/post/noun/) ([task](/en/post/task/))**: "Fixing [the](/en/post/the/) leaky faucet was [a](/en/post/a/) messy [job](/en/post/job/), [but](/en/post/but/) [it](/en/post/it/) had [to](/en/post/to/) [be](/en/post/be/) done."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([employment](/post/employment/))**: "[After](/post/after/) graduating [from](/post/from/) [college](/post/college/), [he](/post/he/) landed [his](/post/his/) [dream](/post/dream/) [job](/post/job/) [at](/post/at/) [a](/post/a/) [top](/post/top/) tech [firm](/post/firm/)."
+- **[Verb](/post/verb/) ([criticize](/post/criticize/))**: "[His](/post/his/) [poor](/post/poor/) [performance](/post/performance/) [on](/post/on/) [the](/post/the/) [field](/post/field/) got [him](/post/him/) jobbed [by](/post/by/) [the](/post/the/) [coach](/post/coach/) [during](/post/during/) halftime."
+- **[Noun](/post/noun/) ([task](/post/task/))**: "Fixing [the](/post/the/) leaky faucet was [a](/post/a/) messy [job](/post/job/), [but](/post/but/) [it](/post/it/) had [to](/post/to/) [be](/post/be/) done."
 
 ## Synonyms
-- [Position](/en/post/position/)
-- [Employment](/en/post/employment/)
-- [Occupation](/en/post/occupation/)
-- [Work](/en/post/work/)
-- [Role](/en/post/role/)
-- [Career](/en/post/career/)
+- [Position](/post/position/)
+- [Employment](/post/employment/)
+- [Occupation](/post/occupation/)
+- [Work](/post/work/)
+- [Role](/post/role/)
+- [Career](/post/career/)
 - Gig (informal)
-- [Assignment](/en/post/assignment/) ([for](/en/post/for/) [specific](/en/post/specific/) tasks)
+- [Assignment](/post/assignment/) ([for](/post/for/) [specific](/post/specific/) tasks)

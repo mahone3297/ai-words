@@ -7,29 +7,29 @@ description = '[æbˈnɔːməl] a.不正常的；变态的'
 keywords = ['ai words', 'abnormal']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /æbˈnɔːrməl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Deviating [from](/en/post/from/) [what](/en/post/what/) is [normal](/en/post/normal/) [or](/en/post/or/) [usual](/en/post/usual/), typically [in](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) is undesirable [or](/en/post/or/) worrying. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) child's [behavior](/en/post/behavior/) was considered [abnormal](/en/post/abnormal/) [by](/en/post/by/) [the](/en/post/the/) [teacher](/en/post/teacher/)."
+- **[Adjective](/post/adjective/)**: Deviating [from](/post/from/) [what](/post/what/) is [normal](/post/normal/) [or](/post/or/) [usual](/post/usual/), typically [in](/post/in/) [a](/post/a/) [way](/post/way/) [that](/post/that/) is undesirable [or](/post/or/) worrying. [For](/post/for/) [example](/post/example/): "[The](/post/the/) child's [behavior](/post/behavior/) was considered [abnormal](/post/abnormal/) [by](/post/by/) [the](/post/the/) [teacher](/post/teacher/)."
 
 ## Phrases
-- "[Abnormal](/en/post/abnormal/) conditions" [refer](/en/post/refer/) [to](/en/post/to/) situations [or](/en/post/or/) circumstances [that](/en/post/that/) are [not](/en/post/not/) [typical](/en/post/typical/) [or](/en/post/or/) expected.
-- "[Abnormal](/en/post/abnormal/) [test](/en/post/test/) results" [indicate](/en/post/indicate/) [that](/en/post/that/) [medical](/en/post/medical/) [test](/en/post/test/) findings are [outside](/en/post/outside/) [the](/en/post/the/) [range](/en/post/range/) [of](/en/post/of/) [what](/en/post/what/) is considered [standard](/en/post/standard/) [or](/en/post/or/) [healthy](/en/post/healthy/).
-- "[Abnormal](/en/post/abnormal/) psychology" is [a](/en/post/a/) [branch](/en/post/branch/) [of](/en/post/of/) psychology [that](/en/post/that/) studies [unusual](/en/post/unusual/) patterns [of](/en/post/of/) [thought](/en/post/thought/), [emotion](/en/post/emotion/), [and](/en/post/and/) [behavior](/en/post/behavior/).
+- "[Abnormal](/post/abnormal/) conditions" [refer](/post/refer/) [to](/post/to/) situations [or](/post/or/) circumstances [that](/post/that/) are [not](/post/not/) [typical](/post/typical/) [or](/post/or/) expected.
+- "[Abnormal](/post/abnormal/) [test](/post/test/) results" [indicate](/post/indicate/) [that](/post/that/) [medical](/post/medical/) [test](/post/test/) findings are [outside](/post/outside/) [the](/post/the/) [range](/post/range/) [of](/post/of/) [what](/post/what/) is considered [standard](/post/standard/) [or](/post/or/) [healthy](/post/healthy/).
+- "[Abnormal](/post/abnormal/) psychology" is [a](/post/a/) [branch](/post/branch/) [of](/post/of/) psychology [that](/post/that/) studies [unusual](/post/unusual/) patterns [of](/post/of/) [thought](/post/thought/), [emotion](/post/emotion/), [and](/post/and/) [behavior](/post/behavior/).
 
-## [Example](/en/post/example/) Sentences
-- [The](/en/post/the/) [patient](/en/post/patient/) showed [abnormal](/en/post/abnormal/) reflexes [during](/en/post/during/) [the](/en/post/the/) neurological [examination](/en/post/examination/).
-- [Due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [abnormal](/en/post/abnormal/) [weather](/en/post/weather/) patterns, crops failed [across](/en/post/across/) [the](/en/post/the/) [region](/en/post/region/).
-- [Her](/en/post/her/) obsession [with](/en/post/with/) cleanliness was seen [as](/en/post/as/) an [abnormal](/en/post/abnormal/) trait [by](/en/post/by/) [her](/en/post/her/) friends.
+## [Example](/post/example/) Sentences
+- [The](/post/the/) [patient](/post/patient/) showed [abnormal](/post/abnormal/) reflexes [during](/post/during/) [the](/post/the/) neurological [examination](/post/examination/).
+- [Due](/post/due/) [to](/post/to/) [the](/post/the/) [abnormal](/post/abnormal/) [weather](/post/weather/) patterns, crops failed [across](/post/across/) [the](/post/the/) [region](/post/region/).
+- [Her](/post/her/) obsession [with](/post/with/) cleanliness was seen [as](/post/as/) an [abnormal](/post/abnormal/) trait [by](/post/by/) [her](/post/her/) friends.
 
 ## Synonyms
-- [Unusual](/en/post/unusual/)
+- [Unusual](/post/unusual/)
 - Atypical
-- [Irregular](/en/post/irregular/)
+- [Irregular](/post/irregular/)
 - Aberrant
 - Deviant
 - Eccentric
-- [Peculiar](/en/post/peculiar/)
-- [Strange](/en/post/strange/)
+- [Peculiar](/post/peculiar/)
+- [Strange](/post/strange/)
 - Uncommon

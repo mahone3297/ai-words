@@ -20,13 +20,13 @@ keywords = ['ai words', 'justice']
    - 公平的：符合公正原则的，不偏不倚的。
 
 ## 短语
-- "[social](/post/social/) [justice](/post/justice/)" 社会正义，指消除社会不平等和不公正的努力。
-- "[blind](/post/blind/) [justice](/post/justice/)" 公正无私，象征性地描述法律面前人人平等，不因个人情感或偏见而有所不同。
-- "[to](/post/to/) [do](/post/do/) [justice](/post/justice/) [to](/post/to/) [something](/post/something/)" 充分对待，给予应有的重视或评价。
+- "[social](/zh/post/social/) [justice](/zh/post/justice/)" 社会正义，指消除社会不平等和不公正的努力。
+- "[blind](/zh/post/blind/) [justice](/zh/post/justice/)" 公正无私，象征性地描述法律面前人人平等，不因个人情感或偏见而有所不同。
+- "[to](/zh/post/to/) [do](/zh/post/do/) [justice](/zh/post/justice/) [to](/zh/post/to/) [something](/zh/post/something/)" 充分对待，给予应有的重视或评价。
 
 ## 例句
-- 名词: "[The](/post/the/) [court](/post/court/) sought [to](/post/to/) [deliver](/post/deliver/) [justice](/post/justice/) [to](/post/to/) [the](/post/the/) victims [of](/post/of/) [the](/post/the/) [crime](/post/crime/)."
-- 形容词: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) aims [to](/post/to/) [promote](/post/promote/) [justice](/post/justice/) [in](/post/in/) [the](/post/the/) [distribution](/post/distribution/) [of](/post/of/) resources."
+- 名词: "[The](/zh/post/the/) [court](/zh/post/court/) sought [to](/zh/post/to/) [deliver](/zh/post/deliver/) [justice](/zh/post/justice/) [to](/zh/post/to/) [the](/zh/post/the/) victims [of](/zh/post/of/) [the](/zh/post/the/) [crime](/zh/post/crime/)."
+- 形容词: "[The](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/) aims [to](/zh/post/to/) [promote](/zh/post/promote/) [justice](/zh/post/justice/) [in](/zh/post/in/) [the](/zh/post/the/) [distribution](/zh/post/distribution/) [of](/zh/post/of/) resources."
 
 ## 同义词
 - Fairness

@@ -7,34 +7,34 @@ description = '[ˈsauθˈwest] n.西南 a.西南的'
 keywords = ['ai words', 'southwest']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈwɛst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: Refers [to](/en/post/to/) [the](/en/post/the/) [direction](/en/post/direction/) [or](/en/post/or/) [compass](/en/post/compass/) [point](/en/post/point/) [between](/en/post/between/) [south](/en/post/south/) [and](/en/post/and/) [west](/en/post/west/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [storm](/en/post/storm/) was headed [southwest](/en/post/southwest/)."
-- **[Adjective](/en/post/adjective/)**: Describing [a](/en/post/a/) [location](/en/post/location/) [in](/en/post/in/) [relation](/en/post/relation/) [to](/en/post/to/) [the](/en/post/the/) [south](/en/post/south/) [and](/en/post/and/) [west](/en/post/west/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) decided [to](/en/post/to/) [camp](/en/post/camp/) [in](/en/post/in/) [the](/en/post/the/) [southwest](/en/post/southwest/) [corner](/en/post/corner/) [of](/en/post/of/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) southwestern [direction](/en/post/direction/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sunset](/en/post/sunset/) was [beautiful](/en/post/beautiful/), [painting](/en/post/painting/) [the](/en/post/the/) [sky](/en/post/sky/) [with](/en/post/with/) [its](/en/post/its/) fiery [southwest](/en/post/southwest/) hues."
+- **[Noun](/post/noun/)**: Refers [to](/post/to/) [the](/post/the/) [direction](/post/direction/) [or](/post/or/) [compass](/post/compass/) [point](/post/point/) [between](/post/between/) [south](/post/south/) [and](/post/and/) [west](/post/west/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [storm](/post/storm/) was headed [southwest](/post/southwest/)."
+- **[Adjective](/post/adjective/)**: Describing [a](/post/a/) [location](/post/location/) [in](/post/in/) [relation](/post/relation/) [to](/post/to/) [the](/post/the/) [south](/post/south/) [and](/post/and/) [west](/post/west/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) decided [to](/post/to/) [camp](/post/camp/) [in](/post/in/) [the](/post/the/) [southwest](/post/southwest/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [park](/post/park/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) southwestern [direction](/post/direction/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sunset](/post/sunset/) was [beautiful](/post/beautiful/), [painting](/post/painting/) [the](/post/the/) [sky](/post/sky/) [with](/post/with/) [its](/post/its/) fiery [southwest](/post/southwest/) hues."
 
 ## Phrases
-- "Moving [southwest](/en/post/southwest/)" describes [a](/en/post/a/) [direction](/en/post/direction/) [of](/en/post/of/) [travel](/en/post/travel/).
-- "[Southwest](/en/post/southwest/) winds" [indicate](/en/post/indicate/) [wind](/en/post/wind/) blowing [from](/en/post/from/) [that](/en/post/that/) [direction](/en/post/direction/).
-- "[In](/en/post/in/) [the](/en/post/the/) [southwest](/en/post/southwest/) [region](/en/post/region/)" specifies [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/).
+- "Moving [southwest](/post/southwest/)" describes [a](/post/a/) [direction](/post/direction/) [of](/post/of/) [travel](/post/travel/).
+- "[Southwest](/post/southwest/) winds" [indicate](/post/indicate/) [wind](/post/wind/) blowing [from](/post/from/) [that](/post/that/) [direction](/post/direction/).
+- "[In](/post/in/) [the](/post/the/) [southwest](/post/southwest/) [region](/post/region/)" specifies [a](/post/a/) [particular](/post/particular/) [area](/post/area/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [storm](/en/post/storm/) clouds were gathering [in](/en/post/in/) [the](/en/post/the/) [southwest](/en/post/southwest/), signaling an approaching rainstorm."
-- **[Adjective](/en/post/adjective/)**: "[Our](/en/post/our/) [house](/en/post/house/) is located [on](/en/post/on/) [a](/en/post/a/) [hill](/en/post/hill/) [with](/en/post/with/) [a](/en/post/a/) stunning [view](/en/post/view/) [of](/en/post/of/) [the](/en/post/the/) southwestern mountains."
-- **[Adverb](/en/post/adverb/)**: "[We](/en/post/we/) drove [southwest](/en/post/southwest/) [along](/en/post/along/) [the](/en/post/the/) [coast](/en/post/coast/) [road](/en/post/road/), enjoying [the](/en/post/the/) scenic [route](/en/post/route/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [storm](/post/storm/) clouds were gathering [in](/post/in/) [the](/post/the/) [southwest](/post/southwest/), signaling an approaching rainstorm."
+- **[Adjective](/post/adjective/)**: "[Our](/post/our/) [house](/post/house/) is located [on](/post/on/) [a](/post/a/) [hill](/post/hill/) [with](/post/with/) [a](/post/a/) stunning [view](/post/view/) [of](/post/of/) [the](/post/the/) southwestern mountains."
+- **[Adverb](/post/adverb/)**: "[We](/post/we/) drove [southwest](/post/southwest/) [along](/post/along/) [the](/post/the/) [coast](/post/coast/) [road](/post/road/), enjoying [the](/post/the/) scenic [route](/post/route/)."
 
 ## Synonyms
 - Southwesterly
 - Westernmost
 - Southwestward
-- Breezy [southwest](/en/post/southwest/)
-- [Southern](/en/post/southern/) latitude
+- Breezy [southwest](/post/southwest/)
+- [Southern](/post/southern/) latitude
 
 ## Antonyms
-- [Northeast](/en/post/northeast/)
+- [Northeast](/post/northeast/)
 - Eastward
-- [North](/en/post/north/)
-- [Southeast](/en/post/southeast/)
-- [East](/en/post/east/)
+- [North](/post/north/)
+- [Southeast](/post/southeast/)
+- [East](/post/east/)

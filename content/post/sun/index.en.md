@@ -7,35 +7,35 @@ description = '[sʌn] n.太阳，日'
 keywords = ['ai words', 'sun']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /un/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) celestial [body](/en/post/body/), [the](/en/post/the/) [star](/en/post/star/) [at](/en/post/at/) [the](/en/post/the/) center [of](/en/post/of/) [the](/en/post/the/) [solar](/en/post/solar/) [system](/en/post/system/), providing [light](/en/post/light/) [and](/en/post/and/) [heat](/en/post/heat/). **[countable]** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sun](/en/post/sun/) was shining brightly [today](/en/post/today/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [source](/en/post/source/) [of](/en/post/of/) [warmth](/en/post/warmth/), [energy](/en/post/energy/), [or](/en/post/or/) optimism. **[[mass](/en/post/mass/) [noun](/en/post/noun/)]** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sun](/en/post/sun/) is [a](/en/post/a/) [symbol](/en/post/symbol/) [of](/en/post/of/) [hope](/en/post/hope/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [emit](/en/post/emit/) [or](/en/post/or/) [reflect](/en/post/reflect/) [light](/en/post/light/) [and](/en/post/and/) [heat](/en/post/heat/). **[transitive [verb](/en/post/verb/)]** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sun](/en/post/sun/) rises [in](/en/post/in/) [the](/en/post/the/) [east](/en/post/east/)."
-- **[Adjective](/en/post/adjective/)**: [Bright](/en/post/bright/) [and](/en/post/and/) radiant. **[attributive [adjective](/en/post/adjective/)]** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) sunlit fields looked inviting."
+- **[Noun](/post/noun/)**: [A](/post/a/) celestial [body](/post/body/), [the](/post/the/) [star](/post/star/) [at](/post/at/) [the](/post/the/) center [of](/post/of/) [the](/post/the/) [solar](/post/solar/) [system](/post/system/), providing [light](/post/light/) [and](/post/and/) [heat](/post/heat/). **[countable]** [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sun](/post/sun/) was shining brightly [today](/post/today/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [source](/post/source/) [of](/post/of/) [warmth](/post/warmth/), [energy](/post/energy/), [or](/post/or/) optimism. **[[mass](/post/mass/) [noun](/post/noun/)]** [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sun](/post/sun/) is [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) [hope](/post/hope/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [emit](/post/emit/) [or](/post/or/) [reflect](/post/reflect/) [light](/post/light/) [and](/post/and/) [heat](/post/heat/). **[transitive [verb](/post/verb/)]** [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sun](/post/sun/) rises [in](/post/in/) [the](/post/the/) [east](/post/east/)."
+- **[Adjective](/post/adjective/)**: [Bright](/post/bright/) [and](/post/and/) radiant. **[attributive [adjective](/post/adjective/)]** [For](/post/for/) [example](/post/example/): "[The](/post/the/) sunlit fields looked inviting."
 
 ## Phrases
-- "Bask [in](/en/post/in/) [the](/en/post/the/) [sun](/en/post/sun/)" [means](/en/post/means/) [to](/en/post/to/) [enjoy](/en/post/enjoy/) [warm](/en/post/warm/) [sunlight](/en/post/sunlight/).
-- "[Under](/en/post/under/) [the](/en/post/the/) [sun](/en/post/sun/)" implies [no](/en/post/no/) [limit](/en/post/limit/) [or](/en/post/or/) [everywhere](/en/post/everywhere/). [For](/en/post/for/) [example](/en/post/example/): "There's [no](/en/post/no/) [limit](/en/post/limit/) [to](/en/post/to/) [what](/en/post/what/) [can](/en/post/can/) [happen](/en/post/happen/) [under](/en/post/under/) [the](/en/post/the/) [sun](/en/post/sun/)."
-- "[As](/en/post/as/) [the](/en/post/the/) [sun](/en/post/sun/) sets" signifies [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [the](/en/post/the/) [day](/en/post/day/). [For](/en/post/for/) [example](/en/post/example/): "[As](/en/post/as/) [the](/en/post/the/) [sun](/en/post/sun/) [set](/en/post/set/), [we](/en/post/we/) packed [up](/en/post/up/) [our](/en/post/our/) [picnic](/en/post/picnic/)."
+- "Bask [in](/post/in/) [the](/post/the/) [sun](/post/sun/)" [means](/post/means/) [to](/post/to/) [enjoy](/post/enjoy/) [warm](/post/warm/) [sunlight](/post/sunlight/).
+- "[Under](/post/under/) [the](/post/the/) [sun](/post/sun/)" implies [no](/post/no/) [limit](/post/limit/) [or](/post/or/) [everywhere](/post/everywhere/). [For](/post/for/) [example](/post/example/): "There's [no](/post/no/) [limit](/post/limit/) [to](/post/to/) [what](/post/what/) [can](/post/can/) [happen](/post/happen/) [under](/post/under/) [the](/post/the/) [sun](/post/sun/)."
+- "[As](/post/as/) [the](/post/the/) [sun](/post/sun/) sets" signifies [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [day](/post/day/). [For](/post/for/) [example](/post/example/): "[As](/post/as/) [the](/post/the/) [sun](/post/sun/) [set](/post/set/), [we](/post/we/) packed [up](/post/up/) [our](/post/our/) [picnic](/post/picnic/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) sunflowers turned [their](/en/post/their/) faces towards [the](/en/post/the/) [sun](/en/post/sun/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) plants [need](/en/post/need/) [sunlight](/en/post/sunlight/) [to](/en/post/to/) [grow](/en/post/grow/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sun-drenched [beach](/en/post/beach/) was [a](/en/post/a/) [popular](/en/post/popular/) [spot](/en/post/spot/) [for](/en/post/for/) vacations."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) sunflowers turned [their](/post/their/) faces towards [the](/post/the/) [sun](/post/sun/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) plants [need](/post/need/) [sunlight](/post/sunlight/) [to](/post/to/) [grow](/post/grow/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) sun-drenched [beach](/post/beach/) was [a](/post/a/) [popular](/post/popular/) [spot](/post/spot/) [for](/post/for/) vacations."
 
 ## Synonyms
-- [Solar](/en/post/solar/)
+- [Solar](/post/solar/)
 - Radiant
 - Luminous
 - Glowing
-- [Warm](/en/post/warm/)
+- [Warm](/post/warm/)
 
 ## Antonyms
-- [Dark](/en/post/dark/)
+- [Dark](/post/dark/)
 - Shadowy
-- [Dim](/en/post/dim/)
+- [Dim](/post/dim/)
 - Overcast
-- [Dull](/en/post/dull/)
+- [Dull](/post/dull/)

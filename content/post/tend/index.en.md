@@ -7,38 +7,38 @@ description = 'vi.走向，趋向；倾向'
 keywords = ['ai words', 'tend']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[tend](/en/post/tend/)/
+## [Pronunciation](/post/pronunciation/)
+/[tend](/post/tend/)/
 
 ## Definitions
-### [Verb](/en/post/verb/)
-- **[Present](/en/post/present/) [tense](/en/post/tense/)**: [Tend](/en/post/tend/) (v) - [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [natural](/en/post/natural/) inclination [or](/en/post/or/) [tendency](/en/post/tendency/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/); [often](/en/post/often/) [used](/en/post/used/) [with](/en/post/with/) '[to](/en/post/to/)' [or](/en/post/or/) 'towards'. 
-- **[Past](/en/post/past/) [tense](/en/post/tense/)**: Tended (v) - [Past](/en/post/past/) [form](/en/post/form/) [of](/en/post/of/) '[tend](/en/post/tend/)', indicating [a](/en/post/a/) [past](/en/post/past/) [action](/en/post/action/) [or](/en/post/or/) [habit](/en/post/habit/).
-- **Infinitive**: [To](/en/post/to/) [tend](/en/post/tend/) - [The](/en/post/the/) [basic](/en/post/basic/) [form](/en/post/form/) [of](/en/post/of/) [the](/en/post/the/) [verb](/en/post/verb/) [when](/en/post/when/) [used](/en/post/used/) [without](/en/post/without/) '[to](/en/post/to/)' [before](/en/post/before/) [it](/en/post/it/).
+### [Verb](/post/verb/)
+- **[Present](/post/present/) [tense](/post/tense/)**: [Tend](/post/tend/) (v) - [To](/post/to/) [have](/post/have/) [a](/post/a/) [natural](/post/natural/) inclination [or](/post/or/) [tendency](/post/tendency/) [to](/post/to/) [do](/post/do/) [something](/post/something/); [often](/post/often/) [used](/post/used/) [with](/post/with/) '[to](/post/to/)' [or](/post/or/) 'towards'. 
+- **[Past](/post/past/) [tense](/post/tense/)**: Tended (v) - [Past](/post/past/) [form](/post/form/) [of](/post/of/) '[tend](/post/tend/)', indicating [a](/post/a/) [past](/post/past/) [action](/post/action/) [or](/post/or/) [habit](/post/habit/).
+- **Infinitive**: [To](/post/to/) [tend](/post/tend/) - [The](/post/the/) [basic](/post/basic/) [form](/post/form/) [of](/post/of/) [the](/post/the/) [verb](/post/verb/) [when](/post/when/) [used](/post/used/) [without](/post/without/) '[to](/post/to/)' [before](/post/before/) [it](/post/it/).
 
-### [Noun](/en/post/noun/)
-- [Tendency](/en/post/tendency/) (n) - [A](/en/post/a/) [natural](/en/post/natural/) inclination [or](/en/post/or/) [preference](/en/post/preference/) towards [something](/en/post/something/).
+### [Noun](/post/noun/)
+- [Tendency](/post/tendency/) (n) - [A](/post/a/) [natural](/post/natural/) inclination [or](/post/or/) [preference](/post/preference/) towards [something](/post/something/).
 
 ## Phrases
-- "[Tend](/en/post/tend/) [to](/en/post/to/)" implies [a](/en/post/a/) [habit](/en/post/habit/) [or](/en/post/or/) inclination, e.g., "I [tend](/en/post/tend/) [to](/en/post/to/) [arrive](/en/post/arrive/) [early](/en/post/early/)."
-- "Tending [to](/en/post/to/)" describes an ongoing [action](/en/post/action/), e.g., "[The](/en/post/the/) plants [need](/en/post/need/) tending [to](/en/post/to/) [regularly](/en/post/regularly/)."
-- "Tended [by](/en/post/by/)" indicates [care](/en/post/care/) [or](/en/post/or/) [management](/en/post/management/), e.g., "[The](/en/post/the/) [garden](/en/post/garden/) was tended [by](/en/post/by/) [the](/en/post/the/) [gardener](/en/post/gardener/)."
+- "[Tend](/post/tend/) [to](/post/to/)" implies [a](/post/a/) [habit](/post/habit/) [or](/post/or/) inclination, e.g., "I [tend](/post/tend/) [to](/post/to/) [arrive](/post/arrive/) [early](/post/early/)."
+- "Tending [to](/post/to/)" describes an ongoing [action](/post/action/), e.g., "[The](/post/the/) plants [need](/post/need/) tending [to](/post/to/) [regularly](/post/regularly/)."
+- "Tended [by](/post/by/)" indicates [care](/post/care/) [or](/post/or/) [management](/post/management/), e.g., "[The](/post/the/) [garden](/post/garden/) was tended [by](/post/by/) [the](/post/the/) [gardener](/post/gardener/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tends [to](/en/post/to/) [be](/en/post/be/) [very](/en/post/very/) organized [in](/en/post/in/) [her](/en/post/her/) [work](/en/post/work/)."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [health](/en/post/health/) has shown [a](/en/post/a/) marked [improvement](/en/post/improvement/) [since](/en/post/since/) [he](/en/post/he/) started taking [better](/en/post/better/) [care](/en/post/care/) [of](/en/post/of/) [himself](/en/post/himself/)."
-- **Phrases**: "[The](/en/post/the/) [old](/en/post/old/) [man](/en/post/man/) tends [his](/en/post/his/) [garden](/en/post/garden/) [every](/en/post/every/) [morning](/en/post/morning/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[She](/post/she/) tends [to](/post/to/) [be](/post/be/) [very](/post/very/) organized [in](/post/in/) [her](/post/her/) [work](/post/work/)."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [health](/post/health/) has shown [a](/post/a/) marked [improvement](/post/improvement/) [since](/post/since/) [he](/post/he/) started taking [better](/post/better/) [care](/post/care/) [of](/post/of/) [himself](/post/himself/)."
+- **Phrases**: "[The](/post/the/) [old](/post/old/) [man](/post/man/) tends [his](/post/his/) [garden](/post/garden/) [every](/post/every/) [morning](/post/morning/)."
 
 ## Synonyms
-- [Care](/en/post/care/) [for](/en/post/for/)
-- [Look](/en/post/look/) [after](/en/post/after/)
-- [Manage](/en/post/manage/)
+- [Care](/post/care/) [for](/post/for/)
+- [Look](/post/look/) [after](/post/after/)
+- [Manage](/post/manage/)
 - Supervise
 - Nurture
-- [Handle](/en/post/handle/)
+- [Handle](/post/handle/)
 
 ## Antonyms
-- [Neglect](/en/post/neglect/)
-- [Ignore](/en/post/ignore/)
-- [Abandon](/en/post/abandon/)
-- [Avoid](/en/post/avoid/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [not](/en/post/not/) attending [to](/en/post/to/) [something](/en/post/something/))
+- [Neglect](/post/neglect/)
+- [Ignore](/post/ignore/)
+- [Abandon](/post/abandon/)
+- [Avoid](/post/avoid/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [not](/post/not/) attending [to](/post/to/) [something](/post/something/))

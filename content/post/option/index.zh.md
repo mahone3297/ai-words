@@ -11,21 +11,21 @@ keywords = ['ai words', 'option']
 /ˈɑːpʃən/
 
 ## 释义
-- **名词 (n)**: 可选择的事物；选择权；选项。例如: "[You](/post/you/) [have](/post/have/) [the](/post/the/) [option](/post/option/) [to](/post/to/) [choose](/post/choose/) [between](/post/between/) [two](/post/two/) colors."
-- **动词 (v)**: 给予…选择权；选择。例如: "[The](/post/the/) [company](/post/company/) offers employees [the](/post/the/) [option](/post/option/) [to](/post/to/) [work](/post/work/) [from](/post/from/) [home](/post/home/)."
+- **名词 (n)**: 可选择的事物；选择权；选项。例如: "[You](/zh/post/you/) [have](/zh/post/have/) [the](/zh/post/the/) [option](/zh/post/option/) [to](/zh/post/to/) [choose](/zh/post/choose/) [between](/zh/post/between/) [two](/zh/post/two/) colors."
+- **动词 (v)**: 给予…选择权；选择。例如: "[The](/zh/post/the/) [company](/zh/post/company/) offers employees [the](/zh/post/the/) [option](/zh/post/option/) [to](/zh/post/to/) [work](/zh/post/work/) [from](/zh/post/from/) [home](/zh/post/home/)."
 
 ## 短语
-- "[Option](/post/option/) [contract](/post/contract/)" 是一种金融合约，给予买方在未来某一时间以特定价格购买或出售资产的权利。
-- "[Stock](/post/stock/) options" 是公司给予员工购买公司股票的权益。
-- "[To](/post/to/) [exercise](/post/exercise/) an [option](/post/option/)" 指的是行使选择权，如购买或出售资产。
+- "[Option](/zh/post/option/) [contract](/zh/post/contract/)" 是一种金融合约，给予买方在未来某一时间以特定价格购买或出售资产的权利。
+- "[Stock](/zh/post/stock/) options" 是公司给予员工购买公司股票的权益。
+- "[To](/zh/post/to/) [exercise](/zh/post/exercise/) an [option](/zh/post/option/)" 指的是行使选择权，如购买或出售资产。
 
 ## 例句
-- 名词: "[The](/post/the/) [customer](/post/customer/) had [several](/post/several/) options [for](/post/for/) [payment](/post/payment/) methods."
-- 动词: "[They](/post/they/) gave [him](/post/him/) [the](/post/the/) [option](/post/option/) [to](/post/to/) [resign](/post/resign/) [or](/post/or/) [be](/post/be/) fired."
+- 名词: "[The](/zh/post/the/) [customer](/zh/post/customer/) had [several](/zh/post/several/) options [for](/zh/post/for/) [payment](/zh/post/payment/) methods."
+- 动词: "[They](/zh/post/they/) gave [him](/zh/post/him/) [the](/zh/post/the/) [option](/zh/post/option/) [to](/zh/post/to/) [resign](/zh/post/resign/) [or](/zh/post/or/) [be](/zh/post/be/) fired."
 
 ## 同义词
-- [Choice](/post/choice/)
-- [Selection](/post/selection/)
-- [Alternative](/post/alternative/)
-- [Possibility](/post/possibility/)
-- [Opportunity](/post/opportunity/)
+- [Choice](/zh/post/choice/)
+- [Selection](/zh/post/selection/)
+- [Alternative](/zh/post/alternative/)
+- [Possibility](/zh/post/possibility/)
+- [Opportunity](/zh/post/opportunity/)

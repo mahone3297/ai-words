@@ -7,21 +7,21 @@ description = '[laud] a.响亮的；吵闹的'
 keywords = ['ai words', 'loud']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lɔd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) [strong](/en/post/strong/), [clear](/en/post/clear/), [or](/en/post/or/) [high](/en/post/high/) [volume](/en/post/volume/) [of](/en/post/of/) [sound](/en/post/sound/); making [much](/en/post/much/) [noise](/en/post/noise/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [loud](/en/post/loud/) [music](/en/post/music/) woke [up](/en/post/up/) [the](/en/post/the/) neighbors."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) heard [clearly](/en/post/clearly/) [and](/en/post/and/) [from](/en/post/from/) [a](/en/post/a/) [distance](/en/post/distance/); [with](/en/post/with/) [great](/en/post/great/) [volume](/en/post/volume/) [or](/en/post/or/) [intensity](/en/post/intensity/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke [loud](/en/post/loud/) [enough](/en/post/enough/) [for](/en/post/for/) [everyone](/en/post/everyone/) [in](/en/post/in/) [the](/en/post/the/) auditorium [to](/en/post/to/) [hear](/en/post/hear/) [her](/en/post/her/)."
+- **[Adjective](/post/adjective/)**: Having [a](/post/a/) [strong](/post/strong/), [clear](/post/clear/), [or](/post/or/) [high](/post/high/) [volume](/post/volume/) [of](/post/of/) [sound](/post/sound/); making [much](/post/much/) [noise](/post/noise/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [loud](/post/loud/) [music](/post/music/) woke [up](/post/up/) [the](/post/the/) neighbors."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) [can](/post/can/) [be](/post/be/) heard [clearly](/post/clearly/) [and](/post/and/) [from](/post/from/) [a](/post/a/) [distance](/post/distance/); [with](/post/with/) [great](/post/great/) [volume](/post/volume/) [or](/post/or/) [intensity](/post/intensity/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) spoke [loud](/post/loud/) [enough](/post/enough/) [for](/post/for/) [everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) auditorium [to](/post/to/) [hear](/post/hear/) [her](/post/her/)."
 
 ### Phrases
-- "[Loud](/en/post/loud/) [and](/en/post/and/) [clear](/en/post/clear/)": [This](/en/post/this/) [phrase](/en/post/phrase/) [means](/en/post/means/) [something](/en/post/something/) is [easily](/en/post/easily/) heard [and](/en/post/and/) understood [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) clarity [and](/en/post/and/) [volume](/en/post/volume/). [Example](/en/post/example/): "[The](/en/post/the/) instructions came [through](/en/post/through/) [loud](/en/post/loud/) [and](/en/post/and/) [clear](/en/post/clear/) [over](/en/post/over/) [the](/en/post/the/) [radio](/en/post/radio/)."
-- "[Speak](/en/post/speak/) [loud](/en/post/loud/)": [To](/en/post/to/) [raise](/en/post/raise/) one's [voice](/en/post/voice/) [so](/en/post/so/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) heard distinctly [by](/en/post/by/) others. [Example](/en/post/example/): "[Please](/en/post/please/) [speak](/en/post/speak/) [loud](/en/post/loud/) [so](/en/post/so/) [the](/en/post/the/) [people](/en/post/people/) [at](/en/post/at/) [the](/en/post/the/) [back](/en/post/back/) [of](/en/post/of/) [the](/en/post/the/) [room](/en/post/room/) [can](/en/post/can/) [hear](/en/post/hear/) [you](/en/post/you/)."
-- "[Turn](/en/post/turn/) [down](/en/post/down/) [the](/en/post/the/) [volume](/en/post/volume/); it's [too](/en/post/too/) [loud](/en/post/loud/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [when](/en/post/when/) [the](/en/post/the/) [sound](/en/post/sound/) [level](/en/post/level/) is uncomfortably [high](/en/post/high/) [or](/en/post/or/) disruptive. [Example](/en/post/example/): "[Could](/en/post/could/) [you](/en/post/you/) [turn](/en/post/turn/) [down](/en/post/down/) [the](/en/post/the/) [volume](/en/post/volume/) [on](/en/post/on/) [the](/en/post/the/) TV? It's [too](/en/post/too/) [loud](/en/post/loud/)."
+- "[Loud](/post/loud/) [and](/post/and/) [clear](/post/clear/)": [This](/post/this/) [phrase](/post/phrase/) [means](/post/means/) [something](/post/something/) is [easily](/post/easily/) heard [and](/post/and/) understood [due](/post/due/) [to](/post/to/) [its](/post/its/) clarity [and](/post/and/) [volume](/post/volume/). [Example](/post/example/): "[The](/post/the/) instructions came [through](/post/through/) [loud](/post/loud/) [and](/post/and/) [clear](/post/clear/) [over](/post/over/) [the](/post/the/) [radio](/post/radio/)."
+- "[Speak](/post/speak/) [loud](/post/loud/)": [To](/post/to/) [raise](/post/raise/) one's [voice](/post/voice/) [so](/post/so/) [it](/post/it/) [can](/post/can/) [be](/post/be/) heard distinctly [by](/post/by/) others. [Example](/post/example/): "[Please](/post/please/) [speak](/post/speak/) [loud](/post/loud/) [so](/post/so/) [the](/post/the/) [people](/post/people/) [at](/post/at/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [the](/post/the/) [room](/post/room/) [can](/post/can/) [hear](/post/hear/) [you](/post/you/)."
+- "[Turn](/post/turn/) [down](/post/down/) [the](/post/the/) [volume](/post/volume/); it's [too](/post/too/) [loud](/post/loud/)": [This](/post/this/) [phrase](/post/phrase/) is [used](/post/used/) [when](/post/when/) [the](/post/the/) [sound](/post/sound/) [level](/post/level/) is uncomfortably [high](/post/high/) [or](/post/or/) disruptive. [Example](/post/example/): "[Could](/post/could/) [you](/post/you/) [turn](/post/turn/) [down](/post/down/) [the](/post/the/) [volume](/post/volume/) [on](/post/on/) [the](/post/the/) TV? It's [too](/post/too/) [loud](/post/loud/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) fireworks were incredibly [loud](/en/post/loud/) [last](/en/post/last/) [night](/en/post/night/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) laughed loudly [when](/en/post/when/) [he](/en/post/he/) heard [the](/en/post/the/) [joke](/en/post/joke/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) fireworks were incredibly [loud](/post/loud/) [last](/post/last/) [night](/post/night/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) laughed loudly [when](/post/when/) [he](/post/he/) heard [the](/post/the/) [joke](/post/joke/)."
 
 ## Synonyms
 - Audible
@@ -29,8 +29,8 @@ keywords = ['ai words', 'loud']
 - Clamorous
 - Deafening
 - Ear-splitting
-- [Noisy](/en/post/noisy/)
+- [Noisy](/post/noisy/)
 - Resounding
 - Strident
 - Thunderous
-- Vocal ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) speaking loudly)
+- Vocal ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) speaking loudly)

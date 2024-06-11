@@ -11,20 +11,20 @@ keywords = ['ai words', 'decent']
 /ˈdiːsnt/
 
 ## 释义
-- **形容词**: 体面的，正派的，得体的。例如: "[She](/post/she/) was dressed [in](/post/in/) [a](/post/a/) [decent](/post/decent/) outfit [for](/post/for/) [the](/post/the/) [interview](/post/interview/)."
-- **副词**: 适度地，相当好。例如: "[He](/post/he/) did decently [on](/post/on/) [the](/post/the/) [exam](/post/exam/)."
+- **形容词**: 体面的，正派的，得体的。例如: "[She](/zh/post/she/) was dressed [in](/zh/post/in/) [a](/zh/post/a/) [decent](/zh/post/decent/) outfit [for](/zh/post/for/) [the](/zh/post/the/) [interview](/zh/post/interview/)."
+- **副词**: 适度地，相当好。例如: "[He](/zh/post/he/) did decently [on](/zh/post/on/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
 
 ## 短语
-- "[Decent](/post/decent/) [living](/post/living/) conditions" 指适宜的生活环境。
-- "[A](/post/a/) [decent](/post/decent/) [amount](/post/amount/)" 指适量或足够的数量。
+- "[Decent](/zh/post/decent/) [living](/zh/post/living/) conditions" 指适宜的生活环境。
+- "[A](/zh/post/a/) [decent](/zh/post/decent/) [amount](/zh/post/amount/)" 指适量或足够的数量。
 
 ## 例句
-- 形容词: "[The](/post/the/) [hotel](/post/hotel/) [provided](/post/provided/) [decent](/post/decent/) accommodations [for](/post/for/) [their](/post/their/) guests."
-- 副词: "[He](/post/he/) played [the](/post/the/) guitar decently, impressing [the](/post/the/) [audience](/post/audience/) [with](/post/with/) [his](/post/his/) skills."
+- 形容词: "[The](/zh/post/the/) [hotel](/zh/post/hotel/) [provided](/zh/post/provided/) [decent](/zh/post/decent/) accommodations [for](/zh/post/for/) [their](/zh/post/their/) guests."
+- 副词: "[He](/zh/post/he/) played [the](/zh/post/the/) guitar decently, impressing [the](/zh/post/the/) [audience](/zh/post/audience/) [with](/zh/post/with/) [his](/zh/post/his/) skills."
 
 ## 同义词
 - Respectable
-- [Proper](/post/proper/)
-- [Decent](/post/decent/) [enough](/post/enough/)
-- [Nice](/post/nice/)
+- [Proper](/zh/post/proper/)
+- [Decent](/zh/post/decent/) [enough](/zh/post/enough/)
+- [Nice](/zh/post/nice/)
 - Inoffensive

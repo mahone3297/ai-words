@@ -11,22 +11,22 @@ keywords = ['ai words', 'signature']
 /ˈsɪɡnətʃər/
 
 ## 释义
-- **名词**: 1. 签名，亲笔签名。例如: "[Please](/post/please/) [sign](/post/sign/) [your](/post/your/) [name](/post/name/) [in](/post/in/) [the](/post/the/) [space](/post/space/) [provided](/post/provided/)."  
-   2. 特色，特征。例如: "[Her](/post/her/) paintings [have](/post/have/) [a](/post/a/) distinctive [signature](/post/signature/) [style](/post/style/)."
-   3. （音乐、艺术作品等的）标志，风格。例如: "[That](/post/that/) melody is [the](/post/the/) composer's [signature](/post/signature/) [tune](/post/tune/)."
+- **名词**: 1. 签名，亲笔签名。例如: "[Please](/zh/post/please/) [sign](/zh/post/sign/) [your](/zh/post/your/) [name](/zh/post/name/) [in](/zh/post/in/) [the](/zh/post/the/) [space](/zh/post/space/) [provided](/zh/post/provided/)."  
+   2. 特色，特征。例如: "[Her](/zh/post/her/) paintings [have](/zh/post/have/) [a](/zh/post/a/) distinctive [signature](/zh/post/signature/) [style](/zh/post/style/)."
+   3. （音乐、艺术作品等的）标志，风格。例如: "[That](/zh/post/that/) melody is [the](/zh/post/the/) composer's [signature](/zh/post/signature/) [tune](/zh/post/tune/)."
 
-- **动词**: 签名，签署。例如: "I signed [the](/post/the/) [contract](/post/contract/) [with](/post/with/) [my](/post/my/) [signature](/post/signature/)."
+- **动词**: 签名，签署。例如: "I signed [the](/zh/post/the/) [contract](/zh/post/contract/) [with](/zh/post/with/) [my](/zh/post/my/) [signature](/zh/post/signature/)."
 
 ## 短语
-- "[Electronic](/post/electronic/) [signature](/post/signature/)" 指电子形式的签名，常用于电子邮件或文档。
-- "[Personal](/post/personal/) [signature](/post/signature/)" 指个人独特的签名。
+- "[Electronic](/zh/post/electronic/) [signature](/zh/post/signature/)" 指电子形式的签名，常用于电子邮件或文档。
+- "[Personal](/zh/post/personal/) [signature](/zh/post/signature/)" 指个人独特的签名。
 
 ## 例句
-- 名词: "[The](/post/the/) [artist](/post/artist/) [put](/post/put/) [his](/post/his/) [signature](/post/signature/) [in](/post/in/) [the](/post/the/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [painting](/post/painting/)."
-- 动词: "[Before](/post/before/) sending [the](/post/the/) email, don't [forget](/post/forget/) [to](/post/to/) [add](/post/add/) [your](/post/your/) [electronic](/post/electronic/) [signature](/post/signature/)."
+- 名词: "[The](/zh/post/the/) [artist](/zh/post/artist/) [put](/zh/post/put/) [his](/zh/post/his/) [signature](/zh/post/signature/) [in](/zh/post/in/) [the](/zh/post/the/) [corner](/zh/post/corner/) [of](/zh/post/of/) [the](/zh/post/the/) [painting](/zh/post/painting/)."
+- 动词: "[Before](/zh/post/before/) sending [the](/zh/post/the/) email, don't [forget](/zh/post/forget/) [to](/zh/post/to/) [add](/zh/post/add/) [your](/zh/post/your/) [electronic](/zh/post/electronic/) [signature](/zh/post/signature/)."
 
 ## 同义词
 - Autograph
-- [Mark](/post/mark/)
-- [Handwriting](/post/handwriting/)
-- [Stamp](/post/stamp/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) signing documents)
+- [Mark](/zh/post/mark/)
+- [Handwriting](/zh/post/handwriting/)
+- [Stamp](/zh/post/stamp/) ([in](/zh/post/in/) [the](/zh/post/the/) context [of](/zh/post/of/) signing documents)

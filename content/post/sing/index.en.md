@@ -7,43 +7,43 @@ description = '[siŋ] vi.&vt.唱，演唱'
 keywords = ['ai words', 'sing']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪŋ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [noun](/en/post/noun/) related [to](/en/post/to/) [the](/en/post/the/) [word](/en/post/word/) "[sing](/en/post/sing/)" [can](/en/post/can/) [be](/en/post/be/):
-1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [art](/en/post/art/) [of](/en/post/of/) producing [musical](/en/post/musical/) sounds [by](/en/post/by/) modulating [the](/en/post/the/) [voice](/en/post/voice/): *[She](/en/post/she/) has [a](/en/post/a/) [beautiful](/en/post/beautiful/) singing [voice](/en/post/voice/).*
-2. [A](/en/post/a/) [song](/en/post/song/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is performed: *[He](/en/post/he/) sang [a](/en/post/a/) [popular](/en/post/popular/) [tune](/en/post/tune/) [at](/en/post/at/) [the](/en/post/the/) karaoke [night](/en/post/night/).*
-3. [A](/en/post/a/) [particular](/en/post/particular/) [performance](/en/post/performance/) [of](/en/post/of/) [a](/en/post/a/) [song](/en/post/song/): *[The](/en/post/the/) [concert](/en/post/concert/) was [a](/en/post/a/) sell-out, [with](/en/post/with/) [multiple](/en/post/multiple/) sing-alongs.*
+### [Noun](/post/noun/)
+[A](/post/a/) [noun](/post/noun/) related [to](/post/to/) [the](/post/the/) [word](/post/word/) "[sing](/post/sing/)" [can](/post/can/) [be](/post/be/):
+1. [The](/post/the/) [act](/post/act/) [or](/post/or/) [art](/post/art/) [of](/post/of/) producing [musical](/post/musical/) sounds [by](/post/by/) modulating [the](/post/the/) [voice](/post/voice/): *[She](/post/she/) has [a](/post/a/) [beautiful](/post/beautiful/) singing [voice](/post/voice/).*
+2. [A](/post/a/) [song](/post/song/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) is performed: *[He](/post/he/) sang [a](/post/a/) [popular](/post/popular/) [tune](/post/tune/) [at](/post/at/) [the](/post/the/) karaoke [night](/post/night/).*
+3. [A](/post/a/) [particular](/post/particular/) [performance](/post/performance/) [of](/post/of/) [a](/post/a/) [song](/post/song/): *[The](/post/the/) [concert](/post/concert/) was [a](/post/a/) sell-out, [with](/post/with/) [multiple](/post/multiple/) sing-alongs.*
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [sing](/en/post/sing/)**: [The](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) producing [sound](/en/post/sound/) [through](/en/post/through/) [the](/en/post/the/) [voice](/en/post/voice/), typically [in](/en/post/in/) [a](/en/post/a/) [musical](/en/post/musical/) [manner](/en/post/manner/): *[She](/en/post/she/) sings [in](/en/post/in/) [the](/en/post/the/) [church](/en/post/church/) choir [every](/en/post/every/) Sunday.*
-2. **[To](/en/post/to/) [perform](/en/post/perform/) [or](/en/post/or/) [recite](/en/post/recite/) ([a](/en/post/a/) [song](/en/post/song/), [poem](/en/post/poem/), etc.)**: *[The](/en/post/the/) children sang [a](/en/post/a/) lullaby [to](/en/post/to/) [their](/en/post/their/) [baby](/en/post/baby/) [brother](/en/post/brother/).*
-3. **[To](/en/post/to/) [express](/en/post/express/) [or](/en/post/or/) [convey](/en/post/convey/) (an [emotion](/en/post/emotion/), [message](/en/post/message/), etc.) [through](/en/post/through/) [song](/en/post/song/)**: *[His](/en/post/his/) lyrics beautifully [sing](/en/post/sing/) [about](/en/post/about/) [love](/en/post/love/) [and](/en/post/and/) [loss](/en/post/loss/).*
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [sing](/post/sing/)**: [The](/post/the/) [action](/post/action/) [of](/post/of/) producing [sound](/post/sound/) [through](/post/through/) [the](/post/the/) [voice](/post/voice/), typically [in](/post/in/) [a](/post/a/) [musical](/post/musical/) [manner](/post/manner/): *[She](/post/she/) sings [in](/post/in/) [the](/post/the/) [church](/post/church/) choir [every](/post/every/) Sunday.*
+2. **[To](/post/to/) [perform](/post/perform/) [or](/post/or/) [recite](/post/recite/) ([a](/post/a/) [song](/post/song/), [poem](/post/poem/), etc.)**: *[The](/post/the/) children sang [a](/post/a/) lullaby [to](/post/to/) [their](/post/their/) [baby](/post/baby/) [brother](/post/brother/).*
+3. **[To](/post/to/) [express](/post/express/) [or](/post/or/) [convey](/post/convey/) (an [emotion](/post/emotion/), [message](/post/message/), etc.) [through](/post/through/) [song](/post/song/)**: *[His](/post/his/) lyrics beautifully [sing](/post/sing/) [about](/post/about/) [love](/post/love/) [and](/post/and/) [loss](/post/loss/).*
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) singing [or](/en/post/or/) having [a](/en/post/a/) [pleasant](/en/post/pleasant/) singing [quality](/en/post/quality/): *[Her](/en/post/her/) [voice](/en/post/voice/) is [a](/en/post/a/) soprano, [and](/en/post/and/) [her](/en/post/her/) singing [style](/en/post/style/) is [very](/en/post/very/) melodic.*
-2. Expressive [or](/en/post/or/) [emotional](/en/post/emotional/) [when](/en/post/when/) spoken [or](/en/post/or/) sung: *[The](/en/post/the/) song's lyrics are [very](/en/post/very/) lyrically sung.*
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) singing [or](/post/or/) having [a](/post/a/) [pleasant](/post/pleasant/) singing [quality](/post/quality/): *[Her](/post/her/) [voice](/post/voice/) is [a](/post/a/) soprano, [and](/post/and/) [her](/post/her/) singing [style](/post/style/) is [very](/post/very/) melodic.*
+2. Expressive [or](/post/or/) [emotional](/post/emotional/) [when](/post/when/) spoken [or](/post/or/) sung: *[The](/post/the/) song's lyrics are [very](/post/very/) lyrically sung.*
 
-### [Adverb](/en/post/adverb/)
-[Not](/en/post/not/) [a](/en/post/a/) [common](/en/post/common/) [adverb](/en/post/adverb/) [form](/en/post/form/) [of](/en/post/of/) "[sing](/en/post/sing/)."
+### [Adverb](/post/adverb/)
+[Not](/post/not/) [a](/post/a/) [common](/post/common/) [adverb](/post/adverb/) [form](/post/form/) [of](/post/of/) "[sing](/post/sing/)."
 
 ## Phrases
-- "Singing [contest](/en/post/contest/)" refers [to](/en/post/to/) [a](/en/post/a/) [competition](/en/post/competition/) [where](/en/post/where/) participants showcase [their](/en/post/their/) singing abilities.
-- "[Sing](/en/post/sing/) [along](/en/post/along/)" encourages [people](/en/post/people/) [to](/en/post/to/) [join](/en/post/join/) [in](/en/post/in/) [the](/en/post/the/) chorus [of](/en/post/of/) [a](/en/post/a/) [song](/en/post/song/) [being](/en/post/being/) performed.
-- "Sung praises" [means](/en/post/means/) expressing admiration [or](/en/post/or/) [gratitude](/en/post/gratitude/) [through](/en/post/through/) [song](/en/post/song/).
+- "Singing [contest](/post/contest/)" refers [to](/post/to/) [a](/post/a/) [competition](/post/competition/) [where](/post/where/) participants showcase [their](/post/their/) singing abilities.
+- "[Sing](/post/sing/) [along](/post/along/)" encourages [people](/post/people/) [to](/post/to/) [join](/post/join/) [in](/post/in/) [the](/post/the/) chorus [of](/post/of/) [a](/post/a/) [song](/post/song/) [being](/post/being/) performed.
+- "Sung praises" [means](/post/means/) expressing admiration [or](/post/or/) [gratitude](/post/gratitude/) [through](/post/through/) [song](/post/song/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Listening [to](/en/post/to/) [her](/en/post/her/) [sing](/en/post/sing/) was [a](/en/post/a/) [real](/en/post/real/) [treat](/en/post/treat/) [for](/en/post/for/) [the](/en/post/the/) ears."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) children were singing joyfully [in](/en/post/in/) [the](/en/post/the/) schoolyard."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) has [a](/en/post/a/) [voice](/en/post/voice/) [that](/en/post/that/) [truly](/en/post/truly/) sings [of](/en/post/of/) [happiness](/en/post/happiness/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Listening [to](/post/to/) [her](/post/her/) [sing](/post/sing/) was [a](/post/a/) [real](/post/real/) [treat](/post/treat/) [for](/post/for/) [the](/post/the/) ears."
+- **[Verb](/post/verb/)**: "[The](/post/the/) children were singing joyfully [in](/post/in/) [the](/post/the/) schoolyard."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) has [a](/post/a/) [voice](/post/voice/) [that](/post/that/) [truly](/post/truly/) sings [of](/post/of/) [happiness](/post/happiness/)."
 
 ## Synonyms
 - Vocalize
-- [Perform](/en/post/perform/)
-- [Render](/en/post/render/) ([a](/en/post/a/) [song](/en/post/song/))
+- [Perform](/post/perform/)
+- [Render](/post/render/) ([a](/post/a/) [song](/post/song/))
 - Warble
 - Chant
 
-[Note](/en/post/note/): [The](/en/post/the/) [adverb](/en/post/adverb/) [form](/en/post/form/) is [not](/en/post/not/) [extensive](/en/post/extensive/), [as](/en/post/as/) "singingly" [could](/en/post/could/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) singing [manner](/en/post/manner/), [but](/en/post/but/) it's [less](/en/post/less/) [common](/en/post/common/).
+[Note](/post/note/): [The](/post/the/) [adverb](/post/adverb/) [form](/post/form/) is [not](/post/not/) [extensive](/post/extensive/), [as](/post/as/) "singingly" [could](/post/could/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) singing [manner](/post/manner/), [but](/post/but/) it's [less](/post/less/) [common](/post/common/).

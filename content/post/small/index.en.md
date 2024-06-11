@@ -7,43 +7,43 @@ description = '[smɔːl] a.小的，少的；小型的'
 keywords = ['ai words', 'small']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /smaʊl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Having [a](/en/post/a/) [relatively](/en/post/relatively/) [small](/en/post/small/) [size](/en/post/size/), [dimension](/en/post/dimension/), [or](/en/post/or/) [quantity](/en/post/quantity/); [not](/en/post/not/) [large](/en/post/large/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [small](/en/post/small/) [house](/en/post/house/) was cozy."
-- **[Adjective](/en/post/adjective/)**: 2. Characterized [by](/en/post/by/) [minor](/en/post/minor/) [importance](/en/post/importance/), insignificance, [or](/en/post/or/) triviality. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) concerns were [small](/en/post/small/) matters compared [to](/en/post/to/) [the](/en/post/the/) global [crisis](/en/post/crisis/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [small](/en/post/small/) [manner](/en/post/manner/) [or](/en/post/or/) [degree](/en/post/degree/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke [softly](/en/post/softly/), [almost](/en/post/almost/) [in](/en/post/in/) [a](/en/post/a/) [whisper](/en/post/whisper/)."
+- **[Adjective](/post/adjective/)**: 1. Having [a](/post/a/) [relatively](/post/relatively/) [small](/post/small/) [size](/post/size/), [dimension](/post/dimension/), [or](/post/or/) [quantity](/post/quantity/); [not](/post/not/) [large](/post/large/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [small](/post/small/) [house](/post/house/) was cozy."
+- **[Adjective](/post/adjective/)**: 2. Characterized [by](/post/by/) [minor](/post/minor/) [importance](/post/importance/), insignificance, [or](/post/or/) triviality. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) concerns were [small](/post/small/) matters compared [to](/post/to/) [the](/post/the/) global [crisis](/post/crisis/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [small](/post/small/) [manner](/post/manner/) [or](/post/or/) [degree](/post/degree/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) spoke [softly](/post/softly/), [almost](/post/almost/) [in](/post/in/) [a](/post/a/) [whisper](/post/whisper/)."
 
 ## Phrases
-- "[Be](/en/post/be/) small-minded" implies having [a](/en/post/a/) [limited](/en/post/limited/) [perspective](/en/post/perspective/) [or](/en/post/or/) [narrow](/en/post/narrow/) thinking.
-- "[A](/en/post/a/) [small](/en/post/small/) [victory](/en/post/victory/)" signifies [a](/en/post/a/) [minor](/en/post/minor/) [triumph](/en/post/triumph/) [or](/en/post/or/) accomplishment.
-- "[Small](/en/post/small/) [talk](/en/post/talk/)" refers [to](/en/post/to/) informal [conversation](/en/post/conversation/) [about](/en/post/about/) unimportant topics.
+- "[Be](/post/be/) small-minded" implies having [a](/post/a/) [limited](/post/limited/) [perspective](/post/perspective/) [or](/post/or/) [narrow](/post/narrow/) thinking.
+- "[A](/post/a/) [small](/post/small/) [victory](/post/victory/)" signifies [a](/post/a/) [minor](/post/minor/) [triumph](/post/triumph/) [or](/post/or/) accomplishment.
+- "[Small](/post/small/) [talk](/post/talk/)" refers [to](/post/to/) informal [conversation](/post/conversation/) [about](/post/about/) unimportant topics.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [small](/en/post/small/) [dog](/en/post/dog/) [fit](/en/post/fit/) [easily](/en/post/easily/) [in](/en/post/in/) [the](/en/post/the/) [palm](/en/post/palm/) [of](/en/post/of/) [her](/en/post/her/) [hand](/en/post/hand/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) made [a](/en/post/a/) [small](/en/post/small/) adjustment [to](/en/post/to/) [the](/en/post/the/) recipe [to](/en/post/to/) [suit](/en/post/suit/) [his](/en/post/his/) [taste](/en/post/taste/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) appreciated [the](/en/post/the/) [small](/en/post/small/) acts [of](/en/post/of/) [kindness](/en/post/kindness/) [from](/en/post/from/) [her](/en/post/her/) friends."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [small](/post/small/) [dog](/post/dog/) [fit](/post/fit/) [easily](/post/easily/) [in](/post/in/) [the](/post/the/) [palm](/post/palm/) [of](/post/of/) [her](/post/her/) [hand](/post/hand/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) made [a](/post/a/) [small](/post/small/) adjustment [to](/post/to/) [the](/post/the/) recipe [to](/post/to/) [suit](/post/suit/) [his](/post/his/) [taste](/post/taste/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) appreciated [the](/post/the/) [small](/post/small/) acts [of](/post/of/) [kindness](/post/kindness/) [from](/post/from/) [her](/post/her/) friends."
 
 ## Synonyms
-- [Tiny](/en/post/tiny/)
+- [Tiny](/post/tiny/)
 - Petite
-- [Little](/en/post/little/)
+- [Little](/post/little/)
 - Miniature
 - Insignificant
 - Trivial
-- [Modest](/en/post/modest/)
+- [Modest](/post/modest/)
 - Compact
 - Nipper
-- [Short](/en/post/short/)
+- [Short](/post/short/)
 
 ## Antonyms
-- [Large](/en/post/large/)
-- [Big](/en/post/big/)
-- [Huge](/en/post/huge/)
-- [Enormous](/en/post/enormous/)
+- [Large](/post/large/)
+- [Big](/post/big/)
+- [Huge](/post/huge/)
+- [Enormous](/post/enormous/)
 - Gigantic
-- [Immense](/en/post/immense/)
+- [Immense](/post/immense/)
 - Jumbo
 - Mammoth
 - Colossal

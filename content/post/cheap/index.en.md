@@ -7,24 +7,24 @@ description = '[t∫iːp] a.廉价的；劣质的'
 keywords = ['ai words', 'cheap']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈtʃiːp/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Having [a](/en/post/a/) [low](/en/post/low/) [price](/en/post/price/) [or](/en/post/or/) [cost](/en/post/cost/); [inexpensive](/en/post/inexpensive/). 2. [Of](/en/post/of/) [poor](/en/post/poor/) [quality](/en/post/quality/) [or](/en/post/or/) [standard](/en/post/standard/). 3. Showing [little](/en/post/little/) [value](/en/post/value/) [or](/en/post/or/) [respect](/en/post/respect/).
+- **[Adjective](/post/adjective/)**: 1. Having [a](/post/a/) [low](/post/low/) [price](/post/price/) [or](/post/or/) [cost](/post/cost/); [inexpensive](/post/inexpensive/). 2. [Of](/post/of/) [poor](/post/poor/) [quality](/post/quality/) [or](/post/or/) [standard](/post/standard/). 3. Showing [little](/post/little/) [value](/post/value/) [or](/post/or/) [respect](/post/respect/).
 
 ## Phrases
-- "[A](/en/post/a/) [cheap](/en/post/cheap/) [meal](/en/post/meal/)" refers [to](/en/post/to/) [a](/en/post/a/) [meal](/en/post/meal/) [that](/en/post/that/) is [inexpensive](/en/post/inexpensive/).
-- "[She](/en/post/she/) bought [a](/en/post/a/) [cheap](/en/post/cheap/) [car](/en/post/car/)" [means](/en/post/means/) [the](/en/post/the/) [vehicle](/en/post/vehicle/) was affordable [but](/en/post/but/) [possibly](/en/post/possibly/) [of](/en/post/of/) lesser [quality](/en/post/quality/).
-- "Don't [sell](/en/post/sell/) [yourself](/en/post/yourself/) [short](/en/post/short/); [you](/en/post/you/) [deserve](/en/post/deserve/) [something](/en/post/something/) [better](/en/post/better/) [than](/en/post/than/) [a](/en/post/a/) [cheap](/en/post/cheap/) imitation."
+- "[A](/post/a/) [cheap](/post/cheap/) [meal](/post/meal/)" refers [to](/post/to/) [a](/post/a/) [meal](/post/meal/) [that](/post/that/) is [inexpensive](/post/inexpensive/).
+- "[She](/post/she/) bought [a](/post/a/) [cheap](/post/cheap/) [car](/post/car/)" [means](/post/means/) [the](/post/the/) [vehicle](/post/vehicle/) was affordable [but](/post/but/) [possibly](/post/possibly/) [of](/post/of/) lesser [quality](/post/quality/).
+- "Don't [sell](/post/sell/) [yourself](/post/yourself/) [short](/post/short/); [you](/post/you/) [deserve](/post/deserve/) [something](/post/something/) [better](/post/better/) [than](/post/than/) [a](/post/a/) [cheap](/post/cheap/) imitation."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) ([price](/en/post/price/))**: "[The](/en/post/the/) discount [store](/en/post/store/) had [many](/en/post/many/) [cheap](/en/post/cheap/) items [on](/en/post/on/) [sale](/en/post/sale/)."
-- **[Adjective](/en/post/adjective/) ([quality](/en/post/quality/))**: "[The](/en/post/the/) [apartment](/en/post/apartment/) was advertised [as](/en/post/as/) [cheap](/en/post/cheap/) [but](/en/post/but/) turned [out](/en/post/out/) [to](/en/post/to/) [be](/en/post/be/) shabby."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) gave [a](/en/post/a/) [cheap](/en/post/cheap/) imitation [of](/en/post/of/) [the](/en/post/the/) [famous](/en/post/famous/) actor's [performance](/en/post/performance/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) ([price](/post/price/))**: "[The](/post/the/) discount [store](/post/store/) had [many](/post/many/) [cheap](/post/cheap/) items [on](/post/on/) [sale](/post/sale/)."
+- **[Adjective](/post/adjective/) ([quality](/post/quality/))**: "[The](/post/the/) [apartment](/post/apartment/) was advertised [as](/post/as/) [cheap](/post/cheap/) [but](/post/but/) turned [out](/post/out/) [to](/post/to/) [be](/post/be/) shabby."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) gave [a](/post/a/) [cheap](/post/cheap/) imitation [of](/post/of/) [the](/post/the/) [famous](/post/famous/) actor's [performance](/post/performance/)."
 
 ## Synonyms
-- [Inexpensive](/en/post/inexpensive/)
+- [Inexpensive](/post/inexpensive/)
 - Affordable
 - Budget-friendly
 - Penny-pinching
@@ -33,12 +33,12 @@ keywords = ['ai words', 'cheap']
 - Unpriced
 
 ## Antonyms
-- [Expensive](/en/post/expensive/)
+- [Expensive](/post/expensive/)
 - High-priced
 - Premium
 - Luxurious
-- [Quality](/en/post/quality/)
+- [Quality](/post/quality/)
 - Pricy
 
-## [Note](/en/post/note/)
-[The](/en/post/the/) [word](/en/post/word/) "[cheap](/en/post/cheap/)" [can](/en/post/can/) [sometimes](/en/post/sometimes/) [be](/en/post/be/) [used](/en/post/used/) pejoratively [to](/en/post/to/) [imply](/en/post/imply/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [value](/en/post/value/) [or](/en/post/or/) [quality](/en/post/quality/), [while](/en/post/while/) [it](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [simply](/en/post/simply/) [refer](/en/post/refer/) [to](/en/post/to/) affordability. [Be](/en/post/be/) cautious [when](/en/post/when/) using [it](/en/post/it/) [to](/en/post/to/) [avoid](/en/post/avoid/) [negative](/en/post/negative/) connotations.
+## [Note](/post/note/)
+[The](/post/the/) [word](/post/word/) "[cheap](/post/cheap/)" [can](/post/can/) [sometimes](/post/sometimes/) [be](/post/be/) [used](/post/used/) pejoratively [to](/post/to/) [imply](/post/imply/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [value](/post/value/) [or](/post/or/) [quality](/post/quality/), [while](/post/while/) [it](/post/it/) [can](/post/can/) [also](/post/also/) [simply](/post/simply/) [refer](/post/refer/) [to](/post/to/) affordability. [Be](/post/be/) cautious [when](/post/when/) using [it](/post/it/) [to](/post/to/) [avoid](/post/avoid/) [negative](/post/negative/) connotations.

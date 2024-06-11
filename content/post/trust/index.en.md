@@ -7,52 +7,52 @@ description = '[trʌst] n.信任 vt.相信；委托'
 keywords = ['ai words', 'trust']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /trʌst/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Trust](/en/post/trust/)**: 1. [Confidence](/en/post/confidence/) [in](/en/post/in/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/), [often](/en/post/often/) based [on](/en/post/on/) [reliability](/en/post/reliability/) [or](/en/post/or/) [past](/en/post/past/) [experience](/en/post/experience/). "[She](/en/post/she/) has [complete](/en/post/complete/) [trust](/en/post/trust/) [in](/en/post/in/) [her](/en/post/her/) friend's judgment."
-   - **Synonyms**: [confidence](/en/post/confidence/), [faith](/en/post/faith/), [reliance](/en/post/reliance/), [belief](/en/post/belief/), dependence
+### [Noun](/post/noun/)
+- **[Trust](/post/trust/)**: 1. [Confidence](/post/confidence/) [in](/post/in/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/), [often](/post/often/) based [on](/post/on/) [reliability](/post/reliability/) [or](/post/or/) [past](/post/past/) [experience](/post/experience/). "[She](/post/she/) has [complete](/post/complete/) [trust](/post/trust/) [in](/post/in/) [her](/post/her/) friend's judgment."
+   - **Synonyms**: [confidence](/post/confidence/), [faith](/post/faith/), [reliance](/post/reliance/), [belief](/post/belief/), dependence
 
-2. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) placing [reliance](/en/post/reliance/) [on](/en/post/on/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [for](/en/post/for/) [care](/en/post/care/) [or](/en/post/or/) [management](/en/post/management/). "[The](/en/post/the/) children were placed [in](/en/post/in/) [the](/en/post/the/) [trust](/en/post/trust/) [of](/en/post/of/) [their](/en/post/their/) grandparents."
-   - **Synonyms**: custody, guardianship, fiduciary [responsibility](/en/post/responsibility/), [delegation](/en/post/delegation/)
+2. [The](/post/the/) [act](/post/act/) [of](/post/of/) placing [reliance](/post/reliance/) [on](/post/on/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/) [for](/post/for/) [care](/post/care/) [or](/post/or/) [management](/post/management/). "[The](/post/the/) children were placed [in](/post/in/) [the](/post/the/) [trust](/post/trust/) [of](/post/of/) [their](/post/their/) grandparents."
+   - **Synonyms**: custody, guardianship, fiduciary [responsibility](/post/responsibility/), [delegation](/post/delegation/)
 
-3. [A](/en/post/a/) [legal](/en/post/legal/) [arrangement](/en/post/arrangement/) [in](/en/post/in/) [which](/en/post/which/) [a](/en/post/a/) [person](/en/post/person/) ([the](/en/post/the/) trustee) holds assets [for](/en/post/for/) [the](/en/post/the/) [benefit](/en/post/benefit/) [of](/en/post/of/) [another](/en/post/another/) [person](/en/post/person/) ([the](/en/post/the/) beneficiary). "[A](/en/post/a/) [trust](/en/post/trust/) [fund](/en/post/fund/) is established [for](/en/post/for/) [the](/en/post/the/) [education](/en/post/education/) [of](/en/post/of/) [the](/en/post/the/) beneficiaries."
+3. [A](/post/a/) [legal](/post/legal/) [arrangement](/post/arrangement/) [in](/post/in/) [which](/post/which/) [a](/post/a/) [person](/post/person/) ([the](/post/the/) trustee) holds assets [for](/post/for/) [the](/post/the/) [benefit](/post/benefit/) [of](/post/of/) [another](/post/another/) [person](/post/person/) ([the](/post/the/) beneficiary). "[A](/post/a/) [trust](/post/trust/) [fund](/post/fund/) is established [for](/post/for/) [the](/post/the/) [education](/post/education/) [of](/post/of/) [the](/post/the/) beneficiaries."
 
-### [Verb](/en/post/verb/)
-- **[To](/en/post/to/) [trust](/en/post/trust/)**: [To](/en/post/to/) [have](/en/post/have/) [faith](/en/post/faith/) [or](/en/post/or/) [confidence](/en/post/confidence/) [in](/en/post/in/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). "I [trust](/en/post/trust/) [her](/en/post/her/) [with](/en/post/with/) [important](/en/post/important/) decisions."
-   - **Synonyms**: [believe](/en/post/believe/), [rely](/en/post/rely/), [depend](/en/post/depend/), entrust, confide
+### [Verb](/post/verb/)
+- **[To](/post/to/) [trust](/post/trust/)**: [To](/post/to/) [have](/post/have/) [faith](/post/faith/) [or](/post/or/) [confidence](/post/confidence/) [in](/post/in/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/). "I [trust](/post/trust/) [her](/post/her/) [with](/post/with/) [important](/post/important/) decisions."
+   - **Synonyms**: [believe](/post/believe/), [rely](/post/rely/), [depend](/post/depend/), entrust, confide
 
-### [Adjective](/en/post/adjective/)
-- **Trusted**: Believed [to](/en/post/to/) [be](/en/post/be/) [reliable](/en/post/reliable/) [or](/en/post/or/) [honest](/en/post/honest/). "[She](/en/post/she/) is [a](/en/post/a/) trusted [colleague](/en/post/colleague/)."
-   - **Synonyms**: dependable, [reliable](/en/post/reliable/), [honest](/en/post/honest/), credible
+### [Adjective](/post/adjective/)
+- **Trusted**: Believed [to](/post/to/) [be](/post/be/) [reliable](/post/reliable/) [or](/post/or/) [honest](/post/honest/). "[She](/post/she/) is [a](/post/a/) trusted [colleague](/post/colleague/)."
+   - **Synonyms**: dependable, [reliable](/post/reliable/), [honest](/post/honest/), credible
 
-### [Adverb](/en/post/adverb/)
-- **[Truly](/en/post/truly/)**: [In](/en/post/in/) [a](/en/post/a/) [true](/en/post/true/) [or](/en/post/or/) [genuine](/en/post/genuine/) [manner](/en/post/manner/). "[Truly](/en/post/truly/), [he](/en/post/he/) was [grateful](/en/post/grateful/) [for](/en/post/for/) [her](/en/post/her/) [help](/en/post/help/)."
+### [Adverb](/post/adverb/)
+- **[Truly](/post/truly/)**: [In](/post/in/) [a](/post/a/) [true](/post/true/) [or](/post/or/) [genuine](/post/genuine/) [manner](/post/manner/). "[Truly](/post/truly/), [he](/post/he/) was [grateful](/post/grateful/) [for](/post/for/) [her](/post/her/) [help](/post/help/)."
 
 ## Phrases
-- "[Trust](/en/post/trust/) [but](/en/post/but/) [verify](/en/post/verify/)" is [a](/en/post/a/) maxim advising caution [before](/en/post/before/) accepting [something](/en/post/something/) [as](/en/post/as/) [true](/en/post/true/).
-- "[In](/en/post/in/) [her](/en/post/her/) [trust](/en/post/trust/)" signifies [reliance](/en/post/reliance/) [or](/en/post/or/) [confidence](/en/post/confidence/) placed [in](/en/post/in/) [someone](/en/post/someone/).
-- "Placing [trust](/en/post/trust/) [in](/en/post/in/) [a](/en/post/a/) [system](/en/post/system/)" refers [to](/en/post/to/) having [faith](/en/post/faith/) [in](/en/post/in/) [its](/en/post/its/) functionality.
+- "[Trust](/post/trust/) [but](/post/but/) [verify](/post/verify/)" is [a](/post/a/) maxim advising caution [before](/post/before/) accepting [something](/post/something/) [as](/post/as/) [true](/post/true/).
+- "[In](/post/in/) [her](/post/her/) [trust](/post/trust/)" signifies [reliance](/post/reliance/) [or](/post/or/) [confidence](/post/confidence/) placed [in](/post/in/) [someone](/post/someone/).
+- "Placing [trust](/post/trust/) [in](/post/in/) [a](/post/a/) [system](/post/system/)" refers [to](/post/to/) having [faith](/post/faith/) [in](/post/in/) [its](/post/its/) functionality.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) family's [future](/en/post/future/) was placed [in](/en/post/in/) [the](/en/post/the/) [trust](/en/post/trust/) [of](/en/post/of/) [the](/en/post/the/) [financial](/en/post/financial/) advisor."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [trust](/en/post/trust/) [her](/en/post/her/) instincts [about](/en/post/about/) [the](/en/post/the/) [situation](/en/post/situation/)."
-- **[Adjective](/en/post/adjective/)**: "[He](/en/post/he/) is [a](/en/post/a/) [truly](/en/post/truly/) trusted [friend](/en/post/friend/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) trusted [him](/en/post/him/) [with](/en/post/with/) [the](/en/post/the/) [secret](/en/post/secret/) [truly](/en/post/truly/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) family's [future](/post/future/) was placed [in](/post/in/) [the](/post/the/) [trust](/post/trust/) [of](/post/of/) [the](/post/the/) [financial](/post/financial/) advisor."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [trust](/post/trust/) [her](/post/her/) instincts [about](/post/about/) [the](/post/the/) [situation](/post/situation/)."
+- **[Adjective](/post/adjective/)**: "[He](/post/he/) is [a](/post/a/) [truly](/post/truly/) trusted [friend](/post/friend/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) trusted [him](/post/him/) [with](/post/with/) [the](/post/the/) [secret](/post/secret/) [truly](/post/truly/)."
 
 ## Synonyms
-- [Confidence](/en/post/confidence/)
-- [Faith](/en/post/faith/)
+- [Confidence](/post/confidence/)
+- [Faith](/post/faith/)
 - Dependence
-- [Belief](/en/post/belief/)
-- [Reliance](/en/post/reliance/)
-- [Confidence](/en/post/confidence/) [in](/en/post/in/)
-- [Count](/en/post/count/) [on](/en/post/on/)
+- [Belief](/post/belief/)
+- [Reliance](/post/reliance/)
+- [Confidence](/post/confidence/) [in](/post/in/)
+- [Count](/post/count/) [on](/post/on/)
 - Entrust
 - Delegate
-- [Reliable](/en/post/reliable/)
+- [Reliable](/post/reliable/)
 - Dependable
 - Trustworthy
 - Verifiable

@@ -7,23 +7,23 @@ description = '[riˈkʌvəri] n.重获；痊愈，恢复'
 keywords = ['ai words', 'recovery']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈkʌvəri/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) regaining [health](/en/post/health/), [strength](/en/post/strength/), [or](/en/post/or/) [normal](/en/post/normal/) [function](/en/post/function/) [after](/en/post/after/) an [illness](/en/post/illness/), [injury](/en/post/injury/), [or](/en/post/or/) [period](/en/post/period/) [of](/en/post/of/) decline. [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) [surgery](/en/post/surgery/), [her](/en/post/her/) [recovery](/en/post/recovery/) was [slow](/en/post/slow/) [but](/en/post/but/) [steady](/en/post/steady/)."
-- **[Verb](/en/post/verb/)**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) getting [well](/en/post/well/) [again](/en/post/again/) [or](/en/post/or/) returning [to](/en/post/to/) [a](/en/post/a/) [normal](/en/post/normal/) [state](/en/post/state/) [after](/en/post/after/) an [illness](/en/post/illness/), [injury](/en/post/injury/), [or](/en/post/or/) setback. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) patient's [recovery](/en/post/recovery/) was monitored [closely](/en/post/closely/) [by](/en/post/by/) [the](/en/post/the/) [medical](/en/post/medical/) [team](/en/post/team/)."
-- **[Adjective](/en/post/adjective/)**: Restored [to](/en/post/to/) [good](/en/post/good/) [condition](/en/post/condition/) [or](/en/post/or/) [normal](/en/post/normal/) functioning; recuperative. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [recovery](/en/post/recovery/) [period](/en/post/period/) required [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [patience](/en/post/patience/) [and](/en/post/and/) [hard](/en/post/hard/) [work](/en/post/work/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) regaining [health](/post/health/), [strength](/post/strength/), [or](/post/or/) [normal](/post/normal/) [function](/post/function/) [after](/post/after/) an [illness](/post/illness/), [injury](/post/injury/), [or](/post/or/) [period](/post/period/) [of](/post/of/) decline. [For](/post/for/) [example](/post/example/): "[After](/post/after/) [the](/post/the/) [surgery](/post/surgery/), [her](/post/her/) [recovery](/post/recovery/) was [slow](/post/slow/) [but](/post/but/) [steady](/post/steady/)."
+- **[Verb](/post/verb/)**: [The](/post/the/) [process](/post/process/) [of](/post/of/) getting [well](/post/well/) [again](/post/again/) [or](/post/or/) returning [to](/post/to/) [a](/post/a/) [normal](/post/normal/) [state](/post/state/) [after](/post/after/) an [illness](/post/illness/), [injury](/post/injury/), [or](/post/or/) setback. [For](/post/for/) [example](/post/example/): "[The](/post/the/) patient's [recovery](/post/recovery/) was monitored [closely](/post/closely/) [by](/post/by/) [the](/post/the/) [medical](/post/medical/) [team](/post/team/)."
+- **[Adjective](/post/adjective/)**: Restored [to](/post/to/) [good](/post/good/) [condition](/post/condition/) [or](/post/or/) [normal](/post/normal/) functioning; recuperative. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [recovery](/post/recovery/) [period](/post/period/) required [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [patience](/post/patience/) [and](/post/and/) [hard](/post/hard/) [work](/post/work/)."
 
 ## Phrases
-- "[Full](/en/post/full/) [recovery](/en/post/recovery/)" indicates [a](/en/post/a/) [complete](/en/post/complete/) [return](/en/post/return/) [to](/en/post/to/) [health](/en/post/health/) [or](/en/post/or/) [normal](/en/post/normal/) functioning.
-- "Speedy [recovery](/en/post/recovery/)" is [used](/en/post/used/) [to](/en/post/to/) [wish](/en/post/wish/) [someone](/en/post/someone/) [a](/en/post/a/) [rapid](/en/post/rapid/) [return](/en/post/return/) [to](/en/post/to/) wellness.
-- "Post-recovery" refers [to](/en/post/to/) [the](/en/post/the/) [period](/en/post/period/) [after](/en/post/after/) [a](/en/post/a/) [person](/en/post/person/) has recovered [from](/en/post/from/) an [illness](/en/post/illness/) [or](/en/post/or/) [injury](/en/post/injury/).
+- "[Full](/post/full/) [recovery](/post/recovery/)" indicates [a](/post/a/) [complete](/post/complete/) [return](/post/return/) [to](/post/to/) [health](/post/health/) [or](/post/or/) [normal](/post/normal/) functioning.
+- "Speedy [recovery](/post/recovery/)" is [used](/post/used/) [to](/post/to/) [wish](/post/wish/) [someone](/post/someone/) [a](/post/a/) [rapid](/post/rapid/) [return](/post/return/) [to](/post/to/) wellness.
+- "Post-recovery" refers [to](/post/to/) [the](/post/the/) [period](/post/period/) [after](/post/after/) [a](/post/a/) [person](/post/person/) has recovered [from](/post/from/) an [illness](/post/illness/) [or](/post/or/) [injury](/post/injury/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [recovery](/en/post/recovery/) [from](/en/post/from/) [the](/en/post/the/) [flu](/en/post/flu/) was [a](/en/post/a/) [long](/en/post/long/) [and](/en/post/and/) challenging [process](/en/post/process/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) started [physical](/en/post/physical/) therapy [to](/en/post/to/) [aid](/en/post/aid/) [in](/en/post/in/) [her](/en/post/her/) [recovery](/en/post/recovery/) [from](/en/post/from/) [the](/en/post/the/) [accident](/en/post/accident/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [recovery](/en/post/recovery/) [rate](/en/post/rate/) [for](/en/post/for/) COVID-19 patients is encouraging."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [recovery](/post/recovery/) [from](/post/from/) [the](/post/the/) [flu](/post/flu/) was [a](/post/a/) [long](/post/long/) [and](/post/and/) challenging [process](/post/process/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) started [physical](/post/physical/) therapy [to](/post/to/) [aid](/post/aid/) [in](/post/in/) [her](/post/her/) [recovery](/post/recovery/) [from](/post/from/) [the](/post/the/) [accident](/post/accident/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [recovery](/post/recovery/) [rate](/post/rate/) [for](/post/for/) COVID-19 patients is encouraging."
 
 ## Synonyms
 - Restoration

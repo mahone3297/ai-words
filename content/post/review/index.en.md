@@ -7,38 +7,38 @@ description = '[riˈvjuː] vt.再检查 n.复习'
 keywords = ['ai words', 'review']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈvjuː/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. An assessment [or](/en/post/or/) evaluation [of](/en/post/of/) [something](/en/post/something/), typically [a](/en/post/a/) [book](/en/post/book/), [movie](/en/post/movie/), [or](/en/post/or/) [performance](/en/post/performance/), based [on](/en/post/on/) [its](/en/post/its/) [content](/en/post/content/), [quality](/en/post/quality/), [or](/en/post/or/) [merit](/en/post/merit/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) critics gave [the](/en/post/the/) [film](/en/post/film/) [a](/en/post/a/) [positive](/en/post/positive/) [review](/en/post/review/)."
-2. [A](/en/post/a/) [summary](/en/post/summary/) [or](/en/post/or/) [account](/en/post/account/) [of](/en/post/of/) events, experiences, [or](/en/post/or/) observations. [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) [trip](/en/post/trip/), [she](/en/post/she/) wrote [a](/en/post/a/) [travel](/en/post/travel/) [review](/en/post/review/) [for](/en/post/for/) [the](/en/post/the/) blog."
-3. [A](/en/post/a/) reexamination [or](/en/post/or/) reconsideration. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [give](/en/post/give/) [their](/en/post/their/) [marriage](/en/post/marriage/) [another](/en/post/another/) [review](/en/post/review/)."
+### [Noun](/post/noun/)
+1. An assessment [or](/post/or/) evaluation [of](/post/of/) [something](/post/something/), typically [a](/post/a/) [book](/post/book/), [movie](/post/movie/), [or](/post/or/) [performance](/post/performance/), based [on](/post/on/) [its](/post/its/) [content](/post/content/), [quality](/post/quality/), [or](/post/or/) [merit](/post/merit/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) critics gave [the](/post/the/) [film](/post/film/) [a](/post/a/) [positive](/post/positive/) [review](/post/review/)."
+2. [A](/post/a/) [summary](/post/summary/) [or](/post/or/) [account](/post/account/) [of](/post/of/) events, experiences, [or](/post/or/) observations. [For](/post/for/) [example](/post/example/): "[After](/post/after/) [the](/post/the/) [trip](/post/trip/), [she](/post/she/) wrote [a](/post/a/) [travel](/post/travel/) [review](/post/review/) [for](/post/for/) [the](/post/the/) blog."
+3. [A](/post/a/) reexamination [or](/post/or/) reconsideration. [For](/post/for/) [example](/post/example/): "[They](/post/they/) decided [to](/post/to/) [give](/post/give/) [their](/post/their/) [marriage](/post/marriage/) [another](/post/another/) [review](/post/review/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [examine](/en/post/examine/) [or](/en/post/or/) [evaluate](/en/post/evaluate/) [something](/en/post/something/) critically, [especially](/en/post/especially/) [for](/en/post/for/) [publication](/en/post/publication/) [or](/en/post/or/) [public](/en/post/public/) [comment](/en/post/comment/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) reviewer praised [the](/en/post/the/) [novel](/en/post/novel/) [for](/en/post/for/) [its](/en/post/its/) originality."
-2. [To](/en/post/to/) [provide](/en/post/provide/) [a](/en/post/a/) written [opinion](/en/post/opinion/) [about](/en/post/about/) ([a](/en/post/a/) [product](/en/post/product/), [service](/en/post/service/), [or](/en/post/or/) [experience](/en/post/experience/)). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) reviewed [the](/en/post/the/) restaurant's [menu](/en/post/menu/) [before](/en/post/before/) making [her](/en/post/her/) [order](/en/post/order/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [examine](/post/examine/) [or](/post/or/) [evaluate](/post/evaluate/) [something](/post/something/) critically, [especially](/post/especially/) [for](/post/for/) [publication](/post/publication/) [or](/post/or/) [public](/post/public/) [comment](/post/comment/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) reviewer praised [the](/post/the/) [novel](/post/novel/) [for](/post/for/) [its](/post/its/) originality."
+2. [To](/post/to/) [provide](/post/provide/) [a](/post/a/) written [opinion](/post/opinion/) [about](/post/about/) ([a](/post/a/) [product](/post/product/), [service](/post/service/), [or](/post/or/) [experience](/post/experience/)). [For](/post/for/) [example](/post/example/): "[She](/post/she/) reviewed [the](/post/the/) restaurant's [menu](/post/menu/) [before](/post/before/) making [her](/post/her/) [order](/post/order/)."
 
-### [Adjective](/en/post/adjective/)
-1. Critically examined [or](/en/post/or/) analyzed. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) received [excellent](/en/post/excellent/) reviews [from](/en/post/from/) readers."
-2. Giving an [opinion](/en/post/opinion/) [or](/en/post/or/) evaluation. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [movie](/en/post/movie/) has garnered mixed reviews."
+### [Adjective](/post/adjective/)
+1. Critically examined [or](/post/or/) analyzed. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) received [excellent](/post/excellent/) reviews [from](/post/from/) readers."
+2. Giving an [opinion](/post/opinion/) [or](/post/or/) evaluation. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [movie](/post/movie/) has garnered mixed reviews."
 
 ## Phrases
-- "[Write](/en/post/write/) [a](/en/post/a/) [review](/en/post/review/)" [means](/en/post/means/) [to](/en/post/to/) [provide](/en/post/provide/) [a](/en/post/a/) critique [or](/en/post/or/) assessment.
-- "[A](/en/post/a/) five-star [review](/en/post/review/)" indicates [the](/en/post/the/) highest [level](/en/post/level/) [of](/en/post/of/) [satisfaction](/en/post/satisfaction/).
-- "[Look](/en/post/look/) [up](/en/post/up/) [a](/en/post/a/) [product](/en/post/product/) [review](/en/post/review/)" is [used](/en/post/used/) [to](/en/post/to/) [find](/en/post/find/) others' opinions [before](/en/post/before/) making [a](/en/post/a/) [purchase](/en/post/purchase/).
+- "[Write](/post/write/) [a](/post/a/) [review](/post/review/)" [means](/post/means/) [to](/post/to/) [provide](/post/provide/) [a](/post/a/) critique [or](/post/or/) assessment.
+- "[A](/post/a/) five-star [review](/post/review/)" indicates [the](/post/the/) highest [level](/post/level/) [of](/post/of/) [satisfaction](/post/satisfaction/).
+- "[Look](/post/look/) [up](/post/up/) [a](/post/a/) [product](/post/product/) [review](/post/review/)" is [used](/post/used/) [to](/post/to/) [find](/post/find/) others' opinions [before](/post/before/) making [a](/post/a/) [purchase](/post/purchase/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "Readers [often](/en/post/often/) [seek](/en/post/seek/) [out](/en/post/out/) [book](/en/post/book/) reviews [to](/en/post/to/) [decide](/en/post/decide/) [whether](/en/post/whether/) [to](/en/post/to/) [buy](/en/post/buy/) [a](/en/post/a/) [title](/en/post/title/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) chef was pleased [with](/en/post/with/) [the](/en/post/the/) glowing [review](/en/post/review/) [from](/en/post/from/) [the](/en/post/the/) [food](/en/post/food/) [critic](/en/post/critic/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [film](/en/post/film/) received mixed reviews [from](/en/post/from/) [both](/en/post/both/) critics [and](/en/post/and/) audiences."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "Readers [often](/post/often/) [seek](/post/seek/) [out](/post/out/) [book](/post/book/) reviews [to](/post/to/) [decide](/post/decide/) [whether](/post/whether/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [title](/post/title/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) chef was pleased [with](/post/with/) [the](/post/the/) glowing [review](/post/review/) [from](/post/from/) [the](/post/the/) [food](/post/food/) [critic](/post/critic/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [film](/post/film/) received mixed reviews [from](/post/from/) [both](/post/both/) critics [and](/post/and/) audiences."
 
 ## Synonyms
 - Assessment
 - Evaluation
-- [Analysis](/en/post/analysis/)
+- [Analysis](/post/analysis/)
 - Commentary
-- [Feedback](/en/post/feedback/)
-- [Opinion](/en/post/opinion/)
-- [Judgement](/en/post/judgement/)
+- [Feedback](/post/feedback/)
+- [Opinion](/post/opinion/)
+- [Judgement](/post/judgement/)

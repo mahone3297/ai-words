@@ -11,20 +11,20 @@ keywords = ['ai words', 'buy']
 /baɪ/
 
 ## 释义
-- **动词**: 购买，购得。例如: "I bought [a](/post/a/) [new](/post/new/) laptop [yesterday](/post/yesterday/)."
-- **名词**: (在某些表达中)购买行为或所购之物。例如: "She's [saving](/post/saving/) [up](/post/up/) [for](/post/for/) [a](/post/a/) [big](/post/big/) [buy](/post/buy/)."
+- **动词**: 购买，购得。例如: "I bought [a](/zh/post/a/) [new](/zh/post/new/) laptop [yesterday](/zh/post/yesterday/)."
+- **名词**: (在某些表达中)购买行为或所购之物。例如: "She's [saving](/zh/post/saving/) [up](/zh/post/up/) [for](/zh/post/for/) [a](/zh/post/a/) [big](/zh/post/big/) [buy](/zh/post/buy/)."
 
 ## 短语
-- "[Buy](/post/buy/) [something](/post/something/) [for](/post/for/) [someone](/post/someone/)" 给某人买东西。例如: "I'll [buy](/post/buy/) [you](/post/you/) [a](/post/a/) [coffee](/post/coffee/)."
-- "[Buy](/post/buy/) [into](/post/into/) an [idea](/post/idea/)" 接受或相信一个观点。例如: "[Many](/post/many/) [people](/post/people/) [have](/post/have/) bought [into](/post/into/) [the](/post/the/) [concept](/post/concept/) [of](/post/of/) sustainable [living](/post/living/)."
+- "[Buy](/zh/post/buy/) [something](/zh/post/something/) [for](/zh/post/for/) [someone](/zh/post/someone/)" 给某人买东西。例如: "I'll [buy](/zh/post/buy/) [you](/zh/post/you/) [a](/zh/post/a/) [coffee](/zh/post/coffee/)."
+- "[Buy](/zh/post/buy/) [into](/zh/post/into/) an [idea](/zh/post/idea/)" 接受或相信一个观点。例如: "[Many](/zh/post/many/) [people](/zh/post/people/) [have](/zh/post/have/) bought [into](/zh/post/into/) [the](/zh/post/the/) [concept](/zh/post/concept/) [of](/zh/post/of/) sustainable [living](/zh/post/living/)."
 
 ## 例句
-- 动词: "I'm going [to](/post/to/) [buy](/post/buy/) [some](/post/some/) groceries [after](/post/after/) [work](/post/work/)."
-- 名词: "[His](/post/his/) latest [buy](/post/buy/) is [a](/post/a/) vintage [car](/post/car/)."
+- 动词: "I'm going [to](/zh/post/to/) [buy](/zh/post/buy/) [some](/zh/post/some/) groceries [after](/zh/post/after/) [work](/zh/post/work/)."
+- 名词: "[His](/zh/post/his/) latest [buy](/zh/post/buy/) is [a](/zh/post/a/) vintage [car](/zh/post/car/)."
 
 ## 同义词
-- [Purchase](/post/purchase/)
-- [Acquire](/post/acquire/)
-- [Obtain](/post/obtain/)
-- [Get](/post/get/)
-- [Secure](/post/secure/)
+- [Purchase](/zh/post/purchase/)
+- [Acquire](/zh/post/acquire/)
+- [Obtain](/zh/post/obtain/)
+- [Get](/zh/post/get/)
+- [Secure](/zh/post/secure/)

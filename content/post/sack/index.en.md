@@ -7,32 +7,32 @@ description = '[sæk] n.袋，麻袋；开除'
 keywords = ['ai words', 'sack']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sæk/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - 1. [A](/en/post/a/) [large](/en/post/large/) [bag](/en/post/bag/) [or](/en/post/or/) [container](/en/post/container/) made [of](/en/post/of/) [strong](/en/post/strong/) [material](/en/post/material/), typically [used](/en/post/used/) [for](/en/post/for/) carrying [heavy](/en/post/heavy/) items. [Example](/en/post/example/): "[The](/en/post/the/) [worker](/en/post/worker/) carried [a](/en/post/a/) [sack](/en/post/sack/) [of](/en/post/of/) potatoes."
-  - 2. [A](/en/post/a/) [defeat](/en/post/defeat/) [or](/en/post/or/) [loss](/en/post/loss/), [often](/en/post/often/) [in](/en/post/in/) sports [or](/en/post/or/) gambling. [Example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) suffered [a](/en/post/a/) devastating [sack](/en/post/sack/) [in](/en/post/in/) [the](/en/post/the/) [final](/en/post/final/) [game](/en/post/game/)."
-  - 3. (informal) An old-fashioned [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [person](/en/post/person/), [especially](/en/post/especially/) [one](/en/post/one/) [who](/en/post/who/) is unattractive [or](/en/post/or/) unsuccessful. [Example](/en/post/example/): "He's [just](/en/post/just/) [a](/en/post/a/) [sack](/en/post/sack/) [of](/en/post/of/) bones."
+- **[Noun](/post/noun/)**: 
+  - 1. [A](/post/a/) [large](/post/large/) [bag](/post/bag/) [or](/post/or/) [container](/post/container/) made [of](/post/of/) [strong](/post/strong/) [material](/post/material/), typically [used](/post/used/) [for](/post/for/) carrying [heavy](/post/heavy/) items. [Example](/post/example/): "[The](/post/the/) [worker](/post/worker/) carried [a](/post/a/) [sack](/post/sack/) [of](/post/of/) potatoes."
+  - 2. [A](/post/a/) [defeat](/post/defeat/) [or](/post/or/) [loss](/post/loss/), [often](/post/often/) [in](/post/in/) sports [or](/post/or/) gambling. [Example](/post/example/): "[The](/post/the/) [team](/post/team/) suffered [a](/post/a/) devastating [sack](/post/sack/) [in](/post/in/) [the](/post/the/) [final](/post/final/) [game](/post/game/)."
+  - 3. (informal) An old-fashioned [term](/post/term/) [for](/post/for/) [a](/post/a/) [person](/post/person/), [especially](/post/especially/) [one](/post/one/) [who](/post/who/) is unattractive [or](/post/or/) unsuccessful. [Example](/post/example/): "He's [just](/post/just/) [a](/post/a/) [sack](/post/sack/) [of](/post/of/) bones."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [put](/en/post/put/) [something](/en/post/something/) [into](/en/post/into/) [a](/en/post/a/) [sack](/en/post/sack/), typically [for](/en/post/for/) [transportation](/en/post/transportation/) [or](/en/post/or/) [storage](/en/post/storage/). [Example](/en/post/example/): "I'll [sack](/en/post/sack/) [the](/en/post/the/) groceries [into](/en/post/into/) [the](/en/post/the/) pantry."
-- **Transitive [verb](/en/post/verb/)**: [In](/en/post/in/) British English, [to](/en/post/to/) [fire](/en/post/fire/) [or](/en/post/or/) [dismiss](/en/post/dismiss/) [from](/en/post/from/) [a](/en/post/a/) [job](/en/post/job/). [Example](/en/post/example/): "[They](/en/post/they/) sacked [the](/en/post/the/) manager [due](/en/post/due/) [to](/en/post/to/) [poor](/en/post/poor/) [performance](/en/post/performance/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [put](/post/put/) [something](/post/something/) [into](/post/into/) [a](/post/a/) [sack](/post/sack/), typically [for](/post/for/) [transportation](/post/transportation/) [or](/post/or/) [storage](/post/storage/). [Example](/post/example/): "I'll [sack](/post/sack/) [the](/post/the/) groceries [into](/post/into/) [the](/post/the/) pantry."
+- **Transitive [verb](/post/verb/)**: [In](/post/in/) British English, [to](/post/to/) [fire](/post/fire/) [or](/post/or/) [dismiss](/post/dismiss/) [from](/post/from/) [a](/post/a/) [job](/post/job/). [Example](/post/example/): "[They](/post/they/) sacked [the](/post/the/) manager [due](/post/due/) [to](/post/to/) [poor](/post/poor/) [performance](/post/performance/)."
 
 ## Phrases
-- "[Fill](/en/post/fill/) [a](/en/post/a/) [sack](/en/post/sack/) [with](/en/post/with/)" [means](/en/post/means/) [to](/en/post/to/) [put](/en/post/put/) items [into](/en/post/into/) [a](/en/post/a/) [sack](/en/post/sack/).
-- "[Sack](/en/post/sack/) [out](/en/post/out/)" (informal) [means](/en/post/means/) [to](/en/post/to/) [fall](/en/post/fall/) [asleep](/en/post/asleep/).
-- "[Get](/en/post/get/) sacked" (British informal) [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) fired [or](/en/post/or/) dismissed.
+- "[Fill](/post/fill/) [a](/post/a/) [sack](/post/sack/) [with](/post/with/)" [means](/post/means/) [to](/post/to/) [put](/post/put/) items [into](/post/into/) [a](/post/a/) [sack](/post/sack/).
+- "[Sack](/post/sack/) [out](/post/out/)" (informal) [means](/post/means/) [to](/post/to/) [fall](/post/fall/) [asleep](/post/asleep/).
+- "[Get](/post/get/) sacked" (British informal) [means](/post/means/) [to](/post/to/) [be](/post/be/) fired [or](/post/or/) dismissed.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) filled [the](/en/post/the/) sacks [with](/en/post/with/) [wheat](/en/post/wheat/) [before](/en/post/before/) storing [them](/en/post/them/) [in](/en/post/in/) [the](/en/post/the/) [barn](/en/post/barn/)."
-- **[Verb](/en/post/verb/)**: "I'll [sack](/en/post/sack/) [the](/en/post/the/) [clothes](/en/post/clothes/) [after](/en/post/after/) doing [the](/en/post/the/) [laundry](/en/post/laundry/)."
-- **Transitive [verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) underperformance, [he](/en/post/he/) got sacked [from](/en/post/from/) [his](/en/post/his/) [job](/en/post/job/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) filled [the](/post/the/) sacks [with](/post/with/) [wheat](/post/wheat/) [before](/post/before/) storing [them](/post/them/) [in](/post/in/) [the](/post/the/) [barn](/post/barn/)."
+- **[Verb](/post/verb/)**: "I'll [sack](/post/sack/) [the](/post/the/) [clothes](/post/clothes/) [after](/post/after/) doing [the](/post/the/) [laundry](/post/laundry/)."
+- **Transitive [verb](/post/verb/)**: "[After](/post/after/) months [of](/post/of/) underperformance, [he](/post/he/) got sacked [from](/post/from/) [his](/post/his/) [job](/post/job/)."
 
 ## Synonyms
-- [Baggage](/en/post/baggage/)
-- [Container](/en/post/container/)
+- [Baggage](/post/baggage/)
+- [Container](/post/container/)
 - Holdall
-- Sackcloth ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/))
-- Firing (British [usage](/en/post/usage/))
-- Dismissal (British [usage](/en/post/usage/))
+- Sackcloth ([in](/post/in/) [a](/post/a/) figurative [sense](/post/sense/))
+- Firing (British [usage](/post/usage/))
+- Dismissal (British [usage](/post/usage/))

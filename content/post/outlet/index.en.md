@@ -7,29 +7,29 @@ description = '[ˈautlet] n.出口，出路；排遣'
 keywords = ['ai words', 'outlet']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaʊtˌlet/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [point](/en/post/point/) [where](/en/post/where/) [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [river](/en/post/river/) [or](/en/post/or/) [stream](/en/post/stream/), flows [out](/en/post/out/) [from](/en/post/from/) [a](/en/post/a/) larger [body](/en/post/body/) [of](/en/post/of/) [water](/en/post/water/) [or](/en/post/or/) [from](/en/post/from/) [a](/en/post/a/) [pipe](/en/post/pipe/), [drain](/en/post/drain/), [or](/en/post/or/) [channel](/en/post/channel/). [Example](/en/post/example/): "[The](/en/post/the/) river's [outlet](/en/post/outlet/) empties [into](/en/post/into/) [the](/en/post/the/) [sea](/en/post/sea/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [goods](/en/post/goods/) are sold, [often](/en/post/often/) [directly](/en/post/directly/) [from](/en/post/from/) [the](/en/post/the/) [manufacturer](/en/post/manufacturer/) [or](/en/post/or/) [at](/en/post/at/) reduced prices; [a](/en/post/a/) retail [store](/en/post/store/) [or](/en/post/or/) [shop](/en/post/shop/). [Example](/en/post/example/): "There's [a](/en/post/a/) [new](/en/post/new/) [clothing](/en/post/clothing/) [outlet](/en/post/outlet/) [opening](/en/post/opening/) [up](/en/post/up/) [in](/en/post/in/) [the](/en/post/the/) mall."
-- **[Noun](/en/post/noun/)**: An [electrical](/en/post/electrical/) socket [or](/en/post/or/) receptacle [used](/en/post/used/) [to](/en/post/to/) [connect](/en/post/connect/) appliances [or](/en/post/or/) devices [to](/en/post/to/) [a](/en/post/a/) [power](/en/post/power/) [source](/en/post/source/). [Example](/en/post/example/): "[Make](/en/post/make/) [sure](/en/post/sure/) [the](/en/post/the/) [appliance](/en/post/appliance/) is plugged [into](/en/post/into/) [a](/en/post/a/) grounded [outlet](/en/post/outlet/)."
-- **[Noun](/en/post/noun/)** (figurative): [A](/en/post/a/) [means](/en/post/means/) [of](/en/post/of/) [expression](/en/post/expression/) [or](/en/post/or/) [release](/en/post/release/) [for](/en/post/for/) emotions, creativity, [or](/en/post/or/) [energy](/en/post/energy/). [Example](/en/post/example/): "[Art](/en/post/art/) became [her](/en/post/her/) [outlet](/en/post/outlet/) [for](/en/post/for/) dealing [with](/en/post/with/) [stress](/en/post/stress/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [point](/post/point/) [where](/post/where/) [something](/post/something/), [especially](/post/especially/) [a](/post/a/) [river](/post/river/) [or](/post/or/) [stream](/post/stream/), flows [out](/post/out/) [from](/post/from/) [a](/post/a/) larger [body](/post/body/) [of](/post/of/) [water](/post/water/) [or](/post/or/) [from](/post/from/) [a](/post/a/) [pipe](/post/pipe/), [drain](/post/drain/), [or](/post/or/) [channel](/post/channel/). [Example](/post/example/): "[The](/post/the/) river's [outlet](/post/outlet/) empties [into](/post/into/) [the](/post/the/) [sea](/post/sea/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [place](/post/place/) [where](/post/where/) [goods](/post/goods/) are sold, [often](/post/often/) [directly](/post/directly/) [from](/post/from/) [the](/post/the/) [manufacturer](/post/manufacturer/) [or](/post/or/) [at](/post/at/) reduced prices; [a](/post/a/) retail [store](/post/store/) [or](/post/or/) [shop](/post/shop/). [Example](/post/example/): "There's [a](/post/a/) [new](/post/new/) [clothing](/post/clothing/) [outlet](/post/outlet/) [opening](/post/opening/) [up](/post/up/) [in](/post/in/) [the](/post/the/) mall."
+- **[Noun](/post/noun/)**: An [electrical](/post/electrical/) socket [or](/post/or/) receptacle [used](/post/used/) [to](/post/to/) [connect](/post/connect/) appliances [or](/post/or/) devices [to](/post/to/) [a](/post/a/) [power](/post/power/) [source](/post/source/). [Example](/post/example/): "[Make](/post/make/) [sure](/post/sure/) [the](/post/the/) [appliance](/post/appliance/) is plugged [into](/post/into/) [a](/post/a/) grounded [outlet](/post/outlet/)."
+- **[Noun](/post/noun/)** (figurative): [A](/post/a/) [means](/post/means/) [of](/post/of/) [expression](/post/expression/) [or](/post/or/) [release](/post/release/) [for](/post/for/) emotions, creativity, [or](/post/or/) [energy](/post/energy/). [Example](/post/example/): "[Art](/post/art/) became [her](/post/her/) [outlet](/post/outlet/) [for](/post/for/) dealing [with](/post/with/) [stress](/post/stress/)."
 
 ## Phrases
-- "[Outlet](/en/post/outlet/) [store](/en/post/store/)" refers [to](/en/post/to/) [a](/en/post/a/) retail [store](/en/post/store/) [that](/en/post/that/) sells end-of-line [or](/en/post/or/) surplus [stock](/en/post/stock/) [from](/en/post/from/) [a](/en/post/a/) [manufacturer](/en/post/manufacturer/) [at](/en/post/at/) discounted prices.
-- "[Power](/en/post/power/) [outlet](/en/post/outlet/)" specifically refers [to](/en/post/to/) [a](/en/post/a/) socket [or](/en/post/or/) receptacle [for](/en/post/for/) connecting [electronic](/en/post/electronic/) devices [to](/en/post/to/) [a](/en/post/a/) [power](/en/post/power/) [supply](/en/post/supply/).
-- "[Emotional](/en/post/emotional/) [outlet](/en/post/outlet/)" suggests [a](/en/post/a/) [means](/en/post/means/) [through](/en/post/through/) [which](/en/post/which/) [one](/en/post/one/) [can](/en/post/can/) [express](/en/post/express/) [or](/en/post/or/) [relieve](/en/post/relieve/) [their](/en/post/their/) feelings.
+- "[Outlet](/post/outlet/) [store](/post/store/)" refers [to](/post/to/) [a](/post/a/) retail [store](/post/store/) [that](/post/that/) sells end-of-line [or](/post/or/) surplus [stock](/post/stock/) [from](/post/from/) [a](/post/a/) [manufacturer](/post/manufacturer/) [at](/post/at/) discounted prices.
+- "[Power](/post/power/) [outlet](/post/outlet/)" specifically refers [to](/post/to/) [a](/post/a/) socket [or](/post/or/) receptacle [for](/post/for/) connecting [electronic](/post/electronic/) devices [to](/post/to/) [a](/post/a/) [power](/post/power/) [supply](/post/supply/).
+- "[Emotional](/post/emotional/) [outlet](/post/outlet/)" suggests [a](/post/a/) [means](/post/means/) [through](/post/through/) [which](/post/which/) [one](/post/one/) [can](/post/can/) [express](/post/express/) [or](/post/or/) [relieve](/post/relieve/) [their](/post/their/) feelings.
 
-## [Example](/en/post/example/) Sentences
-- **Retail [Outlet](/en/post/outlet/)**: "I [found](/en/post/found/) [a](/en/post/a/) [great](/en/post/great/) [bargain](/en/post/bargain/) [on](/en/post/on/) designer [clothes](/en/post/clothes/) [at](/en/post/at/) [the](/en/post/the/) [factory](/en/post/factory/) [outlet](/en/post/outlet/)."
-- **[Natural](/en/post/natural/) [Outlet](/en/post/outlet/)**: "[The](/en/post/the/) [river](/en/post/river/)’s [natural](/en/post/natural/) [outlet](/en/post/outlet/) was blocked [by](/en/post/by/) [a](/en/post/a/) [dam](/en/post/dam/)."
-- **[Electrical](/en/post/electrical/) [Outlet](/en/post/outlet/)**: "[Ensure](/en/post/ensure/) [that](/en/post/that/) [the](/en/post/the/) [vacuum](/en/post/vacuum/) cleaner is plugged [into](/en/post/into/) [a](/en/post/a/) functioning [electrical](/en/post/electrical/) [outlet](/en/post/outlet/)."
-- **Figurative [Usage](/en/post/usage/)**: "[Writing](/en/post/writing/) [poetry](/en/post/poetry/) serves [as](/en/post/as/) [her](/en/post/her/) [creative](/en/post/creative/) [outlet](/en/post/outlet/)."
+## [Example](/post/example/) Sentences
+- **Retail [Outlet](/post/outlet/)**: "I [found](/post/found/) [a](/post/a/) [great](/post/great/) [bargain](/post/bargain/) [on](/post/on/) designer [clothes](/post/clothes/) [at](/post/at/) [the](/post/the/) [factory](/post/factory/) [outlet](/post/outlet/)."
+- **[Natural](/post/natural/) [Outlet](/post/outlet/)**: "[The](/post/the/) [river](/post/river/)’s [natural](/post/natural/) [outlet](/post/outlet/) was blocked [by](/post/by/) [a](/post/a/) [dam](/post/dam/)."
+- **[Electrical](/post/electrical/) [Outlet](/post/outlet/)**: "[Ensure](/post/ensure/) [that](/post/that/) [the](/post/the/) [vacuum](/post/vacuum/) cleaner is plugged [into](/post/into/) [a](/post/a/) functioning [electrical](/post/electrical/) [outlet](/post/outlet/)."
+- **Figurative [Usage](/post/usage/)**: "[Writing](/post/writing/) [poetry](/post/poetry/) serves [as](/post/as/) [her](/post/her/) [creative](/post/creative/) [outlet](/post/outlet/)."
 
 ## Synonyms
-- Vent ([for](/en/post/for/) [emotional](/en/post/emotional/) [outlet](/en/post/outlet/))
-- Retail [shop](/en/post/shop/)
-- [Store](/en/post/store/) ([for](/en/post/for/) [commercial](/en/post/commercial/) [outlet](/en/post/outlet/))
-- Socket ([for](/en/post/for/) [electrical](/en/post/electrical/) [outlet](/en/post/outlet/))
-- Drainage ([for](/en/post/for/) [liquid](/en/post/liquid/) [flow](/en/post/flow/) [outlet](/en/post/outlet/))
+- Vent ([for](/post/for/) [emotional](/post/emotional/) [outlet](/post/outlet/))
+- Retail [shop](/post/shop/)
+- [Store](/post/store/) ([for](/post/for/) [commercial](/post/commercial/) [outlet](/post/outlet/))
+- Socket ([for](/post/for/) [electrical](/post/electrical/) [outlet](/post/outlet/))
+- Drainage ([for](/post/for/) [liquid](/post/liquid/) [flow](/post/flow/) [outlet](/post/outlet/))

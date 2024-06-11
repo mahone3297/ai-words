@@ -7,33 +7,33 @@ description = '[ˈpəuim] n.诗，韵文，诗体文'
 keywords = ['ai words', 'poem']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəʊm/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [poem](/en/post/poem/) is [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [literature](/en/post/literature/) [that](/en/post/that/) uses aesthetic [and](/en/post/and/) rhythmic qualities [of](/en/post/of/) [language](/en/post/language/) [to](/en/post/to/) evoke meanings [in](/en/post/in/) [addition](/en/post/addition/) [to](/en/post/to/), [or](/en/post/or/) [in](/en/post/in/) [place](/en/post/place/) [of](/en/post/of/), [the](/en/post/the/) prosaic ostensible [meaning](/en/post/meaning/). [It](/en/post/it/) [may](/en/post/may/) [use](/en/post/use/) [various](/en/post/various/) verse structures [and](/en/post/and/) techniques [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [beauty](/en/post/beauty/), [music](/en/post/music/), [or](/en/post/or/) [emotional](/en/post/emotional/) [depth](/en/post/depth/).
+### [Noun](/post/noun/)
+[A](/post/a/) [poem](/post/poem/) is [a](/post/a/) [form](/post/form/) [of](/post/of/) [literature](/post/literature/) [that](/post/that/) uses aesthetic [and](/post/and/) rhythmic qualities [of](/post/of/) [language](/post/language/) [to](/post/to/) evoke meanings [in](/post/in/) [addition](/post/addition/) [to](/post/to/), [or](/post/or/) [in](/post/in/) [place](/post/place/) [of](/post/of/), [the](/post/the/) prosaic ostensible [meaning](/post/meaning/). [It](/post/it/) [may](/post/may/) [use](/post/use/) [various](/post/various/) verse structures [and](/post/and/) techniques [to](/post/to/) [create](/post/create/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [beauty](/post/beauty/), [music](/post/music/), [or](/post/or/) [emotional](/post/emotional/) [depth](/post/depth/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [compose](/en/post/compose/) [or](/en/post/or/) [write](/en/post/write/) [a](/en/post/a/) [poem](/en/post/poem/), [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [creative](/en/post/creative/) [expression](/en/post/expression/) [or](/en/post/or/) [artistic](/en/post/artistic/) endeavor.
+### [Verb](/post/verb/)
+[To](/post/to/) [compose](/post/compose/) [or](/post/or/) [write](/post/write/) [a](/post/a/) [poem](/post/poem/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [creative](/post/creative/) [expression](/post/expression/) [or](/post/or/) [artistic](/post/artistic/) endeavor.
 
-### [Adjective](/en/post/adjective/)
-Poetic, referring [to](/en/post/to/) [something](/en/post/something/) having qualities [or](/en/post/or/) characteristics [of](/en/post/of/) [poetry](/en/post/poetry/), [such](/en/post/such/) [as](/en/post/as/) imagery, metaphor, [or](/en/post/or/) [rhythm](/en/post/rhythm/).
+### [Adjective](/post/adjective/)
+Poetic, referring [to](/post/to/) [something](/post/something/) having qualities [or](/post/or/) characteristics [of](/post/of/) [poetry](/post/poetry/), [such](/post/such/) [as](/post/as/) imagery, metaphor, [or](/post/or/) [rhythm](/post/rhythm/).
 
 ## Phrases
-- "[Compose](/en/post/compose/) [a](/en/post/a/) [poem](/en/post/poem/)"
-- "[Read](/en/post/read/) [a](/en/post/a/) [poem](/en/post/poem/) [aloud](/en/post/aloud/)"
-- "[Appreciate](/en/post/appreciate/) [the](/en/post/the/) poem's themes"
-- "[A](/en/post/a/) sonnet is [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [poem](/en/post/poem/)"
+- "[Compose](/post/compose/) [a](/post/a/) [poem](/post/poem/)"
+- "[Read](/post/read/) [a](/post/a/) [poem](/post/poem/) [aloud](/post/aloud/)"
+- "[Appreciate](/post/appreciate/) [the](/post/the/) poem's themes"
+- "[A](/post/a/) sonnet is [a](/post/a/) [type](/post/type/) [of](/post/of/) [poem](/post/poem/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) spent hours [reading](/en/post/reading/) [her](/en/post/her/) favorite [poem](/en/post/poem/) [before](/en/post/before/) going [to](/en/post/to/) [bed](/en/post/bed/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [poet](/en/post/poet/) was inspired [by](/en/post/by/) [the](/en/post/the/) [sunset](/en/post/sunset/) [to](/en/post/to/) [pen](/en/post/pen/) [a](/en/post/a/) [new](/en/post/new/) [poem](/en/post/poem/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) poetic [description](/en/post/description/) [of](/en/post/of/) [nature](/en/post/nature/) [in](/en/post/in/) [the](/en/post/the/) [book](/en/post/book/) was breathtaking."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) spent hours [reading](/post/reading/) [her](/post/her/) favorite [poem](/post/poem/) [before](/post/before/) going [to](/post/to/) [bed](/post/bed/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [poet](/post/poet/) was inspired [by](/post/by/) [the](/post/the/) [sunset](/post/sunset/) [to](/post/to/) [pen](/post/pen/) [a](/post/a/) [new](/post/new/) [poem](/post/poem/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) poetic [description](/post/description/) [of](/post/of/) [nature](/post/nature/) [in](/post/in/) [the](/post/the/) [book](/post/book/) was breathtaking."
 
 ## Synonyms
 - Poetical
-- [Literary](/en/post/literary/)
+- [Literary](/post/literary/)
 - Versatile
 - Evocative
 - Metaphorical
@@ -42,5 +42,5 @@ Poetic, referring [to](/en/post/to/) [something](/en/post/something/) having qua
 - Prosaic
 - Literal
 - Unimaginative
-- [Flat](/en/post/flat/)
+- [Flat](/post/flat/)
 - Mundane

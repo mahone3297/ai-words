@@ -11,21 +11,21 @@ keywords = ['ai words', 'poisonous']
 /pəˈzənəs/
 
 ## 释义
-- **形容词**: 有毒的，含有毒的，能引起伤害或死亡的。例如: "[The](/post/the/) [plant](/post/plant/) is [highly](/post/highly/) [poisonous](/post/poisonous/) [and](/post/and/) [should](/post/should/) [be](/post/be/) handled [with](/post/with/) [care](/post/care/)."
-- **名词**: 毒素，毒物。例如: "[The](/post/the/) antidote was administered [to](/post/to/) counteract [the](/post/the/) effects [of](/post/of/) [the](/post/the/) [poisonous](/post/poisonous/) [substance](/post/substance/)."
+- **形容词**: 有毒的，含有毒的，能引起伤害或死亡的。例如: "[The](/zh/post/the/) [plant](/zh/post/plant/) is [highly](/zh/post/highly/) [poisonous](/zh/post/poisonous/) [and](/zh/post/and/) [should](/zh/post/should/) [be](/zh/post/be/) handled [with](/zh/post/with/) [care](/zh/post/care/)."
+- **名词**: 毒素，毒物。例如: "[The](/zh/post/the/) antidote was administered [to](/zh/post/to/) counteract [the](/zh/post/the/) effects [of](/zh/post/of/) [the](/zh/post/the/) [poisonous](/zh/post/poisonous/) [substance](/zh/post/substance/)."
 
 ## 短语
-- "[Poisonous](/post/poisonous/) [gas](/post/gas/)" 指有毒气体。
-- "[Poisonous](/post/poisonous/) [snake](/post/snake/)" 指毒蛇。
-- "[Poisonous](/post/poisonous/) mushrooms" 指有毒蘑菇。
+- "[Poisonous](/zh/post/poisonous/) [gas](/zh/post/gas/)" 指有毒气体。
+- "[Poisonous](/zh/post/poisonous/) [snake](/zh/post/snake/)" 指毒蛇。
+- "[Poisonous](/zh/post/poisonous/) mushrooms" 指有毒蘑菇。
 
 ## 例句
-- 形容词: "Don't [touch](/post/touch/) [those](/post/those/) berries; they're [poisonous](/post/poisonous/) [and](/post/and/) [can](/post/can/) [make](/post/make/) [you](/post/you/) [very](/post/very/) [sick](/post/sick/)."
-- 名词: "[The](/post/the/) [doctor](/post/doctor/) warned [us](/post/us/) [about](/post/about/) [the](/post/the/) [potential](/post/potential/) dangers [of](/post/of/) [exposure](/post/exposure/) [to](/post/to/) [this](/post/this/) [poisonous](/post/poisonous/) [chemical](/post/chemical/)."
+- 形容词: "Don't [touch](/zh/post/touch/) [those](/zh/post/those/) berries; they're [poisonous](/zh/post/poisonous/) [and](/zh/post/and/) [can](/zh/post/can/) [make](/zh/post/make/) [you](/zh/post/you/) [very](/zh/post/very/) [sick](/zh/post/sick/)."
+- 名词: "[The](/zh/post/the/) [doctor](/zh/post/doctor/) warned [us](/zh/post/us/) [about](/zh/post/about/) [the](/zh/post/the/) [potential](/zh/post/potential/) dangers [of](/zh/post/of/) [exposure](/zh/post/exposure/) [to](/zh/post/to/) [this](/zh/post/this/) [poisonous](/zh/post/poisonous/) [chemical](/zh/post/chemical/)."
 
 ## 同义词
 - Toxic
 - Noxious
-- [Harmful](/post/harmful/)
-- [Deadly](/post/deadly/)
+- [Harmful](/zh/post/harmful/)
+- [Deadly](/zh/post/deadly/)
 - Bane

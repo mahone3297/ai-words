@@ -7,28 +7,28 @@ description = '[blæk] a.黑色的；黑暗的'
 keywords = ['ai words', 'black']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /blæk/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Having [the](/en/post/the/) [color](/en/post/color/) of煤, charcoal, [or](/en/post/or/) [jet](/en/post/jet/); [dark](/en/post/dark/) [in](/en/post/in/) [color](/en/post/color/), typically [without](/en/post/without/) variations [or](/en/post/or/) patches [of](/en/post/of/) [other](/en/post/other/) colors. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sky](/en/post/sky/) was [a](/en/post/a/) [deep](/en/post/deep/) [black](/en/post/black/) [during](/en/post/during/) [the](/en/post/the/) [storm](/en/post/storm/)."
-   - **[Noun](/en/post/noun/)**: 1. ([often](/en/post/often/) capitalized) [The](/en/post/the/) [color](/en/post/color/) resulting [from](/en/post/from/) [the](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/) [light](/en/post/light/) [or](/en/post/or/) [complete](/en/post/complete/) absorption [of](/en/post/of/) [all](/en/post/all/) [visible](/en/post/visible/) [light](/en/post/light/) wavelengths. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [room](/en/post/room/) was painted [in](/en/post/in/) [various](/en/post/various/) shades [of](/en/post/of/) [black](/en/post/black/)."
-   - **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [black](/en/post/black/) [manner](/en/post/manner/); [completely](/en/post/completely/) [or](/en/post/or/) utterly. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) played [the](/en/post/the/) [game](/en/post/game/) [black](/en/post/black/) [and](/en/post/and/) [white](/en/post/white/), [with](/en/post/with/) [no](/en/post/no/) [room](/en/post/room/) for灰色地带."
+- **[Adjective](/post/adjective/)**: 1. Having [the](/post/the/) [color](/post/color/) of煤, charcoal, [or](/post/or/) [jet](/post/jet/); [dark](/post/dark/) [in](/post/in/) [color](/post/color/), typically [without](/post/without/) variations [or](/post/or/) patches [of](/post/of/) [other](/post/other/) colors. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [sky](/post/sky/) was [a](/post/a/) [deep](/post/deep/) [black](/post/black/) [during](/post/during/) [the](/post/the/) [storm](/post/storm/)."
+   - **[Noun](/post/noun/)**: 1. ([often](/post/often/) capitalized) [The](/post/the/) [color](/post/color/) resulting [from](/post/from/) [the](/post/the/) [absence](/post/absence/) [of](/post/of/) [light](/post/light/) [or](/post/or/) [complete](/post/complete/) absorption [of](/post/of/) [all](/post/all/) [visible](/post/visible/) [light](/post/light/) wavelengths. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [room](/post/room/) was painted [in](/post/in/) [various](/post/various/) shades [of](/post/of/) [black](/post/black/)."
+   - **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [black](/post/black/) [manner](/post/manner/); [completely](/post/completely/) [or](/post/or/) utterly. [For](/post/for/) [example](/post/example/): "[He](/post/he/) played [the](/post/the/) [game](/post/game/) [black](/post/black/) [and](/post/and/) [white](/post/white/), [with](/post/with/) [no](/post/no/) [room](/post/room/) for灰色地带."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [black](/en/post/black/)" refers [to](/en/post/to/) [a](/en/post/a/) [financial](/en/post/financial/) surplus.
-- "Blackout" is [a](/en/post/a/) [sudden](/en/post/sudden/) [loss](/en/post/loss/) [of](/en/post/of/) [power](/en/post/power/) [or](/en/post/or/) [vision](/en/post/vision/).
-- "Blacklist" is [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) [people](/en/post/people/) [or](/en/post/or/) things [to](/en/post/to/) [be](/en/post/be/) excluded [or](/en/post/or/) banned.
-- "[Black](/en/post/black/) [market](/en/post/market/)" is an [illegal](/en/post/illegal/) [trade](/en/post/trade/) [in](/en/post/in/) [goods](/en/post/goods/) [or](/en/post/or/) services.
-- "[Black](/en/post/black/) [sheep](/en/post/sheep/)" is [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [family](/en/post/family/) [or](/en/post/or/) [group](/en/post/group/) [who](/en/post/who/) is considered disreputable [or](/en/post/or/) deviant.
+- "[In](/post/in/) [the](/post/the/) [black](/post/black/)" refers [to](/post/to/) [a](/post/a/) [financial](/post/financial/) surplus.
+- "Blackout" is [a](/post/a/) [sudden](/post/sudden/) [loss](/post/loss/) [of](/post/of/) [power](/post/power/) [or](/post/or/) [vision](/post/vision/).
+- "Blacklist" is [a](/post/a/) [list](/post/list/) [of](/post/of/) [people](/post/people/) [or](/post/or/) things [to](/post/to/) [be](/post/be/) excluded [or](/post/or/) banned.
+- "[Black](/post/black/) [market](/post/market/)" is an [illegal](/post/illegal/) [trade](/post/trade/) [in](/post/in/) [goods](/post/goods/) [or](/post/or/) services.
+- "[Black](/post/black/) [sheep](/post/sheep/)" is [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [family](/post/family/) [or](/post/or/) [group](/post/group/) [who](/post/who/) is considered disreputable [or](/post/or/) deviant.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) starry [night](/en/post/night/) was filled [with](/en/post/with/) countless [black](/en/post/black/) dots representing [distant](/en/post/distant/) galaxies."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) museum's [permanent](/en/post/permanent/) [collection](/en/post/collection/) includes [several](/en/post/several/) iconic [black](/en/post/black/) paintings [by](/en/post/by/) [famous](/en/post/famous/) artists."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) handled [the](/en/post/the/) [situation](/en/post/situation/) [black](/en/post/black/), refusing [to](/en/post/to/) [compromise](/en/post/compromise/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) starry [night](/post/night/) was filled [with](/post/with/) countless [black](/post/black/) dots representing [distant](/post/distant/) galaxies."
+- **[Noun](/post/noun/)**: "[The](/post/the/) museum's [permanent](/post/permanent/) [collection](/post/collection/) includes [several](/post/several/) iconic [black](/post/black/) paintings [by](/post/by/) [famous](/post/famous/) artists."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) handled [the](/post/the/) [situation](/post/situation/) [black](/post/black/), refusing [to](/post/to/) [compromise](/post/compromise/)."
 
 ## Synonyms
-- [Dark](/en/post/dark/)
+- [Dark](/post/dark/)
 - Ebony
 -煤炭色的
 - Umber
@@ -38,8 +38,8 @@ keywords = ['ai words', 'black']
 - Opaque
 
 ## Antonyms
-- [White](/en/post/white/)
-- [Light](/en/post/light/)
-- [Transparent](/en/post/transparent/)
-- [Bright](/en/post/bright/)
-- [Pale](/en/post/pale/)
+- [White](/post/white/)
+- [Light](/post/light/)
+- [Transparent](/post/transparent/)
+- [Bright](/post/bright/)
+- [Pale](/post/pale/)

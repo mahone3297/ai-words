@@ -12,22 +12,22 @@ keywords = ['ai words', 'vibrate']
 
 ## 释义
 - **动词**:
-  - **振动，颤动**：物体快速来回移动或摇摆。例如: "[The](/post/the/) strings [of](/post/of/) [the](/post/the/) guitar [vibrate](/post/vibrate/) [when](/post/when/) plucked."
-  - **共鸣，共振**：与另一物体产生共鸣。例如: "[The](/post/the/) [sound](/post/sound/) made [the](/post/the/) windows [vibrate](/post/vibrate/)."
-  - **感到震动**：身体或情绪上的震动感受。例如: "I [could](/post/could/) [feel](/post/feel/) [the](/post/the/) [ground](/post/ground/) [vibrate](/post/vibrate/) [during](/post/during/) [the](/post/the/) [earthquake](/post/earthquake/)."
+  - **振动，颤动**：物体快速来回移动或摇摆。例如: "[The](/zh/post/the/) strings [of](/zh/post/of/) [the](/zh/post/the/) guitar [vibrate](/zh/post/vibrate/) [when](/zh/post/when/) plucked."
+  - **共鸣，共振**：与另一物体产生共鸣。例如: "[The](/zh/post/the/) [sound](/zh/post/sound/) made [the](/zh/post/the/) windows [vibrate](/zh/post/vibrate/)."
+  - **感到震动**：身体或情绪上的震动感受。例如: "I [could](/zh/post/could/) [feel](/zh/post/feel/) [the](/zh/post/the/) [ground](/zh/post/ground/) [vibrate](/zh/post/vibrate/) [during](/zh/post/during/) [the](/zh/post/the/) [earthquake](/zh/post/earthquake/)."
 
 ## 短语
-- "[vibrate](/post/vibrate/) [with](/post/with/) [emotion](/post/emotion/)" 表示因强烈情绪而颤抖。
-- "[vibrate](/post/vibrate/) [at](/post/at/) [a](/post/a/) [certain](/post/certain/) [frequency](/post/frequency/)" 指物体以特定频率振动。
+- "[vibrate](/zh/post/vibrate/) [with](/zh/post/with/) [emotion](/zh/post/emotion/)" 表示因强烈情绪而颤抖。
+- "[vibrate](/zh/post/vibrate/) [at](/zh/post/at/) [a](/zh/post/a/) [certain](/zh/post/certain/) [frequency](/zh/post/frequency/)" 指物体以特定频率振动。
 
 ## 例句
-- 动词: "[The](/post/the/) [phone](/post/phone/) was vibrating [on](/post/on/) [the](/post/the/) [table](/post/table/)."
-- "[When](/post/when/) [the](/post/the/) [truck](/post/truck/) passed [by](/post/by/), [the](/post/the/) [house](/post/house/) vibrated [from](/post/from/) [its](/post/its/) engine's [power](/post/power/)."
-- "[She](/post/she/) [could](/post/could/) [feel](/post/feel/) [her](/post/her/) [heart](/post/heart/) [vibrate](/post/vibrate/) [with](/post/with/) excitement."
+- 动词: "[The](/zh/post/the/) [phone](/zh/post/phone/) was vibrating [on](/zh/post/on/) [the](/zh/post/the/) [table](/zh/post/table/)."
+- "[When](/zh/post/when/) [the](/zh/post/the/) [truck](/zh/post/truck/) passed [by](/zh/post/by/), [the](/zh/post/the/) [house](/zh/post/house/) vibrated [from](/zh/post/from/) [its](/zh/post/its/) engine's [power](/zh/post/power/)."
+- "[She](/zh/post/she/) [could](/zh/post/could/) [feel](/zh/post/feel/) [her](/zh/post/her/) [heart](/zh/post/heart/) [vibrate](/zh/post/vibrate/) [with](/zh/post/with/) excitement."
 
 ## 同义词
 - oscillate
-- [tremble](/post/tremble/)
-- [shake](/post/shake/)
+- [tremble](/zh/post/tremble/)
+- [shake](/zh/post/shake/)
 - quiver
 - pulsate

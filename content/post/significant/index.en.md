@@ -7,41 +7,41 @@ description = '[sigˈnifikənt] n.有意义/重要的'
 keywords = ['ai words', 'significant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪgˈnɪfɪkənt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [significant](/en/post/significant/) [event](/en/post/event/), [thing](/en/post/thing/), [or](/en/post/or/) [person](/en/post/person/): "[The](/en/post/the/) [discovery](/en/post/discovery/) was [a](/en/post/a/) [scientific](/en/post/scientific/) breakthrough [of](/en/post/of/) [great](/en/post/great/) [significance](/en/post/significance/)."
-- [Something](/en/post/something/) [that](/en/post/that/) is [important](/en/post/important/) [or](/en/post/or/) meaningful: "[Her](/en/post/her/) [decision](/en/post/decision/) was [significant](/en/post/significant/) [for](/en/post/for/) [her](/en/post/her/) [future](/en/post/future/) [career](/en/post/career/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) [significant](/post/significant/) [event](/post/event/), [thing](/post/thing/), [or](/post/or/) [person](/post/person/): "[The](/post/the/) [discovery](/post/discovery/) was [a](/post/a/) [scientific](/post/scientific/) breakthrough [of](/post/of/) [great](/post/great/) [significance](/post/significance/)."
+- [Something](/post/something/) [that](/post/that/) is [important](/post/important/) [or](/post/or/) meaningful: "[Her](/post/her/) [decision](/post/decision/) was [significant](/post/significant/) [for](/post/for/) [her](/post/her/) [future](/post/future/) [career](/post/career/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [consider](/en/post/consider/) [or](/en/post/or/) [regard](/en/post/regard/) [as](/en/post/as/) [important](/en/post/important/): "[The](/en/post/the/) results were deemed [significant](/en/post/significant/) [by](/en/post/by/) [the](/en/post/the/) researchers."
-- [To](/en/post/to/) [have](/en/post/have/) an [impact](/en/post/impact/) [or](/en/post/or/) [consequence](/en/post/consequence/): "[His](/en/post/his/) actions had [a](/en/post/a/) [significant](/en/post/significant/) [effect](/en/post/effect/) [on](/en/post/on/) [the](/en/post/the/) [outcome](/en/post/outcome/)."
+### [Verb](/post/verb/)
+- [To](/post/to/) [consider](/post/consider/) [or](/post/or/) [regard](/post/regard/) [as](/post/as/) [important](/post/important/): "[The](/post/the/) results were deemed [significant](/post/significant/) [by](/post/by/) [the](/post/the/) researchers."
+- [To](/post/to/) [have](/post/have/) an [impact](/post/impact/) [or](/post/or/) [consequence](/post/consequence/): "[His](/post/his/) actions had [a](/post/a/) [significant](/post/significant/) [effect](/post/effect/) [on](/post/on/) [the](/post/the/) [outcome](/post/outcome/)."
 
-### [Adjective](/en/post/adjective/)
-- Having [importance](/en/post/importance/) [or](/en/post/or/) [meaning](/en/post/meaning/): "[The](/en/post/the/) book's themes were [highly](/en/post/highly/) [significant](/en/post/significant/)."
-- Marked [by](/en/post/by/) [being](/en/post/being/) noteworthy [or](/en/post/or/) [impressive](/en/post/impressive/): "[A](/en/post/a/) [significant](/en/post/significant/) [improvement](/en/post/improvement/) was made [to](/en/post/to/) [the](/en/post/the/) [design](/en/post/design/)."
+### [Adjective](/post/adjective/)
+- Having [importance](/post/importance/) [or](/post/or/) [meaning](/post/meaning/): "[The](/post/the/) book's themes were [highly](/post/highly/) [significant](/post/significant/)."
+- Marked [by](/post/by/) [being](/post/being/) noteworthy [or](/post/or/) [impressive](/post/impressive/): "[A](/post/a/) [significant](/post/significant/) [improvement](/post/improvement/) was made [to](/post/to/) [the](/post/the/) [design](/post/design/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [of](/en/post/of/) [significance](/en/post/significance/)"
-- "[Hold](/en/post/hold/) [significance](/en/post/significance/)"
-- "[A](/en/post/a/) [significant](/en/post/significant/) [factor](/en/post/factor/)"
-- "[Significant](/en/post/significant/) implications"
+- "[Be](/post/be/) [of](/post/of/) [significance](/post/significance/)"
+- "[Hold](/post/hold/) [significance](/post/significance/)"
+- "[A](/post/a/) [significant](/post/significant/) [factor](/post/factor/)"
+- "[Significant](/post/significant/) implications"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [treaty](/en/post/treaty/) marked [a](/en/post/a/) [significant](/en/post/significant/) [turning](/en/post/turning/) [point](/en/post/point/) [in](/en/post/in/) [international](/en/post/international/) relations."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [study](/en/post/study/) [found](/en/post/found/) [a](/en/post/a/) [significant](/en/post/significant/) correlation [between](/en/post/between/) [exercise](/en/post/exercise/) [and](/en/post/and/) [mental](/en/post/mental/) [health](/en/post/health/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [work](/en/post/work/) was seen [as](/en/post/as/) [a](/en/post/a/) [significant](/en/post/significant/) contribution [to](/en/post/to/) [the](/en/post/the/) [field](/en/post/field/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [treaty](/post/treaty/) marked [a](/post/a/) [significant](/post/significant/) [turning](/post/turning/) [point](/post/point/) [in](/post/in/) [international](/post/international/) relations."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [study](/post/study/) [found](/post/found/) [a](/post/a/) [significant](/post/significant/) correlation [between](/post/between/) [exercise](/post/exercise/) [and](/post/and/) [mental](/post/mental/) [health](/post/health/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [work](/post/work/) was seen [as](/post/as/) [a](/post/a/) [significant](/post/significant/) contribution [to](/post/to/) [the](/post/the/) [field](/post/field/)."
 
 ## Synonyms
 - Crucial
-- [Important](/en/post/important/)
-- [Vital](/en/post/vital/)
+- [Important](/post/important/)
+- [Vital](/post/vital/)
 - Notable
-- [Impressive](/en/post/impressive/)
+- [Impressive](/post/impressive/)
 - Weighty
-- [Relevant](/en/post/relevant/)
+- [Relevant](/post/relevant/)
 - Momentous
 - Decisive
 
@@ -49,6 +49,6 @@ keywords = ['ai words', 'significant']
 - Insignificant
 - Trivial
 - Unimportant
-- [Minor](/en/post/minor/)
+- [Minor](/post/minor/)
 - Negligible
 - Insignificant

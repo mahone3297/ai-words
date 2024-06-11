@@ -11,18 +11,18 @@ keywords = ['ai words', 'mostly']
 /məˈstli/
 
 ## 释义
-- **副词**: 主要地，大部分情况下，通常。例如: "I [work](/post/work/) [from](/post/from/) [home](/post/home/) [mostly](/post/mostly/)."
+- **副词**: 主要地，大部分情况下，通常。例如: "I [work](/zh/post/work/) [from](/zh/post/from/) [home](/zh/post/home/) [mostly](/zh/post/mostly/)."
 
 ## 短语
-- "[mostly](/post/mostly/) harmless" 意为基本上无害的，常用于幽默表达。
+- "[mostly](/zh/post/mostly/) harmless" 意为基本上无害的，常用于幽默表达。
 
 ## 例句
-- "[We](/post/we/) [spend](/post/spend/) [our](/post/our/) weekends [mostly](/post/mostly/) relaxing [and](/post/and/) catching [up](/post/up/) [on](/post/on/) TV shows."
-- "[The](/post/the/) [population](/post/population/) [of](/post/of/) [the](/post/the/) [town](/post/town/) is [mostly](/post/mostly/) composed [of](/post/of/) [young](/post/young/) professionals."
+- "[We](/zh/post/we/) [spend](/zh/post/spend/) [our](/zh/post/our/) weekends [mostly](/zh/post/mostly/) relaxing [and](/zh/post/and/) catching [up](/zh/post/up/) [on](/zh/post/on/) TV shows."
+- "[The](/zh/post/the/) [population](/zh/post/population/) [of](/zh/post/of/) [the](/zh/post/the/) [town](/zh/post/town/) is [mostly](/zh/post/mostly/) composed [of](/zh/post/of/) [young](/zh/post/young/) professionals."
 
 ## 同义词
-- [primarily](/post/primarily/)
-- [mainly](/post/mainly/)
-- [largely](/post/largely/)
+- [primarily](/zh/post/primarily/)
+- [mainly](/zh/post/mainly/)
+- [largely](/zh/post/largely/)
 - predominantly
-- [for](/post/for/) [the](/post/the/) [most](/post/most/) [part](/post/part/)
+- [for](/zh/post/for/) [the](/zh/post/the/) [most](/zh/post/most/) [part](/zh/post/part/)

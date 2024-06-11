@@ -7,31 +7,31 @@ description = '[inˈdʒɔi] vt.享受；欣赏，喜爱'
 keywords = ['ai words', 'enjoy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈdʒɔɪ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [experience](/en/post/experience/) [pleasure](/en/post/pleasure/), [satisfaction](/en/post/satisfaction/), [or](/en/post/or/) [delight](/en/post/delight/) [from](/en/post/from/) an [activity](/en/post/activity/), [event](/en/post/event/), [or](/en/post/or/) [thing](/en/post/thing/). [For](/en/post/for/) [example](/en/post/example/): "I [really](/en/post/really/) [enjoy](/en/post/enjoy/) [reading](/en/post/reading/) books [on](/en/post/on/) [a](/en/post/a/) [rainy](/en/post/rainy/) [day](/en/post/day/)."
-  - _Also [used](/en/post/used/) transitively_ : [To](/en/post/to/) [derive](/en/post/derive/) [benefit](/en/post/benefit/) [or](/en/post/or/) [pleasure](/en/post/pleasure/) [from](/en/post/from/) [something](/en/post/something/); [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [good](/en/post/good/) [time](/en/post/time/) engaging [with](/en/post/with/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [enjoy](/en/post/enjoy/) spending [their](/en/post/their/) weekends hiking [in](/en/post/in/) [the](/en/post/the/) mountains."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [feeling](/en/post/feeling/) [of](/en/post/of/) taking [pleasure](/en/post/pleasure/) [in](/en/post/in/) [something](/en/post/something/) [or](/en/post/or/) [finding](/en/post/finding/) [it](/en/post/it/) satisfying. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) enjoyment [of](/en/post/of/) [a](/en/post/a/) [good](/en/post/good/) [meal](/en/post/meal/) [can](/en/post/can/) [be](/en/post/be/) [quite](/en/post/quite/) profound."
+- **[Verb](/post/verb/)**: [To](/post/to/) [experience](/post/experience/) [pleasure](/post/pleasure/), [satisfaction](/post/satisfaction/), [or](/post/or/) [delight](/post/delight/) [from](/post/from/) an [activity](/post/activity/), [event](/post/event/), [or](/post/or/) [thing](/post/thing/). [For](/post/for/) [example](/post/example/): "I [really](/post/really/) [enjoy](/post/enjoy/) [reading](/post/reading/) books [on](/post/on/) [a](/post/a/) [rainy](/post/rainy/) [day](/post/day/)."
+  - _Also [used](/post/used/) transitively_ : [To](/post/to/) [derive](/post/derive/) [benefit](/post/benefit/) [or](/post/or/) [pleasure](/post/pleasure/) [from](/post/from/) [something](/post/something/); [to](/post/to/) [have](/post/have/) [a](/post/a/) [good](/post/good/) [time](/post/time/) engaging [with](/post/with/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) [enjoy](/post/enjoy/) spending [their](/post/their/) weekends hiking [in](/post/in/) [the](/post/the/) mountains."
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [or](/post/or/) [feeling](/post/feeling/) [of](/post/of/) taking [pleasure](/post/pleasure/) [in](/post/in/) [something](/post/something/) [or](/post/or/) [finding](/post/finding/) [it](/post/it/) satisfying. [For](/post/for/) [example](/post/example/): "[The](/post/the/) enjoyment [of](/post/of/) [a](/post/a/) [good](/post/good/) [meal](/post/meal/) [can](/post/can/) [be](/post/be/) [quite](/post/quite/) profound."
 
 ## Phrases
-- "[Enjoy](/en/post/enjoy/) [oneself](/en/post/oneself/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [good](/en/post/good/) [time](/en/post/time/) [or](/en/post/or/) [find](/en/post/find/) [pleasure](/en/post/pleasure/) [in](/en/post/in/) an [activity](/en/post/activity/) [or](/en/post/or/) [event](/en/post/event/). [For](/en/post/for/) [instance](/en/post/instance/): "We're going [to](/en/post/to/) [the](/en/post/the/) [beach](/en/post/beach/) [to](/en/post/to/) [enjoy](/en/post/enjoy/) [ourselves](/en/post/ourselves/)."
-- "[Enjoy](/en/post/enjoy/) [something](/en/post/something/) [to](/en/post/to/) [the](/en/post/the/) fullest" implies making [the](/en/post/the/) [most](/en/post/most/) [out](/en/post/out/) [of](/en/post/of/) an [experience](/en/post/experience/) [or](/en/post/or/) deriving [maximum](/en/post/maximum/) [pleasure](/en/post/pleasure/) [from](/en/post/from/) [it](/en/post/it/). [Example](/en/post/example/): "[She](/en/post/she/) enjoys [her](/en/post/her/) vacations [to](/en/post/to/) [the](/en/post/the/) fullest, exploring [every](/en/post/every/) [corner](/en/post/corner/) [of](/en/post/of/) [the](/en/post/the/) [place](/en/post/place/) [she](/en/post/she/) visits."
+- "[Enjoy](/post/enjoy/) [oneself](/post/oneself/)" [means](/post/means/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [good](/post/good/) [time](/post/time/) [or](/post/or/) [find](/post/find/) [pleasure](/post/pleasure/) [in](/post/in/) an [activity](/post/activity/) [or](/post/or/) [event](/post/event/). [For](/post/for/) [instance](/post/instance/): "We're going [to](/post/to/) [the](/post/the/) [beach](/post/beach/) [to](/post/to/) [enjoy](/post/enjoy/) [ourselves](/post/ourselves/)."
+- "[Enjoy](/post/enjoy/) [something](/post/something/) [to](/post/to/) [the](/post/the/) fullest" implies making [the](/post/the/) [most](/post/most/) [out](/post/out/) [of](/post/of/) an [experience](/post/experience/) [or](/post/or/) deriving [maximum](/post/maximum/) [pleasure](/post/pleasure/) [from](/post/from/) [it](/post/it/). [Example](/post/example/): "[She](/post/she/) enjoys [her](/post/her/) vacations [to](/post/to/) [the](/post/the/) fullest, exploring [every](/post/every/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [place](/post/place/) [she](/post/she/) visits."
   
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) enjoys playing [chess](/en/post/chess/) [with](/en/post/with/) [his](/en/post/his/) friends [every](/en/post/every/) [evening](/en/post/evening/)."
-- "[She](/en/post/she/) enjoyed [the](/en/post/the/) [concert](/en/post/concert/) [so](/en/post/so/) [much](/en/post/much/) [that](/en/post/that/) [she](/en/post/she/) bought tickets [for](/en/post/for/) [the](/en/post/the/) [next](/en/post/next/) [show](/en/post/show/) [too](/en/post/too/)."
-- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) shared [love](/en/post/love/) [of](/en/post/of/) [music](/en/post/music/) has been [a](/en/post/a/) [source](/en/post/source/) [of](/en/post/of/) [great](/en/post/great/) enjoyment [for](/en/post/for/) [both](/en/post/both/) [of](/en/post/of/) [them](/en/post/them/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[He](/post/he/) enjoys playing [chess](/post/chess/) [with](/post/with/) [his](/post/his/) friends [every](/post/every/) [evening](/post/evening/)."
+- "[She](/post/she/) enjoyed [the](/post/the/) [concert](/post/concert/) [so](/post/so/) [much](/post/much/) [that](/post/that/) [she](/post/she/) bought tickets [for](/post/for/) [the](/post/the/) [next](/post/next/) [show](/post/show/) [too](/post/too/)."
+- **[Noun](/post/noun/)**: "[Their](/post/their/) shared [love](/post/love/) [of](/post/of/) [music](/post/music/) has been [a](/post/a/) [source](/post/source/) [of](/post/of/) [great](/post/great/) enjoyment [for](/post/for/) [both](/post/both/) [of](/post/of/) [them](/post/them/)."
 
 ## Synonyms
-- [Delight](/en/post/delight/) [in](/en/post/in/)
-- [Take](/en/post/take/) [pleasure](/en/post/pleasure/) [in](/en/post/in/)
+- [Delight](/post/delight/) [in](/post/in/)
+- [Take](/post/take/) [pleasure](/post/pleasure/) [in](/post/in/)
 - Savor
-- Revel [in](/en/post/in/)
-- [Thrill](/en/post/thrill/) [at](/en/post/at/)
-- [Appreciate](/en/post/appreciate/)
-- [Have](/en/post/have/) [fun](/en/post/fun/) ([with](/en/post/with/))
-- [Find](/en/post/find/) enjoyable
+- Revel [in](/post/in/)
+- [Thrill](/post/thrill/) [at](/post/at/)
+- [Appreciate](/post/appreciate/)
+- [Have](/post/have/) [fun](/post/fun/) ([with](/post/with/))
+- [Find](/post/find/) enjoyable
 
-[As](/en/post/as/) [a](/en/post/a/) [note](/en/post/note/), "[enjoy](/en/post/enjoy/)" does [not](/en/post/not/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [way](/en/post/way/) "[hello](/en/post/hello/)" functions [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [in](/en/post/in/) [your](/en/post/your/) [example](/en/post/example/). [However](/en/post/however/), "enjoyment" is [the](/en/post/the/) [noun](/en/post/noun/) [form](/en/post/form/) derived [from](/en/post/from/) "[enjoy](/en/post/enjoy/)," [which](/en/post/which/) conveys [the](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) experiencing [pleasure](/en/post/pleasure/) [or](/en/post/or/) [satisfaction](/en/post/satisfaction/).
+[As](/post/as/) [a](/post/a/) [note](/post/note/), "[enjoy](/post/enjoy/)" does [not](/post/not/) [function](/post/function/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [in](/post/in/) [the](/post/the/) [same](/post/same/) [way](/post/way/) "[hello](/post/hello/)" functions [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [in](/post/in/) [your](/post/your/) [example](/post/example/). [However](/post/however/), "enjoyment" is [the](/post/the/) [noun](/post/noun/) [form](/post/form/) derived [from](/post/from/) "[enjoy](/post/enjoy/)," [which](/post/which/) conveys [the](/post/the/) [concept](/post/concept/) [of](/post/of/) experiencing [pleasure](/post/pleasure/) [or](/post/or/) [satisfaction](/post/satisfaction/).

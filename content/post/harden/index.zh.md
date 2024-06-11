@@ -11,20 +11,20 @@ keywords = ['ai words', 'harden']
 /hɑːrdən/
 
 ## 释义
-- **动词**: 变硬；变坚固。例如: "[The](/post/the/) [metal](/post/metal/) [will](/post/will/) [harden](/post/harden/) [when](/post/when/) [it](/post/it/) cools [down](/post/down/)."
-- **动词**: （使）变得坚定；（使）变坚强。例如: "[The](/post/the/) [experience](/post/experience/) hardened [her](/post/her/) [resolve](/post/resolve/)."
+- **动词**: 变硬；变坚固。例如: "[The](/zh/post/the/) [metal](/zh/post/metal/) [will](/zh/post/will/) [harden](/zh/post/harden/) [when](/zh/post/when/) [it](/zh/post/it/) cools [down](/zh/post/down/)."
+- **动词**: （使）变得坚定；（使）变坚强。例如: "[The](/zh/post/the/) [experience](/zh/post/experience/) hardened [her](/zh/post/her/) [resolve](/zh/post/resolve/)."
 
 ## 短语
-- "[harden](/post/harden/) [up](/post/up/)" 意味着变得更强壮或更有抵抗力。
-- "[to](/post/to/) [harden](/post/harden/) one's [heart](/post/heart/)" 意味着变得冷酷无情或不为所动。
+- "[harden](/zh/post/harden/) [up](/zh/post/up/)" 意味着变得更强壮或更有抵抗力。
+- "[to](/zh/post/to/) [harden](/zh/post/harden/) one's [heart](/zh/post/heart/)" 意味着变得冷酷无情或不为所动。
 
 ## 例句
-- 动词: "[The](/post/the/) [clay](/post/clay/) [will](/post/will/) [harden](/post/harden/) [if](/post/if/) [you](/post/you/) [leave](/post/leave/) [it](/post/it/) [in](/post/in/) [the](/post/the/) [sun](/post/sun/)."
-- 动词: "Years [of](/post/of/) [struggle](/post/struggle/) had hardened [him](/post/him/), making [him](/post/him/) [less](/post/less/) susceptible [to](/post/to/) [emotional](/post/emotional/) [pain](/post/pain/)."
+- 动词: "[The](/zh/post/the/) [clay](/zh/post/clay/) [will](/zh/post/will/) [harden](/zh/post/harden/) [if](/zh/post/if/) [you](/zh/post/you/) [leave](/zh/post/leave/) [it](/zh/post/it/) [in](/zh/post/in/) [the](/zh/post/the/) [sun](/zh/post/sun/)."
+- 动词: "Years [of](/zh/post/of/) [struggle](/zh/post/struggle/) had hardened [him](/zh/post/him/), making [him](/zh/post/him/) [less](/zh/post/less/) susceptible [to](/zh/post/to/) [emotional](/zh/post/emotional/) [pain](/zh/post/pain/)."
 
 ## 同义词
 - toughen
-- [strengthen](/post/strengthen/)
+- [strengthen](/zh/post/strengthen/)
 - fortify
 - solidify
-- [become](/post/become/) [more](/post/more/) resilient
+- [become](/zh/post/become/) [more](/zh/post/more/) resilient

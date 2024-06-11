@@ -11,20 +11,20 @@ keywords = ['ai words', 'without']
 /wɪðˈaʊt/
 
 ## 释义
-- **介词**: 表示没有、不带有、除掉。例如: "I can't [go](/post/go/) [out](/post/out/) [without](/post/without/) [my](/post/my/) keys." (我不能没带钥匙就出去。)
-- **副词**: 表示不必要地、无须地。例如: "[The](/post/the/) [task](/post/task/) [can](/post/can/) [be](/post/be/) done [without](/post/without/) [difficulty](/post/difficulty/)." (这个任务可以毫无困难地完成。)
+- **介词**: 表示没有、不带有、除掉。例如: "I can't [go](/zh/post/go/) [out](/zh/post/out/) [without](/zh/post/without/) [my](/zh/post/my/) keys." (我不能没带钥匙就出去。)
+- **副词**: 表示不必要地、无须地。例如: "[The](/zh/post/the/) [task](/zh/post/task/) [can](/zh/post/can/) [be](/zh/post/be/) done [without](/zh/post/without/) [difficulty](/zh/post/difficulty/)." (这个任务可以毫无困难地完成。)
 
 ## 短语
-- "[without](/post/without/) [fail](/post/fail/)" 必须、一定要。例如: "[Please](/post/please/) [return](/post/return/) [the](/post/the/) [book](/post/book/) [without](/post/without/) [fail](/post/fail/) [by](/post/by/) Friday."
-- "[not](/post/not/) [without](/post/without/) [reason](/post/reason/)" 并非没有理由。例如: "[Her](/post/her/) [anger](/post/anger/) is [not](/post/not/) [without](/post/without/) [reason](/post/reason/)."
+- "[without](/zh/post/without/) [fail](/zh/post/fail/)" 必须、一定要。例如: "[Please](/zh/post/please/) [return](/zh/post/return/) [the](/zh/post/the/) [book](/zh/post/book/) [without](/zh/post/without/) [fail](/zh/post/fail/) [by](/zh/post/by/) Friday."
+- "[not](/zh/post/not/) [without](/zh/post/without/) [reason](/zh/post/reason/)" 并非没有理由。例如: "[Her](/zh/post/her/) [anger](/zh/post/anger/) is [not](/zh/post/not/) [without](/zh/post/without/) [reason](/zh/post/reason/)."
 
 ## 例句
-- 介词: "[She](/post/she/) couldn't [complete](/post/complete/) [the](/post/the/) [project](/post/project/) [without](/post/without/) [his](/post/his/) [help](/post/help/)." (她没有他的帮助无法完成这个项目。)
-- 副词: "[He](/post/he/) finished [the](/post/the/) [work](/post/work/) [without](/post/without/) complaining." (他一声不吭地完成了工作。)
+- 介词: "[She](/zh/post/she/) couldn't [complete](/zh/post/complete/) [the](/zh/post/the/) [project](/zh/post/project/) [without](/zh/post/without/) [his](/zh/post/his/) [help](/zh/post/help/)." (她没有他的帮助无法完成这个项目。)
+- 副词: "[He](/zh/post/he/) finished [the](/zh/post/the/) [work](/zh/post/work/) [without](/zh/post/without/) complaining." (他一声不吭地完成了工作。)
 
 ## 同义词
-- devoid [of](/post/of/)
+- devoid [of](/zh/post/of/)
 - lacking
-- [minus](/post/minus/)
-- [in](/post/in/) [the](/post/the/) [absence](/post/absence/) [of](/post/of/)
+- [minus](/zh/post/minus/)
+- [in](/zh/post/in/) [the](/zh/post/the/) [absence](/zh/post/absence/) [of](/zh/post/of/)
 - sans

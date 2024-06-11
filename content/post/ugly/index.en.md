@@ -7,21 +7,21 @@ description = '[ˈʌgli] a.丑陋的；可怕的'
 keywords = ['ai words', 'ugly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʌɡli/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Having an unpleasing [or](/en/post/or/) unattractive [appearance](/en/post/appearance/); [not](/en/post/not/) visually appealing. 2. Characterized [by](/en/post/by/) unkindness, cruelty, [or](/en/post/or/) meanness. 3. (informal) [Unpleasant](/en/post/unpleasant/) [or](/en/post/or/) disagreeable [in](/en/post/in/) temperament [or](/en/post/or/) [behavior](/en/post/behavior/).
+- **[Adjective](/post/adjective/)**: 1. Having an unpleasing [or](/post/or/) unattractive [appearance](/post/appearance/); [not](/post/not/) visually appealing. 2. Characterized [by](/post/by/) unkindness, cruelty, [or](/post/or/) meanness. 3. (informal) [Unpleasant](/post/unpleasant/) [or](/post/or/) disagreeable [in](/post/in/) temperament [or](/post/or/) [behavior](/post/behavior/).
 
 ## Phrases
-- "[She](/en/post/she/) has an [ugly](/en/post/ugly/) [dress](/en/post/dress/)."
-- "[The](/en/post/the/) [weather](/en/post/weather/) [outside](/en/post/outside/) is [ugly](/en/post/ugly/)."
-- "An [ugly](/en/post/ugly/) [truth](/en/post/truth/) was revealed [during](/en/post/during/) [the](/en/post/the/) [investigation](/en/post/investigation/)."
+- "[She](/post/she/) has an [ugly](/post/ugly/) [dress](/post/dress/)."
+- "[The](/post/the/) [weather](/post/weather/) [outside](/post/outside/) is [ugly](/post/ugly/)."
+- "An [ugly](/post/ugly/) [truth](/post/truth/) was revealed [during](/post/during/) [the](/post/the/) [investigation](/post/investigation/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) sculpture was considered an [ugly](/en/post/ugly/) [piece](/en/post/piece/) [of](/en/post/of/) [art](/en/post/art/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [behavior](/en/post/behavior/) was [so](/en/post/so/) [ugly](/en/post/ugly/) [that](/en/post/that/) [it](/en/post/it/) shocked [everyone](/en/post/everyone/)."
-- "[She](/en/post/she/) tried [to](/en/post/to/) [hide](/en/post/hide/) [her](/en/post/her/) [ugly](/en/post/ugly/) scars [from](/en/post/from/) [her](/en/post/her/) friends."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) sculpture was considered an [ugly](/post/ugly/) [piece](/post/piece/) [of](/post/of/) [art](/post/art/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [behavior](/post/behavior/) was [so](/post/so/) [ugly](/post/ugly/) [that](/post/that/) [it](/post/it/) shocked [everyone](/post/everyone/)."
+- "[She](/post/she/) tried [to](/post/to/) [hide](/post/hide/) [her](/post/her/) [ugly](/post/ugly/) scars [from](/post/from/) [her](/post/her/) friends."
 
 ## Synonyms
 - Unattractive
@@ -31,13 +31,13 @@ keywords = ['ai words', 'ugly']
 - Uncomely
 
 ## Antonyms
-- [Beautiful](/en/post/beautiful/)
-- [Handsome](/en/post/handsome/)
-- [Pretty](/en/post/pretty/)
+- [Beautiful](/post/beautiful/)
+- [Handsome](/post/handsome/)
+- [Pretty](/post/pretty/)
 - Appealing
 - Elegant
 
-## [Usage](/en/post/usage/)
-- "[The](/en/post/the/) [ugly](/en/post/ugly/) duckling [found](/en/post/found/) [its](/en/post/its/) [true](/en/post/true/) [beauty](/en/post/beauty/) [after](/en/post/after/) growing [up](/en/post/up/)."
-- "[Despite](/en/post/despite/) [its](/en/post/its/) [ugly](/en/post/ugly/) [exterior](/en/post/exterior/), [the](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) held [many](/en/post/many/) cherished memories."
-- "[Her](/en/post/her/) [ugly](/en/post/ugly/) words caused [a](/en/post/a/) rift [in](/en/post/in/) [their](/en/post/their/) [friendship](/en/post/friendship/)."
+## [Usage](/post/usage/)
+- "[The](/post/the/) [ugly](/post/ugly/) duckling [found](/post/found/) [its](/post/its/) [true](/post/true/) [beauty](/post/beauty/) [after](/post/after/) growing [up](/post/up/)."
+- "[Despite](/post/despite/) [its](/post/its/) [ugly](/post/ugly/) [exterior](/post/exterior/), [the](/post/the/) [old](/post/old/) [house](/post/house/) held [many](/post/many/) cherished memories."
+- "[Her](/post/her/) [ugly](/post/ugly/) words caused [a](/post/a/) rift [in](/post/in/) [their](/post/their/) [friendship](/post/friendship/)."

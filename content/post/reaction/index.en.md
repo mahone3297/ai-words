@@ -7,42 +7,42 @@ description = '[ri(ː)ˈæk∫ən] n.反应；反作用'
 keywords = ['ai words', 'reaction']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈækʃən/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [chemical](/en/post/chemical/) [process](/en/post/process/) resulting [from](/en/post/from/) [a](/en/post/a/) [combination](/en/post/combination/) [of](/en/post/of/) substances, [often](/en/post/often/) involving [a](/en/post/a/) [change](/en/post/change/) [in](/en/post/in/) [color](/en/post/color/), [temperature](/en/post/temperature/), [or](/en/post/or/) [the](/en/post/the/) [formation](/en/post/formation/) [of](/en/post/of/) [a](/en/post/a/) [new](/en/post/new/) [substance](/en/post/substance/).** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [reaction](/en/post/reaction/) [between](/en/post/between/) [vinegar](/en/post/vinegar/) [and](/en/post/and/) baking [soda](/en/post/soda/) produced [a](/en/post/a/) fizzy [gas](/en/post/gas/)."
-2. **[A](/en/post/a/) [response](/en/post/response/) [or](/en/post/or/) [behavior](/en/post/behavior/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/) [or](/en/post/or/) stimulus.** [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [reaction](/en/post/reaction/) [to](/en/post/to/) [the](/en/post/the/) [news](/en/post/news/) was [unexpected](/en/post/unexpected/)."
-3. **An [emotional](/en/post/emotional/) [response](/en/post/response/) [or](/en/post/or/) [feeling](/en/post/feeling/).** [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) had [a](/en/post/a/) [strong](/en/post/strong/) [emotional](/en/post/emotional/) [reaction](/en/post/reaction/) [to](/en/post/to/) [the](/en/post/the/) [movie](/en/post/movie/)."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [chemical](/post/chemical/) [process](/post/process/) resulting [from](/post/from/) [a](/post/a/) [combination](/post/combination/) [of](/post/of/) substances, [often](/post/often/) involving [a](/post/a/) [change](/post/change/) [in](/post/in/) [color](/post/color/), [temperature](/post/temperature/), [or](/post/or/) [the](/post/the/) [formation](/post/formation/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [substance](/post/substance/).** [For](/post/for/) [example](/post/example/): "[The](/post/the/) [reaction](/post/reaction/) [between](/post/between/) [vinegar](/post/vinegar/) [and](/post/and/) baking [soda](/post/soda/) produced [a](/post/a/) fizzy [gas](/post/gas/)."
+2. **[A](/post/a/) [response](/post/response/) [or](/post/or/) [behavior](/post/behavior/) [to](/post/to/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/) [or](/post/or/) stimulus.** [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [reaction](/post/reaction/) [to](/post/to/) [the](/post/the/) [news](/post/news/) was [unexpected](/post/unexpected/)."
+3. **An [emotional](/post/emotional/) [response](/post/response/) [or](/post/or/) [feeling](/post/feeling/).** [For](/post/for/) [example](/post/example/): "[He](/post/he/) had [a](/post/a/) [strong](/post/strong/) [emotional](/post/emotional/) [reaction](/post/reaction/) [to](/post/to/) [the](/post/the/) [movie](/post/movie/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [undergo](/en/post/undergo/) [a](/en/post/a/) [chemical](/en/post/chemical/) [reaction](/en/post/reaction/).** [For](/en/post/for/) [example](/en/post/example/): "[Iron](/en/post/iron/) reacts [with](/en/post/with/) oxygen [to](/en/post/to/) [form](/en/post/form/) [rust](/en/post/rust/)."
-2. **[To](/en/post/to/) [respond](/en/post/respond/) [or](/en/post/or/) [act](/en/post/act/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [way](/en/post/way/).** [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [reaction](/en/post/reaction/) [to](/en/post/to/) [the](/en/post/the/) [challenge](/en/post/challenge/) was [immediate](/en/post/immediate/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [undergo](/post/undergo/) [a](/post/a/) [chemical](/post/chemical/) [reaction](/post/reaction/).** [For](/post/for/) [example](/post/example/): "[Iron](/post/iron/) reacts [with](/post/with/) oxygen [to](/post/to/) [form](/post/form/) [rust](/post/rust/)."
+2. **[To](/post/to/) [respond](/post/respond/) [or](/post/or/) [act](/post/act/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [way](/post/way/).** [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [reaction](/post/reaction/) [to](/post/to/) [the](/post/the/) [challenge](/post/challenge/) was [immediate](/post/immediate/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Characterizing [or](/en/post/or/) resulting [from](/en/post/from/) [a](/en/post/a/) [reaction](/en/post/reaction/).** [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) reaction-based [paint](/en/post/paint/) changes [color](/en/post/color/) [when](/en/post/when/) exposed [to](/en/post/to/) [light](/en/post/light/)."
-2. **Showing sensitivity [or](/en/post/or/) responsiveness.** [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) reactionary [government](/en/post/government/) is [quick](/en/post/quick/) [to](/en/post/to/) [enforce](/en/post/enforce/) rules."
+### [Adjective](/post/adjective/)
+1. **Characterizing [or](/post/or/) resulting [from](/post/from/) [a](/post/a/) [reaction](/post/reaction/).** [For](/post/for/) [example](/post/example/): "[The](/post/the/) reaction-based [paint](/post/paint/) changes [color](/post/color/) [when](/post/when/) exposed [to](/post/to/) [light](/post/light/)."
+2. **Showing sensitivity [or](/post/or/) responsiveness.** [For](/post/for/) [example](/post/example/): "[A](/post/a/) reactionary [government](/post/government/) is [quick](/post/quick/) [to](/post/to/) [enforce](/post/enforce/) rules."
 
 ## Phrases
-- "[Chemical](/en/post/chemical/) [reaction](/en/post/reaction/)"
-- "[React](/en/post/react/) [to](/en/post/to/) [something](/en/post/something/)"
-- "[Reaction](/en/post/reaction/) [time](/en/post/time/)"
-- "Reactivate [a](/en/post/a/) [system](/en/post/system/)"
-- "[React](/en/post/react/) [with](/en/post/with/) [enthusiasm](/en/post/enthusiasm/)"
+- "[Chemical](/post/chemical/) [reaction](/post/reaction/)"
+- "[React](/post/react/) [to](/post/to/) [something](/post/something/)"
+- "[Reaction](/post/reaction/) [time](/post/time/)"
+- "Reactivate [a](/post/a/) [system](/post/system/)"
+- "[React](/post/react/) [with](/post/with/) [enthusiasm](/post/enthusiasm/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) chemicals [in](/en/post/in/) [the](/en/post/the/) [solution](/en/post/solution/) underwent [a](/en/post/a/) [slow](/en/post/slow/) [reaction](/en/post/reaction/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [quickly](/en/post/quickly/) reacted [to](/en/post/to/) [the](/en/post/the/) [threat](/en/post/threat/) [by](/en/post/by/) calling [the](/en/post/the/) [police](/en/post/police/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [sensitive](/en/post/sensitive/) [skin](/en/post/skin/) reacted [badly](/en/post/badly/) [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) [soap](/en/post/soap/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) chemicals [in](/post/in/) [the](/post/the/) [solution](/post/solution/) underwent [a](/post/a/) [slow](/post/slow/) [reaction](/post/reaction/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) [quickly](/post/quickly/) reacted [to](/post/to/) [the](/post/the/) [threat](/post/threat/) [by](/post/by/) calling [the](/post/the/) [police](/post/police/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [sensitive](/post/sensitive/) [skin](/post/skin/) reacted [badly](/post/badly/) [to](/post/to/) [the](/post/the/) [new](/post/new/) [soap](/post/soap/)."
 
 ## Synonyms
-- [Response](/en/post/response/)
-- [Action](/en/post/action/)
-- [Effect](/en/post/effect/)
-- [Outcome](/en/post/outcome/)
-- [Result](/en/post/result/)
-- [Influence](/en/post/influence/)
-- [Impact](/en/post/impact/)
+- [Response](/post/response/)
+- [Action](/post/action/)
+- [Effect](/post/effect/)
+- [Outcome](/post/outcome/)
+- [Result](/post/result/)
+- [Influence](/post/influence/)
+- [Impact](/post/impact/)
 - Counteraction
 - Counterresponse

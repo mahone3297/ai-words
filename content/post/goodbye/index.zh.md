@@ -11,23 +11,23 @@ keywords = ['ai words', 'goodbye']
 /ˌɡəʊˈbaɪ/
 
 ## 释义
-- **名词**: 用于告别的表达。例如: "[They](/post/they/) exchanged goodbyes [before](/post/before/) parting ways."
-- **动词**: 向某人道别。例如: "[He](/post/he/) [gently](/post/gently/) goodbyeed [his](/post/his/) friends [and](/post/and/) [left](/post/left/) [the](/post/the/) [party](/post/party/)."
-- **感叹词**: 用于非正式的告别。例如: "[Goodbye](/post/goodbye/) [now](/post/now/), [take](/post/take/) [care](/post/care/)!"
+- **名词**: 用于告别的表达。例如: "[They](/zh/post/they/) exchanged goodbyes [before](/zh/post/before/) parting ways."
+- **动词**: 向某人道别。例如: "[He](/zh/post/he/) [gently](/zh/post/gently/) goodbyeed [his](/zh/post/his/) friends [and](/zh/post/and/) [left](/zh/post/left/) [the](/zh/post/the/) [party](/zh/post/party/)."
+- **感叹词**: 用于非正式的告别。例如: "[Goodbye](/zh/post/goodbye/) [now](/zh/post/now/), [take](/zh/post/take/) [care](/zh/post/care/)!"
 
 ## 短语
-- "[Say](/post/say/) [goodbye](/post/goodbye/) [to](/post/to/) [someone](/post/someone/)" 意味着向某人告别。
-- "[Goodbye](/post/goodbye/) [for](/post/for/) [now](/post/now/)" 表示暂时的告别，期待再次见面。
-- "[So](/post/so/) [long](/post/long/), [farewell](/post/farewell/)" 是一种更正式或诗意的告别方式。
+- "[Say](/zh/post/say/) [goodbye](/zh/post/goodbye/) [to](/zh/post/to/) [someone](/zh/post/someone/)" 意味着向某人告别。
+- "[Goodbye](/zh/post/goodbye/) [for](/zh/post/for/) [now](/zh/post/now/)" 表示暂时的告别，期待再次见面。
+- "[So](/zh/post/so/) [long](/zh/post/long/), [farewell](/zh/post/farewell/)" 是一种更正式或诗意的告别方式。
 
 ## 例句
-- 名词: "[The](/post/the/) [goodbye](/post/goodbye/) [scene](/post/scene/) [in](/post/in/) [the](/post/the/) [movie](/post/movie/) was [very](/post/very/) [emotional](/post/emotional/)."
-- 动词: "[She](/post/she/) [always](/post/always/) makes [sure](/post/sure/) [to](/post/to/) [properly](/post/properly/) [goodbye](/post/goodbye/) [her](/post/her/) colleagues [before](/post/before/) leaving [work](/post/work/)."
-- 感叹词: "[Goodbye](/post/goodbye/), [my](/post/my/) [dear](/post/dear/) [friend](/post/friend/). I'll [miss](/post/miss/) [you](/post/you/)."
+- 名词: "[The](/zh/post/the/) [goodbye](/zh/post/goodbye/) [scene](/zh/post/scene/) [in](/zh/post/in/) [the](/zh/post/the/) [movie](/zh/post/movie/) was [very](/zh/post/very/) [emotional](/zh/post/emotional/)."
+- 动词: "[She](/zh/post/she/) [always](/zh/post/always/) makes [sure](/zh/post/sure/) [to](/zh/post/to/) [properly](/zh/post/properly/) [goodbye](/zh/post/goodbye/) [her](/zh/post/her/) colleagues [before](/zh/post/before/) leaving [work](/zh/post/work/)."
+- 感叹词: "[Goodbye](/zh/post/goodbye/), [my](/zh/post/my/) [dear](/zh/post/dear/) [friend](/zh/post/friend/). I'll [miss](/zh/post/miss/) [you](/zh/post/you/)."
 
 ## 同义词
-- [Farewell](/post/farewell/)
+- [Farewell](/zh/post/farewell/)
 - Bye
 - Adieu
-- [See](/post/see/) [you](/post/you/) [later](/post/later/)
+- [See](/zh/post/see/) [you](/zh/post/you/) [later](/zh/post/later/)
 - Ta-ta

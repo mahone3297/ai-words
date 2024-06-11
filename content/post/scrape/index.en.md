@@ -7,48 +7,48 @@ description = '[skreip] vt.&vi.&n.刮，擦'
 keywords = ['ai words', 'scrape']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /scræp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) scraping, removing [or](/en/post/or/) collecting [something](/en/post/something/) [with](/en/post/with/) [a](/en/post/a/) [tool](/en/post/tool/) [or](/en/post/or/) [by](/en/post/by/) rubbing.
-2. [A](/en/post/a/) [thin](/en/post/thin/) [layer](/en/post/layer/) [or](/en/post/or/) covering removed [from](/en/post/from/) [a](/en/post/a/) [surface](/en/post/surface/), [often](/en/post/often/) [by](/en/post/by/) [force](/en/post/force/).
-3. [A](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) [or](/en/post/or/) resources [left](/en/post/left/) [after](/en/post/after/) spending [or](/en/post/or/) using.
-4. [A](/en/post/a/) low-quality [performance](/en/post/performance/) [or](/en/post/or/) [effort](/en/post/effort/).
+### [Noun](/post/noun/)
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) scraping, removing [or](/post/or/) collecting [something](/post/something/) [with](/post/with/) [a](/post/a/) [tool](/post/tool/) [or](/post/or/) [by](/post/by/) rubbing.
+2. [A](/post/a/) [thin](/post/thin/) [layer](/post/layer/) [or](/post/or/) covering removed [from](/post/from/) [a](/post/a/) [surface](/post/surface/), [often](/post/often/) [by](/post/by/) [force](/post/force/).
+3. [A](/post/a/) [small](/post/small/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) [or](/post/or/) resources [left](/post/left/) [after](/post/after/) spending [or](/post/or/) using.
+4. [A](/post/a/) low-quality [performance](/post/performance/) [or](/post/or/) [effort](/post/effort/).
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [remove](/en/post/remove/) [material](/en/post/material/) [by](/en/post/by/) scraping, [especially](/en/post/especially/) [with](/en/post/with/) [a](/en/post/a/) [tool](/en/post/tool/).
-2. [To](/en/post/to/) [rub](/en/post/rub/) [roughly](/en/post/roughly/) [against](/en/post/against/) [something](/en/post/something/) [to](/en/post/to/) [remove](/en/post/remove/) [dirt](/en/post/dirt/) [or](/en/post/or/) [loosen](/en/post/loosen/) particles.
-3. [To](/en/post/to/) [gather](/en/post/gather/) [or](/en/post/or/) [obtain](/en/post/obtain/) [by](/en/post/by/) scraping.
-4. [To](/en/post/to/) [cheat](/en/post/cheat/) [or](/en/post/or/) [exploit](/en/post/exploit/) [for](/en/post/for/) [a](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) [or](/en/post/or/) [advantage](/en/post/advantage/).
+### [Verb](/post/verb/)
+1. [To](/post/to/) [remove](/post/remove/) [material](/post/material/) [by](/post/by/) scraping, [especially](/post/especially/) [with](/post/with/) [a](/post/a/) [tool](/post/tool/).
+2. [To](/post/to/) [rub](/post/rub/) [roughly](/post/roughly/) [against](/post/against/) [something](/post/something/) [to](/post/to/) [remove](/post/remove/) [dirt](/post/dirt/) [or](/post/or/) [loosen](/post/loosen/) particles.
+3. [To](/post/to/) [gather](/post/gather/) [or](/post/or/) [obtain](/post/obtain/) [by](/post/by/) scraping.
+4. [To](/post/to/) [cheat](/post/cheat/) [or](/post/or/) [exploit](/post/exploit/) [for](/post/for/) [a](/post/a/) [small](/post/small/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) [or](/post/or/) [advantage](/post/advantage/).
 
-### [Adjective](/en/post/adjective/)
-1. Made [by](/en/post/by/) scraping [or](/en/post/or/) having [a](/en/post/a/) [rough](/en/post/rough/), uneven [surface](/en/post/surface/).
-2. Obtained [by](/en/post/by/) scraping [or](/en/post/or/) minimal [effort](/en/post/effort/).
-3. Barely [sufficient](/en/post/sufficient/) [or](/en/post/or/) barely [acceptable](/en/post/acceptable/).
+### [Adjective](/post/adjective/)
+1. Made [by](/post/by/) scraping [or](/post/or/) having [a](/post/a/) [rough](/post/rough/), uneven [surface](/post/surface/).
+2. Obtained [by](/post/by/) scraping [or](/post/or/) minimal [effort](/post/effort/).
+3. Barely [sufficient](/post/sufficient/) [or](/post/or/) barely [acceptable](/post/acceptable/).
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) scraping [manner](/en/post/manner/); [roughly](/en/post/roughly/).
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) scraping [manner](/post/manner/); [roughly](/post/roughly/).
 
 ## Phrases
-- "[Scrape](/en/post/scrape/) [by](/en/post/by/)" [means](/en/post/means/) [to](/en/post/to/) barely [manage](/en/post/manage/) [or](/en/post/or/) [survive](/en/post/survive/).
-- "Scrap [metal](/en/post/metal/)" refers [to](/en/post/to/) [old](/en/post/old/), unwanted [metal](/en/post/metal/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) recycled.
-- "Scraping [paint](/en/post/paint/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) removing dried [paint](/en/post/paint/) [from](/en/post/from/) [a](/en/post/a/) [surface](/en/post/surface/).
+- "[Scrape](/post/scrape/) [by](/post/by/)" [means](/post/means/) [to](/post/to/) barely [manage](/post/manage/) [or](/post/or/) [survive](/post/survive/).
+- "Scrap [metal](/post/metal/)" refers [to](/post/to/) [old](/post/old/), unwanted [metal](/post/metal/) [that](/post/that/) [can](/post/can/) [be](/post/be/) recycled.
+- "Scraping [paint](/post/paint/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) removing dried [paint](/post/paint/) [from](/post/from/) [a](/post/a/) [surface](/post/surface/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) scraped [away](/en/post/away/) [the](/en/post/the/) [old](/en/post/old/) [paint](/en/post/paint/) [to](/en/post/to/) [reveal](/en/post/reveal/) [the](/en/post/the/) [original](/en/post/original/) [wood](/en/post/wood/) [grain](/en/post/grain/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) scraped [the](/en/post/the/) [ice](/en/post/ice/) [off](/en/post/off/) [his](/en/post/his/) windshield [before](/en/post/before/) driving [to](/en/post/to/) [work](/en/post/work/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [car](/en/post/car/) had [a](/en/post/a/) scraped bumper [from](/en/post/from/) [a](/en/post/a/) [minor](/en/post/minor/) [accident](/en/post/accident/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) was scraping [the](/en/post/the/) [floor](/en/post/floor/) [with](/en/post/with/) [her](/en/post/her/) words, trying [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [point](/en/post/point/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) scraped [away](/post/away/) [the](/post/the/) [old](/post/old/) [paint](/post/paint/) [to](/post/to/) [reveal](/post/reveal/) [the](/post/the/) [original](/post/original/) [wood](/post/wood/) [grain](/post/grain/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) scraped [the](/post/the/) [ice](/post/ice/) [off](/post/off/) [his](/post/his/) windshield [before](/post/before/) driving [to](/post/to/) [work](/post/work/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [car](/post/car/) had [a](/post/a/) scraped bumper [from](/post/from/) [a](/post/a/) [minor](/post/minor/) [accident](/post/accident/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) was scraping [the](/post/the/) [floor](/post/floor/) [with](/post/with/) [her](/post/her/) words, trying [to](/post/to/) [make](/post/make/) [a](/post/a/) [point](/post/point/)."
 
 ## Synonyms
-- [Scrape](/en/post/scrape/) [off](/en/post/off/)
+- [Scrape](/post/scrape/) [off](/post/off/)
 - Scrub
 - Grate
-- [Claw](/en/post/claw/)
+- [Claw](/post/claw/)
 - Fend
 - Scrounge
-- Barely [make](/en/post/make/) ends [meet](/en/post/meet/)
-- [Skin](/en/post/skin/) [alive](/en/post/alive/)
-- [Edge](/en/post/edge/) [out](/en/post/out/)
+- Barely [make](/post/make/) ends [meet](/post/meet/)
+- [Skin](/post/skin/) [alive](/post/alive/)
+- [Edge](/post/edge/) [out](/post/out/)

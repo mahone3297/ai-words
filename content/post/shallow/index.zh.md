@@ -11,19 +11,19 @@ keywords = ['ai words', 'shallow']
 /ˈʃæləʊ/
 
 ## 释义
-- **形容词**: 不深的；肤浅的。例如: "[The](/post/the/) [pool](/post/pool/) has [a](/post/a/) [shallow](/post/shallow/) [end](/post/end/) [for](/post/for/) children [to](/post/to/) [play](/post/play/) [in](/post/in/)."
-- **副词**: 肤浅地；不深入地。例如: "[He](/post/he/) [only](/post/only/) skims [the](/post/the/) [surface](/post/surface/), [not](/post/not/) thinking shallowly [about](/post/about/) [the](/post/the/) [issue](/post/issue/)."
+- **形容词**: 不深的；肤浅的。例如: "[The](/zh/post/the/) [pool](/zh/post/pool/) has [a](/zh/post/a/) [shallow](/zh/post/shallow/) [end](/zh/post/end/) [for](/zh/post/for/) children [to](/zh/post/to/) [play](/zh/post/play/) [in](/zh/post/in/)."
+- **副词**: 肤浅地；不深入地。例如: "[He](/zh/post/he/) [only](/zh/post/only/) skims [the](/zh/post/the/) [surface](/zh/post/surface/), [not](/zh/post/not/) thinking shallowly [about](/zh/post/about/) [the](/zh/post/the/) [issue](/zh/post/issue/)."
 
 ## 短语
-- "[shallow](/post/shallow/) thinking" 意为肤浅的思考。
-- "[a](/post/a/) [shallow](/post/shallow/) [person](/post/person/)" 指思想或感情不深刻的人。
+- "[shallow](/zh/post/shallow/) thinking" 意为肤浅的思考。
+- "[a](/zh/post/a/) [shallow](/zh/post/shallow/) [person](/zh/post/person/)" 指思想或感情不深刻的人。
 
 ## 例句
-- 形容词: "[The](/post/the/) [river](/post/river/) was [so](/post/so/) [shallow](/post/shallow/) [that](/post/that/) [we](/post/we/) [could](/post/could/) wade [across](/post/across/) [it](/post/it/)."
-- 副词: "[She](/post/she/) [read](/post/read/) [the](/post/the/) [book](/post/book/) shallowly [and](/post/and/) missed [its](/post/its/) deeper [meaning](/post/meaning/)."
+- 形容词: "[The](/zh/post/the/) [river](/zh/post/river/) was [so](/zh/post/so/) [shallow](/zh/post/shallow/) [that](/zh/post/that/) [we](/zh/post/we/) [could](/zh/post/could/) wade [across](/zh/post/across/) [it](/zh/post/it/)."
+- 副词: "[She](/zh/post/she/) [read](/zh/post/read/) [the](/zh/post/the/) [book](/zh/post/book/) shallowly [and](/zh/post/and/) missed [its](/zh/post/its/) deeper [meaning](/zh/post/meaning/)."
 
 ## 同义词
-- [superficial](/post/superficial/)
+- [superficial](/zh/post/superficial/)
 - surface-level
 - insubstantial
 - trivial

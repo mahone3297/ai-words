@@ -7,34 +7,34 @@ description = '[∫iːp] n.羊，绵羊'
 keywords = ['ai words', 'sheep']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[sheep](/en/post/sheep/)/
+## [Pronunciation](/post/pronunciation/)
+/[sheep](/post/sheep/)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [sheep](/en/post/sheep/) is [a](/en/post/a/) domesticated ungulate (hoofed mammal) belonging [to](/en/post/to/) [the](/en/post/the/) species _Ovis aries_, [primarily](/en/post/primarily/) raised [for](/en/post/for/) [its](/en/post/its/) [wool](/en/post/wool/), [meat](/en/post/meat/), [and](/en/post/and/) [milk](/en/post/milk/). [Sheep](/en/post/sheep/) are [often](/en/post/often/) kept [in](/en/post/in/) flocks [and](/en/post/and/) are known [for](/en/post/for/) [their](/en/post/their/) docile [nature](/en/post/nature/).
+### [Noun](/post/noun/)
+[A](/post/a/) [sheep](/post/sheep/) is [a](/post/a/) domesticated ungulate (hoofed mammal) belonging [to](/post/to/) [the](/post/the/) species _Ovis aries_, [primarily](/post/primarily/) raised [for](/post/for/) [its](/post/its/) [wool](/post/wool/), [meat](/post/meat/), [and](/post/and/) [milk](/post/milk/). [Sheep](/post/sheep/) are [often](/post/often/) kept [in](/post/in/) flocks [and](/post/and/) are known [for](/post/for/) [their](/post/their/) docile [nature](/post/nature/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) [sheep](/en/post/sheep/), colloquially, [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [act](/en/post/act/) [or](/en/post/or/) [behave](/en/post/behave/) [like](/en/post/like/) [a](/en/post/a/) [sheep](/en/post/sheep/), typically [in](/en/post/in/) [a](/en/post/a/) docile [or](/en/post/or/) [easily](/en/post/easily/) led [manner](/en/post/manner/). [This](/en/post/this/) [usage](/en/post/usage/) is informal [and](/en/post/and/) [not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [standard](/en/post/standard/) English.
+### [Verb](/post/verb/)
+[To](/post/to/) [sheep](/post/sheep/), colloquially, [can](/post/can/) [mean](/post/mean/) [to](/post/to/) [act](/post/act/) [or](/post/or/) [behave](/post/behave/) [like](/post/like/) [a](/post/a/) [sheep](/post/sheep/), typically [in](/post/in/) [a](/post/a/) docile [or](/post/or/) [easily](/post/easily/) led [manner](/post/manner/). [This](/post/this/) [usage](/post/usage/) is informal [and](/post/and/) [not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [standard](/post/standard/) English.
 
-### [Adjective](/en/post/adjective/)
-[The](/en/post/the/) [term](/en/post/term/) "sheepish" describes [someone](/en/post/someone/) [who](/en/post/who/) is [shy](/en/post/shy/), embarrassed, [or](/en/post/or/) hesitant, [often](/en/post/often/) resembling [the](/en/post/the/) [behavior](/en/post/behavior/) [of](/en/post/of/) [a](/en/post/a/) [timid](/en/post/timid/) [sheep](/en/post/sheep/).
+### [Adjective](/post/adjective/)
+[The](/post/the/) [term](/post/term/) "sheepish" describes [someone](/post/someone/) [who](/post/who/) is [shy](/post/shy/), embarrassed, [or](/post/or/) hesitant, [often](/post/often/) resembling [the](/post/the/) [behavior](/post/behavior/) [of](/post/of/) [a](/post/a/) [timid](/post/timid/) [sheep](/post/sheep/).
 
 ## Phrases
-- "Sheepdog herding" refers [to](/en/post/to/) [the](/en/post/the/) trained [behavior](/en/post/behavior/) [of](/en/post/of/) [a](/en/post/a/) [dog](/en/post/dog/) guiding [sheep](/en/post/sheep/).
-- "Sheepish grin" denotes [a](/en/post/a/) [shy](/en/post/shy/) [or](/en/post/or/) embarrassed [smile](/en/post/smile/).
-- "Sheep's [clothing](/en/post/clothing/)" metaphorically refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) imitates [something](/en/post/something/) [else](/en/post/else/), [usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) [superficial](/en/post/superficial/) [way](/en/post/way/).
+- "Sheepdog herding" refers [to](/post/to/) [the](/post/the/) trained [behavior](/post/behavior/) [of](/post/of/) [a](/post/a/) [dog](/post/dog/) guiding [sheep](/post/sheep/).
+- "Sheepish grin" denotes [a](/post/a/) [shy](/post/shy/) [or](/post/or/) embarrassed [smile](/post/smile/).
+- "Sheep's [clothing](/post/clothing/)" metaphorically refers [to](/post/to/) [something](/post/something/) [that](/post/that/) imitates [something](/post/something/) [else](/post/else/), [usually](/post/usually/) [in](/post/in/) [a](/post/a/) [superficial](/post/superficial/) [way](/post/way/).
 
-## [Example](/en/post/example/) Sentences
-- "[The](/en/post/the/) [farmer](/en/post/farmer/) was [leading](/en/post/leading/) [the](/en/post/the/) [sheep](/en/post/sheep/) [to](/en/post/to/) [the](/en/post/the/) slaughterhouse."
-- "[The](/en/post/the/) children were playing [a](/en/post/a/) [game](/en/post/game/) [of](/en/post/of/) '[follow](/en/post/follow/) [the](/en/post/the/) [leader](/en/post/leader/)' [with](/en/post/with/) [the](/en/post/the/) [sheep](/en/post/sheep/)."
-- "[Despite](/en/post/despite/) [feeling](/en/post/feeling/) [nervous](/en/post/nervous/), [he](/en/post/he/) tried [to](/en/post/to/) [hide](/en/post/hide/) [his](/en/post/his/) sheepishness."
+## [Example](/post/example/) Sentences
+- "[The](/post/the/) [farmer](/post/farmer/) was [leading](/post/leading/) [the](/post/the/) [sheep](/post/sheep/) [to](/post/to/) [the](/post/the/) slaughterhouse."
+- "[The](/post/the/) children were playing [a](/post/a/) [game](/post/game/) [of](/post/of/) '[follow](/post/follow/) [the](/post/the/) [leader](/post/leader/)' [with](/post/with/) [the](/post/the/) [sheep](/post/sheep/)."
+- "[Despite](/post/despite/) [feeling](/post/feeling/) [nervous](/post/nervous/), [he](/post/he/) tried [to](/post/to/) [hide](/post/hide/) [his](/post/his/) sheepishness."
 
 ## Synonyms
-- Ovine (related [to](/en/post/to/) [sheep](/en/post/sheep/))
-- [Flock](/en/post/flock/) [animal](/en/post/animal/)
-- [Lamb](/en/post/lamb/) (younger [sheep](/en/post/sheep/))
-- Ewe ([female](/en/post/female/) [sheep](/en/post/sheep/))
-- Ram ([male](/en/post/male/) [sheep](/en/post/sheep/))
-- [Mutton](/en/post/mutton/) ([meat](/en/post/meat/) [from](/en/post/from/) [mature](/en/post/mature/) [sheep](/en/post/sheep/))
--🐑 [Emoticon representing [a](/en/post/a/) [sheep](/en/post/sheep/)]
+- Ovine (related [to](/post/to/) [sheep](/post/sheep/))
+- [Flock](/post/flock/) [animal](/post/animal/)
+- [Lamb](/post/lamb/) (younger [sheep](/post/sheep/))
+- Ewe ([female](/post/female/) [sheep](/post/sheep/))
+- Ram ([male](/post/male/) [sheep](/post/sheep/))
+- [Mutton](/post/mutton/) ([meat](/post/meat/) [from](/post/from/) [mature](/post/mature/) [sheep](/post/sheep/))
+-🐑 [Emoticon representing [a](/post/a/) [sheep](/post/sheep/)]

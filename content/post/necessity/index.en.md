@@ -7,44 +7,44 @@ description = '[niˈsesiti] n.必要性；必然性'
 keywords = ['ai words', 'necessity']
 +++
 
-## [Word](/en/post/word/): [Necessity](/en/post/necessity/)
+## [Word](/post/word/): [Necessity](/post/necessity/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /niˈsesəti/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [fact](/en/post/fact/) [of](/en/post/of/) [being](/en/post/being/) required [or](/en/post/or/) [essential](/en/post/essential/); [something](/en/post/something/) [indispensable](/en/post/indispensable/) [or](/en/post/or/) [absolutely](/en/post/absolutely/) needed. [For](/en/post/for/) [instance](/en/post/instance/): "[Food](/en/post/food/), [shelter](/en/post/shelter/), [and](/en/post/and/) [clothing](/en/post/clothing/) are [basic](/en/post/basic/) necessities [of](/en/post/of/) [life](/en/post/life/)."
+- **[Noun](/post/noun/) (n)**: [The](/post/the/) [state](/post/state/) [or](/post/or/) [fact](/post/fact/) [of](/post/of/) [being](/post/being/) required [or](/post/or/) [essential](/post/essential/); [something](/post/something/) [indispensable](/post/indispensable/) [or](/post/or/) [absolutely](/post/absolutely/) needed. [For](/post/for/) [instance](/post/instance/): "[Food](/post/food/), [shelter](/post/shelter/), [and](/post/and/) [clothing](/post/clothing/) are [basic](/post/basic/) necessities [of](/post/of/) [life](/post/life/)."
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): _"[In](/en/post/in/) [the](/en/post/the/) wilderness, [finding](/en/post/finding/) [clean](/en/post/clean/) [water](/en/post/water/) became [a](/en/post/a/) [matter](/en/post/matter/) [of](/en/post/of/) [necessity](/en/post/necessity/)."_
+[Example](/post/example/) [Sentence](/post/sentence/): _"[In](/post/in/) [the](/post/the/) wilderness, [finding](/post/finding/) [clean](/post/clean/) [water](/post/water/) became [a](/post/a/) [matter](/post/matter/) [of](/post/of/) [necessity](/post/necessity/)."_
 
 Phrases:
-- "[A](/en/post/a/) [necessity](/en/post/necessity/) [of](/en/post/of/) [life](/en/post/life/)": [This](/en/post/this/) [phrase](/en/post/phrase/) denotes [something](/en/post/something/) [that](/en/post/that/) is [essential](/en/post/essential/) [for](/en/post/for/) survival [or](/en/post/or/) well-being.
-- "[Out](/en/post/out/) [of](/en/post/of/) [necessity](/en/post/necessity/)": [When](/en/post/when/) [something](/en/post/something/) is done [because](/en/post/because/) it's [absolutely](/en/post/absolutely/) required [or](/en/post/or/) unavoidable [under](/en/post/under/) [the](/en/post/the/) circumstances. [Example](/en/post/example/): "[She](/en/post/she/) [learned](/en/post/learned/) [to](/en/post/to/) [fix](/en/post/fix/) [her](/en/post/her/) [own](/en/post/own/) [car](/en/post/car/) [out](/en/post/out/) [of](/en/post/of/) [necessity](/en/post/necessity/)."
+- "[A](/post/a/) [necessity](/post/necessity/) [of](/post/of/) [life](/post/life/)": [This](/post/this/) [phrase](/post/phrase/) denotes [something](/post/something/) [that](/post/that/) is [essential](/post/essential/) [for](/post/for/) survival [or](/post/or/) well-being.
+- "[Out](/post/out/) [of](/post/of/) [necessity](/post/necessity/)": [When](/post/when/) [something](/post/something/) is done [because](/post/because/) it's [absolutely](/post/absolutely/) required [or](/post/or/) unavoidable [under](/post/under/) [the](/post/the/) circumstances. [Example](/post/example/): "[She](/post/she/) [learned](/post/learned/) [to](/post/to/) [fix](/post/fix/) [her](/post/her/) [own](/post/own/) [car](/post/car/) [out](/post/out/) [of](/post/of/) [necessity](/post/necessity/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Education](/en/post/education/) has [become](/en/post/become/) [a](/en/post/a/) [necessity](/en/post/necessity/) [for](/en/post/for/) [career](/en/post/career/) advancement [in](/en/post/in/) today's competitive [job](/en/post/job/) [market](/en/post/market/)."
-- "[In](/en/post/in/) wartime, rationing [food](/en/post/food/) was [a](/en/post/a/) [necessity](/en/post/necessity/) [to](/en/post/to/) [ensure](/en/post/ensure/) equitable [distribution](/en/post/distribution/) [among](/en/post/among/) citizens."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Education](/post/education/) has [become](/post/become/) [a](/post/a/) [necessity](/post/necessity/) [for](/post/for/) [career](/post/career/) advancement [in](/post/in/) today's competitive [job](/post/job/) [market](/post/market/)."
+- "[In](/post/in/) wartime, rationing [food](/post/food/) was [a](/post/a/) [necessity](/post/necessity/) [to](/post/to/) [ensure](/post/ensure/) equitable [distribution](/post/distribution/) [among](/post/among/) citizens."
 
 ## Synonyms
-- [Requirement](/en/post/requirement/)
-- [Essential](/en/post/essential/)
-- [Need](/en/post/need/)
+- [Requirement](/post/requirement/)
+- [Essential](/post/essential/)
+- [Need](/post/need/)
 - Obligation
 - Imperative
 - Compulsion
 - Mandate
-- [Necessity](/en/post/necessity/)
+- [Necessity](/post/necessity/)
 - Indispensability
-- [Absolute](/en/post/absolute/) [requirement](/en/post/requirement/)
+- [Absolute](/post/absolute/) [requirement](/post/requirement/)
 
 ## Antonyms
-- [Luxury](/en/post/luxury/)
-- [Option](/en/post/option/)
+- [Luxury](/post/luxury/)
+- [Option](/post/option/)
 - Extravagance
 - Non-essential
 - Unnecessariness
 
 ## Derived forms & Phrases
-- [Necessarily](/en/post/necessarily/) (adv): [As](/en/post/as/) [a](/en/post/a/) [necessary](/en/post/necessary/) [consequence](/en/post/consequence/). [Example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) [will](/en/post/will/) [necessarily](/en/post/necessarily/) [involve](/en/post/involve/) [some](/en/post/some/) [additional](/en/post/additional/) costs."
-- [Necessary](/en/post/necessary/) [evil](/en/post/evil/): [Something](/en/post/something/) [unpleasant](/en/post/unpleasant/) [or](/en/post/or/) [harmful](/en/post/harmful/) [that](/en/post/that/) [must](/en/post/must/) [be](/en/post/be/) accepted [or](/en/post/or/) tolerated [because](/en/post/because/) [it](/en/post/it/) brings [about](/en/post/about/) [a](/en/post/a/) greater [good](/en/post/good/) [or](/en/post/or/) is unavoidable. [Example](/en/post/example/): "Taxes [may](/en/post/may/) [be](/en/post/be/) seen [as](/en/post/as/) [a](/en/post/a/) [necessary](/en/post/necessary/) [evil](/en/post/evil/) [for](/en/post/for/) funding [public](/en/post/public/) services."
-- Necessitate (v): [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [necessary](/en/post/necessary/) [or](/en/post/or/) [inevitable](/en/post/inevitable/). [Example](/en/post/example/): "[The](/en/post/the/) complexity [of](/en/post/of/) [the](/en/post/the/) [task](/en/post/task/) necessitated hiring [additional](/en/post/additional/) [staff](/en/post/staff/)."
+- [Necessarily](/post/necessarily/) (adv): [As](/post/as/) [a](/post/a/) [necessary](/post/necessary/) [consequence](/post/consequence/). [Example](/post/example/): "[The](/post/the/) [project](/post/project/) [will](/post/will/) [necessarily](/post/necessarily/) [involve](/post/involve/) [some](/post/some/) [additional](/post/additional/) costs."
+- [Necessary](/post/necessary/) [evil](/post/evil/): [Something](/post/something/) [unpleasant](/post/unpleasant/) [or](/post/or/) [harmful](/post/harmful/) [that](/post/that/) [must](/post/must/) [be](/post/be/) accepted [or](/post/or/) tolerated [because](/post/because/) [it](/post/it/) brings [about](/post/about/) [a](/post/a/) greater [good](/post/good/) [or](/post/or/) is unavoidable. [Example](/post/example/): "Taxes [may](/post/may/) [be](/post/be/) seen [as](/post/as/) [a](/post/a/) [necessary](/post/necessary/) [evil](/post/evil/) [for](/post/for/) funding [public](/post/public/) services."
+- Necessitate (v): [To](/post/to/) [make](/post/make/) [something](/post/something/) [necessary](/post/necessary/) [or](/post/or/) [inevitable](/post/inevitable/). [Example](/post/example/): "[The](/post/the/) complexity [of](/post/of/) [the](/post/the/) [task](/post/task/) necessitated hiring [additional](/post/additional/) [staff](/post/staff/)."

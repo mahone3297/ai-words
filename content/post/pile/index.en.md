@@ -7,38 +7,38 @@ description = '[pail] n.堆 vt.堆叠，累积'
 keywords = ['ai words', 'pile']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /paɪl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) things placed [or](/en/post/or/) lying [one](/en/post/one/) [above](/en/post/above/) [the](/en/post/the/) [other](/en/post/other/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) disordered [heap](/en/post/heap/)**: *[A](/en/post/a/) [pile](/en/post/pile/) [of](/en/post/of/) books [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/).*
-2. **[A](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [or](/en/post/or/) [quantity](/en/post/quantity/)**: *There's [a](/en/post/a/) [pile](/en/post/pile/) [of](/en/post/of/) [work](/en/post/work/) waiting [for](/en/post/for/) [me](/en/post/me/) [to](/en/post/to/) [finish](/en/post/finish/).*
-3. **[A](/en/post/a/) [small](/en/post/small/) [hill](/en/post/hill/) [or](/en/post/or/) mound**: *[The](/en/post/the/) children were [building](/en/post/building/) [a](/en/post/a/) [sand](/en/post/sand/) [pile](/en/post/pile/) [at](/en/post/at/) [the](/en/post/the/) [beach](/en/post/beach/).*
-4. (informal) [A](/en/post/a/) gambling [bet](/en/post/bet/) [or](/en/post/or/) [stake](/en/post/stake/): *[He](/en/post/he/) [put](/en/post/put/) [a](/en/post/a/) [big](/en/post/big/) [pile](/en/post/pile/) [on](/en/post/on/) [the](/en/post/the/) winning [team](/en/post/team/).*
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [collection](/post/collection/) [of](/post/of/) things placed [or](/post/or/) lying [one](/post/one/) [above](/post/above/) [the](/post/the/) [other](/post/other/), [often](/post/often/) [in](/post/in/) [a](/post/a/) disordered [heap](/post/heap/)**: *[A](/post/a/) [pile](/post/pile/) [of](/post/of/) books [on](/post/on/) [the](/post/the/) [table](/post/table/).*
+2. **[A](/post/a/) [large](/post/large/) [amount](/post/amount/) [or](/post/or/) [quantity](/post/quantity/)**: *There's [a](/post/a/) [pile](/post/pile/) [of](/post/of/) [work](/post/work/) waiting [for](/post/for/) [me](/post/me/) [to](/post/to/) [finish](/post/finish/).*
+3. **[A](/post/a/) [small](/post/small/) [hill](/post/hill/) [or](/post/or/) mound**: *[The](/post/the/) children were [building](/post/building/) [a](/post/a/) [sand](/post/sand/) [pile](/post/pile/) [at](/post/at/) [the](/post/the/) [beach](/post/beach/).*
+4. (informal) [A](/post/a/) gambling [bet](/post/bet/) [or](/post/or/) [stake](/post/stake/): *[He](/post/he/) [put](/post/put/) [a](/post/a/) [big](/post/big/) [pile](/post/pile/) [on](/post/on/) [the](/post/the/) winning [team](/post/team/).*
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [accumulate](/en/post/accumulate/) [or](/en/post/or/) [gather](/en/post/gather/) (things) [in](/en/post/in/) [a](/en/post/a/) [heap](/en/post/heap/)**: *[She](/en/post/she/) piled [the](/en/post/the/) dishes [in](/en/post/in/) [the](/en/post/the/) [sink](/en/post/sink/).*
-2. **[To](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [pile](/en/post/pile/) [or](/en/post/or/) [heap](/en/post/heap/)**: *[The](/en/post/the/) leaves piled [up](/en/post/up/) [in](/en/post/in/) [the](/en/post/the/) [yard](/en/post/yard/) [after](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/).*
-3. (informal) [To](/en/post/to/) [bet](/en/post/bet/) [a](/en/post/a/) [significant](/en/post/significant/) [amount](/en/post/amount/): *[He](/en/post/he/) piled [all](/en/post/all/) [his](/en/post/his/) chips [on](/en/post/on/) [black](/en/post/black/).*
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [accumulate](/post/accumulate/) [or](/post/or/) [gather](/post/gather/) (things) [in](/post/in/) [a](/post/a/) [heap](/post/heap/)**: *[She](/post/she/) piled [the](/post/the/) dishes [in](/post/in/) [the](/post/the/) [sink](/post/sink/).*
+2. **[To](/post/to/) [form](/post/form/) [a](/post/a/) [pile](/post/pile/) [or](/post/or/) [heap](/post/heap/)**: *[The](/post/the/) leaves piled [up](/post/up/) [in](/post/in/) [the](/post/the/) [yard](/post/yard/) [after](/post/after/) [the](/post/the/) [storm](/post/storm/).*
+3. (informal) [To](/post/to/) [bet](/post/bet/) [a](/post/a/) [significant](/post/significant/) [amount](/post/amount/): *[He](/post/he/) piled [all](/post/all/) [his](/post/his/) chips [on](/post/on/) [black](/post/black/).*
 
 ## Phrases
-- "[Build](/en/post/build/) [a](/en/post/a/) [pile](/en/post/pile/)" [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [stack](/en/post/stack/) [or](/en/post/or/) [heap](/en/post/heap/).
-- "[Clear](/en/post/clear/) [off](/en/post/off/) [the](/en/post/the/) [pile](/en/post/pile/)" is an [expression](/en/post/expression/) [to](/en/post/to/) [remove](/en/post/remove/) items [from](/en/post/from/) [a](/en/post/a/) [heap](/en/post/heap/) [or](/en/post/or/) [stack](/en/post/stack/).
-- "[Pile](/en/post/pile/) [on](/en/post/on/) [the](/en/post/the/) [pressure](/en/post/pressure/)" is [a](/en/post/a/) figurative [way](/en/post/way/) [to](/en/post/to/) [say](/en/post/say/) [to](/en/post/to/) intensify [or](/en/post/or/) [add](/en/post/add/) [to](/en/post/to/) [the](/en/post/the/) [stress](/en/post/stress/).
+- "[Build](/post/build/) [a](/post/a/) [pile](/post/pile/)" [means](/post/means/) [to](/post/to/) [create](/post/create/) [a](/post/a/) [stack](/post/stack/) [or](/post/or/) [heap](/post/heap/).
+- "[Clear](/post/clear/) [off](/post/off/) [the](/post/the/) [pile](/post/pile/)" is an [expression](/post/expression/) [to](/post/to/) [remove](/post/remove/) items [from](/post/from/) [a](/post/a/) [heap](/post/heap/) [or](/post/or/) [stack](/post/stack/).
+- "[Pile](/post/pile/) [on](/post/on/) [the](/post/the/) [pressure](/post/pressure/)" is [a](/post/a/) figurative [way](/post/way/) [to](/post/to/) [say](/post/say/) [to](/post/to/) intensify [or](/post/or/) [add](/post/add/) [to](/post/to/) [the](/post/the/) [stress](/post/stress/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) carefully arranged [her](/en/post/her/) [clothes](/en/post/clothes/) [into](/en/post/into/) [neat](/en/post/neat/) piles [before](/en/post/before/) packing [for](/en/post/for/) [vacation](/en/post/vacation/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [quickly](/en/post/quickly/) piled [the](/en/post/the/) [wood](/en/post/wood/) [in](/en/post/in/) [preparation](/en/post/preparation/) [for](/en/post/for/) [the](/en/post/the/) [fire](/en/post/fire/)."
-- **Informal [Verb](/en/post/verb/)**: "I decided [to](/en/post/to/) [pile](/en/post/pile/) [all](/en/post/all/) [my](/en/post/my/) savings [into](/en/post/into/) stocks hoping [for](/en/post/for/) [a](/en/post/a/) [good](/en/post/good/) [return](/en/post/return/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) carefully arranged [her](/post/her/) [clothes](/post/clothes/) [into](/post/into/) [neat](/post/neat/) piles [before](/post/before/) packing [for](/post/for/) [vacation](/post/vacation/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) [quickly](/post/quickly/) piled [the](/post/the/) [wood](/post/wood/) [in](/post/in/) [preparation](/post/preparation/) [for](/post/for/) [the](/post/the/) [fire](/post/fire/)."
+- **Informal [Verb](/post/verb/)**: "I decided [to](/post/to/) [pile](/post/pile/) [all](/post/all/) [my](/post/my/) savings [into](/post/into/) stocks hoping [for](/post/for/) [a](/post/a/) [good](/post/good/) [return](/post/return/)."
 
 ## Synonyms
-- [Stack](/en/post/stack/)
-- [Heap](/en/post/heap/)
-- [Mass](/en/post/mass/)
+- [Stack](/post/stack/)
+- [Heap](/post/heap/)
+- [Mass](/post/mass/)
 - Mound
 - Accumulation
-- [Collection](/en/post/collection/)
-- [Heap](/en/post/heap/) [of](/en/post/of/)
-- [Tower](/en/post/tower/) [of](/en/post/of/)
-- [Lump](/en/post/lump/)
+- [Collection](/post/collection/)
+- [Heap](/post/heap/) [of](/post/of/)
+- [Tower](/post/tower/) [of](/post/of/)
+- [Lump](/post/lump/)

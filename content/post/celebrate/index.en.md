@@ -7,35 +7,35 @@ description = '[ˈselibreit] vt.庆祝；歌颂，赞美'
 keywords = ['ai words', 'celebrate']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈsɛlɪbreɪt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [mark](/en/post/mark/) [a](/en/post/a/) [special](/en/post/special/) [occasion](/en/post/occasion/) [with](/en/post/with/) [a](/en/post/a/) [ceremony](/en/post/ceremony/), festivities, [or](/en/post/or/) [other](/en/post/other/) activities [in](/en/post/in/) honor [of](/en/post/of/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [celebrate](/en/post/celebrate/) Christmas annually."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) celebrating; [a](/en/post/a/) festive [occasion](/en/post/occasion/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [festival](/en/post/festival/) was [a](/en/post/a/) memorable celebration."
-- **[Adjective](/en/post/adjective/)**: [Joyful](/en/post/joyful/) [or](/en/post/or/) festive; honoring [or](/en/post/or/) showing [respect](/en/post/respect/) [for](/en/post/for/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) celebratory [atmosphere](/en/post/atmosphere/) filled [the](/en/post/the/) [room](/en/post/room/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [mark](/post/mark/) [a](/post/a/) [special](/post/special/) [occasion](/post/occasion/) [with](/post/with/) [a](/post/a/) [ceremony](/post/ceremony/), festivities, [or](/post/or/) [other](/post/other/) activities [in](/post/in/) honor [of](/post/of/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) [celebrate](/post/celebrate/) Christmas annually."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) celebrating; [a](/post/a/) festive [occasion](/post/occasion/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [festival](/post/festival/) was [a](/post/a/) memorable celebration."
+- **[Adjective](/post/adjective/)**: [Joyful](/post/joyful/) [or](/post/or/) festive; honoring [or](/post/or/) showing [respect](/post/respect/) [for](/post/for/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) celebratory [atmosphere](/post/atmosphere/) filled [the](/post/the/) [room](/post/room/)."
 
 ## Phrases
-- "[Celebrate](/en/post/celebrate/) [a](/en/post/a/) [birthday](/en/post/birthday/)" [means](/en/post/means/) [to](/en/post/to/) [hold](/en/post/hold/) [a](/en/post/a/) [party](/en/post/party/) [for](/en/post/for/) someone's [birthday](/en/post/birthday/).
-- "[Celebrate](/en/post/celebrate/) [victory](/en/post/victory/)" is [about](/en/post/about/) commemorating [a](/en/post/a/) [win](/en/post/win/) [or](/en/post/or/) [achievement](/en/post/achievement/).
-- "[Celebrate](/en/post/celebrate/) [life](/en/post/life/)" implies appreciating [and](/en/post/and/) rejoicing [in](/en/post/in/) [existence](/en/post/existence/).
+- "[Celebrate](/post/celebrate/) [a](/post/a/) [birthday](/post/birthday/)" [means](/post/means/) [to](/post/to/) [hold](/post/hold/) [a](/post/a/) [party](/post/party/) [for](/post/for/) someone's [birthday](/post/birthday/).
+- "[Celebrate](/post/celebrate/) [victory](/post/victory/)" is [about](/post/about/) commemorating [a](/post/a/) [win](/post/win/) [or](/post/or/) [achievement](/post/achievement/).
+- "[Celebrate](/post/celebrate/) [life](/post/life/)" implies appreciating [and](/post/and/) rejoicing [in](/post/in/) [existence](/post/existence/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [celebrate](/en/post/celebrate/) [their](/en/post/their/) [wedding](/en/post/wedding/) anniversary [with](/en/post/with/) [a](/en/post/a/) [romantic](/en/post/romantic/) [dinner](/en/post/dinner/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [whole](/en/post/whole/) [community](/en/post/community/) came [together](/en/post/together/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [the](/en/post/the/) town's centennial."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [festival](/en/post/festival/) was celebrated [with](/en/post/with/) colorful decorations [and](/en/post/and/) [lively](/en/post/lively/) [music](/en/post/music/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[They](/post/they/) decided [to](/post/to/) [celebrate](/post/celebrate/) [their](/post/their/) [wedding](/post/wedding/) anniversary [with](/post/with/) [a](/post/a/) [romantic](/post/romantic/) [dinner](/post/dinner/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [whole](/post/whole/) [community](/post/community/) came [together](/post/together/) [to](/post/to/) [celebrate](/post/celebrate/) [the](/post/the/) town's centennial."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [festival](/post/festival/) was celebrated [with](/post/with/) colorful decorations [and](/post/and/) [lively](/post/lively/) [music](/post/music/)."
 
 ## Synonyms
 - Honor
 - Commemorate
-- [Mark](/en/post/mark/)
-- [Joy](/en/post/joy/)
+- [Mark](/post/mark/)
+- [Joy](/post/joy/)
 - Revel
-- [Toast](/en/post/toast/)
+- [Toast](/post/toast/)
 - Revelry
 
 ## Antonyms
 - Mourning
 - Lament
 - Grief
--悲哀 ([In](/en/post/in/) Chinese)
+-悲哀 ([In](/post/in/) Chinese)

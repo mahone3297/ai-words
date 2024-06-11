@@ -7,28 +7,28 @@ description = '[liːst] a.最少的 ad.最少'
 keywords = ['ai words', 'least']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /liːst/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Superlative [form](/en/post/form/) [of](/en/post/of/) '[little](/en/post/little/),' [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) smallest [amount](/en/post/amount/) [or](/en/post/or/) [degree](/en/post/degree/); [minimum](/en/post/minimum/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) is [the](/en/post/the/) [least](/en/post/least/) [expensive](/en/post/expensive/) [option](/en/post/option/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [the](/en/post/the/) smallest [degree](/en/post/degree/); [to](/en/post/to/) [the](/en/post/the/) slightest [extent](/en/post/extent/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) cares [the](/en/post/the/) [least](/en/post/least/) [about](/en/post/about/) [what](/en/post/what/) others [think](/en/post/think/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) smallest [quantity](/en/post/quantity/) [or](/en/post/or/) [amount](/en/post/amount/) [possible](/en/post/possible/), [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [comparison](/en/post/comparison/) [or](/en/post/or/) [limitation](/en/post/limitation/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) eats [the](/en/post/the/) [least](/en/post/least/) [among](/en/post/among/) [his](/en/post/his/) siblings."
+- **[Adjective](/post/adjective/)**: Superlative [form](/post/form/) [of](/post/of/) '[little](/post/little/),' [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) smallest [amount](/post/amount/) [or](/post/or/) [degree](/post/degree/); [minimum](/post/minimum/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) is [the](/post/the/) [least](/post/least/) [expensive](/post/expensive/) [option](/post/option/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [the](/post/the/) smallest [degree](/post/degree/); [to](/post/to/) [the](/post/the/) slightest [extent](/post/extent/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) cares [the](/post/the/) [least](/post/least/) [about](/post/about/) [what](/post/what/) others [think](/post/think/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) smallest [quantity](/post/quantity/) [or](/post/or/) [amount](/post/amount/) [possible](/post/possible/), [often](/post/often/) [used](/post/used/) [in](/post/in/) [the](/post/the/) context [of](/post/of/) [comparison](/post/comparison/) [or](/post/or/) [limitation](/post/limitation/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) eats [the](/post/the/) [least](/post/least/) [among](/post/among/) [his](/post/his/) siblings."
 
 ## Phrases
-- "[At](/en/post/at/) [least](/en/post/least/)": [Meaning](/en/post/meaning/) '[the](/en/post/the/) [minimum](/en/post/minimum/)' [or](/en/post/or/) '[no](/en/post/no/) [less](/en/post/less/) [than](/en/post/than/)'. [For](/en/post/for/) [example](/en/post/example/): "I [need](/en/post/need/) [at](/en/post/at/) [least](/en/post/least/) [five](/en/post/five/) minutes [to](/en/post/to/) [prepare](/en/post/prepare/)."
-- "[Least](/en/post/least/) [of](/en/post/of/) [all](/en/post/all/)": Indicating [that](/en/post/that/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) is [unlikely](/en/post/unlikely/) [or](/en/post/or/) [unexpected](/en/post/unexpected/). [For](/en/post/for/) [example](/en/post/example/): "[Least](/en/post/least/) [of](/en/post/of/) [all](/en/post/all/) did I [expect](/en/post/expect/) [her](/en/post/her/) [to](/en/post/to/) [arrive](/en/post/arrive/) [early](/en/post/early/)."
-- "[The](/en/post/the/) [least](/en/post/least/) [you](/en/post/you/) [can](/en/post/can/) [do](/en/post/do/)": Expressing [the](/en/post/the/) [minimum](/en/post/minimum/) [action](/en/post/action/) expected [from](/en/post/from/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [all](/en/post/all/) [the](/en/post/the/) [trouble](/en/post/trouble/) you've caused, [the](/en/post/the/) [least](/en/post/least/) [you](/en/post/you/) [can](/en/post/can/) [do](/en/post/do/) is [apologize](/en/post/apologize/)."
+- "[At](/post/at/) [least](/post/least/)": [Meaning](/post/meaning/) '[the](/post/the/) [minimum](/post/minimum/)' [or](/post/or/) '[no](/post/no/) [less](/post/less/) [than](/post/than/)'. [For](/post/for/) [example](/post/example/): "I [need](/post/need/) [at](/post/at/) [least](/post/least/) [five](/post/five/) minutes [to](/post/to/) [prepare](/post/prepare/)."
+- "[Least](/post/least/) [of](/post/of/) [all](/post/all/)": Indicating [that](/post/that/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) is [unlikely](/post/unlikely/) [or](/post/or/) [unexpected](/post/unexpected/). [For](/post/for/) [example](/post/example/): "[Least](/post/least/) [of](/post/of/) [all](/post/all/) did I [expect](/post/expect/) [her](/post/her/) [to](/post/to/) [arrive](/post/arrive/) [early](/post/early/)."
+- "[The](/post/the/) [least](/post/least/) [you](/post/you/) [can](/post/can/) [do](/post/do/)": Expressing [the](/post/the/) [minimum](/post/minimum/) [action](/post/action/) expected [from](/post/from/) [someone](/post/someone/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) [all](/post/all/) [the](/post/the/) [trouble](/post/trouble/) you've caused, [the](/post/the/) [least](/post/least/) [you](/post/you/) [can](/post/can/) [do](/post/do/) is [apologize](/post/apologize/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) is [the](/en/post/the/) [least](/en/post/least/) [difficult](/en/post/difficult/) [problem](/en/post/problem/) [on](/en/post/on/) [the](/en/post/the/) [test](/en/post/test/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) worries [least](/en/post/least/) [when](/en/post/when/) she's spending [time](/en/post/time/) [with](/en/post/with/) [her](/en/post/her/) [family](/en/post/family/)."
-- **[Noun](/en/post/noun/)**: "[In](/en/post/in/) [this](/en/post/this/) [group](/en/post/group/), [he](/en/post/he/) has [the](/en/post/the/) [least](/en/post/least/) [experience](/en/post/experience/) [with](/en/post/with/) [public](/en/post/public/) speaking."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) is [the](/post/the/) [least](/post/least/) [difficult](/post/difficult/) [problem](/post/problem/) [on](/post/on/) [the](/post/the/) [test](/post/test/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) worries [least](/post/least/) [when](/post/when/) she's spending [time](/post/time/) [with](/post/with/) [her](/post/her/) [family](/post/family/)."
+- **[Noun](/post/noun/)**: "[In](/post/in/) [this](/post/this/) [group](/post/group/), [he](/post/he/) has [the](/post/the/) [least](/post/least/) [experience](/post/experience/) [with](/post/with/) [public](/post/public/) speaking."
 
 ## Synonyms
-- [Minimum](/en/post/minimum/)
+- [Minimum](/post/minimum/)
 - Smallest
 - Lowest
 - Weakest
-- Infinitesimal ([for](/en/post/for/) [the](/en/post/the/) adjectival [sense](/en/post/sense/))
-- Barely ([for](/en/post/for/) [the](/en/post/the/) adverbial [sense](/en/post/sense/))
+- Infinitesimal ([for](/post/for/) [the](/post/the/) adjectival [sense](/post/sense/))
+- Barely ([for](/post/for/) [the](/post/the/) adverbial [sense](/post/sense/))

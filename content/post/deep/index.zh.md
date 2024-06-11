@@ -11,20 +11,20 @@ keywords = ['ai words', 'deep']
 /dep/
 
 ## 释义
-- **形容词**: 深的，表示程度、距离或情感的深远。例如: "[The](/post/the/) [ocean](/post/ocean/) is [very](/post/very/) [deep](/post/deep/)."
-- **副词**: 深深地，表示动作或感情的程度。例如: "[She](/post/she/) was thinking deeply [about](/post/about/) [the](/post/the/) [problem](/post/problem/)."
+- **形容词**: 深的，表示程度、距离或情感的深远。例如: "[The](/zh/post/the/) [ocean](/zh/post/ocean/) is [very](/zh/post/very/) [deep](/zh/post/deep/)."
+- **副词**: 深深地，表示动作或感情的程度。例如: "[She](/zh/post/she/) was thinking deeply [about](/zh/post/about/) [the](/zh/post/the/) [problem](/zh/post/problem/)."
 
 ## 短语
-- "[deep](/post/deep/) [down](/post/down/)" 意为在内心深处，例如: "[Deep](/post/deep/) [down](/post/down/), [he](/post/he/) knew [it](/post/it/) was [the](/post/the/) [right](/post/right/) [decision](/post/decision/)."
-- "[deep](/post/deep/) [sleep](/post/sleep/)" 指深度睡眠状态，例如: "[She](/post/she/) [finally](/post/finally/) fell [into](/post/into/) [a](/post/a/) [deep](/post/deep/) [sleep](/post/sleep/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/)."
+- "[deep](/zh/post/deep/) [down](/zh/post/down/)" 意为在内心深处，例如: "[Deep](/zh/post/deep/) [down](/zh/post/down/), [he](/zh/post/he/) knew [it](/zh/post/it/) was [the](/zh/post/the/) [right](/zh/post/right/) [decision](/zh/post/decision/)."
+- "[deep](/zh/post/deep/) [sleep](/zh/post/sleep/)" 指深度睡眠状态，例如: "[She](/zh/post/she/) [finally](/zh/post/finally/) fell [into](/zh/post/into/) [a](/zh/post/a/) [deep](/zh/post/deep/) [sleep](/zh/post/sleep/) [after](/zh/post/after/) [a](/zh/post/a/) [long](/zh/post/long/) [day](/zh/post/day/)."
 
 ## 例句
-- 形容词: "[The](/post/the/) [well](/post/well/) has [a](/post/a/) [deep](/post/deep/) [and](/post/and/) [dark](/post/dark/) [water](/post/water/) [source](/post/source/)."
-- 副词: "[He](/post/he/) was breathing deeply [to](/post/to/) [calm](/post/calm/) [himself](/post/himself/) [down](/post/down/)."
+- 形容词: "[The](/zh/post/the/) [well](/zh/post/well/) has [a](/zh/post/a/) [deep](/zh/post/deep/) [and](/zh/post/and/) [dark](/zh/post/dark/) [water](/zh/post/water/) [source](/zh/post/source/)."
+- 副词: "[He](/zh/post/he/) was breathing deeply [to](/zh/post/to/) [calm](/zh/post/calm/) [himself](/zh/post/himself/) [down](/zh/post/down/)."
 
 ## 同义词
 - profound
-- [intense](/post/intense/)
-- [thorough](/post/thorough/)
-- [extensive](/post/extensive/)
+- [intense](/zh/post/intense/)
+- [thorough](/zh/post/thorough/)
+- [extensive](/zh/post/extensive/)
 - far-reaching

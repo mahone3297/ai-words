@@ -7,32 +7,32 @@ description = '[ˈteliviʒən] n.电视；电视机'
 keywords = ['ai words', 'television']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /tɪˈvɪzɪən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) receives [and](/en/post/and/) displays moving images [and](/en/post/and/) [sound](/en/post/sound/), typically [through](/en/post/through/) [electronic](/en/post/electronic/) signals transmitted [by](/en/post/by/) [radio](/en/post/radio/), [cable](/en/post/cable/), [or](/en/post/or/) [satellite](/en/post/satellite/). [Also](/en/post/also/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [mass](/en/post/mass/) [medium](/en/post/medium/) [for](/en/post/for/) broadcasting programs [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [audience](/en/post/audience/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [watch](/en/post/watch/) [or](/en/post/or/) [receive](/en/post/receive/) [television](/en/post/television/) programming. [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) [usually](/en/post/usually/) [watch](/en/post/watch/) [television](/en/post/television/) [in](/en/post/in/) [the](/en/post/the/) [evening](/en/post/evening/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [content](/en/post/content/) [or](/en/post/or/) [medium](/en/post/medium/) [of](/en/post/of/) [television](/en/post/television/) programming, including [news](/en/post/news/), entertainment, [and](/en/post/and/) documentaries. [For](/en/post/for/) [example](/en/post/example/): "[Television](/en/post/television/) has evolved significantly [over](/en/post/over/) [the](/en/post/the/) years."
+- **[Noun](/post/noun/)**: [A](/post/a/) [device](/post/device/) [that](/post/that/) receives [and](/post/and/) displays moving images [and](/post/and/) [sound](/post/sound/), typically [through](/post/through/) [electronic](/post/electronic/) signals transmitted [by](/post/by/) [radio](/post/radio/), [cable](/post/cable/), [or](/post/or/) [satellite](/post/satellite/). [Also](/post/also/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [mass](/post/mass/) [medium](/post/medium/) [for](/post/for/) broadcasting programs [to](/post/to/) [a](/post/a/) [large](/post/large/) [audience](/post/audience/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [watch](/post/watch/) [or](/post/or/) [receive](/post/receive/) [television](/post/television/) programming. [For](/post/for/) [example](/post/example/): "[We](/post/we/) [usually](/post/usually/) [watch](/post/watch/) [television](/post/television/) [in](/post/in/) [the](/post/the/) [evening](/post/evening/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [content](/post/content/) [or](/post/or/) [medium](/post/medium/) [of](/post/of/) [television](/post/television/) programming, including [news](/post/news/), entertainment, [and](/post/and/) documentaries. [For](/post/for/) [example](/post/example/): "[Television](/post/television/) has evolved significantly [over](/post/over/) [the](/post/the/) years."
 
 ## Phrases
-- "[Switch](/en/post/switch/) [on](/en/post/on/) [the](/en/post/the/) [television](/en/post/television/)" [means](/en/post/means/) [to](/en/post/to/) [turn](/en/post/turn/) [on](/en/post/on/) [the](/en/post/the/) TV.
-- "[Cable](/en/post/cable/) [television](/en/post/television/)" refers [to](/en/post/to/) subscription-based TV [service](/en/post/service/).
-- "[Live](/en/post/live/) [television](/en/post/television/)" denotes [a](/en/post/a/) [broadcast](/en/post/broadcast/) happening [in](/en/post/in/) real-time.
+- "[Switch](/post/switch/) [on](/post/on/) [the](/post/the/) [television](/post/television/)" [means](/post/means/) [to](/post/to/) [turn](/post/turn/) [on](/post/on/) [the](/post/the/) TV.
+- "[Cable](/post/cable/) [television](/post/television/)" refers [to](/post/to/) subscription-based TV [service](/post/service/).
+- "[Live](/post/live/) [television](/post/television/)" denotes [a](/post/a/) [broadcast](/post/broadcast/) happening [in](/post/in/) real-time.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [entire](/en/post/entire/) [family](/en/post/family/) gathered [around](/en/post/around/) [the](/en/post/the/) [television](/en/post/television/) [to](/en/post/to/) [watch](/en/post/watch/) [the](/en/post/the/) [big](/en/post/big/) [game](/en/post/game/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) tuned [in](/en/post/in/) [to](/en/post/to/) [her](/en/post/her/) favorite [show](/en/post/show/) [after](/en/post/after/) [dinner](/en/post/dinner/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) latest [news](/en/post/news/) was featured [on](/en/post/on/) [the](/en/post/the/) [evening](/en/post/evening/) [television](/en/post/television/) [broadcast](/en/post/broadcast/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [entire](/post/entire/) [family](/post/family/) gathered [around](/post/around/) [the](/post/the/) [television](/post/television/) [to](/post/to/) [watch](/post/watch/) [the](/post/the/) [big](/post/big/) [game](/post/game/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) tuned [in](/post/in/) [to](/post/to/) [her](/post/her/) favorite [show](/post/show/) [after](/post/after/) [dinner](/post/dinner/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) latest [news](/post/news/) was featured [on](/post/on/) [the](/post/the/) [evening](/post/evening/) [television](/post/television/) [broadcast](/post/broadcast/)."
 
 ## Synonyms
-- [Television](/en/post/television/) [set](/en/post/set/)
+- [Television](/post/television/) [set](/post/set/)
 - TV
-- [Screen](/en/post/screen/)
+- [Screen](/post/screen/)
 - Broadcasting
-- [Cable](/en/post/cable/) [channel](/en/post/channel/)
-- Televisual [content](/en/post/content/)
+- [Cable](/post/cable/) [channel](/post/channel/)
+- Televisual [content](/post/content/)
 
 ## Antonyms
-- [Silence](/en/post/silence/) ([lack](/en/post/lack/) [of](/en/post/of/) [television](/en/post/television/) [noise](/en/post/noise/))
-- [Static](/en/post/static/) (unwatchable [or](/en/post/or/) [blank](/en/post/blank/) [screen](/en/post/screen/))
+- [Silence](/post/silence/) ([lack](/post/lack/) [of](/post/of/) [television](/post/television/) [noise](/post/noise/))
+- [Static](/post/static/) (unwatchable [or](/post/or/) [blank](/post/blank/) [screen](/post/screen/))

@@ -12,18 +12,18 @@ keywords = ['ai words', 'vanity']
 
 ## 释义
 - **名词**: 自负；虚荣；无价值的东西；虚无
-    - 例句: "[His](/post/his/) [vanity](/post/vanity/) prevented [him](/post/him/) [from](/post/from/) accepting [criticism](/post/criticism/)."
+    - 例句: "[His](/zh/post/his/) [vanity](/zh/post/vanity/) prevented [him](/zh/post/him/) [from](/zh/post/from/) accepting [criticism](/zh/post/criticism/)."
 - **形容词**: 虚荣的；自负的；徒劳的
-    - 例句: "[She](/post/she/) spent hours [in](/post/in/) [front](/post/front/) [of](/post/of/) [the](/post/the/) [mirror](/post/mirror/), preening [in](/post/in/) [her](/post/her/) [vanity](/post/vanity/)."
+    - 例句: "[She](/zh/post/she/) spent hours [in](/zh/post/in/) [front](/zh/post/front/) [of](/zh/post/of/) [the](/zh/post/the/) [mirror](/zh/post/mirror/), preening [in](/zh/post/in/) [her](/zh/post/her/) [vanity](/zh/post/vanity/)."
 
 ## 短语
-- "[vanity](/post/vanity/) [fair](/post/fair/)" 指充满虚荣和浮华的场所或情况。
-- "[vanity](/post/vanity/) [case](/post/case/)" 或 "[vanity](/post/vanity/) [box](/post/box/)" 指化妆箱或梳妆盒。
-- "[vanity](/post/vanity/) [project](/post/project/)" 指出于个人虚荣心而进行的项目。
+- "[vanity](/zh/post/vanity/) [fair](/zh/post/fair/)" 指充满虚荣和浮华的场所或情况。
+- "[vanity](/zh/post/vanity/) [case](/zh/post/case/)" 或 "[vanity](/zh/post/vanity/) [box](/zh/post/box/)" 指化妆箱或梳妆盒。
+- "[vanity](/zh/post/vanity/) [project](/zh/post/project/)" 指出于个人虚荣心而进行的项目。
 
 ## 例句
-- 名词: "[Her](/post/her/) [excessive](/post/excessive/) [love](/post/love/) [for](/post/for/) [fashion](/post/fashion/) was [often](/post/often/) seen [as](/post/as/) [mere](/post/mere/) [vanity](/post/vanity/)."
-- 形容词: "[The](/post/the/) actor's [vanity](/post/vanity/) made [it](/post/it/) [difficult](/post/difficult/) [for](/post/for/) [him](/post/him/) [to](/post/to/) [work](/post/work/) [with](/post/with/) others."
+- 名词: "[Her](/zh/post/her/) [excessive](/zh/post/excessive/) [love](/zh/post/love/) [for](/zh/post/for/) [fashion](/zh/post/fashion/) was [often](/zh/post/often/) seen [as](/zh/post/as/) [mere](/zh/post/mere/) [vanity](/zh/post/vanity/)."
+- 形容词: "[The](/zh/post/the/) actor's [vanity](/zh/post/vanity/) made [it](/zh/post/it/) [difficult](/zh/post/difficult/) [for](/zh/post/for/) [him](/zh/post/him/) [to](/zh/post/to/) [work](/zh/post/work/) [with](/zh/post/with/) others."
 
 ## 同义词
 - Arrogance

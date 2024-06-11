@@ -11,18 +11,18 @@ keywords = ['ai words', 'decade']
 /ˈdiːkeɪd/
 
 ## 释义
-- **名词 (n)**: 十年的时间段，通常用来指历史或统计上的一个时期。例如: "[The](/post/the/) 1980s was [a](/post/a/) [decade](/post/decade/) [of](/post/of/) [rapid](/post/rapid/) technological [change](/post/change/)."
+- **名词 (n)**: 十年的时间段，通常用来指历史或统计上的一个时期。例如: "[The](/zh/post/the/) 1980s was [a](/zh/post/a/) [decade](/zh/post/decade/) [of](/zh/post/of/) [rapid](/zh/post/rapid/) technological [change](/zh/post/change/)."
 
 ## 短语
-- "[In](/post/in/) [the](/post/the/) [past](/post/past/) [decade](/post/decade/)" 表示在过去的十年里。
-- "[Decade](/post/decade/) [of](/post/of/) [growth](/post/growth/)" 指的是增长的十年。
+- "[In](/zh/post/in/) [the](/zh/post/the/) [past](/zh/post/past/) [decade](/zh/post/decade/)" 表示在过去的十年里。
+- "[Decade](/zh/post/decade/) [of](/zh/post/of/) [growth](/zh/post/growth/)" 指的是增长的十年。
 
 ## 例句
-- "[Many](/post/many/) [significant](/post/significant/) events took [place](/post/place/) [during](/post/during/) [the](/post/the/) [first](/post/first/) [decade](/post/decade/) [of](/post/of/) [the](/post/the/) 21st [century](/post/century/)."
-- "[The](/post/the/) [company](/post/company/) experienced unprecedented [success](/post/success/) [in](/post/in/) [the](/post/the/) [last](/post/last/) [decade](/post/decade/)."
+- "[Many](/zh/post/many/) [significant](/zh/post/significant/) events took [place](/zh/post/place/) [during](/zh/post/during/) [the](/zh/post/the/) [first](/zh/post/first/) [decade](/zh/post/decade/) [of](/zh/post/of/) [the](/zh/post/the/) 21st [century](/zh/post/century/)."
+- "[The](/zh/post/the/) [company](/zh/post/company/) experienced unprecedented [success](/zh/post/success/) [in](/zh/post/in/) [the](/zh/post/the/) [last](/zh/post/last/) [decade](/zh/post/decade/)."
 
 ## 同义词
-- [Ten](/post/ten/) years
-- [A](/post/a/) [period](/post/period/) [of](/post/of/) [ten](/post/ten/) years
-- An [era](/post/era/) [of](/post/of/) [ten](/post/ten/) years
+- [Ten](/zh/post/ten/) years
+- [A](/zh/post/a/) [period](/zh/post/period/) [of](/zh/post/of/) [ten](/zh/post/ten/) years
+- An [era](/zh/post/era/) [of](/zh/post/of/) [ten](/zh/post/ten/) years
 - Quinquagenary (不常用)

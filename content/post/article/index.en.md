@@ -7,35 +7,35 @@ description = '[ˈɑːtikl] n.文章；条款；物品'
 keywords = ['ai words', 'article']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
-/[article](/en/post/article/)/
+## [Pronunciation](/post/pronunciation/)
+/[article](/post/article/)/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-    - [A](/en/post/a/) written [or](/en/post/or/) printed [piece](/en/post/piece/) [that](/en/post/that/) introduces [or](/en/post/or/) precedes an [article](/en/post/article/), [news](/en/post/news/) [story](/en/post/story/), [or](/en/post/or/) [other](/en/post/other/) [work](/en/post/work/) [in](/en/post/in/) [a](/en/post/a/) [newspaper](/en/post/newspaper/) [or](/en/post/or/) [magazine](/en/post/magazine/). [Example](/en/post/example/): "[Read](/en/post/read/) [the](/en/post/the/) editorial [article](/en/post/article/) [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/)."
-    - [A](/en/post/a/) [brief](/en/post/brief/) written [piece](/en/post/piece/), [often](/en/post/often/) [on](/en/post/on/) [a](/en/post/a/) website, discussing [a](/en/post/a/) [particular](/en/post/particular/) [topic](/en/post/topic/). [Example](/en/post/example/): "[The](/en/post/the/) blog [post](/en/post/post/) featured [a](/en/post/a/) [popular](/en/post/popular/) [article](/en/post/article/) [on](/en/post/on/) mindfulness."
-    - [A](/en/post/a/) [grammatical](/en/post/grammatical/) [unit](/en/post/unit/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [number](/en/post/number/) [or](/en/post/or/) gender [of](/en/post/of/) [a](/en/post/a/) [noun](/en/post/noun/) [or](/en/post/or/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) clause. [Example](/en/post/example/): "[Each](/en/post/each/) [student](/en/post/student/) received an [individual](/en/post/individual/) [article](/en/post/article/)."
+- **[Noun](/post/noun/)**: 
+    - [A](/post/a/) written [or](/post/or/) printed [piece](/post/piece/) [that](/post/that/) introduces [or](/post/or/) precedes an [article](/post/article/), [news](/post/news/) [story](/post/story/), [or](/post/or/) [other](/post/other/) [work](/post/work/) [in](/post/in/) [a](/post/a/) [newspaper](/post/newspaper/) [or](/post/or/) [magazine](/post/magazine/). [Example](/post/example/): "[Read](/post/read/) [the](/post/the/) editorial [article](/post/article/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/)."
+    - [A](/post/a/) [brief](/post/brief/) written [piece](/post/piece/), [often](/post/often/) [on](/post/on/) [a](/post/a/) website, discussing [a](/post/a/) [particular](/post/particular/) [topic](/post/topic/). [Example](/post/example/): "[The](/post/the/) blog [post](/post/post/) featured [a](/post/a/) [popular](/post/popular/) [article](/post/article/) [on](/post/on/) mindfulness."
+    - [A](/post/a/) [grammatical](/post/grammatical/) [unit](/post/unit/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [number](/post/number/) [or](/post/or/) gender [of](/post/of/) [a](/post/a/) [noun](/post/noun/) [or](/post/or/) [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) clause. [Example](/post/example/): "[Each](/post/each/) [student](/post/student/) received an [individual](/post/individual/) [article](/post/article/)."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [publish](/en/post/publish/) [or](/en/post/or/) [introduce](/en/post/introduce/) (an [article](/en/post/article/) [or](/en/post/or/) [piece](/en/post/piece/) [of](/en/post/of/) [writing](/en/post/writing/)). [Example](/en/post/example/): "[The](/en/post/the/) [editor](/en/post/editor/) [will](/en/post/will/) [soon](/en/post/soon/) [be](/en/post/be/) [article](/en/post/article/) [about](/en/post/about/) [the](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/)."
-- **[Adjective](/en/post/adjective/)**: 
-    - Designating [one](/en/post/one/) [of](/en/post/of/) [several](/en/post/several/) types [of](/en/post/of/) written [content](/en/post/content/), [such](/en/post/such/) [as](/en/post/as/) [news](/en/post/news/), [opinion](/en/post/opinion/), [or](/en/post/or/) [feature](/en/post/feature/) articles. [Example](/en/post/example/): "[The](/en/post/the/) [magazine](/en/post/magazine/) publishes [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) informative [and](/en/post/and/) [opinion](/en/post/opinion/) articles."
-    - Relating [to](/en/post/to/) [grammar](/en/post/grammar/), indicating [the](/en/post/the/) [relationship](/en/post/relationship/) [between](/en/post/between/) [a](/en/post/a/) [noun](/en/post/noun/) [and](/en/post/and/) [its](/en/post/its/) modifiers. [Example](/en/post/example/): "[The](/en/post/the/) [article](/en/post/article/) [before](/en/post/before/) '[the](/en/post/the/)' is [usually](/en/post/usually/) an [article](/en/post/article/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [publish](/post/publish/) [or](/post/or/) [introduce](/post/introduce/) (an [article](/post/article/) [or](/post/or/) [piece](/post/piece/) [of](/post/of/) [writing](/post/writing/)). [Example](/post/example/): "[The](/post/the/) [editor](/post/editor/) [will](/post/will/) [soon](/post/soon/) [be](/post/be/) [article](/post/article/) [about](/post/about/) [the](/post/the/) [new](/post/new/) [policy](/post/policy/)."
+- **[Adjective](/post/adjective/)**: 
+    - Designating [one](/post/one/) [of](/post/of/) [several](/post/several/) types [of](/post/of/) written [content](/post/content/), [such](/post/such/) [as](/post/as/) [news](/post/news/), [opinion](/post/opinion/), [or](/post/or/) [feature](/post/feature/) articles. [Example](/post/example/): "[The](/post/the/) [magazine](/post/magazine/) publishes [a](/post/a/) [variety](/post/variety/) [of](/post/of/) informative [and](/post/and/) [opinion](/post/opinion/) articles."
+    - Relating [to](/post/to/) [grammar](/post/grammar/), indicating [the](/post/the/) [relationship](/post/relationship/) [between](/post/between/) [a](/post/a/) [noun](/post/noun/) [and](/post/and/) [its](/post/its/) modifiers. [Example](/post/example/): "[The](/post/the/) [article](/post/article/) [before](/post/before/) '[the](/post/the/)' is [usually](/post/usually/) an [article](/post/article/)."
 
 ## Phrases
-- "[Write](/en/post/write/) an [article](/en/post/article/)" [means](/en/post/means/) [to](/en/post/to/) [compose](/en/post/compose/) [a](/en/post/a/) written [piece](/en/post/piece/).
-- "[Feature](/en/post/feature/) [article](/en/post/article/)" refers [to](/en/post/to/) [a](/en/post/a/) longer, in-depth [piece](/en/post/piece/) [on](/en/post/on/) [a](/en/post/a/) [specific](/en/post/specific/) [subject](/en/post/subject/).
-- "[Opinion](/en/post/opinion/) [article](/en/post/article/)" is [a](/en/post/a/) [piece](/en/post/piece/) expressing [the](/en/post/the/) writer's [viewpoint](/en/post/viewpoint/) [on](/en/post/on/) [a](/en/post/a/) [topic](/en/post/topic/).
+- "[Write](/post/write/) an [article](/post/article/)" [means](/post/means/) [to](/post/to/) [compose](/post/compose/) [a](/post/a/) written [piece](/post/piece/).
+- "[Feature](/post/feature/) [article](/post/article/)" refers [to](/post/to/) [a](/post/a/) longer, in-depth [piece](/post/piece/) [on](/post/on/) [a](/post/a/) [specific](/post/specific/) [subject](/post/subject/).
+- "[Opinion](/post/opinion/) [article](/post/article/)" is [a](/post/a/) [piece](/post/piece/) expressing [the](/post/the/) writer's [viewpoint](/post/viewpoint/) [on](/post/on/) [a](/post/a/) [topic](/post/topic/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) newspaper's [front](/en/post/front/) [page](/en/post/page/) featured [two](/en/post/two/) [opinion](/en/post/opinion/) articles [and](/en/post/and/) [a](/en/post/a/) [science](/en/post/science/) [report](/en/post/report/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [author](/en/post/author/) submitted [their](/en/post/their/) latest [article](/en/post/article/) [to](/en/post/to/) [the](/en/post/the/) [literary](/en/post/literary/) [journal](/en/post/journal/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [article](/en/post/article/) '[The](/en/post/the/) [History](/en/post/history/) [of](/en/post/of/) [Chocolate](/en/post/chocolate/)' provides fascinating details."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) newspaper's [front](/post/front/) [page](/post/page/) featured [two](/post/two/) [opinion](/post/opinion/) articles [and](/post/and/) [a](/post/a/) [science](/post/science/) [report](/post/report/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [author](/post/author/) submitted [their](/post/their/) latest [article](/post/article/) [to](/post/to/) [the](/post/the/) [literary](/post/literary/) [journal](/post/journal/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [article](/post/article/) '[The](/post/the/) [History](/post/history/) [of](/post/of/) [Chocolate](/post/chocolate/)' provides fascinating details."
 
 ## Synonyms
-- [Piece](/en/post/piece/)
-- [Article](/en/post/article/) (informal)
-- [Feature](/en/post/feature/)
+- [Piece](/post/piece/)
+- [Article](/post/article/) (informal)
+- [Feature](/post/feature/)
 - Editorial
-- [News](/en/post/news/) [item](/en/post/item/)
-- [Piece](/en/post/piece/) [of](/en/post/of/) [writing](/en/post/writing/)
+- [News](/post/news/) [item](/post/item/)
+- [Piece](/post/piece/) [of](/post/of/) [writing](/post/writing/)
 - Contribution

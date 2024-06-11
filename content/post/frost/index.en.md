@@ -7,30 +7,30 @@ description = '[frɔst] n.冰冻，严寒；霜'
 keywords = ['ai words', 'frost']
 +++
 
-## [Word](/en/post/word/): [Frost](/en/post/frost/)
+## [Word](/post/word/): [Frost](/post/frost/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /froʊst/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) coating [of](/en/post/of/) [minute](/en/post/minute/) [ice](/en/post/ice/) crystals [that](/en/post/that/) forms [on](/en/post/on/) surfaces [when](/en/post/when/) [water](/en/post/water/) vapor freezes [directly](/en/post/directly/) [from](/en/post/from/) [the](/en/post/the/) [air](/en/post/air/), [usually](/en/post/usually/) [overnight](/en/post/overnight/), [often](/en/post/often/) producing [a](/en/post/a/) [white](/en/post/white/) [or](/en/post/or/) [gray](/en/post/gray/) [deposit](/en/post/deposit/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [grass](/en/post/grass/) was covered [with](/en/post/with/) [a](/en/post/a/) [thick](/en/post/thick/) [layer](/en/post/layer/) [of](/en/post/of/) [frost](/en/post/frost/) [this](/en/post/this/) [morning](/en/post/morning/)."
-- **[Verb](/en/post/verb/)**: ([frost](/en/post/frost/) [over](/en/post/over/)) [To](/en/post/to/) [cover](/en/post/cover/) [with](/en/post/with/) [or](/en/post/or/) [become](/en/post/become/) covered [by](/en/post/by/) [frost](/en/post/frost/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) windshield had frosted [over](/en/post/over/) [during](/en/post/during/) [the](/en/post/the/) [night](/en/post/night/)."
-- **[Noun](/en/post/noun/)**: (figurative) [A](/en/post/a/) [cold](/en/post/cold/), unfriendly [atmosphere](/en/post/atmosphere/) [or](/en/post/or/) demeanor. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) frosty [reception](/en/post/reception/) made [it](/en/post/it/) [clear](/en/post/clear/) [he](/en/post/he/) wasn't pleased [to](/en/post/to/) [see](/en/post/see/) [us](/en/post/us/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) coating [of](/post/of/) [minute](/post/minute/) [ice](/post/ice/) crystals [that](/post/that/) forms [on](/post/on/) surfaces [when](/post/when/) [water](/post/water/) vapor freezes [directly](/post/directly/) [from](/post/from/) [the](/post/the/) [air](/post/air/), [usually](/post/usually/) [overnight](/post/overnight/), [often](/post/often/) producing [a](/post/a/) [white](/post/white/) [or](/post/or/) [gray](/post/gray/) [deposit](/post/deposit/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [grass](/post/grass/) was covered [with](/post/with/) [a](/post/a/) [thick](/post/thick/) [layer](/post/layer/) [of](/post/of/) [frost](/post/frost/) [this](/post/this/) [morning](/post/morning/)."
+- **[Verb](/post/verb/)**: ([frost](/post/frost/) [over](/post/over/)) [To](/post/to/) [cover](/post/cover/) [with](/post/with/) [or](/post/or/) [become](/post/become/) covered [by](/post/by/) [frost](/post/frost/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) windshield had frosted [over](/post/over/) [during](/post/during/) [the](/post/the/) [night](/post/night/)."
+- **[Noun](/post/noun/)**: (figurative) [A](/post/a/) [cold](/post/cold/), unfriendly [atmosphere](/post/atmosphere/) [or](/post/or/) demeanor. [For](/post/for/) [example](/post/example/): "[His](/post/his/) frosty [reception](/post/reception/) made [it](/post/it/) [clear](/post/clear/) [he](/post/he/) wasn't pleased [to](/post/to/) [see](/post/see/) [us](/post/us/)."
 
 ## Phrases
-- "Frostbite" refers [to](/en/post/to/) [the](/en/post/the/) [injury](/en/post/injury/) caused [by](/en/post/by/) freezing [that](/en/post/that/) results [in](/en/post/in/) [loss](/en/post/loss/) [of](/en/post/of/) [feeling](/en/post/feeling/) [and](/en/post/and/) [color](/en/post/color/) [in](/en/post/in/) affected areas.
-- "Jack [Frost](/en/post/frost/)" is [a](/en/post/a/) personification [of](/en/post/of/) [frost](/en/post/frost/), [often](/en/post/often/) depicted [as](/en/post/as/) [a](/en/post/a/) mischievous sprite associated [with](/en/post/with/) [winter](/en/post/winter/) [weather](/en/post/weather/).
-- "[A](/en/post/a/) [frost](/en/post/frost/) warning" is issued [when](/en/post/when/) conditions are favorable [for](/en/post/for/) [frost](/en/post/frost/) [formation](/en/post/formation/), typically [in](/en/post/in/) agricultural contexts.
+- "Frostbite" refers [to](/post/to/) [the](/post/the/) [injury](/post/injury/) caused [by](/post/by/) freezing [that](/post/that/) results [in](/post/in/) [loss](/post/loss/) [of](/post/of/) [feeling](/post/feeling/) [and](/post/and/) [color](/post/color/) [in](/post/in/) affected areas.
+- "Jack [Frost](/post/frost/)" is [a](/post/a/) personification [of](/post/of/) [frost](/post/frost/), [often](/post/often/) depicted [as](/post/as/) [a](/post/a/) mischievous sprite associated [with](/post/with/) [winter](/post/winter/) [weather](/post/weather/).
+- "[A](/post/a/) [frost](/post/frost/) warning" is issued [when](/post/when/) conditions are favorable [for](/post/for/) [frost](/post/frost/) [formation](/post/formation/), typically [in](/post/in/) agricultural contexts.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([weather](/en/post/weather/))**: "[The](/en/post/the/) [garden](/en/post/garden/) was destroyed [by](/en/post/by/) an [unexpected](/en/post/unexpected/) [early](/en/post/early/) [frost](/en/post/frost/)."
-- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) defrost [the](/en/post/the/) [car](/en/post/car/) windows [before](/en/post/before/) [we](/en/post/we/) [can](/en/post/can/) [drive](/en/post/drive/) [safely](/en/post/safely/)."
-- **[Noun](/en/post/noun/) (figurative)**: "[Her](/en/post/her/) frosty demeanor suggested [she](/en/post/she/) was [unhappy](/en/post/unhappy/) [with](/en/post/with/) [the](/en/post/the/) [decision](/en/post/decision/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([weather](/post/weather/))**: "[The](/post/the/) [garden](/post/garden/) was destroyed [by](/post/by/) an [unexpected](/post/unexpected/) [early](/post/early/) [frost](/post/frost/)."
+- **[Verb](/post/verb/)**: "[We](/post/we/) [need](/post/need/) [to](/post/to/) defrost [the](/post/the/) [car](/post/car/) windows [before](/post/before/) [we](/post/we/) [can](/post/can/) [drive](/post/drive/) [safely](/post/safely/)."
+- **[Noun](/post/noun/) (figurative)**: "[Her](/post/her/) frosty demeanor suggested [she](/post/she/) was [unhappy](/post/unhappy/) [with](/post/with/) [the](/post/the/) [decision](/post/decision/)."
 
 ## Synonyms
 - Hoarfrost
 - Rime
-- [Freeze](/en/post/freeze/)
-- [Ice](/en/post/ice/) crystals
-- [Cold](/en/post/cold/) snap ([in](/en/post/in/) context [of](/en/post/of/) [weather](/en/post/weather/))
-- Chilly [reception](/en/post/reception/) ([in](/en/post/in/) context [of](/en/post/of/) demeanor)
+- [Freeze](/post/freeze/)
+- [Ice](/post/ice/) crystals
+- [Cold](/post/cold/) snap ([in](/post/in/) context [of](/post/of/) [weather](/post/weather/))
+- Chilly [reception](/post/reception/) ([in](/post/in/) context [of](/post/of/) demeanor)

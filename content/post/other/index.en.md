@@ -7,29 +7,29 @@ description = '[ˈʌðə] a.另外的；其余的'
 keywords = ['ai words', 'other']
 +++
 
-## [Word](/en/post/word/): [Other](/en/post/other/)
+## [Word](/post/word/): [Other](/post/other/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʌðər/
 
 ## Definitions
-- **Determiner**: [Used](/en/post/used/) [before](/en/post/before/) [a](/en/post/a/) [noun](/en/post/noun/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [additional](/en/post/additional/) [people](/en/post/people/) [or](/en/post/or/) things [that](/en/post/that/) are [distinct](/en/post/distinct/) [from](/en/post/from/) [those](/en/post/those/) [already](/en/post/already/) mentioned [or](/en/post/or/) known [about](/en/post/about/). [For](/en/post/for/) [example](/en/post/example/): "I [have](/en/post/have/) [two](/en/post/two/) dogs; [the](/en/post/the/) [other](/en/post/other/) is [white](/en/post/white/)."
-- **[Adjective](/en/post/adjective/)**: Belonging [to](/en/post/to/) [or](/en/post/or/) associated [with](/en/post/with/) [another](/en/post/another/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [different](/en/post/different/) [opinion](/en/post/opinion/); it's [the](/en/post/the/) [other](/en/post/other/) [point](/en/post/point/) [of](/en/post/of/) [view](/en/post/view/)."
-- **[Pronoun](/en/post/pronoun/)**: [Used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is [different](/en/post/different/) [from](/en/post/from/) [one](/en/post/one/) [already](/en/post/already/) mentioned [or](/en/post/or/) known [about](/en/post/about/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [dress](/en/post/dress/) is [too](/en/post/too/) [small](/en/post/small/); I'll [try](/en/post/try/) [on](/en/post/on/) [the](/en/post/the/) [other](/en/post/other/) [one](/en/post/one/)."
+- **Determiner**: [Used](/post/used/) [before](/post/before/) [a](/post/a/) [noun](/post/noun/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [additional](/post/additional/) [people](/post/people/) [or](/post/or/) things [that](/post/that/) are [distinct](/post/distinct/) [from](/post/from/) [those](/post/those/) [already](/post/already/) mentioned [or](/post/or/) known [about](/post/about/). [For](/post/for/) [example](/post/example/): "I [have](/post/have/) [two](/post/two/) dogs; [the](/post/the/) [other](/post/other/) is [white](/post/white/)."
+- **[Adjective](/post/adjective/)**: Belonging [to](/post/to/) [or](/post/or/) associated [with](/post/with/) [another](/post/another/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [different](/post/different/) [opinion](/post/opinion/); it's [the](/post/the/) [other](/post/other/) [point](/post/point/) [of](/post/of/) [view](/post/view/)."
+- **[Pronoun](/post/pronoun/)**: [Used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is [different](/post/different/) [from](/post/from/) [one](/post/one/) [already](/post/already/) mentioned [or](/post/or/) known [about](/post/about/). [For](/post/for/) [example](/post/example/): "[This](/post/this/) [dress](/post/dress/) is [too](/post/too/) [small](/post/small/); I'll [try](/post/try/) [on](/post/on/) [the](/post/the/) [other](/post/other/) [one](/post/one/)."
 
 ## Phrases
-- "[The](/en/post/the/) [other](/en/post/other/) [side](/en/post/side/)": Refers [to](/en/post/to/) [the](/en/post/the/) opposing [or](/en/post/or/) [alternative](/en/post/alternative/) [aspect](/en/post/aspect/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[There](/en/post/there/) are [two](/en/post/two/) sides [to](/en/post/to/) [every](/en/post/every/) [story](/en/post/story/); let's [hear](/en/post/hear/) [the](/en/post/the/) [other](/en/post/other/) [side](/en/post/side/)."
-- "[On](/en/post/on/) [the](/en/post/the/) [other](/en/post/other/) [hand](/en/post/hand/)": Introduces an [alternative](/en/post/alternative/) [or](/en/post/or/) contrasting [viewpoint](/en/post/viewpoint/). [Example](/en/post/example/): "He's [very](/en/post/very/) [intelligent](/en/post/intelligent/), [but](/en/post/but/) [on](/en/post/on/) [the](/en/post/the/) [other](/en/post/other/) [hand](/en/post/hand/), [he](/en/post/he/) [can](/en/post/can/) [be](/en/post/be/) [quite](/en/post/quite/) forgetful."
-- "[Each](/en/post/each/) [other](/en/post/other/)": Refers [to](/en/post/to/) [mutual](/en/post/mutual/) [action](/en/post/action/) [between](/en/post/between/) [two](/en/post/two/) [people](/en/post/people/) [or](/en/post/or/) things. [Example](/en/post/example/): "[They](/en/post/they/) looked [at](/en/post/at/) [each](/en/post/each/) [other](/en/post/other/) [in](/en/post/in/) [surprise](/en/post/surprise/)."
+- "[The](/post/the/) [other](/post/other/) [side](/post/side/)": Refers [to](/post/to/) [the](/post/the/) opposing [or](/post/or/) [alternative](/post/alternative/) [aspect](/post/aspect/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "[There](/post/there/) are [two](/post/two/) sides [to](/post/to/) [every](/post/every/) [story](/post/story/); let's [hear](/post/hear/) [the](/post/the/) [other](/post/other/) [side](/post/side/)."
+- "[On](/post/on/) [the](/post/the/) [other](/post/other/) [hand](/post/hand/)": Introduces an [alternative](/post/alternative/) [or](/post/or/) contrasting [viewpoint](/post/viewpoint/). [Example](/post/example/): "He's [very](/post/very/) [intelligent](/post/intelligent/), [but](/post/but/) [on](/post/on/) [the](/post/the/) [other](/post/other/) [hand](/post/hand/), [he](/post/he/) [can](/post/can/) [be](/post/be/) [quite](/post/quite/) forgetful."
+- "[Each](/post/each/) [other](/post/other/)": Refers [to](/post/to/) [mutual](/post/mutual/) [action](/post/action/) [between](/post/between/) [two](/post/two/) [people](/post/people/) [or](/post/or/) things. [Example](/post/example/): "[They](/post/they/) looked [at](/post/at/) [each](/post/each/) [other](/post/other/) [in](/post/in/) [surprise](/post/surprise/)."
 
-## [Example](/en/post/example/) Sentences
-- **Determiner**: "[We](/en/post/we/) [have](/en/post/have/) [two](/en/post/two/) options; [the](/en/post/the/) [other](/en/post/other/) requires [more](/en/post/more/) funding."
-- **[Adjective](/en/post/adjective/)**: "That's [not](/en/post/not/) [my](/en/post/my/) [car](/en/post/car/); [mine](/en/post/mine/) is [the](/en/post/the/) [other](/en/post/other/) [red](/en/post/red/) [one](/en/post/one/)."
-- **[Pronoun](/en/post/pronoun/)**: "Jack [and](/en/post/and/) Jill [dislike](/en/post/dislike/) [each](/en/post/each/) [other](/en/post/other/)."
+## [Example](/post/example/) Sentences
+- **Determiner**: "[We](/post/we/) [have](/post/have/) [two](/post/two/) options; [the](/post/the/) [other](/post/other/) requires [more](/post/more/) funding."
+- **[Adjective](/post/adjective/)**: "That's [not](/post/not/) [my](/post/my/) [car](/post/car/); [mine](/post/mine/) is [the](/post/the/) [other](/post/other/) [red](/post/red/) [one](/post/one/)."
+- **[Pronoun](/post/pronoun/)**: "Jack [and](/post/and/) Jill [dislike](/post/dislike/) [each](/post/each/) [other](/post/other/)."
 
 ## Synonyms
-- [Different](/en/post/different/)
-- [Alternative](/en/post/alternative/)
-- [Another](/en/post/another/)
-- [Additional](/en/post/additional/)
-- [Separate](/en/post/separate/)
+- [Different](/post/different/)
+- [Alternative](/post/alternative/)
+- [Another](/post/another/)
+- [Additional](/post/additional/)
+- [Separate](/post/separate/)

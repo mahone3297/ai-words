@@ -11,17 +11,17 @@ keywords = ['ai words', 'thirdly']
 /ˈθɜːrdli/
 
 ## 释义
-- **副词**: 第三，其次，第三点。常用来引出一个观点或论据的第三个方面。例如: "Firstly, [we](/post/we/) discussed [the](/post/the/) [plan](/post/plan/); [secondly](/post/secondly/), [we](/post/we/) considered [the](/post/the/) budget; [thirdly](/post/thirdly/), [we](/post/we/) talked [about](/post/about/) [potential](/post/potential/) challenges."
+- **副词**: 第三，其次，第三点。常用来引出一个观点或论据的第三个方面。例如: "Firstly, [we](/zh/post/we/) discussed [the](/zh/post/the/) [plan](/zh/post/plan/); [secondly](/zh/post/secondly/), [we](/zh/post/we/) considered [the](/zh/post/the/) budget; [thirdly](/zh/post/thirdly/), [we](/zh/post/we/) talked [about](/zh/post/about/) [potential](/zh/post/potential/) challenges."
 
 ## 短语
-- "[Thirdly](/post/thirdly/), [but](/post/but/) [no](/post/no/) [less](/post/less/) [important](/post/important/)" 用来强调尽管是第三个提出的，但同样重要。
+- "[Thirdly](/zh/post/thirdly/), [but](/zh/post/but/) [no](/zh/post/no/) [less](/zh/post/less/) [important](/zh/post/important/)" 用来强调尽管是第三个提出的，但同样重要。
 
 ## 例句
-"[First](/post/first/), [we](/post/we/) [need](/post/need/) [to](/post/to/) [gather](/post/gather/) [information](/post/information/); [second](/post/second/), [we](/post/we/) [must](/post/must/) analyze [it](/post/it/); [thirdly](/post/thirdly/), [we](/post/we/) [should](/post/should/) [develop](/post/develop/) [a](/post/a/) [strategy](/post/strategy/)."
+"[First](/zh/post/first/), [we](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [gather](/zh/post/gather/) [information](/zh/post/information/); [second](/zh/post/second/), [we](/zh/post/we/) [must](/zh/post/must/) analyze [it](/zh/post/it/); [thirdly](/zh/post/thirdly/), [we](/zh/post/we/) [should](/zh/post/should/) [develop](/zh/post/develop/) [a](/zh/post/a/) [strategy](/zh/post/strategy/)."
 
 ## 同义词
 - Additionally
-- [Furthermore](/post/furthermore/)
-- [Moreover](/post/moreover/)
-- [In](/post/in/) [addition](/post/addition/)
-- [Besides](/post/besides/)
+- [Furthermore](/zh/post/furthermore/)
+- [Moreover](/zh/post/moreover/)
+- [In](/zh/post/in/) [addition](/zh/post/addition/)
+- [Besides](/zh/post/besides/)

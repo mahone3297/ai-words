@@ -11,19 +11,19 @@ keywords = ['ai words', 'clothe']
 /kləʊð/
 
 ## 释义
-- **动词**: 给予衣物；穿着，装扮。例如: "[She](/post/she/) clothed [herself](/post/herself/) [in](/post/in/) [a](/post/a/) [beautiful](/post/beautiful/) [dress](/post/dress/) [for](/post/for/) [the](/post/the/) [event](/post/event/)."
-- **名词**: 衣物，衣服。例如: "[The](/post/the/) [baby](/post/baby/) needs [new](/post/new/) [clothes](/post/clothes/) [for](/post/for/) [the](/post/the/) [winter](/post/winter/)."
+- **动词**: 给予衣物；穿着，装扮。例如: "[She](/zh/post/she/) clothed [herself](/zh/post/herself/) [in](/zh/post/in/) [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [dress](/zh/post/dress/) [for](/zh/post/for/) [the](/zh/post/the/) [event](/zh/post/event/)."
+- **名词**: 衣物，衣服。例如: "[The](/zh/post/the/) [baby](/zh/post/baby/) needs [new](/zh/post/new/) [clothes](/zh/post/clothes/) [for](/zh/post/for/) [the](/zh/post/the/) [winter](/zh/post/winter/)."
 
 ## 短语
-- "[to](/post/to/) [be](/post/be/) clothed [in](/post/in/) [something](/post/something/)" 意味着穿着某物。
-- "[clothing](/post/clothing/) allowance" 是指服装补贴或衣物津贴。
+- "[to](/zh/post/to/) [be](/zh/post/be/) clothed [in](/zh/post/in/) [something](/zh/post/something/)" 意味着穿着某物。
+- "[clothing](/zh/post/clothing/) allowance" 是指服装补贴或衣物津贴。
 
 ## 例句
-- 动词: "[The](/post/the/) [mother](/post/mother/) clothed [her](/post/her/) [child](/post/child/) [in](/post/in/) [a](/post/a/) cozy [sweater](/post/sweater/) [before](/post/before/) going [out](/post/out/)."
-- 名词: "[The](/post/the/) [store](/post/store/) had [a](/post/a/) [wide](/post/wide/) [variety](/post/variety/) [of](/post/of/) [clothes](/post/clothes/) [for](/post/for/) [all](/post/all/) seasons."
+- 动词: "[The](/zh/post/the/) [mother](/zh/post/mother/) clothed [her](/zh/post/her/) [child](/zh/post/child/) [in](/zh/post/in/) [a](/zh/post/a/) cozy [sweater](/zh/post/sweater/) [before](/zh/post/before/) going [out](/zh/post/out/)."
+- 名词: "[The](/zh/post/the/) [store](/zh/post/store/) had [a](/zh/post/a/) [wide](/zh/post/wide/) [variety](/zh/post/variety/) [of](/zh/post/of/) [clothes](/zh/post/clothes/) [for](/zh/post/for/) [all](/zh/post/all/) seasons."
 
 ## 同义词
-- [Dress](/post/dress/)
+- [Dress](/zh/post/dress/)
 - Garment
 - Attire
 - Outfit

@@ -7,33 +7,33 @@ description = '[kɔːrəˈspɔnd] vi.相符合；相当'
 keywords = ['ai words', 'correspond']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kərˈsɒrpənd/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) correspondence [with](/en/post/with/); [to](/en/post/to/) [communicate](/en/post/communicate/) [by](/en/post/by/) [writing](/en/post/writing/), sending messages, [or](/en/post/or/) exchanging letters. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [two](/en/post/two/) friends [correspond](/en/post/correspond/) [regularly](/en/post/regularly/)."
-- **[Noun](/en/post/noun/)**: [Communication](/en/post/communication/) [or](/en/post/or/) [exchange](/en/post/exchange/) [of](/en/post/of/) letters [or](/en/post/or/) messages [between](/en/post/between/) individuals. [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) correspondence revealed [their](/en/post/their/) shared interests."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [corresponding](/en/post/corresponding/); matching [or](/en/post/or/) agreeing. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) colors [of](/en/post/of/) [the](/en/post/the/) curtains [correspond](/en/post/correspond/) [perfectly](/en/post/perfectly/) [with](/en/post/with/) [the](/en/post/the/) walls."
+- **[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) [in](/post/in/) correspondence [with](/post/with/); [to](/post/to/) [communicate](/post/communicate/) [by](/post/by/) [writing](/post/writing/), sending messages, [or](/post/or/) exchanging letters. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [two](/post/two/) friends [correspond](/post/correspond/) [regularly](/post/regularly/)."
+- **[Noun](/post/noun/)**: [Communication](/post/communication/) [or](/post/or/) [exchange](/post/exchange/) [of](/post/of/) letters [or](/post/or/) messages [between](/post/between/) individuals. [For](/post/for/) [example](/post/example/): "[Their](/post/their/) correspondence revealed [their](/post/their/) shared interests."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [corresponding](/post/corresponding/); matching [or](/post/or/) agreeing. [For](/post/for/) [example](/post/example/): "[The](/post/the/) colors [of](/post/of/) [the](/post/the/) curtains [correspond](/post/correspond/) [perfectly](/post/perfectly/) [with](/post/with/) [the](/post/the/) walls."
 
 ## Phrases
-- "Correspondence [course](/en/post/course/)" refers [to](/en/post/to/) [a](/en/post/a/) [study](/en/post/study/) [program](/en/post/program/) done [through](/en/post/through/) [mail](/en/post/mail/) [or](/en/post/or/) online.
-- "[Maintain](/en/post/maintain/) correspondence" [means](/en/post/means/) [to](/en/post/to/) [keep](/en/post/keep/) [regular](/en/post/regular/) [communication](/en/post/communication/) [with](/en/post/with/) [someone](/en/post/someone/).
-- "[Out](/en/post/out/) [of](/en/post/of/) correspondence" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [out](/en/post/out/) [of](/en/post/of/) [touch](/en/post/touch/) [or](/en/post/or/) [not](/en/post/not/) [in](/en/post/in/) [contact](/en/post/contact/).
+- "Correspondence [course](/post/course/)" refers [to](/post/to/) [a](/post/a/) [study](/post/study/) [program](/post/program/) done [through](/post/through/) [mail](/post/mail/) [or](/post/or/) online.
+- "[Maintain](/post/maintain/) correspondence" [means](/post/means/) [to](/post/to/) [keep](/post/keep/) [regular](/post/regular/) [communication](/post/communication/) [with](/post/with/) [someone](/post/someone/).
+- "[Out](/post/out/) [of](/post/of/) correspondence" [means](/post/means/) [to](/post/to/) [be](/post/be/) [out](/post/out/) [of](/post/of/) [touch](/post/touch/) [or](/post/or/) [not](/post/not/) [in](/post/in/) [contact](/post/contact/).
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) moving [to](/en/post/to/) [a](/en/post/a/) [different](/en/post/different/) [city](/en/post/city/), [they](/en/post/they/) started [corresponding](/en/post/corresponding/) [via](/en/post/via/) email."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) students were asked [to](/en/post/to/) [submit](/en/post/submit/) [their](/en/post/their/) essays [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) correspondence [component](/en/post/component/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [data](/en/post/data/) points [on](/en/post/on/) [the](/en/post/the/) [graph](/en/post/graph/) are well-corresponding."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[After](/post/after/) moving [to](/post/to/) [a](/post/a/) [different](/post/different/) [city](/post/city/), [they](/post/they/) started [corresponding](/post/corresponding/) [via](/post/via/) email."
+- **[Noun](/post/noun/)**: "[The](/post/the/) students were asked [to](/post/to/) [submit](/post/submit/) [their](/post/their/) essays [as](/post/as/) [part](/post/part/) [of](/post/of/) [the](/post/the/) correspondence [component](/post/component/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [data](/post/data/) points [on](/post/on/) [the](/post/the/) [graph](/post/graph/) are well-corresponding."
 
 ## Synonyms
-- [Communicate](/en/post/communicate/)
-- [Exchange](/en/post/exchange/) letters
-- [Connect](/en/post/connect/)
-- [Coordinate](/en/post/coordinate/)
-- [Match](/en/post/match/)
+- [Communicate](/post/communicate/)
+- [Exchange](/post/exchange/) letters
+- [Connect](/post/connect/)
+- [Coordinate](/post/coordinate/)
+- [Match](/post/match/)
 
 ## Antonyms
-- [Disagree](/en/post/disagree/)
-- [Contrast](/en/post/contrast/)
-- [Oppose](/en/post/oppose/)
+- [Disagree](/post/disagree/)
+- [Contrast](/post/contrast/)
+- [Oppose](/post/oppose/)
 - Misalign

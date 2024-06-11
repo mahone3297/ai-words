@@ -7,40 +7,40 @@ description = '[plʌs] prep.加，加上 a.正的'
 keywords = ['ai words', 'plus']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /plʌs/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [plus](/en/post/plus/) [sign](/en/post/sign/) (+) represents [addition](/en/post/addition/) [or](/en/post/or/) [a](/en/post/a/) [positive](/en/post/positive/) [quantity](/en/post/quantity/) [in](/en/post/in/) [mathematics](/en/post/mathematics/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [indicate](/en/post/indicate/) [something](/en/post/something/) [additional](/en/post/additional/) [or](/en/post/or/) favorable. [In](/en/post/in/) computing, [it](/en/post/it/) [often](/en/post/often/) refers [to](/en/post/to/) [a](/en/post/a/) [feature](/en/post/feature/) [or](/en/post/or/) [option](/en/post/option/).
+### [Noun](/post/noun/)
+[A](/post/a/) [plus](/post/plus/) [sign](/post/sign/) (+) represents [addition](/post/addition/) [or](/post/or/) [a](/post/a/) [positive](/post/positive/) [quantity](/post/quantity/) [in](/post/in/) [mathematics](/post/mathematics/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [indicate](/post/indicate/) [something](/post/something/) [additional](/post/additional/) [or](/post/or/) favorable. [In](/post/in/) computing, [it](/post/it/) [often](/post/often/) refers [to](/post/to/) [a](/post/a/) [feature](/post/feature/) [or](/post/or/) [option](/post/option/).
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) "[plus](/en/post/plus/)" [something](/en/post/something/) [means](/en/post/means/) [to](/en/post/to/) [include](/en/post/include/) [it](/en/post/it/), [add](/en/post/add/) [it](/en/post/it/), [or](/en/post/or/) [consider](/en/post/consider/) [it](/en/post/it/) [as](/en/post/as/) an [extra](/en/post/extra/) [benefit](/en/post/benefit/) [or](/en/post/or/) [component](/en/post/component/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) informally [to](/en/post/to/) [express](/en/post/express/) increment [or](/en/post/or/) enhancement.
+### [Verb](/post/verb/)
+[To](/post/to/) "[plus](/post/plus/)" [something](/post/something/) [means](/post/means/) [to](/post/to/) [include](/post/include/) [it](/post/it/), [add](/post/add/) [it](/post/it/), [or](/post/or/) [consider](/post/consider/) [it](/post/it/) [as](/post/as/) an [extra](/post/extra/) [benefit](/post/benefit/) [or](/post/or/) [component](/post/component/). [It](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) informally [to](/post/to/) [express](/post/express/) increment [or](/post/or/) enhancement.
 
-### [Adjective](/en/post/adjective/)
-[In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) numbers, "[plus](/en/post/plus/)" [means](/en/post/means/) greater [than](/en/post/than/) [zero](/en/post/zero/) [or](/en/post/or/) [positive](/en/post/positive/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) denote superiority [or](/en/post/or/) [advantage](/en/post/advantage/).
+### [Adjective](/post/adjective/)
+[In](/post/in/) [the](/post/the/) context [of](/post/of/) numbers, "[plus](/post/plus/)" [means](/post/means/) greater [than](/post/than/) [zero](/post/zero/) [or](/post/or/) [positive](/post/positive/). [It](/post/it/) [can](/post/can/) [also](/post/also/) denote superiority [or](/post/or/) [advantage](/post/advantage/).
 
-### [Adverb](/en/post/adverb/)
-[Sometimes](/en/post/sometimes/) [used](/en/post/used/) informally [to](/en/post/to/) [mean](/en/post/mean/) "[in](/en/post/in/) [addition](/en/post/addition/)" [or](/en/post/or/) "[moreover](/en/post/moreover/)," expressing [that](/en/post/that/) [something](/en/post/something/) is added [or](/en/post/or/) enhanced.
+### [Adverb](/post/adverb/)
+[Sometimes](/post/sometimes/) [used](/post/used/) informally [to](/post/to/) [mean](/post/mean/) "[in](/post/in/) [addition](/post/addition/)" [or](/post/or/) "[moreover](/post/moreover/)," expressing [that](/post/that/) [something](/post/something/) is added [or](/post/or/) enhanced.
 
 ## Phrases
-- "[Add](/en/post/add/) [a](/en/post/a/) [plus](/en/post/plus/) [one](/en/post/one/)" [to](/en/post/to/) [indicate](/en/post/indicate/) an [additional](/en/post/additional/) [person](/en/post/person/) [or](/en/post/or/) [unit](/en/post/unit/).
-- "[Plus](/en/post/plus/) [side](/en/post/side/)" refers [to](/en/post/to/) [the](/en/post/the/) [positive](/en/post/positive/) aspects [or](/en/post/or/) benefits [of](/en/post/of/) [a](/en/post/a/) [situation](/en/post/situation/).
-- "[Plus](/en/post/plus/) [size](/en/post/size/)" is [a](/en/post/a/) [clothing](/en/post/clothing/) [measurement](/en/post/measurement/) indicating larger sizes.
-- "Plus-minus" (±) indicates [a](/en/post/a/) [range](/en/post/range/) [of](/en/post/of/) values, [both](/en/post/both/) [above](/en/post/above/) [and](/en/post/and/) [below](/en/post/below/) [a](/en/post/a/) stated [value](/en/post/value/).
+- "[Add](/post/add/) [a](/post/a/) [plus](/post/plus/) [one](/post/one/)" [to](/post/to/) [indicate](/post/indicate/) an [additional](/post/additional/) [person](/post/person/) [or](/post/or/) [unit](/post/unit/).
+- "[Plus](/post/plus/) [side](/post/side/)" refers [to](/post/to/) [the](/post/the/) [positive](/post/positive/) aspects [or](/post/or/) benefits [of](/post/of/) [a](/post/a/) [situation](/post/situation/).
+- "[Plus](/post/plus/) [size](/post/size/)" is [a](/post/a/) [clothing](/post/clothing/) [measurement](/post/measurement/) indicating larger sizes.
+- "Plus-minus" (±) indicates [a](/post/a/) [range](/post/range/) [of](/post/of/) values, [both](/post/both/) [above](/post/above/) [and](/post/and/) [below](/post/below/) [a](/post/a/) stated [value](/post/value/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [equation](/en/post/equation/) shows 3 [plus](/en/post/plus/) 5 equals 8."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) [the](/en/post/the/) [course](/en/post/course/) [with](/en/post/with/) [the](/en/post/the/) [plus](/en/post/plus/) features included."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [model](/en/post/model/) has [a](/en/post/a/) [plus](/en/post/plus/) [screen](/en/post/screen/) [size](/en/post/size/) compared [to](/en/post/to/) [the](/en/post/the/) [previous](/en/post/previous/) [one](/en/post/one/)."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) [project](/en/post/project/) had [several](/en/post/several/) [plus](/en/post/plus/) points, making [it](/en/post/it/) [stand](/en/post/stand/) [out](/en/post/out/) [among](/en/post/among/) others."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [equation](/post/equation/) shows 3 [plus](/post/plus/) 5 equals 8."
+- **[Verb](/post/verb/)**: "[She](/post/she/) decided [to](/post/to/) [take](/post/take/) [the](/post/the/) [course](/post/course/) [with](/post/with/) [the](/post/the/) [plus](/post/plus/) features included."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [model](/post/model/) has [a](/post/a/) [plus](/post/plus/) [screen](/post/screen/) [size](/post/size/) compared [to](/post/to/) [the](/post/the/) [previous](/post/previous/) [one](/post/one/)."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) [project](/post/project/) had [several](/post/several/) [plus](/post/plus/) points, making [it](/post/it/) [stand](/post/stand/) [out](/post/out/) [among](/post/among/) others."
 
 ## Synonyms
 - Plus-side
-- [Additional](/en/post/additional/)
+- [Additional](/post/additional/)
 - Advantageous
 - Enhanced
-- [Excess](/en/post/excess/)
+- [Excess](/post/excess/)
 - Incremental
-- [Positive](/en/post/positive/)
+- [Positive](/post/positive/)
 - Upbeat

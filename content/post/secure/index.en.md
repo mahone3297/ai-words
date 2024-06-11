@@ -7,38 +7,38 @@ description = '[siˈkjuə] a.安心的；安全的'
 keywords = ['ai words', 'secure']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈkʊr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Adjective](/en/post/adjective/)**: Firmly held [or](/en/post/or/) protected [from](/en/post/from/) [harm](/en/post/harm/) [or](/en/post/or/) [risk](/en/post/risk/); [not](/en/post/not/) [liable](/en/post/liable/) [to](/en/post/to/) [be](/en/post/be/) lost, stolen, [or](/en/post/or/) damaged. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) ensures [the](/en/post/the/) [security](/en/post/security/) [of](/en/post/of/) [its](/en/post/its/) [data](/en/post/data/)."
-2. **[Noun](/en/post/noun/)**: [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [being](/en/post/being/) [safe](/en/post/safe/) [or](/en/post/or/) protected; [confidence](/en/post/confidence/) [in](/en/post/in/) [oneself](/en/post/oneself/) [or](/en/post/or/) [a](/en/post/a/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) felt [secure](/en/post/secure/) [in](/en/post/in/) [her](/en/post/her/) [relationship](/en/post/relationship/)."
+### [Noun](/post/noun/)
+1. **[Adjective](/post/adjective/)**: Firmly held [or](/post/or/) protected [from](/post/from/) [harm](/post/harm/) [or](/post/or/) [risk](/post/risk/); [not](/post/not/) [liable](/post/liable/) [to](/post/to/) [be](/post/be/) lost, stolen, [or](/post/or/) damaged. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [company](/post/company/) ensures [the](/post/the/) [security](/post/security/) [of](/post/of/) [its](/post/its/) [data](/post/data/)."
+2. **[Noun](/post/noun/)**: [A](/post/a/) [feeling](/post/feeling/) [of](/post/of/) [being](/post/being/) [safe](/post/safe/) [or](/post/or/) protected; [confidence](/post/confidence/) [in](/post/in/) [oneself](/post/oneself/) [or](/post/or/) [a](/post/a/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) felt [secure](/post/secure/) [in](/post/in/) [her](/post/her/) [relationship](/post/relationship/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [safe](/en/post/safe/) [from](/en/post/from/) [harm](/en/post/harm/), [danger](/en/post/danger/), [or](/en/post/or/) unauthorized [access](/en/post/access/). [For](/en/post/for/) [example](/en/post/example/): "[We](/en/post/we/) secured [the](/en/post/the/) [building](/en/post/building/) [before](/en/post/before/) leaving."
-2. [To](/en/post/to/) [ensure](/en/post/ensure/) [the](/en/post/the/) confidentiality [or](/en/post/or/) integrity [of](/en/post/of/) [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) securely encrypted [all](/en/post/all/) [sensitive](/en/post/sensitive/) [data](/en/post/data/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [make](/post/make/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/) [safe](/post/safe/) [from](/post/from/) [harm](/post/harm/), [danger](/post/danger/), [or](/post/or/) unauthorized [access](/post/access/). [For](/post/for/) [example](/post/example/): "[We](/post/we/) secured [the](/post/the/) [building](/post/building/) [before](/post/before/) leaving."
+2. [To](/post/to/) [ensure](/post/ensure/) [the](/post/the/) confidentiality [or](/post/or/) integrity [of](/post/of/) [information](/post/information/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) securely encrypted [all](/post/all/) [sensitive](/post/sensitive/) [data](/post/data/)."
 
-### [Adverb](/en/post/adverb/)
-1. [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) provides [safety](/en/post/safety/) [or](/en/post/or/) [protection](/en/post/protection/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) locked [the](/en/post/the/) [door](/en/post/door/) securely."
+### [Adverb](/post/adverb/)
+1. [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) provides [safety](/post/safety/) [or](/post/or/) [protection](/post/protection/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) locked [the](/post/the/) [door](/post/door/) securely."
 
 ## Phrases
-- "[Feel](/en/post/feel/) [secure](/en/post/secure/)"
-- "[Secure](/en/post/secure/) [the](/en/post/the/) perimeter"
-- "[Secure](/en/post/secure/) [a](/en/post/a/) [job](/en/post/job/)"
-- "[Secure](/en/post/secure/) [a](/en/post/a/) [loan](/en/post/loan/)"
-- "[Secure](/en/post/secure/) [the](/en/post/the/) [vote](/en/post/vote/)"
+- "[Feel](/post/feel/) [secure](/post/secure/)"
+- "[Secure](/post/secure/) [the](/post/the/) perimeter"
+- "[Secure](/post/secure/) [a](/post/a/) [job](/post/job/)"
+- "[Secure](/post/secure/) [a](/post/a/) [loan](/post/loan/)"
+- "[Secure](/post/secure/) [the](/post/the/) [vote](/post/vote/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) slept soundly, [feeling](/en/post/feeling/) [secure](/en/post/secure/) [in](/en/post/in/) [her](/en/post/her/) [new](/en/post/new/) [home](/en/post/home/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) hired [a](/en/post/a/) [security](/en/post/security/) [expert](/en/post/expert/) [to](/en/post/to/) [secure](/en/post/secure/) [their](/en/post/their/) facilities."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) [always](/en/post/always/) double-checks [the](/en/post/the/) locks [to](/en/post/to/) [secure](/en/post/secure/) [his](/en/post/his/) belongings."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) slept soundly, [feeling](/post/feeling/) [secure](/post/secure/) [in](/post/in/) [her](/post/her/) [new](/post/new/) [home](/post/home/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [company](/post/company/) hired [a](/post/a/) [security](/post/security/) [expert](/post/expert/) [to](/post/to/) [secure](/post/secure/) [their](/post/their/) facilities."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) [always](/post/always/) double-checks [the](/post/the/) locks [to](/post/to/) [secure](/post/secure/) [his](/post/his/) belongings."
 
 ## Synonyms
-- [Safe](/en/post/safe/)
+- [Safe](/post/safe/)
 - Protected
-- [Reliable](/en/post/reliable/)
-- [Stable](/en/post/stable/)
+- [Reliable](/post/reliable/)
+- [Stable](/post/stable/)
 - Insulated
 - Defended
 - Shielded
@@ -51,4 +51,4 @@ keywords = ['ai words', 'secure']
 - Hazardous
 - Unprotected
 - Unsafe
-- [Unstable](/en/post/unstable/)
+- [Unstable](/post/unstable/)

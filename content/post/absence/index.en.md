@@ -7,27 +7,27 @@ description = '[ˈæbsəns] n.缺席，不在场；缺乏'
 keywords = ['ai words', 'absence']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈæbsəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [away](/en/post/away/) [from](/en/post/from/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [person](/en/post/person/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [long](/en/post/long/) [absence](/en/post/absence/) [from](/en/post/from/) [work](/en/post/work/) raised concerns [among](/en/post/among/) [her](/en/post/her/) colleagues."
+- **[Noun](/post/noun/)**: [The](/post/the/) [state](/post/state/) [of](/post/of/) [being](/post/being/) [away](/post/away/) [from](/post/from/) [a](/post/a/) [place](/post/place/) [or](/post/or/) [person](/post/person/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [long](/post/long/) [absence](/post/absence/) [from](/post/from/) [work](/post/work/) raised concerns [among](/post/among/) [her](/post/her/) colleagues."
 
 ## Phrases
-- "[In](/en/post/in/) someone's [absence](/en/post/absence/)": [While](/en/post/while/) [someone](/en/post/someone/) is [not](/en/post/not/) [present](/en/post/present/). [Example](/en/post/example/): "Decisions were made [in](/en/post/in/) [his](/en/post/his/) [absence](/en/post/absence/)."
-- "[Absence](/en/post/absence/) makes [the](/en/post/the/) [heart](/en/post/heart/) [grow](/en/post/grow/) fonder": [A](/en/post/a/) saying implying [that](/en/post/that/) [when](/en/post/when/) [apart](/en/post/apart/) [from](/en/post/from/) [someone](/en/post/someone/), one's feelings [of](/en/post/of/) [affection](/en/post/affection/) [increase](/en/post/increase/). 
-- "An [absence](/en/post/absence/) [of](/en/post/of/) [evidence](/en/post/evidence/)": [The](/en/post/the/) [lack](/en/post/lack/) [of](/en/post/of/) [proof](/en/post/proof/) [or](/en/post/or/) [information](/en/post/information/) [about](/en/post/about/) [something](/en/post/something/). [Example](/en/post/example/): "[There](/en/post/there/) was an [absence](/en/post/absence/) [of](/en/post/of/) [evidence](/en/post/evidence/) [to](/en/post/to/) [support](/en/post/support/) [his](/en/post/his/) claims."
+- "[In](/post/in/) someone's [absence](/post/absence/)": [While](/post/while/) [someone](/post/someone/) is [not](/post/not/) [present](/post/present/). [Example](/post/example/): "Decisions were made [in](/post/in/) [his](/post/his/) [absence](/post/absence/)."
+- "[Absence](/post/absence/) makes [the](/post/the/) [heart](/post/heart/) [grow](/post/grow/) fonder": [A](/post/a/) saying implying [that](/post/that/) [when](/post/when/) [apart](/post/apart/) [from](/post/from/) [someone](/post/someone/), one's feelings [of](/post/of/) [affection](/post/affection/) [increase](/post/increase/). 
+- "An [absence](/post/absence/) [of](/post/of/) [evidence](/post/evidence/)": [The](/post/the/) [lack](/post/lack/) [of](/post/of/) [proof](/post/proof/) [or](/post/or/) [information](/post/information/) [about](/post/about/) [something](/post/something/). [Example](/post/example/): "[There](/post/there/) was an [absence](/post/absence/) [of](/post/of/) [evidence](/post/evidence/) [to](/post/to/) [support](/post/support/) [his](/post/his/) claims."
 
-## [Example](/en/post/example/) Sentences
-- "[The](/en/post/the/) [teacher](/en/post/teacher/) noticed [a](/en/post/a/) [significant](/en/post/significant/) [improvement](/en/post/improvement/) [in](/en/post/in/) [the](/en/post/the/) [classroom](/en/post/classroom/) [atmosphere](/en/post/atmosphere/) [during](/en/post/during/) [the](/en/post/the/) troublemaker's [absence](/en/post/absence/)."
-- "[After](/en/post/after/) [a](/en/post/a/) [month](/en/post/month/) [of](/en/post/of/) traveling, [he](/en/post/he/) felt [the](/en/post/the/) [ache](/en/post/ache/) [of](/en/post/of/) [his](/en/post/his/) family's [absence](/en/post/absence/)."
-- "[The](/en/post/the/) [investigation](/en/post/investigation/) concluded [with](/en/post/with/) an acknowledgment [of](/en/post/of/) [the](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/) [any](/en/post/any/) wrongdoing."
+## [Example](/post/example/) Sentences
+- "[The](/post/the/) [teacher](/post/teacher/) noticed [a](/post/a/) [significant](/post/significant/) [improvement](/post/improvement/) [in](/post/in/) [the](/post/the/) [classroom](/post/classroom/) [atmosphere](/post/atmosphere/) [during](/post/during/) [the](/post/the/) troublemaker's [absence](/post/absence/)."
+- "[After](/post/after/) [a](/post/a/) [month](/post/month/) [of](/post/of/) traveling, [he](/post/he/) felt [the](/post/the/) [ache](/post/ache/) [of](/post/of/) [his](/post/his/) family's [absence](/post/absence/)."
+- "[The](/post/the/) [investigation](/post/investigation/) concluded [with](/post/with/) an acknowledgment [of](/post/of/) [the](/post/the/) [absence](/post/absence/) [of](/post/of/) [any](/post/any/) wrongdoing."
 
 ## Synonyms
 - Absenting
-- [Lack](/en/post/lack/)
-- [Want](/en/post/want/)
+- [Lack](/post/lack/)
+- [Want](/post/want/)
 - Nonattendance
-- [Missing](/en/post/missing/)
+- [Missing](/post/missing/)
 - Void
-- [Gap](/en/post/gap/)
+- [Gap](/post/gap/)

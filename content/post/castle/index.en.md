@@ -7,37 +7,37 @@ description = '[ˈkæsl] n.城堡；巨大建筑物'
 keywords = ['ai words', 'castle']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kæstl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [large](/en/post/large/) fortified [structure](/en/post/structure/) built [for](/en/post/for/) defense, [often](/en/post/often/) having [a](/en/post/a/) [keep](/en/post/keep/) [or](/en/post/or/) [multiple](/en/post/multiple/) towers, typically associated [with](/en/post/with/) medieval times: *[The](/en/post/the/) [castle](/en/post/castle/) stood [tall](/en/post/tall/) [and](/en/post/and/) [proud](/en/post/proud/) [on](/en/post/on/) [the](/en/post/the/) [hill](/en/post/hill/).*
-2. [A](/en/post/a/) [place](/en/post/place/) considered [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) [secure](/en/post/secure/) [or](/en/post/or/) luxurious [retreat](/en/post/retreat/): *[She](/en/post/she/) dreamed [of](/en/post/of/) [living](/en/post/living/) [in](/en/post/in/) [a](/en/post/a/) [castle](/en/post/castle/) [by](/en/post/by/) [the](/en/post/the/) [sea](/en/post/sea/).*
+### [Noun](/post/noun/)
+1. [A](/post/a/) [large](/post/large/) fortified [structure](/post/structure/) built [for](/post/for/) defense, [often](/post/often/) having [a](/post/a/) [keep](/post/keep/) [or](/post/or/) [multiple](/post/multiple/) towers, typically associated [with](/post/with/) medieval times: *[The](/post/the/) [castle](/post/castle/) stood [tall](/post/tall/) [and](/post/and/) [proud](/post/proud/) [on](/post/on/) [the](/post/the/) [hill](/post/hill/).*
+2. [A](/post/a/) [place](/post/place/) considered [to](/post/to/) [be](/post/be/) [a](/post/a/) [secure](/post/secure/) [or](/post/or/) luxurious [retreat](/post/retreat/): *[She](/post/she/) dreamed [of](/post/of/) [living](/post/living/) [in](/post/in/) [a](/post/a/) [castle](/post/castle/) [by](/post/by/) [the](/post/the/) [sea](/post/sea/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [go](/en/post/go/) [or](/en/post/or/) [come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) [castle](/en/post/castle/), [especially](/en/post/especially/) [as](/en/post/as/) [a](/en/post/a/) [visitor](/en/post/visitor/): *[We](/en/post/we/) visited [several](/en/post/several/) castles [during](/en/post/during/) [our](/en/post/our/) European [vacation](/en/post/vacation/).*
-2. [To](/en/post/to/) [occupy](/en/post/occupy/) [or](/en/post/or/) [take](/en/post/take/) [control](/en/post/control/) [of](/en/post/of/) [a](/en/post/a/) [position](/en/post/position/) [or](/en/post/or/) stronghold: *[The](/en/post/the/) knights stormed [the](/en/post/the/) enemy's [castle](/en/post/castle/) [and](/en/post/and/) took [it](/en/post/it/) [by](/en/post/by/) [force](/en/post/force/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [go](/post/go/) [or](/post/or/) [come](/post/come/) [to](/post/to/) [a](/post/a/) [castle](/post/castle/), [especially](/post/especially/) [as](/post/as/) [a](/post/a/) [visitor](/post/visitor/): *[We](/post/we/) visited [several](/post/several/) castles [during](/post/during/) [our](/post/our/) European [vacation](/post/vacation/).*
+2. [To](/post/to/) [occupy](/post/occupy/) [or](/post/or/) [take](/post/take/) [control](/post/control/) [of](/post/of/) [a](/post/a/) [position](/post/position/) [or](/post/or/) stronghold: *[The](/post/the/) knights stormed [the](/post/the/) enemy's [castle](/post/castle/) [and](/post/and/) took [it](/post/it/) [by](/post/by/) [force](/post/force/).*
 
-### [Adjective](/en/post/adjective/)
-1. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [castle](/en/post/castle/), [especially](/en/post/especially/) [in](/en/post/in/) [appearance](/en/post/appearance/) [or](/en/post/or/) [design](/en/post/design/): *[The](/en/post/the/) castle-style mansion had [a](/en/post/a/) moat [and](/en/post/and/) drawbridge.*
+### [Adjective](/post/adjective/)
+1. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [castle](/post/castle/), [especially](/post/especially/) [in](/post/in/) [appearance](/post/appearance/) [or](/post/or/) [design](/post/design/): *[The](/post/the/) castle-style mansion had [a](/post/a/) moat [and](/post/and/) drawbridge.*
 
 ## Phrases
-- "[Visit](/en/post/visit/) [a](/en/post/a/) [castle](/en/post/castle/)" - [To](/en/post/to/) [go](/en/post/go/) [and](/en/post/and/) [explore](/en/post/explore/) [a](/en/post/a/) historic fortress.
-- "[Live](/en/post/live/) [in](/en/post/in/) [a](/en/post/a/) fairytale [castle](/en/post/castle/)" - [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) luxurious [and](/en/post/and/) picturesque [home](/en/post/home/).
-- "[Castle](/en/post/castle/) walls" - Metaphorically, [a](/en/post/a/) [secure](/en/post/secure/) [or](/en/post/or/) impenetrable [place](/en/post/place/).
+- "[Visit](/post/visit/) [a](/post/a/) [castle](/post/castle/)" - [To](/post/to/) [go](/post/go/) [and](/post/and/) [explore](/post/explore/) [a](/post/a/) historic fortress.
+- "[Live](/post/live/) [in](/post/in/) [a](/post/a/) fairytale [castle](/post/castle/)" - [To](/post/to/) [have](/post/have/) [a](/post/a/) luxurious [and](/post/and/) picturesque [home](/post/home/).
+- "[Castle](/post/castle/) walls" - Metaphorically, [a](/post/a/) [secure](/post/secure/) [or](/post/or/) impenetrable [place](/post/place/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children loved exploring [the](/en/post/the/) [ancient](/en/post/ancient/) castle's winding corridors."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [journey](/en/post/journey/), [they](/en/post/they/) [finally](/en/post/finally/) reached [the](/en/post/the/) majestic [castle](/en/post/castle/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) castle's turrets glowed [under](/en/post/under/) [the](/en/post/the/) moonlight, creating an enchanting [scene](/en/post/scene/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children loved exploring [the](/post/the/) [ancient](/post/ancient/) castle's winding corridors."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [journey](/post/journey/), [they](/post/they/) [finally](/post/finally/) reached [the](/post/the/) majestic [castle](/post/castle/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) castle's turrets glowed [under](/post/under/) [the](/post/the/) moonlight, creating an enchanting [scene](/post/scene/)."
 
 ## Synonyms
 - Fortress
 - Manor
-- [Keep](/en/post/keep/)
+- [Keep](/post/keep/)
 - Stronghold
 - Palisade
 - Chateau
-- [Tower](/en/post/tower/)
+- [Tower](/post/tower/)
 - Citadel

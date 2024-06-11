@@ -7,32 +7,32 @@ description = '[ˈkɔnfərəns] n.会议，讨论会'
 keywords = ['ai words', 'conference']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈfɜːrəns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-    - [A](/en/post/a/) [meeting](/en/post/meeting/) [where](/en/post/where/) [people](/en/post/people/) [discuss](/en/post/discuss/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/) [or](/en/post/or/) [business](/en/post/business/), [often](/en/post/often/) formally [or](/en/post/or/) professionally. [Example](/en/post/example/): "[The](/en/post/the/) [annual](/en/post/annual/) [science](/en/post/science/) [conference](/en/post/conference/) attracted experts [from](/en/post/from/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
-    - An [event](/en/post/event/) [or](/en/post/or/) gathering [where](/en/post/where/) ideas, [information](/en/post/information/), [or](/en/post/or/) opinions are exchanged. [Example](/en/post/example/): "[We](/en/post/we/) had [a](/en/post/a/) [conference](/en/post/conference/) [call](/en/post/call/) [with](/en/post/with/) [our](/en/post/our/) clients [this](/en/post/this/) [morning](/en/post/morning/)."
+- **[Noun](/post/noun/)**: 
+    - [A](/post/a/) [meeting](/post/meeting/) [where](/post/where/) [people](/post/people/) [discuss](/post/discuss/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/) [or](/post/or/) [business](/post/business/), [often](/post/often/) formally [or](/post/or/) professionally. [Example](/post/example/): "[The](/post/the/) [annual](/post/annual/) [science](/post/science/) [conference](/post/conference/) attracted experts [from](/post/from/) [around](/post/around/) [the](/post/the/) [world](/post/world/)."
+    - An [event](/post/event/) [or](/post/or/) gathering [where](/post/where/) ideas, [information](/post/information/), [or](/post/or/) opinions are exchanged. [Example](/post/example/): "[We](/post/we/) had [a](/post/a/) [conference](/post/conference/) [call](/post/call/) [with](/post/with/) [our](/post/our/) clients [this](/post/this/) [morning](/post/morning/)."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [hold](/en/post/hold/) [or](/en/post/or/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [conference](/en/post/conference/). [Example](/en/post/example/): "[They](/en/post/they/) scheduled [a](/en/post/a/) [conference](/en/post/conference/) [to](/en/post/to/) finalize [the](/en/post/the/) [project](/en/post/project/) details."
-- **[Adjective](/en/post/adjective/)**: Characterizing [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [discussion](/en/post/discussion/) [as](/en/post/as/) involving [many](/en/post/many/) [people](/en/post/people/) [or](/en/post/or/) viewpoints. [Example](/en/post/example/): "[A](/en/post/a/) conference-style [debate](/en/post/debate/) encouraged [open](/en/post/open/) dialogue."
+- **[Verb](/post/verb/)**: [To](/post/to/) [hold](/post/hold/) [or](/post/or/) [participate](/post/participate/) [in](/post/in/) [a](/post/a/) [conference](/post/conference/). [Example](/post/example/): "[They](/post/they/) scheduled [a](/post/a/) [conference](/post/conference/) [to](/post/to/) finalize [the](/post/the/) [project](/post/project/) details."
+- **[Adjective](/post/adjective/)**: Characterizing [a](/post/a/) [situation](/post/situation/) [or](/post/or/) [discussion](/post/discussion/) [as](/post/as/) involving [many](/post/many/) [people](/post/people/) [or](/post/or/) viewpoints. [Example](/post/example/): "[A](/post/a/) conference-style [debate](/post/debate/) encouraged [open](/post/open/) dialogue."
 
 ## Phrases
-- "[Attend](/en/post/attend/) [a](/en/post/a/) [conference](/en/post/conference/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [a](/en/post/a/) [meeting](/en/post/meeting/) [or](/en/post/or/) [event](/en/post/event/) [for](/en/post/for/) [professional](/en/post/professional/) purposes.
-- "[Conference](/en/post/conference/) [room](/en/post/room/)" is [a](/en/post/a/) designated [area](/en/post/area/) [for](/en/post/for/) meetings [and](/en/post/and/) discussions.
-- "[Conference](/en/post/conference/) [schedule](/en/post/schedule/)" refers [to](/en/post/to/) [the](/en/post/the/) planned events [and](/en/post/and/) sessions [at](/en/post/at/) [a](/en/post/a/) [conference](/en/post/conference/).
+- "[Attend](/post/attend/) [a](/post/a/) [conference](/post/conference/)" [means](/post/means/) [to](/post/to/) [go](/post/go/) [to](/post/to/) [a](/post/a/) [meeting](/post/meeting/) [or](/post/or/) [event](/post/event/) [for](/post/for/) [professional](/post/professional/) purposes.
+- "[Conference](/post/conference/) [room](/post/room/)" is [a](/post/a/) designated [area](/post/area/) [for](/post/for/) meetings [and](/post/and/) discussions.
+- "[Conference](/post/conference/) [schedule](/post/schedule/)" refers [to](/post/to/) [the](/post/the/) planned events [and](/post/and/) sessions [at](/post/at/) [a](/post/a/) [conference](/post/conference/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) educators convened [for](/en/post/for/) [a](/en/post/a/) [conference](/en/post/conference/) [to](/en/post/to/) [discuss](/en/post/discuss/) [new](/en/post/new/) [teaching](/en/post/teaching/) methods."
-- **[Verb](/en/post/verb/)**: "I'll [be](/en/post/be/) presenting [my](/en/post/my/) [research](/en/post/research/) findings [at](/en/post/at/) [the](/en/post/the/) upcoming [academic](/en/post/academic/) [conference](/en/post/conference/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's [annual](/en/post/annual/) [conference](/en/post/conference/) fosters [a](/en/post/a/) collaborative [atmosphere](/en/post/atmosphere/) [among](/en/post/among/) employees."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) educators convened [for](/post/for/) [a](/post/a/) [conference](/post/conference/) [to](/post/to/) [discuss](/post/discuss/) [new](/post/new/) [teaching](/post/teaching/) methods."
+- **[Verb](/post/verb/)**: "I'll [be](/post/be/) presenting [my](/post/my/) [research](/post/research/) findings [at](/post/at/) [the](/post/the/) upcoming [academic](/post/academic/) [conference](/post/conference/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) company's [annual](/post/annual/) [conference](/post/conference/) fosters [a](/post/a/) collaborative [atmosphere](/post/atmosphere/) [among](/post/among/) employees."
 
 ## Synonyms
 - Summit
 - Gathering
-- [Convention](/en/post/convention/)
-- [Workshop](/en/post/workshop/)
-- [Discussion](/en/post/discussion/) forum
-- [Assembly](/en/post/assembly/)
-- [Meeting](/en/post/meeting/) (informal)
+- [Convention](/post/convention/)
+- [Workshop](/post/workshop/)
+- [Discussion](/post/discussion/) forum
+- [Assembly](/post/assembly/)
+- [Meeting](/post/meeting/) (informal)

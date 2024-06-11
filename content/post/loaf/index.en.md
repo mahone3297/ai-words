@@ -7,25 +7,25 @@ description = '[ləuf] n.一条面包，一个面包'
 keywords = ['ai words', 'loaf']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ləʊf/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [large](/en/post/large/), [usually](/en/post/usually/) oblong [mass](/en/post/mass/) [of](/en/post/of/) [bread](/en/post/bread/) [that](/en/post/that/) is baked [and](/en/post/and/) [often](/en/post/often/) has [a](/en/post/a/) [firm](/en/post/firm/) texture. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) bought [a](/en/post/a/) freshly baked [loaf](/en/post/loaf/) [of](/en/post/of/) [bread](/en/post/bread/) [from](/en/post/from/) [the](/en/post/the/) bakery."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/) idly [or](/en/post/or/) lazily; [to](/en/post/to/) lounge [around](/en/post/around/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [lunch](/en/post/lunch/), [he](/en/post/he/) decided [to](/en/post/to/) [loaf](/en/post/loaf/) [around](/en/post/around/) [the](/en/post/the/) [house](/en/post/house/) [and](/en/post/and/) [read](/en/post/read/) [a](/en/post/a/) [book](/en/post/book/)."
-- **[Noun](/en/post/noun/) (informal, slang)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) avoids [work](/en/post/work/) [or](/en/post/or/) [effort](/en/post/effort/). [For](/en/post/for/) [example](/en/post/example/): "Don't [be](/en/post/be/) [such](/en/post/such/) [a](/en/post/a/) [loaf](/en/post/loaf/) [all](/en/post/all/) [day](/en/post/day/); [help](/en/post/help/) [with](/en/post/with/) [the](/en/post/the/) chores!"
+- **[Noun](/post/noun/) (n)**: [A](/post/a/) [large](/post/large/), [usually](/post/usually/) oblong [mass](/post/mass/) [of](/post/of/) [bread](/post/bread/) [that](/post/that/) is baked [and](/post/and/) [often](/post/often/) has [a](/post/a/) [firm](/post/firm/) texture. [For](/post/for/) [example](/post/example/): "[She](/post/she/) bought [a](/post/a/) freshly baked [loaf](/post/loaf/) [of](/post/of/) [bread](/post/bread/) [from](/post/from/) [the](/post/the/) bakery."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [spend](/post/spend/) [time](/post/time/) idly [or](/post/or/) lazily; [to](/post/to/) lounge [around](/post/around/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) [lunch](/post/lunch/), [he](/post/he/) decided [to](/post/to/) [loaf](/post/loaf/) [around](/post/around/) [the](/post/the/) [house](/post/house/) [and](/post/and/) [read](/post/read/) [a](/post/a/) [book](/post/book/)."
+- **[Noun](/post/noun/) (informal, slang)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) avoids [work](/post/work/) [or](/post/or/) [effort](/post/effort/). [For](/post/for/) [example](/post/example/): "Don't [be](/post/be/) [such](/post/such/) [a](/post/a/) [loaf](/post/loaf/) [all](/post/all/) [day](/post/day/); [help](/post/help/) [with](/post/with/) [the](/post/the/) chores!"
 
 ## Phrases
-- "[A](/en/post/a/) [loaf](/en/post/loaf/) [of](/en/post/of/) [bread](/en/post/bread/)": [This](/en/post/this/) is [a](/en/post/a/) [common](/en/post/common/) [phrase](/en/post/phrase/) [used](/en/post/used/) [when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [single](/en/post/single/) [unit](/en/post/unit/) [of](/en/post/of/) [bread](/en/post/bread/).
-- "[Loaf](/en/post/loaf/) [around](/en/post/around/)": [To](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/) aimlessly [or](/en/post/or/) [without](/en/post/without/) [purpose](/en/post/purpose/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) relaxed [manner](/en/post/manner/).
+- "[A](/post/a/) [loaf](/post/loaf/) [of](/post/of/) [bread](/post/bread/)": [This](/post/this/) is [a](/post/a/) [common](/post/common/) [phrase](/post/phrase/) [used](/post/used/) [when](/post/when/) referring [to](/post/to/) [a](/post/a/) [single](/post/single/) [unit](/post/unit/) [of](/post/of/) [bread](/post/bread/).
+- "[Loaf](/post/loaf/) [around](/post/around/)": [To](/post/to/) [spend](/post/spend/) [time](/post/time/) aimlessly [or](/post/or/) [without](/post/without/) [purpose](/post/purpose/), [often](/post/often/) [in](/post/in/) [a](/post/a/) relaxed [manner](/post/manner/).
   
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([bread](/en/post/bread/))**: "I sliced [the](/en/post/the/) [warm](/en/post/warm/), crusty [loaf](/en/post/loaf/) [of](/en/post/of/) sourdough [to](/en/post/to/) [make](/en/post/make/) sandwiches."
-- **[Verb](/en/post/verb/)**: "[On](/en/post/on/) Sundays, [he](/en/post/he/) likes [to](/en/post/to/) [loaf](/en/post/loaf/) [on](/en/post/on/) [the](/en/post/the/) couch watching [old](/en/post/old/) movies."
-- **Slang [Noun](/en/post/noun/)**: "He's [just](/en/post/just/) [a](/en/post/a/) [lazy](/en/post/lazy/) [loaf](/en/post/loaf/); [he](/en/post/he/) [never](/en/post/never/) helps [with](/en/post/with/) [anything](/en/post/anything/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([bread](/post/bread/))**: "I sliced [the](/post/the/) [warm](/post/warm/), crusty [loaf](/post/loaf/) [of](/post/of/) sourdough [to](/post/to/) [make](/post/make/) sandwiches."
+- **[Verb](/post/verb/)**: "[On](/post/on/) Sundays, [he](/post/he/) likes [to](/post/to/) [loaf](/post/loaf/) [on](/post/on/) [the](/post/the/) couch watching [old](/post/old/) movies."
+- **Slang [Noun](/post/noun/)**: "He's [just](/post/just/) [a](/post/a/) [lazy](/post/lazy/) [loaf](/post/loaf/); [he](/post/he/) [never](/post/never/) helps [with](/post/with/) [anything](/post/anything/)."
 
 ## Synonyms
-- [Bread](/en/post/bread/) ([for](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [meaning](/en/post/meaning/) [a](/en/post/a/) [large](/en/post/large/) [mass](/en/post/mass/) [of](/en/post/of/) baked dough)
-- [Idle](/en/post/idle/) ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [meaning](/en/post/meaning/) [to](/en/post/to/) [spend](/en/post/spend/) [time](/en/post/time/) lazily)
-- Lounge ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [meaning](/en/post/meaning/) [to](/en/post/to/) [relax](/en/post/relax/) [or](/en/post/or/) [rest](/en/post/rest/) indolently)
-- Slacker ([for](/en/post/for/) [the](/en/post/the/) informal slang [meaning](/en/post/meaning/))
+- [Bread](/post/bread/) ([for](/post/for/) [the](/post/the/) [noun](/post/noun/) [meaning](/post/meaning/) [a](/post/a/) [large](/post/large/) [mass](/post/mass/) [of](/post/of/) baked dough)
+- [Idle](/post/idle/) ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [meaning](/post/meaning/) [to](/post/to/) [spend](/post/spend/) [time](/post/time/) lazily)
+- Lounge ([for](/post/for/) [the](/post/the/) [verb](/post/verb/) [meaning](/post/meaning/) [to](/post/to/) [relax](/post/relax/) [or](/post/or/) [rest](/post/rest/) indolently)
+- Slacker ([for](/post/for/) [the](/post/the/) informal slang [meaning](/post/meaning/))

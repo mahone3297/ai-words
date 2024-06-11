@@ -7,49 +7,49 @@ description = '[mes] n.混乱，混杂，肮脏'
 keywords = ['ai words', 'mess']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /mes/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-- [A](/en/post/a/) disorderly [or](/en/post/or/) untidy [state](/en/post/state/); [a](/en/post/a/) jumble: "[The](/en/post/the/) kids [left](/en/post/left/) [the](/en/post/the/) [room](/en/post/room/) [in](/en/post/in/) [a](/en/post/a/) [complete](/en/post/complete/) [mess](/en/post/mess/)."
-- [A](/en/post/a/) confusing [or](/en/post/or/) chaotic [situation](/en/post/situation/): "[The](/en/post/the/) [project](/en/post/project/) turned [into](/en/post/into/) [a](/en/post/a/) bureaucratic [mess](/en/post/mess/)."
-- [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [food](/en/post/food/) is prepared [and](/en/post/and/) served, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [military](/en/post/military/) [setting](/en/post/setting/) [or](/en/post/or/) [institution](/en/post/institution/): "[The](/en/post/the/) soldiers lined [up](/en/post/up/) [at](/en/post/at/) [the](/en/post/the/) chow [hall](/en/post/hall/) [for](/en/post/for/) [their](/en/post/their/) [evening](/en/post/evening/) [mess](/en/post/mess/)."
-- Informal [meal](/en/post/meal/), [often](/en/post/often/) eaten [together](/en/post/together/) [in](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/), [particularly](/en/post/particularly/) [in](/en/post/in/) [the](/en/post/the/) [military](/en/post/military/) [or](/en/post/or/) [at](/en/post/at/) [school](/en/post/school/): "[We](/en/post/we/) had [a](/en/post/a/) communal [mess](/en/post/mess/) [last](/en/post/last/) [night](/en/post/night/)."
+### [Noun](/post/noun/) (n)
+- [A](/post/a/) disorderly [or](/post/or/) untidy [state](/post/state/); [a](/post/a/) jumble: "[The](/post/the/) kids [left](/post/left/) [the](/post/the/) [room](/post/room/) [in](/post/in/) [a](/post/a/) [complete](/post/complete/) [mess](/post/mess/)."
+- [A](/post/a/) confusing [or](/post/or/) chaotic [situation](/post/situation/): "[The](/post/the/) [project](/post/project/) turned [into](/post/into/) [a](/post/a/) bureaucratic [mess](/post/mess/)."
+- [A](/post/a/) [place](/post/place/) [where](/post/where/) [food](/post/food/) is prepared [and](/post/and/) served, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [military](/post/military/) [setting](/post/setting/) [or](/post/or/) [institution](/post/institution/): "[The](/post/the/) soldiers lined [up](/post/up/) [at](/post/at/) [the](/post/the/) chow [hall](/post/hall/) [for](/post/for/) [their](/post/their/) [evening](/post/evening/) [mess](/post/mess/)."
+- Informal [meal](/post/meal/), [often](/post/often/) eaten [together](/post/together/) [in](/post/in/) [a](/post/a/) [group](/post/group/), [particularly](/post/particularly/) [in](/post/in/) [the](/post/the/) [military](/post/military/) [or](/post/or/) [at](/post/at/) [school](/post/school/): "[We](/post/we/) had [a](/post/a/) communal [mess](/post/mess/) [last](/post/last/) [night](/post/night/)."
 
-### [Verb](/en/post/verb/) (v)
-- [To](/en/post/to/) [make](/en/post/make/) [dirty](/en/post/dirty/), untidy, [or](/en/post/or/) disordered: "Don't [mess](/en/post/mess/) [up](/en/post/up/) [your](/en/post/your/) [room](/en/post/room/)!"
-- [To](/en/post/to/) [handle](/en/post/handle/) [or](/en/post/or/) [manage](/en/post/manage/) clumsily [or](/en/post/or/) carelessly: "[He](/en/post/he/) messed [up](/en/post/up/) [the](/en/post/the/) presentation [by](/en/post/by/) forgetting [his](/en/post/his/) notes."
-- [To](/en/post/to/) [interfere](/en/post/interfere/) [with](/en/post/with/) [or](/en/post/or/) [spoil](/en/post/spoil/) [something](/en/post/something/): "[His](/en/post/his/) [constant](/en/post/constant/) interruptions [really](/en/post/really/) messed things [up](/en/post/up/) [for](/en/post/for/) [us](/en/post/us/)."
+### [Verb](/post/verb/) (v)
+- [To](/post/to/) [make](/post/make/) [dirty](/post/dirty/), untidy, [or](/post/or/) disordered: "Don't [mess](/post/mess/) [up](/post/up/) [your](/post/your/) [room](/post/room/)!"
+- [To](/post/to/) [handle](/post/handle/) [or](/post/or/) [manage](/post/manage/) clumsily [or](/post/or/) carelessly: "[He](/post/he/) messed [up](/post/up/) [the](/post/the/) presentation [by](/post/by/) forgetting [his](/post/his/) notes."
+- [To](/post/to/) [interfere](/post/interfere/) [with](/post/with/) [or](/post/or/) [spoil](/post/spoil/) [something](/post/something/): "[His](/post/his/) [constant](/post/constant/) interruptions [really](/post/really/) messed things [up](/post/up/) [for](/post/for/) [us](/post/us/)."
 
-### [Adjective](/en/post/adjective/) (adj)
-- Confused, disordered, [or](/en/post/or/) untidy: "[Her](/en/post/her/) [desk](/en/post/desk/) was [a](/en/post/a/) [mess](/en/post/mess/) [of](/en/post/of/) papers [and](/en/post/and/) books."
-- [Difficult](/en/post/difficult/) [to](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [or](/en/post/or/) [solve](/en/post/solve/): "[The](/en/post/the/) [financial](/en/post/financial/) [mess](/en/post/mess/) required months [to](/en/post/to/) [sort](/en/post/sort/) [out](/en/post/out/)."
+### [Adjective](/post/adjective/) (adj)
+- Confused, disordered, [or](/post/or/) untidy: "[Her](/post/her/) [desk](/post/desk/) was [a](/post/a/) [mess](/post/mess/) [of](/post/of/) papers [and](/post/and/) books."
+- [Difficult](/post/difficult/) [to](/post/to/) [deal](/post/deal/) [with](/post/with/) [or](/post/or/) [solve](/post/solve/): "[The](/post/the/) [financial](/post/financial/) [mess](/post/mess/) required months [to](/post/to/) [sort](/post/sort/) [out](/post/out/)."
 
 ## Phrases
-- "[Make](/en/post/make/) [a](/en/post/a/) [mess](/en/post/mess/)" [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) disorderly [or](/en/post/or/) untidy [situation](/en/post/situation/).
-- "[Get](/en/post/get/) [into](/en/post/into/) [a](/en/post/a/) [mess](/en/post/mess/)" suggests becoming involved [in](/en/post/in/) [a](/en/post/a/) [difficult](/en/post/difficult/) [or](/en/post/or/) [complicated](/en/post/complicated/) [situation](/en/post/situation/).
-- "[Clean](/en/post/clean/) [up](/en/post/up/) [the](/en/post/the/) [mess](/en/post/mess/)" implies resolving [a](/en/post/a/) [problem](/en/post/problem/) [or](/en/post/or/) organizing [a](/en/post/a/) chaotic [state](/en/post/state/).
+- "[Make](/post/make/) [a](/post/a/) [mess](/post/mess/)" [means](/post/means/) [to](/post/to/) [create](/post/create/) [a](/post/a/) disorderly [or](/post/or/) untidy [situation](/post/situation/).
+- "[Get](/post/get/) [into](/post/into/) [a](/post/a/) [mess](/post/mess/)" suggests becoming involved [in](/post/in/) [a](/post/a/) [difficult](/post/difficult/) [or](/post/or/) [complicated](/post/complicated/) [situation](/post/situation/).
+- "[Clean](/post/clean/) [up](/post/up/) [the](/post/the/) [mess](/post/mess/)" implies resolving [a](/post/a/) [problem](/post/problem/) [or](/post/or/) organizing [a](/post/a/) chaotic [state](/post/state/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [party](/en/post/party/), [we](/en/post/we/) spent hours cleaning [up](/en/post/up/) [the](/en/post/the/) [mess](/en/post/mess/) [in](/en/post/in/) [the](/en/post/the/) [living](/en/post/living/) [room](/en/post/room/)."
-- **[Verb](/en/post/verb/)**: "I accidentally spilled [juice](/en/post/juice/) [on](/en/post/on/) [my](/en/post/my/) [shirt](/en/post/shirt/) [and](/en/post/and/) messed [it](/en/post/it/) [up](/en/post/up/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [kitchen](/en/post/kitchen/) was [a](/en/post/a/) [total](/en/post/total/) [mess](/en/post/mess/) [after](/en/post/after/) cooking [a](/en/post/a/) [large](/en/post/large/) [dinner](/en/post/dinner/) [for](/en/post/for/) [the](/en/post/the/) [family](/en/post/family/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[After](/post/after/) [the](/post/the/) [party](/post/party/), [we](/post/we/) spent hours cleaning [up](/post/up/) [the](/post/the/) [mess](/post/mess/) [in](/post/in/) [the](/post/the/) [living](/post/living/) [room](/post/room/)."
+- **[Verb](/post/verb/)**: "I accidentally spilled [juice](/post/juice/) [on](/post/on/) [my](/post/my/) [shirt](/post/shirt/) [and](/post/and/) messed [it](/post/it/) [up](/post/up/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [kitchen](/post/kitchen/) was [a](/post/a/) [total](/post/total/) [mess](/post/mess/) [after](/post/after/) cooking [a](/post/a/) [large](/post/large/) [dinner](/post/dinner/) [for](/post/for/) [the](/post/the/) [family](/post/family/)."
 
 ## Synonyms
-- [Disorder](/en/post/disorder/)
+- [Disorder](/post/disorder/)
 - Chaos
 - Muddle
-- [Confusion](/en/post/confusion/)
+- [Confusion](/post/confusion/)
 - Untidiness
 - Clutter
 - Messiness
 - Disarray
 - Jumble
 
-[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), synonyms [can](/en/post/can/) [include](/en/post/include/):
-- [Spoil](/en/post/spoil/)
-- [Ruin](/en/post/ruin/)
+[As](/post/as/) [a](/post/a/) [verb](/post/verb/), synonyms [can](/post/can/) [include](/post/include/):
+- [Spoil](/post/spoil/)
+- [Ruin](/post/ruin/)
 - Botch
-- Foul [up](/en/post/up/)
-- [Wreck](/en/post/wreck/)
+- Foul [up](/post/up/)
+- [Wreck](/post/wreck/)

@@ -7,30 +7,30 @@ description = '[neim] n.名字；名誉 vt.说出'
 keywords = ['ai words', 'name']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /neɪm/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [set](/en/post/set/) [of](/en/post/of/) words [by](/en/post/by/) [which](/en/post/which/) [a](/en/post/a/) [person](/en/post/person/), [animal](/en/post/animal/), [place](/en/post/place/), [or](/en/post/or/) [thing](/en/post/thing/) is known, addressed, [or](/en/post/or/) referred [to](/en/post/to/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [name](/en/post/name/) is Sarah."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [label](/en/post/label/) [or](/en/post/or/) [title](/en/post/title/) [to](/en/post/to/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/); [to](/en/post/to/) [identify](/en/post/identify/) [or](/en/post/or/) [refer](/en/post/refer/) [to](/en/post/to/) [by](/en/post/by/) [a](/en/post/a/) [specific](/en/post/specific/) appellation. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) named [their](/en/post/their/) [daughter](/en/post/daughter/) Emily."
+- **[Noun](/post/noun/)**: [A](/post/a/) [word](/post/word/) [or](/post/or/) [set](/post/set/) [of](/post/of/) words [by](/post/by/) [which](/post/which/) [a](/post/a/) [person](/post/person/), [animal](/post/animal/), [place](/post/place/), [or](/post/or/) [thing](/post/thing/) is known, addressed, [or](/post/or/) referred [to](/post/to/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [name](/post/name/) is Sarah."
+- **[Verb](/post/verb/)**: [To](/post/to/) [give](/post/give/) [a](/post/a/) [label](/post/label/) [or](/post/or/) [title](/post/title/) [to](/post/to/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/); [to](/post/to/) [identify](/post/identify/) [or](/post/or/) [refer](/post/refer/) [to](/post/to/) [by](/post/by/) [a](/post/a/) [specific](/post/specific/) appellation. [For](/post/for/) [example](/post/example/): "[They](/post/they/) named [their](/post/their/) [daughter](/post/daughter/) Emily."
 
 ## Phrases
-- "[In](/en/post/in/) [the](/en/post/the/) [name](/en/post/name/) [of](/en/post/of/)": [On](/en/post/on/) [behalf](/en/post/behalf/) [of](/en/post/of/) [or](/en/post/or/) representing ([someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/)). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) acted [in](/en/post/in/) [the](/en/post/the/) [name](/en/post/name/) [of](/en/post/of/) [justice](/en/post/justice/)."
-- "[To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [name](/en/post/name/) [for](/en/post/for/) [oneself](/en/post/oneself/)": [To](/en/post/to/) [gain](/en/post/gain/) [recognition](/en/post/recognition/) [or](/en/post/or/) [establish](/en/post/establish/) [a](/en/post/a/) [reputation](/en/post/reputation/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) made [a](/en/post/a/) [name](/en/post/name/) [for](/en/post/for/) [himself](/en/post/himself/) [as](/en/post/as/) [a](/en/post/a/) talented [musician](/en/post/musician/)."
-- "[Call](/en/post/call/) [someone](/en/post/someone/) [by](/en/post/by/) [name](/en/post/name/)": [To](/en/post/to/) [use](/en/post/use/) someone's [name](/en/post/name/) [when](/en/post/when/) addressing [them](/en/post/them/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) called [each](/en/post/each/) [student](/en/post/student/) [by](/en/post/by/) [name](/en/post/name/) [during](/en/post/during/) [roll](/en/post/roll/) [call](/en/post/call/)."
+- "[In](/post/in/) [the](/post/the/) [name](/post/name/) [of](/post/of/)": [On](/post/on/) [behalf](/post/behalf/) [of](/post/of/) [or](/post/or/) representing ([someone](/post/someone/) [or](/post/or/) [something](/post/something/)). [For](/post/for/) [example](/post/example/): "[She](/post/she/) acted [in](/post/in/) [the](/post/the/) [name](/post/name/) [of](/post/of/) [justice](/post/justice/)."
+- "[To](/post/to/) [make](/post/make/) [a](/post/a/) [name](/post/name/) [for](/post/for/) [oneself](/post/oneself/)": [To](/post/to/) [gain](/post/gain/) [recognition](/post/recognition/) [or](/post/or/) [establish](/post/establish/) [a](/post/a/) [reputation](/post/reputation/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) made [a](/post/a/) [name](/post/name/) [for](/post/for/) [himself](/post/himself/) [as](/post/as/) [a](/post/a/) talented [musician](/post/musician/)."
+- "[Call](/post/call/) [someone](/post/someone/) [by](/post/by/) [name](/post/name/)": [To](/post/to/) [use](/post/use/) someone's [name](/post/name/) [when](/post/when/) addressing [them](/post/them/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) called [each](/post/each/) [student](/post/student/) [by](/post/by/) [name](/post/name/) [during](/post/during/) [roll](/post/roll/) [call](/post/call/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) author's [name](/en/post/name/) is printed [on](/en/post/on/) [the](/en/post/the/) [cover](/en/post/cover/) [of](/en/post/of/) [the](/en/post/the/) [book](/en/post/book/)."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) named [her](/en/post/her/) [new](/en/post/new/) puppy Charlie [after](/en/post/after/) [her](/en/post/her/) favorite [uncle](/en/post/uncle/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) author's [name](/post/name/) is printed [on](/post/on/) [the](/post/the/) [cover](/post/cover/) [of](/post/of/) [the](/post/the/) [book](/post/book/)."
+- **[Verb](/post/verb/)**: "[She](/post/she/) named [her](/post/her/) [new](/post/new/) puppy Charlie [after](/post/after/) [her](/post/her/) favorite [uncle](/post/uncle/)."
 
 ## Synonyms
-- [Title](/en/post/title/)
+- [Title](/post/title/)
 - Appellation
 - Moniker
 - Designation
 - Identifier
-- [Handle](/en/post/handle/)
+- [Handle](/post/handle/)
 - Nickname
-- [Label](/en/post/label/)
-- Nom de plume ([for](/en/post/for/) [pen](/en/post/pen/) names)
-- Baptismal [name](/en/post/name/) ([for](/en/post/for/) [religious](/en/post/religious/) names)
+- [Label](/post/label/)
+- Nom de plume ([for](/post/for/) [pen](/post/pen/) names)
+- Baptismal [name](/post/name/) ([for](/post/for/) [religious](/post/religious/) names)

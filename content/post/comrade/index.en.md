@@ -7,28 +7,28 @@ description = '[ˈkɔmrid] n.同志，亲密的同伴'
 keywords = ['ai words', 'comrade']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəmˈkreɪd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [term](/en/post/term/) [of](/en/post/of/) [friendship](/en/post/friendship/) [or](/en/post/or/) [respect](/en/post/respect/) [used](/en/post/used/) [to](/en/post/to/) [address](/en/post/address/) [fellow](/en/post/fellow/) members [of](/en/post/of/) [a](/en/post/a/) [group](/en/post/group/), [especially](/en/post/especially/) [a](/en/post/a/) [political](/en/post/political/) [or](/en/post/or/) [military](/en/post/military/) [one](/en/post/one/). 2. [A](/en/post/a/) [person](/en/post/person/) regarded [as](/en/post/as/) [a](/en/post/a/) [friend](/en/post/friend/) [or](/en/post/or/) comrade-in-arms. 
-- **[Adjective](/en/post/adjective/)**: Characterizing [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [communist](/en/post/communist/) [or](/en/post/or/) [socialist](/en/post/socialist/) [organization](/en/post/organization/).
+- **[Noun](/post/noun/)**: 1. [A](/post/a/) [term](/post/term/) [of](/post/of/) [friendship](/post/friendship/) [or](/post/or/) [respect](/post/respect/) [used](/post/used/) [to](/post/to/) [address](/post/address/) [fellow](/post/fellow/) members [of](/post/of/) [a](/post/a/) [group](/post/group/), [especially](/post/especially/) [a](/post/a/) [political](/post/political/) [or](/post/or/) [military](/post/military/) [one](/post/one/). 2. [A](/post/a/) [person](/post/person/) regarded [as](/post/as/) [a](/post/a/) [friend](/post/friend/) [or](/post/or/) comrade-in-arms. 
+- **[Adjective](/post/adjective/)**: Characterizing [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [communist](/post/communist/) [or](/post/or/) [socialist](/post/socialist/) [organization](/post/organization/).
 
 ## Phrases
-- "[Comrade](/en/post/comrade/) solidarity" refers [to](/en/post/to/) [the](/en/post/the/) [unity](/en/post/unity/) [and](/en/post/and/) [support](/en/post/support/) [among](/en/post/among/) comrades.
-- "[Comrade](/en/post/comrade/) brothers" is [a](/en/post/a/) [term](/en/post/term/) [of](/en/post/of/) endearment [for](/en/post/for/) [close](/en/post/close/) friends [or](/en/post/or/) comrades.
-- "[Red](/en/post/red/) [Comrade](/en/post/comrade/)" is an informal [way](/en/post/way/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) committed [communist](/en/post/communist/).
+- "[Comrade](/post/comrade/) solidarity" refers [to](/post/to/) [the](/post/the/) [unity](/post/unity/) [and](/post/and/) [support](/post/support/) [among](/post/among/) comrades.
+- "[Comrade](/post/comrade/) brothers" is [a](/post/a/) [term](/post/term/) [of](/post/of/) endearment [for](/post/for/) [close](/post/close/) friends [or](/post/or/) comrades.
+- "[Red](/post/red/) [Comrade](/post/comrade/)" is an informal [way](/post/way/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) committed [communist](/post/communist/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) formed [strong](/en/post/strong/) bonds [with](/en/post/with/) [our](/en/post/our/) comrades [during](/en/post/during/) [the](/en/post/the/) [training](/en/post/training/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [comrade](/en/post/comrade/) soldiers fought [side](/en/post/side/) [by](/en/post/by/) [side](/en/post/side/) [in](/en/post/in/) [the](/en/post/the/) [battle](/en/post/battle/)."
-- **[Usage](/en/post/usage/)**: "[They](/en/post/they/) were known [as](/en/post/as/) [the](/en/post/the/) 'vanguard [of](/en/post/of/) [the](/en/post/the/) [comrade](/en/post/comrade/) revolutionaries.'"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[We](/post/we/) formed [strong](/post/strong/) bonds [with](/post/with/) [our](/post/our/) comrades [during](/post/during/) [the](/post/the/) [training](/post/training/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [comrade](/post/comrade/) soldiers fought [side](/post/side/) [by](/post/by/) [side](/post/side/) [in](/post/in/) [the](/post/the/) [battle](/post/battle/)."
+- **[Usage](/post/usage/)**: "[They](/post/they/) were known [as](/post/as/) [the](/post/the/) 'vanguard [of](/post/of/) [the](/post/the/) [comrade](/post/comrade/) revolutionaries.'"
 
 ## Synonyms
-- [Fellow](/en/post/fellow/)
+- [Fellow](/post/fellow/)
 - Buddy
 - Comrade-in-arms
-- [Colleague](/en/post/colleague/)
-- [Companion](/en/post/companion/)
+- [Colleague](/post/colleague/)
+- [Companion](/post/companion/)
 
-## [Note](/en/post/note/): [Comrade](/en/post/comrade/) is [primarily](/en/post/primarily/) associated [with](/en/post/with/) [historical](/en/post/historical/) [or](/en/post/or/) [political](/en/post/political/) contexts, [and](/en/post/and/) [its](/en/post/its/) [usage](/en/post/usage/) [may](/en/post/may/) [be](/en/post/be/) [limited](/en/post/limited/) [in](/en/post/in/) [modern](/en/post/modern/), informal English. [It](/en/post/it/) is [more](/en/post/more/) [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) [literature](/en/post/literature/), [history](/en/post/history/), [or](/en/post/or/) [when](/en/post/when/) discussing [historical](/en/post/historical/) figures [and](/en/post/and/) movements.
+## [Note](/post/note/): [Comrade](/post/comrade/) is [primarily](/post/primarily/) associated [with](/post/with/) [historical](/post/historical/) [or](/post/or/) [political](/post/political/) contexts, [and](/post/and/) [its](/post/its/) [usage](/post/usage/) [may](/post/may/) [be](/post/be/) [limited](/post/limited/) [in](/post/in/) [modern](/post/modern/), informal English. [It](/post/it/) is [more](/post/more/) [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) [literature](/post/literature/), [history](/post/history/), [or](/post/or/) [when](/post/when/) discussing [historical](/post/historical/) figures [and](/post/and/) movements.

@@ -7,35 +7,35 @@ description = '[iksˈkjuːz] vt.原谅；免除 n.借口'
 keywords = ['ai words', 'excuse']
 +++
 
-## [Word](/en/post/word/): [Excuse](/en/post/excuse/)
+## [Word](/post/word/): [Excuse](/post/excuse/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪkˈskjuːs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [reason](/en/post/reason/) [or](/en/post/or/) [explanation](/en/post/explanation/) given [to](/en/post/to/) [justify](/en/post/justify/) [a](/en/post/a/) [fault](/en/post/fault/) [or](/en/post/or/) offense; [a](/en/post/a/) plea offered [in](/en/post/in/) defense. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) [good](/en/post/good/) [excuse](/en/post/excuse/) [for](/en/post/for/) [being](/en/post/being/) [late](/en/post/late/)."
-  - [Also](/en/post/also/), [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) serves [as](/en/post/as/) [a](/en/post/a/) [reason](/en/post/reason/) [or](/en/post/or/) justification [for](/en/post/for/) an [action](/en/post/action/): "[His](/en/post/his/) tiredness was an [excuse](/en/post/excuse/) [not](/en/post/not/) [to](/en/post/to/) [go](/en/post/go/) [out](/en/post/out/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [reason](/post/reason/) [or](/post/or/) [explanation](/post/explanation/) given [to](/post/to/) [justify](/post/justify/) [a](/post/a/) [fault](/post/fault/) [or](/post/or/) offense; [a](/post/a/) plea offered [in](/post/in/) defense. [For](/post/for/) [example](/post/example/): "[She](/post/she/) had [a](/post/a/) [good](/post/good/) [excuse](/post/excuse/) [for](/post/for/) [being](/post/being/) [late](/post/late/)."
+  - [Also](/post/also/), [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [that](/post/that/) serves [as](/post/as/) [a](/post/a/) [reason](/post/reason/) [or](/post/or/) justification [for](/post/for/) an [action](/post/action/): "[His](/post/his/) tiredness was an [excuse](/post/excuse/) [not](/post/not/) [to](/post/to/) [go](/post/go/) [out](/post/out/)."
   
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [forgive](/en/post/forgive/) [or](/en/post/or/) [pardon](/en/post/pardon/) [someone](/en/post/someone/) [for](/en/post/for/) [a](/en/post/a/) [fault](/en/post/fault/) [or](/en/post/or/) offense, [often](/en/post/often/) [after](/en/post/after/) [they](/en/post/they/) [have](/en/post/have/) [provided](/en/post/provided/) an [explanation](/en/post/explanation/). [For](/en/post/for/) [example](/en/post/example/): "I'll [have](/en/post/have/) [to](/en/post/to/) [excuse](/en/post/excuse/) [myself](/en/post/myself/) [for](/en/post/for/) interrupting."
-  - [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [grant](/en/post/grant/) [permission](/en/post/permission/) [to](/en/post/to/) [leave](/en/post/leave/) [or](/en/post/or/) [be](/en/post/be/) [absent](/en/post/absent/) [from](/en/post/from/) [a](/en/post/a/) [situation](/en/post/situation/): "[May](/en/post/may/) I [be](/en/post/be/) excused [from](/en/post/from/) [class](/en/post/class/)?"
+- **[Verb](/post/verb/)**: [To](/post/to/) [forgive](/post/forgive/) [or](/post/or/) [pardon](/post/pardon/) [someone](/post/someone/) [for](/post/for/) [a](/post/a/) [fault](/post/fault/) [or](/post/or/) offense, [often](/post/often/) [after](/post/after/) [they](/post/they/) [have](/post/have/) [provided](/post/provided/) an [explanation](/post/explanation/). [For](/post/for/) [example](/post/example/): "I'll [have](/post/have/) [to](/post/to/) [excuse](/post/excuse/) [myself](/post/myself/) [for](/post/for/) interrupting."
+  - [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [to](/post/to/) [grant](/post/grant/) [permission](/post/permission/) [to](/post/to/) [leave](/post/leave/) [or](/post/or/) [be](/post/be/) [absent](/post/absent/) [from](/post/from/) [a](/post/a/) [situation](/post/situation/): "[May](/post/may/) I [be](/post/be/) excused [from](/post/from/) [class](/post/class/)?"
   
-- **Interjection**: [Used](/en/post/used/) [to](/en/post/to/) politely [request](/en/post/request/) forgiveness [for](/en/post/for/) an [interruption](/en/post/interruption/), bodily [function](/en/post/function/), [or](/en/post/or/) [to](/en/post/to/) [ask](/en/post/ask/) [permission](/en/post/permission/) [to](/en/post/to/) [leave](/en/post/leave/). [For](/en/post/for/) [example](/en/post/example/): "[Excuse](/en/post/excuse/) [me](/en/post/me/), [could](/en/post/could/) [you](/en/post/you/) [tell](/en/post/tell/) [me](/en/post/me/) [the](/en/post/the/) [time](/en/post/time/)?"
+- **Interjection**: [Used](/post/used/) [to](/post/to/) politely [request](/post/request/) forgiveness [for](/post/for/) an [interruption](/post/interruption/), bodily [function](/post/function/), [or](/post/or/) [to](/post/to/) [ask](/post/ask/) [permission](/post/permission/) [to](/post/to/) [leave](/post/leave/). [For](/post/for/) [example](/post/example/): "[Excuse](/post/excuse/) [me](/post/me/), [could](/post/could/) [you](/post/you/) [tell](/post/tell/) [me](/post/me/) [the](/post/the/) [time](/post/time/)?"
 
 ## Phrases
-- "[Make](/en/post/make/) an [excuse](/en/post/excuse/)" [means](/en/post/means/) [to](/en/post/to/) [come](/en/post/come/) [up](/en/post/up/) [with](/en/post/with/) [or](/en/post/or/) [present](/en/post/present/) [a](/en/post/a/) [reason](/en/post/reason/) [for](/en/post/for/) [something](/en/post/something/), [often](/en/post/often/) [to](/en/post/to/) [avoid](/en/post/avoid/) doing [something](/en/post/something/) [or](/en/post/or/) [to](/en/post/to/) [explain](/en/post/explain/) [away](/en/post/away/) [a](/en/post/a/) [mistake](/en/post/mistake/).
-- "[Without](/en/post/without/) [excuse](/en/post/excuse/)" implies [there](/en/post/there/) is [no](/en/post/no/) [valid](/en/post/valid/) [reason](/en/post/reason/) [or](/en/post/or/) justification [for](/en/post/for/) an [action](/en/post/action/) [or](/en/post/or/) [situation](/en/post/situation/).
-- "[Excuse](/en/post/excuse/) [me](/en/post/me/)" is [used](/en/post/used/) [to](/en/post/to/) [apologize](/en/post/apologize/) [for](/en/post/for/) [minor](/en/post/minor/) [social](/en/post/social/) infractions [or](/en/post/or/) [to](/en/post/to/) [get](/en/post/get/) someone's [attention](/en/post/attention/).
+- "[Make](/post/make/) an [excuse](/post/excuse/)" [means](/post/means/) [to](/post/to/) [come](/post/come/) [up](/post/up/) [with](/post/with/) [or](/post/or/) [present](/post/present/) [a](/post/a/) [reason](/post/reason/) [for](/post/for/) [something](/post/something/), [often](/post/often/) [to](/post/to/) [avoid](/post/avoid/) doing [something](/post/something/) [or](/post/or/) [to](/post/to/) [explain](/post/explain/) [away](/post/away/) [a](/post/a/) [mistake](/post/mistake/).
+- "[Without](/post/without/) [excuse](/post/excuse/)" implies [there](/post/there/) is [no](/post/no/) [valid](/post/valid/) [reason](/post/reason/) [or](/post/or/) justification [for](/post/for/) an [action](/post/action/) [or](/post/or/) [situation](/post/situation/).
+- "[Excuse](/post/excuse/) [me](/post/me/)" is [used](/post/used/) [to](/post/to/) [apologize](/post/apologize/) [for](/post/for/) [minor](/post/minor/) [social](/post/social/) infractions [or](/post/or/) [to](/post/to/) [get](/post/get/) someone's [attention](/post/attention/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [headache](/en/post/headache/) was [a](/en/post/a/) [poor](/en/post/poor/) [excuse](/en/post/excuse/) [for](/en/post/for/) [missing](/en/post/missing/) [work](/en/post/work/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) excused [the](/en/post/the/) students [early](/en/post/early/) [because](/en/post/because/) [of](/en/post/of/) [the](/en/post/the/) [storm](/en/post/storm/)."
-- **Interjection**: "[Excuse](/en/post/excuse/) [me](/en/post/me/), [do](/en/post/do/) [you](/en/post/you/) [know](/en/post/know/) [where](/en/post/where/) [the](/en/post/the/) nearest [post](/en/post/post/) [office](/en/post/office/) is?"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [headache](/post/headache/) was [a](/post/a/) [poor](/post/poor/) [excuse](/post/excuse/) [for](/post/for/) [missing](/post/missing/) [work](/post/work/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [teacher](/post/teacher/) excused [the](/post/the/) students [early](/post/early/) [because](/post/because/) [of](/post/of/) [the](/post/the/) [storm](/post/storm/)."
+- **Interjection**: "[Excuse](/post/excuse/) [me](/post/me/), [do](/post/do/) [you](/post/you/) [know](/post/know/) [where](/post/where/) [the](/post/the/) nearest [post](/post/post/) [office](/post/office/) is?"
 
 ## Synonyms
 - Justification
-- [Reason](/en/post/reason/)
-- [Pardon](/en/post/pardon/)
-- [Apology](/en/post/apology/)
-- Alibi ([for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [instance](/en/post/instance/))
+- [Reason](/post/reason/)
+- [Pardon](/post/pardon/)
+- [Apology](/post/apology/)
+- Alibi ([for](/post/for/) [a](/post/a/) [specific](/post/specific/) [instance](/post/instance/))
 - Forgiveness
-- [Release](/en/post/release/) ([from](/en/post/from/) [a](/en/post/a/) [duty](/en/post/duty/) [or](/en/post/or/) obligation)
+- [Release](/post/release/) ([from](/post/from/) [a](/post/a/) [duty](/post/duty/) [or](/post/or/) obligation)

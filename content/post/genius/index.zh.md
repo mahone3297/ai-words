@@ -11,20 +11,20 @@ keywords = ['ai words', 'genius']
 /ˈdʒiː.niəs/
 
 ## 释义
-- **名词**: 极其聪明的人；天才。例如: "Einstein was considered [a](/post/a/) [genius](/post/genius/) [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [physics](/post/physics/)."
-- **形容词**: 极其聪明的；天才般的。例如: "[The](/post/the/) [child](/post/child/) displayed genius-level [intelligence](/post/intelligence/) [from](/post/from/) an [early](/post/early/) [age](/post/age/)."
+- **名词**: 极其聪明的人；天才。例如: "Einstein was considered [a](/zh/post/a/) [genius](/zh/post/genius/) [in](/zh/post/in/) [the](/zh/post/the/) [field](/zh/post/field/) [of](/zh/post/of/) [physics](/zh/post/physics/)."
+- **形容词**: 极其聪明的；天才般的。例如: "[The](/zh/post/the/) [child](/zh/post/child/) displayed genius-level [intelligence](/zh/post/intelligence/) [from](/zh/post/from/) an [early](/zh/post/early/) [age](/zh/post/age/)."
 
 ## 短语
-- "[a](/post/a/) [genius](/post/genius/) [for](/post/for/) [something](/post/something/)" 表示在某方面有天赋。例如: "[She](/post/she/) has [a](/post/a/) [genius](/post/genius/) [for](/post/for/) solving [complex](/post/complex/) problems."
-- "[a](/post/a/) [work](/post/work/) [of](/post/of/) [genius](/post/genius/)" 指的是天才之作。例如: "[The](/post/the/) [painting](/post/painting/) is [widely](/post/widely/) regarded [as](/post/as/) [a](/post/a/) [work](/post/work/) [of](/post/of/) [genius](/post/genius/)."
+- "[a](/zh/post/a/) [genius](/zh/post/genius/) [for](/zh/post/for/) [something](/zh/post/something/)" 表示在某方面有天赋。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [genius](/zh/post/genius/) [for](/zh/post/for/) solving [complex](/zh/post/complex/) problems."
+- "[a](/zh/post/a/) [work](/zh/post/work/) [of](/zh/post/of/) [genius](/zh/post/genius/)" 指的是天才之作。例如: "[The](/zh/post/the/) [painting](/zh/post/painting/) is [widely](/zh/post/widely/) regarded [as](/zh/post/as/) [a](/zh/post/a/) [work](/zh/post/work/) [of](/zh/post/of/) [genius](/zh/post/genius/)."
 
 ## 例句
-- 名词: "[Many](/post/many/) [people](/post/people/) [believe](/post/believe/) [that](/post/that/) Mozart was [a](/post/a/) [musical](/post/musical/) [genius](/post/genius/)."
-- 形容词: "[His](/post/his/) innovative ideas showed [a](/post/a/) [genius](/post/genius/) [approach](/post/approach/) [to](/post/to/) [business](/post/business/)."
+- 名词: "[Many](/zh/post/many/) [people](/zh/post/people/) [believe](/zh/post/believe/) [that](/zh/post/that/) Mozart was [a](/zh/post/a/) [musical](/zh/post/musical/) [genius](/zh/post/genius/)."
+- 形容词: "[His](/zh/post/his/) innovative ideas showed [a](/zh/post/a/) [genius](/zh/post/genius/) [approach](/zh/post/approach/) [to](/zh/post/to/) [business](/zh/post/business/)."
 
 ## 同义词
 - prodigy
 - virtuoso
 - mastermind
 - intellect
-- whiz [kid](/post/kid/)
+- whiz [kid](/zh/post/kid/)

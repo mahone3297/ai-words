@@ -11,19 +11,19 @@ keywords = ['ai words', 'confusion']
 /confjuːˈzɪʃ(ə)n/
 
 ## 释义
-- **名词**: 混乱；混淆；困惑。例如: "[There](/post/there/) was [complete](/post/complete/) [confusion](/post/confusion/) [after](/post/after/) [the](/post/the/) [explosion](/post/explosion/)."
-- **形容词**: 混乱的；混淆的。例如: "[She](/post/she/) was [in](/post/in/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [confusion](/post/confusion/) [about](/post/about/) [what](/post/what/) [to](/post/to/) [do](/post/do/) [next](/post/next/)."
+- **名词**: 混乱；混淆；困惑。例如: "[There](/zh/post/there/) was [complete](/zh/post/complete/) [confusion](/zh/post/confusion/) [after](/zh/post/after/) [the](/zh/post/the/) [explosion](/zh/post/explosion/)."
+- **形容词**: 混乱的；混淆的。例如: "[She](/zh/post/she/) was [in](/zh/post/in/) [a](/zh/post/a/) [state](/zh/post/state/) [of](/zh/post/of/) [confusion](/zh/post/confusion/) [about](/zh/post/about/) [what](/zh/post/what/) [to](/zh/post/to/) [do](/zh/post/do/) [next](/zh/post/next/)."
 
 ## 短语
-- "[in](/post/in/) [confusion](/post/confusion/)" 表示处于混乱状态。
-- "[to](/post/to/) [clear](/post/clear/) [up](/post/up/) [the](/post/the/) [confusion](/post/confusion/)" 意为消除困惑。
+- "[in](/zh/post/in/) [confusion](/zh/post/confusion/)" 表示处于混乱状态。
+- "[to](/zh/post/to/) [clear](/zh/post/clear/) [up](/zh/post/up/) [the](/zh/post/the/) [confusion](/zh/post/confusion/)" 意为消除困惑。
 
 ## 例句
-- 名词: "[The](/post/the/) [crowd](/post/crowd/) was [in](/post/in/) [confusion](/post/confusion/) [when](/post/when/) [the](/post/the/) [fire](/post/fire/) [alarm](/post/alarm/) went [off](/post/off/)."
-- 形容词: "[His](/post/his/) thoughts were [in](/post/in/) [such](/post/such/) [confusion](/post/confusion/) [that](/post/that/) [he](/post/he/) couldn't [make](/post/make/) [a](/post/a/) [decision](/post/decision/)."
+- 名词: "[The](/zh/post/the/) [crowd](/zh/post/crowd/) was [in](/zh/post/in/) [confusion](/zh/post/confusion/) [when](/zh/post/when/) [the](/zh/post/the/) [fire](/zh/post/fire/) [alarm](/zh/post/alarm/) went [off](/zh/post/off/)."
+- 形容词: "[His](/zh/post/his/) thoughts were [in](/zh/post/in/) [such](/zh/post/such/) [confusion](/zh/post/confusion/) [that](/zh/post/that/) [he](/zh/post/he/) couldn't [make](/zh/post/make/) [a](/zh/post/a/) [decision](/zh/post/decision/)."
 
 ## 同义词
-- [Disorder](/post/disorder/)
+- [Disorder](/zh/post/disorder/)
 - Bafflement
 - Perplexity
 - Bewilderment

@@ -7,31 +7,31 @@ description = '[əˈkɔːdiŋli] ad.因此，所以；照着'
 keywords = ['ai words', 'accordingly']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈkɔːrdɪŋli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [corresponding](/en/post/corresponding/) [to](/en/post/to/) [or](/en/post/or/) [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) has happened [or](/en/post/or/) been said; appropriately. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [order](/en/post/order/) [of](/en/post/of/) events. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) adjusted [her](/en/post/her/) [schedule](/en/post/schedule/) [accordingly](/en/post/accordingly/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [corresponding](/post/corresponding/) [to](/post/to/) [or](/post/or/) [in](/post/in/) [response](/post/response/) [to](/post/to/) [something](/post/something/) [that](/post/that/) has happened [or](/post/or/) been said; appropriately. [It](/post/it/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [the](/post/the/) [order](/post/order/) [of](/post/of/) events. [For](/post/for/) [example](/post/example/): "[She](/post/she/) adjusted [her](/post/her/) [schedule](/post/schedule/) [accordingly](/post/accordingly/)."
 
 ## Phrases
-- "[Act](/en/post/act/) [accordingly](/en/post/accordingly/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [action](/en/post/action/) based [on](/en/post/on/) [the](/en/post/the/) given circumstances.
-- "[Accordingly](/en/post/accordingly/), [he](/en/post/he/) changed [his](/en/post/his/) plans."
-- "[The](/en/post/the/) [meeting](/en/post/meeting/) was postponed, [so](/en/post/so/) [they](/en/post/they/) decided [to](/en/post/to/) reschedule [accordingly](/en/post/accordingly/)."
+- "[Act](/post/act/) [accordingly](/post/accordingly/)" [means](/post/means/) [to](/post/to/) [take](/post/take/) [action](/post/action/) based [on](/post/on/) [the](/post/the/) given circumstances.
+- "[Accordingly](/post/accordingly/), [he](/post/he/) changed [his](/post/his/) plans."
+- "[The](/post/the/) [meeting](/post/meeting/) was postponed, [so](/post/so/) [they](/post/they/) decided [to](/post/to/) reschedule [accordingly](/post/accordingly/)."
 
-## [Example](/en/post/example/) Sentences
-- "[The](/en/post/the/) instructions were [clear](/en/post/clear/), [and](/en/post/and/) [he](/en/post/he/) carried [out](/en/post/out/) [the](/en/post/the/) tasks [accordingly](/en/post/accordingly/)."
-- "[Due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [rain](/en/post/rain/), [the](/en/post/the/) [picnic](/en/post/picnic/) was moved [to](/en/post/to/) [the](/en/post/the/) indoor venue [accordingly](/en/post/accordingly/)."
-- "[If](/en/post/if/) [you](/en/post/you/) [feel](/en/post/feel/) unwell, [you](/en/post/you/) [should](/en/post/should/) [rest](/en/post/rest/) [accordingly](/en/post/accordingly/)."
+## [Example](/post/example/) Sentences
+- "[The](/post/the/) instructions were [clear](/post/clear/), [and](/post/and/) [he](/post/he/) carried [out](/post/out/) [the](/post/the/) tasks [accordingly](/post/accordingly/)."
+- "[Due](/post/due/) [to](/post/to/) [the](/post/the/) [rain](/post/rain/), [the](/post/the/) [picnic](/post/picnic/) was moved [to](/post/to/) [the](/post/the/) indoor venue [accordingly](/post/accordingly/)."
+- "[If](/post/if/) [you](/post/you/) [feel](/post/feel/) unwell, [you](/post/you/) [should](/post/should/) [rest](/post/rest/) [accordingly](/post/accordingly/)."
 
 ## Synonyms
-- [Consequently](/en/post/consequently/)
-- [Hence](/en/post/hence/)
-- [Thus](/en/post/thus/)
-- [Accordingly](/en/post/accordingly/)
-- [As](/en/post/as/) [such](/en/post/such/)
-- [In](/en/post/in/) [consequence](/en/post/consequence/)
+- [Consequently](/post/consequently/)
+- [Hence](/post/hence/)
+- [Thus](/post/thus/)
+- [Accordingly](/post/accordingly/)
+- [As](/post/as/) [such](/post/such/)
+- [In](/post/in/) [consequence](/post/consequence/)
 
 ## Antonyms
-- Disregarding ([opposite](/en/post/opposite/) [of](/en/post/of/) considering)
+- Disregarding ([opposite](/post/opposite/) [of](/post/of/) considering)
 - Unconsequently
-- Irrespective (lacking [consideration](/en/post/consideration/) [for](/en/post/for/) [the](/en/post/the/) consequences)
+- Irrespective (lacking [consideration](/post/consideration/) [for](/post/for/) [the](/post/the/) consequences)

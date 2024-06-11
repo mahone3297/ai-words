@@ -7,44 +7,44 @@ description = '[kwiə] a.奇怪的，古怪的'
 keywords = ['ai words', 'queer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kwaɪər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Queer](/en/post/queer/)** (informal): [In](/en/post/in/) British English, [a](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) identifies [as](/en/post/as/) LGBTQ+ [or](/en/post/or/) has [a](/en/post/a/) non-traditional sexual orientation [or](/en/post/or/) gender identity. (Historically, [it](/en/post/it/) was [also](/en/post/also/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) slang [term](/en/post/term/) [with](/en/post/with/) [a](/en/post/a/) pejorative connotation, [but](/en/post/but/) [this](/en/post/this/) [usage](/en/post/usage/) is considered offensive.)
-2. **[Queer](/en/post/queer/) [culture](/en/post/culture/)**: [The](/en/post/the/) subculture associated [with](/en/post/with/) LGBTQ+ [people](/en/post/people/), including [literature](/en/post/literature/), [art](/en/post/art/), [music](/en/post/music/), [and](/en/post/and/) events.
+### [Noun](/post/noun/)
+1. **[Queer](/post/queer/)** (informal): [In](/post/in/) British English, [a](/post/a/) [term](/post/term/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [a](/post/a/) [person](/post/person/) [who](/post/who/) identifies [as](/post/as/) LGBTQ+ [or](/post/or/) has [a](/post/a/) non-traditional sexual orientation [or](/post/or/) gender identity. (Historically, [it](/post/it/) was [also](/post/also/) [used](/post/used/) [as](/post/as/) [a](/post/a/) slang [term](/post/term/) [with](/post/with/) [a](/post/a/) pejorative connotation, [but](/post/but/) [this](/post/this/) [usage](/post/usage/) is considered offensive.)
+2. **[Queer](/post/queer/) [culture](/post/culture/)**: [The](/post/the/) subculture associated [with](/post/with/) LGBTQ+ [people](/post/people/), including [literature](/post/literature/), [art](/post/art/), [music](/post/music/), [and](/post/and/) events.
 
-### [Adjective](/en/post/adjective/)
-1. **[Queer](/en/post/queer/)**: [Used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) is [unusual](/en/post/unusual/), unconventional, [or](/en/post/or/) [outside](/en/post/outside/) [the](/en/post/the/) norm, [particularly](/en/post/particularly/) [in](/en/post/in/) [relation](/en/post/relation/) [to](/en/post/to/) gender [or](/en/post/or/) sexuality.
-2. **[Queer](/en/post/queer/) [theory](/en/post/theory/)**: An [academic](/en/post/academic/) [field](/en/post/field/) [that](/en/post/that/) studies LGBTQ+ experiences, identities, [and](/en/post/and/) [social](/en/post/social/) structures.
+### [Adjective](/post/adjective/)
+1. **[Queer](/post/queer/)**: [Used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) is [unusual](/post/unusual/), unconventional, [or](/post/or/) [outside](/post/outside/) [the](/post/the/) norm, [particularly](/post/particularly/) [in](/post/in/) [relation](/post/relation/) [to](/post/to/) gender [or](/post/or/) sexuality.
+2. **[Queer](/post/queer/) [theory](/post/theory/)**: An [academic](/post/academic/) [field](/post/field/) [that](/post/that/) studies LGBTQ+ experiences, identities, [and](/post/and/) [social](/post/social/) structures.
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [queer](/en/post/queer/)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) unconventional, [peculiar](/en/post/peculiar/), [or](/en/post/or/) deviate [from](/en/post/from/) [the](/en/post/the/) norm, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [positive](/en/post/positive/) [sense](/en/post/sense/).
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [queer](/post/queer/)**: [To](/post/to/) [make](/post/make/) [something](/post/something/) unconventional, [peculiar](/post/peculiar/), [or](/post/or/) deviate [from](/post/from/) [the](/post/the/) norm, [often](/post/often/) [in](/post/in/) [a](/post/a/) [positive](/post/positive/) [sense](/post/sense/).
 
 ## Phrases
-- "[Come](/en/post/come/) [out](/en/post/out/) [as](/en/post/as/) [queer](/en/post/queer/)" [means](/en/post/means/) [to](/en/post/to/) publicly [disclose](/en/post/disclose/) one's LGBTQ+ identity.
-- "[Queer](/en/post/queer/) [pride](/en/post/pride/)" refers [to](/en/post/to/) [the](/en/post/the/) celebration [and](/en/post/and/) [support](/en/post/support/) [of](/en/post/of/) LGBTQ+ rights [and](/en/post/and/) visibility.
-- "Queer-friendly" describes an [environment](/en/post/environment/) [or](/en/post/or/) [community](/en/post/community/) [that](/en/post/that/) is accepting [and](/en/post/and/) inclusive [of](/en/post/of/) LGBTQ+ individuals.
+- "[Come](/post/come/) [out](/post/out/) [as](/post/as/) [queer](/post/queer/)" [means](/post/means/) [to](/post/to/) publicly [disclose](/post/disclose/) one's LGBTQ+ identity.
+- "[Queer](/post/queer/) [pride](/post/pride/)" refers [to](/post/to/) [the](/post/the/) celebration [and](/post/and/) [support](/post/support/) [of](/post/of/) LGBTQ+ rights [and](/post/and/) visibility.
+- "Queer-friendly" describes an [environment](/post/environment/) [or](/post/or/) [community](/post/community/) [that](/post/that/) is accepting [and](/post/and/) inclusive [of](/post/of/) LGBTQ+ individuals.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) LGBTQ+ [community](/en/post/community/) has [a](/en/post/a/) [rich](/en/post/rich/) [queer](/en/post/queer/) [culture](/en/post/culture/) [with](/en/post/with/) [its](/en/post/its/) [own](/en/post/own/) festivals [and](/en/post/and/) events."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [book](/en/post/book/) explores [the](/en/post/the/) [queer](/en/post/queer/) perspectives [on](/en/post/on/) [family](/en/post/family/) dynamics."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [artist](/en/post/artist/) intentionally queered [traditional](/en/post/traditional/) [art](/en/post/art/) forms [to](/en/post/to/) [challenge](/en/post/challenge/) norms."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) LGBTQ+ [community](/post/community/) has [a](/post/a/) [rich](/post/rich/) [queer](/post/queer/) [culture](/post/culture/) [with](/post/with/) [its](/post/its/) [own](/post/own/) festivals [and](/post/and/) events."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [book](/post/book/) explores [the](/post/the/) [queer](/post/queer/) perspectives [on](/post/on/) [family](/post/family/) dynamics."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [artist](/post/artist/) intentionally queered [traditional](/post/traditional/) [art](/post/art/) forms [to](/post/to/) [challenge](/post/challenge/) norms."
 
-## Synonyms ([Noun](/en/post/noun/))
+## Synonyms ([Noun](/post/noun/))
 - LGBTQ+
-- [Gay](/en/post/gay/)
+- [Gay](/post/gay/)
 - Lesbian
 - Bisexual
 - Transgender
 - Non-binary
 
-## Synonyms ([Adjective](/en/post/adjective/))
+## Synonyms ([Adjective](/post/adjective/))
 - Unconventional
 - Unorthodox
 - Non-heterosexual
 - Non-binary
-- [Diverse](/en/post/diverse/)
+- [Diverse](/post/diverse/)
 
-[Note](/en/post/note/): [The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) "[queer](/en/post/queer/)" [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [for](/en/post/for/) LGBTQ+ individuals [can](/en/post/can/) [be](/en/post/be/) seen [as](/en/post/as/) reclaimed [by](/en/post/by/) [some](/en/post/some/) members [of](/en/post/of/) [the](/en/post/the/) [community](/en/post/community/), [while](/en/post/while/) others [prefer](/en/post/prefer/) [other](/en/post/other/) terms [for](/en/post/for/) clarity [and](/en/post/and/) [respect](/en/post/respect/). It's [essential](/en/post/essential/) [to](/en/post/to/) [be](/en/post/be/) [aware](/en/post/aware/) [of](/en/post/of/) [these](/en/post/these/) nuances [and](/en/post/and/) [use](/en/post/use/) [the](/en/post/the/) preferred [term](/en/post/term/) [when](/en/post/when/) interacting [with](/en/post/with/) [the](/en/post/the/) LGBTQ+ [community](/en/post/community/).
+[Note](/post/note/): [The](/post/the/) [use](/post/use/) [of](/post/of/) "[queer](/post/queer/)" [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [for](/post/for/) LGBTQ+ individuals [can](/post/can/) [be](/post/be/) seen [as](/post/as/) reclaimed [by](/post/by/) [some](/post/some/) members [of](/post/of/) [the](/post/the/) [community](/post/community/), [while](/post/while/) others [prefer](/post/prefer/) [other](/post/other/) terms [for](/post/for/) clarity [and](/post/and/) [respect](/post/respect/). It's [essential](/post/essential/) [to](/post/to/) [be](/post/be/) [aware](/post/aware/) [of](/post/of/) [these](/post/these/) nuances [and](/post/and/) [use](/post/use/) [the](/post/the/) preferred [term](/post/term/) [when](/post/when/) interacting [with](/post/with/) [the](/post/the/) LGBTQ+ [community](/post/community/).

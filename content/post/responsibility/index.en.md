@@ -7,38 +7,38 @@ description = '[risˌpɔnsəˈbiliti] n.责任(心)；职责'
 keywords = ['ai words', 'responsibility']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˌspɒnsəˈbɪləti/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Responsibility](/en/post/responsibility/)**: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [fact](/en/post/fact/) [of](/en/post/of/) [being](/en/post/being/) [responsible](/en/post/responsible/) [for](/en/post/for/) [something](/en/post/something/); [the](/en/post/the/) obligation [to](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [or](/en/post/or/) [take](/en/post/take/) [care](/en/post/care/) [of](/en/post/of/) [something](/en/post/something/). 
+### [Noun](/post/noun/)
+**[Responsibility](/post/responsibility/)**: [The](/post/the/) [state](/post/state/) [or](/post/or/) [fact](/post/fact/) [of](/post/of/) [being](/post/being/) [responsible](/post/responsible/) [for](/post/for/) [something](/post/something/); [the](/post/the/) obligation [to](/post/to/) [deal](/post/deal/) [with](/post/with/) [or](/post/or/) [take](/post/take/) [care](/post/care/) [of](/post/of/) [something](/post/something/). 
 
-**Etymology**: [From](/en/post/from/) [Old](/en/post/old/) French responsabilité, derived [from](/en/post/from/) Latin responsibilis (answerable), [from](/en/post/from/) respondere ([to](/en/post/to/) [answer](/en/post/answer/)).
+**Etymology**: [From](/post/from/) [Old](/post/old/) French responsabilité, derived [from](/post/from/) Latin responsibilis (answerable), [from](/post/from/) respondere ([to](/post/to/) [answer](/post/answer/)).
 
-### [Verb](/en/post/verb/)
-**[To](/en/post/to/) [assume](/en/post/assume/) [responsibility](/en/post/responsibility/)**: [To](/en/post/to/) [take](/en/post/take/) [on](/en/post/on/) [the](/en/post/the/) [duty](/en/post/duty/) [or](/en/post/or/) obligation [for](/en/post/for/) [something](/en/post/something/). 
+### [Verb](/post/verb/)
+**[To](/post/to/) [assume](/post/assume/) [responsibility](/post/responsibility/)**: [To](/post/to/) [take](/post/take/) [on](/post/on/) [the](/post/the/) [duty](/post/duty/) [or](/post/or/) obligation [for](/post/for/) [something](/post/something/). 
 
-**To逃避 [responsibility](/en/post/responsibility/)**: [To](/en/post/to/) [avoid](/en/post/avoid/) accountability [for](/en/post/for/) one's actions [or](/en/post/or/) decisions.
+**To逃避 [responsibility](/post/responsibility/)**: [To](/post/to/) [avoid](/post/avoid/) accountability [for](/post/for/) one's actions [or](/post/or/) decisions.
 
-### [Adjective](/en/post/adjective/)
-**[Responsible](/en/post/responsible/)**: Having [the](/en/post/the/) [ability](/en/post/ability/) [or](/en/post/or/) willingness [to](/en/post/to/) [be](/en/post/be/) accountable [for](/en/post/for/) one's actions [or](/en/post/or/) decisions.
+### [Adjective](/post/adjective/)
+**[Responsible](/post/responsible/)**: Having [the](/post/the/) [ability](/post/ability/) [or](/post/or/) willingness [to](/post/to/) [be](/post/be/) accountable [for](/post/for/) one's actions [or](/post/or/) decisions.
 
-**Accountable**: [Being](/en/post/being/) [responsible](/en/post/responsible/) [for](/en/post/for/) [the](/en/post/the/) consequences [of](/en/post/of/) one's actions.
+**Accountable**: [Being](/post/being/) [responsible](/post/responsible/) [for](/post/for/) [the](/post/the/) consequences [of](/post/of/) one's actions.
 
 ## Phrases
-- "[Take](/en/post/take/) [responsibility](/en/post/responsibility/) [for](/en/post/for/)" [means](/en/post/means/) [to](/en/post/to/) [assume](/en/post/assume/) [the](/en/post/the/) [duty](/en/post/duty/) [or](/en/post/or/) [ownership](/en/post/ownership/) [of](/en/post/of/) [something](/en/post/something/).
-- "[Shift](/en/post/shift/) [the](/en/post/the/) [responsibility](/en/post/responsibility/)" implies transferring [the](/en/post/the/) obligation [to](/en/post/to/) [another](/en/post/another/) [person](/en/post/person/) [or](/en/post/or/) entity.
-- "[Act](/en/post/act/) responsibly" refers [to](/en/post/to/) behaving [with](/en/post/with/) [care](/en/post/care/) [and](/en/post/and/) [consideration](/en/post/consideration/) [for](/en/post/for/) consequences.
+- "[Take](/post/take/) [responsibility](/post/responsibility/) [for](/post/for/)" [means](/post/means/) [to](/post/to/) [assume](/post/assume/) [the](/post/the/) [duty](/post/duty/) [or](/post/or/) [ownership](/post/ownership/) [of](/post/of/) [something](/post/something/).
+- "[Shift](/post/shift/) [the](/post/the/) [responsibility](/post/responsibility/)" implies transferring [the](/post/the/) obligation [to](/post/to/) [another](/post/another/) [person](/post/person/) [or](/post/or/) entity.
+- "[Act](/post/act/) responsibly" refers [to](/post/to/) behaving [with](/post/with/) [care](/post/care/) [and](/post/and/) [consideration](/post/consideration/) [for](/post/for/) consequences.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Each](/en/post/each/) [team](/en/post/team/) [member](/en/post/member/) has [a](/en/post/a/) [clear](/en/post/clear/) [sense](/en/post/sense/) [of](/en/post/of/) [responsibility](/en/post/responsibility/) [for](/en/post/for/) [their](/en/post/their/) project's [success](/en/post/success/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was forced [to](/en/post/to/) [take](/en/post/take/) [responsibility](/en/post/responsibility/) [for](/en/post/for/) [the](/en/post/the/) [accident](/en/post/accident/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) manager expects [all](/en/post/all/) employees [to](/en/post/to/) [be](/en/post/be/) [responsible](/en/post/responsible/) [for](/en/post/for/) [their](/en/post/their/) [work](/en/post/work/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Each](/post/each/) [team](/post/team/) [member](/post/member/) has [a](/post/a/) [clear](/post/clear/) [sense](/post/sense/) [of](/post/of/) [responsibility](/post/responsibility/) [for](/post/for/) [their](/post/their/) project's [success](/post/success/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) was forced [to](/post/to/) [take](/post/take/) [responsibility](/post/responsibility/) [for](/post/for/) [the](/post/the/) [accident](/post/accident/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) manager expects [all](/post/all/) employees [to](/post/to/) [be](/post/be/) [responsible](/post/responsible/) [for](/post/for/) [their](/post/their/) [work](/post/work/)."
 
 ## Synonyms
 - Accountability
-- [Duty](/en/post/duty/)
+- [Duty](/post/duty/)
 - Obligation
 - Liability
 - Responsiveness

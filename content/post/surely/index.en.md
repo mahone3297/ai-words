@@ -7,32 +7,32 @@ description = '[ˈ∫uəli] a.确实；稳当地'
 keywords = ['ai words', 'surely']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɜːˈʃʊəli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Expressing [certainty](/en/post/certainty/) [or](/en/post/or/) [confidence](/en/post/confidence/) [in](/en/post/in/) [a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) prediction. [For](/en/post/for/) [example](/en/post/example/): "I'm [sure](/en/post/sure/) he'll [arrive](/en/post/arrive/) [on](/en/post/on/) [time](/en/post/time/)."
-- **[Adjective](/en/post/adjective/)**: [Certain](/en/post/certain/); [without](/en/post/without/) [doubt](/en/post/doubt/); confidently. [For](/en/post/for/) [example](/en/post/example/): "[Surely](/en/post/surely/), [you](/en/post/you/) [remember](/en/post/remember/) [this](/en/post/this/) [from](/en/post/from/) [our](/en/post/our/) [discussion](/en/post/discussion/) earlier."
+- **[Adverb](/post/adverb/)**: Expressing [certainty](/post/certainty/) [or](/post/or/) [confidence](/post/confidence/) [in](/post/in/) [a](/post/a/) [statement](/post/statement/) [or](/post/or/) prediction. [For](/post/for/) [example](/post/example/): "I'm [sure](/post/sure/) he'll [arrive](/post/arrive/) [on](/post/on/) [time](/post/time/)."
+- **[Adjective](/post/adjective/)**: [Certain](/post/certain/); [without](/post/without/) [doubt](/post/doubt/); confidently. [For](/post/for/) [example](/post/example/): "[Surely](/post/surely/), [you](/post/you/) [remember](/post/remember/) [this](/post/this/) [from](/post/from/) [our](/post/our/) [discussion](/post/discussion/) earlier."
 
 ## Phrases
-- "[Surely](/en/post/surely/) [you](/en/post/you/) [know](/en/post/know/)" implies [that](/en/post/that/) [something](/en/post/something/) is [obviously](/en/post/obviously/) [true](/en/post/true/).
-- "There's [no](/en/post/no/) [doubt](/en/post/doubt/) [that](/en/post/that/)" emphasizes [certainty](/en/post/certainty/) [about](/en/post/about/) [a](/en/post/a/) [fact](/en/post/fact/).
-- "[Beyond](/en/post/beyond/) [a](/en/post/a/) [shadow](/en/post/shadow/) [of](/en/post/of/) [a](/en/post/a/) [doubt](/en/post/doubt/)" indicates [complete](/en/post/complete/) [certainty](/en/post/certainty/).
+- "[Surely](/post/surely/) [you](/post/you/) [know](/post/know/)" implies [that](/post/that/) [something](/post/something/) is [obviously](/post/obviously/) [true](/post/true/).
+- "There's [no](/post/no/) [doubt](/post/doubt/) [that](/post/that/)" emphasizes [certainty](/post/certainty/) [about](/post/about/) [a](/post/a/) [fact](/post/fact/).
+- "[Beyond](/post/beyond/) [a](/post/a/) [shadow](/post/shadow/) [of](/post/of/) [a](/post/a/) [doubt](/post/doubt/)" indicates [complete](/post/complete/) [certainty](/post/certainty/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "Don't [worry](/en/post/worry/), [surely](/en/post/surely/) [everything](/en/post/everything/) [will](/en/post/will/) [work](/en/post/work/) [out](/en/post/out/)."
-- **[Adjective](/en/post/adjective/)**: "[Surely](/en/post/surely/), [the](/en/post/the/) [answer](/en/post/answer/) [must](/en/post/must/) [be](/en/post/be/) [correct](/en/post/correct/)."
-- **Interrogative**: "[Surely](/en/post/surely/), [you](/en/post/you/) can't [be](/en/post/be/) [serious](/en/post/serious/)?"
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "Don't [worry](/post/worry/), [surely](/post/surely/) [everything](/post/everything/) [will](/post/will/) [work](/post/work/) [out](/post/out/)."
+- **[Adjective](/post/adjective/)**: "[Surely](/post/surely/), [the](/post/the/) [answer](/post/answer/) [must](/post/must/) [be](/post/be/) [correct](/post/correct/)."
+- **Interrogative**: "[Surely](/post/surely/), [you](/post/you/) can't [be](/post/be/) [serious](/post/serious/)?"
 
 ## Synonyms
-- [Absolutely](/en/post/absolutely/)
-- [Definitely](/en/post/definitely/)
+- [Absolutely](/post/absolutely/)
+- [Definitely](/post/definitely/)
 - Positively
-- [Without](/en/post/without/) [a](/en/post/a/) [doubt](/en/post/doubt/)
-- [Certainty](/en/post/certainty/)
+- [Without](/post/without/) [a](/post/a/) [doubt](/post/doubt/)
+- [Certainty](/post/certainty/)
 
 ## Antonyms
-- [Perhaps](/en/post/perhaps/)
-- [Maybe](/en/post/maybe/)
+- [Perhaps](/post/perhaps/)
+- [Maybe](/post/maybe/)
 - Doubtfully
 - Uncertainly

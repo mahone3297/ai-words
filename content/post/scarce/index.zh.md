@@ -11,20 +11,20 @@ keywords = ['ai words', 'scarce']
 /ˈskɛərəs/
 
 ## 释义
-- **形容词**: 缺乏的；不足的；稀少的。例如: "[Food](/post/food/) was [scarce](/post/scarce/) [during](/post/during/) [the](/post/the/) [winter](/post/winter/) months."
-- **副词**: 稀疏地；不常。例如: "[The](/post/the/) animals were seen [scarce](/post/scarce/) [in](/post/in/) [these](/post/these/) parts."
+- **形容词**: 缺乏的；不足的；稀少的。例如: "[Food](/zh/post/food/) was [scarce](/zh/post/scarce/) [during](/zh/post/during/) [the](/zh/post/the/) [winter](/zh/post/winter/) months."
+- **副词**: 稀疏地；不常。例如: "[The](/zh/post/the/) animals were seen [scarce](/zh/post/scarce/) [in](/zh/post/in/) [these](/zh/post/these/) parts."
 
 ## 短语
-- "[scarce](/post/scarce/) resources" 指稀缺资源。
-- "[scarce](/post/scarce/) [in](/post/in/) [supply](/post/supply/)" 意味供应不足。
+- "[scarce](/zh/post/scarce/) resources" 指稀缺资源。
+- "[scarce](/zh/post/scarce/) [in](/zh/post/in/) [supply](/zh/post/supply/)" 意味供应不足。
 
 ## 例句
-- 形容词: "[Water](/post/water/) became [scarce](/post/scarce/) [after](/post/after/) [the](/post/the/) [long](/post/long/) [drought](/post/drought/)."
-- 副词: "[The](/post/the/) birds were [scarce](/post/scarce/) [this](/post/this/) [year](/post/year/) [due](/post/due/) [to](/post/to/) habitat [destruction](/post/destruction/)."
+- 形容词: "[Water](/zh/post/water/) became [scarce](/zh/post/scarce/) [after](/zh/post/after/) [the](/zh/post/the/) [long](/zh/post/long/) [drought](/zh/post/drought/)."
+- 副词: "[The](/zh/post/the/) birds were [scarce](/zh/post/scarce/) [this](/zh/post/this/) [year](/zh/post/year/) [due](/zh/post/due/) [to](/zh/post/to/) habitat [destruction](/zh/post/destruction/)."
 
 ## 同义词
-- [Rare](/post/rare/)
+- [Rare](/zh/post/rare/)
 - Inadequate
-- [Insufficient](/post/insufficient/)
-- [Limited](/post/limited/)
+- [Insufficient](/zh/post/insufficient/)
+- [Limited](/zh/post/limited/)
 - Deficient

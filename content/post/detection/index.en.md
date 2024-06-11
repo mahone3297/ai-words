@@ -7,26 +7,26 @@ description = '[diˈtek∫ən] n.察觉，发觉；侦察'
 keywords = ['ai words', 'detection']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /həˈloʊ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [to](/en/post/to/) [greet](/en/post/greet/) [or](/en/post/or/) [address](/en/post/address/) [someone](/en/post/someone/); [a](/en/post/a/) [friendly](/en/post/friendly/) [expression](/en/post/expression/) [of](/en/post/of/) [recognition](/en/post/recognition/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) gave [her](/en/post/her/) [a](/en/post/a/) [friendly](/en/post/friendly/) [hello](/en/post/hello/) [when](/en/post/when/) [she](/en/post/she/) entered [the](/en/post/the/) [room](/en/post/room/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [say](/en/post/say/) "[hello](/en/post/hello/)" [or](/en/post/or/) [greet](/en/post/greet/) [someone](/en/post/someone/), typically [with](/en/post/with/) [a](/en/post/a/) [smile](/en/post/smile/) [or](/en/post/or/) [wave](/en/post/wave/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) greeted [the](/en/post/the/) guests [with](/en/post/with/) [a](/en/post/a/) hearty [hello](/en/post/hello/)."
-- **[Adjective](/en/post/adjective/)**: Expressing [or](/en/post/or/) characterized [by](/en/post/by/) friendliness [or](/en/post/or/) [warmth](/en/post/warmth/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [warm](/en/post/warm/) [hello](/en/post/hello/) [from](/en/post/from/) [across](/en/post/across/) [the](/en/post/the/) [street](/en/post/street/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [term](/post/term/) [used](/post/used/) [to](/post/to/) [greet](/post/greet/) [or](/post/or/) [address](/post/address/) [someone](/post/someone/); [a](/post/a/) [friendly](/post/friendly/) [expression](/post/expression/) [of](/post/of/) [recognition](/post/recognition/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) gave [her](/post/her/) [a](/post/a/) [friendly](/post/friendly/) [hello](/post/hello/) [when](/post/when/) [she](/post/she/) entered [the](/post/the/) [room](/post/room/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [say](/post/say/) "[hello](/post/hello/)" [or](/post/or/) [greet](/post/greet/) [someone](/post/someone/), typically [with](/post/with/) [a](/post/a/) [smile](/post/smile/) [or](/post/or/) [wave](/post/wave/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) greeted [the](/post/the/) guests [with](/post/with/) [a](/post/a/) hearty [hello](/post/hello/)."
+- **[Adjective](/post/adjective/)**: Expressing [or](/post/or/) characterized [by](/post/by/) friendliness [or](/post/or/) [warmth](/post/warmth/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [warm](/post/warm/) [hello](/post/hello/) [from](/post/from/) [across](/post/across/) [the](/post/the/) [street](/post/street/)."
 
 ## Phrases
-- "[Give](/en/post/give/) [someone](/en/post/someone/) [a](/en/post/a/) [hello](/en/post/hello/)" [means](/en/post/means/) [to](/en/post/to/) initiate [a](/en/post/a/) [greeting](/en/post/greeting/).
-- "[Goodbye](/en/post/goodbye/), [hello](/en/post/hello/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) describing [the](/en/post/the/) [cycle](/en/post/cycle/) [of](/en/post/of/) parting [and](/en/post/and/) reconnection.
-- "[Hello](/en/post/hello/), [my](/en/post/my/) [love](/en/post/love/)" is [a](/en/post/a/) [romantic](/en/post/romantic/) [expression](/en/post/expression/) [of](/en/post/of/) [affection](/en/post/affection/).
+- "[Give](/post/give/) [someone](/post/someone/) [a](/post/a/) [hello](/post/hello/)" [means](/post/means/) [to](/post/to/) initiate [a](/post/a/) [greeting](/post/greeting/).
+- "[Goodbye](/post/goodbye/), [hello](/post/hello/)" is [a](/post/a/) [phrase](/post/phrase/) describing [the](/post/the/) [cycle](/post/cycle/) [of](/post/of/) parting [and](/post/and/) reconnection.
+- "[Hello](/post/hello/), [my](/post/my/) [love](/post/love/)" is [a](/post/a/) [romantic](/post/romantic/) [expression](/post/expression/) [of](/post/of/) [affection](/post/affection/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [postman](/en/post/postman/) [always](/en/post/always/) gave [her](/en/post/her/) [a](/en/post/a/) cheery [hello](/en/post/hello/) [on](/en/post/on/) [his](/en/post/his/) [daily](/en/post/daily/) [route](/en/post/route/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/) [at](/en/post/at/) [work](/en/post/work/), [he](/en/post/he/) greeted [his](/en/post/his/) [family](/en/post/family/) [with](/en/post/with/) [a](/en/post/a/) [big](/en/post/big/) [hello](/en/post/hello/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [bright](/en/post/bright/) [hello](/en/post/hello/) lit [up](/en/post/up/) [the](/en/post/the/) [room](/en/post/room/) [when](/en/post/when/) [she](/en/post/she/) entered."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [postman](/post/postman/) [always](/post/always/) gave [her](/post/her/) [a](/post/a/) cheery [hello](/post/hello/) [on](/post/on/) [his](/post/his/) [daily](/post/daily/) [route](/post/route/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/), [he](/post/he/) greeted [his](/post/his/) [family](/post/family/) [with](/post/with/) [a](/post/a/) [big](/post/big/) [hello](/post/hello/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [bright](/post/bright/) [hello](/post/hello/) lit [up](/post/up/) [the](/post/the/) [room](/post/room/) [when](/post/when/) [she](/post/she/) entered."
 
 ## Synonyms
-- [Hi](/en/post/hi/)
+- [Hi](/post/hi/)
 - Hey
 - Greetings
 - Salutations
@@ -34,4 +34,4 @@ keywords = ['ai words', 'detection']
 - Yo!
 - Ahoy
 - Aloha
-- Howdy (informal, [mainly](/en/post/mainly/) [American](/en/post/american/))
+- Howdy (informal, [mainly](/post/mainly/) [American](/post/american/))

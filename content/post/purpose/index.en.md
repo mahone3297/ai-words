@@ -7,38 +7,38 @@ description = '[ˈpəːpəs] n.目的；意图；效果'
 keywords = ['ai words', 'purpose']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pəˈpɜːrəs/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) [reason](/en/post/reason/) [or](/en/post/or/) intended [use](/en/post/use/) [for](/en/post/for/) [something](/en/post/something/); [a](/en/post/a/) [goal](/en/post/goal/) [or](/en/post/or/) [aim](/en/post/aim/). 2. [The](/en/post/the/) [function](/en/post/function/) [or](/en/post/or/) [role](/en/post/role/) [of](/en/post/of/) an [object](/en/post/object/) [or](/en/post/or/) [person](/en/post/person/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) context. 3. [A](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/) [or](/en/post/or/) [assignment](/en/post/assignment/). (e.g., "[The](/en/post/the/) book's [purpose](/en/post/purpose/) is [to](/en/post/to/) [educate](/en/post/educate/) readers.")
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [assign](/en/post/assign/) [a](/en/post/a/) [purpose](/en/post/purpose/) [or](/en/post/or/) [determine](/en/post/determine/) [the](/en/post/the/) [function](/en/post/function/) [of](/en/post/of/) [something](/en/post/something/). (e.g., "[We](/en/post/we/) [must](/en/post/must/) [determine](/en/post/determine/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) [this](/en/post/this/) [meeting](/en/post/meeting/).")
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) [reason](/post/reason/) [or](/post/or/) intended [use](/post/use/) [for](/post/for/) [something](/post/something/); [a](/post/a/) [goal](/post/goal/) [or](/post/or/) [aim](/post/aim/). 2. [The](/post/the/) [function](/post/function/) [or](/post/or/) [role](/post/role/) [of](/post/of/) an [object](/post/object/) [or](/post/or/) [person](/post/person/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) context. 3. [A](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/) [or](/post/or/) [assignment](/post/assignment/). (e.g., "[The](/post/the/) book's [purpose](/post/purpose/) is [to](/post/to/) [educate](/post/educate/) readers.")
+- **[Verb](/post/verb/)**: [To](/post/to/) [assign](/post/assign/) [a](/post/a/) [purpose](/post/purpose/) [or](/post/or/) [determine](/post/determine/) [the](/post/the/) [function](/post/function/) [of](/post/of/) [something](/post/something/). (e.g., "[We](/post/we/) [must](/post/must/) [determine](/post/determine/) [the](/post/the/) [purpose](/post/purpose/) [of](/post/of/) [this](/post/this/) [meeting](/post/meeting/).")
 
 ## Phrases
-- "[With](/en/post/with/) [a](/en/post/a/) [clear](/en/post/clear/) [purpose](/en/post/purpose/)"
-- "[Serve](/en/post/serve/) [a](/en/post/a/) higher [purpose](/en/post/purpose/)"
-- "[Live](/en/post/live/) [life](/en/post/life/) [with](/en/post/with/) [purpose](/en/post/purpose/)"
-- "Misunderstood [his](/en/post/his/) [purpose](/en/post/purpose/)"
+- "[With](/post/with/) [a](/post/a/) [clear](/post/clear/) [purpose](/post/purpose/)"
+- "[Serve](/post/serve/) [a](/post/a/) higher [purpose](/post/purpose/)"
+- "[Live](/post/live/) [life](/post/life/) [with](/post/with/) [purpose](/post/purpose/)"
+- "Misunderstood [his](/post/his/) [purpose](/post/purpose/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [primary](/en/post/primary/) [purpose](/en/post/purpose/) [in](/en/post/in/) [life](/en/post/life/) was [to](/en/post/to/) [help](/en/post/help/) others."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [set](/en/post/set/) [out](/en/post/out/) [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [purpose](/en/post/purpose/) [behind](/en/post/behind/) [the](/en/post/the/) [ancient](/en/post/ancient/) artifact."
-- **[As](/en/post/as/) [a](/en/post/a/) prepositional [phrase](/en/post/phrase/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [pursue](/en/post/pursue/) [her](/en/post/her/) [purpose](/en/post/purpose/) [in](/en/post/in/) [life](/en/post/life/) [after](/en/post/after/) [a](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [reflection](/en/post/reflection/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [primary](/post/primary/) [purpose](/post/purpose/) [in](/post/in/) [life](/post/life/) was [to](/post/to/) [help](/post/help/) others."
+- **[Verb](/post/verb/)**: "[He](/post/he/) [set](/post/set/) [out](/post/out/) [to](/post/to/) [find](/post/find/) [the](/post/the/) [purpose](/post/purpose/) [behind](/post/behind/) [the](/post/the/) [ancient](/post/ancient/) artifact."
+- **[As](/post/as/) [a](/post/a/) prepositional [phrase](/post/phrase/)**: "[She](/post/she/) decided [to](/post/to/) [pursue](/post/pursue/) [her](/post/her/) [purpose](/post/purpose/) [in](/post/in/) [life](/post/life/) [after](/post/after/) [a](/post/a/) [period](/post/period/) [of](/post/of/) [reflection](/post/reflection/)."
 
 ## Synonyms
-- [Aim](/en/post/aim/)
-- [Goal](/en/post/goal/)
+- [Aim](/post/aim/)
+- [Goal](/post/goal/)
 - Intent
-- [Objective](/en/post/objective/)
-- [Reason](/en/post/reason/)
-- [Aim](/en/post/aim/)
-- [Design](/en/post/design/)
-- [End](/en/post/end/)
-- [Mission](/en/post/mission/)
+- [Objective](/post/objective/)
+- [Reason](/post/reason/)
+- [Aim](/post/aim/)
+- [Design](/post/design/)
+- [End](/post/end/)
+- [Mission](/post/mission/)
 
 ## Antonyms
 - Aimlessness
 - Indecision
-- [Lack](/en/post/lack/) [of](/en/post/of/) [direction](/en/post/direction/)
+- [Lack](/post/lack/) [of](/post/of/) [direction](/post/direction/)
 - Purposelessness
 - Uncertainty

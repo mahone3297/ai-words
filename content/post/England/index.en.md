@@ -7,31 +7,31 @@ description = '[ˈinglənd] n.英格兰；英国'
 keywords = ['ai words', 'England']
 +++
 
-## [Word](/en/post/word/): England
+## [Word](/post/word/): England
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪŋɡlənd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) largest [country](/en/post/country/) [in](/en/post/in/) [the](/en/post/the/) United [Kingdom](/en/post/kingdom/), located [in](/en/post/in/) northwestern Europe [and](/en/post/and/) comprising [most](/en/post/most/) [of](/en/post/of/) [the](/en/post/the/) [island](/en/post/island/) [of](/en/post/of/) [Great](/en/post/great/) Britain. [It](/en/post/it/) shares [land](/en/post/land/) borders [with](/en/post/with/) Scotland [to](/en/post/to/) [the](/en/post/the/) [north](/en/post/north/) [and](/en/post/and/) Wales [to](/en/post/to/) [the](/en/post/the/) [west](/en/post/west/). [Its](/en/post/its/) [capital](/en/post/capital/) [city](/en/post/city/) is London.
+- **[Noun](/post/noun/)**: [The](/post/the/) largest [country](/post/country/) [in](/post/in/) [the](/post/the/) United [Kingdom](/post/kingdom/), located [in](/post/in/) northwestern Europe [and](/post/and/) comprising [most](/post/most/) [of](/post/of/) [the](/post/the/) [island](/post/island/) [of](/post/of/) [Great](/post/great/) Britain. [It](/post/it/) shares [land](/post/land/) borders [with](/post/with/) Scotland [to](/post/to/) [the](/post/the/) [north](/post/north/) [and](/post/and/) Wales [to](/post/to/) [the](/post/the/) [west](/post/west/). [Its](/post/its/) [capital](/post/capital/) [city](/post/city/) is London.
 
 ### Examples
-- *England's [countryside](/en/post/countryside/) is [famous](/en/post/famous/) [for](/en/post/for/) [its](/en/post/its/) rolling hills [and](/en/post/and/) picturesque villages.*
-- *[The](/en/post/the/) [industrial](/en/post/industrial/) [revolution](/en/post/revolution/) began [in](/en/post/in/) England [during](/en/post/during/) [the](/en/post/the/) 18th [century](/en/post/century/).*
+- *England's [countryside](/post/countryside/) is [famous](/post/famous/) [for](/post/for/) [its](/post/its/) rolling hills [and](/post/and/) picturesque villages.*
+- *[The](/post/the/) [industrial](/post/industrial/) [revolution](/post/revolution/) began [in](/post/in/) England [during](/post/during/) [the](/post/the/) 18th [century](/post/century/).*
 
 ## Phrases
-- **[In](/en/post/in/) England**: Refers [to](/en/post/to/) activities, customs, [or](/en/post/or/) situations occurring [within](/en/post/within/) [the](/en/post/the/) geographical boundaries [of](/en/post/of/) England. [Example](/en/post/example/): "*[In](/en/post/in/) England*, it's customary [to](/en/post/to/) [drink](/en/post/drink/) [tea](/en/post/tea/) [in](/en/post/in/) [the](/en/post/the/) [afternoon](/en/post/afternoon/)."
-- **English [breakfast](/en/post/breakfast/)**: [A](/en/post/a/) [substantial](/en/post/substantial/) cooked [breakfast](/en/post/breakfast/) [meal](/en/post/meal/) typically including eggs, bacon, sausages, baked beans, mushrooms, tomatoes, [and](/en/post/and/) [toast](/en/post/toast/).
-- **God [save](/en/post/save/) [the](/en/post/the/) [Queen](/en/post/queen/)/[King](/en/post/king/) ([of](/en/post/of/) England)**: [The](/en/post/the/) [national](/en/post/national/) anthem [of](/en/post/of/) England [and](/en/post/and/) [the](/en/post/the/) United [Kingdom](/en/post/kingdom/).
+- **[In](/post/in/) England**: Refers [to](/post/to/) activities, customs, [or](/post/or/) situations occurring [within](/post/within/) [the](/post/the/) geographical boundaries [of](/post/of/) England. [Example](/post/example/): "*[In](/post/in/) England*, it's customary [to](/post/to/) [drink](/post/drink/) [tea](/post/tea/) [in](/post/in/) [the](/post/the/) [afternoon](/post/afternoon/)."
+- **English [breakfast](/post/breakfast/)**: [A](/post/a/) [substantial](/post/substantial/) cooked [breakfast](/post/breakfast/) [meal](/post/meal/) typically including eggs, bacon, sausages, baked beans, mushrooms, tomatoes, [and](/post/and/) [toast](/post/toast/).
+- **God [save](/post/save/) [the](/post/the/) [Queen](/post/queen/)/[King](/post/king/) ([of](/post/of/) England)**: [The](/post/the/) [national](/post/national/) anthem [of](/post/of/) England [and](/post/and/) [the](/post/the/) United [Kingdom](/post/kingdom/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [football](/en/post/football/) [team](/en/post/team/) [from](/en/post/from/) England won [the](/en/post/the/) [World](/en/post/world/) [Cup](/en/post/cup/) [back](/en/post/back/) [in](/en/post/in/) 1966."
-- "[She](/en/post/she/) was [born](/en/post/born/) [and](/en/post/and/) raised [in](/en/post/in/) [the](/en/post/the/) historic [county](/en/post/county/) [of](/en/post/of/) Yorkshire, [in](/en/post/in/) [northern](/en/post/northern/) England."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [football](/post/football/) [team](/post/team/) [from](/post/from/) England won [the](/post/the/) [World](/post/world/) [Cup](/post/cup/) [back](/post/back/) [in](/post/in/) 1966."
+- "[She](/post/she/) was [born](/post/born/) [and](/post/and/) raised [in](/post/in/) [the](/post/the/) historic [county](/post/county/) [of](/post/of/) Yorkshire, [in](/post/in/) [northern](/post/northern/) England."
 
 ## Synonyms
-- [The](/en/post/the/) UK (United [Kingdom](/en/post/kingdom/))
+- [The](/post/the/) UK (United [Kingdom](/post/kingdom/))
 - Britain
-- Albion ([historical](/en/post/historical/) [and](/en/post/and/) poetic [reference](/en/post/reference/))
-- Britannia (poetic [or](/en/post/or/) [formal](/en/post/formal/) [reference](/en/post/reference/)) 
+- Albion ([historical](/post/historical/) [and](/post/and/) poetic [reference](/post/reference/))
+- Britannia (poetic [or](/post/or/) [formal](/post/formal/) [reference](/post/reference/)) 
 
-[Note](/en/post/note/) [that](/en/post/that/) [while](/en/post/while/) synonyms [like](/en/post/like/) "Britain" [and](/en/post/and/) "[the](/en/post/the/) UK" [include](/en/post/include/) England, [they](/en/post/they/) [also](/en/post/also/) encompass [other](/en/post/other/) countries [such](/en/post/such/) [as](/en/post/as/) Scotland, Wales, [and](/en/post/and/) [Northern](/en/post/northern/) Ireland, [which](/en/post/which/) [together](/en/post/together/) [form](/en/post/form/) [the](/en/post/the/) United [Kingdom](/en/post/kingdom/).
+[Note](/post/note/) [that](/post/that/) [while](/post/while/) synonyms [like](/post/like/) "Britain" [and](/post/and/) "[the](/post/the/) UK" [include](/post/include/) England, [they](/post/they/) [also](/post/also/) encompass [other](/post/other/) countries [such](/post/such/) [as](/post/as/) Scotland, Wales, [and](/post/and/) [Northern](/post/northern/) Ireland, [which](/post/which/) [together](/post/together/) [form](/post/form/) [the](/post/the/) United [Kingdom](/post/kingdom/).

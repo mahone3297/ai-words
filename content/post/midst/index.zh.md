@@ -11,19 +11,19 @@ keywords = ['ai words', 'midst']
 /mɪdst/
 
 ## 释义
-- **介词**: 在...中间；在...之中。例如: "[She](/post/she/) was standing [right](/post/right/) [in](/post/in/) [the](/post/the/) [midst](/post/midst/) [of](/post/of/) [the](/post/the/) [crowd](/post/crowd/)."
-- **名词**: 中间；中心。例如: "[The](/post/the/) [midst](/post/midst/) [of](/post/of/) [the](/post/the/) [storm](/post/storm/) was [the](/post/the/) [most](/post/most/) [dangerous](/post/dangerous/) [time](/post/time/)."
+- **介词**: 在...中间；在...之中。例如: "[She](/zh/post/she/) was standing [right](/zh/post/right/) [in](/zh/post/in/) [the](/zh/post/the/) [midst](/zh/post/midst/) [of](/zh/post/of/) [the](/zh/post/the/) [crowd](/zh/post/crowd/)."
+- **名词**: 中间；中心。例如: "[The](/zh/post/the/) [midst](/zh/post/midst/) [of](/zh/post/of/) [the](/zh/post/the/) [storm](/zh/post/storm/) was [the](/zh/post/the/) [most](/zh/post/most/) [dangerous](/zh/post/dangerous/) [time](/zh/post/time/)."
 
 ## 短语
-- "[in](/post/in/) [the](/post/the/) [midst](/post/midst/) [of](/post/of/)" 意味在...的中间或期间。例如: "[In](/post/in/) [the](/post/the/) [midst](/post/midst/) [of](/post/of/) [all](/post/all/) [the](/post/the/) chaos, [she](/post/she/) [found](/post/found/) [a](/post/a/) [moment](/post/moment/) [of](/post/of/) [peace](/post/peace/)."
+- "[in](/zh/post/in/) [the](/zh/post/the/) [midst](/zh/post/midst/) [of](/zh/post/of/)" 意味在...的中间或期间。例如: "[In](/zh/post/in/) [the](/zh/post/the/) [midst](/zh/post/midst/) [of](/zh/post/of/) [all](/zh/post/all/) [the](/zh/post/the/) chaos, [she](/zh/post/she/) [found](/zh/post/found/) [a](/zh/post/a/) [moment](/zh/post/moment/) [of](/zh/post/of/) [peace](/zh/post/peace/)."
 
 ## 例句
-- 介词: "[We](/post/we/) held [a](/post/a/) [meeting](/post/meeting/) [in](/post/in/) [the](/post/the/) [midst](/post/midst/) [of](/post/of/) [all](/post/all/) [the](/post/the/) preparations [for](/post/for/) [the](/post/the/) [event](/post/event/)."
-- 名词: "[The](/post/the/) [midst](/post/midst/) [of](/post/of/) [winter](/post/winter/) is [when](/post/when/) [we](/post/we/) [usually](/post/usually/) [plan](/post/plan/) [our](/post/our/) [summer](/post/summer/) [vacation](/post/vacation/)."
+- 介词: "[We](/zh/post/we/) held [a](/zh/post/a/) [meeting](/zh/post/meeting/) [in](/zh/post/in/) [the](/zh/post/the/) [midst](/zh/post/midst/) [of](/zh/post/of/) [all](/zh/post/all/) [the](/zh/post/the/) preparations [for](/zh/post/for/) [the](/zh/post/the/) [event](/zh/post/event/)."
+- 名词: "[The](/zh/post/the/) [midst](/zh/post/midst/) [of](/zh/post/of/) [winter](/zh/post/winter/) is [when](/zh/post/when/) [we](/zh/post/we/) [usually](/zh/post/usually/) [plan](/zh/post/plan/) [our](/zh/post/our/) [summer](/zh/post/summer/) [vacation](/zh/post/vacation/)."
 
 ## 同义词
-- [among](/post/among/)
+- [among](/zh/post/among/)
 - amid
-- [in](/post/in/) [the](/post/the/) center [of](/post/of/)
-- surrounded [by](/post/by/)
-- [in](/post/in/) [the](/post/the/) [heart](/post/heart/) [of](/post/of/)
+- [in](/zh/post/in/) [the](/zh/post/the/) center [of](/zh/post/of/)
+- surrounded [by](/zh/post/by/)
+- [in](/zh/post/in/) [the](/zh/post/the/) [heart](/zh/post/heart/) [of](/zh/post/of/)

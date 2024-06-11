@@ -7,40 +7,40 @@ description = '[buk] n.书，书籍 vt.预定'
 keywords = ['ai words', 'book']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bʊk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [book](/en/post/book/)** is [a](/en/post/a/) written [or](/en/post/or/) printed [work](/en/post/work/) consisting [of](/en/post/of/) pages [bound](/en/post/bound/) [together](/en/post/together/), containing [text](/en/post/text/), images, [or](/en/post/or/) [other](/en/post/other/) [information](/en/post/information/), typically intended [for](/en/post/for/) [reading](/en/post/reading/). **[Example](/en/post/example/)**: "[The](/en/post/the/) [library](/en/post/library/) had [a](/en/post/a/) [vast](/en/post/vast/) [collection](/en/post/collection/) [of](/en/post/of/) books [on](/en/post/on/) [various](/en/post/various/) subjects."
-2. [A](/en/post/a/) [record](/en/post/record/) [or](/en/post/or/) [account](/en/post/account/), [especially](/en/post/especially/) [one](/en/post/one/) kept [in](/en/post/in/) [writing](/en/post/writing/). **[Example](/en/post/example/)**: "[He](/en/post/he/) made [a](/en/post/a/) [note](/en/post/note/) [of](/en/post/of/) [important](/en/post/important/) events [in](/en/post/in/) [his](/en/post/his/) [diary](/en/post/diary/)."
-3. An individual's [personal](/en/post/personal/) [copy](/en/post/copy/) [of](/en/post/of/) [a](/en/post/a/) [publication](/en/post/publication/), [often](/en/post/often/) [as](/en/post/as/) [a](/en/post/a/) [physical](/en/post/physical/) [object](/en/post/object/). **[Example](/en/post/example/)**: "I [carry](/en/post/carry/) [my](/en/post/my/) favorite [novel](/en/post/novel/) [with](/en/post/with/) [me](/en/post/me/) [wherever](/en/post/wherever/) I [go](/en/post/go/)."
-4. [A](/en/post/a/) [small](/en/post/small/) [notebook](/en/post/notebook/) [or](/en/post/or/) ledger. **[Example](/en/post/example/)**: "[She](/en/post/she/) [used](/en/post/used/) [a](/en/post/a/) [pocket](/en/post/pocket/) [book](/en/post/book/) [to](/en/post/to/) jot [down](/en/post/down/) [shopping](/en/post/shopping/) lists."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [book](/post/book/)** is [a](/post/a/) written [or](/post/or/) printed [work](/post/work/) consisting [of](/post/of/) pages [bound](/post/bound/) [together](/post/together/), containing [text](/post/text/), images, [or](/post/or/) [other](/post/other/) [information](/post/information/), typically intended [for](/post/for/) [reading](/post/reading/). **[Example](/post/example/)**: "[The](/post/the/) [library](/post/library/) had [a](/post/a/) [vast](/post/vast/) [collection](/post/collection/) [of](/post/of/) books [on](/post/on/) [various](/post/various/) subjects."
+2. [A](/post/a/) [record](/post/record/) [or](/post/or/) [account](/post/account/), [especially](/post/especially/) [one](/post/one/) kept [in](/post/in/) [writing](/post/writing/). **[Example](/post/example/)**: "[He](/post/he/) made [a](/post/a/) [note](/post/note/) [of](/post/of/) [important](/post/important/) events [in](/post/in/) [his](/post/his/) [diary](/post/diary/)."
+3. An individual's [personal](/post/personal/) [copy](/post/copy/) [of](/post/of/) [a](/post/a/) [publication](/post/publication/), [often](/post/often/) [as](/post/as/) [a](/post/a/) [physical](/post/physical/) [object](/post/object/). **[Example](/post/example/)**: "I [carry](/post/carry/) [my](/post/my/) favorite [novel](/post/novel/) [with](/post/with/) [me](/post/me/) [wherever](/post/wherever/) I [go](/post/go/)."
+4. [A](/post/a/) [small](/post/small/) [notebook](/post/notebook/) [or](/post/or/) ledger. **[Example](/post/example/)**: "[She](/post/she/) [used](/post/used/) [a](/post/a/) [pocket](/post/pocket/) [book](/post/book/) [to](/post/to/) jot [down](/post/down/) [shopping](/post/shopping/) lists."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [write](/en/post/write/) [or](/en/post/or/) [compose](/en/post/compose/) [a](/en/post/a/) [book](/en/post/book/). **[Example](/en/post/example/)**: "[She](/en/post/she/) is working [on](/en/post/on/) [a](/en/post/a/) [new](/en/post/new/) [novel](/en/post/novel/)."
-2. [To](/en/post/to/) [acquire](/en/post/acquire/) [or](/en/post/or/) [purchase](/en/post/purchase/) [a](/en/post/a/) [book](/en/post/book/). **[Example](/en/post/example/)**: "[He](/en/post/he/) bought [several](/en/post/several/) books [on](/en/post/on/) gardening [at](/en/post/at/) [the](/en/post/the/) bookstore."
-3. [To](/en/post/to/) [consult](/en/post/consult/) [or](/en/post/or/) [study](/en/post/study/) [a](/en/post/a/) [book](/en/post/book/) [for](/en/post/for/) [information](/en/post/information/). **[Example](/en/post/example/)**: "I looked [up](/en/post/up/) [the](/en/post/the/) [answer](/en/post/answer/) [in](/en/post/in/) [the](/en/post/the/) encyclopedia."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [write](/post/write/) [or](/post/or/) [compose](/post/compose/) [a](/post/a/) [book](/post/book/). **[Example](/post/example/)**: "[She](/post/she/) is working [on](/post/on/) [a](/post/a/) [new](/post/new/) [novel](/post/novel/)."
+2. [To](/post/to/) [acquire](/post/acquire/) [or](/post/or/) [purchase](/post/purchase/) [a](/post/a/) [book](/post/book/). **[Example](/post/example/)**: "[He](/post/he/) bought [several](/post/several/) books [on](/post/on/) gardening [at](/post/at/) [the](/post/the/) bookstore."
+3. [To](/post/to/) [consult](/post/consult/) [or](/post/or/) [study](/post/study/) [a](/post/a/) [book](/post/book/) [for](/post/for/) [information](/post/information/). **[Example](/post/example/)**: "I looked [up](/post/up/) [the](/post/the/) [answer](/post/answer/) [in](/post/in/) [the](/post/the/) encyclopedia."
 
 ## Phrases
-- "[Read](/en/post/read/) [a](/en/post/a/) [book](/en/post/book/)" [means](/en/post/means/) [to](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [the](/en/post/the/) [activity](/en/post/activity/) [of](/en/post/of/) [reading](/en/post/reading/).
-- "[Book](/en/post/book/) [a](/en/post/a/) [flight](/en/post/flight/)" is [to](/en/post/to/) [reserve](/en/post/reserve/) [a](/en/post/a/) [seat](/en/post/seat/) [on](/en/post/on/) an [airplane](/en/post/airplane/).
-- "[Keep](/en/post/keep/) [a](/en/post/a/) [book](/en/post/book/)" refers [to](/en/post/to/) maintaining records [or](/en/post/or/) accounts.
+- "[Read](/post/read/) [a](/post/a/) [book](/post/book/)" [means](/post/means/) [to](/post/to/) [engage](/post/engage/) [in](/post/in/) [the](/post/the/) [activity](/post/activity/) [of](/post/of/) [reading](/post/reading/).
+- "[Book](/post/book/) [a](/post/a/) [flight](/post/flight/)" is [to](/post/to/) [reserve](/post/reserve/) [a](/post/a/) [seat](/post/seat/) [on](/post/on/) an [airplane](/post/airplane/).
+- "[Keep](/post/keep/) [a](/post/a/) [book](/post/book/)" refers [to](/post/to/) maintaining records [or](/post/or/) accounts.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were engrossed [in](/en/post/in/) [their](/en/post/their/) storybooks."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [book](/en/post/book/) [a](/en/post/a/) [vacation](/en/post/vacation/) [to](/en/post/to/) Europe."
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) sat [down](/en/post/down/) [with](/en/post/with/) [a](/en/post/a/) [cup](/en/post/cup/) [of](/en/post/of/) [tea](/en/post/tea/) [and](/en/post/and/) opened [her](/en/post/her/) [book](/en/post/book/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children were engrossed [in](/post/in/) [their](/post/their/) storybooks."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [book](/post/book/) [a](/post/a/) [vacation](/post/vacation/) [to](/post/to/) Europe."
+- **[Verb](/post/verb/)**: "[She](/post/she/) sat [down](/post/down/) [with](/post/with/) [a](/post/a/) [cup](/post/cup/) [of](/post/of/) [tea](/post/tea/) [and](/post/and/) opened [her](/post/her/) [book](/post/book/)."
 
 ## Synonyms
-- [Volume](/en/post/volume/)
+- [Volume](/post/volume/)
 - Tome
 - Manuscript
-- [Work](/en/post/work/)
-- [Publication](/en/post/publication/)
-- [Edition](/en/post/edition/)
+- [Work](/post/work/)
+- [Publication](/post/publication/)
+- [Edition](/post/edition/)
 - Pages
-- [Account](/en/post/account/)
+- [Account](/post/account/)
 - Ledger
-- [Log](/en/post/log/)
-- [Record](/en/post/record/)
+- [Log](/post/log/)
+- [Record](/post/record/)

@@ -7,40 +7,40 @@ description = '[kəˈlæps] vi.倒坍；崩溃，瓦解'
 keywords = ['ai words', 'collapse']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈlæps/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [sudden](/en/post/sudden/) [and](/en/post/and/) [complete](/en/post/complete/) [failure](/en/post/failure/) [or](/en/post/or/) [collapse](/en/post/collapse/) [of](/en/post/of/) [a](/en/post/a/) [structure](/en/post/structure/), [system](/en/post/system/), [or](/en/post/or/) [organization](/en/post/organization/)**: [The](/en/post/the/) [bridge](/en/post/bridge/) collapsed [under](/en/post/under/) [the](/en/post/the/) [weight](/en/post/weight/) [of](/en/post/of/) [the](/en/post/the/) [truck](/en/post/truck/). ([noun](/en/post/noun/): [failure](/en/post/failure/))
-2. **[A](/en/post/a/) [sudden](/en/post/sudden/) [loss](/en/post/loss/) [of](/en/post/of/) [consciousness](/en/post/consciousness/) [or](/en/post/or/) [strength](/en/post/strength/)**: [After](/en/post/after/) running [a](/en/post/a/) marathon, [she](/en/post/she/) collapsed [from](/en/post/from/) exhaustion. ([noun](/en/post/noun/): breakdown)
-3. **[A](/en/post/a/) [rapid](/en/post/rapid/) decline [or](/en/post/or/) downturn [in](/en/post/in/) [value](/en/post/value/), popularity, [or](/en/post/or/) effectiveness**: [The](/en/post/the/) [stock](/en/post/stock/) [market](/en/post/market/) experienced [a](/en/post/a/) spectacular [collapse](/en/post/collapse/) [in](/en/post/in/) 2008. ([noun](/en/post/noun/): downfall)
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [sudden](/post/sudden/) [and](/post/and/) [complete](/post/complete/) [failure](/post/failure/) [or](/post/or/) [collapse](/post/collapse/) [of](/post/of/) [a](/post/a/) [structure](/post/structure/), [system](/post/system/), [or](/post/or/) [organization](/post/organization/)**: [The](/post/the/) [bridge](/post/bridge/) collapsed [under](/post/under/) [the](/post/the/) [weight](/post/weight/) [of](/post/of/) [the](/post/the/) [truck](/post/truck/). ([noun](/post/noun/): [failure](/post/failure/))
+2. **[A](/post/a/) [sudden](/post/sudden/) [loss](/post/loss/) [of](/post/of/) [consciousness](/post/consciousness/) [or](/post/or/) [strength](/post/strength/)**: [After](/post/after/) running [a](/post/a/) marathon, [she](/post/she/) collapsed [from](/post/from/) exhaustion. ([noun](/post/noun/): breakdown)
+3. **[A](/post/a/) [rapid](/post/rapid/) decline [or](/post/or/) downturn [in](/post/in/) [value](/post/value/), popularity, [or](/post/or/) effectiveness**: [The](/post/the/) [stock](/post/stock/) [market](/post/market/) experienced [a](/post/a/) spectacular [collapse](/post/collapse/) [in](/post/in/) 2008. ([noun](/post/noun/): downfall)
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [fall](/en/post/fall/) [or](/en/post/or/) [give](/en/post/give/) [way](/en/post/way/) [suddenly](/en/post/suddenly/), typically [under](/en/post/under/) [pressure](/en/post/pressure/) [or](/en/post/or/) [stress](/en/post/stress/)**: [The](/en/post/the/) [roof](/en/post/roof/) collapsed [under](/en/post/under/) [heavy](/en/post/heavy/) [rain](/en/post/rain/). ([verb](/en/post/verb/): [to](/en/post/to/) disintegrate)
-2. **[To](/en/post/to/) [lose](/en/post/lose/) [confidence](/en/post/confidence/), [control](/en/post/control/), [or](/en/post/or/) [stability](/en/post/stability/)**: [His](/en/post/his/) [mental](/en/post/mental/) [health](/en/post/health/) began [to](/en/post/to/) [collapse](/en/post/collapse/) [after](/en/post/after/) years [of](/en/post/of/) [stress](/en/post/stress/). ([verb](/en/post/verb/): [to](/en/post/to/) crumble)
-3. **[To](/en/post/to/) [bring](/en/post/bring/) [down](/en/post/down/) [or](/en/post/or/) overwhelm [with](/en/post/with/) [a](/en/post/a/) [sudden](/en/post/sudden/) [defeat](/en/post/defeat/)**: [The](/en/post/the/) team's defense collapsed [in](/en/post/in/) [the](/en/post/the/) [final](/en/post/final/) minutes [of](/en/post/of/) [the](/en/post/the/) [game](/en/post/game/). ([verb](/en/post/verb/): [to](/en/post/to/) buckle)
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [fall](/post/fall/) [or](/post/or/) [give](/post/give/) [way](/post/way/) [suddenly](/post/suddenly/), typically [under](/post/under/) [pressure](/post/pressure/) [or](/post/or/) [stress](/post/stress/)**: [The](/post/the/) [roof](/post/roof/) collapsed [under](/post/under/) [heavy](/post/heavy/) [rain](/post/rain/). ([verb](/post/verb/): [to](/post/to/) disintegrate)
+2. **[To](/post/to/) [lose](/post/lose/) [confidence](/post/confidence/), [control](/post/control/), [or](/post/or/) [stability](/post/stability/)**: [His](/post/his/) [mental](/post/mental/) [health](/post/health/) began [to](/post/to/) [collapse](/post/collapse/) [after](/post/after/) years [of](/post/of/) [stress](/post/stress/). ([verb](/post/verb/): [to](/post/to/) crumble)
+3. **[To](/post/to/) [bring](/post/bring/) [down](/post/down/) [or](/post/or/) overwhelm [with](/post/with/) [a](/post/a/) [sudden](/post/sudden/) [defeat](/post/defeat/)**: [The](/post/the/) team's defense collapsed [in](/post/in/) [the](/post/the/) [final](/post/final/) minutes [of](/post/of/) [the](/post/the/) [game](/post/game/). ([verb](/post/verb/): [to](/post/to/) buckle)
 
-### [Adjective](/en/post/adjective/)
-1. **Characterized [by](/en/post/by/) [or](/en/post/or/) resulting [in](/en/post/in/) [collapse](/en/post/collapse/)**: [A](/en/post/a/) collapsing [economy](/en/post/economy/). ([adjective](/en/post/adjective/):颓废的)
+### [Adjective](/post/adjective/)
+1. **Characterized [by](/post/by/) [or](/post/or/) resulting [in](/post/in/) [collapse](/post/collapse/)**: [A](/post/a/) collapsing [economy](/post/economy/). ([adjective](/post/adjective/):颓废的)
 
 ## Phrases
-- "[The](/en/post/the/) building's [partial](/en/post/partial/) [collapse](/en/post/collapse/) [left](/en/post/left/) [several](/en/post/several/) [people](/en/post/people/) trapped."
-- "[Her](/en/post/her/) [mental](/en/post/mental/) [collapse](/en/post/collapse/) led [to](/en/post/to/) [a](/en/post/a/) [long](/en/post/long/) [period](/en/post/period/) [of](/en/post/of/) [recovery](/en/post/recovery/)."
-- "[A](/en/post/a/) [financial](/en/post/financial/) [collapse](/en/post/collapse/) [can](/en/post/can/) [have](/en/post/have/) global consequences."
+- "[The](/post/the/) building's [partial](/post/partial/) [collapse](/post/collapse/) [left](/post/left/) [several](/post/several/) [people](/post/people/) trapped."
+- "[Her](/post/her/) [mental](/post/mental/) [collapse](/post/collapse/) led [to](/post/to/) [a](/post/a/) [long](/post/long/) [period](/post/period/) [of](/post/of/) [recovery](/post/recovery/)."
+- "[A](/post/a/) [financial](/post/financial/) [collapse](/post/collapse/) [can](/post/can/) [have](/post/have/) global consequences."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) archaeological [team](/en/post/team/) witnessed [the](/en/post/the/) [ancient](/en/post/ancient/) temple's [gradual](/en/post/gradual/) [collapse](/en/post/collapse/) [over](/en/post/over/) [time](/en/post/time/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) government's [response](/en/post/response/) [to](/en/post/to/) [the](/en/post/the/) [crisis](/en/post/crisis/) was [a](/en/post/a/) catastrophic [collapse](/en/post/collapse/) [of](/en/post/of/) [authority](/en/post/authority/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) collapsing infrastructure posed [a](/en/post/a/) [significant](/en/post/significant/) [safety](/en/post/safety/) [risk](/en/post/risk/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) archaeological [team](/post/team/) witnessed [the](/post/the/) [ancient](/post/ancient/) temple's [gradual](/post/gradual/) [collapse](/post/collapse/) [over](/post/over/) [time](/post/time/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) government's [response](/post/response/) [to](/post/to/) [the](/post/the/) [crisis](/post/crisis/) was [a](/post/a/) catastrophic [collapse](/post/collapse/) [of](/post/of/) [authority](/post/authority/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) collapsing infrastructure posed [a](/post/a/) [significant](/post/significant/) [safety](/post/safety/) [risk](/post/risk/)."
 
 ## Synonyms
-- [Collapse](/en/post/collapse/) [and](/en/post/and/) [failure](/en/post/failure/) [often](/en/post/often/) [go](/en/post/go/) [together](/en/post/together/), [so](/en/post/so/) synonyms [may](/en/post/may/) [include](/en/post/include/):
-- [Failure](/en/post/failure/)
-- [Collapse](/en/post/collapse/) [and](/en/post/and/) crumbling ([for](/en/post/for/) [a](/en/post/a/) [gradual](/en/post/gradual/) [process](/en/post/process/))
+- [Collapse](/post/collapse/) [and](/post/and/) [failure](/post/failure/) [often](/post/often/) [go](/post/go/) [together](/post/together/), [so](/post/so/) synonyms [may](/post/may/) [include](/post/include/):
+- [Failure](/post/failure/)
+- [Collapse](/post/collapse/) [and](/post/and/) crumbling ([for](/post/for/) [a](/post/a/) [gradual](/post/gradual/) [process](/post/process/))
 - Deterioration
 - Decline
-- [Fall](/en/post/fall/)
-- [Collapse](/en/post/collapse/) [and](/en/post/and/) implosion ([for](/en/post/for/) [a](/en/post/a/) [sudden](/en/post/sudden/), [dramatic](/en/post/dramatic/) [event](/en/post/event/))
-- Bankruptcy ([financial](/en/post/financial/) context)
-- Descent ([for](/en/post/for/) [a](/en/post/a/) [downward](/en/post/downward/) [trend](/en/post/trend/))
+- [Fall](/post/fall/)
+- [Collapse](/post/collapse/) [and](/post/and/) implosion ([for](/post/for/) [a](/post/a/) [sudden](/post/sudden/), [dramatic](/post/dramatic/) [event](/post/event/))
+- Bankruptcy ([financial](/post/financial/) context)
+- Descent ([for](/post/for/) [a](/post/a/) [downward](/post/downward/) [trend](/post/trend/))

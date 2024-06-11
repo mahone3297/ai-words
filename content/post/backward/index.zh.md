@@ -11,20 +11,20 @@ keywords = ['ai words', 'backward']
 /bækwərd/
 
 ## 释义
-- **形容词**: 向后，倒退的，反方向的。例如: "[He](/post/he/) walked [backward](/post/backward/) [to](/post/to/) [show](/post/show/) [his](/post/his/) [trick](/post/trick/)."
-- **副词**: 向后，倒退地。例如: "[She](/post/she/) moved [backward](/post/backward/) [slowly](/post/slowly/) [to](/post/to/) [avoid](/post/avoid/) [the](/post/the/) [obstacle](/post/obstacle/)."
+- **形容词**: 向后，倒退的，反方向的。例如: "[He](/zh/post/he/) walked [backward](/zh/post/backward/) [to](/zh/post/to/) [show](/zh/post/show/) [his](/zh/post/his/) [trick](/zh/post/trick/)."
+- **副词**: 向后，倒退地。例如: "[She](/zh/post/she/) moved [backward](/zh/post/backward/) [slowly](/zh/post/slowly/) [to](/zh/post/to/) [avoid](/zh/post/avoid/) [the](/zh/post/the/) [obstacle](/zh/post/obstacle/)."
 
 ## 短语
-- "[Go](/post/go/) [backward](/post/backward/)" 意为向后移动或返回到先前的状态。
-- "[In](/post/in/) [reverse](/post/reverse/) ([order](/post/order/))" 与backward相似，表示倒退或相反的顺序。
+- "[Go](/zh/post/go/) [backward](/zh/post/backward/)" 意为向后移动或返回到先前的状态。
+- "[In](/zh/post/in/) [reverse](/zh/post/reverse/) ([order](/zh/post/order/))" 与backward相似，表示倒退或相反的顺序。
 
 ## 例句
-- 形容词: "[The](/post/the/) [machine](/post/machine/) was designed [to](/post/to/) [operate](/post/operate/) [in](/post/in/) [both](/post/both/) [forward](/post/forward/) [and](/post/and/) [backward](/post/backward/) directions."
-- 副词: "[He](/post/he/) looked [backward](/post/backward/) [over](/post/over/) [his](/post/his/) [shoulder](/post/shoulder/) [to](/post/to/) [check](/post/check/) [if](/post/if/) [anyone](/post/anyone/) was [following](/post/following/) [him](/post/him/)."
+- 形容词: "[The](/zh/post/the/) [machine](/zh/post/machine/) was designed [to](/zh/post/to/) [operate](/zh/post/operate/) [in](/zh/post/in/) [both](/zh/post/both/) [forward](/zh/post/forward/) [and](/zh/post/and/) [backward](/zh/post/backward/) directions."
+- 副词: "[He](/zh/post/he/) looked [backward](/zh/post/backward/) [over](/zh/post/over/) [his](/zh/post/his/) [shoulder](/zh/post/shoulder/) [to](/zh/post/to/) [check](/zh/post/check/) [if](/zh/post/if/) [anyone](/zh/post/anyone/) was [following](/zh/post/following/) [him](/zh/post/him/)."
 
 ## 同义词
-- Backwards (UK [spelling](/post/spelling/))
-- [Reverse](/post/reverse/)
-- [Opposite](/post/opposite/)
+- Backwards (UK [spelling](/zh/post/spelling/))
+- [Reverse](/zh/post/reverse/)
+- [Opposite](/zh/post/opposite/)
 - Retract
 - Invert

@@ -7,34 +7,34 @@ description = '[ʌnˈjuːʒuəl] a.不平常的；独特的'
 keywords = ['ai words', 'unusual']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unˈjuːʒuəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [being](/en/post/being/) uncommon, [not](/en/post/not/) [usual](/en/post/usual/), [or](/en/post/or/) atypical. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [event](/en/post/event/) was [unusual](/en/post/unusual/) [for](/en/post/for/) [its](/en/post/its/) [lack](/en/post/lack/) [of](/en/post/of/) attendees."
-- **[Noun](/en/post/noun/)**: [Something](/en/post/something/) [that](/en/post/that/) is [not](/en/post/not/) [common](/en/post/common/) [or](/en/post/or/) expected; an exceptional [case](/en/post/case/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [painting](/en/post/painting/) was an [unusual](/en/post/unusual/) [find](/en/post/find/) [in](/en/post/in/) [the](/en/post/the/) attic."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [being](/post/being/) uncommon, [not](/post/not/) [usual](/post/usual/), [or](/post/or/) atypical. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [event](/post/event/) was [unusual](/post/unusual/) [for](/post/for/) [its](/post/its/) [lack](/post/lack/) [of](/post/of/) attendees."
+- **[Noun](/post/noun/)**: [Something](/post/something/) [that](/post/that/) is [not](/post/not/) [common](/post/common/) [or](/post/or/) expected; an exceptional [case](/post/case/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [painting](/post/painting/) was an [unusual](/post/unusual/) [find](/post/find/) [in](/post/in/) [the](/post/the/) attic."
 
 ## Phrases
-- "An [unusual](/en/post/unusual/) [occurrence](/en/post/occurrence/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) isn't [typical](/en/post/typical/) [or](/en/post/or/) expected.
-- "An [unusual](/en/post/unusual/) [talent](/en/post/talent/)" highlights an exceptional [skill](/en/post/skill/) [or](/en/post/or/) [ability](/en/post/ability/).
-- "[Unusual](/en/post/unusual/) [behavior](/en/post/behavior/)" denotes actions [that](/en/post/that/) deviate [from](/en/post/from/) [what](/en/post/what/) is [normally](/en/post/normally/) expected.
+- "An [unusual](/post/unusual/) [occurrence](/post/occurrence/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) isn't [typical](/post/typical/) [or](/post/or/) expected.
+- "An [unusual](/post/unusual/) [talent](/post/talent/)" highlights an exceptional [skill](/post/skill/) [or](/post/or/) [ability](/post/ability/).
+- "[Unusual](/post/unusual/) [behavior](/post/behavior/)" denotes actions [that](/post/that/) deviate [from](/post/from/) [what](/post/what/) is [normally](/post/normally/) expected.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [reaction](/en/post/reaction/) was [unusual](/en/post/unusual/) given [the](/en/post/the/) [situation](/en/post/situation/)."
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) had an [unusual](/en/post/unusual/) [hobby](/en/post/hobby/) – collecting antique typewriters."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) sang an [unusual](/en/post/unusual/) [song](/en/post/song/), captivating [the](/en/post/the/) [audience](/en/post/audience/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [reaction](/post/reaction/) was [unusual](/post/unusual/) given [the](/post/the/) [situation](/post/situation/)."
+- **[Noun](/post/noun/)**: "[He](/post/he/) had an [unusual](/post/unusual/) [hobby](/post/hobby/) – collecting antique typewriters."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) sang an [unusual](/post/unusual/) [song](/post/song/), captivating [the](/post/the/) [audience](/post/audience/)."
 
 ## Synonyms
 - Uncommon
 - Unusualness
-- [Odd](/en/post/odd/)
+- [Odd](/post/odd/)
 - Unorthodox
-- [Rare](/en/post/rare/)
+- [Rare](/post/rare/)
 - Exceptional
 
 ## Antonyms
-- [Common](/en/post/common/)
-- [Normal](/en/post/normal/)
-- [Typical](/en/post/typical/)
-- [Routine](/en/post/routine/)
-- [Ordinary](/en/post/ordinary/)
+- [Common](/post/common/)
+- [Normal](/post/normal/)
+- [Typical](/post/typical/)
+- [Routine](/post/routine/)
+- [Ordinary](/post/ordinary/)

@@ -7,35 +7,35 @@ description = '[taid] n.潮，潮汐；潮流'
 keywords = ['ai words', 'tide']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /taɪd/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[The](/en/post/the/) [tide](/en/post/tide/)**: [The](/en/post/the/) [regular](/en/post/regular/) [rise](/en/post/rise/) [and](/en/post/and/) [fall](/en/post/fall/) [of](/en/post/of/) [the](/en/post/the/) [sea](/en/post/sea/) [level](/en/post/level/) caused [by](/en/post/by/) [the](/en/post/the/) gravitational [pull](/en/post/pull/) [of](/en/post/of/) [the](/en/post/the/) [moon](/en/post/moon/) [and](/en/post/and/) [the](/en/post/the/) [sun](/en/post/sun/). [Example](/en/post/example/): "[The](/en/post/the/) [tide](/en/post/tide/) was coming [in](/en/post/in/), flooding [the](/en/post/the/) [beach](/en/post/beach/) [with](/en/post/with/) [water](/en/post/water/)."
-2. **[Tide](/en/post/tide/) [cycle](/en/post/cycle/)**: [The](/en/post/the/) periodic [pattern](/en/post/pattern/) [of](/en/post/of/) [high](/en/post/high/) [and](/en/post/and/) [low](/en/post/low/) tides [over](/en/post/over/) [a](/en/post/a/) [day](/en/post/day/) [or](/en/post/or/) [week](/en/post/week/). [Example](/en/post/example/): "[The](/en/post/the/) [tide](/en/post/tide/) cycles [follow](/en/post/follow/) [a](/en/post/a/) predictable [pattern](/en/post/pattern/) [in](/en/post/in/) coastal areas."
+### [Noun](/post/noun/)
+1. **[The](/post/the/) [tide](/post/tide/)**: [The](/post/the/) [regular](/post/regular/) [rise](/post/rise/) [and](/post/and/) [fall](/post/fall/) [of](/post/of/) [the](/post/the/) [sea](/post/sea/) [level](/post/level/) caused [by](/post/by/) [the](/post/the/) gravitational [pull](/post/pull/) [of](/post/of/) [the](/post/the/) [moon](/post/moon/) [and](/post/and/) [the](/post/the/) [sun](/post/sun/). [Example](/post/example/): "[The](/post/the/) [tide](/post/tide/) was coming [in](/post/in/), flooding [the](/post/the/) [beach](/post/beach/) [with](/post/with/) [water](/post/water/)."
+2. **[Tide](/post/tide/) [cycle](/post/cycle/)**: [The](/post/the/) periodic [pattern](/post/pattern/) [of](/post/of/) [high](/post/high/) [and](/post/and/) [low](/post/low/) tides [over](/post/over/) [a](/post/a/) [day](/post/day/) [or](/post/or/) [week](/post/week/). [Example](/post/example/): "[The](/post/the/) [tide](/post/tide/) cycles [follow](/post/follow/) [a](/post/a/) predictable [pattern](/post/pattern/) [in](/post/in/) coastal areas."
 
-### [Verb](/en/post/verb/) (informal)
-1. [To](/en/post/to/) [be](/en/post/be/) influenced [by](/en/post/by/) [or](/en/post/or/) affected [by](/en/post/by/) [a](/en/post/a/) [tide](/en/post/tide/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) surge [in](/en/post/in/) popularity [or](/en/post/or/) [opinion](/en/post/opinion/). [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) marketing [campaign](/en/post/campaign/) has [really](/en/post/really/) tided [her](/en/post/her/) [business](/en/post/business/) [over](/en/post/over/)."
-2. [To](/en/post/to/) [mark](/en/post/mark/) [the](/en/post/the/) [time](/en/post/time/) [by](/en/post/by/) [the](/en/post/the/) rising [and](/en/post/and/) falling [of](/en/post/of/) [the](/en/post/the/) [tide](/en/post/tide/). [Example](/en/post/example/): "[We](/en/post/we/) [use](/en/post/use/) [the](/en/post/the/) [tide](/en/post/tide/) [to](/en/post/to/) [set](/en/post/set/) [our](/en/post/our/) [daily](/en/post/daily/) [schedule](/en/post/schedule/)."
+### [Verb](/post/verb/) (informal)
+1. [To](/post/to/) [be](/post/be/) influenced [by](/post/by/) [or](/post/or/) affected [by](/post/by/) [a](/post/a/) [tide](/post/tide/), [such](/post/such/) [as](/post/as/) [a](/post/a/) surge [in](/post/in/) popularity [or](/post/or/) [opinion](/post/opinion/). [Example](/post/example/): "[The](/post/the/) [new](/post/new/) marketing [campaign](/post/campaign/) has [really](/post/really/) tided [her](/post/her/) [business](/post/business/) [over](/post/over/)."
+2. [To](/post/to/) [mark](/post/mark/) [the](/post/the/) [time](/post/time/) [by](/post/by/) [the](/post/the/) rising [and](/post/and/) falling [of](/post/of/) [the](/post/the/) [tide](/post/tide/). [Example](/post/example/): "[We](/post/we/) [use](/post/use/) [the](/post/the/) [tide](/post/tide/) [to](/post/to/) [set](/post/set/) [our](/post/our/) [daily](/post/daily/) [schedule](/post/schedule/)."
 
-### [Adjective](/en/post/adjective/)
-1. Describing [the](/en/post/the/) ebb [and](/en/post/and/) [flow](/en/post/flow/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [used](/en/post/used/) metaphorically. [Example](/en/post/example/): "Life's tides [can](/en/post/can/) [be](/en/post/be/) [both](/en/post/both/) [calm](/en/post/calm/) [and](/en/post/and/) tumultuous."
+### [Adjective](/post/adjective/)
+1. Describing [the](/post/the/) ebb [and](/post/and/) [flow](/post/flow/) [of](/post/of/) [something](/post/something/), [often](/post/often/) [used](/post/used/) metaphorically. [Example](/post/example/): "Life's tides [can](/post/can/) [be](/post/be/) [both](/post/both/) [calm](/post/calm/) [and](/post/and/) tumultuous."
 
 ## Phrases
-- "[Go](/en/post/go/) [with](/en/post/with/) [the](/en/post/the/) [tide](/en/post/tide/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [along](/en/post/along/) [with](/en/post/with/) [the](/en/post/the/) [current](/en/post/current/) [situation](/en/post/situation/) [or](/en/post/or/) [trend](/en/post/trend/).
-- "[Be](/en/post/be/) tide-bound" refers [to](/en/post/to/) [being](/en/post/being/) restricted [or](/en/post/or/) trapped [by](/en/post/by/) [the](/en/post/the/) [tide](/en/post/tide/).
-- "[High](/en/post/high/) [tide](/en/post/tide/) lifts [all](/en/post/all/) boats" is [a](/en/post/a/) saying suggesting [that](/en/post/that/) [good](/en/post/good/) times [benefit](/en/post/benefit/) [everyone](/en/post/everyone/).
+- "[Go](/post/go/) [with](/post/with/) [the](/post/the/) [tide](/post/tide/)" [means](/post/means/) [to](/post/to/) [go](/post/go/) [along](/post/along/) [with](/post/with/) [the](/post/the/) [current](/post/current/) [situation](/post/situation/) [or](/post/or/) [trend](/post/trend/).
+- "[Be](/post/be/) tide-bound" refers [to](/post/to/) [being](/post/being/) restricted [or](/post/or/) trapped [by](/post/by/) [the](/post/the/) [tide](/post/tide/).
+- "[High](/post/high/) [tide](/post/tide/) lifts [all](/post/all/) boats" is [a](/post/a/) saying suggesting [that](/post/that/) [good](/post/good/) times [benefit](/post/benefit/) [everyone](/post/everyone/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) fishermen [left](/en/post/left/) [early](/en/post/early/) [to](/en/post/to/) [catch](/en/post/catch/) [the](/en/post/the/) [high](/en/post/high/) [tide](/en/post/tide/)."
-- **[Verb](/en/post/verb/)**: "Let's [go](/en/post/go/) [for](/en/post/for/) [a](/en/post/a/) [walk](/en/post/walk/) [when](/en/post/when/) [the](/en/post/the/) [tide](/en/post/tide/) is [low](/en/post/low/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [mood](/en/post/mood/) swung [with](/en/post/with/) [the](/en/post/the/) tides [of](/en/post/of/) [her](/en/post/her/) emotions."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) fishermen [left](/post/left/) [early](/post/early/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [high](/post/high/) [tide](/post/tide/)."
+- **[Verb](/post/verb/)**: "Let's [go](/post/go/) [for](/post/for/) [a](/post/a/) [walk](/post/walk/) [when](/post/when/) [the](/post/the/) [tide](/post/tide/) is [low](/post/low/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [mood](/post/mood/) swung [with](/post/with/) [the](/post/the/) tides [of](/post/of/) [her](/post/her/) emotions."
 
 ## Synonyms
-- [Sea](/en/post/sea/) [change](/en/post/change/)
--ebb [and](/en/post/and/) [flow](/en/post/flow/)
--ebb [tide](/en/post/tide/)
--[marine](/en/post/marine/) ebb
--moody [tide](/en/post/tide/)
+- [Sea](/post/sea/) [change](/post/change/)
+-ebb [and](/post/and/) [flow](/post/flow/)
+-ebb [tide](/post/tide/)
+-[marine](/post/marine/) ebb
+-moody [tide](/post/tide/)
 -sea-level fluctuation

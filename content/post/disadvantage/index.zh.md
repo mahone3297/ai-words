@@ -11,20 +11,20 @@ keywords = ['ai words', 'disadvantage']
 /ˌdɪsədˈvɑːntɪdʒ/
 
 ## 释义
-- **名词**: 不利条件，缺点，劣势。例如: "[One](/post/one/) [of](/post/of/) [the](/post/the/) disadvantages [of](/post/of/) [living](/post/living/) [in](/post/in/) [the](/post/the/) [city](/post/city/) is [the](/post/the/) [high](/post/high/) [cost](/post/cost/) [of](/post/of/) [living](/post/living/)."
-- **动词**: 使处于不利地位，损害。例如: "[The](/post/the/) [lack](/post/lack/) [of](/post/of/) [experience](/post/experience/) disadvantages [him](/post/him/) [in](/post/in/) [the](/post/the/) [job](/post/job/) [interview](/post/interview/)."
+- **名词**: 不利条件，缺点，劣势。例如: "[One](/zh/post/one/) [of](/zh/post/of/) [the](/zh/post/the/) disadvantages [of](/zh/post/of/) [living](/zh/post/living/) [in](/zh/post/in/) [the](/zh/post/the/) [city](/zh/post/city/) is [the](/zh/post/the/) [high](/zh/post/high/) [cost](/zh/post/cost/) [of](/zh/post/of/) [living](/zh/post/living/)."
+- **动词**: 使处于不利地位，损害。例如: "[The](/zh/post/the/) [lack](/zh/post/lack/) [of](/zh/post/of/) [experience](/zh/post/experience/) disadvantages [him](/zh/post/him/) [in](/zh/post/in/) [the](/zh/post/the/) [job](/zh/post/job/) [interview](/zh/post/interview/)."
 
 ## 短语
-- "[at](/post/at/) [a](/post/a/) [disadvantage](/post/disadvantage/)" 处于不利位置或状态。例如: "[Being](/post/being/) unfamiliar [with](/post/with/) [the](/post/the/) [topic](/post/topic/) [put](/post/put/) [her](/post/her/) [at](/post/at/) [a](/post/a/) [disadvantage](/post/disadvantage/) [during](/post/during/) [the](/post/the/) [debate](/post/debate/)."
-- "disadvantageous circumstances" 不利的情况或环境。例如: "[They](/post/they/) had [to](/post/to/) [overcome](/post/overcome/) [many](/post/many/) disadvantageous circumstances [to](/post/to/) [succeed](/post/succeed/)."
+- "[at](/zh/post/at/) [a](/zh/post/a/) [disadvantage](/zh/post/disadvantage/)" 处于不利位置或状态。例如: "[Being](/zh/post/being/) unfamiliar [with](/zh/post/with/) [the](/zh/post/the/) [topic](/zh/post/topic/) [put](/zh/post/put/) [her](/zh/post/her/) [at](/zh/post/at/) [a](/zh/post/a/) [disadvantage](/zh/post/disadvantage/) [during](/zh/post/during/) [the](/zh/post/the/) [debate](/zh/post/debate/)."
+- "disadvantageous circumstances" 不利的情况或环境。例如: "[They](/zh/post/they/) had [to](/zh/post/to/) [overcome](/zh/post/overcome/) [many](/zh/post/many/) disadvantageous circumstances [to](/zh/post/to/) [succeed](/zh/post/succeed/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [small](/post/small/) [size](/post/size/) [of](/post/of/) [the](/post/the/) [company](/post/company/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [disadvantage](/post/disadvantage/) [when](/post/when/) competing [with](/post/with/) larger firms."
-- 动词: "[His](/post/his/) [poor](/post/poor/) [health](/post/health/) disadvantaged [him](/post/him/) [in](/post/in/) [the](/post/the/) marathon [race](/post/race/)."
+- 名词: "[The](/zh/post/the/) [small](/zh/post/small/) [size](/zh/post/size/) [of](/zh/post/of/) [the](/zh/post/the/) [company](/zh/post/company/) [can](/zh/post/can/) [be](/zh/post/be/) [a](/zh/post/a/) [disadvantage](/zh/post/disadvantage/) [when](/zh/post/when/) competing [with](/zh/post/with/) larger firms."
+- 动词: "[His](/zh/post/his/) [poor](/zh/post/poor/) [health](/zh/post/health/) disadvantaged [him](/zh/post/him/) [in](/zh/post/in/) [the](/zh/post/the/) marathon [race](/zh/post/race/)."
 
 ## 同义词
 - drawback
-- [weakness](/post/weakness/)
-- [shortcoming](/post/shortcoming/)
+- [weakness](/zh/post/weakness/)
+- [shortcoming](/zh/post/shortcoming/)
 - liability
-- [minus](/post/minus/)
+- [minus](/zh/post/minus/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'liar']
 /ˈlaɪər/
 
 ## 释义
-- **名词**: 说谎者；骗子。例如: "[He](/post/he/) proved [to](/post/to/) [be](/post/be/) [a](/post/a/) [liar](/post/liar/), [and](/post/and/) [nobody](/post/nobody/) believed [him](/post/him/) anymore."
-- **形容词**: 与说谎相关的；不真实的。例如: "That's [a](/post/a/) liar's [tale](/post/tale/); [it](/post/it/) can't [be](/post/be/) trusted."
+- **名词**: 说谎者；骗子。例如: "[He](/zh/post/he/) proved [to](/zh/post/to/) [be](/zh/post/be/) [a](/zh/post/a/) [liar](/zh/post/liar/), [and](/zh/post/and/) [nobody](/zh/post/nobody/) believed [him](/zh/post/him/) anymore."
+- **形容词**: 与说谎相关的；不真实的。例如: "That's [a](/zh/post/a/) liar's [tale](/zh/post/tale/); [it](/zh/post/it/) can't [be](/zh/post/be/) trusted."
 
 ## 短语
-- "[Call](/post/call/) [someone](/post/someone/) [a](/post/a/) [liar](/post/liar/)" 指指控某人在说谎。
-- "[Liar](/post/liar/), [liar](/post/liar/), pants [on](/post/on/) [fire](/post/fire/)" 是一种儿童用来指责别人说谎的俏皮话。
+- "[Call](/zh/post/call/) [someone](/zh/post/someone/) [a](/zh/post/a/) [liar](/zh/post/liar/)" 指指控某人在说谎。
+- "[Liar](/zh/post/liar/), [liar](/zh/post/liar/), pants [on](/zh/post/on/) [fire](/zh/post/fire/)" 是一种儿童用来指责别人说谎的俏皮话。
 
 ## 例句
-- 名词: "[The](/post/the/) liar's [story](/post/story/) kept changing [every](/post/every/) [time](/post/time/) [he](/post/he/) was confronted [with](/post/with/) [evidence](/post/evidence/)."
-- 形容词: "[The](/post/the/) [whole](/post/whole/) [report](/post/report/) turned [out](/post/out/) [to](/post/to/) [be](/post/be/) [a](/post/a/) [pack](/post/pack/) [of](/post/of/) [liar](/post/liar/) claims."
+- 名词: "[The](/zh/post/the/) liar's [story](/zh/post/story/) kept changing [every](/zh/post/every/) [time](/zh/post/time/) [he](/zh/post/he/) was confronted [with](/zh/post/with/) [evidence](/zh/post/evidence/)."
+- 形容词: "[The](/zh/post/the/) [whole](/zh/post/whole/) [report](/zh/post/report/) turned [out](/zh/post/out/) [to](/zh/post/to/) [be](/zh/post/be/) [a](/zh/post/a/) [pack](/zh/post/pack/) [of](/zh/post/of/) [liar](/zh/post/liar/) claims."
 
 ## 同义词
 - Deceiver
 - Fabricator
 - Prevaricator
-- Dishonest [person](/post/person/)
-- Storyteller ([in](/post/in/) [a](/post/a/) [negative](/post/negative/) context)
+- Dishonest [person](/zh/post/person/)
+- Storyteller ([in](/zh/post/in/) [a](/zh/post/a/) [negative](/zh/post/negative/) context)

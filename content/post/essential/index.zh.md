@@ -11,21 +11,21 @@ keywords = ['ai words', 'essential']
 /ɪˈsenʃəl/
 
 ## 释义
-- **形容词**: 极其重要的，必不可少的，基本的。例如: "[Fresh](/post/fresh/) [water](/post/water/) is [essential](/post/essential/) [for](/post/for/) [life](/post/life/)."
-- **名词**: 必需品，本质。例如: "[The](/post/the/) essentials [for](/post/for/) camping [include](/post/include/) [a](/post/a/) [tent](/post/tent/) [and](/post/and/) [a](/post/a/) sleeping [bag](/post/bag/)."
+- **形容词**: 极其重要的，必不可少的，基本的。例如: "[Fresh](/zh/post/fresh/) [water](/zh/post/water/) is [essential](/zh/post/essential/) [for](/zh/post/for/) [life](/zh/post/life/)."
+- **名词**: 必需品，本质。例如: "[The](/zh/post/the/) essentials [for](/zh/post/for/) camping [include](/zh/post/include/) [a](/zh/post/a/) [tent](/zh/post/tent/) [and](/zh/post/and/) [a](/zh/post/a/) sleeping [bag](/zh/post/bag/)."
 
 ## 短语
-- "[the](/post/the/) [essential](/post/essential/) elements" 基本要素
-- "[essential](/post/essential/) oils" 精油
-- "[essential](/post/essential/) [reading](/post/reading/)" 必读书目
+- "[the](/zh/post/the/) [essential](/zh/post/essential/) elements" 基本要素
+- "[essential](/zh/post/essential/) oils" 精油
+- "[essential](/zh/post/essential/) [reading](/zh/post/reading/)" 必读书目
 
 ## 例句
-- 形容词: "It's [essential](/post/essential/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [good](/post/good/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [subject](/post/subject/) [before](/post/before/) starting [the](/post/the/) [project](/post/project/)."
-- 名词: "[She](/post/she/) packed [only](/post/only/) [the](/post/the/) essentials [for](/post/for/) [her](/post/her/) [weekend](/post/weekend/) [trip](/post/trip/)."
+- 形容词: "It's [essential](/zh/post/essential/) [to](/zh/post/to/) [have](/zh/post/have/) [a](/zh/post/a/) [good](/zh/post/good/) [understanding](/zh/post/understanding/) [of](/zh/post/of/) [the](/zh/post/the/) [subject](/zh/post/subject/) [before](/zh/post/before/) starting [the](/zh/post/the/) [project](/zh/post/project/)."
+- 名词: "[She](/zh/post/she/) packed [only](/zh/post/only/) [the](/zh/post/the/) essentials [for](/zh/post/for/) [her](/zh/post/her/) [weekend](/zh/post/weekend/) [trip](/zh/post/trip/)."
 
 ## 同义词
-- [necessary](/post/necessary/)
-- [vital](/post/vital/)
-- [indispensable](/post/indispensable/)
-- [fundamental](/post/fundamental/)
+- [necessary](/zh/post/necessary/)
+- [vital](/zh/post/vital/)
+- [indispensable](/zh/post/indispensable/)
+- [fundamental](/zh/post/fundamental/)
 - required

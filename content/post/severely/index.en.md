@@ -7,33 +7,33 @@ description = '[siˈviəli] ad.严厉地，严格地'
 keywords = ['ai words', 'severely']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sevərli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Describing [the](/en/post/the/) [degree](/en/post/degree/) [or](/en/post/or/) [intensity](/en/post/intensity/) [of](/en/post/of/) an [action](/en/post/action/), [often](/en/post/often/) indicating severity [or](/en/post/or/) harshness. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke [severely](/en/post/severely/) [to](/en/post/to/) [her](/en/post/her/) [child](/en/post/child/)."
-- **[Adjective](/en/post/adjective/)**: Marking [a](/en/post/a/) [significant](/en/post/significant/) [or](/en/post/or/) [extreme](/en/post/extreme/) [degree](/en/post/degree/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) negatively. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [punishment](/en/post/punishment/) was [severely](/en/post/severely/) [harsh](/en/post/harsh/)."
+- **[Adverb](/post/adverb/)**: Describing [the](/post/the/) [degree](/post/degree/) [or](/post/or/) [intensity](/post/intensity/) [of](/post/of/) an [action](/post/action/), [often](/post/often/) indicating severity [or](/post/or/) harshness. [For](/post/for/) [example](/post/example/): "[She](/post/she/) spoke [severely](/post/severely/) [to](/post/to/) [her](/post/her/) [child](/post/child/)."
+- **[Adjective](/post/adjective/)**: Marking [a](/post/a/) [significant](/post/significant/) [or](/post/or/) [extreme](/post/extreme/) [degree](/post/degree/) [of](/post/of/) [something](/post/something/), [often](/post/often/) negatively. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [punishment](/post/punishment/) was [severely](/post/severely/) [harsh](/post/harsh/)."
 
 ## Phrases
-- "[Severely](/en/post/severely/) [ill](/en/post/ill/)" [means](/en/post/means/) [extremely](/en/post/extremely/) unwell.
-- "[Severe](/en/post/severe/) [weather](/en/post/weather/) conditions" indicates [extreme](/en/post/extreme/) climatic conditions.
-- "[Severely](/en/post/severely/) [cut](/en/post/cut/)" describes [a](/en/post/a/) [deep](/en/post/deep/) [or](/en/post/or/) [significant](/en/post/significant/) [wound](/en/post/wound/).
+- "[Severely](/post/severely/) [ill](/post/ill/)" [means](/post/means/) [extremely](/post/extremely/) unwell.
+- "[Severe](/post/severe/) [weather](/post/weather/) conditions" indicates [extreme](/post/extreme/) climatic conditions.
+- "[Severely](/post/severely/) [cut](/post/cut/)" describes [a](/post/a/) [deep](/post/deep/) [or](/post/or/) [significant](/post/significant/) [wound](/post/wound/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) [severely](/en/post/severely/) criticized [the](/en/post/the/) students' [lack](/en/post/lack/) [of](/en/post/of/) [effort](/en/post/effort/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) [will](/en/post/will/) [have](/en/post/have/) [severely](/en/post/severely/) affected [the](/en/post/the/) company's profits."
-- "[He](/en/post/he/) was [severely](/en/post/severely/) injured [in](/en/post/in/) [the](/en/post/the/) [car](/en/post/car/) [accident](/en/post/accident/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [teacher](/post/teacher/) [severely](/post/severely/) criticized [the](/post/the/) students' [lack](/post/lack/) [of](/post/of/) [effort](/post/effort/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) [will](/post/will/) [have](/post/have/) [severely](/post/severely/) affected [the](/post/the/) company's profits."
+- "[He](/post/he/) was [severely](/post/severely/) injured [in](/post/in/) [the](/post/the/) [car](/post/car/) [accident](/post/accident/)."
 
 ## Synonyms
-- [Severely](/en/post/severely/)
-- [Heavily](/en/post/heavily/)
+- [Severely](/post/severely/)
+- [Heavily](/post/heavily/)
 - Strikingly
 - Rigorously
-- [Severely](/en/post/severely/) ([as](/en/post/as/) an [adverb](/en/post/adverb/), [same](/en/post/same/) [as](/en/post/as/) [the](/en/post/the/) [adjective](/en/post/adjective/))
+- [Severely](/post/severely/) ([as](/post/as/) an [adverb](/post/adverb/), [same](/post/same/) [as](/post/as/) [the](/post/the/) [adjective](/post/adjective/))
 
 ## Antonyms
 - Mildly
-- [Lightly](/en/post/lightly/)
-- [Gently](/en/post/gently/)
-- [Slightly](/en/post/slightly/)
-- [Not](/en/post/not/) [at](/en/post/at/) [all](/en/post/all/) ([when](/en/post/when/) referring [to](/en/post/to/) severity)
+- [Lightly](/post/lightly/)
+- [Gently](/post/gently/)
+- [Slightly](/post/slightly/)
+- [Not](/post/not/) [at](/post/at/) [all](/post/all/) ([when](/post/when/) referring [to](/post/to/) severity)

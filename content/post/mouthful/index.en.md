@@ -7,28 +7,28 @@ description = '[ˈmauθˌful] n.满口，一口，少量'
 keywords = ['ai words', 'mouthful']
 +++
 
-## [Word](/en/post/word/): [Mouthful](/en/post/mouthful/)
+## [Word](/post/word/): [Mouthful](/post/mouthful/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmaʊθfʊl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [quantity](/en/post/quantity/) [of](/en/post/of/) [food](/en/post/food/) [or](/en/post/or/) [drink](/en/post/drink/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) taken [into](/en/post/into/) [the](/en/post/the/) [mouth](/en/post/mouth/) [at](/en/post/at/) [one](/en/post/one/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [baby](/en/post/baby/) took [a](/en/post/a/) [small](/en/post/small/) [mouthful](/en/post/mouthful/) [of](/en/post/of/) mashed peas."
-- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) is [difficult](/en/post/difficult/) [to](/en/post/to/) [say](/en/post/say/) [or](/en/post/or/) [swallow](/en/post/swallow/), [often](/en/post/often/) referring [to](/en/post/to/) [information](/en/post/information/) [or](/en/post/or/) opinions. [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [speech](/en/post/speech/) was [a](/en/post/a/) [mouthful](/en/post/mouthful/) [of](/en/post/of/) [complex](/en/post/complex/) [economic](/en/post/economic/) theories."
-- **[Adjective](/en/post/adjective/)**: Describing [something](/en/post/something/) [that](/en/post/that/) requires [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [effort](/en/post/effort/) [or](/en/post/or/) [capacity](/en/post/capacity/) [to](/en/post/to/) [manage](/en/post/manage/) [or](/en/post/or/) [consume](/en/post/consume/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [size](/en/post/size/) [or](/en/post/or/) complexity. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [vocabulary](/en/post/vocabulary/) words were [quite](/en/post/quite/) [a](/en/post/a/) [mouthful](/en/post/mouthful/) [for](/en/post/for/) [the](/en/post/the/) [beginner](/en/post/beginner/) learners."
+- **[Noun](/post/noun/)**: [A](/post/a/) [quantity](/post/quantity/) [of](/post/of/) [food](/post/food/) [or](/post/or/) [drink](/post/drink/) [that](/post/that/) [can](/post/can/) [be](/post/be/) taken [into](/post/into/) [the](/post/the/) [mouth](/post/mouth/) [at](/post/at/) [one](/post/one/) [time](/post/time/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [baby](/post/baby/) took [a](/post/a/) [small](/post/small/) [mouthful](/post/mouthful/) [of](/post/of/) mashed peas."
+- **[Noun](/post/noun/) (figurative)**: [A](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) [something](/post/something/) [that](/post/that/) is [difficult](/post/difficult/) [to](/post/to/) [say](/post/say/) [or](/post/or/) [swallow](/post/swallow/), [often](/post/often/) referring [to](/post/to/) [information](/post/information/) [or](/post/or/) opinions. [For](/post/for/) [example](/post/example/): "[His](/post/his/) [speech](/post/speech/) was [a](/post/a/) [mouthful](/post/mouthful/) [of](/post/of/) [complex](/post/complex/) [economic](/post/economic/) theories."
+- **[Adjective](/post/adjective/)**: Describing [something](/post/something/) [that](/post/that/) requires [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [effort](/post/effort/) [or](/post/or/) [capacity](/post/capacity/) [to](/post/to/) [manage](/post/manage/) [or](/post/or/) [consume](/post/consume/) [due](/post/due/) [to](/post/to/) [its](/post/its/) [size](/post/size/) [or](/post/or/) complexity. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) [vocabulary](/post/vocabulary/) words were [quite](/post/quite/) [a](/post/a/) [mouthful](/post/mouthful/) [for](/post/for/) [the](/post/the/) [beginner](/post/beginner/) learners."
 
 ## Phrases
-- "[A](/en/post/a/) [mouthful](/en/post/mouthful/) [to](/en/post/to/) [say](/en/post/say/)": Refers [to](/en/post/to/) [a](/en/post/a/) [word](/en/post/word/) [or](/en/post/or/) [phrase](/en/post/phrase/) [that](/en/post/that/) is lengthy [or](/en/post/or/) [difficult](/en/post/difficult/) [to](/en/post/to/) [pronounce](/en/post/pronounce/).
-- "[A](/en/post/a/) [mouthful](/en/post/mouthful/) [of](/en/post/of/) marbles": An [idiom](/en/post/idiom/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [someone](/en/post/someone/) [who](/en/post/who/) is speaking unclearly [or](/en/post/or/) [with](/en/post/with/) [difficulty](/en/post/difficulty/), [possibly](/en/post/possibly/) [because](/en/post/because/) [their](/en/post/their/) [mouth](/en/post/mouth/) is [full](/en/post/full/) [or](/en/post/or/) [they](/en/post/they/) [have](/en/post/have/) [a](/en/post/a/) [speech](/en/post/speech/) impediment.
+- "[A](/post/a/) [mouthful](/post/mouthful/) [to](/post/to/) [say](/post/say/)": Refers [to](/post/to/) [a](/post/a/) [word](/post/word/) [or](/post/or/) [phrase](/post/phrase/) [that](/post/that/) is lengthy [or](/post/or/) [difficult](/post/difficult/) [to](/post/to/) [pronounce](/post/pronounce/).
+- "[A](/post/a/) [mouthful](/post/mouthful/) [of](/post/of/) marbles": An [idiom](/post/idiom/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [someone](/post/someone/) [who](/post/who/) is speaking unclearly [or](/post/or/) [with](/post/with/) [difficulty](/post/difficulty/), [possibly](/post/possibly/) [because](/post/because/) [their](/post/their/) [mouth](/post/mouth/) is [full](/post/full/) [or](/post/or/) [they](/post/they/) [have](/post/have/) [a](/post/a/) [speech](/post/speech/) impediment.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) (literal)**: "[She](/en/post/she/) took [a](/en/post/a/) [big](/en/post/big/) [mouthful](/en/post/mouthful/) [of](/en/post/of/) [water](/en/post/water/) [to](/en/post/to/) quench [her](/en/post/her/) [thirst](/en/post/thirst/)."
-- **[Noun](/en/post/noun/) (figurative)**: "[Understanding](/en/post/understanding/) quantum [physics](/en/post/physics/) is [quite](/en/post/quite/) [a](/en/post/a/) [mouthful](/en/post/mouthful/) [for](/en/post/for/) [most](/en/post/most/) [people](/en/post/people/)."
-- **[Adjective](/en/post/adjective/)**: "[That](/en/post/that/) [long](/en/post/long/) [medical](/en/post/medical/) [term](/en/post/term/) is [really](/en/post/really/) [a](/en/post/a/) [mouthful](/en/post/mouthful/); let's [find](/en/post/find/) [a](/en/post/a/) simpler [way](/en/post/way/) [to](/en/post/to/) [explain](/en/post/explain/) [it](/en/post/it/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) (literal)**: "[She](/post/she/) took [a](/post/a/) [big](/post/big/) [mouthful](/post/mouthful/) [of](/post/of/) [water](/post/water/) [to](/post/to/) quench [her](/post/her/) [thirst](/post/thirst/)."
+- **[Noun](/post/noun/) (figurative)**: "[Understanding](/post/understanding/) quantum [physics](/post/physics/) is [quite](/post/quite/) [a](/post/a/) [mouthful](/post/mouthful/) [for](/post/for/) [most](/post/most/) [people](/post/people/)."
+- **[Adjective](/post/adjective/)**: "[That](/post/that/) [long](/post/long/) [medical](/post/medical/) [term](/post/term/) is [really](/post/really/) [a](/post/a/) [mouthful](/post/mouthful/); let's [find](/post/find/) [a](/post/a/) simpler [way](/post/way/) [to](/post/to/) [explain](/post/explain/) [it](/post/it/)."
 
 ## Synonyms
-- [Bite](/en/post/bite/) (literal [sense](/en/post/sense/))
-- [Swallow](/en/post/swallow/) (literal [sense](/en/post/sense/))
-- Chunk ([of](/en/post/of/) [information](/en/post/information/))
-- [Load](/en/post/load/) (figurative [sense](/en/post/sense/))
-- Whopper (informal, [for](/en/post/for/) [a](/en/post/a/) [large](/en/post/large/) [or](/en/post/or/) [complex](/en/post/complex/) [statement](/en/post/statement/))
+- [Bite](/post/bite/) (literal [sense](/post/sense/))
+- [Swallow](/post/swallow/) (literal [sense](/post/sense/))
+- Chunk ([of](/post/of/) [information](/post/information/))
+- [Load](/post/load/) (figurative [sense](/post/sense/))
+- Whopper (informal, [for](/post/for/) [a](/post/a/) [large](/post/large/) [or](/post/or/) [complex](/post/complex/) [statement](/post/statement/))

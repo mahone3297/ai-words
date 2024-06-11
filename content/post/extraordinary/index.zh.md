@@ -11,20 +11,20 @@ keywords = ['ai words', 'extraordinary']
 /ɪɡˈzɔːrtnəri/
 
 ## 释义
-- **形容词**: 非凡的，不寻常的，特别的。例如: "[She](/post/she/) has [extraordinary](/post/extraordinary/) [talent](/post/talent/) [in](/post/in/) [painting](/post/painting/)."
-- **名词**: 不平凡的事物或人。例如: "[The](/post/the/) [event](/post/event/) was an [extraordinary](/post/extraordinary/) [occurrence](/post/occurrence/)."
+- **形容词**: 非凡的，不寻常的，特别的。例如: "[She](/zh/post/she/) has [extraordinary](/zh/post/extraordinary/) [talent](/zh/post/talent/) [in](/zh/post/in/) [painting](/zh/post/painting/)."
+- **名词**: 不平凡的事物或人。例如: "[The](/zh/post/the/) [event](/zh/post/event/) was an [extraordinary](/zh/post/extraordinary/) [occurrence](/zh/post/occurrence/)."
 
 ## 短语
-- "[extraordinary](/post/extraordinary/) abilities" 指非凡的能力或技能。
-- "[extraordinary](/post/extraordinary/) [meeting](/post/meeting/)" 指特别召开的会议，通常处理紧急或非例行事务。
+- "[extraordinary](/zh/post/extraordinary/) abilities" 指非凡的能力或技能。
+- "[extraordinary](/zh/post/extraordinary/) [meeting](/zh/post/meeting/)" 指特别召开的会议，通常处理紧急或非例行事务。
 
 ## 例句
-- 形容词: "[His](/post/his/) [extraordinary](/post/extraordinary/) [intelligence](/post/intelligence/) sets [him](/post/him/) [apart](/post/apart/) [from](/post/from/) others."
-- 名词: "[The](/post/the/) [company](/post/company/) called an [extraordinary](/post/extraordinary/) [meeting](/post/meeting/) [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) [crisis](/post/crisis/)."
+- 形容词: "[His](/zh/post/his/) [extraordinary](/zh/post/extraordinary/) [intelligence](/zh/post/intelligence/) sets [him](/zh/post/him/) [apart](/zh/post/apart/) [from](/zh/post/from/) others."
+- 名词: "[The](/zh/post/the/) [company](/zh/post/company/) called an [extraordinary](/zh/post/extraordinary/) [meeting](/zh/post/meeting/) [to](/zh/post/to/) [discuss](/zh/post/discuss/) [the](/zh/post/the/) [crisis](/zh/post/crisis/)."
 
 ## 同义词
 - Exceptional
-- [Unusual](/post/unusual/)
-- [Remarkable](/post/remarkable/)
+- [Unusual](/zh/post/unusual/)
+- [Remarkable](/zh/post/remarkable/)
 - Incredible
-- [Outstanding](/post/outstanding/)
+- [Outstanding](/zh/post/outstanding/)

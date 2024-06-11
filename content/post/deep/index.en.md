@@ -7,41 +7,41 @@ description = '[diːp] a.深的；纵深的'
 keywords = ['ai words', 'deep']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /diːp/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Depth](/en/post/depth/)**: [The](/en/post/the/) [extent](/en/post/extent/) [or](/en/post/or/) [distance](/en/post/distance/) [from](/en/post/from/) [the](/en/post/the/) [surface](/en/post/surface/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [body](/en/post/body/) [of](/en/post/of/) [water](/en/post/water/) [or](/en/post/or/) [below](/en/post/below/) [ground](/en/post/ground/). [Example](/en/post/example/): "[The](/en/post/the/) [well](/en/post/well/) had [a](/en/post/a/) [depth](/en/post/depth/) [of](/en/post/of/) 20 meters."
-2. **[Intense](/en/post/intense/)**: [Great](/en/post/great/) [in](/en/post/in/) magnitude, [strength](/en/post/strength/), [or](/en/post/or/) [degree](/en/post/degree/). [Example](/en/post/example/): "[Her](/en/post/her/) [concern](/en/post/concern/) was deep-rooted."
-3. **[Emotional](/en/post/emotional/)**: Profound [or](/en/post/or/) [intense](/en/post/intense/) feelings. [Example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) [deep](/en/post/deep/) [sense](/en/post/sense/) [of](/en/post/of/) [loss](/en/post/loss/) [after](/en/post/after/) [her](/en/post/her/) father's passing."
-4. **[Secret](/en/post/secret/) [or](/en/post/or/) Confidential**: Kept hidden [or](/en/post/or/) known [only](/en/post/only/) [to](/en/post/to/) [a](/en/post/a/) [few](/en/post/few/) [people](/en/post/people/). [Example](/en/post/example/): "[There](/en/post/there/) were [some](/en/post/some/) deep-state secrets involved [in](/en/post/in/) [the](/en/post/the/) [case](/en/post/case/)."
+### [Noun](/post/noun/)
+1. **[Depth](/post/depth/)**: [The](/post/the/) [extent](/post/extent/) [or](/post/or/) [distance](/post/distance/) [from](/post/from/) [the](/post/the/) [surface](/post/surface/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [body](/post/body/) [of](/post/of/) [water](/post/water/) [or](/post/or/) [below](/post/below/) [ground](/post/ground/). [Example](/post/example/): "[The](/post/the/) [well](/post/well/) had [a](/post/a/) [depth](/post/depth/) [of](/post/of/) 20 meters."
+2. **[Intense](/post/intense/)**: [Great](/post/great/) [in](/post/in/) magnitude, [strength](/post/strength/), [or](/post/or/) [degree](/post/degree/). [Example](/post/example/): "[Her](/post/her/) [concern](/post/concern/) was deep-rooted."
+3. **[Emotional](/post/emotional/)**: Profound [or](/post/or/) [intense](/post/intense/) feelings. [Example](/post/example/): "[She](/post/she/) had [a](/post/a/) [deep](/post/deep/) [sense](/post/sense/) [of](/post/of/) [loss](/post/loss/) [after](/post/after/) [her](/post/her/) father's passing."
+4. **[Secret](/post/secret/) [or](/post/or/) Confidential**: Kept hidden [or](/post/or/) known [only](/post/only/) [to](/post/to/) [a](/post/a/) [few](/post/few/) [people](/post/people/). [Example](/post/example/): "[There](/post/there/) were [some](/post/some/) deep-state secrets involved [in](/post/in/) [the](/post/the/) [case](/post/case/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) immerse**: [To](/en/post/to/) [go](/en/post/go/) deeply [into](/en/post/into/) [something](/en/post/something/), [like](/en/post/like/) [a](/en/post/a/) [pool](/en/post/pool/) [or](/en/post/or/) [a](/en/post/a/) [subject](/en/post/subject/). [Example](/en/post/example/): "[She](/en/post/she/) dove [deep](/en/post/deep/) [into](/en/post/into/) [the](/en/post/the/) [ocean](/en/post/ocean/) [to](/en/post/to/) [explore](/en/post/explore/) [the](/en/post/the/) coral reefs."
-2. **[To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [perceive](/en/post/perceive/)**: [To](/en/post/to/) [understand](/en/post/understand/) [something](/en/post/something/) [on](/en/post/on/) [a](/en/post/a/) profound [level](/en/post/level/). [Example](/en/post/example/): "[He](/en/post/he/) deeply understood [the](/en/post/the/) complexities [of](/en/post/of/) [the](/en/post/the/) [situation](/en/post/situation/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) immerse**: [To](/post/to/) [go](/post/go/) deeply [into](/post/into/) [something](/post/something/), [like](/post/like/) [a](/post/a/) [pool](/post/pool/) [or](/post/or/) [a](/post/a/) [subject](/post/subject/). [Example](/post/example/): "[She](/post/she/) dove [deep](/post/deep/) [into](/post/into/) [the](/post/the/) [ocean](/post/ocean/) [to](/post/to/) [explore](/post/explore/) [the](/post/the/) coral reefs."
+2. **[To](/post/to/) [feel](/post/feel/) [or](/post/or/) [perceive](/post/perceive/)**: [To](/post/to/) [understand](/post/understand/) [something](/post/something/) [on](/post/on/) [a](/post/a/) profound [level](/post/level/). [Example](/post/example/): "[He](/post/he/) deeply understood [the](/post/the/) complexities [of](/post/of/) [the](/post/the/) [situation](/post/situation/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Abysmal**: [Extremely](/en/post/extremely/) [deep](/en/post/deep/) [or](/en/post/or/) [vast](/en/post/vast/); immeasurable. [Example](/en/post/example/): "[The](/en/post/the/) abyss was [a](/en/post/a/) [deep](/en/post/deep/), [dark](/en/post/dark/) chasm."
-2. **Profound**: Having [a](/en/post/a/) [great](/en/post/great/) [intensity](/en/post/intensity/) [or](/en/post/or/) [impact](/en/post/impact/). [Example](/en/post/example/): "[His](/en/post/his/) insights were profound [and](/en/post/and/) transformative."
-3. **[Substantial](/en/post/substantial/)**: [Significant](/en/post/significant/) [in](/en/post/in/) [amount](/en/post/amount/) [or](/en/post/or/) [quality](/en/post/quality/). [Example](/en/post/example/): "[Their](/en/post/their/) [knowledge](/en/post/knowledge/) was [deep](/en/post/deep/) [and](/en/post/and/) [extensive](/en/post/extensive/)."
+### [Adjective](/post/adjective/)
+1. **Abysmal**: [Extremely](/post/extremely/) [deep](/post/deep/) [or](/post/or/) [vast](/post/vast/); immeasurable. [Example](/post/example/): "[The](/post/the/) abyss was [a](/post/a/) [deep](/post/deep/), [dark](/post/dark/) chasm."
+2. **Profound**: Having [a](/post/a/) [great](/post/great/) [intensity](/post/intensity/) [or](/post/or/) [impact](/post/impact/). [Example](/post/example/): "[His](/post/his/) insights were profound [and](/post/and/) transformative."
+3. **[Substantial](/post/substantial/)**: [Significant](/post/significant/) [in](/post/in/) [amount](/post/amount/) [or](/post/or/) [quality](/post/quality/). [Example](/post/example/): "[Their](/post/their/) [knowledge](/post/knowledge/) was [deep](/post/deep/) [and](/post/and/) [extensive](/post/extensive/)."
 
 ## Phrases
-- "[Dive](/en/post/dive/) [deep](/en/post/deep/)" refers [to](/en/post/to/) exploring [a](/en/post/a/) [topic](/en/post/topic/) [or](/en/post/or/) [subject](/en/post/subject/) [in](/en/post/in/) [detail](/en/post/detail/).
-- "[Deep](/en/post/deep/) [breath](/en/post/breath/)" is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) taking [a](/en/post/a/) calming, [deep](/en/post/deep/) inhalation.
-- "[A](/en/post/a/) [deep](/en/post/deep/) [understanding](/en/post/understanding/)" implies [a](/en/post/a/) [thorough](/en/post/thorough/) [grasp](/en/post/grasp/) [of](/en/post/of/) [a](/en/post/a/) [concept](/en/post/concept/).
+- "[Dive](/post/dive/) [deep](/post/deep/)" refers [to](/post/to/) exploring [a](/post/a/) [topic](/post/topic/) [or](/post/or/) [subject](/post/subject/) [in](/post/in/) [detail](/post/detail/).
+- "[Deep](/post/deep/) [breath](/post/breath/)" is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) taking [a](/post/a/) calming, [deep](/post/deep/) inhalation.
+- "[A](/post/a/) [deep](/post/deep/) [understanding](/post/understanding/)" implies [a](/post/a/) [thorough](/post/thorough/) [grasp](/post/grasp/) [of](/post/of/) [a](/post/a/) [concept](/post/concept/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ship](/en/post/ship/) sank [to](/en/post/to/) [a](/en/post/a/) [depth](/en/post/depth/) [of](/en/post/of/) 500 feet."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) took [a](/en/post/a/) [deep](/en/post/deep/) [dive](/en/post/dive/) [into](/en/post/into/) [the](/en/post/the/) [history](/en/post/history/) [of](/en/post/of/) [art](/en/post/art/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [voice](/en/post/voice/) conveyed [a](/en/post/a/) [deep](/en/post/deep/) [emotion](/en/post/emotion/) [when](/en/post/when/) [she](/en/post/she/) sang."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ship](/post/ship/) sank [to](/post/to/) [a](/post/a/) [depth](/post/depth/) [of](/post/of/) 500 feet."
+- **[Verb](/post/verb/)**: "[He](/post/he/) took [a](/post/a/) [deep](/post/deep/) [dive](/post/dive/) [into](/post/into/) [the](/post/the/) [history](/post/history/) [of](/post/of/) [art](/post/art/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [voice](/post/voice/) conveyed [a](/post/a/) [deep](/post/deep/) [emotion](/post/emotion/) [when](/post/when/) [she](/post/she/) sang."
 
 ## Synonyms
 - Profound
-- [Extensive](/en/post/extensive/)
-- [Intense](/en/post/intense/)
+- [Extensive](/post/extensive/)
+- [Intense](/post/intense/)
 - Far-reaching
 - Deep-seated
 - Penetrating
-- [Substantial](/en/post/substantial/)
-- [Vast](/en/post/vast/)
+- [Substantial](/post/substantial/)
+- [Vast](/post/vast/)

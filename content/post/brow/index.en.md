@@ -7,44 +7,44 @@ description = '[brau] n.额；眉，眉毛'
 keywords = ['ai words', 'brow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /braʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) facial [feature](/en/post/feature/) consisting [of](/en/post/of/) [the](/en/post/the/) [upper](/en/post/upper/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [forehead](/en/post/forehead/), typically [between](/en/post/between/) [the](/en/post/the/) eyes [and](/en/post/and/) [the](/en/post/the/) hairline, [especially](/en/post/especially/) [when](/en/post/when/) furrowed [or](/en/post/or/) raised [in](/en/post/in/) [thought](/en/post/thought/), [anger](/en/post/anger/), [or](/en/post/or/) [surprise](/en/post/surprise/).
-- (informal) [The](/en/post/the/) [area](/en/post/area/) [between](/en/post/between/) [the](/en/post/the/) eyes [and](/en/post/and/) [the](/en/post/the/) eyebrows; [the](/en/post/the/) [forehead](/en/post/forehead/).
-- (figurative) An [expression](/en/post/expression/) [that](/en/post/that/) shows one's feelings [or](/en/post/or/) thoughts, [often](/en/post/often/) [without](/en/post/without/) words.
+### [Noun](/post/noun/)
+- [A](/post/a/) facial [feature](/post/feature/) consisting [of](/post/of/) [the](/post/the/) [upper](/post/upper/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [forehead](/post/forehead/), typically [between](/post/between/) [the](/post/the/) eyes [and](/post/and/) [the](/post/the/) hairline, [especially](/post/especially/) [when](/post/when/) furrowed [or](/post/or/) raised [in](/post/in/) [thought](/post/thought/), [anger](/post/anger/), [or](/post/or/) [surprise](/post/surprise/).
+- (informal) [The](/post/the/) [area](/post/area/) [between](/post/between/) [the](/post/the/) eyes [and](/post/and/) [the](/post/the/) eyebrows; [the](/post/the/) [forehead](/post/forehead/).
+- (figurative) An [expression](/post/expression/) [that](/post/that/) shows one's feelings [or](/post/or/) thoughts, [often](/post/often/) [without](/post/without/) words.
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [raise](/en/post/raise/) [the](/en/post/the/) eyebrows [in](/en/post/in/) [surprise](/en/post/surprise/), [curiosity](/en/post/curiosity/), [or](/en/post/or/) displeasure.
-- [To](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [line](/en/post/line/) [of](/en/post/of/) furrows [between](/en/post/between/) [the](/en/post/the/) eyebrows [in](/en/post/in/) [concern](/en/post/concern/) [or](/en/post/or/) [thought](/en/post/thought/).
-- [To](/en/post/to/) [express](/en/post/express/) one's [opinion](/en/post/opinion/) [or](/en/post/or/) judgment [about](/en/post/about/) [something](/en/post/something/) [by](/en/post/by/) raising [the](/en/post/the/) eyebrows.
+### [Verb](/post/verb/)
+- [To](/post/to/) [raise](/post/raise/) [the](/post/the/) eyebrows [in](/post/in/) [surprise](/post/surprise/), [curiosity](/post/curiosity/), [or](/post/or/) displeasure.
+- [To](/post/to/) [form](/post/form/) [a](/post/a/) [line](/post/line/) [of](/post/of/) furrows [between](/post/between/) [the](/post/the/) eyebrows [in](/post/in/) [concern](/post/concern/) [or](/post/or/) [thought](/post/thought/).
+- [To](/post/to/) [express](/post/express/) one's [opinion](/post/opinion/) [or](/post/or/) judgment [about](/post/about/) [something](/post/something/) [by](/post/by/) raising [the](/post/the/) eyebrows.
 
-### [Adjective](/en/post/adjective/)
-- [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [the](/en/post/the/) [brow](/en/post/brow/), [especially](/en/post/especially/) [as](/en/post/as/) regards [its](/en/post/its/) [shape](/en/post/shape/) [or](/en/post/or/) [appearance](/en/post/appearance/).
-- Marking [a](/en/post/a/) person's [face](/en/post/face/) [with](/en/post/with/) wrinkles [or](/en/post/or/) creases, [especially](/en/post/especially/) [between](/en/post/between/) [the](/en/post/the/) eyes.
+### [Adjective](/post/adjective/)
+- [Characteristic](/post/characteristic/) [of](/post/of/) [the](/post/the/) [brow](/post/brow/), [especially](/post/especially/) [as](/post/as/) regards [its](/post/its/) [shape](/post/shape/) [or](/post/or/) [appearance](/post/appearance/).
+- Marking [a](/post/a/) person's [face](/post/face/) [with](/post/with/) wrinkles [or](/post/or/) creases, [especially](/post/especially/) [between](/post/between/) [the](/post/the/) eyes.
 
-### [Adverb](/en/post/adverb/)
-- (informal) [With](/en/post/with/) raised eyebrows, indicating skepticism, disbelief, [or](/en/post/or/) [surprise](/en/post/surprise/).
+### [Adverb](/post/adverb/)
+- (informal) [With](/post/with/) raised eyebrows, indicating skepticism, disbelief, [or](/post/or/) [surprise](/post/surprise/).
 
 ## Phrases
-- "[He](/en/post/he/) frowned [with](/en/post/with/) [a](/en/post/a/) [deep](/en/post/deep/) [brow](/en/post/brow/)."
-- "[She](/en/post/she/) arched [her](/en/post/her/) [brow](/en/post/brow/) [in](/en/post/in/) [curiosity](/en/post/curiosity/)."
-- "[She](/en/post/she/) wiped [the](/en/post/the/) [sweat](/en/post/sweat/) [from](/en/post/from/) [her](/en/post/her/) [brow](/en/post/brow/)."
+- "[He](/post/he/) frowned [with](/post/with/) [a](/post/a/) [deep](/post/deep/) [brow](/post/brow/)."
+- "[She](/post/she/) arched [her](/post/her/) [brow](/post/brow/) [in](/post/in/) [curiosity](/post/curiosity/)."
+- "[She](/post/she/) wiped [the](/post/the/) [sweat](/post/sweat/) [from](/post/from/) [her](/post/her/) [brow](/post/brow/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) noticed [the](/en/post/the/) lines [on](/en/post/on/) [his](/en/post/his/) weathered [brow](/en/post/brow/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) raised [his](/en/post/his/) [brow](/en/post/brow/) [in](/en/post/in/) disbelief [when](/en/post/when/) [he](/en/post/he/) heard [the](/en/post/the/) [news](/en/post/news/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [athlete](/en/post/athlete/) had [a](/en/post/a/) [broad](/en/post/broad/), muscular [brow](/en/post/brow/)."
-- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) [brow](/en/post/brow/) furrowed [in](/en/post/in/) [concentration](/en/post/concentration/) [as](/en/post/as/) [she](/en/post/she/) solved [the](/en/post/the/) [puzzle](/en/post/puzzle/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) noticed [the](/post/the/) lines [on](/post/on/) [his](/post/his/) weathered [brow](/post/brow/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) raised [his](/post/his/) [brow](/post/brow/) [in](/post/in/) disbelief [when](/post/when/) [he](/post/he/) heard [the](/post/the/) [news](/post/news/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [athlete](/post/athlete/) had [a](/post/a/) [broad](/post/broad/), muscular [brow](/post/brow/)."
+- **[Adverb](/post/adverb/)**: "[Her](/post/her/) [brow](/post/brow/) furrowed [in](/post/in/) [concentration](/post/concentration/) [as](/post/as/) [she](/post/she/) solved [the](/post/the/) [puzzle](/post/puzzle/)."
 
 ## Synonyms
-- [Forehead](/en/post/forehead/)
+- [Forehead](/post/forehead/)
 - Brows
 - Glabella
 - Furrow
 - Crease
-- [Concern](/en/post/concern/)
-- Surprised [expression](/en/post/expression/)
-- Judging [look](/en/post/look/)
+- [Concern](/post/concern/)
+- Surprised [expression](/post/expression/)
+- Judging [look](/post/look/)

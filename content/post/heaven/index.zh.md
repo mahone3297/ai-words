@@ -12,21 +12,21 @@ keywords = ['ai words', 'heaven']
 
 ## 释义
 - **名词**:
-    - 天堂，指宗教中认为是神或天使居住的神圣地方。例如: "[Many](/post/many/) religions [believe](/post/believe/) [in](/post/in/) an afterlife [in](/post/in/) [heaven](/post/heaven/)."
-    - 完美或理想的状态或地方。例如: "[The](/post/the/) [garden](/post/garden/) was [a](/post/a/) [little](/post/little/) [piece](/post/piece/) [of](/post/of/) [heaven](/post/heaven/) [on](/post/on/) [earth](/post/earth/)."
+    - 天堂，指宗教中认为是神或天使居住的神圣地方。例如: "[Many](/zh/post/many/) religions [believe](/zh/post/believe/) [in](/zh/post/in/) an afterlife [in](/zh/post/in/) [heaven](/zh/post/heaven/)."
+    - 完美或理想的状态或地方。例如: "[The](/zh/post/the/) [garden](/zh/post/garden/) was [a](/zh/post/a/) [little](/zh/post/little/) [piece](/zh/post/piece/) [of](/zh/post/of/) [heaven](/zh/post/heaven/) [on](/zh/post/on/) [earth](/zh/post/earth/)."
 - **形容词**:
-    - 极好的，极美的。例如: "[She](/post/she/) looked [absolutely](/post/absolutely/) [heaven](/post/heaven/) [in](/post/in/) [her](/post/her/) [new](/post/new/) [dress](/post/dress/)."
+    - 极好的，极美的。例如: "[She](/zh/post/she/) looked [absolutely](/zh/post/absolutely/) [heaven](/zh/post/heaven/) [in](/zh/post/in/) [her](/zh/post/her/) [new](/zh/post/new/) [dress](/zh/post/dress/)."
 
 ## 短语
-- "[Heaven](/post/heaven/) [forbid](/post/forbid/)" 表示希望某事不要发生。例如: "[Heaven](/post/heaven/) [forbid](/post/forbid/) [anything](/post/anything/) [should](/post/should/) [happen](/post/happen/) [to](/post/to/) [her](/post/her/)."
-- "[Heaven](/post/heaven/) knows" 用于强调某事未知或难以预测。例如: "[Heaven](/post/heaven/) knows [when](/post/when/) we'll [be](/post/be/) [able](/post/able/) [to](/post/to/) [travel](/post/travel/) [again](/post/again/)."
+- "[Heaven](/zh/post/heaven/) [forbid](/zh/post/forbid/)" 表示希望某事不要发生。例如: "[Heaven](/zh/post/heaven/) [forbid](/zh/post/forbid/) [anything](/zh/post/anything/) [should](/zh/post/should/) [happen](/zh/post/happen/) [to](/zh/post/to/) [her](/zh/post/her/)."
+- "[Heaven](/zh/post/heaven/) knows" 用于强调某事未知或难以预测。例如: "[Heaven](/zh/post/heaven/) knows [when](/zh/post/when/) we'll [be](/zh/post/be/) [able](/zh/post/able/) [to](/zh/post/to/) [travel](/zh/post/travel/) [again](/zh/post/again/)."
 
 ## 例句
-- 名词: "[She](/post/she/) dreamed [of](/post/of/) seeing [her](/post/her/) loved ones [in](/post/in/) [heaven](/post/heaven/) [after](/post/after/) [she](/post/she/) passed [away](/post/away/)."
-- 形容词: "[The](/post/the/) [food](/post/food/) [at](/post/at/) [this](/post/this/) [restaurant](/post/restaurant/) is [simply](/post/simply/) [heaven](/post/heaven/), [every](/post/every/) [bite](/post/bite/) is divine."
+- 名词: "[She](/zh/post/she/) dreamed [of](/zh/post/of/) seeing [her](/zh/post/her/) loved ones [in](/zh/post/in/) [heaven](/zh/post/heaven/) [after](/zh/post/after/) [she](/zh/post/she/) passed [away](/zh/post/away/)."
+- 形容词: "[The](/zh/post/the/) [food](/zh/post/food/) [at](/zh/post/at/) [this](/zh/post/this/) [restaurant](/zh/post/restaurant/) is [simply](/zh/post/simply/) [heaven](/zh/post/heaven/), [every](/zh/post/every/) [bite](/zh/post/bite/) is divine."
 
 ## 同义词
-- [Paradise](/post/paradise/)
+- [Paradise](/zh/post/paradise/)
 - Elysium
 - Bliss
 - Utopia

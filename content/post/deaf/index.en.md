@@ -7,28 +7,28 @@ description = '[def] a.聋的；不愿听的'
 keywords = ['ai words', 'deaf']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /diːf/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 1. [The](/en/post/the/) inability [to](/en/post/to/) [hear](/en/post/hear/) [or](/en/post/or/) [a](/en/post/a/) [condition](/en/post/condition/) [where](/en/post/where/) [someone](/en/post/someone/) cannot [hear](/en/post/hear/) [properly](/en/post/properly/). "[She](/en/post/she/) was [born](/en/post/born/) [deaf](/en/post/deaf/) [and](/en/post/and/) communicates [through](/en/post/through/) [sign](/en/post/sign/) [language](/en/post/language/)."
-   - **[Adjective](/en/post/adjective/)**: Describing [someone](/en/post/someone/) [who](/en/post/who/) is [deaf](/en/post/deaf/) [or](/en/post/or/) [unable](/en/post/unable/) [to](/en/post/to/) [hear](/en/post/hear/). "[The](/en/post/the/) [deaf](/en/post/deaf/) [community](/en/post/community/) [often](/en/post/often/) organizes events [for](/en/post/for/) [their](/en/post/their/) [own](/en/post/own/)."
+- **[Noun](/post/noun/)**: 1. [The](/post/the/) inability [to](/post/to/) [hear](/post/hear/) [or](/post/or/) [a](/post/a/) [condition](/post/condition/) [where](/post/where/) [someone](/post/someone/) cannot [hear](/post/hear/) [properly](/post/properly/). "[She](/post/she/) was [born](/post/born/) [deaf](/post/deaf/) [and](/post/and/) communicates [through](/post/through/) [sign](/post/sign/) [language](/post/language/)."
+   - **[Adjective](/post/adjective/)**: Describing [someone](/post/someone/) [who](/post/who/) is [deaf](/post/deaf/) [or](/post/or/) [unable](/post/unable/) [to](/post/to/) [hear](/post/hear/). "[The](/post/the/) [deaf](/post/deaf/) [community](/post/community/) [often](/post/often/) organizes events [for](/post/for/) [their](/post/their/) [own](/post/own/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [deaf](/en/post/deaf/) [to](/en/post/to/)" [means](/en/post/means/) [to](/en/post/to/) [ignore](/en/post/ignore/) [or](/en/post/or/) [not](/en/post/not/) [understand](/en/post/understand/) [something](/en/post/something/).
-- "[Deaf](/en/post/deaf/) [culture](/en/post/culture/)" refers [to](/en/post/to/) [the](/en/post/the/) [social](/en/post/social/), [artistic](/en/post/artistic/), [and](/en/post/and/) linguistic practices [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) are [deaf](/en/post/deaf/).
-- "[Mute](/en/post/mute/)/deafening [silence](/en/post/silence/)" implies [a](/en/post/a/) [complete](/en/post/complete/) [absence](/en/post/absence/) [of](/en/post/of/) [sound](/en/post/sound/).
+- "[Be](/post/be/) [deaf](/post/deaf/) [to](/post/to/)" [means](/post/means/) [to](/post/to/) [ignore](/post/ignore/) [or](/post/or/) [not](/post/not/) [understand](/post/understand/) [something](/post/something/).
+- "[Deaf](/post/deaf/) [culture](/post/culture/)" refers [to](/post/to/) [the](/post/the/) [social](/post/social/), [artistic](/post/artistic/), [and](/post/and/) linguistic practices [of](/post/of/) [people](/post/people/) [who](/post/who/) are [deaf](/post/deaf/).
+- "[Mute](/post/mute/)/deafening [silence](/post/silence/)" implies [a](/post/a/) [complete](/post/complete/) [absence](/post/absence/) [of](/post/of/) [sound](/post/sound/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [deaf](/en/post/deaf/) child's parents enrolled [her](/en/post/her/) [in](/en/post/in/) [a](/en/post/a/) [special](/en/post/special/) [school](/en/post/school/) [with](/en/post/with/) teachers trained [in](/en/post/in/) [sign](/en/post/sign/) [language](/en/post/language/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) was [a](/en/post/a/) talented [deaf](/en/post/deaf/) [artist](/en/post/artist/), known [for](/en/post/for/) [her](/en/post/her/) expressive paintings."
-- **[Adjective](/en/post/adjective/) (attributive)**: "[The](/en/post/the/) [deaf](/en/post/deaf/) [girl](/en/post/girl/) signed '[thank](/en/post/thank/) [you](/en/post/you/)' [with](/en/post/with/) [a](/en/post/a/) [smile](/en/post/smile/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [deaf](/post/deaf/) child's parents enrolled [her](/post/her/) [in](/post/in/) [a](/post/a/) [special](/post/special/) [school](/post/school/) [with](/post/with/) teachers trained [in](/post/in/) [sign](/post/sign/) [language](/post/language/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) was [a](/post/a/) talented [deaf](/post/deaf/) [artist](/post/artist/), known [for](/post/for/) [her](/post/her/) expressive paintings."
+- **[Adjective](/post/adjective/) (attributive)**: "[The](/post/the/) [deaf](/post/deaf/) [girl](/post/girl/) signed '[thank](/post/thank/) [you](/post/you/)' [with](/post/with/) [a](/post/a/) [smile](/post/smile/)."
 
 ## Synonyms
 - Hearing-impaired
 - Deaf-mute
 - Unhearing
-- [Silent](/en/post/silent/)
+- [Silent](/post/silent/)
 - Inaudible
 
-[Note](/en/post/note/): [In](/en/post/in/) [modern](/en/post/modern/) [usage](/en/post/usage/), "[deaf](/en/post/deaf/)" is [often](/en/post/often/) preferred [over](/en/post/over/) "deaf-mute" [to](/en/post/to/) [emphasize](/en/post/emphasize/) [that](/en/post/that/) deafness is [a](/en/post/a/) spectrum [of](/en/post/of/) hearing abilities [and](/en/post/and/) [not](/en/post/not/) [necessarily](/en/post/necessarily/) associated [with](/en/post/with/) [complete](/en/post/complete/) [lack](/en/post/lack/) [of](/en/post/of/) [speech](/en/post/speech/). [However](/en/post/however/), [some](/en/post/some/) individuals [within](/en/post/within/) [the](/en/post/the/) [deaf](/en/post/deaf/) [community](/en/post/community/) [may](/en/post/may/) [still](/en/post/still/) [use](/en/post/use/) "deaf-mute" [to](/en/post/to/) [describe](/en/post/describe/) [themselves](/en/post/themselves/) [if](/en/post/if/) [they](/en/post/they/) [do](/en/post/do/) [not](/en/post/not/) [use](/en/post/use/) [any](/en/post/any/) spoken [language](/en/post/language/).
+[Note](/post/note/): [In](/post/in/) [modern](/post/modern/) [usage](/post/usage/), "[deaf](/post/deaf/)" is [often](/post/often/) preferred [over](/post/over/) "deaf-mute" [to](/post/to/) [emphasize](/post/emphasize/) [that](/post/that/) deafness is [a](/post/a/) spectrum [of](/post/of/) hearing abilities [and](/post/and/) [not](/post/not/) [necessarily](/post/necessarily/) associated [with](/post/with/) [complete](/post/complete/) [lack](/post/lack/) [of](/post/of/) [speech](/post/speech/). [However](/post/however/), [some](/post/some/) individuals [within](/post/within/) [the](/post/the/) [deaf](/post/deaf/) [community](/post/community/) [may](/post/may/) [still](/post/still/) [use](/post/use/) "deaf-mute" [to](/post/to/) [describe](/post/describe/) [themselves](/post/themselves/) [if](/post/if/) [they](/post/they/) [do](/post/do/) [not](/post/not/) [use](/post/use/) [any](/post/any/) spoken [language](/post/language/).

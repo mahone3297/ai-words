@@ -7,37 +7,37 @@ description = '[prins] n.王子，亲王'
 keywords = ['ai words', 'prince']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /prɪns/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [male](/en/post/male/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) [royal](/en/post/royal/) [family](/en/post/family/), typically [the](/en/post/the/) [son](/en/post/son/) [and](/en/post/and/) [heir](/en/post/heir/) [apparent](/en/post/apparent/) [to](/en/post/to/) [the](/en/post/the/) [throne](/en/post/throne/). [Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[prince](/en/post/prince/)) / [Cambridge](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[prince](/en/post/prince/))
-- **[Adjective](/en/post/adjective/)**: Having qualities [or](/en/post/or/) characteristics associated [with](/en/post/with/) royalty, [such](/en/post/such/) [as](/en/post/as/) dignity [or](/en/post/or/) elegance. [Cambridge](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/princely)
+- **[Noun](/post/noun/)**: [A](/post/a/) [male](/post/male/) [member](/post/member/) [of](/post/of/) [a](/post/a/) [royal](/post/royal/) [family](/post/family/), typically [the](/post/the/) [son](/post/son/) [and](/post/and/) [heir](/post/heir/) [apparent](/post/apparent/) [to](/post/to/) [the](/post/the/) [throne](/post/throne/). [Oxford](https://en.oxforddictionaries.com/[definition](/post/definition/)/[prince](/post/prince/)) / [Cambridge](https://[dictionary](/post/dictionary/).cambridge.org/[dictionary](/post/dictionary/)/english/[prince](/post/prince/))
+- **[Adjective](/post/adjective/)**: Having qualities [or](/post/or/) characteristics associated [with](/post/with/) royalty, [such](/post/such/) [as](/post/as/) dignity [or](/post/or/) elegance. [Cambridge](https://[dictionary](/post/dictionary/).cambridge.org/[dictionary](/post/dictionary/)/english/princely)
 
 ## Phrases
-- "[Royal](/en/post/royal/) [prince](/en/post/prince/)" refers [to](/en/post/to/) [a](/en/post/a/) [prince](/en/post/prince/) [who](/en/post/who/) belongs [to](/en/post/to/) [a](/en/post/a/) [royal](/en/post/royal/) [family](/en/post/family/).
-- "Princely [behavior](/en/post/behavior/)" denotes actions befitting [a](/en/post/a/) [prince](/en/post/prince/), [often](/en/post/often/) [noble](/en/post/noble/) [or](/en/post/or/) dignified.
-- "[Prince](/en/post/prince/) [charming](/en/post/charming/)" is [a](/en/post/a/) metaphor [for](/en/post/for/) an idealized, [attractive](/en/post/attractive/) [man](/en/post/man/), [especially](/en/post/especially/) [in](/en/post/in/) fairy tales.
+- "[Royal](/post/royal/) [prince](/post/prince/)" refers [to](/post/to/) [a](/post/a/) [prince](/post/prince/) [who](/post/who/) belongs [to](/post/to/) [a](/post/a/) [royal](/post/royal/) [family](/post/family/).
+- "Princely [behavior](/post/behavior/)" denotes actions befitting [a](/post/a/) [prince](/post/prince/), [often](/post/often/) [noble](/post/noble/) [or](/post/or/) dignified.
+- "[Prince](/post/prince/) [charming](/post/charming/)" is [a](/post/a/) metaphor [for](/post/for/) an idealized, [attractive](/post/attractive/) [man](/post/man/), [especially](/post/especially/) [in](/post/in/) fairy tales.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [prince](/en/post/prince/) was seen attending [a](/en/post/a/) [charity](/en/post/charity/) [event](/en/post/event/) [last](/en/post/last/) [week](/en/post/week/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) had [a](/en/post/a/) princely [manner](/en/post/manner/), [always](/en/post/always/) treating others [with](/en/post/with/) [respect](/en/post/respect/)."
-- "[The](/en/post/the/) [prince](/en/post/prince/) [charming](/en/post/charming/) arrived [at](/en/post/at/) [the](/en/post/the/) [ball](/en/post/ball/), captivating [everyone](/en/post/everyone/) [with](/en/post/with/) [his](/en/post/his/) [grace](/en/post/grace/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [prince](/post/prince/) was seen attending [a](/post/a/) [charity](/post/charity/) [event](/post/event/) [last](/post/last/) [week](/post/week/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) had [a](/post/a/) princely [manner](/post/manner/), [always](/post/always/) treating others [with](/post/with/) [respect](/post/respect/)."
+- "[The](/post/the/) [prince](/post/prince/) [charming](/post/charming/) arrived [at](/post/at/) [the](/post/the/) [ball](/post/ball/), captivating [everyone](/post/everyone/) [with](/post/with/) [his](/post/his/) [grace](/post/grace/)."
 
 ## Synonyms
 - Monarch
-- [Royal](/en/post/royal/)
+- [Royal](/post/royal/)
 - Sovereign
 - Duke
 - Nobleman
-- [Royal](/en/post/royal/) [heir](/en/post/heir/)
+- [Royal](/post/royal/) [heir](/post/heir/)
 -太子 (tài sū)
 
 ## Antonyms
 - Commoner
-- [Subject](/en/post/subject/)
-- [Citizen](/en/post/citizen/)
+- [Subject](/post/subject/)
+- [Citizen](/post/citizen/)
 - Non-royal
 
 ## Etymology
-[The](/en/post/the/) [word](/en/post/word/) "[prince](/en/post/prince/)" comes [from](/en/post/from/) [the](/en/post/the/) [Old](/en/post/old/) French "[prince](/en/post/prince/)" [or](/en/post/or/) "princeps," [which](/en/post/which/) [ultimately](/en/post/ultimately/) derived [from](/en/post/from/) [the](/en/post/the/) Latin [term](/en/post/term/) "princeps" [meaning](/en/post/meaning/) "[first](/en/post/first/) [citizen](/en/post/citizen/)" [or](/en/post/or/) "[ruler](/en/post/ruler/)."
+[The](/post/the/) [word](/post/word/) "[prince](/post/prince/)" comes [from](/post/from/) [the](/post/the/) [Old](/post/old/) French "[prince](/post/prince/)" [or](/post/or/) "princeps," [which](/post/which/) [ultimately](/post/ultimately/) derived [from](/post/from/) [the](/post/the/) Latin [term](/post/term/) "princeps" [meaning](/post/meaning/) "[first](/post/first/) [citizen](/post/citizen/)" [or](/post/or/) "[ruler](/post/ruler/)."

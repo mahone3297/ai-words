@@ -7,29 +7,29 @@ description = 'ˈsʌbwei] n.地道；地下铁路'
 keywords = ['ai words', 'subway[']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /subˈweɪ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/) [underground](/en/post/underground/) [railway](/en/post/railway/) [system](/en/post/system/) [for](/en/post/for/) [public](/en/post/public/) [transportation](/en/post/transportation/), [especially](/en/post/especially/) [in](/en/post/in/) urban areas. [**Etymology**: shortening [of](/en/post/of/) "subterranean [railway](/en/post/railway/)"]
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [travel](/en/post/travel/) [by](/en/post/by/) subway [or](/en/post/or/) [underground](/en/post/underground/) [train](/en/post/train/). [**[Usage](/en/post/usage/)**: "I [usually](/en/post/usually/) subway [to](/en/post/to/) [work](/en/post/work/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/)."]
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) subway, [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) tunnels [or](/en/post/or/) stations. [**[Example](/en/post/example/)**: "[The](/en/post/the/) subway [station](/en/post/station/) had [a](/en/post/a/) distinctive [industrial](/en/post/industrial/) [design](/en/post/design/)."]
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/) [underground](/post/underground/) [railway](/post/railway/) [system](/post/system/) [for](/post/for/) [public](/post/public/) [transportation](/post/transportation/), [especially](/post/especially/) [in](/post/in/) urban areas. [**Etymology**: shortening [of](/post/of/) "subterranean [railway](/post/railway/)"]
+- **[Verb](/post/verb/)**: [To](/post/to/) [travel](/post/travel/) [by](/post/by/) subway [or](/post/or/) [underground](/post/underground/) [train](/post/train/). [**[Usage](/post/usage/)**: "I [usually](/post/usually/) subway [to](/post/to/) [work](/post/work/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."]
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) subway, [such](/post/such/) [as](/post/as/) [the](/post/the/) tunnels [or](/post/or/) stations. [**[Example](/post/example/)**: "[The](/post/the/) subway [station](/post/station/) had [a](/post/a/) distinctive [industrial](/post/industrial/) [design](/post/design/)."]
 
 ## Phrases
-- "[Take](/en/post/take/) [the](/en/post/the/) subway" [means](/en/post/means/) [to](/en/post/to/) [use](/en/post/use/) [the](/en/post/the/) [underground](/en/post/underground/) [train](/en/post/train/) [for](/en/post/for/) [transportation](/en/post/transportation/).
-- "Subway [map](/en/post/map/)" refers [to](/en/post/to/) [a](/en/post/a/) graphical representation [of](/en/post/of/) subway lines [and](/en/post/and/) stops.
-- "Subway [sandwich](/en/post/sandwich/)" is [a](/en/post/a/) [popular](/en/post/popular/) [fast](/en/post/fast/) [food](/en/post/food/) [item](/en/post/item/) made [with](/en/post/with/) [cold](/en/post/cold/) cuts [and](/en/post/and/) vegetables [in](/en/post/in/) [a](/en/post/a/) [bread](/en/post/bread/) [roll](/en/post/roll/).
+- "[Take](/post/take/) [the](/post/the/) subway" [means](/post/means/) [to](/post/to/) [use](/post/use/) [the](/post/the/) [underground](/post/underground/) [train](/post/train/) [for](/post/for/) [transportation](/post/transportation/).
+- "Subway [map](/post/map/)" refers [to](/post/to/) [a](/post/a/) graphical representation [of](/post/of/) subway lines [and](/post/and/) stops.
+- "Subway [sandwich](/post/sandwich/)" is [a](/post/a/) [popular](/post/popular/) [fast](/post/fast/) [food](/post/food/) [item](/post/item/) made [with](/post/with/) [cold](/post/cold/) cuts [and](/post/and/) vegetables [in](/post/in/) [a](/post/a/) [bread](/post/bread/) [roll](/post/roll/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) subway was crowded [during](/en/post/during/) [rush](/en/post/rush/) [hour](/en/post/hour/)."
-- **[Verb](/en/post/verb/)**: "I decided [to](/en/post/to/) subway downtown [to](/en/post/to/) [explore](/en/post/explore/) [the](/en/post/the/) [city](/en/post/city/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) subway [system](/en/post/system/) has been modernized [with](/en/post/with/) [new](/en/post/new/) stations [and](/en/post/and/) escalators."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) subway was crowded [during](/post/during/) [rush](/post/rush/) [hour](/post/hour/)."
+- **[Verb](/post/verb/)**: "I decided [to](/post/to/) subway downtown [to](/post/to/) [explore](/post/explore/) [the](/post/the/) [city](/post/city/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) subway [system](/post/system/) has been modernized [with](/post/with/) [new](/post/new/) stations [and](/post/and/) escalators."
 
 ## Synonyms
-- [Tube](/en/post/tube/) (UK)
-- Metro ([in](/en/post/in/) [some](/en/post/some/) cities)
-- [Underground](/en/post/underground/)
+- [Tube](/post/tube/) (UK)
+- Metro ([in](/post/in/) [some](/post/some/) cities)
+- [Underground](/post/underground/)
 -轨道交通
-- [Mass](/en/post/mass/) transit
+- [Mass](/post/mass/) transit
 
-## [Note](/en/post/note/): [The](/en/post/the/) [last](/en/post/last/) [entry](/en/post/entry/) is [the](/en/post/the/) Chinese [equivalent](/en/post/equivalent/) [for](/en/post/for/) "subway" (zhōng diàn zhuāng tōng).
+## [Note](/post/note/): [The](/post/the/) [last](/post/last/) [entry](/post/entry/) is [the](/post/the/) Chinese [equivalent](/post/equivalent/) [for](/post/for/) "subway" (zhōng diàn zhuāng tōng).

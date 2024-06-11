@@ -7,26 +7,26 @@ description = '[nuːn] n.正午，中午'
 keywords = ['ai words', 'noon']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /nuːn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [middle](/en/post/middle/) [of](/en/post/of/) [the](/en/post/the/) [day](/en/post/day/), [usually](/en/post/usually/) defined [as](/en/post/as/) 12 o'clock [in](/en/post/in/) [the](/en/post/the/) [afternoon](/en/post/afternoon/) [when](/en/post/when/) [the](/en/post/the/) [sun](/en/post/sun/) is [at](/en/post/at/) [its](/en/post/its/) highest [point](/en/post/point/) [in](/en/post/in/) [the](/en/post/the/) [sky](/en/post/sky/).
+- **[Noun](/post/noun/)**: [The](/post/the/) [middle](/post/middle/) [of](/post/of/) [the](/post/the/) [day](/post/day/), [usually](/post/usually/) defined [as](/post/as/) 12 o'clock [in](/post/in/) [the](/post/the/) [afternoon](/post/afternoon/) [when](/post/when/) [the](/post/the/) [sun](/post/sun/) is [at](/post/at/) [its](/post/its/) highest [point](/post/point/) [in](/post/in/) [the](/post/the/) [sky](/post/sky/).
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): "[We](/en/post/we/) arranged [to](/en/post/to/) [meet](/en/post/meet/) [at](/en/post/at/) [noon](/en/post/noon/) [so](/en/post/so/) [we](/en/post/we/) [could](/en/post/could/) [have](/en/post/have/) [lunch](/en/post/lunch/) [together](/en/post/together/)."
+[Example](/post/example/) [Sentence](/post/sentence/): "[We](/post/we/) arranged [to](/post/to/) [meet](/post/meet/) [at](/post/at/) [noon](/post/noon/) [so](/post/so/) [we](/post/we/) [could](/post/could/) [have](/post/have/) [lunch](/post/lunch/) [together](/post/together/)."
 
 ## Phrases
-- "[High](/en/post/high/) [noon](/en/post/noon/)" refers [to](/en/post/to/) [the](/en/post/the/) [exact](/en/post/exact/) [moment](/en/post/moment/) [when](/en/post/when/) [the](/en/post/the/) [sun](/en/post/sun/) reaches [its](/en/post/its/) zenith, [often](/en/post/often/) associated [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [drama](/en/post/drama/) [or](/en/post/or/) [importance](/en/post/importance/), [particularly](/en/post/particularly/) [in](/en/post/in/) [Western](/en/post/western/) movies.
-- "[At](/en/post/at/) [the](/en/post/the/) [stroke](/en/post/stroke/) [of](/en/post/of/) [noon](/en/post/noon/)" [means](/en/post/means/) precisely [at](/en/post/at/) 12 o'clock [noon](/en/post/noon/).
-- "[Noon](/en/post/noon/) [hour](/en/post/hour/)" refers [to](/en/post/to/) [the](/en/post/the/) [period](/en/post/period/) [around](/en/post/around/) [midday](/en/post/midday/), typically [from](/en/post/from/) 11:30 AM [to](/en/post/to/) 1 PM, [which](/en/post/which/) includes [the](/en/post/the/) [lunch](/en/post/lunch/) [break](/en/post/break/).
+- "[High](/post/high/) [noon](/post/noon/)" refers [to](/post/to/) [the](/post/the/) [exact](/post/exact/) [moment](/post/moment/) [when](/post/when/) [the](/post/the/) [sun](/post/sun/) reaches [its](/post/its/) zenith, [often](/post/often/) associated [with](/post/with/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [drama](/post/drama/) [or](/post/or/) [importance](/post/importance/), [particularly](/post/particularly/) [in](/post/in/) [Western](/post/western/) movies.
+- "[At](/post/at/) [the](/post/the/) [stroke](/post/stroke/) [of](/post/of/) [noon](/post/noon/)" [means](/post/means/) precisely [at](/post/at/) 12 o'clock [noon](/post/noon/).
+- "[Noon](/post/noon/) [hour](/post/hour/)" refers [to](/post/to/) [the](/post/the/) [period](/post/period/) [around](/post/around/) [midday](/post/midday/), typically [from](/post/from/) 11:30 AM [to](/post/to/) 1 PM, [which](/post/which/) includes [the](/post/the/) [lunch](/post/lunch/) [break](/post/break/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [wedding](/en/post/wedding/) [ceremony](/en/post/ceremony/) was scheduled [for](/en/post/for/) [high](/en/post/high/) [noon](/en/post/noon/) [under](/en/post/under/) [the](/en/post/the/) [old](/en/post/old/) [oak](/en/post/oak/) [tree](/en/post/tree/)."
-- "[She](/en/post/she/) took [her](/en/post/her/) [lunch](/en/post/lunch/) [break](/en/post/break/) [during](/en/post/during/) [the](/en/post/the/) [noon](/en/post/noon/) [hour](/en/post/hour/) [to](/en/post/to/) [avoid](/en/post/avoid/) [the](/en/post/the/) crowds [at](/en/post/at/) [the](/en/post/the/) [cafeteria](/en/post/cafeteria/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [wedding](/post/wedding/) [ceremony](/post/ceremony/) was scheduled [for](/post/for/) [high](/post/high/) [noon](/post/noon/) [under](/post/under/) [the](/post/the/) [old](/post/old/) [oak](/post/oak/) [tree](/post/tree/)."
+- "[She](/post/she/) took [her](/post/her/) [lunch](/post/lunch/) [break](/post/break/) [during](/post/during/) [the](/post/the/) [noon](/post/noon/) [hour](/post/hour/) [to](/post/to/) [avoid](/post/avoid/) [the](/post/the/) crowds [at](/post/at/) [the](/post/the/) [cafeteria](/post/cafeteria/)."
 
 ## Synonyms
-- [Midday](/en/post/midday/)
-- [Twelve](/en/post/twelve/) o'clock
+- [Midday](/post/midday/)
+- [Twelve](/post/twelve/) o'clock
 - Lunchtime
-- [Solar](/en/post/solar/) [noon](/en/post/noon/)
+- [Solar](/post/solar/) [noon](/post/noon/)
 - Noonday

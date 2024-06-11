@@ -11,20 +11,20 @@ keywords = ['ai words', 'exaggerate']
 /ɪɡˈzædʒəreɪt/
 
 ## 释义
-- **动词**: 过分夸大；夸张。例如: "Don't [exaggerate](/post/exaggerate/) [the](/post/the/) [problem](/post/problem/), it's [not](/post/not/) [that](/post/that/) [serious](/post/serious/)."
-- **形容词**: 过度的；夸大的。例如: "[His](/post/his/) [account](/post/account/) [of](/post/of/) [the](/post/the/) [event](/post/event/) was [somewhat](/post/somewhat/) exaggerated."
+- **动词**: 过分夸大；夸张。例如: "Don't [exaggerate](/zh/post/exaggerate/) [the](/zh/post/the/) [problem](/zh/post/problem/), it's [not](/zh/post/not/) [that](/zh/post/that/) [serious](/zh/post/serious/)."
+- **形容词**: 过度的；夸大的。例如: "[His](/zh/post/his/) [account](/zh/post/account/) [of](/zh/post/of/) [the](/zh/post/the/) [event](/zh/post/event/) was [somewhat](/zh/post/somewhat/) exaggerated."
 
 ## 短语
-- "[Exaggerate](/post/exaggerate/) one's achievements" 意为过分吹嘘自己的成就。
+- "[Exaggerate](/zh/post/exaggerate/) one's achievements" 意为过分吹嘘自己的成就。
 - "Exaggerated claims" 指的是被过分夸大的声明或说法。
 
 ## 例句
-- 动词: "[He](/post/he/) tends [to](/post/to/) [exaggerate](/post/exaggerate/) [his](/post/his/) accomplishments [to](/post/to/) [impress](/post/impress/) others."
-- 形容词: "[The](/post/the/) [artist](/post/artist/) [used](/post/used/) exaggerated proportions [to](/post/to/) [create](/post/create/) [a](/post/a/) cartoonish [effect](/post/effect/)."
+- 动词: "[He](/zh/post/he/) tends [to](/zh/post/to/) [exaggerate](/zh/post/exaggerate/) [his](/zh/post/his/) accomplishments [to](/zh/post/to/) [impress](/zh/post/impress/) others."
+- 形容词: "[The](/zh/post/the/) [artist](/zh/post/artist/) [used](/zh/post/used/) exaggerated proportions [to](/zh/post/to/) [create](/zh/post/create/) [a](/zh/post/a/) cartoonish [effect](/zh/post/effect/)."
 
 ## 同义词
 - Overstate
 - Magnify
 - Hyperbolize
 - Embellish
-- [Blow](/post/blow/) [up](/post/up/)
+- [Blow](/zh/post/blow/) [up](/zh/post/up/)

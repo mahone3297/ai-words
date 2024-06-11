@@ -11,21 +11,21 @@ keywords = ['ai words', 'painting']
 /pəˈnɪntɪŋ/
 
 ## 释义
-- **名词 (n)**: 艺术创作的一种形式，通常指的是用颜料在画布、纸或其他表面上创造出图像的艺术作品。例如: "[She](/post/she/) displayed [her](/post/her/) latest [painting](/post/painting/) [in](/post/in/) [the](/post/the/) [gallery](/post/gallery/)."
-- **动词 (v)**: 指进行绘画活动或创作画作。例如: "[He](/post/he/) spends [his](/post/his/) weekends [painting](/post/painting/) landscapes."
+- **名词 (n)**: 艺术创作的一种形式，通常指的是用颜料在画布、纸或其他表面上创造出图像的艺术作品。例如: "[She](/zh/post/she/) displayed [her](/zh/post/her/) latest [painting](/zh/post/painting/) [in](/zh/post/in/) [the](/zh/post/the/) [gallery](/zh/post/gallery/)."
+- **动词 (v)**: 指进行绘画活动或创作画作。例如: "[He](/zh/post/he/) spends [his](/zh/post/his/) weekends [painting](/zh/post/painting/) landscapes."
 
 ## 短语
-- "[painting](/post/painting/) techniques" 绘画技巧
-- "[oil](/post/oil/) [painting](/post/painting/)" 油画
-- "watercolor [painting](/post/painting/)" 水彩画
+- "[painting](/zh/post/painting/) techniques" 绘画技巧
+- "[oil](/zh/post/oil/) [painting](/zh/post/painting/)" 油画
+- "watercolor [painting](/zh/post/painting/)" 水彩画
 
 ## 例句
-- 名词: "[The](/post/the/) [old](/post/old/) master's [painting](/post/painting/) fetched [a](/post/a/) [record](/post/record/) [price](/post/price/) [at](/post/at/) [the](/post/the/) auction."
-- 动词: "[She](/post/she/) is [painting](/post/painting/) [a](/post/a/) [portrait](/post/portrait/) [of](/post/of/) [her](/post/her/) [daughter](/post/daughter/)."
+- 名词: "[The](/zh/post/the/) [old](/zh/post/old/) master's [painting](/zh/post/painting/) fetched [a](/zh/post/a/) [record](/zh/post/record/) [price](/zh/post/price/) [at](/zh/post/at/) [the](/zh/post/the/) auction."
+- 动词: "[She](/zh/post/she/) is [painting](/zh/post/painting/) [a](/zh/post/a/) [portrait](/zh/post/portrait/) [of](/zh/post/of/) [her](/zh/post/her/) [daughter](/zh/post/daughter/)."
 
 ## 同义词
 - artwork
-- [picture](/post/picture/)
+- [picture](/zh/post/picture/)
 - artwork
-- [drawing](/post/drawing/)
-- [sketch](/post/sketch/)
+- [drawing](/zh/post/drawing/)
+- [sketch](/zh/post/sketch/)

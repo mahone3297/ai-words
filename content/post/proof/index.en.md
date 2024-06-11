@@ -7,41 +7,41 @@ description = '[pruːf] n.证据；证明；校样'
 keywords = ['ai words', 'proof']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /pruːf/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Proof](/en/post/proof/)**: [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [evidence](/en/post/evidence/) [or](/en/post/or/) [information](/en/post/information/) [that](/en/post/that/) supports [a](/en/post/a/) [claim](/en/post/claim/) [or](/en/post/or/) establishes [the](/en/post/the/) [truth](/en/post/truth/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) fingerprint was [the](/en/post/the/) [key](/en/post/key/) [piece](/en/post/piece/) [of](/en/post/of/) [proof](/en/post/proof/) [in](/en/post/in/) [the](/en/post/the/) [case](/en/post/case/)."
-2. **Proofreading**: [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) checking written [material](/en/post/material/) [for](/en/post/for/) errors [or](/en/post/or/) inconsistencies. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) carefully proofread [her](/en/post/her/) [essay](/en/post/essay/) [before](/en/post/before/) submitting [it](/en/post/it/)."
-3. **[Proof](/en/post/proof/) [of](/en/post/of/) [concept](/en/post/concept/)**: An [initial](/en/post/initial/) demonstration [or](/en/post/or/) realization [of](/en/post/of/) an [idea](/en/post/idea/), showing [its](/en/post/its/) feasibility. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) developed [a](/en/post/a/) [proof](/en/post/proof/) [of](/en/post/of/) [concept](/en/post/concept/) [for](/en/post/for/) [their](/en/post/their/) [new](/en/post/new/) [technology](/en/post/technology/)."
+### [Noun](/post/noun/)
+1. **[Proof](/post/proof/)**: [A](/post/a/) [piece](/post/piece/) [of](/post/of/) [evidence](/post/evidence/) [or](/post/or/) [information](/post/information/) [that](/post/that/) supports [a](/post/a/) [claim](/post/claim/) [or](/post/or/) establishes [the](/post/the/) [truth](/post/truth/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) fingerprint was [the](/post/the/) [key](/post/key/) [piece](/post/piece/) [of](/post/of/) [proof](/post/proof/) [in](/post/in/) [the](/post/the/) [case](/post/case/)."
+2. **Proofreading**: [The](/post/the/) [process](/post/process/) [of](/post/of/) checking written [material](/post/material/) [for](/post/for/) errors [or](/post/or/) inconsistencies. [For](/post/for/) [example](/post/example/): "[She](/post/she/) carefully proofread [her](/post/her/) [essay](/post/essay/) [before](/post/before/) submitting [it](/post/it/)."
+3. **[Proof](/post/proof/) [of](/post/of/) [concept](/post/concept/)**: An [initial](/post/initial/) demonstration [or](/post/or/) realization [of](/post/of/) an [idea](/post/idea/), showing [its](/post/its/) feasibility. [For](/post/for/) [example](/post/example/): "[They](/post/they/) developed [a](/post/a/) [proof](/post/proof/) [of](/post/of/) [concept](/post/concept/) [for](/post/for/) [their](/post/their/) [new](/post/new/) [technology](/post/technology/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [provide](/en/post/provide/) [or](/en/post/or/) [show](/en/post/show/) [evidence](/en/post/evidence/) supporting [a](/en/post/a/) [statement](/en/post/statement/) [or](/en/post/or/) [claim](/en/post/claim/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [scientist](/en/post/scientist/) [provided](/en/post/provided/) ample [proof](/en/post/proof/) [of](/en/post/of/) [their](/en/post/their/) hypothesis."
-2. [To](/en/post/to/) [confirm](/en/post/confirm/) [the](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) authenticity [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [wine](/en/post/wine/) has been expertly proofed [to](/en/post/to/) [ensure](/en/post/ensure/) it's [not](/en/post/not/) [too](/en/post/too/) [strong](/en/post/strong/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [provide](/post/provide/) [or](/post/or/) [show](/post/show/) [evidence](/post/evidence/) supporting [a](/post/a/) [statement](/post/statement/) [or](/post/or/) [claim](/post/claim/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [scientist](/post/scientist/) [provided](/post/provided/) ample [proof](/post/proof/) [of](/post/of/) [their](/post/their/) hypothesis."
+2. [To](/post/to/) [confirm](/post/confirm/) [the](/post/the/) [quality](/post/quality/) [or](/post/or/) authenticity [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [wine](/post/wine/) has been expertly proofed [to](/post/to/) [ensure](/post/ensure/) it's [not](/post/not/) [too](/post/too/) [strong](/post/strong/)."
 
 ## Phrases
-- "[Beyond](/en/post/beyond/) [a](/en/post/a/) [shadow](/en/post/shadow/) [of](/en/post/of/) [a](/en/post/a/) [doubt](/en/post/doubt/)" refers [to](/en/post/to/) overwhelming [proof](/en/post/proof/).
-- "[Proof](/en/post/proof/) is [in](/en/post/in/) [the](/en/post/the/) [pudding](/en/post/pudding/)" suggests [the](/en/post/the/) [true](/en/post/true/) [value](/en/post/value/) is determined [by](/en/post/by/) results [or](/en/post/or/) [experience](/en/post/experience/).
-- "[Prove](/en/post/prove/) [your](/en/post/your/) [point](/en/post/point/)" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) convincing [evidence](/en/post/evidence/) [to](/en/post/to/) [support](/en/post/support/) an [argument](/en/post/argument/).
+- "[Beyond](/post/beyond/) [a](/post/a/) [shadow](/post/shadow/) [of](/post/of/) [a](/post/a/) [doubt](/post/doubt/)" refers [to](/post/to/) overwhelming [proof](/post/proof/).
+- "[Proof](/post/proof/) is [in](/post/in/) [the](/post/the/) [pudding](/post/pudding/)" suggests [the](/post/the/) [true](/post/true/) [value](/post/value/) is determined [by](/post/by/) results [or](/post/or/) [experience](/post/experience/).
+- "[Prove](/post/prove/) [your](/post/your/) [point](/post/point/)" [means](/post/means/) [to](/post/to/) [give](/post/give/) convincing [evidence](/post/evidence/) [to](/post/to/) [support](/post/support/) an [argument](/post/argument/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) defendant's alibi was [the](/en/post/the/) strongest [proof](/en/post/proof/) [of](/en/post/of/) [their](/en/post/their/) innocence."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) hours [of](/en/post/of/) [research](/en/post/research/), [he](/en/post/he/) [finally](/en/post/finally/) had [proof](/en/post/proof/) [that](/en/post/that/) [the](/en/post/the/) [ancient](/en/post/ancient/) artifact was [genuine](/en/post/genuine/)."
-- **[Verb](/en/post/verb/) (intransitive)**: "[The](/en/post/the/) baker proofed [the](/en/post/the/) dough [before](/en/post/before/) baking [the](/en/post/the/) [bread](/en/post/bread/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) defendant's alibi was [the](/post/the/) strongest [proof](/post/proof/) [of](/post/of/) [their](/post/their/) innocence."
+- **[Verb](/post/verb/)**: "[After](/post/after/) hours [of](/post/of/) [research](/post/research/), [he](/post/he/) [finally](/post/finally/) had [proof](/post/proof/) [that](/post/that/) [the](/post/the/) [ancient](/post/ancient/) artifact was [genuine](/post/genuine/)."
+- **[Verb](/post/verb/) (intransitive)**: "[The](/post/the/) baker proofed [the](/post/the/) dough [before](/post/before/) baking [the](/post/the/) [bread](/post/bread/)."
 
 ## Synonyms
-- [Evidence](/en/post/evidence/)
+- [Evidence](/post/evidence/)
 - Demonstrandum
 - Confirmation
 - Verification
 - Validation
-- [Support](/en/post/support/)
+- [Support](/post/support/)
 
 ## Antonyms
 - Disproof
 - Denial
 - Rebuttal
 - Counterexample
-- [Doubt](/en/post/doubt/)
+- [Doubt](/post/doubt/)
 - Uncertainty

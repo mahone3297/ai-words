@@ -7,34 +7,34 @@ description = '[ˈkeəlis] a.粗心的，漫不经心的'
 keywords = ['ai words', 'careless']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kəˈrɛləs/
 
 ## Definitions
-### [Adjective](/en/post/adjective/)
-- **[Careless](/en/post/careless/)**: [adjective](/en/post/adjective/) describing [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [their](/en/post/their/) actions [as](/en/post/as/) [being](/en/post/being/) neglectful, inattentive, [or](/en/post/or/) [not](/en/post/not/) showing [proper](/en/post/proper/) [care](/en/post/care/) [or](/en/post/or/) [concern](/en/post/concern/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was [careless](/en/post/careless/) [with](/en/post/with/) [his](/en/post/his/) belongings, [often](/en/post/often/) leaving [them](/en/post/them/) scattered [around](/en/post/around/)."
-- **Carelessly**: [adverb](/en/post/adverb/) describing [the](/en/post/the/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) [something](/en/post/something/) is done [without](/en/post/without/) paying [attention](/en/post/attention/) [or](/en/post/or/) [being](/en/post/being/) [careful](/en/post/careful/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) drove carelessly, narrowly avoiding an [accident](/en/post/accident/)."
+### [Adjective](/post/adjective/)
+- **[Careless](/post/careless/)**: [adjective](/post/adjective/) describing [a](/post/a/) [person](/post/person/) [or](/post/or/) [their](/post/their/) actions [as](/post/as/) [being](/post/being/) neglectful, inattentive, [or](/post/or/) [not](/post/not/) showing [proper](/post/proper/) [care](/post/care/) [or](/post/or/) [concern](/post/concern/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) was [careless](/post/careless/) [with](/post/with/) [his](/post/his/) belongings, [often](/post/often/) leaving [them](/post/them/) scattered [around](/post/around/)."
+- **Carelessly**: [adverb](/post/adverb/) describing [the](/post/the/) [manner](/post/manner/) [in](/post/in/) [which](/post/which/) [something](/post/something/) is done [without](/post/without/) paying [attention](/post/attention/) [or](/post/or/) [being](/post/being/) [careful](/post/careful/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) drove carelessly, narrowly avoiding an [accident](/post/accident/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [careful](/en/post/careful/)!"
+- "[Be](/post/be/) [careful](/post/careful/)!"
 - "Acting carelessly"
-- "[A](/en/post/a/) [careless](/en/post/careless/) [mistake](/en/post/mistake/)"
+- "[A](/post/a/) [careless](/post/careless/) [mistake](/post/mistake/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) wore [her](/en/post/her/) favorite [sweater](/en/post/sweater/), [completely](/en/post/completely/) [careless](/en/post/careless/) [about](/en/post/about/) [the](/en/post/the/) stains."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) prepared [the](/en/post/the/) [meal](/en/post/meal/) carelessly, burning [the](/en/post/the/) [food](/en/post/food/) [in](/en/post/in/) [the](/en/post/the/) [process](/en/post/process/)."
-- "[The](/en/post/the/) [careless](/en/post/careless/) [driver](/en/post/driver/) received [a](/en/post/a/) [ticket](/en/post/ticket/) [for](/en/post/for/) speeding."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) wore [her](/post/her/) favorite [sweater](/post/sweater/), [completely](/post/completely/) [careless](/post/careless/) [about](/post/about/) [the](/post/the/) stains."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) prepared [the](/post/the/) [meal](/post/meal/) carelessly, burning [the](/post/the/) [food](/post/food/) [in](/post/in/) [the](/post/the/) [process](/post/process/)."
+- "[The](/post/the/) [careless](/post/careless/) [driver](/post/driver/) received [a](/post/a/) [ticket](/post/ticket/) [for](/post/for/) speeding."
 
 ## Synonyms
 - Negligent
 - Thoughtless
 - Inattentive
 - Disregardful
-- Carefree ([but](/en/post/but/) [with](/en/post/with/) [a](/en/post/a/) [negative](/en/post/negative/) connotation [when](/en/post/when/) referring [to](/en/post/to/) [lack](/en/post/lack/) [of](/en/post/of/) caution)
+- Carefree ([but](/post/but/) [with](/post/with/) [a](/post/a/) [negative](/post/negative/) connotation [when](/post/when/) referring [to](/post/to/) [lack](/post/lack/) [of](/post/of/) caution)
 
 ## Antonyms
-- [Careful](/en/post/careful/)
-- [Attentive](/en/post/attentive/)
-- [Diligent](/en/post/diligent/)
+- [Careful](/post/careful/)
+- [Attentive](/post/attentive/)
+- [Diligent](/post/diligent/)
 - Mindful
-- [Responsible](/en/post/responsible/)
+- [Responsible](/post/responsible/)

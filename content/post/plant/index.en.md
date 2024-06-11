@@ -7,41 +7,41 @@ description = '[plɑːnt] n.植物；工厂 vt.栽种'
 keywords = ['ai words', 'plant']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /plænt/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [A](/en/post/a/) [living](/en/post/living/) [organism](/en/post/organism/), typically [with](/en/post/with/) [a](/en/post/a/) [root](/en/post/root/), [stem](/en/post/stem/), leaves, [and](/en/post/and/) flowers, [that](/en/post/that/) absorbs [water](/en/post/water/) [and](/en/post/and/) nutrients [from](/en/post/from/) [the](/en/post/the/) [soil](/en/post/soil/) [and](/en/post/and/) converts [them](/en/post/them/) [into](/en/post/into/) [organic](/en/post/organic/) [matter](/en/post/matter/) [through](/en/post/through/) photosynthesis.
-   - [Example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) is filled [with](/en/post/with/) [various](/en/post/various/) plants, including roses [and](/en/post/and/) tomatoes."
-2. [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) placing [something](/en/post/something/) [in](/en/post/in/) [the](/en/post/the/) [ground](/en/post/ground/) [or](/en/post/or/) embedding [it](/en/post/it/) [so](/en/post/so/) [that](/en/post/that/) [it](/en/post/it/) grows.
-   - [Example](/en/post/example/): "[She](/en/post/she/) planted [the](/en/post/the/) [tree](/en/post/tree/) [in](/en/post/in/) [the](/en/post/the/) [spring](/en/post/spring/) [to](/en/post/to/) [give](/en/post/give/) [it](/en/post/it/) [time](/en/post/time/) [to](/en/post/to/) [establish](/en/post/establish/) [itself](/en/post/itself/)."
-3. An [establishment](/en/post/establishment/) [where](/en/post/where/) plants are cultivated [for](/en/post/for/) [sale](/en/post/sale/) [or](/en/post/or/) [scientific](/en/post/scientific/) [study](/en/post/study/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) botanical [garden](/en/post/garden/) is [a](/en/post/a/) [popular](/en/post/popular/) [tourist](/en/post/tourist/) [attraction](/en/post/attraction/)."
+### [Noun](/post/noun/)
+1. [A](/post/a/) [living](/post/living/) [organism](/post/organism/), typically [with](/post/with/) [a](/post/a/) [root](/post/root/), [stem](/post/stem/), leaves, [and](/post/and/) flowers, [that](/post/that/) absorbs [water](/post/water/) [and](/post/and/) nutrients [from](/post/from/) [the](/post/the/) [soil](/post/soil/) [and](/post/and/) converts [them](/post/them/) [into](/post/into/) [organic](/post/organic/) [matter](/post/matter/) [through](/post/through/) photosynthesis.
+   - [Example](/post/example/): "[The](/post/the/) [garden](/post/garden/) is filled [with](/post/with/) [various](/post/various/) plants, including roses [and](/post/and/) tomatoes."
+2. [The](/post/the/) [process](/post/process/) [of](/post/of/) placing [something](/post/something/) [in](/post/in/) [the](/post/the/) [ground](/post/ground/) [or](/post/or/) embedding [it](/post/it/) [so](/post/so/) [that](/post/that/) [it](/post/it/) grows.
+   - [Example](/post/example/): "[She](/post/she/) planted [the](/post/the/) [tree](/post/tree/) [in](/post/in/) [the](/post/the/) [spring](/post/spring/) [to](/post/to/) [give](/post/give/) [it](/post/it/) [time](/post/time/) [to](/post/to/) [establish](/post/establish/) [itself](/post/itself/)."
+3. An [establishment](/post/establishment/) [where](/post/where/) plants are cultivated [for](/post/for/) [sale](/post/sale/) [or](/post/or/) [scientific](/post/scientific/) [study](/post/study/).
+   - [Example](/post/example/): "[The](/post/the/) botanical [garden](/post/garden/) is [a](/post/a/) [popular](/post/popular/) [tourist](/post/tourist/) [attraction](/post/attraction/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [put](/en/post/put/) (seeds [or](/en/post/or/) seedlings) [in](/en/post/in/) [the](/en/post/the/) [ground](/en/post/ground/) [to](/en/post/to/) [grow](/en/post/grow/).
-   - [Example](/en/post/example/): "[He](/en/post/he/) [will](/en/post/will/) [be](/en/post/be/) planting vegetables [in](/en/post/in/) [his](/en/post/his/) backyard [this](/en/post/this/) [weekend](/en/post/weekend/)."
-2. [To](/en/post/to/) [establish](/en/post/establish/) [or](/en/post/or/) [set](/en/post/set/) [up](/en/post/up/) [a](/en/post/a/) [company](/en/post/company/), [organization](/en/post/organization/), [or](/en/post/or/) [system](/en/post/system/).
-   - [Example](/en/post/example/): "[They](/en/post/they/) are planning [to](/en/post/to/) [plant](/en/post/plant/) [a](/en/post/a/) [new](/en/post/new/) [branch](/en/post/branch/) [office](/en/post/office/) [in](/en/post/in/) [New](/en/post/new/) York."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [put](/post/put/) (seeds [or](/post/or/) seedlings) [in](/post/in/) [the](/post/the/) [ground](/post/ground/) [to](/post/to/) [grow](/post/grow/).
+   - [Example](/post/example/): "[He](/post/he/) [will](/post/will/) [be](/post/be/) planting vegetables [in](/post/in/) [his](/post/his/) backyard [this](/post/this/) [weekend](/post/weekend/)."
+2. [To](/post/to/) [establish](/post/establish/) [or](/post/or/) [set](/post/set/) [up](/post/up/) [a](/post/a/) [company](/post/company/), [organization](/post/organization/), [or](/post/or/) [system](/post/system/).
+   - [Example](/post/example/): "[They](/post/they/) are planning [to](/post/to/) [plant](/post/plant/) [a](/post/a/) [new](/post/new/) [branch](/post/branch/) [office](/post/office/) [in](/post/in/) [New](/post/new/) York."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [a](/en/post/a/) [living](/en/post/living/) [organism](/en/post/organism/) [or](/en/post/or/) [its](/en/post/its/) [growth](/en/post/growth/).
-   - [Example](/en/post/example/): "[A](/en/post/a/) hydroponic [plant](/en/post/plant/) [system](/en/post/system/) doesn't [require](/en/post/require/) [soil](/en/post/soil/)."
-2. Fixed [or](/en/post/or/) immovable, [as](/en/post/as/) [in](/en/post/in/) [furniture](/en/post/furniture/) [or](/en/post/or/) [equipment](/en/post/equipment/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [heavy](/en/post/heavy/) machinery is firmly planted [on](/en/post/on/) [the](/en/post/the/) [ground](/en/post/ground/)."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [a](/post/a/) [living](/post/living/) [organism](/post/organism/) [or](/post/or/) [its](/post/its/) [growth](/post/growth/).
+   - [Example](/post/example/): "[A](/post/a/) hydroponic [plant](/post/plant/) [system](/post/system/) doesn't [require](/post/require/) [soil](/post/soil/)."
+2. Fixed [or](/post/or/) immovable, [as](/post/as/) [in](/post/in/) [furniture](/post/furniture/) [or](/post/or/) [equipment](/post/equipment/).
+   - [Example](/post/example/): "[The](/post/the/) [heavy](/post/heavy/) machinery is firmly planted [on](/post/on/) [the](/post/the/) [ground](/post/ground/)."
 
 ## Phrases
-- "[Grow](/en/post/grow/) [a](/en/post/a/) [plant](/en/post/plant/)"
-- "[Plant](/en/post/plant/) [life](/en/post/life/)"
-- "[Seed](/en/post/seed/) [a](/en/post/a/) [plant](/en/post/plant/)"
+- "[Grow](/post/grow/) [a](/post/a/) [plant](/post/plant/)"
+- "[Plant](/post/plant/) [life](/post/life/)"
+- "[Seed](/post/seed/) [a](/post/a/) [plant](/post/plant/)"
 - "Plant-based diet"
-- "[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [green](/en/post/green/) [thumb](/en/post/thumb/)"
+- "[To](/post/to/) [have](/post/have/) [a](/post/a/) [green](/post/green/) [thumb](/post/thumb/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) spent [his](/en/post/his/) [day](/en/post/day/) planting rows [of](/en/post/of/) [corn](/en/post/corn/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) architect designed [a](/en/post/a/) [building](/en/post/building/) [that](/en/post/that/) [would](/en/post/would/) [blend](/en/post/blend/) seamlessly [into](/en/post/into/) [the](/en/post/the/) surrounding [plant](/en/post/plant/) [life](/en/post/life/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) antique [vase](/en/post/vase/) was firmly planted [on](/en/post/on/) [the](/en/post/the/) mantlepiece."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) spent [his](/post/his/) [day](/post/day/) planting rows [of](/post/of/) [corn](/post/corn/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) architect designed [a](/post/a/) [building](/post/building/) [that](/post/that/) [would](/post/would/) [blend](/post/blend/) seamlessly [into](/post/into/) [the](/post/the/) surrounding [plant](/post/plant/) [life](/post/life/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) antique [vase](/post/vase/) was firmly planted [on](/post/on/) [the](/post/the/) mantlepiece."
 
 ## Synonyms
 - Herb

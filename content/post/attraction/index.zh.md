@@ -11,23 +11,23 @@ keywords = ['ai words', 'attraction']
 /əˈtrækʃən/
 
 ## 释义
-- **名词**: 引力；吸引力。例如: "[The](/post/the/) [force](/post/force/) [of](/post/of/) [gravity](/post/gravity/) is [a](/post/a/) [fundamental](/post/fundamental/) [attraction](/post/attraction/) [between](/post/between/) objects."
-- **名词**: 吸引力的事物；魅力。例如: "[The](/post/the/) Eiffel [Tower](/post/tower/) is [a](/post/a/) [major](/post/major/) [tourist](/post/tourist/) [attraction](/post/attraction/) [in](/post/in/) Paris."
-- **名词**: (尤指异性间的)吸引；魅力。例如: "[There](/post/there/) was an [instant](/post/instant/) [attraction](/post/attraction/) [between](/post/between/) [them](/post/them/) [when](/post/when/) [they](/post/they/) [first](/post/first/) met."
+- **名词**: 引力；吸引力。例如: "[The](/zh/post/the/) [force](/zh/post/force/) [of](/zh/post/of/) [gravity](/zh/post/gravity/) is [a](/zh/post/a/) [fundamental](/zh/post/fundamental/) [attraction](/zh/post/attraction/) [between](/zh/post/between/) objects."
+- **名词**: 吸引力的事物；魅力。例如: "[The](/zh/post/the/) Eiffel [Tower](/zh/post/tower/) is [a](/zh/post/a/) [major](/zh/post/major/) [tourist](/zh/post/tourist/) [attraction](/zh/post/attraction/) [in](/zh/post/in/) Paris."
+- **名词**: (尤指异性间的)吸引；魅力。例如: "[There](/zh/post/there/) was an [instant](/zh/post/instant/) [attraction](/zh/post/attraction/) [between](/zh/post/between/) [them](/zh/post/them/) [when](/zh/post/when/) [they](/zh/post/they/) [first](/zh/post/first/) met."
 
 ## 短语
-- "[Attraction](/post/attraction/) [to](/post/to/) [someone](/post/someone/)" 指对某人的吸引力或喜爱。
-- "[Natural](/post/natural/) [attraction](/post/attraction/)" 指自然界的吸引力，如瀑布、山脉等。
-- "Cultural [attraction](/post/attraction/)" 指文化景点，如博物馆、历史遗迹。
+- "[Attraction](/zh/post/attraction/) [to](/zh/post/to/) [someone](/zh/post/someone/)" 指对某人的吸引力或喜爱。
+- "[Natural](/zh/post/natural/) [attraction](/zh/post/attraction/)" 指自然界的吸引力，如瀑布、山脉等。
+- "Cultural [attraction](/zh/post/attraction/)" 指文化景点，如博物馆、历史遗迹。
 
 ## 例句
-- 名词: "[The](/post/the/) museum's [new](/post/new/) [exhibit](/post/exhibit/) has [become](/post/become/) [a](/post/a/) [big](/post/big/) [attraction](/post/attraction/) [for](/post/for/) visitors."
-- 名词: "[Her](/post/her/) [smile](/post/smile/) [and](/post/and/) charisma were [a](/post/a/) [great](/post/great/) [attraction](/post/attraction/) [on](/post/on/) [stage](/post/stage/)."
-- 名词: "[Their](/post/their/) shared [love](/post/love/) [for](/post/for/) [music](/post/music/) was [the](/post/the/) [initial](/post/initial/) [attraction](/post/attraction/) [between](/post/between/) [them](/post/them/)."
+- 名词: "[The](/zh/post/the/) museum's [new](/zh/post/new/) [exhibit](/zh/post/exhibit/) has [become](/zh/post/become/) [a](/zh/post/a/) [big](/zh/post/big/) [attraction](/zh/post/attraction/) [for](/zh/post/for/) visitors."
+- 名词: "[Her](/zh/post/her/) [smile](/zh/post/smile/) [and](/zh/post/and/) charisma were [a](/zh/post/a/) [great](/zh/post/great/) [attraction](/zh/post/attraction/) [on](/zh/post/on/) [stage](/zh/post/stage/)."
+- 名词: "[Their](/zh/post/their/) shared [love](/zh/post/love/) [for](/zh/post/for/) [music](/zh/post/music/) was [the](/zh/post/the/) [initial](/zh/post/initial/) [attraction](/zh/post/attraction/) [between](/zh/post/between/) [them](/zh/post/them/)."
 
 ## 同义词
-- [Appeal](/post/appeal/)
+- [Appeal](/zh/post/appeal/)
 - Fascination
-- [Draw](/post/draw/)
+- [Draw](/zh/post/draw/)
 -魅力
 - Enchantment
